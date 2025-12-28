@@ -2,10 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/de/blutlinien-waehlen/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/de/boas-staffordshire-bull-terrier-atmung/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -27,6 +23,10 @@
                 hreflang="de"
                 href="http://localhost:1313/de/faq-staffordshire-bull-terrier/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/de/staffy-rassestandard/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/de/staffy-gentests-l2hga-hc/</loc>
     <changefreq>weekly</changefreq>
@@ -55,6 +55,10 @@
                 href="http://localhost:1313/de/impressum/"
                 />
   </url><url>
+    <loc>http://localhost:1313/de/staffy-gefaehrliche-rasse-gesetz/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/de/kontakt/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -63,7 +67,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/de/staffy-gefaehrliche-rasse-gesetz/</loc>
+    <loc>http://localhost:1313/de/staffy-reisen-transport/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -113,27 +117,15 @@
                 href="http://localhost:1313/de/blog/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/huendinnen-staffordshire-bull-terrier/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/de/rueden-staffordshire-bull-terrier/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/de/staffy-blutlinien-guide/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/de/staffy-rassestandard/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/de/staffy-reisen-transport/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/de/staffy-aeltere-besitzer/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/de/huendinnen-staffordshire-bull-terrier/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -145,15 +137,15 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/de/staffy-pitbull-amstaff-unterschied/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/de/staffy-zahnpflege/</loc>
+    <loc>http://localhost:1313/de/rueden-staffordshire-bull-terrier/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/de/ueber-uns/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/de/staffy-pitbull-amstaff-unterschied/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -193,7 +185,15 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/de/blutlinien-waehlen/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/de/wuerfe-staffordshire-bull-terrier/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/de/staffy-zahnpflege/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

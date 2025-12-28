@@ -1,45 +1,104 @@
 ---
-title: "Choosing Bloodlines"
-description: "How to evaluate and choose Staffordshire Bull Terrier bloodlines: what to look for, questions to ask, and balancing type with health."
+title: "How to Choose Staffy Bloodlines"
+description: "Practical guide to choosing the right Staffordshire Bull Terrier bloodline for your needs: show, companion, temperament considerations."
 slug: "choosing-bloodlines"
 custom_content: |
   <section class="hero">
-  <div class="hero-visual"><div class="hero-image">
-  <img src="/images/blog/standard-tipicita-morfologia-hero.webp" alt="Choosing Staffy bloodlines" width="800" height="600" fetchpriority="high">
-  </div></div>
+  <div class="hero-visual">
+  <div class="hero-image">
+  <img src="/images/blog/standard-2.webp" alt="Choosing Staffordshire Bull Terrier bloodlines" width="800" height="600" fetchpriority="high">
+  </div>
+  </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Standard</span>
+  <span class="hero-eyebrow">Standards and Bloodlines</span>
   <h1 class="hero-title">Choosing <em>Bloodlines</em></h1>
-  <p class="hero-subtitle">Making informed decisions</p>
+  <p class="hero-subtitle">Finding the right Staffy for you</p>
+  <div class="hero-meta">
+  <span>📅 November 27, 2025</span>
+  <span>⏱️ 8 min read</span>
+  </div>
   </div>
   </section>
+  
   <nav class="breadcrumb" aria-label="Breadcrumb">
-  <a href="/en/">Home</a> › <a href="/en/blog/">Blog</a> › <span>Choosing Bloodlines</span>
+  <a href="/en/" title="Home">Home</a> ›
+  <a href="/en/blog/" title="Blog">Blog</a> ›
+  <span>Choosing Bloodlines</span>
   </nav>
-  <div class="article-container"><article class="article-content">
-  <div class="lead"><strong>In brief:</strong> Choosing the right bloodline means looking beyond flashy names to examine health, temperament and structure. A knowledgeable breeder helps match you with the right type.</div>
-  <h2>What to evaluate</h2>
+  
+  <div class="article-container">
+  <article class="article-content">
+  
+  <div class="lead">
+  <strong>In brief:</strong> Whether you want a show dog, family companion, or both, understanding bloodlines helps you find the perfect Staffordshire Bull Terrier. The key is matching the line's characteristics to your goals and lifestyle.
+  </div>
+  
+  <h2>Define Your Goals</h2>
+  
+  <p>Before choosing a bloodline, consider:</p>
+  
   <ul>
-  <li><strong>Health history:</strong> Longevity in the line, health test results across generations</li>
-  <li><strong>Temperament:</strong> Consistent good temperaments, not just champion titles</li>
-  <li><strong>Structure:</strong> Sound movement, balanced proportions</li>
-  <li><strong>Breeder knowledge:</strong> Deep understanding of their lines' strengths and weaknesses</li>
+  <li><strong>Show dog?</strong> Look for lines with strong show records</li>
+  <li><strong>Family companion?</strong> Prioritize temperament reputation</li>
+  <li><strong>Future breeding?</strong> Consider pedigree strength and health testing</li>
+  <li><strong>Activity partner?</strong> Some lines are more athletic</li>
   </ul>
-  <h2>Questions to ask</h2>
+  
+  <h2>What to Look For</h2>
+  
+  <h3>Health History</h3>
+  
+  <p>The most important consideration:</p>
+  
   <ul>
-  <li>What health testing is done on breeding dogs?</li>
-  <li>What is the typical lifespan in this line?</li>
-  <li>Can I meet adult dogs from previous litters?</li>
-  <li>What traits are you selecting for?</li>
+  <li>L2-HGA and HC testing throughout the line</li>
+  <li>Longevity of dogs in the pedigree</li>
+  <li>Known health issues in the line</li>
   </ul>
-  <h2>Red flags</h2>
+  
+  <h3>Temperament</h3>
+  
+  <p>Different lines may have subtle temperament variations:</p>
+  
   <ul>
-  <li>Focus only on extreme type without health consideration</li>
-  <li>No knowledge of dogs beyond immediate parents</li>
-  <li>Breeding primarily for color or rare traits</li>
+  <li>Energy level</li>
+  <li>Sociability with other dogs</li>
+  <li>Trainability</li>
+  <li>Confidence level</li>
   </ul>
-  <div class="callout"><p class="callout-title">🐾 Breeder's advice</p>
-  <p>We maintain detailed records of our lines going back generations. We're happy to discuss the reasoning behind each breeding and what we expect from specific combinations.</p></div>
-  <div class="article-footer"><a class="btn" href="/en/blog/">&larr; Back to Blog</a></div>
-  </article></div>
+  
+  <h3>Physical Type</h3>
+  
+  <p>While all should meet the standard, lines may differ in:</p>
+  
+  <ul>
+  <li>Size within the standard range</li>
+  <li>Head type</li>
+  <li>Substance and bone</li>
+  <li>Movement style</li>
+  </ul>
+  
+  <h2>Questions for the Breeder</h2>
+  
+  <p>Ask potential breeders:</p>
+  
+  <ol>
+  <li>Why did you choose this bloodline?</li>
+  <li>What are the line's strengths and weaknesses?</li>
+  <li>What health testing is done?</li>
+  <li>Can I meet adult dogs from this line?</li>
+  <li>What are typical temperaments?</li>
+  </ol>
+  
+  <div class="callout">
+  <p class="callout-title">🐕 Our Approach</p>
+  <p>At <a href="/en/">Del Piccolo Diavolo</a>, we've carefully selected <strong>Elitebull</strong> and <strong>Lackyle</strong> bloodlines for their balance of type, health and temperament. We're happy to discuss which of our dogs might be the best match for your family. <a href="/en/contact/">Contact us</a> to learn more.</p>
+  </div>
+  
+  <div class="article-footer">
+  <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
+  </div>
+  
+  </article>
+  </div>
 ---

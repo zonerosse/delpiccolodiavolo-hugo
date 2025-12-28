@@ -1,44 +1,123 @@
 ---
-title: "Staffy vs Pitbull vs AmStaff"
-description: "Die Unterschiede zwischen Staffordshire Bull Terrier, American Pit Bull Terrier und American Staffordshire Terrier verstehen."
+title: "Unterschied zwischen Staffordshire Bull Terrier, Pitbull und Amstaff"
+description: "Vollständiger Leitfaden zur Unterscheidung von Staffordshire Bull Terrier, American Pit Bull Terrier und American Staffordshire Terrier: Herkunft, Größe, FCI-Standard."
 slug: "staffy-pitbull-amstaff-unterschied"
 custom_content: |
   <section class="hero">
-  <div class="hero-visual"><div class="hero-image">
-  <img src="/images/blog/hero-default.webp" alt="Staffy vs Pitbull vs AmStaff Vergleich" width="800" height="600" fetchpriority="high">
-  </div></div>
+  <div class="hero-visual">
+  <div class="hero-image">
+  <img src="/images/blog/hero-default.webp" alt="Unterschied Staffordshire Bull Terrier Pitbull Amstaff" width="800" height="600" fetchpriority="high">
+  </div>
+  </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Standard</span>
-  <h1 class="hero-title">Staffy vs Pitbull vs <em>AmStaff</em></h1>
-  <p class="hero-subtitle">Die Unterschiede verstehen</p>
+  <span class="hero-eyebrow">Standards und Blutlinien</span>
+  <h1 class="hero-title">Unterschied <em>Staffy</em>, Pitbull, Amstaff</h1>
+  <p class="hero-subtitle">Vollständiger Leitfaden zur Unterscheidung der drei Rassen</p>
+  <div class="hero-meta">
+  <span>📅 19. November 2025</span>
+  <span>⏱️ 12 Min. Lesezeit</span>
+  </div>
   </div>
   </section>
+  
   <nav class="breadcrumb" aria-label="Breadcrumb">
-  <a href="/de/">Startseite</a> › <a href="/de/blog/">Blog</a> › <span>Rassenunterschiede</span>
+  <a href="/de/" title="Home">Home</a> ›
+  <a href="/de/blog/" title="Blog">Blog</a> ›
+  <span>Staffy, Pitbull, Amstaff Unterschied</span>
   </nav>
-  <div class="article-container"><article class="article-content">
-  <div class="lead"><strong>Kurz gesagt:</strong> Trotz oberflächlicher Ähnlichkeiten sind Staffordshire Bull Terrier, American Pit Bull Terrier und American Staffordshire Terrier unterschiedliche Rassen mit verschiedenen Geschichten und Größen.</div>
-  <h2>Staffordshire Bull Terrier</h2>
+  
+  <div class="article-container">
+  <article class="article-content">
+  
+  <div class="lead">
+  <strong>Kurz gesagt:</strong> <a href="/de/">Staffordshire Bull Terrier</a>, American Pit Bull Terrier und American Staffordshire Terrier sind drei verschiedene Rassen, die oft verwechselt werden. Der <strong>Staffy</strong> ist der kleinste (max. 17 kg), der <strong>Amstaff</strong> der größte und muskulöseste (bis 35 kg), während der <strong>Pit Bull</strong> (APBT) nicht von der FCI anerkannt ist.
+  </div>
+  
+  <h2>Warum werden diese Rassen verwechselt?</h2>
+  
+  <p>Alle drei Rassen stammen vom gleichen Ursprung ab: den "Bull and Terrier" Hunden des 19. Jahrhunderts in England, Kreuzungen zwischen Bulldoggen und verschiedenen Terriern.</p>
+  
+  <figure class="article-image img-left">
+  <img src="/images/tikus-2.webp" alt="Staffordshire Bull Terrier" loading="lazy" decoding="async" width="400" height="400">
+  <figcaption>Staffordshire Bull Terrier</figcaption>
+  </figure>
+  
+  <h2>Historische Ursprünge</h2>
+  
+  <h3>Staffordshire Bull Terrier: Die britische Rasse</h3>
+  
+  <p>Der <strong>Staffordshire Bull Terrier</strong> entwickelte sich in der Region Staffordshire in England. 1935 wurde er offiziell vom British Kennel Club anerkannt. Die FCI erkennt ihn mit dem <strong>Standard Nr. 76</strong> an.</p>
+  
+  <h3>Amerikanische Rassen: Pit Bull und Amstaff</h3>
+  
+  <p><strong>American Pit Bull Terrier (APBT):</strong> Vom UKC 1898 anerkannt. Der APBT ist <strong>NICHT von der FCI anerkannt</strong>.</p>
+  
+  <p><strong>American Staffordshire Terrier:</strong> 1936 vom AKC anerkannt. Die FCI erkennt ihn mit <strong>Standard Nr. 286</strong> an.</p>
+  
+  <h2>Physischer Vergleich: Unterschiede-Tabelle</h2>
+  
+  <table>
+  <thead>
+  <tr>
+  <th>Merkmal</th>
+  <th>Staffordshire Bull Terrier</th>
+  <th>American Pit Bull Terrier</th>
+  <th>American Staffordshire Terrier</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><strong>Höhe Rüden</strong></td>
+  <td>35,5 - 40,5 cm</td>
+  <td>45 - 53 cm</td>
+  <td>46 - 48 cm</td>
+  </tr>
+  <tr>
+  <td><strong>Gewicht Rüden</strong></td>
+  <td>12,7 - 17 kg</td>
+  <td>15 - 27 kg</td>
+  <td>25 - 35 kg</td>
+  </tr>
+  <tr>
+  <td><strong>FCI-Anerkennung</strong></td>
+  <td>✅ Standard Nr. 76</td>
+  <td>❌ Nicht anerkannt</td>
+  <td>✅ Standard Nr. 286</td>
+  </tr>
+  <tr>
+  <td><strong>Herkunftsland</strong></td>
+  <td>Großbritannien</td>
+  <td>USA</td>
+  <td>USA</td>
+  </tr>
+  </tbody>
+  </table>
+  
+  <h2>Charakter und Temperament</h2>
+  
+  <h3>Staffordshire Bull Terrier</h3>
+  
+  <p>Der FCI-Standard beschreibt das Temperament des Staffy als: "Traditionell von unbezwingbarem Mut und Zähigkeit. Hochintelligent und liebevoll, besonders mit Kindern." Der Staffy wird "Nanny Dog" genannt.</p>
+  
+  <h2>Welche Rasse wählen?</h2>
+  
+  <h3>Wählen Sie den Staffordshire Bull Terrier wenn:</h3>
   <ul>
-  <li><strong>Herkunft:</strong> England (Staffordshire Region)</li>
-  <li><strong>Größe:</strong> 35,5-40,5 cm, 11-17 kg - kleinste der drei</li>
-  <li><strong>Anerkennung:</strong> FCI, KC, AKC anerkannt</li>
-  <li><strong>Charakter:</strong> Liebevoller "Kindermädchen-Hund"</li>
+  <li>Sie einen mittelkleinen Hund (max. 17 kg) wollen, der in einer Wohnung geeignet ist</li>
+  <li>Sie einen Hund mit Stammbaum und Zuchtgarantien suchen</li>
+  <li>Sie Kinder haben: der Staffy ist traditionell hervorragend mit Kleinen</li>
+  <li>Sie eine Rasse mit weniger rechtlichen Problemen bevorzugen</li>
   </ul>
-  <h2>American Pit Bull Terrier (APBT)</h2>
-  <ul>
-  <li><strong>Herkunft:</strong> USA</li>
-  <li><strong>Größe:</strong> 43-53 cm, 14-27 kg</li>
-  <li><strong>Anerkennung:</strong> UKC anerkannt, NICHT AKC</li>
-  </ul>
-  <h2>American Staffordshire Terrier (AmStaff)</h2>
-  <ul>
-  <li><strong>Herkunft:</strong> USA</li>
-  <li><strong>Größe:</strong> 43-48 cm, 18-32 kg</li>
-  <li><strong>Anerkennung:</strong> AKC, FCI anerkannt</li>
-  </ul>
-  <h2>Warum es wichtig ist</h2>
-  <p>Rassenspezifische Gesetzgebung verwechselt oft diese Rassen. Ein Staffordshire Bull Terrier ist rechtlich unterschieden und typischerweise von Beschränkungen gegen "Pitbull-Typen" ausgenommen.</p>
-  <div class="article-footer"><a class="btn" href="/de/blog/">&larr; Zurück zum Blog</a></div>
-  </article></div>
+  
+  <div class="callout">
+  <p class="callout-title">🏆 Unsere Empfehlung</p>
+  <p>In unserer <a href="/de/">Zucht Del Piccolo Diavolo</a> haben wir uns ausschließlich dem <strong>Staffordshire Bull Terrier</strong> gewidmet: klarer FCI-Standard, kontrollierte Selektion mit Gentests (L2-HGA, HC), ideale Größe für modernes Familienleben. Unsere <a href="/de/welpen-staffordshire-bull-terrier/">Welpen</a> stammen aus dokumentierten englischen und irischen <a href="/de/staffy-blutlinien-guide/">Blutlinien</a>.</p>
+  </div>
+  
+  <div class="article-footer">
+  <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
+  </div>
+  
+  </article>
+  </div>
 ---
