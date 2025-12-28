@@ -69,3 +69,12 @@ other = "Alle Rechte vorbehalten."
 
 [leggi_tutto]
 other = "Weiterlesen"
+
+[link_privacy]
+other = "datenschutz"
+
+[link_legali]
+other = "impressum"
+
+[link_contatti]
+other = "kontakt"

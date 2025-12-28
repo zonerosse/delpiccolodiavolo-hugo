@@ -182,3 +182,17 @@
 # ===================================================
 # FINE REDIRECT
 # ===================================================
+
+# ---------------------------------------------------
+# REDIRECT PAGINE EN
+# ---------------------------------------------------
+/en/legal-notice /en/legal-notice/ 301
+/en/contact /en/contact/ 301
+/en/privacy-policy /en/privacy-policy/ 301
+
+# ---------------------------------------------------
+# REDIRECT PAGINE DE
+# ---------------------------------------------------
+/de/datenschutz /de/datenschutz/ 301
+/de/impressum /de/impressum/ 301
+/de/kontakt /de/kontakt/ 301

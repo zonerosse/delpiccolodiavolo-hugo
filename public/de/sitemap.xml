@@ -10,7 +10,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/de/privacy-policy/</loc>
+    <loc>http://localhost:1313/de/datenschutz/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -22,7 +22,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/de/note-legali/</loc>
+    <loc>http://localhost:1313/de/impressum/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -33,15 +33,15 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/note-legali/"
+                href="http://localhost:1313/en/legal-notice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/note-legali/"
+                href="http://localhost:1313/de/impressum/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/allevamento-staffordshire-bull-terrier-in-emilia-romagna/</loc>
+    <loc>http://localhost:1313/de/kontakt/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>

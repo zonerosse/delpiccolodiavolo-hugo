@@ -48,3 +48,18 @@ other = "Hi Paolo, I'm contacting you from Del Piccolo Diavolo website"
 
 [leggi_tutto]
 other = "Read more"
+
+[link_privacy]
+other = "privacy-policy"
+
+[link_legali]
+other = "legal-notice"
+
+[link_contatti]
+other = "contact"
+
+[blog]
+other = "Blog"
+
+[faq]
+other = "FAQ"

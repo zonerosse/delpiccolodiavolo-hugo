@@ -1,7 +1,7 @@
 ---
 title: "Legal Notice"
 description: "Legal notice of Del Piccolo Diavolo kennel. Owner information and terms of use."
-slug: "note-legali"
+slug: "legal-notice"
 custom_content: |
   <section class="hero">
   <div class="hero-content" style="max-width:100%">

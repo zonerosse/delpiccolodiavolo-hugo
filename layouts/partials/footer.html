@@ -9,9 +9,9 @@
 </div>
 
 <div class="footer-links">
-<a href="{{ "privacy-policy/" | relLangURL }}" title="{{ T "privacy" }}">{{ T "privacy" }}</a>
-<a href="{{ "note-legali/" | relLangURL }}" title="{{ T "note_legali" }}">{{ T "note_legali" }}</a>
-<a href="{{ "allevamento-staffordshire-bull-terrier-in-emilia-romagna/" | relLangURL }}" title="{{ T "contatti" }}">{{ T "contatti" }}</a>
+<a href="{{ printf "%s/" (T "link_privacy") | relLangURL }}" title="{{ T "privacy" }}">{{ T "privacy" }}</a>
+<a href="{{ printf "%s/" (T "link_legali") | relLangURL }}" title="{{ T "note_legali" }}">{{ T "note_legali" }}</a>
+<a href="{{ printf "%s/" (T "link_contatti") | relLangURL }}" title="{{ T "contatti" }}">{{ T "contatti" }}</a>
 </div>
 
 <p style="margin-top:1.5rem;font-size:.75rem;opacity:1">© {{ now.Year }} Del Piccolo Diavolo. {{ T "diritti" }}</p>
