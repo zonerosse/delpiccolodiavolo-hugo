@@ -50,6 +50,9 @@
   <script type="application/ld+json">{{ . | safeJS }}</script>
   {{ end }}
 
+  {{/* Schema.org Microdata */}}
+  {{ partial "schema.html" . }}
+
   {{ partial "css.html" . }}
 </head>
 <body>

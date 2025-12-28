@@ -1,0 +1,254 @@
+{{/* Schema.org JSON-LD - Microdata completi multilingua */}}
+
+{{/* Variabili per lingua */}}
+{{ $lang := .Site.Language.Lang }}
+{{ $siteName := "Allevamento Del Piccolo Diavolo" }}
+{{ $siteNameAlt := "Del Piccolo Diavolo Kennel" }}
+{{ if eq $lang "en" }}{{ $siteName = "Del Piccolo Diavolo Kennel" }}{{ $siteNameAlt = "Staffordshire Bull Terrier Breeder Italy" }}{{ end }}
+{{ if eq $lang "de" }}{{ $siteName = "Zucht Del Piccolo Diavolo" }}{{ $siteNameAlt = "Staffordshire Bull Terrier Züchter Italien" }}{{ end }}
+
+{{ $baseURL := "https://delpiccolodiavolo.it" }}
+{{ $currentURL := .Permalink }}
+
+<!-- JSON-LD: WebSite -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "{{ $baseURL }}/#website",
+  "name": "{{ $siteName }}",
+  "alternateName": "{{ $siteNameAlt }}",
+  "url": "{{ $baseURL }}{{ if ne $lang "it" }}/{{ $lang }}/{{ end }}",
+  "inLanguage": "{{ $lang }}",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{{ $baseURL }}/?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+<!-- JSON-LD: Organization + LocalBusiness -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": ["Organization", "LocalBusiness"],
+  "@id": "{{ $baseURL }}/#organization",
+  "name": "Allevamento Del Piccolo Diavolo",
+  "alternateName": "Del Piccolo Diavolo",
+  "url": "{{ $baseURL }}/",
+  "logo": "{{ $baseURL }}/images/logo.webp",
+  "image": "{{ $baseURL }}/images/tikus-bologna.avif",
+  "telephone": "+393924635584",
+  "email": "zonerosse@gmail.com",
+  "priceRange": "€€",
+  "sameAs": [
+    "https://www.facebook.com/delpiccolodiavolo",
+    "https://www.youtube.com/@Staffordshiredelpiccolodiavolo",
+    "https://wa.me/393924635584"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via A. Chierici 12",
+    "addressLocality": "Ostellato",
+    "addressRegion": "FE",
+    "postalCode": "44020",
+    "addressCountry": "IT"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.7447,
+    "longitude": 11.9456
+  },
+  "areaServed": [
+    {"@type": "Country", "name": "Italy"},
+    {"@type": "Country", "name": "Germany"},
+    {"@type": "Country", "name": "Austria"},
+    {"@type": "Country", "name": "Switzerland"},
+    {"@type": "Place", "name": "Europe"}
+  ],
+  "foundingDate": "2013",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "47",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "author": {"@type": "Person", "name": "Cristian Ferroci"},
+      "reviewRating": {"@type": "Rating", "ratingValue": "5", "bestRating": "5"},
+      "reviewBody": "{{ if eq $lang "de" }}Paolo ist eine Garantie für diese Rasse. Welpen im Haus aufgezogen, kontinuierliche Unterstützung und große Kompetenz.{{ else if eq $lang "en" }}Paolo is a guarantee for this breed. Puppies raised at home, continuous support and great expertise.{{ else }}Paolo è una garanzia per questa razza. Cuccioli cresciuti in casa, supporto continuo e grande competenza.{{ end }}"
+    },
+    {
+      "@type": "Review",
+      "author": {"@type": "Person", "name": "Manu Nannetti"},
+      "reviewRating": {"@type": "Rating", "ratingValue": "5", "bestRating": "5"},
+      "reviewBody": "{{ if eq $lang "de" }}Liebe auf den ersten Blick existiert… vertrauen Sie uns. Professionalität, Leidenschaft und ausgeglichene, gesunde Welpen.{{ else if eq $lang "en" }}Love at first sight exists... trust us. Professionalism, passion and balanced, healthy puppies.{{ else }}L'amore a prima vista esiste… fidatevi. Professionalità, passione e cuccioli equilibrati e sani.{{ end }}"
+    }
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+393924635584",
+    "email": "zonerosse@gmail.com",
+    "contactType": "customer service",
+    "areaServed": ["IT", "DE", "AT", "CH", "EU"],
+    "availableLanguage": ["Italian", "English", "German"]
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    "opens": "09:00",
+    "closes": "20:00"
+  }
+}
+</script>
+
+<!-- JSON-LD: BreadcrumbList -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ $baseURL }}{{ if ne $lang "it" }}/{{ $lang }}/{{ end }}"
+    }
+    {{ if .Title }}
+    ,{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ .Title }}",
+      "item": "{{ $currentURL }}"
+    }
+    {{ end }}
+  ]
+}
+</script>
+
+{{/* FAQPage solo per pagine FAQ */}}
+{{ if or (in .RelPermalink "faq") (in .Title "FAQ") (in .Title "Domande") (in .Title "Fragen") }}
+<!-- JSON-LD: FAQPage -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "{{ if eq $lang "de" }}Warum einen Staffordshire Bull Terrier wählen?{{ else if eq $lang "en" }}Why choose a Staffordshire Bull Terrier?{{ else }}Perché scegliere lo Staffordshire Bull Terrier?{{ end }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ if eq $lang "de" }}Ausgeglichene, intelligente und treue Rasse. Bekannt für Geduld mit Kindern und tiefe Bindung zur Familie.{{ else if eq $lang "en" }}Balanced, intelligent and devoted breed. Known for patience with children and deep bond with family.{{ else }}Razza equilibrata, intelligente e devota. Nota per la pazienza con i bambini e il legame profondo con la famiglia.{{ end }}"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "{{ if eq $lang "de" }}Wie werden die Welpen aufgezogen?{{ else if eq $lang "en" }}How are the puppies raised?{{ else }}Come vengono cresciuti i cuccioli?{{ end }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ if eq $lang "de" }}Familiäre Umgebung, sauber und anregend. Frühe Sozialisierung mit Menschen, Haushaltsgeräuschen und anderen Hunden.{{ else if eq $lang "en" }}Family environment, clean and stimulating. Early socialization with people, household noises and other dogs.{{ else }}Ambiente familiare, pulito e stimolante. Socializzazione precoce con persone, rumori domestici e altri cani.{{ end }}"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "{{ if eq $lang "de" }}Welche Garantien bieten Sie?{{ else if eq $lang "en" }}What guarantees do you offer?{{ else }}Quali garanzie offriamo?{{ end }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ if eq $lang "de" }}Zertifizierter Stammbaum, Mikrochip, Gesundheitsheft, Impfungen und Entwurmungen. Kontinuierliche Unterstützung vor und nach der Adoption.{{ else if eq $lang "en" }}Certified pedigree, microchip, health booklet, vaccinations and deworming. Continuous support before and after adoption.{{ else }}Pedigree certificato, microchip, libretto sanitario, vaccinazioni e sverminazioni. Supporto continuo pre e post adozione.{{ end }}"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "{{ if eq $lang "de" }}Kann ich einen Staffordshire Bull Terrier Welpen reservieren?{{ else if eq $lang "en" }}Can I reserve a Staffordshire Bull Terrier puppy?{{ else }}Posso prenotare un cucciolo di Staffordshire Bull Terrier?{{ end }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ if eq $lang "de" }}Ja, wir akzeptieren Reservierungen für zukünftige Würfe mit Anzahlung. Updates zum Wachstum und Besuche nach Terminvereinbarung.{{ else if eq $lang "en" }}Yes, we accept reservations for future litters with deposit. Growth updates and visits by appointment.{{ else }}Sì, accettiamo prenotazioni per le future cucciolate con caparra. Aggiornamenti sulla crescita e visite su appuntamento.{{ end }}"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "{{ if eq $lang "de" }}Wie viel kostet ein Welpe mit ENCI-Stammbaum?{{ else if eq $lang "en" }}How much does a puppy with ENCI pedigree cost?{{ else }}Quanto costa un cucciolo con pedigree ENCI?{{ end }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ if eq $lang "de" }}Ein Welpe von einer seriösen Zucht mit ENCI-Stammbaum, Gentests und Gesundheitsgarantien kostet zwischen 1.400€ und 2.000€.{{ else if eq $lang "en" }}A puppy from a serious kennel with ENCI pedigree, genetic tests and health guarantees costs between €1,400 and €2,000.{{ else }}Un cucciolo da allevamento serio con pedigree ENCI, test genetici e garanzie sulla salute costa tra 1.400€ e 2.000€.{{ end }}"
+      }
+    }
+  ]
+}
+</script>
+{{ end }}
+
+{{/* Article/BlogPosting per articoli blog */}}
+{{ if or (in .RelPermalink "blog") (eq .Section "blog") (in .File.Path "cuccioli-") (in .File.Path "famiglia-") (in .File.Path "salute-") (in .File.Path "staffy-") (in .File.Path "standard-") (in .File.Path "test-") (in .File.Path "differenza-") (in .File.Path "linee-") (in .File.Path "puppy-") (in .File.Path "welpen-") }}
+{{ if ne .IsHome true }}
+<!-- JSON-LD: Article -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "image": "{{ $baseURL }}/images/tikus-bologna.avif",
+  "author": {
+    "@type": "Person",
+    "name": "Paolo Boldrini",
+    "url": "{{ $baseURL }}/{{ if eq $lang "en" }}en/about-us/{{ else if eq $lang "de" }}de/ueber-uns/{{ else }}chi-siamo/{{ end }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Allevamento Del Piccolo Diavolo",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ $baseURL }}/images/logo.webp"
+    }
+  },
+  "datePublished": "{{ .Date.Format "2006-01-02" | default "2024-01-01" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02" | default "2025-01-01" }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ $currentURL }}"
+  },
+  "inLanguage": "{{ $lang }}"
+}
+</script>
+{{ end }}
+{{ end }}
+
+{{/* Product per pagine cuccioli/cucciolate */}}
+{{ if or (in .RelPermalink "cuccioli") (in .RelPermalink "cucciolate") (in .RelPermalink "puppies") (in .RelPermalink "litters") (in .RelPermalink "welpen") (in .RelPermalink "wuerfe") }}
+<!-- JSON-LD: Product -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "{{ if eq $lang "de" }}Staffordshire Bull Terrier Welpen{{ else if eq $lang "en" }}Staffordshire Bull Terrier Puppies{{ else }}Cuccioli Staffordshire Bull Terrier{{ end }}",
+  "description": "{{ .Description }}",
+  "image": "{{ $baseURL }}/images/tikus-bologna.avif",
+  "brand": {
+    "@type": "Brand",
+    "name": "Del Piccolo Diavolo"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "{{ $currentURL }}",
+    "priceCurrency": "EUR",
+    "priceRange": "1400-2000",
+    "availability": "https://schema.org/PreOrder",
+    "seller": {
+      "@type": "Organization",
+      "name": "Allevamento Del Piccolo Diavolo"
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "47"
+  }
+}
+</script>
+{{ end }}
