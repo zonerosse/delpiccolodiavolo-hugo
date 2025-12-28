@@ -1,0 +1,58 @@
+baseURL = "https://delpiccolodiavolo.it/"
+title = "Del Piccolo Diavolo"
+defaultContentLanguage = "it"
+defaultContentLanguageInSubdir = false
+
+# Disabilita generazione automatica di alcune pagine
+disableKinds = ["taxonomy", "term", "RSS"]
+
+# Abilita sitemap
+enableRobotsTXT = false
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[languages]
+  [languages.it]
+    languageCode = "it"
+    languageName = "Italiano"
+    weight = 1
+    contentDir = "content/it"
+    [languages.it.params]
+      description = "Allevamento etico di Staffordshire Bull Terrier. Cuccioli sani, equilibrati e con pedigree."
+  
+  [languages.en]
+    languageCode = "en"
+    languageName = "English"
+    weight = 2
+    contentDir = "content/en"
+    [languages.en.params]
+      description = "Ethical Staffordshire Bull Terrier breeding. Healthy, balanced puppies with pedigree."
+  
+  [languages.de]
+    languageCode = "de"
+    languageName = "Deutsch"
+    weight = 3
+    contentDir = "content/de"
+    [languages.de.params]
+      description = "Ethische Staffordshire Bull Terrier Zucht. Gesunde, ausgeglichene Welpen mit Stammbaum."
+
+[params]
+  phone = "+393924635584"
+  email = "zonerosse@gmail.com"
+  whatsapp = "393924635584"
+  address = "Via A. Chierici 12, Ostellato (FE)"
+  facebook = "https://www.facebook.com/delpiccolodiavolo"
+  youtube = "https://www.youtube.com/@Staffordshiredelpiccolodiavolo"
+  foundingYear = "2013"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML", "sitemap"]
+  page = ["HTML"]

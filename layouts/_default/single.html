@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+{{ if .Params.custom_content }}
+  {{ .Params.custom_content | safeHTML }}
+{{ else }}
+  <div class="page-hero">
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<p>{{ . }}</p>{{ end }}
+  </div>
+
+  <div class="article-content">
+    {{ .Content }}
+  </div>
+
+  <section class="cta-section">
+    <h2>{{ if eq .Site.Language.Lang "en" }}Need more info?{{ else }}Vuoi Info sui Cuccioli?{{ end }}</h2>
+    <p>{{ if eq .Site.Language.Lang "en" }}Contact us on WhatsApp for information about available litters.{{ else }}Chiamaci o scrivici su WhatsApp per informazioni sulle cucciolate disponibili.{{ end }}</p>
+    <a href="https://wa.me/{{ .Site.Params.whatsapp }}?text={{ T "whatsapp_text" | urlquery }}" class="btn" title="WhatsApp">{{ if eq .Site.Language.Lang "en" }}Contact us on WhatsApp{{ else }}Scrivici su WhatsApp{{ end }}</a>
+  </section>
+{{ end }}
+
+{{ end }}

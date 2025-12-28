@@ -1,0 +1,16 @@
+{
+  "name": "Del Piccolo Diavolo",
+  "short_name": "DPD Staffy",
+  "description": "Allevamento Staffordshire Bull Terrier",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#8b5a2b",
+  "icons": [
+    {
+      "src": "/foto/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+[home]
+other = "Home"
+
+[cuccioli]
+other = "Cuccioli"
+
+[cucciolate]
+other = "Cucciolate"
+
+[soggetti]
+other = "Soggetti"
+
+[maschi]
+other = "Maschi"
+
+[femmine]
+other = "Femmine"
+
+[chi_siamo]
+other = "Chi Siamo"
+
+[recensioni]
+other = "Recensioni"
+
+[contatti]
+other = "Contatti"
+
+[privacy]
+other = "Privacy Policy"
+
+[note_legali]
+other = "Note Legali"
+
+[footer_tagline]
+other = "Allevamento Staffordshire Bull Terrier"
+
+[dal]
+other = "Dal"
+
+[diritti]
+other = "Tutti i diritti riservati."
+
+[chiudi]
+other = "Chiudi"
+
+[whatsapp_text]
+other = "Ciao Paolo, ti scrivo dal sito Del Piccolo Diavolo"
+
+[leggi_tutto]
+other = "Leggi tutto"
+
+[blog]
+other = "Blog"
+
+[faq]
+other = "FAQ"

@@ -1,0 +1,58 @@
+<nav class="nav">
+<div class="nav-inner">
+<a href="{{ "/" | relLangURL }}" class="nav-logo" title="{{ T "home" }}">
+<img src="/images/logo.webp" alt="" class="nav-logo-img" width="44" height="44">
+<span class="nav-logo-text">Del <span>Piccolo</span> Diavolo</span>
+</a>
+<ul class="nav-links">
+<li><a href="{{ "/" | relLangURL }}" {{ if .IsHome }}class="active"{{ end }} title="{{ T "home" }}">Home</a></li>
+<li class="dropdown"><a href="#" title="{{ T "cuccioli" }}">{{ T "cuccioli" }}</a><div class="dropdown-menu"><a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "puppies-staffordshire-bull-terrier/" (cond (eq .Site.Language.Lang "de") "welpen-staffordshire-bull-terrier/" "cuccioli-staffordshire-bull-terrier/")) "") | relLangURL }}" title="{{ T "cuccioli" }}">{{ T "cuccioli" }}</a><a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "litters-staffordshire-bull-terrier/" (cond (eq .Site.Language.Lang "de") "wuerfe-staffordshire-bull-terrier/" "cucciolate-staffordshire-bull-terrier/")) "") | relLangURL }}" title="{{ T "cucciolate" }}">{{ T "cucciolate" }}</a></div></li>
+<li class="dropdown"><a href="#" title="{{ T "soggetti" }}">{{ T "soggetti" }}</a><div class="dropdown-menu"><a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "males-staffordshire-bull-terrier/" (cond (eq .Site.Language.Lang "de") "rueden-staffordshire-bull-terrier/" "maschi-staffordshire-bull-terrier/")) "") | relLangURL }}" title="{{ T "maschi" }}">{{ T "maschi" }}</a><a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "females-staffordshire-bull-terrier/" (cond (eq .Site.Language.Lang "de") "huendinnen-staffordshire-bull-terrier/" "femmine-staffordshire-bull-terrier/")) "") | relLangURL }}" title="{{ T "femmine" }}">{{ T "femmine" }}</a></div></li>
+<li><a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "about-us/" (cond (eq .Site.Language.Lang "de") "ueber-uns/" "chi-siamo/")) "") | relLangURL }}" title="{{ T "chi_siamo" }}">{{ T "chi_siamo" }}</a></li>
+<li><a href="{{ "blog/" | relLangURL }}" title="Blog">Blog</a></li>
+<li><a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "faq-staffordshire-bull-terrier/" (cond (eq .Site.Language.Lang "de") "faq-staffordshire-bull-terrier/" "faq-sullo-staffordshire-bull-terrier/")) "") | relLangURL }}" title="FAQ">FAQ</a></li>
+<li><a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "reviews/" (cond (eq .Site.Language.Lang "de") "bewertungen/" "recensioni/")) "") | relLangURL }}" title="{{ T "recensioni" }}">{{ T "recensioni" }}</a></li>
+<li><a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "contact/" (cond (eq .Site.Language.Lang "de") "kontakt/" "allevamento-staffordshire-bull-terrier-in-emilia-romagna/")) "") | relLangURL }}" title="{{ T "contatti" }}">{{ T "contatti" }}</a></li>
+</ul>
+<div class="nav-lang">
+{{ if eq .Site.Language.Lang "it" }}
+<a href="/en/" title="English">EN</a>
+<a href="/de/" title="Deutsch">DE</a>
+{{ else if eq .Site.Language.Lang "en" }}
+<a href="/" title="Italiano">IT</a>
+<a href="/de/" title="Deutsch">DE</a>
+{{ else }}
+<a href="/" title="Italiano">IT</a>
+<a href="/en/" title="English">EN</a>
+{{ end }}
+</div>
+<a href="https://wa.me/{{ .Site.Params.whatsapp }}?text={{ T "whatsapp_text" | urlquery }}" class="nav-cta" title="WhatsApp">WhatsApp</a>
+<label for="menuToggle" class="nav-toggle" aria-label="Menu"><span></span><span></span><span></span></label>
+</div>
+</nav>
+
+<input type="checkbox" id="menuToggle" class="menu-toggle">
+<div class="mobile-menu">
+<label for="menuToggle" class="mobile-menu-close" aria-label="{{ T "chiudi" }}">×</label>
+<a href="{{ "/" | relLangURL }}" title="{{ T "home" }}">Home</a>
+<div class="mobile-dropdown">
+<span class="mobile-dropdown-title">{{ T "cuccioli" }}</span>
+<a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "puppies-staffordshire-bull-terrier/" (cond (eq .Site.Language.Lang "de") "welpen-staffordshire-bull-terrier/" "cuccioli-staffordshire-bull-terrier/")) "") | relLangURL }}" title="{{ T "cuccioli" }}">→ {{ T "cuccioli" }}</a>
+<a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "litters-staffordshire-bull-terrier/" (cond (eq .Site.Language.Lang "de") "wuerfe-staffordshire-bull-terrier/" "cucciolate-staffordshire-bull-terrier/")) "") | relLangURL }}" title="{{ T "cucciolate" }}">→ {{ T "cucciolate" }}</a>
+</div>
+<div class="mobile-dropdown">
+<span class="mobile-dropdown-title">{{ T "soggetti" }}</span>
+<a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "males-staffordshire-bull-terrier/" (cond (eq .Site.Language.Lang "de") "rueden-staffordshire-bull-terrier/" "maschi-staffordshire-bull-terrier/")) "") | relLangURL }}" title="{{ T "maschi" }}">→ {{ T "maschi" }}</a>
+<a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "females-staffordshire-bull-terrier/" (cond (eq .Site.Language.Lang "de") "huendinnen-staffordshire-bull-terrier/" "femmine-staffordshire-bull-terrier/")) "") | relLangURL }}" title="{{ T "femmine" }}">→ {{ T "femmine" }}</a>
+</div>
+<a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "about-us/" (cond (eq .Site.Language.Lang "de") "ueber-uns/" "chi-siamo/")) "") | relLangURL }}" title="{{ T "chi_siamo" }}">{{ T "chi_siamo" }}</a>
+<a href="{{ "blog/" | relLangURL }}" title="Blog">Blog</a>
+<a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "faq-staffordshire-bull-terrier/" (cond (eq .Site.Language.Lang "de") "faq-staffordshire-bull-terrier/" "faq-sullo-staffordshire-bull-terrier/")) "") | relLangURL }}" title="FAQ">FAQ</a>
+<a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "reviews/" (cond (eq .Site.Language.Lang "de") "bewertungen/" "recensioni/")) "") | relLangURL }}" title="{{ T "recensioni" }}">{{ T "recensioni" }}</a>
+<a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "contact/" (cond (eq .Site.Language.Lang "de") "kontakt/" "allevamento-staffordshire-bull-terrier-in-emilia-romagna/")) "") | relLangURL }}" title="{{ T "contatti" }}">{{ T "contatti" }}</a>
+<div style="margin-top: 1rem; display: flex; gap: 1rem;">
+{{ range .Site.Languages }}
+<a href="{{ $.RelPermalink | absLangURL }}" style="font-size: .9rem; {{ if eq .Lang $.Site.Language.Lang }}font-weight: bold; color: #8b5a2b;{{ end }}">{{ .LanguageName }}</a>
+{{ end }}
+</div>
+</div>

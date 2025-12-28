@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+{{ if .Params.custom_content }}
+  {{ .Params.custom_content | safeHTML }}
+{{ else }}
+  <section class="hero">
+    <div class="hero-visual">
+      <div class="hero-image">
+        <img src="/images/tikus-bologna-800.avif" alt="Staffordshire Bull Terrier" width="800" height="584" fetchpriority="high">
+      </div>
+    </div>
+    <div class="hero-content">
+      <h1 class="hero-title">{{ .Title }}</h1>
+      <p class="hero-description">{{ .Description }}</p>
+    </div>
+  </section>
+{{ end }}
+
+{{ end }}

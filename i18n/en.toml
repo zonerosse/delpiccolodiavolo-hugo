@@ -1,0 +1,50 @@
+[home]
+other = "Home"
+
+[cuccioli]
+other = "Puppies"
+
+[cucciolate]
+other = "Litters"
+
+[soggetti]
+other = "Dogs"
+
+[maschi]
+other = "Males"
+
+[femmine]
+other = "Females"
+
+[chi_siamo]
+other = "About Us"
+
+[recensioni]
+other = "Reviews"
+
+[contatti]
+other = "Contact"
+
+[privacy]
+other = "Privacy Policy"
+
+[note_legali]
+other = "Legal Notice"
+
+[footer_tagline]
+other = "Staffordshire Bull Terrier Breeding"
+
+[dal]
+other = "Since"
+
+[diritti]
+other = "All rights reserved."
+
+[chiudi]
+other = "Close"
+
+[whatsapp_text]
+other = "Hi Paolo, I'm contacting you from Del Piccolo Diavolo website"
+
+[leggi_tutto]
+other = "Read more"
