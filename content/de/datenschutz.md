@@ -1,7 +1,7 @@
 ---
 title: "Datenschutzerklärung"
 description: "Datenschutzerklärung der Del Piccolo Diavolo Zucht. Informationen zur Verarbeitung personenbezogener Daten gemäß DSGVO."
-slug: "datenschutz"
+slug: "privacy-policy"
 custom_content: |
   <section class="hero">
   <div class="hero-content" style="max-width:100%">
