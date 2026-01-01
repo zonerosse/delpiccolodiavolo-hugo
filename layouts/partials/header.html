@@ -1,12 +1,12 @@
 <nav class="nav">
 <div class="nav-inner">
 <a href="{{ "/" | relLangURL }}" class="nav-logo" title="{{ T "home" }}">
-<img src="/images/logo.webp" alt="" class="nav-logo-img" width="44" height="44">
+<img src="/images/logo.webp" alt="Del Piccolo Diavolo" class="nav-logo-img" width="44" height="44">
 <span class="nav-logo-text">Del <span>Piccolo</span> Diavolo</span>
 </a>
 <ul class="nav-links">
 <li><a href="{{ "/" | relLangURL }}" {{ if .IsHome }}class="active"{{ end }} title="{{ T "home" }}">Home</a></li>
-<li class="dropdown"><a href="#" title="{{ T "cuccioli" }}">{{ T "cuccioli" }}</a><div class="dropdown-menu"><a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "puppies-staffordshire-bull-terrier/" (cond (eq .Site.Language.Lang "de") "welpen-staffordshire-bull-terrier/" "cuccioli-staffordshire-bull-terrier/")) "") | relLangURL }}" title="{{ T "cuccioli" }}">{{ T "cuccioli" }}</a><a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "litters-staffordshire-bull-terrier/" (cond (eq .Site.Language.Lang "de") "wuerfe-staffordshire-bull-terrier/" "cucciolate-staffordshire-bull-terrier/")) "") | relLangURL }}" title="{{ T "cucciolate" }}">{{ T "cucciolate" }}</a></div></li>
+<li class="dropdown"><a href="#" title="{{ T "cuccioli" }}">{{ T "cuccioli" }}</a><div class="dropdown-menu"><a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "puppies-staffordshire-bull-terrier/" (cond (eq .Site.Language.Lang "de") "welpen-staffordshire-bull-terrier/" "cuccioli-staffordshire-bull-terrier/")) "") | relLangURL }}" title="{{ T "cuccioli" }}">{{ T "cuccioli" }}</a><a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "litters-staffordshire-bull-terrier/" (cond (eq .Site.Language.Lang "de") "wuerfe-staffordshire-bull-terrier/" "programma-allevamento/")) "") | relLangURL }}" title="{{ T "programma" }}">{{ T "programma" }}</a></div></li>
 <li class="dropdown"><a href="#" title="{{ T "soggetti" }}">{{ T "soggetti" }}</a><div class="dropdown-menu"><a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "males-staffordshire-bull-terrier/" (cond (eq .Site.Language.Lang "de") "rueden-staffordshire-bull-terrier/" "maschi-staffordshire-bull-terrier/")) "") | relLangURL }}" title="{{ T "maschi" }}">{{ T "maschi" }}</a><a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "females-staffordshire-bull-terrier/" (cond (eq .Site.Language.Lang "de") "huendinnen-staffordshire-bull-terrier/" "femmine-staffordshire-bull-terrier/")) "") | relLangURL }}" title="{{ T "femmine" }}">{{ T "femmine" }}</a></div></li>
 <li><a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "about-us/" (cond (eq .Site.Language.Lang "de") "ueber-uns/" "chi-siamo/")) "") | relLangURL }}" title="{{ T "chi_siamo" }}">{{ T "chi_siamo" }}</a></li>
 <li><a href="{{ "blog/" | relLangURL }}" title="Blog">Blog</a></li>
@@ -38,7 +38,7 @@
 <div class="mobile-dropdown">
 <span class="mobile-dropdown-title">{{ T "cuccioli" }}</span>
 <a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "puppies-staffordshire-bull-terrier/" (cond (eq .Site.Language.Lang "de") "welpen-staffordshire-bull-terrier/" "cuccioli-staffordshire-bull-terrier/")) "") | relLangURL }}" title="{{ T "cuccioli" }}">→ {{ T "cuccioli" }}</a>
-<a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "litters-staffordshire-bull-terrier/" (cond (eq .Site.Language.Lang "de") "wuerfe-staffordshire-bull-terrier/" "cucciolate-staffordshire-bull-terrier/")) "") | relLangURL }}" title="{{ T "cucciolate" }}">→ {{ T "cucciolate" }}</a>
+<a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "litters-staffordshire-bull-terrier/" (cond (eq .Site.Language.Lang "de") "wuerfe-staffordshire-bull-terrier/" "programma-allevamento/")) "") | relLangURL }}" title="{{ T "programma" }}">→ {{ T "programma" }}</a>
 </div>
 <div class="mobile-dropdown">
 <span class="mobile-dropdown-title">{{ T "soggetti" }}</span>

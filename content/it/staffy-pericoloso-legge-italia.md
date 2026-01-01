@@ -1,5 +1,5 @@
 ---
-title: "Lo Staffordshire Bull Terrier è Pericoloso? La Verità e la Legge Italiana"
+title: "Lo Staffy è Pericoloso? Verità e Legge Italiana"
 description: "Lo Staffy è davvero pericoloso? Analizziamo lo studio VetCompass 2020, la normativa italiana dal 2009 e la proposta lombarda 2025. Dati scientifici e fatti."
 slug: "staffy-pericoloso-legge-italia"
 custom_content: |

@@ -1,5 +1,5 @@
 ---
-title: "Staffordshire Bull Terrier con Altri Animali: Guida Completa Convivenza"
+title: "Staffy con Altri Animali: Guida Convivenza"
 description: "Convivenza Staffy con cani, gatti, piccoli animali: protocolli inserimento graduali, gestione risorse, segnali stress, problemi comuni e soluzioni pratiche."
 slug: "famiglia-convivenza-altri-animali"
 custom_content: |
