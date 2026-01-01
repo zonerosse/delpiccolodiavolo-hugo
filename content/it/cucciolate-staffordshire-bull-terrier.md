@@ -1,6 +1,9 @@
 ---
 title: "Redirect"
 slug: "cucciolate-staffordshire-bull-terrier"
+_build:
+  list: never
+sitemap_exclude: true
 custom_content: |
   <!DOCTYPE html>
   <html lang="it">

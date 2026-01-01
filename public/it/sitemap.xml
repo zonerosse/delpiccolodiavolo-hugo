@@ -56,10 +56,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/cucciolate-futuro/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/cuccioli-staffordshire-bull-terrier/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -178,10 +174,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/recensioni/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/cucciolate-staffordshire-bull-terrier/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
