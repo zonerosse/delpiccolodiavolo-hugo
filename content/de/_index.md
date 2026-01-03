@@ -124,19 +124,19 @@ custom_content: |
   
   <div class="guide-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1rem;margin-bottom:1.5rem">
   <a href="/de/welpen-sozialisierung-zuhause/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
-  <strong style="color:#c9a227">Sozialisierung</strong><br>
+  <strong style="color:#7a5c00">Sozialisierung</strong><br>
   <span style="font-size:0.9rem">So bereiten Sie Ihren Welpen auf die Welt vor</span>
   </a>
   <a href="/de/welpen-erste-impfungen/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
-  <strong style="color:#c9a227">Impfungen</strong><br>
+  <strong style="color:#7a5c00">Impfungen</strong><br>
   <span style="font-size:0.9rem">Zeitplan und praktische Tipps</span>
   </a>
   <a href="/de/welpen-erste-fuetterung/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
-  <strong style="color:#c9a227">Fütterung</strong><br>
+  <strong style="color:#7a5c00">Fütterung</strong><br>
   <span style="font-size:0.9rem">Was und wie viel füttern</span>
   </a>
   <a href="/de/welpen-allein-bleiben/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
-  <strong style="color:#c9a227">Alleinsein Lernen</strong><br>
+  <strong style="color:#7a5c00">Alleinsein Lernen</strong><br>
   <span style="font-size:0.9rem">Trennungsangst vermeiden</span>
   </a>
   </div>

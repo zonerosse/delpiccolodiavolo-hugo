@@ -124,19 +124,19 @@ custom_content: |
   
   <div class="guide-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1rem;margin-bottom:1.5rem">
   <a href="/cuccioli-socializzazione-in-casa/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
-  <strong style="color:#c9a227">Socializzazione</strong><br>
+  <strong style="color:#7a5c00">Socializzazione</strong><br>
   <span style="font-size:0.9rem">Come preparare il cucciolo al mondo</span>
   </a>
   <a href="/cuccioli-prime-vaccinazioni/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
-  <strong style="color:#c9a227">Vaccinazioni</strong><br>
+  <strong style="color:#7a5c00">Vaccinazioni</strong><br>
   <span style="font-size:0.9rem">Calendario e consigli pratici</span>
   </a>
   <a href="/cuccioli-alimentazione-iniziale/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
-  <strong style="color:#c9a227">Alimentazione</strong><br>
+  <strong style="color:#7a5c00">Alimentazione</strong><br>
   <span style="font-size:0.9rem">Cosa e quanto dare da mangiare</span>
   </a>
   <a href="/cuccioli-gestione-solitudine/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
-  <strong style="color:#c9a227">Gestire la Solitudine</strong><br>
+  <strong style="color:#7a5c00">Gestire la Solitudine</strong><br>
   <span style="font-size:0.9rem">Evitare ansia da separazione</span>
   </a>
   </div>
