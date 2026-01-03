@@ -67,6 +67,43 @@ custom_content: |
   
   <section class="section section-alt">
   <div class="section-inner">
+  <span class="section-label">Show Results</span>
+  <h2 class="section-title">Our Achievements</h2>
+  
+  <p style="text-align:center;margin-bottom:2rem">Del Piccolo Diavolo selection goes beyond aesthetics: our results in Italian and international rings testify years of work on health, type and character.</p>
+  
+  <div class="successi-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1.5rem;margin-bottom:2rem">
+  
+  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
+  <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Bilquis Goddess Diabhal</h3>
+  <p style="color:#c9a227;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Italian Champion - 4th at Worlds</p>
+  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Record: 12 consecutive Excellent 1st shows. Italian Champion in Intermediate Class. 4th at World Dog Show. Top Dog Junior 2023.</p>
+  </div>
+  
+  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
+  <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Lothar Matthaus</h3>
+  <p style="color:#c9a227;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Junior Italian Champion</p>
+  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Multiple JCAC and Junior BOB in national and international shows. Excellent 1st in all events. Son of English champions.</p>
+  </div>
+  
+  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
+  <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Virtus et Honor Amazing Paddy the Baddy</h3>
+  <p style="color:#c9a227;font-weight:700;font-size:1rem;margin-bottom:0.75rem">BOB Male Puppy 2025</p>
+  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Best of Breed Male Puppy at National Terrier Specialty Bologna 2025. Our promise for the future.</p>
+  </div>
+  
+  </div>
+  
+  <div style="text-align:center;padding:1.5rem;background:#fff;border-radius:12px;border:1px solid rgba(139,115,85,0.15)">
+  <p style="font-size:1.1rem;color:#5c4a3a;margin-bottom:0.5rem"><strong>3 Champions - 4th at World Dog Show - 2 Junior Champions</strong></p>
+  <p style="font-size:0.9rem;color:#4a3f35;margin-bottom:1rem">Results achieved with dogs bred and raised by us, not purchased already titled.</p>
+  <a href="/en/palmares/" class="btn btn-primary" title="See all results">See All Results</a>
+  </div>
+  </div>
+  </section>
+  
+  <section class="section">
+  <div class="section-inner">
   <span class="section-label">About Us</span>
   <h2 class="section-title">Our Story</h2>
   
@@ -145,6 +182,53 @@ custom_content: |
   <p style="margin:0 0 0.5rem 0;font-size:1.1rem"><strong>Download Now - Free PDF</strong></p>
   <p style="margin:0 0 1rem 0;font-size:0.95rem;opacity:0.9">Everything you need to know before your puppy arrives</p>
   <a href="/docs/guide-first-months-staffy-puppy.pdf" class="btn" style="background:#c9a227;color:#fff;padding:0.8rem 1.5rem;border-radius:6px;text-decoration:none;display:inline-block" title="Download the free guide">Download "The First Months with Your Staffy Puppy"</a>
+  </div>
+  </div>
+  </section>
+  
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">Frequently Asked Questions</span>
+  <h2 class="section-title">FAQ about Staffordshire Bull Terrier</h2>
+  
+  <div class="faq-container">
+  
+  <div class="faq-item active">
+  <div class="faq-question" onclick="toggleFAQ(this)">
+  <span>Is the Staffordshire Bull Terrier dangerous?</span>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">No. With serious character selection, early socialization and responsible owners, the Staffy is an affectionate and stable dog. After over 12 years breeding this breed, I can guarantee that aggression depends on genetics, education and environment, not the breed.</div>
+  </div>
+  
+  <div class="faq-item">
+  <div class="faq-question" onclick="toggleFAQ(this)">
+  <span>Is the Staffy good with children?</span>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Absolutely yes. Traditionally called "nanny dog" for its extraordinary patience with children. Our Staffies grow up in contact with children, naturally developing gentleness and protection.</div>
+  </div>
+  
+  <div class="faq-item">
+  <div class="faq-question" onclick="toggleFAQ(this)">
+  <span>What genetic tests do you perform?</span>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">All our breeding dogs are tested for: L2HGA, HC (Hereditary Cataract) and PHPV. Tests are essential for producing healthy puppies. Each puppy comes with certificates of the parents' tests.</div>
+  </div>
+  
+  <div class="faq-item">
+  <div class="faq-question" onclick="toggleFAQ(this)">
+  <span>Can I visit the kennel?</span>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Absolutely yes, in fact I highly recommend it. At our kennel in Ostellato (Ferrara, Italy) I welcome visitors by appointment. You will see the adult dogs, how the puppies live, and verify documentation and pedigree.</div>
+  </div>
+  
+  </div>
+  
+  <div style="text-align:center;margin-top:1.5rem">
+  <a href="/en/faq-staffordshire-bull-terrier/" class="btn btn-ghost" title="See all FAQ">See All FAQ</a>
   </div>
   </div>
   </section>

@@ -132,6 +132,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/palmares-del-piccolo-diavolo/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/salute-parassiti-prevenzione/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
