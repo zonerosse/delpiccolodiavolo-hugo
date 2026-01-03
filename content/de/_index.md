@@ -17,6 +17,7 @@ custom_content: |
   <div class="hero-actions">
   <a href="/de/welpen-staffordshire-bull-terrier/" class="btn btn-primary" title="Entdecken Sie unsere Welpen">Welpen Entdecken</a>
   <a href="/de/kontakt/" class="btn btn-ghost" title="Kontaktieren Sie uns">Kontakt</a>
+  <a href="/docs/ratgeber-erste-monate-staffy-welpe.pdf" class="btn btn-gold" title="Kostenloser PDF-Ratgeber: Die ersten Monate mit Ihrem Staffy Welpen">Welpen-Ratgeber</a>
   </div>
   <p class="hero-trust">Gentests - ENCI Stammbaum - Seit 2013</p>
   </div>
@@ -114,6 +115,40 @@ custom_content: |
   </div>
   </section>
   
+  <section class="section section-alt">
+  <div class="section-inner">
+  <span class="section-label">Kostenlose Ressourcen</span>
+  <h2 class="section-title">Ratgeber für zukünftige Besitzer</h2>
+  
+  <p style="text-align:center;margin-bottom:1.5rem">Alles, was Sie vor und nach der Ankunft Ihres Welpen wissen müssen.</p>
+  
+  <div class="guide-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1rem;margin-bottom:1.5rem">
+  <a href="/de/welpen-sozialisierung-zuhause/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
+  <strong style="color:#c9a227">Sozialisierung</strong><br>
+  <span style="font-size:0.9rem">So bereiten Sie Ihren Welpen auf die Welt vor</span>
+  </a>
+  <a href="/de/welpen-erste-impfungen/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
+  <strong style="color:#c9a227">Impfungen</strong><br>
+  <span style="font-size:0.9rem">Zeitplan und praktische Tipps</span>
+  </a>
+  <a href="/de/welpen-erste-fuetterung/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
+  <strong style="color:#c9a227">Fütterung</strong><br>
+  <span style="font-size:0.9rem">Was und wie viel füttern</span>
+  </a>
+  <a href="/de/welpen-allein-bleiben/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
+  <strong style="color:#c9a227">Alleinsein Lernen</strong><br>
+  <span style="font-size:0.9rem">Trennungsangst vermeiden</span>
+  </a>
+  </div>
+  
+  <div style="text-align:center;padding:1.5rem;background:#5c4a3a;border-radius:12px;color:#fff">
+  <p style="margin:0 0 0.5rem 0;font-size:1.1rem"><strong>Jetzt Herunterladen - Kostenloses PDF</strong></p>
+  <p style="margin:0 0 1rem 0;font-size:0.95rem;opacity:0.9">Alles, was Sie vor der Ankunft wissen müssen</p>
+  <a href="/docs/ratgeber-erste-monate-staffy-welpe.pdf" class="btn" style="background:#c9a227;color:#fff;padding:0.8rem 1.5rem;border-radius:6px;text-decoration:none;display:inline-block" title="Kostenlosen Ratgeber herunterladen">Herunterladen "Die Ersten Monate mit Ihrem Staffy Welpen"</a>
+  </div>
+  </div>
+  </section>
+  
   <section class="dark-section">
   <h2>Meine Leidenschaft - Meine Zucht</h2>
   <p>Die Leidenschaft für den Staffordshire Bull Terrier wurde 2005 geboren, dem Jahr, in dem ich meine erste Begegnung mit dieser außergewöhnlichen Rasse während Crufts hatte. Ich war sofort fasziniert von diesen muskulösen und liebevollen Welpen, die mich wie echte Miniatur-Rottweiler erobert haben. Mit bereits Erfahrung mit Rottweilern entdeckte ich eine neue Welt: gemacht aus Entschlossenheit, Intelligenz und bedingungsloser Liebe.</p>
@@ -121,7 +156,7 @@ custom_content: |
   
   <section class="cta-section">
   <h2>Möchten Sie Infos zu Welpen?</h2>
-  <p>Rufen Sie uns an oder schreiben Sie uns auf WhatsApp für Informationen über verfügbare Würfe.</p>
+  <p>Rufen Sie uns an für ein unverbindliches Gespräch. Wir beantworten gerne alle Ihre Fragen.</p>
   <a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20schreibe%20von%20der%20Del%20Piccolo%20Diavolo%20Website" class="btn" title="Schreiben Sie uns auf WhatsApp">Auf WhatsApp Schreiben</a>
   </section>
 ---

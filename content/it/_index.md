@@ -17,6 +17,7 @@ custom_content: |
   <div class="hero-actions">
   <a href="/cuccioli-staffordshire-bull-terrier/" class="btn btn-primary" title="Scopri i nostri cuccioli">Scopri i Cuccioli</a>
   <a href="/allevamento-staffordshire-bull-terrier-in-emilia-romagna/" class="btn btn-ghost" title="Contattaci">Contattaci</a>
+  <a href="/docs/guida-primi-mesi-cucciolo-staffy.pdf" class="btn btn-gold" title="Guida PDF gratuita: I primi mesi con il tuo cucciolo Staffy">Guida Cuccioli</a>
   </div>
   <p class="hero-trust">Test Genetici - Pedigree ENCI - Dal 2013</p>
   </div>
@@ -114,6 +115,40 @@ custom_content: |
   </div>
   </section>
   
+  <section class="section section-alt">
+  <div class="section-inner">
+  <span class="section-label">Risorse Gratuite</span>
+  <h2 class="section-title">Guide per Futuri Proprietari</h2>
+  
+  <p style="text-align:center;margin-bottom:1.5rem">Tutto quello che devi sapere prima e dopo l'arrivo del tuo cucciolo.</p>
+  
+  <div class="guide-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1rem;margin-bottom:1.5rem">
+  <a href="/cuccioli-socializzazione-in-casa/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
+  <strong style="color:#c9a227">Socializzazione</strong><br>
+  <span style="font-size:0.9rem">Come preparare il cucciolo al mondo</span>
+  </a>
+  <a href="/cuccioli-prime-vaccinazioni/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
+  <strong style="color:#c9a227">Vaccinazioni</strong><br>
+  <span style="font-size:0.9rem">Calendario e consigli pratici</span>
+  </a>
+  <a href="/cuccioli-alimentazione-iniziale/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
+  <strong style="color:#c9a227">Alimentazione</strong><br>
+  <span style="font-size:0.9rem">Cosa e quanto dare da mangiare</span>
+  </a>
+  <a href="/cuccioli-gestione-solitudine/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
+  <strong style="color:#c9a227">Gestire la Solitudine</strong><br>
+  <span style="font-size:0.9rem">Evitare ansia da separazione</span>
+  </a>
+  </div>
+  
+  <div style="text-align:center;padding:1.5rem;background:#5c4a3a;border-radius:12px;color:#fff">
+  <p style="margin:0 0 0.5rem 0;font-size:1.1rem"><strong>Scarica Subito - PDF Gratuito</strong></p>
+  <p style="margin:0 0 1rem 0;font-size:0.95rem;opacity:0.9">Tutto quello che devi sapere prima dell'arrivo</p>
+  <a href="/docs/guida-primi-mesi-cucciolo-staffy.pdf" class="btn" style="background:#c9a227;color:#fff;padding:0.8rem 1.5rem;border-radius:6px;text-decoration:none;display:inline-block" title="Scarica la guida gratuita">Scarica "I Primi Mesi con il Tuo Cucciolo Staffy"</a>
+  </div>
+  </div>
+  </section>
+  
   <section class="dark-section">
   <h2>La Mia Passione - Il mio allevamento</h2>
   <p>La passione per lo Staffordshire Bull Terrier nasce nel 2005, anno in cui ho avuto il mio primo incontro con questa straordinaria razza durante il Crufts. Sono rimasto subito affascinato da questi cuccioli muscolosi e affettuosi, che mi hanno conquistato come veri Rottweiler in miniatura. Avendo già esperienza con i Rottweiler, ho scoperto un mondo nuovo: fatto di determinazione, intelligenza e amore incondizionato.</p>
@@ -121,7 +156,7 @@ custom_content: |
   
   <section class="cta-section">
   <h2>Vuoi Info sui Cuccioli?</h2>
-  <p>Chiamaci o scrivici su WhatsApp per informazioni sulle cucciolate disponibili.</p>
+  <p>Chiamaci per una chiacchierata senza impegno. Siamo qui per rispondere a tutte le tue domande.</p>
   <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20ti%20scrivo%20dal%20sito%20Del%20Piccolo%20Diavolo" class="btn" title="Scrivici su WhatsApp">Scrivici su WhatsApp</a>
   </section>
 ---
