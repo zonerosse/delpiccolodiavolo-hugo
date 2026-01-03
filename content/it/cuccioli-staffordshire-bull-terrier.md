@@ -1,6 +1,6 @@
 ---
 title: "Cuccioli Staffordshire Bull Terrier"
-description: "Cuccioli Staffordshire Bull Terrier allevati in casa: selezione salute e carattere, pedigree ENCI, linee Elitebull e Lackyle. Ostellato (FE). Dal 2013."
+description: "Cuccioli Staffordshire Bull Terrier allevati in casa: selezione salute e carattere, pedigree ENCI, linee Elitebull e Lackyle. Emilia-Romagna, Italia. Dal 2013."
 slug: "cuccioli-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">

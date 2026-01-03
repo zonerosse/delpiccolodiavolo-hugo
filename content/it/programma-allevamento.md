@@ -1,6 +1,6 @@
 ---
 title: "Programma Allevamento"
-description: "Programma accoppiamenti Del Piccolo Diavolo: genitori selezionati, test genetici L2HGA/HC, pedigree ENCI. Cucciolate passate e future. Ostellato (FE)."
+description: "Programma accoppiamenti Del Piccolo Diavolo: genitori selezionati, test genetici L2HGA/HC, pedigree ENCI. Cucciolate passate e future. Emilia-Romagna, Italia."
 slug: "programma-allevamento"
 custom_content: |
   <section class="hero">
