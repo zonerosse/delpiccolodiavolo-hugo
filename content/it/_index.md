@@ -1,6 +1,6 @@
 ---
 title: "Allevamento Staffordshire Bull Terrier"
-description: "Allevamento etico di Staffordshire Bull Terrier. Cuccioli sani, equilibrati e con pedigree ENCI, cresciuti con passione e attenzione. Test genetici L2HGA e HC clear. Scopri chi siamo."
+description: "Allevamento etico di Staffordshire Bull Terrier. Cuccioli sani, test genetici L2HGA e HC clear, pedigree ENCI, cresciuti con passione e attenzione. Scopri chi siamo."
 slug: ""
 custom_content: |
   <section class="hero">
