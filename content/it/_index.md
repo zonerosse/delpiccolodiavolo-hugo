@@ -76,19 +76,19 @@ custom_content: |
   
   <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
   <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Bilquis Goddess Diabhal</h3>
-  <p style="color:#c9a227;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Campionessa Italiana - 4° ai Mondiali</p>
+  <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Campionessa Italiana - 4° ai Mondiali</p>
   <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Record: 12 esposizioni consecutive Eccellente 1°. Campionessa Italiana in Classe Intermedia. 4° classificata al World Dog Show. Top Dog Junior 2023.</p>
   </div>
   
   <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
   <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Lothar Matthaus</h3>
-  <p style="color:#c9a227;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Giovane Campione Italiano</p>
+  <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Giovane Campione Italiano</p>
   <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Multipli JCAC e BOB Giovani in esposizioni nazionali e internazionali. Eccellente 1° in tutte le manifestazioni. Figlio di campioni inglesi.</p>
   </div>
   
   <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
   <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Virtus et Honor Amazing Paddy the Baddy</h3>
-  <p style="color:#c9a227;font-weight:700;font-size:1rem;margin-bottom:0.75rem">BOB Maschio Puppy 2025</p>
+  <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">BOB Maschio Puppy 2025</p>
   <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Best of Breed Maschio Puppy al Raduno Nazionale Terrier Bologna 2025. La nostra promessa per il futuro, gia protagonista al suo esordio.</p>
   </div>
   
@@ -236,7 +236,7 @@ custom_content: |
   </div>
   
   <div style="text-align:center;margin-top:1.5rem">
-  <a href="/faq-sullo-staffordshire-bull-terrier/" class="btn btn-ghost" title="Vedi tutte le FAQ">Vedi Tutte le 28 FAQ</a>
+  <a href="/faq-sullo-staffordshire-bull-terrier/" class="btn btn-primary" title="Vedi tutte le FAQ">Vedi Tutte le 28 FAQ</a>
   </div>
   </div>
   </section>
