@@ -124,19 +124,19 @@ custom_content: |
   
   <div class="guide-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1rem;margin-bottom:1.5rem">
   <a href="/en/puppy-home-socialization/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
-  <strong style="color:#c9a227">Socialization</strong><br>
+  <strong style="color:#7a5c00">Socialization</strong><br>
   <span style="font-size:0.9rem">How to prepare your puppy for the world</span>
   </a>
   <a href="/en/puppy-first-vaccinations/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
-  <strong style="color:#c9a227">Vaccinations</strong><br>
+  <strong style="color:#7a5c00">Vaccinations</strong><br>
   <span style="font-size:0.9rem">Schedule and practical advice</span>
   </a>
   <a href="/en/puppy-initial-feeding/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
-  <strong style="color:#c9a227">Feeding</strong><br>
+  <strong style="color:#7a5c00">Feeding</strong><br>
   <span style="font-size:0.9rem">What and how much to feed</span>
   </a>
   <a href="/en/puppy-alone-time/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
-  <strong style="color:#c9a227">Managing Alone Time</strong><br>
+  <strong style="color:#7a5c00">Managing Alone Time</strong><br>
   <span style="font-size:0.9rem">Preventing separation anxiety</span>
   </a>
   </div>
