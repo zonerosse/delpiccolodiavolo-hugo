@@ -76,8 +76,8 @@ custom_content: |
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
   <p><strong>Padre:</strong> Skilful-dogs Nora</p>
   <p><strong>Madre:</strong> Pablo iuno sospita plata plomo</p>
-  <a class="doc-link" href="docs/Genefast-Billy.pdf" target="_blank" rel="noopener" title="Scarica test genetici Bilquis">📄 Test Genetici</a>
-  <a class="doc-link" href="docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" title="Scarica ecocardio Bilquis">📄 Ecocardio Doppler</a>
+  <a class="doc-link" href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" title="Scarica test genetici Bilquis">📄 Test Genetici</a>
+  <a class="doc-link" href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" title="Scarica ecocardio Bilquis">📄 Ecocardio Doppler</a>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Vedi pedigree Bilquis su SBTPedigree">Vedi Pedigree Completo →</a>
   </div>
   </div>
@@ -97,7 +97,7 @@ custom_content: |
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
   <p><strong>Padre:</strong> Lackyle Trodai Tine</p>
   <p><strong>Madre:</strong> CH. Lackyle Ogbhean an Diabhal</p>
-  <a class="doc-link" href="docs/Minnie-GF.pdf" target="_blank" rel="noopener" title="Scarica test genetici Croi Olc">📄 Test Genetici</a>
+  <a class="doc-link" href="/docs/Minnie-GF.pdf" target="_blank" rel="noopener" title="Scarica test genetici Croi Olc">📄 Test Genetici</a>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="Vedi pedigree Croi Olc su SBTPedigree">Vedi Pedigree Completo →</a>
   </div>
   </div>
@@ -207,7 +207,7 @@ custom_content: |
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
   <p><strong>Padre:</strong> Skilful-Dogs Jeghër</p>
   <p><strong>Madre:</strong> Skilful-Dogs Red Skin</p>
-  <a class="doc-link" href="docs/Nora-Genefast.pdf" target="_blank" rel="noopener" title="Scarica test genetici Nora">📄 Test Genetici</a>
+  <a class="doc-link" href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" title="Scarica test genetici Nora">📄 Test Genetici</a>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="Vedi pedigree Nora su SBTPedigree">Vedi Pedigree Completo →</a>
   </div>
   </div>
