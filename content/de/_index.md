@@ -67,6 +67,43 @@ custom_content: |
   
   <section class="section section-alt">
   <div class="section-inner">
+  <span class="section-label">Ausstellungserfolge</span>
+  <h2 class="section-title">Unsere Erfolge</h2>
+  
+  <p style="text-align:center;margin-bottom:2rem">Die Selektion von Del Piccolo Diavolo geht uber Asthetik hinaus: Unsere Ergebnisse auf italienischen und internationalen Ringen zeugen von jahrelanger Arbeit an Gesundheit, Typ und Charakter.</p>
+  
+  <div class="successi-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1.5rem;margin-bottom:2rem">
+  
+  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
+  <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Bilquis Goddess Diabhal</h3>
+  <p style="color:#c9a227;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Italienische Championin - 4. bei WM</p>
+  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Rekord: 12 aufeinanderfolgende V1 Ausstellungen. Italienische Championin in Zwischenklasse. 4. bei World Dog Show. Top Dog Junior 2023.</p>
+  </div>
+  
+  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
+  <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Lothar Matthaus</h3>
+  <p style="color:#c9a227;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Italienischer Jugendchampion</p>
+  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Mehrfache JCAC und Junior BOB auf nationalen und internationalen Ausstellungen. V1 bei allen Veranstaltungen.</p>
+  </div>
+  
+  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
+  <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Virtus et Honor Amazing Paddy the Baddy</h3>
+  <p style="color:#c9a227;font-weight:700;font-size:1rem;margin-bottom:0.75rem">BOB Rude Welpe 2025</p>
+  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Best of Breed Rude Welpe bei Nationaler Terrier-Spezialausstellung Bologna 2025. Unser Versprechen fur die Zukunft.</p>
+  </div>
+  
+  </div>
+  
+  <div style="text-align:center;padding:1.5rem;background:#fff;border-radius:12px;border:1px solid rgba(139,115,85,0.15)">
+  <p style="font-size:1.1rem;color:#5c4a3a;margin-bottom:0.5rem"><strong>3 Champions - 4. bei World Dog Show - 2 Jugendchampions</strong></p>
+  <p style="font-size:0.9rem;color:#4a3f35;margin-bottom:1rem">Ergebnisse mit von uns gezuchteten und aufgezogenen Hunden, nicht bereits tituliert gekauft.</p>
+  <a href="/de/palmares/" class="btn btn-primary" title="Alle Ergebnisse ansehen">Alle Ergebnisse Ansehen</a>
+  </div>
+  </div>
+  </section>
+  
+  <section class="section">
+  <div class="section-inner">
   <span class="section-label">Über Uns</span>
   <h2 class="section-title">Unsere Geschichte</h2>
   
@@ -145,6 +182,53 @@ custom_content: |
   <p style="margin:0 0 0.5rem 0;font-size:1.1rem"><strong>Jetzt Herunterladen - Kostenloses PDF</strong></p>
   <p style="margin:0 0 1rem 0;font-size:0.95rem;opacity:0.9">Alles, was Sie vor der Ankunft wissen müssen</p>
   <a href="/docs/ratgeber-erste-monate-staffy-welpe.pdf" class="btn" style="background:#c9a227;color:#fff;padding:0.8rem 1.5rem;border-radius:6px;text-decoration:none;display:inline-block" title="Kostenlosen Ratgeber herunterladen">Herunterladen "Die Ersten Monate mit Ihrem Staffy Welpen"</a>
+  </div>
+  </div>
+  </section>
+  
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">Haufig Gestellte Fragen</span>
+  <h2 class="section-title">FAQ uber Staffordshire Bull Terrier</h2>
+  
+  <div class="faq-container">
+  
+  <div class="faq-item active">
+  <div class="faq-question" onclick="toggleFAQ(this)">
+  <span>Ist der Staffordshire Bull Terrier gefahrlich?</span>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Nein. Mit serioeser Charakterselektion, fruher Sozialisierung und verantwortungsvollen Besitzern ist der Staffy ein liebevoller und stabiler Hund. Nach uber 12 Jahren Zucht dieser Rasse kann ich garantieren, dass Aggression von Genetik, Erziehung und Umgebung abhangt, nicht von der Rasse.</div>
+  </div>
+  
+  <div class="faq-item">
+  <div class="faq-question" onclick="toggleFAQ(this)">
+  <span>Ist der Staffy gut mit Kindern?</span>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Absolut ja. Traditionell "Nanny Dog" genannt wegen seiner ausserordentlichen Geduld mit Kindern. Unsere Staffies wachsen im Kontakt mit Kindern auf und entwickeln naturlich Sanftheit und Schutzinstinkt.</div>
+  </div>
+  
+  <div class="faq-item">
+  <div class="faq-question" onclick="toggleFAQ(this)">
+  <span>Welche Gentests fuhren Sie durch?</span>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Alle unsere Zuchthunde sind getestet auf: L2HGA, HC (Hereditare Katarakt) und PHPV. Tests sind essentiell fur die Produktion gesunder Welpen. Jeder Welpe kommt mit Zertifikaten der Elterntests.</div>
+  </div>
+  
+  <div class="faq-item">
+  <div class="faq-question" onclick="toggleFAQ(this)">
+  <span>Kann ich die Zucht besuchen?</span>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Absolut ja, tatsachlich empfehle ich es dringend. In unserer Zucht in Ostellato (Ferrara, Italien) empfange ich Besucher nach Vereinbarung. Sie sehen die erwachsenen Hunde, wie die Welpen leben, und konnen Dokumentation und Pedigree prufen.</div>
+  </div>
+  
+  </div>
+  
+  <div style="text-align:center;margin-top:1.5rem">
+  <a href="/de/faq-staffordshire-bull-terrier/" class="btn btn-ghost" title="Alle FAQ ansehen">Alle FAQ Ansehen</a>
   </div>
   </div>
   </section>

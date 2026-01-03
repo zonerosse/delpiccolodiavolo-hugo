@@ -10,7 +10,7 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">20 Domande & Risposte</span>
+  <span class="hero-eyebrow">28 Domande & Risposte</span>
   <h1 class="hero-title">Domande<br><em>Frequenti</em></h1>
   <p class="hero-subtitle">Tutto quello che vuoi sapere sullo Staffordshire Bull Terrier</p>
   </div>
@@ -193,6 +193,70 @@ custom_content: |
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Circa 800-1.500€/anno: alimentazione 300-600€, veterinario ordinario 150-250€, assicurazione 150-300€, accessori 100-150€. Non richiede toelettature costose. Considerando 12-14 anni di vita, il costo totale è circa 12.000-20.000€.</div>
+  </div>
+  
+  <div class="faq-item">
+  <div class="faq-question" onclick="toggleFAQ(this)">
+  <span>Quanto costa mantenere uno Staffy all'anno?</span>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Circa 800-1.500€/anno: alimentazione 300-600€, veterinario ordinario 150-250€, assicurazione 150-300€, accessori 100-150€. Non richiede toelettature costose. Considerando 12-14 anni di vita, il costo totale è circa 12.000-20.000€.</div>
+  </div>
+  
+  <div class="faq-item">
+  <div class="faq-question" onclick="toggleFAQ(this)">
+  <span>Quali risultati avete ottenuto in esposizione?</span>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Abbiamo allevato 2 Campioni Italiani di Bellezza e 1 Giovane Campione Italiano. Bilquis ha stabilito un record con 12 esposizioni consecutive Eccellente 1°, diventando Campionessa ancora in Classe Intermedia. Tikus ha vinto BOB Maschio Puppy al Raduno Nazionale 2025. Tutti i cani sono nati e cresciuti da noi.</div>
+  </div>
+  
+  <div class="faq-item">
+  <div class="faq-question" onclick="toggleFAQ(this)">
+  <span>Vale la pena venire da Milano o Firenze per un cucciolo?</span>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Assolutamente si. Molti nostri clienti vengono da Milano (2h 30), Firenze (1h 45), Venezia, Roma. Un cucciolo vi accompagnera per 12-14 anni: vale la pena fare qualche ora di viaggio per scegliere con calma, vedere i genitori e iniziare una relazione di fiducia con l'allevatore.</div>
+  </div>
+  
+  <div class="faq-item">
+  <div class="faq-question" onclick="toggleFAQ(this)">
+  <span>Cosa significa che i cuccioli sono socializzati?</span>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">I nostri cuccioli crescono in casa, non in box esterni. Dalle prime settimane sono esposti a rumori domestici (aspirapolvere, televisione, campanello), superfici diverse, persone di tutte le eta, altri cani adulti equilibrati. Questo periodo critico (3-16 settimane) forma un carattere stabile e sicuro.</div>
+  </div>
+  
+  <div class="faq-item">
+  <div class="faq-question" onclick="toggleFAQ(this)">
+  <span>Fornite assistenza dopo l'acquisto del cucciolo?</span>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Si, assistenza a vita. Restiamo disponibili per consigli su alimentazione, educazione, salute. Molti clienti ci contattano anche dopo anni. Crediamo che vendere un cucciolo sia l'inizio di una relazione, non la fine di una transazione.</div>
+  </div>
+  
+  <div class="faq-item">
+  <div class="faq-question" onclick="toggleFAQ(this)">
+  <span>Perche non spedite i cuccioli?</span>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Crediamo nel ritiro di persona perche permette di vedere l'ambiente di crescita, conoscere i genitori, ricevere tutte le istruzioni dal vivo. E anche un modo per selezionare famiglie realmente motivate. In casi eccezionali valutiamo consegne personalizzate.</div>
+  </div>
+  
+  <div class="faq-item">
+  <div class="faq-question" onclick="toggleFAQ(this)">
+  <span>Lo Staffy e adatto come primo cane?</span>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Si, con la giusta preparazione. E un cane che perdona gli errori, molto orientato al proprietario e desideroso di compiacere. Consiglio sempre di informarsi bene prima (il nostro blog ha molte guide) e di frequentare un corso di educazione base. Con impegno e costanza, anche un neofita puo gestirlo benissimo.</div>
+  </div>
+  
+  <div class="faq-item">
+  <div class="faq-question" onclick="toggleFAQ(this)">
+  <span>Quali linee di sangue selezionate?</span>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Lavoriamo principalmente con linee inglesi e irlandesi: Elitebull e Lackyle. Queste linee sono rinomate per tipicita, salute e carattere equilibrato. Nei nostri pedigree troverete campioni inglesi e soggetti provenienti dai migliori allevamenti europei.</div>
   </div>
   
   </div>

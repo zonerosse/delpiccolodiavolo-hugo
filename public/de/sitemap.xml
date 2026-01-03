@@ -63,6 +63,20 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/de/palmares/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/palmares/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/palmares/"
+                />
+  </url><url>
     <loc>http://localhost:1313/de/staffy-parasitenvorbeugung/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

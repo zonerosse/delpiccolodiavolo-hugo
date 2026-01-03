@@ -67,6 +67,43 @@ custom_content: |
   
   <section class="section section-alt">
   <div class="section-inner">
+  <span class="section-label">Risultati in Esposizione</span>
+  <h2 class="section-title">I Nostri Successi</h2>
+  
+  <p style="text-align:center;margin-bottom:2rem">La selezione Del Piccolo Diavolo non si ferma all'estetica: i nostri risultati sui ring italiani e internazionali testimoniano anni di lavoro su salute, tipicita e carattere.</p>
+  
+  <div class="successi-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1.5rem;margin-bottom:2rem">
+  
+  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
+  <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Bilquis Goddess Diabhal</h3>
+  <p style="color:#c9a227;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Campionessa Italiana - 4° ai Mondiali</p>
+  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Record: 12 esposizioni consecutive Eccellente 1°. Campionessa Italiana in Classe Intermedia. 4° classificata al World Dog Show. Top Dog Junior 2023.</p>
+  </div>
+  
+  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
+  <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Lothar Matthaus</h3>
+  <p style="color:#c9a227;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Giovane Campione Italiano</p>
+  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Multipli JCAC e BOB Giovani in esposizioni nazionali e internazionali. Eccellente 1° in tutte le manifestazioni. Figlio di campioni inglesi.</p>
+  </div>
+  
+  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
+  <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Virtus et Honor Amazing Paddy the Baddy</h3>
+  <p style="color:#c9a227;font-weight:700;font-size:1rem;margin-bottom:0.75rem">BOB Maschio Puppy 2025</p>
+  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Best of Breed Maschio Puppy al Raduno Nazionale Terrier Bologna 2025. La nostra promessa per il futuro, gia protagonista al suo esordio.</p>
+  </div>
+  
+  </div>
+  
+  <div style="text-align:center;padding:1.5rem;background:#fff;border-radius:12px;border:1px solid rgba(139,115,85,0.15)">
+  <p style="font-size:1.1rem;color:#5c4a3a;margin-bottom:0.5rem"><strong>3 Campioni - 4° al World Dog Show - 2 Giovani Campioni</strong></p>
+  <p style="font-size:0.9rem;color:#4a3f35;margin-bottom:1rem">Risultati ottenuti con cani allevati e cresciuti da noi, non acquistati gia titolati.</p>
+  <a href="/palmares-del-piccolo-diavolo/" class="btn btn-primary" title="Vedi tutti i risultati">Vedi Tutti i Risultati</a>
+  </div>
+  </div>
+  </section>
+  
+  <section class="section">
+  <div class="section-inner">
   <span class="section-label">Chi Siamo</span>
   <h2 class="section-title">La Nostra Storia</h2>
   
@@ -145,6 +182,61 @@ custom_content: |
   <p style="margin:0 0 0.5rem 0;font-size:1.1rem"><strong>Scarica Subito - PDF Gratuito</strong></p>
   <p style="margin:0 0 1rem 0;font-size:0.95rem;opacity:0.9">Tutto quello che devi sapere prima dell'arrivo</p>
   <a href="/docs/guida-primi-mesi-cucciolo-staffy.pdf" class="btn" style="background:#c9a227;color:#fff;padding:0.8rem 1.5rem;border-radius:6px;text-decoration:none;display:inline-block" title="Scarica la guida gratuita">Scarica "I Primi Mesi con il Tuo Cucciolo Staffy"</a>
+  </div>
+  </div>
+  </section>
+  
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">Domande Frequenti</span>
+  <h2 class="section-title">FAQ sullo Staffordshire Bull Terrier</h2>
+  
+  <div class="faq-container">
+  
+  <div class="faq-item active">
+  <div class="faq-question" onclick="toggleFAQ(this)">
+  <span>Lo Staffordshire Bull Terrier e pericoloso?</span>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">No. Con selezione seria del carattere, socializzazione precoce e proprietari responsabili, lo Staffy e un cane affettuoso e stabile. Da oltre 12 anni allevo questa razza e posso garantire che l'aggressivita dipende da genetica, educazione e ambiente, non dalla razza.</div>
+  </div>
+  
+  <div class="faq-item">
+  <div class="faq-question" onclick="toggleFAQ(this)">
+  <span>Lo Staffy e adatto ai bambini?</span>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Assolutamente si. Tradizionalmente chiamato "nanny dog" per la straordinaria pazienza con i bambini. I nostri Staffy crescono a contatto con bambini, sviluppando naturalmente dolcezza e protezione.</div>
+  </div>
+  
+  <div class="faq-item">
+  <div class="faq-question" onclick="toggleFAQ(this)">
+  <span>Quanto costa un cucciolo con pedigree ENCI?</span>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Un cucciolo da allevamento serio con pedigree ENCI, test genetici completi e garanzie costa indicativamente tra 1.400 e 2.000 euro. Il prezzo riflette anni di selezione, test genetici (L2HGA, HC), vaccinazioni, microchip e alimentazione di qualita.</div>
+  </div>
+  
+  <div class="faq-item">
+  <div class="faq-question" onclick="toggleFAQ(this)">
+  <span>Quali test genetici fate sui riproduttori?</span>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Tutti i nostri riproduttori sono testati per: L2HGA (Aciduria L-2-Idrossiglutarica), HC (Cataratta Ereditaria) e PHPV. I test sono fondamentali per produrre cuccioli sani. Ogni cucciolo viene ceduto con certificati dei test dei genitori.</div>
+  </div>
+  
+  <div class="faq-item">
+  <div class="faq-question" onclick="toggleFAQ(this)">
+  <span>Posso visitare l'allevamento?</span>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Assolutamente si, anzi lo consiglio caldamente. Nel nostro allevamento a Ostellato (Ferrara) ricevo su appuntamento. Vedrete i cani adulti, come vivono i cuccioli, potrete verificare documentazione e pedigree.</div>
+  </div>
+  
+  </div>
+  
+  <div style="text-align:center;margin-top:1.5rem">
+  <a href="/faq-sullo-staffordshire-bull-terrier/" class="btn btn-ghost" title="Vedi tutte le FAQ">Vedi Tutte le 28 FAQ</a>
   </div>
   </div>
   </section>
