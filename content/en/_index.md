@@ -17,6 +17,7 @@ custom_content: |
   <div class="hero-actions">
   <a href="/en/puppies-staffordshire-bull-terrier/" class="btn btn-primary" title="Discover our puppies">Discover Puppies</a>
   <a href="/en/contact/" class="btn btn-ghost" title="Contact us">Contact Us</a>
+  <a href="/docs/guide-first-months-staffy-puppy.pdf" class="btn btn-gold" title="Free PDF guide: The first months with your Staffy puppy">Puppy Guide</a>
   </div>
   <p class="hero-trust">Genetic Testing - ENCI Pedigree - Since 2013</p>
   </div>
@@ -114,6 +115,40 @@ custom_content: |
   </div>
   </section>
   
+  <section class="section section-alt">
+  <div class="section-inner">
+  <span class="section-label">Free Resources</span>
+  <h2 class="section-title">Guides for Future Owners</h2>
+  
+  <p style="text-align:center;margin-bottom:1.5rem">Everything you need to know before and after your puppy arrives.</p>
+  
+  <div class="guide-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1rem;margin-bottom:1.5rem">
+  <a href="/en/puppy-home-socialization/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
+  <strong style="color:#c9a227">Socialization</strong><br>
+  <span style="font-size:0.9rem">How to prepare your puppy for the world</span>
+  </a>
+  <a href="/en/puppy-first-vaccinations/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
+  <strong style="color:#c9a227">Vaccinations</strong><br>
+  <span style="font-size:0.9rem">Schedule and practical advice</span>
+  </a>
+  <a href="/en/puppy-initial-feeding/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
+  <strong style="color:#c9a227">Feeding</strong><br>
+  <span style="font-size:0.9rem">What and how much to feed</span>
+  </a>
+  <a href="/en/puppy-alone-time/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
+  <strong style="color:#c9a227">Managing Alone Time</strong><br>
+  <span style="font-size:0.9rem">Preventing separation anxiety</span>
+  </a>
+  </div>
+  
+  <div style="text-align:center;padding:1.5rem;background:#5c4a3a;border-radius:12px;color:#fff">
+  <p style="margin:0 0 0.5rem 0;font-size:1.1rem"><strong>Download Now - Free PDF</strong></p>
+  <p style="margin:0 0 1rem 0;font-size:0.95rem;opacity:0.9">Everything you need to know before your puppy arrives</p>
+  <a href="/docs/guide-first-months-staffy-puppy.pdf" class="btn" style="background:#c9a227;color:#fff;padding:0.8rem 1.5rem;border-radius:6px;text-decoration:none;display:inline-block" title="Download the free guide">Download "The First Months with Your Staffy Puppy"</a>
+  </div>
+  </div>
+  </section>
+  
   <section class="dark-section">
   <h2>My Passion - My Kennel</h2>
   <p>The passion for the Staffordshire Bull Terrier was born in 2005, the year I had my first encounter with this extraordinary breed during Crufts. I was immediately fascinated by these muscular and affectionate puppies, who won me over like true miniature Rottweilers. Having already experience with Rottweilers, I discovered a new world: made of determination, intelligence and unconditional love.</p>
@@ -121,7 +156,7 @@ custom_content: |
   
   <section class="cta-section">
   <h2>Want Info About Puppies?</h2>
-  <p>Call us or write us on WhatsApp for information about available litters.</p>
+  <p>Call us for a no-obligation chat. We're here to answer all your questions.</p>
   <a href="https://wa.me/393924635584?text=Hello%20Paolo%2C%20I%20write%20from%20Del%20Piccolo%20Diavolo%20website" class="btn" title="Write us on WhatsApp">Write on WhatsApp</a>
   </section>
 ---
