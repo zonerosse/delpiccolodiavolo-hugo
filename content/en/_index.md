@@ -76,19 +76,19 @@ custom_content: |
   
   <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
   <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Bilquis Goddess Diabhal</h3>
-  <p style="color:#c9a227;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Italian Champion - 4th at Worlds</p>
+  <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Italian Champion - 4th at Worlds</p>
   <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Record: 12 consecutive Excellent 1st shows. Italian Champion in Intermediate Class. 4th at World Dog Show. Top Dog Junior 2023.</p>
   </div>
   
   <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
   <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Lothar Matthaus</h3>
-  <p style="color:#c9a227;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Junior Italian Champion</p>
+  <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Junior Italian Champion</p>
   <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Multiple JCAC and Junior BOB in national and international shows. Excellent 1st in all events. Son of English champions.</p>
   </div>
   
   <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
   <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Virtus et Honor Amazing Paddy the Baddy</h3>
-  <p style="color:#c9a227;font-weight:700;font-size:1rem;margin-bottom:0.75rem">BOB Male Puppy 2025</p>
+  <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">BOB Male Puppy 2025</p>
   <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Best of Breed Male Puppy at National Terrier Specialty Bologna 2025. Our promise for the future.</p>
   </div>
   
@@ -228,7 +228,7 @@ custom_content: |
   </div>
   
   <div style="text-align:center;margin-top:1.5rem">
-  <a href="/en/faq-staffordshire-bull-terrier/" class="btn btn-ghost" title="See all FAQ">See All FAQ</a>
+  <a href="/en/faq-staffordshire-bull-terrier/" class="btn btn-primary" title="See all FAQ">See All FAQ</a>
   </div>
   </div>
   </section>
