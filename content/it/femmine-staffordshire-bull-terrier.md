@@ -190,6 +190,29 @@ custom_content: |
   </div>
   </article>
   
+  <!-- NORA -->
+  <article class="female-card">
+  <div class="female-header">
+  <span class="female-badge">🏆 Mamma di 2 Campioni Italiani</span>
+  <h3 class="female-name">Skilful-Dogs Nora</h3>
+  </div>
+  <div class="female-content">
+  <div class="female-image">
+  <img src="/images/Nora, femmina di staffordshire bull terrier.avif" alt="Skilful-Dogs Nora" width="350" height="467" loading="lazy" decoding="async">
+  </div>
+  <div class="female-info">
+  <p><strong>Test Genetici:</strong> L2HGA & HC clear by DNA</p>
+  <p><strong>Mielopatia Degenerativa:</strong> Clear</p>
+  <p><strong>PHPV:</strong> Unaffected</p>
+  <p><strong>Dentatura:</strong> Completely scissor bite</p>
+  <p><strong>Padre:</strong> Skilful-Dogs Jeghër</p>
+  <p><strong>Madre:</strong> Skilful-Dogs Red Skin</p>
+  <a class="doc-link" href="docs/Nora-Genefast.pdf" target="_blank" rel="noopener" title="Scarica test genetici Nora">📄 Test Genetici</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="Vedi pedigree Nora su SBTPedigree">Vedi Pedigree Completo →</a>
+  </div>
+  </div>
+  </article>
+  
   </div>
   </section>
   

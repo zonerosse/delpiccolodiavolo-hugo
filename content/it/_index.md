@@ -1,6 +1,6 @@
 ---
 title: "Allevamento Staffordshire Bull Terrier"
-description: "Allevamento etico di Staffordshire Bull Terrier. Cuccioli sani, equilibrati e con pedigree, cresciuti con passione e attenzione. Scopri chi siamo."
+description: "Allevamento etico di Staffordshire Bull Terrier. Cuccioli sani, equilibrati e con pedigree ENCI, cresciuti con passione e attenzione. Test genetici L2HGA e HC clear. Scopri chi siamo."
 slug: ""
 custom_content: |
   <section class="hero">
@@ -44,7 +44,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">I Nostri Cuccioli</span>
-  <h2 class="section-title">Cuccioli Staffordshire Bull Terrier</h2>
+  <h2 class="section-title">Cuccioli Staffy</h2>
   
   <div class="gallery-grid">
   <div class="gallery-item"><img src="/images/foto1.avif" alt="Cucciolo Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo" loading="lazy" decoding="async" width="300" height="400"></div>
