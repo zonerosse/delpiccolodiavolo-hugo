@@ -194,31 +194,31 @@ custom_content: |
   <div class="faq-container">
   
   <div class="faq-item active">
-  <div class="faq-question" onclick="toggleFAQ(this)">
+  <div class="faq-question" >
   <span>Ist der Staffordshire Bull Terrier gefahrlich?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Nein. Mit serioeser Charakterselektion, fruher Sozialisierung und verantwortungsvollen Besitzern ist der Staffy ein liebevoller und stabiler Hund. Nach uber 12 Jahren Zucht dieser Rasse kann ich garantieren, dass Aggression von Genetik, Erziehung und Umgebung abhangt, nicht von der Rasse.</div>
   </div>
   
-  <div class="faq-item">
-  <div class="faq-question" onclick="toggleFAQ(this)">
+  <div class="faq-item active">
+  <div class="faq-question" >
   <span>Ist der Staffy gut mit Kindern?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Absolut ja. Traditionell "Nanny Dog" genannt wegen seiner ausserordentlichen Geduld mit Kindern. Unsere Staffies wachsen im Kontakt mit Kindern auf und entwickeln naturlich Sanftheit und Schutzinstinkt.</div>
   </div>
   
-  <div class="faq-item">
-  <div class="faq-question" onclick="toggleFAQ(this)">
+  <div class="faq-item active">
+  <div class="faq-question" >
   <span>Welche Gentests fuhren Sie durch?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Alle unsere Zuchthunde sind getestet auf: L2HGA, HC (Hereditare Katarakt) und PHPV. Tests sind essentiell fur die Produktion gesunder Welpen. Jeder Welpe kommt mit Zertifikaten der Elterntests.</div>
   </div>
   
-  <div class="faq-item">
-  <div class="faq-question" onclick="toggleFAQ(this)">
+  <div class="faq-item active">
+  <div class="faq-question" >
   <span>Kann ich die Zucht besuchen?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
