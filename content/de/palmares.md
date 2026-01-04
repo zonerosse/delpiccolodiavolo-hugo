@@ -43,7 +43,7 @@ custom_content: |
   <span class="section-label">Italienische Championin</span>
   <h2 class="section-title">Bilquis Goddess Diabhal</h2>
   
-  <div style="display:grid;grid-template-columns:1fr 2fr;gap:2rem;align-items:start;margin-bottom:2rem">
+  <div style="display:flex;flex-direction:column;gap:1.5rem;margin-bottom:2rem">
   <div class="image-center">
   <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Italienische Championin Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="380" style="border-radius:12px">
   </div>
@@ -60,25 +60,25 @@ custom_content: |
   
   <div class="risultati-grid" style="display:grid;gap:0.75rem">
   
-  <div class="risultato" style="display:grid;grid-template-columns:auto 1fr auto;gap:1rem;padding:1rem;background:#c9a227;border-radius:8px;align-items:center;color:#fff">
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#c9a227;border-radius:8px;align-items:center;color:#fff">
   <span style="background:#fff;color:#c9a227;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">4.</span>
   <span><strong>World Dog Show - Zagreb (HR)</strong> - 26. Apr 2024</span>
   <span style="font-weight:600">4. Platz</span>
   </div>
   
-  <div class="risultato" style="display:grid;grid-template-columns:auto 1fr auto;gap:1rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
   <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Nationale Spezialausstellung Bologna - 15. Feb 2025</span>
   <span style="color:#8b5a2b;font-weight:600">Championklasse</span>
   </div>
   
-  <div class="risultato" style="display:grid;grid-template-columns:auto 1fr auto;gap:1rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
   <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung Bologna - Feb 2024</span>
   <span style="color:#8b5a2b;font-weight:600">4x CAC + 4x CACIB</span>
   </div>
   
-  <div class="risultato" style="display:grid;grid-template-columns:auto 1fr auto;gap:1rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
   <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung Ferrara - Mar 2024</span>
   <span style="color:#8b5a2b;font-weight:600">CAC + CACIB</span>
@@ -96,7 +96,7 @@ custom_content: |
   <span class="section-label">San Marino Championin</span>
   <h2 class="section-title">Cattleya Del Piccolo Diavolo at Valconcaclan</h2>
   
-  <div style="display:grid;grid-template-columns:1fr 2fr;gap:2rem;align-items:start;margin-bottom:2rem">
+  <div style="display:flex;flex-direction:column;gap:1.5rem;margin-bottom:2rem">
   <div class="image-center">
   <img src="/images/cattleya-campionessa.webp" alt="Cattleya Del Piccolo Diavolo, San Marino Championin Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="380" style="border-radius:12px">
   </div>
@@ -118,7 +118,7 @@ custom_content: |
   <span class="section-label">Italienischer Jugendchampion</span>
   <h2 class="section-title">Lothar Matthaus</h2>
   
-  <div style="display:grid;grid-template-columns:1fr 2fr;gap:2rem;align-items:start;margin-bottom:2rem">
+  <div style="display:flex;flex-direction:column;gap:1.5rem;margin-bottom:2rem">
   <div class="image-center">
   <img src="/images/lothar-best-young.webp" alt="Lothar Matthaus, Italienischer Jugendchampion Staffordshire Bull Terrier - Best Young Carrara 2025" loading="lazy" decoding="async" width="300" height="380" style="border-radius:12px">
   </div>
@@ -138,7 +138,7 @@ custom_content: |
   <span class="section-label">Unser Versprechen</span>
   <h2 class="section-title">Virtus et Honor Amazing Paddy the Baddy (Tikus)</h2>
   
-  <div style="display:grid;grid-template-columns:1fr 2fr;gap:2rem;align-items:start;margin-bottom:2rem">
+  <div style="display:flex;flex-direction:column;gap:1.5rem;margin-bottom:2rem">
   <div class="image-center">
   <img src="/images/tikus-primo.webp" alt="Tikus Del Piccolo Diavolo, BOB Rude Welpe Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="380" style="border-radius:12px">
   </div>
