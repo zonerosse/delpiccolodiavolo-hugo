@@ -10,7 +10,7 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">4.9 su 47 recensioni</span>
+  <span class="hero-eyebrow">4.9 su 37 recensioni</span>
   <h1 class="hero-title">Allevamento<br><em>Staffordshire</em><br>Bull Terrier</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo - Selezione, salute e carattere</p>
   <p class="hero-description">Quando pensi a un allevamento di Staffordshire Bull Terrier, immagini box ordinati e cuccioli tutti uguali? Da noi è diverso. Ogni cane ha un nome, una storia, un carattere. Non alleviamo in serie: coltiviamo relazioni, ricordi e momenti indimenticabili.</p>
