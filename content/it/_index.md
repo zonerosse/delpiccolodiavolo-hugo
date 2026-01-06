@@ -60,7 +60,7 @@ custom_content: |
   
   <div style="text-align:center">
   <a href="/cuccioli-staffordshire-bull-terrier/" class="btn btn-primary" title="Scopri i nostri cuccioli">Scopri i Cuccioli</a>
-  <a href="/cucciolate-staffordshire-bull-terrier/" class="btn btn-ghost" title="Vedi cuccioli disponibili" style="margin-left:.5rem">Cuccioli Disponibili</a>
+  <a href="/programma-allevamento/" class="btn btn-ghost" title="Vedi il programma allevamento" style="margin-left:.5rem">Programma Allevamento</a>
   </div>
   </div>
   </section>
