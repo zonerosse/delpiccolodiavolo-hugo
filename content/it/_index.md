@@ -107,6 +107,8 @@ custom_content: |
   <span class="section-label">Chi Siamo</span>
   <h2 class="section-title">La Nostra Storia</h2>
   
+  <p style="text-align:center;margin-bottom:2rem;font-size:1.1rem;color:#5c4a3a;font-weight:600">Allevamento cuccioli con pedigree ENCI dal 2013 • Oltre 100 cuccioli ceduti in Italia e Europa • 3 Campioni Italiani • 4° al World Dog Show</p>
+  
   <div class="storia-grid">
   <div>
   <div class="content-block">
@@ -195,26 +197,10 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question" >
-  <span>Lo Staffordshire Bull Terrier e pericoloso?</span>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
-  </div>
-  <div class="faq-answer">No. Con selezione seria del carattere, socializzazione precoce e proprietari responsabili, lo Staffy e un cane affettuoso e stabile. Da oltre 12 anni allevo questa razza e posso garantire che l'aggressivita dipende da genetica, educazione e ambiente, non dalla razza.</div>
-  </div>
-  
-  <div class="faq-item active">
-  <div class="faq-question" >
-  <span>Lo Staffy e adatto ai bambini?</span>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
-  </div>
-  <div class="faq-answer">Assolutamente si. Tradizionalmente chiamato "nanny dog" per la straordinaria pazienza con i bambini. I nostri Staffy crescono a contatto con bambini, sviluppando naturalmente dolcezza e protezione.</div>
-  </div>
-  
-  <div class="faq-item active">
-  <div class="faq-question" >
   <span>Quanto costa un cucciolo con pedigree ENCI?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Un cucciolo da allevamento serio con pedigree ENCI, test genetici completi e garanzie costa indicativamente tra 1.400 e 2.000 euro. Il prezzo riflette anni di selezione, test genetici (L2HGA, HC), vaccinazioni, microchip e alimentazione di qualita.</div>
+  <div class="faq-answer">Un cucciolo con pedigree ENCI, test genetici completi (L2HGA, HC) e garanzie costa tra 1.200 e 1.500 euro. Il prezzo include vaccinazioni, microchip, sverminazioni e supporto post-adozione.</div>
   </div>
   
   <div class="faq-item active">

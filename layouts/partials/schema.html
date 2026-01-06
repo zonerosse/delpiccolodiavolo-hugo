@@ -85,7 +85,7 @@
 }
 </script>
 
-{{/* FAQPage su HOMEPAGE */}}
+{{/* FAQPage su HOMEPAGE - Solo 3 FAQ commerciali */}}
 {{ if .IsHome }}
 <!-- JSON-LD: FAQPage -->
 <script type="application/ld+json">
@@ -95,34 +95,26 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "{{ if eq $lang "de" }}Warum einen Staffordshire Bull Terrier wählen?{{ else if eq $lang "en" }}Why choose a Staffordshire Bull Terrier?{{ else }}Perché scegliere lo Staffordshire Bull Terrier?{{ end }}",
+      "name": "{{ if eq $lang "de" }}Wie viel kostet ein Welpe mit ENCI-Stammbaum?{{ else if eq $lang "en" }}How much does a puppy with ENCI pedigree cost?{{ else }}Quanto costa un cucciolo con pedigree ENCI?{{ end }}",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "{{ if eq $lang "de" }}Ausgeglichene, intelligente und treue Rasse. Bekannt für Geduld mit Kindern und tiefe Bindung zur Familie.{{ else if eq $lang "en" }}Balanced, intelligent and devoted breed. Known for patience with children and deep bond with family.{{ else }}Razza equilibrata, intelligente e devota. Nota per la pazienza con i bambini e il legame profondo con la famiglia.{{ end }}"
+        "text": "{{ if eq $lang "de" }}Ein Welpe mit ENCI-Stammbaum, vollständigen Gentests (L2HGA, HC) und Garantien kostet zwischen 1.200 und 1.500 Euro. Im Preis enthalten sind Impfungen, Mikrochip, Entwurmungen und Nachsorge.{{ else if eq $lang "en" }}A puppy with ENCI pedigree, complete genetic tests (L2HGA, HC) and guarantees costs between 1,200 and 1,500 euros. The price includes vaccinations, microchip, deworming and post-adoption support.{{ else }}Un cucciolo con pedigree ENCI, test genetici completi (L2HGA, HC) e garanzie costa tra 1.200 e 1.500 euro. Il prezzo include vaccinazioni, microchip, sverminazioni e supporto post-adozione.{{ end }}"
       }
     },
     {
       "@type": "Question",
-      "name": "{{ if eq $lang "de" }}Wie werden die Welpen aufgezogen?{{ else if eq $lang "en" }}How are the puppies raised?{{ else }}Come vengono cresciuti i cuccioli?{{ end }}",
+      "name": "{{ if eq $lang "de" }}Welche Gentests führen Sie bei den Zuchttieren durch?{{ else if eq $lang "en" }}What genetic tests do you perform on breeding dogs?{{ else }}Quali test genetici fate sui riproduttori?{{ end }}",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "{{ if eq $lang "de" }}Familiäre Umgebung, sauber und anregend. Frühe Sozialisierung mit Menschen und anderen Hunden.{{ else if eq $lang "en" }}Family environment, clean and stimulating. Early socialization with people and other dogs.{{ else }}Ambiente familiare, pulito e stimolante. Socializzazione precoce con persone, rumori domestici e altri cani.{{ end }}"
+        "text": "{{ if eq $lang "de" }}Alle unsere Zuchttiere sind getestet auf: L2HGA, HC (Erbliche Katarakt) und PHPV. Die Tests sind unerlässlich für gesunde Welpen. Jeder Welpe wird mit Zertifikaten der elterlichen Tests übergeben.{{ else if eq $lang "en" }}All our breeding dogs are tested for: L2HGA, HC (Hereditary Cataract) and PHPV. Tests are essential for producing healthy puppies. Each puppy comes with certificates of parental tests.{{ else }}Tutti i nostri riproduttori sono testati per: L2HGA (Aciduria L-2-Idrossiglutarica), HC (Cataratta Ereditaria) e PHPV. I test sono fondamentali per produrre cuccioli sani. Ogni cucciolo viene ceduto con certificati dei test dei genitori.{{ end }}"
       }
     },
     {
       "@type": "Question",
-      "name": "{{ if eq $lang "de" }}Welche Garantien bieten Sie?{{ else if eq $lang "en" }}What guarantees do you offer?{{ else }}Quali garanzie offrite?{{ end }}",
+      "name": "{{ if eq $lang "de" }}Kann ich die Zucht besuchen?{{ else if eq $lang "en" }}Can I visit the kennel?{{ else }}Posso visitare l'allevamento?{{ end }}",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "{{ if eq $lang "de" }}Zertifizierter Stammbaum, Mikrochip, Gesundheitsheft, Impfungen. Kontinuierliche Unterstützung.{{ else if eq $lang "en" }}Certified pedigree, microchip, health booklet, vaccinations. Continuous support.{{ else }}Pedigree certificato, microchip, libretto sanitario, vaccinazioni e sverminazioni. Supporto continuo pre e post adozione.{{ end }}"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "{{ if eq $lang "de" }}Kann ich einen Welpen reservieren?{{ else if eq $lang "en" }}Can I reserve a puppy?{{ else }}Posso prenotare un cucciolo di Staffordshire Bull Terrier?{{ end }}",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "{{ if eq $lang "de" }}Ja, wir akzeptieren Reservierungen mit Anzahlung. Updates und Besuche nach Termin.{{ else if eq $lang "en" }}Yes, we accept reservations with deposit. Updates and visits by appointment.{{ else }}Sì, accettiamo prenotazioni per le future cucciolate con caparra. Aggiornamenti sulla crescita e visite su appuntamento.{{ end }}"
+        "text": "{{ if eq $lang "de" }}Ja, das empfehle ich sogar. In unserer Zucht empfange ich nach Vereinbarung. Sie sehen die erwachsenen Hunde, wie die Welpen leben, und können Dokumentation und Stammbaum überprüfen.{{ else if eq $lang "en" }}Yes, I highly recommend it. At our kennel I receive by appointment. You will see the adult dogs, how the puppies live, and can verify documentation and pedigree.{{ else }}Assolutamente sì, anzi lo consiglio caldamente. Nel nostro allevamento ricevo su appuntamento. Vedrete i cani adulti, come vivono i cuccioli, potrete verificare documentazione e pedigree.{{ end }}"
       }
     }
   ]
