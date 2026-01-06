@@ -31,6 +31,22 @@
   
   <link rel="canonical" href="{{ .Permalink }}">
 
+  {{/* Hreflang for multilingual SEO */}}
+  {{ $path := .RelPermalink }}
+  {{ $cleanPath := $path }}
+  {{ if hasPrefix $path "/en/" }}
+    {{ $cleanPath = strings.TrimPrefix "/en" $path }}
+  {{ else if hasPrefix $path "/de/" }}
+    {{ $cleanPath = strings.TrimPrefix "/de" $path }}
+  {{ end }}
+  {{ if not (hasPrefix $cleanPath "/") }}
+    {{ $cleanPath = printf "/%s" $cleanPath }}
+  {{ end }}
+  <link rel="alternate" hreflang="it" href="https://delpiccolodiavolo.it{{ $cleanPath }}">
+  <link rel="alternate" hreflang="en" href="https://delpiccolodiavolo.it/en{{ $cleanPath }}">
+  <link rel="alternate" hreflang="de" href="https://delpiccolodiavolo.it/de{{ $cleanPath }}">
+  <link rel="alternate" hreflang="x-default" href="https://delpiccolodiavolo.it{{ $cleanPath }}">
+
   <!-- Open Graph -->
   <meta property="og:type" content="website">
   <meta property="og:locale" content="{{ if eq .Site.Language.Lang "it" }}it_IT{{ else }}en_US{{ end }}">
