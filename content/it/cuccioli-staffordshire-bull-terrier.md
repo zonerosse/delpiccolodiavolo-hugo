@@ -1,6 +1,6 @@
 ---
-title: "Cuccioli Staffordshire Bull Terrier"
-description: "Cuccioli Staffordshire Bull Terrier allevati in casa: selezione salute e carattere, pedigree ENCI, linee Elitebull e Lackyle. Emilia-Romagna, Italia. Dal 2013."
+title: "Cuccioli Staffordshire Bull Terrier: come li alleviamo"
+description: "Come alleviamo i cuccioli Staffordshire Bull Terrier: socializzazione, salute, carattere e selezione etica. Del Piccolo Diavolo."
 slug: "cuccioli-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">
@@ -15,12 +15,12 @@ custom_content: |
   <p class="hero-subtitle">Linee Elitebull e Lackyle - Dal 2005</p>
   <p class="hero-description">I nostri cuccioli nascono e crescono in famiglia, circondati da amore e stimoli positivi. Selezioniamo per salute, carattere e tipicità, seguendo le migliori linee di sangue inglesi e irlandesi.</p>
   <div class="hero-actions">
-  <a href="/cucciolate-staffordshire-bull-terrier/" class="btn btn-primary" title="Vedi cuccioli disponibili">Cuccioli Disponibili</a>
+  <a href="/programma-allevamento/" class="btn btn-primary" title="Vedi cucciolate e disponibilità">Cuccioli Disponibili</a>
   <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sui%20cuccioli" class="btn btn-ghost" title="Contattaci su WhatsApp">Contattaci</a>
   </div>
   </div>
   </section>
-  
+
   <div class="features-bar">
   <div class="features-track">
   <span>Elitebull Lines</span>
@@ -39,12 +39,12 @@ custom_content: |
   <span>Ostellato FE</span>
   </div>
   </div>
-  
+
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Gallery</span>
   <h2 class="section-title">I Nostri Cuccioli</h2>
-  
+
   <div class="gallery-grid">
   <div class="gallery-item"><img src="/images/primo-piano-cucciolo.avif" alt="Cucciolo Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="400"></div>
   <div class="gallery-item"><img src="/images/cucciolo-con-cavallo.avif" alt="Cucciolo Staffordshire Bull Terrier in posa" loading="lazy" decoding="async" width="300" height="400"></div>
@@ -52,12 +52,12 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Perché Sceglierci</span>
   <h2 class="section-title">Il Nostro Approccio</h2>
-  
+
   <div class="zigzag">
   <div class="zigzag-item">
   <div class="zigzag-text">
@@ -68,7 +68,7 @@ custom_content: |
   <img src="/images/storia-handler.avif" alt="Staffordshire Bull Terrier con handler" loading="lazy" decoding="async" width="400" height="300">
   </div>
   </div>
-  
+
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Selezione Morfologica</h3>
@@ -78,7 +78,7 @@ custom_content: |
   <img src="/images/femmina-bilquis.webp" alt="Bilquis Del Piccolo Diavolo" loading="lazy" decoding="async" width="400" height="300">
   </div>
   </div>
-  
+
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Temperamento e Socializzazione</h3>
@@ -88,7 +88,7 @@ custom_content: |
   <img src="/images/foto1.avif" alt="Cuccioli socializzati" loading="lazy" decoding="async" width="400" height="300">
   </div>
   </div>
-  
+
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Vita in Famiglia</h3>
@@ -101,46 +101,46 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Domande Frequenti</span>
   <h2 class="section-title">FAQ sui Cuccioli</h2>
-  
+
   <div class="faq-item">
   <h3>Quanto costa un cucciolo di Staffordshire Bull Terrier?</h3>
   <p>Il prezzo riflette la qualità della selezione, i test genetici completi (L2HGA, HC), il pedigree ENCI, le vaccinazioni, il microchip e il supporto continuo che offriamo. Contattaci per informazioni dettagliate sulle nostre cucciolate.</p>
   </div>
-  
+
   <div class="faq-item">
   <h3>Come posso prenotare un cucciolo?</h3>
   <p>Puoi contattarci via WhatsApp o telefono. Accettiamo prenotazioni per le future cucciolate con caparra confirmatoria. Ti terremo aggiornato sulla crescita con foto e video, e potrai venire a conoscere il cucciolo su appuntamento.</p>
   </div>
   </div>
   </section>
-  
+
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Recensioni</span>
   <h2 class="section-title">Cosa Dicono di Noi</h2>
-  
+
   <div class="review-card">
   <p class="review-text">"Paolo è una garanzia per questa razza. Cuccioli cresciuti in casa, supporto continuo e grande competenza. Il nostro Staffy è perfetto!"</p>
   <div class="reviewer"><span>Cristian Ferroci</span><span class="stars">★★★★★</span></div>
   </div>
-  
+
   <div class="review-card">
   <p class="review-text">"L'amore a prima vista esiste… fidatevi. Professionalità, passione e cuccioli equilibrati e sani. Consiglio a tutti questo allevamento."</p>
   <div class="reviewer"><span>Manu Nannetti</span><span class="stars">★★★★★</span></div>
   </div>
   </div>
   </section>
-  
+
   <section class="dark-section">
   <h2>La Nostra Passione</h2>
   <p>Dal 2005 selezioniamo Staffordshire Bull Terrier con dedizione e amore. Ogni cucciolo che nasce nel nostro allevamento porta con sé anni di esperienza, studio e passione per questa razza straordinaria.</p>
   </section>
-  
+
   <section class="cta-section">
   <h2>Vuoi Info sui Cuccioli?</h2>
   <p>Chiamaci o scrivici su WhatsApp per informazioni sulle cucciolate disponibili.</p>
