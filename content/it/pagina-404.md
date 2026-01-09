@@ -20,26 +20,26 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+
   <div class="features-bar">
   <div class="features-track">
   <span>Dal 2013</span><span>Ostellato (FE)</span><span>Linee Elitebull</span><span>Linee Lackyle</span><span>Test Genetici</span>
   <span>Dal 2013</span><span>Ostellato (FE)</span><span>Linee Elitebull</span><span>Linee Lackyle</span><span>Test Genetici</span>
   </div>
   </div>
-  
+
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Navigazione</span>
   <h2 class="section-title">Dove Vuoi Andare?</h2>
   <p class="section-text">Ecco le pagine più visitate del nostro sito. Clicca su quella che ti interessa.</p>
-  
+
   <div class="links-grid">
   <a href="/cuccioli-staffordshire-bull-terrier/" class="link-card" title="Cuccioli disponibili">
   <h3>Cuccioli</h3>
   <p>Qualità dei cuccioli</p>
   </a>
-  <a href="/cucciolate-staffordshire-bull-terrier/" class="link-card" title="Cucciolate programmate">
+  <a href="/programma-allevamento/" class="link-card" title="Cucciolate programmate">
   <h3>Cucciolate</h3>
   <p>Programma nascite</p>
   </a>
