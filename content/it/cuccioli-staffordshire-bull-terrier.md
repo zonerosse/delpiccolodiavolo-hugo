@@ -15,7 +15,7 @@ custom_content: |
   <p class="hero-subtitle">Linee Elitebull e Lackyle - Dal 2005</p>
   <p class="hero-description">I nostri cuccioli nascono e crescono in famiglia, circondati da amore e stimoli positivi. Selezioniamo per salute, carattere e tipicità, seguendo le migliori linee di sangue inglesi e irlandesi.</p>
   <div class="hero-actions">
-  <a href="/programma-allevamento/" class="btn btn-primary" title="Vedi cucciolate e disponibilità">Cuccioli Disponibili</a>
+  <a href="/programma-allevamento/" class="btn btn-primary" title="Vedi cucciolate e disponibilità">Cucciolate & Disponibilità</a>
   <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sui%20cuccioli" class="btn btn-ghost" title="Contattaci su WhatsApp">Contattaci</a>
   </div>
   </div>
