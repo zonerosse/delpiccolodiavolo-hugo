@@ -1,45 +1,39 @@
-# Redirect 301 per delpiccolodiavolo.it
-# Aggiornato - 09/01/2026
-# ===========================================
+# =================================================
+# Redirect 301 – delpiccolodiavolo.it
+# VERSIONE DEFINITIVA / SEO SAFE
+# =================================================
 
 # -------------------------------------------------
-# 0) NORMALIZZAZIONE GENERALE (prima di tutto)
+# 1) CUCCIOLATE → PROGRAMMA (PRIORITÀ ASSOLUTA)
 # -------------------------------------------------
-
-# Tutti gli URL .html -> stessa pagina senza .html (mantiene lo slug)
-# Esempio: /chi-siamo.html -> /chi-siamo
-/*.html /:splat 301
-
-# Normalizza anche /qualcosa (senza slash) -> /qualcosa/
-# (solo per le pagine che esistono davvero come cartelle Hugo)
-# NOTA: metto solo quelle importanti, non una regola globale per non fare disastri.
-# -------------------------------------------------
+/cucciolate-staffordshire-bull-terrier /programma-allevamento/ 301
+/cucciolate-staffordshire-bull-terrier/ /programma-allevamento/ 301
+/cucciolate-staffordshire-bull-terrier-disponibili /programma-allevamento/ 301
+/cucciolate-staffordshire-bull-terrier-disponibili/ /programma-allevamento/ 301
+/cucciolate%20staffordshire%20bull%20terrier.html /programma-allevamento/ 301
 
 
 # -------------------------------------------------
-# 1) PAGINE "VECCHIE" SPECIFICHE (se vuoi redirect diverso dal semplice /slug)
+# 2) CUCCIOLI
 # -------------------------------------------------
+/cuccioli.html /cuccioli-staffordshire-bull-terrier/ 301
+/cuccioli-staffordshire-bull-terrier.html /cuccioli-staffordshire-bull-terrier/ 301
+/cuccioli-staffordshire-bull-terrier-in-affido.html /cuccioli-staffordshire-bull-terrier/ 301
+/cuccioli-staffordshire-bull-terrier-disponibili /cuccioli-staffordshire-bull-terrier/ 301
+/cuccioli-staffordshire-bull-terrier-disponibili.html /cuccioli-staffordshire-bull-terrier/ 301
+/cuccioli-staffy /cuccioli-staffordshire-bull-terrier/ 301
+/cucciolo-staffy-in-adozione /cuccioli-staffordshire-bull-terrier/ 301
 
-/index.html / 301
+
+# -------------------------------------------------
+# 3) ALLEVAMENTO / CONTATTI
+# -------------------------------------------------
 /contatti.html /allevamento-staffordshire-bull-terrier-in-emilia-romagna/ 301
-
-
-# -------------------------------------------------
-# 2) AGGRESSIVITÀ / PERICOLOSITÀ
-# -------------------------------------------------
-/agressivita-dello-staffordshire-bull-terrier.html /staffy-pericoloso-legge-italia/ 301
-/aggressivita-dello-staffordshire-bull-terrier.html /staffy-pericoloso-legge-italia/ 301
-
-
-# -------------------------------------------------
-# 3) ALLEVAMENTO
-# -------------------------------------------------
 /allevamento-staffy.html / 301
 /allevamento-staffy-.html / 301
-/allevamento-staffordshire-bull-terrier-in-emilia-romagna.html /allevamento-staffordshire-bull-terrier-in-emilia-romagna/ 301
-/allevamento-staffy-emilia-romagna.html /allevamento-staffordshire-bull-terrier-in-emilia-romagna/ 301
-/allevamento-staffy-emilia-romagna /allevamento-staffordshire-bull-terrier-in-emilia-romagna/ 301
 /allevamento-staffy /allevamento-staffordshire-bull-terrier-in-emilia-romagna/ 301
+/allevamento-staffy-emilia-romagna /allevamento-staffordshire-bull-terrier-in-emilia-romagna/ 301
+/allevamento-staffordshire-bull-terrier-in-emilia-romagna.html /allevamento-staffordshire-bull-terrier-in-emilia-romagna/ 301
 
 
 # -------------------------------------------------
@@ -47,14 +41,11 @@
 # -------------------------------------------------
 /staffordshire-bull-terrier.html / 301
 /staffordshire-bull-terrier / 301
-
 /standard-staffordshire-bull-terrier.html /standard-tipicita-morfologia/ 301
 /standard-staffordshire-bull-terrier /standard-tipicita-morfologia/ 301
 /staffordshire-bull-terrier-standard/ /standard-tipicita-morfologia/ 301
-
 /carattere-staffordshire-bull-terrier.html /faq-sullo-staffordshire-bull-terrier/ 301
 /staffordshire-bull-terrier-carattere/ /faq-sullo-staffordshire-bull-terrier/ 301
-
 /staffordshire-bull-terrier-affido/ /cuccioli-staffordshire-bull-terrier/ 301
 
 
@@ -67,49 +58,15 @@
 
 
 # -------------------------------------------------
-# 6) CUCCIOLI
-# -------------------------------------------------
-/cuccioli.html /cuccioli-staffordshire-bull-terrier/ 301
-
-/cuccioli-staffordshire-bull-terrier.html /cuccioli-staffordshire-bull-terrier/ 301
-/cuccioli-staffordshire-bull-terrier-in-affido.html /cuccioli-staffordshire-bull-terrier/ 301
-/cuccioli-staffordshire-bull-terrier-disponibili /cuccioli-staffordshire-bull-terrier/ 301
-/cuccioli-staffordshire-bull-terrier-disponibili.html /cuccioli-staffordshire-bull-terrier/ 301
-
-/cuccioli-staffy /cuccioli-staffordshire-bull-terrier/ 301
-/cucciolo-staffy-in-adozione /cuccioli-staffordshire-bull-terrier/ 301
-
-
-# -------------------------------------------------
-# 7) CUCCIOLATE -> PROGRAMMA ALLEVAMENTO (coerente e definitivo)
-# -------------------------------------------------
-/cucciolate-staffordshire-bull-terrier /programma-allevamento/ 301
-/cucciolate-staffordshire-bull-terrier-disponibili /programma-allevamento/ 301
-
-# Variante con spazi URL-encoded: mettila coerente ANCHE LEI su programma
-# (prima era verso /cuccioli-... e ti crea incoerenza)
-/cucciolate%20staffordshire%20bull%20terrier.html /programma-allevamento/ 301
-
-
-# -------------------------------------------------
-# 8) LACKYLE (pagina vecchia)
-# -------------------------------------------------
-/lackyle-bean-croi-olc.html /femmine-staffordshire-bull-terrier/ 301
-/lackyle-bean-croi-olc /femmine-staffordshire-bull-terrier/ 301
-
-
-# -------------------------------------------------
-# 9) ALIMENTAZIONE / SALUTE
+# 6) SALUTE / ALIMENTAZIONE
 # -------------------------------------------------
 /alimentazione-del-cane.html /cuccioli-alimentazione-iniziale/ 301
-/alimentazione-del-cane /cuccioli-alimentazione-iniziale/ 301
-
 /salute-e-comportamento-dello-staffordshire-bull-terrier.html /salute-esercizio-sicuro/ 301
 /salute-e-comportamento-dello-staffordshire.html /salute-esercizio-sicuro/ 301
 
 
 # -------------------------------------------------
-# 10) PRIVACY
+# 7) PRIVACY
 # -------------------------------------------------
 /informativa-sulla-privacy.html /privacy-policy/ 301
 /gdpr-informativa-sulla-privacy.html /privacy-policy/ 301
@@ -117,20 +74,16 @@
 
 
 # -------------------------------------------------
-# 11) TEST GENETICI / VIDEO / FAQ / STORIA
+# 8) ALTRO
 # -------------------------------------------------
-/test-genetici-l2hga-hc/ /test-genetici-l2hga-hc-staffy/ 301
-/test-genetici-l2hga-hc /test-genetici-l2hga-hc-staffy/ 301
-
-/video-cuccioli-staffordshire-bull-terrier.html / 301
-/video-cuccioli-staffordshire-bull-terrier / 301
-
 /faq-sullo-staffordshire-bull-terrier.html /faq-sullo-staffordshire-bull-terrier/ 301
 /la-nostra-storia.html /chi-siamo/ 301
+/test-genetici-l2hga-hc /test-genetici-l2hga-hc-staffy/ 301
+/video-cuccioli-staffordshire-bull-terrier.html / 301
 
 
 # -------------------------------------------------
-# 12) NORMALIZZAZIONE TRAILING SLASH (solo pagine vere)
+# 9) NORMALIZZAZIONE SLASH (SOLO PAGINE REALI)
 # -------------------------------------------------
 /blog /blog/ 301
 /chi-siamo /chi-siamo/ 301
@@ -141,18 +94,6 @@
 
 
 # -------------------------------------------------
-# 13) SPAM CLEANER
+# 10) SPAM
 # -------------------------------------------------
 /.lsrecap/* / 301
-
-# === URL SPAM (lasciare 404) ===
-# /piwigo/piwigo/
-# /set-of-plates-*
-# /handmade-vase-*
-# /wooden-chair-*
-# /sunglasses-*
-# /hand-soap-*
-# /face-serum-*
-# /wool-sweater-*
-# /classic-cap-*
-# /cdn-cgi/l/email-protection
