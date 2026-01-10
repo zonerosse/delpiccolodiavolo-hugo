@@ -205,7 +205,7 @@ custom_content: |
 
   <section class="cta-section">
   <h2>Informazioni sul programma di allevamento</h2>
-<p>Scrivici per conoscere il nostro metodo di selezione e le cucciolate previste.</p>
+  <p>Scrivici per conoscere il nostro metodo di selezione e le cucciolate previste.</p>
   <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sulle%20cucciolate%20di%20Staffordshire%20Bull%20Terrier" class="btn" title="Scrivici su WhatsApp per info cucciolate">Scrivici su WhatsApp</a>
   </section>
 ---
