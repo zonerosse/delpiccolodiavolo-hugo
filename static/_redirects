@@ -1,100 +1,50 @@
-# =================================================
-# REDIRECTS DEFINITIVI – delpiccolodiavolo.it
-# Cloudflare Pages
-# =================================================
-
+# =========================================
+# REDIRECTS – delpiccolodiavolo.it
+# Versione STABILE – Cloudflare Pages
+# =========================================
 
 # -------------------------------------------------
-# 1) CUCCIOLATE → PROGRAMMA ALLEVAMENTO (PRIORITÀ ASSOLUTA)
+# CUCCIOLATE → PROGRAMMA ALLEVAMENTO (PRIORITÀ MASSIMA)
 # -------------------------------------------------
 /cucciolate-staffordshire-bull-terrier /programma-allevamento/ 301
 /cucciolate-staffordshire-bull-terrier/ /programma-allevamento/ 301
-/cucciolate-staffordshire-bull-terrier-disponibili /programma-allevamento/ 301
-/cucciolate-staffordshire-bull-terrier-disponibili/ /programma-allevamento/ 301
-/cucciolate%20staffordshire%20bull%20terrier.html /programma-allevamento/ 301
-
+/cucciolate-staffordshire-bull-terrier/* /programma-allevamento/ 301
 
 # -------------------------------------------------
-# 2) CUCCIOLI
+# CUCCIOLI
 # -------------------------------------------------
 /cuccioli.html /cuccioli-staffordshire-bull-terrier/ 301
-/cuccioli-staffordshire-bull-terrier.html /cuccioli-staffordshire-bull-terrier/ 301
-/cuccioli-staffordshire-bull-terrier-in-affido.html /cuccioli-staffordshire-bull-terrier/ 301
-/cuccioli-staffordshire-bull-terrier-disponibili /cuccioli-staffordshire-bull-terrier/ 301
-/cuccioli-staffordshire-bull-terrier-disponibili.html /cuccioli-staffordshire-bull-terrier/ 301
 /cuccioli-staffy /cuccioli-staffordshire-bull-terrier/ 301
 /cucciolo-staffy-in-adozione /cuccioli-staffordshire-bull-terrier/ 301
 
-
 # -------------------------------------------------
-# 3) CONTATTI / ALLEVAMENTO
+# ALLEVAMENTO
 # -------------------------------------------------
-/contatti.html /allevamento-staffordshire-bull-terrier-in-emilia-romagna/ 301
 /allevamento-staffy.html / 301
-/allevamento-staffy-.html / 301
-/allevamento-staffy /allevamento-staffordshire-bull-terrier-in-emilia-romagna/ 301
-/allevamento-staffy-emilia-romagna /allevamento-staffordshire-bull-terrier-in-emilia-romagna/ 301
-/allevamento-staffordshire-bull-terrier-in-emilia-romagna.html /allevamento-staffordshire-bull-terrier-in-emilia-romagna/ 301
-
+/allevamento-staffy / 301
 
 # -------------------------------------------------
-# 4) RAZZA / STANDARD / CARATTERE
+# RAZZA / STANDARD / FAQ
 # -------------------------------------------------
 /staffordshire-bull-terrier.html / 301
-/staffordshire-bull-terrier / 301
 /standard-staffordshire-bull-terrier.html /standard-tipicita-morfologia/ 301
-/standard-staffordshire-bull-terrier /standard-tipicita-morfologia/ 301
-/staffordshire-bull-terrier-standard/ /standard-tipicita-morfologia/ 301
 /carattere-staffordshire-bull-terrier.html /faq-sullo-staffordshire-bull-terrier/ 301
-/staffordshire-bull-terrier-carattere/ /faq-sullo-staffordshire-bull-terrier/ 301
-/staffordshire-bull-terrier-affido/ /cuccioli-staffordshire-bull-terrier/ 301
-
 
 # -------------------------------------------------
-# 5) CAMPIONI
+# CAMPIONI
 # -------------------------------------------------
 /staffordshire-bull-terrier-campioni.html /palmares-del-piccolo-diavolo/ 301
-/staffordshire-bull-terrier-campioni /palmares-del-piccolo-diavolo/ 301
-/staffordshire_bull_terrier_campioni.html /palmares-del-piccolo-diavolo/ 301
-
 
 # -------------------------------------------------
-# 6) SALUTE / ALIMENTAZIONE
-# -------------------------------------------------
-/alimentazione-del-cane.html /cuccioli-alimentazione-iniziale/ 301
-/salute-e-comportamento-dello-staffordshire-bull-terrier.html /salute-esercizio-sicuro/ 301
-/salute-e-comportamento-dello-staffordshire.html /salute-esercizio-sicuro/ 301
-
-
-# -------------------------------------------------
-# 7) PRIVACY
+# PRIVACY
 # -------------------------------------------------
 /informativa-sulla-privacy.html /privacy-policy/ 301
 /gdpr-informativa-sulla-privacy.html /privacy-policy/ 301
-/privacy /privacy-policy/ 301
-
 
 # -------------------------------------------------
-# 8) ALTRO
-# -------------------------------------------------
-/faq-sullo-staffordshire-bull-terrier.html /faq-sullo-staffordshire-bull-terrier/ 301
-/la-nostra-storia.html /chi-siamo/ 301
-/test-genetici-l2hga-hc /test-genetici-l2hga-hc-staffy/ 301
-/video-cuccioli-staffordshire-bull-terrier.html / 301
-
-
-# -------------------------------------------------
-# 9) NORMALIZZAZIONE SLASH (SOLO PAGINE REALI)
+# NORMALIZZAZIONE TRAILING SLASH (SOLO PAGINE VERE)
 # -------------------------------------------------
 /blog /blog/ 301
 /chi-siamo /chi-siamo/ 301
-/femmine-staffordshire-bull-terrier /femmine-staffordshire-bull-terrier/ 301
-/maschi-staffordshire-bull-terrier /maschi-staffordshire-bull-terrier/ 301
-/cuccioli-staffordshire-bull-terrier /cuccioli-staffordshire-bull-terrier/ 301
 /programma-allevamento /programma-allevamento/ 301
-
-
-# -------------------------------------------------
-# 10) SPAM
-# -------------------------------------------------
-/.lsrecap/* / 301
+/cuccioli-staffordshire-bull-terrier /cuccioli-staffordshire-bull-terrier/ 301
