@@ -1,10 +1,11 @@
 # =================================================
-# Redirect 301 – delpiccolodiavolo.it
-# VERSIONE DEFINITIVA / SEO SAFE
+# REDIRECTS DEFINITIVI – delpiccolodiavolo.it
+# Cloudflare Pages
 # =================================================
 
+
 # -------------------------------------------------
-# 1) CUCCIOLATE → PROGRAMMA (PRIORITÀ ASSOLUTA)
+# 1) CUCCIOLATE → PROGRAMMA ALLEVAMENTO (PRIORITÀ ASSOLUTA)
 # -------------------------------------------------
 /cucciolate-staffordshire-bull-terrier /programma-allevamento/ 301
 /cucciolate-staffordshire-bull-terrier/ /programma-allevamento/ 301
@@ -26,7 +27,7 @@
 
 
 # -------------------------------------------------
-# 3) ALLEVAMENTO / CONTATTI
+# 3) CONTATTI / ALLEVAMENTO
 # -------------------------------------------------
 /contatti.html /allevamento-staffordshire-bull-terrier-in-emilia-romagna/ 301
 /allevamento-staffy.html / 301
