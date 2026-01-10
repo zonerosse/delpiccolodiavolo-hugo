@@ -1,6 +1,6 @@
 ---
-title: "Cucciolate e disponibilità Staffordshire Bull Terrier"
-description: "Cucciolate Staffordshire Bull Terrier: programma, nascite e disponibilità aggiornata. Selezione etica, test genetici e pedigree ENCI."
+title: "Programma di allevamento Staffordshire Bull Terrier | Storico cucciolate"
+description: "Programma di allevamento Staffordshire Bull Terrier: criteri di selezione, salute, test genetici e storico delle cucciolate passate e future."
 slug: "programma-allevamento"
 custom_content: |
   <section class="hero">
@@ -11,9 +11,9 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Programma Allevamento</span>
-  <h1 class="hero-title">Programma<br><em>Allevamento</em></h1>
+  <h1 class="hero-title">Programma di <em>allevamento</em><br>Staffordshire Bull Terrier</h1>
   <p class="hero-subtitle">Selezione, salute e tipicità - Dal 2013</p>
-  <p class="hero-description">Accoppiamenti pianificati con riproduttori testati, pedigree ENCI e linee selezionate da Regno Unito e Irlanda. Aggiornamenti su disponibilità e prenotazioni.</p>
+  <p class="hero-description">Accoppiamenti pianificati secondo criteri di salute, carattere e tipicità. In questa pagina trovi il programma di allevamento e lo storico delle cucciolate.</p>
   <div class="hero-actions">
   <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sulle%20cucciolate" class="btn btn-primary" title="Contattaci su WhatsApp">Contattaci</a>
   <a href="/cuccioli-staffordshire-bull-terrier/" class="btn btn-ghost" title="Info sui cuccioli disponibili">Info Cuccioli</a>
@@ -43,7 +43,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Il Nostro Programma</span>
-  <h2 class="section-title">Programma Cucciolate</h2>
+  <h2 class="section-title">Programma di allevamento e gestione delle cucciolate</h2>
 
   <div class="intro-block">
   <p>Presso il nostro allevamento, ogni cucciolata nasce da una selezione attenta di genitori sani, equilibrati e in standard. Il programma cucciolate garantisce benessere, carattere e tipicità della razza, seguendo i più alti standard etici e sanitari.</p>
@@ -56,7 +56,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Accoppiamenti</span>
-  <h2 class="section-title">Cucciolate Programmate e Passate</h2>
+  <h2 class="section-title">Storico delle cucciolate e accoppiamenti pianificati</h2>
 
   <!-- Cucciolata 1: Heat × Nora - IN ARRIVO -->
   <article class="litter-card">
@@ -204,8 +204,8 @@ custom_content: |
   </section>
 
   <section class="cta-section">
-  <h2>Vuoi Info sulle Cucciolate?</h2>
-  <p>Chiamaci o scrivici su WhatsApp per informazioni sulle cucciolate disponibili e future.</p>
+  <h2>Informazioni sul programma di allevamento</h2>
+<p>Scrivici per conoscere il nostro metodo di selezione e le cucciolate previste.</p>
   <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sulle%20cucciolate%20di%20Staffordshire%20Bull%20Terrier" class="btn" title="Scrivici su WhatsApp per info cucciolate">Scrivici su WhatsApp</a>
   </section>
 ---
