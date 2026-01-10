@@ -1,5 +1,5 @@
 ---
-title: "Allevamento Staffordshire Bull Terrier | Del Piccolo Diavolo"
+title: "Allevamento Staffordshire Bull Terrier"
 description: "Allevamento etico di Staffordshire Bull Terrier dal 2013. Selezione responsabile, salute e carattere equilibrato. Cuccioli con pedigree ENCI."
 slug: ""
 custom_content: |
