@@ -1,5 +1,5 @@
 ---
-title: "Cuccioli Staffordshire Bull Terrier: come li alleviamo"
+title: "Cuccioli Staffordshire Bull Terrier"
 description: "Come alleviamo i cuccioli Staffordshire Bull Terrier: socializzazione, salute, carattere e selezione etica. Del Piccolo Diavolo."
 slug: "cuccioli-staffordshire-bull-terrier"
 custom_content: |

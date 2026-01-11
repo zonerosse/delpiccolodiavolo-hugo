@@ -1,5 +1,5 @@
 ---
-title: "Programma di allevamento Staffordshire Bull Terrier | Storico cucciolate"
+title: "Programma Allevamento Staffordshire Bull Terrier"
 description: "Programma di allevamento Staffordshire Bull Terrier: criteri di selezione, salute, test genetici e storico delle cucciolate passate e future."
 slug: "programma-allevamento"
 custom_content: |

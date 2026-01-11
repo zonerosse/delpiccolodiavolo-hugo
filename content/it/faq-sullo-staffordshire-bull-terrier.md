@@ -1,5 +1,5 @@
 ---
-title: "FAQ Staffordshire Bull Terrier - Domande Frequenti"
+title: "FAQ Staffordshire Bull Terrier"
 description: "Risposte alle domande più frequenti sullo Staffordshire Bull Terrier: carattere, salute, cuccioli ENCI, costi, alimentazione, addestramento. Allevamento Del Piccolo Diavolo."
 slug: "faq-sullo-staffordshire-bull-terrier"
 custom_content: |
