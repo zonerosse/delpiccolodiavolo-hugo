@@ -30,7 +30,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/index/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a href="blog.html#famiglia" title="Famiglia">Famiglia e Convivenza</a> ›
+  <a href="/blog/#famiglia" title="Famiglia">Famiglia e Convivenza</a> ›
   <span>Anziani e Convivenza</span>
   </nav>
   
@@ -295,11 +295,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
   
   <p class="tags"><strong>Tag:</strong>
-  <a href="blog.html#famiglia" title="Articoli anziani">anziani</a>
-  <a href="blog.html#famiglia" title="Articoli famiglia">famiglia</a>
-  <a href="blog.html#famiglia" title="Articoli convivenza">convivenza</a>
-  <a href="blog.html#famiglia" title="Articoli pet therapy">pet therapy</a>
-  <a href="blog.html#famiglia" title="Articoli routine">routine</a>
+  <a href="/blog/#famiglia" title="Articoli anziani">anziani</a>
+  <a href="/blog/#famiglia" title="Articoli famiglia">famiglia</a>
+  <a href="/blog/#famiglia" title="Articoli convivenza">convivenza</a>
+  <a href="/blog/#famiglia" title="Articoli pet therapy">pet therapy</a>
+  <a href="/blog/#famiglia" title="Articoli routine">routine</a>
   </p>
   </div>
   

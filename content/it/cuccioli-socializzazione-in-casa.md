@@ -30,7 +30,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/index/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a href="blog.html#cuccioli" title="Articoli Cuccioli">Cuccioli</a> ›
+  <a href="/blog/#cuccioli" title="Articoli Cuccioli">Cuccioli</a> ›
   <span>Socializzazione in casa</span>
   </nav>
   

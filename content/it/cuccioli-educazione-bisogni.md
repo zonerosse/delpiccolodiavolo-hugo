@@ -30,7 +30,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/index/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a href="blog.html#cuccioli" title="Cuccioli">Cuccioli</a> ›
+  <a href="/blog/#cuccioli" title="Cuccioli">Cuccioli</a> ›
   <span>Educazione ai bisogni</span>
   </nav>
   
@@ -115,10 +115,10 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
   
   <p class="tags"><strong>Tag:</strong>
-  <a href="blog.html#cuccioli" title="Articoli cuccioli">cuccioli</a>
-  <a href="blog.html#cuccioli" title="Articoli Staffy">staffordshire bull terrier</a>
-  <a href="blog.html#cuccioli" title="Articoli educazione">educazione bisogni</a>
-  <a href="blog.html#cuccioli" title="Articoli routine">routine uscite</a>
+  <a href="/blog/#cuccioli" title="Articoli cuccioli">cuccioli</a>
+  <a href="/blog/#cuccioli" title="Articoli Staffy">staffordshire bull terrier</a>
+  <a href="/blog/#cuccioli" title="Articoli educazione">educazione bisogni</a>
+  <a href="/blog/#cuccioli" title="Articoli routine">routine uscite</a>
   </p>
   </div>
   

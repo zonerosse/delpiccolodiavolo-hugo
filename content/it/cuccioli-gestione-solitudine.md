@@ -30,7 +30,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/index/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a href="blog.html#cuccioli" title="Cuccioli">Cuccioli</a> ›
+  <a href="/blog/#cuccioli" title="Cuccioli">Cuccioli</a> ›
   <span>Gestione della solitudine</span>
   </nav>
   
@@ -134,10 +134,10 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
   
   <p class="tags"><strong>Tag:</strong>
-  <a href="blog.html#cuccioli" title="Articoli cuccioli">cuccioli</a>
-  <a href="blog.html#cuccioli" title="Articoli Staffy">staffordshire bull terrier</a>
-  <a href="blog.html#cuccioli" title="Articoli ansia">ansia da separazione</a>
-  <a href="blog.html#cuccioli" title="Articoli solitudine">gestione solitudine</a>
+  <a href="/blog/#cuccioli" title="Articoli cuccioli">cuccioli</a>
+  <a href="/blog/#cuccioli" title="Articoli Staffy">staffordshire bull terrier</a>
+  <a href="/blog/#cuccioli" title="Articoli ansia">ansia da separazione</a>
+  <a href="/blog/#cuccioli" title="Articoli solitudine">gestione solitudine</a>
   </p>
   </div>
   

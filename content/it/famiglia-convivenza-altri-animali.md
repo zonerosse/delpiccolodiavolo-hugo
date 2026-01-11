@@ -30,7 +30,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/index/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a href="blog.html#famiglia" title="Famiglia">Famiglia e Convivenza</a> ›
+  <a href="/blog/#famiglia" title="Famiglia">Famiglia e Convivenza</a> ›
   <span>Convivenza Altri Animali</span>
   </nav>
   
@@ -513,11 +513,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
   
   <p class="tags"><strong>Tag:</strong>
-  <a href="blog.html#famiglia" title="Articoli convivenza">convivenza</a>
-  <a href="blog.html#famiglia" title="Articoli altri animali">altri animali</a>
-  <a href="blog.html#famiglia" title="Articoli gatti">gatti</a>
-  <a href="blog.html#famiglia" title="Articoli inserimento">inserimento</a>
-  <a href="blog.html#famiglia" title="Articoli gestione">gestione risorse</a>
+  <a href="/blog/#famiglia" title="Articoli convivenza">convivenza</a>
+  <a href="/blog/#famiglia" title="Articoli altri animali">altri animali</a>
+  <a href="/blog/#famiglia" title="Articoli gatti">gatti</a>
+  <a href="/blog/#famiglia" title="Articoli inserimento">inserimento</a>
+  <a href="/blog/#famiglia" title="Articoli gestione">gestione risorse</a>
   </p>
   </div>
   
