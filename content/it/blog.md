@@ -10,7 +10,7 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Risorse & Guide</span>
+  <span class="hero-eyebrow">Risorse &amp; Guide</span>
   <h1 class="hero-title">Il Nostro<br><em>Blog</em></h1>
   <p class="hero-subtitle">Articoli su cuccioli, salute, standard e convivenza</p>
   </div>

@@ -72,7 +72,7 @@ custom_content: |
   <span class="dog-name">Vangerbull Red Harricane</span>
   <img src="/images/red.avif" alt="Vangerbull Red Harricane - Riproduttore Staffordshire Bull Terrier" width="225" height="320" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA & HC clear by DNA</li>
+  <li>L2HGA &amp; HC clear by DNA</li>
   <li>Completely scissor bite</li>
   </ul>
   <p>CH. Americano Toreator De Testaferro x Staffgold Girl Of Ice</p>
@@ -85,7 +85,7 @@ custom_content: |
   <span class="dog-name">Skilful-dogs Nora</span>
   <img src="/images/Nora, femmina di staffordshire bull terrier.avif" alt="Skilful-dogs Nora - Riproduttrice Staffordshire Bull Terrier" width="300" height="400" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA & HC clear by DNA</li>
+  <li>L2HGA &amp; HC clear by DNA</li>
   <li>Completely scissor bite</li>
   </ul>
   <p>Skilful-Dogs Jeghër × Skilful-Dogs Red Skin</p>
@@ -110,7 +110,7 @@ custom_content: |
   <span class="dog-name">JCH. CH. Italiana Bilquis Goddess Diabhal</span>
   <img src="/images/ffbilly-compressa--1---1-.webp" alt="Bilquis Goddess Diabhal - Campionessa Italiana Staffordshire Bull Terrier" width="301" height="396" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA & HC clear by DNA</li>
+  <li>L2HGA &amp; HC clear by DNA</li>
   <li>Completely scissor bite</li>
   <li>Qualified for CRUFTS 2024/25</li>
   <li>Top Dog Junior female 2023</li>
@@ -125,7 +125,7 @@ custom_content: |
   <span class="dog-name">Il lupo perde il pelo ma non il vizio – Luis</span>
   <img src="/images/luis2.webp" alt="Luis - Maschio Staffordshire Bull Terrier riproduttore" width="300" height="447" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA & HC clear by DNA</li>
+  <li>L2HGA &amp; HC clear by DNA</li>
   <li>Completely scissor bite</li>
   </ul>
   <p>D' Spain Fuogo Negro Espartaco × Iunosospita Torvi</p>
@@ -150,7 +150,7 @@ custom_content: |
   <span class="dog-name">CH. Elitebull Prospect</span>
   <img src="/images/george--1---1-.webp" alt="Elitebull Prospect - Riproduttore Staffordshire Bull Terrier" width="225" height="320" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA & HC clear by DNA</li>
+  <li>L2HGA &amp; HC clear by DNA</li>
   <li>Completely scissor bite</li>
   </ul>
   <p>CH. Elitebulls Challenger × Elitebull Destiny</p>
@@ -163,7 +163,7 @@ custom_content: |
   <span class="dog-name">Lackyle Bean Croí Olc</span>
   <img src="/images/minnie3.webp" alt="Lackyle Bean Croí Olc - Riproduttrice Staffordshire Bull Terrier" width="225" height="320" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA & HC clear by DNA</li>
+  <li>L2HGA &amp; HC clear by DNA</li>
   <li>Completely scissor bite</li>
   </ul>
   <p>Lackyle Trodai Tine × CH. Lackyle Ogbhean an Diabhal</p>
