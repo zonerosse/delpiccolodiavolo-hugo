@@ -93,6 +93,14 @@ custom_content: |
   <span class="section-label">Carattere</span>
   <h2 class="section-title">Disponibilità attuale e future cucciolate</h2>
 
+  <a href="https://cucciolo-staffy-emilia.pages.dev/" target="_blank" rel="noopener" style="display:block;background:#f5f0e8;border:1px solid #d4c4b0;border-left:4px solid #5c4a3a;padding:1rem 1.2rem;text-decoration:none;margin:0 0 2rem 0">
+  <span style="display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:0.5rem 1rem">
+  <span style="background:#5c4a3a;color:#fff;padding:0.25rem 0.6rem;font-size:0.7rem;font-weight:600;text-transform:uppercase">🐕 Disponibile</span>
+  <span style="font-size:0.9rem;color:#444"><strong style="color:#2c2c2c">Cucciolo maschio nero 8 mesi</strong> – Figlio di Campionessa Italiana – Pedigree ENCI</span>
+  <span style="color:#5c4a3a;font-weight:600;font-size:0.85rem">Scopri →</span>
+  </span>
+  </a>
+
   <div class="content-block">
   <h3>Il carattere dello Staffordshire Bull Terrier</h3>
   <p>Lo Staffordshire Bull Terrier è una razza straordinaria: intelligente, coraggiosa e incredibilmente affettuosa. I nostri cuccioli ereditano queste qualità dai genitori selezionati con cura, garantendo un carattere equilibrato e una naturale predisposizione alla vita familiare.</p>
