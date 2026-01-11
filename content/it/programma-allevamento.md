@@ -13,10 +13,10 @@ custom_content: |
   <span class="hero-eyebrow">Programma Allevamento</span>
   <h1 class="hero-title">Programma di <em>allevamento</em><br>Staffordshire Bull Terrier</h1>
   <p class="hero-subtitle">Selezione, salute e tipicità - Dal 2013</p>
-  <p class="hero-description">Accoppiamenti pianificati secondo criteri di salute, carattere e tipicità. In questa pagina trovi il programma di allevamento e lo storico delle cucciolate.</p>
+  <p class="hero-description">Accoppiamenti pianificati secondo criteri di salute, carattere e tipicità. In questa pagina trovi il programma di selezione e lo storico delle cucciolate.</p>
   <div class="hero-actions">
-  <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sulle%20cucciolate" class="btn btn-primary" title="Contattaci su WhatsApp">Contattaci</a>
-  <a href="/cuccioli-staffordshire-bull-terrier/" class="btn btn-ghost" title="Info sui cuccioli disponibili">Info Cuccioli</a>
+  <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sugli%20accoppiamenti" class="btn btn-primary" title="Informazioni sul programma">Informazioni</a>
+  <a href="/cuccioli-staffordshire-bull-terrier/" class="btn btn-ghost" title="Come crescono i nostri soggetti">Come Crescono</a>
   </div>
   </div>
   </section>
@@ -43,12 +43,12 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Il Nostro Programma</span>
-  <h2 class="section-title">Programma di allevamento e gestione delle cucciolate</h2>
+  <h2 class="section-title">Criteri di selezione dei riproduttori</h2>
 
   <div class="intro-block">
-  <p>Presso il nostro allevamento, ogni cucciolata nasce da una selezione attenta di genitori sani, equilibrati e in standard. Il programma cucciolate garantisce benessere, carattere e tipicità della razza, seguendo i più alti standard etici e sanitari.</p>
-  <p>I cuccioli crescono in ambiente familiare, socializzati con persone, rumori e altri animali per favorire uno sviluppo armonioso. Ogni cucciolo viene affidato dopo controlli veterinari, vaccinazioni, microchip e registrazione all'anagrafe canina.</p>
-  <p>Siamo disponibili ad accompagnarti nella scelta del cucciolo più adatto e a seguirti anche dopo l'adozione, con consigli e assistenza continua.</p>
+  <p>Il nostro programma di allevamento si basa sulla selezione attenta di riproduttori sani, equilibrati e conformi allo standard. Ogni soggetto viene valutato per morfologia, carattere e salute genetica prima di entrare nel programma riproduttivo.</p>
+  <p>Lavoriamo con le migliori linee di sangue inglesi (Elitebull) e irlandesi (Lackyle), selezionando riproduttori che abbiano dimostrato qualità in esposizione e che possiedano test genetici completi per L2HGA, HC e PHPV.</p>
+  <p>La selezione non si limita all'aspetto estetico: il temperamento equilibrato, la socievolezza e la capacità di adattarsi alla vita familiare sono criteri fondamentali nella scelta dei nostri riproduttori.</p>
   </div>
   </div>
   </section>
@@ -56,13 +56,15 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Accoppiamenti</span>
-  <h2 class="section-title">Storico delle cucciolate e accoppiamenti pianificati</h2>
+  <h2 class="section-title">Accoppiamenti pianificati e obiettivi genetici</h2>
+
+  <p style="text-align:center;margin-bottom:2rem">Ogni accoppiamento è studiato per consolidare le caratteristiche morfologiche desiderate, migliorare il temperamento e preservare la salute genetica. Gli obiettivi vengono definiti analizzando pedigree, risultati espositivi e test genetici di entrambi i genitori.</p>
 
   <!-- Cucciolata 1: Heat × Nora - IN ARRIVO -->
   <article class="litter-card">
   <div class="litter-header">
   <h3 class="litter-title">Cucciolata prevista: Febbraio 2026</h3>
-  <span class="badge badge-coming">In Arrivo</span>
+  <span class="badge badge-coming">Pianificata</span>
   </div>
 
   <div class="pair">
@@ -91,14 +93,16 @@ custom_content: |
   </div>
   </div>
 
+  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Questo accoppiamento è stato pianificato per consolidare le caratteristiche della linea Vangerbull, mantenendo l'eccellente temperamento familiare di Skilful-Dogs. L'obiettivo è produrre soggetti con testa potente, ossatura robusta e movimento corretto.</p>
+
   <p class="pedigree-link">Pedigree della cucciolata: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" title="Vedi pedigree cucciolata Red x Nora">vedi su SBTPedigree</a></p>
   </article>
 
-  <!-- Cucciolata 2: Bilquis × Luis - SOLD OUT -->
+  <!-- Cucciolata 2: Bilquis × Luis - PASSATA -->
   <article class="litter-card">
   <div class="litter-header">
   <h3 class="litter-title">Cucciolata nata il 02/05/2025</h3>
-  <span class="badge badge-soldout">Sold Out</span>
+  <span class="badge badge-soldout">Affidati</span>
   </div>
 
   <div class="pair">
@@ -129,14 +133,16 @@ custom_content: |
   </div>
   </div>
 
+  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Accoppiamento pianificato per unire la morfologia eccellente di Bilquis (Campionessa Italiana, 4° al World Dog Show) con la potenza e il carattere di Luis. Obiettivo: soggetti da esposizione con temperamento equilibrato.</p>
+
   <p class="pedigree-link">Pedigree della cucciolata: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4555572&DAM=4496127&generation=4&dogs_id=4555573" target="_blank" rel="noopener" title="Vedi pedigree cucciolata Bilquis x Luis">vedi su SBTPedigree</a></p>
   </article>
 
-  <!-- Cucciolata 3: Prospect × Bean - SOLD OUT -->
+  <!-- Cucciolata 3: Prospect × Bean - PASSATA -->
   <article class="litter-card">
   <div class="litter-header">
-  <h3 class="litter-title">Cuccioli nati il 01/02/2025</h3>
-  <span class="badge badge-soldout">Sold Out</span>
+  <h3 class="litter-title">Cucciolata nata il 01/02/2025</h3>
+  <span class="badge badge-soldout">Affidati</span>
   </div>
 
   <div class="pair">
@@ -165,6 +171,8 @@ custom_content: |
   </div>
   </div>
 
+  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Accoppiamento tra linee Elitebull e Lackyle per combinare la potenza inglese con l'eleganza irlandese. Obiettivo: soggetti versatili, adatti sia alla famiglia che all'esposizione.</p>
+
   <p class="pedigree-link">Pedigree della cucciolata: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4483601&DAM=4538599&generation=4&dogs_id=4547824" target="_blank" rel="noopener" title="Vedi pedigree cucciolata Prospect x Bean">vedi su SBTPedigree</a></p>
   </article>
 
@@ -173,39 +181,44 @@ custom_content: |
 
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">Domande Frequenti</span>
-  <h2 class="section-title">FAQ sulle Cucciolate</h2>
+  <span class="section-label">Salute</span>
+  <h2 class="section-title">Test genetici e certificazioni sanitarie</h2>
 
-  <div class="faq-item">
-  <h3>Come posso prenotare un cucciolo di Staffordshire Bull Terrier?</h3>
-  <p>Puoi prenotare un cucciolo contattandoci via WhatsApp o telefono. Richiediamo una caparra per la prenotazione e ti teniamo aggiornato sulla crescita della cucciolata con foto e video regolari.</p>
+  <div class="intro-block">
+  <p>Tutti i nostri riproduttori sono testati per le principali patologie genetiche dello Staffordshire Bull Terrier: L2HGA (Aciduria L-2-Idrossiglutarica), HC (Cataratta Ereditaria) e PHPV (Persistent Hyperplastic Primary Vitreous).</p>
+  <p>I test vengono eseguiti tramite analisi del DNA presso laboratori certificati. Solo i soggetti con risultati "clear" o accoppiamenti geneticamente compatibili vengono utilizzati nel programma riproduttivo.</p>
+  <p>Ogni soggetto nato nel nostro allevamento viene consegnato con certificato di pedigree ENCI, libretto sanitario con vaccinazioni, microchip e documentazione completa dei test genetici dei genitori.</p>
   </div>
 
-  <div class="faq-item">
-  <h3>Quando posso visitare i cuccioli?</h3>
-  <p>Le visite sono possibili su appuntamento dopo la terza settimana di vita dei cuccioli. Potrai conoscere i genitori e vedere l'ambiente in cui crescono. Consigliamo di prenotare la visita con anticipo.</p>
+  <div class="content-block">
+  <h3>Protocollo sanitario</h3>
+  <p>Oltre ai test genetici, i nostri riproduttori seguono un rigoroso protocollo sanitario: controlli veterinari regolari, vaccinazioni annuali, sverminazioni periodiche e monitoraggio costante dello stato di salute.</p>
+  <p>Le femmine vengono accoppiate rispettando i tempi biologici naturali, garantendo il benessere della madre e la salute dei nascituri.</p>
   </div>
-
-  <div class="faq-item">
-  <h3>Quali garanzie offrite sui cuccioli?</h3>
-  <p>Ogni cucciolo viene consegnato con pedigree ENCI certificato, microchip, libretto sanitario, prime vaccinazioni e sverminazioni. I genitori sono testati per L2HGA e HC. Offriamo supporto continuo post-vendita per tutta la vita del cane.</p>
   </div>
+  </section>
 
-  <div class="faq-item">
-  <h3>Quanto costa un cucciolo di Staffordshire Bull Terrier?</h3>
-  <p>Il prezzo varia in base al pedigree, alle linee di sangue, ai titoli dei genitori e alle caratteristiche del cucciolo. Contattaci direttamente per informazioni dettagliate sui cuccioli disponibili o in arrivo.</p>
+  <section class="section section-alt">
+  <div class="section-inner">
+  <span class="section-label">Filosofia</span>
+  <h2 class="section-title">Etica e responsabilità nell'allevamento</h2>
+
+  <div class="intro-block">
+  <p>Dal 2013 alleviamo Staffordshire Bull Terrier con un approccio etico: poche cucciolate selezionate, massima attenzione a salute, carattere e tipicità. Ogni cucciolata nasce da una pianificazione accurata, con obiettivi chiari di miglioramento della razza.</p>
+  <p>Non cerchiamo la quantità ma la qualità: preferiamo produrre pochi soggetti eccellenti piuttosto che molti soggetti mediocri. Questo ci permette di seguire ogni cane con la massima cura, dalla nascita all'inserimento nella nuova famiglia.</p>
+  <p>La nostra missione è preservare l'autenticità dello Staffordshire Bull Terrier attraverso una selezione responsabile e trasparente, rispettando lo standard di razza e il benessere degli animali.</p>
   </div>
   </div>
   </section>
 
   <section class="dark-section">
-  <h2>Benessere, Etica e Responsabilità</h2>
-  <p>Dal 2013 alleviamo Staffordshire Bull Terrier con un approccio etico: poche cucciolate selezionate, attenzione a salute, carattere e tipicità. Ogni cucciolo è seguito con cura, dalla nascita all'ingresso nella nuova famiglia. La nostra missione è preservare l'autenticità della razza attraverso una selezione responsabile e trasparente.</p>
+  <h2>Trasparenza e Professionalità</h2>
+  <p>Il nostro programma di allevamento è aperto e trasparente. Ogni accoppiamento è documentato con pedigree completi, test genetici e obiettivi chiari. Siamo disponibili a condividere informazioni dettagliate sui nostri riproduttori, sui risultati ottenuti e sulla filosofia che guida il nostro lavoro di selezione.</p>
   </section>
 
   <section class="cta-section">
-  <h2>Informazioni sul programma di allevamento</h2>
-  <p>Scrivici per conoscere il nostro metodo di selezione e le cucciolate previste.</p>
-  <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sulle%20cucciolate%20di%20Staffordshire%20Bull%20Terrier" class="btn" title="Scrivici su WhatsApp per info cucciolate">Scrivici su WhatsApp</a>
+  <h2>Informazioni sul programma</h2>
+  <p>Per conoscere in dettaglio il nostro metodo di selezione e gli accoppiamenti pianificati, contattaci.</p>
+  <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sul%20programma%20di%20allevamento" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Informazioni sul programma" aria-label="Contattaci per informazioni sul programma di allevamento">Scrivici su WhatsApp</a>
   </section>
 ---
