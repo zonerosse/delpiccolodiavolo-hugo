@@ -1,6 +1,6 @@
 ---
 title: "Allevamento Staffordshire Bull Terrier"
-description: "Allevamento etico di Staffordshire Bull Terrier dal 2013. Selezione responsabile, salute e carattere equilibrato. Cuccioli con pedigree ENCI."
+description: "Allevamento etico di Staffordshire Bull Terrier dal 2013. Selezione responsabile, salute e carattere equilibrato. Cuccioli con pedigree ENCI. Test genetici completi."
 slug: ""
 custom_content: |
   <section class="hero">
@@ -44,8 +44,19 @@ custom_content: |
 
   <section class="section">
   <div class="section-inner">
+  <div class="intro-block" style="max-width:800px;margin:0 auto;text-align:center">
+  <p>Del Piccolo Diavolo è un allevamento di Staffordshire Bull Terrier attivo dal 2013.</p>
+  <p>Da oltre dieci anni selezioniamo Staffordshire Bull Terrier seguendo criteri rigorosi di salute, morfologia e temperamento. Lavoriamo con le migliori linee di sangue inglesi e irlandesi, producendo soggetti che si distinguono nei ring italiani e internazionali.</p>
+  <p>Il nostro allevamento ha ottenuto 3 Campioni Italiani e un 4° posto al World Dog Show. Tutti i nostri riproduttori sono testati per L2HGA, HC e PHPV.</p>
+  <p>Non siamo un allevamento commerciale: produciamo poche cucciolate selezionate ogni anno, seguendo ogni soggetto dalla nascita all'inserimento nella nuova famiglia.</p>
+  </div>
+  </div>
+  </section>
+
+  <section class="section">
+  <div class="section-inner">
   <span class="section-label">Selezione</span>
-  <h2 class="section-title">Dal programma di selezione alla crescita in famiglia</h2>
+  <h2 class="section-title">Allevamento Staffordshire Bull Terrier etico e selezionato</h2>
 
   <div class="gallery-grid">
   <div class="gallery-item"><img src="/images/foto1.avif" alt="Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo" loading="lazy" decoding="async" width="300" height="400"></div>
@@ -68,7 +79,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Risultati in Esposizione</span>
-  <h2 class="section-title">Selezione e risultati in esposizione</h2>
+  <h2 class="section-title">Selezione, salute e tipicità della razza</h2>
 
   <p style="text-align:center;margin-bottom:2rem">La selezione Del Piccolo Diavolo non si ferma all'estetica: i nostri risultati sui ring italiani e internazionali testimoniano anni di lavoro su salute, tipicita e carattere.</p>
 
@@ -105,7 +116,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Chi Siamo</span>
-  <h2 class="section-title">La storia del nostro allevamento</h2>
+  <h2 class="section-title">Un allevamento responsabile, prima e dopo l'affido</h2>
 
   <p style="text-align:center;margin-bottom:2rem;font-size:1.1rem;color:#5c4a3a;font-weight:600">Allevamento con pedigree ENCI dal 2013 • Oltre 100 soggetti ceduti in Italia e Europa • 3 Campioni Italiani • 4° al World Dog Show</p>
 
