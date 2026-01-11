@@ -44,7 +44,7 @@ custom_content: |
 
   <section class="section">
   <div class="section-inner">
-  <h2 class="section-title">Allevamento Staffordshire Bull Terrier: selezione, salute e tipicità</h2>
+  <h2 class="section-title">Allevamento Staffordshire Bull Terrier dal 2013</h2>
   <div class="intro-block" style="max-width:800px;text-align:left">
   <p>Del Piccolo Diavolo è un allevamento di Staffordshire Bull Terrier attivo dal 2013.</p>
   <p>Da oltre dieci anni selezioniamo Staffordshire Bull Terrier seguendo criteri rigorosi di salute, morfologia e temperamento. Lavoriamo con le migliori linee di sangue inglesi e irlandesi, producendo soggetti che si distinguono nei ring italiani e internazionali.</p>
@@ -60,7 +60,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Selezione</span>
-  <h2 class="section-title">Dal programma di selezione alla crescita in famiglia</h2>
+  <h2 class="section-title">Il nostro metodo di allevamento</h2>
 
   <div class="gallery-grid">
   <div class="gallery-item"><img src="/images/foto1.avif" alt="Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo" loading="lazy" decoding="async" width="300" height="400"></div>
@@ -83,7 +83,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Risultati in Esposizione</span>
-  <h2 class="section-title">Selezione e risultati in esposizione</h2>
+  <h2 class="section-title">Risultati, esposizioni e riconoscimenti</h2>
 
   <p style="text-align:center;margin-bottom:2rem">La selezione Del Piccolo Diavolo non si ferma all'estetica: i nostri risultati sui ring italiani e internazionali testimoniano anni di lavoro su salute, tipicita e carattere.</p>
 
@@ -120,7 +120,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Chi Siamo</span>
-  <h2 class="section-title">La storia del nostro allevamento</h2>
+  <h2 class="section-title">Come crescono i nostri cuccioli</h2>
 
   <p style="text-align:center;margin-bottom:2rem;font-size:1.1rem;color:#5c4a3a;font-weight:600">Allevamento con pedigree ENCI dal 2013 • Oltre 100 soggetti ceduti in Italia e Europa • 3 Campioni Italiani • 4° al World Dog Show</p>
 
@@ -146,7 +146,6 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Il Nostro Approccio</span>
-  <h2 class="section-title">Il nostro metodo di allevamento</h2>
 
   <div class="content-block">
   <h3>Perché scegliere Del Piccolo Diavolo</h3>
@@ -172,7 +171,6 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Risorse Gratuite</span>
-  <h2 class="section-title">Risorse utili per chi sceglie uno Staffordshire Bull Terrier</h2>
 
   <p style="text-align:center;margin-bottom:1.5rem">Tutto quello che devi sapere prima e dopo l'arrivo del tuo Staffy.</p>
 

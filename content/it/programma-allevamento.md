@@ -43,7 +43,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Il Nostro Programma</span>
-  <h2 class="section-title">Il nostro programma di allevamento Staffordshire Bull Terrier</h2>
+  <h2 class="section-title">Programma di allevamento Staffordshire Bull Terrier</h2>
 
   <div class="intro-block">
   <p>Il nostro programma di allevamento si basa sulla selezione attenta di riproduttori sani, equilibrati e conformi allo standard. Ogni soggetto viene valutato per morfologia, carattere e salute genetica prima di entrare nel programma riproduttivo.</p>
@@ -56,7 +56,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Accoppiamenti</span>
-  <h2 class="section-title">Criteri di selezione: salute, carattere e genealogia</h2>
+  <h2 class="section-title">Criteri di selezione dei riproduttori</h2>
 
   <p style="text-align:center;margin-bottom:2rem">Ogni accoppiamento è studiato per consolidare le caratteristiche morfologiche desiderate, migliorare il temperamento e preservare la salute genetica. Gli obiettivi vengono definiti analizzando pedigree, risultati espositivi e test genetici di entrambi i genitori.</p>
 
@@ -182,7 +182,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Salute</span>
-  <h2 class="section-title">Cucciolate programmate e storico delle nascite</h2>
+  <h2 class="section-title">Test genetici e salute</h2>
 
   <div class="intro-block">
   <p>Tutti i nostri riproduttori sono testati per le principali patologie genetiche dello Staffordshire Bull Terrier: L2HGA (Aciduria L-2-Idrossiglutarica), HC (Cataratta Ereditaria) e PHPV (Persistent Hyperplastic Primary Vitreous).</p>
@@ -201,7 +201,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Filosofia</span>
-  <h2 class="section-title">Affido responsabile e supporto alle famiglie</h2>
+  <h2 class="section-title">Cucciolate programmate e passate</h2>
 
   <div class="intro-block">
   <p>Dal 2013 alleviamo Staffordshire Bull Terrier con un approccio etico: poche cucciolate selezionate, massima attenzione a salute, carattere e tipicità. Ogni cucciolata nasce da una pianificazione accurata, con obiettivi chiari di miglioramento della razza.</p>
@@ -212,12 +212,12 @@ custom_content: |
   </section>
 
   <section class="dark-section">
-  <h2>Trasparenza e Professionalità</h2>
+  <h2>Affido e supporto post-adozione</h2>
   <p>Il nostro programma di allevamento è aperto e trasparente. Ogni accoppiamento è documentato con pedigree completi, test genetici e obiettivi chiari. Siamo disponibili a condividere informazioni dettagliate sui nostri riproduttori, sui risultati ottenuti e sulla filosofia che guida il nostro lavoro di selezione.</p>
   </section>
 
   <section class="cta-section">
-  <h2>Informazioni sul programma</h2>
+  <h2>Domande frequenti sulle cucciolate</h2>
   <p>Per conoscere in dettaglio il nostro metodo di selezione e gli accoppiamenti pianificati, contattaci.</p>
   <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sul%20programma%20di%20allevamento" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Informazioni sul programma" aria-label="Contattaci per informazioni sul programma di allevamento">Scrivici su WhatsApp</a>
   </section>

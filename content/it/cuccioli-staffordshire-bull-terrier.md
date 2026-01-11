@@ -43,7 +43,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Gallery</span>
-  <h2 class="section-title">Cuccioli di Staffordshire Bull Terrier allevati in ambiente familiare</h2>
+  <h2 class="section-title">Cuccioli di Staffordshire Bull Terrier allevati in famiglia</h2>
 
   <div class="gallery-grid">
   <div class="gallery-item"><img src="/images/primo-piano-cucciolo.avif" alt="Cucciolo Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="400"></div>
@@ -56,7 +56,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Come Crescono</span>
-  <h2 class="section-title">Crescita, socializzazione e controlli sanitari</h2>
+  <h2 class="section-title">Come crescono i cuccioli nel nostro allevamento</h2>
 
   <div class="intro-block">
   <p>La socializzazione è il processo più importante nei primi mesi di vita di un cucciolo. Dal primo giorno i nostri cuccioli vivono in casa con noi, a contatto con la famiglia, rumori domestici, altri cani e persone diverse.</p>
@@ -91,7 +91,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Carattere</span>
-  <h2 class="section-title">Come funziona la prenotazione di un cucciolo</h2>
+  <h2 class="section-title">Disponibilità attuale e future cucciolate</h2>
 
   <div class="content-block">
   <h3>Il carattere dello Staffordshire Bull Terrier</h3>
@@ -128,7 +128,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Linee di Sangue</span>
-  <h2 class="section-title">Perché scegliere un allevamento responsabile</h2>
+  <h2 class="section-title">Come funziona la prenotazione</h2>
 
   <div class="intro-block">
   <p>Lavoriamo con le migliori linee di sangue inglesi (Elitebull) e irlandesi (Lackyle). Ogni accoppiamento è studiato per migliorare la razza, rispettando lo standard e preservando la tipicità che rende unico lo Staffordshire Bull Terrier.</p>
@@ -141,7 +141,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Preparazione</span>
-  <h2 class="section-title">Dal primo giorno alla nuova famiglia</h2>
+  <h2 class="section-title">Cosa include l'affido</h2>
 
   <div class="content-block">
   <h3>Cosa riceve chi adotta un nostro cucciolo</h3>
@@ -168,7 +168,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Recensioni</span>
-  <h2 class="section-title">Testimonianze delle famiglie</h2>
+  <h2 class="section-title">Il cucciolo giusto per te</h2>
 
   <div class="review-card">
   <p class="review-text">"Paolo è una garanzia per questa razza. Cuccioli cresciuti in casa, supporto continuo e grande competenza. Il nostro Staffy è perfetto!"</p>
