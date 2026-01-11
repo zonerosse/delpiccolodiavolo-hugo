@@ -13,9 +13,9 @@ custom_content: |
   <span class="hero-eyebrow">4.9 su 37 recensioni</span>
   <h1 class="hero-title">Allevamento<br><em>Staffordshire</em><br>Bull Terrier</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo - Selezione, salute e carattere</p>
-  <p class="hero-description">Quando pensi a un allevamento di Staffordshire Bull Terrier, immagini box ordinati e cuccioli tutti uguali? Da noi è diverso. Ogni cane ha un nome, una storia, un carattere. Non alleviamo in serie: coltiviamo relazioni, ricordi e momenti indimenticabili.</p>
+  <p class="hero-description">Quando pensi a un allevamento di Staffordshire Bull Terrier, immagini box ordinati e cani tutti uguali? Da noi è diverso. Ogni cane ha un nome, una storia, un carattere. Non alleviamo in serie: coltiviamo relazioni, ricordi e momenti indimenticabili.</p>
   <div class="hero-actions">
-  <a href="/cuccioli-staffordshire-bull-terrier/" class="btn btn-primary" title="Scopri i nostri cuccioli">Scopri i Cuccioli</a>
+  <a href="/cuccioli-staffordshire-bull-terrier/" class="btn btn-primary" title="Scopri come crescono con noi">Come Crescono</a>
   <a href="/allevamento-staffordshire-bull-terrier-in-emilia-romagna/" class="btn btn-ghost" title="Contattaci">Contattaci</a>
   <a href="/docs/guida-primi-mesi-cucciolo-staffy.pdf" class="btn btn-gold" title="Guida PDF gratuita: I primi mesi con il tuo cucciolo Staffy">Guida Cuccioli</a>
   </div>
@@ -44,23 +44,23 @@ custom_content: |
 
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">I Nostri Cuccioli</span>
-  <h2 class="section-title">Dal programma di allevamento alla crescita dei cuccioli</h2>
+  <span class="section-label">Selezione</span>
+  <h2 class="section-title">Dal programma di selezione alla crescita in famiglia</h2>
 
   <div class="gallery-grid">
-  <div class="gallery-item"><img src="/images/foto1.avif" alt="Cucciolo Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/foto2.avif" alt="Cucciolo Staffordshire Bull Terrier in posa" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/foto4.avif" alt="Cucciolo Staffordshire Bull Terrier socializzato" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/foto1.avif" alt="Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/foto2.avif" alt="Staffordshire Bull Terrier in posa" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/foto4.avif" alt="Staffordshire Bull Terrier socializzato" loading="lazy" decoding="async" width="300" height="400"></div>
   </div>
 
   <div class="review-card">
-  <p class="review-text">"Paolo è una garanzia per questa razza. Cuccioli cresciuti in casa, supporto continuo e grande competenza."</p>
+  <p class="review-text">"Paolo è una garanzia per questa razza. Supporto continuo e grande competenza."</p>
   <div class="reviewer"><span>Cristian Ferroci</span><span class="stars">★★★★★</span></div>
   </div>
 
   <div style="text-align:center">
-  <a href="/cuccioli-staffordshire-bull-terrier/" class="btn btn-primary" title="Scopri i nostri cuccioli">Scopri i Cuccioli</a>
-  <a href="/programma-allevamento/" class="btn btn-ghost" title="Vedi il programma allevamento" style="margin-left:.5rem">Programma Allevamento</a>
+  <a href="/cuccioli-staffordshire-bull-terrier/" class="btn btn-primary" title="Scopri come crescono">Come Crescono</a>
+  <a href="/programma-allevamento/" class="btn btn-ghost" title="Vedi il programma di selezione" style="margin-left:.5rem">Programma Selezione</a>
   </div>
   </div>
   </section>
@@ -68,7 +68,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Risultati in Esposizione</span>
-  <h2 class="section-title">Risultati e selezione nel nostro allevamento</h2>
+  <h2 class="section-title">Selezione e risultati in esposizione</h2>
 
   <p style="text-align:center;margin-bottom:2rem">La selezione Del Piccolo Diavolo non si ferma all'estetica: i nostri risultati sui ring italiani e internazionali testimoniano anni di lavoro su salute, tipicita e carattere.</p>
 
@@ -107,12 +107,12 @@ custom_content: |
   <span class="section-label">Chi Siamo</span>
   <h2 class="section-title">La storia del nostro allevamento</h2>
 
-  <p style="text-align:center;margin-bottom:2rem;font-size:1.1rem;color:#5c4a3a;font-weight:600">Allevamento cuccioli con pedigree ENCI dal 2013 • Oltre 100 cuccioli ceduti in Italia e Europa • 3 Campioni Italiani • 4° al World Dog Show</p>
+  <p style="text-align:center;margin-bottom:2rem;font-size:1.1rem;color:#5c4a3a;font-weight:600">Allevamento con pedigree ENCI dal 2013 • Oltre 100 soggetti ceduti in Italia e Europa • 3 Campioni Italiani • 4° al World Dog Show</p>
 
   <div class="storia-grid">
   <div>
   <div class="content-block">
-  <h3>Un progetto diventato Allevamento</h3>
+  <h3>Un progetto diventato passione</h3>
   <p>Il mio primo Staffordshire Bull Terrier è arrivato in un momento speciale. Da quel giorno ho studiato, viaggiato, conosciuto altri allevatori e vissuto ogni giorno con questi cani straordinari. Ogni scelta nasce dall'esperienza e dal desiderio di offrire il meglio.</p>
   </div>
   </div>
@@ -122,8 +122,8 @@ custom_content: |
   </div>
 
   <div class="content-block">
-  <h3>La vita quotidiana nel nostro allevamento</h3>
-  <p>Ogni mattina inizia con saluti, corse nel prato e coccole ai cuccioli. I nostri Staffy vivono con noi, in casa e in giardino, imparano a conoscere suoni, odori e persone diverse. Crescono sereni, in un ambiente ricco di stimoli e affetto.</p>
+  <h3>La vita quotidiana con gli Staffy</h3>
+  <p>Ogni mattina inizia con saluti, corse nel prato e momenti di gioco. I nostri Staffordshire Bull Terrier vivono con noi, in casa e in giardino, imparano a conoscere suoni, odori e persone diverse. Crescono sereni, in un ambiente ricco di stimoli e affetto.</p>
   </div>
   </div>
   </section>
@@ -131,11 +131,11 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Il Nostro Approccio</span>
-  <h2 class="section-title">Il Nostro Metodo di Allevamento</h2>
+  <h2 class="section-title">Il nostro metodo di allevamento</h2>
 
   <div class="content-block">
-  <h3>Perché scegliere un cucciolo Del Piccolo diavolo</h3>
-  <p>Perché qui non sei un numero. Ti raccontiamo tutto sui genitori, ti accogliamo in casa, ti accompagniamo anche dopo l'adozione. Se vuoi, puoi scegliere il nome del tuo cucciolo insieme a noi.</p>
+  <h3>Perché scegliere Del Piccolo Diavolo</h3>
+  <p>Perché qui non sei un numero. Ti raccontiamo tutto sui genitori, ti accogliamo in casa, ti accompagniamo anche dopo l'adozione. Se vuoi, puoi scegliere il nome insieme a noi.</p>
   </div>
 
   <div class="image-center">
@@ -143,7 +143,7 @@ custom_content: |
   </div>
 
   <div class="content-block">
-  <h3>In Allevamento: La salute prima di tutto</h3>
+  <h3>La salute prima di tutto</h3>
   <p>Ogni soggetto è seguito da veterinari di fiducia, con controlli regolari e test genetici. Preferiamo poche cucciolate, seguite con attenzione, per garantire qualità e benessere.</p>
   </div>
 
@@ -159,12 +159,12 @@ custom_content: |
   <span class="section-label">Risorse Gratuite</span>
   <h2 class="section-title">Risorse utili per chi sceglie uno Staffordshire Bull Terrier</h2>
 
-  <p style="text-align:center;margin-bottom:1.5rem">Tutto quello che devi sapere prima e dopo l'arrivo del tuo cucciolo.</p>
+  <p style="text-align:center;margin-bottom:1.5rem">Tutto quello che devi sapere prima e dopo l'arrivo del tuo Staffy.</p>
 
   <div class="guide-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1rem;margin-bottom:1.5rem">
   <a href="/cuccioli-socializzazione-in-casa/" class="guide-card" style="display:block;padding:1.2rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08);min-height:44px">
   <strong style="color:#7a5c00">Socializzazione</strong><br>
-  <span style="font-size:0.9rem">Come preparare il cucciolo al mondo</span>
+  <span style="font-size:0.9rem">Come preparare il cane al mondo</span>
   </a>
   <a href="/cuccioli-prime-vaccinazioni/" class="guide-card" style="display:block;padding:1.2rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08);min-height:44px">
   <strong style="color:#7a5c00">Vaccinazioni</strong><br>
@@ -197,10 +197,10 @@ custom_content: |
 
   <div class="faq-item active">
   <div class="faq-question" >
-  <span>Quanto costa un cucciolo con pedigree ENCI?</span>
+  <span>Quanto costa uno Staffordshire con pedigree ENCI?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Un cucciolo con pedigree ENCI, test genetici completi (L2HGA, HC) e garanzie costa tra 1.200 e 1.500 euro. Il prezzo include vaccinazioni, microchip, sverminazioni e supporto post-adozione.</div>
+  <div class="faq-answer">Uno Staffordshire con pedigree ENCI, test genetici completi (L2HGA, HC) e garanzie costa tra 1.200 e 1.500 euro. Il prezzo include vaccinazioni, microchip, sverminazioni e supporto post-adozione.</div>
   </div>
 
   <div class="faq-item active">
@@ -208,7 +208,7 @@ custom_content: |
   <span>Quali test genetici fate sui riproduttori?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Tutti i nostri riproduttori sono testati per: L2HGA (Aciduria L-2-Idrossiglutarica), HC (Cataratta Ereditaria) e PHPV. I test sono fondamentali per produrre cuccioli sani. Ogni cucciolo viene ceduto con certificati dei test dei genitori.</div>
+  <div class="faq-answer">Tutti i nostri riproduttori sono testati per: L2HGA (Aciduria L-2-Idrossiglutarica), HC (Cataratta Ereditaria) e PHPV. I test sono fondamentali per produrre soggetti sani. Ogni cane viene ceduto con certificati dei test dei genitori.</div>
   </div>
 
   <div class="faq-item active">
@@ -216,7 +216,7 @@ custom_content: |
   <span>Posso visitare l'allevamento?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Assolutamente si, anzi lo consiglio caldamente. Nel nostro allevamento a Ostellato (Ferrara) ricevo su appuntamento. Vedrete i cani adulti, come vivono i cuccioli, potrete verificare documentazione e pedigree.</div>
+  <div class="faq-answer">Assolutamente si, anzi lo consiglio caldamente. Nel nostro allevamento a Ostellato (Ferrara) ricevo su appuntamento. Vedrete i cani adulti, come vivono, potrete verificare documentazione e pedigree.</div>
   </div>
 
   </div>
@@ -228,13 +228,13 @@ custom_content: |
   </section>
 
   <section class="dark-section">
-  <h2>La Mia Passione - Il mio allevamento</h2>
-  <p>La passione per lo Staffordshire Bull Terrier nasce nel 2005, anno in cui ho avuto il mio primo incontro con questa straordinaria razza durante il Crufts. Sono rimasto subito affascinato da questi cuccioli muscolosi e affettuosi, che mi hanno conquistato come veri Rottweiler in miniatura. Avendo già esperienza con i Rottweiler, ho scoperto un mondo nuovo: fatto di determinazione, intelligenza e amore incondizionato.</p>
+  <h2>La Mia Passione</h2>
+  <p>La passione per lo Staffordshire Bull Terrier nasce nel 2005, anno in cui ho avuto il mio primo incontro con questa straordinaria razza durante il Crufts. Sono rimasto subito affascinato da questi cani muscolosi e affettuosi, che mi hanno conquistato come veri Rottweiler in miniatura. Avendo già esperienza con i Rottweiler, ho scoperto un mondo nuovo: fatto di determinazione, intelligenza e amore incondizionato.</p>
   </section>
 
   <section class="cta-section">
-  <h2>Vuoi Info sui Cuccioli?</h2>
+  <h2>Vuoi Informazioni?</h2>
   <p>Chiamaci per una chiacchierata senza impegno. Siamo qui per rispondere a tutte le tue domande.</p>
-  <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20ti%20scrivo%20dal%20sito%20Del%20Piccolo%20Diavolo" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Scrivici su WhatsApp" aria-label="Contattaci su WhatsApp per informazioni sui cuccioli">Scrivici su WhatsApp</a>
+  <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20ti%20scrivo%20dal%20sito%20Del%20Piccolo%20Diavolo" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Scrivici su WhatsApp" aria-label="Contattaci su WhatsApp per informazioni">Scrivici su WhatsApp</a>
   </section>
 ---

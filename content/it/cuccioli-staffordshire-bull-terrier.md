@@ -15,7 +15,7 @@ custom_content: |
   <p class="hero-subtitle">Linee Elitebull e Lackyle - Dal 2005</p>
   <p class="hero-description">I nostri cuccioli nascono e crescono in famiglia, circondati da amore e stimoli positivi. Selezioniamo per salute, carattere e tipicità, seguendo le migliori linee di sangue inglesi e irlandesi.</p>
   <div class="hero-actions">
-  <a href="/programma-allevamento/" class="btn btn-primary" title="Vedi cucciolate e disponibilità">Cucciolate & Disponibilità</a>
+  <a href="/programma-allevamento/" class="btn btn-primary" title="Vedi il programma di selezione">Programma Selezione</a>
   <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sui%20cuccioli" class="btn btn-ghost" title="Contattaci su WhatsApp">Contattaci</a>
   </div>
   </div>
@@ -55,14 +55,20 @@ custom_content: |
 
   <section class="section section-alt">
   <div class="section-inner">
-  <span class="section-label">Perché Sceglierci</span>
-  <h2 class="section-title">Il Nostro Approccio</h2>
+  <span class="section-label">Come Crescono</span>
+  <h2 class="section-title">Socializzazione precoce dei cuccioli</h2>
+
+  <div class="intro-block">
+  <p>La socializzazione è il processo più importante nei primi mesi di vita di un cucciolo. Dal primo giorno i nostri cuccioli vivono in casa con noi, a contatto con la famiglia, rumori domestici, altri cani e persone diverse.</p>
+  <p>Questa esposizione graduale e controllata a stimoli vari permette ai cuccioli di sviluppare un temperamento sicuro, equilibrato e sereno. Un cucciolo ben socializzato sarà un adulto tranquillo, capace di affrontare le situazioni quotidiane senza stress.</p>
+  <p>Seguiamo un protocollo di socializzazione che include: manipolazione quotidiana, esposizione a rumori domestici, interazione con persone di età diverse, gioco con altri cani, esperienze positive con ambienti esterni.</p>
+  </div>
 
   <div class="zigzag">
   <div class="zigzag-item">
   <div class="zigzag-text">
-  <h3>Carattere e Intelligenza</h3>
-  <p>Lo Staffordshire Bull Terrier è una razza straordinaria: intelligente, coraggiosa e incredibilmente affettuosa. I nostri cuccioli ereditano queste qualità dai genitori selezionati con cura, garantendo un carattere equilibrato e una naturale predisposizione alla vita familiare.</p>
+  <h3>I primi 21 giorni: la fase neonatale</h3>
+  <p>Nelle prime tre settimane i cuccioli sono completamente dipendenti dalla madre. In questa fase monitoriamo attentamente la crescita, il peso e lo sviluppo di ogni cucciolo. La manipolazione delicata inizia fin dai primi giorni per abituare i cuccioli al contatto umano.</p>
   </div>
   <div class="zigzag-image">
   <img src="/images/storia-handler.avif" alt="Staffordshire Bull Terrier con handler" loading="lazy" decoding="async" width="400" height="300">
@@ -71,18 +77,34 @@ custom_content: |
 
   <div class="zigzag-item">
   <div class="zigzag-text">
-  <h3>Selezione Morfologica</h3>
-  <p>Lavoriamo con le migliori linee di sangue inglesi (Elitebull) e irlandesi (Lackyle). Ogni accoppiamento è studiato per migliorare la razza, rispettando lo standard e preservando la tipicità che rende unico lo Staffordshire Bull Terrier.</p>
+  <h3>Da 21 a 60 giorni: socializzazione attiva</h3>
+  <p>Questo è il periodo più critico. I cuccioli iniziano a esplorare, giocare tra loro e interagire con l'ambiente. In questa fase vengono introdotti a: rumori domestici (aspirapolvere, TV, campanello), persone diverse (adulti, bambini, anziani), superfici varie (prato, pavimento, cemento), altri animali (se presenti).</p>
   </div>
   <div class="zigzag-image">
   <img src="/images/femmina-bilquis.webp" alt="Bilquis Del Piccolo Diavolo" loading="lazy" decoding="async" width="400" height="300">
   </div>
   </div>
+  </div>
+  </div>
+  </section>
 
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">Carattere</span>
+  <h2 class="section-title">Educazione e temperamento nei primi mesi</h2>
+
+  <div class="content-block">
+  <h3>Il carattere dello Staffordshire Bull Terrier</h3>
+  <p>Lo Staffordshire Bull Terrier è una razza straordinaria: intelligente, coraggiosa e incredibilmente affettuosa. I nostri cuccioli ereditano queste qualità dai genitori selezionati con cura, garantendo un carattere equilibrato e una naturale predisposizione alla vita familiare.</p>
+  <p>Il temperamento del cucciolo è influenzato dalla genetica (60%) e dall'ambiente (40%). Per questo selezioniamo riproduttori con carattere stabile e offriamo ai cuccioli un ambiente ricco di stimoli positivi.</p>
+  </div>
+
+  <div class="zigzag">
   <div class="zigzag-item">
   <div class="zigzag-text">
-  <h3>Temperamento e Socializzazione</h3>
-  <p>Dal primo giorno i cuccioli vivono in casa con noi. Imparano a conoscere rumori domestici, persone diverse, altri animali. Questa socializzazione precoce è fondamentale per sviluppare un temperamento sicuro e sereno.</p>
+  <h3>L'educazione di base</h3>
+  <p>Già durante i primi 60 giorni i cuccioli imparano moltissimo. Iniziamo con piccoli esercizi di richiamo, abituandoli al nome, e insegniamo le prime regole di convivenza: dove fare i bisogni, il rispetto degli spazi, la gestione del cibo.</p>
+  <p>Quando il cucciolo arriva nella nuova famiglia, ha già acquisito competenze di base che facilitano l'inserimento e l'educazione successiva.</p>
   </div>
   <div class="zigzag-image">
   <img src="/images/foto1.avif" alt="Cuccioli socializzati" loading="lazy" decoding="async" width="400" height="300">
@@ -91,8 +113,9 @@ custom_content: |
 
   <div class="zigzag-item">
   <div class="zigzag-text">
-  <h3>Vita in Famiglia</h3>
+  <h3>Il cucciolo e la famiglia</h3>
   <p>Lo Staffy è conosciuto come "nanny dog" per la sua pazienza con i bambini. È un cane che ama stare con le persone, partecipare alla vita quotidiana, essere parte integrante della famiglia. Non è un cane da giardino: è un compagno di vita.</p>
+  <p>I nostri cuccioli sono abituati fin da piccoli al contatto con bambini, imparando a giocare in modo appropriato e a gestire l'entusiasmo tipico dei più piccoli.</p>
   </div>
   <div class="zigzag-image">
   <img src="/images/la-principessa-di roma.avif" alt="Staffordshire Bull Terrier in famiglia" loading="lazy" decoding="async" width="400" height="300">
@@ -102,19 +125,42 @@ custom_content: |
   </div>
   </section>
 
+  <section class="section section-alt">
+  <div class="section-inner">
+  <span class="section-label">Linee di Sangue</span>
+  <h2 class="section-title">Linee di sangue: Elitebull e Lackyle</h2>
+
+  <div class="intro-block">
+  <p>Lavoriamo con le migliori linee di sangue inglesi (Elitebull) e irlandesi (Lackyle). Ogni accoppiamento è studiato per migliorare la razza, rispettando lo standard e preservando la tipicità che rende unico lo Staffordshire Bull Terrier.</p>
+  <p>La linea Elitebull è conosciuta per la potenza, la testa massiccia e l'ossatura robusta. La linea Lackyle si distingue per l'eleganza, il movimento fluido e il carattere eccezionale.</p>
+  <p>Combinando queste linee otteniamo cuccioli versatili: belli da vedere, piacevoli da vivere, adatti sia alla famiglia che all'esposizione.</p>
+  </div>
+  </div>
+  </section>
+
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">Domande Frequenti</span>
-  <h2 class="section-title">FAQ sui Cuccioli</h2>
+  <span class="section-label">Preparazione</span>
+  <h2 class="section-title">Dal primo giorno alla nuova famiglia</h2>
 
-  <div class="faq-item">
-  <h3>Quanto costa un cucciolo di Staffordshire Bull Terrier?</h3>
-  <p>Il prezzo riflette la qualità della selezione, i test genetici completi (L2HGA, HC), il pedigree ENCI, le vaccinazioni, il microchip e il supporto continuo che offriamo. Contattaci per informazioni dettagliate sulle nostre cucciolate.</p>
+  <div class="content-block">
+  <h3>Cosa riceve chi adotta un nostro cucciolo</h3>
+  <p>Ogni cucciolo lascia il nostro allevamento a 60 giorni minimo, completamente vaccinato, sverminato, con microchip e iscritto all'anagrafe canina. Viene consegnato con:</p>
+  <ul style="list-style:disc;padding-left:2rem;margin-top:1rem">
+  <li>Pedigree ENCI certificato</li>
+  <li>Libretto sanitario con vaccinazioni</li>
+  <li>Certificato microchip</li>
+  <li>Test genetici dei genitori (L2HGA, HC, PHPV)</li>
+  <li>Documentazione fotografica della crescita</li>
+  <li>Guida all'alimentazione e alle cure</li>
+  <li>Supporto post-adozione continuativo</li>
+  </ul>
   </div>
 
-  <div class="faq-item">
-  <h3>Come posso prenotare un cucciolo?</h3>
-  <p>Puoi contattarci via WhatsApp o telefono. Accettiamo prenotazioni per le future cucciolate con caparra confirmatoria. Ti terremo aggiornato sulla crescita con foto e video, e potrai venire a conoscere il cucciolo su appuntamento.</p>
+  <div class="content-block">
+  <h3>Il supporto continua dopo l'adozione</h3>
+  <p>Non ti lasciamo solo dopo l'affidamento. Siamo disponibili per consigli sull'alimentazione, sull'educazione, sulla gestione quotidiana del cucciolo. Molte famiglie ci contattano anche dopo anni per aggiornarci sulla crescita del loro Staffy.</p>
+  <p>Questa relazione continuativa è per noi fonte di grande soddisfazione e ci permette di monitorare i risultati del nostro lavoro di selezione.</p>
   </div>
   </div>
   </section>
@@ -122,7 +168,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Recensioni</span>
-  <h2 class="section-title">Cosa Dicono di Noi</h2>
+  <h2 class="section-title">Testimonianze delle famiglie</h2>
 
   <div class="review-card">
   <p class="review-text">"Paolo è una garanzia per questa razza. Cuccioli cresciuti in casa, supporto continuo e grande competenza. Il nostro Staffy è perfetto!"</p>
@@ -142,8 +188,9 @@ custom_content: |
   </section>
 
   <section class="cta-section">
-  <h2>Vuoi Info sui Cuccioli?</h2>
-  <p>Chiamaci o scrivici su WhatsApp per informazioni sulle cucciolate disponibili.</p>
-  <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sui%20cuccioli%20di%20Staffordshire%20Bull%20Terrier" class="btn" title="Scrivici su WhatsApp per info cuccioli">Scrivici su WhatsApp</a>
+  <h2>Vuoi Saperne di Più?</h2>
+  <p>Per conoscere il nostro metodo di lavoro e le cucciolate pianificate:</p>
+  <a href="/programma-allevamento/" class="btn" style="min-height:44px;padding:1rem 1.8rem;margin-right:1rem;margin-bottom:1rem" title="Vedi il programma di selezione">Programma di Allevamento</a>
+  <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sui%20cuccioli%20di%20Staffordshire%20Bull%20Terrier" class="btn" style="min-height:44px;padding:1rem 1.8rem;background:#25d366;margin-bottom:1rem" title="Scrivici su WhatsApp" aria-label="Contattaci su WhatsApp per informazioni sui cuccioli">Scrivici su WhatsApp</a>
   </section>
 ---
