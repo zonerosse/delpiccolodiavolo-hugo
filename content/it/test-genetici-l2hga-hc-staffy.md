@@ -30,7 +30,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/index/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a href="blog.html#salute-benessere" title="Salute e Benessere">Salute e Benessere</a> ›
+  <a href="/blog/#salute-benessere" title="Salute e Benessere">Salute e Benessere</a> ›
   <span>Test Genetici L2-HGA e HC</span>
   </nav>
   
@@ -367,11 +367,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
   
   <p class="tags"><strong>Tag:</strong>
-  <a href="blog.html#salute-benessere" title="Articoli test">test genetici</a>
-  <a href="blog.html#salute-benessere" title="Articoli L2-HGA">L2-HGA</a>
-  <a href="blog.html#salute-benessere" title="Articoli HC">HC cataratta</a>
-  <a href="blog.html#salute-benessere" title="Articoli salute">salute staffy</a>
-  <a href="blog.html#salute-benessere" title="Articoli allevamento">allevamento responsabile</a>
+  <a href="/blog/#salute-benessere" title="Articoli test">test genetici</a>
+  <a href="/blog/#salute-benessere" title="Articoli L2-HGA">L2-HGA</a>
+  <a href="/blog/#salute-benessere" title="Articoli HC">HC cataratta</a>
+  <a href="/blog/#salute-benessere" title="Articoli salute">salute staffy</a>
+  <a href="/blog/#salute-benessere" title="Articoli allevamento">allevamento responsabile</a>
   </p>
   </div>
   

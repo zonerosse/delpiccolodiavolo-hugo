@@ -24,7 +24,7 @@ custom_content: |
   </div>
   
   <!-- RAZZA E LEGISLAZIONE -->
-  <section class="section">
+  <section class="section" id="legislazione">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
   <h2 class="section-title">Razza e Legislazione <span class="count">(1)</span></h2>
@@ -44,7 +44,7 @@ custom_content: |
   </section>
   
   <!-- CUCCIOLI -->
-  <section class="section" style="background:#fff">
+  <section class="section" id="cuccioli" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
   <h2 class="section-title">Cuccioli <span class="count">(8)</span></h2>
@@ -134,7 +134,7 @@ custom_content: |
   </section>
   
   <!-- STANDARD E LINEE DI SANGUE -->
-  <section class="section">
+  <section class="section" id="standard">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
   <h2 class="section-title">Standard e Linee di Sangue <span class="count">(4)</span></h2>
@@ -184,7 +184,7 @@ custom_content: |
   </section>
   
   <!-- SALUTE E BENESSERE -->
-  <section class="section" style="background:#fff">
+  <section class="section" id="salute" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
   <h2 class="section-title">Salute e Benessere <span class="count">(5)</span></h2>
@@ -244,7 +244,7 @@ custom_content: |
   </section>
   
   <!-- FAMIGLIA E CONVIVENZA -->
-  <section class="section">
+  <section class="section" id="famiglia">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
   <h2 class="section-title">Famiglia e Convivenza <span class="count">(4)</span></h2>

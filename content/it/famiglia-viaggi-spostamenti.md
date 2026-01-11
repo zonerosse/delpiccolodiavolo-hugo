@@ -30,7 +30,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/index/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a href="blog.html#famiglia" title="Famiglia">Famiglia e Convivenza</a> ›
+  <a href="/blog/#famiglia" title="Famiglia">Famiglia e Convivenza</a> ›
   <span>Viaggi e Spostamenti</span>
   </nav>
   
@@ -219,11 +219,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
   
   <p class="tags"><strong>Tag:</strong>
-  <a href="blog.html#famiglia" title="Articoli viaggi">viaggiare</a>
-  <a href="blog.html#famiglia" title="Articoli auto">auto</a>
-  <a href="blog.html#famiglia" title="Articoli treno">treno</a>
-  <a href="blog.html#famiglia" title="Articoli hotel">hotel</a>
-  <a href="blog.html#famiglia" title="Articoli trasportino">trasportino</a>
+  <a href="/blog/#famiglia" title="Articoli viaggi">viaggiare</a>
+  <a href="/blog/#famiglia" title="Articoli auto">auto</a>
+  <a href="/blog/#famiglia" title="Articoli treno">treno</a>
+  <a href="/blog/#famiglia" title="Articoli hotel">hotel</a>
+  <a href="/blog/#famiglia" title="Articoli trasportino">trasportino</a>
   </p>
   </div>
   

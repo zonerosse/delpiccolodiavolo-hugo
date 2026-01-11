@@ -30,7 +30,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/index/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a href="blog.html#famiglia" title="Famiglia">Famiglia e Convivenza</a> ›
+  <a href="/blog/#famiglia" title="Famiglia">Famiglia e Convivenza</a> ›
   <span>Bambini e Convivenza</span>
   </nav>
   
@@ -387,11 +387,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
   
   <p class="tags"><strong>Tag:</strong>
-  <a href="blog.html#famiglia" title="Articoli bambini">bambini</a>
-  <a href="blog.html#famiglia" title="Articoli famiglia">famiglia</a>
-  <a href="blog.html#famiglia" title="Articoli convivenza">convivenza</a>
-  <a href="blog.html#famiglia" title="Articoli supervisione">supervisione</a>
-  <a href="blog.html#famiglia" title="Articoli sicurezza">sicurezza</a>
+  <a href="/blog/#famiglia" title="Articoli bambini">bambini</a>
+  <a href="/blog/#famiglia" title="Articoli famiglia">famiglia</a>
+  <a href="/blog/#famiglia" title="Articoli convivenza">convivenza</a>
+  <a href="/blog/#famiglia" title="Articoli supervisione">supervisione</a>
+  <a href="/blog/#famiglia" title="Articoli sicurezza">sicurezza</a>
   </p>
   </div>
   

@@ -30,7 +30,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/index/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a href="blog.html#salute-benessere" title="Salute e Benessere">Salute e Benessere</a> ›
+  <a href="/blog/#salute-benessere" title="Salute e Benessere">Salute e Benessere</a> ›
   <span>Esercizio Sicuro</span>
   </nav>
   
@@ -350,11 +350,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
   
   <p class="tags"><strong>Tag:</strong>
-  <a href="blog.html#salute-benessere" title="Articoli esercizio">esercizio</a>
-  <a href="blog.html#salute-benessere" title="Articoli attività fisica">attività fisica</a>
-  <a href="blog.html#salute-benessere" title="Articoli cuccioli">cuccioli</a>
-  <a href="blog.html#salute-benessere" title="Articoli colpo di calore">colpo di calore</a>
-  <a href="blog.html#salute-benessere" title="Articoli sport">sport cinofili</a>
+  <a href="/blog/#salute-benessere" title="Articoli esercizio">esercizio</a>
+  <a href="/blog/#salute-benessere" title="Articoli attività fisica">attività fisica</a>
+  <a href="/blog/#salute-benessere" title="Articoli cuccioli">cuccioli</a>
+  <a href="/blog/#salute-benessere" title="Articoli colpo di calore">colpo di calore</a>
+  <a href="/blog/#salute-benessere" title="Articoli sport">sport cinofili</a>
   </p>
   </div>
   

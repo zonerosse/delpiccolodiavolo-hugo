@@ -30,7 +30,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/index/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a href="blog.html#salute-benessere" title="Salute e Benessere">Salute e Benessere</a> ›
+  <a href="/blog/#salute-benessere" title="Salute e Benessere">Salute e Benessere</a> ›
   <span>Igiene Orale e Denti</span>
   </nav>
   
@@ -340,11 +340,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
   
   <p class="tags"><strong>Tag:</strong>
-  <a href="blog.html#salute-benessere" title="Articoli igiene">igiene orale</a>
-  <a href="blog.html#salute-benessere" title="Articoli denti">denti</a>
-  <a href="blog.html#salute-benessere" title="Articoli tartaro">tartaro</a>
-  <a href="blog.html#salute-benessere" title="Articoli detartrasi">detartrasi</a>
-  <a href="blog.html#salute-benessere" title="Articoli spazzolatura">spazzolatura</a>
+  <a href="/blog/#salute-benessere" title="Articoli igiene">igiene orale</a>
+  <a href="/blog/#salute-benessere" title="Articoli denti">denti</a>
+  <a href="/blog/#salute-benessere" title="Articoli tartaro">tartaro</a>
+  <a href="/blog/#salute-benessere" title="Articoli detartrasi">detartrasi</a>
+  <a href="/blog/#salute-benessere" title="Articoli spazzolatura">spazzolatura</a>
   </p>
   </div>
   
