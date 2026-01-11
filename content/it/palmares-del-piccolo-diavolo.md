@@ -1,5 +1,5 @@
 ---
-title: "Palmares - I Nostri Successi in Esposizione"
+title: "Palmares Staffordshire Bull Terrier"
 description: "Risultati e titoli dei nostri Staffordshire Bull Terrier: Campioni Italiani, Giovani Campioni, Best in Show. Allevamento Del Piccolo Diavolo, Emilia-Romagna."
 slug: "palmares-del-piccolo-diavolo"
 custom_content: |
