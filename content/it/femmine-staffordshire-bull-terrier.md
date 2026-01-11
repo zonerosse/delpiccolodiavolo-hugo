@@ -72,7 +72,7 @@ custom_content: |
   <img src="/images/femmina-bilquis.webp" alt="JCH CH Bilquis Goddess Diabhal Del Piccolo Diavolo" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="female-info">
-  <p><strong>Test Genetici:</strong> L2HGA & HC clear by DNA</p>
+  <p><strong>Test Genetici:</strong> L2HGA &amp; HC clear by DNA</p>
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
   <p><strong>Padre:</strong> Skilful-dogs Nora</p>
   <p><strong>Madre:</strong> Pablo iuno sospita plata plomo</p>
@@ -93,7 +93,7 @@ custom_content: |
   <img src="/images/femmina-croi-olc.webp" alt="Lackyle Bean Croi Olc" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="female-info">
-  <p><strong>Test Genetici:</strong> L2HGA & HC clear by DNA</p>
+  <p><strong>Test Genetici:</strong> L2HGA &amp; HC clear by DNA</p>
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
   <p><strong>Padre:</strong> Lackyle Trodai Tine</p>
   <p><strong>Madre:</strong> CH. Lackyle Ogbhean an Diabhal</p>
@@ -114,7 +114,7 @@ custom_content: |
   <img src="/images/femmina-divine.webp" alt="Faiter Divine at Diabhal Staff" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="female-info">
-  <p><strong>Test Genetici:</strong> L2HGA & HC clear by DNA</p>
+  <p><strong>Test Genetici:</strong> L2HGA &amp; HC clear by DNA</p>
   <p><strong>PHPV:</strong> Unaffected</p>
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
   <p><strong>Padre:</strong> CH. Dangerous Smile Black Shadow</p>
@@ -137,7 +137,7 @@ custom_content: |
   <img src="/images/femmina-kennedy.webp" alt="Jackie Kennedy Great'n Glory" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="female-info">
-  <p><strong>Test Genetici:</strong> L2HGA & HC clear by DNA</p>
+  <p><strong>Test Genetici:</strong> L2HGA &amp; HC clear by DNA</p>
   <p><strong>PHPV:</strong> Unaffected</p>
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
   <p><strong>Padre:</strong> CH. Hell's Angel</p>
@@ -159,7 +159,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>HD:</strong> B</p>
   <p><strong>ED:</strong> A</p>
-  <p><strong>Test Genetici:</strong> L2HGA & HC clear by DNA</p>
+  <p><strong>Test Genetici:</strong> L2HGA &amp; HC clear by DNA</p>
   <p><strong>PHPV:</strong> Unaffected</p>
   <p><strong>Padre:</strong> CH. Kiraloebis Italian Gigalo (Top UK Staffordshire Bull Terrier 2012)</p>
   <p><strong>Madre:</strong> Lackyle Duilleog Daracha</p>
@@ -179,7 +179,7 @@ custom_content: |
   <img src="/images/femmina-cattleya.webp" alt="Cattleya Del Piccolo Diavolo at Valconcaclan" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="female-info">
-  <p><strong>Test Genetici:</strong> L2HGA & HC clear by DNA</p>
+  <p><strong>Test Genetici:</strong> L2HGA &amp; HC clear by DNA</p>
   <p><strong>PHPV:</strong> Unaffected</p>
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
   <p><strong>Padre:</strong> THE Phenomenal AJ Styles Valconcaclan</p>
@@ -201,7 +201,7 @@ custom_content: |
   <img src="/images/Nora, femmina di staffordshire bull terrier.avif" alt="Skilful-Dogs Nora" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="female-info">
-  <p><strong>Test Genetici:</strong> L2HGA & HC clear by DNA</p>
+  <p><strong>Test Genetici:</strong> L2HGA &amp; HC clear by DNA</p>
   <p><strong>Mielopatia Degenerativa:</strong> Clear</p>
   <p><strong>PHPV:</strong> Unaffected</p>
   <p><strong>Dentatura:</strong> Completely scissor bite</p>

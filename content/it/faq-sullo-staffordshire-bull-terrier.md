@@ -10,7 +10,7 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">28 Domande & Risposte</span>
+  <span class="hero-eyebrow">28 Domande &amp; Risposte</span>
   <h1 class="hero-title">Domande<br><em>Frequenti</em></h1>
   <p class="hero-subtitle">Tutto quello che vuoi sapere sullo Staffordshire Bull Terrier</p>
   </div>

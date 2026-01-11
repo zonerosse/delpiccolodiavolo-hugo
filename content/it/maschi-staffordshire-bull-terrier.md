@@ -73,7 +73,7 @@ custom_content: |
   <img src="/images/Lothar.webp" alt="JCH Lothar Matthäus del Piccolo Diavolo" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
-  <p><strong>Test Genetici:</strong> L2HGA & HC clear by DNA</p>
+  <p><strong>Test Genetici:</strong> L2HGA &amp; HC clear by DNA</p>
   <p><strong>PHPV:</strong> Unaffected</p>
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
   <p><strong>Padre:</strong> Bullbrothers Hot As Hell</p>
@@ -95,7 +95,7 @@ custom_content: |
   <img src="/images/tikus-bologna-primo.avif" alt="Virtus et Honor Amazing Paddy the Baddy aka Tikus" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
-  <p><strong>Test Genetici:</strong> L2HGA & HC clear by Parents</p>
+  <p><strong>Test Genetici:</strong> L2HGA &amp; HC clear by Parents</p>
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
   <p><strong>Padre:</strong> Zarlorstar Ultimo Omega</p>
   <p><strong>Madre:</strong> Virtus Et Honor Radioactive At Stafflorence</p>
@@ -114,7 +114,7 @@ custom_content: |
   <img src="/images/maschio-braveheart.webp" alt="Braveheart del Piccolo Diavolo" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
-  <p><strong>Test Genetici:</strong> L2HGA & HC clear by DNA</p>
+  <p><strong>Test Genetici:</strong> L2HGA &amp; HC clear by DNA</p>
   <p><strong>PHPV:</strong> Unaffected</p>
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
   <p><strong>Padre:</strong> Jackie Kennedy Great'n Glory</p>
@@ -134,7 +134,7 @@ custom_content: |
   <img src="/images/maschio-papillon.webp" alt="Papillon del Piccolo Diavolo" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
-  <p><strong>Test Genetici:</strong> L2HGA & HC clear by DNA</p>
+  <p><strong>Test Genetici:</strong> L2HGA &amp; HC clear by DNA</p>
   <p><strong>PHPV:</strong> Unaffected</p>
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
   <p><strong>Padre:</strong> Jackie Kennedy Great'n Glory</p>
