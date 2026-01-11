@@ -1,6 +1,6 @@
 ---
 title: "Contatti Allevamento"
-description: "Contatta l'allevamento Del Piccolo Diavolo a Ostellato (FE). Visite su appuntamento, WhatsApp, telefono. Raggiungi da Ferrara, Bologna, Ravenna, Padova, Milano, Firenze."
+description: "Contatta l'allevamento Del Piccolo Diavolo a Ostellato (FE). Visite su appuntamento. WhatsApp, telefono. Raggiungi da Ferrara, Bologna, Ravenna, Padova, Milano, Firenze."
 slug: "allevamento-staffordshire-bull-terrier-in-emilia-romagna"
 custom_content: |
   <section class="hero">
