@@ -81,8 +81,12 @@
 
 {{ partial "footer.html" . }}
 
-<script type="module">
-function toggleFAQ(el){var item=el.parentElement;item.classList.toggle('active')}
+<script>
+document.querySelectorAll('.faq-question').forEach(function(q){
+  q.addEventListener('click', function(){
+    this.parentElement.classList.toggle('active');
+  });
+});
 </script>
 
 </body>
