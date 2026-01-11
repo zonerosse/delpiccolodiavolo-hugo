@@ -162,19 +162,19 @@ custom_content: |
   <p style="text-align:center;margin-bottom:1.5rem">Tutto quello che devi sapere prima e dopo l'arrivo del tuo cucciolo.</p>
 
   <div class="guide-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1rem;margin-bottom:1.5rem">
-  <a href="/cuccioli-socializzazione-in-casa/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
+  <a href="/cuccioli-socializzazione-in-casa/" class="guide-card" style="display:block;padding:1.2rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08);min-height:44px">
   <strong style="color:#7a5c00">Socializzazione</strong><br>
   <span style="font-size:0.9rem">Come preparare il cucciolo al mondo</span>
   </a>
-  <a href="/cuccioli-prime-vaccinazioni/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
+  <a href="/cuccioli-prime-vaccinazioni/" class="guide-card" style="display:block;padding:1.2rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08);min-height:44px">
   <strong style="color:#7a5c00">Vaccinazioni</strong><br>
   <span style="font-size:0.9rem">Calendario e consigli pratici</span>
   </a>
-  <a href="/cuccioli-alimentazione-iniziale/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
+  <a href="/cuccioli-alimentazione-iniziale/" class="guide-card" style="display:block;padding:1.2rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08);min-height:44px">
   <strong style="color:#7a5c00">Alimentazione</strong><br>
   <span style="font-size:0.9rem">Cosa e quanto dare da mangiare</span>
   </a>
-  <a href="/cuccioli-gestione-solitudine/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
+  <a href="/cuccioli-gestione-solitudine/" class="guide-card" style="display:block;padding:1.2rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08);min-height:44px">
   <strong style="color:#7a5c00">Gestire la Solitudine</strong><br>
   <span style="font-size:0.9rem">Evitare ansia da separazione</span>
   </a>
@@ -183,7 +183,7 @@ custom_content: |
   <div style="text-align:center;padding:1.5rem;background:#5c4a3a;border-radius:12px;color:#fff">
   <p style="margin:0 0 0.5rem 0;font-size:1.1rem"><strong>Scarica Subito - PDF Gratuito</strong></p>
   <p style="margin:0 0 1rem 0;font-size:0.95rem;opacity:0.9">Tutto quello che devi sapere prima dell'arrivo</p>
-  <a href="/docs/guida-primi-mesi-cucciolo-staffy.pdf" class="btn" style="background:#c9a227;color:#fff;padding:0.8rem 1.5rem;border-radius:6px;text-decoration:none;display:inline-block" title="Scarica la guida gratuita">Scarica "I Primi Mesi con il Tuo Cucciolo Staffy"</a>
+  <a href="/docs/guida-primi-mesi-cucciolo-staffy.pdf" class="btn" style="background:#8b7300;color:#fff;padding:1rem 1.8rem;border-radius:6px;text-decoration:none;display:inline-block;min-height:44px;font-weight:600" title="Scarica la guida gratuita" aria-label="Scarica la guida PDF gratuita sui primi mesi con il cucciolo Staffy">Scarica "I Primi Mesi con il Tuo Cucciolo Staffy"</a>
   </div>
   </div>
   </section>
@@ -222,7 +222,7 @@ custom_content: |
   </div>
 
   <div style="text-align:center;margin-top:1.5rem">
-  <a href="/faq-sullo-staffordshire-bull-terrier/" class="btn btn-primary" title="Vedi tutte le FAQ">Vedi Tutte le 28 FAQ</a>
+  <a href="/faq-sullo-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="Vedi tutte le FAQ">Vedi Tutte le 28 FAQ</a>
   </div>
   </div>
   </section>
@@ -235,6 +235,6 @@ custom_content: |
   <section class="cta-section">
   <h2>Vuoi Info sui Cuccioli?</h2>
   <p>Chiamaci per una chiacchierata senza impegno. Siamo qui per rispondere a tutte le tue domande.</p>
-  <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20ti%20scrivo%20dal%20sito%20Del%20Piccolo%20Diavolo" class="btn" title="Scrivici su WhatsApp">Scrivici su WhatsApp</a>
+  <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20ti%20scrivo%20dal%20sito%20Del%20Piccolo%20Diavolo" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Scrivici su WhatsApp" aria-label="Contattaci su WhatsApp per informazioni sui cuccioli">Scrivici su WhatsApp</a>
   </section>
 ---
