@@ -40,13 +40,15 @@ custom_content: |
   </div>
   </div>
 
-  <a href="https://cucciolo-staffy-emilia.pages.dev/" target="_blank" rel="noopener" style="display:block;background:#5c4a3a;padding:1.2rem 1.5rem;text-decoration:none;text-align:center">
+  <div style="padding:0.8rem;background:#f5f0e8">
+  <a href="https://cucciolo-staffy-emilia.pages.dev/" target="_blank" rel="noopener" style="display:block;background:#5c4a3a;border:3px solid #c9a227;padding:1.2rem 1.5rem;text-decoration:none;text-align:center;box-shadow:0 4px 15px rgba(0,0,0,0.15)">
   <span style="display:inline-flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:0.6rem 1.2rem">
-  <span style="background:#c9a227;color:#fff;padding:0.3rem 0.8rem;font-size:0.75rem;font-weight:700;text-transform:uppercase;border-radius:2px">🐕 Cucciolo Disponibile</span>
+  <span style="background:#c9a227;color:#1a1a1a;padding:0.35rem 0.9rem;font-size:0.75rem;font-weight:700;text-transform:uppercase;border-radius:2px">🐕 Cucciolo Disponibile</span>
   <span style="font-size:1rem;color:#fff"><strong>Maschio nero 8 mesi</strong> – Figlio di Campionessa Italiana – Pedigree ENCI</span>
   <span style="color:#c9a227;font-weight:700;font-size:0.95rem">Scopri di più →</span>
   </span>
   </a>
+  </div>
 
   <section class="section">
   <div class="section-inner">
