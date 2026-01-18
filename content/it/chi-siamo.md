@@ -49,7 +49,7 @@ custom_content: |
   <div class="story-block">
   <div class="story-text">
   <h3>Dal Crufts a Ostellato</h3>
-  <p>La passione nasce nel 2005 al Crufts. Cercavo un cane con carattere forte ma gestibile: lo Staffy mi è apparso come un "Rottweiler in miniatura" — potente, determinato, incredibilmente affettuoso.</p>
+  <p>La passione nasce nel 2005 al Crufts. Cercavo un cane con carattere forte ma gestibile: lo Staffy mi è apparso come un "Rottweiler in miniatura" – potente, determinato, incredibilmente affettuoso.</p>
   <p>Da allora ho studiato lo standard, viaggiato in UK e Irlanda, conosciuto allevatori esperti.</p>
   </div>
   <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo" class="story-img" width="350" height="354" loading="lazy" decoding="async">
@@ -77,20 +77,21 @@ custom_content: |
   <p>1-2 cucciolate all'anno. Ogni accoppiamento è pianificato: studiamo pedigree, valutiamo compatibilità genetica, aspettiamo il momento giusto.</p>
   <h3 style="margin-top:1.2rem">Selezione del Carattere</h3>
   <p>Prima di inserire un soggetto nel programma, lo osserviamo per mesi: comportamento in casa, con estranei, altri cani, bambini. Deve essere sicuro, equilibrato, socievole.</p>
+  <p>Questo è ciò che distingue il nostro <a href="/" title="Allevamento Staffordshire Bull Terrier">allevamento Staffordshire Bull Terrier</a> dagli altri.</p>
   </div>
   <img src="/images/20250922175108-4a225f3e-sm--1-.webp" alt="Cuccioli Staffy neonati" class="story-img" width="247" height="288" loading="lazy" decoding="async">
   </div>
   
   <div class="checklist">
-  <h3>Cosa Ricevi con un Nostro Cucciolo</h3>
+  <h3>Cosa Ricevi con un Nostro <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">Cucciolo</a></h3>
   <ul>
-  <li>Pedigree ENCI — Certificato FCI riconosciuto worldwide</li>
+  <li>Pedigree ENCI – Certificato FCI riconosciuto worldwide</li>
   <li>Microchip registrato all'anagrafe canina</li>
   <li>Libretto sanitario con vaccinazione e sverminazioni</li>
   <li>Certificati test genetici L2HGA e HC dei genitori</li>
   <li>Contratto di vendita con garanzie</li>
   <li>Kit cucciolo: cibo, coperta con odore mamma, giochino</li>
-  <li>Il nostro numero — Supporto per tutta la vita del cane</li>
+  <li>Il nostro numero – Supporto per tutta la vita del cane</li>
   </ul>
   </div>
   </div>
