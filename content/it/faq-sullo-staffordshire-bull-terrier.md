@@ -29,7 +29,7 @@ custom_content: |
   <h2 class="section-title">Le Tue Domande, Le Nostre Risposte</h2>
   
   <div class="faq-intro">
-  <p>Benvenuto nella sezione FAQ dell'<strong>Allevamento Del Piccolo Diavolo</strong>.</p>
+  <p>Benvenuto nella sezione FAQ dell'<strong><a href="/" title="Allevamento Staffordshire Bull Terrier">Allevamento Del Piccolo Diavolo</a></strong>.</p>
   <p>Se hai dubbi che non trovi qui, <a href="https://wa.me/393924635584" title="Contattaci su WhatsApp">contattaci su WhatsApp</a>.</p>
   </div>
   
@@ -56,7 +56,7 @@ custom_content: |
   <span>Quanto costa un cucciolo con pedigree ENCI?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Un cucciolo da allevamento serio con pedigree ENCI, test genetici completi e garanzie sulla salute costa indicativamente tra 1.400€ e 2.000€. Il prezzo riflette anni di selezione, costi dei test genetici (L2HGA, HC), vaccinazioni, microchip e alimentazione di qualità. Diffidate di prezzi sotto i 1.000€.</div>
+  <div class="faq-answer">Un <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cucciolo</a> da allevamento serio con pedigree ENCI, test genetici completi e garanzie sulla salute costa indicativamente tra 1.400€ e 2.000€. Il prezzo riflette anni di selezione, costi dei test genetici (L2HGA, HC), vaccinazioni, microchip e alimentazione di qualità. Diffidate di prezzi sotto i 1.000€.</div>
   </div>
   
   <div class="faq-item active">
@@ -185,14 +185,6 @@ custom_content: |
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Ha pelo corto senza sottopelo, quindi è sensibile a entrambi. Inverno: cappottino sotto i 5°C. Estate: ombra, acqua fresca, passeggiate nelle ore fresche. Non lasciare mai in auto al sole. Deve dormire sempre in casa.</div>
-  </div>
-  
-  <div class="faq-item active">
-  <div class="faq-question">
-  <span>Quanto costa mantenere uno Staffy all'anno?</span>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
-  </div>
-  <div class="faq-answer">Circa 800-1.500€/anno: alimentazione 300-600€, veterinario ordinario 150-250€, assicurazione 150-300€, accessori 100-150€. Non richiede toelettature costose. Considerando 12-14 anni di vita, il costo totale è circa 12.000-20.000€.</div>
   </div>
   
   <div class="faq-item active">

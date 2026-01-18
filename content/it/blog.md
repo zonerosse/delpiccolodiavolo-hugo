@@ -47,9 +47,19 @@ custom_content: |
   <section class="section" id="cuccioli" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
-  <h2 class="section-title">Cuccioli <span class="count">(8)</span></h2>
+  <h2 class="section-title">Cuccioli <span class="count">(9)</span></h2>
   
   <div class="blog-grid">
+  <article class="blog-card">
+  <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi: Come Scegliere un Allevamento"><div class="blog-card-thumb"><img src="/images/blog/hero-default.webp" alt="Come Scegliere un Allevamento Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">18 Gen 2026</span><span>•</span><span class="cat">Cuccioli</span></div>
+  <h3><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi: Come Scegliere un Allevamento">Come Scegliere un Allevamento Staffordshire Bull Terrier</a></h3>
+  <p>Guida completa: test genetici, pedigree ENCI, segnali d'allarme e domande da fare.</p>
+  <a class="read" href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi articolo completo">Leggi →</a>
+  </div>
+  </article>
+
   <article class="blog-card">
   <a href="/cuccioli-socializzazione-in-casa/" title="Leggi: Socializzazione in casa"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-1.webp" alt="Socializzazione in casa" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -137,9 +147,29 @@ custom_content: |
   <section class="section" id="standard">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
-  <h2 class="section-title">Standard e Linee di Sangue <span class="count">(4)</span></h2>
+  <h2 class="section-title">Standard e Linee di Sangue <span class="count">(6)</span></h2>
   
   <div class="blog-grid">
+  <article class="blog-card">
+  <a href="/staffordshire-bull-terrier-carattere/" title="Leggi: Carattere e Temperamento"><div class="blog-card-thumb"><img src="/images/blog/hero-default.webp" alt="Staffordshire Bull Terrier Carattere e Temperamento" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">18 Gen 2026</span><span>•</span><span class="cat">Standard</span></div>
+  <h3><a href="/staffordshire-bull-terrier-carattere/" title="Leggi: Carattere e Temperamento">Staffordshire Bull Terrier: Carattere e Temperamento</a></h3>
+  <p>Il vero volto del "nanny dog" inglese: affettuoso, leale, paziente con i bambini.</p>
+  <a class="read" href="/staffordshire-bull-terrier-carattere/" title="Leggi articolo completo">Leggi →</a>
+  </div>
+  </article>
+
+  <article class="blog-card">
+  <a href="/differenza-staffy-amstaff/" title="Leggi: Differenza Staffy e Amstaff"><div class="blog-card-thumb"><img src="/images/blog/hero-default.webp" alt="Differenza tra Staffy e Amstaff" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">18 Gen 2026</span><span>•</span><span class="cat">Standard</span></div>
+  <h3><a href="/differenza-staffy-amstaff/" title="Leggi: Differenza Staffy e Amstaff">Differenza tra Staffy e Amstaff: Guida Completa</a></h3>
+  <p>Taglia, carattere, origini e quale scegliere tra le due razze.</p>
+  <a class="read" href="/differenza-staffy-amstaff/" title="Leggi articolo completo">Leggi →</a>
+  </div>
+  </article>
+
   <article class="blog-card">
   <a href="/differenza-staffy-pitbull-amstaff/" title="Leggi: Differenza Staffy Pitbull Amstaff"><div class="blog-card-thumb"><img src="/images/blog/hero-default.webp" alt="Differenza Staffy Pitbull Amstaff" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
