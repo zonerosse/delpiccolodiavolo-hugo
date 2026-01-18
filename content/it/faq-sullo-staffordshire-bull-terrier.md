@@ -3,6 +3,95 @@ title: "FAQ sullo Staffordshire Bull Terrier"
 description: "Risposte alle domande più frequenti sullo Staffordshire Bull Terrier: carattere, salute, cuccioli ENCI, costi, alimentazione, addestramento."
 slug: "faq-sullo-staffordshire-bull-terrier"
 custom_content: |
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Lo Staffordshire Bull Terrier è pericoloso o aggressivo?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No, lo Staffordshire Bull Terrier ben selezionato e socializzato non è pericoloso. Con selezione seria del carattere, socializzazione precoce e proprietari responsabili, lo Staffy è un cane affettuoso e stabile."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Lo Staffordshire Bull Terrier è adatto ai bambini?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Assolutamente sì. Lo Staffordshire Bull Terrier è tradizionalmente chiamato nanny dog per la sua straordinaria pazienza con i bambini."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Quanto costa un cucciolo Staffordshire Bull Terrier con pedigree ENCI?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Un cucciolo da allevamento serio con pedigree ENCI, test genetici completi e garanzie sulla salute costa indicativamente tra 1.400€ e 2.000€."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Quali test genetici si fanno sullo Staffordshire Bull Terrier?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "I riproduttori vengono testati per L2HGA (Aciduria L-2-Idrossiglutarica), HC (Cataratta Ereditaria) e PHPV (anomalia oculare). I test sono fondamentali per produrre cuccioli sani."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "A che età si può portare a casa un cucciolo di Staffy?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "I cuccioli vengono ceduti dopo i 60 giorni di età, come previsto dalla legge italiana. Questo periodo è fondamentale per lo sviluppo comportamentale."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Qual è la differenza tra Staffy e Amstaff?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Sono due razze diverse. Lo Staffordshire Bull Terrier è più piccolo: maschi 35-40 cm per 12-17 kg. L'American Staffordshire Terrier è più grande: maschi 43-48 cm per 25-30 kg."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Quanto vive uno Staffordshire Bull Terrier?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Lo Staffordshire Bull Terrier ben selezionato vive mediamente 12-14 anni. È una razza robusta e longeva."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Come riconoscere un allevamento Staffordshire Bull Terrier serio?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Un allevamento serio deve avere: pedigree ENCI originale, test genetici documentati, cuccioli cresciuti in casa, possibilità di visitare e vedere la madre, massimo 1-2 cucciolate/anno per fattrice, supporto post-vendita."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Lo Staffy può vivere in appartamento?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Assolutamente sì, si adatta perfettamente. È silenzioso, non abbaia molto, ed è naturalmente pulito. Preferisce vivere dentro casa con la famiglia."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Qual è il carattere tipico dello Staffy?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Carattere straordinario: affettuoso, leale, coraggioso, paziente e giocherellone. Estremamente orientato alle persone, adora stare con la famiglia."
+        }
+      }
+    ]
+  }
+  </script>
+
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
