@@ -344,9 +344,9 @@ custom_content: |
   </div>
   </section>
   
-  <section class="dark-section">
+  <section class="cta-section">
   <h2>Hai Altre Domande?</h2>
   <p>Siamo sempre disponibili per rispondere a qualsiasi dubbio sullo Staffordshire Bull Terrier.</p>
-  <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20ho%20una%20domanda%20sullo%20Staffy" class="btn btn-light" title="Scrivici su WhatsApp per domande">Scrivici su WhatsApp</a>
+  <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20ho%20una%20domanda%20sullo%20Staffy" class="btn" title="Scrivici su WhatsApp per domande">Scrivici su WhatsApp</a>
   </section>
 ---
