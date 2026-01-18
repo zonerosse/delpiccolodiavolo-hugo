@@ -11,9 +11,9 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Dal 2013</span>
-  <h1 class="hero-title">Chi<br><em>Siamo</em></h1>
+  <h1 class="hero-title">Chi Siamo – <em>Allevamento Staffordshire Bull Terrier</em></h1>
   <p class="hero-subtitle">Selezione, etica e passione</p>
-  <p class="hero-description">Allevamento familiare a Ostellato (FE). Staffordshire Bull Terrier sani, equilibrati e tipici con linee Elitebull e Lackyle.</p>
+  <p class="hero-description">Siamo un <a href="/" title="Allevamento Staffordshire Bull Terrier">allevamento Staffordshire Bull Terrier</a> a gestione familiare, con sede a Ostellato (FE). Selezioniamo soggetti sani, equilibrati e tipici con linee Elitebull e Lackyle.</p>
   <div class="hero-actions">
   <a href="https://wa.me/393924635584" class="btn btn-primary" title="Contattaci su WhatsApp">Contattaci</a>
   <a href="/recensioni/" class="btn btn-ghost" title="Leggi le recensioni">Recensioni</a>
