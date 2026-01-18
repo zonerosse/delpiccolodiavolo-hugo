@@ -69,7 +69,7 @@ custom_content: |
         "name": "Come riconoscere un allevamento Staffordshire Bull Terrier serio?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Un allevamento serio deve avere: pedigree ENCI originale, test genetici documentati, cuccioli cresciuti in casa, possibilità di visitare e vedere la madre, massimo 1-2 cucciolate/anno per fattrice, supporto post-vendita."
+          "text": "Un allevamento serio deve avere: pedigree ENCI originale, test genetici documentati, cuccioli cresciuti in casa, possibilità di visitare e vedere la madre, massimo 1-2 cucciolate/anno per fattrice, supporto post-vendita. Diffidate di chi vende sotto i 1.000€ o non mostra i test."
         }
       },
       {
@@ -118,7 +118,7 @@ custom_content: |
   <h2 class="section-title">Le Tue Domande, Le Nostre Risposte</h2>
   
   <div class="faq-intro">
-  <p>Benvenuto nella sezione FAQ dell'<strong><a href="/" title="Allevamento Staffordshire Bull Terrier">Allevamento Del Piccolo Diavolo</a></strong>.</p>
+  <p>Benvenuto nella sezione FAQ dell'<strong><a href="/" title="Allevamento Staffordshire Bull Terrier">allevamento Staffordshire Bull Terrier Del Piccolo Diavolo</a></strong>.</p>
   <p>Se hai dubbi che non trovi qui, <a href="https://wa.me/393924635584" title="Contattaci su WhatsApp">contattaci su WhatsApp</a>.</p>
   </div>
   
@@ -161,7 +161,7 @@ custom_content: |
   <span>A che età posso portare a casa il cucciolo?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">I cuccioli vengono ceduti dopo i 60 giorni di età, come previsto dalla legge italiana. Questo periodo è fondamentale: nelle prime 8 settimane il cucciolo impara dalla madre le basi della comunicazione canina e l'autocontrollo. Cedere prima è illegale e dannoso.</div>
+  <div class="faq-answer">I <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli</a> vengono ceduti dopo i 60 giorni di età, come previsto dalla legge italiana. Questo periodo è fondamentale: nelle prime 8 settimane il cucciolo impara dalla madre le basi della comunicazione canina e l'autocontrollo. Cedere prima è illegale e dannoso.</div>
   </div>
   
   <div class="faq-item active">
@@ -193,7 +193,7 @@ custom_content: |
   <span>Come riconoscere un allevamento serio?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Un allevamento serio deve avere: pedigree ENCI originale, test genetici documentati, cuccioli cresciuti in casa, possibilità di visitare e vedere la madre, massimo 1-2 cucciolate/anno per fattrice, supporto post-vendita. Diffidate di chi vende sotto i 1.000€ o non mostra i test.</div>
+  <div class="faq-answer">Un allevamento serio deve avere: pedigree ENCI originale, test genetici documentati, cuccioli cresciuti in casa, possibilità di visitare e vedere la madre, massimo 1-2 cucciolate/anno per fattrice, supporto post-vendita. Diffidate di chi vende sotto i 1.000€ o non mostra i test. Scopri il nostro <a href="/" title="Allevamento Staffordshire Bull Terrier">allevamento Staffordshire Bull Terrier</a>.</div>
   </div>
   
   <div class="faq-item active">
@@ -305,7 +305,7 @@ custom_content: |
   <span>Cosa significa che i cuccioli sono socializzati?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">I nostri cuccioli crescono in casa, non in box esterni. Dalle prime settimane sono esposti a rumori domestici (aspirapolvere, televisione, campanello), superfici diverse, persone di tutte le eta, altri cani adulti equilibrati. Questo periodo critico (3-16 settimane) forma un carattere stabile e sicuro.</div>
+  <div class="faq-answer">I nostri <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli</a> crescono in casa, non in box esterni. Dalle prime settimane sono esposti a rumori domestici (aspirapolvere, televisione, campanello), superfici diverse, persone di tutte le eta, altri cani adulti equilibrati. Questo periodo critico (3-16 settimane) forma un carattere stabile e sicuro.</div>
   </div>
   
   <div class="faq-item active">
