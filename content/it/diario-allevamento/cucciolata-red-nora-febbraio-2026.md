@@ -66,6 +66,12 @@ Entrambi i genitori sono testati **Clear** per le principali patologie genetiche
 
 I cuccioli nasceranno **geneticamente sani** per L2HGA e HC (tutti Clear o Carrier, nessun Affected possibile).
 
+<div class="docs-box" style="background:#faf8f5;padding:1.5rem;border-radius:12px;margin:1.5rem 0">
+<h4 style="margin:0 0 1rem;font-size:1rem">📄 Documenti verificabili</h4>
+<p style="margin:0 0 .5rem"><a href="/docs/test-genetici-red.pdf" target="_blank" rel="noopener">Test genetici Red (L2HGA + HC) →</a></p>
+<p style="margin:0"><a href="/docs/test-genetici-nora.pdf" target="_blank" rel="noopener">Test genetici Nora (L2HGA + HC + DM) →</a></p>
+</div>
+
 ## Colori attesi
 
 Da questo accoppiamento ci aspettiamo cuccioli nei colori:

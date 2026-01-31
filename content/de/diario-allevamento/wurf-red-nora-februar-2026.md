@@ -66,6 +66,12 @@ Beide Eltern sind **Clear** getestet für die wichtigsten genetischen Erkrankung
 
 Die Welpen werden **genetisch gesund** für L2HGA und HC geboren (alle Clear oder Carrier, kein Affected möglich).
 
+<div class="docs-box" style="background:#faf8f5;padding:1.5rem;border-radius:12px;margin:1.5rem 0">
+<h4 style="margin:0 0 1rem;font-size:1rem">📄 Überprüfbare Dokumente</h4>
+<p style="margin:0 0 .5rem"><a href="/docs/test-genetici-red.pdf" target="_blank" rel="noopener">Red Gentests (L2HGA + HC) →</a></p>
+<p style="margin:0"><a href="/docs/test-genetici-nora.pdf" target="_blank" rel="noopener">Nora Gentests (L2HGA + HC + DM) →</a></p>
+</div>
+
 ## Erwartete Farben
 
 Von dieser Verpaarung erwarten wir Welpen in diesen Farben:
