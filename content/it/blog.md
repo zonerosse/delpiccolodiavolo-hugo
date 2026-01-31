@@ -47,7 +47,7 @@ custom_content: |
   <section class="section" id="cuccioli" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
-  <h2 class="section-title">Cuccioli <span class="count">(9)</span></h2>
+  <h2 class="section-title">Cuccioli <span class="count">(10)</span></h2>
   
   <div class="blog-grid">
   <article class="blog-card">
@@ -57,6 +57,16 @@ custom_content: |
   <h3><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi: Come Scegliere un Allevamento">Come Scegliere un Allevamento Staffordshire Bull Terrier</a></h3>
   <p>Guida completa: test genetici, pedigree ENCI, segnali d'allarme e domande da fare.</p>
   <a class="read" href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi articolo completo">Leggi →</a>
+  </div>
+  </article>
+
+  <article class="blog-card">
+  <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Leggi: Quanto Costa un Cucciolo"><div class="blog-card-thumb"><img src="/images/blog/cucciolata-erba.avif" alt="Quanto Costa un Cucciolo di Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">25 Gen 2026</span><span>•</span><span class="cat">Cuccioli</span></div>
+  <h3><a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Leggi: Quanto Costa un Cucciolo">Quanto Costa un Cucciolo di Staffordshire Bull Terrier nel 2026</a></h3>
+  <p>Da 1.200 a 1.500€ da un allevatore serio. Cosa include il prezzo e perché diffidare dai 500€.</p>
+  <a class="read" href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Leggi articolo completo">Leggi →</a>
   </div>
   </article>
 

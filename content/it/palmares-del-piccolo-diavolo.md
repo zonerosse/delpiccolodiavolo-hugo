@@ -19,7 +19,7 @@ custom_content: |
   
   <div class="palmares-summary" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1rem;margin:2rem 0;text-align:center">
   <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
-  <p style="font-size:2rem;font-weight:700;margin:0">3</p>
+  <p style="font-size:2rem;font-weight:700;margin:0">4</p>
   <p style="font-size:0.85rem;margin:0">Campioni</p>
   </div>
   <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
@@ -181,17 +181,18 @@ custom_content: |
   
   <section class="section section-alt">
   <div class="section-inner">
-  <span class="section-label">Giovane Campione Italiano</span>
+  <span class="section-label">Giovane Campione Italiano + Campione Sloveno 🇸🇮</span>
   <h2 class="section-title">Lothar Matthaus</h2>
   
   <div style="display:flex;flex-direction:column;gap:1.5rem;margin-bottom:2rem">
   <div class="image-center">
-  <img src="/images/lothar-best-young.webp" alt="Lothar Matthaus, Giovane Campione Italiano Staffordshire Bull Terrier - Best Young Carrara 2025" loading="lazy" decoding="async" width="300" height="380" style="border-radius:12px">
+  <img src="/images/lothar-best-young.webp" alt="Lothar Matthaus, Giovane Campione Italiano e Campione Sloveno Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="380" style="border-radius:12px">
   </div>
   <div>
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
-  <h3>Giovane Campione Italiano ENCI</h3>
-  <p>Lothar ha conquistato il titolo di Giovane Campione Italiano con una serie impressionante di risultati in Classe Giovani. Ora in Classe Intermedia, continua la sua carriera espositiva collezionando qualifiche Eccellente e CAC.</p>
+  <h3>Giovane Campione Italiano ENCI + Campione Sloveno 🇸🇮</h3>
+  <p>Lothar ha conquistato il titolo di Giovane Campione Italiano con una serie impressionante di risultati in Classe Giovani. Ora in Classe Intermedia, continua a collezionare successi nei ring di tutta Europa.</p>
+  <p><strong>Gennaio 2026:</strong> Nuovo Campione Sloveno! Weekend straordinario alle esposizioni internazionali di Vrtojba con 3 Eccellente 1°, completando il titolo sloveno.</p>
   </div>
   </div>
   </div>
@@ -199,6 +200,24 @@ custom_content: |
   <h3 style="margin-top:2rem;margin-bottom:1rem">Risultati Completi</h3>
   
   <div class="risultati-grid" style="display:grid;gap:0.75rem">
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#c9a227;border-radius:8px;align-items:center;color:#fff">
+  <span style="background:#fff;color:#c9a227;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">🇸🇮 CH</span>
+  <span><strong>Expo Internazionale Vrtojba (SLO)</strong> - gen 2026</span>
+  <span style="font-weight:600">CAC + CACIB</span>
+  </div>
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#c9a227;border-radius:8px;align-items:center;color:#fff">
+  <span style="background:#fff;color:#c9a227;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">🇸🇮 CH</span>
+  <span><strong>Expo Internazionale Vrtojba (SLO)</strong> - gen 2026</span>
+  <span style="font-weight:600">CAC + CACIB</span>
+  </div>
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#c9a227;border-radius:8px;align-items:center;color:#fff">
+  <span style="background:#fff;color:#c9a227;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">🇸🇮 CH</span>
+  <span><strong>Expo Internazionale Vrtojba (SLO)</strong> - gen 2026</span>
+  <span style="font-weight:600">CAC + R.CACIB</span>
+  </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
   <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1°</span>
@@ -262,7 +281,7 @@ custom_content: |
   
   </div>
   
-  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">18 esposizioni totali. Giovane Campione Italiano. Ora in Classe Intermedia, continua la sua carriera espositiva.</p>
+  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">21 esposizioni totali. Giovane Campione Italiano + Campione Sloveno 🇸🇮. Handler: Sergio Patrucco.</p>
   
   </div>
   </section>
@@ -294,7 +313,7 @@ custom_content: |
   
   </div>
   
-  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">Figlio di Lothar Matthaus (Giovane Campione Italiano). Seguiremo la sua carriera espositiva nei prossimi mesi.</p>
+  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">Figlio di Lothar Matthaus (Giovane Campione Italiano + Campione Sloveno). Seguiremo la sua carriera espositiva nei prossimi mesi.</p>
   
   </div>
   </section>

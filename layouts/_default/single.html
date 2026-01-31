@@ -4,6 +4,7 @@
   {{ .Params.custom_content | safeHTML }}
 {{ else }}
   <div class="page-hero">
+    {{ partial "breadcrumb.html" . }}
     <h1>{{ .Title }}</h1>
     {{ with .Description }}<p>{{ . }}</p>{{ end }}
   </div>
