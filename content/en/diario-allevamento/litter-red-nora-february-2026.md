@@ -66,6 +66,12 @@ Both parents are tested **Clear** for the main genetic diseases of the breed:
 
 Puppies will be born **genetically healthy** for L2HGA and HC (all Clear or Carrier, no Affected possible).
 
+<div class="docs-box" style="background:#faf8f5;padding:1.5rem;border-radius:12px;margin:1.5rem 0">
+<h4 style="margin:0 0 1rem;font-size:1rem">📄 Verifiable documents</h4>
+<p style="margin:0 0 .5rem"><a href="/docs/test-genetici-red.pdf" target="_blank" rel="noopener">Red genetic tests (L2HGA + HC) →</a></p>
+<p style="margin:0"><a href="/docs/test-genetici-nora.pdf" target="_blank" rel="noopener">Nora genetic tests (L2HGA + HC + DM) →</a></p>
+</div>
+
 ## Expected colors
 
 From this pairing we expect puppies in these colors:
