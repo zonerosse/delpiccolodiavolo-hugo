@@ -71,7 +71,7 @@ Die Welpen werden **genetisch gesund** für L2HGA und HC geboren (alle Clear ode
 <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
 Überprüfbare Gentests
 </h4>
-<p style="margin:0 0 1rem;font-size:.95rem;opacity:.9">Volle Transparenz: Laden Sie die Original-Laborzertifikate herunter.</p>
+<p style="margin:0 0 1rem;font-size:.95rem">Volle Transparenz: Laden Sie die Original-Laborzertifikate herunter.</p>
 <div style="display:flex;flex-wrap:wrap;gap:1rem">
 <a href="/docs/test-genetici-red.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem">
 <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
