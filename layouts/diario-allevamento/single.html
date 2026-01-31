@@ -1,0 +1,47 @@
+{{ define "main" }}
+
+<div class="page-hero">
+  {{ partial "breadcrumb.html" . }}
+  <time class="diario-date-hero" datetime="{{ .Date.Format "2006-01-02" }}">
+    {{ .Date.Format "2 January 2006" }}
+  </time>
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p>{{ . }}</p>{{ end }}
+</div>
+
+<div class="article-content">
+  {{ .Content }}
+</div>
+
+{{/* Navigazione tra post */}}
+<nav class="diario-nav">
+  {{ with .PrevInSection }}
+  <a href="{{ .Permalink }}" class="diario-nav-link diario-nav-prev">
+    <span class="diario-nav-label">← Precedente</span>
+    <span class="diario-nav-title">{{ .Title }}</span>
+  </a>
+  {{ else }}
+  <span class="diario-nav-link diario-nav-empty"></span>
+  {{ end }}
+
+  <a href="{{ .Parent.Permalink }}" class="diario-nav-link diario-nav-back">
+    Tutti gli aggiornamenti
+  </a>
+
+  {{ with .NextInSection }}
+  <a href="{{ .Permalink }}" class="diario-nav-link diario-nav-next">
+    <span class="diario-nav-label">Successivo →</span>
+    <span class="diario-nav-title">{{ .Title }}</span>
+  </a>
+  {{ else }}
+  <span class="diario-nav-link diario-nav-empty"></span>
+  {{ end }}
+</nav>
+
+<section class="cta-section">
+  <h2>Interessato a questa cucciolata?</h2>
+  <p>Contattaci su WhatsApp per informazioni o per prenotare un cucciolo.</p>
+  <a href="https://wa.me/{{ .Site.Params.whatsapp }}?text=Ciao%20Paolo%2C%20ho%20letto%20l%27aggiornamento%20{{ .Title | urlquery }}%20e%20vorrei%20info" class="btn" title="WhatsApp">Scrivici su WhatsApp</a>
+</section>
+
+{{ end }}

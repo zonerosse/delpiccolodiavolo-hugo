@@ -1,0 +1,11 @@
+<nav class="breadcrumb" aria-label="Breadcrumb">
+  <a href="{{ "/" | relLangURL }}">Home</a>
+  {{ if .Parent }}
+    {{ if ne .Parent.Title .Site.Title }}
+      <span class="separator">›</span>
+      <a href="{{ .Parent.Permalink }}">{{ .Parent.Title }}</a>
+    {{ end }}
+  {{ end }}
+  <span class="separator">›</span>
+  <span class="current">{{ .Title }}</span>
+</nav>

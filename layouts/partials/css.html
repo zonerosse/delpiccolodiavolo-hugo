@@ -29,4 +29,44 @@
 .faq-list .faq-item{background:#fff;border:1px solid rgba(139,115,85,.1);border-radius:8px;padding:1.25rem}
 .faq-list .faq-item h4{font-size:.95rem;color:#5c4a3a;margin-bottom:.5rem}
 .faq-list .faq-item p{font-size:.9rem;color:#4a3f35;line-height:1.6;margin:0}
+
+/* === BREADCRUMB === */
+.breadcrumb{font-size:.9rem;margin-bottom:1rem;color:#8b7355}
+.breadcrumb a{color:#8b7355;text-decoration:none;transition:color .2s}
+.breadcrumb a:hover{color:#5c4a3a;text-decoration:underline}
+.breadcrumb .separator{margin:0 .5rem;opacity:.6}
+.breadcrumb .current{color:#5c4a3a;font-weight:500}
+
+/* === DIARIO ALLEVAMENTO === */
+.diario-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:2rem}
+.diario-card{background:#fff;border-radius:12px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,.08);transition:transform .2s,box-shadow .2s}
+.diario-card:hover{transform:translateY(-4px);box-shadow:0 8px 24px rgba(0,0,0,.12)}
+.diario-card-image{display:block;aspect-ratio:16/10;overflow:hidden}
+.diario-card-image img{width:100%;height:100%;object-fit:cover;object-position:top;transition:transform .3s}
+.diario-card:hover .diario-card-image img{transform:scale(1.05)}
+.diario-card-content{padding:1.5rem}
+.diario-date{display:block;font-size:.85rem;color:#8b7355;margin-bottom:.5rem}
+.diario-card-title{font-size:1.25rem;margin:0 0 .75rem;line-height:1.3}
+.diario-card-title a{color:#5c4a3a;text-decoration:none}
+.diario-card-title a:hover{color:#8b5a2b}
+.diario-card-excerpt{font-size:.95rem;color:#666;margin:0 0 1rem;line-height:1.5}
+.diario-card-link{display:inline-block;font-size:.9rem;font-weight:600;color:#8b5a2b;text-decoration:none}
+.diario-card-link:hover{color:#6b4423}
+.diario-date-hero{display:block;font-size:.95rem;color:#8b7355;margin-bottom:.5rem}
+.diario-hero-image{margin:0 0 2rem;border-radius:12px;overflow:hidden}
+.diario-hero-image img{width:100%;height:auto;display:block}
+
+/* === DIARIO NAVIGAZIONE === */
+.diario-nav{display:flex;justify-content:space-between;align-items:stretch;gap:1rem;margin:3rem auto;padding:2rem 0;border-top:1px solid rgba(139,115,85,.2);border-bottom:1px solid rgba(139,115,85,.2);max-width:800px}
+.diario-nav-link{flex:1;padding:1rem;text-decoration:none;border-radius:8px;transition:background-color .2s}
+.diario-nav-prev,.diario-nav-next{display:flex;flex-direction:column;gap:.25rem}
+.diario-nav-prev:hover,.diario-nav-next:hover{background-color:rgba(139,115,85,.08)}
+.diario-nav-prev{text-align:left}
+.diario-nav-next{text-align:right}
+.diario-nav-back{text-align:center;display:flex;align-items:center;justify-content:center;color:#8b7355;font-weight:500}
+.diario-nav-back:hover{background-color:rgba(139,115,85,.08);color:#5c4a3a}
+.diario-nav-label{font-size:.85rem;color:#8b7355}
+.diario-nav-title{font-size:.95rem;color:#5c4a3a;font-weight:500}
+.diario-nav-empty{visibility:hidden}
+@media(max-width:640px){.diario-nav{flex-direction:column}.diario-nav-prev,.diario-nav-next{text-align:center}.diario-nav-empty{display:none}}
 </style>

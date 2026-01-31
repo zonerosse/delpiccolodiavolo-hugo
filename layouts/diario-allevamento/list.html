@@ -1,0 +1,47 @@
+{{ define "main" }}
+
+<div class="page-hero">
+  {{ partial "breadcrumb.html" . }}
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p>{{ . }}</p>{{ end }}
+</div>
+
+<section class="section">
+  <div class="section-inner">
+    <div class="diario-grid">
+      {{ range .Pages.ByDate.Reverse }}
+      <article class="diario-card">
+        {{ with .Params.image }}
+        <a href="{{ $.Permalink }}" class="diario-card-image">
+          <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" decoding="async">
+        </a>
+        {{ end }}
+        <div class="diario-card-content">
+          <time class="diario-date" datetime="{{ .Date.Format "2006-01-02" }}">
+            {{ .Date.Format "2 January 2006" }}
+          </time>
+          <h2 class="diario-card-title">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </h2>
+          {{ with .Description }}
+          <p class="diario-card-excerpt">{{ . }}</p>
+          {{ end }}
+          <a href="{{ .Permalink }}" class="diario-card-link">Leggi tutto →</a>
+        </div>
+      </article>
+      {{ end }}
+    </div>
+
+    {{ if eq (len .Pages) 0 }}
+    <p style="text-align: center; color: #8b7355;">Nessun aggiornamento ancora. Torna presto!</p>
+    {{ end }}
+  </div>
+</section>
+
+<section class="cta-section">
+  <h2>Vuoi essere avvisato?</h2>
+  <p>Contattaci su WhatsApp per ricevere aggiornamenti sulle prossime cucciolate.</p>
+  <a href="https://wa.me/{{ .Site.Params.whatsapp }}?text=Ciao%20Paolo%2C%20vorrei%20ricevere%20aggiornamenti%20sulle%20cucciolate" class="btn" title="WhatsApp">Scrivici su WhatsApp</a>
+</section>
+
+{{ end }}
