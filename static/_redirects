@@ -1,6 +1,6 @@
 # =========================================
 # REDIRECTS – delpiccolodiavolo.it
-# Versione STABILE – Cloudflare Pages
+# Versione COMPLETA – Cloudflare Pages
 # =========================================
 
 # -------------------------------------------------
@@ -15,39 +15,200 @@
 # -------------------------------------------------
 /cuccioli.html /cuccioli-staffordshire-bull-terrier/ 301
 /cuccioli-staffy /cuccioli-staffordshire-bull-terrier/ 301
+/cuccioli-staffy/ /cuccioli-staffordshire-bull-terrier/ 301
 /cucciolo-staffy-in-adozione /cuccioli-staffordshire-bull-terrier/ 301
+/cucciolo-staffy-in-adozione/ /cuccioli-staffordshire-bull-terrier/ 301
+/cuccioli-staffordshire-bull-terrier-disponibili /cuccioli-staffordshire-bull-terrier/ 301
+/cuccioli-staffordshire-bull-terrier-disponibili/ /cuccioli-staffordshire-bull-terrier/ 301
+/cuccioli-staffordshire-bull-terrier.html /cuccioli-staffordshire-bull-terrier/ 301
+/cuccioli-staffordshire-bull-terrier-in-affido.html /cuccioli-staffordshire-bull-terrier/ 301
 
 # -------------------------------------------------
 # ALLEVAMENTO
 # -------------------------------------------------
 /allevamento-staffy.html / 301
 /allevamento-staffy / 301
+/allevamento-staffy/ / 301
+/allevamento-staffy-.html / 301
+/allevamento-staffy-emilia-romagna / 301
+/allevamento-staffy-emilia-romagna/ / 301
+/allevamento-staffordshire-bull-terrier-in-emilia-romagna.html /allevamento-staffordshire-bull-terrier-in-emilia-romagna/ 301
 
 # -------------------------------------------------
 # RAZZA / STANDARD / FAQ
 # -------------------------------------------------
 /staffordshire-bull-terrier.html / 301
+/staffordshire-bull-terrier / 301
+/staffordshire-bull-terrier/ / 301
 /standard-staffordshire-bull-terrier.html /standard-tipicita-morfologia/ 301
 /carattere-staffordshire-bull-terrier.html /faq-sullo-staffordshire-bull-terrier/ 301
+/faq-sullo-staffordshire-bull-terrier.html /faq-sullo-staffordshire-bull-terrier/ 301
+/faq-staffordshire-bull-terrier/ /faq-sullo-staffordshire-bull-terrier/ 301
 
 # -------------------------------------------------
-# CAMPIONI
+# CAMPIONI / PALMARES
 # -------------------------------------------------
 /staffordshire-bull-terrier-campioni.html /palmares-del-piccolo-diavolo/ 301
+/staffordshire-bull-terrier-campioni /palmares-del-piccolo-diavolo/ 301
+/staffordshire_bull_terrier_campioni.html /palmares-del-piccolo-diavolo/ 301
+/palmares/ /palmares-del-piccolo-diavolo/ 301
 
 # -------------------------------------------------
-# PRIVACY
+# PRIVACY / GDPR
 # -------------------------------------------------
 /informativa-sulla-privacy.html /privacy-policy/ 301
 /gdpr-informativa-sulla-privacy.html /privacy-policy/ 301
 
 # -------------------------------------------------
-# NORMALIZZAZIONE TRAILING SLASH (SOLO PAGINE VERE)
+# CONTATTI
 # -------------------------------------------------
-/blog /blog/ 301
-/chi-siamo /chi-siamo/ 301
-/programma-allevamento /programma-allevamento/ 301
-/cuccioli-staffordshire-bull-terrier /cuccioli-staffordshire-bull-terrier/ 301
+/contact/ /allevamento-staffordshire-bull-terrier-in-emilia-romagna/ 301
+/contact /allevamento-staffordshire-bull-terrier-in-emilia-romagna/ 301
+/kontakt/ /allevamento-staffordshire-bull-terrier-in-emilia-romagna/ 301
+/kontakt /allevamento-staffordshire-bull-terrier-in-emilia-romagna/ 301
+
+# -------------------------------------------------
+# SLUG INGLESI SULLA RADICE IT → /en/ corretto
+# -------------------------------------------------
+/about-us/ /en/about-us/ 301
+/about-us /en/about-us/ 301
+/males-staffordshire-bull-terrier/ /en/males-staffordshire-bull-terrier/ 301
+/males-staffordshire-bull-terrier /en/males-staffordshire-bull-terrier/ 301
+/females-staffordshire-bull-terrier/ /en/females-staffordshire-bull-terrier/ 301
+/females-staffordshire-bull-terrier /en/females-staffordshire-bull-terrier/ 301
+/puppies-staffordshire-bull-terrier/ /en/puppies-staffordshire-bull-terrier/ 301
+/puppies-staffordshire-bull-terrier /en/puppies-staffordshire-bull-terrier/ 301
+/litters-staffordshire-bull-terrier/ /en/litters-staffordshire-bull-terrier/ 301
+/litters-staffordshire-bull-terrier /en/litters-staffordshire-bull-terrier/ 301
+/reviews/ /en/reviews/ 301
+/reviews /en/reviews/ 301
+/legal-notice/ /en/legal-notice/ 301
+/legal-notice /en/legal-notice/ 301
+/puppy-first-walk/ /en/puppy-first-walk/ 301
+/puppy-first-walk /en/puppy-first-walk/ 301
+/puppy-home-socialization/ /en/puppy-home-socialization/ 301
+/puppy-home-socialization /en/puppy-home-socialization/ 301
+/puppy-alone-time/ /en/puppy-alone-time/ 301
+/puppy-alone-time /en/puppy-alone-time/ 301
+/puppy-first-vaccinations/ /en/puppy-first-vaccinations/ 301
+/puppy-first-vaccinations /en/puppy-first-vaccinations/ 301
+/puppy-initial-feeding/ /en/puppy-initial-feeding/ 301
+/puppy-initial-feeding /en/puppy-initial-feeding/ 301
+/puppy-mental-games/ /en/puppy-mental-games/ 301
+/puppy-mental-games /en/puppy-mental-games/ 301
+/staffy-elderly-owners/ /en/staffy-elderly-owners/ 301
+/staffy-elderly-owners /en/staffy-elderly-owners/ 301
+/staffy-other-pets/ /en/staffy-other-pets/ 301
+/staffy-other-pets /en/staffy-other-pets/ 301
+/staffy-travel-transport/ /en/staffy-travel-transport/ 301
+/staffy-travel-transport /en/staffy-travel-transport/ 301
+/staffy-bloodlines-guide/ /en/staffy-bloodlines-guide/ 301
+/staffy-bloodlines-guide /en/staffy-bloodlines-guide/ 301
+/staffy-children-family/ /en/staffy-children-family/ 301
+/staffy-children-family /en/staffy-children-family/ 301
+/staffy-dental-health/ /en/staffy-dental-health/ 301
+/staffy-dental-health /en/staffy-dental-health/ 301
+/staffy-genetic-testing-l2hga-hc/ /en/staffy-genetic-testing-l2hga-hc/ 301
+/staffy-genetic-testing-l2hga-hc /en/staffy-genetic-testing-l2hga-hc/ 301
+/staffy-safe-exercise/ /en/staffy-safe-exercise/ 301
+/staffy-safe-exercise /en/staffy-safe-exercise/ 301
+/staffy-parasite-prevention/ /en/staffy-parasite-prevention/ 301
+/staffy-parasite-prevention /en/staffy-parasite-prevention/ 301
+/choosing-bloodlines/ /en/choosing-bloodlines/ 301
+/choosing-bloodlines /en/choosing-bloodlines/ 301
+/boas-staffordshire-bull-terrier-breathing/ /en/boas-staffordshire-bull-terrier-breathing/ 301
+/boas-staffordshire-bull-terrier-breathing /en/boas-staffordshire-bull-terrier-breathing/ 301
+
+# -------------------------------------------------
+# SLUG TEDESCHI SULLA RADICE IT → /de/ corretto
+# -------------------------------------------------
+/ueber-uns/ /de/ueber-uns/ 301
+/ueber-uns /de/ueber-uns/ 301
+/rueden-staffordshire-bull-terrier/ /de/rueden-staffordshire-bull-terrier/ 301
+/rueden-staffordshire-bull-terrier /de/rueden-staffordshire-bull-terrier/ 301
+/huendinnen-staffordshire-bull-terrier/ /de/huendinnen-staffordshire-bull-terrier/ 301
+/huendinnen-staffordshire-bull-terrier /de/huendinnen-staffordshire-bull-terrier/ 301
+/welpen-staffordshire-bull-terrier/ /de/welpen-staffordshire-bull-terrier/ 301
+/welpen-staffordshire-bull-terrier /de/welpen-staffordshire-bull-terrier/ 301
+/wuerfe-staffordshire-bull-terrier/ /de/wuerfe-staffordshire-bull-terrier/ 301
+/wuerfe-staffordshire-bull-terrier /de/wuerfe-staffordshire-bull-terrier/ 301
+/bewertungen/ /de/bewertungen/ 301
+/bewertungen /de/bewertungen/ 301
+/impressum/ /de/impressum/ 301
+/impressum /de/impressum/ 301
+/datenschutz/ /de/datenschutz/ 301
+/datenschutz /de/datenschutz/ 301
+/welpen-allein-bleiben/ /de/welpen-allein-bleiben/ 301
+/welpen-allein-bleiben /de/welpen-allein-bleiben/ 301
+/welpen-denkspiele/ /de/welpen-denkspiele/ 301
+/welpen-denkspiele /de/welpen-denkspiele/ 301
+/welpen-erste-fuetterung/ /de/welpen-erste-fuetterung/ 301
+/welpen-erste-fuetterung /de/welpen-erste-fuetterung/ 301
+/welpen-erste-impfungen/ /de/welpen-erste-impfungen/ 301
+/welpen-erste-impfungen /de/welpen-erste-impfungen/ 301
+/welpen-sozialisierung-zuhause/ /de/welpen-sozialisierung-zuhause/ 301
+/welpen-sozialisierung-zuhause /de/welpen-sozialisierung-zuhause/ 301
+/welpen-stubenreinheit/ /de/welpen-stubenreinheit/ 301
+/welpen-stubenreinheit /de/welpen-stubenreinheit/ 301
+/staffy-andere-haustiere/ /de/staffy-andere-haustiere/ 301
+/staffy-andere-haustiere /de/staffy-andere-haustiere/ 301
+/staffy-blutlinien-guide/ /de/staffy-blutlinien-guide/ 301
+/staffy-blutlinien-guide /de/staffy-blutlinien-guide/ 301
+/staffy-kinder-familie/ /de/staffy-kinder-familie/ 301
+/staffy-kinder-familie /de/staffy-kinder-familie/ 301
+/staffy-gefaehrliche-rasse-gesetz/ /de/staffy-gefaehrliche-rasse-gesetz/ 301
+/staffy-gefaehrliche-rasse-gesetz /de/staffy-gefaehrliche-rasse-gesetz/ 301
+/staffy-gentests-l2hga-hc/ /de/staffy-gentests-l2hga-hc/ 301
+/staffy-gentests-l2hga-hc /de/staffy-gentests-l2hga-hc/ 301
+/staffy-rassestandard/ /de/staffy-rassestandard/ 301
+/staffy-rassestandard /de/staffy-rassestandard/ 301
+/staffy-sichere-bewegung/ /de/staffy-sichere-bewegung/ 301
+/staffy-sichere-bewegung /de/staffy-sichere-bewegung/ 301
+/staffy-pitbull-amstaff-unterschied/ /de/staffy-pitbull-amstaff-unterschied/ 301
+/staffy-pitbull-amstaff-unterschied /de/staffy-pitbull-amstaff-unterschied/ 301
+/blutlinien-waehlen/ /de/blutlinien-waehlen/ 301
+/blutlinien-waehlen /de/blutlinien-waehlen/ 301
+/boas-staffordshire-bull-terrier-atmung/ /de/boas-staffordshire-bull-terrier-atmung/ 301
+/boas-staffordshire-bull-terrier-atmung /de/boas-staffordshire-bull-terrier-atmung/ 301
+
+# -------------------------------------------------
+# DIARIO ALLEVAMENTO – slug lingua sbagliata
+# -------------------------------------------------
+/diario-allevamento/litter-red-nora-february-2026/ /en/diario-allevamento/litter-red-nora-february-2026/ 301
+/de/diario-allevamento/litter-red-nora-february-2026/ /de/diario-allevamento/wurf-red-nora-februar-2026/ 301
+/de/diario-allevamento/cucciolata-red-nora-febbraio-2026/ /de/diario-allevamento/wurf-red-nora-februar-2026/ 301
+/en/diario-allevamento/cucciolata-red-nora-febbraio-2026/ /en/diario-allevamento/litter-red-nora-february-2026/ 301
+
+# -------------------------------------------------
+# VECCHI .HTML LEGACY (vecchio sito)
+# -------------------------------------------------
+/chi-siamo.html /chi-siamo/ 301
+/femmine-staffordshire-bull-terrier.html /femmine-staffordshire-bull-terrier/ 301
+/femmine.html /femmine-staffordshire-bull-terrier/ 301
+/maschi.html /maschi-staffordshire-bull-terrier/ 301
+/maschi-staffordshire-bull-terrier.html /maschi-staffordshire-bull-terrier/ 301
+/recensioni.html /recensioni/ 301
+/blog.html /blog/ 301
+/alimentazione-del-cane.html /blog/ 301
+/convivenza-altri-animali.html /famiglia-convivenza-altri-animali/ 301
+/cuccioli-alimentazione-iniziale.html /cuccioli-alimentazione-iniziale/ 301
+/cuccioli-socializzazione-in-casa.html /cuccioli-socializzazione-in-casa/ 301
+/cuccioli-prima-passeggiata.html /cuccioli-prima-passeggiata/ 301
+/cuccioli-educazione-bisogni.html /cuccioli-educazione-bisogni/ 301
+/famiglia-viaggi-spostamenti.html /famiglia-viaggi-spostamenti/ 301
+/lackyle-bean-croi-olc.html / 301
+/salute-denti-igiene/blog.html /salute-denti-igiene/ 301
+/salute-e-comportamento-dello-staffordshire-bull-terrier.html /staffordshire-bull-terrier-carattere/ 301
+/salute-e-comportamento-dello-staffordshire.html /staffordshire-bull-terrier-carattere/ 301
+/staffordshire_bull_terrier_campioni.html /palmares-del-piccolo-diavolo/ 301
+/staffy-pericoloso-legge-italia.html /staffy-pericoloso-legge-italia/ 301
+/standard-linee-di-sangue-orientarsi.html /standard-linee-di-sangue-orientarsi/ 301
+/test-genetici-l2hga-hc-staffy.html /test-genetici-l2hga-hc-staffy/ 301
+/test-genetici-l2hga-hc-staffy/blog.html /test-genetici-l2hga-hc-staffy/ 301
+/video-cuccioli-staffordshire-bull-terrier.html /cuccioli-staffordshire-bull-terrier/ 301
+/agressività-dello-staffordshire-bull-terrier.html /staffordshire-bull-terrier-carattere/ 301
+/famiglia-anziani-rispetto-ritmi/blog.html /famiglia-anziani-rispetto-ritmi/ 301
+/cuccioli-consigli-acquisto/blog.html /cuccioli-consigli-acquisto/ 301
 
 # -------------------------------------------------
 # SLUG ITALIANI CON PREFISSO /de/ → SLUG TEDESCHI CORRETTI
@@ -88,6 +249,72 @@
 /de/maschi-staffordshire-bull-terrier /de/rueden-staffordshire-bull-terrier/ 301
 /de/femmine-staffordshire-bull-terrier/ /de/huendinnen-staffordshire-bull-terrier/ 301
 /de/femmine-staffordshire-bull-terrier /de/huendinnen-staffordshire-bull-terrier/ 301
+/de/salute-denti-igiene/ /de/staffy-zahnpflege/ 301
+/de/salute-denti-igiene /de/staffy-zahnpflege/ 301
+/de/cuccioli-prima-passeggiata/ /de/welpen-erster-spaziergang/ 301
+/de/cuccioli-prima-passeggiata /de/welpen-erster-spaziergang/ 301
+/de/about-us/ /de/ueber-uns/ 301
+/de/about-us /de/ueber-uns/ 301
+/de/litters-staffordshire-bull-terrier/ /de/wuerfe-staffordshire-bull-terrier/ 301
+/de/litters-staffordshire-bull-terrier /de/wuerfe-staffordshire-bull-terrier/ 301
+/de/males-staffordshire-bull-terrier/ /de/rueden-staffordshire-bull-terrier/ 301
+/de/males-staffordshire-bull-terrier /de/rueden-staffordshire-bull-terrier/ 301
+/de/puppies-staffordshire-bull-terrier/ /de/welpen-staffordshire-bull-terrier/ 301
+/de/puppies-staffordshire-bull-terrier /de/welpen-staffordshire-bull-terrier/ 301
+/de/reviews/ /de/bewertungen/ 301
+/de/reviews /de/bewertungen/ 301
+/de/staffy-bloodlines-guide/ /de/staffy-blutlinien-guide/ 301
+/de/staffy-bloodlines-guide /de/staffy-blutlinien-guide/ 301
+/de/boas-staffordshire-bull-terrier-breathing/ /de/boas-staffordshire-bull-terrier-atmung/ 301
+/de/boas-staffordshire-bull-terrier-breathing /de/boas-staffordshire-bull-terrier-atmung/ 301
+/de/staffy-children-family/ /de/staffy-kinder-familie/ 301
+/de/staffy-children-family /de/staffy-kinder-familie/ 301
+/de/staffy-pitbull-amstaff-difference/ /de/staffy-pitbull-amstaff-unterschied/ 301
+/de/staffy-pitbull-amstaff-difference /de/staffy-pitbull-amstaff-unterschied/ 301
+/de/staffy-safe-exercise/ /de/staffy-sichere-bewegung/ 301
+/de/staffy-safe-exercise /de/staffy-sichere-bewegung/ 301
+/de/staffy-genetic-testing-l2hga-hc/ /de/staffy-gentests-l2hga-hc/ 301
+/de/staffy-genetic-testing-l2hga-hc /de/staffy-gentests-l2hga-hc/ 301
+/de/staffy-pericoloso-legge-italia/ /de/staffy-gefaehrliche-rasse-gesetz/ 301
+/de/staffy-pericoloso-legge-italia /de/staffy-gefaehrliche-rasse-gesetz/ 301
+/de/choosing-bloodlines/ /de/blutlinien-waehlen/ 301
+/de/choosing-bloodlines /de/blutlinien-waehlen/ 301
+/de/puppy-home-socialization/ /de/welpen-sozialisierung-zuhause/ 301
+/de/puppy-home-socialization /de/welpen-sozialisierung-zuhause/ 301
+/de/puppy-alone-time/ /de/welpen-allein-bleiben/ 301
+/de/puppy-alone-time /de/welpen-allein-bleiben/ 301
+/de/puppy-first-vaccinations/ /de/welpen-erste-impfungen/ 301
+/de/puppy-first-vaccinations /de/welpen-erste-impfungen/ 301
+/de/puppy-initial-feeding/ /de/welpen-erste-fuetterung/ 301
+/de/puppy-initial-feeding /de/welpen-erste-fuetterung/ 301
+/de/puppy-mental-games/ /de/welpen-denkspiele/ 301
+/de/puppy-mental-games /de/welpen-denkspiele/ 301
+/de/puppy-first-walk/ /de/welpen-erster-spaziergang/ 301
+/de/puppy-first-walk /de/welpen-erster-spaziergang/ 301
+/de/staffy-other-pets/ /de/staffy-andere-haustiere/ 301
+/de/staffy-other-pets /de/staffy-andere-haustiere/ 301
+/de/famiglia-anziani-rispetto-ritmi/ /de/staffy-aeltere-besitzer/ 301
+/de/famiglia-anziani-rispetto-ritmi /de/staffy-aeltere-besitzer/ 301
+/de/famiglia-bambini-convivenza/ /de/staffy-kinder-familie/ 301
+/de/famiglia-bambini-convivenza /de/staffy-kinder-familie/ 301
+/de/famiglia-convivenza-altri-animali/ /de/staffy-andere-haustiere/ 301
+/de/famiglia-convivenza-altri-animali /de/staffy-andere-haustiere/ 301
+/de/famiglia-viaggi-spostamenti/ /de/staffy-reisen-transport/ 301
+/de/famiglia-viaggi-spostamenti /de/staffy-reisen-transport/ 301
+/de/linee-sangue-staffordshire-bull-terrier/ /de/staffy-blutlinien-guide/ 301
+/de/linee-sangue-staffordshire-bull-terrier /de/staffy-blutlinien-guide/ 301
+/de/standard-linee-di-sangue-orientarsi/ /de/blutlinien-waehlen/ 301
+/de/standard-linee-di-sangue-orientarsi /de/blutlinien-waehlen/ 301
+/de/staffy-parasite-prevention/ /de/staffy-parasitenvorbeugung/ 301
+/de/staffy-parasite-prevention /de/staffy-parasitenvorbeugung/ 301
+/de/chiedi-recensione/ /de/bewertungen/ 301
+/de/chiedi-recensione /de/bewertungen/ 301
+/de/come-scegliere-allevamento-staffordshire-bull-terrier/ /de/welpen-kauftipps/ 301
+/de/come-scegliere-allevamento-staffordshire-bull-terrier /de/welpen-kauftipps/ 301
+/de/quanto-costa-cucciolo-staffordshire-bull-terrier/ /de/welpen-kauftipps/ 301
+/de/quanto-costa-cucciolo-staffordshire-bull-terrier /de/welpen-kauftipps/ 301
+/de/legal-notice/ /de/impressum/ 301
+/de/legal-notice /de/impressum/ 301
 
 # -------------------------------------------------
 # SLUG ITALIANI CON PREFISSO /en/ → SLUG INGLESI CORRETTI
@@ -122,6 +349,96 @@
 /en/maschi-staffordshire-bull-terrier /en/males-staffordshire-bull-terrier/ 301
 /en/femmine-staffordshire-bull-terrier/ /en/females-staffordshire-bull-terrier/ 301
 /en/femmine-staffordshire-bull-terrier /en/females-staffordshire-bull-terrier/ 301
+/en/salute-denti-igiene/ /en/staffy-dental-health/ 301
+/en/salute-denti-igiene /en/staffy-dental-health/ 301
+/en/cuccioli-prima-passeggiata/ /en/puppy-first-walk/ 301
+/en/cuccioli-prima-passeggiata /en/puppy-first-walk/ 301
+/en/datenschutz/ /en/privacy-policy/ 301
+/en/datenschutz /en/privacy-policy/ 301
+/en/impressum/ /en/legal-notice/ 301
+/en/impressum /en/legal-notice/ 301
+/en/kontakt/ /en/contact/ 301
+/en/kontakt /en/contact/ 301
+/en/ueber-uns/ /en/about-us/ 301
+/en/ueber-uns /en/about-us/ 301
+/en/bewertungen/ /en/reviews/ 301
+/en/bewertungen /en/reviews/ 301
+/en/huendinnen-staffordshire-bull-terrier/ /en/females-staffordshire-bull-terrier/ 301
+/en/huendinnen-staffordshire-bull-terrier /en/females-staffordshire-bull-terrier/ 301
+/en/rueden-staffordshire-bull-terrier/ /en/males-staffordshire-bull-terrier/ 301
+/en/rueden-staffordshire-bull-terrier /en/males-staffordshire-bull-terrier/ 301
+/en/welpen-staffordshire-bull-terrier/ /en/puppies-staffordshire-bull-terrier/ 301
+/en/welpen-staffordshire-bull-terrier /en/puppies-staffordshire-bull-terrier/ 301
+/en/wuerfe-staffordshire-bull-terrier/ /en/litters-staffordshire-bull-terrier/ 301
+/en/wuerfe-staffordshire-bull-terrier /en/litters-staffordshire-bull-terrier/ 301
+/en/staffy-rassestandard/ /en/staffy-breed-standard/ 301
+/en/staffy-rassestandard /en/staffy-breed-standard/ 301
+/en/staffy-blutlinien-guide/ /en/staffy-bloodlines-guide/ 301
+/en/staffy-blutlinien-guide /en/staffy-bloodlines-guide/ 301
+/en/staffy-kinder-familie/ /en/staffy-children-family/ 301
+/en/staffy-kinder-familie /en/staffy-children-family/ 301
+/en/staffy-pitbull-amstaff-unterschied/ /en/staffy-pitbull-amstaff-difference/ 301
+/en/staffy-pitbull-amstaff-unterschied /en/staffy-pitbull-amstaff-difference/ 301
+/en/staffy-andere-haustiere/ /en/staffy-other-pets/ 301
+/en/staffy-andere-haustiere /en/staffy-other-pets/ 301
+/en/staffy-sichere-bewegung/ /en/staffy-safe-exercise/ 301
+/en/staffy-sichere-bewegung /en/staffy-safe-exercise/ 301
+/en/staffy-gentests-l2hga-hc/ /en/staffy-genetic-testing-l2hga-hc/ 301
+/en/staffy-gentests-l2hga-hc /en/staffy-genetic-testing-l2hga-hc/ 301
+/en/welpen-erste-impfungen/ /en/puppy-first-vaccinations/ 301
+/en/welpen-erste-impfungen /en/puppy-first-vaccinations/ 301
+/en/welpen-erste-fuetterung/ /en/puppy-initial-feeding/ 301
+/en/welpen-erste-fuetterung /en/puppy-initial-feeding/ 301
+/en/welpen-sozialisierung-zuhause/ /en/puppy-home-socialization/ 301
+/en/welpen-sozialisierung-zuhause /en/puppy-home-socialization/ 301
+/en/welpen-allein-bleiben/ /en/puppy-alone-time/ 301
+/en/welpen-allein-bleiben /en/puppy-alone-time/ 301
+/en/welpen-denkspiele/ /en/puppy-mental-games/ 301
+/en/welpen-denkspiele /en/puppy-mental-games/ 301
+/en/boas-staffordshire-bull-terrier-atmung/ /en/boas-staffordshire-bull-terrier-breathing/ 301
+/en/boas-staffordshire-bull-terrier-atmung /en/boas-staffordshire-bull-terrier-breathing/ 301
+/en/boas-staffordshire-bull-terrier-respirazione/ /en/boas-staffordshire-bull-terrier-breathing/ 301
+/en/boas-staffordshire-bull-terrier-respirazione /en/boas-staffordshire-bull-terrier-breathing/ 301
+/en/famiglia-bambini-convivenza/ /en/staffy-children-family/ 301
+/en/famiglia-bambini-convivenza /en/staffy-children-family/ 301
+/en/famiglia-viaggi-spostamenti/ /en/staffy-travel-transport/ 301
+/en/famiglia-viaggi-spostamenti /en/staffy-travel-transport/ 301
+/en/linee-sangue-staffordshire-bull-terrier/ /en/staffy-bloodlines-guide/ 301
+/en/linee-sangue-staffordshire-bull-terrier /en/staffy-bloodlines-guide/ 301
+/en/standard-linee-di-sangue-orientarsi/ /en/choosing-bloodlines/ 301
+/en/standard-linee-di-sangue-orientarsi /en/choosing-bloodlines/ 301
+/en/blutlinien-waehlen/ /en/choosing-bloodlines/ 301
+/en/blutlinien-waehlen /en/choosing-bloodlines/ 301
+/en/come-scegliere-allevamento-staffordshire-bull-terrier/ /en/puppy-buying-tips/ 301
+/en/come-scegliere-allevamento-staffordshire-bull-terrier /en/puppy-buying-tips/ 301
+/en/quanto-costa-cucciolo-staffordshire-bull-terrier/ /en/puppy-buying-tips/ 301
+/en/quanto-costa-cucciolo-staffordshire-bull-terrier /en/puppy-buying-tips/ 301
+/en/staffy-pericoloso-legge-italia/ /en/staffy-dangerous-breed-law/ 301
+/en/staffy-pericoloso-legge-italia /en/staffy-dangerous-breed-law/ 301
+/en/chiedi-recensione/ /en/reviews/ 301
+/en/chiedi-recensione /en/reviews/ 301
+
+# -------------------------------------------------
+# NORMALIZZAZIONE TRAILING SLASH (SOLO PAGINE VERE)
+# -------------------------------------------------
+/blog /blog/ 301
+/chi-siamo /chi-siamo/ 301
+/programma-allevamento /programma-allevamento/ 301
+/cuccioli-staffordshire-bull-terrier /cuccioli-staffordshire-bull-terrier/ 301
+
+# -------------------------------------------------
+# JUNK – redirect alla home (spam bot, vecchi CMS)
+# -------------------------------------------------
+/piwigo/piwigo/ / 301
+/pagina-404/ / 301
+/wool-sweater-lortoo / 301
+/set-of-plates-cxlzwx / 301
+/handmade-vase-slowpy / 301
+/wooden-chair-mopukh / 301
+/sunglasses-iubjnq / 301
+/hand-soap-giguos / 301
+/face-serum-gxrcld / 301
+/classic-cap-hpeszv / 301
 
 # -------------------------------------------------
 # 404 PAGE
