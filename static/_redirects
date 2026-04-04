@@ -50,6 +50,80 @@
 /cuccioli-staffordshire-bull-terrier /cuccioli-staffordshire-bull-terrier/ 301
 
 # -------------------------------------------------
+# SLUG ITALIANI CON PREFISSO /de/ → SLUG TEDESCHI CORRETTI
+# -------------------------------------------------
+/de/cuccioli-staffordshire-bull-terrier/ /de/welpen-staffordshire-bull-terrier/ 301
+/de/cuccioli-staffordshire-bull-terrier /de/welpen-staffordshire-bull-terrier/ 301
+/de/chi-siamo/ /de/ueber-uns/ 301
+/de/chi-siamo /de/ueber-uns/ 301
+/de/allevamento-staffordshire-bull-terrier-in-emilia-romagna/ /de/kontakt/ 301
+/de/allevamento-staffordshire-bull-terrier-in-emilia-romagna /de/kontakt/ 301
+/de/contact/ /de/kontakt/ 301
+/de/contact /de/kontakt/ 301
+/de/differenza-staffy-pitbull-amstaff/ /de/staffy-pitbull-amstaff-unterschied/ 301
+/de/differenza-staffy-pitbull-amstaff /de/staffy-pitbull-amstaff-unterschied/ 301
+/de/cuccioli-gestione-solitudine/ /de/welpen-allein-bleiben/ 301
+/de/cuccioli-gestione-solitudine /de/welpen-allein-bleiben/ 301
+/de/staffy-travel-transport/ /de/staffy-reisen-transport/ 301
+/de/staffy-travel-transport /de/staffy-reisen-transport/ 301
+/de/palmares-del-piccolo-diavolo/ /de/palmares/ 301
+/de/palmares-del-piccolo-diavolo /de/palmares/ 301
+/de/programma-allevamento/ /de/wuerfe-staffordshire-bull-terrier/ 301
+/de/programma-allevamento /de/wuerfe-staffordshire-bull-terrier/ 301
+/de/faq-sullo-staffordshire-bull-terrier/ /de/faq-staffordshire-bull-terrier/ 301
+/de/faq-sullo-staffordshire-bull-terrier /de/faq-staffordshire-bull-terrier/ 301
+/de/recensioni/ /de/bewertungen/ 301
+/de/recensioni /de/bewertungen/ 301
+/de/privacy-policy/ /de/datenschutz/ 301
+/de/privacy-policy /de/datenschutz/ 301
+/de/note-legali/ /de/impressum/ 301
+/de/note-legali /de/impressum/ 301
+/de/cuccioli-prime-vaccinazioni/ /de/welpen-erste-impfungen/ 301
+/de/cuccioli-prime-vaccinazioni /de/welpen-erste-impfungen/ 301
+/de/cuccioli-alimentazione-iniziale/ /de/welpen-erste-fuetterung/ 301
+/de/cuccioli-alimentazione-iniziale /de/welpen-erste-fuetterung/ 301
+/de/cuccioli-socializzazione-in-casa/ /de/welpen-sozialisierung-zuhause/ 301
+/de/cuccioli-socializzazione-in-casa /de/welpen-sozialisierung-zuhause/ 301
+/de/maschi-staffordshire-bull-terrier/ /de/rueden-staffordshire-bull-terrier/ 301
+/de/maschi-staffordshire-bull-terrier /de/rueden-staffordshire-bull-terrier/ 301
+/de/femmine-staffordshire-bull-terrier/ /de/huendinnen-staffordshire-bull-terrier/ 301
+/de/femmine-staffordshire-bull-terrier /de/huendinnen-staffordshire-bull-terrier/ 301
+
+# -------------------------------------------------
+# SLUG ITALIANI CON PREFISSO /en/ → SLUG INGLESI CORRETTI
+# -------------------------------------------------
+/en/cuccioli-staffordshire-bull-terrier/ /en/puppies-staffordshire-bull-terrier/ 301
+/en/cuccioli-staffordshire-bull-terrier /en/puppies-staffordshire-bull-terrier/ 301
+/en/chi-siamo/ /en/about-us/ 301
+/en/chi-siamo /en/about-us/ 301
+/en/allevamento-staffordshire-bull-terrier-in-emilia-romagna/ /en/contact/ 301
+/en/allevamento-staffordshire-bull-terrier-in-emilia-romagna /en/contact/ 301
+/en/differenza-staffy-pitbull-amstaff/ /en/staffy-pitbull-amstaff-difference/ 301
+/en/differenza-staffy-pitbull-amstaff /en/staffy-pitbull-amstaff-difference/ 301
+/en/cuccioli-gestione-solitudine/ /en/puppy-alone-time/ 301
+/en/cuccioli-gestione-solitudine /en/puppy-alone-time/ 301
+/en/palmares-del-piccolo-diavolo/ /en/palmares/ 301
+/en/palmares-del-piccolo-diavolo /en/palmares/ 301
+/en/programma-allevamento/ /en/litters-staffordshire-bull-terrier/ 301
+/en/programma-allevamento /en/litters-staffordshire-bull-terrier/ 301
+/en/faq-sullo-staffordshire-bull-terrier/ /en/faq-staffordshire-bull-terrier/ 301
+/en/faq-sullo-staffordshire-bull-terrier /en/faq-staffordshire-bull-terrier/ 301
+/en/recensioni/ /en/reviews/ 301
+/en/recensioni /en/reviews/ 301
+/en/note-legali/ /en/legal-notice/ 301
+/en/note-legali /en/legal-notice/ 301
+/en/cuccioli-prime-vaccinazioni/ /en/puppy-first-vaccinations/ 301
+/en/cuccioli-prime-vaccinazioni /en/puppy-first-vaccinations/ 301
+/en/cuccioli-alimentazione-iniziale/ /en/puppy-initial-feeding/ 301
+/en/cuccioli-alimentazione-iniziale /en/puppy-initial-feeding/ 301
+/en/cuccioli-socializzazione-in-casa/ /en/puppy-home-socialization/ 301
+/en/cuccioli-socializzazione-in-casa /en/puppy-home-socialization/ 301
+/en/maschi-staffordshire-bull-terrier/ /en/males-staffordshire-bull-terrier/ 301
+/en/maschi-staffordshire-bull-terrier /en/males-staffordshire-bull-terrier/ 301
+/en/femmine-staffordshire-bull-terrier/ /en/females-staffordshire-bull-terrier/ 301
+/en/femmine-staffordshire-bull-terrier /en/females-staffordshire-bull-terrier/ 301
+
+# -------------------------------------------------
 # 404 PAGE
 # -------------------------------------------------
 /* /404.html 404
