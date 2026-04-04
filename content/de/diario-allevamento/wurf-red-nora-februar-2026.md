@@ -1,12 +1,24 @@
 ---
-title: "Kommender Wurf: Red × Nora"
-description: "Staffordshire Bull Terrier Wurf Februar 2026. Vater Vangerbull Red Harricane, Mutter Skilful-dogs Nora (Mutter von 2 Italienischen Champions). DNA getestet clear. Gestromt und rot-weiß erwartet."
+title: "Red × Nora Wurf: 3 Rüden geboren!"
+description: "Staffordshire Bull Terrier Wurf geboren am 9. Februar 2026. 3 Rüden: 2 gestromt und 1 rot-weiß. Vater Vangerbull Red Harricane, Mutter Skilful-dogs Nora (Mutter von 2 Italienischen Champions). Alle reserviert."
 slug: "wurf-red-nora-februar-2026"
-date: 2026-01-25
+date: 2026-02-09
 image: "/images/red.avif"
 ---
 
-Wir freuen uns, einen lang erwarteten Wurf in der Zucht **Del Piccolo Diavolo** anzukündigen. Diese Kombination vereint die Kraft der Vangerbull-Linie mit Noras bewiesener Zuchtfähigkeit — sie ist bereits Mutter von zwei Italienischen Champions.
+<div style="background:#c9a227;color:#1a1a1a;padding:1rem 1.5rem;border-radius:8px;margin-bottom:2rem;text-align:center">
+<strong>🎉 GEBOREN AM 9. FEBRUAR 2026!</strong><br>
+3 Rüden: 2 gestromt + 1 rot-weiß — <strong>Alle reserviert</strong>
+</div>
+
+Wir freuen uns, die Geburt eines lang erwarteten Wurfes in der Zuchtstätte **Del Piccolo Diavolo** bekannt zu geben. Diese Kombination vereint die Kraft der Vangerbull-Linie mit der bewährten Zuchtqualität von Nora, die bereits Mutter von zwei Italienischen Champions ist.
+
+## Welpen-Video
+
+<video controls playsinline preload="metadata" style="width:100%;max-width:480px;border-radius:12px;margin:1.5rem auto;display:block">
+<source src="/videos/cuccioli-nora-red-febbraio2026.mp4" type="video/mp4">
+Ihr Browser unterstützt kein Video.
+</video>
 
 ## Die Eltern
 
@@ -20,7 +32,7 @@ Wir freuen uns, einen lang erwarteten Wurf in der Zucht **Del Piccolo Diavolo** 
       <li>Vollständiges Scherengebiss</li>
     </ul>
     <p>CH. Americano Toreator De Testaferro × Staffgold Girl Of Ice</p>
-    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=3372904" target="_blank" rel="noopener">Pedigree auf SBTPedigree ansehen →</a></p>
+    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=3372904" target="_blank" rel="noopener">Stammbaum auf SBTPedigree ansehen →</a></p>
   </div>
 
   <div class="pair-x">×</div>
@@ -35,9 +47,19 @@ Wir freuen uns, einen lang erwarteten Wurf in der Zucht **Del Piccolo Diavolo** 
       <li>Vollständiges Scherengebiss</li>
     </ul>
     <p>Skilful-Dogs Jeghër × Skilful-Dogs Red Skin</p>
-    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener">Pedigree auf SBTPedigree ansehen →</a></p>
+    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener">Stammbaum auf SBTPedigree ansehen →</a></p>
   </div>
 </div>
+
+## Der Wurf
+
+**Geburtsdatum:** 9. Februar 2026
+
+**Geborene Welpen:**
+- 2 gestromte Rüden
+- 1 rot-weißer Rüde
+
+**Status:** Alle reserviert
 
 ## Warum dieser Wurf besonders ist
 
@@ -45,26 +67,26 @@ Wir freuen uns, einen lang erwarteten Wurf in der Zucht **Del Piccolo Diavolo** 
 
 Red trägt das **Vangerbull**-Präfix, eine der angesehensten englischen Linien, bekannt für physische Präsenz und kraftvolle Struktur. Solider Körperbau, typischer Kopf, korrekte Bewegung.
 
-### Die Mutter: bereits Mutter von Champions
+### Die Mutter: Bereits Mutter von Champions
 
 Nora ist keine gewöhnliche Zuchthündin. Sie ist bereits **Mutter von zwei Italienischen Champions**:
 
 - **Bilquis Goddess Diabhal** — Italienische Schönheitschampionin ENCI, 4. Platz bei der World Dog Show Zagreb 2024
-- **Lothar Matthaus** — Junger Italienischer Champion ENCI + Slowenischer Champion 🇸🇮, derzeit aktiv mit über 20 Ausstellungen
+- **Lothar Matthaus** — Italienischer Jugendchampion ENCI + Slowenischer Champion 🇸🇮, derzeit mit über 20 Ausstellungen aktiv
 
 Dies beweist ihre Fähigkeit, Qualität an ihre Nachkommen weiterzugeben.
 
-## Genetische Tests
+## Gentests
 
 Beide Eltern sind **Clear** getestet für die wichtigsten genetischen Erkrankungen der Rasse:
 
 | Test | Red | Nora |
 |------|-----|------|
 | L2HGA (L-2-Hydroxyglutarsäure-Azidurie) | N/N Clear | N/N Clear |
-| HC (Hereditärer Katarakt) | N/N Clear | N/N Clear |
+| HC (Hereditäre Katarakt) | N/N Clear | N/N Clear |
 | Gebiss | Vollständiges Scherengebiss | Vollständiges Scherengebiss |
 
-Die Welpen werden **genetisch gesund** für L2HGA und HC geboren (alle Clear oder Carrier, kein Affected möglich).
+Alle Welpen sind **genetisch gesund** für L2HGA und HC (alle Clear).
 
 <div style="background:linear-gradient(135deg,#5c4a3a 0%,#8b7355 100%);padding:2rem;border-radius:12px;margin:2rem 0;color:#fff">
 <h4 style="margin:0 0 1rem;font-size:1.1rem;display:flex;align-items:center;gap:.5rem">
@@ -84,27 +106,10 @@ Nora (L2HGA + HC + DM)
 </div>
 </div>
 
-## Erwartete Farben
+<p style="margin-top:1.5rem"><strong>Wurf-Stammbaum:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" class="sbt-link">Auf SBTPedigree ansehen →</a></p>
 
-Von dieser Verpaarung erwarten wir Welpen in diesen Farben:
-- **Gestromt** (brindle)
-- **Rot-weiß** (red & white)
+## Zukünftige Würfe
 
-## Erwartete Geburt
+Dieser Wurf ist vollständig reserviert. Wenn Sie an einem Staffordshire Bull Terrier Welpen aus unserer Zuchtstätte interessiert sind, kontaktieren Sie uns, um auf die Warteliste für kommende Würfe gesetzt zu werden.
 
-Die Geburt wird für den **9. Februar 2026** erwartet. Wir werden hier im Zucht-Tagebuch regelmäßig Updates veröffentlichen.
-
-<p style="margin-top:1.5rem"><strong>Wurf-Pedigree:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" class="sbt-link">Auf SBTPedigree ansehen →</a></p>
-
-## Wie reservieren
-
-Wenn Sie an einem Welpen aus diesem Wurf interessiert sind:
-
-1. **Kontaktieren Sie uns** für ein erstes Gespräch
-2. Wir werden einige Fragen zu Ihrer Erfahrung und Familiensituation stellen
-3. Bei Kompatibilität können Sie die Zucht besuchen
-4. Die Reservierung wird mit einer Anzahlung bestätigt
-
-Wir verkaufen Welpen nicht an jeden: Wir möchten sicherstellen, dass jeder Staffy die richtige Familie findet.
-
-<p style="margin-top:2rem"><a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20interessiere%20mich%20für%20den%20Wurf%20Red%20x%20Nora%20Februar%202026" class="btn btn-primary">Kontaktieren Sie uns auf WhatsApp →</a></p>
+<p style="margin-top:2rem"><a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20interessiere%20mich%20f%C3%BCr%20zuk%C3%BCnftige%20W%C3%BCrfe" class="btn btn-primary">Kontakt über WhatsApp →</a></p>
