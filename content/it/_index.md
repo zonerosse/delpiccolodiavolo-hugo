@@ -1,6 +1,6 @@
 ---
 title: "Allevamento Staffordshire Bull Terrier"
-description: "Allevamento etico di Staffordshire Bull Terrier dal 2013. Selezione responsabile, salute e carattere equilibrato. Cuccioli con pedigree ENCI. Test genetici completi."
+description: "Allevamento etico di Staffordshire Bull Terrier dal 2013. Selezione responsabile, salute e carattere equilibrato. Cuccioli con pedigree ENCI, test genetici completi. Oltre 10 anni di esperienza e risultati comprovati in esposizione."
 slug: ""
 custom_content: |
   <section class="hero">
