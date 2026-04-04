@@ -60,11 +60,11 @@ custom_content: |
 
   <p style="text-align:center;margin-bottom:2rem">Ogni accoppiamento è studiato per consolidare le caratteristiche morfologiche desiderate, migliorare il temperamento e preservare la salute genetica. Gli obiettivi vengono definiti analizzando pedigree, risultati espositivi e test genetici di entrambi i genitori.</p>
 
-  <!-- Cucciolata 1: Heat × Nora - IN ARRIVO -->
+  <!-- Cucciolata 1: Red × Nora - NATA -->
   <article class="litter-card">
   <div class="litter-header">
-  <h3 class="litter-title">Cucciolata prevista: Febbraio 2026</h3>
-  <span class="badge badge-coming">Pianificata</span>
+  <h3 class="litter-title">Cucciolata nata il 09/02/2026 — 3 maschi</h3>
+  <span class="badge badge-soldout">Non disponibili</span>
   </div>
 
   <div class="pair">
