@@ -92,7 +92,7 @@ custom_content: |
   </div>
   <div class="male-content">
   <div class="male-image">
-  <img src="/images/tikus-bologna-primo.avif" alt="Virtus et Honor Amazing Paddy the Baddy aka Tikus" width="350" height="467" loading="lazy" decoding="async">
+  <img src="/images/tikus-testone.webp" alt="Virtus et Honor Amazing Paddy the Baddy aka Tikus" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
   <p><strong>Test Genetici:</strong> L2HGA &amp; HC clear by Parents</p>
