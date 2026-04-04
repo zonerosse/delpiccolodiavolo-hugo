@@ -1,12 +1,24 @@
 ---
-title: "Cucciolata in arrivo: Red × Nora"
-description: "Cucciolata Staffordshire Bull Terrier febbraio 2026. Padre Vangerbull Red Harricane, madre Skilful-dogs Nora (madre di 2 Campioni Italiani). Test DNA clear. Colori tigrati e rossi pezzati."
+title: "Cucciolata Red × Nora: nati 3 maschi!"
+description: "Cucciolata Staffordshire Bull Terrier nata il 9 febbraio 2026. 3 maschi: 2 tigrati e 1 rosso pezzato. Padre Vangerbull Red Harricane, madre Skilful-dogs Nora (madre di 2 Campioni Italiani). Tutti prenotati."
 slug: "cucciolata-red-nora-febbraio-2026"
-date: 2026-01-25
+date: 2026-02-09
 image: "/images/red.avif"
 ---
 
-Siamo felici di annunciare una cucciolata molto attesa presso l'allevamento **Del Piccolo Diavolo**. Questa è una combinazione che unisce la potenza della linea Vangerbull con la comprovata capacità riproduttiva di Nora, già madre di due Campioni Italiani.
+<div style="background:#c9a227;color:#1a1a1a;padding:1rem 1.5rem;border-radius:8px;margin-bottom:2rem;text-align:center">
+<strong>🎉 NATI IL 9 FEBBRAIO 2026!</strong><br>
+3 maschi: 2 tigrati + 1 rosso pezzato — <strong>Tutti prenotati</strong>
+</div>
+
+Siamo felici di annunciare la nascita di una cucciolata molto attesa presso l'allevamento **Del Piccolo Diavolo**. Questa combinazione unisce la potenza della linea Vangerbull con la comprovata capacità riproduttiva di Nora, già madre di due Campioni Italiani.
+
+## Video dei cuccioli
+
+<video controls playsinline preload="metadata" style="width:100%;max-width:480px;border-radius:12px;margin:1.5rem auto;display:block">
+<source src="/videos/cuccioli-nora-red-febbraio2026.mp4" type="video/mp4">
+Il tuo browser non supporta il video.
+</video>
 
 ## I genitori
 
@@ -39,6 +51,16 @@ Siamo felici di annunciare una cucciolata molto attesa presso l'allevamento **De
   </div>
 </div>
 
+## La cucciolata
+
+**Data di nascita:** 9 febbraio 2026
+
+**Cuccioli nati:**
+- 2 maschi tigrati (brindle)
+- 1 maschio rosso pezzato (red & white)
+
+**Stato:** Tutti prenotati
+
 ## Perché questa cucciolata è speciale
 
 ### Il padre: linea Vangerbull
@@ -64,7 +86,7 @@ Entrambi i genitori sono testati **Clear** per le principali patologie genetiche
 | HC (Cataratta Ereditaria) | N/N Clear | N/N Clear |
 | Dentatura | Completa a forbice | Completa a forbice |
 
-I cuccioli nasceranno **geneticamente sani** per L2HGA e HC (tutti Clear o Carrier, nessun Affected possibile).
+I cuccioli sono **geneticamente sani** per L2HGA e HC (tutti Clear).
 
 <div style="background:linear-gradient(135deg,#5c4a3a 0%,#8b7355 100%);padding:2rem;border-radius:12px;margin:2rem 0;color:#fff">
 <h4 style="margin:0 0 1rem;font-size:1.1rem;display:flex;align-items:center;gap:.5rem">
@@ -84,27 +106,10 @@ Nora (L2HGA + HC + DM)
 </div>
 </div>
 
-## Colori attesi
-
-Da questo accoppiamento ci aspettiamo cuccioli nei colori:
-- **Tigrato** (brindle)
-- **Rosso pezzato** (red & white)
-
-## Nascita prevista
-
-La nascita è prevista per il **9 febbraio 2026**. Pubblicheremo aggiornamenti regolari qui nel diario dell'allevamento.
-
 <p style="margin-top:1.5rem"><strong>Pedigree della cucciolata:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" class="sbt-link">Vedi su SBTPedigree →</a></p>
 
-## Come prenotare
+## Future cucciolate
 
-Se sei interessato a un cucciolo di questa cucciolata:
+Questa cucciolata è completamente prenotata. Se sei interessato a un cucciolo Staffordshire Bull Terrier del nostro allevamento, contattaci per essere inserito nella lista d'attesa per le prossime cucciolate.
 
-1. **Contattaci** per un primo colloquio conoscitivo
-2. Ti faremo alcune domande sulla tua esperienza e situazione familiare
-3. Se c'è compatibilità, potrai visitare l'allevamento
-4. La prenotazione si conferma con una caparra
-
-Non vendiamo cuccioli a chiunque: vogliamo assicurarci che ogni Staffy trovi la famiglia giusta.
-
-<p style="margin-top:2rem"><a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20sono%20interessato%20alla%20cucciolata%20Red%20x%20Nora%20di%20febbraio%202026" class="btn btn-primary">Contattaci su WhatsApp →</a></p>
+<p style="margin-top:2rem"><a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20sono%20interessato%20alle%20prossime%20cucciolate" class="btn btn-primary">Contattaci su WhatsApp →</a></p>
