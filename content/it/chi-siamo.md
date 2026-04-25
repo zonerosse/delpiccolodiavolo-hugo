@@ -13,7 +13,7 @@ custom_content: |
   <span class="hero-eyebrow">Dal 2013</span>
   <h1 class="hero-title">Chi Siamo – <em>Allevamento Staffordshire Bull Terrier</em></h1>
   <p class="hero-subtitle">Selezione, etica e passione</p>
-  <p class="hero-description">Siamo un <a href="/" title="Allevamento Staffordshire Bull Terrier">allevamento Staffordshire Bull Terrier</a> a gestione familiare, con sede a Ostellato (FE). Selezioniamo soggetti sani, equilibrati e tipici con linee Elitebull e Lackyle.</p>
+  <p class="hero-description">Siamo un allevamento Staffordshire Bull Terrier a gestione familiare, con sede a Ostellato (FE). Selezioniamo soggetti sani, equilibrati e tipici con linee Elitebull e Lackyle.</p>
   <div class="hero-actions">
   <a href="https://wa.me/393924635584" class="btn btn-primary" title="Contattaci su WhatsApp">Contattaci</a>
   <a href="/recensioni/" class="btn btn-ghost" title="Leggi le recensioni">Recensioni</a>
@@ -77,7 +77,7 @@ custom_content: |
   <p>1-2 cucciolate all'anno. Ogni accoppiamento è pianificato: studiamo pedigree, valutiamo compatibilità genetica, aspettiamo il momento giusto.</p>
   <h3 style="margin-top:1.2rem">Selezione del Carattere</h3>
   <p>Prima di inserire un soggetto nel programma, lo osserviamo per mesi: comportamento in casa, con estranei, altri cani, bambini. Deve essere sicuro, equilibrato, socievole.</p>
-  <p>Questo è ciò che distingue il nostro <a href="/" title="Allevamento Staffordshire Bull Terrier">allevamento Staffordshire Bull Terrier</a> dagli altri.</p>
+  <p>Questo è ciò che distingue il nostro <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier allevati in famiglia">allevamento Staffordshire Bull Terrier</a> dagli altri.</p>
   </div>
   <img src="/images/20250922175108-4a225f3e-sm--1-.webp" alt="Cuccioli Staffy neonati" class="story-img" width="247" height="288" loading="lazy" decoding="async">
   </div>
