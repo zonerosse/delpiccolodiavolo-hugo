@@ -43,12 +43,13 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Il Nostro Programma</span>
-  <h2 class="section-title">Programma di allevamento Staffordshire Bull Terrier</h2>
+  <h2 class="section-title">Come selezioniamo i riproduttori</h2>
 
   <div class="intro-block">
   <p>Il nostro programma di allevamento si basa sulla selezione attenta di riproduttori sani, equilibrati e conformi allo standard. Ogni soggetto viene valutato per morfologia, carattere e salute genetica prima di entrare nel programma riproduttivo.</p>
   <p>Lavoriamo con le migliori linee di sangue inglesi (Elitebull) e irlandesi (Lackyle), selezionando riproduttori che abbiano dimostrato qualità in esposizione e che possiedano test genetici completi per L2HGA, HC e PHPV.</p>
   <p>La selezione non si limita all'aspetto estetico: il temperamento equilibrato, la socievolezza e la capacità di adattarsi alla vita familiare sono criteri fondamentali nella scelta dei nostri riproduttori.</p>
+  <p>Per sapere cosa include ogni affido e quanto costa un cucciolo, leggi la nostra guida su <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p>
   </div>
   </div>
   </section>
@@ -64,7 +65,7 @@ custom_content: |
   <article class="litter-card">
   <div class="litter-header">
   <h3 class="litter-title">Cucciolata nata il 09/02/2026 — 3 maschi</h3>
-  <span class="badge badge-soldout">Non disponibili</span>
+  <span class="badge badge-soldout">Affidati</span>
   </div>
 
   <div class="pair">
@@ -188,6 +189,7 @@ custom_content: |
   <p>Tutti i nostri riproduttori sono testati per le principali patologie genetiche dello Staffordshire Bull Terrier: L2HGA (Aciduria L-2-Idrossiglutarica), HC (Cataratta Ereditaria) e PHPV (Persistent Hyperplastic Primary Vitreous).</p>
   <p>I test vengono eseguiti tramite analisi del DNA presso laboratori certificati. Solo i soggetti con risultati "clear" o accoppiamenti geneticamente compatibili vengono utilizzati nel programma riproduttivo.</p>
   <p>Ogni soggetto nato nel nostro allevamento viene consegnato con certificato di pedigree ENCI, libretto sanitario con vaccinazioni, microchip e documentazione completa dei test genetici dei genitori.</p>
+  <p>Approfondisci nel nostro articolo dedicato: <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2HGA e HC Staffordshire Bull Terrier">test genetici L2HGA e HC: guida completa</a>.</p>
   </div>
 
   <div class="content-block">
