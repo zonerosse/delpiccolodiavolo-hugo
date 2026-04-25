@@ -4,7 +4,7 @@ description: "Risultati e titoli dei nostri Staffordshire Bull Terrier: Campioni
 slug: "palmares-del-piccolo-diavolo"
 custom_content: |
   <section class="page-hero">
-  <h1>Palmares Del Piccolo Diavolo</h1>
+  <h1>Palmares Staffordshire Bull Terrier — Del Piccolo Diavolo</h1>
   <p>I risultati dei nostri Staffordshire Bull Terrier sui ring italiani e internazionali</p>
   </section>
   
@@ -19,7 +19,7 @@ custom_content: |
   
   <div class="palmares-summary" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1rem;margin:2rem 0;text-align:center">
   <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
-  <p style="font-size:2rem;font-weight:700;margin:0">4</p>
+  <p style="font-size:2rem;font-weight:700;margin:0">3</p>
   <p style="font-size:0.85rem;margin:0">Campioni</p>
   </div>
   <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
@@ -35,6 +35,8 @@ custom_content: |
   <p style="font-size:0.85rem;margin:0">Eccellente</p>
   </div>
   </div>
+
+  <p style="text-align:center;margin-top:1rem">I nostri cuccioli nascono da questi soggetti. Visita la pagina <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli Staffordshire Bull Terrier</a> per conoscere le prossime cucciolate.</p>
   </div>
   </section>
   

@@ -1,6 +1,6 @@
 ---
 title: "Allevamento Staffordshire Bull Terrier"
-description: "Allevamento etico di Staffordshire Bull Terrier dal 2013. Selezione responsabile, salute e carattere equilibrato. Cuccioli con pedigree ENCI, test genetici completi. Oltre 10 anni di esperienza e risultati comprovati in esposizione."
+description: "Allevamento Staffordshire Bull Terrier dal 2013 a Ostellato (FE). Cuccioli da linee Elitebull e Lackyle, test genetici completi, pedigree ENCI. 3 Campioni Italiani, 4° al World Dog Show."
 slug: ""
 custom_content: |
   <section class="hero">
@@ -171,6 +171,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Risorse Gratuite</span>
+  <h2 class="section-title">Guide pratiche per il tuo Staffordshire Bull Terrier</h2>
 
   <p style="text-align:center;margin-bottom:1.5rem">Tutto quello che devi sapere prima e dopo l'arrivo del tuo Staffy.</p>
 
@@ -197,6 +198,10 @@ custom_content: |
   <p style="margin:0 0 0.5rem 0;font-size:1.1rem"><strong>Scarica Subito - PDF Gratuito</strong></p>
   <p style="margin:0 0 1rem 0;font-size:0.95rem;opacity:0.9">Tutto quello che devi sapere prima dell'arrivo</p>
   <a href="/docs/guida-primi-mesi-cucciolo-staffy.pdf" class="btn" style="background:#8b7300;color:#fff;padding:1rem 1.8rem;border-radius:6px;text-decoration:none;display:inline-block;min-height:44px;font-weight:600" title="Scarica la guida gratuita" aria-label="Scarica la guida PDF gratuita sui primi mesi con il cucciolo Staffy">Scarica "I Primi Mesi con il Tuo Cucciolo Staffy"</a>
+  </div>
+
+  <div style="text-align:center;margin-top:1rem">
+  <a href="/blog/" class="btn btn-ghost" title="Blog Staffordshire Bull Terrier">Vai al Blog Staffordshire Bull Terrier →</a>
   </div>
   </div>
   </section>
