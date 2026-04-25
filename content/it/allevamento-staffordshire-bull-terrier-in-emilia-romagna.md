@@ -1,6 +1,6 @@
 ---
-title: "Contatti Allevamento"
-description: "Contatta l'allevamento Del Piccolo Diavolo a Ostellato (FE). Visite su appuntamento. WhatsApp, telefono. Raggiungi da Ferrara, Bologna, Ravenna, Padova, Milano, Firenze."
+title: "Allevamento Staffordshire Bull Terrier in Emilia-Romagna"
+description: "Allevamento Staffordshire Bull Terrier a Ostellato (Ferrara), Emilia-Romagna. Dal 2013, linee Elitebull e Lackyle, 3 Campioni Italiani, test genetici completi. Visite su appuntamento."
 slug: "allevamento-staffordshire-bull-terrier-in-emilia-romagna"
 custom_content: |
   <section class="hero">
@@ -11,28 +11,41 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Ostellato, Ferrara</span>
-  <h1 class="hero-title">Vieni a<br><em>Trovarci</em></h1>
-  <p class="hero-subtitle">Nel cuore del Nord Italia</p>
-  <p class="hero-description">Posizione strategica raggiungibile facilmente da Emilia Romagna, Veneto, Lombardia e Toscana. Visite solo su appuntamento.</p>
+  <h1 class="hero-title">Allevamento<br><em>Staffordshire</em><br>Bull Terrier<br>in Emilia-Romagna</h1>
+  <p class="hero-subtitle">Del Piccolo Diavolo – Dal 2013</p>
+  <p class="hero-description">Selezioniamo Staffordshire Bull Terrier da linee inglesi e irlandesi nel cuore dell'Emilia-Romagna, a Ostellato (FE). Raggiungibile da tutto il Nord e Centro Italia.</p>
   <div class="hero-actions">
   <a href="https://wa.me/393924635584" class="btn btn-primary" title="Scrivici su WhatsApp">Scrivici</a>
   <a href="tel:+393924635584" class="btn btn-ghost" title="Chiamaci">Chiama</a>
   </div>
   </div>
   </section>
-  
+
   <div class="features-bar">
   <div class="features-track">
   <span>Dal 2013</span><span>Ostellato (FE)</span><span>Solo su Appuntamento</span><span>WhatsApp Attivo</span><span>Parcheggio Privato</span>
   <span>Dal 2013</span><span>Ostellato (FE)</span><span>Solo su Appuntamento</span><span>WhatsApp Attivo</span><span>Parcheggio Privato</span>
   </div>
   </div>
-  
+
   <section class="section">
   <div class="section-inner">
+  <span class="section-label">L'Allevamento</span>
+  <h2 class="section-title">Un allevamento serio in Emilia-Romagna</h2>
+  <div class="intro-block" style="max-width:800px;text-align:left">
+  <p>Del Piccolo Diavolo è uno dei pochi allevamenti di <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">Staffordshire Bull Terrier</a> in Emilia-Romagna con un programma di selezione strutturato e documentato. Attivo dal 2013 a Ostellato, in provincia di Ferrara, lavoriamo esclusivamente con linee di sangue inglesi (Elitebull) e irlandesi (Lackyle), scelte per tipicità, salute e carattere.</p>
+  <p>In oltre dieci anni di attività abbiamo prodotto 3 Campioni Italiani, un 4° posto al World Dog Show e decine di soggetti inseriti con successo in famiglie di tutta Italia. Ogni riproduttore è testato per L2HGA, HC e PHPV — le tre principali patologie ereditarie della razza.</p>
+  <p>Non siamo un allevamento commerciale: produciamo 1-2 cucciolate all'anno, seguite con attenzione dalla nascita all'affido. Chi sceglie Del Piccolo Diavolo non compra un cane: entra in una relazione che dura per tutta la vita dell'animale.</p>
+  <p>Per conoscere nel dettaglio il nostro metodo di lavoro, visita la pagina <a href="/chi-siamo/" title="Chi siamo - Allevamento Del Piccolo Diavolo">chi siamo</a>.</p>
+  </div>
+  </div>
+  </section>
+
+  <section class="section section-alt">
+  <div class="section-inner">
   <span class="section-label">Contatti</span>
-  <h2 class="section-title">Come Raggiungerci</h2>
-  
+  <h2 class="section-title">Come Contattarci</h2>
+
   <div class="contact-grid">
   <div class="contact-item">
   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>
@@ -40,14 +53,14 @@ custom_content: |
   <p>Il modo più rapido</p>
   <a href="https://wa.me/393924635584" title="Scrivici su WhatsApp">+39 392 463 5584</a>
   </div>
-  
+
   <div class="contact-item">
   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
   <h4>Telefono</h4>
   <p>Chiamaci direttamente</p>
   <a href="tel:+393924635584" title="Chiamaci">+39 392 463 5584</a>
   </div>
-  
+
   <div class="contact-item">
   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
   <h4>Email</h4>
@@ -55,19 +68,19 @@ custom_content: |
   <a href="mailto:zonerosse@gmail.com" title="Scrivici via email">zonerosse@gmail.com</a>
   </div>
   </div>
-  
+
   <a href="https://maps.google.com/?q=Via+A.+Chierici+12+Ostellato+FE" target="_blank" rel="noopener" class="map-link" title="Apri Google Maps per indicazioni stradali">
   Apri Google Maps
   <span>Via A. Chierici 12, 44042 Ostellato (FE)</span>
   </a>
   </div>
   </section>
-  
-  <section class="section section-alt">
+
+  <section class="section">
   <div class="section-inner">
   <span class="section-label">L'Allevamento</span>
   <h2 class="section-title">Dove Siamo</h2>
-  
+
   <div class="story-block">
   <div class="story-text">
   <h3>Via A. Chierici 12, Ostellato (FE)</h3>
@@ -77,7 +90,7 @@ custom_content: |
   </div>
   <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo" class="story-img" width="350" height="354" loading="lazy" decoding="async">
   </div>
-  
+
   <div class="story-block reverse">
   <div class="story-text">
   <h3>Visite Solo su Appuntamento</h3>
@@ -89,13 +102,13 @@ custom_content: |
   </div>
   </div>
   </section>
-  
-  <section class="section">
+
+  <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Zone Servite</span>
   <h2 class="section-title">Da Dove Vengono i Nostri Clienti</h2>
   <p style="color:#4a3f35;margin-bottom:1.5rem">Accogliamo famiglie da tutto il Nord e Centro Italia. Ecco le principali città da cui riceviamo visite regolarmente:</p>
-  
+
   <div class="zones-section">
   <div class="zone-row">
   <span class="zone-name">Emilia Romagna</span>
@@ -108,7 +121,7 @@ custom_content: |
   <span class="zone-city">Parma 1h 30</span>
   </div>
   </div>
-  
+
   <div class="zone-row">
   <span class="zone-name">Veneto</span>
   <div class="zone-cities">
@@ -120,7 +133,7 @@ custom_content: |
   <span class="zone-city">Treviso 1h 45</span>
   </div>
   </div>
-  
+
   <div class="zone-row">
   <span class="zone-name">Lombardia</span>
   <div class="zone-cities">
@@ -131,7 +144,7 @@ custom_content: |
   <span class="zone-city">Bergamo 2h 30</span>
   </div>
   </div>
-  
+
   <div class="zone-row">
   <span class="zone-name">Toscana / Marche</span>
   <div class="zone-cities">
@@ -143,12 +156,12 @@ custom_content: |
   </div>
   </div>
   </div>
-  
+
   <p style="text-align:center;color:#4a3f35;margin-top:1.5rem;font-size:.9rem">Molti clienti da Milano, Firenze e Venezia ci raggiungono comodamente in giornata.</p>
   </div>
   </section>
-  
-  <section class="section section-alt">
+
+  <section class="section">
   <div class="section-inner">
   <div class="story-block">
   <img src="/images/cucciolo-rosso.webp" alt="Cucciolo Staffordshire Bull Terrier" class="story-img" width="350" height="350" loading="lazy" decoding="async">
@@ -161,36 +174,41 @@ custom_content: |
   </div>
   </div>
   </section>
-  
-  <section class="section">
+
+  <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Domande Frequenti</span>
   <h2 class="section-title">Prima di Contattarci</h2>
-  
+
   <div class="faq-list">
   <div class="faq-item">
   <h4>Posso visitare senza appuntamento?</h4>
   <p>No, riceviamo esclusivamente su appuntamento per garantire la tranquillità dei cani e dedicarvi tutto il tempo necessario.</p>
   </div>
-  
+
   <div class="faq-item">
   <h4>Vale la pena venire da Milano o Firenze?</h4>
   <p>Assolutamente sì. Molti clienti da Lombardia e Toscana ci raggiungono in 2-2,5 ore, visitano l'allevamento e tornano in giornata. È un investimento importante, merita una visita.</p>
   </div>
-  
+
   <div class="faq-item">
   <h4>Consegnate i cuccioli a domicilio?</h4>
   <p>Preferiamo che veniate a conoscere l'allevamento. Per chi ha difficoltà logistiche, possiamo valutare insieme la soluzione migliore.</p>
   </div>
-  
+
   <div class="faq-item">
   <h4>Cosa devo portare per la visita?</h4>
   <p>Solo voi stessi e le vostre domande! Vi mostreremo tutto: genitori, cuccioli (se disponibili), certificati, pedigree e l'ambiente in cui vivono.</p>
   </div>
+
+  <div class="faq-item">
+  <h4>Quanto costa un cucciolo Staffordshire Bull Terrier?</h4>
+  <p>I nostri cuccioli con pedigree ENCI e test genetici completi hanno un prezzo tra 1.400 e 2.000 euro. Per tutti i dettagli leggi <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p>
+  </div>
   </div>
   </div>
   </section>
-  
+
   <section class="dark-section">
   <h2>Ti Aspettiamo</h2>
   <p>Vieni a conoscere i nostri Staffordshire Bull Terrier e l'ambiente in cui crescono. La visita è il primo passo per una scelta consapevole.</p>
