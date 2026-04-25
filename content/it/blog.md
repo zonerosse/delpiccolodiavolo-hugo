@@ -11,24 +11,24 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Risorse &amp; Guide</span>
-  <h1 class="hero-title">Il Nostro<br><em>Blog</em></h1>
+  <h1 class="hero-title">Blog<br><em>Staffordshire Bull Terrier</em></h1>
   <p class="hero-subtitle">Articoli su cuccioli, salute, standard e convivenza</p>
   </div>
   </section>
-  
+
   <div class="features-bar">
   <div class="features-track">
   <span>Cuccioli</span><span>Salute</span><span>Standard</span><span>Linee di Sangue</span><span>Famiglia</span><span>Convivenza</span><span>Guide Pratiche</span>
   <span>Cuccioli</span><span>Salute</span><span>Standard</span><span>Linee di Sangue</span><span>Famiglia</span><span>Convivenza</span><span>Guide Pratiche</span>
   </div>
   </div>
-  
+
   <!-- RAZZA E LEGISLAZIONE -->
   <section class="section" id="legislazione">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
   <h2 class="section-title">Razza e Legislazione <span class="count">(1)</span></h2>
-  
+
   <div class="blog-grid">
   <article class="blog-card">
   <a href="/staffy-pericoloso-legge-italia/" title="Leggi: Lo Staffy è pericoloso?"><div class="blog-card-thumb"><img src="/images/blog/hero-default.webp" alt="Lo Staffordshire Bull Terrier è pericoloso?" loading="lazy" decoding="async" width="300" height="188"></div></a>
@@ -42,13 +42,13 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+
   <!-- CUCCIOLI -->
   <section class="section" id="cuccioli" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
   <h2 class="section-title">Cuccioli <span class="count">(10)</span></h2>
-  
+
   <div class="blog-grid">
   <article class="blog-card">
   <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi: Come Scegliere un Allevamento"><div class="blog-card-thumb"><img src="/images/blog/hero-default.webp" alt="Come Scegliere un Allevamento Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
@@ -79,7 +79,7 @@ custom_content: |
   <a class="read" href="/cuccioli-socializzazione-in-casa/" title="Leggi articolo completo">Leggi →</a>
   </div>
   </article>
-  
+
   <article class="blog-card">
   <a href="/cuccioli-prime-vaccinazioni/" title="Leggi: Prime vaccinazioni"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-2.webp" alt="Prime vaccinazioni" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -89,7 +89,7 @@ custom_content: |
   <a class="read" href="/cuccioli-prime-vaccinazioni/" title="Leggi articolo completo">Leggi →</a>
   </div>
   </article>
-  
+
   <article class="blog-card">
   <a href="/cuccioli-alimentazione-iniziale/" title="Leggi: Alimentazione iniziale"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-3.webp" alt="Alimentazione iniziale" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -99,7 +99,7 @@ custom_content: |
   <a class="read" href="/cuccioli-alimentazione-iniziale/" title="Leggi articolo completo">Leggi →</a>
   </div>
   </article>
-  
+
   <article class="blog-card">
   <a href="/cuccioli-educazione-bisogni/" title="Leggi: Educazione ai bisogni"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-4.webp" alt="Educazione ai bisogni" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -109,7 +109,7 @@ custom_content: |
   <a class="read" href="/cuccioli-educazione-bisogni/" title="Leggi articolo completo">Leggi →</a>
   </div>
   </article>
-  
+
   <article class="blog-card">
   <a href="/cuccioli-gestione-solitudine/" title="Leggi: Gestione della solitudine"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-5.webp" alt="Gestione della solitudine" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -119,7 +119,7 @@ custom_content: |
   <a class="read" href="/cuccioli-gestione-solitudine/" title="Leggi articolo completo">Leggi →</a>
   </div>
   </article>
-  
+
   <article class="blog-card">
   <a href="/cuccioli-giochi-mentali/" title="Leggi: Giochi mentali per cuccioli"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-6.webp" alt="Giochi mentali per cuccioli" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -129,7 +129,7 @@ custom_content: |
   <a class="read" href="/cuccioli-giochi-mentali/" title="Leggi articolo completo">Leggi →</a>
   </div>
   </article>
-  
+
   <article class="blog-card">
   <a href="/cuccioli-prima-passeggiata/" title="Leggi: Prima passeggiata al guinzaglio"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-7.webp" alt="Prima passeggiata al guinzaglio" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -139,7 +139,7 @@ custom_content: |
   <a class="read" href="/cuccioli-prima-passeggiata/" title="Leggi articolo completo">Leggi →</a>
   </div>
   </article>
-  
+
   <article class="blog-card">
   <a href="/cuccioli-consigli-acquisto/" title="Leggi: Consigli prima dell'acquisto"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-8.webp" alt="Consigli prima dell'acquisto" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -152,13 +152,13 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+
   <!-- STANDARD E LINEE DI SANGUE -->
   <section class="section" id="standard">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
   <h2 class="section-title">Standard e Linee di Sangue <span class="count">(6)</span></h2>
-  
+
   <div class="blog-grid">
   <article class="blog-card">
   <a href="/staffordshire-bull-terrier-carattere/" title="Leggi: Carattere e Temperamento"><div class="blog-card-thumb"><img src="/images/blog/hero-default.webp" alt="Staffordshire Bull Terrier Carattere e Temperamento" loading="lazy" decoding="async" width="300" height="188"></div></a>
@@ -189,7 +189,7 @@ custom_content: |
   <a class="read" href="/differenza-staffy-pitbull-amstaff/" title="Leggi articolo completo">Leggi →</a>
   </div>
   </article>
-  
+
   <article class="blog-card">
   <a href="/linee-sangue-staffordshire-bull-terrier/" title="Leggi: Linee di Sangue Staffy"><div class="blog-card-thumb"><img src="/images/blog/hero-default.webp" alt="Linee di Sangue Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -199,7 +199,7 @@ custom_content: |
   <a class="read" href="/linee-sangue-staffordshire-bull-terrier/" title="Leggi articolo completo">Leggi →</a>
   </div>
   </article>
-  
+
   <article class="blog-card">
   <a href="/standard-tipicita-morfologia/" title="Leggi: Tipicità di razza e morfologia"><div class="blog-card-thumb"><img src="/images/blog/standard-1.webp" alt="Tipicità di razza e morfologia" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -209,7 +209,7 @@ custom_content: |
   <a class="read" href="/standard-tipicita-morfologia/" title="Leggi articolo completo">Leggi →</a>
   </div>
   </article>
-  
+
   <article class="blog-card">
   <a href="/standard-linee-di-sangue-orientarsi/" title="Leggi: Linee di sangue come orientarsi"><div class="blog-card-thumb"><img src="/images/blog/standard-2.webp" alt="Linee di sangue: come orientarsi" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -222,13 +222,13 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+
   <!-- SALUTE E BENESSERE -->
   <section class="section" id="salute" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
   <h2 class="section-title">Salute e Benessere <span class="count">(5)</span></h2>
-  
+
   <div class="blog-grid">
   <article class="blog-card">
   <a href="/boas-staffordshire-bull-terrier-respirazione/" title="Leggi: BOAS e Respirazione"><div class="blog-card-thumb"><img src="/images/blog/boas-respirazione.webp" alt="BOAS Sindrome Brachicefalica Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
@@ -239,7 +239,7 @@ custom_content: |
   <a class="read" href="/boas-staffordshire-bull-terrier-respirazione/" title="Leggi articolo completo">Leggi →</a>
   </div>
   </article>
-  
+
   <article class="blog-card">
   <a href="/test-genetici-l2hga-hc-staffy/" title="Leggi: Test Genetici L2HGA e HC"><div class="blog-card-thumb"><img src="/images/blog/hero-default.webp" alt="Test Genetici L2HGA e HC" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -249,7 +249,7 @@ custom_content: |
   <a class="read" href="/test-genetici-l2hga-hc-staffy/" title="Leggi articolo completo">Leggi →</a>
   </div>
   </article>
-  
+
   <article class="blog-card">
   <a href="/salute-parassiti-prevenzione/" title="Leggi: Parassiti prevenzione e controllo"><div class="blog-card-thumb"><img src="/images/blog/salute-1.webp" alt="Parassiti: prevenzione e controllo" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -259,7 +259,7 @@ custom_content: |
   <a class="read" href="/salute-parassiti-prevenzione/" title="Leggi articolo completo">Leggi →</a>
   </div>
   </article>
-  
+
   <article class="blog-card">
   <a href="/salute-denti-igiene/" title="Leggi: Igiene orale e denti"><div class="blog-card-thumb"><img src="/images/blog/salute-2.webp" alt="Igiene orale e denti" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -269,7 +269,7 @@ custom_content: |
   <a class="read" href="/salute-denti-igiene/" title="Leggi articolo completo">Leggi →</a>
   </div>
   </article>
-  
+
   <article class="blog-card">
   <a href="/salute-esercizio-sicuro/" title="Leggi: Esercizio fisico in sicurezza"><div class="blog-card-thumb"><img src="/images/blog/salute-3.webp" alt="Esercizio fisico in sicurezza" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -282,13 +282,13 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+
   <!-- FAMIGLIA E CONVIVENZA -->
   <section class="section" id="famiglia">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
   <h2 class="section-title">Famiglia e Convivenza <span class="count">(4)</span></h2>
-  
+
   <div class="blog-grid">
   <article class="blog-card">
   <a href="/famiglia-bambini-convivenza/" title="Leggi: Convivenza con bambini"><div class="blog-card-thumb"><img src="/images/blog/famiglia-1.webp" alt="Convivenza con bambini" loading="lazy" decoding="async" width="300" height="188"></div></a>
@@ -299,7 +299,7 @@ custom_content: |
   <a class="read" href="/famiglia-bambini-convivenza/" title="Leggi articolo completo">Leggi →</a>
   </div>
   </article>
-  
+
   <article class="blog-card">
   <a href="/famiglia-anziani-rispetto-ritmi/" title="Leggi: Con persone anziane"><div class="blog-card-thumb"><img src="/images/blog/famiglia-2.webp" alt="Con persone anziane" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -309,7 +309,7 @@ custom_content: |
   <a class="read" href="/famiglia-anziani-rispetto-ritmi/" title="Leggi articolo completo">Leggi →</a>
   </div>
   </article>
-  
+
   <article class="blog-card">
   <a href="/famiglia-convivenza-altri-animali/" title="Leggi: Convivenza con altri animali"><div class="blog-card-thumb"><img src="/images/blog/famiglia-3.webp" alt="Convivenza con altri animali" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -319,7 +319,7 @@ custom_content: |
   <a class="read" href="/famiglia-convivenza-altri-animali/" title="Leggi articolo completo">Leggi →</a>
   </div>
   </article>
-  
+
   <article class="blog-card">
   <a href="/famiglia-viaggi-spostamenti/" title="Leggi: Viaggi e spostamenti"><div class="blog-card-thumb"><img src="/images/blog/famiglia-4.webp" alt="Viaggi e spostamenti" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -332,7 +332,7 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+
   <section class="dark-section">
   <h2>Hai Domande?</h2>
   <p>Se hai dubbi su un argomento o vuoi suggerire un tema per il blog, contattaci.</p>
