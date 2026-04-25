@@ -1,6 +1,6 @@
 ---
 title: "Cuccioli Staffordshire Bull Terrier"
-description: "Come alleviamo e cresciamo i cuccioli di Staffordshire Bull Terrier: Socializzazione, salute, carattere e selezione etica dell'allevamento."
+description: "Cuccioli Staffordshire Bull Terrier con pedigree ENCI e test genetici completi. Linee Elitebull e Lackyle, allevati in famiglia dal 2005. 3 Campioni Italiani. Ostellato (FE)."
 slug: "cuccioli-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">
@@ -62,6 +62,7 @@ custom_content: |
   <p>La socializzazione è il processo più importante nei primi mesi di vita di un cucciolo. Dal primo giorno i nostri cuccioli vivono in casa con noi, a contatto con la famiglia, rumori domestici, altri cani e persone diverse.</p>
   <p>Questa esposizione graduale e controllata a stimoli vari permette ai cuccioli di sviluppare un temperamento sicuro, equilibrato e sereno. Un cucciolo ben socializzato sarà un adulto tranquillo, capace di affrontare le situazioni quotidiane senza stress.</p>
   <p>Seguiamo un protocollo di socializzazione che include: manipolazione quotidiana, esposizione a rumori domestici, interazione con persone di età diverse, gioco con altri cani, esperienze positive con ambienti esterni.</p>
+  <p>Approfondisci nel nostro <a href="/blog/" title="Blog Staffordshire Bull Terrier">blog sul Staffordshire Bull Terrier</a> con guide pratiche su socializzazione, alimentazione e salute.</p>
   </div>
 
   <div class="zigzag">
@@ -91,7 +92,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Carattere</span>
-  <h2 class="section-title">Disponibilità attuale e future cucciolate</h2>
+  <h2 class="section-title">Carattere e temperamento dello Staffordshire Bull Terrier</h2>
 
   <div class="content-block">
   <h3>Il carattere dello Staffordshire Bull Terrier</h3>
@@ -128,7 +129,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Linee di Sangue</span>
-  <h2 class="section-title">Come funziona la prenotazione</h2>
+  <h2 class="section-title">Linee di sangue: Elitebull e Lackyle</h2>
 
   <div class="intro-block">
   <p>Lavoriamo con le migliori linee di sangue inglesi (Elitebull) e irlandesi (Lackyle). Ogni accoppiamento è studiato per migliorare la razza, rispettando lo standard e preservando la tipicità che rende unico lo Staffordshire Bull Terrier.</p>
@@ -155,6 +156,7 @@ custom_content: |
   <li>Guida all'alimentazione e alle cure</li>
   <li>Supporto post-adozione continuativo</li>
   </ul>
+  <p style="margin-top:1rem">Per sapere nel dettaglio cosa include il prezzo e come riconoscere un allevatore serio, leggi <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p>
   </div>
 
   <div class="content-block">
@@ -168,7 +170,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Recensioni</span>
-  <h2 class="section-title">Il cucciolo giusto per te</h2>
+  <h2 class="section-title">Cosa dicono le famiglie che hanno scelto Del Piccolo Diavolo</h2>
 
   <div class="review-card">
   <p class="review-text">"Paolo è una garanzia per questa razza. Cuccioli cresciuti in casa, supporto continuo e grande competenza. Il nostro Staffy è perfetto!"</p>
