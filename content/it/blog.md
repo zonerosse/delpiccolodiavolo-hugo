@@ -287,7 +287,7 @@ custom_content: |
   <section class="section" id="famiglia">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
-  <h2 class="section-title">Famiglia e Convivenza <span class="count">(4)</span></h2>
+  <h2 class="section-title">Famiglia e Convivenza <span class="count">(5)</span></h2>
 
   <div class="blog-grid">
   <article class="blog-card">
@@ -327,6 +327,16 @@ custom_content: |
   <h3><a href="/famiglia-viaggi-spostamenti/" title="Leggi: Viaggi e spostamenti">Viaggi e spostamenti</a></h3>
   <p>Auto, treno e pernottamenti sereni.</p>
   <a class="read" href="/famiglia-viaggi-spostamenti/" title="Leggi articolo completo">Leggi →</a>
+  </div>
+  </article>
+
+  <article class="blog-card">
+  <a href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Leggi: Carattere e vita in famiglia"><div class="blog-card-thumb"><img src="/images/cucciolo-con-cavallo.avif" alt="Staffordshire Bull Terrier carattere e vita in famiglia" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">28 Apr 2026</span><span>•</span><span class="cat">Famiglia</span></div>
+  <h3><a href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Leggi: Carattere e vita in famiglia">Staffordshire Bull Terrier: Carattere, Vita in Famiglia e Cosa Aspettarsi</a></h3>
+  <p>Vent'anni di esperienza diretta. Pregi, difetti e cosa aspettarsi davvero da uno Staffy.</p>
+  <a class="read" href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Leggi articolo completo">Leggi →</a>
   </div>
   </article>
   </div>
