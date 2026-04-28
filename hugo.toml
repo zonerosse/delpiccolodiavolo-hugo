@@ -3,6 +3,9 @@ title = "Del Piccolo Diavolo"
 defaultContentLanguage = "it"
 defaultContentLanguageInSubdir = false
 
+# Abilita lastmod automatico da Git
+enableGitInfo = true
+
 # Disabilita generazione automatica di alcune pagine
 disableKinds = ["taxonomy", "term", "RSS"]
 

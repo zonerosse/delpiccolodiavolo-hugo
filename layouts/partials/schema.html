@@ -17,6 +17,8 @@
   "image": "{{ $baseURL }}/images/tikus-bologna.avif",
   "telephone": "+393924635584",
   "email": "zonerosse@gmail.com",
+  "foundingDate": "2013",
+  "priceRange": "€€",
   "sameAs": [
     "https://www.facebook.com/delpiccolodiavolo",
     "https://www.youtube.com/@Staffordshiredelpiccolodiavolo",
@@ -35,14 +37,36 @@
     "latitude": 44.7447,
     "longitude": 11.9456
   },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"
+    ],
+    "description": "{{ if eq $lang "de" }}Nur nach Vereinbarung{{ else if eq $lang "en" }}By appointment only{{ else }}Solo su appuntamento{{ end }}"
+  },
   "areaServed": [
     {"@type": "Country", "name": "Italy"},
     {"@type": "Country", "name": "Germany"},
     {"@type": "Country", "name": "Austria"},
     {"@type": "Place", "name": "Europe"}
   ],
-  "foundingDate": "2013",
-  "priceRange": "€€",
+  "founder": {
+    "@type": "Person",
+    "name": "Paolo Boldrini",
+    "jobTitle": "{{ if eq $lang "de" }}Staffordshire Bull Terrier Züchter{{ else if eq $lang "en" }}Staffordshire Bull Terrier Breeder{{ else }}Allevatore Staffordshire Bull Terrier{{ end }}",
+    "knowsAbout": [
+      "Staffordshire Bull Terrier",
+      "selezione cinofila",
+      "test genetici L2HGA HC PHPV",
+      "linee Elitebull",
+      "linee Lackyle",
+      "esposizioni cinofile ENCI"
+    ],
+    "url": "{{ $baseURL }}/chi-siamo/",
+    "worksFor": {
+      "@id": "{{ $baseURL }}/#organization"
+    }
+  },
   "contactPoint": {
     "@type": "ContactPoint",
     "telephone": "+393924635584",
@@ -50,6 +74,22 @@
     "contactType": "customer service",
     "areaServed": ["IT", "DE", "AT", "CH", "EU"],
     "availableLanguage": ["Italian", "English", "German"]
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "{{ if eq $lang "de" }}Welpen Staffordshire Bull Terrier{{ else if eq $lang "en" }}Staffordshire Bull Terrier Puppies{{ else }}Cuccioli Staffordshire Bull Terrier{{ end }}",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "{{ if eq $lang "de" }}Welpen mit ENCI-Stammbaum{{ else if eq $lang "en" }}Puppies with ENCI pedigree{{ else }}Cuccioli con pedigree ENCI{{ end }}",
+          "description": "{{ if eq $lang "de" }}Welpen mit vollständigem ENCI-Stammbaum, L2HGA- und HC-Gentests, Impfungen und lebenslanger Nachsorge.{{ else if eq $lang "en" }}Puppies with full ENCI pedigree, L2HGA and HC genetic tests, vaccinations and lifetime support.{{ else }}Cuccioli con pedigree ENCI completo, test genetici L2HGA e HC, vaccinazioni e supporto a vita.{{ end }}"
+        },
+        "priceRange": "1200-1500",
+        "priceCurrency": "EUR"
+      }
+    ]
   }
 }
 </script>
@@ -78,9 +118,9 @@
 }
 </script>
 
-{{/* FAQPage su HOMEPAGE - Solo 3 FAQ commerciali */}}
+{{/* FAQPage su HOMEPAGE */}}
 {{ if .IsHome }}
-<!-- JSON-LD: FAQPage -->
+<!-- JSON-LD: FAQPage Homepage -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -109,6 +149,88 @@
         "@type": "Answer",
         "text": "{{ if eq $lang "de" }}Ja, das empfehle ich sogar. In unserer Zucht empfange ich nach Vereinbarung. Sie sehen die erwachsenen Hunde, wie die Welpen leben, und können Dokumentation und Stammbaum überprüfen.{{ else if eq $lang "en" }}Yes, I highly recommend it. At our kennel I receive by appointment. You will see the adult dogs, how the puppies live, and can verify documentation and pedigree.{{ else }}Assolutamente sì, anzi lo consiglio caldamente. Nel nostro allevamento ricevo su appuntamento. Vedrete i cani adulti, come vivono i cuccioli, potrete verificare documentazione e pedigree.{{ end }}"
       }
+    },
+    {
+      "@type": "Question",
+      "name": "{{ if eq $lang "de" }}Wo befindet sich die Zucht?{{ else if eq $lang "en" }}Where is the kennel located?{{ else }}Dove si trova l'allevamento?{{ end }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ if eq $lang "de" }}Die Zucht befindet sich in Ostellato (Ferrara), Emilia-Romagna, im Herzen Norditaliens. Gut erreichbar aus dem Veneto, der Lombardei und der Toskana.{{ else if eq $lang "en" }}The kennel is located in Ostellato (Ferrara), Emilia-Romagna, in the heart of Northern Italy. Easily reachable from Veneto, Lombardy and Tuscany.{{ else }}L'allevamento si trova a Ostellato (Ferrara), Emilia-Romagna, nel cuore del Nord Italia. Raggiungibile facilmente da Veneto, Lombardia e Toscana.{{ end }}"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "{{ if eq $lang "de" }}Welche Blutlinien verwendet die Zucht?{{ else if eq $lang "en" }}What bloodlines does the kennel use?{{ else }}Quali linee di sangue usa l'allevamento?{{ end }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ if eq $lang "de" }}Wir arbeiten mit den besten englischen (Elitebull) und irischen (Lackyle) Blutlinien. Elitebull ist bekannt für typischen Kopf und robuste Knochenstruktur, Lackyle für Eleganz und ausgeglichenen Charakter.{{ else if eq $lang "en" }}We work with the best English (Elitebull) and Irish (Lackyle) bloodlines. Elitebull is known for typical head and robust bone structure, Lackyle for elegance and balanced character.{{ else }}Lavoriamo con le migliori linee di sangue inglesi (Elitebull) e irlandesi (Lackyle). Elitebull è nota per la testa tipica e l'ossatura robusta, Lackyle per l'eleganza e il carattere equilibrato.{{ end }}"
+      }
+    }
+  ]
+}
+</script>
+{{ end }}
+
+{{/* FAQPage sulla pagina cuccioli */}}
+{{ if in $currentURL "cuccioli-staffordshire-bull-terrier" }}
+<!-- JSON-LD: FAQPage Cuccioli -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "{{ if eq $lang "en" }}When can puppies be adopted?{{ else if eq $lang "de" }}Wann können Welpen adoptiert werden?{{ else }}Quando si possono adottare i cuccioli?{{ end }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ if eq $lang "en" }}Our puppies leave the kennel at a minimum of 60 days, fully vaccinated, microchipped and with complete documentation.{{ else if eq $lang "de" }}Unsere Welpen verlassen die Zucht nach mindestens 60 Tagen, vollständig geimpft, gechippt und mit vollständiger Dokumentation.{{ else }}I nostri cuccioli lasciano l'allevamento a 60 giorni minimo, completamente vaccinati, con microchip e documentazione completa.{{ end }}"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "{{ if eq $lang "en" }}What does the puppy price include?{{ else if eq $lang "de" }}Was ist im Welpenpreis enthalten?{{ else }}Cosa include il prezzo del cucciolo?{{ end }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ if eq $lang "en" }}The price includes: ENCI pedigree, microchip, health booklet with vaccinations, genetic test certificates for parents (L2HGA, HC, PHPV), photographic documentation and lifetime post-adoption support.{{ else if eq $lang "de" }}Der Preis umfasst: ENCI-Stammbaum, Mikrochip, Gesundheitsheft mit Impfungen, Zertifikate der Gentests der Eltern (L2HGA, HC, PHPV), fotografische Dokumentation und lebenslange Nachsorge.{{ else }}Il prezzo include: pedigree ENCI, microchip, libretto sanitario con vaccinazioni, certificati test genetici dei genitori (L2HGA, HC, PHPV), documentazione fotografica e supporto post-adozione a vita.{{ end }}"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "{{ if eq $lang "en" }}Do you ship puppies?{{ else if eq $lang "de" }}Liefern Sie Welpen nach Hause?{{ else }}Consegnate i cuccioli a domicilio?{{ end }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ if eq $lang "en" }}We prefer that you visit the kennel in person. For those with logistical difficulties, we can evaluate the best solution together.{{ else if eq $lang "de" }}Wir bevorzugen einen persönlichen Besuch in der Zucht. Bei logistischen Schwierigkeiten können wir gemeinsam die beste Lösung finden.{{ else }}Preferiamo che veniate a conoscere l'allevamento di persona. Per chi ha difficoltà logistiche, possiamo valutare insieme la soluzione migliore.{{ end }}"
+      }
+    }
+  ]
+}
+</script>
+{{ end }}
+
+{{/* FAQPage sulla pagina contatti/geo */}}
+{{ if in $currentURL "emilia-romagna" }}
+<!-- JSON-LD: FAQPage Contatti -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "{{ if eq $lang "en" }}Where is the Staffordshire Bull Terrier kennel located in Emilia-Romagna?{{ else if eq $lang "de" }}Wo befindet sich die Staffordshire Bull Terrier Zucht in der Emilia-Romagna?{{ else }}Dove si trova l'allevamento Staffordshire Bull Terrier in Emilia-Romagna?{{ end }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ if eq $lang "en" }}Del Piccolo Diavolo kennel is located in Ostellato (Ferrara), Emilia-Romagna, 25 minutes from Ferrara and 1 hour from Bologna. We receive by appointment.{{ else if eq $lang "de" }}Die Zucht Del Piccolo Diavolo befindet sich in Ostellato (Ferrara), Emilia-Romagna, 25 Minuten von Ferrara und 1 Stunde von Bologna. Wir empfangen nach Vereinbarung.{{ else }}L'allevamento Del Piccolo Diavolo si trova a Ostellato (Ferrara), Emilia-Romagna, a 25 minuti da Ferrara e 1 ora da Bologna. Riceviamo su appuntamento.{{ end }}"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "{{ if eq $lang "en" }}How can I contact the kennel?{{ else if eq $lang "de" }}Wie kann ich die Zucht kontaktieren?{{ else }}Come posso contattare l'allevamento?{{ end }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ if eq $lang "en" }}You can contact us via WhatsApp at +39 392 463 5584, by phone or by email at zonerosse@gmail.com. WhatsApp is the fastest way.{{ else if eq $lang "de" }}Sie können uns über WhatsApp unter +39 392 463 5584, per Telefon oder per E-Mail an zonerosse@gmail.com kontaktieren. WhatsApp ist der schnellste Weg.{{ else }}Puoi contattarci via WhatsApp al +39 392 463 5584, per telefono o via email a zonerosse@gmail.com. WhatsApp è il modo più rapido.{{ end }}"
+      }
     }
   ]
 }
@@ -127,7 +249,10 @@
   "image": "{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ $baseURL }}/images/tikus-bologna.avif{{ end }}",
   "author": {
     "@type": "Person",
-    "name": "Paolo Boldrini"
+    "name": "Paolo Boldrini",
+    "url": "{{ $baseURL }}/chi-siamo/",
+    "jobTitle": "{{ if eq $lang "de" }}Staffordshire Bull Terrier Züchter{{ else if eq $lang "en" }}Staffordshire Bull Terrier Breeder{{ else }}Allevatore Staffordshire Bull Terrier{{ end }}",
+    "knowsAbout": ["Staffordshire Bull Terrier", "selezione cinofila", "test genetici L2HGA HC PHPV", "linee Elitebull", "linee Lackyle"]
   },
   "publisher": {
     "@type": "Organization",
@@ -140,7 +265,13 @@
   "datePublished": "{{ .Date.Format "2006-01-02" }}",
   "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
   "mainEntityOfPage": "{{ $currentURL }}",
-  "inLanguage": "{{ $lang }}"
+  "inLanguage": "{{ $lang }}",
+  "wordCount": {{ len (split .Content " ") }},
+  "keywords": "{{ if .Params.tags }}{{ delimit .Params.tags ", " }}{{ else }}Staffordshire Bull Terrier, allevamento, cuccioli, test genetici L2HGA HC{{ end }}",
+  "about": {
+    "@type": "Thing",
+    "name": "Staffordshire Bull Terrier"
+  }
 }
 </script>
 {{ end }}
