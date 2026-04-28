@@ -29,7 +29,7 @@ custom_content: |
         "name": "Quanto costa un cucciolo Staffordshire Bull Terrier con pedigree ENCI?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Un cucciolo da allevamento serio con pedigree ENCI, test genetici completi e garanzie sulla salute costa indicativamente tra 1.400€ e 2.000€."
+          "text": "Un cucciolo da allevamento serio con pedigree ENCI, test genetici completi e garanzie sulla salute costa indicativamente tra 1.200€ e 1.500€."
         }
       },
       {
@@ -145,7 +145,7 @@ custom_content: |
   <span>Quanto costa un cucciolo con pedigree ENCI?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Un <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cucciolo</a> da allevamento serio con pedigree ENCI, test genetici completi e garanzie sulla salute costa indicativamente tra 1.400€ e 2.000€. Il prezzo riflette anni di selezione, costi dei test genetici (L2HGA, HC), vaccinazioni, microchip e alimentazione di qualità. Diffidate di prezzi sotto i 1.000€.</div>
+  <div class="faq-answer">Un <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cucciolo</a> da allevamento serio con pedigree ENCI, test genetici completi e garanzie sulla salute costa indicativamente tra 1.200€ e 1.500€. Il prezzo riflette anni di selezione, costi dei test genetici (L2HGA, HC), vaccinazioni, microchip e alimentazione di qualità. Diffidate di prezzi sotto i 1.000€.</div>
   </div>
   
   <div class="faq-item active">
