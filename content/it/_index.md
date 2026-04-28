@@ -73,6 +73,10 @@ custom_content: |
   <div class="reviewer"><span>Cristian Ferroci</span><span class="stars">★★★★★</span></div>
   </div>
 
+  <div style="text-align:center;margin-top:0.5rem;margin-bottom:1rem">
+  <a href="/recensioni/" title="Leggi tutte le recensioni" class="btn btn-ghost">Leggi tutte le 37 recensioni →</a>
+  </div>
+
   <div style="text-align:center">
   <a href="/cuccioli-staffordshire-bull-terrier/" class="btn btn-primary" title="Scopri come crescono">Come Crescono</a>
   <a href="/programma-allevamento/" class="btn btn-ghost" title="Vedi il programma di selezione" style="margin-left:.5rem">Programma Selezione</a>
@@ -104,14 +108,14 @@ custom_content: |
   <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
   <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Virtus et Honor Amazing Paddy the Baddy</h3>
   <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">BOB Maschio Puppy 2025</p>
-  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Best of Breed Maschio Puppy al Raduno Nazionale Terrier Bologna 2025. La nostra promessa per il futuro, gia protagonista al suo esordio.</p>
+  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Best of Breed Maschio Puppy al Raduno Nazionale Terrier Bologna 2025. La nostra promessa per il futuro, già protagonista al suo esordio.</p>
   </div>
 
   </div>
 
   <div style="text-align:center;padding:1.5rem;background:#fff;border-radius:12px;border:1px solid rgba(139,115,85,0.15)">
   <p style="font-size:1.1rem;color:#5c4a3a;margin-bottom:0.5rem"><strong>3 Campioni - 4° al World Dog Show - 2 Giovani Campioni</strong></p>
-  <p style="font-size:0.9rem;color:#4a3f35;margin-bottom:1rem">Risultati ottenuti con cani allevati e cresciuti da noi, non acquistati gia titolati.</p>
+  <p style="font-size:0.9rem;color:#4a3f35;margin-bottom:1rem">Risultati ottenuti con cani allevati e cresciuti da noi, non acquistati già titolati.</p>
   <a href="/palmares-del-piccolo-diavolo/" class="btn btn-primary" title="Vedi tutti i risultati">Vedi Tutti i Risultati</a>
   </div>
   </div>
