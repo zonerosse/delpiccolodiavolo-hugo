@@ -247,7 +247,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Kategorie</span>
-  <h2 class="section-title">Familie und Zusammenleben <span class="count">(4)</span></h2>
+  <h2 class="section-title">Familie und Zusammenleben <span class="count">(5)</span></h2>
   
   <div class="blog-grid">
   <article class="blog-card">
@@ -287,6 +287,16 @@ custom_content: |
   <h3><a href="/de/staffy-reisen-transport/" title="Lesen: Reisen und Transport">Reisen und Transport</a></h3>
   <p>Auto, Zug und ruhige Übernachtungen.</p>
   <a class="read" href="/de/staffy-reisen-transport/" title="Vollständigen Artikel lesen">Lesen →</a>
+  </div>
+  </article>
+
+  <article class="blog-card">
+  <a href="/de/staffordshire-bull-terrier-charakter-familienleben/" title="Lesen: Charakter und Familienleben"><div class="blog-card-thumb"><img src="/images/cucciolo-con-cavallo.avif" alt="Staffordshire Bull Terrier Charakter und Familienleben" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">28 Apr 2026</span><span>•</span><span class="cat">Familie</span></div>
+  <h3><a href="/de/staffordshire-bull-terrier-charakter-familienleben/" title="Lesen: Charakter und Familienleben">Staffordshire Bull Terrier: Charakter, Familienleben und Was Sie Erwarten Können</a></h3>
+  <p>Zwanzig Jahre direkte Erfahrung. Vor- und Nachteile und was Sie wirklich von einem Staffy erwarten können.</p>
+  <a class="read" href="/de/staffordshire-bull-terrier-charakter-familienleben/" title="Vollständigen Artikel lesen">Lesen →</a>
   </div>
   </article>
   </div>
