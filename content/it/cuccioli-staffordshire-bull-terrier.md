@@ -95,7 +95,7 @@ custom_content: |
   <h2 class="section-title">Carattere e temperamento dello Staffordshire Bull Terrier</h2>
 
   <div class="content-block">
-  <h3>Il carattere dello Staffordshire Bull Terrier</h3>
+  <h3>Perché la selezione del carattere fa la differenza</h3>
   <p>Lo Staffordshire Bull Terrier è una razza straordinaria: intelligente, coraggiosa e incredibilmente affettuosa. I nostri cuccioli ereditano queste qualità dai genitori selezionati con cura, garantendo un carattere equilibrato e una naturale predisposizione alla vita familiare.</p>
   <p>Il temperamento del cucciolo è influenzato dalla genetica (60%) e dall'ambiente (40%). Per questo selezioniamo riproduttori con carattere stabile e offriamo ai cuccioli un ambiente ricco di stimoli positivi.</p>
   </div>
@@ -180,6 +180,56 @@ custom_content: |
   <div class="review-card">
   <p class="review-text">"L'amore a prima vista esiste… fidatevi. Professionalità, passione e cuccioli equilibrati e sani. Consiglio a tutti questo allevamento."</p>
   <div class="reviewer"><span>Manu Nannetti</span><span class="stars">★★★★★</span></div>
+  </div>
+
+  <div style="text-align:center;margin-top:1rem">
+  <a href="/recensioni/" title="Leggi tutte le recensioni" class="btn btn-ghost">Leggi tutte le 37 recensioni →</a>
+  &nbsp;
+  <a href="/palmares-del-piccolo-diavolo/" title="Risultati in esposizione" class="btn btn-ghost">Vedi i risultati in esposizione →</a>
+  </div>
+  </div>
+  </section>
+
+
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">Domande Frequenti</span>
+  <h2 class="section-title">Domande frequenti sui cuccioli Staffordshire Bull Terrier</h2>
+
+  <div class="faq-container">
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <span>Quando posso portare a casa il cucciolo?</span>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">I cuccioli lasciano il nostro allevamento a 60 giorni minimo, come previsto dalla legge italiana. A questa età sono completamente vaccinati, sverminati, con microchip e tutta la documentazione in regola.</div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <span>Cosa include il prezzo del cucciolo?</span>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Il prezzo include: pedigree ENCI, microchip registrato, libretto sanitario con vaccinazioni, certificati test genetici dei genitori (L2HGA, HC, PHPV), documentazione fotografica e supporto post-adozione a vita. Nessun extra nascosto.</div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <span>Quanto costa un cucciolo Staffordshire Bull Terrier?</span>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">I nostri cuccioli con pedigree ENCI e test genetici completi costano tra 1.200 e 1.500 euro. Il prezzo riflette anni di selezione, costi dei test genetici e la cura dedicata a ogni cucciolo. Diffidate di prezzi sotto i 1.000€.</div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <span>Posso visitare l'allevamento prima di decidere?</span>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Assolutamente sì, anzi lo consiglio caldamente. Ricevo su appuntamento a Ostellato (Ferrara). Vedrete i genitori, i cuccioli, i certificati e l'ambiente in cui crescono. Nessun acquisto dovrebbe avvenire senza visita.</div>
+  </div>
+
   </div>
   </div>
   </section>
