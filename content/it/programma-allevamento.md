@@ -51,6 +51,15 @@ custom_content: |
   <p>La selezione non si limita all'aspetto estetico: il temperamento equilibrato, la socievolezza e la capacità di adattarsi alla vita familiare sono criteri fondamentali nella scelta dei nostri riproduttori.</p>
   <p>Per sapere cosa include ogni affido e quanto costa un cucciolo, leggi la nostra guida su <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p>
   </div>
+
+  <blockquote style="border-left:4px solid #c9a227;margin:2rem 0;padding:1.5rem 2rem;background:#faf8f3;border-radius:0 8px 8px 0;text-align:center">
+  <p style="font-size:1.2rem;font-style:italic;color:#5c4a3a;line-height:1.7;margin:0">
+  "Il valore non si negozia. La qualità nemmeno.<br>
+  Chi chiede il prezzo non è ancora pronto."
+  </p>
+  <footer style="margin-top:0.75rem;font-size:0.85rem;color:#8b7355;font-style:normal">— Del Piccolo Diavolo, dal 2013</footer>
+  </blockquote>
+
   </div>
   </section>
 
