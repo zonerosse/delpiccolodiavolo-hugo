@@ -1,6 +1,6 @@
 ---
 title: "Allevamento Staffordshire Bull Terrier"
-description: "Allevamento Staffordshire Bull Terrier dal 2013 a Ostellato (FE). Cuccioli da linee Elitebull e Lackyle, test genetici completi, pedigree ENCI. 3 Campioni Italiani e internazionali, 4° al World Dog Show."
+description: "Allevamento etico di Staffordshire Bull Terrier dal 2013. Selezione responsabile, salute e carattere equilibrato. Cuccioli con pedigree ENCI. Test genetici completi. 3 Campioni Italiani e internazionali, 4° al World Dog Show."
 slug: ""
 custom_content: |
   <section class="hero">
