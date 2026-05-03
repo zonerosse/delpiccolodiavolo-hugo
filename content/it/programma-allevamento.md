@@ -57,7 +57,7 @@ custom_content: |
   "Il valore non si negozia. La qualità nemmeno.<br>
   Chi chiede il prezzo non è ancora pronto."
   </p>
-  <footer style="margin-top:0.75rem;font-size:0.85rem;color:#8b7355;font-style:normal">— Del Piccolo Diavolo, dal 2013</footer>
+<footer style="margin-top:0.75rem;font-size:0.85rem;color:#5c4a3a;font-style:normal">— Del Piccolo Diavolo, dal 2013</footer>
   </blockquote>
 
   </div>
