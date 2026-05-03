@@ -52,12 +52,15 @@ custom_content: |
   <p>Per sapere cosa include ogni affido e quanto costa un cucciolo, leggi la nostra guida su <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p>
   </div>
 
-  <blockquote style="border-left:4px solid #c9a227;margin:2rem 0;padding:1.5rem 2rem;background:#faf8f3;border-radius:0 8px 8px 0;text-align:center">
-  <p style="font-size:1.2rem;font-style:italic;color:#5c4a3a;line-height:1.7;margin:0">
+  <blockquote style="background:#3d2f22;border-radius:8px;padding:2.5rem 3rem;text-align:center;position:relative;overflow:hidden;margin:2rem 0">
+  <span style="position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,transparent,#c9a227,transparent);display:block"></span>
+  <span style="position:absolute;bottom:0;left:0;right:0;height:3px;background:linear-gradient(90deg,transparent,#c9a227,transparent);display:block"></span>
+  <p style="font-family:Georgia,'Times New Roman',serif;font-size:1.3rem;font-style:italic;color:#f5ede0;line-height:1.8;margin:0">
   "Il valore non si negozia. La qualità nemmeno.<br>
   Chi chiede il prezzo non è ancora pronto."
   </p>
-<footer style="margin-top:0.75rem;font-size:0.85rem;color:#5c4a3a;font-style:normal">— Del Piccolo Diavolo, dal 2013</footer>
+  <span style="display:block;width:40px;height:1px;background:#c9a227;margin:1rem auto 0"></span>
+  <footer style="margin-top:0.75rem;font-size:0.75rem;color:#c9a227;letter-spacing:0.2em;text-transform:uppercase;font-weight:700;font-style:normal">Del Piccolo Diavolo · Dal 2013</footer>
   </blockquote>
 
   </div>
