@@ -350,7 +350,7 @@ custom_content: |
   
   </div>
   
-  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">Figlio di Lothar Matthaus (Giovane Campione Italiano + Campione Sloveno). Seguiremo la sua carriera espositiva nei prossimi mesi.</p>
+  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">Padre: Zarlorstar Ultimo Omega. Madre: Virtus Et Honor Radioactive At Stafflorence. Seguiremo la sua carriera espositiva nei prossimi mesi.</p>
   
   </div>
   </section>
