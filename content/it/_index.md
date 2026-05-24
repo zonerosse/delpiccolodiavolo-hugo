@@ -48,11 +48,13 @@ custom_content: |
   <div class="intro-block" style="max-width:800px;text-align:left">
   <p>Del Piccolo Diavolo è un allevamento di Staffordshire Bull Terrier attivo dal 2013.</p>
   <p>Da oltre dieci anni selezioniamo Staffordshire Bull Terrier seguendo criteri rigorosi di salute, morfologia e temperamento. Lavoriamo con le migliori linee di sangue inglesi e irlandesi, producendo soggetti che si distinguono nei ring italiani e internazionali.</p>
-  <p><p>Il nostro allevamento ha ottenuto 3 Campioni Italiani e un 4° posto al World Dog Show. A Maggio del 2026 la nostra Queen of California ha conquistato il titolo di Giovane Campionessa Italiana.</p>. Tutti i nostri riproduttori sono testati per L2HGA, HC e PHPV.</p>
+  <p>Il nostro allevamento ha ottenuto 3 Campioni Italiani e un 4° posto al World Dog Show. A maggio 2026 la nostra Queen of California ha conquistato il titolo di Giovane Campionessa Italiana. Tutti i nostri riproduttori sono testati per L2HGA, HC e PHPV.</p>
   <p>Non siamo un allevamento commerciale: produciamo poche cucciolate selezionate ogni anno, seguendo ogni soggetto dalla nascita all'inserimento nella nuova famiglia.</p>
   <p>Ogni Staffordshire Bull Terrier che nasce nel nostro allevamento cresce in ambiente familiare, a contatto quotidiano con persone, rumori domestici e altri animali. Crediamo che un buon allevamento non si misuri dalla quantità, ma dalla cura dedicata a ogni singolo soggetto.</p>
   <p>La scelta dei riproduttori segue criteri precisi: conformità allo standard di razza, equilibrio caratteriale, assenza di patologie ereditarie. Non esistono scorciatoie nella selezione seria.</p>
   <p>Chi sceglie Del Piccolo Diavolo non acquista semplicemente un cane: entra in una relazione di fiducia che dura nel tempo, con supporto e disponibilità anche dopo l'affido.</p>
+  <p>Lo Staffordshire Bull Terrier è una razza che richiede conoscenza, rispetto e dedizione. Non è il cane giusto per tutti — ma per chi lo capisce, diventa il compagno più fedele e affettuoso che esista. In vent'anni non abbiamo mai smesso di imparare da loro.</p>
+  <p>Ogni cucciolata è un progetto, non una produzione. Studiamo i pedigree, valutiamo la compatibilità genetica, osserviamo il carattere dei riproduttori per mesi prima di ogni accoppiamento. Il risultato sono soggetti sani, tipici e con un temperamento che ci rende orgogliosi.</p>
   </div>
   </div>
   </section>
