@@ -83,6 +83,30 @@ custom_content: |
   </div>
   </article>
   
+
+  <!-- QUEEN OF CALIFORNIA -->
+  <article class="female-card female-featured">
+  <div class="female-header">
+  <span class="female-badge">🏆 Giovane Campionessa Italiana 2026</span>
+  <h3 class="female-name">JCH. Queen of California Aka Desy Del Piccolo Diavolo</h3>
+  </div>
+  <div class="female-content">
+  <div class="female-image">
+  <img src="/images/queen-of-california.jpeg" alt="JCH Queen of California Aka Desy Del Piccolo Diavolo" width="350" height="467" loading="lazy" decoding="async">
+  </div>
+  <div class="female-info">
+  <p><strong>Test Genetici:</strong> L2HGA &amp; HC clear by Parents</p>
+  <p><strong>Dentatura:</strong> Completely scissor bite</p>
+  <p><strong>Padre:</strong> CH. Elitebull Prospect</p>
+  <p><strong>Madre:</strong> Lackyle Bean Croí Olc</p>
+  <p><strong>Proprietario:</strong> Stefano Tevini</p>
+  <p><strong>Handler:</strong> Vittoria Passerini</p>
+  <p><strong>Titolo:</strong> Giovane Campionessa Italiana (in omologazione) — Albarella (RO), 17 maggio 2026. Cl. Giovani 1° Ecc, JCAC, JBOB, BOB. Miglior Staffy — Gruppo Cinofilo Polesano.</p>
+  <a class="pedigree-link" href="https://sbtpedigree.com/pedigree?SIRE=4483601&DAM=4538599&generation=4&dogs_id=4547824" target="_blank" rel="noopener" title="Vedi pedigree Queen of California su SBTPedigree">Vedi Pedigree Completo →</a>
+  </div>
+  </div>
+  </article>
+
   <!-- CROI OLC -->
   <article class="female-card">
   <div class="female-header">
