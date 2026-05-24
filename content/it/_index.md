@@ -13,7 +13,7 @@ custom_content: |
   <span class="hero-eyebrow"><a href="/recensioni/" title="Leggi le recensioni" style="color:inherit;text-decoration:none">⭐ 4.9 su 37 recensioni →</a></span>
   <h1 class="hero-title">Allevamento<br><em>Staffordshire</em><br>Bull Terrier</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo - Selezione, salute e carattere</p>
-  <p class="hero-description">Quando pensi a un allevamento di Staffordshire Bull Terrier, immagini box ordinati e cani tutti uguali? Da noi è diverso. Ogni cane ha un nome, una storia, un carattere. Non alleviamo in serie: coltiviamo relazioni, ricordi e momenti indimenticabili.</p>
+  <p class="hero-description">Allevamento etico di Staffordshire Bull Terrier dal 2013. Test genetici completi, pedigree ENCI, cuccioli allevati in famiglia. 3 Campioni Italiani, 4° al World Dog Show, una nuova Giovane Campionessa Italiana a maggio 2026.</p>
   <div class="hero-actions">
   <a href="/cuccioli-staffordshire-bull-terrier/" class="btn btn-primary" title="Scopri come crescono con noi">Come Crescono</a>
   <a href="/allevamento-staffordshire-bull-terrier-in-emilia-romagna/" class="btn btn-ghost" title="Contattaci">Contattaci</a>
