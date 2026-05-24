@@ -19,7 +19,7 @@ custom_content: |
   
   <div class="palmares-summary" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1rem;margin:2rem 0;text-align:center">
   <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
-  <p style="font-size:2rem;font-weight:700;margin:0">3</p>
+  <p style="font-size:2rem;font-weight:700;margin:0">4</p>
   <p style="font-size:0.85rem;margin:0">Campioni</p>
   </div>
   <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
@@ -40,6 +40,41 @@ custom_content: |
   </div>
   </section>
   
+
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">Giovane Campionessa Italiana 2026</span>
+  <h2 class="section-title">Queen of California Aka Desy</h2>
+
+  <div style="display:flex;flex-direction:column;gap:1.5rem;margin-bottom:2rem">
+  <div class="image-center">
+  <img src="/images/queen-of-california.jpeg" alt="Queen of California Aka Desy - Giovane Campionessa Italiana Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="380" style="border-radius:12px">
+  </div>
+  <div>
+  <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
+  <h3>Giovane Campionessa Italiana ENCI 2026</h3>
+  <p><strong>17 maggio 2026 — Esposizione Nazionale di Albarella (RO)</strong></p>
+  <p>Classe Giovani: 1° Eccellente, JCAC, JBOB, BOB. Premiata dal Gruppo Cinofilo Polesano come <strong>miglior Staffordshire Bull Terrier</strong>. Con questo risultato conquista il titolo di Giovane Campionessa Italiana (in omologazione).</p>
+  <p>Figlia di CH. Elitebull Prospect × Lackyle Bean Croí Olc — la cucciolata del 01/02/2025. Proprietario: Stefano Tevini. Handler: Vittoria Passerini, al suo 10° anniversario di esposizioni, iniziata proprio ad Albarella nel 2016 in Junior Handler a 7 anni.</p>
+  </div>
+  </div>
+  </div>
+
+  <div class="risultati-grid" style="display:grid;gap:0.75rem;margin-top:1.5rem">
+
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#c9a227;border-radius:8px;align-items:center;color:#fff">
+  <span style="background:#fff;color:#c9a227;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">JCH IT</span>
+  <span><strong>Esposizione Nazionale — Albarella (RO)</strong> - 17 mag 2026</span>
+  <span style="font-weight:600">JCAC + JBOB + BOB</span>
+  </div>
+
+  </div>
+
+  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">Giovane Campionessa Italiana (in omologazione). Miglior Staffy — Gruppo Cinofilo Polesano. Handler: Vittoria Passerini. Proprietario: Stefano Tevini.</p>
+
+  </div>
+  </section>
+
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Campionessa Italiana</span>
