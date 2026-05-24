@@ -48,7 +48,7 @@ custom_content: |
   <div class="intro-block" style="max-width:800px;text-align:left">
   <p>Del Piccolo Diavolo è un allevamento di Staffordshire Bull Terrier attivo dal 2013.</p>
   <p>Da oltre dieci anni selezioniamo Staffordshire Bull Terrier seguendo criteri rigorosi di salute, morfologia e temperamento. Lavoriamo con le migliori linee di sangue inglesi e irlandesi, producendo soggetti che si distinguono nei ring italiani e internazionali.</p>
-  <p>Il nostro allevamento ha ottenuto 3 Campioni Italiani e un 4° posto al World Dog Show. Tutti i nostri riproduttori sono testati per L2HGA, HC e PHPV.</p>
+  <p><p>Il nostro allevamento ha ottenuto 3 Campioni Italiani e un 4° posto al World Dog Show. A Maggio del 2026 la nostra Queen of California ha conquistato il titolo di Giovane Campionessa Italiana.</p>. Tutti i nostri riproduttori sono testati per L2HGA, HC e PHPV.</p>
   <p>Non siamo un allevamento commerciale: produciamo poche cucciolate selezionate ogni anno, seguendo ogni soggetto dalla nascita all'inserimento nella nuova famiglia.</p>
   <p>Ogni Staffordshire Bull Terrier che nasce nel nostro allevamento cresce in ambiente familiare, a contatto quotidiano con persone, rumori domestici e altri animali. Crediamo che un buon allevamento non si misuri dalla quantità, ma dalla cura dedicata a ogni singolo soggetto.</p>
   <p>La scelta dei riproduttori segue criteri precisi: conformità allo standard di razza, equilibrio caratteriale, assenza di patologie ereditarie. Non esistono scorciatoie nella selezione seria.</p>
@@ -131,6 +131,7 @@ custom_content: |
   <div class="storia-grid">
   <div>
   <div class="content-block">
+  <p style="font-size:.8rem;color:#8b5a2b;font-weight:600;letter-spacing:.08em;text-transform:uppercase;margin-bottom:.5rem">Paolo Boldrini — Allevatore dal 2013</p>
   <h3>Un progetto diventato passione</h3>
   <p>Il mio primo Staffordshire Bull Terrier è arrivato in un momento speciale. Da quel giorno ho studiato, viaggiato, conosciuto altri allevatori e vissuto ogni giorno con questi cani straordinari. Ogni scelta nasce dall'esperienza e dal desiderio di offrire il meglio.</p>
   </div>
