@@ -55,6 +55,9 @@
   <meta property="og:description" content="{{ .Description | default .Site.Params.description }}">
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:image" content="{{ .Params.og_image | default "/images/tikus-bologna.avif" | absURL }}">
+  {{ if .IsHome }}
+  <meta property="og:updated_time" content="{{ now.Format "2006-01-02" }}">
+  {{ end }}
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
