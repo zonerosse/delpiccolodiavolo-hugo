@@ -33,7 +33,7 @@ All'allevamento **Del Piccolo Diavolo** è in arrivo una cucciolata particolarme
 
   <div class="dog">
     <span class="dog-name">Bilquis Goddess Diabhal</span>
-    <img src="/images/bilquis.avif" alt="Bilquis Goddess Diabhal - Campionessa Italiana Staffordshire Bull Terrier" width="250" height="333">
+    <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal - Campionessa Italiana Staffordshire Bull Terrier" width="250" height="333">
     <ul>
       <li>Colore: Nero tigrato e bianco</li>
       <li>L2HGA: Clear (N/N)</li>
