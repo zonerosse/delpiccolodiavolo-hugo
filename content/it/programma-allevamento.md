@@ -73,6 +73,47 @@ custom_content: |
 
   <p style="text-align:center;margin-bottom:2rem">Ogni accoppiamento è studiato per consolidare le caratteristiche morfologiche desiderate, migliorare il temperamento e preservare la salute genetica. Gli obiettivi vengono definiti analizzando pedigree, risultati espositivi e test genetici di entrambi i genitori.</p>
 
+  <!-- Cucciolata: Bilquis × Black Jack - PROGRAMMATA -->
+  <article class="litter-card">
+  <div class="litter-header">
+  <h3 class="litter-title">Cucciolata programmata — attesa per agosto 2026</h3>
+  <span class="badge" style="background:#c9a227;color:#1a1a1a">In arrivo</span>
+  </div>
+
+  <div class="pair">
+  <div class="dog">
+  <span class="dog-name">JCH. CH. Italiana Bilquis Goddess Diabhal</span>
+  <img src="/images/ffbilly-compressa--1---1-.webp" alt="Bilquis Goddess Diabhal - Campionessa Italiana Staffordshire Bull Terrier" width="301" height="396" loading="lazy" decoding="async">
+  <ul>
+  <li>L2HGA &amp; HC clear by DNA</li>
+  <li>Completely scissor bite</li>
+  <li>Qualified for CRUFTS 2024/25</li>
+  <li>Top Dog Junior female 2023</li>
+  </ul>
+  <p>Skilful-dogs Nora × Pablo iuno sospita plata plomo</p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Vedi pedigree Bilquis su SBTPedigree">SBTPedigree</a></p>
+  </div>
+
+  <div class="pair-x">×</div>
+
+  <div class="dog">
+  <span class="dog-name">Black Jack Di Casa Giacalone</span>
+  <img src="/images/jack1.jpg" alt="Black Jack Di Casa Giacalone - Riproduttore Staffordshire Bull Terrier nero" width="300" height="330" loading="lazy" decoding="async">
+  <ul>
+  <li>L2HGA &amp; HC free by parents (genitori clear)</li>
+  <li>Completely scissor bite</li>
+  <li>Figlio del Campione del Mondo 2023</li>
+  </ul>
+  <p>Quash Marvelous Hagler de Stafflorence (Campione del Mondo 2023) × Ultima Di Casa Giacalone</p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" title="Vedi pedigree Black Jack su SBTPedigree">SBTPedigree</a></p>
+  </div>
+  </div>
+
+  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Accoppiamento programmato per unire la morfologia da Campionessa di Bilquis (Campionessa Italiana, 4ª al World Dog Show 2024) alle linee di Black Jack, figlio del Campione del Mondo 2023 Quash Marvelous Hagler de Stafflorence. Parto previsto per i primi di agosto 2026 — prenotazioni aperte per la lista d'attesa.</p>
+
+  <p class="pedigree-link">Pedigree della cucciolata: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" title="Vedi pedigree cucciolata Bilquis x Black Jack">vedi su SBTPedigree</a></p>
+  </article>
+
   <!-- Cucciolata 1: Red × Nora - NATA -->
   <article class="litter-card">
   <div class="litter-header">
