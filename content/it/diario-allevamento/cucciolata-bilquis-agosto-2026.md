@@ -1,4 +1,4 @@
-
+---
 title: "Cucciolata in arrivo: Bilquis Goddess Diabhal × Black Jack Di Casa Giacalone — attesa per agosto 2026"
 description: "Cucciolata Staffordshire Bull Terrier attesa per inizio agosto 2026 all'allevamento Del Piccolo Diavolo. Padre Black Jack Di Casa Giacalone, madre Bilquis Goddess Diabhal (Campionessa Italiana ENCI, 4ª al World Dog Show 2024). Prenotazioni aperte."
 slug: "cucciolata-bilquis-agosto-2026"
