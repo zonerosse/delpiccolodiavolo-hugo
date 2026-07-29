@@ -37,12 +37,12 @@
     "latitude": 44.7447,
     "longitude": 11.9456
   },
-  "openingHoursSpecification": {
-    "@type": "OpeningHoursSpecification",
-    "dayOfWeek": [
-      "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"
-    ],
-    "description": "{{ if eq $lang "de" }}Nur nach Vereinbarung{{ else if eq $lang "en" }}By appointment only{{ else }}Solo su appuntamento{{ end }}"
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "37",
+    "bestRating": "5",
+    "worstRating": "1"
   },
   "areaServed": [
     {"@type": "Country", "name": "Italy"},
@@ -86,8 +86,12 @@
           "name": "{{ if eq $lang "de" }}Welpen mit ENCI-Stammbaum{{ else if eq $lang "en" }}Puppies with ENCI pedigree{{ else }}Cuccioli con pedigree ENCI{{ end }}",
           "description": "{{ if eq $lang "de" }}Welpen mit vollständigem ENCI-Stammbaum, L2HGA- und HC-Gentests, Impfungen und lebenslanger Nachsorge.{{ else if eq $lang "en" }}Puppies with full ENCI pedigree, L2HGA and HC genetic tests, vaccinations and lifetime support.{{ else }}Cuccioli con pedigree ENCI completo, test genetici L2HGA e HC, vaccinazioni e supporto a vita.{{ end }}"
         },
-        "priceRange": "1200-1500",
-        "priceCurrency": "EUR"
+        "priceSpecification": {
+          "@type": "PriceSpecification",
+          "minPrice": "1200",
+          "maxPrice": "1500",
+          "priceCurrency": "EUR"
+        }
       }
     ]
   }
@@ -266,7 +270,7 @@
   "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
   "mainEntityOfPage": "{{ $currentURL }}",
   "inLanguage": "{{ $lang }}",
-  "wordCount": {{ len (split .Content " ") }},
+  "wordCount": {{ .WordCount }},
   "keywords": "{{ if .Params.tags }}{{ delimit .Params.tags ", " }}{{ else }}Staffordshire Bull Terrier, allevamento, cuccioli, test genetici L2HGA HC{{ end }}",
   "about": {
     "@type": "Thing",
