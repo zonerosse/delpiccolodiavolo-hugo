@@ -42,6 +42,8 @@ custom_content: |
   </div>
   </div>
 
+  <!--NEWS-->
+
   <section class="section">
   <div class="section-inner">
   <h2 class="section-title">Selezione responsabile dal 2013</h2>
