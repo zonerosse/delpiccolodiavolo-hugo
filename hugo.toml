@@ -10,7 +10,7 @@ enableGitInfo = true
 disableKinds = ["taxonomy", "term", "RSS"]
 
 # Abilita sitemap
-enableRobotsTXT = false
+enableRobotsTXT = true
 
 [sitemap]
   changefreq = "weekly"
