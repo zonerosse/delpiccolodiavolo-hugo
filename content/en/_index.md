@@ -6,11 +6,11 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/tikus-bologna-800.avif" srcset="/images/tikus-bologna-400.avif 400w, /images/tikus-bologna-800.avif 800w, /images/tikus-bologna.avif 1618w" sizes="(max-width: 767px) calc(100vw - 2rem), 50vw" alt="Tikus Del Piccolo Diavolo, Staffordshire Bull Terrier champion at show" width="800" height="584" fetchpriority="high" decoding="sync">
+  <img src="/images/femmina-bilquis-hero.avif" alt="Bilquis Goddess Diabhal, Italian Champion Staffordshire Bull Terrier at a dog show" width="301" height="396" fetchpriority="high" decoding="sync">
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">4.9 on 36 reviews</span>
+  <span class="hero-eyebrow">4.9 on 37 reviews</span>
   <h1 class="hero-title">Staffordshire<br><em>Bull Terrier</em><br>Kennel</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo - Selection, health and character</p>
   <p class="hero-description">When you think of a Staffordshire Bull Terrier kennel, do you imagine tidy boxes and identical puppies? With us it's different. Every dog has a name, a story, a character. We don't breed in series: we cultivate relationships, memories and unforgettable moments.</p>
