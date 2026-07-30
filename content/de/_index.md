@@ -86,11 +86,6 @@ custom_content: |
   <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Mehrfache JCAC und Junior BOB auf nationalen und internationalen Ausstellungen. V1 bei allen Veranstaltungen.</p>
   </div>
   
-  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
-  <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Virtus et Honor Amazing Paddy the Baddy</h3>
-  <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">BOB Rude Welpe 2025</p>
-  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Best of Breed Rude Welpe bei Nationaler Terrier-Spezialausstellung Bologna 2025. Unser Versprechen fur die Zukunft.</p>
-  </div>
   
   </div>
   
@@ -113,9 +108,6 @@ custom_content: |
   <h3>Ein Projekt, das zur Zucht wurde</h3>
   <p>Mein erster Staffordshire Bull Terrier kam in einem besonderen Moment. Von diesem Tag an habe ich studiert, gereist, andere Züchter kennengelernt und jeden Tag mit diesen außergewöhnlichen Hunden verbracht. Jede Entscheidung kommt aus Erfahrung und dem Wunsch, das Beste zu bieten.</p>
   </div>
-  </div>
-  <div class="image-center">
-  <img src="/images/storia-handler.avif" alt="Handler mit schwarzem Staffordshire Bull Terrier" loading="lazy" decoding="async" width="400" height="500">
   </div>
   </div>
   

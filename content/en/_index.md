@@ -86,11 +86,6 @@ custom_content: |
   <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Multiple JCAC and Junior BOB in national and international shows. Excellent 1st in all events. Son of English champions.</p>
   </div>
   
-  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
-  <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Virtus et Honor Amazing Paddy the Baddy</h3>
-  <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">BOB Male Puppy 2025</p>
-  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Best of Breed Male Puppy at National Terrier Specialty Bologna 2025. Our promise for the future.</p>
-  </div>
   
   </div>
   
@@ -113,9 +108,6 @@ custom_content: |
   <h3>A project that became a Kennel</h3>
   <p>My first Staffordshire Bull Terrier arrived at a special moment. From that day I studied, traveled, met other breeders and lived every day with these extraordinary dogs. Every choice comes from experience and the desire to offer the best.</p>
   </div>
-  </div>
-  <div class="image-center">
-  <img src="/images/storia-handler.avif" alt="Handler with black Staffordshire Bull Terrier" loading="lazy" decoding="async" width="400" height="500">
   </div>
   </div>
   
