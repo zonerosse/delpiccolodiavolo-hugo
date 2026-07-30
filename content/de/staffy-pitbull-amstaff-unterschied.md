@@ -37,10 +37,6 @@ custom_content: |
   
   <p>Alle drei Rassen stammen vom gleichen Ursprung ab: den "Bull and Terrier" Hunden des 19. Jahrhunderts in England, Kreuzungen zwischen Bulldoggen und verschiedenen Terriern.</p>
   
-  <figure class="article-image img-left">
-  <img src="/images/tikus-2.webp" alt="Staffordshire Bull Terrier" loading="lazy" decoding="async" width="400" height="400">
-  <figcaption>Staffordshire Bull Terrier</figcaption>
-  </figure>
   
   <h2>Historische Ursprünge</h2>
   

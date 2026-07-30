@@ -323,19 +323,20 @@ custom_content: |
   </div>
   </section>
   
+  
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">La Nostra Promessa</span>
-  <h2 class="section-title">Virtus et Honor Amazing Paddy the Baddy (Tikus)</h2>
+  <h2 class="section-title">JCH. Queen of California Aka Desy Del Piccolo Diavolo</h2>
   
   <div style="display:flex;flex-direction:column;gap:1.5rem;margin-bottom:2rem">
   <div class="image-center">
-  <img src="/images/tikus-primo.webp" alt="Tikus Del Piccolo Diavolo, BOB Maschio Puppy Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="380" style="border-radius:12px">
+  <img src="/images/queen-of-california.jpeg" alt="JCH Queen of California Aka Desy Del Piccolo Diavolo, Giovane Campionessa Italiana Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="400" style="border-radius:12px">
   </div>
   <div>
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
-  <h3>BOB Maschio Puppy - Raduno Nazionale 2025</h3>
-  <p>Al suo esordio assoluto, Tikus ha conquistato il Best of Breed Maschio Puppy al Raduno Nazionale Terrier di Bologna (novembre 2025). Un inizio che promette grandi soddisfazioni per il futuro.</p>
+  <h3>Giovane Campionessa Italiana 2026</h3>
+  <p>Ad Albarella (RO), il 17 maggio 2026, Queen conquista in Classe Giovani il 1° Eccellente con JCAC, JBOB e BOB, premiata come Miglior Staffordshire Bull Terrier dal Gruppo Cinofilo Polesano — titolo di Giovane Campionessa Italiana (in omologazione). Una promessa che conferma la nostra selezione.</p>
   </div>
   </div>
   </div>
@@ -343,18 +344,18 @@ custom_content: |
   <div class="risultati-grid" style="display:grid;gap:0.75rem;margin-top:1.5rem">
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">M.P. 1°</span>
-  <span>Raduno Nazionale Terrier Bologna - 29 nov 2025</span>
-  <span style="color:#8b5a2b;font-weight:600">BOB M-PUP</span>
+  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">GIOV. 1°</span>
+  <span>Esposizione Nazionale di Albarella (RO) - 17 mag 2026</span>
+  <span style="color:#8b5a2b;font-weight:600">JCAC · JBOB · BOB</span>
   </div>
   
   </div>
   
-  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">Padre: Zarlorstar Ultimo Omega. Madre: Virtus Et Honor Radioactive At Stafflorence. Seguiremo la sua carriera espositiva nei prossimi mesi.</p>
+  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">Padre: CH. Elitebull Prospect. Madre: Lackyle Bean Croí Olc. Proprietario: Stefano Tevini. Handler: Vittoria Passerini.</p>
   
   </div>
   </section>
-  
+
   <section class="dark-section">
   <h2>Selezione che si Vede</h2>
   <p>I risultati in esposizione confermano il nostro impegno: soggetti tipici, sani, con carattere equilibrato. Non compriamo cani gia titolati: li alleviamo, li cresciamo, li portiamo in ring. Questa e la differenza.</p>

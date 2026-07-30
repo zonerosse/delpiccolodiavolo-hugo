@@ -95,7 +95,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/tikus-bologna-800.avif" srcset="/images/tikus-bologna-400.avif 400w, /images/tikus-bologna-800.avif 800w, /images/tikus-bologna.avif 1618w" sizes="(max-width: 767px) calc(100vw - 2rem), 50vw" alt="Staffordshire Bull Terrier Del Piccolo Diavolo" width="800" height="584" fetchpriority="high">
+  <img src="/images/femmina-bilquis-hero.avif" alt="Bilquis Goddess Diabhal, Campionessa Italiana Staffordshire Bull Terrier - Del Piccolo Diavolo" width="301" height="396" fetchpriority="high" decoding="sync">
   </div>
   </div>
   <div class="hero-content">
@@ -289,7 +289,7 @@ custom_content: |
   <span>Quali risultati avete ottenuto in esposizione?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Abbiamo allevato 2 Campioni Italiani di Bellezza e 1 Giovane Campione Italiano. Bilquis ha stabilito un record con 12 esposizioni consecutive Eccellente 1°, diventando Campionessa ancora in Classe Intermedia. Tikus ha vinto BOB Maschio Puppy al Raduno Nazionale 2025. Tutti i cani sono nati e cresciuti da noi.</div>
+  <div class="faq-answer">Abbiamo allevato 2 Campioni Italiani di Bellezza e 1 Giovane Campione Italiano. Bilquis ha stabilito un record con 12 esposizioni consecutive Eccellente 1°, diventando Campionessa ancora in Classe Intermedia. Tutti i cani sono nati e cresciuti da noi.</div>
   </div>
   
   <div class="faq-item active">

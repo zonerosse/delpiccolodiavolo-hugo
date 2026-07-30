@@ -47,10 +47,6 @@ custom_content: |
   
   <p>Le ragioni di questa confusione sono molteplici. Tutte e tre le razze discendono dallo stesso ceppo: i "Bull and Terrier" dell'Inghilterra del XIX secolo, incroci tra Bulldog e vari Terrier. Condividono quindi un patrimonio genetico comune e alcune caratteristiche morfologiche simili: testa larga, mascella potente, corpo muscoloso.</p>
   
-  <figure class="article-image img-left">
-  <img src="/images/tikus-2.webp" alt="Staffordshire Bull Terrier in posa" loading="lazy" decoding="async" width="400" height="400">
-  <figcaption>Staffordshire Bull Terrier</figcaption>
-  </figure>
   
   <p>I media tendono a utilizzare il termine generico "Pitbull" per indicare qualsiasi cane di tipo "bull", indipendentemente dalla razza effettiva. Quando un cane di tipo molossoide è coinvolto in un incidente, raramente viene identificata correttamente la razza, alimentando stereotipi generalizzati.</p>
   

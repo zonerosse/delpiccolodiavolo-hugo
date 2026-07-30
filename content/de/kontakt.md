@@ -6,7 +6,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/tikus-bologna-800.avif" srcset="/images/tikus-bologna-400.avif 400w, /images/tikus-bologna-800.avif 800w, /images/tikus-bologna.avif 1618w" sizes="(max-width: 767px) calc(100vw - 2rem), 50vw" alt="Staffordshire Bull Terrier Del Piccolo Diavolo" width="800" height="584" fetchpriority="high">
+  <img src="/images/femmina-bilquis-hero.avif" alt="Bilquis Goddess Diabhal, Campionessa Italiana Staffordshire Bull Terrier - Del Piccolo Diavolo" width="301" height="396" fetchpriority="high" decoding="sync">
   </div>
   </div>
   <div class="hero-content">
@@ -68,7 +68,7 @@ custom_content: |
   <span class="section-label">Die Zucht</span>
   <h2 class="section-title">Wo Wir Sind</h2>
   
-  <div class="story-block">
+  <div class="story-block" style="grid-template-columns:1fr">
   <div class="story-text">
   <h3>Via A. Chierici 12, Ostellato (FE)</h3>
   <p>Wir befinden uns im Herzen des Po-Delta-Parks, auf halbem Weg zwischen Ferrara und der Adria.</p>
@@ -85,7 +85,6 @@ custom_content: |
   <p>Während des Besuchs können Sie die Eltern kennenlernen, die Umgebung sehen, in der die Welpen aufwachsen, die Zertifikate der Gentests einsehen und alle Fragen stellen, die Sie haben.</p>
   <p>Kontaktieren Sie uns über WhatsApp, um einen Termin zu vereinbaren.</p>
   </div>
-  <img src="/images/tikus-2.webp" alt="Tikus Del Piccolo Diavolo" class="story-img" width="350" height="261" loading="lazy" decoding="async">
   </div>
   </div>
   </section>

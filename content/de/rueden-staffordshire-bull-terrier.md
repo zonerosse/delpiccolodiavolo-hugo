@@ -1,12 +1,12 @@
 ---
 title: "Staffordshire Bull Terrier Rüden"
-description: "Unsere Staffordshire Bull Terrier Rüden: Lothar (Junger Italienischer Champion), Tikus (Best Puppy in Show Split 2025), Braveheart und Papillon. L2HGA und HC zertifizierte Gentests."
+description: "Unsere Staffordshire Bull Terrier Rüden: Lothar (Junger Italienischer Champion), Braveheart und Papillon. L2HGA und HC zertifizierte Gentests."
 slug: "rueden-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/tikus-bologna-800.avif" srcset="/images/tikus-bologna-400.avif 400w, /images/tikus-bologna-800.avif 800w, /images/tikus-bologna.avif 1618w" sizes="(max-width: 767px) calc(100vw - 2rem), 50vw" alt="Staffordshire Bull Terrier Rüde Del Piccolo Diavolo" width="800" height="584" fetchpriority="high">
+  <img src="/images/femmina-bilquis-hero.avif" alt="Bilquis Goddess Diabhal, Campionessa Italiana Staffordshire Bull Terrier - Del Piccolo Diavolo" width="301" height="396" fetchpriority="high" decoding="sync">
   </div>
   </div>
   <div class="hero-content">
@@ -72,25 +72,6 @@ custom_content: |
   </div>
   </article>
   
-  <!-- TIKUS -->
-  <article class="male-card male-highlight">
-  <div class="male-header">
-  <span class="male-badge">🏆 Best Puppy in Show Split 2025 und BOS Junioren Terrier-Treffen Bologna 29/11/25</span>
-  <h3 class="male-name">Virtus et Honor Amazing Paddy the Baddy (Tikus)</h3>
-  </div>
-  <div class="male-content">
-  <div class="male-image">
-  <img src="/images/tikus-bologna-primo.avif" alt="Virtus et Honor Amazing Paddy the Baddy aka Tikus" width="350" height="467" loading="lazy" decoding="async">
-  </div>
-  <div class="male-info">
-  <p><strong>Gentests:</strong> L2HGA & HC frei per Eltern</p>
-  <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
-  <p><strong>Vater:</strong> Zarlorstar Ultimo Omega</p>
-  <p><strong>Mutter:</strong> Virtus Et Honor Radioactive At Stafflorence</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4562624" target="_blank" rel="noopener" title="Stammbaum Tikus auf SBTPedigree">Vollständigen Stammbaum Sehen →</a>
-  </div>
-  </div>
-  </article>
   
   <!-- BRAVEHEART -->
   <article class="male-card">

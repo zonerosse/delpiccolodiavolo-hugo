@@ -6,7 +6,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/tikus-bologna-800.avif" srcset="/images/tikus-bologna-400.avif 400w, /images/tikus-bologna-800.avif 800w, /images/tikus-bologna.avif 1618w" sizes="(max-width: 767px) calc(100vw - 2rem), 50vw" alt="Staffordshire Bull Terrier Del Piccolo Diavolo" width="800" height="584" fetchpriority="high">
+  <img src="/images/femmina-bilquis-hero.avif" alt="Bilquis Goddess Diabhal, Campionessa Italiana Staffordshire Bull Terrier - Del Piccolo Diavolo" width="301" height="396" fetchpriority="high" decoding="sync">
   </div>
   </div>
   <div class="hero-content">
@@ -46,7 +46,7 @@ custom_content: |
   <span class="section-label">Come È Nato</span>
   <h2 class="section-title">La Nostra Storia</h2>
   
-  <div class="story-block">
+  <div class="story-block" style="grid-template-columns:1fr">
   <div class="story-text">
   <h3>Dal Crufts a Ostellato</h3>
   <p>La passione nasce nel 2005 al Crufts. Cercavo un cane con carattere forte ma gestibile: lo Staffy mi è apparso come un "Rottweiler in miniatura" – potente, determinato, incredibilmente affettuoso.</p>
@@ -61,7 +61,6 @@ custom_content: |
   <p><strong>Elitebull</strong> (UK): testa tipica, struttura compatta, temperamento stabile. Vincitori in expo ma soprattutto cani equilibrati.</p>
   <p><strong>Lackyle</strong> (Irlanda): atletici, ottima ossatura, carattere socievole. Perfetti per famiglie con bambini.</p>
   </div>
-  <img src="/images/tikus-2.webp" alt="Tikus Del Piccolo Diavolo" class="story-img" width="350" height="261" loading="lazy" decoding="async">
   </div>
   </div>
   </section>

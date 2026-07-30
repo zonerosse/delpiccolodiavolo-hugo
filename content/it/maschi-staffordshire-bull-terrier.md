@@ -1,12 +1,12 @@
 ---
 title: "Maschi Staffordshire Bull Terrier"
-description: "I nostri maschi Staffordshire Bull Terrier: Lothar (Giovane Campione Italiano), Tikus (Best Puppy in Show Split 2025), Braveheart e Papillon. Test genetici L2HGA e HC certificati."
+description: "I nostri maschi Staffordshire Bull Terrier: Lothar (Giovane Campione Italiano), Braveheart e Papillon. Test genetici L2HGA e HC certificati."
 slug: "maschi-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/tikus-bologna-800.avif" srcset="/images/tikus-bologna-400.avif 400w, /images/tikus-bologna-800.avif 800w, /images/tikus-bologna.avif 1618w" sizes="(max-width: 767px) calc(100vw - 2rem), 50vw" alt="Maschio Staffordshire Bull Terrier Del Piccolo Diavolo" width="800" height="584" fetchpriority="high">
+  <img src="/images/femmina-bilquis-hero.avif" alt="Bilquis Goddess Diabhal, Campionessa Italiana Staffordshire Bull Terrier - Del Piccolo Diavolo" width="301" height="396" fetchpriority="high" decoding="sync">
   </div>
   </div>
   <div class="hero-content">
@@ -84,25 +84,6 @@ custom_content: |
   </div>
   </article>
   
-  <!-- TIKUS -->
-  <article class="male-card male-highlight">
-  <div class="male-header">
-  <span class="male-badge">🏆 Best Puppy in Show Split 2025 e BOS Juniores Raduno Terrier Bologna 29/11/25</span>
-  <h3 class="male-name">Virtus et Honor Amazing Paddy the Baddy (Tikus)</h3>
-  </div>
-  <div class="male-content">
-  <div class="male-image">
-  <img src="/images/tikus-testone.webp" alt="Virtus et Honor Amazing Paddy the Baddy aka Tikus" width="350" height="467" loading="lazy" decoding="async">
-  </div>
-  <div class="male-info">
-  <p><strong>Test Genetici:</strong> L2HGA &amp; HC clear by Parents</p>
-  <p><strong>Dentatura:</strong> Completely scissor bite</p>
-  <p><strong>Padre:</strong> Zarlorstar Ultimo Omega</p>
-  <p><strong>Madre:</strong> Virtus Et Honor Radioactive At Stafflorence</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4562624" target="_blank" rel="noopener" title="Vedi pedigree Tikus su SBTPedigree">Vedi Pedigree Completo →</a>
-  </div>
-  </div>
-  </article>
   
   <!-- BRAVEHEART -->
   <article class="male-card">
