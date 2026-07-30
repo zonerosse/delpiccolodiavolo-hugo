@@ -85,6 +85,12 @@ custom_content: |
   <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Italienischer Jugendchampion</p>
   <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Mehrfache JCAC und Junior BOB auf nationalen und internationalen Ausstellungen. V1 bei allen Veranstaltungen.</p>
   </div>
+
+  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
+  <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Queen of California</h3>
+  <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Italienische Jugendchampionin ENCI 2026</p>
+  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">17. Mai 2026, Nationale Ausstellung in Albarella: Vorzüglich 1., JCAC, JBOB und BOB. Bester Staffordshire Bull Terrier der kynologischen Gruppe Polesano. Tochter von CH. Elitebull Prospect × Lackyle Bean Croí Olc.</p>
+  </div>
   
   
   </div>
