@@ -324,37 +324,6 @@ custom_content: |
   </section>
   
   
-  <section class="section section-alt">
-  <div class="section-inner">
-  <span class="section-label">La Nostra Promessa</span>
-  <h2 class="section-title">JCH. Queen of California Aka Desy Del Piccolo Diavolo</h2>
-  
-  <div style="display:flex;flex-direction:column;gap:1.5rem;margin-bottom:2rem">
-  <div class="image-center">
-  <img src="/images/queen-of-california.jpeg" alt="JCH Queen of California Aka Desy Del Piccolo Diavolo, Giovane Campionessa Italiana Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="400" style="border-radius:12px">
-  </div>
-  <div>
-  <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
-  <h3>Giovane Campionessa Italiana 2026</h3>
-  <p>Ad Albarella (RO), il 17 maggio 2026, Queen conquista in Classe Giovani il 1° Eccellente con JCAC, JBOB e BOB, premiata come Miglior Staffordshire Bull Terrier dal Gruppo Cinofilo Polesano — titolo di Giovane Campionessa Italiana (in omologazione). Una promessa che conferma la nostra selezione.</p>
-  </div>
-  </div>
-  </div>
-  
-  <div class="risultati-grid" style="display:grid;gap:0.75rem;margin-top:1.5rem">
-  
-  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">GIOV. 1°</span>
-  <span>Esposizione Nazionale di Albarella (RO) - 17 mag 2026</span>
-  <span style="color:#8b5a2b;font-weight:600">JCAC · JBOB · BOB</span>
-  </div>
-  
-  </div>
-  
-  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">Padre: CH. Elitebull Prospect. Madre: Lackyle Bean Croí Olc. Proprietario: Stefano Tevini. Handler: Vittoria Passerini.</p>
-  
-  </div>
-  </section>
 
   <section class="dark-section">
   <h2>Selezione che si Vede</h2>
