@@ -109,11 +109,6 @@ custom_content: |
   <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Multipli JCAC e BOB Giovani in esposizioni nazionali e internazionali. Eccellente 1° in tutte le manifestazioni. Figlio di campioni inglesi.</p>
   </div>
 
-  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
-  <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Virtus et Honor Amazing Paddy the Baddy</h3>
-  <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">BOB Maschio Puppy 2025</p>
-  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Best of Breed Maschio Puppy al Raduno Nazionale Terrier Bologna 2025. La nostra promessa per il futuro, già protagonista al suo esordio.</p>
-  </div>
 
   </div>
 
@@ -139,9 +134,6 @@ custom_content: |
   <h3>Un progetto diventato passione</h3>
   <p>Il mio primo Staffordshire Bull Terrier è arrivato in un momento speciale. Da quel giorno ho studiato, viaggiato, conosciuto altri allevatori e vissuto ogni giorno con questi cani straordinari. Ogni scelta nasce dall'esperienza e dal desiderio di offrire il meglio.</p>
   </div>
-  </div>
-  <div class="image-center">
-  <img src="/images/storia-handler.avif" alt="Handler con Staffordshire Bull Terrier nero" loading="lazy" decoding="async" width="400" height="500">
   </div>
   </div>
 
