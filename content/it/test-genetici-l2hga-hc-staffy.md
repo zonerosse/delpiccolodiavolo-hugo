@@ -47,10 +47,6 @@ custom_content: |
   
   <p>Le due patologie genetiche più importanti nella razza sono <strong>L2-HGA</strong> e <strong>HC</strong>. Entrambe sono state identificate, mappate geneticamente e oggi esistono test DNA affidabili che permettono di conoscere lo status genetico di ogni cane prima della riproduzione.</p>
   
-  <figure class="article-image img-left">
-  <img src="/images/tikus-2.webp" alt="Staffordshire Bull Terrier sano e vitale" loading="lazy" decoding="async" width="280" height="280">
-  <figcaption>Staffy sano e vitale</figcaption>
-  </figure>
   
   <p>Questo significa che <strong>nessun cucciolo dovrebbe più nascere malato</strong> di L2-HGA o HC, a patto che l'allevatore faccia i test e pianifichi gli accoppiamenti correttamente. Purtroppo, non tutti gli allevatori (e tantomeno i "cagnari" improvvisati) seguono queste pratiche.</p>
   

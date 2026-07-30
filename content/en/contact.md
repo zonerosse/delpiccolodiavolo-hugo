@@ -6,7 +6,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/tikus-bologna-800.avif" srcset="/images/tikus-bologna-400.avif 400w, /images/tikus-bologna-800.avif 800w, /images/tikus-bologna.avif 1618w" sizes="(max-width: 767px) calc(100vw - 2rem), 50vw" alt="Staffordshire Bull Terrier Del Piccolo Diavolo" width="800" height="584" fetchpriority="high">
+  <img src="/images/femmina-bilquis-hero.avif" alt="Bilquis Goddess Diabhal, Campionessa Italiana Staffordshire Bull Terrier - Del Piccolo Diavolo" width="301" height="396" fetchpriority="high" decoding="sync">
   </div>
   </div>
   <div class="hero-content">
@@ -68,7 +68,7 @@ custom_content: |
   <span class="section-label">The Kennel</span>
   <h2 class="section-title">Where We Are</h2>
   
-  <div class="story-block">
+  <div class="story-block" style="grid-template-columns:1fr">
   <div class="story-text">
   <h3>Via A. Chierici 12, Ostellato (FE)</h3>
   <p>We are in the heart of the Po Delta Park, halfway between Ferrara and the Adriatic Sea.</p>
@@ -85,7 +85,6 @@ custom_content: |
   <p>During your visit you will meet the parents, see the environment where puppies grow, view genetic test certificates and ask all the questions you want.</p>
   <p>Contact us via WhatsApp to schedule a meeting.</p>
   </div>
-  <img src="/images/tikus-2.webp" alt="Tikus Del Piccolo Diavolo" class="story-img" width="350" height="261" loading="lazy" decoding="async">
   </div>
   </div>
   </section>

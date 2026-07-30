@@ -133,26 +133,39 @@ custom_content: |
   </div>
   </section>
   
+  
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Unser Versprechen</span>
-  <h2 class="section-title">Virtus et Honor Amazing Paddy the Baddy (Tikus)</h2>
+  <h2 class="section-title">JCH. Queen of California Aka Desy Del Piccolo Diavolo</h2>
   
   <div style="display:flex;flex-direction:column;gap:1.5rem;margin-bottom:2rem">
   <div class="image-center">
-  <img src="/images/tikus-primo.webp" alt="Tikus Del Piccolo Diavolo, BOB Rude Welpe Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="380" style="border-radius:12px">
+  <img src="/images/queen-of-california.jpeg" alt="JCH Queen of California Aka Desy Del Piccolo Diavolo, Giovane Campionessa Italiana Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="400" style="border-radius:12px">
   </div>
   <div>
-  <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem">
-  <h3>BOB Rude Welpe - Nationale Spezialausstellung 2025</h3>
-  <p>Bei seinem absoluten Debut gewann Tikus Best of Breed Rude Welpe bei der Nationalen Terrier-Spezialausstellung in Bologna (November 2025). Ein Anfang, der grosse Zufriedenheit fur die Zukunft verspricht.</p>
+  <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
+  <h3>Italienische Jugendchampionin 2026</h3>
+  <p>In Albarella (RO), am 17. Mai 2026, gewann Queen in der Jugendklasse Vorzüglich 1. mit JCAC, JBOB und BOB, ausgezeichnet als Bester Staffordshire Bull Terrier der kynologischen Gruppe Polesano — Titel Italienische Jugendchampionin (in Bestätigung). Ein Versprechen, das unsere Selektion bestätigt.</p>
   </div>
   </div>
   </div>
+  
+  <div class="risultati-grid" style="display:grid;gap:0.75rem;margin-top:1.5rem">
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">JUG. 1.</span>
+  <span>Nationale Ausstellung Albarella (RO) - 17. Mai 2026</span>
+  <span style="color:#8b5a2b;font-weight:600">JCAC · JBOB · BOB</span>
+  </div>
+  
+  </div>
+  
+  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">Vater: CH. Elitebull Prospect. Mutter: Lackyle Bean Croí Olc. Besitzer: Stefano Tevini. Handler: Vittoria Passerini.</p>
   
   </div>
   </section>
-  
+
   <section class="dark-section">
   <h2>Selektion, die Man Sieht</h2>
   <p>Ausstellungsergebnisse bestatigen unser Engagement: typische, gesunde Hunde mit ausgeglichenem Charakter. Wir kaufen keine bereits titulierten Hunde: wir zuchten sie, ziehen sie auf, stellen sie aus. Das ist der Unterschied.</p>

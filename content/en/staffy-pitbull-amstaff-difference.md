@@ -46,10 +46,6 @@ custom_content: |
   
   <p>All three breeds descend from the same stock: the "Bull and Terrier" dogs of 19th century England, crosses between Bulldogs and various Terriers. They therefore share a common genetic heritage and some similar morphological characteristics: broad head, powerful jaw, muscular body.</p>
   
-  <figure class="article-image img-left">
-  <img src="/images/tikus-2.webp" alt="Staffordshire Bull Terrier posing" loading="lazy" decoding="async" width="400" height="400">
-  <figcaption>Staffordshire Bull Terrier</figcaption>
-  </figure>
   
   <p>The media tend to use the generic term "Pitbull" to indicate any "bull" type dog, regardless of the actual breed. When a molosser-type dog is involved in an incident, the breed is rarely correctly identified, fueling generalized stereotypes.</p>
   

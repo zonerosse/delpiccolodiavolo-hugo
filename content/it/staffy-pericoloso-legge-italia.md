@@ -50,10 +50,6 @@ custom_content: |
   
   <p>Il secondo fattore è la <strong>confusione con altre razze</strong>. Lo Staffy viene spesso confuso con l'American Pit Bull Terrier, l'American Staffordshire Terrier e altri "bully breeds". Quando un cane di tipo "bull" è coinvolto in un incidente, spesso viene erroneamente identificato come "Pitbull" o "Staffy" indipendentemente dalla razza effettiva.</p>
   
-  <figure class="article-image img-left">
-  <img src="/images/tikus-2.webp" alt="Allevamento Del Piccolo Diavolo - Staffordshire Bull Terrier" loading="lazy" decoding="async" width="260" height="195">
-  <figcaption>Del Piccolo Diavolo</figcaption>
-  </figure>
   
   <p>Il terzo fattore è l'<strong>uso improprio da parte di proprietari irresponsabili</strong>. Purtroppo, alcune persone scelgono razze muscolose come "status symbol" o per intimorire gli altri, e le addestrano all'aggressività. Questo comportamento criminale danneggia la reputazione di intere razze, quando la responsabilità è esclusivamente del proprietario.</p>
   

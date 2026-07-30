@@ -46,10 +46,6 @@ custom_content: |
   
   <p>The two most important genetic conditions in the breed are <strong>L2-HGA</strong> and <strong>HC</strong>. Both have been identified, genetically mapped, and reliable DNA tests now exist that allow knowing the genetic status of each dog before breeding.</p>
   
-  <figure class="article-image img-left">
-  <img src="/images/tikus-2.webp" alt="Healthy Staffordshire Bull Terrier" loading="lazy" decoding="async" width="280" height="280">
-  <figcaption>Healthy and vital Staffy</figcaption>
-  </figure>
   
   <p>This means that <strong>no puppy should be born sick</strong> with L2-HGA or HC, as long as the breeder does the tests and plans matings correctly.</p>
   

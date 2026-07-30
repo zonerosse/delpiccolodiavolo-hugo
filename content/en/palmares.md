@@ -133,26 +133,39 @@ custom_content: |
   </div>
   </section>
   
+  
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Our Promise</span>
-  <h2 class="section-title">Virtus et Honor Amazing Paddy the Baddy (Tikus)</h2>
+  <h2 class="section-title">JCH. Queen of California Aka Desy Del Piccolo Diavolo</h2>
   
   <div style="display:flex;flex-direction:column;gap:1.5rem;margin-bottom:2rem">
   <div class="image-center">
-  <img src="/images/tikus-primo.webp" alt="Tikus Del Piccolo Diavolo, BOB Male Puppy Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="380" style="border-radius:12px">
+  <img src="/images/queen-of-california.jpeg" alt="JCH Queen of California Aka Desy Del Piccolo Diavolo, Giovane Campionessa Italiana Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="400" style="border-radius:12px">
   </div>
   <div>
-  <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem">
-  <h3>BOB Male Puppy - National Specialty 2025</h3>
-  <p>At his absolute debut, Tikus won Best of Breed Male Puppy at the National Terrier Specialty in Bologna (November 2025). A start that promises great satisfaction for the future.</p>
+  <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
+  <h3>Italian Young Champion 2026</h3>
+  <p>In Albarella (RO), on 17 May 2026, Queen won Excellent 1st in the Junior Class with JCAC, JBOB and BOB, awarded Best Staffordshire Bull Terrier by the Polesano Canine Group — Italian Young Champion title (pending homologation). A promise that confirms our selection.</p>
   </div>
   </div>
   </div>
+  
+  <div class="risultati-grid" style="display:grid;gap:0.75rem;margin-top:1.5rem">
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">JUN. 1st</span>
+  <span>National Show Albarella (RO) - 17 May 2026</span>
+  <span style="color:#8b5a2b;font-weight:600">JCAC · JBOB · BOB</span>
+  </div>
+  
+  </div>
+  
+  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">Sire: CH. Elitebull Prospect. Dam: Lackyle Bean Croí Olc. Owner: Stefano Tevini. Handler: Vittoria Passerini.</p>
   
   </div>
   </section>
-  
+
   <section class="dark-section">
   <h2>Selection You Can See</h2>
   <p>Show results confirm our commitment: typical, healthy dogs with balanced character. We don't buy already titled dogs: we breed them, raise them, show them. That's the difference.</p>
