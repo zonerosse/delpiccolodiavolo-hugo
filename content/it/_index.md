@@ -109,6 +109,12 @@ custom_content: |
   <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Multipli JCAC e BOB Giovani in esposizioni nazionali e internazionali. Eccellente 1° in tutte le manifestazioni. Figlio di campioni inglesi.</p>
   </div>
 
+  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
+  <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Queen of California</h3>
+  <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Giovane Campionessa Italiana ENCI 2026</p>
+  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">17 maggio 2026, Esposizione Nazionale di Albarella: 1° Eccellente, JCAC, JBOB e BOB. Miglior Staffordshire Bull Terrier per il Gruppo Cinofilo Polesano. Figlia di CH. Elitebull Prospect × Lackyle Bean Croí Olc.</p>
+  </div>
+
 
   </div>
 
