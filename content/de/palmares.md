@@ -134,14 +134,15 @@ custom_content: |
   </section>
   
   
+
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Unser Versprechen</span>
-  <h2 class="section-title">JCH. Queen of California Aka Desy Del Piccolo Diavolo</h2>
+  <h2 class="section-title">Queen of California Aka Desy</h2>
   
   <div style="display:flex;flex-direction:column;gap:1.5rem;margin-bottom:2rem">
   <div class="image-center">
-  <img src="/images/queen-of-california.jpeg" alt="JCH Queen of California Aka Desy Del Piccolo Diavolo, Giovane Campionessa Italiana Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="400" style="border-radius:12px">
+  <img src="/images/queen-of-california.jpeg" alt="Queen of California Aka Desy, Giovane Campionessa Italiana Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="400" style="border-radius:12px">
   </div>
   <div>
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
