@@ -6,11 +6,11 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/tikus-bologna-800.avif" srcset="/images/tikus-bologna-400.avif 400w, /images/tikus-bologna-800.avif 800w, /images/tikus-bologna.avif 1618w" sizes="(max-width: 767px) calc(100vw - 2rem), 50vw" alt="Tikus Del Piccolo Diavolo, Staffordshire Bull Terrier Champion auf Ausstellung" width="800" height="584" fetchpriority="high" decoding="sync">
+  <img src="/images/femmina-bilquis-hero.avif" alt="Bilquis Goddess Diabhal, Italienische Championin Staffordshire Bull Terrier auf einer Hundeausstellung" width="301" height="396" fetchpriority="high" decoding="sync">
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">4,9 bei 36 Bewertungen</span>
+  <span class="hero-eyebrow">4,9 bei 37 Bewertungen</span>
   <h1 class="hero-title">Staffordshire<br><em>Bull Terrier</em><br>Zucht</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo - Selektion, Gesundheit und Charakter</p>
   <p class="hero-description">Wenn Sie an eine Staffordshire Bull Terrier Zucht denken, stellen Sie sich ordentliche Boxen und identische Welpen vor? Bei uns ist es anders. Jeder Hund hat einen Namen, eine Geschichte, einen Charakter. Wir züchten nicht in Serie: Wir pflegen Beziehungen, Erinnerungen und unvergessliche Momente.</p>
