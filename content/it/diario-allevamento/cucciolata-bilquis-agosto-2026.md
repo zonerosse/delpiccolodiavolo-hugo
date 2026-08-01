@@ -4,6 +4,7 @@ description: "Nati il 1° agosto 2026: 8 cuccioli Staffordshire Bull Terrier (4 
 slug: "cucciolata-bilquis-agosto-2026"
 date: 2026-08-01
 image: "/images/cuccioli-bilquis-nati-1.webp"
+annuncio: "🎉 Sono nati! 8 cuccioli — 4 maschi e 4 femmine"
 ---
 
 <div style="background:#c9a227;color:#1a1a1a;padding:1rem 1.5rem;border-radius:8px;margin-bottom:2rem;text-align:center">
