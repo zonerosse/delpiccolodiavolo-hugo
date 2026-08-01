@@ -50,7 +50,13 @@ custom_content: |
   <p>È forse la razza più legata alla famiglia in assoluto. Ti segue ovunque, ama il contatto fisico, vive per stare con te. Se cerchi un cane "distaccato e indipendente", questo non è lui: lo Staffy vuole <em>far parte</em> della vita di casa.</p>
   
   <h3>2. Eccezionale con i bambini</h3>
-  <p>Non a caso in Inghilterra è soprannominato <strong>"nanny dog"</strong> (il cane bambinaia). Paziente, tollerante e giocoso, è tradizionalmente considerato uno dei cani migliori per le famiglie con bambini — sempre con la supervisione che ogni cane richiede.</p>
+  <p>Non a caso in Inghilterra è soprannominato <strong>"nanny dog"</strong> (il cane bambinaia). Paziente, tollerante e giocoso, è tradizionalmente considerato uno dei cani migliori per le famiglie con bambini.</p>
+  
+  <div style="background:#fff8e1;border-left:5px solid #f4b400;border-radius:8px;padding:1rem 1.3rem;margin:1.5rem 0">
+  <p style="margin:0 0 .4rem;font-weight:700;color:#7a5c00;display:flex;align-items:center;gap:.5rem">⚠️ Supervisione sempre</p>
+  <p style="margin:0 0 .5rem;color:#5c4a3a;line-height:1.6">Per quanto affidabile e dolce, <strong>nessun cane va mai lasciato solo con bambini piccoli senza la supervisione di un adulto</strong>. Vale per lo Staffordshire Bull Terrier come per qualsiasi razza: è una regola di sicurezza fondamentale, nell'interesse sia del bambino sia del cane.</p>
+  <p style="margin:0;color:#5c4a3a;line-height:1.6">Dal momento dell'affido, la gestione e la sorveglianza del cane sono responsabilità del proprietario: <strong>l'allevamento non si assume alcuna responsabilità</strong> per comportamenti o incidenti derivanti da una gestione non conforme a queste indicazioni.</p>
+  </div>
   
   <h3>3. Taglia ideale per la vita moderna</h3>
   <p>Abbastanza robusto da non essere "delicato", abbastanza compatto da vivere bene anche in appartamento (se esce e si sfoga a sufficienza). Non occupa lo spazio di un molossoide gigante.</p>
@@ -138,7 +144,7 @@ custom_content: |
   <div class="faq-item">
   <h3 class="faq-question">Va d'accordo con i bambini?</h3>
   <div class="faq-answer">
-  <p>Tradizionalmente sì, tanto da essere chiamato "nanny dog". È paziente e tollerante. Come per ogni cane, le interazioni con bambini piccoli vanno sempre supervisionate, ma poche razze sono così adatte alla vita familiare con i più piccoli.</p>
+  <p>Tradizionalmente sì, tanto da essere chiamato "nanny dog", ed è tra i cani più adatti alla vita familiare. Lo standard ufficiale lo descrive come "altamente affettuoso, specialmente con i bambini". ⚠️ Resta però una regola di sicurezza fondamentale, valida per ogni razza: <strong>un bambino piccolo e un cane non vanno mai lasciati soli senza la supervisione di un adulto</strong>.</p>
   </div>
   </div>
   
