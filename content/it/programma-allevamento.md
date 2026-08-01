@@ -85,7 +85,7 @@ custom_content: |
   <article class="litter-card">
   <div class="litter-header">
   <h3 class="litter-title">Cucciolata nata il 1° agosto 2026 — 8 cuccioli (4 maschi, 4 femmine)</h3>
-  <span class="badge" style="background:#c9a227;color:#1a1a1a">In arrivo</span>
+  <span class="badge" style="background:#c9a227;color:#1a1a1a">Disponibili</span>
   </div>
 
   <div class="pair">
