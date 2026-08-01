@@ -1,17 +1,24 @@
 ---
-title: "Cucciolata in arrivo: Bilquis Goddess Diabhal × Black Jack Di Casa Giacalone — attesa per agosto 2026"
-description: "Cucciolata Staffordshire Bull Terrier attesa per inizio agosto 2026 all'allevamento Del Piccolo Diavolo. Padre Black Jack Di Casa Giacalone, madre Bilquis Goddess Diabhal (Campionessa Italiana ENCI, 4ª al World Dog Show 2024). Prenotazioni aperte."
+title: "È nata la cucciolata: Bilquis Goddess Diabhal × Black Jack Di Casa Giacalone — 8 cuccioli (agosto 2026)"
+description: "Nati il 1° agosto 2026: 8 cuccioli Staffordshire Bull Terrier (4 maschi, 4 femmine) all'allevamento Del Piccolo Diavolo. Madre Bilquis Goddess Diabhal (Campionessa Italiana ENCI, 4ª al World Dog Show 2024), padre Black Jack Di Casa Giacalone. Prenotazioni aperte."
 slug: "cucciolata-bilquis-agosto-2026"
-date: 2026-07-22
-image: "/images/jack1.jpg"
+date: 2026-08-01
+image: "/images/cuccioli-bilquis-nati-1.webp"
 ---
 
 <div style="background:#c9a227;color:#1a1a1a;padding:1rem 1.5rem;border-radius:8px;margin-bottom:2rem;text-align:center">
-<strong>🤰 CUCCIOLATA ATTESA PER I PRIMI DI AGOSTO 2026</strong><br>
+<strong>🎉 NATI IL 1° AGOSTO 2026 — 8 CUCCIOLI (4 MASCHI, 4 FEMMINE)</strong><br>
 Prenotazioni aperte — inserimento in lista d'attesa
 </div>
 
-All'allevamento **Del Piccolo Diavolo** è in arrivo una cucciolata particolarmente attesa: la nostra **Bilquis Goddess Diabhal** — Campionessa Italiana di Bellezza ENCI e 4ª classificata al World Dog Show di Zagabria 2024 — diventa mamma. Un accoppiamento pianificato con cura, che unisce il pedigree di **Bilquis Goddess Diabhal**, figlia di **Skilful-Dogs Nora**, alle solide linee italiane del padre **Black Jack Di Casa Giacalone**, figlio del **Campione del Mondo 2023** Quash Marvelous Hagler de Stafflorence.
+All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente attesa: il **1° agosto 2026** la nostra **Bilquis Goddess Diabhal** — Campionessa Italiana di Bellezza ENCI e 4ª classificata al World Dog Show di Zagabria 2024 — è diventata mamma di **8 cuccioli (4 maschi e 4 femmine)**. Un accoppiamento pianificato con cura, che unisce il pedigree di **Bilquis Goddess Diabhal**, figlia di **Skilful-Dogs Nora**, alle solide linee italiane del padre **Black Jack Di Casa Giacalone**, figlio del **Campione del Mondo 2023** Quash Marvelous Hagler de Stafflorence.
+
+## I cuccioli appena nati
+
+<div style="display:flex;flex-wrap:wrap;gap:1rem;justify-content:center;margin:1.5rem 0">
+<img src="/images/cuccioli-bilquis-nati-1.webp" alt="Cuccioli Staffordshire Bull Terrier neri appena nati - Bilquis x Black Jack" width="435" height="480" loading="lazy" decoding="async" style="width:320px;max-width:100%;height:auto;border-radius:12px">
+<img src="/images/cuccioli-bilquis-nati-2.webp" alt="Bilquis con i suoi cuccioli Staffordshire Bull Terrier appena nati" width="468" height="480" loading="lazy" decoding="async" style="width:320px;max-width:100%;height:auto;border-radius:12px">
+</div>
 
 ## I genitori
 
@@ -48,11 +55,13 @@ All'allevamento **Del Piccolo Diavolo** è in arrivo una cucciolata particolarme
 
 ## La cucciolata
 
-**Parto previsto:** primi di agosto 2026
+**Nati:** 1° agosto 2026
 
-**Colori attesi:** dalla combinazione padre nero × madre nera tigrata e bianca, sono probabili cuccioli neri e tigrati, con possibili pezzature bianche. La conferma alla nascita.
+**Numero:** 8 cuccioli — 4 maschi e 4 femmine
 
-**Disponibilità:** prenotazioni aperte. Al momento raccogliamo le richieste per la **lista d'attesa**. Numero dei cuccioli, sesso e colori saranno comunicati alla nascita.
+**Colore:** tutti neri
+
+**Disponibilità:** prenotazioni aperte. Contattaci per l'inserimento in lista d'attesa.
 
 ## Perché questa cucciolata è speciale
 
@@ -99,7 +108,6 @@ Bilquis — Ecocardio Doppler (PDF)
 
 <p style="margin-top:1.5rem"><strong>Pedigree della cucciolata:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" class="sbt-link">Vedi su SBTPedigree →</a></p>
 
-<!-- Alla nascita: aggiungere qui il blocco video come nel post Red×Nora, e aggiornare "La cucciolata" con numero/sesso/colori reali -->
 
 ## Vuoi un cucciolo da questa cucciolata?
 
