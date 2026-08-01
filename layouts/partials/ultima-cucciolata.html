@@ -1,3 +1,8 @@
+{{- $lang := .Site.Language.Lang -}}
+{{- $badge := "🐾 Ultima cucciolata" -}}
+{{- $cta := "Scopri la cucciolata →" -}}
+{{- if eq $lang "en" -}}{{- $badge = "🐾 Latest litter" -}}{{- $cta = "Discover the litter →" -}}{{- end -}}
+{{- if eq $lang "de" -}}{{- $badge = "🐾 Neuester Wurf" -}}{{- $cta = "Zum Wurf →" -}}{{- end -}}
 {{- with .Site.GetPage "/diario-allevamento" -}}
   {{- range first 1 .RegularPages.ByDate.Reverse -}}
     {{- $img := .Params.image | default "/images/logo.webp" -}}
@@ -7,10 +12,10 @@
   <div style="max-width:900px;margin:0 auto;display:flex;flex-wrap:wrap;align-items:center;gap:1.8rem;background:#fff;border:2px solid #c9a227;border-radius:18px;box-shadow:0 14px 45px rgba(0,0,0,0.12);padding:1.5rem;">
   <img src="{{ $img }}" alt="{{ $titolo }}" width="435" height="480" loading="lazy" decoding="async" style="width:260px;max-width:100%;height:auto;border-radius:14px;flex-shrink:0;">
   <div style="flex:1;min-width:260px;">
-  <span style="display:inline-block;background:#c9a227;color:#1a1a1a;font-weight:700;text-transform:uppercase;letter-spacing:0.05em;font-size:0.8rem;padding:0.35rem 0.9rem;border-radius:20px;margin-bottom:0.7rem;">🐾 Ultima cucciolata</span>
+  <span style="display:inline-block;background:#c9a227;color:#1a1a1a;font-weight:700;text-transform:uppercase;letter-spacing:0.05em;font-size:0.8rem;padding:0.35rem 0.9rem;border-radius:20px;margin-bottom:0.7rem;">{{ $badge }}</span>
   <h2 style="margin:0.2rem 0 0.5rem;color:#5c4a3a;font-size:1.6rem;line-height:1.25;">{{ $titolo }}</h2>
   <p style="margin:0 0 1.1rem;color:#4a3f35;line-height:1.6;">{{ .Description }}</p>
-  <a href="{{ .RelPermalink }}" class="btn btn-primary" title="Scopri la cucciolata">Scopri la cucciolata →</a>
+  <a href="{{ .RelPermalink }}" class="btn btn-primary" title="{{ $cta }}">{{ $cta }}</a>
   </div>
   </div>
   </div>
