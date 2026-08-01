@@ -81,9 +81,9 @@ custom_content: |
   <a href="/recensioni/" title="Leggi tutte le recensioni" class="btn btn-ghost">Leggi tutte le 37 recensioni →</a>
   </div>
 
-  <div style="text-align:center">
-  <a href="/cuccioli-staffordshire-bull-terrier/" class="btn btn-primary" title="Scopri come crescono">Come Crescono</a>
-  <a href="/programma-allevamento/" class="btn btn-ghost" title="Vedi il programma di selezione" style="margin-left:.5rem">Programma Selezione</a>
+  <div style="display:flex;flex-wrap:wrap;gap:.75rem;justify-content:center">
+  <a href="/cuccioli-staffordshire-bull-terrier/" class="btn btn-primary" title="Scopri come crescono" style="min-height:44px;display:inline-flex;align-items:center">Come Crescono</a>
+  <a href="/programma-allevamento/" class="btn btn-ghost" title="Vedi il programma di selezione" style="min-height:44px;display:inline-flex;align-items:center">Programma Selezione</a>
   </div>
   </div>
   </section>
@@ -121,7 +121,7 @@ custom_content: |
   <div style="text-align:center;padding:1.5rem;background:#fff;border-radius:12px;border:1px solid rgba(139,115,85,0.15)">
   <p style="font-size:1.1rem;color:#5c4a3a;margin-bottom:0.5rem"><strong>3 Campioni - 4° al World Dog Show - 2 Giovani Campioni</strong></p>
   <p style="font-size:0.9rem;color:#4a3f35;margin-bottom:1rem">Risultati ottenuti con cani allevati e cresciuti da noi, non acquistati già titolati.</p>
-  <a href="/palmares-del-piccolo-diavolo/" class="btn btn-primary" title="Vedi tutti i risultati">Vedi Tutti i Risultati</a>
+  <a href="/palmares-del-piccolo-diavolo/" class="btn btn-primary" title="Vedi tutti i risultati" style="min-height:44px;display:inline-flex;align-items:center">Vedi Tutti i Risultati</a>
   </div>
   </div>
   </section>
