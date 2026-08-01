@@ -157,9 +157,19 @@ custom_content: |
   <section class="section" id="standard">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
-  <h2 class="section-title">Standard e Linee di Sangue <span class="count">(6)</span></h2>
+  <h2 class="section-title">Standard e Linee di Sangue <span class="count">(7)</span></h2>
 
   <div class="blog-grid">
+  <article class="blog-card">
+  <a href="/colori-staffordshire-bull-terrier/" title="Leggi: I colori dello Staffy"><div class="blog-card-thumb"><img src="/images/blog/hero-default.webp" alt="I colori dello Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">1 Ago 2026</span><span>•</span><span class="cat">Standard</span></div>
+  <h3><a href="/colori-staffordshire-bull-terrier/" title="Leggi: I colori dello Staffy">I colori dello Staffordshire Bull Terrier: nero, tigrato, blu</a></h3>
+  <p>Nero, tigrato, fulvo, blu e pezzati: quali colori ammette lo standard e cosa sapere sul blu diluito.</p>
+  <a class="read" href="/colori-staffordshire-bull-terrier/" title="Leggi articolo completo">Leggi →</a>
+  </div>
+  </article>
+
   <article class="blog-card">
   <a href="/staffordshire-bull-terrier-carattere/" title="Leggi: Carattere e Temperamento"><div class="blog-card-thumb"><img src="/images/blog/hero-default.webp" alt="Staffordshire Bull Terrier Carattere e Temperamento" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -287,9 +297,19 @@ custom_content: |
   <section class="section" id="famiglia">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
-  <h2 class="section-title">Famiglia e Convivenza <span class="count">(5)</span></h2>
+  <h2 class="section-title">Famiglia e Convivenza <span class="count">(6)</span></h2>
 
   <div class="blog-grid">
+  <article class="blog-card">
+  <a href="/staffordshire-bull-terrier-e-il-cane-giusto-per-te/" title="Leggi: È il cane giusto per te?"><div class="blog-card-thumb"><img src="/images/blog/hero-default.webp" alt="Lo Staffordshire Bull Terrier è il cane giusto per te" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">1 Ago 2026</span><span>•</span><span class="cat">Famiglia</span></div>
+  <h3><a href="/staffordshire-bull-terrier-e-il-cane-giusto-per-te/" title="Leggi: È il cane giusto per te?">Lo Staffordshire Bull Terrier è il cane giusto per te? Pro e contro</a></h3>
+  <p>Pro e contro onesti, a chi è adatto e a chi no, impegno e costi reali prima di scegliere.</p>
+  <a class="read" href="/staffordshire-bull-terrier-e-il-cane-giusto-per-te/" title="Leggi articolo completo">Leggi →</a>
+  </div>
+  </article>
+
   <article class="blog-card">
   <a href="/famiglia-bambini-convivenza/" title="Leggi: Convivenza con bambini"><div class="blog-card-thumb"><img src="/images/blog/famiglia-1.webp" alt="Convivenza con bambini" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
