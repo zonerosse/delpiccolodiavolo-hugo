@@ -40,6 +40,21 @@ custom_content: |
   </div>
   </div>
 
+  <!-- Annuncio Cucciolata Bilquis -->
+  <section class="section" style="background:linear-gradient(135deg,rgba(201,162,39,0.10),rgba(92,74,58,0.05));">
+  <div class="section-inner">
+  <div style="max-width:900px;margin:0 auto;display:flex;flex-wrap:wrap;align-items:center;gap:1.8rem;background:#fff;border:2px solid #c9a227;border-radius:18px;box-shadow:0 14px 45px rgba(0,0,0,0.12);padding:1.5rem;">
+  <img src="/images/cuccioli-bilquis-nati-1.webp" alt="Cuccioli Staffordshire Bull Terrier neri appena nati - Bilquis x Black Jack" width="435" height="480" loading="lazy" decoding="async" style="width:260px;max-width:100%;height:auto;border-radius:14px;flex-shrink:0;">
+  <div style="flex:1;min-width:260px;">
+  <span style="display:inline-block;background:#c9a227;color:#1a1a1a;font-weight:700;text-transform:uppercase;letter-spacing:0.05em;font-size:0.8rem;padding:0.35rem 0.9rem;border-radius:20px;margin-bottom:0.7rem;">🎉 Sono nati!</span>
+  <h2 style="margin:0.2rem 0 0.5rem;color:#5c4a3a;font-size:1.6rem;line-height:1.25;">8 cuccioli — 4 maschi e 4 femmine</h2>
+  <p style="margin:0 0 1.1rem;color:#4a3f35;line-height:1.6;">È nata la cucciolata <strong>Bilquis × Black Jack</strong>: 8 splendidi cuccioli neri, allevati in famiglia con pedigree ENCI. Prenotazioni aperte per la lista d'attesa.</p>
+  <a href="/diario-allevamento/cucciolata-bilquis-agosto-2026/" class="btn btn-primary" title="Scopri la cucciolata di Bilquis">Scopri la cucciolata →</a>
+  </div>
+  </div>
+  </div>
+  </section>
+
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Il Nostro Programma</span>
@@ -73,10 +88,10 @@ custom_content: |
 
   <p style="text-align:center;margin-bottom:2rem">Ogni accoppiamento è studiato per consolidare le caratteristiche morfologiche desiderate, migliorare il temperamento e preservare la salute genetica. Gli obiettivi vengono definiti analizzando pedigree, risultati espositivi e test genetici di entrambi i genitori.</p>
 
-  <!-- Cucciolata: Bilquis × Black Jack - PROGRAMMATA -->
+  <!-- Cucciolata: Bilquis × Black Jack - NATA -->
   <article class="litter-card">
   <div class="litter-header">
-  <h3 class="litter-title">Cucciolata programmata — attesa per agosto 2026</h3>
+  <h3 class="litter-title">Cucciolata nata il 1° agosto 2026 — 8 cuccioli (4 maschi, 4 femmine)</h3>
   <span class="badge" style="background:#c9a227;color:#1a1a1a">In arrivo</span>
   </div>
 
@@ -109,7 +124,7 @@ custom_content: |
   </div>
   </div>
 
-  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Accoppiamento programmato per unire la morfologia da Campionessa di Bilquis (Campionessa Italiana, 4ª al World Dog Show 2024) alle linee di Black Jack, figlio del Campione del Mondo 2023 Quash Marvelous Hagler de Stafflorence. Parto previsto per i primi di agosto 2026 — prenotazioni aperte per la lista d'attesa.</p>
+  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Accoppiamento programmato per unire la morfologia da Campionessa di Bilquis (Campionessa Italiana, 4ª al World Dog Show 2024) alle linee di Black Jack, figlio del Campione del Mondo 2023 Quash Marvelous Hagler de Stafflorence. Nati il 1° agosto 2026: 8 cuccioli neri (4 maschi e 4 femmine). Prenotazioni aperte per la lista d'attesa.</p>
 
   <p class="pedigree-link">Pedigree della cucciolata: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" title="Vedi pedigree cucciolata Bilquis x Black Jack">vedi su SBTPedigree</a></p>
   </article>
