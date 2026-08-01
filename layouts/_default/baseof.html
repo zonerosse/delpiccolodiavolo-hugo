@@ -16,7 +16,7 @@
   {{ with .Params.hero_image }}
   <link rel="preload" as="image" href="{{ . }}" type="image/avif">
   {{ else }}
-  <link rel="preload" as="image" href="/images/tikus-bologna-800.avif" type="image/avif">
+  <link rel="preload" as="image" href="/images/femmina-bilquis-hero.avif" type="image/avif">
   {{ end }}
 
   {{/* Favicons - Google richiede minimo 48x48 per i risultati di ricerca */}}
@@ -54,7 +54,7 @@
   <meta property="og:title" content="{{ .Title }}">
   <meta property="og:description" content="{{ .Description | default .Site.Params.description }}">
   <meta property="og:url" content="{{ .Permalink }}">
-  <meta property="og:image" content="{{ .Params.og_image | default "/images/tikus-bologna.avif" | absURL }}">
+  <meta property="og:image" content="{{ .Params.og_image | default "/images/femmina-bilquis-hero.avif" | absURL }}">
   {{ if .IsHome }}
   <meta property="og:updated_time" content="{{ now.Format "2006-01-02" }}">
   {{ end }}
@@ -63,7 +63,7 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ .Title }}">
   <meta name="twitter:description" content="{{ .Description | default .Site.Params.description }}">
-  <meta name="twitter:image" content="{{ .Params.og_image | default "/images/tikus-bologna.avif" | absURL }}">
+  <meta name="twitter:image" content="{{ .Params.og_image | default "/images/femmina-bilquis-hero.avif" | absURL }}">
 
   {{ with .Params.json_ld }}
   <script type="application/ld+json">{{ . | safeJS }}</script>
