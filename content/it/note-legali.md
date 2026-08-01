@@ -76,6 +76,8 @@ custom_content: |
   <li>Danni diretti o indiretti derivanti dall'utilizzo delle informazioni</li>
   <li>Collegamenti a siti web esterni (non abbiamo controllo sui contenuti di terze parti)</li>
   </ul>
+  <p><strong>Responsabilità sul cane dopo la consegna:</strong> dal momento della consegna del cucciolo, la cura, il mantenimento, l'educazione, la custodia e la sorveglianza del cane sono di esclusiva responsabilità del proprietario.</p>
+  <p>In particolare, il cane non deve mai essere lasciato senza la supervisione di un adulto in presenza di bambini piccoli. L'Allevamento Del Piccolo Diavolo non si assume alcuna responsabilità per danni a persone, animali o cose, né per lesioni o incidenti, causati dal cane o occorsi al cane, successivamente alla consegna al proprietario.</p>
   </div>
   
   <div class="legal-section">
