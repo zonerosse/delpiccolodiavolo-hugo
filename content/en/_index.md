@@ -42,6 +42,8 @@ custom_content: |
   </div>
   </div>
   
+  <!--NEWS-->
+
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Our Puppies</span>
