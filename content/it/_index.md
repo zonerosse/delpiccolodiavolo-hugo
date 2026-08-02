@@ -46,7 +46,7 @@ custom_content: |
 
   <section class="section">
   <div class="section-inner">
-  <h2 class="section-title">Selezione responsabile dal 2013</h2>
+  <h2 class="section-title">Selezione responsabile di Staffordshire Bull Terrier dal 2013</h2>
   <div class="intro-block" style="max-width:800px;text-align:left">
   <p>Del Piccolo Diavolo è un allevamento di Staffordshire Bull Terrier attivo dal 2013.</p>
   <p>Da oltre dieci anni selezioniamo Staffordshire Bull Terrier seguendo criteri rigorosi di salute, morfologia e temperamento. Lavoriamo con le migliori linee di sangue inglesi e irlandesi, producendo soggetti che si distinguono nei ring italiani e internazionali.</p>
@@ -64,12 +64,12 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Selezione</span>
-  <h2 class="section-title">Il nostro metodo di allevamento</h2>
+  <h2 class="section-title">Il nostro metodo di allevamento e selezione dei cuccioli</h2>
 
   <div class="gallery-grid">
-  <div class="gallery-item"><img src="/images/foto1.avif" alt="Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/foto2.avif" alt="Staffordshire Bull Terrier in posa" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/foto4.avif" alt="Staffordshire Bull Terrier socializzato" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/foto1.avif" alt="Cucciolo di Staffy nero appena nato tenuto in braccio" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/foto2.avif" alt="Piccolo Staffy nero con macchia bianca sul petto" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/foto4.avif" alt="Cucciolo nero di pochi giorni dell'allevamento Del Piccolo Diavolo" loading="lazy" decoding="async" width="300" height="400"></div>
   </div>
 
   <div class="review-card">
@@ -91,7 +91,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Risultati in Esposizione</span>
-  <h2 class="section-title">Risultati, esposizioni e riconoscimenti</h2>
+  <h2 class="section-title">Risultati in esposizione dei nostri Staffy</h2>
 
   <p style="text-align:center;margin-bottom:2rem">La selezione Del Piccolo Diavolo non si ferma all'estetica: i nostri risultati sui ring italiani e internazionali testimoniano anni di lavoro su salute, tipicità e carattere.</p>
 
@@ -129,7 +129,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Chi Siamo</span>
-  <h2 class="section-title">Come crescono i nostri cuccioli</h2>
+  <h2 class="section-title">La nostra storia e come crescono i cuccioli</h2>
 
   <p style="text-align:center;margin-bottom:2rem;font-size:1.1rem;color:#5c4a3a;font-weight:600">Allevamento con pedigree ENCI dal 2013 • Oltre 100 soggetti ceduti in Italia e Europa • 3 Campioni Italiani • 4° al World Dog Show</p>
 
@@ -137,7 +137,7 @@ custom_content: |
   <div>
   <div class="content-block">
   <p style="font-size:.8rem;color:#8b5a2b;font-weight:600;letter-spacing:.08em;text-transform:uppercase;margin-bottom:.5rem">Paolo Boldrini — Allevatore dal 2013</p>
-  <h3>Un progetto diventato passione</h3>
+  <h3>Il mio percorso con lo Staffordshire Bull Terrier</h3>
   <p>Il mio primo Staffordshire Bull Terrier è arrivato in un momento speciale. Da quel giorno ho studiato, viaggiato, conosciuto altri allevatori e vissuto ogni giorno con questi cani straordinari. Ogni scelta nasce dall'esperienza e dal desiderio di offrire il meglio.</p>
   </div>
   </div>
@@ -153,23 +153,24 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Il Nostro Approccio</span>
+  <h2 class="section-title">Perché scegliere l'allevamento Del Piccolo Diavolo</h2>
 
   <div class="content-block">
-  <h3>Perché scegliere Del Piccolo Diavolo</h3>
+  <h3>Non sei un numero</h3>
   <p>Perché qui non sei un numero. Ti raccontiamo tutto sui genitori, ti accogliamo in casa, ti accompagniamo anche dopo l'adozione. Se vuoi, puoi scegliere il nome insieme a noi.</p>
   </div>
 
   <div class="image-center">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis Del Piccolo Diavolo, femmina Staffordshire Bull Terrier" loading="lazy" decoding="async" width="350" height="440">
+  <img src="/images/femmina-bilquis.webp" alt="Bilquis in posizione da esposizione sul ring, femmina nera dell'allevamento" loading="lazy" decoding="async" width="350" height="440">
   </div>
 
   <div class="content-block">
-  <h3>La salute prima di tutto</h3>
+  <h3>La salute dei nostri cuccioli prima di tutto</h3>
   <p>Ogni soggetto è seguito da veterinari di fiducia, con controlli regolari e test genetici. Preferiamo poche cucciolate, seguite con attenzione, per garantire qualità e benessere.</p>
   </div>
 
   <div class="content-block">
-  <h3>Un compagno vero</h3>
+  <h3>Lo Staffy, un compagno vero</h3>
   <p>Lo Staffy è forte, affettuoso, giocherellone. Ama i bambini e si lega profondamente alla famiglia. Se cerchi un amico sincero, che ti segua ovunque e ti faccia sorridere ogni giorno, sei nel posto giusto.</p>
   </div>
   </div>
@@ -253,12 +254,12 @@ custom_content: |
   </section>
 
   <section class="dark-section">
-  <h2>La Mia Passione</h2>
+  <h2>Come è nata la mia passione per la razza</h2>
   <p>La passione per lo Staffordshire Bull Terrier nasce nel 2005, anno in cui ho avuto il mio primo incontro con questa straordinaria razza durante il Crufts. Sono rimasto subito affascinato da questi cani muscolosi e affettuosi, che mi hanno conquistato come veri Rottweiler in miniatura. Avendo già esperienza con i Rottweiler, ho scoperto un mondo nuovo: fatto di determinazione, intelligenza e amore incondizionato.</p>
   </section>
 
   <section class="cta-section">
-  <h2>Vuoi Informazioni?</h2>
+  <h2>Vuoi informazioni sui nostri cuccioli?</h2>
   <p>Chiamaci per una chiacchierata senza impegno. Siamo qui per rispondere a tutte le tue domande.</p>
   <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20ti%20scrivo%20dal%20sito%20Del%20Piccolo%20Diavolo" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Scrivici su WhatsApp" aria-label="Contattaci su WhatsApp per informazioni">Scrivici su WhatsApp</a>
   </section>
