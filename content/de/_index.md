@@ -50,9 +50,9 @@ custom_content: |
   <h2 class="section-title">Staffordshire Bull Terrier Welpen</h2>
   
   <div class="gallery-grid">
-  <div class="gallery-item"><img src="/images/foto1.avif" alt="Staffordshire Bull Terrier Welpe aus der Zucht Del Piccolo Diavolo" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/foto2.avif" alt="Staffordshire Bull Terrier Welpe posiert" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/foto4.avif" alt="Sozialisierter Staffordshire Bull Terrier Welpe" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/foto1.avif" alt="Schwarzer Staffy-Welpe, gerade geboren, auf dem Arm gehalten" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/foto2.avif" alt="Kleiner schwarzer Staffy-Welpe mit weißem Fleck auf der Brust" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/foto4.avif" alt="Schwarzer Welpe, wenige Tage alt, aus der Zucht Del Piccolo Diavolo" loading="lazy" decoding="async" width="300" height="400"></div>
   </div>
   
   <div class="review-card">
@@ -70,7 +70,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Ausstellungserfolge</span>
-  <h2 class="section-title">Unsere Erfolge</h2>
+  <h2 class="section-title">Unsere Champions und Erfolge</h2>
   
   <p style="text-align:center;margin-bottom:2rem">Die Selektion von Del Piccolo Diavolo geht uber Asthetik hinaus: Unsere Ergebnisse auf italienischen und internationalen Ringen zeugen von jahrelanger Arbeit an Gesundheit, Typ und Charakter.</p>
   
@@ -108,7 +108,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Über Uns</span>
-  <h2 class="section-title">Unsere Geschichte</h2>
+  <h2 class="section-title">Unsere Geschichte und unser Zuchtalltag</h2>
   
   <div class="storia-grid">
   <div>
@@ -137,7 +137,7 @@ custom_content: |
   </div>
   
   <div class="image-center">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis Del Piccolo Diavolo, Staffordshire Bull Terrier Hündin" loading="lazy" decoding="async" width="350" height="440">
+  <img src="/images/femmina-bilquis.webp" alt="Bilquis in Ausstellungsstellung im Ring, schwarze Hündin unserer Zucht" loading="lazy" decoding="async" width="350" height="440">
   </div>
   
   <div class="content-block">
@@ -146,7 +146,7 @@ custom_content: |
   </div>
   
   <div class="content-block">
-  <h3>Ein wahrer Begleiter</h3>
+  <h3>Der Staffy: ein wahrer Begleiter</h3>
   <p>Der Staffy ist stark, liebevoll, verspielt. Er liebt Kinder und bindet sich tief an die Familie. Wenn Sie einen aufrichtigen Freund suchen, der Ihnen überall folgt und Sie jeden Tag zum Lächeln bringt, sind Sie hier richtig.</p>
   </div>
   </div>

@@ -50,9 +50,9 @@ custom_content: |
   <h2 class="section-title">Staffordshire Bull Terrier Puppies</h2>
   
   <div class="gallery-grid">
-  <div class="gallery-item"><img src="/images/foto1.avif" alt="Staffordshire Bull Terrier puppy from Del Piccolo Diavolo kennel" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/foto2.avif" alt="Staffordshire Bull Terrier puppy posing" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/foto4.avif" alt="Socialized Staffordshire Bull Terrier puppy" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/foto1.avif" alt="Black Staffy puppy just born, held in hands" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/foto2.avif" alt="Little black Staffy puppy with a white chest marking" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/foto4.avif" alt="Black puppy a few days old from Del Piccolo Diavolo kennel" loading="lazy" decoding="async" width="300" height="400"></div>
   </div>
   
   <div class="review-card">
@@ -70,7 +70,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Show Results</span>
-  <h2 class="section-title">Our Achievements</h2>
+  <h2 class="section-title">Our Champions and Show Results</h2>
   
   <p style="text-align:center;margin-bottom:2rem">Del Piccolo Diavolo selection goes beyond aesthetics: our results in Italian and international rings testify years of work on health, type and character.</p>
   
@@ -108,7 +108,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">About Us</span>
-  <h2 class="section-title">Our Story</h2>
+  <h2 class="section-title">Our Story and Kennel Life</h2>
   
   <div class="storia-grid">
   <div>
@@ -137,7 +137,7 @@ custom_content: |
   </div>
   
   <div class="image-center">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis Del Piccolo Diavolo, female Staffordshire Bull Terrier" loading="lazy" decoding="async" width="350" height="440">
+  <img src="/images/femmina-bilquis.webp" alt="Bilquis stacked in show pose in the ring, black female from our kennel" loading="lazy" decoding="async" width="350" height="440">
   </div>
   
   <div class="content-block">
@@ -146,7 +146,7 @@ custom_content: |
   </div>
   
   <div class="content-block">
-  <h3>A true companion</h3>
+  <h3>The Staffy: a true companion</h3>
   <p>The Staffy is strong, affectionate, playful. He loves children and bonds deeply with the family. If you're looking for a sincere friend who follows you everywhere and makes you smile every day, you're in the right place.</p>
   </div>
   </div>
