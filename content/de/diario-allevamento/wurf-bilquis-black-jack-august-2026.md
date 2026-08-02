@@ -4,6 +4,7 @@ description: "Geboren am 1. August 2026: 8 Staffordshire Bull Terrier Welpen (4 
 slug: "wurf-bilquis-black-jack-august-2026"
 date: 2026-08-01
 image: "/images/cuccioli-bilquis-nati-1.webp"
+image_alt: "Neugeborene schwarze Staffordshire Bull Terrier Welpen aus dem Wurf von Bilquis"
 annuncio: "🎉 Sie sind da! 8 Welpen — 4 Rüden und 4 Hündinnen"
 ---
 

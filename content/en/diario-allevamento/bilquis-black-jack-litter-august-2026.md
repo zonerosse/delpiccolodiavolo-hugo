@@ -4,6 +4,7 @@ description: "Born August 1, 2026: 8 Staffordshire Bull Terrier puppies (4 males
 slug: "bilquis-black-jack-litter-august-2026"
 date: 2026-08-01
 image: "/images/cuccioli-bilquis-nati-1.webp"
+image_alt: "Newborn black Staffordshire Bull Terrier puppies from Bilquis' litter"
 annuncio: "🎉 They're born! 8 puppies — 4 males and 4 females"
 ---
 
