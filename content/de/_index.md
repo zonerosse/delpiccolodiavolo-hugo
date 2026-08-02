@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Zucht"
-description: "Ethische Staffordshire Bull Terrier Zucht. Gesunde, ausgeglichene Welpen mit Stammbaum, mit Leidenschaft und Sorgfalt aufgezogen. Entdecken Sie uns."
+description: "Ethische Staffordshire Bull Terrier Zucht. Gesunde Welpen mit Stammbaum, mit Leidenschaft und Sorgfalt aufgezogen. Entdecken Sie uns."
 slug: ""
 custom_content: |
   <section class="hero">
