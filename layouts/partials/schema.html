@@ -53,6 +53,7 @@
   ],
   "founder": {
     "@type": "Person",
+    "@id": "{{ $baseURL }}/#paolo-boldrini",
     "name": "Paolo Boldrini",
     "jobTitle": "{{ if eq $lang "de" }}Staffordshire Bull Terrier Züchter{{ else if eq $lang "en" }}Staffordshire Bull Terrier Breeder{{ else }}Allevatore Staffordshire Bull Terrier{{ end }}",
     "knowsAbout": [
@@ -254,6 +255,7 @@
   "image": "{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ $baseURL }}/images/femmina-bilquis-hero.avif{{ end }}",
   "author": {
     "@type": "Person",
+    "@id": "{{ $baseURL }}/#paolo-boldrini",
     "name": "Paolo Boldrini",
     "url": "{{ $baseURL }}/chi-siamo/",
     "jobTitle": "{{ if eq $lang "de" }}Staffordshire Bull Terrier Züchter{{ else if eq $lang "en" }}Staffordshire Bull Terrier Breeder{{ else }}Allevatore Staffordshire Bull Terrier{{ end }}",
