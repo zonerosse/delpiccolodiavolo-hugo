@@ -12,7 +12,7 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">⭐ 4.9/5 su Google</span>
   <h1 class="hero-title">Recensioni<br><em>Allevamento Staffordshire</em><br>Bull Terrier</h1>
-  <p class="hero-subtitle">36 testimonianze verificate</p>
+  <p class="hero-subtitle">37 testimonianze verificate</p>
   <p class="hero-description">Le esperienze reali dei proprietari dei nostri Staffordshire Bull Terrier: professionalità, salute e carattere equilibrato garantiti.</p>
   <div class="hero-actions">
   <a href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" class="btn btn-primary" title="Leggi le recensioni su Google">Leggi su Google</a>
@@ -23,8 +23,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Dal 2013</span><span>4.9★ Google</span><span>36 Recensioni</span><span>100% Verificate</span><span>Supporto a Vita</span><span>Clienti Soddisfatti</span>
-  <span>Dal 2013</span><span>4.9★ Google</span><span>36 Recensioni</span><span>100% Verificate</span><span>Supporto a Vita</span><span>Clienti Soddisfatti</span>
+  <span>Dal 2013</span><span>4.9★ Google</span><span>37 Recensioni</span><span>100% Verificate</span><span>Supporto a Vita</span><span>Clienti Soddisfatti</span>
+  <span>Dal 2013</span><span>4.9★ Google</span><span>37 Recensioni</span><span>100% Verificate</span><span>Supporto a Vita</span><span>Clienti Soddisfatti</span>
   </div>
   </div>
 
