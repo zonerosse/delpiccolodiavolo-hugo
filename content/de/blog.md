@@ -137,7 +137,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Kategorie</span>
-  <h2 class="section-title">Standard und Blutlinien <span class="count">(4)</span></h2>
+  <h2 class="section-title">Standard und Blutlinien <span class="count">(5)</span></h2>
   
   <div class="blog-grid">
   <article class="blog-card">
@@ -177,6 +177,16 @@ custom_content: |
   <h3><a href="/de/blutlinien-waehlen/" title="Lesen: Wie man sich bei Blutlinien orientiert">Blutlinien: Wie man sich orientiert</a></h3>
   <p>Informierte Wahl zwischen Genealogien und Zielen.</p>
   <a class="read" href="/de/blutlinien-waehlen/" title="Vollständigen Artikel lesen">Lesen →</a>
+  </div>
+  </article>
+  
+  <article class="blog-card">
+  <a href="/de/staffordshire-bull-terrier-farben/" title="Lesen: Farben des Staffordshire Bull Terrier"><div class="blog-card-thumb"><img src="/images/blog/hero-default.webp" alt="Farben des Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">Aug 2026</span><span>•</span><span class="cat">Standard</span></div>
+  <h3><a href="/de/staffordshire-bull-terrier-farben/" title="Lesen: Farben des Staffordshire Bull Terrier">Farben des Staffordshire Bull Terrier</a></h3>
+  <p>Vom Standard erlaubte Farben: Schwarz, Gestromt, Falb, Blau und Pied.</p>
+  <a class="read" href="/de/staffordshire-bull-terrier-farben/" title="Vollständigen Artikel lesen">Lesen →</a>
   </div>
   </article>
   </div>
@@ -247,7 +257,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Kategorie</span>
-  <h2 class="section-title">Familie und Zusammenleben <span class="count">(5)</span></h2>
+  <h2 class="section-title">Familie und Zusammenleben <span class="count">(6)</span></h2>
   
   <div class="blog-grid">
   <article class="blog-card">
@@ -297,6 +307,16 @@ custom_content: |
   <h3><a href="/de/staffordshire-bull-terrier-charakter-familienleben/" title="Lesen: Charakter und Familienleben">Staffordshire Bull Terrier: Charakter, Familienleben und Was Sie Erwarten Können</a></h3>
   <p>Zwanzig Jahre direkte Erfahrung. Vor- und Nachteile und was Sie wirklich von einem Staffy erwarten können.</p>
   <a class="read" href="/de/staffordshire-bull-terrier-charakter-familienleben/" title="Vollständigen Artikel lesen">Lesen →</a>
+  </div>
+  </article>
+  
+  <article class="blog-card">
+  <a href="/de/ist-der-staffordshire-bull-terrier-der-richtige-hund/" title="Lesen: Ist der Staffy der richtige Hund?"><div class="blog-card-thumb"><img src="/images/blog/hero-default.webp" alt="Ist der Staffordshire Bull Terrier der richtige Hund" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">Aug 2026</span><span>•</span><span class="cat">Familie</span></div>
+  <h3><a href="/de/ist-der-staffordshire-bull-terrier-der-richtige-hund/" title="Lesen: Ist der Staffy der richtige Hund?">Ist der Staffordshire Bull Terrier der richtige Hund?</a></h3>
+  <p>Ehrliche Vor- und Nachteile der Rasse und für wen sie wirklich geeignet ist.</p>
+  <a class="read" href="/de/ist-der-staffordshire-bull-terrier-der-richtige-hund/" title="Vollständigen Artikel lesen">Lesen →</a>
   </div>
   </article>
   </div>
