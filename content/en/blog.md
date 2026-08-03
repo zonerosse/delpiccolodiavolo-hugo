@@ -137,7 +137,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Category</span>
-  <h2 class="section-title">Standard and Bloodlines <span class="count">(4)</span></h2>
+  <h2 class="section-title">Standard and Bloodlines <span class="count">(5)</span></h2>
   
   <div class="blog-grid">
   <article class="blog-card">
@@ -177,6 +177,16 @@ custom_content: |
   <h3><a href="/en/choosing-bloodlines/" title="Read: How to navigate bloodlines">Bloodlines: how to navigate</a></h3>
   <p>Informed choice between genealogies and goals.</p>
   <a class="read" href="/en/choosing-bloodlines/" title="Read full article">Read →</a>
+  </div>
+  </article>
+  
+  <article class="blog-card">
+  <a href="/en/staffordshire-bull-terrier-colours/" title="Read: Staffordshire Bull Terrier colours"><div class="blog-card-thumb"><img src="/images/blog/hero-default.webp" alt="Staffordshire Bull Terrier colours" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">Aug 2026</span><span>•</span><span class="cat">Standard</span></div>
+  <h3><a href="/en/staffordshire-bull-terrier-colours/" title="Read: Staffordshire Bull Terrier colours">Staffordshire Bull Terrier Colours</a></h3>
+  <p>Colours allowed by the standard: black, brindle, fawn, blue and pied.</p>
+  <a class="read" href="/en/staffordshire-bull-terrier-colours/" title="Read full article">Read →</a>
   </div>
   </article>
   </div>
@@ -247,7 +257,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Category</span>
-  <h2 class="section-title">Family and Cohabitation <span class="count">(5)</span></h2>
+  <h2 class="section-title">Family and Cohabitation <span class="count">(6)</span></h2>
   
   <div class="blog-grid">
   <article class="blog-card">
@@ -297,6 +307,16 @@ custom_content: |
   <h3><a href="/en/staffordshire-bull-terrier-character-family-life/" title="Read: Character and family life">Staffordshire Bull Terrier: Character, Family Life and What to Expect</a></h3>
   <p>Twenty years of direct experience. Pros, cons and what to really expect from a Staffy.</p>
   <a class="read" href="/en/staffordshire-bull-terrier-character-family-life/" title="Read full article">Read →</a>
+  </div>
+  </article>
+  
+  <article class="blog-card">
+  <a href="/en/is-the-staffordshire-bull-terrier-right-for-you/" title="Read: Is the Staffy right for you?"><div class="blog-card-thumb"><img src="/images/blog/hero-default.webp" alt="Is the Staffordshire Bull Terrier right for you" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">Aug 2026</span><span>•</span><span class="cat">Family</span></div>
+  <h3><a href="/en/is-the-staffordshire-bull-terrier-right-for-you/" title="Read: Is the Staffy right for you?">Is the Staffordshire Bull Terrier right for you?</a></h3>
+  <p>Honest pros and cons of the breed and who it really suits.</p>
+  <a class="read" href="/en/is-the-staffordshire-bull-terrier-right-for-you/" title="Read full article">Read →</a>
   </div>
   </article>
   </div>
