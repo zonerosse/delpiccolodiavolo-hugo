@@ -93,3 +93,6 @@
 .tags strong{color:#5c4a3a}
 .tags a{color:#8b5a2b}
 .tags a:hover{text-decoration:underline}
+
+/* === BTN-LIGHT (pulsanti su sezioni scure) === */
+.btn-light{background:#fff;color:#5c4a3a}
