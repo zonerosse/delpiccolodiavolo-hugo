@@ -202,7 +202,7 @@ custom_content: |
 
   <div class="faq-item">
   <h4>Quanto costa un cucciolo Staffordshire Bull Terrier?</h4>
-  <p>I nostri cuccioli con pedigree ENCI e test genetici completi hanno un prezzo tra 1.400 e 2.000 euro. Per tutti i dettagli leggi <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p>
+  <p>I nostri cuccioli con pedigree ENCI e test genetici completi hanno un prezzo tra 1.200 e 1.500 euro. Per tutti i dettagli leggi <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p>
   </div>
   </div>
   </div>
