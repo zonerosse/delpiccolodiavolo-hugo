@@ -48,7 +48,7 @@ custom_content: |
   <div class="section-inner">
   <h2 class="section-title">Selezione responsabile di Staffordshire Bull Terrier dal 2013</h2>
   <div class="intro-block" style="max-width:800px;text-align:left">
-  <p>Del Piccolo Diavolo è un allevamento di Staffordshire Bull Terrier attivo dal 2013.</p>
+  <p>Del Piccolo Diavolo è un allevamento etico di Staffordshire Bull Terrier a Ostellato, in provincia di Ferrara, attivo dal 2013. Selezioniamo poche cucciolate all'anno, con test genetici completi sui riproduttori e cuccioli ceduti con pedigree ENCI, microchip e vaccinazioni, cresciuti in famiglia. In oltre dieci anni abbiamo formato Campioni Italiani e ottenuto un 4° posto al World Dog Show, seguendo ogni famiglia anche dopo l'affido.</p>
   <p>Da oltre dieci anni selezioniamo Staffordshire Bull Terrier seguendo criteri rigorosi di salute, morfologia e temperamento. Lavoriamo con le migliori linee di sangue inglesi e irlandesi, producendo soggetti che si distinguono nei ring italiani e internazionali.</p>
   <p>Il nostro allevamento ha ottenuto 3 Campioni Italiani e un 4° posto al World Dog Show. A maggio 2026 la nostra Queen of California ha conquistato il titolo di Giovane Campionessa Italiana. Tutti i nostri riproduttori sono testati per L2HGA, HC e PHPV.</p>
   <p>Non siamo un allevamento commerciale: produciamo poche cucciolate selezionate ogni anno, seguendo ogni soggetto dalla nascita all'inserimento nella nuova famiglia.</p>
@@ -154,6 +154,10 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">Il Nostro Approccio</span>
   <h2 class="section-title">Perché scegliere l'allevamento Del Piccolo Diavolo</h2>
+
+  <div class="intro-block" style="max-width:800px;text-align:left">
+  <p>Scegliere Del Piccolo Diavolo significa affidarsi a un allevamento che mette al primo posto salute, carattere e trasparenza, con un rapporto che continua anche dopo l'affido. Ecco perché le famiglie ci scelgono e ci consigliano.</p>
+  </div>
 
   <div class="content-block">
   <h3>Non sei un numero</h3>
