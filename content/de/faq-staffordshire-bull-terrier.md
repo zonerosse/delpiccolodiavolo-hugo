@@ -56,7 +56,7 @@ custom_content: |
   <span>Wie viel kostet ein Welpe mit ENCI-Stammbaum?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Ein Welpe von einer seriösen Zucht mit ENCI-Stammbaum, vollständigen Gentests und Gesundheitsgarantien kostet etwa zwischen 1.400€ und 2.000€. Der Preis spiegelt Jahre der Selektion, Kosten für Gentests (L2HGA, HC), Impfungen, Mikrochip und hochwertige Ernährung wider. Seien Sie vorsichtig bei Preisen unter 1.000€.</div>
+  <div class="faq-answer">Ein Welpe von einer seriösen Zucht mit ENCI-Stammbaum, vollständigen Gentests und Gesundheitsgarantien kostet etwa zwischen 1.200€ und 1.500€. Der Preis spiegelt Jahre der Selektion, Kosten für Gentests (L2HGA, HC), Impfungen, Mikrochip und hochwertige Ernährung wider. Seien Sie vorsichtig bei Preisen unter 1.000€.</div>
   </div>
   
   <div class="faq-item active">
@@ -122,6 +122,6 @@ custom_content: |
   <section class="dark-section">
   <h2>Haben Sie weitere Fragen?</h2>
   <p>Wir sind immer bereit, alle Fragen zum Staffordshire Bull Terrier zu beantworten.</p>
-  <a href="https://wa.me/393924635584" class="btn btn-light" title="Auf WhatsApp schreiben">Auf WhatsApp Schreiben</a>
+  <a href="https://wa.me/393924635584" class="btn btn-gold" title="Auf WhatsApp schreiben">Auf WhatsApp Schreiben</a>
   </section>
 ---

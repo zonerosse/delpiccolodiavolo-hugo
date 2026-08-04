@@ -96,7 +96,7 @@ categories: ["Cuccioli"]
 
 <h2>Quanto costa un cucciolo da allevamento serio?</h2>
 
-<p>Un cucciolo Staffordshire Bull Terrier con pedigree ENCI, test genetici completi, vaccinazioni, microchip e garanzie costa tra <strong>1.400€ e 2.000€</strong>. Per un'analisi dettagliata dei costi, leggi <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p>
+<p>Un cucciolo Staffordshire Bull Terrier con pedigree ENCI, test genetici completi, vaccinazioni, microchip e garanzie costa tra <strong>1.200€ e 1.500€</strong>. Per un'analisi dettagliata dei costi, leggi <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p>
 
 <p>Questo prezzo riflette:</p>
 <ul>
@@ -130,5 +130,5 @@ Se cerchi <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffo
 <section class="dark-section">
 <h2>Vuoi Visitare l'Allevamento?</h2>
 <p>Ricevo su appuntamento a Ostellato (Ferrara). Vieni a conoscere i nostri Staffy.</p>
-<a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20visitare%20l%27allevamento" class="btn btn-light" title="Prenota una visita">Prenota una Visita</a>
+<a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20visitare%20l%27allevamento" class="btn btn-gold" title="Prenota una visita">Prenota una Visita</a>
 </section>
