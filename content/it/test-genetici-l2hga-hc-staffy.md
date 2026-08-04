@@ -301,7 +301,7 @@ custom_content: |
   <div class="faq-item">
   <h3 class="faq-question">Quanto costano i test L2-HGA e HC?</h3>
   <div class="faq-answer">
-  <p>I costi variano da laboratorio a laboratorio, ma in genere ogni test costa tra 50€ e 80€. Molti laboratori offrono pacchetti combinati (L2-HGA + HC insieme) a prezzi scontati, intorno ai 100-130€. Considerando che un cucciolo di Staffy costa 1.500-2.500€, è un investimento minimo per l'allevatore.</p>
+  <p>I costi variano da laboratorio a laboratorio, ma in genere ogni test costa tra 50€ e 80€. Molti laboratori offrono pacchetti combinati (L2-HGA + HC insieme) a prezzi scontati, intorno ai 100-130€. Considerando che un cucciolo di Staffy costa 1.200-1.500€, è un investimento minimo per l'allevatore.</p>
   </div>
   </div>
   
