@@ -31,6 +31,9 @@ other = "Kontakt"
 [soggetti]
 other = "Hunde"
 
+[programma]
+other = "Zuchtprogramm"
+
 [privacy]
 other = "Datenschutz"
 
