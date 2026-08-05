@@ -1,7 +1,7 @@
 ---
 title: "Cuccioli Staffordshire Bull Terrier"
 translationKey: "cuccioli"
-description: "Cuccioli Staffordshire Bull Terrier con pedigree ENCI e test genetici completi. Linee Elitebull e Lackyle, allevati in famiglia dal 2005. 3 Campioni Italiani. Ostellato (FE)."
+description: "Cuccioli Staffordshire Bull Terrier con pedigree ENCI e test genetici completi. Linee Elitebull e Lackyle, allevati in famiglia dal 2013. 3 Campioni Italiani. Ostellato (FE)."
 slug: "cuccioli-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">
@@ -13,7 +13,7 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Allevamento Del Piccolo Diavolo</span>
   <h1 class="hero-title">Cuccioli<br><em>Staffordshire</em><br>Bull Terrier</h1>
-  <p class="hero-subtitle">Linee Elitebull e Lackyle - Dal 2005</p>
+  <p class="hero-subtitle">Linee Elitebull e Lackyle - Dal 2013</p>
   <p class="hero-description">I nostri cuccioli nascono e crescono in famiglia, circondati da amore e stimoli positivi. Selezioniamo per salute, carattere e tipicità, seguendo le migliori linee di sangue inglesi e irlandesi.</p>
   <div class="hero-actions">
   <a href="/programma-allevamento/" class="btn btn-primary" title="Vedi il programma di selezione">Programma Selezione</a>
@@ -255,13 +255,13 @@ custom_content: |
 
   <section class="dark-section">
   <h2>La Nostra Passione</h2>
-  <p>Dal 2005 selezioniamo Staffordshire Bull Terrier con dedizione e amore. Ogni cucciolo che nasce nel nostro allevamento porta con sé anni di esperienza, studio e passione per questa razza straordinaria.</p>
+  <p>Dal 2013 selezioniamo Staffordshire Bull Terrier con dedizione e amore. Ogni cucciolo che nasce nel nostro allevamento porta con sé anni di esperienza, studio e passione per questa razza straordinaria.</p>
   </section>
 
   <section class="cta-section">
   <h2>Vuoi Saperne di Più?</h2>
   <p>Per conoscere il nostro metodo di lavoro e le cucciolate pianificate:</p>
   <a href="/programma-allevamento/" class="btn" style="min-height:44px;padding:1rem 1.8rem;margin-right:1rem;margin-bottom:1rem" title="Vedi il programma di selezione">Programma di Allevamento</a>
-  <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sui%20cuccioli%20di%20Staffordshire%20Bull%20Terrier" class="btn" style="min-height:44px;padding:1rem 1.8rem;background:#25d366;margin-bottom:1rem" title="Scrivici su WhatsApp" aria-label="Contattaci su WhatsApp per informazioni sui cuccioli">Scrivici su WhatsApp</a>
+  <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sui%20cuccioli%20di%20Staffordshire%20Bull%20Terrier" class="btn" style="min-height:44px;padding:1rem 1.8rem;margin-bottom:1rem" title="Scrivici su WhatsApp" aria-label="Contattaci su WhatsApp per informazioni sui cuccioli">Scrivici su WhatsApp</a>
   </section>
 ---
