@@ -110,13 +110,9 @@ custom_content: |
   <span class="section-label">About Us</span>
   <h2 class="section-title">Our Story and Kennel Life</h2>
   
-  <div class="storia-grid">
-  <div>
   <div class="content-block">
   <h3>A project that became a Kennel</h3>
   <p>My first Staffordshire Bull Terrier arrived at a special moment. From that day I studied, traveled, met other breeders and lived every day with these extraordinary dogs. Every choice comes from experience and the desire to offer the best.</p>
-  </div>
-  </div>
   </div>
   
   <div class="content-block">
