@@ -1,16 +1,16 @@
 ---
 title: "È nata la cucciolata: Bilquis Goddess Diabhal × Black Jack Di Casa Giacalone — 8 cuccioli (agosto 2026)"
-description: "Nati il 1° agosto 2026: 8 cuccioli Staffordshire Bull Terrier (4 maschi, 4 femmine) all'allevamento Del Piccolo Diavolo. Madre Bilquis Goddess Diabhal (Campionessa Italiana ENCI, 4ª al World Dog Show 2024), padre Black Jack Di Casa Giacalone. Prenotazioni aperte."
+description: "Nati il 1° agosto 2026: 8 cuccioli Staffordshire Bull Terrier (4 maschi, 4 femmine) all'allevamento Del Piccolo Diavolo. Madre Bilquis Goddess Diabhal (Campionessa Italiana ENCI, 4ª al World Dog Show 2024), padre Black Jack Di Casa Giacalone. Cucciolata completa: tutti prenotati."
 slug: "cucciolata-bilquis-agosto-2026"
 date: 2026-08-01
 image: "/images/cuccioli-bilquis-nati-1.webp"
 image_alt: "Cuccioli di Staffordshire Bull Terrier neri della cucciolata di Bilquis"
-annuncio: "🎉 Sono nati! 8 cuccioli — 4 maschi e 4 femmine"
+annuncio: "🎉 Sono nati! 8 cuccioli — tutti prenotati"
 ---
 
 <div style="background:#c9a227;color:#1a1a1a;padding:1rem 1.5rem;border-radius:8px;margin-bottom:2rem;text-align:center">
 <strong>🎉 NATI IL 1° AGOSTO 2026 — 8 CUCCIOLI (4 MASCHI, 4 FEMMINE)</strong><br>
-Prenotazioni aperte — inserimento in lista d'attesa
+<strong>Tutti prenotati</strong> — lista d'attesa aperta per le prossime cucciolate
 </div>
 
 All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente attesa: il **1° agosto 2026** la nostra **Bilquis Goddess Diabhal** — Campionessa Italiana di Bellezza ENCI e 4ª classificata al World Dog Show di Zagabria 2024 — è diventata mamma di **8 cuccioli (4 maschi e 4 femmine)**. Un accoppiamento pianificato con cura, che unisce il pedigree di **Bilquis Goddess Diabhal**, figlia di **Skilful-Dogs Nora**, alle solide linee italiane del padre **Black Jack Di Casa Giacalone**, figlio del **Campione del Mondo 2023** Quash Marvelous Hagler de Stafflorence.
@@ -63,7 +63,7 @@ All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente a
 
 **Colore:** tutti neri
 
-**Disponibilità:** prenotazioni aperte. Contattaci per l'inserimento in lista d'attesa.
+**Disponibilità:** cucciolata completa, tutti i cuccioli sono prenotati.
 
 ## Perché questa cucciolata è speciale
 
@@ -111,8 +111,8 @@ Bilquis — Ecocardio Doppler (PDF)
 <p style="margin-top:1.5rem"><strong>Pedigree della cucciolata:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" class="sbt-link">Vedi su SBTPedigree →</a></p>
 
 
-## Vuoi un cucciolo da questa cucciolata?
+## Prossime cucciolate
 
-Se sei interessato a un cucciolo Staffordshire Bull Terrier di Bilquis, contattaci per essere inserito nella lista d'attesa. Selezioniamo con cura le famiglie a cui affidiamo i nostri cuccioli.
+Questa cucciolata è completamente prenotata. Se sei interessato a un cucciolo Staffordshire Bull Terrier del nostro allevamento, contattaci per essere inserito nella lista d'attesa per le prossime cucciolate. Selezioniamo con cura le famiglie a cui affidiamo i nostri cuccioli.
 
-<p style="margin-top:2rem"><a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20sono%20interessato%20alla%20cucciolata%20di%20Bilquis" class="btn btn-primary">Contattaci su WhatsApp →</a></p>
+<p style="margin-top:2rem"><a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20sono%20interessato%20alle%20prossime%20cucciolate" class="btn btn-primary">Contattaci su WhatsApp →</a></p>
