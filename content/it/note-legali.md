@@ -33,7 +33,7 @@ custom_content: |
   <p>Il presente sito web è di proprietà di:</p>
   <p><strong>Allevamento Del Piccolo Diavolo</strong><br>
   Titolare: Boldrini Paolo<br>
-  Indirizzo: Via A. Chierici 12, 44020 Ostellato (FE)<br>
+  Indirizzo: Via Amerigo Chierici 12, 44020 Ostellato (FE)<br>
   Email: <a href="mailto:zonerosse@gmail.com" title="Scrivici via email">zonerosse@gmail.com</a><br>
   Tel/WhatsApp: <a href="tel:+393924635584" title="Chiamaci">+39 392 4635584</a></p>
   </div>
@@ -111,6 +111,6 @@ custom_content: |
   <section class="dark-section">
   <h2>Hai Domande?</h2>
   <p>Contattaci per qualsiasi chiarimento sui termini di utilizzo o sulle nostre garanzie.</p>
-  <a href="https://wa.me/393924635584" class="btn" title="Scrivici su WhatsApp">Scrivici su WhatsApp</a>
+  <a href="https://wa.me/393924635584" class="btn btn-gold" title="Scrivici su WhatsApp">Scrivici su WhatsApp</a>
   </section>
 ---
