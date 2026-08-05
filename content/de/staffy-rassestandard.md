@@ -1,5 +1,6 @@
 ---
 title: "FCI Rassestandard Staffordshire Bull Terrier"
+translationKey: "standard"
 description: "Vollständiger FCI-Standard Nr. 76 für Staffordshire Bull Terrier: Morphologie, Größe, Gewicht, Farben, Charakter."
 slug: "staffy-rassestandard"
 custom_content: |

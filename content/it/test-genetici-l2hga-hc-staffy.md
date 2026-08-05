@@ -1,5 +1,6 @@
 ---
 title: "Test Genetici L2-HGA e HC Staffordshire Bull Terrier"
+translationKey: "test-genetici"
 description: "Guida completa ai test genetici L2-HGA e HC obbligatori per lo Staffy: cosa sono, perché sono fondamentali, come interpretare i risultati e scegliere un allevatore serio."
 slug: "test-genetici-l2hga-hc-staffy"
 custom_content: |

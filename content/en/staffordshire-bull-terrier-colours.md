@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Colours: Black, Brindle, Blue and More"
+translationKey: "colori"
 description: "Guide to Staffordshire Bull Terrier colours allowed by the standard: black, brindle, fawn, red, white and pied. Which are recognised, the diluted blue case and health. From an ENCI kennel."
 slug: "staffordshire-bull-terrier-colours"
 custom_content: |

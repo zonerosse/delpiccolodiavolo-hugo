@@ -1,5 +1,6 @@
 ---
 title: "Welpen: Erste Fütterung"
+translationKey: "alimentazione"
 description: "Erste Fütterung für Staffordshire Bull Terrier Welpen: Portionen, Mahlzeitenfrequenz, Umstellung vom Züchterfutter, Hydratation, Leckerlis und verantwortungsvolle Ergänzung."
 slug: "welpen-erste-fuetterung"
 custom_content: |

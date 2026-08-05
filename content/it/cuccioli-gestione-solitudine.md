@@ -1,5 +1,6 @@
 ---
 title: "Cuccioli: Gestione della solitudine"
+translationKey: "solitudine"
 description: "Come abituare un cucciolo di Staffordshire Bull Terrier a restare solo: routine, esercizi progressivi, prevenzione dell'ansia da separazione, ambienti sicuri e strumenti utili."
 slug: "cuccioli-gestione-solitudine"
 custom_content: |

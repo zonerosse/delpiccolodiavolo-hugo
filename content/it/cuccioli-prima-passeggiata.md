@@ -1,5 +1,6 @@
 ---
 title: "Cuccioli: Prima passeggiata"
+translationKey: "passeggiata"
 description: "Prima passeggiata del cucciolo di Staffordshire Bull Terrier: quando uscire, attrezzatura, prime esperienze sicure, regole di base e segnali da osservare."
 slug: "cuccioli-prima-passeggiata"
 custom_content: |

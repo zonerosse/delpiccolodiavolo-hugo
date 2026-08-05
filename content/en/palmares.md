@@ -1,5 +1,6 @@
 ---
 title: "Palmares - Our Show Results"
+translationKey: "palmares"
 description: "Results and titles of our Staffordshire Bull Terriers: Italian Champions, Junior Champions, Best in Show. Del Piccolo Diavolo Kennel, Italy."
 slug: "palmares"
 custom_content: |

@@ -1,5 +1,6 @@
 ---
 title: "Linee di Sangue Staffordshire Bull Terrier: Come Orientarsi"
+translationKey: "scelta-linee"
 description: "Come orientarsi tra le linee di sangue dello Staffordshire Bull Terrier: genealogie UK e irlandesi, tipicità, obiettivi (compagnia, show, sport), salute e test genetici."
 slug: "standard-linee-di-sangue-orientarsi"
 custom_content: |

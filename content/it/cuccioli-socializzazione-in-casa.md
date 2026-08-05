@@ -1,5 +1,6 @@
 ---
 title: "Cuccioli: Socializzazione in Casa"
+translationKey: "socializzazione"
 description: "Come socializzare il cucciolo in casa: rumori, superfici, manipolazioni, spazi e routine. Idee pratiche per cuccioli di Staffordshire Bull Terrier in famiglia."
 slug: "cuccioli-socializzazione-in-casa"
 custom_content: |

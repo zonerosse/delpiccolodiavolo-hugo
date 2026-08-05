@@ -1,5 +1,6 @@
 ---
 title: "Puppies: Mental Games"
+translationKey: "giochi-mentali"
 description: "Mental games for Staffordshire Bull Terrier puppies: stimulating mind and self-control with sniffing games, puzzles and enrichment activities."
 slug: "puppy-mental-games"
 custom_content: |

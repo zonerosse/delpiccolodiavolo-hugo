@@ -1,5 +1,6 @@
 ---
 title: "Blog Staffordshire Bull Terrier"
+translationKey: "blog"
 description: "Articoli su cuccioli, salute e benessere, standard e linee di sangue, famiglia e convivenza dello Staffordshire Bull Terrier. Consigli pratici dall'allevamento Del Piccolo Diavolo."
 slug: "blog"
 custom_content: |

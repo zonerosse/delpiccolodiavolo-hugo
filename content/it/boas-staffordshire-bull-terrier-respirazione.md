@@ -1,5 +1,6 @@
 ---
 title: "BOAS nello Staffordshire Bull Terrier: Perché la Respirazione È Fondamentale"
+translationKey: "boas"
 description: "Sindrome brachicefalica ostruttiva (BOAS) nello Staffy: cos'è, come riconoscerla e perché la selezione responsabile è cruciale. Guida completa per allevatori e proprietari."
 slug: "boas-staffordshire-bull-terrier-respirazione"
 custom_content: |

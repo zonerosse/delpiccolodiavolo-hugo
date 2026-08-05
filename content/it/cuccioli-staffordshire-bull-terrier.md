@@ -1,5 +1,6 @@
 ---
 title: "Cuccioli Staffordshire Bull Terrier"
+translationKey: "cuccioli"
 description: "Cuccioli Staffordshire Bull Terrier con pedigree ENCI e test genetici completi. Linee Elitebull e Lackyle, allevati in famiglia dal 2005. 3 Campioni Italiani. Ostellato (FE)."
 slug: "cuccioli-staffordshire-bull-terrier"
 custom_content: |

@@ -1,5 +1,6 @@
 ---
 title: "Differenza tra Staffordshire Bull Terrier, Pitbull e Amstaff"
+translationKey: "pitbull-amstaff"
 description: "Guida completa per distinguere Staffordshire Bull Terrier, American Pit Bull Terrier e American Staffordshire Terrier: origini, taglia, standard FCI e carattere."
 slug: "differenza-staffy-pitbull-amstaff"
 custom_content: |

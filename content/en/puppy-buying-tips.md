@@ -1,5 +1,6 @@
 ---
 title: "Puppies: Tips Before Buying"
+translationKey: "consigli-acquisto"
 description: "What to consider before buying a Staffordshire Bull Terrier puppy: questions for breeders, documents, genetic tests, pedigree, timing and real costs."
 slug: "puppy-buying-tips"
 custom_content: |

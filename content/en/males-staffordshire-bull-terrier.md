@@ -1,5 +1,6 @@
 ---
 title: "Male Staffordshire Bull Terriers"
+translationKey: "maschi"
 description: "Our male Staffordshire Bull Terriers: Lothar (Junior Italian Champion), Braveheart and Papillon. L2HGA and HC certified genetic testing."
 slug: "males-staffordshire-bull-terrier"
 custom_content: |

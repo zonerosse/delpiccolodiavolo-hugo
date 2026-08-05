@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier mit Kindern und Familie"
+translationKey: "bambini"
 description: "Leitfaden für das Zusammenleben von Staffy mit Kindern: warum er Nanny Dog genannt wird, Sicherheitstipps, Einführung in die Familie."
 slug: "staffy-kinder-familie"
 custom_content: |

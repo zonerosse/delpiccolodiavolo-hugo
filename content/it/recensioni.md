@@ -1,5 +1,6 @@
 ---
 title: "Recensioni Staffordshire Bull Terrier"
+translationKey: "recensioni"
 description: "⭐ 37 recensioni Google 4.9/5: leggi le esperienze reali dei proprietari dei nostri Staffordshire Bull Terrier. Professionalità, salute e carattere equilibrato garantiti."
 slug: "recensioni"
 custom_content: |

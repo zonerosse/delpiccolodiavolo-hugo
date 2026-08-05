@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Puppies"
+translationKey: "cuccioli"
 description: "Staffordshire Bull Terrier puppies raised at home: health and character selection, ENCI pedigree, Elitebull and Lackyle bloodlines. Ostellato (FE), Italy. Since 2013."
 slug: "puppies-staffordshire-bull-terrier"
 custom_content: |

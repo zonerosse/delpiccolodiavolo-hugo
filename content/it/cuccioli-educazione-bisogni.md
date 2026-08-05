@@ -1,5 +1,6 @@
 ---
 title: "Cuccioli: Educazione ai bisogni"
+translationKey: "bisogni"
 description: "Educazione ai bisogni per cuccioli di Staffordshire Bull Terrier: routine, uscite, rinforzo positivo, gestione degli incidenti e progressione in casa e fuori."
 slug: "cuccioli-educazione-bisogni"
 custom_content: |

@@ -1,5 +1,6 @@
 ---
 title: "Welpen: Denkspiele"
+translationKey: "giochi-mentali"
 description: "Denkspiele für Staffordshire Bull Terrier Welpen: Geist und Selbstkontrolle stimulieren mit Schnüffelspielen, Puzzles und Beschäftigungsaktivitäten."
 slug: "welpen-denkspiele"
 custom_content: |

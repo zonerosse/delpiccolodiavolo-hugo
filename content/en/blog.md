@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Blog - Articles & Guides"
+translationKey: "blog"
 description: "Articles about puppies, health and wellness, breed standard and bloodlines, family and cohabitation of the Staffordshire Bull Terrier. Practical advice from Del Piccolo Diavolo kennel."
 slug: "blog"
 custom_content: |

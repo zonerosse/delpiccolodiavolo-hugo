@@ -1,5 +1,6 @@
 ---
 title: "Safe Exercise for Staffordshire Bull Terrier"
+translationKey: "esercizio"
 description: "Guide to safe and appropriate exercise for Staffy: daily activity, avoiding injuries, exercise for puppies and adults, fun activities."
 slug: "staffy-safe-exercise"
 custom_content: |

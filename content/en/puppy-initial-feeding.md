@@ -1,5 +1,6 @@
 ---
 title: "Puppies: Initial Feeding"
+translationKey: "alimentazione"
 description: "Initial feeding for Staffordshire Bull Terrier puppies: portions, meal frequency, transition from breeder's food, hydration, treats and responsible supplementation."
 slug: "puppy-initial-feeding"
 custom_content: |

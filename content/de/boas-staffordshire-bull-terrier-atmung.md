@@ -1,5 +1,6 @@
 ---
 title: "BOAS beim Staffordshire Bull Terrier: Warum die Atmung entscheidend ist"
+translationKey: "boas"
 description: "Brachyzephales Obstruktives Atemwegssyndrom (BOAS) beim Staffy: Was es ist, wie man es erkennt und warum verantwortungsvolle Zucht entscheidend ist. Vollständiger Leitfaden für Züchter und Besitzer."
 slug: "boas-staffordshire-bull-terrier-atmung"
 custom_content: |

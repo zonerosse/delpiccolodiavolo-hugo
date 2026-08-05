@@ -1,5 +1,6 @@
 ---
 title: "BOAS in Staffordshire Bull Terriers: Why Breathing Matters"
+translationKey: "boas"
 description: "Brachycephalic Obstructive Airway Syndrome (BOAS) in Staffies: what it is, how to recognize it, and why responsible breeding is crucial. Complete guide for breeders and owners."
 slug: "boas-staffordshire-bull-terrier-breathing"
 custom_content: |

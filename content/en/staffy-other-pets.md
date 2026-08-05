@@ -1,5 +1,6 @@
 ---
 title: "Staffy and Other Pets"
+translationKey: "altri-animali"
 description: "Staffordshire Bull Terriers living with other pets: cats, small animals, other dogs - cohabitation tips, introductions and realistic expectations."
 slug: "staffy-other-pets"
 custom_content: |

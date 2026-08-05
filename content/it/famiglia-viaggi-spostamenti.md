@@ -1,5 +1,6 @@
 ---
 title: "Viaggiare con Staffordshire Bull Terrier: Auto, Treno, Hotel"
+translationKey: "viaggi"
 description: "Viaggi Staffy: trasportino omologato, documenti necessari, pause ogni 2h, hotel pet-friendly, treno con cane, gestione cuccioli e consigli pratici."
 slug: "famiglia-viaggi-spostamenti"
 custom_content: |

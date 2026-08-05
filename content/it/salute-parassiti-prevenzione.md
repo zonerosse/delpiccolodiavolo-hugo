@@ -1,5 +1,6 @@
 ---
 title: "Parassiti: Prevenzione e Controllo Staffordshire Bull Terrier"
+translationKey: "parassiti"
 description: "Pulci, zecche e parassiti nei cuccioli di Staffordshire Bull Terrier: prevenzione stagionale, prodotti sicuri per età, controllo ambiente, rimozione zecche e segnali d'allarme."
 slug: "salute-parassiti-prevenzione"
 custom_content: |

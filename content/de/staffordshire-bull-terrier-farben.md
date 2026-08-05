@@ -1,5 +1,6 @@
 ---
 title: "Farben des Staffordshire Bull Terrier: Schwarz, Gestromt, Blau und mehr"
+translationKey: "colori"
 description: "Ratgeber zu den vom Standard erlaubten Farben des Staffordshire Bull Terrier: Schwarz, Gestromt (Brindle), Falb, Rot, Weiß und Pied. Welche anerkannt sind, der Fall des verdünnten Blau und die Gesundheit. Aus einer ENCI-Zucht."
 slug: "staffordshire-bull-terrier-farben"
 custom_content: |
