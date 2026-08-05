@@ -110,13 +110,9 @@ custom_content: |
   <span class="section-label">Über Uns</span>
   <h2 class="section-title">Unsere Geschichte und unser Zuchtalltag</h2>
   
-  <div class="storia-grid">
-  <div>
   <div class="content-block">
   <h3>Ein Projekt, das zur Zucht wurde</h3>
   <p>Mein erster Staffordshire Bull Terrier kam in einem besonderen Moment. Von diesem Tag an habe ich studiert, gereist, andere Züchter kennengelernt und jeden Tag mit diesen außergewöhnlichen Hunden verbracht. Jede Entscheidung kommt aus Erfahrung und dem Wunsch, das Beste zu bieten.</p>
-  </div>
-  </div>
   </div>
   
   <div class="content-block">
