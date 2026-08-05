@@ -5,7 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>{{ .Title }} | Del Piccolo Diavolo</title>
+  {{/* Il brand si aggiunge solo se non e' gia' nel titolo */}}
+  {{ $brand := "Del Piccolo Diavolo" }}
+  <title>{{ if in .Title $brand }}{{ .Title }}{{ else }}{{ .Title }} | {{ $brand }}{{ end }}</title>
   <meta name="description" content="{{ .Description | default .Site.Params.description }}">
 
   {{/* Preconnect to external domains */}}
