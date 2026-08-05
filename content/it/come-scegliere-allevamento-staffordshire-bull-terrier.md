@@ -17,7 +17,7 @@ categories: ["Cuccioli"]
 <section class="section">
 <div class="section-inner content-single">
 
-<p>Scegliere il giusto <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Staffordshire Bull Terrier</a> è la decisione più importante che prenderai. Un cucciolo ti accompagnerà per 12-14 anni: vale la pena investire tempo nella ricerca.</p>
+<p>Scegliere il giusto allevamento dove acquistare i tuoi <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier Del Piccolo Diavolo">cuccioli Staffordshire Bull Terrier</a> è la decisione più importante che prenderai. Un cucciolo ti accompagnerà per 12-14 anni: vale la pena investire tempo nella ricerca.</p>
 
 <p>In questa guida ti spiego esattamente cosa cercare, quali domande fare e quali segnali d'allarme riconoscere.</p>
 

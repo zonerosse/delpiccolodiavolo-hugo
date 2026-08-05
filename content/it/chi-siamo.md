@@ -77,13 +77,13 @@ custom_content: |
   <p>1-2 cucciolate all'anno. Ogni accoppiamento è pianificato: studiamo pedigree, valutiamo compatibilità genetica, aspettiamo il momento giusto.</p>
   <h3 style="margin-top:1.2rem">Selezione del Carattere</h3>
   <p>Prima di inserire un soggetto nel programma, lo osserviamo per mesi: comportamento in casa, con estranei, altri cani, bambini. Deve essere sicuro, equilibrato, socievole.</p>
-  <p>Questo è ciò che distingue il nostro <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier allevati in famiglia">allevamento Staffordshire Bull Terrier</a> dagli altri.</p>
+  <p>Questo è ciò che distingue i nostri <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier allevati in famiglia">cuccioli Staffordshire Bull Terrier</a> dagli altri.</p>
   </div>
   <img src="/images/20250922175108-4a225f3e-sm--1-.webp" alt="Cuccioli Staffy neonati" class="story-img" width="247" height="288" loading="lazy" decoding="async">
   </div>
   
   <div class="checklist">
-  <h3>Cosa Ricevi con un Nostro <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">Cucciolo</a></h3>
+  <h3>Cosa Ricevi con un Nostro <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">Cucciolo Staffordshire Bull Terrier</a></h3>
   <ul>
   <li>Pedigree ENCI – Certificato FCI riconosciuto worldwide</li>
   <li>Microchip registrato all'anagrafe canina</li>
