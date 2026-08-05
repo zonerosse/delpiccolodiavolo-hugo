@@ -64,9 +64,32 @@ custom_content: |
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> Skilful-dogs Nora</p>
   <p><strong>Mutter:</strong> Pablo iuno sospita plata plomo</p>
-  <a class="doc-link" href="docs/Genefast-Billy.pdf" target="_blank" rel="noopener" title="Gentests Bilquis herunterladen">📄 Gentests</a>
-  <a class="doc-link" href="docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" title="Echokardiogramm Bilquis herunterladen">📄 Echo-Doppler</a>
+  <a class="doc-link" href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" title="Gentests Bilquis herunterladen">📄 Gentests</a>
+  <a class="doc-link" href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" title="Echokardiogramm Bilquis herunterladen">📄 Echo-Doppler</a>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Stammbaum Bilquis auf SBTPedigree">Vollständigen Stammbaum Sehen →</a>
+  </div>
+  </div>
+  </article>
+  
+  <!-- QUEEN OF CALIFORNIA -->
+  <article class="female-card female-featured">
+  <div class="female-header">
+  <span class="female-badge">🏆 Italienische Jugendchampionin 2026</span>
+  <h3 class="female-name">JCH. Queen of California Aka Desy Del Piccolo Diavolo</h3>
+  </div>
+  <div class="female-content">
+  <div class="female-image">
+  <img src="/images/queen-of-california.jpeg" alt="JCH Queen of California Aka Desy Del Piccolo Diavolo" width="350" height="467" loading="lazy" decoding="async">
+  </div>
+  <div class="female-info">
+  <p><strong>Gentests:</strong> L2HGA & HC frei über Eltern</p>
+  <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
+  <p><strong>Vater:</strong> CH. Elitebull Prospect</p>
+  <p><strong>Mutter:</strong> Lackyle Bean Croí Olc</p>
+  <p><strong>Besitzer:</strong> Stefano Tevini</p>
+  <p><strong>Handler:</strong> Vittoria Passerini</p>
+  <p><strong>Titel:</strong> Italienische Jugendchampionin (in Homologation) — Albarella (RO), 17. Mai 2026. Jugendklasse V1, JCAC, JBOB, BOB. Bester Staffy — Kynologische Gruppe Polesano.</p>
+  <a class="pedigree-link" href="https://sbtpedigree.com/pedigree?SIRE=4483601&DAM=4538599&generation=4&dogs_id=4547824" target="_blank" rel="noopener" title="Stammbaum Queen of California auf SBTPedigree">Vollständigen Stammbaum Sehen →</a>
   </div>
   </div>
   </article>
@@ -85,7 +108,7 @@ custom_content: |
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> Lackyle Trodai Tine</p>
   <p><strong>Mutter:</strong> CH. Lackyle Ogbhean an Diabhal</p>
-  <a class="doc-link" href="docs/Minnie-GF.pdf" target="_blank" rel="noopener" title="Gentests Croi Olc herunterladen">📄 Gentests</a>
+  <a class="doc-link" href="/docs/Minnie-GF.pdf" target="_blank" rel="noopener" title="Gentests Croi Olc herunterladen">📄 Gentests</a>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="Stammbaum Croi Olc auf SBTPedigree">Vollständigen Stammbaum Sehen →</a>
   </div>
   </div>
@@ -174,6 +197,29 @@ custom_content: |
   <p><strong>Mutter:</strong> Foyleoak Maiden Derry</p>
   <p><strong>Besitzerin:</strong> Ricarda Mazzola Wagner</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4477342" target="_blank" rel="noopener" title="Stammbaum Cattleya auf SBTPedigree">Vollständigen Stammbaum Sehen →</a>
+  </div>
+  </div>
+  </article>
+  
+  <!-- NORA -->
+  <article class="female-card">
+  <div class="female-header">
+  <span class="female-badge">🏆 Mutter von 2 Italienischen Champions</span>
+  <h3 class="female-name">Skilful-Dogs Nora</h3>
+  </div>
+  <div class="female-content">
+  <div class="female-image">
+  <img src="/images/Nora, femmina di staffordshire bull terrier.avif" alt="Skilful-Dogs Nora" width="350" height="467" loading="lazy" decoding="async">
+  </div>
+  <div class="female-info">
+  <p><strong>Gentests:</strong> L2HGA & HC frei per DNA</p>
+  <p><strong>Degenerative Myelopathie:</strong> Frei</p>
+  <p><strong>PHPV:</strong> Nicht betroffen</p>
+  <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
+  <p><strong>Vater:</strong> Skilful-Dogs Jeghër</p>
+  <p><strong>Mutter:</strong> Skilful-Dogs Red Skin</p>
+  <a class="doc-link" href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" title="Gentests Nora herunterladen">📄 Gentests</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="Stammbaum Nora auf SBTPedigree">Vollständigen Stammbaum Sehen →</a>
   </div>
   </div>
   </article>
