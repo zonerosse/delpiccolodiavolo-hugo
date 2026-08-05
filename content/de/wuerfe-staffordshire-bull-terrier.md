@@ -77,11 +77,52 @@ custom_content: |
   <span class="section-label">Verpaarungen</span>
   <h2 class="section-title">Geplante und Vergangene Würfe</h2>
   
+  <!-- Wurf: Bilquis × Black Jack - GEBOREN, ALLE RESERVIERT -->
+  <article class="litter-card">
+  <div class="litter-header">
+  <h3 class="litter-title">Wurf geboren am 01.08.2026 — 8 Welpen (4 Rüden, 4 Hündinnen)</h3>
+  <span class="badge badge-soldout">Reserviert</span>
+  </div>
+  
+  <div class="pair">
+  <div class="dog">
+  <span class="dog-name">JCH. CH. Italiana Bilquis Goddess Diabhal</span>
+  <img src="/images/ffbilly-compressa--1---1-.webp" alt="Bilquis Goddess Diabhal - Italienische Championin Staffordshire Bull Terrier" width="301" height="396" loading="lazy" decoding="async">
+  <ul>
+  <li>L2HGA &amp; HC clear by DNA</li>
+  <li>Vollständiges Scherengebiss</li>
+  <li>Qualifiziert für CRUFTS 2024/25</li>
+  <li>Top Dog Junior Hündin 2023</li>
+  </ul>
+  <p>Skilful-dogs Nora × Pablo iuno sospita plata plomo</p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Bilquis Stammbaum auf SBTPedigree ansehen">SBTPedigree</a></p>
+  </div>
+  
+  <div class="pair-x">×</div>
+  
+  <div class="dog">
+  <span class="dog-name">Black Jack Di Casa Giacalone</span>
+  <img src="/images/jack1.jpg" alt="Black Jack Di Casa Giacalone - Schwarzer Staffordshire Bull Terrier Zuchtrüde" width="250" height="333" loading="lazy" decoding="async">
+  <ul>
+  <li>L2HGA &amp; HC frei über Eltern (beide Eltern clear)</li>
+  <li>Vollständiges Scherengebiss</li>
+  <li>Sohn des Weltsiegers 2023</li>
+  </ul>
+  <p>Quash Marvelous Hagler de Stafflorence (Weltsieger 2023) × Ultima Di Casa Giacalone</p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" title="Black Jack Stammbaum auf SBTPedigree ansehen">SBTPedigree</a></p>
+  </div>
+  </div>
+  
+  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Eine Verpaarung, die die Championin-Morphologie von Bilquis (Italienische Championin, 4. beim World Dog Show 2024) mit den Linien von Black Jack verbindet, dem Sohn des Weltsiegers 2023 Quash Marvelous Hagler de Stafflorence. Geboren am 1. August 2026: 8 schwarze Welpen (4 Rüden und 4 Hündinnen). Wurf vollständig: alle Welpen reserviert.</p>
+  
+  <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" title="Stammbaum Wurf Bilquis x Black Jack ansehen">auf SBTPedigree ansehen</a></p>
+  </article>
+  
   <!-- Wurf 1: Heat × Nora - KOMMEND -->
   <article class="litter-card">
   <div class="litter-header">
-  <h3 class="litter-title">Geplanter Wurf: Februar 2026</h3>
-  <span class="badge badge-coming">Kommend</span>
+  <h3 class="litter-title">Wurf geboren am 09.02.2026 — 3 Rüden</h3>
+  <span class="badge badge-soldout">Ausverkauft</span>
   </div>
   
   <div class="pair">
@@ -109,6 +150,8 @@ custom_content: |
   <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="Nora Stammbaum auf SBTPedigree ansehen">SBTPedigree</a></p>
   </div>
   </div>
+  
+  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Diese Verpaarung wurde geplant, um die Merkmale der Vangerbull-Linie zu festigen und dabei das hervorragende Familientemperament von Skilful-Dogs zu bewahren. Geboren am 9. Februar 2026: 3 Rüden (2 gestromt, 1 rot-weiß). Alle reserviert.</p>
   
   <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" title="Stammbaum Wurf Red x Nora ansehen">auf SBTPedigree ansehen</a></p>
   </article>
