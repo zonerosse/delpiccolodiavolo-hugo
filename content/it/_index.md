@@ -46,8 +46,19 @@ custom_content: |
 
   <section class="section">
   <div class="section-inner">
+  <div class="callout" style="max-width:700px;margin:0 auto;text-align:center">
+  <div class="callout-title">Ne hanno parlato</div>
+  <p><strong>FerraraToday</strong> &mdash; 6 gennaio 2026<br>
+  "Da Ferrara alla conquista del mondo: Bilquis, la cagnolina di 3 anni che fa incetta di premi"</p>
+  <p><a href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" target="_blank" rel="noopener" title="Leggi l'articolo su FerraraToday">Leggi l'articolo &rarr;</a></p>
+  </div>
+  </div>
+  </section>
+
+  <section class="section">
+  <div class="section-inner">
   <h2 class="section-title">Selezione responsabile di Staffordshire Bull Terrier dal 2013</h2>
-  <div class="intro-block" style="max-width:800px;text-align:left">
+  <div class="intro-block" style="text-align:left">
   <p>Del Piccolo Diavolo è un allevamento etico di Staffordshire Bull Terrier a Ostellato, in provincia di Ferrara, attivo dal 2013. Selezioniamo poche cucciolate all'anno, con test genetici completi sui riproduttori e cuccioli ceduti con pedigree ENCI, microchip e vaccinazioni, cresciuti in famiglia. In oltre dieci anni abbiamo formato Campioni Italiani e ottenuto un 4° posto al World Dog Show, seguendo ogni famiglia anche dopo l'affido.</p>
   <p>Da oltre dieci anni selezioniamo Staffordshire Bull Terrier seguendo criteri rigorosi di salute, morfologia e temperamento. Lavoriamo con le migliori linee di sangue inglesi e irlandesi, producendo soggetti che si distinguono nei ring italiani e internazionali.</p>
   <p>Il nostro allevamento ha ottenuto 3 Campioni Italiani e un 4° posto al World Dog Show. A maggio 2026 la nostra Queen of California ha conquistato il titolo di Giovane Campionessa Italiana. Tutti i nostri riproduttori sono testati per L2HGA, HC e PHPV.</p>
@@ -155,7 +166,7 @@ custom_content: |
   <span class="section-label">Il Nostro Approccio</span>
   <h2 class="section-title">Perché scegliere l'allevamento Del Piccolo Diavolo</h2>
 
-  <div class="intro-block" style="max-width:800px;text-align:left">
+  <div class="intro-block" style="text-align:left">
   <p>Scegliere Del Piccolo Diavolo significa affidarsi a un allevamento che mette al primo posto salute, carattere e trasparenza, con un rapporto che continua anche dopo l'affido. Ecco perché le famiglie ci scelgono e ci consigliano.</p>
   </div>
 
