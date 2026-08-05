@@ -16,7 +16,7 @@ custom_content: |
   <p class="hero-subtitle">Del Piccolo Diavolo - Selezione, salute e carattere</p>
   <p class="hero-description">Allevamento etico di Staffordshire Bull Terrier dal 2013. Test genetici completi, pedigree ENCI, cuccioli allevati in famiglia. 3 Campioni Italiani, 4° al World Dog Show, una nuova Giovane Campionessa Italiana a maggio 2026.</p>
   <div class="hero-actions">
-  <a href="/cuccioli-staffordshire-bull-terrier/" class="btn btn-primary" title="Scopri come crescono con noi">Come Crescono</a>
+  <a href="/cuccioli-staffordshire-bull-terrier/" class="btn btn-primary" title="Cuccioli Staffordshire Bull Terrier disponibili">Cuccioli Staffordshire Bull Terrier</a>
   <a href="/allevamento-staffordshire-bull-terrier-in-emilia-romagna/" class="btn btn-ghost" title="Contattaci">Contattaci</a>
   <a href="/docs/guida-primi-mesi-cucciolo-staffy.pdf" class="btn btn-gold" title="Guida PDF gratuita: I primi mesi con il tuo cucciolo Staffy">Guida Cuccioli</a>
   </div>
@@ -94,7 +94,7 @@ custom_content: |
   </div>
 
   <div style="display:flex;flex-wrap:wrap;gap:.75rem;justify-content:center">
-  <a href="/cuccioli-staffordshire-bull-terrier/" class="btn btn-primary" title="Scopri come crescono" style="min-height:44px;display:inline-flex;align-items:center">Come Crescono</a>
+  <a href="/cuccioli-staffordshire-bull-terrier/" class="btn btn-primary" title="Cuccioli Staffordshire Bull Terrier disponibili" style="min-height:44px;display:inline-flex;align-items:center">Cuccioli Staffordshire Bull Terrier</a>
   <a href="/programma-allevamento/" class="btn btn-ghost" title="Vedi il programma di selezione" style="min-height:44px;display:inline-flex;align-items:center">Programma Selezione</a>
   </div>
   </div>

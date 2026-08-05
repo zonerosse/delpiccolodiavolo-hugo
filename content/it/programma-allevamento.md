@@ -17,7 +17,7 @@ custom_content: |
   <p class="hero-description">Accoppiamenti pianificati secondo criteri di salute, carattere e tipicità. In questa pagina trovi il programma di selezione e lo storico delle cucciolate.</p>
   <div class="hero-actions">
   <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sugli%20accoppiamenti" class="btn btn-primary" title="Informazioni sul programma">Informazioni</a>
-  <a href="/cuccioli-staffordshire-bull-terrier/" class="btn btn-ghost" title="Come crescono i nostri soggetti">Come Crescono</a>
+  <a href="/cuccioli-staffordshire-bull-terrier/" class="btn btn-ghost" title="Cuccioli Staffordshire Bull Terrier">Cuccioli Staffordshire Bull Terrier</a>
   </div>
   </div>
   </section>
