@@ -76,9 +76,32 @@ custom_content: |
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> Skilful-dogs Nora</p>
   <p><strong>Dam:</strong> Pablo iuno sospita plata plomo</p>
-  <a class="doc-link" href="docs/Genefast-Billy.pdf" target="_blank" rel="noopener" title="Download Bilquis genetic tests">📄 Genetic Tests</a>
-  <a class="doc-link" href="docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" title="Download Bilquis echocardiogram">📄 Doppler Echocardiogram</a>
+  <a class="doc-link" href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" title="Download Bilquis genetic tests">📄 Genetic Tests</a>
+  <a class="doc-link" href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" title="Download Bilquis echocardiogram">📄 Doppler Echocardiogram</a>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="View Bilquis pedigree on SBTPedigree">View Full Pedigree →</a>
+  </div>
+  </div>
+  </article>
+  
+  <!-- QUEEN OF CALIFORNIA -->
+  <article class="female-card female-featured">
+  <div class="female-header">
+  <span class="female-badge">🏆 Italian Young Champion 2026</span>
+  <h3 class="female-name">JCH. Queen of California Aka Desy Del Piccolo Diavolo</h3>
+  </div>
+  <div class="female-content">
+  <div class="female-image">
+  <img src="/images/queen-of-california.jpeg" alt="JCH Queen of California Aka Desy Del Piccolo Diavolo" width="350" height="467" loading="lazy" decoding="async">
+  </div>
+  <div class="female-info">
+  <p><strong>Genetic Tests:</strong> L2HGA & HC clear by Parents</p>
+  <p><strong>Dentition:</strong> Completely scissor bite</p>
+  <p><strong>Sire:</strong> CH. Elitebull Prospect</p>
+  <p><strong>Dam:</strong> Lackyle Bean Croí Olc</p>
+  <p><strong>Owner:</strong> Stefano Tevini</p>
+  <p><strong>Handler:</strong> Vittoria Passerini</p>
+  <p><strong>Title:</strong> Italian Young Champion (pending homologation) — Albarella (RO), 17 May 2026. Junior Class 1st Excellent, JCAC, JBOB, BOB. Best Staffy — Polesano Canine Group.</p>
+  <a class="pedigree-link" href="https://sbtpedigree.com/pedigree?SIRE=4483601&DAM=4538599&generation=4&dogs_id=4547824" target="_blank" rel="noopener" title="View Queen of California pedigree on SBTPedigree">View Full Pedigree →</a>
   </div>
   </div>
   </article>
@@ -97,7 +120,7 @@ custom_content: |
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> Lackyle Trodai Tine</p>
   <p><strong>Dam:</strong> CH. Lackyle Ogbhean an Diabhal</p>
-  <a class="doc-link" href="docs/Minnie-GF.pdf" target="_blank" rel="noopener" title="Download Croi Olc genetic tests">📄 Genetic Tests</a>
+  <a class="doc-link" href="/docs/Minnie-GF.pdf" target="_blank" rel="noopener" title="Download Croi Olc genetic tests">📄 Genetic Tests</a>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="View Croi Olc pedigree on SBTPedigree">View Full Pedigree →</a>
   </div>
   </div>
@@ -186,6 +209,29 @@ custom_content: |
   <p><strong>Dam:</strong> Foyleoak Maiden Derry</p>
   <p><strong>Owner:</strong> Ricarda Mazzola Wagner</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4477342" target="_blank" rel="noopener" title="View Cattleya pedigree on SBTPedigree">View Full Pedigree →</a>
+  </div>
+  </div>
+  </article>
+  
+  <!-- NORA -->
+  <article class="female-card">
+  <div class="female-header">
+  <span class="female-badge">🏆 Dam of 2 Italian Champions</span>
+  <h3 class="female-name">Skilful-Dogs Nora</h3>
+  </div>
+  <div class="female-content">
+  <div class="female-image">
+  <img src="/images/Nora, femmina di staffordshire bull terrier.avif" alt="Skilful-Dogs Nora" width="350" height="467" loading="lazy" decoding="async">
+  </div>
+  <div class="female-info">
+  <p><strong>Genetic Tests:</strong> L2HGA & HC clear by DNA</p>
+  <p><strong>Degenerative Myelopathy:</strong> Clear</p>
+  <p><strong>PHPV:</strong> Unaffected</p>
+  <p><strong>Dentition:</strong> Completely scissor bite</p>
+  <p><strong>Sire:</strong> Skilful-Dogs Jeghër</p>
+  <p><strong>Dam:</strong> Skilful-Dogs Red Skin</p>
+  <a class="doc-link" href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" title="Download Nora genetic tests">📄 Genetic Tests</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="View Nora pedigree on SBTPedigree">View Full Pedigree →</a>
   </div>
   </div>
   </article>
