@@ -144,14 +144,10 @@ custom_content: |
 
   <p style="text-align:center;margin-bottom:2rem;font-size:1.1rem;color:#5c4a3a;font-weight:600">Allevamento con pedigree ENCI dal 2013 • Oltre 100 soggetti ceduti in Italia e Europa • 3 Campioni Italiani • 4° al World Dog Show</p>
 
-  <div class="storia-grid">
-  <div>
   <div class="content-block">
   <p style="font-size:.8rem;color:#8b5a2b;font-weight:600;letter-spacing:.08em;text-transform:uppercase;margin-bottom:.5rem">Paolo Boldrini — Allevatore dal 2013</p>
   <h3>Il mio percorso con lo Staffordshire Bull Terrier</h3>
   <p>Il mio primo Staffordshire Bull Terrier è arrivato in un momento speciale. Da quel giorno ho studiato, viaggiato, conosciuto altri allevatori e vissuto ogni giorno con questi cani straordinari. Ogni scelta nasce dall'esperienza e dal desiderio di offrire il meglio.</p>
-  </div>
-  </div>
   </div>
 
   <div class="content-block">
