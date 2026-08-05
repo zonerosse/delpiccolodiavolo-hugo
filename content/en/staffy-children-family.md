@@ -1,5 +1,6 @@
 ---
 title: "Staffy and Children: Family Life"
+translationKey: "bambini"
 description: "Living with children and Staffordshire Bull Terriers: safety rules, supervised interactions, age-appropriate activities and building lasting bonds."
 slug: "staffy-children-family"
 custom_content: |

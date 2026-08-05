@@ -1,5 +1,6 @@
 ---
 title: "Wie man Staffy-Blutlinien wählt"
+translationKey: "scelta-linee"
 description: "Praktischer Leitfaden zur Wahl der richtigen Staffordshire Bull Terrier Blutlinie für Ihre Bedürfnisse: Show, Begleithund, Temperament."
 slug: "blutlinien-waehlen"
 custom_content: |

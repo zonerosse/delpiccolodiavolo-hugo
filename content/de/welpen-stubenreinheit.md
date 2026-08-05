@@ -1,5 +1,6 @@
 ---
 title: "Welpen: Stubenreinheit"
+translationKey: "bisogni"
 description: "Stubenreinheitstraining für Staffordshire Bull Terrier Welpen: Routine, Ausgänge, positive Verstärkung, Unfallmanagement und Fortschritt drinnen und draußen."
 slug: "welpen-stubenreinheit"
 custom_content: |

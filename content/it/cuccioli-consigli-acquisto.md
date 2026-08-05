@@ -1,5 +1,6 @@
 ---
 title: "Cuccioli: Consigli prima dell'acquisto"
+translationKey: "consigli-acquisto"
 description: "Cosa valutare prima di acquistare un cucciolo di Staffordshire Bull Terrier: domande all'allevatore, documenti, test genetici, pedigree, tempi e costi reali."
 slug: "cuccioli-consigli-acquisto"
 custom_content: |

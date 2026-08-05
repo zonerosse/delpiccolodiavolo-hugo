@@ -1,5 +1,6 @@
 ---
 title: "Privacy Policy – Del Piccolo Diavolo"
+translationKey: "privacy"
 description: "Privacy Policy and personal data processing of Del Piccolo Diavolo Kennel - GDPR Information."
 slug: "privacy-policy"
 custom_content: |

@@ -1,5 +1,6 @@
 ---
 title: "Puppies: Home Socialization"
+translationKey: "socializzazione"
 description: "Home socialization for your Staffordshire Bull Terrier puppy: guided first experiences with sounds, surfaces, handling and household routines."
 slug: "puppy-home-socialization"
 custom_content: |

@@ -1,5 +1,6 @@
 ---
 title: "Chi Siamo"
+translationKey: "chi-siamo"
 description: "Conosci l'allevamento Del Piccolo Diavolo: dal 2013 selezioniamo Staffordshire Bull Terrier sani, equilibrati e tipici. Storia, filosofia e metodo di selezione. Emilia-Romagna, Italia."
 slug: "chi-siamo"
 custom_content: |

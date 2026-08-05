@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier: Ist er der richtige Hund für Sie? Vor- und Nachteile"
+translationKey: "cane-giusto"
 description: "Ehrlicher Ratgeber, ob der Staffordshire Bull Terrier die richtige Rasse für Sie ist: echte Stärken und Schwächen, für wen er geeignet ist und für wen nicht, Aufwand und Kosten. Tipps aus einer ENCI-Zucht."
 slug: "ist-der-staffordshire-bull-terrier-der-richtige-hund"
 custom_content: |

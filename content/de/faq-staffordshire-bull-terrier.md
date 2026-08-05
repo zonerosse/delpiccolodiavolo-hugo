@@ -1,5 +1,6 @@
 ---
 title: "FAQ Staffordshire Bull Terrier - Häufig gestellte Fragen"
+translationKey: "faq"
 description: "Antworten auf häufig gestellte Fragen über Staffordshire Bull Terrier: Charakter, Gesundheit, Welpen, Kosten, Ernährung, Training. Zucht Del Piccolo Diavolo."
 slug: "faq-staffordshire-bull-terrier"
 custom_content: |

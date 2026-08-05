@@ -1,5 +1,6 @@
 ---
 title: "Staffy Breed Standard"
+translationKey: "standard"
 description: "The Staffordshire Bull Terrier breed standard: physical characteristics, type, structure and what defines a quality specimen."
 slug: "staffy-breed-standard"
 custom_content: |

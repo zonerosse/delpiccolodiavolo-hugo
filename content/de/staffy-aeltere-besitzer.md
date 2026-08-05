@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier für ältere Besitzer"
+translationKey: "anziani"
 description: "Ist der Staffy für Senioren geeignet? Vorteile, Überlegungen, Tipps für ältere Hundebesitzer."
 slug: "staffy-aeltere-besitzer"
 custom_content: |

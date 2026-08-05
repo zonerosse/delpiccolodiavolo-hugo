@@ -1,5 +1,6 @@
 ---
 title: "Puppies: First Walk"
+translationKey: "passeggiata"
 description: "First leash walk for your Staffordshire Bull Terrier puppy: equipment, timing, positive introduction and building good walking habits."
 slug: "puppy-first-walk"
 custom_content: |

@@ -1,5 +1,6 @@
 ---
 title: "Welpen: Tipps vor dem Kauf"
+translationKey: "consigli-acquisto"
 description: "Was vor dem Kauf eines Staffordshire Bull Terrier Welpen zu beachten ist: Fragen an Züchter, Dokumente, Gentests, Stammbaum, Zeitplanung und reale Kosten."
 slug: "welpen-kauftipps"
 custom_content: |

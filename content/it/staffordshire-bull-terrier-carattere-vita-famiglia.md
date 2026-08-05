@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier: Carattere, Vita in Famiglia e Cosa Aspettarsi"
+translationKey: "carattere-famiglia"
 description: "Carattere dello Staffordshire Bull Terrier, vita in famiglia, pregi e difetti raccontati da un allevatore con 20 anni di esperienza. Cosa aspettarsi davvero da uno Staffy."
 slug: "staffordshire-bull-terrier-carattere-vita-famiglia"
 custom_content: |

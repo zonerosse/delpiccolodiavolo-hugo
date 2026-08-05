@@ -1,5 +1,6 @@
 ---
 title: "Staffy Travel and Transport"
+translationKey: "viaggi"
 description: "Traveling with your Staffordshire Bull Terrier: car safety, public transport, flying, accommodation and planning stress-free journeys."
 slug: "staffy-travel-transport"
 custom_content: |

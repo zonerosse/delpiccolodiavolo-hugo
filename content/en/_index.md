@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Kennel"
+translationKey: "home"
 description: "Ethical Staffordshire Bull Terrier breeding. Healthy puppies with pedigree, raised with passion and care. Discover who we are."
 slug: ""
 custom_content: |

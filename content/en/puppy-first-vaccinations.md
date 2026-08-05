@@ -1,5 +1,6 @@
 ---
 title: "Puppies: First Vaccinations"
+translationKey: "vaccinazioni"
 description: "First vaccinations for your Staffordshire Bull Terrier puppy: schedule, core vaccines, what to expect and practical tips for vaccination day."
 slug: "puppy-first-vaccinations"
 custom_content: |

@@ -1,5 +1,6 @@
 ---
 title: "Zahnpflege und Mundhygiene für Staffordshire Bull Terrier"
+translationKey: "denti"
 description: "Vollständiger Leitfaden zur Mundhygiene für Staffy: Zähne putzen, Zahnstein vorbeugen, richtige Produkte wählen."
 slug: "staffy-zahnpflege"
 custom_content: |

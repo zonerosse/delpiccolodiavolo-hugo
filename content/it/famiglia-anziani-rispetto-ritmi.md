@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier per Anziani: Guida Completa"
+translationKey: "anziani"
 description: "Guida realistica Staffy per anziani: valutazione pre-adozione, routine sicure, gestione passeggiate, supporto familiare, costi reali e benefici comprovati."
 slug: "famiglia-anziani-rispetto-ritmi"
 custom_content: |

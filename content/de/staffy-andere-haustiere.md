@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier mit anderen Haustieren"
+translationKey: "altri-animali"
 description: "Leitfaden für das Zusammenleben von Staffy mit anderen Hunden, Katzen und Haustieren: Sozialisierung, Einführung, Tipps."
 slug: "staffy-andere-haustiere"
 custom_content: |
