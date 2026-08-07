@@ -29,7 +29,7 @@ custom_content: |
   </div>
   
   <nav class="breadcrumb" aria-label="Breadcrumb">
-  <a href="/index/" title="Home">Home</a> ›
+  <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
   <a href="/blog/#cuccioli" title="Articoli Cuccioli">Cuccioli</a> ›
   <span>Socializzazione in casa</span>
@@ -38,7 +38,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>La socializzazione del cucciolo inizia in casa: esperienze brevi, positive e guidate creano basi solide per un adulto sereno. Con uno <a href="/index/" title="Staffordshire Bull Terrier">Staffordshire Bull Terrier</a> (Staffy) è fondamentale curare autocontrollo, manipolazioni e gestione delle risorse.</p>
+  <p>La socializzazione del cucciolo inizia in casa: esperienze brevi, positive e guidate creano basi solide per un adulto sereno. Con uno <a href="/" title="Staffordshire Bull Terrier">Staffordshire Bull Terrier</a> (Staffy) è fondamentale curare autocontrollo, manipolazioni e gestione delle risorse.</p>
   
   <h2>Ambiente domestico: superfici, rumori, oggetti</h2>
   

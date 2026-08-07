@@ -29,7 +29,7 @@ custom_content: |
   </div>
   
   <nav class="breadcrumb" aria-label="Breadcrumb">
-  <a href="/index/" title="Home">Home</a> ›
+  <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
   <a href="/blog/#standard-linee-sangue" title="Standard e Linee">Standard e Linee</a> ›
   <span>Linee di Sangue</span>
@@ -39,7 +39,7 @@ custom_content: |
   <article class="article-content">
   
   <div class="lead">
-  <strong>In breve:</strong> Lo <a href="/index/">Staffordshire Bull Terrier</a> possiede una ricca storia genealogica che risale al riconoscimento ufficiale della razza nel 1935. Originariamente esistevano 6 linee di sangue fondatrici (Linea M, R, J, L, B, C), di cui oggi sopravvivono principalmente le linee M (Brindle Mick) e R (Ribchester Bob), che costituiscono circa il 70% del patrimonio genetico della razza moderna.
+  <strong>In breve:</strong> Lo <a href="/">Staffordshire Bull Terrier</a> possiede una ricca storia genealogica che risale al riconoscimento ufficiale della razza nel 1935. Originariamente esistevano 6 linee di sangue fondatrici (Linea M, R, J, L, B, C), di cui oggi sopravvivono principalmente le linee M (Brindle Mick) e R (Ribchester Bob), che costituiscono circa il 70% del patrimonio genetico della razza moderna.
   </div>
   
   <h2>Le Origini delle Linee di Sangue</h2>
@@ -283,8 +283,8 @@ custom_content: |
   <h3>Articoli correlati</h3>
   <ul>
   <li><a href="/differenza-staffy-pitbull-amstaff/" title="Differenza razze">Differenza tra Staffy, Pitbull e Amstaff</a></li>
-  <li><a href="/standard-tipicita-morfologia-staffy/" title="Standard FCI">Standard FCI e tipicità morfologica</a></li>
-  <li><a href="/test-genetici-l2hga-hc/" title="Test genetici">Test genetici L2-HGA e HC: guida completa</a></li>
+  <li><a href="/standard-tipicita-morfologia/" title="Standard FCI">Standard FCI e tipicità morfologica</a></li>
+  <li><a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici">Test genetici L2-HGA e HC: guida completa</a></li>
   <li><a href="/cuccioli-consigli-acquisto/" title="Consigli acquisto">Consigli prima dell'acquisto di un cucciolo</a></li>
   </ul>
   </div>

@@ -29,7 +29,7 @@ custom_content: |
   </div>
   
   <nav class="breadcrumb" aria-label="Breadcrumb">
-  <a href="/index/" title="Home">Home</a> ›
+  <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
   <span>I colori dello Staffordshire Bull Terrier</span>
   </nav>
@@ -38,7 +38,7 @@ custom_content: |
   <article class="article-content">
   
   <div class="lead">
-  <strong>In breve:</strong> lo standard dello <a href="/index/">Staffordshire Bull Terrier</a> ammette i colori <strong>rosso, fulvo, bianco, nero o blu</strong>, ciascuno con o senza bianco, e <strong>ogni tonalità di tigrato (brindle)</strong> con o senza bianco. Non sono ammessi il nero focato (black and tan) e il fegato (liver). Il <strong>blu</strong>, pur presente nello standard, è un colore diluito legato a possibili problemi di pelle: gli allevatori seri lo trattano con grande cautela. In questa guida ti spieghiamo ogni colore con chiarezza.
+  <strong>In breve:</strong> lo standard dello <a href="/">Staffordshire Bull Terrier</a> ammette i colori <strong>rosso, fulvo, bianco, nero o blu</strong>, ciascuno con o senza bianco, e <strong>ogni tonalità di tigrato (brindle)</strong> con o senza bianco. Non sono ammessi il nero focato (black and tan) e il fegato (liver). Il <strong>blu</strong>, pur presente nello standard, è un colore diluito legato a possibili problemi di pelle: gli allevatori seri lo trattano con grande cautela. In questa guida ti spieghiamo ogni colore con chiarezza.
   </div>
   
   <h2>Cosa dice lo standard ufficiale</h2>
@@ -80,7 +80,7 @@ custom_content: |
   
   <div class="callout">
   <p class="callout-title">🏆 Il nostro approccio ai colori</p>
-  <p>Nel <a href="/index/">nostro allevamento Del Piccolo Diavolo</a> la scelta dei riproduttori parte sempre dalla <strong>salute e dalla tipicità</strong>, non dalla "moda" di un colore. Selezioniamo colori conformi allo standard, con genitori <a href="/programma-allevamento/">testati per L2-HGA e HC</a>, ed evitiamo gli accoppiamenti diluiti a rischio. Un bel colore su un cane sano e tipico vale infinitamente più di un colore "raro" ottenuto a scapito del benessere.</p>
+  <p>Nel <a href="/">nostro allevamento Del Piccolo Diavolo</a> la scelta dei riproduttori parte sempre dalla <strong>salute e dalla tipicità</strong>, non dalla "moda" di un colore. Selezioniamo colori conformi allo standard, con genitori <a href="/programma-allevamento/">testati per L2-HGA e HC</a>, ed evitiamo gli accoppiamenti diluiti a rischio. Un bel colore su un cane sano e tipico vale infinitamente più di un colore "raro" ottenuto a scapito del benessere.</p>
   </div>
   
   <h2>Il colore influenza il carattere?</h2>

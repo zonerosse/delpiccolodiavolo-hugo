@@ -29,7 +29,7 @@ custom_content: |
   </div>
   
   <nav class="breadcrumb" aria-label="Breadcrumb">
-  <a href="/index/" title="Home">Home</a> ›
+  <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
   <a href="/blog/#famiglia" title="Famiglia">Famiglia e Convivenza</a> ›
   <span>Anziani e Convivenza</span>
@@ -285,9 +285,9 @@ custom_content: |
   <div class="related">
   <h3>Articoli correlati</h3>
   <ul>
-  <li><a href="/bambini-convivenza/" title="Bambini">Staffy e Bambini: Convivenza Sicura</a></li>
-  <li><a href="/convivenza-altri-animali/" title="Altri animali">Convivenza con Altri Animali</a></li>
-  <li><a href="/esercizio-sicuro/" title="Esercizio">Esercizio Fisico Sicuro</a></li>
+  <li><a href="/famiglia-bambini-convivenza/" title="Bambini">Staffy e Bambini: Convivenza Sicura</a></li>
+  <li><a href="/famiglia-convivenza-altri-animali/" title="Altri animali">Convivenza con Altri Animali</a></li>
+  <li><a href="/salute-esercizio-sicuro/" title="Esercizio">Esercizio Fisico Sicuro</a></li>
   <li><a href="/cuccioli-consigli-acquisto/" title="Consigli acquisto">Consigli Prima dell'Acquisto</a></li>
   </ul>
   </div>

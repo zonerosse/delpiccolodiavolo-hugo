@@ -29,7 +29,7 @@ custom_content: |
   </div>
   
   <nav class="breadcrumb" aria-label="Breadcrumb">
-  <a href="/index/" title="Home">Home</a> ›
+  <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
   <a href="/blog/#famiglia" title="Famiglia">Famiglia e Convivenza</a> ›
   <span>Bambini e Convivenza</span>
@@ -377,9 +377,9 @@ custom_content: |
   <div class="related">
   <h3>Articoli correlati</h3>
   <ul>
-  <li><a href="/anziani-rispetto-ritmi/" title="Staffy anziani">Staffy Anziano: Rispetto dei Ritmi</a></li>
-  <li><a href="/convivenza-altri-animali/" title="Altri animali">Convivenza con Altri Animali</a></li>
-  <li><a href="/cuccioli-socializzazione-primi-mesi/" title="Socializzazione">Socializzazione nei Primi Mesi</a></li>
+  <li><a href="/famiglia-anziani-rispetto-ritmi/" title="Staffy anziani">Staffy Anziano: Rispetto dei Ritmi</a></li>
+  <li><a href="/famiglia-convivenza-altri-animali/" title="Altri animali">Convivenza con Altri Animali</a></li>
+  <li><a href="/cuccioli-socializzazione-in-casa/" title="Socializzazione">Socializzazione nei Primi Mesi</a></li>
   <li><a href="/cuccioli-consigli-acquisto/" title="Consigli acquisto">Consigli Prima dell'Acquisto</a></li>
   </ul>
   </div>
