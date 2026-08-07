@@ -29,7 +29,7 @@ custom_content: |
   </div>
   
   <nav class="breadcrumb" aria-label="Breadcrumb">
-  <a href="/index/" title="Home">Home</a> ›
+  <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
   <a href="/blog/#standard-linee-sangue" title="Standard e Linee">Standard e Linee</a> ›
   <span>Tipicità e Morfologia</span>
@@ -198,7 +198,7 @@ custom_content: |
   <ul>
   <li><a href="/linee-sangue-staffordshire-bull-terrier/" title="Linee di sangue">Linee di Sangue: Storia e Genealogia</a></li>
   <li><a href="/differenza-staffy-pitbull-amstaff/" title="Differenza razze">Differenza tra Staffy, Pitbull e Amstaff</a></li>
-  <li><a href="/test-genetici-l2hga-hc/" title="Test genetici">Test genetici L2-HGA e HC: guida completa</a></li>
+  <li><a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici">Test genetici L2-HGA e HC: guida completa</a></li>
   <li><a href="/cuccioli-consigli-acquisto/" title="Consigli acquisto">Consigli prima dell'acquisto di un cucciolo</a></li>
   </ul>
   </div>

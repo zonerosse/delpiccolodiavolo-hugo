@@ -29,7 +29,7 @@ custom_content: |
   </div>
   
   <nav class="breadcrumb" aria-label="Breadcrumb">
-  <a href="/index/" title="Home">Home</a> ›
+  <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
   <span>È il cane giusto per te?</span>
   </nav>
@@ -38,7 +38,7 @@ custom_content: |
   <article class="article-content">
   
   <div class="lead">
-  <strong>In breve:</strong> lo <a href="/index/">Staffordshire Bull Terrier</a> è un cane affettuoso, coraggioso e profondamente legato alla famiglia, ideale per chi cerca un compagno vitale e presente. Ma non è il cane giusto per tutti: ha un forte bisogno di compagnia, molta energia da scaricare e una spiccata personalità. In questa guida ti diciamo <strong>onestamente</strong> pregi e difetti, così puoi capire se fa per te <em>prima</em> di prendere un cucciolo.
+  <strong>In breve:</strong> lo <a href="/">Staffordshire Bull Terrier</a> è un cane affettuoso, coraggioso e profondamente legato alla famiglia, ideale per chi cerca un compagno vitale e presente. Ma non è il cane giusto per tutti: ha un forte bisogno di compagnia, molta energia da scaricare e una spiccata personalità. In questa guida ti diciamo <strong>onestamente</strong> pregi e difetti, così puoi capire se fa per te <em>prima</em> di prendere un cucciolo.
   </div>
   
   <h2>Che cane è, davvero, lo Staffordshire Bull Terrier</h2>
@@ -110,7 +110,7 @@ custom_content: |
   
   <div class="callout">
   <p class="callout-title">🏆 Il nostro punto di vista</p>
-  <p>Nel <a href="/index/">nostro allevamento Del Piccolo Diavolo</a> i cuccioli nascono e crescono <strong>in famiglia</strong>, non in box: questo fa un'enorme differenza sull'equilibrio del cane adulto. Un cucciolo ben socializzato dai suoi primi giorni — a persone, rumori, altri animali — diventa uno Staffy sereno e gestibile. Se decidi che è la razza giusta per te, il passo successivo più importante è scegliere <a href="/cuccioli-consigli-acquisto/">un allevamento serio</a>: è lì che si costruisce (o si rovina) il carattere del tuo futuro compagno.</p>
+  <p>Nel <a href="/">nostro allevamento Del Piccolo Diavolo</a> i cuccioli nascono e crescono <strong>in famiglia</strong>, non in box: questo fa un'enorme differenza sull'equilibrio del cane adulto. Un cucciolo ben socializzato dai suoi primi giorni — a persone, rumori, altri animali — diventa uno Staffy sereno e gestibile. Se decidi che è la razza giusta per te, il passo successivo più importante è scegliere <a href="/cuccioli-consigli-acquisto/">un allevamento serio</a>: è lì che si costruisce (o si rovina) il carattere del tuo futuro compagno.</p>
   </div>
   
   <h2>Quanto impegno richiede, in concreto</h2>

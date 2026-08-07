@@ -29,7 +29,7 @@ custom_content: |
   </div>
   
   <nav class="breadcrumb" aria-label="Breadcrumb">
-  <a href="/index/" title="Home">Home</a> ›
+  <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
   <a href="/blog/#salute-benessere" title="Salute e Benessere">Salute e Benessere</a> ›
   <span>Test Genetici L2-HGA e HC</span>

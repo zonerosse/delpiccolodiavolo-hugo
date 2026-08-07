@@ -29,7 +29,7 @@ custom_content: |
   </div>
   
   <nav class="breadcrumb" aria-label="Breadcrumb">
-  <a href="/index/" title="Home">Home</a> ›
+  <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
   <a href="/blog/#salute-benessere" title="Salute e Benessere">Salute e Benessere</a> ›
   <span>Esercizio Sicuro</span>
@@ -340,9 +340,9 @@ custom_content: |
   <div class="related">
   <h3>Articoli correlati</h3>
   <ul>
-  <li><a href="/denti-igiene/" title="Igiene orale">Igiene Orale e Denti</a></li>
-  <li><a href="/parassiti-prevenzione/" title="Parassiti">Parassiti: Prevenzione e Controllo</a></li>
-  <li><a href="/test-genetici-l2hga-hc/" title="Test genetici">Test Genetici L2-HGA e HC</a></li>
+  <li><a href="/salute-denti-igiene/" title="Igiene orale">Igiene Orale e Denti</a></li>
+  <li><a href="/salute-parassiti-prevenzione/" title="Parassiti">Parassiti: Prevenzione e Controllo</a></li>
+  <li><a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici">Test Genetici L2-HGA e HC</a></li>
   <li><a href="/cuccioli-alimentazione-iniziale/" title="Alimentazione">Alimentazione Iniziale del Cucciolo</a></li>
   </ul>
   </div>

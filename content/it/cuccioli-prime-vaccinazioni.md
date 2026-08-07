@@ -29,7 +29,7 @@ custom_content: |
   </div>
   
   <nav class="breadcrumb" aria-label="Breadcrumb">
-  <a href="/index/" title="Home">Home</a> ›
+  <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
   <a href="/blog/#cuccioli" title="Articoli Cuccioli">Cuccioli</a> ›
   <span>Prime vaccinazioni</span>
@@ -38,7 +38,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Le prime vaccinazioni sono una tappa fondamentale per la salute del cucciolo di <a href="/index/" title="Staffordshire Bull Terrier">Staffordshire Bull Terrier</a>. Un protocollo corretto, concordato con il veterinario, protegge da malattie potenzialmente gravi e si integra con sverminazioni e richiami successivi.</p>
+  <p>Le prime vaccinazioni sono una tappa fondamentale per la salute del cucciolo di <a href="/" title="Staffordshire Bull Terrier">Staffordshire Bull Terrier</a>. Un protocollo corretto, concordato con il veterinario, protegge da malattie potenzialmente gravi e si integra con sverminazioni e richiami successivi.</p>
   
   <h2>Calendario base dei vaccini</h2>
   

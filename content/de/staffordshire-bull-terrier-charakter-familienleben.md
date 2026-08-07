@@ -129,11 +129,11 @@ custom_content: |
 
   <p>Ein Welpe, der von Eltern mit instabilem Charakter geboren und in einem isolierten Zwinger aufgezogen wurde, kommt mit einem enormen Nachteil in seine neue Familie, den keine Erziehung vollständig ausgleichen kann.</p>
 
-  <p>In unserer Zucht wählen wir den Charakter vor der Ästhetik. Wenn Sie <a href="/de/cuccioli-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen in der Familie aufgezogen">Staffordshire Bull Terrier Welpen</a> mit einem soliden Charakter von Geburt an suchen, hier beginnt es. Um zu erfahren, wie wir unsere Zuchttiere auswählen, lesen Sie unser <a href="/de/programma-allevamento/" title="Staffordshire Bull Terrier Zuchtprogramm">Zuchtprogramm</a>.</p>
+  <p>In unserer Zucht wählen wir den Charakter vor der Ästhetik. Wenn Sie <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen in der Familie aufgezogen">Staffordshire Bull Terrier Welpen</a> mit einem soliden Charakter von Geburt an suchen, hier beginnt es. Um zu erfahren, wie wir unsere Zuchttiere auswählen, lesen Sie unser <a href="/de/wuerfe-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Zuchtprogramm">Zuchtprogramm</a>.</p>
 
   <div class="callout">
   <p class="callout-title">🐾 Überlegen Sie sich einen Staffy?</p>
-  <p>Kontaktieren Sie mich, bevor Sie sich entscheiden. Ich beantworte alle Fragen und helfe Ihnen zu verstehen, ob der Staffy wirklich das Richtige für Sie ist. <a href="/de/allevamento-staffordshire-bull-terrier-in-emilia-romagna/" title="Kontakt">WhatsApp schreiben</a>.</p>
+  <p>Kontaktieren Sie mich, bevor Sie sich entscheiden. Ich beantworte alle Fragen und helfe Ihnen zu verstehen, ob der Staffy wirklich das Richtige für Sie ist. <a href="/de/kontakt/" title="Kontakt">WhatsApp schreiben</a>.</p>
   </div>
 
   <section class="faq">

@@ -29,7 +29,7 @@ custom_content: |
   </div>
   
   <nav class="breadcrumb" aria-label="Breadcrumb">
-  <a href="/index/" title="Home">Home</a> ›
+  <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
   <a href="/blog/#standard-linee-sangue" title="Standard e Linee">Standard e Linee</a> ›
   <span>Come Orientarsi</span>

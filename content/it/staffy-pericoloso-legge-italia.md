@@ -29,7 +29,7 @@ custom_content: |
   </div>
   
   <nav class="breadcrumb" aria-label="Breadcrumb">
-  <a href="/index/" title="Home">Home</a> ›
+  <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
   <span>Staffy Pericoloso? La Verità</span>
   </nav>
@@ -38,7 +38,7 @@ custom_content: |
   <article class="article-content">
   
   <div class="lead">
-  <strong>In breve:</strong> No, lo <a href="/index/" title="Allevamento Staffordshire Bull Terrier">Staffordshire Bull Terrier</a> non è una razza pericolosa. Lo dimostra lo studio scientifico del <strong>Royal Veterinary College</strong> (2020) che ha analizzato oltre 22.000 cani: non esiste differenza statisticamente significativa nel rischio di aggressione tra Staffy e altre razze. In Italia, dal 2009, non esiste più una "lista nera" delle razze pericolose.
+  <strong>In breve:</strong> No, lo <a href="/" title="Allevamento Staffordshire Bull Terrier">Staffordshire Bull Terrier</a> non è una razza pericolosa. Lo dimostra lo studio scientifico del <strong>Royal Veterinary College</strong> (2020) che ha analizzato oltre 22.000 cani: non esiste differenza statisticamente significativa nel rischio di aggressione tra Staffy e altre razze. In Italia, dal 2009, non esiste più una "lista nera" delle razze pericolose.
   </div>
   
   <h2>Il Pregiudizio sullo Staffordshire Bull Terrier: Da Dove Nasce?</h2>
@@ -194,7 +194,7 @@ custom_content: |
   </ul>
   </div>
   
-  <p>Nel <a href="/index/" title="Allevamento Del Piccolo Diavolo">nostro allevamento Del Piccolo Diavolo</a>, poniamo grande enfasi sulla selezione caratteriale. Tutti i nostri <a href="/maschi-staffordshire-bull-terrier/" title="Maschi Staffy">maschi</a> e <a href="/femmine-staffordshire-bull-terrier/" title="Femmine Staffy">femmine</a> sono testati geneticamente e selezionati per temperamento equilibrato. I <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffy">cuccioli</a> vengono socializzati fin dalle prime settimane di vita.</p>
+  <p>Nel <a href="/" title="Allevamento Del Piccolo Diavolo">nostro allevamento Del Piccolo Diavolo</a>, poniamo grande enfasi sulla selezione caratteriale. Tutti i nostri <a href="/maschi-staffordshire-bull-terrier/" title="Maschi Staffy">maschi</a> e <a href="/femmine-staffordshire-bull-terrier/" title="Femmine Staffy">femmine</a> sono testati geneticamente e selezionati per temperamento equilibrato. I <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffy">cuccioli</a> vengono socializzati fin dalle prime settimane di vita.</p>
   
   <h2>Conclusioni: I Fatti Oltre i Pregiudizi</h2>
   

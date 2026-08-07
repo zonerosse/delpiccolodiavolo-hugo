@@ -29,7 +29,7 @@ custom_content: |
   </div>
   
   <nav class="breadcrumb" aria-label="Breadcrumb">
-  <a href="/index/" title="Home">Home</a> ›
+  <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
   <a href="/blog/#standard-linee-sangue" title="Standard e Linee di Sangue">Standard e Linee</a> ›
   <span>Differenza Staffy, Pitbull, Amstaff</span>
@@ -39,7 +39,7 @@ custom_content: |
   <article class="article-content">
   
   <div class="lead">
-  <strong>In breve:</strong> <a href="/index/">Staffordshire Bull Terrier</a>, American Pit Bull Terrier e American Staffordshire Terrier sono tre razze distinte, spesso confuse tra loro. Lo <strong>Staffy</strong> è il più piccolo (max 17 kg), l'<strong>Amstaff</strong> è il più grande e muscoloso (fino a 35 kg), mentre il <strong>Pit Bull</strong> (APBT) non è riconosciuto dalla FCI. Solo Staffy e Amstaff hanno pedigree ENCI in Italia.
+  <strong>In breve:</strong> <a href="/">Staffordshire Bull Terrier</a>, American Pit Bull Terrier e American Staffordshire Terrier sono tre razze distinte, spesso confuse tra loro. Lo <strong>Staffy</strong> è il più piccolo (max 17 kg), l'<strong>Amstaff</strong> è il più grande e muscoloso (fino a 35 kg), mentre il <strong>Pit Bull</strong> (APBT) non è riconosciuto dalla FCI. Solo Staffy e Amstaff hanno pedigree ENCI in Italia.
   </div>
   
   <h2>Perché Si Confondono Queste Razze?</h2>
@@ -238,7 +238,7 @@ custom_content: |
   
   <div class="callout">
   <p class="callout-title">🏆 Il Nostro Consiglio</p>
-  <p>Nel <a href="/index/">nostro allevamento Del Piccolo Diavolo</a> abbiamo scelto di dedicarci esclusivamente allo <strong>Staffordshire Bull Terrier</strong>: è una razza con standard FCI chiaro, permette selezione controllata con test genetici (L2-HGA, HC), ha dimensioni ideali per la vita familiare moderna e un temperamento eccezionale. I nostri <a href="/cuccioli-staffordshire-bull-terrier/">cuccioli</a> provengono da <a href="/linee-sangue-staffordshire-bull-terrier/">linee di sangue</a> inglesi e irlandesi documentate.</p>
+  <p>Nel <a href="/">nostro allevamento Del Piccolo Diavolo</a> abbiamo scelto di dedicarci esclusivamente allo <strong>Staffordshire Bull Terrier</strong>: è una razza con standard FCI chiaro, permette selezione controllata con test genetici (L2-HGA, HC), ha dimensioni ideali per la vita familiare moderna e un temperamento eccezionale. I nostri <a href="/cuccioli-staffordshire-bull-terrier/">cuccioli</a> provengono da <a href="/linee-sangue-staffordshire-bull-terrier/">linee di sangue</a> inglesi e irlandesi documentate.</p>
   </div>
   
   <h2>Domande Frequenti</h2>
@@ -293,7 +293,7 @@ custom_content: |
   <h3>Articoli correlati</h3>
   <ul>
   <li><a href="/linee-sangue-staffordshire-bull-terrier/" title="Linee di sangue">Linee di sangue dello Staffordshire Bull Terrier</a></li>
-  <li><a href="/standard-tipicita-morfologia-staffy/" title="Standard e tipicità">Standard FCI e tipicità morfologica</a></li>
+  <li><a href="/standard-tipicita-morfologia/" title="Standard e tipicità">Standard FCI e tipicità morfologica</a></li>
   <li><a href="/staffy-pericoloso-legge-italia/" title="Staffy e legge">Lo Staffy è pericoloso? Cosa dice la legge italiana</a></li>
   <li><a href="/cuccioli-consigli-acquisto/" title="Consigli acquisto">Consigli prima dell'acquisto di un cucciolo</a></li>
   </ul>

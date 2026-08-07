@@ -129,11 +129,11 @@ custom_content: |
 
   <p>A puppy born from parents with unstable character, raised in an isolated kennel, arrives in its new family with an enormous disadvantage that no training can fully compensate for.</p>
 
-  <p>At our kennel we select for character before aesthetics. If you're looking for <a href="/en/cuccioli-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies raised in family">Staffordshire Bull Terrier puppies</a> with a solid character from birth, this is where it starts. To find out how we select our breeding dogs, read our <a href="/en/programma-allevamento/" title="Staffordshire Bull Terrier breeding programme">breeding programme</a>.</p>
+  <p>At our kennel we select for character before aesthetics. If you're looking for <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies raised in family">Staffordshire Bull Terrier puppies</a> with a solid character from birth, this is where it starts. To find out how we select our breeding dogs, read our <a href="/en/litters-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier breeding programme">breeding programme</a>.</p>
 
   <div class="callout">
   <p class="callout-title">🐾 Considering a Staffy?</p>
-  <p>Contact me before deciding. I answer all questions and help you understand if the Staffy is really right for you. <a href="/en/allevamento-staffordshire-bull-terrier-in-emilia-romagna/" title="Contact us">Write to me on WhatsApp</a>.</p>
+  <p>Contact me before deciding. I answer all questions and help you understand if the Staffy is really right for you. <a href="/en/contact/" title="Contact us">Write to me on WhatsApp</a>.</p>
   </div>
 
   <section class="faq">
