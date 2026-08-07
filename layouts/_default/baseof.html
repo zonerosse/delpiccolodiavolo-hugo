@@ -16,9 +16,9 @@
 
   {{/* Preload LCP image - hero image */}}
   {{ with .Params.hero_image }}
-  <link rel="preload" as="image" href="{{ . }}" type="image/avif">
+  <link rel="preload" as="image" href="{{ . }}" type="image/avif" fetchpriority="high">
   {{ else }}
-  <link rel="preload" as="image" href="/images/femmina-bilquis-hero.avif" type="image/avif">
+  <link rel="preload" as="image" href="/images/femmina-bilquis-hero.avif" type="image/avif" fetchpriority="high">
   {{ end }}
 
   {{/* Favicons - Google richiede minimo 48x48 per i risultati di ricerca */}}
