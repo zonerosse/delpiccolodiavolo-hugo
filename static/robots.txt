@@ -2,18 +2,24 @@
 User-agent: *
 Allow: /
 
-# Google AI (Gemini, SGE)
+# Google AI (Gemini, AI Overviews)
 User-agent: Google-Extended
 Allow: /
 
-# OpenAI (ChatGPT, GPT)
+# OpenAI (ChatGPT)
 User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
 Allow: /
 
 # Anthropic (Claude)
-User-agent: Claude-Web
+User-agent: ClaudeBot
 Allow: /
-User-agent: anthropic-ai
+User-agent: Claude-User
+Allow: /
+User-agent: Claude-SearchBot
 Allow: /
 
 # Microsoft/Bing AI (Copilot)
@@ -23,8 +29,12 @@ Allow: /
 # Perplexity AI
 User-agent: PerplexityBot
 Allow: /
+User-agent: Perplexity-User
+Allow: /
 
 # Meta AI
+User-agent: meta-externalagent
+Allow: /
 User-agent: FacebookBot
 Allow: /
 
