@@ -8,11 +8,19 @@
 /images/*
   Cache-Control: public, max-age=31536000, immutable
 
-/Video/*
+/videos/*
   Cache-Control: public, max-age=31536000, immutable
 
 /docs/*
   Cache-Control: public, max-age=31536000, immutable
+
+# Guide PDF: contenuto aggiornabile, cache breve
+/docs/guida-primi-mesi-cucciolo-staffy.pdf
+  Cache-Control: public, max-age=86400
+/docs/guide-first-months-staffy-puppy.pdf
+  Cache-Control: public, max-age=86400
+/docs/ratgeber-erste-monate-staffy-welpe.pdf
+  Cache-Control: public, max-age=86400
 
 /*.avif
   Cache-Control: public, max-age=31536000, immutable
