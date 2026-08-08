@@ -2,6 +2,16 @@
 title: "Chi Siamo"
 translationKey: "chi-siamo"
 description: "Allevamento Del Piccolo Diavolo: dal 2013 selezioniamo Staffordshire Bull Terrier sani, equilibrati e tipici. Ostellato (FE)."
+correlati:
+  - url: "/palmares-del-piccolo-diavolo/"
+    titolo: "I nostri risultati"
+    testo: "Campioni e titoli in esposizione"
+  - url: "/programma-allevamento/"
+    titolo: "Programma di allevamento"
+    testo: "Cucciolate e criteri di selezione"
+  - url: "/recensioni/"
+    titolo: "Le recensioni"
+    testo: "Cosa dicono le famiglie"
 slug: "chi-siamo"
 custom_content: |
   <section class="hero">
@@ -97,6 +107,8 @@ custom_content: |
   </div>
   </section>
   
+  <!--CORRELATI-->
+
   <section class="dark-section">
   <h2>Non Siamo Venditori, Siamo Custodi</h2>
   <p>Non alleviamo per guadagnare. Ogni cucciolata costa migliaia di euro tra test, veterinario, cibo di qualità. Non troverai mai nostri cuccioli su Subito.it. Selezioniamo anche i proprietari.</p>

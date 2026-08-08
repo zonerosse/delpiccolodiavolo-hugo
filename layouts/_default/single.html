@@ -1,7 +1,8 @@
 {{ define "main" }}
 
 {{ if .Params.custom_content }}
-  {{ replace .Params.custom_content "<!--CUCCIOLATA-->" (partial "ultima-cucciolata.html" .) | safeHTML }}
+  {{ $c := replace .Params.custom_content "<!--CUCCIOLATA-->" (partial "ultima-cucciolata.html" .) }}
+  {{ replace $c "<!--CORRELATI-->" (partial "correlati.html" .) | safeHTML }}
 {{ else }}
   {{ $haH1 := findRE "<h1[ >]" .Content 1 }}
   <div class="page-hero">

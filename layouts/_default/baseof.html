@@ -43,6 +43,7 @@
   <link rel="manifest" href="/manifest.json">
   <meta name="theme-color" content="#8b5a2b">
   
+  {{ if .Params.noindex }}<meta name="robots" content="noindex, follow">{{ end }}
   <link rel="canonical" href="{{ .Permalink }}">
 
   {{/* Hreflang: solo traduzioni realmente esistenti */}}

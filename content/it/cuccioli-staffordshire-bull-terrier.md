@@ -2,6 +2,19 @@
 title: "Cuccioli Staffordshire Bull Terrier"
 translationKey: "cuccioli"
 description: "Cuccioli Staffordshire Bull Terrier con pedigree ENCI e test genetici. Linee Elitebull e Lackyle. Ostellato (FE)."
+correlati:
+  - url: "/quanto-costa-cucciolo-staffordshire-bull-terrier/"
+    titolo: "Quanto costa un cucciolo"
+    testo: "Prezzi reali e cosa include il prezzo"
+  - url: "/come-scegliere-allevamento-staffordshire-bull-terrier/"
+    titolo: "Come scegliere l'allevamento"
+    testo: "Test genetici, pedigree e segnali d'allarme"
+  - url: "/test-genetici-l2hga-hc-staffy/"
+    titolo: "Test genetici L2-HGA e HC"
+    testo: "Perché sono indispensabili"
+  - url: "/colori-staffordshire-bull-terrier/"
+    titolo: "I colori della razza"
+    testo: "Quali sono riconosciuti dallo standard"
 slug: "cuccioli-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">
@@ -252,6 +265,8 @@ custom_content: |
   </div>
   </div>
   </section>
+
+  <!--CORRELATI-->
 
   <section class="dark-section">
   <h2>La Nostra Passione</h2>
