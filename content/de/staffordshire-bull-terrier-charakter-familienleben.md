@@ -39,12 +39,12 @@ custom_content: |
   <article class="article-content">
 
   <div class="lead">
-  <strong>Kurz zusammengefasst:</strong> Der <a href="/de/" title="Staffordshire Bull Terrier Zucht">Staffordshire Bull Terrier</a> ist der liebevollste Hund, den es gibt — aber auch einer mit einer außergewöhnlich starken Persönlichkeit. Dieser Leitfaden wurde von jemandem geschrieben, der seit 2005 Staffies züchtet und über hundert vermittelt hat. Keine allgemeinen Beschreibungen: nur die Wahrheit.
+  <strong>Kurz zusammengefasst:</strong> Der <a href="/de/" title="Staffordshire Bull Terrier Zucht">Staffordshire Bull Terrier</a> ist der liebevollste Hund, den es gibt — aber auch einer mit einer außergewöhnlich starken Persönlichkeit. Dieser Leitfaden wurde von jemandem geschrieben, der seit 2005 in der Rasse ist, seit 2013 züchtet und über hundert Staffordshire Bull Terrier vermittelt hat. Keine allgemeinen Beschreibungen: nur die Wahrheit.
   </div>
 
   <h2>Der Charakter des Staffordshire Bull Terriers: die Wahrheit</h2>
 
-  <p>Meinen ersten Staffordshire Bull Terrier habe ich 2005 auf der Crufts kennengelernt. Seitdem habe ich über hundert gezüchtet, aufgezogen und vermittelt. Ich kenne diese Rasse so, wie es kein allgemeiner Artikel wiedergeben kann.</p>
+  <p>Meinen ersten Staffordshire Bull Terrier habe ich 2005 auf der Crufts kennengelernt. In der Rasse seit 2005, Zucht seit 2013: seitdem habe ich über hundert gezüchtet, aufgezogen und vermittelt. Ich kenne diese Rasse so, wie es kein allgemeiner Artikel wiedergeben kann.</p>
 
   <p>Der Staffy ist der liebevollste Hund, den es gibt. Das ist keine Rhetorik — es ist etwas, das jeder, der jemals mit einem Staffordshire Bull Terrier gelebt hat, sofort bestätigen wird. Dieser Hund hat ein körperliches Bedürfnis nach menschlichem Kontakt — er möchte bei Ihnen bleiben, mit Ihnen schlafen, Ihnen in jeden Raum folgen.</p>
 

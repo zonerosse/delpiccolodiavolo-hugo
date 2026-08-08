@@ -39,12 +39,12 @@ custom_content: |
   <article class="article-content">
 
   <div class="lead">
-  <strong>In breve:</strong> Lo <a href="/" title="Allevamento Staffordshire Bull Terrier">Staffordshire Bull Terrier</a> è il cane più affettuoso che esista — ma anche uno con una personalità fortissima. Questa guida è scritta da chi alleva Staffy dal 2005 e ne ha affidati oltre cento. Non troverai descrizioni generiche: troverai la verità.
+  <strong>In breve:</strong> Lo <a href="/" title="Allevamento Staffordshire Bull Terrier">Staffordshire Bull Terrier</a> è il cane più affettuoso che esista — ma anche uno con una personalità fortissima. Questa guida è scritta da chi è nella razza dal 2005, alleva dal 2013 e ha affidato oltre cento Staffordshire Bull Terrier. Non troverai descrizioni generiche: troverai la verità.
   </div>
 
   <h2>Il carattere dello Staffordshire Bull Terrier: la verità</h2>
 
-  <p>Ho incontrato il mio primo Staffordshire Bull Terrier nel 2005 al Crufts. Da allora ne ho allevati, cresciuti e affidati oltre cento. Conosco questa razza in modo che nessun articolo generico può eguagliare.</p>
+  <p>Ho incontrato il mio primo Staffordshire Bull Terrier nel 2005 al Crufts. Nella razza dal 2005, allevamento dal 2013: da allora ne ho allevati, cresciuti e affidati oltre cento. Conosco questa razza in modo che nessun articolo generico può eguagliare.</p>
 
   <p>Lo Staffy è il cane più affettuoso che esista. Non è retorica: è un dato che chiunque abbia vissuto con uno Staffordshire Bull Terrier confermerà immediatamente. Questo cane ha un bisogno fisico di contatto umano — vuole stare attaccato a te, dormire con te, seguirti in ogni stanza.</p>
 

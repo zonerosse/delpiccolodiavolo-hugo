@@ -13,7 +13,7 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Zucht Del Piccolo Diavolo</span>
   <h1 class="hero-title">Welpen<br><em>Staffordshire</em><br>Bull Terrier</h1>
-  <p class="hero-subtitle">Elitebull und Lackyle Linien - Seit 2005</p>
+  <p class="hero-subtitle">Elitebull und Lackyle Linien - Seit 2013</p>
   <p class="hero-description">Unsere Welpen werden in der Familie geboren und aufgezogen, umgeben von Liebe und positiven Reizen. Wir selektieren für Gesundheit, Charakter und Typizität nach den besten englischen und irischen Blutlinien.</p>
   <div class="hero-actions">
   <a href="/de/wuerfe-staffordshire-bull-terrier/" class="btn btn-primary" title="Verfügbare Welpen ansehen">Verfügbare Welpen</a>
@@ -114,7 +114,7 @@ custom_content: |
   <p>Der Staffy ist als "Nanny Dog" bekannt für seine Geduld mit Kindern. Er ist ein Hund, der gerne bei Menschen ist, am täglichen Leben teilnimmt und ein integraler Teil der Familie ist. Er ist kein Gartenhund: er ist ein Lebensbegleiter.</p>
   </div>
   <div class="zigzag-image">
-  <img src="/images/la-principessa-di roma.avif" alt="Staffordshire Bull Terrier in der Familie" loading="lazy" decoding="async" width="400" height="300">
+  <img src="/images/la-principessa-di-roma.avif" alt="Staffordshire Bull Terrier in der Familie" loading="lazy" decoding="async" width="400" height="300">
   </div>
   </div>
   </div>
@@ -157,7 +157,7 @@ custom_content: |
   
   <section class="dark-section">
   <h2>Unsere Leidenschaft</h2>
-  <p>Seit 2005 selektieren wir Staffordshire Bull Terrier mit Hingabe und Liebe. Jeder Welpe, der in unserer Zucht geboren wird, trägt Jahre an Erfahrung, Studium und Leidenschaft für diese außergewöhnliche Rasse in sich.</p>
+  <p>In der Rasse seit 2005, Zucht seit 2013: wir selektieren Staffordshire Bull Terrier mit Hingabe und Liebe. Jeder Welpe, der in unserer Zucht geboren wird, trägt Jahre an Erfahrung, Studium und Leidenschaft für diese außergewöhnliche Rasse in sich.</p>
   </section>
   
   <section class="cta-section">

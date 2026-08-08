@@ -141,7 +141,7 @@ custom_content: |
   
   <div class="dog">
   <span class="dog-name">Skilful-dogs Nora</span>
-  <img src="/images/Nora, femmina di staffordshire bull terrier.avif" alt="Skilful-dogs Nora - Staffordshire Bull Terrier breeding female" width="300" height="400" loading="lazy" decoding="async">
+  <img src="/images/nora-femmina-staffordshire-bull-terrier.avif" alt="Skilful-dogs Nora - Staffordshire Bull Terrier breeding female" width="300" height="400" loading="lazy" decoding="async">
   <ul>
   <li>L2HGA & HC clear by DNA</li>
   <li>Completely scissor bite</li>

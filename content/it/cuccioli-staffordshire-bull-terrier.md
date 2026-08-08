@@ -138,7 +138,7 @@ custom_content: |
   <p>I nostri cuccioli sono abituati fin da piccoli al contatto con bambini, imparando a giocare in modo appropriato e a gestire l'entusiasmo tipico dei più piccoli.</p>
   </div>
   <div class="zigzag-image">
-  <img src="/images/la-principessa-di roma.avif" alt="Staffordshire Bull Terrier in famiglia" loading="lazy" decoding="async" width="400" height="300">
+  <img src="/images/la-principessa-di-roma.avif" alt="Staffordshire Bull Terrier in famiglia" loading="lazy" decoding="async" width="400" height="300">
   </div>
   </div>
   </div>

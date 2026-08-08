@@ -39,12 +39,12 @@ custom_content: |
   <article class="article-content">
 
   <div class="lead">
-  <strong>In brief:</strong> The <a href="/en/" title="Staffordshire Bull Terrier Kennel">Staffordshire Bull Terrier</a> is the most affectionate dog that exists — but also one with an extremely strong personality. This guide is written by someone who has bred Staffies since 2005 and rehomed over a hundred of them. No generic descriptions: just the truth.
+  <strong>In brief:</strong> The <a href="/en/" title="Staffordshire Bull Terrier Kennel">Staffordshire Bull Terrier</a> is the most affectionate dog that exists — but also one with an extremely strong personality. This guide is written by someone who has been in the breed since 2005, breeding since 2013, and has rehomed over a hundred Staffordshire Bull Terriers. No generic descriptions: just the truth.
   </div>
 
   <h2>The Staffordshire Bull Terrier character: the truth</h2>
 
-  <p>I met my first Staffordshire Bull Terrier in 2005 at Crufts. Since then I have bred, raised and rehomed over a hundred of them. I know this breed in a way that no generic article can match.</p>
+  <p>I met my first Staffordshire Bull Terrier in 2005 at Crufts. In the breed since 2005, breeding since 2013: since then I have bred, raised and rehomed over a hundred of them. I know this breed in a way that no generic article can match.</p>
 
   <p>The Staffy is the most affectionate dog that exists. That's not rhetoric — it's something anyone who has ever lived with a Staffordshire Bull Terrier will confirm immediately. This dog has a physical need for human contact — it wants to stay close to you, sleep with you, follow you into every room.</p>
 

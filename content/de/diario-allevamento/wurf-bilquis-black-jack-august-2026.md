@@ -1,16 +1,16 @@
 ---
 title: "Wurf Bilquis × Black Jack: 8 Welpen geboren! (August 2026)"
-description: "Geboren am 1. August 2026: 8 Staffordshire Bull Terrier Welpen (4 Rüden, 4 Hündinnen) in der Zucht Del Piccolo Diavolo. Mutter Bilquis Goddess Diabhal (Italienische Championin ENCI, 4. beim World Dog Show 2024), Vater Black Jack Di Casa Giacalone. Reservierungen offen."
+description: "Geboren am 1. August 2026: 8 Staffordshire Bull Terrier Welpen (4 Rüden, 4 Hündinnen) in der Zucht Del Piccolo Diavolo. Mutter Bilquis Goddess Diabhal (Italienische Championin ENCI, 4. beim World Dog Show 2024), Vater Black Jack Di Casa Giacalone. Wurf vollständig: alle Welpen reserviert."
 slug: "wurf-bilquis-black-jack-august-2026"
 date: 2026-08-01
 image: "/images/cuccioli-bilquis-nati-1.webp"
 image_alt: "Neugeborene schwarze Staffordshire Bull Terrier Welpen aus dem Wurf von Bilquis"
-annuncio: "🎉 Sie sind da! 8 Welpen — 4 Rüden und 4 Hündinnen"
+annuncio: "🎉 Geboren! 8 Welpen — alle reserviert"
 ---
 
 <div style="background:#c9a227;color:#1a1a1a;padding:1rem 1.5rem;border-radius:8px;margin-bottom:2rem;text-align:center">
 <strong>🎉 GEBOREN AM 1. AUGUST 2026 — 8 WELPEN (4 RÜDEN, 4 HÜNDINNEN)</strong><br>
-Reservierungen offen — Eintrag in die Warteliste
+Alle reserviert — Warteliste für kommende Würfe offen
 </div>
 
 In der Zucht **Del Piccolo Diavolo** ist ein besonders erwarteter Wurf angekommen: am **1. August 2026** wurde unsere **Bilquis Goddess Diabhal** — Italienische Schönheitschampionin (ENCI) und 4. beim World Dog Show 2024 in Zagreb — Mutter von **8 Welpen (4 Rüden und 4 Hündinnen)**. Eine sorgfältig geplante Verpaarung, die den Stammbaum von **Bilquis Goddess Diabhal**, Tochter von **Skilful-Dogs Nora**, mit den soliden italienischen Linien des Vaters **Black Jack Di Casa Giacalone** vereint, Sohn des **Weltsiegers 2023** Quash Marvelous Hagler de Stafflorence.
@@ -63,7 +63,7 @@ In der Zucht **Del Piccolo Diavolo** ist ein besonders erwarteter Wurf angekomme
 
 **Farbe:** alle schwarz
 
-**Verfügbarkeit:** Reservierungen offen. Kontaktieren Sie uns für die Warteliste.
+**Verfügbarkeit:** Wurf vollständig, alle Welpen reserviert. Kontaktieren Sie uns für die Warteliste kommender Würfe.
 
 ## Warum dieser Wurf besonders ist
 

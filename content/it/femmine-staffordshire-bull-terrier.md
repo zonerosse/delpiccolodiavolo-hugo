@@ -223,7 +223,7 @@ custom_content: |
   </div>
   <div class="female-content">
   <div class="female-image">
-  <img src="/images/Nora, femmina di staffordshire bull terrier.avif" alt="Skilful-Dogs Nora" width="350" height="467" loading="lazy" decoding="async">
+  <img src="/images/nora-femmina-staffordshire-bull-terrier.avif" alt="Skilful-Dogs Nora" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="female-info">
   <p><strong>Test Genetici:</strong> L2HGA &amp; HC clear by DNA</p>
