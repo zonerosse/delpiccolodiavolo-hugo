@@ -20,6 +20,7 @@
   "note" "Raccontami qualcosa di te e di dove vivrà il cane"
   "invia" "Entra in lista d'attesa" "wa" "Oppure scrivimi su WhatsApp" "waSolo" "Scrivimi su WhatsApp"
   "ok" "Richiesta ricevuta. Ti rispondo entro 24 ore." "ko" "Invio non riuscito. Riprova, oppure scrivimi al 392 463 5584."
+  "erroreConsenso" "Per procedere devi accettare l'informativa privacy."
   "privacy" "I dati servono solo a ricontattarti sulle cucciolate. Nessuna newsletter, nessuna cessione a terzi. Puoi chiederne la cancellazione in qualsiasi momento."
   "consenso" "Ho letto l'informativa privacy e acconsento al trattamento dei miei dati per essere ricontattato."
   "linkPrivacy" "/privacy-policy/" "linkPrivacyTxt" "Informativa privacy"
@@ -37,6 +38,7 @@
   "note" "Tell me about yourself and where the dog will live"
   "invia" "Join the waiting list" "wa" "Or message me on WhatsApp" "waSolo" "Message me on WhatsApp"
   "ok" "Request received. I will reply within 24 hours." "ko" "Sending failed. Please try again, or message me at +39 392 463 5584."
+  "erroreConsenso" "You must accept the privacy notice to continue."
   "privacy" "Your details are used only to contact you about litters. No newsletter, no sharing with third parties. You can ask for deletion at any time."
   "consenso" "I have read the privacy notice and consent to the processing of my data in order to be contacted."
   "linkPrivacy" "/en/privacy-policy/" "linkPrivacyTxt" "Privacy notice"
@@ -54,6 +56,7 @@
   "note" "Erzählen Sie mir von sich und wo der Hund leben wird"
   "invia" "In die Warteliste eintragen" "wa" "Oder schreiben Sie mir auf WhatsApp" "waSolo" "Schreiben Sie mir auf WhatsApp"
   "ok" "Anfrage erhalten. Ich antworte innerhalb von 24 Stunden." "ko" "Senden fehlgeschlagen. Bitte erneut versuchen oder schreiben Sie mir: +39 392 463 5584."
+  "erroreConsenso" "Bitte akzeptieren Sie die Datenschutzerklärung, um fortzufahren."
   "privacy" "Ihre Daten werden nur verwendet, um Sie zu Würfen zu kontaktieren. Kein Newsletter, keine Weitergabe an Dritte. Löschung jederzeit möglich."
   "consenso" "Ich habe die Datenschutzerklärung gelesen und willige in die Verarbeitung meiner Daten zur Kontaktaufnahme ein."
   "linkPrivacy" "/de/datenschutz/" "linkPrivacyTxt" "Datenschutzerklärung"
@@ -116,8 +119,11 @@
 
     {{/* honeypot antispam: invisibile agli umani */}}
     <input type="text" name="azienda" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px">
+    <input type="hidden" name="ts" id="listaAttesaTs" value="">
     <input type="hidden" name="lingua" value="{{ $lang }}">
     <input type="hidden" name="pagina" value="{{ .Permalink }}">
+
+
 
     <label style="display:flex;gap:.6rem;align-items:flex-start;color:#5c4a3a;font-size:.9rem;line-height:1.5">
       <input type="checkbox" name="consenso" required value="si" style="margin-top:.25rem;width:18px;height:18px;flex-shrink:0">
@@ -136,7 +142,11 @@
         out=document.getElementById('esitoListaAttesa'),
         sink=document.getElementById('listaAttesaSink');
     if(!f||!out||!sink) return;
-    var OK={{ index $T "ok" }}, KO={{ index $T "ko" }}, inviato=false;
+    var OK={{ index $T "ok" }}, KO={{ index $T "ko" }},
+        ERRC={{ index $T "erroreConsenso" }}, inviato=false;
+
+    var ts=document.getElementById('listaAttesaTs');
+    if(ts) ts.value=String(Date.now());
 
     function mostra(testo, verde){
       out.style.display='block';
@@ -153,15 +163,18 @@
       out.scrollIntoView({behavior:'smooth', block:'center'});
     }
 
-    f.addEventListener('submit',function(){
-      if(f.azienda.value){ return false; }        // bot
+    f.addEventListener('submit',function(ev){
+      if(f.azienda.value){ ev.preventDefault(); return false; }
+
+      var cons=f.querySelector('input[name=consenso]');
+      if(cons && !cons.checked){ ev.preventDefault(); mostra(ERRC,false); return false; }
+
+
       inviato=true;
+      out.style.display='none';
       var btn=f.querySelector('button[type=submit]');
       btn.disabled=true; btn.style.opacity='.6';
-      // l'invio prosegue in modo nativo verso l'iframe
-      setTimeout(function(){
-        if(inviato){ f.style.display='none'; mostra(OK,true); }
-      }, 900);
+      setTimeout(function(){ if(inviato){ f.style.display='none'; mostra(OK,true); } }, 900);
     });
 
     sink.addEventListener('load',function(){
