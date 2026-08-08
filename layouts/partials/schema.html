@@ -178,7 +178,8 @@
 </script>
 {{ end }}
 
-{{/* FAQPage sulla pagina cuccioli */}}
+{{/* FAQPage sulla pagina cuccioli — le domande DEVONO corrispondere
+     esattamente a quelle visibili nella pagina (requisito Google) */}}
 {{ if in $currentURL "cuccioli-staffordshire-bull-terrier" }}
 <!-- JSON-LD: FAQPage Cuccioli -->
 <script type="application/ld+json">
@@ -188,26 +189,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "{{ if eq $lang "en" }}When can puppies be adopted?{{ else if eq $lang "de" }}Wann können Welpen adoptiert werden?{{ else }}Quando si possono adottare i cuccioli?{{ end }}",
+      "name": "Quando posso portare a casa il cucciolo?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "{{ if eq $lang "en" }}Our puppies leave the kennel at a minimum of 60 days, fully vaccinated, microchipped and with complete documentation.{{ else if eq $lang "de" }}Unsere Welpen verlassen die Zucht nach mindestens 60 Tagen, vollständig geimpft, gechippt und mit vollständiger Dokumentation.{{ else }}I nostri cuccioli lasciano l'allevamento a 60 giorni minimo, completamente vaccinati, con microchip e documentazione completa.{{ end }}"
+        "text": "I cuccioli lasciano il nostro allevamento a 60 giorni minimo, come previsto dalla legge italiana. A questa età sono completamente vaccinati, sverminati, con microchip e tutta la documentazione in regola."
       }
     },
     {
       "@type": "Question",
-      "name": "{{ if eq $lang "en" }}What does the puppy price include?{{ else if eq $lang "de" }}Was ist im Welpenpreis enthalten?{{ else }}Cosa include il prezzo del cucciolo?{{ end }}",
+      "name": "Cosa include il prezzo del cucciolo?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "{{ if eq $lang "en" }}The price includes: ENCI pedigree, microchip, health booklet with vaccinations, genetic test certificates for parents (L2HGA, HC, PHPV), photographic documentation and lifetime post-adoption support.{{ else if eq $lang "de" }}Der Preis umfasst: ENCI-Stammbaum, Mikrochip, Gesundheitsheft mit Impfungen, Zertifikate der Gentests der Eltern (L2HGA, HC, PHPV), fotografische Dokumentation und lebenslange Nachsorge.{{ else }}Il prezzo include: pedigree ENCI, microchip, libretto sanitario con vaccinazioni, certificati test genetici dei genitori (L2HGA, HC, PHPV), documentazione fotografica e supporto post-adozione a vita.{{ end }}"
+        "text": "Il prezzo include: pedigree ENCI, microchip registrato, libretto sanitario con vaccinazioni, certificati test genetici dei genitori (L2HGA, HC, PHPV), documentazione fotografica e supporto post-adozione a vita. Nessun extra nascosto."
       }
     },
     {
       "@type": "Question",
-      "name": "{{ if eq $lang "en" }}Do you ship puppies?{{ else if eq $lang "de" }}Liefern Sie Welpen nach Hause?{{ else }}Consegnate i cuccioli a domicilio?{{ end }}",
+      "name": "Quanto costa un cucciolo Staffordshire Bull Terrier?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "{{ if eq $lang "en" }}We prefer that you visit the kennel in person. For those with logistical difficulties, we can evaluate the best solution together.{{ else if eq $lang "de" }}Wir bevorzugen einen persönlichen Besuch in der Zucht. Bei logistischen Schwierigkeiten können wir gemeinsam die beste Lösung finden.{{ else }}Preferiamo che veniate a conoscere l'allevamento di persona. Per chi ha difficoltà logistiche, possiamo valutare insieme la soluzione migliore.{{ end }}"
+        "text": "I nostri cuccioli con pedigree ENCI e test genetici completi costano tra 1.200 e 1.500 euro. Il prezzo riflette anni di selezione, costi dei test genetici e la cura dedicata a ogni cucciolo. Diffidate di prezzi sotto i 1.000 euro."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Posso visitare l'allevamento prima di decidere?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Assolutamente sì, anzi lo consiglio caldamente. Ricevo su appuntamento a Ostellato (Ferrara). Vedrete i genitori, i cuccioli, i certificati e l'ambiente in cui crescono. Nessun acquisto dovrebbe avvenire senza visita."
       }
     }
   ]
