@@ -2,6 +2,19 @@
 title: "Allevamento Staffordshire Bull Terrier"
 translationKey: "home"
 description: "Allevamento etico di Staffordshire Bull Terrier dal 2013. Selezione responsabile, salute e carattere. Cuccioli con pedigree ENCI. Test genetici completi."
+correlati:
+  - url: "/cuccioli-staffordshire-bull-terrier/"
+    titolo: "Cuccioli disponibili"
+    testo: "Pedigree ENCI e test genetici completi"
+  - url: "/quanto-costa-cucciolo-staffordshire-bull-terrier/"
+    titolo: "Quanto costa un cucciolo"
+    testo: "Prezzi reali, senza sorprese"
+  - url: "/staffordshire-bull-terrier-e-il-cane-giusto-per-te/"
+    titolo: "È il cane giusto per te?"
+    testo: "Pregi e difetti, senza filtri"
+  - url: "/allevamento-staffordshire-bull-terrier-in-emilia-romagna/"
+    titolo: "Visita l'allevamento"
+    testo: "Ostellato (FE), su appuntamento"
 slug: ""
 custom_content: |
   <section class="hero">
@@ -225,6 +238,8 @@ custom_content: |
   </div>
   </div>
   </section>
+
+  <!--CORRELATI-->
 
   <section class="section">
   <div class="section-inner">

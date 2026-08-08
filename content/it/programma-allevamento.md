@@ -2,6 +2,19 @@
 title: "Programma allevamento Staffordshire Bull Terrier"
 translationKey: "programma"
 description: "Programma di allevamento Staffordshire Bull Terrier: criteri di selezione, salute, test genetici e storico delle cucciolate passate e future."
+correlati:
+  - url: "/linee-sangue-staffordshire-bull-terrier/"
+    titolo: "Linee di sangue"
+    testo: "Elitebull, Lackyle e la nostra selezione"
+  - url: "/standard-tipicita-morfologia/"
+    titolo: "Standard e tipicità"
+    testo: "Morfologia e criteri di valutazione"
+  - url: "/test-genetici-l2hga-hc-staffy/"
+    titolo: "Test genetici"
+    testo: "L2-HGA, HC e PHPV sui riproduttori"
+  - url: "/boas-staffordshire-bull-terrier-respirazione/"
+    titolo: "BOAS e respirazione"
+    testo: "Un criterio di selezione spesso ignorato"
 slug: "programma-allevamento"
 custom_content: |
   <section class="hero">
@@ -274,6 +287,8 @@ custom_content: |
   </div>
   </div>
   </section>
+
+  <!--CORRELATI-->
 
   <section class="dark-section">
   <h2>Affido e supporto post-adozione</h2>
