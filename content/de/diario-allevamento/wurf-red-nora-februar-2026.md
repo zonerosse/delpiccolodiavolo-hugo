@@ -1,6 +1,7 @@
 ---
 title: "Red × Nora Wurf: 3 Rüden geboren!"
-description: "Staffordshire Bull Terrier Wurf geboren am 9. Februar 2026. 3 Rüden: 2 gestromt und 1 rot-weiß. Vater Vangerbull Red Harricane, Mutter Skilful-dogs Nora (Mutter von 2 Italienischen Champions). Alle reserviert."
+translationKey: "cucciolata-red-nora-febbraio-2026"
+description: "Wurf geboren am 9. Februar 2026: 3 Rüden, 2 gestromt und 1 rot-weiß. Mutter Skilful-dogs Nora. Alle reserviert."
 slug: "wurf-red-nora-februar-2026"
 date: 2026-02-09
 image: "/images/red.avif"

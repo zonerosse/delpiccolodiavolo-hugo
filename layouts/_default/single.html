@@ -3,10 +3,11 @@
 {{ if .Params.custom_content }}
   {{ replace .Params.custom_content "<!--CUCCIOLATA-->" (partial "ultima-cucciolata.html" .) | safeHTML }}
 {{ else }}
+  {{ $haH1 := findRE "<h1[ >]" .Content 1 }}
   <div class="page-hero">
     {{ partial "breadcrumb.html" . }}
-    <h1>{{ .Title }}</h1>
-    {{ with .Description }}<p>{{ . }}</p>{{ end }}
+    {{ if not $haH1 }}<h1>{{ .Title }}</h1>
+    {{ with .Description }}<p>{{ . }}</p>{{ end }}{{ end }}
   </div>
 
   <div class="article-content">

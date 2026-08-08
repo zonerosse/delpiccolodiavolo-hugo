@@ -1,7 +1,8 @@
 ---
 title: "Staffordshire Bull Terrier: è il cane giusto per te? Pro e contro"
+titleSeo: "Staffordshire Bull Terrier: è il cane giusto per te?"
 translationKey: "cane-giusto"
-description: "Guida onesta per capire se lo Staffordshire Bull Terrier è la razza giusta per te: pregi, difetti reali, a chi è adatto e a chi no, impegno richiesto e costi. Consigli da un allevamento ENCI."
+description: "Guida onesta: pregi e difetti reali dello Staffordshire Bull Terrier, per chi è adatto e per chi no, impegno e costi."
 slug: "staffordshire-bull-terrier-e-il-cane-giusto-per-te"
 custom_content: |
   <section class="hero">

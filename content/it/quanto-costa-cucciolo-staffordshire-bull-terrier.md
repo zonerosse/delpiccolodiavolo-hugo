@@ -1,6 +1,7 @@
 ---
 title: "Quanto Costa un Cucciolo di Staffordshire Bull Terrier nel 2026"
-description: "Prezzo cucciolo Staffordshire Bull Terrier: da 1.200 a 1.500€ da un allevatore serio. Scopri cosa include il prezzo, perché diffidare dai 500€ e come riconoscere un cagnaro."
+titleSeo: "Quanto costa un cucciolo Staffordshire Bull Terrier"
+description: "Quanto costa un cucciolo Staffordshire Bull Terrier con pedigree ENCI: prezzi reali, cosa include e perché diffidare dei 500€."
 slug: "quanto-costa-cucciolo-staffordshire-bull-terrier"
 ---
 

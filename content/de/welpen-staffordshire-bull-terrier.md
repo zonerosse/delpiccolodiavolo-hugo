@@ -1,7 +1,7 @@
 ---
 title: "Welpen Staffordshire Bull Terrier"
 translationKey: "cuccioli"
-description: "Staffordshire Bull Terrier Welpen in der Familie aufgezogen: Gesundheits- und Charakterselektion, ENCI-Stammbaum, Elitebull und Lackyle Linien. Ostellato (FE). Seit 2013."
+description: "Staffordshire Bull Terrier Welpen mit ENCI-Ahnentafel und Gentests. Elitebull und Lackyle Linien. Ostellato (FE)."
 slug: "welpen-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">

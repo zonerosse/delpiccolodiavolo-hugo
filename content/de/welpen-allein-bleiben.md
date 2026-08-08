@@ -1,7 +1,7 @@
 ---
 title: "Welpen: Allein Bleiben Lernen"
 translationKey: "solitudine"
-description: "Wie man einen Staffordshire Bull Terrier Welpen an das Alleinsein gewöhnt: Routine, progressive Übungen, Trennungsangst-Prävention, sichere Umgebungen und nützliche Hilfsmittel."
+description: "Dem Staffordshire Bull Terrier Welpen das Alleinbleiben beibringen: Trennungsangst und schlechte Gewohnheiten vermeiden."
 slug: "welpen-allein-bleiben"
 custom_content: |
   <section class="hero">

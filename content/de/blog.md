@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Blog - Artikel & Ratgeber"
 translationKey: "blog"
-description: "Artikel über Welpen, Gesundheit und Wohlbefinden, Rassestandard und Blutlinien, Familie und Zusammenleben des Staffordshire Bull Terrier. Praktische Ratschläge von der Zucht Del Piccolo Diavolo."
+description: "Artikel über Welpen, Gesundheit, Standard und Zusammenleben mit dem Staffordshire Bull Terrier. Praktische Tipps aus der Zucht."
 slug: "blog"
 custom_content: |
   <section class="hero">

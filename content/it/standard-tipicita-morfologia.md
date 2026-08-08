@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier: Tipicità di Razza e Morfologia"
 translationKey: "standard"
-description: "Punti chiave dello standard FCI dello Staffordshire Bull Terrier: testa, proporzioni, torace, movimento, mantello e carattere. Come interpretare la tipicità di razza."
+description: "Standard FCI dello Staffordshire Bull Terrier: tipicità, morfologia e i punti che fanno la differenza in expo."
 slug: "standard-tipicita-morfologia"
 custom_content: |
   <section class="hero">

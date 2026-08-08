@@ -1,7 +1,7 @@
 ---
 title: "Allevamento Staffordshire Bull Terrier in Emilia-Romagna"
 translationKey: "contatti"
-description: "Allevamento Staffordshire Bull Terrier a Ostellato (Ferrara), Emilia-Romagna. Dal 2013, linee Elitebull e Lackyle, 3 Campioni Italiani, test genetici completi. Visite su appuntamento."
+description: "Allevamento Staffordshire Bull Terrier a Ostellato (Ferrara), Emilia-Romagna. Visite su appuntamento, WhatsApp attivo."
 slug: "allevamento-staffordshire-bull-terrier-in-emilia-romagna"
 custom_content: |
   <section class="hero">

@@ -1,7 +1,7 @@
 ---
 title: "Puppies: Managing Alone Time"
 translationKey: "solitudine"
-description: "How to accustom a Staffordshire Bull Terrier puppy to staying alone: routine, progressive exercises, separation anxiety prevention, safe environments and useful tools."
+description: "Teaching your Staffordshire Bull Terrier puppy to stay alone: preventing separation anxiety and bad habits."
 slug: "puppy-alone-time"
 custom_content: |
   <section class="hero">

@@ -1,7 +1,7 @@
 ---
 title: "Esercizio Sicuro per Staffordshire Bull Terrier"
 translationKey: "esercizio"
-description: "Guida completa all'esercizio fisico sicuro per Staffy: attività per cuccioli e adulti, prevenzione colpo di calore, segnali di sovraccarico e sport consigliati."
+description: "Esercizio fisico sicuro per lo Staffordshire Bull Terrier: attività per cuccioli e adulti, colpo di calore e segnali di sovraccarico."
 slug: "salute-esercizio-sicuro"
 custom_content: |
   <section class="hero">

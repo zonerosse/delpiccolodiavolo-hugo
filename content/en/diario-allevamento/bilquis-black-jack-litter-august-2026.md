@@ -1,6 +1,8 @@
 ---
 title: "Bilquis × Black Jack Litter: 8 Puppies Born! (August 2026)"
-description: "Born August 1, 2026: 8 Staffordshire Bull Terrier puppies (4 males, 4 females) at Del Piccolo Diavolo kennel. Dam Bilquis Goddess Diabhal (Italian Champion ENCI, 4th at the 2024 World Dog Show), sire Black Jack Di Casa Giacalone. Litter complete: all puppies reserved."
+titleSeo: "Bilquis × Black Jack litter: 8 puppies, August 2026"
+translationKey: "cucciolata-bilquis-agosto-2026"
+description: "Born 1 August 2026: 8 Staffordshire Bull Terrier puppies from Bilquis Goddess Diabhal, Italian Champion ENCI. All reserved."
 slug: "bilquis-black-jack-litter-august-2026"
 date: 2026-08-01
 image: "/images/cuccioli-bilquis-nati-1.webp"

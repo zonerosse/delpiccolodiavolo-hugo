@@ -5,9 +5,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  {{/* Il brand si aggiunge solo se non e' gia' nel titolo */}}
+  {{/* Title SEO: titleSeo del front matter ha la precedenza.
+       Altrimenti si aggiunge il brand solo se il totale resta entro 60 caratteri
+       (sempre in home, dove il brand deve comparire). */}}
   {{ $brand := "Del Piccolo Diavolo" }}
-  <title>{{ if in .Title $brand }}{{ .Title }}{{ else }}{{ .Title }} | {{ $brand }}{{ end }}</title>
+  {{ $base := .Title }}
+  {{ with .Params.titleSeo }}{{ $base = . }}{{ end }}
+  {{ $conBrand := printf "%s | %s" $base $brand }}
+  {{ $titolo := $base }}
+  {{ if in $base $brand }}
+    {{ $titolo = $base }}
+  {{ else if or .IsHome (le (len $conBrand) 60) }}
+    {{ $titolo = $conBrand }}
+  {{ end }}
+  <title>{{ $titolo }}</title>
   <meta name="description" content="{{ .Description | default .Site.Params.description }}">
 
   {{/* Preconnect to external domains */}}
@@ -46,7 +57,7 @@
   <meta property="og:type" content="website">
   <meta property="og:locale" content="{{ if eq .Site.Language.Lang "it" }}it_IT{{ else }}en_US{{ end }}">
   <meta property="og:site_name" content="Allevamento Del Piccolo Diavolo">
-  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:title" content="{{ with .Params.titleSeo }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
   <meta property="og:description" content="{{ .Description | default .Site.Params.description }}">
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:image" content="{{ .Params.og_image | default "/images/femmina-bilquis-hero.avif" | absURL }}">
@@ -56,7 +67,7 @@
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ .Title }}">
+  <meta name="twitter:title" content="{{ with .Params.titleSeo }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
   <meta name="twitter:description" content="{{ .Description | default .Site.Params.description }}">
   <meta name="twitter:image" content="{{ .Params.og_image | default "/images/femmina-bilquis-hero.avif" | absURL }}">
 

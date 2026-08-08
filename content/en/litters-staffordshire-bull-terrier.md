@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Litters"
 translationKey: "programma"
-description: "Staffordshire Bull Terrier litters with selected parents, L2HGA/HC genetic testing, ENCI pedigree. Breeding program, Elitebull and Lackyle lines. Ostellato (FE), Italy."
+description: "Planned and current Staffordshire Bull Terrier litters at Del Piccolo Diavolo: parents, health tests and availability."
 slug: "litters-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">

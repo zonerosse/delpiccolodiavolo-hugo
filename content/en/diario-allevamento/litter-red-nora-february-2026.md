@@ -1,6 +1,7 @@
 ---
 title: "Red × Nora Litter: 3 Males Born!"
-description: "Staffordshire Bull Terrier litter born February 9, 2026. 3 males: 2 brindle and 1 red & white. Sire Vangerbull Red Harricane, dam Skilful-dogs Nora (mother of 2 Italian Champions). All reserved."
+translationKey: "cucciolata-red-nora-febbraio-2026"
+description: "Litter born 9 February 2026: 3 males, 2 brindle and 1 red & white. Dam Skilful-dogs Nora. All reserved."
 slug: "red-nora-litter-february-2026"
 date: 2026-02-09
 image: "/images/red.avif"
