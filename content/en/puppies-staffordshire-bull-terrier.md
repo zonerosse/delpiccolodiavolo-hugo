@@ -165,4 +165,5 @@ custom_content: |
   <p>Call us or write on WhatsApp for information about available litters.</p>
   <a href="https://wa.me/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20Staffordshire%20Bull%20Terrier%20puppies" class="btn" title="Write us on WhatsApp for puppy info">Write Us on WhatsApp</a>
   </section>
+  <!--LISTAATTESA-->
 ---

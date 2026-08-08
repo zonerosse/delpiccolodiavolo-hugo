@@ -3,6 +3,22 @@
 {{- $cta := "Scopri la cucciolata →" -}}
 {{- if eq $lang "en" -}}{{- $badge = "🐾 Latest litter" -}}{{- $cta = "Discover the litter →" -}}{{- end -}}
 {{- if eq $lang "de" -}}{{- $badge = "🐾 Neuester Wurf" -}}{{- $cta = "Zum Wurf →" -}}{{- end -}}
+{{- $listaUrl := "/cuccioli-staffordshire-bull-terrier/#lista-attesa" -}}
+{{- $listaTit := "La prossima cucciolata è in programma." -}}
+{{- $listaSub := "Senza impegno né acconto." -}}
+{{- $listaCta := "Lista d'attesa" -}}
+{{- if eq $lang "en" -}}
+  {{- $listaUrl = "/en/puppies-staffordshire-bull-terrier/#lista-attesa" -}}
+  {{- $listaTit = "The next litter is already planned." -}}
+  {{- $listaSub = "No commitment, no deposit." -}}
+  {{- $listaCta = "Waiting list" -}}
+{{- end -}}
+{{- if eq $lang "de" -}}
+  {{- $listaUrl = "/de/welpen-staffordshire-bull-terrier/#lista-attesa" -}}
+  {{- $listaTit = "Der nächste Wurf ist bereits geplant." -}}
+  {{- $listaSub = "Ohne Verpflichtung, ohne Anzahlung." -}}
+  {{- $listaCta = "Warteliste" -}}
+{{- end -}}
 {{- with .Site.GetPage "/diario-allevamento" -}}
   {{- range first 1 .RegularPages.ByDate.Reverse -}}
     {{- $img := .Params.image | default "/images/logo.webp" -}}
@@ -17,6 +33,14 @@
   <p style="margin:0 0 1.1rem;color:#4a3f35;line-height:1.6;">{{ .Description }}</p>
   <a href="{{ .RelPermalink }}" class="btn btn-primary" title="{{ $cta }}">{{ $cta }}</a>
   </div>
+  </div>
+
+  <div style="max-width:900px;margin:1rem auto 0;background:#fdfaf4;border:1px solid #e6dcc9;border-left:4px solid #c9a227;border-radius:10px;padding:1rem 1.2rem;display:flex;flex-wrap:wrap;align-items:center;gap:.9rem;justify-content:space-between">
+    <div style="flex:1;min-width:230px">
+      <p style="margin:0 0 .2rem;color:#5c4a3a;font-weight:700;font-size:1.02rem;line-height:1.4">{{ $listaTit }}</p>
+      <p style="margin:0;color:#7a6a58;font-size:.9rem;line-height:1.5">{{ $listaSub }}</p>
+    </div>
+    <a href="{{ $listaUrl }}" style="display:inline-block;border:1.5px solid #8b5a2b;color:#8b5a2b;padding:.6rem 1.1rem;border-radius:8px;font-weight:700;text-decoration:none;font-size:.94rem;white-space:nowrap">{{ $listaCta }}</a>
   </div>
   </div>
   </section>

@@ -124,15 +124,28 @@ custom_content: |
   </div>
   
   <div class="legal-section">
-  <h3>9. Cookies und Tracking-Technologien</h3>
+  <h3>9. Formular &bdquo;Warteliste&ldquo;</h3>
+  <p>Diese Website bietet ein freiwilliges Formular an, um bei kommenden W&uuml;rfen kontaktiert zu werden.</p>
+  <p><strong>Erhobene Daten:</strong> Vor- und Nachname, E-Mail-Adresse, gegebenenfalls Telefonnummer sowie die Angaben, die Sie freiwillig machen (gesuchter Welpe, Geschlechtspr&auml;ferenz, Zeitrahmen, Erfahrung mit Hunden, freie Anmerkungen).</p>
+  <p><strong>Zweck:</strong> ausschlie&szlig;lich die Kontaktaufnahme zur Verf&uuml;gbarkeit von Welpen und die Beantwortung Ihrer Fragen. Ihre Daten werden nicht f&uuml;r Newsletter, automatisiertes Marketing oder Profiling verwendet.</p>
+  <p><strong>Rechtsgrundlage:</strong> Ihre Einwilligung, die Sie durch Ankreuzen des entsprechenden Feldes vor dem Absenden erteilen (Art. 6 Abs. 1 lit. a DSGVO).</p>
+  <p><strong>Speicherort:</strong> die Eingaben werden in einer Google-Workspace-Tabelle gespeichert, auf die ausschlie&szlig;lich der Verantwortliche Zugriff hat, und als Benachrichtigung an dessen Postfach gesendet. Google Ireland Limited handelt als Auftragsverarbeiter.</p>
+  <p><strong>Speicherdauer:</strong> die Daten werden bis zu 24 Monate ab Absenden gespeichert oder bis zu Ihrem L&ouml;schverlangen, je nachdem was fr&uuml;her eintritt.</p>
+  <p><strong>Weitergabe an Dritte:</strong> keine. Ihre Daten werden nicht verkauft, &uuml;bermittelt oder an andere Z&uuml;chter oder Dritte weitergegeben.</p>
+  <p><strong>Ihre Rechte:</strong> Sie k&ouml;nnen jederzeit Auskunft, Berichtigung, L&ouml;schung, Einschr&auml;nkung oder &Uuml;bertragbarkeit Ihrer Daten verlangen und Ihre Einwilligung widerrufen, indem Sie sich an die in dieser Erkl&auml;rung genannten Kontaktdaten wenden. Der Widerruf ber&uuml;hrt nicht die Rechtm&auml;&szlig;igkeit der zuvor erfolgten Verarbeitung.</p>
+  <p>Das Absenden des Formulars ist v&ouml;llig freiwillig: Sie k&ouml;nnen uns auch &uuml;ber WhatsApp oder telefonisch kontaktieren, ohne Daten auf dieser Website zu hinterlassen.</p>
+  </div>
+
+  <div class="legal-section">
+  <h3>10. Cookies und Tracking-Technologien</h3>
   <p><strong>Diese Website verwendet KEINE Cookies.</strong></p>
   <p>Es werden keine technischen Cookies, Profiling-Cookies, Third-Party-Cookies oder Benutzer-Tracking-Systeme verwendet.</p>
   </div>
   
   <div class="legal-section">
-  <h3>10. Änderungen der Datenschutzerklärung</h3>
+  <h3>11. Änderungen der Datenschutzerklärung</h3>
   <p>Diese Datenschutzerklärung kann regelmäßig aktualisiert werden, um regulatorische Änderungen oder Änderungen in unseren Datenverarbeitungspraktiken widerzuspiegeln.</p>
-  <p class="last-updated"><em>Letzte Aktualisierung: November 2025</em></p>
+  <p class="last-updated"><em>Letzte Aktualisierung: August 2026</em></p>
   </div>
   
   </div>
