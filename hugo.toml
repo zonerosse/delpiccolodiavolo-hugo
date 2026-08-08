@@ -44,7 +44,7 @@ enableRobotsTXT = true
 
 [params]
   # Incollare qui l'URL /exec del deployment Apps Script (vedi apps-script-lista-attesa.gs)
-  listaAttesaEndpoint = ""
+  listaAttesaEndpoint = "https://script.google.com/macros/s/AKfycbxW-K7ZI0f6v-DnJ5xF9DxHYE350z0LjIWO-etSWbqmHMkdhwJDVZxPCXZbfADxKoGJNg/exec"
   phone = "+393924635584"
   email = "zonerosse@gmail.com"
   whatsapp = "393924635584"

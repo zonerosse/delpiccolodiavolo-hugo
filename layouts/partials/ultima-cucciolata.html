@@ -3,18 +3,18 @@
 {{- $cta := "Scopri la cucciolata →" -}}
 {{- if eq $lang "en" -}}{{- $badge = "🐾 Latest litter" -}}{{- $cta = "Discover the litter →" -}}{{- end -}}
 {{- if eq $lang "de" -}}{{- $badge = "🐾 Neuester Wurf" -}}{{- $cta = "Zum Wurf →" -}}{{- end -}}
-{{- $listaUrl := "/cuccioli-staffordshire-bull-terrier/#lista-attesa" -}}
+{{- $listaUrl := "/lista-attesa/" -}}
 {{- $listaTit := "La prossima cucciolata è in programma." -}}
 {{- $listaSub := "Senza impegno né acconto." -}}
 {{- $listaCta := "Lista d'attesa" -}}
 {{- if eq $lang "en" -}}
-  {{- $listaUrl = "/en/puppies-staffordshire-bull-terrier/#lista-attesa" -}}
+  {{- $listaUrl = "/en/waiting-list/" -}}
   {{- $listaTit = "The next litter is already planned." -}}
   {{- $listaSub = "No commitment, no deposit." -}}
   {{- $listaCta = "Waiting list" -}}
 {{- end -}}
 {{- if eq $lang "de" -}}
-  {{- $listaUrl = "/de/welpen-staffordshire-bull-terrier/#lista-attesa" -}}
+  {{- $listaUrl = "/de/warteliste/" -}}
   {{- $listaTit = "Der nächste Wurf ist bereits geplant." -}}
   {{- $listaSub = "Ohne Verpflichtung, ohne Anzahlung." -}}
   {{- $listaCta = "Warteliste" -}}
