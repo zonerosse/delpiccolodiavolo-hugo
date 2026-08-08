@@ -1,16 +1,16 @@
 ---
 title: "Bilquis × Black Jack Litter: 8 Puppies Born! (August 2026)"
-description: "Born August 1, 2026: 8 Staffordshire Bull Terrier puppies (4 males, 4 females) at Del Piccolo Diavolo kennel. Dam Bilquis Goddess Diabhal (Italian Champion ENCI, 4th at the 2024 World Dog Show), sire Black Jack Di Casa Giacalone. Bookings open."
+description: "Born August 1, 2026: 8 Staffordshire Bull Terrier puppies (4 males, 4 females) at Del Piccolo Diavolo kennel. Dam Bilquis Goddess Diabhal (Italian Champion ENCI, 4th at the 2024 World Dog Show), sire Black Jack Di Casa Giacalone. Litter complete: all puppies reserved."
 slug: "bilquis-black-jack-litter-august-2026"
 date: 2026-08-01
 image: "/images/cuccioli-bilquis-nati-1.webp"
 image_alt: "Newborn black Staffordshire Bull Terrier puppies from Bilquis' litter"
-annuncio: "🎉 They're born! 8 puppies — 4 males and 4 females"
+annuncio: "🎉 Born! 8 puppies — all reserved"
 ---
 
 <div style="background:#c9a227;color:#1a1a1a;padding:1rem 1.5rem;border-radius:8px;margin-bottom:2rem;text-align:center">
 <strong>🎉 BORN AUGUST 1, 2026 — 8 PUPPIES (4 MALES, 4 FEMALES)</strong><br>
-Bookings open — join the waiting list
+All reserved — waiting list open for upcoming litters
 </div>
 
 At the **Del Piccolo Diavolo** kennel, a particularly awaited litter has arrived: on **August 1, 2026** our **Bilquis Goddess Diabhal** — Italian Show Champion (ENCI) and 4th at the 2024 World Dog Show in Zagreb — became the mother of **8 puppies (4 males and 4 females)**. A carefully planned mating that combines the pedigree of **Bilquis Goddess Diabhal**, daughter of **Skilful-Dogs Nora**, with the solid Italian lines of the sire **Black Jack Di Casa Giacalone**, son of the **2023 World Champion** Quash Marvelous Hagler de Stafflorence.
@@ -63,7 +63,7 @@ At the **Del Piccolo Diavolo** kennel, a particularly awaited litter has arrived
 
 **Colour:** all black
 
-**Availability:** bookings open. Contact us to join the waiting list.
+**Availability:** litter complete, all puppies reserved. Contact us to join the waiting list for upcoming litters.
 
 ## Why this litter is special
 

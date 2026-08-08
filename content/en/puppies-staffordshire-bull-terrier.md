@@ -13,7 +13,7 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Del Piccolo Diavolo Kennel</span>
   <h1 class="hero-title"><em>Staffordshire</em><br>Bull Terrier<br>Puppies</h1>
-  <p class="hero-subtitle">Elitebull and Lackyle Lines - Since 2005</p>
+  <p class="hero-subtitle">Elitebull and Lackyle Lines - Since 2013</p>
   <p class="hero-description">Our puppies are born and raised in the family, surrounded by love and positive stimuli. We select for health, character and breed type, following the best English and Irish bloodlines.</p>
   <div class="hero-actions">
   <a href="/en/litters-staffordshire-bull-terrier/" class="btn btn-primary" title="See available puppies">Available Puppies</a>
@@ -114,7 +114,7 @@ custom_content: |
   <p>The Staffy is known as the "nanny dog" for its patience with children. It's a dog that loves being with people, participating in daily life, being an integral part of the family. It's not a backyard dog: it's a life companion.</p>
   </div>
   <div class="zigzag-image">
-  <img src="/images/la-principessa-di roma.avif" alt="Staffordshire Bull Terrier in family" loading="lazy" decoding="async" width="400" height="300">
+  <img src="/images/la-principessa-di-roma.avif" alt="Staffordshire Bull Terrier in family" loading="lazy" decoding="async" width="400" height="300">
   </div>
   </div>
   </div>
@@ -157,7 +157,7 @@ custom_content: |
   
   <section class="dark-section">
   <h2>Our Passion</h2>
-  <p>Since 2005 we have been selecting Staffordshire Bull Terriers with dedication and love. Every puppy born in our kennel carries years of experience, study and passion for this extraordinary breed.</p>
+  <p>In the breed since 2005, breeding since 2013: we select Staffordshire Bull Terriers with dedication and love. Every puppy born in our kennel carries years of experience, study and passion for this extraordinary breed.</p>
   </section>
   
   <section class="cta-section">

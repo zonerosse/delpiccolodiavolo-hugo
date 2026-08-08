@@ -263,3 +263,12 @@
 # 404 PAGE
 # -------------------------------------------------
 /* /404.html 404
+
+# -------------------------------------------------
+# VARIANTI STORICHE ANCORA INDICIZZATE DA GOOGLE
+# -------------------------------------------------
+/cuccioli-staffordshire.html /cuccioli-staffordshire-bull-terrier/ 301
+/cuccioli-staffordshire /cuccioli-staffordshire-bull-terrier/ 301
+/femmine/* /femmine-staffordshire-bull-terrier/ 301
+/maschi/* /maschi-staffordshire-bull-terrier/ 301
+/cuccioli/* /cuccioli-staffordshire-bull-terrier/ 301
