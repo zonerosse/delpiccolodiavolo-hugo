@@ -20,7 +20,7 @@
   "note" "Raccontami qualcosa di te e di dove vivrà il cane"
   "invia" "Entra in lista d'attesa" "wa" "Oppure scrivimi su WhatsApp" "waSolo" "Scrivimi su WhatsApp"
   "ok" "Richiesta ricevuta. Ti rispondo entro 24 ore." "ko" "Invio non riuscito. Riprova, oppure scrivimi al 392 463 5584."
-  "erroreConsenso" "Per procedere devi accettare l'informativa privacy."
+  "erroreConsenso" "Per procedere devi accettare l'informativa privacy." "erroreNome" "Scrivi il tuo nome e cognome." "erroreEmail" "Controlla l'indirizzo email: sembra incompleto."
   "privacy" "I dati servono solo a ricontattarti sulle cucciolate. Nessuna newsletter, nessuna cessione a terzi. Puoi chiederne la cancellazione in qualsiasi momento."
   "consenso" "Ho letto l'informativa privacy e acconsento al trattamento dei miei dati per essere ricontattato."
   "linkPrivacy" "/privacy-policy/" "linkPrivacyTxt" "Informativa privacy"
@@ -38,7 +38,7 @@
   "note" "Tell me about yourself and where the dog will live"
   "invia" "Join the waiting list" "wa" "Or message me on WhatsApp" "waSolo" "Message me on WhatsApp"
   "ok" "Request received. I will reply within 24 hours." "ko" "Sending failed. Please try again, or message me at +39 392 463 5584."
-  "erroreConsenso" "You must accept the privacy notice to continue."
+  "erroreConsenso" "You must accept the privacy notice to continue." "erroreNome" "Please enter your full name." "erroreEmail" "Please check your email address: it looks incomplete."
   "privacy" "Your details are used only to contact you about litters. No newsletter, no sharing with third parties. You can ask for deletion at any time."
   "consenso" "I have read the privacy notice and consent to the processing of my data in order to be contacted."
   "linkPrivacy" "/en/privacy-policy/" "linkPrivacyTxt" "Privacy notice"
@@ -56,7 +56,7 @@
   "note" "Erzählen Sie mir von sich und wo der Hund leben wird"
   "invia" "In die Warteliste eintragen" "wa" "Oder schreiben Sie mir auf WhatsApp" "waSolo" "Schreiben Sie mir auf WhatsApp"
   "ok" "Anfrage erhalten. Ich antworte innerhalb von 24 Stunden." "ko" "Senden fehlgeschlagen. Bitte erneut versuchen oder schreiben Sie mir: +39 392 463 5584."
-  "erroreConsenso" "Bitte akzeptieren Sie die Datenschutzerklärung, um fortzufahren."
+  "erroreConsenso" "Bitte akzeptieren Sie die Datenschutzerklärung, um fortzufahren." "erroreNome" "Bitte geben Sie Ihren Vor- und Nachnamen ein." "erroreEmail" "Bitte prüfen Sie Ihre E-Mail-Adresse: sie scheint unvollständig."
   "privacy" "Ihre Daten werden nur verwendet, um Sie zu Würfen zu kontaktieren. Kein Newsletter, keine Weitergabe an Dritte. Löschung jederzeit möglich."
   "consenso" "Ich habe die Datenschutzerklärung gelesen und willige in die Verarbeitung meiner Daten zur Kontaktaufnahme ein."
   "linkPrivacy" "/de/datenschutz/" "linkPrivacyTxt" "Datenschutzerklärung"
@@ -72,7 +72,7 @@
 
   {{- if $ep }}
   <iframe name="listaAttesaSink" id="listaAttesaSink" style="display:none" title="invio"></iframe>
-  <form id="formListaAttesa" method="POST" action="{{ $ep }}" target="listaAttesaSink" style="display:grid;gap:.9rem">
+  <form id="formListaAttesa" method="POST" action="{{ $ep }}" target="listaAttesaSink" novalidate style="display:grid;gap:.9rem">
     <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:.9rem">
       <label style="display:block">
         <span style="display:block;font-weight:700;color:#5c4a3a;font-size:.9rem;margin-bottom:.25rem">{{ index $T "nome" }}</span>
@@ -143,7 +143,7 @@
         sink=document.getElementById('listaAttesaSink');
     if(!f||!out||!sink) return;
     var OK={{ index $T "ok" }}, KO={{ index $T "ko" }},
-        ERRC={{ index $T "erroreConsenso" }}, inviato=false;
+        ERRC={{ index $T "erroreConsenso" }}, ERRN={{ index $T "erroreNome" }}, ERRE={{ index $T "erroreEmail" }}, inviato=false;
 
     var ts=document.getElementById('listaAttesaTs');
     if(ts) ts.value=String(Date.now());
@@ -165,6 +165,14 @@
 
     f.addEventListener('submit',function(ev){
       if(f.azienda.value){ ev.preventDefault(); return false; }
+
+      var nome=f.querySelector('input[name=nome]');
+      if(!nome || !nome.value.trim()){ ev.preventDefault(); mostra(ERRN,false); if(nome) nome.focus(); return false; }
+
+      var mail=f.querySelector('input[name=email]');
+      if(!mail || mail.value.indexOf('@')<1 || mail.value.indexOf('.')<0){
+        ev.preventDefault(); mostra(ERRE,false); if(mail) mail.focus(); return false;
+      }
 
       var cons=f.querySelector('input[name=consenso]');
       if(cons && !cons.checked){ ev.preventDefault(); mostra(ERRC,false); return false; }
