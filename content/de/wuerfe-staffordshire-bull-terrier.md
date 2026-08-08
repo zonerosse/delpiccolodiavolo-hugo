@@ -270,5 +270,4 @@ custom_content: |
   <p>Rufen Sie uns an oder schreiben Sie uns auf WhatsApp für Informationen über verfügbare und zukünftige Würfe.</p>
   <a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20möchte%20Infos%20über%20Staffordshire%20Bull%20Terrier%20Würfe" class="btn" title="Schreiben Sie uns auf WhatsApp für Wurf-Infos">Auf WhatsApp Schreiben</a>
   </section>
-  <!--LISTAATTESA-->
 ---

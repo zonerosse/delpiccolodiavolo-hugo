@@ -288,8 +288,6 @@ custom_content: |
   </div>
   </section>
 
-  <!--LISTAATTESA-->
-
   <!--CORRELATI-->
 
   <section class="dark-section">

@@ -3,9 +3,9 @@
 {{ if .Params.custom_content }}
   {{ $lang := .Site.Language.Lang }}
   {{ $lblNovita := "Ultima Novità" }}{{ $lblCucciolata := "Ultima Cucciolata" }}{{ $badge := "🐾 Ultima novità" }}{{ $leggi := "Leggi tutto →" }}
-  {{ $lUrl := "/cuccioli-staffordshire-bull-terrier/#lista-attesa" }}{{ $lTit := "La prossima cucciolata è in programma." }}{{ $lSub := "Senza impegno né acconto." }}{{ $lCta := "Lista d’attesa" }}
-  {{ if eq $lang "en" }}{{ $lUrl = "/en/puppies-staffordshire-bull-terrier/#lista-attesa" }}{{ $lTit = "The next litter is already planned." }}{{ $lSub = "No commitment, no deposit." }}{{ $lCta = "Waiting list" }}{{ $lblNovita = "Latest News" }}{{ $lblCucciolata = "Latest Litter" }}{{ $badge = "🐾 Latest news" }}{{ $leggi = "Read more →" }}{{ end }}
-  {{ if eq $lang "de" }}{{ $lUrl = "/de/welpen-staffordshire-bull-terrier/#lista-attesa" }}{{ $lTit = "Der nächste Wurf ist bereits geplant." }}{{ $lSub = "Ohne Verpflichtung, ohne Anzahlung." }}{{ $lCta = "Warteliste" }}{{ $lblNovita = "Neuigkeiten" }}{{ $lblCucciolata = "Neuester Wurf" }}{{ $badge = "🐾 Neuigkeit" }}{{ $leggi = "Mehr lesen →" }}{{ end }}
+  {{ $lUrl := "/lista-attesa/" }}{{ $lTit := "La prossima cucciolata è in programma." }}{{ $lSub := "Senza impegno né acconto." }}{{ $lCta := "Lista d’attesa" }}
+  {{ if eq $lang "en" }}{{ $lUrl = "/en/waiting-list/" }}{{ $lTit = "The next litter is already planned." }}{{ $lSub = "No commitment, no deposit." }}{{ $lCta = "Waiting list" }}{{ $lblNovita = "Latest News" }}{{ $lblCucciolata = "Latest Litter" }}{{ $badge = "🐾 Latest news" }}{{ $leggi = "Read more →" }}{{ end }}
+  {{ if eq $lang "de" }}{{ $lUrl = "/de/warteliste/" }}{{ $lTit = "Der nächste Wurf ist bereits geplant." }}{{ $lSub = "Ohne Verpflichtung, ohne Anzahlung." }}{{ $lCta = "Warteliste" }}{{ $lblNovita = "Neuigkeiten" }}{{ $lblCucciolata = "Neuester Wurf" }}{{ $badge = "🐾 Neuigkeit" }}{{ $leggi = "Mehr lesen →" }}{{ end }}
   {{ $news := "" }}
   {{ with .Site.GetPage "/diario-allevamento" }}
     {{ range first 1 .RegularPages.ByDate.Reverse }}

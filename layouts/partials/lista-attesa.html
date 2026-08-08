@@ -9,16 +9,16 @@
 {{- $wa := .Site.Params.whatsapp | default "393924635584" -}}
 
 {{- $T := dict
-  "titolo" "La cucciolata di agosto è completa"
-  "intro" "Tutti gli otto cuccioli sono stati affidati a famiglie selezionate. Non produco cucciolate su richiesta: pianifico pochi accoppiamenti l'anno, quando i tempi e le condizioni delle femmine lo permettono."
-  "intro2" "Se stai pensando a uno Staffordshire Bull Terrier, la lista d'attesa è il modo giusto per iniziare. Non è un impegno né un acconto: è una conversazione che comincia adesso, così quando nasce la prossima cucciolata ci conosciamo già."
+  "titolo" ""
+  "intro" "I cuccioli vengono affidati prima della nascita, a famiglie che conosco. Non produco cucciolate su richiesta: pianifico pochi accoppiamenti l'anno, quando i tempi e le condizioni delle femmine lo permettono."
+  "intro2" "La lista d'attesa non è un impegno e non prevede acconti. È il modo per conoscerci con calma, così quando arriva la prossima cucciolata sappiamo già se siamo la scelta giusta l'uno per l'altro."
   "nome" "Nome e cognome" "email" "Email" "tel" "Telefono o WhatsApp"
   "scopo" "Cosa cerchi" "scopo1" "Un compagno di famiglia" "scopo2" "Famiglia ed esposizioni" "scopo3" "Non ho ancora deciso"
   "sesso" "Preferenza" "sesso1" "Maschio" "sesso2" "Femmina" "sesso3" "Indifferente"
   "tempi" "Entro quando" "tempi1" "Appena possibile" "tempi2" "Entro 6 mesi" "tempi3" "Entro un anno" "tempi4" "Non ho fretta"
   "esp" "Hai già avuto cani?" "esp1" "Sì, anche della razza" "esp2" "Sì, altre razze" "esp3" "È il mio primo cane"
   "note" "Raccontami qualcosa di te e di dove vivrà il cane"
-  "invia" "Entra in lista d'attesa" "wa" "Oppure scrivimi su WhatsApp"
+  "invia" "Entra in lista d'attesa" "wa" "Oppure scrivimi su WhatsApp" "waSolo" "Scrivimi su WhatsApp"
   "ok" "Richiesta ricevuta. Ti rispondo entro 24 ore." "ko" "Invio non riuscito. Scrivimi su WhatsApp."
   "privacy" "I dati servono solo a ricontattarti sulle cucciolate. Nessuna newsletter, nessuna cessione a terzi. Puoi chiederne la cancellazione in qualsiasi momento."
   "consenso" "Ho letto l'informativa privacy e acconsento al trattamento dei miei dati per essere ricontattato."
@@ -26,16 +26,16 @@
   -}}
 
 {{- if eq $lang "en" }}{{ $T = dict
-  "titolo" "The August litter is complete"
-  "intro" "All eight puppies have gone to selected families. I don't breed on demand: I plan a few matings a year, when timing and the females' condition allow it."
-  "intro2" "If you are considering a Staffordshire Bull Terrier, the waiting list is the right way to start. It is not a commitment and there is no deposit: it is a conversation that begins now, so that when the next litter arrives we already know each other."
+  "titolo" ""
+  "intro" "Puppies are placed before they are born, with families I have got to know. I don't breed on demand: I plan a few matings a year, when timing and the females' condition allow it."
+  "intro2" "The waiting list is not a commitment and requires no deposit. It is a way to get to know each other without hurry, so that when the next litter arrives we already know whether we are the right match."
   "nome" "Full name" "email" "Email" "tel" "Phone or WhatsApp"
   "scopo" "What you are looking for" "scopo1" "A family companion" "scopo2" "Family and shows" "scopo3" "Not decided yet"
   "sesso" "Preference" "sesso1" "Male" "sesso2" "Female" "sesso3" "No preference"
   "tempi" "Timing" "tempi1" "As soon as possible" "tempi2" "Within 6 months" "tempi3" "Within a year" "tempi4" "No rush"
   "esp" "Have you had dogs before?" "esp1" "Yes, this breed too" "esp2" "Yes, other breeds" "esp3" "This is my first dog"
   "note" "Tell me about yourself and where the dog will live"
-  "invia" "Join the waiting list" "wa" "Or message me on WhatsApp"
+  "invia" "Join the waiting list" "wa" "Or message me on WhatsApp" "waSolo" "Message me on WhatsApp"
   "ok" "Request received. I will reply within 24 hours." "ko" "Sending failed. Please message me on WhatsApp."
   "privacy" "Your details are used only to contact you about litters. No newsletter, no sharing with third parties. You can ask for deletion at any time."
   "consenso" "I have read the privacy notice and consent to the processing of my data in order to be contacted."
@@ -43,16 +43,16 @@
   }}{{ end -}}
 
 {{- if eq $lang "de" }}{{ $T = dict
-  "titolo" "Der August-Wurf ist vollständig"
-  "intro" "Alle acht Welpen sind an ausgewählte Familien vergeben. Ich züchte nicht auf Anfrage: ich plane wenige Verpaarungen im Jahr, wenn Zeitpunkt und Verfassung der Hündinnen es erlauben."
-  "intro2" "Wenn Sie über einen Staffordshire Bull Terrier nachdenken, ist die Warteliste der richtige Anfang. Es ist keine Verpflichtung und keine Anzahlung: es ist ein Gespräch, das jetzt beginnt, damit wir uns beim nächsten Wurf bereits kennen."
+  "titolo" ""
+  "intro" "Die Welpen werden bereits vor der Geburt an Familien vergeben, die ich kenne. Ich züchte nicht auf Anfrage: ich plane wenige Verpaarungen im Jahr, wenn Zeitpunkt und Verfassung der Hündinnen es erlauben."
+  "intro2" "Die Warteliste ist unverbindlich und ohne Anzahlung. So können wir uns in Ruhe kennenlernen, damit beim nächsten Wurf bereits klar ist, ob wir zueinander passen."
   "nome" "Vor- und Nachname" "email" "E-Mail" "tel" "Telefon oder WhatsApp"
   "scopo" "Was Sie suchen" "scopo1" "Ein Familienhund" "scopo2" "Familie und Ausstellungen" "scopo3" "Noch nicht entschieden"
   "sesso" "Präferenz" "sesso1" "Rüde" "sesso2" "Hündin" "sesso3" "Egal"
   "tempi" "Zeitrahmen" "tempi1" "So bald wie möglich" "tempi2" "Innerhalb 6 Monaten" "tempi3" "Innerhalb eines Jahres" "tempi4" "Keine Eile"
   "esp" "Hatten Sie schon Hunde?" "esp1" "Ja, auch diese Rasse" "esp2" "Ja, andere Rassen" "esp3" "Mein erster Hund"
   "note" "Erzählen Sie mir von sich und wo der Hund leben wird"
-  "invia" "In die Warteliste eintragen" "wa" "Oder schreiben Sie mir auf WhatsApp"
+  "invia" "In die Warteliste eintragen" "wa" "Oder schreiben Sie mir auf WhatsApp" "waSolo" "Schreiben Sie mir auf WhatsApp"
   "ok" "Anfrage erhalten. Ich antworte innerhalb von 24 Stunden." "ko" "Senden fehlgeschlagen. Bitte schreiben Sie mir auf WhatsApp."
   "privacy" "Ihre Daten werden nur verwendet, um Sie zu Würfen zu kontaktieren. Kein Newsletter, keine Weitergabe an Dritte. Löschung jederzeit möglich."
   "consenso" "Ich habe die Datenschutzerklärung gelesen und willige in die Verarbeitung meiner Daten zur Kontaktaufnahme ein."
@@ -63,7 +63,7 @@
 <div class="section-inner">
 <div style="max-width:780px;margin:0 auto;background:#fff;border:2px solid #c9a227;border-radius:18px;padding:1.8rem 1.6rem;box-shadow:0 14px 45px rgba(0,0,0,.10)">
 
-  <h2 style="margin:0 0 .8rem;color:#5c4a3a;font-size:1.55rem;line-height:1.25">{{ index $T "titolo" }}</h2>
+  {{ with index $T "titolo" }}<h2 style="margin:0 0 .8rem;color:#5c4a3a;font-size:1.55rem;line-height:1.25">{{ . }}</h2>{{ end }}
   <p style="margin:0 0 .7rem;color:#4a3f35;line-height:1.65">{{ index $T "intro" }}</p>
   <p style="margin:0 0 1.4rem;color:#4a3f35;line-height:1.65">{{ index $T "intro2" }}</p>
 
@@ -145,10 +145,7 @@
   </script>
   {{- end }}
 
-  <p style="margin:1.2rem 0 0">
-    <a href="https://wa.me/{{ $wa }}?text={{ printf "Ciao Paolo, vorrei entrare nella lista d'attesa per la prossima cucciolata. Cerco un cucciolo per " | urlquery }}" rel="noopener" target="_blank"
-       style="display:inline-block;background:#25d366;color:#0b3d1f;padding:.85rem 1.3rem;border-radius:30px;font-weight:800;text-decoration:none">{{ index $T "wa" }}</a>
-  </p>
+
 
 </div>
 </div>
