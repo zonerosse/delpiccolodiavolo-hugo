@@ -43,6 +43,8 @@ enableRobotsTXT = true
       description = "Ethische Staffordshire Bull Terrier Zucht. Gesunde, ausgeglichene Welpen mit Stammbaum."
 
 [params]
+  # Incollare qui l'URL /exec del deployment Apps Script (vedi apps-script-lista-attesa.gs)
+  listaAttesaEndpoint = ""
   phone = "+393924635584"
   email = "zonerosse@gmail.com"
   whatsapp = "393924635584"

@@ -124,15 +124,28 @@ custom_content: |
   </div>
   
   <div class="legal-section">
-  <h3>9. Cookie e Tecnologie di Tracciamento</h3>
+  <h3>9. Modulo "Lista d&rsquo;attesa"</h3>
+  <p>Il sito mette a disposizione un modulo facoltativo per essere ricontattati in occasione delle prossime cucciolate.</p>
+  <p><strong>Dati raccolti:</strong> nome e cognome, email, eventuale numero di telefono, e le informazioni che scegli di indicare (tipo di cucciolo cercato, preferenza di sesso, tempistiche, esperienza con i cani, note libere).</p>
+  <p><strong>Finalità:</strong> esclusivamente ricontattarti in merito alla disponibilità di cuccioli e rispondere alle tue domande. I dati non vengono utilizzati per newsletter, marketing automatizzato o profilazione.</p>
+  <p><strong>Base giuridica:</strong> il consenso che presti spuntando l'apposita casella prima dell'invio (art. 6.1.a GDPR).</p>
+  <p><strong>Dove sono conservati:</strong> i dati vengono registrati in un foglio di calcolo Google Workspace ad accesso riservato al titolare, e inviati per notifica alla casella email del titolare. Google Ireland Limited agisce in qualità di responsabile del trattamento.</p>
+  <p><strong>Conservazione:</strong> i dati sono conservati fino a 24 mesi dall'invio, o fino a tua richiesta di cancellazione, se anteriore.</p>
+  <p><strong>Comunicazione a terzi:</strong> nessuna. I dati non vengono ceduti, venduti o condivisi con altri allevatori o soggetti terzi.</p>
+  <p><strong>I tuoi diritti:</strong> puoi chiedere in qualsiasi momento accesso, rettifica, cancellazione, limitazione o portabilità dei dati, e revocare il consenso, scrivendo ai recapiti indicati in questa informativa. La revoca non pregiudica la liceità del trattamento effettuato prima.</p>
+  <p>L'invio del modulo è del tutto facoltativo: puoi contattarci anche via WhatsApp o telefono senza lasciare alcun dato su questo sito.</p>
+  </div>
+
+  <div class="legal-section">
+  <h3>10. Cookie e Tecnologie di Tracciamento</h3>
   <p><strong>Questo sito web NON utilizza cookie.</strong></p>
   <p>Non vengono utilizzati cookie tecnici, cookie di profilazione, cookie di terze parti o sistemi di tracciamento degli utenti.</p>
   </div>
   
   <div class="legal-section">
-  <h3>10. Modifiche alla Privacy Policy</h3>
+  <h3>11. Modifiche alla Privacy Policy</h3>
   <p>Questa Privacy Policy può essere aggiornata periodicamente per riflettere modifiche normative o cambiamenti nelle nostre pratiche di trattamento dei dati.</p>
-  <p class="last-updated"><em>Ultimo aggiornamento: Novembre 2025</em></p>
+  <p class="last-updated"><em>Ultimo aggiornamento: agosto 2026</em></p>
   </div>
   
   </div>

@@ -2,7 +2,8 @@
 
 {{ if .Params.custom_content }}
   {{ $c := replace .Params.custom_content "<!--CUCCIOLATA-->" (partial "ultima-cucciolata.html" .) }}
-  {{ replace $c "<!--CORRELATI-->" (partial "correlati.html" .) | safeHTML }}
+  {{ $c = replace $c "<!--CORRELATI-->" (partial "correlati.html" .) }}
+  {{ replace $c "<!--LISTAATTESA-->" (partial "lista-attesa.html" .) | safeHTML }}
 {{ else }}
   {{ $haH1 := findRE "<h1[ >]" .Content 1 }}
   <div class="page-hero">

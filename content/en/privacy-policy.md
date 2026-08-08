@@ -124,15 +124,28 @@ custom_content: |
   </div>
   
   <div class="legal-section">
-  <h3>9. Cookies and Tracking Technologies</h3>
+  <h3>9. &ldquo;Waiting list&rdquo; form</h3>
+  <p>This website offers an optional form to be contacted about upcoming litters.</p>
+  <p><strong>Data collected:</strong> full name, email address, optional phone number, and the information you choose to provide (type of puppy sought, sex preference, timing, experience with dogs, free-text notes).</p>
+  <p><strong>Purpose:</strong> solely to contact you regarding puppy availability and to answer your questions. Your data is not used for newsletters, automated marketing or profiling.</p>
+  <p><strong>Legal basis:</strong> the consent you give by ticking the dedicated box before submitting (Art. 6.1.a GDPR).</p>
+  <p><strong>Where the data is stored:</strong> submissions are recorded in a Google Workspace spreadsheet accessible only to the data controller, and sent as a notification to the controller&rsquo;s mailbox. Google Ireland Limited acts as data processor.</p>
+  <p><strong>Retention:</strong> data is kept for up to 24 months from submission, or until you request its deletion, whichever comes first.</p>
+  <p><strong>Disclosure to third parties:</strong> none. Your data is never sold, transferred or shared with other breeders or third parties.</p>
+  <p><strong>Your rights:</strong> at any time you may request access, rectification, erasure, restriction or portability of your data, and withdraw your consent, by writing to the contact details given in this notice. Withdrawal does not affect the lawfulness of processing carried out beforehand.</p>
+  <p>Submitting the form is entirely optional: you may also contact us via WhatsApp or by phone without leaving any data on this website.</p>
+  </div>
+
+  <div class="legal-section">
+  <h3>10. Cookies and Tracking Technologies</h3>
   <p><strong>This website does NOT use cookies.</strong></p>
   <p>No technical cookies, profiling cookies, third-party cookies, or user tracking systems are used.</p>
   </div>
   
   <div class="legal-section">
-  <h3>10. Changes to Privacy Policy</h3>
+  <h3>11. Changes to Privacy Policy</h3>
   <p>This Privacy Policy may be updated periodically to reflect regulatory changes or changes in our data processing practices.</p>
-  <p class="last-updated"><em>Last updated: November 2025</em></p>
+  <p class="last-updated"><em>Last updated: August 2026</em></p>
   </div>
   
   </div>
