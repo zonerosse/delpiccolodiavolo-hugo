@@ -19,7 +19,7 @@
   "esp" "Hai già avuto cani?" "esp1" "Sì, anche della razza" "esp2" "Sì, altre razze" "esp3" "È il mio primo cane"
   "note" "Raccontami qualcosa di te e di dove vivrà il cane"
   "invia" "Entra in lista d'attesa" "wa" "Oppure scrivimi su WhatsApp" "waSolo" "Scrivimi su WhatsApp"
-  "ok" "Richiesta ricevuta. Ti rispondo entro 24 ore." "ko" "Invio non riuscito. Scrivimi su WhatsApp."
+  "ok" "Richiesta ricevuta. Ti rispondo entro 24 ore." "ko" "Invio non riuscito. Riprova, oppure scrivimi al 392 463 5584."
   "privacy" "I dati servono solo a ricontattarti sulle cucciolate. Nessuna newsletter, nessuna cessione a terzi. Puoi chiederne la cancellazione in qualsiasi momento."
   "consenso" "Ho letto l'informativa privacy e acconsento al trattamento dei miei dati per essere ricontattato."
   "linkPrivacy" "/privacy-policy/" "linkPrivacyTxt" "Informativa privacy"
@@ -36,7 +36,7 @@
   "esp" "Have you had dogs before?" "esp1" "Yes, this breed too" "esp2" "Yes, other breeds" "esp3" "This is my first dog"
   "note" "Tell me about yourself and where the dog will live"
   "invia" "Join the waiting list" "wa" "Or message me on WhatsApp" "waSolo" "Message me on WhatsApp"
-  "ok" "Request received. I will reply within 24 hours." "ko" "Sending failed. Please message me on WhatsApp."
+  "ok" "Request received. I will reply within 24 hours." "ko" "Sending failed. Please try again, or message me at +39 392 463 5584."
   "privacy" "Your details are used only to contact you about litters. No newsletter, no sharing with third parties. You can ask for deletion at any time."
   "consenso" "I have read the privacy notice and consent to the processing of my data in order to be contacted."
   "linkPrivacy" "/en/privacy-policy/" "linkPrivacyTxt" "Privacy notice"
@@ -53,7 +53,7 @@
   "esp" "Hatten Sie schon Hunde?" "esp1" "Ja, auch diese Rasse" "esp2" "Ja, andere Rassen" "esp3" "Mein erster Hund"
   "note" "Erzählen Sie mir von sich und wo der Hund leben wird"
   "invia" "In die Warteliste eintragen" "wa" "Oder schreiben Sie mir auf WhatsApp" "waSolo" "Schreiben Sie mir auf WhatsApp"
-  "ok" "Anfrage erhalten. Ich antworte innerhalb von 24 Stunden." "ko" "Senden fehlgeschlagen. Bitte schreiben Sie mir auf WhatsApp."
+  "ok" "Anfrage erhalten. Ich antworte innerhalb von 24 Stunden." "ko" "Senden fehlgeschlagen. Bitte erneut versuchen oder schreiben Sie mir: +39 392 463 5584."
   "privacy" "Ihre Daten werden nur verwendet, um Sie zu Würfen zu kontaktieren. Kein Newsletter, keine Weitergabe an Dritte. Löschung jederzeit möglich."
   "consenso" "Ich habe die Datenschutzerklärung gelesen und willige in die Verarbeitung meiner Daten zur Kontaktaufnahme ein."
   "linkPrivacy" "/de/datenschutz/" "linkPrivacyTxt" "Datenschutzerklärung"
@@ -68,7 +68,8 @@
   <p style="margin:0 0 1.4rem;color:#4a3f35;line-height:1.65">{{ index $T "intro2" }}</p>
 
   {{- if $ep }}
-  <form id="formListaAttesa" style="display:grid;gap:.9rem">
+  <iframe name="listaAttesaSink" id="listaAttesaSink" style="display:none" title="invio"></iframe>
+  <form id="formListaAttesa" method="POST" action="{{ $ep }}" target="listaAttesaSink" style="display:grid;gap:.9rem">
     <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:.9rem">
       <label style="display:block">
         <span style="display:block;font-weight:700;color:#5c4a3a;font-size:.9rem;margin-bottom:.25rem">{{ index $T "nome" }}</span>
@@ -124,22 +125,47 @@
     </label>
 
     <button type="submit" style="background:#8b5a2b;color:#fff;border:0;padding:.95rem 1.4rem;border-radius:30px;font-weight:800;font-size:1.02rem;cursor:pointer">{{ index $T "invia" }}</button>
-    <p id="esitoListaAttesa" role="status" style="margin:0;font-weight:700;color:#2e7d32"></p>
     <p style="margin:0;color:#7a6a58;font-size:.82rem;line-height:1.5">{{ index $T "privacy" }}</p>
   </form>
 
+  <div id="esitoListaAttesa" role="status" aria-live="polite" style="display:none"></div>
+
   <script>
   (function(){
-    var f=document.getElementById('formListaAttesa'), out=document.getElementById('esitoListaAttesa');
-    if(!f) return;
-    f.addEventListener('submit',function(ev){
-      ev.preventDefault();
-      if(f.azienda.value){ return; }                    // bot
+    var f=document.getElementById('formListaAttesa'),
+        out=document.getElementById('esitoListaAttesa'),
+        sink=document.getElementById('listaAttesaSink');
+    if(!f||!out||!sink) return;
+    var OK={{ index $T "ok" }}, KO={{ index $T "ko" }}, inviato=false;
+
+    function mostra(testo, verde){
+      out.style.display='block';
+      out.style.margin='0';
+      out.style.padding='1.4rem 1.5rem';
+      out.style.borderRadius='12px';
+      out.style.border='2px solid '+(verde?'#2e7d32':'#b3261e');
+      out.style.background=verde?'#edf7ee':'#fdecea';
+      out.style.color=verde?'#1b5e20':'#8c1d18';
+      out.style.fontSize='1.08rem';
+      out.style.fontWeight='700';
+      out.style.lineHeight='1.5';
+      out.innerHTML=(verde?'&#10003; ':'')+testo;
+      out.scrollIntoView({behavior:'smooth', block:'center'});
+    }
+
+    f.addEventListener('submit',function(){
+      if(f.azienda.value){ return false; }        // bot
+      inviato=true;
       var btn=f.querySelector('button[type=submit]');
-      btn.disabled=true; out.style.color='#5c4a3a'; out.textContent='...';
-      fetch({{ $ep }},{method:'POST',mode:'no-cors',body:new FormData(f)})
-        .then(function(){ out.style.color='#2e7d32'; out.textContent={{ index $T "ok" }}; f.reset(); })
-        .catch(function(){ out.style.color='#b3261e'; out.textContent={{ index $T "ko" }}; btn.disabled=false; });
+      btn.disabled=true; btn.style.opacity='.6';
+      // l'invio prosegue in modo nativo verso l'iframe
+      setTimeout(function(){
+        if(inviato){ f.style.display='none'; mostra(OK,true); }
+      }, 900);
+    });
+
+    sink.addEventListener('load',function(){
+      if(inviato){ f.style.display='none'; mostra(OK,true); }
     });
   })();
   </script>
