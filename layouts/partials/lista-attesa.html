@@ -71,8 +71,7 @@
   <p style="margin:0 0 1.4rem;color:#4a3f35;line-height:1.65">{{ index $T "intro2" }}</p>
 
   {{- if $ep }}
-  <iframe name="listaAttesaSink" id="listaAttesaSink" style="display:none" title="invio"></iframe>
-  <form id="formListaAttesa" method="POST" action="{{ $ep }}" target="listaAttesaSink" novalidate style="display:grid;gap:.9rem">
+  <form id="formListaAttesa" method="POST" action="{{ $ep }}" style="display:grid;gap:.9rem">
     <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:.9rem">
       <label style="display:block">
         <span style="display:block;font-weight:700;color:#5c4a3a;font-size:.9rem;margin-bottom:.25rem">{{ index $T "nome" }}</span>
@@ -119,7 +118,7 @@
 
     {{/* honeypot antispam: invisibile agli umani */}}
     <input type="text" name="azienda" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px">
-    <input type="hidden" name="ts" id="listaAttesaTs" value="">
+    <input type="hidden" name="ritorno" value="{{ if eq $lang "en" }}https://delpiccolodiavolo.it/en/waiting-list-thanks/{{ else if eq $lang "de" }}https://delpiccolodiavolo.it/de/warteliste-danke/{{ else }}https://delpiccolodiavolo.it/lista-attesa-grazie/{{ end }}">
     <input type="hidden" name="lingua" value="{{ $lang }}">
     <input type="hidden" name="pagina" value="{{ .Permalink }}">
 
@@ -134,59 +133,16 @@
     <p style="margin:0;color:#7a6a58;font-size:.82rem;line-height:1.5">{{ index $T "privacy" }}</p>
   </form>
 
-  <div id="esitoListaAttesa" role="status" aria-live="polite" style="display:none"></div>
-
   <script>
+  /* Il form funziona anche senza JavaScript: questo blocco serve solo
+     a bloccare i bot che compilano il campo trappola. */
   (function(){
-    var f=document.getElementById('formListaAttesa'),
-        out=document.getElementById('esitoListaAttesa'),
-        sink=document.getElementById('listaAttesaSink');
-    if(!f||!out||!sink) return;
-    var OK={{ index $T "ok" }}, KO={{ index $T "ko" }},
-        ERRC={{ index $T "erroreConsenso" }}, ERRN={{ index $T "erroreNome" }}, ERRE={{ index $T "erroreEmail" }}, inviato=false;
-
-    var ts=document.getElementById('listaAttesaTs');
-    if(ts) ts.value=String(Date.now());
-
-    function mostra(testo, verde){
-      out.style.display='block';
-      out.style.margin='0';
-      out.style.padding='1.4rem 1.5rem';
-      out.style.borderRadius='12px';
-      out.style.border='2px solid '+(verde?'#2e7d32':'#b3261e');
-      out.style.background=verde?'#edf7ee':'#fdecea';
-      out.style.color=verde?'#1b5e20':'#8c1d18';
-      out.style.fontSize='1.08rem';
-      out.style.fontWeight='700';
-      out.style.lineHeight='1.5';
-      out.innerHTML=(verde?'&#10003; ':'')+testo;
-      out.scrollIntoView({behavior:'smooth', block:'center'});
-    }
-
+    var f=document.getElementById('formListaAttesa');
+    if(!f) return;
     f.addEventListener('submit',function(ev){
-      if(f.azienda.value){ ev.preventDefault(); return false; }
-
-      var nome=f.querySelector('input[name=nome]');
-      if(!nome || !nome.value.trim()){ ev.preventDefault(); mostra(ERRN,false); if(nome) nome.focus(); return false; }
-
-      var mail=f.querySelector('input[name=email]');
-      if(!mail || mail.value.indexOf('@')<1 || mail.value.indexOf('.')<0){
-        ev.preventDefault(); mostra(ERRE,false); if(mail) mail.focus(); return false;
-      }
-
-      var cons=f.querySelector('input[name=consenso]');
-      if(cons && !cons.checked){ ev.preventDefault(); mostra(ERRC,false); return false; }
-
-
-      inviato=true;
-      out.style.display='none';
+      if(f.azienda && f.azienda.value){ ev.preventDefault(); return false; }
       var btn=f.querySelector('button[type=submit]');
-      btn.disabled=true; btn.style.opacity='.6';
-      setTimeout(function(){ if(inviato){ f.style.display='none'; mostra(OK,true); } }, 900);
-    });
-
-    sink.addEventListener('load',function(){
-      if(inviato){ f.style.display='none'; mostra(OK,true); }
+      if(btn){ btn.disabled=true; btn.style.opacity='.6'; }
     });
   })();
   </script>
