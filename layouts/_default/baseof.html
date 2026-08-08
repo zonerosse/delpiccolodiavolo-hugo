@@ -55,7 +55,11 @@
 
   <!-- Open Graph -->
   <meta property="og:type" content="website">
-  <meta property="og:locale" content="{{ if eq .Site.Language.Lang "it" }}it_IT{{ else }}en_US{{ end }}">
+  {{ $loc := "it_IT" }}{{ if eq .Site.Language.Lang "en" }}{{ $loc = "en_GB" }}{{ end }}{{ if eq .Site.Language.Lang "de" }}{{ $loc = "de_DE" }}{{ end }}
+  <meta property="og:locale" content="{{ $loc }}">
+  {{ range .AllTranslations }}{{ if ne .Site.Language.Lang $.Site.Language.Lang }}
+  <meta property="og:locale:alternate" content="{{ if eq .Site.Language.Lang "en" }}en_GB{{ else if eq .Site.Language.Lang "de" }}de_DE{{ else }}it_IT{{ end }}">
+  {{ end }}{{ end }}
   <meta property="og:site_name" content="Allevamento Del Piccolo Diavolo">
   <meta property="og:title" content="{{ with .Params.titleSeo }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
   <meta property="og:description" content="{{ .Description | default .Site.Params.description }}">

@@ -9,11 +9,11 @@
 <section class="section">
   <div class="section-inner">
     <div class="diario-grid">
-      {{ range .Pages.ByDate.Reverse }}
+      {{ range .Pages.ByDate.Reverse }}{{ $p := . }}
       <article class="diario-card">
         {{ with .Params.image }}
-        <a href="{{ $.Permalink }}" class="diario-card-image">
-          <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" decoding="async">
+        <a href="{{ $p.RelPermalink }}" class="diario-card-image">
+          <img src="{{ . }}" alt="{{ $p.Title }}" width="400" height="300" loading="lazy" decoding="async" style="width:100%;height:auto">
         </a>
         {{ end }}
         <div class="diario-card-content">
