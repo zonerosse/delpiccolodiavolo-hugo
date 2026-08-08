@@ -1,6 +1,8 @@
 ---
 title: "È nata la cucciolata: Bilquis Goddess Diabhal × Black Jack Di Casa Giacalone — 8 cuccioli (agosto 2026)"
-description: "Nati il 1° agosto 2026: 8 cuccioli Staffordshire Bull Terrier (4 maschi, 4 femmine) all'allevamento Del Piccolo Diavolo. Madre Bilquis Goddess Diabhal (Campionessa Italiana ENCI, 4ª al World Dog Show 2024), padre Black Jack Di Casa Giacalone. Cucciolata completa: tutti prenotati."
+titleSeo: "Cucciolata Bilquis × Black Jack: 8 cuccioli, agosto 2026"
+translationKey: "cucciolata-bilquis-agosto-2026"
+description: "Nati il 1° agosto 2026: 8 cuccioli Staffordshire Bull Terrier da Bilquis Goddess Diabhal, Campionessa Italiana ENCI. Tutti prenotati."
 slug: "cucciolata-bilquis-agosto-2026"
 date: 2026-08-01
 image: "/images/cuccioli-bilquis-nati-1.webp"

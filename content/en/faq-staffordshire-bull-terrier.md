@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier FAQ - Frequently Asked Questions"
 translationKey: "faq"
-description: "Answers to frequently asked questions about Staffordshire Bull Terriers: character, health, ENCI puppies, costs, nutrition, training. Del Piccolo Diavolo Kennel."
+description: "Answers to the most common questions about the Staffordshire Bull Terrier: temperament, health, cost and choosing a breeder."
 slug: "faq-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">

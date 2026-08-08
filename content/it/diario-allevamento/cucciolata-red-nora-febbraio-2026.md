@@ -1,6 +1,7 @@
 ---
 title: "Cucciolata Red × Nora: nati 3 maschi!"
-description: "Cucciolata Staffordshire Bull Terrier nata il 9 febbraio 2026. 3 maschi: 2 tigrati e 1 rosso pezzato. Padre Vangerbull Red Harricane, madre Skilful-dogs Nora (madre di 2 Campioni Italiani). Tutti prenotati."
+translationKey: "cucciolata-red-nora-febbraio-2026"
+description: "Cucciolata nata il 9 febbraio 2026: 3 maschi, 2 tigrati e 1 rosso pezzato. Madre Skilful-dogs Nora. Tutti prenotati."
 slug: "cucciolata-red-nora-febbraio-2026"
 date: 2026-02-09
 image: "/images/red.avif"

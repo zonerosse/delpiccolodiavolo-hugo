@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier: Character, Family Life and What to Expect"
+titleSeo: "Staffordshire Bull Terrier: character and family life"
 translationKey: "carattere-famiglia"
 description: "Staffordshire Bull Terrier character, family life, pros and cons told by a breeder with 20 years of experience. What to really expect from a Staffy."
 slug: "staffordshire-bull-terrier-character-family-life"
