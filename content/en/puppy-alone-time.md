@@ -52,85 +52,33 @@ custom_content: |
   </ul>
   </div>
   
-  <h2>Preparing the environment</h2>
-  <ul>
-  <li><strong>Dedicated rest area:</strong> bed or pen/x-pen in a quiet area, adequate temperature, water available.</li>
-  <li><strong>Safety:</strong> remove cables, toxic plants, fragile objects; leave only safe, sturdy toys.</li>
-  <li><strong>Background noise:</strong> ambient sounds or soft music at low volume can help.</li>
-  </ul>
-  
-  <h2>Routine and predictable signals</h2>
-  <p>Make the day readable: alternate activities (play, chewing, walks) with relaxation moments. Include brief rituals before leaving and returning home, keeping tones neutral.</p>
-  
-  <h2>Gradual protocol (7–14 days)</h2>
-  
-  <h3>Phase 1 — Micro absences at home (1–3 days)</h3>
-  <ul>
-  <li>Close the gate/pen for 30–60 seconds while staying in sight; return and reward calmness.</li>
-  <li>Repeat multiple times, then leave the room for 30–90 seconds. Slowly increase duration.</li>
-  </ul>
-  
-  <h3>Phase 2 — Very brief outings (3–7 days)</h3>
-  <ul>
-  <li>Leave home for 1–3 minutes after a calming activity (sniffing/light walk, chewing).</li>
-  <li>Return neutrally. If you find agitation, reduce duration in the next session.</li>
-  </ul>
-  
-  <h3>Phase 3 — Consolidation (up to 30–60 minutes)</h3>
-  <ul>
-  <li>Extend non-linearly: 5', 8', 4', 12', 6', 15'… Alternating up/down helps avoid expectations.</li>
-  <li>Include "chewing breaks" with safe stuffed toys to make absence more pleasant.</li>
-  </ul>
-  
-  <div class="callout">
-  <p class="callout-title">🐾 Breeder's advice</p>
-  <p>With young Staffordshire Bull Terriers, avoid exhausting them completely. Sniffing and chewing activities that center them work better than frantic running before absences.</p>
-  </div>
-  
-  <h2>Chewing and enrichment</h2>
-  <ul>
-  <li><strong>Stuffed toys:</strong> with safe recipes and measured portions from their meal.</li>
-  <li><strong>Resource rotation:</strong> 2–3 different objects on rotation to maintain interest.</li>
-  <li><strong>Sniffing games:</strong> snuffle mats or kibble scattered in a cardboard box.</li>
-  </ul>
-  
-  <h2>Preventing hyper-attachment</h2>
-  <ul>
-  <li>Don't always follow the puppy and don't let them follow you everywhere; use gate/pen positively.</li>
-  <li>Sober greetings and returns: no excessive celebrations, reward calmness when they sit or lie down.</li>
-  <li>Guided independence: encourage brief "everyone for themselves" moments even when home.</li>
-  </ul>
-  
-  <h2>Stress signals to monitor</h2>
-  <ul>
-  <li>Prolonged vocalizations, hypersalivation, destruction aimed at doors/windows, inappropriate elimination.</li>
-  <li>If these appear, return to the duration where they were calm and progress more slowly.</li>
-  <li>If they persist, consult with vet and qualified trainer.</li>
-  </ul>
-  
-  <h2>How long can a puppy stay alone?</h2>
-  <p>Prudent rule: up to 1–2 hours with adequate preparation in the first months, gradually increasing. Arrange family support or pet-sitter for longer days.</p>
-  
-  <div class="checklist">
-  <p class="checklist-title">📋 Quick checklist</p>
-  <ul>
-  <li>Safe area ready (pen/x-pen, water, suitable toys)</li>
-  <li>Defined daily routine and pre-departure signal</li>
-  <li>Gradual protocol planned with non-linear durations</li>
-  <li>Stress signal monitoring and fallback if needed</li>
-  </ul>
-  </div>
-  
-  <div class="related">
-  <h3>Related articles</h3>
-  <ul>
-  <li><a href="/en/puppy-home-socialization/" title="Home socialization">Home socialization: guided first experiences</a></li>
-  <li><a href="/en/puppy-potty-training/" title="Potty training">Potty training: routine and positive reinforcement</a></li>
-  <li><a href="/en/puppy-mental-games/" title="Mental games">Mental games for puppies: stimulating mind and self-control</a></li>
-  <li><a href="/en/staffy-children-family/" title="Living with children">Living with children: clear rules and safe interactions</a></li>
-  </ul>
-  </div>
-  
+  <h2>Why this breed needs it taught deliberately</h2>
+  <p>The Staffordshire Bull Terrier was selected to want human company more than most breeds want anything. That is its great virtue and, on this particular point, its vulnerability: a dog bred to be with people is a dog predisposed to struggle when left.</p>
+  <p>Separation problems are among the commonest reasons dogs of this breed are given up, and they are almost entirely preventable. The prevention costs a few minutes a day and must start in the first week, before a problem exists.</p>
+  <p>The trap is counter-intuitive. A puppy that is never left alone because someone is always home is precisely the puppy that cannot cope at six months when work resumes or the holidays end. Being at home is an opportunity to teach solitude, not a reason to postpone it.</p>
+
+  <h2>Starting from the first days</h2>
+  <p>Begin with thirty seconds. Give the puppy something genuinely good — a stuffed rubber toy, a chew — go behind a door, and come back before it has finished and before it becomes distressed. Returning before the puppy is upset is the whole method: you are teaching that you always come back, not testing how long it lasts.</p>
+  <p>Extend gradually: one minute, three, ten, twenty, forty. If a step produces distress, you moved too fast; go back two steps and rebuild. Progress is not linear and a bad week does not undo the work.</p>
+  <p>Vary your behaviour so that departure cues lose meaning. Pick up the keys and sit down. Put on your coat and make coffee. A puppy that has seen those actions a hundred times without you leaving stops reading them as warnings.</p>
+
+  <h2>Departures and returns</h2>
+  <p>This is where most owners undo their own work. An emotional goodbye and an ecstatic reunion teach the dog that your presence and absence are enormous events, and that the interval between them is worth worrying about.</p>
+  <p>Leave without saying anything. Return, ignore the dog for two minutes while you put your things down, and greet it calmly when it has settled. It feels cold, and it is the kindest thing you can do.</p>
+
+  <h2>The environment</h2>
+  <p>A crate is useful if the puppy has been taught to love it, and harmful if used as containment. Feed in it, give chews in it, leave the door open, and never use it as punishment. A puppy that chooses to sleep in its crate has a den; a puppy shut in one has a cage.</p>
+  <p>Alternatively, restrict the puppy to one safe room with a gate rather than the whole house. Leave a radio or television on quietly, which masks street noises that otherwise trigger barking. Provide something to chew, since chewing is genuinely calming.</p>
+
+  <h2>Recognising a real problem</h2>
+  <p>Ordinary protest is a few minutes of whining that fades. Separation distress is different: destruction concentrated at doors and windows rather than random chewing, urination or defecation in a house-trained dog, continuous vocalisation for the whole absence, excessive salivation, and refusal to eat anything while alone.</p>
+  <p>A camera or a phone left recording tells you which of the two you have, and it is worth doing before concluding anything. Many dogs that owners assume are distressed are asleep four minutes after the door closes.</p>
+  <p>If it is genuine distress, the situation needs a behaviourist rather than more of the same. Punishment on return makes it substantially worse, because the dog associates your arrival with conflict and becomes more anxious about the whole cycle.</p>
+
+  <h2>How long is reasonable</h2>
+  <p>A puppy of eight to twelve weeks should not be alone for more than one or two hours. By six months, three to four. An adult dog can manage four to six hours if it has been walked beforehand and has something to do, but a routine of eight hours a day alone is not compatible with this breed, and we say so plainly to prospective owners.</p>
+  <p>Where the working day is long, the answer is a midday walker, a neighbour, or a dog daycare two or three times a week. It is an ordinary cost of owning this breed rather than an indulgence.</p>
+
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   

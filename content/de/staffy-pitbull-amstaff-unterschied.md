@@ -35,83 +35,35 @@ custom_content: |
   <strong>Kurz gesagt:</strong> <a href="/de/">Staffordshire Bull Terrier</a>, American Pit Bull Terrier und American Staffordshire Terrier sind drei verschiedene Rassen, die oft verwechselt werden. Der <strong>Staffy</strong> ist der kleinste (max. 17 kg), der <strong>Amstaff</strong> der größte und muskulöseste (bis 35 kg), während der <strong>Pit Bull</strong> (APBT) nicht von der FCI anerkannt ist.
   </div>
   
-  <h2>Warum werden diese Rassen verwechselt?</h2>
-  
-  <p>Alle drei Rassen stammen vom gleichen Ursprung ab: den "Bull and Terrier" Hunden des 19. Jahrhunderts in England, Kreuzungen zwischen Bulldoggen und verschiedenen Terriern.</p>
-  
-  
-  <h2>Historische Ursprünge</h2>
-  
-  <h3>Staffordshire Bull Terrier: Die britische Rasse</h3>
-  
-  <p>Der <strong>Staffordshire Bull Terrier</strong> entwickelte sich in der Region Staffordshire in England. 1935 wurde er offiziell vom British Kennel Club anerkannt. Die FCI erkennt ihn mit dem <strong>Standard Nr. 76</strong> an.</p>
-  
-  <h3>Amerikanische Rassen: Pit Bull und Amstaff</h3>
-  
-  <p><strong>American Pit Bull Terrier (APBT):</strong> Vom UKC 1898 anerkannt. Der APBT ist <strong>NICHT von der FCI anerkannt</strong>.</p>
-  
-  <p><strong>American Staffordshire Terrier:</strong> 1936 vom AKC anerkannt. Die FCI erkennt ihn mit <strong>Standard Nr. 286</strong> an.</p>
-  
-  <h2>Physischer Vergleich: Unterschiede-Tabelle</h2>
-  
-  <table>
-  <thead>
-  <tr>
-  <th>Merkmal</th>
-  <th>Staffordshire Bull Terrier</th>
-  <th>American Pit Bull Terrier</th>
-  <th>American Staffordshire Terrier</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><strong>Höhe Rüden</strong></td>
-  <td>35,5 - 40,5 cm</td>
-  <td>45 - 53 cm</td>
-  <td>46 - 48 cm</td>
-  </tr>
-  <tr>
-  <td><strong>Gewicht Rüden</strong></td>
-  <td>12,7 - 17 kg</td>
-  <td>15 - 27 kg</td>
-  <td>25 - 35 kg</td>
-  </tr>
-  <tr>
-  <td><strong>FCI-Anerkennung</strong></td>
-  <td>✅ Standard Nr. 76</td>
-  <td>❌ Nicht anerkannt</td>
-  <td>✅ Standard Nr. 286</td>
-  </tr>
-  <tr>
-  <td><strong>Herkunftsland</strong></td>
-  <td>Großbritannien</td>
-  <td>USA</td>
-  <td>USA</td>
-  </tr>
-  </tbody>
-  </table>
-  
-  <h2>Charakter und Temperament</h2>
-  
-  <h3>Staffordshire Bull Terrier</h3>
-  
-  <p>Der FCI-Standard beschreibt das Temperament des Staffy als: "Traditionell von unbezwingbarem Mut und Zähigkeit. Hochintelligent und liebevoll, besonders mit Kindern." Der Staffy wird "Nanny Dog" genannt.</p>
-  
-  <h2>Welche Rasse wählen?</h2>
-  
-  <h3>Wählen Sie den Staffordshire Bull Terrier wenn:</h3>
-  <ul>
-  <li>Sie einen mittelkleinen Hund (max. 17 kg) wollen, der in einer Wohnung geeignet ist</li>
-  <li>Sie einen Hund mit Stammbaum und Zuchtgarantien suchen</li>
-  <li>Sie Kinder haben: der Staffy ist traditionell hervorragend mit Kleinen</li>
-  <li>Sie eine Rasse mit weniger rechtlichen Problemen bevorzugen</li>
-  </ul>
-  
-  <div class="callout">
-  <p class="callout-title">🏆 Unsere Empfehlung</p>
-  <p>In unserer <a href="/de/">Zucht Del Piccolo Diavolo</a> haben wir uns ausschließlich dem <strong>Staffordshire Bull Terrier</strong> gewidmet: klarer FCI-Standard, kontrollierte Selektion mit Gentests (L2-HGA, HC), ideale Größe für modernes Familienleben. Unsere <a href="/de/welpen-staffordshire-bull-terrier/">Welpen</a> stammen aus dokumentierten englischen und irischen <a href="/de/staffy-blutlinien-guide/">Blutlinien</a>.</p>
-  </div>
-  
+  <h2>Warum diese Hunde ständig verwechselt werden</h2>
+  <p>Staffordshire Bull Terrier, American Staffordshire Terrier und der sogenannte Pitbull haben eine gemeinsame Wurzel in den englischen Bull-and-Terrier-Kreuzungen des neunzehnten Jahrhunderts. Von dort haben sie sich in verschiedene Richtungen entwickelt, und heute unterscheiden sie sich in Größe, Standard und rechtlicher Behandlung erheblich.</p>
+  <p>Die Verwechslung ist nicht nur ein Ärgernis für Halter. Sie prägt die Berichterstattung, verzerrt Beißstatistiken und beeinflusst Gesetzgebung, weil Zeugen einen Hund benennen, den sie nicht sicher bestimmen können. Studien zur Rassebestimmung nach Augenschein zeigen regelmäßig, dass selbst Fachleute häufig danebenliegen.</p>
+
+  <h2>Der Staffordshire Bull Terrier</h2>
+  <p>Von der FCI anerkannt, Standard Nr. 76, Ursprungsland Großbritannien. Widerristhöhe 35 bis 40 Zentimeter, Gewicht 11 bis 17 Kilogramm. Kurz gekoppelt, sehr kräftig für seine Größe, mit breitem Kopf, deutlichem Stopp und kurzem, aber vorhandenem Fang.</p>
+  <p>Wesentlich ist das Wesen: der Standard beschreibt ihn als kühn, furchtlos und vollkommen zuverlässig gegenüber Menschen. Der Beiname Kindermädchen-Hund stammt aus dieser Eigenschaft. In Italien gilt keine rassebezogene Beschränkung.</p>
+
+  <h2>Der American Staffordshire Terrier</h2>
+  <p>Ebenfalls FCI-anerkannt, Standard Nr. 286, Ursprungsland USA. Deutlich größer: 43 bis 48 Zentimeter, 25 bis 30 Kilogramm. Längere Läufe, längerer Fang, insgesamt athletischer und weniger gedrungen als der Staffordshire Bull Terrier.</p>
+  <p>Die einfachste Faustregel für Laien: der Amstaff ist etwa doppelt so schwer und eine Handbreit höher. Wer die beiden nebeneinander sieht, verwechselt sie nie wieder.</p>
+
+  <h2>Der "Pitbull"</h2>
+  <p>Hier liegt die eigentliche Unklarheit. Der American Pit Bull Terrier ist von der FCI <strong>nicht</strong> anerkannt; er wird von anderen Verbänden geführt, vor allem UKC und ADBA. Sein Standard lässt eine große Spannbreite zu, etwa 14 bis 27 Kilogramm.</p>
+  <p>Im Alltagsgebrauch bezeichnet das Wort Pitbull jedoch meist gar keine Rasse, sondern einen Typ: jeden muskulösen Hund mit breitem Kopf und kurzem Fell. Unter dieser Bezeichnung werden Amstaffs, Staffordshire Bull Terrier, Cane Corso, Mischlinge und Hunde völlig anderer Abstammung zusammengeworfen. Genau deshalb sind Statistiken, die "Pitbulls" zählen, kaum aussagekräftig.</p>
+
+  <h2>Die Unterschiede im Überblick</h2>
+  <p>Größe ist das verlässlichste Merkmal: 35 bis 40 Zentimeter beim Staffordshire Bull Terrier, 43 bis 48 beim Amstaff, sehr variabel beim Pit Bull Terrier. Gewicht: 11 bis 17, 25 bis 30, 14 bis 27 Kilogramm.</p>
+  <p>Anerkennung: FCI ja, FCI ja, FCI nein. Papiere: ENCI-Ahnentafel möglich für die ersten beiden, nicht für den dritten — ein Hund, der in Italien als Pitbull mit FCI-Papieren angeboten wird, ist keiner.</p>
+  <p>Wesen gegenüber Menschen: bei allen drei Standards ausdrücklich freundlich gefordert. Aggression gegen Menschen ist in keiner dieser Rassen ein Rassemerkmal, sondern ein schwerer Fehler.</p>
+
+  <h2>Rechtslage in Italien und Europa</h2>
+  <p>Italien hat 2009 die Liste angeblich gefährlicher Rassen abgeschafft. Seither gilt: die Verantwortung liegt beim Halter, nicht bei der Rasse. Für alle drei Hunde gelten dieselben allgemeinen Pflichten wie für jeden Hund — Leine, mitgeführter Maulkorb, Mikrochip, Haftung.</p>
+  <p>Anders in mehreren anderen Ländern: einige deutsche Bundesländer, Dänemark und Irland führen Listen, in denen mindestens einer dieser Hunde steht. Wer mit dem Hund reisen oder umziehen will, muss die Bestimmungen des Ziellandes einzeln prüfen.</p>
+
+  <h2>Praktische Bedeutung beim Kauf</h2>
+  <p>Wenn Sie einen Staffordshire Bull Terrier suchen, verlangen Sie die ENCI-Ahnentafel. Sie ist der einzige Nachweis der Rasse, und sie ist der Unterschied zwischen einem Hund, dessen Vorfahren und Gesundheitsergebnisse dokumentiert sind, und einem Hund mit ähnlichem Aussehen und unbekannter Herkunft.</p>
+  <p>Misstrauen Sie Anzeigen, die die Begriffe vermischen, Welpen als "Pitbull-Staffy" bezeichnen oder mit einer Größe werben, die zu keinem der drei Standards passt. Und misstrauen Sie besonders dem Argument, Papiere seien unnötig, weil der Hund ja nur Familienhund werde: gerade dann ist die Herkunft die einzige Information, die Sie über sein Wesen haben.</p>
+
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>

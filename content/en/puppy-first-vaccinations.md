@@ -42,59 +42,40 @@ custom_content: |
   <strong>In brief:</strong> Vaccinations protect your Staffordshire Bull Terrier puppy from serious diseases. Understanding the schedule, core vaccines and what to expect helps you prepare for this essential health care step.
   </div>
   
-  <h2>Typical vaccination schedule</h2>
-  <ul>
-  <li><strong>6-8 weeks:</strong> First combination vaccine (often given by breeder)</li>
-  <li><strong>10-12 weeks:</strong> Second combination vaccine + possibly leptospirosis</li>
-  <li><strong>14-16 weeks:</strong> Third combination vaccine + rabies (if required)</li>
-  <li><strong>12 months:</strong> First annual booster</li>
-  </ul>
-  
-  <h2>Core vaccines explained</h2>
-  <ul>
-  <li><strong>Distemper:</strong> Serious viral disease affecting multiple organs</li>
-  <li><strong>Parvovirus:</strong> Highly contagious, often fatal in puppies</li>
-  <li><strong>Hepatitis (Adenovirus):</strong> Liver disease</li>
-  <li><strong>Leptospirosis:</strong> Bacterial disease transmissible to humans</li>
-  <li><strong>Rabies:</strong> Required by law in many regions</li>
-  </ul>
-  
-  <h2>What to expect on vaccination day</h2>
-  <ul>
-  <li>Brief health check before vaccination</li>
-  <li>Quick injection - usually subcutaneous</li>
-  <li>15-30 minute wait recommended to monitor for reactions</li>
-  <li>Written record with vaccine batch numbers and next due date</li>
-  </ul>
-  
-  <div class="callout">
-  <p class="callout-title">🐾 Breeder's advice</p>
-  <p>We provide puppies with their first vaccination and complete health documentation. Always bring the vaccination booklet to your vet visits for continuity of records.</p>
-  </div>
-  
-  <h2>After vaccination care</h2>
-  <ul>
-  <li>Mild lethargy for 24-48 hours is normal</li>
-  <li>Small lump at injection site may appear temporarily</li>
-  <li>Avoid strenuous activity on vaccination day</li>
-  <li>Contact vet if: vomiting, facial swelling, difficulty breathing, or lethargy lasting more than 48 hours</li>
-  </ul>
-  
-  <h2>Common questions</h2>
-  <p><strong>Can I take my puppy outside before vaccinations are complete?</strong></p>
-  <p>Carry in arms for socialization, but avoid ground contact in public areas until 7-10 days after the second vaccination.</p>
-  <p><strong>Are there risks to vaccination?</strong></p>
-  <p>Serious reactions are rare. Benefits of protection far outweigh minimal risks.</p>
-  
-  <div class="related">
-  <h3>Related articles</h3>
-  <ul>
-  <li><a href="/en/puppy-first-walk/" title="First walk">First walk: equipment and first rules</a></li>
-  <li><a href="/en/staffy-parasite-prevention/" title="Parasite prevention">Parasites: prevention and control</a></li>
-  <li><a href="/en/puppy-buying-tips/" title="Buying tips">Buying tips: questions for the breeder</a></li>
-  </ul>
-  </div>
-  
+  <h2>What the vaccines actually protect against</h2>
+  <p>The core vaccines protect against four diseases that were, within living memory, the commonest causes of death in puppies. Distemper attacks the respiratory, digestive and nervous systems and is frequently fatal. Parvovirus causes severe haemorrhagic gastroenteritis and kills unvaccinated puppies within days. Infectious hepatitis damages liver and kidneys. Leptospirosis is bacterial, transmitted through the urine of rats and other wildlife in standing water, and is transmissible to humans.</p>
+  <p>Parvovirus deserves particular attention because it survives in the environment for months and is resistant to most household disinfectants. A garden where an infected dog has been can remain contagious long after that dog has gone, which is the reason for the caution about where an unvaccinated puppy sets its feet.</p>
+
+  <h2>The schedule</h2>
+  <p>Most protocols in Italy follow the same shape. The first injection is given at six to eight weeks, before the puppy leaves the breeder, and covers distemper, hepatitis and parvovirus. The second follows at ten to twelve weeks, usually adding leptospirosis. The third, at fourteen to sixteen weeks, completes the primary course. A first booster is given at twelve months, and thereafter the interval depends on the vaccine and on your veterinarian's assessment.</p>
+  <p>Full protection is not immediate. Immunity develops over one to two weeks after the final injection of the course, which means a puppy is not properly protected until roughly sixteen to eighteen weeks of age, not at the moment of the last needle.</p>
+  <p>Two details matter and are often missed. First, the interval between doses should not be shortened, because maternal antibodies interfere with the vaccine and the schedule is designed around their decline. Second, if a dose is significantly delayed, the veterinarian may need to restart part of the course rather than simply continuing.</p>
+
+  <h2>Rabies and travel</h2>
+  <p>Rabies vaccination is not part of the routine puppy course in most of Italy, but it is compulsory for travel within the European Union and for some regions. It can be given from twelve weeks of age, must be recorded in the pet passport by an authorised veterinarian, and takes effect twenty-one days after administration.</p>
+  <p>That waiting period is absolute and cannot be shortened, which is why anyone planning to take a puppy abroad should raise it with the veterinarian at the first visit rather than three weeks before departure.</p>
+
+  <h2>Optional vaccines worth discussing</h2>
+  <p>Kennel cough, given as a nasal or oral vaccine, is worth considering for puppies that will attend training classes, use boarding kennels or go to grooming. It reduces severity rather than guaranteeing prevention, because several organisms cause the syndrome.</p>
+  <p>Leishmaniasis vaccination is relevant in endemic areas, which now include much of Italy. It is not a substitute for a repellent collar or spot-on, and your veterinarian will advise based on your region and the dog's lifestyle.</p>
+
+  <h2>After the injection: what is normal and what is not</h2>
+  <p>Mild lethargy, reduced appetite and slight soreness at the injection site for twenty-four to forty-eight hours are normal and require nothing. A small firm lump at the site can persist for a couple of weeks and usually resolves.</p>
+  <p>What is not normal, and requires immediate veterinary attention: swelling of the face or muzzle, hives, repeated vomiting, difficulty breathing, or collapse. These are signs of an allergic reaction, they usually appear within an hour, and they are the reason it is sensible to stay near the practice for a short while after a first vaccination rather than driving straight home.</p>
+
+  <h2>Where the puppy can and cannot go meanwhile</h2>
+  <p>This is the practical question that matters most, because the socialisation window closes at sixteen weeks — the same moment protection is completed. Waiting passively until then costs more in behaviour than it saves in infection risk.</p>
+  <p>Safe before the course is complete: carrying the puppy in your arms in the street, visiting the homes of friends with vaccinated healthy dogs, your own garden if no unvaccinated dog has been there, and car journeys to see the world from a window.</p>
+  <p>To avoid: public parks and dog areas, pavements where many unknown dogs urinate, the floor of the veterinary waiting room, and contact with dogs of unknown vaccination status.</p>
+
+  <h2>Worming alongside vaccination</h2>
+  <p>The two schedules run in parallel and are often confused. Puppies are wormed every two weeks from two weeks of age until twelve weeks, then monthly until six months, then every three months as adults. The breeder handles the first part and should give you the dates in writing when you collect the puppy.</p>
+  <p>A puppy with a significant worm burden mounts a weaker response to vaccination, which is why veterinarians normally want the worming up to date before injecting.</p>
+
+  <h2>The health record</h2>
+  <p>Every injection must be recorded with the date, the product name, the batch number and the veterinarian's stamp. Keep the booklet safe: it is required for boarding, for travel, for competition and for any future veterinary care, and reconstructing it later is impossible.</p>
+  <p>When you collect a puppy from us, the first vaccination and the worming schedule are already recorded, and we go through the remaining dates with you before you leave.</p>
+
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   

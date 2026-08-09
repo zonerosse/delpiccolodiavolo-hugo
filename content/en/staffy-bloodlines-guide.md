@@ -34,71 +34,34 @@ custom_content: |
   <strong>In brief:</strong> Understanding bloodlines helps you choose a puppy that matches your expectations. The main Staffy lines include English (like Elitebull) and Irish (like Lackyle), each with distinctive characteristics while meeting the FCI standard.
   </div>
   
-  <h2>What Are Bloodlines?</h2>
-  
-  <p>A bloodline refers to dogs descended from particular breeding programs that have consistently produced dogs with specific characteristics. Over generations, breeders select for type, temperament and health, creating recognizable "families" within the breed.</p>
-  
-  <h2>Major English Lines</h2>
-  
-  <h3>Elitebull</h3>
-  
-  <p>One of the most respected English bloodlines:</p>
-  
-  <ul>
-  <li>Known for exceptional breed type and balance</li>
-  <li>Strong, compact build with excellent heads</li>
-  <li>Consistent producers of show-quality dogs</li>
-  <li>Multiple UK champions in their pedigrees</li>
-  </ul>
-  
-  <h3>Other Notable English Lines</h3>
-  
-  <ul>
-  <li><strong>Dorastaff:</strong> Classic English type</li>
-  <li><strong>Doramore:</strong> Strong show record</li>
-  <li><strong>Doroteo:</strong> Well-established breeding program</li>
-  </ul>
-  
-  <h2>Irish Lines</h2>
-  
-  <h3>Lackyle</h3>
-  
-  <p>Premier Irish bloodline with worldwide influence:</p>
-  
-  <ul>
-  <li>Known for substance and bone</li>
-  <li>Excellent temperaments</li>
-  <li>Strong, typey heads</li>
-  <li>Consistent quality across generations</li>
-  </ul>
-  
-  <h2>Choosing a Bloodline</h2>
-  
-  <p>Consider these factors when evaluating bloodlines:</p>
-  
-  <ul>
-  <li><strong>Type consistency:</strong> Do dogs from this line consistently meet the standard?</li>
-  <li><strong>Health record:</strong> Are health tests done? What's the longevity?</li>
-  <li><strong>Temperament:</strong> What are dogs from this line typically like?</li>
-  <li><strong>Breeder reputation:</strong> How long have they worked with this line?</li>
-  </ul>
-  
-  <h2>Reading a Pedigree</h2>
-  
-  <p>A pedigree tells you about a dog's ancestry. Look for:</p>
-  
-  <ul>
-  <li>Champions (CH.) indicating show quality</li>
-  <li>Kennel names (prefixes/suffixes) showing lineage</li>
-  <li>Health test results for parents and grandparents</li>
-  <li>Inbreeding coefficient</li>
-  </ul>
-  
-  <div class="callout">
-  <p class="callout-title">🏆 Our Bloodlines</p>
-  <p>At <a href="/en/">Del Piccolo Diavolo</a>, we work with both <strong>Elitebull</strong> (English) and <strong>Lackyle</strong> (Irish) bloodlines. Our breeding dogs come from documented champion lines, combining the best of both traditions. View our <a href="/en/litters-staffordshire-bull-terrier/">litters</a> to see current pedigrees.</p>
-  </div>
-  
+  <h2>What a bloodline actually is</h2>
+  <p>A bloodline is not a sub-breed and it is not a brand. It is the accumulated result of decisions made by one breeder, or a small group of breeders, over many generations: which dogs were kept, which were mated together, and which traits were treated as non-negotiable. Two Staffordshire Bull Terriers from different lines are the same breed and must meet the same standard, but they can differ noticeably in bone, head proportion, temperament and working attitude.</p>
+  <p>Understanding lines matters for two very different reasons. If you are buying a companion, it tells you what kind of dog you are likely to live with for the next twelve years. If you are considering breeding, it is the difference between a coherent programme and a series of hopeful accidents.</p>
+
+  <h2>The English lines</h2>
+  <p>The breed was made in England, and English breeding remains the reference point for type. The most influential kennels have prioritised correct proportion, a broad and well-filled head without exaggeration, sound movement and, above all, the reliable temperament written into the standard.</p>
+  <p>Lines such as Elitebull have been particularly influential in continental Europe, and they are the foundation of our own programme. What we look for there is substance without coarseness: a dog that is unmistakably a Staffordshire Bull Terrier at a glance, but that can still trot for an hour and breathe normally at the end of it.</p>
+
+  <h2>The Irish lines</h2>
+  <p>Irish breeding has a distinct flavour and an excellent reputation. Kennels such as Lackyle are known for compact, athletic, extremely typey dogs with strong bone and a notably outgoing character. Irish lines have historically placed heavy emphasis on soundness and on producing dogs that hold their type consistently across a litter rather than producing one exceptional puppy among eight ordinary ones.</p>
+  <p>Combining English and Irish lines is a common and productive strategy, and it is the basis of our own selection. The two traditions complement each other: the English for balance and head quality, the Irish for compactness, bone and consistency.</p>
+
+  <h2>Show lines, working lines and the exaggeration problem</h2>
+  <p>Within the breed there is a real tension between dogs bred primarily for the ring and dogs bred for function and family life. In principle the standard describes one dog and there should be no divide. In practice, ring success has in some places rewarded ever heavier bone, ever shorter muzzles and ever wider fronts, and these traits have consequences that only appear away from the ring: heat intolerance, noisy breathing, and difficulty sustaining moderate exercise.</p>
+  <p>We regard this as the single most important issue facing the breed today, and it informs every mating we plan. A dog that cannot breathe comfortably in July has been failed by its breeder, regardless of how many titles sit in its pedigree.</p>
+
+  <h2>Reading a pedigree properly</h2>
+  <p>A pedigree is a document of ancestry, not a guarantee of quality: every registered dog has one. What makes it informative is what you do with it. Look at how often the same names appear on both sides, which tells you the degree of linebreeding. Look at whether the health results of those ancestors are documented and published. Look at whether the dogs behind the puppy were actually assessed by someone independent, whether in the ring or by a veterinary specialist, or whether they simply existed.</p>
+  <p>Three generations of titles with no health results is a weaker pedigree than three generations of untitled dogs with full testing and known temperaments. The second tells you far more about the puppy you are about to take home.</p>
+
+  <h2>Linebreeding, inbreeding and coefficients</h2>
+  <p>Linebreeding, the deliberate repetition of an admired ancestor within a pedigree, is a legitimate tool for fixing type. Pushed too far it becomes inbreeding, and the cost is paid in immune function, fertility and vigour rather than in appearance, which is precisely why it is easy to ignore.</p>
+  <p>A practical rule we apply: we want to see the coefficient of inbreeding over five generations kept low, and we will not repeat a close doubling simply because a particular ancestor was fashionable. Type gained at the expense of vitality is a bad trade, and it is one the buyer discovers years later.</p>
+
+  <h2>What this means when you choose a puppy</h2>
+  <p>Ask the breeder which lines are behind the litter, and why those two dogs were put together. The answer is revealing. A breeder with a programme will tell you what the sire brings, what the dam brings, what they are trying to improve and what they accept as a compromise. A breeder without one will say that both parents are beautiful.</p>
+  <p>Then ask what they would change about the litter if they could repeat it. Anyone honest has an answer.</p>
+
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   </div>

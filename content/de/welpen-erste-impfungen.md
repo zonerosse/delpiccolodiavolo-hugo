@@ -35,52 +35,40 @@ custom_content: |
   <strong>Kurz gesagt:</strong> Impfungen schützen Ihren Staffordshire Bull Terrier Welpen vor schweren Krankheiten. Den Zeitplan, die Kernimpfstoffe und was zu erwarten ist zu verstehen, hilft Ihnen bei der Vorbereitung auf diesen wichtigen Gesundheitsschritt.
   </div>
   
-  <h2>Typischer Impfplan</h2>
-  <ul>
-  <li><strong>6-8 Wochen:</strong> Erste Kombinationsimpfung (oft vom Züchter gegeben)</li>
-  <li><strong>10-12 Wochen:</strong> Zweite Kombinationsimpfung + evtl. Leptospirose</li>
-  <li><strong>14-16 Wochen:</strong> Dritte Kombinationsimpfung + Tollwut (wenn erforderlich)</li>
-  <li><strong>12 Monate:</strong> Erste jährliche Auffrischung</li>
-  </ul>
-  
-  <h2>Kernimpfstoffe erklärt</h2>
-  <ul>
-  <li><strong>Staupe:</strong> Schwere Viruserkrankung, die mehrere Organe betrifft</li>
-  <li><strong>Parvovirose:</strong> Hochansteckend, oft tödlich bei Welpen</li>
-  <li><strong>Hepatitis (Adenovirus):</strong> Lebererkrankung</li>
-  <li><strong>Leptospirose:</strong> Bakterielle Erkrankung, auf Menschen übertragbar</li>
-  <li><strong>Tollwut:</strong> In vielen Regionen gesetzlich vorgeschrieben</li>
-  </ul>
-  
-  <h2>Was am Impftag zu erwarten ist</h2>
-  <ul>
-  <li>Kurze Gesundheitskontrolle vor der Impfung</li>
-  <li>Schnelle Injektion - meist subkutan</li>
-  <li>15-30 Minuten Wartezeit empfohlen zur Reaktionsüberwachung</li>
-  <li>Schriftlicher Nachweis mit Impfstoff-Chargennummern und nächstem Termin</li>
-  </ul>
-  
-  <div class="callout">
-  <p class="callout-title">🐾 Züchterrat</p>
-  <p>Wir geben Welpen mit ihrer ersten Impfung und vollständiger Gesundheitsdokumentation ab. Bringen Sie das Impfbuch immer zu Ihren Tierarztbesuchen für die Kontinuität der Aufzeichnungen mit.</p>
-  </div>
-  
-  <h2>Nachsorge nach der Impfung</h2>
-  <ul>
-  <li>Leichte Müdigkeit für 24-48 Stunden ist normal</li>
-  <li>Kleine Schwellung an der Injektionsstelle kann vorübergehend auftreten</li>
-  <li>Anstrengende Aktivität am Impftag vermeiden</li>
-  <li>Tierarzt kontaktieren bei: Erbrechen, Gesichtsschwellung, Atembeschwerden oder Müdigkeit länger als 48 Stunden</li>
-  </ul>
-  
-  <div class="related">
-  <h3>Verwandte Artikel</h3>
-  <ul>
-  <li><a href="/de/welpen-erster-spaziergang/" title="Erster Spaziergang">Erster Spaziergang: Ausrüstung und erste Regeln</a></li>
-  <li><a href="/de/staffy-parasitenvorbeugung/" title="Parasitenvorbeugung">Parasiten: Vorbeugung und Kontrolle</a></li>
-  </ul>
-  </div>
-  
+  <h2>Wovor die Impfungen tatsächlich schützen</h2>
+  <p>Die Kernimpfungen schützen vor vier Erkrankungen, die noch vor wenigen Jahrzehnten die häufigsten Todesursachen bei Welpen waren. Staupe greift Atemwege, Verdauung und Nervensystem an und verläuft häufig tödlich. Parvovirose verursacht schwere blutige Darmentzündung und tötet ungeimpfte Welpen binnen Tagen. Die ansteckende Leberentzündung schädigt Leber und Nieren. Leptospirose ist bakteriell, wird über den Urin von Ratten und Wildtieren in stehendem Wasser übertragen und ist auf den Menschen übertragbar.</p>
+  <p>Die Parvovirose verdient besondere Beachtung, weil sie monatelang in der Umwelt überlebt und gegen die meisten Haushaltsdesinfektionsmittel unempfindlich ist. Ein Garten, in dem ein infizierter Hund war, kann lange danach noch ansteckend sein — daher die Vorsicht, wo ein ungeimpfter Welpe seine Pfoten hinsetzt.</p>
+
+  <h2>Der Impfplan</h2>
+  <p>Die meisten Protokolle in Italien folgen demselben Muster. Die erste Injektion erfolgt mit sechs bis acht Wochen, noch beim Züchter, und deckt Staupe, Hepatitis und Parvovirose ab. Die zweite folgt mit zehn bis zwölf Wochen, meist ergänzt um Leptospirose. Die dritte mit vierzehn bis sechzehn Wochen schließt die Grundimmunisierung ab. Eine erste Auffrischung erfolgt mit zwölf Monaten, danach richtet sich der Abstand nach Impfstoff und tierärztlicher Einschätzung.</p>
+  <p>Der Schutz besteht nicht sofort. Die Immunität baut sich über ein bis zwei Wochen nach der letzten Injektion auf, das heißt ein Welpe ist erst mit etwa sechzehn bis achtzehn Wochen wirklich geschützt, nicht im Moment der letzten Spritze.</p>
+  <p>Zwei Details werden oft übersehen. Erstens darf der Abstand zwischen den Dosen nicht verkürzt werden, weil maternale Antikörper den Impfstoff blockieren und der Plan um deren Abbau herum konstruiert ist. Zweitens muss der Tierarzt bei erheblicher Verzögerung unter Umständen einen Teil des Plans neu beginnen.</p>
+
+  <h2>Tollwut und Reisen</h2>
+  <p>Die Tollwutimpfung gehört in weiten Teilen Italiens nicht zum Standardplan des Welpen, ist aber für Reisen innerhalb der Europäischen Union vorgeschrieben. Sie kann ab der zwölften Lebenswoche gegeben werden, muss von einem ermächtigten Tierarzt in den Heimtierausweis eingetragen werden und wirkt einundzwanzig Tage nach der Verabreichung.</p>
+  <p>Diese Wartefrist ist absolut und lässt sich nicht verkürzen. Wer mit einem Welpen ins Ausland will, sollte sie beim ersten Tierarztbesuch ansprechen und nicht drei Wochen vor der Abreise.</p>
+
+  <h2>Optionale Impfungen</h2>
+  <p>Der Zwingerhusten, als Nasen- oder Schluckimpfung, ist sinnvoll für Welpen, die eine Hundeschule besuchen, in Pension gehen oder zur Fellpflege sollen. Er verringert die Schwere, statt sicher vorzubeugen, weil mehrere Erreger das Syndrom auslösen.</p>
+  <p>Die Leishmaniose-Impfung ist in Endemiegebieten relevant, zu denen inzwischen große Teile Italiens gehören. Sie ersetzt kein Repellent-Halsband und kein Spot-on; Ihr Tierarzt berät nach Region und Lebensweise.</p>
+
+  <h2>Nach der Impfung: normal und nicht normal</h2>
+  <p>Leichte Müdigkeit, verminderter Appetit und eine empfindliche Einstichstelle für vierundzwanzig bis achtundvierzig Stunden sind normal und erfordern nichts. Eine kleine feste Schwellung an der Stelle kann zwei Wochen bleiben und verschwindet meist von selbst.</p>
+  <p>Nicht normal und ein Fall für den sofortigen Tierarztbesuch: Schwellung von Gesicht oder Fang, Quaddeln, wiederholtes Erbrechen, Atemnot oder Kollaps. Das sind Zeichen einer allergischen Reaktion, sie treten meist innerhalb einer Stunde auf, und deshalb ist es sinnvoll, nach einer ersten Impfung noch kurz in der Nähe der Praxis zu bleiben.</p>
+
+  <h2>Wohin der Welpe in der Zwischenzeit darf</h2>
+  <p>Das ist die praktisch wichtigste Frage, denn das Sozialisierungsfenster schließt sich mit sechzehn Wochen — genau dann, wenn der Schutz vollständig ist. Passiv abzuwarten kostet im Verhalten mehr, als es an Infektionsrisiko spart.</p>
+  <p>Unbedenklich vor Abschluss: den Welpen auf dem Arm durch die Straße tragen, Freunde mit geimpften gesunden Hunden besuchen, der eigene Garten, sofern dort kein ungeimpfter Hund war, und Autofahrten, um die Welt vom Fenster aus zu sehen.</p>
+  <p>Zu meiden: öffentliche Parks und Hundewiesen, Gehwege, auf denen viele fremde Hunde markieren, der Boden im Wartezimmer und Kontakt mit Hunden unbekannten Impfstatus.</p>
+
+  <h2>Entwurmung parallel zur Impfung</h2>
+  <p>Beide Pläne laufen nebeneinander und werden oft verwechselt. Welpen werden alle zwei Wochen ab der zweiten Lebenswoche bis zur zwölften entwurmt, danach monatlich bis zum sechsten Monat, als Erwachsene vierteljährlich. Der Züchter übernimmt den ersten Teil und sollte Ihnen die Daten schriftlich mitgeben.</p>
+  <p>Ein Welpe mit erheblichem Wurmbefall reagiert schwächer auf die Impfung — deshalb möchten Tierärzte die Entwurmung vor der Injektion aktuell haben.</p>
+
+  <h2>Das Impfbuch</h2>
+  <p>Jede Injektion muss mit Datum, Präparatename, Chargennummer und Praxisstempel eingetragen sein. Bewahren Sie das Heft sicher auf: es wird für Pension, Reisen, Ausstellungen und jede spätere Behandlung gebraucht, und es lässt sich nachträglich nicht rekonstruieren.</p>
+  <p>Bei einem Welpen von uns sind die erste Impfung und der Entwurmungsplan bereits eingetragen, und wir gehen die verbleibenden Termine vor der Abgabe gemeinsam durch.</p>
+
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>
