@@ -25,7 +25,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow"><a href="/recensioni/" title="Leggi le recensioni" style="color:inherit;text-decoration:none">⭐ 4.9 su 37 recensioni →</a></span>
-  <h1 class="hero-title">Allevamento<br><em>Staffordshire</em><br>Bull Terrier</h1>
+  <h1 class="hero-title">Allevamento <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo - Selezione, salute e carattere</p>
   <p class="hero-description">Allevamento etico di Staffordshire Bull Terrier dal 2013. Test genetici completi, pedigree ENCI, cuccioli allevati in famiglia. 3 Campioni Italiani, 4° al World Dog Show, una nuova Giovane Campionessa Italiana a maggio 2026.</p>
   <div class="hero-actions">
@@ -73,7 +73,7 @@ custom_content: |
   <div class="section-inner">
   <h2 class="section-title">Selezione responsabile di Staffordshire Bull Terrier dal 2013</h2>
   <div class="intro-block" style="text-align:left">
-  <p>Del Piccolo Diavolo è un allevamento etico di Staffordshire Bull Terrier a Ostellato, in provincia di Ferrara, attivo dal 2013. Selezioniamo poche cucciolate all'anno, con test genetici completi sui riproduttori e cuccioli ceduti con pedigree ENCI, microchip e vaccinazioni, cresciuti in famiglia. In oltre dieci anni abbiamo formato Campioni Italiani e ottenuto un 4° posto al World Dog Show, seguendo ogni famiglia anche dopo l'affido.</p>
+  <p>Del Piccolo Diavolo è un allevamento etico di Staffordshire Bull Terrier — lo Staffy, come lo chiamano gli appassionati — a Ostellato, in provincia di Ferrara, attivo dal 2013. Selezioniamo poche cucciolate all'anno, con test genetici completi sui riproduttori e cuccioli ceduti con pedigree ENCI, microchip e vaccinazioni, cresciuti in famiglia. In oltre dieci anni abbiamo formato Campioni Italiani e ottenuto un 4° posto al World Dog Show, seguendo ogni famiglia anche dopo l'affido.</p>
   <p>Da oltre dieci anni selezioniamo Staffordshire Bull Terrier seguendo criteri rigorosi di salute, morfologia e temperamento. Lavoriamo con le migliori linee di sangue inglesi e irlandesi, producendo soggetti che si distinguono nei ring italiani e internazionali.</p>
   <p>Il nostro allevamento ha ottenuto 3 Campioni Italiani e un 4° posto al World Dog Show. A maggio 2026 la nostra Queen of California ha conquistato il titolo di Giovane Campionessa Italiana. Tutti i nostri riproduttori sono testati per L2HGA, HC e PHPV.</p>
   <p>Non siamo un allevamento commerciale: produciamo poche cucciolate selezionate ogni anno, seguendo ogni soggetto dalla nascita all'inserimento nella nuova famiglia.</p>
@@ -118,7 +118,7 @@ custom_content: |
   <span class="section-label">Risultati in Esposizione</span>
   <h2 class="section-title">Risultati in esposizione dei nostri Staffy</h2>
 
-  <p style="text-align:center;margin-bottom:2rem">La selezione Del Piccolo Diavolo non si ferma all'estetica: i nostri risultati sui ring italiani e internazionali testimoniano anni di lavoro su salute, tipicità e carattere.</p>
+  <p style="text-align:center;margin-bottom:2rem">La selezione Del Piccolo Diavolo non si ferma all'estetica: i risultati dei nostri Staffy sui ring italiani e internazionali testimoniano anni di lavoro su salute, tipicità e carattere.</p>
 
   <div class="successi-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1.5rem;margin-bottom:2rem">
 
@@ -177,7 +177,7 @@ custom_content: |
   <h2 class="section-title">Perché scegliere l'allevamento Del Piccolo Diavolo</h2>
 
   <div class="intro-block" style="text-align:left">
-  <p>Scegliere Del Piccolo Diavolo significa affidarsi a un allevamento che mette al primo posto salute, carattere e trasparenza, con un rapporto che continua anche dopo l'affido. Ecco perché le famiglie ci scelgono e ci consigliano.</p>
+  <p>Scegliere Del Piccolo Diavolo significa affidarsi a un allevamento di Staffy che mette al primo posto salute, carattere e trasparenza, con un rapporto che continua anche dopo l'affido. Ecco perché le famiglie ci scelgono e ci consigliano.</p>
   </div>
 
   <div class="content-block">
@@ -282,7 +282,7 @@ custom_content: |
 
   <section class="dark-section">
   <h2>Come è nata la mia passione per la razza</h2>
-  <p>La passione per lo Staffordshire Bull Terrier nasce nel 2005, anno in cui ho avuto il mio primo incontro con questa straordinaria razza durante il Crufts. Sono rimasto subito affascinato da questi cani muscolosi e affettuosi, che mi hanno conquistato come veri Rottweiler in miniatura. Avendo già esperienza con i Rottweiler, ho scoperto un mondo nuovo: fatto di determinazione, intelligenza e amore incondizionato.</p>
+  <p>La passione per lo Staffordshire Bull Terrier nasce nel 2005, anno in cui ho avuto il mio primo incontro con questa straordinaria razza durante il Crufts. Otto anni dopo, nel 2013, è nato l'allevamento. Sono rimasto subito affascinato da questi cani muscolosi e affettuosi, che mi hanno conquistato come veri Rottweiler in miniatura. Avendo già esperienza con i Rottweiler, ho scoperto un mondo nuovo: fatto di determinazione, intelligenza e amore incondizionato.</p>
   </section>
 
   <section class="cta-section">
