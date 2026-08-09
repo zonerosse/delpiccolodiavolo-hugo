@@ -65,7 +65,7 @@ custom_content: |
   <p><strong>Gentests:</strong> L2HGA & HC frei per DNA</p>
   <p><strong>PHPV:</strong> Nicht betroffen</p>
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
-  <p><strong>Vater:</strong> Bullbrothers Hot As Hell</p>
+  <p><strong>Vater:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford">Bullbrothers Hott as Hell</a> &laquo;HEAT&raquo; &mdash; Multi-Internationaler Champion, Crufts-qualifiziert, Zucht TheReds Stafford</p>
   <p><strong>Mutter:</strong> Skilful-Dogs Nora</p>
   <p><strong>Besitzer:</strong> Sergio Patrucco</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4554911" target="_blank" rel="noopener" title="Stammbaum Lothar auf SBTPedigree">Vollständigen Stammbaum Sehen →</a>
