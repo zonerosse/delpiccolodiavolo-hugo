@@ -2,6 +2,19 @@
 title: "Staffordshire Bull Terrier Puppies"
 translationKey: "cuccioli"
 description: "Staffordshire Bull Terrier puppies with ENCI pedigree and genetic tests. Elitebull and Lackyle lines. Ostellato, Italy."
+correlati:
+  - url: "/en/staffy-genetic-testing-l2hga-hc/"
+    titolo: "Genetic testing: L2-HGA and HC"
+    testo: "Why both parents must be tested"
+  - url: "/en/puppy-buying-tips/"
+    titolo: "Before you buy a puppy"
+    testo: "Documents, questions and red flags"
+  - url: "/en/staffy-bloodlines-guide/"
+    titolo: "Bloodlines: English and Irish"
+    testo: "What is behind our dogs"
+  - url: "/en/staffy-dangerous-breed-law/"
+    titolo: "Breed legislation in Europe"
+    testo: "Where the breed is restricted"
 slug: "puppies-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">
@@ -160,6 +173,8 @@ custom_content: |
   <p>In the breed since 2005, breeding since 2013: we select Staffordshire Bull Terriers with dedication and love. Every puppy born in our kennel carries years of experience, study and passion for this extraordinary breed.</p>
   </section>
   
+  <!--CORRELATI-->
+
   <section class="cta-section">
   <h2>Want Info About Puppies?</h2>
   <p>Call us or write on WhatsApp for information about available litters.</p>

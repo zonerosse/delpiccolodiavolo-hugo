@@ -2,6 +2,19 @@
 title: "Staffordshire Bull Terrier Zucht"
 translationKey: "home"
 description: "Ethische Staffordshire Bull Terrier Zucht. Gesunde Welpen mit Stammbaum, mit Leidenschaft und Sorgfalt aufgezogen. Entdecken Sie uns."
+correlati:
+  - url: "/de/welpen-staffordshire-bull-terrier/"
+    titolo: "Welpen"
+    testo: "ENCI-Ahnentafel und vollständige Gentests"
+  - url: "/de/staffy-gentests-l2hga-hc/"
+    titolo: "Gesundheitstests erklärt"
+    testo: "Was Sie jeden Züchter fragen sollten"
+  - url: "/de/ist-der-staffordshire-bull-terrier-der-richtige-hund/"
+    titolo: "Ist das der richtige Hund für Sie?"
+    testo: "Ein ehrlicher Blick auf die Rasse"
+  - url: "/de/kontakt/"
+    titolo: "Die Zucht besuchen"
+    testo: "Ostellato (FE), nach Vereinbarung"
 slug: ""
 custom_content: |
   <section class="hero">
@@ -235,6 +248,8 @@ custom_content: |
   <p>Die Leidenschaft für den Staffordshire Bull Terrier wurde 2005 geboren, dem Jahr, in dem ich meine erste Begegnung mit dieser außergewöhnlichen Rasse während Crufts hatte. Ich war sofort fasziniert von diesen muskulösen und liebevollen Welpen, die mich wie echte Miniatur-Rottweiler erobert haben. Mit bereits Erfahrung mit Rottweilern entdeckte ich eine neue Welt: gemacht aus Entschlossenheit, Intelligenz und bedingungsloser Liebe.</p>
   </section>
   
+  <!--CORRELATI-->
+
   <section class="cta-section">
   <h2>Möchten Sie Infos zu Welpen?</h2>
   <p>Rufen Sie uns an für ein unverbindliches Gespräch. Wir beantworten gerne alle Ihre Fragen.</p>

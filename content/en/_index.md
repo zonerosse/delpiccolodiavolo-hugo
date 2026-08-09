@@ -2,6 +2,19 @@
 title: "Staffordshire Bull Terrier Kennel"
 translationKey: "home"
 description: "Ethical Staffordshire Bull Terrier breeding. Healthy puppies with pedigree, raised with passion and care. Discover who we are."
+correlati:
+  - url: "/en/puppies-staffordshire-bull-terrier/"
+    titolo: "Puppies"
+    testo: "ENCI pedigree and full genetic testing"
+  - url: "/en/staffy-genetic-testing-l2hga-hc/"
+    titolo: "Health testing explained"
+    testo: "What to ask any breeder"
+  - url: "/en/is-the-staffordshire-bull-terrier-right-for-you/"
+    titolo: "Is this the right dog for you?"
+    testo: "An honest look at the breed"
+  - url: "/en/contact/"
+    titolo: "Visit the kennel"
+    testo: "Ostellato, Italy, by appointment"
 slug: ""
 custom_content: |
   <section class="hero">
@@ -235,6 +248,8 @@ custom_content: |
   <p>The passion for the Staffordshire Bull Terrier was born in 2005, the year I had my first encounter with this extraordinary breed during Crufts. I was immediately fascinated by these muscular and affectionate puppies, who won me over like true miniature Rottweilers. Having already experience with Rottweilers, I discovered a new world: made of determination, intelligence and unconditional love.</p>
   </section>
   
+  <!--CORRELATI-->
+
   <section class="cta-section">
   <h2>Want Info About Puppies?</h2>
   <p>Call us for a no-obligation chat. We're here to answer all your questions.</p>
