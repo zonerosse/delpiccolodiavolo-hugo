@@ -42,78 +42,37 @@ custom_content: |
   <strong>In brief:</strong> Feeding during the first weeks at home is crucial for growth, gut health and your Staffordshire Bull Terrier puppy's wellbeing. Here you'll find guideline portions, meal frequency and how to manage the transition from breeder's food to yours.
   </div>
   
-  <h2>Meal frequency and timing</h2>
-  <ul>
-  <li><strong>2–3 months:</strong> 4 meals per day, spaced about 4 hours apart.</li>
-  <li><strong>3–5 months:</strong> 3 meals per day.</li>
-  <li><strong>6–12 months:</strong> 2 meals per day (morning/evening) and maintain this as an adult.</li>
-  </ul>
-  
-  <div class="callout">
-  <p class="callout-title">💡 Consistency beats quantity</p>
-  <p>Regular schedules help digestion, potty routine and self-control.</p>
-  </div>
-  
-  <h2>Daily portion: how to gauge</h2>
-  <p>Follow the plan provided by the breeder and manufacturer guidelines. Adjust portions based on body condition, activity level and growth.</p>
-  <ul>
-  <li><strong>Start:</strong> use the same portion and food provided by the breeder for 7–10 days.</li>
-  <li><strong>Monitoring:</strong> feel the ribs (detectable but not visible), slight waist, good energy.</li>
-  <li><strong>Adjust</strong> by 5–10% at a time based on stools, appetite and growth curve.</li>
-  </ul>
-  
-  <h2>Gradual food transition</h2>
-  <p>If changing brand or formula, proceed in steps to avoid loose stools and bowl refusal:</p>
-  <ul>
-  <li><strong>Days 1–3:</strong> 75% old – 25% new</li>
-  <li><strong>Days 4–6:</strong> 50% – 50%</li>
-  <li><strong>Days 7–9:</strong> 25% – 75%</li>
-  <li><strong>From day 10:</strong> 100% new</li>
-  </ul>
-  
-  <h2>Water and hydration</h2>
-  <p>Fresh water always available, away from the sleeping area. In summer or after play, offer frequent water breaks. Avoid cow's milk: it often causes digestive upset.</p>
-  
-  <h2>Treats and chewing</h2>
-  <ul>
-  <li>Choose soft, small treats for training; these count towards daily allowance.</li>
-  <li>Puppy-appropriate chews, under supervision; avoid cooked bones and hard pieces that can splinter.</li>
-  <li>Prefer "functional" rewards after main meals to reduce greediness.</li>
-  </ul>
-  
-  <h2>Supplements: when truly needed</h2>
-  <p>With a balanced complete "puppy" food, supplements aren't necessary. Consult your vet only in specific cases (e.g., probiotics after treatment, omega-3, joint support for prone lines) and never DIY.</p>
-  
-  <h2>Signs to monitor</h2>
-  <ul>
-  <li>Well-formed, shiny but not hard stools.</li>
-  <li>Shiny coat, skin without dandruff and minimal itching.</li>
-  <li>Steady weight gain; watch for sudden increases or drops.</li>
-  <li>Recurring vomiting, persistent loose stools or intense itching require veterinary consultation.</li>
-  </ul>
-  
-  <h2>Staffordshire Bull Terrier: specific notes</h2>
-  <ul>
-  <li>Active, muscular breed: adequate protein and fat for puppy needs.</li>
-  <li>Portioning meals reduces the risk of gulping and aerophagia.</li>
-  <li>Use part of the ration in daily training to combine nutrition and education.</li>
-  </ul>
-  
-  <div class="callout">
-  <p class="callout-title">🐾 Breeder's advice</p>
-  <p>Keep the breeder's food for the first week in your new home. Only change if necessary and always gradually.</p>
-  </div>
-  
-  <div class="related">
-  <h3>Related articles</h3>
-  <ul>
-  <li><a href="/en/puppy-home-socialization/" title="Home socialization">Home socialization: guided first experiences</a></li>
-  <li><a href="/en/puppy-first-vaccinations/" title="First vaccinations">First vaccinations: schedule and practical tips</a></li>
-  <li><a href="/en/puppy-potty-training/" title="Potty training">Potty training: routine and positive reinforcement</a></li>
-  <li><a href="/en/staffy-parasite-prevention/" title="Parasite prevention">Parasites: prevention and control</a></li>
-  </ul>
-  </div>
-  
+  <h2>The first rule: do not change anything at once</h2>
+  <p>A puppy arriving in a new home has already lost its mother, its littermates and everything familiar. Changing its food on the same day adds digestive upset to that list, and diarrhoea in an eight-week-old puppy is not a minor matter.</p>
+  <p>Feed exactly what the breeder was feeding for at least the first week. If you want to change afterwards, do it over seven to ten days: three days at one quarter new food, three at half, three at three quarters, then complete. Any loosening of the stools means going back a step and moving more slowly.</p>
+  <p>We send every puppy home with a supply of its current food and the exact feeding schedule, for precisely this reason.</p>
+
+  <h2>How often and how much</h2>
+  <p>From eight weeks to four months, four meals a day. From four to six months, three. From six months onwards, two, and two meals a day should continue for life rather than reducing to one: a single large meal in a deep-chested breed is a risk factor for gastric torsion.</p>
+  <p>Quantity depends on the food and on the individual, and the number on the packet is a starting point rather than an instruction. The real measure is the puppy itself: you should be able to feel the ribs easily with a flat hand, and see a waist from above. Adjust by ten per cent at a time and reassess after a week.</p>
+  <p>Space the meals through the day and keep the times consistent, which helps house training as much as digestion. Leave the food down for fifteen or twenty minutes and then remove it, rather than leaving a bowl available all day.</p>
+
+  <h2>What matters when choosing a food</h2>
+  <p>Whether you feed dry, wet or raw, the requirements for a growing Staffordshire Bull Terrier are the same. The food must be formulated for growth, not for adult maintenance. Protein and fat should come predominantly from named animal sources rather than unspecified by-products. And the calcium to phosphorus ratio matters more than most owners realise.</p>
+  <p>That last point deserves emphasis. Excess calcium during growth is harmful rather than beneficial, and it is one of the few genuine nutritional causes of skeletal problems. This is why calcium supplements should never be added to a complete puppy food, and why home-prepared diets for growing puppies need professional formulation rather than good intentions.</p>
+
+  <h2>Foods that are dangerous</h2>
+  <p>Chocolate, xylitol, grapes and raisins, onion, garlic, macadamia nuts, alcohol and cooked bones. Xylitol, found in sugar-free chewing gum and some peanut butters, is the one owners least expect and among the most dangerous: a small quantity causes a catastrophic drop in blood sugar.</p>
+  <p>Cooked bones of any kind splinter and can perforate the intestine. This includes the chicken carcass in the kitchen bin, which is why the bin needs to be inaccessible to a puppy that will absolutely investigate it.</p>
+
+  <h2>Treats and training</h2>
+  <p>Treats should not exceed ten per cent of daily intake, and the simplest way to respect that is to use part of the daily ration for training rather than adding to it. A puppy that works for its kibble gets mental stimulation and stays lean at the same time.</p>
+  <p>Avoid giving food from the table, however appealing the expression. This breed is exceptionally persuasive and exceptionally prone to putting on weight, and the habit is far easier never to start than to break.</p>
+
+  <h2>Common digestive problems</h2>
+  <p>Soft stools in the first days are usually stress, and they resolve. Persistent diarrhoea beyond twenty-four hours, or any diarrhoea with blood, lethargy or vomiting, needs a veterinarian the same day: a puppy dehydrates quickly and parvovirus begins this way.</p>
+  <p>A puppy that eats too fast, which is common in a litter of eight, benefits from a slow-feeder bowl. This is worth doing routinely rather than waiting for a problem, because rapid eating with air swallowing is one of the manageable risk factors for bloat.</p>
+  <p>Coprophagia, eating faeces, is common in puppies, usually transient, and best addressed by removing the opportunity rather than by scolding.</p>
+
+  <h2>Weight: the thing to watch most closely</h2>
+  <p>An overweight puppy is not a healthy puppy, and in this breed excess weight is easy to miss under muscle. Growing joints carry the load for a year, and the damage from excess weight during growth does not reverse.</p>
+  <p>Weigh the puppy weekly on the same scales and write it down. Steady, moderate growth is the goal; rapid growth is not an achievement. If in doubt, ask your veterinarian to body-condition score the puppy at each vaccination visit, which takes ten seconds and is more useful than any chart.</p>
+
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   

@@ -52,85 +52,33 @@ custom_content: |
   </ul>
   </div>
   
-  <h2>Die Umgebung vorbereiten</h2>
-  <ul>
-  <li><strong>Eigener Ruhebereich:</strong> Bett oder Gehege/X-Pen in ruhiger Gegend, angemessene Temperatur, Wasser verfügbar.</li>
-  <li><strong>Sicherheit:</strong> Kabel, giftige Pflanzen, zerbrechliche Gegenstände entfernen; nur sichere, robuste Spielzeuge lassen.</li>
-  <li><strong>Hintergrundgeräusche:</strong> Umgebungsgeräusche oder sanfte Musik bei niedriger Lautstärke können helfen.</li>
-  </ul>
-  
-  <h2>Routine und vorhersehbare Signale</h2>
-  <p>Den Tag lesbar machen: Aktivitäten (Spiel, Kauen, Spaziergänge) mit Entspannungsmomenten abwechseln. Kurze Rituale vor dem Verlassen und bei der Rückkehr einführen, dabei neutrale Töne beibehalten.</p>
-  
-  <h2>Schrittweises Protokoll (7–14 Tage)</h2>
-  
-  <h3>Phase 1 — Mikro-Abwesenheiten zu Hause (1–3 Tage)</h3>
-  <ul>
-  <li>Gitter/Gehege für 30–60 Sekunden schließen, während Sie in Sicht bleiben; zurückkehren und Ruhe belohnen.</li>
-  <li>Mehrmals wiederholen, dann den Raum für 30–90 Sekunden verlassen. Dauer langsam erhöhen.</li>
-  </ul>
-  
-  <h3>Phase 2 — Sehr kurze Ausgänge (3–7 Tage)</h3>
-  <ul>
-  <li>Das Haus für 1–3 Minuten verlassen nach einer beruhigenden Aktivität (Schnüffeln/leichter Spaziergang, Kauen).</li>
-  <li>Neutral zurückkehren. Bei Unruhe die Dauer in der nächsten Sitzung verkürzen.</li>
-  </ul>
-  
-  <h3>Phase 3 — Festigung (bis zu 30–60 Minuten)</h3>
-  <ul>
-  <li>Nicht-linear verlängern: 5', 8', 4', 12', 6', 15'… Abwechslung hoch/runter hilft, Erwartungen zu vermeiden.</li>
-  <li>"Kau-Pausen" mit sicheren gefüllten Spielzeugen einbauen, um die Abwesenheit angenehmer zu machen.</li>
-  </ul>
-  
-  <div class="callout">
-  <p class="callout-title">🐾 Züchterrat</p>
-  <p>Bei jungen Staffordshire Bull Terriern vermeiden Sie, sie völlig auszupowern. Schnüffel- und Kauaktivitäten, die sie zentrieren, funktionieren besser als hektisches Rennen vor der Abwesenheit.</p>
-  </div>
-  
-  <h2>Kauen und Anreicherung</h2>
-  <ul>
-  <li><strong>Gefüllte Spielzeuge:</strong> mit sicheren Rezepten und abgemessenen Portionen von ihrer Mahlzeit.</li>
-  <li><strong>Ressourcenrotation:</strong> 2–3 verschiedene Objekte im Wechsel, um das Interesse zu erhalten.</li>
-  <li><strong>Schnüffelspiele:</strong> Schnüffelteppiche oder Kroketten verstreut in einem Karton.</li>
-  </ul>
-  
-  <h2>Über-Bindung verhindern</h2>
-  <ul>
-  <li>Folgen Sie nicht immer dem Welpen und lassen Sie sich nicht überall hinfolgen; nutzen Sie Gitter/Gehege positiv.</li>
-  <li>Nüchterne Begrüßungen und Rückkehr: keine übermäßigen Feiern, Ruhe belohnen, wenn er sich setzt oder hinlegt.</li>
-  <li>Geführte Unabhängigkeit: kurze "jeder für sich"-Momente auch zu Hause fördern.</li>
-  </ul>
-  
-  <h2>Stresssignale zum Beobachten</h2>
-  <ul>
-  <li>Anhaltendes Jaulen, Hypersalivation, Zerstörung an Türen/Fenstern, unsauberes Verhalten.</li>
-  <li>Wenn diese auftreten, zur Dauer zurückkehren, bei der er ruhig war, und langsamer fortschreiten.</li>
-  <li>Bei Fortbestehen Tierarzt und qualifizierten Trainer konsultieren.</li>
-  </ul>
-  
-  <h2>Wie lange kann ein Welpe allein bleiben?</h2>
-  <p>Vorsichtige Regel: bis zu 1–2 Stunden mit ausreichender Vorbereitung in den ersten Monaten, schrittweise steigernd. Familienhilfe oder Tiersitter für längere Tage organisieren.</p>
-  
-  <div class="checklist">
-  <p class="checklist-title">📋 Schnelle Checkliste</p>
-  <ul>
-  <li>Sicherer Bereich bereit (Gehege/X-Pen, Wasser, geeignete Spielzeuge)</li>
-  <li>Definierte Tagesroutine und Vor-Abfahrt-Signal</li>
-  <li>Schrittweises Protokoll mit nicht-linearen Dauern geplant</li>
-  <li>Stresssignal-Überwachung und Rückfall-Option bei Bedarf</li>
-  </ul>
-  </div>
-  
-  <div class="related">
-  <h3>Verwandte Artikel</h3>
-  <ul>
-  <li><a href="/de/welpen-sozialisierung-zuhause/" title="Sozialisierung zu Hause">Sozialisierung zu Hause: Geführte erste Erfahrungen</a></li>
-  <li><a href="/de/welpen-stubenreinheit/" title="Stubenreinheit">Stubenreinheit: Routine und positive Verstärkung</a></li>
-  <li><a href="/de/welpen-denkspiele/" title="Denkspiele">Denkspiele für Welpen: Geist und Selbstkontrolle fördern</a></li>
-  <li><a href="/de/staffy-kinder-familie/" title="Leben mit Kindern">Leben mit Kindern: Klare Regeln und sichere Interaktionen</a></li>
-  </ul>
-  </div>
-  
+  <h2>Warum gerade diese Rasse es lernen muss</h2>
+  <p>Der Staffordshire Bull Terrier wurde darauf selektiert, menschliche Gesellschaft stärker zu wollen als die meisten Rassen irgendetwas wollen. Das ist seine große Stärke und in diesem einen Punkt seine Schwachstelle: ein Hund, der für das Zusammensein gezüchtet wurde, ist ein Hund, dem das Alleinbleiben schwerfällt.</p>
+  <p>Trennungsprobleme gehören zu den häufigsten Abgabegründen bei dieser Rasse, und sie sind fast vollständig vermeidbar. Die Vorbeugung kostet wenige Minuten täglich und muss in der ersten Woche beginnen, bevor ein Problem entsteht.</p>
+  <p>Die Falle ist gegenläufig zur Erwartung. Gerade ein Welpe, der nie allein war, weil immer jemand da ist, kommt mit sechs Monaten nicht zurecht, wenn die Arbeit wieder beginnt oder die Ferien enden. Zu Hause zu sein ist eine Gelegenheit, das Alleinbleiben zu üben, kein Grund, es aufzuschieben.</p>
+
+  <h2>Vom ersten Tag an</h2>
+  <p>Beginnen Sie mit dreißig Sekunden. Geben Sie dem Welpen etwas wirklich Gutes — ein befülltes Gummispielzeug, einen Kauartikel —, gehen Sie hinter eine Tür und kommen Sie zurück, bevor er fertig ist und bevor er unruhig wird. Zurückzukommen, ehe der Welpe sich sorgt, ist die ganze Methode: Sie lehren, dass Sie immer wiederkommen, und testen nicht, wie lange er durchhält.</p>
+  <p>Steigern Sie schrittweise: eine Minute, drei, zehn, zwanzig, vierzig. Führt ein Schritt zu Unruhe, waren Sie zu schnell; gehen Sie zwei Schritte zurück. Der Fortschritt verläuft nicht geradlinig, und eine schlechte Woche macht die Arbeit nicht zunichte.</p>
+  <p>Variieren Sie Ihr Verhalten, damit Aufbruchsignale ihre Bedeutung verlieren. Schlüssel nehmen und sich hinsetzen. Jacke anziehen und Kaffee kochen. Ein Welpe, der das hundertmal ohne Ihr Weggehen erlebt hat, liest es nicht mehr als Warnung.</p>
+
+  <h2>Weggehen und Zurückkommen</h2>
+  <p>Hier machen die meisten Halter ihre eigene Arbeit zunichte. Ein rührender Abschied und eine überschwängliche Begrüßung lehren den Hund, dass Ihre An- und Abwesenheit gewaltige Ereignisse sind und die Zeit dazwischen der Sorge wert ist.</p>
+  <p>Gehen Sie wortlos. Kommen Sie zurück, ignorieren Sie den Hund zwei Minuten, während Sie Ihre Sachen ablegen, und begrüßen Sie ihn ruhig, wenn er sich beruhigt hat. Es fühlt sich kühl an und ist das Freundlichste, was Sie tun können.</p>
+
+  <h2>Die Umgebung</h2>
+  <p>Eine Box ist nützlich, wenn der Welpe sie lieben gelernt hat, und schädlich, wenn sie als Einsperrung dient. Füttern Sie darin, geben Sie Kauartikel darin, lassen Sie die Tür offen, und nutzen Sie sie nie als Strafe. Ein Welpe, der freiwillig in seiner Box schläft, hat eine Höhle; ein eingesperrter hat einen Käfig.</p>
+  <p>Alternativ beschränken Sie den Welpen mit einem Türgitter auf einen sicheren Raum statt auf das ganze Haus. Lassen Sie leise Radio oder Fernsehen laufen, was Straßengeräusche überdeckt, die sonst Bellen auslösen. Geben Sie etwas zum Kauen, denn Kauen beruhigt tatsächlich.</p>
+
+  <h2>Ein echtes Problem erkennen</h2>
+  <p>Gewöhnlicher Protest sind wenige Minuten Jammern, das nachlässt. Trennungsstress sieht anders aus: Zerstörung konzentriert an Türen und Fenstern statt beliebigem Kauen, Urinieren oder Koten bei einem stubenreinen Hund, ununterbrochenes Bellen über die gesamte Abwesenheit, starker Speichelfluss und Futterverweigerung im Alleinsein.</p>
+  <p>Eine Kamera oder ein mitlaufendes Telefon zeigt Ihnen, welcher der beiden Fälle vorliegt, und das lohnt sich, bevor man etwas schlussfolgert. Viele Hunde, die Halter für verzweifelt halten, schlafen vier Minuten nach dem Zufallen der Tür.</p>
+  <p>Handelt es sich um echten Stress, braucht die Lage eine Verhaltensfachperson und nicht mehr vom Selben. Strafe bei der Rückkehr verschlimmert es deutlich, weil der Hund Ihre Ankunft mit Konflikt verknüpft.</p>
+
+  <h2>Wie lange ist zumutbar</h2>
+  <p>Ein Welpe von acht bis zwölf Wochen sollte nicht länger als ein bis zwei Stunden allein sein. Mit sechs Monaten drei bis vier. Ein erwachsener Hund schafft vier bis sechs Stunden, wenn er vorher bewegt wurde und etwas zu tun hat — aber acht Stunden täglich allein sind mit dieser Rasse nicht vereinbar, und das sagen wir Interessenten offen.</p>
+  <p>Wo der Arbeitstag lang ist, lautet die Lösung: eine Mittagsrunde durch eine bezahlte Betreuung, eine Nachbarin, oder zwei- bis dreimal wöchentlich eine Hundetagesstätte. Das sind gewöhnliche Kosten dieser Rasse und kein Luxus.</p>
+
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   

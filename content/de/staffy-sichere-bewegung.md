@@ -30,57 +30,33 @@ custom_content: |
   <strong>Kurz gesagt:</strong> Der Staffordshire Bull Terrier ist eine athletische, energiegeladene Rasse, die regelmäßige Bewegung für körperliche und geistige Gesundheit braucht. Bewegung muss jedoch altersgerecht sein.
   </div>
   
-  <h2>Bewegungsbedarf nach Alter</h2>
-  
-  <h3>Welpen (0-12 Monate)</h3>
-  
-  <p>Welpen haben wachsende Knochen und Gelenke:</p>
-  
-  <ul>
-  <li><strong>5 Minuten Bewegung pro Lebensmonat, zweimal täglich</strong></li>
-  <li>3-Monate-alter Welpe: 15 Minuten zweimal täglich</li>
-  <li>6-Monate-alter Welpe: 30 Minuten zweimal täglich</li>
-  <li>Springen und Treppen vermeiden bis Knochen ausgewachsen sind</li>
-  </ul>
-  
-  <h3>Erwachsene (1-7 Jahre)</h3>
-  
-  <p>Erwachsene Staffys brauchen 1-2 Stunden Bewegung täglich:</p>
-  
-  <ul>
-  <li>Mindestens ein 30-45 Minuten Spaziergang</li>
-  <li>Spielsitzungen mit Apportieren, Zerrspielzeug</li>
-  <li>Geistige Stimulationsspiele</li>
-  <li>Schwimmen (exzellente gelenkschonende Bewegung)</li>
-  </ul>
-  
-  <h2>Lustige Aktivitäten für Staffys</h2>
-  
-  <ul>
-  <li><strong>Apportier- und Suchspiele</strong></li>
-  <li><strong>Tauziehen:</strong> Staffys lieben das!</li>
-  <li><strong>Agility:</strong> Für Erwachsene mit richtigem Training</li>
-  <li><strong>Schwimmen:</strong> Viele Staffys lieben Wasser</li>
-  <li><strong>Nasenarbeit:</strong> Geistige Stimulation</li>
-  </ul>
-  
-  <h2>Wetterüberlegungen</h2>
-  
-  <h3>Heißes Wetter</h3>
-  
-  <p>Staffys können wegen ihres muskulösen Baus schnell überhitzen:</p>
-  
-  <ul>
-  <li>Bewegung früh morgens oder abends</li>
-  <li>Immer frisches Wasser bereitstellen</li>
-  <li>Auf Hitzschlagsymptome achten</li>
-  </ul>
-  
-  <div class="callout">
-  <p class="callout-title">🐕 Glücklicher, gesunder Staffy</p>
-  <p>Ein gut bewegter Staffy ist ein glücklicher Staffy. Regelmäßige Aktivität verhindert Verhaltensprobleme. Bei <a href="/de/">Del Piccolo Diavolo</a> genießen unsere Hunde viel Platz und Aktivität.</p>
-  </div>
-  
+  <h2>Wie viel Bewegung diese Rasse wirklich braucht</h2>
+  <p>Der Staffordshire Bull Terrier ist ein athletischer Hund in kompakter Bauform, und sein Bedarf wird regelmäßig in beide Richtungen falsch eingeschätzt. Er braucht keine zwei Stunden Laufen am Tag, und er ist kein Schoßhund, dem eine Runde um den Block genügt.</p>
+  <p>Für einen gesunden erwachsenen Hund sind etwa sechzig bis neunzig Minuten täglich realistisch, aufgeteilt auf mindestens zwei Gänge, mit einer Mischung aus zügigem Gehen, freier Bewegung und einem Anteil Kopfarbeit. Ein Hund, der nur körperlich ausgelastet wird und nie denken muss, bleibt aufgedreht.</p>
+
+  <h2>Welpen: die Fünf-Minuten-Regel und warum sie zählt</h2>
+  <p>Die Wachstumsfugen schließen sich bei dieser Rasse zwischen dem zehnten und vierzehnten Lebensmonat. Bis dahin sind die Gelenke anfällig für Schäden, die erst Jahre später sichtbar werden. Die bewährte Faustregel lautet fünf Minuten geführter Spaziergang je Lebensmonat, zweimal täglich: zehn Minuten mit zwei Monaten, zwanzig mit vier, dreißig mit sechs.</p>
+  <p>Freies Spiel im Garten, bei dem der Welpe sein eigenes Tempo bestimmt und aufhört, wenn er müde ist, ist etwas anderes und darf großzügiger ausfallen. Vermieden werden muss bis zum Schluss der Wachstumsfugen alles Wiederholte mit hoher Belastung: lange Läufe auf hartem Untergrund, Herunterspringen von Möbeln oder aus dem Kofferraum, häufiges Treppensteigen und jede Form von Sprungtraining.</p>
+  <p>Das ist der häufigste Fehler, den wir bei neuen Besitzern sehen, und er wird in bester Absicht von Menschen gemacht, die glauben, dem Welpen etwas Gutes zu tun.</p>
+
+  <h2>Hitze: das Risiko, das tatsächlich tötet</h2>
+  <p>Dieser Abschnitt ist der wichtigste. Der Staffordshire Bull Terrier hat einen im Vergleich zu vielen Rassen verkürzten Fang, einen dichten muskulösen Körper und bei vielen Hunden ein dunkles Fell. Er gibt Wärme schlecht ab, und ein Hitzschlag entwickelt sich bei dieser Rasse schneller, als die meisten Besitzer erwarten.</p>
+  <p>Ab etwa zweiundzwanzig Grad bei hoher Luftfeuchtigkeit fällt die Mittagszeit vollständig aus; gegangen wird früh morgens und spät abends. Prüfen Sie den Asphalt fünf Sekunden mit dem Handrücken: was Sie nicht halten können, kann der Hund nicht belaufen. Nehmen Sie im Sommer bei jedem Gang Wasser mit, nicht nur bei langen.</p>
+  <p>Frühe Anzeichen sind schweres, geräuschvolles Hecheln, das nicht nachlässt, eine leuchtend rote Zunge, zäher Speichel und Widerwillen weiterzugehen. Dann sofort anhalten, in den Schatten gehen und den Hund mit handwarmem, nicht eiskaltem Wasser an Bauch, Leisten und Pfoten kühlen. Ein Hitzschlag ist ein Notfall, und auch ein Hund, der sich vor Ort erholt, gehört anschließend zum Tierarzt.</p>
+
+  <h2>Was zur Rasse passt und was nicht</h2>
+  <p>Gut geeignet: zügiges Gehen auf wechselndem Untergrund, Schwimmen für Hunde, die es mögen, Zerrspiele mit klaren Regeln, Nasenarbeit und Suchspiele in der Wohnung, kurze Rückrufeinheiten.</p>
+  <p>Schlecht geeignet: wiederholtes Ballwerfen, das hartes Abbremsen mit einem obsessiven Erregungszustand verbindet und eine häufige Ursache für Schulter- und Kreuzbandverletzungen ist; Laufen neben dem Fahrrad, weil der Hund sein Tempo nicht mehr selbst bestimmen kann; und jede Ausdauerbelastung bei Wärme.</p>
+  <p>Frisbee und Ballschleuder sind die beiden Gegenstände, um deren Wegräumen wir neue Besitzer am häufigsten bitten.</p>
+
+  <h2>Kopfarbeit ist nicht optional</h2>
+  <p>Ein Staffordshire Bull Terrier, der körperlich müde, geistig aber unterfordert ist, sucht sich seine eigene Beschäftigung, meist zu Lasten Ihrer Einrichtung. Zehn Minuten Nasenarbeit, ein Futterspiel oder eine kurze Trainingseinheit mit etwas wirklich Neuem ermüden diese Rasse wirksamer als ein weiterer Kilometer Spaziergang.</p>
+  <p>Die Tagesration im Gras zu verstreuen und den Hund suchen zu lassen, kostet keine Vorbereitung und wirkt erstaunlich gut.</p>
+
+  <h2>Anpassung an Alter und Verfassung</h2>
+  <p>Ab etwa acht Jahren bleibt die Gesamtdauer, die Intensität sinkt: häufigere, kürzere, ruhigere Gänge und Aufwärmzeit vor allem Anstrengenden. Hunde mit Hüft- oder Ellenbogendysplasie profitieren besonders vom Schwimmen und von einem stabilen Gewicht, der günstigsten und wirksamsten Gelenkbehandlung überhaupt.</p>
+  <p>Zum Gewicht: diese Rasse trägt Überschuss so, dass er unter der Muskulatur leicht übersehen wird. Die Rippen müssen mit flacher Hand gut fühlbar sein, und von oben muss eine Taille sichtbar sein. Ein übergewichtiger Staffy verliert Jahre bequemer Bewegung, und der Verlust bleibt unsichtbar, bis er weit fortgeschritten ist.</p>
+
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>
