@@ -2,6 +2,16 @@
 title: "Staffordshire Bull Terrier Litters"
 translationKey: "programma"
 description: "Planned and current Staffordshire Bull Terrier litters at Del Piccolo Diavolo: parents, health tests and availability."
+correlati:
+  - url: "/en/staffy-bloodlines-guide/"
+    titolo: "Bloodlines: English and Irish"
+    testo: "How we plan a mating"
+  - url: "/en/staffy-genetic-testing-l2hga-hc/"
+    titolo: "Genetic testing on the parents"
+    testo: "L2-HGA, HC and what the results mean"
+  - url: "/en/staffy-breed-standard/"
+    titolo: "The breed standard"
+    testo: "Type, movement and welfare faults"
 slug: "litters-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">
@@ -265,6 +275,8 @@ custom_content: |
   <p>Since 2013 we have been breeding Staffordshire Bull Terriers with an ethical approach: few selected litters, attention to health, character and breed type. Each puppy is followed with care, from birth to joining the new family. Our mission is to preserve the authenticity of the breed through responsible and transparent selection.</p>
   </section>
   
+  <!--CORRELATI-->
+
   <section class="cta-section">
   <h2>Want Info About Litters?</h2>
   <p>Call us or write on WhatsApp for information about available and future litters.</p>

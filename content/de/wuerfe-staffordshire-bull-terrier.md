@@ -2,6 +2,16 @@
 title: "Würfe Staffordshire Bull Terrier"
 translationKey: "programma"
 description: "Staffordshire Bull Terrier Würfe mit ausgewählten Eltern, L2HGA/HC Gentests, ENCI-Stammbaum. Zuchtprogramm, Elitebull und Lackyle Linien. Ostellato (FE)."
+correlati:
+  - url: "/de/staffy-blutlinien-guide/"
+    titolo: "Blutlinien: England und Irland"
+    testo: "Wie wir eine Verpaarung planen"
+  - url: "/de/staffy-gentests-l2hga-hc/"
+    titolo: "Gentests der Elterntiere"
+    testo: "L2-HGA, HC und was die Ergebnisse bedeuten"
+  - url: "/de/staffy-rassestandard/"
+    titolo: "Der Rassestandard"
+    testo: "Typ, Bewegung und Wohlbefindensfehler"
 slug: "wuerfe-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">
@@ -265,6 +275,8 @@ custom_content: |
   <p>Seit 2013 züchten wir Staffordshire Bull Terrier mit einem ethischen Ansatz: wenige ausgewählte Würfe, Aufmerksamkeit für Gesundheit, Charakter und Typizität. Jeder Welpe wird sorgfältig betreut, von der Geburt bis zum Einzug in die neue Familie. Unsere Mission ist es, die Authentizität der Rasse durch verantwortungsvolle und transparente Selektion zu bewahren.</p>
   </section>
   
+  <!--CORRELATI-->
+
   <section class="cta-section">
   <h2>Möchten Sie Infos zu Würfen?</h2>
   <p>Rufen Sie uns an oder schreiben Sie uns auf WhatsApp für Informationen über verfügbare und zukünftige Würfe.</p>

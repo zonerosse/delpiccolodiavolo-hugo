@@ -2,6 +2,16 @@
 title: "About Us - Staffordshire Bull Terrier Breeder"
 translationKey: "chi-siamo"
 description: "Del Piccolo Diavolo kennel: breeding healthy, balanced and typical Staffordshire Bull Terriers since 2013. Ostellato, Italy."
+correlati:
+  - url: "/en/palmares/"
+    titolo: "Our results"
+    testo: "Champions and show placings"
+  - url: "/en/litters-staffordshire-bull-terrier/"
+    titolo: "Breeding programme"
+    testo: "Planned and current litters"
+  - url: "/en/reviews/"
+    titolo: "What families say"
+    testo: "Reviews from our puppy owners"
 slug: "about-us"
 custom_content: |
   <section class="hero">
@@ -101,6 +111,8 @@ custom_content: |
   <p>We don't breed for profit. Each litter costs thousands of euros in tests, veterinary care, quality food. You'll never find our puppies on classified ads. We also select the owners.</p>
   </section>
   
+  <!--CORRELATI-->
+
   <section class="cta-section">
   <h2>Want to Meet Us?</h2>
   <p>Come visit us in Ostellato (FE) or contact us on WhatsApp</p>

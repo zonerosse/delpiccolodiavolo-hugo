@@ -2,6 +2,19 @@
 title: "Welpen Staffordshire Bull Terrier"
 translationKey: "cuccioli"
 description: "Staffordshire Bull Terrier Welpen mit ENCI-Ahnentafel und Gentests. Elitebull und Lackyle Linien. Ostellato (FE)."
+correlati:
+  - url: "/de/staffy-gentests-l2hga-hc/"
+    titolo: "Gentests: L2-HGA und HC"
+    testo: "Warum beide Elterntiere getestet sein müssen"
+  - url: "/de/welpen-kauftipps/"
+    titolo: "Vor dem Welpenkauf"
+    testo: "Unterlagen, Fragen und Warnzeichen"
+  - url: "/de/staffy-blutlinien-guide/"
+    titolo: "Blutlinien: England und Irland"
+    testo: "Was hinter unseren Hunden steht"
+  - url: "/de/staffy-gefaehrliche-rasse-gesetz/"
+    titolo: "Rassegesetzgebung in Europa"
+    testo: "Wo die Rasse Beschränkungen unterliegt"
 slug: "welpen-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">
@@ -160,6 +173,8 @@ custom_content: |
   <p>In der Rasse seit 2005, Zucht seit 2013: wir selektieren Staffordshire Bull Terrier mit Hingabe und Liebe. Jeder Welpe, der in unserer Zucht geboren wird, trägt Jahre an Erfahrung, Studium und Leidenschaft für diese außergewöhnliche Rasse in sich.</p>
   </section>
   
+  <!--CORRELATI-->
+
   <section class="cta-section">
   <h2>Möchten Sie Infos zu Welpen?</h2>
   <p>Rufen Sie uns an oder schreiben Sie uns auf WhatsApp für Informationen über verfügbare Würfe.</p>
