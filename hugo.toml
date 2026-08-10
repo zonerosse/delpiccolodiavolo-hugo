@@ -61,3 +61,36 @@ enableRobotsTXT = true
 [outputs]
   home = ["HTML", "sitemap"]
   page = ["HTML"]
+
+# ---------------------------------------------------------------
+# FOTO HERO A ROTAZIONE
+# La foto della home cambia da sola in base al periodo.
+# rotazione = "settimane" (predefinito) | "giorni" | "mesi"
+# Per aggiungere una foto: copia un blocco [[params.hero.foto]]
+# ---------------------------------------------------------------
+[params.hero]
+  rotazione = "settimane"
+
+  [[params.hero.foto]]
+    file = "/images/bilquis-campionessa-hero.avif"
+    w = 800
+    h = 976
+    alt = "JCH CH Bilquis Goddess Diabhal, Campionessa Italiana Staffordshire Bull Terrier, in posa sul ring di esposizione"
+    title = "Bilquis Goddess Diabhal — Campionessa Italiana"
+    didascalia = "Bilquis Goddess Diabhal — Campionessa Italiana ENCI, 4ª al World Dog Show 2024"
+
+  [[params.hero.foto]]
+    file = "/images/lothar-matthaus-esposizione.avif"
+    w = 620
+    h = 983
+    alt = "JCH Lothar Matthäus del Piccolo Diavolo, Staffordshire Bull Terrier tigrato in posa da esposizione"
+    title = "Lothar Matthäus del Piccolo Diavolo — Giovane Campione Italiano"
+    didascalia = "Lothar Matthäus — Giovane Campione Italiano, figlio di Bullbrothers Hott as Hell"
+
+  [[params.hero.foto]]
+    file = "/images/divine-cucciola-tre-mesi.avif"
+    w = 800
+    h = 1089
+    alt = "Divine del Piccolo Diavolo, cucciola di Staffordshire Bull Terrier nera di tre mesi in posa"
+    title = "Divine del Piccolo Diavolo a tre mesi"
+    didascalia = "Divine del Piccolo Diavolo — cucciola nera a tre mesi, allevata in famiglia"

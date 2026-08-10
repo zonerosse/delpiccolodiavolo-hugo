@@ -19,9 +19,7 @@ slug: ""
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
-  <div class="hero-image">
-  <img src="/images/femmina-bilquis-hero.avif" alt="Bilquis Goddess Diabhal, Campionessa Italiana Staffordshire Bull Terrier in esposizione" width="301" height="396" fetchpriority="high" decoding="sync">
-  </div>
+  <!--HEROFOTO-->
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow"><a href="/recensioni/" title="Leggi le recensioni" style="color:inherit;text-decoration:none">⭐ 4.9 su 37 recensioni →</a></span>

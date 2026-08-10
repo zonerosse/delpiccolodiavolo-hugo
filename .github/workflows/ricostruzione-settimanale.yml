@@ -1,0 +1,43 @@
+name: Ricostruzione settimanale
+
+# Serve a far cambiare la foto dell'hero anche quando non pubblichi nulla.
+# Ogni lunedi' mattina chiama Cloudflare Pages e gli chiede di ricompilare
+# il sito: Hugo rilegge la data, sceglie la foto del periodo e la pubblica.
+#
+# INSTALLAZIONE (una volta sola, ~5 minuti)
+# -----------------------------------------
+# 1. Cloudflare -> Workers e Pages -> il progetto delpiccolodiavolo
+#    -> Impostazioni -> Build -> Deploy hooks -> Crea deploy hook.
+#    Nome: "ricostruzione settimanale", ramo: main.
+#    Copia l'URL che ti mostra (inizia con https://api.cloudflare.com/...).
+#
+# 2. GitHub -> il repository -> Settings -> Secrets and variables -> Actions
+#    -> New repository secret.
+#    Nome:   CLOUDFLARE_DEPLOY_HOOK
+#    Valore: l'URL copiato al punto 1.
+#
+# 3. Salva questo file come .github/workflows/ricostruzione-settimanale.yml
+#    e fai push. Da quel momento parte da solo ogni lunedi'.
+#
+# Per lanciarlo a mano quando vuoi: GitHub -> Actions -> questo workflow
+# -> "Run workflow".
+
+on:
+  schedule:
+    # ogni lunedi' alle 05:00 UTC (07:00 in Italia d'estate, 06:00 d'inverno)
+    - cron: '0 5 * * 1'
+  workflow_dispatch:
+
+jobs:
+  ricostruisci:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Chiama il deploy hook di Cloudflare Pages
+        run: |
+          if [ -z "${{ secrets.CLOUDFLARE_DEPLOY_HOOK }}" ]; then
+            echo "Manca il secret CLOUDFLARE_DEPLOY_HOOK. Vedi le istruzioni in cima al file."
+            exit 1
+          fi
+          curl -sS -X POST "${{ secrets.CLOUDFLARE_DEPLOY_HOOK }}"
+          echo ""
+          echo "Richiesta di ricostruzione inviata."
