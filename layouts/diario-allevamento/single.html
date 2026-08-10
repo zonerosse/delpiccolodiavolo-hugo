@@ -15,7 +15,7 @@
 {{ $stato := .Params.stato | default "completa" }}
 {{ $url := "/lista-attesa/" }}{{ $cta := "Vai alla lista d'attesa" }}
 {{ $tit := "Questa cucciolata è già stata affidata" }}
-{{ $txt := "I cuccioli vengono affidati prima della nascita. Le prossime cucciolate sono in programma: la lista d'attesa non è un impegno e non prevede acconti." }}
+{{ $txt := "Le prossime cucciolate sono già in programma. La lista d'attesa non è un impegno e non prevede acconti: serve solo a conoscerci con calma prima che nascano i cuccioli." }}
 {{ if eq $stato "disponibile" }}
   {{ $tit = "Cuccioli ancora disponibili" }}
   {{ $txt = "Per informazioni su questa cucciolata, lasciami i tuoi dati: ti ricontatto entro 24 ore." }}
@@ -23,13 +23,13 @@
 {{ if eq $lang "en" }}
   {{ $url = "/en/waiting-list/" }}{{ $cta = "Go to the waiting list" }}
   {{ $tit = "This litter has already been placed" }}
-  {{ $txt = "Puppies are placed before they are born. The next litters are already planned: the waiting list is not a commitment and requires no deposit." }}
+  {{ $txt = "The next litters are already planned. The waiting list is not a commitment and requires no deposit: it is simply a way to get to know each other before the puppies arrive." }}
   {{ if eq $stato "disponibile" }}{{ $tit = "Puppies still available" }}{{ $txt = "For information about this litter, leave me your details: I reply within 24 hours." }}{{ end }}
 {{ end }}
 {{ if eq $lang "de" }}
   {{ $url = "/de/warteliste/" }}{{ $cta = "Zur Warteliste" }}
   {{ $tit = "Dieser Wurf ist bereits vergeben" }}
-  {{ $txt = "Die Welpen werden bereits vor der Geburt vergeben. Die nächsten Würfe sind geplant: die Warteliste ist unverbindlich und ohne Anzahlung." }}
+  {{ $txt = "Die nächsten Würfe sind bereits geplant. Die Warteliste ist unverbindlich und ohne Anzahlung: sie dient nur dazu, sich in Ruhe kennenzulernen, bevor die Welpen da sind." }}
   {{ if eq $stato "disponibile" }}{{ $tit = "Noch Welpen verfügbar" }}{{ $txt = "Für Informationen zu diesem Wurf hinterlassen Sie mir Ihre Daten: ich antworte innerhalb von 24 Stunden." }}{{ end }}
 {{ end }}
 
