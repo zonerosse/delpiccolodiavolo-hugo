@@ -15,6 +15,7 @@
   {{ end }}
   {{ $c := replace .Params.custom_content "<!--NEWS-->" $news }}
   {{ $c = replace $c "<!--CORRELATI-->" (partial "correlati.html" .) }}
+  {{ $c = replace $c "<!--HEROFOTO-->" (partial "hero-foto.html" .) }}
   {{ replace $c "<!--LISTAATTESA-->" (partial "lista-attesa.html" .) | safeHTML }}
 {{ else }}
   <section class="hero">

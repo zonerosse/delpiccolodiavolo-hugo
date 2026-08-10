@@ -77,7 +77,7 @@ custom_content: |
   <p><strong>Test Genetici:</strong> L2HGA &amp; HC clear by DNA</p>
   <p><strong>PHPV:</strong> Unaffected</p>
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
-  <p><strong>Padre:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford">Bullbrothers Hott as Hell</a> &laquo;HEAT&raquo; &mdash; Multi Campione Internazionale, qualificato Crufts, allevamento TheReds Stafford</p>
+  <p><strong>Padre:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford" style="color:#8b5a2b;font-weight:700;text-decoration:underline;text-underline-offset:3px">Bullbrothers Hott as Hell &#8599;</a> &laquo;HEAT&raquo; &mdash; Multi Campione Internazionale, qualificato Crufts, allevamento TheReds Stafford</p>
   <p><strong>Madre:</strong> Skilful-Dogs Nora</p>
   <p><strong>Proprietario:</strong> Sergio Patrucco</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4554911" target="_blank" rel="noopener" title="Vedi pedigree Lothar su SBTPedigree">Vedi Pedigree Completo →</a>

@@ -1,0 +1,62 @@
+{{/*
+  hero-foto.html — sceglie la foto dell'hero in rotazione automatica.
+
+  La foto cambia in base al periodo corrente: con "settimane" cambia ogni
+  settimana ISO, con "giorni" ogni giorno, con "mesi" ogni mese.
+  La scelta avviene AL MOMENTO DELLA BUILD, quindi la pagina resta statica
+  e la foto ha alt e title corretti direttamente nell'HTML.
+
+  Configurazione in hugo.toml:
+
+    [params.hero]
+      rotazione = "settimane"     # oppure "giorni" o "mesi"
+
+      [[params.hero.foto]]
+        file    = "/images/femmina-bilquis-hero.avif"
+        larg    = 301
+        alt     = "Bilquis Goddess Diabhal, Campionessa Italiana..."
+        title   = "Bilquis in esposizione"
+        didascalia = "Bilquis Goddess Diabhal — Campionessa Italiana"
+        w = 301
+        h = 396
+
+  Se il blocco non è configurato, mostra la foto storica e non cambia nulla.
+*/}}
+
+{{- $cfg := site.Params.hero -}}
+{{- $foto := "" -}}
+
+{{- with $cfg }}{{ with .foto }}
+  {{- $n := len . -}}
+  {{- $periodo := 0 -}}
+  {{- $rot := $cfg.rotazione | default "settimane" -}}
+  {{- if eq $rot "giorni" -}}
+    {{- $periodo = int (div (now.Unix) 86400) -}}
+  {{- else if eq $rot "mesi" -}}
+    {{- $periodo = add (mul (int (now.Format "2006")) 12) (int (now.Format "1")) -}}
+  {{- else -}}
+    {{- $periodo = int (div (now.Unix) 604800) -}}
+  {{- end -}}
+  {{- $i := mod $periodo $n -}}
+  {{- $foto = index . $i -}}
+{{ end }}{{ end }}
+
+{{- if $foto -}}
+<div class="hero-image">
+  <img src="{{ $foto.file }}"
+       alt="{{ $foto.alt }}"
+       {{ with $foto.title }}title="{{ . }}"{{ end }}
+       width="{{ $foto.w | default 301 }}"
+       height="{{ $foto.h | default 396 }}"
+       fetchpriority="high" decoding="sync">
+</div>
+{{- with $foto.didascalia }}
+<p class="hero-didascalia" style="margin:.6rem 0 0;font-size:.85rem;color:#7a6a58;line-height:1.5;text-align:center">{{ . }}</p>
+{{- end }}
+{{- else -}}
+<div class="hero-image">
+  <img src="/images/femmina-bilquis-hero.avif"
+       alt="Bilquis Goddess Diabhal, Campionessa Italiana Staffordshire Bull Terrier in esposizione"
+       width="301" height="396" fetchpriority="high" decoding="sync">
+</div>
+{{- end -}}
