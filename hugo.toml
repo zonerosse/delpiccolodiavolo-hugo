@@ -78,6 +78,12 @@ enableRobotsTXT = true
     alt = "JCH CH Bilquis Goddess Diabhal, Campionessa Italiana Staffordshire Bull Terrier, in posa sul ring di esposizione"
     title = "Bilquis Goddess Diabhal — Campionessa Italiana"
     didascalia = "Bilquis Goddess Diabhal — Campionessa Italiana ENCI, 4ª al World Dog Show 2024"
+    altEn = "JCH CH Bilquis Goddess Diabhal, Italian Champion Staffordshire Bull Terrier, stacked in the show ring"
+    titleEn = "Bilquis Goddess Diabhal — Italian Champion"
+    didascaliaEn = "Bilquis Goddess Diabhal — Italian Champion ENCI, 4th at the World Dog Show 2024"
+    altDe = "JCH CH Bilquis Goddess Diabhal, Italienische Championin Staffordshire Bull Terrier, im Ausstellungsring aufgestellt"
+    titleDe = "Bilquis Goddess Diabhal — Italienische Championin"
+    didascaliaDe = "Bilquis Goddess Diabhal — Italienische Championin ENCI, 4. bei der World Dog Show 2024"
 
   [[params.hero.foto]]
     file = "/images/lothar-matthaus-esposizione.avif"
@@ -86,6 +92,12 @@ enableRobotsTXT = true
     alt = "JCH Lothar Matthäus del Piccolo Diavolo, Staffordshire Bull Terrier tigrato in posa da esposizione"
     title = "Lothar Matthäus del Piccolo Diavolo — Giovane Campione Italiano"
     didascalia = "Lothar Matthäus — Giovane Campione Italiano, figlio di Bullbrothers Hott as Hell"
+    altEn = "JCH Lothar Matthäus del Piccolo Diavolo, brindle Staffordshire Bull Terrier stacked for the show ring"
+    titleEn = "Lothar Matthäus del Piccolo Diavolo — Italian Junior Champion"
+    didascaliaEn = "Lothar Matthäus — Italian Junior Champion, son of Bullbrothers Hott as Hell"
+    altDe = "JCH Lothar Matthäus del Piccolo Diavolo, gestromter Staffordshire Bull Terrier in Ausstellungspose"
+    titleDe = "Lothar Matthäus del Piccolo Diavolo — Italienischer Jugendchampion"
+    didascaliaDe = "Lothar Matthäus — Italienischer Jugendchampion, Sohn von Bullbrothers Hott as Hell"
 
   [[params.hero.foto]]
     file = "/images/divine-cucciola-tre-mesi.avif"
@@ -94,3 +106,9 @@ enableRobotsTXT = true
     alt = "Divine del Piccolo Diavolo, cucciola di Staffordshire Bull Terrier nera di tre mesi in posa"
     title = "Divine del Piccolo Diavolo a tre mesi"
     didascalia = "Divine del Piccolo Diavolo — cucciola nera a tre mesi, allevata in famiglia"
+    altEn = "Divine del Piccolo Diavolo, black Staffordshire Bull Terrier puppy at three months old"
+    titleEn = "Divine del Piccolo Diavolo at three months"
+    didascaliaEn = "Divine del Piccolo Diavolo — black puppy at three months, raised in our home"
+    altDe = "Divine del Piccolo Diavolo, schwarze Staffordshire Bull Terrier Welpin mit drei Monaten"
+    titleDe = "Divine del Piccolo Diavolo mit drei Monaten"
+    didascaliaDe = "Divine del Piccolo Diavolo — schwarze Welpin mit drei Monaten, in der Familie aufgezogen"
