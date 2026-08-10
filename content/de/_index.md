@@ -19,9 +19,7 @@ slug: ""
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
-  <div class="hero-image">
-  <img src="/images/femmina-bilquis-hero.avif" alt="Bilquis Goddess Diabhal, Italienische Championin Staffordshire Bull Terrier auf einer Hundeausstellung" width="301" height="396" fetchpriority="high" decoding="sync">
-  </div>
+  <!--HEROFOTO-->
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">4,9 bei 37 Bewertungen</span>

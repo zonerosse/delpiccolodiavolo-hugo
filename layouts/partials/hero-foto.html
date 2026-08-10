@@ -44,15 +44,14 @@
 {{- if $foto -}}
 <div class="hero-image">
   <img src="{{ $foto.file }}"
-       alt="{{ $foto.alt }}"
-       {{ with $foto.title }}title="{{ . }}"{{ end }}
+       {{ $lang := .Site.Language.Lang }}
+       alt="{{ if eq $lang "en" }}{{ $foto.altEn | default $foto.alt }}{{ else if eq $lang "de" }}{{ $foto.altDe | default $foto.alt }}{{ else }}{{ $foto.alt }}{{ end }}"
+       {{ $t := $foto.title }}{{ if eq $lang "en" }}{{ $t = $foto.titleEn | default $foto.title }}{{ end }}{{ if eq $lang "de" }}{{ $t = $foto.titleDe | default $foto.title }}{{ end }}{{ with $t }}title="{{ . }}"{{ end }}
        width="{{ $foto.w | default 301 }}"
        height="{{ $foto.h | default 396 }}"
        fetchpriority="high" decoding="sync">
 </div>
-{{- with $foto.didascalia }}
-<p class="hero-didascalia" style="margin:.6rem 0 0;font-size:.85rem;color:#7a6a58;line-height:1.5;text-align:center">{{ . }}</p>
-{{- end }}
+
 {{- else -}}
 <div class="hero-image">
   <img src="/images/femmina-bilquis-hero.avif"
