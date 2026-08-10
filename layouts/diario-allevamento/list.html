@@ -11,15 +11,13 @@
     <div class="diario-grid">
       {{ range .Pages.ByDate.Reverse }}{{ $p := . }}
       <article class="diario-card">
+        <time class="diario-data-top" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format ":date_long" }}</time>
         {{ with .Params.image }}
         <a href="{{ $p.RelPermalink }}" class="diario-card-image">
           <img src="{{ . }}" alt="{{ $p.Title }}" width="400" height="300" loading="lazy" decoding="async" style="width:100%;height:auto">
         </a>
         {{ end }}
         <div class="diario-card-content">
-          <time class="diario-date" datetime="{{ .Date.Format "2006-01-02" }}">
-            {{ .Date.Format "2 January 2006" }}
-          </time>
           <h2 class="diario-card-title">
             <a href="{{ .Permalink }}">{{ .Title }}</a>
           </h2>
