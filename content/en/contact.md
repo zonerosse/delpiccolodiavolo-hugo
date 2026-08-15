@@ -76,7 +76,7 @@ custom_content: |
   <p>A strategic location that makes us easily reachable from all of Northern Italy: 25 minutes from Ferrara, 1 hour from Bologna, Padua and Ravenna.</p>
   <p>The kennel has private parking and large green spaces where our Staffies grow up freely.</p>
   </div>
-  <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo" class="story-img" width="350" height="354" loading="lazy" decoding="async">
+  <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo — Staffordshire Bull Terrier" class="story-img" width="350" height="354" loading="lazy" decoding="async">
   </div>
   
   <div class="story-block reverse">

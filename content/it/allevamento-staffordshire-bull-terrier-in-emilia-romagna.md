@@ -90,7 +90,7 @@ custom_content: |
   <p>Una posizione strategica che ci rende facilmente raggiungibili da tutto il Nord Italia: a 25 minuti da Ferrara, 1 ora da Bologna, Padova e Ravenna.</p>
   <p>L'allevamento dispone di parcheggio privato e ampi spazi verdi dove i nostri Staffy crescono in libertà.</p>
   </div>
-  <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo" class="story-img" width="350" height="354" loading="lazy" decoding="async">
+  <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo — Staffordshire Bull Terrier" class="story-img" width="350" height="354" loading="lazy" decoding="async">
   </div>
 
   <div class="story-block reverse">

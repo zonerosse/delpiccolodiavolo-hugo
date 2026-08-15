@@ -107,7 +107,7 @@ custom_content: |
   <p>We work with the best English (Elitebull) and Irish (Lackyle) bloodlines. Every pairing is designed to improve the breed, respecting the standard and preserving the typicality that makes the Staffordshire Bull Terrier unique.</p>
   </div>
   <div class="zigzag-image">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis Del Piccolo Diavolo" loading="lazy" decoding="async" width="400" height="300">
+  <img src="/images/femmina-bilquis.webp" alt="Bilquis Del Piccolo Diavolo — Staffordshire Bull Terrier" loading="lazy" decoding="async" width="400" height="300">
   </div>
   </div>
   
@@ -117,7 +117,7 @@ custom_content: |
   <p>From day one, puppies live in the house with us. They learn to recognize household sounds, different people, other animals. This early socialization is essential to develop a confident and calm temperament.</p>
   </div>
   <div class="zigzag-image">
-  <img src="/images/foto1.avif" alt="Socialized puppies" loading="lazy" decoding="async" width="400" height="300">
+  <img src="/images/foto1.avif" alt="Socialized Staffordshire Bull Terrier puppies at home" loading="lazy" decoding="async" width="400" height="300">
   </div>
   </div>
   

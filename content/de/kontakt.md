@@ -76,7 +76,7 @@ custom_content: |
   <p>Eine strategische Lage, die uns von ganz Norditalien aus leicht erreichbar macht: 25 Minuten von Ferrara, 1 Stunde von Bologna, Padua und Ravenna.</p>
   <p>Die Zucht verfügt über einen privaten Parkplatz und große Grünflächen, wo unsere Staffys in Freiheit aufwachsen.</p>
   </div>
-  <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo" class="story-img" width="350" height="354" loading="lazy" decoding="async">
+  <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo — Staffordshire Bull Terrier" class="story-img" width="350" height="354" loading="lazy" decoding="async">
   </div>
   
   <div class="story-block reverse">
