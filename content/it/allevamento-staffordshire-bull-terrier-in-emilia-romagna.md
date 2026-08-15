@@ -1,5 +1,6 @@
 ---
 title: "Allevamento Staffordshire Bull Terrier in Emilia-Romagna"
+titleSeo: "Allevamento Staffy in Emilia-Romagna: Ostellato (FE)"
 translationKey: "contatti"
 description: "Allevamento Staffordshire Bull Terrier a Ostellato (Ferrara), Emilia-Romagna. Visite su appuntamento, WhatsApp attivo."
 slug: "allevamento-staffordshire-bull-terrier-in-emilia-romagna"
@@ -12,7 +13,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Ostellato, Ferrara</span>
-  <h1 class="hero-title">Allevamento<br><em>Staffordshire</em><br>Bull Terrier<br>in Emilia-Romagna</h1>
+  <h1 class="hero-title">Allevamento <br><em>Staffordshire</em> <br>Bull Terrier <br>in Emilia-Romagna</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo – Dal 2013</p>
   <p class="hero-description">Selezioniamo Staffordshire Bull Terrier da linee inglesi e irlandesi nel cuore dell'Emilia-Romagna, a Ostellato (FE). Raggiungibile da tutto il Nord e Centro Italia.</p>
   <div class="hero-actions">

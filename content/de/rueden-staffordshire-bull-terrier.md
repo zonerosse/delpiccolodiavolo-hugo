@@ -12,7 +12,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Ausgewählte Deckrüden</span>
-  <h1 class="hero-title">Rüden<br><em>Staffordshire</em><br>Bull Terrier</h1>
+  <h1 class="hero-title">Rüden <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">DNA getestet, frei von L2HGA und HC</p>
   <p class="hero-description">Unsere Deckrüden werden nach Gesundheit, Charakter und Rassetypizität ausgewählt. Alle genetisch getestet und rassestandard-konform.</p>
   <div class="hero-actions">

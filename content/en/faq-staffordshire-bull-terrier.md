@@ -12,7 +12,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">20 Questions & Answers</span>
-  <h1 class="hero-title">Frequently<br><em>Asked</em><br>Questions</h1>
+  <h1 class="hero-title">Frequently <br><em>Asked</em> <br>Questions</h1>
   <p class="hero-subtitle">Everything you want to know about the Staffordshire Bull Terrier</p>
   </div>
   </section>

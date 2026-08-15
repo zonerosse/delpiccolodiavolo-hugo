@@ -25,7 +25,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Del Piccolo Diavolo Kennel</span>
-  <h1 class="hero-title"><em>Staffordshire</em><br>Bull Terrier<br>Puppies</h1>
+  <h1 class="hero-title"><em>Staffordshire</em> <br>Bull Terrier <br>Puppies</h1>
   <p class="hero-subtitle">Elitebull and Lackyle Lines - Since 2013</p>
   <p class="hero-description">Our puppies are born and raised in the family, surrounded by love and positive stimuli. We select for health, character and breed type, following the best English and Irish bloodlines.</p>
   <div class="hero-actions">

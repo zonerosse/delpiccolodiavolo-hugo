@@ -12,7 +12,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">DSGVO-Informationen</span>
-  <h1 class="hero-title">Datenschutz<br><em>Erklärung</em></h1>
+  <h1 class="hero-title">Datenschutz <br><em>Erklärung</em></h1>
   <p class="hero-subtitle">Verarbeitung personenbezogener Daten</p>
   </div>
   </section>

@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier: Carattere e Temperamento"
+titleSeo: "Carattere dello Staffordshire Bull Terrier: la verità"
 articolo: true
 image: "/images/blog/famiglia-1.jpg"
 description: "Scopri il vero carattere dello Staffordshire Bull Terrier: affettuoso, leale, paziente con i bambini. Guida completa dal nostro allevamento."

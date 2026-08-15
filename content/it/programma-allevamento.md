@@ -25,7 +25,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Programma Allevamento</span>
-  <h1 class="hero-title">Programma di <em>allevamento</em><br>Staffordshire Bull Terrier</h1>
+  <h1 class="hero-title">Programma di <em>allevamento</em> <br>Staffordshire Bull Terrier</h1>
   <p class="hero-subtitle">Selezione, salute e tipicità - Dal 2013</p>
   <p class="hero-description">Accoppiamenti pianificati secondo criteri di salute, carattere e tipicità. In questa pagina trovi il programma di selezione e lo storico delle cucciolate.</p>
   <div class="hero-actions">

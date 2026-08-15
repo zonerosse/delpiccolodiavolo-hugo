@@ -12,7 +12,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">⭐ 4.9/5 on Google</span>
-  <h1 class="hero-title">Our<br><em>Reviews</em></h1>
+  <h1 class="hero-title">Our <br><em>Reviews</em></h1>
   <p class="hero-subtitle">36 verified testimonials</p>
   <p class="hero-description">Real experiences from owners of our Staffordshire Bull Terriers: professionalism, health and balanced character guaranteed.</p>
   <div class="hero-actions">

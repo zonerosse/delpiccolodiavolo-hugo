@@ -25,7 +25,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Zucht Del Piccolo Diavolo</span>
-  <h1 class="hero-title">Welpen<br><em>Staffordshire</em><br>Bull Terrier</h1>
+  <h1 class="hero-title">Welpen <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">Elitebull und Lackyle Linien - Seit 2013</p>
   <p class="hero-description">Unsere Welpen werden in der Familie geboren und aufgezogen, umgeben von Liebe und positiven Reizen. Wir selektieren für Gesundheit, Charakter und Typizität nach den besten englischen und irischen Blutlinien.</p>
   <div class="hero-actions">

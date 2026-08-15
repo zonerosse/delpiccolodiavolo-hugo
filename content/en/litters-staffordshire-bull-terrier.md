@@ -22,7 +22,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Litter Program</span>
-  <h1 class="hero-title"><em>Staffordshire</em><br>Bull Terrier<br>Litters</h1>
+  <h1 class="hero-title"><em>Staffordshire</em> <br>Bull Terrier <br>Litters</h1>
   <p class="hero-subtitle">Selection, health and breed type - Since 2013</p>
   <p class="hero-description">Planned pairings with tested breeding dogs, ENCI pedigree and selected lines from UK and Ireland. Updates on availability and reservations.</p>
   <div class="hero-actions">

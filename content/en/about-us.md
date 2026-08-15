@@ -22,7 +22,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Since 2013</span>
-  <h1 class="hero-title">About<br><em>Us</em></h1>
+  <h1 class="hero-title">About <br><em>Us</em></h1>
   <p class="hero-subtitle">Selection, ethics and passion</p>
   <p class="hero-description">Family kennel in Ostellato (FE), Italy. Healthy, balanced and typical Staffordshire Bull Terriers with Elitebull and Lackyle bloodlines.</p>
   <div class="hero-actions">

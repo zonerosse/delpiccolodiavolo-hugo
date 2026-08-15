@@ -12,7 +12,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">⭐ 4.9/5 su Google</span>
-  <h1 class="hero-title">Recensioni<br><em>Allevamento Staffordshire</em><br>Bull Terrier</h1>
+  <h1 class="hero-title">Recensioni <br><em>Allevamento Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">37 testimonianze verificate</p>
   <p class="hero-description">Le esperienze reali dei proprietari dei nostri Staffordshire Bull Terrier: professionalità, salute e carattere equilibrato garantiti.</p>
   <div class="hero-actions">

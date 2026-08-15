@@ -12,7 +12,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Resources & Guides</span>
-  <h1 class="hero-title">Our<br><em>Blog</em></h1>
+  <h1 class="hero-title">Our <br><em>Blog</em></h1>
   <p class="hero-subtitle">Articles about puppies, health, standard and cohabitation</p>
   </div>
   </section>

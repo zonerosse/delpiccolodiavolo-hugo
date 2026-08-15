@@ -12,7 +12,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Fattrici Selezionate</span>
-  <h1 class="hero-title">Femmine<br><em>Staffordshire</em><br>Bull Terrier</h1>
+  <h1 class="hero-title">Femmine <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">DNA tested, esenti da L2HGA e HC</p>
   <p class="hero-description">Le nostre femmine riproduttrici sono selezionate per salute, carattere e tipicità. Tutte testate geneticamente e conformi allo standard di razza.</p>
   <div class="hero-actions">

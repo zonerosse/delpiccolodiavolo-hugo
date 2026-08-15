@@ -15,7 +15,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Salute e Selezione</span>
-  <h1 class="hero-title">BOAS nello<br><em>Staffordshire</em><br>Bull Terrier</h1>
+  <h1 class="hero-title">BOAS nello <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">Perché la respirazione è fondamentale</p>
   <p class="hero-description">La sindrome brachicefalica ostruttiva è un problema crescente in molte razze. Lo Staffy non dovrebbe esserne colpito, ma la selezione sbagliata sta cambiando le cose. Ecco cosa devi sapere.</p>
   <div class="hero-actions">

@@ -12,7 +12,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Ostellato, Ferrara - Italy</span>
-  <h1 class="hero-title">Come<br><em>Visit Us</em></h1>
+  <h1 class="hero-title">Come <br><em>Visit Us</em></h1>
   <p class="hero-subtitle">In the heart of Northern Italy</p>
   <p class="hero-description">Strategic location easily reachable from Emilia Romagna, Veneto, Lombardy and Tuscany. Visits by appointment only.</p>
   <div class="hero-actions">
