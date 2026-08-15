@@ -177,6 +177,7 @@ custom_content: |
   <div class="related">
   <h3>Articoli correlati</h3>
   <ul>
+  <li><a href="/staffordshire-bull-terrier-carattere/" title="Temperamento e selezione">Da dove viene questo carattere: la selezione della razza</a></li>
   <li><a href="/famiglia-bambini-convivenza/" title="Bambini">Staffy e Bambini: Convivenza Sicura</a></li>
   <li><a href="/famiglia-convivenza-altri-animali/" title="Altri animali">Convivenza con Altri Animali</a></li>
   <li><a href="/famiglia-anziani-rispetto-ritmi/" title="Anziani">Staffy e Anziani: Guida Completa</a></li>
