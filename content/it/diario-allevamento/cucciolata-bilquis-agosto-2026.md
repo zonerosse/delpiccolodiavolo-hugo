@@ -7,7 +7,8 @@ slug: "cucciolata-bilquis-agosto-2026"
 date: 2026-08-01
 image: "/images/cuccioli-bilquis-nati-1.webp"
 image_alt: "Cuccioli di Staffordshire Bull Terrier neri della cucciolata di Bilquis"
-annuncio: "🎉 Sono nati! 8 cuccioli — tutti prenotati"
+annuncio: "Cucciolata di agosto 2026: 8 cuccioli neri"
+stato: "completa"
 ---
 
 <div style="background:#c9a227;color:#1a1a1a;padding:1rem 1.5rem;border-radius:8px;margin-bottom:2rem;text-align:center">

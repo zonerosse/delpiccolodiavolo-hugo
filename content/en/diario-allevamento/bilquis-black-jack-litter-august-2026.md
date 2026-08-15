@@ -7,7 +7,8 @@ slug: "bilquis-black-jack-litter-august-2026"
 date: 2026-08-01
 image: "/images/cuccioli-bilquis-nati-1.webp"
 image_alt: "Newborn black Staffordshire Bull Terrier puppies from Bilquis' litter"
-annuncio: "🎉 Born! 8 puppies — all reserved"
+annuncio: "August 2026 litter: 8 black puppies"
+stato: "completa"
 ---
 
 <div style="background:#c9a227;color:#1a1a1a;padding:1rem 1.5rem;border-radius:8px;margin-bottom:2rem;text-align:center">

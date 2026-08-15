@@ -6,16 +6,19 @@
 {{- $listaUrl := "/lista-attesa/" -}}
 {{- $listaTit := "La prossima cucciolata è in programma." -}}
 {{- $listaSub := "Senza impegno né acconto." -}}
+{{- $listaTitCompleta := "Questa cucciolata è già stata affidata. La prossima è in programma." -}}
 {{- $listaCta := "Lista d'attesa" -}}
 {{- if eq $lang "en" -}}
   {{- $listaUrl = "/en/waiting-list/" -}}
   {{- $listaTit = "The next litter is already planned." -}}
+  {{- $listaTitCompleta = "This litter has already been placed. The next one is already planned." -}}
   {{- $listaSub = "No commitment, no deposit." -}}
   {{- $listaCta = "Waiting list" -}}
 {{- end -}}
 {{- if eq $lang "de" -}}
   {{- $listaUrl = "/de/warteliste/" -}}
   {{- $listaTit = "Der nächste Wurf ist bereits geplant." -}}
+  {{- $listaTitCompleta = "Dieser Wurf ist bereits vergeben. Der nächste ist schon geplant." -}}
   {{- $listaSub = "Ohne Verpflichtung, ohne Anzahlung." -}}
   {{- $listaCta = "Warteliste" -}}
 {{- end -}}
@@ -37,7 +40,7 @@
 
   <div style="max-width:900px;margin:1rem auto 0;background:#fdfaf4;border:1px solid #e6dcc9;border-left:4px solid #c9a227;border-radius:10px;padding:1rem 1.2rem;display:flex;flex-wrap:wrap;align-items:center;gap:.9rem;justify-content:space-between">
     <div style="flex:1;min-width:230px">
-      <p style="margin:0 0 .2rem;color:#5c4a3a;font-weight:700;font-size:1.02rem;line-height:1.4">{{ $listaTit }}</p>
+      <p style="margin:0 0 .2rem;color:#5c4a3a;font-weight:700;font-size:1.02rem;line-height:1.4">{{ if eq .Params.stato "completa" }}{{ $listaTitCompleta }}{{ else }}{{ $listaTit }}{{ end }}</p>
       <p style="margin:0;color:#7a6a58;font-size:.9rem;line-height:1.5">{{ $listaSub }}</p>
     </div>
     <a href="{{ $listaUrl }}" style="display:inline-block;border:1.5px solid #8b5a2b;color:#8b5a2b;padding:.6rem 1.1rem;border-radius:8px;font-weight:700;text-decoration:none;font-size:.94rem;white-space:nowrap">{{ $listaCta }}</a>

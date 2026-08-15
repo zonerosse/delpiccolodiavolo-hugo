@@ -7,7 +7,8 @@ slug: "wurf-bilquis-black-jack-august-2026"
 date: 2026-08-01
 image: "/images/cuccioli-bilquis-nati-1.webp"
 image_alt: "Neugeborene schwarze Staffordshire Bull Terrier Welpen aus dem Wurf von Bilquis"
-annuncio: "🎉 Geboren! 8 Welpen — alle reserviert"
+annuncio: "Wurf August 2026: 8 schwarze Welpen"
+stato: "completa"
 ---
 
 <div style="background:#c9a227;color:#1a1a1a;padding:1rem 1.5rem;border-radius:8px;margin-bottom:2rem;text-align:center">
