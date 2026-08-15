@@ -1,7 +1,7 @@
 ---
 title: "Male Staffordshire Bull Terriers"
 translationKey: "maschi"
-description: "Our male Staffordshire Bull Terriers: Lothar (Junior Italian Champion), Braveheart and Papillon. L2HGA and HC certified genetic testing."
+description: "Our male Staffordshire Bull Terriers: Lothar (Slovenian and Italian Junior Champion), Braveheart and Papillon. L2HGA and HC certified genetic testing."
 slug: "males-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">
@@ -68,18 +68,20 @@ custom_content: |
   <!-- LOTHAR -->
   <article class="male-card male-featured">
   <div class="male-header">
-  <span class="male-badge">🏆 Junior Italian Champion</span>
-  <h3 class="male-name">JCH. Lothar Matthäus del Piccolo Diavolo</h3>
+  <span class="male-badge">🏆 Slovenian Champion · Italian Junior Champion</span>
+  <h3 class="male-name">CH. SLO · J.CH. ITA Lothar Matthäus del Piccolo Diavolo</h3>
+  <p style="margin:.3rem 0 0;color:#7a6a58;font-size:.95rem">Known as <strong>Tyson</strong></p>
   </div>
   <div class="male-content">
   <div class="male-image">
-  <img src="/images/Lothar.webp" alt="JCH Lothar Matthäus del Piccolo Diavolo" width="350" height="467" loading="lazy" decoding="async">
+  <img src="/images/lothar-matthaus-tyson-locandina.avif" alt="CH SLO J.CH ITA Lothar Matthäus del Piccolo Diavolo, known as Tyson, brindle Staffordshire Bull Terrier male bred by Del Piccolo Diavolo" width="900" height="1228" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
-  <p><strong>Genetic Tests:</strong> L2HGA & HC clear by DNA</p>
-  <p><strong>PHPV:</strong> Unaffected</p>
-  <p><strong>Dentition:</strong> Completely scissor bite</p>
-  <p><strong>Sire:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford" style="color:#8b5a2b;font-weight:700;text-decoration:underline;text-underline-offset:3px">Bullbrothers Hott as Hell &#8599;</a> &laquo;HEAT&raquo; &mdash; Multi International Champion, Crufts qualified, TheReds Stafford kennel</p>
+  <p><strong>Genetic tests:</strong> L2HGA clear · HC clear · HSF4 · OCD clear</p>
+  <p><strong>Hips and elbows:</strong> HD B · ED 0</p>
+  <p><strong>PHPV:</strong> unaffected · <strong>DNA</strong> stored</p>
+  <p><strong>Dentition:</strong> complete, scissor bite</p>
+  <p><strong>Sire:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford" style="color:#8b5a2b;font-weight:700;text-decoration:underline;text-underline-offset:3px">Bullbrothers Hott as Hell &#8599;</a> «HEAT» &mdash; Multi International Champion, Crufts qualified, TheReds Stafford kennel</p>
   <p><strong>Dam:</strong> Skilful-Dogs Nora</p>
   <p><strong>Owner:</strong> Sergio Patrucco</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4554911" target="_blank" rel="noopener" title="View Lothar pedigree on SBTPedigree">View Full Pedigree →</a>

@@ -226,6 +226,10 @@ custom_content: |
   <div class="image-center">
   <img src="/images/lothar-best-young.webp" alt="Lothar Matthaus, Giovane Campione Italiano e Campione Sloveno Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="380" style="border-radius:12px">
   </div>
+  <div class="image-center" style="margin-top:1rem">
+  <img src="/images/lothar-matthaus-tyson-locandina.avif" alt="CH SLO J.CH ITA Lothar Matthäus del Piccolo Diavolo detto Tyson, Staffordshire Bull Terrier tigrato allevato da Del Piccolo Diavolo" loading="lazy" decoding="async" width="900" height="1228" style="border-radius:12px;max-width:340px;width:100%">
+  <p style="margin:.5rem 0 0;font-size:.85rem;color:#7a6a58;text-align:center">Locandina di Lothar «Tyson» — CH SLO, J.CH ITA</p>
+  </div>
   <div>
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
   <h3>Giovane Campione Italiano ENCI + Campione Sloveno 🇸🇮</h3>
