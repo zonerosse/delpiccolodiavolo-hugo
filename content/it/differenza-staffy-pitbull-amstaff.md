@@ -3,7 +3,7 @@ title: "Differenza tra Staffordshire Bull Terrier, Pitbull e Amstaff"
 translationKey: "pitbull-amstaff"
 articolo: true
 image: "/images/blog/hero-default.webp"
-description: "Differenze reali tra Staffordshire Bull Terrier, Pitbull e American Staffordshire: taglia, standard e normativa."
+description: "Non sono lo stesso cane: 11-17 kg contro 25-30, due standard FCI riconosciuti e uno no. Come distinguerli davvero, spiegato da un allevatore."
 slug: "differenza-staffy-pitbull-amstaff"
 custom_content: |
   <section class="hero">
@@ -220,6 +220,11 @@ custom_content: |
   </div>
   
   <h2>Quale Razza Scegliere?</h2>
+  
+  <p style="background:#faf7f2;border-left:4px solid #c9a227;padding:1rem 1.2rem;margin-bottom:1.2rem">
+  Se la scelta è ristretta a <strong>Staffy o Amstaff</strong>, abbiamo una guida dedicata a quel confronto:
+  <a href="/differenza-staffy-amstaff/" title="Staffy o Amstaff: quale scegliere">quale delle due razze fa per te</a>,
+  con le domande concrete da farsi su spazio, esperienza e vita quotidiana.</p>
   
   <h3>Scegli lo Staffordshire Bull Terrier se:</h3>
   <ul>
