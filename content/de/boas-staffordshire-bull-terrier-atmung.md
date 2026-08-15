@@ -3,7 +3,7 @@ title: "BOAS beim Staffordshire Bull Terrier: Warum die Atmung entscheidend ist"
 titleSeo: "BOAS beim Staffordshire Bull Terrier: die Atmung"
 translationKey: "boas"
 articolo: true
-image: "/images/femmina-bilquis-hero.avif"
+image: "/images/blog/boas-respirazione.webp"
 description: "BOAS beim Staffordshire Bull Terrier: was es ist, wie man es erkennt und warum die Atmung ein Zuchtkriterium ist."
 slug: "boas-staffordshire-bull-terrier-atmung"
 custom_content: |
