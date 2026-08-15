@@ -99,3 +99,6 @@ letter-spacing:.03em;padding:.55rem 1.5rem;text-transform:uppercase}
 
 /* === BTN-LIGHT (pulsanti su sezioni scure) === */
 .btn-light{background:#fff;color:#5c4a3a}
+
+/* Testo per lettori di schermo, invisibile a video */
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}

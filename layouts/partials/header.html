@@ -28,13 +28,13 @@
 {{ end }}
 </div>
 <a href="https://wa.me/{{ .Site.Params.whatsapp }}?text={{ T "whatsapp_text" | urlquery }}" class="nav-cta" title="WhatsApp" style="min-height:44px;padding:0.75rem 1.5rem;display:inline-flex;align-items:center;justify-content:center" aria-label="Contattaci su WhatsApp dal menu di navigazione">WhatsApp</a>
-<label for="menuToggle" class="nav-toggle" aria-label="Menu"><span></span><span></span><span></span></label>
+<label for="menuToggle" class="nav-toggle"><span></span><span></span><span></span><span class="sr-only">Menu</span></label>
 </div>
 </nav>
 
-<input type="checkbox" id="menuToggle" class="menu-toggle">
+<input type="checkbox" id="menuToggle" class="menu-toggle" aria-label="Menu">
 <div class="mobile-menu">
-<label for="menuToggle" class="mobile-menu-close" aria-label="{{ T "chiudi" }}">×</label>
+<label for="menuToggle" class="mobile-menu-close"><span aria-hidden="true">×</span><span class="sr-only">{{ T "chiudi" }}</span></label>
 <a href="{{ "/" | relLangURL }}" title="{{ T "home" }}">Home</a>
 <div class="mobile-dropdown">
 <span class="mobile-dropdown-title">{{ T "cuccioli" }}</span>
