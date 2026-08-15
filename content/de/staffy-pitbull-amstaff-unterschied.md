@@ -4,7 +4,7 @@ titleSeo: "Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich"
 translationKey: "pitbull-amstaff"
 articolo: true
 image: "/images/blog/hero-default.webp"
-description: "Echte Unterschiede zwischen Staffordshire Bull Terrier, Pitbull und American Staffordshire: Größe, Standard und Gesetz."
+description: "Nicht derselbe Hund: 11-17 kg gegen 25-30, zwei FCI-anerkannte Standards und einer nicht. Wie man sie wirklich unterscheidet, von einem Züchter erklärt."
 slug: "staffy-pitbull-amstaff-unterschied"
 custom_content: |
   <section class="hero">
