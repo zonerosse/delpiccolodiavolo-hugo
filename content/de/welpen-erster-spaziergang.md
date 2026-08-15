@@ -1,6 +1,8 @@
 ---
 title: "Welpen: Erster Spaziergang"
 translationKey: "passeggiata"
+articolo: true
+image: "/images/blog/cuccioli-5.webp"
 description: "Erster Leinenspaziergang für Ihren Staffordshire Bull Terrier Welpen: Ausrüstung, Timing, positive Einführung und gute Gewohnheiten aufbauen."
 slug: "welpen-erster-spaziergang"
 custom_content: |

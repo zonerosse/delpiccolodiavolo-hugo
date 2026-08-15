@@ -1,5 +1,6 @@
 ---
 title: "Differenza tra Staffy e Amstaff: Guida Completa"
+articolo: true
 description: "Scopri le differenze tra Staffordshire Bull Terrier (Staffy) e American Staffordshire Terrier (Amstaff): taglia, carattere, origini e quale scegliere."
 slug: "differenza-staffy-amstaff"
 date: 2026-01-18

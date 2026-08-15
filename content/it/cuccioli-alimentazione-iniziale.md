@@ -1,6 +1,8 @@
 ---
 title: "Cuccioli: Alimentazione iniziale"
 translationKey: "alimentazione"
+articolo: true
+image: "/images/blog/hero-default.webp"
 description: "Alimentazione del cucciolo Staffordshire Bull Terrier: frequenza dei pasti, transizioni e qualità del cibo."
 slug: "cuccioli-alimentazione-iniziale"
 custom_content: |

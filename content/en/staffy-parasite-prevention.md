@@ -1,6 +1,8 @@
 ---
 title: "Parasite Prevention for Staffordshire Bull Terrier"
 translationKey: "parassiti"
+articolo: true
+image: "/images/blog/salute-1.webp"
 description: "Complete guide to parasite prevention for Staffy: fleas, ticks, worms, heartworm. Products, schedules and natural alternatives."
 slug: "staffy-parasite-prevention"
 custom_content: |

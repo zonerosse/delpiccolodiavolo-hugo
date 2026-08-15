@@ -1,6 +1,8 @@
 ---
 title: "Staffordshire Bull Terrier Bloodlines Guide"
 translationKey: "linee-sangue"
+articolo: true
+image: "/images/blog/standard-1.webp"
 description: "Complete guide to Staffy bloodlines: English and Irish lines, Elitebull, Lackyle, how to evaluate pedigree and choose the right bloodline."
 slug: "staffy-bloodlines-guide"
 custom_content: |

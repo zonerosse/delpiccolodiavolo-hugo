@@ -1,6 +1,8 @@
 ---
 title: "Puppies: Managing Alone Time"
 translationKey: "solitudine"
+articolo: true
+image: "/images/blog/hero-default.webp"
 description: "Teaching your Staffordshire Bull Terrier puppy to stay alone: preventing separation anxiety and bad habits."
 slug: "puppy-alone-time"
 custom_content: |

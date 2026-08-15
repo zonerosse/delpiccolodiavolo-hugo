@@ -1,6 +1,8 @@
 ---
 title: "Parasitenvorbeugung für Staffordshire Bull Terrier"
 translationKey: "parassiti"
+articolo: true
+image: "/images/blog/salute-1.webp"
 description: "Vollständiger Leitfaden zur Parasitenvorbeugung für Staffy: Flöhe, Zecken, Würmer, Herzwurm. Produkte und Zeitpläne."
 slug: "staffy-parasitenvorbeugung"
 custom_content: |

@@ -1,6 +1,8 @@
 ---
 title: "Genetic Testing L2-HGA and HC for Staffordshire Bull Terrier"
 translationKey: "test-genetici"
+articolo: true
+image: "/images/blog/salute-1.webp"
 description: "Complete guide to L2-HGA and HC genetic tests for Staffy: what they are, why they are essential, how to interpret results and choose a responsible breeder."
 slug: "staffy-genetic-testing-l2hga-hc"
 custom_content: |

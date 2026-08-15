@@ -1,6 +1,8 @@
 ---
 title: "How to Choose Staffy Bloodlines"
 translationKey: "scelta-linee"
+articolo: true
+image: "/images/blog/standard-2.webp"
 description: "Practical guide to choosing the right Staffordshire Bull Terrier bloodline for your needs: show, companion, temperament considerations."
 slug: "choosing-bloodlines"
 custom_content: |
