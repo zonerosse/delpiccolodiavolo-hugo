@@ -58,9 +58,21 @@ enableRobotsTXT = true
     [markup.goldmark.renderer]
       unsafe = true
 
+# Formato aggiuntivo: versione Markdown delle pagine, per gli agenti AI
+[mediaTypes]
+  [mediaTypes."text/markdown"]
+    suffixes = ["md"]
+
+[outputFormats]
+  [outputFormats.MARKDOWN]
+    mediaType = "text/markdown"
+    isPlainText = true
+    isHTML = false
+    baseName = "index"
+
 [outputs]
-  home = ["HTML", "sitemap"]
-  page = ["HTML"]
+  home = ["HTML", "sitemap", "MARKDOWN"]
+  page = ["HTML", "MARKDOWN"]
 
 # ---------------------------------------------------------------
 # FOTO HERO A ROTAZIONE
