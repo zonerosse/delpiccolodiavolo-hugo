@@ -1,0 +1,116 @@
+# File immagine e video non usati da nessuna pagina
+
+Aggiornato dopo la conversione dei PNG pesanti in AVIF.
+
+**106 file per 7 MB.** Sono presenti in `static/` ma nessuna pagina li richiama.
+Non sono stati cancellati: potrebbero servirti come archivio. Se vuoi alleggerire
+il repository, questi sono i candidati, dal più pesante.
+
+| Peso | File |
+|---|---|
+| 1034 KB | `/images/cuccioli-orizzontale.mp4.mp4` |
+| 269 KB | `/images/img-2653.avif` |
+| 229 KB | `/images/nora.avif` |
+| 203 KB | `/images/img-3461.avif` |
+| 196 KB | `/images/tikus-bologna.webp` |
+| 184 KB | `/images/img-5490.avif` |
+| 184 KB | `/images/cuccioli-staffy.webp` |
+| 174 KB | `/images/img-5453.avif` |
+| 170 KB | `/images/cuccioli-staffy.avif` |
+| 163 KB | `/images/img-5454.avif` |
+| 143 KB | `/images/IMG_5712.png` |
+| 133 KB | `/images/intera-cucciolata-nell'erba.webp` |
+| 131 KB | `/images/img-7021.avif` |
+| 129 KB | `/images/img-5534.avif` |
+| 120 KB | `/images/1ea49f2a-1bfd-4789-af0b-0e45d2838095.avif` |
+| 118 KB | `/images/IMG_5711.png` |
+| 114 KB | `/images/IMG_5710.png` |
+| 109 KB | `/images/cucciolo-cucciolata-uno.jpg` |
+| 105 KB | `/images/tikus-bologna-primo.jpeg` |
+| 101 KB | `/images/cucciola-rossa.jpg` |
+| 98 KB | `/images/maschio-tigrato.jpg` |
+| 97 KB | `/images/img-1707.avif` |
+| 95 KB | `/images/cucciolo-al-sole.jpg` |
+| 93 KB | `/images/billy-e-jack2.jpg` |
+| 86 KB | `/images/img-4175.avif` |
+| 83 KB | `/images/intera-cucciolata-nell'erba.avif` |
+| 82 KB | `/images/IMG_6746.jpeg` |
+| 79 KB | `/images/img-3621.avif` |
+| 76 KB | `/images/img-3498.avif` |
+| 70 KB | `/images/img-1706.avif` |
+| 66 KB | `/images/heat.jpg` |
+| 63 KB | `/images/maschio-placeholder.webp` |
+| 62 KB | `/images/img-4352.avif` |
+| 61 KB | `/images/preview.webp` |
+| 60 KB | `/images/cucciolo-cucciolata-uno.webp` |
+| 57 KB | `/images/img-2716.avif` |
+| 57 KB | `/images/maschio-tigrato.webp` |
+| 55 KB | `/images/tikus-primo.webp` |
+| 55 KB | `/images/tikus-bologna-primo.webp` |
+| 53 KB | `/images/hero-best-young.webp` |
+| 53 KB | `/images/img-3296.avif` |
+| 52 KB | `/images/billy-e-Jack1.jpg` |
+| 51 KB | `/images/cuccioli-staffy-seduti.avif` |
+| 51 KB | `/images/cucciola-rossa.webp` |
+| 50 KB | `/images/cuccioli-staffy-seduti.webp` |
+| 49 KB | `/images/img-5524.avif` |
+| 47 KB | `/images/tikus1.jpg` |
+| 46 KB | `/images/map-ostellato-static.jpg` |
+| 45 KB | `/images/img-5451.avif` |
+| 42 KB | `/images/img-5464.avif` |
+| 42 KB | `/images/img-5612.avif` |
+| 41 KB | `/images/cuccioli-in-piscina.webp` |
+| 41 KB | `/images/recensioni-foto-1.webp` |
+| 40 KB | `/images/blog/hero-default.jpg.webp` |
+| 39 KB | `/images/20250922175123-df0ff861-sm.webp` |
+| 37 KB | `/images/img-3053.avif` |
+| 36 KB | `/images/20250921153730-fd1aa4e9-sm.webp` |
+| 35 KB | `/images/a45b8d56-7859-4b61-b0b3-18f0217b0606.avif` |
+| 35 KB | `/images/tikus-testone.webp` |
+| 34 KB | `/images/cuccioli-tigrati.avif` |
+| 34 KB | `/images/braveheart.webp` |
+| 33 KB | `/images/oba-oba.webp` |
+| 33 KB | `/images/red.jpeg` |
+| 31 KB | `/images/contatti-small.jpg` |
+| 30 KB | `/images/IMG_5684.webp` |
+| 29 KB | `/images/maschio-tigrato.avif` |
+| 29 KB | `/images/img-5548.avif` |
+| 28 KB | `/images/img-5496.avif` |
+| 27 KB | `/images/tikus_ah2hlevg.webp` |
+| 27 KB | `/images/Tikus.webp` |
+| 27 KB | `/images/tikus-bologna-primo.avif` |
+| 26 KB | `/images/IMG_5684.avif` |
+| 24 KB | `/images/img-2776.avif` |
+| 23 KB | `/images/IMG_5511.jpeg` |
+| 23 KB | `/images/IMG_1.avif` |
+| 22 KB | `/images/nora.webp` |
+| 21 KB | `/images/tikus3.webp` |
+| 21 KB | `/images/tikus-2.webp` |
+| 21 KB | `/images/IMG_5717.webp` |
+| 20 KB | `/images/IMG_5465.jpeg` |
+| 20 KB | `/images/ebc632f3-2f31-4639-b31a-146be5bc1520.avif` |
+| 20 KB | `/images/6ceee1d3-bcff-4987-b37d-56ee6b08fd10.avif` |
+| 20 KB | `/images/IMG_5685.jpeg` |
+| 17 KB | `/images/IMG_5717.avif` |
+| 15 KB | `/images/heat.webp` |
+| 15 KB | `/images/storia-handler.avif` |
+| 13 KB | `/images/IMG_4175.webp` |
+| 13 KB | `/images/IMG_4175-433x480.webp` |
+| 13 KB | `/images/IMG_4175-217x240.webp` |
+| 12 KB | `/images/IMG_5724.webp` |
+| 10 KB | `/images/IMG_5724.avif` |
+| 10 KB | `/images/a45b8d56-7859-4b61-b0b3-18f0217b0606-min-1-compressed-2025-09-19-224221.avif` |
+| 9 KB | `/images/blog/boas-respirazione.png` |
+| 9 KB | `/images/IMG_5694.webp` |
+| 9 KB | `/images/IMG_5695.webp` |
+| 9 KB | `/images/femmine-intro.webp` |
+| 8 KB | `/images/IMG_5694.avif` |
+| 8 KB | `/images/IMG_5695.avif` |
+| 8 KB | `/images/blog/salute.jpg` |
+| 7 KB | `/images/20250922175125-25e61533-sm.webp` |
+| 7 KB | `/images/IMG_5712.webp` |
+| 6 KB | `/images/IMG_5710.webp` |
+| 6 KB | `/images/IMG_5711.webp` |
+| 5 KB | `/images/blog/salute-2.jpg` |
+| 3 KB | `/images/IMG_5711.avif` |
+| 2 KB | `/images/favicon.ico` |

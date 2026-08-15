@@ -72,7 +72,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/cuccioli-socializzazione-in-casa/" title="Leggi: Socializzazione in casa"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-1.webp" alt="Socializzazione in casa" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/cuccioli-socializzazione-in-casa/" title="Leggi: Socializzazione in casa"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-1.webp" alt="Cuccioli di Staffordshire Bull Terrier: socializzazione in casa" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Mar 2025</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cuccioli-socializzazione-in-casa/" title="Leggi: Socializzazione in casa">Socializzazione in casa</a></h3>
@@ -82,7 +82,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/cuccioli-prime-vaccinazioni/" title="Leggi: Prime vaccinazioni"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-2.webp" alt="Prime vaccinazioni" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/cuccioli-prime-vaccinazioni/" title="Leggi: Prime vaccinazioni"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-2.webp" alt="Cuccioli di Staffordshire Bull Terrier: prime vaccinazioni" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">10 Giu 2025</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cuccioli-prime-vaccinazioni/" title="Leggi: Prime vaccinazioni">Prime vaccinazioni</a></h3>
@@ -92,7 +92,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/cuccioli-alimentazione-iniziale/" title="Leggi: Alimentazione iniziale"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-3.webp" alt="Alimentazione iniziale" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/cuccioli-alimentazione-iniziale/" title="Leggi: Alimentazione iniziale"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-3.webp" alt="Cuccioli di Staffordshire Bull Terrier: alimentazione iniziale" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">15 Apr 2025</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cuccioli-alimentazione-iniziale/" title="Leggi: Alimentazione iniziale">Alimentazione iniziale</a></h3>
@@ -102,7 +102,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/cuccioli-educazione-bisogni/" title="Leggi: Educazione ai bisogni"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-4.webp" alt="Educazione ai bisogni" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/cuccioli-educazione-bisogni/" title="Leggi: Educazione ai bisogni"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-4.webp" alt="Cuccioli di Staffordshire Bull Terrier: educazione ai bisogni" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">22 Mag 2025</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cuccioli-educazione-bisogni/" title="Leggi: Educazione ai bisogni">Educazione ai bisogni</a></h3>
@@ -112,7 +112,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/cuccioli-gestione-solitudine/" title="Leggi: Gestione della solitudine"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-5.webp" alt="Gestione della solitudine" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/cuccioli-gestione-solitudine/" title="Leggi: Gestione della solitudine"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-5.webp" alt="Cuccioli di Staffordshire Bull Terrier: gestione della solitudine" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">8 Lug 2025</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cuccioli-gestione-solitudine/" title="Leggi: Gestione della solitudine">Gestione della solitudine</a></h3>
@@ -122,7 +122,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/cuccioli-giochi-mentali/" title="Leggi: Giochi mentali per cuccioli"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-6.webp" alt="Giochi mentali per cuccioli" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/cuccioli-giochi-mentali/" title="Leggi: Giochi mentali per cuccioli"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-6.webp" alt="Cuccioli di Staffordshire Bull Terrier: giochi mentali per cuccioli" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">3 Ago 2025</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cuccioli-giochi-mentali/" title="Leggi: Giochi mentali per cuccioli">Giochi mentali per cuccioli</a></h3>
@@ -132,7 +132,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/cuccioli-prima-passeggiata/" title="Leggi: Prima passeggiata al guinzaglio"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-7.webp" alt="Prima passeggiata al guinzaglio" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/cuccioli-prima-passeggiata/" title="Leggi: Prima passeggiata al guinzaglio"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-7.webp" alt="Cuccioli di Staffordshire Bull Terrier: prima passeggiata al guinzaglio" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">17 Set 2025</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cuccioli-prima-passeggiata/" title="Leggi: Prima passeggiata al guinzaglio">Prima passeggiata al guinzaglio</a></h3>
@@ -142,7 +142,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/cuccioli-consigli-acquisto/" title="Leggi: Consigli prima dell'acquisto"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-8.webp" alt="Consigli prima dell'acquisto" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/cuccioli-consigli-acquisto/" title="Leggi: Consigli prima dell'acquisto"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-8.webp" alt="Cuccioli di Staffordshire Bull Terrier: consigli prima dell'acquisto" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">25 Ott 2025</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cuccioli-consigli-acquisto/" title="Leggi: Consigli prima dell'acquisto">Consigli prima dell'acquisto</a></h3>
@@ -212,7 +212,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/standard-tipicita-morfologia/" title="Leggi: Tipicità di razza e morfologia"><div class="blog-card-thumb"><img src="/images/blog/standard-1.webp" alt="Tipicità di razza e morfologia" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/standard-tipicita-morfologia/" title="Leggi: Tipicità di razza e morfologia"><div class="blog-card-thumb"><img src="/images/blog/standard-1.webp" alt="Standard dello Staffordshire Bull Terrier: tipicità di razza e morfologia" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">12 Feb 2025</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/standard-tipicita-morfologia/" title="Leggi: Tipicità di razza e morfologia">Tipicità di razza e morfologia</a></h3>
@@ -222,7 +222,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/standard-linee-di-sangue-orientarsi/" title="Leggi: Linee di sangue come orientarsi"><div class="blog-card-thumb"><img src="/images/blog/standard-2.webp" alt="Linee di sangue: come orientarsi" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/standard-linee-di-sangue-orientarsi/" title="Leggi: Linee di sangue come orientarsi"><div class="blog-card-thumb"><img src="/images/blog/standard-2.webp" alt="Standard dello Staffordshire Bull Terrier: linee di sangue: come orientarsi" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">5 Mar 2025</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/standard-linee-di-sangue-orientarsi/" title="Leggi: Linee di sangue come orientarsi">Linee di sangue: come orientarsi</a></h3>
@@ -252,7 +252,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/test-genetici-l2hga-hc-staffy/" title="Leggi: Test Genetici L2HGA e HC"><div class="blog-card-thumb"><img src="/images/blog/hero-default.webp" alt="Test Genetici L2HGA e HC" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/test-genetici-l2hga-hc-staffy/" title="Leggi: Test Genetici L2HGA e HC"><div class="blog-card-thumb"><img src="/images/blog/hero-default.webp" alt="Staffordshire Bull Terrier: test Genetici L2HGA e HC" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">20 Nov 2025</span><span>•</span><span class="cat">Salute</span></div>
   <h3><a href="/test-genetici-l2hga-hc-staffy/" title="Leggi: Test Genetici L2HGA e HC">Test Genetici L2HGA e HC: Guida Completa</a></h3>
@@ -262,7 +262,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/salute-parassiti-prevenzione/" title="Leggi: Parassiti prevenzione e controllo"><div class="blog-card-thumb"><img src="/images/blog/salute-1.webp" alt="Parassiti: prevenzione e controllo" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/salute-parassiti-prevenzione/" title="Leggi: Parassiti prevenzione e controllo"><div class="blog-card-thumb"><img src="/images/blog/salute-1.webp" alt="Cura e salute dello Staffordshire Bull Terrier: parassiti: prevenzione e controllo" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">20 Gen 2025</span><span>•</span><span class="cat">Salute</span></div>
   <h3><a href="/salute-parassiti-prevenzione/" title="Leggi: Parassiti prevenzione e controllo">Parassiti: prevenzione e controllo</a></h3>
@@ -272,7 +272,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/salute-denti-igiene/" title="Leggi: Igiene orale e denti"><div class="blog-card-thumb"><img src="/images/blog/salute-2.webp" alt="Igiene orale e denti" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/salute-denti-igiene/" title="Leggi: Igiene orale e denti"><div class="blog-card-thumb"><img src="/images/blog/salute-2.webp" alt="Cura e salute dello Staffordshire Bull Terrier: igiene orale e denti" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">14 Apr 2025</span><span>•</span><span class="cat">Salute</span></div>
   <h3><a href="/salute-denti-igiene/" title="Leggi: Igiene orale e denti">Igiene orale e denti</a></h3>
@@ -282,7 +282,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/salute-esercizio-sicuro/" title="Leggi: Esercizio fisico in sicurezza"><div class="blog-card-thumb"><img src="/images/blog/salute-3.webp" alt="Esercizio fisico in sicurezza" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/salute-esercizio-sicuro/" title="Leggi: Esercizio fisico in sicurezza"><div class="blog-card-thumb"><img src="/images/blog/salute-3.webp" alt="Cura e salute dello Staffordshire Bull Terrier: esercizio fisico in sicurezza" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">28 Giu 2025</span><span>•</span><span class="cat">Salute</span></div>
   <h3><a href="/salute-esercizio-sicuro/" title="Leggi: Esercizio fisico in sicurezza">Esercizio fisico in sicurezza</a></h3>
@@ -312,7 +312,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/famiglia-bambini-convivenza/" title="Leggi: Convivenza con bambini"><div class="blog-card-thumb"><img src="/images/blog/famiglia-1.webp" alt="Convivenza con bambini" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/famiglia-bambini-convivenza/" title="Leggi: Convivenza con bambini"><div class="blog-card-thumb"><img src="/images/blog/famiglia-1.webp" alt="Staffordshire Bull Terrier in famiglia: convivenza con bambini" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">7 Feb 2025</span><span>•</span><span class="cat">Famiglia</span></div>
   <h3><a href="/famiglia-bambini-convivenza/" title="Leggi: Convivenza con bambini">Convivenza con bambini</a></h3>
@@ -322,7 +322,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/famiglia-anziani-rispetto-ritmi/" title="Leggi: Con persone anziane"><div class="blog-card-thumb"><img src="/images/blog/famiglia-2.webp" alt="Con persone anziane" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/famiglia-anziani-rispetto-ritmi/" title="Leggi: Con persone anziane"><div class="blog-card-thumb"><img src="/images/blog/famiglia-2.webp" alt="Staffordshire Bull Terrier in famiglia: con persone anziane" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">19 Mag 2025</span><span>•</span><span class="cat">Famiglia</span></div>
   <h3><a href="/famiglia-anziani-rispetto-ritmi/" title="Leggi: Con persone anziane">Con persone anziane: rispetto dei ritmi</a></h3>
@@ -332,7 +332,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/famiglia-convivenza-altri-animali/" title="Leggi: Convivenza con altri animali"><div class="blog-card-thumb"><img src="/images/blog/famiglia-3.webp" alt="Convivenza con altri animali" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/famiglia-convivenza-altri-animali/" title="Leggi: Convivenza con altri animali"><div class="blog-card-thumb"><img src="/images/blog/famiglia-3.webp" alt="Staffordshire Bull Terrier in famiglia: convivenza con altri animali" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">11 Ago 2025</span><span>•</span><span class="cat">Famiglia</span></div>
   <h3><a href="/famiglia-convivenza-altri-animali/" title="Leggi: Convivenza con altri animali">Convivenza con altri animali</a></h3>
@@ -342,7 +342,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/famiglia-viaggi-spostamenti/" title="Leggi: Viaggi e spostamenti"><div class="blog-card-thumb"><img src="/images/blog/famiglia-4.webp" alt="Viaggi e spostamenti" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/famiglia-viaggi-spostamenti/" title="Leggi: Viaggi e spostamenti"><div class="blog-card-thumb"><img src="/images/blog/famiglia-4.webp" alt="Staffordshire Bull Terrier in famiglia: viaggi e spostamenti" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">2 Nov 2025</span><span>•</span><span class="cat">Famiglia</span></div>
   <h3><a href="/famiglia-viaggi-spostamenti/" title="Leggi: Viaggi e spostamenti">Viaggi e spostamenti</a></h3>

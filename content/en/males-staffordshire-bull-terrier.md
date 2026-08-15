@@ -48,6 +48,8 @@ custom_content: |
   
   <div class="intro-block">
   <p>In our kennel, <strong>genetic health</strong> comes first. Every stud dog undergoes complete screening before entering the program.</p>
+  <p style="margin-top:1rem">A stud dog weighs far more on the future of a line than a bitch does: a female produces two or three litters in her lifetime, a male can father dozens of puppies. That is why the bar for admission is higher, not lower.</p>
+  <p style="margin-top:1rem">We look at three things, in this order. <strong>Temperament</strong>: an insecure or reactive dog does not enter the programme, however correct its conformation, because a temperament fault propagates for generations and shows itself in family homes, not in the ring. <strong>Breathing</strong>: a dog that struggles after a few minutes of trotting, or suffers in the first warm weather, has a welfare problem regardless of how many titles sit in its pedigree. And <strong>type without exaggeration</strong>: a correct head and solid bone, but never at the expense of function.</p>
   <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Our males are tested for:</p>
   <p>✓ <strong>L2HGA</strong> — L-2-Hydroxyglutaric Aciduria<br>
   ✓ <strong>HC</strong> — Hereditary Cataracts<br>
@@ -93,7 +95,7 @@ custom_content: |
   </div>
   <div class="male-content">
   <div class="male-image">
-  <img src="/images/maschio-braveheart.webp" alt="Braveheart del Piccolo Diavolo" width="350" height="467" loading="lazy" decoding="async">
+  <img src="/images/maschio-braveheart.webp" alt="Braveheart del Piccolo Diavolo — Staffordshire Bull Terrier" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
   <p><strong>Genetic Tests:</strong> L2HGA & HC clear by DNA</p>
@@ -113,7 +115,7 @@ custom_content: |
   </div>
   <div class="male-content">
   <div class="male-image">
-  <img src="/images/maschio-papillon.webp" alt="Papillon del Piccolo Diavolo" width="350" height="467" loading="lazy" decoding="async">
+  <img src="/images/maschio-papillon.webp" alt="Papillon del Piccolo Diavolo — Staffordshire Bull Terrier" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
   <p><strong>Genetic Tests:</strong> L2HGA & HC clear by DNA</p>

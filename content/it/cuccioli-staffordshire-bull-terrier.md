@@ -114,7 +114,7 @@ custom_content: |
   <p>Questo è il periodo più critico. I cuccioli iniziano a esplorare, giocare tra loro e interagire con l'ambiente. In questa fase vengono introdotti a: rumori domestici (aspirapolvere, TV, campanello), persone diverse (adulti, bambini, anziani), superfici varie (prato, pavimento, cemento), altri animali (se presenti).</p>
   </div>
   <div class="zigzag-image">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis Del Piccolo Diavolo" loading="lazy" decoding="async" width="400" height="300">
+  <img src="/images/femmina-bilquis.webp" alt="Bilquis Del Piccolo Diavolo — Staffordshire Bull Terrier" loading="lazy" decoding="async" width="400" height="300">
   </div>
   </div>
   </div>
@@ -140,7 +140,7 @@ custom_content: |
   <p>Quando il cucciolo arriva nella nuova famiglia, ha già acquisito competenze di base che facilitano l'inserimento e l'educazione successiva.</p>
   </div>
   <div class="zigzag-image">
-  <img src="/images/foto1.avif" alt="Cuccioli socializzati" loading="lazy" decoding="async" width="400" height="300">
+  <img src="/images/foto1.avif" alt="Cuccioli di Staffordshire Bull Terrier socializzati in casa" loading="lazy" decoding="async" width="400" height="300">
   </div>
   </div>
 

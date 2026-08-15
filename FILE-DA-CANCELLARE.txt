@@ -1,0 +1,10 @@
+static/images/IMG_5684.png
+static/images/IMG_5694.png
+static/images/IMG_5695.png
+static/images/IMG_5717.png
+static/images/IMG_5724.png
+static/images/cuccioli-staffy-seduti.PNG
+static/images/cuccioli-staffy.jpg
+static/images/intera-cucciolata-nell'erba.png
+static/images/nora.jpg
+static/images/tikus-bologna.jpeg

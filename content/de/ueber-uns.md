@@ -63,7 +63,7 @@ custom_content: |
   <p>Die Leidenschaft begann 2005 bei Crufts. Ich suchte einen Hund mit starkem aber handhabbarem Charakter: Der Staffy erschien mir wie ein "Mini-Rottweiler" — kraftvoll, entschlossen, unglaublich liebevoll.</p>
   <p>Seitdem habe ich den Standard studiert, bin nach UK und Irland gereist und erfahrene Züchter kennengelernt.</p>
   </div>
-  <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo" class="story-img" width="350" height="354" loading="lazy" decoding="async">
+  <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo — Staffordshire Bull Terrier" class="story-img" width="350" height="354" loading="lazy" decoding="async">
   </div>
   
   <div class="story-block reverse">

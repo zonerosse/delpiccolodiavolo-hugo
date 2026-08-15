@@ -102,7 +102,7 @@ custom_content: |
   </div>
   <div class="female-content">
   <div class="female-image">
-  <img src="/images/femmina-croi-olc.webp" alt="Lackyle Bean Croi Olc" width="350" height="467" loading="lazy" decoding="async">
+  <img src="/images/femmina-croi-olc.webp" alt="Lackyle Bean Croi Olc — Staffordshire Bull Terrier" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="female-info">
   <p><strong>Gentests:</strong> L2HGA & HC frei per DNA</p>
@@ -123,7 +123,7 @@ custom_content: |
   </div>
   <div class="female-content">
   <div class="female-image">
-  <img src="/images/femmina-divine.webp" alt="Faiter Divine at Diabhal Staff" width="350" height="467" loading="lazy" decoding="async">
+  <img src="/images/femmina-divine.webp" alt="Faiter Divine at Diabhal Staff — Staffordshire Bull Terrier" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="female-info">
   <p><strong>Gentests:</strong> L2HGA & HC frei per DNA</p>
@@ -146,7 +146,7 @@ custom_content: |
   </div>
   <div class="female-content">
   <div class="female-image">
-  <img src="/images/femmina-kennedy.webp" alt="Jackie Kennedy Great'n Glory" width="350" height="467" loading="lazy" decoding="async">
+  <img src="/images/femmina-kennedy.webp" alt="Jackie Kennedy Great'n Glory — Staffordshire Bull Terrier" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="female-info">
   <p><strong>Gentests:</strong> L2HGA & HC frei per DNA</p>
@@ -166,7 +166,7 @@ custom_content: |
   </div>
   <div class="female-content">
   <div class="female-image">
-  <img src="/images/femmina-derry.webp" alt="Foyleoak Maiden Derry" width="350" height="467" loading="lazy" decoding="async">
+  <img src="/images/femmina-derry.webp" alt="Foyleoak Maiden Derry — Staffordshire Bull Terrier" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="female-info">
   <p><strong>HD:</strong> B</p>
@@ -210,7 +210,7 @@ custom_content: |
   </div>
   <div class="female-content">
   <div class="female-image">
-  <img src="/images/nora-femmina-staffordshire-bull-terrier.avif" alt="Skilful-Dogs Nora" width="350" height="467" loading="lazy" decoding="async">
+  <img src="/images/nora-femmina-staffordshire-bull-terrier.avif" alt="Skilful-Dogs Nora — Staffordshire Bull Terrier" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="female-info">
   <p><strong>Gentests:</strong> L2HGA & HC frei per DNA</p>
