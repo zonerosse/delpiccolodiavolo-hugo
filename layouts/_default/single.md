@@ -13,6 +13,12 @@
 {{- $c = replaceRE `(?s)<header[^>]*>.*?</header>` "" $c -}}
 {{- $c = replaceRE `(?s)<footer[^>]*>.*?</footer>` "" $c -}}
 {{- $c = replaceRE `(?s)<div class="features-bar">.*?</div>\s*</div>` "" $c -}}
+{{- $c = replaceRE `(?s)<span class="hero-eyebrow">.*?</span>` "" $c -}}
+{{- $c = replaceRE `(?s)<span class="section-label">.*?</span>` "" $c -}}
+{{- $c = replaceRE `(?s)<p class="tags">.*?</p>` "" $c -}}
+{{- $c = replaceRE `(?s)<div class="hero-meta">.*?</div>` "" $c -}}
+{{- $c = replaceRE `(?s)<h1 class="hero-title">.*?</h1>` "" $c -}}
+{{- $c = replaceRE `(?s)<div class="article-footer">.*?</div>` "" $c -}}
 {{- $c = replaceRE `(?s)<div class="[^"]*toc[^"]*"[^>]*>.*?</div>\s*</div>` "" $c -}}
 {{- $c = replaceRE `(?s)<(ul|div)[^>]*class="[^"]*(indice|sommario|jump|anchor)[^"]*"[^>]*>.*?</(ul|div)>` "" $c -}}
 {{- $c = replaceRE `(?s)<div class="[^"]*(toc|breadcrumb|nav)[^"]*"[^>]*>.*?</div>` "" $c -}}
