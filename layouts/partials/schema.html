@@ -279,8 +279,8 @@
       "url": "{{ $baseURL }}/images/logo.webp"
     }
   },
-  "datePublished": "{{ if .Date.IsZero }}{{ .Lastmod.Format "2006-01-02" }}{{ else }}{{ .Date.Format "2006-01-02" }}{{ end }}",
-  "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+  "datePublished": "{{ if .Date.IsZero }}{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}{{ else }}{{ .Date.Format "2006-01-02T15:04:05-07:00" }}{{ end }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}",
   "mainEntityOfPage": "{{ $currentURL }}",
   "inLanguage": "{{ $lang }}",
   "wordCount": {{ if gt .WordCount 0 }}{{ .WordCount }}{{ else }}{{ len (split (plainify (.Params.custom_content | default "")) " ") }}{{ end }},
