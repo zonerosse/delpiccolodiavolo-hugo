@@ -20,7 +20,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/femmina-bilquis-hero.avif" alt="Bilquis Goddess Diabhal, Campionessa Italiana Staffordshire Bull Terrier - Del Piccolo Diavolo" width="301" height="396" fetchpriority="high" decoding="sync">
+  <img src="/images/cuccioli-staffordshire-bull-terrier-hero.avif" alt="Staffordshire Bull Terrier puppies from Del Piccolo Diavolo kennel, born and raised at home in Ostellato, Italy" width="900" height="1200" fetchpriority="high" decoding="sync">
   </div>
   </div>
   <div class="hero-content">
