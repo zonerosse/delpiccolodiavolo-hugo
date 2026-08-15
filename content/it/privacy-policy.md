@@ -12,7 +12,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Informativa GDPR</span>
-  <h1 class="hero-title">Privacy<br><em>Policy</em></h1>
+  <h1 class="hero-title">Privacy <br><em>Policy</em></h1>
   <p class="hero-subtitle">Trattamento dei dati personali</p>
   </div>
   </section>

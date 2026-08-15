@@ -12,7 +12,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">⭐ 4,9/5 bei Google</span>
-  <h1 class="hero-title">Unsere<br><em>Bewertungen</em></h1>
+  <h1 class="hero-title">Unsere <br><em>Bewertungen</em></h1>
   <p class="hero-subtitle">36 verifizierte Testimonials</p>
   <p class="hero-description">Echte Erfahrungen von Besitzern unserer Staffordshire Bull Terrier: Professionalität, Gesundheit und ausgeglichener Charakter garantiert.</p>
   <div class="hero-actions">

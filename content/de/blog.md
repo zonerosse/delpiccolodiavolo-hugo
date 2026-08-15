@@ -12,7 +12,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Ressourcen & Ratgeber</span>
-  <h1 class="hero-title">Unser<br><em>Blog</em></h1>
+  <h1 class="hero-title">Unser <br><em>Blog</em></h1>
   <p class="hero-subtitle">Artikel über Welpen, Gesundheit, Standard und Zusammenleben</p>
   </div>
   </section>

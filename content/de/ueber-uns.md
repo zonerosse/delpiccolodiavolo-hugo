@@ -22,7 +22,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Seit 2013</span>
-  <h1 class="hero-title">Über<br><em>Uns</em></h1>
+  <h1 class="hero-title">Über <br><em>Uns</em></h1>
   <p class="hero-subtitle">Selektion, Ethik und Leidenschaft</p>
   <p class="hero-description">Familienzucht in Ostellato (FE), Italien. Gesunde, ausgeglichene und typische Staffordshire Bull Terrier mit Elitebull und Lackyle Blutlinien.</p>
   <div class="hero-actions">

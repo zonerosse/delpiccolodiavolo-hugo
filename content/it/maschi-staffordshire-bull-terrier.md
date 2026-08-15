@@ -12,7 +12,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Riproduttori Selezionati</span>
-  <h1 class="hero-title">Maschi<br><em>Staffordshire</em><br>Bull Terrier</h1>
+  <h1 class="hero-title">Maschi <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">DNA tested, esenti da L2HGA e HC</p>
   <p class="hero-description">I nostri maschi riproduttori sono selezionati per salute, carattere e tipicità. Tutti testati geneticamente e conformi allo standard di razza.</p>
   <div class="hero-actions">

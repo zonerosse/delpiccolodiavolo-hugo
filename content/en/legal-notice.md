@@ -12,7 +12,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Terms and Disclaimer</span>
-  <h1 class="hero-title">Legal<br><em>Notice</em></h1>
+  <h1 class="hero-title">Legal <br><em>Notice</em></h1>
   <p class="hero-subtitle">Website terms of use</p>
   </div>
   </section>

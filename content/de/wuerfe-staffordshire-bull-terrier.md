@@ -22,7 +22,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Zuchtprogramm</span>
-  <h1 class="hero-title">Würfe<br><em>Staffordshire</em><br>Bull Terrier</h1>
+  <h1 class="hero-title">Würfe <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">Selektion, Gesundheit und Typizität - Seit 2013</p>
   <p class="hero-description">Geplante Verpaarungen mit getesteten Zuchttieren, ENCI-Stammbaum und ausgewählten Linien aus Großbritannien und Irland. Updates zu Verfügbarkeit und Reservierungen.</p>
   <div class="hero-actions">

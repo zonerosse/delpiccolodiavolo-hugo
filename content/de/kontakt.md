@@ -12,7 +12,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Ostellato, Ferrara</span>
-  <h1 class="hero-title">Besuchen<br><em>Sie Uns</em></h1>
+  <h1 class="hero-title">Besuchen <br><em>Sie Uns</em></h1>
   <p class="hero-subtitle">Im Herzen Norditaliens</p>
   <p class="hero-description">Strategische Lage, leicht erreichbar aus der Emilia Romagna, Venetien, der Lombardei und der Toskana. Besuche nur nach Terminvereinbarung.</p>
   <div class="hero-actions">

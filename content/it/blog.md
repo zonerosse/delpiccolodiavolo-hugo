@@ -12,7 +12,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Risorse &amp; Guide</span>
-  <h1 class="hero-title">Blog<br><em>Staffordshire Bull Terrier</em></h1>
+  <h1 class="hero-title">Blog <br><em>Staffordshire Bull Terrier</em></h1>
   <p class="hero-subtitle">Articoli su cuccioli, salute, standard e convivenza</p>
   </div>
   </section>

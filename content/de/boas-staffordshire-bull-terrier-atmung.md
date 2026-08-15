@@ -15,7 +15,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Gesundheit & Selektion</span>
-  <h1 class="hero-title">BOAS beim<br><em>Staffordshire</em><br>Bull Terrier</h1>
+  <h1 class="hero-title">BOAS beim <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">Warum die Atmung entscheidend ist</p>
   <p class="hero-description">Das Brachyzephale Obstruktive Atemwegssyndrom ist ein wachsendes Problem bei vielen Rassen. Der Staffy sollte nicht betroffen sein, aber falsche Zuchtentscheidungen ändern das. Hier ist, was Sie wissen müssen.</p>
   <div class="hero-actions">

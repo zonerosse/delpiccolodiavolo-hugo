@@ -25,7 +25,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Allevamento Del Piccolo Diavolo</span>
-  <h1 class="hero-title">Cuccioli<br><em>Staffordshire</em><br>Bull Terrier</h1>
+  <h1 class="hero-title">Cuccioli <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">Linee Elitebull e Lackyle - Dal 2013</p>
   <p class="hero-description">I nostri cuccioli nascono e crescono in famiglia, circondati da amore e stimoli positivi. Selezioniamo per salute, carattere e tipicità, seguendo le migliori linee di sangue inglesi e irlandesi.</p>
   <div class="hero-actions">

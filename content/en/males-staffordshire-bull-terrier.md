@@ -12,7 +12,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Selected Stud Dogs</span>
-  <h1 class="hero-title">Male<br><em>Staffordshire</em><br>Bull Terriers</h1>
+  <h1 class="hero-title">Male <br><em>Staffordshire</em> <br>Bull Terriers</h1>
   <p class="hero-subtitle">DNA tested, L2HGA and HC clear</p>
   <p class="hero-description">Our stud dogs are selected for health, character and breed type. All genetically tested and conforming to breed standard.</p>
   <div class="hero-actions">

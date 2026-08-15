@@ -1,5 +1,6 @@
 ---
 title: "Come Scegliere un Allevamento Staffordshire Bull Terrier"
+titleSeo: "Allevamento Staffordshire Bull Terrier: come sceglierlo"
 articolo: true
 image: "/images/blog/cucciolata-erba.avif"
 description: "Guida completa per scegliere un allevamento Staffordshire Bull Terrier serio: test genetici, pedigree ENCI, segnali d'allarme e domande da fare."

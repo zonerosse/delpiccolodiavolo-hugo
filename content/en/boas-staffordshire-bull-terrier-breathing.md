@@ -15,7 +15,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Health & Selection</span>
-  <h1 class="hero-title">BOAS in<br><em>Staffordshire</em><br>Bull Terriers</h1>
+  <h1 class="hero-title">BOAS in <br><em>Staffordshire</em> <br>Bull Terriers</h1>
   <p class="hero-subtitle">Why breathing matters</p>
   <p class="hero-description">Brachycephalic obstructive airway syndrome is a growing problem in many breeds. The Staffy shouldn't be affected, but poor breeding choices are changing that. Here's what you need to know.</p>
   <div class="hero-actions">
