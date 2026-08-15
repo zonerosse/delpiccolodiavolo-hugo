@@ -2,6 +2,20 @@
 User-agent: *
 Allow: /
 
+# Le versioni Markdown (.md) delle pagine servono agli agenti AI.
+# Sono escluse dalla ricerca tradizionale per evitare contenuto duplicato.
+User-agent: Googlebot
+Allow: /
+Disallow: /*.md$
+
+User-agent: Yandex
+Allow: /
+Disallow: /*.md$
+
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /*.md$
+
 # Google AI (Gemini, AI Overviews)
 User-agent: Google-Extended
 Allow: /
@@ -25,6 +39,7 @@ Allow: /
 # Microsoft/Bing AI (Copilot)
 User-agent: Bingbot
 Allow: /
+Disallow: /*.md$
 
 # Perplexity AI
 User-agent: PerplexityBot
