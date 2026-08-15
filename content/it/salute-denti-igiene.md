@@ -1,6 +1,8 @@
 ---
 title: "Igiene Orale e Denti Staffordshire Bull Terrier"
 translationKey: "denti"
+articolo: true
+image: "/images/blog/salute-2.webp"
 description: "Guida completa igiene orale Staffy: come spazzolare i denti, prevenire tartaro, scegliere snack dentali sicuri, gestire dentizione cuccioli e detartrasi."
 slug: "salute-denti-igiene"
 custom_content: |

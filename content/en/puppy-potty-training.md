@@ -1,6 +1,8 @@
 ---
 title: "Puppies: Potty Training"
 translationKey: "bisogni"
+articolo: true
+image: "/images/blog/hero-default.webp"
 description: "Potty training for Staffordshire Bull Terrier puppies: routine, outings, positive reinforcement, accident management and progression indoors and outdoors."
 slug: "puppy-potty-training"
 custom_content: |

@@ -2,6 +2,8 @@
 title: "Parassiti: Prevenzione e Controllo Staffordshire Bull Terrier"
 titleSeo: "Parassiti nello Staffordshire Bull Terrier: prevenzione"
 translationKey: "parassiti"
+articolo: true
+image: "/images/blog/salute-1.webp"
 description: "Prevenzione e controllo dei parassiti nello Staffordshire Bull Terrier: protocollo, tempistiche e prodotti."
 slug: "salute-parassiti-prevenzione"
 custom_content: |

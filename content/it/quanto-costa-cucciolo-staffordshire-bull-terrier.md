@@ -1,5 +1,6 @@
 ---
 title: "Quanto Costa un Cucciolo di Staffordshire Bull Terrier nel 2026"
+articolo: true
 titleSeo: "Quanto costa un cucciolo Staffordshire Bull Terrier"
 description: "Quanto costa un cucciolo Staffordshire Bull Terrier con pedigree ENCI: prezzi reali, cosa include e perché diffidare dei 500€."
 slug: "quanto-costa-cucciolo-staffordshire-bull-terrier"

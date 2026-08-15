@@ -1,6 +1,8 @@
 ---
 title: "Staffy and Elderly Owners"
 translationKey: "anziani"
+articolo: true
+image: "/images/blog/famiglia-2.webp"
 description: "Staffordshire Bull Terriers for elderly owners: respecting rhythms, exercise needs, manageable energy levels and companionship benefits."
 slug: "staffy-elderly-owners"
 custom_content: |

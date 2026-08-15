@@ -1,6 +1,8 @@
 ---
 title: "Reisen und Transport mit Staffordshire Bull Terrier"
 translationKey: "viaggi"
+articolo: true
+image: "/images/blog/famiglia-4.jpg"
 description: "Leitfaden für Reisen mit Staffy: Auto, Flugzeug, Hotel, Dokumentation, Sicherheit."
 slug: "staffy-reisen-transport"
 custom_content: |

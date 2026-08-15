@@ -254,7 +254,7 @@
 {{ end }}
 
 {{/* Article per blog */}}
-{{ if and (not .IsHome) (or (in .RelPermalink "blog/") (eq .Section "blog")) }}
+{{ if and (not .IsHome) (.Params.articolo) }}
 <!-- JSON-LD: Article -->
 <script type="application/ld+json">
 {
@@ -279,11 +279,11 @@
       "url": "{{ $baseURL }}/images/logo.webp"
     }
   },
-  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  "datePublished": "{{ if .Date.IsZero }}{{ .Lastmod.Format "2006-01-02" }}{{ else }}{{ .Date.Format "2006-01-02" }}{{ end }}",
   "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
   "mainEntityOfPage": "{{ $currentURL }}",
   "inLanguage": "{{ $lang }}",
-  "wordCount": {{ .WordCount }},
+  "wordCount": {{ if gt .WordCount 0 }}{{ .WordCount }}{{ else }}{{ len (split (plainify (.Params.custom_content | default "")) " ") }}{{ end }},
   "keywords": "{{ if .Params.tags }}{{ delimit .Params.tags ", " }}{{ else }}Staffordshire Bull Terrier, allevamento, cuccioli, test genetici L2HGA HC{{ end }}",
   "about": {
     "@type": "Thing",

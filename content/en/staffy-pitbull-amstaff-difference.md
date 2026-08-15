@@ -2,6 +2,8 @@
 title: "Difference Between Staffordshire Bull Terrier, Pitbull and Amstaff"
 titleSeo: "Staffordshire Bull Terrier, Pitbull and Amstaff compared"
 translationKey: "pitbull-amstaff"
+articolo: true
+image: "/images/blog/hero-default.webp"
 description: "Real differences between Staffordshire Bull Terrier, Pitbull and American Staffordshire: size, standard and law."
 slug: "staffy-pitbull-amstaff-difference"
 custom_content: |

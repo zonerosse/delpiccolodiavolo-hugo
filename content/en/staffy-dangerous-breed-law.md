@@ -1,6 +1,8 @@
 ---
 title: "Is Staffordshire Bull Terrier Dangerous? Italian Law"
 translationKey: "pericoloso"
+articolo: true
+image: "/images/blog/hero-default.webp"
 description: "Is the Staffy dangerous? What does Italian law say? Complete guide on breed-specific legislation, restrictions and owner responsibilities."
 slug: "staffy-dangerous-breed-law"
 custom_content: |

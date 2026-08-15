@@ -1,6 +1,8 @@
 ---
 title: "Welpen: Sozialisierung zu Hause"
 translationKey: "socializzazione"
+articolo: true
+image: "/images/blog/cuccioli-1.webp"
 description: "Sozialisierung zu Hause für Ihren Staffordshire Bull Terrier Welpen: Geführte erste Erfahrungen mit Geräuschen, Oberflächen, Handling und Haushaltsroutinen."
 slug: "welpen-sozialisierung-zuhause"
 custom_content: |

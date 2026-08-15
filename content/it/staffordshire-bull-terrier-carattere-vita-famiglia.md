@@ -2,6 +2,8 @@
 title: "Staffordshire Bull Terrier: Carattere, Vita in Famiglia e Cosa Aspettarsi"
 titleSeo: "Staffordshire Bull Terrier: carattere e vita in famiglia"
 translationKey: "carattere-famiglia"
+articolo: true
+image: "/images/cucciolo-con-cavallo.avif"
 description: "Carattere dello Staffordshire Bull Terrier e vita in famiglia, raccontati da un allevatore ENCI dal 2013."
 slug: "staffordshire-bull-terrier-carattere-vita-famiglia"
 custom_content: |

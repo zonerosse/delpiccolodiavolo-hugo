@@ -1,6 +1,8 @@
 ---
 title: "Welpen: Erste Fütterung"
 translationKey: "alimentazione"
+articolo: true
+image: "/images/blog/hero-default.webp"
 description: "Fütterung des Staffordshire Bull Terrier Welpen: Mahlzeiten, Umstellung und Futterqualität."
 slug: "welpen-erste-fuetterung"
 custom_content: |

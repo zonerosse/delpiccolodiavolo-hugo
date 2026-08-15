@@ -1,6 +1,8 @@
 ---
 title: "Sichere Bewegung für Staffordshire Bull Terrier"
 translationKey: "esercizio"
+articolo: true
+image: "/images/blog/salute-1.webp"
 description: "Leitfaden für sichere und angemessene Bewegung für Staffy: tägliche Aktivität, Verletzungen vermeiden, Bewegung für Welpen und Erwachsene."
 slug: "staffy-sichere-bewegung"
 custom_content: |

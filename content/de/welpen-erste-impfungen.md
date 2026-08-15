@@ -1,6 +1,8 @@
 ---
 title: "Welpen: Erste Impfungen"
 translationKey: "vaccinazioni"
+articolo: true
+image: "/images/blog/salute.webp"
 description: "Erste Impfungen für Ihren Staffordshire Bull Terrier Welpen: Zeitplan, Kernimpfstoffe, was zu erwarten ist und praktische Tipps für den Impftag."
 slug: "welpen-erste-impfungen"
 custom_content: |

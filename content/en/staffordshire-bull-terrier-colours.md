@@ -2,6 +2,8 @@
 title: "Staffordshire Bull Terrier Colours: Black, Brindle, Blue and More"
 titleSeo: "Staffordshire Bull Terrier colours: black, brindle, blue"
 translationKey: "colori"
+articolo: true
+image: "/images/blog/hero-default.webp"
 description: "Staffordshire Bull Terrier colours allowed by the standard: black, brindle, fawn, red, white and pied. The case of dilute blue."
 slug: "staffordshire-bull-terrier-colours"
 custom_content: |

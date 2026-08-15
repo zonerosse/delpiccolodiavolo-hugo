@@ -1,6 +1,8 @@
 ---
 title: "Staffordshire Bull Terrier e Bambini: Convivenza Sicura"
 translationKey: "bambini"
+articolo: true
+image: "/images/blog/famiglia-1.webp"
 description: "Guida completa convivenza Staffy e bambini: regole per età, supervisione attiva, segnali stress, giochi sicuri, prevenzione incidenti e primo incontro."
 slug: "famiglia-bambini-convivenza"
 custom_content: |

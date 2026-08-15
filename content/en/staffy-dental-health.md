@@ -2,6 +2,8 @@
 title: "Dental Health and Oral Hygiene for Staffordshire Bull Terrier"
 titleSeo: "Dental health for the Staffordshire Bull Terrier"
 translationKey: "denti"
+articolo: true
+image: "/images/blog/salute-1.webp"
 description: "Complete guide to oral hygiene for Staffy: how to clean teeth, prevent tartar, choose the right products and recognize signs of dental problems."
 slug: "staffy-dental-health"
 custom_content: |
