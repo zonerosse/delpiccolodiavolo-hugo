@@ -60,7 +60,7 @@ custom_content: |
   <div class="section-inner">
   <div class="callout" style="max-width:700px;margin:0 auto;text-align:center">
   <h2 class="callout-title" style="font-size:1.15rem;margin:0 0 .6rem">Ne hanno parlato</h2>
-  <p><strong>FerraraToday</strong> &mdash; 6 gennaio 2026<br>
+  <p><strong>FerraraToday</strong> — 6 gennaio 2026<br>
   "Da Ferrara alla conquista del mondo: Bilquis, la cagnolina di 3 anni che fa incetta di premi"</p>
   <p><a href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" target="_blank" rel="noopener" title="Leggi l'articolo su FerraraToday">Leggi l'articolo &rarr;</a></p>
   </div>
@@ -71,15 +71,25 @@ custom_content: |
   <div class="section-inner">
   <h2 class="section-title">Selezione responsabile di Staffordshire Bull Terrier dal 2013</h2>
   <div class="intro-block" style="text-align:left">
-  <p>Del Piccolo Diavolo è un allevamento etico di Staffordshire Bull Terrier — lo Staffy, come lo chiamano gli appassionati — a Ostellato, in provincia di Ferrara, attivo dal 2013. Selezioniamo poche cucciolate all'anno, con test genetici completi sui riproduttori e cuccioli ceduti con pedigree ENCI, microchip e vaccinazioni, cresciuti in famiglia. In oltre 10 anni abbiamo formato Campioni Italiani e ottenuto un 4° posto al World Dog Show, seguendo ogni famiglia anche dopo l'affido.</p>
-  <p>Da oltre 10 anni selezioniamo Staffordshire Bull Terrier seguendo criteri rigorosi di salute, morfologia e temperamento. Lavoriamo con le migliori linee di sangue inglesi e irlandesi, producendo soggetti che si distinguono nei ring italiani e internazionali.</p>
-  <p>Il nostro allevamento ha ottenuto 3 Campioni Italiani e un 4° posto al World Dog Show. A maggio 2026 la nostra Queen of California ha conquistato il titolo di Giovane Campionessa Italiana. Tutti i nostri riproduttori sono testati per L2HGA, HC e PHPV.</p>
-  <p>Non siamo un allevamento commerciale: produciamo poche cucciolate selezionate ogni anno, seguendo ogni soggetto dalla nascita all'inserimento nella nuova famiglia.</p>
-  <p>Ogni Staffordshire Bull Terrier che nasce nel nostro allevamento cresce in ambiente familiare, a contatto quotidiano con persone, rumori domestici e altri animali. Crediamo che un buon allevamento non si misuri dalla quantità, ma dalla cura dedicata a ogni singolo soggetto.</p>
-  <p>La scelta dei riproduttori segue criteri precisi: conformità allo standard di razza, equilibrio caratteriale, assenza di patologie ereditarie. Non esistono scorciatoie nella selezione seria.</p>
-  <p>Chi sceglie Del Piccolo Diavolo non acquista semplicemente un cane: entra in una relazione di fiducia che dura nel tempo, con supporto e disponibilità anche dopo l'affido.</p>
-  <p>Lo Staffordshire Bull Terrier è una razza che richiede conoscenza, rispetto e dedizione. Non è il cane giusto per tutti — ma per chi lo capisce, diventa il compagno più fedele e affettuoso che esista. In vent'anni non abbiamo mai smesso di imparare da loro.</p>
-  <p>Ogni cucciolata è un progetto, non una produzione. Studiamo i pedigree, valutiamo la compatibilità genetica, osserviamo il carattere dei riproduttori per mesi prima di ogni accoppiamento. Il risultato sono soggetti sani, tipici e con un temperamento che ci rende orgogliosi.</p>
+  <p>Del Piccolo Diavolo è un allevamento di Staffordshire Bull Terrier — lo Staffy, come lo chiamano gli appassionati — a <strong>Ostellato, in provincia di Ferrara</strong>, attivo dal <strong>2013</strong>. Paolo Boldrini segue la razza da oltre vent'anni e alleva da dodici: due numeri diversi che raccontano la stessa cosa, cioè che l'allevamento è nato dopo un lungo periodo di studio, non prima.</p>
+
+  <p>Facciamo <strong>poche cucciolate l'anno</strong>, mai su richiesta. Tutti i riproduttori sono testati per <strong>L2HGA, HC e PHPV</strong>, e i certificati di laboratorio sono a disposizione di chi viene a trovarci. I cuccioli vengono ceduti con <strong>pedigree ENCI</strong>, microchip e vaccinazioni in regola, dopo essere cresciuti in casa — non in box — a contatto quotidiano con persone, rumori domestici e altri animali.</p>
+
+  <p>Sul piano dei risultati: <strong>3 Campioni Italiani</strong>, un <strong>4° posto al World Dog Show</strong> con Bilquis Goddess Diabhal, e a maggio 2026 il titolo di <strong>Giovane Campionessa Italiana</strong> per Queen of California. Lavoriamo con le linee di sangue inglesi e irlandesi, in particolare Elitebull e Lackyle.</p>
+
+  <p>La selezione segue tre criteri, in quest'ordine: <strong>equilibrio caratteriale</strong>, <strong>assenza di patologie ereditarie</strong> e <strong>conformità allo standard</strong>. Il carattere viene per primo perché è quello che una famiglia si porta in casa per dodici anni, ed è anche il più difficile da correggere: la morfologia si sistema in due o tre generazioni, un difetto caratteriale no.</p>
+
+  <p>Prima di affidare un cucciolo vogliamo conoscere la famiglia: una telefonata, qualche domanda, spesso una visita. E il rapporto non finisce lì — restiamo disponibili per consigli e aggiornamenti anche a distanza di anni, e ogni cane che abbiamo allevato torna da noi se un giorno non potesse più restare dov'è.</p>
+
+  <h3 style="margin-top:2rem">Cosa vuol dire davvero «cresciuto in casa»</h3>
+  <p>È la frase che scrivono tutti, quindi vale la pena dire cosa comporta. Le prime otto settimane sono <strong>metà della finestra di socializzazione</strong> di un cane: quello che incontra in quel periodo entra a far parte del suo mondo normale, quello che non incontra resterà per sempre una novità da valutare. Un cucciolo che a tre settimane sente l'aspirapolvere, il campanello e le voci di chi entra arriva a casa tua già abituato. Un cucciolo cresciuto in un box pulito ma silenzioso deve imparare tutto da capo, e certe cose non le recupera più.</p>
+
+  <h3 style="margin-top:1.6rem">Perché i test genetici non sono un dettaglio</h3>
+  <p>L2HGA e cataratta ereditaria sono <strong>recessive</strong>: un cane può portare la mutazione, restare sano tutta la vita e produrre cuccioli malati se accoppiato con un altro portatore. Genitori visibilmente sani non dimostrano nulla — solo il test del DNA lo fa. Un cucciolo affetto da L2HGA sviluppa crisi neurologiche fra i sei mesi e l'anno di età, e non esiste cura. <strong>Testare entrambi i riproduttori costa circa cento euro, una volta sola.</strong> Quando oggi nasce un cucciolo malato non è sfortuna: è un accoppiamento fatto senza test.</p>
+
+  <h3 style="margin-top:1.6rem">Come riconoscere un allevamento che non lo è</h3>
+  <p>Chiedi i certificati di laboratorio di entrambi i genitori, come documento, con nomi dei cani e numeri di microchip leggibili. Un allevatore serio li manda senza esitare, spesso prima che tu li chieda. Diffida invece di: cucciolate sempre disponibili o più cucciolate insieme; prezzi che cambiano in base al colore del mantello; certificati promessi dopo l'acconto; risultati mostrati solo come fotografia sullo schermo; e la frase «i genitori sono sani, non abbiamo mai avuto problemi», che risponde a una domanda diversa. Un altro segnale, meno ovvio: <strong>se non ti fanno nessuna domanda, non aspettarti che riprendano il cane se un giorno ti servisse.</strong></p>
+
   </div>
   </div>
   </section>
