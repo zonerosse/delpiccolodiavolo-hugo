@@ -176,7 +176,7 @@ custom_content: |
   <div class="faq-item">
   <h3 class="faq-question">Staffy può viaggiare in aereo?</h3>
   <div class="faq-answer">
-  <p>Sì ma complicato. Taglia media = viaggia stiva. Stress significativo. Trasportino IATA obbligatorio (100-200€). Valutare solo se indispensabile.</p>
+  <p>Sì, ma è complicato. Essendo di taglia media viaggia in stiva, con uno stress significativo, ed è obbligatorio un trasportino conforme IATA che costa fra i 100 e i 200 euro. Va valutato solo se indispensabile.</p>
   </div>
   </div>
   
@@ -197,7 +197,7 @@ custom_content: |
   <div class="faq-item">
   <h3 class="faq-question">Meglio trasportino o imbrago per Staffy adulto?</h3>
   <div class="faq-answer">
-  <p>Trasportino superiore per sicurezza ma ingombrante. Imbrago OK se cane tranquillo e tragitti &lt;2 ore. Viaggi lunghi/autostrada = sempre trasportino.</p>
+  <p>Il trasportino è più sicuro ma ingombrante. L'imbragatura va bene se il cane è tranquillo e i tragitti restano sotto le due ore. Per i viaggi lunghi e in autostrada, sempre il trasportino.</p>
   </div>
   </div>
   

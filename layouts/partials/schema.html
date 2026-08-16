@@ -299,3 +299,34 @@
 }
 </script>
 {{ end }}
+
+{{/* FAQPage automatico: legge le domande gia' presenti nel contenuto.
+     Si attiva sulle pagine che hanno almeno 3 H2/H3 che finiscono con "?"
+     e che non hanno gia' un FAQPage scritto a mano. */}}
+{{ $cc := .Params.custom_content | default .Content }}
+{{ $coppie := slice }}
+{{ range findRESubmatch `(?s)<h[23][^>]*>([^<]*\?)</h[23]>\s*(?:<div[^>]*>\s*)?<p[^>]*>(.*?)</p>` $cc }}
+  {{ $d := index . 1 | plainify | htmlUnescape }}
+  {{ $r := index . 2 | plainify | htmlUnescape }}
+  {{ if and (gt (len $d) 12) (gt (len $r) 60) (lt (len $r) 1200) }}
+    {{ $coppie = $coppie | append (dict "d" $d "r" $r) }}
+  {{ end }}
+{{ end }}
+{{ if and (ge (len $coppie) 3) (not .IsHome) (not .Params.faq_manuale) }}
+<!-- JSON-LD: FAQPage generato dalle domande della pagina -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "inLanguage": "{{ $lang }}",
+  "mainEntity": [
+    {{ range $i, $c := $coppie }}{{ if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": {{ $c.d | jsonify }},
+      "acceptedAnswer": { "@type": "Answer", "text": {{ $c.r | jsonify }} }
+    }{{ end }}
+  ]
+}
+</script>
+{{ end }}

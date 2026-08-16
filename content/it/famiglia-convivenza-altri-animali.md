@@ -442,28 +442,28 @@ custom_content: |
   <div class="faq-item">
   <h3 class="faq-question">Quanto tempo serve davvero per inserimento riuscito?</h3>
   <div class="faq-answer">
-  <p>Tempi variano enormemente: inserimento Staffy con altro cane compatibile = 2-6 settimane mediamente. Inserimento con gatto = 10-16 settimane minimo. Piccoli animali = 4-6 mesi o mai libertà totale. Fattori determinanti: socializzazione precoce Staffy, prey drive, temperamento altro animale, coerenza applicazione protocolli. Affrettare è causa #1 fallimenti.</p>
+  <p>I tempi variano molto a seconda della specie. Con un altro cane compatibile servono in media dalle due alle sei settimane. Con un gatto il minimo realistico è di dieci-sedici settimane. Con i piccoli animali si parla di quattro-sei mesi, e in molti casi la libertà totale non arriva mai. I fattori che pesano di più sono la socializzazione precoce Staffy, prey drive, temperamento altro animale, coerenza applicazione protocolli. Affrettare è causa #1 fallimenti.</p>
   </div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Posso saltare la fase scambio odori e andare direttamente a incontri?</h3>
   <div class="faq-answer">
-  <p>SCONSIGLIATO fortemente. Scambio odori prepara cervello animali a presenza altro senza stress fisico confronto. Saltare = shock iniziale maggiore, rischio reazioni negative incrementato 300-400%. Le 1-2 settimane scambio odori risparmiano mesi problemi successivi. Non affrettare mai.</p>
+  <p>È fortemente sconsigliato. Lo scambio degli odori prepara il cervello dei due animali alla presenza dell'altro senza lo stress fisico del confronto diretto. Saltarlo significa uno shock iniziale molto maggiore, e il rischio di reazioni negative aumenta in modo sensibile. Le una-due settimane di scambio odori risparmiano mesi problemi successivi. Non affrettare mai.</p>
   </div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Il mio Staffy ha attaccato altro animale una volta: è finita?</h3>
   <div class="faq-answer">
-  <p>Dipende gravità e contesto. Singolo episodio bassa intensità (ringhio, snap senza contatto) = recuperabile con protocolli estesi + supervisione permanente. Attacco con morso/ferimento = molto più difficile. Staffy ha ora "storia" aggressività = predizione futura aumentata. Richiede sempre intervento comportamentalista certificato. Molti casi necessitano gestione separazione permanente.</p>
+  <p>Dipende dalla gravità e dal contesto. Un singolo episodio di bassa intensità, come un ringhio o uno scatto senza contatto, è recuperabile con protocolli estesi e supervisione permanente. Un attacco con morso o ferimento è molto più difficile da gestire. A quel punto il cane ha una storia di aggressività alle spalle, e questo aumenta la probabilità che si ripeta. Richiede sempre l'intervento di un comportamentalista certificato. Molti casi necessitano gestione separazione permanente.</p>
   </div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Meglio inserire cucciolo Staffy con animale residente o viceversa?</h3>
   <div class="faq-answer">
-  <p>Cucciolo Staffy (8-16 settimane) con adulto cane/gatto residente = generalmente più facile SE residente tollerante. Cucciolo impara codici sociali da residente. PERÒ energia altissima 6-18 mesi può stressare animale anziano. Staffy adulto socializzato con nuovo cucciolo = fattibile ma cucciolo vulnerabile a gioco ruvido. Ideale: entrambi giovani adulti 2-5 anni, energie compatibili.</p>
+  <p>Un cucciolo di otto-sedici settimane inserito con un cane o un gatto adulto già residente è in genere la combinazione più facile, a patto che il residente sia tollerante: il cucciolo impara i codici sociali da lui. Va però considerato che fra i sei e i diciotto mesi l'energia diventa altissima e può stressare un animale anziano. Uno Staffy adulto ben socializzato con un cucciolo nuovo è fattibile, ma il cucciolo resta vulnerabile al gioco troppo ruvido. Ideale: entrambi giovani adulti 2-5 anni, energie compatibili.</p>
   </div>
   </div>
   
@@ -477,21 +477,21 @@ custom_content: |
   <div class="faq-item">
   <h3 class="faq-question">Costo inserimento professionale educatore: ne vale la pena?</h3>
   <div class="faq-answer">
-  <p>Costo medio: 4-6 sessioni educatore certificato = 300-600€. Comportamentalista veterinario (casi severi) = 500-1.200€. VALE SEMPRE se: Staffy temperamento incerto, storia reattività, prey drive medio-alto, convivenza con gatto/piccoli animali, proprietario inesperto. Educatore previene maggioranza fallimenti. Risparmio DIY spesso costa 10x dopo se inserimento fallisce.</p>
+  <p>Il costo medio è di 300-600 euro per quattro-sei sessioni con un educatore certificato, mentre un comportamentalista veterinario, necessario nei casi severi, costa fra 500 e 1.200 euro. Vale sempre la pena quando: Staffy temperamento incerto, storia reattività, prey drive medio-alto, convivenza con gatto/piccoli animali, proprietario inesperto. Educatore previene maggioranza fallimenti. Risparmio DIY spesso costa 10x dopo se inserimento fallisce.</p>
   </div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Staffy va d'accordo al parco ma non accetta cane nuovo casa: perché?</h3>
   <div class="faq-answer">
-  <p>Contesto territoriale cambia tutto. Parco = territorio neutro, interazioni temporanee, libertà allontanarsi = bassa tensione. Casa = territorio Staffy difende, impossibilità evitare altro cane, risorse condivise = alta tensione. Comportamento parco NON predice necessariamente comportamento casa. Ecco perché protocolli iniziano esterno neutro prima introdurre casa.</p>
+  <p>Il contesto territoriale cambia tutto. Al parco il territorio è neutro, le interazioni sono temporanee e il cane può sempre allontanarsi: la tensione resta bassa. In casa invece il territorio è suo e lo difende, non può evitare l'altro cane e le risorse sono condivise: la tensione è alta. Comportamento parco NON predice necessariamente comportamento casa. Ecco perché protocolli iniziano esterno neutro prima introdurre casa.</p>
   </div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Quando capisco che convivenza è definitivamente fallita?</h3>
   <div class="faq-answer">
-  <p>Segnali convivenza insostenibile: episodi aggressione ripetuti (2+ mesi) nonostante protocolli, stress cronico visibile (perdita peso, comportamenti compulsivi), qualità vita compromessa, impossibilità gestione separazione permanente, escalation violenza progressiva. Se 3+ segnali + consulenza comportamentalista conferma impossibilità = rehoming responsabile è scelta etica.</p>
+  <p>I segnali di una convivenza insostenibile sono episodi di aggressione che si ripetono per oltre due mesi nonostante i protocolli, uno stress cronico visibile come perdita di peso o comportamenti compulsivi, una qualità della vita compromessa e l'impossibilità di gestire una separazione permanente, escalation violenza progressiva. Se compaiono tre o più di questi segnali e un comportamentalista conferma che la situazione non è gestibile, ricollocare uno dei due animali in modo responsabile è una scelta etica, non una resa.</p>
   </div>
   </div>
   
