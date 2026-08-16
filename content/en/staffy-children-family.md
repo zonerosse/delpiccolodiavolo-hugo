@@ -46,7 +46,7 @@ custom_content: |
 
   <h2>Age by age</h2>
   <p><strong>Babies and toddlers.</strong> Physical separation when unsupervised, always. Use gates rather than commands. Let the dog observe the new arrival from a distance and reward calm behaviour rather than excluding it, which builds resentment of the child's presence.</p>
-  <p><strong>Three to six years.</strong> This is the highest-risk age, because the child is mobile, loud and convinced the dog enjoys everything they enjoy. Teach three rules and enforce them without exception: never disturb the dog while eating, never approach the dog in its bed, never hug the dog around the neck.</p>
+  <p><strong>3 to 6 years.</strong> This is the highest-risk age, because the child is mobile, loud and convinced the dog enjoys everything they enjoy. Teach three rules and enforce them without exception: never disturb the dog while eating, never approach the dog in its bed, never hug the dog around the neck.</p>
   <p><strong>Seven to eleven.</strong> The best age for involving the child in care and training. A child of this age can feed, brush, and practise simple obedience under supervision, and the relationship built here tends to last.</p>
   <p><strong>Adolescents.</strong> Can walk the dog alone if they have the physical strength to hold it and the judgement to avoid confrontations with other dogs. Strength alone is not enough.</p>
 

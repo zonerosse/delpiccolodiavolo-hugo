@@ -37,7 +37,7 @@ custom_content: |
   </div>
   
   <h2>The myth of the dangerous breed</h2>
-  <p>The idea that certain breeds are inherently dangerous has shaped legislation across Europe for thirty years, and the evidence for it has never been strong. Breed-specific legislation rests on the assumption that aggression is a fixed property of a breed rather than the outcome of genetics, upbringing, training, management and the specific situation in which a bite occurs.</p>
+  <p>The idea that certain breeds are inherently dangerous has shaped legislation across Europe for 30 years, and the evidence for it has never been strong. Breed-specific legislation rests on the assumption that aggression is a fixed property of a breed rather than the outcome of genetics, upbringing, training, management and the specific situation in which a bite occurs.</p>
   <p>Where such laws have been introduced and then studied, the results have been consistently disappointing. Bite statistics have not fallen in proportion, partly because breed identification by witnesses is unreliable, partly because the dogs involved in serious incidents are usually those kept in poor conditions by owners who ignore the law in any case. Several countries that pioneered breed lists have since repealed or narrowed them for exactly this reason.</p>
 
   <h2>The legal position in Italy</h2>

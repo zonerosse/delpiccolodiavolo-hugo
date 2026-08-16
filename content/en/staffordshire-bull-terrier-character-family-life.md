@@ -16,7 +16,7 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Family and Cohabitation</span>
   <h1 class="hero-title">Staffy Character and <em>Family Life</em></h1>
-  <p class="hero-subtitle">Twenty years with these dogs. Here's the truth.</p>
+  <p class="hero-subtitle">20 years with these dogs. Here's the truth.</p>
   <div class="hero-meta">
   <span>📅 28 April 2026</span>
   <span>⏱️ 10 min read</span>

@@ -46,13 +46,13 @@ custom_content: |
   
   <h2>The first rule: do not change anything at once</h2>
   <p>A puppy arriving in a new home has already lost its mother, its littermates and everything familiar. Changing its food on the same day adds digestive upset to that list, and diarrhoea in an eight-week-old puppy is not a minor matter.</p>
-  <p>Feed exactly what the breeder was feeding for at least the first week. If you want to change afterwards, do it over seven to ten days: three days at one quarter new food, three at half, three at three quarters, then complete. Any loosening of the stools means going back a step and moving more slowly.</p>
+  <p>Feed exactly what the breeder was feeding for at least the first week. If you want to change afterwards, do it over 7 to 10 days: 3 days at 1 quarter new food, 3 at half, 3 at 3 quarters, then complete. Any loosening of the stools means going back a step and moving more slowly.</p>
   <p>We send every puppy home with a supply of its current food and the exact feeding schedule, for precisely this reason.</p>
 
   <h2>How often and how much</h2>
-  <p>From eight weeks to four months, four meals a day. From four to six months, three. From six months onwards, two, and two meals a day should continue for life rather than reducing to one: a single large meal in a deep-chested breed is a risk factor for gastric torsion.</p>
-  <p>Quantity depends on the food and on the individual, and the number on the packet is a starting point rather than an instruction. The real measure is the puppy itself: you should be able to feel the ribs easily with a flat hand, and see a waist from above. Adjust by ten per cent at a time and reassess after a week.</p>
-  <p>Space the meals through the day and keep the times consistent, which helps house training as much as digestion. Leave the food down for fifteen or twenty minutes and then remove it, rather than leaving a bowl available all day.</p>
+  <p>From 8 weeks to 4 months, 4 meals a day. From 4 to 6 months, 3. From 6 months onwards, 2, and 2 meals a day should continue for life rather than reducing to one: a single large meal in a deep-chested breed is a risk factor for gastric torsion.</p>
+  <p>Quantity depends on the food and on the individual, and the number on the packet is a starting point rather than an instruction. The real measure is the puppy itself: you should be able to feel the ribs easily with a flat hand, and see a waist from above. Adjust by 10 per cent at a time and reassess after a week.</p>
+  <p>Space the meals through the day and keep the times consistent, which helps house training as much as digestion. Leave the food down for 15 or 20 minutes and then remove it, rather than leaving a bowl available all day.</p>
 
   <h2>What matters when choosing a food</h2>
   <p>Whether you feed dry, wet or raw, the requirements for a growing Staffordshire Bull Terrier are the same. The food must be formulated for growth, not for adult maintenance. Protein and fat should come predominantly from named animal sources rather than unspecified by-products. And the calcium to phosphorus ratio matters more than most owners realise.</p>
@@ -63,17 +63,17 @@ custom_content: |
   <p>Cooked bones of any kind splinter and can perforate the intestine. This includes the chicken carcass in the kitchen bin, which is why the bin needs to be inaccessible to a puppy that will absolutely investigate it.</p>
 
   <h2>Treats and training</h2>
-  <p>Treats should not exceed ten per cent of daily intake, and the simplest way to respect that is to use part of the daily ration for training rather than adding to it. A puppy that works for its kibble gets mental stimulation and stays lean at the same time.</p>
+  <p>Treats should not exceed 10 per cent of daily intake, and the simplest way to respect that is to use part of the daily ration for training rather than adding to it. A puppy that works for its kibble gets mental stimulation and stays lean at the same time.</p>
   <p>Avoid giving food from the table, however appealing the expression. This breed is exceptionally persuasive and exceptionally prone to putting on weight, and the habit is far easier never to start than to break.</p>
 
   <h2>Common digestive problems</h2>
-  <p>Soft stools in the first days are usually stress, and they resolve. Persistent diarrhoea beyond twenty-four hours, or any diarrhoea with blood, lethargy or vomiting, needs a veterinarian the same day: a puppy dehydrates quickly and parvovirus begins this way.</p>
+  <p>Soft stools in the first days are usually stress, and they resolve. Persistent diarrhoea beyond twenty-4 hours, or any diarrhoea with blood, lethargy or vomiting, needs a veterinarian the same day: a puppy dehydrates quickly and parvovirus begins this way.</p>
   <p>A puppy that eats too fast, which is common in a litter of eight, benefits from a slow-feeder bowl. This is worth doing routinely rather than waiting for a problem, because rapid eating with air swallowing is one of the manageable risk factors for bloat.</p>
   <p>Coprophagia, eating faeces, is common in puppies, usually transient, and best addressed by removing the opportunity rather than by scolding.</p>
 
   <h2>Weight: the thing to watch most closely</h2>
   <p>An overweight puppy is not a healthy puppy, and in this breed excess weight is easy to miss under muscle. Growing joints carry the load for a year, and the damage from excess weight during growth does not reverse.</p>
-  <p>Weigh the puppy weekly on the same scales and write it down. Steady, moderate growth is the goal; rapid growth is not an achievement. If in doubt, ask your veterinarian to body-condition score the puppy at each vaccination visit, which takes ten seconds and is more useful than any chart.</p>
+  <p>Weigh the puppy weekly on the same scales and write it down. Steady, moderate growth is the goal; rapid growth is not an achievement. If in doubt, ask your veterinarian to body-condition score the puppy at each vaccination visit, which takes 10 seconds and is more useful than any chart.</p>
 
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>

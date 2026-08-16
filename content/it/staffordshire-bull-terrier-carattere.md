@@ -60,13 +60,13 @@ correlati:
 
 <p>Nel <a href="/">nostro allevamento</a> il carattere non è un auspicio ma un criterio di esclusione. Un soggetto che mostra insicurezza marcata, reattività eccessiva o diffidenza verso le persone non entra nel programma di riproduzione, per quanto sia corretto nella morfologia.</p>
 
-<p>La ragione è pratica: la morfologia si corregge in due o tre generazioni scegliendo bene i partner, il carattere no. Un difetto caratteriale si propaga a lungo e si manifesta nelle case delle famiglie, non nel ring.</p>
+<p>La ragione è pratica: la morfologia si corregge in 2 o 3 generazioni scegliendo bene i partner, il carattere no. Un difetto caratteriale si propaga a lungo e si manifesta nelle case delle famiglie, non nel ring.</p>
 
 <p>Questo significa rinunciare, a volte, a soggetti bellissimi. È il costo di una selezione onesta.</p>
 
 <h2>Come si valuta il temperamento in un cucciolo</h2>
 
-<p>A otto settimane non si legge il carattere adulto, ma si osservano tendenze. Tre elementi sono più indicativi di altri.</p>
+<p>A 8 settimane non si legge il carattere adulto, ma si osservano tendenze. Tre elementi sono più indicativi di altri.</p>
 
 <p><strong>La ripresa dopo una sorpresa.</strong> Fai cadere un oggetto a distanza: quasi tutti i cuccioli si fermano. Conta cosa succede dopo — un cucciolo equilibrato torna a esplorare entro pochi secondi, uno insicuro resta bloccato o si allontana.</p>
 
@@ -78,7 +78,7 @@ correlati:
 
 <h2>Quanto pesa l'allevatore rispetto alla razza</h2>
 
-<p>La razza definisce un intervallo, l'allevatore decide dove ti collochi dentro quell'intervallo. Due Staffordshire Bull Terrier con pedigree simili sulla carta possono avere temperamenti sensibilmente diversi, a seconda di cosa è stato selezionato e di come sono state passate le prime otto settimane.</p>
+<p>La razza definisce un intervallo, l'allevatore decide dove ti collochi dentro quell'intervallo. Due Staffordshire Bull Terrier con pedigree simili sulla carta possono avere temperamenti sensibilmente diversi, a seconda di cosa è stato selezionato e di come sono state passate le prime 8 settimane.</p>
 
 <p>Quelle settimane, per inciso, sono metà della finestra di socializzazione: ciò che il cucciolo incontra dal terzo giorno di vita fino all'affidamento entra a far parte del suo mondo normale. Un cucciolo cresciuto in cucina, fra rumori domestici e visitatori, arriva a casa tua con un vantaggio che poi non si recupera.</p>
 

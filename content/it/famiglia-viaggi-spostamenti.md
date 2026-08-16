@@ -197,7 +197,7 @@ custom_content: |
   <div class="faq-item">
   <h3 class="faq-question">Meglio trasportino o imbrago per Staffy adulto?</h3>
   <div class="faq-answer">
-  <p>Il trasportino è più sicuro ma ingombrante. L'imbragatura va bene se il cane è tranquillo e i tragitti restano sotto le due ore. Per i viaggi lunghi e in autostrada, sempre il trasportino.</p>
+  <p>Il trasportino è più sicuro ma ingombrante. L'imbragatura va bene se il cane è tranquillo e i tragitti restano sotto le 2 ore. Per i viaggi lunghi e in autostrada, sempre il trasportino.</p>
   </div>
   </div>
   

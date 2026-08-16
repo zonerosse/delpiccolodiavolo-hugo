@@ -52,25 +52,25 @@ custom_content: |
 
   <h2>Show emphasis and its cost</h2>
   <p>Some lines have been shaped primarily by ring success, and in this breed that has consequences worth understanding before you buy. Where judges have rewarded heavier bone, wider fronts and shorter muzzles, the dogs that result photograph magnificently and struggle in warm weather.</p>
-  <p>If you are buying a companion, this matters more than any title. Ask to see the parents move, ask to hear them breathe after five minutes of activity, and ask directly whether the breeder considers airway quality in their matings. The answer, and the ease with which it is given, tells you a great deal.</p>
+  <p>If you are buying a companion, this matters more than any title. Ask to see the parents move, ask to hear them breathe after 5 minutes of activity, and ask directly whether the breeder considers airway quality in their matings. The answer, and the ease with which it is given, tells you a great deal.</p>
 
   <h2>Assessing a breeder rather than a pedigree</h2>
   <p>A pedigree tells you about ancestors. A breeder tells you about the puppy you will actually get. The questions that reveal most are these.</p>
   <p>Why these two dogs? A breeder with a programme answers in terms of what each parent brings, what they hoped to improve and what compromise they accepted. Without one, the answer is that both parents are beautiful.</p>
   <p>What would you change about this litter? Anyone honest has an answer, and it is usually specific.</p>
-  <p>Where do the puppies live? Puppies raised in a kitchen among household noise are meaningfully better socialised at eight weeks than puppies raised in a clean outdoor kennel, and the difference persists.</p>
+  <p>Where do the puppies live? Puppies raised in a kitchen among household noise are meaningfully better socialised at 8 weeks than puppies raised in a clean outdoor kennel, and the difference persists.</p>
   <p>What happens if it does not work out? The right answer is that the dog comes back to the breeder, at any age, for any reason, and that it is written in the contract.</p>
 
   <h2>Linebreeding and how much is too much</h2>
   <p>Repeating an admired ancestor within a pedigree fixes type, and it is a legitimate tool used by every serious programme. Pushed too far, it costs immune function, fertility and longevity, and it does so invisibly for a generation or two.</p>
-  <p>Ask for the coefficient of inbreeding over five generations, and ask how the breeder decides where the limit is. A breeder who has never calculated it is not necessarily careless, but a breeder who dismisses the question is telling you something.</p>
+  <p>Ask for the coefficient of inbreeding over 5 generations, and ask how the breeder decides where the limit is. A breeder who has never calculated it is not necessarily careless, but a breeder who dismisses the question is telling you something.</p>
 
   <h2>What to look for in the puppies themselves</h2>
-  <p>At eight weeks you are assessing tendency rather than outcome. Look for puppies that recover quickly from a surprise, that approach a stranger after a moment of hesitation rather than retreating, and that tolerate being held on their back for a few seconds without panic.</p>
+  <p>At 8 weeks you are assessing tendency rather than outcome. Look for puppies that recover quickly from a surprise, that approach a stranger after a moment of hesitation rather than retreating, and that tolerate being held on their back for a few seconds without panic.</p>
   <p>Avoid choosing the boldest puppy in the litter because it comes to you first, which is the commonest mistake. The confident middle of a litter suits the vast majority of homes far better than either extreme, and a good breeder will steer you there — indeed, a good breeder chooses the puppy for you rather than letting you choose it, and that should be reassuring rather than annoying.</p>
 
   <h2>Warning signs when comparing kennels</h2>
-  <p>Several litters available at once, or puppies always in stock. Prices that vary by coat colour. Health certificates promised after the deposit. Puppies available before eight weeks, which is illegal in Italy. Rare colours advertised as a selling point. And a breeder who asks you no questions at all: the ones who interrogate you are the ones who will take the dog back if you need them to.</p>
+  <p>Several litters available at once, or puppies always in stock. Prices that vary by coat colour. Health certificates promised after the deposit. Puppies available before 8 weeks, which is illegal in Italy. Rare colours advertised as a selling point. And a breeder who asks you no questions at all: the ones who interrogate you are the ones who will take the dog back if you need them to.</p>
 
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>

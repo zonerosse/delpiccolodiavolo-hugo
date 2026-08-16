@@ -4,7 +4,7 @@ titleSeo: "Staffordshire Bull Terrier, Pitbull and Amstaff compared"
 translationKey: "pitbull-amstaff"
 articolo: true
 image: "/images/blog/hero-default.webp"
-description: "Not the same dog: 11-17 kg against 25-30, two FCI-recognised standards and one that is not. How to tell them apart, explained by a breeder."
+description: "Not the same dog: 11-17 kg against 25-30, 2 FCI-recognised standards and one that is not. How to tell them apart, explained by a breeder."
 slug: "staffy-pitbull-amstaff-difference"
 custom_content: |
   <section class="hero">

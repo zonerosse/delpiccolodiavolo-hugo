@@ -45,14 +45,14 @@ custom_content: |
   </div>
   
   <h2>Die erste Regel: nicht alles auf einmal ändern</h2>
-  <p>Ein Welpe, der in ein neues Zuhause kommt, hat bereits Mutter, Wurfgeschwister und alles Vertraute verloren. Am selben Tag auch noch das Futter zu wechseln fügt Verdauungsprobleme hinzu, und Durchfall bei einem acht Wochen alten Welpen ist keine Kleinigkeit.</p>
-  <p>Füttern Sie mindestens eine Woche lang genau das, was der Züchter gefüttert hat. Wollen Sie danach wechseln, tun Sie es über sieben bis zehn Tage: drei Tage ein Viertel neues Futter, drei Tage die Hälfte, drei Tage drei Viertel, dann vollständig. Wird der Kot weicher, gehen Sie einen Schritt zurück.</p>
+  <p>Ein Welpe, der in ein neues Zuhause kommt, hat bereits Mutter, Wurfgeschwister und alles Vertraute verloren. Am selben Tag auch noch das Futter zu wechseln fügt Verdauungsprobleme hinzu, und Durchfall bei einem 8 Wochen alten Welpen ist keine Kleinigkeit.</p>
+  <p>Füttern Sie mindestens eine Woche lang genau das, was der Züchter gefüttert hat. Wollen Sie danach wechseln, tun Sie es über 7 bis 10 Tage: 3 Tage ein Viertel neues Futter, 3 Tage die Hälfte, 3 Tage drei Viertel, dann vollständig. Wird der Kot weicher, gehen Sie einen Schritt zurück.</p>
   <p>Wir geben jedem Welpen einen Vorrat seines gewohnten Futters und den genauen Fütterungsplan mit — genau aus diesem Grund.</p>
 
   <h2>Wie oft und wie viel</h2>
-  <p>Von acht Wochen bis vier Monate vier Mahlzeiten täglich. Von vier bis sechs Monaten drei. Ab sechs Monaten zwei, und zwei Mahlzeiten sollten lebenslang bleiben, statt auf eine zu reduzieren: eine einzige große Mahlzeit ist bei einer tiefbrüstigen Rasse ein Risikofaktor für die Magendrehung.</p>
-  <p>Die Menge hängt vom Futter und vom Einzeltier ab; die Angabe auf der Packung ist ein Ausgangspunkt, keine Vorschrift. Der wirkliche Maßstab ist der Welpe selbst: die Rippen müssen mit flacher Hand leicht fühlbar sein, von oben muss eine Taille erkennbar sein. Passen Sie in Schritten von zehn Prozent an und beurteilen Sie nach einer Woche neu.</p>
-  <p>Verteilen Sie die Mahlzeiten über den Tag und halten Sie die Zeiten konstant, was der Stubenreinheit ebenso hilft wie der Verdauung. Lassen Sie das Futter fünfzehn bis zwanzig Minuten stehen und nehmen Sie es dann weg, statt den ganzen Tag einen vollen Napf anzubieten.</p>
+  <p>Von 8 Wochen bis 4 Monate 4 Mahlzeiten täglich. Von 4 bis 6 Monaten drei. Ab 6 Monaten zwei, und 2 Mahlzeiten sollten lebenslang bleiben, statt auf eine zu reduzieren: eine einzige große Mahlzeit ist bei einer tiefbrüstigen Rasse ein Risikofaktor für die Magendrehung.</p>
+  <p>Die Menge hängt vom Futter und vom Einzeltier ab; die Angabe auf der Packung ist ein Ausgangspunkt, keine Vorschrift. Der wirkliche Maßstab ist der Welpe selbst: die Rippen müssen mit flacher Hand leicht fühlbar sein, von oben muss eine Taille erkennbar sein. Passen Sie in Schritten von 10 Prozent an und beurteilen Sie nach einer Woche neu.</p>
+  <p>Verteilen Sie die Mahlzeiten über den Tag und halten Sie die Zeiten konstant, was der Stubenreinheit ebenso hilft wie der Verdauung. Lassen Sie das Futter 15 bis 20 Minuten stehen und nehmen Sie es dann weg, statt den ganzen Tag einen vollen Napf anzubieten.</p>
 
   <h2>Worauf es bei der Futterwahl ankommt</h2>
   <p>Ob trocken, nass oder roh gefüttert wird: die Anforderungen an einen wachsenden Staffordshire Bull Terrier sind dieselben. Das Futter muss für das Wachstum formuliert sein, nicht für erwachsene Hunde. Protein und Fett sollten überwiegend aus benannten tierischen Quellen stammen. Und das Verhältnis von Kalzium zu Phosphor zählt mehr, als die meisten Halter ahnen.</p>
@@ -63,7 +63,7 @@ custom_content: |
   <p>Gekochte Knochen jeder Art splittern und können den Darm perforieren. Dazu gehört auch das Hähnchengerippe im Küchenmülleimer, weshalb dieser für einen Welpen unerreichbar sein muss.</p>
 
   <h2>Leckerchen und Training</h2>
-  <p>Leckerchen sollten zehn Prozent der Tagesmenge nicht überschreiten, und am einfachsten gelingt das, indem Sie einen Teil der Tagesration fürs Training verwenden, statt zusätzlich zu geben. Ein Welpe, der für sein Futter arbeitet, bekommt Kopfarbeit und bleibt schlank.</p>
+  <p>Leckerchen sollten 10 Prozent der Tagesmenge nicht überschreiten, und am einfachsten gelingt das, indem Sie einen Teil der Tagesration fürs Training verwenden, statt zusätzlich zu geben. Ein Welpe, der für sein Futter arbeitet, bekommt Kopfarbeit und bleibt schlank.</p>
   <p>Geben Sie nichts vom Tisch, so überzeugend der Blick auch ist. Diese Rasse ist außerordentlich beharrlich und neigt stark zu Übergewicht; die Gewohnheit ist leichter nie zu beginnen als abzustellen.</p>
 
   <h2>Häufige Verdauungsprobleme</h2>
@@ -72,7 +72,7 @@ custom_content: |
 
   <h2>Gewicht: der wichtigste Punkt</h2>
   <p>Ein übergewichtiger Welpe ist kein gesunder Welpe, und bei dieser Rasse verschwindet der Überschuss leicht unter der Muskulatur. Wachsende Gelenke tragen die Last ein Jahr lang, und der Schaden aus dieser Zeit bildet sich nicht zurück.</p>
-  <p>Wiegen Sie den Welpen wöchentlich auf derselben Waage und notieren Sie es. Ziel ist gleichmäßiges, maßvolles Wachstum; schnelles Wachstum ist kein Erfolg. Lassen Sie im Zweifel bei jedem Impftermin den Ernährungszustand beurteilen — das dauert zehn Sekunden und nützt mehr als jede Tabelle.</p>
+  <p>Wiegen Sie den Welpen wöchentlich auf derselben Waage und notieren Sie es. Ziel ist gleichmäßiges, maßvolles Wachstum; schnelles Wachstum ist kein Erfolg. Lassen Sie im Zweifel bei jedem Impftermin den Ernährungszustand beurteilen — das dauert 10 Sekunden und nützt mehr als jede Tabelle.</p>
 
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>

@@ -38,7 +38,7 @@ custom_content: |
   
   <h2>What a bloodline actually is</h2>
   <p>A bloodline is not a sub-breed and it is not a brand. It is the accumulated result of decisions made by one breeder, or a small group of breeders, over many generations: which dogs were kept, which were mated together, and which traits were treated as non-negotiable. Two Staffordshire Bull Terriers from different lines are the same breed and must meet the same standard, but they can differ noticeably in bone, head proportion, temperament and working attitude.</p>
-  <p>Understanding lines matters for two very different reasons. If you are buying a companion, it tells you what kind of dog you are likely to live with for the next twelve years. If you are considering breeding, it is the difference between a coherent programme and a series of hopeful accidents.</p>
+  <p>Understanding lines matters for two very different reasons. If you are buying a companion, it tells you what kind of dog you are likely to live with for the next 12 years. If you are considering breeding, it is the difference between a coherent programme and a series of hopeful accidents.</p>
 
   <h2>The English lines</h2>
   <p>The breed was made in England, and English breeding remains the reference point for type. The most influential kennels have prioritised correct proportion, a broad and well-filled head without exaggeration, sound movement and, above all, the reliable temperament written into the standard.</p>
@@ -54,11 +54,11 @@ custom_content: |
 
   <h2>Reading a pedigree properly</h2>
   <p>A pedigree is a document of ancestry, not a guarantee of quality: every registered dog has one. What makes it informative is what you do with it. Look at how often the same names appear on both sides, which tells you the degree of linebreeding. Look at whether the health results of those ancestors are documented and published. Look at whether the dogs behind the puppy were actually assessed by someone independent, whether in the ring or by a veterinary specialist, or whether they simply existed.</p>
-  <p>Three generations of titles with no health results is a weaker pedigree than three generations of untitled dogs with full testing and known temperaments. The second tells you far more about the puppy you are about to take home.</p>
+  <p>3 generations of titles with no health results is a weaker pedigree than 3 generations of untitled dogs with full testing and known temperaments. The second tells you far more about the puppy you are about to take home.</p>
 
   <h2>Linebreeding, inbreeding and coefficients</h2>
   <p>Linebreeding, the deliberate repetition of an admired ancestor within a pedigree, is a legitimate tool for fixing type. Pushed too far it becomes inbreeding, and the cost is paid in immune function, fertility and vigour rather than in appearance, which is precisely why it is easy to ignore.</p>
-  <p>A practical rule we apply: we want to see the coefficient of inbreeding over five generations kept low, and we will not repeat a close doubling simply because a particular ancestor was fashionable. Type gained at the expense of vitality is a bad trade, and it is one the buyer discovers years later.</p>
+  <p>A practical rule we apply: we want to see the coefficient of inbreeding over 5 generations kept low, and we will not repeat a close doubling simply because a particular ancestor was fashionable. Type gained at the expense of vitality is a bad trade, and it is one the buyer discovers years later.</p>
 
   <h2>What this means when you choose a puppy</h2>
   <p>Ask the breeder which lines are behind the litter, and why those two dogs were put together. The answer is revealing. A breeder with a programme will tell you what the sire brings, what the dam brings, what they are trying to improve and what they accept as a compromise. A breeder without one will say that both parents are beautiful.</p>

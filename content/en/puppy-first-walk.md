@@ -45,20 +45,20 @@ custom_content: |
   </div>
   
   <h2>When to start, and the vaccination dilemma</h2>
-  <p>The classic advice is to wait until the vaccination course is complete, at around sixteen weeks. The classic advice is also, taken literally, harmful, because the critical socialisation window closes at roughly the same age. A puppy that sees nothing of the world until sixteen weeks has missed the period in which novelty is accepted most easily, and behavioural problems arising from under-socialisation are a far more common cause of dogs being given up than infectious disease.</p>
+  <p>The classic advice is to wait until the vaccination course is complete, at around 16 weeks. The classic advice is also, taken literally, harmful, because the critical socialisation window closes at roughly the same age. A puppy that sees nothing of the world until 16 weeks has missed the period in which novelty is accepted most easily, and behavioural problems arising from under-socialisation are a far more common cause of dogs being given up than infectious disease.</p>
   <p>The sensible compromise, and the one most veterinary behaviour bodies now recommend, is controlled exposure from the moment the puppy arrives. Carry the puppy in your arms in the street. Let it watch traffic, bicycles, children, market stalls and other people's umbrellas from a safe height. Visit friends whose dogs are vaccinated and healthy. Avoid places where unknown dogs urinate, public parks and veterinary waiting-room floors, until protection is complete.</p>
-  <p>Put simply: exposure to the world, yes, from day one. Exposure to unknown dogs' faeces, no, until sixteen weeks.</p>
+  <p>Put simply: exposure to the world, yes, from day one. Exposure to unknown dogs' faeces, no, until 16 weeks.</p>
 
   <h2>Preparing before you go out</h2>
-  <p>Work at home first. Let the puppy wear a flat collar and a Y-shaped harness indoors for a few minutes at a time, with something pleasant happening while it is on, until it stops noticing them. Attach a light lead and let it trail while you play. Only then attach the lead and walk three metres in the corridor.</p>
+  <p>Work at home first. Let the puppy wear a flat collar and a Y-shaped harness indoors for a few minutes at a time, with something pleasant happening while it is on, until it stops noticing them. Attach a light lead and let it trail while you play. Only then attach the lead and walk 3 metres in the corridor.</p>
   <p>Choose a harness rather than a collar for walking. This breed pulls, and the pressure of a collar on the trachea of a growing puppy is avoidable. A well-fitted Y-front harness with the lead attached at the chest changes the geometry of pulling and makes the whole business easier for both of you.</p>
 
   <h2>The first outing</h2>
-  <p>Pick a quiet street, a quiet time, and plan for five minutes, not thirty. Let the puppy set the pace, including the long minutes spent sniffing a single railing. Sniffing is not wasted time: it is how the dog collects information, and it tires a puppy more effectively than movement.</p>
+  <p>Pick a quiet street, a quiet time, and plan for 5 minutes, not thirty. Let the puppy set the pace, including the long minutes spent sniffing a single railing. Sniffing is not wasted time: it is how the dog collects information, and it tires a puppy more effectively than movement.</p>
   <p>Do not be surprised if the puppy sits down and refuses to move. This is extremely common and it is not stubbornness — it is a small animal overwhelmed by an unprecedented amount of information. Crouch down, wait, offer a treat, and let it start again when it is ready. Dragging a frightened puppy forward teaches it that the lead means being forced, and that lesson is expensive to undo.</p>
 
   <h2>Duration and the growth plates</h2>
-  <p>The five-minute rule applies: roughly five minutes of formal walking per month of age, twice a day. Three months, fifteen minutes; four months, twenty. This is not caution for its own sake. Growth plates in this breed close between ten and fourteen months, and repetitive impact before then causes damage that only becomes visible years later as joint disease.</p>
+  <p>The five-minute rule applies: roughly 5 minutes of formal walking per month of age, twice a day. 3 months, 15 minutes; 4 months, 20. This is not caution for its own sake. Growth plates in this breed close between 10 and 14 months, and repetitive impact before then causes damage that only becomes visible years later as joint disease.</p>
   <p>Free play in a garden, where the puppy chooses when to stop, is different and can be more generous. What must be avoided is long walks on hard ground, jumping down from heights, repeated stairs and running alongside a bicycle.</p>
 
   <h2>What to expose the puppy to, deliberately</h2>
@@ -76,8 +76,8 @@ custom_content: |
   <h2>Frequently asked questions</h2>
   <p><strong>My puppy sits down and refuses to walk. What do I do?</strong> Wait. Crouch at its level, stay relaxed, and let it decide to move. This resolves itself within a few outings if you never drag, and becomes a lasting problem if you do.</p>
   <p><strong>Collar or harness?</strong> Harness for walking, collar for identification. A Y-shaped harness that leaves the shoulders free, with a front attachment ring, is the best combination for a strong breed.</p>
-  <p><strong>Can my puppy meet other dogs in the street?</strong> Only calm, healthy, vaccinated adults whose owners you can ask first. An uncontrolled encounter with a reactive dog at four months can set a puppy back for a year.</p>
-  <p><strong>When can we go for proper walks?</strong> Build gradually and expect full-length walks from around twelve to fourteen months, when the growth plates have closed. Until then, patience is an investment in the dog's joints.</p>
+  <p><strong>Can my puppy meet other dogs in the street?</strong> Only calm, healthy, vaccinated adults whose owners you can ask first. An uncontrolled encounter with a reactive dog at 4 months can set a puppy back for a year.</p>
+  <p><strong>When can we go for proper walks?</strong> Build gradually and expect full-length walks from around 12 to 14 months, when the growth plates have closed. Until then, patience is an investment in the dog's joints.</p>
 
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>

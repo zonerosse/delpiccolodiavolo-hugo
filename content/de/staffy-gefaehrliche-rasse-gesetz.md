@@ -33,7 +33,7 @@ custom_content: |
   </div>
   
   <h2>Der Mythos der gefährlichen Rasse</h2>
-  <p>Die Vorstellung, bestimmte Rassen seien von Natur aus gefährlich, prägt die Gesetzgebung in Europa seit dreißig Jahren, und die Belege dafür waren nie überzeugend. Rassespezifische Gesetze beruhen auf der Annahme, Aggression sei eine feste Eigenschaft einer Rasse und nicht das Ergebnis von Genetik, Aufzucht, Erziehung, Haltung und der konkreten Situation, in der es zu einem Vorfall kommt.</p>
+  <p>Die Vorstellung, bestimmte Rassen seien von Natur aus gefährlich, prägt die Gesetzgebung in Europa seit 30 Jahren, und die Belege dafür waren nie überzeugend. Rassespezifische Gesetze beruhen auf der Annahme, Aggression sei eine feste Eigenschaft einer Rasse und nicht das Ergebnis von Genetik, Aufzucht, Erziehung, Haltung und der konkreten Situation, in der es zu einem Vorfall kommt.</p>
   <p>Wo solche Gesetze eingeführt und anschließend untersucht wurden, fielen die Ergebnisse durchweg ernüchternd aus. Die Zahl der Beißvorfälle sank nicht entsprechend, unter anderem weil die Rassebestimmung durch Zeugen unzuverlässig ist und weil die Hunde in schweren Vorfällen meist von Haltern stammen, die sich ohnehin nicht an Vorschriften halten. Mehrere Länder, die Rasselisten früh eingeführt haben, haben sie deshalb wieder abgeschafft oder eingeschränkt.</p>
 
   <h2>Die Rechtslage in Italien</h2>

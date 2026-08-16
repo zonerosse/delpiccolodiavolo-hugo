@@ -71,8 +71,8 @@ custom_content: |
   <div class="section-inner">
   <h2 class="section-title">Selezione responsabile di Staffordshire Bull Terrier dal 2013</h2>
   <div class="intro-block" style="text-align:left">
-  <p>Del Piccolo Diavolo è un allevamento etico di Staffordshire Bull Terrier — lo Staffy, come lo chiamano gli appassionati — a Ostellato, in provincia di Ferrara, attivo dal 2013. Selezioniamo poche cucciolate all'anno, con test genetici completi sui riproduttori e cuccioli ceduti con pedigree ENCI, microchip e vaccinazioni, cresciuti in famiglia. In oltre dieci anni abbiamo formato Campioni Italiani e ottenuto un 4° posto al World Dog Show, seguendo ogni famiglia anche dopo l'affido.</p>
-  <p>Da oltre dieci anni selezioniamo Staffordshire Bull Terrier seguendo criteri rigorosi di salute, morfologia e temperamento. Lavoriamo con le migliori linee di sangue inglesi e irlandesi, producendo soggetti che si distinguono nei ring italiani e internazionali.</p>
+  <p>Del Piccolo Diavolo è un allevamento etico di Staffordshire Bull Terrier — lo Staffy, come lo chiamano gli appassionati — a Ostellato, in provincia di Ferrara, attivo dal 2013. Selezioniamo poche cucciolate all'anno, con test genetici completi sui riproduttori e cuccioli ceduti con pedigree ENCI, microchip e vaccinazioni, cresciuti in famiglia. In oltre 10 anni abbiamo formato Campioni Italiani e ottenuto un 4° posto al World Dog Show, seguendo ogni famiglia anche dopo l'affido.</p>
+  <p>Da oltre 10 anni selezioniamo Staffordshire Bull Terrier seguendo criteri rigorosi di salute, morfologia e temperamento. Lavoriamo con le migliori linee di sangue inglesi e irlandesi, producendo soggetti che si distinguono nei ring italiani e internazionali.</p>
   <p>Il nostro allevamento ha ottenuto 3 Campioni Italiani e un 4° posto al World Dog Show. A maggio 2026 la nostra Queen of California ha conquistato il titolo di Giovane Campionessa Italiana. Tutti i nostri riproduttori sono testati per L2HGA, HC e PHPV.</p>
   <p>Non siamo un allevamento commerciale: produciamo poche cucciolate selezionate ogni anno, seguendo ogni soggetto dalla nascita all'inserimento nella nuova famiglia.</p>
   <p>Ogni Staffordshire Bull Terrier che nasce nel nostro allevamento cresce in ambiente familiare, a contatto quotidiano con persone, rumori domestici e altri animali. Crediamo che un buon allevamento non si misuri dalla quantità, ma dalla cura dedicata a ogni singolo soggetto.</p>
@@ -280,7 +280,7 @@ custom_content: |
 
   <section class="dark-section">
   <h2>Come è nata la mia passione per la razza</h2>
-  <p>La passione per lo Staffordshire Bull Terrier nasce nel 2005, anno in cui ho avuto il mio primo incontro con questa straordinaria razza durante il Crufts. Otto anni dopo, nel 2013, è nato l'allevamento. Sono rimasto subito affascinato da questi cani muscolosi e affettuosi, che mi hanno conquistato come veri Rottweiler in miniatura. Avendo già esperienza con i Rottweiler, ho scoperto un mondo nuovo: fatto di determinazione, intelligenza e amore incondizionato.</p>
+  <p>La passione per lo Staffordshire Bull Terrier nasce nel 2005, anno in cui ho avuto il mio primo incontro con questa straordinaria razza durante il Crufts. 8 anni dopo, nel 2013, è nato l'allevamento. Sono rimasto subito affascinato da questi cani muscolosi e affettuosi, che mi hanno conquistato come veri Rottweiler in miniatura. Avendo già esperienza con i Rottweiler, ho scoperto un mondo nuovo: fatto di determinazione, intelligenza e amore incondizionato.</p>
   </section>
 
   <section class="cta-section">

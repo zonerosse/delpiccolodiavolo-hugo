@@ -49,7 +49,7 @@ custom_content: |
   <p>The consequences go well beyond bad breath. Chronic dental infection releases bacteria into the bloodstream continuously, and the association with heart, kidney and liver disease is well established. A dog with advanced periodontal disease is a dog in constant low-grade pain that it cannot report, and owners routinely describe a completely different animal after a dental treatment they had been putting off.</p>
 
   <h2>The breed's specific dental issues</h2>
-  <p>Beyond crowding, three things are worth watching in this breed. Retained deciduous teeth, particularly the canines, are common: if a puppy tooth is still present when the adult tooth has emerged, it must be removed, because the two together trap debris and push the adult tooth out of alignment. By seven months, no puppy teeth should remain.</p>
+  <p>Beyond crowding, three things are worth watching in this breed. Retained deciduous teeth, particularly the canines, are common: if a puppy tooth is still present when the adult tooth has emerged, it must be removed, because the two together trap debris and push the adult tooth out of alignment. By 7 months, no puppy teeth should remain.</p>
   <p>Malocclusion is the second. A correct scissor bite distributes wear evenly; an undershot jaw, which occurs in the breed, causes abnormal wear and localised gum trauma. It is a fault to be avoided in breeding, and in an existing dog it means closer monitoring rather than treatment.</p>
   <p>Third, and most under-appreciated: fractured teeth from inappropriate chews. This is an extremely powerful jaw in a dog with an unusually high pain threshold, and slab fractures of the upper carnassial teeth are the classic injury. The dog often shows no sign at all.</p>
 
@@ -58,9 +58,9 @@ custom_content: |
   <p>Appropriate options: rubber chews of the type that flex under pressure, dental chews with a proven abrasive action, rope toys used under supervision, and raw carrots for dogs whose diet accommodates them. None of these replaces brushing, and any product marketed as making brushing unnecessary is overstating its case.</p>
 
   <h2>Brushing: the only thing that genuinely works</h2>
-  <p>Plaque mineralises into tartar within roughly three days. Mechanical removal before that happens is the only intervention that reliably prevents periodontal disease, and everything else is supplementary.</p>
-  <p>Daily is ideal; three times a week is the realistic minimum that still makes a measurable difference. Use a toothpaste formulated for dogs, never human toothpaste, which contains fluoride and often xylitol and is toxic. A finger brush or a soft child's toothbrush both work; the brush matters less than the frequency.</p>
-  <p>Introduce it gradually over a couple of weeks: first letting the dog lick the paste, then touching the outer surfaces of the canines only, then extending backwards. The outer surfaces are what matters, because the tongue keeps the inner surfaces relatively clean. Thirty seconds per side, done consistently, beats five minutes done occasionally and abandoned.</p>
+  <p>Plaque mineralises into tartar within roughly 3 days. Mechanical removal before that happens is the only intervention that reliably prevents periodontal disease, and everything else is supplementary.</p>
+  <p>Daily is ideal; 3 times a week is the realistic minimum that still makes a measurable difference. Use a toothpaste formulated for dogs, never human toothpaste, which contains fluoride and often xylitol and is toxic. A finger brush or a soft child's toothbrush both work; the brush matters less than the frequency.</p>
+  <p>Introduce it gradually over a couple of weeks: first letting the dog lick the paste, then touching the outer surfaces of the canines only, then extending backwards. The outer surfaces are what matters, because the tongue keeps the inner surfaces relatively clean. 30 seconds per side, done consistently, beats 5 minutes done occasionally and abandoned.</p>
 
   <h2>Recognising a problem</h2>
   <p>Bad breath is the first sign and the one most often dismissed as normal. It is not normal. Others: yellow or brown deposits along the gumline, red or bleeding gums, chewing on one side only, dropping food, pawing at the mouth, and reluctance to accept a chew that was previously welcome.</p>
@@ -69,11 +69,11 @@ custom_content: |
   <h2>Professional cleaning</h2>
   <p>A veterinary dental cleaning requires general anaesthesia, and this is the point where owners hesitate. The hesitation is understandable but usually misplaced: modern protocols with pre-anaesthetic bloods and monitoring are low risk in a healthy dog, and the alternative is years of untreated infection.</p>
   <p>So-called anaesthesia-free cleaning removes visible tartar from the crown while leaving the subgingival deposits that actually cause the disease. It makes the mouth look better and treats nothing.</p>
-  <p>Frequency varies with the individual, but a dog whose teeth are brushed regularly may need professional cleaning every two or three years, while a dog that has never been brushed may need it annually from middle age.</p>
+  <p>Frequency varies with the individual, but a dog whose teeth are brushed regularly may need professional cleaning every 2 or 3 years, while a dog that has never been brushed may need it annually from middle age.</p>
 
   <h2>A realistic routine</h2>
-  <p>Weekly: lift the lip and inspect both sides. Three to seven times a week: brush the outer surfaces, thirty seconds a side. Daily: an appropriate chew, chosen by the fingernail rule. Annually: a dental assessment at the routine veterinary check, and act on it rather than deferring.</p>
-  <p>Done from puppyhood, this takes about three minutes a day and adds years of comfortable eating to a dog's life. Started at seven, it is damage limitation.</p>
+  <p>Weekly: lift the lip and inspect both sides. 3 to 7 times a week: brush the outer surfaces, 30 seconds a side. Daily: an appropriate chew, chosen by the fingernail rule. Annually: a dental assessment at the routine veterinary check, and act on it rather than deferring.</p>
+  <p>Done from puppyhood, this takes about 3 minutes a day and adds years of comfortable eating to a dog's life. Started at seven, it is damage limitation.</p>
 
   <h2>Diet and its real role</h2>
   <p>The claim that dry food cleans teeth is largely a myth: most kibble shatters on contact without ever touching the gumline. Products with a specific dental action exist and are formulated with larger, fibrous pieces that the tooth sinks into rather than fracturing, and those do have measurable effect. Look for a recognised veterinary dental accreditation on the packaging rather than a marketing claim.</p>
