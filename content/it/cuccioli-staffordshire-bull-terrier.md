@@ -215,7 +215,7 @@ custom_content: |
   </div>
 
   <div style="text-align:center;margin-top:1rem">
-  <a href="/recensioni/" title="Leggi tutte le recensioni" class="btn btn-ghost">Leggi tutte le 37 recensioni →</a>
+  <a href="/recensioni/" title="Leggi tutte le recensioni" class="btn btn-ghost">Leggi tutte le 38 recensioni →</a>
   &nbsp;
   <a href="/palmares-del-piccolo-diavolo/" title="Risultati in esposizione" class="btn btn-ghost">Vedi i risultati in esposizione →</a>
   </div>
