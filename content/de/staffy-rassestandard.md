@@ -63,7 +63,7 @@ custom_content: |
   <p>So gelesen ist ein etwas helles Auge eine kosmetische Frage. Ein so kurzer Fang, dass der Hund überhitzt, ein so starker Vorbiss, dass Zähne nicht aufeinandertreffen, oder eine so breite Front, dass die Ellenbogen den Brustkorb nicht freibekommen, sind Wohlbefindensfehler. Ein Richter, und ein Züchter, sollten sie nicht gleichsetzen.</p>
 
   <h2>Was das bei der Betrachtung eines Wurfes bedeutet</h2>
-  <p>Mit acht Wochen beurteilen Sie kein Ausstellungspotenzial, und wer Ihnen einen Champion garantiert, rät. Beurteilen können Sie die Eltern: Proportionen, Gebiss, Bewegung und vor allem die Atmung nach Belastung. Bitten Sie darum, beide Elterntiere in Bewegung zu sehen, nicht nur im Stand — und wenn möglich an einem warmen Tag.</p>
+  <p>Mit 8 Wochen beurteilen Sie kein Ausstellungspotenzial, und wer Ihnen einen Champion garantiert, rät. Beurteilen können Sie die Eltern: Proportionen, Gebiss, Bewegung und vor allem die Atmung nach Belastung. Bitten Sie darum, beide Elterntiere in Bewegung zu sehen, nicht nur im Stand — und wenn möglich an einem warmen Tag.</p>
   <p>Ein Welpe aus zwei typvollen, gesunden Eltern, die sich in ihrem eigenen Körper wohlfühlen, wird mit weit größerer Wahrscheinlichkeit ebenso. Genau das will der Standard schützen.</p>
 
   <h2>Häufige Fragen zum Standard</h2>

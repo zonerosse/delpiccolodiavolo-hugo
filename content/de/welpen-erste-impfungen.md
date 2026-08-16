@@ -42,29 +42,29 @@ custom_content: |
   <p>Die Parvovirose verdient besondere Beachtung, weil sie monatelang in der Umwelt überlebt und gegen die meisten Haushaltsdesinfektionsmittel unempfindlich ist. Ein Garten, in dem ein infizierter Hund war, kann lange danach noch ansteckend sein — daher die Vorsicht, wo ein ungeimpfter Welpe seine Pfoten hinsetzt.</p>
 
   <h2>Der Impfplan</h2>
-  <p>Die meisten Protokolle in Italien folgen demselben Muster. Die erste Injektion erfolgt mit sechs bis acht Wochen, noch beim Züchter, und deckt Staupe, Hepatitis und Parvovirose ab. Die zweite folgt mit zehn bis zwölf Wochen, meist ergänzt um Leptospirose. Die dritte mit vierzehn bis sechzehn Wochen schließt die Grundimmunisierung ab. Eine erste Auffrischung erfolgt mit zwölf Monaten, danach richtet sich der Abstand nach Impfstoff und tierärztlicher Einschätzung.</p>
-  <p>Der Schutz besteht nicht sofort. Die Immunität baut sich über ein bis zwei Wochen nach der letzten Injektion auf, das heißt ein Welpe ist erst mit etwa sechzehn bis achtzehn Wochen wirklich geschützt, nicht im Moment der letzten Spritze.</p>
+  <p>Die meisten Protokolle in Italien folgen demselben Muster. Die erste Injektion erfolgt mit 6 bis 8 Wochen, noch beim Züchter, und deckt Staupe, Hepatitis und Parvovirose ab. Die zweite folgt mit 10 bis 12 Wochen, meist ergänzt um Leptospirose. Die dritte mit 14 bis 16 Wochen schließt die Grundimmunisierung ab. Eine erste Auffrischung erfolgt mit 12 Monaten, danach richtet sich der Abstand nach Impfstoff und tierärztlicher Einschätzung.</p>
+  <p>Der Schutz besteht nicht sofort. Die Immunität baut sich über ein bis 2 Wochen nach der letzten Injektion auf, das heißt ein Welpe ist erst mit etwa 16 bis 18 Wochen wirklich geschützt, nicht im Moment der letzten Spritze.</p>
   <p>Zwei Details werden oft übersehen. Erstens darf der Abstand zwischen den Dosen nicht verkürzt werden, weil maternale Antikörper den Impfstoff blockieren und der Plan um deren Abbau herum konstruiert ist. Zweitens muss der Tierarzt bei erheblicher Verzögerung unter Umständen einen Teil des Plans neu beginnen.</p>
 
   <h2>Tollwut und Reisen</h2>
   <p>Die Tollwutimpfung gehört in weiten Teilen Italiens nicht zum Standardplan des Welpen, ist aber für Reisen innerhalb der Europäischen Union vorgeschrieben. Sie kann ab der zwölften Lebenswoche gegeben werden, muss von einem ermächtigten Tierarzt in den Heimtierausweis eingetragen werden und wirkt einundzwanzig Tage nach der Verabreichung.</p>
-  <p>Diese Wartefrist ist absolut und lässt sich nicht verkürzen. Wer mit einem Welpen ins Ausland will, sollte sie beim ersten Tierarztbesuch ansprechen und nicht drei Wochen vor der Abreise.</p>
+  <p>Diese Wartefrist ist absolut und lässt sich nicht verkürzen. Wer mit einem Welpen ins Ausland will, sollte sie beim ersten Tierarztbesuch ansprechen und nicht 3 Wochen vor der Abreise.</p>
 
   <h2>Optionale Impfungen</h2>
   <p>Der Zwingerhusten, als Nasen- oder Schluckimpfung, ist sinnvoll für Welpen, die eine Hundeschule besuchen, in Pension gehen oder zur Fellpflege sollen. Er verringert die Schwere, statt sicher vorzubeugen, weil mehrere Erreger das Syndrom auslösen.</p>
   <p>Die Leishmaniose-Impfung ist in Endemiegebieten relevant, zu denen inzwischen große Teile Italiens gehören. Sie ersetzt kein Repellent-Halsband und kein Spot-on; Ihr Tierarzt berät nach Region und Lebensweise.</p>
 
   <h2>Nach der Impfung: normal und nicht normal</h2>
-  <p>Leichte Müdigkeit, verminderter Appetit und eine empfindliche Einstichstelle für vierundzwanzig bis achtundvierzig Stunden sind normal und erfordern nichts. Eine kleine feste Schwellung an der Stelle kann zwei Wochen bleiben und verschwindet meist von selbst.</p>
+  <p>Leichte Müdigkeit, verminderter Appetit und eine empfindliche Einstichstelle für vierundzwanzig bis achtundvierzig Stunden sind normal und erfordern nichts. Eine kleine feste Schwellung an der Stelle kann 2 Wochen bleiben und verschwindet meist von selbst.</p>
   <p>Nicht normal und ein Fall für den sofortigen Tierarztbesuch: Schwellung von Gesicht oder Fang, Quaddeln, wiederholtes Erbrechen, Atemnot oder Kollaps. Das sind Zeichen einer allergischen Reaktion, sie treten meist innerhalb einer Stunde auf, und deshalb ist es sinnvoll, nach einer ersten Impfung noch kurz in der Nähe der Praxis zu bleiben.</p>
 
   <h2>Wohin der Welpe in der Zwischenzeit darf</h2>
-  <p>Das ist die praktisch wichtigste Frage, denn das Sozialisierungsfenster schließt sich mit sechzehn Wochen — genau dann, wenn der Schutz vollständig ist. Passiv abzuwarten kostet im Verhalten mehr, als es an Infektionsrisiko spart.</p>
+  <p>Das ist die praktisch wichtigste Frage, denn das Sozialisierungsfenster schließt sich mit 16 Wochen — genau dann, wenn der Schutz vollständig ist. Passiv abzuwarten kostet im Verhalten mehr, als es an Infektionsrisiko spart.</p>
   <p>Unbedenklich vor Abschluss: den Welpen auf dem Arm durch die Straße tragen, Freunde mit geimpften gesunden Hunden besuchen, der eigene Garten, sofern dort kein ungeimpfter Hund war, und Autofahrten, um die Welt vom Fenster aus zu sehen.</p>
   <p>Zu meiden: öffentliche Parks und Hundewiesen, Gehwege, auf denen viele fremde Hunde markieren, der Boden im Wartezimmer und Kontakt mit Hunden unbekannten Impfstatus.</p>
 
   <h2>Entwurmung parallel zur Impfung</h2>
-  <p>Beide Pläne laufen nebeneinander und werden oft verwechselt. Welpen werden alle zwei Wochen ab der zweiten Lebenswoche bis zur zwölften entwurmt, danach monatlich bis zum sechsten Monat, als Erwachsene vierteljährlich. Der Züchter übernimmt den ersten Teil und sollte Ihnen die Daten schriftlich mitgeben.</p>
+  <p>Beide Pläne laufen nebeneinander und werden oft verwechselt. Welpen werden alle 2 Wochen ab der zweiten Lebenswoche bis zur zwölften entwurmt, danach monatlich bis zum sechsten Monat, als Erwachsene vierteljährlich. Der Züchter übernimmt den ersten Teil und sollte Ihnen die Daten schriftlich mitgeben.</p>
   <p>Ein Welpe mit erheblichem Wurmbefall reagiert schwächer auf die Impfung — deshalb möchten Tierärzte die Entwurmung vor der Injektion aktuell haben.</p>
 
   <h2>Das Impfbuch</h2>

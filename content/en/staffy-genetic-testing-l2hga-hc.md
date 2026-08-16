@@ -49,16 +49,16 @@ custom_content: |
 
   <h2>L2-HGA: what it is and how it presents</h2>
   <p>L-2-hydroxyglutaric aciduria is a metabolic disorder caused by a mutation in the L2HGDH gene. The affected dog cannot correctly break down a molecule called L-2-hydroxyglutaric acid, which accumulates in the cerebrospinal fluid and progressively damages the central nervous system.</p>
-  <p>Symptoms usually appear between six months and one year of age, occasionally later. Owners describe episodes of wobbliness and loss of coordination, tremors, muscle stiffness after exercise or excitement, behavioural changes, and in many cases seizures. Between episodes the dog can seem almost normal, which delays diagnosis and gives false hope.</p>
+  <p>Symptoms usually appear between 6 months and 1 year of age, occasionally later. Owners describe episodes of wobbliness and loss of coordination, tremors, muscle stiffness after exercise or excitement, behavioural changes, and in many cases seizures. Between episodes the dog can seem almost normal, which delays diagnosis and gives false hope.</p>
   <p>There is no cure. Management with a modified diet and anticonvulsants can reduce the frequency of episodes, but the condition is progressive and the outlook is poor. For a family who has raised a puppy for a year, it is a devastating diagnosis, and it costs both emotionally and financially for as long as the dog lives.</p>
 
   <h2>Hereditary cataract: what it is and how it presents</h2>
-  <p>Hereditary cataract in this breed, caused by a mutation in the HSF4 gene, is not the age-related cataract seen in older dogs of any breed. It appears early, typically between four months and three years, and it is bilateral and progressive.</p>
+  <p>Hereditary cataract in this breed, caused by a mutation in the HSF4 gene, is not the age-related cataract seen in older dogs of any breed. It appears early, typically between 4 months and 3 years, and it is bilateral and progressive.</p>
   <p>The lens becomes progressively opaque and the dog loses sight, usually completely, often before its third birthday. Surgery can restore useful vision in selected cases but is expensive, is not always successful, and requires a specialist ophthalmologist. Again, the disease is entirely avoidable by testing before the mating rather than treating after the diagnosis.</p>
 
   <h2>How the tests work</h2>
-  <p>The tests are DNA based and straightforward. A cheek swab or a small blood sample is taken, ideally by the veterinarian who also verifies the dog's microchip so that the sample is unambiguously linked to that animal, and sent to an accredited laboratory. The result arrives within two to four weeks and is valid for life: the DNA does not change, so a dog is tested once and never again.</p>
-  <p>Costs vary by laboratory and country, but for both tests together expect something in the region of eighty to a hundred and fifty euros. Compared with the cost of a lifetime of anticonvulsants, or of cataract surgery, or of the grief of a family, it is a trivial figure. It is also the reason no serious breeder considers it a discretionary expense.</p>
+  <p>The tests are DNA based and straightforward. A cheek swab or a small blood sample is taken, ideally by the veterinarian who also verifies the dog's microchip so that the sample is unambiguously linked to that animal, and sent to an accredited laboratory. The result arrives within 2 to 4 weeks and is valid for life: the DNA does not change, so a dog is tested once and never again.</p>
+  <p>Costs vary by laboratory and country, but for both tests together expect something in the region of eighty to a hundred and 50 euros. Compared with the cost of a lifetime of anticonvulsants, or of cataract surgery, or of the grief of a family, it is a trivial figure. It is also the reason no serious breeder considers it a discretionary expense.</p>
 
   <h2>Reading the results</h2>
   <p><strong>Clear</strong> means the dog has two normal copies of the gene. It cannot develop the disease and cannot pass the mutation to its offspring.</p>
@@ -68,7 +68,7 @@ custom_content: |
 
   <h2>Testing by parentage</h2>
   <p>You will often see a pedigree stating that a dog is clear "by parentage" or "hereditarily clear". This means the dog itself has not been tested, but both its parents were tested clear, which makes it genetically impossible for the dog to carry the mutation.</p>
-  <p>This is legitimate and accepted by kennel clubs, but it depends entirely on the accuracy of the pedigree. It is valid for one generation and it collapses if a parentage is wrong. For a dog that will be used in breeding, we prefer a direct test regardless of what the parents' certificates say. For a pet puppy, clear by parentage from two directly tested parents is perfectly reassuring.</p>
+  <p>This is legitimate and accepted by kennel clubs, but it depends entirely on the accuracy of the pedigree. It is valid for 1 generation and it collapses if a parentage is wrong. For a dog that will be used in breeding, we prefer a direct test regardless of what the parents' certificates say. For a pet puppy, clear by parentage from two directly tested parents is perfectly reassuring.</p>
 
   <h2>What to ask the breeder, and what should worry you</h2>
   <p>Ask for the laboratory certificates of both parents, as documents, with the dogs' names, microchip numbers and the laboratory's name legible. A serious breeder sends them without hesitation and often before you ask.</p>
@@ -79,7 +79,7 @@ custom_content: |
   <p>Increasingly, breathing quality is being assessed as well. The Staffordshire Bull Terrier is not a brachycephalic breed, but the tendency towards ever shorter muzzles in some show lines has consequences, and a dog that struggles in warm weather or after moderate exercise has a welfare problem regardless of how it looks standing still.</p>
 
   <h2>The cost of prevention against the cost of the disease</h2>
-  <p>Testing both parents costs a hundred euros or so, once. The lifetime cost of an L2-HGA affected dog runs into thousands, and the cost of cataract surgery for one eye is comparable to the price of the puppy. But the arithmetic is not really the point. The point is that a family who chose a healthy breed and paid for a pedigree puppy should never be put in that position, when a swab and three weeks of waiting would have prevented it entirely.</p>
+  <p>Testing both parents costs a hundred euros or so, once. The lifetime cost of an L2-HGA affected dog runs into thousands, and the cost of cataract surgery for one eye is comparable to the price of the puppy. But the arithmetic is not really the point. The point is that a family who chose a healthy breed and paid for a pedigree puppy should never be put in that position, when a swab and 3 weeks of waiting would have prevented it entirely.</p>
 
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>

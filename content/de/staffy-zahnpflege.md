@@ -33,11 +33,11 @@ custom_content: |
   </div>
   
   <h2>Warum Zahngesundheit wichtiger ist, als Besitzer denken</h2>
-  <p>Parodontalerkrankungen sind die am häufigsten diagnostizierte Erkrankung beim Hund und betreffen die große Mehrheit bereits mit drei Jahren. Beim Staffordshire Bull Terrier verdient das besondere Aufmerksamkeit, und zwar aus einem baulichen Grund: die Rasse hat ein vollständiges Gebiss mit zweiundvierzig Zähnen in einem vergleichsweise kurzen Kiefer. Das bedeutet Enge, und Enge bedeutet Belag an Stellen, die keine Zunge erreicht.</p>
+  <p>Parodontalerkrankungen sind die am häufigsten diagnostizierte Erkrankung beim Hund und betreffen die große Mehrheit bereits mit 3 Jahren. Beim Staffordshire Bull Terrier verdient das besondere Aufmerksamkeit, und zwar aus einem baulichen Grund: die Rasse hat ein vollständiges Gebiss mit zweiundvierzig Zähnen in einem vergleichsweise kurzen Kiefer. Das bedeutet Enge, und Enge bedeutet Belag an Stellen, die keine Zunge erreicht.</p>
   <p>Die Folgen gehen weit über Mundgeruch hinaus. Eine chronische Zahninfektion schwemmt fortlaufend Bakterien in die Blutbahn, und der Zusammenhang mit Herz-, Nieren- und Lebererkrankungen ist gut belegt. Ein Hund mit fortgeschrittener Parodontitis hat dauerhaft leichte Schmerzen, die er nicht mitteilen kann, und Besitzer beschreiben nach einer lange aufgeschobenen Zahnbehandlung regelmäßig einen völlig veränderten Hund.</p>
 
   <h2>Rassespezifische Besonderheiten</h2>
-  <p>Neben der Enge sind drei Punkte zu beachten. Persistierende Milchzähne, besonders die Fangzähne, sind häufig: steht ein Milchzahn noch, während der bleibende bereits durchgebrochen ist, muss er entfernt werden, weil beide zusammen Futterreste einklemmen und den bleibenden Zahn aus der Reihe drängen. Mit sieben Monaten sollte kein Milchzahn mehr vorhanden sein.</p>
+  <p>Neben der Enge sind drei Punkte zu beachten. Persistierende Milchzähne, besonders die Fangzähne, sind häufig: steht ein Milchzahn noch, während der bleibende bereits durchgebrochen ist, muss er entfernt werden, weil beide zusammen Futterreste einklemmen und den bleibenden Zahn aus der Reihe drängen. Mit 7 Monaten sollte kein Milchzahn mehr vorhanden sein.</p>
   <p>Der zweite Punkt ist die Bissanomalie. Ein korrektes Scherengebiss verteilt die Abnutzung gleichmäßig; ein Vorbiss, der in der Rasse vorkommt, führt zu ungleichmäßigem Abrieb und örtlicher Zahnfleischreizung. In der Zucht ist er zu vermeiden, beim vorhandenen Hund bedeutet er engere Kontrolle.</p>
   <p>Drittens, und am meisten unterschätzt: Zahnfrakturen durch ungeeignete Kauartikel. Dies ist ein außerordentlich kräftiger Kiefer an einem Hund mit ungewöhnlich hoher Schmerzschwelle, und die klassische Verletzung ist eine Absplitterung am oberen Reißzahn. Der Hund zeigt oft überhaupt kein Anzeichen.</p>
 
@@ -46,9 +46,9 @@ custom_content: |
   <p>Geeignet sind: Kauartikel aus Gummi, die unter Druck nachgeben, Zahnpflegeartikel mit nachgewiesener abrasiver Wirkung, Seilspielzeug unter Aufsicht und rohe Karotten, sofern die Ernährung es zulässt. Nichts davon ersetzt das Zähneputzen, und jedes Produkt, das damit wirbt, Putzen überflüssig zu machen, übertreibt.</p>
 
   <h2>Zähneputzen: das Einzige, was wirklich wirkt</h2>
-  <p>Belag mineralisiert innerhalb von etwa drei Tagen zu Zahnstein. Die mechanische Entfernung davor ist die einzige Maßnahme, die Parodontitis zuverlässig verhindert; alles andere ist Ergänzung.</p>
+  <p>Belag mineralisiert innerhalb von etwa 3 Tagen zu Zahnstein. Die mechanische Entfernung davor ist die einzige Maßnahme, die Parodontitis zuverlässig verhindert; alles andere ist Ergänzung.</p>
   <p>Täglich ist ideal, dreimal wöchentlich das realistische Minimum mit messbarem Effekt. Verwenden Sie eine Zahnpasta für Hunde, niemals menschliche Zahnpasta: sie enthält Fluorid und oft Xylit und ist giftig. Fingerbürste oder weiche Kinderzahnbürste funktionieren beide; die Bürste zählt weniger als die Regelmäßigkeit.</p>
-  <p>Führen Sie es über zwei Wochen langsam ein: erst die Paste vom Finger lecken lassen, dann nur die Außenflächen der Fangzähne berühren, dann nach hinten erweitern. Die Außenflächen sind entscheidend, weil die Zunge die Innenflächen relativ sauber hält. Dreißig Sekunden pro Seite, regelmäßig, schlagen fünf Minuten gelegentlich.</p>
+  <p>Führen Sie es über 2 Wochen langsam ein: erst die Paste vom Finger lecken lassen, dann nur die Außenflächen der Fangzähne berühren, dann nach hinten erweitern. Die Außenflächen sind entscheidend, weil die Zunge die Innenflächen relativ sauber hält. 30 Sekunden pro Seite, regelmäßig, schlagen 5 Minuten gelegentlich.</p>
 
   <h2>Ein Problem erkennen</h2>
   <p>Mundgeruch ist das erste Zeichen und dasjenige, das am häufigsten als normal abgetan wird. Er ist nicht normal. Weiter: gelbe oder braune Auflagerungen am Zahnfleischrand, gerötetes oder blutendes Zahnfleisch, einseitiges Kauen, Fallenlassen von Futter, Pfoten am Maul und Ablehnung eines zuvor beliebten Kauartikels.</p>
@@ -68,8 +68,8 @@ custom_content: |
   <p><strong>Darf ich im Notfall menschliche Zahnpasta nehmen?</strong> Unter keinen Umständen. Fluorid ist für Hunde giftig, und viele Zahnpasten enthalten Xylit, das schon in kleinen Mengen tödlich sein kann.</p>
 
   <h2>Eine realistische Routine</h2>
-  <p>Wöchentlich: Lefze heben und beide Seiten ansehen. Drei- bis siebenmal die Woche: Außenflächen putzen, dreißig Sekunden je Seite. Täglich: ein geeigneter Kauartikel, ausgewählt nach der Fingernagelregel. Jährlich: eine zahnärztliche Beurteilung beim Routinecheck — und danach handeln, statt zu verschieben.</p>
-  <p>Von Welpenalter an durchgeführt, kostet das etwa drei Minuten täglich und schenkt dem Hund Jahre beschwerdefreien Fressens. Mit sieben Jahren begonnen, ist es Schadensbegrenzung.</p>
+  <p>Wöchentlich: Lefze heben und beide Seiten ansehen. Drei- bis siebenmal die Woche: Außenflächen putzen, 30 Sekunden je Seite. Täglich: ein geeigneter Kauartikel, ausgewählt nach der Fingernagelregel. Jährlich: eine zahnärztliche Beurteilung beim Routinecheck — und danach handeln, statt zu verschieben.</p>
+  <p>Von Welpenalter an durchgeführt, kostet das etwa 3 Minuten täglich und schenkt dem Hund Jahre beschwerdefreien Fressens. Mit 7 Jahren begonnen, ist es Schadensbegrenzung.</p>
 
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>

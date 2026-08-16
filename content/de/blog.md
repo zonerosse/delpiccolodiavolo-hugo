@@ -306,7 +306,7 @@ custom_content: |
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">28 Apr 2026</span><span>•</span><span class="cat">Familie</span></div>
   <h3><a href="/de/staffordshire-bull-terrier-charakter-familienleben/" title="Lesen: Charakter und Familienleben">Staffordshire Bull Terrier: Charakter, Familienleben und Was Sie Erwarten Können</a></h3>
-  <p>Zwanzig Jahre direkte Erfahrung. Vor- und Nachteile und was Sie wirklich von einem Staffy erwarten können.</p>
+  <p>20 Jahre direkte Erfahrung. Vor- und Nachteile und was Sie wirklich von einem Staffy erwarten können.</p>
   <a class="read" href="/de/staffordshire-bull-terrier-charakter-familienleben/" title="Vollständigen Artikel lesen">Lesen →</a>
   </div>
   </article>

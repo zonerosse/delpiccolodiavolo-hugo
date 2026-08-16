@@ -101,7 +101,7 @@ custom_content: |
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>I primi 21 giorni: la fase neonatale</h3>
-  <p>Nelle prime tre settimane i cuccioli sono completamente dipendenti dalla madre. In questa fase monitoriamo attentamente la crescita, il peso e lo sviluppo di ogni cucciolo. La manipolazione delicata inizia fin dai primi giorni per abituare i cuccioli al contatto umano.</p>
+  <p>Nelle prime 3 settimane i cuccioli sono completamente dipendenti dalla madre. In questa fase monitoriamo attentamente la crescita, il peso e lo sviluppo di ogni cucciolo. La manipolazione delicata inizia fin dai primi giorni per abituare i cuccioli al contatto umano.</p>
   </div>
   <div class="zigzag-image">
   <img src="/images/cuccioli-bilquis-nati-2.webp" alt="Cuccioli Staffordshire Bull Terrier neri appena nati - fase neonatale" loading="lazy" decoding="async" width="468" height="480" style="height:auto">

@@ -306,7 +306,7 @@ custom_content: |
   <div class="faq-item">
   <h3 class="faq-question">Meglio cucciolo o adulto con bambini piccoli (2-5 anni)?</h3>
   <div class="faq-answer">
-  <p><strong>Con un cucciolo</strong> crescono insieme, il legame è più forte e lo socializzi specificamente ai tuoi bambini. Lo svantaggio è che richiede una gestione intensa, fra educazione e pulizia, mentre già stai gestendo dei bambini piccoli: per molte famiglie è troppo. <strong>Adulto 2+ anni:</strong> autocontrollo sviluppato, educazione base presente, predicibilità. Contro: storia pre-adozione può includere trigger sconosciuti. La nostra raccomandazione: con bambini sotto i quattro anni, valuta seriamente un adulto di temperamento già noto. Bambini 5+ con genitori esperti = cucciolo fattibile.</p>
+  <p><strong>Con un cucciolo</strong> crescono insieme, il legame è più forte e lo socializzi specificamente ai tuoi bambini. Lo svantaggio è che richiede una gestione intensa, fra educazione e pulizia, mentre già stai gestendo dei bambini piccoli: per molte famiglie è troppo. <strong>Adulto 2+ anni:</strong> autocontrollo sviluppato, educazione base presente, predicibilità. Contro: storia pre-adozione può includere trigger sconosciuti. La nostra raccomandazione: con bambini sotto i 4 anni, valuta seriamente un adulto di temperamento già noto. Bambini 5+ con genitori esperti = cucciolo fattibile.</p>
   </div>
   </div>
   
@@ -320,7 +320,7 @@ custom_content: |
   <div class="faq-item">
   <h3 class="faq-question">Il cane è geloso del bambino. Cosa faccio?</h3>
   <div class="faq-answer">
-  <p>Fai in modo che ogni volta che il bambino compare il cane riceva un premio, così costruisci un'associazione positiva. Riserva dieci-quindici minuti al giorno di tempo esclusivo fra te e il cane, senza il bambino. Coinvolgilo nella routine del piccolo, tenendolo sul suo tappetino durante il cambio o la nanna. E lavora sul comando "posto" per dargli ruolo specifico. Non isolare cane "perché c'è bambino" - aumenta frustrazione. Se gelosia include ringhio verso bambino: comportamentalista immediato.</p>
+  <p>Fai in modo che ogni volta che il bambino compare il cane riceva un premio, così costruisci un'associazione positiva. Riserva dieci-15 minuti al giorno di tempo esclusivo fra te e il cane, senza il bambino. Coinvolgilo nella routine del piccolo, tenendolo sul suo tappetino durante il cambio o la nanna. E lavora sul comando "posto" per dargli ruolo specifico. Non isolare cane "perché c'è bambino" - aumenta frustrazione. Se gelosia include ringhio verso bambino: comportamentalista immediato.</p>
   </div>
   </div>
   
@@ -341,7 +341,7 @@ custom_content: |
   <div class="faq-item">
   <h3 class="faq-question">Lo Staffy è troppo esuberante (salta addosso). Come calmo?</h3>
   <div class="faq-answer">
-  <p><strong>Nell'immediato:</strong> guinzaglio in casa quando i bambini sono presenti, un premio ogni volta che tiene le quattro zampe a terra, e "seduto" obbligatorio prima di ogni interazione — se non si siede, il bambino gli gira le spalle. <strong>Sul lungo periodo:</strong> più esercizio fisico prima dell'interazione con i bambini, dai trenta ai sessanta minuti, e lavoro sull'autocontrollo (seduto-resta con distrazioni), consistency da tutti familiari. Miglioramento in 2-4 settimane con applicazione costante.</p>
+  <p><strong>Nell'immediato:</strong> guinzaglio in casa quando i bambini sono presenti, un premio ogni volta che tiene le quattro zampe a terra, e "seduto" obbligatorio prima di ogni interazione — se non si siede, il bambino gli gira le spalle. <strong>Sul lungo periodo:</strong> più esercizio fisico prima dell'interazione con i bambini, dai trenta ai 60 minuti, e lavoro sull'autocontrollo (seduto-resta con distrazioni), consistency da tutti familiari. Miglioramento in 2-4 settimane con applicazione costante.</p>
   </div>
   </div>
   

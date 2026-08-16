@@ -52,7 +52,7 @@ custom_content: |
   <p>Read that way, a slightly light eye is a cosmetic matter. A muzzle so short that the dog overheats, a mouth so undershot that teeth do not meet, or a front so wide that the elbows cannot clear the ribcage, are welfare faults. A judge, and a breeder, should not treat them as equivalent.</p>
 
   <h2>What this means when you look at a litter</h2>
-  <p>You are not judging show potential at eight weeks, and any breeder who guarantees a champion is guessing. What you can assess is the parents: their proportion, their dentition, their movement, and above all how they breathe after exercise. Ask to see both parents move, not just stand. Ask to see them on a warm day if you can.</p>
+  <p>You are not judging show potential at 8 weeks, and any breeder who guarantees a champion is guessing. What you can assess is the parents: their proportion, their dentition, their movement, and above all how they breathe after exercise. Ask to see both parents move, not just stand. Ask to see them on a warm day if you can.</p>
   <p>A puppy from two parents who are typey, sound and comfortable in their own bodies is far more likely to become the same. That is the whole of what the standard is trying to protect.</p>
 
   <div class="article-footer"><a class="btn" href="/en/blog/">&larr; Back to Blog</a></div>

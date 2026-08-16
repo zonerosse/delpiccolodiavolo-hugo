@@ -48,21 +48,21 @@ custom_content: |
 
   <h2>Ausstellungsbetonung und ihr Preis</h2>
   <p>Manche Linien wurden vorrangig durch Ringerfolg geformt, und das hat in dieser Rasse Folgen, die man vor dem Kauf kennen sollte. Wo Richter schwereren Knochen, breitere Fronten und kürzere Fänge belohnt haben, entstehen Hunde, die großartig fotografieren und bei Wärme Mühe haben.</p>
-  <p>Wer einen Begleithund sucht, für den wiegt das schwerer als jeder Titel. Lassen Sie sich die Elterntiere in Bewegung zeigen, hören Sie ihre Atmung nach fünf Minuten Aktivität, und fragen Sie direkt, ob der Züchter die Atemqualität in seine Verpaarungen einbezieht. Die Antwort, und wie leicht sie kommt, sagt viel.</p>
+  <p>Wer einen Begleithund sucht, für den wiegt das schwerer als jeder Titel. Lassen Sie sich die Elterntiere in Bewegung zeigen, hören Sie ihre Atmung nach 5 Minuten Aktivität, und fragen Sie direkt, ob der Züchter die Atemqualität in seine Verpaarungen einbezieht. Die Antwort, und wie leicht sie kommt, sagt viel.</p>
 
   <h2>Den Züchter beurteilen, nicht die Ahnentafel</h2>
   <p>Eine Ahnentafel erzählt von Vorfahren. Der Züchter erzählt vom Welpen, den Sie tatsächlich bekommen. Diese Fragen bringen am meisten.</p>
   <p>Warum genau diese beiden Hunde? Wer ein Programm hat, antwortet mit dem, was jedes Elterntier einbringt, was verbessert werden sollte und welcher Kompromiss dafür akzeptiert wurde. Ohne Programm lautet die Antwort, dass beide schön sind.</p>
   <p>Was würden Sie an diesem Wurf ändern? Wer ehrlich ist, hat eine konkrete Antwort.</p>
-  <p>Wo leben die Welpen? Welpen, die in der Küche zwischen Haushaltsgeräuschen aufwachsen, sind mit acht Wochen deutlich besser sozialisiert als Welpen aus einem sauberen Außenzwinger, und der Unterschied bleibt.</p>
+  <p>Wo leben die Welpen? Welpen, die in der Küche zwischen Haushaltsgeräuschen aufwachsen, sind mit 8 Wochen deutlich besser sozialisiert als Welpen aus einem sauberen Außenzwinger, und der Unterschied bleibt.</p>
   <p>Was passiert, wenn es nicht funktioniert? Die richtige Antwort lautet, dass der Hund zum Züchter zurückkommt, in jedem Alter, aus jedem Grund, und dass es im Vertrag steht.</p>
 
   <h2>Linienzucht und wo die Grenze liegt</h2>
-  <p>Einen geschätzten Vorfahren in der Ahnentafel zu wiederholen festigt den Typ und ist ein legitimes Werkzeug jedes ernsthaften Programms. Zu weit getrieben kostet es Immunfunktion, Fruchtbarkeit und Lebenserwartung, und zwar für ein bis zwei Generationen unsichtbar.</p>
-  <p>Fragen Sie nach dem Inzuchtkoeffizienten über fünf Generationen und danach, wie der Züchter seine Grenze bestimmt. Wer ihn nie berechnet hat, ist nicht zwangsläufig nachlässig; wer die Frage abtut, sagt etwas aus.</p>
+  <p>Einen geschätzten Vorfahren in der Ahnentafel zu wiederholen festigt den Typ und ist ein legitimes Werkzeug jedes ernsthaften Programms. Zu weit getrieben kostet es Immunfunktion, Fruchtbarkeit und Lebenserwartung, und zwar für ein bis 2 Generationen unsichtbar.</p>
+  <p>Fragen Sie nach dem Inzuchtkoeffizienten über 5 Generationen und danach, wie der Züchter seine Grenze bestimmt. Wer ihn nie berechnet hat, ist nicht zwangsläufig nachlässig; wer die Frage abtut, sagt etwas aus.</p>
 
   <h2>Worauf Sie bei den Welpen selbst achten</h2>
-  <p>Mit acht Wochen beurteilen Sie Tendenzen, keine Ergebnisse. Achten Sie auf Welpen, die sich von einer Überraschung schnell erholen, die nach kurzem Zögern auf einen Fremden zugehen statt zurückzuweichen, und die es einige Sekunden ohne Panik aushalten, auf dem Rücken gehalten zu werden.</p>
+  <p>Mit 8 Wochen beurteilen Sie Tendenzen, keine Ergebnisse. Achten Sie auf Welpen, die sich von einer Überraschung schnell erholen, die nach kurzem Zögern auf einen Fremden zugehen statt zurückzuweichen, und die es einige Sekunden ohne Panik aushalten, auf dem Rücken gehalten zu werden.</p>
   <p>Wählen Sie nicht den forschesten Welpen, nur weil er als Erster zu Ihnen kommt — der häufigste Fehler. Das selbstsichere Mittelfeld eines Wurfes passt zur überwiegenden Mehrheit der Familien weit besser als beide Extreme, und ein guter Züchter lenkt Sie dorthin. Tatsächlich wählt ein guter Züchter den Welpen für Sie aus, statt Sie wählen zu lassen, und das sollte beruhigen statt zu ärgern.</p>
 
   <h2>Warnzeichen beim Vergleich von Zwingern</h2>

@@ -43,15 +43,15 @@ custom_content: |
   <p>Kurz gesagt: Kontakt mit der Welt ja, ab dem ersten Tag. Kontakt mit dem Kot unbekannter Hunde nein, bis die Immunisierung steht.</p>
 
   <h2>Vorbereitung zu Hause</h2>
-  <p>Beginnen Sie drinnen. Lassen Sie den Welpen jeweils wenige Minuten ein flaches Halsband und ein Y-Geschirr tragen, während etwas Angenehmes geschieht, bis er beides nicht mehr beachtet. Hängen Sie eine leichte Leine an und lassen Sie sie beim Spielen schleifen. Erst dann nehmen Sie die Leine auf und gehen drei Meter durch den Flur.</p>
+  <p>Beginnen Sie drinnen. Lassen Sie den Welpen jeweils wenige Minuten ein flaches Halsband und ein Y-Geschirr tragen, während etwas Angenehmes geschieht, bis er beides nicht mehr beachtet. Hängen Sie eine leichte Leine an und lassen Sie sie beim Spielen schleifen. Erst dann nehmen Sie die Leine auf und gehen 3 Meter durch den Flur.</p>
   <p>Wählen Sie zum Führen ein Geschirr statt eines Halsbands. Diese Rasse zieht, und der Druck eines Halsbands auf die Luftröhre eines wachsenden Welpen ist vermeidbar. Ein gut sitzendes Y-Geschirr mit Brustring verändert die Zugrichtung und macht die Sache für beide Seiten leichter.</p>
 
   <h2>Der erste Gang nach draußen</h2>
-  <p>Wählen Sie eine ruhige Straße, eine ruhige Uhrzeit und planen Sie fünf Minuten, nicht dreißig. Lassen Sie den Welpen das Tempo bestimmen, einschließlich der langen Minuten an einem einzelnen Geländer. Schnüffeln ist keine verlorene Zeit: so sammelt der Hund Informationen, und es ermüdet ihn wirksamer als Bewegung.</p>
+  <p>Wählen Sie eine ruhige Straße, eine ruhige Uhrzeit und planen Sie 5 Minuten, nicht dreißig. Lassen Sie den Welpen das Tempo bestimmen, einschließlich der langen Minuten an einem einzelnen Geländer. Schnüffeln ist keine verlorene Zeit: so sammelt der Hund Informationen, und es ermüdet ihn wirksamer als Bewegung.</p>
   <p>Wundern Sie sich nicht, wenn der Welpe sich hinsetzt und nicht weitergeht. Das ist sehr häufig und keine Sturheit, sondern ein kleines Tier, überwältigt von einer noch nie dagewesenen Menge an Eindrücken. Gehen Sie in die Hocke, warten Sie, bieten Sie ein Leckerchen an und lassen Sie ihn selbst wieder starten. Einen ängstlichen Welpen vorwärtszuziehen lehrt ihn, dass die Leine Zwang bedeutet, und diese Lektion ist teuer rückgängig zu machen.</p>
 
   <h2>Dauer und Wachstumsfugen</h2>
-  <p>Es gilt die Fünf-Minuten-Regel: etwa fünf Minuten geführter Spaziergang je Lebensmonat, zweimal täglich. Drei Monate, fünfzehn Minuten; vier Monate, zwanzig. Das ist keine Vorsicht um ihrer selbst willen. Die Wachstumsfugen schließen sich bei dieser Rasse zwischen dem zehnten und vierzehnten Monat, und wiederholte Belastung davor verursacht Schäden, die erst Jahre später als Gelenkerkrankung sichtbar werden.</p>
+  <p>Es gilt die Fünf-Minuten-Regel: etwa 5 Minuten geführter Spaziergang je Lebensmonat, zweimal täglich. 3 Monate, 15 Minuten; 4 Monate, 20. Das ist keine Vorsicht um ihrer selbst willen. Die Wachstumsfugen schließen sich bei dieser Rasse zwischen dem zehnten und vierzehnten Monat, und wiederholte Belastung davor verursacht Schäden, die erst Jahre später als Gelenkerkrankung sichtbar werden.</p>
   <p>Freies Spiel im Garten, bei dem der Welpe selbst aufhört, ist etwas anderes und darf großzügiger sein. Zu vermeiden sind lange Wege auf hartem Untergrund, Herunterspringen, wiederholtes Treppensteigen und Laufen neben dem Fahrrad.</p>
 
   <h2>Woran der Welpe gezielt gewöhnt werden sollte</h2>
@@ -70,7 +70,7 @@ custom_content: |
   <p><strong>Mein Welpe setzt sich hin und geht nicht weiter.</strong> Warten. Gehen Sie in die Hocke, bleiben Sie entspannt und lassen Sie ihn selbst losgehen. Das legt sich nach wenigen Gängen, wenn Sie nie ziehen, und bleibt bestehen, wenn Sie es tun.</p>
   <p><strong>Halsband oder Geschirr?</strong> Geschirr zum Führen, Halsband zur Kennzeichnung. Ein Y-Geschirr, das die Schulter frei lässt, mit Brustring, ist für eine kräftige Rasse die beste Kombination.</p>
   <p><strong>Darf mein Welpe fremde Hunde treffen?</strong> Nur ruhige, gesunde, geimpfte Erwachsene, deren Halter Sie vorher fragen können. Eine unkontrollierte Begegnung mit einem reaktiven Hund kann einen Welpen um ein Jahr zurückwerfen.</p>
-  <p><strong>Ab wann sind richtige Spaziergänge möglich?</strong> Steigern Sie langsam und rechnen Sie mit voller Länge ab etwa zwölf bis vierzehn Monaten, wenn die Wachstumsfugen geschlossen sind.</p>
+  <p><strong>Ab wann sind richtige Spaziergänge möglich?</strong> Steigern Sie langsam und rechnen Sie mit voller Länge ab etwa 12 bis 14 Monaten, wenn die Wachstumsfugen geschlossen sind.</p>
 
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>

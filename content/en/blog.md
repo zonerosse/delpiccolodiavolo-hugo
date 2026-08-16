@@ -306,7 +306,7 @@ custom_content: |
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">28 Apr 2026</span><span>•</span><span class="cat">Family</span></div>
   <h3><a href="/en/staffordshire-bull-terrier-character-family-life/" title="Read: Character and family life">Staffordshire Bull Terrier: Character, Family Life and What to Expect</a></h3>
-  <p>Twenty years of direct experience. Pros, cons and what to really expect from a Staffy.</p>
+  <p>20 years of direct experience. Pros, cons and what to really expect from a Staffy.</p>
   <a class="read" href="/en/staffordshire-bull-terrier-character-family-life/" title="Read full article">Read →</a>
   </div>
   </article>

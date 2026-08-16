@@ -42,8 +42,8 @@ custom_content: |
 
   <h2>Alter für Alter</h2>
   <p><strong>Säuglinge und Kleinkinder.</strong> Räumliche Trennung, wenn niemand beaufsichtigt, immer. Arbeiten Sie mit Türgittern statt mit Kommandos. Lassen Sie den Hund das neue Familienmitglied aus Distanz beobachten und belohnen Sie Ruhe, statt ihn auszuschließen — Ausschluss erzeugt Groll auf die Anwesenheit des Kindes.</p>
-  <p><strong>Drei bis sechs Jahre.</strong> Das Alter mit dem höchsten Risiko, weil das Kind mobil und laut ist und überzeugt, der Hund möge alles, was es selbst mag. Drei Regeln, ausnahmslos durchgesetzt: den Hund beim Fressen nie stören, den Hund auf seinem Platz nie bedrängen, den Hund nie um den Hals umarmen.</p>
-  <p><strong>Sieben bis elf Jahre.</strong> Das beste Alter, um das Kind in Pflege und Training einzubeziehen. Füttern, bürsten und einfache Übungen unter Aufsicht — die hier entstehende Bindung hält meist ein Leben lang.</p>
+  <p><strong>3 bis 6 Jahre.</strong> Das Alter mit dem höchsten Risiko, weil das Kind mobil und laut ist und überzeugt, der Hund möge alles, was es selbst mag. Drei Regeln, ausnahmslos durchgesetzt: den Hund beim Fressen nie stören, den Hund auf seinem Platz nie bedrängen, den Hund nie um den Hals umarmen.</p>
+  <p><strong>7 bis 11 Jahre.</strong> Das beste Alter, um das Kind in Pflege und Training einzubeziehen. Füttern, bürsten und einfache Übungen unter Aufsicht — die hier entstehende Bindung hält meist ein Leben lang.</p>
   <p><strong>Jugendliche.</strong> Können den Hund allein führen, wenn sie kräftig genug sind, ihn zu halten, und urteilsfähig genug, Konfrontationen mit anderen Hunden zu vermeiden. Kraft allein genügt nicht.</p>
 
   <h2>Nicht nur den Hund erziehen, sondern auch das Kind</h2>

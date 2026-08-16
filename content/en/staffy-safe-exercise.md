@@ -37,17 +37,17 @@ custom_content: |
   </div>
   
   <h2>How much exercise this breed actually needs</h2>
-  <p>The Staffordshire Bull Terrier is an athletic dog in a compact frame, and its needs are frequently misjudged in both directions. It is not a breed that requires two hours of running a day, and it is not a lapdog that can be satisfied with a walk around the block.</p>
+  <p>The Staffordshire Bull Terrier is an athletic dog in a compact frame, and its needs are frequently misjudged in both directions. It is not a breed that requires 2 hours of running a day, and it is not a lapdog that can be satisfied with a walk around the block.</p>
   <p>For a healthy adult, count on roughly sixty to ninety minutes a day in total, split into at least two outings, with a mix of steady walking, some free movement and a component of mental work. A dog that gets only physical exercise and no thinking is a dog that stays wound up.</p>
 
   <h2>Puppies: the five-minute rule and why it matters</h2>
-  <p>Growth plates in this breed close between ten and fourteen months, and until they do, joints are vulnerable to damage that will not be visible for years. The traditional guideline is five minutes of formal walking per month of age, twice a day: ten minutes at two months, twenty at four, thirty at six.</p>
+  <p>Growth plates in this breed close between 10 and 14 months, and until they do, joints are vulnerable to damage that will not be visible for years. The traditional guideline is 5 minutes of formal walking per month of age, twice a day: 10 minutes at 2 months, 20 at 4, 30 at 6.</p>
   <p>Free play in a garden, where the puppy sets its own pace and stops when tired, is different and can be more generous. What must be avoided until the growth plates close is repetitive high-impact work: long runs on hard ground, jumping down from furniture or car boots, stairs used many times a day, and any organised jumping.</p>
   <p>This is the single most common mistake we see in new owners, and it is made with the best intentions by people who think they are giving the puppy enough.</p>
 
   <h2>Heat: the risk that actually kills</h2>
   <p>This is the section that matters most. The Staffordshire Bull Terrier has a shortened muzzle relative to many breeds, a dense muscular body and a dark coat in many individuals. It dissipates heat poorly, and heatstroke in this breed develops faster than most owners expect.</p>
-  <p>Above roughly twenty-two degrees with high humidity, cancel the middle of the day entirely and walk early morning and late evening. Test the tarmac with the back of your hand for five seconds: if you cannot hold it, the dog cannot walk on it. Carry water on every summer outing, not only long ones.</p>
+  <p>Above roughly twenty-two degrees with high humidity, cancel the middle of the day entirely and walk early morning and late evening. Test the tarmac with the back of your hand for 5 seconds: if you cannot hold it, the dog cannot walk on it. Carry water on every summer outing, not only long ones.</p>
   <p>The early signs are heavy noisy panting that does not settle, a bright red tongue, thick saliva, and reluctance to continue. At that point stop, move to shade, and cool the dog with water at ambient temperature on the belly, groin and paws, not ice water. Heatstroke is a veterinary emergency and a dog that has recovered on the spot still needs to be seen.</p>
 
   <h2>What suits the breed, and what does not</h2>
@@ -56,11 +56,11 @@ custom_content: |
   <p>The frisbee and the ball launcher are the two pieces of equipment we most often ask new owners to put away.</p>
 
   <h2>Mental work is not optional</h2>
-  <p>A Staffordshire Bull Terrier that is physically tired but mentally idle will find its own entertainment, usually at the expense of your furniture. Ten minutes of nose work, a food puzzle, or a short training session teaching something genuinely new tires this breed more effectively than another kilometre of walking.</p>
+  <p>A Staffordshire Bull Terrier that is physically tired but mentally idle will find its own entertainment, usually at the expense of your furniture. 10 minutes of nose work, a food puzzle, or a short training session teaching something genuinely new tires this breed more effectively than another kilometre of walking.</p>
   <p>Scattering the daily ration in the grass and letting the dog find it takes no preparation and works remarkably well.</p>
 
   <h2>Adjusting for age and condition</h2>
-  <p>From about eight years old, keep the total duration but reduce the intensity: more frequent, shorter, gentler outings, and warm-up time before anything vigorous. Dogs with any degree of hip or elbow dysplasia benefit particularly from swimming and from a stable weight, which is the cheapest and most effective joint treatment available.</p>
+  <p>From about 8 years old, keep the total duration but reduce the intensity: more frequent, shorter, gentler outings, and warm-up time before anything vigorous. Dogs with any degree of hip or elbow dysplasia benefit particularly from swimming and from a stable weight, which is the cheapest and most effective joint treatment available.</p>
   <p>On weight: this breed carries excess kilos in a way that is easy to miss under muscle. You should be able to feel the ribs easily with flat hands, and see a waist from above. An overweight Staffy loses years of comfortable movement, and the loss is invisible until it is advanced.</p>
 
   <div class="article-footer">

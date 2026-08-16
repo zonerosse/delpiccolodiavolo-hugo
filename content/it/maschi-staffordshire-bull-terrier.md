@@ -48,7 +48,7 @@ custom_content: |
   
   <div class="intro-block">
   <p>Nel nostro allevamento la <strong>salute genetica</strong> viene prima di tutto. Ogni maschio riproduttore è sottoposto a screening completo prima di entrare nel programma.</p>
-  <p style="margin-top:1rem">Un maschio riproduttore pesa molto più di una femmina sul futuro di una linea: una femmina produce due o tre cucciolate in tutta la vita, un maschio può essere padre di decine di cuccioli. Per questo il criterio di ammissione è più severo, non più permissivo.</p>
+  <p style="margin-top:1rem">Un maschio riproduttore pesa molto più di una femmina sul futuro di una linea: una femmina produce 2 o 3 cucciolate in tutta la vita, un maschio può essere padre di decine di cuccioli. Per questo il criterio di ammissione è più severo, non più permissivo.</p>
   <p style="margin-top:1rem">Guardiamo tre cose, in quest'ordine. Il <strong>carattere</strong>: un soggetto insicuro o reattivo non entra nel programma, per quanto sia corretto nella morfologia, perché un difetto caratteriale si propaga per generazioni e si manifesta nelle case delle famiglie. La <strong>respirazione</strong>: un cane che fatica dopo pochi minuti di trotto o soffre al primo caldo ha un problema di benessere, indipendentemente da quanti titoli abbia. E la <strong>tipicità senza esagerazioni</strong>: testa corretta e ossatura solida, ma non a scapito della funzionalità.</p>
   <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">I nostri maschi sono testati per:</p>
   <p>✓ <strong>L2HGA</strong> — Aciduria L-2-Idrossiglutarica<br>
