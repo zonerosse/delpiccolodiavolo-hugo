@@ -22,7 +22,7 @@ custom_content: |
   <!--HEROFOTO-->
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">4,9 bei 37 Bewertungen</span>
+  <span class="hero-eyebrow">4,9 bei 38 Bewertungen</span>
   <h1 class="hero-title">Staffordshire <br><em>Bull Terrier</em> <br>Zucht</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo - Selektion, Gesundheit und Charakter</p>
   <p class="hero-description">Wenn Sie an eine Staffordshire Bull Terrier Zucht denken, stellen Sie sich ordentliche Boxen und identische Welpen vor? Bei uns ist es anders. Jeder Hund hat einen Namen, eine Geschichte, einen Charakter. Wir züchten nicht in Serie: Wir pflegen Beziehungen, Erinnerungen und unvergessliche Momente.</p>
