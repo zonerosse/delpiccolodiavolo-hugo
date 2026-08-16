@@ -90,6 +90,8 @@ custom_content: |
   <h3 style="margin-top:1.6rem">Come riconoscere un allevamento che non lo è</h3>
   <p>Chiedi i certificati di laboratorio di entrambi i genitori, come documento, con nomi dei cani e numeri di microchip leggibili. Un allevatore serio li manda senza esitare, spesso prima che tu li chieda. Diffida invece di: cucciolate sempre disponibili o più cucciolate insieme; prezzi che cambiano in base al colore del mantello; certificati promessi dopo l'acconto; risultati mostrati solo come fotografia sullo schermo; e la frase «i genitori sono sani, non abbiamo mai avuto problemi», che risponde a una domanda diversa. Un altro segnale, meno ovvio: <strong>se non ti fanno nessuna domanda, non aspettarti che riprendano il cane se un giorno ti servisse.</strong></p>
 
+  <p><strong>Sul pedigree, una precisazione.</strong> L'ENCI certifica l'ascendenza, non chi alleva: è necessario, non sufficiente. Vale la pena aggiungere una cosa che sorprende chi si affaccia alla razza — molti dei cani che vincono nei ring europei non vengono da strutture, ma da case dove vivono due o tre soggetti. Le dimensioni non dicono niente sulla qualità, in nessuna delle due direzioni.</p>
+
   </div>
   </div>
   </section>
