@@ -8,3 +8,4 @@ static/images/cuccioli-staffy.jpg
 static/images/intera-cucciolata-nell'erba.png
 static/images/nora.jpg
 static/images/tikus-bologna.jpeg
+static/robots.txt

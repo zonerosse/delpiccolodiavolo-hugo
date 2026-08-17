@@ -232,7 +232,7 @@ custom_content: |
 
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Quando posso portare a casa il cucciolo?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quando posso portare a casa il cucciolo?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">I cuccioli lasciano il nostro allevamento a 60 giorni minimo, come previsto dalla legge italiana. A questa età sono completamente vaccinati, sverminati, con microchip e tutta la documentazione in regola.</div>
@@ -240,7 +240,7 @@ custom_content: |
 
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Cosa include il prezzo del cucciolo?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Cosa include il prezzo del cucciolo?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Il prezzo include: pedigree ENCI, microchip registrato, libretto sanitario con vaccinazioni, certificati test genetici dei genitori (L2HGA, HC, PHPV), documentazione fotografica e supporto post-adozione a vita. Nessun extra nascosto.</div>
@@ -248,7 +248,7 @@ custom_content: |
 
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Quanto costa un cucciolo Staffordshire Bull Terrier?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quanto costa un cucciolo Staffordshire Bull Terrier?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">I nostri cuccioli con pedigree ENCI e test genetici completi costano tra 1.200 e 1.500 euro. Il prezzo riflette anni di selezione, costi dei test genetici e la cura dedicata a ogni cucciolo. Diffidate di prezzi sotto i 1.000€.</div>
@@ -256,7 +256,7 @@ custom_content: |
 
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Posso visitare l'allevamento prima di decidere?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Posso visitare l'allevamento prima di decidere?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Assolutamente sì, anzi lo consiglio caldamente. Ricevo su appuntamento a Ostellato (Ferrara). Vedrete i genitori, i cuccioli, i certificati e l'ambiente in cui crescono. Nessun acquisto dovrebbe avvenire senza visita.</div>

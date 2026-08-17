@@ -127,7 +127,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Lo Staffordshire Bull Terrier è pericoloso o aggressivo?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Lo Staffordshire Bull Terrier è pericoloso o aggressivo?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">No, lo Staffordshire Bull Terrier ben selezionato e socializzato non è pericoloso. Da più di 12 anni allevo questa razza e posso garantire che con selezione seria del carattere, socializzazione precoce e proprietari responsabili, lo Staffy è un cane affettuoso e stabile. L'aggressività dipende da genetica, educazione e ambiente, non dalla razza.</div>
@@ -135,7 +135,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Lo Staffordshire Bull Terrier è adatto ai bambini?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Lo Staffordshire Bull Terrier è adatto ai bambini?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Assolutamente sì. Lo Staffordshire Bull Terrier è tradizionalmente chiamato "nanny dog" per la sua straordinaria pazienza con i bambini. Nel nostro allevamento selezioniamo caratteri equilibrati e stabili, perfetti per famiglie. I nostri Staffy crescono a contatto con bambini, sviluppando naturalmente dolcezza e protezione.</div>
@@ -143,7 +143,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Quanto costa un cucciolo con pedigree ENCI?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quanto costa un cucciolo con pedigree ENCI?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Un <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cucciolo</a> da allevamento serio con pedigree ENCI, test genetici completi e garanzie sulla salute costa indicativamente tra 1.200€ e 1.500€. Il prezzo riflette anni di selezione, costi dei test genetici (L2HGA, HC), vaccinazioni, microchip e alimentazione di qualità. Diffidate di prezzi sotto i 1.000€.</div>
@@ -151,7 +151,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Quali test genetici fate sui riproduttori?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quali test genetici fate sui riproduttori?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Tutti i nostri riproduttori sono testati per: L2HGA (Aciduria L-2-Idrossiglutarica), HC (Cataratta Ereditaria) e PHPV (anomalia oculare). I test sono fondamentali per produrre cuccioli sani. Ogni cucciolo viene ceduto con certificati dei test dei genitori.</div>
@@ -159,7 +159,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>A che età posso portare a casa il cucciolo?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">A che età posso portare a casa il cucciolo?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">I <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli</a> vengono ceduti dopo i 60 giorni di età, come previsto dalla legge italiana. Questo periodo è fondamentale: nelle prime 8 settimane il cucciolo impara dalla madre le basi della comunicazione canina e l'autocontrollo. Cedere prima è illegale e dannoso.</div>
@@ -167,7 +167,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Lo Staffy va d'accordo con altri cani?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Lo Staffy va d'accordo con altri cani?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Sì, se ben socializzato da cucciolo. I nostri cuccioli crescono a contatto con altri cani adulti equilibrati, imparando la comunicazione corretta. Con socializzazione precoce e continua, lo Staffy è socievole e giocherellone. Molti nostri Staffy vivono felicemente con altri cani.</div>
@@ -175,7 +175,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Differenza tra Staffy e Amstaff?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Differenza tra Staffy e Amstaff?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Sono due razze diverse riconosciute FCI. Lo Staffordshire Bull Terrier (Staffy inglese) è più piccolo: maschi 35-40 cm per 12-17 kg. L'American Staffordshire Terrier (Amstaff) è più grande: maschi 43-48 cm per 25-30 kg. Lo Staffy mantiene il carattere "nanny dog" perfetto per famiglie.</div>
@@ -183,7 +183,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Quanto vive uno Staffordshire Bull Terrier?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quanto vive uno Staffordshire Bull Terrier?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Lo Staffordshire Bull Terrier ben selezionato vive mediamente 12-14 anni. È una razza robusta e longeva. Le principali patologie ereditarie (L2HGA, HC) sono evitabili con test genetici sui riproduttori. I nostri cani spesso superano i 13 anni.</div>
@@ -191,7 +191,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Come riconoscere un allevamento serio?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Come riconoscere un allevamento serio?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Un allevamento serio deve avere: pedigree ENCI originale, test genetici documentati, cuccioli cresciuti in casa, possibilità di visitare e vedere la madre, massimo 1-2 cucciolate/anno per fattrice, supporto post-vendita. Diffidate di chi vende sotto i 1.000€ o non mostra i test. Scopri il nostro <a href="/" title="Allevamento Staffordshire Bull Terrier">allevamento Staffordshire Bull Terrier</a>.</div>
@@ -199,7 +199,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Che alimentazione serve allo Staffy?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Che alimentazione serve allo Staffy?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Alimentazione bilanciata e controllata per mantenere muscolatura senza ingrassare. Opzioni: crocchette di alta qualità (proteine 26-30%), dieta BARF o casalinga bilanciata. Lo Staffy è goloso: attenzione agli extra. Peso ideale maschi 14-16 kg, femmine 11-14 kg.</div>
@@ -207,7 +207,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Posso visitare l'allevamento?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Posso visitare l'allevamento?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Assolutamente sì, anzi lo consiglio caldamente. Nel nostro allevamento a Ostellato (Ferrara) ricevo su appuntamento. Vedrete i cani adulti, come vivono i cuccioli, potrete verificare documentazione e pedigree. Diffidate di chi non permette visite.</div>
@@ -215,7 +215,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Lo Staffy ha bisogno di molto esercizio?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Lo Staffy ha bisogno di molto esercizio?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">È un cane energico che necessita esercizio regolare ma non eccessivo: 2 passeggiate giornaliere (30-40 minuti), giochi interattivi, attività mentale. È perfetto per chi vuole un cane attivo ma gestibile, adatto anche alla vita in appartamento.</div>
@@ -223,7 +223,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Lo Staffy perde molto pelo?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Lo Staffy perde molto pelo?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">No, perde pochissimo pelo. Ha mantello corto, liscio e facile da gestire. La perdita avviene principalmente durante le mute stagionali ma è molto contenuta. Bastano spazzolature settimanali e bagni ogni 2-3 mesi.</div>
@@ -231,7 +231,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>È difficile addestrare uno Staffy?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">È difficile addestrare uno Staffy?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">No, è intelligente e desideroso di compiacere. Risponde molto bene al rinforzo positivo: premi, cibo, gioco. Può essere un po' testardo, quindi serve fermezza gentile. I comandi base si apprendono velocemente. Evitate metodi coercitivi.</div>
@@ -239,7 +239,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Lo Staffy può vivere in appartamento?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Lo Staffy può vivere in appartamento?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Assolutamente sì, si adatta perfettamente. Ciò che conta non sono i metri quadri ma la qualità del tempo insieme e le uscite regolari. È silenzioso, non abbaia molto, ed è naturalmente pulito. Preferisce vivere dentro casa con la famiglia.</div>
@@ -247,7 +247,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Qual è il carattere tipico dello Staffy?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Qual è il carattere tipico dello Staffy?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Carattere straordinario: affettuoso, leale, coraggioso, paziente e giocherellone. Estremamente orientato alle persone, adora stare con la famiglia. Con i bambini è paziente e gentile. Ha un lato buffo e clownesco. È intelligente e sensibile.</div>
@@ -255,7 +255,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Lo Staffy abbaia molto?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Lo Staffy abbaia molto?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">No, è generalmente silenzioso. Abbaia solo quando c'è una ragione: qualcuno alla porta, un rumore strano. Questo lo rende perfetto per appartamento. Comunica più con il linguaggio del corpo che con la voce.</div>
@@ -263,7 +263,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Posso lasciare lo Staffy da solo in casa?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Posso lasciare lo Staffy da solo in casa?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Sì, se abituato gradualmente, ma non per periodi troppo lunghi. Può stare da solo 4-6 ore al massimo. È molto legato alla famiglia e soffre l'isolamento prolungato. Se lavorate tutto il giorno, valutate un dog sitter.</div>
@@ -271,7 +271,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Lo Staffy soffre il caldo o il freddo?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Lo Staffy soffre il caldo o il freddo?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Ha pelo corto senza sottopelo, quindi è sensibile a entrambi. Inverno: cappottino sotto i 5°C. Estate: ombra, acqua fresca, passeggiate nelle ore fresche. Non lasciare mai in auto al sole. Deve dormire sempre in casa.</div>
@@ -279,7 +279,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Quanto costa mantenere uno Staffy all'anno?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quanto costa mantenere uno Staffy all'anno?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Circa 800-1.500€/anno: alimentazione 300-600€, veterinario ordinario 150-250€, assicurazione 150-300€, accessori 100-150€. Non richiede toelettature costose. Considerando 12-14 anni di vita, il costo totale è circa 12.000-20.000€.</div>
@@ -287,7 +287,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Quali risultati avete ottenuto in esposizione?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quali risultati avete ottenuto in esposizione?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Abbiamo allevato 2 Campioni Italiani di Bellezza e 1 Giovane Campione Italiano. Bilquis ha stabilito un record con 12 esposizioni consecutive Eccellente 1°, diventando Campionessa ancora in Classe Intermedia. Tutti i cani sono nati e cresciuti da noi.</div>
@@ -295,7 +295,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Vale la pena venire da Milano o Firenze per un cucciolo?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Vale la pena venire da Milano o Firenze per un cucciolo?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Assolutamente si. Molti nostri clienti vengono da Milano (2h 30), Firenze (1h 45), Venezia, Roma. Un cucciolo vi accompagnera per 12-14 anni: vale la pena fare qualche ora di viaggio per scegliere con calma, vedere i genitori e iniziare una relazione di fiducia con l'allevatore.</div>
@@ -303,7 +303,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Cosa significa che i cuccioli sono socializzati?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Cosa significa che i cuccioli sono socializzati?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">I nostri <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli</a> crescono in casa, non in box esterni. Dalle prime settimane sono esposti a rumori domestici (aspirapolvere, televisione, campanello), superfici diverse, persone di tutte le eta, altri cani adulti equilibrati. Questo periodo critico (3-16 settimane) forma un carattere stabile e sicuro.</div>
@@ -311,7 +311,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Fornite assistenza dopo l'acquisto del cucciolo?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Fornite assistenza dopo l'acquisto del cucciolo?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Si, assistenza a vita. Restiamo disponibili per consigli su alimentazione, educazione, salute. Molti clienti ci contattano anche dopo anni. Crediamo che vendere un cucciolo sia l'inizio di una relazione, non la fine di una transazione.</div>
@@ -319,7 +319,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Perche non spedite i cuccioli?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Perche non spedite i cuccioli?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Crediamo nel ritiro di persona perche permette di vedere l'ambiente di crescita, conoscere i genitori, ricevere tutte le istruzioni dal vivo. E anche un modo per selezionare famiglie realmente motivate. In casi eccezionali valutiamo consegne personalizzate.</div>
@@ -327,7 +327,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Lo Staffy e adatto come primo cane?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Lo Staffy e adatto come primo cane?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Si, con la giusta preparazione. E un cane che perdona gli errori, molto orientato al proprietario e desideroso di compiacere. Consiglio sempre di informarsi bene prima (il nostro blog ha molte guide) e di frequentare un corso di educazione base. Con impegno e costanza, anche un neofita puo gestirlo benissimo.</div>
@@ -335,7 +335,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Quali linee di sangue selezionate?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quali linee di sangue selezionate?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Lavoriamo principalmente con linee inglesi e irlandesi: Elitebull e Lackyle. Queste linee sono rinomate per tipicita, salute e carattere equilibrato. Nei nostri pedigree troverete campioni inglesi e soggetti provenienti dai migliori allevamenti europei.</div>

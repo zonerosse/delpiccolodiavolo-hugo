@@ -38,7 +38,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Is the Staffordshire Bull Terrier dangerous or aggressive?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is the Staffordshire Bull Terrier dangerous or aggressive?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">No, a well-selected and socialized Staffordshire Bull Terrier is not dangerous. I've been breeding this breed for over 12 years and can guarantee that with serious character selection, early socialization and responsible owners, the Staffy is an affectionate and stable dog. Aggression depends on genetics, education and environment, not the breed.</div>
@@ -46,7 +46,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Is the Staffordshire Bull Terrier suitable for children?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is the Staffordshire Bull Terrier suitable for children?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Absolutely yes. The Staffordshire Bull Terrier is traditionally called "nanny dog" for its extraordinary patience with children. In our kennel we select balanced and stable characters, perfect for families. Our Staffies grow up in contact with children, naturally developing gentleness and protectiveness.</div>
@@ -54,7 +54,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>How much does a puppy with ENCI pedigree cost?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How much does a puppy with ENCI pedigree cost?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">A puppy from a serious breeder with ENCI pedigree, complete genetic testing and health guarantees costs approximately €1,400 to €2,000. The price reflects years of selection, genetic testing costs (L2HGA, HC), vaccinations, microchip and quality nutrition. Be wary of prices under €1,000.</div>
@@ -62,7 +62,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>What genetic tests do you perform on breeding dogs?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What genetic tests do you perform on breeding dogs?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">All our breeding dogs are tested for: L2HGA (L-2-Hydroxyglutaric Aciduria), HC (Hereditary Cataracts) and PHPV (eye anomaly). Testing is essential to produce healthy puppies. Every puppy is sold with certificates of the parents' tests.</div>
@@ -70,7 +70,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>At what age can I take the puppy home?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">At what age can I take the puppy home?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Puppies are placed after 60 days of age, as required by Italian law. This period is essential: in the first 8 weeks the puppy learns from the mother the basics of canine communication and self-control. Placing earlier is illegal and harmful.</div>
@@ -78,7 +78,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Does the Staffy get along with other dogs?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Does the Staffy get along with other dogs?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Yes, if well socialized from puppyhood. Our puppies grow up in contact with other balanced adult dogs, learning proper communication. With early and continuous socialization, the Staffy is sociable and playful. Many of our Staffies live happily with other dogs.</div>
@@ -86,7 +86,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Difference between Staffy and Amstaff?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Difference between Staffy and Amstaff?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">They are two different FCI-recognized breeds. The Staffordshire Bull Terrier (English Staffy) is smaller: males 35-40 cm at 12-17 kg. The American Staffordshire Terrier (Amstaff) is larger: males 43-48 cm at 25-30 kg. The Staffy maintains the "nanny dog" character perfect for families.</div>
@@ -94,7 +94,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>How long does a Staffordshire Bull Terrier live?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How long does a Staffordshire Bull Terrier live?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">A well-selected Staffordshire Bull Terrier lives on average 12-14 years. It's a robust and long-lived breed. The main hereditary conditions (L2HGA, HC) are avoidable with genetic testing of breeding dogs. Our dogs often exceed 13 years.</div>
@@ -102,7 +102,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>How to recognize a serious breeder?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How to recognize a serious breeder?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">A serious breeder must have: original ENCI pedigree, documented genetic tests, puppies raised at home, possibility to visit and see the mother, maximum 1-2 litters/year per female, after-sales support. Be wary of those selling under €1,000 or not showing tests.</div>
@@ -110,7 +110,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>What nutrition does the Staffy need?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What nutrition does the Staffy need?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Balanced and controlled nutrition to maintain muscle without gaining weight. Options: high quality kibble (26-30% protein), BARF or balanced homemade diet. The Staffy is greedy: watch the extras. Ideal weight males 14-16 kg, females 11-14 kg.</div>
@@ -118,7 +118,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Can I visit the kennel?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Can I visit the kennel?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Absolutely yes, in fact I highly recommend it. At our kennel in Ostellato (Ferrara) I receive by appointment. You'll see the adult dogs, how the puppies live, you can verify documentation and pedigree. Be wary of those who don't allow visits.</div>
@@ -126,7 +126,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Does the Staffy need a lot of exercise?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Does the Staffy need a lot of exercise?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">It's an energetic dog that needs regular but not excessive exercise: 2 daily walks (30-40 minutes), interactive games, mental activity. It's perfect for those who want an active but manageable dog, also suitable for apartment living.</div>
@@ -134,7 +134,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Does the Staffy shed a lot?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Does the Staffy shed a lot?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">No, it sheds very little. It has a short, smooth coat that's easy to manage. Shedding occurs mainly during seasonal molts but is very limited. Weekly brushing and baths every 2-3 months are enough.</div>
@@ -142,7 +142,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Is it difficult to train a Staffy?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is it difficult to train a Staffy?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">No, it's intelligent and eager to please. It responds very well to positive reinforcement: treats, food, play. It can be a bit stubborn, so gentle firmness is needed. Basic commands are learned quickly. Avoid coercive methods.</div>
@@ -150,7 +150,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Can the Staffy live in an apartment?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Can the Staffy live in an apartment?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Absolutely yes, it adapts perfectly. What matters is not the square meters but the quality of time together and regular outings. It's quiet, doesn't bark much, and is naturally clean. It prefers to live indoors with the family.</div>
@@ -158,7 +158,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>What is the typical Staffy character?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What is the typical Staffy character?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Extraordinary character: affectionate, loyal, courageous, patient and playful. Extremely people-oriented, loves being with family. Patient and gentle with children. Has a funny, clownish side. Intelligent and sensitive.</div>
@@ -166,7 +166,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Does the Staffy bark a lot?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Does the Staffy bark a lot?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">No, it's generally quiet. It only barks when there's a reason: someone at the door, a strange noise. This makes it perfect for apartments. It communicates more with body language than voice.</div>
@@ -174,7 +174,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Can I leave the Staffy home alone?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Can I leave the Staffy home alone?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Yes, if gradually accustomed, but not for too long. It can stay alone 4-6 hours maximum. It's very attached to family and suffers from prolonged isolation. If you work all day, consider a dog sitter.</div>
@@ -182,7 +182,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>Does the Staffy suffer from heat or cold?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Does the Staffy suffer from heat or cold?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">It has short coat without undercoat, so it's sensitive to both. Winter: coat under 5°C. Summer: shade, fresh water, walks during cool hours. Never leave in a car in the sun. Must always sleep indoors.</div>
@@ -190,7 +190,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <span>How much does it cost to maintain a Staffy per year?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How much does it cost to maintain a Staffy per year?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">About €800-1,500/year: food €300-600, routine veterinary €150-250, insurance €150-300, accessories €100-150. Doesn't require expensive grooming. Considering 12-14 years of life, total cost is about €12,000-20,000.</div>
