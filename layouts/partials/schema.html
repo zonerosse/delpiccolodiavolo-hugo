@@ -194,52 +194,6 @@
 </script>
 {{ end }}
 
-{{/* FAQPage sulla pagina cuccioli — le domande DEVONO corrispondere
-     esattamente a quelle visibili nella pagina (requisito Google) */}}
-{{ if in $currentURL "cuccioli-staffordshire-bull-terrier" }}
-<!-- JSON-LD: FAQPage Cuccioli -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Quando posso portare a casa il cucciolo?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "I cuccioli lasciano il nostro allevamento a 60 giorni minimo, come previsto dalla legge italiana. A questa età sono completamente vaccinati, sverminati, con microchip e tutta la documentazione in regola."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Cosa include il prezzo del cucciolo?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Il prezzo include: pedigree ENCI, microchip registrato, libretto sanitario con vaccinazioni, certificati test genetici dei genitori (L2HGA, HC, PHPV), documentazione fotografica e supporto post-adozione a vita. Nessun extra nascosto."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Quanto costa un cucciolo Staffordshire Bull Terrier?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "I nostri cuccioli con pedigree ENCI e test genetici completi costano tra 1.200 e 1.500 euro. Il prezzo riflette anni di selezione, costi dei test genetici e la cura dedicata a ogni cucciolo. Diffidate di prezzi sotto i 1.000 euro."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Posso visitare l'allevamento prima di decidere?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Assolutamente sì, anzi lo consiglio caldamente. Ricevo su appuntamento a Ostellato (Ferrara). Vedrete i genitori, i cuccioli, i certificati e l'ambiente in cui crescono. Nessun acquisto dovrebbe avvenire senza visita."
-      }
-    }
-  ]
-}
-</script>
-{{ end }}
-
 {{/* FAQPage sulla pagina contatti/geo */}}
 {{ if in $currentURL "emilia-romagna" }}
 <!-- JSON-LD: FAQPage Contatti -->
@@ -314,7 +268,7 @@
      e che non hanno gia' un FAQPage scritto a mano. */}}
 {{ $cc := .Params.custom_content | default .Content }}
 {{ $coppie := slice }}
-{{ range findRESubmatch `(?s)<h[23][^>]*>([^<]*\?)</h[23]>\s*(?:</div>\s*)?(?:<div[^>]*>\s*)?(?:<p[^>]*>)?(.*?)(?:</p>|</div>)` $cc }}
+{{ range findRESubmatch `(?s)<h[23][^>]*>([^<]*\?)</h[23]>\s*(?:<span class="faq-toggle">.*?</span>\s*</div>\s*)?(?:</div>\s*)?(?:<div[^>]*>\s*)?(?:<p[^>]*>)?(.*?)(?:</p>|</div>)` $cc }}
   {{ $d := index . 1 | plainify | htmlUnescape }}
   {{ $r := index . 2 | plainify | htmlUnescape }}
   {{ if and (gt (len $d) 12) (gt (len $r) 60) (lt (len $r) 1200) }}
@@ -369,6 +323,10 @@
       "author": { "@type": "Person", "name": {{ $r.nome | jsonify | safeJS }} },
       "reviewRating": { "@type": "Rating", "ratingValue": "{{ $r.voto }}", "bestRating": "5", "worstRating": "1" },
       "reviewBody": {{ $r.testo | jsonify | safeJS }},
+      {{ $mesi := dict "gennaio" "01" "febbraio" "02" "marzo" "03" "aprile" "04" "maggio" "05" "giugno" "06" "luglio" "07" "agosto" "08" "settembre" "09" "ottobre" "10" "novembre" "11" "dicembre" "12" "January" "01" "February" "02" "March" "03" "April" "04" "May" "05" "June" "06" "July" "07" "August" "08" "September" "09" "October" "10" "November" "11" "December" "12" "Januar" "01" "Februar" "02" "MC$rz" "03" "Mai" "05" "Juni" "06" "Juli" "07" "Oktober" "10" "Dezember" "12" }}
+      {{ $p := findRESubmatch `(\d{1,2})\.?\s+(\p{L}+)\s+(\d{4})` $r.meta }}
+      {{ if not $p }}{{ $q := findRESubmatch `(\p{L}+)\s+(\d{1,2}),\s*(\d{4})` $r.meta }}{{ with $q }}{{ $y := index . 0 }}{{ $p = slice (slice "" (index $y 2) (index $y 1) (index $y 3)) }}{{ end }}{{ end }}
+      {{ with $p }}{{ $x := index . 0 }}{{ $mm := index $mesi (index $x 2) }}{{ if $mm }}"datePublished": "{{ index $x 3 }}-{{ $mm }}-{{ printf "%02s" (index $x 1) }}",{{ end }}{{ end }}
       "publisher": { "@type": "Organization", "name": "Google" }
     }{{ end }}
   ]
