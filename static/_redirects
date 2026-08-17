@@ -523,5 +523,13 @@
 /en/chiedi-recensione/ /en/ 301
 /de/chiedi-recensione/ /de/ 301
 
+# PDF con percorso relativo e residui vari, segnalati da Search Console
+/en/females-staffordshire-bull-terrier/docs/Genefast-Billy.pdf /docs/Genefast-Billy.pdf 301
+/en/females-staffordshire-bull-terrier/docs/Minnie-GF.pdf /docs/Minnie-GF.pdf 301
+/en/females-staffordshire-bull-terrier/docs/Boldrini-Billy-cardio210125.pdf /docs/Boldrini-Billy-cardio210125.pdf 301
+/de/huendinnen-staffordshire-bull-terrier/docs/Genefast-Billy.pdf /docs/Genefast-Billy.pdf 301
+/de/huendinnen-staffordshire-bull-terrier/docs/Minnie-GF.pdf /docs/Minnie-GF.pdf 301
+/cuccioli-staffordshire-bull- /cuccioli-staffordshire-bull-terrier/ 301
+
 # Catch-all: deve restare SEMPRE l'ultima regola del file
 /* /404.html 404
