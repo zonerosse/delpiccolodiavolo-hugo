@@ -314,7 +314,7 @@
      e che non hanno gia' un FAQPage scritto a mano. */}}
 {{ $cc := .Params.custom_content | default .Content }}
 {{ $coppie := slice }}
-{{ range findRESubmatch `(?s)<h[23][^>]*>([^<]*\?)</h[23]>\s*(?:<div[^>]*>\s*)?<p[^>]*>(.*?)</p>` $cc }}
+{{ range findRESubmatch `(?s)<h[23][^>]*>([^<]*\?)</h[23]>\s*(?:</div>\s*)?(?:<div[^>]*>\s*)?(?:<p[^>]*>)?(.*?)(?:</p>|</div>)` $cc }}
   {{ $d := index . 1 | plainify | htmlUnescape }}
   {{ $r := index . 2 | plainify | htmlUnescape }}
   {{ if and (gt (len $d) 12) (gt (len $r) 60) (lt (len $r) 1200) }}
@@ -332,8 +332,44 @@
     {{ range $i, $c := $coppie }}{{ if $i }},{{ end }}
     {
       "@type": "Question",
-      "name": {{ $c.d | jsonify }},
-      "acceptedAnswer": { "@type": "Answer", "text": {{ $c.r | jsonify }} }
+      "name": {{ $c.d | jsonify | safeJS }},
+      "acceptedAnswer": { "@type": "Answer", "text": {{ $c.r | jsonify | safeJS }} }
+    }{{ end }}
+  ]
+}
+</script>
+{{ end }}
+
+{{/* Review: genera lo schema dalle testimonianze gia' visibili nella pagina.
+     Le recensioni restano quelle mostrate a video: nessun dato inventato. */}}
+{{ $cc := .Params.custom_content | default "" }}
+{{ $rec := slice }}
+{{ range findRESubmatch `(?s)<article class="review-card">.*?<span class="review-name">(.*?)</span>.*?<span class="review-stars">(.*?)</span>.*?<p class="review-text">(.*?)</p>.*?<div class="review-meta">(.*?)</div>` $cc }}
+  {{ $nome := index . 1 | plainify | htmlUnescape | string }}
+  {{ $stelle := index . 2 }}
+  {{ $testo := index . 3 | plainify | htmlUnescape | string }}
+  {{ $meta := index . 4 | plainify | htmlUnescape }}
+  {{ $voto := len (findRE `★` $stelle) }}
+  {{ if and (gt (len $testo) 20) (gt $voto 0) }}
+    {{ $rec = $rec | append (dict "nome" $nome "voto" $voto "testo" $testo "meta" $meta) }}
+  {{ end }}
+{{ end }}
+{{ if ge (len $rec) 3 }}
+<!-- JSON-LD: Review dalle testimonianze pubblicate -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "@id": "{{ $baseURL }}/#organization",
+  "name": "{{ if eq $lang "de" }}Zucht Del Piccolo Diavolo{{ else if eq $lang "en" }}Del Piccolo Diavolo Kennel{{ else }}Allevamento Del Piccolo Diavolo{{ end }}",
+  "review": [
+    {{ range $i, $r := $rec }}{{ if $i }},{{ end }}
+    {
+      "@type": "Review",
+      "author": { "@type": "Person", "name": {{ $r.nome | jsonify | safeJS }} },
+      "reviewRating": { "@type": "Rating", "ratingValue": "{{ $r.voto }}", "bestRating": "5", "worstRating": "1" },
+      "reviewBody": {{ $r.testo | jsonify | safeJS }},
+      "publisher": { "@type": "Organization", "name": "Google" }
     }{{ end }}
   ]
 }
