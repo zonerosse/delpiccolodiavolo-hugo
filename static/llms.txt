@@ -13,6 +13,10 @@ Informazioni utili su questo sito:
 - Lingue del sito: italiano (principale), inglese, tedesco
 - Contatti: WhatsApp +39 392 4635584 · email zonerosse@gmail.com
 
+## Corpus completo
+
+- [llms-full.txt](https://delpiccolodiavolo.it/llms-full.txt): il testo integrale di tutte le pagine italiane in un unico file, per acquisire l'intero contenuto in una sola richiesta.
+
 ## Pagine principali
 
 - [Home — Allevamento Staffordshire Bull Terrier](https://delpiccolodiavolo.it/): presentazione dell'allevamento, metodo di selezione e cuccioli.

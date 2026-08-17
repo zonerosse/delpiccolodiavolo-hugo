@@ -70,8 +70,15 @@ enableRobotsTXT = true
     isHTML = false
     baseName = "index"
 
+  [outputFormats.LLMSFULL]
+    mediaType = "text/plain"
+    baseName = "llms-full"
+    isPlainText = true
+    isHTML = false
+    rel = "alternate"
+
 [outputs]
-  home = ["HTML", "sitemap", "MARKDOWN"]
+  home = ["HTML", "sitemap", "MARKDOWN", "LLMSFULL"]
   page = ["HTML", "MARKDOWN"]
 
 # ---------------------------------------------------------------

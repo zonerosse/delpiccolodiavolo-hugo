@@ -1,0 +1,48 @@
+{{- /* llms-full.txt — l'intero contenuto testuale del sito in un unico file,
+       per gli agenti AI che vogliono acquisire tutto in una sola richiesta.
+       Si rigenera a ogni build: nessuna manutenzione. */ -}}
+# Del Piccolo Diavolo — Allevamento Staffordshire Bull Terrier
+# Corpus completo del sito · {{ now.Format "2 January 2006" }}
+# Fonte: https://delpiccolodiavolo.it/
+#
+# Allevatore: Paolo Boldrini · Ostellato (FE), Emilia-Romagna, Italia
+# Razza: Staffordshire Bull Terrier · Attivo dal 2013
+# Pedigree ENCI · Test genetici L2HGA, HC e PHPV su tutti i riproduttori
+# Contatti: WhatsApp +39 392 4635584 · zonerosse@gmail.com
+#
+# Questo file contiene il testo integrale delle pagine in italiano.
+# Le versioni inglese e tedesca sono su /en/ e /de/.
+
+{{ range where (where .Site.RegularPages "Lang" "it") "Params.noindex" "!=" true }}
+{{- $u := .RelPermalink -}}
+{{- if not (or (in $u "/lista-attesa") (in $u "/chiedi-recensione") (in $u "404")) -}}
+{{- $c := .Params.custom_content | default .Content -}}
+{{- $c = replaceRE `(?s)<script[^>]*>.*?</script>` "" $c -}}
+{{- $c = replaceRE `(?s)<style[^>]*>.*?</style>` "" $c -}}
+{{- $c = replaceRE `(?s)<svg[^>]*>.*?</svg>` "" $c -}}
+{{- $c = replaceRE `(?s)<nav[^>]*>.*?</nav>` "" $c -}}
+{{- $c = replaceRE `(?s)<footer[^>]*>.*?</footer>` "" $c -}}
+{{- $c = replaceRE `(?s)<!--.*?-->` "" $c -}}
+{{- $c = replaceRE `(?s)<div class="features-bar">.*?</div>\s*</div>` "" $c -}}
+{{- $c = replaceRE `(?s)<span class="hero-eyebrow">.*?</span>` "" $c -}}
+{{- $c = replaceRE `(?s)<p class="tags">.*?</p>` "" $c -}}
+{{- $c = replaceRE `(?s)<h1[^>]*>(.*?)</h1>` "" $c -}}
+{{- $c = replaceRE `(?s)<h2[^>]*>(.*?)</h2>` "\n\n## $1\n" $c -}}
+{{- $c = replaceRE `(?s)<h3[^>]*>(.*?)</h3>` "\n\n### $1\n" $c -}}
+{{- $c = replaceRE `(?s)<li[^>]*>(.*?)</li>` "\n- $1" $c -}}
+{{- $c = replaceRE `(?s)<strong[^>]*>(.*?)</strong>` "**$1**" $c -}}
+{{- $c = replaceRE `</p>` "\n\n" $c -}}
+{{- $c = replaceRE `<br\s*/?>` "\n" $c -}}
+{{- $c = replaceRE `<[^>]+>` "" $c -}}
+{{- $c = replaceRE `[ \t]+` " " $c -}}
+{{- $c = replaceRE `\n{3,}` "\n\n" $c -}}
+
+# {{ .Title }}
+URL: {{ .Permalink }}
+{{ with .Description }}Descrizione: {{ . }}{{ end }}
+
+{{ $c | plainify | htmlUnescape | safeHTML }}
+
+---
+{{ end }}
+{{- end }}
