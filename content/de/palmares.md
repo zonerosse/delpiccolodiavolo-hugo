@@ -24,8 +24,8 @@ custom_content: |
   <p style="font-size:0.85rem;margin:0">Italienischer Champion</p>
   </div>
   <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
-  <p style="font-size:2rem;font-weight:700;margin:0">1</p>
-  <p style="font-size:0.85rem;margin:0">Jugendchampion</p>
+  <p style="font-size:2rem;font-weight:700;margin:0">2</p>
+  <p style="font-size:0.85rem;margin:0">Jugendchampions</p>
   </div>
   <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
   <p style="font-size:2rem;font-weight:700;margin:0">4.</p>

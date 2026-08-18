@@ -96,7 +96,7 @@ custom_content: |
   
   <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
   <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Lothar Matthäus</h3>
-  <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Junior Italian Champion</p>
+  <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Italian Junior Champion and Slovenian Champion</p>
   <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Multiple JCAC and Junior BOB in national and international shows. Excellent 1st in all events. Son of English champions.</p>
   </div>
 
@@ -105,12 +105,19 @@ custom_content: |
   <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Italian Young Champion ENCI 2026</p>
   <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">17 May 2026, National Show in Albarella: Excellent 1st, JCAC, JBOB and BOB. Best Staffordshire Bull Terrier of the Polesano Canine Group. Daughter of CH. Elitebull Prospect × Lackyle Bean Croí Olc.</p>
   </div>
+
+  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
+  <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Cattleya Del Piccolo Diavolo at Valconcaclan</h3>
+  <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Junior Champion and Champion of San Marino</p>
+  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Junior Champion of San Marino in 2023, Champion of San Marino in 2024. Born and raised by us, now owned by Ricarda Mazzola Wagner (Valconcaclan). L2HGA and HC clear, PHPV unaffected, complete scissor bite.</p>
+  </div>
+
   
   
   </div>
   
   <div style="text-align:center;padding:1.5rem;background:#fff;border-radius:12px;border:1px solid rgba(139,115,85,0.15)">
-  <p style="font-size:1.1rem;color:#5c4a3a;margin-bottom:0.5rem"><strong>3 Champions - 4th at World Dog Show - 2 Junior Champions</strong></p>
+  <p style="font-size:1.1rem;color:#5c4a3a;margin-bottom:0.5rem"><strong>1 Italian Champion - 2 Italian Junior Champions - 1 San Marino Champion - 4th at World Dog Show</strong></p>
   <p style="font-size:0.9rem;color:#4a3f35;margin-bottom:1rem">Results achieved with dogs bred and raised by us, not purchased already titled.</p>
   <a href="/en/palmares/" class="btn btn-primary" title="See all results">See All Results</a>
   </div>
