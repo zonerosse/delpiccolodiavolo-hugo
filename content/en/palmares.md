@@ -20,8 +20,8 @@ custom_content: |
   
   <div class="palmares-summary" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1rem;margin:2rem 0;text-align:center">
   <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
-  <p style="font-size:2rem;font-weight:700;margin:0">2</p>
-  <p style="font-size:0.85rem;margin:0">Italian Champions</p>
+  <p style="font-size:2rem;font-weight:700;margin:0">1</p>
+  <p style="font-size:0.85rem;margin:0">Italian Champion</p>
   </div>
   <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
   <p style="font-size:2rem;font-weight:700;margin:0">1</p>
@@ -117,11 +117,11 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Slovenian Champion + Italian Junior Champion 🇸🇮</span>
-  <h2 class="section-title">Lothar Matthaus</h2>
+  <h2 class="section-title">Lothar Matthäus</h2>
   
   <div style="display:flex;flex-direction:column;gap:1.5rem;margin-bottom:2rem">
   <div class="image-center">
-  <img src="/images/lothar-best-young.webp" alt="Lothar Matthaus, Junior Italian Champion Staffordshire Bull Terrier - Best Young Carrara 2025" loading="lazy" decoding="async" width="300" height="380" style="border-radius:12px">
+  <img src="/images/lothar-best-young.webp" alt="Lothar Matthäus, Junior Italian Champion Staffordshire Bull Terrier - Best Young Carrara 2025" loading="lazy" decoding="async" width="300" height="380" style="border-radius:12px">
   </div>
   <div class="image-center" style="margin-top:1rem">
   <img src="/images/lothar-matthaus-tyson-locandina.avif" alt="CH SLO J.CH ITA Lothar Matthäus del Piccolo Diavolo, known as Tyson, brindle Staffordshire Bull Terrier bred by Del Piccolo Diavolo" loading="lazy" decoding="async" width="900" height="1228" style="border-radius:12px;max-width:340px;width:100%">

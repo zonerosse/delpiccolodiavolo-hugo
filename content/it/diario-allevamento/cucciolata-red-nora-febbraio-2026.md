@@ -73,7 +73,7 @@ Red porta l'affisso **Vangerbull**, una delle linee inglesi più apprezzate per 
 Nora non è una fattrice qualunque. È già **madre di due Campioni Italiani**:
 
 - **Bilquis Goddess Diabhal** — Campionessa Italiana di Bellezza ENCI, 4ª classificata al World Dog Show di Zagabria 2024
-- **Lothar Matthaus** — Giovane Campione Italiano ENCI + Campione Sloveno 🇸🇮, attualmente in carriera con oltre 20 esposizioni
+- **Lothar Matthäus** — Giovane Campione Italiano ENCI + Campione Sloveno 🇸🇮, attualmente in carriera con oltre 20 esposizioni
 
 Questo dimostra la sua capacità di trasmettere qualità ai figli.
 

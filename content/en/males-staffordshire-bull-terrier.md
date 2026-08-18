@@ -82,7 +82,7 @@ custom_content: |
   <p><strong>PHPV:</strong> unaffected · <strong>DNA</strong> stored</p>
   <p><strong>Dentition:</strong> complete, scissor bite</p>
   <p><strong>Sire:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford" style="color:#8b5a2b;font-weight:700;text-decoration:underline;text-underline-offset:3px">Bullbrothers Hott as Hell &#8599;</a> «HEAT» &mdash; Multi International Champion, Crufts qualified, TheReds Stafford kennel</p>
-  <p><strong>Dam:</strong> Skilful-Dogs Nora</p>
+  <p><strong>Dam:</strong> Skilful-dogs Nora</p>
   <p><strong>Owner:</strong> Sergio Patrucco</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4554911" target="_blank" rel="noopener" title="View Lothar pedigree on SBTPedigree">View Full Pedigree →</a>
   </div>

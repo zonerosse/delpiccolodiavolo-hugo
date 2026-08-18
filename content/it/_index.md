@@ -25,7 +25,7 @@ custom_content: |
   <span class="hero-eyebrow"><a href="/recensioni/" title="Leggi le recensioni" style="color:inherit;text-decoration:none">⭐ 4.9 su 38 recensioni →</a></span>
   <h1 class="hero-title">Allevamento <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo - Selezione, salute e carattere</p>
-  <p class="hero-description">Allevamento etico di Staffordshire Bull Terrier dal 2013. Test genetici completi, pedigree ENCI, cuccioli allevati in famiglia. 3 Campioni Italiani, 4° al World Dog Show, una nuova Giovane Campionessa Italiana a maggio 2026.</p>
+  <p class="hero-description">Allevamento etico di Staffordshire Bull Terrier dal 2013. Test genetici completi, pedigree ENCI, cuccioli allevati in famiglia. 1 Campione Italiano, 2 Giovani Campioni Italiani, 4° al World Dog Show.</p>
   <div class="hero-actions">
   <a href="/cuccioli-staffordshire-bull-terrier/" class="btn btn-primary" title="Cuccioli Staffordshire Bull Terrier disponibili">Cuccioli Staffordshire Bull Terrier</a>
   <a href="/allevamento-staffordshire-bull-terrier-in-emilia-romagna/" class="btn btn-ghost" title="Contattaci">Contattaci</a>
@@ -75,7 +75,7 @@ custom_content: |
 
   <p>Facciamo <strong>poche cucciolate l'anno</strong>, mai su richiesta. Tutti i riproduttori sono testati per <strong>L2HGA, HC e PHPV</strong>, e i certificati di laboratorio sono a disposizione di chi viene a trovarci. I cuccioli vengono ceduti con <strong>pedigree ENCI</strong>, microchip e vaccinazioni in regola, dopo essere cresciuti in casa — non in box — a contatto quotidiano con persone, rumori domestici e altri animali.</p>
 
-  <p>Sul piano dei risultati: <strong>3 Campioni Italiani</strong>, un <strong>4° posto al World Dog Show</strong> con Bilquis Goddess Diabhal, e a maggio 2026 il titolo di <strong>Giovane Campionessa Italiana</strong> per Queen of California. Lavoriamo con le linee di sangue inglesi e irlandesi, in particolare Elitebull e Lackyle.</p>
+  <p>Sul piano dei risultati: <strong>1 Campione Italiano</strong>, <strong>2 Giovani Campioni Italiani</strong> — uno dei quali anche Campione Sloveno — e un soggetto Giovane Campione e Campione di San Marino, un <strong>4° posto al World Dog Show</strong> con Bilquis Goddess Diabhal, e a maggio 2026 il titolo di <strong>Giovane Campionessa Italiana</strong> per Queen of California. Lavoriamo con le linee di sangue inglesi e irlandesi, in particolare Elitebull e Lackyle.</p>
 
   <p>La selezione segue tre criteri, in quest'ordine: <strong>equilibrio caratteriale</strong>, <strong>assenza di patologie ereditarie</strong> e <strong>conformità allo standard</strong>. Il carattere viene per primo perché è quello che una famiglia si porta in casa per dodici anni, ed è anche il più difficile da correggere: la morfologia si sistema in due o tre generazioni, un difetto caratteriale no.</p>
 
@@ -139,7 +139,7 @@ custom_content: |
   </div>
 
   <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
-  <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Lothar Matthaus</h3>
+  <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Lothar Matthäus</h3>
   <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Giovane Campione Italiano</p>
   <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Multipli JCAC e BOB Giovani in esposizioni nazionali e internazionali. Eccellente 1° in tutte le manifestazioni. Figlio di campioni inglesi.</p>
   </div>
@@ -154,7 +154,7 @@ custom_content: |
   </div>
 
   <div style="text-align:center;padding:1.5rem;background:#fff;border-radius:12px;border:1px solid rgba(139,115,85,0.15)">
-  <p style="font-size:1.1rem;color:#5c4a3a;margin-bottom:0.5rem"><strong>3 Campioni - 4° al World Dog Show - 2 Giovani Campioni</strong></p>
+  <p style="font-size:1.1rem;color:#5c4a3a;margin-bottom:0.5rem"><strong>1 Campione Italiano - 2 Giovani Campioni Italiani - 4° al World Dog Show</strong></p>
   <p style="font-size:0.9rem;color:#4a3f35;margin-bottom:1rem">Risultati ottenuti con cani allevati e cresciuti da noi, non acquistati già titolati.</p>
   <a href="/palmares-del-piccolo-diavolo/" class="btn btn-primary" title="Vedi tutti i risultati" style="min-height:44px;display:inline-flex;align-items:center">Vedi Tutti i Risultati</a>
   </div>
@@ -166,7 +166,7 @@ custom_content: |
   <span class="section-label">Chi Siamo</span>
   <h2 class="section-title">La nostra storia e come crescono i cuccioli</h2>
 
-  <p style="text-align:center;margin-bottom:2rem;font-size:1.1rem;color:#5c4a3a;font-weight:600">Allevamento con pedigree ENCI dal 2013 • Oltre 100 soggetti ceduti in Italia e Europa • 3 Campioni Italiani • 4° al World Dog Show</p>
+  <p style="text-align:center;margin-bottom:2rem;font-size:1.1rem;color:#5c4a3a;font-weight:600">Allevamento con pedigree ENCI dal 2013 • Oltre 100 soggetti ceduti in Italia e Europa • 1 Campione Italiano e 2 Giovani Campioni • 4° al World Dog Show</p>
 
   <div class="content-block">
   <p style="font-size:.8rem;color:#8b5a2b;font-weight:600;letter-spacing:.08em;text-transform:uppercase;margin-bottom:.5rem">Paolo Boldrini — Allevatore dal 2013</p>

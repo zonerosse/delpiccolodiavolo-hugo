@@ -24,8 +24,8 @@ custom_content: |
   
   <div class="features-bar">
   <div class="features-track">
-  <span>Seit 2013</span><span>4,9★ Google</span><span>36 Bewertungen</span><span>100% Verifiziert</span><span>Lebenslanger Support</span><span>Zufriedene Kunden</span>
-  <span>Seit 2013</span><span>4,9★ Google</span><span>36 Bewertungen</span><span>100% Verifiziert</span><span>Lebenslanger Support</span><span>Zufriedene Kunden</span>
+  <span>Seit 2013</span><span>4,9★ Google</span><span>38 Bewertungen</span><span>100% Verifiziert</span><span>Lebenslanger Support</span><span>Zufriedene Kunden</span>
+  <span>Seit 2013</span><span>4,9★ Google</span><span>38 Bewertungen</span><span>100% Verifiziert</span><span>Lebenslanger Support</span><span>Zufriedene Kunden</span>
   </div>
   </div>
   

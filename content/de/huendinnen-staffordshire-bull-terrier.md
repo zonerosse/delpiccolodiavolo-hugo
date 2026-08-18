@@ -205,12 +205,12 @@ custom_content: |
   <!-- NORA -->
   <article class="female-card">
   <div class="female-header">
-  <span class="female-badge">🏆 Mutter von 2 Italienischen Champions</span>
-  <h3 class="female-name">Skilful-Dogs Nora</h3>
+  <span class="female-badge">🏆 Mutter von 1 Italienischen Champion und 1 Jugendchampion</span>
+  <h3 class="female-name">Skilful-dogs Nora</h3>
   </div>
   <div class="female-content">
   <div class="female-image">
-  <img src="/images/nora-femmina-staffordshire-bull-terrier.avif" alt="Skilful-Dogs Nora — Staffordshire Bull Terrier" width="350" height="467" loading="lazy" decoding="async">
+  <img src="/images/nora-femmina-staffordshire-bull-terrier.avif" alt="Skilful-dogs Nora — Staffordshire Bull Terrier" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="female-info">
   <p><strong>Gentests:</strong> L2HGA & HC frei per DNA</p>

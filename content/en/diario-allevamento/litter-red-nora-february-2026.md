@@ -73,7 +73,7 @@ Red carries the **Vangerbull** prefix, one of the most respected English lines k
 Nora is not just any brood bitch. She is already **mother of two Italian Champions**:
 
 - **Bilquis Goddess Diabhal** — Italian Beauty Champion ENCI, 4th place at World Dog Show Zagreb 2024
-- **Lothar Matthaus** — Italian Junior Champion ENCI + Slovenian Champion 🇸🇮, currently showing with over 20 exhibitions
+- **Lothar Matthäus** — Italian Junior Champion ENCI + Slovenian Champion 🇸🇮, currently showing with over 20 exhibitions
 
 This demonstrates her ability to pass on quality to her offspring.
 

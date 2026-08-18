@@ -122,7 +122,7 @@ categories: ["Cuccioli"]
 <li>Massimo 1-2 cucciolate all'anno per fattrice</li>
 <li>Assistenza a vita dopo l'acquisto</li>
 <li>Possibilità di visitare sempre su appuntamento</li>
-<li>2 Campioni Italiani allevati</li>
+<li>1 Campione Italiano e 2 Giovani Campioni Italiani allevati</li>
 </ul>
 
 Se cerchi <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier allevati in famiglia">cuccioli Staffordshire Bull Terrier allevati in famiglia</a>, contattami per fissare una visita.

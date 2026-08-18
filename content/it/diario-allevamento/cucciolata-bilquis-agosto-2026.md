@@ -16,7 +16,7 @@ stato: "completa"
 <strong>Tutti prenotati</strong> — lista d'attesa aperta per le prossime cucciolate
 </div>
 
-All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente attesa: il **1° agosto 2026** la nostra **Bilquis Goddess Diabhal** — Campionessa Italiana di Bellezza ENCI e 4ª classificata al World Dog Show di Zagabria 2024 — è diventata mamma di **8 cuccioli (4 maschi e 4 femmine)**. Un accoppiamento pianificato con cura, che unisce il pedigree di **Bilquis Goddess Diabhal**, figlia di **Skilful-Dogs Nora**, alle solide linee italiane del padre **Black Jack Di Casa Giacalone**, figlio del **Campione del Mondo 2023** Quash Marvelous Hagler de Stafflorence.
+All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente attesa: il **1° agosto 2026** la nostra **Bilquis Goddess Diabhal** — Campionessa Italiana di Bellezza ENCI e 4ª classificata al World Dog Show di Zagabria 2024 — è diventata mamma di **8 cuccioli (4 maschi e 4 femmine)**. Un accoppiamento pianificato con cura, che unisce il pedigree di **Bilquis Goddess Diabhal**, figlia di **Skilful-dogs Nora**, alle solide linee italiane del padre **Black Jack Di Casa Giacalone**, figlio del **Campione del Mondo 2023** Quash Marvelous Hagler de Stafflorence.
 
 ## I cuccioli appena nati
 
@@ -72,7 +72,7 @@ All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente a
 
 ### La madre: una Campionessa che nasce da Campioni
 
-Bilquis non è solo una fattrice: è una **Campionessa Italiana di Bellezza ENCI**, arrivata **4ª al World Dog Show di Zagabria 2024** in una delle competizioni più agguerrite al mondo. E porta un pedigree che parla da solo: è figlia di **Skilful-Dogs Nora**, già madre di due Campioni Italiani (Bilquis stessa e Lothar Matthaus). Tipicità, struttura e carattere che si trasmettono di generazione in generazione.
+Bilquis non è solo una fattrice: è una **Campionessa Italiana di Bellezza ENCI**, arrivata **4ª al World Dog Show di Zagabria 2024** in una delle competizioni più agguerrite al mondo. E porta un pedigree che parla da solo: è figlia di **Skilful-dogs Nora**, già madre di due Campioni Italiani (Bilquis stessa e Lothar Matthäus). Tipicità, struttura e carattere che si trasmettono di generazione in generazione.
 
 ### Il padre: Black Jack Di Casa Giacalone
 
