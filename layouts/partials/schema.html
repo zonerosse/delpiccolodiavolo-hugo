@@ -2,6 +2,20 @@
 
 {{ $lang := .Site.Language.Lang }}
 {{ $baseURL := "https://delpiccolodiavolo.it" }}
+
+{{ $cc := .Params.custom_content | default "" }}
+{{ $rec := slice }}
+{{ range findRESubmatch `(?s)<article class="review-card">.*?<span class="review-name">(.*?)</span>.*?<span class="review-stars">(.*?)</span>.*?<p class="review-text">(.*?)</p>.*?<div class="review-meta">(.*?)</div>` $cc }}
+  {{ $nome := index . 1 | plainify | htmlUnescape | string }}
+  {{ $stelle := index . 2 }}
+  {{ $testo := index . 3 | plainify | htmlUnescape | string }}
+  {{ $meta := index . 4 | plainify | htmlUnescape }}
+  {{ $voto := len (findRE `★` $stelle) }}
+  {{ if and (gt (len $testo) 20) (gt $voto 0) }}
+    {{ $rec = $rec | append (dict "nome" $nome "voto" $voto "testo" $testo "meta" $meta) }}
+  {{ end }}
+{{ end }}
+
 {{ $currentURL := .Permalink }}
 
 <!-- JSON-LD: Organization + LocalBusiness -->
@@ -55,6 +69,17 @@
     "latitude": 44.7447,
     "longitude": 11.9456
   },
+  {{ if and (ge (len $rec) 3) (in (slice "recensioni" "reviews" "bewertungen") (path.Base .RelPermalink)) }}"review": [
+    {{ range $i, $r := $rec }}{{ if $i }},{{ end }}
+    {
+      "@type": "Review",
+      "author": { "@type": "Person", "name": {{ $r.nome | jsonify | safeJS }} },
+      "reviewRating": { "@type": "Rating", "ratingValue": "{{ $r.voto }}", "bestRating": "5", "worstRating": "1" },
+      "reviewBody": {{ $r.testo | jsonify | safeJS }}{{ with $r.data }},
+      "datePublished": "{{ . }}"{{ end }},
+      "publisher": { "@type": "Organization", "name": "Google" }
+    }{{ end }}
+  ],{{ end }}
   {{ if in (slice "recensioni" "reviews" "bewertungen") (path.Base .RelPermalink) }}"aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "4.9",
@@ -299,41 +324,3 @@
 </script>
 {{ end }}
 
-{{/* Review: genera lo schema dalle testimonianze gia' visibili nella pagina.
-     Le recensioni restano quelle mostrate a video: nessun dato inventato. */}}
-{{ $cc := .Params.custom_content | default "" }}
-{{ $rec := slice }}
-{{ range findRESubmatch `(?s)<article class="review-card">.*?<span class="review-name">(.*?)</span>.*?<span class="review-stars">(.*?)</span>.*?<p class="review-text">(.*?)</p>.*?<div class="review-meta">(.*?)</div>` $cc }}
-  {{ $nome := index . 1 | plainify | htmlUnescape | string }}
-  {{ $stelle := index . 2 }}
-  {{ $testo := index . 3 | plainify | htmlUnescape | string }}
-  {{ $meta := index . 4 | plainify | htmlUnescape }}
-  {{ $voto := len (findRE `★` $stelle) }}
-  {{ if and (gt (len $testo) 20) (gt $voto 0) }}
-    {{ $rec = $rec | append (dict "nome" $nome "voto" $voto "testo" $testo "meta" $meta) }}
-  {{ end }}
-{{ end }}
-{{ if ge (len $rec) 3 }}
-<!-- JSON-LD: Review dalle testimonianze pubblicate -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "LocalBusiness",
-  "@id": "{{ $baseURL }}/#organization",
-  "review": [
-    {{ range $i, $r := $rec }}{{ if $i }},{{ end }}
-    {
-      "@type": "Review",
-      "author": { "@type": "Person", "name": {{ $r.nome | jsonify | safeJS }} },
-      "reviewRating": { "@type": "Rating", "ratingValue": "{{ $r.voto }}", "bestRating": "5", "worstRating": "1" },
-      "reviewBody": {{ $r.testo | jsonify | safeJS }},
-      {{ $mesi := dict "gennaio" "01" "febbraio" "02" "marzo" "03" "aprile" "04" "maggio" "05" "giugno" "06" "luglio" "07" "agosto" "08" "settembre" "09" "ottobre" "10" "novembre" "11" "dicembre" "12" "January" "01" "February" "02" "March" "03" "April" "04" "May" "05" "June" "06" "July" "07" "August" "08" "September" "09" "October" "10" "November" "11" "December" "12" "Januar" "01" "Februar" "02" "MC$rz" "03" "Mai" "05" "Juni" "06" "Juli" "07" "Oktober" "10" "Dezember" "12" }}
-      {{ $p := findRESubmatch `(\d{1,2})\.?\s+(\p{L}+)\s+(\d{4})` $r.meta }}
-      {{ if not $p }}{{ $q := findRESubmatch `(\p{L}+)\s+(\d{1,2}),\s*(\d{4})` $r.meta }}{{ with $q }}{{ $y := index . 0 }}{{ $p = slice (slice "" (index $y 2) (index $y 1) (index $y 3)) }}{{ end }}{{ end }}
-      {{ with $p }}{{ $x := index . 0 }}{{ $mm := index $mesi (index $x 2) }}{{ if $mm }}"datePublished": "{{ index $x 3 }}-{{ $mm }}-{{ printf "%02s" (index $x 1) }}",{{ end }}{{ end }}
-      "publisher": { "@type": "Organization", "name": "Google" }
-    }{{ end }}
-  ]
-}
-</script>
-{{ end }}

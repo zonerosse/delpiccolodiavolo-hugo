@@ -36,7 +36,7 @@ custom_content: |
   <h2 class="section-title">Un allevamento serio in Emilia-Romagna</h2>
   <div class="intro-block" style="max-width:800px;text-align:left">
   <p>Del Piccolo Diavolo è uno dei pochi allevamenti di <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">Staffordshire Bull Terrier</a> in Emilia-Romagna con un programma di selezione strutturato e documentato. Attivo dal 2013 a Ostellato, in provincia di Ferrara, lavoriamo esclusivamente con linee di sangue inglesi (Elitebull) e irlandesi (Lackyle), scelte per tipicità, salute e carattere.</p>
-  <p>In oltre 10 anni di attività abbiamo prodotto 3 Campioni Italiani, un 4° posto al World Dog Show e decine di soggetti inseriti con successo in famiglie di tutta Italia. Ogni riproduttore è testato per L2HGA, HC e PHPV — le tre principali patologie ereditarie della razza.</p>
+  <p>In oltre 10 anni di attività abbiamo prodotto 1 Campione Italiano, 2 Giovani Campioni Italiani e un 4° posto al World Dog Show e decine di soggetti inseriti con successo in famiglie di tutta Italia. Ogni riproduttore è testato per L2HGA, HC e PHPV — le tre principali patologie ereditarie della razza.</p>
   <p>Non siamo un allevamento commerciale: produciamo 1-2 cucciolate all'anno, seguite con attenzione dalla nascita all'affido. Chi sceglie Del Piccolo Diavolo non compra un cane: entra in una relazione che dura per tutta la vita dell'animale.</p>
   <p>Per conoscere nel dettaglio il nostro metodo di lavoro, visita la pagina <a href="/chi-siamo/" title="Chi siamo - Allevamento Del Piccolo Diavolo">chi siamo</a>.</p>
   </div>

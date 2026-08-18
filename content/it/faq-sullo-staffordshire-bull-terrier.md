@@ -202,7 +202,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quali risultati avete ottenuto in esposizione?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Abbiamo allevato 2 Campioni Italiani di Bellezza e 1 Giovane Campione Italiano. Bilquis ha stabilito un record con 12 esposizioni consecutive Eccellente 1°, diventando Campionessa ancora in Classe Intermedia. Tutti i cani sono nati e cresciuti da noi.</div>
+  <div class="faq-answer">Abbiamo allevato 1 Campione Italiano di Bellezza e 2 Giovani Campioni Italiani, uno dei quali è anche Campione Sloveno, oltre a un soggetto Giovane Campione e Campione di San Marino. Bilquis ha stabilito un record con 12 esposizioni consecutive Eccellente 1°, diventando Campionessa ancora in Classe Intermedia. Tutti i cani sono nati e cresciuti da noi.</div>
   </div>
   
   <div class="faq-item active">

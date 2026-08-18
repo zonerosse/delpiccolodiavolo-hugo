@@ -73,7 +73,7 @@ Red trägt das **Vangerbull**-Präfix, eine der angesehensten englischen Linien,
 Nora ist keine gewöhnliche Zuchthündin. Sie ist bereits **Mutter von zwei Italienischen Champions**:
 
 - **Bilquis Goddess Diabhal** — Italienische Schönheitschampionin ENCI, 4. Platz bei der World Dog Show Zagreb 2024
-- **Lothar Matthaus** — Italienischer Jugendchampion ENCI + Slowenischer Champion 🇸🇮, derzeit mit über 20 Ausstellungen aktiv
+- **Lothar Matthäus** — Italienischer Jugendchampion ENCI + Slowenischer Champion 🇸🇮, derzeit mit über 20 Ausstellungen aktiv
 
 Dies beweist ihre Fähigkeit, Qualität an ihre Nachkommen weiterzugeben.
 

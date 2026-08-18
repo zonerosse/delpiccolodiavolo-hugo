@@ -16,7 +16,7 @@ stato: "completa"
 All reserved — waiting list open for upcoming litters
 </div>
 
-At the **Del Piccolo Diavolo** kennel, a particularly awaited litter has arrived: on **August 1, 2026** our **Bilquis Goddess Diabhal** — Italian Show Champion (ENCI) and 4th at the 2024 World Dog Show in Zagreb — became the mother of **8 puppies (4 males and 4 females)**. A carefully planned mating that combines the pedigree of **Bilquis Goddess Diabhal**, daughter of **Skilful-Dogs Nora**, with the solid Italian lines of the sire **Black Jack Di Casa Giacalone**, son of the **2023 World Champion** Quash Marvelous Hagler de Stafflorence.
+At the **Del Piccolo Diavolo** kennel, a particularly awaited litter has arrived: on **August 1, 2026** our **Bilquis Goddess Diabhal** — Italian Show Champion (ENCI) and 4th at the 2024 World Dog Show in Zagreb — became the mother of **8 puppies (4 males and 4 females)**. A carefully planned mating that combines the pedigree of **Bilquis Goddess Diabhal**, daughter of **Skilful-dogs Nora**, with the solid Italian lines of the sire **Black Jack Di Casa Giacalone**, son of the **2023 World Champion** Quash Marvelous Hagler de Stafflorence.
 
 ## The newborn puppies
 
@@ -72,7 +72,7 @@ At the **Del Piccolo Diavolo** kennel, a particularly awaited litter has arrived
 
 ### The dam: a Champion born from Champions
 
-Bilquis is not just a brood bitch: she is an **Italian Show Champion (ENCI)**, placed **4th at the 2024 World Dog Show in Zagreb** in one of the toughest competitions in the world. And she carries a pedigree that speaks for itself: she is the daughter of **Skilful-Dogs Nora**, already the mother of two Italian Champions (Bilquis herself and Lothar Matthaus). Type, structure and temperament passed down from generation to generation.
+Bilquis is not just a brood bitch: she is an **Italian Show Champion (ENCI)**, placed **4th at the 2024 World Dog Show in Zagreb** in one of the toughest competitions in the world. And she carries a pedigree that speaks for itself: she is the daughter of **Skilful-dogs Nora**, already the mother of two Italian Champions (Bilquis herself and Lothar Matthäus). Type, structure and temperament passed down from generation to generation.
 
 ### The sire: Black Jack Di Casa Giacalone
 
