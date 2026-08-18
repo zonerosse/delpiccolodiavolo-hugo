@@ -34,7 +34,7 @@ custom_content: |
   <p>The Data Controller for personal data processing is:</p>
   <p><strong>Del Piccolo Diavolo Kennel</strong><br>
   Owner: Boldrini Paolo<br>
-  Address: Via A. Chierici 12, 44020 Ostellato (FE), Italy<br>
+  Address: Via Amerigo Chierici, 12, 44020 Ostellato (FE), Italy<br>
   Email: <a href="mailto:zonerosse@gmail.com" title="Email us">zonerosse@gmail.com</a><br>
   Phone/WhatsApp: <a href="tel:+393924635584" title="Call us">+39 392 4635584</a></p>
   </div>

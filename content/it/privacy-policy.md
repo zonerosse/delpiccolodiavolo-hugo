@@ -34,7 +34,7 @@ custom_content: |
   <p>Il Titolare del trattamento dei dati personali è:</p>
   <p><strong>Allevamento Del Piccolo Diavolo</strong><br>
   Titolare: Boldrini Paolo<br>
-  Indirizzo: Via A. Chierici 12, 44020 Ostellato (FE)<br>
+  Indirizzo: Via Amerigo Chierici, 12, 44020 Ostellato (FE)<br>
   Email: <a href="mailto:zonerosse@gmail.com" title="Scrivici via email">zonerosse@gmail.com</a><br>
   Tel/WhatsApp: <a href="tel:+393924635584" title="Chiamaci">+39 392 4635584</a></p>
   </div>

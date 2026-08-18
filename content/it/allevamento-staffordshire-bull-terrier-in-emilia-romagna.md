@@ -73,7 +73,7 @@ custom_content: |
 
   <a href="https://maps.google.com/?q=Via+Amerigo+Chierici+12+Ostellato+FE" target="_blank" rel="noopener" class="map-link" title="Apri Google Maps per indicazioni stradali">
   Apri Google Maps
-  <span>Via Amerigo Chierici 12, 44020 Ostellato (FE)</span>
+  <span>Via Amerigo Chierici, 12, 44020 Ostellato (FE)</span>
   </a>
   </div>
   </section>
@@ -85,7 +85,7 @@ custom_content: |
 
   <div class="story-block" style="grid-template-columns:1fr">
   <div class="story-text">
-  <h3>Via Amerigo Chierici 12, Ostellato (FE)</h3>
+  <h3>Via Amerigo Chierici, 12, Ostellato (FE)</h3>
   <p>Siamo nel cuore del Parco del Delta del Po, a metà strada tra Ferrara e il mare Adriatico.</p>
   <p>Una posizione strategica che ci rende facilmente raggiungibili da tutto il Nord Italia: a 25 minuti da Ferrara, 1 ora da Bologna, Padova e Ravenna.</p>
   <p>L'allevamento dispone di parcheggio privato e ampi spazi verdi dove i nostri Staffy crescono in libertà.</p>
