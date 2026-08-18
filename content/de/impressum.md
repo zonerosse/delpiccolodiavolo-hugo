@@ -34,7 +34,7 @@ custom_content: |
   <p>Diese Website ist Eigentum von:</p>
   <p><strong>Allevamento Del Piccolo Diavolo</strong><br>
   Inhaber: Boldrini Paolo<br>
-  Anschrift: Via Amerigo Chierici 12, 44020 Ostellato (FE), Italien<br>
+  Anschrift: Via Amerigo Chierici, 12, 44020 Ostellato (FE), Italien<br>
   E-Mail: <a href="mailto:zonerosse@gmail.com" title="Schreiben Sie uns eine E-Mail">zonerosse@gmail.com</a><br>
   Telefon/WhatsApp: <a href="tel:+393924635584" title="Rufen Sie uns an">+39 392 4635584</a></p>
   </div>

@@ -34,7 +34,7 @@ custom_content: |
   <p>Verantwortlicher für die Verarbeitung personenbezogener Daten ist:</p>
   <p><strong>Zucht Del Piccolo Diavolo</strong><br>
   Inhaber: Boldrini Paolo<br>
-  Adresse: Via A. Chierici 12, 44020 Ostellato (FE), Italien<br>
+  Adresse: Via Amerigo Chierici, 12, 44020 Ostellato (FE), Italien<br>
   E-Mail: <a href="mailto:zonerosse@gmail.com" title="Schreiben Sie uns per E-Mail">zonerosse@gmail.com</a><br>
   Tel/WhatsApp: <a href="tel:+393924635584" title="Rufen Sie uns an">+39 392 4635584</a></p>
   </div>

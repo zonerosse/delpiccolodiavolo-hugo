@@ -59,7 +59,7 @@ custom_content: |
   
   <a href="https://maps.google.com/?q=Via+A.+Chierici+12+Ostellato+FE" target="_blank" rel="noopener" class="map-link" title="Open Google Maps for directions">
   Open Google Maps
-  <span>Via A. Chierici 12, 44042 Ostellato (FE), Italy</span>
+  <span>Via Amerigo Chierici, 12, 44020 Ostellato (FE), Italy</span>
   </a>
   </div>
   </section>
@@ -71,7 +71,7 @@ custom_content: |
   
   <div class="story-block" style="grid-template-columns:1fr">
   <div class="story-text">
-  <h3>Via A. Chierici 12, Ostellato (FE)</h3>
+  <h3>Via Amerigo Chierici, 12, Ostellato (FE)</h3>
   <p>We are in the heart of the Po Delta Park, halfway between Ferrara and the Adriatic Sea.</p>
   <p>A strategic location that makes us easily reachable from all of Northern Italy: 25 minutes from Ferrara, 1 hour from Bologna, Padua and Ravenna.</p>
   <p>The kennel has private parking and large green spaces where our Staffies grow up freely.</p>

@@ -59,7 +59,7 @@ custom_content: |
   
   <a href="https://maps.google.com/?q=Via+A.+Chierici+12+Ostellato+FE" target="_blank" rel="noopener" class="map-link" title="Google Maps für Wegbeschreibung öffnen">
   Google Maps Öffnen
-  <span>Via A. Chierici 12, 44042 Ostellato (FE)</span>
+  <span>Via Amerigo Chierici, 12, 44020 Ostellato (FE)</span>
   </a>
   </div>
   </section>
@@ -71,7 +71,7 @@ custom_content: |
   
   <div class="story-block" style="grid-template-columns:1fr">
   <div class="story-text">
-  <h3>Via A. Chierici 12, Ostellato (FE)</h3>
+  <h3>Via Amerigo Chierici, 12, Ostellato (FE)</h3>
   <p>Wir befinden uns im Herzen des Po-Delta-Parks, auf halbem Weg zwischen Ferrara und der Adria.</p>
   <p>Eine strategische Lage, die uns von ganz Norditalien aus leicht erreichbar macht: 25 Minuten von Ferrara, 1 Stunde von Bologna, Padua und Ravenna.</p>
   <p>Die Zucht verfügt über einen privaten Parkplatz und große Grünflächen, wo unsere Staffys in Freiheit aufwachsen.</p>
