@@ -45,6 +45,8 @@
   
   {{ if .Params.noindex }}<meta name="robots" content="noindex, follow">{{ end }}
   <link rel="canonical" href="{{ .Permalink }}">
+  {{ with .OutputFormats.Get "MARKDOWN" }}<link rel="alternate" type="text/markdown" href="{{ .Permalink }}" title="Versione Markdown per agenti AI">{{ end }}
+  <link rel="alternate" type="text/plain" href="{{ "llms.txt" | absLangURL }}" title="llms.txt">
 
   {{/* Hreflang: solo traduzioni realmente esistenti */}}
   {{ range .AllTranslations }}
