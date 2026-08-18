@@ -87,12 +87,20 @@ custom_content: |
   </div>
   </section>
 
+    <div class="gallery-grid">
+  <div class="gallery-item"><img src="/images/foto1.avif" alt="Cucciolo di Staffy nero appena nato tenuto in braccio" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/foto2.avif" alt="Piccolo Staffy nero con macchia bianca sul petto" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/foto4.avif" alt="Cucciolo nero di pochi giorni dell'allevamento Del Piccolo Diavolo" loading="lazy" decoding="async" width="300" height="400"></div>
+  </div>
+
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Selezione</span>
   <h2 class="section-title">Il nostro metodo di allevamento e selezione dei cuccioli</h2>
 
-  <p style="max-width:760px;margin:0 auto 2rem;text-align:center;color:#5c4a3a;line-height:1.8">Ogni cucciolata comincia molto prima dell'accoppiamento: dalla scelta dei due riproduttori, dai test genetici di entrambi e dalla verifica che le linee si completino invece di sommare gli stessi difetti. Poi vengono le otto settimane in casa, dove i cuccioli incontrano rumori, persone e altri animali mentre il cervello è ancora in formazione. E infine l'abbinamento con la famiglia, che proponiamo noi dopo aver osservato i caratteri: il cucciolo più intraprendente non è quasi mai quello giusto.</p>
+  <p style="max-width:760px;margin:0 auto 2rem;color:#5c4a3a;line-height:1.8">Ogni cucciolata comincia molto prima dell'accoppiamento: dalla scelta dei due riproduttori, dai test genetici di entrambi e dalla verifica che le linee si completino invece di sommare gli stessi difetti. Poi vengono le otto settimane in casa, dove i cuccioli incontrano rumori, persone e altri animali mentre il cervello è ancora in formazione. E infine l'abbinamento con la famiglia, che proponiamo noi dopo aver osservato i caratteri: il cucciolo più intraprendente non è quasi mai quello giusto.</p>
+
+  
 
   <h3 style="margin-top:2rem">Cosa vuol dire davvero «cresciuto in casa»</h3>
   <p>È la frase che scrivono tutti, quindi vale la pena dire cosa comporta. Le prime otto settimane sono <strong>metà della finestra di socializzazione</strong> di un cane: quello che incontra in quel periodo entra a far parte del suo mondo normale, quello che non incontra resterà per sempre una novità da valutare. Un cucciolo che a tre settimane sente l'aspirapolvere, il campanello e le voci di chi entra arriva a casa tua già abituato. Un cucciolo cresciuto in un box pulito ma silenzioso deve imparare tutto da capo, e certe cose non le recupera più.</p>
@@ -104,12 +112,6 @@ custom_content: |
   <p>Chiedi i certificati di laboratorio di entrambi i genitori, come documento, con nomi dei cani e numeri di microchip leggibili. Un allevatore serio li manda senza esitare, spesso prima che tu li chieda. Diffida invece di: cucciolate sempre disponibili o più cucciolate insieme; prezzi che cambiano in base al colore del mantello; certificati promessi dopo l'acconto; risultati mostrati solo come fotografia sullo schermo; e la frase «i genitori sono sani, non abbiamo mai avuto problemi», che risponde a una domanda diversa. Un altro segnale, meno ovvio: <strong>se non ti fanno nessuna domanda, non aspettarti che riprendano il cane se un giorno ti servisse.</strong></p>
 
   <p><strong>Sul pedigree, una precisazione.</strong> L'ENCI certifica l'ascendenza, non chi alleva: è necessario, non sufficiente. Vale la pena aggiungere una cosa che sorprende chi si affaccia alla razza — molti dei cani che vincono nei ring europei non vengono da strutture, ma da case dove vivono due o tre soggetti. Le dimensioni non dicono niente sulla qualità, in nessuna delle due direzioni.</p>
-
-  <div class="gallery-grid">
-  <div class="gallery-item"><img src="/images/foto1.avif" alt="Cucciolo di Staffy nero appena nato tenuto in braccio" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/foto2.avif" alt="Piccolo Staffy nero con macchia bianca sul petto" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/foto4.avif" alt="Cucciolo nero di pochi giorni dell'allevamento Del Piccolo Diavolo" loading="lazy" decoding="async" width="300" height="400"></div>
-  </div>
 
   <div class="review-card">
   <p class="review-text">"Paolo è una garanzia per questa razza. Supporto continuo e grande competenza."</p>
@@ -132,29 +134,29 @@ custom_content: |
   <span class="section-label">Risultati in Esposizione</span>
   <h2 class="section-title">Risultati in esposizione dei nostri Staffy</h2>
 
-  <p style="text-align:center;margin-bottom:2rem">La selezione Del Piccolo Diavolo non si ferma all'estetica: i risultati dei nostri Staffy sui ring italiani e internazionali testimoniano anni di lavoro su salute, tipicità e carattere.</p>
+  <p style="margin-bottom:2rem">La selezione Del Piccolo Diavolo non si ferma all'estetica: i risultati dei nostri Staffy sui ring italiani e internazionali testimoniano anni di lavoro su salute, tipicità e carattere.</p>
 
-  <div class="successi-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1.5rem;margin-bottom:2rem">
+  <div class="successi-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1.5rem;margin-bottom:2rem;align-items:stretch">
 
-  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
+  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center;display:flex;flex-direction:column;height:100%">
   <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Bilquis Goddess Diabhal</h3>
   <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Campionessa Italiana - 4° ai Mondiali</p>
   <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Record: 12 esposizioni consecutive Eccellente 1°. Campionessa Italiana in Classe Intermedia. 4° classificata al World Dog Show. Top Dog Junior 2023.</p>
   </div>
 
-  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
+  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center;display:flex;flex-direction:column;height:100%">
   <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Lothar Matthäus</h3>
   <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Giovane Campione Italiano e Campione Sloveno</p>
   <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Multipli JCAC e BOB Giovani in esposizioni nazionali e internazionali. Eccellente 1° in tutte le manifestazioni. Figlio di campioni inglesi.</p>
   </div>
 
-  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
+  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center;display:flex;flex-direction:column;height:100%">
   <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Queen of California</h3>
   <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Giovane Campionessa Italiana ENCI 2026</p>
   <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">17 maggio 2026, Esposizione Nazionale di Albarella: 1° Eccellente, JCAC, JBOB e BOB. Miglior Staffordshire Bull Terrier per il Gruppo Cinofilo Polesano. Figlia di CH. Elitebull Prospect × Lackyle Bean Croí Olc.</p>
   </div>
 
-  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
+  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center;display:flex;flex-direction:column;height:100%">
   <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Cattleya Del Piccolo Diavolo at Valconcaclan</h3>
   <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Giovane Campionessa e Campionessa di San Marino</p>
   <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Giovane Campionessa di San Marino nel 2023, Campionessa di San Marino nel 2024. Nata e allevata da noi, oggi di proprietà di Ricarda Mazzola Wagner (Valconcaclan). L2HGA e HC clear, PHPV unaffected, dentatura completa a forbice.</p>
@@ -174,8 +176,6 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">Chi Siamo</span>
   <h2 class="section-title">La nostra storia e come crescono i cuccioli</h2>
-
-  <p style="text-align:center;margin-bottom:2rem;font-size:1.1rem;color:#5c4a3a;font-weight:600">Allevamento con pedigree ENCI dal 2013 • Oltre 100 soggetti ceduti in Italia e Europa • 1 Campione Italiano e 2 Giovani Campioni • 4° al World Dog Show</p>
 
   <div class="content-block">
   <p style="font-size:.8rem;color:#8b5a2b;font-weight:600;letter-spacing:.08em;text-transform:uppercase;margin-bottom:.5rem">Paolo Boldrini — Allevatore dal 2013</p>
