@@ -81,6 +81,19 @@ custom_content: |
 
   <p>Prima di affidare un cucciolo vogliamo conoscere la famiglia: una telefonata, qualche domanda, spesso una visita. E il rapporto non finisce lì — restiamo disponibili per consigli e aggiornamenti anche a distanza di anni, e ogni cane che abbiamo allevato torna da noi se un giorno non potesse più restare dov'è.</p>
 
+  
+
+  </div>
+  </div>
+  </section>
+
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">Selezione</span>
+  <h2 class="section-title">Il nostro metodo di allevamento e selezione dei cuccioli</h2>
+
+  <p style="max-width:760px;margin:0 auto 2rem;text-align:center;color:#5c4a3a;line-height:1.8">Ogni cucciolata comincia molto prima dell'accoppiamento: dalla scelta dei due riproduttori, dai test genetici di entrambi e dalla verifica che le linee si completino invece di sommare gli stessi difetti. Poi vengono le otto settimane in casa, dove i cuccioli incontrano rumori, persone e altri animali mentre il cervello è ancora in formazione. E infine l'abbinamento con la famiglia, che proponiamo noi dopo aver osservato i caratteri: il cucciolo più intraprendente non è quasi mai quello giusto.</p>
+
   <h3 style="margin-top:2rem">Cosa vuol dire davvero «cresciuto in casa»</h3>
   <p>È la frase che scrivono tutti, quindi vale la pena dire cosa comporta. Le prime otto settimane sono <strong>metà della finestra di socializzazione</strong> di un cane: quello che incontra in quel periodo entra a far parte del suo mondo normale, quello che non incontra resterà per sempre una novità da valutare. Un cucciolo che a tre settimane sente l'aspirapolvere, il campanello e le voci di chi entra arriva a casa tua già abituato. Un cucciolo cresciuto in un box pulito ma silenzioso deve imparare tutto da capo, e certe cose non le recupera più.</p>
 
@@ -91,15 +104,6 @@ custom_content: |
   <p>Chiedi i certificati di laboratorio di entrambi i genitori, come documento, con nomi dei cani e numeri di microchip leggibili. Un allevatore serio li manda senza esitare, spesso prima che tu li chieda. Diffida invece di: cucciolate sempre disponibili o più cucciolate insieme; prezzi che cambiano in base al colore del mantello; certificati promessi dopo l'acconto; risultati mostrati solo come fotografia sullo schermo; e la frase «i genitori sono sani, non abbiamo mai avuto problemi», che risponde a una domanda diversa. Un altro segnale, meno ovvio: <strong>se non ti fanno nessuna domanda, non aspettarti che riprendano il cane se un giorno ti servisse.</strong></p>
 
   <p><strong>Sul pedigree, una precisazione.</strong> L'ENCI certifica l'ascendenza, non chi alleva: è necessario, non sufficiente. Vale la pena aggiungere una cosa che sorprende chi si affaccia alla razza — molti dei cani che vincono nei ring europei non vengono da strutture, ma da case dove vivono due o tre soggetti. Le dimensioni non dicono niente sulla qualità, in nessuna delle due direzioni.</p>
-
-  </div>
-  </div>
-  </section>
-
-  <section class="section">
-  <div class="section-inner">
-  <span class="section-label">Selezione</span>
-  <h2 class="section-title">Il nostro metodo di allevamento e selezione dei cuccioli</h2>
 
   <div class="gallery-grid">
   <div class="gallery-item"><img src="/images/foto1.avif" alt="Cucciolo di Staffy nero appena nato tenuto in braccio" loading="lazy" decoding="async" width="300" height="400"></div>
@@ -140,7 +144,7 @@ custom_content: |
 
   <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
   <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Lothar Matthäus</h3>
-  <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Giovane Campione Italiano</p>
+  <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Giovane Campione Italiano e Campione Sloveno</p>
   <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Multipli JCAC e BOB Giovani in esposizioni nazionali e internazionali. Eccellente 1° in tutte le manifestazioni. Figlio di campioni inglesi.</p>
   </div>
 
@@ -150,11 +154,16 @@ custom_content: |
   <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">17 maggio 2026, Esposizione Nazionale di Albarella: 1° Eccellente, JCAC, JBOB e BOB. Miglior Staffordshire Bull Terrier per il Gruppo Cinofilo Polesano. Figlia di CH. Elitebull Prospect × Lackyle Bean Croí Olc.</p>
   </div>
 
+  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
+  <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Cattleya Del Piccolo Diavolo at Valconcaclan</h3>
+  <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Giovane Campionessa e Campionessa di San Marino</p>
+  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Giovane Campionessa di San Marino nel 2023, Campionessa di San Marino nel 2024. Nata e allevata da noi, oggi di proprietà di Ricarda Mazzola Wagner (Valconcaclan). L2HGA e HC clear, PHPV unaffected, dentatura completa a forbice.</p>
+  </div>
 
   </div>
 
   <div style="text-align:center;padding:1.5rem;background:#fff;border-radius:12px;border:1px solid rgba(139,115,85,0.15)">
-  <p style="font-size:1.1rem;color:#5c4a3a;margin-bottom:0.5rem"><strong>1 Campione Italiano - 2 Giovani Campioni Italiani - 4° al World Dog Show</strong></p>
+  <p style="font-size:1.1rem;color:#5c4a3a;margin-bottom:0.5rem"><strong>1 Campione Italiano - 2 Giovani Campioni Italiani - 1 Campionessa di San Marino - 4° al World Dog Show</strong></p>
   <p style="font-size:0.9rem;color:#4a3f35;margin-bottom:1rem">Risultati ottenuti con cani allevati e cresciuti da noi, non acquistati già titolati.</p>
   <a href="/palmares-del-piccolo-diavolo/" class="btn btn-primary" title="Vedi tutti i risultati" style="min-height:44px;display:inline-flex;align-items:center">Vedi Tutti i Risultati</a>
   </div>
