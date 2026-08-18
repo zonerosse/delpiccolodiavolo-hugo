@@ -84,29 +84,29 @@ custom_content: |
   <span class="section-label">Show Results</span>
   <h2 class="section-title">Our Champions and Show Results</h2>
   
-  <p style="text-align:center;margin-bottom:2rem">Del Piccolo Diavolo selection goes beyond aesthetics: our results in Italian and international rings testify years of work on health, type and character.</p>
+  <p style="margin-bottom:2rem">Del Piccolo Diavolo selection goes beyond aesthetics: our results in Italian and international rings testify years of work on health, type and character.</p>
   
-  <div class="successi-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1.5rem;margin-bottom:2rem">
+  <div class="successi-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1.5rem;margin-bottom:2rem;align-items:stretch">
   
-  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
+  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center;display:flex;flex-direction:column;height:100%">
   <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Bilquis Goddess Diabhal</h3>
   <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Italian Champion - 4th at Worlds</p>
   <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Record: 12 consecutive Excellent 1st shows. Italian Champion in Intermediate Class. 4th at World Dog Show. Top Dog Junior 2023.</p>
   </div>
   
-  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
+  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center;display:flex;flex-direction:column;height:100%">
   <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Lothar Matthäus</h3>
   <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Italian Junior Champion and Slovenian Champion</p>
   <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Multiple JCAC and Junior BOB in national and international shows. Excellent 1st in all events. Son of English champions.</p>
   </div>
 
-  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
+  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center;display:flex;flex-direction:column;height:100%">
   <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Queen of California</h3>
   <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Italian Young Champion ENCI 2026</p>
   <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">17 May 2026, National Show in Albarella: Excellent 1st, JCAC, JBOB and BOB. Best Staffordshire Bull Terrier of the Polesano Canine Group. Daughter of CH. Elitebull Prospect × Lackyle Bean Croí Olc.</p>
   </div>
 
-  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center">
+  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center;display:flex;flex-direction:column;height:100%">
   <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Cattleya Del Piccolo Diavolo at Valconcaclan</h3>
   <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Junior Champion and Champion of San Marino</p>
   <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Junior Champion of San Marino in 2023, Champion of San Marino in 2024. Born and raised by us, now owned by Ricarda Mazzola Wagner (Valconcaclan). L2HGA and HC clear, PHPV unaffected, complete scissor bite.</p>
