@@ -55,13 +55,13 @@
     "latitude": 44.7447,
     "longitude": 11.9456
   },
-  "aggregateRating": {
+  {{ if in (slice "recensioni" "reviews" "bewertungen") (path.Base .RelPermalink) }}"aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "4.9",
     "reviewCount": "38",
     "bestRating": "5",
     "worstRating": "1"
-  },
+  },{{ end }}
   "areaServed": [
     {"@type": "Country", "name": "Italy"},
     {"@type": "Country", "name": "Germany"},
@@ -257,7 +257,12 @@
   "keywords": "{{ if .Params.tags }}{{ delimit .Params.tags ", " }}{{ else }}Staffordshire Bull Terrier, allevamento, cuccioli, test genetici L2HGA HC{{ end }}",
   "about": {
     "@type": "Thing",
-    "name": "Staffordshire Bull Terrier"
+    "name": "Staffordshire Bull Terrier",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q39285",
+      "https://it.wikipedia.org/wiki/Staffordshire_bull_terrier",
+      "https://en.wikipedia.org/wiki/Staffordshire_Bull_Terrier"
+    ]
   }
 }
 </script>
@@ -315,7 +320,6 @@
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
   "@id": "{{ $baseURL }}/#organization",
-  "name": "{{ if eq $lang "de" }}Zucht Del Piccolo Diavolo{{ else if eq $lang "en" }}Del Piccolo Diavolo Kennel{{ else }}Allevamento Del Piccolo Diavolo{{ end }}",
   "review": [
     {{ range $i, $r := $rec }}{{ if $i }},{{ end }}
     {

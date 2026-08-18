@@ -33,10 +33,15 @@
 {{- $c = replaceRE `(?s)<em[^>]*>(.*?)</em>` "*$1*" $c -}}
 {{- $c = replaceRE `</p>` "\n\n" $c -}}
 {{- $c = replaceRE `<br\s*/?>` "\n" $c -}}
+{{- $c = replaceRE `(?s)</?(thead|tbody)[^>]*>` "" $c -}}
+{{- $c = replaceRE `(?s)<t[hd][^>]*>(.*?)</t[hd]>` "| $1 " $c -}}
+{{- $c = replaceRE `<tr[^>]*>` "\n" $c -}}
+{{- $c = replaceRE `</tr>` "|" $c -}}
+{{- $c = replaceRE `(?s)</?table[^>]*>` "\n" $c -}}
 {{- $c = replaceRE `<[^>]+>` "" $c -}}
 {{- $c = replaceRE `[ \t]+` " " $c -}}
 {{- $c = replaceRE `\n{3,}` "\n\n" $c -}}
-{{ $c | plainify | safeHTML }}
+{{ $c | plainify | htmlUnescape | safeHTML }}
 
 ---
 Fonte: {{ .Permalink }}
