@@ -69,7 +69,7 @@ custom_content: |
 
   <section class="section">
   <div class="section-inner">
-  <h2 class="section-title">Selezione responsabile di Staffordshire Bull Terrier dal 2013</h2>
+  <h2 class="section-title">Due cucciolate l’anno, non una al mese</h2>
   <div class="intro-block" style="text-align:left">
   <p>Del Piccolo Diavolo è un allevamento di Staffordshire Bull Terrier — lo Staffy, come lo chiamano gli appassionati — a <strong>Ostellato, in provincia di Ferrara</strong>, attivo dal <strong>2013</strong>. Paolo Boldrini segue la razza da oltre vent'anni e alleva da dodici: due numeri diversi che raccontano la stessa cosa, cioè che l'allevamento è nato dopo un lungo periodo di studio, non prima.</p>
 
@@ -96,7 +96,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Selezione</span>
-  <h2 class="section-title">Il nostro metodo di allevamento e selezione dei cuccioli</h2>
+  <h2 class="section-title">Come nasce una cucciolata, dalla scelta dei genitori all’affido</h2>
 
   <p style="max-width:760px;margin:0 auto 2rem;color:#5c4a3a;line-height:1.8">Ogni cucciolata comincia molto prima dell'accoppiamento: dalla scelta dei due riproduttori, dai test genetici di entrambi e dalla verifica che le linee si completino invece di sommare gli stessi difetti. Poi vengono le otto settimane in casa, dove i cuccioli incontrano rumori, persone e altri animali mentre il cervello è ancora in formazione. E infine l'abbinamento con la famiglia, che proponiamo noi dopo aver osservato i caratteri: il cucciolo più intraprendente non è quasi mai quello giusto.</p>
 
@@ -132,7 +132,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Risultati in Esposizione</span>
-  <h2 class="section-title">Risultati in esposizione dei nostri Staffy</h2>
+  <h2 class="section-title">Cosa dicono i giudici dei cani che alleviamo</h2>
 
   <p style="margin-bottom:2rem">La selezione Del Piccolo Diavolo non si ferma all'estetica: i risultati dei nostri Staffy sui ring italiani e internazionali testimoniano anni di lavoro su salute, tipicità e carattere.</p>
 
@@ -175,7 +175,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Chi Siamo</span>
-  <h2 class="section-title">La nostra storia e come crescono i cuccioli</h2>
+  <h2 class="section-title">Dove crescono i cuccioli, e chi c’è dietro</h2>
 
   <div class="content-block">
   <p style="font-size:.8rem;color:#8b5a2b;font-weight:600;letter-spacing:.08em;text-transform:uppercase;margin-bottom:.5rem">Paolo Boldrini — Allevatore dal 2013</p>
@@ -184,7 +184,7 @@ custom_content: |
   </div>
 
   <div class="content-block">
-  <h3>La vita quotidiana con gli Staffy</h3>
+  <h3>Come passa una giornata, qui</h3>
   <p>Ogni mattina inizia con saluti, corse nel prato e momenti di gioco. I nostri Staffordshire Bull Terrier vivono con noi, in casa e in giardino, imparano a conoscere suoni, odori e persone diverse. Crescono sereni, in un ambiente ricco di stimoli e affetto.</p>
   </div>
   </div>
@@ -193,14 +193,14 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Il Nostro Approccio</span>
-  <h2 class="section-title">Perché scegliere l'allevamento Del Piccolo Diavolo</h2>
+  <h2 class="section-title">Cosa cambia davvero, per te</h2>
 
   <div class="intro-block" style="text-align:left">
   <p>Scegliere Del Piccolo Diavolo significa affidarsi a un allevamento di Staffy che mette al primo posto salute, carattere e trasparenza, con un rapporto che continua anche dopo l'affido. Ecco perché le famiglie ci scelgono e ci consigliano.</p>
   </div>
 
   <div class="content-block">
-  <h3>Non sei un numero</h3>
+  <h3>Sai da chi nasce il tuo cucciolo</h3>
   <p>Perché qui non sei un numero. Ti raccontiamo tutto sui genitori, ti accogliamo in casa, ti accompagniamo anche dopo l'adozione. Se vuoi, puoi scegliere il nome insieme a noi.</p>
   </div>
 
@@ -209,12 +209,12 @@ custom_content: |
   </div>
 
   <div class="content-block">
-  <h3>La salute dei nostri cuccioli prima di tutto</h3>
+  <h3>Nessun accoppiamento senza test</h3>
   <p>Ogni soggetto è seguito da veterinari di fiducia, con controlli regolari e test genetici. Preferiamo poche cucciolate, seguite con attenzione, per garantire qualità e benessere.</p>
   </div>
 
   <div class="content-block">
-  <h3>Lo Staffy, un compagno vero</h3>
+  <h3>Un cane che ti segue ovunque</h3>
   <p>Lo Staffy è forte, affettuoso, giocherellone. Ama i bambini e si lega profondamente alla famiglia. Se cerchi un amico sincero, che ti segua ovunque e ti faccia sorridere ogni giorno, sei nel posto giusto.</p>
   </div>
   </div>
@@ -223,7 +223,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Risorse Gratuite</span>
-  <h2 class="section-title">Guide pratiche per il tuo Staffordshire Bull Terrier</h2>
+  <h2 class="section-title">Cosa sapere prima di prendere uno Staffy</h2>
 
   <p style="text-align:center;margin-bottom:1.5rem">Tutto quello che devi sapere prima e dopo l'arrivo del tuo Staffy.</p>
 

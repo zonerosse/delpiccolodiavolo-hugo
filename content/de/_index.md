@@ -59,7 +59,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Unsere Welpen</span>
-  <h2 class="section-title">Staffordshire Bull Terrier Welpen</h2>
+  <h2 class="section-title">Zwei Würfe im Jahr, nicht einer pro Monat</h2>
   
   <div class="gallery-grid">
   <div class="gallery-item"><img src="/images/foto1.avif" alt="Schwarzer Staffy-Welpe, gerade geboren, auf dem Arm gehalten" loading="lazy" decoding="async" width="300" height="400"></div>
@@ -82,7 +82,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Ausstellungserfolge</span>
-  <h2 class="section-title">Unsere Champions und Erfolge</h2>
+  <h2 class="section-title">Was die Richter über unsere Hunde sagen</h2>
   
   <p style="margin-bottom:2rem">Die Selektion von Del Piccolo Diavolo geht uber Asthetik hinaus: Unsere Ergebnisse auf italienischen und internationalen Ringen zeugen von jahrelanger Arbeit an Gesundheit, Typ und Charakter.</p>
   
@@ -127,7 +127,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Über Uns</span>
-  <h2 class="section-title">Unsere Geschichte und unser Zuchtalltag</h2>
+  <h2 class="section-title">Wo die Welpen aufwachsen, und wer dahintersteht</h2>
   
   <div class="content-block">
   <h3>Ein Projekt, das zur Zucht wurde</h3>
@@ -144,7 +144,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Unser Ansatz</span>
-  <h2 class="section-title">Unsere Zuchtmethode</h2>
+  <h2 class="section-title">Wie ein Wurf entsteht, von der Elternwahl bis zur Abgabe</h2>
   
   <div class="content-block">
   <h3>Warum einen Del Piccolo Diavolo Welpen wählen</h3>
@@ -170,7 +170,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Kostenlose Ressourcen</span>
-  <h2 class="section-title">Ratgeber für zukünftige Besitzer</h2>
+  <h2 class="section-title">Was man wissen sollte, bevor man einen Staffy nimmt</h2>
   
   <p style="text-align:center;margin-bottom:1.5rem">Alles, was Sie vor und nach der Ankunft Ihres Welpen wissen müssen.</p>
   
@@ -204,7 +204,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Haufig Gestellte Fragen</span>
-  <h2 class="section-title">FAQ uber Staffordshire Bull Terrier</h2>
+  <h2 class="section-title">Häufige Fragen zum Staffordshire Bull Terrier</h2>
   
   <div class="faq-container">
   

@@ -11,9 +11,9 @@
   Se il front matter non ha "correlati", non stampa nulla.
 */}}
 {{- $lang := .Site.Language.Lang -}}
-{{- $titolo := "Approfondimenti" -}}
-{{- if eq $lang "en" }}{{ $titolo = "Further reading" }}{{ end -}}
-{{- if eq $lang "de" }}{{ $titolo = "Weiterlesen" }}{{ end -}}
+{{- $titolo := "Se stai ancora valutando, leggi anche" -}}
+{{- if eq $lang "en" }}{{ $titolo = "If you are still weighing it up, read these too" }}{{ end -}}
+{{- if eq $lang "de" }}{{ $titolo = "Wenn Sie noch abwägen, lesen Sie auch" }}{{ end -}}
 {{- with .Params.correlati }}
 <section class="section">
 <div class="section-inner">
