@@ -44,6 +44,10 @@
   <meta name="theme-color" content="#8b5a2b">
   
   {{ if .Params.noindex }}<meta name="robots" content="noindex, follow">{{ end }}
+  <meta name="geo.region" content="IT-FE">
+  <meta name="geo.placename" content="Ostellato">
+  <meta name="geo.position" content="44.7461783;11.9377268">
+  <meta name="ICBM" content="44.7461783, 11.9377268">
   <link rel="canonical" href="{{ .Permalink }}">
   {{ with .OutputFormats.Get "MARKDOWN" }}<link rel="alternate" type="text/markdown" href="{{ .Permalink }}" title="Versione Markdown per agenti AI">{{ end }}
   <link rel="alternate" type="text/plain" href="{{ "llms.txt" | absLangURL }}" title="llms.txt">
