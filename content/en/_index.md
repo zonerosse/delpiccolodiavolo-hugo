@@ -59,7 +59,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Our Puppies</span>
-  <h2 class="section-title">Staffordshire Bull Terrier Puppies</h2>
+  <h2 class="section-title">Two litters a year, not one a month</h2>
   
   <div class="gallery-grid">
   <div class="gallery-item"><img src="/images/foto1.avif" alt="Black Staffy puppy just born, held in hands" loading="lazy" decoding="async" width="300" height="400"></div>
@@ -82,7 +82,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Show Results</span>
-  <h2 class="section-title">Our Champions and Show Results</h2>
+  <h2 class="section-title">What the judges say about the dogs we breed</h2>
   
   <p style="margin-bottom:2rem">Del Piccolo Diavolo selection goes beyond aesthetics: our results in Italian and international rings testify years of work on health, type and character.</p>
   
@@ -127,7 +127,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">About Us</span>
-  <h2 class="section-title">Our Story and Kennel Life</h2>
+  <h2 class="section-title">Where the puppies grow up, and who is behind them</h2>
   
   <div class="content-block">
   <h3>A project that became a Kennel</h3>
@@ -144,7 +144,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Our Approach</span>
-  <h2 class="section-title">Our Breeding Method</h2>
+  <h2 class="section-title">How a litter comes about, from choosing the parents to placement</h2>
   
   <div class="content-block">
   <h3>Why choose a Del Piccolo Diavolo puppy</h3>
@@ -170,7 +170,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Free Resources</span>
-  <h2 class="section-title">Guides for Future Owners</h2>
+  <h2 class="section-title">What to know before getting a Staffy</h2>
   
   <p style="text-align:center;margin-bottom:1.5rem">Everything you need to know before and after your puppy arrives.</p>
   
@@ -249,7 +249,7 @@ custom_content: |
   </section>
   
   <section class="dark-section">
-  <h2>My Passion - My Kennel</h2>
+  <h2>How my passion for the breed began</h2>
   <p>The passion for the Staffordshire Bull Terrier was born in 2005, the year I had my first encounter with this extraordinary breed during Crufts. I was immediately fascinated by these muscular and affectionate puppies, who won me over like true miniature Rottweilers. Having already experience with Rottweilers, I discovered a new world: made of determination, intelligence and unconditional love.</p>
   </section>
   
