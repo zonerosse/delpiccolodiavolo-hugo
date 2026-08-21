@@ -4,7 +4,7 @@ titleSeo: "Parassiti nello Staffordshire Bull Terrier: prevenzione"
 translationKey: "parassiti"
 articolo: true
 image: "/images/blog/salute-1.webp"
-description: "Prevenzione e controllo dei parassiti nello Staffordshire Bull Terrier: protocollo, tempistiche e prodotti."
+description: "Pulci, zecche, filaria e leishmaniosi nello Staffordshire Bull Terrier: quando trattare, quali prodotti e i sintomi che non vanno ignorati."
 slug: "salute-parassiti-prevenzione"
 custom_content: |
   <section class="hero">

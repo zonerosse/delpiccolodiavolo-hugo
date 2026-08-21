@@ -4,7 +4,7 @@ titleSeo: "Staffordshire Bull Terrier: Charakter und Familienleben"
 translationKey: "carattere-famiglia"
 articolo: true
 image: "/images/cucciolo-con-cavallo.avif"
-description: "Charakter des Staffordshire Bull Terrier und Familienleben, erzählt von einem ENCI-Züchter seit 2013."
+description: "Das Leben mit einem Staffordshire Bull Terrier: Kinder, andere Tiere, Wohnung und Energie, erzählt von einem ENCI-Züchter seit 2013."
 slug: "staffordshire-bull-terrier-charakter-familienleben"
 custom_content: |
   <section class="hero">

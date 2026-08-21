@@ -8,6 +8,7 @@
 
 <section class="section">
   <div class="section-inner">
+    {{ with .Content }}<div class="diario-intro" style="max-width:760px;margin:0 auto 2.5rem;line-height:1.8;color:#4a3f35">{{ . }}</div>{{ end }}
     <div class="diario-grid">
       {{ range .Pages.ByDate.Reverse }}{{ $p := . }}
       <article class="diario-card">

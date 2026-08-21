@@ -3,7 +3,7 @@ title: "Cuccioli: Gestione della solitudine"
 translationKey: "solitudine"
 articolo: true
 image: "/images/blog/hero-default.webp"
-description: "Insegnare al cucciolo a stare solo: prevenire ansia da separazione e abitudini scorrette."
+description: "Insegnare al cucciolo a stare solo senza ansia da separazione: da pochi minuti a qualche ora, con i tempi reali e gli errori che peggiorano il problema."
 slug: "cuccioli-gestione-solitudine"
 custom_content: |
   <section class="hero">

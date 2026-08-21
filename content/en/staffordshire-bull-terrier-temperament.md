@@ -1,5 +1,5 @@
 ---
-title: "The Staffordshire Bull Terrier Temperament: How It Was Selected"
+title: "The Staffordshire Bull Terrier Temperament: Where It Comes From"
 titleSeo: "Staffy temperament: how it was selected"
 articolo: true
 translationKey: "carattere"
@@ -23,7 +23,7 @@ correlati:
 <section class="hero">
 <div class="hero-content" style="max-width:100%">
 <span class="hero-eyebrow">Know the Breed</span>
-<h1 class="hero-title">The Staffordshire Bull Terrier Temperament: How It Was Selected</h1>
+<h1 class="hero-title">The Staffordshire Bull Terrier Temperament: Where It Comes From</h1>
 <p class="hero-subtitle">Why this dog is the way it is, and what it means to choose a character</p>
 </div>
 </section>

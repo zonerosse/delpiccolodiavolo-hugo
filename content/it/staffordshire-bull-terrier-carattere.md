@@ -1,5 +1,5 @@
 ---
-title: "Il Temperamento dello Staffordshire Bull Terrier: Come è Stato Selezionato"
+title: "Il Temperamento dello Staffordshire Bull Terrier: Come Nasce"
 titleSeo: "Temperamento dello Staffy: come è stato selezionato"
 articolo: true
 translationKey: "carattere"
@@ -23,7 +23,7 @@ correlati:
 <section class="hero">
 <div class="hero-content" style="max-width:100%">
 <span class="hero-eyebrow">Conosci la Razza</span>
-<h1 class="hero-title">Il Temperamento dello Staffordshire Bull Terrier: Come è Stato Selezionato</h1>
+<h1 class="hero-title">Il Temperamento dello Staffordshire Bull Terrier: Come Nasce</h1>
 <p class="hero-subtitle">Perché questo cane è fatto così, e cosa significa scegliere il carattere</p>
 </div>
 </section>

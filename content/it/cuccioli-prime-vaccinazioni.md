@@ -3,7 +3,7 @@ title: "Cuccioli: Prime Vaccinazioni"
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/cuccioli-2.webp"
-description: "Prime vaccinazioni del cucciolo Staffordshire Bull Terrier: calendario, tempi e consigli pratici."
+description: "Il calendario vaccinale del cucciolo Staffordshire Bull Terrier: quando si fanno i richiami, quando può uscire davvero e perché aspettare non è sempre giusto."
 slug: "cuccioli-prime-vaccinazioni"
 custom_content: |
   <section class="hero">

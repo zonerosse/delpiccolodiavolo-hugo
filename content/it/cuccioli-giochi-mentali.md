@@ -3,7 +3,7 @@ title: "Cuccioli: Giochi mentali"
 translationKey: "giochi-mentali"
 articolo: true
 image: "/images/blog/cuccioli-6.webp"
-description: "Giochi mentali per cuccioli Staffordshire Bull Terrier: stimolare mente e autocontrollo in sicurezza."
+description: "Giochi mentali per cuccioli di Staffordshire Bull Terrier: cosa serve davvero, quanto durano le sessioni e perché stancano più di una passeggiata."
 slug: "cuccioli-giochi-mentali"
 custom_content: |
   <section class="hero">

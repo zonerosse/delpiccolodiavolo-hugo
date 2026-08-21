@@ -1,5 +1,5 @@
 ---
-title: "È nata la cucciolata: Bilquis Goddess Diabhal × Black Jack Di Casa Giacalone — 8 cuccioli (agosto 2026)"
+title: "Cucciolata Bilquis × Black Jack: nati 8 cuccioli! (agosto 2026)"
 titleSeo: "Cucciolata Bilquis × Black Jack: 8 cuccioli, agosto 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
 description: "Nati il 1° agosto 2026: 8 cuccioli Staffordshire Bull Terrier da Bilquis Goddess Diabhal, Campionessa Italiana ENCI. Tutti prenotati."
