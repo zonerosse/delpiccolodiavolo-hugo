@@ -147,7 +147,7 @@ custom_content: |
   <li><strong>Embark</strong> - Test genetico completo che include anche L2-HGA e HC</li>
   </ul>
   
-  <p>I costi variano da 50€ a 150€ per test, con pacchetti combinati spesso disponibili. Un investimento minimo rispetto alle sofferenze e ai costi veterinari di un cane malato.</p>
+  <p>Il pacchetto genetico che comprende L2HGA e HC costa circa 120€ per cane in laboratorio. A quella cifra vanno però aggiunti il prelievo dal veterinario, la spedizione del campione e la visita oculistica per il PHPV, che si fa in centri specializzati: fra tutto si arriva a circa 400€ per cane. Un investimento minimo rispetto alle sofferenze e ai costi veterinari di un cane malato.</p>
   
   <h3>Interpretare i Risultati</h3>
   
@@ -210,7 +210,7 @@ custom_content: |
   
   <ul>
   <li>"I miei cani sono sani, non servono test" - Un allevatore serio testa SEMPRE</li>
-  <li>"I test costano troppo" - Costano meno di 200€ totali, niente rispetto a un cane</li>
+  <li>"I test costano troppo" - Circa 400€ per cane fra laboratorio, prelievo e visita oculistica: niente rispetto a un cane</li>
   <li>"La linea è pulita da generazioni" - Senza certificati, sono solo parole</li>
   <li>"Te li mando dopo" - I certificati devono essere disponibili PRIMA dell'acquisto</li>
   <li>Certificati illeggibili, fotocopiati male o senza microchip verificabile</li>
@@ -274,10 +274,10 @@ custom_content: |
   <h3>Costo della Prevenzione (per l'allevatore)</h3>
   
   <ul>
-  <li>Test L2-HGA: ~60-80€ per cane</li>
-  <li>Test HC: ~60-80€ per cane</li>
-  <li>Esame ECVO: ~80-100€ per cane</li>
-  <li><strong>Totale per coppia riproduttrice: ~400-500€</strong></li>
+  <li>Pacchetto genetico L2HGA + HC in laboratorio: ~120€ per cane</li>
+  <li>(i due test sono compresi nello stesso pacchetto)</li>
+  <li>Prelievo, spedizione e visita oculistica per il PHPV: il resto della spesa</li>
+  <li><strong>Totale reale per coppia riproduttrice: ~800€</strong></li>
   </ul>
   
   <h3>Costo della Malattia (per l'acquirente)</h3>
@@ -304,7 +304,7 @@ custom_content: |
   <div class="faq-item">
   <h3 class="faq-question">Quanto costano i test L2-HGA e HC?</h3>
   <div class="faq-answer">
-  <p>I costi variano da laboratorio a laboratorio, ma in genere ogni test costa tra 50€ e 80€. Molti laboratori offrono pacchetti combinati (L2-HGA + HC insieme) a prezzi scontati, intorno ai 100-130€. Considerando che un cucciolo di Staffy ha tutt’altro valore, è un investimento minimo per l'allevatore.</p>
+  <p>Il laboratorio chiede circa 120€ per il pacchetto genetico, ma il costo reale per l’allevatore è più alto: si aggiunge il prelievo veterinario, la spedizione del campione e la visita oculistica. Molti laboratori offrono pacchetti combinati (L2-HGA + HC insieme) a prezzi scontati, intorno ai 400€ per cane, tutto compreso. Considerando che un cucciolo di Staffy ha tutt’altro valore, è un investimento minimo per l'allevatore.</p>
   </div>
   </div>
   

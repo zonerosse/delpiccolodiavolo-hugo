@@ -104,7 +104,7 @@ categories: ["Cuccioli"]
 
 <p>Questo prezzo riflette:</p>
 <ul>
-<li>Test genetici sui riproduttori (200-400€)</li>
+<li>Test genetici e visita oculistica sui riproduttori (circa 800€ per la coppia)</li>
 <li>Alimentazione di qualità per madre e cuccioli</li>
 <li>Vaccinazioni e visite veterinarie</li>
 <li>Socializzazione e cure quotidiane per 60+ giorni</li>

@@ -104,7 +104,7 @@ categories: ["Puppies"]
 
 <p>That price reflects:</p>
 <ul>
-<li>Genetic tests on the breeding stock (200-400 euros)</li>
+<li>Genetic tests and eye examination on the breeding stock (around 800 euros for the pair)</li>
 <li>Quality food for the dam and the puppies</li>
 <li>Vaccinations and veterinary visits</li>
 <li>Socialisation and daily care for 8 weeks and more</li>

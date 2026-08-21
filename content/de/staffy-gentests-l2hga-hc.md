@@ -51,7 +51,7 @@ custom_content: |
 
   <h2>Wie die Tests funktionieren</h2>
   <p>Die Tests basieren auf DNA und sind unkompliziert. Ein Wangenabstrich oder eine kleine Blutprobe wird entnommen, idealerweise vom Tierarzt, der zugleich den Mikrochip des Hundes überprüft, damit die Probe eindeutig diesem Tier zugeordnet ist, und an ein akkreditiertes Labor geschickt. Das Ergebnis liegt nach 2 bis 4 Wochen vor und gilt lebenslang: die DNA verändert sich nicht, ein Hund wird einmal getestet und nie wieder.</p>
-  <p>Die Kosten unterscheiden sich je nach Labor und Land, für beide Tests zusammen sind etwa achtzig bis hundertfünfzig Euro realistisch. Verglichen mit den Kosten einer lebenslangen antikonvulsiven Behandlung oder einer Kataraktoperation ist das eine unbedeutende Summe. Deshalb betrachtet kein ernsthafter Züchter diese Ausgabe als freiwillig.</p>
+  <p>Die Kosten unterscheiden sich je nach Labor und Land, für beide Tests zusammen sind etwa etwa 120 Euro für das Genpaket im Labor; rechnet man Blutentnahme, Versand und Augenuntersuchung hinzu, sind es rund 400 Euro pro Hund realistisch. Verglichen mit den Kosten einer lebenslangen antikonvulsiven Behandlung oder einer Kataraktoperation ist das eine unbedeutende Summe. Deshalb betrachtet kein ernsthafter Züchter diese Ausgabe als freiwillig.</p>
 
   <h2>Ergebnisse richtig lesen</h2>
   <p><strong>Frei (clear)</strong> bedeutet zwei normale Genkopien. Der Hund kann weder erkranken noch die Mutation weitergeben.</p>
@@ -72,7 +72,7 @@ custom_content: |
   <p>Zunehmend wird auch die Atemqualität beurteilt. Der Staffordshire Bull Terrier ist keine brachyzephale Rasse, doch die Tendenz zu immer kürzeren Fängen in manchen Ausstellungslinien hat Folgen. Ein Hund, der bei Wärme oder nach mäßiger Bewegung Mühe hat, hat ein Wohlbefindensproblem, unabhängig davon, wie er im Stand aussieht.</p>
 
   <h2>Kosten der Vorsorge gegen Kosten der Krankheit</h2>
-  <p>Beide Elterntiere zu testen kostet einmalig etwa hundert Euro. Die Lebenszeitkosten eines an L2-HGA erkrankten Hundes gehen in die Tausende, und eine Kataraktoperation an einem Auge kostet ungefähr so viel wie der Welpe selbst. Die eigentliche Frage ist aber nicht das Geld. Sie lautet: eine Familie, die sich bewusst für eine gesunde Rasse und einen Welpen mit Papieren entschieden hat, sollte nie in diese Lage kommen, wenn ein Wangenabstrich und 3 Wochen Wartezeit es vollständig verhindert hätten.</p>
+  <p>Beide Elterntiere zu testen kostet einmalig insgesamt etwa 800 Euro. Die Lebenszeitkosten eines an L2-HGA erkrankten Hundes gehen in die Tausende, und eine Kataraktoperation an einem Auge kostet ungefähr so viel wie der Welpe selbst. Die eigentliche Frage ist aber nicht das Geld. Sie lautet: eine Familie, die sich bewusst für eine gesunde Rasse und einen Welpen mit Papieren entschieden hat, sollte nie in diese Lage kommen, wenn ein Wangenabstrich und 3 Wochen Wartezeit es vollständig verhindert hätten.</p>
 
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
