@@ -249,14 +249,14 @@ custom_content: |
   </section>
   
   <section class="dark-section">
-  <h2>Meine Leidenschaft - Meine Zucht</h2>
+  <h2>Wie meine Leidenschaft für den Staffordshire Bull Terrier begann</h2>
   <p>Die Leidenschaft für den Staffordshire Bull Terrier wurde 2005 geboren, dem Jahr, in dem ich meine erste Begegnung mit dieser außergewöhnlichen Rasse während Crufts hatte. Ich war sofort fasziniert von diesen muskulösen und liebevollen Welpen, die mich wie echte Miniatur-Rottweiler erobert haben. Mit bereits Erfahrung mit Rottweilern entdeckte ich eine neue Welt: gemacht aus Entschlossenheit, Intelligenz und bedingungsloser Liebe.</p>
   </section>
   
   <!--CORRELATI-->
 
   <section class="cta-section">
-  <h2>Möchten Sie Infos zu Welpen?</h2>
+  <h2>Schreiben Sie uns, um unsere Staffys kennenzulernen</h2>
   <p>Rufen Sie uns an für ein unverbindliches Gespräch. Wir beantworten gerne alle Ihre Fragen.</p>
   <a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20schreibe%20von%20der%20Del%20Piccolo%20Diavolo%20Website" class="btn" title="Schreiben Sie uns auf WhatsApp">Auf WhatsApp Schreiben</a>
   </section>

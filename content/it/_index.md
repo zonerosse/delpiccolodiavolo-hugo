@@ -59,7 +59,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <div class="callout" style="max-width:700px;margin:0 auto;text-align:center">
-  <h2 class="callout-title" style="font-size:1.15rem;margin:0 0 .6rem">Ne hanno parlato</h2>
+  <h2 class="callout-title" style="font-size:1.15rem;margin:0 0 .6rem">FerraraToday: la storia di Bilquis, Campionessa Italiana</h2>
   <p><strong>FerraraToday</strong> — 6 gennaio 2026<br>
   "Da Ferrara alla conquista del mondo: Bilquis, la cagnolina di 3 anni che fa incetta di premi"</p>
   <p><a href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" target="_blank" rel="noopener" title="Leggi l'articolo su FerraraToday">Leggi l'articolo &rarr;</a></p>
@@ -110,6 +110,8 @@ custom_content: |
 
   <h3 style="margin-top:1.6rem">Come riconoscere un allevamento che non lo è</h3>
   <p>Chiedi i certificati di laboratorio di entrambi i genitori, come documento, con nomi dei cani e numeri di microchip leggibili. Un allevatore serio li manda senza esitare, spesso prima che tu li chieda. Diffida invece di: cucciolate sempre disponibili o più cucciolate insieme; prezzi che cambiano in base al colore del mantello; certificati promessi dopo l'acconto; risultati mostrati solo come fotografia sullo schermo; e la frase «i genitori sono sani, non abbiamo mai avuto problemi», che risponde a una domanda diversa. Un altro segnale, meno ovvio: <strong>se non ti fanno nessuna domanda, non aspettarti che riprendano il cane se un giorno ti servisse.</strong></p>
+
+  <p>Chi confronta più <strong>allevamenti di Staffordshire Bull Terrier in Italia</strong> se ne accorge presto: le differenze non stanno nelle fotografie, ma in quello che ciascuno è disposto a mostrare quando gli fai una domanda precisa.</p>
 
   <p><strong>Sul pedigree, una precisazione.</strong> L'ENCI certifica l'ascendenza, non chi alleva: è necessario, non sufficiente. Vale la pena aggiungere una cosa che sorprende chi si affaccia alla razza — molti dei cani che vincono nei ring europei non vengono da strutture, ma da case dove vivono due o tre soggetti. Le dimensioni non dicono niente sulla qualità, in nessuna delle due direzioni.</p>
 
@@ -193,7 +195,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Il Nostro Approccio</span>
-  <h2 class="section-title">Cosa cambia davvero, per te</h2>
+  <h2 class="section-title">Cosa ottieni da un allevamento di Staffy con pedigree ENCI</h2>
 
   <div class="intro-block" style="text-align:left">
   <p>Scegliere Del Piccolo Diavolo significa affidarsi a un allevamento di Staffy che mette al primo posto salute, carattere e trasparenza, con un rapporto che continua anche dopo l'affido. Ecco perché le famiglie ci scelgono e ci consigliano.</p>
@@ -300,12 +302,12 @@ custom_content: |
   </section>
 
   <section class="dark-section">
-  <h2>Come è nata la mia passione per la razza</h2>
+  <h2>Come è nata la mia passione per lo Staffordshire Bull Terrier</h2>
   <p>La passione per lo Staffordshire Bull Terrier nasce nel 2005, anno in cui ho avuto il mio primo incontro con questa straordinaria razza durante il Crufts. 8 anni dopo, nel 2013, è nato l'allevamento. Sono rimasto subito affascinato da questi cani muscolosi e affettuosi, che mi hanno conquistato come veri Rottweiler in miniatura. Avendo già esperienza con i Rottweiler, ho scoperto un mondo nuovo: fatto di determinazione, intelligenza e amore incondizionato.</p>
   </section>
 
   <section class="cta-section">
-  <h2>Vuoi informazioni sui nostri cuccioli?</h2>
+  <h2>Scrivici per conoscere i nostri Staffy di persona</h2>
   <p>Chiamaci per una chiacchierata senza impegno. Siamo qui per rispondere a tutte le tue domande.</p>
   <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20ti%20scrivo%20dal%20sito%20Del%20Piccolo%20Diavolo" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Scrivici su WhatsApp" aria-label="Contattaci su WhatsApp per informazioni">Scrivici su WhatsApp</a>
   </section>
