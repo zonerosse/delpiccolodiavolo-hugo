@@ -123,7 +123,7 @@ custom_content: |
   <li><strong>Company:</strong> no more than 4-5 hours alone at a stretch, less as a puppy</li>
   <li><strong>Training:</strong> daily consistency in the first months; a basic course is recommended</li>
   <li><strong>Coat care:</strong> minimal (a brush once a week)</li>
-  <li><strong>Puppy cost:</strong> between €1,200 and €1,500 from a serious kennel with ENCI pedigree and genetic tests — <a href="/en/puppy-buying-tips/">here's what to check before buying</a></li>
+  <li><strong>Puppy cost:</strong> from a serious kennel with ENCI pedigree and genetic tests — <a href="/en/puppy-buying-tips/">here's what to check before buying</a></li>
   <li><strong>Upkeep:</strong> quality food, vet, parasite control — the breed has no particular needs beyond the norm</li>
   </ul>
   

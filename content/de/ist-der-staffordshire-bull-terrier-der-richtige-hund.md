@@ -123,7 +123,7 @@ custom_content: |
   <li><strong>Gesellschaft:</strong> nicht mehr als 4-5 Stunden am Stück allein, weniger als Welpe</li>
   <li><strong>Erziehung:</strong> tägliche Beständigkeit in den ersten Monaten; ein Grundkurs wird empfohlen</li>
   <li><strong>Fellpflege:</strong> minimal (einmal pro Woche bürsten)</li>
-  <li><strong>Welpenkosten:</strong> zwischen 1.200 und 1.500 € aus einer seriösen Zucht mit ENCI-Stammbaum und Gentests — <a href="/de/welpen-kauftipps/">hier, worauf Sie vor dem Kauf achten sollten</a></li>
+  <li><strong>Welpenkosten:</strong> aus einer seriösen Zucht mit ENCI-Stammbaum und Gentests — <a href="/de/welpen-kauftipps/">hier, worauf Sie vor dem Kauf achten sollten</a></li>
   <li><strong>Unterhalt:</strong> hochwertiges Futter, Tierarzt, Parasitenschutz — die Rasse hat keine besonderen Bedürfnisse über die Norm hinaus</li>
   </ul>
   

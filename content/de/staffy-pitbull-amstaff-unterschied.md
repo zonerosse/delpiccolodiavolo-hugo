@@ -63,6 +63,7 @@ custom_content: |
   <p>Anders in mehreren anderen Ländern: einige deutsche Bundesländer, Dänemark und Irland führen Listen, in denen mindestens einer dieser Hunde steht. Wer mit dem Hund reisen oder umziehen will, muss die Bestimmungen des Ziellandes einzeln prüfen.</p>
 
   <h2>Praktische Bedeutung beim Kauf</h2>
+  <p style="background:#faf7f2;border-left:4px solid #c9a227;padding:1rem 1.2rem;margin-bottom:1.2rem">Wenn die Wahl auf <strong>Staffy oder Amstaff</strong> eingegrenzt ist, haben wir einen eigenen Beitrag zu diesem Vergleich: <a href="/de/staffy-oder-amstaff-welche-rasse-passt-zu-ihnen/" title="Staffy oder Amstaff: welche wählen">welche der beiden Rassen zu Ihnen passt</a>.</p>
   <p>Wenn Sie einen Staffordshire Bull Terrier suchen, verlangen Sie die ENCI-Ahnentafel. Sie ist der einzige Nachweis der Rasse, und sie ist der Unterschied zwischen einem Hund, dessen Vorfahren und Gesundheitsergebnisse dokumentiert sind, und einem Hund mit ähnlichem Aussehen und unbekannter Herkunft.</p>
   <p>Misstrauen Sie Anzeigen, die die Begriffe vermischen, Welpen als "Pitbull-Staffy" bezeichnen oder mit einer Größe werben, die zu keinem der drei Standards passt. Und misstrauen Sie besonders dem Argument, Papiere seien unnötig, weil der Hund ja nur Familienhund werde: gerade dann ist die Herkunft die einzige Information, die Sie über sein Wesen haben.</p>
 

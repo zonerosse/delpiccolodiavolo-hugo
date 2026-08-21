@@ -89,7 +89,7 @@ custom_content: |
   <li>❌ Deliver puppies before 60 days of age</li>
   <li>❌ Always have puppies available of all ages (puppy mill)</li>
   <li>❌ Propose delivery at service stations or third-party locations instead of at the kennel</li>
-  <li>❌ Prices too low compared to market average (€500-800 is suspicious)</li>
+  <li>❌ Prices well below the market average for the breed</li>
   </ul>
   </div>
   

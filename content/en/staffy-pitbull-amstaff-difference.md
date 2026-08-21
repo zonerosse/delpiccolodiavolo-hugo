@@ -143,6 +143,8 @@ custom_content: |
   <p>The Amstaff, selected for shows, tends to have a slightly calmer temperament than the APBT. The AKC standard describes it as "good with children, reliable, trustworthy".</p>
   
   <h2>Which Breed to Choose?</h2>
+
+  <p style="background:#faf7f2;border-left:4px solid #c9a227;padding:1rem 1.2rem;margin-bottom:1.2rem">If your choice is narrowed to <strong>Staffy or Amstaff</strong>, we have a guide dedicated to that comparison: <a href="/en/staffy-or-amstaff-which-breed-suits-you/" title="Staffy or Amstaff: which to choose">which of the two breeds suits you</a>.</p>
   
   <h3>Choose the Staffordshire Bull Terrier if:</h3>
   <ul>

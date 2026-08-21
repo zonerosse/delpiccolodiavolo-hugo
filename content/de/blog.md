@@ -48,9 +48,28 @@ custom_content: |
   <section class="section" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Kategorie</span>
-  <h2 class="section-title">Welpen <span class="count">(8)</span></h2>
+  <h2 class="section-title">Welpen <span class="count">(10)</span></h2>
   
   <div class="blog-grid">
+  <article class="blog-card">
+  <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Lesen: Was kostet ein Staffordshire Bull Terrier Welpe"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier Welpen: was ein Welpe wirklich kostet" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">25 Jan 2026</span><span>•</span><span class="cat">Welpen</span></div>
+  <h3><a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Lesen: Was kostet ein Staffordshire Bull Terrier Welpe">Was kostet ein Staffordshire Bull Terrier Welpe</a></h3>
+  <p>Was im Preis wirklich enthalten ist und warum Schnäppchen ein Warnsignal sind.</p>
+  <a class="read" href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/">Lesen →</a>
+  </div>
+  </article>
+  <article class="blog-card">
+  <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Lesen: Wie wählt man eine Staffordshire Bull Terrier Zucht"><div class="blog-card-thumb"><img src="/images/blog/cucciolata-erba.avif" alt="Staffordshire Bull Terrier Welpen im Gras einer seriösen Zucht" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">18 Jan 2026</span><span>•</span><span class="cat">Welpen</span></div>
+  <h3><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Lesen: Wie wählt man eine Staffordshire Bull Terrier Zucht">Wie wählt man eine Staffordshire Bull Terrier Zucht</a></h3>
+  <p>Gentests, Ahnentafel, der Besuch vor Ort und die Warnsignale.</p>
+  <a class="read" href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/">Lesen →</a>
+  </div>
+  </article>
+
   <article class="blog-card">
   <a href="/de/welpen-sozialisierung-zuhause/" title="Lesen: Sozialisierung zu Hause"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier Welpen: sozialisierung zu Hause" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -138,9 +157,28 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Kategorie</span>
-  <h2 class="section-title">Standard und Blutlinien <span class="count">(5)</span></h2>
+  <h2 class="section-title">Standard und Blutlinien <span class="count">(7)</span></h2>
   
   <div class="blog-grid">
+  <article class="blog-card">
+  <a href="/de/staffy-oder-amstaff-welche-rasse-passt-zu-ihnen/" title="Lesen: Staffy oder Amstaff: welche Rasse passt zu Ihnen"><div class="blog-card-thumb"><img src="/images/blog/hero-default.webp" alt="Staffordshire Bull Terrier im Vergleich mit dem American Staffordshire Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">18 Jan 2026</span><span>•</span><span class="cat">Rassestandard</span></div>
+  <h3><a href="/de/staffy-oder-amstaff-welche-rasse-passt-zu-ihnen/" title="Lesen: Staffy oder Amstaff: welche Rasse passt zu Ihnen">Staffy oder Amstaff: welche Rasse passt zu Ihnen</a></h3>
+  <p>17 kg gegen 30, Wohnung oder Garten: die Fragen vor der Entscheidung.</p>
+  <a class="read" href="/de/staffy-oder-amstaff-welche-rasse-passt-zu-ihnen/">Lesen →</a>
+  </div>
+  </article>
+  <article class="blog-card">
+  <a href="/de/staffordshire-bull-terrier-wesen/" title="Lesen: Das Wesen des Staffordshire Bull Terrier"><div class="blog-card-thumb"><img src="/images/blog/famiglia-1.jpg" alt="Staffordshire Bull Terrier mit der Familie: das Wesen der Rasse" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">18 Jan 2026</span><span>•</span><span class="cat">Rassestandard</span></div>
+  <h3><a href="/de/staffordshire-bull-terrier-wesen/" title="Lesen: Das Wesen des Staffordshire Bull Terrier">Das Wesen des Staffordshire Bull Terrier</a></h3>
+  <p>Wie es selektiert wurde, was der Standard sagt und wie man Welpen beurteilt.</p>
+  <a class="read" href="/de/staffordshire-bull-terrier-wesen/">Lesen →</a>
+  </div>
+  </article>
+
   <article class="blog-card">
   <a href="/de/staffy-pitbull-amstaff-unterschied/" title="Lesen: Unterschied Staffy Pitbull Amstaff"><div class="blog-card-thumb"><img src="/images/blog/hero-default.webp" alt="Unterschied Staffy Pitbull Amstaff" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">

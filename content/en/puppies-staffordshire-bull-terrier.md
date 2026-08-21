@@ -175,6 +175,8 @@ custom_content: |
   
   <!--CORRELATI-->
 
+  <p style="margin-top:1rem">For a detailed breakdown of what a puppy costs and what the price includes, read <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="How much does a Staffordshire Bull Terrier puppy cost">how much a Staffordshire Bull Terrier puppy costs</a>.</p>
+
   <section class="cta-section">
   <h2>Want Info About Puppies?</h2>
   <p>Call us or write on WhatsApp for information about available litters.</p>

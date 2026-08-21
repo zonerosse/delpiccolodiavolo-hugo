@@ -272,7 +272,7 @@ custom_content: |
   <span>Quanto costa uno Staffordshire con pedigree ENCI?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Uno Staffordshire con pedigree ENCI, test genetici completi (L2HGA, HC) e garanzie costa tra 1.200 e 1.500 euro. Il prezzo include vaccinazioni, microchip, sverminazioni e supporto post-adozione.</div>
+  <div class="faq-answer">Uno Staffordshire con pedigree ENCI, test genetici completi (L2HGA, HC) e garanzie ha un prezzo che riflette il lavoro che c’è dietro. Il prezzo include vaccinazioni, microchip, sverminazioni e supporto post-adozione.</div>
   </div>
 
   <div class="faq-item active">

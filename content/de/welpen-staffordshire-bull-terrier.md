@@ -175,6 +175,8 @@ custom_content: |
   
   <!--CORRELATI-->
 
+  <p style="margin-top:1rem">Eine ausführliche Aufstellung, was ein Welpe kostet und was im Preis enthalten ist, finden Sie unter <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Was kostet ein Staffordshire Bull Terrier Welpe">was ein Staffordshire Bull Terrier Welpe kostet</a>.</p>
+
   <section class="cta-section">
   <h2>Möchten Sie Infos zu Welpen?</h2>
   <p>Rufen Sie uns an oder schreiben Sie uns auf WhatsApp für Informationen über verfügbare Würfe.</p>
