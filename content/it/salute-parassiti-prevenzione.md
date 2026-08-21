@@ -198,7 +198,7 @@ custom_content: |
   <h3>Malattie Trasmesse da Zecche</h3>
   
   <ul>
-  <li>Febbre alta (>39.5°C) entro 3 settimane dalla rimozione zecca</li>
+  <li>Febbre alta (&gt;39.5°C) entro 3 settimane dalla rimozione zecca</li>
   <li>Letargia marcata, inappetenza persistente</li>
   <li>Zoppia intermittente o gonfiore articolare</li>
   <li>Urine scure/rosse (babesiosi - URGENZA)</li>

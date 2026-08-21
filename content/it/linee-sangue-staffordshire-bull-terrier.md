@@ -146,7 +146,7 @@ custom_content: |
   <li><strong>COI 0-5%</strong> - Eccellente, indica linee diverse e basso inbreeding</li>
   <li><strong>COI 6-10%</strong> - Accettabile, ma richiede attenzione</li>
   <li><strong>COI 11-15%</strong> - Preoccupante, aumenta il rischio di problemi genetici</li>
-  <li><strong>COI >15%</strong> - Alto rischio, da evitare per la riproduzione</li>
+  <li><strong>COI &gt;15%</strong> - Alto rischio, da evitare per la riproduzione</li>
   </ul>
   
   <h2>Linea M vs Linea R: Confronto</h2>
