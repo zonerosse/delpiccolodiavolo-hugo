@@ -17,6 +17,9 @@
   {{ $c = replace $c "<!--CORRELATI-->" (partial "correlati.html" .) }}
   {{ $c = replace $c "<!--HEROFOTO-->" (partial "hero-foto.html" .) }}
   {{ replace $c "<!--LISTAATTESA-->" (partial "lista-attesa.html" .) | safeHTML }}
+  {{- $lbl := cond (eq $lang "de") "Aktualisiert am" (cond (eq $lang "en") "Updated on" "Aggiornato il") -}}
+  {{- $dt := cond (eq $lang "en") (.Lastmod.Format "January 2, 2006") (partial "data-locale.html" .) -}}
+  <p class="pagina-meta" style="text-align:center;color:#8a7a68;font-size:.85rem;margin:2rem 0 1rem">{{ $lbl }} {{ $dt }} · Paolo Boldrini, {{ cond (eq $lang "de") "Züchter seit 2013" (cond (eq $lang "en") "breeder since 2013" "allevatore dal 2013") }}</p>
 {{ else }}
   <section class="hero">
     <div class="hero-visual"><div class="hero-image">

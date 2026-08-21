@@ -1,4 +1,4 @@
 {{- $mesi := dict "it" (slice "gennaio" "febbraio" "marzo" "aprile" "maggio" "giugno" "luglio" "agosto" "settembre" "ottobre" "novembre" "dicembre") "de" (slice "Januar" "Februar" "März" "April" "Mai" "Juni" "Juli" "August" "September" "Oktober" "November" "Dezember") -}}
 {{- $l := cond (eq .Site.Language.Lang "de") "de" "it" -}}
 {{- $m := index (index $mesi $l) (sub (int (.Lastmod.Format "1")) 1) -}}
-{{- printf "%s %s %s" (.Lastmod.Format "2") $m (.Lastmod.Format "2006") -}}
+{{- if eq $l "de" }}{{ printf "%s. %s %s" (.Lastmod.Format "2") $m (.Lastmod.Format "2006") }}{{ else }}{{ printf "%s %s %s" (.Lastmod.Format "2") $m (.Lastmod.Format "2006") }}{{ end -}}
