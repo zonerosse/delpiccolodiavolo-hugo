@@ -193,7 +193,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How much does it cost to maintain a Staffy per year?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">About €800-1,500/year: food €300-600, routine veterinary €150-250, insurance €150-300, accessories €100-150. Doesn't require expensive grooming. Considering 12-14 years of life, total cost is about €12,000-20,000.</div>
+  <div class="faq-answer">Around €300-500 a year for ordinary costs: quality food, routine veterinary care, parasite prevention and accessories. The short coat needs no expensive grooming. Insurance sits outside that figure, since it varies considerably by company and country, as do unexpected costs, which nobody can predict but which arrive sooner or later. Over 12-14 years of life, that means several thousand euros in total.</div>
   </div>
   
   </div>

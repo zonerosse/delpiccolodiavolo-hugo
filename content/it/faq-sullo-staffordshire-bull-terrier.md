@@ -194,7 +194,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quanto costa mantenere uno Staffy all'anno?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Circa 800-1.500€/anno: alimentazione 300-600€, veterinario ordinario 150-250€, assicurazione 150-300€, accessori 100-150€. Non richiede toelettature costose. Considerando 12-14 anni di vita, il costo totale è circa 12.000-20.000€.</div>
+  <div class="faq-answer">Intorno ai 300-500€ l’anno per le spese ordinarie: alimentazione di qualità, veterinario di routine, antiparassitari e accessori. Non richiede toelettature costose, il pelo raso non ha bisogno di nulla. A parte vanno considerate l’assicurazione, che varia molto per compagnia e per paese, e le spese impreviste, che nessuno può prevedere ma che prima o poi arrivano. Su 12-14 anni di vita si parla quindi di alcune migliaia di euro.</div>
   </div>
   
   <div class="faq-item active">
