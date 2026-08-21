@@ -57,7 +57,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie viel kostet ein Welpe mit ENCI-Stammbaum?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Ein Welpe von einer seriösen Zucht mit ENCI-Stammbaum, vollständigen Gentests und Gesundheitsgarantien kostet etwa zwischen 1.200€ und 1.500€. Der Preis spiegelt Jahre der Selektion, Kosten für Gentests (L2HGA, HC), Impfungen, Mikrochip und hochwertige Ernährung wider. Seien Sie vorsichtig bei Preisen unter 1.000€.</div>
+  <div class="faq-answer">Ein Welpe von einer seriösen Zucht mit ENCI-Stammbaum, vollständigen Gentests und Gesundheitsgarantien hat einen Preis, der Jahre der Selektion widerspiegelt: Kosten für Gentests (L2HGA, HC), Impfungen, Mikrochip und hochwertige Ernährung. Seien Sie vorsichtig bei Preisen unter 1.000€.</div>
   </div>
   
   <div class="faq-item active">

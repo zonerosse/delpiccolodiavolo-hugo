@@ -89,7 +89,7 @@ custom_content: |
   <li>❌ Welpen vor 60 Tagen Alter abgibt</li>
   <li>❌ Immer Welpen jeden Alters verfügbar hat (Welpenfabrik)</li>
   <li>❌ Übergabe an Autobahnraststätten oder Drittorten statt in der Zucht vorschlägt</li>
-  <li>❌ Preise zu niedrig im Vergleich zum Marktdurchschnitt (€500-800 ist verdächtig)</li>
+  <li>❌ Preise deutlich unter dem Marktdurchschnitt der Rasse</li>
   </ul>
   </div>
   

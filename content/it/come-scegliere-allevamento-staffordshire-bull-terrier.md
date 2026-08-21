@@ -2,6 +2,7 @@
 title: "Come Scegliere un Allevamento Staffordshire Bull Terrier"
 titleSeo: "Allevamento Staffordshire Bull Terrier: come sceglierlo"
 articolo: true
+translationKey: "come-scegliere"
 image: "/images/blog/cucciolata-erba.avif"
 description: "Guida completa per scegliere un allevamento Staffordshire Bull Terrier serio: test genetici, pedigree ENCI, segnali d'allarme e domande da fare."
 slug: "come-scegliere-allevamento-staffordshire-bull-terrier"
@@ -86,7 +87,7 @@ categories: ["Cuccioli"]
 <p><strong>Scappa se:</strong></p>
 
 <ul>
-<li>Prezzo sotto i 1.000€ (troppo basso per coprire i costi reali)</li>
+<li>Prezzo molto sotto la media della razza (troppo basso per coprire i costi reali)</li>
 <li>Cuccioli sempre disponibili (allevamento intensivo)</li>
 <li>Non permette visite in allevamento</li>
 <li>Non conosce i test genetici</li>
@@ -99,7 +100,7 @@ categories: ["Cuccioli"]
 
 <h2>Quanto costa un cucciolo da allevamento serio?</h2>
 
-<p>Un cucciolo Staffordshire Bull Terrier con pedigree ENCI, test genetici completi, vaccinazioni, microchip e garanzie costa tra <strong>1.200€ e 1.500€</strong>. Per un'analisi dettagliata dei costi, leggi <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p>
+<p>Un cucciolo Staffordshire Bull Terrier con pedigree ENCI, test genetici completi, vaccinazioni, microchip e garanzie ha <strong>il prezzo di un allevamento serio</strong>, non quello di un annuncio online. Per un'analisi dettagliata dei costi, leggi <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p>
 
 <p>Questo prezzo riflette:</p>
 <ul>
@@ -110,7 +111,7 @@ categories: ["Cuccioli"]
 <li>Pedigree, microchip, documentazione</li>
 </ul>
 
-<p>Chi vende a 500-800€ sta tagliando su qualcosa. E quel "qualcosa" potrebbe costarti molto di più in futuro.</p>
+<p>Chi vende a poche centinaia di euro sta tagliando su qualcosa. E quel "qualcosa" potrebbe costarti molto di più in futuro.</p>
 
 <h2>Perché scegliere Del Piccolo Diavolo</h2>
 

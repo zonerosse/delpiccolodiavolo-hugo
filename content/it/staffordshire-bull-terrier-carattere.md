@@ -2,6 +2,7 @@
 title: "Il Temperamento dello Staffordshire Bull Terrier: Come è Stato Selezionato"
 titleSeo: "Temperamento dello Staffy: come è stato selezionato"
 articolo: true
+translationKey: "carattere"
 image: "/images/blog/famiglia-1.jpg"
 description: "Perché lo Staffordshire Bull Terrier ha questo carattere: la selezione storica, cosa dice lo standard e come si valuta il temperamento di un cucciolo."
 slug: "staffordshire-bull-terrier-carattere"

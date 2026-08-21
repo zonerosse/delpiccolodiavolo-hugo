@@ -48,9 +48,28 @@ custom_content: |
   <section class="section" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Category</span>
-  <h2 class="section-title">Puppies <span class="count">(8)</span></h2>
+  <h2 class="section-title">Puppies <span class="count">(10)</span></h2>
   
   <div class="blog-grid">
+  <article class="blog-card">
+  <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="Read: How Much Does a Staffordshire Bull Terrier Puppy Cost"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier puppies: what a puppy really costs" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">25 Jan 2026</span><span>•</span><span class="cat">Puppies</span></div>
+  <h3><a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="Read: How Much Does a Staffordshire Bull Terrier Puppy Cost">How Much Does a Staffordshire Bull Terrier Puppy Cost</a></h3>
+  <p>What the price really includes, and why bargain adverts are a warning sign.</p>
+  <a class="read" href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/">Read →</a>
+  </div>
+  </article>
+  <article class="blog-card">
+  <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Read: How to Choose a Staffordshire Bull Terrier Breeder"><div class="blog-card-thumb"><img src="/images/blog/cucciolata-erba.avif" alt="Staffordshire Bull Terrier puppies in the grass at a serious kennel" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">18 Jan 2026</span><span>•</span><span class="cat">Puppies</span></div>
+  <h3><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Read: How to Choose a Staffordshire Bull Terrier Breeder">How to Choose a Staffordshire Bull Terrier Breeder</a></h3>
+  <p>Genetic tests, pedigree, the kennel visit and the warning signs.</p>
+  <a class="read" href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/">Read →</a>
+  </div>
+  </article>
+
   <article class="blog-card">
   <a href="/en/puppy-home-socialization/" title="Read: Home socialization"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier puppies: home socialization" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -138,9 +157,28 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Category</span>
-  <h2 class="section-title">Standard and Bloodlines <span class="count">(5)</span></h2>
+  <h2 class="section-title">Standard and Bloodlines <span class="count">(7)</span></h2>
   
   <div class="blog-grid">
+  <article class="blog-card">
+  <a href="/en/staffy-or-amstaff-which-breed-suits-you/" title="Read: Staffy or Amstaff: Which Breed Suits You"><div class="blog-card-thumb"><img src="/images/blog/hero-default.webp" alt="Staffordshire Bull Terrier compared with the American Staffordshire Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">18 Jan 2026</span><span>•</span><span class="cat">Breed Standard</span></div>
+  <h3><a href="/en/staffy-or-amstaff-which-breed-suits-you/" title="Read: Staffy or Amstaff: Which Breed Suits You">Staffy or Amstaff: Which Breed Suits You</a></h3>
+  <p>17 kg against 30, flat or garden: the questions to ask before choosing.</p>
+  <a class="read" href="/en/staffy-or-amstaff-which-breed-suits-you/">Read →</a>
+  </div>
+  </article>
+  <article class="blog-card">
+  <a href="/en/staffordshire-bull-terrier-temperament/" title="Read: The Staffordshire Bull Terrier Temperament"><div class="blog-card-thumb"><img src="/images/blog/famiglia-1.jpg" alt="Staffordshire Bull Terrier with the family: the temperament of the breed" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">18 Jan 2026</span><span>•</span><span class="cat">Breed Standard</span></div>
+  <h3><a href="/en/staffordshire-bull-terrier-temperament/" title="Read: The Staffordshire Bull Terrier Temperament">The Staffordshire Bull Terrier Temperament</a></h3>
+  <p>How it was selected, what the standard says, and how to assess a puppy.</p>
+  <a class="read" href="/en/staffordshire-bull-terrier-temperament/">Read →</a>
+  </div>
+  </article>
+
   <article class="blog-card">
   <a href="/en/staffy-pitbull-amstaff-difference/" title="Read: Staffy Pitbull Amstaff difference"><div class="blog-card-thumb"><img src="/images/blog/hero-default.webp" alt="Staffy Pitbull Amstaff difference" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">

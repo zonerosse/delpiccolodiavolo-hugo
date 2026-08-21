@@ -90,7 +90,7 @@ custom_content: |
   <li>❌ Consegna cuccioli prima delle 60 giorni di età</li>
   <li>❌ Ha sempre cuccioli disponibili di tutte le età (fabbrica di cuccioli)</li>
   <li>❌ Propone consegna in autogrill o luoghi terzi invece che in allevamento</li>
-  <li>❌ Prezzi troppo bassi rispetto alla media di mercato (€500-800 è sospetto)</li>
+  <li>❌ Prezzi molto sotto la media di mercato della razza</li>
   </ul>
   </div>
   

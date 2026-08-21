@@ -130,12 +130,8 @@
           "name": "{{ if eq $lang "de" }}Welpen mit ENCI-Stammbaum{{ else if eq $lang "en" }}Puppies with ENCI pedigree{{ else }}Cuccioli con pedigree ENCI{{ end }}",
           "description": "{{ if eq $lang "de" }}Welpen mit vollständigem ENCI-Stammbaum, L2HGA- und HC-Gentests, Impfungen und lebenslanger Nachsorge.{{ else if eq $lang "en" }}Puppies with full ENCI pedigree, L2HGA and HC genetic tests, vaccinations and lifetime support.{{ else }}Cuccioli con pedigree ENCI completo, test genetici L2HGA e HC, vaccinazioni e supporto a vita.{{ end }}"
         },
-        "priceSpecification": {
-          "@type": "PriceSpecification",
-          "minPrice": "1200",
-          "maxPrice": "1500",
-          "priceCurrency": "EUR"
-        }
+        "availability": "https://schema.org/LimitedAvailability",
+        "priceCurrency": "EUR"
       }
     ]
   }
@@ -179,7 +175,7 @@
       "name": "{{ if eq $lang "de" }}Wie viel kostet ein Welpe mit ENCI-Stammbaum?{{ else if eq $lang "en" }}How much does a puppy with ENCI pedigree cost?{{ else }}Quanto costa un cucciolo con pedigree ENCI?{{ end }}",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "{{ if eq $lang "de" }}Ein Welpe mit ENCI-Stammbaum, vollständigen Gentests (L2HGA, HC) und Garantien kostet zwischen 1.200 und 1.500 Euro. Im Preis enthalten sind Impfungen, Mikrochip, Entwurmungen und Nachsorge.{{ else if eq $lang "en" }}A puppy with ENCI pedigree, complete genetic tests (L2HGA, HC) and guarantees costs between 1,200 and 1,500 euros. The price includes vaccinations, microchip, deworming and post-adoption support.{{ else }}Un cucciolo con pedigree ENCI, test genetici completi (L2HGA, HC) e garanzie costa tra 1.200 e 1.500 euro. Il prezzo include vaccinazioni, microchip, sverminazioni e supporto post-adozione.{{ end }}"
+        "text": "{{ if eq $lang "de" }}Ein Welpe mit ENCI-Stammbaum, vollständigen Gentests (L2HGA, HC) und Garantien hat einen Preis, der die Arbeit dahinter widerspiegelt. Im Preis enthalten sind Impfungen, Mikrochip, Entwurmungen und Nachsorge.{{ else if eq $lang "en" }}A puppy with ENCI pedigree, complete genetic tests (L2HGA, HC) and guarantees has a price that reflects the work behind it. The price includes vaccinations, microchip, deworming and post-adoption support.{{ else }}Un cucciolo con pedigree ENCI, test genetici completi (L2HGA, HC) e garanzie ha un prezzo che riflette il lavoro che c’è dietro. Il prezzo include vaccinazioni, microchip, sverminazioni e supporto post-adozione.{{ end }}"
       }
     },
     {

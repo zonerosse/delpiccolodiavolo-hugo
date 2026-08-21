@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Reviews"
 translationKey: "recensioni"
-description: "⭐ 36 Google reviews 4.9/5: read real experiences from owners of our Staffordshire Bull Terriers. Professionalism, health and balanced character guaranteed."
+description: "⭐ 38 Google reviews 4.9/5: read real experiences from owners of our Staffordshire Bull Terriers. Professionalism, health and balanced character guaranteed."
 slug: "reviews"
 custom_content: |
   <section class="hero">
@@ -13,7 +13,7 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">⭐ 4.9/5 on Google</span>
   <h1 class="hero-title">Our <br><em>Reviews</em></h1>
-  <p class="hero-subtitle">36 verified testimonials</p>
+  <p class="hero-subtitle">38 verified testimonials</p>
   <p class="hero-description">Real experiences from owners of our Staffordshire Bull Terriers: professionalism, health and balanced character guaranteed.</p>
   <div class="hero-actions">
   <a href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" class="btn btn-primary" title="Read reviews on Google">Read on Google</a>
@@ -24,8 +24,8 @@ custom_content: |
   
   <div class="features-bar">
   <div class="features-track">
-  <span>Since 2013</span><span>4.9★ Google</span><span>36 Reviews</span><span>100% Verified</span><span>Lifetime Support</span><span>Satisfied Clients</span>
-  <span>Since 2013</span><span>4.9★ Google</span><span>36 Reviews</span><span>100% Verified</span><span>Lifetime Support</span><span>Satisfied Clients</span>
+  <span>Since 2013</span><span>4.9★ Google</span><span>38 Reviews</span><span>100% Verified</span><span>Lifetime Support</span><span>Satisfied Clients</span>
+  <span>Since 2013</span><span>4.9★ Google</span><span>38 Reviews</span><span>100% Verified</span><span>Lifetime Support</span><span>Satisfied Clients</span>
   </div>
   </div>
   

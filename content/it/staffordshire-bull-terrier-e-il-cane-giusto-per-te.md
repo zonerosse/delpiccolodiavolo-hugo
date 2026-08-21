@@ -123,7 +123,7 @@ custom_content: |
   <li><strong>Compagnia:</strong> non più di 4-5 ore da solo in modo continuativo, meno da cucciolo</li>
   <li><strong>Educazione:</strong> costanza quotidiana i primi mesi; consigliato un corso di base</li>
   <li><strong>Cure del pelo:</strong> minime (una spazzolata a settimana)</li>
-  <li><strong>Costo del cucciolo:</strong> tra 1.200 e 1.500 € da allevamento serio con pedigree ENCI e test genetici — <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/">ecco cosa comprende il prezzo</a></li>
+  <li><strong>Costo del cucciolo:</strong> da un allevamento serio con pedigree ENCI e test genetici — <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/">ecco cosa comprende il prezzo</a></li>
   <li><strong>Mantenimento:</strong> cibo di qualità, veterinario, antiparassitari — la razza non ha esigenze particolari oltre la norma</li>
   </ul>
   

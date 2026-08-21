@@ -57,7 +57,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How much does a puppy with ENCI pedigree cost?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">A puppy from a serious breeder with ENCI pedigree, complete genetic testing and health guarantees costs approximately €1,200 to €1,500. The price reflects years of selection, genetic testing costs (L2HGA, HC), vaccinations, microchip and quality nutrition. Be wary of prices under €1,000.</div>
+  <div class="faq-answer">A puppy from a serious breeder with ENCI pedigree, complete genetic testing and health guarantees has a price that reflects years of selection, genetic testing costs (L2HGA, HC), vaccinations, microchip and quality nutrition. Be wary of prices under €1,000.</div>
   </div>
   
   <div class="faq-item active">
