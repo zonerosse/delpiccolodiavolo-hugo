@@ -46,7 +46,7 @@ Facciamo due conti.
 Un cucciolo venduto a poche centinaia di euro significa che l'allevatore ha speso ancora meno per produrlo. Come è possibile?
 
 **Tagliando su tutto:**
-- Niente test genetici (100-150€ per cane, quindi 200-300€ solo per i genitori)
+- Niente test genetici (circa 400€ per cane fra laboratorio, prelievo e visita oculistica, quindi 800€ solo per i genitori)
 - Crocchette da discount invece di alimentazione di qualità
 - Niente o poche vaccinazioni
 - Niente pedigree (o pedigree falso)

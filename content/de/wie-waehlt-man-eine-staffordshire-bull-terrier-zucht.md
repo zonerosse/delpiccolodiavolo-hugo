@@ -104,7 +104,7 @@ categories: ["Welpen"]
 
 <p>Dieser Preis spiegelt wider:</p>
 <ul>
-<li>Gentests der Zuchttiere (200-400 Euro)</li>
+<li>Gentests und Augenuntersuchung der Zuchttiere (etwa 800 Euro für das Paar)</li>
 <li>Hochwertige Ernährung für Hündin und Welpen</li>
 <li>Impfungen und tierärztliche Untersuchungen</li>
 <li>Sozialisierung und tägliche Betreuung über 8 Wochen und mehr</li>

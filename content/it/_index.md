@@ -8,7 +8,7 @@ correlati:
     testo: "Pedigree ENCI e test genetici completi"
   - url: "/quanto-costa-cucciolo-staffordshire-bull-terrier/"
     titolo: "Quanto costa un cucciolo"
-    testo: "Prezzi reali, senza sorprese"
+    testo: "Cosa include davvero il prezzo di un cucciolo"
   - url: "/staffordshire-bull-terrier-e-il-cane-giusto-per-te/"
     titolo: "È il cane giusto per te?"
     testo: "Pregi e difetti, senza filtri"
@@ -106,7 +106,7 @@ custom_content: |
   <p>È la frase che scrivono tutti, quindi vale la pena dire cosa comporta. Le prime otto settimane sono <strong>metà della finestra di socializzazione</strong> di un cane: quello che incontra in quel periodo entra a far parte del suo mondo normale, quello che non incontra resterà per sempre una novità da valutare. Un cucciolo che a tre settimane sente l'aspirapolvere, il campanello e le voci di chi entra arriva a casa tua già abituato. Un cucciolo cresciuto in un box pulito ma silenzioso deve imparare tutto da capo, e certe cose non le recupera più.</p>
 
   <h3 style="margin-top:1.6rem">Perché i test genetici non sono un dettaglio</h3>
-  <p>L2HGA e cataratta ereditaria sono <strong>recessive</strong>: un cane può portare la mutazione, restare sano tutta la vita e produrre cuccioli malati se accoppiato con un altro portatore. Genitori visibilmente sani non dimostrano nulla — solo il test del DNA lo fa. Un cucciolo affetto da L2HGA sviluppa crisi neurologiche fra i sei mesi e l'anno di età, e non esiste cura. <strong>Testare entrambi i riproduttori costa circa cento euro, una volta sola.</strong> Quando oggi nasce un cucciolo malato non è sfortuna: è un accoppiamento fatto senza test.</p>
+  <p>L2HGA e cataratta ereditaria sono <strong>recessive</strong>: un cane può portare la mutazione, restare sano tutta la vita e produrre cuccioli malati se accoppiato con un altro portatore. Genitori visibilmente sani non dimostrano nulla — solo il test del DNA lo fa. Un cucciolo affetto da L2HGA sviluppa crisi neurologiche fra i sei mesi e l'anno di età, e non esiste cura. <strong>Testare entrambi i riproduttori costa circa 800€ fra laboratorio, prelievi e visite oculistiche, una volta sola.</strong> Quando oggi nasce un cucciolo malato non è sfortuna: è un accoppiamento fatto senza test.</p>
 
   <h3 style="margin-top:1.6rem">Come riconoscere un allevamento che non lo è</h3>
   <p>Chiedi i certificati di laboratorio di entrambi i genitori, come documento, con nomi dei cani e numeri di microchip leggibili. Un allevatore serio li manda senza esitare, spesso prima che tu li chieda. Diffida invece di: cucciolate sempre disponibili o più cucciolate insieme; prezzi che cambiano in base al colore del mantello; certificati promessi dopo l'acconto; risultati mostrati solo come fotografia sullo schermo; e la frase «i genitori sono sani, non abbiamo mai avuto problemi», che risponde a una domanda diversa. Un altro segnale, meno ovvio: <strong>se non ti fanno nessuna domanda, non aspettarti che riprendano il cane se un giorno ti servisse.</strong></p>

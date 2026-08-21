@@ -48,7 +48,7 @@ Let us do the arithmetic.
 A puppy sold for a few hundred euros means the breeder spent even less to produce it. How is that possible?
 
 **By cutting everything:**
-- No genetic testing (100-150 euros per dog, so 200-300 for both parents)
+- No genetic testing (around 400 euros per dog once sampling and the eye examination are counted, so 800 for both parents)
 - Supermarket kibble instead of quality food
 - Few vaccinations, or none
 - No pedigree, or a false one

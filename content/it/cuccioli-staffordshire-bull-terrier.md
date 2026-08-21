@@ -5,7 +5,7 @@ description: "Cuccioli Staffordshire Bull Terrier con pedigree ENCI e test genet
 correlati:
   - url: "/quanto-costa-cucciolo-staffordshire-bull-terrier/"
     titolo: "Quanto costa un cucciolo"
-    testo: "Prezzi reali e cosa include il prezzo"
+    testo: "Cosa include il prezzo e perché diffidare degli annunci"
   - url: "/come-scegliere-allevamento-staffordshire-bull-terrier/"
     titolo: "Come scegliere l'allevamento"
     testo: "Test genetici, pedigree e segnali d'allarme"

@@ -48,7 +48,7 @@ Rechnen wir kurz nach.
 Ein Welpe, der für wenige hundert Euro verkauft wird, bedeutet: die Zucht hat noch weniger für seine Aufzucht ausgegeben. Wie ist das möglich?
 
 **Indem an allem gespart wird:**
-- Keine Gentests (100-150 Euro pro Hund, also 200-300 allein für die Eltern)
+- Keine Gentests (etwa 400 Euro pro Hund mit Blutentnahme und Augenuntersuchung, also 800 allein für die Eltern)
 - Discounter-Futter statt hochwertiger Ernährung
 - Wenige Impfungen oder gar keine
 - Keine Ahnentafel oder eine gefälschte

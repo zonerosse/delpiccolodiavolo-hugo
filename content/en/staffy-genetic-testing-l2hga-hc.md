@@ -58,7 +58,7 @@ custom_content: |
 
   <h2>How the tests work</h2>
   <p>The tests are DNA based and straightforward. A cheek swab or a small blood sample is taken, ideally by the veterinarian who also verifies the dog's microchip so that the sample is unambiguously linked to that animal, and sent to an accredited laboratory. The result arrives within 2 to 4 weeks and is valid for life: the DNA does not change, so a dog is tested once and never again.</p>
-  <p>Costs vary by laboratory and country, but for both tests together expect something in the region of eighty to a hundred and 50 euros. Compared with the cost of a lifetime of anticonvulsants, or of cataract surgery, or of the grief of a family, it is a trivial figure. It is also the reason no serious breeder considers it a discretionary expense.</p>
+  <p>Costs vary by laboratory and country, but for both tests together expect something in the region of around 120 euros for the genetic panel at the laboratory, rising to roughly 400 per dog once you add the veterinary sampling, the shipping and the eye examination. Compared with the cost of a lifetime of anticonvulsants, or of cataract surgery, or of the grief of a family, it is a trivial figure. It is also the reason no serious breeder considers it a discretionary expense.</p>
 
   <h2>Reading the results</h2>
   <p><strong>Clear</strong> means the dog has two normal copies of the gene. It cannot develop the disease and cannot pass the mutation to its offspring.</p>
@@ -79,7 +79,7 @@ custom_content: |
   <p>Increasingly, breathing quality is being assessed as well. The Staffordshire Bull Terrier is not a brachycephalic breed, but the tendency towards ever shorter muzzles in some show lines has consequences, and a dog that struggles in warm weather or after moderate exercise has a welfare problem regardless of how it looks standing still.</p>
 
   <h2>The cost of prevention against the cost of the disease</h2>
-  <p>Testing both parents costs a hundred euros or so, once. The lifetime cost of an L2-HGA affected dog runs into thousands, and the cost of cataract surgery for one eye is comparable to the price of the puppy. But the arithmetic is not really the point. The point is that a family who chose a healthy breed and paid for a pedigree puppy should never be put in that position, when a swab and 3 weeks of waiting would have prevented it entirely.</p>
+  <p>Testing both parents costs around 800 euros in all, once. The lifetime cost of an L2-HGA affected dog runs into thousands, and the cost of cataract surgery for one eye is comparable to the price of the puppy. But the arithmetic is not really the point. The point is that a family who chose a healthy breed and paid for a pedigree puppy should never be put in that position, when a swab and 3 weeks of waiting would have prevented it entirely.</p>
 
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
