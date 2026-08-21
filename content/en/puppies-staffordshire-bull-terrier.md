@@ -67,7 +67,7 @@ custom_content: |
   Those who ask the price are not ready yet."
   </p>
   <span style="display:block;width:40px;height:1px;background:#c9a227;margin:1rem auto 0"></span>
-  <footer style="margin-top:0.75rem;font-size:0.75rem;color:#c9a227;letter-spacing:0.2em;text-transform:uppercase;font-weight:700;font-style:normal">Del Piccolo Diavolo · Since 2013</footer>
+  <footer style="margin-top:0.75rem;font-size:0.75rem;color:#7d620e;letter-spacing:0.2em;text-transform:uppercase;font-weight:700;font-style:normal">Del Piccolo Diavolo · Since 2013</footer>
   </blockquote>
   </div>
   </section>

@@ -67,8 +67,8 @@ custom_content: |
 
   <div class="risultati-grid" style="display:grid;gap:0.75rem;margin-top:1.5rem">
 
-  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#c9a227;border-radius:8px;align-items:center;color:#fff">
-  <span style="background:#fff;color:#c9a227;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">JCH IT</span>
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#c9a227;border-radius:8px;align-items:center;color:#3a2f1a">
+  <span style="background:#fff;color:#7d620e;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">JCH IT</span>
   <span><strong>Esposizione Nazionale — Albarella (RO)</strong> - 17 mag 2026</span>
   <span style="font-weight:600">JCAC + JBOB + BOB</span>
   </div>
@@ -102,8 +102,8 @@ custom_content: |
   
   <div class="risultati-grid" style="display:grid;gap:0.75rem">
   
-  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#c9a227;border-radius:8px;align-items:center;color:#fff">
-  <span style="background:#fff;color:#c9a227;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">4°</span>
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#c9a227;border-radius:8px;align-items:center;color:#3a2f1a">
+  <span style="background:#fff;color:#7d620e;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">4°</span>
   <span><strong>World Dog Show - Zagabria (HR)</strong> - 26 apr 2024</span>
   <span style="font-weight:600">4a Classificata</span>
   </div>
@@ -247,20 +247,20 @@ custom_content: |
   
   <div class="risultati-grid" style="display:grid;gap:0.75rem">
   
-  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#c9a227;border-radius:8px;align-items:center;color:#fff">
-  <span style="background:#fff;color:#c9a227;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">🇸🇮 CH</span>
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#c9a227;border-radius:8px;align-items:center;color:#3a2f1a">
+  <span style="background:#fff;color:#7d620e;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">🇸🇮 CH</span>
   <span><strong>Expo Internazionale Vrtojba (SLO)</strong> - gen 2026</span>
   <span style="font-weight:600">CAC + CACIB</span>
   </div>
   
-  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#c9a227;border-radius:8px;align-items:center;color:#fff">
-  <span style="background:#fff;color:#c9a227;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">🇸🇮 CH</span>
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#c9a227;border-radius:8px;align-items:center;color:#3a2f1a">
+  <span style="background:#fff;color:#7d620e;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">🇸🇮 CH</span>
   <span><strong>Expo Internazionale Vrtojba (SLO)</strong> - gen 2026</span>
   <span style="font-weight:600">CAC + CACIB</span>
   </div>
   
-  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#c9a227;border-radius:8px;align-items:center;color:#fff">
-  <span style="background:#fff;color:#c9a227;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">🇸🇮 CH</span>
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#c9a227;border-radius:8px;align-items:center;color:#3a2f1a">
+  <span style="background:#fff;color:#7d620e;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">🇸🇮 CH</span>
   <span><strong>Expo Internazionale Vrtojba (SLO)</strong> - gen 2026</span>
   <span style="font-weight:600">CAC + R.CACIB</span>
   </div>

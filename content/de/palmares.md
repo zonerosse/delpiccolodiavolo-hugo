@@ -65,8 +65,8 @@ custom_content: |
   
   <div class="risultati-grid" style="display:grid;gap:0.75rem">
   
-  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#c9a227;border-radius:8px;align-items:center;color:#fff">
-  <span style="background:#fff;color:#c9a227;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">4.</span>
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#c9a227;border-radius:8px;align-items:center;color:#3a2f1a">
+  <span style="background:#fff;color:#7d620e;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">4.</span>
   <span><strong>World Dog Show - Zagreb (HR)</strong> - 26. Apr 2024</span>
   <span style="font-weight:600">4. Platz</span>
   </div>
