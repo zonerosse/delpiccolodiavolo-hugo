@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Bewertungen"
 translationKey: "recensioni"
-description: "Bewertungen der Familien, die einen Staffordshire Bull Terrier Welpen von Del Piccolo Diavolo gewählt haben."
+description: "Die 38 Bewertungen der Familien, die einen Welpen von Del Piccolo Diavolo gewählt haben, Durchschnitt 4,9 auf Google. Echte Erfahrungen, vor und nach der Abgabe."
 slug: "bewertungen"
 custom_content: |
   <section class="hero">

@@ -1,5 +1,5 @@
 ---
-title: "Das Wesen des Staffordshire Bull Terrier: Wie es Selektiert Wurde"
+title: "Das Wesen des Staffordshire Bull Terrier: Woher es Kommt"
 titleSeo: "Wesen des Staffy: wie es selektiert wurde"
 articolo: true
 translationKey: "carattere"
@@ -23,7 +23,7 @@ correlati:
 <section class="hero">
 <div class="hero-content" style="max-width:100%">
 <span class="hero-eyebrow">Die Rasse Kennenlernen</span>
-<h1 class="hero-title">Das Wesen des Staffordshire Bull Terrier: Wie es Selektiert Wurde</h1>
+<h1 class="hero-title">Das Wesen des Staffordshire Bull Terrier: Woher es Kommt</h1>
 <p class="hero-subtitle">Warum dieser Hund so ist, wie er ist, und was es bedeutet, ein Wesen zu wählen</p>
 </div>
 </section>

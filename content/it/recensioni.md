@@ -1,7 +1,7 @@
 ---
 title: "Recensioni Staffordshire Bull Terrier"
 translationKey: "recensioni"
-description: "Le recensioni delle famiglie che hanno scelto un cucciolo Staffordshire Bull Terrier Del Piccolo Diavolo."
+description: "Le 38 recensioni delle famiglie che hanno scelto un cucciolo Del Piccolo Diavolo, con media 4,9 su Google. Esperienze reali, prima e dopo l’affidamento."
 slug: "recensioni"
 custom_content: |
   <section class="hero">

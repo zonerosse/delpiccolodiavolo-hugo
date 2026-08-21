@@ -3,7 +3,7 @@ title: "Puppies: Initial Feeding"
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/hero-default.webp"
-description: "Feeding a Staffordshire Bull Terrier puppy: meal frequency, transitions and food quality."
+description: "How much and how often a Staffordshire Bull Terrier puppy eats: amounts by age, how to change food safely and what should never be given."
 slug: "puppy-initial-feeding"
 custom_content: |
   <section class="hero">

@@ -3,7 +3,7 @@ title: "Cuccioli: Alimentazione iniziale"
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/hero-default.webp"
-description: "Alimentazione del cucciolo Staffordshire Bull Terrier: frequenza dei pasti, transizioni e qualità del cibo."
+description: "Quanto e quante volte al giorno mangia un cucciolo di Staffordshire Bull Terrier: le quantità per età, come cambiare crocchette e cosa non va mai dato."
 slug: "cuccioli-alimentazione-iniziale"
 custom_content: |
   <section class="hero">
