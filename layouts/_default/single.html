@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 {{- $agg := printf "%s %s" (cond (eq .Site.Language.Lang "de") "Aktualisiert am" (cond (eq .Site.Language.Lang "en") "Updated on" "Aggiornato il")) (cond (eq .Site.Language.Lang "en") (.Lastmod.Format "January 2, 2006") (partial "data-locale.html" .)) -}}
-{{- $meta := printf `<p class="pagina-meta" style="text-align:center;color:#8a7a68;font-size:.85rem;margin:1.5rem 0 0">%s · Paolo Boldrini</p>` $agg -}}
+{{- $meta := printf `<p class="pagina-meta" style="text-align:center;color:#7a6a58;font-size:.85rem;margin:1.5rem 0 0">%s · Paolo Boldrini</p>` $agg -}}
 
 {{ if .Params.custom_content }}
   {{ $c := replace .Params.custom_content "<!--CUCCIOLATA-->" (partial "ultima-cucciolata.html" .) }}
