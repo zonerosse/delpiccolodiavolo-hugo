@@ -66,8 +66,8 @@
   },
   "geo": {
     "@type": "GeoCoordinates",
-    "latitude": 44.7447,
-    "longitude": 11.9456
+    "latitude": 44.7461783,
+    "longitude": 11.9377268
   },
   {{ if and (ge (len $rec) 3) (in (slice "recensioni" "reviews" "bewertungen") (path.Base .RelPermalink)) }}"review": [
     {{ range $i, $r := $rec }}{{ if $i }},{{ end }}
