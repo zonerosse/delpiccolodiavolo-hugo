@@ -249,14 +249,14 @@ custom_content: |
   </section>
   
   <section class="dark-section">
-  <h2>How my passion for the breed began</h2>
+  <h2>How my passion for the Staffordshire Bull Terrier began</h2>
   <p>The passion for the Staffordshire Bull Terrier was born in 2005, the year I had my first encounter with this extraordinary breed during Crufts. I was immediately fascinated by these muscular and affectionate puppies, who won me over like true miniature Rottweilers. Having already experience with Rottweilers, I discovered a new world: made of determination, intelligence and unconditional love.</p>
   </section>
   
   <!--CORRELATI-->
 
   <section class="cta-section">
-  <h2>Want Info About Puppies?</h2>
+  <h2>Get in touch to meet our Staffies in person</h2>
   <p>Call us for a no-obligation chat. We're here to answer all your questions.</p>
   <a href="https://wa.me/393924635584?text=Hello%20Paolo%2C%20I%20write%20from%20Del%20Piccolo%20Diavolo%20website" class="btn" title="Write us on WhatsApp">Write on WhatsApp</a>
   </section>
