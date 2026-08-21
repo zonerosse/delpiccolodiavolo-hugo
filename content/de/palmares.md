@@ -28,12 +28,16 @@ custom_content: |
   <p style="font-size:0.85rem;margin:0">Jugendchampions</p>
   </div>
   <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
+  <p style="font-size:2rem;font-weight:700;margin:0">1</p>
+  <p style="font-size:0.85rem;margin:0">Championin San Marino</p>
+  </div>
+  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
   <p style="font-size:2rem;font-weight:700;margin:0">4.</p>
   <p style="font-size:0.85rem;margin:0">World Dog Show</p>
   </div>
   <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
   <p style="font-size:2rem;font-weight:700;margin:0">100%</p>
-  <p style="font-size:0.85rem;margin:0">Vorzuglich</p>
+  <p style="font-size:0.85rem;margin:0">Vorzüglich</p>
   </div>
   </div>
   </div>
@@ -52,7 +56,7 @@ custom_content: |
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
   <h3>ENCI Italienische Schonheitschampionin</h3>
   <p><strong>4. Platz bei der World Dog Show</strong> - Ein Weltklasse-Ergebnis, auf das wir stolz sind.</p>
-  <p><strong>Historischer Rekord:</strong> 12 aufeinanderfolgende Ausstellungen mit Vorzuglich 1. Platz. Italienischer Champion-Titel noch in der Zwischenklasse erreicht, ein Ergebnis, das nur wenige Staffordshire Bull Terrier in Italien vorweisen konnen.</p>
+  <p><strong>Historischer Rekord:</strong> 12 aufeinanderfolgende Ausstellungen mit Vorzüglich 1. Platz. Italienischer Champion-Titel noch in der Zwischenklasse erreicht, ein Ergebnis, das nur wenige Staffordshire Bull Terrier in Italien vorweisen konnen.</p>
   </div>
   </div>
   </div>
