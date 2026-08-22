@@ -56,7 +56,7 @@ custom_content: |
 
   <h2>Was Familien wirklich gewinnen</h2>
   <p>Alle Vorsicht beiseite: dies ist eine der besten Familienrassen überhaupt. Die Hunde sind robust genug für einen lebhaften Haushalt, klein genug für eine Wohnung, anhänglich bis zur Komik, und sie binden sich häufig gerade an die Kinder statt an einen einzelnen Erwachsenen.</p>
-  <p>Kinder, die mit einem Hund aufwachsen, lernen Verlässlichkeit, Verantwortung und eine Form von Einfühlung, die sich schwer anders vermitteln lässt. Nach über einem Jahrzehnt Welpenvermittlung wissen wir: die Familien, bei denen es am besten läuft, sind nicht die mit dem größten Garten, sondern die, die den Hund im Haus wollten, mitten im Geschehen — genau dort, wo diese Rasse sein will.</p>
+  <p>Kinder, die mit einem Hund aufwachsen, lernen Verlässlichkeit, <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Italienische Verordnung vom 6. August 2013 zum Schutz der öffentlichen Sicherheit" target="_blank" rel="noopener">Verantwort</a>ung und eine Form von Einfühlung, die sich schwer anders vermitteln lässt. Nach über einem Jahrzehnt Welpenvermittlung wissen wir: die Familien, bei denen es am besten läuft, sind nicht die mit dem größten Garten, sondern die, die den Hund im Haus wollten, mitten im Geschehen — genau dort, wo diese Rasse sein will.</p>
 
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>

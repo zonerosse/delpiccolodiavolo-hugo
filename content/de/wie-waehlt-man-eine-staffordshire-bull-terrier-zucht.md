@@ -100,7 +100,7 @@ categories: ["Welpen"]
 
 <h2>Was ein Welpe aus seriöser Zucht kostet</h2>
 
-<p>Ein Staffordshire Bull Terrier Welpe mit ENCI-Ahnentafel, vollständigen Gentests, Impfungen, Mikrochip und Garantien hat <strong>den Preis einer seriösen Zucht</strong>, nicht den einer Online-Anzeige. Eine ausführliche Aufschlüsselung finden Sie unter <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Was kostet ein Staffordshire Bull Terrier Welpe">was ein Staffordshire Bull Terrier Welpe kostet</a>.</p>
+<p>Ein Staffordshire Bull Terrier Welpe mit <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="Rasseseite Staffordshire Bull Terrier, ENCI" target="_blank" rel="noopener">ENCI-Ahnentafel</a>, vollständigen Gentests, Impfungen, Mikrochip und Garantien hat <strong>den Preis einer seriösen Zucht</strong>, nicht den einer Online-Anzeige. Eine ausführliche Aufschlüsselung finden Sie unter <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Was kostet ein Staffordshire Bull Terrier Welpe">was ein Staffordshire Bull Terrier Welpe kostet</a>.</p>
 
 <p>Dieser Preis spiegelt wider:</p>
 <ul>

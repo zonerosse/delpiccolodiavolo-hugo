@@ -64,7 +64,7 @@ custom_content: |
   
   <div class="callout">
   <p class="callout-title">🏆 Nota storica importante</p>
-  <p>Le linee di sangue sono tracciate attraverso i discendenti maschi - una pratica standard nella cinofilia. Questo significa che un cane appartiene alla linea del suo bisnonno paterno, anche se nel pedigree sono presenti altre linee attraverso le femmine.</p>
+  <p>Le linee di sangue sono tracciate attraverso i discendenti maschi - una pratica <a href="https://www.enci.it/media/2347/076.pdf" title="Standard FCI n. 76, PDF ufficiale ENCI" target="_blank" rel="noopener">standard</a> nella cinofilia. Questo significa che un cane appartiene alla linea del suo bisnonno paterno, anche se nel pedigree sono presenti altre linee attraverso le femmine.</p>
   </div>
   
   <h3>Il Primo Campione: Gentleman Jim</h3>

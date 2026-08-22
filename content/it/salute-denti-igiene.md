@@ -215,7 +215,7 @@ custom_content: |
   
   <p><strong>Sintomi:</strong> gengive arrossate, gonfiore del margine gengivale, sanguinamento durante spazzolatura, alitosi moderata.</p>
   
-  <p><strong>Gestione:</strong> Fase iniziale reversibile con igiene intensificata. Persistente: detartrasi professionale.</p>
+  <p><strong>Gestione:</strong> Fase iniziale reversibile con igiene intensificata. Persistente: <a href="https://wsava.org/global-guidelines/" title="Linee guida globali WSAVA" target="_blank" rel="noopener">detartrasi</a> professionale.</p>
   
   <h3>Parodontite</h3>
   

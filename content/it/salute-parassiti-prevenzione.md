@@ -49,7 +49,7 @@ custom_content: |
   
   <p>I cuccioli di Staffordshire Bull Terrier hanno un sistema immunitario ancora in sviluppo: infestazioni di <strong>pulci</strong> e <strong>zecche</strong> possono causare anemia (soprattutto nei cuccioli piccoli), dermatiti allergiche da morso di pulce (DAP), e trasmissione di patogeni pericolosi come Babesia, Ehrlichia, Borreliosi (malattia di Lyme).</p>
   
-  <p>Un piano preventivo strutturato riduce drammaticamente i rischi sanitari e il fastidio per il cucciolo fin dai primi mesi di vita. La protezione va iniziata appena il veterinario lo ritiene appropriato in base all'età e al peso.</p>
+  <p>Un piano preventivo strutturato riduce drammaticamente i rischi sanitari e il fastidio per il cucciolo fin dai primi mesi di vita. La protezione va iniziata appena il <a href="https://wsava.org/global-guidelines/" title="Linee guida globali WSAVA" target="_blank" rel="noopener">veterinario</a> lo ritiene appropriato in base all'età e al peso.</p>
   
   <div class="callout">
   <p class="callout-title">💡 Importante</p>

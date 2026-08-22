@@ -270,7 +270,9 @@
 
 {{/* Tipo della pagina: elenchi, chi siamo, contatti, pagine di servizio.
      Si attiva solo dove il front matter lo dichiara con tipoPagina. */}}
-{{ with .Params.tipoPagina }}
+{{ $tipoAuto := .Params.tipoPagina }}
+{{ if and (not $tipoAuto) (not .Params.articolo) }}{{ $tipoAuto = cond .IsHome "CollectionPage" "WebPage" }}{{ end }}
+{{ with $tipoAuto }}
 <!-- JSON-LD: tipo di pagina -->
 <script type="application/ld+json">
 {
@@ -285,6 +287,16 @@
   "about": { "@id": "{{ $baseURL }}/#organization" },
   "author": { "@id": "{{ $baseURL }}/#paolo-boldrini" },
   "publisher": { "@id": "{{ $baseURL }}/#organization" },
+  {{ if eq . "ProfilePage" }}"mainEntity": { "@id": "{{ $baseURL }}/#paolo-boldrini" },{{ end }}
+  "mentions": {
+    "@type": "Thing",
+    "name": "Staffordshire Bull Terrier",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q39285",
+      "https://it.wikipedia.org/wiki/Staffordshire_bull_terrier",
+      "https://en.wikipedia.org/wiki/Staffordshire_Bull_Terrier"
+    ]
+  },
   "datePublished": "{{ if $.Date.IsZero }}{{ $.Lastmod.Format "2006-01-02" }}{{ else }}{{ $.Date.Format "2006-01-02" }}{{ end }}",
   "dateModified": "{{ $.Lastmod.Format "2006-01-02" }}"
 }

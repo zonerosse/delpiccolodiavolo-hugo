@@ -40,7 +40,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Le prime vaccinazioni sono una tappa fondamentale per la salute del cucciolo di <a href="/" title="Staffordshire Bull Terrier">Staffordshire Bull Terrier</a>. Un protocollo corretto, concordato con il veterinario, protegge da malattie potenzialmente gravi e si integra con sverminazioni e richiami successivi.</p>
+  <p><a href="https://wsava.org/global-guidelines/vaccination-guidelines/" title="Linee guida WSAVA sulla vaccinazione di cani e gatti, edizione 2024" target="_blank" rel="noopener">Le prime vaccinazioni</a> sono una tappa fondamentale per la salute del cucciolo di <a href="/" title="Staffordshire Bull Terrier">Staffordshire Bull Terrier</a>. Un protocollo corretto, concordato con il veterinario, protegge da malattie potenzialmente gravi e si integra con sverminazioni e richiami successivi.</p>
   
   <h2>Calendario base dei vaccini</h2>
   

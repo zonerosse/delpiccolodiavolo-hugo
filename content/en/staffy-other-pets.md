@@ -50,7 +50,7 @@ custom_content: |
 
   <h2>Introducing a Staffy to another dog, step by step</h2>
   <p><strong>Days one to three: scent only.</strong> Keep the dogs separated and swap bedding and toys between the two areas twice a day. Let each dog investigate the other's space while the other is elsewhere. No visual contact yet.</p>
-  <p><strong>Days four to seven: neutral ground.</strong> Walk both dogs outside, on lead, in parallel, at a distance where both stay relaxed. Reduce the distance over several sessions, never to the point where either dog stiffens. End every session while both are still comfortable.</p>
+  <p><strong>Days four to seven: neutral ground.</strong> Walk both dogs outside, on <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Italian ministerial order of 6 August 2013" target="_blank" rel="noopener">lead</a>, in parallel, at a distance where both stay relaxed. Reduce the distance over several sessions, never to the point where either dog stiffens. End every session while both are still comfortable.</p>
   <p><strong>Days eight to twenty-one: controlled time indoors.</strong> Short sessions in the same room, leads on and loose, with all toys, chews and food bowls removed. 10 minutes is plenty at first. Separate before either dog tires.</p>
   <p><strong>Weeks four to eight: supervised freedom.</strong> Drop the leads, keep the resources away, and stay in the room. Only when several weeks have passed without a single tense moment should you consider leaving them alone together, and with many pairs the honest answer is that you never fully will.</p>
 

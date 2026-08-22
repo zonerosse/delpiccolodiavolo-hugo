@@ -52,7 +52,7 @@ custom_content: |
   <p>Sedation is contraindicated for air travel and most airlines prohibit it. Sedatives depress respiration and thermoregulation, which is precisely the wrong effect in a breed with a compromised airway at altitude.</p>
 
   <h2>Documents for European travel</h2>
-  <p>Within the European Union, a dog needs a microchip, an EU pet passport issued by an authorised veterinarian, and a valid rabies vaccination administered after the microchip and at least twenty-1 days before travel. That waiting period is the detail most often missed and it cannot be shortened.</p>
+  <p>Within the European Union, a dog needs a microchip, an EU pet <a href="https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/travelling-pet-within-eu_en" title="Travelling with a pet within the EU, European Commission" target="_blank" rel="noopener">passport</a> issued by an authorised veterinarian, and a valid rabies vaccination administered after the microchip and at least twenty-1 days before travel. That waiting period is the detail most often missed and it cannot be shortened.</p>
   <p>Some countries add requirements: tapeworm treatment administered by a veterinarian between twenty-four and one hundred and 20 hours before entry is required for Ireland, Finland, Malta and Norway. And, importantly for this breed, several countries restrict or prohibit the Staffordshire Bull Terrier entirely — check the destination's breed legislation as carefully as its health requirements.</p>
   <p>For puppies exported from us, we prepare the passport, the vaccinations and the required treatments, and we tell buyers plainly when the destination country has restrictions. That conversation happens before a deposit, not after.</p>
 

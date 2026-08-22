@@ -45,7 +45,7 @@ custom_content: |
   </div>
   
   <h2>What the vaccines actually protect against</h2>
-  <p>The core vaccines protect against four diseases that were, within living memory, the commonest causes of death in puppies. Distemper attacks the respiratory, digestive and nervous systems and is frequently fatal. Parvovirus causes severe haemorrhagic gastroenteritis and kills unvaccinated puppies within days. Infectious hepatitis damages liver and kidneys. Leptospirosis is bacterial, transmitted through the urine of rats and other wildlife in standing water, and is transmissible to humans.</p>
+  <p>The <a href="https://wsava.org/global-guidelines/vaccination-guidelines/" title="WSAVA guidelines for the vaccination of dogs and cats, 2024" target="_blank" rel="noopener">core vaccines</a> protect against four diseases that were, within living memory, the commonest causes of death in puppies. Distemper attacks the respiratory, digestive and nervous systems and is frequently fatal. Parvovirus causes severe haemorrhagic gastroenteritis and kills unvaccinated puppies within days. Infectious hepatitis damages liver and kidneys. Leptospirosis is bacterial, transmitted through the urine of rats and other wildlife in standing water, and is transmissible to humans.</p>
   <p>Parvovirus deserves particular attention because it survives in the environment for months and is resistant to most household disinfectants. A garden where an infected dog has been can remain contagious long after that dog has gone, which is the reason for the caution about where an unvaccinated puppy sets its feet.</p>
 
   <h2>The schedule</h2>
