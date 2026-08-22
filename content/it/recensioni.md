@@ -35,10 +35,10 @@ custom_content: |
   <span class="section-label">La Nostra Reputazione</span>
   <h2 class="section-title">Perché Le Recensioni Contano</h2>
   <div class="values-grid">
-  <div class="value-card"><h4>✓ Trasparenza</h4><p>Ogni recensione verificabile su Google</p></div>
-  <div class="value-card"><h4>⭐ 4.9/5</h4><p>Media costruita in 13 anni di lavoro</p></div>
-  <div class="value-card"><h4>📞 Supporto</h4><p>Assistenza per tutta la vita del cane</p></div>
-  <div class="value-card"><h4>🏆 Qualità</h4><p>Linee Elitebull e Lackyle certificate</p></div>
+  <div class="value-card"><h3>✓ Trasparenza</h3><p>Ogni recensione verificabile su Google</p></div>
+  <div class="value-card"><h3>⭐ 4.9/5</h3><p>Media costruita in 13 anni di lavoro</p></div>
+  <div class="value-card"><h3>📞 Supporto</h3><p>Assistenza per tutta la vita del cane</p></div>
+  <div class="value-card"><h3>🏆 Qualità</h3><p>Linee Elitebull e Lackyle certificate</p></div>
   </div>
   </div>
   </section>

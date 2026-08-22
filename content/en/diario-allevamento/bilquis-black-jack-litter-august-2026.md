@@ -91,10 +91,10 @@ The parents are tested for the main genetic conditions of the breed:
 <p style="font-size:.9rem;color:#666"><em>* Clear by parentage: both of Black Jack's parents are tested Clear (N/N) for L2HGA and HC, so the offspring cannot be genetically affected. Black Jack is a young male: individual official tests are scheduled.</em></p>
 
 <div style="background:linear-gradient(135deg,#5c4a3a 0%,#8b7355 100%);padding:2rem;border-radius:12px;margin:2rem 0;color:#fff">
-<h4 style="margin:0 0 1rem;font-size:1.1rem;display:flex;align-items:center;gap:.5rem">
+<h3 style="margin:0 0 1rem;font-size:1.1rem;font-family:inherit;font-weight:600;display:flex;align-items:center;gap:.5rem">
 <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
 Verifiable Genetic Tests
-</h4>
+</h3>
 <p style="margin:0 0 1rem;font-size:1rem;color:#fff !important;font-weight:600">Full transparency: results verifiable on the SBTPedigree database and laboratory certificates available on request.</p>
 <div style="display:flex;flex-wrap:wrap;gap:1rem">
 <span style="background:rgba(255,255,255,.15);color:#fff;padding:.75rem 1.25rem;border-radius:8px;font-weight:600;display:inline-flex;align-items:center;gap:.5rem">

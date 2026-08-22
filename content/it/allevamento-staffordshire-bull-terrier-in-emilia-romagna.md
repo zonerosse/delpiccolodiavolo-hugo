@@ -51,21 +51,21 @@ custom_content: |
   <div class="contact-grid">
   <div class="contact-item">
   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>
-  <h4>WhatsApp</h4>
+  <h3>WhatsApp</h3>
   <p>Il modo più rapido</p>
   <a href="https://wa.me/393924635584" title="Scrivici su WhatsApp">+39 392 463 5584</a>
   </div>
 
   <div class="contact-item">
   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-  <h4>Telefono</h4>
+  <h3>Telefono</h3>
   <p>Chiamaci direttamente</p>
   <a href="tel:+393924635584" title="Chiamaci">+39 392 463 5584</a>
   </div>
 
   <div class="contact-item">
   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
-  <h4>Email</h4>
+  <h3>Email</h3>
   <p>Per richieste dettagliate</p>
   <a href="mailto:zonerosse@gmail.com" title="Scrivici via email">zonerosse@gmail.com</a>
   </div>
@@ -183,27 +183,27 @@ custom_content: |
 
   <div class="faq-list">
   <div class="faq-item">
-  <h4>Posso visitare senza appuntamento?</h4>
+  <h3>Posso visitare senza appuntamento?</h3>
   <p>No, riceviamo esclusivamente su appuntamento per garantire la tranquillità dei cani e dedicarvi tutto il tempo necessario.</p>
   </div>
 
   <div class="faq-item">
-  <h4>Vale la pena venire da Milano o Firenze?</h4>
+  <h3>Vale la pena venire da Milano o Firenze?</h3>
   <p>Assolutamente sì. Molti clienti da Lombardia e Toscana ci raggiungono in 2-2,5 ore, visitano l'allevamento e tornano in giornata. È un investimento importante, merita una visita.</p>
   </div>
 
   <div class="faq-item">
-  <h4>Consegnate i cuccioli a domicilio?</h4>
+  <h3>Consegnate i cuccioli a domicilio?</h3>
   <p>Preferiamo che veniate a conoscere l'allevamento. Per chi ha difficoltà logistiche, possiamo valutare insieme la soluzione migliore.</p>
   </div>
 
   <div class="faq-item">
-  <h4>Cosa devo portare per la visita?</h4>
+  <h3>Cosa devo portare per la visita?</h3>
   <p>Solo voi stessi e le vostre domande! Vi mostreremo tutto: genitori, cuccioli (se disponibili), certificati, pedigree e l'ambiente in cui vivono.</p>
   </div>
 
   <div class="faq-item">
-  <h4>Quanto costa un cucciolo Staffordshire Bull Terrier?</h4>
+  <h3>Quanto costa un cucciolo Staffordshire Bull Terrier?</h3>
   <p>I nostri cuccioli con pedigree ENCI e test genetici completi hanno un prezzo che comunichiamo direttamente, dopo una prima chiacchierata. Per tutti i dettagli leggi <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p>
   </div>
   </div>

@@ -44,10 +44,10 @@ custom_content: |
   <span class="section-label">I Nostri Valori</span>
   <h2 class="section-title">Cosa Ci Guida</h2>
   <div class="values-grid">
-  <div class="value-card"><h4>🧬 Test Genetici</h4><p>Tutti i riproduttori testati L2HGA e HC</p></div>
-  <div class="value-card"><h4>🏠 In Famiglia</h4><p>Cuccioli socializzati in ambiente domestico</p></div>
-  <div class="value-card"><h4>📞 Supporto</h4><p>Assistenza per tutta la vita del cane</p></div>
-  <div class="value-card"><h4>🏆 Linee Top</h4><p>Elitebull (UK) e Lackyle (Irlanda)</p></div>
+  <div class="value-card"><h3>🧬 Test Genetici</h3><p>Tutti i riproduttori testati L2HGA e HC</p></div>
+  <div class="value-card"><h3>🏠 In Famiglia</h3><p>Cuccioli socializzati in ambiente domestico</p></div>
+  <div class="value-card"><h3>📞 Supporto</h3><p>Assistenza per tutta la vita del cane</p></div>
+  <div class="value-card"><h3>🏆 Linee Top</h3><p>Elitebull (UK) e Lackyle (Irlanda)</p></div>
   </div>
   </div>
   </section>
@@ -108,6 +108,18 @@ custom_content: |
   </section>
   
   <!--CORRELATI-->
+
+  <section class="section section-alt">
+  <div class="section-inner">
+  <span class="section-label">L'Allevatore</span>
+  <h2 class="section-title">Chi c'è dietro Del Piccolo Diavolo</h2>
+  <div class="content-block">
+  <p><strong>Paolo Boldrini</strong> alleva Staffordshire Bull Terrier dal 2013 a Ostellato, in provincia di Ferrara, con il nome Del Piccolo Diavolo. Prima degli Staffy ha allevato Rottweiler, portando in ring un Campione Italiano e un Campione Europeo.</p>
+  <p>Lavora su linee Elitebull (Inghilterra) e Lackyle (Irlanda) e testa tutti i riproduttori per L2HGA, HC e PHPV. Con <strong>Bilquis Goddess Diabhal</strong> ha conquistato il titolo di Campionessa Italiana di Bellezza ENCI e un quarto posto al World Dog Show di Zagabria nel 2024. Tutti i cuccioli sono ceduti con pedigree ENCI e con i certificati dei test dei genitori.</p>
+  <p>Le pagine di questo sito sono scritte da lui, sulla base di quello che succede davvero in allevamento. Per domande sui cuccioli, sulle linee di sangue o sui test genetici: <a href="/allevamento-staffordshire-bull-terrier-in-emilia-romagna/">contattami direttamente</a>.</p>
+  </div>
+  </div>
+  </section>
 
   <section class="dark-section">
   <h2>Non Siamo Venditori, Siamo Custodi</h2>
