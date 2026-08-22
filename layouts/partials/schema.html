@@ -283,7 +283,10 @@
   "inLanguage": "{{ $lang }}",
   "isPartOf": { "@id": "{{ $baseURL }}/#website" },
   "about": { "@id": "{{ $baseURL }}/#organization" },
-  "publisher": { "@id": "{{ $baseURL }}/#organization" }
+  "author": { "@id": "{{ $baseURL }}/#paolo-boldrini" },
+  "publisher": { "@id": "{{ $baseURL }}/#organization" },
+  "datePublished": "{{ if $.Date.IsZero }}{{ $.Lastmod.Format "2006-01-02" }}{{ else }}{{ $.Date.Format "2006-01-02" }}{{ end }}",
+  "dateModified": "{{ $.Lastmod.Format "2006-01-02" }}"
 }
 </script>
 {{ end }}
