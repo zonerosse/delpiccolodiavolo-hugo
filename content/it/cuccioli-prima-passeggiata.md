@@ -50,7 +50,7 @@ custom_content: |
   </div>
   
   <h2>Quando iniziare a uscire</h2>
-  <p>Confrontati con il veterinario sul protocollo vaccinale. In molte aree, dopo la prima o seconda vaccinazione e con buone norme igieniche, sono possibili brevi uscite controllate in luoghi puliti e poco frequentati. Evita aree a rischio come zone con escrementi di altri cani o ristagni d'acqua.</p>
+  <p>Confrontati con il <a href="https://wsava.org/global-guidelines/vaccination-guidelines/" title="Linee guida globali WSAVA" target="_blank" rel="noopener">veterinario</a> sul protocollo vaccinale. In molte aree, dopo la prima o seconda vaccinazione e con buone norme igieniche, sono possibili brevi uscite controllate in luoghi puliti e poco frequentati. Evita aree a rischio come zone con escrementi di altri cani o ristagni d'acqua.</p>
   
   <h2>Attrezzatura essenziale</h2>
   <ul>

@@ -46,7 +46,7 @@ custom_content: |
   
   <h2>Why Are These Breeds Confused?</h2>
   
-  <p>The confusion between <strong>Staffordshire Bull Terrier</strong>, <strong>American Pit Bull Terrier</strong> and <strong>American Staffordshire Terrier</strong> is extremely common, not only among laypeople but also in the media and sometimes in institutions. This confusion has concrete consequences: poorly written laws, unjustified prejudices and difficulties for owners.</p>
+  <p>The confusion between <strong>Staffordshire Bull Terrier</strong>, <strong>American Pit Bull Terrier</strong> and <strong><a href="https://www.enci.it/media/2547/286.pdf" title="FCI standard no. 286 for the American Staffordshire Terrier, official ENCI PDF" target="_blank" rel="noopener">American Staffordshire Terrier</a></strong> is extremely common, not only among laypeople but also in the media and sometimes in institutions. This confusion has concrete consequences: poorly written laws, unjustified prejudices and difficulties for owners.</p>
   
   <p>All three breeds descend from the same stock: the "Bull and Terrier" dogs of 19th century England, crosses between Bulldogs and various Terriers. They therefore share a common genetic heritage and some similar morphological characteristics: broad head, powerful jaw, muscular body.</p>
   

@@ -341,7 +341,7 @@ custom_content: |
   <div class="faq-item">
   <h3 class="faq-question">Lo Staffy è troppo esuberante (salta addosso). Come calmo?</h3>
   <div class="faq-answer">
-  <p><strong>Nell'immediato:</strong> guinzaglio in casa quando i bambini sono presenti, un premio ogni volta che tiene le quattro zampe a terra, e "seduto" obbligatorio prima di ogni interazione — se non si siede, il bambino gli gira le spalle. <strong>Sul lungo periodo:</strong> più esercizio fisico prima dell'interazione con i bambini, dai trenta ai 60 minuti, e lavoro sull'autocontrollo (seduto-resta con distrazioni), consistency da tutti familiari. Miglioramento in 2-4 settimane con applicazione costante.</p>
+  <p><strong>Nell'immediato:</strong> <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Ordinanza 6 agosto 2013 sulla tutela dell’incolumità pubblica, Gazzetta Ufficiale" target="_blank" rel="noopener">guinzaglio</a> in casa quando i bambini sono presenti, un premio ogni volta che tiene le quattro zampe a terra, e "seduto" obbligatorio prima di ogni interazione — se non si siede, il bambino gli gira le spalle. <strong>Sul lungo periodo:</strong> più esercizio fisico prima dell'interazione con i bambini, dai trenta ai 60 minuti, e lavoro sull'autocontrollo (seduto-resta con distrazioni), consistency da tutti familiari. Miglioramento in 2-4 settimane con applicazione costante.</p>
   </div>
   </div>
   

@@ -48,7 +48,7 @@ custom_content: |
   <ul>
   <li><strong>Parents:</strong> temperament, show results, mandatory genetic tests (L-2HGA, HC), specialist exams (PHPV eyes, heart). Ask to see certificates.</li>
   <li><strong>Pedigree:</strong> bloodline, complete genealogy and kennel club documentation. A puppy without pedigree is not purebred.</li>
-  <li><strong>Development:</strong> food used since weaning, deworming done, microchip, first vaccinations with health booklet.</li>
+  <li><strong>Development:</strong> food used since weaning, deworming done, <a href="https://www.salute.gov.it/imgs/C_17_opuscoliPoster_41_allegato.pdf" title="Italian national rules on companion animals, Ministry of Health" target="_blank" rel="noopener">microchip</a>, first vaccinations with health booklet.</li>
   <li><strong>Socialization:</strong> experiences the puppy has had, exposure to household noises, handling, crate, car.</li>
   <li><strong>Contract and guarantees:</strong> written sales conditions, health guarantees, repurchase clauses, guaranteed after-sales support.</li>
   </ul>

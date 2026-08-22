@@ -47,7 +47,7 @@ correlati:
 
 <p>Der letzte Ausdruck verdient Aufmerksamkeit, denn er ist beinahe einzigartig. Nur wenige Rassestandards verwenden ein Wort wie "zuverlässig" für das Verhältnis zum Menschen: die meisten sprechen von Wachsamkeit, Zurückhaltung gegenüber Fremden, Schutztrieb. Hier wird Zuverlässigkeit als grundlegendes Merkmal benannt.</p>
 
-<p>Der Standard ergänzt <em>highly intelligent and affectionate especially with children</em>: sehr intelligent und anhänglich, besonders gegenüber Kindern. Aus dieser Formulierung stammt der Beiname "nanny dog", ein Ausdruck, mit dem man vorsichtig umgehen sollte — den Alltag behandeln wir ausführlich im <a href="/de/staffordshire-bull-terrier-charakter-familienleben/">Beitrag über das Familienleben</a>.</p>
+<p>Der <a href="https://www.enci.it/media/2347/076.pdf" title="FCI-Standard Nr. 76, offizielles ENCI-PDF" target="_blank" rel="noopener">Standard</a> ergänzt <em>highly intelligent and affectionate especially with children</em>: sehr intelligent und anhänglich, besonders gegenüber Kindern. Aus dieser Formulierung stammt der Beiname "nanny dog", ein Ausdruck, mit dem man vorsichtig umgehen sollte — den Alltag behandeln wir ausführlich im <a href="/de/staffordshire-bull-terrier-charakter-familienleben/">Beitrag über das Familienleben</a>.</p>
 
 <h2>Die Kehrseite: die Zähigkeit</h2>
 

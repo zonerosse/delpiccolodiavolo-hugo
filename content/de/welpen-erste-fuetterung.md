@@ -46,7 +46,7 @@ custom_content: |
   
   <h2>Die erste Regel: nicht alles auf einmal ändern</h2>
   <p>Ein Welpe, der in ein neues Zuhause kommt, hat bereits Mutter, Wurfgeschwister und alles Vertraute verloren. Am selben Tag auch noch das Futter zu wechseln fügt Verdauungsprobleme hinzu, und Durchfall bei einem 8 Wochen alten Welpen ist keine Kleinigkeit.</p>
-  <p>Füttern Sie mindestens eine Woche lang genau das, was der Züchter gefüttert hat. Wollen Sie danach wechseln, tun Sie es über 7 bis 10 Tage: 3 Tage ein Viertel neues Futter, 3 Tage die Hälfte, 3 Tage drei Viertel, dann vollständig. Wird der Kot weicher, gehen Sie einen Schritt zurück.</p>
+  <p>Füttern Sie mindestens eine Woche lang genau das, <a href="https://europeanpetfood.org/self-regulation/nutritional-guidelines/" title="FEDIAF-Ernährungsleitlinien für Allein- und Ergänzungsfuttermittel" target="_blank" rel="noopener">was der Züchter gefüttert hat</a>. Wollen Sie danach wechseln, tun Sie es über 7 bis 10 Tage: 3 Tage ein Viertel neues Futter, 3 Tage die Hälfte, 3 Tage drei Viertel, dann vollständig. Wird der Kot weicher, gehen Sie einen Schritt zurück.</p>
   <p>Wir geben jedem Welpen einen Vorrat seines gewohnten Futters und den genauen Fütterungsplan mit — genau aus diesem Grund.</p>
 
   <h2>Wie oft und wie viel</h2>

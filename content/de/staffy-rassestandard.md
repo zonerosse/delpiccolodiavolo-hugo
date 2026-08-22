@@ -33,7 +33,7 @@ custom_content: |
   </div>
   
   <h2>Wozu der Standard da ist</h2>
-  <p>Der Rassestandard ist keine Schönheitscheckliste. Er ist die funktionale Beschreibung eines Hundes, der für eine bestimmte Aufgabe gebaut wurde: ein kurzhaariger, kurz gekoppelter Terrier von großer Kraft im Verhältnis zu seiner Größe, wendig genug, um auf der Stelle zu drehen, und gesund genug, um den ganzen Tag zu arbeiten. Jede Formulierung existiert, weil sie etwas beschreibt, das der Hund brauchte, um zu funktionieren.</p>
+  <p><a href="https://www.enci.it/media/2347/076.pdf" title="FCI-Standard Nr. 76 für den Staffordshire Bull Terrier, offizielles ENCI-PDF" target="_blank" rel="noopener">Der Rassestandard</a> ist keine Schönheitscheckliste. Er ist die funktionale Beschreibung eines Hundes, der für eine bestimmte Aufgabe gebaut wurde: ein kurzhaariger, kurz gekoppelter Terrier von großer Kraft im Verhältnis zu seiner Größe, wendig genug, um auf der Stelle zu drehen, und gesund genug, um den ganzen Tag zu arbeiten. Jede Formulierung existiert, weil sie etwas beschreibt, das der Hund brauchte, um zu funktionieren.</p>
   <p>Das ist bei der Welpenwahl entscheidend, denn es erlaubt die Unterscheidung zwischen einem typvollen und einem bloß übertriebenen Hund. Beides wird häufig verwechselt, und die Verwechslung zeigt ihre Folgen erst Jahre später: ein Hund, der im August nicht atmen oder nicht ohne Wackeln traben kann.</p>
 
   <h2>Erscheinungsbild und Proportionen</h2>

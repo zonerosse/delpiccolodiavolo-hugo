@@ -45,7 +45,7 @@ correlati:
 
 <p>The Kennel Club describes the temperament of the breed in three words: <em>bold, fearless and totally reliable</em>.</p>
 
-<p>That last phrase deserves attention, because it is almost unique. Very few breed standards use a word like "reliable" about the relationship with people: most speak of alertness, reserve with strangers, guarding instinct. Here reliability is stated as a constitutive trait.</p>
+<p>That last phrase deserves attention, because it is almost unique. Very few breed <a href="https://www.enci.it/media/2347/076.pdf" title="FCI standard no. 76, official ENCI PDF" target="_blank" rel="noopener">standard</a>s use a word like "reliable" about the relationship with people: most speak of alertness, reserve with strangers, guarding instinct. Here reliability is stated as a constitutive trait.</p>
 
 <p>The standard adds <em>highly intelligent and affectionate especially with children</em>. It is from this wording that the "nanny dog" nickname comes, an expression to handle with care — we deal with everyday life in the <a href="/en/staffordshire-bull-terrier-character-family-life/">guide on family living</a>, where the subject is treated at length.</p>
 

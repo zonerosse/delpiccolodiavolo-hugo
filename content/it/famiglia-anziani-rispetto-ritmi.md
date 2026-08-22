@@ -129,7 +129,7 @@ custom_content: |
   <li><strong>Contatto emergenza primario:</strong> 1-2 persone disponibili H24, con chiavi casa</li>
   <li><strong>Backup passeggiate:</strong> almeno 2 persone per sostituzioni</li>
   <li><strong>Pensione pre-identificata:</strong> visitata e verificata prima dell'adozione</li>
-  <li><strong>Servizi professionali:</strong> dog sitter, toelettatore, veterinario domiciliare</li>
+  <li><strong>Servizi professionali:</strong> dog sitter, toelettatore, <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Ordinanza 6 agosto 2013, Gazzetta Ufficiale" target="_blank" rel="noopener">veterinario</a> domiciliare</li>
   </ul>
   
   <h2>Budget Realistico Mensile</h2>

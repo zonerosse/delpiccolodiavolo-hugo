@@ -40,7 +40,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>La socializzazione del cucciolo inizia in casa: esperienze brevi, positive e guidate creano basi solide per un adulto sereno. Con uno <a href="/" title="Staffordshire Bull Terrier">Staffordshire Bull Terrier</a> (Staffy) è fondamentale curare autocontrollo, manipolazioni e gestione delle risorse.</p>
+  <p>La <a href="https://wsava.org/global-guidelines/vaccination-guidelines/" title="Linee guida globali WSAVA" target="_blank" rel="noopener">socializzazione</a> del cucciolo inizia in casa: esperienze brevi, positive e guidate creano basi solide per un adulto sereno. Con uno <a href="/" title="Staffordshire Bull Terrier">Staffordshire Bull Terrier</a> (Staffy) è fondamentale curare autocontrollo, manipolazioni e gestione delle risorse.</p>
   
   <h2>Ambiente domestico: superfici, rumori, oggetti</h2>
   

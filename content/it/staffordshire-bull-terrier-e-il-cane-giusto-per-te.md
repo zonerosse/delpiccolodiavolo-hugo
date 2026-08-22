@@ -45,7 +45,7 @@ custom_content: |
   </div>
   
   <h2>Che cane è, davvero, lo Staffordshire Bull Terrier</h2>
-  <p>Lo Staffordshire Bull Terrier (in breve "Staffy") è un molossoide di piccola taglia (13-17 kg) originario dell'Inghilterra, dal fisico compatto e muscoloso ma dal cuore enorme. Lo standard ufficiale lo descrive con parole rare per un cane: <strong>"da sempre affidabile, di indomito coraggio e altamente affettuoso, specialmente con i bambini"</strong>.</p>
+  <p>Lo Staffordshire Bull Terrier (in breve "Staffy") è un molossoide di piccola taglia (13-17 kg) originario dell'Inghilterra, dal fisico compatto e muscoloso ma dal cuore enorme. Lo <a href="https://www.enci.it/media/2347/076.pdf" title="Standard FCI n. 76, PDF ufficiale ENCI" target="_blank" rel="noopener">standard</a> ufficiale lo descrive con parole rare per un cane: <strong>"da sempre affidabile, di indomito coraggio e altamente affettuoso, specialmente con i bambini"</strong>.</p>
   <p>È un cane di contraddizioni affascinanti: robusto ma dolcissimo, tenace ma docile in famiglia, energico ma capace di trasformarsi in un "cane da divano" quando è appagato. Chi lo conosce se ne innamora. Ma proprio perché è così "intenso", va scelto con consapevolezza.</p>
   
   <h2>I PRO: perché lo Staffy conquista</h2>

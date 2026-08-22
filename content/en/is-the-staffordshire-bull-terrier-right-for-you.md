@@ -45,7 +45,7 @@ custom_content: |
   </div>
   
   <h2>What the Staffordshire Bull Terrier really is</h2>
-  <p>The Staffordshire Bull Terrier ("Staffy" for short) is a small molosser-type dog (13-17 kg) originating in England, with a compact, muscular build but an enormous heart. The official standard describes it with words that are rare for a dog: <strong>"traditionally reliable, of indomitable courage and highly affectionate, especially with children"</strong>.</p>
+  <p>The Staffordshire Bull Terrier ("Staffy" for short) is a small molosser-type dog (13-17 kg) originating in England, with a compact, muscular build but an enormous heart. The official <a href="https://www.enci.it/media/2347/076.pdf" title="FCI standard no. 76, official ENCI PDF" target="_blank" rel="noopener">standard</a> describes it with words that are rare for a dog: <strong>"traditionally reliable, of indomitable courage and highly affectionate, especially with children"</strong>.</p>
   <p>It is a dog of fascinating contradictions: sturdy yet very gentle, tenacious yet docile within the family, energetic yet able to turn into a "couch dog" when fulfilled. Those who know one fall in love. But precisely because it is so "intense", it should be chosen with awareness.</p>
   
   <h2>The PROS: why the Staffy wins hearts</h2>

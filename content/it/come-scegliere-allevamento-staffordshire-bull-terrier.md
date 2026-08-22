@@ -40,7 +40,7 @@ categories: ["Cuccioli"]
 
 <h2>Pedigree ENCI: garanzia di razza</h2>
 
-<p>Il pedigree ENCI non è un "optional" o un costo extra. È l'unico documento che certifica che il cane è uno Staffordshire Bull Terrier.</p>
+<p>Il <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="Scheda di razza dello Staffordshire Bull Terrier, ENCI" target="_blank" rel="noopener">pedigree ENCI</a> non è un "optional" o un costo extra. È l'unico documento che certifica che il cane è uno Staffordshire Bull Terrier.</p>
 
 <p>Senza pedigree:</p>
 <ul>

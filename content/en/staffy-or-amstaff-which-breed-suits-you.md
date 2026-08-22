@@ -29,7 +29,7 @@ categories: ["Breed Standard"]
 
 <h2>Origins: one history, two directions</h2>
 
-<p>Both breeds descend from the English fighting dogs of the 1800s, crosses between Bulldog and Terrier. When those dogs reached America, breeders there selected for larger, more powerful animals, creating the American Staffordshire Terrier.</p>
+<p>Both breeds descend from the English fighting dogs of the 1800s, crosses between Bulldog and Terrier. When those dogs reached America, breeders there selected for larger, more powerful animals, creating the <a href="https://www.enci.it/media/2547/286.pdf" title="FCI standard no. 76, official ENCI PDF" target="_blank" rel="noopener">American Staffordshire Terrier</a>.</p>
 
 <p>In England the selection kept the original, more compact size, producing the Staffordshire Bull Terrier we know today.</p>
 

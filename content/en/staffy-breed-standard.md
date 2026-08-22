@@ -22,7 +22,7 @@ custom_content: |
   <div class="article-container"><article class="article-content">
   <div class="lead"><strong>In brief:</strong> The breed standard defines the ideal Staffordshire Bull Terrier. Understanding it helps recognize quality specimens and appreciate what responsible breeders work to preserve.</div>
   <h2>What the standard is for</h2>
-  <p>The breed standard is not a beauty checklist. It is a functional description of a dog built to do a specific job: a smooth-coated, close-coupled terrier of great strength for its size, agile enough to turn on itself and sound enough to work all day. Every clause exists because it describes something the dog needed in order to function, and reading it that way makes it far more useful than reading it as a list of features to tick off.</p>
+  <p><a href="https://www.enci.it/media/2347/076.pdf" title="FCI standard no. 76 for the Staffordshire Bull Terrier, official ENCI PDF" target="_blank" rel="noopener">The breed standard</a> is not a beauty checklist. It is a functional description of a dog built to do a specific job: a smooth-coated, close-coupled terrier of great strength for its size, agile enough to turn on itself and sound enough to work all day. Every clause exists because it describes something the dog needed in order to function, and reading it that way makes it far more useful than reading it as a list of features to tick off.</p>
   <p>This matters when choosing a puppy, because it lets you distinguish between a dog that is typey and a dog that is merely exaggerated. The two are frequently confused, and the confusion has consequences that appear years later in the form of a dog that cannot breathe in August or cannot trot without rolling.</p>
 
   <h2>General appearance and proportions</h2>
