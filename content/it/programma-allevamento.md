@@ -1,5 +1,6 @@
 ---
 title: "Programma allevamento Staffordshire Bull Terrier"
+tipoPagina: "CollectionPage"
 translationKey: "programma"
 description: "Programma di allevamento Staffordshire Bull Terrier: criteri di selezione, salute, test genetici e storico delle cucciolate passate e future."
 correlati:

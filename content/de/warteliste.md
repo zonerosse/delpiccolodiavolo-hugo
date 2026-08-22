@@ -1,5 +1,6 @@
 ---
 title: "Warteliste für Welpen"
+tipoPagina: "ContactPage"
 titleSeo: "Warteliste für Staffordshire Bull Terrier Welpen"
 translationKey: "lista-attesa"
 description: "Tragen Sie sich in die Warteliste für kommende Staffordshire Bull Terrier Würfe ein. Ohne Verpflichtung, ohne Anzahlung."

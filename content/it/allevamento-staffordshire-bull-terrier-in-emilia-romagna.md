@@ -1,5 +1,6 @@
 ---
 title: "Allevamento Staffordshire Bull Terrier in Emilia-Romagna"
+tipoPagina: "ContactPage"
 titleSeo: "Allevamento Staffy in Emilia-Romagna: Ostellato (FE)"
 translationKey: "contatti"
 description: "Allevamento Staffordshire Bull Terrier a Ostellato (Ferrara), Emilia-Romagna. Visite su appuntamento, WhatsApp attivo."

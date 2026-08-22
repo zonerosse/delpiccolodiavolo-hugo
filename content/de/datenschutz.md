@@ -1,5 +1,6 @@
 ---
 title: "Datenschutzerklärung – Del Piccolo Diavolo"
+tipoPagina: "WebPage"
 translationKey: "privacy"
 description: "Datenschutzerklärung und Verarbeitung personenbezogener Daten der Zucht Del Piccolo Diavolo - DSGVO-Informationen."
 slug: "datenschutz"

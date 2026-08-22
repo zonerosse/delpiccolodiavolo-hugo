@@ -1,5 +1,6 @@
 ---
 title: "Puppy waiting list"
+tipoPagina: "ContactPage"
 titleSeo: "Staffordshire Bull Terrier puppy waiting list"
 translationKey: "lista-attesa"
 description: "Join the waiting list for upcoming Staffordshire Bull Terrier litters. No commitment, no deposit."

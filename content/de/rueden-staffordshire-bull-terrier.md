@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Rüden"
+tipoPagina: "CollectionPage"
 translationKey: "maschi"
 description: "Unsere Staffordshire Bull Terrier Rüden: Lothar (Slowenischer und Italienischer Jugendchampion), Braveheart und Papillon. L2HGA und HC zertifizierte Gentests."
 slug: "rueden-staffordshire-bull-terrier"

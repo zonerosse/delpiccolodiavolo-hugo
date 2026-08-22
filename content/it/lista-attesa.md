@@ -1,5 +1,6 @@
 ---
 title: "Lista d'attesa cuccioli"
+tipoPagina: "ContactPage"
 titleSeo: "Lista d'attesa cuccioli Staffordshire Bull Terrier"
 translationKey: "lista-attesa"
 description: "Entra nella lista d'attesa per le prossime cucciolate di Staffordshire Bull Terrier. Senza impegno e senza acconto."
