@@ -1,13 +1,14 @@
 {{ define "main" }}
 
 {{- $agg := printf "%s %s" (cond (eq .Site.Language.Lang "de") "Aktualisiert am" (cond (eq .Site.Language.Lang "en") "Updated on" "Aggiornato il")) (cond (eq .Site.Language.Lang "en") (.Lastmod.Format "January 2, 2006") (partial "data-locale.html" .)) -}}
-{{- $meta := printf `<p class="pagina-meta" style="text-align:center;color:#7a6a58;font-size:.85rem;margin:1.5rem 0 0">%s · Paolo Boldrini</p>` $agg -}}
+{{- $iso := .Lastmod.Format "2006-01-02" -}}
+{{- $meta := printf `<p class="pagina-meta" style="text-align:center;color:#7a6a58;font-size:.85rem;margin:1.5rem 0 0"><time datetime="%s">%s</time> · <a href="%s" rel="author" style="color:inherit;text-decoration:underline">Paolo Boldrini</a></p>` $iso $agg (cond (eq .Site.Language.Lang "de") "/de/ueber-uns/" (cond (eq .Site.Language.Lang "en") "/en/about-us/" "/chi-siamo/")) -}}
 
 {{ if .Params.custom_content }}
   {{ $c := replace .Params.custom_content "<!--CUCCIOLATA-->" (partial "ultima-cucciolata.html" .) }}
   {{ $c = replace $c "<!--CORRELATI-->" (partial "correlati.html" .) }}
   {{ replace $c "<!--LISTAATTESA-->" (partial "lista-attesa.html" .) | safeHTML }}
-  {{ if .Params.articolo }}{{ $meta | safeHTML }}{{ end }}
+  {{ if not .Params.noindex }}{{ $meta | safeHTML }}{{ end }}
 {{ else }}
   {{ $haH1 := findRE "<h1[ >]" .Content 1 }}
   <div class="page-hero">
@@ -18,7 +19,7 @@
 
   <div class="article-content">
     {{ .Content }}
-    {{ if .Params.articolo }}{{ $meta | safeHTML }}{{ end }}
+    {{ if not .Params.noindex }}{{ $meta | safeHTML }}{{ end }}
   </div>
 
   <section class="cta-section">
