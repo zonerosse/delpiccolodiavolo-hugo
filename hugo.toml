@@ -62,6 +62,8 @@ enableRobotsTXT = true
 [mediaTypes]
   [mediaTypes."text/markdown"]
     suffixes = ["md"]
+  [mediaTypes."text/headers"]
+    suffixes = [""]
 
 [outputFormats]
   [outputFormats.MARKDOWN]
@@ -69,6 +71,13 @@ enableRobotsTXT = true
     isPlainText = true
     isHTML = false
     baseName = "index"
+
+  [outputFormats.HEADERS]
+    mediaType = "text/headers"
+    baseName = "_headers"
+    isPlainText = true
+    isHTML = false
+    notAlternative = true
 
   [outputFormats.LLMSFULL]
     mediaType = "text/plain"
@@ -78,7 +87,7 @@ enableRobotsTXT = true
     rel = "alternate"
 
 [outputs]
-  home = ["HTML", "sitemap", "MARKDOWN", "LLMSFULL"]
+  home = ["HTML", "sitemap", "MARKDOWN", "LLMSFULL", "HEADERS"]
   page = ["HTML", "MARKDOWN"]
 
 # ---------------------------------------------------------------
