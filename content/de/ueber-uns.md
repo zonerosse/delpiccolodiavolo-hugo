@@ -44,10 +44,10 @@ custom_content: |
   <span class="section-label">Unsere Werte</span>
   <h2 class="section-title">Was Uns Leitet</h2>
   <div class="values-grid">
-  <div class="value-card"><h4>🧬 Gentests</h4><p>Alle Zuchthunde auf L2HGA und HC getestet</p></div>
-  <div class="value-card"><h4>🏠 In der Familie</h4><p>Welpen in häuslicher Umgebung sozialisiert</p></div>
-  <div class="value-card"><h4>📞 Unterstützung</h4><p>Betreuung für das ganze Hundeleben</p></div>
-  <div class="value-card"><h4>🏆 Top-Linien</h4><p>Elitebull (UK) und Lackyle (Irland)</p></div>
+  <div class="value-card"><h3>🧬 Gentests</h3><p>Alle Zuchthunde auf L2HGA und HC getestet</p></div>
+  <div class="value-card"><h3>🏠 In der Familie</h3><p>Welpen in häuslicher Umgebung sozialisiert</p></div>
+  <div class="value-card"><h3>📞 Unterstützung</h3><p>Betreuung für das ganze Hundeleben</p></div>
+  <div class="value-card"><h3>🏆 Top-Linien</h3><p>Elitebull (UK) und Lackyle (Irland)</p></div>
   </div>
   </div>
   </section>
@@ -106,6 +106,18 @@ custom_content: |
   </div>
   </section>
   
+  <section class="section section-alt">
+  <div class="section-inner">
+  <span class="section-label">Der Züchter</span>
+  <h2 class="section-title">Wer hinter Del Piccolo Diavolo steht</h2>
+  <div class="content-block">
+  <p><strong>Paolo Boldrini</strong> züchtet seit 2013 Staffordshire Bull Terrier in Ostellato in der Provinz Ferrara unter dem Namen Del Piccolo Diavolo. Vor den Staffies züchtete er Rottweiler und führte einen Italienischen Champion und einen Europachampion in den Ring.</p>
+  <p>Er arbeitet mit den Blutlinien Elitebull (England) und Lackyle (Irland) und testet alle Zuchttiere auf L2HGA, HC und PHPV. Mit <strong>Bilquis Goddess Diabhal</strong> gewann er den Titel Italienische Schönheitschampionin ENCI und einen vierten Platz bei der World Dog Show in Zagreb 2024. Jeder Welpe erhält eine ENCI-Ahnentafel und die Testzertifikate der Eltern.</p>
+  <p>Die Seiten dieser Website schreibt er selbst, auf Grundlage dessen, was in der Zucht tatsächlich passiert. Für Fragen zu Welpen, Blutlinien oder Gentests: <a href="/de/kontakt/">schreiben Sie mir direkt</a>.</p>
+  </div>
+  </div>
+  </section>
+
   <section class="dark-section">
   <h2>Wir Sind Keine Verkäufer, Wir Sind Hüter</h2>
   <p>Wir züchten nicht für Profit. Jeder Wurf kostet Tausende Euro für Tests, Tierarzt, Qualitätsfutter. Sie werden unsere Welpen nie auf Kleinanzeigen finden. Wir wählen auch die Besitzer aus.</p>

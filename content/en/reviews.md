@@ -34,10 +34,10 @@ custom_content: |
   <span class="section-label">Our Reputation</span>
   <h2 class="section-title">Why Reviews Matter</h2>
   <div class="values-grid">
-  <div class="value-card"><h4>✓ Transparency</h4><p>Every review verifiable on Google</p></div>
-  <div class="value-card"><h4>⭐ 4.9/5</h4><p>Average built over 13 years of work</p></div>
-  <div class="value-card"><h4>📞 Support</h4><p>Assistance for the dog's entire life</p></div>
-  <div class="value-card"><h4>🏆 Quality</h4><p>Certified Elitebull and Lackyle lines</p></div>
+  <div class="value-card"><h3>✓ Transparency</h3><p>Every review verifiable on Google</p></div>
+  <div class="value-card"><h3>⭐ 4.9/5</h3><p>Average built over 13 years of work</p></div>
+  <div class="value-card"><h3>📞 Support</h3><p>Assistance for the dog's entire life</p></div>
+  <div class="value-card"><h3>🏆 Quality</h3><p>Certified Elitebull and Lackyle lines</p></div>
   </div>
   </div>
   </section>

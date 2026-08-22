@@ -44,10 +44,10 @@ custom_content: |
   <span class="section-label">Our Values</span>
   <h2 class="section-title">What Guides Us</h2>
   <div class="values-grid">
-  <div class="value-card"><h4>🧬 Genetic Testing</h4><p>All breeding dogs tested for L2HGA and HC</p></div>
-  <div class="value-card"><h4>🏠 Family Raised</h4><p>Puppies socialized in a home environment</p></div>
-  <div class="value-card"><h4>📞 Support</h4><p>Assistance for the dog's entire life</p></div>
-  <div class="value-card"><h4>🏆 Top Lines</h4><p>Elitebull (UK) and Lackyle (Ireland)</p></div>
+  <div class="value-card"><h3>🧬 Genetic Testing</h3><p>All breeding dogs tested for L2HGA and HC</p></div>
+  <div class="value-card"><h3>🏠 Family Raised</h3><p>Puppies socialized in a home environment</p></div>
+  <div class="value-card"><h3>📞 Support</h3><p>Assistance for the dog's entire life</p></div>
+  <div class="value-card"><h3>🏆 Top Lines</h3><p>Elitebull (UK) and Lackyle (Ireland)</p></div>
   </div>
   </div>
   </section>
@@ -106,6 +106,18 @@ custom_content: |
   </div>
   </section>
   
+  <section class="section section-alt">
+  <div class="section-inner">
+  <span class="section-label">The Breeder</span>
+  <h2 class="section-title">Who is behind Del Piccolo Diavolo</h2>
+  <div class="content-block">
+  <p><strong>Paolo Boldrini</strong> has been breeding Staffordshire Bull Terriers since 2013 in Ostellato, in the province of Ferrara, under the name Del Piccolo Diavolo. Before the Staffies he bred Rottweilers, taking an Italian Champion and a European Champion into the ring.</p>
+  <p>He works with Elitebull (England) and Lackyle (Ireland) bloodlines and tests every breeding dog for L2HGA, HC and PHPV. With <strong>Bilquis Goddess Diabhal</strong> he won the ENCI Italian Beauty Champion title and placed fourth at the World Dog Show in Zagreb in 2024. Every puppy leaves with an ENCI pedigree and with the parents' test certificates.</p>
+  <p>The pages on this site are written by him, based on what actually happens at the kennel. For questions about puppies, bloodlines or genetic testing: <a href="/en/contact/">contact me directly</a>.</p>
+  </div>
+  </div>
+  </section>
+
   <section class="dark-section">
   <h2>We're Not Sellers, We're Guardians</h2>
   <p>We don't breed for profit. Each litter costs thousands of euros in tests, veterinary care, quality food. You'll never find our puppies on classified ads. We also select the owners.</p>

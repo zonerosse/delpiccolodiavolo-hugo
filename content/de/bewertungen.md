@@ -35,10 +35,10 @@ custom_content: |
   <span class="section-label">Unser Ruf</span>
   <h2 class="section-title">Warum Bewertungen Zählen</h2>
   <div class="values-grid">
-  <div class="value-card"><h4>✓ Transparenz</h4><p>Jede Bewertung bei Google verifizierbar</p></div>
-  <div class="value-card"><h4>⭐ 4,9/5</h4><p>Durchschnitt aufgebaut in 13 Jahren Arbeit</p></div>
-  <div class="value-card"><h4>📞 Support</h4><p>Betreuung für das ganze Leben des Hundes</p></div>
-  <div class="value-card"><h4>🏆 Qualität</h4><p>Zertifizierte Elitebull und Lackyle Linien</p></div>
+  <div class="value-card"><h3>✓ Transparenz</h3><p>Jede Bewertung bei Google verifizierbar</p></div>
+  <div class="value-card"><h3>⭐ 4,9/5</h3><p>Durchschnitt aufgebaut in 13 Jahren Arbeit</p></div>
+  <div class="value-card"><h3>📞 Support</h3><p>Betreuung für das ganze Leben des Hundes</p></div>
+  <div class="value-card"><h3>🏆 Qualität</h3><p>Zertifizierte Elitebull und Lackyle Linien</p></div>
   </div>
   </div>
   </section>

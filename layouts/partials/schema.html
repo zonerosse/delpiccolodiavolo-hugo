@@ -18,6 +18,16 @@
 
 {{ $currentURL := .Permalink }}
 
+{{ $faqsrc := .Params.custom_content | default .Content }}
+{{ $coppie := slice }}
+{{ range findRESubmatch `(?s)<h[23][^>]*>([^<]*\?)</h[23]>\s*(?:<span class="faq-toggle">.*?</span>\s*</div>\s*)?(?:</div>\s*)?(?:<div[^>]*>\s*)?(?:<p[^>]*>)?(.*?)(?:</p>|</div>)` $faqsrc }}
+  {{ $d := index . 1 | plainify | htmlUnescape }}
+  {{ $r := index . 2 | plainify | htmlUnescape }}
+  {{ if and (gt (len $d) 12) (gt (len $r) 60) (lt (len $r) 1200) }}
+    {{ $coppie = $coppie | append (dict "d" $d "r" $r) }}
+  {{ end }}
+{{ end }}
+
 <!-- JSON-LD: Organization + LocalBusiness -->
 <script type="application/ld+json">
 {
@@ -138,6 +148,20 @@
 }
 </script>
 
+<!-- JSON-LD: WebSite -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "{{ $baseURL }}/#website",
+  "url": "{{ $baseURL }}/",
+  "name": "{{ if eq $lang "de" }}Zucht Del Piccolo Diavolo{{ else if eq $lang "en" }}Del Piccolo Diavolo Kennel{{ else }}Allevamento Del Piccolo Diavolo{{ end }}",
+  "alternateName": "Del Piccolo Diavolo",
+  "inLanguage": "{{ $lang }}",
+  "publisher": { "@id": "{{ $baseURL }}/#organization" }
+}
+</script>
+
 <!-- JSON-LD: BreadcrumbList -->
 <script type="application/ld+json">
 {
@@ -216,7 +240,7 @@
 {{ end }}
 
 {{/* FAQPage sulla pagina contatti/geo */}}
-{{ if in $currentURL "emilia-romagna" }}
+{{ if and (in $currentURL "emilia-romagna") (lt (len $coppie) 3) }}
 <!-- JSON-LD: FAQPage Contatti -->
 <script type="application/ld+json">
 {
@@ -292,15 +316,6 @@
 {{/* FAQPage automatico: legge le domande gia' presenti nel contenuto.
      Si attiva sulle pagine che hanno almeno 3 H2/H3 che finiscono con "?"
      e che non hanno gia' un FAQPage scritto a mano. */}}
-{{ $cc := .Params.custom_content | default .Content }}
-{{ $coppie := slice }}
-{{ range findRESubmatch `(?s)<h[23][^>]*>([^<]*\?)</h[23]>\s*(?:<span class="faq-toggle">.*?</span>\s*</div>\s*)?(?:</div>\s*)?(?:<div[^>]*>\s*)?(?:<p[^>]*>)?(.*?)(?:</p>|</div>)` $cc }}
-  {{ $d := index . 1 | plainify | htmlUnescape }}
-  {{ $r := index . 2 | plainify | htmlUnescape }}
-  {{ if and (gt (len $d) 12) (gt (len $r) 60) (lt (len $r) 1200) }}
-    {{ $coppie = $coppie | append (dict "d" $d "r" $r) }}
-  {{ end }}
-{{ end }}
 {{ if and (ge (len $coppie) 3) (not .IsHome) (not .Params.faq_manuale) }}
 <!-- JSON-LD: FAQPage generato dalle domande della pagina -->
 <script type="application/ld+json">
