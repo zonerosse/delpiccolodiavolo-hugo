@@ -1,5 +1,6 @@
 ---
 title: "Red × Nora Litter: 3 Males Born!"
+articolo: true
 translationKey: "cucciolata-red-nora-febbraio-2026"
 description: "Litter born 9 February 2026: 3 males, 2 brindle and 1 red and white. Dam Skilful-dogs Nora, sire Vangerbull Red Harricane. All reserved."
 slug: "red-nora-litter-february-2026"

@@ -1,5 +1,6 @@
 ---
 title: "Blog Staffordshire Bull Terrier"
+tipoPagina: "CollectionPage"
 translationKey: "blog"
 description: "Articoli su cuccioli, salute, standard e convivenza dello Staffordshire Bull Terrier. Consigli pratici dall'allevamento."
 slug: "blog"

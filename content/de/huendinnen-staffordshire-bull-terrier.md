@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Hündinnen"
+tipoPagina: "CollectionPage"
 translationKey: "femmine"
 description: "Unsere Staffordshire Bull Terrier Hündinnen: Bilquis (Top Dog Junior 2023), Croi Olc, Divine, Kennedy, Derry, Cattleya. L2HGA und HC zertifizierte Gentests."
 slug: "huendinnen-staffordshire-bull-terrier"

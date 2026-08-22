@@ -1,5 +1,6 @@
 ---
 title: "Welpen Staffordshire Bull Terrier"
+tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
 description: "Staffordshire Bull Terrier Welpen mit ENCI-Ahnentafel und Gentests. Elitebull und Lackyle Linien. Ostellato (FE)."
 correlati:

@@ -1,5 +1,6 @@
 ---
 title: "Impressum – Del Piccolo Diavolo"
+tipoPagina: "WebPage"
 translationKey: "note-legali"
 description: "Impressum, Haftungsausschluss und Nutzungsbedingungen der Website der Zucht Del Piccolo Diavolo - Staffordshire Bull Terrier in Ostellato (FE), Italien."
 slug: "impressum"

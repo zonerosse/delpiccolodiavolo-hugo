@@ -1,5 +1,6 @@
 ---
 title: "Legal Notice – Del Piccolo Diavolo"
+tipoPagina: "WebPage"
 translationKey: "note-legali"
 description: "Legal notice, disclaimer and terms of use for the Del Piccolo Diavolo Kennel website - Staffordshire Bull Terrier in Ostellato (FE), Italy."
 slug: "legal-notice"

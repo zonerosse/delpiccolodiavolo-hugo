@@ -1,5 +1,6 @@
 ---
 title: "Palmares - Unsere Ausstellungserfolge"
+tipoPagina: "CollectionPage"
 translationKey: "palmares"
 description: "Ergebnisse und Titel unserer Staffordshire Bull Terrier: Italienische Champions, Jugendchampions, Best in Show. Del Piccolo Diavolo Zucht, Italien."
 slug: "palmares"

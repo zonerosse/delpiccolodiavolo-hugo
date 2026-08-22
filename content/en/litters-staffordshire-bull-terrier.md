@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Litters"
+tipoPagina: "CollectionPage"
 translationKey: "programma"
 description: "Planned and current Staffordshire Bull Terrier litters at Del Piccolo Diavolo: parents, health tests and availability."
 correlati:

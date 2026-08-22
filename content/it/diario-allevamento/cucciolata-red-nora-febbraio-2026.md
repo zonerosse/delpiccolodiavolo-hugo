@@ -1,5 +1,6 @@
 ---
 title: "Cucciolata Red × Nora: nati 3 maschi!"
+articolo: true
 translationKey: "cucciolata-red-nora-febbraio-2026"
 description: "Cucciolata nata il 9 febbraio 2026: 3 maschi, 2 tigrati e 1 rosso pezzato. Madre Skilful-dogs Nora. Tutti prenotati."
 slug: "cucciolata-red-nora-febbraio-2026"

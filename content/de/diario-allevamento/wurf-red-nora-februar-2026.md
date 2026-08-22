@@ -1,5 +1,6 @@
 ---
 title: "Red × Nora Wurf: 3 Rüden geboren!"
+articolo: true
 translationKey: "cucciolata-red-nora-febbraio-2026"
 description: "Wurf geboren am 9. Februar 2026: 3 Rüden, 2 gestromt und 1 rot-weiß. Mutter Skilful-dogs Nora. Alle reserviert."
 slug: "wurf-red-nora-februar-2026"
