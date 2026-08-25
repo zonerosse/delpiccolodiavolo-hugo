@@ -17,8 +17,8 @@ custom_content: |
   <p class="hero-subtitle">36 verifizierte Testimonials</p>
   <p class="hero-description">Echte Erfahrungen von Besitzern unserer Staffordshire Bull Terrier: Professionalität, Gesundheit und ausgeglichener Charakter garantiert.</p>
   <div class="hero-actions">
-  <a href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" class="btn btn-primary" title="Bewertungen bei Google lesen">Bei Google Lesen</a>
-  <a href="https://g.page/r/CUCv-r9V4lTREAE/review" target="_blank" rel="noopener" class="btn btn-ghost" title="Bewertung hinterlassen">Bewertung Hinterlassen</a>
+  <a href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" class="btn btn-primary" title="Bewertungen bei Google lesen" aria-label="Bewertungen bei Google lesen (wird in einem neuen Tab geöffnet)">Bei Google Lesen</a>
+  <a href="https://g.page/r/CUCv-r9V4lTREAE/review" target="_blank" rel="noopener" class="btn btn-ghost" title="Bewertung hinterlassen" aria-label="Bewertung hinterlassen (wird in einem neuen Tab geöffnet)">Bewertung Hinterlassen</a>
   </div>
   </div>
   </section>

@@ -100,7 +100,7 @@ categories: ["Puppies"]
 
 <h2>What a puppy from a serious kennel costs</h2>
 
-<p>A Staffordshire Bull Terrier puppy with <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="Staffordshire Bull Terrier breed page, ENCI (Italian Kennel Club)" target="_blank" rel="noopener">ENCI pedigree</a>, complete genetic testing, vaccinations, microchip and guarantees carries <strong>the price of a serious kennel</strong>, not that of an online advert. For a detailed breakdown, read <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="How much does a Staffordshire Bull Terrier puppy cost">how much a Staffordshire Bull Terrier puppy costs</a>.</p>
+<p>A Staffordshire Bull Terrier puppy with <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="Staffordshire Bull Terrier breed page, ENCI (Italian Kennel Club)" target="_blank" rel="noopener" aria-label="Staffordshire Bull Terrier breed page, ENCI (Italian Kennel Club) (opens in a new tab)">ENCI pedigree</a>, complete genetic testing, vaccinations, microchip and guarantees carries <strong>the price of a serious kennel</strong>, not that of an online advert. For a detailed breakdown, read <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="How much does a Staffordshire Bull Terrier puppy cost">how much a Staffordshire Bull Terrier puppy costs</a>.</p>
 
 <p>That price reflects:</p>
 <ul>

@@ -84,3 +84,21 @@ other = "kontakt"
 
 [sbtpedigree]
 other = "Züchterprofil auf SBTpedigree"
+
+[salta_contenuto]
+other = "Zum Inhalt springen"
+
+[nuova_scheda]
+other = "wird in einem neuen Tab geöffnet"
+
+[leggi_articolo]
+other = "Artikel lesen"
+
+[seguici_fb]
+other = "Folgen Sie uns auf Facebook"
+
+[video_yt]
+other = "Sehen Sie unsere Videos auf YouTube"
+
+[scrivi_wa]
+other = "Kontaktieren Sie uns über WhatsApp"

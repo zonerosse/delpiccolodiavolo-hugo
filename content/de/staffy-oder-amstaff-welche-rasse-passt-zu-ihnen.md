@@ -29,7 +29,7 @@ categories: ["Rassestandard"]
 
 <h2>Ursprung: eine Geschichte, zwei Wege</h2>
 
-<p>Beide Rassen stammen von den englischen Kampfhunden des 19. Jahrhunderts ab, Kreuzungen aus Bulldog und Terrier. Als diese Hunde nach Amerika kamen, selektierten die dortigen Züchter auf größere, kräftigere Tiere und schufen so den <a href="https://www.enci.it/media/2547/286.pdf" title="FCI-Standard Nr. 76, offizielles ENCI-PDF" target="_blank" rel="noopener">American Staffordshire Terrier</a>.</p>
+<p>Beide Rassen stammen von den englischen Kampfhunden des 19. Jahrhunderts ab, Kreuzungen aus Bulldog und Terrier. Als diese Hunde nach Amerika kamen, selektierten die dortigen Züchter auf größere, kräftigere Tiere und schufen so den <a href="https://www.enci.it/media/2547/286.pdf" title="FCI-Standard Nr. 76, offizielles ENCI-PDF" target="_blank" rel="noopener" aria-label="FCI-Standard Nr. 76, offizielles ENCI-PDF (wird in einem neuen Tab geöffnet)">American Staffordshire Terrier</a>.</p>
 
 <p>In England blieb die Selektion bei der ursprünglichen, kompakteren Größe — daraus entstand der Staffordshire Bull Terrier, wie wir ihn heute kennen.</p>
 

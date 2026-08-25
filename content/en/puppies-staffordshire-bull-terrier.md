@@ -142,7 +142,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3>How much does a Staffordshire Bull Terrier puppy cost?</h3>
-  <p>The price reflects the quality of selection, complete genetic testing (L2HGA, HC), <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="ENCI breed page" target="_blank" rel="noopener">ENCI pedigree</a>, vaccinations, microchip and the ongoing support we provide. Contact us for detailed information about our litters.</p>
+  <p>The price reflects the quality of selection, complete genetic testing (L2HGA, HC), <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="ENCI breed page" target="_blank" rel="noopener" aria-label="ENCI breed page (opens in a new tab)">ENCI pedigree</a>, vaccinations, microchip and the ongoing support we provide. Contact us for detailed information about our litters.</p>
   </div>
   
   <div class="faq-item">

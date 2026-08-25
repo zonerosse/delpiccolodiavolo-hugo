@@ -48,7 +48,7 @@ custom_content: |
   <ul>
   <li><strong>Eltern:</strong> Temperament, Ausstellungsergebnisse, obligatorische Gentests (L-2HGA, HC), Fachuntersuchungen (PHPV Augen, Herz). Zertifikate zeigen lassen.</li>
   <li><strong>Stammbaum:</strong> Blutlinie, vollständige Genealogie und Kennelclub-Dokumentation. Ein Welpe ohne Stammbaum ist nicht reinrassig.</li>
-  <li><strong>Entwicklung:</strong> Futter seit der Entwöhnung, durchgeführte Entwurmungen, <a href="https://www.salute.gov.it/imgs/C_17_opuscoliPoster_41_allegato.pdf" title="Nationale Vorschriften zu Heimtieren, italienisches Gesundheitsministerium" target="_blank" rel="noopener">Mikrochip</a>, erste Impfungen mit Gesundheitsheft.</li>
+  <li><strong>Entwicklung:</strong> Futter seit der Entwöhnung, durchgeführte Entwurmungen, <a href="https://www.salute.gov.it/imgs/C_17_opuscoliPoster_41_allegato.pdf" title="Nationale Vorschriften zu Heimtieren, italienisches Gesundheitsministerium" target="_blank" rel="noopener" aria-label="Nationale Vorschriften zu Heimtieren, italienisches Gesundheitsministerium (wird in einem neuen Tab geöffnet)">Mikrochip</a>, erste Impfungen mit Gesundheitsheft.</li>
   <li><strong>Sozialisierung:</strong> Erfahrungen des Welpen, Gewöhnung an Haushaltsgeräusche, Handling, Box, Auto.</li>
   <li><strong>Vertrag und Garantien:</strong> Schriftliche Verkaufsbedingungen, Gesundheitsgarantien, Rückkaufklauseln, garantierter After-Sales-Support.</li>
   </ul>

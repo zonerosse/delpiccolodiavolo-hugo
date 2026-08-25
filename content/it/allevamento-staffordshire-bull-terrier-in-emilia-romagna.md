@@ -72,7 +72,7 @@ custom_content: |
   </div>
   </div>
 
-  <a href="https://maps.app.goo.gl/XDzxryqkbSSWNYVB8" target="_blank" rel="noopener" class="map-link" title="Apri Google Maps per indicazioni stradali">
+  <a href="https://maps.app.goo.gl/XDzxryqkbSSWNYVB8" target="_blank" rel="noopener" class="map-link" title="Apri Google Maps per indicazioni stradali" aria-label="Apri Google Maps per indicazioni stradali (si apre in una nuova scheda)">
   Apri Google Maps
   <span>Via Amerigo Chierici, 12, 44020 Ostellato (FE)</span>
   </a>
@@ -205,7 +205,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3>Quanto costa un cucciolo Staffordshire Bull Terrier?</h3>
-  <p>I nostri cuccioli con <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="Scheda di razza ENCI" target="_blank" rel="noopener">pedigree ENCI</a> e test genetici completi hanno un prezzo che comunichiamo direttamente, dopo una prima chiacchierata. Per tutti i dettagli leggi <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p>
+  <p>I nostri cuccioli con <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="Scheda di razza ENCI" target="_blank" rel="noopener" aria-label="Scheda di razza ENCI (si apre in una nuova scheda)">pedigree ENCI</a> e test genetici completi hanno un prezzo che comunichiamo direttamente, dopo una prima chiacchierata. Per tutti i dettagli leggi <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p>
   </div>
   </div>
   </div>

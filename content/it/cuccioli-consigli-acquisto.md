@@ -49,7 +49,7 @@ custom_content: |
   <ul>
   <li><strong>Genitori:</strong> carattere, risultati espositivi, test genetici obbligatori (L-2HGA, HC), visite specialistiche (occhi PHPV, cuore). Chiedi di vedere i certificati.</li>
   <li><strong>Pedigree:</strong> linea di sangue, genealogia completa e documentazione ENCI/FCI. Un cucciolo senza pedigree non è di razza pura.</li>
-  <li><strong>Crescita:</strong> alimentazione utilizzata fin dallo svezzamento, sverminazioni effettuate, <a href="https://www.salute.gov.it/imgs/C_17_opuscoliPoster_41_allegato.pdf" title="Norme nazionali sugli animali d’affezione, Ministero della Salute" target="_blank" rel="noopener">microchip</a>, prime vaccinazioni con libretto sanitario.</li>
+  <li><strong>Crescita:</strong> alimentazione utilizzata fin dallo svezzamento, sverminazioni effettuate, <a href="https://www.salute.gov.it/imgs/C_17_opuscoliPoster_41_allegato.pdf" title="Norme nazionali sugli animali d’affezione, Ministero della Salute" target="_blank" rel="noopener" aria-label="Norme nazionali sugli animali d’affezione, Ministero della Salute (si apre in una nuova scheda)">microchip</a>, prime vaccinazioni con libretto sanitario.</li>
   <li><strong>Socializzazione:</strong> esperienze già fatte dal cucciolo, abitudine a rumori domestici, manipolazioni, trasportino, auto.</li>
   <li><strong>Contratto e garanzie:</strong> condizioni di vendita scritte, garanzie sanitarie, clausole di riacquisto, supporto post-vendita garantito.</li>
   </ul>

@@ -142,7 +142,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3>Wie viel kostet ein Staffordshire Bull Terrier Welpe?</h3>
-  <p>Der Preis spiegelt die Qualität der Selektion, vollständige Gentests (L2HGA, HC), <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="ENCI-Rasseseite" target="_blank" rel="noopener">ENCI</a>-Stammbaum, Impfungen, Mikrochip und die kontinuierliche Unterstützung wider, die wir bieten. Kontaktieren Sie uns für detaillierte Informationen über unsere Würfe.</p>
+  <p>Der Preis spiegelt die Qualität der Selektion, vollständige Gentests (L2HGA, HC), <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="ENCI-Rasseseite" target="_blank" rel="noopener" aria-label="ENCI-Rasseseite (wird in einem neuen Tab geöffnet)">ENCI</a>-Stammbaum, Impfungen, Mikrochip und die kontinuierliche Unterstützung wider, die wir bieten. Kontaktieren Sie uns für detaillierte Informationen über unsere Würfe.</p>
   </div>
   
   <div class="faq-item">

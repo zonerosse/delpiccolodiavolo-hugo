@@ -46,7 +46,7 @@ custom_content: |
   
   <div class="callout">
   <p class="callout-title">📋 Nota importante</p>
-  <p>Lo <a href="https://www.enci.it/media/2347/076.pdf" title="Standard FCI n. 76, PDF ufficiale ENCI" target="_blank" rel="noopener">standard FCI n. 76</a> descrive il tipo ideale dello Staffordshire Bull Terrier. L'obiettivo di un allevamento serio è mantenere l'armonia complessiva senza estremizzare un singolo punto a scapito della funzionalità.</p>
+  <p>Lo <a href="https://www.enci.it/media/2347/076.pdf" title="Standard FCI n. 76, PDF ufficiale ENCI" target="_blank" rel="noopener" aria-label="Standard FCI n. 76, PDF ufficiale ENCI (si apre in una nuova scheda)">standard FCI n. 76</a> descrive il tipo ideale dello Staffordshire Bull Terrier. L'obiettivo di un allevamento serio è mantenere l'armonia complessiva senza estremizzare un singolo punto a scapito della funzionalità.</p>
   </div>
   
   <h2>La Testa: Proporzioni, Stop e Muso</h2>

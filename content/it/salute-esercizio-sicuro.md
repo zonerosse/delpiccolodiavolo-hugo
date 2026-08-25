@@ -105,7 +105,7 @@ custom_content: |
   
   <h3>Quando aumentare l'esercizio</h3>
   
-  <p>Le cartilagini di accrescimento si chiudono tra i <strong>12 e i 18 mesi</strong> nello Staffy. Solo dopo questo periodo puoi aumentare gradualmente intensità e durata dell'esercizio. Una radiografia dal <a href="https://wsava.org/global-guidelines/" title="Linee guida globali WSAVA" target="_blank" rel="noopener">veterinario</a> può confermare la chiusura completa.</p>
+  <p>Le cartilagini di accrescimento si chiudono tra i <strong>12 e i 18 mesi</strong> nello Staffy. Solo dopo questo periodo puoi aumentare gradualmente intensità e durata dell'esercizio. Una radiografia dal <a href="https://wsava.org/global-guidelines/" title="Linee guida globali WSAVA" target="_blank" rel="noopener" aria-label="Linee guida globali WSAVA (si apre in una nuova scheda)">veterinario</a> può confermare la chiusura completa.</p>
   
   <h2>Esercizio per Adulti: Quanto e Come</h2>
   

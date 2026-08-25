@@ -114,7 +114,7 @@ custom_content: |
   <li>Top Dog Junior female 2023</li>
   </ul>
   <p>Skilful-dogs Nora × Pablo iuno sospita plata plomo</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Vedi pedigree Bilquis su SBTPedigree">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Vedi pedigree Bilquis su SBTPedigree" aria-label="Vedi il pedigree di JCH. CH. Italiana Bilquis Goddess Diabhal (si apre in una nuova scheda)">SBTPedigree</a></p>
   </div>
 
   <div class="pair-x">×</div>
@@ -128,13 +128,13 @@ custom_content: |
   <li>Figlio del Campione del Mondo 2023</li>
   </ul>
   <p>Quash Marvelous Hagler de Stafflorence (Campione del Mondo 2023) × Ultima Di Casa Giacalone</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" title="Vedi pedigree Black Jack su SBTPedigree">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" title="Vedi pedigree Black Jack su SBTPedigree" aria-label="Vedi il pedigree di Black Jack Di Casa Giacalone (si apre in una nuova scheda)">SBTPedigree</a></p>
   </div>
   </div>
 
   <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Accoppiamento programmato per unire la morfologia da Campionessa di Bilquis (Campionessa Italiana, 4ª al World Dog Show 2024) alle linee di Black Jack, figlio del Campione del Mondo 2023 Quash Marvelous Hagler de Stafflorence. Nati il 1° agosto 2026: 8 cuccioli neri (4 maschi e 4 femmine). Cucciolata completa: tutti prenotati.</p>
 
-  <p class="pedigree-link">Pedigree della cucciolata: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" title="Vedi pedigree cucciolata Bilquis x Black Jack">vedi su SBTPedigree</a></p>
+  <p class="pedigree-link">Pedigree della cucciolata: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" title="Vedi pedigree cucciolata Bilquis x Black Jack" aria-label="Vedi il pedigree di Black Jack Di Casa Giacalone (si apre in una nuova scheda)">vedi su SBTPedigree</a></p>
   </article>
 
   <!-- Cucciolata 1: Red × Nora - NATA -->
@@ -153,7 +153,7 @@ custom_content: |
   <li>Completely scissor bite</li>
   </ul>
   <p>CH. Americano Toreator De Testaferro x Staffgold Girl Of Ice</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=3372904" target="_blank" rel="noopener" title="Vedi pedigree Red su SBTPedigree">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=3372904" target="_blank" rel="noopener" title="Vedi pedigree Red su SBTPedigree" aria-label="Vedi il pedigree di Vangerbull Red Harricane (si apre in una nuova scheda)">SBTPedigree</a></p>
   </div>
 
   <div class="pair-x">×</div>
@@ -166,13 +166,13 @@ custom_content: |
   <li>Completely scissor bite</li>
   </ul>
   <p>Skilful-Dogs Jeghër × Skilful-Dogs Red Skin</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="Vedi pedigree Nora su SBTPedigree">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="Vedi pedigree Nora su SBTPedigree" aria-label="Vedi il pedigree di Skilful-dogs Nora (si apre in una nuova scheda)">SBTPedigree</a></p>
   </div>
   </div>
 
   <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Questo accoppiamento è stato pianificato per consolidare le caratteristiche della linea Vangerbull, mantenendo l'eccellente temperamento familiare di Skilful-Dogs. L'obiettivo è produrre soggetti con testa potente, ossatura robusta e movimento corretto.</p>
 
-  <p class="pedigree-link">Pedigree della cucciolata: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" title="Vedi pedigree cucciolata Red x Nora">vedi su SBTPedigree</a></p>
+  <p class="pedigree-link">Pedigree della cucciolata: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" title="Vedi pedigree cucciolata Red x Nora" aria-label="Vedi il pedigree di Skilful-dogs Nora (si apre in una nuova scheda)">vedi su SBTPedigree</a></p>
   </article>
 
   <!-- Cucciolata 2: Bilquis × Luis - PASSATA -->
@@ -193,7 +193,7 @@ custom_content: |
   <li>Top Dog Junior female 2023</li>
   </ul>
   <p>Skilful-dogs Nora × Pablo iuno sospita plata plomo</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Vedi pedigree Bilquis su SBTPedigree">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Vedi pedigree Bilquis su SBTPedigree" aria-label="Vedi il pedigree di JCH. CH. Italiana Bilquis Goddess Diabhal (si apre in una nuova scheda)">SBTPedigree</a></p>
   </div>
 
   <div class="pair-x">×</div>
@@ -206,13 +206,13 @@ custom_content: |
   <li>Completely scissor bite</li>
   </ul>
   <p>D' Spain Fuogo Negro Espartaco × Iunosospita Torvi</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4555572" target="_blank" rel="noopener" title="Vedi pedigree Luis su SBTPedigree">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4555572" target="_blank" rel="noopener" title="Vedi pedigree Luis su SBTPedigree" aria-label="Vedi il pedigree di Il lupo perde il pelo ma non il vizio – Luis (si apre in una nuova scheda)">SBTPedigree</a></p>
   </div>
   </div>
 
   <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Accoppiamento pianificato per unire la morfologia eccellente di Bilquis (Campionessa Italiana, 4° al World Dog Show) con la potenza e il carattere di Luis. Obiettivo: soggetti da esposizione con temperamento equilibrato.</p>
 
-  <p class="pedigree-link">Pedigree della cucciolata: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4555572&DAM=4496127&generation=4&dogs_id=4555573" target="_blank" rel="noopener" title="Vedi pedigree cucciolata Bilquis x Luis">vedi su SBTPedigree</a></p>
+  <p class="pedigree-link">Pedigree della cucciolata: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4555572&DAM=4496127&generation=4&dogs_id=4555573" target="_blank" rel="noopener" title="Vedi pedigree cucciolata Bilquis x Luis" aria-label="Vedi il pedigree di Il lupo perde il pelo ma non il vizio – Luis (si apre in una nuova scheda)">vedi su SBTPedigree</a></p>
   </article>
 
   <!-- Cucciolata 3: Prospect × Bean - PASSATA -->
@@ -231,7 +231,7 @@ custom_content: |
   <li>Completely scissor bite</li>
   </ul>
   <p>CH. Elitebulls Challenger × Elitebull Destiny</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4483601" target="_blank" rel="noopener" title="Vedi pedigree Prospect su SBTPedigree">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4483601" target="_blank" rel="noopener" title="Vedi pedigree Prospect su SBTPedigree" aria-label="Vedi il pedigree di CH. Elitebull Prospect (si apre in una nuova scheda)">SBTPedigree</a></p>
   </div>
 
   <div class="pair-x">×</div>
@@ -244,13 +244,13 @@ custom_content: |
   <li>Completely scissor bite</li>
   </ul>
   <p>Lackyle Trodai Tine × CH. Lackyle Ogbhean an Diabhal</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="Vedi pedigree Bean su SBTPedigree">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="Vedi pedigree Bean su SBTPedigree" aria-label="Vedi il pedigree di Lackyle Bean Croí Olc (si apre in una nuova scheda)">SBTPedigree</a></p>
   </div>
   </div>
 
   <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Accoppiamento tra linee Elitebull e Lackyle per combinare la potenza inglese con l'eleganza irlandese. Obiettivo: soggetti versatili, adatti sia alla famiglia che all'esposizione.</p>
 
-  <p class="pedigree-link">Pedigree della cucciolata: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4483601&DAM=4538599&generation=4&dogs_id=4547824" target="_blank" rel="noopener" title="Vedi pedigree cucciolata Prospect x Bean">vedi su SBTPedigree</a></p>
+  <p class="pedigree-link">Pedigree della cucciolata: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4483601&DAM=4538599&generation=4&dogs_id=4547824" target="_blank" rel="noopener" title="Vedi pedigree cucciolata Prospect x Bean" aria-label="Vedi il pedigree di Lackyle Bean Croí Olc (si apre in una nuova scheda)">vedi su SBTPedigree</a></p>
   </article>
 
   </div>

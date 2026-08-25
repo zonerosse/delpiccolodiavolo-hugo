@@ -45,7 +45,7 @@ correlati:
 
 <p>Il Kennel Club britannico descrive il temperamento della razza con tre parole: <em>bold, fearless and totally reliable</em>. Audace, senza paura e <strong>totalmente affidabile</strong>.</p>
 
-<p>Quell'ultima espressione merita attenzione, perché è quasi unica. Sono pochissimi gli <a href="https://www.enci.it/media/2347/076.pdf" title="Standard FCI n. 76, PDF ufficiale ENCI" target="_blank" rel="noopener">standard</a> di razza che usano una parola come "affidabile" riferita al rapporto con le persone: la maggior parte parla di vigilanza, riservatezza verso gli estranei, istinto di guardia. Qui invece l'affidabilità è dichiarata come tratto costitutivo.</p>
+<p>Quell'ultima espressione merita attenzione, perché è quasi unica. Sono pochissimi gli <a href="https://www.enci.it/media/2347/076.pdf" title="Standard FCI n. 76, PDF ufficiale ENCI" target="_blank" rel="noopener" aria-label="Standard FCI n. 76, PDF ufficiale ENCI (si apre in una nuova scheda)">standard</a> di razza che usano una parola come "affidabile" riferita al rapporto con le persone: la maggior parte parla di vigilanza, riservatezza verso gli estranei, istinto di guardia. Qui invece l'affidabilità è dichiarata come tratto costitutivo.</p>
 
 <p>Lo standard aggiunge <em>highly intelligent and affectionate especially with children</em>: molto intelligente e affettuoso, specialmente con i bambini. È da questa formulazione che nasce il soprannome di <em>nanny dog</em>, un'espressione da maneggiare con cautela: il tema della convivenza quotidiana lo trattiamo per esteso nella <a href="/staffordshire-bull-terrier-carattere-vita-famiglia/">guida sulla vita in famiglia</a>.</p>
 

@@ -17,7 +17,7 @@ We are delighted to announce the birth of a highly anticipated litter at **Del P
 
 ## Puppy Video
 
-<video controls playsinline preload="metadata" style="width:100%;max-width:480px;border-radius:12px;margin:1.5rem auto;display:block">
+<video controls muted playsinline preload="metadata" style="width:100%;max-width:480px;border-radius:12px;margin:1.5rem auto;display:block">
 <source src="/videos/cuccioli-nora-red-febbraio2026.mp4" type="video/mp4">
 Your browser does not support video.
 </video>
@@ -34,7 +34,7 @@ Your browser does not support video.
       <li>Full scissor bite</li>
     </ul>
     <p>CH. Americano Toreator De Testaferro × Staffgold Girl Of Ice</p>
-    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=3372904" target="_blank" rel="noopener">View pedigree on SBTPedigree →</a></p>
+    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=3372904" target="_blank" rel="noopener" aria-label="View the pedigree of Vangerbull Red Harricane (opens in a new tab)">View pedigree on SBTPedigree →</a></p>
   </div>
 
   <div class="pair-x">×</div>
@@ -49,7 +49,7 @@ Your browser does not support video.
       <li>Full scissor bite</li>
     </ul>
     <p>Skilful-Dogs Jeghër × Skilful-Dogs Red Skin</p>
-    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener">View pedigree on SBTPedigree →</a></p>
+    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" aria-label="View the pedigree of Skilful-dogs Nora (opens in a new tab)">View pedigree on SBTPedigree →</a></p>
   </div>
 </div>
 
@@ -97,18 +97,18 @@ Verifiable Genetic Tests
 </h3>
 <p style="margin:0 0 1rem;font-size:1rem;color:#fff !important;font-weight:600">Full transparency: download the original laboratory certificates.</p>
 <div style="display:flex;flex-wrap:wrap;gap:1rem">
-<a href="/docs/test-genetici-red.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem">
+<a href="/docs/test-genetici-red.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem" aria-label="Red (L2HGA + HC) (opens in a new tab)">
 <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Red (L2HGA + HC)
 </a>
-<a href="/docs/test-genetici-nora.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem">
+<a href="/docs/test-genetici-nora.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem" aria-label="Nora (L2HGA + HC + DM) (opens in a new tab)">
 <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Nora (L2HGA + HC + DM)
 </a>
 </div>
 </div>
 
-<p style="margin-top:1.5rem"><strong>Litter pedigree:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" class="sbt-link">View on SBTPedigree →</a></p>
+<p style="margin-top:1.5rem"><strong>Litter pedigree:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" class="sbt-link" aria-label="View the pedigree of Skilful-dogs Nora (opens in a new tab)">View on SBTPedigree →</a></p>
 
 ## Future Litters
 

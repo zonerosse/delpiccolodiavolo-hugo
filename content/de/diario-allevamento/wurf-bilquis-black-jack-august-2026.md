@@ -39,7 +39,7 @@ In der Zucht **Del Piccolo Diavolo** ist ein besonders erwarteter Wurf angekomme
       <li>Vollständiges Scherengebiss</li>
     </ul>
     <p>🏆 <strong>Quash Marvelous Hagler de Stafflorence</strong> (Weltsieger 2023) × Ultima Di Casa Giacalone</p>
-    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener">Stammbaum auf SBTPedigree ansehen →</a></p>
+    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" aria-label="Stammbaum ansehen von Black Jack Di Casa Giacalone (wird in einem neuen Tab geöffnet)">Stammbaum auf SBTPedigree ansehen →</a></p>
   </div>
 
   <div class="pair-x">×</div>
@@ -55,7 +55,7 @@ In der Zucht **Del Piccolo Diavolo** ist ein besonders erwarteter Wurf angekomme
     </ul>
     <p><strong>Ch. IT · JCh. IT · JCh. HR · Ch. BiH</strong> · ENCI Winner 2023/24 · Crufts-Qualifikation 2025 · 4. World Dog Show Zagreb 2024</p>
     <p>Pablo Iuno Sospita Plata Plomo × Skilful-dogs Nora</p>
-    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener">Stammbaum auf SBTPedigree ansehen →</a></p>
+    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" aria-label="Stammbaum ansehen von Bilquis Goddess Diabhal (wird in einem neuen Tab geöffnet)">Stammbaum auf SBTPedigree ansehen →</a></p>
   </div>
 </div>
 
@@ -101,18 +101,18 @@ Die Eltern sind auf die wichtigsten genetischen Erkrankungen der Rasse getestet:
 <span style="background:rgba(255,255,255,.15);color:#fff;padding:.75rem 1.25rem;border-radius:8px;font-weight:600;display:inline-flex;align-items:center;gap:.5rem">
 Black Jack: frei über die Eltern — Zertifikate der Eltern auf Anfrage verfügbar
 </span>
-<a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem">
+<a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem" aria-label="Bilquis — L2HGA HC Test (PDF) (wird in einem neuen Tab geöffnet)">
 <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Bilquis — L2HGA &amp; HC Test (PDF)
 </a>
-<a href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem">
+<a href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem" aria-label="Bilquis — Doppler-Echokardiographie (PDF) (wird in einem neuen Tab geöffnet)">
 <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Bilquis — Doppler-Echokardiographie (PDF)
 </a>
 </div>
 </div>
 
-<p style="margin-top:1.5rem"><strong>Stammbaum des Wurfs:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" class="sbt-link">Auf SBTPedigree ansehen →</a></p>
+<p style="margin-top:1.5rem"><strong>Stammbaum des Wurfs:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" class="sbt-link" aria-label="Stammbaum ansehen von Bilquis Goddess Diabhal (wird in einem neuen Tab geöffnet)">Auf SBTPedigree ansehen →</a></p>
 
 ## Möchten Sie einen Welpen aus diesem Wurf?
 

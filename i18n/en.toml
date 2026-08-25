@@ -69,3 +69,21 @@ other = "FAQ"
 
 [sbtpedigree]
 other = "Breeder profile on SBTpedigree"
+
+[salta_contenuto]
+other = "Skip to content"
+
+[nuova_scheda]
+other = "opens in a new tab"
+
+[leggi_articolo]
+other = "Read the article"
+
+[seguici_fb]
+other = "Follow us on Facebook"
+
+[video_yt]
+other = "Watch our videos on YouTube"
+
+[scrivi_wa]
+other = "Contact us on WhatsApp for information"

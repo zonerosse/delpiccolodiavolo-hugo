@@ -121,7 +121,7 @@ custom_content: |
   <p><strong>Garante per la Protezione dei Dati Personali</strong> (Italien)<br>
   Piazza Venezia, 11 - 00187 Rom<br>
   Tel: <a href="tel:+390669677001" title="Italienische Datenschutzbehörde anrufen">+39 06 696771</a><br>
-  Website: <a href="https://www.garanteprivacy.it" target="_blank" rel="noopener" title="Website der italienischen Datenschutzbehörde">www.garanteprivacy.it</a></p>
+  Website: <a href="https://www.garanteprivacy.it" target="_blank" rel="noopener" title="Website der italienischen Datenschutzbehörde" aria-label="Website der italienischen Datenschutzbehörde (wird in einem neuen Tab geöffnet)">www.garanteprivacy.it</a></p>
   </div>
   
   <div class="legal-section">

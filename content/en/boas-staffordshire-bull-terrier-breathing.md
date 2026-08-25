@@ -48,7 +48,7 @@ custom_content: |
   <div class="content-block">
   <p><strong>BOAS</strong> (Brachycephalic Obstructive Airway Syndrome) is a set of anatomical abnormalities that cause upper airway obstruction in short-muzzled dogs. It's not a single problem but a combination of defects that make breathing difficult.</p>
   
-  <p>According to <a href="https://vcahospitals.com/know-your-pet/brachycephalic-airway-syndrome-in-dogs" target="_blank" rel="noopener">VCA Animal Hospitals</a>, the main abnormalities include:</p>
+  <p>According to <a href="https://vcahospitals.com/know-your-pet/brachycephalic-airway-syndrome-in-dogs" target="_blank" rel="noopener" aria-label="VCA Animal Hospitals (opens in a new tab)">VCA Animal Hospitals</a>, the main abnormalities include:</p>
   
   <ul>
   <li><strong>Stenotic nares</strong> – abnormally narrowed nostrils that restrict airflow</li>
@@ -57,7 +57,7 @@ custom_content: |
   <li><strong>Hypoplastic trachea</strong> – a windpipe with a smaller diameter than normal</li>
   </ul>
   
-  <p>The <strong>soft palate</strong> issue is particularly insidious. As reported by <a href="https://www.cherrydownvets.co.uk/news/brachycephalic-obstructive-airway-syndrome/" target="_blank" rel="noopener">Cherrydown Vets</a>: "100% of Pugs, French Bulldogs and English Bulldogs have an elongated or overlong soft palate. The soft palate in these breeds is often very thickened, further obstructing the airway and increasing the effort required for air to pass into the lungs."</p>
+  <p>The <strong>soft palate</strong> issue is particularly insidious. As reported by <a href="https://www.cherrydownvets.co.uk/news/brachycephalic-obstructive-airway-syndrome/" target="_blank" rel="noopener" aria-label="Cherrydown Vets (opens in a new tab)">Cherrydown Vets</a>: "100% of Pugs, French Bulldogs and English Bulldogs have an elongated or overlong soft palate. The soft palate in these breeds is often very thickened, further obstructing the airway and increasing the effort required for air to pass into the lungs."</p>
   </div>
   </div>
   </section>
@@ -71,7 +71,7 @@ custom_content: |
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>A Spectrum, Not a Category</h3>
-  <p>The <a href="https://www.thekennelclub.org.uk/health-and-dog-care/health/health-and-care/a-z-of-health-and-care-issues/brachycephalic-health-issues/" target="_blank" rel="noopener">Kennel Club UK</a> clarifies: "Brachycephaly occurs across a spectrum, from breeds with almost entirely flat faces (sometimes termed 'extreme brachycephaly'), such as the Pug and Japanese Chin, through to <strong>less exaggerated brachycephalic breeds such as the Boxer and Staffordshire Bull Terrier</strong>."</p>
+  <p>The <a href="https://www.thekennelclub.org.uk/health-and-dog-care/health/health-and-care/a-z-of-health-and-care-issues/brachycephalic-health-issues/" target="_blank" rel="noopener" aria-label="Kennel Club UK (opens in a new tab)">Kennel Club UK</a> clarifies: "Brachycephaly occurs across a spectrum, from breeds with almost entirely flat faces (sometimes termed 'extreme brachycephaly'), such as the Pug and Japanese Chin, through to <strong>less exaggerated brachycephalic breeds such as the Boxer and Staffordshire Bull Terrier</strong>."</p>
   <p>This means that the Staffy, by standard, should have a muzzle long enough to allow normal breathing.</p>
   </div>
   <div class="zigzag-image"></div>
@@ -80,7 +80,7 @@ custom_content: |
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>The Stafford Knot's Position</h3>
-  <p><a href="https://thestaffordknot.com/brachycephalic-airway-syndrome/" target="_blank" rel="noopener">The Stafford Knot</a>, one of the most authoritative resources on the breed, is categorical: "<strong>We absolutely do NOT want the Staffordshire Bull Terrier to continue down the path of the BAS affected breeds such as French Bulldog or Pug. We are NOT a brachycephalic breed and we don't wish to be in that category.</strong>"</p>
+  <p><a href="https://thestaffordknot.com/brachycephalic-airway-syndrome/" target="_blank" rel="noopener" aria-label="The Stafford Knot (opens in a new tab)">The Stafford Knot</a>, one of the most authoritative resources on the breed, is categorical: "<strong>We absolutely do NOT want the Staffordshire Bull Terrier to continue down the path of the BAS affected breeds such as French Bulldog or Pug. We are NOT a brachycephalic breed and we don't wish to be in that category.</strong>"</p>
   <p>This is a strong statement that all breeders should take seriously.</p>
   </div>
   <div class="zigzag-image"></div>
@@ -89,7 +89,7 @@ custom_content: |
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>BOAS Is Rare in Staffies... If Bred Correctly</h3>
-  <p>Research from the <a href="https://www.vet.cam.ac.uk/boas/research/brachy" target="_blank" rel="noopener">University of Cambridge</a> confirms: "Whilst the 3 most popular brachycephalic breeds have an increased risk of having BOAS, <strong>in other brachycephalic breeds, BOAS is very rarely seen</strong>."</p>
+  <p>Research from the <a href="https://www.vet.cam.ac.uk/boas/research/brachy" target="_blank" rel="noopener" aria-label="University of Cambridge (opens in a new tab)">University of Cambridge</a> confirms: "Whilst the 3 most popular brachycephalic breeds have an increased risk of having BOAS, <strong>in other brachycephalic breeds, BOAS is very rarely seen</strong>."</p>
   <p>The Staffy falls into this second category – as long as it's bred correctly.</p>
   </div>
   <div class="zigzag-image"></div>
@@ -106,9 +106,9 @@ custom_content: |
   <div class="content-block">
   <p>Unfortunately, the trend toward ever-shorter muzzles is also affecting the Staffordshire Bull Terrier. Some breeders, chasing aesthetic fashion, select dogs with exaggerated heads and flat muzzles, ignoring the health consequences.</p>
   
-  <p>The <a href="https://wsava.org/updates/meet-the-staffordshire-bull-terrier-update-your-knowledge/" target="_blank" rel="noopener">WSAVA</a> (World Small Animal Veterinary Association) is clear: "<strong>Existence of BOAS in the breed speaks for ensuring that dogs used for breeding have open nostrils and a long enough muzzle – and no clinical signs of BOAS.</strong>"</p>
+  <p>The <a href="https://wsava.org/updates/meet-the-staffordshire-bull-terrier-update-your-knowledge/" target="_blank" rel="noopener" aria-label="WSAVA (opens in a new tab)">WSAVA</a> (World Small Animal Veterinary Association) is clear: "<strong>Existence of BOAS in the breed speaks for ensuring that dogs used for breeding have open nostrils and a long enough muzzle – and no clinical signs of BOAS.</strong>"</p>
   
-  <p>Another issue is the normalization of symptoms. As reported in a <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6067768/" target="_blank" rel="noopener">scientific study published on PMC</a>: "Positive changes to brachycephalic health may be impeded by a perception of BOAS being 'normal for the breed'. This perception must be avoided by owners, breeders, and vets alike to prevent undertreatment of individuals and the perpetuation of this serious disorder to future generations of dogs."</p>
+  <p>Another issue is the normalization of symptoms. As reported in a <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6067768/" target="_blank" rel="noopener" aria-label="scientific study published on PMC (opens in a new tab)">scientific study published on PMC</a>: "Positive changes to brachycephalic health may be impeded by a perception of BOAS being 'normal for the breed'. This perception must be avoided by owners, breeders, and vets alike to prevent undertreatment of individuals and the perpetuation of this serious disorder to future generations of dogs."</p>
   </div>
   
   <div class="checklist">
@@ -126,7 +126,7 @@ custom_content: |
   </div>
   
   <div class="content-block" style="margin-top:2rem">
-  <p><strong>Important:</strong> If your Staffy shows these symptoms, don't assume it's "normal for the breed." Consult a veterinarian. <a href="https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/brachycephalic-obstructive-airway-syndrome-boas" target="_blank" rel="noopener">Cornell University</a> emphasizes that "early surgical intervention (dogs under 2 years of age) leads to better outcomes."</p>
+  <p><strong>Important:</strong> If your Staffy shows these symptoms, don't assume it's "normal for the breed." Consult a veterinarian. <a href="https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/brachycephalic-obstructive-airway-syndrome-boas" target="_blank" rel="noopener" aria-label="Cornell University (opens in a new tab)">Cornell University</a> emphasizes that "early surgical intervention (dogs under 2 years of age) leads to better outcomes."</p>
   </div>
   </div>
   </section>
@@ -192,14 +192,14 @@ custom_content: |
   
   <div class="content-block">
   <ul>
-  <li><a href="https://thestaffordknot.com/brachycephalic-airway-syndrome/" target="_blank" rel="noopener">The Stafford Knot – Brachycephalic Airway Syndrome</a></li>
-  <li><a href="https://www.thekennelclub.org.uk/health-and-dog-care/health/health-and-care/a-z-of-health-and-care-issues/brachycephalic-health-issues/" target="_blank" rel="noopener">Kennel Club UK – Brachycephalic Health Issues</a></li>
-  <li><a href="https://www.vet.cam.ac.uk/boas/research/brachy" target="_blank" rel="noopener">University of Cambridge – BOAS Research Group</a></li>
-  <li><a href="https://vcahospitals.com/know-your-pet/brachycephalic-airway-syndrome-in-dogs" target="_blank" rel="noopener">VCA Animal Hospitals – Brachycephalic Airway Syndrome</a></li>
-  <li><a href="https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/brachycephalic-obstructive-airway-syndrome-boas" target="_blank" rel="noopener">Cornell University – BOAS</a></li>
-  <li><a href="https://wsava.org/updates/meet-the-staffordshire-bull-terrier-update-your-knowledge/" target="_blank" rel="noopener">WSAVA – Meet the Staffordshire Bull Terrier</a></li>
-  <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6067768/" target="_blank" rel="noopener">PMC – Strategies for the management and prevention of BOAS</a></li>
-  <li><a href="https://www.cherrydownvets.co.uk/news/brachycephalic-obstructive-airway-syndrome/" target="_blank" rel="noopener">Cherrydown Vets – BOAS</a></li>
+  <li><a href="https://thestaffordknot.com/brachycephalic-airway-syndrome/" target="_blank" rel="noopener" aria-label="The Stafford Knot – Brachycephalic Airway Syndrome (opens in a new tab)">The Stafford Knot – Brachycephalic Airway Syndrome</a></li>
+  <li><a href="https://www.thekennelclub.org.uk/health-and-dog-care/health/health-and-care/a-z-of-health-and-care-issues/brachycephalic-health-issues/" target="_blank" rel="noopener" aria-label="Kennel Club UK – Brachycephalic Health Issues (opens in a new tab)">Kennel Club UK – Brachycephalic Health Issues</a></li>
+  <li><a href="https://www.vet.cam.ac.uk/boas/research/brachy" target="_blank" rel="noopener" aria-label="University of Cambridge – BOAS Research Group (opens in a new tab)">University of Cambridge – BOAS Research Group</a></li>
+  <li><a href="https://vcahospitals.com/know-your-pet/brachycephalic-airway-syndrome-in-dogs" target="_blank" rel="noopener" aria-label="VCA Animal Hospitals – Brachycephalic Airway Syndrome (opens in a new tab)">VCA Animal Hospitals – Brachycephalic Airway Syndrome</a></li>
+  <li><a href="https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/brachycephalic-obstructive-airway-syndrome-boas" target="_blank" rel="noopener" aria-label="Cornell University – BOAS (opens in a new tab)">Cornell University – BOAS</a></li>
+  <li><a href="https://wsava.org/updates/meet-the-staffordshire-bull-terrier-update-your-knowledge/" target="_blank" rel="noopener" aria-label="WSAVA – Meet the Staffordshire Bull Terrier (opens in a new tab)">WSAVA – Meet the Staffordshire Bull Terrier</a></li>
+  <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6067768/" target="_blank" rel="noopener" aria-label="PMC – Strategies for the management and prevention of BOAS (opens in a new tab)">PMC – Strategies for the management and prevention of BOAS</a></li>
+  <li><a href="https://www.cherrydownvets.co.uk/news/brachycephalic-obstructive-airway-syndrome/" target="_blank" rel="noopener" aria-label="Cherrydown Vets – BOAS (opens in a new tab)">Cherrydown Vets – BOAS</a></li>
   </ul>
   </div>
   </div>

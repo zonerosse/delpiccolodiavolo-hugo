@@ -97,9 +97,11 @@
 </head>
 <body>
 
+<a class="salta-contenuto" href="#contenuto">{{ i18n "salta_contenuto" }}</a>
+
 {{ partial "header.html" . }}
 
-<main>
+<main id="contenuto">
 {{ block "main" . }}{{ end }}
 </main>
 

@@ -67,7 +67,7 @@ custom_content: |
   <p>Because this breed tolerates discomfort well, absence of complaint means nothing. Lift the lip and look, once a week, and get into the habit while the dog is a puppy so it is unremarkable later.</p>
 
   <h2>Professional cleaning</h2>
-  <p>A <a href="https://wsava.org/global-guidelines/" title="WSAVA global guidelines" target="_blank" rel="noopener">vet</a>erinary dental cleaning requires general anaesthesia, and this is the point where owners hesitate. The hesitation is understandable but usually misplaced: modern protocols with pre-anaesthetic bloods and monitoring are low risk in a healthy dog, and the alternative is years of untreated infection.</p>
+  <p>A <a href="https://wsava.org/global-guidelines/" title="WSAVA global guidelines" target="_blank" rel="noopener" aria-label="WSAVA global guidelines (opens in a new tab)">vet</a>erinary dental cleaning requires general anaesthesia, and this is the point where owners hesitate. The hesitation is understandable but usually misplaced: modern protocols with pre-anaesthetic bloods and monitoring are low risk in a healthy dog, and the alternative is years of untreated infection.</p>
   <p>So-called anaesthesia-free cleaning removes visible tartar from the crown while leaving the subgingival deposits that actually cause the disease. It makes the mouth look better and treats nothing.</p>
   <p>Frequency varies with the individual, but a dog whose teeth are brushed regularly may need professional cleaning every 2 or 3 years, while a dog that has never been brushed may need it annually from middle age.</p>
 

@@ -1,0 +1,50 @@
+delpiccolodiavolo-COMPLETO.zip
+==============================
+
+VA IN:  la cartella di delpiccolodiavolo-hugo
+
+103 file. Sono tutte le correzioni di accessibilita' per questo sito.
+NON contiene niente di puntowebferrara.
+
+RISULTATO MISURATO, ricompilando il sito:
+  prima:  83 su 100
+  dopo:  100 su 100 di media, su 144 pagine
+
+COSA E' STATO FATTO
+-------------------
+LINK "SALTA AL CONTENUTO"  (baseof.html, main.css, i18n)
+  Su tutte le pagine, tradotto nelle tre lingue. Invisibile finche' non
+  lo raggiungi col Tab. Il <main> ha ora id="contenuto".
+
+AVVISO SULLE NUOVE SCHEDE  (97 file di contenuto + footer)
+  Ogni link che apre una scheda nuova ha un aria-label che lo dice,
+  nella lingua della pagina. Il testo visibile non cambia.
+  Gli aria-label del piede erano in italiano anche sulle pagine
+  tedesche e inglesi: ora sono tradotti.
+
+LINK "LEGGI" DESCRITTIVI  (blog.md, diario list.html)
+  87 link "Leggi →" avevano tutti lo stesso testo verso pagine diverse.
+  Ora ogni aria-label dice il titolo dell'articolo.
+
+LINK AI PEDIGREE  (54 link)
+  aria-label con il nome del cane, preso dalla scheda accanto.
+
+MODULO LISTA D'ATTESA  (lista-attesa.html)
+  autocomplete su nome, email e telefono.
+
+VIDEO  (3 file)
+  Aggiunto "muted": hai detto che c'e' solo il verso dei cuccioli, e un
+  video senza audio non ha niente da sottotitolare. Se un domani ci
+  metti la voce, togli "muted" e servira' un file .vtt.
+
+IL MODULO DELLA LISTA D'ATTESA ERA GIA' A POSTO
+-----------------------------------------------
+I "15 campi senza etichetta" erano un mio falso positivo: i tuoi campi
+sono avvolti nelle rispettive label, che e' corretto. Sbagliavo io il
+confronto per <select> e <textarea>. Non hai perso nessuna richiesta.
+
+COSA RESTA
+----------
+Un rilievo solo, minore: 56 pagine hanno testi di collegamento uguali
+verso destinazioni diverse. Sono voci di menu e del piede che ricorrono
+ovunque. Si sistemano quando vuoi, non e' urgente.
