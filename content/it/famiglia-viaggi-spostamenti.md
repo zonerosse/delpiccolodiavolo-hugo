@@ -51,7 +51,7 @@ custom_content: |
   <ul>
   <li><strong>Microchip:</strong> obbligatorio per legge, verificare registrazione anagrafe aggiornata</li>
   <li><strong>Libretto sanitario:</strong> vaccinazioni core in regola (cimurro, parvovirosi, leptospirosi, rabbia)</li>
-  <li><strong><a href="https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/travelling-pet-within-eu_en" title="Viaggiare con un animale nell’Unione Europea, Commissione Europea" target="_blank" rel="noopener">Passaporto europeo</a>:</strong> necessario viaggi UE, rilasciato da veterinario ASL</li>
+  <li><strong><a href="https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/travelling-pet-within-eu_en" title="Viaggiare con un animale nell’Unione Europea, Commissione Europea" target="_blank" rel="noopener" aria-label="Viaggiare con un animale nell’Unione Europea, Commissione Europea (si apre in una nuova scheda)">Passaporto europeo</a>:</strong> necessario viaggi UE, rilasciato da veterinario ASL</li>
   <li><strong>Certificato buona salute:</strong> alcuni Paesi extra-UE richiedono max 10 giorni prima</li>
   <li><strong>Assicurazione RC cane:</strong> verificare copertura estero</li>
   </ul>

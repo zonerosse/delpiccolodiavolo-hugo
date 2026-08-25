@@ -57,7 +57,7 @@ custom_content: |
   </div>
   
   <h2>Dose giornaliera: come orientarsi</h2>
-  <p>Segui il piano indicato dall'allevatore e <a href="https://europeanpetfood.org/self-regulation/nutritional-guidelines/" title="Linee guida nutrizionali FEDIAF per alimenti completi e complementari" target="_blank" rel="noopener">le linee guida del produttore</a>. Adatta la dose a condizione corporea, livello di attività e crescita.</p>
+  <p>Segui il piano indicato dall'allevatore e <a href="https://europeanpetfood.org/self-regulation/nutritional-guidelines/" title="Linee guida nutrizionali FEDIAF per alimenti completi e complementari" target="_blank" rel="noopener" aria-label="Linee guida nutrizionali FEDIAF per alimenti completi e complementari (si apre in una nuova scheda)">le linee guida del produttore</a>. Adatta la dose a condizione corporea, livello di attività e crescita.</p>
   <ul>
   <li><strong>Inizio:</strong> usa la stessa dose e lo stesso alimento fornito dall'allevatore per 7–10 giorni.</li>
   <li><strong>Monitoraggio:</strong> palpa le costole (percettibili ma non visibili), vita accennata, energia buona.</li>

@@ -66,9 +66,9 @@ custom_content: |
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> Skilful-dogs Nora</p>
   <p><strong>Mutter:</strong> Pablo iuno sospita plata plomo</p>
-  <a class="doc-link" href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" title="Gentests Bilquis herunterladen">📄 Gentests</a>
-  <a class="doc-link" href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" title="Echokardiogramm Bilquis herunterladen">📄 Echo-Doppler</a>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Stammbaum Bilquis auf SBTPedigree">Vollständigen Stammbaum Sehen →</a>
+  <a class="doc-link" href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" title="Gentests Bilquis herunterladen" aria-label="Gentests Bilquis herunterladen (wird in einem neuen Tab geöffnet)">📄 Gentests</a>
+  <a class="doc-link" href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" title="Echokardiogramm Bilquis herunterladen" aria-label="Echokardiogramm Bilquis herunterladen (wird in einem neuen Tab geöffnet)">📄 Echo-Doppler</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Stammbaum Bilquis auf SBTPedigree" aria-label="Stammbaum Bilquis auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
   </div>
   </div>
   </article>
@@ -91,7 +91,7 @@ custom_content: |
   <p><strong>Besitzer:</strong> Stefano Tevini</p>
   <p><strong>Handler:</strong> Vittoria Passerini</p>
   <p><strong>Titel:</strong> Italienische Jugendchampionin (in Homologation) — Albarella (RO), 17. Mai 2026. Jugendklasse V1, JCAC, JBOB, BOB. Bester Staffy — Kynologische Gruppe Polesano.</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/pedigree?SIRE=4483601&DAM=4538599&generation=4&dogs_id=4547824" target="_blank" rel="noopener" title="Stammbaum Queen of California auf SBTPedigree">Vollständigen Stammbaum Sehen →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/pedigree?SIRE=4483601&DAM=4538599&generation=4&dogs_id=4547824" target="_blank" rel="noopener" title="Stammbaum Queen of California auf SBTPedigree" aria-label="Stammbaum Queen of California auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
   </div>
   </div>
   </article>
@@ -110,8 +110,8 @@ custom_content: |
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> Lackyle Trodai Tine</p>
   <p><strong>Mutter:</strong> CH. Lackyle Ogbhean an Diabhal</p>
-  <a class="doc-link" href="/docs/Minnie-GF.pdf" target="_blank" rel="noopener" title="Gentests Croi Olc herunterladen">📄 Gentests</a>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="Stammbaum Croi Olc auf SBTPedigree">Vollständigen Stammbaum Sehen →</a>
+  <a class="doc-link" href="/docs/Minnie-GF.pdf" target="_blank" rel="noopener" title="Gentests Croi Olc herunterladen" aria-label="Gentests Croi Olc herunterladen (wird in einem neuen Tab geöffnet)">📄 Gentests</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="Stammbaum Croi Olc auf SBTPedigree" aria-label="Stammbaum Croi Olc auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
   </div>
   </div>
   </article>
@@ -135,7 +135,7 @@ custom_content: |
   <div class="affido-note">
   <p>Für Infos: <a href="tel:+393924635584" style="color:#a33" title="Anrufen für Infos Divine">392 4635584</a></p>
   </div>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1775592" target="_blank" rel="noopener" title="Stammbaum Divine auf SBTPedigree">Vollständigen Stammbaum Sehen →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1775592" target="_blank" rel="noopener" title="Stammbaum Divine auf SBTPedigree" aria-label="Stammbaum Divine auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
   </div>
   </div>
   </article>
@@ -155,7 +155,7 @@ custom_content: |
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> CH. Hell's Angel</p>
   <p><strong>Mutter:</strong> CH. Mellowstaff by Great'n Glory</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1054244" target="_blank" rel="noopener" title="Stammbaum Kennedy auf SBTPedigree">Vollständigen Stammbaum Sehen →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1054244" target="_blank" rel="noopener" title="Stammbaum Kennedy auf SBTPedigree" aria-label="Stammbaum Kennedy auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
   </div>
   </div>
   </article>
@@ -176,7 +176,7 @@ custom_content: |
   <p><strong>PHPV:</strong> Nicht betroffen</p>
   <p><strong>Vater:</strong> CH. Kiraloebis Italian Gigalo (Top UK Staffordshire Bull Terrier 2012)</p>
   <p><strong>Mutter:</strong> Lackyle Duilleog Daracha</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=789829" target="_blank" rel="noopener" title="Stammbaum Derry auf SBTPedigree">Vollständigen Stammbaum Sehen →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=789829" target="_blank" rel="noopener" title="Stammbaum Derry auf SBTPedigree" aria-label="Stammbaum Derry auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
   </div>
   </div>
   </article>
@@ -198,7 +198,7 @@ custom_content: |
   <p><strong>Vater:</strong> THE Phenomenal AJ Styles Valconcaclan</p>
   <p><strong>Mutter:</strong> Foyleoak Maiden Derry</p>
   <p><strong>Besitzerin:</strong> Ricarda Mazzola Wagner</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4477342" target="_blank" rel="noopener" title="Stammbaum Cattleya auf SBTPedigree">Vollständigen Stammbaum Sehen →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4477342" target="_blank" rel="noopener" title="Stammbaum Cattleya auf SBTPedigree" aria-label="Stammbaum Cattleya auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
   </div>
   </div>
   </article>
@@ -220,8 +220,8 @@ custom_content: |
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> Skilful-Dogs Jeghër</p>
   <p><strong>Mutter:</strong> Skilful-Dogs Red Skin</p>
-  <a class="doc-link" href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" title="Gentests Nora herunterladen">📄 Gentests</a>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="Stammbaum Nora auf SBTPedigree">Vollständigen Stammbaum Sehen →</a>
+  <a class="doc-link" href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" title="Gentests Nora herunterladen" aria-label="Gentests Nora herunterladen (wird in einem neuen Tab geöffnet)">📄 Gentests</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="Stammbaum Nora auf SBTPedigree" aria-label="Stammbaum Nora auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
   </div>
   </div>
   </article>

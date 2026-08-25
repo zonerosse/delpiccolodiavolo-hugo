@@ -69,3 +69,21 @@ other = "allevamento-staffordshire-bull-terrier-in-emilia-romagna"
 
 [sbtpedigree]
 other = "Profilo allevatore su SBTpedigree"
+
+[salta_contenuto]
+other = "Salta al contenuto"
+
+[nuova_scheda]
+other = "si apre in una nuova scheda"
+
+[leggi_articolo]
+other = "Leggi l'articolo"
+
+[seguici_fb]
+other = "Seguici su Facebook"
+
+[video_yt]
+other = "Guarda i nostri video su YouTube"
+
+[scrivi_wa]
+other = "Contattaci su WhatsApp per informazioni"

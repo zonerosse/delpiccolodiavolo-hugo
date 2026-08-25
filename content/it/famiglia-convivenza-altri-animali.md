@@ -67,7 +67,7 @@ custom_content: |
   <h3>Profilo C - Bassa compatibilità (10% Staffy)</h3>
   <ul>
   <li><strong>Caratteristiche:</strong> Storia aggressività manifesta verso altri cani/animali, socializzazione assente o traumatica, resource guarding severo, alto prey drive non gestibile</li>
-  <li><strong>Comportamento tipico:</strong> Fissità intensa, irrigidimento corpo, lunging/strattoni <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Ordinanza 6 agosto 2013, Gazzetta Ufficiale" target="_blank" rel="noopener">guinzaglio</a>, vocalizzazioni aggressive, morsi/attacchi passati</li>
+  <li><strong>Comportamento tipico:</strong> Fissità intensa, irrigidimento corpo, lunging/strattoni <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Ordinanza 6 agosto 2013, Gazzetta Ufficiale" target="_blank" rel="noopener" aria-label="Ordinanza 6 agosto 2013, Gazzetta Ufficiale (si apre in una nuova scheda)">guinzaglio</a>, vocalizzazioni aggressive, morsi/attacchi passati</li>
   <li><strong>Inserimenti:</strong> SCONSIGLIATI fortemente. Richiedono intervento comportamentalista PRIMA di qualsiasi tentativo</li>
   </ul>
   

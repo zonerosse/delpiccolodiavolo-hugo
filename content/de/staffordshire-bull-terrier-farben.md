@@ -45,7 +45,7 @@ custom_content: |
   </div>
   
   <h2>Was der offizielle Standard sagt</h2>
-  <p>Der <a href="https://www.enci.it/media/2347/076.pdf" title="FCI-Standard Nr. 76 für den Staffordshire Bull Terrier, offizielles ENCI-PDF" target="_blank" rel="noopener">FCI-Standard Nr. 76</a> für den Staffordshire Bull Terrier listet die erlaubten Farben genau auf. Erlaubt sind:</p>
+  <p>Der <a href="https://www.enci.it/media/2347/076.pdf" title="FCI-Standard Nr. 76 für den Staffordshire Bull Terrier, offizielles ENCI-PDF" target="_blank" rel="noopener" aria-label="FCI-Standard Nr. 76 für den Staffordshire Bull Terrier, offizielles ENCI-PDF (wird in einem neuen Tab geöffnet)">FCI-Standard Nr. 76</a> für den Staffordshire Bull Terrier listet die erlaubten Farben genau auf. Erlaubt sind:</p>
   <ul>
   <li><strong>Rot</strong></li>
   <li><strong>Falb</strong> (fawn)</li>

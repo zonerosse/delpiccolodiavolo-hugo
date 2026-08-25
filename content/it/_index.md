@@ -62,7 +62,7 @@ custom_content: |
   <h2 class="callout-title" style="font-size:1.15rem;margin:0 0 .6rem">FerraraToday: la storia di Bilquis, Campionessa Italiana</h2>
   <p><strong>FerraraToday</strong> — 6 gennaio 2026<br>
   "Da Ferrara alla conquista del mondo: Bilquis, la cagnolina di 3 anni che fa incetta di premi"</p>
-  <p><a href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" target="_blank" rel="noopener" title="Leggi l'articolo su FerraraToday">Leggi l'articolo &rarr;</a></p>
+  <p><a href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" target="_blank" rel="noopener" title="Leggi l'articolo su FerraraToday" aria-label="Leggi l'articolo su FerraraToday (si apre in una nuova scheda)">Leggi l'articolo &rarr;</a></p>
   </div>
   </div>
   </section>

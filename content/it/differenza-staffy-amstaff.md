@@ -29,7 +29,7 @@ categories: ["Standard"]
 
 <h2>Origini: una storia comune, due percorsi diversi</h2>
 
-<p>Entrambe le razze discendono dai cani da combattimento inglesi del 1800, incroci tra Bulldog e Terrier. Quando questi cani arrivarono in America, gli allevatori americani selezionarono soggetti più grandi e potenti, creando l'<a href="https://www.enci.it/media/2547/286.pdf" title="Standard FCI n. 76, PDF ufficiale ENCI" target="_blank" rel="noopener">American Staffordshire Terrier</a>.</p>
+<p>Entrambe le razze discendono dai cani da combattimento inglesi del 1800, incroci tra Bulldog e Terrier. Quando questi cani arrivarono in America, gli allevatori americani selezionarono soggetti più grandi e potenti, creando l'<a href="https://www.enci.it/media/2547/286.pdf" title="Standard FCI n. 76, PDF ufficiale ENCI" target="_blank" rel="noopener" aria-label="Standard FCI n. 76, PDF ufficiale ENCI (si apre in una nuova scheda)">American Staffordshire Terrier</a>.</p>
 
 <p>In Inghilterra, invece, la selezione mantenne la taglia originale più compatta, dando vita allo Staffordshire Bull Terrier che conosciamo oggi.</p>
 

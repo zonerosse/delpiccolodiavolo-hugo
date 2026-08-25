@@ -38,7 +38,7 @@ custom_content: |
   </div>
   
   <h2>Warum diese Hunde ständig verwechselt werden</h2>
-  <p>Staffordshire Bull Terrier, <a href="https://www.enci.it/media/2547/286.pdf" title="FCI-Standard Nr. 286 des American Staffordshire Terrier, offizielles ENCI-PDF" target="_blank" rel="noopener">American Staffordshire Terrier</a> und der sogenannte Pitbull haben eine gemeinsame Wurzel in den englischen Bull-and-Terrier-Kreuzungen des neunzehnten Jahrhunderts. Von dort haben sie sich in verschiedene Richtungen entwickelt, und heute unterscheiden sie sich in Größe, Standard und rechtlicher Behandlung erheblich.</p>
+  <p>Staffordshire Bull Terrier, <a href="https://www.enci.it/media/2547/286.pdf" title="FCI-Standard Nr. 286 des American Staffordshire Terrier, offizielles ENCI-PDF" target="_blank" rel="noopener" aria-label="FCI-Standard Nr. 286 des American Staffordshire Terrier, offizielles ENCI-PDF (wird in einem neuen Tab geöffnet)">American Staffordshire Terrier</a> und der sogenannte Pitbull haben eine gemeinsame Wurzel in den englischen Bull-and-Terrier-Kreuzungen des neunzehnten Jahrhunderts. Von dort haben sie sich in verschiedene Richtungen entwickelt, und heute unterscheiden sie sich in Größe, Standard und rechtlicher Behandlung erheblich.</p>
   <p>Die Verwechslung ist nicht nur ein Ärgernis für Halter. Sie prägt die Berichterstattung, verzerrt Beißstatistiken und beeinflusst Gesetzgebung, weil Zeugen einen Hund benennen, den sie nicht sicher bestimmen können. Studien zur Rassebestimmung nach Augenschein zeigen regelmäßig, dass selbst Fachleute häufig danebenliegen.</p>
 
   <h2>Der Staffordshire Bull Terrier</h2>

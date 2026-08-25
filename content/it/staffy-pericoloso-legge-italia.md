@@ -49,7 +49,7 @@ custom_content: |
   
   <p>La risposta è chiara: <strong>si tratta principalmente di stereotipi</strong>. Come vedremo in questo articolo, i dati scientifici raccontano una storia molto diversa da quella sensazionalistica dei media.</p>
   
-  <p>Il primo fattore è la <strong>storia della razza</strong>. Lo Staffordshire Bull Terrier discende dai "Bull and Terrier" utilizzati nell'Inghilterra del XIX secolo per i combattimenti. Tuttavia, questa pratica fu vietata nel 1835 con il Cruelty to Animals Act, e la razza fu riconosciuta dal <a href="https://www.thekennelclub.org.uk/breed-standards/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" class="source-link" title="Kennel Club UK - Standard Staffy">Kennel Club britannico nel 1935</a> proprio per le sue qualità come cane da compagnia.</p>
+  <p>Il primo fattore è la <strong>storia della razza</strong>. Lo Staffordshire Bull Terrier discende dai "Bull and Terrier" utilizzati nell'Inghilterra del XIX secolo per i combattimenti. Tuttavia, questa pratica fu vietata nel 1835 con il Cruelty to Animals Act, e la razza fu riconosciuta dal <a href="https://www.thekennelclub.org.uk/breed-standards/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" class="source-link" title="Kennel Club UK - Standard Staffy" aria-label="Kennel Club UK - Standard Staffy (si apre in una nuova scheda)">Kennel Club britannico nel 1935</a> proprio per le sue qualità come cane da compagnia.</p>
   
   <p>Il secondo fattore è la <strong>confusione con altre razze</strong>. Lo Staffy viene spesso confuso con l'American Pit Bull Terrier, l'American Staffordshire Terrier e altri "bully breeds". Quando un cane di tipo "bull" è coinvolto in un incidente, spesso viene erroneamente identificato come "Pitbull" o "Staffy" indipendentemente dalla razza effettiva.</p>
   
@@ -58,14 +58,14 @@ custom_content: |
   
   <h2>Cosa Dice la Scienza: Lo Studio VetCompass del Royal Veterinary College</h2>
   
-  <p>Nel 2020, il <strong>Royal Veterinary College</strong> di Londra ha pubblicato uno studio fondamentale che ha finalmente fornito dati scientifici solidi sulla questione dell'aggressività dello Staffordshire Bull Terrier. Lo studio, condotto nell'ambito del programma <a href="https://www.rvc.ac.uk/vetcompass/" target="_blank" rel="noopener" class="source-link" title="VetCompass - Royal Veterinary College">VetCompass™</a>, ha analizzato i dati clinici veterinari di oltre 22.000 cani.</p>
+  <p>Nel 2020, il <strong>Royal Veterinary College</strong> di Londra ha pubblicato uno studio fondamentale che ha finalmente fornito dati scientifici solidi sulla questione dell'aggressività dello Staffordshire Bull Terrier. Lo studio, condotto nell'ambito del programma <a href="https://www.rvc.ac.uk/vetcompass/" target="_blank" rel="noopener" class="source-link" title="VetCompass - Royal Veterinary College" aria-label="VetCompass - Royal Veterinary College (si apre in una nuova scheda)">VetCompass™</a>, ha analizzato i dati clinici veterinari di oltre 22.000 cani.</p>
   
   <div class="info-box">
   <p class="info-box-title">📊 I Numeri dello Studio VetCompass 2020</p>
   <p><strong>Campione totale:</strong> 22.333 cani sotto cure veterinarie nel Regno Unito durante il 2016</p>
   <p><strong>Staffordshire Bull Terrier:</strong> 1.304 esemplari (5,8% del campione)</p>
   <p><strong>Altri cani (controllo):</strong> 21.029 esemplari (94,2%)</p>
-  <p><strong>Fonte:</strong> <a href="https://cgejournal.biomedcentral.com/articles/10.1186/s40575-020-00092-w" target="_blank" rel="noopener" title="Studio VetCompass 2020">Pegram et al., Canine Medicine and Genetics, 2020</a></p>
+  <p><strong>Fonte:</strong> <a href="https://cgejournal.biomedcentral.com/articles/10.1186/s40575-020-00092-w" target="_blank" rel="noopener" title="Studio VetCompass 2020" aria-label="Studio VetCompass 2020 (si apre in una nuova scheda)">Pegram et al., Canine Medicine and Genetics, 2020</a></p>
   </div>
   
   <p>Il dato chiave è questo: <strong>non è stata rilevata alcuna differenza statisticamente significativa nel rischio di aggressione</strong> tra Staffordshire Bull Terrier e altri cani. L'Odds Ratio (OR) calcolato è stato di 1,09 con un intervallo di confidenza al 95% tra 0,75 e 1,58, e un valore p di 0,644.</p>
@@ -79,7 +79,7 @@ custom_content: |
   
   <h2>Il Mito del "Nanny Dog": Verità e Contesto Storico</h2>
   
-  <p>Avrai probabilmente sentito definire lo Staffordshire Bull Terrier come "nanny dog" (cane babysitter). Lo standard ufficiale della razza pubblicato dal <a href="https://www.thekennelclub.org.uk/breed-standards/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" class="source-link" title="Standard Kennel Club">Kennel Club britannico</a> descrive lo Staffy come: "Tradizionalmente di temperamento intrepido e tenace. Altamente intelligente e affettuoso, specialmente con i bambini."</p>
+  <p>Avrai probabilmente sentito definire lo Staffordshire Bull Terrier come "nanny dog" (cane babysitter). Lo standard ufficiale della razza pubblicato dal <a href="https://www.thekennelclub.org.uk/breed-standards/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" class="source-link" title="Standard Kennel Club" aria-label="Standard Kennel Club (si apre in una nuova scheda)">Kennel Club britannico</a> descrive lo Staffy come: "Tradizionalmente di temperamento intrepido e tenace. Altamente intelligente e affettuoso, specialmente con i bambini."</p>
   
   <p>La definizione di "nanny dog" nacque nel XX secolo quando le famiglie della working class inglese notarono che gli Staffy erano particolarmente pazienti e protettivi con i bambini. Non significa che la razza sia stata "progettata" per badare ai bambini, ma che il temperamento equilibrato e l'attaccamento alla famiglia umana rendono questi cani particolarmente adatti alla vita familiare.</p>
   
@@ -111,7 +111,7 @@ custom_content: |
   <p>• <strong>Museruola</strong> da portare sempre con sé, da applicare su richiesta</p>
   <p>• <strong>Registro dei cani morsicatori</strong> gestito dalle ASL</p>
   <p>• <strong>Responsabilità del proprietario</strong>: civile e penale per danni</p>
-  <p><strong>Fonte:</strong> <a href="https://www.salute.gov.it/portale/documentazione/p6_2_2_1.jsp?id=3031" target="_blank" rel="noopener" title="Ministero della Salute">Ministero della Salute - Ordinanza 3 marzo 2009</a></p>
+  <p><strong>Fonte:</strong> <a href="https://www.salute.gov.it/portale/documentazione/p6_2_2_1.jsp?id=3031" target="_blank" rel="noopener" title="Ministero della Salute" aria-label="Ministero della Salute (si apre in una nuova scheda)">Ministero della Salute - Ordinanza 3 marzo 2009</a></p>
   </div>
   
   <h2>La Proposta della Lombardia 2025: Il Ritorno del Patentino</h2>
@@ -143,7 +143,7 @@ custom_content: |
   
   <ol>
   <li><strong>Corso teorico</strong> (minimo 10 ore): per il conseguimento del "patentino"</li>
-  <li><strong>Corso pratico</strong> (minimo 6 ore): valutazione attraverso il test <strong>CAE-1</strong> somministrato dall'<a href="https://www.enci.it/" target="_blank" rel="noopener" title="ENCI">ENCI</a></li>
+  <li><strong>Corso pratico</strong> (minimo 6 ore): valutazione attraverso il test <strong>CAE-1</strong> somministrato dall'<a href="https://www.enci.it/" target="_blank" rel="noopener" title="ENCI" aria-label="ENCI (si apre in una nuova scheda)">ENCI</a></li>
   </ol>
   
   <div class="callout">

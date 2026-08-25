@@ -37,7 +37,7 @@ custom_content: |
   </div>
   
   <h2>Why prevention beats treatment</h2>
-  <p>Parasite control is one of the few areas of dog health where the correct approach is entirely predictable and almost entirely effective. Nearly everything that matters can be prevented with a calendar and a small monthly cost, and nearly every serious case seen by <a href="https://wsava.org/global-guidelines/" title="WSAVA global guidelines" target="_blank" rel="noopener">vet</a>erinarians involves a dog whose prevention lapsed.</p>
+  <p>Parasite control is one of the few areas of dog health where the correct approach is entirely predictable and almost entirely effective. Nearly everything that matters can be prevented with a calendar and a small monthly cost, and nearly every serious case seen by <a href="https://wsava.org/global-guidelines/" title="WSAVA global guidelines" target="_blank" rel="noopener" aria-label="WSAVA global guidelines (opens in a new tab)">vet</a>erinarians involves a dog whose prevention lapsed.</p>
   <p>For the Staffordshire Bull Terrier there is one breed-specific consideration worth stating early: the short, dense coat makes fleas and ticks easier to spot than in a long-coated breed, which is an advantage. But the same coat, combined with skin that is prone to allergic reaction, means that flea allergy dermatitis is disproportionately common and disproportionately miserable. A single flea bite can trigger weeks of scratching in a sensitised dog.</p>
 
   <h2>Fleas</h2>

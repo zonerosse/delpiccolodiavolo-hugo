@@ -121,7 +121,7 @@ custom_content: |
   <p><strong>Garante per la Protezione dei Dati Personali</strong> (Italy)<br>
   Piazza Venezia, 11 - 00187 Rome<br>
   Phone: <a href="tel:+390669677001" title="Call Italian Privacy Authority">+39 06 696771</a><br>
-  Website: <a href="https://www.garanteprivacy.it" target="_blank" rel="noopener" title="Italian Privacy Authority website">www.garanteprivacy.it</a></p>
+  Website: <a href="https://www.garanteprivacy.it" target="_blank" rel="noopener" title="Italian Privacy Authority website" aria-label="Italian Privacy Authority website (opens in a new tab)">www.garanteprivacy.it</a></p>
   </div>
   
   <div class="legal-section">

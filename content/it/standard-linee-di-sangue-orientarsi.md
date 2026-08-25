@@ -108,7 +108,7 @@ custom_content: |
   
   <h3>Equilibrio morfologico</h3>
   
-  <p>Evita genealogie che estremizzano un singolo aspetto (testa spinta, ossatura eccessiva, altezza fuori <a href="https://www.enci.it/media/2347/076.pdf" title="Standard FCI n. 76, PDF ufficiale ENCI" target="_blank" rel="noopener">standard</a>) a scapito di movimento, funzionalità e salute. L'armonia complessiva è più importante di un dettaglio esasperato.</p>
+  <p>Evita genealogie che estremizzano un singolo aspetto (testa spinta, ossatura eccessiva, altezza fuori <a href="https://www.enci.it/media/2347/076.pdf" title="Standard FCI n. 76, PDF ufficiale ENCI" target="_blank" rel="noopener" aria-label="Standard FCI n. 76, PDF ufficiale ENCI (si apre in una nuova scheda)">standard</a>) a scapito di movimento, funzionalità e salute. L'armonia complessiva è più importante di un dettaglio esasperato.</p>
   
   <h3>Titoli vs sostanza reale</h3>
   

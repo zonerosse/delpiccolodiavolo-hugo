@@ -54,7 +54,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How much does a puppy with <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="ENCI breed page" target="_blank" rel="noopener">ENCI pedigree</a> cost?</h3>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How much does a puppy with <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="ENCI breed page" target="_blank" rel="noopener" aria-label="ENCI breed page (opens in a new tab)">ENCI pedigree</a> cost?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">A puppy from a serious breeder with ENCI pedigree, complete genetic testing and health guarantees has a price that reflects years of selection, genetic testing costs (L2HGA, HC), vaccinations, microchip and quality nutrition. Be wary of prices under €1,000.</div>

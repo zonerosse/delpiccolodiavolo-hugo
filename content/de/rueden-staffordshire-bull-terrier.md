@@ -70,10 +70,10 @@ custom_content: |
   <p><strong>HD/ED:</strong> Hüften HD B · Ellenbogen ED 0</p>
   <p><strong>PHPV:</strong> unaffected · <strong>DNA</strong> hinterlegt</p>
   <p><strong>Gebiss:</strong> vollständig, Scherengebiss</p>
-  <p><strong>Vater:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford" style="color:#8b5a2b;font-weight:700;text-decoration:underline;text-underline-offset:3px">Bullbrothers Hott as Hell &#8599;</a> «HEAT» &mdash; Multi-Internationaler Champion, Crufts-qualifiziert, Zucht TheReds Stafford</p>
+  <p><strong>Vater:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford" style="color:#8b5a2b;font-weight:700;text-decoration:underline;text-underline-offset:3px" aria-label="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford (wird in einem neuen Tab geöffnet)">Bullbrothers Hott as Hell &#8599;</a> «HEAT» &mdash; Multi-Internationaler Champion, Crufts-qualifiziert, Zucht TheReds Stafford</p>
   <p><strong>Mutter:</strong> Skilful-dogs Nora</p>
   <p><strong>Besitzer:</strong> Sergio Patrucco</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4554911" target="_blank" rel="noopener" title="Stammbaum Lothar auf SBTPedigree">Vollständigen Stammbaum Sehen →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4554911" target="_blank" rel="noopener" title="Stammbaum Lothar auf SBTPedigree" aria-label="Stammbaum Lothar auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
   </div>
   </div>
   </article>
@@ -94,7 +94,7 @@ custom_content: |
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> Jackie Kennedy Great'n Glory</p>
   <p><strong>Mutter:</strong> Alport The Sandman</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2632698" target="_blank" rel="noopener" title="Stammbaum Braveheart auf SBTPedigree">Vollständigen Stammbaum Sehen →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2632698" target="_blank" rel="noopener" title="Stammbaum Braveheart auf SBTPedigree" aria-label="Stammbaum Braveheart auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
   </div>
   </div>
   </article>
@@ -114,7 +114,7 @@ custom_content: |
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> Jackie Kennedy Great'n Glory</p>
   <p><strong>Mutter:</strong> Alport The Sandman</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2609040" target="_blank" rel="noopener" title="Stammbaum Papillon auf SBTPedigree">Vollständigen Stammbaum Sehen →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2609040" target="_blank" rel="noopener" title="Stammbaum Papillon auf SBTPedigree" aria-label="Stammbaum Papillon auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
   </div>
   </div>
   </article>

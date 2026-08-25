@@ -82,10 +82,10 @@ custom_content: |
   <p><strong>Displasia:</strong> anche HD B · gomiti ED 0</p>
   <p><strong>PHPV:</strong> unaffected · <strong>DNA</strong> depositato</p>
   <p><strong>Dentatura:</strong> completa, chiusura a forbice</p>
-  <p><strong>Padre:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford" style="color:#8b5a2b;font-weight:700;text-decoration:underline;text-underline-offset:3px">Bullbrothers Hott as Hell &#8599;</a> «HEAT» &mdash; Multi Campione Internazionale, qualificato Crufts, allevamento TheReds Stafford</p>
+  <p><strong>Padre:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford" style="color:#8b5a2b;font-weight:700;text-decoration:underline;text-underline-offset:3px" aria-label="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford (si apre in una nuova scheda)">Bullbrothers Hott as Hell &#8599;</a> «HEAT» &mdash; Multi Campione Internazionale, qualificato Crufts, allevamento TheReds Stafford</p>
   <p><strong>Madre:</strong> Skilful-dogs Nora</p>
   <p><strong>Proprietario:</strong> Sergio Patrucco</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4554911" target="_blank" rel="noopener" title="Vedi pedigree Lothar su SBTPedigree">Vedi Pedigree Completo →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4554911" target="_blank" rel="noopener" title="Vedi pedigree Lothar su SBTPedigree" aria-label="Vedi pedigree Lothar su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
   </div>
   </div>
   </article>
@@ -106,7 +106,7 @@ custom_content: |
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
   <p><strong>Padre:</strong> Jackie Kennedy Great'n Glory</p>
   <p><strong>Madre:</strong> Alport The Sandman</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2632698" target="_blank" rel="noopener" title="Vedi pedigree Braveheart su SBTPedigree">Vedi Pedigree Completo →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2632698" target="_blank" rel="noopener" title="Vedi pedigree Braveheart su SBTPedigree" aria-label="Vedi pedigree Braveheart su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
   </div>
   </div>
   </article>
@@ -126,7 +126,7 @@ custom_content: |
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
   <p><strong>Padre:</strong> Jackie Kennedy Great'n Glory</p>
   <p><strong>Madre:</strong> Alport The Sandman</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2609040" target="_blank" rel="noopener" title="Vedi pedigree Papillon su SBTPedigree">Vedi Pedigree Completo →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2609040" target="_blank" rel="noopener" title="Vedi pedigree Papillon su SBTPedigree" aria-label="Vedi pedigree Papillon su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
   </div>
   </div>
   </article>

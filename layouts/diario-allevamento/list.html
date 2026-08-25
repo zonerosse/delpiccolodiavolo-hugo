@@ -25,7 +25,7 @@
           {{ with .Description }}
           <p class="diario-card-excerpt">{{ . }}</p>
           {{ end }}
-          <a href="{{ .Permalink }}" class="diario-card-link">Leggi tutto →</a>
+          <a href="{{ .Permalink }}" class="diario-card-link" aria-label="{{ i18n "leggi_articolo" }}: {{ .Title }}">Leggi tutto →</a>
         </div>
       </article>
       {{ end }}

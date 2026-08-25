@@ -106,7 +106,7 @@ custom_content: |
   <li>Top Dog Junior Hündin 2023</li>
   </ul>
   <p>Skilful-dogs Nora × Pablo iuno sospita plata plomo</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Bilquis Stammbaum auf SBTPedigree ansehen">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Bilquis Stammbaum auf SBTPedigree ansehen" aria-label="Stammbaum ansehen von JCH. CH. Italiana Bilquis Goddess Diabhal (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
   </div>
   
   <div class="pair-x">×</div>
@@ -120,13 +120,13 @@ custom_content: |
   <li>Sohn des Weltsiegers 2023</li>
   </ul>
   <p>Quash Marvelous Hagler de Stafflorence (Weltsieger 2023) × Ultima Di Casa Giacalone</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" title="Black Jack Stammbaum auf SBTPedigree ansehen">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" title="Black Jack Stammbaum auf SBTPedigree ansehen" aria-label="Stammbaum ansehen von Black Jack Di Casa Giacalone (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
   </div>
   </div>
   
   <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Eine Verpaarung, die die Championin-Morphologie von Bilquis (Italienische Championin, 4. beim World Dog Show 2024) mit den Linien von Black Jack verbindet, dem Sohn des Weltsiegers 2023 Quash Marvelous Hagler de Stafflorence. Geboren am 1. August 2026: 8 schwarze Welpen (4 Rüden und 4 Hündinnen). Wurf vollständig: alle Welpen reserviert.</p>
   
-  <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" title="Stammbaum Wurf Bilquis x Black Jack ansehen">auf SBTPedigree ansehen</a></p>
+  <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" title="Stammbaum Wurf Bilquis x Black Jack ansehen" aria-label="Stammbaum ansehen von Black Jack Di Casa Giacalone (wird in einem neuen Tab geöffnet)">auf SBTPedigree ansehen</a></p>
   </article>
   
   <!-- Wurf 1: Heat × Nora - KOMMEND -->
@@ -145,7 +145,7 @@ custom_content: |
   <li>Vollständiges Scherengebiss</li>
   </ul>
   <p>CH. Americano Toreator De Testaferro x Staffgold Girl Of Ice</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=3372904" target="_blank" rel="noopener" title="Red Stammbaum auf SBTPedigree ansehen">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=3372904" target="_blank" rel="noopener" title="Red Stammbaum auf SBTPedigree ansehen" aria-label="Stammbaum ansehen von Vangerbull Red Harricane (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
   </div>
   
   <div class="pair-x">×</div>
@@ -158,13 +158,13 @@ custom_content: |
   <li>Vollständiges Scherengebiss</li>
   </ul>
   <p>Skilful-Dogs Jeghër × Skilful-Dogs Red Skin</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="Nora Stammbaum auf SBTPedigree ansehen">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="Nora Stammbaum auf SBTPedigree ansehen" aria-label="Stammbaum ansehen von Skilful-dogs Nora (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
   </div>
   </div>
   
   <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Diese Verpaarung wurde geplant, um die Merkmale der Vangerbull-Linie zu festigen und dabei das hervorragende Familientemperament von Skilful-Dogs zu bewahren. Geboren am 9. Februar 2026: 3 Rüden (2 gestromt, 1 rot-weiß). Alle reserviert.</p>
   
-  <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" title="Stammbaum Wurf Red x Nora ansehen">auf SBTPedigree ansehen</a></p>
+  <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" title="Stammbaum Wurf Red x Nora ansehen" aria-label="Stammbaum ansehen von Skilful-dogs Nora (wird in einem neuen Tab geöffnet)">auf SBTPedigree ansehen</a></p>
   </article>
   
   <!-- Wurf 2: Bilquis × Luis - AUSVERKAUFT -->
@@ -185,7 +185,7 @@ custom_content: |
   <li>Top Dog Junior Hündin 2023</li>
   </ul>
   <p>Skilful-dogs Nora × Pablo iuno sospita plata plomo</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Bilquis Stammbaum auf SBTPedigree ansehen">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Bilquis Stammbaum auf SBTPedigree ansehen" aria-label="Stammbaum ansehen von JCH. CH. Italiana Bilquis Goddess Diabhal (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
   </div>
   
   <div class="pair-x">×</div>
@@ -198,11 +198,11 @@ custom_content: |
   <li>Vollständiges Scherengebiss</li>
   </ul>
   <p>D' Spain Fuogo Negro Espartaco × Iunosospita Torvi</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4555572" target="_blank" rel="noopener" title="Luis Stammbaum auf SBTPedigree ansehen">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4555572" target="_blank" rel="noopener" title="Luis Stammbaum auf SBTPedigree ansehen" aria-label="Stammbaum ansehen von Il lupo perde il pelo ma non il vizio – Luis (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
   </div>
   </div>
   
-  <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4555572&DAM=4496127&generation=4&dogs_id=4555573" target="_blank" rel="noopener" title="Stammbaum Wurf Bilquis x Luis ansehen">auf SBTPedigree ansehen</a></p>
+  <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4555572&DAM=4496127&generation=4&dogs_id=4555573" target="_blank" rel="noopener" title="Stammbaum Wurf Bilquis x Luis ansehen" aria-label="Stammbaum ansehen von Il lupo perde il pelo ma non il vizio – Luis (wird in einem neuen Tab geöffnet)">auf SBTPedigree ansehen</a></p>
   </article>
   
   <!-- Wurf 3: Prospect × Bean - AUSVERKAUFT -->
@@ -221,7 +221,7 @@ custom_content: |
   <li>Vollständiges Scherengebiss</li>
   </ul>
   <p>CH. Elitebulls Challenger × Elitebull Destiny</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4483601" target="_blank" rel="noopener" title="Prospect Stammbaum auf SBTPedigree ansehen">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4483601" target="_blank" rel="noopener" title="Prospect Stammbaum auf SBTPedigree ansehen" aria-label="Stammbaum ansehen von CH. Elitebull Prospect (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
   </div>
   
   <div class="pair-x">×</div>
@@ -234,11 +234,11 @@ custom_content: |
   <li>Vollständiges Scherengebiss</li>
   </ul>
   <p>Lackyle Trodai Tine × CH. Lackyle Ogbhean an Diabhal</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="Bean Stammbaum auf SBTPedigree ansehen">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="Bean Stammbaum auf SBTPedigree ansehen" aria-label="Stammbaum ansehen von Lackyle Bean Croí Olc (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
   </div>
   </div>
   
-  <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4483601&DAM=4538599&generation=4&dogs_id=4547824" target="_blank" rel="noopener" title="Stammbaum Wurf Prospect x Bean ansehen">auf SBTPedigree ansehen</a></p>
+  <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4483601&DAM=4538599&generation=4&dogs_id=4547824" target="_blank" rel="noopener" title="Stammbaum Wurf Prospect x Bean ansehen" aria-label="Stammbaum ansehen von Lackyle Bean Croí Olc (wird in einem neuen Tab geöffnet)">auf SBTPedigree ansehen</a></p>
   </article>
   
   </div>

@@ -53,7 +53,7 @@ custom_content: |
 
   <p>Ma c'è una seconda faccia: lo Staffy è anche un cane con una personalità fortissima. È determinato, testardo, pieno di energia. Non è un cane passivo che si accontenta di esistere in un angolo. Vuole partecipare, vuole giocare, vuole essere coinvolto in tutto quello che fai.</p>
 
-  <p>La combinazione — affetto estremo più <a href="https://www.enci.it/media/2347/076.pdf" title="Standard FCI n. 76, PDF ufficiale ENCI" target="_blank" rel="noopener">carattere</a> forte — è quello che rende lo Staffy unico. E anche quello che lo rende inadatto a chi cerca un cane "facile" nel senso sbagliato del termine.</p>
+  <p>La combinazione — affetto estremo più <a href="https://www.enci.it/media/2347/076.pdf" title="Standard FCI n. 76, PDF ufficiale ENCI" target="_blank" rel="noopener" aria-label="Standard FCI n. 76, PDF ufficiale ENCI (si apre in una nuova scheda)">carattere</a> forte — è quello che rende lo Staffy unico. E anche quello che lo rende inadatto a chi cerca un cane "facile" nel senso sbagliato del termine.</p>
 
   <h2>Con i bambini: il "nanny dog" non è un mito</h2>
 
