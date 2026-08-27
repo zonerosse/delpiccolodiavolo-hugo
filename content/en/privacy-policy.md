@@ -42,7 +42,7 @@ custom_content: |
   
   <div class="legal-section">
   <h3>2. Types of Data Collected</h3>
-  <p><strong>Important:</strong> This website does NOT collect personal data through contact forms, forms, or registration systems. The site does NOT use tracking cookies, profiling cookies, or analytics systems.</p>
+  <p><strong>Important:</strong> This website does not use tracking cookies, profiling cookies or cookie-based analytics systems. The only form on the site is the optional waiting list form, described in detail in section 9.</p>
   <p>Personal data is collected ONLY when you voluntarily choose to contact us via:</p>
   <ul>
   <li>Phone: +39 392 4635584</li>
@@ -141,6 +141,7 @@ custom_content: |
   <h3>10. Cookies and Tracking Technologies</h3>
   <p><strong>This website does NOT use cookies.</strong></p>
   <p>No technical cookies, profiling cookies, third-party cookies, or user tracking systems are used.</p>
+  <p>The site collects aggregate traffic statistics through <strong>Cloudflare Web Analytics</strong>, which sets no cookies on your device, assigns no identifiers and does not follow you across different sites. For this reason the site shows no consent banner: there is nothing to ask consent for.</p>
   </div>
   
   <div class="legal-section">
