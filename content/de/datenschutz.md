@@ -42,7 +42,7 @@ custom_content: |
   
   <div class="legal-section">
   <h3>2. Arten der erhobenen Daten</h3>
-  <p><strong>Wichtig:</strong> Diese Website sammelt KEINE personenbezogenen Daten über Kontaktformulare, Formulare oder Registrierungssysteme. Die Website verwendet KEINE Tracking-Cookies, Profiling-Cookies oder Analysesysteme.</p>
+  <p><strong>Wichtig:</strong> Diese Website verwendet keine Tracking-Cookies, Profiling-Cookies oder cookiebasierten Analysesysteme. Das einzige Formular auf der Website ist das freiwillige Warteliste-Formular, das in Abschnitt 9 ausführlich beschrieben wird.</p>
   <p>Personenbezogene Daten werden NUR erhoben, wenn Sie uns freiwillig kontaktieren über:</p>
   <ul>
   <li>Telefon: +39 392 4635584</li>
@@ -141,6 +141,7 @@ custom_content: |
   <h3>10. Cookies und Tracking-Technologien</h3>
   <p><strong>Diese Website verwendet KEINE Cookies.</strong></p>
   <p>Es werden keine technischen Cookies, Profiling-Cookies, Third-Party-Cookies oder Benutzer-Tracking-Systeme verwendet.</p>
+  <p>Die Website erhebt aggregierte Zugriffsstatistiken über <strong>Cloudflare Web Analytics</strong>, das keine Cookies auf Ihrem Gerät setzt, keine Kennungen vergibt und Sie nicht über verschiedene Websites hinweg verfolgt. Aus diesem Grund zeigt die Website kein Einwilligungsbanner: Es gibt nichts, wofür eine Einwilligung erforderlich wäre.</p>
   </div>
   
   <div class="legal-section">

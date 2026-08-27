@@ -1,50 +1,72 @@
-delpiccolodiavolo-COMPLETO.zip
-==============================
+delpiccolodiavolo-privacy.zip
+=============================
 
 VA IN:  la cartella di delpiccolodiavolo-hugo
 
-103 file. Sono tutte le correzioni di accessibilita' per questo sito.
-NON contiene niente di puntowebferrara.
+TRE FILE, le privacy nelle tre lingue.
 
-RISULTATO MISURATO, ricompilando il sito:
-  prima:  83 su 100
-  dopo:  100 su 100 di media, su 144 pagine
+  content/it/privacy-policy.md
+  content/en/privacy-policy.md
+  content/de/datenschutz.md
 
-COSA E' STATO FATTO
--------------------
-LINK "SALTA AL CONTENUTO"  (baseof.html, main.css, i18n)
-  Su tutte le pagine, tradotto nelle tre lingue. Invisibile finche' non
-  lo raggiungi col Tab. Il <main> ha ora id="contenuto".
+PRIMA UNA CORREZIONE MIA
+========================
+Ieri ti avevo detto che la privacy non dichiarava la lista d'attesa.
+ERA SBAGLIATO: avevo letto solo il punto 2 e mi ero fermato li'.
 
-AVVISO SULLE NUOVE SCHEDE  (97 file di contenuto + footer)
-  Ogni link che apre una scheda nuova ha un aria-label che lo dice,
-  nella lingua della pagina. Il testo visibile non cambia.
-  Gli aria-label del piede erano in italiano anche sulle pagine
-  tedesche e inglesi: ora sono tradotti.
+La sezione 9 c'era gia', ed e' scritta bene: descrive il modulo, i campi
+raccolti, la finalita', la base giuridica, il foglio Google, Google
+Ireland come responsabile, i 24 mesi di conservazione e i diritti.
+Non mancava niente.
 
-LINK "LEGGI" DESCRITTIVI  (blog.md, diario list.html)
-  87 link "Leggi →" avevano tutti lo stesso testo verso pagine diverse.
-  Ora ogni aria-label dice il titolo dell'articolo.
+Il problema vero era diverso: TRE SEZIONI SI CONTRADDICEVANO A VICENDA.
 
-LINK AI PEDIGREE  (54 link)
-  aria-label con il nome del cane, preso dalla scheda accanto.
+COSA HO CORRETTO
+================
 
-MODULO LISTA D'ATTESA  (lista-attesa.html)
-  autocomplete su nome, email e telefono.
+1. LA SEZIONE 2 SMENTIVA LA 9
 
-VIDEO  (3 file)
-  Aggiunto "muted": hai detto che c'e' solo il verso dei cuccioli, e un
-  video senza audio non ha niente da sottotitolare. Se un domani ci
-  metti la voce, togli "muted" e servira' un file .vtt.
+   Diceva: "Questo sito web NON raccoglie dati personali tramite moduli
+   di contatto, form o sistemi di registrazione."
 
-IL MODULO DELLA LISTA D'ATTESA ERA GIA' A POSTO
------------------------------------------------
-I "15 campi senza etichetta" erano un mio falso positivo: i tuoi campi
-sono avvolti nelle rispettive label, che e' corretto. Sbagliavo io il
-confronto per <select> e <textarea>. Non hai perso nessuna richiesta.
+   Ma la 9 descrive per esteso il modulo della lista d'attesa. La 9 era
+   quella giusta; la 2 era rimasta indietro rispetto al sito.
 
-COSA RESTA
+   Ora dice che l'unico modulo presente e' quello della lista d'attesa,
+   e rimanda al punto 9 per i dettagli.
+
+2. LA SEZIONE 6 NON NOMINAVA GOOGLE
+
+   L'elenco di chi puo' ricevere i dati citava veterinari, ENCI, ASL e
+   corrieri, ma non Google — che invece conserva il foglio della lista
+   d'attesa, come dichiarato al punto 9.
+
+   Aggiunto Google Ireland Limited all'elenco. La frase sul trasferimento
+   fuori dall'Unione resta vera: Google Ireland e' irlandese, quindi UE.
+
+3. LE STATISTICHE NON ERANO NOMINATE
+
+   La sezione 10 diceva "questo sito NON utilizza cookie", ed e' vero.
+   Ma non diceva che il traffico viene comunque misurato.
+
+   Aggiunto Cloudflare Web Analytics, con la precisazione che non installa
+   cookie, non assegna identificatori e non segue fra siti diversi — e che
+   per questo il sito non mostra nessun banner: non c'e' nulla per cui
+   chiederlo.
+
+   Quest'ultima frase e' anche un argomento a tuo favore: la maggior parte
+   dei siti non puo' dire altrettanto.
+
+TUTTE E TRE LE LINGUE
+---------------------
+Le correzioni sono nelle versioni italiana, inglese e tedesca, ognuna
+nella sua lingua.
+
+Nota tecnica: il contenuto di queste pagine sta dentro un blocco YAML
+indentato di due spazi. Le righe nuove sono rientrate come le altre —
+senza, Hugo non compila piu'.
+
+VERIFICATO
 ----------
-Un rilievo solo, minore: 56 pagine hanno testi di collegamento uguali
-verso destinazioni diverse. Sono voci di menu e del piede che ricorrono
-ovunque. Si sistemano quando vuoi, non e' urgente.
+Build Hugo senza errori, le tre pagine generate correttamente,
+accessibilita' della pagina privacy 100/100.

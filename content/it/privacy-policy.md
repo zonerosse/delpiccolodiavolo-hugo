@@ -42,7 +42,7 @@ custom_content: |
   
   <div class="legal-section">
   <h3>2. Tipologie di Dati Raccolti</h3>
-  <p><strong>Importante:</strong> Questo sito web NON raccoglie dati personali tramite moduli di contatto, form o sistemi di registrazione. Il sito NON utilizza cookie di tracciamento, cookie di profilazione o sistemi di analisi.</p>
+  <p><strong>Importante:</strong> Questo sito web non utilizza cookie di tracciamento, cookie di profilazione o sistemi di analisi basati su cookie. L’unico modulo presente è quello facoltativo della lista d’attesa, descritto in dettaglio al punto 9.</p>
   <p>I dati personali vengono raccolti SOLO quando tu decidi volontariamente di contattarci tramite:</p>
   <ul>
   <li>Telefono: +39 392 4635584</li>
@@ -97,7 +97,9 @@ custom_content: |
   <li>Autorità pubbliche (ENCI, ASL veterinaria) per adempimenti di legge</li>
   <li>Corrieri o trasportatori per la consegna dei cuccioli</li>
   </ul>
-  <p>I dati NON vengono trasferiti a paesi extra-UE.</p>
+  <li>Google Ireland Limited, in qualità di responsabile del trattamento, per i soli dati del modulo lista d’attesa (vedi punto 9)</li>
+  </ul>
+  <p>I dati non vengono trasferiti al di fuori dell’Unione Europea.</p>
   </div>
   
   <div class="legal-section">
@@ -141,6 +143,7 @@ custom_content: |
   <h3>10. Cookie e Tecnologie di Tracciamento</h3>
   <p><strong>Questo sito web NON utilizza cookie.</strong></p>
   <p>Non vengono utilizzati cookie tecnici, cookie di profilazione, cookie di terze parti o sistemi di tracciamento degli utenti.</p>
+  <p>Il sito raccoglie statistiche di traffico aggregate tramite <strong>Cloudflare Web Analytics</strong>, che non installa cookie sul tuo dispositivo, non assegna identificatori e non ti segue fra siti diversi. Per questo motivo il sito non mostra alcun banner di consenso: non c’è nulla per cui chiederlo.</p>
   </div>
   
   <div class="legal-section">
