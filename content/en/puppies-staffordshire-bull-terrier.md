@@ -64,8 +64,8 @@ custom_content: |
   <span style="position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,transparent,#c9a227,transparent);display:block"></span>
   <span style="position:absolute;bottom:0;left:0;right:0;height:3px;background:linear-gradient(90deg,transparent,#c9a227,transparent);display:block"></span>
   <p style="font-family:Georgia,'Times New Roman',serif;font-size:1.3rem;font-style:italic;color:#f5ede0;line-height:1.8;margin:0">
-  "Value is not negotiable. Neither is quality.<br>
-  Those who ask the price are not ready yet."
+  "Few litters a year, each one chosen.<br>
+  We get to know each other first. Everything else comes after."
   </p>
   <span style="display:block;width:40px;height:1px;background:#c9a227;margin:1rem auto 0"></span>
   <footer style="margin-top:0.75rem;font-size:0.75rem;color:#7d620e;letter-spacing:0.2em;text-transform:uppercase;font-weight:700;font-style:normal">Del Piccolo Diavolo · Since 2013</footer>
@@ -141,13 +141,13 @@ custom_content: |
   <h2 class="section-title">Puppy FAQ</h2>
   
   <div class="faq-item">
-  <h3>How much does a Staffordshire Bull Terrier puppy cost?</h3>
-  <p>The price reflects the quality of selection, complete genetic testing (L2HGA, HC), <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="ENCI breed page" target="_blank" rel="noopener" aria-label="ENCI breed page (opens in a new tab)">ENCI pedigree</a>, vaccinations, microchip and the ongoing support we provide. Contact us for detailed information about our litters.</p>
+  <h3>What is behind a puppy with an ENCI pedigree?</h3>
+  <p>Years of selection, complete genetic testing (L2HGA, HC), an <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="ENCI breed page" target="_blank" rel="noopener" aria-label="ENCI breed page (opens in a new tab)">ENCI pedigree</a>, vaccinations, microchip and the support we go on giving. Write to us and we will tell you about our dogs and our litters.</p>
   </div>
   
   <div class="faq-item">
-  <h3>How can I reserve a puppy?</h3>
-  <p>You can contact us via WhatsApp or phone. We accept reservations for future litters with a confirmation deposit. We'll keep you updated on growth with photos and videos, and you can come meet the puppy by appointment.</p>
+  <h3>How do we get to know each other?</h3>
+  <p>Write to us on WhatsApp or call. We like to talk at length before anything else: about the breed, about your household, about our dogs. You are welcome to visit the kennel by appointment and meet the parents.</p>
   </div>
   </div>
   </section>
@@ -176,7 +176,7 @@ custom_content: |
   
   <!--CORRELATI-->
 
-  <p style="margin-top:1rem">For a detailed breakdown of what a puppy costs and what the price includes, read <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="How much does a Staffordshire Bull Terrier puppy cost">how much a Staffordshire Bull Terrier puppy costs</a>.</p>
+  <p style="margin-top:1rem">For a detailed account of what lies behind a well-bred puppy, read <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="How much does a Staffordshire Bull Terrier puppy cost">how much a Staffordshire Bull Terrier puppy costs</a>.</p>
 
   <section class="cta-section">
   <h2>Want Info About Puppies?</h2>

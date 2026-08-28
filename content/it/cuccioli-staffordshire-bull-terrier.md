@@ -6,7 +6,7 @@ description: "Cuccioli Staffordshire Bull Terrier con pedigree ENCI e test genet
 correlati:
   - url: "/quanto-costa-cucciolo-staffordshire-bull-terrier/"
     titolo: "Quanto costa un cucciolo"
-    testo: "Cosa include il prezzo e perché diffidare degli annunci"
+    testo: "Cosa c'è dietro un cucciolo e perché diffidare degli annunci"
   - url: "/come-scegliere-allevamento-staffordshire-bull-terrier/"
     titolo: "Come scegliere l'allevamento"
     testo: "Test genetici, pedigree e segnali d'allarme"
@@ -64,8 +64,8 @@ custom_content: |
   <span style="position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,transparent,#c9a227,transparent);display:block"></span>
   <span style="position:absolute;bottom:0;left:0;right:0;height:3px;background:linear-gradient(90deg,transparent,#c9a227,transparent);display:block"></span>
   <p style="font-family:Georgia,'Times New Roman',serif;font-size:1.3rem;font-style:italic;color:#f5ede0;line-height:1.8;margin:0">
-  "Il valore non si negozia. La qualità nemmeno.<br>
-  Chi chiede il prezzo non è ancora pronto."
+  "Poche cucciolate l'anno, scelte una per una.<br>
+  Prima ci si conosce. Il resto viene dopo."
   </p>
   <span style="display:block;width:40px;height:1px;background:#c9a227;margin:1rem auto 0"></span>
   <footer style="margin-top:0.75rem;font-size:0.75rem;color:#7d620e;letter-spacing:0.2em;text-transform:uppercase;font-weight:700;font-style:normal">Del Piccolo Diavolo · Dal 2013</footer>
@@ -189,7 +189,7 @@ custom_content: |
   <li>Guida all'alimentazione e alle cure</li>
   <li>Supporto post-adozione continuativo</li>
   </ul>
-  <p style="margin-top:1rem">Per sapere nel dettaglio cosa include il prezzo e come riconoscere un allevatore serio, leggi <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p>
+  <p style="margin-top:1rem">Per sapere nel dettaglio cosa c'è dietro un cucciolo e come riconoscere un allevatore serio, leggi <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p>
   </div>
 
   <div class="content-block">
@@ -241,10 +241,10 @@ custom_content: |
 
   <div class="faq-item active">
   <div class="faq-question">
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Cosa include il prezzo del cucciolo?</h3>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Cosa c'è dietro un cucciolo con pedigree ENCI?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Il prezzo include: <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="Scheda di razza ENCI" target="_blank" rel="noopener" aria-label="Scheda di razza ENCI (si apre in una nuova scheda)">pedigree ENCI</a>, microchip registrato, libretto sanitario con vaccinazioni, certificati test genetici dei genitori (L2HGA, HC, PHPV), documentazione fotografica e supporto post-adozione a vita. Nessun extra nascosto.</div>
+  <div class="faq-answer">Ogni cucciolo parte con: <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="Scheda di razza ENCI" target="_blank" rel="noopener" aria-label="Scheda di razza ENCI (si apre in una nuova scheda)">pedigree ENCI</a>, microchip registrato, libretto sanitario con vaccinazioni, certificati test genetici dei genitori (L2HGA, HC, PHPV), documentazione fotografica e supporto post-adozione a vita. Nessun extra nascosto.</div>
   </div>
 
   <div class="faq-item active">
@@ -252,7 +252,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quanto costa un cucciolo Staffordshire Bull Terrier?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">I nostri cuccioli con pedigree ENCI e test genetici completi hanno un prezzo che riflette anni di selezione, costi dei test genetici e la cura dedicata a ogni cucciolo. Diffidate di prezzi sotto i 1.000€.</div>
+  <div class="faq-answer">Dietro ogni cucciolo ci sono anni di selezione, i test genetici sui riproduttori e la cura quotidiana della cucciolata. Diffidate delle cifre molto basse: quasi sempre significano test mancanti, pedigree assenti o cuccioli separati troppo presto dalla madre.</div>
   </div>
 
   <div class="faq-item active">
@@ -260,7 +260,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Posso visitare l'allevamento prima di decidere?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Assolutamente sì, anzi lo consiglio caldamente. Ricevo su appuntamento a Ostellato (Ferrara). Vedrete i genitori, i cuccioli, i certificati e l'ambiente in cui crescono. Nessun acquisto dovrebbe avvenire senza visita.</div>
+  <div class="faq-answer">Assolutamente sì, anzi lo consiglio caldamente. Ricevo su appuntamento a Ostellato (Ferrara). Vedrete i genitori, i cuccioli, i certificati e l'ambiente in cui crescono. Nessuno dovrebbe portarsi a casa un cucciolo senza aver visto dove è nato.</div>
   </div>
 
   </div>

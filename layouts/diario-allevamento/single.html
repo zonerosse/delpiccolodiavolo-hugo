@@ -14,7 +14,7 @@
 {{ $lang := .Site.Language.Lang }}
 {{ $stato := .Params.stato | default "completa" }}
 {{ $url := "https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20informazioni%20sull%27allevamento" }}{{ $cta := "Scrivimi su WhatsApp" }}
-{{ $tit := "Questa cucciolata è già stata affidata" }}
+{{ $tit := "Questa cucciolata non è disponibile" }}
 {{ $txt := "Le prossime cucciolate sono già in programma. Se vuoi conoscere come alleviamo, i nostri riproduttori e i test che facciamo prima di ogni accoppiamento, scrivimi pure." }}
 {{ if eq $stato "disponibile" }}
   {{ $tit = "Cuccioli ancora disponibili" }}
@@ -22,13 +22,13 @@
 {{ end }}
 {{ if eq $lang "en" }}
   {{ $url = "https://wa.me/393924635584?text=Hi%20Paolo%2C%20I%20would%20like%20information%20about%20the%20kennel" }}{{ $cta = "Message me on WhatsApp" }}
-  {{ $tit = "This litter has already been placed" }}
+  {{ $tit = "This litter is not available" }}
   {{ $txt = "The next litters are already planned. If you would like to know how we breed, who our dogs are and which tests we run before every mating, feel free to write to me." }}
   {{ if eq $stato "disponibile" }}{{ $tit = "Puppies still available" }}{{ $txt = "For information about this litter, leave me your details: I reply within 24 hours." }}{{ end }}
 {{ end }}
 {{ if eq $lang "de" }}
   {{ $url = "https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20h%C3%A4tte%20gerne%20Informationen%20zur%20Zucht" }}{{ $cta = "Schreiben Sie mir auf WhatsApp" }}
-  {{ $tit = "Dieser Wurf ist bereits vergeben" }}
+  {{ $tit = "Dieser Wurf ist nicht verfügbar" }}
   {{ $txt = "Die nächsten Würfe sind bereits geplant. Wenn Sie erfahren möchten, wie wir züchten, wer unsere Hunde sind und welche Tests wir vor jeder Belegung durchführen, schreiben Sie mir gerne." }}
   {{ if eq $stato "disponibile" }}{{ $tit = "Noch Welpen verfügbar" }}{{ $txt = "Für Informationen zu diesem Wurf hinterlassen Sie mir Ihre Daten: ich antworte innerhalb von 24 Stunden." }}{{ end }}
 {{ end }}

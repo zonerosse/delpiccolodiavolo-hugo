@@ -61,8 +61,8 @@ custom_content: |
   <span style="position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,transparent,#c9a227,transparent);display:block"></span>
   <span style="position:absolute;bottom:0;left:0;right:0;height:3px;background:linear-gradient(90deg,transparent,#c9a227,transparent);display:block"></span>
   <p style="font-family:Georgia,'Times New Roman',serif;font-size:1.3rem;font-style:italic;color:#f5ede0;line-height:1.8;margin:0">
-  "Der Wert ist nicht verhandelbar. Die Qualität auch nicht.<br>
-  Wer nach dem Preis fragt, ist noch nicht bereit."
+  "Wenige Würfe im Jahr, jeder einzeln gewählt.<br>
+  Zuerst lernen wir uns kennen. Alles andere kommt danach."
   </p>
   <span style="display:block;width:40px;height:1px;background:#c9a227;margin:1rem auto 0"></span>
   <footer style="margin-top:0.75rem;font-size:0.75rem;color:#7d620e;letter-spacing:0.2em;text-transform:uppercase;font-weight:700;font-style:normal">Del Piccolo Diavolo · Seit 2013</footer>
@@ -88,7 +88,7 @@ custom_content: |
   <span class="section-label">Verpaarungen</span>
   <h2 class="section-title">Geplante und Vergangene Würfe</h2>
   
-  <!-- Wurf: Bilquis × Black Jack - GEBOREN, ALLE RESERVIERT -->
+  <!-- Wurf: Bilquis × Black Jack - GEBOREN, NICHT VERFÜGBAR -->
   <article class="litter-card">
   <div class="litter-header">
   <h3 class="litter-title">Wurf geboren am 01.08.2026 — 8 Welpen (4 Rüden, 4 Hündinnen)</h3>
@@ -250,8 +250,8 @@ custom_content: |
   <h2 class="section-title">FAQ zu Würfen</h2>
   
   <div class="faq-item">
-  <h3>Wie kann ich einen Staffordshire Bull Terrier Welpen reservieren?</h3>
-  <p>Sie können einen Welpen reservieren, indem Sie uns per WhatsApp oder Telefon kontaktieren. Wir verlangen eine Anzahlung für die Reservierung und halten Sie mit regelmäßigen Fotos und Videos über das Wachstum des Wurfes auf dem Laufenden.</p>
+  <h3>Wie lerne ich Ihre Hunde kennen?</h3>
+  <p>Schreiben Sie uns per WhatsApp oder rufen Sie an. Zuerst wird gesprochen — über die Rasse, über Ihren Haushalt, über die Hunde hinter einem Wurf. Familien, die einen Wurf begleiten, halten wir mit Fotos und Videos auf dem Laufenden.</p>
   </div>
   
   <div class="faq-item">
@@ -261,12 +261,12 @@ custom_content: |
   
   <div class="faq-item">
   <h3>Welche Garantien bieten Sie für die Welpen?</h3>
-  <p>Jeder Welpe wird mit zertifiziertem ENCI-Stammbaum, Mikrochip, Gesundheitsheft, ersten Impfungen und Entwurmungen übergeben. Die Eltern sind auf L2HGA und HC getestet. Wir bieten kontinuierliche Unterstützung nach dem Kauf für das gesamte Leben des Hundes.</p>
+  <p>Jeder Welpe wird mit zertifiziertem ENCI-Stammbaum, Mikrochip, Gesundheitsheft, ersten Impfungen und Entwurmungen übergeben. Die Eltern sind auf L2HGA und HC getestet. Wir bleiben das ganze Hundeleben lang erreichbar.</p>
   </div>
   
   <div class="faq-item">
-  <h3>Wie viel kostet ein Staffordshire Bull Terrier Welpe?</h3>
-  <p>Der Preis variiert je nach Stammbaum, Blutlinien, Titeln der Eltern und Eigenschaften des Welpen. Kontaktieren Sie uns direkt für detaillierte Informationen über verfügbare oder kommende Welpen.</p>
+  <h3>Was steckt hinter einem Ihrer Würfe?</h3>
+  <p>Eine Monate im Voraus geplante Verpaarung, auf L2HGA und HC getestete Zuchttiere, ein ENCI-Stammbaum und Welpen, die im Haus aufwachsen. Schreiben Sie uns, wir erzählen Ihnen von den Hunden und den kommenden Würfen.</p>
   </div>
   </div>
   </section>
