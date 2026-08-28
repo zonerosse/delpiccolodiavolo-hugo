@@ -129,27 +129,31 @@ The parents are tested for the main genetic conditions of the breed:
 <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
 Verifiable Genetic Tests
 </h3>
-<p style="margin:0 0 1rem;font-size:1rem;color:#fff !important;font-weight:600">Full transparency: results verifiable on the SBTPedigree database and laboratory certificates available on request.</p>
-<div style="display:flex;flex-wrap:wrap;gap:1rem">
-<a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem" aria-label="Sire Quash — Genetic tests (PDF) (opens in a new tab)">
+<p style="margin:0 0 1.5rem;font-size:1rem;color:#fff !important;font-weight:600">Full transparency: results verifiable on the SBTPedigree database and laboratory certificates downloadable below.</p>
+<p style="margin:0 0 .6rem;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:rgba(255,255,255,.75);font-weight:700">Black Jack's parents</p>
+<div style="display:grid;gap:.75rem;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));margin:0 0 1.4rem">
+<a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Quash, Black Jack's sire — Genetic tests (PDF) (opens in a new tab)">
 <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
-Sire Quash — Genetic tests (PDF)
+Quash — Genetic tests
 </a>
-<a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem" aria-label="Dam Ultima — L2HGA test (PDF) (opens in a new tab)">
+<a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima, Black Jack's dam — L2HGA test (PDF) (opens in a new tab)">
 <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
-Dam Ultima — L2HGA (PDF)
+Ultima — L2HGA
 </a>
-<a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem" aria-label="Dam Ultima — HC test (PDF) (opens in a new tab)">
+<a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima, Black Jack's dam — HC test (PDF) (opens in a new tab)">
 <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
-Dam Ultima — HC (PDF)
+Ultima — HC
 </a>
-<a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem" aria-label="Bilquis — L2HGA HC Test (PDF) (opens in a new tab)">
+</div>
+<p style="margin:0 0 .6rem;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:rgba(255,255,255,.75);font-weight:700">Bilquis</p>
+<div style="display:grid;gap:.75rem;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))">
+<a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Bilquis — L2HGA and HC test (PDF) (opens in a new tab)">
 <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
-Bilquis — L2HGA &amp; HC Test (PDF)
+Bilquis — L2HGA &amp; HC
 </a>
-<a href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem" aria-label="Bilquis — Doppler Echocardio (PDF) (opens in a new tab)">
+<a href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Bilquis — Doppler echocardio (PDF) (opens in a new tab)">
 <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
-Bilquis — Doppler Echocardio (PDF)
+Bilquis — Doppler echocardio
 </a>
 </div>
 </div>
