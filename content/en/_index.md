@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Kennel"
 translationKey: "home"
-description: "Ethical Staffordshire Bull Terrier breeding. Healthy puppies with pedigree, raised with passion and care. Discover who we are."
+description: "Ethical Staffordshire Bull Terrier kennel since 2013. ENCI FCI pedigree, full genetic testing, breeding stock microchips published and verifiable."
 correlati:
   - url: "/en/puppies-staffordshire-bull-terrier/"
     titolo: "Puppies"
@@ -42,14 +42,14 @@ custom_content: |
   <span>L2HGA Clear</span>
   <span>HC Clear</span>
   <span>Italian Champions</span>
-  <span>ENCI Pedigree</span>
+  <span>ENCI · FCI Pedigree</span>
   <span>Ostellato FE</span>
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
   <span>L2HGA Clear</span>
   <span>HC Clear</span>
   <span>Italian Champions</span>
-  <span>ENCI Pedigree</span>
+  <span>ENCI · FCI Pedigree</span>
   <span>Ostellato FE</span>
   </div>
   </div>
@@ -59,7 +59,9 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Our Puppies</span>
-  <h2 class="section-title">Two litters a year, not one a month</h2>
+  <h2 class="section-title">One litter a year, occasionally two</h2>
+  <p><strong>With us those numbers are already public.</strong> On the page of <a href="/en/females-staffordshire-bull-terrier/">our females</a> you will find the microchip and studbook number of every brood bitch, in plain sight. Anyone can take that data and check on the ENCI website who owns the dog, who bred it and what its pedigree says — without asking us anything. Puppies are placed with an <strong>ENCI pedigree</strong>, the document recognised by the FCI across all member countries.</p>
+
   
   <div class="gallery-grid">
   <div class="gallery-item"><img src="/images/foto1.avif" alt="Black Staffy puppy just born, held in hands" loading="lazy" decoding="async" width="300" height="400"></div>
