@@ -54,6 +54,7 @@ custom_content: |
   <!-- BILQUIS - CHAMPIONESSE -->
   <article class="female-card female-featured">
   <div class="female-header">
+  <span class="stato-fattrice" style="display:inline-block;background:#e3f2e7;color:#1b4d2e;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;padding:.35rem .8rem;border-radius:4px;margin-bottom:.5rem">● Aktive Zuchthündin</span>
   <span class="female-badge">🏆 Top Dog Junior Female 2023 • Crufts Qualifiziert 2024/25</span>
   <h3 class="female-name">JCH. CH. Bilquis Goddess Diabhal Del Piccolo Diavolo</h3>
   </div>
@@ -62,6 +63,8 @@ custom_content: |
   <img src="/images/femmina-bilquis.webp" alt="JCH CH Bilquis Goddess Diabhal Del Piccolo Diavolo" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="female-info">
+  <p><strong>Mikrochip:</strong> 380260044647848<br>
+  <strong>LOI:</strong> LO22197469</p>
   <p><strong>Gentests:</strong> L2HGA & HC frei per DNA</p>
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> Skilful-dogs Nora</p>
@@ -76,6 +79,7 @@ custom_content: |
   <!-- QUEEN OF CALIFORNIA -->
   <article class="female-card female-featured">
   <div class="female-header">
+  <span class="stato-fattrice" style="display:inline-block;background:#eef2f7;color:#37475a;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;padding:.35rem .8rem;border-radius:4px;margin-bottom:.5rem">Bei uns gezüchtet — im Besitz von Stefano Tevini</span>
   <span class="female-badge">🏆 Italienische Jugendchampionin 2026</span>
   <h3 class="female-name">JCH. Queen of California Aka Desy Del Piccolo Diavolo</h3>
   </div>
@@ -84,6 +88,8 @@ custom_content: |
   <img src="/images/queen-of-california.jpeg" alt="JCH Queen of California Aka Desy Del Piccolo Diavolo" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="female-info">
+  <p><strong>Mikrochip:</strong> 380260160642781<br>
+  <strong>LOI:</strong> LO2549181</p>
   <p><strong>Gentests:</strong> L2HGA & HC frei über Eltern</p>
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> CH. Elitebull Prospect</p>
@@ -99,6 +105,7 @@ custom_content: |
   <!-- CROI OLC -->
   <article class="female-card">
   <div class="female-header">
+  <span class="stato-fattrice" style="display:inline-block;background:#e3f2e7;color:#1b4d2e;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;padding:.35rem .8rem;border-radius:4px;margin-bottom:.5rem">● Aktive Zuchthündin</span>
   <h3 class="female-name">Lackyle Bean Croi Olc</h3>
   </div>
   <div class="female-content">
@@ -106,6 +113,8 @@ custom_content: |
   <img src="/images/femmina-croi-olc.webp" alt="Lackyle Bean Croi Olc — Staffordshire Bull Terrier" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="female-info">
+  <p><strong>Mikrochip:</strong> 991003001293234<br>
+  <strong>LOI:</strong> LO24144140</p>
   <p><strong>Gentests:</strong> L2HGA & HC frei per DNA</p>
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> Lackyle Trodai Tine</p>
@@ -119,6 +128,7 @@ custom_content: |
   <!-- DIVINE - ZUR ABGABE -->
   <article class="female-card">
   <div class="female-header">
+  <span class="stato-fattrice" style="display:inline-block;background:#efe9e0;color:#5c4a3a;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;padding:.35rem .8rem;border-radius:4px;margin-bottom:.5rem">Kastriert — nicht mehr in der Zucht</span>
   <span class="female-badge female-badge-affido">⚠️ ZUR PFLEGEABGABE</span>
   <h3 class="female-name">Faiter Divine at Diabhal Staff</h3>
   </div>
@@ -143,6 +153,7 @@ custom_content: |
   <!-- KENNEDY -->
   <article class="female-card">
   <div class="female-header">
+  <span class="stato-fattrice" style="display:inline-block;background:#efe9e0;color:#5c4a3a;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;padding:.35rem .8rem;border-radius:4px;margin-bottom:.5rem">Kastriert — nicht mehr in der Zucht</span>
   <h3 class="female-name">Jackie Kennedy Great'n Glory</h3>
   </div>
   <div class="female-content">
@@ -163,6 +174,7 @@ custom_content: |
   <!-- DERRY -->
   <article class="female-card">
   <div class="female-header">
+  <span class="stato-fattrice" style="display:inline-block;background:#efe9e0;color:#5c4a3a;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;padding:.35rem .8rem;border-radius:4px;margin-bottom:.5rem">Kastriert — nicht mehr in der Zucht</span>
   <h3 class="female-name">Foyleoak Maiden Derry</h3>
   </div>
   <div class="female-content">
@@ -184,6 +196,7 @@ custom_content: |
   <!-- CATTLEYA -->
   <article class="female-card female-featured">
   <div class="female-header">
+  <span class="stato-fattrice" style="display:inline-block;background:#eef2f7;color:#37475a;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;padding:.35rem .8rem;border-radius:4px;margin-bottom:.5rem">Bei uns gezüchtet — im Besitz von Ricarda Mazzola Wagner</span>
   <span class="female-badge">🏆 JCH San Marino 2023 • CH San Marino 2024</span>
   <h3 class="female-name">Cattleya Del Piccolo Diavolo at Valconcaclan</h3>
   </div>
@@ -206,6 +219,7 @@ custom_content: |
   <!-- NORA -->
   <article class="female-card">
   <div class="female-header">
+  <span class="stato-fattrice" style="display:inline-block;background:#eef2f7;color:#37475a;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;padding:.35rem .8rem;border-radius:4px;margin-bottom:.5rem">Kastriert — jetzt im Besitz von Roberto Barbieri</span>
   <span class="female-badge">🏆 Mutter von 1 Italienischen Champion und 1 Jugendchampion</span>
   <h3 class="female-name">Skilful-dogs Nora</h3>
   </div>
