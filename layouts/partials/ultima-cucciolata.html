@@ -6,19 +6,19 @@
 {{- $listaUrl := "/lista-attesa/" -}}
 {{- $listaTit := "La prossima cucciolata è in programma." -}}
 {{- $listaSub := "Senza impegno né acconto." -}}
-{{- $listaTitCompleta := "Questa cucciolata è già stata affidata. La prossima è in programma." -}}
+{{- $listaTitCompleta := "Questa cucciolata non è disponibile. La prossima è in programma." -}}
 {{- $listaCta := "Lista d'attesa" -}}
 {{- if eq $lang "en" -}}
   {{- $listaUrl = "/en/waiting-list/" -}}
   {{- $listaTit = "The next litter is already planned." -}}
-  {{- $listaTitCompleta = "This litter has already been placed. The next one is already planned." -}}
+  {{- $listaTitCompleta = "This litter is not available. The next one is already planned." -}}
   {{- $listaSub = "No commitment, no deposit." -}}
   {{- $listaCta = "Waiting list" -}}
 {{- end -}}
 {{- if eq $lang "de" -}}
   {{- $listaUrl = "/de/warteliste/" -}}
   {{- $listaTit = "Der nächste Wurf ist bereits geplant." -}}
-  {{- $listaTitCompleta = "Dieser Wurf ist bereits vergeben. Der nächste ist schon geplant." -}}
+  {{- $listaTitCompleta = "Dieser Wurf ist nicht verfügbar. Der nächste ist schon geplant." -}}
   {{- $listaSub = "Ohne Verpflichtung, ohne Anzahlung." -}}
   {{- $listaCta = "Warteliste" -}}
 {{- end -}}

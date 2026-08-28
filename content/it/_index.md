@@ -8,7 +8,7 @@ correlati:
     testo: "Pedigree ENCI e test genetici completi"
   - url: "/quanto-costa-cucciolo-staffordshire-bull-terrier/"
     titolo: "Quanto costa un cucciolo"
-    testo: "Cosa include davvero il prezzo di un cucciolo"
+    testo: "Cosa c'è dietro un cucciolo con pedigree"
   - url: "/staffordshire-bull-terrier-e-il-cane-giusto-per-te/"
     titolo: "È il cane giusto per te?"
     testo: "Pregi e difetti, senza filtri"
@@ -276,7 +276,7 @@ custom_content: |
   <span>Quanto costa uno Staffordshire con pedigree ENCI?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Uno Staffordshire con pedigree ENCI, test genetici completi (L2HGA, HC) e garanzie ha un prezzo che riflette il lavoro che c’è dietro. Il prezzo include vaccinazioni, microchip, sverminazioni e supporto post-adozione.</div>
+  <div class="faq-answer">Dietro c'è il lavoro di anni: selezione dei riproduttori, test genetici, cure veterinarie e cuccioli cresciuti in casa. Ogni cucciolo parte con vaccinazioni, microchip, sverminazioni e il nostro supporto per tutta la vita.</div>
   </div>
 
   <div class="faq-item active">
