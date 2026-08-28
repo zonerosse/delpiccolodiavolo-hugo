@@ -132,9 +132,18 @@ Test Genetici Verificabili
 </h3>
 <p style="margin:0 0 1rem;font-size:1rem;color:#fff !important;font-weight:600">Trasparenza totale: esiti verificabili sul database SBTPedigree e certificati di laboratorio disponibili su richiesta.</p>
 <div style="display:flex;flex-wrap:wrap;gap:1rem">
-<span style="background:rgba(255,255,255,.15);color:#fff;padding:.75rem 1.25rem;border-radius:8px;font-weight:600;display:inline-flex;align-items:center;gap:.5rem">
-Black Jack: esente per via parentale — referti dei genitori riportati sopra, con microchip e numero di laboratorio
-</span>
+<a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem" aria-label="Padre Quash — Test genetici (PDF) (si apre in una nuova scheda)">
+<svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
+Padre Quash — Test genetici (PDF)
+</a>
+<a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem" aria-label="Madre Ultima — Test L2HGA (PDF) (si apre in una nuova scheda)">
+<svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
+Madre Ultima — L2HGA (PDF)
+</a>
+<a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem" aria-label="Madre Ultima — Test HC (PDF) (si apre in una nuova scheda)">
+<svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
+Madre Ultima — HC (PDF)
+</a>
 <a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem" aria-label="Bilquis — Test L2HGA HC (PDF) (si apre in una nuova scheda)">
 <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Bilquis — Test L2HGA &amp; HC (PDF)
