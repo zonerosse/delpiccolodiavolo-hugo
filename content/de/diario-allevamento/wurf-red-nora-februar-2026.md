@@ -110,8 +110,8 @@ Nora (L2HGA + HC + DM)
 
 <p style="margin-top:1.5rem"><strong>Wurf-Stammbaum:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" class="sbt-link" aria-label="Stammbaum ansehen von Skilful-dogs Nora (wird in einem neuen Tab geöffnet)">Auf SBTPedigree ansehen →</a></p>
 
-## Zukünftige Würfe
+## Kontakt
 
-Dieser Wurf ist vollständig reserviert. Wenn Sie an einem Staffordshire Bull Terrier Welpen aus unserer Zuchtstätte interessiert sind, kontaktieren Sie uns, um auf die Warteliste für kommende Würfe gesetzt zu werden.
+Dieser Wurf ist vollständig. Für Informationen über die Zucht, unsere Zuchthunde oder die Laborzertifikate schreiben Sie uns gerne.
 
-<p style="margin-top:2rem"><a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20interessiere%20mich%20f%C3%BCr%20zuk%C3%BCnftige%20W%C3%BCrfe" class="btn btn-primary">Kontakt über WhatsApp →</a></p>
+<p style="margin-top:2rem"><a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20h%C3%A4tte%20gerne%20Informationen%20zur%20Zucht" class="btn btn-primary">Kontakt über WhatsApp →</a></p>

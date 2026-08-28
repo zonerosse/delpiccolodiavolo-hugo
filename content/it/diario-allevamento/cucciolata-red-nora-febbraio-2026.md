@@ -110,8 +110,8 @@ Nora (L2HGA + HC + DM)
 
 <p style="margin-top:1.5rem"><strong>Pedigree della cucciolata:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" class="sbt-link" aria-label="Vedi il pedigree di Skilful-dogs Nora (si apre in una nuova scheda)">Vedi su SBTPedigree →</a></p>
 
-## Future cucciolate
+## Contatti
 
-Questa cucciolata è completamente prenotata. Se sei interessato a un cucciolo Staffordshire Bull Terrier del nostro allevamento, contattaci per essere inserito nella lista d'attesa per le prossime cucciolate.
+Questa cucciolata è completa. Per informazioni sull'allevamento, sui nostri riproduttori o sui certificati di laboratorio, scrivici pure.
 
-<p style="margin-top:2rem"><a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20sono%20interessato%20alle%20prossime%20cucciolate" class="btn btn-primary">Contattaci su WhatsApp →</a></p>
+<p style="margin-top:2rem"><a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20informazioni%20sull%27allevamento" class="btn btn-primary">Contattaci su WhatsApp →</a></p>

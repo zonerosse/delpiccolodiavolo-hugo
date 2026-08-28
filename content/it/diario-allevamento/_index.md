@@ -13,4 +13,3 @@ Non è una vetrina di annunci. È il modo che abbiamo per far vedere come lavori
 
 Chi legge da qui capisce due cose. La prima è che facciamo **poche cucciolate l'anno**, non una al mese. La seconda è che ogni nascita ha una storia dietro — la scelta dello stallone, la verifica delle linee, l'attesa — che vale la pena raccontare per intero.
 
-Se una cucciolata ti interessa e la trovi già completa, la <a href="/lista-attesa/">lista d'attesa</a> è senza impegno e senza acconto: serve solo a farci sapere chi sei, così quando arriva la prossima sappiamo a chi pensare.
