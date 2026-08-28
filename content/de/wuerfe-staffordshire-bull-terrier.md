@@ -92,7 +92,7 @@ custom_content: |
   <article class="litter-card">
   <div class="litter-header">
   <h3 class="litter-title">Wurf geboren am 01.08.2026 — 8 Welpen (4 Rüden, 4 Hündinnen)</h3>
-  <span class="badge badge-soldout">Reserviert</span>
+  <span class="badge badge-soldout">Nicht verfügbar</span>
   </div>
   
   <div class="pair">
@@ -133,7 +133,7 @@ custom_content: |
   <article class="litter-card">
   <div class="litter-header">
   <h3 class="litter-title">Wurf geboren am 09.02.2026 — 3 Rüden</h3>
-  <span class="badge badge-soldout">Ausverkauft</span>
+  <span class="badge badge-soldout">Nicht verfügbar</span>
   </div>
   
   <div class="pair">
@@ -171,7 +171,7 @@ custom_content: |
   <article class="litter-card">
   <div class="litter-header">
   <h3 class="litter-title">Wurf geboren am 02.05.2025</h3>
-  <span class="badge badge-soldout">Ausverkauft</span>
+  <span class="badge badge-soldout">Nicht verfügbar</span>
   </div>
   
   <div class="pair">
@@ -209,7 +209,7 @@ custom_content: |
   <article class="litter-card">
   <div class="litter-header">
   <h3 class="litter-title">Welpen geboren am 01.02.2025</h3>
-  <span class="badge badge-soldout">Ausverkauft</span>
+  <span class="badge badge-soldout">Nicht verfügbar</span>
   </div>
   
   <div class="pair">

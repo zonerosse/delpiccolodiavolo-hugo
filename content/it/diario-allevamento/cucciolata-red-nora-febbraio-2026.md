@@ -2,7 +2,7 @@
 title: "Cucciolata Red × Nora: nati 3 maschi!"
 articolo: true
 translationKey: "cucciolata-red-nora-febbraio-2026"
-description: "Cucciolata nata il 9 febbraio 2026: 3 maschi, 2 tigrati e 1 rosso pezzato. Madre Skilful-dogs Nora. Tutti prenotati."
+description: "Cucciolata nata il 9 febbraio 2026: 3 maschi, 2 tigrati e 1 rosso pezzato. Madre Skilful-dogs Nora. Non disponibili."
 slug: "cucciolata-red-nora-febbraio-2026"
 date: 2026-02-09
 image: "/images/red.avif"
@@ -10,7 +10,7 @@ image: "/images/red.avif"
 
 <div style="background:#c9a227;color:#1a1a1a;padding:1rem 1.5rem;border-radius:8px;margin-bottom:2rem;text-align:center">
 <strong>🎉 NATI IL 9 FEBBRAIO 2026!</strong><br>
-3 maschi: 2 tigrati + 1 rosso pezzato — <strong>Tutti prenotati</strong>
+3 maschi: 2 tigrati + 1 rosso pezzato — <strong>Non disponibili</strong>
 </div>
 
 Siamo felici di annunciare la nascita di una cucciolata molto attesa presso l'allevamento **Del Piccolo Diavolo**. Questa combinazione unisce la potenza della linea Vangerbull con la comprovata capacità riproduttiva di Nora, già madre di due Campioni Italiani.
@@ -61,7 +61,7 @@ Il tuo browser non supporta il video.
 - 2 maschi tigrati (brindle)
 - 1 maschio rosso pezzato (red & white)
 
-**Stato:** Tutti prenotati
+**Stato:** Non disponibili
 
 ## Perché questa cucciolata è speciale
 
