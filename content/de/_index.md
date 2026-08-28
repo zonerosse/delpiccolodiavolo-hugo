@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Zucht"
 translationKey: "home"
-description: "Ethische Staffordshire Bull Terrier Zucht. Gesunde Welpen mit Stammbaum, mit Leidenschaft und Sorgfalt aufgezogen. Entdecken Sie uns."
+description: "Ethische Staffordshire Bull Terrier Zucht seit 2013. ENCI-FCI-Ahnentafel, vollständige Gentests, Mikrochips der Zuchttiere öffentlich und überprüfbar."
 correlati:
   - url: "/de/welpen-staffordshire-bull-terrier/"
     titolo: "Welpen"
@@ -42,14 +42,14 @@ custom_content: |
   <span>L2HGA Clear</span>
   <span>HC Clear</span>
   <span>Italienische Champions</span>
-  <span>ENCI Stammbaum</span>
+  <span>ENCI · FCI Stammbaum</span>
   <span>Ostellato FE</span>
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
   <span>L2HGA Clear</span>
   <span>HC Clear</span>
   <span>Italienische Champions</span>
-  <span>ENCI Stammbaum</span>
+  <span>ENCI · FCI Stammbaum</span>
   <span>Ostellato FE</span>
   </div>
   </div>
@@ -59,7 +59,9 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Unsere Welpen</span>
-  <h2 class="section-title">Zwei Würfe im Jahr, nicht einer pro Monat</h2>
+  <h2 class="section-title">Ein Wurf im Jahr, gelegentlich zwei</h2>
+  <p><strong>Bei uns sind diese Nummern bereits öffentlich.</strong> Auf der Seite unserer <a href="/de/huendinnen-staffordshire-bull-terrier/">Hündinnen</a> finden Sie Mikrochip und Zuchtbuchnummer jeder Zuchthündin, offen einsehbar. Jeder kann diese Daten nehmen und auf der ENCI-Website prüfen, wem der Hund gehört, wer ihn gezüchtet hat und was seine Ahnentafel aussagt — ohne uns fragen zu müssen. Die Welpen werden mit <strong>ENCI-Ahnentafel</strong> abgegeben, dem von der FCI in allen Mitgliedsländern anerkannten Dokument.</p>
+
   
   <div class="gallery-grid">
   <div class="gallery-item"><img src="/images/foto1.avif" alt="Schwarzer Staffy-Welpe, gerade geboren, auf dem Arm gehalten" loading="lazy" decoding="async" width="300" height="400"></div>
