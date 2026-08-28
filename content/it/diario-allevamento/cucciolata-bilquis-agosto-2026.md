@@ -14,7 +14,7 @@ stato: "completa"
 
 <div style="background:#c9a227;color:#1a1a1a;padding:1rem 1.5rem;border-radius:8px;margin-bottom:2rem;text-align:center">
 <strong>🎉 NATI IL 1° AGOSTO 2026 — 8 CUCCIOLI (4 MASCHI, 4 FEMMINE)</strong><br>
-<strong>Tutti prenotati</strong> — lista d'attesa aperta per le prossime cucciolate
+<strong>Tutti prenotati</strong>
 </div>
 
 All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente attesa: il **1° agosto 2026** la nostra **Bilquis Goddess Diabhal** — Campionessa Italiana di Bellezza ENCI e 4ª classificata al World Dog Show di Zagabria 2024 — è diventata mamma di **8 cuccioli (4 maschi e 4 femmine)**. Un accoppiamento pianificato con cura, che unisce il pedigree di **Bilquis Goddess Diabhal**, figlia di **Skilful-dogs Nora**, alle solide linee italiane del padre **Black Jack Di Casa Giacalone**, figlio del **Campione del Mondo 2023** Quash Marvelous Hagler de Stafflorence.
@@ -89,7 +89,41 @@ I genitori sono testati per le principali patologie genetiche della razza:
 | HC (Cataratta Ereditaria) | Free by parents* | Clear (N/N) |
 | Dentatura | Completa a forbice | Completa a forbice |
 
-<p style="font-size:.9rem;color:#666"><em>* Esente per via parentale: entrambi i genitori di Black Jack sono testati Clear (N/N) per L2HGA e HC, quindi i figli non possono essere geneticamente affetti. Black Jack è un maschio giovane: i test ufficiali individuali sono in programma.</em></p>
+<p style="font-size:.9rem;color:#666"><em>* Esente per via parentale: entrambi i genitori di Black Jack sono testati Clear per L2HGA e HC, quindi i figli non possono essere geneticamente affetti. I referti sono riportati qui sotto. Black Jack è un maschio giovane: i test ufficiali individuali sono in programma.</em></p>
+
+### I referti dei genitori di Black Jack
+
+<div style="display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));margin:1.5rem 0">
+
+  <div style="background:#fff;border:1px solid #e2ddd6;border-radius:10px;padding:1.25rem">
+    <span style="display:inline-block;background:#5c4a3a;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Padre</span>
+    <p style="margin:.6rem 0 .3rem;font-weight:700">Quash Marvelous Hagler de Stafflorence</p>
+    <p style="margin:0 0 .9rem;font-size:.82rem;color:#666;line-height:1.5">Maschio, nato il 26/02/2021 — microchip 380260160176743<br>Antagene (La Tour de Salvagny, Francia) — referto A00046270, validato l'08/09/2023</p>
+    <ul style="margin:0;padding-left:1.1rem;font-size:.92rem">
+      <li>L2HGA (L2HGDH): <strong>Clear (N/N)</strong></li>
+      <li>HC (HSF4): <strong>Clear (N/N)</strong></li>
+      <li>Iperuricosuria (SLC2A9): <strong>Clear (N/N)</strong></li>
+      <li>MDR1: <strong>Clear (N/N)</strong></li>
+    </ul>
+
+    <p style="margin:.9rem 0 0"><a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b">Referto Antagene (PDF) →</a></p>
+  </div>
+
+  <div style="background:#fff;border:1px solid #e2ddd6;border-radius:10px;padding:1.25rem">
+    <span style="display:inline-block;background:#5c4a3a;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Madre</span>
+    <p style="margin:.6rem 0 .3rem;font-weight:700">Ultima Di Casa Giacalone</p>
+    <p style="margin:0 0 .9rem;font-size:.82rem;color:#666;line-height:1.5">Femmina — microchip 380260044680718, pedigree LO2313633<br>EVG Molekularna Diagnostika (Maribor, Slovenia) — riferimento 2026-083880/01, 27/08/2026</p>
+    <ul style="margin:0;padding-left:1.1rem;font-size:.92rem">
+      <li>L2HGA (L2HGDH): <strong>Clear (WT/WT)</strong></li>
+      <li>HC (HSF4): <strong>Clear (WT/WT)</strong></li>
+    </ul>
+    <p style="margin:.9rem 0 0"><a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b">Referto L2HGA (PDF) →</a></p>
+    <p style="margin:.35rem 0 0"><a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b">Referto HC (PDF) →</a></p>
+  </div>
+
+</div>
+
+<p style="font-size:.9rem;color:#555;border-left:3px solid #5c4a3a;padding-left:1rem;margin:1.5rem 0">Entrambi i genitori sono omozigoti normali per L2HGA e cataratta ereditaria: nessuno dei due possiede l'allele difettoso, quindi Black Jack non può averlo ereditato. Iperuricosuria e MDR1 sono testati sul solo padre e per questi due il figlio non è dichiarabile esente per discendenza.</p>
 
 <div style="background:linear-gradient(135deg,#5c4a3a 0%,#8b7355 100%);padding:2rem;border-radius:12px;margin:2rem 0;color:#fff">
 <h3 style="margin:0 0 1rem;font-size:1.1rem;font-family:inherit;font-weight:600;display:flex;align-items:center;gap:.5rem">
@@ -99,7 +133,7 @@ Test Genetici Verificabili
 <p style="margin:0 0 1rem;font-size:1rem;color:#fff !important;font-weight:600">Trasparenza totale: esiti verificabili sul database SBTPedigree e certificati di laboratorio disponibili su richiesta.</p>
 <div style="display:flex;flex-wrap:wrap;gap:1rem">
 <span style="background:rgba(255,255,255,.15);color:#fff;padding:.75rem 1.25rem;border-radius:8px;font-weight:600;display:inline-flex;align-items:center;gap:.5rem">
-Black Jack: esente per via parentale — certificati dei genitori disponibili su richiesta
+Black Jack: esente per via parentale — referti dei genitori riportati sopra, con microchip e numero di laboratorio
 </span>
 <a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem" aria-label="Bilquis — Test L2HGA HC (PDF) (si apre in una nuova scheda)">
 <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
@@ -115,8 +149,8 @@ Bilquis — Ecocardio Doppler (PDF)
 <p style="margin-top:1.5rem"><strong>Pedigree della cucciolata:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" class="sbt-link" aria-label="Vedi il pedigree di Bilquis Goddess Diabhal (si apre in una nuova scheda)">Vedi su SBTPedigree →</a></p>
 
 
-## Prossime cucciolate
+## Contatti
 
-Questa cucciolata è completamente prenotata. Se sei interessato a un cucciolo Staffordshire Bull Terrier del nostro allevamento, contattaci per essere inserito nella lista d'attesa per le prossime cucciolate. Selezioniamo con cura le famiglie a cui affidiamo i nostri cuccioli.
+Questa cucciolata è completa. Per informazioni sull'allevamento, sui nostri riproduttori o sui certificati di laboratorio, scrivici pure.
 
-<p style="margin-top:2rem"><a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20sono%20interessato%20alle%20prossime%20cucciolate" class="btn btn-primary">Contattaci su WhatsApp →</a></p>
+<p style="margin-top:2rem"><a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20informazioni%20sull%27allevamento" class="btn btn-primary">Contattaci su WhatsApp →</a></p>

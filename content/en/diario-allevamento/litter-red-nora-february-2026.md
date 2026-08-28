@@ -110,8 +110,8 @@ Nora (L2HGA + HC + DM)
 
 <p style="margin-top:1.5rem"><strong>Litter pedigree:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" class="sbt-link" aria-label="View the pedigree of Skilful-dogs Nora (opens in a new tab)">View on SBTPedigree →</a></p>
 
-## Future Litters
+## Get in touch
 
-This litter is fully reserved. If you are interested in a Staffordshire Bull Terrier puppy from our kennel, contact us to be placed on the waiting list for upcoming litters.
+This litter is complete. For information about the kennel, our breeding dogs or the laboratory certificates, feel free to write to us.
 
-<p style="margin-top:2rem"><a href="https://wa.me/393924635584?text=Hello%20Paolo%2C%20I%20am%20interested%20in%20future%20litters" class="btn btn-primary">Contact us on WhatsApp →</a></p>
+<p style="margin-top:2rem"><a href="https://wa.me/393924635584?text=Hi%20Paolo%2C%20I%20would%20like%20information%20about%20the%20kennel" class="btn btn-primary">Contact us on WhatsApp →</a></p>

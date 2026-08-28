@@ -13,4 +13,3 @@ Es ist keine Anzeigenseite. Es ist unsere Art zu zeigen, wie wir arbeiten — f�
 
 Wer hier mitliest, erkennt zweierlei. Erstens, dass wir **wenige Würfe im Jahr** haben, nicht einen pro Monat. Zweitens, dass hinter jeder Geburt eine Geschichte steht — die Wahl des Deckrüden, die Prüfung der Linien, das Warten — die es wert ist, ganz erzählt zu werden.
 
-Wenn Sie ein Wurf interessiert und er bereits vergeben ist: die <a href="/de/warteliste/">Warteliste</a> ist unverbindlich und ohne Anzahlung. Sie sagt uns nur, wer Sie sind, damit wir beim nächsten Mal an Sie denken können.
