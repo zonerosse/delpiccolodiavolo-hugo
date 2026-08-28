@@ -105,7 +105,6 @@ The parents are tested for the main genetic conditions of the breed:
       <li>Hyperuricosuria (SLC2A9): <strong>Clear (N/N)</strong></li>
       <li>MDR1: <strong>Clear (N/N)</strong></li>
     </ul>
-
     <p style="margin:.9rem 0 0"><a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b">Antagene certificate (PDF) →</a></p>
   </div>
 
