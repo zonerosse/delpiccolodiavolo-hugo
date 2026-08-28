@@ -2,7 +2,7 @@
 title: "Red × Nora Wurf: 3 Rüden geboren!"
 articolo: true
 translationKey: "cucciolata-red-nora-febbraio-2026"
-description: "Wurf geboren am 9. Februar 2026: 3 Rüden, 2 gestromt und 1 rot-weiß. Mutter Skilful-dogs Nora. Alle reserviert."
+description: "Wurf geboren am 9. Februar 2026: 3 Rüden, 2 gestromt und 1 rot-weiß. Mutter Skilful-dogs Nora. Nicht verfügbar."
 slug: "wurf-red-nora-februar-2026"
 date: 2026-02-09
 image: "/images/red.avif"
@@ -10,7 +10,7 @@ image: "/images/red.avif"
 
 <div style="background:#c9a227;color:#1a1a1a;padding:1rem 1.5rem;border-radius:8px;margin-bottom:2rem;text-align:center">
 <strong>🎉 GEBOREN AM 9. FEBRUAR 2026!</strong><br>
-3 Rüden: 2 gestromt + 1 rot-weiß — <strong>Alle reserviert</strong>
+3 Rüden: 2 gestromt + 1 rot-weiß — <strong>Nicht verfügbar</strong>
 </div>
 
 Wir freuen uns, die Geburt eines lang erwarteten Wurfes in der Zuchtstätte **Del Piccolo Diavolo** bekannt zu geben. Diese Kombination vereint die Kraft der Vangerbull-Linie mit der bewährten Zuchtqualität von Nora, die bereits Mutter von zwei Italienischen Champions ist.
@@ -61,7 +61,7 @@ Ihr Browser unterstützt kein Video.
 - 2 gestromte Rüden
 - 1 rot-weißer Rüde
 
-**Status:** Alle reserviert
+**Status:** Nicht verfügbar
 
 ## Warum dieser Wurf besonders ist
 

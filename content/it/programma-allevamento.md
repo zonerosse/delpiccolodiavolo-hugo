@@ -100,7 +100,7 @@ custom_content: |
   <article class="litter-card">
   <div class="litter-header">
   <h3 class="litter-title">Cucciolata nata il 1° agosto 2026 — 8 cuccioli (4 maschi, 4 femmine)</h3>
-  <span class="badge badge-soldout">Prenotati</span>
+  <span class="badge badge-soldout">Non disponibili</span>
   </div>
 
   <div class="pair">
@@ -141,7 +141,7 @@ custom_content: |
   <article class="litter-card">
   <div class="litter-header">
   <h3 class="litter-title">Cucciolata nata il 09/02/2026 — 3 maschi</h3>
-  <span class="badge badge-soldout">Affidati</span>
+  <span class="badge badge-soldout">Non disponibili</span>
   </div>
 
   <div class="pair">
@@ -179,7 +179,7 @@ custom_content: |
   <article class="litter-card">
   <div class="litter-header">
   <h3 class="litter-title">Cucciolata nata il 02/05/2025</h3>
-  <span class="badge badge-soldout">Affidati</span>
+  <span class="badge badge-soldout">Non disponibili</span>
   </div>
 
   <div class="pair">
@@ -219,7 +219,7 @@ custom_content: |
   <article class="litter-card">
   <div class="litter-header">
   <h3 class="litter-title">Cucciolata nata il 01/02/2025</h3>
-  <span class="badge badge-soldout">Affidati</span>
+  <span class="badge badge-soldout">Non disponibili</span>
   </div>
 
   <div class="pair">

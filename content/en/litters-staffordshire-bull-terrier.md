@@ -92,7 +92,7 @@ custom_content: |
   <article class="litter-card">
   <div class="litter-header">
   <h3 class="litter-title">Litter born 1 August 2026 — 8 puppies (4 males, 4 females)</h3>
-  <span class="badge badge-soldout">Reserved</span>
+  <span class="badge badge-soldout">Not available</span>
   </div>
   
   <div class="pair">
@@ -133,7 +133,7 @@ custom_content: |
   <article class="litter-card">
   <div class="litter-header">
   <h3 class="litter-title">Litter born 09/02/2026 — 3 males</h3>
-  <span class="badge badge-soldout">Sold Out</span>
+  <span class="badge badge-soldout">Not available</span>
   </div>
   
   <div class="pair">
@@ -171,7 +171,7 @@ custom_content: |
   <article class="litter-card">
   <div class="litter-header">
   <h3 class="litter-title">Litter born 02/05/2025</h3>
-  <span class="badge badge-soldout">Sold Out</span>
+  <span class="badge badge-soldout">Not available</span>
   </div>
   
   <div class="pair">
@@ -209,7 +209,7 @@ custom_content: |
   <article class="litter-card">
   <div class="litter-header">
   <h3 class="litter-title">Puppies born 01/02/2025</h3>
-  <span class="badge badge-soldout">Sold Out</span>
+  <span class="badge badge-soldout">Not available</span>
   </div>
   
   <div class="pair">

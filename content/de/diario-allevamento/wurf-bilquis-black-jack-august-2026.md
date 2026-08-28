@@ -3,7 +3,7 @@ title: "Wurf Bilquis × Black Jack: 8 Welpen geboren! (August 2026)"
 articolo: true
 titleSeo: "Wurf Bilquis × Black Jack: 8 Welpen, August 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
-description: "Geboren am 1. August 2026: 8 Staffordshire Bull Terrier Welpen von Bilquis Goddess Diabhal, Italienische Championin ENCI. Alle reserviert."
+description: "Geboren am 1. August 2026: 8 Staffordshire Bull Terrier Welpen von Bilquis Goddess Diabhal, Italienische Championin ENCI. Nicht verfügbar."
 slug: "wurf-bilquis-black-jack-august-2026"
 date: 2026-08-01
 image: "/images/cuccioli-bilquis-nati-1.webp"
@@ -14,7 +14,7 @@ stato: "completa"
 
 <div style="background:#c9a227;color:#1a1a1a;padding:1rem 1.5rem;border-radius:8px;margin-bottom:2rem;text-align:center">
 <strong>🎉 GEBOREN AM 1. AUGUST 2026 — 8 WELPEN (4 RÜDEN, 4 HÜNDINNEN)</strong><br>
-Alle reserviert
+Nicht verfügbar
 </div>
 
 In der Zucht **Del Piccolo Diavolo** ist ein besonders erwarteter Wurf angekommen: am **1. August 2026** wurde unsere **Bilquis Goddess Diabhal** — Italienische Schönheitschampionin (ENCI) und 4. beim World Dog Show 2024 in Zagreb — Mutter von **8 Welpen (4 Rüden und 4 Hündinnen)**. Eine sorgfältig geplante Verpaarung, die den Stammbaum von **Bilquis Goddess Diabhal**, Tochter von **Skilful-dogs Nora**, mit den soliden italienischen Linien des Vaters **Black Jack Di Casa Giacalone** vereint, Sohn des **Weltsiegers 2023** Quash Marvelous Hagler de Stafflorence.
@@ -67,7 +67,7 @@ In der Zucht **Del Piccolo Diavolo** ist ein besonders erwarteter Wurf angekomme
 
 **Farbe:** alle schwarz
 
-**Verfügbarkeit:** Wurf vollständig, alle Welpen reserviert.
+**Verfügbarkeit:** Wurf vollständig, Welpen nicht verfügbar.
 
 ## Warum dieser Wurf besonders ist
 
