@@ -302,7 +302,7 @@ custom_content: |
   <li><a href="/linee-sangue-staffordshire-bull-terrier/" title="Linee di sangue">Linee di sangue dello Staffordshire Bull Terrier</a></li>
   <li><a href="/standard-tipicita-morfologia/" title="Standard e tipicità">Standard FCI e tipicità morfologica</a></li>
   <li><a href="/staffy-pericoloso-legge-italia/" title="Staffy e legge">Lo Staffy è pericoloso? Cosa dice la legge italiana</a></li>
-  <li><a href="/cuccioli-consigli-acquisto/" title="Consigli acquisto">Consigli prima dell'acquisto di un cucciolo</a></li>
+  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Consigli acquisto">Consigli prima dell'acquisto di un cucciolo</a></li>
   </ul>
   </div>
   

@@ -1,138 +1,123 @@
 ---
-title: "Wie wählt man eine Staffordshire Bull Terrier Zucht"
-titleSeo: "Staffordshire Bull Terrier Zucht richtig auswählen"
+title: "Wie man eine seriöse Staffordshire Bull Terrier Zucht erkennt"
+titleSeo: "Staffordshire Bull Terrier Zucht: wie man eine seriöse erkennt"
 articolo: true
 translationKey: "come-scegliere"
 image: "/images/blog/cucciolata-erba.avif"
-description: "Woran man eine seriöse Staffordshire Bull Terrier Zucht erkennt: Gentests, Ahnentafel, Besuch vor Ort und die Warnsignale, die man kennen sollte."
+description: "Sieben Kriterien, um eine seriöse Staffordshire Bull Terrier Zucht zu erkennen, jedes mit der Art, es zu überprüfen. Mit unseren eigenen Unterlagen als Beispiel."
 slug: "wie-waehlt-man-eine-staffordshire-bull-terrier-zucht"
 date: 2026-01-18
-categories: ["Welpen"]
+lastmod: 2026-08-29
+categories: ["Cuccioli"]
 ---
 
 <section class="hero">
 <div class="hero-content" style="max-width:100%">
-<span class="hero-eyebrow">Kaufberatung</span>
-<h1 class="hero-title">Wie wählt man eine Staffordshire Bull Terrier Zucht</h1>
-<p class="hero-subtitle">Die Kriterien, auf die es wirklich ankommt</p>
+<span class="hero-eyebrow">Ratgeber</span>
+<h1 class="hero-title">Wie man eine seriöse Staffordshire Bull Terrier Zucht erkennt</h1>
+<p class="hero-subtitle">Sieben Kriterien und wie man jedes davon überprüft, statt es zu glauben</p>
 </div>
 </section>
 
 <section class="section">
 <div class="section-inner content-single">
 
-<p>Die Wahl der Zucht, bei der Sie Ihren <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen Del Piccolo Diavolo">Staffordshire Bull Terrier Welpen</a> kaufen, ist die wichtigste Entscheidung überhaupt. Ein Welpe begleitet Sie 12 bis 14 Jahre: es lohnt sich, Zeit in die Suche zu investieren.</p>
+<p>Fast jede Zucht sagt dasselbe: getestete Hunde, Welpen im Haus aufgezogen, sorgfältige Selektion. Solche Aussagen kosten nichts, solange sie niemand prüft — und wer den ersten Welpen sucht, weiß selten, wo das Prüfen anfängt.</p>
 
-<p>Dieser Leitfaden erklärt genau, worauf Sie achten sollten, welche Fragen Sie stellen und welche Warnsignale Sie erkennen müssen.</p>
+<p>Dieser Ratgeber ist umgekehrt aufgebaut. Zu jedem Kriterium steht, <strong>wie man es überprüft</strong>: was man fragt, wo man nachsieht, welches Dokument man verlangt. Und damit es nicht bei der Theorie bleibt, steht unter jedem Kriterium unser eigenes Dokument. Nehmen Sie uns als Übung und stellen Sie dieselben Fragen danach allen anderen.</p>
 
-<h2>Gentests: nicht verhandelbar</h2>
+<h2>1. Die Gentests der Zuchttiere</h2>
 
-<p>Der Staffordshire Bull Terrier kann zwei schwere Erbkrankheiten tragen:</p>
+<p>Der Staffordshire Bull Terrier hat zwei bekannte Erbkrankheiten: <strong>L2HGA</strong>, eine neurologische Erkrankung, und <strong>HC</strong>, den erblichen Katarakt, der zur Erblindung führt. Beide werden autosomal rezessiv vererbt: zwei gesunde Anlageträger können erkrankte Welpen bekommen.</p>
 
-<ul>
-<li><strong>L2HGA</strong> (L-2-Hydroxyglutarazidurie): eine neurologische Erkrankung</li>
-<li><strong>HC</strong> (Erbliche Katarakt): führt zur Erblindung</li>
-</ul>
+<p><strong>Wie man es überprüft.</strong> "Sie sind getestet" genügt nicht. Verlangen Sie den Befund als PDF und prüfen Sie drei Dinge: den Namen des Labors, die Mikrochipnummer des Hundes und das Datum. Ein Befund ohne Mikrochip lässt sich keinem bestimmten Tier zuordnen. Kommt nur ein unscharfes Foto oder ein beschnittener Screenshot, bleiben Sie hartnäckig.</p>
 
-<p>Eine seriöse Zucht testet ausnahmslos alle Zuchttiere und kann Ihnen die Zertifikate zeigen. Wenn die Zucht nicht weiß, was L2HGA und HC sind, gehen Sie.</p>
+<p><strong>Unsere.</strong> Die Befunde unserer Zuchttiere stehen auf der Website, sie werden nicht auf Anfrage verschickt: <a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" aria-label="Gentest-Befund von Bilquis, PDF (wird in einem neuen Tab geöffnet)">Bilquis</a>, <a href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" aria-label="Gentest-Befund von Nora, PDF (wird in einem neuen Tab geöffnet)">Nora</a>, <a href="/docs/Minnie-GF.pdf" target="_blank" rel="noopener" aria-label="Gentest-Befund von Minnie, PDF (wird in einem neuen Tab geöffnet)">Minnie</a>. Bei fremden Deckrüden veröffentlichen wir die Befunde, die uns deren Besitzer geben, wie bei <a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" aria-label="Gentest-Befund von Quash, PDF (wird in einem neuen Tab geöffnet)">Quash</a> und <a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" aria-label="L2HGA-Befund von Ultima, PDF (wird in einem neuen Tab geöffnet)">Ultima</a>, den Eltern von Black Jack. Jede Mikrochipnummer ist lesbar.</p>
 
-<p>Welpen müssen frei sein oder aus Verpaarungen stammen, die gesunde Nachkommen garantieren — frei mit Träger ist vertretbar, Träger mit Träger niemals.</p>
+<h2>2. Frei über die Eltern oder einfach frei?</h2>
 
-<h2>ENCI-Ahnentafel: der Nachweis der Rasse</h2>
+<p>Ein junger Welpe ist oft nicht einzeln getestet; man sagt dann <em>frei über die Eltern</em>. Das ist korrekt, aber nur unter einer Bedingung: <strong>beide</strong> Elterntiere müssen für <strong>diese</strong> Mutation frei sein. Erklärt eine Zucht einen Welpen für vier Krankheiten als frei, hat aber nur die Tests eines Elternteils, halten drei dieser vier Aussagen nicht stand.</p>
 
-<p>Die Ahnentafel ist kein Zubehör und keine Zusatzkosten. Sie ist das einzige Dokument, das bescheinigt, dass der Hund ein Staffordshire Bull Terrier ist.</p>
+<p><strong>Wie man es überprüft.</strong> Legen Sie beide Befunde nebeneinander und vergleichen Sie Krankheit für Krankheit. Wo ein Elternteil fehlt, fehlt die Garantie.</p>
 
-<p>Ohne Ahnentafel:</p>
-<ul>
-<li>Wissen Sie nicht, wer die wirklichen Eltern sind</li>
-<li>Können Sie die Gentests nicht überprüfen</li>
-<li>Haben Sie keine Garantie über die Selektion</li>
-<li>Können Sie an keiner Ausstellung teilnehmen</li>
-</ul>
+<p><strong>Unsere.</strong> Auf der Seite des <a href="/de/diario-allevamento/wurf-bilquis-black-jack-august-2026/" title="Wurf Bilquis, August 2026">Wurfes vom August 2026</a> steht genau das: die Welpen sind über die Eltern frei von L2HGA und erblichem Katarakt, und sie sind es nicht für Hyperurikosurie und MDR1, weil wir dafür nur den Befund des Vaters haben.</p>
 
-<p>Seien Sie misstrauisch bei "Staffys ohne Papiere zum reduzierten Preis". Die Ahnentafel kostet die Zucht etwa 30 Euro: wenn darauf verzichtet wird, hat das einen Grund.</p>
+<h2>3. Die Ahnentafel und wer darin steht</h2>
 
-<h2>Der Besuch in der Zucht: unerlässlich</h2>
+<p>Die <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="Rasseseite Staffordshire Bull Terrier, ENCI" target="_blank" rel="noopener" aria-label="Rasseseite Staffordshire Bull Terrier, ENCI (wird in einem neuen Tab geöffnet)">ENCI-Ahnentafel</a> ist das einzige Dokument, das bescheinigt, dass ein Hund ein Staffordshire Bull Terrier mit identifizierten Eltern ist. Sie ist kein Zusatz und wird nicht extra berechnet.</p>
 
-<p>Eine seriöse Zucht lädt Sie zum Besuch ein. Sie müssen sehen:</p>
+<p><strong>Wie man es überprüft.</strong> Die Ahnentafel selbst prüft man über ihre Zuchtbuchnummer. Es gibt aber einen weiteren Schritt, den fast niemand geht: die Ahnentafeln der Rasse sind öffentlich auf SBTPedigree, einer internationalen Datenbank. Suchen Sie Großeltern und Urgroßeltern, sehen Sie nach, ob es sie gibt, ob sie Titel haben, ob sie in anderen Zuchten auftauchen. Ein Stammbaum, der nach zwei Generationen abbricht, sagt etwas aus.</p>
 
-<ul>
-<li>Wo die Hunde leben — im Haus, nicht in abgetrennten Zwingern</li>
-<li>Die Mutter der Welpen, möglichst auch den Vater</li>
-<li>Wie die Hunde mit den Menschen umgehen</li>
-<li>Die hygienischen Verhältnisse</li>
-<li>Die Originaldokumente, keine Kopien</li>
-</ul>
+<p><strong>Unsere.</strong> Der Zwingername steht auf <a href="https://sbtpedigree.com/details?id=35858" target="_blank" rel="noopener" aria-label="Del Piccolo Diavolo auf SBTPedigree (wird in einem neuen Tab geöffnet)">SBTPedigree</a> mit allen Hunden und allen Würfen. Von dort aus können Sie jeden zurückverfolgen, uns eingeschlossen.</p>
 
-<p>Wenn man Ihnen vorschlägt, sich "an der Autobahnraststätte" zu treffen oder den Welpen zu versenden, ist das ein ernstes Warnsignal.</p>
+<h2>4. Wie viele Würfe und wie oft</h2>
 
-<h2>Fragen an die Zucht</h2>
+<p>Eine Zuchthündin ist keine Produktionslinie. Eine Zucht mit ganzjährig verfügbaren Welpen macht Stückzahlen, nicht Selektion. Die ständige Verfügbarkeit ist das deutlichste Signal überhaupt.</p>
 
-<p>Eine seriöse Zucht beantwortet diese Fragen gern:</p>
+<p><strong>Wie man es überprüft.</strong> Sehen Sie sich die Wurfgeschichte an, nicht nur den aktuellen Wurf. Sind die Daten öffentlich, können Sie selbst zählen; sind sie es nicht, fragen Sie, wie viele Würfe in den letzten drei Jahren gefallen sind und von welchen Hündinnen. Eine vage Antwort auf eine Zahlenfrage ist bereits eine Antwort.</p>
+
+<p><strong>Unsere.</strong> Das <a href="/de/diario-allevamento/" title="Zuchttagebuch">Tagebuch</a> nennt das Datum jedes Wurfes, auch der älteren. Einer im Jahr, gelegentlich zwei.</p>
+
+<h2>5. Die Mutter, in echt</h2>
+
+<p>Die Mutter mit ihren Welpen zu sehen ist die Prüfung, die sich am schwersten fälschen lässt. Sie zeigt, wie es ihr geht, welches Wesen sie hat und in welcher Umgebung die Welpen aufgewachsen sind. Genau deshalb schlägt jeder, der etwas zu verbergen hat, ein Treffen auf halbem Weg vor.</p>
+
+<p><strong>Wie man es überprüft.</strong> Bitten Sie darum, sie im Haus zu sehen, nicht auf Fotos, und achten Sie darauf, wie sie auf den Züchter reagiert. Ist die Mutter "beim Tierarzt" oder "bei einer Freundin", verliert der Besuch das meiste von seinem Sinn. Lehnen Sie Übergaben an der Autobahn und den Versand ab: das sind Methoden des Handels, nicht der Zucht.</p>
+
+<p><strong>Unsere.</strong> Wir empfangen nach Terminvereinbarung in Ostellato, Provinz Ferrara. Sie sehen die Mütter, die Welpen und das Haus, in dem sie aufwachsen.</p>
+
+<h2>6. Die Unterlagen, die mit dem Welpen kommen</h2>
+
+<p>Ein Welpe geht mit ENCI-Ahnentafel, registriertem Mikrochip, Impfpass mit Impfungen und Daten sowie den Befunden der Eltern. Vor dem 60. Lebenstag darf er die Mutter nicht verlassen: das ist in Italien gesetzlich vorgeschrieben, keine Entscheidung des Züchters.</p>
+
+<p><strong>Wie man es überprüft.</strong> Verlangen Sie beim Besuch die Originale, keine Kopien und keine Zusagen. Prüfen Sie dann, ob die Mikrochipnummer im Impfpass mit der übereinstimmt, die Ihr eigener Tierarzt beim ersten Termin ausliest — ein Vergleich von dreißig Sekunden, den fast niemand macht.</p>
+
+<h2>7. Die Fragen, die eine Zucht beantworten können muss</h2>
+
+<p>Wer wirklich selektiert, kann erklären, <em>warum</em> eine bestimmte Verpaarung gemacht wurde. Lautet die Antwort "das sind zwei schöne Hunde", steckt kein Programm dahinter.</p>
 
 <ol>
-<li>Welche Gentests machen Sie? Darf ich die Zertifikate sehen?</li>
-<li>Wie viele Würfe pro Jahr haben Sie von jeder Hündin?</li>
-<li>Wachsen die Welpen im Haus auf oder in Außenanlagen?</li>
-<li>Welche Sozialisierung erhalten die Welpen?</li>
-<li>Bieten Sie Betreuung nach dem Verkauf?</li>
-<li>Darf ich die Mutter sehen und ihre Geschichte erfahren?</li>
-<li>Welche Gesundheitsgarantien geben Sie?</li>
+<li>Warum haben Sie diesen Rüden für diese Hündin gewählt?</li>
+<li>Welche Fehler hat Ihre Linie, und was versuchen Sie zu korrigieren?</li>
+<li>Welche Tests haben die Eltern, und auf welche Krankheiten sind sie <em>nicht</em> getestet?</li>
+<li>Wie viele Würfe hatte diese Hündin, und in welchem Alter?</li>
+<li>Was passiert, wenn ich den Hund in zwei Jahren nicht mehr halten kann?</li>
 </ol>
 
-<p>Die Antworten sollten klar, belegt und transparent sein.</p>
+<p>Die letzte sagt am meisten aus. Wer wirklich züchtet, antwortet, dass der Hund zu ihm zurückkommt.</p>
 
-<h2>Warnsignale: wann Sie gehen sollten</h2>
+<h2>Signale, die für sich allein genügen</h2>
 
-<p><strong>Gehen Sie, wenn:</strong></p>
-
-<ul>
-<li>Der Preis deutlich unter dem Rassedurchschnitt liegt — zu niedrig für die realen Kosten</li>
-<li>Immer Welpen verfügbar sind, was auf Massenzucht hindeutet</li>
-<li>Besuche in der Zucht nicht erlaubt sind</li>
-<li>Die Gentests unbekannt sind</li>
-<li>Ein Versand des Welpen angeboten wird</li>
-<li>Welpen vor der 8. Lebenswoche abgegeben werden</li>
-<li>Es keine Ahnentafel gibt oder sie "extra kostet"</li>
-<li>Sie zu einer sofortigen Entscheidung gedrängt werden</li>
-<li>Es keinen schriftlichen Vertrag gibt</li>
-</ul>
-
-<h2>Was ein Welpe aus seriöser Zucht kostet</h2>
-
-<p>Ein Staffordshire Bull Terrier Welpe mit <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="Rasseseite Staffordshire Bull Terrier, ENCI" target="_blank" rel="noopener" aria-label="Rasseseite Staffordshire Bull Terrier, ENCI (wird in einem neuen Tab geöffnet)">ENCI-Ahnentafel</a>, vollständigen Gentests, Impfungen, Mikrochip und Garantien hat <strong>den Preis einer seriösen Zucht</strong>, nicht den einer Online-Anzeige. Eine ausführliche Aufschlüsselung finden Sie unter <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Was kostet ein Staffordshire Bull Terrier Welpe">was ein Staffordshire Bull Terrier Welpe kostet</a>.</p>
-
-<p>Dieser Preis spiegelt wider:</p>
-<ul>
-<li>Gentests und Augenuntersuchung der Zuchttiere (etwa 800 Euro für das Paar)</li>
-<li>Hochwertige Ernährung für Hündin und Welpen</li>
-<li>Impfungen und tierärztliche Untersuchungen</li>
-<li>Sozialisierung und tägliche Betreuung über 8 Wochen und mehr</li>
-<li>Ahnentafel, Mikrochip, Unterlagen</li>
-</ul>
-
-<p>Wer für wenige hundert Euro verkauft, spart an irgendetwas. Und dieses "irgendetwas" kann Sie später weit mehr kosten.</p>
-
-<h2>Warum Del Piccolo Diavolo</h2>
-
-<p>In unserer Zucht:</p>
+<p>Manches beendet das Gespräch, unabhängig von allem anderen:</p>
 
 <ul>
-<li>Alle Zuchttiere sind auf L2HGA, HC und PHPV getestet</li>
-<li>Die Welpen wachsen bei uns im Haus auf</li>
-<li>Höchstens ein bis zwei Würfe pro Jahr und Hündin</li>
-<li>Lebenslange Betreuung nach dem Kauf</li>
-<li>Besuche jederzeit möglich, nach Vereinbarung</li>
-<li>1 Italienischer Champion und 2 Italienische Jugendchampions bei uns gezüchtet</li>
+<li>Ganzjährig verfügbare Welpen, zu jeder Jahreszeit</li>
+<li>Ein Besuch, der abgelehnt oder immer wieder verschoben wird</li>
+<li>Das Angebot, sich auf halbem Weg zu treffen, oder den Welpen zu versenden</li>
+<li>Welpen, die vor dem 60. Tag von der Mutter getrennt werden</li>
+<li>Eine Ahnentafel, die als kostenpflichtige Option angeboten wird</li>
+<li>Keine Gentest-Befunde, oder Befunde ohne Mikrochip</li>
+<li>Drängen zur Entscheidung, oder "es interessiert sich noch eine Familie"</li>
+<li>Kein schriftlicher Vertrag</li>
 </ul>
 
-Wenn Sie <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen aus Familienaufzucht">Staffordshire Bull Terrier Welpen aus Familienaufzucht</a> suchen, melden Sie sich für einen Besuchstermin.
+<h2>Noch ein Wort zum Geld</h2>
+
+<p>Ein sehr niedriger Betrag ist kein Schnäppchen: er ist die Folge von etwas, das nicht gemacht wurde. Nicht durchgeführte Tests, fehlende Ahnentafel, zu früh von der Mutter getrennte Welpen, ausgelassener Tierarzt. Diese Ersparnis kommt zurück, und nicht nur in Geld. Woraus sich die Kosten eines Welpen wirklich zusammensetzen, steht <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Was kostet ein Staffordshire Bull Terrier Welpe">auf einer eigenen Seite</a>.</p>
+
+<p>Trotzdem: nach den Kosten zu fragen ist berechtigt und sollte früh geschehen. Ein Hund bedeutet zwölf bis vierzehn Jahre laufender Ausgaben, und die wiegen schwerer als der Anfangsbetrag.</p>
+
+<h2>Nehmen Sie uns als Übung</h2>
+
+<p>Alles oben Genannte lässt sich bei uns in einer halben Stunde überprüfen, ohne jemanden um Erlaubnis zu fragen: die Befunde stehen <a href="/de/huendinnen-staffordshire-bull-terrier/" title="Unsere Staffordshire Bull Terrier Hündinnen">auf den Seiten der Hunde</a>, die Ahnentafeln auf SBTPedigree, die Daten im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Tagebuch</a>. Finden Sie einen Widerspruch, schreiben Sie uns.</p>
+
+<p>Nehmen Sie dann dieselbe Liste mit zu den anderen. Das ist die beste Verwendung für diese Seite.</p>
 
 </div>
 </section>
 
 <section class="dark-section">
-<h2>Möchten Sie die Zucht besuchen?</h2>
-<p>Wir empfangen nach Vereinbarung in Ostellato bei Ferrara. Lernen Sie unsere Staffys kennen.</p>
-<a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20w%C3%BCrde%20gerne%20die%20Zucht%20besuchen" class="btn btn-gold" title="Besuch vereinbaren">Besuch Vereinbaren</a>
+<h2>Möchten Sie unsere Hunde kennenlernen?</h2>
+<p>Wir empfangen nach Terminvereinbarung in Ostellato, Provinz Ferrara. Sie sehen die Mütter, die Welpen und das Haus, in dem sie aufwachsen.</p>
+<a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20w%C3%BCrde%20gerne%20Ihre%20Hunde%20kennenlernen" class="btn btn-gold" title="Schreiben Sie uns auf WhatsApp" target="_blank" rel="noopener" aria-label="Schreiben Sie uns auf WhatsApp für einen Besuchstermin (wird in einem neuen Tab geöffnet)">Besuch vereinbaren</a>
 </section>

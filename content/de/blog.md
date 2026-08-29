@@ -49,7 +49,7 @@ custom_content: |
   <section class="section" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Kategorie</span>
-  <h2 class="section-title">Welpen <span class="count">(10)</span></h2>
+  <h2 class="section-title">Welpen <span class="count">(9)</span></h2>
   
   <div class="blog-grid">
   <article class="blog-card">
@@ -62,12 +62,12 @@ custom_content: |
   </div>
   </article>
   <article class="blog-card">
-  <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Lesen: Wie wählt man eine Staffordshire Bull Terrier Zucht"><div class="blog-card-thumb"><img src="/images/blog/cucciolata-erba.avif" alt="Staffordshire Bull Terrier Welpen im Gras einer seriösen Zucht" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Lesen: Wie man eine seriöse Zucht erkennt"><div class="blog-card-thumb"><img src="/images/blog/cucciolata-erba.avif" alt="Staffordshire Bull Terrier Welpen im Gras einer seriösen Zucht" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Jan 2026</span><span>•</span><span class="cat">Welpen</span></div>
-  <h3><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Lesen: Wie wählt man eine Staffordshire Bull Terrier Zucht">Wie wählt man eine Staffordshire Bull Terrier Zucht</a></h3>
-  <p>Gentests, Ahnentafel, der Besuch vor Ort und die Warnsignale.</p>
-  <a class="read" href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" aria-label="Artikel lesen: Wie wählt man eine Staffordshire Bull Terrier Zucht">Lesen →</a>
+  <h3><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Lesen: Wie man eine seriöse Zucht erkennt">Wie man eine seriöse Zucht erkennt</a></h3>
+  <p>Sieben Kriterien und wie man sie überprüft, mit unseren Unterlagen als Beispiel.</p>
+  <a class="read" href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" aria-label="Artikel lesen: Wie man eine seriöse Zucht erkennt">Lesen →</a>
   </div>
   </article>
 
@@ -141,15 +141,6 @@ custom_content: |
   </div>
   </article>
   
-  <article class="blog-card">
-  <a href="/de/welpen-kauftipps/" title="Lesen: Tipps vor dem Kauf"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-8.webp" alt="Staffordshire Bull Terrier Welpen: tipps vor dem Kauf" loading="lazy" decoding="async" width="300" height="188"></div></a>
-  <div class="blog-card-body">
-  <div class="blog-card-meta"><span class="date">25 Okt 2025</span><span>•</span><span class="cat">Welpen</span></div>
-  <h3><a href="/de/welpen-kauftipps/" title="Lesen: Tipps vor dem Kauf">Tipps vor dem Kauf</a></h3>
-  <p>Informierte Entscheidungen und nützliche Fragen.</p>
-  <a class="read" href="/de/welpen-kauftipps/" title="Vollständigen Artikel lesen" aria-label="Artikel lesen: Tipps vor dem Kauf">Lesen →</a>
-  </div>
-  </article>
   </div>
   </div>
   </section>

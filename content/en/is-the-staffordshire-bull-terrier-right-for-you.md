@@ -113,7 +113,7 @@ custom_content: |
   
   <div class="callout">
   <p class="callout-title">🏆 Our point of view</p>
-  <p>At <a href="/en/">our Del Piccolo Diavolo kennel</a> the puppies are born and raised <strong>in the family</strong>, not in kennels: this makes an enormous difference to the balance of the adult dog. A puppy well socialised from its first days — to people, noises, other animals — becomes a calm, manageable Staffy. If you decide it is the right breed for you, the most important next step is to choose <a href="/en/puppy-buying-tips/">a serious kennel</a>: that is where the character of your future companion is built (or ruined).</p>
+  <p>At <a href="/en/">our Del Piccolo Diavolo kennel</a> the puppies are born and raised <strong>in the family</strong>, not in kennels: this makes an enormous difference to the balance of the adult dog. A puppy well socialised from its first days — to people, noises, other animals — becomes a calm, manageable Staffy. If you decide it is the right breed for you, the most important next step is to choose <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/">a serious kennel</a>: that is where the character of your future companion is built (or ruined).</p>
   </div>
   
   <h2>How much commitment it really takes</h2>
@@ -123,7 +123,7 @@ custom_content: |
   <li><strong>Company:</strong> no more than 4-5 hours alone at a stretch, less as a puppy</li>
   <li><strong>Training:</strong> daily consistency in the first months; a basic course is recommended</li>
   <li><strong>Coat care:</strong> minimal (a brush once a week)</li>
-  <li><strong>Puppy cost:</strong> from a serious kennel with ENCI pedigree and genetic tests — <a href="/en/puppy-buying-tips/">here's what to check before buying</a></li>
+  <li><strong>Puppy cost:</strong> from a serious kennel with ENCI pedigree and genetic tests — <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/">here's what to check before buying</a></li>
   <li><strong>Upkeep:</strong> quality food, vet, parasite control — the breed has no particular needs beyond the norm</li>
   </ul>
   
@@ -180,7 +180,7 @@ custom_content: |
   <ul>
   <li><a href="/en/staffy-pitbull-amstaff-difference/" title="Differences">Staffy vs Pitbull vs Amstaff</a></li>
   <li><a href="/en/staffy-dangerous-breed-law/" title="Staffy and the law">Is the Staffy dangerous? What the law says</a></li>
-  <li><a href="/en/puppy-buying-tips/" title="Buying tips">Tips before buying a puppy</a></li>
+  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Buying tips">Tips before buying a puppy</a></li>
   <li><a href="/en/staffordshire-bull-terrier-character-family-life/" title="Character and family life">Character and family life of the Staffy</a></li>
   </ul>
   </div>

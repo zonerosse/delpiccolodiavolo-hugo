@@ -49,7 +49,7 @@ custom_content: |
   <section class="section" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Category</span>
-  <h2 class="section-title">Puppies <span class="count">(10)</span></h2>
+  <h2 class="section-title">Puppies <span class="count">(9)</span></h2>
   
   <div class="blog-grid">
   <article class="blog-card">
@@ -62,12 +62,12 @@ custom_content: |
   </div>
   </article>
   <article class="blog-card">
-  <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Read: How to Choose a Staffordshire Bull Terrier Breeder"><div class="blog-card-thumb"><img src="/images/blog/cucciolata-erba.avif" alt="Staffordshire Bull Terrier puppies in the grass at a serious kennel" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Read: How to recognise a serious breeder"><div class="blog-card-thumb"><img src="/images/blog/cucciolata-erba.avif" alt="Staffordshire Bull Terrier puppies in the grass at a serious kennel" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Jan 2026</span><span>•</span><span class="cat">Puppies</span></div>
-  <h3><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Read: How to Choose a Staffordshire Bull Terrier Breeder">How to Choose a Staffordshire Bull Terrier Breeder</a></h3>
-  <p>Genetic tests, pedigree, the kennel visit and the warning signs.</p>
-  <a class="read" href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" aria-label="Read the article: How to Choose a Staffordshire Bull Terrier Breeder">Read →</a>
+  <h3><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Read: How to recognise a serious breeder">How to recognise a serious breeder</a></h3>
+  <p>Seven criteria and how to check each one, with our own documents as the example.</p>
+  <a class="read" href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" aria-label="Read the article: How to recognise a serious breeder">Read →</a>
   </div>
   </article>
 
@@ -141,15 +141,6 @@ custom_content: |
   </div>
   </article>
   
-  <article class="blog-card">
-  <a href="/en/puppy-buying-tips/" title="Read: Tips before buying"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-8.webp" alt="Staffordshire Bull Terrier puppies: tips before buying" loading="lazy" decoding="async" width="300" height="188"></div></a>
-  <div class="blog-card-body">
-  <div class="blog-card-meta"><span class="date">25 Oct 2025</span><span>•</span><span class="cat">Puppies</span></div>
-  <h3><a href="/en/puppy-buying-tips/" title="Read: Tips before buying">Tips before buying</a></h3>
-  <p>Informed choices and useful questions.</p>
-  <a class="read" href="/en/puppy-buying-tips/" title="Read full article" aria-label="Read the article: Tips before buying">Read →</a>
-  </div>
-  </article>
   </div>
   </div>
   </section>

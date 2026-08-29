@@ -124,7 +124,7 @@ custom_content: |
   <div class="faq-item">
   <h3 class="faq-question">Does colour affect the price of the puppy?</h3>
   <div class="faq-answer">
-  <p>In a serious kennel, no: the price reflects the selection, the health, the genetic tests and the pedigree, not the "fashion" of a colour. If a seller asks much more for a "rare" colour (typically blue), that is a warning sign. Find out <a href="/en/puppy-buying-tips/">what to check before getting a puppy</a>.</p>
+  <p>In a serious kennel, no: the price reflects the selection, the health, the genetic tests and the pedigree, not the "fashion" of a colour. If a seller asks much more for a "rare" colour (typically blue), that is a warning sign. Find out <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/">what to check before getting a puppy</a>.</p>
   </div>
   </div>
   

@@ -115,8 +115,8 @@
 /de/standard-linee-di-sangue-orientarsi /de/blutlinien-waehlen/ 301
 /de/staffy-parasite-prevention /de/staffy-parasitenvorbeugung/ 301
 /de/chiedi-recensione /de/bewertungen/ 301
-/de/come-scegliere-allevamento-staffordshire-bull-terrier /de/welpen-kauftipps/ 301
-/de/quanto-costa-cucciolo-staffordshire-bull-terrier /de/welpen-kauftipps/ 301
+/de/come-scegliere-allevamento-staffordshire-bull-terrier /de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/ 301
+/de/quanto-costa-cucciolo-staffordshire-bull-terrier /de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/ 301
 /de/legal-notice /de/impressum/ 301
 
 # -------------------------------------------------
@@ -167,8 +167,8 @@
 /en/linee-sangue-staffordshire-bull-terrier /en/staffy-bloodlines-guide/ 301
 /en/standard-linee-di-sangue-orientarsi /en/choosing-bloodlines/ 301
 /en/blutlinien-waehlen /en/choosing-bloodlines/ 301
-/en/come-scegliere-allevamento-staffordshire-bull-terrier /en/puppy-buying-tips/ 301
-/en/quanto-costa-cucciolo-staffordshire-bull-terrier /en/puppy-buying-tips/ 301
+/en/come-scegliere-allevamento-staffordshire-bull-terrier /en/how-to-choose-a-staffordshire-bull-terrier-breeder/ 301
+/en/quanto-costa-cucciolo-staffordshire-bull-terrier /en/how-to-choose-a-staffordshire-bull-terrier-breeder/ 301
 /en/staffy-pericoloso-legge-italia /en/staffy-dangerous-breed-law/ 301
 /en/chiedi-recensione /en/reviews/ 301
 
@@ -235,7 +235,7 @@
 /test-genetici-l2hga-hc-staffy/blog.html /test-genetici-l2hga-hc-staffy/ 301
 /video-cuccioli-staffordshire-bull-terrier.html /cuccioli-staffordshire-bull-terrier/ 301
 /famiglia-anziani-rispetto-ritmi/blog.html /famiglia-anziani-rispetto-ritmi/ 301
-/cuccioli-consigli-acquisto/blog.html /cuccioli-consigli-acquisto/ 301
+/cuccioli-consigli-acquisto/blog.html /come-scegliere-allevamento-staffordshire-bull-terrier/ 301
 
 # -------------------------------------------------
 # NORMALIZZAZIONE TRAILING SLASH
@@ -294,7 +294,7 @@
 /de/colori-staffordshire-bull-terrier/ /de/staffordshire-bull-terrier-farben/ 301
 /de/contact/ /de/kontakt/ 301
 /de/cuccioli-alimentazione-iniziale/ /de/welpen-erste-fuetterung/ 301
-/de/cuccioli-consigli-acquisto/ /de/welpen-kauftipps/ 301
+/de/cuccioli-consigli-acquisto/ /de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/ 301
 /de/cuccioli-educazione-bisogni/ /de/welpen-stubenreinheit/ 301
 /de/cuccioli-gestione-solitudine/ /de/welpen-allein-bleiben/ 301
 /de/cuccioli-giochi-mentali/ /de/welpen-denkspiele/ 301
@@ -327,7 +327,7 @@
 /de/programma-allevamento/ /de/wuerfe-staffordshire-bull-terrier/ 301
 /de/puppies-staffordshire-bull-terrier/ /de/welpen-staffordshire-bull-terrier/ 301
 /de/puppy-alone-time/ /de/welpen-allein-bleiben/ 301
-/de/puppy-buying-tips/ /de/welpen-kauftipps/ 301
+/de/puppy-buying-tips/ /de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/ 301
 /de/puppy-first-vaccinations/ /de/welpen-erste-impfungen/ 301
 /de/puppy-first-walk/ /de/welpen-erster-spaziergang/ 301
 /de/puppy-home-socialization/ /de/welpen-sozialisierung-zuhause/ 301
@@ -372,7 +372,7 @@
 /en/chi-siamo/ /en/about-us/ 301
 /en/colori-staffordshire-bull-terrier/ /en/staffordshire-bull-terrier-colours/ 301
 /en/cuccioli-alimentazione-iniziale/ /en/puppy-initial-feeding/ 301
-/en/cuccioli-consigli-acquisto/ /en/puppy-buying-tips/ 301
+/en/cuccioli-consigli-acquisto/ /en/how-to-choose-a-staffordshire-bull-terrier-breeder/ 301
 /en/cuccioli-educazione-bisogni/ /en/puppy-potty-training/ 301
 /en/cuccioli-gestione-solitudine/ /en/puppy-alone-time/ 301
 /en/cuccioli-giochi-mentali/ /en/puppy-mental-games/ 301
@@ -435,7 +435,7 @@
 /en/welpen-erste-fuetterung/ /en/puppy-initial-feeding/ 301
 /en/welpen-erste-impfungen/ /en/puppy-first-vaccinations/ 301
 /en/welpen-erster-spaziergang/ /en/puppy-first-walk/ 301
-/en/welpen-kauftipps/ /en/puppy-buying-tips/ 301
+/en/welpen-kauftipps/ /en/how-to-choose-a-staffordshire-bull-terrier-breeder/ 301
 /en/welpen-sozialisierung-zuhause/ /en/puppy-home-socialization/ 301
 /en/welpen-staffordshire-bull-terrier/ /en/puppies-staffordshire-bull-terrier/ 301
 /en/welpen-stubenreinheit/ /en/puppy-potty-training/ 301
@@ -453,7 +453,7 @@
 /palmares/ /palmares-del-piccolo-diavolo/ 301
 /puppies-staffordshire-bull-terrier/ /cuccioli-staffordshire-bull-terrier/ 301
 /puppy-alone-time/ /cuccioli-gestione-solitudine/ 301
-/puppy-buying-tips/ /cuccioli-consigli-acquisto/ 301
+/puppy-buying-tips/ /come-scegliere-allevamento-staffordshire-bull-terrier/ 301
 /puppy-first-vaccinations/ /cuccioli-prime-vaccinazioni/ 301
 /puppy-first-walk/ /cuccioli-prima-passeggiata/ 301
 /puppy-home-socialization/ /cuccioli-socializzazione-in-casa/ 301
@@ -500,7 +500,7 @@
 /welpen-erste-fuetterung/ /cuccioli-alimentazione-iniziale/ 301
 /welpen-erste-impfungen/ /cuccioli-prime-vaccinazioni/ 301
 /welpen-erster-spaziergang/ /cuccioli-prima-passeggiata/ 301
-/welpen-kauftipps/ /cuccioli-consigli-acquisto/ 301
+/welpen-kauftipps/ /come-scegliere-allevamento-staffordshire-bull-terrier/ 301
 /welpen-sozialisierung-zuhause/ /cuccioli-socializzazione-in-casa/ 301
 /welpen-staffordshire-bull-terrier/ /cuccioli-staffordshire-bull-terrier/ 301
 /welpen-stubenreinheit/ /cuccioli-educazione-bisogni/ 301
@@ -530,6 +530,12 @@
 /de/huendinnen-staffordshire-bull-terrier/docs/Genefast-Billy.pdf /docs/Genefast-Billy.pdf 301
 /de/huendinnen-staffordshire-bull-terrier/docs/Minnie-GF.pdf /docs/Minnie-GF.pdf 301
 /cuccioli-staffordshire-bull- /cuccioli-staffordshire-bull-terrier/ 301
+
+
+# Pagine consigli-acquisto fuse nella guida su come riconoscere un allevamento serio
+/cuccioli-consigli-acquisto/ /come-scegliere-allevamento-staffordshire-bull-terrier/ 301
+/en/puppy-buying-tips/ /en/how-to-choose-a-staffordshire-bull-terrier-breeder/ 301
+/de/welpen-kauftipps/ /de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/ 301
 
 # Catch-all: deve restare SEMPRE l'ultima regola del file
 /* /404.html 404

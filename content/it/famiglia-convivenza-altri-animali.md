@@ -508,7 +508,7 @@ custom_content: |
   <li><a href="/famiglia-bambini-convivenza/" title="Bambini">Staffy e Bambini: Convivenza Sicura</a></li>
   <li><a href="/famiglia-anziani-rispetto-ritmi/" title="Anziani">Staffy e Anziani</a></li>
   <li><a href="/cuccioli-socializzazione-in-casa/" title="Socializzazione">Socializzazione nei Primi Mesi</a></li>
-  <li><a href="/cuccioli-consigli-acquisto/" title="Consigli acquisto">Consigli Prima dell'Acquisto</a></li>
+  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Consigli acquisto">Consigli Prima dell'Acquisto</a></li>
   </ul>
   </div>
   

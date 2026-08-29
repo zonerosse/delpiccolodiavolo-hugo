@@ -113,7 +113,7 @@ custom_content: |
   
   <div class="callout">
   <p class="callout-title">🏆 Unsere Sichtweise</p>
-  <p>In <a href="/de/">unserer Zucht Del Piccolo Diavolo</a> werden die Welpen <strong>in der Familie</strong> geboren und aufgezogen, nicht im Zwinger: Das macht einen enormen Unterschied für die Ausgeglichenheit des erwachsenen Hundes. Ein Welpe, der von seinen ersten Tagen an gut sozialisiert wird — an Menschen, Geräusche, andere Tiere — wird zu einem ruhigen, gut führbaren Staffy. Wenn Sie entscheiden, dass es die richtige Rasse für Sie ist, ist der wichtigste nächste Schritt die Wahl <a href="/de/welpen-kauftipps/">einer seriösen Zucht</a>: Dort wird der Charakter Ihres zukünftigen Begleiters aufgebaut (oder ruiniert).</p>
+  <p>In <a href="/de/">unserer Zucht Del Piccolo Diavolo</a> werden die Welpen <strong>in der Familie</strong> geboren und aufgezogen, nicht im Zwinger: Das macht einen enormen Unterschied für die Ausgeglichenheit des erwachsenen Hundes. Ein Welpe, der von seinen ersten Tagen an gut sozialisiert wird — an Menschen, Geräusche, andere Tiere — wird zu einem ruhigen, gut führbaren Staffy. Wenn Sie entscheiden, dass es die richtige Rasse für Sie ist, ist der wichtigste nächste Schritt die Wahl <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/">einer seriösen Zucht</a>: Dort wird der Charakter Ihres zukünftigen Begleiters aufgebaut (oder ruiniert).</p>
   </div>
   
   <h2>Wie viel Aufwand es konkret erfordert</h2>
@@ -123,7 +123,7 @@ custom_content: |
   <li><strong>Gesellschaft:</strong> nicht mehr als 4-5 Stunden am Stück allein, weniger als Welpe</li>
   <li><strong>Erziehung:</strong> tägliche Beständigkeit in den ersten Monaten; ein Grundkurs wird empfohlen</li>
   <li><strong>Fellpflege:</strong> minimal (einmal pro Woche bürsten)</li>
-  <li><strong>Welpenkosten:</strong> aus einer seriösen Zucht mit ENCI-Stammbaum und Gentests — <a href="/de/welpen-kauftipps/">hier, worauf Sie vor dem Kauf achten sollten</a></li>
+  <li><strong>Welpenkosten:</strong> aus einer seriösen Zucht mit ENCI-Stammbaum und Gentests — <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/">hier, worauf Sie vor dem Kauf achten sollten</a></li>
   <li><strong>Unterhalt:</strong> hochwertiges Futter, Tierarzt, Parasitenschutz — die Rasse hat keine besonderen Bedürfnisse über die Norm hinaus</li>
   </ul>
   
@@ -180,7 +180,7 @@ custom_content: |
   <ul>
   <li><a href="/de/staffy-pitbull-amstaff-unterschied/" title="Unterschiede">Unterschied zwischen Staffy, Pitbull und Amstaff</a></li>
   <li><a href="/de/staffy-gefaehrliche-rasse-gesetz/" title="Staffy und Gesetz">Ist der Staffy gefährlich? Was das Gesetz sagt</a></li>
-  <li><a href="/de/welpen-kauftipps/" title="Kauftipps">Tipps vor dem Kauf eines Welpen</a></li>
+  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Kauftipps">Tipps vor dem Kauf eines Welpen</a></li>
   <li><a href="/de/staffordshire-bull-terrier-charakter-familienleben/" title="Charakter und Familienleben">Charakter und Familienleben des Staffy</a></li>
   </ul>
   </div>

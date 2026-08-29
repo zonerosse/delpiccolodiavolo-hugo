@@ -95,7 +95,7 @@ custom_content: |
   <li><a href="/cuccioli-socializzazione-in-casa/" title="Socializzazione cuccioli Staffy">Socializzazione in casa: prime esperienze guidate</a></li>
   <li><a href="/cuccioli-alimentazione-iniziale/" title="Alimentazione cuccioli Staffy">Alimentazione iniziale: frequenza pasti e qualità del cibo</a></li>
   <li><a href="/salute-parassiti-prevenzione/" title="Parassiti prevenzione">Parassiti: prevenzione e controllo</a></li>
-  <li><a href="/cuccioli-consigli-acquisto/" title="Consigli acquisto cucciolo">Consigli prima dell'acquisto di un cucciolo</a></li>
+  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Consigli acquisto cucciolo">Consigli prima dell'acquisto di un cucciolo</a></li>
   </ul>
   </div>
   
