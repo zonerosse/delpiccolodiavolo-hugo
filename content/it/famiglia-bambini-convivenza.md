@@ -382,7 +382,7 @@ custom_content: |
   <li><a href="/famiglia-anziani-rispetto-ritmi/" title="Staffy anziani">Staffy Anziano: Rispetto dei Ritmi</a></li>
   <li><a href="/famiglia-convivenza-altri-animali/" title="Altri animali">Convivenza con Altri Animali</a></li>
   <li><a href="/cuccioli-socializzazione-in-casa/" title="Socializzazione">Socializzazione nei Primi Mesi</a></li>
-  <li><a href="/cuccioli-consigli-acquisto/" title="Consigli acquisto">Consigli Prima dell'Acquisto</a></li>
+  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Consigli acquisto">Consigli Prima dell'Acquisto</a></li>
   </ul>
   </div>
   

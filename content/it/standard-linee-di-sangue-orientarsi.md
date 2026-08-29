@@ -205,7 +205,7 @@ custom_content: |
   <li><a href="/linee-sangue-staffordshire-bull-terrier/" title="Storia linee">Linee di Sangue: Storia e Genealogia</a></li>
   <li><a href="/standard-tipicita-morfologia/" title="Standard FCI">Standard FCI: Tipicità e Morfologia</a></li>
   <li><a href="/differenza-staffy-pitbull-amstaff/" title="Differenza razze">Differenza tra Staffy, Pitbull e Amstaff</a></li>
-  <li><a href="/cuccioli-consigli-acquisto/" title="Consigli acquisto">Consigli prima dell'acquisto di un cucciolo</a></li>
+  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Consigli acquisto">Consigli prima dell'acquisto di un cucciolo</a></li>
   </ul>
   </div>
   

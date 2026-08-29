@@ -180,7 +180,7 @@ custom_content: |
   <li><a href="/de/staffy-kinder-familie/" title="Kinder">Staffy und Kinder: Sicheres Zusammenleben</a></li>
   <li><a href="/de/staffy-andere-haustiere/" title="Andere Tiere">Zusammenleben mit anderen Tieren</a></li>
   <li><a href="/de/staffy-aeltere-besitzer/" title="Ältere">Staffy und ältere Besitzer: Kompletter Ratgeber</a></li>
-  <li><a href="/de/welpen-kauftipps/" title="Kauftipps">Wie man eine seriöse Zucht auswählt</a></li>
+  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Kauftipps">Wie man eine seriöse Zucht auswählt</a></li>
   </ul>
   </div>
 

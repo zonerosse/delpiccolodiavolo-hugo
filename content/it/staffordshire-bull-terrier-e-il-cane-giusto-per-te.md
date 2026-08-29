@@ -113,7 +113,7 @@ custom_content: |
   
   <div class="callout">
   <p class="callout-title">🏆 Il nostro punto di vista</p>
-  <p>Nel <a href="/">nostro allevamento Del Piccolo Diavolo</a> i cuccioli nascono e crescono <strong>in famiglia</strong>, non in box: questo fa un'enorme differenza sull'equilibrio del cane adulto. Un cucciolo ben socializzato dai suoi primi giorni — a persone, rumori, altri animali — diventa uno Staffy sereno e gestibile. Se decidi che è la razza giusta per te, il passo successivo più importante è scegliere <a href="/cuccioli-consigli-acquisto/">un allevamento serio</a>: è lì che si costruisce (o si rovina) il carattere del tuo futuro compagno.</p>
+  <p>Nel <a href="/">nostro allevamento Del Piccolo Diavolo</a> i cuccioli nascono e crescono <strong>in famiglia</strong>, non in box: questo fa un'enorme differenza sull'equilibrio del cane adulto. Un cucciolo ben socializzato dai suoi primi giorni — a persone, rumori, altri animali — diventa uno Staffy sereno e gestibile. Se decidi che è la razza giusta per te, il passo successivo più importante è scegliere <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/">un allevamento serio</a>: è lì che si costruisce (o si rovina) il carattere del tuo futuro compagno.</p>
   </div>
   
   <h2>Quanto impegno richiede, in concreto</h2>
@@ -180,7 +180,7 @@ custom_content: |
   <ul>
   <li><a href="/differenza-staffy-pitbull-amstaff/" title="Differenze">Differenza tra Staffy, Pitbull e Amstaff</a></li>
   <li><a href="/staffy-pericoloso-legge-italia/" title="Staffy e legge">Lo Staffy è pericoloso? Cosa dice la legge italiana</a></li>
-  <li><a href="/cuccioli-consigli-acquisto/" title="Consigli acquisto">Consigli prima dell'acquisto di un cucciolo</a></li>
+  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Consigli acquisto">Consigli prima dell'acquisto di un cucciolo</a></li>
   <li><a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Prezzo cucciolo">Quanto costa un cucciolo di Staffordshire Bull Terrier</a></li>
   </ul>
   </div>

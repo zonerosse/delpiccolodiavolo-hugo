@@ -7,7 +7,7 @@ correlati:
   - url: "/de/staffy-gentests-l2hga-hc/"
     titolo: "Gentests: L2-HGA und HC"
     testo: "Warum beide Elterntiere getestet sein müssen"
-  - url: "/de/welpen-kauftipps/"
+  - url: "/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/"
     titolo: "Vor dem Welpenkauf"
     testo: "Unterlagen, Fragen und Warnzeichen"
   - url: "/de/staffy-blutlinien-guide/"

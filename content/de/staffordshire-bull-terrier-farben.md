@@ -124,7 +124,7 @@ custom_content: |
   <div class="faq-item">
   <h3 class="faq-question">Beeinflusst die Farbe den Preis des Welpen?</h3>
   <div class="faq-answer">
-  <p>In einer seriösen Zucht nicht: Der Preis spiegelt die Selektion, die Gesundheit, die Gentests und den Stammbaum wider, nicht die "Mode" einer Farbe. Wenn ein Verkäufer für eine "seltene" Farbe (typischerweise Blau) viel mehr verlangt, ist das ein Warnsignal. Erfahren Sie, <a href="/de/welpen-kauftipps/">worauf Sie vor dem Kauf eines Welpen achten sollten</a>.</p>
+  <p>In einer seriösen Zucht nicht: Der Preis spiegelt die Selektion, die Gesundheit, die Gentests und den Stammbaum wider, nicht die "Mode" einer Farbe. Wenn ein Verkäufer für eine "seltene" Farbe (typischerweise Blau) viel mehr verlangt, ist das ein Warnsignal. Erfahren Sie, <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/">worauf Sie vor dem Kauf eines Welpen achten sollten</a>.</p>
   </div>
   </div>
   

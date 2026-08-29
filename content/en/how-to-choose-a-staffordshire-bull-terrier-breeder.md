@@ -1,138 +1,123 @@
 ---
-title: "How to Choose a Staffordshire Bull Terrier Breeder"
-titleSeo: "How to choose a Staffordshire Bull Terrier breeder"
+title: "How to Recognise a Serious Staffordshire Bull Terrier Breeder"
+titleSeo: "Staffordshire Bull Terrier breeder: how to recognise a serious one"
 articolo: true
 translationKey: "come-scegliere"
 image: "/images/blog/cucciolata-erba.avif"
-description: "The criteria that separate a serious Staffordshire Bull Terrier breeder from a dealer: genetic tests, pedigree, kennel visit and the warning signs."
+description: "Seven criteria for recognising a serious Staffordshire Bull Terrier breeder, each with the way to verify it. With our own documents as the worked example."
 slug: "how-to-choose-a-staffordshire-bull-terrier-breeder"
 date: 2026-01-18
-categories: ["Puppies"]
+lastmod: 2026-08-29
+categories: ["Cuccioli"]
 ---
 
 <section class="hero">
 <div class="hero-content" style="max-width:100%">
-<span class="hero-eyebrow">Buyer's Guide</span>
-<h1 class="hero-title">How to Choose a Staffordshire Bull Terrier Breeder</h1>
-<p class="hero-subtitle">The criteria that matter, and the ones that do not</p>
+<span class="hero-eyebrow">Guide</span>
+<h1 class="hero-title">How to Recognise a Serious Staffordshire Bull Terrier Breeder</h1>
+<p class="hero-subtitle">Seven criteria, and how to check each one instead of taking it on trust</p>
 </div>
 </section>
 
 <section class="section">
 <div class="section-inner content-single">
 
-<p>Choosing where to buy your <a href="/en/puppies-staffordshire-bull-terrier/" title="Del Piccolo Diavolo Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppy</a> is the most important decision you will make. A puppy will be with you for 12 to 14 years: it is worth spending time on the search.</p>
+<p>Nearly every kennel says the same things: tested dogs, puppies raised indoors, careful selection. Those claims cost nothing until somebody checks them, and a first-time buyer rarely knows where to start checking.</p>
 
-<p>This guide sets out exactly what to look for, which questions to ask and which warning signs to recognise.</p>
+<p>This guide is built the other way round. For each criterion you get <strong>how to verify it</strong> — what to ask, where to look, which document to insist on. And so you are not left with theory alone, under each criterion we put our own document: use us as the exercise, then put the same questions to anyone else.</p>
 
-<h2>Genetic tests: not negotiable</h2>
+<h2>1. Genetic tests on the breeding dogs</h2>
 
-<p>The Staffordshire Bull Terrier can carry two serious genetic diseases:</p>
+<p>The Staffordshire Bull Terrier has two known inherited diseases: <strong>L2HGA</strong>, a neurological condition, and <strong>HC</strong>, hereditary cataract leading to blindness. Both are autosomal recessive: two healthy carriers can produce affected puppies.</p>
 
-<ul>
-<li><strong>L2HGA</strong> (L-2-Hydroxyglutaric Aciduria): a neurological disease</li>
-<li><strong>HC</strong> (Hereditary Cataract): leads to blindness</li>
-</ul>
+<p><strong>How to verify.</strong> "They are tested" is not enough. Ask for the certificate as a PDF and check it carries three things: the laboratory's name, the dog's microchip number and the date. A certificate without a microchip cannot be tied to any particular animal. If what arrives is a blurred photo or a cropped screenshot, press for the document.</p>
 
-<p>A serious breeder tests every single breeding dog and can show you the certificates. If the breeder does not know what L2HGA and HC are, walk away.</p>
+<p><strong>Ours.</strong> The certificates of our breeding dogs are published on the site, not sent on request: <a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" aria-label="Genetic test certificate for Bilquis, PDF (opens in a new tab)">Bilquis</a>, <a href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" aria-label="Genetic test certificate for Nora, PDF (opens in a new tab)">Nora</a>, <a href="/docs/Minnie-GF.pdf" target="_blank" rel="noopener" aria-label="Genetic test certificate for Minnie, PDF (opens in a new tab)">Minnie</a>. For outside stud dogs we publish the certificates their owners give us, as with <a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" aria-label="Genetic test certificate for Quash, PDF (opens in a new tab)">Quash</a> and <a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" aria-label="L2HGA certificate for Ultima, PDF (opens in a new tab)">Ultima</a>, Black Jack's parents. Every microchip is legible.</p>
 
-<p>Puppies must be clear, or the product of matings that guarantee healthy offspring — clear to carrier is acceptable, carrier to carrier never is.</p>
+<h2>2. Clear by parentage, or simply clear?</h2>
 
-<h2>ENCI pedigree: proof of breed</h2>
+<p>A young puppy is often not tested individually: it is called <em>clear by parentage</em>. That is sound, on one condition: <strong>both</strong> parents must be clear for <strong>that</strong> mutation. If a breeder declares a puppy clear for four conditions but holds the tests of only one parent, three of those four claims do not stand.</p>
 
-<p>The pedigree is not an optional extra or an added cost. It is the only document certifying that the dog is a Staffordshire Bull Terrier.</p>
+<p><strong>How to verify.</strong> Put the two certificates side by side and compare condition by condition. Where a parent is missing, the guarantee is missing.</p>
 
-<p>Without a pedigree:</p>
-<ul>
-<li>You do not know who the real parents are</li>
-<li>You cannot verify the genetic tests</li>
-<li>You have no guarantee about the selection</li>
-<li>You cannot enter shows</li>
-</ul>
+<p><strong>Ours.</strong> On the page for the <a href="/en/diario-allevamento/bilquis-black-jack-litter-august-2026/" title="Bilquis litter, August 2026">August 2026 litter</a> we say exactly this: the puppies are clear by parentage for L2HGA and hereditary cataract, and they are not for hyperuricosuria and MDR1, because for those two we hold the sire's certificate only.</p>
 
-<p>Be wary of anyone selling "Staffies without papers at a reduced price". The pedigree costs the breeder around 30 euros: if they skip it, there is a reason.</p>
+<h2>3. The pedigree, and who is inside it</h2>
 
-<h2>Visiting the kennel: essential</h2>
+<p>The <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="Staffordshire Bull Terrier breed page, ENCI" target="_blank" rel="noopener" aria-label="Staffordshire Bull Terrier breed page, ENCI (opens in a new tab)">ENCI pedigree</a> is the only document certifying that a dog is a Staffordshire Bull Terrier with identified parents. It is not an extra and it is not charged separately.</p>
 
-<p>A serious breeder invites you to visit. You need to see:</p>
+<p><strong>How to verify.</strong> The pedigree itself is checked against its stud book number. But there is a further step almost nobody takes: the breed's genealogies are public on SBTPedigree, an international database. Look up the grandparents and great-grandparents, see whether they exist, whether they hold titles, whether they appear in other kennels. A tree that stops after two generations tells you something.</p>
 
-<ul>
-<li>Where the dogs live — in the house, not in isolated pens</li>
-<li>The mother of the puppies, and ideally the father</li>
-<li>How the dogs interact with the breeder</li>
-<li>The hygiene conditions</li>
-<li>The original documents, not photocopies</li>
-</ul>
+<p><strong>Ours.</strong> The affix is on <a href="https://sbtpedigree.com/details?id=35858" target="_blank" rel="noopener" aria-label="Del Piccolo Diavolo on SBTPedigree (opens in a new tab)">SBTPedigree</a> with every dog and every litter. From there you can trace anyone, ourselves included.</p>
 
-<p>If the breeder suggests meeting you "at a motorway services" or shipping the puppy, that is a serious warning sign.</p>
+<h2>4. How many litters, and how often</h2>
 
-<h2>Questions to ask the breeder</h2>
+<p>A brood bitch is not a production line. A kennel with puppies available all year round is producing numbers, not selection. Constant availability is the clearest signal of all.</p>
 
-<p>A serious breeder answers these questions gladly:</p>
+<p><strong>How to verify.</strong> Look at the history of the litters, not only the current one. If the dates are public you can count them yourself; if they are not, ask how many litters have been born in the last three years and from which females. A vague answer to a numerical question is already an answer.</p>
+
+<p><strong>Ours.</strong> The <a href="/en/diario-allevamento/" title="Breeding diary">diary</a> carries the date of every litter, old ones included. One a year, occasionally two.</p>
+
+<h2>5. The mother, in person</h2>
+
+<p>Seeing the mother with her puppies is the hardest check to fake. It tells you how she is, what temperament she has and the environment the puppies grew up in. It is also why anyone with something to hide suggests meeting halfway.</p>
+
+<p><strong>How to verify.</strong> Ask to see her in the house, not in photographs, and watch how she reacts to the breeder. If the mother "is at the vet" or "is staying with a friend", the visit loses most of its point. Refuse motorway handovers and shipping: those are the methods of trade, not of breeding.</p>
+
+<p><strong>Ours.</strong> We receive by appointment in Ostellato, in the province of Ferrara. You see the mothers, the puppies and the house they grow up in.</p>
+
+<h2>6. The documents that come with the puppy</h2>
+
+<p>A puppy leaves with an ENCI pedigree, a registered microchip, a health booklet with vaccinations and dates, and the parents' certificates. Before 60 days it cannot leave its mother: that is a legal obligation in Italy, not the breeder's choice.</p>
+
+<p><strong>How to verify.</strong> Ask to see the originals during your visit, not photocopies and not promises. Then check that the microchip number in the booklet matches the one your own vet reads at the first appointment: a thirty-second comparison almost nobody makes.</p>
+
+<h2>7. The questions a breeder must be able to answer</h2>
+
+<p>Anyone who really selects can explain <em>why</em> a particular pairing was made. If the answer is "they are two good-looking dogs", there is no programme behind it.</p>
 
 <ol>
-<li>Which genetic tests do you run? May I see the certificates?</li>
-<li>How many litters per year do you have from each bitch?</li>
-<li>Do the puppies grow up in the house or in outdoor kennels?</li>
-<li>What socialisation do the puppies receive?</li>
-<li>Do you provide support after the sale?</li>
-<li>May I see the mother and hear about her history?</li>
-<li>What health guarantees do you give?</li>
+<li>Why did you choose this male for this female?</li>
+<li>What faults does your line have, and what are you trying to correct?</li>
+<li>What tests do the parents have, and which conditions are they <em>not</em> tested for?</li>
+<li>How many litters has this female had, and at what ages?</li>
+<li>What happens if in two years I can no longer keep the dog?</li>
 </ol>
 
-<p>The answers should be clear, documented and transparent.</p>
+<p>The last one tells you the most. Anyone who truly breeds will answer that the dog comes back to them.</p>
 
-<h2>Warning signs: when to walk away</h2>
+<h2>Signals that settle it on their own</h2>
 
-<p><strong>Walk away if:</strong></p>
-
-<ul>
-<li>The price is well below the breed average — too low to cover the real costs</li>
-<li>There are always puppies available, which means intensive breeding</li>
-<li>Visits to the kennel are not allowed</li>
-<li>The breeder does not know about the genetic tests</li>
-<li>Shipping the puppy is offered</li>
-<li>Puppies leave before 8 weeks of age</li>
-<li>There is no pedigree, or it is "charged separately"</li>
-<li>You are pressed to decide immediately</li>
-<li>There is no written contract</li>
-</ul>
-
-<h2>What a puppy from a serious kennel costs</h2>
-
-<p>A Staffordshire Bull Terrier puppy with <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="Staffordshire Bull Terrier breed page, ENCI (Italian Kennel Club)" target="_blank" rel="noopener" aria-label="Staffordshire Bull Terrier breed page, ENCI (Italian Kennel Club) (opens in a new tab)">ENCI pedigree</a>, complete genetic testing, vaccinations, microchip and guarantees carries <strong>the price of a serious kennel</strong>, not that of an online advert. For a detailed breakdown, read <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="How much does a Staffordshire Bull Terrier puppy cost">how much a Staffordshire Bull Terrier puppy costs</a>.</p>
-
-<p>That price reflects:</p>
-<ul>
-<li>Genetic tests and eye examination on the breeding stock (around 800 euros for the pair)</li>
-<li>Quality food for the dam and the puppies</li>
-<li>Vaccinations and veterinary visits</li>
-<li>Socialisation and daily care for 8 weeks and more</li>
-<li>Pedigree, microchip, paperwork</li>
-</ul>
-
-<p>Anyone selling for a few hundred euros is cutting somewhere. And that "somewhere" may cost you far more later.</p>
-
-<h2>Why choose Del Piccolo Diavolo</h2>
-
-<p>In our kennel:</p>
+<p>Some things end the conversation regardless of everything else:</p>
 
 <ul>
-<li>Every breeding dog is tested for L2HGA, HC and PHPV</li>
-<li>The puppies grow up in the house with us</li>
-<li>At most one or two litters a year from each bitch</li>
-<li>Lifetime support after the purchase</li>
-<li>Visits always welcome, by appointment</li>
-<li>1 Italian Champion and 2 Italian Junior Champions bred here</li>
+<li>Puppies always available, at any time of year</li>
+<li>A visit refused or endlessly postponed</li>
+<li>An offer to meet halfway or to ship the puppy</li>
+<li>Puppies taken from the mother before 60 days</li>
+<li>A pedigree presented as a paid option</li>
+<li>No genetic certificates, or certificates without a microchip</li>
+<li>Pressure to decide, or "another family is interested"</li>
+<li>No written contract</li>
 </ul>
 
-If you are looking for <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies raised at home">Staffordshire Bull Terrier puppies raised in a family home</a>, get in touch to arrange a visit.
+<h2>One last word about money</h2>
+
+<p>A very low figure is not a bargain: it is the consequence of something that was not done. Tests not run, pedigree missing, puppies taken from the mother too early, veterinary care skipped. That saving comes back to you, and not only in money. What a puppy actually costs is set out <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="How much does a Staffordshire Bull Terrier puppy cost">on its own page</a>.</p>
+
+<p>That said: asking what it costs is a legitimate question and should be asked early. A dog is twelve to fourteen years of ordinary expenses, and those weigh more than the initial figure.</p>
+
+<h2>Use us as the exercise</h2>
+
+<p>Everything above can be verified on us in half an hour, without asking anyone's permission: the certificates are <a href="/en/females-staffordshire-bull-terrier/" title="Our Staffordshire Bull Terrier females">on the pages of our dogs</a>, the genealogies on SBTPedigree, the dates in the <a href="/en/diario-allevamento/" title="Breeding diary">diary</a>. If you find an inconsistency, tell us.</p>
+
+<p>Then take the same list to the others. That is the best use for this page.</p>
 
 </div>
 </section>
 
 <section class="dark-section">
-<h2>Would You Like to Visit the Kennel?</h2>
-<p>We welcome visitors by appointment in Ostellato, near Ferrara. Come and meet our Staffies.</p>
-<a href="https://wa.me/393924635584?text=Hi%20Paolo%2C%20I%27d%20like%20to%20visit%20the%20kennel" class="btn btn-gold" title="Book a visit">Book a Visit</a>
+<h2>Would you like to meet our dogs?</h2>
+<p>We receive by appointment in Ostellato, province of Ferrara. You see the mothers, the puppies and the house they grow up in.</p>
+<a href="https://wa.me/393924635584?text=Hi%20Paolo%2C%20I%20would%20like%20to%20meet%20your%20dogs" class="btn btn-gold" title="Message us on WhatsApp" target="_blank" rel="noopener" aria-label="Message us on WhatsApp to arrange a visit (opens in a new tab)">Arrange a visit</a>
 </section>

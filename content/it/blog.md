@@ -49,16 +49,16 @@ custom_content: |
   <section class="section" id="cuccioli" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
-  <h2 class="section-title">Cuccioli <span class="count">(10)</span></h2>
+  <h2 class="section-title">Cuccioli <span class="count">(9)</span></h2>
 
   <div class="blog-grid">
   <article class="blog-card">
-  <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi: Come Scegliere un Allevamento"><div class="blog-card-thumb"><img src="/images/blog/hero-default.webp" alt="Come Scegliere un Allevamento Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi: Come riconoscere un allevamento serio"><div class="blog-card-thumb"><img src="/images/blog/hero-default.webp" alt="Come riconoscere un allevamento Staffordshire Bull Terrier serio" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Gen 2026</span><span>•</span><span class="cat">Cuccioli</span></div>
-  <h3><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi: Come Scegliere un Allevamento">Come Scegliere un Allevamento Staffordshire Bull Terrier</a></h3>
-  <p>Guida completa: test genetici, pedigree ENCI, segnali d'allarme e domande da fare.</p>
-  <a class="read" href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Come Scegliere un Allevamento Staffordshire Bull Terrier">Leggi →</a>
+  <h3><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi: Come riconoscere un allevamento serio">Come riconoscere un allevamento serio</a></h3>
+  <p>Sette criteri e il modo di verificarli, con i nostri documenti come esempio.</p>
+  <a class="read" href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Come riconoscere un allevamento serio">Leggi →</a>
   </div>
   </article>
 
@@ -142,15 +142,6 @@ custom_content: |
   </div>
   </article>
 
-  <article class="blog-card">
-  <a href="/cuccioli-consigli-acquisto/" title="Leggi: Consigli prima dell'acquisto"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-8.webp" alt="Cuccioli di Staffordshire Bull Terrier: consigli prima dell'acquisto" loading="lazy" decoding="async" width="300" height="188"></div></a>
-  <div class="blog-card-body">
-  <div class="blog-card-meta"><span class="date">25 Ott 2025</span><span>•</span><span class="cat">Cuccioli</span></div>
-  <h3><a href="/cuccioli-consigli-acquisto/" title="Leggi: Consigli prima dell'acquisto">Consigli prima dell'acquisto</a></h3>
-  <p>Scelte consapevoli e domande utili.</p>
-  <a class="read" href="/cuccioli-consigli-acquisto/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Consigli prima dell'acquisto">Leggi →</a>
-  </div>
-  </article>
   </div>
   </div>
   </section>
