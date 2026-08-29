@@ -126,7 +126,7 @@ custom_content: |
   
   <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">A pairing planned to combine the champion morphology of Bilquis (Italian Champion, 4th at the 2024 World Dog Show) with the lines of Black Jack, son of the 2023 World Champion Quash Marvelous Hagler de Stafflorence. Born 1 August 2026: 8 black puppies (4 males and 4 females). Litter complete: all puppies reserved.</p>
   
-  <p class="pedigree-link">Litter pedigree: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" title="View Bilquis x Black Jack litter pedigree" aria-label="View the pedigree of Black Jack Di Casa Giacalone (opens in a new tab)">view on SBTPedigree</a></p>
+  <p class="pedigree-link">Litter pedigree: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" title="View Bilquis x Black Jack litter pedigree" aria-label="View the full pedigree of the 1 August 2026 litter on SBTPedigree (opens in a new tab)">view on SBTPedigree</a></p>
   </article>
   
   <!-- Litter 1: Heat × Nora - COMING -->
@@ -164,7 +164,7 @@ custom_content: |
   
   <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">This pairing was planned to consolidate the traits of the Vangerbull line while preserving the excellent family temperament of Skilful-Dogs. Born 9 February 2026: 3 males (2 brindle, 1 red and white). All reserved.</p>
   
-  <p class="pedigree-link">Litter pedigree: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" title="View Red x Nora litter pedigree" aria-label="View the pedigree of Skilful-dogs Nora (opens in a new tab)">view on SBTPedigree</a></p>
+  <p class="pedigree-link">Litter pedigree: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" title="View Red x Nora litter pedigree" aria-label="View the full pedigree of the 9 February 2026 litter on SBTPedigree (opens in a new tab)">view on SBTPedigree</a></p>
   </article>
   
   <!-- Litter 2: Bilquis × Luis - SOLD OUT -->
@@ -202,7 +202,7 @@ custom_content: |
   </div>
   </div>
   
-  <p class="pedigree-link">Litter pedigree: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4555572&DAM=4496127&generation=4&dogs_id=4555573" target="_blank" rel="noopener" title="View Bilquis x Luis litter pedigree" aria-label="View the pedigree of Il lupo perde il pelo ma non il vizio – Luis (opens in a new tab)">view on SBTPedigree</a></p>
+  <p class="pedigree-link">Litter pedigree: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4555572&DAM=4496127&generation=4&dogs_id=4555573" target="_blank" rel="noopener" title="View Bilquis x Luis litter pedigree" aria-label="View the full pedigree of the 2 May 2025 litter on SBTPedigree (opens in a new tab)">view on SBTPedigree</a></p>
   </article>
   
   <!-- Litter 3: Prospect × Bean - SOLD OUT -->
@@ -238,7 +238,7 @@ custom_content: |
   </div>
   </div>
   
-  <p class="pedigree-link">Litter pedigree: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4483601&DAM=4538599&generation=4&dogs_id=4547824" target="_blank" rel="noopener" title="View Prospect x Bean litter pedigree" aria-label="View the pedigree of Lackyle Bean Croí Olc (opens in a new tab)">view on SBTPedigree</a></p>
+  <p class="pedigree-link">Litter pedigree: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4483601&DAM=4538599&generation=4&dogs_id=4547824" target="_blank" rel="noopener" title="View Prospect x Bean litter pedigree" aria-label="View the full pedigree of the 1 February 2025 litter on SBTPedigree (opens in a new tab)">view on SBTPedigree</a></p>
   </article>
   
   </div>

@@ -8,7 +8,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/lothar-matthaus-esposizione.avif" alt="JCH Lothar Matthäus del Piccolo Diavolo, gestromter Staffordshire Bull Terrier Rüde in Ausstellungspose" title="Lothar Matthäus del Piccolo Diavolo — Italienischer Jugendchampion" width="620" height="983" fetchpriority="high" decoding="sync">
+  <img src="/images/lothar-matthaus-esposizione.avif" alt="JCH Lothar Matthäus del Piccolo Diavolo, gestromter Staffordshire Bull Terrier Rüde in Ausstellungspose" title="Lothar Matthäus del Piccolo Diavolo — Italienischer Jugendchampion" width="620" height="983" fetchpriority="high" decoding="sync" srcset="/images/lothar-matthaus-esposizione-400w.avif 400w, /images/lothar-matthaus-esposizione.avif 800w" sizes="(max-width: 620px) 100vw, 620px">
   </div>
   </div>
   <div class="hero-content">
@@ -63,7 +63,7 @@ custom_content: |
   </div>
   <div class="male-content">
   <div class="male-image">
-  <img src="/images/lothar-matthaus-tyson-locandina.avif" alt="CH SLO J.CH ITA Lothar Matthäus del Piccolo Diavolo, gerufen Tyson, gestromter Staffordshire Bull Terrier Rüde aus der Zucht Del Piccolo Diavolo" width="900" height="1228" loading="lazy" decoding="async">
+  <img src="/images/lothar-matthaus-tyson-locandina.avif" alt="CH SLO J.CH ITA Lothar Matthäus del Piccolo Diavolo, gerufen Tyson, gestromter Staffordshire Bull Terrier Rüde aus der Zucht Del Piccolo Diavolo" width="900" height="1228" loading="lazy" decoding="async" srcset="/images/lothar-matthaus-tyson-locandina-400w.avif 400w, /images/lothar-matthaus-tyson-locandina-800w.avif 800w, /images/lothar-matthaus-tyson-locandina.avif 900w" sizes="(max-width: 900px) 100vw, 900px">
   </div>
   <div class="male-info">
   <p><strong>Gentests:</strong> L2HGA clear · HC clear · HSF4 · OCD clear</p>

@@ -83,7 +83,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/cuccioli-prime-vaccinazioni/" title="Leggi: Prime vaccinazioni"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-2.webp" alt="Cuccioli di Staffordshire Bull Terrier: prime vaccinazioni" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/cuccioli-prime-vaccinazioni/" title="Leggi: Prime vaccinazioni"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-2.webp" alt="Cuccioli di Staffordshire Bull Terrier: prime vaccinazioni" loading="lazy" decoding="async" width="300" height="188" srcset="/images/blog/cuccioli-2-400w.webp 400w, /images/blog/cuccioli-2-800w.webp 800w, /images/blog/cuccioli-2.webp 1400w" sizes="(max-width: 300px) 100vw, 300px"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">10 Giu 2025</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cuccioli-prime-vaccinazioni/" title="Leggi: Prime vaccinazioni">Prime vaccinazioni</a></h3>
@@ -93,7 +93,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/cuccioli-alimentazione-iniziale/" title="Leggi: Alimentazione iniziale"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-3.webp" alt="Cuccioli di Staffordshire Bull Terrier: alimentazione iniziale" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/cuccioli-alimentazione-iniziale/" title="Leggi: Alimentazione iniziale"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-3.webp" alt="Cuccioli di Staffordshire Bull Terrier: alimentazione iniziale" loading="lazy" decoding="async" width="300" height="188" srcset="/images/blog/cuccioli-3-400w.webp 400w, /images/blog/cuccioli-3-800w.webp 800w, /images/blog/cuccioli-3.webp 1280w" sizes="(max-width: 300px) 100vw, 300px"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">15 Apr 2025</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cuccioli-alimentazione-iniziale/" title="Leggi: Alimentazione iniziale">Alimentazione iniziale</a></h3>

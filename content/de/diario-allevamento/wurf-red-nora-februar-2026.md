@@ -108,7 +108,7 @@ Nora (L2HGA + HC + DM)
 </div>
 </div>
 
-<p style="margin-top:1.5rem"><strong>Wurf-Stammbaum:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" class="sbt-link" aria-label="Stammbaum ansehen von Skilful-dogs Nora (wird in einem neuen Tab geöffnet)">Auf SBTPedigree ansehen →</a></p>
+<p style="margin-top:1.5rem"><strong>Wurf-Stammbaum:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" class="sbt-link" aria-label="Vollständigen Stammbaum des Wurfes auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">Auf SBTPedigree ansehen →</a></p>
 
 ## Kontakt
 

@@ -108,7 +108,7 @@ Nora (L2HGA + HC + DM)
 </div>
 </div>
 
-<p style="margin-top:1.5rem"><strong>Litter pedigree:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" class="sbt-link" aria-label="View the pedigree of Skilful-dogs Nora (opens in a new tab)">View on SBTPedigree →</a></p>
+<p style="margin-top:1.5rem"><strong>Litter pedigree:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" class="sbt-link" aria-label="View the full pedigree of the litter on SBTPedigree (opens in a new tab)">View on SBTPedigree →</a></p>
 
 ## Get in touch
 

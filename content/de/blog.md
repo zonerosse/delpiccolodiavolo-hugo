@@ -82,7 +82,7 @@ custom_content: |
   </article>
   
   <article class="blog-card">
-  <a href="/de/welpen-erste-impfungen/" title="Lesen: Erste Impfungen"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-2.webp" alt="Staffordshire Bull Terrier Welpen: erste Impfungen" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/welpen-erste-impfungen/" title="Lesen: Erste Impfungen"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-2.webp" alt="Staffordshire Bull Terrier Welpen: erste Impfungen" loading="lazy" decoding="async" width="300" height="188" srcset="/images/blog/cuccioli-2-400w.webp 400w, /images/blog/cuccioli-2-800w.webp 800w, /images/blog/cuccioli-2.webp 1400w" sizes="(max-width: 300px) 100vw, 300px"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">10 Jun 2025</span><span>•</span><span class="cat">Welpen</span></div>
   <h3><a href="/de/welpen-erste-impfungen/" title="Lesen: Erste Impfungen">Erste Impfungen</a></h3>
@@ -92,7 +92,7 @@ custom_content: |
   </article>
   
   <article class="blog-card">
-  <a href="/de/welpen-erste-fuetterung/" title="Lesen: Erste Fütterung"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-3.webp" alt="Staffordshire Bull Terrier Welpen: erste Fütterung" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/welpen-erste-fuetterung/" title="Lesen: Erste Fütterung"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-3.webp" alt="Staffordshire Bull Terrier Welpen: erste Fütterung" loading="lazy" decoding="async" width="300" height="188" srcset="/images/blog/cuccioli-3-400w.webp 400w, /images/blog/cuccioli-3-800w.webp 800w, /images/blog/cuccioli-3.webp 1280w" sizes="(max-width: 300px) 100vw, 300px"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">15 Apr 2025</span><span>•</span><span class="cat">Welpen</span></div>
   <h3><a href="/de/welpen-erste-fuetterung/" title="Lesen: Erste Fütterung">Erste Fütterung</a></h3>

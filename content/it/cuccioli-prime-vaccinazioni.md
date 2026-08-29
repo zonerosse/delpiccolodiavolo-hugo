@@ -9,7 +9,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/cuccioli-2.webp" alt="Vaccinazioni cucciolo Staffordshire Bull Terrier" width="800" height="600" fetchpriority="high">
+  <img src="/images/blog/cuccioli-2.webp" alt="Vaccinazioni cucciolo Staffordshire Bull Terrier" width="800" height="600" fetchpriority="high" srcset="/images/blog/cuccioli-2-400w.webp 400w, /images/blog/cuccioli-2-800w.webp 800w, /images/blog/cuccioli-2.webp 1400w" sizes="(max-width: 800px) 100vw, 800px">
   </div>
   </div>
   <div class="hero-content">

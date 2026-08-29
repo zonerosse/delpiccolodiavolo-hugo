@@ -82,7 +82,7 @@ custom_content: |
   </article>
   
   <article class="blog-card">
-  <a href="/en/puppy-first-vaccinations/" title="Read: First vaccinations"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-2.webp" alt="Staffordshire Bull Terrier puppies: first vaccinations" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/en/puppy-first-vaccinations/" title="Read: First vaccinations"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-2.webp" alt="Staffordshire Bull Terrier puppies: first vaccinations" loading="lazy" decoding="async" width="300" height="188" srcset="/images/blog/cuccioli-2-400w.webp 400w, /images/blog/cuccioli-2-800w.webp 800w, /images/blog/cuccioli-2.webp 1400w" sizes="(max-width: 300px) 100vw, 300px"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">10 Jun 2025</span><span>•</span><span class="cat">Puppies</span></div>
   <h3><a href="/en/puppy-first-vaccinations/" title="Read: First vaccinations">First vaccinations</a></h3>
@@ -92,7 +92,7 @@ custom_content: |
   </article>
   
   <article class="blog-card">
-  <a href="/en/puppy-initial-feeding/" title="Read: Initial feeding"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-3.webp" alt="Staffordshire Bull Terrier puppies: initial feeding" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/en/puppy-initial-feeding/" title="Read: Initial feeding"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-3.webp" alt="Staffordshire Bull Terrier puppies: initial feeding" loading="lazy" decoding="async" width="300" height="188" srcset="/images/blog/cuccioli-3-400w.webp 400w, /images/blog/cuccioli-3-800w.webp 800w, /images/blog/cuccioli-3.webp 1280w" sizes="(max-width: 300px) 100vw, 300px"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">15 Apr 2025</span><span>•</span><span class="cat">Puppies</span></div>
   <h3><a href="/en/puppy-initial-feeding/" title="Read: Initial feeding">Initial feeding</a></h3>
