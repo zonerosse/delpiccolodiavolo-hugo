@@ -20,11 +20,26 @@
 
 {{ $faqsrc := .Params.custom_content | default .Content }}
 {{ $coppie := slice }}
-{{ range findRESubmatch `(?s)<h[23][^>]*>([^<]*\?)</h[23]>\s*(?:<span class="faq-toggle">.*?</span>\s*</div>\s*)?(?:</div>\s*)?(?:<div[^>]*>\s*)?(?:<p[^>]*>)?(.*?)(?:</p>|</div>)` $faqsrc }}
+{{ $viste := slice }}
+
+{{/* Schema 1: fisarmonica .faq-item — il titolo puo' contenere link o <strong>,
+     la risposta sta in <div class="faq-answer"> e spesso non ha <p> dentro. */}}
+{{ range findRESubmatch `(?s)<h[23][^>]*>(.*?\?)\s*</h[23]>\s*(?:<span class="faq-toggle">.*?</span>\s*)?</div>\s*<div class="faq-answer"[^>]*>(.*?)</div>` $faqsrc }}
   {{ $d := index . 1 | plainify | htmlUnescape }}
   {{ $r := index . 2 | plainify | htmlUnescape }}
-  {{ if and (gt (len $d) 12) (gt (len $r) 60) (lt (len $r) 1200) }}
+  {{ if and (gt (len $d) 12) (gt (len $r) 60) (lt (len $r) 1200) (not (in $viste $d)) }}
     {{ $coppie = $coppie | append (dict "d" $d "r" $r) }}
+    {{ $viste = $viste | append $d }}
+  {{ end }}
+{{ end }}
+
+{{/* Schema 2: domanda come titolo seguita da un paragrafo. */}}
+{{ range findRESubmatch `(?s)<h[23][^>]*>(.*?\?)\s*</h[23]>\s*(?:<div[^>]*>\s*)?<p[^>]*>(.*?)</p>` $faqsrc }}
+  {{ $d := index . 1 | plainify | htmlUnescape }}
+  {{ $r := index . 2 | plainify | htmlUnescape }}
+  {{ if and (gt (len $d) 12) (gt (len $r) 60) (lt (len $r) 1200) (not (in $viste $d)) }}
+    {{ $coppie = $coppie | append (dict "d" $d "r" $r) }}
+    {{ $viste = $viste | append $d }}
   {{ end }}
 {{ end }}
 
@@ -117,6 +132,8 @@
       "esposizioni cinofile ENCI"
     ],
     "url": "{{ $baseURL }}/chi-siamo/",
+    "description": "{{ if eq $lang "de" }}Zuchtet seit 2013 in Ostellato (Ferrara) Staffordshire Bull Terrier. Davor Rottweiler-Zuchter mit einem italienischen und einem europaischen Champion; zuvor internationaler Richter fur Gloster-Kanarien.{{ else if eq $lang "en" }}Breeding Staffordshire Bull Terriers in Ostellato (Ferrara) since 2013. Previously a Rottweiler breeder who produced an Italian and a European Champion, and before that an international judge for Gloster canaries.{{ else }}Alleva Staffordshire Bull Terrier a Ostellato (Ferrara) dal 2013. In precedenza allevatore di Rottweiler, con un Campione Italiano e un Campione Europeo prodotti, e prima ancora giudice internazionale per canarini Gloster.{{ end }}",
+    "mainEntityOfPage": "{{ $baseURL }}/chi-siamo/",
     "worksFor": {
       "@id": "{{ $baseURL }}/#organization"
     }
@@ -319,7 +336,8 @@
     "name": "Paolo Boldrini",
     "url": "{{ $baseURL }}/chi-siamo/",
     "jobTitle": "{{ if eq $lang "de" }}Staffordshire Bull Terrier Züchter{{ else if eq $lang "en" }}Staffordshire Bull Terrier Breeder{{ else }}Allevatore Staffordshire Bull Terrier{{ end }}",
-    "knowsAbout": ["Staffordshire Bull Terrier", "selezione cinofila", "test genetici L2HGA HC PHPV", "linee Elitebull", "linee Lackyle"]
+    "knowsAbout": ["Staffordshire Bull Terrier", "selezione cinofila", "test genetici L2HGA HC PHPV", "linee Elitebull", "linee Lackyle"],
+    "worksFor": { "@id": "{{ $baseURL }}/#organization" }
   },
   "publisher": {
     "@type": "Organization",
