@@ -158,7 +158,7 @@ Bilquis — Doppler echocardio
 </div>
 </div>
 
-<p style="margin-top:1.5rem"><strong>Litter pedigree:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" class="sbt-link" aria-label="View the pedigree of Bilquis Goddess Diabhal (opens in a new tab)">View on SBTPedigree →</a></p>
+<p style="margin-top:1.5rem"><strong>Litter pedigree:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" class="sbt-link" aria-label="View the full pedigree of the litter on SBTPedigree (opens in a new tab)">View on SBTPedigree →</a></p>
 
 ## Get in touch
 

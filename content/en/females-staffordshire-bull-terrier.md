@@ -97,7 +97,7 @@ custom_content: |
   </div>
   <div class="female-content">
   <div class="female-image">
-  <img src="/images/queen-of-california.jpeg" alt="JCH Queen of California Aka Desy Del Piccolo Diavolo" width="350" height="467" loading="lazy" decoding="async">
+  <img src="/images/queen-of-california.webp" alt="JCH Queen of California Aka Desy Del Piccolo Diavolo" width="350" height="467" loading="lazy" decoding="async" srcset="/images/queen-of-california-400w.webp 400w, /images/queen-of-california-800w.webp 800w, /images/queen-of-california.webp 1400w" sizes="(max-width: 350px) 100vw, 350px">
   </div>
   <div class="female-info">
   <p><strong>Microchip:</strong> 380260160642781<br>
@@ -109,7 +109,7 @@ custom_content: |
   <p><strong>Owner:</strong> Stefano Tevini</p>
   <p><strong>Handler:</strong> Vittoria Passerini</p>
   <p><strong>Title:</strong> Italian Young Champion (pending homologation) — Albarella (RO), 17 May 2026. Junior Class 1st Excellent, JCAC, JBOB, BOB. Best Staffy — Polesano Canine Group.</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/pedigree?SIRE=4483601&DAM=4538599&generation=4&dogs_id=4547824" target="_blank" rel="noopener" title="View Queen of California pedigree on SBTPedigree" aria-label="View Queen of California pedigree on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/pedigree?SIRE=4483601&DAM=4538599&generation=4&dogs_id=4547824" target="_blank" rel="noopener" title="View Queen of California pedigree on SBTPedigree" aria-label="View the full pedigree of the litter on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
   </div>
   </div>
   </article>

@@ -126,7 +126,7 @@ custom_content: |
   
   <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Eine Verpaarung, die die Championin-Morphologie von Bilquis (Italienische Championin, 4. beim World Dog Show 2024) mit den Linien von Black Jack verbindet, dem Sohn des Weltsiegers 2023 Quash Marvelous Hagler de Stafflorence. Geboren am 1. August 2026: 8 schwarze Welpen (4 Rüden und 4 Hündinnen). Wurf vollständig: alle Welpen reserviert.</p>
   
-  <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" title="Stammbaum Wurf Bilquis x Black Jack ansehen" aria-label="Stammbaum ansehen von Black Jack Di Casa Giacalone (wird in einem neuen Tab geöffnet)">auf SBTPedigree ansehen</a></p>
+  <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" title="Stammbaum Wurf Bilquis x Black Jack ansehen" aria-label="Vollständigen Stammbaum des Wurfes vom 1. August 2026 auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">auf SBTPedigree ansehen</a></p>
   </article>
   
   <!-- Wurf 1: Heat × Nora - KOMMEND -->
@@ -164,7 +164,7 @@ custom_content: |
   
   <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Diese Verpaarung wurde geplant, um die Merkmale der Vangerbull-Linie zu festigen und dabei das hervorragende Familientemperament von Skilful-Dogs zu bewahren. Geboren am 9. Februar 2026: 3 Rüden (2 gestromt, 1 rot-weiß). Alle reserviert.</p>
   
-  <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" title="Stammbaum Wurf Red x Nora ansehen" aria-label="Stammbaum ansehen von Skilful-dogs Nora (wird in einem neuen Tab geöffnet)">auf SBTPedigree ansehen</a></p>
+  <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" title="Stammbaum Wurf Red x Nora ansehen" aria-label="Vollständigen Stammbaum des Wurfes vom 9. Februar 2026 auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">auf SBTPedigree ansehen</a></p>
   </article>
   
   <!-- Wurf 2: Bilquis × Luis - AUSVERKAUFT -->
@@ -202,7 +202,7 @@ custom_content: |
   </div>
   </div>
   
-  <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4555572&DAM=4496127&generation=4&dogs_id=4555573" target="_blank" rel="noopener" title="Stammbaum Wurf Bilquis x Luis ansehen" aria-label="Stammbaum ansehen von Il lupo perde il pelo ma non il vizio – Luis (wird in einem neuen Tab geöffnet)">auf SBTPedigree ansehen</a></p>
+  <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4555572&DAM=4496127&generation=4&dogs_id=4555573" target="_blank" rel="noopener" title="Stammbaum Wurf Bilquis x Luis ansehen" aria-label="Vollständigen Stammbaum des Wurfes vom 2. Mai 2025 auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">auf SBTPedigree ansehen</a></p>
   </article>
   
   <!-- Wurf 3: Prospect × Bean - AUSVERKAUFT -->
@@ -238,7 +238,7 @@ custom_content: |
   </div>
   </div>
   
-  <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4483601&DAM=4538599&generation=4&dogs_id=4547824" target="_blank" rel="noopener" title="Stammbaum Wurf Prospect x Bean ansehen" aria-label="Stammbaum ansehen von Lackyle Bean Croí Olc (wird in einem neuen Tab geöffnet)">auf SBTPedigree ansehen</a></p>
+  <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4483601&DAM=4538599&generation=4&dogs_id=4547824" target="_blank" rel="noopener" title="Stammbaum Wurf Prospect x Bean ansehen" aria-label="Vollständigen Stammbaum des Wurfes vom 1. Februar 2025 auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">auf SBTPedigree ansehen</a></p>
   </article>
   
   </div>

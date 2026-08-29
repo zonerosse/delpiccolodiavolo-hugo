@@ -158,7 +158,7 @@ Bilquis — Ecocardio Doppler
 </div>
 </div>
 
-<p style="margin-top:1.5rem"><strong>Pedigree della cucciolata:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" class="sbt-link" aria-label="Vedi il pedigree di Bilquis Goddess Diabhal (si apre in una nuova scheda)">Vedi su SBTPedigree →</a></p>
+<p style="margin-top:1.5rem"><strong>Pedigree della cucciolata:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" class="sbt-link" aria-label="Vedi il pedigree completo della cucciolata su SBTPedigree (si apre in una nuova scheda)">Vedi su SBTPedigree →</a></p>
 
 
 ## Contatti

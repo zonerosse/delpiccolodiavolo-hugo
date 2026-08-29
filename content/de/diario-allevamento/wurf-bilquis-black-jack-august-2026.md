@@ -158,7 +158,7 @@ Bilquis — Doppler-Echokardiographie
 </div>
 </div>
 
-<p style="margin-top:1.5rem"><strong>Stammbaum des Wurfs:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" class="sbt-link" aria-label="Stammbaum ansehen von Bilquis Goddess Diabhal (wird in einem neuen Tab geöffnet)">Auf SBTPedigree ansehen →</a></p>
+<p style="margin-top:1.5rem"><strong>Stammbaum des Wurfs:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" class="sbt-link" aria-label="Vollständigen Stammbaum des Wurfes auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">Auf SBTPedigree ansehen →</a></p>
 
 ## Kontakt
 

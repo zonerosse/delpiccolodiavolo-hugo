@@ -21,7 +21,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/cuccioli-staffordshire-bull-terrier-hero.avif" alt="Staffordshire Bull Terrier puppies from Del Piccolo Diavolo kennel, born and raised at home in Ostellato, Italy" width="900" height="1200" fetchpriority="high" decoding="sync">
+  <img src="/images/cuccioli-staffordshire-bull-terrier-hero.avif" alt="Staffordshire Bull Terrier puppies from Del Piccolo Diavolo kennel, born and raised at home in Ostellato, Italy" width="900" height="1200" fetchpriority="high" decoding="sync" srcset="/images/cuccioli-staffordshire-bull-terrier-hero-400w.avif 400w, /images/cuccioli-staffordshire-bull-terrier-hero-800w.avif 800w, /images/cuccioli-staffordshire-bull-terrier-hero.avif 900w" sizes="(max-width: 900px) 100vw, 900px">
   </div>
   </div>
   <div class="hero-content">
