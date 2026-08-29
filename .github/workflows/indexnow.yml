@@ -1,0 +1,84 @@
+name: Segnala le pagine a IndexNow
+
+# Avvisa Bing (e quindi ChatGPT in modalita' navigazione, Copilot e Yandex)
+# che il sito e' cambiato, invece di aspettare che passino a controllare.
+#
+# COME FUNZIONA
+# -------------
+# Dopo ogni push su main, aspetta qualche minuto che Cloudflare pubblichi,
+# poi legge sitemap.xml e manda l'elenco delle URL a IndexNow.
+#
+# INSTALLAZIONE: nessuna. La chiave e' gia' nel repository, in
+# static/6ddc5a9e8d861ef5b8263d15a72183d9.txt, e viene pubblicata insieme
+# al sito. IndexNow la legge da li' per verificare che il dominio sia tuo.
+#
+# Per lanciarlo a mano: GitHub -> Actions -> questo workflow -> "Run workflow".
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'content/**'
+      - 'layouts/**'
+      - 'static/**'
+      - 'assets/**'
+      - 'hugo.toml'
+  workflow_dispatch:
+
+jobs:
+  segnala:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Aspetta che Cloudflare pubblichi
+        run: sleep 180
+
+      - name: Leggi la sitemap e manda le URL
+        env:
+          HOST: delpiccolodiavolo.it
+          KEY: 6ddc5a9e8d861ef5b8263d15a72183d9
+        run: |
+          set -e
+          echo "Scarico la sitemap..."
+          curl -sS --retry 3 --retry-delay 10 "https://$HOST/sitemap.xml" -o sitemap.xml
+
+          # Hugo genera un indice di sitemap per lingua: raccolgo le URL da tutte.
+          grep -oP '(?<=<loc>)[^<]+' sitemap.xml > tutte.txt
+          if grep -q 'sitemap.xml' tutte.txt; then
+            > urls.txt
+            while read -r s; do
+              curl -sS "$s" | grep -oP '(?<=<loc>)[^<]+' >> urls.txt || true
+            done < tutte.txt
+          else
+            cp tutte.txt urls.txt
+          fi
+
+          sort -u urls.txt | grep -v '\.xml$' > finali.txt
+          TOT=$(wc -l < finali.txt)
+          echo "URL trovate: $TOT"
+          if [ "$TOT" -eq 0 ]; then echo "Nessuna URL, mi fermo."; exit 1; fi
+
+          # IndexNow accetta al massimo 10.000 URL per chiamata.
+          python3 - <<'PY' > payload.json
+          import json
+          urls = [l.strip() for l in open("finali.txt") if l.strip()][:10000]
+          print(json.dumps({
+            "host": "delpiccolodiavolo.it",
+            "key": "6ddc5a9e8d861ef5b8263d15a72183d9",
+            "keyLocation": "https://delpiccolodiavolo.it/6ddc5a9e8d861ef5b8263d15a72183d9.txt",
+            "urlList": urls
+          }))
+          PY
+
+          echo "Invio a IndexNow..."
+          CODE=$(curl -sS -o risposta.txt -w '%{http_code}' \
+            -X POST "https://api.indexnow.org/IndexNow" \
+            -H "Content-Type: application/json; charset=utf-8" \
+            --data @payload.json)
+          echo "Risposta: $CODE"
+          cat risposta.txt || true
+
+          # 200 e 202 sono entrambi esiti buoni.
+          case "$CODE" in
+            200|202) echo "Segnalazione accettata." ;;
+            *) echo "IndexNow ha risposto $CODE"; exit 1 ;;
+          esac

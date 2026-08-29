@@ -20,22 +20,33 @@ In questo articolo ti spiego esattamente cosa include quel prezzo, perché i cuc
 
 Quando acquisti da un allevatore responsabile, il prezzo include:
 
-**Documentazione e registrazioni:**
-- Pedigree ENCI (certificato di iscrizione al Libro Origini)
-- Microchip già inserito e registrato
-- Libretto sanitario completo
-- Contratto di vendita con garanzie scritte
-
-**Salute e prevenzione:**
-- Prime vaccinazioni (almeno due richiami)
-- Sverminazioni complete
-- Visita veterinaria pre-cessione
-- Genitori testati DNA per L2HGA e HC (le due malattie genetiche della razza)
-
-**Supporto:**
-- Consulenza pre-acquisto per capire se lo Staffy fa per te
-- Kit di avvio (campione crocchette, informazioni sull'alimentazione)
-- Assistenza post-vendita per tutta la vita del cane
+<table>
+<thead>
+<tr><th>Ambito</th><th>Cosa comprende</th><th>Come si verifica</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Documenti</strong></td>
+<td>Pedigree ENCI, microchip inserito e registrato, libretto sanitario, contratto scritto</td>
+<td>Originali in mano durante la visita, non fotocopie</td>
+</tr>
+<tr>
+<td><strong>Salute</strong></td>
+<td>Prime vaccinazioni con almeno due richiami, sverminazioni, visita veterinaria prima della consegna</td>
+<td>Date e timbri sul libretto</td>
+</tr>
+<tr>
+<td><strong>Genetica dei genitori</strong></td>
+<td>Test del DNA per L2HGA e HC su entrambi i riproduttori</td>
+<td>Referto di laboratorio con il microchip del cane</td>
+</tr>
+<tr>
+<td><strong>Supporto</strong></td>
+<td>Confronto prima dell'affido, indicazioni sull'alimentazione, assistenza per tutta la vita del cane</td>
+<td>Si valuta dalle domande che l'allevatore fa a te</td>
+</tr>
+</tbody>
+</table>
 
 Questi non sono optional. Sono il minimo che un allevatore serio deve garantire.
 
@@ -70,54 +81,61 @@ Il cucciolo pagato poco può facilmente diventare un cane da migliaia di euro di
 
 Il prezzo di un cucciolo non paga solo vaccinazioni e pedigree. Paga un modo completamente diverso di allevare.
 
-**Dove vivono i cuccioli:**
-
-Da un cagnaro: in box, gabbie, garage. Vedono l'allevatore quando porta il cibo.
-
-Da un allevatore serio: in casa, con la famiglia. Dormono sul divano, sentono l'aspirapolvere, vedono bambini, ospiti, vivono la vita quotidiana. A 8 settimane hanno già visto il mondo.
-
-**Come vengono seguiti:**
-
-Da un cagnaro: sono numeri. Più cucciolate possibili, meno spese possibili, massimo profitto.
-
-Da un allevatore serio: ogni cane esce a passeggiare individualmente. Conosce il paese, le persone, i rumori. Non è uno dei tanti: è parte della famiglia.
-
-**Cosa mangiano:**
-
-Da un cagnaro: crocchette da discount, le più economiche disponibili.
-
-Da un allevatore serio: alimentazione di qualità, calibrata per la crescita. Perché quello che mangia un cucciolo nei primi mesi influenza la sua salute per tutta la vita.
-
-**La selezione:**
-
-Da un cagnaro: si accoppia quello che c'è. L'importante è che siano "di razza" (forse).
-
-Da un allevatore serio: si studiano i pedigree, si scelgono linee di sangue complementari, si punta a migliorare la razza. I riproduttori sono testati, selezionati, spesso titolati in esposizione.
+<table>
+<thead>
+<tr><th></th><th>Chi fa numeri</th><th>Chi seleziona</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Dove vivono i cuccioli</strong></td>
+<td>Box, gabbie, garage. Vedono l'allevatore quando porta il cibo</td>
+<td>In casa, con la famiglia. A otto settimane hanno già sentito l'aspirapolvere, visto bambini e ospiti</td>
+</tr>
+<tr>
+<td><strong>Come vengono seguiti</strong></td>
+<td>Più cucciolate possibili, meno spese possibili</td>
+<td>Ogni cane esce a passeggiare da solo. Conosce il paese, le persone, i rumori</td>
+</tr>
+<tr>
+<td><strong>Cosa mangiano</strong></td>
+<td>Le crocchette più economiche disponibili</td>
+<td>Alimentazione calibrata sulla crescita, perché i primi mesi pesano su tutta la vita</td>
+</tr>
+<tr>
+<td><strong>La selezione</strong></td>
+<td>Si accoppia quello che c'è, purché sia della razza</td>
+<td>Pedigree studiati, linee complementari, riproduttori testati e spesso titolati</td>
+</tr>
+</tbody>
+</table>
 
 ## Come riconoscere un cagnaro
 
 Alcuni segnali d'allarme:
 
-**Sul prezzo:**
-- Prezzo molto sotto la media della razza
-- Sconti se prendi subito
-- Prezzo diverso "con o senza pedigree" (il pedigree non è un optional)
-
-**Sulla comunicazione:**
-- Non vuole che tu veda dove vivono i cani
-- Non ti fa domande sulla tua situazione (casa, famiglia, esperienza)
-- Ha sempre cuccioli disponibili di tutte le età
-- Ti mette fretta ("ne è rimasto solo uno")
-
-**Sulla documentazione:**
-- Non mostra i test genetici dei genitori (o dice che "non servono")
-- Pedigree "in arrivo" o "lo mando dopo"
-- Nessun contratto di vendita
-
-**Sui cani:**
-- Non puoi vedere la madre con i cuccioli
-- I genitori sembrano spaventati o aggressivi
-- Troppe femmine, troppe cucciolate
+<table>
+<thead>
+<tr><th>Ambito</th><th>Segnali d'allarme</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Cifre</strong></td>
+<td>Molto sotto la media della razza; sconti per decidere subito; cifre diverse "con o senza pedigree", che invece non è un accessorio</td>
+</tr>
+<tr>
+<td><strong>Come ti parla</strong></td>
+<td>Non vuole farti vedere dove vivono i cani; non ti fa domande su casa, famiglia ed esperienza; ha sempre cuccioli di ogni età; ti mette fretta</td>
+</tr>
+<tr>
+<td><strong>Documenti</strong></td>
+<td>Non mostra i test dei genitori, o dice che non servono; pedigree "in arrivo"; nessun contratto scritto</td>
+</tr>
+<tr>
+<td><strong>I cani</strong></td>
+<td>Non puoi vedere la madre insieme ai cuccioli; i genitori sembrano spaventati o aggressivi; troppe femmine e troppe cucciolate</td>
+</tr>
+</tbody>
+</table>
 
 Se anche solo uno di questi segnali è presente: scappa.
 

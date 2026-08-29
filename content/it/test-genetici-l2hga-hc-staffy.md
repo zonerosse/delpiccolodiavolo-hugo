@@ -180,13 +180,19 @@ custom_content: |
   </tbody>
   </table>
   
-  <div class="info-box">
-  <p class="info-box-title">🧬 La Genetica degli Accoppiamenti</p>
-  <p>CLEAR × CLEAR = 100% cuccioli CLEAR<br>
-  CLEAR × CARRIER = 50% CLEAR, 50% CARRIER (tutti sani)<br>
-  CARRIER × CARRIER = 25% CLEAR, 50% CARRIER, <strong>25% AFFECTED</strong> ⚠️<br>
-  CLEAR × AFFECTED = 100% CARRIER (tutti sani, ma tutti portatori)</p>
-  </div>
+  <table>
+  <thead>
+  <tr><th>Accoppiamento</th><th>Cuccioli attesi</th><th>Cuccioli malati</th><th>Ammissibile</th></tr>
+  </thead>
+  <tbody>
+  <tr><td>CLEAR × CLEAR</td><td>100% CLEAR</td><td>0%</td><td>✅ Sì</td></tr>
+  <tr><td>CLEAR × CARRIER</td><td>50% CLEAR, 50% CARRIER</td><td>0%</td><td>✅ Sì, tutti sani</td></tr>
+  <tr><td>CLEAR × AFFECTED</td><td>100% CARRIER</td><td>0%</td><td>⚠️ Sani, ma tutti portatori</td></tr>
+  <tr><td>CARRIER × CARRIER</td><td>25% CLEAR, 50% CARRIER</td><td><strong>25% AFFECTED</strong></td><td>❌ No</td></tr>
+  </tbody>
+  </table>
+
+  <p>L'ultima riga è la ragione per cui i test servono: due cani sani, accoppiati fra loro, producono un cucciolo malato su quattro.</p>
   
   <h2>Cosa Chiedere all'Allevatore</h2>
   
@@ -271,22 +277,33 @@ custom_content: |
   
   <p>Alcuni potrebbero chiedersi se tutti questi test siano davvero necessari. Facciamo un confronto economico.</p>
   
-  <h3>Costo della Prevenzione (per l'allevatore)</h3>
-  
-  <ul>
-  <li>Pacchetto genetico L2HGA + HC in laboratorio: ~120€ per cane</li>
-  <li>(i due test sono compresi nello stesso pacchetto)</li>
-  <li>Prelievo, spedizione e visita oculistica per il PHPV: il resto della spesa</li>
-  <li><strong>Totale reale per coppia riproduttrice: ~800€</strong></li>
-  </ul>
-  
-  <h3>Costo della Malattia (per l'acquirente)</h3>
-  
-  <ul>
-  <li>Gestione di un cane con L2-HGA: farmaci antiepilettici a vita (200-400€/mese), visite neurologiche frequenti, qualità di vita compromessa, spesso eutanasia precoce</li>
-  <li>Chirurgia per cataratta: 2.000-4.000€ per occhio, più cure post-operatorie</li>
-  <li>Impatto emotivo: incalcolabile</li>
-  </ul>
+  <table>
+  <thead>
+  <tr><th>Voce</th><th>Chi la sostiene</th><th>Quando</th><th>Ordine di grandezza</th></tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td>Pacchetto L2HGA + HC in laboratorio</td><td>Allevatore</td><td>Una volta per cane</td><td>circa 120 € a cane</td>
+  </tr>
+  <tr>
+  <td>Prelievo, spedizione e visita oculistica per il PHPV</td><td>Allevatore</td><td>Una volta per cane</td><td>il resto della spesa</td>
+  </tr>
+  <tr>
+  <td><strong>Totale per una coppia riproduttrice</strong></td><td>Allevatore</td><td>Prima dell'accoppiamento</td><td><strong>circa 800 €</strong></td>
+  </tr>
+  <tr>
+  <td>Farmaci antiepilettici per un cane con L2-HGA</td><td>Famiglia</td><td>Per tutta la vita del cane</td><td>200-400 € al mese</td>
+  </tr>
+  <tr>
+  <td>Visite neurologiche e gestione quotidiana</td><td>Famiglia</td><td>Ricorrente, spesso fino all'eutanasia precoce</td><td>variabile</td>
+  </tr>
+  <tr>
+  <td>Chirurgia per cataratta ereditaria</td><td>Famiglia</td><td>Una o due volte</td><td>2.000-4.000 € per occhio</td>
+  </tr>
+  </tbody>
+  </table>
+
+  <p>Il confronto non è fra due spese simili. Ottocento euro spesi una volta prima dell'accoppiamento stanno sullo stesso piano di una spesa mensile che dura quanto il cane.</p>
   
   <p>La differenza è evidente. Un allevatore che risparmia sui test genetici sta trasferendo un rischio enorme sulle spalle dell'acquirente.</p>
   

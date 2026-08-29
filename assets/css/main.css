@@ -109,3 +109,12 @@ letter-spacing:.03em;padding:.55rem 1.5rem;text-transform:uppercase}
   background:#5c4a3a;color:#fff;padding:12px 20px;border-radius:0 0 9px 0;
   font-weight:700;text-decoration:none}
 .salta-contenuto:focus{left:0}
+
+/* === TABELLE DEI CONTENUTI === */
+.article-content table,.section-inner table,.content-single table{width:100%;border-collapse:collapse;margin:1.75rem 0;font-size:.88rem;background:#fff;border:1px solid rgba(139,115,85,.15);border-radius:10px;display:block;overflow-x:auto;white-space:normal}
+.article-content thead,.section-inner thead,.content-single thead{background:#f5ebe0}
+.article-content th,.section-inner th,.content-single th{text-align:left;font-family:inherit;font-weight:700;font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;color:#5c4a3a;padding:.8rem .9rem;border-bottom:1px solid rgba(139,115,85,.2);vertical-align:bottom}
+.article-content td,.section-inner td,.content-single td{padding:.8rem .9rem;border-bottom:1px solid rgba(139,115,85,.08);color:#4a3f35;line-height:1.6;vertical-align:top;min-width:130px}
+.article-content tbody tr:last-child td,.section-inner tbody tr:last-child td,.content-single tbody tr:last-child td{border-bottom:0}
+.article-content tbody tr:nth-child(even),.section-inner tbody tr:nth-child(even),.content-single tbody tr:nth-child(even){background:#faf8f5}
+.article-content td strong,.section-inner td strong,.content-single td strong{color:#5c4a3a}
