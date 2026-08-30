@@ -27,7 +27,7 @@
 /*.js
   Cache-Control: public, max-age=31536000, immutable
 
-# Alternativa Markdown dichiarata nell'intestazione HTTP
-{{ range .Site.AllPages }}{{ $p := . }}{{ with .OutputFormats.Get "MARKDOWN" }}{{ $p.RelPermalink }}
-  Link: <{{ .Permalink }}>; rel="alternate"; type="text/markdown"
-{{ end }}{{ end }}
+# NOTA: l'alternativa Markdown non e' piu' dichiarata qui con una regola per
+# pagina. Cloudflare Pages applica al massimo 100 regole di _headers e le
+# restanti vengono scartate in silenzio. La stessa informazione e' gia' nel
+# <head> di ogni pagina come <link rel="alternate" type="text/markdown">.
