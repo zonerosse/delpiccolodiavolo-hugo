@@ -94,7 +94,7 @@ Die Eltern sind auf die wichtigsten genetischen Erkrankungen der Rasse getestet:
 <div style="display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));margin:1.5rem 0">
 
   <div style="background:#fff;border:1px solid #e2ddd6;border-radius:10px;padding:1.25rem">
-    <span style="display:inline-block;background:#5c4a3a;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Vater</span>
+    <span style="display:inline-block;background:#5c4a3a;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Vater</span><span style="display:inline-block;background:#8b7300;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px;margin-left:.35rem">★ Weltsieger 2023</span>
     <p style="margin:.6rem 0 .3rem;font-weight:700">Quash Marvelous Hagler de Stafflorence</p>
     <p style="margin:0 0 .9rem;font-size:.82rem;color:#666;line-height:1.5">Rüde, geboren am 26.02.2021 — Mikrochip 380260160176743<br>Antagene (La Tour de Salvagny, Frankreich) — Befund A00046270, validiert am 08.09.2023</p>
     <ul style="margin:0;padding-left:1.1rem;font-size:.92rem">

@@ -94,7 +94,7 @@ I genitori sono testati per le principali patologie genetiche della razza:
 <div style="display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));margin:1.5rem 0">
 
   <div style="background:#fff;border:1px solid #e2ddd6;border-radius:10px;padding:1.25rem">
-    <span style="display:inline-block;background:#5c4a3a;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Padre</span>
+    <span style="display:inline-block;background:#5c4a3a;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Padre</span><span style="display:inline-block;background:#8b7300;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px;margin-left:.35rem">★ Campione del Mondo 2023</span>
     <p style="margin:.6rem 0 .3rem;font-weight:700">Quash Marvelous Hagler de Stafflorence</p>
     <p style="margin:0 0 .9rem;font-size:.82rem;color:#666;line-height:1.5">Maschio, nato il 26/02/2021 — microchip 380260160176743<br>Antagene (La Tour de Salvagny, Francia) — referto A00046270, validato l'08/09/2023</p>
     <ul style="margin:0;padding-left:1.1rem;font-size:.92rem">
