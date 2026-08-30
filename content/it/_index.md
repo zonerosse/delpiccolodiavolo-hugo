@@ -98,7 +98,7 @@ custom_content: |
   <span class="section-label">Selezione</span>
   <h2 class="section-title">Come nasce una cucciolata, dalla scelta dei genitori all’affido</h2>
 
-  <p style="max-width:760px;margin:0 auto 2rem;color:#5c4a3a;line-height:1.8">Ogni cucciolata comincia molto prima dell'accoppiamento: dalla scelta dei due riproduttori, dai test genetici di entrambi e dalla verifica che le linee si completino invece di sommare gli stessi difetti. Poi vengono le otto settimane in casa, dove i cuccioli incontrano rumori, persone e altri animali mentre il cervello è ancora in formazione. E infine l'abbinamento con la famiglia, che proponiamo noi dopo aver osservato i caratteri: il cucciolo più intraprendente non è quasi mai quello giusto.</p>
+  <p style="max-width:760px;margin:0 0 2rem;color:#5c4a3a;line-height:1.8">Ogni cucciolata comincia molto prima dell'accoppiamento: dalla scelta dei due riproduttori, dai test genetici di entrambi e dalla verifica che le linee si completino invece di sommare gli stessi difetti. Poi vengono le otto settimane in casa, dove i cuccioli incontrano rumori, persone e altri animali mentre il cervello è ancora in formazione. E infine l'abbinamento con la famiglia, che proponiamo noi dopo aver osservato i caratteri: il cucciolo più intraprendente non è quasi mai quello giusto.</p>
 
   
 
