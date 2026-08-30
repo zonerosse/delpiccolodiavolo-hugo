@@ -17,14 +17,14 @@
 </ul>
 <div class="nav-lang">
 {{ if eq .Site.Language.Lang "it" }}
-<a href="/en/" title="English">EN</a>
-<a href="/de/" title="Deutsch">DE</a>
+<a href="/en/" hreflang="en" lang="en" title="English" aria-label="Switch to English">EN</a>
+<a href="/de/" hreflang="de" lang="de" title="Deutsch" aria-label="Zur deutschen Version wechseln">DE</a>
 {{ else if eq .Site.Language.Lang "en" }}
-<a href="/" title="Italiano">IT</a>
-<a href="/de/" title="Deutsch">DE</a>
+<a href="/" hreflang="it" lang="it" title="Italiano" aria-label="Passa alla versione italiana">IT</a>
+<a href="/de/" hreflang="de" lang="de" title="Deutsch" aria-label="Zur deutschen Version wechseln">DE</a>
 {{ else }}
-<a href="/" title="Italiano">IT</a>
-<a href="/en/" title="English">EN</a>
+<a href="/" hreflang="it" lang="it" title="Italiano" aria-label="Passa alla versione italiana">IT</a>
+<a href="/en/" hreflang="en" lang="en" title="English" aria-label="Switch to English">EN</a>
 {{ end }}
 </div>
 <a href="https://wa.me/{{ .Site.Params.whatsapp }}?text={{ T "whatsapp_text" | urlquery }}" class="nav-cta" title="WhatsApp" style="min-height:44px;padding:0.75rem 1.5rem;display:inline-flex;align-items:center;justify-content:center" aria-label="Contattaci su WhatsApp dal menu di navigazione">WhatsApp</a>
@@ -54,8 +54,8 @@
 <a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "reviews/" (cond (eq .Site.Language.Lang "de") "bewertungen/" "recensioni/")) "") | relLangURL }}" title="{{ T "recensioni" }}">{{ T "recensioni" }}</a>
 <a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "contact/" (cond (eq .Site.Language.Lang "de") "kontakt/" "allevamento-staffordshire-bull-terrier-in-emilia-romagna/")) "") | relLangURL }}" title="{{ T "contatti" }}">{{ T "contatti" }}</a>
 <div style="margin-top: 1rem; display: flex; gap: 1rem;">
-<a href="/" style="font-size: .9rem; {{ if eq .Site.Language.Lang "it" }}font-weight: bold; color: #8b5a2b;{{ end }}">Italiano</a>
-<a href="/en/" style="font-size: .9rem; {{ if eq .Site.Language.Lang "en" }}font-weight: bold; color: #8b5a2b;{{ end }}">English</a>
-<a href="/de/" style="font-size: .9rem; {{ if eq .Site.Language.Lang "de" }}font-weight: bold; color: #8b5a2b;{{ end }}">Deutsch</a>
+<a href="/" hreflang="it" lang="it" style="font-size: .9rem; {{ if eq .Site.Language.Lang "it" }}font-weight: bold; color: #8b5a2b;{{ end }}">Italiano</a>
+<a href="/en/" hreflang="en" lang="en" style="font-size: .9rem; {{ if eq .Site.Language.Lang "en" }}font-weight: bold; color: #8b5a2b;{{ end }}">English</a>
+<a href="/de/" hreflang="de" lang="de" style="font-size: .9rem; {{ if eq .Site.Language.Lang "de" }}font-weight: bold; color: #8b5a2b;{{ end }}">Deutsch</a>
 </div>
 </div>
