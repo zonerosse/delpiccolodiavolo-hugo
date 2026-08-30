@@ -42,7 +42,7 @@ custom_content: |
   
   <div class="legal-section">
   <h3>2. Arten der erhobenen Daten</h3>
-  <p><strong>Wichtig:</strong> Diese Website verwendet keine Tracking-Cookies, Profiling-Cookies oder cookiebasierten Analysesysteme. Das einzige Formular auf der Website ist das freiwillige Warteliste-Formular, das in Abschnitt 9 ausführlich beschrieben wird.</p>
+  <p><strong>Wichtig:</strong> Diese Website verwendet keine Tracking-Cookies, Profiling-Cookies oder cookiebasierten Analysesysteme. Die Website zeigt kein Kontaktformular: Daten erreichen uns, wenn Sie schreiben oder anrufen, oder über das unter Punkt 9 beschriebene Reservierungsformular, dessen Link wir auf Anfrage versenden.</p>
   <p>Personenbezogene Daten werden NUR erhoben, wenn Sie uns freiwillig kontaktieren über:</p>
   <ul>
   <li>Telefon: +39 392 4635584</li>
@@ -95,9 +95,9 @@ custom_content: |
   <ul>
   <li>Tierärzte oder Fachleute im Hundebereich, nur wenn für die Gesundheit des Welpen erforderlich</li>
   <li>Öffentliche Behörden (ENCI, Veterinäramt) zur Erfüllung gesetzlicher Pflichten</li>
-  <li>Kuriere oder Transportunternehmen für die Welpenlieferung</li>
-  </ul>
-  <p>Daten werden NICHT in Länder außerhalb der EU übertragen.</p>
+  <li>Google Ireland Limited als Auftragsverarbeiter, ausschließlich für die Daten des Reservierungsformulars (siehe Punkt 9)</li>
+    </ul>
+  <p>Daten werden NICHT in Länder außerhalb der EU übertragen. Für Vermittlungen in andere EU-Länder gelten die unter Punkt 10 beschriebenen Weitergaben.</p>
   </div>
   
   <div class="legal-section">
@@ -124,28 +124,49 @@ custom_content: |
   Website: <a href="https://www.garanteprivacy.it" target="_blank" rel="noopener" title="Website der italienischen Datenschutzbehörde" aria-label="Website der italienischen Datenschutzbehörde (wird in einem neuen Tab geöffnet)">www.garanteprivacy.it</a></p>
   </div>
   
+  
   <div class="legal-section">
-  <h3>9. Formular &bdquo;Warteliste&ldquo;</h3>
-  <p>Diese Website bietet ein freiwilliges Formular an, um bei kommenden W&uuml;rfen kontaktiert zu werden.</p>
-  <p><strong>Erhobene Daten:</strong> Vor- und Nachname, E-Mail-Adresse, gegebenenfalls Telefonnummer sowie die Angaben, die Sie freiwillig machen (gesuchter Welpe, Geschlechtspr&auml;ferenz, Zeitrahmen, Erfahrung mit Hunden, freie Anmerkungen).</p>
-  <p><strong>Zweck:</strong> ausschlie&szlig;lich die Kontaktaufnahme zur Verf&uuml;gbarkeit von Welpen und die Beantwortung Ihrer Fragen. Ihre Daten werden nicht f&uuml;r Newsletter, automatisiertes Marketing oder Profiling verwendet.</p>
+  <h3>9. Reservierungsformular</h3>
+  <p>Wir verwenden ein Formular, um die Angaben derjenigen zu erfassen, die einen Welpen reservieren möchten. <strong>Es ist nicht auf der Website veröffentlicht und über die Menüs nicht erreichbar:</strong> es liegt unter <code>/prenota/</code>, und den Link versendet der Verantwortliche auf Anfrage an Personen, die bereits mit der Zucht in Kontakt standen.</p>
+  <p><strong>Erhobene Daten:</strong> Vor- und Nachname, E-Mail-Adresse, gegebenenfalls Telefonnummer sowie die Angaben, die Sie freiwillig machen (gesuchter Welpe, Geschlechtswunsch, Zeitrahmen, Erfahrung mit Hunden, freie Anmerkungen).</p>
+  <p><strong>Zweck:</strong> ausschließlich die Bearbeitung Ihrer Anfrage und die Kontaktaufnahme zu den Welpen. Ihre Daten werden nicht für Newsletter, automatisiertes Marketing oder Profiling verwendet.</p>
   <p><strong>Rechtsgrundlage:</strong> Ihre Einwilligung, die Sie durch Ankreuzen des entsprechenden Feldes vor dem Absenden erteilen (Art. 6 Abs. 1 lit. a DSGVO).</p>
-  <p><strong>Speicherort:</strong> die Eingaben werden in einer Google-Workspace-Tabelle gespeichert, auf die ausschlie&szlig;lich der Verantwortliche Zugriff hat, und als Benachrichtigung an dessen Postfach gesendet. Google Ireland Limited handelt als Auftragsverarbeiter.</p>
-  <p><strong>Speicherdauer:</strong> die Daten werden bis zu 24 Monate ab Absenden gespeichert oder bis zu Ihrem L&ouml;schverlangen, je nachdem was fr&uuml;her eintritt.</p>
-  <p><strong>Weitergabe an Dritte:</strong> keine. Ihre Daten werden nicht verkauft, &uuml;bermittelt oder an andere Z&uuml;chter oder Dritte weitergegeben.</p>
-  <p><strong>Ihre Rechte:</strong> Sie k&ouml;nnen jederzeit Auskunft, Berichtigung, L&ouml;schung, Einschr&auml;nkung oder &Uuml;bertragbarkeit Ihrer Daten verlangen und Ihre Einwilligung widerrufen, indem Sie sich an die in dieser Erkl&auml;rung genannten Kontaktdaten wenden. Der Widerruf ber&uuml;hrt nicht die Rechtm&auml;&szlig;igkeit der zuvor erfolgten Verarbeitung.</p>
-  <p>Das Absenden des Formulars ist v&ouml;llig freiwillig: Sie k&ouml;nnen uns auch &uuml;ber WhatsApp oder telefonisch kontaktieren, ohne Daten auf dieser Website zu hinterlassen.</p>
+  <p><strong>Speicherort:</strong> die Eingaben werden in einer Google-Workspace-Tabelle gespeichert, auf die ausschließlich der Verantwortliche Zugriff hat, und als Benachrichtigung an dessen Postfach gesendet. Google Ireland Limited handelt als Auftragsverarbeiter.</p>
+  <p><strong>Speicherdauer:</strong> bis zu 24 Monate ab Absenden oder bis zu Ihrem Löschverlangen, je nachdem was früher eintritt.</p>
+  <p><strong>Weitergabe an Dritte:</strong> keine. Ihre Daten werden nicht verkauft, übermittelt oder an andere Züchter oder Dritte weitergegeben.</p>
+  <p><strong>Ihre Rechte:</strong> Sie können jederzeit Auskunft, Berichtigung, Löschung, Einschränkung oder Übertragbarkeit Ihrer Daten verlangen und Ihre Einwilligung widerrufen, über die in dieser Erklärung genannten Kontaktdaten. Der Widerruf berührt nicht die Rechtmäßigkeit der zuvor erfolgten Verarbeitung.</p>
+  <p>Das Ausfüllen des Formulars ist völlig freiwillig: Sie können uns dieselben Angaben auch über WhatsApp, E-Mail oder telefonisch mitteilen.</p>
   </div>
 
   <div class="legal-section">
-  <h3>10. Cookies und Tracking-Technologien</h3>
+  <h3>10. Vermittlung ins Ausland</h3>
+  <p>Wenn ein Welpe zu einer Familie in einem anderen Land geht, erfordert das gesundheits- und zuchtbuchrechtliche Verfahren die Weitergabe der Daten des neuen Besitzers an Dritte. Im Einzelnen:</p>
+  <ul>
+  <li>das zuständige <strong>Veterinäramt</strong>, für das Gesundheitszeugnis und die Erfassung im europäischen TRACES-System, die für solche Verbringungen vorgeschrieben ist</li>
+  <li><strong>ENCI</strong>, für die Ausstellung der Export-Ahnentafel, die der Verband direkt an die Anschrift des ausländischen Besitzers schickt</li>
+  <li>der <strong>Zuchtverband des Bestimmungslandes</strong>, wenn der Besitzer die Umschreibung der Ahnentafel beantragt</li>
+  </ul>
+  <p><strong>Rechtsgrundlage:</strong> Erfüllung rechtlicher Verpflichtungen im Bereich Tiergesundheit und Zuchtbuchführung (Art. 6 Abs. 1 lit. c DSGVO) sowie Vertragserfüllung.</p>
+  <p>Diese Weitergaben sind unumgänglich: ohne sie darf der Welpe Italien nicht verlassen und kann im Ankunftsland nicht eingetragen werden. Weitergegeben wird nur, was die Vorschriften verlangen: Name und Anschrift des Besitzers.</p>
+  </div>
+
+  <div class="legal-section">
+  <h3>11. Auf dieser Website veröffentlichte Befunde der Zuchttiere</h3>
+  <p>Wir veröffentlichen die Laborbefunde der in unserer Zucht eingesetzten Hunde: Gentests, kardiologische Untersuchungen und vergleichbare Dokumente. Diese enthalten den Namen des Hundebesitzers, der in einzelnen Fällen nicht der Verantwortliche dieser Website ist.</p>
+  <p><strong>Warum wir sie veröffentlichen:</strong> um unsere Aussagen zur Gesundheit überprüfbar zu machen — bei unseren eigenen Hunden wie bei den Eltern eines Wurfes. Das ist eine Entscheidung, keine Pflicht.</p>
+  <p><strong>Rechtsgrundlage:</strong> bei Hunden, die uns nicht gehören, die ausdrückliche Einwilligung des Besitzers, die vor der Veröffentlichung eingeholt wird (Art. 6 Abs. 1 lit. a DSGVO).</p>
+  <p><strong>Widerruf:</strong> der Besitzer eines Hundes, dessen Unterlagen auf dieser Website erscheinen, kann jederzeit über die in dieser Erklärung genannten Kontaktdaten deren Entfernung verlangen. Die Entfernung erfolgt ohne Angabe von Gründen und so schnell wie möglich.</p>
+  </div>
+
+  <div class="legal-section">
+  <h3>12. Cookies und Tracking-Technologien</h3>
   <p><strong>Diese Website verwendet KEINE Cookies.</strong></p>
   <p>Es werden keine technischen Cookies, Profiling-Cookies, Third-Party-Cookies oder Benutzer-Tracking-Systeme verwendet.</p>
   <p>Die Website erhebt aggregierte Zugriffsstatistiken über <strong>Cloudflare Web Analytics</strong>, das keine Cookies auf Ihrem Gerät setzt, keine Kennungen vergibt und Sie nicht über verschiedene Websites hinweg verfolgt. Aus diesem Grund zeigt die Website kein Einwilligungsbanner: Es gibt nichts, wofür eine Einwilligung erforderlich wäre.</p>
   </div>
   
   <div class="legal-section">
-  <h3>11. Änderungen der Datenschutzerklärung</h3>
+  <h3>13. Änderungen der Datenschutzerklärung</h3>
   <p>Diese Datenschutzerklärung kann regelmäßig aktualisiert werden, um regulatorische Änderungen oder Änderungen in unseren Datenverarbeitungspraktiken widerzuspiegeln.</p>
   <p class="last-updated"><em>Letzte Aktualisierung: August 2026</em></p>
   </div>

@@ -1,0 +1,112 @@
+{{/*
+  prenota.html — modulo unico trilingue, pensato per la pagina /prenota/.
+  Il link non è pubblicato: viene inviato a chi chiede di prenotare.
+  Etichette in italiano, inglese e tedesco sulla stessa riga, così una sola
+  pagina serve a chiunque scriva.
+  Richiede in hugo.toml:  [params] listaAttesaEndpoint = "https://script.google.com/.../exec"
+  Segnaposto da inserire nel custom_content: <!--PRENOTA-->
+*/}}
+{{- $ep := .Site.Params.listaAttesaEndpoint -}}
+{{- $wa := .Site.Params.whatsapp | default "393924635584" -}}
+
+{{- $et := "display:block;font-weight:700;color:#5c4a3a;font-size:.9rem;margin-bottom:.1rem" -}}
+{{- $sub := "display:block;font-weight:400;color:#8a7a66;font-size:.78rem;margin-bottom:.3rem" -}}
+{{- $in := "width:100%;padding:.7rem;border:1px solid #d9cdb8;border-radius:9px;font-size:1rem" -}}
+{{- $se := "width:100%;padding:.7rem;border:1px solid #d9cdb8;border-radius:9px;font-size:1rem;background:#fff" -}}
+
+{{- if $ep }}
+<form id="formPrenota" method="POST" action="{{ $ep }}" style="display:grid;gap:.9rem">
+
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:.9rem">
+
+    <label style="display:block">
+      <span style="{{ $et }}">Nome e cognome</span>
+      <span style="{{ $sub }}">Full name · Vor- und Nachname</span>
+      <input type="text" name="nome" required autocomplete="name" style="{{ $in }}">
+    </label>
+
+    <label style="display:block">
+      <span style="{{ $et }}">Email</span>
+      <span style="{{ $sub }}">Email · E-Mail</span>
+      <input type="email" name="email" required autocomplete="email" style="{{ $in }}">
+    </label>
+
+    <label style="display:block">
+      <span style="{{ $et }}">Telefono o WhatsApp</span>
+      <span style="{{ $sub }}">Phone or WhatsApp · Telefon oder WhatsApp</span>
+      <input type="tel" name="telefono" autocomplete="tel" style="{{ $in }}">
+    </label>
+
+    <label style="display:block">
+      <span style="{{ $et }}">Paese e città</span>
+      <span style="{{ $sub }}">Country and town · Land und Ort</span>
+      <input type="text" name="paese" autocomplete="country-name" style="{{ $in }}">
+    </label>
+
+
+    <label style="display:block">
+      <span style="{{ $et }}">Il cucciolo</span>
+      <span style="{{ $sub }}">The puppy · Der Welpe</span>
+      <select name="sesso" style="{{ $se }}">
+        <option>Ne abbiamo già parlato · Already agreed · Bereits besprochen</option>
+        <option>Maschio · Male · Rüde</option>
+        <option>Femmina · Female · Hündin</option>
+        <option>Decidiamo insieme · Let us decide together · Gemeinsam entscheiden</option>
+      </select>
+    </label>
+
+
+    <label style="display:block">
+      <span style="{{ $et }}">Hai già avuto cani?</span>
+      <span style="{{ $sub }}">Have you had dogs before? · Hatten Sie schon Hunde?</span>
+      <select name="esperienza" style="{{ $se }}">
+        <option>Sì, altre razze · Yes, other breeds · Ja, andere Rassen</option>
+        <option>Sì, anche della razza · Yes, this breed too · Ja, auch diese Rasse</option>
+        <option>È il mio primo cane · This is my first dog · Mein erster Hund</option>
+      </select>
+    </label>
+
+  </div>
+
+  <label style="display:block">
+    <span style="{{ $et }}">Dove vivrà il cane, e con chi</span>
+    <span style="{{ $sub }}">Where the dog will live, and with whom · Wo der Hund leben wird und mit wem</span>
+    <textarea name="note" rows="5" placeholder="Casa, giardino, altri animali, bambini, quante ore resta solo…" style="{{ $in }};font-family:inherit"></textarea>
+  </label>
+
+  {{/* honeypot antispam: invisibile agli umani */}}
+  <input type="text" name="azienda" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px">
+  <input type="hidden" name="ritorno" value="https://delpiccolodiavolo.it/prenota-grazie/">
+  <input type="hidden" name="pagina" value="{{ .Permalink }}">
+
+  <label style="display:flex;gap:.6rem;align-items:flex-start;color:#5c4a3a;font-size:.9rem;line-height:1.5">
+    <input type="checkbox" name="consenso" required value="si" style="margin-top:.25rem;width:18px;height:18px;flex-shrink:0">
+    <span>Ho letto l'informativa privacy e acconsento al trattamento dei miei dati per essere ricontattato.<br>
+    <span style="color:#8a7a66;font-size:.85rem">I have read the privacy notice and consent to the processing of my data. · Ich habe die Datenschutzerklärung gelesen und willige in die Verarbeitung meiner Daten ein.</span><br>
+    <a href="/privacy-policy/" style="color:#8b5a2b;text-decoration:underline">Informativa privacy</a> ·
+    <a href="/en/privacy-policy/" style="color:#8b5a2b;text-decoration:underline">Privacy notice</a> ·
+    <a href="/de/datenschutz/" style="color:#8b5a2b;text-decoration:underline">Datenschutzerklärung</a></span>
+  </label>
+
+  <button type="submit" style="background:#8b5a2b;color:#fff;border:0;padding:.95rem 1.4rem;border-radius:30px;font-weight:800;font-size:1.02rem;cursor:pointer">Invia la prenotazione · Send · Senden</button>
+
+  <p style="margin:0;color:#7a6a58;font-size:.82rem;line-height:1.5">I dati servono solo a ricontattarti. Nessuna newsletter, nessuna cessione a terzi. Puoi chiederne la cancellazione in qualsiasi momento.<br>
+  Your details are used only to contact you. No newsletter, no sharing with third parties. · Ihre Daten werden nur zur Kontaktaufnahme verwendet. Kein Newsletter, keine Weitergabe an Dritte.</p>
+</form>
+
+<script>
+/* Il form funziona anche senza JavaScript: questo blocco blocca solo i bot
+   che compilano il campo trappola. */
+(function(){
+  var f=document.getElementById('formPrenota');
+  if(!f) return;
+  f.addEventListener('submit',function(ev){
+    if(f.azienda && f.azienda.value){ ev.preventDefault(); return false; }
+    var btn=f.querySelector('button[type=submit]');
+    if(btn){ btn.disabled=true; btn.style.opacity='.6'; }
+  });
+})();
+</script>
+{{- else }}
+<p style="color:#8b5a2b"><strong>Modulo non configurato:</strong> manca <code>listaAttesaEndpoint</code> in hugo.toml.</p>
+{{- end }}

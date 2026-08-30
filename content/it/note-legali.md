@@ -65,7 +65,7 @@ custom_content: |
   <li>Trattamenti antiparassitari</li>
   <li>Certificato di buona salute veterinaria</li>
   </ul>
-  <p><strong>Consegna:</strong> I cuccioli vengono consegnati non prima dei 60 giorni di età, come previsto dalla normativa vigente.</p>
+  <p><strong>Consegna:</strong> I cuccioli vengono consegnati non prima dei 60 giorni di età, come previsto dalla normativa vigente. La consegna avviene esclusivamente presso l'allevamento, di persona: non effettuiamo spedizioni né consegne tramite corriere o trasportatore. Per gli affidi verso altri paesi si applicano requisiti sanitari e documentali ulteriori, fra cui la vaccinazione antirabbica e il certificato sanitario ufficiale, che comportano un'età minima superiore.</p>
   </div>
   
   <div class="legal-section">

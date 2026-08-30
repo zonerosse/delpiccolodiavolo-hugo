@@ -65,7 +65,7 @@ custom_content: |
   <li>Parasitenbehandlungen</li>
   <li>Tierärztliches Gesundheitszeugnis</li>
   </ul>
-  <p><strong>Übergabe:</strong> Welpen werden gemäß der geltenden italienischen Gesetzgebung frühestens im Alter von 60 Tagen übergeben.</p>
+  <p><strong>Übergabe:</strong> Welpen werden gemäß der geltenden italienischen Gesetzgebung frühestens im Alter von 60 Tagen übergeben. Die Übergabe erfolgt ausschließlich persönlich in der Zuchtstätte: wir versenden nicht und setzen keine Kuriere oder Transportunternehmen ein. Für Vermittlungen ins Ausland gelten zusätzliche gesundheits- und dokumentenrechtliche Anforderungen, darunter die Tollwutimpfung und das amtliche Gesundheitszeugnis, wodurch sich das Mindestalter entsprechend erhöht.</p>
   </div>
   
   <div class="legal-section">

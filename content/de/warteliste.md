@@ -1,5 +1,6 @@
 ---
 title: "Warteliste für Welpen"
+noindex: true
 tipoPagina: "ContactPage"
 titleSeo: "Warteliste für Staffordshire Bull Terrier Welpen"
 translationKey: "lista-attesa"
