@@ -121,7 +121,7 @@ I genitori sono testati per le principali patologie genetiche della razza:
 <p style="font-size:.9rem;color:#555;border-left:3px solid #5c4a3a;padding-left:1rem;margin:1.5rem 0">Entrambi i genitori sono omozigoti normali per L2HGA e cataratta ereditaria: nessuno dei due possiede l'allele difettoso, quindi Black Jack non può averlo ereditato. Iperuricosuria e MDR1 sono testati sul solo padre e per questi due il figlio non è dichiarabile esente per discendenza.</p>
 
 <div style="background:linear-gradient(135deg,#5c4a3a 0%,#8b7355 100%);padding:2rem;border-radius:12px;margin:2rem 0;color:#fff">
-<h3 style="margin:0 0 1rem;font-size:1.1rem;font-family:inherit;font-weight:600;display:flex;align-items:center;gap:.5rem">
+<h3 style="margin:0 0 1rem;font-size:1.1rem;font-family:inherit;font-weight:600;color:#fff;display:flex;align-items:center;gap:.5rem">
 <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
 Test Genetici Verificabili
 </h3>
