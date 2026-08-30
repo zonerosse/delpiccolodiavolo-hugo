@@ -3,24 +3,15 @@
 {{- $cta := "Scopri la cucciolata →" -}}
 {{- if eq $lang "en" -}}{{- $badge = "🐾 Latest litter" -}}{{- $cta = "Discover the litter →" -}}{{- end -}}
 {{- if eq $lang "de" -}}{{- $badge = "🐾 Neuester Wurf" -}}{{- $cta = "Zum Wurf →" -}}{{- end -}}
-{{- $listaUrl := "/lista-attesa/" -}}
 {{- $listaTit := "La prossima cucciolata è in programma." -}}
-{{- $listaSub := "Senza impegno né acconto." -}}
 {{- $listaTitCompleta := "Questa cucciolata non è disponibile. La prossima è in programma." -}}
-{{- $listaCta := "Lista d'attesa" -}}
 {{- if eq $lang "en" -}}
-  {{- $listaUrl = "/en/waiting-list/" -}}
   {{- $listaTit = "The next litter is already planned." -}}
   {{- $listaTitCompleta = "This litter is not available. The next one is already planned." -}}
-  {{- $listaSub = "No commitment, no deposit." -}}
-  {{- $listaCta = "Waiting list" -}}
 {{- end -}}
 {{- if eq $lang "de" -}}
-  {{- $listaUrl = "/de/warteliste/" -}}
   {{- $listaTit = "Der nächste Wurf ist bereits geplant." -}}
   {{- $listaTitCompleta = "Dieser Wurf ist nicht verfügbar. Der nächste ist schon geplant." -}}
-  {{- $listaSub = "Ohne Verpflichtung, ohne Anzahlung." -}}
-  {{- $listaCta = "Warteliste" -}}
 {{- end -}}
 {{- with .Site.GetPage "/diario-allevamento" -}}
   {{- range first 1 .RegularPages.ByDate.Reverse -}}

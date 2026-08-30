@@ -1,5 +1,6 @@
 ---
 title: "Puppy waiting list"
+noindex: true
 tipoPagina: "ContactPage"
 titleSeo: "Staffordshire Bull Terrier puppy waiting list"
 translationKey: "lista-attesa"

@@ -7,7 +7,7 @@
 {{ if .Params.custom_content }}
   {{ $c := replace .Params.custom_content "<!--CUCCIOLATA-->" (partial "ultima-cucciolata.html" .) }}
   {{ $c = replace $c "<!--CORRELATI-->" (partial "correlati.html" .) }}
-  {{ replace $c "<!--LISTAATTESA-->" (partial "lista-attesa.html" .) | safeHTML }}
+  {{ replace $c "<!--PRENOTA-->" (partial "prenota.html" .) | safeHTML }}
   {{ if not .Params.noindex }}{{ $meta | safeHTML }}{{ end }}
 {{ else }}
   {{ $haH1 := findRE "<h1[ >]" .Content 1 }}

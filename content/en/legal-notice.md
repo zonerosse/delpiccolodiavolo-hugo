@@ -65,7 +65,7 @@ custom_content: |
   <li>Antiparasitic treatments</li>
   <li>Veterinary certificate of good health</li>
   </ul>
-  <p><strong>Release:</strong> Puppies are released no earlier than 60 days of age, as required by current Italian legislation.</p>
+  <p><strong>Release:</strong> Puppies are released no earlier than 60 days of age, as required by current Italian legislation. Puppies are handed over in person at the kennel only: we do not ship and we do not use couriers or transporters. Placements to other countries are subject to further health and documentary requirements, including rabies vaccination and the official health certificate, which raise the minimum age accordingly.</p>
   </div>
   
   <div class="legal-section">

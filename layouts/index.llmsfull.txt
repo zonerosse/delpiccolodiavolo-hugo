@@ -15,7 +15,7 @@
 
 {{ range where (where .Site.RegularPages "Lang" "it") "Params.noindex" "!=" true }}
 {{- $u := .RelPermalink -}}
-{{- if not (or (in $u "/lista-attesa") (in $u "/chiedi-recensione") (in $u "404")) -}}
+{{- if not (or (in $u "/chiedi-recensione") (in $u "404")) -}}
 {{- $c := .Params.custom_content | default .Content -}}
 {{- $c = replaceRE `(?s)<script[^>]*>.*?</script>` "" $c -}}
 {{- $c = replaceRE `(?s)<style[^>]*>.*?</style>` "" $c -}}

@@ -52,19 +52,61 @@ custom_content: |
   <p>Symptoms usually appear between 6 months and 1 year of age, occasionally later. Owners describe episodes of wobbliness and loss of coordination, tremors, muscle stiffness after exercise or excitement, behavioural changes, and in many cases seizures. Between episodes the dog can seem almost normal, which delays diagnosis and gives false hope.</p>
   <p>There is no cure. Management with a modified diet and anticonvulsants can reduce the frequency of episodes, but the condition is progressive and the outlook is poor. For a family who has raised a puppy for a year, it is a devastating diagnosis, and it costs both emotionally and financially for as long as the dog lives.</p>
 
+    <h3>The symptoms</h3>
+  <p>Signs usually appear between six months and the first year of life, occasionally later. They include:</p>
+  <ul>
+  <li>Epileptic seizures, often the first thing an owner notices</li>
+  <li>Ataxia — loss of coordination</li>
+  <li>Tremors, particularly when the dog is excited or under stress</li>
+  <li>Muscle stiffness</li>
+  <li>Difficulty learning, and changes in behaviour</li>
+  <li>Exercise intolerance</li>
+  </ul>
+  <p>The disease is <strong>progressive and incurable</strong>. Affected dogs have a badly compromised quality of life and are frequently euthanised on humane grounds. There is no treatment, only symptomatic management of the seizures — and that is the point: this is an entirely preventable condition, and no puppy should ever be born with it.</p>
+
   <h2>Hereditary cataract: what it is and how it presents</h2>
   <p>Hereditary cataract in this breed, caused by a mutation in the HSF4 gene, is not the age-related cataract seen in older dogs of any breed. It appears early, typically between 4 months and 3 years, and it is bilateral and progressive.</p>
   <p>The lens becomes progressively opaque and the dog loses sight, usually completely, often before its third birthday. Surgery can restore useful vision in selected cases but is expensive, is not always successful, and requires a specialist ophthalmologist. Again, the disease is entirely avoidable by testing before the mating rather than treating after the diagnosis.</p>
 
+    <h3>The symptoms</h3>
+  <p>Hereditary cataract in this breed develops young, from one or two years of age, unlike the senile cataract of old dogs. What you see is:</p>
+  <ul>
+  <li>Visible clouding of the lens — the eye looks veiled or whitish</li>
+  <li>Progressively failing sight</li>
+  <li>The dog bumping into things, or hesitating in poor light</li>
+  <li>Complete blindness in advanced cases</li>
+  </ul>
+  <p>Unlike L2-HGA, cataract can be operated on with good results, but surgery is expensive and the aftercare is demanding. Prevention through testing remains by far the better route.</p>
+
   <h2>How the tests work</h2>
   <p>The tests are DNA based and straightforward. A cheek swab or a small blood sample is taken, ideally by the veterinarian who also verifies the dog's microchip so that the sample is unambiguously linked to that animal, and sent to an accredited laboratory. The result arrives within 2 to 4 weeks and is valid for life: the DNA does not change, so a dog is tested once and never again.</p>
   <p>Costs vary by laboratory and country, but for both tests together expect something in the region of around 120 euros for the genetic panel at the laboratory, rising to roughly 400 per dog once you add the veterinary sampling, the shipping and the eye examination. Compared with the cost of a lifetime of anticonvulsants, or of cataract surgery, or of the grief of a family, it is a trivial figure. It is also the reason no serious breeder considers it a discretionary expense.</p>
+
+    <h3>Where the testing is done</h3>
+  <p>The main laboratories carrying out these tests are the <strong>Animal Health Trust</strong> in the UK, which developed both of them and is now part of The Kennel Club; <strong>Laboklin</strong>, the German laboratory that also operates in Italy; <strong>Optigen</strong> in the United States, specialised in eye conditions; and <strong>Embark</strong>, whose broad panel includes L2-HGA and HC.</p>
+  <p>The sample is a cheek swab or a blood draw taken by a vet, sent to the laboratory, and the certificate comes back with the dog's microchip number on it. That number is what ties the result to a specific animal — a certificate without one proves nothing about the dog in front of you.</p>
 
   <h2>Reading the results</h2>
   <p><strong>Clear</strong> means the dog has two normal copies of the gene. It cannot develop the disease and cannot pass the mutation to its offspring.</p>
   <p><strong>Carrier</strong> means the dog has one normal copy and one mutated copy. It will never develop the disease itself, and it is not a defective animal: a carrier of excellent type and temperament is a perfectly legitimate breeding dog, provided it is only ever mated to a clear partner. Every puppy from such a mating is healthy, though half of them will be carriers in turn.</p>
   <p><strong>Affected</strong> means two mutated copies. The dog will develop the disease and must never be bred.</p>
   <p>The single rule that makes the arithmetic safe is this: <strong>carrier to carrier must never happen</strong>. That mating produces, statistically, one affected puppy in four. Everything else is manageable.</p>
+
+    <h3>The arithmetic of a mating</h3>
+
+  <table>
+  <thead>
+  <tr><th>Mating</th><th>Expected puppies</th><th>Affected</th><th>Acceptable</th></tr>
+  </thead>
+  <tbody>
+  <tr><td>CLEAR × CLEAR</td><td>100% clear</td><td>0%</td><td>Yes</td></tr>
+  <tr><td>CLEAR × CARRIER</td><td>50% clear, 50% carrier</td><td>0%</td><td>Yes, all healthy</td></tr>
+  <tr><td>CLEAR × AFFECTED</td><td>100% carrier</td><td>0%</td><td>Healthy, but all carriers</td></tr>
+  <tr><td>CARRIER × CARRIER</td><td>25% clear, 50% carrier</td><td><strong>25% affected</strong></td><td>No</td></tr>
+  </tbody>
+  </table>
+
+  <p>The last row is the whole reason the tests exist: two healthy dogs, mated together, produce one sick puppy in four.</p>
 
   <h2>Testing by parentage</h2>
   <p>You will often see a pedigree stating that a dog is clear "by parentage" or "hereditarily clear". This means the dog itself has not been tested, but both its parents were tested clear, which makes it genetically impossible for the dog to carry the mutation.</p>
@@ -81,7 +123,55 @@ custom_content: |
   <h2>The cost of prevention against the cost of the disease</h2>
   <p>Testing both parents costs around 800 euros in all, once. The lifetime cost of an L2-HGA affected dog runs into thousands, and the cost of cataract surgery for one eye is comparable to the price of the puppy. But the arithmetic is not really the point. The point is that a family who chose a healthy breed and paid for a pedigree puppy should never be put in that position, when a swab and 3 weeks of waiting would have prevented it entirely.</p>
 
-  <div class="article-footer">
+    <table>
+  <thead>
+  <tr><th>Item</th><th>Who pays</th><th>When</th><th>Order of magnitude</th></tr>
+  </thead>
+  <tbody>
+  <tr><td>L2HGA + HC laboratory panel</td><td>Breeder</td><td>Once per dog</td><td>around €120 per dog</td></tr>
+  <tr><td>Sampling, shipping and the PHPV eye examination</td><td>Breeder</td><td>Once per dog</td><td>the rest of the outlay</td></tr>
+  <tr><td><strong>Total for a breeding pair</strong></td><td>Breeder</td><td>Before the mating</td><td><strong>around €800</strong></td></tr>
+  <tr><td>Anti-epileptic drugs for a dog with L2-HGA</td><td>Family</td><td>For the dog's whole life</td><td>€200–400 a month</td></tr>
+  <tr><td>Neurological appointments and daily management</td><td>Family</td><td>Recurring, often until early euthanasia</td><td>variable</td></tr>
+  <tr><td>Surgery for hereditary cataract</td><td>Family</td><td>Once or twice</td><td>€2,000–4,000 per eye</td></tr>
+  </tbody>
+  </table>
+
+  <p>These are not two comparable expenses. Eight hundred euros spent once before a mating sits opposite a monthly cost that lasts as long as the dog does.</p>
+
+  <h2>Frequently asked</h2>
+
+  <div class="faq-item">
+  <h3>Can a carrier be used for breeding?</h3>
+  <div class="faq-answer">Yes, provided it is only ever mated to a clear partner. A carrier of excellent type and temperament is a legitimate breeding dog, and excluding every carrier from the gene pool would narrow the breed further. What must never happen is carrier to carrier.</div>
+  </div>
+
+  <div class="faq-item">
+  <h3>How much do the L2-HGA and HC tests cost?</h3>
+  <div class="faq-answer">The laboratory panel covering both is around €120 per dog. Adding the vet's sampling, shipping and the PHPV eye examination, the real figure is roughly €400 per dog — about €800 for a breeding pair, paid once in the dog's lifetime.</div>
+  </div>
+
+  <div class="faq-item">
+  <h3>Does the test need repeating every year?</h3>
+  <div class="faq-answer">No. DNA does not change: one test is valid for life. Annual repetition applies to the ophthalmological examination, which looks for conditions the DNA tests do not cover.</div>
+  </div>
+
+  <div class="faq-item">
+  <h3>Can I test a puppy I have just brought home?</h3>
+  <div class="faq-answer">Yes, at any age — a cheek swab is enough and your vet can take it. If both parents were tested clear the result is a formality, but if you were only told the parents are "healthy" without certificates, testing is the way to find out where you stand.</div>
+  </div>
+
+  <div class="faq-item">
+  <h3>What if my Staffy comes back affected?</h3>
+  <div class="faq-answer">The dog must never be bred from. For L2-HGA, speak to a neurologist about managing the seizures; for hereditary cataract, an ophthalmologist can assess whether surgery is appropriate. An affected dog can still be a much-loved companion, but the pedigree of both parents needs a serious conversation with whoever bred it.</div>
+  </div>
+
+  <div class="faq-item">
+  <h3>How can I check that a breeder has actually tested?</h3>
+  <div class="faq-answer">Ask for the certificates as documents and compare the microchip number on them with the one your vet reads from the dog. That single comparison, which takes thirty seconds, settles the question — which is why we publish the certificates of our breeding dogs on this site rather than sending them on request.</div>
+  </div>
+
+<div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   </div>
   

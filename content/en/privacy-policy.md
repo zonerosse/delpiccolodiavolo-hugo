@@ -8,7 +8,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/femmina-bilquis-hero.avif" alt="Bilquis Goddess Diabhal, Campionessa Italiana Staffordshire Bull Terrier - Del Piccolo Diavolo" width="301" height="396" fetchpriority="high" decoding="sync">
+  <img src="/images/femmina-bilquis-hero.avif" alt="Bilquis Goddess Diabhal, Italian Champion Staffordshire Bull Terrier - Del Piccolo Diavolo" width="301" height="396" fetchpriority="high" decoding="sync">
   </div>
   </div>
   <div class="hero-content">
@@ -42,7 +42,7 @@ custom_content: |
   
   <div class="legal-section">
   <h3>2. Types of Data Collected</h3>
-  <p><strong>Important:</strong> This website does not use tracking cookies, profiling cookies or cookie-based analytics systems. The only form on the site is the optional waiting list form, described in detail in section 9.</p>
+  <p><strong>Important:</strong> This website does not use tracking cookies, profiling cookies or cookie-based analytics systems. The site exposes no contact form: data reaches us if you write or call, or through the reservation form described in section 9, whose link we send on request.</p>
   <p>Personal data is collected ONLY when you voluntarily choose to contact us via:</p>
   <ul>
   <li>Phone: +39 392 4635584</li>
@@ -95,9 +95,9 @@ custom_content: |
   <ul>
   <li>Veterinarians or dog industry professionals, only if necessary for the puppy's health</li>
   <li>Public authorities (ENCI, veterinary authority) for legal compliance</li>
-  <li>Couriers or transporters for puppy delivery</li>
-  </ul>
-  <p>Data is NOT transferred to non-EU countries.</p>
+  <li>Google Ireland Limited, as data processor, for the reservation form data only (see section 9)</li>
+    </ul>
+  <p>Data is NOT transferred to non-EU countries. For placements to other EU countries, the communications described in section 10 apply.</p>
   </div>
   
   <div class="legal-section">
@@ -124,28 +124,49 @@ custom_content: |
   Website: <a href="https://www.garanteprivacy.it" target="_blank" rel="noopener" title="Italian Privacy Authority website" aria-label="Italian Privacy Authority website (opens in a new tab)">www.garanteprivacy.it</a></p>
   </div>
   
+  
   <div class="legal-section">
-  <h3>9. &ldquo;Waiting list&rdquo; form</h3>
-  <p>This website offers an optional form to be contacted about upcoming litters.</p>
-  <p><strong>Data collected:</strong> full name, email address, optional phone number, and the information you choose to provide (type of puppy sought, sex preference, timing, experience with dogs, free-text notes).</p>
-  <p><strong>Purpose:</strong> solely to contact you regarding puppy availability and to answer your questions. Your data is not used for newsletters, automated marketing or profiling.</p>
+  <h3>9. Reservation Form</h3>
+  <p>We use a form to collect the details of anyone asking to reserve a puppy. <strong>It is not published on this site and cannot be reached from the menus:</strong> it lives at <code>/prenota/</code> and the link is sent by the controller, on request, to people who have already been in touch with the kennel.</p>
+  <p><strong>Data collected:</strong> full name, email address, optional phone number, and the information you choose to provide (type of puppy sought, sex preference, timing, experience with dogs, free notes).</p>
+  <p><strong>Purpose:</strong> solely to handle your enquiry and to contact you about puppies. Your data is not used for newsletters, automated marketing or profiling.</p>
   <p><strong>Legal basis:</strong> the consent you give by ticking the dedicated box before submitting (Art. 6.1.a GDPR).</p>
-  <p><strong>Where the data is stored:</strong> submissions are recorded in a Google Workspace spreadsheet accessible only to the data controller, and sent as a notification to the controller&rsquo;s mailbox. Google Ireland Limited acts as data processor.</p>
-  <p><strong>Retention:</strong> data is kept for up to 24 months from submission, or until you request its deletion, whichever comes first.</p>
+  <p><strong>Where the data is stored:</strong> submissions are recorded in a Google Workspace spreadsheet accessible only to the data controller, and sent as a notification to the controller's mailbox. Google Ireland Limited acts as data processor.</p>
+  <p><strong>Retention:</strong> up to 24 months from submission, or until you request deletion, whichever comes first.</p>
   <p><strong>Disclosure to third parties:</strong> none. Your data is never sold, transferred or shared with other breeders or third parties.</p>
-  <p><strong>Your rights:</strong> at any time you may request access, rectification, erasure, restriction or portability of your data, and withdraw your consent, by writing to the contact details given in this notice. Withdrawal does not affect the lawfulness of processing carried out beforehand.</p>
-  <p>Submitting the form is entirely optional: you may also contact us via WhatsApp or by phone without leaving any data on this website.</p>
+  <p><strong>Your rights:</strong> at any time you may request access, rectification, erasure, restriction or portability of your data, and withdraw your consent, using the contact details in this notice. Withdrawal does not affect the lawfulness of processing carried out beforehand.</p>
+  <p>Completing the form is entirely optional: you may give us the same details by WhatsApp, email or phone.</p>
   </div>
 
   <div class="legal-section">
-  <h3>10. Cookies and Tracking Technologies</h3>
+  <h3>10. Placements Outside Italy</h3>
+  <p>When a puppy goes to a family resident in another country, the health and registration procedure requires the new owner's details to be passed to third parties. Specifically:</p>
+  <ul>
+  <li>The <strong>local veterinary health authority</strong>, for the health certificate and registration in the European TRACES system, which is compulsory for movements of this kind</li>
+  <li><strong>ENCI</strong>, for the issue of the export pedigree, which the body posts directly to the foreign owner's address</li>
+  <li>The <strong>kennel club of the destination country</strong>, if the owner applies to transcribe the pedigree</li>
+  </ul>
+  <p><strong>Legal basis:</strong> compliance with legal obligations on animal health and stud book registration (Art. 6.1.c GDPR), together with performance of the contract.</p>
+  <p>These communications are unavoidable: without them the puppy cannot legally leave Italy or be registered in the country of arrival. The data passed on is limited to what the rules require: the owner's name and address.</p>
+  </div>
+
+  <div class="legal-section">
+  <h3>11. Breeding Dogs' Certificates Published on This Site</h3>
+  <p>We publish the laboratory certificates of the dogs used in our breeding programme: genetic tests, cardiological examinations and similar documents. These carry the name of the dog's owner, who in some cases is not the controller of this website.</p>
+  <p><strong>Why we publish them:</strong> to make our health claims verifiable, for our own dogs and for the parents of a litter. It is a choice, not an obligation.</p>
+  <p><strong>Legal basis:</strong> for dogs we do not own, the explicit consent of the owner, obtained before publication (Art. 6.1.a GDPR).</p>
+  <p><strong>Withdrawal:</strong> the owner of any dog whose documents appear on this site may ask for their removal at any time, using the contact details in this notice. Removal is carried out without requiring a reason and as quickly as possible.</p>
+  </div>
+
+  <div class="legal-section">
+  <h3>12. Cookies and Tracking Technologies</h3>
   <p><strong>This website does NOT use cookies.</strong></p>
   <p>No technical cookies, profiling cookies, third-party cookies, or user tracking systems are used.</p>
   <p>The site collects aggregate traffic statistics through <strong>Cloudflare Web Analytics</strong>, which sets no cookies on your device, assigns no identifiers and does not follow you across different sites. For this reason the site shows no consent banner: there is nothing to ask consent for.</p>
   </div>
   
   <div class="legal-section">
-  <h3>11. Changes to Privacy Policy</h3>
+  <h3>13. Changes to Privacy Policy</h3>
   <p>This Privacy Policy may be updated periodically to reflect regulatory changes or changes in our data processing practices.</p>
   <p class="last-updated"><em>Last updated: August 2026</em></p>
   </div>

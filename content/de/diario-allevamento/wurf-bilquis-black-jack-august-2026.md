@@ -46,6 +46,7 @@ In der Zucht **Del Piccolo Diavolo** ist ein besonders erwarteter Wurf angekomme
 
   <div class="dog">
     <span class="dog-name">Bilquis Goddess Diabhal</span>
+    <span style="display:inline-block;background:#8b7300;color:#fff;font-size:.65rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:.15rem .5rem;border-radius:3px;margin:-.4rem 0 .75rem">★ Italienische Championin</span>
     <img src="/images/ffbilly-compressa--1---1-.webp" alt="Bilquis Goddess Diabhal - Italienische Championin Staffordshire Bull Terrier" width="250" height="333">
     <ul>
       <li>Farbe: Schwarz gestromt und weiß</li>

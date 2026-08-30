@@ -8,7 +8,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/femmina-bilquis-hero.avif" alt="Bilquis Goddess Diabhal, Campionessa Italiana Staffordshire Bull Terrier - Del Piccolo Diavolo" width="301" height="396" fetchpriority="high" decoding="sync">
+  <img src="/images/femmina-bilquis-hero.avif" alt="Bilquis Goddess Diabhal, Italian Champion Staffordshire Bull Terrier - Del Piccolo Diavolo" width="301" height="396" fetchpriority="high" decoding="sync">
   </div>
   </div>
   <div class="hero-content">
@@ -95,7 +95,7 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">Areas Served</span>
   <h2 class="section-title">Where Our Clients Come From</h2>
-  <p style="color:#4a3f35;margin-bottom:1.5rem">We welcome families from all over Northern and Central Italy. Here are the main cities from which we regularly receive visits:</p>
+  <p style="color:#4a3f35;margin-bottom:1.5rem">We welcome families from all over Northern and Central Italy, and — increasingly — from beyond the border. Here are the main cities from which we regularly receive visits:</p>
   
   <div class="zones-section">
   <div class="zone-row">
@@ -149,6 +149,94 @@ custom_content: |
   </div>
   </section>
   
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">Coming from abroad</span>
+  <h2 class="section-title">Reaching us from outside Italy</h2>
+
+  <p>Ostellato sits in the Po Delta, between Ferrara and the Adriatic. It is a quiet corner of Italy, but not a remote one: two international airports are within easy reach.</p>
+
+  <div class="zones-section">
+  <div class="zone-row">
+  <span class="zone-name">By air</span>
+  <div class="zone-cities">
+  <span class="zone-city">Bologna BLQ 1h</span>
+  <span class="zone-city">Venice VCE 1h 30</span>
+  <span class="zone-city">Treviso TSF 1h 45</span>
+  <span class="zone-city">Verona VRN 1h 40</span>
+  </div>
+  </div>
+
+  <div class="zone-row">
+  <span class="zone-name">By road</span>
+  <div class="zone-cities">
+  <span class="zone-city">Ljubljana 4h</span>
+  <span class="zone-city">Zagreb 5h</span>
+  <span class="zone-city">Vienna 7h</span>
+  <span class="zone-city">Munich 7h</span>
+  </div>
+  </div>
+  </div>
+
+  <p>A hire car from Bologna or Venice is the simplest way. If you are staying over, tell us in advance and we will point you to farm stays and small hotels nearby — this is holiday country, and there is no shortage of good places to sleep.</p>
+
+  <p>If you are considering a puppy from abroad, read <a href="/en/puppies-staffordshire-bull-terrier/" title="Puppies — a puppy going abroad">how a placement abroad works</a> before you write: minimum age, documents, the export pedigree and how long it all takes. It answers most of what people ask us in their first message.</p>
+  </div>
+  </section>
+
+  <section class="section section-alt">
+  <div class="section-inner">
+  <div class="story-block">
+  <img src="/images/cucciolo-rosso.webp" alt="Staffordshire Bull Terrier puppy" class="story-img" width="350" height="350" loading="lazy" decoding="async">
+  <div class="story-text">
+  <h3>Why Come in Person</h3>
+  <p>A Staffordshire Bull Terrier will be with you for 12 to 15 years. That is a decision worth a journey.</p>
+  <p>You will see how the puppies are raised, meet the parents, judge their temperament for yourself and see the house they live in. No photograph and no video call replaces standing in the room.</p>
+  <p>It matters more, not less, when you live in another country: it is the one occasion you have to check in person everything you have read on a screen.</p>
+  </div>
+  </div>
+  </div>
+  </section>
+
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">Frequently Asked</span>
+  <h2 class="section-title">Before You Get in Touch</h2>
+
+  <div class="faq-list">
+  <div class="faq-item">
+  <h3>Can I visit without an appointment?</h3>
+  <p>No. We receive by appointment only, so that the dogs stay calm and we can give you as much time as you need. A visit usually takes a couple of hours, and nobody is in a hurry.</p>
+  </div>
+
+  <div class="faq-item">
+  <h3>Is it worth travelling from abroad?</h3>
+  <p>Families reach us from Milan and Florence in two and a half hours and go home the same day; from Ljubljana or Zagreb it is a day's drive, or a short flight into Bologna. If you are seriously considering one of our puppies, the journey is the smallest part of the commitment.</p>
+  </div>
+
+  <div class="faq-item">
+  <h3>Do you deliver puppies?</h3>
+  <p>No. Puppies do not travel by courier and are not handed over halfway in a car park. You come and collect, and that is deliberate: it is how we see who we are entrusting a dog to.</p>
+  </div>
+
+  <div class="faq-item">
+  <h3>Which languages do you speak?</h3>
+  <p>Italian, and enough English to sort out everything that matters. Write in English — if something needs care, we take the time to get it right rather than guess.</p>
+  </div>
+
+  <div class="faq-item">
+  <h3>What should I bring?</h3>
+  <p>Yourself and your questions. We will show you the parents, the puppies if there are any, the laboratory certificates, the pedigrees and the rooms the dogs actually live in. Ask to see anything you like.</p>
+  </div>
+
+  <div class="faq-item">
+  <h3>How much does a puppy cost?</h3>
+  <p>We tell you directly, after a first conversation. What lies behind the figure is set out in <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="How much does a Staffordshire Bull Terrier puppy cost">this page</a>: <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="ENCI breed page" target="_blank" rel="noopener" aria-label="ENCI breed page (opens in a new tab)">ENCI pedigree</a>, complete genetic testing on both parents, veterinary care and eight weeks of raising a litter indoors.</p>
+  </div>
+  </div>
+  </div>
+  </section>
+
   <section class="dark-section">
   <h2>We're Waiting for You</h2>
   <p>Come meet our Staffordshire Bull Terriers and the environment where they grow. A visit is the first step toward an informed choice.</p>

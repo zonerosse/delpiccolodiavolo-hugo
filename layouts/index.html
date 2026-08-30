@@ -3,9 +3,6 @@
 {{ if .Params.custom_content }}
   {{ $lang := .Site.Language.Lang }}
   {{ $lblNovita := "Ultima Novità" }}{{ $lblCucciolata := "L’ultima cucciolata nata in casa" }}{{ $badge := "🐾 Ultima novità" }}{{ $leggi := "Leggi tutto →" }}
-  {{ $lUrl := "/lista-attesa/" }}{{ $lTit := "La prossima cucciolata è in programma." }}{{ $lSub := "Senza impegno né acconto." }}{{ $lCta := "Lista d’attesa" }}
-  {{ if eq $lang "en" }}{{ $lUrl = "/en/waiting-list/" }}{{ $lTit = "The next litter is already planned." }}{{ $lSub = "No commitment, no deposit." }}{{ $lCta = "Waiting list" }}{{ $lblNovita = "Latest News" }}{{ $lblCucciolata = "The latest litter born at home" }}{{ $badge = "🐾 Latest news" }}{{ $leggi = "Read more →" }}{{ end }}
-  {{ if eq $lang "de" }}{{ $lUrl = "/de/warteliste/" }}{{ $lTit = "Der nächste Wurf ist bereits geplant." }}{{ $lSub = "Ohne Verpflichtung, ohne Anzahlung." }}{{ $lCta = "Warteliste" }}{{ $lblNovita = "Neuigkeiten" }}{{ $lblCucciolata = "Der jüngste Wurf, bei uns zu Hause geboren" }}{{ $badge = "🐾 Neuigkeit" }}{{ $leggi = "Mehr lesen →" }}{{ end }}
   {{ $news := "" }}
   {{ with .Site.GetPage "/diario-allevamento" }}
     {{ range first 1 .RegularPages.ByDate.Reverse }}
@@ -16,7 +13,7 @@
   {{ $c := replace .Params.custom_content "<!--NEWS-->" $news }}
   {{ $c = replace $c "<!--CORRELATI-->" (partial "correlati.html" .) }}
   {{ $c = replace $c "<!--HEROFOTO-->" (partial "hero-foto.html" .) }}
-  {{ replace $c "<!--LISTAATTESA-->" "" | safeHTML }}
+  {{ $c | safeHTML }}
   {{- $lbl := cond (eq $lang "de") "Aktualisiert am" (cond (eq $lang "en") "Updated on" "Aggiornato il") -}}
   {{- $dt := cond (eq $lang "en") (.Lastmod.Format "January 2, 2006") (partial "data-locale.html" .) -}}
   <p class="pagina-meta" style="text-align:center;color:#7a6a58;font-size:.85rem;margin:2rem 0 1rem"><time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ $lbl }} {{ $dt }}</time> · <a href="{{ cond (eq $lang "de") "/de/ueber-uns/" (cond (eq $lang "en") "/en/about-us/" "/chi-siamo/") }}" rel="author" style="color:inherit;text-decoration:underline">Paolo Boldrini</a>, {{ cond (eq $lang "de") "Züchter seit 2013" (cond (eq $lang "en") "breeder since 2013" "allevatore dal 2013") }}</p>

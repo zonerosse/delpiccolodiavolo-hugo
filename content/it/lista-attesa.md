@@ -1,5 +1,6 @@
 ---
 title: "Lista d'attesa cuccioli"
+noindex: true
 tipoPagina: "ContactPage"
 titleSeo: "Lista d'attesa cuccioli Staffordshire Bull Terrier"
 translationKey: "lista-attesa"

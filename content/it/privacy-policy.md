@@ -42,7 +42,7 @@ custom_content: |
   
   <div class="legal-section">
   <h3>2. Tipologie di Dati Raccolti</h3>
-  <p><strong>Importante:</strong> Questo sito web non utilizza cookie di tracciamento, cookie di profilazione o sistemi di analisi basati su cookie. L’unico modulo presente è quello facoltativo della lista d’attesa, descritto in dettaglio al punto 9.</p>
+  <p><strong>Importante:</strong> Questo sito web non utilizza cookie di tracciamento, cookie di profilazione o sistemi di analisi basati su cookie. Il sito non espone moduli di contatto: i dati arrivano se ci scrivi o ci telefoni, oppure tramite il modulo di prenotazione descritto al punto 9, il cui collegamento inviamo su richiesta.</p>
   <p>I dati personali vengono raccolti SOLO quando tu decidi volontariamente di contattarci tramite:</p>
   <ul>
   <li>Telefono: +39 392 4635584</li>
@@ -95,11 +95,10 @@ custom_content: |
   <ul>
   <li>Veterinari o professionisti del settore cinofilo, solo se necessario per la salute del cucciolo</li>
   <li>Autorità pubbliche (ENCI, ASL veterinaria) per adempimenti di legge</li>
-  <li>Corrieri o trasportatori per la consegna dei cuccioli</li>
+  <li>Google Ireland Limited, in qualità di responsabile del trattamento, per i soli dati del modulo di prenotazione (vedi punto 9)</li>
+    </ul>
   </ul>
-  <li>Google Ireland Limited, in qualità di responsabile del trattamento, per i soli dati del modulo lista d’attesa (vedi punto 9)</li>
-  </ul>
-  <p>I dati non vengono trasferiti al di fuori dell’Unione Europea.</p>
+  <p>I dati non vengono trasferiti al di fuori dell’Unione Europea. Per gli affidi verso altri paesi dell'Unione valgono le comunicazioni descritte al punto 10.</p>
   </div>
   
   <div class="legal-section">
@@ -126,28 +125,49 @@ custom_content: |
   Sito: <a href="https://www.garanteprivacy.it" target="_blank" rel="noopener" title="Sito del Garante Privacy" aria-label="Sito del Garante Privacy (si apre in una nuova scheda)">www.garanteprivacy.it</a></p>
   </div>
   
+  
   <div class="legal-section">
-  <h3>9. Modulo "Lista d&rsquo;attesa"</h3>
-  <p>Il sito mette a disposizione un modulo facoltativo per essere ricontattati in occasione delle prossime cucciolate.</p>
+  <h3>9. Modulo di Prenotazione</h3>
+  <p>Esiste un modulo per raccogliere i dati di chi chiede di prenotare un cucciolo. <strong>Non è pubblicato sul sito e non è raggiungibile dai menu:</strong> si trova all'indirizzo <code>/prenota/</code> e il collegamento viene inviato dal titolare, su richiesta, a chi ha già avuto un primo contatto con l'allevamento.</p>
   <p><strong>Dati raccolti:</strong> nome e cognome, email, eventuale numero di telefono, e le informazioni che scegli di indicare (tipo di cucciolo cercato, preferenza di sesso, tempistiche, esperienza con i cani, note libere).</p>
-  <p><strong>Finalità:</strong> esclusivamente ricontattarti in merito alla disponibilità di cuccioli e rispondere alle tue domande. I dati non vengono utilizzati per newsletter, marketing automatizzato o profilazione.</p>
-  <p><strong>Base giuridica:</strong> il consenso che presti spuntando l'apposita casella prima dell'invio (art. 6.1.a GDPR).</p>
+  <p><strong>Finalità:</strong> esclusivamente gestire la tua richiesta e ricontattarti in merito ai cuccioli. I dati non vengono utilizzati per newsletter, marketing automatizzato o profilazione.</p>
+  <p><strong>Base giuridica:</strong> il consenso che presti spuntando l'apposita casella prima dell'invio (Art. 6, par. 1, lett. a GDPR).</p>
   <p><strong>Dove sono conservati:</strong> i dati vengono registrati in un foglio di calcolo Google Workspace ad accesso riservato al titolare, e inviati per notifica alla casella email del titolare. Google Ireland Limited agisce in qualità di responsabile del trattamento.</p>
-  <p><strong>Conservazione:</strong> i dati sono conservati fino a 24 mesi dall'invio, o fino a tua richiesta di cancellazione, se anteriore.</p>
+  <p><strong>Conservazione:</strong> fino a 24 mesi dall'invio, o fino a tua richiesta di cancellazione, se anteriore.</p>
   <p><strong>Comunicazione a terzi:</strong> nessuna. I dati non vengono ceduti, venduti o condivisi con altri allevatori o soggetti terzi.</p>
   <p><strong>I tuoi diritti:</strong> puoi chiedere in qualsiasi momento accesso, rettifica, cancellazione, limitazione o portabilità dei dati, e revocare il consenso, scrivendo ai recapiti indicati in questa informativa. La revoca non pregiudica la liceità del trattamento effettuato prima.</p>
-  <p>L'invio del modulo è del tutto facoltativo: puoi contattarci anche via WhatsApp o telefono senza lasciare alcun dato su questo sito.</p>
+  <p>Compilare il modulo è del tutto facoltativo: puoi comunicarci gli stessi dati via WhatsApp, email o telefono.</p>
   </div>
 
   <div class="legal-section">
-  <h3>10. Cookie e Tecnologie di Tracciamento</h3>
+  <h3>10. Affidi Fuori dall'Italia</h3>
+  <p>Quando un cucciolo viene affidato a una famiglia residente in un altro paese, la procedura sanitaria e anagrafica comporta la comunicazione dei dati del nuovo proprietario a soggetti terzi. In particolare:</p>
+  <ul>
+  <li><strong>ASL veterinaria competente</strong>, per l'emissione del certificato sanitario e la registrazione nel sistema europeo TRACES, che accompagna obbligatoriamente ogni movimentazione di questo tipo</li>
+  <li><strong>ENCI</strong>, per l'emissione dell'export pedigree, che l'ente spedisce direttamente all'indirizzo del proprietario estero</li>
+  <li><strong>Ente cinofilo del paese di destinazione</strong>, se il proprietario richiede la trascrizione del pedigree</li>
+  </ul>
+  <p><strong>Base giuridica:</strong> adempimento di obblighi di legge in materia di sanità animale e di iscrizione ai libri genealogici (Art. 6, par. 1, lett. c GDPR), oltre all'esecuzione del contratto.</p>
+  <p>Si tratta di comunicazioni indispensabili: senza di esse il cucciolo non può legalmente lasciare l'Italia né essere registrato nel paese di arrivo. I dati comunicati sono limitati a quelli richiesti dalla normativa: nome, cognome e indirizzo del proprietario.</p>
+  </div>
+
+  <div class="legal-section">
+  <h3>11. Documenti dei Riproduttori Pubblicati sul Sito</h3>
+  <p>Su questo sito pubblichiamo i referti di laboratorio dei cani utilizzati in riproduzione: test genetici, esami cardiologici e certificazioni analoghe. Questi documenti riportano il nome del proprietario del cane, che in alcuni casi è un soggetto diverso dal titolare di questo sito.</p>
+  <p><strong>Perché li pubblichiamo:</strong> per rendere verificabili le affermazioni sulla salute dei nostri riproduttori e dei genitori dei cuccioli. È una scelta di trasparenza, non un obbligo.</p>
+  <p><strong>Base giuridica:</strong> per i cani non di nostra proprietà, il consenso esplicito del proprietario, raccolto prima della pubblicazione (Art. 6, par. 1, lett. a GDPR).</p>
+  <p><strong>Revoca:</strong> il proprietario di un cane i cui documenti compaiono su questo sito può chiederne la rimozione in qualsiasi momento, scrivendo ai recapiti indicati in questa informativa. La rimozione viene effettuata senza necessità di motivazione e nel più breve tempo possibile.</p>
+  </div>
+
+  <div class="legal-section">
+  <h3>12. Cookie e Tecnologie di Tracciamento</h3>
   <p><strong>Questo sito web NON utilizza cookie.</strong></p>
   <p>Non vengono utilizzati cookie tecnici, cookie di profilazione, cookie di terze parti o sistemi di tracciamento degli utenti.</p>
   <p>Il sito raccoglie statistiche di traffico aggregate tramite <strong>Cloudflare Web Analytics</strong>, che non installa cookie sul tuo dispositivo, non assegna identificatori e non ti segue fra siti diversi. Per questo motivo il sito non mostra alcun banner di consenso: non c’è nulla per cui chiederlo.</p>
   </div>
   
   <div class="legal-section">
-  <h3>11. Modifiche alla Privacy Policy</h3>
+  <h3>13. Modifiche alla Privacy Policy</h3>
   <p>Questa Privacy Policy può essere aggiornata periodicamente per riflettere modifiche normative o cambiamenti nelle nostre pratiche di trattamento dei dati.</p>
   <p class="last-updated"><em>Ultimo aggiornamento: agosto 2026</em></p>
   </div>

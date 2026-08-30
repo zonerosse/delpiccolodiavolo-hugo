@@ -316,8 +316,8 @@
 /de/is-the-staffordshire-bull-terrier-right-for-you/ /de/ist-der-staffordshire-bull-terrier-der-richtige-hund/ 301
 /de/legal-notice/ /de/impressum/ 301
 /de/linee-sangue-staffordshire-bull-terrier/ /de/staffy-blutlinien-guide/ 301
-/de/lista-attesa-grazie/ /de/warteliste-danke/ 301
-/de/lista-attesa/ /de/warteliste/ 301
+/de/lista-attesa-grazie/ /prenota-grazie/ 301
+/de/lista-attesa/ /prenota/ 301
 /de/litters-staffordshire-bull-terrier/ /de/wuerfe-staffordshire-bull-terrier/ 301
 /de/males-staffordshire-bull-terrier/ /de/rueden-staffordshire-bull-terrier/ 301
 /de/maschi-staffordshire-bull-terrier/ /de/rueden-staffordshire-bull-terrier/ 301
@@ -359,8 +359,8 @@
 /de/standard-linee-di-sangue-orientarsi/ /de/blutlinien-waehlen/ 301
 /de/standard-tipicita-morfologia/ /de/staffy-rassestandard/ 301
 /de/test-genetici-l2hga-hc-staffy/ /de/staffy-gentests-l2hga-hc/ 301
-/de/waiting-list-thanks/ /de/warteliste-danke/ 301
-/de/waiting-list/ /de/warteliste/ 301
+/de/waiting-list-thanks/ /prenota-grazie/ 301
+/de/waiting-list/ /prenota/ 301
 /diario-allevamento/bilquis-black-jack-litter-august-2026/ /diario-allevamento/cucciolata-bilquis-agosto-2026/ 301
 /diario-allevamento/wurf-bilquis-black-jack-august-2026/ /diario-allevamento/cucciolata-bilquis-agosto-2026/ 301
 /diario-allevamento/wurf-red-nora-februar-2026/ /diario-allevamento/cucciolata-red-nora-febbraio-2026/ 301
@@ -396,8 +396,8 @@
 /en/ist-der-staffordshire-bull-terrier-der-richtige-hund/ /en/is-the-staffordshire-bull-terrier-right-for-you/ 301
 /en/kontakt/ /en/contact/ 301
 /en/linee-sangue-staffordshire-bull-terrier/ /en/staffy-bloodlines-guide/ 301
-/en/lista-attesa-grazie/ /en/waiting-list-thanks/ 301
-/en/lista-attesa/ /en/waiting-list/ 301
+/en/lista-attesa-grazie/ /prenota-grazie/ 301
+/en/lista-attesa/ /prenota/ 301
 /en/maschi-staffordshire-bull-terrier/ /en/males-staffordshire-bull-terrier/ 301
 /en/note-legali/ /en/legal-notice/ 301
 /en/palmares-del-piccolo-diavolo/ /en/palmares/ 301
@@ -428,8 +428,8 @@
 /en/standard-tipicita-morfologia/ /en/staffy-breed-standard/ 301
 /en/test-genetici-l2hga-hc-staffy/ /en/staffy-genetic-testing-l2hga-hc/ 301
 /en/ueber-uns/ /en/about-us/ 301
-/en/warteliste-danke/ /en/waiting-list-thanks/ 301
-/en/warteliste/ /en/waiting-list/ 301
+/en/warteliste-danke/ /prenota-grazie/ 301
+/en/warteliste/ /prenota/ 301
 /en/welpen-allein-bleiben/ /en/puppy-alone-time/ 301
 /en/welpen-denkspiele/ /en/puppy-mental-games/ 301
 /en/welpen-erste-fuetterung/ /en/puppy-initial-feeding/ 301
@@ -491,10 +491,10 @@
 /staffy-travel-transport/ /famiglia-viaggi-spostamenti/ 301
 /staffy-zahnpflege/ /salute-denti-igiene/ 301
 /ueber-uns/ /chi-siamo/ 301
-/waiting-list-thanks/ /lista-attesa-grazie/ 301
-/waiting-list/ /lista-attesa/ 301
-/warteliste-danke/ /lista-attesa-grazie/ 301
-/warteliste/ /lista-attesa/ 301
+/waiting-list-thanks/ /prenota-grazie/ 301
+/waiting-list/ /prenota/ 301
+/warteliste-danke/ /prenota-grazie/ 301
+/warteliste/ /prenota/ 301
 /welpen-allein-bleiben/ /cuccioli-gestione-solitudine/ 301
 /welpen-denkspiele/ /cuccioli-giochi-mentali/ 301
 /welpen-erste-fuetterung/ /cuccioli-alimentazione-iniziale/ 301
@@ -532,10 +532,19 @@
 /cuccioli-staffordshire-bull- /cuccioli-staffordshire-bull-terrier/ 301
 
 
-# Pagine consigli-acquisto fuse nella guida su come riconoscere un allevamento serio
+# Guide fuse nella pagina su come riconoscere un allevamento serio
 /cuccioli-consigli-acquisto/ /come-scegliere-allevamento-staffordshire-bull-terrier/ 301
 /en/puppy-buying-tips/ /en/how-to-choose-a-staffordshire-bull-terrier-breeder/ 301
 /de/welpen-kauftipps/ /de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/ 301
+
+
+# Modulo unificato su /prenota/
+/lista-attesa/ /prenota/ 301
+/lista-attesa-grazie/ /prenota-grazie/ 301
+/en/waiting-list/ /prenota/ 301
+/en/waiting-list-thanks/ /prenota-grazie/ 301
+/de/warteliste/ /prenota/ 301
+/de/warteliste-danke/ /prenota-grazie/ 301
 
 # Catch-all: deve restare SEMPRE l'ultima regola del file
 /* /404.html 404

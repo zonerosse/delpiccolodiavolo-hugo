@@ -46,6 +46,7 @@ At the **Del Piccolo Diavolo** kennel, a particularly awaited litter has arrived
 
   <div class="dog">
     <span class="dog-name">Bilquis Goddess Diabhal</span>
+    <span style="display:inline-block;background:#8b7300;color:#fff;font-size:.65rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:.15rem .5rem;border-radius:3px;margin:-.4rem 0 .75rem">★ Italian Champion</span>
     <img src="/images/ffbilly-compressa--1---1-.webp" alt="Bilquis Goddess Diabhal - Italian Champion Staffordshire Bull Terrier" width="250" height="333">
     <ul>
       <li>Colour: Black brindle and white</li>
