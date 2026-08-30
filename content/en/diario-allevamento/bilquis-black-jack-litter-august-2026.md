@@ -38,7 +38,7 @@ At the **Del Piccolo Diavolo** kennel, a particularly awaited litter has arrived
       <li>HC: <strong>Free by parents</strong> (parents Clear)</li>
       <li>Full scissor bite</li>
     </ul>
-    <p>🏆 <strong>Quash Marvelous Hagler de Stafflorence</strong> (2023 World Champion) × Ultima Di Casa Giacalone</p>
+    <p>🏆 <strong>Quash Marvelous Hagler de Stafflorence</strong> (2023 World Champion) × <strong>Ultima Di Casa Giacalone</strong> (Italian Junior Champion)</p>
     <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" aria-label="View the pedigree of Black Jack Di Casa Giacalone (opens in a new tab)">View pedigree on SBTPedigree →</a></p>
   </div>
 
@@ -75,7 +75,7 @@ Bilquis is not just a brood bitch: she is an **Italian Show Champion (ENCI)**, p
 
 ### The sire: Black Jack Di Casa Giacalone
 
-Black Jack is a young **black** male (born April 2025) with a top-level pedigree: his **father is Quash Marvelous Hagler de Stafflorence, 2023 World Champion in Geneva**, from the renowned **de Stafflorence** line. On the maternal side, the **Di Casa Giacalone** and **Staffystar** kennels, rich in Italian and International Champions. Compact, typey structure, full scissor bite.
+Black Jack is a young **black** male (born April 2025) with a top-level pedigree: his **father is Quash Marvelous Hagler de Stafflorence, 2023 World Champion in Geneva**, from the renowned **de Stafflorence** line. His **mother is Ultima Di Casa Giacalone, Italian Junior Champion**, from the **Di Casa Giacalone** and **Staffystar** kennels, rich in Italian and International Champions. Compact, typey structure, full scissor bite.
 
 ## Genetic tests
 
@@ -107,7 +107,7 @@ The parents are tested for the main genetic conditions of the breed:
   </div>
 
   <div style="background:#fff;border:1px solid #e2ddd6;border-radius:10px;padding:1.25rem">
-    <span style="display:inline-block;background:#5c4a3a;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Dam</span>
+    <span style="display:inline-block;background:#5c4a3a;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Dam</span><span style="display:inline-block;background:#8b7300;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px;margin-left:.35rem">★ Italian Junior Champion</span>
     <p style="margin:.6rem 0 .3rem;font-weight:700">Ultima Di Casa Giacalone</p>
     <p style="margin:0 0 .9rem;font-size:.82rem;color:#666;line-height:1.5">Female — microchip 380260044680718, pedigree LO2313633<br>EVG Molekularna Diagnostika (Maribor, Slovenia) — reference 2026-083880/01, 27/08/2026</p>
     <ul style="margin:0;padding-left:1.1rem;font-size:.92rem">

@@ -38,7 +38,7 @@ All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente a
       <li>HC: <strong>Free by parents</strong> (genitori Clear)</li>
       <li>Dentatura completa a forbice</li>
     </ul>
-    <p>🏆 <strong>Quash Marvelous Hagler de Stafflorence</strong> (Campione del Mondo 2023) × Ultima Di Casa Giacalone</p>
+    <p>🏆 <strong>Quash Marvelous Hagler de Stafflorence</strong> (Campione del Mondo 2023) × <strong>Ultima Di Casa Giacalone</strong> (Giovane Campionessa Italiana)</p>
     <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" aria-label="Vedi il pedigree di Black Jack Di Casa Giacalone (si apre in una nuova scheda)">Vedi pedigree su SBTPedigree →</a></p>
   </div>
 
@@ -75,7 +75,7 @@ Bilquis non è solo una fattrice: è una **Campionessa Italiana di Bellezza ENCI
 
 ### Il padre: Black Jack Di Casa Giacalone
 
-Black Jack è un giovane maschio **nero** (nato aprile 2025) con un pedigree di primissimo livello: suo **padre è Quash Marvelous Hagler de Stafflorence, Campione del Mondo 2023 a Ginevra**, dalla blasonata linea **de Stafflorence**. Sul lato materno gli affissi **Di Casa Giacalone** e **Staffystar**, ricchi di Campioni Italiani e Internazionali. Struttura compatta e tipica, dentatura completa a forbice.
+Black Jack è un giovane maschio **nero** (nato aprile 2025) con un pedigree di primissimo livello: suo **padre è Quash Marvelous Hagler de Stafflorence, Campione del Mondo 2023 a Ginevra**, dalla blasonata linea **de Stafflorence**. Sua **madre è Ultima Di Casa Giacalone, Giovane Campionessa Italiana**, dagli affissi **Di Casa Giacalone** e **Staffystar**, ricchi di Campioni Italiani e Internazionali. Struttura compatta e tipica, dentatura completa a forbice.
 
 ## Test genetici
 
@@ -107,7 +107,7 @@ I genitori sono testati per le principali patologie genetiche della razza:
   </div>
 
   <div style="background:#fff;border:1px solid #e2ddd6;border-radius:10px;padding:1.25rem">
-    <span style="display:inline-block;background:#5c4a3a;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Madre</span>
+    <span style="display:inline-block;background:#5c4a3a;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Madre</span><span style="display:inline-block;background:#8b7300;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px;margin-left:.35rem">★ Giovane Campionessa Italiana</span>
     <p style="margin:.6rem 0 .3rem;font-weight:700">Ultima Di Casa Giacalone</p>
     <p style="margin:0 0 .9rem;font-size:.82rem;color:#666;line-height:1.5">Femmina — microchip 380260044680718, pedigree LO2313633<br>EVG Molekularna Diagnostika (Maribor, Slovenia) — riferimento 2026-083880/01, 27/08/2026</p>
     <ul style="margin:0;padding-left:1.1rem;font-size:.92rem">
