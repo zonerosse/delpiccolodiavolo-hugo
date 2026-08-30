@@ -91,7 +91,7 @@ custom_content: |
   <!-- Litter: Bilquis × Black Jack - BORN, NOT AVAILABLE -->
   <article class="litter-card">
   <div class="litter-header">
-  <h3 class="litter-title">Litter born 1 August 2026 — 8 puppies (4 males, 4 females)</h3>
+  <h3 class="litter-title">Litter born 1 August 2026</h3>
   <span class="badge badge-soldout">Not available</span>
   </div>
   
@@ -124,7 +124,7 @@ custom_content: |
   </div>
   </div>
   
-  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">A pairing planned to combine the champion morphology of Bilquis (Italian Champion, 4th at the 2024 World Dog Show) with the lines of Black Jack, son of the 2023 World Champion Quash Marvelous Hagler de Stafflorence. Born 1 August 2026: 8 black puppies (4 males and 4 females). Litter complete: all puppies reserved.</p>
+  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">A pairing planned to combine the champion morphology of Bilquis (Italian Champion, 4th at the 2024 World Dog Show) with the lines of Black Jack, son of the 2023 World Champion Quash Marvelous Hagler de Stafflorence. Born 1 August 2026, black puppies. Litter complete: not available.</p>
   
   <p class="pedigree-link">Litter pedigree: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" title="View Bilquis x Black Jack litter pedigree" aria-label="View the full pedigree of the 1 August 2026 litter on SBTPedigree (opens in a new tab)">view on SBTPedigree</a></p>
   </article>
@@ -132,7 +132,7 @@ custom_content: |
   <!-- Litter 1: Heat × Nora - COMING -->
   <article class="litter-card">
   <div class="litter-header">
-  <h3 class="litter-title">Litter born 09/02/2026 — 3 males</h3>
+  <h3 class="litter-title">Litter born 09/02/2026</h3>
   <span class="badge badge-soldout">Not available</span>
   </div>
   
@@ -162,7 +162,7 @@ custom_content: |
   </div>
   </div>
   
-  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">This pairing was planned to consolidate the traits of the Vangerbull line while preserving the excellent family temperament of Skilful-Dogs. Born 9 February 2026: 3 males (2 brindle, 1 red and white). All reserved.</p>
+  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">This pairing was planned to consolidate the traits of the Vangerbull line while preserving the excellent family temperament of Skilful-Dogs. Born 9 February 2026, brindle and red and white puppies. Not available.</p>
   
   <p class="pedigree-link">Litter pedigree: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" title="View Red x Nora litter pedigree" aria-label="View the full pedigree of the 9 February 2026 litter on SBTPedigree (opens in a new tab)">view on SBTPedigree</a></p>
   </article>

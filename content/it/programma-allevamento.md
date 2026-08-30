@@ -99,7 +99,7 @@ custom_content: |
   <!-- Cucciolata: Bilquis × Black Jack - NATA -->
   <article class="litter-card">
   <div class="litter-header">
-  <h3 class="litter-title">Cucciolata nata il 1° agosto 2026 — 8 cuccioli (4 maschi, 4 femmine)</h3>
+  <h3 class="litter-title">Cucciolata nata il 1° agosto 2026</h3>
   <span class="badge badge-soldout">Non disponibili</span>
   </div>
 
@@ -132,7 +132,7 @@ custom_content: |
   </div>
   </div>
 
-  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Accoppiamento programmato per unire la morfologia da Campionessa di Bilquis (Campionessa Italiana, 4ª al World Dog Show 2024) alle linee di Black Jack, figlio del Campione del Mondo 2023 Quash Marvelous Hagler de Stafflorence. Nati il 1° agosto 2026: 8 cuccioli neri (4 maschi e 4 femmine). Cucciolata completa: tutti prenotati.</p>
+  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Accoppiamento programmato per unire la morfologia da Campionessa di Bilquis (Campionessa Italiana, 4ª al World Dog Show 2024) alle linee di Black Jack, figlio del Campione del Mondo 2023 Quash Marvelous Hagler de Stafflorence. Nati il 1° agosto 2026, cuccioli neri. Cucciolata completa: non disponibili.</p>
 
   <p class="pedigree-link">Pedigree della cucciolata: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" title="Vedi pedigree cucciolata Bilquis x Black Jack" aria-label="Vedi il pedigree completo della cucciolata del 1° agosto 2026 su SBTPedigree (si apre in una nuova scheda)">vedi su SBTPedigree</a></p>
   </article>
@@ -140,7 +140,7 @@ custom_content: |
   <!-- Cucciolata 1: Red × Nora - NATA -->
   <article class="litter-card">
   <div class="litter-header">
-  <h3 class="litter-title">Cucciolata nata il 09/02/2026 — 3 maschi</h3>
+  <h3 class="litter-title">Cucciolata nata il 09/02/2026</h3>
   <span class="badge badge-soldout">Non disponibili</span>
   </div>
 

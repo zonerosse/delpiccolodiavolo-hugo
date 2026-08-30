@@ -1,8 +1,8 @@
 ---
-title: "Red × Nora Litter: 3 Males Born!"
+title: "Red × Nora Litter (February 2026)"
 articolo: true
 translationKey: "cucciolata-red-nora-febbraio-2026"
-description: "Litter born 9 February 2026: 3 males, 2 brindle and 1 red and white. Dam Skilful-dogs Nora, sire Vangerbull Red Harricane. Not available."
+description: "Litter born 9 February 2026 from Skilful-dogs Nora and Vangerbull Red Harricane: brindle and red and white puppies. Not available."
 slug: "red-nora-litter-february-2026"
 date: 2026-02-09
 image: "/images/red.avif"
@@ -10,7 +10,7 @@ image: "/images/red.avif"
 
 <div style="background:#c9a227;color:#1a1a1a;padding:1rem 1.5rem;border-radius:8px;margin-bottom:2rem;text-align:center">
 <strong>🎉 BORN FEBRUARY 9, 2026!</strong><br>
-3 males: 2 brindle + 1 red & white — <strong>Not available</strong>
+Brindle and red &amp; white puppies — <strong>Not available</strong>
 </div>
 
 We are delighted to announce the birth of a highly anticipated litter at **Del Piccolo Diavolo** kennel. This combination brings together the power of the Vangerbull line with the proven breeding quality of Nora, already mother of two Italian Champions.
@@ -57,9 +57,7 @@ Your browser does not support video.
 
 **Date of birth:** February 9, 2026
 
-**Puppies born:**
-- 2 brindle males
-- 1 red & white male
+**Colours:** brindle and red & white
 
 **Status:** Not available
 

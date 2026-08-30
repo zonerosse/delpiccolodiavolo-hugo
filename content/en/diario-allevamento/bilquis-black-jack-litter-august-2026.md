@@ -1,7 +1,7 @@
 ---
-title: "Bilquis × Black Jack Litter: 8 Puppies Born! (August 2026)"
+title: "Bilquis × Black Jack Litter (August 2026)"
 articolo: true
-titleSeo: "Bilquis × Black Jack litter: 8 puppies, August 2026"
+titleSeo: "Bilquis × Black Jack litter, August 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
 description: "Born 1 August 2026: 8 Staffordshire Bull Terrier puppies from Bilquis Goddess Diabhal, Italian Champion ENCI. Not available."
 slug: "bilquis-black-jack-litter-august-2026"
@@ -13,11 +13,11 @@ stato: "completa"
 ---
 
 <div style="background:#c9a227;color:#1a1a1a;padding:1rem 1.5rem;border-radius:8px;margin-bottom:2rem;text-align:center">
-<strong>🎉 BORN AUGUST 1, 2026 — 8 PUPPIES (4 MALES, 4 FEMALES)</strong><br>
+<strong>🎉 BORN AUGUST 1, 2026</strong><br>
 Not available
 </div>
 
-At the **Del Piccolo Diavolo** kennel, a particularly awaited litter has arrived: on **August 1, 2026** our **Bilquis Goddess Diabhal** — Italian Show Champion (ENCI) and 4th at the 2024 World Dog Show in Zagreb — became the mother of **8 puppies (4 males and 4 females)**. A carefully planned mating that combines the pedigree of **Bilquis Goddess Diabhal**, daughter of **Skilful-dogs Nora**, with the solid Italian lines of the sire **Black Jack Di Casa Giacalone**, son of the **2023 World Champion** Quash Marvelous Hagler de Stafflorence.
+At the **Del Piccolo Diavolo** kennel, a particularly awaited litter has arrived: on **August 1, 2026** our **Bilquis Goddess Diabhal** — Italian Show Champion (ENCI) and 4th at the 2024 World Dog Show in Zagreb — became a mother. A carefully planned mating that combines the pedigree of **Bilquis Goddess Diabhal**, daughter of **Skilful-dogs Nora**, with the solid Italian lines of the sire **Black Jack Di Casa Giacalone**, son of the **2023 World Champion** Quash Marvelous Hagler de Stafflorence.
 
 ## The newborn puppies
 
@@ -62,8 +62,6 @@ At the **Del Piccolo Diavolo** kennel, a particularly awaited litter has arrived
 ## The litter
 
 **Born:** August 1, 2026
-
-**Number:** 8 puppies — 4 males and 4 females
 
 **Colour:** all black
 

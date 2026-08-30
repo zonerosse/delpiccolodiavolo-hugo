@@ -91,7 +91,7 @@ custom_content: |
   <!-- Wurf: Bilquis × Black Jack - GEBOREN, NICHT VERFÜGBAR -->
   <article class="litter-card">
   <div class="litter-header">
-  <h3 class="litter-title">Wurf geboren am 01.08.2026 — 8 Welpen (4 Rüden, 4 Hündinnen)</h3>
+  <h3 class="litter-title">Wurf geboren am 01.08.2026</h3>
   <span class="badge badge-soldout">Nicht verfügbar</span>
   </div>
   
@@ -124,7 +124,7 @@ custom_content: |
   </div>
   </div>
   
-  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Eine Verpaarung, die die Championin-Morphologie von Bilquis (Italienische Championin, 4. beim World Dog Show 2024) mit den Linien von Black Jack verbindet, dem Sohn des Weltsiegers 2023 Quash Marvelous Hagler de Stafflorence. Geboren am 1. August 2026: 8 schwarze Welpen (4 Rüden und 4 Hündinnen). Wurf vollständig: alle Welpen reserviert.</p>
+  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Eine Verpaarung, die die Championin-Morphologie von Bilquis (Italienische Championin, 4. beim World Dog Show 2024) mit den Linien von Black Jack verbindet, dem Sohn des Weltsiegers 2023 Quash Marvelous Hagler de Stafflorence. Geboren am 1. August 2026, schwarze Welpen. Wurf vollständig: nicht verfügbar.</p>
   
   <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" title="Stammbaum Wurf Bilquis x Black Jack ansehen" aria-label="Vollständigen Stammbaum des Wurfes vom 1. August 2026 auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">auf SBTPedigree ansehen</a></p>
   </article>
@@ -132,7 +132,7 @@ custom_content: |
   <!-- Wurf 1: Heat × Nora - KOMMEND -->
   <article class="litter-card">
   <div class="litter-header">
-  <h3 class="litter-title">Wurf geboren am 09.02.2026 — 3 Rüden</h3>
+  <h3 class="litter-title">Wurf geboren am 09.02.2026</h3>
   <span class="badge badge-soldout">Nicht verfügbar</span>
   </div>
   
@@ -162,7 +162,7 @@ custom_content: |
   </div>
   </div>
   
-  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Diese Verpaarung wurde geplant, um die Merkmale der Vangerbull-Linie zu festigen und dabei das hervorragende Familientemperament von Skilful-Dogs zu bewahren. Geboren am 9. Februar 2026: 3 Rüden (2 gestromt, 1 rot-weiß). Alle reserviert.</p>
+  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Diese Verpaarung wurde geplant, um die Merkmale der Vangerbull-Linie zu festigen und dabei das hervorragende Familientemperament von Skilful-Dogs zu bewahren. Geboren am 9. Februar 2026, gestromte und rot-weiße Welpen. Nicht verfügbar.</p>
   
   <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" title="Stammbaum Wurf Red x Nora ansehen" aria-label="Vollständigen Stammbaum des Wurfes vom 9. Februar 2026 auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">auf SBTPedigree ansehen</a></p>
   </article>

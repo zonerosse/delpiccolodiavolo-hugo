@@ -1,23 +1,23 @@
 ---
-title: "Cucciolata Bilquis × Black Jack: nati 8 cuccioli! (agosto 2026)"
+title: "Cucciolata Bilquis × Black Jack (agosto 2026)"
 articolo: true
-titleSeo: "Cucciolata Bilquis × Black Jack: 8 cuccioli, agosto 2026"
+titleSeo: "Cucciolata Bilquis × Black Jack, agosto 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
-description: "Nati il 1° agosto 2026: 8 cuccioli Staffordshire Bull Terrier da Bilquis Goddess Diabhal, Campionessa Italiana ENCI. Non disponibili."
+description: "Cucciolata nata il 1° agosto 2026 da Bilquis Goddess Diabhal, Campionessa Italiana ENCI. Genitori testati, referti pubblicati. Non disponibili."
 slug: "cucciolata-bilquis-agosto-2026"
 date: 2026-08-01
 image: "/images/cuccioli-bilquis-nati-1.webp"
 image_alt: "Cuccioli di Staffordshire Bull Terrier neri della cucciolata di Bilquis"
-annuncio: "Cucciolata di agosto 2026: 8 cuccioli neri"
+annuncio: "Cucciolata di agosto 2026, cuccioli neri"
 stato: "completa"
 ---
 
 <div style="background:#c9a227;color:#1a1a1a;padding:1rem 1.5rem;border-radius:8px;margin-bottom:2rem;text-align:center">
-<strong>🎉 NATI IL 1° AGOSTO 2026 — 8 CUCCIOLI (4 MASCHI, 4 FEMMINE)</strong><br>
+<strong>🎉 NATI IL 1° AGOSTO 2026</strong><br>
 <strong>Non disponibili</strong>
 </div>
 
-All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente attesa: il **1° agosto 2026** la nostra **Bilquis Goddess Diabhal** — Campionessa Italiana di Bellezza ENCI e 4ª classificata al World Dog Show di Zagabria 2024 — è diventata mamma di **8 cuccioli (4 maschi e 4 femmine)**. Un accoppiamento pianificato con cura, che unisce il pedigree di **Bilquis Goddess Diabhal**, figlia di **Skilful-dogs Nora**, alle solide linee italiane del padre **Black Jack Di Casa Giacalone**, figlio del **Campione del Mondo 2023** Quash Marvelous Hagler de Stafflorence.
+All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente attesa: il **1° agosto 2026** la nostra **Bilquis Goddess Diabhal** — Campionessa Italiana di Bellezza ENCI e 4ª classificata al World Dog Show di Zagabria 2024 — è diventata mamma. Un accoppiamento pianificato con cura, che unisce il pedigree di **Bilquis Goddess Diabhal**, figlia di **Skilful-dogs Nora**, alle solide linee italiane del padre **Black Jack Di Casa Giacalone**, figlio del **Campione del Mondo 2023** Quash Marvelous Hagler de Stafflorence.
 
 ## I cuccioli appena nati
 
@@ -62,8 +62,6 @@ All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente a
 ## La cucciolata
 
 **Nati:** 1° agosto 2026
-
-**Numero:** 8 cuccioli — 4 maschi e 4 femmine
 
 **Colore:** tutti neri
 
