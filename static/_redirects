@@ -500,5 +500,5 @@
 /maschi/* /maschi-staffordshire-bull-terrier/ 301
 /cuccioli/* /cuccioli-staffordshire-bull-terrier/ 301
 
-# ---------- CATCH-ALL: sempre ultima ----------
-/* /404.html 404
+# Nessuna catch-all: Cloudflare Pages non accetta il codice 404 nei redirect
+# e serve gia' da solo 404.html per gli indirizzi inesistenti.
