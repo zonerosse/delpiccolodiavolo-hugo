@@ -206,7 +206,7 @@ custom_content: |
   </div>
   </div>
   
-<h3 style="margin-top:2rem;margin-bottom:1rem">Complete Results</h3>
+  <h3 style="margin-top:2rem;margin-bottom:1rem">Complete Results</h3>
   
   <div class="risultati-grid" style="display:grid;gap:0.75rem">
   

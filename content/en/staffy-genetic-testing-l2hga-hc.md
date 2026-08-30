@@ -171,7 +171,7 @@ custom_content: |
   <div class="faq-answer">Ask for the certificates as documents and compare the microchip number on them with the one your vet reads from the dog. That single comparison, which takes thirty seconds, settles the question — which is why we publish the certificates of our breeding dogs on this site rather than sending them on request.</div>
   </div>
 
-<div class="article-footer">
+  <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   </div>
   
