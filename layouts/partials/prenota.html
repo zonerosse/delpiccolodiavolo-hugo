@@ -9,45 +9,41 @@
 {{- $ep := .Site.Params.listaAttesaEndpoint -}}
 {{- $wa := .Site.Params.whatsapp | default "393924635584" -}}
 
-{{- $et := "display:block;font-weight:700;color:#5c4a3a;font-size:.9rem;margin-bottom:.1rem" -}}
-{{- $sub := "display:block;font-weight:400;color:#8a7a66;font-size:.78rem;margin-bottom:.3rem" -}}
-{{- $in := "width:100%;padding:.7rem;border:1px solid #d9cdb8;border-radius:9px;font-size:1rem" -}}
-{{- $se := "width:100%;padding:.7rem;border:1px solid #d9cdb8;border-radius:9px;font-size:1rem;background:#fff" -}}
 
 {{- if $ep }}
 <form id="formPrenota" method="POST" action="{{ $ep }}" style="display:grid;gap:.9rem">
 
-  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:.9rem">
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:.9rem">
 
     <label style="display:block">
-      <span style="{{ $et }}">Nome e cognome</span>
-      <span style="{{ $sub }}">Full name · Vor- und Nachname</span>
-      <input type="text" name="nome" required autocomplete="name" style="{{ $in }}">
+      <span style="display:block;font-weight:700;color:#5c4a3a;font-size:.9rem;margin-bottom:.1rem">Nome e cognome</span>
+      <span style="display:block;font-weight:400;color:#8a7a66;font-size:.78rem;margin-bottom:.3rem">Full name · Vor- und Nachname</span>
+      <input type="text" name="nome" required autocomplete="name" style="width:100%;padding:.7rem;border:1px solid #d9cdb8;border-radius:9px;font-size:1rem;box-sizing:border-box;background:#fff">
     </label>
 
     <label style="display:block">
-      <span style="{{ $et }}">Email</span>
-      <span style="{{ $sub }}">Email · E-Mail</span>
-      <input type="email" name="email" required autocomplete="email" style="{{ $in }}">
+      <span style="display:block;font-weight:700;color:#5c4a3a;font-size:.9rem;margin-bottom:.1rem">Email</span>
+      <span style="display:block;font-weight:400;color:#8a7a66;font-size:.78rem;margin-bottom:.3rem">Email · E-Mail</span>
+      <input type="email" name="email" required autocomplete="email" style="width:100%;padding:.7rem;border:1px solid #d9cdb8;border-radius:9px;font-size:1rem;box-sizing:border-box;background:#fff">
     </label>
 
     <label style="display:block">
-      <span style="{{ $et }}">Telefono o WhatsApp</span>
-      <span style="{{ $sub }}">Phone or WhatsApp · Telefon oder WhatsApp</span>
-      <input type="tel" name="telefono" autocomplete="tel" style="{{ $in }}">
+      <span style="display:block;font-weight:700;color:#5c4a3a;font-size:.9rem;margin-bottom:.1rem">Telefono o WhatsApp</span>
+      <span style="display:block;font-weight:400;color:#8a7a66;font-size:.78rem;margin-bottom:.3rem">Phone or WhatsApp · Telefon oder WhatsApp</span>
+      <input type="tel" name="telefono" autocomplete="tel" style="width:100%;padding:.7rem;border:1px solid #d9cdb8;border-radius:9px;font-size:1rem;box-sizing:border-box;background:#fff">
     </label>
 
     <label style="display:block">
-      <span style="{{ $et }}">Paese e città</span>
-      <span style="{{ $sub }}">Country and town · Land und Ort</span>
-      <input type="text" name="paese" autocomplete="country-name" style="{{ $in }}">
+      <span style="display:block;font-weight:700;color:#5c4a3a;font-size:.9rem;margin-bottom:.1rem">Paese e città</span>
+      <span style="display:block;font-weight:400;color:#8a7a66;font-size:.78rem;margin-bottom:.3rem">Country and town · Land und Ort</span>
+      <input type="text" name="paese" autocomplete="country-name" style="width:100%;padding:.7rem;border:1px solid #d9cdb8;border-radius:9px;font-size:1rem;box-sizing:border-box;background:#fff">
     </label>
 
 
     <label style="display:block">
-      <span style="{{ $et }}">Il cucciolo</span>
-      <span style="{{ $sub }}">The puppy · Der Welpe</span>
-      <select name="sesso" style="{{ $se }}">
+      <span style="display:block;font-weight:700;color:#5c4a3a;font-size:.9rem;margin-bottom:.1rem">Il cucciolo</span>
+      <span style="display:block;font-weight:400;color:#8a7a66;font-size:.78rem;margin-bottom:.3rem">The puppy · Der Welpe</span>
+      <select name="sesso" style="width:100%;padding:.7rem;border:1px solid #d9cdb8;border-radius:9px;font-size:1rem;background:#fff;box-sizing:border-box;max-width:100%;text-overflow:ellipsis">
         <option>Ne abbiamo già parlato · Already agreed · Bereits besprochen</option>
         <option>Maschio · Male · Rüde</option>
         <option>Femmina · Female · Hündin</option>
@@ -57,9 +53,9 @@
 
 
     <label style="display:block">
-      <span style="{{ $et }}">Hai già avuto cani?</span>
-      <span style="{{ $sub }}">Have you had dogs before? · Hatten Sie schon Hunde?</span>
-      <select name="esperienza" style="{{ $se }}">
+      <span style="display:block;font-weight:700;color:#5c4a3a;font-size:.9rem;margin-bottom:.1rem">Hai già avuto cani?</span>
+      <span style="display:block;font-weight:400;color:#8a7a66;font-size:.78rem;margin-bottom:.3rem">Have you had dogs before? · Hatten Sie schon Hunde?</span>
+      <select name="esperienza" style="width:100%;padding:.7rem;border:1px solid #d9cdb8;border-radius:9px;font-size:1rem;background:#fff;box-sizing:border-box;max-width:100%;text-overflow:ellipsis">
         <option>Sì, altre razze · Yes, other breeds · Ja, andere Rassen</option>
         <option>Sì, anche della razza · Yes, this breed too · Ja, auch diese Rasse</option>
         <option>È il mio primo cane · This is my first dog · Mein erster Hund</option>
@@ -69,9 +65,9 @@
   </div>
 
   <label style="display:block">
-    <span style="{{ $et }}">Dove vivrà il cane, e con chi</span>
-    <span style="{{ $sub }}">Where the dog will live, and with whom · Wo der Hund leben wird und mit wem</span>
-    <textarea name="note" rows="5" placeholder="Casa, giardino, altri animali, bambini, quante ore resta solo…" style="{{ $in }};font-family:inherit"></textarea>
+    <span style="display:block;font-weight:700;color:#5c4a3a;font-size:.9rem;margin-bottom:.1rem">Dove vivrà il cane, e con chi</span>
+    <span style="display:block;font-weight:400;color:#8a7a66;font-size:.78rem;margin-bottom:.3rem">Where the dog will live, and with whom · Wo der Hund leben wird und mit wem</span>
+    <textarea name="note" rows="5" placeholder="Casa, giardino, altri animali, bambini, quante ore resta solo…" style="width:100%;padding:.7rem;border:1px solid #d9cdb8;border-radius:9px;font-size:1rem;box-sizing:border-box;background:#fff;font-family:inherit"></textarea>
   </label>
 
   {{/* honeypot antispam: invisibile agli umani */}}
