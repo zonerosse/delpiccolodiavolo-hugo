@@ -38,7 +38,7 @@ In der Zucht **Del Piccolo Diavolo** ist ein besonders erwarteter Wurf angekomme
       <li>HC: <strong>Free by parents</strong> (Eltern Clear)</li>
       <li>Vollständiges Scherengebiss</li>
     </ul>
-    <p>🏆 <strong>Quash Marvelous Hagler de Stafflorence</strong> (Weltsieger 2023) × Ultima Di Casa Giacalone</p>
+    <p>🏆 <strong>Quash Marvelous Hagler de Stafflorence</strong> (Weltsieger 2023) × <strong>Ultima Di Casa Giacalone</strong> (Italienische Jugendchampionin)</p>
     <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" aria-label="Stammbaum ansehen von Black Jack Di Casa Giacalone (wird in einem neuen Tab geöffnet)">Stammbaum auf SBTPedigree ansehen →</a></p>
   </div>
 
@@ -75,7 +75,7 @@ Bilquis ist nicht nur eine Zuchthündin: Sie ist **Italienische Schönheitschamp
 
 ### Der Vater: Black Jack Di Casa Giacalone
 
-Black Jack ist ein junger **schwarzer** Rüde (geboren April 2025) mit einem erstklassigen Stammbaum: sein **Vater ist Quash Marvelous Hagler de Stafflorence, Weltsieger 2023 in Genf**, aus der renommierten Linie **de Stafflorence**. Mütterlicherseits die Zwinger **Di Casa Giacalone** und **Staffystar**, reich an Italienischen und Internationalen Champions. Kompakte, typvolle Struktur, vollständiges Scherengebiss.
+Black Jack ist ein junger **schwarzer** Rüde (geboren April 2025) mit einem erstklassigen Stammbaum: sein **Vater ist Quash Marvelous Hagler de Stafflorence, Weltsieger 2023 in Genf**, aus der renommierten Linie **de Stafflorence**. Seine **Mutter ist Ultima Di Casa Giacalone, Italienische Jugendchampionin**, aus den Zwingern **Di Casa Giacalone** und **Staffystar**, reich an Italienischen und Internationalen Champions. Kompakte, typvolle Struktur, vollständiges Scherengebiss.
 
 ## Gentests
 
@@ -107,7 +107,7 @@ Die Eltern sind auf die wichtigsten genetischen Erkrankungen der Rasse getestet:
   </div>
 
   <div style="background:#fff;border:1px solid #e2ddd6;border-radius:10px;padding:1.25rem">
-    <span style="display:inline-block;background:#5c4a3a;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Mutter</span>
+    <span style="display:inline-block;background:#5c4a3a;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Mutter</span><span style="display:inline-block;background:#8b7300;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px;margin-left:.35rem">★ Italienische Jugendchampionin</span>
     <p style="margin:.6rem 0 .3rem;font-weight:700">Ultima Di Casa Giacalone</p>
     <p style="margin:0 0 .9rem;font-size:.82rem;color:#666;line-height:1.5">Hündin — Mikrochip 380260044680718, Ahnentafel LO2313633<br>EVG Molekularna Diagnostika (Maribor, Slowenien) — Referenz 2026-083880/01, 27.08.2026</p>
     <ul style="margin:0;padding-left:1.1rem;font-size:.92rem">
