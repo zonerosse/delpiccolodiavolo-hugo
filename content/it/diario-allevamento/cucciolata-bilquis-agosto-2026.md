@@ -114,8 +114,6 @@ I genitori sono testati per le principali patologie genetiche della razza:
       <li>L2HGA (L2HGDH): <strong>Clear (WT/WT)</strong></li>
       <li>HC (HSF4): <strong>Clear (WT/WT)</strong></li>
     </ul>
-    <p style="margin:.9rem 0 0"><a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b">Referto L2HGA (PDF) →</a></p>
-    <p style="margin:.35rem 0 0"><a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b">Referto HC (PDF) →</a></p>
   </div>
 
 </div>
@@ -127,24 +125,12 @@ I genitori sono testati per le principali patologie genetiche della razza:
 <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
 Test Genetici Verificabili
 </h3>
-<p style="margin:0 0 1.5rem;font-size:1rem;color:#fff !important;font-weight:600">Trasparenza totale: esiti verificabili sul database SBTPedigree e certificati di laboratorio scaricabili qui sotto.</p>
-<p style="margin:0 0 .6rem;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:rgba(255,255,255,.75);font-weight:700">Genitori di Black Jack</p>
-<div style="display:grid;gap:.75rem;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));margin:0 0 1.4rem">
+<p style="margin:0 0 1.5rem;font-size:1rem;color:#fff !important;font-weight:600">Trasparenza totale: esiti verificabili sul database SBTPedigree e certificati di laboratorio scaricabili qui sotto. Per Ultima, madre di Black Jack, trovi laboratorio, numero di referto e microchip nella scheda più in alto.</p>
+<div style="display:grid;gap:.75rem;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))">
 <a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Quash, padre di Black Jack — Test genetici (PDF) (si apre in una nuova scheda)">
 <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Quash — Test genetici
 </a>
-<a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima, madre di Black Jack — Test L2HGA (PDF) (si apre in una nuova scheda)">
-<svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
-Ultima — L2HGA
-</a>
-<a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima, madre di Black Jack — Test HC (PDF) (si apre in una nuova scheda)">
-<svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
-Ultima — HC
-</a>
-</div>
-<p style="margin:0 0 .6rem;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:rgba(255,255,255,.75);font-weight:700">Bilquis</p>
-<div style="display:grid;gap:.75rem;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))">
 <a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Bilquis — Test L2HGA e HC (PDF) (si apre in una nuova scheda)">
 <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Bilquis — L2HGA &amp; HC
