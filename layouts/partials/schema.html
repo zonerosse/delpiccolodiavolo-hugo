@@ -319,8 +319,10 @@
        segnala come datetime non valido. La virgola sta in testa, cosi' se una
        data manca il JSON resta valido. */}}
   {{ $pub := cond $.Date.IsZero $.Lastmod $.Date }}
-  {{ if not $pub.IsZero }},"datePublished": "{{ $pub.Format "2006-01-02" }}"{{ end }}
-  {{ if not $.Lastmod.IsZero }},"dateModified": "{{ $.Lastmod.Format "2006-01-02" }}"{{ end }}
+  {{/* Formato completo con ora e fuso: ProfilePage lo pretende, e per gli
+       altri tipi va bene lo stesso. */}}
+  {{ if not $pub.IsZero }},"datePublished": "{{ $pub.Format "2006-01-02T15:04:05-07:00" }}"{{ end }}
+  {{ if not $.Lastmod.IsZero }},"dateModified": "{{ $.Lastmod.Format "2006-01-02T15:04:05-07:00" }}"{{ end }}
 }
 </script>
 {{ end }}
