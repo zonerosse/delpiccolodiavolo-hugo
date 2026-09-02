@@ -1,0 +1,58 @@
+#!/bin/sh
+#
+# pre-commit — aggiorna "lastmod" nelle pagine che stai committando.
+#
+# PERCHE' SERVE
+# Cloudflare Pages clona il repository senza storia (un solo commit), quindi
+# enableGitInfo non trova le date e Hugo scriverebbe 0001-01-01 nello schema.
+# Tenere la data nel front matter risolve, ma va aggiornata: ci pensa questo.
+#
+# COSA FA
+# Per ogni file .md sotto content/ incluso nel commit:
+#   - se ha gia' "lastmod:", ne cambia il valore con la data di oggi
+#   - se non ce l'ha, lo inserisce subito dopo la riga "title:"
+# Poi rimette il file nell'area di staging, cosi' la modifica entra nel commit.
+#
+# NON tocca i file che non stai committando, ne' quelli fuori da content/.
+#
+# INSTALLAZIONE (una volta sola, in ogni copia del repository):
+#   git config core.hooksPath .githooks
+#
+# Per saltarlo in un commit singolo:  git commit --no-verify
+
+OGGI=$(date +%Y-%m-%d)
+TOCCATI=0
+
+# solo file aggiunti (A), modificati (M) o rinominati (R)
+FILES=$(git diff --cached --name-only --diff-filter=AMR -- 'content/*.md' 'content/**/*.md')
+
+[ -z "$FILES" ] && exit 0
+
+for f in $FILES; do
+  [ -f "$f" ] || continue
+
+  if grep -q '^lastmod:' "$f"; then
+    # esiste: sostituisco il valore, ma solo se e' diverso da oggi
+    if grep -q "^lastmod: $OGGI\$" "$f"; then
+      continue
+    fi
+    sed -i "0,/^lastmod:.*/s//lastmod: $OGGI/" "$f"
+  else
+    # non esiste: lo inserisco dopo il titolo
+    if grep -q '^title:' "$f"; then
+      sed -i "0,/^title:.*/s//&\\nlastmod: $OGGI/" "$f"
+    else
+      # nessun titolo: lo metto in cima al front matter
+      sed -i "0,/^---\$/s//---\\nlastmod: $OGGI/" "$f"
+    fi
+  fi
+
+  git add "$f"
+  TOCCATI=$((TOCCATI + 1))
+done
+
+if [ "$TOCCATI" -gt 0 ]; then
+  echo "lastmod aggiornato a $OGGI in $TOCCATI file"
+fi
+
+exit 0
