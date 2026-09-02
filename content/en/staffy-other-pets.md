@@ -1,5 +1,6 @@
 ---
 title: "Staffy and Other Pets"
+lastmod: 2026-09-02
 translationKey: "altri-animali"
 articolo: true
 image: "/images/blog/famiglia-3.webp"

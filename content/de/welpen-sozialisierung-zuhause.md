@@ -1,5 +1,6 @@
 ---
 title: "Welpen: Sozialisierung zu Hause"
+lastmod: 2026-09-02
 translationKey: "socializzazione"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"

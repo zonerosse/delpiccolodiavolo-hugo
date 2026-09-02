@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier für ältere Besitzer"
+lastmod: 2026-09-02
 translationKey: "anziani"
 articolo: true
 image: "/images/blog/famiglia-3.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Kennel"
+lastmod: 2026-09-02
 translationKey: "home"
 description: "Ethical Staffordshire Bull Terrier kennel since 2013. ENCI FCI pedigree, full genetic testing, breeding stock microchips published and verifiable."
 correlati:

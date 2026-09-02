@@ -1,5 +1,6 @@
 ---
 title: "Richiesta ricevuta"
+lastmod: 2026-09-02
 description: "Ti rispondo entro 24 ore."
 slug: "prenota-grazie"
 noindex: true

@@ -1,5 +1,6 @@
 ---
 title: "Cuccioli Staffordshire Bull Terrier"
+lastmod: 2026-09-02
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
 description: "Cuccioli Staffordshire Bull Terrier con pedigree ENCI e test genetici. Linee Elitebull e Lackyle. Ostellato (FE)."

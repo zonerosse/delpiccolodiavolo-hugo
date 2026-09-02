@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Reviews"
+lastmod: 2026-09-02
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
 description: "⭐ 38 Google reviews 4.9/5: read real experiences from owners of our Staffordshire Bull Terriers. Professionalism, health and balanced character guaranteed."

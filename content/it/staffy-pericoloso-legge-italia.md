@@ -1,5 +1,6 @@
 ---
 title: "Lo Staffy è Pericoloso? Verità e Legge Italiana"
+lastmod: 2026-09-02
 translationKey: "pericoloso"
 articolo: true
 image: "/images/blog/hero-default.webp"

@@ -1,5 +1,6 @@
 ---
 title: "Privacy Policy – Del Piccolo Diavolo"
+lastmod: 2026-09-02
 tipoPagina: "WebPage"
 translationKey: "privacy"
 description: "Privacy Policy e trattamento dati personali dell'Allevamento Del Piccolo Diavolo - Informativa GDPR."

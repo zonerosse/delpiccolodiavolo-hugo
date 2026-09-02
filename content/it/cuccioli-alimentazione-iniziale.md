@@ -1,5 +1,6 @@
 ---
 title: "Cuccioli: Alimentazione iniziale"
+lastmod: 2026-09-02
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/hero-default.webp"

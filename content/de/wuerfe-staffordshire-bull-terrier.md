@@ -1,5 +1,6 @@
 ---
 title: "Würfe Staffordshire Bull Terrier"
+lastmod: 2026-09-02
 tipoPagina: "CollectionPage"
 translationKey: "programma"
 description: "Staffordshire Bull Terrier Würfe mit ausgewählten Eltern, L2HGA/HC Gentests, ENCI-Stammbaum. Zuchtprogramm, Elitebull und Lackyle Linien. Ostellato (FE)."

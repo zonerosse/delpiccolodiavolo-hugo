@@ -1,5 +1,6 @@
 ---
 title: "Staffy and Elderly Owners"
+lastmod: 2026-09-02
 translationKey: "anziani"
 articolo: true
 image: "/images/blog/famiglia-2.webp"

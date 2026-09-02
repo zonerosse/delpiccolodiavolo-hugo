@@ -1,5 +1,6 @@
 ---
 title: "Cuccioli: Giochi mentali"
+lastmod: 2026-09-02
 translationKey: "giochi-mentali"
 articolo: true
 image: "/images/blog/cuccioli-6.webp"

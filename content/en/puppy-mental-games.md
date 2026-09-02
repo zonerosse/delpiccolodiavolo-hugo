@@ -1,5 +1,6 @@
 ---
 title: "Puppies: Mental Games"
+lastmod: 2026-09-02
 translationKey: "giochi-mentali"
 articolo: true
 image: "/images/blog/cuccioli-3.webp"

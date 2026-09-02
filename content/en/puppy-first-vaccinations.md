@@ -1,5 +1,6 @@
 ---
 title: "Puppies: First Vaccinations"
+lastmod: 2026-09-02
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/salute.webp"

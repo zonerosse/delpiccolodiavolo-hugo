@@ -1,5 +1,6 @@
 ---
 title: "Privacy Policy – Del Piccolo Diavolo"
+lastmod: 2026-09-02
 tipoPagina: "WebPage"
 translationKey: "privacy"
 description: "Privacy Policy and personal data processing of Del Piccolo Diavolo Kennel - GDPR Information."
