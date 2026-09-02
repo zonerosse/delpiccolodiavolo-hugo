@@ -1,5 +1,6 @@
 ---
 title: "Puppies: First Walk"
+lastmod: 2026-09-02
 translationKey: "passeggiata"
 articolo: true
 image: "/images/blog/cuccioli-5.webp"

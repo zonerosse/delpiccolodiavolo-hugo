@@ -1,5 +1,6 @@
 ---
 title: "Diario Allevamento"
+lastmod: 2026-09-02
 tipoPagina: "CollectionPage"
 articolo: true
 translationKey: "diario-allevamento"

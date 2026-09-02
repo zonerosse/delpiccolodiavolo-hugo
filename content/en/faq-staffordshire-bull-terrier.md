@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier FAQ - Frequently Asked Questions"
+lastmod: 2026-09-02
 translationKey: "faq"
 description: "Answers to the most common questions about the Staffordshire Bull Terrier: temperament, health, cost and choosing a breeder."
 slug: "faq-staffordshire-bull-terrier"

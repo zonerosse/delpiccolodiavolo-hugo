@@ -1,5 +1,6 @@
 ---
 title: "Female Staffordshire Bull Terriers"
+lastmod: 2026-09-02
 tipoPagina: "CollectionPage"
 translationKey: "femmine"
 description: "Our female Staffordshire Bull Terriers: Bilquis (Top Dog Junior 2023), Croi Olc, Divine, Kennedy, Derry, Cattleya. L2HGA and HC certified genetic testing."

@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Bloodlines Guide"
+lastmod: 2026-09-02
 translationKey: "linee-sangue"
 articolo: true
 image: "/images/blog/standard-1.webp"

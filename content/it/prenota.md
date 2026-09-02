@@ -1,16 +1,14 @@
 ---
 title: "Prenota un cucciolo"
+lastmod: 2026-09-02
 noindex: true
 tipoPagina: "WebPage"
 description: "Modulo di prenotazione — Del Piccolo Diavolo."
 slug: "prenota"
 custom_content: |
-  <section class="hero">
-  <div class="hero-content" style="max-width:100%">
-  <span class="hero-eyebrow">Del Piccolo Diavolo</span>
-  <h1 class="hero-title">Prenota un cucciolo</h1>
-  <p class="hero-subtitle">Reserve a puppy · Einen Welpen reservieren</p>
-  </div>
+  <section class="page-hero">
+  <h1>Prenota un cucciolo</h1>
+  <p style="font-family:Georgia,serif;font-style:italic">Reserve a puppy · Einen Welpen reservieren</p>
   </section>
 
   <section class="section">

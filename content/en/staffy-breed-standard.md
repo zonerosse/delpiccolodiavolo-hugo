@@ -1,5 +1,6 @@
 ---
 title: "Staffy Breed Standard"
+lastmod: 2026-09-02
 translationKey: "standard"
 articolo: true
 image: "/images/blog/standard-1.webp"

@@ -1,5 +1,6 @@
 ---
 title: "Cuccioli: Educazione ai bisogni"
+lastmod: 2026-09-02
 translationKey: "bisogni"
 articolo: true
 image: "/images/blog/hero-default.webp"

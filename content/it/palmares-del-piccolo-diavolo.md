@@ -1,5 +1,6 @@
 ---
 title: "Palmares Staffordshire Bull Terrier"
+lastmod: 2026-09-02
 tipoPagina: "CollectionPage"
 translationKey: "palmares"
 description: "Risultati e titoli dei nostri Staffordshire Bull Terrier: Campioni Italiani, Giovani Campioni, Best in Show. Allevamento Del Piccolo Diavolo, Emilia-Romagna."

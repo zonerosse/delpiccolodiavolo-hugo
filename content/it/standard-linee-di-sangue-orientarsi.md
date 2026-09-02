@@ -1,5 +1,6 @@
 ---
 title: "Linee di Sangue Staffordshire Bull Terrier: Come Orientarsi"
+lastmod: 2026-09-02
 translationKey: "scelta-linee"
 articolo: true
 image: "/images/blog/standard-2.webp"

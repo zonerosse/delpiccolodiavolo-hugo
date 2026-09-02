@@ -1,5 +1,6 @@
 ---
 title: "Linee di Sangue Staffordshire Bull Terrier: Storia e Genealogia"
+lastmod: 2026-09-02
 titleSeo: "Linee di sangue Staffordshire Bull Terrier: storia"
 translationKey: "linee-sangue"
 articolo: true

@@ -1,5 +1,6 @@
 ---
 title: "Welpen: Allein Bleiben Lernen"
+lastmod: 2026-09-02
 translationKey: "solitudine"
 articolo: true
 image: "/images/blog/hero-default.webp"

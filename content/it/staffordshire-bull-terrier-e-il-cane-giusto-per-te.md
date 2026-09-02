@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier: è il cane giusto per te? Pro e contro"
+lastmod: 2026-09-02
 titleSeo: "Staffordshire Bull Terrier: è il cane giusto per te?"
 translationKey: "cane-giusto"
 articolo: true

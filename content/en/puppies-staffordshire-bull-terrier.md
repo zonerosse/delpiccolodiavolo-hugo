@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Puppies"
+lastmod: 2026-09-02
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
 description: "Staffordshire Bull Terrier puppies with ENCI pedigree and genetic tests. Elitebull and Lackyle lines. Ostellato, Italy."

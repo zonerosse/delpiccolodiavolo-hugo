@@ -1,5 +1,6 @@
 ---
 title: "Parassiti: Prevenzione e Controllo Staffordshire Bull Terrier"
+lastmod: 2026-09-02
 titleSeo: "Parassiti nello Staffordshire Bull Terrier: prevenzione"
 translationKey: "parassiti"
 articolo: true

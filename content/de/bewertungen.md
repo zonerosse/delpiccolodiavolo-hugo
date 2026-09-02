@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Bewertungen"
+lastmod: 2026-09-02
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
 description: "Die 38 Bewertungen der Familien, die einen Welpen von Del Piccolo Diavolo gewählt haben, Durchschnitt 4,9 auf Google. Echte Erfahrungen, vor und nach der Abgabe."

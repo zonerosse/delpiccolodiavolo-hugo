@@ -1,5 +1,6 @@
 ---
 title: "Welpen: Erste Impfungen"
+lastmod: 2026-09-02
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/salute.webp"

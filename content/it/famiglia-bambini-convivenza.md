@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier e Bambini: Convivenza Sicura"
+lastmod: 2026-09-02
 translationKey: "bambini"
 articolo: true
 image: "/images/blog/famiglia-1.webp"

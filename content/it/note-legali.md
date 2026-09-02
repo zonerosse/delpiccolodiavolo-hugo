@@ -1,5 +1,6 @@
 ---
 title: "Note Legali – Del Piccolo Diavolo"
+lastmod: 2026-09-02
 tipoPagina: "WebPage"
 translationKey: "note-legali"
 description: "Note legali, disclaimer e termini di utilizzo del sito dell'Allevamento Del Piccolo Diavolo - Staffordshire Bull Terrier a Ostellato (FE)."

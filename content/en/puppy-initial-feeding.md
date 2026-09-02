@@ -1,5 +1,6 @@
 ---
 title: "Puppies: Initial Feeding"
+lastmod: 2026-09-02
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/hero-default.webp"

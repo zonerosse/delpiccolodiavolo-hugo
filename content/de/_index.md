@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Zucht"
+lastmod: 2026-09-02
 translationKey: "home"
 description: "Ethische Staffordshire Bull Terrier Zucht seit 2013. ENCI-FCI-Ahnentafel, vollständige Gentests, Mikrochips der Zuchttiere öffentlich und überprüfbar."
 correlati:

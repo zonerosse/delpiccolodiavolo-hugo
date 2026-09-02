@@ -1,5 +1,6 @@
 ---
 title: "Sichere Bewegung für Staffordshire Bull Terrier"
+lastmod: 2026-09-02
 translationKey: "esercizio"
 articolo: true
 image: "/images/blog/salute-1.webp"

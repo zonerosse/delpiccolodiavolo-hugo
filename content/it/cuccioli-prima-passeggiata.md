@@ -1,5 +1,6 @@
 ---
 title: "Cuccioli: Prima passeggiata"
+lastmod: 2026-09-02
 translationKey: "passeggiata"
 articolo: true
 image: "/images/blog/cuccioli-7.webp"
