@@ -1,11 +1,11 @@
 ---
 title: "Richiesta ricevuta"
-lastmod: 2026-09-02
+lastmod: 2026-09-03
 description: "Ti rispondo entro 24 ore."
 slug: "prenota-grazie"
 noindex: true
 tipoPagina: "WebPage"
-_build:
+build:
   list: never
 custom_content: |
   <section class="page-hero">
