@@ -5,3 +5,6 @@ public_*
 
 # Backup e copie di lavoro: restano sul disco, fuori da git
 content_backup/
+
+# Zip di lavoro: fuori dal repo
+*.zip
