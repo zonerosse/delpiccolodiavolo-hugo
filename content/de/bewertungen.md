@@ -3,7 +3,7 @@ title: "Staffordshire Bull Terrier Bewertungen"
 lastmod: 2026-09-03
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
-description: "Die 38 Bewertungen der Familien, die einen Welpen von Del Piccolo Diavolo gewählt haben, Durchschnitt 4,9 auf Google. Echte Erfahrungen, vor und nach der Abgabe."
+description: "Die Google-Bewertungen der Familien, die einen Welpen von Del Piccolo Diavolo gewählt haben. Echte Erfahrungen, vor und nach der Abgabe."
 slug: "bewertungen"
 custom_content: |
   <section class="hero">
@@ -13,7 +13,7 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">⭐ 4,9/5 bei Google</span>
+  <span class="hero-eyebrow">⭐ <!--REC-VOTO-->/5 bei Google</span>
   <h1 class="hero-title">Unsere <br><em>Bewertungen</em></h1>
   <p class="hero-subtitle">36 verifizierte Testimonials</p>
   <p class="hero-description">Echte Erfahrungen von Besitzern unserer Staffordshire Bull Terrier: Professionalität, Gesundheit und ausgeglichener Charakter garantiert.</p>
@@ -26,8 +26,8 @@ custom_content: |
   
   <div class="features-bar">
   <div class="features-track">
-  <span>Seit 2013</span><span>4,9★ Google</span><span>38 Bewertungen</span><span>100% Verifiziert</span><span>Lebenslanger Support</span><span>Zufriedene Kunden</span>
-  <span>Seit 2013</span><span>4,9★ Google</span><span>38 Bewertungen</span><span>100% Verifiziert</span><span>Lebenslanger Support</span><span>Zufriedene Kunden</span>
+  <span>Seit 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Bewertungen</span><span>100% Verifiziert</span><span>Lebenslanger Support</span><span>Zufriedene Kunden</span>
+  <span>Seit 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Bewertungen</span><span>100% Verifiziert</span><span>Lebenslanger Support</span><span>Zufriedene Kunden</span>
   </div>
   </div>
   
@@ -38,7 +38,7 @@ custom_content: |
   <h2 class="section-title">Warum Bewertungen Zählen</h2>
   <div class="values-grid">
   <div class="value-card"><h3>✓ Transparenz</h3><p>Jede Bewertung bei Google verifizierbar</p></div>
-  <div class="value-card"><h3>⭐ 4,9/5</h3><p>Durchschnitt aufgebaut seit 2013</p></div>
+  <div class="value-card"><h3>⭐ <!--REC-VOTO-->/5</h3><p>Durchschnitt aufgebaut seit 2013</p></div>
   <div class="value-card"><h3>📞 Support</h3><p>Betreuung für das ganze Leben des Hundes</p></div>
   <div class="value-card"><h3>🏆 Qualität</h3><p>Zertifizierte Elitebull und Lackyle Linien</p></div>
   </div>

@@ -23,7 +23,7 @@ custom_content: |
   <!--HEROFOTO-->
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">4,9 bei 38 Bewertungen</span>
+  <span class="hero-eyebrow"><!--REC-VOTO--> bei <!--REC-TOTALE--> Bewertungen</span>
   <h1 class="hero-title">Staffordshire <br><em>Bull Terrier</em> <br>Zucht</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo - Selektion, Gesundheit und Charakter</p>
   <p class="hero-description">Wenn Sie an eine Staffordshire Bull Terrier Zucht denken, stellen Sie sich ordentliche Boxen und identische Welpen vor? Bei uns ist es anders. Jeder Hund hat einen Namen, eine Geschichte, einen Charakter. Wir züchten nicht in Serie: Wir pflegen Beziehungen, Erinnerungen und unvergessliche Momente.</p>
@@ -216,7 +216,7 @@ custom_content: |
   <span>Ist der Staffordshire Bull Terrier gefahrlich?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Nein. Mit serioeser Charakterselektion, fruher Sozialisierung und verantwortungsvollen Besitzern ist der Staffy ein liebevoller und stabiler Hund. Ich zuechte diese Rasse seit 2013 und kann garantieren, dass Aggression von Genetik, Erziehung und Umgebung abhangt, nicht von der Rasse.</div>
+  <div class="faq-answer">Nein. Mit seriöser Charakterselektion, früher Sozialisierung und verantwortungsvollen Besitzern ist der Staffy ein liebevoller und stabiler Hund. Ich züchte diese Rasse seit 2013 und kann garantieren, dass Aggression von Genetik, Erziehung und Umgebung abhängt, nicht von der Rasse.</div>
   </div>
   
   <div class="faq-item active">
