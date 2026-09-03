@@ -1,9 +1,16 @@
 ---
 title: "Cucciolata Bilquis × Black Jack (agosto 2026)"
+lastmod: 2026-09-03
 articolo: true
 titleSeo: "Cucciolata Bilquis × Black Jack, agosto 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
 description: "Cucciolata nata il 1° agosto 2026 da Bilquis Goddess Diabhal, Campionessa Italiana ENCI. Genitori testati, referti pubblicati. Non disponibili."
+video:
+  id: "rm1fY0_P6I8"
+  nome: "Cucciola di Staffordshire Bull Terrier a 30 giorni"
+  descrizione: "Una cucciola della cucciolata Bilquis x Black Jack ripresa a trenta giorni, in casa, all'allevamento Del Piccolo Diavolo di Ostellato (FE)."
+  durata: "PT16S"
+  caricato: "2026-09-04"
 slug: "cucciolata-bilquis-agosto-2026"
 date: 2026-08-01
 image: "/images/cuccioli-bilquis-nati-1.webp"
@@ -25,6 +32,21 @@ All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente a
 <img src="/images/cuccioli-bilquis-nati-1.webp" alt="Cuccioli Staffordshire Bull Terrier neri appena nati - Bilquis x Black Jack" width="435" height="480" loading="lazy" decoding="async" style="width:320px;max-width:100%;height:auto;border-radius:12px">
 <img src="/images/cuccioli-bilquis-nati-2.webp" alt="Bilquis con i suoi cuccioli Staffordshire Bull Terrier appena nati" width="468" height="480" loading="lazy" decoding="async" style="width:320px;max-width:100%;height:auto;border-radius:12px">
 </div>
+
+
+## A trenta giorni
+
+Il 31 agosto i cuccioli hanno compiuto un mese. Gli occhi sono aperti da settimane, le zampe reggono, e comincia il periodo in cui un cucciolo impara cos'è normale e cosa fa paura: le voci, le mani che lo prendono in braccio, i rumori della casa.
+
+<div style="max-width:340px;margin:1.75rem auto;border-radius:14px;overflow:hidden;box-shadow:0 8px 25px rgba(0,0,0,.12)">
+<div style="position:relative;padding-bottom:152.2%;height:0;background:#e6ddd4">
+<iframe src="https://www.youtube-nocookie.com/embed/rm1fY0_P6I8" title="Cucciola di Staffordshire Bull Terrier a 30 giorni – cucciolata Bilquis × Black Jack" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe>
+</div>
+</div>
+
+<p style="font-size:.85rem;color:#7a6a58;text-align:center">Una cucciola della cucciolata a trenta giorni, in casa.</p>
+
+I cuccioli crescono in casa. La legge vieta l'affido prima dei sessanta giorni: qui restano con la madre fino a settanta.
 
 ## I genitori
 
