@@ -1,0 +1,151 @@
+﻿# Sposta in _archivio/immagini le immagini non richiamate da nessuna pagina.
+# Generato il 2026-09-03 sulla base dell'HTML compilato, non del sorgente.
+# I file restano in git: escono solo da static/, quindi non vengono piu' pubblicati.
+
+$ErrorActionPreference = "Stop"
+$dest = "_archivio/immagini"
+
+if (-not (Test-Path "hugo.toml")) {
+  Write-Host "Eseguilo dalla radice del repo (C:\Hugo\delpiccolodiavolo-hugo)." -ForegroundColor Red
+  exit 1
+}
+
+New-Item -ItemType Directory -Force -Path $dest | Out-Null
+
+$files = @(
+  "1ea49f2a-1bfd-4789-af0b-0e45d2838095.avif"
+  "20250921153730-fd1aa4e9-sm.webp"
+  "20250922175123-df0ff861-sm.webp"
+  "20250922175125-25e61533-sm.webp"
+  "6ceee1d3-bcff-4987-b37d-56ee6b08fd10.avif"
+  "IMG_1.avif"
+  "IMG_4175-217x240.webp"
+  "IMG_4175-433x480.webp"
+  "IMG_4175.webp"
+  "IMG_5465.jpeg"
+  "IMG_5511.jpeg"
+  "IMG_5684.avif"
+  "IMG_5684.png"
+  "IMG_5684.webp"
+  "IMG_5685.jpeg"
+  "IMG_5694.avif"
+  "IMG_5694.png"
+  "IMG_5694.webp"
+  "IMG_5695.avif"
+  "IMG_5695.png"
+  "IMG_5695.webp"
+  "IMG_5710.png"
+  "IMG_5710.webp"
+  "IMG_5711.avif"
+  "IMG_5711.png"
+  "IMG_5711.webp"
+  "IMG_5712.png"
+  "IMG_5712.webp"
+  "IMG_5717.avif"
+  "IMG_5717.png"
+  "IMG_5717.webp"
+  "IMG_5724.avif"
+  "IMG_5724.png"
+  "IMG_5724.webp"
+  "IMG_6746.jpeg"
+  "Tikus.webp"
+  "a45b8d56-7859-4b61-b0b3-18f0217b0606-min-1-compressed-2025-09-19-224221.avif"
+  "a45b8d56-7859-4b61-b0b3-18f0217b0606.avif"
+  "billy-e-Jack1.jpg"
+  "billy-e-jack2.jpg"
+  "braveheart.webp"
+  "contatti-small.jpg"
+  "cucciola-rossa.jpg"
+  "cucciola-rossa.webp"
+  "cuccioli-in-piscina.webp"
+  "cuccioli-orizzontale.mp4.mp4"
+  "cuccioli-staffy-seduti.PNG"
+  "cuccioli-staffy-seduti.avif"
+  "cuccioli-staffy-seduti.webp"
+  "cuccioli-staffy.avif"
+  "cuccioli-staffy.jpg"
+  "cuccioli-staffy.webp"
+  "cuccioli-tigrati.avif"
+  "cucciolo-al-sole.jpg"
+  "cucciolo-cucciolata-uno.jpg"
+  "cucciolo-cucciolata-uno.webp"
+  "ebc632f3-2f31-4639-b31a-146be5bc1520.avif"
+  "femmine-intro.webp"
+  "heat.jpg"
+  "heat.webp"
+  "hero-best-young.webp"
+  "img-1706.avif"
+  "img-1707.avif"
+  "img-2653.avif"
+  "img-2716.avif"
+  "img-2776.avif"
+  "img-3053.avif"
+  "img-3296.avif"
+  "img-3461.avif"
+  "img-3498.avif"
+  "img-3621.avif"
+  "img-4175.avif"
+  "img-4352.avif"
+  "img-5451.avif"
+  "img-5453.avif"
+  "img-5454.avif"
+  "img-5464.avif"
+  "img-5490.avif"
+  "img-5496.avif"
+  "img-5524.avif"
+  "img-5534.avif"
+  "img-5548.avif"
+  "img-5612.avif"
+  "img-7021.avif"
+  "intera-cucciolata-nell'erba.avif"
+  "intera-cucciolata-nell'erba.png"
+  "intera-cucciolata-nell'erba.webp"
+  "map-ostellato-static.jpg"
+  "maschio-placeholder.webp"
+  "maschio-tigrato.avif"
+  "maschio-tigrato.jpg"
+  "maschio-tigrato.webp"
+  "nora.avif"
+  "nora.jpg"
+  "nora.webp"
+  "oba-oba.webp"
+  "preview.webp"
+  "queen-of-california.jpeg"
+  "recensioni-foto-1.webp"
+  "red.jpeg"
+  "storia-handler.avif"
+  "tikus-2.webp"
+  "tikus-bologna-primo.avif"
+  "tikus-bologna-primo.jpeg"
+  "tikus-bologna-primo.webp"
+  "tikus-bologna.jpeg"
+  "tikus-bologna.webp"
+  "tikus-primo.webp"
+  "tikus-testone.webp"
+  "tikus1.jpg"
+  "tikus3.webp"
+  "tikus_ah2hlevg.webp"
+)
+
+$spostati = 0
+$mancanti  = 0
+foreach ($f in $files) {
+  $src = "static/images/$f"
+  if (Test-Path -LiteralPath $src) {
+    git mv --force -- "$src" "$dest/$f"
+    $spostati++
+  } else {
+    Write-Host "  gia' assente: $f" -ForegroundColor DarkGray
+    $mancanti++
+  }
+}
+
+Write-Host ""
+Write-Host "Spostati: $spostati   Gia' assenti: $mancanti" -ForegroundColor Green
+Write-Host ""
+Write-Host "Adesso:" -ForegroundColor Cyan
+Write-Host "  hugo --gc --minify      controlla che resti 100/93/93 e nessun errore"
+Write-Host "  hugo server -D          giro veloce sulle pagine con foto"
+Write-Host "  git status              devono comparire solo rinomini (R)"
+Write-Host ""
+Write-Host "Se qualcosa non torna:  git reset --hard HEAD" -ForegroundColor Yellow
