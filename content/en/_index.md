@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Kennel"
-lastmod: 2026-09-02
+lastmod: 2026-09-03
 translationKey: "home"
 description: "Ethical Staffordshire Bull Terrier kennel since 2013. ENCI FCI pedigree, full genetic testing, breeding stock microchips published and verifiable."
 correlati:
@@ -216,7 +216,7 @@ custom_content: |
   <span>Is the Staffordshire Bull Terrier dangerous?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">No. With serious character selection, early socialization and responsible owners, the Staffy is an affectionate and stable dog. After over 12 years breeding this breed, I can guarantee that aggression depends on genetics, education and environment, not the breed.</div>
+  <div class="faq-answer">No. With serious character selection, early socialization and responsible owners, the Staffy is an affectionate and stable dog. Breeding this breed since 2013, I can guarantee that aggression depends on genetics, education and environment, not the breed.</div>
   </div>
   
   <div class="faq-item active">

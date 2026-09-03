@@ -1,5 +1,6 @@
 ---
 title: "Staffy oder Amstaff: Welche der beiden Rassen passt zu Ihnen"
+lastmod: 2026-09-03
 articolo: true
 image: "/images/blog/hero-default.webp"
 titleSeo: "Staffy oder Amstaff: welche Rasse wählen"
@@ -86,7 +87,7 @@ categories: ["Rassestandard"]
 
 <h2>Meine Erfahrung als Züchter</h2>
 
-<p>Ich züchte seit über zwölf Jahren Staffordshire Bull Terrier und habe die Rasse genau wegen ihres Gleichgewichts aus Wesen, Größe und Handhabbarkeit gewählt. Unsere <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Staffordshire Bull Terrier Welpen</a> wachsen in der Familie auf, mit Kindern, und entwickeln jenes ruhige, freundliche Wesen, für das die Rasse bekannt ist.</p>
+<p>Ich züchte seit 2013 Staffordshire Bull Terrier und habe die Rasse genau wegen ihres Gleichgewichts aus Wesen, Größe und Handhabbarkeit gewählt. Unsere <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Staffordshire Bull Terrier Welpen</a> wachsen in der Familie auf, mit Kindern, und entwickeln jenes ruhige, freundliche Wesen, für das die Rasse bekannt ist.</p>
 
 <p>Wenn Sie unsicher sind, welche Rasse zu Ihnen passt, melden Sie sich: ich helfe Ihnen herauszufinden, ob der Staffy der richtige Hund für Sie ist — und sage Ihnen auch, wenn er es nicht ist.</p>
 

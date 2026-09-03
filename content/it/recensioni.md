@@ -1,6 +1,6 @@
 ---
 title: "Recensioni Staffordshire Bull Terrier"
-lastmod: 2026-09-02
+lastmod: 2026-09-03
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
 description: "Le 38 recensioni delle famiglie che hanno scelto un cucciolo Del Piccolo Diavolo, con media 4,9 su Google. Esperienze reali, prima e dopo l’affidamento."
@@ -38,7 +38,7 @@ custom_content: |
   <h2 class="section-title">Perché Le Recensioni Contano</h2>
   <div class="values-grid">
   <div class="value-card"><h3>✓ Trasparenza</h3><p>Ogni recensione verificabile su Google</p></div>
-  <div class="value-card"><h3>⭐ 4.9/5</h3><p>Media costruita in 13 anni di lavoro</p></div>
+  <div class="value-card"><h3>⭐ 4.9/5</h3><p>Media costruita dal 2013</p></div>
   <div class="value-card"><h3>📞 Supporto</h3><p>Assistenza per tutta la vita del cane</p></div>
   <div class="value-card"><h3>🏆 Qualità</h3><p>Linee Elitebull e Lackyle certificate</p></div>
   </div>

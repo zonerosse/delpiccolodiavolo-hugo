@@ -1,6 +1,6 @@
 ---
 title: "FAQ Staffordshire Bull Terrier - Häufig gestellte Fragen"
-lastmod: 2026-09-02
+lastmod: 2026-09-03
 translationKey: "faq"
 description: "Antworten auf häufig gestellte Fragen über Staffordshire Bull Terrier: Charakter, Gesundheit, Welpen, Kosten, Ernährung, Training. Zucht Del Piccolo Diavolo."
 slug: "faq-staffordshire-bull-terrier"
@@ -42,7 +42,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Ist der Staffordshire Bull Terrier gefährlich oder aggressiv?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Nein, ein gut selektierter und sozialisierter Staffordshire Bull Terrier ist nicht gefährlich. Seit über 12 Jahren züchte ich diese Rasse und kann garantieren, dass mit seriöser Charakterselektion, früher Sozialisierung und verantwortungsvollen Besitzern der Staffy ein liebevoller und stabiler Hund ist. Aggressivität hängt von Genetik, Erziehung und Umgebung ab, nicht von der Rasse.</div>
+  <div class="faq-answer">Nein, ein gut selektierter und sozialisierter Staffordshire Bull Terrier ist nicht gefährlich. Seit 2013 züchte ich diese Rasse und kann garantieren, dass mit seriöser Charakterselektion, früher Sozialisierung und verantwortungsvollen Besitzern der Staffy ein liebevoller und stabiler Hund ist. Aggressivität hängt von Genetik, Erziehung und Umgebung ab, nicht von der Rasse.</div>
   </div>
   
   <div class="faq-item active">
