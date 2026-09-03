@@ -1,9 +1,16 @@
 ---
 title: "Wurf Bilquis × Black Jack (August 2026)"
+lastmod: 2026-09-03
 articolo: true
 titleSeo: "Wurf Bilquis × Black Jack, August 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
 description: "Geboren am 1. August 2026: 8 Staffordshire Bull Terrier Welpen von Bilquis Goddess Diabhal, Italienische Championin ENCI. Nicht verfügbar."
+video:
+  id: "rm1fY0_P6I8"
+  nome: "Staffordshire Bull Terrier Welpe mit 30 Tagen"
+  descrizione: "Eine Welpin aus dem Wurf Bilquis x Black Jack mit dreissig Tagen, im Haus, in der Zucht Del Piccolo Diavolo in Ostellato (Italien)."
+  durata: "PT16S"
+  caricato: "2026-09-04"
 slug: "wurf-bilquis-black-jack-august-2026"
 date: 2026-08-01
 image: "/images/cuccioli-bilquis-nati-1.webp"
@@ -25,6 +32,21 @@ In der Zucht **Del Piccolo Diavolo** ist ein besonders erwarteter Wurf angekomme
 <img src="/images/cuccioli-bilquis-nati-1.webp" alt="Neugeborene schwarze Staffordshire Bull Terrier Welpen - Bilquis x Black Jack" width="435" height="480" loading="lazy" decoding="async" style="width:320px;max-width:100%;height:auto;border-radius:12px">
 <img src="/images/cuccioli-bilquis-nati-2.webp" alt="Bilquis mit ihren neugeborenen Staffordshire Bull Terrier Welpen" width="468" height="480" loading="lazy" decoding="async" style="width:320px;max-width:100%;height:auto;border-radius:12px">
 </div>
+
+
+## Mit dreißig Tagen
+
+Am 31. August sind die Welpen einen Monat alt geworden. Die Augen sind seit Wochen offen, die Beine tragen, und es beginnt die Zeit, in der ein Welpe lernt, was normal ist und was Angst macht: Stimmen, Hände, die ihn hochheben, die Geräusche des Hauses.
+
+<div style="max-width:340px;margin:1.75rem auto;border-radius:14px;overflow:hidden;box-shadow:0 8px 25px rgba(0,0,0,.12)">
+<div style="position:relative;padding-bottom:152.2%;height:0;background:#e6ddd4">
+<iframe src="https://www.youtube-nocookie.com/embed/rm1fY0_P6I8" title="Staffordshire Bull Terrier Welpe mit 30 Tagen – Wurf Bilquis × Black Jack" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe>
+</div>
+</div>
+
+<p style="font-size:.85rem;color:#7a6a58;text-align:center">Eine Welpin aus diesem Wurf mit dreißig Tagen, im Haus.</p>
+
+Die Welpen wachsen bei uns im Haus auf. Das italienische Recht verbietet die Abgabe vor sechzig Tagen: hier bleiben sie bis zu siebzig Tage bei der Mutter.
 
 ## Die Eltern
 

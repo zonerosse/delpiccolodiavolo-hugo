@@ -411,3 +411,27 @@
 </script>
 {{ end }}
 
+
+{{/* VideoObject: si attiva solo dove il front matter dichiara "video".
+     Campi: id (YouTube), nome, descrizione, durata (ISO 8601), caricato (data). */}}
+{{ with .Params.video }}
+<!-- JSON-LD: VideoObject -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "{{ $.Permalink }}#video",
+  "name": {{ .nome | jsonify | safeJS }},
+  "description": {{ .descrizione | jsonify | safeJS }},
+  "thumbnailUrl": "https://i.ytimg.com/vi/{{ .id }}/hqdefault.jpg",
+  "uploadDate": "{{ .caricato }}",
+  "duration": "{{ .durata }}",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/{{ .id }}",
+  "url": "https://www.youtube.com/shorts/{{ .id }}",
+  "inLanguage": "{{ $.Site.Language.Lang }}",
+  "isFamilyFriendly": true,
+  "publisher": { "@id": "{{ $.Site.BaseURL | strings.TrimSuffix "/" }}/#organization" },
+  "mainEntityOfPage": { "@type": "WebPage", "@id": "{{ $.Permalink }}" }
+}
+</script>
+{{ end }}

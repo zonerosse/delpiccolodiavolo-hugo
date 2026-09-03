@@ -1,9 +1,16 @@
 ---
 title: "Bilquis × Black Jack Litter (August 2026)"
+lastmod: 2026-09-03
 articolo: true
 titleSeo: "Bilquis × Black Jack litter, August 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
 description: "Born 1 August 2026: 8 Staffordshire Bull Terrier puppies from Bilquis Goddess Diabhal, Italian Champion ENCI. Not available."
+video:
+  id: "rm1fY0_P6I8"
+  nome: "Staffordshire Bull Terrier puppy at 30 days"
+  descrizione: "A puppy from the Bilquis x Black Jack litter filmed at thirty days, indoors, at the Del Piccolo Diavolo kennel in Ostellato, Italy."
+  durata: "PT16S"
+  caricato: "2026-09-04"
 slug: "bilquis-black-jack-litter-august-2026"
 date: 2026-08-01
 image: "/images/cuccioli-bilquis-nati-1.webp"
@@ -25,6 +32,21 @@ At the **Del Piccolo Diavolo** kennel, a particularly awaited litter has arrived
 <img src="/images/cuccioli-bilquis-nati-1.webp" alt="Newborn black Staffordshire Bull Terrier puppies - Bilquis x Black Jack" width="435" height="480" loading="lazy" decoding="async" style="width:320px;max-width:100%;height:auto;border-radius:12px">
 <img src="/images/cuccioli-bilquis-nati-2.webp" alt="Bilquis with her newborn Staffordshire Bull Terrier puppies" width="468" height="480" loading="lazy" decoding="async" style="width:320px;max-width:100%;height:auto;border-radius:12px">
 </div>
+
+
+## At thirty days
+
+On 31 August the puppies turned one month old. Their eyes have been open for weeks, their legs hold them up, and the period begins in which a puppy learns what is normal and what is frightening: voices, hands picking him up, the sounds of the house.
+
+<div style="max-width:340px;margin:1.75rem auto;border-radius:14px;overflow:hidden;box-shadow:0 8px 25px rgba(0,0,0,.12)">
+<div style="position:relative;padding-bottom:152.2%;height:0;background:#e6ddd4">
+<iframe src="https://www.youtube-nocookie.com/embed/rm1fY0_P6I8" title="Staffordshire Bull Terrier puppy at 30 days – Bilquis × Black Jack litter" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe>
+</div>
+</div>
+
+<p style="font-size:.85rem;color:#7a6a58;text-align:center">A puppy from this litter at thirty days, in the house.</p>
+
+The puppies grow up indoors with us. Italian law forbids placing a puppy before sixty days: here they stay with their mother up to seventy.
 
 ## The parents
 
