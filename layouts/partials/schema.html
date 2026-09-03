@@ -363,15 +363,24 @@
   "inLanguage": "{{ $lang }}",
   "wordCount": {{ if gt .WordCount 0 }}{{ .WordCount }}{{ else }}{{ len (split (plainify (.Params.custom_content | default "")) " ") }}{{ end }},
   "keywords": "{{ if .Params.tags }}{{ delimit .Params.tags ", " }}{{ else }}Staffordshire Bull Terrier, allevamento, cuccioli, test genetici L2HGA HC{{ end }}",
-  "about": {
-    "@type": "Thing",
-    "name": "Staffordshire Bull Terrier",
-    "sameAs": [
-      "https://www.wikidata.org/wiki/Q39285",
-      "https://it.wikipedia.org/wiki/Staffordshire_bull_terrier",
-      "https://en.wikipedia.org/wiki/Staffordshire_Bull_Terrier"
-    ]
-  }
+  {{/* about: la razza, piu' le entita' dichiarate in front matter con "entita".
+       Le pagine che non la dichiarano restano identiche a prima. */}}
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Staffordshire Bull Terrier",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q39285",
+        "https://it.wikipedia.org/wiki/Staffordshire_bull_terrier",
+        "https://en.wikipedia.org/wiki/Staffordshire_Bull_Terrier"
+      ]
+    }{{ range .Params.entita }},
+    {
+      "@type": "Thing",
+      "name": {{ .nome | jsonify | safeJS }},
+      "sameAs": {{ .sameAs | jsonify | safeJS }}
+    }{{ end }}
+  ]
 }
 </script>
 {{ end }}
