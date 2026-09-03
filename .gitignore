@@ -2,3 +2,6 @@
 public_*
 .hugo_build.lock
 /resources/_gen
+
+# Backup e copie di lavoro: restano sul disco, fuori da git
+content_backup/
