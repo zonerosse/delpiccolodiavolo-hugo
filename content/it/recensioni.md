@@ -3,7 +3,7 @@ title: "Recensioni Staffordshire Bull Terrier"
 lastmod: 2026-09-03
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
-description: "Le 38 recensioni delle famiglie che hanno scelto un cucciolo Del Piccolo Diavolo, con media 4,9 su Google. Esperienze reali, prima e dopo l’affidamento."
+description: "Le recensioni Google delle famiglie che hanno scelto un cucciolo Del Piccolo Diavolo. Esperienze reali, prima e dopo l’affidamento."
 slug: "recensioni"
 custom_content: |
   <section class="hero">
@@ -13,9 +13,9 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">⭐ 4.9/5 su Google</span>
+  <span class="hero-eyebrow">⭐ <!--REC-VOTO-->/5 su Google</span>
   <h1 class="hero-title">Recensioni <br><em>Allevamento Staffordshire</em> <br>Bull Terrier</h1>
-  <p class="hero-subtitle">38 testimonianze verificate</p>
+  <p class="hero-subtitle"><!--REC-TOTALE--> testimonianze verificate</p>
   <p class="hero-description">Le esperienze reali dei proprietari dei nostri Staffordshire Bull Terrier: professionalità, salute e carattere equilibrato garantiti.</p>
   <div class="hero-actions">
   <a href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" class="btn btn-primary" title="Leggi le recensioni su Google" aria-label="Leggi le recensioni su Google (si apre in una nuova scheda)">Leggi su Google</a>
@@ -26,8 +26,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Dal 2013</span><span>4.9★ Google</span><span>38 Recensioni</span><span>100% Verificate</span><span>Supporto a Vita</span><span>Clienti Soddisfatti</span>
-  <span>Dal 2013</span><span>4.9★ Google</span><span>38 Recensioni</span><span>100% Verificate</span><span>Supporto a Vita</span><span>Clienti Soddisfatti</span>
+  <span>Dal 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Recensioni</span><span>100% Verificate</span><span>Supporto a Vita</span><span>Clienti Soddisfatti</span>
+  <span>Dal 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Recensioni</span><span>100% Verificate</span><span>Supporto a Vita</span><span>Clienti Soddisfatti</span>
   </div>
   </div>
 
@@ -38,7 +38,7 @@ custom_content: |
   <h2 class="section-title">Perché Le Recensioni Contano</h2>
   <div class="values-grid">
   <div class="value-card"><h3>✓ Trasparenza</h3><p>Ogni recensione verificabile su Google</p></div>
-  <div class="value-card"><h3>⭐ 4.9/5</h3><p>Media costruita dal 2013</p></div>
+  <div class="value-card"><h3>⭐ <!--REC-VOTO-->/5</h3><p>Media costruita dal 2013</p></div>
   <div class="value-card"><h3>📞 Supporto</h3><p>Assistenza per tutta la vita del cane</p></div>
   <div class="value-card"><h3>🏆 Qualità</h3><p>Linee Elitebull e Lackyle certificate</p></div>
   </div>

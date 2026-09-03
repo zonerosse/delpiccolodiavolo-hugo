@@ -61,9 +61,9 @@
   "openingHoursSpecification": [{
     "@type": "OpeningHoursSpecification",
     "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-    "opens": "09:00",
-    "closes": "20:00",
-    "description": "{{ if eq $lang "de" }}Besuche nur nach Vereinbarung{{ else if eq $lang "en" }}Visits by appointment only{{ else }}Visite solo su appuntamento{{ end }}"
+    "opens": "00:00",
+    "closes": "23:59",
+    "description": "{{ if eq $lang "de" }}Telefon und WhatsApp jederzeit erreichbar. Besuche in der Zucht nur nach Vereinbarung.{{ else if eq $lang "en" }}Phone and WhatsApp always reachable. Kennel visits by appointment only.{{ else }}Telefono e WhatsApp sempre raggiungibili. Visite in allevamento solo su appuntamento.{{ end }}"
   }],
   "sameAs": [
     "https://www.facebook.com/delpiccolodiavolo",
@@ -109,8 +109,8 @@
   ],{{ end }}
   {{ if in (slice "recensioni" "reviews" "bewertungen") (path.Base .RelPermalink) }}"aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": "4.9",
-    "reviewCount": "38",
+    "ratingValue": "{{ .Site.Params.recensioniVoto }}",
+    "reviewCount": "{{ .Site.Params.recensioniTotale }}",
     "bestRating": "5",
     "worstRating": "1"
   },{{ end }}
@@ -134,7 +134,7 @@
       "esposizioni cinofile ENCI"
     ],
     "url": "{{ $baseURL }}/chi-siamo/",
-    "description": "{{ if eq $lang "de" }}Zuchtet seit 2013 in Ostellato (Ferrara) Staffordshire Bull Terrier. Davor Rottweiler-Zuchter mit einem italienischen und einem europaischen Champion; zuvor internationaler Richter fur Gloster-Kanarien.{{ else if eq $lang "en" }}Breeding Staffordshire Bull Terriers in Ostellato (Ferrara) since 2013. Previously a Rottweiler breeder who produced an Italian and a European Champion, and before that an international judge for Gloster canaries.{{ else }}Alleva Staffordshire Bull Terrier a Ostellato (Ferrara) dal 2013. In precedenza allevatore di Rottweiler, con un Campione Italiano e un Campione Europeo prodotti, e prima ancora giudice internazionale per canarini Gloster.{{ end }}",
+    "description": "{{ if eq $lang "de" }}Züchtet seit 2013 in Ostellato (Ferrara) Staffordshire Bull Terrier. Davor Rottweiler-Züchter mit einem italienischen und einem europäischen Champion; zuvor internationaler Richter für Gloster-Kanarien.{{ else if eq $lang "en" }}Breeding Staffordshire Bull Terriers in Ostellato (Ferrara) since 2013. Previously a Rottweiler breeder who produced an Italian and a European Champion, and before that an international judge for Gloster canaries.{{ else }}Alleva Staffordshire Bull Terrier a Ostellato (Ferrara) dal 2013. In precedenza allevatore di Rottweiler, con un Campione Italiano e un Campione Europeo prodotti, e prima ancora giudice internazionale per canarini Gloster.{{ end }}",
     "mainEntityOfPage": "{{ $baseURL }}/chi-siamo/",
     "worksFor": {
       "@id": "{{ $baseURL }}/#organization"

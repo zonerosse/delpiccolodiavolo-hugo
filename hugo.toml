@@ -52,6 +52,9 @@ enableRobotsTXT = true
   facebook = "https://www.facebook.com/delpiccolodiavolo"
   youtube = "https://www.youtube.com/@Staffordshiredelpiccolodiavolo"
   foundingYear = "2013"
+  # Recensioni Google: aggiornare QUI, i cinque punti del sito leggono da questi due valori
+  recensioniVoto = "4.9"
+  recensioniTotale = "39"
 
 [markup]
   [markup.goldmark]

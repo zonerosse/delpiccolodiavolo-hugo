@@ -3,7 +3,7 @@ title: "Staffordshire Bull Terrier Reviews"
 lastmod: 2026-09-03
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
-description: "⭐ 38 Google reviews 4.9/5: read real experiences from owners of our Staffordshire Bull Terriers. Professionalism, health and balanced character guaranteed."
+description: "Google reviews from owners of our Staffordshire Bull Terriers: real experiences, before and after the placement."
 slug: "reviews"
 custom_content: |
   <section class="hero">
@@ -13,9 +13,9 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">⭐ 4.9/5 on Google</span>
+  <span class="hero-eyebrow">⭐ <!--REC-VOTO-->/5 on Google</span>
   <h1 class="hero-title">Our <br><em>Reviews</em></h1>
-  <p class="hero-subtitle">38 verified testimonials</p>
+  <p class="hero-subtitle"><!--REC-TOTALE--> verified testimonials</p>
   <p class="hero-description">Real experiences from owners of our Staffordshire Bull Terriers: professionalism, health and balanced character guaranteed.</p>
   <div class="hero-actions">
   <a href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" class="btn btn-primary" title="Read reviews on Google" aria-label="Read reviews on Google (opens in a new tab)">Read on Google</a>
@@ -26,8 +26,8 @@ custom_content: |
   
   <div class="features-bar">
   <div class="features-track">
-  <span>Since 2013</span><span>4.9★ Google</span><span>38 Reviews</span><span>100% Verified</span><span>Lifetime Support</span><span>Satisfied Clients</span>
-  <span>Since 2013</span><span>4.9★ Google</span><span>38 Reviews</span><span>100% Verified</span><span>Lifetime Support</span><span>Satisfied Clients</span>
+  <span>Since 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Reviews</span><span>100% Verified</span><span>Lifetime Support</span><span>Satisfied Clients</span>
+  <span>Since 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Reviews</span><span>100% Verified</span><span>Lifetime Support</span><span>Satisfied Clients</span>
   </div>
   </div>
   
@@ -37,7 +37,7 @@ custom_content: |
   <h2 class="section-title">Why Reviews Matter</h2>
   <div class="values-grid">
   <div class="value-card"><h3>✓ Transparency</h3><p>Every review verifiable on Google</p></div>
-  <div class="value-card"><h3>⭐ 4.9/5</h3><p>Average built since 2013</p></div>
+  <div class="value-card"><h3>⭐ <!--REC-VOTO-->/5</h3><p>Average built since 2013</p></div>
   <div class="value-card"><h3>📞 Support</h3><p>Assistance for the dog's entire life</p></div>
   <div class="value-card"><h3>🏆 Quality</h3><p>Certified Elitebull and Lackyle lines</p></div>
   </div>

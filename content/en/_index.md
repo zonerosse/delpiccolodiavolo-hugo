@@ -23,7 +23,7 @@ custom_content: |
   <!--HEROFOTO-->
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">4.9 on 38 reviews</span>
+  <span class="hero-eyebrow"><!--REC-VOTO--> on <!--REC-TOTALE--> reviews</span>
   <h1 class="hero-title">Staffordshire <br><em>Bull Terrier</em> <br>Kennel</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo - Selection, health and character</p>
   <p class="hero-description">When you think of a Staffordshire Bull Terrier kennel, do you imagine tidy boxes and identical puppies? With us it's different. Every dog has a name, a story, a character. We don't breed in series: we cultivate relationships, memories and unforgettable moments.</p>
