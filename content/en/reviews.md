@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Reviews"
-lastmod: 2026-09-02
+lastmod: 2026-09-03
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
 description: "⭐ 38 Google reviews 4.9/5: read real experiences from owners of our Staffordshire Bull Terriers. Professionalism, health and balanced character guaranteed."
@@ -37,7 +37,7 @@ custom_content: |
   <h2 class="section-title">Why Reviews Matter</h2>
   <div class="values-grid">
   <div class="value-card"><h3>✓ Transparency</h3><p>Every review verifiable on Google</p></div>
-  <div class="value-card"><h3>⭐ 4.9/5</h3><p>Average built over 13 years of work</p></div>
+  <div class="value-card"><h3>⭐ 4.9/5</h3><p>Average built since 2013</p></div>
   <div class="value-card"><h3>📞 Support</h3><p>Assistance for the dog's entire life</p></div>
   <div class="value-card"><h3>🏆 Quality</h3><p>Certified Elitebull and Lackyle lines</p></div>
   </div>

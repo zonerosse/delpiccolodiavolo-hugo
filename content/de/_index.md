@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Zucht"
-lastmod: 2026-09-02
+lastmod: 2026-09-03
 translationKey: "home"
 description: "Ethische Staffordshire Bull Terrier Zucht seit 2013. ENCI-FCI-Ahnentafel, vollständige Gentests, Mikrochips der Zuchttiere öffentlich und überprüfbar."
 correlati:
@@ -216,7 +216,7 @@ custom_content: |
   <span>Ist der Staffordshire Bull Terrier gefahrlich?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Nein. Mit serioeser Charakterselektion, fruher Sozialisierung und verantwortungsvollen Besitzern ist der Staffy ein liebevoller und stabiler Hund. Nach uber 12 Jahren Zucht dieser Rasse kann ich garantieren, dass Aggression von Genetik, Erziehung und Umgebung abhangt, nicht von der Rasse.</div>
+  <div class="faq-answer">Nein. Mit serioeser Charakterselektion, fruher Sozialisierung und verantwortungsvollen Besitzern ist der Staffy ein liebevoller und stabiler Hund. Ich zuechte diese Rasse seit 2013 und kann garantieren, dass Aggression von Genetik, Erziehung und Umgebung abhangt, nicht von der Rasse.</div>
   </div>
   
   <div class="faq-item active">

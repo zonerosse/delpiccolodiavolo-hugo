@@ -1,5 +1,6 @@
 ---
 title: "Staffy o Amstaff: Quale delle Due Razze Fa per Te"
+lastmod: 2026-09-03
 articolo: true
 translationKey: "differenza-staffy-amstaff"
 image: "/images/blog/hero-default.webp"
@@ -88,7 +89,7 @@ categories: ["Standard"]
 
 <h2>La mia esperienza come allevatore</h2>
 
-<p>Da oltre 12 anni allevo Staffordshire Bull Terrier e ho scelto questa razza proprio per il suo equilibrio perfetto tra carattere, taglia e gestibilità. I nostri <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli Staffordshire Bull Terrier</a> crescono in famiglia, a contatto con bambini, e sviluppano quel carattere dolce e stabile che ha reso famosa la razza.</p>
+<p>Allevo Staffordshire Bull Terrier dal 2013 e ho scelto questa razza proprio per il suo equilibrio perfetto tra carattere, taglia e gestibilità. I nostri <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli Staffordshire Bull Terrier</a> crescono in famiglia, a contatto con bambini, e sviluppano quel carattere dolce e stabile che ha reso famosa la razza.</p>
 
 <p>Se hai dubbi su quale razza scegliere, contattami: ti aiuterò a capire se lo Staffy è il cane giusto per te.</p>
 

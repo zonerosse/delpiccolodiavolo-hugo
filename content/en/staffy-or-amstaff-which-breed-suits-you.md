@@ -1,5 +1,6 @@
 ---
 title: "Staffy or Amstaff: Which of the Two Breeds Suits You"
+lastmod: 2026-09-03
 articolo: true
 image: "/images/blog/hero-default.webp"
 titleSeo: "Staffy or Amstaff: which breed to choose"
@@ -86,7 +87,7 @@ categories: ["Breed Standard"]
 
 <h2>My experience as a breeder</h2>
 
-<p>I have bred Staffordshire Bull Terriers for over twelve years, and I chose the breed precisely for its balance between character, size and manageability. Our <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies</a> grow up in the family, around children, and develop the steady, gentle character the breed is known for.</p>
+<p>I have bred Staffordshire Bull Terriers since 2013, and I chose the breed precisely for its balance between character, size and manageability. Our <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies</a> grow up in the family, around children, and develop the steady, gentle character the breed is known for.</p>
 
 <p>If you are unsure which breed to choose, get in touch: I will help you work out whether the Staffy is the right dog for you — including telling you when it is not.</p>
 
