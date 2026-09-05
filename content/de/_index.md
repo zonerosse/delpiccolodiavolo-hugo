@@ -62,6 +62,12 @@ custom_content: |
   <span class="section-label">Unsere Welpen</span>
   <h2 class="section-title">Ein Wurf im Jahr, gelegentlich zwei</h2>
   <p><strong>Bei uns sind diese Nummern bereits öffentlich.</strong> Auf der Seite unserer <a href="/de/huendinnen-staffordshire-bull-terrier/">Hündinnen</a> finden Sie Mikrochip und Zuchtbuchnummer jeder Zuchthündin, offen einsehbar. Jeder kann diese Daten nehmen und auf der ENCI-Website prüfen, wem der Hund gehört, wer ihn gezüchtet hat und was seine Ahnentafel aussagt — ohne uns fragen zu müssen. Die Welpen werden mit <strong>ENCI-Ahnentafel</strong> abgegeben, dem von der FCI in allen Mitgliedsländern anerkannten Dokument.</p>
+  <div class="review-card">
+  <p class="review-text">&laquo;Vor etwa acht Monaten beschloss ich, einen Staffy als Begleiter zu nehmen, und begann mich einzulesen, um mich der zuverlässigsten Zucht anvertrauen zu können. […] Jetzt habe ich meinen kleinen Teufel, dank dieser wunderbaren Familie, der ich nie genug danken kann.&raquo;</p>
+  <div class="reviewer"><span>Gianluca Ravera</span><span class="stars">★★★★★</span></div>
+  <p style="margin-top:.6rem;font-size:.82rem"><a href="https://search.google.com/local/reviews?placeid=ChIJqV8xIv1rfkcRQK_6v1XiVNE" target="_blank" rel="noopener" title="Originalbewertung auf Google lesen" style="color:#8b5a2b;font-weight:600">Bewertung auf Google lesen &rarr;</a></p>
+  </div>
+
 
   
   <div class="gallery-grid">
@@ -70,11 +76,6 @@ custom_content: |
   <div class="gallery-item"><img src="/images/foto4.avif" alt="Schwarzer Welpe, wenige Tage alt, aus der Zucht Del Piccolo Diavolo" loading="lazy" decoding="async" width="300" height="400"></div>
   </div>
   
-  <div class="review-card">
-  <p class="review-text">&laquo;Vor etwa acht Monaten beschloss ich, einen Staffy als Begleiter zu nehmen, und begann mich einzulesen, um mich der zuverlässigsten Zucht anvertrauen zu können. […] Jetzt habe ich meinen kleinen Teufel, dank dieser wunderbaren Familie, der ich nie genug danken kann.&raquo;</p>
-  <div class="reviewer"><span>Gianluca Ravera</span><span class="stars">★★★★★</span></div>
-  <p style="margin-top:.6rem;font-size:.82rem"><a href="https://search.google.com/local/reviews?placeid=ChIJqV8xIv1rfkcRQK_6v1XiVNE" target="_blank" rel="noopener" title="Originalbewertung auf Google lesen" style="color:#8b5a2b;font-weight:600">Bewertung auf Google lesen &rarr;</a></p>
-  </div>
   
   <div style="text-align:center">
   <a href="/de/welpen-staffordshire-bull-terrier/" class="btn btn-primary" title="Entdecken Sie unsere Welpen">Welpen Entdecken</a>

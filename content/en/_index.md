@@ -62,6 +62,12 @@ custom_content: |
   <span class="section-label">Our Puppies</span>
   <h2 class="section-title">One litter a year, occasionally two</h2>
   <p><strong>With us those numbers are already public.</strong> On the page of <a href="/en/females-staffordshire-bull-terrier/">our females</a> you will find the microchip and studbook number of every brood bitch, in plain sight. Anyone can take that data and check on the ENCI website who owns the dog, who bred it and what its pedigree says — without asking us anything. Puppies are placed with an <strong>ENCI pedigree</strong>, the document recognised by the FCI across all member countries.</p>
+  <div class="review-card">
+  <p class="review-text">&laquo;About eight months ago I decided I wanted a Staffy as my companion in adventures, and I started reading up so I could turn to the most reliable kennel possible. […] Now I have my own little devil, thanks to this wonderful family I will never stop thanking.&raquo;</p>
+  <div class="reviewer"><span>Gianluca Ravera</span><span class="stars">★★★★★</span></div>
+  <p style="margin-top:.6rem;font-size:.82rem"><a href="https://search.google.com/local/reviews?placeid=ChIJqV8xIv1rfkcRQK_6v1XiVNE" target="_blank" rel="noopener" title="Read the original review on Google" style="color:#8b5a2b;font-weight:600">Read the review on Google &rarr;</a></p>
+  </div>
+
 
   
   <div class="gallery-grid">
@@ -70,11 +76,6 @@ custom_content: |
   <div class="gallery-item"><img src="/images/foto4.avif" alt="Black puppy a few days old from Del Piccolo Diavolo kennel" loading="lazy" decoding="async" width="300" height="400"></div>
   </div>
   
-  <div class="review-card">
-  <p class="review-text">&laquo;About eight months ago I decided I wanted a Staffy as my companion in adventures, and I started reading up so I could turn to the most reliable kennel possible. […] Now I have my own little devil, thanks to this wonderful family I will never stop thanking.&raquo;</p>
-  <div class="reviewer"><span>Gianluca Ravera</span><span class="stars">★★★★★</span></div>
-  <p style="margin-top:.6rem;font-size:.82rem"><a href="https://search.google.com/local/reviews?placeid=ChIJqV8xIv1rfkcRQK_6v1XiVNE" target="_blank" rel="noopener" title="Read the original review on Google" style="color:#8b5a2b;font-weight:600">Read the review on Google &rarr;</a></p>
-  </div>
   
   <div style="text-align:center">
   <a href="/en/puppies-staffordshire-bull-terrier/" class="btn btn-primary" title="Discover our puppies">Discover Puppies</a>
