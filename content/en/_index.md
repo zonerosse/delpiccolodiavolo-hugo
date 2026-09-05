@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Kennel"
 lastmod: 2026-09-05
 translationKey: "home"
-description: "Ethical Staffordshire Bull Terrier kennel since 2013. ENCI FCI pedigree, full genetic testing, breeding stock microchips published and verifiable."
+description: "Ethical Staffordshire Bull Terrier kennel since 2013. ENCI pedigree, genetic test reports and breeding stock microchips published online and verifiable."
 correlati:
   - url: "/en/puppies-staffordshire-bull-terrier/"
     titolo: "Puppies"
@@ -61,7 +61,7 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">Our Puppies</span>
   <h2 class="section-title">One litter a year, occasionally two</h2>
-  <p><strong>With us those numbers are already public.</strong> On the page of <a href="/en/females-staffordshire-bull-terrier/">our females</a> you will find the microchip and studbook number of every brood bitch, in plain sight. Anyone can take that data and check on the ENCI website who owns the dog, who bred it and what its pedigree says — without asking us anything. Puppies are placed with an <strong>ENCI pedigree</strong>, the document recognised by the FCI across all member countries.</p>
+  <p><strong>With us those numbers are already public.</strong> On the page of <a href="/en/females-staffordshire-bull-terrier/">our females</a> you will find the microchip and studbook number of every brood bitch, in plain sight. Anyone can take that data and check on the ENCI website who owns the dog, who bred it and what its pedigree says — without asking us anything. Alongside those numbers you will find the <strong>genetic test reports</strong> as PDFs, downloadable by anyone, with the dog's name and microchip readable. Puppies are placed with an <strong>ENCI pedigree</strong>, the document recognised by the FCI across all member countries.</p>
   <div class="review-card">
   <p class="review-text">&laquo;About eight months ago I decided I wanted a Staffy as my companion in adventures, and I started reading up so I could turn to the most reliable kennel possible. […] Now I have my own little devil, thanks to this wonderful family I will never stop thanking.&raquo;</p>
   <div class="reviewer"><span>Gianluca Ravera</span><span class="stars">★★★★★</span></div>
