@@ -1,6 +1,6 @@
 ---
 title: "Bilquis × Black Jack Litter (August 2026)"
-lastmod: 2026-09-03
+lastmod: 2026-09-05
 articolo: true
 titleSeo: "Bilquis × Black Jack litter, August 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
@@ -10,7 +10,7 @@ video:
   nome: "Staffordshire Bull Terrier puppy at 30 days"
   descrizione: "A puppy from the Bilquis x Black Jack litter filmed at thirty days, indoors, at the Del Piccolo Diavolo kennel in Ostellato, Italy."
   durata: "PT16S"
-  caricato: "2026-09-04"
+  caricato: "2026-09-04T00:00:00+02:00"
 slug: "bilquis-black-jack-litter-august-2026"
 date: 2026-08-01
 image: "/images/cuccioli-bilquis-nati-1.webp"
