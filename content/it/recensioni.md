@@ -58,7 +58,7 @@ custom_content: |
   <span class="review-name">Gianluca Ravera</span>
   <span class="review-stars">★★★★★</span>
   </div>
-  <p class="review-text">Circa otto mesi fa decisi di aver come compagno di avventure uno Staffy e mi misi a documentarmi per potermi affidare ad un allevamento il più affidale possibile. Trovai per caso quest'allevamento, dopo averli contattati venni colpito dalla loro competenza, gentilezza e professionalità. Ora ho il mio piccolo diavolo grazie a questa splendida famiglia che non smetterò mai di ringraziare.</p>
+  <p class="review-text">Circa otto mesi fa decisi di aver come compagno di avventure uno Staffy e mi misi a documentarmi per potermi affidare ad un allevamento il più affidabile possibile. Trovai per caso quest'allevamento, dopo averli contattati venni colpito dalla loro competenza, gentilezza e professionalità. Ora ho il mio piccolo diavolo grazie a questa splendida famiglia che non smetterò mai di ringraziare.</p>
   <div class="review-meta">4 settembre 2026 – Google</div>
   </article>
 
