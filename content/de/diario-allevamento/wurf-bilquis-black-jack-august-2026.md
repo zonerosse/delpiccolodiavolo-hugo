@@ -1,6 +1,6 @@
 ---
 title: "Wurf Bilquis × Black Jack (August 2026)"
-lastmod: 2026-09-03
+lastmod: 2026-09-05
 articolo: true
 titleSeo: "Wurf Bilquis × Black Jack, August 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
@@ -10,7 +10,7 @@ video:
   nome: "Staffordshire Bull Terrier Welpe mit 30 Tagen"
   descrizione: "Eine Welpin aus dem Wurf Bilquis x Black Jack mit dreissig Tagen, im Haus, in der Zucht Del Piccolo Diavolo in Ostellato (Italien)."
   durata: "PT16S"
-  caricato: "2026-09-04"
+  caricato: "2026-09-04T00:00:00+02:00"
 slug: "wurf-bilquis-black-jack-august-2026"
 date: 2026-08-01
 image: "/images/cuccioli-bilquis-nati-1.webp"

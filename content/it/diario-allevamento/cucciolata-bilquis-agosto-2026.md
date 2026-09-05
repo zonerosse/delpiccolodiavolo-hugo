@@ -1,6 +1,6 @@
 ---
 title: "Cucciolata Bilquis × Black Jack (agosto 2026)"
-lastmod: 2026-09-03
+lastmod: 2026-09-05
 articolo: true
 titleSeo: "Cucciolata Bilquis × Black Jack, agosto 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
@@ -10,7 +10,7 @@ video:
   nome: "Cucciola di Staffordshire Bull Terrier a 30 giorni"
   descrizione: "Una cucciola della cucciolata Bilquis x Black Jack ripresa a trenta giorni, in casa, all'allevamento Del Piccolo Diavolo di Ostellato (FE)."
   durata: "PT16S"
-  caricato: "2026-09-04"
+  caricato: "2026-09-04T00:00:00+02:00"
 slug: "cucciolata-bilquis-agosto-2026"
 date: 2026-08-01
 image: "/images/cuccioli-bilquis-nati-1.webp"
