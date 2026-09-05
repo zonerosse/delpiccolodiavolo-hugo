@@ -88,6 +88,12 @@ custom_content: |
   </div>
   </section>
 
+  <div class="review-card">
+  <p class="review-text">&laquo;Circa otto mesi fa decisi di aver come compagno di avventure uno Staffy e mi misi a documentarmi per potermi affidare ad un allevamento il più affidabile possibile. […] Ora ho il mio piccolo diavolo grazie a questa splendida famiglia che non smetterò mai di ringraziare.&raquo;</p>
+  <div class="reviewer"><span>Gianluca Ravera</span><span class="stars">★★★★★</span></div>
+  <p style="margin-top:.6rem;font-size:.82rem"><a href="https://search.google.com/local/reviews?placeid=ChIJqV8xIv1rfkcRQK_6v1XiVNE" target="_blank" rel="noopener" title="Leggi la recensione originale su Google" style="color:#8b5a2b;font-weight:600">Leggi la recensione su Google &rarr;</a></p>
+  </div>
+
     <div class="gallery-grid">
   <div class="gallery-item"><img src="/images/foto1.avif" alt="Cucciolo di Staffy nero appena nato tenuto in braccio" loading="lazy" decoding="async" width="300" height="400"></div>
   <div class="gallery-item"><img src="/images/foto2.avif" alt="Piccolo Staffy nero con macchia bianca sul petto" loading="lazy" decoding="async" width="300" height="400"></div>
@@ -118,11 +124,6 @@ custom_content: |
 
   <p><strong>Sul pedigree, una precisazione.</strong> L'ENCI certifica l'ascendenza, non chi alleva: è necessario, non sufficiente. Vale la pena aggiungere una cosa che sorprende chi si affaccia alla razza — molti dei cani che vincono nei ring europei non vengono da strutture, ma da case dove vivono due o tre soggetti. Le dimensioni non dicono niente sulla qualità, in nessuna delle due direzioni.</p>
 
-  <div class="review-card">
-  <p class="review-text">&laquo;Circa otto mesi fa decisi di aver come compagno di avventure uno Staffy e mi misi a documentarmi per potermi affidare ad un allevamento il più affidabile possibile. […] Ora ho il mio piccolo diavolo grazie a questa splendida famiglia che non smetterò mai di ringraziare.&raquo;</p>
-  <div class="reviewer"><span>Gianluca Ravera</span><span class="stars">★★★★★</span></div>
-  <p style="margin-top:.6rem;font-size:.82rem"><a href="https://search.google.com/local/reviews?placeid=ChIJqV8xIv1rfkcRQK_6v1XiVNE" target="_blank" rel="noopener" title="Leggi la recensione originale su Google" style="color:#8b5a2b;font-weight:600">Leggi la recensione su Google &rarr;</a></p>
-  </div>
 
   <div style="text-align:center;margin-top:0.5rem;margin-bottom:1rem">
   <a href="/recensioni/" title="Leggi tutte le recensioni" class="btn btn-ghost">Leggi tutte le <!--REC-TOTALE--> recensioni →</a>
