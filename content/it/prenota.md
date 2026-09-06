@@ -19,7 +19,6 @@ custom_content: |
   <p style="color:#4a3f35;line-height:1.7">Questo non è un modulo di prenotazione e non esiste una lista d'attesa. Serve a farti conoscere: chi sei, dove vivi, che vita farebbe un cane con te. <strong>Ti scrivo io quando c'è una cucciolata in arrivo.</strong></p>
   <p style="color:#4a3f35;line-height:1.7;margin-top:.8rem">Nel frattempo possono passare dei mesi, ed è normale: qui nasce una cucciolata l'anno, occasionalmente due. Se hai fretta, non sono l'allevamento giusto — e te lo dico adesso invece di fartelo scoprire dopo.</p>
   </div>
-  <p style="color:#4a3f35;line-height:1.7">Nel frattempo possono passare dei mesi, ed è normale: qui nasce una cucciolata l'anno, occasionalmente due. Se hai fretta, non sono l'allevamento giusto — e te lo dico adesso invece di fartelo scoprire dopo.</p>
 
   <div style="background:#fff;border:1px solid rgba(139,115,85,.18);border-radius:12px;padding:1.4rem;margin-bottom:.9rem">
   <span style="display:inline-block;background:#7a6a58;color:#fff;font-size:.68rem;font-weight:700;letter-spacing:.08em;padding:.2rem .65rem;border-radius:4px;margin-bottom:.75rem">ENGLISH</span>
