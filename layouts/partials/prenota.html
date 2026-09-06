@@ -91,8 +91,10 @@
 </form>
 
 <script>
-/* Il form funziona anche senza JavaScript: questo blocco blocca solo i bot
-   che compilano il campo trappola. */
+/* Invio in sottofondo: i dati vanno ad Apps Script e poi e' il sito a
+   portare il visitatore alla conferma. Serve perche' il sito ha
+   X-Frame-Options: DENY e non puo' essere aperto dentro l'iframe di
+   Apps Script. Senza JavaScript resta l'invio classico. */
 (function(){
   var f=document.getElementById('formPrenota');
   if(!f) return;
@@ -100,6 +102,14 @@
     if(f.azienda && f.azienda.value){ ev.preventDefault(); return false; }
     var btn=f.querySelector('button[type=submit]');
     if(btn){ btn.disabled=true; btn.style.opacity='.6'; }
+    if(!window.fetch || !window.URLSearchParams || !window.FormData) return;
+    ev.preventDefault();
+    var dove=(f.ritorno && f.ritorno.value) ? f.ritorno.value : '/contatto-grazie/';
+    var vaiAvanti=function(){ window.location.href=dove; };
+    fetch(f.action,{method:'POST',mode:'no-cors',body:new URLSearchParams(new FormData(f))})
+      .then(vaiAvanti)
+      .catch(function(){ f.submit(); });
+    setTimeout(vaiAvanti,6000);
   });
 })();
 </script>
