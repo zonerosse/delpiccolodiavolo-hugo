@@ -1,6 +1,6 @@
 ---
 title: "Kontakt – Staffordshire Bull Terrier Zucht"
-lastmod: 2026-09-02
+lastmod: 2026-09-06
 tipoPagina: "ContactPage"
 translationKey: "contatti"
 description: "Staffordshire Bull Terrier Zucht in Ostellato (Ferrara), Emilia-Romagna. Besuche nach Vereinbarung, WhatsApp aktiv."
@@ -95,7 +95,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Einzugsgebiete</span>
-  <h2 class="section-title">Woher Unsere Kunden Kommen</h2>
+  <h2 class="section-title">Woher die Rasse-Interessierten Kommen</h2>
   <p style="color:#4a3f35;margin-bottom:1.5rem">Wir empfangen Familien aus ganz Nord- und Mittelitalien. Hier sind die wichtigsten Städte, aus denen wir regelmäßig Besuche erhalten:</p>
   
   <div class="zones-section">

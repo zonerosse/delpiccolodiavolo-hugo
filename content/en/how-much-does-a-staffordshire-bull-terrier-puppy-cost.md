@@ -1,5 +1,6 @@
 ---
 title: "How Much Does a Staffordshire Bull Terrier Puppy Cost in 2026"
+lastmod: 2026-09-06
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
 titleSeo: "Staffordshire Bull Terrier puppy price explained"
@@ -26,7 +27,7 @@ When you buy from a responsible breeder, the price covers:
 - ENCI pedigree (the Italian Kennel Club registration certificate)
 - Microchip already implanted and registered
 - Complete health record
-- A written sales contract with guarantees
+- A written placement agreement with guarantees
 
 **Health and prevention:**
 - First vaccinations, at least two boosters
@@ -114,7 +115,7 @@ Some warning signs:
 **On documents:**
 - They do not show the parents' genetic tests, or say the tests "are not needed"
 - The pedigree is "on its way" or "I will send it later"
-- No sales contract
+- No placement agreement
 
 **On the dogs:**
 - You cannot see the mother with the puppies

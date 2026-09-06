@@ -43,16 +43,17 @@ custom_content: |
   
   <div class="legal-section">
   <h3>2. Tipologie di Dati Raccolti</h3>
-  <p><strong>Importante:</strong> Questo sito web non utilizza cookie di tracciamento, cookie di profilazione o sistemi di analisi basati su cookie. Il sito non espone moduli di contatto: i dati arrivano se ci scrivi o ci telefoni, oppure tramite il modulo di contatto descritto al punto 9, il cui collegamento inviamo su richiesta.</p>
+  <p><strong>Importante:</strong> Questo sito web non utilizza cookie di tracciamento, cookie di profilazione o sistemi di analisi basati su cookie. Il sito non espone moduli pubblici: i dati arrivano se ci scrivi o ci telefoni, oppure tramite il modulo di contatto descritto al punto 9, che non è raggiungibile dai menu e il cui collegamento inviamo su richiesta.</p>
   <p>I dati personali vengono raccolti SOLO quando tu decidi volontariamente di contattarci tramite:</p>
   <ul>
   <li>Telefono: +39 392 4635584</li>
   <li>Email: zonerosse@gmail.com</li>
   <li>WhatsApp: +39 392 4635584</li>
+  <li>il modulo di contatto descritto al punto 9</li>
   </ul>
   <p>In questi casi, trattiamo i seguenti dati che tu ci fornisci volontariamente:</p>
   <ul>
-  <li><strong>Dati di contatto:</strong> nome, cognome, numero di telefono, indirizzo email</li>
+  <li><strong>Dati di contatto:</strong> nome, cognome, numero di telefono, indirizzo email, città e nazione di residenza</li>
   <li><strong>Altre informazioni:</strong> qualsiasi altra informazione che decidi di condividere con noi durante le comunicazioni relative all'interesse per i nostri cuccioli</li>
   </ul>
   </div>
@@ -65,11 +66,11 @@ custom_content: |
   <p><strong>Finalità:</strong> Rispondere alle richieste di informazioni sui nostri cuccioli, sulla razza Staffordshire Bull Terrier e sull'attività dell'allevamento.</p>
   <p><strong>Base giuridica:</strong> Esecuzione di misure precontrattuali adottate su richiesta dell'interessato (Art. 6, par. 1, lett. b GDPR).</p>
   
-  <h4>b) Gestione prenotazioni e vendita cuccioli</h4>
-  <p><strong>Finalità:</strong> Gestire le prenotazioni dei cuccioli, organizzare visite in allevamento, procedere alla vendita e alla consegna dei cuccioli.</p>
-  <p><strong>Base giuridica:</strong> Esecuzione del contratto di vendita (Art. 6, par. 1, lett. b GDPR).</p>
+  <h4>b) Affido dei cuccioli</h4>
+  <p><strong>Finalità:</strong> Organizzare le visite in allevamento, procedere all'affido dei cuccioli. Non riceviamo prenotazioni e non teniamo liste d'attesa.</p>
+  <p><strong>Base giuridica:</strong> Esecuzione del contratto di affido (Art. 6, par. 1, lett. b GDPR).</p>
   
-  <h4>c) Assistenza post-vendita</h4>
+  <h4>c) Assistenza dopo l'affido</h4>
   <p><strong>Finalità:</strong> Fornire supporto e assistenza ai proprietari dei nostri cuccioli, condividere aggiornamenti sulla salute dei riproduttori, comunicare informazioni rilevanti sulla razza.</p>
   <p><strong>Base giuridica:</strong> Legittimo interesse del titolare e consenso dell'interessato (Art. 6, par. 1, lett. a e f GDPR).</p>
   </div>
@@ -84,9 +85,9 @@ custom_content: |
   <h3>5. Periodo di Conservazione</h3>
   <p>I dati personali sono conservati per il tempo necessario al perseguimento delle finalità indicate:</p>
   <ul>
-  <li><strong>Richieste di informazioni:</strong> I dati vengono conservati per il tempo necessario a fornire la risposta richiesta e per un periodo successivo di 12 mesi.</li>
-  <li><strong>Contratti di vendita:</strong> I dati vengono conservati per 10 anni dalla conclusione del contratto, in conformità agli obblighi di legge.</li>
-  <li><strong>Assistenza post-vendita:</strong> I dati vengono conservati fino a revoca del consenso da parte dell'interessato.</li>
+  <li><strong>Richieste di informazioni:</strong> I dati vengono conservati per il tempo necessario a fornire la risposta richiesta e per un periodo successivo di 24 mesi, come per il modulo di contatto descritto al punto 9.</li>
+  <li><strong>Contratti di affido:</strong> I dati vengono conservati per 10 anni dalla conclusione del contratto, in conformità agli obblighi di legge.</li>
+  <li><strong>Assistenza dopo l'affido:</strong> I dati vengono conservati fino a revoca del consenso da parte dell'interessato.</li>
   </ul>
   </div>
   
@@ -96,10 +97,11 @@ custom_content: |
   <ul>
   <li>Veterinari o professionisti del settore cinofilo, solo se necessario per la salute del cucciolo</li>
   <li>Autorità pubbliche (ENCI, ASL veterinaria) per adempimenti di legge</li>
-  <li>Google Ireland Limited, in qualità di responsabile del trattamento, per i soli dati del modulo di prenotazione (vedi punto 9)</li>
+  <li>Google Ireland Limited, in qualità di responsabile del trattamento, per i soli dati del modulo di contatto (vedi punto 9)</li>
+  <li>Cloudflare, Inc., in qualità di responsabile del trattamento, per l'erogazione del sito e le statistiche aggregate di traffico</li>
     </ul>
   </ul>
-  <p>I dati non vengono trasferiti al di fuori dell’Unione Europea. Per gli affidi verso altri paesi dell'Unione valgono le comunicazioni descritte al punto 10.</p>
+  <p>I fornitori che ci ospitano e ci forniscono strumenti (Cloudflare, Google) sono società con sede anche fuori dall’Unione Europea: eventuali trasferimenti avvengono sulla base delle clausole contrattuali standard approvate dalla Commissione europea. Per gli affidi verso altri paesi dell'Unione valgono le comunicazioni descritte al punto 10.</p>
   </div>
   
   <div class="legal-section">
@@ -130,7 +132,7 @@ custom_content: |
   <div class="legal-section">
   <h3>9. Modulo di contatto</h3>
   <p>Esiste un modulo per raccogliere i dati di chi desidera essere avvisato quando è in arrivo una cucciolata. <strong>Non è pubblicato sul sito e non è raggiungibile dai menu:</strong> si trova all'indirizzo <code>/contatto/</code> e il collegamento viene inviato dal titolare, su richiesta, a chi ha già avuto un primo contatto con l'allevamento.</p>
-  <p><strong>Dati raccolti:</strong> nome e cognome, email, eventuale numero di telefono, e le informazioni che scegli di indicare (tipo di cucciolo cercato, preferenza di sesso, tempistiche, esperienza con i cani, note libere).</p>
+  <p><strong>Dati raccolti:</strong> nome e cognome, email, numero di telefono e nazione (obbligatori), città, e le informazioni che scegli di indicare (preferenza di sesso, esperienza con i cani, dove vivrà il cane e con chi).</p>
   <p><strong>Finalità:</strong> esclusivamente ricontattarti quando è in arrivo una cucciolata e gestire la tua richiesta; il contatto può avvenire anche a distanza di mesi dall'invio. I dati non vengono utilizzati per newsletter, marketing automatizzato o profilazione.</p>
   <p><strong>Base giuridica:</strong> il consenso che presti spuntando l'apposita casella prima dell'invio (Art. 6, par. 1, lett. a GDPR).</p>
   <p><strong>Dove sono conservati:</strong> i dati vengono registrati in un foglio di calcolo Google Workspace ad accesso riservato al titolare, e inviati per notifica alla casella email del titolare. Google Ireland Limited agisce in qualità di responsabile del trattamento.</p>
@@ -162,15 +164,16 @@ custom_content: |
 
   <div class="legal-section">
   <h3>12. Cookie e Tecnologie di Tracciamento</h3>
-  <p><strong>Questo sito web NON utilizza cookie.</strong></p>
-  <p>Non vengono utilizzati cookie tecnici, cookie di profilazione, cookie di terze parti o sistemi di tracciamento degli utenti.</p>
+  <p><strong>Questo sito non installa cookie propri.</strong></p>
+  <p>Non vengono utilizzati cookie tecnici, cookie di profilazione o sistemi di tracciamento degli utenti.</p>
+  <p><strong>Video YouTube.</strong> Alcune pagine del diario di allevamento contengono un video incorporato da YouTube. Usiamo il dominio <code>youtube-nocookie.com</code>: finché non premi <em>play</em>, YouTube non riceve identificatori e non scrive nulla sul tuo dispositivo. Se avvii il video, Google riceve il tuo indirizzo IP e può utilizzare tecnologie di archiviazione locale secondo la propria informativa (<a href="https://policies.google.com/privacy" target="_blank" rel="noopener">policies.google.com/privacy</a>). Puoi vedere tutte le pagine del sito senza mai avviarlo.</p>
   <p>Il sito raccoglie statistiche di traffico aggregate tramite <strong>Cloudflare Web Analytics</strong>, che non installa cookie sul tuo dispositivo, non assegna identificatori e non ti segue fra siti diversi. Per questo motivo il sito non mostra alcun banner di consenso: non c’è nulla per cui chiederlo.</p>
   </div>
   
   <div class="legal-section">
   <h3>13. Modifiche alla Privacy Policy</h3>
   <p>Questa Privacy Policy può essere aggiornata periodicamente per riflettere modifiche normative o cambiamenti nelle nostre pratiche di trattamento dei dati.</p>
-  <p class="last-updated"><em>Ultimo aggiornamento: agosto 2026</em></p>
+  <p class="last-updated"><em>Ultimo aggiornamento: settembre 2026</em></p>
   </div>
   
   </div>

@@ -43,16 +43,17 @@ custom_content: |
   
   <div class="legal-section">
   <h3>2. Types of Data Collected</h3>
-  <p><strong>Important:</strong> This website does not use tracking cookies, profiling cookies or cookie-based analytics systems. The site exposes no contact form: data reaches us if you write or call, or through the reservation form described in section 9, whose link we send on request.</p>
+  <p><strong>Important:</strong> This website does not use tracking cookies, profiling cookies or cookie-based analytics systems. The site exposes no public form: data reaches us if you write or call, or through the contact form described in section 9, which is not reachable from the menus and whose link we send on request.</p>
   <p>Personal data is collected ONLY when you voluntarily choose to contact us via:</p>
   <ul>
   <li>Phone: +39 392 4635584</li>
   <li>Email: zonerosse@gmail.com</li>
   <li>WhatsApp: +39 392 4635584</li>
+  <li>the contact form described in section 9</li>
   </ul>
   <p>In these cases, we process the following data that you voluntarily provide:</p>
   <ul>
-  <li><strong>Contact data:</strong> name, surname, phone number, email address</li>
+  <li><strong>Contact data:</strong> name, surname, phone number, email address, town and country of residence</li>
   <li><strong>Other information:</strong> any other information you choose to share with us during communications regarding your interest in our puppies</li>
   </ul>
   </div>
@@ -65,11 +66,11 @@ custom_content: |
   <p><strong>Purpose:</strong> Responding to requests for information about our puppies, the Staffordshire Bull Terrier breed, and our kennel activities.</p>
   <p><strong>Legal basis:</strong> Performance of pre-contractual measures taken at the request of the data subject (Art. 6, para. 1, letter b GDPR).</p>
   
-  <h4>b) Managing reservations and puppy sales</h4>
-  <p><strong>Purpose:</strong> Managing puppy reservations, organizing visits to the kennel, proceeding with the sale and delivery of puppies.</p>
-  <p><strong>Legal basis:</strong> Performance of the sales contract (Art. 6, para. 1, letter b GDPR).</p>
+  <h4>b) Placement of puppies</h4>
+  <p><strong>Purpose:</strong> Organising visits to the kennel, proceeding with the placement of puppies. We do not take reservations and we keep no waiting list.</p>
+  <p><strong>Legal basis:</strong> Performance of the placement agreement (Art. 6, para. 1, letter b GDPR).</p>
   
-  <h4>c) After-sales assistance</h4>
+  <h4>c) Assistance after placement</h4>
   <p><strong>Purpose:</strong> Providing support and assistance to owners of our puppies, sharing updates on breeding dogs' health, communicating relevant information about the breed.</p>
   <p><strong>Legal basis:</strong> Legitimate interest of the controller and consent of the data subject (Art. 6, para. 1, letters a and f GDPR).</p>
   </div>
@@ -84,9 +85,9 @@ custom_content: |
   <h3>5. Data Retention Period</h3>
   <p>Personal data is retained for the time necessary to achieve the indicated purposes:</p>
   <ul>
-  <li><strong>Information requests:</strong> Data is retained for the time necessary to provide the requested response and for a subsequent period of 12 months.</li>
-  <li><strong>Sales contracts:</strong> Data is retained for 10 years from contract conclusion, in compliance with legal obligations.</li>
-  <li><strong>After-sales assistance:</strong> Data is retained until consent is withdrawn by the data subject.</li>
+  <li><strong>Information requests:</strong> Data is retained for the time necessary to provide the requested response and for a subsequent period of 24 months, as for the contact form described in point 9.</li>
+  <li><strong>Placement agreements:</strong> Data is retained for 10 years from contract conclusion, in compliance with legal obligations.</li>
+  <li><strong>Assistance after placement:</strong> Data is retained until consent is withdrawn by the data subject.</li>
   </ul>
   </div>
   
@@ -96,9 +97,10 @@ custom_content: |
   <ul>
   <li>Veterinarians or dog industry professionals, only if necessary for the puppy's health</li>
   <li>Public authorities (ENCI, veterinary authority) for legal compliance</li>
-  <li>Google Ireland Limited, as data processor, for the reservation form data only (see section 9)</li>
+  <li>Google Ireland Limited, as data processor, for the contact form data only (see section 9)</li>
+  <li>Cloudflare, Inc., as data processor, for serving the website and aggregate traffic statistics</li>
     </ul>
-  <p>Data is NOT transferred to non-EU countries. For placements to other EU countries, the communications described in section 10 apply.</p>
+  <p>The providers that host the site and supply our tools (Cloudflare, Google) are companies also based outside the European Union: any transfer takes place on the basis of the standard contractual clauses approved by the European Commission. For placements to other EU countries, the communications described in section 10 apply.</p>
   </div>
   
   <div class="legal-section">
@@ -129,7 +131,7 @@ custom_content: |
   <div class="legal-section">
   <h3>9. Reservation Form</h3>
   <p>We use a form to collect the details of anyone who would like to be told when a litter is on the way. <strong>It is not published on this site and cannot be reached from the menus:</strong> it lives at <code>/contatto/</code> and the link is sent by the controller, on request, to people who have already been in touch with the kennel.</p>
-  <p><strong>Data collected:</strong> full name, email address, optional phone number, and the information you choose to provide (type of puppy sought, sex preference, timing, experience with dogs, free notes).</p>
+  <p><strong>Data collected:</strong> full name, email address, phone number and country (required), town, and the information you choose to provide (sex preference, experience with dogs, where the dog will live and with whom).</p>
   <p><strong>Purpose:</strong> solely to handle your enquiry and to contact you about puppies. Your data is not used for newsletters, automated marketing or profiling.</p>
   <p><strong>Legal basis:</strong> the consent you give by ticking the dedicated box before submitting (Art. 6.1.a GDPR).</p>
   <p><strong>Where the data is stored:</strong> submissions are recorded in a Google Workspace spreadsheet accessible only to the data controller, and sent as a notification to the controller's mailbox. Google Ireland Limited acts as data processor.</p>
@@ -161,7 +163,8 @@ custom_content: |
 
   <div class="legal-section">
   <h3>12. Cookies and Tracking Technologies</h3>
-  <p><strong>This website does NOT use cookies.</strong></p>
+  <p><strong>This website sets no cookies of its own.</strong></p>
+  <p><strong>YouTube video.</strong> Some breeding-diary pages contain a video embedded from YouTube. We use the <code>youtube-nocookie.com</code> domain: until you press <em>play</em>, YouTube receives no identifiers and writes nothing to your device. If you start the video, Google receives your IP address and may use local storage technologies under its own policy (<a href="https://policies.google.com/privacy" target="_blank" rel="noopener">policies.google.com/privacy</a>). You can browse every page of the site without ever starting it.</p>
   <p>No technical cookies, profiling cookies, third-party cookies, or user tracking systems are used.</p>
   <p>The site collects aggregate traffic statistics through <strong>Cloudflare Web Analytics</strong>, which sets no cookies on your device, assigns no identifiers and does not follow you across different sites. For this reason the site shows no consent banner: there is nothing to ask consent for.</p>
   </div>
@@ -169,7 +172,7 @@ custom_content: |
   <div class="legal-section">
   <h3>13. Changes to Privacy Policy</h3>
   <p>This Privacy Policy may be updated periodically to reflect regulatory changes or changes in our data processing practices.</p>
-  <p class="last-updated"><em>Last updated: August 2026</em></p>
+  <p class="last-updated"><em>Last updated: September 2026</em></p>
   </div>
   
   </div>

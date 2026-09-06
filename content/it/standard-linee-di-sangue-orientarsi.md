@@ -1,6 +1,6 @@
 ---
 title: "Linee di Sangue Staffordshire Bull Terrier: Come Orientarsi"
-lastmod: 2026-09-02
+lastmod: 2026-09-06
 translationKey: "scelta-linee"
 articolo: true
 image: "/images/blog/standard-2.webp"
@@ -194,7 +194,7 @@ custom_content: |
   <div class="faq-item">
   <h3 class="faq-question">Quali domande fare all'allevatore sulle linee di sangue?</h3>
   <div class="faq-answer">
-  <p>Domande essenziali: obiettivi con questa linea, punti forti/deboli nel pedigree, risultati accoppiamenti precedenti, tipo di famiglia consigliata, possibilità di vedere parenti stretti, età media dei cani nella linea, supporto post-vendita. Un allevatore serio risponde con trasparenza.</p>
+  <p>Domande essenziali: obiettivi con questa linea, punti forti/deboli nel pedigree, risultati accoppiamenti precedenti, tipo di famiglia consigliata, possibilità di vedere parenti stretti, età media dei cani nella linea, supporto dopo l'affido. Un allevatore serio risponde con trasparenza.</p>
   </div>
   </div>
   

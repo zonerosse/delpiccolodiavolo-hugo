@@ -1,6 +1,6 @@
 ---
 title: "Allevamento Staffordshire Bull Terrier"
-lastmod: 2026-09-05
+lastmod: 2026-09-06
 translationKey: "home"
 description: "Allevamento etico di Staffordshire Bull Terrier dal 2013. Pedigree ENCI, referti dei test genetici e microchip dei riproduttori pubblicati e verificabili."
 correlati:
@@ -74,7 +74,7 @@ custom_content: |
   <div class="intro-block" style="text-align:left">
   <p>Del Piccolo Diavolo è un allevamento di Staffordshire Bull Terrier — lo Staffy, come lo chiamano gli appassionati — a <strong>Ostellato, in provincia di Ferrara</strong>, attivo dal <strong>2013</strong>. Paolo Boldrini segue la razza da oltre vent'anni e alleva da dodici: due numeri diversi che raccontano la stessa cosa, cioè che l'allevamento è nato dopo un lungo periodo di studio, non prima.</p>
 
-  <p>Facciamo <strong>una cucciolata l'anno, occasionalmente due</strong>, mai su richiesta. Tutti i riproduttori sono testati per <strong>L2HGA, HC e PHPV</strong>, e i referti di laboratorio sono pubblicati sul sito: chiunque può scaricarli e leggere nome del cane e numero di microchip, senza chiederci niente. I cuccioli vengono ceduti con <strong>pedigree ENCI</strong>, microchip e vaccinazioni in regola, dopo essere cresciuti in casa — non in box — a contatto quotidiano con persone, rumori domestici e altri animali.</p>
+  <p>Facciamo <strong>una cucciolata l'anno, occasionalmente due</strong>, mai su richiesta. Tutti i riproduttori sono testati per <strong>L2HGA, HC e PHPV</strong>, e i referti di laboratorio sono pubblicati sul sito: chiunque può scaricarli e leggere nome del cane e numero di microchip, senza chiederci niente. I cuccioli vengono affidati con <strong>pedigree ENCI</strong>, microchip e vaccinazioni in regola, dopo essere cresciuti in casa — non in box — a contatto quotidiano con persone, rumori domestici e altri animali.</p>
 
   <p>Sul piano dei risultati: <strong>1 Campione Italiano</strong>, <strong>2 Giovani Campioni Italiani</strong> — uno dei quali anche Campione Sloveno — e un soggetto Giovane Campione e Campione di San Marino, un <strong>4° posto al World Dog Show</strong> con Bilquis Goddess Diabhal, e a maggio 2026 il titolo di <strong>Giovane Campionessa Italiana</strong> per Queen of California. Lavoriamo con le linee di sangue inglesi e irlandesi, in particolare Elitebull e Lackyle.</p>
 
@@ -118,7 +118,7 @@ custom_content: |
   <h3 style="margin-top:1.6rem">Come riconoscere un allevamento che non lo è</h3>
   <p>Chiedi i certificati di laboratorio di entrambi i genitori, come documento, con nomi dei cani e numeri di microchip leggibili. Un allevatore serio li manda senza esitare, spesso prima che tu li chieda. Diffida invece di: cucciolate sempre disponibili o più cucciolate insieme; prezzi che cambiano in base al colore del mantello; certificati promessi dopo l'acconto; risultati mostrati solo come fotografia sullo schermo; e la frase «i genitori sono sani, non abbiamo mai avuto problemi», che risponde a una domanda diversa. Un altro segnale, meno ovvio: <strong>se non ti fanno nessuna domanda, non aspettarti che riprendano il cane se un giorno ti servisse.</strong></p>
 
-  <p><strong>Da noi quei numeri sono già pubblici.</strong> Nella pagina delle <a href="/femmine-staffordshire-bull-terrier/">nostre femmine</a> trovi microchip e numero di iscrizione al libro genealogico di ogni fattrice, in chiaro. Chiunque può prendere quei dati e verificare sul sito ENCI a chi appartiene il cane, chi lo ha allevato e cosa dice il suo pedigree — senza chiedere niente a noi. Insieme ai numeri trovi i <strong>referti dei test genetici</strong> in PDF, scaricabili da chiunque, con nome del cane e microchip leggibili. I cuccioli vengono ceduti con <strong>pedigree ENCI</strong>, il documento riconosciuto dalla FCI in tutti i paesi membri.</p>
+  <p><strong>Da noi quei numeri sono già pubblici.</strong> Nella pagina delle <a href="/femmine-staffordshire-bull-terrier/">nostre femmine</a> trovi microchip e numero di iscrizione al libro genealogico di ogni fattrice, in chiaro. Chiunque può prendere quei dati e verificare sul sito ENCI a chi appartiene il cane, chi lo ha allevato e cosa dice il suo pedigree — senza chiedere niente a noi. Insieme ai numeri trovi i <strong>referti dei test genetici</strong> in PDF, scaricabili da chiunque, con nome del cane e microchip leggibili. I cuccioli vengono affidati con <strong>pedigree ENCI</strong>, il documento riconosciuto dalla FCI in tutti i paesi membri.</p>
 
   <p>Chi confronta più <strong>allevamenti di Staffordshire Bull Terrier in Italia</strong> se ne accorge presto: le differenze non stanno nelle fotografie, ma in quello che ciascuno è disposto a mostrare quando gli fai una domanda precisa.</p>
 
@@ -287,7 +287,7 @@ custom_content: |
   <span>Quali test genetici fate sui riproduttori?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Tutti i nostri riproduttori sono testati per: L2HGA (Aciduria L-2-Idrossiglutarica), HC (Cataratta Ereditaria) e PHPV. I test sono fondamentali per produrre soggetti sani. Ogni cane viene ceduto con certificati dei test dei genitori.</div>
+  <div class="faq-answer">Tutti i nostri riproduttori sono testati per: L2HGA (Aciduria L-2-Idrossiglutarica), HC (Cataratta Ereditaria) e PHPV. I test sono fondamentali per produrre soggetti sani. Ogni cane viene affidato con certificati dei test dei genitori.</div>
   </div>
 
   <div class="faq-item active">

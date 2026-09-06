@@ -1,6 +1,6 @@
 ---
 title: "Allevamento Staffordshire Bull Terrier in Emilia-Romagna"
-lastmod: 2026-09-03
+lastmod: 2026-09-06
 tipoPagina: "ContactPage"
 titleSeo: "Allevamento Staffy in Emilia-Romagna: Ostellato (FE)"
 translationKey: "contatti"
@@ -109,7 +109,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Zone Servite</span>
-  <h2 class="section-title">Da Dove Vengono i Nostri Clienti</h2>
+  <h2 class="section-title">Da Dove Vengono gli Appassionati della Razza</h2>
   <p style="color:#4a3f35;margin-bottom:1.5rem">Accogliamo famiglie da tutto il Nord e Centro Italia. Ecco le principali città da cui riceviamo visite regolarmente:</p>
 
   <div class="zones-section">
@@ -160,7 +160,7 @@ custom_content: |
   </div>
   </div>
 
-  <p style="text-align:center;color:#4a3f35;margin-top:1.5rem;font-size:.9rem">Molti clienti da Milano, Firenze e Venezia ci raggiungono comodamente in giornata.</p>
+  <p style="text-align:center;color:#4a3f35;margin-top:1.5rem;font-size:.9rem">Molti appassionati da Milano, Firenze e Venezia ci raggiungono comodamente in giornata.</p>
   </div>
   </section>
 
