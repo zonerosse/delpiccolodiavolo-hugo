@@ -16,35 +16,42 @@
   <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:.9rem">
 
     <label style="display:block">
-      <span style="display:block;font-weight:700;color:#5c4a3a;font-size:.9rem;margin-bottom:.1rem">Nome e cognome</span>
+      <span style="display:block;font-weight:700;color:#5c4a3a;font-size:.9rem;margin-bottom:.1rem">Nome e cognome<span style="color:#8b5a2b" aria-hidden="true"> *</span></span>
       <span style="display:block;font-weight:400;color:#8a7a66;font-size:.78rem;margin-bottom:.3rem">Full name · Vor- und Nachname</span>
-      <input type="text" name="nome" required autocomplete="name" style="width:100%;padding:.7rem;border:1px solid #d9cdb8;border-radius:9px;font-size:1rem;box-sizing:border-box;background:#fff">
+      <input type="text" name="nome" required minlength="3" autocomplete="name" style="width:100%;padding:.7rem;border:1px solid #d9cdb8;border-radius:9px;font-size:1rem;box-sizing:border-box;background:#fff">
     </label>
 
     <label style="display:block">
-      <span style="display:block;font-weight:700;color:#5c4a3a;font-size:.9rem;margin-bottom:.1rem">Email</span>
+      <span style="display:block;font-weight:700;color:#5c4a3a;font-size:.9rem;margin-bottom:.1rem">Email<span style="color:#8b5a2b" aria-hidden="true"> *</span></span>
       <span style="display:block;font-weight:400;color:#8a7a66;font-size:.78rem;margin-bottom:.3rem">Email · E-Mail</span>
       <input type="email" name="email" required autocomplete="email" style="width:100%;padding:.7rem;border:1px solid #d9cdb8;border-radius:9px;font-size:1rem;box-sizing:border-box;background:#fff">
     </label>
 
     <label style="display:block">
-      <span style="display:block;font-weight:700;color:#5c4a3a;font-size:.9rem;margin-bottom:.1rem">Telefono o WhatsApp</span>
+      <span style="display:block;font-weight:700;color:#5c4a3a;font-size:.9rem;margin-bottom:.1rem">Telefono o WhatsApp<span style="color:#8b5a2b" aria-hidden="true"> *</span></span>
       <span style="display:block;font-weight:400;color:#8a7a66;font-size:.78rem;margin-bottom:.3rem">Phone or WhatsApp · Telefon oder WhatsApp</span>
-      <input type="tel" name="telefono" autocomplete="tel" style="width:100%;padding:.7rem;border:1px solid #d9cdb8;border-radius:9px;font-size:1rem;box-sizing:border-box;background:#fff">
+      <input type="tel" name="telefono" required inputmode="tel" autocomplete="tel" style="width:100%;padding:.7rem;border:1px solid #d9cdb8;border-radius:9px;font-size:1rem;box-sizing:border-box;background:#fff">
     </label>
 
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:.9rem">
     <label style="display:block">
-      <span style="display:block;font-weight:700;color:#5c4a3a;font-size:.9rem;margin-bottom:.1rem">Paese e città</span>
-      <span style="display:block;font-weight:400;color:#8a7a66;font-size:.78rem;margin-bottom:.3rem">Country and town · Land und Ort</span>
-      <input type="text" name="paese" autocomplete="country-name" style="width:100%;padding:.7rem;border:1px solid #d9cdb8;border-radius:9px;font-size:1rem;box-sizing:border-box;background:#fff">
+      <span style="display:block;font-weight:700;color:#5c4a3a;font-size:.9rem;margin-bottom:.1rem">Città</span>
+      <span style="display:block;font-weight:400;color:#8a7a66;font-size:.78rem;margin-bottom:.3rem">Town · Ort</span>
+      <input type="text" name="citta" autocomplete="address-level2" placeholder="Ostellato (FE)" style="width:100%;padding:.7rem;border:1px solid #d9cdb8;border-radius:9px;font-size:1rem;box-sizing:border-box;background:#fff">
     </label>
+    <label style="display:block">
+      <span style="display:block;font-weight:700;color:#5c4a3a;font-size:.9rem;margin-bottom:.1rem">Nazione<span style="color:#8b5a2b" aria-hidden="true"> *</span></span>
+      <span style="display:block;font-weight:400;color:#8a7a66;font-size:.78rem;margin-bottom:.3rem">Country · Land</span>
+      <input type="text" name="nazione" required autocomplete="country-name" placeholder="Italia" style="width:100%;padding:.7rem;border:1px solid #d9cdb8;border-radius:9px;font-size:1rem;box-sizing:border-box;background:#fff">
+    </label>
+    </div>
 
 
     <label style="display:block">
       <span style="display:block;font-weight:700;color:#5c4a3a;font-size:.9rem;margin-bottom:.1rem">Il cucciolo</span>
       <span style="display:block;font-weight:400;color:#8a7a66;font-size:.78rem;margin-bottom:.3rem">The puppy · Der Welpe</span>
       <select name="sesso" style="width:100%;padding:.7rem;border:1px solid #d9cdb8;border-radius:9px;font-size:1rem;background:#fff;box-sizing:border-box;max-width:100%;text-overflow:ellipsis">
-        <option>Ne abbiamo già parlato · Already agreed · Bereits besprochen</option>
+        
         <option>Maschio · Male · Rüde</option>
         <option>Femmina · Female · Hündin</option>
         <option>Decidiamo insieme · Let us decide together · Gemeinsam entscheiden</option>
@@ -77,12 +84,14 @@
 
   <label style="display:flex;gap:.6rem;align-items:flex-start;color:#5c4a3a;font-size:.9rem;line-height:1.5">
     <input type="checkbox" name="consenso" required value="si" style="margin-top:.25rem;width:18px;height:18px;flex-shrink:0">
-    <span>Ho letto l'informativa privacy e acconsento al trattamento dei miei dati per essere ricontattato.<br>
+    <span>Ho letto l'informativa privacy e acconsento al trattamento dei miei dati per essere ricontattato.<span style="color:#8b5a2b" aria-hidden="true"> *</span><br>
     <span style="color:#8a7a66;font-size:.85rem">I have read the privacy notice and consent to the processing of my data. · Ich habe die Datenschutzerklärung gelesen und willige in die Verarbeitung meiner Daten ein.</span><br>
     <a href="/privacy-policy/" style="color:#8b5a2b;text-decoration:underline">Informativa privacy</a> ·
     <a href="/en/privacy-policy/" style="color:#8b5a2b;text-decoration:underline">Privacy notice</a> ·
     <a href="/de/datenschutz/" style="color:#8b5a2b;text-decoration:underline">Datenschutzerklärung</a></span>
   </label>
+    <p style="font-size:.82rem;color:#8a7a66;margin:.2rem 0 .4rem"><span style="color:#8b5a2b">*</span> campo obbligatorio &middot; required &middot; Pflichtfeld</p>
+
 
   <button type="submit" style="background:#8b5a2b;color:#fff;border:0;padding:.95rem 1.4rem;border-radius:30px;font-weight:800;font-size:1.02rem;cursor:pointer">Tienimi informato · Keep me posted · Haltet mich auf dem Laufenden</button>
 
