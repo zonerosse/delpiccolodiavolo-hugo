@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy – Del Piccolo Diavolo"
-lastmod: 2026-09-02
+lastmod: 2026-09-06
 tipoPagina: "WebPage"
 translationKey: "privacy"
 description: "Privacy Policy and personal data processing of Del Piccolo Diavolo Kennel - GDPR Information."
@@ -128,7 +128,7 @@ custom_content: |
   
   <div class="legal-section">
   <h3>9. Reservation Form</h3>
-  <p>We use a form to collect the details of anyone asking to reserve a puppy. <strong>It is not published on this site and cannot be reached from the menus:</strong> it lives at <code>/prenota/</code> and the link is sent by the controller, on request, to people who have already been in touch with the kennel.</p>
+  <p>We use a form to collect the details of anyone who would like to be told when a litter is on the way. <strong>It is not published on this site and cannot be reached from the menus:</strong> it lives at <code>/contatto/</code> and the link is sent by the controller, on request, to people who have already been in touch with the kennel.</p>
   <p><strong>Data collected:</strong> full name, email address, optional phone number, and the information you choose to provide (type of puppy sought, sex preference, timing, experience with dogs, free notes).</p>
   <p><strong>Purpose:</strong> solely to handle your enquiry and to contact you about puppies. Your data is not used for newsletters, automated marketing or profiling.</p>
   <p><strong>Legal basis:</strong> the consent you give by ticking the dedicated box before submitting (Art. 6.1.a GDPR).</p>
