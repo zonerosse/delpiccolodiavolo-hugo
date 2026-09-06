@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy – Del Piccolo Diavolo"
-lastmod: 2026-09-02
+lastmod: 2026-09-06
 tipoPagina: "WebPage"
 translationKey: "privacy"
 description: "Privacy Policy e trattamento dati personali dell'Allevamento Del Piccolo Diavolo - Informativa GDPR."
@@ -43,7 +43,7 @@ custom_content: |
   
   <div class="legal-section">
   <h3>2. Tipologie di Dati Raccolti</h3>
-  <p><strong>Importante:</strong> Questo sito web non utilizza cookie di tracciamento, cookie di profilazione o sistemi di analisi basati su cookie. Il sito non espone moduli di contatto: i dati arrivano se ci scrivi o ci telefoni, oppure tramite il modulo di prenotazione descritto al punto 9, il cui collegamento inviamo su richiesta.</p>
+  <p><strong>Importante:</strong> Questo sito web non utilizza cookie di tracciamento, cookie di profilazione o sistemi di analisi basati su cookie. Il sito non espone moduli di contatto: i dati arrivano se ci scrivi o ci telefoni, oppure tramite il modulo di contatto descritto al punto 9, il cui collegamento inviamo su richiesta.</p>
   <p>I dati personali vengono raccolti SOLO quando tu decidi volontariamente di contattarci tramite:</p>
   <ul>
   <li>Telefono: +39 392 4635584</li>
@@ -128,10 +128,10 @@ custom_content: |
   
   
   <div class="legal-section">
-  <h3>9. Modulo di Prenotazione</h3>
-  <p>Esiste un modulo per raccogliere i dati di chi chiede di prenotare un cucciolo. <strong>Non è pubblicato sul sito e non è raggiungibile dai menu:</strong> si trova all'indirizzo <code>/prenota/</code> e il collegamento viene inviato dal titolare, su richiesta, a chi ha già avuto un primo contatto con l'allevamento.</p>
+  <h3>9. Modulo di contatto</h3>
+  <p>Esiste un modulo per raccogliere i dati di chi desidera essere avvisato quando è in arrivo una cucciolata. <strong>Non è pubblicato sul sito e non è raggiungibile dai menu:</strong> si trova all'indirizzo <code>/contatto/</code> e il collegamento viene inviato dal titolare, su richiesta, a chi ha già avuto un primo contatto con l'allevamento.</p>
   <p><strong>Dati raccolti:</strong> nome e cognome, email, eventuale numero di telefono, e le informazioni che scegli di indicare (tipo di cucciolo cercato, preferenza di sesso, tempistiche, esperienza con i cani, note libere).</p>
-  <p><strong>Finalità:</strong> esclusivamente gestire la tua richiesta e ricontattarti in merito ai cuccioli. I dati non vengono utilizzati per newsletter, marketing automatizzato o profilazione.</p>
+  <p><strong>Finalità:</strong> esclusivamente ricontattarti quando è in arrivo una cucciolata e gestire la tua richiesta; il contatto può avvenire anche a distanza di mesi dall'invio. I dati non vengono utilizzati per newsletter, marketing automatizzato o profilazione.</p>
   <p><strong>Base giuridica:</strong> il consenso che presti spuntando l'apposita casella prima dell'invio (Art. 6, par. 1, lett. a GDPR).</p>
   <p><strong>Dove sono conservati:</strong> i dati vengono registrati in un foglio di calcolo Google Workspace ad accesso riservato al titolare, e inviati per notifica alla casella email del titolare. Google Ireland Limited agisce in qualità di responsabile del trattamento.</p>
   <p><strong>Conservazione:</strong> fino a 24 mesi dall'invio, o fino a tua richiesta di cancellazione, se anteriore.</p>

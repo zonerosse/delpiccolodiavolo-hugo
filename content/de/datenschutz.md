@@ -1,6 +1,6 @@
 ---
 title: "Datenschutzerklärung – Del Piccolo Diavolo"
-lastmod: 2026-09-02
+lastmod: 2026-09-06
 tipoPagina: "WebPage"
 translationKey: "privacy"
 description: "Datenschutzerklärung und Verarbeitung personenbezogener Daten der Zucht Del Piccolo Diavolo - DSGVO-Informationen."
@@ -128,7 +128,7 @@ custom_content: |
   
   <div class="legal-section">
   <h3>9. Reservierungsformular</h3>
-  <p>Wir verwenden ein Formular, um die Angaben derjenigen zu erfassen, die einen Welpen reservieren möchten. <strong>Es ist nicht auf der Website veröffentlicht und über die Menüs nicht erreichbar:</strong> es liegt unter <code>/prenota/</code>, und den Link versendet der Verantwortliche auf Anfrage an Personen, die bereits mit der Zucht in Kontakt standen.</p>
+  <p>Wir verwenden ein Formular, um die Angaben derjenigen zu erfassen, die benachrichtigt werden möchten, wenn ein Wurf unterwegs ist. <strong>Es ist nicht auf der Website veröffentlicht und über die Menüs nicht erreichbar:</strong> es liegt unter <code>/contatto/</code>, und den Link versendet der Verantwortliche auf Anfrage an Personen, die bereits mit der Zucht in Kontakt standen.</p>
   <p><strong>Erhobene Daten:</strong> Vor- und Nachname, E-Mail-Adresse, gegebenenfalls Telefonnummer sowie die Angaben, die Sie freiwillig machen (gesuchter Welpe, Geschlechtswunsch, Zeitrahmen, Erfahrung mit Hunden, freie Anmerkungen).</p>
   <p><strong>Zweck:</strong> ausschließlich die Bearbeitung Ihrer Anfrage und die Kontaktaufnahme zu den Welpen. Ihre Daten werden nicht für Newsletter, automatisiertes Marketing oder Profiling verwendet.</p>
   <p><strong>Rechtsgrundlage:</strong> Ihre Einwilligung, die Sie durch Ankreuzen des entsprechenden Feldes vor dem Absenden erteilen (Art. 6 Abs. 1 lit. a DSGVO).</p>

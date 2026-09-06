@@ -1,5 +1,5 @@
 {{/*
-  prenota.html — modulo unico trilingue, pensato per la pagina /prenota/.
+  prenota.html — modulo unico trilingue, pensato per la pagina /contatto/.
   Il link non è pubblicato: viene inviato a chi chiede di prenotare.
   Etichette in italiano, inglese e tedesco sulla stessa riga, così una sola
   pagina serve a chiunque scriva.
@@ -72,7 +72,7 @@
 
   {{/* honeypot antispam: invisibile agli umani */}}
   <input type="text" name="azienda" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px">
-  <input type="hidden" name="ritorno" value="https://delpiccolodiavolo.it/prenota-grazie/">
+  <input type="hidden" name="ritorno" value="https://delpiccolodiavolo.it/contatto-grazie/">
   <input type="hidden" name="pagina" value="{{ .Permalink }}">
 
   <label style="display:flex;gap:.6rem;align-items:flex-start;color:#5c4a3a;font-size:.9rem;line-height:1.5">
@@ -84,7 +84,7 @@
     <a href="/de/datenschutz/" style="color:#8b5a2b;text-decoration:underline">Datenschutzerklärung</a></span>
   </label>
 
-  <button type="submit" style="background:#8b5a2b;color:#fff;border:0;padding:.95rem 1.4rem;border-radius:30px;font-weight:800;font-size:1.02rem;cursor:pointer">Invia la prenotazione · Send · Senden</button>
+  <button type="submit" style="background:#8b5a2b;color:#fff;border:0;padding:.95rem 1.4rem;border-radius:30px;font-weight:800;font-size:1.02rem;cursor:pointer">Tienimi informato · Keep me posted · Haltet mich auf dem Laufenden</button>
 
   <p style="margin:0;color:#7a6a58;font-size:.82rem;line-height:1.5">I dati servono solo a ricontattarti. Nessuna newsletter, nessuna cessione a terzi. Puoi chiederne la cancellazione in qualsiasi momento.<br>
   Your details are used only to contact you. No newsletter, no sharing with third parties. · Ihre Daten werden nur zur Kontaktaufnahme verwendet. Kein Newsletter, keine Weitergabe an Dritte.</p>

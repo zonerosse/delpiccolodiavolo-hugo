@@ -1,6 +1,6 @@
 ---
 title: "Cucciolo Staffordshire Bull Terrier all'estero: tempi e documenti"
-lastmod: 2026-09-03
+lastmod: 2026-09-06
 articolo: true
 translationKey: "cucciolo-estero"
 description: "Un cucciolo destinato a un altro paese europeo parte a quattro mesi, non a due. Antirabbica, passaporto, certificato TRACES ed export pedigree ENCI."
@@ -106,7 +106,7 @@ custom_content: |
 
   <section class="cta-section">
   <h2>Domande sull'affido all'estero?</h2>
-  <p>Rispondo entro 24 ore, in italiano, inglese o tedesco.</p>
+  <p>Scrivimi su WhatsApp e ne parliamo con calma.</p>
   <a class="btn btn-light" href="https://wa.me/393924635584" target="_blank" rel="noopener">Scrivimi su WhatsApp</a>
   </section>
 ---
