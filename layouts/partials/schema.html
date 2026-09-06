@@ -144,14 +144,25 @@
       "@id": "{{ $baseURL }}/#organization"
     }
   },
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "telephone": "+393924635584",
-    "email": "zonerosse@gmail.com",
-    "contactType": "customer service",
-    "areaServed": ["IT", "DE", "AT", "CH", "EU"],
-    "availableLanguage": ["Italian", "English", "German"]
-  },
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "name": "Paolo Boldrini",
+      "telephone": "+393924635584",
+      "email": "zonerosse@gmail.com",
+      "contactType": "customer service",
+      "areaServed": ["IT", "DE", "AT", "CH", "EU"],
+      "availableLanguage": ["Italian"]
+    },
+    {
+      "@type": "ContactPoint",
+      "name": "Sara",
+      "telephone": "+393776896955",
+      "contactType": "customer service",
+      "areaServed": ["EU"],
+      "availableLanguage": ["English", "German", "Spanish", "Dutch"]
+    }
+  ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
     "name": "{{ if eq $lang "de" }}Welpen Staffordshire Bull Terrier{{ else if eq $lang "en" }}Staffordshire Bull Terrier Puppies{{ else }}Cuccioli Staffordshire Bull Terrier{{ end }}",
