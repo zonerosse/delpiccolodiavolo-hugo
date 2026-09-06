@@ -43,16 +43,17 @@ custom_content: |
   
   <div class="legal-section">
   <h3>2. Arten der erhobenen Daten</h3>
-  <p><strong>Wichtig:</strong> Diese Website verwendet keine Tracking-Cookies, Profiling-Cookies oder cookiebasierten Analysesysteme. Die Website zeigt kein Kontaktformular: Daten erreichen uns, wenn Sie schreiben oder anrufen, oder über das unter Punkt 9 beschriebene Reservierungsformular, dessen Link wir auf Anfrage versenden.</p>
+  <p><strong>Wichtig:</strong> Diese Website verwendet keine Tracking-Cookies, Profiling-Cookies oder cookiebasierten Analysesysteme. Die Website zeigt kein öffentliches Formular: Daten erreichen uns, wenn Sie schreiben oder anrufen, oder über das unter Punkt 9 beschriebene Kontaktformular, das über die Menüs nicht erreichbar ist und dessen Link wir auf Anfrage versenden.</p>
   <p>Personenbezogene Daten werden NUR erhoben, wenn Sie uns freiwillig kontaktieren über:</p>
   <ul>
   <li>Telefon: +39 392 4635584</li>
   <li>E-Mail: zonerosse@gmail.com</li>
   <li>WhatsApp: +39 392 4635584</li>
+  <li>das unter Punkt 9 beschriebene Kontaktformular</li>
   </ul>
   <p>In diesen Fällen verarbeiten wir folgende Daten, die Sie uns freiwillig mitteilen:</p>
   <ul>
-  <li><strong>Kontaktdaten:</strong> Name, Vorname, Telefonnummer, E-Mail-Adresse</li>
+  <li><strong>Kontaktdaten:</strong> Name, Vorname, Telefonnummer, E-Mail-Adresse, Wohnort und Land</li>
   <li><strong>Weitere Informationen:</strong> Alle anderen Informationen, die Sie uns während der Kommunikation bezüglich Ihres Interesses an unseren Welpen mitteilen</li>
   </ul>
   </div>
@@ -65,11 +66,11 @@ custom_content: |
   <p><strong>Zweck:</strong> Beantwortung von Anfragen zu unseren Welpen, zur Rasse Staffordshire Bull Terrier und zur Zuchttätigkeit.</p>
   <p><strong>Rechtsgrundlage:</strong> Durchführung vorvertraglicher Maßnahmen auf Anfrage der betroffenen Person (Art. 6 Abs. 1 lit. b DSGVO).</p>
   
-  <h4>b) Verwaltung von Reservierungen und Welpenverkauf</h4>
-  <p><strong>Zweck:</strong> Verwaltung von Welpenreservierungen, Organisation von Besuchen in der Zucht, Durchführung des Verkaufs und der Übergabe der Welpen.</p>
-  <p><strong>Rechtsgrundlage:</strong> Erfüllung des Kaufvertrags (Art. 6 Abs. 1 lit. b DSGVO).</p>
+  <h4>b) Vermittlung der Welpen</h4>
+  <p><strong>Zweck:</strong> Organisation von Besuchen in der Zucht, Durchführung der Vermittlung der Welpen. Wir nehmen keine Reservierungen entgegen und führen keine Warteliste.</p>
+  <p><strong>Rechtsgrundlage:</strong> Erfüllung des Vermittlungsvertrags (Art. 6 Abs. 1 lit. b DSGVO).</p>
   
-  <h4>c) After-Sales-Betreuung</h4>
+  <h4>c) Betreuung nach der Vermittlung</h4>
   <p><strong>Zweck:</strong> Bereitstellung von Unterstützung und Hilfe für die Besitzer unserer Welpen, Weitergabe von Updates zur Gesundheit der Zuchttiere, Mitteilung relevanter Informationen zur Rasse.</p>
   <p><strong>Rechtsgrundlage:</strong> Berechtigtes Interesse des Verantwortlichen und Einwilligung der betroffenen Person (Art. 6 Abs. 1 lit. a und f DSGVO).</p>
   </div>
@@ -84,9 +85,9 @@ custom_content: |
   <h3>5. Speicherdauer</h3>
   <p>Personenbezogene Daten werden für den zur Erreichung der angegebenen Zwecke erforderlichen Zeitraum gespeichert:</p>
   <ul>
-  <li><strong>Informationsanfragen:</strong> Daten werden für den zur Beantwortung erforderlichen Zeitraum und für weitere 12 Monate gespeichert.</li>
-  <li><strong>Kaufverträge:</strong> Daten werden für 10 Jahre ab Vertragsabschluss gemäß gesetzlicher Verpflichtungen gespeichert.</li>
-  <li><strong>After-Sales-Betreuung:</strong> Daten werden bis zum Widerruf der Einwilligung durch die betroffene Person gespeichert.</li>
+  <li><strong>Informationsanfragen:</strong> Daten werden für den zur Beantwortung erforderlichen Zeitraum und für weitere 24 Monate gespeichert, wie beim Kontaktformular unter Punkt 9.</li>
+  <li><strong>Vermittlungsverträge:</strong> Daten werden für 10 Jahre ab Vertragsabschluss gemäß gesetzlicher Verpflichtungen gespeichert.</li>
+  <li><strong>Betreuung nach der Vermittlung:</strong> Daten werden bis zum Widerruf der Einwilligung durch die betroffene Person gespeichert.</li>
   </ul>
   </div>
   
@@ -96,9 +97,10 @@ custom_content: |
   <ul>
   <li>Tierärzte oder Fachleute im Hundebereich, nur wenn für die Gesundheit des Welpen erforderlich</li>
   <li>Öffentliche Behörden (ENCI, Veterinäramt) zur Erfüllung gesetzlicher Pflichten</li>
-  <li>Google Ireland Limited als Auftragsverarbeiter, ausschließlich für die Daten des Reservierungsformulars (siehe Punkt 9)</li>
+  <li>Google Ireland Limited als Auftragsverarbeiter, ausschließlich für die Daten des Kontaktformulars (siehe Punkt 9)</li>
+  <li>Cloudflare, Inc. als Auftragsverarbeiter, für die Bereitstellung der Website und aggregierte Zugriffsstatistiken</li>
     </ul>
-  <p>Daten werden NICHT in Länder außerhalb der EU übertragen. Für Vermittlungen in andere EU-Länder gelten die unter Punkt 10 beschriebenen Weitergaben.</p>
+  <p>Die Anbieter, die die Website hosten und unsere Werkzeuge bereitstellen (Cloudflare, Google), sind Unternehmen auch mit Sitz außerhalb der Europäischen Union: etwaige Übermittlungen erfolgen auf Grundlage der von der Europäischen Kommission genehmigten Standardvertragsklauseln. Für Vermittlungen in andere EU-Länder gelten die unter Punkt 10 beschriebenen Weitergaben.</p>
   </div>
   
   <div class="legal-section">
@@ -129,7 +131,7 @@ custom_content: |
   <div class="legal-section">
   <h3>9. Reservierungsformular</h3>
   <p>Wir verwenden ein Formular, um die Angaben derjenigen zu erfassen, die benachrichtigt werden möchten, wenn ein Wurf unterwegs ist. <strong>Es ist nicht auf der Website veröffentlicht und über die Menüs nicht erreichbar:</strong> es liegt unter <code>/contatto/</code>, und den Link versendet der Verantwortliche auf Anfrage an Personen, die bereits mit der Zucht in Kontakt standen.</p>
-  <p><strong>Erhobene Daten:</strong> Vor- und Nachname, E-Mail-Adresse, gegebenenfalls Telefonnummer sowie die Angaben, die Sie freiwillig machen (gesuchter Welpe, Geschlechtswunsch, Zeitrahmen, Erfahrung mit Hunden, freie Anmerkungen).</p>
+  <p><strong>Erhobene Daten:</strong> Vor- und Nachname, E-Mail-Adresse, Telefonnummer und Land (Pflichtangaben), Ort sowie die Angaben, die Sie freiwillig machen (Geschlechtswunsch, Erfahrung mit Hunden, wo und mit wem der Hund leben wird).</p>
   <p><strong>Zweck:</strong> ausschließlich die Bearbeitung Ihrer Anfrage und die Kontaktaufnahme zu den Welpen. Ihre Daten werden nicht für Newsletter, automatisiertes Marketing oder Profiling verwendet.</p>
   <p><strong>Rechtsgrundlage:</strong> Ihre Einwilligung, die Sie durch Ankreuzen des entsprechenden Feldes vor dem Absenden erteilen (Art. 6 Abs. 1 lit. a DSGVO).</p>
   <p><strong>Speicherort:</strong> die Eingaben werden in einer Google-Workspace-Tabelle gespeichert, auf die ausschließlich der Verantwortliche Zugriff hat, und als Benachrichtigung an dessen Postfach gesendet. Google Ireland Limited handelt als Auftragsverarbeiter.</p>
@@ -161,7 +163,8 @@ custom_content: |
 
   <div class="legal-section">
   <h3>12. Cookies und Tracking-Technologien</h3>
-  <p><strong>Diese Website verwendet KEINE Cookies.</strong></p>
+  <p><strong>Diese Website setzt keine eigenen Cookies.</strong></p>
+  <p><strong>YouTube-Video.</strong> Einige Seiten des Zuchttagebuchs enthalten ein von YouTube eingebettetes Video. Wir verwenden die Domain <code>youtube-nocookie.com</code>: Solange Sie nicht auf <em>Play</em> drücken, erhält YouTube keine Kennungen und speichert nichts auf Ihrem Gerät. Wenn Sie das Video starten, erhält Google Ihre IP-Adresse und kann lokale Speichertechnologien gemäß der eigenen Datenschutzerklärung verwenden (<a href="https://policies.google.com/privacy" target="_blank" rel="noopener">policies.google.com/privacy</a>). Sie können alle Seiten der Website besuchen, ohne es je zu starten.</p>
   <p>Es werden keine technischen Cookies, Profiling-Cookies, Third-Party-Cookies oder Benutzer-Tracking-Systeme verwendet.</p>
   <p>Die Website erhebt aggregierte Zugriffsstatistiken über <strong>Cloudflare Web Analytics</strong>, das keine Cookies auf Ihrem Gerät setzt, keine Kennungen vergibt und Sie nicht über verschiedene Websites hinweg verfolgt. Aus diesem Grund zeigt die Website kein Einwilligungsbanner: Es gibt nichts, wofür eine Einwilligung erforderlich wäre.</p>
   </div>
@@ -169,7 +172,7 @@ custom_content: |
   <div class="legal-section">
   <h3>13. Änderungen der Datenschutzerklärung</h3>
   <p>Diese Datenschutzerklärung kann regelmäßig aktualisiert werden, um regulatorische Änderungen oder Änderungen in unseren Datenverarbeitungspraktiken widerzuspiegeln.</p>
-  <p class="last-updated"><em>Letzte Aktualisierung: August 2026</em></p>
+  <p class="last-updated"><em>Letzte Aktualisierung: September 2026</em></p>
   </div>
   
   </div>

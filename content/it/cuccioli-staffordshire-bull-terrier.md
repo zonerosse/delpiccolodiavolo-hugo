@@ -1,6 +1,6 @@
 ---
 title: "Cuccioli Staffordshire Bull Terrier"
-lastmod: 2026-09-05
+lastmod: 2026-09-06
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
 description: "Cuccioli Staffordshire Bull Terrier con pedigree ENCI e test genetici. Linee Elitebull e Lackyle. Ostellato (FE)."
@@ -293,7 +293,7 @@ custom_content: |
   <li><strong>Certificato sanitario TRACES</strong>, emesso dal veterinario ufficiale della ASL dopo una visita clinica al cucciolo</li>
   </ul>
 
-  <p>Il certificato TRACES è quello che sorprende chi non ci è passato: quando un cucciolo viene ceduto da un allevatore di uno Stato membro a una famiglia di un altro, lo spostamento è considerato commerciale, e serve il certificato ufficiale. Non basta il passaporto.</p>
+  <p>Il certificato TRACES è quello che sorprende chi non ci è passato: quando un cucciolo viene affidato da un allevatore di uno Stato membro a una famiglia di un altro, lo spostamento è considerato commerciale, e serve il certificato ufficiale. Non basta il passaporto.</p>
 
   <p>Alcuni paesi chiedono in più il trattamento contro <em>Echinococcus multilocularis</em> nei giorni precedenti la partenza. Riguarda poche destinazioni, ma va verificato caso per caso.</p>
 

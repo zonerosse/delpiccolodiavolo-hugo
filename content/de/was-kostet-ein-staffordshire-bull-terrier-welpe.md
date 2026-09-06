@@ -1,5 +1,6 @@
 ---
 title: "Was kostet ein Staffordshire Bull Terrier Welpe 2026"
+lastmod: 2026-09-06
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
 titleSeo: "Was kostet ein Staffordshire Bull Terrier Welpe"
@@ -26,7 +27,7 @@ Beim Kauf von einer verantwortungsvollen Zucht sind enthalten:
 - ENCI-Ahnentafel (Eintragungsurkunde des italienischen Zuchtbuchs)
 - Bereits implantierter und registrierter Mikrochip
 - Vollständiger Impfpass
-- Schriftlicher Kaufvertrag mit Garantien
+- Schriftlicher Vermittlungsvertrag mit Garantien
 
 **Gesundheit und Vorsorge:**
 - Erste Impfungen, mindestens zwei Auffrischungen
@@ -114,7 +115,7 @@ Einige Warnsignale:
 **Bei den Unterlagen:**
 - Die Gentests der Elterntiere werden nicht gezeigt, oder sie seien "nicht nötig"
 - Die Ahnentafel ist "unterwegs" oder "kommt später"
-- Kein Kaufvertrag
+- Kein Vermittlungsvertrag
 
 **Bei den Hunden:**
 - Sie können die Mutter nicht mit den Welpen sehen

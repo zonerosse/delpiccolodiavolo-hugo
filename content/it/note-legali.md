@@ -1,6 +1,6 @@
 ---
 title: "Note Legali – Del Piccolo Diavolo"
-lastmod: 2026-09-02
+lastmod: 2026-09-06
 tipoPagina: "WebPage"
 translationKey: "note-legali"
 description: "Note legali, disclaimer e termini di utilizzo del sito dell'Allevamento Del Piccolo Diavolo - Staffordshire Bull Terrier a Ostellato (FE)."
@@ -58,7 +58,7 @@ custom_content: |
   <div class="legal-section">
   <h3>4. Prenotazioni e Acquisto Cuccioli</h3>
   <p><strong>Procedura di Prenotazione:</strong> La prenotazione di un cucciolo avviene previo colloquio conoscitivo e versamento di una caparra. Le modalità specifiche vengono concordate caso per caso.</p>
-  <p><strong>Garanzie:</strong> Tutti i cuccioli vengono ceduti con:</p>
+  <p><strong>Garanzie:</strong> Tutti i cuccioli vengono affidati con:</p>
   <ul>
   <li>Pedigree ENCI</li>
   <li>Microchip e iscrizione anagrafe canina</li>

@@ -1,6 +1,6 @@
 ---
 title: "FAQ sullo Staffordshire Bull Terrier"
-lastmod: 2026-09-05
+lastmod: 2026-09-06
 translationKey: "faq"
 description: "Risposte alle domande più frequenti sullo Staffordshire Bull Terrier: carattere, salute, cuccioli ENCI, costi, alimentazione, addestramento."
 slug: "faq-sullo-staffordshire-bull-terrier"
@@ -67,7 +67,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quali test genetici fate sui riproduttori?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Tutti i nostri riproduttori sono testati per: L2HGA (Aciduria L-2-Idrossiglutarica), HC (Cataratta Ereditaria) e PHPV (anomalia oculare). I test sono fondamentali per produrre cuccioli sani. Ogni cucciolo viene ceduto con certificati dei test dei genitori.</div>
+  <div class="faq-answer">Tutti i nostri riproduttori sono testati per: L2HGA (Aciduria L-2-Idrossiglutarica), HC (Cataratta Ereditaria) e PHPV (anomalia oculare). I test sono fondamentali per produrre cuccioli sani. Ogni cucciolo viene affidato con certificati dei test dei genitori.</div>
   </div>
   
   <div class="faq-item active">
@@ -75,7 +75,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">A che età posso portare a casa il cucciolo?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">I <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli</a> vengono ceduti dopo i 60 giorni di età: è il minimo che la legge italiana consente, e da noi in genere si arriva a 70. Per chi adotta da un altro paese europeo i tempi sono diversi: il cucciolo parte intorno ai quattro mesi, perché servono antirabbica, passaporto e certificato TRACES (<a href="/cucciolo-staffordshire-bull-terrier-all-estero/">come funziona un affido all'estero</a>). Questo periodo è fondamentale: nelle prime 8 settimane il cucciolo impara dalla madre le basi della comunicazione canina e l'autocontrollo. Cedere prima è illegale e dannoso.</div>
+  <div class="faq-answer">I <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli</a> vengono affidati dopo i 60 giorni di età: è il minimo che la legge italiana consente, e da noi in genere si arriva a 70. Per chi adotta da un altro paese europeo i tempi sono diversi: il cucciolo parte intorno ai quattro mesi, perché servono antirabbica, passaporto e certificato TRACES (<a href="/cucciolo-staffordshire-bull-terrier-all-estero/">come funziona un affido all'estero</a>). Questo periodo è fondamentale: nelle prime 8 settimane il cucciolo impara dalla madre le basi della comunicazione canina e l'autocontrollo. Cedere prima è illegale e dannoso.</div>
   </div>
   
   <div class="faq-item active">
@@ -107,7 +107,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Come riconoscere un allevamento serio?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Un allevamento serio deve avere: pedigree ENCI originale, test genetici documentati, cuccioli cresciuti in casa, possibilità di visitare e vedere la madre, massimo 1-2 cucciolate/anno per fattrice, supporto post-vendita. Diffidate di chi vende sotto i 1.000€ o non mostra i test. Scopri il nostro <a href="/" title="Allevamento Staffordshire Bull Terrier">allevamento Staffordshire Bull Terrier</a>.</div>
+  <div class="faq-answer">Un allevamento serio deve avere: pedigree ENCI originale, test genetici documentati, cuccioli cresciuti in casa, possibilità di visitare e vedere la madre, massimo 1-2 cucciolate/anno per fattrice, supporto dopo l'affido. Diffidate di chi vende sotto i 1.000€ o non mostra i test. Scopri il nostro <a href="/" title="Allevamento Staffordshire Bull Terrier">allevamento Staffordshire Bull Terrier</a>.</div>
   </div>
   
   <div class="faq-item active">
@@ -211,7 +211,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Vale la pena venire da Milano o Firenze per un cucciolo?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Assolutamente si. Molti nostri clienti vengono da Milano (2h 30), Firenze (1h 45), Venezia, Roma. Un cucciolo vi accompagnera per 12-14 anni: vale la pena fare qualche ora di viaggio per scegliere con calma, vedere i genitori e iniziare una relazione di fiducia con l'allevatore.</div>
+  <div class="faq-answer">Assolutamente si. Molti appassionati vengono da Milano (2h 30), Firenze (1h 45), Venezia, Roma. Un cucciolo vi accompagnera per 12-14 anni: vale la pena fare qualche ora di viaggio per scegliere con calma, vedere i genitori e iniziare una relazione di fiducia con l'allevatore.</div>
   </div>
   
   <div class="faq-item active">
@@ -227,7 +227,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Fornite assistenza dopo l'acquisto del cucciolo?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Si, assistenza a vita. Restiamo disponibili per consigli su alimentazione, educazione, salute. Molti clienti ci contattano anche dopo anni. Crediamo che vendere un cucciolo sia l'inizio di una relazione, non la fine di una transazione.</div>
+  <div class="faq-answer">Si, assistenza a vita. Restiamo disponibili per consigli su alimentazione, educazione, salute. Molti clienti ci contattano anche dopo anni. Crediamo che affidare un cucciolo sia l'inizio di una relazione, non la fine di una transazione.</div>
   </div>
   
   <div class="faq-item active">

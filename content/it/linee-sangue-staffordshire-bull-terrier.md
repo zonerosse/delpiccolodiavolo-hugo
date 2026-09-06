@@ -1,6 +1,6 @@
 ---
 title: "Linee di Sangue Staffordshire Bull Terrier: Storia e Genealogia"
-lastmod: 2026-09-02
+lastmod: 2026-09-06
 titleSeo: "Linee di sangue Staffordshire Bull Terrier: storia"
 translationKey: "linee-sangue"
 articolo: true
@@ -237,7 +237,7 @@ custom_content: |
   <li>☐ Mostra i genitori e l'ambiente di allevamento</li>
   <li>☐ È registrato presso l'ENCI</li>
   <li>☐ Fornisce contratto scritto con garanzie di salute</li>
-  <li>☐ Offre supporto post-vendita</li>
+  <li>☐ Offre supporto dopo l'affido</li>
   <li>☐ I cuccioli rimangono con la madre almeno 8 settimane</li>
   </ul>
   </div>
