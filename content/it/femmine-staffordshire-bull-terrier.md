@@ -1,6 +1,6 @@
 ---
 title: "Femmine Staffordshire Bull Terrier"
-lastmod: 2026-09-02
+lastmod: 2026-09-07
 tipoPagina: "CollectionPage"
 translationKey: "femmine"
 description: "Le nostre femmine Staffordshire Bull Terrier: Bilquis (Top Dog Junior 2023), Croi Olc, Divine, Kennedy, Derry, Cattleya. Test genetici L2HGA e HC certificati."
@@ -111,7 +111,7 @@ custom_content: |
   <p><strong>Proprietario:</strong> Stefano Tevini</p>
   <p><strong>Handler:</strong> Vittoria Passerini</p>
   <p><strong>Titolo:</strong> Giovane Campionessa Italiana (in omologazione) — Albarella (RO), 17 maggio 2026. Cl. Giovani 1° Ecc, JCAC, JBOB, BOB. Miglior Staffy — Gruppo Cinofilo Polesano.</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/pedigree?SIRE=4483601&DAM=4538599&generation=4&dogs_id=4547824" target="_blank" rel="noopener" title="Vedi pedigree Queen of California su SBTPedigree" aria-label="Vedi il pedigree completo della cucciolata su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" title="Vedi pedigree Queen of California su SBTPedigree" aria-label="Vedi il pedigree completo della cucciolata su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
   </div>
   </div>
   </article>
