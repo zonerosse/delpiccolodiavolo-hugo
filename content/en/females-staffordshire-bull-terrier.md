@@ -1,6 +1,6 @@
 ---
 title: "Female Staffordshire Bull Terriers"
-lastmod: 2026-09-02
+lastmod: 2026-09-07
 tipoPagina: "CollectionPage"
 translationKey: "femmine"
 description: "Our female Staffordshire Bull Terriers: Bilquis (Top Dog Junior 2023), Croi Olc, Divine, Kennedy, Derry, Cattleya. L2HGA and HC certified genetic testing."
@@ -110,7 +110,7 @@ custom_content: |
   <p><strong>Owner:</strong> Stefano Tevini</p>
   <p><strong>Handler:</strong> Vittoria Passerini</p>
   <p><strong>Title:</strong> Italian Young Champion (pending homologation) — Albarella (RO), 17 May 2026. Junior Class 1st Excellent, JCAC, JBOB, BOB. Best Staffy — Polesano Canine Group.</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/pedigree?SIRE=4483601&DAM=4538599&generation=4&dogs_id=4547824" target="_blank" rel="noopener" title="View Queen of California pedigree on SBTPedigree" aria-label="View the full pedigree of the litter on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" title="View Queen of California pedigree on SBTPedigree" aria-label="View the full pedigree of the litter on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
   </div>
   </div>
   </article>

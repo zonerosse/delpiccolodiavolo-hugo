@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Hündinnen"
-lastmod: 2026-09-02
+lastmod: 2026-09-07
 tipoPagina: "CollectionPage"
 translationKey: "femmine"
 description: "Unsere Staffordshire Bull Terrier Hündinnen: Bilquis (Top Dog Junior 2023), Croi Olc, Divine, Kennedy, Derry, Cattleya. L2HGA und HC zertifizierte Gentests."
@@ -98,7 +98,7 @@ custom_content: |
   <p><strong>Besitzer:</strong> Stefano Tevini</p>
   <p><strong>Handler:</strong> Vittoria Passerini</p>
   <p><strong>Titel:</strong> Italienische Jugendchampionin (in Homologation) — Albarella (RO), 17. Mai 2026. Jugendklasse V1, JCAC, JBOB, BOB. Bester Staffy — Kynologische Gruppe Polesano.</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/pedigree?SIRE=4483601&DAM=4538599&generation=4&dogs_id=4547824" target="_blank" rel="noopener" title="Stammbaum Queen of California auf SBTPedigree" aria-label="Vollständigen Stammbaum des Wurfes auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" title="Stammbaum Queen of California auf SBTPedigree" aria-label="Vollständigen Stammbaum des Wurfes auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
   </div>
   </div>
   </article>
