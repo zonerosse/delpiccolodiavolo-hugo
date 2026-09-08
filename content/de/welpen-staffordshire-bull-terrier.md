@@ -117,7 +117,7 @@ custom_content: |
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Temperament und Sozialisierung</h3>
-  <p>Vom ersten Tag an leben die Welpen mit uns im Haus. Sie lernen Haushaltsgeräusche, verschiedene Menschen und andere Tiere kennen. Diese frühe Sozialisierung ist grundlegend für die Entwicklung eines sicheren und ruhigen Temperaments.</p>
+  <p>Die Welpen kommen im Haus zur Welt, in der Wurfkiste, und bleiben dort etwa einen Monat: in dieser Zeit macht die Mutter alles, und der menschliche Kontakt zählt am meisten. Mit rund dreißig Tagen ziehen sie in einen eigenen Zwinger mit Auslauf um — aus einem praktischen Grund, den jeder kennt, der schon einen Wurf hatte: in diesem Alter machen sie mehr Schmutz, als ein bewohntes Haus verträgt. Von da an kommen sie abwechselnd wieder herein, zu zweit und für einige Stunden, damit jeder seinen Teil vom Haus bekommt. Sie lernen Haushaltsgeräusche, verschiedene Menschen und andere Tiere kennen. Diese frühe Sozialisierung ist grundlegend für die Entwicklung eines sicheren und ruhigen Temperaments.</p>
   </div>
   <div class="zigzag-image">
   <img src="/images/foto1.avif" alt="Sozialisierte Staffordshire Bull Terrier Welpen zu Hause" loading="lazy" decoding="async" width="400" height="300">
