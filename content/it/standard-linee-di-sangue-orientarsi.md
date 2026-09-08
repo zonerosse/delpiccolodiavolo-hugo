@@ -57,25 +57,12 @@ custom_content: |
   
   <p>Allevatori diversi enfatizzano aspetti diversi: alcuni privilegiano la conformazione da show, altri il temperamento da famiglia, altri ancora la funzionalità atletica. Conoscere la linea di sangue ti aiuta a capire cosa aspettarti dal tuo cucciolo adulto.</p>
   
-  <h2>Principali Linee di Sangue Storiche</h2>
-  
-  <h3>Linee UK (Regno Unito)</h3>
-  
-  <p>Le linee britanniche sono le più antiche e variegate, essendo il paese d'origine della razza. Tendono a privilegiare <strong>equilibrio generale</strong>, movimento fluido, temperamento stabile. Morfologicamente spesso mostrano teste moderate, costruzione atletica, pigmentazione eccellente.</p>
-  
-  <h3>Linee Irlandesi</h3>
-  
-  <p>Le linee irlandesi hanno spesso enfatizzato <strong>massa muscolare</strong>, ossatura robusta e teste più piene. Caratterialmente tendono ad essere molto affettuose e socievoli con la famiglia. Attenzione a verificare sempre la funzionalità del movimento.</p>
-  
-  <h3>Linee Continentali</h3>
-  
-  <p>Paesi come Olanda, Germania, Scandinavia hanno sviluppato proprie linee mescolando sangue UK e irlandese, spesso con attenzione particolare a <strong>salute e longevità</strong>. Ottimi risultati in termini di equilibrio psicofisico.</p>
-  
-  <div class="callout">
-  <p class="callout-title">🏆 Nel nostro allevamento</p>
-  <p>Selezioniamo principalmente da linee UK e irlandesi bilanciate, privilegiando tipicità corretta, salute certificata (test L2-HGA, HC, PHPV) e temperamento familiare eccellente.</p>
-  </div>
-  
+  <h2>Da dove vengono le linee</h2>
+
+  <p>Le linee britanniche sono le pi&ugrave; antiche e variegate, e privilegiano equilibrio generale, movimento fluido e temperamento stabile. Le irlandesi hanno spesso enfatizzato massa muscolare e ossatura. Sono due tradizioni che si combinano bene, ed &egrave; su questo che lavoriamo.</p>
+
+  <p>La storia completa &mdash; le sei linee fondatrici individuate da Beilby nel 1943, Gentleman Jim, le linee estinte e il confronto fra Linea M e Linea R &mdash; &egrave; raccontata nella <a href="/linee-sangue-staffordshire-bull-terrier/" title="Linee di sangue Staffordshire Bull Terrier: storia">pagina dedicata alla storia delle linee</a>.</p>
+
   <h2>Definisci i Tuoi Obiettivi Prima di Scegliere</h2>
   
   <h3>Cane da Compagnia/Famiglia</h3>
@@ -116,17 +103,10 @@ custom_content: |
   
   <p>I titoli di campionato (CH, Multi CH, INT CH) sono indicatori utili ma non sufficienti. Verifica sempre: salute certificata con test genetici, carattere stabile, tipicità reale confrontando foto e video dei soggetti in pedigree.</p>
   
-  <h2>Salute e Test Genetici: Mai Opzionali</h2>
-  
-  <p>Qualunque sia la linea di sangue, pretendi <strong>trasparenza totale</strong> su:</p>
-  
-  <ul>
-  <li><strong>Test DNA obbligatori:</strong> L2-HGA (malattia neurologica), HC (cataratta ereditaria)</li>
-  <li><strong>Visite specialistiche:</strong> PHPV (oculistica), esame cardiologico, displasia anca/gomito</li>
-  <li><strong>Documentazione:</strong> certificati originali dei laboratori accreditati, non "te lo dico a voce"</li>
-  <li><strong>Longevità:</strong> chiedi l'età media dei cani in quella linea di sangue. Staffy dovrebbero vivere 12-14 anni</li>
-  </ul>
-  
+  <h2>La salute viene prima della linea</h2>
+
+  <p>Qualunque sia la linea, i test non sono un dettaglio da valutare dopo: L2-HGA e HC si escludono con un esame del DNA, e i referti devono riportare il microchip del cane. Come funzionano, cosa significano gli esiti e quanto costano lo trovi nella <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">pagina sui test genetici</a>.</p>
+
   <h2>Tipicità di Razza: Cosa Osservare</h2>
   
   <ul>
@@ -137,36 +117,12 @@ custom_content: |
   <li><strong>Temperamento:</strong> sicuro, curioso, non aggressivo né pauroso, socievole con persone</li>
   </ul>
   
-  <h2>Domande Essenziali da Fare all'Allevatore</h2>
-  
-  <ul>
-  <li>Quali obiettivi stai perseguendo con questa specifica linea di sangue?</li>
-  <li>Quali sono i punti forti e deboli che stai bilanciando nel pedigree di questa cucciolata?</li>
-  <li>Che risultati reali hanno dato gli accoppiamenti precedenti simili?</li>
-  <li>Che tipo di famiglia/proprietario consigli per i cuccioli di questa genealogia?</li>
-  <li>Posso vedere parenti stretti (fratelli/sorelle di cucciolate precedenti, nonni)?</li>
-  <li>Qual è l'età media dei cani di questa linea? Ci sono problemi ricorrenti?</li>
-  <li>Offri supporto e follow-up dopo la consegna del cucciolo?</li>
-  </ul>
-  
-  <div class="checklist">
-  <p class="checklist-title">Checklist Finale: Come Orientarsi</p>
-  <ul>
-  <li>Chiedi di vedere parenti prossimi dei genitori (se possibile)</li>
-  <li>Studia foto e video in movimento dei soggetti nel pedigree</li>
-  <li>Valuta testimonianze di famiglie con cuccioli di accoppiamenti simili</li>
-  <li>Verifica coerenza nel tempo: stessi pregi (e difetti) si ripetono?</li>
-  <li>Confronta con lo standard FCI, non con mode o estremizzazioni</li>
-  <li>Dai priorità a salute e carattere, poi alla morfologia</li>
-  <li>Diffida di "linee esclusive miracolose" senza documentazione</li>
-  </ul>
-  </div>
-  
-  <div class="callout">
-  <p class="callout-title">🎯 Conclusione</p>
-  <p>Scegliere la linea di sangue giusta per il tuo Staffordshire Bull Terrier significa mettere insieme obiettivi personali, tipicità di razza, salute certificata e carattere stabile. Confrontati con allevatori seri, trasparenti e prenditi il tempo necessario per decidere con consapevolezza. Un cucciolo è un impegno di 12-14 anni.</p>
-  </div>
-  
+  <h2>Le domande da fare</h2>
+
+  <p>Sulle linee di sangue vale la pena chiedere una cosa sola, ma precisa: <em>perch&eacute; hai scelto questo maschio per questa femmina?</em> Chi seleziona sa rispondere indicando cosa sta cercando di correggere e cosa sta cercando di fissare.</p>
+
+  <p>L'elenco completo delle domande da fare, e come verificare le risposte, sta nella guida su <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento serio">come riconoscere un allevamento serio</a>.</p>
+
   <h2>Domande Frequenti</h2>
   
   <section class="faq">

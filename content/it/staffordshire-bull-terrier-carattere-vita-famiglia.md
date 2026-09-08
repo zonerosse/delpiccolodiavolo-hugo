@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier: Carattere, Vita in Famiglia e Cosa Aspettarsi"
-lastmod: 2026-09-02
+lastmod: 2026-09-08
 titleSeo: "Staffordshire Bull Terrier: carattere e vita in famiglia"
 translationKey: "carattere-famiglia"
 articolo: true
@@ -127,18 +127,11 @@ custom_content: |
   <li><strong>Distruttivo</strong> se annoiato o lasciato solo troppo a lungo</li>
   </ul>
 
-  <h2>La selezione del carattere: perché conta più della razza</h2>
+  <h2>Il peso di chi alleva</h2>
 
-  <p>Il carattere di uno Staffy dipende per il 60% dalla genetica e per il 40% dall'ambiente. Questo significa che scegliere un allevamento serio — che seleziona riproduttori con carattere stabile e socializza i cuccioli fin dal primo giorno — è la decisione più importante che puoi fare.</p>
+  <p>Due Staffordshire Bull Terrier con lo stesso pedigree possono avere caratteri diversi: la genetica d&agrave; la base, le prime settimane fanno il resto. &Egrave; il motivo per cui l'allevatore da cui prendi il cucciolo conta quanto la razza che hai scelto.</p>
 
-  <p>Un cucciolo nato da genitori con carattere instabile, cresciuto in un box isolato, arriva nella famiglia nuova con uno svantaggio enorme che nessuna educazione può completamente compensare.</p>
-
-  <p>Nel nostro allevamento selezioniamo il carattere prima dell'estetica. Se cerchi <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier allevati in famiglia">cuccioli Staffordshire Bull Terrier</a> con un carattere solido fin dalla nascita, parti da qui. Per sapere come scegliamo i riproduttori, leggi il nostro <a href="/programma-allevamento/" title="Programma di allevamento Staffordshire Bull Terrier">programma di allevamento</a>.</p>
-
-  <div class="callout">
-  <p class="callout-title">🐾 Stai Valutando uno Staffy?</p>
-  <p>Contattami prima di decidere. Rispondo a tutte le domande e ti aiuto a capire se lo Staffy fa davvero per te. <a href="/allevamento-staffordshire-bull-terrier-in-emilia-romagna/" title="Contattaci">Scrivimi su WhatsApp</a>.</p>
-  </div>
+  <p>Come si seleziona un temperamento, cosa guardiamo nei riproduttori e come si valuta un cucciolo: ne parliamo nella pagina sul <a href="/staffordshire-bull-terrier-carattere/" title="Temperamento dello Staffy: come è stato selezionato">temperamento dello Staffy</a>.</p>
 
   <section class="faq">
   <div class="faq-header">
