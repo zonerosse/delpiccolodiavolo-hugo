@@ -27,12 +27,11 @@
   <link rel="preconnect" href="https://wa.me">
   <link rel="dns-prefetch" href="https://wa.me">
 
-  {{/* Preload LCP image - hero image */}}
-  {{ with .Params.hero_image }}
-  <link rel="preload" as="image" href="{{ . }}" type="image/avif" fetchpriority="high">
-  {{ else }}
-  <link rel="preload" as="image" href="/images/femmina-bilquis-hero.avif" type="image/avif" fetchpriority="high">
-  {{ end }}
+  {{/* Preload dell'immagine LCP. La foto dell'hero ruota ogni settimana:
+       la calcola hero-corrente.html, lo stesso partial usato dal tag <img>,
+       cosi' preload e immagine mostrata non divergono mai. */}}
+  {{ $heroLcp := .Params.hero_image | default (partial "hero-corrente.html" .) }}
+  <link rel="preload" as="image" href="{{ $heroLcp }}" type="image/{{ if strings.HasSuffix $heroLcp ".webp" }}webp{{ else if strings.HasSuffix $heroLcp ".jpg" }}jpeg{{ else }}avif{{ end }}" fetchpriority="high">
 
   {{/* Favicons - Google richiede minimo 48x48 per i risultati di ricerca */}}
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
@@ -45,7 +44,7 @@
   <link rel="manifest" href="/manifest.json">
   <meta name="theme-color" content="#8b5a2b">
   
-  {{ if .Params.noindex }}<meta name="robots" content="noindex, follow">{{ end }}
+  {{ if .Params.noindex }}<meta name="robots" content="noindex, follow">{{ else }}<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">{{ end }}
   <meta name="geo.region" content="IT-FE">
   <meta name="geo.placename" content="Ostellato">
   <meta name="geo.position" content="44.7461783;11.9377268">
@@ -79,7 +78,12 @@
   <meta property="og:url" content="{{ .Permalink }}">
   {{/* Anteprima social: JPEG, non AVIF. Facebook, LinkedIn e X non lo
        gestiscono in modo affidabile e la condivisione esce senza immagine. */}}
-  <meta property="og:image" content="{{ .Params.og_image | default "/images/og-default.jpg" | absURL }}">
+  {{/* Anteprima social: prima og_image, poi l'immagine della pagina se non
+       e' AVIF (Facebook e LinkedIn non lo leggono), infine il JPEG di default. */}}
+  {{ $og := .Params.og_image }}
+  {{ if not $og }}{{ with .Params.image }}{{ if not (strings.HasSuffix . ".avif") }}{{ $og = . }}{{ end }}{{ end }}{{ end }}
+  {{ if not $og }}{{ $og = "/images/og-default.jpg" }}{{ end }}
+  <meta property="og:image" content="{{ $og | absURL }}">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   {{ if .IsHome }}
@@ -90,7 +94,7 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ with .Params.titleSeo }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
   <meta name="twitter:description" content="{{ .Description | default .Site.Params.description }}">
-  <meta name="twitter:image" content="{{ .Params.og_image | default "/images/og-default.jpg" | absURL }}">
+  <meta name="twitter:image" content="{{ $og | absURL }}">
 
   {{ with .Params.json_ld }}
   <script type="application/ld+json">{{ . | safeJS }}</script>
