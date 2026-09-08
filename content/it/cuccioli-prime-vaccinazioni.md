@@ -35,7 +35,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a href="/blog/#cuccioli" title="Articoli Cuccioli">Cuccioli</a> ›
+  <a aria-label="Cuccioli — categoria del blog" href="/blog/#cuccioli" title="Articoli Cuccioli">Cuccioli</a> ›
   <span>Prime vaccinazioni</span>
   </nav>
   
@@ -106,9 +106,9 @@ custom_content: |
   
   <p class="tags"><strong>Tag:</strong>
   <a aria-label="Guide sullo Staffordshire Bull Terrier" href="/blog/#cuccioli" title="Articoli Staffy">staffordshire bull terrier</a>
-  <a href="/blog/#cuccioli" title="Articoli cuccioli">cuccioli</a>
-  <a href="/blog/#cuccioli" title="Articoli vaccinazioni">prime vaccinazioni</a>
-  <a href="/blog/#cuccioli" title="Articoli allevamento">allevamento</a>
+  <a aria-label="cuccioli — categoria del blog" href="/blog/#cuccioli" title="Articoli cuccioli">cuccioli</a>
+  <a aria-label="prime vaccinazioni — categoria del blog" href="/blog/#cuccioli" title="Articoli vaccinazioni">prime vaccinazioni</a>
+  <a aria-label="allevamento — categoria del blog" href="/blog/#cuccioli" title="Articoli allevamento">allevamento</a>
   </p>
   </div>
   

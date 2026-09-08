@@ -1,6 +1,6 @@
 ---
 title: "Esercizio Sicuro per Staffordshire Bull Terrier"
-lastmod: 2026-09-02
+lastmod: 2026-09-08
 translationKey: "esercizio"
 articolo: true
 image: "/images/blog/salute-3.webp"
@@ -34,7 +34,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a href="/blog/#salute-benessere" title="Salute e Benessere">Salute e Benessere</a> ›
+  <a aria-label="Salute e Benessere — categoria del blog" href="/blog/#salute-benessere" title="Salute e Benessere">Salute e Benessere</a> ›
   <span>Esercizio Sicuro</span>
   </nav>
   
@@ -354,11 +354,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
   
   <p class="tags"><strong>Tag:</strong>
-  <a href="/blog/#salute-benessere" title="Articoli esercizio">esercizio</a>
-  <a href="/blog/#salute-benessere" title="Articoli attività fisica">attività fisica</a>
-  <a href="/blog/#salute-benessere" title="Articoli cuccioli">cuccioli</a>
-  <a href="/blog/#salute-benessere" title="Articoli colpo di calore">colpo di calore</a>
-  <a href="/blog/#salute-benessere" title="Articoli sport">sport cinofili</a>
+  <a aria-label="esercizio — categoria del blog" href="/blog/#salute-benessere" title="Articoli esercizio">esercizio</a>
+  <a aria-label="attività fisica — categoria del blog" href="/blog/#salute-benessere" title="Articoli attività fisica">attività fisica</a>
+  <a aria-label="cuccioli — categoria del blog" href="/blog/#salute-benessere" title="Articoli cuccioli">cuccioli</a>
+  <a aria-label="colpo di calore — categoria del blog" href="/blog/#salute-benessere" title="Articoli colpo di calore">colpo di calore</a>
+  <a aria-label="sport cinofili — categoria del blog" href="/blog/#salute-benessere" title="Articoli sport">sport cinofili</a>
   </p>
   </div>
   

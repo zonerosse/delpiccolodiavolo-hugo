@@ -35,7 +35,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a href="/blog/#standard-linee-sangue" title="Standard e Linee">Standard e Linee</a> ›
+  <a aria-label="Standard e Linee — categoria del blog" href="/blog/#standard-linee-sangue" title="Standard e Linee">Standard e Linee</a> ›
   <span>Linee di Sangue</span>
   </nav>
   
@@ -297,11 +297,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
   
   <p class="tags"><strong>Tag:</strong>
-  <a href="/blog/#standard-linee-sangue" title="Articoli linee">linee di sangue</a>
-  <a href="/blog/#standard-linee-sangue" title="Articoli genealogia">genealogia</a>
-  <a href="/blog/#standard-linee-sangue" title="Articoli bloodline">bloodline</a>
-  <a href="/blog/#standard-linee-sangue" title="Articoli gentleman jim">gentleman jim</a>
-  <a href="/blog/#standard-linee-sangue" title="Articoli allevamento">allevamento</a>
+  <a aria-label="linee di sangue — categoria del blog" href="/blog/#standard-linee-sangue" title="Articoli linee">linee di sangue</a>
+  <a aria-label="genealogia — categoria del blog" href="/blog/#standard-linee-sangue" title="Articoli genealogia">genealogia</a>
+  <a aria-label="bloodline — categoria del blog" href="/blog/#standard-linee-sangue" title="Articoli bloodline">bloodline</a>
+  <a aria-label="gentleman jim — categoria del blog" href="/blog/#standard-linee-sangue" title="Articoli gentleman jim">gentleman jim</a>
+  <a aria-label="allevamento — categoria del blog" href="/blog/#standard-linee-sangue" title="Articoli allevamento">allevamento</a>
   </p>
   </div>
   

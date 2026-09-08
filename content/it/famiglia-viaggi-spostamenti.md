@@ -1,6 +1,6 @@
 ---
 title: "Viaggiare con Staffordshire Bull Terrier: Auto, Treno, Hotel"
-lastmod: 2026-09-02
+lastmod: 2026-09-08
 translationKey: "viaggi"
 articolo: true
 image: "/images/blog/famiglia-4.webp"
@@ -34,7 +34,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a href="/blog/#famiglia" title="Famiglia">Famiglia e Convivenza</a> ›
+  <a aria-label="Famiglia e Convivenza — categoria del blog" href="/blog/#famiglia" title="Famiglia">Famiglia e Convivenza</a> ›
   <span>Viaggi e Spostamenti</span>
   </nav>
   
@@ -223,11 +223,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
   
   <p class="tags"><strong>Tag:</strong>
-  <a href="/blog/#famiglia" title="Articoli viaggi">viaggiare</a>
-  <a href="/blog/#famiglia" title="Articoli auto">auto</a>
-  <a href="/blog/#famiglia" title="Articoli treno">treno</a>
-  <a href="/blog/#famiglia" title="Articoli hotel">hotel</a>
-  <a href="/blog/#famiglia" title="Articoli trasportino">trasportino</a>
+  <a aria-label="viaggiare — categoria del blog" href="/blog/#famiglia" title="Articoli viaggi">viaggiare</a>
+  <a aria-label="auto — categoria del blog" href="/blog/#famiglia" title="Articoli auto">auto</a>
+  <a aria-label="treno — categoria del blog" href="/blog/#famiglia" title="Articoli treno">treno</a>
+  <a aria-label="hotel — categoria del blog" href="/blog/#famiglia" title="Articoli hotel">hotel</a>
+  <a aria-label="trasportino — categoria del blog" href="/blog/#famiglia" title="Articoli trasportino">trasportino</a>
   </p>
   </div>
   

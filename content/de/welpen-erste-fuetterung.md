@@ -35,7 +35,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/de/" title="Startseite">Startseite</a> ›
   <a href="/de/blog/" title="Blog">Blog</a> ›
-  <a href="/de/blog/#welpen" title="Welpen">Welpen</a> ›
+  <a aria-label="Welpen — Blog-Kategorie" href="/de/blog/#welpen" title="Welpen">Welpen</a> ›
   <span>Erste Fütterung</span>
   </nav>
   
@@ -80,10 +80,10 @@ custom_content: |
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   
   <p class="tags"><strong>Tags:</strong>
-  <a href="/de/blog/#welpen" title="Welpen-Artikel">welpen</a>
+  <a aria-label="welpen — Blog-Kategorie" href="/de/blog/#welpen" title="Welpen-Artikel">welpen</a>
   <a aria-label="Ratgeber zum Staffordshire Bull Terrier" href="/de/blog/#welpen" title="Staffy-Artikel">staffordshire bull terrier</a>
-  <a href="/de/blog/#welpen" title="Fütterung-Artikel">welpenfütterung</a>
-  <a href="/de/blog/#welpen" title="Zucht-Artikel">zucht</a>
+  <a aria-label="welpenfütterung — Blog-Kategorie" href="/de/blog/#welpen" title="Fütterung-Artikel">welpenfütterung</a>
+  <a aria-label="zucht — Blog-Kategorie" href="/de/blog/#welpen" title="Zucht-Artikel">zucht</a>
   </p>
   </div>
   
