@@ -1,9 +1,10 @@
 ---
 title: "Welpen Staffordshire Bull Terrier"
-lastmod: 2026-09-03
+titleSeo: "Staffordshire Bull Terrier Welpen mit überprüfbaren Gentests"
+lastmod: 2026-09-08
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
-description: "Staffordshire Bull Terrier Welpen mit ENCI-Ahnentafel und Gentests. Elitebull und Lackyle Linien. Ostellato (FE)."
+description: "Staffordshire Bull Terrier Welpen in Ostellato (FE). ENCI-Ahnentafel, Eltern auf L2HGA und HC getestet, Befunde auf der Website veröffentlicht."
 correlati:
   - url: "/de/staffy-gentests-l2hga-hc/"
     titolo: "Gentests: L2-HGA und HC"

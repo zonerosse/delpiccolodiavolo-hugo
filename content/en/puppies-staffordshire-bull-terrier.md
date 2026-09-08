@@ -1,9 +1,10 @@
 ---
 title: "Staffordshire Bull Terrier Puppies"
-lastmod: 2026-09-03
+titleSeo: "Staffordshire Bull Terrier Puppies, verifiable genetic tests"
+lastmod: 2026-09-08
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
-description: "Staffordshire Bull Terrier puppies with ENCI pedigree and genetic tests. Elitebull and Lackyle lines. Ostellato, Italy."
+description: "Staffordshire Bull Terrier puppies in Ostellato, Italy. ENCI pedigree, parents tested for L2HGA and HC with the certificates published on this site."
 correlati:
   - url: "/en/staffy-genetic-testing-l2hga-hc/"
     titolo: "Genetic testing: L2-HGA and HC"
