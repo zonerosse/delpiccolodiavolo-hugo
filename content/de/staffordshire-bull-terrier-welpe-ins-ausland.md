@@ -1,5 +1,5 @@
 ---
-title: "Staffordshire Bull Terrier Welpe ins Ausland: so lauft es ab"
+title: "Staffordshire Bull Terrier Welpe ins Ausland: so läuft es ab"
 lastmod: 2026-09-08
 articolo: true
 translationKey: "cucciolo-estero"
