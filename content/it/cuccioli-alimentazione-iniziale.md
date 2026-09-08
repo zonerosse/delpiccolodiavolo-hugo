@@ -35,7 +35,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a href="/blog/#cuccioli" title="Cuccioli">Cuccioli</a> ›
+  <a aria-label="Cuccioli — categoria del blog" href="/blog/#cuccioli" title="Cuccioli">Cuccioli</a> ›
   <span>Alimentazione iniziale</span>
   </nav>
   
@@ -122,10 +122,10 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
   
   <p class="tags"><strong>Tag:</strong>
-  <a href="/blog/#cuccioli" title="Articoli cuccioli">cuccioli</a>
+  <a aria-label="cuccioli — categoria del blog" href="/blog/#cuccioli" title="Articoli cuccioli">cuccioli</a>
   <a aria-label="Guide sullo Staffordshire Bull Terrier" href="/blog/#cuccioli" title="Articoli Staffy">staffordshire bull terrier</a>
-  <a href="/blog/#cuccioli" title="Articoli alimentazione">alimentazione cuccioli</a>
-  <a href="/blog/#cuccioli" title="Articoli allevamento">allevamento</a>
+  <a aria-label="alimentazione cuccioli — categoria del blog" href="/blog/#cuccioli" title="Articoli alimentazione">alimentazione cuccioli</a>
+  <a aria-label="allevamento — categoria del blog" href="/blog/#cuccioli" title="Articoli allevamento">allevamento</a>
   </p>
   </div>
   

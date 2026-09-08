@@ -35,7 +35,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> ›
   <a href="/en/blog/" title="Blog">Blog</a> ›
-  <a href="/en/blog/#puppies" title="Puppies">Puppies</a> ›
+  <a aria-label="Puppies — blog category" href="/en/blog/#puppies" title="Puppies">Puppies</a> ›
   <span>First Walk</span>
   </nav>
   
@@ -85,10 +85,10 @@ custom_content: |
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   
   <p class="tags"><strong>Tags:</strong>
-  <a href="/en/blog/#puppies" title="Puppy articles">puppies</a>
+  <a aria-label="puppies — blog category" href="/en/blog/#puppies" title="Puppy articles">puppies</a>
   <a aria-label="Staffordshire Bull Terrier guides" href="/en/blog/#puppies" title="Staffy articles">staffordshire bull terrier</a>
-  <a href="/en/blog/#puppies" title="Walking articles">first walk</a>
-  <a href="/en/blog/#puppies" title="Training articles">leash training</a>
+  <a aria-label="first walk — blog category" href="/en/blog/#puppies" title="Walking articles">first walk</a>
+  <a aria-label="leash training — blog category" href="/en/blog/#puppies" title="Training articles">leash training</a>
   </p>
   </div>
   

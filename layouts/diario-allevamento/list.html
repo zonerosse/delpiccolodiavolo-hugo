@@ -20,12 +20,12 @@
         {{ end }}
         <div class="diario-card-content">
           <h2 class="diario-card-title">
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
           </h2>
           {{ with .Description }}
           <p class="diario-card-excerpt">{{ . }}</p>
           {{ end }}
-          <a href="{{ .Permalink }}" class="diario-card-link" aria-label="{{ i18n "leggi_articolo" }}: {{ .Title }}">Leggi tutto →</a>
+          <a href="{{ .RelPermalink }}" class="diario-card-link" aria-label="{{ i18n "leggi_articolo" }}: {{ .Title }}">Leggi tutto →</a>
         </div>
       </article>
       {{ end }}
@@ -40,7 +40,7 @@
 <section class="cta-section">
   <h2>Vuoi essere avvisato?</h2>
   <p>Contattaci su WhatsApp per ricevere aggiornamenti sulle prossime cucciolate.</p>
-  <a href="https://wa.me/{{ .Site.Params.whatsapp }}?text=Ciao%20Paolo%2C%20vorrei%20ricevere%20aggiornamenti%20sulle%20cucciolate" class="btn" title="WhatsApp">Scrivici su WhatsApp</a>
+  <a href="https://wa.me/{{ .Site.Params.whatsapp }}?text=Ciao%20Paolo%2C%20vorrei%20ricevere%20aggiornamenti%20sulle%20cucciolate" class="btn" target="_blank" rel="noopener" title="WhatsApp" aria-label="{{ i18n "scrivi_wa" }} per gli aggiornamenti sulle cucciolate ({{ i18n "nuova_scheda" }})">Scrivici su WhatsApp</a>
 </section>
 
 {{ end }}

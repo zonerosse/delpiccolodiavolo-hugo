@@ -35,7 +35,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/de/" title="Startseite">Startseite</a> ›
   <a href="/de/blog/" title="Blog">Blog</a> ›
-  <a href="/de/blog/#welpen" title="Welpen">Welpen</a> ›
+  <a aria-label="Welpen — Blog-Kategorie" href="/de/blog/#welpen" title="Welpen">Welpen</a> ›
   <span>Allein Bleiben Lernen</span>
   </nav>
   
@@ -87,10 +87,10 @@ custom_content: |
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   
   <p class="tags"><strong>Tags:</strong>
-  <a href="/de/blog/#welpen" title="Welpen-Artikel">welpen</a>
+  <a aria-label="welpen — Blog-Kategorie" href="/de/blog/#welpen" title="Welpen-Artikel">welpen</a>
   <a aria-label="Ratgeber zum Staffordshire Bull Terrier" href="/de/blog/#welpen" title="Staffy-Artikel">staffordshire bull terrier</a>
-  <a href="/de/blog/#welpen" title="Angst-Artikel">trennungsangst</a>
-  <a href="/de/blog/#welpen" title="Alleinsein-Artikel">allein bleiben</a>
+  <a aria-label="trennungsangst — Blog-Kategorie" href="/de/blog/#welpen" title="Angst-Artikel">trennungsangst</a>
+  <a aria-label="allein bleiben — Blog-Kategorie" href="/de/blog/#welpen" title="Alleinsein-Artikel">allein bleiben</a>
   </p>
   </div>
   

@@ -35,7 +35,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> ›
   <a href="/en/blog/" title="Blog">Blog</a> ›
-  <a href="/en/blog/#puppies" title="Puppies">Puppies</a> ›
+  <a aria-label="Puppies — blog category" href="/en/blog/#puppies" title="Puppies">Puppies</a> ›
   <span>First Vaccinations</span>
   </nav>
   
@@ -84,10 +84,10 @@ custom_content: |
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   
   <p class="tags"><strong>Tags:</strong>
-  <a href="/en/blog/#puppies" title="Puppy articles">puppies</a>
+  <a aria-label="puppies — blog category" href="/en/blog/#puppies" title="Puppy articles">puppies</a>
   <a aria-label="Staffordshire Bull Terrier guides" href="/en/blog/#puppies" title="Staffy articles">staffordshire bull terrier</a>
-  <a href="/en/blog/#health" title="Health articles">vaccinations</a>
-  <a href="/en/blog/#health" title="Health articles">puppy health</a>
+  <a aria-label="vaccinations — blog category" href="/en/blog/#health" title="Health articles">vaccinations</a>
+  <a aria-label="puppy health — blog category" href="/en/blog/#health" title="Health articles">puppy health</a>
   </p>
   </div>
   

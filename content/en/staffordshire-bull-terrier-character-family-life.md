@@ -35,7 +35,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> ›
   <a href="/en/blog/" title="Blog">Blog</a> ›
-  <a href="/en/blog/#family" title="Family">Family and Cohabitation</a> ›
+  <a aria-label="Family and Cohabitation — blog category" href="/en/blog/#family" title="Family">Family and Cohabitation</a> ›
   <span>Character and Family Life</span>
   </nav>
 
@@ -189,10 +189,10 @@ custom_content: |
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
 
   <p class="tags"><strong>Tags:</strong>
-  <a href="/en/blog/#family" title="Character articles">character</a>
-  <a href="/en/blog/#family" title="Family articles">family</a>
-  <a href="/en/blog/#family" title="Children articles">children</a>
-  <a href="/en/blog/#family" title="Cohabitation articles">cohabitation</a>
+  <a aria-label="character — blog category" href="/en/blog/#family" title="Character articles">character</a>
+  <a aria-label="family — blog category" href="/en/blog/#family" title="Family articles">family</a>
+  <a aria-label="children — blog category" href="/en/blog/#family" title="Children articles">children</a>
+  <a aria-label="cohabitation — blog category" href="/en/blog/#family" title="Cohabitation articles">cohabitation</a>
   </p>
   </div>
 

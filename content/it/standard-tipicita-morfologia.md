@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier: Tipicità di Razza e Morfologia"
-lastmod: 2026-09-02
+lastmod: 2026-09-08
 translationKey: "standard"
 articolo: true
 image: "/images/blog/standard-1.webp"
@@ -34,7 +34,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a href="/blog/#standard-linee-sangue" title="Standard e Linee">Standard e Linee</a> ›
+  <a aria-label="Standard e Linee — categoria del blog" href="/blog/#standard-linee-sangue" title="Standard e Linee">Standard e Linee</a> ›
   <span>Tipicità e Morfologia</span>
   </nav>
   
@@ -210,11 +210,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
   
   <p class="tags"><strong>Tag:</strong>
-  <a href="/blog/#standard-linee-sangue" title="Articoli standard">standard fci</a>
-  <a href="/blog/#standard-linee-sangue" title="Articoli tipicità">tipicità razza</a>
-  <a href="/blog/#standard-linee-sangue" title="Articoli morfologia">morfologia</a>
-  <a href="/blog/#standard-linee-sangue" title="Articoli conformazione">conformazione</a>
-  <a href="/blog/#standard-linee-sangue" title="Articoli linee">linee di sangue</a>
+  <a aria-label="standard fci — categoria del blog" href="/blog/#standard-linee-sangue" title="Articoli standard">standard fci</a>
+  <a aria-label="tipicità razza — categoria del blog" href="/blog/#standard-linee-sangue" title="Articoli tipicità">tipicità razza</a>
+  <a aria-label="morfologia — categoria del blog" href="/blog/#standard-linee-sangue" title="Articoli morfologia">morfologia</a>
+  <a aria-label="conformazione — categoria del blog" href="/blog/#standard-linee-sangue" title="Articoli conformazione">conformazione</a>
+  <a aria-label="linee di sangue — categoria del blog" href="/blog/#standard-linee-sangue" title="Articoli linee">linee di sangue</a>
   </p>
   </div>
   

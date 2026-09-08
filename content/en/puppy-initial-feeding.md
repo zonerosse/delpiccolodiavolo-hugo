@@ -35,7 +35,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> ›
   <a href="/en/blog/" title="Blog">Blog</a> ›
-  <a href="/en/blog/#puppies" title="Puppies">Puppies</a> ›
+  <a aria-label="Puppies — blog category" href="/en/blog/#puppies" title="Puppies">Puppies</a> ›
   <span>Initial Feeding</span>
   </nav>
   
@@ -81,10 +81,10 @@ custom_content: |
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   
   <p class="tags"><strong>Tags:</strong>
-  <a href="/en/blog/#puppies" title="Puppy articles">puppies</a>
+  <a aria-label="puppies — blog category" href="/en/blog/#puppies" title="Puppy articles">puppies</a>
   <a aria-label="Staffordshire Bull Terrier guides" href="/en/blog/#puppies" title="Staffy articles">staffordshire bull terrier</a>
-  <a href="/en/blog/#puppies" title="Feeding articles">puppy feeding</a>
-  <a href="/en/blog/#puppies" title="Breeding articles">breeding</a>
+  <a aria-label="puppy feeding — blog category" href="/en/blog/#puppies" title="Feeding articles">puppy feeding</a>
+  <a aria-label="breeding — blog category" href="/en/blog/#puppies" title="Breeding articles">breeding</a>
   </p>
   </div>
   

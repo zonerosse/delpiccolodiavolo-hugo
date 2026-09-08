@@ -1,6 +1,6 @@
 ---
 title: "Test Genetici L2-HGA e HC Staffordshire Bull Terrier"
-lastmod: 2026-09-02
+lastmod: 2026-09-08
 translationKey: "test-genetici"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -34,7 +34,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a href="/blog/#salute-benessere" title="Salute e Benessere">Salute e Benessere</a> ›
+  <a aria-label="Salute e Benessere — categoria del blog" href="/blog/#salute-benessere" title="Salute e Benessere">Salute e Benessere</a> ›
   <span>Test Genetici L2-HGA e HC</span>
   </nav>
   
@@ -384,11 +384,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
   
   <p class="tags"><strong>Tag:</strong>
-  <a href="/blog/#salute-benessere" title="Articoli test">test genetici</a>
-  <a href="/blog/#salute-benessere" title="Articoli L2-HGA">L2-HGA</a>
-  <a href="/blog/#salute-benessere" title="Articoli HC">HC cataratta</a>
-  <a href="/blog/#salute-benessere" title="Articoli salute">salute staffy</a>
-  <a href="/blog/#salute-benessere" title="Articoli allevamento">allevamento responsabile</a>
+  <a aria-label="test genetici — categoria del blog" href="/blog/#salute-benessere" title="Articoli test">test genetici</a>
+  <a aria-label="L2-HGA — categoria del blog" href="/blog/#salute-benessere" title="Articoli L2-HGA">L2-HGA</a>
+  <a aria-label="HC cataratta — categoria del blog" href="/blog/#salute-benessere" title="Articoli HC">HC cataratta</a>
+  <a aria-label="salute staffy — categoria del blog" href="/blog/#salute-benessere" title="Articoli salute">salute staffy</a>
+  <a aria-label="allevamento responsabile — categoria del blog" href="/blog/#salute-benessere" title="Articoli allevamento">allevamento responsabile</a>
   </p>
   </div>
   

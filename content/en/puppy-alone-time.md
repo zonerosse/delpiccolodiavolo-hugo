@@ -35,7 +35,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> ›
   <a href="/en/blog/" title="Blog">Blog</a> ›
-  <a href="/en/blog/#puppies" title="Puppies">Puppies</a> ›
+  <a aria-label="Puppies — blog category" href="/en/blog/#puppies" title="Puppies">Puppies</a> ›
   <span>Managing Alone Time</span>
   </nav>
   
@@ -87,10 +87,10 @@ custom_content: |
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   
   <p class="tags"><strong>Tags:</strong>
-  <a href="/en/blog/#puppies" title="Puppy articles">puppies</a>
+  <a aria-label="puppies — blog category" href="/en/blog/#puppies" title="Puppy articles">puppies</a>
   <a aria-label="Staffordshire Bull Terrier guides" href="/en/blog/#puppies" title="Staffy articles">staffordshire bull terrier</a>
-  <a href="/en/blog/#puppies" title="Anxiety articles">separation anxiety</a>
-  <a href="/en/blog/#puppies" title="Alone time articles">alone time management</a>
+  <a aria-label="separation anxiety — blog category" href="/en/blog/#puppies" title="Anxiety articles">separation anxiety</a>
+  <a aria-label="alone time management — blog category" href="/en/blog/#puppies" title="Alone time articles">alone time management</a>
   </p>
   </div>
   

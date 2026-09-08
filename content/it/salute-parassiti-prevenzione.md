@@ -1,6 +1,6 @@
 ---
 title: "Parassiti: Prevenzione e Controllo Staffordshire Bull Terrier"
-lastmod: 2026-09-02
+lastmod: 2026-09-08
 titleSeo: "Parassiti nello Staffordshire Bull Terrier: prevenzione"
 translationKey: "parassiti"
 articolo: true
@@ -35,7 +35,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a href="/blog/#salute-benessere" title="Salute e Benessere">Salute e Benessere</a> ›
+  <a aria-label="Salute e Benessere — categoria del blog" href="/blog/#salute-benessere" title="Salute e Benessere">Salute e Benessere</a> ›
   <span>Prevenzione Parassiti</span>
   </nav>
   
@@ -286,11 +286,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
   
   <p class="tags"><strong>Tag:</strong>
-  <a href="/blog/#salute-benessere" title="Articoli parassiti">parassiti</a>
-  <a href="/blog/#salute-benessere" title="Articoli pulci">pulci</a>
-  <a href="/blog/#salute-benessere" title="Articoli zecche">zecche</a>
-  <a href="/blog/#salute-benessere" title="Articoli prevenzione">prevenzione</a>
-  <a href="/blog/#salute-benessere" title="Articoli filaria">filaria</a>
+  <a aria-label="parassiti — categoria del blog" href="/blog/#salute-benessere" title="Articoli parassiti">parassiti</a>
+  <a aria-label="pulci — categoria del blog" href="/blog/#salute-benessere" title="Articoli pulci">pulci</a>
+  <a aria-label="zecche — categoria del blog" href="/blog/#salute-benessere" title="Articoli zecche">zecche</a>
+  <a aria-label="prevenzione — categoria del blog" href="/blog/#salute-benessere" title="Articoli prevenzione">prevenzione</a>
+  <a aria-label="filaria — categoria del blog" href="/blog/#salute-benessere" title="Articoli filaria">filaria</a>
   </p>
   </div>
   

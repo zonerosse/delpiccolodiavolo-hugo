@@ -1,6 +1,6 @@
 ---
 title: "Igiene Orale e Denti Staffordshire Bull Terrier"
-lastmod: 2026-09-02
+lastmod: 2026-09-08
 translationKey: "denti"
 articolo: true
 image: "/images/blog/salute-2.webp"
@@ -34,7 +34,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a href="/blog/#salute-benessere" title="Salute e Benessere">Salute e Benessere</a> ›
+  <a aria-label="Salute e Benessere — categoria del blog" href="/blog/#salute-benessere" title="Salute e Benessere">Salute e Benessere</a> ›
   <span>Igiene Orale e Denti</span>
   </nav>
   
@@ -344,11 +344,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
   
   <p class="tags"><strong>Tag:</strong>
-  <a href="/blog/#salute-benessere" title="Articoli igiene">igiene orale</a>
-  <a href="/blog/#salute-benessere" title="Articoli denti">denti</a>
-  <a href="/blog/#salute-benessere" title="Articoli tartaro">tartaro</a>
-  <a href="/blog/#salute-benessere" title="Articoli detartrasi">detartrasi</a>
-  <a href="/blog/#salute-benessere" title="Articoli spazzolatura">spazzolatura</a>
+  <a aria-label="igiene orale — categoria del blog" href="/blog/#salute-benessere" title="Articoli igiene">igiene orale</a>
+  <a aria-label="denti — categoria del blog" href="/blog/#salute-benessere" title="Articoli denti">denti</a>
+  <a aria-label="tartaro — categoria del blog" href="/blog/#salute-benessere" title="Articoli tartaro">tartaro</a>
+  <a aria-label="detartrasi — categoria del blog" href="/blog/#salute-benessere" title="Articoli detartrasi">detartrasi</a>
+  <a aria-label="spazzolatura — categoria del blog" href="/blog/#salute-benessere" title="Articoli spazzolatura">spazzolatura</a>
   </p>
   </div>
   
