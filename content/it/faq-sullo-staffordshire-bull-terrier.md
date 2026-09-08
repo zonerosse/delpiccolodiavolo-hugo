@@ -220,7 +220,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Cosa significa che i cuccioli sono socializzati?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">I nostri <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli</a> crescono in casa, non in box esterni. Dalle prime settimane sono esposti a rumori domestici (aspirapolvere, televisione, campanello), superfici diverse, persone di tutte le eta, altri cani adulti equilibrati. Questo periodo critico (3-16 settimane) forma un carattere stabile e sicuro.</div>
+  <div class="faq-answer">I nostri <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli</a> nascono in casa e ci restano il primo mese, poi passano in un box dedicato con sfogo esterno, rientrando a turno per qualche ora al giorno. Dalle prime settimane sono esposti a rumori domestici (aspirapolvere, televisione, campanello), superfici diverse, persone di tutte le eta, altri cani adulti equilibrati. Questo periodo critico (3-16 settimane) forma un carattere stabile e sicuro.</div>
   </div>
   
   <div class="faq-item active">

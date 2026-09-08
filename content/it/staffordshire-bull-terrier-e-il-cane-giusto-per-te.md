@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier: è il cane giusto per te? Pro e contro"
-lastmod: 2026-09-02
+lastmod: 2026-09-08
 titleSeo: "Staffordshire Bull Terrier: è il cane giusto per te?"
 translationKey: "cane-giusto"
 articolo: true
@@ -114,7 +114,7 @@ custom_content: |
   
   <div class="callout">
   <p class="callout-title">🏆 Il nostro punto di vista</p>
-  <p>Nel <a href="/">nostro allevamento Del Piccolo Diavolo</a> i cuccioli nascono e crescono <strong>in famiglia</strong>, non in box: questo fa un'enorme differenza sull'equilibrio del cane adulto. Un cucciolo ben socializzato dai suoi primi giorni — a persone, rumori, altri animali — diventa uno Staffy sereno e gestibile. Se decidi che è la razza giusta per te, il passo successivo più importante è scegliere <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/">un allevamento serio</a>: è lì che si costruisce (o si rovina) il carattere del tuo futuro compagno.</p>
+  <p>Nel <a href="/">nostro allevamento Del Piccolo Diavolo</a> i cuccioli nascono in casa e crescono <strong>in famiglia</strong>: prima nella cassa parto, poi in un box dedicato da cui rientrano ogni giorno, a turno. Questo fa un'enorme differenza sull'equilibrio del cane adulto. Un cucciolo ben socializzato dai suoi primi giorni — a persone, rumori, altri animali — diventa uno Staffy sereno e gestibile. Se decidi che è la razza giusta per te, il passo successivo più importante è scegliere <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/">un allevamento serio</a>: è lì che si costruisce (o si rovina) il carattere del tuo futuro compagno.</p>
   </div>
   
   <h2>Quanto impegno richiede, in concreto</h2>
