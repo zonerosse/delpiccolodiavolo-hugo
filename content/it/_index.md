@@ -88,7 +88,7 @@ custom_content: |
   </div>
   </section>
 
-<section class="section">
+  <section class="section">
   <div class="section-inner">
   <h2 class="section-title">Una cucciolata l’anno, a volte nessuna</h2>
   <div class="intro-block" style="text-align:left">
