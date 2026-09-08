@@ -1,6 +1,6 @@
 ---
 title: "Datenschutzerklärung – Del Piccolo Diavolo"
-lastmod: 2026-09-06
+lastmod: 2026-09-08
 tipoPagina: "WebPage"
 translationKey: "privacy"
 description: "Datenschutzerklärung und Verarbeitung personenbezogener Daten der Zucht Del Piccolo Diavolo - DSGVO-Informationen."
@@ -164,7 +164,7 @@ custom_content: |
   <div class="legal-section">
   <h3>12. Cookies und Tracking-Technologien</h3>
   <p><strong>Diese Website setzt keine eigenen Cookies.</strong></p>
-  <p><strong>YouTube-Video.</strong> Einige Seiten des Zuchttagebuchs enthalten ein von YouTube eingebettetes Video. Wir verwenden die Domain <code>youtube-nocookie.com</code>: Solange Sie nicht auf <em>Play</em> drücken, erhält YouTube keine Kennungen und speichert nichts auf Ihrem Gerät. Wenn Sie das Video starten, erhält Google Ihre IP-Adresse und kann lokale Speichertechnologien gemäß der eigenen Datenschutzerklärung verwenden (<a href="https://policies.google.com/privacy" target="_blank" rel="noopener">policies.google.com/privacy</a>). Sie können alle Seiten der Website besuchen, ohne es je zu starten.</p>
+  <p><strong>YouTube-Video.</strong> Einige Seiten des Zuchttagebuchs enthalten ein von YouTube eingebettetes Video. Wir verwenden die Domain <code>youtube-nocookie.com</code>: Solange Sie nicht auf <em>Play</em> drücken, erhält YouTube keine Kennungen und speichert nichts auf Ihrem Gerät. Wenn Sie das Video starten, erhält Google Ihre IP-Adresse und kann lokale Speichertechnologien gemäß der eigenen Datenschutzerklärung verwenden (<a href="https://policies.google.com/privacy" target="_blank" rel="noopener" aria-label="policies.google.com/privacy (wird in einem neuen Tab geöffnet)">policies.google.com/privacy</a>). Sie können alle Seiten der Website besuchen, ohne es je zu starten.</p>
   <p>Es werden keine technischen Cookies, Profiling-Cookies, Third-Party-Cookies oder Benutzer-Tracking-Systeme verwendet.</p>
   <p>Die Website erhebt aggregierte Zugriffsstatistiken über <strong>Cloudflare Web Analytics</strong>, das keine Cookies auf Ihrem Gerät setzt, keine Kennungen vergibt und Sie nicht über verschiedene Websites hinweg verfolgt. Aus diesem Grund zeigt die Website kein Einwilligungsbanner: Es gibt nichts, wofür eine Einwilligung erforderlich wäre.</p>
   </div>

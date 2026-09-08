@@ -86,7 +86,7 @@ custom_content: |
   
   <p class="tags"><strong>Tags:</strong>
   <a href="/de/blog/#welpen" title="Welpen-Artikel">welpen</a>
-  <a href="/de/blog/#welpen" title="Staffy-Artikel">staffordshire bull terrier</a>
+  <a aria-label="Ratgeber zum Staffordshire Bull Terrier" href="/de/blog/#welpen" title="Staffy-Artikel">staffordshire bull terrier</a>
   <a href="/de/blog/#welpen" title="Training-Artikel">stubenreinheit</a>
   <a href="/de/blog/#welpen" title="Routine-Artikel">ausgangsroutine</a>
   </p>

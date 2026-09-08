@@ -126,7 +126,7 @@ Die Eltern sind auf die wichtigsten genetischen Erkrankungen der Rasse getestet:
       <li>Hyperurikosurie (SLC2A9): <strong>Clear (N/N)</strong></li>
       <li>MDR1: <strong>Clear (N/N)</strong></li>
     </ul>
-    <p style="margin:.9rem 0 0"><a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b">Antagene-Befund (PDF) →</a></p>
+    <p style="margin:.9rem 0 0"><a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b" aria-label="Antagene-Befund (PDF) (wird in einem neuen Tab geöffnet)">Antagene-Befund (PDF) →</a></p>
   </div>
 
   <div style="background:#fff;border:1px solid #e2ddd6;border-radius:10px;padding:1.25rem">
@@ -137,8 +137,8 @@ Die Eltern sind auf die wichtigsten genetischen Erkrankungen der Rasse getestet:
       <li>L2HGA (L2HGDH): <strong>Clear (WT/WT)</strong></li>
       <li>HC (HSF4): <strong>Clear (WT/WT)</strong></li>
     </ul>
-    <p style="margin:.9rem 0 0"><a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b">L2HGA-Befund (PDF) →</a></p>
-    <p style="margin:.35rem 0 0"><a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b">HC-Befund (PDF) →</a></p>
+    <p style="margin:.9rem 0 0"><a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b" aria-label="L2HGA-Befund (PDF) (wird in einem neuen Tab geöffnet)">L2HGA-Befund (PDF) →</a></p>
+    <p style="margin:.35rem 0 0"><a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b" aria-label="HC-Befund (PDF) (wird in einem neuen Tab geöffnet)">HC-Befund (PDF) →</a></p>
   </div>
 
 </div>

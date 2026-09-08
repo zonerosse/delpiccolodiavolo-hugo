@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier: Character, Family Life and What to Expect"
-lastmod: 2026-09-02
+lastmod: 2026-09-08
 titleSeo: "Staffordshire Bull Terrier: character and family life"
 translationKey: "carattere-famiglia"
 articolo: true
@@ -43,7 +43,7 @@ custom_content: |
   <article class="article-content">
 
   <div class="lead">
-  <strong>In brief:</strong> The <a href="/en/" title="Staffordshire Bull Terrier Kennel">Staffordshire Bull Terrier</a> is the most affectionate dog that exists — but also one with an extremely strong personality. This guide is written by someone who has been in the breed since 2005, breeding since 2013, and has rehomed over a hundred Staffordshire Bull Terriers. No generic descriptions: just the truth.
+  <strong>In brief:</strong> The <a aria-label="Del Piccolo Diavolo kennel" href="/en/" title="Staffordshire Bull Terrier Kennel">Staffordshire Bull Terrier</a> is the most affectionate dog that exists — but also one with an extremely strong personality. This guide is written by someone who has been in the breed since 2005, breeding since 2013, and has rehomed over a hundred Staffordshire Bull Terriers. No generic descriptions: just the truth.
   </div>
 
   <h2>The Staffordshire Bull Terrier character: the truth</h2>

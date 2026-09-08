@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Colours: Black, Brindle, Blue and More"
-lastmod: 2026-09-02
+lastmod: 2026-09-08
 titleSeo: "Staffordshire Bull Terrier colours: black, brindle, blue"
 translationKey: "colori"
 articolo: true
@@ -42,7 +42,7 @@ custom_content: |
   <article class="article-content">
   
   <div class="lead">
-  <strong>In short:</strong> the <a href="/en/">Staffordshire Bull Terrier</a> standard allows the colours <strong>red, fawn, white, black or blue</strong>, each with or without white, and <strong>any shade of brindle</strong> with or without white. Black and tan and liver are not permitted. <strong>Blue</strong>, although listed in the standard, is a diluted colour linked to possible skin problems: serious breeders treat it with great caution. In this guide we explain each colour clearly.
+  <strong>In short:</strong> the <a aria-label="Del Piccolo Diavolo kennel" href="/en/">Staffordshire Bull Terrier</a> standard allows the colours <strong>red, fawn, white, black or blue</strong>, each with or without white, and <strong>any shade of brindle</strong> with or without white. Black and tan and liver are not permitted. <strong>Blue</strong>, although listed in the standard, is a diluted colour linked to possible skin problems: serious breeders treat it with great caution. In this guide we explain each colour clearly.
   </div>
   
   <h2>What the official standard says</h2>

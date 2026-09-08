@@ -42,7 +42,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p><a href="https://wsava.org/global-guidelines/vaccination-guidelines/" title="Linee guida WSAVA sulla vaccinazione di cani e gatti, edizione 2024" target="_blank" rel="noopener" aria-label="Linee guida WSAVA sulla vaccinazione di cani e gatti, edizione 2024 (si apre in una nuova scheda)">Le prime vaccinazioni</a> sono una tappa fondamentale per la salute del cucciolo di <a href="/" title="Staffordshire Bull Terrier">Staffordshire Bull Terrier</a>. Un protocollo corretto, concordato con il veterinario, protegge da malattie potenzialmente gravi e si integra con sverminazioni e richiami successivi.</p>
+  <p><a href="https://wsava.org/global-guidelines/vaccination-guidelines/" title="Linee guida WSAVA sulla vaccinazione di cani e gatti, edizione 2024" target="_blank" rel="noopener" aria-label="Linee guida WSAVA sulla vaccinazione di cani e gatti, edizione 2024 (si apre in una nuova scheda)">Le prime vaccinazioni</a> sono una tappa fondamentale per la salute del cucciolo di <a aria-label="Allevamento Del Piccolo Diavolo" href="/" title="Staffordshire Bull Terrier">Staffordshire Bull Terrier</a>. Un protocollo corretto, concordato con il veterinario, protegge da malattie potenzialmente gravi e si integra con sverminazioni e richiami successivi.</p>
   
   <h2>Calendario base dei vaccini</h2>
   
@@ -105,7 +105,7 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
   
   <p class="tags"><strong>Tag:</strong>
-  <a href="/blog/#cuccioli" title="Articoli Staffy">staffordshire bull terrier</a>
+  <a aria-label="Guide sullo Staffordshire Bull Terrier" href="/blog/#cuccioli" title="Articoli Staffy">staffordshire bull terrier</a>
   <a href="/blog/#cuccioli" title="Articoli cuccioli">cuccioli</a>
   <a href="/blog/#cuccioli" title="Articoli vaccinazioni">prime vaccinazioni</a>
   <a href="/blog/#cuccioli" title="Articoli allevamento">allevamento</a>

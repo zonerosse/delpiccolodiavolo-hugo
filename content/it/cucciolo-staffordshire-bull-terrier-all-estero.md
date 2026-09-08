@@ -25,7 +25,7 @@ custom_content: |
   <p class="hero-subtitle">Tempi, documenti, export pedigree</p>
   <p class="hero-description">Un cucciolo destinato a una famiglia di un altro paese europeo parte intorno ai quattro mesi, non a due. Servono antirabbica, passaporto europeo, certificato sanitario TRACES ed export pedigree ENCI. Ecco come funziona davvero.</p>
   <div class="hero-actions">
-  <a class="btn btn-primary" href="https://wa.me/393924635584" target="_blank" rel="noopener">Scrivimi</a>
+  <a class="btn btn-primary" href="https://wa.me/393924635584" target="_blank" rel="noopener" aria-label="Scrivimi (si apre in una nuova scheda)">Scrivimi</a>
   <a class="btn btn-ghost" href="#contenuto">Come funziona</a>
   </div>
   <p class="hero-trust">Dal 2013 &middot; Pedigree ENCI &middot; Italiano, English, Deutsch</p>
@@ -33,14 +33,12 @@ custom_content: |
   </section>
 
   <div class="features-bar"><div class="features-track"><span>Antirabbica da 12 settimane</span><span>Passaporto europeo</span><span>Certificato TRACES</span><span>Export pedigree ENCI</span><span>Partenza a 4 mesi</span><span>Antirabbica da 12 settimane</span><span>Passaporto europeo</span><span>Certificato TRACES</span><span>Export pedigree ENCI</span><span>Partenza a 4 mesi</span></div></div>
-
-  <span id="contenuto"></span>
   <section class="section">
   <div class="section-inner content-single">
 
   <p>Ci arrivano richieste da fuori Italia, soprattutto dai paesi dell'Est europeo. È possibile, lo abbiamo già fatto, ma funziona diversamente da un affido in Italia e conviene saperlo prima di affezionarsi a una foto.</p>
 
-  <h3>Il cucciolo non parte a due mesi</h3>
+  <h2>Il cucciolo non parte a due mesi</h2>
 
   <p>In Italia un cucciolo lascia la madre a 60 giorni. Per uscire dal paese, invece, gli serve la vaccinazione antirabbica, che <strong>non si può fare prima delle 12 settimane</strong> di vita. Dopo la prima somministrazione bisogna aspettarne altre tre perché diventi valida ai fini dello spostamento.</p>
 
@@ -48,7 +46,7 @@ custom_content: |
 
   <p>Non è un ostacolo burocratico da aggirare: è il tempo che serve. Chi propone di far partire un cucciolo di due mesi verso un altro paese o non conosce le regole o le sta violando, e in entrambi i casi vale la pena chiedersi cos'altro non stia facendo.</p>
 
-  <h3>Cosa lo accompagna</h3>
+  <h2>Cosa lo accompagna</h2>
 
   <ul>
   <li><strong>Microchip</strong> conforme allo standard europeo, registrato</li>
@@ -62,7 +60,7 @@ custom_content: |
 
   <p>Alcuni paesi chiedono in più il trattamento contro <em>Echinococcus multilocularis</em> nei giorni precedenti la partenza. Riguarda poche destinazioni, ma va verificato caso per caso.</p>
 
-  <h3>L'export pedigree, e perché conviene dirlo subito</h3>
+  <h2>L'export pedigree, e perché conviene dirlo subito</h2>
 
   <p>Il pedigree italiano, da solo, all'estero non si trascrive. Serve che l'ENCI apponga il timbro <strong>Export Pedigree</strong>: è quel documento, e solo quello, che il vostro ente cinofilo nazionale accetta per registrare il cane come Staffordshire Bull Terrier di razza.</p>
 
@@ -77,17 +75,17 @@ custom_content: |
 
   <p>Una cosa da mettere in conto: <strong>l'export pedigree arriva quasi sempre dopo il cucciolo.</strong> Viene spedito per posta all'indirizzo del nuovo proprietario e non viaggia nel trasportino. Il cane parte in regola lo stesso — microchip, passaporto, vaccinazione e certificato sanitario sono ciò che conta per l'ingresso — ma la registrazione presso il vostro ente cinofilo si fa dopo, con quel foglio in mano.</p>
 
-  <h3>Chi viene a prenderlo</h3>
+  <h2>Chi viene a prenderlo</h2>
 
   <p>Il cucciolo non viaggia da solo. Niente corrieri, niente stive, niente consegne a metà strada in un parcheggio.</p>
 
   <p>Venite voi a Ostellato: è così che vediamo chi affidiamo, e voi vedete la madre, la casa e il posto dove è cresciuto. Vale ancora di più quando si abita lontano, perché è l'unica occasione che avete di verificare di persona quello che avete letto sullo schermo.</p>
 
-  <h3>Quanto prima muoversi</h3>
+  <h2>Quanto prima muoversi</h2>
 
   <p>Se una cucciolata vi interessa, parlatene con noi quando i cuccioli sono ancora piccoli. Servono settimane per organizzare le vaccinazioni nei tempi giusti, fissare la visita per il certificato ufficiale e mettere d'accordo due calendari.</p>
 
-  <h3>Una premessa onesta</h3>
+  <h2>Una premessa onesta</h2>
 
   <p>Le regole cambiano. Il quadro europeo è stato aggiornato ad aprile 2026 e i singoli paesi applicano condizioni proprie, soprattutto sui cuccioli giovani.</p>
 
@@ -107,6 +105,6 @@ custom_content: |
   <section class="cta-section">
   <h2>Domande sull'affido all'estero?</h2>
   <p>Scrivimi su WhatsApp e ne parliamo con calma.</p>
-  <a class="btn btn-light" href="https://wa.me/393924635584" target="_blank" rel="noopener">Scrivimi su WhatsApp</a>
+  <a class="btn btn-light" href="https://wa.me/393924635584" target="_blank" rel="noopener" aria-label="Scrivimi su WhatsApp (si apre in una nuova scheda)">Scrivimi su WhatsApp</a>
   </section>
 ---

@@ -111,7 +111,7 @@ custom_content: |
   <div class="review-card">
   <p class="review-text">&laquo;Circa otto mesi fa decisi di aver come compagno di avventure uno Staffy e mi misi a documentarmi per potermi affidare ad un allevamento il più affidabile possibile. […] Ora ho il mio piccolo diavolo grazie a questa splendida famiglia che non smetterò mai di ringraziare.&raquo;</p>
   <div class="reviewer"><span>Gianluca Ravera</span><span class="stars">★★★★★</span></div>
-  <p style="margin-top:.6rem;font-size:.82rem"><a href="https://search.google.com/local/reviews?placeid=ChIJqV8xIv1rfkcRQK_6v1XiVNE" target="_blank" rel="noopener" title="Leggi la recensione originale su Google" style="color:#8b5a2b;font-weight:600">Leggi la recensione su Google &rarr;</a></p>
+  <p style="margin-top:.6rem;font-size:.82rem"><a href="https://search.google.com/local/reviews?placeid=ChIJqV8xIv1rfkcRQK_6v1XiVNE" target="_blank" rel="noopener" title="Leggi la recensione originale su Google" style="color:#8b5a2b;font-weight:600" aria-label="Leggi la recensione su Google (si apre in una nuova scheda)">Leggi la recensione su Google &rarr;</a></p>
   </div>
 
     <div class="gallery-grid">

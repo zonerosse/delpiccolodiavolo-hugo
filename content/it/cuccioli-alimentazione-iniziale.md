@@ -123,7 +123,7 @@ custom_content: |
   
   <p class="tags"><strong>Tag:</strong>
   <a href="/blog/#cuccioli" title="Articoli cuccioli">cuccioli</a>
-  <a href="/blog/#cuccioli" title="Articoli Staffy">staffordshire bull terrier</a>
+  <a aria-label="Guide sullo Staffordshire Bull Terrier" href="/blog/#cuccioli" title="Articoli Staffy">staffordshire bull terrier</a>
   <a href="/blog/#cuccioli" title="Articoli alimentazione">alimentazione cuccioli</a>
   <a href="/blog/#cuccioli" title="Articoli allevamento">allevamento</a>
   </p>

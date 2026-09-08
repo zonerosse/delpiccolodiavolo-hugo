@@ -130,7 +130,7 @@ custom_content: |
   
   <p class="tags"><strong>Tag:</strong>
   <a href="/blog/#cuccioli" title="Articoli cuccioli">cuccioli</a>
-  <a href="/blog/#cuccioli" title="Articoli Staffy">staffordshire bull terrier</a>
+  <a aria-label="Guide sullo Staffordshire Bull Terrier" href="/blog/#cuccioli" title="Articoli Staffy">staffordshire bull terrier</a>
   <a href="/blog/#cuccioli" title="Articoli passeggiata">prima passeggiata</a>
   <a href="/blog/#cuccioli" title="Articoli guinzaglio">guinzaglio</a>
   </p>

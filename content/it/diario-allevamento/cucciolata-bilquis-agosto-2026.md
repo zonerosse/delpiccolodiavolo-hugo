@@ -126,7 +126,7 @@ I genitori sono testati per le principali patologie genetiche della razza:
       <li>Iperuricosuria (SLC2A9): <strong>Clear (N/N)</strong></li>
       <li>MDR1: <strong>Clear (N/N)</strong></li>
     </ul>
-    <p style="margin:.9rem 0 0"><a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b">Referto Antagene (PDF) →</a></p>
+    <p style="margin:.9rem 0 0"><a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b" aria-label="Referto Antagene (PDF) (si apre in una nuova scheda)">Referto Antagene (PDF) →</a></p>
   </div>
 
   <div style="background:#fff;border:1px solid #e2ddd6;border-radius:10px;padding:1.25rem">
@@ -137,8 +137,8 @@ I genitori sono testati per le principali patologie genetiche della razza:
       <li>L2HGA (L2HGDH): <strong>Clear (WT/WT)</strong></li>
       <li>HC (HSF4): <strong>Clear (WT/WT)</strong></li>
     </ul>
-    <p style="margin:.9rem 0 0"><a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b">Referto L2HGA (PDF) →</a></p>
-    <p style="margin:.35rem 0 0"><a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b">Referto HC (PDF) →</a></p>
+    <p style="margin:.9rem 0 0"><a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b" aria-label="Referto L2HGA (PDF) (si apre in una nuova scheda)">Referto L2HGA (PDF) →</a></p>
+    <p style="margin:.35rem 0 0"><a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b" aria-label="Referto HC (PDF) (si apre in una nuova scheda)">Referto HC (PDF) →</a></p>
   </div>
 
 </div>

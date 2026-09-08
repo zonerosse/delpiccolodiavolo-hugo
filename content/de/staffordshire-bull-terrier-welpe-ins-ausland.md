@@ -25,7 +25,7 @@ custom_content: |
   <p class="hero-subtitle">Fristen, Papiere, Exportstammbaum</p>
   <p class="hero-description">Ein Welpe für eine Familie in einem anderen europäischen Land reist mit etwa vier Monaten, nicht mit zwei. Nötig sind Tollwutimpfung, EU-Heimtierausweis, TRACES-Gesundheitszeugnis und ENCI-Exportstammbaum. So läuft es wirklich ab.</p>
   <div class="hero-actions">
-  <a class="btn btn-primary" href="https://wa.me/393924635584" target="_blank" rel="noopener">Schreiben Sie mir</a>
+  <a class="btn btn-primary" href="https://wa.me/393924635584" target="_blank" rel="noopener" aria-label="Schreiben Sie mir (wird in einem neuen Tab geöffnet)">Schreiben Sie mir</a>
   <a class="btn btn-ghost" href="#contenuto">So funktioniert es</a>
   </div>
   <p class="hero-trust">Seit 2013 &middot; ENCI-Stammbaum &middot; Italiano, English, Deutsch</p>
@@ -33,14 +33,12 @@ custom_content: |
   </section>
 
   <div class="features-bar"><div class="features-track"><span>Tollwut ab 12 Wochen</span><span>EU-Heimtierausweis</span><span>TRACES-Zeugnis</span><span>ENCI-Exportstammbaum</span><span>Abreise mit 4 Monaten</span><span>Tollwut ab 12 Wochen</span><span>EU-Heimtierausweis</span><span>TRACES-Zeugnis</span><span>ENCI-Exportstammbaum</span><span>Abreise mit 4 Monaten</span></div></div>
-
-  <span id="contenuto"></span>
   <section class="section">
     <div class="section-inner content-single">
 
   <p>Wir erhalten Anfragen aus dem Ausland, vor allem aus Osteuropa. Es ist möglich — wir haben es schon getan — aber es läuft anders ab als eine Vermittlung innerhalb Italiens, und das sollte man wissen, bevor man sich in ein Foto verliebt.</p>
 
-    <h3>Der Welpe reist nicht mit acht Wochen</h3>
+    <h2>Der Welpe reist nicht mit acht Wochen</h2>
 
     <p>In Italien verlässt ein Welpe die Mutter mit 60 Tagen. Um das Land zu verlassen, braucht er jedoch die Tollwutimpfung, die <strong>nicht vor der 12. Lebenswoche</strong> verabreicht werden darf. Nach der ersten Impfung müssen weitere drei Wochen vergehen, bevor sie für die Verbringung gültig ist.</p>
 
@@ -48,7 +46,7 @@ custom_content: |
 
     <p>Das ist keine Bürokratie, die man umgehen sollte: es ist schlicht die Zeit, die es braucht. Wer anbietet, einen zwei Monate alten Welpen ins Ausland zu schicken, kennt die Regeln nicht oder bricht sie — und in beiden Fällen lohnt die Frage, was er sonst noch nicht tut.</p>
 
-    <h3>Was den Welpen begleitet</h3>
+    <h2>Was den Welpen begleitet</h2>
 
     <ul>
     <li><strong>Mikrochip</strong> nach europäischem Standard, registriert</li>
@@ -62,7 +60,7 @@ custom_content: |
 
     <p>Einige Länder verlangen zusätzlich eine Behandlung gegen <em>Echinococcus multilocularis</em> in den Tagen vor der Abreise. Das betrifft wenige Ziele, muss aber im Einzelfall geprüft werden.</p>
 
-    <h3>Die Export-Ahnentafel, und warum Sie es uns früh sagen sollten</h3>
+    <h2>Die Export-Ahnentafel, und warum Sie es uns früh sagen sollten</h2>
 
     <p>Die italienische Ahnentafel allein lässt sich im Ausland nicht umschreiben. Die ENCI muss den Stempel <strong>Export Pedigree</strong> anbringen: dieses Dokument, und nur dieses, akzeptiert Ihr nationaler Zuchtverband, um den Hund als Staffordshire Bull Terrier mit Papieren einzutragen.</p>
 
@@ -77,17 +75,17 @@ custom_content: |
 
     <p>Eines sollten Sie einplanen: <strong>die Export-Ahnentafel kommt fast immer nach dem Welpen.</strong> Sie wird an die Adresse des neuen Besitzers geschickt und reist nicht in der Box mit. Der Hund reist trotzdem völlig ordnungsgemäß — Mikrochip, Ausweis, Impfung und Gesundheitszeugnis sind das, was für die Einreise zählt — aber die Eintragung bei Ihrem Zuchtverband erfolgt danach, mit diesem Blatt in der Hand.</p>
 
-    <h3>Wer ihn abholt</h3>
+    <h2>Wer ihn abholt</h2>
 
     <p>Der Welpe reist nicht allein. Keine Kuriere, kein Frachtraum, keine Übergabe auf halbem Weg an einem Parkplatz.</p>
 
     <p>Sie kommen nach Ostellato. So sehen wir, wem wir einen Hund anvertrauen, und Sie sehen die Mutter, das Haus und den Ort, an dem er aufgewachsen ist. Das zählt umso mehr, wenn Sie weit weg wohnen, denn es ist Ihre einzige Gelegenheit, persönlich zu prüfen, was Sie am Bildschirm gelesen haben.</p>
 
-    <h3>Wie früh man sich melden sollte</h3>
+    <h2>Wie früh man sich melden sollte</h2>
 
     <p>Wenn Sie ein Wurf interessiert, sprechen Sie mit uns, solange die Welpen noch klein sind. Es braucht Wochen, um die Impfungen zeitlich richtig zu legen, den Termin für das amtliche Zeugnis zu bekommen und zwei Kalender in Einklang zu bringen.</p>
 
-    <h3>Eine ehrliche Vorbemerkung</h3>
+    <h2>Eine ehrliche Vorbemerkung</h2>
 
     <p>Regeln ändern sich. Der europäische Rahmen wurde im April 2026 aktualisiert, und die einzelnen Länder wenden eigene Bedingungen an, besonders bei jungen Welpen.</p>
 
@@ -107,6 +105,6 @@ custom_content: |
   <section class="cta-section">
   <h2>Fragen zur Vermittlung ins Ausland?</h2>
   <p>Schreiben Sie mir ruhig in Ihrer Sprache — das bekomme ich hin. Wenn Sie lieber sprechen möchten: meine Tochter Sara spricht Englisch, Deutsch, Spanisch und Niederländisch, <strong>+39 377 689 6955</strong>.</p>
-  <a class="btn btn-light" href="https://wa.me/393924635584" target="_blank" rel="noopener">Auf WhatsApp schreiben</a>
+  <a class="btn btn-light" href="https://wa.me/393924635584" target="_blank" rel="noopener" aria-label="Auf WhatsApp schreiben (wird in einem neuen Tab geöffnet)">Auf WhatsApp schreiben</a>
   </section>
 ---

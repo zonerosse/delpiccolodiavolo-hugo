@@ -165,7 +165,7 @@ custom_content: |
   <div class="legal-section">
   <h3>12. Cookies and Tracking Technologies</h3>
   <p><strong>This website sets no cookies of its own.</strong></p>
-  <p><strong>YouTube video.</strong> Some breeding-diary pages contain a video embedded from YouTube. We use the <code>youtube-nocookie.com</code> domain: until you press <em>play</em>, YouTube receives no identifiers and writes nothing to your device. If you start the video, Google receives your IP address and may use local storage technologies under its own policy (<a href="https://policies.google.com/privacy" target="_blank" rel="noopener">policies.google.com/privacy</a>). You can browse every page of the site without ever starting it.</p>
+  <p><strong>YouTube video.</strong> Some breeding-diary pages contain a video embedded from YouTube. We use the <code>youtube-nocookie.com</code> domain: until you press <em>play</em>, YouTube receives no identifiers and writes nothing to your device. If you start the video, Google receives your IP address and may use local storage technologies under its own policy (<a href="https://policies.google.com/privacy" target="_blank" rel="noopener" aria-label="policies.google.com/privacy (opens in a new tab)">policies.google.com/privacy</a>). You can browse every page of the site without ever starting it.</p>
   <p>No technical cookies, profiling cookies, third-party cookies, or user tracking systems are used.</p>
   <p>The site collects aggregate traffic statistics through <strong>Cloudflare Web Analytics</strong>, which sets no cookies on your device, assigns no identifiers and does not follow you across different sites. For this reason the site shows no consent banner: there is nothing to ask consent for.</p>
   </div>

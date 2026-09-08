@@ -82,7 +82,7 @@ custom_content: |
   
   <p class="tags"><strong>Tags:</strong>
   <a href="/en/blog/#puppies" title="Puppy articles">puppies</a>
-  <a href="/en/blog/#puppies" title="Staffy articles">staffordshire bull terrier</a>
+  <a aria-label="Staffordshire Bull Terrier guides" href="/en/blog/#puppies" title="Staffy articles">staffordshire bull terrier</a>
   <a href="/en/blog/#puppies" title="Feeding articles">puppy feeding</a>
   <a href="/en/blog/#puppies" title="Breeding articles">breeding</a>
   </p>

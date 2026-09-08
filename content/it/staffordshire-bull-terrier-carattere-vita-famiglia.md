@@ -43,7 +43,7 @@ custom_content: |
   <article class="article-content">
 
   <div class="lead">
-  <strong>In breve:</strong> Lo <a href="/" title="Allevamento Staffordshire Bull Terrier">Staffordshire Bull Terrier</a> è il cane più affettuoso che esista — ma anche uno con una personalità fortissima. Questa guida è scritta da chi è nella razza dal 2005, alleva dal 2013 e ha affidato oltre cento Staffordshire Bull Terrier. Non troverai descrizioni generiche: troverai la verità.
+  <strong>In breve:</strong> Lo <a aria-label="Allevamento Del Piccolo Diavolo" href="/" title="Allevamento Staffordshire Bull Terrier">Staffordshire Bull Terrier</a> è il cane più affettuoso che esista — ma anche uno con una personalità fortissima. Questa guida è scritta da chi è nella razza dal 2005, alleva dal 2013 e ha affidato oltre cento Staffordshire Bull Terrier. Non troverai descrizioni generiche: troverai la verità.
   </div>
 
   <h2>Il carattere dello Staffordshire Bull Terrier: la verità</h2>

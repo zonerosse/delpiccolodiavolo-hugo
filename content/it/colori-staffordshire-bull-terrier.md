@@ -1,6 +1,6 @@
 ---
 title: "I colori dello Staffordshire Bull Terrier: nero, tigrato, blu e altri"
-lastmod: 2026-09-02
+lastmod: 2026-09-08
 titleSeo: "Colori dello Staffordshire Bull Terrier: nero, tigrato, blu"
 translationKey: "colori"
 articolo: true
@@ -42,7 +42,7 @@ custom_content: |
   <article class="article-content">
   
   <div class="lead">
-  <strong>In breve:</strong> lo standard dello <a href="/">Staffordshire Bull Terrier</a> ammette i colori <strong>rosso, fulvo, bianco, nero o blu</strong>, ciascuno con o senza bianco, e <strong>ogni tonalità di tigrato (brindle)</strong> con o senza bianco. Non sono ammessi il nero focato (black and tan) e il fegato (liver). Il <strong>blu</strong>, pur presente nello standard, è un colore diluito legato a possibili problemi di pelle: gli allevatori seri lo trattano con grande cautela. In questa guida ti spieghiamo ogni colore con chiarezza.
+  <strong>In breve:</strong> lo standard dello <a aria-label="Allevamento Del Piccolo Diavolo" href="/">Staffordshire Bull Terrier</a> ammette i colori <strong>rosso, fulvo, bianco, nero o blu</strong>, ciascuno con o senza bianco, e <strong>ogni tonalità di tigrato (brindle)</strong> con o senza bianco. Non sono ammessi il nero focato (black and tan) e il fegato (liver). Il <strong>blu</strong>, pur presente nello standard, è un colore diluito legato a possibili problemi di pelle: gli allevatori seri lo trattano con grande cautela. In questa guida ti spieghiamo ogni colore con chiarezza.
   </div>
   
   <h2>Cosa dice lo standard ufficiale</h2>
