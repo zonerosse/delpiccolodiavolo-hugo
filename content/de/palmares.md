@@ -1,6 +1,6 @@
 ---
 title: "Palmares - Unsere Ausstellungserfolge"
-lastmod: 2026-09-02
+lastmod: 2026-09-08
 tipoPagina: "CollectionPage"
 translationKey: "palmares"
 description: "Ergebnisse und Titel unserer Staffordshire Bull Terrier: Italienische Champions, Jugendchampions, Best in Show. Del Piccolo Diavolo Zucht, Italien."
@@ -181,12 +181,12 @@ custom_content: |
   <section class="dark-section">
   <h2>Selektion, die Man Sieht</h2>
   <p>Ausstellungsergebnisse bestatigen unser Engagement: typische, gesunde Hunde mit ausgeglichenem Charakter. Wir kaufen keine bereits titulierten Hunde: wir zuchten sie, ziehen sie auf, stellen sie aus. Das ist der Unterschied.</p>
-  <a href="/de/huendinnen-staffordshire-bull-terrier/" class="btn" title="Unsere Hundinnen ansehen">Unsere Hunde Entdecken</a>
+  <a href="/de/huendinnen-staffordshire-bull-terrier/" class="btn" title="Unsere Hündinnen ansehen">Unsere Hunde Entdecken</a>
   </section>
   
   <section class="cta-section">
   <h2>Mochten Sie einen Welpen aus Siegerlinien?</h2>
-  <p>Unsere Welpen werden von getesteten und titulierten Eltern geboren. Kontaktieren Sie uns fur Informationen uber kommende Wurfe.</p>
+  <p>Unsere Welpen werden von getesteten und titulierten Eltern geboren. Kontaktieren Sie uns für Informationen über kommende Würfe.</p>
   <a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20interessiere%20mich%20fur%20Welpen%20aus%20Championlinien" class="btn" title="Schreiben Sie uns auf WhatsApp">Auf WhatsApp Schreiben</a>
   </section>
 ---

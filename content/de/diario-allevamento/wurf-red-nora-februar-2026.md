@@ -24,7 +24,7 @@ Wir freuen uns, die Geburt eines lang erwarteten Wurfes in der Zuchtstätte **De
 Ihr Browser unterstützt kein Video.
 </video>
 
-<p style="text-align:center;font-size:.85rem;color:#6b5d52;font-style:italic;margin:-.5rem auto 1.5rem;max-width:480px">Im Video sind die Welpen im Aussengehege, wo sie ihre Spielstunden in der Sonne verbringen.</p>
+<p style="text-align:center;font-size:.85rem;color:#6b5d52;font-style:italic;margin:-.5rem auto 1.5rem;max-width:480px">Im Video sind die Welpen im Außengehege, wo sie ihre Spielstunden in der Sonne verbringen.</p>
 
 ## Die Eltern
 
