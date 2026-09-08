@@ -1,6 +1,7 @@
 ---
 title: "Palmares - Our Show Results"
-lastmod: 2026-09-02
+titleSeo: "Palmares: Italian and international champions since 2013"
+lastmod: 2026-09-08
 tipoPagina: "CollectionPage"
 translationKey: "palmares"
 description: "Results and titles of our Staffordshire Bull Terriers: Italian Champions, Junior Champions, Best in Show. Del Piccolo Diavolo Kennel, Italy."

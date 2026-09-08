@@ -1,6 +1,7 @@
 ---
 title: "Cuccioli: Prime Vaccinazioni"
-lastmod: 2026-09-02
+titleSeo: "Prime vaccinazioni del cucciolo: calendario e richiami"
+lastmod: 2026-09-08
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/cuccioli-2.webp"

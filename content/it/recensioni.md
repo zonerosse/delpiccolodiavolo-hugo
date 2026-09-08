@@ -1,6 +1,7 @@
 ---
 title: "Recensioni Staffordshire Bull Terrier"
-lastmod: 2026-09-05
+titleSeo: "Recensioni Staffordshire Bull Terrier: oltre 40 famiglie"
+lastmod: 2026-09-08
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
 description: "Le recensioni Google delle famiglie che hanno scelto un cucciolo Del Piccolo Diavolo. Esperienze reali, prima e dopo l’affidamento."

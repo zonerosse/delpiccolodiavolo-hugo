@@ -189,8 +189,10 @@
   "@type": "WebSite",
   "@id": "{{ $baseURL }}/#website",
   "url": "{{ $baseURL }}/",
-  "name": "{{ if eq $lang "de" }}Zucht Del Piccolo Diavolo{{ else if eq $lang "en" }}Del Piccolo Diavolo Kennel{{ else }}Allevamento Del Piccolo Diavolo{{ end }}",
-  "alternateName": "Del Piccolo Diavolo",
+  {{/* Nome del sito: breve e identico ovunque. E' quello che Google mostra
+       sopra il titolo nei risultati di ricerca. */}}
+  "name": "Del Piccolo Diavolo",
+  "alternateName": "{{ if eq $lang "de" }}Zucht Del Piccolo Diavolo{{ else if eq $lang "en" }}Del Piccolo Diavolo Kennel{{ else }}Allevamento Del Piccolo Diavolo{{ end }}",
   "inLanguage": "{{ $lang }}",
   "publisher": { "@id": "{{ $baseURL }}/#organization" }
 }

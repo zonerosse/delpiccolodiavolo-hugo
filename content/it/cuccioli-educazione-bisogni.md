@@ -1,6 +1,7 @@
 ---
 title: "Cuccioli: Educazione ai bisogni"
-lastmod: 2026-09-02
+titleSeo: "Educare il cucciolo ai bisogni: metodo e tempi reali"
+lastmod: 2026-09-08
 translationKey: "bisogni"
 articolo: true
 image: "/images/blog/hero-default.webp"

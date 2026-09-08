@@ -5,9 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  {{/* Title SEO: titleSeo del front matter ha la precedenza.
-       Altrimenti si aggiunge il brand solo se il totale resta entro 60 caratteri
-       (sempre in home, dove il brand deve comparire). */}}
+  {{/* Title SEO: titleSeo del front matter ha la precedenza sul title.
+       Il brand si aggiunge soltanto in home. */}}
   {{ $brand := "Del Piccolo Diavolo" }}
   {{ $base := .Title }}
   {{ with .Params.titleSeo }}{{ $base = . }}{{ end }}
@@ -15,7 +14,10 @@
   {{ $titolo := $base }}
   {{ if in $base $brand }}
     {{ $titolo = $base }}
-  {{ else if or .IsHome (le (len $conBrand) 60) }}
+  {{ else if .IsHome }}
+    {{/* Il brand si aggiunge solo in home. Sulle altre pagine e' spazio
+         sprecato: Google mostra gia' il nome del sito su una riga a parte,
+         sopra il titolo, e quei 22 caratteri servono per dire altro. */}}
     {{ $titolo = $conBrand }}
   {{ end }}
   <title>{{ $titolo }}</title>
@@ -71,7 +73,7 @@
   {{ range .AllTranslations }}{{ if ne .Site.Language.Lang $.Site.Language.Lang }}
   <meta property="og:locale:alternate" content="{{ if eq .Site.Language.Lang "en" }}en_GB{{ else if eq .Site.Language.Lang "de" }}de_DE{{ else }}it_IT{{ end }}">
   {{ end }}{{ end }}
-  <meta property="og:site_name" content="Allevamento Del Piccolo Diavolo">
+  <meta property="og:site_name" content="Del Piccolo Diavolo">
   <meta property="og:title" content="{{ with .Params.titleSeo }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
   <meta property="og:description" content="{{ .Description | default .Site.Params.description }}">
   <meta property="og:url" content="{{ .Permalink }}">

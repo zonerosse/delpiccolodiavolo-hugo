@@ -1,6 +1,7 @@
 ---
 title: "Cuccioli: Socializzazione in Casa"
-lastmod: 2026-09-02
+titleSeo: "Socializzazione del cucciolo in casa: le prime settimane"
+lastmod: 2026-09-08
 translationKey: "socializzazione"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"

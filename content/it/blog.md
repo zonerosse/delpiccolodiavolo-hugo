@@ -1,6 +1,7 @@
 ---
 title: "Blog Staffordshire Bull Terrier"
-lastmod: 2026-09-02
+titleSeo: "Guide sullo Staffordshire Bull Terrier: salute e cuccioli"
+lastmod: 2026-09-08
 tipoPagina: "CollectionPage"
 translationKey: "blog"
 description: "Articoli su cuccioli, salute, standard e convivenza dello Staffordshire Bull Terrier. Consigli pratici dall'allevamento."

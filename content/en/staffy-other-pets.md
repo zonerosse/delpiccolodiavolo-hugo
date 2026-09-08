@@ -1,6 +1,7 @@
 ---
 title: "Staffy and Other Pets"
-lastmod: 2026-09-02
+titleSeo: "Staffordshire Bull Terrier with other pets at home"
+lastmod: 2026-09-08
 translationKey: "altri-animali"
 articolo: true
 image: "/images/blog/famiglia-3.webp"

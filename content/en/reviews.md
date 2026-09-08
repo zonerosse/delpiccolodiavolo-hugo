@@ -1,6 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Reviews"
-lastmod: 2026-09-05
+titleSeo: "Staffordshire Bull Terrier reviews from our families"
+lastmod: 2026-09-08
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
 description: "Google reviews from owners of our Staffordshire Bull Terriers: real experiences, before and after the placement."

@@ -1,6 +1,7 @@
 ---
 title: "Cuccioli: Giochi mentali"
-lastmod: 2026-09-02
+titleSeo: "Giochi mentali per cuccioli di Staffordshire Bull Terrier"
+lastmod: 2026-09-08
 translationKey: "giochi-mentali"
 articolo: true
 image: "/images/blog/cuccioli-6.webp"

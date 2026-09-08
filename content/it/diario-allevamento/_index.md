@@ -1,6 +1,7 @@
 ---
 title: "Diario Allevamento"
-lastmod: 2026-09-02
+titleSeo: "Diario dell'allevamento: cucciolate, date e test genetici"
+lastmod: 2026-09-08
 tipoPagina: "CollectionPage"
 articolo: true
 translationKey: "diario-allevamento"
