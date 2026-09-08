@@ -58,12 +58,12 @@ custom_content: |
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
   <h3>ENCI Italienische Schonheitschampionin</h3>
   <p><strong>4. Platz bei der World Dog Show</strong> - Ein Weltklasse-Ergebnis, auf das wir stolz sind.</p>
-  <p><strong>Historischer Rekord:</strong> 12 aufeinanderfolgende Ausstellungen mit Vorzüglich 1. Platz. Italienischer Champion-Titel noch in der Zwischenklasse erreicht, ein Ergebnis, das nur wenige Staffordshire Bull Terrier in Italien vorweisen konnen.</p>
+  <p><strong>Historischer Rekord:</strong> 12 aufeinanderfolgende Ausstellungen mit Vorzüglich 1. Platz. Italienischer Champion-Titel noch in der Zwischenklasse erreicht, ein Ergebnis, das nur wenige Staffordshire Bull Terrier in Italien vorweisen können.</p>
   </div>
   </div>
   </div>
   
-  <h3 style="margin-top:2rem;margin-bottom:1rem">Vollstandige Ergebnisse</h3>
+  <h3 style="margin-top:2rem;margin-bottom:1rem">Vollständige Ergebnisse</h3>
   
   <div class="risultati-grid" style="display:grid;gap:0.75rem">
   

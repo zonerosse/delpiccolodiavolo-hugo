@@ -89,7 +89,7 @@ custom_content: |
   <span class="section-label">Ausstellungserfolge</span>
   <h2 class="section-title">Was die Richter über unsere Hunde sagen</h2>
   
-  <p style="margin-bottom:2rem">Die Selektion von Del Piccolo Diavolo geht uber Asthetik hinaus: Unsere Ergebnisse auf italienischen und internationalen Ringen zeugen von jahrelanger Arbeit an Gesundheit, Typ und Charakter.</p>
+  <p style="margin-bottom:2rem">Die Selektion von Del Piccolo Diavolo geht über Ästhetik hinaus: Unsere Ergebnisse auf italienischen und internationalen Ringen zeugen von jahrelanger Arbeit an Gesundheit, Typ und Charakter.</p>
   
   <div class="successi-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1.5rem;margin-bottom:2rem;align-items:stretch">
   
@@ -226,7 +226,7 @@ custom_content: |
   <span>Ist der Staffy gut mit Kindern?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Absolut ja. Traditionell "Nanny Dog" genannt wegen seiner ausserordentlichen Geduld mit Kindern. Unsere Staffies wachsen im Kontakt mit Kindern auf und entwickeln naturlich Sanftheit und Schutzinstinkt.</div>
+  <div class="faq-answer">Absolut ja. Traditionell "Nanny Dog" genannt wegen seiner ausserordentlichen Geduld mit Kindern. Unsere Staffies wachsen im Kontakt mit Kindern auf und entwickeln natürlich Sanftheit und Schutzinstinkt.</div>
   </div>
   
   <div class="faq-item active">
@@ -234,7 +234,7 @@ custom_content: |
   <span>Welche Gentests fuhren Sie durch?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Alle unsere Zuchthunde sind getestet auf: L2HGA, HC (Hereditare Katarakt) und PHPV. Tests sind essentiell fur die Produktion gesunder Welpen. Jeder Welpe kommt mit Zertifikaten der Elterntests.</div>
+  <div class="faq-answer">Alle unsere Zuchthunde sind getestet auf: L2HGA, HC (Hereditare Katarakt) und PHPV. Tests sind unerlässlich für die Aufzucht gesunder Welpen. Jeder Welpe kommt mit Zertifikaten der Elterntests.</div>
   </div>
   
   <div class="faq-item active">
@@ -242,7 +242,7 @@ custom_content: |
   <span>Kann ich die Zucht besuchen?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Absolut ja, tatsachlich empfehle ich es dringend. In unserer Zucht in Ostellato (Ferrara, Italien) empfange ich Besucher nach Vereinbarung. Sie sehen die erwachsenen Hunde, wie die Welpen leben, und konnen Dokumentation und Pedigree prufen.</div>
+  <div class="faq-answer">Absolut ja, tatsachlich empfehle ich es dringend. In unserer Zucht in Ostellato (Ferrara, Italien) empfange ich Besucher nach Vereinbarung. Sie sehen die erwachsenen Hunde, wie die Welpen leben, und können Dokumentation und Ahnentafel prüfen.</div>
   </div>
   
   </div>
