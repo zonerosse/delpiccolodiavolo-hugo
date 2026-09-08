@@ -1,5 +1,7 @@
 ---
 title: "Red × Nora Litter (February 2026)"
+lastmod: 2026-09-08
+titleSeo: "Red and Nora litter, February 2026: parents and tests"
 articolo: true
 translationKey: "cucciolata-red-nora-febbraio-2026"
 description: "Litter born 9 February 2026 from Skilful-dogs Nora and Vangerbull Red Harricane: brindle and red and white puppies. Not available."

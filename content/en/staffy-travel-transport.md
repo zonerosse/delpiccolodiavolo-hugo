@@ -1,6 +1,7 @@
 ---
 title: "Staffy Travel and Transport"
-lastmod: 2026-09-02
+titleSeo: "Travelling with a Staffordshire Bull Terrier: car and train"
+lastmod: 2026-09-08
 translationKey: "viaggi"
 articolo: true
 image: "/images/blog/famiglia-4.webp"

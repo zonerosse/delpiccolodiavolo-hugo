@@ -1,6 +1,7 @@
 ---
 title: "Puppies: First Vaccinations"
-lastmod: 2026-09-02
+titleSeo: "Puppy first vaccinations: schedule and boosters"
+lastmod: 2026-09-08
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/salute.webp"

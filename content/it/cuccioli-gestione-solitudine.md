@@ -1,6 +1,7 @@
 ---
 title: "Cuccioli: Gestione della solitudine"
-lastmod: 2026-09-02
+titleSeo: "Insegnare al cucciolo a restare solo, senza stress"
+lastmod: 2026-09-08
 translationKey: "solitudine"
 articolo: true
 image: "/images/blog/hero-default.webp"

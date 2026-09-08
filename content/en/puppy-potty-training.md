@@ -1,6 +1,7 @@
 ---
 title: "Puppies: Potty Training"
-lastmod: 2026-09-02
+titleSeo: "Puppy potty training: method, timing and setbacks"
+lastmod: 2026-09-08
 translationKey: "bisogni"
 articolo: true
 image: "/images/blog/hero-default.webp"

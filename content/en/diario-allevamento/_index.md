@@ -1,6 +1,7 @@
 ---
 title: "Breeding Diary"
-lastmod: 2026-09-02
+titleSeo: "Breeding diary: litters, dates and genetic tests"
+lastmod: 2026-09-08
 tipoPagina: "CollectionPage"
 articolo: true
 translationKey: "diario-allevamento"

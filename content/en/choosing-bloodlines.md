@@ -1,6 +1,7 @@
 ---
 title: "How to Choose Staffy Bloodlines"
-lastmod: 2026-09-02
+titleSeo: "Choosing Staffordshire Bull Terrier bloodlines"
+lastmod: 2026-09-08
 translationKey: "scelta-linee"
 articolo: true
 image: "/images/blog/standard-2.webp"

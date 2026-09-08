@@ -1,6 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Litters"
-lastmod: 2026-09-02
+titleSeo: "Staffordshire Bull Terrier litters: planned and past"
+lastmod: 2026-09-08
 tipoPagina: "CollectionPage"
 translationKey: "programma"
 description: "Planned and current Staffordshire Bull Terrier litters at Del Piccolo Diavolo: parents, health tests and availability."

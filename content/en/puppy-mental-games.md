@@ -1,6 +1,7 @@
 ---
 title: "Puppies: Mental Games"
-lastmod: 2026-09-02
+titleSeo: "Mental games for Staffordshire Bull Terrier puppies"
+lastmod: 2026-09-08
 translationKey: "giochi-mentali"
 articolo: true
 image: "/images/blog/cuccioli-3.webp"

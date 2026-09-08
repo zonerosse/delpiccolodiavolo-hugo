@@ -1,13 +1,13 @@
 ---
 title: "Come Riconoscere un Allevamento Staffordshire Bull Terrier Serio"
-titleSeo: "Allevamento Staffordshire Bull Terrier: come riconoscerne uno serio"
+titleSeo: "Come riconoscere un allevamento Staffordshire Bull Terrier serio"
 articolo: true
 translationKey: "come-scegliere"
 image: "/images/blog/cucciolata-erba.avif"
 description: "Sette criteri per riconoscere un allevamento Staffordshire Bull Terrier serio, ognuno con il modo di verificarlo. Con i nostri documenti come esempio."
 slug: "come-scegliere-allevamento-staffordshire-bull-terrier"
 date: 2026-01-18
-lastmod: 2026-08-29
+lastmod: 2026-09-08
 categories: ["Cuccioli"]
 ---
 

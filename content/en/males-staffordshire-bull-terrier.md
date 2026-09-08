@@ -1,6 +1,7 @@
 ---
 title: "Male Staffordshire Bull Terriers"
-lastmod: 2026-09-02
+titleSeo: "Male Staffordshire Bull Terriers: pedigree and health tests"
+lastmod: 2026-09-08
 tipoPagina: "CollectionPage"
 translationKey: "maschi"
 description: "Our male Staffordshire Bull Terriers: Lothar (Slovenian and Italian Junior Champion), Braveheart and Papillon. L2HGA and HC certified genetic testing."

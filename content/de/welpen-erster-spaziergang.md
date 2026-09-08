@@ -1,6 +1,7 @@
 ---
 title: "Welpen: Erster Spaziergang"
-lastmod: 2026-09-02
+titleSeo: "Der erste Spaziergang des Welpen: wann und wie"
+lastmod: 2026-09-08
 translationKey: "passeggiata"
 articolo: true
 image: "/images/blog/cuccioli-5.webp"

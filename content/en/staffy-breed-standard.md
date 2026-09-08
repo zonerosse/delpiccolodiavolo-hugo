@@ -1,6 +1,7 @@
 ---
 title: "Staffy Breed Standard"
-lastmod: 2026-09-02
+titleSeo: "Staffordshire Bull Terrier breed standard explained"
+lastmod: 2026-09-08
 translationKey: "standard"
 articolo: true
 image: "/images/blog/standard-1.webp"

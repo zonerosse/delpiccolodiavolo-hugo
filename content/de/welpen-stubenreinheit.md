@@ -1,6 +1,7 @@
 ---
 title: "Welpen: Stubenreinheit"
-lastmod: 2026-09-02
+titleSeo: "Welpen stubenrein machen: Methode und Zeitrahmen"
+lastmod: 2026-09-08
 translationKey: "bisogni"
 articolo: true
 image: "/images/blog/hero-default.webp"
