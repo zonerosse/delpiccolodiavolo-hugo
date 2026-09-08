@@ -1,6 +1,6 @@
 ---
 title: "Linee di Sangue Staffordshire Bull Terrier: Storia e Genealogia"
-lastmod: 2026-09-06
+lastmod: 2026-09-08
 titleSeo: "Linee di sangue Staffordshire Bull Terrier: storia"
 translationKey: "linee-sangue"
 articolo: true
@@ -43,7 +43,7 @@ custom_content: |
   <article class="article-content">
   
   <div class="lead">
-  <strong>In breve:</strong> Lo <a href="/">Staffordshire Bull Terrier</a> possiede una ricca storia genealogica che risale al riconoscimento ufficiale della razza nel 1935. Originariamente esistevano 6 linee di sangue fondatrici (Linea M, R, J, L, B, C), di cui oggi sopravvivono principalmente le linee M (Brindle Mick) e R (Ribchester Bob), che costituiscono circa il 70% del patrimonio genetico della razza moderna.
+  <strong>In breve:</strong> Lo <a aria-label="Allevamento Del Piccolo Diavolo" href="/">Staffordshire Bull Terrier</a> possiede una ricca storia genealogica che risale al riconoscimento ufficiale della razza nel 1935. Originariamente esistevano 6 linee di sangue fondatrici (Linea M, R, J, L, B, C), di cui oggi sopravvivono principalmente le linee M (Brindle Mick) e R (Ribchester Bob), che costituiscono circa il 70% del patrimonio genetico della razza moderna.
   </div>
   
   <h2>Le Origini delle Linee di Sangue</h2>

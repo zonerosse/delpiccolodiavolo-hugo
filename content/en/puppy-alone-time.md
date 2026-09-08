@@ -88,7 +88,7 @@ custom_content: |
   
   <p class="tags"><strong>Tags:</strong>
   <a href="/en/blog/#puppies" title="Puppy articles">puppies</a>
-  <a href="/en/blog/#puppies" title="Staffy articles">staffordshire bull terrier</a>
+  <a aria-label="Staffordshire Bull Terrier guides" href="/en/blog/#puppies" title="Staffy articles">staffordshire bull terrier</a>
   <a href="/en/blog/#puppies" title="Anxiety articles">separation anxiety</a>
   <a href="/en/blog/#puppies" title="Alone time articles">alone time management</a>
   </p>

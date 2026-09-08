@@ -1,6 +1,6 @@
 ---
 title: "Difference Between Staffordshire Bull Terrier, Pitbull and Amstaff"
-lastmod: 2026-09-02
+lastmod: 2026-09-08
 titleSeo: "Staffordshire Bull Terrier, Pitbull and Amstaff compared"
 translationKey: "pitbull-amstaff"
 articolo: true
@@ -42,7 +42,7 @@ custom_content: |
   <article class="article-content">
   
   <div class="lead">
-  <strong>In brief:</strong> <a href="/en/">Staffordshire Bull Terrier</a>, American Pit Bull Terrier and American Staffordshire Terrier are three distinct breeds, often confused with each other. The <strong>Staffy</strong> is the smallest (max 17 kg), the <strong>Amstaff</strong> is the largest and most muscular (up to 35 kg), while the <strong>Pit Bull</strong> (APBT) is not recognized by the FCI.
+  <strong>In brief:</strong> <a aria-label="Del Piccolo Diavolo kennel" href="/en/">Staffordshire Bull Terrier</a>, American Pit Bull Terrier and American Staffordshire Terrier are three distinct breeds, often confused with each other. The <strong>Staffy</strong> is the smallest (max 17 kg), the <strong>Amstaff</strong> is the largest and most muscular (up to 35 kg), while the <strong>Pit Bull</strong> (APBT) is not recognized by the FCI.
   </div>
   
   <h2>Why Are These Breeds Confused?</h2>

@@ -1,6 +1,6 @@
 ---
 title: "Farben des Staffordshire Bull Terrier: Schwarz, Gestromt, Blau und mehr"
-lastmod: 2026-09-02
+lastmod: 2026-09-08
 titleSeo: "Farben des Staffordshire Bull Terrier: Schwarz, Gestromt"
 translationKey: "colori"
 articolo: true
@@ -42,7 +42,7 @@ custom_content: |
   <article class="article-content">
   
   <div class="lead">
-  <strong>Kurz gesagt:</strong> Der Standard des <a href="/de/">Staffordshire Bull Terrier</a> erlaubt die Farben <strong>Rot, Falb, Weiß, Schwarz oder Blau</strong>, jeweils mit oder ohne Weiß, sowie <strong>jede Schattierung von Gestromt (Brindle)</strong> mit oder ohne Weiß. Black and Tan (Schwarz-Loh) und Leberfarbe sind nicht erlaubt. <strong>Blau</strong> ist zwar im Standard aufgeführt, jedoch eine verdünnte Farbe, die mit möglichen Hautproblemen verbunden ist: seriöse Züchter behandeln sie mit großer Vorsicht. In diesem Ratgeber erklären wir jede Farbe klar und deutlich.
+  <strong>Kurz gesagt:</strong> Der Standard des <a aria-label="Zucht Del Piccolo Diavolo" href="/de/">Staffordshire Bull Terrier</a> erlaubt die Farben <strong>Rot, Falb, Weiß, Schwarz oder Blau</strong>, jeweils mit oder ohne Weiß, sowie <strong>jede Schattierung von Gestromt (Brindle)</strong> mit oder ohne Weiß. Black and Tan (Schwarz-Loh) und Leberfarbe sind nicht erlaubt. <strong>Blau</strong> ist zwar im Standard aufgeführt, jedoch eine verdünnte Farbe, die mit möglichen Hautproblemen verbunden ist: seriöse Züchter behandeln sie mit großer Vorsicht. In diesem Ratgeber erklären wir jede Farbe klar und deutlich.
   </div>
   
   <h2>Was der offizielle Standard sagt</h2>

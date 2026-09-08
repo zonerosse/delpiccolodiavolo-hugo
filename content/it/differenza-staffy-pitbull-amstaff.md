@@ -1,6 +1,6 @@
 ---
 title: "Differenza tra Staffordshire Bull Terrier, Pitbull e Amstaff"
-lastmod: 2026-09-02
+lastmod: 2026-09-08
 translationKey: "pitbull-amstaff"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -42,7 +42,7 @@ custom_content: |
   <article class="article-content">
   
   <div class="lead">
-  <strong>In breve:</strong> <a href="/">Staffordshire Bull Terrier</a>, American Pit Bull Terrier e American Staffordshire Terrier sono tre razze distinte, spesso confuse tra loro. Lo <strong>Staffy</strong> è il più piccolo (max 17 kg), l'<strong>Amstaff</strong> è il più grande e muscoloso (fino a 35 kg), mentre il <strong>Pit Bull</strong> (APBT) non è riconosciuto dalla FCI. Solo Staffy e Amstaff hanno pedigree ENCI in Italia.
+  <strong>In breve:</strong> <a aria-label="Allevamento Del Piccolo Diavolo" href="/">Staffordshire Bull Terrier</a>, American Pit Bull Terrier e American Staffordshire Terrier sono tre razze distinte, spesso confuse tra loro. Lo <strong>Staffy</strong> è il più piccolo (max 17 kg), l'<strong>Amstaff</strong> è il più grande e muscoloso (fino a 35 kg), mentre il <strong>Pit Bull</strong> (APBT) non è riconosciuto dalla FCI. Solo Staffy e Amstaff hanno pedigree ENCI in Italia.
   </div>
   
   <h2>Perché Si Confondono Queste Razze?</h2>
@@ -311,7 +311,7 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
   
   <p class="tags"><strong>Tag:</strong>
-  <a href="/blog/#standard-linee-sangue" title="Articoli standard">staffordshire bull terrier</a>
+  <a aria-label="Guide sullo Staffordshire Bull Terrier" href="/blog/#standard-linee-sangue" title="Articoli standard">staffordshire bull terrier</a>
   <a href="/blog/#standard-linee-sangue" title="Articoli pitbull">pitbull</a>
   <a href="/blog/#standard-linee-sangue" title="Articoli amstaff">amstaff</a>
   <a href="/blog/#standard-linee-sangue" title="Articoli differenze">differenza razze</a>

@@ -65,7 +65,7 @@ custom_content: |
   <div class="review-card">
   <p class="review-text">&laquo;About eight months ago I decided I wanted a Staffy as my companion in adventures, and I started reading up so I could turn to the most reliable kennel possible. […] Now I have my own little devil, thanks to this wonderful family I will never stop thanking.&raquo;</p>
   <div class="reviewer"><span>Gianluca Ravera</span><span class="stars">★★★★★</span></div>
-  <p style="margin-top:.6rem;font-size:.82rem"><a href="https://search.google.com/local/reviews?placeid=ChIJqV8xIv1rfkcRQK_6v1XiVNE" target="_blank" rel="noopener" title="Read the original review on Google" style="color:#8b5a2b;font-weight:600">Read the review on Google &rarr;</a></p>
+  <p style="margin-top:.6rem;font-size:.82rem"><a href="https://search.google.com/local/reviews?placeid=ChIJqV8xIv1rfkcRQK_6v1XiVNE" target="_blank" rel="noopener" title="Read the original review on Google" style="color:#8b5a2b;font-weight:600" aria-label="Read the review on Google (opens in a new tab)">Read the review on Google &rarr;</a></p>
   </div>
 
 

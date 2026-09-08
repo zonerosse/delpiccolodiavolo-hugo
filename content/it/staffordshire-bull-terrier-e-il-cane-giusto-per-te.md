@@ -42,7 +42,7 @@ custom_content: |
   <article class="article-content">
   
   <div class="lead">
-  <strong>In breve:</strong> lo <a href="/">Staffordshire Bull Terrier</a> è un cane affettuoso, coraggioso e profondamente legato alla famiglia, ideale per chi cerca un compagno vitale e presente. Ma non è il cane giusto per tutti: ha un forte bisogno di compagnia, molta energia da scaricare e una spiccata personalità. In questa guida ti diciamo <strong>onestamente</strong> pregi e difetti, così puoi capire se fa per te <em>prima</em> di prendere un cucciolo.
+  <strong>In breve:</strong> lo <a aria-label="Allevamento Del Piccolo Diavolo" href="/">Staffordshire Bull Terrier</a> è un cane affettuoso, coraggioso e profondamente legato alla famiglia, ideale per chi cerca un compagno vitale e presente. Ma non è il cane giusto per tutti: ha un forte bisogno di compagnia, molta energia da scaricare e una spiccata personalità. In questa guida ti diciamo <strong>onestamente</strong> pregi e difetti, così puoi capire se fa per te <em>prima</em> di prendere un cucciolo.
   </div>
   
   <h2>Che cane è, davvero, lo Staffordshire Bull Terrier</h2>
@@ -190,7 +190,7 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
   
   <p class="tags"><strong>Tag:</strong>
-  <a href="/blog/" title="Articoli razza">staffordshire bull terrier</a>
+  <a aria-label="Guide sullo Staffordshire Bull Terrier" href="/blog/" title="Articoli razza">staffordshire bull terrier</a>
   <a href="/blog/" title="Articoli carattere">carattere</a>
   <a href="/blog/" title="Articoli famiglia">cane da famiglia</a>
   <a href="/blog/" title="Articoli bambini">bambini</a>

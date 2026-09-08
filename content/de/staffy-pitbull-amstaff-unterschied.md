@@ -1,6 +1,6 @@
 ---
 title: "Unterschied zwischen Staffordshire Bull Terrier, Pitbull und Amstaff"
-lastmod: 2026-09-02
+lastmod: 2026-09-08
 titleSeo: "Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich"
 translationKey: "pitbull-amstaff"
 articolo: true
@@ -35,7 +35,7 @@ custom_content: |
   <article class="article-content">
   
   <div class="lead">
-  <strong>Kurz gesagt:</strong> <a href="/de/">Staffordshire Bull Terrier</a>, American Pit Bull Terrier und American Staffordshire Terrier sind drei verschiedene Rassen, die oft verwechselt werden. Der <strong>Staffy</strong> ist der kleinste (max. 17 kg), der <strong>Amstaff</strong> der größte und muskulöseste (bis 35 kg), während der <strong>Pit Bull</strong> (APBT) nicht von der FCI anerkannt ist.
+  <strong>Kurz gesagt:</strong> <a aria-label="Zucht Del Piccolo Diavolo" href="/de/">Staffordshire Bull Terrier</a>, American Pit Bull Terrier und American Staffordshire Terrier sind drei verschiedene Rassen, die oft verwechselt werden. Der <strong>Staffy</strong> ist der kleinste (max. 17 kg), der <strong>Amstaff</strong> der größte und muskulöseste (bis 35 kg), während der <strong>Pit Bull</strong> (APBT) nicht von der FCI anerkannt ist.
   </div>
   
   <h2>Warum diese Hunde ständig verwechselt werden</h2>

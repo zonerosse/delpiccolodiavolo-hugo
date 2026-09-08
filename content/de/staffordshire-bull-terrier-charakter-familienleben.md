@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier: Charakter, Familienleben und Was Sie Erwarten Können"
-lastmod: 2026-09-02
+lastmod: 2026-09-08
 titleSeo: "Staffordshire Bull Terrier: Charakter und Familienleben"
 translationKey: "carattere-famiglia"
 articolo: true
@@ -43,7 +43,7 @@ custom_content: |
   <article class="article-content">
 
   <div class="lead">
-  <strong>Kurz zusammengefasst:</strong> Der <a href="/de/" title="Staffordshire Bull Terrier Zucht">Staffordshire Bull Terrier</a> ist der liebevollste Hund, den es gibt — aber auch einer mit einer außergewöhnlich starken Persönlichkeit. Dieser Leitfaden wurde von jemandem geschrieben, der seit 2005 in der Rasse ist, seit 2013 züchtet und über hundert Staffordshire Bull Terrier vermittelt hat. Keine allgemeinen Beschreibungen: nur die Wahrheit.
+  <strong>Kurz zusammengefasst:</strong> Der <a aria-label="Zucht Del Piccolo Diavolo" href="/de/" title="Staffordshire Bull Terrier Zucht">Staffordshire Bull Terrier</a> ist der liebevollste Hund, den es gibt — aber auch einer mit einer außergewöhnlich starken Persönlichkeit. Dieser Leitfaden wurde von jemandem geschrieben, der seit 2005 in der Rasse ist, seit 2013 züchtet und über hundert Staffordshire Bull Terrier vermittelt hat. Keine allgemeinen Beschreibungen: nur die Wahrheit.
   </div>
 
   <h2>Der Charakter des Staffordshire Bull Terriers: die Wahrheit</h2>
