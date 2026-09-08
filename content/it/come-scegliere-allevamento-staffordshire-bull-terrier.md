@@ -56,7 +56,7 @@ categories: ["Cuccioli"]
 
 <p><strong>Come si verifica.</strong> Guarda la cronologia delle cucciolate, non solo quella in corso. Se le date sono pubbliche puoi contarle da solo; se non lo sono, chiedi quante ne sono nate negli ultimi tre anni e da quali femmine. Una risposta vaga a una domanda numerica è già una risposta.</p>
 
-<p><strong>Il nostro.</strong> Il <a href="/diario-allevamento/" title="Diario dell'allevamento">diario</a> riporta le date di ogni cucciolata, comprese quelle vecchie. Una l'anno, occasionalmente due, a volte nessuna.</p>
+<p><strong>Il nostro.</strong> Il <a href="/diario-allevamento/" title="Diario dell'allevamento">diario</a> riporta le date delle ultime cucciolate, e quelle degli anni prima stanno nel <a href="/programma-allevamento/" title="Programma di allevamento">programma di allevamento</a>: nessuna sparisce. Una l'anno, occasionalmente due, a volte nessuna.</p>
 
 <h2>5. La madre, dal vivo</h2>
 

@@ -56,7 +56,7 @@ categories: ["Cuccioli"]
 
 <p><strong>How to verify.</strong> Look at the history of the litters, not only the current one. If the dates are public you can count them yourself; if they are not, ask how many litters have been born in the last three years and from which females. A vague answer to a numerical question is already an answer.</p>
 
-<p><strong>Ours.</strong> The <a href="/en/diario-allevamento/" title="Breeding diary">diary</a> carries the date of every litter, old ones included. One a year, occasionally two, sometimes none at all.</p>
+<p><strong>Ours.</strong> The <a href="/en/diario-allevamento/" title="Breeding diary">diary</a> carries the dates of the recent litters, and the earlier ones are in the <a href="/en/litters-staffordshire-bull-terrier/" title="Breeding programme">breeding programme</a>: none of them disappears. One a year, occasionally two, sometimes none at all.</p>
 
 <h2>5. The mother, in person</h2>
 

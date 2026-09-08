@@ -56,7 +56,7 @@ categories: ["Cuccioli"]
 
 <p><strong>Wie man es überprüft.</strong> Sehen Sie sich die Wurfgeschichte an, nicht nur den aktuellen Wurf. Sind die Daten öffentlich, können Sie selbst zählen; sind sie es nicht, fragen Sie, wie viele Würfe in den letzten drei Jahren gefallen sind und von welchen Hündinnen. Eine vage Antwort auf eine Zahlenfrage ist bereits eine Antwort.</p>
 
-<p><strong>Unsere.</strong> Das <a href="/de/diario-allevamento/" title="Zuchttagebuch">Tagebuch</a> nennt das Datum jedes Wurfes, auch der älteren. Einer im Jahr, gelegentlich zwei, manchmal auch keiner.</p>
+<p><strong>Unsere.</strong> Das <a href="/de/diario-allevamento/" title="Zuchttagebuch">Tagebuch</a> nennt die Daten der j&uuml;ngsten W&uuml;rfe, die fr&uuml;heren stehen im <a href="/de/wuerfe-staffordshire-bull-terrier/" title="Zuchtprogramm">Zuchtprogramm</a>: keiner verschwindet. Einer im Jahr, gelegentlich zwei, manchmal auch keiner.</p>
 
 <h2>5. Die Mutter, in echt</h2>
 
