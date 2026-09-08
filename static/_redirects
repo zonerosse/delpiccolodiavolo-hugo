@@ -5,13 +5,12 @@
 # ORDINE OBBLIGATORIO, non mescolare:
 #   1. regole statiche (limite Cloudflare Pages: 2100)
 #   2. regole con jolly * (limite: 100)
-#   3. catch-all, sempre ultima
 #
 # Tutto cio' che sta SOTTO una riga con il jolly viene conteggiato come
-# dinamico: se le statiche finiscono la' sotto, oltre la centesima vengono
-# ignorate senza errore. E' cosi' che /lista-attesa/ continuava a dare 404.
+# dinamico: superata la centesima, le successive vengono ignorate senza
+# alcun errore. Le regole nuove vanno aggiunte QUI SOPRA, fra le statiche.
 
-# ---------- STATICHE ----------
+# ---------- STATICHE: aggiungi qui ----------
 /about-us /en/about-us/ 301
 /males-staffordshire-bull-terrier /en/males-staffordshire-bull-terrier/ 301
 /females-staffordshire-bull-terrier /en/females-staffordshire-bull-terrier/ 301
@@ -272,7 +271,7 @@
 /de/is-the-staffordshire-bull-terrier-right-for-you/ /de/ist-der-staffordshire-bull-terrier-der-richtige-hund/ 301
 /de/legal-notice/ /de/impressum/ 301
 /de/linee-sangue-staffordshire-bull-terrier/ /de/staffy-blutlinien-guide/ 301
-/de/lista-attesa-grazie/ /prenota-grazie/ 301
+/de/lista-attesa-grazie/ /contatto-grazie/ 301
 /de/lista-attesa/ /contatto/ 301
 /de/litters-staffordshire-bull-terrier/ /de/wuerfe-staffordshire-bull-terrier/ 301
 /de/males-staffordshire-bull-terrier/ /de/rueden-staffordshire-bull-terrier/ 301
@@ -315,7 +314,7 @@
 /de/standard-linee-di-sangue-orientarsi/ /de/blutlinien-waehlen/ 301
 /de/standard-tipicita-morfologia/ /de/staffy-rassestandard/ 301
 /de/test-genetici-l2hga-hc-staffy/ /de/staffy-gentests-l2hga-hc/ 301
-/de/waiting-list-thanks/ /prenota-grazie/ 301
+/de/waiting-list-thanks/ /contatto-grazie/ 301
 /de/waiting-list/ /contatto/ 301
 /diario-allevamento/bilquis-black-jack-litter-august-2026/ /diario-allevamento/cucciolata-bilquis-agosto-2026/ 301
 /diario-allevamento/wurf-bilquis-black-jack-august-2026/ /diario-allevamento/cucciolata-bilquis-agosto-2026/ 301
@@ -352,7 +351,7 @@
 /en/ist-der-staffordshire-bull-terrier-der-richtige-hund/ /en/is-the-staffordshire-bull-terrier-right-for-you/ 301
 /en/kontakt/ /en/contact/ 301
 /en/linee-sangue-staffordshire-bull-terrier/ /en/staffy-bloodlines-guide/ 301
-/en/lista-attesa-grazie/ /prenota-grazie/ 301
+/en/lista-attesa-grazie/ /contatto-grazie/ 301
 /en/lista-attesa/ /contatto/ 301
 /en/maschi-staffordshire-bull-terrier/ /en/males-staffordshire-bull-terrier/ 301
 /en/note-legali/ /en/legal-notice/ 301
@@ -384,7 +383,7 @@
 /en/standard-tipicita-morfologia/ /en/staffy-breed-standard/ 301
 /en/test-genetici-l2hga-hc-staffy/ /en/staffy-genetic-testing-l2hga-hc/ 301
 /en/ueber-uns/ /en/about-us/ 301
-/en/warteliste-danke/ /prenota-grazie/ 301
+/en/warteliste-danke/ /contatto-grazie/ 301
 /en/warteliste/ /contatto/ 301
 /en/welpen-allein-bleiben/ /en/puppy-alone-time/ 301
 /en/welpen-denkspiele/ /en/puppy-mental-games/ 301
@@ -447,9 +446,9 @@
 /staffy-travel-transport/ /famiglia-viaggi-spostamenti/ 301
 /staffy-zahnpflege/ /salute-denti-igiene/ 301
 /ueber-uns/ /chi-siamo/ 301
-/waiting-list-thanks/ /prenota-grazie/ 301
+/waiting-list-thanks/ /contatto-grazie/ 301
 /waiting-list/ /contatto/ 301
-/warteliste-danke/ /prenota-grazie/ 301
+/warteliste-danke/ /contatto-grazie/ 301
 /warteliste/ /contatto/ 301
 /welpen-allein-bleiben/ /cuccioli-gestione-solitudine/ 301
 /welpen-denkspiele/ /cuccioli-giochi-mentali/ 301
@@ -488,23 +487,11 @@
 /en/puppy-buying-tips/ /en/how-to-choose-a-staffordshire-bull-terrier-breeder/ 301
 /de/welpen-kauftipps/ /de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/ 301
 /lista-attesa/ /contatto/ 301
-/lista-attesa-grazie/ /prenota-grazie/ 301
+/lista-attesa-grazie/ /contatto-grazie/ 301
 /en/waiting-list/ /contatto/ 301
-/en/waiting-list-thanks/ /prenota-grazie/ 301
+/en/waiting-list-thanks/ /contatto-grazie/ 301
 /de/warteliste/ /contatto/ 301
-/de/warteliste-danke/ /prenota-grazie/ 301
-
-# ---------- CON JOLLY (max 100) ----------
-/cucciolate-staffordshire-bull-terrier/* /programma-allevamento/ 301
-/femmine/* /femmine-staffordshire-bull-terrier/ 301
-/maschi/* /maschi-staffordshire-bull-terrier/ 301
-/cuccioli/* /cuccioli-staffordshire-bull-terrier/ 301
-
-# Nessuna catch-all: Cloudflare Pages non accetta il codice 404 nei redirect
-# e serve gia' da solo 404.html per gli indirizzi inesistenti.
-
-
-# Varianti cartella degli URL storici (aggiunte 2026-09-03)
+/de/warteliste-danke/ /contatto-grazie/ 301
 /allevamento-staffy- / 301
 /allevamento-staffy-/ / 301
 /allevamento-staffy/ / 301
@@ -549,9 +536,13 @@
 /test-genetici-l2hga-hc-staffy/blog/ /test-genetici-l2hga-hc-staffy/ 301
 /video-cuccioli-staffordshire-bull-terrier /cuccioli-staffordshire-bull-terrier/ 301
 /video-cuccioli-staffordshire-bull-terrier/ /cuccioli-staffordshire-bull-terrier/ 301
-
-# Rinomina prenota -> contatto (2026-09-06)
 /prenota /contatto/ 301
 /prenota/ /contatto/ 301
 /prenota-grazie /contatto-grazie/ 301
 /prenota-grazie/ /contatto-grazie/ 301
+
+# ---------- CON JOLLY: sotto questa riga si conta come dinamico ----------
+/cucciolate-staffordshire-bull-terrier/* /programma-allevamento/ 301
+/femmine/* /femmine-staffordshire-bull-terrier/ 301
+/maschi/* /maschi-staffordshire-bull-terrier/ 301
+/cuccioli/* /cuccioli-staffordshire-bull-terrier/ 301

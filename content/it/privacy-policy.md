@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy – Del Piccolo Diavolo"
-lastmod: 2026-09-06
+lastmod: 2026-09-08
 tipoPagina: "WebPage"
 translationKey: "privacy"
 description: "Privacy Policy e trattamento dati personali dell'Allevamento Del Piccolo Diavolo - Informativa GDPR."
@@ -99,7 +99,6 @@ custom_content: |
   <li>Autorità pubbliche (ENCI, ASL veterinaria) per adempimenti di legge</li>
   <li>Google Ireland Limited, in qualità di responsabile del trattamento, per i soli dati del modulo di contatto (vedi punto 9)</li>
   <li>Cloudflare, Inc., in qualità di responsabile del trattamento, per l'erogazione del sito e le statistiche aggregate di traffico</li>
-    </ul>
   </ul>
   <p>I fornitori che ci ospitano e ci forniscono strumenti (Cloudflare, Google) sono società con sede anche fuori dall’Unione Europea: eventuali trasferimenti avvengono sulla base delle clausole contrattuali standard approvate dalla Commissione europea. Per gli affidi verso altri paesi dell'Unione valgono le comunicazioni descritte al punto 10.</p>
   </div>
