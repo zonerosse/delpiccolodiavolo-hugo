@@ -30,7 +30,7 @@ Il tuo browser non supporta il video.
 <div class="pair">
   <div class="dog">
     <span class="dog-name">Vangerbull Red Harricane</span>
-    <img src="/images/red.avif" alt="Vangerbull Red Harricane - Riproduttore Staffordshire Bull Terrier" width="250" height="333">
+    <img src="/images/red.avif" alt="Vangerbull Red Harricane - Riproduttore Staffordshire Bull Terrier" width="250" height="333" loading="lazy" decoding="async">
     <ul>
       <li>L2HGA: Clear (N/N)</li>
       <li>HC: Clear (N/N)</li>
@@ -44,7 +44,7 @@ Il tuo browser non supporta il video.
 
   <div class="dog">
     <span class="dog-name">Skilful-dogs Nora</span>
-    <img src="/images/nora-femmina-staffordshire-bull-terrier.avif" alt="Skilful-dogs Nora - Riproduttrice Staffordshire Bull Terrier" width="250" height="333">
+    <img src="/images/nora-femmina-staffordshire-bull-terrier.avif" alt="Skilful-dogs Nora - Riproduttrice Staffordshire Bull Terrier" width="250" height="333" loading="lazy" decoding="async">
     <ul>
       <li>L2HGA: Clear (N/N)</li>
       <li>HC: Clear (N/N)</li>

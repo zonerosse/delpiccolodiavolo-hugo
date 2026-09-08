@@ -117,7 +117,7 @@ function doPost(e) {
       d.nome || '',
       d.email || '',
       d.telefono || '',
-      d.paese || '',
+      [d.nazione, d.citta].filter(function(x){ return x; }).join(' - '),
       d.sesso || '',
       d.esperienza || '',
       d.note || '',
@@ -126,7 +126,8 @@ function doPost(e) {
     ]);
 
     if (EMAIL_NOTIFICA) {
-      const provenienza = d.paese ? (' - ' + d.paese) : '';
+      const dove = [d.nazione, d.citta].filter(function(x){ return x; }).join(' - ');
+      const provenienza = dove ? (' - ' + dove) : '';
       MailApp.sendEmail({
         to: EMAIL_NOTIFICA,
         subject: 'Prenotazione - ' + (d.nome || 'nuova richiesta') + provenienza,
@@ -136,7 +137,8 @@ function doPost(e) {
           'Nome: '           + (d.nome || '-') + '\n' +
           'Email: '          + (d.email || '-') + '\n' +
           'Telefono: '       + (d.telefono || '-') + '\n' +
-          'Paese e citta\': ' + (d.paese || '-') + '\n' +
+          'Nazione: ' + (d.nazione || '-') + '\n' +
+          'Citta\': ' + (d.citta || '-') + '\n' +
           'Il cucciolo: '    + (d.sesso || '-') + '\n' +
           'Esperienza: '     + (d.esperienza || '-') + '\n\n' +
           'Dove vivra\' il cane:\n' + (d.note || '-') + '\n\n' +
