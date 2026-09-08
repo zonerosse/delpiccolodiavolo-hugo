@@ -68,7 +68,27 @@ custom_content: |
   </div>
   </section>
 
-  <section class="section">
+  <section class="section section-alt">
+  <div class="section-inner content-single">
+  <span class="section-label">In chiaro</span>
+  <h2 class="section-title">Cosa non facciamo</h2>
+
+  <p>A volte si capisce meglio un allevamento da quello che non fa.</p>
+
+  <p><strong>Non abbiamo cuccioli tutto l'anno.</strong> Una cucciolata, occasionalmente due, a volte nessuna. Se ci scrivi in un momento in cui non ce ne sono, la risposta &egrave; che non ce ne sono: non ti proponiamo il cucciolo di un conoscente n&eacute; ti mettiamo fretta su una cucciolata futura.</p>
+
+  <p><strong>Non spediamo cani.</strong> Niente corrieri, niente stive, niente consegne a met&agrave; strada in un parcheggio. Chi prende un nostro cucciolo viene a Ostellato, e nel farlo vede la madre, la casa e il posto dove &egrave; cresciuto.</p>
+
+  <p><strong>Non trattiamo il pedigree come un accessorio.</strong> Non esiste un cucciolo "con" o "senza": il certificato ENCI accompagna ogni cane.</p>
+
+  <p><strong>Non ci offendiamo se fai domande.</strong> Anzi, sono quelle a dirci chi abbiamo davanti. Chi chiede dei test, dei genitori, di cosa succede se fra due anni non riesce pi&ugrave; a tenere il cane, &egrave; la persona a cui affideremmo volentieri un cucciolo.</p>
+
+  <p style="margin-top:2rem;padding-top:1.5rem;border-top:1px solid rgba(139,115,85,.2)">Chi c'&egrave; dietro tutto questo, e come dai Rottweiler si arriva agli Staffy: lo racconto in <a href="/chi-siamo/" title="Chi siamo">chi siamo</a>.</p>
+
+  </div>
+  </section>
+
+<section class="section">
   <div class="section-inner">
   <h2 class="section-title">Una cucciolata l’anno, a volte nessuna</h2>
   <div class="intro-block" style="text-align:left">
@@ -120,6 +140,12 @@ custom_content: |
   <p><strong>I risultati in esposizione.</strong> I titoli non sono autocertificati: i cataloghi delle manifestazioni sono pubblici, e i giudici che hanno valutato i nostri cani hanno un nome e un cognome. Sono raccolti nel <a href="/palmares-del-piccolo-diavolo/" title="Palmares">palmar&egrave;s</a>.</p>
 
   <p><strong>Le date.</strong> Nel <a href="/diario-allevamento/" title="Diario dell'allevamento">diario</a> ogni cucciolata ha la sua data di nascita, comprese quelle vecchie, che restano online anche quando i cuccioli sono a casa loro. &Egrave; cos&igrave; che chiunque pu&ograve; contare quante cucciolate facciamo davvero in un anno.</p>
+
+  <h3>Due regole che non deroghiamo</h3>
+
+  <p><strong>Non accoppiamo due cani perch&eacute; sono belli.</strong> Ogni accoppiamento nasce da una ragione che sappiamo spiegare: cosa stiamo cercando di fissare e cosa stiamo cercando di correggere. Se la risposta fosse "sono due bei cani", non ci sarebbe un programma dietro.</p>
+
+  <p><strong>Non affidiamo prima dei 60 giorni</strong>, che &egrave; un obbligo di legge e non una nostra scelta. Per l'estero i tempi si allungano ancora, perch&eacute; servono l'antirabbica e il <a href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Cucciolo all'estero">certificato sanitario ufficiale</a>.</p>
 
   <h3>Anche quello che non possiamo dichiarare</h3>
 
@@ -304,31 +330,7 @@ custom_content: |
   </div>
   </section>
 
-  <section class="section section-alt">
-  <div class="section-inner content-single">
-  <span class="section-label">In chiaro</span>
-  <h2 class="section-title">Cosa non facciamo</h2>
-
-  <p>A volte si capisce meglio un allevamento da quello che non fa.</p>
-
-  <p><strong>Non abbiamo cuccioli tutto l'anno.</strong> Una cucciolata, occasionalmente due, a volte nessuna. Se ci scrivi in un momento in cui non ce ne sono, la risposta &egrave; che non ce ne sono: non ti proponiamo il cucciolo di un conoscente n&eacute; ti mettiamo fretta su una cucciolata futura.</p>
-
-  <p><strong>Non spediamo cani.</strong> Niente corrieri, niente stive, niente consegne a met&agrave; strada in un parcheggio. Chi prende un nostro cucciolo viene a Ostellato, e nel farlo vede la madre, la casa e il posto dove &egrave; cresciuto.</p>
-
-  <p><strong>Non accoppiamo due cani perch&eacute; sono belli.</strong> Ogni accoppiamento nasce da una ragione che sappiamo spiegare: cosa stiamo cercando di fissare e cosa stiamo cercando di correggere. Se la risposta fosse "sono due bei cani", non ci sarebbe un programma dietro.</p>
-
-  <p><strong>Non trattiamo il pedigree come un accessorio.</strong> Non esiste un cucciolo "con" o "senza": il certificato ENCI accompagna ogni cane.</p>
-
-  <p><strong>Non affidiamo prima dei 60 giorni</strong>, che &egrave; un obbligo di legge e non una nostra scelta. Per l'estero i tempi si allungano ancora, perch&eacute; servono l'antirabbica e il <a href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Cucciolo all'estero">certificato sanitario ufficiale</a>.</p>
-
-  <p><strong>Non ci offendiamo se fai domande.</strong> Anzi, sono quelle a dirci chi abbiamo davanti. Chi chiede dei test, dei genitori, di cosa succede se fra due anni non riesce pi&ugrave; a tenere il cane, &egrave; la persona a cui affideremmo volentieri un cucciolo.</p>
-
-  <p style="margin-top:2rem;padding-top:1.5rem;border-top:1px solid rgba(139,115,85,.2)">Chi c'&egrave; dietro tutto questo, e come dai Rottweiler si arriva agli Staffy: lo racconto in <a href="/chi-siamo/" title="Chi siamo">chi siamo</a>.</p>
-
-  </div>
-  </section>
-
-  <section class="cta-section">
+    <section class="cta-section">
   <h2>Scrivici per conoscere i nostri Staffy di persona</h2>
   <p>Chiamaci per una chiacchierata senza impegno. Siamo qui per rispondere a tutte le tue domande.</p>
   <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20ti%20scrivo%20dal%20sito%20Del%20Piccolo%20Diavolo" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Scrivici su WhatsApp" aria-label="Contattaci su WhatsApp per informazioni">Scrivici su WhatsApp</a>
