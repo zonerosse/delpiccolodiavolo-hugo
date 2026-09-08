@@ -30,8 +30,10 @@
   {{/* Preload dell'immagine LCP. La foto dell'hero ruota ogni settimana:
        la calcola hero-corrente.html, lo stesso partial usato dal tag <img>,
        cosi' preload e immagine mostrata non divergono mai. */}}
+  {{ if or .IsHome .Params.hero_image }}
   {{ $heroLcp := .Params.hero_image | default (partial "hero-corrente.html" .) }}
   <link rel="preload" as="image" href="{{ $heroLcp }}" type="image/{{ if strings.HasSuffix $heroLcp ".webp" }}webp{{ else if strings.HasSuffix $heroLcp ".jpg" }}jpeg{{ else }}avif{{ end }}" fetchpriority="high">
+  {{ end }}
 
   {{/* Favicons - Google richiede minimo 48x48 per i risultati di ricerca */}}
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
@@ -78,14 +80,20 @@
   <meta property="og:url" content="{{ .Permalink }}">
   {{/* Anteprima social: JPEG, non AVIF. Facebook, LinkedIn e X non lo
        gestiscono in modo affidabile e la condivisione esce senza immagine. */}}
-  {{/* Anteprima social: prima og_image, poi l'immagine della pagina se non
-       e' AVIF (Facebook e LinkedIn non lo leggono), infine il JPEG di default. */}}
-  {{ $og := .Params.og_image }}
-  {{ if not $og }}{{ with .Params.image }}{{ if not (strings.HasSuffix . ".avif") }}{{ $og = . }}{{ end }}{{ end }}{{ end }}
-  {{ if not $og }}{{ $og = "/images/og-default.jpg" }}{{ end }}
+  {{/* Anteprima social. NON si usa .Params.image: quelle immagini sono
+       miniature da 300 o 680 px, sotto il minimo di 600x315 che Facebook
+       e LinkedIn chiedono per la scheda grande, e uscirebbero peggio del
+       JPEG dedicato. Per dare a una pagina una sua anteprima basta
+       indicare og_image nel front matter, in JPEG o PNG da 1200x630. */}}
+  {{ $og := .Params.og_image | default "/images/og-default.jpg" }}
   <meta property="og:image" content="{{ $og | absURL }}">
+  {{/* Le dimensioni si dichiarano solo per il JPEG di default, di cui le
+       conosciamo. Su un og_image diverso sarebbero un'informazione falsa
+       e le piattaforme ritaglierebbero male. */}}
+  {{ if eq $og "/images/og-default.jpg" }}
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
+  {{ end }}
   {{ if .IsHome }}
   <meta property="og:updated_time" content="{{ now.Format "2006-01-02" }}">
   {{ end }}

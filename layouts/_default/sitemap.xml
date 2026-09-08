@@ -1,6 +1,7 @@
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   {{/* site.Pages include anche le pagine dentro le sezioni (es. diario-allevamento),
        che il template interno di Hugo lascia fuori. */}}
   {{ range site.Pages }}
@@ -13,6 +14,19 @@
     {{ if .IsTranslated }}{{ range .AllTranslations }}
     <xhtml:link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
     {{ end }}{{ end }}
+    {{/* Immagini della pagina. Si leggono dal contenuto e si dichiarano una
+         volta sola: srcset e varianti dimensionali sono la stessa immagine,
+         quindi si tiene solo il file base. Niente miniature dei riquadri. */}}
+    {{- $viste := slice -}}
+    {{- $src := .Params.custom_content | default .Content -}}
+    {{- range findRESubmatch `<img[^>]+src="(/images/[^"]+)"` $src -}}
+      {{- $f := index . 1 -}}
+      {{- $f = replaceRE `-\d+w(\.[a-z]+)$` "$1" $f -}}
+      {{- if not (in $viste $f) -}}
+        {{- $viste = $viste | append $f }}
+    <image:image><image:loc>{{ $f | absURL }}</image:loc></image:image>
+      {{- end -}}
+    {{- end }}
   </url>
   {{- end -}}
   {{ end }}
