@@ -1,6 +1,6 @@
 ---
 title: "Bilquis × Black Jack Litter (August 2026)"
-lastmod: 2026-09-05
+lastmod: 2026-09-08
 articolo: true
 titleSeo: "Bilquis × Black Jack litter, August 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
@@ -53,7 +53,7 @@ The puppies grow up indoors with us. Italian law forbids placing a puppy before 
 <div class="pair">
   <div class="dog">
     <span class="dog-name">Black Jack Di Casa Giacalone</span>
-    <img src="/images/jack1.jpg" alt="Black Jack Di Casa Giacalone - Black Staffordshire Bull Terrier stud" width="250" height="333">
+    <img src="/images/jack1.jpg" alt="Black Jack Di Casa Giacalone - Black Staffordshire Bull Terrier stud" width="250" height="333" loading="lazy" decoding="async">
     <ul>
       <li>Colour: Black</li>
       <li>L2HGA: <strong>Free by parents</strong> (parents Clear)</li>
@@ -69,7 +69,7 @@ The puppies grow up indoors with us. Italian law forbids placing a puppy before 
   <div class="dog">
     <span class="dog-name">Bilquis Goddess Diabhal</span>
     <span style="display:inline-block;background:#8b7300;color:#fff;font-size:.65rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:.15rem .5rem;border-radius:3px;margin:-.4rem 0 .75rem">★ Italian Champion</span>
-    <img src="/images/ffbilly-compressa--1---1-.webp" alt="Bilquis Goddess Diabhal - Italian Champion Staffordshire Bull Terrier" width="250" height="333">
+    <img src="/images/ffbilly-compressa--1---1-.webp" alt="Bilquis Goddess Diabhal - Italian Champion Staffordshire Bull Terrier" width="250" height="333" loading="lazy" decoding="async">
     <ul>
       <li>Colour: Black brindle and white</li>
       <li>L2HGA: Clear (N/N)</li>
