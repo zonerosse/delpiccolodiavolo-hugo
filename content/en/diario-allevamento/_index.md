@@ -27,7 +27,7 @@ The certificates of our own breeding dogs can be downloaded at the foot of each 
 
 ## Old litters stay here too
 
-Pages do not disappear once the puppies are home. They stay, with their dates, and that is deliberate: it is how anyone can count how many litters we actually have in a year. One, occasionally two.
+Pages do not disappear once the puppies are home. They stay, with their dates, and that is deliberate: it is how anyone can count how many litters we actually have in a year. One, occasionally two, sometimes none at all.
 
 Litters before 2026 — May 2025 and February 2025 — are covered in our <a href="/en/litters-staffordshire-bull-terrier/" title="Breeding programme">breeding programme</a>, together with the pairings and the reasons behind them.
 

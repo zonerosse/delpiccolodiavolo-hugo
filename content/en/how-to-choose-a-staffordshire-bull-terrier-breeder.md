@@ -7,7 +7,7 @@ image: "/images/blog/cucciolata-erba.avif"
 description: "Seven criteria for recognising a serious Staffordshire Bull Terrier breeder, each with the way to verify it. With our own documents as the worked example."
 slug: "how-to-choose-a-staffordshire-bull-terrier-breeder"
 date: 2026-01-18
-lastmod: 2026-08-29
+lastmod: 2026-09-08
 categories: ["Cuccioli"]
 ---
 
@@ -48,7 +48,7 @@ categories: ["Cuccioli"]
 
 <p><strong>How to verify.</strong> The pedigree itself is checked against its stud book number. But there is a further step almost nobody takes: the breed's genealogies are public on SBTPedigree, an international database. Look up the grandparents and great-grandparents, see whether they exist, whether they hold titles, whether they appear in other kennels. A tree that stops after two generations tells you something.</p>
 
-<p><strong>Ours.</strong> The affix is on <a href="https://sbtpedigree.com/details?id=35858" target="_blank" rel="noopener" aria-label="Del Piccolo Diavolo on SBTPedigree (opens in a new tab)">SBTPedigree</a> with every dog and every litter. From there you can trace anyone, ourselves included.</p>
+<p><strong>Ours.</strong> Our dogs are registered on <a href="https://sbtpedigree.com/details?id=35858" target="_blank" rel="noopener" aria-label="Del Piccolo Diavolo on SBTPedigree (opens in a new tab)">SBTPedigree</a> with every dog and every litter. From there you can trace anyone, ourselves included.</p>
 
 <h2>4. How many litters, and how often</h2>
 
@@ -56,7 +56,7 @@ categories: ["Cuccioli"]
 
 <p><strong>How to verify.</strong> Look at the history of the litters, not only the current one. If the dates are public you can count them yourself; if they are not, ask how many litters have been born in the last three years and from which females. A vague answer to a numerical question is already an answer.</p>
 
-<p><strong>Ours.</strong> The <a href="/en/diario-allevamento/" title="Breeding diary">diary</a> carries the date of every litter, old ones included. One a year, occasionally two.</p>
+<p><strong>Ours.</strong> The <a href="/en/diario-allevamento/" title="Breeding diary">diary</a> carries the date of every litter, old ones included. One a year, occasionally two, sometimes none at all.</p>
 
 <h2>5. The mother, in person</h2>
 

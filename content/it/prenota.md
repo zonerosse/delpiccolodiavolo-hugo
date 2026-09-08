@@ -1,6 +1,6 @@
 ---
 title: "Restiamo in contatto"
-lastmod: 2026-09-06
+lastmod: 2026-09-08
 noindex: true
 tipoPagina: "WebPage"
 description: "Fatti conoscere: ti scrivo io quando c'è una cucciolata in arrivo. Non è una prenotazione e non c'è lista d'attesa."
@@ -17,7 +17,7 @@ custom_content: |
   <div style="background:#fff;border:1px solid rgba(139,115,85,.18);border-radius:12px;padding:1.4rem;margin-bottom:.9rem">
   <span style="display:inline-block;background:#8b5a2b;color:#fff;font-size:.68rem;font-weight:700;letter-spacing:.08em;padding:.2rem .65rem;border-radius:4px;margin-bottom:.75rem">ITALIANO</span>
   <p style="color:#4a3f35;line-height:1.7">Questo non è un modulo di prenotazione e non esiste una lista d'attesa. Serve a farti conoscere: chi sei, dove vivi, che vita farebbe un cane con te. <strong>Ti scrivo io quando c'è una cucciolata in arrivo.</strong></p>
-  <p style="color:#4a3f35;line-height:1.7;margin-top:.8rem">Nel frattempo possono passare dei mesi, ed è normale: qui nasce una cucciolata l'anno, occasionalmente due. Se hai fretta, non sono l'allevamento giusto — e te lo dico adesso invece di fartelo scoprire dopo.</p>
+  <p style="color:#4a3f35;line-height:1.7;margin-top:.8rem">Nel frattempo possono passare dei mesi, ed è normale: qui nasce una cucciolata l'anno, occasionalmente due, a volte nessuna. Se hai fretta, non sono l'allevamento giusto — e te lo dico adesso invece di fartelo scoprire dopo.</p>
   </div>
 
   <div style="background:#fff;border:1px solid rgba(139,115,85,.18);border-radius:12px;padding:1.4rem;margin-bottom:.9rem">

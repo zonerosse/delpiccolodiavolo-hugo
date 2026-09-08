@@ -27,7 +27,7 @@ I referti dei nostri riproduttori sono scaricabili in fondo a ogni scheda. Per i
 
 ## Anche le cucciolate vecchie restano qui
 
-Le pagine non spariscono quando i cuccioli sono a casa loro. Restano con la loro data, ed è voluto: è così che chiunque può contare quante cucciolate facciamo davvero in un anno. Una, occasionalmente due.
+Le pagine non spariscono quando i cuccioli sono a casa loro. Restano con la loro data, ed è voluto: è così che chiunque può contare quante cucciolate facciamo davvero in un anno. Una, occasionalmente due, a volte nessuna.
 
 Le cucciolate precedenti al 2026 — maggio 2025 e febbraio 2025 — sono raccontate nel <a href="/programma-allevamento/" title="Programma di allevamento">programma di allevamento</a>, insieme agli accoppiamenti e alle ragioni per cui li abbiamo scelti.
 

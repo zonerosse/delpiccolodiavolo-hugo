@@ -1,6 +1,7 @@
 ---
 title: "Programma allevamento Staffordshire Bull Terrier"
-lastmod: 2026-09-02
+titleSeo: "Cucciolate programmate: accoppiamenti e criteri di selezione"
+lastmod: 2026-09-08
 tipoPagina: "CollectionPage"
 translationKey: "programma"
 description: "Programma di allevamento Staffordshire Bull Terrier: criteri di selezione, salute, test genetici e storico delle cucciolate passate e future."
@@ -260,26 +261,12 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Salute</span>
-  <h2 class="section-title">Test genetici e salute</h2>
+  <h2>Cosa testiamo prima di ogni accoppiamento</h2>
 
-  <div class="intro-block">
-  <p>Tutti i nostri riproduttori sono testati per le principali patologie genetiche dello Staffordshire Bull Terrier: L2HGA (Aciduria L-2-Idrossiglutarica), HC (Cataratta Ereditaria) e PHPV (Persistent Hyperplastic Primary Vitreous).</p>
-  <p>I test vengono eseguiti tramite analisi del DNA presso laboratori certificati. Solo i soggetti con risultati "clear" o accoppiamenti geneticamente compatibili vengono utilizzati nel programma riproduttivo.</p>
-  <p>Ogni soggetto nato nel nostro allevamento viene consegnato con certificato di pedigree ENCI, libretto sanitario con vaccinazioni, microchip e documentazione completa dei test genetici dei genitori.</p>
-  <p>Approfondisci nel nostro articolo dedicato: <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2HGA e HC Staffordshire Bull Terrier">test genetici L2HGA e HC: guida completa</a>.</p>
-  </div>
+  <p>Nessun riproduttore entra nel programma senza i test per <strong>L2HGA</strong> e <strong>HC</strong>, le due malattie genetiche della razza, pi&ugrave; il controllo oculistico per il <strong>PHPV</strong>. I referti sono pubblicati sulle pagine dei cani, con il numero di microchip in chiaro.</p>
 
-  <div class="content-block">
-  <h3>Protocollo sanitario</h3>
-  <p>Oltre ai test genetici, i nostri riproduttori seguono un rigoroso protocollo sanitario: controlli veterinari regolari, vaccinazioni annuali, sverminazioni periodiche e monitoraggio costante dello stato di salute.</p>
-  <p>Le femmine vengono accoppiate rispettando i tempi biologici naturali, garantendo il benessere della madre e la salute dei nascituri.</p>
-  </div>
-  </div>
-  </section>
+  <p>Come funzionano quei test, cosa significano gli esiti e perch&eacute; due portatori sani non vanno mai accoppiati fra loro: lo spieghiamo nella <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">pagina dedicata ai test genetici</a>.</p>
 
-  <section class="section section-alt">
-  <div class="section-inner">
-  <span class="section-label">Filosofia</span>
   <h2 class="section-title">Cucciolate programmate e passate</h2>
 
   <div class="intro-block">
@@ -293,11 +280,12 @@ custom_content: |
   <!--CORRELATI-->
 
   <section class="dark-section">
-  <h2>Affido e supporto post-adozione</h2>
-  <p>Il nostro programma di allevamento è aperto e trasparente. Ogni accoppiamento è documentato con pedigree completi, test genetici e obiettivi chiari. Siamo disponibili a condividere informazioni dettagliate sui nostri riproduttori, sui risultati ottenuti e sulla filosofia che guida il nostro lavoro di selezione.</p>
-  </section>
+  <h2>Come si arriva a un cucciolo</h2>
 
-  <section class="cta-section">
+  <p>Il programma &egrave; aperto: di ogni accoppiamento diciamo chi sono i genitori, che test hanno e perch&eacute; li abbiamo scelti. Chi vuole approfondire pu&ograve; chiedere i risultati degli accoppiamenti precedenti e vedere i cani di persona.</p>
+
+  <p>Cosa accompagna il cucciolo e come funziona l'affido sta nella <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">pagina dei cuccioli</a>; se abiti fuori dall'Italia, i tempi e i documenti sono <a href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Cucciolo all'estero">in questa pagina</a>.</p>
+
   <h2>Domande frequenti sulle cucciolate</h2>
   <p>Per conoscere in dettaglio il nostro metodo di selezione e gli accoppiamenti pianificati, contattaci.</p>
   <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sul%20programma%20di%20allevamento" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Informazioni sul programma" aria-label="Contattaci per informazioni sul programma di allevamento">Scrivici su WhatsApp</a>
