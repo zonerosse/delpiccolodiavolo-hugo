@@ -541,6 +541,11 @@
 /prenota-grazie /contatto-grazie/ 301
 /prenota-grazie/ /contatto-grazie/ 301
 
+/contatti /allevamento-staffordshire-bull-terrier-in-emilia-romagna/ 301
+/contatti/ /allevamento-staffordshire-bull-terrier-in-emilia-romagna/ 301
+/en/contatti/ /en/contact/ 301
+/de/contatti/ /de/kontakt/ 301
+
 # ---------- CON JOLLY: sotto questa riga si conta come dinamico ----------
 /cucciolate-staffordshire-bull-terrier/* /programma-allevamento/ 301
 /femmine/* /femmine-staffordshire-bull-terrier/ 301
