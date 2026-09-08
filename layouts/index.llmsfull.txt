@@ -1,19 +1,28 @@
 {{- /* llms-full.txt — l'intero contenuto testuale del sito in un unico file,
        per gli agenti AI che vogliono acquisire tutto in una sola richiesta.
        Si rigenera a ogni build: nessuna manutenzione. */ -}}
-# Del Piccolo Diavolo — Allevamento Staffordshire Bull Terrier
-# Corpus completo del sito · {{ now.Format "2 January 2006" }}
-# Fonte: https://delpiccolodiavolo.it/
+{{- $lang := .Site.Language.Lang -}}
+# Del Piccolo Diavolo — {{ if eq $lang "de" }}Staffordshire Bull Terrier Zucht{{ else if eq $lang "en" }}Staffordshire Bull Terrier Kennel{{ else }}Allevamento Staffordshire Bull Terrier{{ end }}
+# {{ if eq $lang "de" }}Vollständiger Textkorpus der Website{{ else if eq $lang "en" }}Full text corpus of the website{{ else }}Corpus completo del sito{{ end }} · {{ now.Format "2 January 2006" }}
+# {{ if eq $lang "de" }}Quelle{{ else if eq $lang "en" }}Source{{ else }}Fonte{{ end }}: {{ .Site.BaseURL }}
 #
-# Allevatore: Paolo Boldrini · Ostellato (FE), Emilia-Romagna, Italia
-# Razza: Staffordshire Bull Terrier · Attivo dal 2013
-# Pedigree ENCI · Test genetici L2HGA, HC e PHPV su tutti i riproduttori
-# Contatti: WhatsApp +39 392 4635584 · zonerosse@gmail.com
+# {{ if eq $lang "de" }}Züchter{{ else if eq $lang "en" }}Breeder{{ else }}Allevatore{{ end }}: Paolo Boldrini · Ostellato (FE), Emilia-Romagna, {{ if eq $lang "de" }}Italien{{ else if eq $lang "en" }}Italy{{ else }}Italia{{ end }}
+# {{ if eq $lang "de" }}Rasse{{ else if eq $lang "en" }}Breed{{ else }}Razza{{ end }}: Staffordshire Bull Terrier · {{ if eq $lang "de" }}Aktiv seit 2013{{ else if eq $lang "en" }}Active since 2013{{ else }}Attivo dal 2013{{ end }}
+# ENCI {{ if eq $lang "de" }}Ahnentafel · Gentests L2HGA, HC und PHPV bei allen Zuchttieren{{ else if eq $lang "en" }}pedigree · L2HGA, HC and PHPV testing on every breeding dog{{ else }}pedigree · Test genetici L2HGA, HC e PHPV su tutti i riproduttori{{ end }}
+# {{ if eq $lang "de" }}Kontakt{{ else if eq $lang "en" }}Contact{{ else }}Contatti{{ end }}: WhatsApp +39 392 4635584 · zonerosse@gmail.com
 #
+{{ if eq $lang "de" -}}
+# Diese Datei enthält den vollständigen Text der deutschen Seiten.
+# Die italienische und die englische Fassung stehen unter / und /en/.
+{{- else if eq $lang "en" -}}
+# This file contains the full text of the English pages.
+# The Italian and German versions are at / and /de/.
+{{- else -}}
 # Questo file contiene il testo integrale delle pagine in italiano.
 # Le versioni inglese e tedesca sono su /en/ e /de/.
+{{- end }}
 
-{{ range where (where .Site.RegularPages "Lang" "it") "Params.noindex" "!=" true }}
+{{ range where .Site.RegularPages "Params.noindex" "!=" true }}
 {{- $u := .RelPermalink -}}
 {{- if not (or (in $u "/chiedi-recensione") (in $u "404")) -}}
 {{- $c := .Params.custom_content | default .Content -}}
@@ -44,7 +53,7 @@
 
 # {{ .Title }}
 URL: {{ .Permalink }}
-{{ with .Description }}Descrizione: {{ . }}{{ end }}
+{{ with .Description }}{{ if eq $lang "de" }}Beschreibung{{ else if eq $lang "en" }}Description{{ else }}Descrizione{{ end }}: {{ . }}{{ end }}
 
 {{ $c | plainify | htmlUnescape | safeHTML }}
 
