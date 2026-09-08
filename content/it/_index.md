@@ -139,7 +139,7 @@ custom_content: |
 
   <p><strong>I risultati in esposizione.</strong> I titoli non sono autocertificati: i cataloghi delle manifestazioni sono pubblici, e i giudici che hanno valutato i nostri cani hanno un nome e un cognome. Sono raccolti nel <a href="/palmares-del-piccolo-diavolo/" title="Palmares">palmar&egrave;s</a>.</p>
 
-  <p><strong>Le date.</strong> Nel <a href="/diario-allevamento/" title="Diario dell'allevamento">diario</a> ogni cucciolata ha la sua data di nascita, comprese quelle vecchie, che restano online anche quando i cuccioli sono a casa loro. &Egrave; cos&igrave; che chiunque pu&ograve; contare quante cucciolate facciamo davvero in un anno.</p>
+  <p><strong>Le date.</strong> Ogni cucciolata ha la sua data di nascita: le pi&ugrave; recenti nel <a href="/diario-allevamento/" title="Diario dell'allevamento">diario</a>, quelle degli anni prima nel <a href="/programma-allevamento/" title="Programma di allevamento">programma di allevamento</a>. Nessuna sparisce quando i cuccioli sono a casa loro, ed &egrave; voluto: &egrave; cos&igrave; che chiunque pu&ograve; contare quante cucciolate facciamo davvero in un anno.</p>
 
   <h3>Due regole che non deroghiamo</h3>
 
