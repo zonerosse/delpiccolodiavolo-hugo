@@ -1,6 +1,6 @@
 ---
 title: "Allevamento Staffordshire Bull Terrier"
-lastmod: 2026-09-06
+lastmod: 2026-09-08
 translationKey: "home"
 description: "Allevamento etico di Staffordshire Bull Terrier dal 2013. Pedigree ENCI, referti dei test genetici e microchip dei riproduttori pubblicati e verificabili."
 correlati:
@@ -70,11 +70,11 @@ custom_content: |
 
   <section class="section">
   <div class="section-inner">
-  <h2 class="section-title">Una cucciolata l’anno, occasionalmente due</h2>
+  <h2 class="section-title">Una cucciolata l’anno, a volte nessuna</h2>
   <div class="intro-block" style="text-align:left">
   <p>Del Piccolo Diavolo è un allevamento di Staffordshire Bull Terrier — lo Staffy, come lo chiamano gli appassionati — a <strong>Ostellato, in provincia di Ferrara</strong>, attivo dal <strong>2013</strong>. Paolo Boldrini segue la razza da oltre vent'anni e alleva da dodici: due numeri diversi che raccontano la stessa cosa, cioè che l'allevamento è nato dopo un lungo periodo di studio, non prima.</p>
 
-  <p>Facciamo <strong>una cucciolata l'anno, occasionalmente due</strong>, mai su richiesta. Tutti i riproduttori sono testati per <strong>L2HGA, HC e PHPV</strong>, e i referti di laboratorio sono pubblicati sul sito: chiunque può scaricarli e leggere nome del cane e numero di microchip, senza chiederci niente. I cuccioli vengono affidati con <strong>pedigree ENCI</strong>, microchip e vaccinazioni in regola, dopo essere cresciuti in casa — non in box — a contatto quotidiano con persone, rumori domestici e altri animali.</p>
+  <p>Facciamo <strong>una cucciolata l'anno, occasionalmente due, a volte nessuna</strong>, mai su richiesta. Tutti i riproduttori sono testati per <strong>L2HGA, HC e PHPV</strong>, e i referti di laboratorio sono pubblicati sul sito: chiunque può scaricarli e leggere nome del cane e numero di microchip, senza chiederci niente. I cuccioli vengono affidati con <strong>pedigree ENCI</strong>, microchip e vaccinazioni in regola, dopo essere cresciuti in casa — non in box — a contatto quotidiano con persone, rumori domestici e altri animali.</p>
 
   <p>Sul piano dei risultati: <strong>1 Campione Italiano</strong>, <strong>2 Giovani Campioni Italiani</strong> — uno dei quali anche Campione Sloveno — e un soggetto Giovane Campione e Campione di San Marino, un <strong>4° posto al World Dog Show</strong> con Bilquis Goddess Diabhal, e a maggio 2026 il titolo di <strong>Giovane Campionessa Italiana</strong> per Queen of California. Lavoriamo con le linee di sangue inglesi e irlandesi, in particolare Elitebull e Lackyle.</p>
 
@@ -102,37 +102,35 @@ custom_content: |
 
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">Selezione</span>
-  <h2 class="section-title">Come nasce una cucciolata, dalla scelta dei genitori all’affido</h2>
+  <span class="section-label">Verificabile</span>
+  <h2 class="section-title">Come si controlla quello che scriviamo</h2>
 
-  <p style="max-width:760px;margin:0 0 2rem;color:#5c4a3a;line-height:1.8">Ogni cucciolata comincia molto prima dell'accoppiamento: dalla scelta dei due riproduttori, dai test genetici di entrambi e dalla verifica che le linee si completino invece di sommare gli stessi difetti. Poi vengono le otto settimane in casa, dove i cuccioli incontrano rumori, persone e altri animali mentre il cervello è ancora in formazione. E infine l'abbinamento con la famiglia, che proponiamo noi dopo aver osservato i caratteri: il cucciolo più intraprendente non è quasi mai quello giusto.</p>
+  <p style="max-width:760px;margin:0 0 1.2rem;color:#5c4a3a;line-height:1.8">Ogni allevamento scrive di selezionare per la salute. &Egrave; una frase che non costa niente, e infatti la scrivono tutti. La differenza sta in cosa si pu&ograve; controllare senza dover credere a nessuno.</p>
 
-  
+  <p>Sul nostro sito i referti dei test genetici dei riproduttori non sono "disponibili su richiesta": sono pubblicati. Chiunque pu&ograve; scaricarli, e su ogni foglio compare il numero di microchip del cane a cui si riferiscono, insieme al nome del laboratorio, al numero di referto e alla data.</p>
 
-  <h3 style="margin-top:2rem">Cosa vuol dire davvero «cresciuto in casa»</h3>
-  <p>È la frase che scrivono tutti, quindi vale la pena dire cosa comporta. Le prime otto settimane sono <strong>metà della finestra di socializzazione</strong> di un cane: quello che incontra in quel periodo entra a far parte del suo mondo normale, quello che non incontra resterà per sempre una novità da valutare. Un cucciolo che a tre settimane sente l'aspirapolvere, il campanello e le voci di chi entra arriva a casa tua già abituato. Un cucciolo cresciuto in un box pulito ma silenzioso deve imparare tutto da capo, e certe cose non le recupera più.</p>
+  <p><strong>&Egrave; quel numero a rendere il documento verificabile.</strong> Un referto senza microchip non &egrave; collegabile a nessun animale in particolare: potrebbe riguardare qualsiasi cane. Con il microchip in chiaro, invece, chiunque pu&ograve; confrontarlo con il documento del cane che ha davanti, o chiedere conferma al laboratorio che lo ha emesso.</p>
 
-  <h3 style="margin-top:1.6rem">Perché i test genetici non sono un dettaglio</h3>
-  <p>L2HGA e cataratta ereditaria sono <strong>recessive</strong>: un cane può portare la mutazione, restare sano tutta la vita e produrre cuccioli malati se accoppiato con un altro portatore. Genitori visibilmente sani non dimostrano nulla — solo il test del DNA lo fa. Un cucciolo affetto da L2HGA sviluppa crisi neurologiche fra i sei mesi e l'anno di età, e non esiste cura. <strong>Testare entrambi i riproduttori costa circa 800€ fra laboratorio, prelievi e visite oculistiche, una volta sola.</strong> Quando oggi nasce un cucciolo malato non è sfortuna: è un accoppiamento fatto senza test.</p>
+  <h3>Cosa si pu&ograve; controllare, e dove</h3>
 
-  <h3 style="margin-top:1.6rem">Come riconoscere un allevamento che non lo è</h3>
-  <p>Chiedi i certificati di laboratorio di entrambi i genitori, come documento, con nomi dei cani e numeri di microchip leggibili. Un allevatore serio li manda senza esitare, spesso prima che tu li chieda. Diffida invece di: cucciolate sempre disponibili o più cucciolate insieme; prezzi che cambiano in base al colore del mantello; certificati promessi dopo l'acconto; risultati mostrati solo come fotografia sullo schermo; e la frase «i genitori sono sani, non abbiamo mai avuto problemi», che risponde a una domanda diversa. Un altro segnale, meno ovvio: <strong>se non ti fanno nessuna domanda, non aspettarti che riprendano il cane se un giorno ti servisse.</strong></p>
+  <p><strong>Le genealogie.</strong> I nostri cani sono registrati su <a href="https://sbtpedigree.com/details?id=35858" target="_blank" rel="noopener" aria-label="Del Piccolo Diavolo su SBTPedigree (si apre in una nuova scheda)">SBTPedigree</a>, il database internazionale della razza, con tutti i soggetti e le cucciolate. Da l&igrave; si risale ai nonni, ai bisnonni, ai fratelli di cucciolata: si vede chi sono davvero i cani dietro un nome, e si vede anche cosa non c'&egrave;.</p>
 
-  <p><strong>Da noi quei numeri sono già pubblici.</strong> Nella pagina delle <a href="/femmine-staffordshire-bull-terrier/">nostre femmine</a> trovi microchip e numero di iscrizione al libro genealogico di ogni fattrice, in chiaro. Chiunque può prendere quei dati e verificare sul sito ENCI a chi appartiene il cane, chi lo ha allevato e cosa dice il suo pedigree — senza chiedere niente a noi. Insieme ai numeri trovi i <strong>referti dei test genetici</strong> in PDF, scaricabili da chiunque, con nome del cane e microchip leggibili. I cuccioli vengono affidati con <strong>pedigree ENCI</strong>, il documento riconosciuto dalla FCI in tutti i paesi membri.</p>
+  <p><strong>I pedigree.</strong> Ogni cucciolo esce con il certificato genealogico ENCI, che si controlla con il numero di libro genealogico. Non &egrave; un extra e non si paga a parte.</p>
 
-  <p>Chi confronta più <strong>allevamenti di Staffordshire Bull Terrier in Italia</strong> se ne accorge presto: le differenze non stanno nelle fotografie, ma in quello che ciascuno è disposto a mostrare quando gli fai una domanda precisa.</p>
+  <p><strong>I risultati in esposizione.</strong> I titoli non sono autocertificati: i cataloghi delle manifestazioni sono pubblici, e i giudici che hanno valutato i nostri cani hanno un nome e un cognome. Sono raccolti nel <a href="/palmares-del-piccolo-diavolo/" title="Palmares">palmar&egrave;s</a>.</p>
 
-  <p><strong>Sul pedigree, una precisazione.</strong> L'ENCI certifica l'ascendenza, non chi alleva: è necessario, non sufficiente. Vale la pena aggiungere una cosa che sorprende chi si affaccia alla razza — molti dei cani che vincono nei ring europei non vengono da strutture, ma da case dove vivono due o tre soggetti. Le dimensioni non dicono niente sulla qualità, in nessuna delle due direzioni.</p>
+  <p><strong>Le date.</strong> Nel <a href="/diario-allevamento/" title="Diario dell'allevamento">diario</a> ogni cucciolata ha la sua data di nascita, comprese quelle vecchie, che restano online anche quando i cuccioli sono a casa loro. &Egrave; cos&igrave; che chiunque pu&ograve; contare quante cucciolate facciamo davvero in un anno.</p>
 
+  <h3>Anche quello che non possiamo dichiarare</h3>
 
-  <div style="text-align:center;margin-top:0.5rem;margin-bottom:1rem">
-  <a href="/recensioni/" title="Leggi tutte le recensioni" class="btn btn-ghost">Leggi tutte le <!--REC-TOTALE--> recensioni →</a>
-  </div>
+  <p>La verificabilit&agrave; vale in entrambe le direzioni. Quando un cucciolo &egrave; esente per discendenza da una malattia ma non da un'altra, lo scriviamo. Quando di un riproduttore esterno abbiamo il referto per due patologie e non per quattro, lo scriviamo.</p>
 
-  <div style="display:flex;flex-wrap:wrap;gap:.75rem;justify-content:center">
-  <a href="/cuccioli-staffordshire-bull-terrier/" class="btn btn-primary" title="Cuccioli Staffordshire Bull Terrier disponibili" style="min-height:44px;display:inline-flex;align-items:center">Cuccioli Staffordshire Bull Terrier</a>
-  <a href="/programma-allevamento/" class="btn btn-ghost" title="Vedi il programma di selezione" style="min-height:44px;display:inline-flex;align-items:center">Programma Selezione</a>
-  </div>
+  <p>&Egrave; la parte che nessuno racconta volentieri, ed &egrave; anche la ragione per cui il resto sta in piedi: un allevamento che dichiara solo le cose belle non sta dando informazioni, sta facendo pubblicit&agrave;.</p>
+
+  <p>Se stai valutando noi, o un altro allevamento, la guida su <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento serio">come riconoscere un allevamento serio</a> elenca i sette criteri e come verificarli, su di noi come su chiunque altro.</p>
+
+  <p style="margin-top:2rem;padding-top:1.5rem;border-top:1px solid rgba(139,115,85,.2)">Come nasce una cucciolata &mdash; la scelta dei due riproduttori, le otto settimane in casa, l'abbinamento con la famiglia &mdash; lo raccontiamo nel <a href="/programma-allevamento/" title="Programma di allevamento">programma di allevamento</a>, insieme allo storico delle cucciolate.</p>
+
   </div>
   </section>
 
@@ -306,9 +304,28 @@ custom_content: |
   </div>
   </section>
 
-  <section class="dark-section">
-  <h2>Come è nata la mia passione per lo Staffordshire Bull Terrier</h2>
-  <p>La passione per lo Staffordshire Bull Terrier nasce nel 2005, anno in cui ho avuto il mio primo incontro con questa straordinaria razza durante il Crufts. 8 anni dopo, nel 2013, è nato l'allevamento. Sono rimasto subito affascinato da questi cani muscolosi e affettuosi, che mi hanno conquistato come veri Rottweiler in miniatura. Avendo già esperienza con i Rottweiler, ho scoperto un mondo nuovo: fatto di determinazione, intelligenza e amore incondizionato.</p>
+  <section class="section section-alt">
+  <div class="section-inner content-single">
+  <span class="section-label">In chiaro</span>
+  <h2 class="section-title">Cosa non facciamo</h2>
+
+  <p>A volte si capisce meglio un allevamento da quello che non fa.</p>
+
+  <p><strong>Non abbiamo cuccioli tutto l'anno.</strong> Una cucciolata, occasionalmente due, a volte nessuna. Se ci scrivi in un momento in cui non ce ne sono, la risposta &egrave; che non ce ne sono: non ti proponiamo il cucciolo di un conoscente n&eacute; ti mettiamo fretta su una cucciolata futura.</p>
+
+  <p><strong>Non spediamo cani.</strong> Niente corrieri, niente stive, niente consegne a met&agrave; strada in un parcheggio. Chi prende un nostro cucciolo viene a Ostellato, e nel farlo vede la madre, la casa e il posto dove &egrave; cresciuto.</p>
+
+  <p><strong>Non accoppiamo due cani perch&eacute; sono belli.</strong> Ogni accoppiamento nasce da una ragione che sappiamo spiegare: cosa stiamo cercando di fissare e cosa stiamo cercando di correggere. Se la risposta fosse "sono due bei cani", non ci sarebbe un programma dietro.</p>
+
+  <p><strong>Non trattiamo il pedigree come un accessorio.</strong> Non esiste un cucciolo "con" o "senza": il certificato ENCI accompagna ogni cane.</p>
+
+  <p><strong>Non affidiamo prima dei 60 giorni</strong>, che &egrave; un obbligo di legge e non una nostra scelta. Per l'estero i tempi si allungano ancora, perch&eacute; servono l'antirabbica e il <a href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Cucciolo all'estero">certificato sanitario ufficiale</a>.</p>
+
+  <p><strong>Non ci offendiamo se fai domande.</strong> Anzi, sono quelle a dirci chi abbiamo davanti. Chi chiede dei test, dei genitori, di cosa succede se fra due anni non riesce pi&ugrave; a tenere il cane, &egrave; la persona a cui affideremmo volentieri un cucciolo.</p>
+
+  <p style="margin-top:2rem;padding-top:1.5rem;border-top:1px solid rgba(139,115,85,.2)">Chi c'&egrave; dietro tutto questo, e come dai Rottweiler si arriva agli Staffy: lo racconto in <a href="/chi-siamo/" title="Chi siamo">chi siamo</a>.</p>
+
+  </div>
   </section>
 
   <section class="cta-section">

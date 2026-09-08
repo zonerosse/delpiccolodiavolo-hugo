@@ -7,7 +7,7 @@ image: "/images/blog/cucciolata-erba.avif"
 description: "Sieben Kriterien, um eine seriöse Staffordshire Bull Terrier Zucht zu erkennen, jedes mit der Art, es zu überprüfen. Mit unseren eigenen Unterlagen als Beispiel."
 slug: "wie-waehlt-man-eine-staffordshire-bull-terrier-zucht"
 date: 2026-01-18
-lastmod: 2026-08-29
+lastmod: 2026-09-08
 categories: ["Cuccioli"]
 ---
 
@@ -48,7 +48,7 @@ categories: ["Cuccioli"]
 
 <p><strong>Wie man es überprüft.</strong> Die Ahnentafel selbst prüft man über ihre Zuchtbuchnummer. Es gibt aber einen weiteren Schritt, den fast niemand geht: die Ahnentafeln der Rasse sind öffentlich auf SBTPedigree, einer internationalen Datenbank. Suchen Sie Großeltern und Urgroßeltern, sehen Sie nach, ob es sie gibt, ob sie Titel haben, ob sie in anderen Zuchten auftauchen. Ein Stammbaum, der nach zwei Generationen abbricht, sagt etwas aus.</p>
 
-<p><strong>Unsere.</strong> Der Zwingername steht auf <a href="https://sbtpedigree.com/details?id=35858" target="_blank" rel="noopener" aria-label="Del Piccolo Diavolo auf SBTPedigree (wird in einem neuen Tab geöffnet)">SBTPedigree</a> mit allen Hunden und allen Würfen. Von dort aus können Sie jeden zurückverfolgen, uns eingeschlossen.</p>
+<p><strong>Unsere.</strong> Unsere Hunde sind auf <a href="https://sbtpedigree.com/details?id=35858" target="_blank" rel="noopener" aria-label="Del Piccolo Diavolo auf SBTPedigree (wird in einem neuen Tab geöffnet)">SBTPedigree</a> mit allen Hunden und allen Würfen. Von dort aus können Sie jeden zurückverfolgen, uns eingeschlossen.</p>
 
 <h2>4. Wie viele Würfe und wie oft</h2>
 
@@ -56,7 +56,7 @@ categories: ["Cuccioli"]
 
 <p><strong>Wie man es überprüft.</strong> Sehen Sie sich die Wurfgeschichte an, nicht nur den aktuellen Wurf. Sind die Daten öffentlich, können Sie selbst zählen; sind sie es nicht, fragen Sie, wie viele Würfe in den letzten drei Jahren gefallen sind und von welchen Hündinnen. Eine vage Antwort auf eine Zahlenfrage ist bereits eine Antwort.</p>
 
-<p><strong>Unsere.</strong> Das <a href="/de/diario-allevamento/" title="Zuchttagebuch">Tagebuch</a> nennt das Datum jedes Wurfes, auch der älteren. Einer im Jahr, gelegentlich zwei.</p>
+<p><strong>Unsere.</strong> Das <a href="/de/diario-allevamento/" title="Zuchttagebuch">Tagebuch</a> nennt das Datum jedes Wurfes, auch der älteren. Einer im Jahr, gelegentlich zwei, manchmal auch keiner.</p>
 
 <h2>5. Die Mutter, in echt</h2>
 

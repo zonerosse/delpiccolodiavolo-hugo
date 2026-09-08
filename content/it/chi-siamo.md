@@ -42,19 +42,7 @@ custom_content: |
   </div>
   </div>
   
-  <section class="section">
-  <div class="section-inner">
-  <span class="section-label">I Nostri Valori</span>
-  <h2 class="section-title">Cosa Ci Guida</h2>
-  <div class="values-grid">
-  <div class="value-card"><h3>🧬 Test Genetici</h3><p>Tutti i riproduttori testati L2HGA e HC</p></div>
-  <div class="value-card"><h3>🏠 In Famiglia</h3><p>Cuccioli socializzati in ambiente domestico</p></div>
-  <div class="value-card"><h3>📞 Supporto</h3><p>Assistenza per tutta la vita del cane</p></div>
-  <div class="value-card"><h3>🏆 Linee Top</h3><p>Elitebull (UK) e Lackyle (Irlanda)</p></div>
-  </div>
-  </div>
-  </section>
-  
+    
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Come È Nato</span>
@@ -71,6 +59,11 @@ custom_content: |
   
   <div class="story-block reverse">
   <div class="story-text">
+  <h3>Prima degli Staffy</h3>
+  <p>Prima degli Staffordshire Bull Terrier ho allevato Rottweiler, e da quell'allevamento sono usciti un Campione Italiano e un Campione Europeo. Ho allevato canarini Gloster e li ho giudicati come giudice internazionale: valutare soggetti uno dopo l'altro, e dover spiegare perch&eacute; uno vale pi&ugrave; di un altro, &egrave; una scuola che con i cani serve pi&ugrave; di quanto sembri.</p>
+
+  <p>Lo Staffordshire Bull Terrier l'ho incontrato nel 2005 al Crufts. La prima cucciolata &egrave; nata nel <strong>2013</strong>: in mezzo, il tempo di studiare lo standard, viaggiare in Inghilterra e in Irlanda e capire con quali linee volevo lavorare.</p>
+
   <h3>Perché Elitebull e Lackyle</h3>
   <p><strong>Elitebull</strong> (UK): testa tipica, struttura compatta, temperamento stabile. Vincitori in expo ma soprattutto cani equilibrati.</p>
   <p><strong>Lackyle</strong> (Irlanda): atletici, ottima ossatura, carattere socievole. Perfetti per famiglie con bambini.</p>
@@ -95,18 +88,7 @@ custom_content: |
   <img src="/images/20250922175108-4a225f3e-sm--1-.webp" alt="Cuccioli Staffy neonati" class="story-img" width="247" height="288" loading="lazy" decoding="async">
   </div>
   
-  <div class="checklist">
-  <h3>Cosa Ricevi con un Nostro <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">Cucciolo Staffordshire Bull Terrier</a></h3>
-  <ul>
-  <li>Pedigree ENCI – Certificato FCI riconosciuto worldwide</li>
-  <li>Microchip registrato all'anagrafe canina</li>
-  <li>Libretto sanitario con vaccinazione e sverminazioni</li>
-  <li>Certificati test genetici L2HGA e HC dei genitori</li>
-  <li>Contratto di affido con garanzie</li>
-  <li>Kit cucciolo: cibo, coperta con odore mamma, giochino</li>
-  <li>Il nostro numero – Supporto per tutta la vita del cane</li>
-  </ul>
-  </div>
+  <p style="margin-top:1.5rem">Cosa accompagna un cucciolo quando lascia l'allevamento &mdash; pedigree, microchip, libretto, referti dei genitori &mdash; &egrave; elencato nella <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">pagina dei cuccioli</a>.</p>
   </div>
   </section>
   
@@ -124,11 +106,7 @@ custom_content: |
   </div>
   </section>
 
-  <section class="dark-section">
-  <h2>Non Siamo Venditori, Siamo Custodi</h2>
-  <p>Non alleviamo per guadagnare. Ogni cucciolata costa migliaia di euro tra test, veterinario, cibo di qualità. Non troverai mai nostri cuccioli su Subito.it. Selezioniamo anche i proprietari.</p>
-  </section>
-  
+    
   <section class="cta-section">
   <h2>Vuoi Conoscerci?</h2>
   <p>Vieni a trovarci a Ostellato (FE) o contattaci su WhatsApp</p>

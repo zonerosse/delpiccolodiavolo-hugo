@@ -48,7 +48,7 @@ categories: ["Cuccioli"]
 
 <p><strong>Come si verifica.</strong> Il pedigree si controlla con il numero di libro genealogico. Ma c'è un passaggio in più che quasi nessuno fa: le genealogie della razza sono pubbliche su SBTPedigree, un database internazionale. Cerca i nonni e i bisnonni, guarda se esistono davvero, se hanno titoli, se compaiono in altri allevamenti. Un albero che si interrompe dopo due generazioni dice qualcosa.</p>
 
-<p><strong>Il nostro.</strong> L'affisso è su <a href="https://sbtpedigree.com/details?id=35858" target="_blank" rel="noopener" aria-label="Del Piccolo Diavolo su SBTPedigree (si apre in una nuova scheda)">SBTPedigree</a> con tutti i soggetti e le cucciolate. Da lì risali a chiunque, noi compresi.</p>
+<p><strong>Il nostro.</strong> I nostri cani sono registrati su <a href="https://sbtpedigree.com/details?id=35858" target="_blank" rel="noopener" aria-label="Del Piccolo Diavolo su SBTPedigree (si apre in una nuova scheda)">SBTPedigree</a> con tutti i soggetti e le cucciolate. Da lì risali a chiunque, noi compresi.</p>
 
 <h2>4. Quante cucciolate, e ogni quanto</h2>
 
@@ -56,7 +56,7 @@ categories: ["Cuccioli"]
 
 <p><strong>Come si verifica.</strong> Guarda la cronologia delle cucciolate, non solo quella in corso. Se le date sono pubbliche puoi contarle da solo; se non lo sono, chiedi quante ne sono nate negli ultimi tre anni e da quali femmine. Una risposta vaga a una domanda numerica è già una risposta.</p>
 
-<p><strong>Il nostro.</strong> Il <a href="/diario-allevamento/" title="Diario dell'allevamento">diario</a> riporta le date di ogni cucciolata, comprese quelle vecchie. Una l'anno, occasionalmente due.</p>
+<p><strong>Il nostro.</strong> Il <a href="/diario-allevamento/" title="Diario dell'allevamento">diario</a> riporta le date di ogni cucciolata, comprese quelle vecchie. Una l'anno, occasionalmente due, a volte nessuna.</p>
 
 <h2>5. La madre, dal vivo</h2>
 

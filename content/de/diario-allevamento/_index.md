@@ -27,7 +27,7 @@ Die Befunde unserer eigenen Zuchttiere lassen sich am Ende jedes Eintrags herunt
 
 ## Auch alte Würfe bleiben hier
 
-Die Seiten verschwinden nicht, wenn die Welpen zu Hause sind. Sie bleiben mit ihrem Datum stehen, und das ist Absicht: so kann jeder nachzählen, wie viele Würfe wir tatsächlich im Jahr haben. Einen, gelegentlich zwei.
+Die Seiten verschwinden nicht, wenn die Welpen zu Hause sind. Sie bleiben mit ihrem Datum stehen, und das ist Absicht: so kann jeder nachzählen, wie viele Würfe wir tatsächlich im Jahr haben. Einen, gelegentlich zwei, manchmal auch keinen.
 
 Würfe vor 2026 — Mai 2025 und Februar 2025 — sind in unserem <a href="/de/wuerfe-staffordshire-bull-terrier/" title="Zuchtprogramm">Zuchtprogramm</a> beschrieben, zusammen mit den Verpaarungen und den Gründen dafür.
 
