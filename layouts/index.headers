@@ -1,6 +1,8 @@
-{{- /* _headers — generato da Hugo.
-     Oltre alle regole statiche, dichiara per ogni pagina l'alternativa Markdown
-     nell'intestazione HTTP Link, cosi' gli agenti la trovano senza scaricare l'HTML. */ -}}
+{{- /* _headers — generato da Hugo, unica fonte per le intestazioni HTTP.
+     Non esiste piu' un static/_headers: due file finivano entrambi in
+     public/_headers e si sovrascrivevano a vicenda.
+     Cloudflare Pages applica al massimo 100 regole e scarta le altre in
+     silenzio, quindi tenerle poche e' anche una garanzia. */ -}}
 /*
   Vary: Accept
   X-Content-Type-Options: nosniff
@@ -10,24 +12,28 @@
   Strict-Transport-Security: max-age=31536000; includeSubDomains
 
 /images/*
-  Cache-Control: public, max-age=31536000, immutable
+  Cache-Control: public, max-age=2592000
 
 /videos/*
-  Cache-Control: public, max-age=31536000, immutable
+  Cache-Control: public, max-age=2592000
 
+# NOTA SULLA CACHE. Nessun file di questo sito ha l'impronta nel nome
+# (niente main.a3f9c2.css): un PDF sostituito si chiama come prima. Quindi
+# niente "immutable" e niente cache di un anno, altrimenti chi ha gia'
+# scaricato un referto se lo tiene finche' non scade, e il purge di
+# Cloudflare non lo raggiunge: quello svuota l'edge, non i browser.
+#
+# I referti pesano poche decine di KB e vengono scaricati di rado: un
+# giorno di cache non fa risparmiare nulla di misurabile e garantisce che
+# una correzione si veda subito.
 /docs/*
-  Cache-Control: public, max-age=31536000, immutable
+  Cache-Control: public, max-age=86400
 
 /fonts/*
-  Cache-Control: public, max-age=31536000, immutable
+  Cache-Control: public, max-age=2592000
 
 /*.css
-  Cache-Control: public, max-age=31536000, immutable
+  Cache-Control: public, max-age=2592000
 
 /*.js
-  Cache-Control: public, max-age=31536000, immutable
-
-# NOTA: l'alternativa Markdown non e' piu' dichiarata qui con una regola per
-# pagina. Cloudflare Pages applica al massimo 100 regole di _headers e le
-# restanti vengono scartate in silenzio. La stessa informazione e' gia' nel
-# <head> di ogni pagina come <link rel="alternate" type="text/markdown">.
+  Cache-Control: public, max-age=2592000
