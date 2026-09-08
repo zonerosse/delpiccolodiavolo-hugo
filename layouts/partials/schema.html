@@ -99,8 +99,7 @@
       "@type": "Review",
       "author": { "@type": "Person", "name": {{ $r.nome | jsonify | safeJS }} },
       "reviewRating": { "@type": "Rating", "ratingValue": "{{ $r.voto }}", "bestRating": "5", "worstRating": "1" },
-      "reviewBody": {{ $r.testo | jsonify | safeJS }}{{ with $r.data }},
-      "datePublished": "{{ . }}"{{ end }}
+      "reviewBody": {{ $r.testo | jsonify | safeJS }}
     }{{ end }}
   ],{{ end }}
   {{ if in (slice "recensioni" "reviews" "bewertungen") (path.Base .RelPermalink) }}"aggregateRating": {
