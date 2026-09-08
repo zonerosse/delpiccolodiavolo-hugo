@@ -1,5 +1,6 @@
 ---
 title: "Cucciolata Red × Nora (febbraio 2026)"
+lastmod: 2026-09-08
 articolo: true
 translationKey: "cucciolata-red-nora-febbraio-2026"
 description: "Cucciolata nata il 9 febbraio 2026 da Skilful-dogs Nora: cuccioli tigrati e rosso pezzato. Non disponibili."
@@ -17,10 +18,12 @@ Siamo felici di annunciare la nascita di una cucciolata molto attesa presso l'al
 
 ## Video dei cuccioli
 
-<video controls muted playsinline preload="metadata" style="width:100%;max-width:480px;border-radius:12px;margin:1.5rem auto;display:block">
+<video controls muted playsinline preload="none" poster="/images/video-cuccioli-red-nora-poster.webp" style="width:100%;max-width:480px;border-radius:12px;margin:1.5rem auto;display:block">
 <source src="/videos/cuccioli-nora-red-febbraio2026.mp4" type="video/mp4">
 Il tuo browser non supporta il video.
 </video>
+
+<p style="text-align:center;font-size:.85rem;color:#6b5d52;font-style:italic;margin:-.5rem auto 1.5rem;max-width:480px">Nel video i cuccioli sono nel recinto esterno, dove passano le ore di gioco al sole.</p>
 
 ## I genitori
 

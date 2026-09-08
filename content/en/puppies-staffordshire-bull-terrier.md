@@ -117,7 +117,7 @@ custom_content: |
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Temperament and Socialization</h3>
-  <p>From day one, puppies live in the house with us. They learn to recognize household sounds, different people, other animals. This early socialization is essential to develop a confident and calm temperament.</p>
+  <p>Puppies are born indoors, in the whelping box, and stay there for about a month: it is the phase in which the mother does everything and human contact matters most. At around thirty days they move to a dedicated pen with outdoor access, for a practical reason anyone who has raised a litter knows: at that age they soil more than a lived-in house can take. From then on they come back inside in turns, two at a time for a few hours, so each of them gets its own share of the house. They learn to recognize household sounds, different people, other animals. This early socialization is essential to develop a confident and calm temperament.</p>
   </div>
   <div class="zigzag-image">
   <img src="/images/foto1.avif" alt="Socialized Staffordshire Bull Terrier puppies at home" loading="lazy" decoding="async" width="400" height="300">

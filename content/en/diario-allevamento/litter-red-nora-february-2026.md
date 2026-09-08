@@ -19,10 +19,12 @@ We are delighted to announce the birth of a highly anticipated litter at **Del P
 
 ## Puppy Video
 
-<video controls muted playsinline preload="metadata" style="width:100%;max-width:480px;border-radius:12px;margin:1.5rem auto;display:block">
+<video controls muted playsinline preload="none" poster="/images/video-cuccioli-red-nora-poster.webp" style="width:100%;max-width:480px;border-radius:12px;margin:1.5rem auto;display:block">
 <source src="/videos/cuccioli-nora-red-febbraio2026.mp4" type="video/mp4">
 Your browser does not support video.
 </video>
+
+<p style="text-align:center;font-size:.85rem;color:#6b5d52;font-style:italic;margin:-.5rem auto 1.5rem;max-width:480px">In the video the puppies are in the outdoor pen, where they spend their play hours in the sun.</p>
 
 ## The Parents
 

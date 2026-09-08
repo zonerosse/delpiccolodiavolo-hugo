@@ -19,10 +19,12 @@ Wir freuen uns, die Geburt eines lang erwarteten Wurfes in der Zuchtstätte **De
 
 ## Welpen-Video
 
-<video controls muted playsinline preload="metadata" style="width:100%;max-width:480px;border-radius:12px;margin:1.5rem auto;display:block">
+<video controls muted playsinline preload="none" poster="/images/video-cuccioli-red-nora-poster.webp" style="width:100%;max-width:480px;border-radius:12px;margin:1.5rem auto;display:block">
 <source src="/videos/cuccioli-nora-red-febbraio2026.mp4" type="video/mp4">
 Ihr Browser unterstützt kein Video.
 </video>
+
+<p style="text-align:center;font-size:.85rem;color:#6b5d52;font-style:italic;margin:-.5rem auto 1.5rem;max-width:480px">Im Video sind die Welpen im Aussengehege, wo sie ihre Spielstunden in der Sonne verbringen.</p>
 
 ## Die Eltern
 
