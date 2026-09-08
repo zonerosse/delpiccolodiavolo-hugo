@@ -58,13 +58,6 @@
   "email": "zonerosse@gmail.com",
   "foundingDate": "2013",
   "priceRange": "€€",
-  "openingHoursSpecification": [{
-    "@type": "OpeningHoursSpecification",
-    "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-    "opens": "00:00",
-    "closes": "23:59",
-    "description": "{{ if eq $lang "de" }}Telefon und WhatsApp jederzeit erreichbar. Besuche in der Zucht nur nach Vereinbarung.{{ else if eq $lang "en" }}Phone and WhatsApp always reachable. Kennel visits by appointment only.{{ else }}Telefono e WhatsApp sempre raggiungibili. Visite in allevamento solo su appuntamento.{{ end }}"
-  }],
   "sameAs": [
     "https://www.facebook.com/delpiccolodiavolo",
     "https://www.youtube.com/@Staffordshiredelpiccolodiavolo",
@@ -107,8 +100,7 @@
       "author": { "@type": "Person", "name": {{ $r.nome | jsonify | safeJS }} },
       "reviewRating": { "@type": "Rating", "ratingValue": "{{ $r.voto }}", "bestRating": "5", "worstRating": "1" },
       "reviewBody": {{ $r.testo | jsonify | safeJS }}{{ with $r.data }},
-      "datePublished": "{{ . }}"{{ end }},
-      "publisher": { "@type": "Organization", "name": "Google" }
+      "datePublished": "{{ . }}"{{ end }}
     }{{ end }}
   ],{{ end }}
   {{ if in (slice "recensioni" "reviews" "bewertungen") (path.Base .RelPermalink) }}"aggregateRating": {

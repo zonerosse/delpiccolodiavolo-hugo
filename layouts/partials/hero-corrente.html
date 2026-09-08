@@ -1,0 +1,23 @@
+{{- /* hero-corrente.html — restituisce SOLO il percorso della foto hero
+       attualmente in rotazione. Serve a due posti che devono per forza
+       essere d'accordo:
+         - baseof.html, per il <link rel="preload"> nella <head>
+         - hero-foto.html, per il tag <img>
+       Se i due divergono, il browser precarica una foto e ne mostra
+       un'altra: la prima e' banda sprecata, la seconda arriva tardi. */ -}}
+{{- $cfg := site.Params.hero -}}
+{{- $file := "/images/femmina-bilquis-hero.avif" -}}
+{{- with $cfg }}{{ with .foto }}
+  {{- $n := len . -}}
+  {{- $rot := $cfg.rotazione | default "settimane" -}}
+  {{- $periodo := 0 -}}
+  {{- if eq $rot "giorni" -}}
+    {{- $periodo = int (div (now.Unix) 86400) -}}
+  {{- else if eq $rot "mesi" -}}
+    {{- $periodo = add (mul (int (now.Format "2006")) 12) (int (now.Format "1")) -}}
+  {{- else -}}
+    {{- $periodo = int (div (now.Unix) 604800) -}}
+  {{- end -}}
+  {{- $file = (index . (mod $periodo $n)).file -}}
+{{ end }}{{ end -}}
+{{- $file -}}
