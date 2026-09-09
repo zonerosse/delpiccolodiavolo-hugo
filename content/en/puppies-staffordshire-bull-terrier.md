@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Puppies"
 titleSeo: "Staffordshire Bull Terrier Puppies, verifiable genetic tests"
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
 description: "Staffordshire Bull Terrier puppies in Ostellato, Italy. ENCI pedigree, parents tested for L2HGA and HC with the certificates published on this site."
@@ -117,7 +117,9 @@ custom_content: |
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Temperament and Socialization</h3>
-  <p>Puppies are born indoors, in the whelping box, and stay there for about a month: it is the phase in which the mother does everything and human contact matters most. At around thirty days they move to a dedicated pen with outdoor access, for a practical reason anyone who has raised a litter knows: at that age they soil more than a lived-in house can take. From then on they come back inside in turns, two at a time for a few hours, so each of them gets its own share of the house. They learn to recognize household sounds, different people, other animals. This early socialization is essential to develop a confident and calm temperament.</p>
+  <p>Puppies are born indoors, in the whelping box, and stay there for about a month: it is the phase in which the mother does everything and human contact matters most. At around thirty days they move to a dedicated pen with outdoor access, for a practical reason anyone who has raised a litter knows: at that age they soil more than a lived-in house can take. From then on they come back inside in turns, two at a time for a few hours, so each of them gets its own share of the house.</p>
+
+  <p>On early stimulation protocols &mdash; the so-called Bio Sensor method &mdash; and on how much of it is actually proven, we have written <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor: what the research actually says">a separate guide</a>. They learn to recognize household sounds, different people, other animals. This early socialization is essential to develop a confident and calm temperament.</p>
   </div>
   <div class="zigzag-image">
   <img src="/images/foto1.avif" alt="Socialized Staffordshire Bull Terrier puppies at home" loading="lazy" decoding="async" width="400" height="300">

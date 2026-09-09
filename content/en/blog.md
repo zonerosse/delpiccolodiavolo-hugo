@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Blog - Articles & Guides"
-lastmod: 2026-09-02
+lastmod: 2026-09-09
 tipoPagina: "CollectionPage"
 translationKey: "blog"
 description: "Articles on puppies, health, breed standard and daily life with the Staffordshire Bull Terrier. Practical advice from the kennel."
@@ -50,7 +50,7 @@ custom_content: |
   <section class="section" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Category</span>
-  <h2 class="section-title">Puppies <span class="count">(9)</span></h2>
+  <h2 class="section-title">Puppies <span class="count">(10)</span></h2>
   
   <div class="blog-grid">
   <article class="blog-card">
@@ -69,6 +69,16 @@ custom_content: |
   <h3><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Read: How to recognise a serious breeder">How to recognise a serious breeder</a></h3>
   <p>Seven criteria and how to check each one, with our own documents as the example.</p>
   <a class="read" href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" aria-label="Read the article: How to recognise a serious breeder">Read →</a>
+  </div>
+  </article>
+
+  <article class="blog-card">
+  <a href="/en/bio-sensor-early-stimulation-puppies/" title="Read: Bio Sensor, what the research says"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier puppies in their first days of life" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">8 Sep 2026</span><span>&bull;</span><span class="cat">Puppies</span></div>
+  <h3><a href="/en/bio-sensor-early-stimulation-puppies/" title="Read: Bio Sensor, what the research says">Bio Sensor: what the research actually says</a></h3>
+  <p>The ENS method, the evidence that is missing, and what counts in the first eight weeks.</p>
+  <a class="read" href="/en/bio-sensor-early-stimulation-puppies/" title="Read the full article" aria-label="Read the article: Bio Sensor, what the research actually says">Read &rarr;</a>
   </div>
   </article>
 

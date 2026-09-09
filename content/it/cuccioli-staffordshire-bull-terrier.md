@@ -1,7 +1,7 @@
 ---
 title: "Cuccioli Staffordshire Bull Terrier"
 titleSeo: "Cuccioli Staffordshire Bull Terrier, test genetici verificabili"
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
 description: "Cuccioli Staffordshire Bull Terrier a Ostellato (FE). Pedigree ENCI, genitori testati L2HGA e HC con i referti pubblicati sul sito, verificabili da chiunque."
@@ -95,6 +95,8 @@ custom_content: |
 
   <div class="intro-block">
   <p>La socializzazione è il processo più importante nei primi mesi di vita di un cucciolo. I cuccioli nascono in casa, nella cassa parto, e ci restano circa un mese: &egrave; la fase in cui la madre fa tutto e il contatto umano conta pi&ugrave; di ogni altra cosa. Chi &egrave; venuto a vederli prima dei trenta giorni li ha visti l&igrave;. Verso il mese passano in un box dedicato con accesso all'esterno, per una ragione pratica che chiunque abbia avuto una cucciolata conosce: a quell'et&agrave; sporcano in una misura che una casa abitata non regge. Da l&igrave; in avanti tornano dentro a turno, due per volta e per qualche ora, cos&igrave; che ognuno faccia la sua parte di casa: famiglia, rumori domestici, altri cani e persone diverse.</p>
+
+  <p>Sui protocolli di stimolazione precoce &mdash; il cosiddetto metodo Bio Sensor &mdash; e su cosa sia davvero dimostrato, abbiamo scritto <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor: cosa dice davvero la ricerca">una guida a parte</a>.</p>
   <p>Questa esposizione graduale e controllata a stimoli vari permette ai cuccioli di sviluppare un temperamento sicuro, equilibrato e sereno. Un cucciolo ben socializzato sarà un adulto tranquillo, capace di affrontare le situazioni quotidiane senza stress.</p>
   <p>Seguiamo un protocollo di socializzazione che include: manipolazione quotidiana, esposizione a rumori domestici, interazione con persone di età diverse, gioco con altri cani, esperienze positive con ambienti esterni.</p>
   <p>Approfondisci nel nostro <a href="/blog/" title="Blog Staffordshire Bull Terrier">blog sul Staffordshire Bull Terrier</a> con guide pratiche su socializzazione, alimentazione e salute.</p>

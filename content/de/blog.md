@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Blog - Artikel & Ratgeber"
-lastmod: 2026-09-02
+lastmod: 2026-09-09
 tipoPagina: "CollectionPage"
 translationKey: "blog"
 description: "Artikel über Welpen, Gesundheit, Standard und Zusammenleben mit dem Staffordshire Bull Terrier. Praktische Tipps aus der Zucht."
@@ -50,7 +50,7 @@ custom_content: |
   <section class="section" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Kategorie</span>
-  <h2 class="section-title">Welpen <span class="count">(9)</span></h2>
+  <h2 class="section-title">Welpen <span class="count">(10)</span></h2>
   
   <div class="blog-grid">
   <article class="blog-card">
@@ -69,6 +69,16 @@ custom_content: |
   <h3><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Lesen: Wie man eine seriöse Zucht erkennt">Wie man eine seriöse Zucht erkennt</a></h3>
   <p>Sieben Kriterien und wie man sie überprüft, mit unseren Unterlagen als Beispiel.</p>
   <a class="read" href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" aria-label="Artikel lesen: Wie man eine seriöse Zucht erkennt">Lesen →</a>
+  </div>
+  </article>
+
+  <article class="blog-card">
+  <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Lesen: Bio Sensor, was die Forschung sagt"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier Welpen in den ersten Lebenstagen" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">8 Sep 2026</span><span>&bull;</span><span class="cat">Welpen</span></div>
+  <h3><a href="/de/bio-sensor-fruehstimulation-welpen/" title="Lesen: Bio Sensor, was die Forschung sagt">Bio Sensor: was die Forschung wirklich sagt</a></h3>
+  <p>Die ENS-Methode, die fehlenden Belege und was in den ersten acht Wochen zählt.</p>
+  <a class="read" href="/de/bio-sensor-fruehstimulation-welpen/" title="Vollständigen Artikel lesen" aria-label="Artikel lesen: Bio Sensor, was die Forschung wirklich sagt">Lesen &rarr;</a>
   </div>
   </article>
 

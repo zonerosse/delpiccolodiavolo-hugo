@@ -1,7 +1,7 @@
 ---
 title: "Blog Staffordshire Bull Terrier"
 titleSeo: "Guide sullo Staffordshire Bull Terrier: salute e cuccioli"
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 tipoPagina: "CollectionPage"
 translationKey: "blog"
 description: "Articoli su cuccioli, salute, standard e convivenza dello Staffordshire Bull Terrier. Consigli pratici dall'allevamento."
@@ -51,7 +51,7 @@ custom_content: |
   <section class="section" id="cuccioli" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
-  <h2 class="section-title">Cuccioli <span class="count">(9)</span></h2>
+  <h2 class="section-title">Cuccioli <span class="count">(10)</span></h2>
 
   <div class="blog-grid">
   <article class="blog-card">
@@ -71,6 +71,16 @@ custom_content: |
   <h3><a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Leggi: Quanto Costa un Cucciolo">Quanto Costa un Cucciolo di Staffordshire Bull Terrier nel 2026</a></h3>
   <p>Cosa include davvero il prezzo di un cucciolo, e perché diffidare dai prezzi troppo bassi.</p>
   <a class="read" href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Quanto Costa un Cucciolo di Staffordshire Bull Terrier nel 2026">Leggi →</a>
+  </div>
+  </article>
+
+  <article class="blog-card">
+  <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Leggi: Bio Sensor, cosa dice la ricerca"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-1.webp" alt="Cuccioli di Staffordshire Bull Terrier nei primi giorni di vita" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">8 Set 2026</span><span>&bull;</span><span class="cat">Cuccioli</span></div>
+  <h3><a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Leggi: Bio Sensor, cosa dice la ricerca">Bio Sensor: cosa dice davvero la ricerca</a></h3>
+  <p>Il metodo ENS, le prove che mancano, e cosa conta nelle prime otto settimane.</p>
+  <a class="read" href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Leggi articolo completo" aria-label="Leggi larticolo: Bio Sensor, cosa dice davvero la ricerca">Leggi &rarr;</a>
   </div>
   </article>
 
