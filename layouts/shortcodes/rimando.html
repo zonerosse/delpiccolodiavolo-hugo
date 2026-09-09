@@ -1,0 +1,27 @@
+{{/*
+  rimando — scheda con foto verso una pagina importante.
+
+  Uso nel corpo della pagina:
+
+    {{< rimando url="/femmine-staffordshire-bull-terrier/"
+                foto="/images/femmina-bilquis.webp"
+                alt="Bilquis Goddess Diabhal"
+                titolo="Le nostre femmine, una per una"
+                testo="Microchip, test genetici e pedigree: da lì verifichi tutto." >}}
+
+  Perché uno shortcode e non l'HTML incollato: se un giorno la scheda cambia
+  aspetto, si modifica qui e cambia ovunque. E non c'è HTML da tenere
+  indentato dentro il front matter, che è la causa dei build falliti.
+*/}}
+{{- $url := .Get "url" -}}
+{{- $foto := .Get "foto" | default "/images/blog/hero-default.webp" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $titolo := .Get "titolo" -}}
+{{- $testo := .Get "testo" -}}
+<a class="rimando" href="{{ $url }}">
+<img src="{{ $foto }}" alt="{{ $alt }}" width="88" height="88" loading="lazy" decoding="async">
+<span>
+<span class="ti">{{ $titolo | safeHTML }}</span>
+{{ with $testo }}<span class="de">{{ . | safeHTML }}</span>{{ end }}
+</span>
+</a>
