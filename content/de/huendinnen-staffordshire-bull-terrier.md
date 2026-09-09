@@ -262,11 +262,7 @@ custom_content: |
   </div>
   </section>
   
-  <section class="dark-section">
-  <h2>Verantwortungsvolle Mutterschaft</h2>
-  <p>Unsere Hündinnen werden vor, während und nach jeder Trächtigkeit sorgfältig betreut. Ihr Wohlbefinden steht an erster Stelle, um gesunde Welpen und entspannte Mütter zu garantieren.</p>
-  </section>
-  
+    
   <section class="cta-section">
   <h2>Möchten Sie Infos über unsere Hündinnen?</h2>
   <p>Rufen Sie uns an oder schreiben Sie uns auf WhatsApp für Informationen über unsere Zuchthündinnen.</p>

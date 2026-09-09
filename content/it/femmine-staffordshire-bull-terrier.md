@@ -276,11 +276,7 @@ custom_content: |
   </div>
   </section>
   
-  <section class="dark-section">
-  <h2>Maternità Responsabile</h2>
-  <p>Le nostre femmine sono seguite con attenzione prima, durante e dopo ogni gravidanza. Il loro benessere viene prima di tutto, per garantire cuccioli sani e madri serene.</p>
-  </section>
-  
+    
   <section class="cta-section">
   <h2>Vuoi Info sulle Nostre Femmine?</h2>
   <p>Chiamaci o scrivici su WhatsApp per informazioni sulle nostre fattrici.</p>

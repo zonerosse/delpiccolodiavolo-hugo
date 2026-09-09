@@ -1,7 +1,7 @@
 ---
 title: "Recensioni Staffordshire Bull Terrier"
 titleSeo: "Recensioni Staffordshire Bull Terrier: oltre 40 famiglie"
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
 description: "Le recensioni Google delle famiglie che hanno scelto un cucciolo Del Piccolo Diavolo. Esperienze reali, prima e dopo l’affidamento."
@@ -330,8 +330,4 @@ custom_content: |
   </div>
   </section>
 
-  <section class="dark-section">
-  <h2>La Fiducia Si Costruisce nel Tempo</h2>
-  <p>13 anni di selezione, decine di famiglie felici. Ogni cucciolo che parte da noi porta con sé la cura, l'amore e la competenza che ci contraddistinguono.</p>
-  </section>
 ---

@@ -275,11 +275,7 @@ custom_content: |
   </div>
   </section>
   
-  <section class="dark-section">
-  <h2>Responsible Motherhood</h2>
-  <p>Our females are carefully monitored before, during and after each pregnancy. Their wellbeing comes first, to ensure healthy puppies and calm mothers.</p>
-  </section>
-  
+    
   <section class="cta-section">
   <h2>Want Info About Our Females?</h2>
   <p>Call us or write on WhatsApp for information about our breeding females.</p>
