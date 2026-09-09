@@ -119,7 +119,15 @@ custom_content: |
   <h3>Temperament und Sozialisierung</h3>
   <p>Die Welpen kommen im Haus zur Welt, in der Wurfkiste, und bleiben dort etwa einen Monat: in dieser Zeit macht die Mutter alles, und der menschliche Kontakt zählt am meisten. Mit rund dreißig Tagen ziehen sie in einen eigenen Zwinger mit Auslauf um — aus einem praktischen Grund, den jeder kennt, der schon einen Wurf hatte: in diesem Alter machen sie mehr Schmutz, als ein bewohntes Haus verträgt. Von da an kommen sie abwechselnd wieder herein, zu zweit und für einige Stunden, damit jeder seinen Teil vom Haus bekommt.</p>
 
-  <p>Über Protokolle zur Frühstimulation &mdash; die sogenannte Bio-Sensor-Methode &mdash; und darüber, wie viel davon wirklich belegt ist, haben wir <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor: was die Forschung wirklich sagt">einen eigenen Ratgeber</a> geschrieben. Sie lernen Haushaltsgeräusche, verschiedene Menschen und andere Tiere kennen. Diese frühe Sozialisierung ist grundlegend für die Entwicklung eines sicheren und ruhigen Temperaments.</p>
+    <a class="rimando" href="/de/bio-sensor-fruehstimulation-welpen/">
+  <img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier Welpen in den ersten Tagen" width="88" height="88" loading="lazy" decoding="async">
+  <span>
+  <span class="ti">Bio Sensor: was die Forschung wirklich sagt</span>
+  <span class="de">Die ENS-Methode, die fehlenden Belege und was in den ersten acht Wochen zählt.</span>
+  </span>
+  </a>
+
+  <p>Sie lernen Haushaltsgeräusche, verschiedene Menschen und andere Tiere kennen. Diese frühe Sozialisierung ist grundlegend für die Entwicklung eines sicheren und ruhigen Temperaments.</p>
   </div>
   <div class="zigzag-image">
   <img src="/images/foto1.avif" alt="Sozialisierte Staffordshire Bull Terrier Welpen zu Hause" loading="lazy" decoding="async" width="400" height="300">

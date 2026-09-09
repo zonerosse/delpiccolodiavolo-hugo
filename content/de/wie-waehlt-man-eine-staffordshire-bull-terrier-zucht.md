@@ -100,7 +100,15 @@ categories: ["Cuccioli"]
 
 <p><strong>Fragen Sie trotzdem.</strong> Wo die H&uuml;ndinnen sind, die in den Vorjahren geworfen haben, und ob man sie sehen kann. Wie viele W&uuml;rfe eine ihrer H&uuml;ndinnen hat und was geschieht, wenn sie aufh&ouml;rt. Wer eine Antwort parat hat, hat sie, weil er sich die Frage selbst schon gestellt hat.</p>
 
-<p><strong>Unsere.</strong> Die Mikrochips unserer H&uuml;ndinnen stehen offen auf <a href="/de/huendinnen-staffordshire-bull-terrier/" title="Unsere H&uuml;ndinnen">ihren Seiten</a>, gerade damit sich diese Pr&uuml;fung ohne uns machen l&auml;sst. Sie haben im Schnitt zwei W&uuml;rfe.</p>
+<p><strong>Unsere.</strong> Die Mikrochips unserer H&uuml;ndinnen stehen offen, gerade damit sich diese Pr&uuml;fung ohne uns machen l&auml;sst. Sie haben im Schnitt zwei W&uuml;rfe.</p>
+
+<a class="rimando" href="/de/huendinnen-staffordshire-bull-terrier/">
+<img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Zuchth&uuml;ndin bei Del Piccolo Diavolo" width="88" height="88" loading="lazy" decoding="async">
+<span>
+<span class="ti">Unsere H&uuml;ndinnen, mit Mikrochip und Ahnentafel</span>
+<span class="de">Acht Profile mit Mikrochipnummer: die Zahl der W&uuml;rfe pr&uuml;fen Sie selbst bei ENCI.</span>
+</span>
+</a>
 
 <h2>7. Die Unterlagen, die mit dem Welpen kommen</h2>
 

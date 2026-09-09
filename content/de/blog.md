@@ -27,6 +27,8 @@ custom_content: |
   </div>
   
   <!-- RASSE UND GESETZGEBUNG -->
+  <!--RECENTI-->
+
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Kategorie</span>

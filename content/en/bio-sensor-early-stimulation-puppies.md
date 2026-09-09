@@ -93,7 +93,15 @@ custom_content: |
 
   <p>If a breeder tells you they use ENS, that is not a fault: it is a detail worth what it is worth, which is little either way. If instead they present it as the reason their puppy will be balanced, the right question is a different one: <strong>where the puppies grow up, who they meet in the first eight weeks, and what condition the mother is in.</strong></p>
 
-  <p>The answers to those three questions say far more than any acronym. How to check them, one by one, is the subject of our guide on <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious breeder">how to recognise a serious breeder</a>.</p>
+  <p>The answers to those three questions say far more than any acronym.</p>
+
+    <a class="rimando" href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/">
+  <img src="/images/blog/cucciolata-erba.avif" alt="Staffordshire Bull Terrier puppies with their mother" width="88" height="88" loading="lazy" decoding="async">
+  <span>
+  <span class="ti">How to recognise a serious breeder</span>
+  <span class="de">Eight criteria and how to check each one: on documents, not on words.</span>
+  </span>
+  </a>
 
   <div class="related-articles">
   <h3>Related articles</h3>

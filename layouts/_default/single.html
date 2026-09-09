@@ -12,6 +12,7 @@
   {{ $c = replace $c "<!--REC-VOTO-->" $votoLoc }}
   {{ $c = replace $c "<!--REC-TOTALE-->" $tot }}
   {{ $c = replace $c "<!--CORRELATI-->" (partial "correlati.html" .) }}
+  {{ $c = replace $c "<!--RECENTI-->" (partial "recenti.html" .) }}
   {{ replace $c "<!--PRENOTA-->" (partial "prenota.html" .) | safeHTML }}
   {{ if not .Params.noindex }}{{ $meta | safeHTML }}{{ end }}
 {{ else }}
