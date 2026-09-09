@@ -148,3 +148,21 @@ letter-spacing:.03em;padding:.55rem 1.5rem;text-transform:uppercase}
   color:#6b4423;
   text-decoration-color:currentColor
 }
+
+/* Blocchi scuri: il testo deve restare bianco anche quando la sezione finisce
+   dentro .article-content, che e' quello che succede nelle pagine il cui HTML
+   sta nel corpo Markdown invece che in custom_content. Senza questa regola
+   .article-content p (stessa specificita', ma piu' avanti nel file) vinceva, e
+   il paragrafo usciva #4a3f35 su #5c4a3a: praticamente invisibile. */
+.dark-section p, .dark-section li, .dark-section h3,
+.cta-section p, .cta-section li, .cta-section h3,
+.article-content .dark-section p, .article-content .dark-section li,
+.article-content .cta-section p, .article-content .cta-section li,
+.content-single .dark-section p, .content-single .cta-section p{
+  color:#fff
+}
+.article-content .dark-section a:not(.btn),
+.article-content .cta-section a:not(.btn),
+.dark-section a:not(.btn), .cta-section a:not(.btn){
+  color:#f0d9a8; text-decoration:underline; text-decoration-color:rgba(240,217,168,.5)
+}

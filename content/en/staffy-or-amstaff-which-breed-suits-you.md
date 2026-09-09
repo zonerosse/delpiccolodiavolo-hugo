@@ -1,8 +1,8 @@
 ---
 title: "Staffy or Amstaff: Which of the Two Breeds Suits You"
-lastmod: 2026-09-03
+lastmod: 2026-09-09
 articolo: true
-image: "/images/blog/hero-default.webp"
+image: "/images/blog/staffy-amstaff-hero.webp"
 titleSeo: "Staffy or Amstaff: which breed to choose"
 translationKey: "differenza-staffy-amstaff"
 description: "17 kg against 30, flat living against space, first dog or not: the concrete questions to ask before choosing between Staffordshire Bull Terrier and Amstaff."
@@ -12,7 +12,12 @@ categories: ["Breed Standard"]
 ---
 
 <section class="hero">
-<div class="hero-content" style="max-width:100%">
+<div class="hero-visual">
+<div class="hero-image">
+<img src="/images/blog/staffy-amstaff-hero.webp" alt="Black Staffordshire Bull Terrier in profile, showing breed type" width="800" height="762" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
+</div>
+</div>
+<div class="hero-content">
 <span class="hero-eyebrow">Complete Guide</span>
 <h1 class="hero-title">Staffy or Amstaff: which of the two breeds suits you</h1>
 <p class="hero-subtitle">You already know they are not the same dog. Now comes the harder question: which one to choose</p>

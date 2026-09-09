@@ -4,7 +4,7 @@ titleSeo: "How to recognise a serious Staffordshire Bull Terrier breeder"
 articolo: true
 translationKey: "come-scegliere"
 image: "/images/blog/cucciolata-erba.avif"
-description: "Seven criteria for recognising a serious Staffordshire Bull Terrier breeder, each with the way to verify it. With our own documents as the worked example."
+description: "Eight criteria for recognising a serious Staffordshire Bull Terrier breeder, each with the way to verify it. With our own documents as the worked example."
 slug: "how-to-choose-a-staffordshire-bull-terrier-breeder"
 date: 2026-01-18
 lastmod: 2026-09-09
@@ -12,15 +12,31 @@ categories: ["Cuccioli"]
 ---
 
 <section class="hero">
-<div class="hero-content" style="max-width:100%">
+<div class="hero-visual">
+<div class="hero-image">
+<img src="/images/blog/cucciolata-erba.avif" alt="Staffordshire Bull Terrier puppies with their mother on the grass" width="800" height="580" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
+</div>
+</div>
+<div class="hero-content">
 <span class="hero-eyebrow">Guide</span>
-<h1 class="hero-title">How to Recognise a Serious Staffordshire Bull Terrier Breeder</h1>
-<p class="hero-subtitle">Seven criteria, and how to check each one instead of taking it on trust</p>
+<h1 class="hero-title">How to recognise a serious <em>Staffordshire Bull Terrier</em> breeder</h1>
+<p class="hero-subtitle">Eight criteria, and how to check each one instead of taking it on trust</p>
+<div class="hero-meta">
+<span>&#9201;&#65039; 8 min read</span>
+</div>
 </div>
 </section>
 
+<nav class="breadcrumb" aria-label="Breadcrumb">
+<a href="/en/" title="Home">Home</a> &rsaquo;
+<a href="/en/blog/" title="Blog">Blog</a> &rsaquo;
+<a aria-label="Puppies &mdash; blog category" href="/en/blog/#cuccioli" title="Puppy articles">Puppies</a> &rsaquo;
+<span>How to recognise a serious breeder</span>
+</nav>
+
 <section class="section">
 <div class="section-inner content-single">
+
 
 <p>Nearly every kennel says the same things: tested dogs, puppies raised indoors, careful selection. Those claims cost nothing until somebody checks them, and a first-time buyer rarely knows where to start checking.</p>
 
@@ -133,11 +149,24 @@ categories: ["Cuccioli"]
 
 <p>Then take the same list to the others. That is the best use for this page.</p>
 
+
+<div class="related-articles">
+<h3>Related articles</h3>
+<ul>
+<li><a href="/en/staffy-genetic-testing-l2hga-hc/" title="L2HGA and HC genetic testing">L2-HGA and HC genetic tests: how they work</a></li>
+<li><a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="How much a puppy costs">What a puppy costs, and what lies behind the price</a></li>
+<li><a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor: what the research says">Bio Sensor: what the research actually says</a></li>
+<li><a href="/en/females-staffordshire-bull-terrier/" title="Our females">Our females, with microchips and pedigrees</a></li>
+</ul>
+</div>
+
+
+
 </div>
 </section>
 
-<section class="dark-section">
+<section class="cta-section">
 <h2>Would you like to meet our dogs?</h2>
 <p>We receive by appointment in Ostellato, province of Ferrara. You see the mothers, the puppies and the house they grow up in.</p>
-<a href="https://wa.me/393924635584?text=Hi%20Paolo%2C%20I%20would%20like%20to%20meet%20your%20dogs" class="btn btn-gold" title="Message us on WhatsApp" target="_blank" rel="noopener" aria-label="Message us on WhatsApp to arrange a visit (opens in a new tab)">Arrange a visit</a>
+<a href="https://wa.me/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20to%20meet%20your%20dogs" class="btn" title="Message us on WhatsApp" target="_blank" rel="noopener" aria-label="Message us on WhatsApp to arrange a visit (opens in a new tab)">Arrange a visit</a>
 </section>

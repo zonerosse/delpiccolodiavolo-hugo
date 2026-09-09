@@ -4,7 +4,7 @@ titleSeo: "Staffordshire Bull Terrier Zucht: wie man eine seriöse erkennt"
 articolo: true
 translationKey: "come-scegliere"
 image: "/images/blog/cucciolata-erba.avif"
-description: "Sieben Kriterien, um eine seriöse Staffordshire Bull Terrier Zucht zu erkennen, jedes mit der Art, es zu überprüfen. Mit unseren eigenen Unterlagen als Beispiel."
+description: "Acht Kriterien, um eine seriöse Staffordshire Bull Terrier Zucht zu erkennen, jedes mit der Art, es zu überprüfen. Mit unseren eigenen Unterlagen als Beispiel."
 slug: "wie-waehlt-man-eine-staffordshire-bull-terrier-zucht"
 date: 2026-01-18
 lastmod: 2026-09-09
@@ -12,15 +12,31 @@ categories: ["Cuccioli"]
 ---
 
 <section class="hero">
-<div class="hero-content" style="max-width:100%">
+<div class="hero-visual">
+<div class="hero-image">
+<img src="/images/blog/cucciolata-erba.avif" alt="Staffordshire Bull Terrier Welpen mit ihrer Mutter auf der Wiese" width="800" height="580" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
+</div>
+</div>
+<div class="hero-content">
 <span class="hero-eyebrow">Ratgeber</span>
-<h1 class="hero-title">Wie man eine seriöse Staffordshire Bull Terrier Zucht erkennt</h1>
-<p class="hero-subtitle">Sieben Kriterien und wie man jedes davon überprüft, statt es zu glauben</p>
+<h1 class="hero-title">Wie man eine seriöse <em>Staffordshire Bull Terrier</em> Zucht erkennt</h1>
+<p class="hero-subtitle">Acht Kriterien und wie man jedes davon überprüft, statt es zu glauben</p>
+<div class="hero-meta">
+<span>&#9201;&#65039; 8 Min. Lesezeit</span>
+</div>
 </div>
 </section>
 
+<nav class="breadcrumb" aria-label="Breadcrumb">
+<a href="/de/" title="Startseite">Startseite</a> &rsaquo;
+<a href="/de/blog/" title="Blog">Blog</a> &rsaquo;
+<a aria-label="Welpen &mdash; Blog-Kategorie" href="/de/blog/#cuccioli" title="Artikel &uuml;ber Welpen">Welpen</a> &rsaquo;
+<span>Wie man eine seri&ouml;se Zucht erkennt</span>
+</nav>
+
 <section class="section">
 <div class="section-inner content-single">
+
 
 <p>Fast jede Zucht sagt dasselbe: getestete Hunde, Welpen im Haus aufgezogen, sorgfältige Selektion. Solche Aussagen kosten nichts, solange sie niemand prüft — und wer den ersten Welpen sucht, weiß selten, wo das Prüfen anfängt.</p>
 
@@ -133,11 +149,24 @@ categories: ["Cuccioli"]
 
 <p>Nehmen Sie dann dieselbe Liste mit zu den anderen. Das ist die beste Verwendung für diese Seite.</p>
 
+
+<div class="related-articles">
+<h3>Verwandte Artikel</h3>
+<ul>
+<li><a href="/de/staffy-gentests-l2hga-hc/" title="Gentests L2HGA und HC">Gentests L2-HGA und HC: wie sie funktionieren</a></li>
+<li><a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Was ein Welpe kostet">Was ein Welpe kostet und was hinter dem Preis steht</a></li>
+<li><a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor: was die Forschung sagt">Bio Sensor: was die Forschung wirklich sagt</a></li>
+<li><a href="/de/huendinnen-staffordshire-bull-terrier/" title="Unsere H&uuml;ndinnen">Unsere H&uuml;ndinnen, mit Mikrochip und Ahnentafel</a></li>
+</ul>
+</div>
+
+
+
 </div>
 </section>
 
-<section class="dark-section">
-<h2>Möchten Sie unsere Hunde kennenlernen?</h2>
-<p>Wir empfangen nach Terminvereinbarung in Ostellato, Provinz Ferrara. Sie sehen die Mütter, die Welpen und das Haus, in dem sie aufwachsen.</p>
-<a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20w%C3%BCrde%20gerne%20Ihre%20Hunde%20kennenlernen" class="btn btn-gold" title="Schreiben Sie uns auf WhatsApp" target="_blank" rel="noopener" aria-label="Schreiben Sie uns auf WhatsApp für einen Besuchstermin (wird in einem neuen Tab geöffnet)">Besuch vereinbaren</a>
+<section class="cta-section">
+<h2>M&ouml;chten Sie unsere Hunde kennenlernen?</h2>
+<p>Wir empfangen nach Terminvereinbarung in Ostellato, Provinz Ferrara. Sie sehen die M&uuml;tter, die Welpen und das Haus, in dem sie aufwachsen.</p>
+<a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20m%C3%B6chte%20Ihre%20Hunde%20kennenlernen" class="btn" title="Schreiben Sie uns auf WhatsApp" target="_blank" rel="noopener" aria-label="Schreiben Sie uns auf WhatsApp f&uuml;r einen Termin (wird in einem neuen Tab ge&ouml;ffnet)">Termin vereinbaren</a>
 </section>

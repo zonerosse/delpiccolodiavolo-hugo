@@ -59,7 +59,7 @@ custom_content: |
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Gen 2026</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi: Come riconoscere un allevamento serio">Come riconoscere un allevamento serio</a></h3>
-  <p>Sette criteri e il modo di verificarli, con i nostri documenti come esempio.</p>
+  <p>Otto criteri e il modo di verificarli, con i nostri documenti come esempio.</p>
   <a class="read" href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Come riconoscere un allevamento serio">Leggi →</a>
   </div>
   </article>
