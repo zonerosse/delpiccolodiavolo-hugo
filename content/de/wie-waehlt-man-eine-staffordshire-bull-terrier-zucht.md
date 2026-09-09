@@ -1,6 +1,6 @@
 ---
 title: "Wie man eine seriöse Staffordshire Bull Terrier Zucht erkennt"
-titleSeo: "Staffordshire Bull Terrier Zucht: wie man eine seriöse erkennt"
+titleSeo: "Seriöse Staffordshire Bull Terrier Zucht erkennen"
 articolo: true
 translationKey: "come-scegliere"
 image: "/images/blog/cucciolata-erba.avif"

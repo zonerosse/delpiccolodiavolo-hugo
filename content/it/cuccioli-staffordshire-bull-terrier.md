@@ -1,6 +1,6 @@
 ---
 title: "Cuccioli Staffordshire Bull Terrier"
-titleSeo: "Cuccioli Staffordshire Bull Terrier, test genetici verificabili"
+titleSeo: "Cuccioli Staffordshire Bull Terrier con test verificabili"
 lastmod: 2026-09-09
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
