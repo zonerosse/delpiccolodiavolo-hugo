@@ -100,7 +100,15 @@ categories: ["Cuccioli"]
 
 <p><strong>E poi chiedi comunque.</strong> Dove sono le femmine che hanno figliato negli anni scorsi, e se puoi vederle. Quante cucciolate fa una loro fattrice e cosa succede quando smette. Chi ha una risposta pronta ce l'ha perch&eacute; se l'&egrave; gi&agrave; posta.</p>
 
-<p><strong>Il nostro.</strong> I microchip delle nostre femmine sono in chiaro nelle <a href="/femmine-staffordshire-bull-terrier/" title="Le nostre femmine">loro schede</a>, proprio perch&eacute; quella verifica si possa fare senza passare da noi. Fanno in media due cucciolate ciascuna.</p>
+<p><strong>Il nostro.</strong> I microchip delle nostre femmine sono in chiaro, proprio perch&eacute; quella verifica si possa fare senza passare da noi. Fanno in media due cucciolate ciascuna.</p>
+
+<a class="rimando" href="/femmine-staffordshire-bull-terrier/">
+<img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, fattrice Del Piccolo Diavolo" width="88" height="88" loading="lazy" decoding="async">
+<span>
+<span class="ti">Le nostre femmine, con microchip e pedigree</span>
+<span class="de">Otto schede con numero di microchip: il numero di cucciolate lo controlli su ENCI, da solo.</span>
+</span>
+</a>
 
 <h2>7. I documenti che accompagnano il cucciolo</h2>
 

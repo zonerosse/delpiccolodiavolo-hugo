@@ -93,7 +93,15 @@ custom_content: |
 
   <p>Wenn eine Zucht sagt, sie wende ENS an, ist das kein Mangel: es ist ein Detail, das wenig aussagt &mdash; in beide Richtungen. Wird es dagegen als Grund präsentiert, warum der Welpe ausgeglichen sein wird, lautet die richtige Frage anders: <strong>wo die Welpen aufwachsen, wen sie in den ersten acht Wochen treffen und in welchem Zustand die Mutter ist.</strong></p>
 
-  <p>Die Antworten auf diese drei Fragen sagen weit mehr als jedes Kürzel. Wie man sie einzeln überprüft, steht im Ratgeber <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie man eine seriöse Zucht erkennt">wie man eine seriöse Zucht erkennt</a>.</p>
+  <p>Die Antworten auf diese drei Fragen sagen weit mehr als jedes K&uuml;rzel.</p>
+
+    <a class="rimando" href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/">
+  <img src="/images/blog/cucciolata-erba.avif" alt="Staffordshire Bull Terrier Welpen mit ihrer Mutter" width="88" height="88" loading="lazy" decoding="async">
+  <span>
+  <span class="ti">Wie man eine seriöse Zucht erkennt</span>
+  <span class="de">Acht Kriterien und wie man jedes prüft: an den Unterlagen, nicht an den Worten.</span>
+  </span>
+  </a>
 
   <div class="related-articles">
   <h3>Verwandte Artikel</h3>

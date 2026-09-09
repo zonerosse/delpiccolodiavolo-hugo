@@ -100,7 +100,15 @@ categories: ["Cuccioli"]
 
 <p><strong>Ask anyway.</strong> Where are the females who whelped in previous years, and can you see them. How many litters one of their bitches has, and what happens when she stops. Anyone with an answer ready has it because they have already asked themselves the question.</p>
 
-<p><strong>Ours.</strong> The microchips of our females are in plain sight on <a href="/en/females-staffordshire-bull-terrier/" title="Our females">their pages</a>, precisely so that the check can be made without going through us. They have two litters each on average.</p>
+<p><strong>Ours.</strong> The microchips of our females are in plain sight, precisely so that the check can be made without going through us. They have two litters each on average.</p>
+
+<a class="rimando" href="/en/females-staffordshire-bull-terrier/">
+<img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, brood bitch at Del Piccolo Diavolo" width="88" height="88" loading="lazy" decoding="async">
+<span>
+<span class="ti">Our females, with microchips and pedigrees</span>
+<span class="de">Eight profiles with the microchip number: you check the litters on ENCI yourself.</span>
+</span>
+</a>
 
 <h2>7. The documents that come with the puppy</h2>
 

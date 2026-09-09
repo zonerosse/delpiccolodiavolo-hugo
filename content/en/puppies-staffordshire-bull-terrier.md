@@ -119,7 +119,15 @@ custom_content: |
   <h3>Temperament and Socialization</h3>
   <p>Puppies are born indoors, in the whelping box, and stay there for about a month: it is the phase in which the mother does everything and human contact matters most. At around thirty days they move to a dedicated pen with outdoor access, for a practical reason anyone who has raised a litter knows: at that age they soil more than a lived-in house can take. From then on they come back inside in turns, two at a time for a few hours, so each of them gets its own share of the house.</p>
 
-  <p>On early stimulation protocols &mdash; the so-called Bio Sensor method &mdash; and on how much of it is actually proven, we have written <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor: what the research actually says">a separate guide</a>. They learn to recognize household sounds, different people, other animals. This early socialization is essential to develop a confident and calm temperament.</p>
+    <a class="rimando" href="/en/bio-sensor-early-stimulation-puppies/">
+  <img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier puppies in their first days" width="88" height="88" loading="lazy" decoding="async">
+  <span>
+  <span class="ti">Bio Sensor: what the research actually says</span>
+  <span class="de">The ENS method, the evidence that is missing, and what counts in the first eight weeks.</span>
+  </span>
+  </a>
+
+  <p>They learn to recognize household sounds, different people, other animals. This early socialization is essential to develop a confident and calm temperament.</p>
   </div>
   <div class="zigzag-image">
   <img src="/images/foto1.avif" alt="Socialized Staffordshire Bull Terrier puppies at home" loading="lazy" decoding="async" width="400" height="300">

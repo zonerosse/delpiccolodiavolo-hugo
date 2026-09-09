@@ -93,7 +93,15 @@ custom_content: |
 
   <p>Se un allevatore ti dice che applica l'ENS, non è un difetto: è un dettaglio che vale quanto vale, cioè poco in un senso e poco nell'altro. Se invece te lo presenta come la ragione per cui il suo cucciolo sarà equilibrato, la domanda giusta è un'altra: <strong>dove crescono i cuccioli, chi incontrano nelle prime otto settimane, e in che condizioni è la madre.</strong></p>
 
-  <p>Le risposte a quelle tre domande dicono molto di più di qualsiasi sigla. Come verificarle, una per una, è il tema della guida su <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento serio">come riconoscere un allevamento serio</a>.</p>
+  <p>Le risposte a quelle tre domande dicono molto di pi&ugrave; di qualsiasi sigla.</p>
+
+    <a class="rimando" href="/come-scegliere-allevamento-staffordshire-bull-terrier/">
+  <img src="/images/blog/cucciolata-erba.avif" alt="Cuccioli di Staffordshire Bull Terrier con la madre" width="88" height="88" loading="lazy" decoding="async">
+  <span>
+  <span class="ti">Come riconoscere un allevamento serio</span>
+  <span class="de">Otto criteri e il modo di verificarli: sui documenti, non sulle parole.</span>
+  </span>
+  </a>
 
   <div class="related-articles">
   <h3>Articoli correlati</h3>

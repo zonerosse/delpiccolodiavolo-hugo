@@ -28,6 +28,8 @@ custom_content: |
   </div>
 
   <!-- RAZZA E LEGISLAZIONE -->
+  <!--RECENTI-->
+
   <section class="section" id="legislazione">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
