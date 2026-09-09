@@ -546,6 +546,12 @@
 /en/contatti/ /en/contact/ 301
 /de/contatti/ /de/kontakt/ 301
 
+/index.html / 301
+/index.htm / 301
+/index.php / 301
+/en/index.html /en/ 301
+/de/index.html /de/ 301
+
 # ---------- CON JOLLY: sotto questa riga si conta come dinamico ----------
 /cucciolate-staffordshire-bull-terrier/* /programma-allevamento/ 301
 /femmine/* /femmine-staffordshire-bull-terrier/ 301
