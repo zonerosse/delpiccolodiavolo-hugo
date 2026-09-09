@@ -1,3 +1,7 @@
+{{- /* Interruttore: mostraUltimaCucciolata in hugo.toml. A false il riquadro
+       non viene disegnato da nessuna parte, senza toccare le pagine che lo
+       richiamano con <!--CUCCIOLATA-->. A true torna com’era. */ -}}
+{{- if .Site.Params.mostraUltimaCucciolata -}}
 {{- $lang := .Site.Language.Lang -}}
 {{- $badge := "🐾 Ultima cucciolata" -}}
 {{- $cta := "Scopri la cucciolata →" -}}
@@ -32,4 +36,5 @@
   </div>
   </section>
   {{- end -}}
+{{- end -}}
 {{- end -}}
