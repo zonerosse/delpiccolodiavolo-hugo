@@ -72,6 +72,15 @@ custom_content: |
   <p><strong>Lackyle</strong> è arrivato per primo, e i suoi soggetti storici si ritrovano oggi nei pedigree di mezza Europa. <strong>Elitebull</strong> è quello che pesa adesso — e nei suoi pedigree ci sono proprio i cani iconici di Lackyle. Non due linee alternative, quindi: la seconda porta dentro la prima.</p>
   <p>Ci lavoro perché sono linee documentate e verificabili, che producono in modo prevedibile. È quello che serve quando un accoppiamento lo pianifichi, invece di sperare.</p>
   <p>C'è anche un motivo che non è tecnico. In quei pedigree c'è <strong>Lackyle Diabhal Óg</strong> — in irlandese, il giovane diavolo — che per me resta uno dei migliori cani dell'epoca moderna, lui e tutto quello che ha lasciato dietro di sé. <strong>Del Piccolo Diavolo</strong> è la traduzione del suo nome: l'allevamento si chiama così per lui.</p>
+
+  <a class="rimando" href="/femmine-staffordshire-bull-terrier/">
+  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, fattrice Del Piccolo Diavolo" width="88" height="88" loading="lazy" decoding="async">
+  <span>
+  <span class="ti">Le femmine che portano quelle linee</span>
+  <span class="de">Otto schede con microchip, test genetici e pedigree: da l&igrave; risali alle genealogie e verifichi tutto.</span>
+  </span>
+  </a>
+
   </div>
   </div>
   </div>
@@ -119,13 +128,6 @@ custom_content: |
   <p>E dico sempre una cosa, che vale come impegno: <strong>se un giorno non riuscite pi&ugrave; a tenerlo, il cane torna qui</strong>. Non &egrave; una formula gentile, &egrave; il motivo per cui scelgo con calma a chi affidarlo.</p>
 
   
-  <a class="rimando" href="/femmine-staffordshire-bull-terrier/">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, fattrice Del Piccolo Diavolo" width="88" height="88" loading="lazy" decoding="async">
-  <span>
-  <span class="ti">I cani su cui lavoro</span>
-  <span class="de">Otto femmine con microchip, test genetici e pedigree: il numero di cucciolate lo controlli su ENCI.</span>
-  </span>
-  </a>
   </div>
   </section>
 
