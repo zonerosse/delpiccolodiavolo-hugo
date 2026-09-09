@@ -1,7 +1,7 @@
 ---
 title: "Palmares - Our Show Results"
 titleSeo: "Palmares: Italian and international champions since 2013"
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 tipoPagina: "CollectionPage"
 translationKey: "palmares"
 description: "Results and titles of our Staffordshire Bull Terriers: Italian Champions, Junior Champions, Best in Show. Del Piccolo Diavolo Kennel, Italy."
@@ -314,7 +314,7 @@ custom_content: |
   <div>
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
   <h3>Italian Young Champion 2026</h3>
-  <p>In Albarella (RO), on 17 May 2026, Queen won Excellent 1st in the Junior Class with JCAC, JBOB and BOB, awarded Best Staffordshire Bull Terrier by the Polesano Canine Group — Italian Young Champion title (pending homologation). A promise that confirms our selection.</p>
+  <p>In Albarella (RO), on 17 May 2026, Queen won Excellent 1st in the Junior Class with JCAC, JBOB and BOB, awarded Best Staffordshire Bull Terrier by the Polesano Canine Group — Italian Young Champion title. A promise that confirms our selection.</p>
   </div>
   </div>
   </div>
