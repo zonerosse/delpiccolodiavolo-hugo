@@ -86,7 +86,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Accoppiamenti</span>
-  <h2 class="section-title">Criteri di selezione dei riproduttori</h2>
+  <h2 class="section-title">Cucciolate programmate e passate</h2>
 
   <p style="text-align:center;margin-bottom:2rem">Ogni accoppiamento è studiato per consolidare le caratteristiche morfologiche desiderate, migliorare il temperamento e preservare la salute genetica. Gli obiettivi vengono definiti analizzando pedigree, risultati espositivi e test genetici di entrambi i genitori.</p>
 
@@ -258,14 +258,6 @@ custom_content: |
   <p>Nessun riproduttore entra nel programma senza i test per <strong>L2HGA</strong> e <strong>HC</strong>, le due malattie genetiche della razza, pi&ugrave; il controllo oculistico per il <strong>PHPV</strong>. I referti sono pubblicati sulle pagine dei cani, con il numero di microchip in chiaro.</p>
 
   <p>Come funzionano quei test, cosa significano gli esiti e perch&eacute; due portatori sani non vanno mai accoppiati fra loro: lo spieghiamo nella <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">pagina dedicata ai test genetici</a>.</p>
-
-  <h2 class="section-title">Cucciolate programmate e passate</h2>
-
-  <div class="intro-block">
-  <p>Dal 2013 alleviamo Staffordshire Bull Terrier con un approccio etico: poche cucciolate selezionate, massima attenzione a salute, carattere e tipicità. Ogni cucciolata nasce da una pianificazione accurata, con obiettivi chiari di miglioramento della razza.</p>
-  <p>Non cerchiamo la quantità ma la qualità: preferiamo produrre pochi soggetti eccellenti piuttosto che molti soggetti mediocri. Questo ci permette di seguire ogni cane con la massima cura, dalla nascita all'inserimento nella nuova famiglia.</p>
-  <p>La nostra missione è preservare l'autenticità dello Staffordshire Bull Terrier attraverso una selezione responsabile e trasparente, rispettando lo standard di razza e il benessere degli animali.</p>
-  </div>
   </div>
   </section>
 
