@@ -1,7 +1,7 @@
 ---
 title: "Programma allevamento Staffordshire Bull Terrier"
 titleSeo: "Cucciolate programmate: accoppiamenti e criteri di selezione"
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 tipoPagina: "CollectionPage"
 translationKey: "programma"
 description: "Programma di allevamento Staffordshire Bull Terrier: criteri di selezione, salute, test genetici e storico delle cucciolate passate e future."
@@ -88,6 +88,14 @@ custom_content: |
   </div>
 
 
+  
+  <a class="rimando" href="/come-si-legge-un-pedigree/">
+  <img src="/images/blog/pedigree-queen-hero.webp" alt="Queen of California in esposizione" width="88" height="88" loading="lazy" decoding="async">
+  <span>
+  <span class="ti">Come studio un accoppiamento prima di farlo</span>
+  <span class="de">Il test mating, il coefficiente e su quali antenati si va in consanguineit&agrave;: con i numeri di Queen.</span>
+  </span>
+  </a>
   </div>
   </section>
 

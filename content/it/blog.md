@@ -168,6 +168,16 @@ custom_content: |
 
   <div class="blog-grid">
   <article class="blog-card">
+  <a href="/come-si-legge-un-pedigree/" title="Leggi: Come si legge un pedigree"><div class="blog-card-thumb"><img src="/images/blog/pedigree-queen-hero.webp" alt="Queen of California in esposizione" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">9 Set 2026</span><span>&bull;</span><span class="cat">Standard</span></div>
+  <h3><a href="/come-si-legge-un-pedigree/" title="Leggi: Come si legge un pedigree">Come si legge un pedigree</a></h3>
+  <p>Cosa dice il certificato ENCI, cosa aggiunge SBTPedigree, e come si studia un accoppiamento.</p>
+  <a class="read" href="/come-si-legge-un-pedigree/" title="Leggi articolo completo" aria-label="Leggi larticolo: Come si legge un pedigree">Leggi &rarr;</a>
+  </div>
+  </article>
+
+  <article class="blog-card">
   <a href="/colori-staffordshire-bull-terrier/" title="Leggi: I colori dello Staffy"><div class="blog-card-thumb"><img src="/images/blog/hero-default.webp" alt="I colori dello Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">1 Ago 2026</span><span>•</span><span class="cat">Standard</span></div>

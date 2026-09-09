@@ -102,13 +102,7 @@ categories: ["Cuccioli"]
 
 <p><strong>Unsere.</strong> Die Mikrochips unserer H&uuml;ndinnen stehen offen, gerade damit sich diese Pr&uuml;fung ohne uns machen l&auml;sst. Sie haben im Schnitt zwei W&uuml;rfe.</p>
 
-<a class="rimando" href="/de/huendinnen-staffordshire-bull-terrier/">
-<img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Zuchth&uuml;ndin bei Del Piccolo Diavolo" width="88" height="88" loading="lazy" decoding="async">
-<span>
-<span class="ti">Unsere H&uuml;ndinnen, mit Mikrochip und Ahnentafel</span>
-<span class="de">Acht Profile mit Mikrochipnummer: die Zahl der W&uuml;rfe pr&uuml;fen Sie selbst bei ENCI.</span>
-</span>
-</a>
+{{< rimando url="/de/huendinnen-staffordshire-bull-terrier/" foto="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Zuchthündin bei Del Piccolo Diavolo" titolo="Unsere Hündinnen, mit Mikrochip und Ahnentafel" testo="Acht Profile mit Mikrochipnummer: die Zahl der Würfe prüfen Sie selbst bei ENCI." >}}
 
 <h2>7. Die Unterlagen, die mit dem Welpen kommen</h2>
 

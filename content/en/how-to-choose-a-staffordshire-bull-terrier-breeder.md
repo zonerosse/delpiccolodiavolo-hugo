@@ -102,13 +102,7 @@ categories: ["Cuccioli"]
 
 <p><strong>Ours.</strong> The microchips of our females are in plain sight, precisely so that the check can be made without going through us. They have two litters each on average.</p>
 
-<a class="rimando" href="/en/females-staffordshire-bull-terrier/">
-<img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, brood bitch at Del Piccolo Diavolo" width="88" height="88" loading="lazy" decoding="async">
-<span>
-<span class="ti">Our females, with microchips and pedigrees</span>
-<span class="de">Eight profiles with the microchip number: you check the litters on ENCI yourself.</span>
-</span>
-</a>
+{{< rimando url="/en/females-staffordshire-bull-terrier/" foto="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, brood bitch at Del Piccolo Diavolo" titolo="Our females, with microchips and pedigrees" testo="Eight profiles with the microchip number: you check the litters on ENCI yourself." >}}
 
 <h2>7. The documents that come with the puppy</h2>
 
