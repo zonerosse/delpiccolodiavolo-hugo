@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier: Tipicità di Razza e Morfologia"
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 translationKey: "standard"
 articolo: true
 image: "/images/blog/standard-1.webp"

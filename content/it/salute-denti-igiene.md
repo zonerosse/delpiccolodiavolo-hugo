@@ -1,6 +1,6 @@
 ---
 title: "Igiene Orale e Denti Staffordshire Bull Terrier"
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 translationKey: "denti"
 articolo: true
 image: "/images/blog/salute-2.webp"

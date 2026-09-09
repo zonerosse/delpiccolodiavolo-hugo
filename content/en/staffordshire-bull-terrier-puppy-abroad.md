@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier puppy abroad: timing and paperwork"
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 articolo: true
 translationKey: "cucciolo-estero"
 description: "A puppy going to another European country leaves at four months, not two. Rabies vaccination, pet passport, TRACES certificate and ENCI export pedigree."

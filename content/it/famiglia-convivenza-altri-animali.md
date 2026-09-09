@@ -1,6 +1,6 @@
 ---
 title: "Staffy con Altri Animali: Guida Convivenza"
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 translationKey: "altri-animali"
 articolo: true
 image: "/images/blog/famiglia-3.webp"
