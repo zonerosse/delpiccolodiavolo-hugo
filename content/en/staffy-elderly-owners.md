@@ -1,7 +1,8 @@
 ---
 title: "Staffy and Elderly Owners"
+date: 2024-05-28
 titleSeo: "Is a Staffordshire Bull Terrier right for older owners?"
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 translationKey: "anziani"
 articolo: true
 image: "/images/blog/famiglia-2.webp"

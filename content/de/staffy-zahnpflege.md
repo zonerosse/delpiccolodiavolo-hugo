@@ -1,6 +1,7 @@
 ---
 title: "Zahnpflege und Mundhygiene für Staffordshire Bull Terrier"
-lastmod: 2026-09-02
+date: 2024-06-18
+lastmod: 2026-09-09
 translationKey: "denti"
 articolo: true
 image: "/images/blog/salute-1.webp"

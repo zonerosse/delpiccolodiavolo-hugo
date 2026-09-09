@@ -1,6 +1,7 @@
 ---
 title: "Genetic Testing L2-HGA and HC for Staffordshire Bull Terrier"
-lastmod: 2026-09-02
+date: 2025-11-20
+lastmod: 2026-09-09
 translationKey: "test-genetici"
 articolo: true
 image: "/images/blog/salute-1.webp"

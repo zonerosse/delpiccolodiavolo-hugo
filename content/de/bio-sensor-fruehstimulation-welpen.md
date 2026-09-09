@@ -1,5 +1,6 @@
 ---
 title: "Bio Sensor: was die Forschung wirklich sagt"
+date: 2026-09-09
 titleSeo: "Bio Sensor und Frühstimulation: was die Forschung sagt"
 lastmod: 2026-09-09
 translationKey: "biosensor"

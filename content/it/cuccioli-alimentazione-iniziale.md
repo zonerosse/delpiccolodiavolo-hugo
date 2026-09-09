@@ -1,7 +1,8 @@
 ---
 title: "Cuccioli: Alimentazione iniziale"
+date: 2025-04-15
 titleSeo: "Alimentazione del cucciolo Staffy nei primi mesi"
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/hero-default.webp"
