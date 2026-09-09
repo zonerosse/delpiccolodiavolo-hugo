@@ -59,7 +59,7 @@ custom_content: |
   
   <h2>L2-HGA: Cos'è e Come Si Manifesta</h2>
   
-  <p>L'<strong>L-2-idrossiglutarico aciduria</strong> (L2-HGA) è una malattia metabolica neurologica identificata per la prima volta nello Staffordshire Bull Terrier nel 2003 dai ricercatori dell'Animal Health Trust britannico.</p>
+  <p>L'<strong>L-2-idrossiglutarico aciduria</strong> (L2-HGA) è una malattia metabolica neurologica dello Staffordshire Bull Terrier. Il primo caso documentato risale al 2002; nel 2005 il gruppo di Cathryn Mellersh, all'Animal Health Trust britannico, ne identificò la mutazione insieme a quella della cataratta ereditaria, e dal gennaio 2006 il Kennel Club riconosce gli schemi ufficiali per entrambi i test. La <a href="https://www.canine-genetics.org.uk/spotlight-on-the-staffordshire-bull-terrier/" title="Storia della ricerca su HC e L2-HGA nello Staffordshire Bull Terrier, Canine Genetics Centre" target="_blank" rel="noopener" aria-label="Storia della ricerca su HC e L2-HGA nello Staffordshire Bull Terrier, Canine Genetics Centre (si apre in una nuova scheda)">ricostruzione della ricerca</a> è pubblicata dal Canine Genetics Centre dell'Università di Cambridge, che ha ereditato quel programma.</p>
   
   <h3>La Causa Genetica</h3>
   
@@ -143,7 +143,7 @@ custom_content: |
   <p>I principali laboratori che effettuano questi test includono:</p>
   
   <ul>
-  <li><strong>Animal Health Trust (UK)</strong> - Il laboratorio che ha sviluppato entrambi i test (ora parte di The Kennel Club)</li>
+  <li><strong>Canine Genetics Centre, Università di Cambridge</strong> - Erede del programma dell'Animal Health Trust, il laboratorio che sviluppò entrambi i test</li>
   <li><strong>Laboklin</strong> - Laboratorio tedesco con sede anche in Italia</li>
   <li><strong>Optigen</strong> - Laboratorio americano specializzato in test oculari</li>
   <li><strong>Embark</strong> - Test genetico completo che include anche L2-HGA e HC</li>

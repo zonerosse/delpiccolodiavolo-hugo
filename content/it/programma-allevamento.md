@@ -271,7 +271,35 @@ custom_content: |
   <p>Cosa accompagna il cucciolo e come funziona l'affido sta nella <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">pagina dei cuccioli</a>; se abiti fuori dall'Italia, i tempi e i documenti sono <a href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Cucciolo all'estero">in questa pagina</a>.</p>
 
   <h2>Domande frequenti sulle cucciolate</h2>
-  <p>Per conoscere in dettaglio il nostro metodo di selezione e gli accoppiamenti pianificati, contattaci.</p>
+
+  <div class="faq-item">
+  <h3 class="faq-question">Come faccio a conoscere i vostri cani?</h3>
+  <div class="faq-answer">
+  <p>Scrivici su WhatsApp o chiama. Prima si parla: della razza, di com&egrave; fatta la vostra casa, dei cani che stanno dietro a una cucciolata. Le famiglie che seguono una cucciolata ricevono foto e video mentre i cuccioli crescono.</p>
+  </div>
+  </div>
+
+  <div class="faq-item">
+  <h3 class="faq-question">Quando posso venire a vedere i cuccioli?</h3>
+  <div class="faq-answer">
+  <p>Le visite si concordano e si fanno dopo la terza settimana di vita. Si conoscono i genitori e si vede l&rsquo;ambiente in cui i cuccioli crescono. Meglio fissare la visita con qualche giorno di anticipo.</p>
+  </div>
+  </div>
+
+  <div class="faq-item">
+  <h3 class="faq-question">Cosa accompagna il cucciolo quando parte?</h3>
+  <div class="faq-answer">
+  <p>Pedigree ENCI, microchip, libretto sanitario, prime vaccinazioni e sverminazioni. I genitori sono testati per L2HGA e HC, e i referti sono pubblicati sulle pagine dei cani. Restiamo a disposizione per tutta la vita del cane.</p>
+  </div>
+  </div>
+
+  <div class="faq-item">
+  <h3 class="faq-question">Cosa c&rsquo;&egrave; dietro una vostra cucciolata?</h3>
+  <div class="faq-answer">
+  <p>Un accoppiamento pensato mesi prima, riproduttori testati per L2HGA e HC, pedigree ENCI e cuccioli cresciuti in casa. Scrivici e ti raccontiamo i cani e le cucciolate in programma.</p>
+  </div>
+  </div>
+
   <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sul%20programma%20di%20allevamento" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Informazioni sul programma" aria-label="Contattaci per informazioni sul programma di allevamento">Scrivici su WhatsApp</a>
   </section>
 ---

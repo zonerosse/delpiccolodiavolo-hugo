@@ -39,7 +39,7 @@ custom_content: |
   </div>
   
   <h2>What a bloodline actually is</h2>
-  <p>A bloodline is not a sub-breed and it is not a brand. It is the accumulated result of decisions made by one breeder, or a small group of breeders, over many generations: which dogs were kept, which were mated together, and which traits were treated as non-negotiable. Two Staffordshire Bull Terriers from different lines are the same breed and must meet the same standard, but they can differ noticeably in bone, head proportion, temperament and working attitude.</p>
+  <p>A bloodline is not a sub-breed and it is not a brand. It is the accumulated result of decisions made by one breeder, or a small group of breeders, over many generations: which dogs were kept, which were mated together, and which traits were treated as non-negotiable. Two Staffordshire Bull Terriers from different lines are the same breed and must meet the same <a href="https://www.thekennelclub.org.uk/breed-standards/terrier/staffordshire-bull-terrier/" title="Staffordshire Bull Terrier breed standard, The Kennel Club" target="_blank" rel="noopener" aria-label="Staffordshire Bull Terrier breed standard, The Kennel Club (opens in a new tab)">breed standard</a>, but they can differ noticeably in bone, head proportion, temperament and working attitude.</p>
   <p>Understanding lines matters for two very different reasons. If you are buying a companion, it tells you what kind of dog you are likely to live with for the next 12 years. If you are considering breeding, it is the difference between a coherent programme and a series of hopeful accidents.</p>
 
   <h2>Where the lines come from</h2>
