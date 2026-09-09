@@ -60,20 +60,6 @@ custom_content: |
   <!--CUCCIOLATA-->
 
   <!-- Citazione allevamento -->
-  <section class="section">
-  <div class="section-inner">
-  <blockquote style="background:#3d2f22;border-radius:8px;padding:2.5rem 3rem;text-align:center;position:relative;overflow:hidden;margin:0 auto;max-width:780px">
-  <span style="position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,transparent,#c9a227,transparent);display:block"></span>
-  <span style="position:absolute;bottom:0;left:0;right:0;height:3px;background:linear-gradient(90deg,transparent,#c9a227,transparent);display:block"></span>
-  <p style="font-family:Georgia,'Times New Roman',serif;font-size:1.3rem;font-style:italic;color:#f5ede0;line-height:1.8;margin:0">
-  "Poche cucciolate l'anno, scelte una per una.<br>
-  Prima ci si conosce. Il resto viene dopo."
-  </p>
-  <span style="display:block;width:40px;height:1px;background:#c9a227;margin:1rem auto 0"></span>
-  <footer style="margin-top:0.75rem;font-size:0.75rem;color:#7d620e;letter-spacing:0.2em;text-transform:uppercase;font-weight:700;font-style:normal">Del Piccolo Diavolo · Dal 2013</footer>
-  </blockquote>
-  </div>
-  </section>
 
   <section class="section">
   <div class="section-inner">
@@ -196,35 +182,10 @@ custom_content: |
   <span class="section-label">Carattere</span>
   <h2 class="section-title">Carattere e temperamento dello Staffordshire Bull Terrier</h2>
 
-  <div class="content-block">
-  <h3>Perché la selezione del carattere fa la differenza</h3>
-  <p>Lo Staffordshire Bull Terrier è una razza straordinaria: intelligente, coraggiosa e incredibilmente affettuosa. I nostri cuccioli ereditano queste qualità dai genitori selezionati con cura, garantendo un carattere equilibrato e una naturale predisposizione alla vita familiare.</p>
-  <p>Il temperamento del cucciolo è influenzato dalla genetica (60%) e dall'ambiente (40%). Per questo selezioniamo riproduttori con carattere stabile e offriamo ai cuccioli un ambiente ricco di stimoli positivi.</p>
-  </div>
+  <p>Il temperamento non arriva per caso: dipende dai riproduttori che si scelgono e dalle prime settimane. I nostri cuccioli crescono a contatto con persone di et&agrave; diverse, rumori domestici e altri cani, ed &egrave; il motivo per cui arrivano in famiglia gi&agrave; abituati alla vita di casa.</p>
 
-  <div class="zigzag">
-  <div class="zigzag-item">
-  <div class="zigzag-text">
-  <h3>L'educazione di base</h3>
-  <p>Già durante i primi 60 giorni i cuccioli imparano moltissimo. Iniziamo con piccoli esercizi di richiamo, abituandoli al nome, e insegniamo le prime regole di convivenza: dove fare i bisogni, il rispetto degli spazi, la gestione del cibo.</p>
-  <p>Quando il cucciolo arriva nella nuova famiglia, ha già acquisito competenze di base che facilitano l'inserimento e l'educazione successiva.</p>
-  </div>
-  <div class="zigzag-image">
-  <img src="/images/foto1.avif" alt="Cuccioli di Staffordshire Bull Terrier socializzati in casa" loading="lazy" decoding="async" width="400" height="300">
-  </div>
-  </div>
+  <p>Come si seleziona un carattere, cosa guardiamo nei riproduttori e cosa aspettarsi da un adulto: lo spieghiamo nella pagina sul <a href="/staffordshire-bull-terrier-carattere/" title="Temperamento dello Staffordshire Bull Terrier">temperamento dello Staffy</a>.</p>
 
-  <div class="zigzag-item">
-  <div class="zigzag-text">
-  <h3>Il cucciolo e la famiglia</h3>
-  <p>Lo Staffy è conosciuto come "nanny dog" per la sua pazienza con i bambini. È un cane che ama stare con le persone, partecipare alla vita quotidiana, essere parte integrante della famiglia. Non è un cane da giardino: è un compagno di vita.</p>
-  <p>I nostri cuccioli sono abituati fin da piccoli al contatto con bambini, imparando a giocare in modo appropriato e a gestire l'entusiasmo tipico dei più piccoli.</p>
-  </div>
-  <div class="zigzag-image">
-  <img src="/images/la-principessa-di-roma.avif" alt="Staffordshire Bull Terrier in famiglia" loading="lazy" decoding="async" width="400" height="300">
-  </div>
-  </div>
-  </div>
   </div>
   </section>
 
@@ -233,11 +194,10 @@ custom_content: |
   <span class="section-label">Linee di Sangue</span>
   <h2 class="section-title">Linee di sangue: Elitebull e Lackyle</h2>
 
-  <div class="intro-block">
-  <p>Lavoriamo con le migliori linee di sangue inglesi (Elitebull) e irlandesi (Lackyle). Ogni accoppiamento è studiato per migliorare la razza, rispettando lo standard e preservando la tipicità che rende unico lo Staffordshire Bull Terrier.</p>
-  <p>La linea Elitebull è conosciuta per la potenza, la testa massiccia e l'ossatura robusta. La linea Lackyle si distingue per l'eleganza, il movimento fluido e il carattere eccezionale.</p>
-  <p>Combinando queste linee otteniamo cuccioli versatili: belli da vedere, piacevoli da vivere, adatti sia alla famiglia che all'esposizione.</p>
-  </div>
+  <p>Lavoriamo su linee inglesi <strong>Elitebull</strong> e irlandesi <strong>Lackyle</strong>: le prime portano sostanza e testa, le seconde movimento e carattere. Ogni accoppiamento nasce dall'incrocio fra quello che una femmina d&agrave; e quello che le manca.</p>
+
+  <p>Che cosa significa in pratica, e come si legge una linea in un pedigree: nella pagina sulle <a href="/linee-sangue-staffordshire-bull-terrier/" title="Linee di sangue dello Staffordshire Bull Terrier">linee di sangue</a>.</p>
+
   </div>
   </section>
 
@@ -346,11 +306,6 @@ custom_content: |
   </section>
 
   <!--CORRELATI-->
-
-  <section class="dark-section">
-  <h2>La Nostra Passione</h2>
-  <p>Dal 2013 selezioniamo Staffordshire Bull Terrier con dedizione e amore. Ogni cucciolo che nasce nel nostro allevamento porta con sé anni di esperienza, studio e passione per questa razza straordinaria.</p>
-  </section>
 
   <section class="cta-section">
   <h2>Vuoi Saperne di Più?</h2>

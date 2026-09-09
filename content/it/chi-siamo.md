@@ -1,7 +1,7 @@
 ---
 title: "Chi Siamo"
 titleSeo: "Chi siamo: allevatori di Staffordshire Bull Terrier dal 2013"
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 tipoPagina: "ProfilePage"
 translationKey: "chi-siamo"
 description: "Allevamento Del Piccolo Diavolo: dal 2013 selezioniamo Staffordshire Bull Terrier sani, equilibrati e tipici. Ostellato (FE)."
@@ -34,13 +34,18 @@ custom_content: |
   </div>
   </div>
   </section>
-  
-  <div class="features-bar">
-  <div class="features-track">
-  <span>Dal 2013</span><span>Elitebull Lines</span><span>Lackyle Lines</span><span>L2HGA Clear</span><span>HC Clear</span><span>Pedigree ENCI</span><span>Ostellato FE</span>
-  <span>Dal 2013</span><span>Elitebull Lines</span><span>Lackyle Lines</span><span>L2HGA Clear</span><span>HC Clear</span><span>Pedigree ENCI</span><span>Ostellato FE</span>
+
+  <section class="section section-alt">
+  <div class="section-inner">
+  <span class="section-label">L'Allevatore</span>
+  <h2 class="section-title">Chi c'è dietro Del Piccolo Diavolo</h2>
+  <div class="content-block">
+  <p><strong>Paolo Boldrini</strong> alleva Staffordshire Bull Terrier dal 2013 a Ostellato, in provincia di Ferrara, con il nome Del Piccolo Diavolo.</p>
+  <p>Lavora su linee Elitebull (Inghilterra) e Lackyle (Irlanda) e testa tutti i riproduttori per L2HGA, HC e PHPV. Con <strong>Bilquis Goddess Diabhal</strong> ha conquistato il titolo di Campionessa Italiana di Bellezza ENCI e un quarto posto al World Dog Show di Zagabria nel 2024. Tutti i cuccioli sono affidati con pedigree ENCI e con i certificati dei test dei genitori.</p>
+  <p>Le pagine di questo sito sono scritte da lui, sulla base di quello che succede davvero in allevamento. Per domande sui cuccioli, sulle linee di sangue o sui test genetici: <a href="/allevamento-staffordshire-bull-terrier-in-emilia-romagna/">contattami direttamente</a>.</p>
   </div>
   </div>
+  </section>
   
     
   <section class="section section-alt">
@@ -88,25 +93,18 @@ custom_content: |
   </div>
   </section>
 
-  <section class="section">
-  <div class="section-inner">
-  <span class="section-label">Il Nostro Approccio</span>
-  <h2 class="section-title">Filosofia di Allevamento</h2>
-  
-  <div class="story-block">
-  <div class="story-text">
-  <h3>Qualità, Non Quantità</h3>
-  <p>1-2 cucciolate all'anno. Ogni accoppiamento è pianificato: studiamo pedigree, valutiamo compatibilità genetica, aspettiamo il momento giusto.</p>
-  <h3 style="margin-top:1.2rem">Selezione del Carattere</h3>
-  <p>Prima di inserire un soggetto nel programma, lo osserviamo per mesi: comportamento in casa, con estranei, altri cani, bambini. Deve essere sicuro, equilibrato, socievole.</p>
-  <p>Questo è ciò che distingue i nostri <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier allevati in famiglia">cuccioli Staffordshire Bull Terrier</a> dagli altri.</p>
-  </div>
-  <img src="/images/20250922175108-4a225f3e-sm--1-.webp" alt="Cuccioli Staffy neonati" class="story-img" width="247" height="288" loading="lazy" decoding="async">
-  </div>
-  
-  <p style="margin-top:1.5rem">Cosa accompagna un cucciolo quando lascia l'allevamento &mdash; pedigree, microchip, libretto, referti dei genitori &mdash; &egrave; elencato nella <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">pagina dei cuccioli</a>.</p>
+    <section class="section">
+  <div class="section-inner content-single">
+  <span class="section-label">Come lavoro</span>
+  <h2 class="section-title">Una o due cucciolate l'anno, a volte nessuna</h2>
+
+  <p>Ogni accoppiamento &egrave; pianificato: si studiano i pedigree, si valuta la compatibilit&agrave; genetica, si aspetta il momento giusto. Se quel momento non arriva, quell'anno non nasce niente.</p>
+
+  <p>Prima di usare un soggetto in riproduzione lo osservo per mesi: come sta in casa, con gli estranei, con gli altri cani, con i bambini. Un cane che non &egrave; sicuro di s&eacute; non entra nel programma, per bello che sia.</p>
+
   </div>
   </section>
+
   
   <!--CORRELATI-->
 
@@ -121,21 +119,18 @@ custom_content: |
 
   <p>E dico sempre una cosa, che vale come impegno: <strong>se un giorno non riuscite pi&ugrave; a tenerlo, il cane torna qui</strong>. Non &egrave; una formula gentile, &egrave; il motivo per cui scelgo con calma a chi affidarlo.</p>
 
+  
+  <a class="rimando" href="/femmine-staffordshire-bull-terrier/">
+  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, fattrice Del Piccolo Diavolo" width="88" height="88" loading="lazy" decoding="async">
+  <span>
+  <span class="ti">I cani su cui lavoro</span>
+  <span class="de">Otto femmine con microchip, test genetici e pedigree: il numero di cucciolate lo controlli su ENCI.</span>
+  </span>
+  </a>
   </div>
   </section>
 
-  <section class="section section-alt">
-  <div class="section-inner">
-  <span class="section-label">L'Allevatore</span>
-  <h2 class="section-title">Chi c'è dietro Del Piccolo Diavolo</h2>
-  <div class="content-block">
-  <p><strong>Paolo Boldrini</strong> alleva Staffordshire Bull Terrier dal 2013 a Ostellato, in provincia di Ferrara, con il nome Del Piccolo Diavolo.</p>
-  <p>Lavora su linee Elitebull (Inghilterra) e Lackyle (Irlanda) e testa tutti i riproduttori per L2HGA, HC e PHPV. Con <strong>Bilquis Goddess Diabhal</strong> ha conquistato il titolo di Campionessa Italiana di Bellezza ENCI e un quarto posto al World Dog Show di Zagabria nel 2024. Tutti i cuccioli sono affidati con pedigree ENCI e con i certificati dei test dei genitori.</p>
-  <p>Le pagine di questo sito sono scritte da lui, sulla base di quello che succede davvero in allevamento. Per domande sui cuccioli, sulle linee di sangue o sui test genetici: <a href="/allevamento-staffordshire-bull-terrier-in-emilia-romagna/">contattami direttamente</a>.</p>
-  </div>
-  </div>
-  </section>
-
+  
     
   <section class="cta-section">
   <h2>Vuoi Conoscerci?</h2>

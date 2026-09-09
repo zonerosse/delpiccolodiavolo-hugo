@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Reviews"
 titleSeo: "Staffordshire Bull Terrier reviews from our families"
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
 description: "Google reviews from owners of our Staffordshire Bull Terriers: real experiences, before and after the placement."
@@ -331,8 +331,4 @@ custom_content: |
   </div>
   </section>
   
-  <section class="dark-section">
-  <h2>Trust Is Built Over Time</h2>
-  <p>13 years of selection, dozens of happy families. Every puppy that leaves us carries the care, love and expertise that distinguish us.</p>
-  </section>
 ---

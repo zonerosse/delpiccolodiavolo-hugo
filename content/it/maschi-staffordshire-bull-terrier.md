@@ -1,7 +1,7 @@
 ---
 title: "Maschi Staffordshire Bull Terrier"
 titleSeo: "Maschi Staffordshire Bull Terrier: pedigree e test genetici"
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 tipoPagina: "CollectionPage"
 translationKey: "maschi"
 description: "I nostri maschi Staffordshire Bull Terrier: Lothar (Campione Sloveno e Giovane Campione Italiano), Braveheart e Papillon. Test genetici L2HGA e HC certificati."
@@ -136,11 +136,7 @@ custom_content: |
   </div>
   </section>
   
-  <section class="dark-section">
-  <h2>Integrità Genetica e Qualità</h2>
-  <p>Eliminando dal nostro programma i cani da riproduzione portatori di malattie genetiche, proteggiamo le generazioni future da potenziali problemi di salute, favorendo così una discendenza robusta e resistente.</p>
-  </section>
-  
+    
   <section class="cta-section">
   <h2>Vuoi Info sui Nostri Maschi?</h2>
   <p>Chiamaci o scrivici su WhatsApp per informazioni sui nostri riproduttori.</p>
