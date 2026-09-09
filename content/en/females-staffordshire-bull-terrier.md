@@ -64,6 +64,11 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">Our Females</span>
   <h2 class="section-title">Breeding Females</h2>
+
+  <div class="intro-block" style="margin-bottom:2rem">
+  <p><strong>How many litters, and how to check.</strong> Our females have <strong>two litters</strong> each on average. You do not have to take our word for it: under every name there is the microchip number, and with that the number of litters can be looked up in the <a href="https://www.enci.it/libro-genealogico/libro-genealogico-on-line" target="_blank" rel="noopener" title="ENCI stud book" aria-label="ENCI stud book (opens in a new tab)">ENCI stud book</a>.</p>
+  <p style="margin-bottom:0">When a dog lives elsewhere, the owner's name is given under hers. Because this is the kind of thing that <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious breeder">should always be verified</a>, not simply told.</p>
+  </div>
   
   <!-- BILQUIS - ITALIAN CHAMPION -->
   <article class="female-card female-featured">
@@ -142,11 +147,10 @@ custom_content: |
   </div>
   </article>
   
-  <!-- DIVINE - AVAILABLE FOR PLACEMENT -->
+  <!-- DIVINE -->
   <article class="female-card">
   <div class="female-header">
   <span class="stato-fattrice" style="display:inline-block;background:#efe9e0;color:#5c4a3a;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;padding:.35rem .8rem;border-radius:4px;margin-bottom:.5rem">Spayed — no longer breeding</span>
-  <span class="female-badge female-badge-affido">⚠️ AVAILABLE FOR PLACEMENT</span>
   <h3 class="female-name">Faiter Divine at Diabhal Staff</h3>
   </div>
   <div class="female-content">
@@ -154,14 +158,13 @@ custom_content: |
   <img src="/images/femmina-divine.webp" alt="Faiter Divine at Diabhal Staff — Staffordshire Bull Terrier" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="female-info">
+  <p><strong>Microchip:</strong> 643094100473511<br>
+  <strong>LOI:</strong> LO19125788</p>
   <p><strong>Genetic Tests:</strong> L2HGA & HC clear by DNA</p>
   <p><strong>PHPV:</strong> Unaffected</p>
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> CH. Dangerous Smile Black Shadow</p>
   <p><strong>Dam:</strong> CH. Sonrisa Feliz Keely Lariel</p>
-  <div class="affido-note">
-  <p>For Info: <a href="tel:+393924635584" style="color:#a33" title="Call for Divine placement info">+39 392 4635584</a></p>
-  </div>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Character.</strong> She has fire in her, if you let her: never tired, a proper nuisance. Then my son turns up and she changes &mdash; she climbs into the armchair and plays with the ball, nosing it like a seal.</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1775592" target="_blank" rel="noopener" title="View Divine pedigree on SBTPedigree" aria-label="View Divine pedigree on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
   </div>
@@ -179,6 +182,8 @@ custom_content: |
   <img src="/images/femmina-kennedy.webp" alt="Jackie Kennedy Great'n Glory — Staffordshire Bull Terrier" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="female-info">
+  <p><strong>Microchip:</strong> 276098104987682<br>
+  <strong>LOI:</strong> LO1610654</p>
   <p><strong>Genetic Tests:</strong> L2HGA & HC clear by DNA</p>
   <p><strong>PHPV:</strong> Unaffected</p>
   <p><strong>Dentition:</strong> Completely scissor bite</p>
@@ -201,6 +206,8 @@ custom_content: |
   <img src="/images/femmina-derry.webp" alt="Foyleoak Maiden Derry — Staffordshire Bull Terrier" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="female-info">
+  <p><strong>Microchip:</strong> 945000005024701<br>
+  <strong>LOI:</strong> LO1610667</p>
   <p><strong>HD:</strong> B</p>
   <p><strong>ED:</strong> A</p>
   <p><strong>Genetic Tests:</strong> L2HGA & HC clear by DNA</p>
@@ -225,6 +232,8 @@ custom_content: |
   <img src="/images/femmina-cattleya.webp" alt="Cattleya Del Piccolo Diavolo at Valconcaclan" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="female-info">
+  <p><strong>Microchip:</strong> 380260044549631<br>
+  <strong>LOI:</strong> LO2222029</p>
   <p><strong>Genetic Tests:</strong> L2HGA & HC clear by DNA</p>
   <p><strong>PHPV:</strong> Unaffected</p>
   <p><strong>Dentition:</strong> Completely scissor bite</p>
@@ -239,7 +248,7 @@ custom_content: |
   <!-- NORA -->
   <article class="female-card">
   <div class="female-header">
-  <span class="stato-fattrice" style="display:inline-block;background:#eef2f7;color:#37475a;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;padding:.35rem .8rem;border-radius:4px;margin-bottom:.5rem">Spayed — now owned by Roberto Barbieri</span>
+  <span class="stato-fattrice" style="display:inline-block;background:#eef2f7;color:#37475a;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;padding:.35rem .8rem;border-radius:4px;margin-bottom:.5rem">Spayed — owned by Roberto Barbieri</span>
   <span class="female-badge">🏆 Dam of 1 Italian Champion and 1 Junior Champion</span>
   <h3 class="female-name">Skilful-dogs Nora</h3>
   </div>
@@ -248,13 +257,15 @@ custom_content: |
   <img src="/images/nora-femmina-staffordshire-bull-terrier.avif" alt="Skilful-dogs Nora — Staffordshire Bull Terrier" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="female-info">
+  <p><strong>Microchip:</strong> 380260004336944<br>
+  <strong>LOI:</strong> LO2199721</p>
   <p><strong>Genetic Tests:</strong> L2HGA & HC clear by DNA</p>
   <p><strong>Degenerative Myelopathy:</strong> Clear</p>
   <p><strong>PHPV:</strong> Unaffected</p>
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> Skilful-Dogs Jeghër</p>
   <p><strong>Dam:</strong> Skilful-Dogs Red Skin</p>
-    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Character.</strong> We call her Yogi, after the bear. A bulldozer with no brakes, full of energy &mdash; and underneath it all a teddy bear for the armchair, the sofa, or the bed if you let her.</p>
+    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Character.</strong> We used to call her Yogi, after the bear: a bulldozer with no brakes, full of energy, and underneath it all a teddy bear for the armchair, the sofa, or the bed if you let her.</p>
   <a class="doc-link" href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" title="Download Nora genetic tests" aria-label="Download Nora genetic tests (opens in a new tab)">📄 Genetic Tests</a>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="View Nora pedigree on SBTPedigree" aria-label="View Nora pedigree on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
   </div>

@@ -7,7 +7,7 @@ image: "/images/blog/cucciolata-erba.avif"
 description: "Sette criteri per riconoscere un allevamento Staffordshire Bull Terrier serio, ognuno con il modo di verificarlo. Con i nostri documenti come esempio."
 slug: "come-scegliere-allevamento-staffordshire-bull-terrier"
 date: 2026-01-18
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 categories: ["Cuccioli"]
 ---
 
@@ -66,13 +66,33 @@ categories: ["Cuccioli"]
 
 <p><strong>Il nostro.</strong> Riceviamo su appuntamento a Ostellato, in provincia di Ferrara. Si vedono le madri, i cuccioli e la casa in cui crescono.</p>
 
-<h2>6. I documenti che accompagnano il cucciolo</h2>
+<h2>6. Cosa succede alla madre, dopo</h2>
+
+<p>Questa &egrave; la domanda che quasi nessuno fa, ed &egrave; quella che dice di pi&ugrave;: <strong>la madre del mio cucciolo dove sar&agrave; fra tre anni?</strong></p>
+
+<p>Il regolamento ENCI fissa un limite al numero di cucciolate che una femmina pu&ograve; fare, e oltre una certa et&agrave; per farla riprodurre serve un certificato veterinario. Sono paletti sensati. Il problema &egrave; chi li usa al contrario: non come limite da rispettare, ma come traguardo da raggiungere.</p>
+
+<p>C'&egrave; una formula che gira molto, e suona bene: <strong>affido del cuore</strong>. Un cane adulto collocato in una famiglia, gratis o quasi. Detta cos&igrave; sembra un gesto generoso, e a volte lo &egrave; davvero. Ma vale la pena guardare due cose.</p>
+
+<p><strong>Chi viene affidato.</strong> Quasi sempre femmine, e non &egrave; un caso. In un allevamento i maschi sono pochi o nessuno: si usano stalloni esterni, sia per non chiudere le linee sull'unico soggetto in casa, sia perch&eacute; un maschio da tenere deve valere davvero. Le femmine sono quelle che producono, e quindi le uniche che a un certo punto smettono.</p>
+
+<p><strong>Quando.</strong> Quasi sempre dopo l'ultima cucciolata consentita, o intorno ai sette-otto anni: esattamente nel momento in cui quella femmina smette di produrre. Non a due anni, non a quattro. Proprio l&igrave;.</p>
+
+<p><strong>Come si verifica, senza chiedere niente a nessuno.</strong> Il numero di cucciolate di una femmina si consulta sul <a href="https://www.enci.it/libro-genealogico/libro-genealogico-on-line" target="_blank" rel="noopener" title="Libro genealogico ENCI" aria-label="Libro genealogico ENCI (si apre in una nuova scheda)">libro genealogico ENCI</a>: serve il numero di microchip. Non devi fidarti di quello che ti dicono, puoi controllare &mdash; a patto che il microchip sia pubblico.</p>
+
+<p>Ed &egrave; qui che il criterio si chiude da solo: chi non pubblica i microchip delle proprie fattrici rende quel controllo impossibile. Pu&ograve; avere ragioni sue, ma il risultato &egrave; che sul numero di cucciolate hai soltanto la sua parola.</p>
+
+<p><strong>E poi chiedi comunque.</strong> Dove sono le femmine che hanno figliato negli anni scorsi, e se puoi vederle. Quante cucciolate fa una loro fattrice e cosa succede quando smette. Chi ha una risposta pronta ce l'ha perch&eacute; se l'&egrave; gi&agrave; posta.</p>
+
+<p><strong>Il nostro.</strong> I microchip delle nostre femmine sono in chiaro nelle <a href="/femmine-staffordshire-bull-terrier/" title="Le nostre femmine">loro schede</a>, proprio perch&eacute; quella verifica si possa fare senza passare da noi. Fanno in media due cucciolate ciascuna.</p>
+
+<h2>7. I documenti che accompagnano il cucciolo</h2>
 
 <p>Un cucciolo parte con pedigree ENCI, microchip registrato, libretto sanitario con vaccinazioni e date, e i referti dei genitori. Prima dei 60 giorni non può lasciare la madre: è un obbligo di legge, non una scelta dell'allevatore.</p>
 
 <p><strong>Come si verifica.</strong> Chiedi di vedere gli originali durante la visita, non fotocopie e non promesse. Poi controlla che il numero di microchip sul libretto coincida con quello letto dal veterinario alla prima visita: è un confronto di trenta secondi che quasi nessuno fa.</p>
 
-<h2>7. Le domande a cui deve saper rispondere</h2>
+<h2>8. Le domande a cui deve saper rispondere</h2>
 
 <p>Chi seleziona sa spiegare <em>perché</em> ha fatto un certo accoppiamento. Se la risposta è "sono due bei cani", dietro non c'è un programma.</p>
 

@@ -1,7 +1,7 @@
 ---
 title: "Zucht-Tagebuch"
 titleSeo: "Zuchttagebuch: Würfe, Daten und Gentests"
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 tipoPagina: "CollectionPage"
 articolo: true
 translationKey: "diario-allevamento"
@@ -31,4 +31,4 @@ Die Seiten verschwinden nicht, wenn die Welpen zu Hause sind. Sie bleiben mit ih
 
 Würfe vor 2026 — Mai 2025 und Februar 2025 — sind in unserem <a href="/de/wuerfe-staffordshire-bull-terrier/" title="Zuchtprogramm">Zuchtprogramm</a> beschrieben, zusammen mit den Verpaarungen und den Gründen dafür.
 
-Wenn Sie noch nicht wissen, worauf man bei einer Zucht achtet: unser <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie man eine seriöse Zucht erkennt">Ratgeber, wie man eine seriöse erkennt</a>, nennt sieben Kriterien und wie man jedes überprüft — bei uns wie bei allen anderen.
+Wenn Sie noch nicht wissen, worauf man bei einer Zucht achtet: unser <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie man eine seriöse Zucht erkennt">Ratgeber, wie man eine seriöse erkennt</a>, nennt acht Kriterien und wie man jedes überprüft — bei uns wie bei allen anderen.

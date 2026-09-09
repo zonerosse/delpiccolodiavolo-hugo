@@ -1,7 +1,7 @@
 ---
 title: "Diario Allevamento"
 titleSeo: "Diario dell'allevamento: cucciolate, date e test genetici"
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 tipoPagina: "CollectionPage"
 articolo: true
 translationKey: "diario-allevamento"
@@ -31,4 +31,4 @@ Le pagine non spariscono quando i cuccioli sono a casa loro. Restano con la loro
 
 Le cucciolate precedenti al 2026 — maggio 2025 e febbraio 2025 — sono raccontate nel <a href="/programma-allevamento/" title="Programma di allevamento">programma di allevamento</a>, insieme agli accoppiamenti e alle ragioni per cui li abbiamo scelti.
 
-Se non sai ancora cosa guardare in un allevamento, la <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento serio">guida su come riconoscerne uno serio</a> spiega i sette criteri e come verificarli — su di noi come su chiunque altro.
+Se non sai ancora cosa guardare in un allevamento, la <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento serio">guida su come riconoscerne uno serio</a> spiega i otto criteri e come verificarli — su di noi come su chiunque altro.
