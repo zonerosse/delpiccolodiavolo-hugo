@@ -7,7 +7,7 @@ image: "/images/blog/cucciolata-erba.avif"
 description: "Sieben Kriterien, um eine seriöse Staffordshire Bull Terrier Zucht zu erkennen, jedes mit der Art, es zu überprüfen. Mit unseren eigenen Unterlagen als Beispiel."
 slug: "wie-waehlt-man-eine-staffordshire-bull-terrier-zucht"
 date: 2026-01-18
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 categories: ["Cuccioli"]
 ---
 
@@ -66,13 +66,33 @@ categories: ["Cuccioli"]
 
 <p><strong>Unsere.</strong> Wir empfangen nach Terminvereinbarung in Ostellato, Provinz Ferrara. Sie sehen die Mütter, die Welpen und das Haus, in dem sie aufwachsen.</p>
 
-<h2>6. Die Unterlagen, die mit dem Welpen kommen</h2>
+<h2>6. Was danach mit der Mutter geschieht</h2>
+
+<p>Das ist die Frage, die fast niemand stellt, und sie sagt am meisten aus: <strong>wo wird die Mutter meines Welpen in drei Jahren sein?</strong></p>
+
+<p>Die ENCI-Regeln begrenzen die Zahl der W&uuml;rfe einer H&uuml;ndin, und ab einem bestimmten Alter braucht es f&uuml;r die Zucht ein tier&auml;rztliches Attest. Das sind sinnvolle Grenzen. Das Problem sind jene, die sie umgekehrt nutzen: nicht als Grenze, die man einh&auml;lt, sondern als Ziel, das man erreicht.</p>
+
+<p>Es gibt eine Formulierung, die viel benutzt wird und gut klingt: <strong>Vermittlung aus Liebe</strong>. Ein erwachsener Hund, der in eine Familie kommt, gratis oder fast. So gesagt klingt es gro&szlig;z&uuml;gig, und manchmal ist es das auch. Zwei Dinge lohnen aber den Blick.</p>
+
+<p><strong>Wer vermittelt wird.</strong> Fast immer H&uuml;ndinnen, und das ist kein Zufall. Eine Zucht h&auml;lt wenige R&uuml;den oder gar keine: man nutzt fremde Deckr&uuml;den, um die Linien nicht auf den einen Hund im Haus zu verengen, und weil ein R&uuml;de, den man beh&auml;lt, wirklich etwas taugen muss. Die H&uuml;ndinnen sind diejenigen, die produzieren &mdash; und damit die einzigen, die irgendwann aufh&ouml;ren.</p>
+
+<p><strong>Wann.</strong> Fast immer nach dem letzten erlaubten Wurf oder mit etwa sieben, acht Jahren: genau dann, wenn diese H&uuml;ndin aufh&ouml;rt zu produzieren. Nicht mit zwei, nicht mit vier. Genau dann.</p>
+
+<p><strong>Wie man es pr&uuml;ft, ohne jemanden zu fragen.</strong> Die Zahl der W&uuml;rfe einer H&uuml;ndin l&auml;sst sich im <a href="https://www.enci.it/libro-genealogico/libro-genealogico-on-line" target="_blank" rel="noopener" title="ENCI-Zuchtbuch" aria-label="ENCI-Zuchtbuch (wird in einem neuen Tab ge&ouml;ffnet)">ENCI-Zuchtbuch</a> nachschlagen: man braucht die Mikrochipnummer. Man muss also niemandem glauben &mdash; vorausgesetzt, der Mikrochip ist ver&ouml;ffentlicht.</p>
+
+<p>Und hier schlie&szlig;t sich das Kriterium von selbst: wer die Mikrochips seiner Zuchth&uuml;ndinnen nicht ver&ouml;ffentlicht, macht diese Pr&uuml;fung unm&ouml;glich. Es mag Gr&uuml;nde daf&uuml;r geben, aber das Ergebnis ist, dass man bei der Zahl der W&uuml;rfe nur sein Wort hat.</p>
+
+<p><strong>Fragen Sie trotzdem.</strong> Wo die H&uuml;ndinnen sind, die in den Vorjahren geworfen haben, und ob man sie sehen kann. Wie viele W&uuml;rfe eine ihrer H&uuml;ndinnen hat und was geschieht, wenn sie aufh&ouml;rt. Wer eine Antwort parat hat, hat sie, weil er sich die Frage selbst schon gestellt hat.</p>
+
+<p><strong>Unsere.</strong> Die Mikrochips unserer H&uuml;ndinnen stehen offen auf <a href="/de/huendinnen-staffordshire-bull-terrier/" title="Unsere H&uuml;ndinnen">ihren Seiten</a>, gerade damit sich diese Pr&uuml;fung ohne uns machen l&auml;sst. Sie haben im Schnitt zwei W&uuml;rfe.</p>
+
+<h2>7. Die Unterlagen, die mit dem Welpen kommen</h2>
 
 <p>Ein Welpe geht mit ENCI-Ahnentafel, registriertem Mikrochip, Impfpass mit Impfungen und Daten sowie den Befunden der Eltern. Vor dem 60. Lebenstag darf er die Mutter nicht verlassen: das ist in Italien gesetzlich vorgeschrieben, keine Entscheidung des Züchters.</p>
 
 <p><strong>Wie man es überprüft.</strong> Verlangen Sie beim Besuch die Originale, keine Kopien und keine Zusagen. Prüfen Sie dann, ob die Mikrochipnummer im Impfpass mit der übereinstimmt, die Ihr eigener Tierarzt beim ersten Termin ausliest — ein Vergleich von dreißig Sekunden, den fast niemand macht.</p>
 
-<h2>7. Die Fragen, die eine Zucht beantworten können muss</h2>
+<h2>8. Die Fragen, die eine Zucht beantworten können muss</h2>
 
 <p>Wer wirklich selektiert, kann erklären, <em>warum</em> eine bestimmte Verpaarung gemacht wurde. Lautet die Antwort "das sind zwei schöne Hunde", steckt kein Programm dahinter.</p>
 

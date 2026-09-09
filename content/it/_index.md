@@ -1,6 +1,6 @@
 ---
 title: "Allevamento Staffordshire Bull Terrier"
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 translationKey: "home"
 description: "Allevamento etico di Staffordshire Bull Terrier dal 2013. Pedigree ENCI, referti dei test genetici e microchip dei riproduttori pubblicati e verificabili."
 correlati:
@@ -153,7 +153,7 @@ custom_content: |
 
   <p>&Egrave; la parte che nessuno racconta volentieri, ed &egrave; anche la ragione per cui il resto sta in piedi: un allevamento che dichiara solo le cose belle non sta dando informazioni, sta facendo pubblicit&agrave;.</p>
 
-  <p>Se stai valutando noi, o un altro allevamento, la guida su <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento serio">come riconoscere un allevamento serio</a> elenca i sette criteri e come verificarli, su di noi come su chiunque altro.</p>
+  <p>Se stai valutando noi, o un altro allevamento, la guida su <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento serio">come riconoscere un allevamento serio</a> elenca i otto criteri e come verificarli, su di noi come su chiunque altro.</p>
 
   <p style="margin-top:2rem;padding-top:1.5rem;border-top:1px solid rgba(139,115,85,.2)">Come nasce una cucciolata &mdash; la scelta dei due riproduttori, le otto settimane in casa, l'abbinamento con la famiglia &mdash; lo raccontiamo nel <a href="/programma-allevamento/" title="Programma di allevamento">programma di allevamento</a>, insieme allo storico delle cucciolate.</p>
 

@@ -7,7 +7,7 @@ image: "/images/blog/cucciolata-erba.avif"
 description: "Seven criteria for recognising a serious Staffordshire Bull Terrier breeder, each with the way to verify it. With our own documents as the worked example."
 slug: "how-to-choose-a-staffordshire-bull-terrier-breeder"
 date: 2026-01-18
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 categories: ["Cuccioli"]
 ---
 
@@ -66,13 +66,33 @@ categories: ["Cuccioli"]
 
 <p><strong>Ours.</strong> We receive by appointment in Ostellato, in the province of Ferrara. You see the mothers, the puppies and the house they grow up in.</p>
 
-<h2>6. The documents that come with the puppy</h2>
+<h2>6. What happens to the mother afterwards</h2>
+
+<p>This is the question almost nobody asks, and it is the one that tells you most: <strong>where will my puppy's mother be in three years?</strong></p>
+
+<p>The ENCI rules set a limit on how many litters a bitch may have, and beyond a certain age a veterinary certificate is required to breed her. These are sensible limits. The problem is those who use them the other way round: not as a ceiling to respect, but as a target to reach.</p>
+
+<p>There is a phrase that gets used a lot, and it sounds good: <strong>rehoming from the heart</strong>. An adult dog placed with a family, free or nearly so. Put like that it sounds generous, and sometimes it genuinely is. But two things are worth looking at.</p>
+
+<p><strong>Who gets rehomed.</strong> Almost always females, and that is no accident. A kennel keeps few males or none: outside studs are used, both to avoid closing the lines around the one dog at home and because a male worth keeping has to be genuinely outstanding. Females are the ones who produce &mdash; and therefore the only ones who, at some point, stop.</p>
+
+<p><strong>When.</strong> Almost always after the last permitted litter, or around seven or eight years of age: exactly when that female stops producing. Not at two, not at four. Right then.</p>
+
+<p><strong>How to check, without asking anyone.</strong> The number of litters a bitch has had can be looked up in the <a href="https://www.enci.it/libro-genealogico/libro-genealogico-on-line" target="_blank" rel="noopener" title="ENCI stud book" aria-label="ENCI stud book (opens in a new tab)">ENCI stud book</a>: you need the microchip number. You do not have to take anyone's word for it &mdash; provided the microchip is public.</p>
+
+<p>And this is where the criterion closes itself: a breeder who does not publish the microchips of their brood bitches makes that check impossible. They may have their reasons, but the result is that on the number of litters you have only their word.</p>
+
+<p><strong>Ask anyway.</strong> Where are the females who whelped in previous years, and can you see them. How many litters one of their bitches has, and what happens when she stops. Anyone with an answer ready has it because they have already asked themselves the question.</p>
+
+<p><strong>Ours.</strong> The microchips of our females are in plain sight on <a href="/en/females-staffordshire-bull-terrier/" title="Our females">their pages</a>, precisely so that the check can be made without going through us. They have two litters each on average.</p>
+
+<h2>7. The documents that come with the puppy</h2>
 
 <p>A puppy leaves with an ENCI pedigree, a registered microchip, a health booklet with vaccinations and dates, and the parents' certificates. Before 60 days it cannot leave its mother: that is a legal obligation in Italy, not the breeder's choice.</p>
 
 <p><strong>How to verify.</strong> Ask to see the originals during your visit, not photocopies and not promises. Then check that the microchip number in the booklet matches the one your own vet reads at the first appointment: a thirty-second comparison almost nobody makes.</p>
 
-<h2>7. The questions a breeder must be able to answer</h2>
+<h2>8. The questions a breeder must be able to answer</h2>
 
 <p>Anyone who really selects can explain <em>why</em> a particular pairing was made. If the answer is "they are two good-looking dogs", there is no programme behind it.</p>
 
