@@ -1,7 +1,8 @@
 ---
 title: "Puppies: First Walk"
+date: 2025-09-17
 titleSeo: "A puppy's first walk: when to start and how"
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 translationKey: "passeggiata"
 articolo: true
 image: "/images/blog/cuccioli-5.webp"

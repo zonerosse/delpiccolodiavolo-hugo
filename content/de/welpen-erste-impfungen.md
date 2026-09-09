@@ -1,7 +1,8 @@
 ---
 title: "Welpen: Erste Impfungen"
+date: 2025-06-10
 titleSeo: "Erste Impfungen des Welpen: Plan und Auffrischung"
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/salute.webp"

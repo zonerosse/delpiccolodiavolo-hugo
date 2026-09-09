@@ -1,5 +1,6 @@
 ---
 title: "Viaggiare con Staffordshire Bull Terrier: Auto, Treno, Hotel"
+date: 2024-04-07
 lastmod: 2026-09-09
 translationKey: "viaggi"
 articolo: true

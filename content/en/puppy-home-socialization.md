@@ -1,7 +1,8 @@
 ---
 title: "Puppies: Home Socialization"
+date: 2025-03-18
 titleSeo: "Socialising a puppy at home: the first weeks"
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 translationKey: "socializzazione"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
