@@ -1,6 +1,6 @@
 ---
 title: "About Us - Staffordshire Bull Terrier Breeder"
-lastmod: 2026-09-06
+lastmod: 2026-09-09
 tipoPagina: "ProfilePage"
 translationKey: "chi-siamo"
 description: "Del Piccolo Diavolo kennel: breeding healthy, balanced and typical Staffordshire Bull Terriers since 2013. Ostellato, Italy."
@@ -71,8 +71,10 @@ custom_content: |
   <div class="story-block reverse">
   <div class="story-text">
   <h3>Why Elitebull and Lackyle</h3>
-  <p><strong>Elitebull</strong> (UK): typical head, compact structure, stable temperament. Show winners but above all balanced dogs.</p>
-  <p><strong>Lackyle</strong> (Ireland): athletic, excellent bone structure, sociable character. Perfect for families with children.</p>
+  <p>They are not two opposing styles, and it is not Ireland against England: they are two kennels that made the history of the breed, one before the other.</p>
+  <p><strong>Lackyle</strong> came first, and its historic dogs are found today in pedigrees across half of Europe. <strong>Elitebull</strong> is the one that weighs now — and its pedigrees carry precisely those iconic Lackyle dogs. Not two alternative lines, then: the second contains the first.</p>
+  <p>I work with them because they are documented and verifiable lines that produce predictably. That is what you need when a mating is planned rather than hoped for.</p>
+  <p>There is also a reason that is not technical. Those pedigrees carry <strong>Lackyle Diabhal Óg</strong> — Irish for the young devil — who to my mind remains one of the finest dogs of the modern era, together with everything he left behind him. <strong>Del Piccolo Diavolo</strong> is the translation of his name: the kennel is called that because of him.</p>
   </div>
   </div>
   </div>

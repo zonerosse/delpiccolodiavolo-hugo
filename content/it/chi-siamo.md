@@ -44,16 +44,15 @@ custom_content: |
   <p>Lavora su linee Elitebull (Inghilterra) e Lackyle (Irlanda) e testa tutti i riproduttori per L2HGA, HC e PHPV. Con <strong>Bilquis Goddess Diabhal</strong> ha conquistato il titolo di Campionessa Italiana di Bellezza ENCI e un quarto posto al World Dog Show di Zagabria nel 2024. Tutti i cuccioli sono affidati con pedigree ENCI e con i certificati dei test dei genitori.</p>
   <p>Le pagine di questo sito sono scritte da lui, sulla base di quello che succede davvero in allevamento. Per domande sui cuccioli, sulle linee di sangue o sui test genetici: <a href="/allevamento-staffordshire-bull-terrier-in-emilia-romagna/">contattami direttamente</a>.</p>
   </div>
-  </div>
   </section>
   
     
-  <section class="section section-alt">
+  <section class="section">
   <div class="section-inner">
   <span class="section-label">Come È Nato</span>
   <h2 class="section-title">La Nostra Storia</h2>
   
-  <div class="story-block" style="grid-template-columns:1fr">
+  <div class="story-block">
   <div class="story-text">
   <h3>Dal Crufts a Ostellato</h3>
   <p>La passione nasce nel 2005 al Crufts. Cercavo un cane con carattere forte ma gestibile: lo Staffy mi è apparso come un "Rottweiler in miniatura" – potente, determinato, incredibilmente affettuoso.</p>
@@ -62,16 +61,17 @@ custom_content: |
   <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo — Staffordshire Bull Terrier" class="story-img" width="350" height="354" loading="lazy" decoding="async">
   </div>
   
-  <div class="story-block reverse">
-  <div class="story-text">
+  <div class="content-block">
   <h3>Prima degli Staffy</h3>
   <p>Prima degli Staffordshire Bull Terrier ho allevato Rottweiler, e da quell'allevamento sono usciti un Campione Italiano e un Campione Europeo. Ho allevato canarini Gloster e li ho giudicati come giudice internazionale: valutare soggetti uno dopo l'altro, e dover spiegare perch&eacute; uno vale pi&ugrave; di un altro, &egrave; una scuola che con i cani serve pi&ugrave; di quanto sembri.</p>
 
   <p>Fra l'incontro con la razza e la prima cucciolata sono passati otto anni: il tempo di studiare lo standard, viaggiare in Inghilterra e in Irlanda e capire con quali linee volevo lavorare. La prima cucciolata Del Piccolo Diavolo &egrave; nata nel <strong>2013</strong>.</p>
 
   <h3>Perché Elitebull e Lackyle</h3>
-  <p><strong>Elitebull</strong> (UK): testa tipica, struttura compatta, temperamento stabile. Vincitori in expo ma soprattutto cani equilibrati.</p>
-  <p><strong>Lackyle</strong> (Irlanda): atletici, ottima ossatura, carattere socievole. Perfetti per famiglie con bambini.</p>
+  <p>Non sono due stili contrapposti, e non è una questione di Irlanda contro Inghilterra: sono due allevamenti che hanno fatto la storia della razza, uno prima e uno dopo.</p>
+  <p><strong>Lackyle</strong> è arrivato per primo, e i suoi soggetti storici si ritrovano oggi nei pedigree di mezza Europa. <strong>Elitebull</strong> è quello che pesa adesso — e nei suoi pedigree ci sono proprio i cani iconici di Lackyle. Non due linee alternative, quindi: la seconda porta dentro la prima.</p>
+  <p>Ci lavoro perché sono linee documentate e verificabili, che producono in modo prevedibile. È quello che serve quando un accoppiamento lo pianifichi, invece di sperare.</p>
+  <p>C'è anche un motivo che non è tecnico. In quei pedigree c'è <strong>Lackyle Diabhal Óg</strong> — in irlandese, il giovane diavolo — che per me resta uno dei migliori cani dell'epoca moderna, lui e tutto quello che ha lasciato dietro di sé. <strong>Del Piccolo Diavolo</strong> è la traduzione del suo nome: l'allevamento si chiama così per lui.</p>
   </div>
   </div>
   </div>
@@ -88,12 +88,12 @@ custom_content: |
 
   <p><strong>Cosa c'&egrave; dietro di lui.</strong> Non basta il cane: guardo il padre, la madre, i fratelli di cucciolata, e cosa ha prodotto se ha gi&agrave; figli. Un soggetto pu&ograve; essere migliore o peggiore della propria linea, e nella seconda generazione viene fuori.</p>
 
-  <p><strong>Cosa ha in mano il proprietario.</strong> Test genetici con il microchip sul referto, non promesse. Se un maschio &egrave; testato per due patologie e non per quattro, lo so prima e lo scrivo nella pagina della cucciolata, come per i genitori di Black Jack.</p>
+  <p><strong>Cosa ha in mano il proprietario.</strong> Referti dei test genetici con il numero di microchip sopra, non promesse. Se un maschio non &egrave; testato per tutto quello che serve, o se &egrave; esente solo per discendenza, lo so prima di accoppiare e lo scrivo nella pagina di quella cucciolata: chi legge deve poterlo sapere quanto me.</p>
 
   </div>
   </section>
 
-    <section class="section">
+    <section class="section section-alt">
   <div class="section-inner content-single">
   <span class="section-label">Come lavoro</span>
   <h2 class="section-title">Una o due cucciolate l'anno, a volte nessuna</h2>
@@ -106,8 +106,7 @@ custom_content: |
   </section>
 
   
-  <!--CORRELATI-->
-
+  
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Affido</span>
@@ -132,6 +131,8 @@ custom_content: |
 
   
     
+  <!--CORRELATI-->
+
   <section class="cta-section">
   <h2>Vuoi Conoscerci?</h2>
   <p>Vieni a trovarci a Ostellato (FE) o contattaci su WhatsApp</p>
