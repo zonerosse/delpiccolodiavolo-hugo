@@ -6,7 +6,7 @@ lastmod: 2026-09-09
 translationKey: "leggere-pedigree"
 articolo: true
 image: "/images/blog/pedigree-queen-hero.webp"
-description: "Cosa mostra davvero un certificato ENCI, cosa aggiunge SBTPedigree e come si usa il test mating per studiare un accoppiamento. Con i numeri veri di una nostra cucciolata."
+description: "Cosa mostra davvero un certificato ENCI, cosa aggiunge SBTPedigree e come si usa il test mating per studiare un accoppiamento prima di farlo."
 slug: "come-si-legge-un-pedigree"
 categories: ["Standard e Linee di Sangue"]
 custom_content: |
