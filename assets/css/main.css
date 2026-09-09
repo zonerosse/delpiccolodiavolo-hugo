@@ -118,3 +118,29 @@ letter-spacing:.03em;padding:.55rem 1.5rem;text-transform:uppercase}
 .article-content tbody tr:last-child td,.section-inner tbody tr:last-child td,.content-single tbody tr:last-child td{border-bottom:0}
 .article-content tbody tr:nth-child(even),.section-inner tbody tr:nth-child(even),.content-single tbody tr:nth-child(even){background:#faf8f5}
 .article-content td strong,.section-inner td strong,.content-single td strong{color:#5c4a3a}
+
+/* Link dentro il testo scorrevole. La regola generale toglie colore e
+   sottolineatura a tutti i link, e va bene per menu, pulsanti e schede:
+   dentro un paragrafo pero' li rende invisibili. Qui li si riporta a
+   qualcosa che si riconosce come link, senza toccare il resto. */
+.article-content p a:not(.btn),
+.article-content li a:not(.btn),
+.content-single p a:not(.btn),
+.content-single li a:not(.btn),
+.section-inner p a:not(.btn):not(.doc-link):not(.pedigree-link),
+.section-inner li a:not(.btn):not(.doc-link):not(.pedigree-link){
+  color:#8b5a2b;
+  text-decoration:underline;
+  text-underline-offset:2px;
+  text-decoration-thickness:1px;
+  text-decoration-color:rgba(139,90,43,.45)
+}
+.article-content p a:not(.btn):hover,
+.article-content li a:not(.btn):hover,
+.content-single p a:not(.btn):hover,
+.content-single li a:not(.btn):hover,
+.section-inner p a:not(.btn):hover,
+.section-inner li a:not(.btn):hover{
+  color:#6b4423;
+  text-decoration-color:currentColor
+}
