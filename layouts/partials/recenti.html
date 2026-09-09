@@ -3,32 +3,37 @@
 
   Serve a far emergere quello che si scrive: le schede del blog sono
   raggruppate per categoria, e un articolo nuovo finisce in mezzo ai vecchi.
-  Questo blocco lo mostra sempre in cima, senza doverlo aggiungere a mano.
+  Questo blocco lo mostra sempre in cima, senza aggiungerlo a mano.
 
   Si inserisce nel contenuto con il segnaposto <!--RECENTI-->.
-  Prende le pagine con «articolo: true» della lingua corrente, ordinate per
-  data, escluse quelle noindex.
+
+  NOTA: usa solo costrutti supportati anche da Hugo 0.140, la versione che
+  gira su Cloudflare Pages. In locale gira una versione piu' recente, quindi
+  una funzione nuova passerebbe qui e romperebbe il build in produzione.
 */}}
 {{- $lang := .Site.Language.Lang -}}
-{{- $tit := cond (eq $lang "de") "Zuletzt ver&ouml;ffentlicht" (cond (eq $lang "en") "Latest articles" "Ultimi articoli") -}}
-{{- $leggi := cond (eq $lang "de") "Lesen" (cond (eq $lang "en") "Read") "Leggi" -}}
+{{- $tit := "Ultimi articoli" -}}
+{{- $et := "Novità" -}}
+{{- $leggi := "Leggi" -}}
+{{- if eq $lang "en" }}{{ $tit = "Latest articles" }}{{ $et = "New" }}{{ $leggi = "Read" }}{{ end -}}
+{{- if eq $lang "de" }}{{ $tit = "Zuletzt veröffentlicht" }}{{ $et = "Neu" }}{{ $leggi = "Lesen" }}{{ end -}}
 
-{{- $recenti := where (where .Site.RegularPages "Params.articolo" true) "Params.noindex" "!=" true -}}
-{{/* le cucciolate stanno nel diario e hanno una loro pagina: qui vanno le guide */}}
-{{- $recenti = where $recenti "Section" "!=" "diario-allevamento" -}}
-{{- $recenti = first 3 (sort $recenti "Date" "desc") -}}
+{{- $tutti := where .Site.RegularPages "Params.articolo" true -}}
+{{- $tutti = where $tutti "Section" "!=" "diario-allevamento" -}}
+{{- $tutti = where $tutti "Params.noindex" "!=" true -}}
+{{- $recenti := first 3 $tutti.ByDate.Reverse -}}
 
-{{- with $recenti }}
+{{- if $recenti }}
 <section class="section">
 <div class="section-inner">
-<span class="section-label">{{ cond (eq $lang "de") "Neu" (cond (eq $lang "en") "New" "Novit&agrave;") }}</span>
+<span class="section-label">{{ $et }}</span>
 <h2 class="section-title">{{ $tit }}</h2>
 <div class="blog-grid">
-{{ range . }}
+{{ range $recenti }}
   <article class="blog-card">
-  <a href="{{ .RelPermalink }}" title="{{ $leggi }}: {{ .Title }}"><div class="blog-card-thumb"><img src="{{ .Params.image | default "/images/blog/hero-default.webp" }}" alt="{{ .Title }}" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="{{ .RelPermalink }}" title="{{ $leggi }}: {{ .Title }}"><div class="blog-card-thumb"><img src="{{ with .Params.image }}{{ . }}{{ else }}/images/blog/hero-default.webp{{ end }}" alt="{{ .Title }}" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
-  <div class="blog-card-meta"><span class="date">{{ .Date | time.Format ":date_medium" }}</span></div>
+  <div class="blog-card-meta"><span class="date">{{ .Date.Format "2 January 2006" }}</span></div>
   <h3><a href="{{ .RelPermalink }}" title="{{ $leggi }}: {{ .Title }}">{{ .Title }}</a></h3>
   {{ with .Description }}<p>{{ . }}</p>{{ end }}
   <a class="read" href="{{ .RelPermalink }}" aria-label="{{ $leggi }}: {{ .Title }}">{{ $leggi }} &rarr;</a>
