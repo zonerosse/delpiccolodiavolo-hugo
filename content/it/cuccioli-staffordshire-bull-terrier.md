@@ -93,28 +93,6 @@ custom_content: |
   <p>Seguiamo un protocollo di socializzazione che include: manipolazione quotidiana, esposizione a rumori domestici, interazione con persone di età diverse, gioco con altri cani, esperienze positive con ambienti esterni.</p>
   <p>Approfondisci nel nostro <a href="/blog/" title="Blog Staffordshire Bull Terrier">blog sul Staffordshire Bull Terrier</a> con guide pratiche su socializzazione, alimentazione e salute.</p>
   </div>
-
-  <div class="zigzag">
-  <div class="zigzag-item">
-  <div class="zigzag-text">
-  <h3>I primi 21 giorni: la fase neonatale</h3>
-  <p>Nelle prime 3 settimane i cuccioli sono completamente dipendenti dalla madre. In questa fase monitoriamo attentamente la crescita, il peso e lo sviluppo di ogni cucciolo. La manipolazione delicata inizia fin dai primi giorni per abituare i cuccioli al contatto umano.</p>
-  </div>
-  <div class="zigzag-image">
-  <img src="/images/cuccioli-bilquis-nati-2.webp" alt="Cuccioli Staffordshire Bull Terrier neri appena nati - fase neonatale" loading="lazy" decoding="async" width="468" height="480" style="height:auto">
-  </div>
-  </div>
-
-  <div class="zigzag-item">
-  <div class="zigzag-text">
-  <h3>Da 21 a 60 giorni: socializzazione attiva</h3>
-  <p>Questo è il periodo più critico. I cuccioli iniziano a esplorare, giocare tra loro e interagire con l'ambiente. In questa fase vengono introdotti a: rumori domestici (aspirapolvere, TV, campanello), persone diverse (adulti, bambini, anziani), superfici varie (prato, pavimento, cemento), altri animali (se presenti).</p>
-  </div>
-  <div class="zigzag-image">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis Del Piccolo Diavolo — Staffordshire Bull Terrier" loading="lazy" decoding="async" width="400" height="300">
-  </div>
-  </div>
-  </div>
   </div>
   </section>
 

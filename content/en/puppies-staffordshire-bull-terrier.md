@@ -80,26 +80,8 @@ custom_content: |
   <h2 class="section-title">Our Approach</h2>
   
   <div class="zigzag">
-  <div class="zigzag-item">
-  <div class="zigzag-text">
-  <h3>Character and Intelligence</h3>
-  <p>The Staffordshire Bull Terrier is an extraordinary breed: intelligent, courageous and incredibly affectionate. Our puppies inherit these qualities from carefully selected parents, ensuring a balanced character and a natural predisposition to family life.</p>
-  </div>
-  <div class="zigzag-image">
-  <img src="/images/cuccioli-bilquis-nati-2.webp" alt="Newborn black Staffordshire Bull Terrier puppies - neonatal phase" loading="lazy" decoding="async" width="468" height="480" style="height:auto">
-  </div>
-  </div>
-  
-  <div class="zigzag-item">
-  <div class="zigzag-text">
-  <h3>Morphological Selection</h3>
-  <p>We work with the best English (Elitebull) and Irish (Lackyle) bloodlines. Every pairing is designed to improve the breed, respecting the standard and preserving the typicality that makes the Staffordshire Bull Terrier unique.</p>
-  </div>
-  <div class="zigzag-image">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis Del Piccolo Diavolo — Staffordshire Bull Terrier" loading="lazy" decoding="async" width="400" height="300">
-  </div>
-  </div>
-  
+
+    
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Temperament and Socialization</h3>
