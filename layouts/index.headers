@@ -29,6 +29,34 @@
 /docs/*
   Cache-Control: public, max-age=86400
 
+# Sitemap, robots e i file per gli agenti AI: rigenerati a ogni build e
+# letti da chi decide quanto spesso tornare. Devono essere sempre freschi.
+# max-age=0 con must-revalidate non significa riscaricare ogni volta: il
+# client chiede se e' cambiato e riceve un 304 quando non lo e'.
+/*.xml
+  Cache-Control: public, max-age=0, must-revalidate
+
+/llms.txt
+  Cache-Control: public, max-age=0, must-revalidate
+
+/llms-full.txt
+  Cache-Control: public, max-age=0, must-revalidate
+
+/en/llms.txt
+  Cache-Control: public, max-age=0, must-revalidate
+
+/en/llms-full.txt
+  Cache-Control: public, max-age=0, must-revalidate
+
+/de/llms.txt
+  Cache-Control: public, max-age=0, must-revalidate
+
+/de/llms-full.txt
+  Cache-Control: public, max-age=0, must-revalidate
+
+/robots.txt
+  Cache-Control: public, max-age=86400
+
 /fonts/*
   Cache-Control: public, max-age=2592000
 
