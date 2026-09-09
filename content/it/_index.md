@@ -55,15 +55,31 @@ custom_content: |
   </div>
   </div>
 
-  <!--NEWS-->
-
   <section class="section">
   <div class="section-inner">
-  <div class="callout" style="max-width:700px;margin:0 auto;text-align:center">
-  <h2 class="callout-title" style="font-size:1.15rem;margin:0 0 .6rem">FerraraToday: la storia di Bilquis, Campionessa Italiana</h2>
-  <p><strong>FerraraToday</strong> — 6 gennaio 2026<br>
-  "Da Ferrara alla conquista del mondo: Bilquis, la cagnolina di 3 anni che fa incetta di premi"</p>
-  <p><a href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" target="_blank" rel="noopener" title="Leggi l'articolo su FerraraToday" aria-label="Leggi l'articolo su FerraraToday (si apre in una nuova scheda)">Leggi l'articolo &rarr;</a></p>
+  <span class="section-label">I nostri cuccioli</span>
+  <h2 class="section-title">Nati e cresciuti qui, a Ostellato</h2>
+
+  <div class="gallery-grid">
+  <div class="gallery-item"><img src="/images/foto1.avif" alt="Cucciolo di Staffordshire Bull Terrier nero tenuto in mano" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/foto2.avif" alt="Cucciolo di Staffordshire Bull Terrier nero di poche settimane" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/foto4.avif" alt="Cucciolo di Staffordshire Bull Terrier in braccio, primo piano" loading="lazy" decoding="async" width="300" height="400"></div>
+  </div>
+
+  <p style="text-align:center;margin-top:1.5rem"><a class="btn" href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">Come nascono e crescono</a></p>
+  </div>
+  </section>
+
+  
+  <section class="section">
+  <div class="section-inner">
+  <div style="max-width:760px;margin:0 auto;display:grid;grid-template-columns:88px 1fr;gap:1.2rem;align-items:center;background:#fff;border:1px solid #e6ddd4;border-radius:10px;padding:1rem 1.2rem">
+  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Campionessa Italiana" width="88" height="88" loading="lazy" decoding="async" style="width:88px;height:88px;object-fit:cover;border-radius:8px">
+  <div>
+  <p style="font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:#8b5a2b;font-weight:700;margin:0 0 .25rem">Ne hanno parlato &middot; 6 gennaio 2026</p>
+  <h2 style="font-family:Georgia,'Times New Roman',serif;font-size:1.05rem;color:#5c4a3a;margin:0 0 .3rem;line-height:1.4">&ldquo;Da Ferrara alla conquista del mondo: Bilquis, la cagnolina di 3 anni che fa incetta di premi&rdquo;</h2>
+  <p style="margin:0;font-size:.88rem;color:#6b5d52"><strong>FerraraToday</strong> &middot; <a href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" target="_blank" rel="noopener" title="Leggi l'articolo su FerraraToday" aria-label="Leggi l'articolo su FerraraToday (si apre in una nuova scheda)">leggi l'articolo &rarr;</a></p>
+  </div>
   </div>
   </div>
   </section>
@@ -85,6 +101,14 @@ custom_content: |
 
   <p style="margin-top:2rem;padding-top:1.5rem;border-top:1px solid rgba(139,115,85,.2)">Chi c'&egrave; dietro tutto questo, e come dai Rottweiler si arriva agli Staffy: lo racconto in <a href="/chi-siamo/" title="Chi siamo">chi siamo</a>.</p>
 
+  
+  <a class="rimando" href="/come-scegliere-allevamento-staffordshire-bull-terrier/">
+  <img src="/images/blog/cucciolata-erba.avif" alt="Cuccioli di Staffordshire Bull Terrier con la madre" width="88" height="88" loading="lazy" decoding="async">
+  <span>
+  <span class="ti">Come riconoscere un allevamento serio</span>
+  <span class="de">Otto criteri e il modo di verificarli, su di noi come su chiunque altro.</span>
+  </span>
+  </a>
   </div>
   </section>
 
@@ -113,13 +137,6 @@ custom_content: |
   <div class="reviewer"><span>Gianluca Ravera</span><span class="stars">★★★★★</span></div>
   <p style="margin-top:.6rem;font-size:.82rem"><a href="https://search.google.com/local/reviews?placeid=ChIJqV8xIv1rfkcRQK_6v1XiVNE" target="_blank" rel="noopener" title="Leggi la recensione originale su Google" style="color:#8b5a2b;font-weight:600" aria-label="Leggi la recensione su Google (si apre in una nuova scheda)">Leggi la recensione su Google &rarr;</a></p>
   </div>
-
-    <div class="gallery-grid">
-  <div class="gallery-item"><img src="/images/foto1.avif" alt="Cucciolo di Staffy nero appena nato tenuto in braccio" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/foto2.avif" alt="Piccolo Staffy nero con macchia bianca sul petto" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/foto4.avif" alt="Cucciolo nero di pochi giorni dell'allevamento Del Piccolo Diavolo" loading="lazy" decoding="async" width="300" height="400"></div>
-  </div>
-
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Verificabile</span>
@@ -157,6 +174,14 @@ custom_content: |
 
   <p style="margin-top:2rem;padding-top:1.5rem;border-top:1px solid rgba(139,115,85,.2)">Come nasce una cucciolata &mdash; la scelta dei due riproduttori, le otto settimane in casa, l'abbinamento con la famiglia &mdash; lo raccontiamo nel <a href="/programma-allevamento/" title="Programma di allevamento">programma di allevamento</a>, insieme allo storico delle cucciolate.</p>
 
+  
+  <a class="rimando" href="/femmine-staffordshire-bull-terrier/">
+  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, fattrice Del Piccolo Diavolo" width="88" height="88" loading="lazy" decoding="async">
+  <span>
+  <span class="ti">Le nostre femmine, una per una</span>
+  <span class="de">Microchip, test genetici e pedigree: da lì verifichi genealogie e cucciolate.</span>
+  </span>
+  </a>
   </div>
   </section>
 
@@ -200,92 +225,14 @@ custom_content: |
   <p style="font-size:0.9rem;color:#4a3f35;margin-bottom:1rem">Risultati ottenuti con cani allevati e cresciuti da noi, non acquistati già titolati.</p>
   <a href="/palmares-del-piccolo-diavolo/" class="btn btn-primary" title="Vedi tutti i risultati" style="min-height:44px;display:inline-flex;align-items:center">Vedi Tutti i Risultati</a>
   </div>
-  </div>
-  </section>
-
-  <section class="section">
-  <div class="section-inner">
-  <span class="section-label">Chi Siamo</span>
-  <h2 class="section-title">Dove crescono i cuccioli, e chi c’è dietro</h2>
-
-  <div class="content-block">
-  <p style="font-size:.8rem;color:#8b5a2b;font-weight:600;letter-spacing:.08em;text-transform:uppercase;margin-bottom:.5rem">Paolo Boldrini — Allevatore dal 2013</p>
-  <h3>Il mio percorso con lo Staffordshire Bull Terrier</h3>
-  <p>Il mio primo Staffordshire Bull Terrier è arrivato in un momento speciale. Da quel giorno ho studiato, viaggiato, conosciuto altri allevatori e vissuto ogni giorno con questi cani straordinari. Ogni scelta nasce dall'esperienza e dal desiderio di offrire il meglio.</p>
-  </div>
-
-  <div class="content-block">
-  <h3>Come passa una giornata, qui</h3>
-  <p>Ogni mattina inizia con saluti, corse nel prato e momenti di gioco. I nostri Staffordshire Bull Terrier vivono con noi, in casa e in giardino, imparano a conoscere suoni, odori e persone diverse. Crescono sereni, in un ambiente ricco di stimoli e affetto.</p>
-  </div>
-  </div>
-  </section>
-
-  <section class="section">
-  <div class="section-inner">
-  <span class="section-label">Il Nostro Approccio</span>
-  <h2 class="section-title">Cosa ottieni da un allevamento di Staffy con pedigree ENCI</h2>
-
-  <div class="intro-block" style="text-align:left">
-  <p>Scegliere Del Piccolo Diavolo significa affidarsi a un allevamento di Staffy che mette al primo posto salute, carattere e trasparenza, con un rapporto che continua anche dopo l'affido. Ecco perché le famiglie ci scelgono e ci consigliano.</p>
-  </div>
-
-  <div class="content-block">
-  <h3>Sai da chi nasce il tuo cucciolo</h3>
-  <p>Perché qui non sei un numero. Ti raccontiamo tutto sui genitori, ti accogliamo in casa, ti accompagniamo anche dopo l'adozione. Se vuoi, puoi scegliere il nome insieme a noi.</p>
-  </div>
-
-  <div class="image-center">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis in posizione da esposizione sul ring, femmina nera dell'allevamento" loading="lazy" decoding="async" width="350" height="440">
-  </div>
-
-  <div class="content-block">
-  <h3>Nessun accoppiamento senza test</h3>
-  <p>Ogni soggetto è seguito da veterinari di fiducia, con controlli regolari e test genetici. Preferiamo poche cucciolate, seguite con attenzione, per garantire qualità e benessere.</p>
-  </div>
-
-  <div class="content-block">
-  <h3>Un cane che ti segue ovunque</h3>
-  <p>Lo Staffy è forte, affettuoso, giocherellone. Ama i bambini e si lega profondamente alla famiglia. Se cerchi un amico sincero, che ti segua ovunque e ti faccia sorridere ogni giorno, sei nel posto giusto.</p>
-  </div>
-  </div>
-  </section>
-
-  <section class="section section-alt">
-  <div class="section-inner">
-  <span class="section-label">Risorse Gratuite</span>
-  <h2 class="section-title">Cosa sapere prima di prendere uno Staffy</h2>
-
-  <p style="text-align:center;margin-bottom:1.5rem">Tutto quello che devi sapere prima e dopo l'arrivo del tuo Staffy.</p>
-
-  <div class="guide-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1rem;margin-bottom:1.5rem">
-  <a href="/cuccioli-socializzazione-in-casa/" class="guide-card" style="display:block;padding:1.2rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08);min-height:44px">
-  <strong style="color:#7a5c00">Socializzazione</strong><br>
-  <span style="font-size:0.9rem">Come preparare il cane al mondo</span>
+  
+  <a class="rimando" href="/cuccioli-staffordshire-bull-terrier/">
+  <img src="/images/primo-piano-cucciolo.avif" alt="Cucciolo di Staffordshire Bull Terrier" width="88" height="88" loading="lazy" decoding="async">
+  <span>
+  <span class="ti">Come nasce e cresce una cucciolata</span>
+  <span class="de">Dal calore al parto, e cosa succede nelle otto settimane successive.</span>
+  </span>
   </a>
-  <a href="/cuccioli-prime-vaccinazioni/" class="guide-card" style="display:block;padding:1.2rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08);min-height:44px">
-  <strong style="color:#7a5c00">Vaccinazioni</strong><br>
-  <span style="font-size:0.9rem">Calendario e consigli pratici</span>
-  </a>
-  <a href="/cuccioli-alimentazione-iniziale/" class="guide-card" style="display:block;padding:1.2rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08);min-height:44px">
-  <strong style="color:#7a5c00">Alimentazione</strong><br>
-  <span style="font-size:0.9rem">Cosa e quanto dare da mangiare</span>
-  </a>
-  <a href="/cuccioli-gestione-solitudine/" class="guide-card" style="display:block;padding:1.2rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08);min-height:44px">
-  <strong style="color:#7a5c00">Gestire la Solitudine</strong><br>
-  <span style="font-size:0.9rem">Evitare ansia da separazione</span>
-  </a>
-  </div>
-
-  <div style="text-align:center;padding:1.5rem;background:#5c4a3a;border-radius:12px;color:#fff">
-  <p style="margin:0 0 0.5rem 0;font-size:1.1rem"><strong>Scarica Subito - PDF Gratuito</strong></p>
-  <p style="margin:0 0 1rem 0;font-size:0.95rem;opacity:0.9">Tutto quello che devi sapere prima dell'arrivo</p>
-  <a href="/docs/guida-primi-mesi-cucciolo-staffy.pdf" class="btn" style="background:#8b7300;color:#fff;padding:1rem 1.8rem;border-radius:6px;text-decoration:none;display:inline-block;min-height:44px;font-weight:600" title="Scarica la guida gratuita" aria-label="Scarica la guida PDF gratuita sui primi mesi con il cucciolo Staffy">Scarica "I Primi Mesi con il Tuo Cucciolo Staffy"</a>
-  </div>
-
-  <div style="text-align:center;margin-top:1rem">
-  <a href="/blog/" class="btn btn-ghost" title="Blog Staffordshire Bull Terrier">Vai al Blog Staffordshire Bull Terrier →</a>
-  </div>
   </div>
   </section>
 
@@ -325,7 +272,7 @@ custom_content: |
   </div>
 
   <div style="text-align:center;margin-top:1.5rem">
-  <a href="/faq-sullo-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="Vedi tutte le FAQ">Vedi Tutte le 28 FAQ</a>
+  <a href="/faq-sullo-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="Vedi tutte le FAQ">Vedi tutte le domande frequenti</a>
   </div>
   </div>
   </section>

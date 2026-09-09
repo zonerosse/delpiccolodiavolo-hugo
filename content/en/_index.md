@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Kennel"
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 translationKey: "home"
 description: "Ethical Staffordshire Bull Terrier kennel since 2013. ENCI pedigree, genetic test reports and breeding stock microchips published online and verifiable."
 correlati:
@@ -55,8 +55,7 @@ custom_content: |
   </div>
   </div>
   
-  <!--NEWS-->
-
+  
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Our Puppies</span>
@@ -71,9 +70,9 @@ custom_content: |
 
   
   <div class="gallery-grid">
-  <div class="gallery-item"><img src="/images/foto1.avif" alt="Black Staffy puppy just born, held in hands" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/foto2.avif" alt="Little black Staffy puppy with a white chest marking" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/foto4.avif" alt="Black puppy a few days old from Del Piccolo Diavolo kennel" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/foto1.avif" alt="Staffordshire Bull Terrier puppy held in a hand" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/foto2.avif" alt="Black Staffordshire Bull Terrier puppy a few weeks old" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/foto4.avif" alt="Staffordshire Bull Terrier puppy in arms, close up" loading="lazy" decoding="async" width="300" height="400"></div>
   </div>
   
   
@@ -81,6 +80,14 @@ custom_content: |
   <a href="/en/puppies-staffordshire-bull-terrier/" class="btn btn-primary" title="Discover our puppies">Discover Puppies</a>
   <a href="/en/litters-staffordshire-bull-terrier/" class="btn btn-ghost" title="See available puppies" style="margin-left:.5rem">Available Puppies</a>
   </div>
+  
+  <a class="rimando" href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/">
+  <img src="/images/blog/cucciolata-erba.avif" alt="Staffordshire Bull Terrier puppies with their mother" width="88" height="88" loading="lazy" decoding="async">
+  <span>
+  <span class="ti">How to recognise a serious breeder</span>
+  <span class="de">Eight criteria and how to check each one, on us as much as on anyone else.</span>
+  </span>
+  </a>
   </div>
   </section>
   
@@ -126,26 +133,17 @@ custom_content: |
   <p style="font-size:0.9rem;color:#4a3f35;margin-bottom:1rem">Results achieved with dogs bred and raised by us, not purchased already titled.</p>
   <a href="/en/palmares/" class="btn btn-primary" title="See all results">See All Results</a>
   </div>
+  
+  <a class="rimando" href="/en/puppies-staffordshire-bull-terrier/">
+  <img src="/images/primo-piano-cucciolo.avif" alt="Staffordshire Bull Terrier puppy" width="88" height="88" loading="lazy" decoding="async">
+  <span>
+  <span class="ti">How a litter is born and raised</span>
+  <span class="de">From the season to the whelping, and the eight weeks that follow.</span>
+  </span>
+  </a>
   </div>
   </section>
-  
-  <section class="section">
-  <div class="section-inner">
-  <span class="section-label">About Us</span>
-  <h2 class="section-title">Where the puppies grow up, and who is behind them</h2>
-  
-  <div class="content-block">
-  <h3>A project that became a Kennel</h3>
-  <p>My first Staffordshire Bull Terrier arrived at a special moment. From that day I studied, traveled, met other breeders and lived every day with these extraordinary dogs. Every choice comes from experience and the desire to offer the best.</p>
-  </div>
-  
-  <div class="content-block">
-  <h3>Daily life in our kennel</h3>
-  <p>Every morning begins with greetings, runs in the meadow and cuddles with the puppies. Our Staffys live with us, in the house and garden, learning to know different sounds, smells and people. They grow up serene, in an environment full of stimuli and affection.</p>
-  </div>
-  </div>
-  </section>
-  
+
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Our Approach</span>
@@ -171,41 +169,7 @@ custom_content: |
   </div>
   </div>
   </section>
-  
-  <section class="section section-alt">
-  <div class="section-inner">
-  <span class="section-label">Free Resources</span>
-  <h2 class="section-title">What to know before getting a Staffy</h2>
-  
-  <p style="text-align:center;margin-bottom:1.5rem">Everything you need to know before and after your puppy arrives.</p>
-  
-  <div class="guide-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1rem;margin-bottom:1.5rem">
-  <a href="/en/puppy-home-socialization/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
-  <strong style="color:#7a5c00">Socialization</strong><br>
-  <span style="font-size:0.9rem">How to prepare your puppy for the world</span>
-  </a>
-  <a href="/en/puppy-first-vaccinations/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
-  <strong style="color:#7a5c00">Vaccinations</strong><br>
-  <span style="font-size:0.9rem">Schedule and practical advice</span>
-  </a>
-  <a href="/en/puppy-initial-feeding/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
-  <strong style="color:#7a5c00">Feeding</strong><br>
-  <span style="font-size:0.9rem">What and how much to feed</span>
-  </a>
-  <a href="/en/puppy-alone-time/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
-  <strong style="color:#7a5c00">Managing Alone Time</strong><br>
-  <span style="font-size:0.9rem">Preventing separation anxiety</span>
-  </a>
-  </div>
-  
-  <div style="text-align:center;padding:1.5rem;background:#5c4a3a;border-radius:12px;color:#fff">
-  <p style="margin:0 0 0.5rem 0;font-size:1.1rem"><strong>Download Now - Free PDF</strong></p>
-  <p style="margin:0 0 1rem 0;font-size:0.95rem;opacity:0.9">Everything you need to know before your puppy arrives</p>
-  <a href="/docs/guide-first-months-staffy-puppy.pdf" class="btn" style="background:#c9a227;color:#fff;padding:0.8rem 1.5rem;border-radius:6px;text-decoration:none;display:inline-block" title="Download the free guide">Download "The First Months with Your Staffy Puppy"</a>
-  </div>
-  </div>
-  </section>
-  
+
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Frequently Asked Questions</span>
@@ -252,12 +216,7 @@ custom_content: |
   </div>
   </div>
   </section>
-  
-  <section class="dark-section">
-  <h2>How my passion for the Staffordshire Bull Terrier began</h2>
-  <p>The passion for the Staffordshire Bull Terrier was born in 2005, the year I had my first encounter with this extraordinary breed during Crufts. I was immediately fascinated by these muscular and affectionate puppies, who won me over like true miniature Rottweilers. Having already experience with Rottweilers, I discovered a new world: made of determination, intelligence and unconditional love.</p>
-  </section>
-  
+
   <!--CORRELATI-->
 
   <section class="cta-section">

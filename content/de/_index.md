@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Zucht"
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 translationKey: "home"
 description: "Ethische Staffordshire Bull Terrier Zucht seit 2013. ENCI-Ahnentafel, Gentest-Befunde und Mikrochips der Zuchttiere online veröffentlicht und überprüfbar."
 correlati:
@@ -55,8 +55,7 @@ custom_content: |
   </div>
   </div>
   
-  <!--NEWS-->
-
+  
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Unsere Welpen</span>
@@ -71,9 +70,9 @@ custom_content: |
 
   
   <div class="gallery-grid">
-  <div class="gallery-item"><img src="/images/foto1.avif" alt="Schwarzer Staffy-Welpe, gerade geboren, auf dem Arm gehalten" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/foto2.avif" alt="Kleiner schwarzer Staffy-Welpe mit weißem Fleck auf der Brust" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/foto4.avif" alt="Schwarzer Welpe, wenige Tage alt, aus der Zucht Del Piccolo Diavolo" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/foto1.avif" alt="Staffordshire Bull Terrier Welpe auf der Hand" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/foto2.avif" alt="Schwarzer Staffordshire Bull Terrier Welpe, wenige Wochen alt" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/foto4.avif" alt="Staffordshire Bull Terrier Welpe im Arm, Nahaufnahme" loading="lazy" decoding="async" width="300" height="400"></div>
   </div>
   
   
@@ -81,6 +80,14 @@ custom_content: |
   <a href="/de/welpen-staffordshire-bull-terrier/" class="btn btn-primary" title="Entdecken Sie unsere Welpen">Welpen Entdecken</a>
   <a href="/de/wuerfe-staffordshire-bull-terrier/" class="btn btn-ghost" title="Verfügbare Welpen ansehen" style="margin-left:.5rem">Verfügbare Welpen</a>
   </div>
+  
+  <a class="rimando" href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/">
+  <img src="/images/blog/cucciolata-erba.avif" alt="Staffordshire Bull Terrier Welpen mit ihrer Mutter" width="88" height="88" loading="lazy" decoding="async">
+  <span>
+  <span class="ti">Wie man eine seriöse Zucht erkennt</span>
+  <span class="de">Acht Kriterien und wie man sie prüft — bei uns wie bei allen anderen.</span>
+  </span>
+  </a>
   </div>
   </section>
   
@@ -126,26 +133,17 @@ custom_content: |
   <p style="font-size:0.9rem;color:#4a3f35;margin-bottom:1rem">Ergebnisse mit von uns gezuchteten und aufgezogenen Hunden, nicht bereits tituliert gekauft.</p>
   <a href="/de/palmares/" class="btn btn-primary" title="Alle Ergebnisse ansehen">Alle Ergebnisse Ansehen</a>
   </div>
+  
+  <a class="rimando" href="/de/welpen-staffordshire-bull-terrier/">
+  <img src="/images/primo-piano-cucciolo.avif" alt="Staffordshire Bull Terrier Welpe" width="88" height="88" loading="lazy" decoding="async">
+  <span>
+  <span class="ti">Wie ein Wurf entsteht und aufwächst</span>
+  <span class="de">Von der Läufigkeit bis zur Geburt und den acht Wochen danach.</span>
+  </span>
+  </a>
   </div>
   </section>
-  
-  <section class="section">
-  <div class="section-inner">
-  <span class="section-label">Über Uns</span>
-  <h2 class="section-title">Wo die Welpen aufwachsen, und wer dahintersteht</h2>
-  
-  <div class="content-block">
-  <h3>Ein Projekt, das zur Zucht wurde</h3>
-  <p>Mein erster Staffordshire Bull Terrier kam in einem besonderen Moment. Von diesem Tag an habe ich studiert, gereist, andere Züchter kennengelernt und jeden Tag mit diesen außergewöhnlichen Hunden verbracht. Jede Entscheidung kommt aus Erfahrung und dem Wunsch, das Beste zu bieten.</p>
-  </div>
-  
-  <div class="content-block">
-  <h3>Der Alltag in unserer Zucht</h3>
-  <p>Jeder Morgen beginnt mit Begrüßungen, Läufen auf der Wiese und Kuscheln mit den Welpen. Unsere Staffys leben mit uns, im Haus und im Garten, und lernen verschiedene Geräusche, Gerüche und Menschen kennen. Sie wachsen ruhig auf, in einer Umgebung voller Reize und Zuneigung.</p>
-  </div>
-  </div>
-  </section>
-  
+
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Unser Ansatz</span>
@@ -171,41 +169,7 @@ custom_content: |
   </div>
   </div>
   </section>
-  
-  <section class="section section-alt">
-  <div class="section-inner">
-  <span class="section-label">Kostenlose Ressourcen</span>
-  <h2 class="section-title">Was man wissen sollte, bevor man einen Staffy nimmt</h2>
-  
-  <p style="text-align:center;margin-bottom:1.5rem">Alles, was Sie vor und nach der Ankunft Ihres Welpen wissen müssen.</p>
-  
-  <div class="guide-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1rem;margin-bottom:1.5rem">
-  <a href="/de/welpen-sozialisierung-zuhause/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
-  <strong style="color:#7a5c00">Sozialisierung</strong><br>
-  <span style="font-size:0.9rem">So bereiten Sie Ihren Welpen auf die Welt vor</span>
-  </a>
-  <a href="/de/welpen-erste-impfungen/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
-  <strong style="color:#7a5c00">Impfungen</strong><br>
-  <span style="font-size:0.9rem">Zeitplan und praktische Tipps</span>
-  </a>
-  <a href="/de/welpen-erste-fuetterung/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
-  <strong style="color:#7a5c00">Fütterung</strong><br>
-  <span style="font-size:0.9rem">Was und wie viel füttern</span>
-  </a>
-  <a href="/de/welpen-allein-bleiben/" class="guide-card" style="display:block;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;color:#5c4a3a;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
-  <strong style="color:#7a5c00">Alleinsein Lernen</strong><br>
-  <span style="font-size:0.9rem">Trennungsangst vermeiden</span>
-  </a>
-  </div>
-  
-  <div style="text-align:center;padding:1.5rem;background:#5c4a3a;border-radius:12px;color:#fff">
-  <p style="margin:0 0 0.5rem 0;font-size:1.1rem"><strong>Jetzt Herunterladen - Kostenloses PDF</strong></p>
-  <p style="margin:0 0 1rem 0;font-size:0.95rem;opacity:0.9">Alles, was Sie vor der Ankunft wissen müssen</p>
-  <a href="/docs/ratgeber-erste-monate-staffy-welpe.pdf" class="btn" style="background:#c9a227;color:#fff;padding:0.8rem 1.5rem;border-radius:6px;text-decoration:none;display:inline-block" title="Kostenlosen Ratgeber herunterladen">Herunterladen "Die Ersten Monate mit Ihrem Staffy Welpen"</a>
-  </div>
-  </div>
-  </section>
-  
+
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Haufig Gestellte Fragen</span>
@@ -252,12 +216,7 @@ custom_content: |
   </div>
   </div>
   </section>
-  
-  <section class="dark-section">
-  <h2>Wie meine Leidenschaft für den Staffordshire Bull Terrier begann</h2>
-  <p>Die Leidenschaft für den Staffordshire Bull Terrier wurde 2005 geboren, dem Jahr, in dem ich meine erste Begegnung mit dieser außergewöhnlichen Rasse während Crufts hatte. Ich war sofort fasziniert von diesen muskulösen und liebevollen Welpen, die mich wie echte Miniatur-Rottweiler erobert haben. Mit bereits Erfahrung mit Rottweilern entdeckte ich eine neue Welt: gemacht aus Entschlossenheit, Intelligenz und bedingungsloser Liebe.</p>
-  </section>
-  
+
   <!--CORRELATI-->
 
   <section class="cta-section">
