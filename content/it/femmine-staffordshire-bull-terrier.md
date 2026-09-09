@@ -1,7 +1,7 @@
 ---
 title: "Femmine Staffordshire Bull Terrier"
 titleSeo: "Femmine Staffordshire Bull Terrier: referti e pedigree ENCI"
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 tipoPagina: "CollectionPage"
 translationKey: "femmine"
 description: "Le nostre femmine Staffordshire Bull Terrier: Bilquis (Top Dog Junior 2023), Croi Olc, Divine, Kennedy, Derry, Cattleya. Test genetici L2HGA e HC certificati."
@@ -81,8 +81,9 @@ custom_content: |
   <strong>LOI:</strong> LO22197469</p>
   <p><strong>Test Genetici:</strong> L2HGA &amp; HC clear by DNA</p>
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
-  <p><strong>Padre:</strong> Skilful-dogs Nora</p>
-  <p><strong>Madre:</strong> Pablo iuno sospita plata plomo</p>
+  <p><strong>Padre:</strong> Pablo iuno sospita plata plomo</p>
+  <p><strong>Madre:</strong> Skilful-dogs Nora</p>
+    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Dolce e delicata con chiunque, cani e persone comprese quelle che non ha mai visto. Se venite a trovarci vi riceve pancia all'aria in cerca di coccole, e non ve la togliete di torno fino ai saluti. Non &egrave; solo un tratto suo: i cuccioli della sua prima cucciolata hanno ereditato lo stesso carattere, e lo raccontano le famiglie nelle <a href="/recensioni/" title="Recensioni">recensioni</a>.</p>
   <a class="doc-link" href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" title="Scarica test genetici Bilquis" aria-label="Scarica test genetici Bilquis (si apre in una nuova scheda)">📄 Test Genetici</a>
   <a class="doc-link" href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" title="Scarica ecocardio Bilquis" aria-label="Scarica ecocardio Bilquis (si apre in una nuova scheda)">📄 Ecocardio Doppler</a>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Vedi pedigree Bilquis su SBTPedigree" aria-label="Vedi pedigree Bilquis su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
@@ -111,7 +112,8 @@ custom_content: |
   <p><strong>Madre:</strong> Lackyle Bean Croí Olc</p>
   <p><strong>Proprietario:</strong> Stefano Tevini</p>
   <p><strong>Handler:</strong> Vittoria Passerini</p>
-  <p><strong>Titolo:</strong> Giovane Campionessa Italiana (in omologazione) — Albarella (RO), 17 maggio 2026. Cl. Giovani 1° Ecc, JCAC, JBOB, BOB. Miglior Staffy — Gruppo Cinofilo Polesano.</p>
+  <p><strong>Titolo:</strong> Giovane Campionessa Italiana — Albarella (RO), 17 maggio 2026. Cl. Giovani 1° Ecc, JCAC, JBOB, BOB. Miglior Staffy — Gruppo Cinofilo Polesano.</p>
+    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Figlia di Minnie, e la sua fotocopia: non solo nella struttura, ma soprattutto nella testa. La stessa esuberanza, la stessa richiesta continua di attenzioni, la stessa pancia all'aria facile. Quando si dice che il carattere si eredita, Queen &egrave; il modo in cui lo vediamo qui in casa.</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" title="Vedi pedigree Queen of California su SBTPedigree" aria-label="Vedi il pedigree completo della cucciolata su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
   </div>
   </div>
@@ -134,6 +136,7 @@ custom_content: |
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
   <p><strong>Padre:</strong> Lackyle Trodai Tine</p>
   <p><strong>Madre:</strong> CH. Lackyle Ogbhean an Diabhal</p>
+    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Esuberante. Ti straccia le gambe saltandoti addosso per avere attenzioni, poi ti lecca finch&eacute; non sei tu a stancarti. Anche lei ha la pancia all'aria facile.</p>
   <a class="doc-link" href="/docs/Minnie-GF.pdf" target="_blank" rel="noopener" title="Scarica test genetici Croi Olc" aria-label="Scarica test genetici Croi Olc (si apre in una nuova scheda)">📄 Test Genetici</a>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="Vedi pedigree Croi Olc su SBTPedigree" aria-label="Vedi pedigree Croi Olc su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
   </div>
@@ -160,6 +163,7 @@ custom_content: |
   <div class="affido-note">
   <p>Per Info: <a href="tel:+393924635584" style="color:#a33" title="Chiama per info affido Divine">392 4635584</a></p>
   </div>
+    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Ha il fuoco addosso, se glielo permetti: mai stanca, una rompiscatole vera. Poi arriva mio figlio e si trasforma &mdash; sale in poltrona e gioca a palla colpendola con il muso, come una foca.</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1775592" target="_blank" rel="noopener" title="Vedi pedigree Divine su SBTPedigree" aria-label="Vedi pedigree Divine su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
   </div>
   </div>
@@ -181,6 +185,7 @@ custom_content: |
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
   <p><strong>Padre:</strong> CH. Hell's Angel</p>
   <p><strong>Madre:</strong> CH. Mellowstaff by Great'n Glory</p>
+    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Da vera tedesca non cede di un centimetro: sempre sul pezzo, con un caratterino tutto pepe. Ma rispettosa al punto da essere diventata la cagnolina dei miei genitori, che sono anziani. Vive con loro e li accompagna in ogni cosa: le passeggiate, il cortile, stendere i panni, portare fuori l'immondizia. E lo farebbe anche senza guinzaglio, se glielo lasciassimo fare: dai piedi di mia madre non si sposta di un metro.</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1054244" target="_blank" rel="noopener" title="Vedi pedigree Kennedy su SBTPedigree" aria-label="Vedi pedigree Kennedy su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
   </div>
   </div>
@@ -203,6 +208,7 @@ custom_content: |
   <p><strong>PHPV:</strong> Unaffected</p>
   <p><strong>Padre:</strong> CH. Kiraloebis Italian Gigalo (Top UK Staffordshire Bull Terrier 2012)</p>
   <p><strong>Madre:</strong> Lackyle Duilleog Daracha</p>
+    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> La vecchietta di casa, la capobranco. Controlla tutto e tutti e cerca di darsi un tono in ogni situazione, poi si rende conto di essere tutto sommato uno Staffy e non pu&ograve; fare a meno di farsi coccolare. Una rompiscatole che vuole sempre stare al centro dell'attenzione. Il suo cuscino sta sul tappeto di fianco al mio letto.</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=789829" target="_blank" rel="noopener" title="Vedi pedigree Derry su SBTPedigree" aria-label="Vedi pedigree Derry su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
   </div>
   </div>
@@ -249,6 +255,7 @@ custom_content: |
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
   <p><strong>Padre:</strong> Skilful-Dogs Jeghër</p>
   <p><strong>Madre:</strong> Skilful-Dogs Red Skin</p>
+    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> La chiamiamo Yoghi, come l'orso. Un bulldozer senza freni, piena di energie &mdash; e in fondo un orsacchiotto da poltrona, da divano, o da letto se glielo lasciate fare.</p>
   <a class="doc-link" href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" title="Scarica test genetici Nora" aria-label="Scarica test genetici Nora (si apre in una nuova scheda)">📄 Test Genetici</a>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="Vedi pedigree Nora su SBTPedigree" aria-label="Vedi pedigree Nora su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
   </div>

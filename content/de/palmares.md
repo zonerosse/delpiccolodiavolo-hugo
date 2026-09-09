@@ -1,6 +1,6 @@
 ---
 title: "Palmares - Unsere Ausstellungserfolge"
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 tipoPagina: "CollectionPage"
 translationKey: "palmares"
 description: "Ergebnisse und Titel unserer Staffordshire Bull Terrier: Italienische Champions, Jugendchampions, Best in Show. Del Piccolo Diavolo Zucht, Italien."
@@ -158,7 +158,7 @@ custom_content: |
   <div>
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
   <h3>Italienische Jugendchampionin 2026</h3>
-  <p>In Albarella (RO), am 17. Mai 2026, gewann Queen in der Jugendklasse Vorzüglich 1. mit JCAC, JBOB und BOB, ausgezeichnet als Bester Staffordshire Bull Terrier der kynologischen Gruppe Polesano — Titel Italienische Jugendchampionin (in Bestätigung). Ein Versprechen, das unsere Selektion bestätigt.</p>
+  <p>In Albarella (RO), am 17. Mai 2026, gewann Queen in der Jugendklasse Vorzüglich 1. mit JCAC, JBOB und BOB, ausgezeichnet als Bester Staffordshire Bull Terrier der kynologischen Gruppe Polesano — Titel Italienische Jugendchampionin. Ein Versprechen, das unsere Selektion bestätigt.</p>
   </div>
   </div>
   </div>
