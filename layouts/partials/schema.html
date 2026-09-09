@@ -23,8 +23,11 @@
 {{ $viste := slice }}
 
 {{/* Schema 1: fisarmonica .faq-item — il titolo puo' contenere link o <strong>,
-     la risposta sta in <div class="faq-answer"> e spesso non ha <p> dentro. */}}
-{{ range findRESubmatch `(?s)<h[23][^>]*>(.*?\?)\s*</h[23]>\s*(?:<span class="faq-toggle">.*?</span>\s*)?</div>\s*<div class="faq-answer"[^>]*>(.*?)</div>` $faqsrc }}
+     la risposta sta in <div class="faq-answer"> e spesso non ha <p> dentro.
+     La cattura ammette tag dentro il titolo ma non il </h2> o </h3>: con .*?
+     scavalcava la chiusura e si portava dietro il paragrafo seguente fino al
+     punto interrogativo dopo. Niente lookahead: Go usa RE2. */}}
+{{ range findRESubmatch `(?s)<h[23][^>]*>((?:[^<]|<[^/]|</[^h]|</h[^23])*?\?)\s*</h[23]>\s*(?:<span class="faq-toggle">.*?</span>\s*)?</div>\s*<div class="faq-answer"[^>]*>(.*?)</div>` $faqsrc }}
   {{ $d := index . 1 | plainify | htmlUnescape }}
   {{ $r := index . 2 | plainify | htmlUnescape }}
   {{ if and (gt (len $d) 12) (gt (len $r) 60) (lt (len $r) 1200) (not (in $viste $d)) }}
