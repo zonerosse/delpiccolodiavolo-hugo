@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Welpe ins Ausland: so läuft es ab"
-lastmod: 2026-09-08
+lastmod: 2026-09-09
 articolo: true
 translationKey: "cucciolo-estero"
 description: "Ein Welpe für ein anderes europäisches Land reist mit vier Monaten, nicht mit zwei. Tollwutimpfung, Heimtierausweis, TRACES-Zeugnis und ENCI-Exportstammbaum."
@@ -58,6 +58,8 @@ custom_content: |
 
     <p>Das TRACES-Zeugnis überrascht alle, die es noch nicht erlebt haben: Wenn ein Welpe von einer Zucht in einem Mitgliedstaat an eine Familie in einem anderen übergeht, gilt die Verbringung als gewerblich, und das amtliche Zeugnis ist erforderlich. Der Heimtierausweis allein genügt nicht.</p>
 
+    <p><strong>Das gilt auch, wenn Sie den Welpen selbst abholen.</strong> »Nicht gewerblich« heißt nicht, dass der Hund in Begleitung reist: es heißt, dass die Verbringung keinen Verkauf und keinen Eigentümerwechsel mit sich bringt. Ein Welpe, der auf dem Arm seines neuen Besitzers abreist, bleibt eine gewerbliche Verbringung, und das Zeugnis ist weiterhin nötig. Es ist sogar der Fall, den die Kontrollen am genauesten prüfen, weil auf diesem Weg verkaufte Welpen als mitreisende Heimtiere ausgegeben werden. Die Unterscheidung steht in der <a href="https://eur-lex.europa.eu/eli/reg/2016/429/oj?locale=it" title="Verordnung (EU) 2016/429, EU-Tiergesundheitsrecht, amtlicher Text auf EUR-Lex" target="_blank" rel="noopener" aria-label="Verordnung (EU) 2016/429, EU-Tiergesundheitsrecht, amtlicher Text auf EUR-Lex (öffnet in einem neuen Tab)">Verordnung (EU) 2016/429</a>, dem europäischen Tiergesundheitsrecht.</p>
+
     <p>Einige Länder verlangen zusätzlich eine Behandlung gegen <em>Echinococcus multilocularis</em> in den Tagen vor der Abreise. Das betrifft wenige Ziele, muss aber im Einzelfall geprüft werden.</p>
 
     <h2>Die Export-Ahnentafel, und warum Sie es uns früh sagen sollten</h2>
@@ -87,7 +89,7 @@ custom_content: |
 
     <h2>Eine ehrliche Vorbemerkung</h2>
 
-    <p>Regeln ändern sich. Der europäische Rahmen wurde im April 2026 aktualisiert, und die einzelnen Länder wenden eigene Bedingungen an, besonders bei jungen Welpen.</p>
+    <p>Regeln ändern sich, aber es kommt darauf an, welche. Die vielbesprochene Aktualisierung vom April 2026 betrifft <em>nicht gewerbliche Verbringungen</em>, also Menschen, die mit dem eigenen Tier reisen: sie ändert das hier beschriebene Verfahren nicht. Und alles Obige gilt innerhalb der Europäischen Union: außerhalb, das Vereinigte Königreich eingeschlossen, gelten andere Bedingungen, die beim Zielland zu erfragen sind. Die einzelnen Länder wenden dann eigene Bedingungen an, besonders bei jungen Welpen.</p>
 
     <p>Was Sie hier lesen, ist der heutige Stand; vor der Abreise muss es mit Ihrem Tierarzt und der Veterinärbehörde Ihres Landes bestätigt werden. Wir tun auf unserer Seite dasselbe, mit der Gesundheitsbehörde von Ferrara, für jeden einzelnen Welpen, der Italien verlässt.</p>
 
