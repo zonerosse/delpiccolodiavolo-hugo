@@ -4,7 +4,7 @@ titleSeo: "Come riconoscere un allevamento Staffordshire Bull Terrier serio"
 articolo: true
 translationKey: "come-scegliere"
 image: "/images/blog/cucciolata-erba.avif"
-description: "Sette criteri per riconoscere un allevamento Staffordshire Bull Terrier serio, ognuno con il modo di verificarlo. Con i nostri documenti come esempio."
+description: "Otto criteri per riconoscere un allevamento Staffordshire Bull Terrier serio, ognuno con il modo di verificarlo. Con i nostri documenti come esempio."
 slug: "come-scegliere-allevamento-staffordshire-bull-terrier"
 date: 2026-01-18
 lastmod: 2026-09-09
@@ -12,15 +12,31 @@ categories: ["Cuccioli"]
 ---
 
 <section class="hero">
-<div class="hero-content" style="max-width:100%">
+<div class="hero-visual">
+<div class="hero-image">
+<img src="/images/blog/cucciolata-erba.avif" alt="Cuccioli di Staffordshire Bull Terrier con la madre sull'erba" width="800" height="580" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
+</div>
+</div>
+<div class="hero-content">
 <span class="hero-eyebrow">Guida</span>
-<h1 class="hero-title">Come Riconoscere un Allevamento Staffordshire Bull Terrier Serio</h1>
-<p class="hero-subtitle">Sette criteri, e il modo di verificarli senza fidarsi sulla parola</p>
+<h1 class="hero-title">Come riconoscere un allevamento <em>Staffordshire Bull Terrier</em> serio</h1>
+<p class="hero-subtitle">Otto criteri, e il modo di verificarli senza fidarsi sulla parola</p>
+<div class="hero-meta">
+<span>&#9201;&#65039; 8 min lettura</span>
+</div>
 </div>
 </section>
 
+<nav class="breadcrumb" aria-label="Breadcrumb">
+<a href="/" title="Home">Home</a> &rsaquo;
+<a href="/blog/" title="Blog">Blog</a> &rsaquo;
+<a aria-label="Cuccioli &mdash; categoria del blog" href="/blog/#cuccioli" title="Articoli Cuccioli">Cuccioli</a> &rsaquo;
+<span>Come riconoscere un allevamento serio</span>
+</nav>
+
 <section class="section">
 <div class="section-inner content-single">
+
 
 <p>Quasi tutti gli allevamenti dicono le stesse cose: cani testati, cuccioli cresciuti in casa, selezione attenta. Sono affermazioni gratuite finché nessuno le controlla, e chi cerca il primo cucciolo raramente sa da dove cominciare a controllare.</p>
 
@@ -133,11 +149,24 @@ categories: ["Cuccioli"]
 
 <p>Poi prendi la stessa lista e provala con gli altri. È il modo migliore di usare questa pagina.</p>
 
+
+<div class="related-articles">
+<h3>Articoli correlati</h3>
+<ul>
+<li><a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2HGA e HC">Test genetici L2-HGA e HC: come funzionano</a></li>
+<li><a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo">Quanto costa un cucciolo, e cosa c'&egrave; dietro il prezzo</a></li>
+<li><a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor: cosa dice la ricerca">Bio Sensor: cosa dice davvero la ricerca</a></li>
+<li><a href="/femmine-staffordshire-bull-terrier/" title="Le nostre femmine">Le nostre femmine, con microchip e pedigree</a></li>
+</ul>
+</div>
+
+
+
 </div>
 </section>
 
-<section class="dark-section">
+<section class="cta-section">
 <h2>Vuoi conoscere i nostri cani?</h2>
 <p>Riceviamo su appuntamento a Ostellato, in provincia di Ferrara. Si vedono le madri, i cuccioli e la casa in cui crescono.</p>
-<a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20conoscere%20i%20vostri%20cani" class="btn btn-gold" title="Scrivici su WhatsApp" target="_blank" rel="noopener" aria-label="Scrivici su WhatsApp per fissare una visita (si apre in una nuova scheda)">Fissa una visita</a>
+<a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20conoscere%20i%20vostri%20cani" class="btn" title="Scrivici su WhatsApp" target="_blank" rel="noopener" aria-label="Scrivici su WhatsApp per fissare una visita (si apre in una nuova scheda)">Fissa una visita</a>
 </section>

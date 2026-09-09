@@ -1,9 +1,10 @@
 ---
 title: "Das Wesen des Staffordshire Bull Terrier: Woher es Kommt"
+lastmod: 2026-09-09
 titleSeo: "Wesen des Staffy: wie es selektiert wurde"
 articolo: true
 translationKey: "carattere"
-image: "/images/blog/famiglia-1.jpg"
+image: "/images/blog/temperamento-staffy-hero.webp"
 description: "Warum der Staffordshire Bull Terrier dieses Wesen hat: die historische Selektion, was der Standard wirklich sagt und wie man Wesen beim Welpen beurteilt."
 slug: "staffordshire-bull-terrier-wesen"
 date: 2026-01-18
@@ -21,7 +22,12 @@ correlati:
 ---
 
 <section class="hero">
-<div class="hero-content" style="max-width:100%">
+<div class="hero-visual">
+<div class="hero-image">
+<img src="/images/blog/temperamento-staffy-hero.webp" alt="Gestromter Staffordshire Bull Terrier, von seinem Besitzer gestreichelt" width="693" height="800" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
+</div>
+</div>
+<div class="hero-content">
 <span class="hero-eyebrow">Die Rasse Kennenlernen</span>
 <h1 class="hero-title">Das Wesen des Staffordshire Bull Terrier: Woher es Kommt</h1>
 <p class="hero-subtitle">Warum dieser Hund so ist, wie er ist, und was es bedeutet, ein Wesen zu wählen</p>

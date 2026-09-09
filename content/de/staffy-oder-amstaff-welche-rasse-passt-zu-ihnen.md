@@ -1,8 +1,8 @@
 ---
 title: "Staffy oder Amstaff: Welche der beiden Rassen passt zu Ihnen"
-lastmod: 2026-09-03
+lastmod: 2026-09-09
 articolo: true
-image: "/images/blog/hero-default.webp"
+image: "/images/blog/staffy-amstaff-hero.webp"
 titleSeo: "Staffy oder Amstaff: welche Rasse wählen"
 translationKey: "differenza-staffy-amstaff"
 description: "17 kg gegen 30, Wohnung gegen Garten, erster Hund oder nicht: die konkreten Fragen vor der Wahl zwischen Staffordshire Bull Terrier und Amstaff."
@@ -12,7 +12,12 @@ categories: ["Rassestandard"]
 ---
 
 <section class="hero">
-<div class="hero-content" style="max-width:100%">
+<div class="hero-visual">
+<div class="hero-image">
+<img src="/images/blog/staffy-amstaff-hero.webp" alt="Schwarzer Staffordshire Bull Terrier im Profil, rassetypischer Bau" width="800" height="762" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
+</div>
+</div>
+<div class="hero-content">
 <span class="hero-eyebrow">Vollständiger Leitfaden</span>
 <h1 class="hero-title">Staffy oder Amstaff: welche der beiden Rassen passt zu Ihnen</h1>
 <p class="hero-subtitle">Dass es nicht derselbe Hund ist, wissen Sie bereits. Bleibt die schwierigere Frage: welcher soll es werden</p>

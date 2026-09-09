@@ -1,9 +1,10 @@
 ---
 title: "Il Temperamento dello Staffordshire Bull Terrier: Come Nasce"
+lastmod: 2026-09-09
 titleSeo: "Temperamento dello Staffy: come è stato selezionato"
 articolo: true
 translationKey: "carattere"
-image: "/images/blog/famiglia-1.jpg"
+image: "/images/blog/temperamento-staffy-hero.webp"
 description: "Perché lo Staffordshire Bull Terrier ha questo carattere: la selezione storica, cosa dice lo standard e come si valuta il temperamento di un cucciolo."
 slug: "staffordshire-bull-terrier-carattere"
 date: 2026-01-18
@@ -21,7 +22,12 @@ correlati:
 ---
 
 <section class="hero">
-<div class="hero-content" style="max-width:100%">
+<div class="hero-visual">
+<div class="hero-image">
+<img src="/images/blog/temperamento-staffy-hero.webp" alt="Staffordshire Bull Terrier tigrato accarezzato dal proprietario" width="693" height="800" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
+</div>
+</div>
+<div class="hero-content">
 <span class="hero-eyebrow">Conosci la Razza</span>
 <h1 class="hero-title">Il Temperamento dello Staffordshire Bull Terrier: Come Nasce</h1>
 <p class="hero-subtitle">Perché questo cane è fatto così, e cosa significa scegliere il carattere</p>

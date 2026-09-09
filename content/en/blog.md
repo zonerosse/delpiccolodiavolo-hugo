@@ -67,7 +67,7 @@ custom_content: |
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Jan 2026</span><span>•</span><span class="cat">Puppies</span></div>
   <h3><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Read: How to recognise a serious breeder">How to recognise a serious breeder</a></h3>
-  <p>Seven criteria and how to check each one, with our own documents as the example.</p>
+  <p>Eight criteria and how to check each one, with our own documents as the example.</p>
   <a class="read" href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" aria-label="Read the article: How to recognise a serious breeder">Read →</a>
   </div>
   </article>

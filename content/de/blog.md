@@ -67,7 +67,7 @@ custom_content: |
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Jan 2026</span><span>•</span><span class="cat">Welpen</span></div>
   <h3><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Lesen: Wie man eine seriöse Zucht erkennt">Wie man eine seriöse Zucht erkennt</a></h3>
-  <p>Sieben Kriterien und wie man sie überprüft, mit unseren Unterlagen als Beispiel.</p>
+  <p>Acht Kriterien und wie man sie überprüft, mit unseren Unterlagen als Beispiel.</p>
   <a class="read" href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" aria-label="Artikel lesen: Wie man eine seriöse Zucht erkennt">Lesen →</a>
   </div>
   </article>
