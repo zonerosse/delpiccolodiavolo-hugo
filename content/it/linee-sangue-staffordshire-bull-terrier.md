@@ -280,6 +280,14 @@ custom_content: |
   <div class="faq-answer">
   <p>Il COI è critico per la salute a lungo termine. COI 0-5% è eccellente, 6-10% accettabile, oltre 15% è alto rischio. Un COI elevato aumenta rischi di malattie genetiche e riduce fertilità.</p>
   </div>
+  
+  <a class="rimando" href="/come-si-legge-un-pedigree/">
+  <img src="/images/blog/pedigree-queen-hero.webp" alt="Queen of California in esposizione" width="88" height="88" loading="lazy" decoding="async">
+  <span>
+  <span class="ti">Come si legge un pedigree</span>
+  <span class="de">Dove si vedono davvero le linee: foto degli antenati, discendenze e coefficiente di consanguineit&agrave;.</span>
+  </span>
+  </a>
   </div>
   
   </section>
