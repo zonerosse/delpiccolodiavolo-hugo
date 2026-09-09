@@ -1,5 +1,5 @@
 ---
-title: "Staffordshire Bull Terrier puppy abroad: timing and paperwork"
+title: "Staffy puppy abroad: timing and paperwork"
 lastmod: 2026-09-09
 articolo: true
 translationKey: "cucciolo-estero"

@@ -1,6 +1,6 @@
 ---
-title: "Cucciolo Staffordshire Bull Terrier all'estero: come funziona"
-lastmod: 2026-09-08
+title: "Cucciolo Staffy all'estero: tempi e documenti"
+lastmod: 2026-09-09
 articolo: true
 translationKey: "cucciolo-estero"
 description: "Un cucciolo destinato a un altro paese europeo parte a quattro mesi, non a due. Antirabbica, passaporto, certificato TRACES ed export pedigree ENCI."

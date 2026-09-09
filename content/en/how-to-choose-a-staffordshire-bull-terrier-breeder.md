@@ -1,6 +1,6 @@
 ---
 title: "How to Recognise a Serious Staffordshire Bull Terrier Breeder"
-titleSeo: "How to recognise a serious Staffordshire Bull Terrier breeder"
+titleSeo: "How to recognise a serious Staffy breeder"
 articolo: true
 translationKey: "come-scegliere"
 image: "/images/blog/cucciolata-erba.avif"

@@ -1,6 +1,6 @@
 ---
 title: "Female Staffordshire Bull Terriers"
-titleSeo: "Female Staffordshire Bull Terriers: certificates and pedigree"
+titleSeo: "Our female Staffies: microchips and pedigrees"
 lastmod: 2026-09-09
 tipoPagina: "CollectionPage"
 translationKey: "femmine"

@@ -1,6 +1,6 @@
 ---
 title: "Come Riconoscere un Allevamento Staffordshire Bull Terrier Serio"
-titleSeo: "Come riconoscere un allevamento Staffordshire Bull Terrier serio"
+titleSeo: "Come riconoscere un allevamento di Staffy serio"
 articolo: true
 translationKey: "come-scegliere"
 image: "/images/blog/cucciolata-erba.avif"
