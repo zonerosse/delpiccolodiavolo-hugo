@@ -33,8 +33,12 @@
   {{ end }}
 {{ end }}
 
-{{/* Schema 2: domanda come titolo seguita da un paragrafo. */}}
-{{ range findRESubmatch `(?s)<h[23][^>]*>(.*?\?)\s*</h[23]>\s*(?:<div[^>]*>\s*)?<p[^>]*>(.*?)</p>` $faqsrc }}
+{{/* Schema 2: domanda come titolo seguita da un paragrafo.
+     [^<]* al posto di .*? : la cattura attraversava il </h2> e proseguiva
+     nel testo fino al primo punto interrogativo utile, incollando insieme
+     un titolo senza domanda, il paragrafo che seguiva e la domanda dopo.
+     Il risultato finiva nel JSON-LD come nome di una Question. */}}
+{{ range findRESubmatch `(?s)<h[23][^>]*>([^<]*\?)\s*</h[23]>\s*(?:<div[^>]*>\s*)?<p[^>]*>(.*?)</p>` $faqsrc }}
   {{ $d := index . 1 | plainify | htmlUnescape }}
   {{ $r := index . 2 | plainify | htmlUnescape }}
   {{ if and (gt (len $d) 12) (gt (len $r) 60) (lt (len $r) 1200) (not (in $viste $d)) }}

@@ -145,32 +145,44 @@ custom_content: |
 
   <div class="faq-item">
   <h3>Can a carrier be used for breeding?</h3>
-  <div class="faq-answer">Yes, provided it is only ever mated to a clear partner. A carrier of excellent type and temperament is a legitimate breeding dog, and excluding every carrier from the gene pool would narrow the breed further. What must never happen is carrier to carrier.</div>
+  <div class="faq-answer">
+  <p>Yes, provided it is only ever mated to a clear partner. A carrier of excellent type and temperament is a legitimate breeding dog, and excluding every carrier from the gene pool would narrow the breed further. What must never happen is carrier to carrier.</p>
+  </div>
   </div>
 
   <div class="faq-item">
   <h3>How much do the L2-HGA and HC tests cost?</h3>
-  <div class="faq-answer">The laboratory panel covering both is around €120 per dog. Adding the vet's sampling, shipping and the PHPV eye examination, the real figure is roughly €400 per dog — about €800 for a breeding pair, paid once in the dog's lifetime.</div>
+  <div class="faq-answer">
+  <p>The laboratory panel covering both is around €120 per dog. Adding the vet's sampling, shipping and the PHPV eye examination, the real figure is roughly €400 per dog — about €800 for a breeding pair, paid once in the dog's lifetime.</p>
+  </div>
   </div>
 
   <div class="faq-item">
   <h3>Does the test need repeating every year?</h3>
-  <div class="faq-answer">No. DNA does not change: one test is valid for life. Annual repetition applies to the ophthalmological examination, which looks for conditions the DNA tests do not cover.</div>
+  <div class="faq-answer">
+  <p>No. DNA does not change: one test is valid for life. Annual repetition applies to the ophthalmological examination, which looks for conditions the DNA tests do not cover.</p>
+  </div>
   </div>
 
   <div class="faq-item">
   <h3>Can I test a puppy I have just brought home?</h3>
-  <div class="faq-answer">Yes, at any age — a cheek swab is enough and your vet can take it. If both parents were tested clear the result is a formality, but if you were only told the parents are "healthy" without certificates, testing is the way to find out where you stand.</div>
+  <div class="faq-answer">
+  <p>Yes, at any age — a cheek swab is enough and your vet can take it. If both parents were tested clear the result is a formality, but if you were only told the parents are "healthy" without certificates, testing is the way to find out where you stand.</p>
+  </div>
   </div>
 
   <div class="faq-item">
   <h3>What if my Staffy comes back affected?</h3>
-  <div class="faq-answer">The dog must never be bred from. For L2-HGA, speak to a neurologist about managing the seizures; for hereditary cataract, an ophthalmologist can assess whether surgery is appropriate. An affected dog can still be a much-loved companion, but the pedigree of both parents needs a serious conversation with whoever bred it.</div>
+  <div class="faq-answer">
+  <p>The dog must never be bred from. For L2-HGA, speak to a neurologist about managing the seizures; for hereditary cataract, an ophthalmologist can assess whether surgery is appropriate. An affected dog can still be a much-loved companion, but the pedigree of both parents needs a serious conversation with whoever bred it.</p>
+  </div>
   </div>
 
   <div class="faq-item">
   <h3>How can I check that a breeder has actually tested?</h3>
-  <div class="faq-answer">Ask for the certificates as documents and compare the microchip number on them with the one your vet reads from the dog. That single comparison, which takes thirty seconds, settles the question — which is why we publish the certificates of our breeding dogs on this site rather than sending them on request.</div>
+  <div class="faq-answer">
+  <p>Ask for the certificates as documents and compare the microchip number on them with the one your vet reads from the dog. That single comparison, which takes thirty seconds, settles the question — which is why we publish the certificates of our breeding dogs on this site rather than sending them on request.</p>
+  </div>
   </div>
 
   <div class="article-footer">
