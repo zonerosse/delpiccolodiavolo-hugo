@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier: Character, Family Life and What to Expect"
 date: 2026-04-28
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 titleSeo: "Staffordshire Bull Terrier: character and family life"
 translationKey: "carattere-famiglia"
 articolo: true

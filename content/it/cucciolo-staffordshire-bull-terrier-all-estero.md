@@ -1,6 +1,6 @@
 ---
 title: "Cucciolo Staffy all'estero: tempi e documenti"
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 articolo: true
 translationKey: "cucciolo-estero"
 description: "Un cucciolo destinato a un altro paese europeo parte a quattro mesi, non a due. Antirabbica, passaporto, certificato TRACES ed export pedigree ENCI."
@@ -58,8 +58,6 @@ custom_content: |
 
   <p>Il certificato TRACES è quello che sorprende chi non ci è passato: quando un cucciolo viene affidato da un allevatore di uno Stato membro a una famiglia di un altro, lo spostamento è considerato commerciale, e serve il certificato ufficiale. Non basta il passaporto.</p>
 
-  <p><strong>Vale anche se venite a prenderlo di persona.</strong> «Non commerciale» non significa che il cane viaggia con qualcuno: significa che lo spostamento non comporta una vendita né un cambio di proprietario. Il cucciolo che parte in braccio al nuovo proprietario resta un movimento commerciale, e il certificato serve lo stesso. È anzi il caso guardato con più attenzione ai controlli, perché è il modo in cui i cuccioli venduti vengono fatti passare per animali al seguito. La distinzione sta nel <a href="https://eur-lex.europa.eu/eli/reg/2016/429/oj?locale=it" title="Regolamento (UE) 2016/429, normativa in materia di sanità animale, testo ufficiale su EUR-Lex" target="_blank" rel="noopener" aria-label="Regolamento (UE) 2016/429, normativa in materia di sanità animale, testo ufficiale su EUR-Lex (si apre in una nuova scheda)">regolamento (UE) 2016/429</a>, la normativa europea in materia di sanità animale.</p>
-
   <p>Alcuni paesi chiedono in più il trattamento contro <em>Echinococcus multilocularis</em> nei giorni precedenti la partenza. Riguarda poche destinazioni, ma va verificato caso per caso.</p>
 
   <h2>L'export pedigree, e perché conviene dirlo subito</h2>
@@ -89,7 +87,7 @@ custom_content: |
 
   <h2>Una premessa onesta</h2>
 
-  <p>Le regole cambiano, ma attenzione a quali. L'aggiornamento di aprile 2026 di cui si è molto parlato riguarda i <em>movimenti non commerciali</em>, cioè chi viaggia con il proprio animale: non cambia la procedura descritta qui. E quanto sopra vale per l'Unione europea: fuori dall'Unione, Regno Unito compreso, le condizioni sono diverse e vanno chieste al paese di destinazione. I singoli paesi applicano poi condizioni proprie, soprattutto sui cuccioli giovani.</p>
+  <p>Le regole cambiano. Il quadro europeo è stato aggiornato ad aprile 2026 e i singoli paesi applicano condizioni proprie, soprattutto sui cuccioli giovani.</p>
 
   <p>Quello che leggete qui è come funziona oggi, ma prima di partire va confermato con il vostro veterinario e con l'autorità sanitaria del vostro paese. Noi facciamo la stessa cosa dalla nostra parte, con la ASL di Ferrara, per ogni singolo cucciolo che esce dall'Italia.</p>
 

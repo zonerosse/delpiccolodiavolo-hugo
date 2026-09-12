@@ -1,11 +1,11 @@
 ---
 title: "Linee di Sangue Staffordshire Bull Terrier: Storia e Genealogia"
 date: 2025-11-08
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 titleSeo: "Linee di sangue Staffordshire Bull Terrier: storia"
 translationKey: "linee-sangue"
 articolo: true
-image: "/images/blog/hero-default.webp"
+image: "/images/blog/linee-sangue-hero.webp"
 description: "Guida completa alle linee di sangue dello Staffordshire Bull Terrier: storia delle 6 linee fondatrici, genealogie documentate e allevamenti moderni UK/Irlanda."
 slug: "linee-sangue-staffordshire-bull-terrier"
 custom_content: |

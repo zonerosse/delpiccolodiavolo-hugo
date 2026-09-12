@@ -2,10 +2,10 @@
 title: "Cuccioli: Gestione della solitudine"
 date: 2025-07-08
 titleSeo: "Insegnare al cucciolo a restare solo, senza stress"
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 translationKey: "solitudine"
 articolo: true
-image: "/images/blog/hero-default.webp"
+image: "/images/blog/neonati-2-hero.webp"
 description: "Insegnare al cucciolo a stare solo senza ansia da separazione: da pochi minuti a qualche ora, con i tempi reali e gli errori che peggiorano il problema."
 slug: "cuccioli-gestione-solitudine"
 custom_content: |

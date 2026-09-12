@@ -1,6 +1,6 @@
 ---
 title: "Staffy puppy abroad: timing and paperwork"
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 articolo: true
 translationKey: "cucciolo-estero"
 description: "A puppy going to another European country leaves at four months, not two. Rabies vaccination, pet passport, TRACES certificate and ENCI export pedigree."
@@ -58,8 +58,6 @@ custom_content: |
 
     <p>The TRACES certificate is the one that surprises people who have not been through it: when a puppy passes from a breeder in one member state to a family in another, the movement counts as commercial and the official certificate is required. The passport alone is not enough.</p>
 
-    <p><strong>This holds even if you come and collect the puppy yourself.</strong> Non-commercial does not mean the dog travels with someone: it means the movement involves no sale and no change of owner. A puppy leaving in the arms of its new owner is still a commercial movement, and the certificate is still required. If anything it is the case border checks look at hardest, because it is how sold puppies get passed off as animals travelling with their owner. The distinction is set out in <a href="https://eur-lex.europa.eu/eli/reg/2016/429/oj?locale=it" title="Regulation (EU) 2016/429, the Animal Health Law, official text on EUR-Lex" target="_blank" rel="noopener" aria-label="Regulation (EU) 2016/429, the Animal Health Law, official text on EUR-Lex (opens in a new tab)">Regulation (EU) 2016/429</a>, the European animal health law.</p>
-
     <p>Some countries additionally require treatment against <em>Echinococcus multilocularis</em> in the days before departure. It concerns few destinations, but it has to be checked case by case.</p>
 
     <h2>The export pedigree, and why to tell us early</h2>
@@ -89,7 +87,7 @@ custom_content: |
 
     <h2>An honest note</h2>
 
-    <p>Rules change, but be careful which ones. The much-discussed April 2026 update concerns <em>non-commercial movements</em>, meaning people travelling with their own animal: it does not change the procedure described here. And all of the above applies within the European Union: outside it, the United Kingdom included, conditions differ and must be checked with the destination country. Individual countries then apply their own conditions, particularly for young puppies.</p>
+    <p>Rules change. The European framework was updated in April 2026 and individual countries apply their own conditions, particularly for young puppies.</p>
 
     <p>What you read here is how it works today, but before travelling it must be confirmed with your own veterinarian and with the animal health authority of your country. We do the same at our end, with the Ferrara health authority, for every single puppy that leaves Italy.</p>
 

@@ -2,10 +2,10 @@
 title: "Cuccioli: Educazione ai bisogni"
 date: 2025-05-22
 titleSeo: "Educare il cucciolo ai bisogni: metodo e tempi reali"
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 translationKey: "bisogni"
 articolo: true
-image: "/images/blog/hero-default.webp"
+image: "/images/blog/cucciolo-ritratto-hero.webp"
 description: "Educazione ai bisogni per cuccioli di Staffordshire Bull Terrier: routine, uscite, rinforzo positivo, gestione degli incidenti e progressione in casa e fuori."
 slug: "cuccioli-educazione-bisogni"
 custom_content: |

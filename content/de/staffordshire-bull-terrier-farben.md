@@ -1,6 +1,6 @@
 ---
 title: "Farben des Staffordshire Bull Terrier: Schwarz, Gestromt, Blau und mehr"
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 titleSeo: "Farben des Staffordshire Bull Terrier: Schwarz, Gestromt"
 translationKey: "colori"
 articolo: true

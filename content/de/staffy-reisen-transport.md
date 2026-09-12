@@ -1,7 +1,7 @@
 ---
 title: "Reisen und Transport mit Staffordshire Bull Terrier"
 date: 2024-04-07
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 translationKey: "viaggi"
 articolo: true
 image: "/images/blog/famiglia-4.jpg"

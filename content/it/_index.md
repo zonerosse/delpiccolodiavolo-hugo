@@ -1,6 +1,6 @@
 ---
 title: "Allevamento Staffordshire Bull Terrier"
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 translationKey: "home"
 description: "Allevamento etico di Staffordshire Bull Terrier dal 2013. Pedigree ENCI, referti dei test genetici e microchip dei riproduttori pubblicati e verificabili."
 correlati:

@@ -1,10 +1,10 @@
 ---
 title: "I colori dello Staffordshire Bull Terrier: nero, tigrato, blu e altri"
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 titleSeo: "Colori dello Staffordshire Bull Terrier: nero, tigrato, blu"
 translationKey: "colori"
 articolo: true
-image: "/images/blog/hero-default.webp"
+image: "/images/blog/colori-staffy-hero.webp"
 description: "I colori dello Staffordshire Bull Terrier ammessi dallo standard: nero, tigrato, fulvo, rosso, bianco e pezzati. Il caso del blu diluito."
 slug: "colori-staffordshire-bull-terrier"
 custom_content: |

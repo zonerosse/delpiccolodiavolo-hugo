@@ -1,10 +1,10 @@
 ---
 title: "Differenza tra Staffordshire Bull Terrier, Pitbull e Amstaff"
 date: 2025-11-19
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 translationKey: "pitbull-amstaff"
 articolo: true
-image: "/images/blog/hero-default.webp"
+image: "/images/blog/differenza-razze-hero.webp"
 description: "Non sono lo stesso cane: 11-17 kg contro 25-30, 2 standard FCI riconosciuti e uno no. Come distinguerli davvero, spiegato da un allevatore."
 slug: "differenza-staffy-pitbull-amstaff"
 custom_content: |

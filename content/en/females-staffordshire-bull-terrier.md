@@ -1,7 +1,7 @@
 ---
 title: "Female Staffordshire Bull Terriers"
 titleSeo: "Our female Staffies: microchips and pedigrees"
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 tipoPagina: "CollectionPage"
 translationKey: "femmine"
 description: "Our female Staffordshire Bull Terriers: Bilquis (Top Dog Junior 2023), Croi Olc, Divine, Kennedy, Derry, Cattleya. L2HGA and HC certified genetic testing."

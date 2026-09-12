@@ -1,7 +1,7 @@
 ---
 title: "Difference Between Staffordshire Bull Terrier, Pitbull and Amstaff"
 date: 2025-11-19
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 titleSeo: "Staffordshire Bull Terrier, Pitbull and Amstaff compared"
 translationKey: "pitbull-amstaff"
 articolo: true

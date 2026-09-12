@@ -7,7 +7,7 @@ image: "/images/blog/cucciolata-erba.avif"
 description: "Otto criteri per riconoscere un allevamento Staffordshire Bull Terrier serio, ognuno con il modo di verificarlo. Con i nostri documenti come esempio."
 slug: "come-scegliere-allevamento-staffordshire-bull-terrier"
 date: 2026-01-18
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 categories: ["Cuccioli"]
 ---
 

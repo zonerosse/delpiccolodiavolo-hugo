@@ -2,10 +2,10 @@
 title: "Bio Sensor: cosa dice davvero la ricerca"
 date: 2026-09-09
 titleSeo: "Bio Sensor e stimolazione precoce: cosa dice la ricerca"
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 translationKey: "biosensor"
 articolo: true
-image: "/images/blog/cuccioli-1.webp"
+image: "/images/blog/neonati-hero.webp"
 description: "Metodo Bio Sensor ed ENS sui cuccioli: da dove viene, cosa promette e quanto è dimostrato. E cosa conta davvero nelle prime otto settimane."
 slug: "bio-sensor-stimolazione-precoce-cuccioli"
 custom_content: |
@@ -57,7 +57,7 @@ custom_content: |
 
   <p>Quei benefici vengono dal programma militare, non da studi pubblicati e verificati da altri ricercatori. È una differenza che conta: significa che la fonte originale non è controllabile.</p>
 
-  <p>Negli anni successivi qualche ricerca indipendente sul cane è stata fatta, ma è poca e i risultati non vanno tutti nella stessa direzione: alcuni lavori riportano differenze, altri non ne trovano di misurabili sull'animale adulto. La rassegna a cui tutti rimandano è quella di <a href="https://doi.org/10.1016/j.jveb.2009.03.003" title="Battaglia, Periods of Early Development and the Effects of Stimulation and Social Experiences in the Canine, Journal of Veterinary Behavior 2009" target="_blank" rel="noopener" aria-label="Battaglia, Periods of Early Development and the Effects of Stimulation and Social Experiences in the Canine, Journal of Veterinary Behavior 2009 (si apre in una nuova scheda)">Carmen Battaglia (2009)</a>, che raccoglie i dati del programma militare; uno <a href="https://doi.org/10.1016/j.jveb.2010.09.017" title="Schoon e Berntsen, Evaluating the effect of early neurological stimulation on the development and training of mine detection dogs, Journal of Veterinary Behavior 2011" target="_blank" rel="noopener" aria-label="Schoon e Berntsen, Evaluating the effect of early neurological stimulation on the development and training of mine detection dogs, Journal of Veterinary Behavior 2011 (si apre in una nuova scheda)">studio del 2011 su dieci cucciolate di cani da sminamento</a> non ha invece trovato differenze né nello sviluppo né nei risultati dell'addestramento. Non esiste, a oggi, uno studio ampio e ben controllato che dimostri che quei cinque esercizi producano un cane adulto più equilibrato.</p>
+  <p>Negli anni successivi qualche ricerca indipendente sul cane è stata fatta, ma è poca e i risultati non vanno tutti nella stessa direzione: alcuni lavori riportano differenze, altri non ne trovano di misurabili sull'animale adulto. Non esiste, a oggi, uno studio ampio e ben controllato che dimostri che quei cinque esercizi producano un cane adulto più equilibrato.</p>
 
   <p><strong>Questo non vuol dire che l'ENS faccia male o sia una truffa.</strong> Vuol dire che chi lo presenta come una garanzia sta promettendo più di quanto si sappia.</p>
 

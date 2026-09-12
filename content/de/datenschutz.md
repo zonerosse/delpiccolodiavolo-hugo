@@ -1,6 +1,6 @@
 ---
 title: "Datenschutzerklärung – Del Piccolo Diavolo"
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 tipoPagina: "WebPage"
 translationKey: "privacy"
 description: "Datenschutzerklärung und Verarbeitung personenbezogener Daten der Zucht Del Piccolo Diavolo - DSGVO-Informationen."

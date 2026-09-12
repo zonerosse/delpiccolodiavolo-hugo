@@ -2,7 +2,7 @@
 title: "Cuccioli: Prima passeggiata"
 date: 2025-09-17
 titleSeo: "La prima passeggiata del cucciolo: quando e come iniziare"
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 translationKey: "passeggiata"
 articolo: true
 image: "/images/blog/cuccioli-7.webp"

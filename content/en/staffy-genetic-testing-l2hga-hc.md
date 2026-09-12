@@ -1,7 +1,7 @@
 ---
 title: "Genetic Testing L2-HGA and HC for Staffordshire Bull Terrier"
 date: 2025-11-20
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 translationKey: "test-genetici"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -85,7 +85,7 @@ custom_content: |
   <p>Costs vary by laboratory and country, but for both tests together expect something in the region of around 120 euros for the genetic panel at the laboratory, rising to roughly 400 per dog once you add the veterinary sampling, the shipping and the eye examination. Compared with the cost of a lifetime of anticonvulsants, or of cataract surgery, or of the grief of a family, it is a trivial figure. It is also the reason no serious breeder considers it a discretionary expense.</p>
 
     <h3>Where the testing is done</h3>
-  <p>The main laboratories carrying out these tests are the <strong>Animal Health Trust</strong> in the UK, which developed both tests and whose research group is now the <a href="https://www.canine-genetics.org.uk/spotlight-on-the-staffordshire-bull-terrier/" title="How the HC and L2-HGA DNA tests were developed, Canine Genetics Centre" target="_blank" rel="noopener" aria-label="How the HC and L2-HGA DNA tests were developed, Canine Genetics Centre (opens in a new tab)">Canine Genetics Centre at the University of Cambridge</a>; <strong>Laboklin</strong>, the German laboratory that also operates in Italy; <strong>Optigen</strong> in the United States, specialised in eye conditions; and <strong>Embark</strong>, whose broad panel includes L2-HGA and HC.</p>
+  <p>The main laboratories carrying out these tests are the <strong>Animal Health Trust</strong> in the UK, which developed both of them and is now part of The Kennel Club; <strong>Laboklin</strong>, the German laboratory that also operates in Italy; <strong>Optigen</strong> in the United States, specialised in eye conditions; and <strong>Embark</strong>, whose broad panel includes L2-HGA and HC.</p>
   <p>The sample is a cheek swab or a blood draw taken by a vet, sent to the laboratory, and the certificate comes back with the dog's microchip number on it. That number is what ties the result to a specific animal — a certificate without one proves nothing about the dog in front of you.</p>
 
   <h2>Reading the results</h2>
@@ -145,44 +145,32 @@ custom_content: |
 
   <div class="faq-item">
   <h3>Can a carrier be used for breeding?</h3>
-  <div class="faq-answer">
-  <p>Yes, provided it is only ever mated to a clear partner. A carrier of excellent type and temperament is a legitimate breeding dog, and excluding every carrier from the gene pool would narrow the breed further. What must never happen is carrier to carrier.</p>
-  </div>
+  <div class="faq-answer">Yes, provided it is only ever mated to a clear partner. A carrier of excellent type and temperament is a legitimate breeding dog, and excluding every carrier from the gene pool would narrow the breed further. What must never happen is carrier to carrier.</div>
   </div>
 
   <div class="faq-item">
   <h3>How much do the L2-HGA and HC tests cost?</h3>
-  <div class="faq-answer">
-  <p>The laboratory panel covering both is around €120 per dog. Adding the vet's sampling, shipping and the PHPV eye examination, the real figure is roughly €400 per dog — about €800 for a breeding pair, paid once in the dog's lifetime.</p>
-  </div>
+  <div class="faq-answer">The laboratory panel covering both is around €120 per dog. Adding the vet's sampling, shipping and the PHPV eye examination, the real figure is roughly €400 per dog — about €800 for a breeding pair, paid once in the dog's lifetime.</div>
   </div>
 
   <div class="faq-item">
   <h3>Does the test need repeating every year?</h3>
-  <div class="faq-answer">
-  <p>No. DNA does not change: one test is valid for life. Annual repetition applies to the ophthalmological examination, which looks for conditions the DNA tests do not cover.</p>
-  </div>
+  <div class="faq-answer">No. DNA does not change: one test is valid for life. Annual repetition applies to the ophthalmological examination, which looks for conditions the DNA tests do not cover.</div>
   </div>
 
   <div class="faq-item">
   <h3>Can I test a puppy I have just brought home?</h3>
-  <div class="faq-answer">
-  <p>Yes, at any age — a cheek swab is enough and your vet can take it. If both parents were tested clear the result is a formality, but if you were only told the parents are "healthy" without certificates, testing is the way to find out where you stand.</p>
-  </div>
+  <div class="faq-answer">Yes, at any age — a cheek swab is enough and your vet can take it. If both parents were tested clear the result is a formality, but if you were only told the parents are "healthy" without certificates, testing is the way to find out where you stand.</div>
   </div>
 
   <div class="faq-item">
   <h3>What if my Staffy comes back affected?</h3>
-  <div class="faq-answer">
-  <p>The dog must never be bred from. For L2-HGA, speak to a neurologist about managing the seizures; for hereditary cataract, an ophthalmologist can assess whether surgery is appropriate. An affected dog can still be a much-loved companion, but the pedigree of both parents needs a serious conversation with whoever bred it.</p>
-  </div>
+  <div class="faq-answer">The dog must never be bred from. For L2-HGA, speak to a neurologist about managing the seizures; for hereditary cataract, an ophthalmologist can assess whether surgery is appropriate. An affected dog can still be a much-loved companion, but the pedigree of both parents needs a serious conversation with whoever bred it.</div>
   </div>
 
   <div class="faq-item">
   <h3>How can I check that a breeder has actually tested?</h3>
-  <div class="faq-answer">
-  <p>Ask for the certificates as documents and compare the microchip number on them with the one your vet reads from the dog. That single comparison, which takes thirty seconds, settles the question — which is why we publish the certificates of our breeding dogs on this site rather than sending them on request.</p>
-  </div>
+  <div class="faq-answer">Ask for the certificates as documents and compare the microchip number on them with the one your vet reads from the dog. That single comparison, which takes thirty seconds, settles the question — which is why we publish the certificates of our breeding dogs on this site rather than sending them on request.</div>
   </div>
 
   <div class="article-footer">

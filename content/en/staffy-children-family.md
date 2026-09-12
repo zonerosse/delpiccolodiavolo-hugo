@@ -2,7 +2,7 @@
 title: "Staffy and Children: Family Life"
 date: 2024-05-28
 titleSeo: "Staffordshire Bull Terrier with children: family life"
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 translationKey: "bambini"
 articolo: true
 image: "/images/blog/famiglia-1.webp"
