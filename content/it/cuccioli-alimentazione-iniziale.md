@@ -2,10 +2,10 @@
 title: "Cuccioli: Alimentazione iniziale"
 date: 2025-04-15
 titleSeo: "Alimentazione del cucciolo Staffy nei primi mesi"
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 translationKey: "alimentazione"
 articolo: true
-image: "/images/blog/hero-default.webp"
+image: "/images/blog/cuccioli-4.webp"
 description: "Quanto e quante volte al giorno mangia un cucciolo di Staffordshire Bull Terrier: le quantità per età, come cambiare crocchette e cosa non va mai dato."
 slug: "cuccioli-alimentazione-iniziale"
 custom_content: |

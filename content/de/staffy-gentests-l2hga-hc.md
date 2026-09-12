@@ -1,7 +1,7 @@
 ---
 title: "Gentests L2-HGA und HC für Staffordshire Bull Terrier"
 date: 2025-11-20
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 translationKey: "test-genetici"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -43,7 +43,7 @@ custom_content: |
   <p>Genau diesen Punkt übersehen viele Käufer. Sichtbar gesunde Elterntiere beweisen nichts über die Welpen. Nur ein DNA-Test der Eltern zeigt, ob ein Wurf betroffene Hunde hervorbringen kann. Seit diese Tests verfügbar sind, sind beide Erkrankungen in der verantwortungsvollen Zucht praktisch verschwunden. Wenn heute ein betroffener Welpe geboren wird, ist das fast nie Pech, sondern die Folge einer Verpaarung ohne Test.</p>
 
   <h2>L2-HGA: was es ist und wie es sich zeigt</h2>
-  <p>Die L-2-Hydroxyglutarazidurie ist eine Stoffwechselerkrankung, verursacht durch eine Mutation im L2HGDH-Gen. Der betroffene Hund kann ein Molekül namens L-2-Hydroxyglutarsäure nicht korrekt abbauen. Es reichert sich in der Gehirn-Rückenmarks-Flüssigkeit an und schädigt fortschreitend das zentrale Nervensystem. Die Mutation wurde 2005 von der Arbeitsgruppe um Cathryn Mellersh am britischen Animal Health Trust identifiziert; seit Januar 2006 führt der Kennel Club offizielle Testprogramme für L2-HGA und HC. Die <a href="https://www.canine-genetics.org.uk/spotlight-on-the-staffordshire-bull-terrier/" title="Wie die DNA-Tests für HC und L2-HGA entwickelt wurden, Canine Genetics Centre" target="_blank" rel="noopener" aria-label="Wie die DNA-Tests für HC und L2-HGA entwickelt wurden, Canine Genetics Centre (öffnet in einem neuen Tab)">Geschichte dieser Forschung</a> ist beim Canine Genetics Centre der Universität Cambridge dokumentiert, das dieses Programm übernommen hat.</p>
+  <p>Die L-2-Hydroxyglutarazidurie ist eine Stoffwechselerkrankung, verursacht durch eine Mutation im L2HGDH-Gen. Der betroffene Hund kann ein Molekül namens L-2-Hydroxyglutarsäure nicht korrekt abbauen. Es reichert sich in der Gehirn-Rückenmarks-Flüssigkeit an und schädigt fortschreitend das zentrale Nervensystem.</p>
   <p>Die Symptome zeigen sich meist zwischen dem sechsten Lebensmonat und dem ersten Lebensjahr, gelegentlich später. Besitzer berichten von Episoden mit Koordinationsverlust und Taumeln, Zittern, Muskelsteifheit nach Belastung oder Aufregung, Verhaltensänderungen und in vielen Fällen Krampfanfällen. Zwischen den Episoden wirkt der Hund fast normal, was die Diagnose verzögert und falsche Hoffnung weckt.</p>
   <p>Eine Heilung gibt es nicht. Eine angepasste Diät und Antikonvulsiva können die Häufigkeit der Episoden verringern, doch die Erkrankung schreitet fort und die Prognose ist schlecht. Für eine Familie, die ein Jahr lang einen Welpen aufgezogen hat, ist die Diagnose verheerend, und sie kostet emotional wie finanziell, solange der Hund lebt.</p>
 

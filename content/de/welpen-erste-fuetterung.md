@@ -2,7 +2,7 @@
 title: "Welpen: Erste Fütterung"
 date: 2025-04-15
 titleSeo: "Ernährung des Welpen in den ersten Monaten"
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/hero-default.webp"

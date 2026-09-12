@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier mit Kindern und Familie"
 date: 2024-05-28
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 translationKey: "bambini"
 articolo: true
 image: "/images/blog/famiglia-1.jpg"

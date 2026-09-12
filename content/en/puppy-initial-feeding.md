@@ -2,7 +2,7 @@
 title: "Puppies: Initial Feeding"
 date: 2025-04-15
 titleSeo: "Feeding a Staffordshire Bull Terrier puppy: first months"
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/hero-default.webp"

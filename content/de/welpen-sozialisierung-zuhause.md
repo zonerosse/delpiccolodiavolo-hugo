@@ -2,7 +2,7 @@
 title: "Welpen: Sozialisierung zu Hause"
 date: 2025-03-18
 titleSeo: "Sozialisierung des Welpen zu Hause: die ersten Wochen"
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 translationKey: "socializzazione"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"

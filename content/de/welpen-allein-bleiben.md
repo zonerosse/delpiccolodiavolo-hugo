@@ -2,7 +2,7 @@
 title: "Welpen: Allein Bleiben Lernen"
 date: 2025-07-08
 titleSeo: "Welpen lernen allein zu bleiben, ohne Stress"
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 translationKey: "solitudine"
 articolo: true
 image: "/images/blog/hero-default.webp"

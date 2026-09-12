@@ -2,7 +2,7 @@
 title: "How to Choose Staffy Bloodlines"
 date: 2025-03-05
 titleSeo: "Choosing Staffordshire Bull Terrier bloodlines"
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 translationKey: "scelta-linee"
 articolo: true
 image: "/images/blog/standard-2.webp"
@@ -45,7 +45,7 @@ custom_content: |
   <p>Almost every mismatch we see between owner and dog traces back to one of those three questions never being asked.</p>
 
   <h2>What differs between lines, and what does not</h2>
-  <p>All Staffordshire Bull Terriers must meet the same <a href="https://www.thekennelclub.org.uk/breed-standards/terrier/staffordshire-bull-terrier/" title="Staffordshire Bull Terrier breed standard, The Kennel Club" target="_blank" rel="noopener" aria-label="Staffordshire Bull Terrier breed standard, The Kennel Club (opens in a new tab)">breed standard</a>, and the differences between good lines are matters of emphasis rather than kind. What genuinely varies is bone and substance, head proportion, the level of drive and reactivity, tolerance of other dogs, and how consistently a line reproduces its own type across a whole litter.</p>
+  <p>All Staffordshire Bull Terriers must meet the same standard, and the differences between good lines are matters of emphasis rather than kind. What genuinely varies is bone and substance, head proportion, the level of drive and reactivity, tolerance of other dogs, and how consistently a line reproduces its own type across a whole litter.</p>
   <p>What should not vary, in any line worth considering, is temperament towards people and the health testing behind the mating. A breeder who describes a line as sharp, or explains away a dog that is difficult with visitors, is describing a fault rather than a characteristic.</p>
 
   <h2>English and Irish lines in practice</h2>

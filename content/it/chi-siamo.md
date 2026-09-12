@@ -1,7 +1,7 @@
 ---
 title: "Chi Siamo"
 titleSeo: "Chi siamo: allevatori di Staffordshire Bull Terrier dal 2013"
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 tipoPagina: "ProfilePage"
 translationKey: "chi-siamo"
 description: "Allevamento Del Piccolo Diavolo: dal 2013 selezioniamo Staffordshire Bull Terrier sani, equilibrati e tipici. Ostellato (FE)."

@@ -1,7 +1,7 @@
 ---
 title: "Programma allevamento Staffordshire Bull Terrier"
 titleSeo: "Cucciolate programmate: accoppiamenti e criteri di selezione"
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 tipoPagina: "CollectionPage"
 translationKey: "programma"
 description: "Programma di allevamento Staffordshire Bull Terrier: criteri di selezione, salute, test genetici e storico delle cucciolate passate e future."
@@ -59,6 +59,22 @@ custom_content: |
 
   <!--CUCCIOLATA-->
 
+  <!-- Citazione allevamento -->
+  <section class="section">
+  <div class="section-inner">
+  <blockquote style="background:#3d2f22;border-radius:8px;padding:2.5rem 3rem;text-align:center;position:relative;overflow:hidden;margin:0 auto;max-width:780px">
+  <span style="position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,transparent,#c9a227,transparent);display:block"></span>
+  <span style="position:absolute;bottom:0;left:0;right:0;height:3px;background:linear-gradient(90deg,transparent,#c9a227,transparent);display:block"></span>
+  <p style="font-family:Georgia,'Times New Roman',serif;font-size:1.3rem;font-style:italic;color:#f5ede0;line-height:1.8;margin:0">
+  "Poche cucciolate l'anno, scelte una per una.<br>
+  Prima ci si conosce. Il resto viene dopo."
+  </p>
+  <span style="display:block;width:40px;height:1px;background:#c9a227;margin:1rem auto 0"></span>
+  <footer style="margin-top:0.75rem;font-size:0.75rem;color:#7d620e;letter-spacing:0.2em;text-transform:uppercase;font-weight:700;font-style:normal">Del Piccolo Diavolo · Dal 2013</footer>
+  </blockquote>
+  </div>
+  </section>
+
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Il Nostro Programma</span>
@@ -86,7 +102,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Accoppiamenti</span>
-  <h2 class="section-title">Cucciolate programmate e passate</h2>
+  <h2 class="section-title">Criteri di selezione dei riproduttori</h2>
 
   <p style="text-align:center;margin-bottom:2rem">Ogni accoppiamento è studiato per consolidare le caratteristiche morfologiche desiderate, migliorare il temperamento e preservare la salute genetica. Gli obiettivi vengono definiti analizzando pedigree, risultati espositivi e test genetici di entrambi i genitori.</p>
 
@@ -258,6 +274,14 @@ custom_content: |
   <p>Nessun riproduttore entra nel programma senza i test per <strong>L2HGA</strong> e <strong>HC</strong>, le due malattie genetiche della razza, pi&ugrave; il controllo oculistico per il <strong>PHPV</strong>. I referti sono pubblicati sulle pagine dei cani, con il numero di microchip in chiaro.</p>
 
   <p>Come funzionano quei test, cosa significano gli esiti e perch&eacute; due portatori sani non vanno mai accoppiati fra loro: lo spieghiamo nella <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">pagina dedicata ai test genetici</a>.</p>
+
+  <h2 class="section-title">Cucciolate programmate e passate</h2>
+
+  <div class="intro-block">
+  <p>Dal 2013 alleviamo Staffordshire Bull Terrier con un approccio etico: poche cucciolate selezionate, massima attenzione a salute, carattere e tipicità. Ogni cucciolata nasce da una pianificazione accurata, con obiettivi chiari di miglioramento della razza.</p>
+  <p>Non cerchiamo la quantità ma la qualità: preferiamo produrre pochi soggetti eccellenti piuttosto che molti soggetti mediocri. Questo ci permette di seguire ogni cane con la massima cura, dalla nascita all'inserimento nella nuova famiglia.</p>
+  <p>La nostra missione è preservare l'autenticità dello Staffordshire Bull Terrier attraverso una selezione responsabile e trasparente, rispettando lo standard di razza e il benessere degli animali.</p>
+  </div>
   </div>
   </section>
 
@@ -271,35 +295,7 @@ custom_content: |
   <p>Cosa accompagna il cucciolo e come funziona l'affido sta nella <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">pagina dei cuccioli</a>; se abiti fuori dall'Italia, i tempi e i documenti sono <a href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Cucciolo all'estero">in questa pagina</a>.</p>
 
   <h2>Domande frequenti sulle cucciolate</h2>
-
-  <div class="faq-item">
-  <h3 class="faq-question">Come faccio a conoscere i vostri cani?</h3>
-  <div class="faq-answer">
-  <p>Scrivici su WhatsApp o chiama. Prima si parla: della razza, di com&egrave; fatta la vostra casa, dei cani che stanno dietro a una cucciolata. Le famiglie che seguono una cucciolata ricevono foto e video mentre i cuccioli crescono.</p>
-  </div>
-  </div>
-
-  <div class="faq-item">
-  <h3 class="faq-question">Quando posso venire a vedere i cuccioli?</h3>
-  <div class="faq-answer">
-  <p>Le visite si concordano e si fanno dopo la terza settimana di vita. Si conoscono i genitori e si vede l&rsquo;ambiente in cui i cuccioli crescono. Meglio fissare la visita con qualche giorno di anticipo.</p>
-  </div>
-  </div>
-
-  <div class="faq-item">
-  <h3 class="faq-question">Cosa accompagna il cucciolo quando parte?</h3>
-  <div class="faq-answer">
-  <p>Pedigree ENCI, microchip, libretto sanitario, prime vaccinazioni e sverminazioni. I genitori sono testati per L2HGA e HC, e i referti sono pubblicati sulle pagine dei cani. Restiamo a disposizione per tutta la vita del cane.</p>
-  </div>
-  </div>
-
-  <div class="faq-item">
-  <h3 class="faq-question">Cosa c&rsquo;&egrave; dietro una vostra cucciolata?</h3>
-  <div class="faq-answer">
-  <p>Un accoppiamento pensato mesi prima, riproduttori testati per L2HGA e HC, pedigree ENCI e cuccioli cresciuti in casa. Scrivici e ti raccontiamo i cani e le cucciolate in programma.</p>
-  </div>
-  </div>
-
+  <p>Per conoscere in dettaglio il nostro metodo di selezione e gli accoppiamenti pianificati, contattaci.</p>
   <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sul%20programma%20di%20allevamento" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Informazioni sul programma" aria-label="Contattaci per informazioni sul programma di allevamento">Scrivici su WhatsApp</a>
   </section>
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Bloodlines Guide"
 date: 2025-11-08
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 translationKey: "linee-sangue"
 articolo: true
 image: "/images/blog/standard-1.webp"
@@ -39,7 +39,7 @@ custom_content: |
   </div>
   
   <h2>What a bloodline actually is</h2>
-  <p>A bloodline is not a sub-breed and it is not a brand. It is the accumulated result of decisions made by one breeder, or a small group of breeders, over many generations: which dogs were kept, which were mated together, and which traits were treated as non-negotiable. Two Staffordshire Bull Terriers from different lines are the same breed and must meet the same <a href="https://www.thekennelclub.org.uk/breed-standards/terrier/staffordshire-bull-terrier/" title="Staffordshire Bull Terrier breed standard, The Kennel Club" target="_blank" rel="noopener" aria-label="Staffordshire Bull Terrier breed standard, The Kennel Club (opens in a new tab)">breed standard</a>, but they can differ noticeably in bone, head proportion, temperament and working attitude.</p>
+  <p>A bloodline is not a sub-breed and it is not a brand. It is the accumulated result of decisions made by one breeder, or a small group of breeders, over many generations: which dogs were kept, which were mated together, and which traits were treated as non-negotiable. Two Staffordshire Bull Terriers from different lines are the same breed and must meet the same standard, but they can differ noticeably in bone, head proportion, temperament and working attitude.</p>
   <p>Understanding lines matters for two very different reasons. If you are buying a companion, it tells you what kind of dog you are likely to live with for the next 12 years. If you are considering breeding, it is the difference between a coherent programme and a series of hopeful accidents.</p>
 
   <h2>Where the lines come from</h2>
@@ -118,37 +118,27 @@ custom_content: |
 
   <div class="faq-item">
   <h3>How many original bloodlines did the Staffordshire Bull Terrier have?</h3>
-  <div class="faq-answer">
-  <p>Six, as identified by H. N. Beilby in 1943: the J, M, L, B, R and C lines. Three of them — L, B and C — have since died out, so the modern breed rests mainly on the M and R lines, with the J-Line surviving in smaller numbers.</p>
-  </div>
+  <div class="faq-answer">Six, as identified by H. N. Beilby in 1943: the J, M, L, B, R and C lines. Three of them — L, B and C — have since died out, so the modern breed rests mainly on the M and R lines, with the J-Line surviving in smaller numbers.</div>
   </div>
 
   <div class="faq-item">
   <h3>What is the M-Line and why does it matter so much?</h3>
-  <div class="faq-answer">
-  <p>The M-Line descends from Brindle Mick and accounts for more than half of the breed's genetic heritage. Its influence runs through Gentleman Jim, the first male champion, and it is associated with imposing heads and substantial bodies. Its very dominance is also a caution: so much shared ancestry narrows the gene pool.</p>
-  </div>
+  <div class="faq-answer">The M-Line descends from Brindle Mick and accounts for more than half of the breed's genetic heritage. Its influence runs through Gentleman Jim, the first male champion, and it is associated with imposing heads and substantial bodies. Its very dominance is also a caution: so much shared ancestry narrows the gene pool.</div>
   </div>
 
   <div class="faq-item">
   <h3>Who was Gentleman Jim?</h3>
-  <div class="faq-answer">
-  <p>Born on 25 May 1935 to breeder Jack Dunn, a son of Brindle Mick, he became the breed's first male champion in 1939. Almost every Staffordshire Bull Terrier alive today has him in its pedigree, frequently more than once.</p>
-  </div>
+  <div class="faq-answer">Born on 25 May 1935 to breeder Jack Dunn, a son of Brindle Mick, he became the breed's first male champion in 1939. Almost every Staffordshire Bull Terrier alive today has him in its pedigree, frequently more than once.</div>
   </div>
 
   <div class="faq-item">
   <h3>What is the difference between the Irish and the English lines?</h3>
-  <div class="faq-answer">
-  <p>Irish dogs have historically been slightly taller and more athletic than their English counterparts, bred with an emphasis on soundness and an outgoing character. English breeding is the reference point for head quality and proportion. Combining the two is a common and productive strategy, and it is the basis of our own selection.</p>
-  </div>
+  <div class="faq-answer">Irish dogs have historically been slightly taller and more athletic than their English counterparts, bred with an emphasis on soundness and an outgoing character. English breeding is the reference point for head quality and proportion. Combining the two is a common and productive strategy, and it is the basis of our own selection.</div>
   </div>
 
   <div class="faq-item">
   <h3>How much does the coefficient of inbreeding matter?</h3>
-  <div class="faq-answer">
-  <p>Enough to plan around. Linebreeding fixes type, but pushed too far it costs immune function, fertility and vigour rather than looks — which is why it goes unnoticed until it is expensive. We keep the coefficient over five generations low and will not repeat a close doubling merely because an ancestor is fashionable.</p>
-  </div>
+  <div class="faq-answer">Enough to plan around. Linebreeding fixes type, but pushed too far it costs immune function, fertility and vigour rather than looks — which is why it goes unnoticed until it is expensive. We keep the coefficient over five generations low and will not repeat a close doubling merely because an ancestor is fashionable.</div>
   </div>
 
   <div class="article-footer">

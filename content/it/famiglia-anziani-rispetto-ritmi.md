@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier per Anziani: Guida Completa"
 date: 2024-05-28
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 translationKey: "anziani"
 articolo: true
 image: "/images/blog/famiglia-2.webp"

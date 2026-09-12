@@ -1,6 +1,6 @@
 ---
 title: "Das Wesen des Staffordshire Bull Terrier: Woher es Kommt"
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 titleSeo: "Wesen des Staffy: wie es selektiert wurde"
 articolo: true
 translationKey: "carattere"

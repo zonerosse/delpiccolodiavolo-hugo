@@ -1,6 +1,6 @@
 ---
 title: "Staffy oder Amstaff: Welche der beiden Rassen passt zu Ihnen"
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 articolo: true
 image: "/images/blog/staffy-amstaff-hero.webp"
 titleSeo: "Staffy oder Amstaff: welche Rasse wählen"

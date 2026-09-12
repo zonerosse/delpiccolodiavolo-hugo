@@ -1,6 +1,6 @@
 ---
 title: "Bilquis × Black Jack Litter (August 2026)"
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 articolo: true
 titleSeo: "Bilquis × Black Jack litter, August 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"

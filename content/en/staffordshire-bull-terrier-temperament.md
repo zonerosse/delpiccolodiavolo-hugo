@@ -1,6 +1,6 @@
 ---
 title: "The Staffordshire Bull Terrier Temperament: Where It Comes From"
-lastmod: 2026-09-09
+lastmod: 2026-09-12
 titleSeo: "Staffy temperament: how it was selected"
 articolo: true
 translationKey: "carattere"
