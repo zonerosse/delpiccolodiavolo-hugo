@@ -43,6 +43,48 @@
   {{ end }}
 {{ end }}
 
+<!-- JSON-LD: Person — l'allevatore come entita' a se'.
+     Prima esisteva solo annidato dentro Organization e dentro Article: gli
+     strumenti che cercano un nodo Person non lo trovavano. Ora e' dichiarato
+     qui una volta, e gli altri blocchi lo richiamano con @id. -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "{{ $baseURL }}/#paolo-boldrini",
+  "name": "Paolo Boldrini",
+  "givenName": "Paolo",
+  "familyName": "Boldrini",
+  "jobTitle": "{{ if eq $lang "de" }}Staffordshire Bull Terrier Züchter{{ else if eq $lang "en" }}Staffordshire Bull Terrier Breeder{{ else }}Allevatore di Staffordshire Bull Terrier{{ end }}",
+  "description": "{{ if eq $lang "de" }}Züchtet seit 2013 in Ostellato (Ferrara) Staffordshire Bull Terrier. Davor Rottweiler-Züchter mit einem italienischen und einem Europachampion.{{ else if eq $lang "en" }}Breeding Staffordshire Bull Terriers in Ostellato (Ferrara) since 2013. Previously a Rottweiler breeder, with an Italian and a European Champion.{{ else }}Alleva Staffordshire Bull Terrier a Ostellato (Ferrara) dal 2013. In precedenza allevatore di Rottweiler, con un Campione Italiano e un Campione Europeo.{{ end }}",
+  "knowsAbout": [
+    "Staffordshire Bull Terrier",
+    "selezione cinofila",
+    "test genetici L2HGA HC PHPV",
+    "linee di sangue Elitebull",
+    "linee di sangue Lackyle",
+    "esposizioni cinofile ENCI",
+    "lettura del pedigree e coefficiente di consanguineita'"
+  ],
+  "knowsLanguage": ["it", "en"],
+  "homeLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Ostellato",
+      "addressRegion": "FE",
+      "addressCountry": "IT"
+    }
+  },
+  "worksFor": { "@id": "{{ $baseURL }}/#organization" },
+  "url": "{{ $baseURL }}{{ if eq $lang "en" }}/en/about-us/{{ else if eq $lang "de" }}/de/ueber-uns/{{ else }}/chi-siamo/{{ end }}",
+  "mainEntityOfPage": "{{ $baseURL }}{{ if eq $lang "en" }}/en/about-us/{{ else if eq $lang "de" }}/de/ueber-uns/{{ else }}/chi-siamo/{{ end }}",
+  "sameAs": [
+    "https://sbtpedigree.com/details?id=35858"
+  ]
+}
+</script>
+
 <!-- JSON-LD: Organization + LocalBusiness -->
 <script type="application/ld+json">
 {
@@ -115,26 +157,7 @@
     {"@type": "Country", "name": "Austria"},
     {"@type": "Place", "name": "Europe"}
   ],
-  "founder": {
-    "@type": "Person",
-    "@id": "{{ $baseURL }}/#paolo-boldrini",
-    "name": "Paolo Boldrini",
-    "jobTitle": "{{ if eq $lang "de" }}Staffordshire Bull Terrier Züchter{{ else if eq $lang "en" }}Staffordshire Bull Terrier Breeder{{ else }}Allevatore Staffordshire Bull Terrier{{ end }}",
-    "knowsAbout": [
-      "Staffordshire Bull Terrier",
-      "selezione cinofila",
-      "test genetici L2HGA HC PHPV",
-      "linee Elitebull",
-      "linee Lackyle",
-      "esposizioni cinofile ENCI"
-    ],
-    "url": "{{ $baseURL }}/chi-siamo/",
-    "description": "{{ if eq $lang "de" }}Züchtet seit 2013 in Ostellato (Ferrara) Staffordshire Bull Terrier. Davor Rottweiler-Züchter mit einem italienischen und einem europäischen Champion; zuvor internationaler Richter für Gloster-Kanarien.{{ else if eq $lang "en" }}Breeding Staffordshire Bull Terriers in Ostellato (Ferrara) since 2013. Previously a Rottweiler breeder who produced an Italian and a European Champion, and before that an international judge for Gloster canaries.{{ else }}Alleva Staffordshire Bull Terrier a Ostellato (Ferrara) dal 2013. In precedenza allevatore di Rottweiler, con un Campione Italiano e un Campione Europeo prodotti, e prima ancora giudice internazionale per canarini Gloster.{{ end }}",
-    "mainEntityOfPage": "{{ $baseURL }}/chi-siamo/",
-    "worksFor": {
-      "@id": "{{ $baseURL }}/#organization"
-    }
-  },
+  "founder": { "@id": "{{ $baseURL }}/#paolo-boldrini" },
   "contactPoint": [
     {
       "@type": "ContactPoint",
@@ -347,15 +370,7 @@
   "headline": "{{ .Title }}",
   "description": "{{ .Description }}",
   "image": "{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ $baseURL }}/images/femmina-bilquis-hero.avif{{ end }}",
-  "author": {
-    "@type": "Person",
-    "@id": "{{ $baseURL }}/#paolo-boldrini",
-    "name": "Paolo Boldrini",
-    "url": "{{ $baseURL }}/chi-siamo/",
-    "jobTitle": "{{ if eq $lang "de" }}Staffordshire Bull Terrier Züchter{{ else if eq $lang "en" }}Staffordshire Bull Terrier Breeder{{ else }}Allevatore Staffordshire Bull Terrier{{ end }}",
-    "knowsAbout": ["Staffordshire Bull Terrier", "selezione cinofila", "test genetici L2HGA HC PHPV", "linee Elitebull", "linee Lackyle"],
-    "worksFor": { "@id": "{{ $baseURL }}/#organization" }
-  },
+  "author": { "@id": "{{ $baseURL }}/#paolo-boldrini" },
   "publisher": {
     "@type": "Organization",
     "name": "Allevamento Del Piccolo Diavolo",
