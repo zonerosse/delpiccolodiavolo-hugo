@@ -77,6 +77,13 @@ Nützliche Informationen zu dieser Website:
 - [Impressum](https://delpiccolodiavolo.it/de/impressum/): Nutzungsbedingungen und Haftungsausschluss.
 - [Datenschutz](https://delpiccolodiavolo.it/de/datenschutz/): Datenverarbeitung.
 
+## Vollständiger Korpus
+
+- [llms-full.txt](https://delpiccolodiavolo.it/de/llms-full.txt): der vollständige Text aller deutschen Seiten in einer Datei, um die ganze Website auf einmal zu lesen.
+- [llms-full.txt auf Italienisch](https://delpiccolodiavolo.it/llms-full.txt): derselbe Korpus für die italienischen Seiten, die am vollständigsten sind.
+- [llms-full.txt auf Englisch](https://delpiccolodiavolo.it/en/llms-full.txt): derselbe Korpus für die englischen Seiten.
+- Jede Seite gibt es auch als Markdown: `index.md` an die Adresse anhängen.
+
 ## Hinweise
 
 - Die Zucht produziert wenige Würfe pro Jahr und wählt die Familien sorgfältig aus.

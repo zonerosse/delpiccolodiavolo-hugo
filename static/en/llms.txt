@@ -77,6 +77,13 @@ Useful information about this site:
 - [Legal notice](https://delpiccolodiavolo.it/en/legal-notice/): terms of use and disclaimer.
 - [Privacy policy](https://delpiccolodiavolo.it/en/privacy-policy/): data processing.
 
+## Full corpus
+
+- [llms-full.txt](https://delpiccolodiavolo.it/en/llms-full.txt): the full text of every English page in a single file, for reading the whole site in one pass.
+- [llms-full.txt in Italian](https://delpiccolodiavolo.it/llms-full.txt): the same corpus for the Italian pages, which are the most complete.
+- [llms-full.txt in German](https://delpiccolodiavolo.it/de/llms-full.txt): the same corpus for the German pages.
+- Every page is also available as Markdown: append `index.md` to any address.
+
 ## Notes
 
 - The kennel produces few litters per year and selects the families carefully.

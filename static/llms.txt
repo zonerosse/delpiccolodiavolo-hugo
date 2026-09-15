@@ -16,6 +16,8 @@ Informazioni utili su questo sito:
 ## Corpus completo
 
 - [llms-full.txt](https://delpiccolodiavolo.it/llms-full.txt): il testo integrale di tutte le pagine italiane in un unico file, per acquisire l'intero contenuto in una sola richiesta.
+- [llms-full.txt in inglese](https://delpiccolodiavolo.it/en/llms-full.txt): lo stesso corpus, per le pagine in inglese.
+- [llms-full.txt in tedesco](https://delpiccolodiavolo.it/de/llms-full.txt): lo stesso corpus, per le pagine in tedesco.
 
 ## Pagine principali
 
