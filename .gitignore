@@ -8,3 +8,5 @@ content_backup/
 
 # Zip di lavoro: fuori dal repo
 *.zip
+
+_archivio/
