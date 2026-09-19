@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier FAQ - Frequently Asked Questions"
-lastmod: 2026-09-05
+lastmod: 2026-09-19
 translationKey: "faq"
 description: "Answers to the most common questions about the Staffordshire Bull Terrier: temperament, health, cost and choosing a breeder."
 slug: "faq-staffordshire-bull-terrier"
@@ -50,7 +50,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is the Staffordshire Bull Terrier suitable for children?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Absolutely yes. The Staffordshire Bull Terrier is traditionally called "nanny dog" for its extraordinary patience with children. In our kennel we select balanced and stable characters, perfect for families. Our Staffies grow up in contact with children, naturally developing gentleness and protectiveness.</div>
+  <div class="faq-answer">First, something that applies to every breed: <strong>no dog should be left alone with a small child</strong>. The nickname "nanny dog" describes the Staffy's tolerance, not an ability to supervise: an adult present is not optional. That said, this is a dog built to live in a family, and how it grows up in the first weeks matters enormously &mdash; our puppies are among people of all ages from the start.</div>
   </div>
   
   <div class="faq-item active">
@@ -82,7 +82,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Does the Staffy get along with other dogs?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Yes, if well socialized from puppyhood. Our puppies grow up in contact with other balanced adult dogs, learning proper communication. With early and continuous socialization, the Staffy is sociable and playful. Many of our Staffies live happily with other dogs.</div>
+  <div class="faq-answer">It depends on the individual, and it needs saying plainly: this is a terrier, and the breed carries a degree of reactivity towards other dogs that socialisation reduces but does not erase &mdash; most often between dogs of the same sex, in adulthood. Early socialisation is still the best foundation. Our puppies grow up in contact with other balanced adult dogs, learning proper communication. With early and continuous socialization, the Staffy is sociable and playful. Many of our Staffies live happily with other dogs.</div>
   </div>
   
   <div class="faq-item active">

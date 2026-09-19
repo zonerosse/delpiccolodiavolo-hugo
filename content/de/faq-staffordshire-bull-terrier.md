@@ -1,6 +1,6 @@
 ---
 title: "FAQ Staffordshire Bull Terrier - Häufig gestellte Fragen"
-lastmod: 2026-09-05
+lastmod: 2026-09-19
 translationKey: "faq"
 description: "Antworten auf häufig gestellte Fragen über Staffordshire Bull Terrier: Charakter, Gesundheit, Welpen, Kosten, Ernährung, Training. Zucht Del Piccolo Diavolo."
 slug: "faq-staffordshire-bull-terrier"
@@ -50,7 +50,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Ist der Staffordshire Bull Terrier für Kinder geeignet?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Absolut ja. Der Staffordshire Bull Terrier wird traditionell "Nanny Dog" genannt wegen seiner außergewöhnlichen Geduld mit Kindern. In unserer Zucht selektieren wir ausgeglichene und stabile Charaktere, perfekt für Familien. Unsere Staffys wachsen in Kontakt mit Kindern auf und entwickeln natürlich Sanftheit und Schutzinstinkt.</div>
+  <div class="faq-answer">Zuerst etwas, das für jede Rasse gilt: <strong>kein Hund sollte mit einem kleinen Kind allein gelassen werden</strong>. Die Aufsicht eines Erwachsenen ist keine Option, sondern Pflicht. Davon abgesehen ist es ein Hund, der für das Leben in der Familie gemacht ist. Der Staffordshire Bull Terrier wird traditionell "Nanny Dog" genannt wegen seiner außergewöhnlichen Geduld mit Kindern. In unserer Zucht selektieren wir ausgeglichene und stabile Charaktere, perfekt für Familien. Unsere Staffys wachsen in Kontakt mit Kindern auf und entwickeln natürlich Sanftheit und Schutzinstinkt.</div>
   </div>
   
   <div class="faq-item active">
@@ -82,7 +82,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Versteht sich der Staffy mit anderen Hunden?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Ja, wenn er von klein auf gut sozialisiert wird. Unsere Welpen wachsen in Kontakt mit anderen ausgeglichenen erwachsenen Hunden auf und lernen die richtige Kommunikation. Mit früher und kontinuierlicher Sozialisierung ist der Staffy gesellig und verspielt. Viele unserer Staffys leben glücklich mit anderen Hunden.</div>
+  <div class="faq-answer">Das hängt vom einzelnen Hund ab, und das gehört klar gesagt: es ist ein Terrier, und in der Rasse gibt es eine Reaktivität gegenüber Artgenossen, die Sozialisierung mindert, aber nicht auslöscht &mdash; meist zwischen Hunden desselben Geschlechts, im Erwachsenenalter. Frühe Sozialisierung bleibt die beste Grundlage. Unsere Welpen wachsen in Kontakt mit anderen ausgeglichenen erwachsenen Hunden auf und lernen die richtige Kommunikation. Mit früher und kontinuierlicher Sozialisierung ist der Staffy gesellig und verspielt. Viele unserer Staffys leben glücklich mit anderen Hunden.</div>
   </div>
   
   <div class="faq-item active">

@@ -1,6 +1,6 @@
 ---
 title: "Staffy o Amstaff: Quale delle Due Razze Fa per Te"
-lastmod: 2026-09-12
+lastmod: 2026-09-19
 articolo: true
 translationKey: "differenza-staffy-amstaff"
 image: "/images/blog/staffy-amstaff-hero.webp"
@@ -63,7 +63,7 @@ categories: ["Standard"]
 
 <p>Entrambe le razze sono affettuose, leali e orientate alle persone. Tuttavia ci sono sfumature:</p>
 
-<p>Lo <strong>Staffy</strong> è tradizionalmente chiamato "nanny dog" per la sua straordinaria pazienza con i bambini. È giocherellone, un po' clownesco, e mantiene un'energia vivace anche in età adulta. È più "morbido" nel carattere.</p>
+<p>Lo <strong>Staffy</strong> è tradizionalmente chiamato "nanny dog" per la tolleranza verso i bambini &mdash; un soprannome che descrive il carattere, non una garanzia: la supervisione di un adulto resta necessaria. È giocherellone, un po' clownesco, e mantiene un'energia vivace anche in età adulta. È più "morbido" nel carattere.</p>
 
 <p>L'<strong>Amstaff</strong> è generalmente più calmo e posato da adulto. Ha una presenza più imponente e un carattere leggermente più serio, pur rimanendo affettuoso con la famiglia.</p>
 

@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier: Carattere, Vita in Famiglia e Cosa Aspettarsi"
 date: 2026-04-28
-lastmod: 2026-09-12
+lastmod: 2026-09-19
 titleSeo: "Staffordshire Bull Terrier: carattere e vita in famiglia"
 translationKey: "carattere-famiglia"
 articolo: true
@@ -79,7 +79,7 @@ custom_content: |
 
   <p>Questo è il punto su cui devo essere onesto. Lo Staffordshire Bull Terrier ha un'eredità storica da cane da combattimento — non lo si può ignorare. In alcuni soggetti, specialmente nei maschi non castrati, può emergere intolleranza verso altri cani dello stesso sesso.</p>
 
-  <p>La buona notizia: con socializzazione precoce e continua, la stragrande maggioranza degli Staffy vive felicemente con altri cani. Tutti i miei vivono in gruppo senza problemi. Ma richiede lavoro costante, soprattutto nei primi mesi di vita.</p>
+  <p>La socializzazione precoce e continua riduce molto il problema, e la maggior parte degli Staffy convive bene con altri cani &mdash; ma è una tendenza, non una regola, e si valuta cane per cane. Tutti i miei vivono in gruppo senza problemi. Ma richiede lavoro costante, soprattutto nei primi mesi di vita.</p>
 
   <p>Chi mi chiede "posso tenerlo con un altro cane?" riceve sempre la stessa risposta: dipende dal soggetto, dalla selezione del carattere e da quanto investi nella socializzazione. Non è una risposta semplice perché la realtà non lo è.</p>
 
