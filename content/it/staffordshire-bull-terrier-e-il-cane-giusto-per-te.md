@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier: è il cane giusto per te? Pro e contro"
-lastmod: 2026-09-12
+lastmod: 2026-09-19
 titleSeo: "Staffordshire Bull Terrier: è il cane giusto per te?"
 translationKey: "cane-giusto"
 articolo: true
@@ -149,7 +149,7 @@ custom_content: |
   <div class="faq-item">
   <h3 class="faq-question">Va d'accordo con i bambini?</h3>
   <div class="faq-answer">
-  <p>Tradizionalmente sì, tanto da essere chiamato "nanny dog", ed è tra i cani più adatti alla vita familiare. Lo standard ufficiale lo descrive come "altamente affettuoso, specialmente con i bambini". ⚠️ Resta però una regola di sicurezza fondamentale, valida per ogni razza: <strong>un bambino piccolo e un cane non vanno mai lasciati soli senza la supervisione di un adulto</strong>.</p>
+  <p>È un cane che con i bambini è tollerante, tanto da essersi guadagnato il soprannome di "nanny dog". Ma il soprannome descrive il carattere, non sostituisce la sorveglianza: un adulto presente è la regola, con questa come con qualsiasi razza. Lo standard ufficiale lo descrive come "altamente affettuoso, specialmente con i bambini". ⚠️ Resta però una regola di sicurezza fondamentale, valida per ogni razza: <strong>un bambino piccolo e un cane non vanno mai lasciati soli senza la supervisione di un adulto</strong>.</p>
   </div>
   </div>
   

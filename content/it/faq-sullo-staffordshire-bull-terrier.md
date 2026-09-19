@@ -1,7 +1,7 @@
 ---
 title: "FAQ sullo Staffordshire Bull Terrier"
 titleSeo: "FAQ Staffordshire Bull Terrier: le domande più frequenti"
-lastmod: 2026-09-08
+lastmod: 2026-09-19
 translationKey: "faq"
 description: "Risposte alle domande più frequenti sullo Staffordshire Bull Terrier: carattere, salute, cuccioli ENCI, costi, alimentazione, addestramento."
 slug: "faq-sullo-staffordshire-bull-terrier"
@@ -52,7 +52,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Lo Staffordshire Bull Terrier è adatto ai bambini?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Assolutamente sì. Lo Staffordshire Bull Terrier è tradizionalmente chiamato "nanny dog" per la sua straordinaria pazienza con i bambini. Nel nostro allevamento selezioniamo caratteri equilibrati e stabili, perfetti per famiglie. I nostri Staffy crescono a contatto con bambini, sviluppando naturalmente dolcezza e protezione.</div>
+  <div class="faq-answer">Prima una cosa che vale per ogni razza: <strong>nessun cane va lasciato solo con un bambino piccolo</strong>. Il soprannome "nanny dog" descrive la tolleranza dello Staffy, non una capacità di sorveglianza: la supervisione di un adulto non è un'opzione. Detto questo, è un cane costruito per stare in famiglia, e il modo in cui cresce nelle prime settimane pesa moltissimo — i nostri cuccioli stanno in mezzo a persone di età diverse fin da subito. Come si imposta la convivenza, regole comprese, lo spieghiamo nella <a href="/famiglia-bambini-convivenza/" title="Staffy e bambini">guida su Staffy e bambini</a>.</div>
   </div>
   
   <div class="faq-item active">
@@ -84,7 +84,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Lo Staffy va d'accordo con altri cani?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Sì, se ben socializzato da cucciolo. I nostri cuccioli crescono a contatto con altri cani adulti equilibrati, imparando la comunicazione corretta. Con socializzazione precoce e continua, lo Staffy è socievole e giocherellone. Molti nostri Staffy vivono felicemente con altri cani.</div>
+  <div class="faq-answer">Dipende dal soggetto, e va detto chiaramente: è un terrier, e nella razza esiste una componente di reattività verso i propri simili che la socializzazione riduce ma non cancella. Può emergere soprattutto fra cani dello stesso sesso, in età adulta. La socializzazione precoce resta la base migliore — i nostri cuccioli crescono con adulti equilibrati e imparano a comunicare — ma un cane che al parco sta bene può non accettare un cane nuovo in casa, perché il territorio cambia tutto. Gli inserimenti si fanno con metodo: ne parliamo nella <a href="/famiglia-convivenza-altri-animali/" title="Staffy e altri animali">guida sulla convivenza con altri animali</a>.</div>
   </div>
   
   <div class="faq-item active">
@@ -92,7 +92,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Differenza tra Staffy e Amstaff?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Sono due razze diverse riconosciute FCI. Lo Staffordshire Bull Terrier (Staffy inglese) è più piccolo: maschi 35-40 cm per 12-17 kg. L'American Staffordshire Terrier (Amstaff) è più grande: maschi 43-48 cm per 25-30 kg. Lo Staffy mantiene il carattere "nanny dog" perfetto per famiglie.</div>
+  <div class="faq-answer">Sono due razze diverse riconosciute FCI. Lo Staffordshire Bull Terrier (Staffy inglese) è più piccolo: maschi 35-40 cm per 12-17 kg. L'American Staffordshire Terrier (Amstaff) è più grande: maschi 43-48 cm per 25-30 kg. Lo Staffy resta un cane costruito per stare in famiglia, con le attenzioni che merita qualsiasi cane robusto.</div>
   </div>
   
   <div class="faq-item active">
@@ -164,7 +164,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Qual è il carattere tipico dello Staffy?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Carattere straordinario: affettuoso, leale, coraggioso, paziente e giocherellone. Estremamente orientato alle persone, adora stare con la famiglia. Con i bambini è paziente e gentile. Ha un lato buffo e clownesco. È intelligente e sensibile.</div>
+  <div class="faq-answer">Carattere straordinario: affettuoso, leale, coraggioso, paziente e giocherellone. Estremamente orientato alle persone, adora stare con la famiglia. Con i bambini è tollerante, sempre sotto la supervisione di un adulto. Ha un lato buffo e clownesco. È intelligente e sensibile.</div>
   </div>
   
   <div class="faq-item active">

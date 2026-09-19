@@ -1,7 +1,7 @@
 ---
 title: "Blog Staffordshire Bull Terrier"
 titleSeo: "Guide sullo Staffordshire Bull Terrier: salute e cuccioli"
-lastmod: 2026-09-12
+lastmod: 2026-09-19
 tipoPagina: "CollectionPage"
 translationKey: "blog"
 description: "Articoli su cuccioli, salute, standard e convivenza dello Staffordshire Bull Terrier. Consigli pratici dall'allevamento."
@@ -192,7 +192,7 @@ custom_content: |
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Gen 2026</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/staffordshire-bull-terrier-carattere/" title="Leggi: Carattere e Temperamento">Staffordshire Bull Terrier: Carattere e Temperamento</a></h3>
-  <p>Il vero volto del "nanny dog" inglese: affettuoso, leale, paziente con i bambini.</p>
+  <p>Il vero volto del "nanny dog" inglese, e perché il soprannome non sostituisce la sorveglianza.</p>
   <a class="read" href="/staffordshire-bull-terrier-carattere/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Staffordshire Bull Terrier: Carattere e Temperamento">Leggi →</a>
   </div>
   </article>
