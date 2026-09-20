@@ -2,7 +2,7 @@
 title: "Bio Sensor: cosa dice davvero la ricerca"
 date: 2026-09-09
 titleSeo: "Bio Sensor e stimolazione precoce: cosa dice la ricerca"
-lastmod: 2026-09-12
+lastmod: 2026-09-20
 translationKey: "biosensor"
 articolo: true
 image: "/images/blog/neonati-hero.webp"
@@ -56,6 +56,8 @@ custom_content: |
   <h2>Cosa regge e cosa no</h2>
 
   <p>Quei benefici vengono dal programma militare, non da studi pubblicati e verificati da altri ricercatori. È una differenza che conta: significa che la fonte originale non è controllabile.</p>
+
+  <p>La diffusione del metodo fra gli allevatori si deve soprattutto a un articolo di Carmen Battaglia pubblicato sul <a href="https://www.journalvetbehavior.com/" target="_blank" rel="noopener" aria-label="Journal of Veterinary Behavior (si apre in una nuova scheda)">Journal of Veterinary Behavior</a> nel 2009: è da lì che l'ENS è arrivato al mondo cinofilo, ed è una rassegna divulgativa, non uno studio controllato.</p>
 
   <p>Negli anni successivi qualche ricerca indipendente sul cane è stata fatta, ma è poca e i risultati non vanno tutti nella stessa direzione: alcuni lavori riportano differenze, altri non ne trovano di misurabili sull'animale adulto. Non esiste, a oggi, uno studio ampio e ben controllato che dimostri che quei cinque esercizi producano un cane adulto più equilibrato.</p>
 

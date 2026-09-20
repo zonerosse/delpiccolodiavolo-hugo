@@ -2,7 +2,7 @@
 title: "Cuccioli: Gestione della solitudine"
 date: 2025-07-08
 titleSeo: "Insegnare al cucciolo a restare solo, senza stress"
-lastmod: 2026-09-12
+lastmod: 2026-09-20
 translationKey: "solitudine"
 articolo: true
 image: "/images/blog/neonati-2-hero.webp"
@@ -58,6 +58,8 @@ custom_content: |
   </div>
   
   <h2>Preparare l'ambiente</h2>
+
+  <p>L'ansia da separazione &egrave; un disturbo riconosciuto, non un capriccio: le <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="Position statement AVSAB (si apre in una nuova scheda)">linee guida AVSAB</a> raccomandano di intervenire presto e per gradi, e di rivolgersi a un professionista quando il cane va in panico.</p>
   <ul>
   <li><strong>Zona riposo dedicata:</strong> cuccia o recinto/x‑pen in un'area tranquilla, temperatura adeguata, acqua disponibile.</li>
   <li><strong>Sicurezza:</strong> rimuovi cavi, piante tossiche, oggetti fragili; lascia solo giochi sicuri e robusti.</li>

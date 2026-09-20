@@ -2,7 +2,7 @@
 title: "Cuccioli: Educazione ai bisogni"
 date: 2025-05-22
 titleSeo: "Educare il cucciolo ai bisogni: metodo e tempi reali"
-lastmod: 2026-09-12
+lastmod: 2026-09-20
 translationKey: "bisogni"
 articolo: true
 image: "/images/blog/cucciolo-ritratto-hero.webp"
@@ -48,6 +48,8 @@ custom_content: |
   </div>
   
   <h2>Routine di base per il cucciolo</h2>
+
+  <p>Sulla finestra della socializzazione e sull'uso del rinforzo positivo il riferimento internazionale sono le <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="Position statement AVSAB (si apre in una nuova scheda)">linee guida AVSAB</a>: raccomandano di cominciare presto e di evitare i metodi coercitivi, che peggiorano i problemi invece di risolverli.</p>
   <ul>
   <li><strong>Uscite programmate:</strong> risveglio, dopo pasto, dopo gioco, prima di dormire.</li>
   <li><strong>Frequenza iniziale:</strong> ogni 2–3 ore, poi si dirada progressivamente.</li>

@@ -1,6 +1,6 @@
 ---
 title: "Quanto Costa un Cucciolo di Staffordshire Bull Terrier nel 2026"
-lastmod: 2026-09-02
+lastmod: 2026-09-20
 articolo: true
 translationKey: "quanto-costa"
 image: "/images/blog/cuccioli-1.webp"
@@ -18,6 +18,8 @@ Se ti capita di trovare cuccioli di Staffordshire Bull Terrier a poche centinaia
 In questo articolo ti spiego esattamente cosa include quel prezzo, perché i cuccioli "economici" sono un rischio e come distinguere un allevatore serio da un cagnaro. Se non sai ancora da dove iniziare, leggi prima <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento Staffordshire Bull Terrier">come scegliere un allevamento Staffordshire Bull Terrier</a>.
 
 ## Cosa include il prezzo di un cucciolo serio
+
+Una parte di quel prezzo non dipende dall'allevatore: l'iscrizione di una cucciolata al libro genealogico ha tariffe fissate dall'<a href="https://www.enci.it/libro-genealogico" target="_blank" rel="noopener" aria-label="Libro genealogico ENCI (si apre in una nuova scheda)">ENCI</a> e uguali per tutti, e a quelle si aggiungono i test genetici dei riproduttori e le spese veterinarie.
 
 Quando acquisti da un allevatore responsabile, il prezzo include:
 

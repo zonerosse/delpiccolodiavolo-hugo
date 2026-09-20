@@ -1,7 +1,7 @@
 ---
 title: "Test Genetici L2-HGA e HC Staffordshire Bull Terrier"
 date: 2025-11-20
-lastmod: 2026-09-12
+lastmod: 2026-09-20
 translationKey: "test-genetici"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -124,6 +124,8 @@ custom_content: |
   <p>A differenza di L2-HGA, la cataratta può essere trattata chirurgicamente con buoni risultati, ma l'intervento è costoso (diverse migliaia di euro) e richiede cure post-operatorie impegnative. La prevenzione attraverso test genetici resta l'approccio migliore.</p>
   
   <h2>Come Funzionano i Test Genetici</h2>
+
+  <p>Il test per L2-HGA e per la cataratta ereditaria &egrave; riconosciuto a livello internazionale: il <a href="https://www.thekennelclub.org.uk/health-and-dog-care/health/health-and-care/az-of-health-and-care-issues/dna-testing-schemes/" target="_blank" rel="noopener" aria-label="Programmi di test del DNA del Kennel Club (si apre in una nuova scheda)">Kennel Club britannico</a> lo include nei propri programmi ufficiali, ed &egrave; il motivo per cui un referto emesso da un laboratorio accreditato vale ovunque in Europa.</p>
   
   <p>I test genetici per L2-HGA e HC sono semplici, economici e definitivi. Ecco come funzionano.</p>
   
