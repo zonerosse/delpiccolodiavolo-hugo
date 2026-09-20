@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Bloodlines Guide"
 date: 2025-11-08
-lastmod: 2026-09-12
+lastmod: 2026-09-20
 translationKey: "linee-sangue"
 articolo: true
 image: "/images/blog/standard-1.webp"
@@ -118,27 +118,27 @@ custom_content: |
 
   <div class="faq-item">
   <h3>How many original bloodlines did the Staffordshire Bull Terrier have?</h3>
-  <div class="faq-answer">Six, as identified by H. N. Beilby in 1943: the J, M, L, B, R and C lines. Three of them — L, B and C — have since died out, so the modern breed rests mainly on the M and R lines, with the J-Line surviving in smaller numbers.</div>
+  <div class="faq-answer">When the breed was officially recognised by the British Kennel Club in 1935, the founding gene pool traced back to a limited number of stems, traditionally described as <strong>six male lines</strong>, each identified by a letter. Every pedigree Staffordshire Bull Terrier alive today descends from those stems in varying degrees. Not all fared equally: some all but died out, others spread enormously because certain dogs produced heavily and were used everywhere. It shows clearly on SBTPedigree when you follow a tree back eight or ten generations &mdash; the same names reappear from several branches, which is why the coefficient of inbreeding rises the further back you count.</div>
   </div>
 
   <div class="faq-item">
   <h3>What is the M-Line and why does it matter so much?</h3>
-  <div class="faq-answer">The M-Line descends from Brindle Mick and accounts for more than half of the breed's genetic heritage. Its influence runs through Gentleman Jim, the first male champion, and it is associated with imposing heads and substantial bodies. Its very dominance is also a caution: so much shared ancestry narrows the gene pool.</div>
+  <div class="faq-answer">The M-Line is one of the breed's founding male lines, and it became the most widespread internationally: a great many modern Staffordshire Bull Terriers descend from it, even when the name does not appear in the first generations of a pedigree. SBTPedigree states a dog's male line of descent explicitly, and it is not a collector's detail: <strong>it tells you where the most conservative part of the gene pool comes from</strong>, the part passed from father to son. Its very spread has a downside: the more widespread a line, the easier it is to double up on it in a mating without noticing. That is precisely what a test mating shows you beforehand.</div>
   </div>
 
   <div class="faq-item">
   <h3>Who was Gentleman Jim?</h3>
-  <div class="faq-answer">Born on 25 May 1935 to breeder Jack Dunn, a son of Brindle Mick, he became the breed's first male champion in 1939. Almost every Staffordshire Bull Terrier alive today has him in its pedigree, frequently more than once.</div>
+  <div class="faq-answer">Gentleman Jim is one of the names that recur most often in the breed's historic pedigrees: a British stud dog whose influence extended so widely that he still appears in a great many family trees when you go back several generations. The reason certain dogs weigh so heavily is not only their quality: it is that they were used a great deal, and a stud used heavily multiplies his influence exponentially. <strong>That works in both directions</strong>: it spreads the virtues but also the faults, which is why in a numerically limited breed it is worth looking at how often an ancestor appears, not just at his reputation.</div>
   </div>
 
   <div class="faq-item">
   <h3>What is the difference between the Irish and the English lines?</h3>
-  <div class="faq-answer">Irish dogs have historically been slightly taller and more athletic than their English counterparts, bred with an emphasis on soundness and an outgoing character. English breeding is the reference point for head quality and proportion. Combining the two is a common and productive strategy, and it is the basis of our own selection.</div>
+  <div class="faq-answer">Less than is usually claimed. Descriptions that assign fixed traits by nationality &mdash; the English like this, the Irish like that &mdash; are simplifications: within each tradition there are very different kennels, and the lines have been crossing for decades. What can honestly be said is that certain historic kennels left a recognisable stamp on type, and that people who select learn to recognise it by looking at dogs rather than at flags. In our own case we work with <strong>Elitebull</strong>, English, and <strong>Lackyle</strong>, Irish &mdash; and these are not opposites, because Lackyle's historic dogs appear inside Elitebull pedigrees.</div>
   </div>
 
   <div class="faq-item">
   <h3>How much does the coefficient of inbreeding matter?</h3>
-  <div class="faq-answer">Enough to plan around. Linebreeding fixes type, but pushed too far it costs immune function, fertility and vigour rather than looks — which is why it goes unnoticed until it is expensive. We keep the coefficient over five generations low and will not repeat a close doubling merely because an ancestor is fashionable.</div>
+  <div class="faq-answer">It is one of the two numbers to look at before planning a mating, but on its own it is not enough. The coefficient tells you <strong>how much</strong> you are tightening, not <strong>on whom</strong>: doubling up on an outstanding dog is a selection technique, doubling up on a mediocre one multiplies his faults. The range we work within is 6 to 9 per cent, though that is a matter of judgement rather than doctrine. There is also a technical point few people explain: the figure depends on how many generations are counted. The same dog can show 9 per cent over eight generations and 21 per cent over the full pedigree.</div>
   </div>
 
   <div class="article-footer">

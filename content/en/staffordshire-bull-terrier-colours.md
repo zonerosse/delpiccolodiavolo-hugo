@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Colours: Black, Brindle, Blue and More"
-lastmod: 2026-09-12
+lastmod: 2026-09-20
 titleSeo: "Staffordshire Bull Terrier colours: black, brindle, blue"
 translationKey: "colori"
 articolo: true
@@ -96,37 +96,27 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">What is the rarest Staffordshire Bull Terrier colour?</h3>
-  <div class="faq-answer">
-  <p>Among the permitted colours, blue is the least common because it comes from a diluted gene. Be careful, though: "rarity" is often used as a sales lever to raise the price, ignoring that blue carries possible health risks (dilution alopecia). A rare colour is not a value in itself: what counts is health, breed type and the correctness of the breeding.</p>
-  </div>
+  <div class="faq-answer">Among the colours permitted by the standard, the hardest to find are <strong>blue brindle</strong> and a well-defined <strong>fawn with a black mask</strong>. Rarity, though, should be read for what it is: a matter of gene frequency in the lines, not an index of value. A rare colour does not make a dog healthier, better or more typical, and when a kennel builds its marketing on colour rather than on temperament, health and structure, something is off. It is also worth knowing that some colours marketed as exotic are excluded from the standard precisely because they signal crossbreeding: <em>merle</em>, for instance, does not exist in the breed.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Is black and tan permitted?</h3>
-  <div class="faq-answer">
-  <p>No. The FCI standard expressly excludes black and tan and the liver colour. A dog with these coats does not conform to the breed standard, even if it can be an excellent companion. The presence of these colours may indicate crosses or non-pure lines.</p>
-  </div>
+  <div class="faq-answer">No. The breed standard explicitly excludes black and tan and liver, and the reason is not aesthetic: those colours are historically associated with crosses to other breeds, so their presence casts doubt on the purity of the line. A black and tan puppy can still be born to two pedigree parents, because the gene can stay hidden for generations, and such a dog is no less healthy and no less affectionate: it simply <strong>cannot be used for breeding and cannot be shown</strong>. A serious breeder says so openly instead of selling it as a rare colour at a premium, which is exactly what happens elsewhere.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Is a blue dog less healthy than the others?</h3>
-  <div class="faq-answer">
-  <p>Not necessarily, but the dilution gene that produces blue is associated in a proportion of dogs with colour dilution alopecia (CDA), a skin condition. This is why responsible breeders avoid matings between two diluted dogs and treat blue with caution, putting health before aesthetics.</p>
-  </div>
+  <div class="faq-answer">Blue is permitted by the standard, so it is not a fault in itself. What deserves attention is that the dilution gene, across many breeds, comes with a higher frequency of <strong>colour dilution alopecia</strong>, a condition causing thinning coat and recurrent dermatitis, usually appearing between six months and three years. Not every blue dog develops it, but the risk is higher than in non-diluted coats. The real problem arises when breeders select <em>for</em> the colour: mating two blues simply to produce blue puppies concentrates the dilution and the risk with it. Colour should be a consequence of a mating, never its objective.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Does the coat colour change as the dog grows?</h3>
-  <div class="faq-answer">
-  <p>The base colour stays the same, but the shades can become better defined with growth. Brindle puppies, for example, show sharper striping as they grow, and black dogs can lighten slightly in the sun. The structure of the colour, however, is genetically determined at birth.</p>
-  </div>
+  <div class="faq-answer">Yes, often considerably. Brindle is the clearest case: many puppies look almost black and only develop their striping after some weeks, as the coat lengthens and lightens. Fawn tends to darken or lighten up to about a year, and the black mask on the muzzle can recede with age. White markings also shift slightly as the puppy grows and the skin stretches. The practical consequence is that <strong>choosing a puppy for its colour at three weeks makes no sense</strong>: what you see then is not what you will have. Temperament and structure are far more reliable criteria for matching a puppy to a family.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Does colour affect the price of the puppy?</h3>
-  <div class="faq-answer">
-  <p>In a serious kennel, no: the price reflects the selection, the health, the genetic tests and the pedigree, not the "fashion" of a colour. If a seller asks much more for a "rare" colour (typically blue), that is a warning sign. Find out <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/">what to check before getting a puppy</a>.</p>
-  </div>
+  <div class="faq-answer">It should not, and when it does it tells you something about the breeder. The value of a puppy lies in the parents' genetic tests, the pedigree, the selection work behind the mating and the first eight weeks of rearing &mdash; all of which cost the same whatever the coat. Anyone charging more for a <em>rare</em> puppy is selling a sense of exclusivity, and at worst is pushing colours outside the standard &mdash; extreme dilute, merle, black and tan &mdash; that have nothing to do with the breed. The question to ask anyone quoting a premium for colour is simple: <strong>what tests do the parents have, and may I see the reports with the microchip numbers?</strong></div>
   </div>
   
   </section>

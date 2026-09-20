@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Zucht"
-lastmod: 2026-09-12
+lastmod: 2026-09-20
 translationKey: "home"
 description: "Ethische Staffordshire Bull Terrier Zucht seit 2013. ENCI-Ahnentafel, Gentest-Befunde und Mikrochips der Zuchttiere online veröffentlicht und überprüfbar."
 correlati:
@@ -182,7 +182,7 @@ custom_content: |
   <span>Ist der Staffordshire Bull Terrier gefahrlich?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Nein. Mit seriöser Charakterselektion, früher Sozialisierung und verantwortungsvollen Besitzern ist der Staffy ein liebevoller und stabiler Hund. Ich züchte diese Rasse seit 2013 und kann garantieren, dass Aggression von Genetik, Erziehung und Umgebung abhängt, nicht von der Rasse.</div>
+  <div class="faq-answer">Der Staffordshire Bull Terrier steht in Italien auf keiner Liste gefährlicher Rassen: das Verzeichnis wurde 2009 abgeschafft, die Verantwortung liegt seither beim Halter. Eine 2020 veröffentlichte Studie des Royal Veterinary College mit über 22.000 Hunden fand keinen signifikanten Unterschied in der Aggressivität, der auf die Rasse zurückzuführen wäre. Gegenüber Menschen beschreibt der Standard einen zuverlässigen Hund, und dabei entscheidet die Selektion des Wesens fast alles. Wirklich wissenswert ist etwas anderes: als Terrier kann er <strong>Reaktivität gegenüber anderen Hunden</strong> zeigen, meist zwischen Hunden desselben Geschlechts im Erwachsenenalter.</div>
   </div>
   
   <div class="faq-item active">
@@ -190,7 +190,7 @@ custom_content: |
   <span>Ist der Staffy gut mit Kindern?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Absolut ja. Traditionell "Nanny Dog" genannt wegen seiner ausserordentlichen Geduld mit Kindern. Unsere Staffies wachsen im Kontakt mit Kindern auf und entwickeln natürlich Sanftheit und Schutzinstinkt.</div>
+  <div class="faq-answer">Zuerst etwas, das für jede Rasse gilt: <strong>kein Hund sollte mit einem kleinen Kind allein gelassen werden</strong>, und die Aufsicht eines Erwachsenen ist keine Option. Davon abgesehen ist es ein Hund, der für das Familienleben gemacht ist: der englische Beiname "Nanny Dog" rührt von seiner Toleranz gegenüber Kindern her, beschreibt aber ein Wesen und verleiht keine Fähigkeit zur Beaufsichtigung. Den Unterschied machen die Auswahl der Elterntiere, die ersten acht Wochen und die Regeln, die die Familie zu Hause setzt: ein Platz, an dem der Hund nie gestört wird, kurze Interaktionen und ein Erwachsener im Raum.</div>
   </div>
   
   <div class="faq-item active">
@@ -198,7 +198,7 @@ custom_content: |
   <span>Welche Gentests fuhren Sie durch?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Alle unsere Zuchthunde sind getestet auf: L2HGA, HC (Hereditare Katarakt) und PHPV. Tests sind unerlässlich für die Aufzucht gesunder Welpen. Jeder Welpe kommt mit Zertifikaten der Elterntests.</div>
+  <div class="faq-answer">Alle Zuchttiere von Del Piccolo Diavolo werden auf <strong>L2-HGA</strong>, eine neurologische Erkrankung, auf <strong>HC</strong>, den juvenilen erblichen Katarakt, und auf <strong>PHPV</strong>, eine angeborene Augenanomalie, getestet. Die ersten beiden per DNA-Test, die dritte durch eine augenärztliche Spezialuntersuchung. Alle drei werden rezessiv vererbt: zwei freie Elterntiere können keine erkrankten Welpen hervorbringen, und Träger werden hier nicht zur Zucht eingesetzt. Die Laborbefunde sind auf dieser Website veröffentlicht, mit der <strong>Mikrochipnummer im Klartext</strong> &mdash; erst diese Nummer macht einen Befund überprüfbar, denn ohne sie könnte er sich auf jeden beliebigen Hund beziehen.</div>
   </div>
   
   <div class="faq-item active">
@@ -206,7 +206,7 @@ custom_content: |
   <span>Kann ich die Zucht besuchen?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Absolut ja, tatsachlich empfehle ich es dringend. In unserer Zucht in Ostellato (Ferrara, Italien) empfange ich Besucher nach Vereinbarung. Sie sehen die erwachsenen Hunde, wie die Welpen leben, und können Dokumentation und Ahnentafel prüfen.</div>
+  <div class="faq-answer">Ja, und es ist der richtige Weg, uns kennenzulernen. Del Piccolo Diavolo liegt in Ostellato, Provinz Ferrara, und empfängt ausschließlich nach Terminvereinbarung, damit wir uns Zeit nehmen können, ohne die Hunde zu stressen. Beim Besuch sehen Sie die erwachsenen Hunde und die Mutter des Wurfs, den Ort, an dem die Welpen geboren werden und aufwachsen, und können Ahnentafeln und Testbefunde persönlich prüfen. Es ist auch der Moment, in dem wir ein paar Fragen stellen. <strong>Wer einen unserer Welpen nimmt, kommt hierher</strong>: wir versenden keine Hunde.</div>
   </div>
   
   </div>
