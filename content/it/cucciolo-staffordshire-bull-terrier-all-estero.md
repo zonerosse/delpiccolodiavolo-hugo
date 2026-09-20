@@ -1,6 +1,6 @@
 ---
 title: "Cucciolo Staffy all'estero: tempi e documenti"
-lastmod: 2026-09-12
+lastmod: 2026-09-20
 articolo: true
 translationKey: "cucciolo-estero"
 description: "Un cucciolo destinato a un altro paese europeo parte a quattro mesi, non a due. Antirabbica, passaporto, certificato TRACES ed export pedigree ENCI."
@@ -47,6 +47,8 @@ custom_content: |
   <p>Non è un ostacolo burocratico da aggirare: è il tempo che serve. Chi propone di far partire un cucciolo di due mesi verso un altro paese o non conosce le regole o le sta violando, e in entrambi i casi vale la pena chiedersi cos'altro non stia facendo.</p>
 
   <h2>Cosa lo accompagna</h2>
+
+  <p>I movimenti di cani fra paesi dell'Unione Europea seguono il <a href="https://food.ec.europa.eu/animals/movement-pets_en" target="_blank" rel="noopener" aria-label="Regolamento europeo sui movimenti degli animali da compagnia (si apre in una nuova scheda)">Regolamento UE 576/2013</a>, che stabilisce passaporto, microchip e antirabbica in regola. Non sono formalit&agrave; nostre: sono requisiti di legge, e senza il cane alla frontiera non passa.</p>
 
   <ul>
   <li><strong>Microchip</strong> conforme allo standard europeo, registrato</li>

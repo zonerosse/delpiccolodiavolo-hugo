@@ -1,6 +1,6 @@
 ---
 title: "Staffy o Amstaff: Quale delle Due Razze Fa per Te"
-lastmod: 2026-09-19
+lastmod: 2026-09-20
 articolo: true
 translationKey: "differenza-staffy-amstaff"
 image: "/images/blog/staffy-amstaff-hero.webp"

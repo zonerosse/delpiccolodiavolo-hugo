@@ -2,7 +2,7 @@
 title: "Cuccioli: Giochi mentali"
 date: 2025-08-03
 titleSeo: "Giochi mentali per cuccioli di Staffordshire Bull Terrier"
-lastmod: 2026-09-12
+lastmod: 2026-09-20
 translationKey: "giochi-mentali"
 articolo: true
 image: "/images/blog/cuccioli-6.webp"
@@ -48,6 +48,8 @@ custom_content: |
   </div>
   
   <h2>Linee guida per iniziare</h2>
+
+  <p>L'arricchimento ambientale non &egrave; un passatempo: le <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="Position statement AVSAB (si apre in una nuova scheda)">linee guida AVSAB</a> lo mettono fra gli strumenti che riducono i problemi di comportamento, insieme all'esercizio fisico e a una giornata prevedibile.</p>
   <ul>
   <li>Sessioni di 3–6 minuti, 2–3 volte al giorno.</li>
   <li>Difficoltà crescente: inizia facile, poi aumenta un passetto alla volta.</li>
