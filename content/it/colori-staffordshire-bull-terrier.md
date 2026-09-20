@@ -1,6 +1,6 @@
 ---
 title: "I colori dello Staffordshire Bull Terrier: nero, tigrato, blu e altri"
-lastmod: 2026-09-12
+lastmod: 2026-09-20
 titleSeo: "Colori dello Staffordshire Bull Terrier: nero, tigrato, blu"
 translationKey: "colori"
 articolo: true
@@ -96,37 +96,27 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Qual è il colore più raro dello Staffordshire Bull Terrier?</h3>
-  <div class="faq-answer">
-  <p>Tra i colori ammessi, il blu è il meno comune perché deriva da un gene diluito. Attenzione però: la "rarità" viene spesso usata come leva commerciale per alzare il prezzo, ignorando che il blu comporta possibili rischi di salute (alopecia da diluizione). Un colore raro non è di per sé un valore: contano salute, tipicità e correttezza dell'allevamento.</p>
-  </div>
+  <div class="faq-answer">Fra i colori ammessi dallo standard, i pi&ugrave; difficili da trovare sono il <strong>tigrato blu</strong> e il <strong>fulvo con maschera nera</strong> ben definita. La rarit&agrave; per&ograve; va letta per quello che &egrave;: una questione di frequenza dei geni nelle linee, non un indice di valore. Un colore raro non rende il cane migliore, pi&ugrave; sano o pi&ugrave; tipico, e quando un allevamento costruisce la propria comunicazione sul colore invece che su carattere, salute e struttura, c'&egrave; una cosa che non torna. Va anche detto che alcuni colori considerati esotici sono esclusi dallo standard proprio perch&eacute; segnalano incroci o problemi: il <em>merle</em>, per esempio, non esiste nella razza e la sua presenza indica sangue di altre razze.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Il nero focato (black and tan) è ammesso?</h3>
-  <div class="faq-answer">
-  <p>No. Lo standard FCI esclude espressamente il nero focato (black and tan) e il colore fegato (liver). Un cane con questi mantelli non è conforme allo standard di razza, anche se può essere un ottimo compagno. La presenza di questi colori può indicare incroci o linee non pure.</p>
-  </div>
+  <div class="faq-answer">No. Lo standard della razza esclude esplicitamente il nero focato e il fegato, e la ragione non &egrave; estetica: quelle colorazioni sono storicamente associate a incroci con altre razze, quindi la loro presenza mette in dubbio la purezza della linea. Un cucciolo nero focato pu&ograve; comunque nascere da due genitori con pedigree, perch&eacute; il gene pu&ograve; restare nascosto per generazioni, e in quel caso non &egrave; un cane meno sano n&eacute; meno amabile: semplicemente <strong>non &egrave; adatto alla riproduzione e non pu&ograve; essere presentato in esposizione</strong>. Un allevamento serio lo dichiara apertamente invece di venderlo come colore raro a prezzo maggiorato, che &egrave; esattamente quello che succede in giro.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Il cane blu è meno sano degli altri?</h3>
-  <div class="faq-answer">
-  <p>Non necessariamente, ma il gene di diluizione che produce il blu è associato in una parte dei soggetti all'alopecia da diluizione del colore (CDA), una condizione della pelle. Per questo gli allevatori responsabili evitano gli accoppiamenti tra due soggetti diluiti e trattano il blu con cautela, mettendo la salute prima dell'estetica.</p>
-  </div>
+  <div class="faq-answer">Il blu &egrave; un colore ammesso dallo standard, quindi non &egrave; un difetto in s&eacute;. Quello che merita attenzione &egrave; che il gene della diluizione, nei cani di molte razze, si accompagna a una maggiore frequenza di <strong>alopecia da diluizione</strong>, una condizione che porta a diradamento del pelo e dermatiti ricorrenti, di solito fra i sei mesi e i tre anni. Non tutti i cani blu la sviluppano, ma il rischio &egrave; pi&ugrave; alto che nei mantelli non diluiti. Il problema vero nasce quando si seleziona <em>per</em> il colore: accoppiare due blu solo per ottenere cuccioli blu concentra la diluizione e con essa il rischio. Il colore deve essere una conseguenza dell'accoppiamento, non il suo obiettivo.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Il colore del pelo cambia crescendo?</h3>
-  <div class="faq-answer">
-  <p>Il colore di base resta lo stesso, ma le tonalità possono definirsi meglio con la crescita. I cuccioli tigrati, ad esempio, mostrano striature più nette man mano che crescono, e i soggetti neri possono schiarire leggermente al sole. La struttura del colore, però, è determinata geneticamente alla nascita.</p>
-  </div>
+  <div class="faq-answer">S&igrave;, e spesso parecchio. Il tigrato &egrave; il caso pi&ugrave; evidente: molti cuccioli sembrano quasi neri e sviluppano le striature solo dopo alcune settimane, man mano che il pelo si allunga e si schiarisce. Il fulvo tende a scurirsi o a schiarirsi fino a circa un anno, e la maschera nera sul muso pu&ograve; ridursi con l'et&agrave;. Anche le macchie bianche cambiano leggermente forma man mano che il cucciolo cresce, perch&eacute; la pelle si distende. La conseguenza pratica &egrave; che <strong>scegliere un cucciolo per il colore a tre settimane non ha senso</strong>: quello che vedi allora non &egrave; quello che avrai. Il carattere e la struttura sono criteri molto pi&ugrave; affidabili per abbinare un cucciolo a una famiglia.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Il colore influisce sul prezzo del cucciolo?</h3>
-  <div class="faq-answer">
-  <p>In un allevamento serio no: il prezzo riflette la selezione, la salute, i test genetici e il pedigree, non la "moda" di un colore. Se un venditore chiede molto di più per un colore "raro" (tipicamente il blu), è un segnale a cui prestare attenzione. Scopri <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/">cosa comprende davvero il prezzo di un cucciolo</a>.</p>
-  </div>
+  <div class="faq-answer">Non dovrebbe, e quando succede &egrave; un segnale su chi hai davanti. Il valore di un cucciolo sta nei test genetici dei genitori, nel pedigree, nel lavoro di selezione dietro l'accoppiamento e nelle prime otto settimane di crescita: tutte cose che costano uguale a prescindere dal mantello. Chi fa pagare di pi&ugrave; un cucciolo perch&eacute; <em>raro</em> sta vendendo un'idea di esclusivit&agrave;, e nei casi peggiori sta spingendo colori fuori standard &mdash; blu diluito estremo, merle, nero focato &mdash; che con la razza non c'entrano. La domanda da fare a chiunque proponga un sovrapprezzo per il colore &egrave; semplice: <strong>quali test hanno i genitori, e posso vedere i referti con il microchip?</strong></div>
   </div>
   
   </section>

@@ -134,16 +134,12 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Lo Staffordshire Bull Terrier è adatto a un principiante?</h3>
-  <div class="faq-answer">
-  <p>Può esserlo, a patto di impegnarsi sull'educazione fin da cucciolo. La taglia contenuta e l'attaccamento alla famiglia lo rendono gestibile, ma la sua forza e l'energia richiedono coerenza. Un principiante motivato, che frequenta un corso di educazione di base, può crescere benissimo uno Staffy. Chi non vuole dedicare tempo, invece, farebbe meglio a orientarsi altrove.</p>
-  </div>
+  <div class="faq-answer">Pu&ograve; esserlo, e la taglia aiuta: quindici chili si gestiscono anche quando si sbaglia qualcosa. &Egrave; un cane che impara in fretta, molto motivato dalle persone, e che perdona gli errori di chi sta imparando. Le condizioni sono due. Il <strong>tempo</strong>: soffre le assenze lunghe pi&ugrave; di altre razze, e chi sta fuori dodici ore al giorno dovrebbe ripensarci a prescindere dall'esperienza. E l'onest&agrave; sul fatto che resta un terrier, con una possibile reattivit&agrave; verso gli altri cani che la socializzazione precoce riduce ma non cancella. Chi comincia con questa razza dovrebbe mettere in conto una scuola di base nei primi mesi e un allevatore che resti disponibile anche dopo l'affido.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Posso tenere uno Staffy in appartamento?</h3>
-  <div class="faq-answer">
-  <p>Sì. Non è la taglia il problema, ma l'esercizio e la compagnia. Uno Staffy che esce a sufficienza e non resta solo troppe ore vive benissimo in appartamento, dove anzi ama stare "attaccato" alla famiglia. Il giardino è un plus, non un obbligo.</p>
-  </div>
+  <div class="faq-answer">S&igrave;, e spesso ci sta meglio che in giardino. &Egrave; un cane profondamente legato alla famiglia: lasciato fuori da solo si annoia e si deprime, mentre in appartamento sta dove stanno le persone, che &egrave; l'unica cosa che gli interessa davvero. Quello che conta non sono i metri quadrati ma le uscite: <strong>due al giorno</strong>, con la possibilit&agrave; di annusare e muoversi, non solo un giro dell'isolato. A favore gioca anche il fatto che abbaia poco, il che in condominio evita il problema pi&ugrave; comune. Il giardino &egrave; comodo per i bisogni veloci ma non sostituisce la passeggiata, e un cane che esce solo in giardino si disabitua a gente, rumori e altri cani.</div>
   </div>
   
   <div class="faq-item">
@@ -155,23 +151,17 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Può stare con altri cani o gatti?</h3>
-  <div class="faq-answer">
-  <p>Con una buona socializzazione da cucciolo, sì. Verso altri cani (soprattutto dello stesso sesso) può essere deciso, quindi la convivenza va costruita con attenzione. Con i gatti di casa, se cresce insieme a loro, spesso convive senza problemi. Molto dipende dal singolo soggetto e da come è stato allevato.</p>
-  </div>
+  <div class="faq-answer">Dipende dal soggetto, e va detto chiaramente: &egrave; un terrier, e nella razza esiste una componente di reattivit&agrave; verso i propri simili che la socializzazione riduce ma non cancella. Si presenta soprattutto <strong>fra cani dello stesso sesso in et&agrave; adulta</strong>, mentre con un cane di sesso opposto la convivenza &egrave; in genere pi&ugrave; semplice. Con i gatti conta molto l'abitudine precoce: un cucciolo cresciuto con loro spesso convive benissimo, un adulto che non ne ha mai visti richiede un inserimento graduale con vie di fuga in alto sempre disponibili. Un cane che sta bene al parco pu&ograve; rifiutare un coinquilino, perch&eacute; in casa il territorio &egrave; suo e l'altro non se ne va pi&ugrave;.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">È un cane aggressivo o pericoloso?</h3>
-  <div class="faq-answer">
-  <p>No. Verso le persone lo Staffordshire Bull Terrier è tra i cani più affettuosi che esistano, e lo standard stesso ne sottolinea l'affidabilità. Non è vietato in Italia e non figura in alcuna "lista nera". L'aspetto "bull" genera pregiudizi ingiusti: la realtà è un cane da famiglia. Approfondisci su <a href="/staffy-pericoloso-legge-italia/">Staffy e legge italiana</a>.</p>
-  </div>
+  <div class="faq-answer">In Italia non esiste pi&ugrave; una lista di razze pericolose dal 2009: l'ordinanza del Ministero della Salute ha abolito l'elenco e spostato la responsabilit&agrave; dalla razza al proprietario. Uno studio del Royal Veterinary College pubblicato nel 2020, su oltre 22.000 cani, non ha trovato differenze significative di aggressivit&agrave; attribuibili a questa razza. Verso le persone lo standard descrive un cane affidabile, e sulla selezione del carattere si gioca quasi tutto. La componente su cui vale invece la pena informarsi &egrave; un'altra, ed &egrave; la <strong>reattivit&agrave; verso gli altri cani</strong> tipica dei terrier. Resta un cane potente per la sua taglia: non pericoloso per razza, ma da gestire con la stessa serietà che merita qualsiasi cane robusto.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Quanto vive uno Staffordshire Bull Terrier?</h3>
-  <div class="faq-answer">
-  <p>In media 12-14 anni. È una razza rustica e longeva, soprattutto se proviene da riproduttori testati (L2-HGA e HC) e vive con una buona alimentazione, movimento regolare e controlli veterinari di routine.</p>
-  </div>
+  <div class="faq-answer">Dodici-quattordici anni, un'ottima aspettativa per un cane di taglia media. La razza &egrave; robusta e non ha n&eacute; le problematiche respiratorie dei brachicefali estremi n&eacute; le patologie articolari tipiche delle taglie grandi. Le tre patologie ereditarie note &mdash; L2-HGA, cataratta ereditaria e PHPV &mdash; sono tutte recessive e si prevengono testando i riproduttori: due genitori esenti non possono produrre cuccioli malati. Dopo la genetica, la cosa che incide di pi&ugrave; sulla durata della vita &egrave; il <strong>peso</strong>: uno Staffy in sovrappeso invecchia prima, con articolazioni che si consumano e minore tolleranza al caldo. Dodici anni sono anche il periodo per cui ci si impegna quando si prende un cucciolo.</div>
   </div>
   
   </section>

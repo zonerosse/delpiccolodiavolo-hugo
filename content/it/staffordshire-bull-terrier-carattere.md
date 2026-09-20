@@ -1,6 +1,6 @@
 ---
 title: "Il Temperamento dello Staffordshire Bull Terrier: Come Nasce"
-lastmod: 2026-09-12
+lastmod: 2026-09-20
 titleSeo: "Temperamento dello Staffy: come è stato selezionato"
 articolo: true
 translationKey: "carattere"
@@ -40,6 +40,8 @@ correlati:
 <p><strong>In breve:</strong> il carattere dello Staffordshire Bull Terrier non è un caso né un merito del singolo cane. È il risultato di una selezione durata due secoli, in cui l'affidabilità verso le persone era il requisito non negoziabile. Capire da dove viene quel temperamento serve a riconoscere un soggetto tipico e a capire perché la scelta dell'allevatore conta più della razza sulla carta.</p>
 
 <h2>Un carattere costruito, non ereditato per caso</h2>
+
+<p>Il temperamento dello Staffordshire Bull Terrier non è un caso: è il risultato di una selezione precisa e delle prime settimane di vita. Lo standard di razza descrive un cane <strong>coraggioso, tenace e affidabile con le persone</strong>, e su quest'ultimo punto la selezione dei riproduttori pesa più di qualsiasi addestramento successivo. La componente su cui vale la pena informarsi è un'altra: essendo un terrier, può mostrare reattività verso i propri simili, soprattutto fra cani dello stesso sesso in età adulta, e la socializzazione precoce la riduce ma non la cancella. Un carattere si valuta guardando i genitori e i fratelli di cucciolata, non il singolo cucciolo a tre settimane.</p>
 
 <p>Lo Staffordshire Bull Terrier nasce in Inghilterra nella prima metà dell'Ottocento, nelle Midlands, dall'incrocio fra i bulldog dell'epoca e i terrier locali. Il contesto in cui è stato usato non è quello che ci piace raccontare oggi, ma è quello che ha plasmato il suo carattere, e ignorarlo significa non capire la razza.</p>
 

@@ -1,7 +1,7 @@
 ---
 title: "Linee di Sangue Staffordshire Bull Terrier: Storia e Genealogia"
 date: 2025-11-08
-lastmod: 2026-09-12
+lastmod: 2026-09-20
 titleSeo: "Linee di sangue Staffordshire Bull Terrier: storia"
 translationKey: "linee-sangue"
 articolo: true
@@ -249,37 +249,27 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Quante linee di sangue originali aveva lo Staffordshire Bull Terrier?</h3>
-  <div class="faq-answer">
-  <p>Lo Staffordshire Bull Terrier aveva originariamente 6 linee fondatrici: Linea J (Fearless Joe), Linea M (Brindle Mick), Linea L (Game Lad), Linea B (Rum Bottle), Linea R (Ribchester Bob) e Linea C (Cinderbank Beauty). Oggi sopravvivono principalmente le linee M e R, che costituiscono circa il 70% del patrimonio genetico.</p>
-  </div>
+  <div class="faq-answer">Quando la razza fu riconosciuta ufficialmente dal Kennel Club britannico nel 1935, il patrimonio genetico di partenza si riconduceva a un numero ristretto di ceppi fondatori, tradizionalmente indicati come <strong>sei linee</strong> maschili principali, identificate con una lettera. Da quei ceppi discendono, in misura diversa, tutti gli Staffordshire Bull Terrier con pedigree esistenti oggi. Non tutte hanno avuto la stessa fortuna: alcune si sono quasi estinte, altre si sono diffuse enormemente perch&eacute; alcuni soggetti hanno prodotto molto e sono stati usati ovunque. &Egrave; un aspetto che si vede bene su SBTPedigree quando si risale un albero indietro di otto o dieci generazioni: gli stessi nomi ricompaiono da pi&ugrave; rami, ed &egrave; il motivo per cui il coefficiente di consanguineit&agrave; cresce quante pi&ugrave; generazioni si contano.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Cos'è la Linea M e perché è così importante?</h3>
-  <div class="faq-answer">
-  <p>La Linea M è la linea più diffusa, fondata da Brindle Mick nei primi anni '30. Rappresenta oltre il 50% del patrimonio genetico dello Staffy ed è caratterizzata da cani con teste imponenti, struttura robusta e muscolatura ben definita.</p>
-  </div>
+  <div class="faq-answer">La Linea M &egrave; una delle linee maschili fondatrici della razza, ed &egrave; diventata la pi&ugrave; diffusa a livello internazionale: gran parte degli Staffordshire Bull Terrier moderni vi discende, anche quando il nome non compare nelle prime generazioni del pedigree. Su SBTPedigree la linea di discendenza maschile di un cane &egrave; indicata esplicitamente, e vederla non &egrave; un dettaglio da collezionisti: <strong>dice da dove viene la parte pi&ugrave; conservativa del patrimonio genetico</strong>, quella trasmessa di padre in figlio. La sua diffusione ha un rovescio: pi&ugrave; una linea &egrave; presente ovunque, pi&ugrave; &egrave; facile trovarsela raddoppiata in un accoppiamento senza essersene accorti. &Egrave; esattamente quello che la prova di accoppiamento serve a mostrare prima.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Chi fu Gentleman Jim?</h3>
-  <div class="faq-answer">
-  <p>Gentleman Jim, nato il 25 maggio 1935, fu il primo campione maschio della razza riconosciuto nel 1939. Figlio di Brindle Mick, il suo impatto genetico è straordinario: praticamente ogni Staffordshire moderno ha Gentleman Jim nel proprio pedigree.</p>
-  </div>
+  <div class="faq-answer">Gentleman Jim &egrave; uno dei nomi che ricorrono pi&ugrave; spesso nei pedigree storici della razza: un riproduttore britannico che ha lasciato un'impronta molto estesa sulle generazioni successive, al punto da comparire ancora oggi in moltissimi alberi genealogici risalendo indietro di alcune generazioni. Il motivo per cui certi cani pesano cos&igrave; tanto non &egrave; solo la loro qualit&agrave;: &egrave; che sono stati usati molto, e un riproduttore usato molto moltiplica la propria influenza in modo esponenziale. <strong>Questo vale in entrambe le direzioni</strong>: diffonde i pregi ma anche i difetti, ed &egrave; il motivo per cui in una razza numericamente limitata conviene guardare la frequenza di un antenato, non solo la sua fama.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Quali sono le differenze tra linee irlandesi e inglesi?</h3>
-  <div class="faq-answer">
-  <p>Le linee irlandesi tendono ad essere più alte (2-3 cm al garrese) e più atletiche, riflettendo il loro uso storico per caccia oltre che combattimenti. Offrono preziosa diversità genetica per outcrossing con linee inglesi.</p>
-  </div>
+  <div class="faq-answer">Meno di quanto si racconta in giro. Le descrizioni che assegnano tratti fissi per nazionalit&agrave; &mdash; gli inglesi cos&igrave;, gli irlandesi cos&agrave; &mdash; sono semplificazioni: dentro ciascuna tradizione ci sono allevamenti molto diversi fra loro, e le linee si incrociano da decenni. Quello che si pu&ograve; dire con onest&agrave; &egrave; che alcuni allevamenti storici hanno lasciato un'impronta riconoscibile sul tipo, e che chi seleziona impara a riconoscerla guardando i cani, non la bandiera. Nel nostro caso lavoriamo su <strong>Elitebull</strong>, inglese, e <strong>Lackyle</strong>, irlandese: non sono due stili contrapposti, perch&eacute; i soggetti storici di Lackyle compaiono proprio nei pedigree di Elitebull. La seconda linea, in altre parole, contiene la prima.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Quanto è importante il coefficiente di consanguineità (COI)?</h3>
-  <div class="faq-answer">
-  <p>Il COI è critico per la salute a lungo termine. COI 0-5% è eccellente, 6-10% accettabile, oltre 15% è alto rischio. Un COI elevato aumenta rischi di malattie genetiche e riduce fertilità.</p>
-  </div>
+  <div class="faq-answer">&Egrave; uno dei due numeri che guardo prima di programmare un accoppiamento, ma da solo non basta. Il coefficiente dice <strong>quanto</strong> si sta stringendo, non <strong>su chi</strong>: raddoppiare su un soggetto eccellente &egrave; una tecnica di selezione, raddoppiare su uno mediocre moltiplica i suoi difetti. La forbice entro cui mi muovo va dal 6 al 9 per cento, ma &egrave; opinabile e non un dogma. C'&egrave; anche un aspetto tecnico che quasi nessuno spiega: il valore dipende da quante generazioni si contano. Lo stesso cane pu&ograve; avere un COI del 9 per cento su otto generazioni e del 21 sul pedigree completo. Chi cita un coefficiente senza dire su quante generazioni l'ha calcolato sta dicendo mezza cosa.</div>
   
   <a class="rimando" href="/come-si-legge-un-pedigree/">
   <img src="/images/blog/pedigree-queen-hero.webp" alt="Queen of California in esposizione" width="88" height="88" loading="lazy" decoding="async">

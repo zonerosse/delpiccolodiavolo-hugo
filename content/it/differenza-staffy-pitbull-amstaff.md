@@ -1,7 +1,7 @@
 ---
 title: "Differenza tra Staffordshire Bull Terrier, Pitbull e Amstaff"
 date: 2025-11-19
-lastmod: 2026-09-12
+lastmod: 2026-09-20
 translationKey: "pitbull-amstaff"
 articolo: true
 image: "/images/blog/differenza-razze-hero.webp"
@@ -256,44 +256,32 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Qual è la differenza principale tra Staffy e Pit Bull?</h3>
-  <div class="faq-answer">
-  <p>La differenza principale è la taglia e il riconoscimento ufficiale. Lo Staffordshire Bull Terrier è più piccolo (max 17 kg vs 15-27 kg del Pit Bull), ha uno standard FCI riconosciuto (n. 76) e può avere pedigree ENCI in Italia. L'American Pit Bull Terrier non è riconosciuto dalla FCI né dall'ENCI.</p>
-  </div>
+  <div class="faq-answer">La differenza che conta prima di tutte &egrave; giuridica, non estetica: lo <strong>Staffordshire Bull Terrier &egrave; una razza riconosciuta dalla FCI</strong> con uno standard preciso e un libro genealogico, mentre il Pit Bull in Italia non &egrave; una razza riconosciuta e non esiste un pedigree ENCI che lo certifichi. Chi vende un Pit Bull con pedigree sta vendendo altro. Sul piano fisico lo Staffy &egrave; nettamente pi&ugrave; piccolo: 35-40 centimetri al garrese per 12-17 chili nel maschio, contro una variabilit&agrave; molto pi&ugrave; ampia nei cani chiamati Pit Bull, che possono superare i trenta chili. Compatto, con testa corta e larga e corporatura tozza, lo Staffy &egrave; il pi&ugrave; piccolo dei tre.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">L'American Staffordshire Terrier e il Pit Bull sono la stessa razza?</h3>
-  <div class="faq-answer">
-  <p>No, sono razze separate, anche se condividono origini comuni. L'Amstaff è riconosciuto dall'AKC e dalla FCI, mentre l'APBT è riconosciuto solo dall'UKC e dall'ADBA. L'Amstaff è selezionato per conformazione da show, l'APBT per performance atletiche.</p>
-  </div>
+  <div class="faq-answer">Hanno origini comuni ma oggi sono due cose diverse, e la differenza &egrave; nel riconoscimento. L'<strong>American Staffordshire Terrier</strong> &egrave; una razza riconosciuta dalla FCI, con standard e libro genealogico: 46-48 centimetri per 25-30 chili nel maschio, muso pi&ugrave; lungo e struttura pi&ugrave; slanciata dello Staffy. L'<strong>American Pit Bull Terrier</strong> &egrave; riconosciuto da registri americani come UKC e ADBA, ma non dalla FCI e quindi nemmeno dall'ENCI. In Italia, in pratica, un cane venduto come Pit Bull &egrave; un cane senza pedigree riconosciuto, di ascendenza non verificabile. La distinzione non &egrave; formalismo: senza libro genealogico non si pu&ograve; risalire ai genitori, ai test genetici n&eacute; al numero di cucciolate.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Posso avere un Pit Bull con pedigree in Italia?</h3>
-  <div class="faq-answer">
-  <p>No, l'American Pit Bull Terrier non è riconosciuto dall'ENCI né dalla FCI, quindi non può avere pedigree italiano. Se vuoi un cane di tipo "bull" con documentazione ufficiale, puoi scegliere tra Staffordshire Bull Terrier e American Staffordshire Terrier.</p>
-  </div>
+  <div class="faq-answer">No, non nel senso che si intende di solito. L'ENCI rilascia pedigree solo per razze riconosciute dalla FCI, e l'American Pit Bull Terrier non lo &egrave;. Esistono certificati emessi da registri privati o associazioni estere, ma <strong>non hanno valore di pedigree ufficiale in Italia</strong> e non danno accesso alle esposizioni FCI. Chi ti propone un Pit Bull con pedigree o sta usando il termine a sproposito per un Amstaff, o ti sta mostrando un documento che non &egrave; quello che sembra. La verifica &egrave; semplice: sul certificato ENCI compaiono il numero di libro genealogico e la razza per esteso, e il numero si controlla partendo dal microchip del cane.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Quale delle tre razze è più adatta ai bambini?</h3>
-  <div class="faq-answer">
-  <p>Lo Staffordshire Bull Terrier è tradizionalmente considerato il più adatto alle famiglie con bambini, soprannominato "nanny dog". Lo standard ufficiale lo descrive come "altamente affettuoso, specialmente con i bambini". Tuttavia, qualsiasi cane richiede supervisione nelle interazioni con bambini piccoli.</p>
-  </div>
+  <div class="faq-answer">La domanda va girata: <strong>nessuna razza &egrave; adatta ai bambini senza la supervisione di un adulto</strong>, e nessuna lo &egrave; a prescindere dal singolo cane. Detto questo, lo Staffordshire Bull Terrier &egrave; quello con la reputazione pi&ugrave; solida come cane di famiglia, ed &egrave; anche il pi&ugrave; piccolo dei tre, il che in casa conta: un cane da 15 chili che salta addosso &egrave; una cosa, uno da 30 &egrave; un'altra. Ma il fattore decisivo non &egrave; la razza: sono la selezione dei riproduttori, le prime otto settimane e le regole che la famiglia stabilisce. Un Amstaff ben selezionato e cresciuto bene &egrave; pi&ugrave; affidabile di uno Staffy nato per caso.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Queste razze sono vietate in Italia?</h3>
-  <div class="faq-answer">
-  <p>No, nessuna delle tre razze è vietata in Italia. Dal 2009 non esiste più una "lista nera" delle razze pericolose. Tutte e tre possono essere possedute legalmente, rispettando le norme generali (guinzaglio, museruola da portare con sé).</p>
-  </div>
+  <div class="faq-answer">No. In Italia non esiste pi&ugrave; una lista di razze pericolose dal 2009, quando l'ordinanza del Ministero della Salute ha abolito l'elenco e spostato la responsabilit&agrave; dalla razza al proprietario. N&eacute; lo Staffordshire Bull Terrier n&eacute; l'American Staffordshire Terrier sono soggetti a divieti o obblighi particolari a livello nazionale. Restano possibili <strong>regolamenti locali</strong> pi&ugrave; restrittivi, decisi da singoli comuni o da regolamenti condominiali, e regole diverse in altri paesi europei che vanno verificate prima di viaggiare. Vale per tutti l'obbligo di guinzaglio nei luoghi pubblici, museruola al seguito da applicare su richiesta, e responsabilit&agrave; civile e penale del detentore per i danni causati.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Qual è la razza più facile da gestire per un principiante?</h3>
-  <div class="faq-answer">
-  <p>Tra le tre, lo Staffordshire Bull Terrier è generalmente il più adatto a proprietari meno esperti, grazie alla taglia contenuta (max 17 kg), al temperamento equilibrato e alla selezione secolare per la vita familiare. In ogni caso, qualsiasi razza di tipo "bull" beneficia di un corso di educazione cinofila.</p>
-  </div>
+  <div class="faq-answer">Fra le tre, lo Staffordshire Bull Terrier &egrave; la scelta pi&ugrave; ragionevole per chi &egrave; al primo cane, soprattutto per una questione di dimensioni: quindici chili si gestiscono anche quando qualcosa va storto, trenta molto meno. &Egrave; anche una razza che impara in fretta e che perdona gli errori di chi sta imparando. Ma facile non significa automatico: sono tutti terrier di tipo bull, con una componente di reattivit&agrave; verso gli altri cani che va gestita con la socializzazione precoce, e con un livello di energia che richiede uscite quotidiane. Un principiante che sceglie questa razza dovrebbe mettere in conto una scuola di base e un allevatore che resti disponibile dopo l'affido.</div>
   </div>
   
   </section>

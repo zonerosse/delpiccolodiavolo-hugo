@@ -1,6 +1,6 @@
 ---
 title: "Cucciolata Red × Nora (febbraio 2026)"
-lastmod: 2026-09-08
+lastmod: 2026-09-20
 articolo: true
 translationKey: "cucciolata-red-nora-febbraio-2026"
 description: "Cucciolata nata il 9 febbraio 2026 da Skilful-dogs Nora: cuccioli tigrati e rosso pezzato. Non disponibili."
@@ -8,6 +8,8 @@ slug: "cucciolata-red-nora-febbraio-2026"
 date: 2026-02-09
 image: "/images/red.avif"
 ---
+
+Questa cucciolata è nata a febbraio 2026 dall'accoppiamento fra Red e Skilful-dogs Nora. Come per tutte le cucciolate di Del Piccolo Diavolo, la scheda resta online anche dopo che i cuccioli sono andati a casa loro, con <strong>la data di nascita, i due riproduttori e i loro test genetici</strong>: è il modo più semplice per permettere a chiunque di verificare il ritmo dell'allevamento, che è di una cucciolata l'anno, occasionalmente due, in alcuni anni nessuna. Il numero di cucciolate di una femmina si controlla sul libro genealogico ENCI partendo dal microchip, ed è un dato che pubblichiamo proprio perché quella verifica si possa fare senza chiedere niente a noi.
 
 <div style="background:#c9a227;color:#1a1a1a;padding:1rem 1.5rem;border-radius:8px;margin-bottom:2rem;text-align:center">
 <strong>🎉 NATI IL 9 FEBBRAIO 2026!</strong><br>

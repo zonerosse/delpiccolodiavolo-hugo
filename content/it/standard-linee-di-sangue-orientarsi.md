@@ -2,7 +2,7 @@
 title: "Linee di Sangue Staffordshire Bull Terrier: Come Orientarsi"
 date: 2025-03-05
 titleSeo: "Come orientarsi fra le linee di sangue dello Staffy"
-lastmod: 2026-09-12
+lastmod: 2026-09-20
 translationKey: "scelta-linee"
 articolo: true
 image: "/images/blog/standard-2.webp"
@@ -130,30 +130,22 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Cosa sono le linee di sangue nello Staffordshire Bull Terrier?</h3>
-  <div class="faq-answer">
-  <p>Le linee di sangue (bloodlines) sono la storia genetica del cane, un insieme di accoppiamenti selezionati nel tempo per fissare determinate caratteristiche morfologiche, caratteriali e di salute. Rappresentano un progetto di selezione che attraversa generazioni con obiettivi precisi.</p>
-  </div>
+  <div class="faq-answer">Una linea di sangue &egrave; l'insieme dei cani che discendono da un ceppo comune e che, generazione dopo generazione, hanno mantenuto caratteristiche riconoscibili di tipo, struttura e carattere. Non &egrave; una categoria ufficiale: sul certificato ENCI non c'&egrave; scritto a quale linea appartiene un cane. Si legge dai nomi che compaiono nel pedigree e dagli allevamenti che li hanno prodotti, ed &egrave; il motivo per cui chi seleziona guarda l'albero genealogico e non solo il cane che ha davanti. <strong>Una linea dice cosa aspettarsi</strong>: non garantisce nulla sul singolo cucciolo, ma indica su cosa quella selezione ha lavorato con costanza. Su SBTPedigree si risale indietro di molte generazioni e si vede anche cosa un cane ha prodotto.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Quali sono le principali linee di sangue dello Staffy?</h3>
-  <div class="faq-answer">
-  <p>Le principali sono: linee UK (le più antiche, equilibrio e movimento fluido), linee irlandesi (massa muscolare, teste piene, molto affettuose), linee continentali (Olanda, Germania, Scandinavia, focus su salute e longevità). Ogni linea ha caratteristiche distintive da valutare in base ai propri obiettivi.</p>
-  </div>
+  <div class="faq-answer">A livello internazionale i nomi che ricorrono pi&ugrave; spesso sono quelli di alcuni allevamenti storici britannici e irlandesi che hanno segnato la razza: i loro soggetti compaiono oggi nei pedigree di mezza Europa, anche a diverse generazioni di distanza. Nel nostro caso lavoriamo su <strong>Elitebull</strong>, inglese, e <strong>Lackyle</strong>, irlandese. Non sono due alternative: Lackyle &egrave; arrivato prima e i suoi cani storici si ritrovano proprio nei pedigree di Elitebull, quindi la seconda linea contiene la prima. La scelta non &egrave; di gusto: sono linee documentate e verificabili su SBTPedigree, che producono in modo prevedibile, ed &egrave; quello che serve quando un accoppiamento si pianifica invece di sperarlo.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Come si legge correttamente un pedigree?</h3>
-  <div class="faq-answer">
-  <p>Verifica: consistenza genetica (soggetti tipici e sani che ricorrono), equilibrio morfologico (no estremizzazioni), titoli vs sostanza reale (CH non basta, serve salute certificata), test genetici documentati (L2-HGA, HC, PHPV), longevità media della linea.</p>
-  </div>
+  <div class="faq-answer">Servono due strumenti diversi. Il <strong>certificato ENCI</strong> &egrave; il documento ufficiale: certifica genitori, nonni e bisnonni, riporta i titoli registrati e gli esami depositati. Ma non mostra n&eacute; i test genetici n&eacute; una sola fotografia dei cani, e senza vedere i soggetti si lavora sui nomi. <strong>SBTPedigree</strong> aggiunge quello che manca: foto degli antenati generazione per generazione, test caricati, titoli esteri e soprattutto la discendenza, cio&egrave; cosa quel cane ha prodotto. Il pedigree si legge risalendo e chiedendosi due cose: quali nomi si ripetono da entrambi i rami, e cosa hanno lasciato. La prova di accoppiamento calcola il coefficiente teorico di una cucciolata e mostra su quali antenati si concentra.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Quali domande fare all'allevatore sulle linee di sangue?</h3>
-  <div class="faq-answer">
-  <p>Domande essenziali: obiettivi con questa linea, punti forti/deboli nel pedigree, risultati accoppiamenti precedenti, tipo di famiglia consigliata, possibilità di vedere parenti stretti, età media dei cani nella linea, supporto dopo l'affido. Un allevatore serio risponde con trasparenza.</p>
-  </div>
+  <div class="faq-answer">Quattro, e sono tutte verificabili. <strong>Perch&eacute; hai scelto questo maschio per questa femmina?</strong> Se la risposta &egrave; che sono due bei cani, non c'&egrave; un programma dietro; se &egrave; che la femmina ha un movimento migliorabile e il maschio &egrave; solido su quello, c'&egrave;. <strong>Che coefficiente di consanguineit&agrave; ha questa cucciolata, e su quante generazioni?</strong> Chi lo cita senza specificare le generazioni sta dicendo mezza cosa. <strong>Su quali antenati si concentra?</strong> Non basta sapere quanto si stringe, bisogna sapere su chi. E infine: <strong>posso vedere i referti dei test con il microchip?</strong> Le prime tre distinguono chi programma da chi accoppia; l'ultima distingue chi documenta da chi racconta.</div>
   </div>
   
   </section>

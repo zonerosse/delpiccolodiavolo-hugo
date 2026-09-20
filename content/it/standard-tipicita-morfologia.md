@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier: Tipicità di Razza e Morfologia"
 date: 2025-02-12
-lastmod: 2026-09-12
+lastmod: 2026-09-20
 translationKey: "standard"
 articolo: true
 image: "/images/blog/standard-1.webp"
@@ -169,30 +169,22 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Quali sono le caratteristiche tipiche della testa dello Staffy?</h3>
-  <div class="faq-answer">
-  <p>La testa tipica ha cranio corto e ampio, stop marcato ma non esagerato, muso corto proporzionato, mascelle forti con dentatura a forbice. Occhi rotondi preferibilmente scuri con espressione viva. Orecchie a rosetta o semierette, mai troppo grandi. Labbra asciutte e zigomi muscolosi senza rughe eccessive.</p>
-  </div>
+  <div class="faq-answer">La testa &egrave; l'elemento pi&ugrave; caratterizzante della razza, e lo standard la descrive con precisione: <strong>cranio corto e largo</strong>, guance con muscolatura molto evidente, <strong>stop pronunciato</strong>, muso corto &mdash; circa un terzo della lunghezza totale della testa &mdash; e chiusura a forbice completa, con i canini che si incastrano correttamente. Le orecchie sono a rosa o semi-erette, mai pendenti n&eacute; tagliate. Gli occhi sono rotondi, di dimensione media e possibilmente scuri, con rime palpebrali scure. Quello che si valuta non &egrave; la potenza in s&eacute; ma l'equilibrio: una testa esageratamente larga o un muso troppo raccorciato non sono pi&ugrave; tipicit&agrave;, sono un difetto che porta problemi respiratori e dentali.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Quali colori sono ammessi nello standard FCI?</h3>
-  <div class="faq-answer">
-  <p>I colori ammessi sono: rosso, fulvo, bianco, nero, blu, tigrato (brindle) in qualsiasi tonalità, e qualsiasi di questi con bianco. Il tartufo deve essere sempre nero. NON sono ammessi il nero focato (black and tan) e il fegato (liver).</p>
-  </div>
+  <div class="faq-answer">Lo standard ammette <strong>rosso, fulvo, bianco, nero e blu</strong>, o qualsiasi di queste tinte con il bianco, oltre a tutte le sfumature di <strong>tigrato</strong> e al tigrato con bianco. Sono invece esplicitamente esclusi il <strong>nero focato</strong> e il <strong>fegato</strong>: non per questioni estetiche, ma perch&eacute; storicamente associati a incroci con altre razze, quindi la loro presenza mette in dubbio la purezza della linea. Non esiste nella razza il <em>merle</em>: se compare, indica sangue esterno. Un cucciolo di colore non ammesso non &egrave; meno sano n&eacute; meno affettuoso, ma non pu&ograve; essere usato in riproduzione n&eacute; presentato in esposizione, e un allevamento serio lo dichiara invece di venderlo come raro.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Qual è il peso ideale secondo lo standard?</h3>
-  <div class="faq-answer">
-  <p>Secondo lo standard FCI n. 76, il peso ideale è 12,7-17,2 kg per i maschi e 11,0-15,4 kg per le femmine. L'altezza al garrese dovrebbe essere 35,5-40,5 cm per entrambi i sessi. Importante è il rapporto armonioso tra peso, altezza e proporzioni.</p>
-  </div>
+  <div class="faq-answer">Lo standard indica <strong>12,7-17 chili per i maschi</strong> e <strong>11-15,4 chili per le femmine</strong>, con un'altezza al garrese fra i 35 e i 40 centimetri in entrambi i sessi. Il rapporto fra altezza e peso deve restare in proporzione: &egrave; un cane definito grande in un corpo piccolo, ma la compattezza non significa pesantezza. Nella pratica quotidiana conta pi&ugrave; la condizione del numero: le costole devono essere palpabili senza premere, e vista dall'alto la vita deve essere riconoscibile. Lo Staffordshire Bull Terrier &egrave; goloso e ingrassa con facilit&agrave;, e il sovrappeso &egrave; il problema di salute pi&ugrave; comune della razza dopo i tre anni, con conseguenze su articolazioni, cuore e tolleranza al caldo.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Quali test genetici sono obbligatori per un allevamento serio?</h3>
-  <div class="faq-answer">
-  <p>Un allevamento serio testa sempre i riproduttori per L2-HGA (aciduria L-2-idrossiglutarica), HC (cataratta ereditaria) tramite test DNA, e PHPV tramite visita oculistica specialistica. La salute deve avere priorità sull'estetica nella selezione.</p>
-  </div>
+  <div class="faq-answer">Obbligatori per legge non ce ne sono, e vale la pena dirlo chiaramente: chi non li fa non sta violando nessuna norma. Quello che esiste &egrave; uno standard di serietà condiviso, che per questa razza comprende <strong>L2-HGA</strong> e <strong>cataratta ereditaria</strong> con test del DNA, e <strong>PHPV</strong> con visita oftalmologica specialistica. Il punto non &egrave; la presenza dei test ma la loro verificabilit&agrave;: un referto conta solo se riporta il numero di microchip del cane, il nome del laboratorio e la data. Senza il microchip non &egrave; collegabile a nessun animale in particolare. Su questo sito i referti dei riproduttori sono pubblicati e scaricabili, proprio perch&eacute; chiunque possa controllarli senza chiedere niente.</div>
   </div>
   
   </section>
