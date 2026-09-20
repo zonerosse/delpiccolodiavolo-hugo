@@ -1,7 +1,7 @@
 ---
 title: "Parassiti: Prevenzione e Controllo Staffordshire Bull Terrier"
 date: 2025-01-20
-lastmod: 2026-09-12
+lastmod: 2026-09-20
 titleSeo: "Parassiti nello Staffordshire Bull Terrier: prevenzione"
 translationKey: "parassiti"
 articolo: true
@@ -245,30 +245,22 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Quando iniziare la prevenzione antiparassitaria nei cuccioli?</h3>
-  <div class="faq-answer">
-  <p>La prevenzione va iniziata appena il veterinario lo ritiene appropriato in base all'età e al peso, tipicamente da 6-8 settimane. Non aspettare di vedere i parassiti: quando li vedi, l'infestazione è già in atto. I cuccioli hanno sistema immunitario fragile e le infestazioni possono causare anemia grave.</p>
-  </div>
+  <div class="faq-answer">Le sverminazioni cominciano molto presto, gi&agrave; dalle due settimane di vita, perch&eacute; molti cuccioli nascono con vermi trasmessi dalla madre: si ripetono ogni due settimane fino allo svezzamento e poi mensilmente fino ai sei mesi. Per i parassiti esterni &mdash; pulci e zecche &mdash; si parte di solito <strong>dalle otto settimane</strong>, ma il prodotto dipende dal peso e dall'et&agrave;, e alcuni principi attivi hanno limiti precisi sotto una certa soglia. La regola &egrave; che il primo trattamento lo decide il veterinario, non lo scaffale del supermercato. Un cucciolo che arriva da un allevamento serio dovrebbe gi&agrave; avere il libretto con le date delle sverminazioni fatte: da l&igrave; si prosegue senza interrompere, perch&eacute; un buco di qualche settimana &egrave; sufficiente a far ripartire un'infestazione.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Come si rimuove correttamente una zecca?</h3>
-  <div class="faq-answer">
-  <p>Usa pinzette specifiche, afferra il parassita vicino alla cute, tira lentamente e costantemente perpendicolare alla pelle senza ruotare. Non schiacciare il corpo. Disinfetta la zona. NON usare alcol, olio o fiammiferi sulla zecca attaccata. Monitora per 2-3 settimane eventuali febbre o letargia.</p>
-  </div>
+  <div class="faq-answer">Con una pinzetta a punta fine o con l'apposito gancio, afferrando la zecca <strong>il pi&ugrave; vicino possibile alla pelle</strong> e tirando con una trazione decisa e costante, senza strappi e senza ruotare a caso. Quello che non va fatto &egrave; tutto il repertorio dei rimedi casalinghi: olio, alcol, fiamma, vaselina. Soffocare la zecca la fa rigurgitare nel cane, ed &egrave; esattamente il momento in cui possono passare gli agenti patogeni. Dopo la rimozione si disinfetta la zona e si segna la data: la maggior parte delle malattie trasmesse da zecca ha un periodo di incubazione di settimane, quindi se nei venti-trenta giorni successivi compaiono febbre, apatia o zoppia intermittente bisogna dirlo al veterinario e ricordargli la data della puntura.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Quali sono i migliori antiparassitari per cuccioli?</h3>
-  <div class="faq-answer">
-  <p>Consulta sempre il veterinario. Le opzioni principali sono: spot-on (pipette, ideali da 8 settimane), compresse orali (azione sistemica), collari (rilascio prolungato, da 7 settimane). Rispetta sempre età e peso minimi indicati. MAI usare prodotti per adulti su cuccioli.</p>
-  </div>
+  <div class="faq-answer">Non esiste il migliore in assoluto: esiste quello giusto per quel cucciolo, e dipende da et&agrave;, peso, zona geografica e abitudini. Le grandi famiglie sono tre: gli <strong>spot-on</strong>, semplici e adatti a chi non deve trattare frequentemente; le <strong>compresse masticabili</strong>, che non si perdono con il bagno e sono comode per chi fa attivit&agrave; all'aperto; e i <strong>collari</strong>, che coprono periodi lunghi. In zone dove c'&egrave; la leishmaniosi servono prodotti con azione repellente contro i flebotomi, che non tutti gli antiparassitari hanno. Vanno evitati i prodotti per gatti &mdash; alcuni sono tossici per il cane e viceversa &mdash; e i rimedi naturali senza efficacia dimostrata, che danno l'illusione della protezione mentre il cane resta scoperto.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Quanto spesso vanno fatti i trattamenti antiparassitari?</h3>
-  <div class="faq-answer">
-  <p>Dipende dal prodotto e dalla stagione. Primavera-estate: ogni 4 settimane continuativi. Autunno: mantenere copertura completa. Inverno: valutare con veterinario. In zone endemiche per Leishmaniosi o zecche, copertura 12 mesi/anno obbligatoria. Imposta promemoria sul calendario.</p>
-  </div>
+  <div class="faq-answer">Dipende dal prodotto e dalla stagione, e la risposta corretta &egrave; scritta sul foglietto: uno spot-on copre in genere quattro settimane, alcune compresse arrivano a dodici, i collari a diversi mesi. Il vero errore non &egrave; la scelta del prodotto ma <strong>l'interruzione invernale</strong>: con gli inverni miti di oggi zecche e pulci restano attive anche a gennaio, e in pianura padana la copertura tutto l'anno &egrave; ormai la norma. Per la filaria il discorso &egrave; diverso, perch&eacute; la prevenzione &egrave; stagionale e va impostata prima dell'inizio del periodo dei vettori. Conviene tenere una nota con le date dei trattamenti: quando si salta un mese non ce ne si accorge, e le reinfestazioni in casa sono molto pi&ugrave; noiose da risolvere che da prevenire.</div>
   </div>
   
   </section>

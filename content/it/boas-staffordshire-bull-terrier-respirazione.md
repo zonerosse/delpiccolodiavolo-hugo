@@ -1,6 +1,6 @@
 ---
 title: "BOAS nello Staffordshire Bull Terrier: Perché la Respirazione È Fondamentale"
-lastmod: 2026-09-02
+lastmod: 2026-09-20
 titleSeo: "BOAS nello Staffordshire Bull Terrier: la respirazione"
 translationKey: "boas"
 articolo: true
@@ -45,6 +45,8 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">Cos'è il BOAS</span>
   <h2 class="section-title">Sindrome Brachicefalica Ostruttiva delle Vie Aeree</h2>
+
+  <p>Lo Staffordshire Bull Terrier è un brachicefalo moderato: ha il muso raccorciato, ma non ai livelli estremi del carlino o del bulldog inglese, e nella maggior parte dei soggetti la respirazione è normale. La <strong>BOAS</strong> — sindrome ostruttiva delle vie aeree dei brachicefali — non è quindi una condanna di razza, ma un rischio da conoscere: i segnali sono russamento marcato anche da sveglio, respiro rumoroso a riposo, intolleranza allo sforzo e al caldo, rigurgiti frequenti. Un cane che ansima pesantemente dopo pochi minuti di gioco non è fuori forma, va visto. Nella selezione conta scegliere riproduttori con narici aperte e canna nasale non compressa: la tipicità della testa non deve mai andare contro la funzionalità.</p>
   
   <div class="content-block">
   <p>Il <strong>BOAS</strong> (Brachycephalic Obstructive Airway Syndrome) è un insieme di anomalie anatomiche che causano ostruzione delle vie aeree superiori nei cani a muso corto. Non si tratta di un singolo problema, ma di una combinazione di difetti che rendono difficile la respirazione.</p>

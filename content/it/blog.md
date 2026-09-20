@@ -28,6 +28,8 @@ custom_content: |
   </div>
 
   <!-- RAZZA E LEGISLAZIONE -->
+    <p>Questo blog raccoglie le guide che scriviamo sullo Staffordshire Bull Terrier, divise per argomento: razza e legislazione, cuccioli, standard e linee di sangue, salute, famiglia e convivenza. Non sono articoli scritti per riempire il sito: nascono dalle domande che ci fanno davvero, e dove serve dicono anche le cose scomode &mdash; che i test hanno dei limiti, che la reattivit&agrave; verso altri cani esiste, che un metodo diffuso non ha le prove che promette. Dove citiamo un dato, indichiamo la fonte: ENCI, Kennel Club britannico, linee guida veterinarie o studi pubblicati. <strong>Le guide pi&ugrave; lette</strong> sono quelle su come riconoscere un allevamento serio, sui test genetici L2-HGA e HC e su come si legge un pedigree.</p>
+
   <!--RECENTI-->
 
   <section class="section" id="legislazione">

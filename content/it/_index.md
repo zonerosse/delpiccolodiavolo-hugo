@@ -254,7 +254,7 @@ custom_content: |
   <span>Quanto costa uno Staffordshire con pedigree ENCI?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Dietro c'è il lavoro di anni: selezione dei riproduttori, test genetici, cure veterinarie e cuccioli cresciuti in casa. Ogni cucciolo parte con vaccinazioni, microchip, sverminazioni e il nostro supporto per tutta la vita.</div>
+  <div class="faq-answer">Non esiste un listino: quello che si paga riflette costi che esistono prima della nascita dei cuccioli. I test genetici dei riproduttori per L2HGA, HC e PHPV, l'iscrizione della cucciolata al libro genealogico ENCI con tariffe pubbliche, le visite veterinarie in gravidanza, l'ecografia e la radiografia prima del parto, le prime vaccinazioni, le sverminazioni e il microchip. <strong>Un prezzo molto basso quasi sempre significa che manca qualcosa</strong>: i test, il pedigree, o cuccioli separati dalla madre prima dei 60 giorni previsti dalla legge. Ogni cucciolo parte con vaccinazioni, microchip, sverminazioni, certificati dei test dei genitori e il nostro supporto per tutta la vita del cane.</div>
   </div>
 
   <div class="faq-item active">
@@ -262,7 +262,7 @@ custom_content: |
   <span>Quali test genetici fate sui riproduttori?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Tutti i nostri riproduttori sono testati per: L2HGA (Aciduria L-2-Idrossiglutarica), HC (Cataratta Ereditaria) e PHPV. I test sono fondamentali per produrre soggetti sani. Ogni cane viene affidato con certificati dei test dei genitori.</div>
+  <div class="faq-answer">Tutti i nostri riproduttori sono testati per <strong>L2-HGA</strong>, l'aciduria L-2-idrossiglutarica, una malattia neurologica; <strong>HC</strong>, la cataratta ereditaria giovanile; e <strong>PHPV</strong>, un'anomalia congenita dell'occhio. Le prime due si accertano con un test del DNA, la terza con una visita oftalmologica specialistica. Sono tutte a trasmissione recessiva: due genitori esenti non possono produrre cuccioli malati. I portatori non entrano in riproduzione. I referti di laboratorio sono pubblicati su questo sito e scaricabili, con il <strong>numero di microchip del cane in chiaro</strong>: &egrave; quel numero a rendere il documento verificabile, perch&eacute; senza non sarebbe collegabile a nessun animale in particolare.</div>
   </div>
 
   <div class="faq-item active">
@@ -270,7 +270,7 @@ custom_content: |
   <span>Posso visitare l'allevamento?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Assolutamente si, anzi lo consiglio caldamente. Nel nostro allevamento a Ostellato (Ferrara) ricevo su appuntamento. Vedrete i cani adulti, come vivono, potrete verificare documentazione e pedigree.</div>
+  <div class="faq-answer">S&igrave;, ed &egrave; il modo giusto di conoscerci. Riceviamo su appuntamento a Ostellato, in provincia di Ferrara, per dedicare tutto il tempo necessario senza stressare i cani. Durante la visita si vedono i cani adulti e la madre della cucciolata, il posto dove i cuccioli crescono, e si controllano di persona pedigree e referti dei test genetici. &Egrave; anche l'occasione in cui facciamo noi qualche domanda su come sar&agrave; la giornata del cane: non &egrave; un interrogatorio, &egrave; il modo per capire se quel cucciolo e quella famiglia stanno bene insieme. Ostellato dista circa un'ora da Bologna e da Ravenna, due da Verona e Padova.</div>
   </div>
 
   </div>

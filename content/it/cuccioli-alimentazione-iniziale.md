@@ -2,7 +2,7 @@
 title: "Cuccioli: Alimentazione iniziale"
 date: 2025-04-15
 titleSeo: "Alimentazione del cucciolo Staffy nei primi mesi"
-lastmod: 2026-09-12
+lastmod: 2026-09-20
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/cuccioli-4.webp"
@@ -48,6 +48,8 @@ custom_content: |
   </div>
   
   <h2>Frequenza e orari dei pasti</h2>
+
+  <p>Un cucciolo di Staffordshire Bull Terrier mangia <strong>tre volte al giorno fino ai sei mesi</strong> e due da lì in avanti, con orari regolari che aiutano digestione, routine dei bisogni e autocontrollo. Il cambio di alimento rispetto a quello dell'allevamento va fatto gradualmente nell'arco di una settimana, mescolando quantità crescenti del nuovo: un cambio brusco provoca quasi sempre diarrea. La quantità si regola sulla condizione del cane e non solo sulla tabella della confezione: le costole devono essere palpabili senza premere. È la razza sbagliata per gli extra fuori pasto, perché ingrassa con facilità, e il sovrappeso in crescita carica articolazioni ancora in formazione. L'acqua deve essere sempre disponibile e cambiata ogni giorno, anche per i cuccioli che mangiano cibo umido.</p>
   <ul>
   <li><strong>2–3 mesi:</strong> 4 pasti al giorno, distanziati di 4 ore circa.</li>
   <li><strong>3–5 mesi:</strong> 3 pasti al giorno.</li>
