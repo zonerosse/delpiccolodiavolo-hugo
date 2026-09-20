@@ -25,8 +25,8 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow"><a href="/recensioni/" title="Leggi le recensioni" style="color:inherit;text-decoration:none">⭐ <!--REC-VOTO--> su <!--REC-TOTALE--> recensioni →</a></span>
   <h1 class="hero-title">Allevamento <br><em>Staffordshire</em> <br>Bull Terrier</h1>
-  <p class="hero-subtitle">Ostellato (FE) &mdash; una cucciolata l'anno, a volte nessuna</p>
-  <p class="hero-description">Allevamento di Staffordshire Bull Terrier a Ostellato, in provincia di Ferrara, attivo dal 2013. Una cucciolata l'anno, occasionalmente due, a volte nessuna. Tutti i riproduttori sono testati per L2HGA, HC e PHPV, con i referti pubblicati sul sito e il numero di microchip in chiaro. 1 Campione Italiano, 2 Giovani Campioni Italiani, 4&deg; al World Dog Show.</p>
+  <p class="hero-subtitle">Del Piccolo Diavolo - Selezione, salute e carattere</p>
+  <p class="hero-description">A Ostellato (FE) dal 2013. Riproduttori testati per L2HGA, HC e PHPV, con i referti pubblicati e il microchip in chiaro. 1 Campione Italiano, 2 Giovani Campioni Italiani, 4&deg; al World Dog Show.</p>
   <div class="hero-actions">
   <a href="/cuccioli-staffordshire-bull-terrier/" class="btn btn-primary" title="Cuccioli Staffordshire Bull Terrier disponibili">Cuccioli Staffordshire Bull Terrier</a>
   <a href="/allevamento-staffordshire-bull-terrier-in-emilia-romagna/" class="btn btn-ghost" title="Contattaci">Contattaci</a>
@@ -95,11 +95,11 @@ custom_content: |
 
   <p><strong>Non abbiamo cuccioli tutto l'anno.</strong> Una cucciolata, occasionalmente due, a volte nessuna. Se ci scrivi in un momento in cui non ce ne sono, la risposta &egrave; che non ce ne sono: non ti proponiamo il cucciolo di un conoscente n&eacute; ti mettiamo fretta su una cucciolata futura.</p>
 
-  <p><strong>Non spediamo cani.</strong> Niente corrieri, niente stive, niente consegne a met&agrave; strada in un parcheggio. Chi prende un nostro cucciolo viene a Ostellato, e nel farlo vede la madre, la casa e il posto dove &egrave; cresciuto.</p>
+  <p><strong>Non spediamo cani.</strong> Nessun cucciolo di Del Piccolo Diavolo viaggia con corrieri: niente stive, niente consegne a met&agrave; strada in un parcheggio. Chi prende un nostro cucciolo viene a Ostellato, e nel farlo vede la madre, la casa e il posto dove &egrave; cresciuto.</p>
 
   <p><strong>Non trattiamo il pedigree come un accessorio.</strong> Non esiste un cucciolo "con" o "senza": il certificato ENCI accompagna ogni cane.</p>
 
-  <p><strong>Non ci offendiamo se fai domande.</strong> Anzi, sono quelle a dirci chi abbiamo davanti. Chi chiede dei test, dei genitori, di cosa succede se fra due anni non riesce pi&ugrave; a tenere il cane, &egrave; la persona a cui affideremmo volentieri un cucciolo.</p>
+  <p><strong>Non ci offendiamo se fai domande sull'allevamento.</strong> Anzi, sono quelle a dirci chi abbiamo davanti. Chi chiede dei test, dei genitori, di cosa succede se fra due anni non riesce pi&ugrave; a tenere il cane, &egrave; la persona a cui affideremmo volentieri un cucciolo.</p>
 
   <p style="margin-top:2rem;padding-top:1.5rem;border-top:1px solid rgba(139,115,85,.2)">Chi c'&egrave; dietro tutto questo, e come dai Rottweiler si arriva agli Staffy: lo racconto in <a href="/chi-siamo/" title="Chi siamo">chi siamo</a>.</p>
 
@@ -122,9 +122,9 @@ custom_content: |
 
   <p>Facciamo <strong>una cucciolata l'anno, occasionalmente due, a volte nessuna</strong>, mai su richiesta. Tutti i riproduttori sono testati per <strong>L2HGA, HC e PHPV</strong>, e i referti di laboratorio sono pubblicati sul sito: chiunque può scaricarli e leggere nome del cane e numero di microchip, senza chiederci niente. I cuccioli vengono affidati con <strong>pedigree ENCI</strong>, microchip e vaccinazioni in regola, dopo essere nati e cresciuti in casa il primo mese, e poi passati in un box dedicato con sfogo esterno, a contatto quotidiano con persone, rumori domestici e altri animali.</p>
 
-  <p>Sul piano dei risultati: <strong>1 Campione Italiano</strong>, <strong>2 Giovani Campioni Italiani</strong> — uno dei quali anche Campione Sloveno — e un soggetto Giovane Campione e Campione di San Marino, un <strong>4° posto al World Dog Show</strong> con Bilquis Goddess Diabhal, e a maggio 2026 il titolo di <strong>Giovane Campionessa Italiana</strong> per Queen of California. Lavoriamo con le linee di sangue inglesi e irlandesi, in particolare Elitebull e Lackyle.</p>
+  <p>Sul piano dei risultati in esposizione, i cani allevati qui hanno ottenuto <strong>1 titolo di Campione Italiano</strong>, <strong>2 Giovani Campioni Italiani</strong> — uno dei quali anche Campione Sloveno — e un soggetto Giovane Campione e Campione di San Marino, un <strong>4° posto al World Dog Show</strong> con Bilquis Goddess Diabhal, e a maggio 2026 il titolo di <strong>Giovane Campionessa Italiana</strong> per Queen of California. Lavoriamo con le linee di sangue inglesi e irlandesi, in particolare Elitebull e Lackyle.</p>
 
-  <p>La selezione segue tre criteri, in quest'ordine: <strong>equilibrio caratteriale</strong>, <strong>assenza di patologie ereditarie</strong> e <strong>conformità allo standard</strong>. Il carattere viene per primo perché è quello che una famiglia si porta in casa per dodici anni, ed è anche il più difficile da correggere: la morfologia si sistema in due o tre generazioni, un difetto caratteriale no.</p>
+  <p>La selezione dei riproduttori segue tre criteri, in quest'ordine: <strong>equilibrio caratteriale</strong>, <strong>assenza di patologie ereditarie</strong> e <strong>conformità allo standard</strong>. Il carattere viene per primo perché è quello che una famiglia si porta in casa per dodici anni, ed è anche il più difficile da correggere: la morfologia si sistema in due o tre generazioni, un difetto caratteriale no.</p>
 
   <p>Prima di affidare un cucciolo vogliamo conoscere la famiglia: una telefonata, qualche domanda, spesso una visita. E il rapporto non finisce lì — restiamo disponibili per consigli e aggiornamenti anche a distanza di anni, e ogni cane che abbiamo allevato torna da noi se un giorno non potesse più restare dov'è.</p>
 
@@ -148,13 +148,13 @@ custom_content: |
 
   <p>Le affermazioni di un allevamento di Staffordshire Bull Terrier si possono verificare in quattro modi, tutti dall'esterno e senza chiedere niente all'allevatore. I <strong>referti dei test genetici</strong> valgono solo se riportano il numero di microchip del cane: senza quel numero il documento non &egrave; collegabile a nessun animale in particolare. Le <strong>genealogie</strong> si consultano su SBTPedigree, l'archivio internazionale della razza, dove si risale a nonni, bisnonni e fratelli di cucciolata. Il <strong>numero di cucciolate di una femmina</strong> si controlla sul libro genealogico ENCI, sempre con il microchip. I <strong>titoli in esposizione</strong> risultano dai cataloghi pubblici delle manifestazioni, con il nome del giudice che li ha assegnati. Del Piccolo Diavolo pubblica tutti e quattro questi dati, compresi i microchip in chiaro.</p>
 
-  <p>Sul nostro sito i referti dei test genetici dei riproduttori non sono "disponibili su richiesta": sono pubblicati. Chiunque pu&ograve; scaricarli, e su ogni foglio compare il numero di microchip del cane a cui si riferiscono, insieme al nome del laboratorio, al numero di referto e alla data.</p>
+  <p>Su questo sito i referti dei test genetici dei riproduttori non sono "disponibili su richiesta": sono pubblicati. Chiunque pu&ograve; scaricarli, e su ogni foglio compare il numero di microchip del cane a cui si riferiscono, insieme al nome del laboratorio, al numero di referto e alla data.</p>
 
-  <p><strong>&Egrave; quel numero a rendere il documento verificabile.</strong> Un referto senza microchip non &egrave; collegabile a nessun animale in particolare: potrebbe riguardare qualsiasi cane. Con il microchip in chiaro, invece, chiunque pu&ograve; confrontarlo con il documento del cane che ha davanti, o chiedere conferma al laboratorio che lo ha emesso.</p>
+  <p><strong>&Egrave; il numero di microchip a rendere verificabile un referto genetico.</strong> Un referto senza microchip non &egrave; collegabile a nessun animale in particolare: potrebbe riguardare qualsiasi cane. Con il microchip in chiaro, invece, chiunque pu&ograve; confrontarlo con il documento del cane che ha davanti, o chiedere conferma al laboratorio che lo ha emesso.</p>
 
   <h3>Cosa si pu&ograve; controllare, e dove</h3>
 
-  <p><strong>Le genealogie.</strong> I nostri cani sono registrati su <a href="https://sbtpedigree.com/details?id=35858" target="_blank" rel="noopener" aria-label="Del Piccolo Diavolo su SBTPedigree (si apre in una nuova scheda)">SBTPedigree</a>, il database internazionale della razza, con tutti i soggetti e le cucciolate. Da l&igrave; si risale ai nonni, ai bisnonni, ai fratelli di cucciolata: si vede chi sono davvero i cani dietro un nome, e si vede anche cosa non c'&egrave;.</p>
+  <p><strong>Le genealogie.</strong> I cani di Del Piccolo Diavolo sono registrati su <a href="https://sbtpedigree.com/details?id=35858" target="_blank" rel="noopener" aria-label="Del Piccolo Diavolo su SBTPedigree (si apre in una nuova scheda)">SBTPedigree</a>, il database internazionale della razza, con tutti i soggetti e le cucciolate. Da l&igrave; si risale ai nonni, ai bisnonni, ai fratelli di cucciolata: si vede chi sono davvero i cani dietro un nome, e si vede anche cosa non c'&egrave;.</p>
 
   <p><strong>I pedigree.</strong> Ogni cucciolo esce con il certificato genealogico ENCI, che si controlla con il numero di libro genealogico. Non &egrave; un extra e non si paga a parte.</p>
 
@@ -164,7 +164,7 @@ custom_content: |
 
   <h3>Due regole che non deroghiamo</h3>
 
-  <p><strong>Non accoppiamo due cani perch&eacute; sono belli.</strong> Ogni accoppiamento nasce da una ragione che sappiamo spiegare: cosa stiamo cercando di fissare e cosa stiamo cercando di correggere. Se la risposta fosse "sono due bei cani", non ci sarebbe un programma dietro.</p>
+  <p><strong>Non accoppiamo due Staffordshire Bull Terrier perch&eacute; sono belli.</strong> Ogni accoppiamento nasce da una ragione che sappiamo spiegare: cosa stiamo cercando di fissare e cosa stiamo cercando di correggere. Se la risposta fosse "sono due bei cani", non ci sarebbe un programma dietro.</p>
 
   <p><strong>Non affidiamo prima dei 60 giorni</strong>, che &egrave; un obbligo di legge e non una nostra scelta. Per l'estero i tempi si allungano ancora, perch&eacute; servono l'antirabbica e il <a href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Cucciolo all'estero">certificato sanitario ufficiale</a>.</p>
 

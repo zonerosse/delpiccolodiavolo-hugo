@@ -42,7 +42,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is the Staffordshire Bull Terrier dangerous or aggressive?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">No, a well-selected and socialized Staffordshire Bull Terrier is not dangerous. I have been breeding this breed since 2013 and can guarantee that with serious character selection, early socialization and responsible owners, the Staffy is an affectionate and stable dog. Aggression depends on genetics, education and environment, not the breed.</div>
+  <div class="faq-answer">The Staffordshire Bull Terrier is not on any list of dangerous breeds in Italy: the list of at-risk breeds was abolished in 2009 by the Ministry of Health, which moved responsibility from the breed to the owner. It is a powerful dog for its size &mdash; 35-40 cm at the withers and 12-17 kg in males &mdash; and that is worth keeping in mind, but dangerousness is not a breed trait: it depends on how temperament is selected, on socialisation in the first weeks, and on how the dog is handled for the rest of its life. The trait genuinely worth knowing about is different: being a terrier, it can show reactivity towards other dogs, most often of the same sex in adulthood. Towards people the breed standard describes a reliable dog, and there the choice of breeding stock matters more than anything else.</div>
   </div>
   
   <div class="faq-item active">
@@ -50,7 +50,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is the Staffordshire Bull Terrier suitable for children?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">First, something that applies to every breed: <strong>no dog should be left alone with a small child</strong>. The nickname "nanny dog" describes the Staffy's tolerance, not an ability to supervise: an adult present is not optional. That said, this is a dog built to live in a family, and how it grows up in the first weeks matters enormously &mdash; our puppies are among people of all ages from the start.</div>
+  <div class="faq-answer">First, something that applies to every breed: <strong>no dog should be left alone with a small child</strong>. The nickname "nanny dog" describes the Staffy's tolerance, not an ability to supervise: an adult present is not optional. That said, this is a dog built to live in a family, and how it grows up in the first weeks matters enormously &mdash; our puppies are among people of all ages from the start. What makes the difference is the selection of the parents, those first eight weeks, and the rules the family sets at home: a place where the dog is never disturbed, short interactions, and an adult always in the room.</div>
   </div>
   
   <div class="faq-item active">
@@ -58,7 +58,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How much does a puppy with <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="ENCI breed page" target="_blank" rel="noopener" aria-label="ENCI breed page (opens in a new tab)">ENCI pedigree</a> cost?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">A puppy from a serious breeder with ENCI pedigree, complete genetic testing and health guarantees has a price that reflects years of selection, genetic testing costs (L2HGA, HC), vaccinations, microchip and quality nutrition. Be wary of prices under €1,000.</div>
+  <div class="faq-answer">There is no price list: what you pay reflects costs that exist before the puppies are even born. Genetic tests on both parents for L2HGA, HC and PHPV are paid once per dog and last their whole breeding career. Registering the litter with the ENCI stud book has published fees, the same for everyone. Add veterinary visits during pregnancy, the ultrasound at around day 25, the X-ray before whelping, first vaccinations, worming and the microchip. <strong>A very low price almost always means something is missing</strong>: the tests, the pedigree, or puppies separated from their mother before the 60 days required by Italian law. Every puppy leaves with vaccinations, microchip, worming, the parents' test certificates and our support for the dog's whole life.</div>
   </div>
   
   <div class="faq-item active">
@@ -66,7 +66,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What genetic tests do you perform on breeding dogs?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">All our breeding dogs are tested for: L2HGA (L-2-Hydroxyglutaric Aciduria), HC (Hereditary Cataracts) and PHPV (eye anomaly). Testing is essential to produce healthy puppies. Every puppy is sold with certificates of the parents' tests.</div>
+  <div class="faq-answer">All our breeding dogs are tested for <strong>L2-HGA</strong>, L-2-hydroxyglutaric aciduria, a neurological disease; <strong>HC</strong>, juvenile hereditary cataract; and <strong>PHPV</strong>, a congenital eye anomaly. The first two are established with a DNA test, the third with a specialist ophthalmological examination. All three are recessive: two clear parents cannot produce affected puppies. Carriers are not used for breeding here. The laboratory reports are published on this site and can be downloaded, with the <strong>dog's microchip number in plain sight</strong>: that number is what makes the document verifiable, because without it the report could refer to any dog at all.</div>
   </div>
   
   <div class="faq-item active">
@@ -90,7 +90,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Difference between Staffy and Amstaff?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">They are two different FCI-recognized breeds. The Staffordshire Bull Terrier (English Staffy) is smaller: males 35-40 cm at 12-17 kg. The American Staffordshire Terrier (Amstaff) is larger: males 43-48 cm at 25-30 kg. The Staffy maintains the "nanny dog" character perfect for families.</div>
+  <div class="faq-answer">They are two distinct breeds recognised by the FCI, with separate standards and stud books. The <strong>Staffordshire Bull Terrier</strong> is the smaller of the two: 35-40 cm at the withers and 12-17 kg in males, with a short broad head and a compact build. The <strong>American Staffordshire Terrier</strong> is larger and leaner: 46-48 cm and 25-30 kg, with a longer muzzle. The difference is not only size: these are two selections separated by more than a century, one English and one American, with lines that do not cross. The <strong>Pit Bull</strong>, often confused with both, is not a recognised breed in Italy and no ENCI pedigree certifies one.</div>
   </div>
   
   <div class="faq-item active">
@@ -98,7 +98,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How long does a Staffordshire Bull Terrier live?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">A well-selected Staffordshire Bull Terrier lives on average 12-14 years. It's a robust and long-lived breed. The main hereditary conditions (L2HGA, HC) are avoidable with genetic testing of breeding dogs. Our dogs often exceed 13 years.</div>
+  <div class="faq-answer">Twelve to fourteen years, which is a good life expectancy for a medium-sized dog and among the best in the molosser group. The breed is robust, without the respiratory problems of extreme brachycephalics and without the joint conditions typical of large breeds. The three known hereditary diseases &mdash; L2-HGA, hereditary cataract and PHPV &mdash; are all recessive and are prevented by testing the parents: two clear dogs cannot produce affected puppies. After genetics, the single factor that most affects lifespan is <strong>weight</strong>: an overweight Staffy ages earlier, with joints that wear out and less tolerance to heat. Twelve years is also the commitment you take on when you choose a puppy.</div>
   </div>
   
   <div class="faq-item active">
@@ -106,7 +106,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How to recognize a serious breeder?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">A serious breeder must have: original ENCI pedigree, documented genetic tests, puppies raised at home, possibility to visit and see the mother, maximum 1-2 litters/year per female, after-sales support. Be wary of those selling under €1,000 or not showing tests.</div>
+  <div class="faq-answer">By what can be verified without having to trust anyone. <strong>Genetic test reports</strong> only count if they carry the dog's microchip number: without it the document cannot be linked to any particular animal. <strong>Pedigrees</strong> can be checked on SBTPedigree, the breed's international archive. The <strong>number of litters a bitch has had</strong> can be looked up in the ENCI stud book, again starting from the microchip. <strong>Show results</strong> appear in the public catalogues of the events, with the judge's name. A breeder who receives by appointment and shows you the mother and the place where the puppies grow up is another good sign, as is respecting the 60-day minimum before rehoming, which is a legal requirement in Italy.</div>
   </div>
   
   <div class="faq-item active">
@@ -114,7 +114,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What nutrition does the Staffy need?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Balanced and controlled nutrition to maintain muscle without gaining weight. Options: high quality kibble (26-30% protein), BARF or balanced homemade diet. The Staffy is greedy: watch the extras. Ideal weight males 14-16 kg, females 11-14 kg.</div>
+  <div class="faq-answer">The Staffordshire Bull Terrier is a muscular and greedy dog, and that combination leads easily to excess weight. A sound diet means good-quality kibble with protein around 26-30 per cent, or a home-cooked or raw diet balanced by a veterinary nutritionist: what matters is not the formula but consistency and quantity. Ideal weight is 14-16 kg for males and 11-14 kg for females, and it is checked with your hands before the scales: ribs should be easy to feel without pressing. Puppies eat three times a day until six months, then twice. Treats between meals are the most common cause of overweight in this breed, far more than the brand of food.</div>
   </div>
   
   <div class="faq-item active">
@@ -122,7 +122,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Can I visit the kennel?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Absolutely yes, in fact I highly recommend it. At our kennel in Ostellato (Ferrara) I receive by appointment. You'll see the adult dogs, how the puppies live, you can verify documentation and pedigree. Be wary of those who don't allow visits.</div>
+  <div class="faq-answer">Yes, and it is the right way to get to know us. Del Piccolo Diavolo is in Ostellato, in the province of Ferrara, and receives <strong>by appointment only</strong>, so that we can give you all the time you need without stressing the dogs. During the visit you see the adult dogs and the mother of the litter, the place where the puppies are born and grow up, and you can check pedigrees and test reports in person. It is also the moment when we ask you a few questions: how many hours the dog will be alone, who is at home, what happens in summer. It is not an interrogation, it is how we work out whether that puppy and that family fit. Anyone taking one of our puppies comes here: we do not ship dogs.</div>
   </div>
   
   <div class="faq-item active">

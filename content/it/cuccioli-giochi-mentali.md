@@ -47,9 +47,9 @@ custom_content: |
   <strong>In breve:</strong> I giochi mentali aiutano il cucciolo di Staffordshire Bull Terrier a sviluppare autocontrollo, problem solving e fiducia. Bastano sessioni brevi e divertenti per migliorare attenzione e calma in casa.
   </div>
   
-  <h2>Linee guida per iniziare</h2>
-
   <p>L'attività mentale stanca un cucciolo più di quella fisica, e soprattutto non carica le articolazioni in formazione: è il motivo per cui nei primi mesi vale più di una passeggiata lunga. <strong>Mezz'ora di ricerca olfattiva equivale grossomodo a un'ora di corsa</strong> in termini di stanchezza, senza nessuno dei rischi. Bastano cose semplici: bocconcini nascosti in un asciugamano arrotolato, una ciotola antivoracità, un tappetino olfattivo, oppure la razione del pasto sparsa nell'erba. Per uno Staffy, che è un cane motivato dal cibo e che si annoia in fretta, questi giochi risolvono buona parte dei comportamenti distruttivi in casa, che quasi sempre nascono da noia e non da dispetto.</p>
+
+  <h2>Linee guida per iniziare</h2>
 
   <p>L'arricchimento ambientale non &egrave; un passatempo: le <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="Position statement AVSAB (si apre in una nuova scheda)">linee guida AVSAB</a> lo mettono fra gli strumenti che riducono i problemi di comportamento, insieme all'esercizio fisico e a una giornata prevedibile.</p>
   <ul>

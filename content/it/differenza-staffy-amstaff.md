@@ -33,9 +33,9 @@ categories: ["Standard"]
 
 <p>In questa guida ti spiego tutte le differenze per aiutarti a capire quale razza fa per te.</p>
 
-<h2>Origini: una storia comune, due percorsi diversi</h2>
-
 <p>Staffordshire Bull Terrier e American Staffordshire Terrier sono due razze distinte riconosciute dalla FCI, con standard e libri genealogici separati. La differenza più immediata è la taglia: lo <strong>Staffy</strong> misura 35-40 centimetri al garrese per 12-17 chili nel maschio, l'<strong>Amstaff</strong> arriva a 46-48 centimetri per 25-30 chili. Cambia anche la struttura: il primo è compatto, con testa corta e larga; il secondo più slanciato, con muso più lungo. Non sono varianti della stessa razza ma due selezioni separate da oltre un secolo, l'una inglese e l'altra americana, con linee che non si incrociano. Il Pitbull, spesso confuso con entrambi, in Italia non è una razza riconosciuta e non ha pedigree ENCI.</p>
+
+<h2>Origini: una storia comune, due percorsi diversi</h2>
 
 <p>Entrambe le razze discendono dai cani da combattimento inglesi del 1800, incroci tra Bulldog e Terrier. Quando questi cani arrivarono in America, gli allevatori americani selezionarono soggetti più grandi e potenti, creando l'<a href="https://www.enci.it/media/2547/286.pdf" title="Standard FCI n. 76, PDF ufficiale ENCI" target="_blank" rel="noopener" aria-label="Standard FCI n. 76, PDF ufficiale ENCI (si apre in una nuova scheda)">American Staffordshire Terrier</a>.</p>
 
