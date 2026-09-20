@@ -1,7 +1,7 @@
 ---
 title: "Chi Siamo"
 titleSeo: "Chi siamo: allevatori di Staffordshire Bull Terrier dal 2013"
-lastmod: 2026-09-12
+lastmod: 2026-09-20
 tipoPagina: "ProfilePage"
 translationKey: "chi-siamo"
 description: "Allevamento Del Piccolo Diavolo: dal 2013 selezioniamo Staffordshire Bull Terrier sani, equilibrati e tipici. Ostellato (FE)."
@@ -40,7 +40,7 @@ custom_content: |
   <span class="section-label">L'Allevatore</span>
   <h2 class="section-title">Chi c'è dietro Del Piccolo Diavolo</h2>
   <div class="content-block">
-  <p><strong>Paolo Boldrini</strong> alleva Staffordshire Bull Terrier dal 2013 a Ostellato, in provincia di Ferrara, con il nome Del Piccolo Diavolo.</p>
+  <p><strong>Paolo Boldrini</strong> alleva Staffordshire Bull Terrier dal 2013 a Ostellato, in provincia di Ferrara, con il nome Del Piccolo Diavolo. Segue la razza da oltre vent'anni e alleva da dodici: l'allevamento &egrave; nato dopo un lungo periodo di studio, non prima. In precedenza ha allevato Rottweiler, producendo un Campione Italiano e un Campione Europeo, ed &egrave; stato giudice internazionale per canarini Gloster. Non ha affisso ENCI: i cani sono registrati a suo nome e rilasciano pedigree ENCI regolari. Il nome dell'allevamento viene da Lackyle Diabhal &Oacute;g, in irlandese il giovane diavolo, uno dei cani che hanno fatto la storia della razza e che compare nei pedigree delle linee su cui lavora. Le cucciolate sono una l'anno, occasionalmente due, in alcuni anni nessuna.</p>
   <p>Lavora su linee Elitebull (Inghilterra) e Lackyle (Irlanda) e testa tutti i riproduttori per L2HGA, HC e PHPV. Con <strong>Bilquis Goddess Diabhal</strong> ha conquistato il titolo di Campionessa Italiana di Bellezza ENCI e un quarto posto al World Dog Show di Zagabria nel 2024. Tutti i cuccioli sono affidati con pedigree ENCI e con i certificati dei test dei genitori.</p>
   <p>Le pagine di questo sito sono scritte da lui, sulla base di quello che succede davvero in allevamento. Per domande sui cuccioli, sulle linee di sangue o sui test genetici: <a href="/allevamento-staffordshire-bull-terrier-in-emilia-romagna/">contattami direttamente</a>.</p>
   </div>

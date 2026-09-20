@@ -1,7 +1,7 @@
 ---
 title: "Palmares Staffordshire Bull Terrier"
 titleSeo: "Palmares: campioni italiani e internazionali dal 2013"
-lastmod: 2026-09-12
+lastmod: 2026-09-20
 tipoPagina: "CollectionPage"
 translationKey: "palmares"
 description: "Risultati e titoli dei nostri Staffordshire Bull Terrier: Campioni Italiani, Giovani Campioni, Best in Show. Allevamento Del Piccolo Diavolo, Emilia-Romagna."
@@ -9,6 +9,8 @@ slug: "palmares-del-piccolo-diavolo"
 custom_content: |
   <section class="page-hero">
   <h1>Palmares Staffordshire Bull Terrier — Del Piccolo Diavolo</h1>
+  <p>I cani allevati da Del Piccolo Diavolo hanno ottenuto finora un titolo di Campione Italiano, due di Giovane Campione Italiano &mdash; uno dei quali anche Campione Sloveno &mdash; e i titoli di Giovane Campionessa e Campionessa di San Marino, oltre a un quarto posto al World Dog Show con Bilquis Goddess Diabhal, che ha alle spalle dodici esposizioni consecutive con Eccellente primo. Nel maggio 2026 Queen of California ha conquistato il titolo di Giovane Campionessa Italiana all'Esposizione Nazionale di Albarella. Sono tutti cani nati e cresciuti qui, non acquistati già titolati. I risultati in esposizione non sono autocertificabili: i cataloghi delle manifestazioni sono pubblici e i giudici che hanno valutato questi cani hanno un nome e un cognome.</p>
+
   <p>I risultati dei nostri Staffordshire Bull Terrier sui ring italiani e internazionali</p>
   </section>
   

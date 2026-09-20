@@ -9,6 +9,8 @@ description: "Aggiornamenti, nascite e novità dall'allevamento Del Piccolo Diav
 slug: "diario-allevamento"
 ---
 
+Il diario di Del Piccolo Diavolo raccoglie tutte le cucciolate nate a Ostellato, con la data di nascita, i nomi dei due riproduttori, i loro test genetici e il numero di cuccioli. Nessuna cucciolata sparisce dal sito quando i cuccioli sono andati a casa loro, ed è voluto: è così che chiunque può contare quante ne nascono davvero in un anno, e confrontare il dato con il libro genealogico ENCI partendo dal microchip della madre. La media è di una cucciolata l'anno, occasionalmente due, in alcuni anni nessuna.
+
 Questo è il posto dove raccontiamo cosa succede davvero in allevamento, cucciolata per cucciolata: chi sono i genitori e perché li abbiamo scelti, quali test hanno fatto, come crescono i piccoli nelle prime settimane.
 
 Non è una vetrina di annunci. È il modo che abbiamo per far vedere come lavoriamo a chi sta valutando un cucciolo e non ci conosce ancora.

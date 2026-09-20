@@ -1,7 +1,7 @@
 ---
 title: "Programma allevamento Staffordshire Bull Terrier"
 titleSeo: "Cucciolate programmate: accoppiamenti e criteri di selezione"
-lastmod: 2026-09-12
+lastmod: 2026-09-20
 tipoPagina: "CollectionPage"
 translationKey: "programma"
 description: "Programma di allevamento Staffordshire Bull Terrier: criteri di selezione, salute, test genetici e storico delle cucciolate passate e future."
@@ -81,6 +81,8 @@ custom_content: |
   <h2 class="section-title">Come selezioniamo i riproduttori</h2>
 
   <div class="intro-block">
+  <p>Un accoppiamento a Del Piccolo Diavolo si programma con mesi di anticipo e segue sempre lo stesso percorso. Si parte dai test genetici dei due riproduttori per L2HGA, HC e PHPV, poi si studiano i pedigree su SBTPedigree con la funzione di prova di accoppiamento, che mostra il coefficiente di consanguineità teorico dei cuccioli e su quali antenati si concentra. La forbice entro cui ci muoviamo va dal 6 al 9 per cento: sotto si perde la possibilità di fissare un carattere, sopra si stringe troppo. Il maschio arriva quasi sempre da fuori, scelto per correggere quello che manca alla femmina e non per sommare due cani belli. Il risultato è una cucciolata l'anno, occasionalmente due, in alcuni anni nessuna: se il momento giusto non arriva, quell'anno non nasce niente.</p>
+
   <p>Il nostro programma di allevamento si basa sulla selezione attenta di riproduttori sani, equilibrati e conformi allo standard. Ogni soggetto viene valutato per morfologia, carattere e salute genetica prima di entrare nel programma riproduttivo.</p>
   <p>Lavoriamo con le migliori linee di sangue inglesi (Elitebull) e irlandesi (Lackyle), selezionando riproduttori che abbiano dimostrato qualità in esposizione e che possiedano test genetici completi per L2HGA, HC e PHPV.</p>
   <p>La selezione non si limita all'aspetto estetico: il temperamento equilibrato, la socievolezza e la capacità di adattarsi alla vita familiare sono criteri fondamentali nella scelta dei nostri riproduttori.</p>

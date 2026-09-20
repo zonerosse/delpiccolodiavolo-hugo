@@ -7,7 +7,7 @@ image: "/images/blog/cucciolata-erba.avif"
 description: "Otto criteri per riconoscere un allevamento Staffordshire Bull Terrier serio, ognuno con il modo di verificarlo. Con i nostri documenti come esempio."
 slug: "come-scegliere-allevamento-staffordshire-bull-terrier"
 date: 2026-01-18
-lastmod: 2026-09-12
+lastmod: 2026-09-20
 categories: ["Cuccioli"]
 ---
 
@@ -37,6 +37,8 @@ categories: ["Cuccioli"]
 <section class="section">
 <div class="section-inner content-single">
 
+
+<p>Riconoscere un allevamento serio di Staffordshire Bull Terrier non richiede di fidarsi di nessuno: richiede di sapere dove guardare. I referti dei test genetici valgono solo se riportano il numero di microchip del cane, altrimenti non sono collegabili a nessun animale. Le genealogie si consultano su SBTPedigree, l'archivio internazionale della razza. Il numero di cucciolate di una femmina si controlla sul libro genealogico ENCI, sempre partendo dal microchip. I titoli in esposizione risultano dai cataloghi pubblici, con il nome del giudice. La cessione prima dei 60 giorni è vietata dalla legge italiana, e per l'estero i tempi si allungano perché serve l'antirabbica. Otto criteri, e per ognuno il modo di verificarlo: valgono su questo allevamento come su qualunque altro.</p>
 
 <p>Quasi tutti gli allevamenti dicono le stesse cose: cani testati, cuccioli cresciuti in casa, selezione attenta. Sono affermazioni gratuite finché nessuno le controlla, e chi cerca il primo cucciolo raramente sa da dove cominciare a controllare.</p>
 

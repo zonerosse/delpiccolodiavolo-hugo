@@ -1,7 +1,7 @@
 ---
 title: "Femmine Staffordshire Bull Terrier"
 titleSeo: "Femmine Staffordshire Bull Terrier: referti e pedigree ENCI"
-lastmod: 2026-09-12
+lastmod: 2026-09-20
 tipoPagina: "CollectionPage"
 translationKey: "femmine"
 description: "Le nostre femmine Staffordshire Bull Terrier: Bilquis (Top Dog Junior 2023), Croi Olc, Divine, Kennedy, Derry, Cattleya. Test genetici L2HGA e HC certificati."
@@ -50,6 +50,8 @@ custom_content: |
   <h2 class="section-title">Selezione e Cura delle Nostre Femmine</h2>
   
   <div class="intro-block">
+  <p>Le fattrici di Del Piccolo Diavolo sono otto Staffordshire Bull Terrier femmine, e per ognuna il sito pubblica il numero di microchip, il numero di libro genealogico ENCI, i test genetici e il collegamento alla scheda su SBTPedigree. Con il microchip chiunque può consultare sul libro genealogico ENCI quante cucciolate ha fatto una femmina: da noi la media è di due per cane, ben sotto il limite consentito dal regolamento. Alcune non vivono qui &mdash; una è in Germania con i suoi proprietari, un'altra è stata ceduta a una famiglia &mdash; e anche questo è scritto nella loro scheda, con il nome di chi le ha oggi. Le linee di provenienza sono inglesi e irlandesi, in particolare Elitebull e Lackyle, e i soggetti importati arrivano da Russia, Germania e Irlanda.</p>
+
   <p>Cresciute con cura e responsabilità, le nostre femmine sono selezionate per <strong>salute</strong>, <strong>tipicità di razza</strong> e <strong>temperamento equilibrato</strong>. Ogni accoppiamento è pianificato sulla base dei test genetici e della compatibilità delle linee.</p>
   <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Le nostre femmine sono testate per:</p>
   <p>✓ <strong>L2HGA</strong> — Aciduria L-2-Idrossiglutarica<br>

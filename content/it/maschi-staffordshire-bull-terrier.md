@@ -1,7 +1,7 @@
 ---
 title: "Maschi Staffordshire Bull Terrier"
 titleSeo: "Maschi Staffordshire Bull Terrier: pedigree e test genetici"
-lastmod: 2026-09-12
+lastmod: 2026-09-20
 tipoPagina: "CollectionPage"
 translationKey: "maschi"
 description: "I nostri maschi Staffordshire Bull Terrier: Lothar (Campione Sloveno e Giovane Campione Italiano), Braveheart e Papillon. Test genetici L2HGA e HC certificati."
@@ -50,6 +50,8 @@ custom_content: |
   <h2 class="section-title">Etica, Salute e Selezione Responsabile</h2>
   
   <div class="intro-block">
+  <p>Del Piccolo Diavolo non tiene maschi riproduttori di propriet&agrave;, ed &egrave; una scelta. Per ogni accoppiamento lo stallone viene cercato fuori, fra le linee inglesi Elitebull e irlandesi Lackyle, e scelto per correggere quello che manca alla femmina: se una fattrice ha una testa eccellente e un movimento migliorabile, serve un maschio solido sul movimento, non uno bello quanto lei. Tenere un maschio in casa significherebbe usarlo perch&eacute; c'&egrave;, e chiudere le linee su un solo soggetto. Prima di un accoppiamento chiediamo al proprietario i referti dei test genetici con il numero di microchip sopra, non promesse: se un maschio &egrave; testato per alcune patologie e non per tutte, lo sappiamo prima e lo scriviamo nella pagina di quella cucciolata.</p>
+
   <p>Nel nostro allevamento la <strong>salute genetica</strong> viene prima di tutto. Ogni maschio riproduttore è sottoposto a screening completo prima di entrare nel programma.</p>
   <p style="margin-top:1rem">Un maschio riproduttore pesa molto più di una femmina sul futuro di una linea: una femmina produce 2 o 3 cucciolate in tutta la vita, un maschio può essere padre di decine di cuccioli. Per questo il criterio di ammissione è più severo, non più permissivo.</p>
   <p style="margin-top:1rem">Guardiamo tre cose, in quest'ordine. Il <strong>carattere</strong>: un soggetto insicuro o reattivo non entra nel programma, per quanto sia corretto nella morfologia, perché un difetto caratteriale si propaga per generazioni e si manifesta nelle case delle famiglie. La <strong>respirazione</strong>: un cane che fatica dopo pochi minuti di trotto o soffre al primo caldo ha un problema di benessere, indipendentemente da quanti titoli abbia. E la <strong>tipicità senza esagerazioni</strong>: testa corretta e ossatura solida, ma non a scapito della funzionalità.</p>

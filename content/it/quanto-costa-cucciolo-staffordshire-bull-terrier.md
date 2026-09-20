@@ -11,6 +11,8 @@ slug: "quanto-costa-cucciolo-staffordshire-bull-terrier"
 
 <h1>Quanto Costa un Cucciolo di Staffordshire Bull Terrier nel 2026</h1>
 
+Il prezzo di un cucciolo di Staffordshire Bull Terrier con pedigree ENCI non è un listino: è la somma di costi che esistono prima che il cucciolo nasca. I test genetici dei due riproduttori per L2HGA, HC e PHPV si pagano una volta per cane e valgono per tutta la carriera riproduttiva. L'iscrizione della cucciolata al libro genealogico ENCI ha tariffe pubbliche, uguali per tutti. A queste si aggiungono le visite veterinarie durante la gravidanza, l'ecografia al venticinquesimo giorno, la radiografia prima del parto, le prime vaccinazioni, le sverminazioni e il microchip. Un prezzo molto basso quasi sempre significa che manca qualcosa: i test, il pedigree, o cuccioli separati dalla madre prima dei 60 giorni previsti dalla legge italiana.
+
 La risposta breve: **non esiste un listino, ed è giusto così**. Quello che puoi valutare è cosa c’è dentro il prezzo, quando acquisti da un allevatore serio con pedigree ENCI, test genetici e tutte le garanzie.
 
 Se ti capita di trovare cuccioli di Staffordshire Bull Terrier a poche centinaia di euro, fermati. Stai per fare un errore che potrebbe costarti molto di più in veterinari, problemi comportamentali e cuore spezzato.

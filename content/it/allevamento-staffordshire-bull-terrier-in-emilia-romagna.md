@@ -1,6 +1,6 @@
 ---
 title: "Allevamento Staffordshire Bull Terrier in Emilia-Romagna"
-lastmod: 2026-09-06
+lastmod: 2026-09-20
 tipoPagina: "ContactPage"
 titleSeo: "Allevamento Staffy in Emilia-Romagna: Ostellato (FE)"
 translationKey: "contatti"
@@ -37,6 +37,8 @@ custom_content: |
   <span class="section-label">L'Allevamento</span>
   <h2 class="section-title">Un allevamento serio in Emilia-Romagna</h2>
   <div class="intro-block" style="max-width:800px;text-align:left">
+  <p>L'allevamento Del Piccolo Diavolo si trova a Ostellato, in provincia di Ferrara, in Emilia-Romagna, e riceve esclusivamente su appuntamento. La visita serve a vedere i cani adulti, la madre della cucciolata e il posto dove i cuccioli crescono, e a controllare di persona pedigree e referti dei test genetici. Ostellato &egrave; raggiungibile in circa un'ora da Bologna e da Ravenna, in due da Verona e Padova, in tre da Milano e Firenze. I cuccioli non vengono spediti con corrieri n&eacute; consegnati a met&agrave; strada: chi ne prende uno viene qui. Per chi scrive dall'estero in inglese, tedesco, spagnolo o olandese c'&egrave; un secondo recapito telefonico dedicato.</p>
+
   <p>Del Piccolo Diavolo è uno dei pochi allevamenti di <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">Staffordshire Bull Terrier</a> in Emilia-Romagna con un programma di selezione strutturato e documentato. Attivo dal 2013 a Ostellato, in provincia di Ferrara, lavoriamo esclusivamente con linee di sangue inglesi (Elitebull) e irlandesi (Lackyle), scelte per tipicità, salute e carattere.</p>
   <p>Dal 2013 abbiamo prodotto 1 Campione Italiano, 2 Giovani Campioni Italiani e un 4° posto al World Dog Show e decine di soggetti inseriti con successo in famiglie di tutta Italia. Ogni riproduttore è testato per L2HGA, HC e PHPV — le tre principali patologie ereditarie della razza.</p>
   <p>Non siamo un allevamento commerciale: produciamo 1-2 cucciolate all'anno, seguite con attenzione dalla nascita all'affido. Chi sceglie Del Piccolo Diavolo non compra un cane: entra in una relazione che dura per tutta la vita dell'animale.</p>
