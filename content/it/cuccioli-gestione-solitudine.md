@@ -57,9 +57,9 @@ custom_content: |
   </ul>
   </div>
   
-  <h2>Preparare l'ambiente</h2>
-
   <p>Lo Staffordshire Bull Terrier è una razza molto legata alle persone, quindi la solitudine va insegnata invece che data per scontata. Si comincia dal primo giorno con <strong>assenze brevissime</strong> — anche solo trenta secondi dietro una porta chiusa — allungate un poco per volta, senza fare scene né quando si esce né quando si rientra. Un cucciolo non regge più di un paio d'ore, un adulto abituato arriva a quattro o cinque. Il segnale che qualcosa non va non è il disordine ma il panico: vocalizzi continui, salivazione, tentativi di uscire dalla porta. In quel caso si tratta di ansia da separazione, che è un disturbo riconosciuto e richiede un percorso guidato.</p>
+
+  <h2>Preparare l'ambiente</h2>
 
   <p>L'ansia da separazione &egrave; un disturbo riconosciuto, non un capriccio: le <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="Position statement AVSAB (si apre in una nuova scheda)">linee guida AVSAB</a> raccomandano di intervenire presto e per gradi, e di rivolgersi a un professionista quando il cane va in panico.</p>
   <ul>

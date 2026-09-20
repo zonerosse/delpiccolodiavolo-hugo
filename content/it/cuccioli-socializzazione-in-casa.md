@@ -45,9 +45,9 @@ custom_content: |
   
   <p>La <a href="https://wsava.org/global-guidelines/vaccination-guidelines/" title="Linee guida globali WSAVA" target="_blank" rel="noopener" aria-label="Linee guida globali WSAVA (si apre in una nuova scheda)">socializzazione</a> del cucciolo inizia in casa: esperienze brevi, positive e guidate creano basi solide per un adulto sereno. Con uno <a aria-label="Allevamento Del Piccolo Diavolo" href="/" title="Staffordshire Bull Terrier">Staffordshire Bull Terrier</a> (Staffy) è fondamentale curare autocontrollo, manipolazioni e gestione delle risorse.</p>
   
-  <h2>Ambiente domestico: superfici, rumori, oggetti</h2>
-
   <p>La socializzazione di un cucciolo di Staffordshire Bull Terrier si gioca quasi tutta in un periodo preciso: il <strong>periodo sensibile</strong>, che va grosso modo dalla terza alla dodicesima settimana di vita, con il momento centrale fra la quarta e l'ottava. Quello che un cucciolo incontra in quelle settimane entra a far parte del suo mondo normale; quello che non incontra resterà per sempre una novità da valutare. Non servono esperienze eccezionali, servono quelle ordinarie: superfici diverse sotto le zampe, rumori domestici come lavatrice e aspirapolvere, persone di età diversa, altri cani equilibrati. La regola è la qualità, non la quantità: un'esposizione breve e positiva vale più di una lunga in cui il cucciolo si spaventa.</p>
+
+  <h2>Ambiente domestico: superfici, rumori, oggetti</h2>
   
   <ul>
   <li><strong>Superfici:</strong> tappeti, parquet, mattonelle, passatoie antiscivolo per prevenire scivolate.</li>

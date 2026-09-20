@@ -47,9 +47,9 @@ custom_content: |
   <strong>In breve:</strong> Impostare bene l'educazione ai bisogni nei primi mesi rende più serena la convivenza e accelera l'autonomia del cucciolo di Staffordshire Bull Terrier. Servono routine chiare, uscite frequenti e tanto rinforzo positivo.
   </div>
   
-  <h2>Routine di base per il cucciolo</h2>
-
   <p>Insegnare i bisogni a un cucciolo è una questione di tempi e di prevedibilità, non di punizioni. Un cucciolo di due mesi ha bisogno di uscire <strong>ogni due ore circa</strong>, e sempre nei quattro momenti critici: appena sveglio, dopo il pasto, dopo il gioco e prima di dormire. Il premio va dato fuori e subito dopo che ha finito, non quando rientra in casa, altrimenti associa il premio al rientro. Le punizioni per gli incidenti in casa non funzionano: insegnano solo a nascondersi per farli, il che rende il problema più difficile da risolvere. Il controllo completo arriva in genere fra i quattro e i sei mesi, con differenze individuali.</p>
+
+  <h2>Routine di base per il cucciolo</h2>
 
   <p>Sulla finestra della socializzazione e sull'uso del rinforzo positivo il riferimento internazionale sono le <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="Position statement AVSAB (si apre in una nuova scheda)">linee guida AVSAB</a>: raccomandano di cominciare presto e di evitare i metodi coercitivi, che peggiorano i problemi invece di risolverli.</p>
   <ul>

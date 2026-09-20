@@ -107,17 +107,17 @@ custom_content: |
 
   <h3>Prima del calore</h3>
 
-  <p>Il percorso comincia dal veterinario, non dal maschio. Se la femmina &egrave; regolare e ho il calendario dei calori precedenti, so con buona approssimazione quando arriver&agrave; il prossimo e la visita la faccio poco prima; altrimenti si va appena il calore &egrave; conclamato.</p>
+  <p>Il percorso di una cucciolata comincia dal veterinario, non dal maschio. Se la femmina &egrave; regolare e ho il calendario dei calori precedenti, so con buona approssimazione quando arriver&agrave; il prossimo e la visita la faccio poco prima; altrimenti si va appena il calore &egrave; conclamato.</p>
 
   <p>In quella visita si fa il <strong>tampone vaginale con esame colturale</strong>, per escludere batteri che comprometterebbero la gravidanza, e se serve una sverminazione.</p>
 
-  <p>Poi cominciano i <strong>dosaggi del progesterone</strong>. Non &egrave; un dettaglio da appassionati: il momento fertile non si indovina dal giorno del calore, e sbagliarlo di 48 ore significa non avere cuccioli. Si preleva a intervalli finch&eacute; il valore raggiunge il picco, e quello &egrave; il giorno.</p>
+  <p>Individuato il calore, cominciano i <strong>dosaggi del progesterone</strong>. Non &egrave; un dettaglio da appassionati: il momento fertile non si indovina dal giorno del calore, e sbagliarlo di 48 ore significa non avere cuccioli. Si preleva a intervalli finch&eacute; il valore raggiunge il picco, e quello &egrave; il giorno.</p>
 
   <h3>L'accoppiamento</h3>
 
   <p><strong>Sono sempre io che vado dal maschio</strong>, mai il contrario: il maschio resta a casa sua, si sposta la femmina.</p>
 
-  <p>Quando si tratta di un maschio di livello, capita spesso che il proprietario si appoggi a un veterinario per l'<strong>inseminazione strumentale</strong>, con deposizione intracervicale. Le ragioni sono tre: evitare il rischio di malattie trasmissibili, non sottoporre il soggetto a sforzi eccessivi, e avere la certezza che l'accoppiamento avvenga. Perch&eacute; &mdash; e questa &egrave; una cosa che chi non alleva non immagina &mdash; <strong>non per tutti i maschi accoppiarsi &egrave; facile</strong>. Molto dipende dalla femmina: ce n'&egrave; pi&ugrave; d'una che non gliela rende semplice per niente.</p>
+  <p>Quando lo stallone scelto &egrave; un maschio di livello, capita spesso che il proprietario si appoggi a un veterinario per l'<strong>inseminazione strumentale</strong>, con deposizione intracervicale. Le ragioni sono tre: evitare il rischio di malattie trasmissibili, non sottoporre il soggetto a sforzi eccessivi, e avere la certezza che l'accoppiamento avvenga. Perch&eacute; &mdash; e questa &egrave; una cosa che chi non alleva non immagina &mdash; <strong>non per tutti i maschi accoppiarsi &egrave; facile</strong>. Molto dipende dalla femmina: ce n'&egrave; pi&ugrave; d'una che non gliela rende semplice per niente.</p>
 
   <h3>La gravidanza: due esami, due scopi diversi</h3>
 
@@ -125,7 +125,7 @@ custom_content: |
 
   <p><strong>La radiografia, cinque o sette giorni prima del parto.</strong> Questa serve al numero esatto, che si ottiene contando i crani e le colonne vertebrali, a quel punto calcificati e visibili.</p>
 
-  <p>Non &egrave; un vezzo: <strong>&egrave; l'informazione che serve durante il parto</strong>, soprattutto se naturale. Bisogna sapere quanti cuccioli devono uscire, e che siano usciti tutti, ognuno con la sua placenta. Senza quel numero si va a sentimento, e a sentimento un cucciolo trattenuto o una placenta ritenuta si scoprono tardi.</p>
+  <p>Contare i crani con la radiografia non &egrave; un vezzo: <strong>&egrave; l'informazione che serve durante il parto</strong>, soprattutto se naturale. Bisogna sapere quanti cuccioli devono uscire, e che siano usciti tutti, ognuno con la sua placenta. Senza quel numero si va a sentimento, e a sentimento un cucciolo trattenuto o una placenta ritenuta si scoprono tardi.</p>
 
   <h3>Il parto</h3>
 
@@ -137,7 +137,7 @@ custom_content: |
 
   <p>I cuccioli nascono in casa, nella cassa parto. E per una settimana <strong>smetto di dormire nel mio letto</strong>: mi sistemo sul divano, accanto a loro.</p>
 
-  <p>Non &egrave; tenerezza da raccontare, &egrave; la parte pi&ugrave; rischiosa di tutte. In quei giorni un cucciolo pu&ograve; finire schiacciato dalla madre che si gira, o una femmina pu&ograve; essere restia ad allattare: sono cose che si sentono prima di vederle, un mugolio diverso, un rumore che non torna. Dopo la prima settimana la situazione si alleggerisce.</p>
+  <p>La prima settimana dopo il parto non &egrave; tenerezza da raccontare: &egrave; la parte pi&ugrave; rischiosa di tutte. In quei giorni un cucciolo pu&ograve; finire schiacciato dalla madre che si gira, o una femmina pu&ograve; essere restia ad allattare: sono cose che si sentono prima di vederle, un mugolio diverso, un rumore che non torna. Dopo la prima settimana la situazione si alleggerisce.</p>
 
   <h3>Il giorno in cui possono partire</h3>
 

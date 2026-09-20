@@ -47,9 +47,9 @@ custom_content: |
   <strong>In breve:</strong> L'alimentazione nelle prime settimane in famiglia è cruciale per crescita, salute intestinale e serenità del cucciolo di Staffordshire Bull Terrier. Qui trovi dosi orientative, frequenza dei pasti e come gestire la transizione dal cibo dell'allevatore al tuo.
   </div>
   
-  <h2>Frequenza e orari dei pasti</h2>
-
   <p>Un cucciolo di Staffordshire Bull Terrier mangia <strong>tre volte al giorno fino ai sei mesi</strong> e due da lì in avanti, con orari regolari che aiutano digestione, routine dei bisogni e autocontrollo. Il cambio di alimento rispetto a quello dell'allevamento va fatto gradualmente nell'arco di una settimana, mescolando quantità crescenti del nuovo: un cambio brusco provoca quasi sempre diarrea. La quantità si regola sulla condizione del cane e non solo sulla tabella della confezione: le costole devono essere palpabili senza premere. È la razza sbagliata per gli extra fuori pasto, perché ingrassa con facilità, e il sovrappeso in crescita carica articolazioni ancora in formazione. L'acqua deve essere sempre disponibile e cambiata ogni giorno, anche per i cuccioli che mangiano cibo umido.</p>
+
+  <h2>Frequenza e orari dei pasti</h2>
   <ul>
   <li><strong>2–3 mesi:</strong> 4 pasti al giorno, distanziati di 4 ore circa.</li>
   <li><strong>3–5 mesi:</strong> 3 pasti al giorno.</li>

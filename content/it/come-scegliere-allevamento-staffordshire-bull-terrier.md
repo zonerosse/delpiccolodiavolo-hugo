@@ -42,13 +42,13 @@ categories: ["Cuccioli"]
 
 <p>Quasi tutti gli allevamenti dicono le stesse cose: cani testati, cuccioli cresciuti in casa, selezione attenta. Sono affermazioni gratuite finché nessuno le controlla, e chi cerca il primo cucciolo raramente sa da dove cominciare a controllare.</p>
 
-<p>Questa guida è fatta al contrario delle solite. Per ogni criterio trovi <strong>come si verifica</strong> — cosa chiedere, dove guardare, quale documento pretendere. E per non lasciarti solo con la teoria, sotto ogni criterio mettiamo il nostro documento: puoi usarci come esercizio e poi fare le stesse domande a chiunque altro.</p>
+<p>Questa guida sugli allevamenti di Staffordshire Bull Terrier è fatta al contrario delle solite. Per ogni criterio trovi <strong>come si verifica</strong> — cosa chiedere, dove guardare, quale documento pretendere. E per non lasciarti solo con la teoria, sotto ogni criterio mettiamo il nostro documento: puoi usarci come esercizio e poi fare le stesse domande a chiunque altro.</p>
 
 <h2>1. I test genetici dei riproduttori</h2>
 
 <p>Lo Staffordshire Bull Terrier ha due malattie genetiche note e trasmissibili: <strong>L2HGA</strong>, una malattia neurologica, e <strong>HC</strong>, la cataratta ereditaria che porta alla cecità. Entrambe si trasmettono in modo autosomico recessivo: due genitori portatori sani possono generare cuccioli malati.</p>
 
-<p><strong>Come si verifica.</strong> Non basta sentirsi dire "sono testati". Chiedi il referto in PDF e controlla che contenga tre cose: il nome del laboratorio, il numero di microchip del cane e la data. Un referto senza microchip non è collegabile a nessun animale in particolare. Se ti arriva una foto sgranata o uno screenshot ritagliato, insisti.</p>
+<p><strong>Come si verificano i test genetici.</strong> Non basta sentirsi dire "sono testati". Chiedi il referto in PDF e controlla che contenga tre cose: il nome del laboratorio, il numero di microchip del cane e la data. Un referto senza microchip non è collegabile a nessun animale in particolare. Se ti arriva una foto sgranata o uno screenshot ritagliato, insisti.</p>
 
 <p><strong>Il nostro.</strong> I referti dei riproduttori sono pubblicati sul sito, non inviati su richiesta: <a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" aria-label="Referto dei test genetici di Bilquis, PDF (si apre in una nuova scheda)">Bilquis</a>, <a href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" aria-label="Referto dei test genetici di Nora, PDF (si apre in una nuova scheda)">Nora</a>, <a href="/docs/Minnie-GF.pdf" target="_blank" rel="noopener" aria-label="Referto dei test genetici di Minnie, PDF (si apre in una nuova scheda)">Minnie</a>. Per i cani esterni pubblichiamo il referto quando il proprietario acconsente, come per <a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" aria-label="Referto dei test genetici di Quash, PDF (si apre in una nuova scheda)">Quash</a>, padre di Black Jack; altrimenti ne riportiamo i dati — laboratorio, numero, data, microchip ed esiti.</p>
 
@@ -56,7 +56,7 @@ categories: ["Cuccioli"]
 
 <p>Un cucciolo giovane spesso non è testato individualmente: si dice <em>free by parents</em>, esente per discendenza. È corretto, ma a una condizione: <strong>entrambi</strong> i genitori devono essere esenti per <strong>quella</strong> mutazione. Se un allevatore dichiara un cucciolo esente per quattro patologie ma ha i test di un solo genitore, tre di quelle quattro dichiarazioni non stanno in piedi.</p>
 
-<p><strong>Come si verifica.</strong> Metti in fila i due referti e confronta patologia per patologia. Dove manca un genitore, manca la garanzia.</p>
+<p><strong>Come si verifica l'esenzione per discendenza.</strong> Metti in fila i due referti e confronta patologia per patologia. Dove manca un genitore, manca la garanzia.</p>
 
 <p><strong>Il nostro.</strong> Nella pagina della <a href="/diario-allevamento/cucciolata-bilquis-agosto-2026/" title="Cucciolata Bilquis, agosto 2026">cucciolata di agosto 2026</a> scriviamo esattamente questo: i cuccioli sono esenti per discendenza da L2HGA e cataratta ereditaria, e non lo sono per iperuricosuria e MDR1, perché di quelle due abbiamo il referto del solo padre.</p>
 
@@ -64,7 +64,7 @@ categories: ["Cuccioli"]
 
 <p>Il <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="Scheda di razza dello Staffordshire Bull Terrier, ENCI" target="_blank" rel="noopener" aria-label="Scheda di razza dello Staffordshire Bull Terrier, ENCI (si apre in una nuova scheda)">pedigree ENCI</a> è l'unico documento che certifica che quel cane è uno Staffordshire Bull Terrier, con genitori identificati. Non è un extra e non si paga a parte.</p>
 
-<p><strong>Come si verifica.</strong> Il pedigree si controlla con il numero di libro genealogico. Ma c'è un passaggio in più che quasi nessuno fa: le genealogie della razza sono pubbliche su SBTPedigree, un database internazionale. Cerca i nonni e i bisnonni, guarda se esistono davvero, se hanno titoli, se compaiono in altri allevamenti. Un albero che si interrompe dopo due generazioni dice qualcosa.</p>
+<p><strong>Come si verifica il pedigree.</strong> Il pedigree si controlla con il numero di libro genealogico. Ma c'è un passaggio in più che quasi nessuno fa: le genealogie della razza sono pubbliche su SBTPedigree, un database internazionale. Cerca i nonni e i bisnonni, guarda se esistono davvero, se hanno titoli, se compaiono in altri allevamenti. Un albero che si interrompe dopo due generazioni dice qualcosa.</p>
 
 <p><strong>Il nostro.</strong> I nostri cani sono registrati su <a href="https://sbtpedigree.com/details?id=35858" target="_blank" rel="noopener" aria-label="Del Piccolo Diavolo su SBTPedigree (si apre in una nuova scheda)">SBTPedigree</a> con tutti i soggetti e le cucciolate. Da lì risali a chiunque, noi compresi.</p>
 
@@ -72,7 +72,7 @@ categories: ["Cuccioli"]
 
 <p>Una fattrice non è una linea di produzione. Un allevamento che ha cuccioli disponibili tutto l'anno sta facendo numeri, non selezione. La disponibilità continua è il segnale più chiaro di tutti.</p>
 
-<p><strong>Come si verifica.</strong> Guarda la cronologia delle cucciolate, non solo quella in corso. Se le date sono pubbliche puoi contarle da solo; se non lo sono, chiedi quante ne sono nate negli ultimi tre anni e da quali femmine. Una risposta vaga a una domanda numerica è già una risposta.</p>
+<p><strong>Come si verifica il numero di cucciolate.</strong> Guarda la cronologia delle cucciolate, non solo quella in corso. Se le date sono pubbliche puoi contarle da solo; se non lo sono, chiedi quante ne sono nate negli ultimi tre anni e da quali femmine. Una risposta vaga a una domanda numerica è già una risposta.</p>
 
 <p><strong>Il nostro.</strong> Il <a href="/diario-allevamento/" title="Diario dell'allevamento">diario</a> riporta le date delle ultime cucciolate, e quelle degli anni prima stanno nel <a href="/programma-allevamento/" title="Programma di allevamento">programma di allevamento</a>: nessuna sparisce. Una l'anno, occasionalmente due, a volte nessuna.</p>
 
@@ -80,7 +80,7 @@ categories: ["Cuccioli"]
 
 <p>Vedere la madre insieme ai cuccioli è il controllo più difficile da falsificare. Ti dice come sta, che carattere ha e in che ambiente sono cresciuti i piccoli. È anche il motivo per cui chi ha qualcosa da nascondere propone un incontro a metà strada.</p>
 
-<p><strong>Come si verifica.</strong> Chiedi di vederla in casa, non in foto, e osserva come reagisce all'allevatore. Se la madre "è dal veterinario" o "è a casa di un'amica", la visita perde gran parte del suo senso. Rifiuta la consegna in autogrill e la spedizione: sono modalità da commercio, non da allevamento.</p>
+<p><strong>Come si verifica lo stato della madre.</strong> Chiedi di vederla in casa, non in foto, e osserva come reagisce all'allevatore. Se la madre "è dal veterinario" o "è a casa di un'amica", la visita perde gran parte del suo senso. Rifiuta la consegna in autogrill e la spedizione: sono modalità da commercio, non da allevamento.</p>
 
 <p><strong>Il nostro.</strong> Riceviamo su appuntamento a Ostellato, in provincia di Ferrara. Si vedono le madri, i cuccioli e la casa in cui crescono.</p>
 
@@ -90,7 +90,7 @@ categories: ["Cuccioli"]
 
 <p>Il regolamento ENCI fissa un limite al numero di cucciolate che una femmina pu&ograve; fare, e oltre una certa et&agrave; per farla riprodurre serve un certificato veterinario. Sono paletti sensati. Il problema &egrave; chi li usa al contrario: non come limite da rispettare, ma come traguardo da raggiungere.</p>
 
-<p>C'&egrave; una formula che gira molto, e suona bene: <strong>affido del cuore</strong>. Un cane adulto collocato in una famiglia, gratis o quasi. Detta cos&igrave; sembra un gesto generoso, e a volte lo &egrave; davvero. Ma vale la pena guardare due cose.</p>
+<p>Nel mondo degli allevamenti c'&egrave; una formula che gira molto, e suona bene: <strong>affido del cuore</strong>. Un cane adulto collocato in una famiglia, gratis o quasi. Detta cos&igrave; sembra un gesto generoso, e a volte lo &egrave; davvero. Ma vale la pena guardare due cose.</p>
 
 <p><strong>Chi viene affidato.</strong> Quasi sempre femmine, e non &egrave; un caso. In un allevamento i maschi sono pochi o nessuno: si usano stalloni esterni, sia per non chiudere le linee sull'unico soggetto in casa, sia perch&eacute; un maschio da tenere deve valere davvero. Le femmine sono quelle che producono, e quindi le uniche che a un certo punto smettono.</p>
 
@@ -98,9 +98,9 @@ categories: ["Cuccioli"]
 
 <p><strong>Come si verifica, senza chiedere niente a nessuno.</strong> Il numero di cucciolate di una femmina si consulta sul <a href="https://www.enci.it/libro-genealogico/libro-genealogico-on-line" target="_blank" rel="noopener" title="Libro genealogico ENCI" aria-label="Libro genealogico ENCI (si apre in una nuova scheda)">libro genealogico ENCI</a>: serve il numero di microchip. Non devi fidarti di quello che ti dicono, puoi controllare &mdash; a patto che il microchip sia pubblico.</p>
 
-<p>Ed &egrave; qui che il criterio si chiude da solo: chi non pubblica i microchip delle proprie fattrici rende quel controllo impossibile. Pu&ograve; avere ragioni sue, ma il risultato &egrave; che sul numero di cucciolate hai soltanto la sua parola.</p>
+<p>Ed &egrave; qui che il criterio sulle fattrici si chiude da solo: un allevamento che non pubblica i microchip delle proprie fattrici rende quel controllo impossibile. Pu&ograve; avere ragioni sue, ma il risultato &egrave; che sul numero di cucciolate hai soltanto la sua parola.</p>
 
-<p><strong>E poi chiedi comunque.</strong> Dove sono le femmine che hanno figliato negli anni scorsi, e se puoi vederle. Quante cucciolate fa una loro fattrice e cosa succede quando smette. Chi ha una risposta pronta ce l'ha perch&eacute; se l'&egrave; gi&agrave; posta.</p>
+<p><strong>E poi chiedi comunque all'allevatore.</strong> Dove sono le femmine che hanno figliato negli anni scorsi, e se puoi vederle. Quante cucciolate fa una loro fattrice e cosa succede quando smette. Chi ha una risposta pronta ce l'ha perch&eacute; se l'&egrave; gi&agrave; posta.</p>
 
 <p><strong>Il nostro.</strong> I microchip delle nostre femmine sono in chiaro, proprio perch&eacute; quella verifica si possa fare senza passare da noi. Fanno in media due cucciolate ciascuna.</p>
 
@@ -110,7 +110,7 @@ categories: ["Cuccioli"]
 
 <p>Un cucciolo parte con pedigree ENCI, microchip registrato, libretto sanitario con vaccinazioni e date, e i referti dei genitori. Prima dei 60 giorni non può lasciare la madre: è un obbligo di legge, non una scelta dell'allevatore.</p>
 
-<p><strong>Come si verifica.</strong> Chiedi di vedere gli originali durante la visita, non fotocopie e non promesse. Poi controlla che il numero di microchip sul libretto coincida con quello letto dal veterinario alla prima visita: è un confronto di trenta secondi che quasi nessuno fa.</p>
+<p><strong>Come si verificano i documenti.</strong> Chiedi di vedere gli originali durante la visita, non fotocopie e non promesse. Poi controlla che il numero di microchip sul libretto coincida con quello letto dal veterinario alla prima visita: è un confronto di trenta secondi che quasi nessuno fa.</p>
 
 <h2>8. Le domande a cui deve saper rispondere</h2>
 
@@ -143,13 +143,13 @@ categories: ["Cuccioli"]
 
 <h2>Un'ultima cosa sul denaro</h2>
 
-<p>Una cifra molto bassa non è un affare: è la conseguenza di qualcosa che non è stato fatto. Test non eseguiti, pedigree mancante, cuccioli staccati troppo presto dalla madre, veterinario saltato. Quel risparmio torna indietro, e non solo in denaro. Da cosa è composto davvero il costo di un cucciolo ne parliamo <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">in una pagina dedicata</a>.</p>
+<p>Una cifra molto bassa per un cucciolo con pedigree non è un affare: è la conseguenza di qualcosa che non è stato fatto. Test non eseguiti, pedigree mancante, cuccioli staccati troppo presto dalla madre, veterinario saltato. Quel risparmio torna indietro, e non solo in denaro. Da cosa è composto davvero il costo di un cucciolo ne parliamo <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">in una pagina dedicata</a>.</p>
 
 <p>Detto questo: chiedere quanto costa è una domanda legittima e va fatta presto. Un cane sono dodici o quattordici anni di spese ordinarie, che pesano più della cifra iniziale.</p>
 
 <h2>Usaci come esercizio</h2>
 
-<p>Tutto quello che hai letto qui sopra è verificabile su di noi in mezz'ora, senza chiedere niente a nessuno: i referti stanno <a href="/femmine-staffordshire-bull-terrier/" title="Le nostre femmine Staffordshire Bull Terrier">nelle pagine dei cani</a>, le genealogie su SBTPedigree, le date nel <a href="/diario-allevamento/" title="Diario dell'allevamento">diario</a>. Se trovi un'incongruenza, scrivicelo.</p>
+<p>Tutti e otto i criteri elencati qui sopra sono verificabili su Del Piccolo Diavolo in mezz'ora, senza chiedere niente a nessuno: i referti stanno <a href="/femmine-staffordshire-bull-terrier/" title="Le nostre femmine Staffordshire Bull Terrier">nelle pagine dei cani</a>, le genealogie su SBTPedigree, le date nel <a href="/diario-allevamento/" title="Diario dell'allevamento">diario</a>. Se trovi un'incongruenza, scrivicelo.</p>
 
 <p>Poi prendi la stessa lista e provala con gli altri. È il modo migliore di usare questa pagina.</p>
 

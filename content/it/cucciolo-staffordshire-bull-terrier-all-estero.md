@@ -46,7 +46,7 @@ custom_content: |
 
   <p>Il conto è presto fatto: un cucciolo destinato all'estero parte <strong>intorno ai quattro mesi</strong>, non prima. Sono sei o sette settimane in più rispetto a un affido italiano, che il cucciolo passa qui con noi.</p>
 
-  <p>Non è un ostacolo burocratico da aggirare: è il tempo che serve. Chi propone di far partire un cucciolo di due mesi verso un altro paese o non conosce le regole o le sta violando, e in entrambi i casi vale la pena chiedersi cos'altro non stia facendo.</p>
+  <p>L'attesa per l'antirabbica non è un ostacolo burocratico da aggirare: è il tempo che serve. Chi propone di far partire un cucciolo di due mesi verso un altro paese o non conosce le regole o le sta violando, e in entrambi i casi vale la pena chiedersi cos'altro non stia facendo.</p>
 
   <h2>Cosa lo accompagna</h2>
 
@@ -83,7 +83,7 @@ custom_content: |
 
   <p>Il cucciolo non viaggia da solo. Niente corrieri, niente stive, niente consegne a metà strada in un parcheggio.</p>
 
-  <p>Venite voi a Ostellato: è così che vediamo chi affidiamo, e voi vedete la madre, la casa e il posto dove è cresciuto. Vale ancora di più quando si abita lontano, perché è l'unica occasione che avete di verificare di persona quello che avete letto sullo schermo.</p>
+  <p>Chi prende un cucciolo viene a Ostellato: è così che vediamo chi affidiamo, e voi vedete la madre, la casa e il posto dove è cresciuto. Vale ancora di più quando si abita lontano, perché è l'unica occasione che avete di verificare di persona quello che avete letto sullo schermo.</p>
 
   <h2>Quanto prima muoversi</h2>
 
@@ -93,7 +93,7 @@ custom_content: |
 
   <p>Le regole cambiano. Il quadro europeo è stato aggiornato ad aprile 2026 e i singoli paesi applicano condizioni proprie, soprattutto sui cuccioli giovani.</p>
 
-  <p>Quello che leggete qui è come funziona oggi, ma prima di partire va confermato con il vostro veterinario e con l'autorità sanitaria del vostro paese. Noi facciamo la stessa cosa dalla nostra parte, con la ASL di Ferrara, per ogni singolo cucciolo che esce dall'Italia.</p>
+  <p>Quello che leggete su questa pagina è come funziona oggi, ma prima di partire va confermato con il vostro veterinario e con l'autorità sanitaria del vostro paese. Noi facciamo la stessa cosa dalla nostra parte, con la ASL di Ferrara, per ogni singolo cucciolo che esce dall'Italia.</p>
 
   </div>
   </section>

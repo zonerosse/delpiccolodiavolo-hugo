@@ -45,9 +45,9 @@ custom_content: |
   
   <p><a href="https://wsava.org/global-guidelines/vaccination-guidelines/" title="Linee guida WSAVA sulla vaccinazione di cani e gatti, edizione 2024" target="_blank" rel="noopener" aria-label="Linee guida WSAVA sulla vaccinazione di cani e gatti, edizione 2024 (si apre in una nuova scheda)">Le prime vaccinazioni</a> sono una tappa fondamentale per la salute del cucciolo di <a aria-label="Allevamento Del Piccolo Diavolo" href="/" title="Staffordshire Bull Terrier">Staffordshire Bull Terrier</a>. Un protocollo corretto, concordato con il veterinario, protegge da malattie potenzialmente gravi e si integra con sverminazioni e richiami successivi.</p>
   
-  <h2>Calendario base dei vaccini</h2>
-
   <p>Il ciclo vaccinale di un cucciolo comincia fra le sei e le otto settimane con la prima polivalente, prosegue con richiami ogni tre-quattro settimane e si completa intorno alle sedici settimane; l'antirabbica si somministra non prima delle dodici settimane ed è obbligatoria per portare il cane all'estero, dove diventa valida solo ventun giorni dopo. Il motivo dei richiami ravvicinati è che gli anticorpi materni proteggono il cucciolo nelle prime settimane ma interferiscono con il vaccino, e il momento in cui si esauriscono varia da soggetto a soggetto. Fino al completamento del ciclo si evitano le aree ad alto rischio, <strong>ma non la socializzazione</strong>: si continua in ambienti puliti e con cani sani e vaccinati.</p>
+
+  <h2>Calendario base dei vaccini</h2>
   
   <ul>
   <li><strong>6–8 settimane:</strong> prima polivalente (in base al protocollo del veterinario e allo stato materno).</li>
