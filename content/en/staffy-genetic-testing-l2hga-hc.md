@@ -1,7 +1,7 @@
 ---
 title: "Genetic Testing L2-HGA and HC for Staffordshire Bull Terrier"
 date: 2025-11-20
-lastmod: 2026-09-12
+lastmod: 2026-09-20
 translationKey: "test-genetici"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -102,11 +102,13 @@ custom_content: |
   </thead>
   <tbody>
   <tr><td>CLEAR × CLEAR</td><td>100% clear</td><td>0%</td><td>Yes</td></tr>
-  <tr><td>CLEAR × CARRIER</td><td>50% clear, 50% carrier</td><td>0%</td><td>Yes, all healthy</td></tr>
-  <tr><td>CLEAR × AFFECTED</td><td>100% carrier</td><td>0%</td><td>Healthy, but all carriers</td></tr>
+  <tr><td>CLEAR × CARRIER</td><td>50% clear, 50% carrier</td><td>0%</td><td>⚠️ No affected puppies, but half the litter stays carrier</td></tr>
+  <tr><td>CLEAR × AFFECTED</td><td>100% carrier</td><td>0%</td><td>❌ No — the whole litter is born carrier</td></tr>
   <tr><td>CARRIER × CARRIER</td><td>25% clear, 50% carrier</td><td><strong>25% affected</strong></td><td>No</td></tr>
   </tbody>
   </table>
+
+  <p>The two middle rows deserve a note, because they are the ones people argue about. Technically they produce no affected puppies, which is why some breeders consider them acceptable. But they leave carrier puppies in circulation, in families that may one day breed them with another carrier: the problem is not solved, it is moved one generation down and handed to someone else. <strong>At Del Piccolo Diavolo carriers are not bred</strong>, and the only mating we consider is the first row of the table.</p>
 
   <p>The last row is the whole reason the tests exist: two healthy dogs, mated together, produce one sick puppy in four.</p>
 

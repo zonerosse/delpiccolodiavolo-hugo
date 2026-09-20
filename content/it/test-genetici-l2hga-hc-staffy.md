@@ -48,6 +48,8 @@ custom_content: |
   
   <h2>Perché i Test Genetici Sono Fondamentali</h2>
   
+  <p>Lo Staffordshire Bull Terrier ha tre patologie ereditarie per cui esiste un test: <strong>L2-HGA</strong>, l'aciduria L-2-idrossiglutarica, una malattia neurologica che si manifesta fra i sei mesi e l'anno con tremori, atassia e crisi; <strong>HC</strong>, la cataratta ereditaria giovanile, che può portare a cecità entro i tre anni; e <strong>PHPV</strong>, un'anomalia congenita del vitreo. Le prime due si accertano con un test del DNA su tampone salivare o sangue, la terza con una visita oftalmologica specialistica. Tutte e tre sono a trasmissione autosomica recessiva: servono due copie del gene mutato perché il cane si ammali, quindi due genitori esenti non possono produrre cuccioli malati. È per questo che il test sui riproduttori conta più di qualsiasi garanzia scritta, e che un referto vale solo se riporta il numero di microchip del cane.</p>
+
   <p>Lo <strong>Staffordshire Bull Terrier</strong> è una razza generalmente sana e robusta, con un'aspettativa di vita di 12-14 anni. Tuttavia, come molte razze pure, presenta alcune predisposizioni genetiche che possono essere completamente controllate attraverso test del DNA e accoppiamenti responsabili.</p>
   
   <p>Le due patologie genetiche più importanti nella razza sono <strong>L2-HGA</strong> e <strong>HC</strong>. Entrambe sono state identificate, mappate geneticamente e oggi esistono test DNA affidabili che permettono di conoscere lo status genetico di ogni cane prima della riproduzione.</p>
@@ -190,13 +192,15 @@ custom_content: |
   </thead>
   <tbody>
   <tr><td>CLEAR × CLEAR</td><td>100% CLEAR</td><td>0%</td><td>✅ Sì</td></tr>
-  <tr><td>CLEAR × CARRIER</td><td>50% CLEAR, 50% CARRIER</td><td>0%</td><td>✅ Sì, tutti sani</td></tr>
-  <tr><td>CLEAR × AFFECTED</td><td>100% CARRIER</td><td>0%</td><td>⚠️ Sani, ma tutti portatori</td></tr>
+  <tr><td>CLEAR × CARRIER</td><td>50% CLEAR, 50% CARRIER</td><td>0%</td><td>⚠️ Nessun malato, ma metà dei cuccioli resta portatrice</td></tr>
+  <tr><td>CLEAR × AFFECTED</td><td>100% CARRIER</td><td>0%</td><td>❌ No, l'intera cucciolata nasce portatrice</td></tr>
   <tr><td>CARRIER × CARRIER</td><td>25% CLEAR, 50% CARRIER</td><td><strong>25% AFFECTED</strong></td><td>❌ No</td></tr>
   </tbody>
   </table>
 
   <p>L'ultima riga è la ragione per cui i test servono: due cani sani, accoppiati fra loro, producono un cucciolo malato su quattro.</p>
+
+  <p>Le due righe centrali meritano una precisazione, perché sono quelle su cui si discute. Tecnicamente non producono cuccioli malati, ed è il motivo per cui qualcuno le considera accettabili. Ma lasciano in circolazione cuccioli portatori che finiscono in famiglie, e che un domani potrebbero riprodursi con un altro portatore: il problema non viene risolto, viene spostato di una generazione e affidato a qualcun altro. <strong>Nel nostro allevamento i portatori non entrano in riproduzione</strong>, e l'unico accoppiamento che consideriamo è il primo della tabella.</p>
   
   <h2>Cosa Chiedere all'Allevatore</h2>
   
@@ -208,7 +212,7 @@ custom_content: |
   <li><strong>Certificati originali dei test L2-HGA e HC</strong> per ENTRAMBI i genitori</li>
   <li>I certificati devono essere emessi da laboratori riconosciuti</li>
   <li>Devono riportare il numero di microchip o tatuaggio del cane testato</li>
-  <li>Verifica che i risultati siano compatibili (no CARRIER × CARRIER)</li>
+  <li>Verifica gli esiti: <strong>CLEAR per entrambi i genitori</strong> è l'unica combinazione che non lascia portatori nella cucciolata</li>
   </ol>
   
   <figure class="article-image img-left">
@@ -267,8 +271,8 @@ custom_content: |
   
   <div class="blue-box">
   <p class="blue-box-title">📋 Checklist Controlli Sanitari Allevatore Serio</p>
-  <p>✅ Test DNA L2-HGA (CLEAR o CARRIER accoppiato con CLEAR)<br>
-  ✅ Test DNA HC (CLEAR o CARRIER accoppiato con CLEAR)<br>
+  <p>✅ Test DNA L2-HGA, entrambi i genitori CLEAR<br>
+  ✅ Test DNA HC, entrambi i genitori CLEAR<br>
   ✅ Esame oculistico ECVO (consigliato annuale)<br>
   ⭐ Radiografie displasia (opzionale ma apprezzato)<br>
   ⭐ Ecocardiogramma (opzionale ma apprezzato)<br>
@@ -317,58 +321,42 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Un cane CARRIER può essere usato per la riproduzione?</h3>
-  <div class="faq-answer">
-  <p>Sì, un cane CARRIER (portatore) può essere usato per la riproduzione, ma SOLO se accoppiato con un partner CLEAR. In questo caso, nessun cucciolo sarà AFFECTED (malato): statisticamente il 50% sarà CLEAR e il 50% CARRIER, tutti perfettamente sani. Escludere completamente i CARRIER dalla riproduzione ridurrebbe eccessivamente il pool genetico della razza.</p>
-  </div>
+  <div class="faq-answer"><strong>Da noi no, mai.</strong> Un cane portatore di L2-HGA o di cataratta ereditaria non entra in riproduzione, punto. Tecnicamente un <strong>CARRIER</strong> ha una sola copia del gene mutato, non si ammala, e accoppiato con un soggetto <strong>CLEAR</strong> non pu&ograve; produrre cuccioli malati: met&agrave; della cucciolata nascer&agrave; esente e met&agrave; portatrice, tutti sani. Ma quei cuccioli portatori finiscono in famiglie che un domani potrebbero farli riprodurre, magari con un altro portatore, e a quel punto un cucciolo su quattro nasce malato. Usare un portatore significa spostare il problema di una generazione e affidarlo a qualcun altro. Se esiste un test che permette di chiudere la questione, la scelta di non usarlo ha una sola spiegazione, ed &egrave; che quel cane piace troppo per rinunciarci. Costa qualche soggetto valido: &egrave; il prezzo di non lasciare il problema in giro.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Quanto costano i test L2-HGA e HC?</h3>
-  <div class="faq-answer">
-  <p>Il laboratorio chiede circa 120€ per il pacchetto genetico, ma il costo reale per l’allevatore è più alto: si aggiunge il prelievo veterinario, la spedizione del campione e la visita oculistica. Molti laboratori offrono pacchetti combinati (L2-HGA + HC insieme) a prezzi scontati, intorno ai 400€ per cane, tutto compreso. Considerando che un cucciolo di Staffy ha tutt’altro valore, è un investimento minimo per l'allevatore.</p>
-  </div>
+  <div class="faq-answer">Il laboratorio chiede intorno ai 120 euro per il pacchetto che comprende L2-HGA e cataratta ereditaria, ma il costo reale per l'allevatore &egrave; pi&ugrave; alto: si aggiungono il prelievo dal veterinario, la spedizione del campione e, per la PHPV, una visita oftalmologica specialistica che si fa a parte. Si arriva facilmente a 200-250 euro per cane. La cifra va per&ograve; letta nel modo giusto: &egrave; una spesa <strong>una tantum</strong>, perch&eacute; il DNA non cambia e il referto vale per tutta la vita riproduttiva del soggetto. Spalmata su una carriera di due o tre cucciolate diventa una voce minima nel costo complessivo di un cucciolo. Chi non fa i test non sta risparmiando sulla cucciolata: sta scaricando un rischio sulle famiglie che prenderanno quei cuccioli.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Il test genetico va ripetuto ogni anno?</h3>
-  <div class="faq-answer">
-  <p>No, il test genetico è definitivo e valido per tutta la vita del cane. Il DNA non cambia, quindi un cane testato CLEAR a 1 anno sarà CLEAR per sempre. A differenza dell'esame ECVO (controllo oculistico clinico), che andrebbe ripetuto periodicamente, il test genetico si fa una sola volta.</p>
-  </div>
+  <div class="faq-answer">No, mai. Il test analizza il DNA del cane, che non cambia nel corso della vita: un soggetto risultato CLEAR a sei mesi sar&agrave; CLEAR anche a dieci anni. Il referto &egrave; definitivo e vale per tutta la carriera riproduttiva. Questo vale per le analisi genetiche vere e proprie &mdash; L2-HGA e cataratta ereditaria &mdash; ma non per la <strong>PHPV</strong>, che non &egrave; un test del DNA ma una visita oftalmologica: quella fotografa lo stato dell'occhio in quel momento, e in alcuni paesi viene ripetuta periodicamente per i soggetti in riproduzione. Un'altra cosa da non confondere &egrave; l'esenzione per discendenza: quella non &egrave; un test fatto sul cane, ma una deduzione dai genitori, e ha limiti che vale la pena conoscere.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Posso fare il test al mio cucciolo appena arrivato a casa?</h3>
-  <div class="faq-answer">
-  <p>Sì, il test può essere fatto a qualsiasi età, anche su cuccioli di poche settimane. Tuttavia, se acquisti da un allevatore serio, non dovrebbe essere necessario: l'allevatore avrà già testato i genitori e, se entrambi sono CLEAR, il cucciolo sarà automaticamente CLEAR "by parentage".</p>
-  </div>
+  <div class="faq-answer">S&igrave;, il test si pu&ograve; fare a qualsiasi et&agrave;, anche a poche settimane, perch&eacute; basta un tampone salivare o un prelievo di sangue. Ma se il cucciolo arriva da un allevamento serio non serve: dovresti gi&agrave; avere i referti dei due genitori, e da quelli si deduce la sua condizione. Se entrambi sono esenti, il cucciolo &egrave; esente per discendenza e non pu&ograve; essere malato. Il test diretto ha senso in tre casi: se i referti dei genitori mancano o non riportano il numero di microchip, se il cucciolo dovr&agrave; essere usato in riproduzione &mdash; perch&eacute; l'esenzione per discendenza vale per la salute ma non basta per programmare un accoppiamento &mdash; oppure se compaiono sintomi che il veterinario vuole escludere.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Cosa succede se il mio Staffy risulta AFFECTED?</h3>
-  <div class="faq-answer">
-  <p>Se un cane risulta AFFECTED (due copie del gene mutato), svilupperà la malattia. Per L2-HGA, i sintomi neurologici appariranno tipicamente entro il primo anno di vita. Per HC, la cataratta si svilupperà progressivamente. Consulta immediatamente un veterinario specialista. Un cane AFFECTED non dovrebbe mai essere usato per la riproduzione.</p>
-  </div>
+  <div class="faq-answer">Un cane <strong>AFFECTED</strong> ha due copie del gene mutato e svilupper&agrave; la malattia. Nel caso della L2-HGA i sintomi neurologici compaiono di solito fra i sei mesi e l'anno: tremori, andatura incerta, rigidit&agrave; dopo lo sforzo, a volte crisi epilettiche e cambiamenti di comportamento. Non esiste una cura risolutiva, ma la qualit&agrave; della vita si pu&ograve; gestire con una terapia impostata dal neurologo veterinario, evitando lo stress e gli sforzi intensi. Nel caso della cataratta ereditaria l'opacizzazione del cristallino porta a cecit&agrave; progressiva, e qui la chirurgia &egrave; spesso possibile. In entrambi i casi il cane va escluso dalla riproduzione, e va avvisato l'allevatore: se un cucciolo nasce affected significa che entrambi i genitori erano almeno portatori, ed &egrave; un'informazione che riguarda tutta la cucciolata.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">L2-HGA e HC esistono solo nello Staffy?</h3>
-  <div class="faq-answer">
-  <p>L2-HGA è stata identificata quasi esclusivamente nello Staffordshire Bull Terrier, anche se casi sporadici sono stati segnalati in altre razze. HC (cataratta ereditaria) con la mutazione HSF4 è presente anche in altre razze come Boston Terrier e Australian Shepherd, ma con mutazioni diverse. I test sono razza-specifici.</p>
-  </div>
+  <div class="faq-answer">Non esclusivamente, ma quasi. La <strong>L2-HGA</strong> &egrave; stata identificata e studiata soprattutto nello Staffordshire Bull Terrier, dove la mutazione &egrave; stata isolata e ha permesso di sviluppare il test; casi sporadici sono stati descritti in altre razze, fra cui il West Highland White Terrier. La <strong>cataratta ereditaria giovanile</strong> nella forma legata a questa mutazione riguarda lo Staffy e il Boston Terrier. Il fatto che siano patologie di razza non &egrave; una condanna: &egrave; il motivo per cui esiste un test specifico, cosa che per molte altre malattie ereditarie non c'&egrave;. Una razza con due patologie testabili e un allevamento che le testa &egrave; in una posizione migliore di una razza con dieci problemi noti e nessun esame disponibile.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Dove posso verificare se un allevatore ha fatto i test?</h3>
-  <div class="faq-answer">
-  <p>Chiedi sempre di vedere i certificati originali dei test prima dell'acquisto. Un allevatore serio li mostrerà volentieri. Alcuni registri come il Kennel Club UK pubblicano i risultati dei test online. In Italia, l'ENCI non ha ancora un database pubblico, quindi devi affidarti ai certificati forniti. Verifica che riportino il microchip del cane testato.</p>
-  </div>
+  <div class="faq-answer">Chiedendo i referti, e guardando una cosa sola: <strong>il numero di microchip</strong>. Un certificato di laboratorio che riporta il microchip &egrave; collegabile a quel cane e a nessun altro, e si pu&ograve; confrontare con il documento dell'animale che hai davanti o far confermare dal laboratorio che lo ha emesso. Un referto senza microchip, o una fotocopia con il nome cancellato, non dimostra niente: potrebbe riferirsi a qualunque cane. Diffida della formula &laquo;disponibili su richiesta&raquo;: un allevamento che ha fatto i test non ha motivo di tenerli nascosti. Su questo sito i referti dei riproduttori sono pubblicati e scaricabili, con il microchip in chiaro, proprio perch&eacute; chiunque possa controllarli senza dover chiedere niente a noi.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Perché alcuni allevatori non fanno i test?</h3>
-  <div class="faq-answer">
-  <p>Le ragioni più comuni sono: ignoranza (non conoscono queste patologie), risparmio (non vogliono spendere 100-200€ per cane), o paura di scoprire che i propri cani sono CARRIER o AFFECTED. Nessuna di queste è una scusa valida. Un allevatore che non testa sta giocando d'azzardo con la salute dei cuccioli. Evita questi allevatori.</p>
-  </div>
+  <div class="faq-answer">Le ragioni sono tre, e nessuna regge. La prima &egrave; l'ignoranza: c'&egrave; chi non sa che queste patologie esistono o che esiste un test, e riguarda soprattutto chi fa una cucciolata occasionale senza seguire la razza. La seconda &egrave; il risparmio: 200 euro per cane sembrano molti a chi vede la cucciolata come un'entrata e non come un progetto, anche se spalmati su pi&ugrave; cucciolate diventano irrisori. La terza &egrave; la pi&ugrave; scomoda: <strong>la paura del risultato</strong>. Un cane bellissimo che risulta portatore non si pu&ograve; pi&ugrave; accoppiare con un altro portatore, e chi ha gi&agrave; programmato quell'accoppiamento preferisce non sapere. In tutti e tre i casi il rischio viene scaricato sulle famiglie che prenderanno i cuccioli.</div>
   </div>
   
   </section>

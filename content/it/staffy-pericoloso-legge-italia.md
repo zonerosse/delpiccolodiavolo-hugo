@@ -1,7 +1,7 @@
 ---
 title: "Lo Staffy è Pericoloso? Verità e Legge Italiana"
 date: 2025-11-18
-lastmod: 2026-09-12
+lastmod: 2026-09-20
 translationKey: "pericoloso"
 articolo: true
 image: "/images/blog/staffy-carattere-legge-hero.webp"
@@ -44,6 +44,8 @@ custom_content: |
   <div class="lead">
   <strong>In breve:</strong> No, lo <a aria-label="Allevamento Del Piccolo Diavolo" href="/" title="Allevamento Staffordshire Bull Terrier">Staffordshire Bull Terrier</a> non è una razza pericolosa. Lo dimostra lo studio scientifico del <strong>Royal Veterinary College</strong> (2020) che ha analizzato oltre 22.000 cani: non esiste differenza statisticamente significativa nel rischio di aggressione tra Staffy e altre razze. In Italia, dal 2009, non esiste più una "lista nera" delle razze pericolose.
   </div>
+
+  <p>In Italia lo Staffordshire Bull Terrier non rientra in nessuna lista di razze pericolose: l'elenco delle razze a rischio &egrave; stato abolito nel 2009 con l'ordinanza del Ministero della Salute, che ha spostato la responsabilit&agrave; dalla razza al proprietario. Da allora nessuna razza &egrave; vietata o soggetta a obblighi particolari sul territorio nazionale, e le regole valgono per tutti i cani: guinzaglio nei luoghi pubblici, museruola al bisogno, e responsabilit&agrave; civile e penale del detentore. Restano alcune limitazioni locali, decise da singoli comuni o regolamenti condominiali, e regole diverse in altri paesi europei, che vanno verificate prima di viaggiare. Uno studio del Royal Veterinary College pubblicato nel 2020 su oltre 22.000 cani non ha trovato differenze significative di aggressivit&agrave; attribuibili alla razza.</p>
   
   <h2>Il Pregiudizio sullo Staffordshire Bull Terrier: Da Dove Nasce?</h2>
   
@@ -223,43 +225,35 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Lo Staffordshire Bull Terrier è una razza pericolosa secondo la legge italiana?</h3>
-  <div class="faq-answer">
-  <p>No, in Italia dal 2009 non esiste più una "lista nera" delle razze pericolose. L'Ordinanza Martini del 3 marzo 2009, tuttora in vigore, ha abolito l'elenco introdotto nel 2006, stabilendo che "non è possibile stabilire il rischio di una maggiore aggressività di un cane sulla base dell'appartenenza a una razza".</p>
-  </div>
+  <div class="faq-answer">No. In Italia non esiste pi&ugrave; una lista di razze pericolose dal 2009, quando l'ordinanza del Ministero della Salute ha abolito l'elenco che era stato introdotto negli anni precedenti. Il principio che l'ha sostituita &egrave; che la pericolosit&agrave; non dipende dalla razza ma dal singolo cane e da chi lo detiene: la responsabilit&agrave; civile e penale &egrave; sempre del proprietario, qualunque cane abbia. Le regole valgono quindi per tutti allo stesso modo: guinzaglio non pi&ugrave; lungo di un metro e mezzo nei luoghi pubblici, museruola al seguito da applicare su richiesta dell'autorit&agrave; o in caso di rischio, e obbligo di risarcire i danni. Restano possibili regolamenti locali pi&ugrave; restrittivi, decisi da singoli comuni, e regole condominiali: vanno verificati caso per caso.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Cosa dice lo studio scientifico del Royal Veterinary College?</h3>
-  <div class="faq-answer">
-  <p>Lo studio VetCompass pubblicato nel 2020 ha analizzato 1.304 Staffordshire Bull Terrier confrontandoli con 21.029 cani di altre razze. I risultati hanno dimostrato che non esiste differenza statisticamente significativa nel rischio di aggressione tra Staffy e altri cani (Odds Ratio 1,09; p=0,644).</p>
-  </div>
+  <div class="faq-answer">Lo studio VetCompass del Royal Veterinary College, pubblicato nel 2020, ha analizzato oltre 22.000 cani seguiti dalle cliniche veterinarie britanniche, confrontando pi&ugrave; di 1.300 Staffordshire Bull Terrier con il resto della popolazione canina. Il risultato &egrave; che la razza non mostra una probabilit&agrave; significativamente maggiore di comportamento aggressivo rispetto agli altri cani. &Egrave; una ricerca su dati clinici reali, non un sondaggio di opinione, ed &egrave; il tipo di evidenza che manca quasi sempre nel dibattito sulle razze cosiddette pericolose. Lo stesso studio segnala per&ograve; alcune predisposizioni sanitarie della razza, fra cui problemi dermatologici e otiti: &egrave; un promemoria utile sul fatto che una razza si valuta nel complesso, non su un singolo titolo di giornale.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Cos'è la "save list" della Lombardia?</h3>
-  <div class="faq-answer">
-  <p>La "save list" è un elenco di 26 razze canine introdotto dalla proposta di legge della Regione Lombardia. I proprietari dovranno seguire un percorso formativo obbligatorio con corso teorico (10 ore) e pratico (6 ore), con test finale CAE-1 somministrato dall'ENCI. La proposta deve ancora essere approvata dal Parlamento nazionale.</p>
-  </div>
+  <div class="faq-answer">&Egrave; un elenco di 26 tipologie di cani contenuto in una proposta di legge della Regione Lombardia del gennaio 2025, nella quale compare anche lo Staffordshire Bull Terrier. Il nome &mdash; lista di cani da salvare &mdash; indica l'intenzione dichiarata di destinare risorse alle adozioni di questi soggetti nei canili, ma un elenco di razze scritto in una norma regionale &egrave; sempre un'arma a doppio taglio: crea una categoria giuridica separata, e da l&igrave; a introdurre obblighi specifici il passo &egrave; breve. Al momento si tratta di una proposta, non di una legge in vigore, e non ha effetti pratici sui proprietari. Vale la pena seguirne l'iter, perch&eacute; le regole regionali possono differire da quelle nazionali.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Lo Staffy è adatto alle famiglie con bambini?</h3>
   <div class="faq-answer">
-  <p>Sì, lo Staffordshire Bull Terrier è tradizionalmente considerato un eccellente cane da famiglia. Lo standard del Kennel Club britannico lo descrive come "altamente intelligente e affettuoso, specialmente con i bambini". Tuttavia le interazioni con bambini piccoli devono avvenire sempre sotto supervisione adulta.</p>
+  <p>Prima la cosa che vale per ogni razza: <strong>nessun cane va lasciato solo con un bambino piccolo</strong>, e la supervisione di un adulto non &egrave; un'opzione. Detto questo, lo Staffordshire Bull Terrier &egrave; un cane costruito per stare in famiglia: lo standard di razza lo descrive affidabile con le persone, e il soprannome inglese di nanny dog nasce dalla tolleranza che mostra verso i bambini. Ma il soprannome descrive un carattere, non attribuisce una capacit&agrave; di sorveglianza: nessun cane sorveglia un bambino. Quello che fa la differenza &egrave; la selezione dei riproduttori, le prime otto settimane, e le regole che la famiglia stabilisce in casa &mdash; una zona dove il cane non viene disturbato, interazioni brevi, e un adulto sempre presente.</p>
   </div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Devo stipulare un'assicurazione per il mio Staffy?</h3>
-  <div class="faq-answer">
-  <p>In Italia l'assicurazione RC per cani non è obbligatoria per tutti, ma lo è per i cani iscritti nel "registro dei cani morsicatori". Indipendentemente dagli obblighi, stipulare un'assicurazione RC è fortemente consigliato: i costi sono contenuti (30-100€/anno) e offrono tutela in caso di danni.</p>
-  </div>
+  <div class="faq-answer">In Italia l'assicurazione di responsabilit&agrave; civile per i cani non &egrave; obbligatoria in via generale, ma lo diventa in alcuni casi specifici: per i soggetti iscritti al registro dei cani impegnativi tenuto dalle ASL dopo un episodio di morsicatura, e in base a regolamenti locali o condominiali che possono richiederla. Al di l&agrave; dell'obbligo, per un cane potente come lo Staffordshire Bull Terrier conviene comunque averla: il proprietario risponde sempre dei danni causati dal proprio animale, anche quando non c'&egrave; colpa diretta, e una polizza costa poche decine di euro l'anno. Molte assicurazioni sulla casa la includono gi&agrave;: prima di stipularne una nuova vale la pena controllare la propria.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Lo Staffordshire Bull Terrier è vietato in qualche Paese?</h3>
   <div class="faq-answer">
-  <p>Lo Staffordshire Bull Terrier non è completamente vietato in nessun Paese europeo importante. Nel Regno Unito è una delle razze più popolari senza restrizioni. In Italia non ci sono restrizioni specifiche. Prima di viaggiare con il tuo Staffy, verifica sempre le normative locali.</p>
+  <p>In nessun paese europeo importante lo Staffordshire Bull Terrier &egrave; vietato in quanto tale, ma le regole variano parecchio e vanno verificate prima di viaggiare o trasferirsi. Nel Regno Unito, dove la razza &egrave; nata, &egrave; perfettamente legale e fra le pi&ugrave; diffuse. In alcuni cantoni svizzeri, in Danimarca e in certe regioni di Francia e Germania esistono invece restrizioni che riguardano i cani di tipo bull, con obblighi che vanno dalla museruola al permesso preventivo: in qualche caso lo Staffy vi rientra per somiglianza morfologica pi&ugrave; che per razza. Chi si sposta con il cane dovrebbe controllare la normativa del paese di destinazione e portare con s&eacute; il pedigree, che &egrave; il documento che certifica di quale razza si tratta.</p>
   </div>
   </div>
   </section>

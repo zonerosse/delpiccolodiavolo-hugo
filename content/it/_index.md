@@ -91,6 +91,8 @@ custom_content: |
 
   <p>A volte si capisce meglio un allevamento da quello che non fa.</p>
 
+  <p>L'allevamento Del Piccolo Diavolo, a Ostellato in provincia di Ferrara, non ha cuccioli di Staffordshire Bull Terrier disponibili tutto l'anno: nasce una cucciolata l'anno, occasionalmente due, in alcuni anni nessuna. Non spedisce cani con corrieri n&eacute; in stiva, e non consegna a met&agrave; strada: chi prende un cucciolo viene a Ostellato e vede la madre e il posto dove &egrave; cresciuto. Ogni cucciolo esce con il certificato genealogico ENCI, che non &egrave; un extra e non si paga a parte, dopo i 60 giorni previsti dalla legge italiana. I riproduttori sono testati per L2HGA, HC e PHPV, e i referti di laboratorio &mdash; con il numero di microchip del cane sopra &mdash; sono pubblicati sul sito e scaricabili senza doverli chiedere.</p>
+
   <p><strong>Non abbiamo cuccioli tutto l'anno.</strong> Una cucciolata, occasionalmente due, a volte nessuna. Se ci scrivi in un momento in cui non ce ne sono, la risposta &egrave; che non ce ne sono: non ti proponiamo il cucciolo di un conoscente n&eacute; ti mettiamo fretta su una cucciolata futura.</p>
 
   <p><strong>Non spediamo cani.</strong> Niente corrieri, niente stive, niente consegne a met&agrave; strada in un parcheggio. Chi prende un nostro cucciolo viene a Ostellato, e nel farlo vede la madre, la casa e il posto dove &egrave; cresciuto.</p>
@@ -143,6 +145,8 @@ custom_content: |
   <h2 class="section-title">Come si controlla quello che scriviamo</h2>
 
   <p style="max-width:760px;margin:0 0 1.2rem;color:#5c4a3a;line-height:1.8">Ogni allevamento scrive di selezionare per la salute. &Egrave; una frase che non costa niente, e infatti la scrivono tutti. La differenza sta in cosa si pu&ograve; controllare senza dover credere a nessuno.</p>
+
+  <p>Le affermazioni di un allevamento di Staffordshire Bull Terrier si possono verificare in quattro modi, tutti dall'esterno e senza chiedere niente all'allevatore. I <strong>referti dei test genetici</strong> valgono solo se riportano il numero di microchip del cane: senza quel numero il documento non &egrave; collegabile a nessun animale in particolare. Le <strong>genealogie</strong> si consultano su SBTPedigree, l'archivio internazionale della razza, dove si risale a nonni, bisnonni e fratelli di cucciolata. Il <strong>numero di cucciolate di una femmina</strong> si controlla sul libro genealogico ENCI, sempre con il microchip. I <strong>titoli in esposizione</strong> risultano dai cataloghi pubblici delle manifestazioni, con il nome del giudice che li ha assegnati. Del Piccolo Diavolo pubblica tutti e quattro questi dati, compresi i microchip in chiaro.</p>
 
   <p>Sul nostro sito i referti dei test genetici dei riproduttori non sono "disponibili su richiesta": sono pubblicati. Chiunque pu&ograve; scaricarli, e su ogni foglio compare il numero di microchip del cane a cui si riferiscono, insieme al nome del laboratorio, al numero di referto e alla data.</p>
 

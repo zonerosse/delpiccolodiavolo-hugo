@@ -40,6 +40,8 @@ custom_content: |
 
   <h2>Il cucciolo non parte a due mesi</h2>
 
+  <p>Un cucciolo di Staffordshire Bull Terrier destinato all'estero non parte a due mesi come uno che resta in Italia, e il motivo è sanitario. Per uscire dal paese serve la vaccinazione antirabbica, che non si può somministrare prima delle 12 settimane di vita, e dopo la prima dose vanno attesi altri 21 giorni perché diventi valida ai fini dello spostamento. Il conto è presto fatto: un cucciolo nato oggi può viaggiare non prima dei quattro mesi. A questo si aggiungono il passaporto europeo, il microchip registrato all'anagrafe e il certificato sanitario ufficiale, secondo il Regolamento UE 576/2013. Chi promette una consegna all'estero a due mesi o non conosce le regole o le sta violando, e in entrambi i casi vale la pena chiedersi cos'altro non stia facendo.</p>
+
   <p>In Italia un cucciolo lascia la madre a 60 giorni. Per uscire dal paese, invece, gli serve la vaccinazione antirabbica, che <strong>non si può fare prima delle 12 settimane</strong> di vita. Dopo la prima somministrazione bisogna aspettarne altre tre perché diventi valida ai fini dello spostamento.</p>
 
   <p>Il conto è presto fatto: un cucciolo destinato all'estero parte <strong>intorno ai quattro mesi</strong>, non prima. Sono sei o sette settimane in più rispetto a un affido italiano, che il cucciolo passa qui con noi.</p>

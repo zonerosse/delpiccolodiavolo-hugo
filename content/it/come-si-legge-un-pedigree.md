@@ -2,7 +2,7 @@
 title: "Come si legge un pedigree: ENCI e SBTPedigree"
 titleSeo: "Come si legge un pedigree: cosa dice l'ENCI e cosa no"
 date: 2026-09-09
-lastmod: 2026-09-09
+lastmod: 2026-09-20
 translationKey: "leggere-pedigree"
 articolo: true
 image: "/images/blog/pedigree-queen-hero.webp"
@@ -43,6 +43,8 @@ custom_content: |
   <p>Il certificato genealogico che l'ENCI rilascia &egrave; il documento <strong>ufficiale</strong>. Certifica chi sono i genitori, i nonni e i bisnonni di quel cane, e riporta i <strong>titoli registrati</strong>: Campione Italiano, campionati esteri riconosciuti, e gli eventuali esami ufficiali depositati.</p>
 
   <p>&Egrave; l'unico documento che ha valore legale, ed &egrave; quello senza il quale un cane non &egrave; iscritto al libro genealogico.</p>
+
+  <p>Leggere un pedigree di Staffordshire Bull Terrier significa usare due strumenti diversi. Il <strong>certificato ENCI</strong> &egrave; il documento ufficiale: certifica genitori, nonni e bisnonni, riporta i titoli registrati e gli esami depositati, ma non mostra n&eacute; i test genetici n&eacute; una sola fotografia dei cani. <strong>SBTPedigree</strong>, l'archivio internazionale della razza, aggiunge quello che manca: le foto degli antenati generazione per generazione, i test genetici caricati, i titoli esteri e soprattutto la discendenza, cio&egrave; cosa ha prodotto quel cane. La sua funzione di prova di accoppiamento calcola il coefficiente di consanguineit&agrave; teorico di una cucciolata e mostra su quali antenati si concentra: lo stesso cane pu&ograve; avere un coefficiente del 9 per cento su otto generazioni e del 21 sul pedigree completo.</p>
 
   <p>Sul sito ENCI, oltre alla genealogia, trovi anche i risultati in esposizione e i titoli conquistati. &Egrave; gi&agrave; qualcosa. Ma c'&egrave; un limite che nessuno ti dice, ed &egrave; il pi&ugrave; grosso di tutti:</p>
 

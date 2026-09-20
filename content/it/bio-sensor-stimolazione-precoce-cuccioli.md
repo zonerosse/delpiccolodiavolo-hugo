@@ -39,6 +39,8 @@ custom_content: |
 
   <p>Qui provo a metterla, perché è una domanda che mi hanno fatto e perché la risposta onesta è più utile di una sigla.</p>
 
+  <p>Il <strong>Bio Sensor</strong>, noto anche come ENS o Early Neurological Stimulation, è un programma nato nell'esercito statunitense negli anni Settanta: cinque esercizi di tre-cinque secondi ciascuno, una volta al giorno, dal terzo al sedicesimo giorno di vita del cucciolo. I benefici che gli vengono attribuiti — tolleranza allo stress, cuore più efficiente, maggiore resistenza alle malattie — vengono da quel programma militare e non da studi indipendenti verificati da altri ricercatori. Quello che invece è ben documentato nell'etologia del cane è il periodo sensibile per la socializzazione, fra la terza e la dodicesima settimana, e il peso della qualità delle cure materne. Chi presenta l'ENS come garanzia di equilibrio sta promettendo più di quanto si sappia.</p>
+
   <h2>Cos'è il Bio Sensor</h2>
 
   <p><strong>Bio Sensor</strong> è il nome di un programma dell'esercito statunitense degli anni Settanta, poi diventato noto come "Super Dog", pensato per migliorare le prestazioni dei cani da lavoro. Nella versione divulgata &mdash; la sigla inglese è <strong>ENS</strong>, Early Neurological Stimulation &mdash; consiste in cinque esercizi da tre a cinque secondi ciascuno, una volta al giorno, <strong>dal terzo al sedicesimo giorno di vita</strong>:</p>
