@@ -130,7 +130,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Does the Staffy need a lot of exercise?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">It's an energetic dog that needs regular but not excessive exercise: 2 daily walks (30-40 minutes), interactive games, mental activity. It's perfect for those who want an active but manageable dog, also suitable for apartment living.</div>
+  <div class="faq-answer">It needs regular exercise, not extreme exercise. Two walks a day of thirty to forty minutes cover an adult's needs, provided at least one allows sniffing and free movement rather than a march on a tight lead. The Staffordshire Bull Terrier is explosive rather than built for endurance: it performs on short intense efforts, not hours of running. The part most people underestimate is mental work: <strong>half an hour of scent games tires a dog as much as an hour of running</strong>, without loading the joints. For puppies the usual rule is five minutes per month of age per walk, because growth plates close between twelve and eighteen months.</div>
   </div>
   
   <div class="faq-item active">
@@ -138,7 +138,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Does the Staffy shed a lot?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">No, it sheds very little. It has a short, smooth coat that's easy to manage. Shedding occurs mainly during seasonal molts but is very limited. Weekly brushing and baths every 2-3 months are enough.</div>
+  <div class="faq-answer">It sheds little, but it does shed. The coat is short, smooth and has no undercoat, so there are none of the heavy moults of double-coated breeds and no professional grooming is needed at all. The hairs that come out are short and stiff and tend to work their way into fabric: one weekly brush with a rubber mitt collects them before they reach the sofa. Baths are rarely needed, every two or three months or when the dog is genuinely dirty, because washing too often dries the skin. The flip side of the short coat is temperature sensitivity: a coat for long winter walks, shade and water in summer.</div>
   </div>
   
   <div class="faq-item active">
@@ -146,7 +146,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is it difficult to train a Staffy?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">No, it's intelligent and eager to please. It responds very well to positive reinforcement: treats, food, play. It can be a bit stubborn, so gentle firmness is needed. Basic commands are learned quickly. Avoid coercive methods.</div>
+  <div class="faq-answer">It is an intelligent dog, strongly oriented towards people, which makes training easier than in many breeds &mdash; but it also carries a typically terrier streak of stubbornness. It responds very well to positive reinforcement and very badly to coercive methods, which at best shut it down and at worst create problems that were not there before. Basic commands come quickly. The two things worth working on from day one are the recall, because a terrier that sets off after something stops hearing you, and impulse control, because this is a dog that gets excited easily. <strong>Consistency beats duration</strong>: five minutes every day beat an hour on Sunday.</div>
   </div>
   
   <div class="faq-item active">
@@ -154,7 +154,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Can the Staffy live in an apartment?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Absolutely yes, it adapts perfectly. What matters is not the square meters but the quality of time together and regular outings. It's quiet, doesn't bark much, and is naturally clean. It prefers to live indoors with the family.</div>
+  <div class="faq-answer">Yes, and often it does better there than in a garden. The Staffordshire Bull Terrier is deeply attached to its family: left outside on its own it gets bored and low, while in a flat it is where the people are, which is all it really wants. What matters is not square metres but walks: <strong>two a day</strong>, with a chance to sniff and stretch. It also helps that this breed barks little, which in a block of flats removes the most common source of complaints. A garden is convenient for quick toilet breaks but does not replace the walk, and a dog that only goes out into the garden loses its habituation to people and noise.</div>
   </div>
   
   <div class="faq-item active">
@@ -162,7 +162,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What is the typical Staffy character?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Extraordinary character: affectionate, loyal, courageous, patient and playful. Extremely people-oriented, loves being with family. Patient and gentle with children. Has a funny, clownish side. Intelligent and sensitive.</div>
+  <div class="faq-answer">The breed standard describes a dog that is bold, tenacious and reliable with people, and what strikes owners most is the attachment: this is a dog that wants to be wherever you are. It stays playful into adulthood, is often comical, and with children it is tolerant &mdash; always with an adult supervising, as with any breed. The other side of that attachment is that it copes with loneliness less well than many dogs. Towards other dogs it must be said plainly that it is a terrier: <strong>reactivity can appear, most often between dogs of the same sex in adulthood</strong>, and early socialisation reduces it but does not erase it.</div>
   </div>
   
   <div class="faq-item active">
@@ -170,7 +170,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Does the Staffy bark a lot?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">No, it's generally quiet. It only barks when there's a reason: someone at the door, a strange noise. This makes it perfect for apartments. It communicates more with body language than voice.</div>
+  <div class="faq-answer">No, it is one of the quieter breeds in its group, which matters a great deal in a block of flats. It is not a watchdog and does not bark out of habit: it signals something new at the door and then stops. When a Staffy does bark a lot, the problem is usually not the breed but the situation &mdash; boredom, too little exercise, or long periods alone. In that last case barking can be a symptom of <strong>separation anxiety</strong>, which is a recognised disorder and not misbehaviour, and is treated with a gradual programme and professional help. Telling off a dog that barks from anxiety makes the anxiety worse.</div>
   </div>
   
   <div class="faq-item active">
@@ -178,7 +178,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Can I leave the Staffy home alone?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Yes, if gradually accustomed, but not for too long. It can stay alone 4-6 hours maximum. It's very attached to family and suffers from prolonged isolation. If you work all day, consider a dog sitter.</div>
+  <div class="faq-answer">Yes, but it has to be taught gradually and not for long stretches. This breed is very attached to people, so it tolerates solitude worse than many dogs: four or five hours is a reasonable limit for a settled adult, while a puppy will not manage more than a couple. The habit is built from the first day with very short absences, extended little by little, and with no drama either on leaving or on returning. The warning sign is not mess but panic: continuous vocalising, drooling, attempts to get through the door. That is <strong>separation anxiety</strong>, and it is worth involving a professional rather than waiting for it to pass.</div>
   </div>
   
   <div class="faq-item active">
@@ -186,7 +186,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Does the Staffy suffer from heat or cold?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">It has short coat without undercoat, so it's sensitive to both. Winter: coat under 5°C. Summer: shade, fresh water, walks during cool hours. Never leave in a car in the sun. Must always sleep indoors.</div>
+  <div class="faq-answer">Yes, to both, and for the same reason: the coat is short with no undercoat, so it does not insulate. In winter, below about five degrees, a coat is worth having for long walks, especially for puppies and older dogs. Summer is the more serious issue, because the shortened muzzle makes panting &mdash; the dog's only real cooling system &mdash; less efficient than in a long-muzzled breed. Above 25 degrees walk in the cool hours, reduce intensity and carry water. <strong>Never leave the dog in a car</strong>, not even briefly and not even with windows ajar: heatstroke is a veterinary emergency.</div>
   </div>
   
   <div class="faq-item active">
@@ -194,7 +194,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How much does it cost to maintain a Staffy per year?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Around €300-500 a year for ordinary costs: quality food, routine veterinary care, parasite prevention and accessories. The short coat needs no expensive grooming. Insurance sits outside that figure, since it varies considerably by company and country, as do unexpected costs, which nobody can predict but which arrive sooner or later. Over 12-14 years of life, that means several thousand euros in total.</div>
+  <div class="faq-answer">Around 300 to 500 euros a year for routine costs: good-quality food, annual veterinary check-ups and boosters, monthly parasite treatment and equipment. Grooming is not needed at all, since the short coat requires nothing beyond a weekly brush &mdash; in other breeds that is a substantial line. Two things sit outside that figure. Third-party liability insurance, a few tens of euros, which is worth having in any case. And <strong>unexpected costs</strong>: an investigation, an operation, a long course of treatment. Nobody can predict them, but over twelve to fourteen years they arrive, and it is honest to budget for them before taking a puppy rather than after.</div>
   </div>
   
   </div>

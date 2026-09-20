@@ -42,7 +42,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Ist der Staffordshire Bull Terrier gefährlich oder aggressiv?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Nein, ein gut selektierter und sozialisierter Staffordshire Bull Terrier ist nicht gefährlich. Seit 2013 züchte ich diese Rasse und kann garantieren, dass mit seriöser Charakterselektion, früher Sozialisierung und verantwortungsvollen Besitzern der Staffy ein liebevoller und stabiler Hund ist. Aggressivität hängt von Genetik, Erziehung und Umgebung ab, nicht von der Rasse.</div>
+  <div class="faq-answer">Der Staffordshire Bull Terrier steht in Italien auf keiner Liste gefährlicher Rassen: das Verzeichnis der Risikorassen wurde 2009 durch eine Verordnung des Gesundheitsministeriums abgeschafft, die die Verantwortung von der Rasse auf den Halter verlagert hat. Eine 2020 veröffentlichte Studie des Royal Veterinary College mit über 22.000 Hunden fand keinen signifikanten Unterschied in der Aggressivität, der auf die Rasse zurückzuführen wäre. Gegenüber Menschen beschreibt der Standard einen zuverlässigen Hund, und dabei entscheidet die Selektion des Wesens fast alles. Wirklich wissenswert ist etwas anderes: als Terrier kann er <strong>Reaktivität gegenüber anderen Hunden</strong> zeigen, meist zwischen Hunden desselben Geschlechts im Erwachsenenalter.</div>
   </div>
   
   <div class="faq-item active">
@@ -58,7 +58,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie viel kostet ein Welpe mit <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="ENCI-Rasseseite" target="_blank" rel="noopener" aria-label="ENCI-Rasseseite (wird in einem neuen Tab geöffnet)">ENCI</a>-Stammbaum?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Ein Welpe von einer seriösen Zucht mit ENCI-Stammbaum, vollständigen Gentests und Gesundheitsgarantien hat einen Preis, der Jahre der Selektion widerspiegelt: Kosten für Gentests (L2HGA, HC), Impfungen, Mikrochip und hochwertige Ernährung. Seien Sie vorsichtig bei Preisen unter 1.000€.</div>
+  <div class="faq-answer">Es gibt keine Preisliste: was man zahlt, spiegelt Kosten wider, die bereits vor der Geburt der Welpen entstehen. Die Gentests beider Elterntiere auf L2HGA, HC und PHPV werden einmal pro Hund bezahlt und gelten für die gesamte Zuchtlaufbahn. Die Eintragung des Wurfs ins ENCI-Zuchtbuch hat veröffentlichte, für alle gleiche Gebühren. Dazu kommen tierärztliche Untersuchungen während der Trächtigkeit, der Ultraschall um den 25. Tag, das Röntgenbild vor der Geburt, die ersten Impfungen, Entwurmungen und der Mikrochip. <strong>Ein sehr niedriger Preis bedeutet fast immer, dass etwas fehlt</strong>: die Tests, die Ahnentafel, oder Welpen, die vor den gesetzlich vorgeschriebenen 60 Tagen von der Mutter getrennt wurden.</div>
   </div>
   
   <div class="faq-item active">
@@ -66,7 +66,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Welche Gentests führen Sie bei den Zuchttieren durch?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Alle unsere Zuchttiere werden getestet auf: L2HGA (L-2-Hydroxyglutarazidurie), HC (Hereditäre Katarakt) und PHPV (Augenanomalie). Die Tests sind grundlegend für die Produktion gesunder Welpen. Jeder Welpe wird mit Zertifikaten der Elterntests übergeben.</div>
+  <div class="faq-answer">Alle Zuchttiere von Del Piccolo Diavolo werden auf <strong>L2-HGA</strong>, die L-2-Hydroxyglutarazidurie, eine neurologische Erkrankung, auf <strong>HC</strong>, den juvenilen erblichen Katarakt, und auf <strong>PHPV</strong>, eine angeborene Augenanomalie, getestet. Die ersten beiden werden per DNA-Test festgestellt, die dritte durch eine augenärztliche Spezialuntersuchung. Alle drei werden rezessiv vererbt: zwei freie Elterntiere können keine erkrankten Welpen hervorbringen. Träger werden hier nicht zur Zucht eingesetzt. Die Laborbefunde sind auf dieser Website veröffentlicht und herunterladbar, mit der <strong>Mikrochipnummer des Hundes im Klartext</strong> &mdash; erst diese Nummer macht einen Befund überprüfbar.</div>
   </div>
   
   <div class="faq-item active">
@@ -90,7 +90,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Unterschied zwischen Staffy und Amstaff?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Es sind zwei verschiedene FCI-anerkannte Rassen. Der Staffordshire Bull Terrier (englischer Staffy) ist kleiner: Rüden 35-40 cm bei 12-17 kg. Der American Staffordshire Terrier (Amstaff) ist größer: Rüden 43-48 cm bei 25-30 kg. Der Staffy behält den "Nanny Dog"-Charakter, perfekt für Familien.</div>
+  <div class="faq-answer">Es sind zwei eigenständige, von der FCI anerkannte Rassen mit getrennten Standards und Zuchtbüchern. Der <strong>Staffordshire Bull Terrier</strong> ist der kleinere: 35-40 cm Schulterhöhe und 12-17 kg beim Rüden, mit kurzem breitem Kopf und kompaktem Bau. Der <strong>American Staffordshire Terrier</strong> ist größer und schlanker: 46-48 cm und 25-30 kg, mit längerem Fang. Der Unterschied ist nicht nur die Größe: es handelt sich um zwei seit über einem Jahrhundert getrennte Selektionen, eine englische und eine amerikanische, deren Linien sich nicht kreuzen. Der <strong>Pitbull</strong> ist in Italien keine anerkannte Rasse und erhält keine ENCI-Ahnentafel.</div>
   </div>
   
   <div class="faq-item active">
@@ -98,7 +98,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie lange lebt ein Staffordshire Bull Terrier?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Ein gut selektierter Staffordshire Bull Terrier lebt durchschnittlich 12-14 Jahre. Es ist eine robuste und langlebige Rasse. Die wichtigsten Erbkrankheiten (L2HGA, HC) sind durch Gentests bei den Zuchttieren vermeidbar. Unsere Hunde erreichen oft über 13 Jahre.</div>
+  <div class="faq-answer">Zwölf bis vierzehn Jahre, was für einen mittelgroßen Hund eine gute Lebenserwartung ist und zu den besten in der Gruppe der Molosser zählt. Die Rasse ist robust, ohne die Atemprobleme extrem brachyzephaler Rassen und ohne die Gelenkerkrankungen großer Rassen. Die drei bekannten Erbkrankheiten &mdash; L2-HGA, erblicher Katarakt und PHPV &mdash; werden alle rezessiv vererbt und durch Tests der Elterntiere vermieden. Nach der Genetik beeinflusst nichts die Lebensdauer so stark wie das <strong>Gewicht</strong>: ein übergewichtiger Staffy altert früher, mit stärker belasteten Gelenken und geringerer Hitzetoleranz. Zwölf Jahre sind auch der Zeitraum, für den man sich mit einem Welpen bindet.</div>
   </div>
   
   <div class="faq-item active">
@@ -106,7 +106,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie viel Bewegung braucht ein Staffy?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Der Staffy ist ein aktiver Hund, der täglich Bewegung braucht: 2-3 Spaziergänge und Spielzeit. Er passt sich aber gut dem Leben der Familie an und ist kein hyperaktiver Hund. Er kann auch in einer Wohnung leben, wenn ihm ausreichend Auslauf garantiert wird.</div>
+  <div class="faq-answer">Regelmäßige Bewegung, keine extreme. Zwei Spaziergänge täglich von dreißig bis vierzig Minuten decken den Bedarf eines erwachsenen Hundes, sofern mindestens einer davon Schnüffeln und freie Bewegung erlaubt. Der Staffordshire Bull Terrier ist ein explosiver Hund, kein Ausdauerläufer: er leistet auf kurzen, intensiven Einheiten. Unterschätzt wird meist die geistige Arbeit: <strong>eine halbe Stunde Nasenarbeit ermüdet so sehr wie eine Stunde Laufen</strong>, ohne die Gelenke zu belasten. Beim Welpen gilt die Regel von fünf Minuten pro Lebensmonat je Spaziergang, weil sich die Wachstumsfugen erst zwischen dem zwölften und achtzehnten Monat schließen.</div>
   </div>
   
   <div class="faq-item active">
@@ -114,7 +114,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Ist der Staffy leicht zu erziehen?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Ja, der Staffy ist intelligent und lernwillig. Er reagiert sehr gut auf positive Verstärkung und ist sehr kooperativ. Konsequenz und Geduld sind wichtig. Ich empfehle einen Erziehungskurs ab den ersten Monaten, um eine solide Mensch-Hund-Beziehung aufzubauen.</div>
+  <div class="faq-answer">Er ist intelligent und stark auf Menschen bezogen, was die Erziehung einfacher macht als bei vielen Rassen &mdash; er bringt aber auch die typische Sturheit eines Terriers mit. Auf positive Verstärkung reagiert er hervorragend, auf Zwangsmethoden sehr schlecht: diese blockieren ihn bestenfalls und schaffen schlimmstenfalls Probleme, die vorher nicht da waren. Die Grundkommandos sitzen schnell. Woran sich von Anfang an zu arbeiten lohnt, sind der Rückruf &mdash; ein Terrier, der einem Reiz hinterherläuft, hört nichts mehr &mdash; und die Impulskontrolle. <strong>Beständigkeit schlägt Dauer</strong>: fünf Minuten täglich bringen mehr als eine Stunde am Sonntag.</div>
   </div>
   
   </div>

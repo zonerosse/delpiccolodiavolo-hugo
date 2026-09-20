@@ -147,32 +147,32 @@ custom_content: |
 
   <div class="faq-item">
   <h3>Can a carrier be used for breeding?</h3>
-  <div class="faq-answer">Yes, provided it is only ever mated to a clear partner. A carrier of excellent type and temperament is a legitimate breeding dog, and excluding every carrier from the gene pool would narrow the breed further. What must never happen is carrier to carrier.</div>
+  <div class="faq-answer"><strong>Not here, ever.</strong> A dog carrying L2-HGA or hereditary cataract is not bred at Del Piccolo Diavolo, full stop. Technically a <strong>carrier</strong> has a single copy of the mutated gene, will never fall ill, and mated to a <strong>clear</strong> dog cannot produce affected puppies: half the litter is born clear and half carrier, all healthy. But those carrier puppies go to families who may one day breed them, possibly with another carrier, and at that point one puppy in four is born affected. Using a carrier means moving the problem one generation down and handing it to somebody else. When a test exists that settles the question, choosing not to use it has one explanation: that particular dog is too good to give up.</div>
   </div>
 
   <div class="faq-item">
   <h3>How much do the L2-HGA and HC tests cost?</h3>
-  <div class="faq-answer">The laboratory panel covering both is around €120 per dog. Adding the vet's sampling, shipping and the PHPV eye examination, the real figure is roughly €400 per dog — about €800 for a breeding pair, paid once in the dog's lifetime.</div>
+  <div class="faq-answer">The laboratory charges around 120 euros for the package covering L2-HGA and hereditary cataract, but the real cost to a breeder is higher: add the vet's sampling, shipping, and for PHPV a separate specialist eye examination. Two hundred to two hundred and fifty euros per dog is realistic. That figure should be read correctly, though: it is a <strong>one-off</strong>, because DNA does not change and the report stands for the dog's entire breeding career. Spread across two or three litters it becomes a minor line in the cost of a puppy. A breeder who skips the tests is not saving on the litter: they are shifting a risk onto the families who take those puppies.</div>
   </div>
 
   <div class="faq-item">
   <h3>Does the test need repeating every year?</h3>
-  <div class="faq-answer">No. DNA does not change: one test is valid for life. Annual repetition applies to the ophthalmological examination, which looks for conditions the DNA tests do not cover.</div>
+  <div class="faq-answer">No, never. The test reads the dog's DNA, which does not change over its lifetime: a dog that came back clear at six months is still clear at ten years. The report is definitive and covers the whole breeding career. This applies to the genetic tests proper &mdash; L2-HGA and hereditary cataract &mdash; but not to <strong>PHPV</strong>, which is not a DNA test but an eye examination: that records the state of the eye at that moment, and in some countries it is repeated periodically for breeding stock. One thing not to confuse with either is clearance by parentage, which is not a test performed on the dog but an inference from its parents.</div>
   </div>
 
   <div class="faq-item">
   <h3>Can I test a puppy I have just brought home?</h3>
-  <div class="faq-answer">Yes, at any age — a cheek swab is enough and your vet can take it. If both parents were tested clear the result is a formality, but if you were only told the parents are "healthy" without certificates, testing is the way to find out where you stand.</div>
+  <div class="faq-answer">Yes, the test can be done at any age, even at a few weeks, since a saliva swab or blood sample is enough. But if the puppy comes from a serious breeder it is not needed: you should already have both parents' reports, and from those the puppy's status follows. If both parents are clear, the puppy is clear by parentage and cannot be affected. Direct testing makes sense in three cases: if the parents' reports are missing or carry no microchip number, if the puppy will one day be bred &mdash; because clearance by parentage covers health but is not enough for planning a mating &mdash; or if symptoms appear that the vet wants to rule out.</div>
   </div>
 
   <div class="faq-item">
   <h3>What if my Staffy comes back affected?</h3>
-  <div class="faq-answer">The dog must never be bred from. For L2-HGA, speak to a neurologist about managing the seizures; for hereditary cataract, an ophthalmologist can assess whether surgery is appropriate. An affected dog can still be a much-loved companion, but the pedigree of both parents needs a serious conversation with whoever bred it.</div>
+  <div class="faq-answer">An <strong>affected</strong> dog has two copies of the mutated gene and will develop the disease. With L2-HGA the neurological signs usually appear between six months and a year: tremors, unsteady gait, stiffness after exercise, sometimes seizures and behavioural changes. There is no definitive cure, but quality of life can be managed with treatment set by a veterinary neurologist, avoiding stress and intense effort. With hereditary cataract the clouding of the lens leads to progressive blindness, and there surgery is often possible. In both cases the dog must be excluded from breeding, and the breeder should be told: an affected puppy means both parents were at least carriers, which concerns the whole litter.</div>
   </div>
 
   <div class="faq-item">
   <h3>How can I check that a breeder has actually tested?</h3>
-  <div class="faq-answer">Ask for the certificates as documents and compare the microchip number on them with the one your vet reads from the dog. That single comparison, which takes thirty seconds, settles the question — which is why we publish the certificates of our breeding dogs on this site rather than sending them on request.</div>
+  <div class="faq-answer">By asking for the reports, and looking at one thing: <strong>the microchip number</strong>. A laboratory certificate carrying the microchip can be linked to that dog and no other, and can be checked against the animal's own documents or confirmed with the laboratory that issued it. A report without a microchip, or a photocopy with the name blanked out, proves nothing: it could refer to any dog. Be wary of the phrase "available on request": a kennel that has done the tests has no reason to keep them hidden. On this site the breeding dogs' reports are published and downloadable, microchip numbers in plain sight.</div>
   </div>
 
   <div class="article-footer">

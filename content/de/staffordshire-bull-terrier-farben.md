@@ -1,6 +1,6 @@
 ---
 title: "Farben des Staffordshire Bull Terrier: Schwarz, Gestromt, Blau und mehr"
-lastmod: 2026-09-12
+lastmod: 2026-09-20
 titleSeo: "Farben des Staffordshire Bull Terrier: Schwarz, Gestromt"
 translationKey: "colori"
 articolo: true
@@ -96,37 +96,27 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Welches ist die seltenste Farbe des Staffordshire Bull Terrier?</h3>
-  <div class="faq-answer">
-  <p>Unter den erlaubten Farben ist Blau die seltenste, da sie aus einem verdünnten Gen stammt. Vorsicht jedoch: "Seltenheit" wird oft als Verkaufsargument genutzt, um den Preis zu erhöhen, wobei ignoriert wird, dass Blau mögliche Gesundheitsrisiken birgt (Verdünnungsalopezie). Eine seltene Farbe ist an sich kein Wert: Was zählt, sind Gesundheit, Rassetyp und die Korrektheit der Zucht.</p>
-  </div>
+  <div class="faq-answer">Unter den vom Standard zugelassenen Farben sind <strong>blau gestromt</strong> und ein klar abgesetztes <strong>Falbfarben mit schwarzer Maske</strong> am schwersten zu finden. Seltenheit sollte man allerdings richtig einordnen: sie ist eine Frage der Genhäufigkeit in den Linien, kein Wertmaßstab. Eine seltene Farbe macht einen Hund nicht gesünder, besser oder rassetypischer, und wenn eine Zucht ihre Darstellung auf die Farbe statt auf Wesen, Gesundheit und Bau aufbaut, stimmt etwas nicht. Manche als exotisch vermarkteten Farben sind gerade deshalb ausgeschlossen, weil sie auf Einkreuzungen hindeuten: <em>Merle</em> etwa existiert in der Rasse nicht.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Ist Black and Tan erlaubt?</h3>
-  <div class="faq-answer">
-  <p>Nein. Der FCI-Standard schließt Black and Tan und die Leberfarbe ausdrücklich aus. Ein Hund mit diesem Fell entspricht nicht dem Rassestandard, auch wenn er ein ausgezeichneter Begleiter sein kann. Das Vorhandensein dieser Farben kann auf Einkreuzungen oder nicht reine Linien hindeuten.</p>
-  </div>
+  <div class="faq-answer">Nein. Der Rassestandard schließt Black and Tan sowie Leberfarben ausdrücklich aus, und der Grund ist nicht ästhetisch: diese Farben sind historisch mit Einkreuzungen anderer Rassen verbunden, ihr Auftreten stellt also die Reinheit der Linie infrage. Ein solcher Welpe kann dennoch aus zwei Elterntieren mit Ahnentafel fallen, weil das Gen über Generationen verborgen bleiben kann &mdash; er ist dann nicht weniger gesund und nicht weniger liebenswert: er <strong>darf nur nicht zur Zucht eingesetzt und nicht ausgestellt werden</strong>. Eine seriöse Zucht sagt das offen, statt ihn als seltene Farbe teurer zu verkaufen.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Ist ein blauer Hund weniger gesund als die anderen?</h3>
-  <div class="faq-answer">
-  <p>Nicht zwangsläufig, aber das Verdünnungsgen, das Blau erzeugt, ist bei einem Teil der Hunde mit der Farbverdünnungsalopezie (CDA) verbunden, einer Hauterkrankung. Deshalb vermeiden verantwortungsvolle Züchter Verpaarungen zwischen zwei verdünnten Hunden und behandeln Blau mit Vorsicht, wobei sie Gesundheit vor Ästhetik stellen.</p>
-  </div>
+  <div class="faq-answer">Blau ist vom Standard zugelassen und damit kein Fehler an sich. Beachtenswert ist jedoch, dass das Verdünnungsgen rassenübergreifend mit einer höheren Häufigkeit der <strong>Farbmutantenalopezie</strong> einhergeht &mdash; dünner werdendem Fell und wiederkehrenden Hautentzündungen, meist zwischen dem sechsten Monat und dem dritten Lebensjahr. Nicht jeder blaue Hund entwickelt sie, aber das Risiko ist höher als bei unverdünnten Farben. Zum Problem wird es, wenn <em>auf</em> die Farbe selektiert wird: zwei blaue Hunde nur für blaue Welpen zu verpaaren konzentriert die Verdünnung und damit das Risiko.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Ändert sich die Fellfarbe mit dem Wachstum?</h3>
-  <div class="faq-answer">
-  <p>Die Grundfarbe bleibt gleich, aber die Töne können sich mit dem Wachstum besser definieren. Gestromte Welpen zeigen zum Beispiel mit zunehmendem Alter schärfere Streifen, und schwarze Hunde können in der Sonne leicht aufhellen. Die Struktur der Farbe ist jedoch bei der Geburt genetisch festgelegt.</p>
-  </div>
+  <div class="faq-answer">Ja, oft erheblich. Am deutlichsten bei gestromten Hunden: viele Welpen wirken zunächst fast schwarz und entwickeln die Stromung erst nach einigen Wochen, wenn das Fell länger und heller wird. Falbfarben dunkelt oder hellt bis etwa zum ersten Lebensjahr nach, und die schwarze Maske kann sich mit dem Alter zurückbilden. Auch weiße Abzeichen verändern leicht ihre Form, weil die Haut sich dehnt. Praktisch heißt das: <strong>einen Welpen mit drei Wochen nach der Farbe auszusuchen ergibt keinen Sinn</strong>. Wesen und Bau sind weit verlässlichere Kriterien für die Zuordnung zu einer Familie.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Beeinflusst die Farbe den Preis des Welpen?</h3>
-  <div class="faq-answer">
-  <p>In einer seriösen Zucht nicht: Der Preis spiegelt die Selektion, die Gesundheit, die Gentests und den Stammbaum wider, nicht die "Mode" einer Farbe. Wenn ein Verkäufer für eine "seltene" Farbe (typischerweise Blau) viel mehr verlangt, ist das ein Warnsignal. Erfahren Sie, <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/">worauf Sie vor dem Kauf eines Welpen achten sollten</a>.</p>
-  </div>
+  <div class="faq-answer">Sollte sie nicht &mdash; und wenn doch, sagt das etwas über den Züchter. Der Wert eines Welpen liegt in den Gentests der Elterntiere, in der Ahnentafel, in der Selektionsarbeit hinter der Verpaarung und in den ersten acht Wochen der Aufzucht: all das kostet unabhängig von der Fellfarbe dasselbe. Wer für einen <em>seltenen</em> Welpen mehr verlangt, verkauft ein Gefühl von Exklusivität und drängt im schlimmsten Fall Farben außerhalb des Standards. Die Frage an jeden, der einen Farbaufschlag verlangt, lautet: <strong>welche Tests haben die Elterntiere, und darf ich die Befunde mit Mikrochipnummer sehen?</strong></div>
   </div>
   
   </section>
