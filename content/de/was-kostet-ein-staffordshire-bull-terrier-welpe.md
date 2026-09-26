@@ -1,6 +1,6 @@
 ---
 title: "Was kostet ein Staffordshire Bull Terrier Welpe 2026"
-lastmod: 2026-09-06
+lastmod: 2026-09-26
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
 titleSeo: "Was kostet ein Staffordshire Bull Terrier Welpe"
@@ -8,7 +8,6 @@ translationKey: "quanto-costa"
 description: "Was ein Staffordshire Bull Terrier Welpe mit ENCI-Ahnentafel wirklich kostet: was im Preis enthalten ist und warum Schnäppchenangebote ein Warnsignal sind."
 slug: "was-kostet-ein-staffordshire-bull-terrier-welpe"
 date: 2026-01-25
-categories: ["Welpen"]
 ---
 
 <h1>Was kostet ein Staffordshire Bull Terrier Welpe 2026</h1>

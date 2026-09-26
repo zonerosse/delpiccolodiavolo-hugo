@@ -1,6 +1,6 @@
 ---
 title: "How Much Does a Staffordshire Bull Terrier Puppy Cost in 2026"
-lastmod: 2026-09-06
+lastmod: 2026-09-26
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
 titleSeo: "Staffordshire Bull Terrier puppy price explained"
@@ -8,7 +8,6 @@ translationKey: "quanto-costa"
 description: "What a Staffordshire Bull Terrier puppy with ENCI pedigree really costs: what the price includes, and why bargain adverts are a warning sign."
 slug: "how-much-does-a-staffordshire-bull-terrier-puppy-cost"
 date: 2026-01-25
-categories: ["Puppies"]
 ---
 
 <h1>How Much Does a Staffordshire Bull Terrier Puppy Cost in 2026</h1>

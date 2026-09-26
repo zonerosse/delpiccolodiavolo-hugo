@@ -1,6 +1,6 @@
 ---
 title: "Staffy o Amstaff: Quale delle Due Razze Fa per Te"
-lastmod: 2026-09-20
+lastmod: 2026-09-26
 articolo: true
 translationKey: "differenza-staffy-amstaff"
 image: "/images/blog/staffy-amstaff-hero.webp"
@@ -8,7 +8,6 @@ titleSeo: "Staffy o Amstaff: quale razza scegliere"
 description: "17 kg contro 30, appartamento contro spazio, primo cane o no: le domande concrete da farsi prima di scegliere fra Staffordshire Bull Terrier e Amstaff."
 slug: "differenza-staffy-amstaff"
 date: 2026-01-18
-categories: ["Standard"]
 ---
 
 <section class="hero">

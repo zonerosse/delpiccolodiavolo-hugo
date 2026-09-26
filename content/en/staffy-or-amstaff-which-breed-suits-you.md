@@ -1,6 +1,6 @@
 ---
 title: "Staffy or Amstaff: Which of the Two Breeds Suits You"
-lastmod: 2026-09-12
+lastmod: 2026-09-26
 articolo: true
 image: "/images/blog/staffy-amstaff-hero.webp"
 titleSeo: "Staffy or Amstaff: which breed to choose"
@@ -8,7 +8,6 @@ translationKey: "differenza-staffy-amstaff"
 description: "17 kg against 30, flat living against space, first dog or not: the concrete questions to ask before choosing between Staffordshire Bull Terrier and Amstaff."
 slug: "staffy-or-amstaff-which-breed-suits-you"
 date: 2026-01-18
-categories: ["Breed Standard"]
 ---
 
 <section class="hero">

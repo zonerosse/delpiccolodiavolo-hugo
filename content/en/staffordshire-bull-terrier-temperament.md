@@ -1,6 +1,6 @@
 ---
 title: "The Staffordshire Bull Terrier Temperament: Where It Comes From"
-lastmod: 2026-09-12
+lastmod: 2026-09-26
 titleSeo: "Staffy temperament: how it was selected"
 articolo: true
 translationKey: "carattere"
@@ -8,7 +8,6 @@ image: "/images/blog/temperamento-staffy-hero.webp"
 description: "Why the Staffordshire Bull Terrier has this character: the historical selection, what the standard actually says, and how to assess temperament in a puppy."
 slug: "staffordshire-bull-terrier-temperament"
 date: 2026-01-18
-categories: ["Breed Standard"]
 correlati:
   - url: "/en/staffordshire-bull-terrier-character-family-life/"
     titolo: "The character in daily life"

@@ -2,13 +2,12 @@
 title: "Come si legge un pedigree: ENCI e SBTPedigree"
 titleSeo: "Come si legge un pedigree: cosa dice l'ENCI e cosa no"
 date: 2026-09-09
-lastmod: 2026-09-20
+lastmod: 2026-09-26
 translationKey: "leggere-pedigree"
 articolo: true
 image: "/images/blog/pedigree-queen-hero.webp"
 description: "Cosa mostra davvero un certificato ENCI, cosa aggiunge SBTPedigree e come si usa il test mating per studiare un accoppiamento prima di farlo."
 slug: "come-si-legge-un-pedigree"
-categories: ["Standard e Linee di Sangue"]
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
