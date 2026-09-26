@@ -1,7 +1,7 @@
 ---
 title: "Blog Staffordshire Bull Terrier"
 titleSeo: "Guide sullo Staffordshire Bull Terrier: salute e cuccioli"
-lastmod: 2026-09-20
+lastmod: 2026-09-26
 tipoPagina: "CollectionPage"
 translationKey: "blog"
 description: "Articoli su cuccioli, salute, standard e convivenza dello Staffordshire Bull Terrier. Consigli pratici dall'allevamento."
@@ -55,9 +55,19 @@ custom_content: |
   <section class="section" id="cuccioli" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
-  <h2 class="section-title">Cuccioli <span class="count">(10)</span></h2>
+  <h2 class="section-title">Cuccioli <span class="count">(11)</span></h2>
 
   <div class="blog-grid">
+  <article class="blog-card">
+  <a href="/genitori-visibili-cosa-significa/" title="Leggi: Genitori visibili, cosa significa davvero"><div class="blog-card-thumb"><img src="/images/blog/genitori-visibili-hero.webp" alt="Femmina di Staffordshire Bull Terrier che allatta la cucciolata" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">26 Set 2026</span><span>&bull;</span><span class="cat">Cuccioli</span></div>
+  <h3><a href="/genitori-visibili-cosa-significa/" title="Leggi: Genitori visibili, cosa significa davvero">Genitori visibili: cosa significa davvero</a></h3>
+  <p>Perch&eacute; il padre quasi mai &egrave; in allevamento, e cosa guardare invece nella madre.</p>
+  <a class="read" href="/genitori-visibili-cosa-significa/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Genitori visibili, cosa significa davvero">Leggi &rarr;</a>
+  </div>
+  </article>
+
   <article class="blog-card">
   <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi: Come riconoscere un allevamento serio"><div class="blog-card-thumb"><img src="/images/blog/cucciolata-erba.avif" alt="Come riconoscere un allevamento Staffordshire Bull Terrier serio" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
