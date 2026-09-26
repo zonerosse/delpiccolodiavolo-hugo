@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Blog - Artikel & Ratgeber"
-lastmod: 2026-09-12
+lastmod: 2026-09-26
 tipoPagina: "CollectionPage"
 translationKey: "blog"
 description: "Artikel über Welpen, Gesundheit, Standard und Zusammenleben mit dem Staffordshire Bull Terrier. Praktische Tipps aus der Zucht."
@@ -52,9 +52,19 @@ custom_content: |
   <section class="section" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Kategorie</span>
-  <h2 class="section-title">Welpen <span class="count">(10)</span></h2>
+  <h2 class="section-title">Welpen <span class="count">(11)</span></h2>
   
   <div class="blog-grid">
+  <article class="blog-card">
+  <a href="/de/eltern-vor-ort-was-das-bedeutet/" title="Lesen: Eltern vor Ort, was das wirklich bedeutet"><div class="blog-card-thumb"><img src="/images/blog/genitori-visibili-hero.webp" alt="Staffordshire Bull Terrier Hündin säugt ihren Wurf" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">26 Sep 2026</span><span>&bull;</span><span class="cat">Welpen</span></div>
+  <h3><a href="/de/eltern-vor-ort-was-das-bedeutet/" title="Lesen: Eltern vor Ort, was das wirklich bedeutet">&bdquo;Eltern vor Ort&ldquo;: was das wirklich bedeutet</a></h3>
+  <p>Warum der Vater fast nie in der Zucht ist, und worauf man stattdessen bei der Mutter achtet.</p>
+  <a class="read" href="/de/eltern-vor-ort-was-das-bedeutet/" title="Vollständigen Artikel lesen" aria-label="Artikel lesen: Eltern vor Ort, was das wirklich bedeutet">Lesen &rarr;</a>
+  </div>
+  </article>
+
   <article class="blog-card">
   <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Lesen: Was kostet ein Staffordshire Bull Terrier Welpe"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier Welpen: was ein Welpe wirklich kostet" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
