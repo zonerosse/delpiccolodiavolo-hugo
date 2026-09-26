@@ -1,7 +1,7 @@
 ---
 title: "Lo Staffy è Pericoloso? Verità e Legge Italiana"
 date: 2025-11-18
-lastmod: 2026-09-20
+lastmod: 2026-09-26
 translationKey: "pericoloso"
 articolo: true
 image: "/images/blog/staffy-carattere-legge-hero.webp"
@@ -200,7 +200,7 @@ custom_content: |
   </ul>
   </div>
   
-  <p>Nel <a href="/" title="Allevamento Del Piccolo Diavolo">nostro allevamento Del Piccolo Diavolo</a>, poniamo grande enfasi sulla selezione caratteriale. Tutti i nostri <a href="/maschi-staffordshire-bull-terrier/" title="Maschi Staffy">maschi</a> e <a href="/femmine-staffordshire-bull-terrier/" title="Femmine Staffy">femmine</a> sono testati geneticamente e selezionati per temperamento equilibrato. I <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffy">cuccioli</a> vengono socializzati fin dalle prime settimane di vita.</p>
+  <p>Nel <a href="/" title="Allevamento Del Piccolo Diavolo">nostro allevamento Del Piccolo Diavolo</a>, poniamo grande enfasi sulla selezione caratteriale. Tutti i nostri <a href="/maschi-staffordshire-bull-terrier/" title="Maschi Staffy">maschi</a> e <a href="/femmine-staffordshire-bull-terrier/" title="Femmine Staffy">femmine</a> sono testati geneticamente e selezionati per temperamento equilibrato. I <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffy">cuccioli</a> crescono in casa e poi nel cortile, esposti a persone, rumori e cani adulti nelle settimane in cui quell'esposizione conta davvero.</p>
   
   <h2>Conclusioni: I Fatti Oltre i Pregiudizi</h2>
   
