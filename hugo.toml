@@ -6,6 +6,12 @@ defaultContentLanguageInSubdir = false
 # Abilita lastmod automatico da Git
 enableGitInfo = true
 
+# Disabilita generazione automatica di alcune pagine
+disableKinds = ["taxonomy", "term", "RSS"]
+
+# Abilita sitemap
+enableRobotsTXT = true
+
 # Da dove Hugo prende le date.
 # Senza questa sezione, con enableGitInfo attivo, un articolo privo di "date"
 # nel front matter eredita la data dell'ultimo commit: basta correggere una
@@ -18,11 +24,12 @@ enableGitInfo = true
   lastmod = [":git", "lastmod", "date"]
   expiryDate = ["expiryDate"]
 
-# Disabilita generazione automatica di alcune pagine
-disableKinds = ["taxonomy", "term", "RSS"]
-
-# Abilita sitemap
-enableRobotsTXT = true
+# Nessuna tassonomia. Hugo ne crea due per impostazione predefinita, tag e
+# categorie, e prova a generare le pagine elenco /tags/ e /categories/ anche
+# quando nessuna pagina le usa: da li' l'avviso "no layout file for kind
+# taxonomy". Le categorie del blog sono sezioni HTML dentro blog.md, non
+# tassonomie, quindi qui non servono.
+[taxonomies]
 
 [sitemap]
   changefreq = "weekly"
@@ -70,7 +77,7 @@ enableRobotsTXT = true
   foundingYear = "2013"
   # Recensioni Google: aggiornare QUI, i cinque punti del sito leggono da questi due valori
   recensioniVoto = "5.0"
-  recensioniTotale = "41"
+  recensioniTotale = "40"
 
 [markup]
   [markup.goldmark]
