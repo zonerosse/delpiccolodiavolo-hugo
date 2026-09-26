@@ -1,16 +1,21 @@
 ---
 title: "Cucciolata Bilquis × Black Jack (agosto 2026)"
-lastmod: 2026-09-20
+lastmod: 2026-09-26
 articolo: true
 titleSeo: "Cucciolata Bilquis × Black Jack, agosto 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
 description: "Cucciolata nata il 1° agosto 2026 da Bilquis Goddess Diabhal, Campionessa Italiana ENCI. Genitori testati, referti pubblicati. Non disponibili."
 video:
-  id: "rm1fY0_P6I8"
-  nome: "Cucciola di Staffordshire Bull Terrier a 30 giorni"
-  descrizione: "Una cucciola della cucciolata Bilquis x Black Jack ripresa a trenta giorni, in casa, all'allevamento Del Piccolo Diavolo di Ostellato (FE)."
-  durata: "PT16S"
-  caricato: "2026-09-04T00:00:00+02:00"
+  - id: "cVyPQbi2I1A"
+    nome: "Cucciola di Staffordshire Bull Terrier a 55 giorni"
+    descrizione: "Una femmina della cucciolata Bilquis x Black Jack a 55 giorni, in piena fase di assestamento delle orecchie, all'allevamento Del Piccolo Diavolo di Ostellato (FE)."
+    durata: "PT6S"
+    caricato: "2026-09-26T00:00:00+02:00"
+  - id: "rm1fY0_P6I8"
+    nome: "Cucciola di Staffordshire Bull Terrier a 30 giorni"
+    descrizione: "Una cucciola della cucciolata Bilquis x Black Jack ripresa a trenta giorni, in casa, all'allevamento Del Piccolo Diavolo di Ostellato (FE)."
+    durata: "PT16S"
+    caricato: "2026-09-04T00:00:00+02:00"
 slug: "cucciolata-bilquis-agosto-2026"
 date: 2026-08-01
 image: "/images/cuccioli-bilquis-nati-1.webp"
@@ -28,6 +33,21 @@ Questa cucciolata è nata ad agosto 2026 dall'accoppiamento fra Bilquis Goddess 
 
 All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente attesa: il **1° agosto 2026** la nostra **Bilquis Goddess Diabhal** — Campionessa Italiana di Bellezza ENCI e 4ª classificata al World Dog Show di Zagabria 2024 — è diventata mamma. Un accoppiamento pianificato con cura, che unisce il pedigree di **Bilquis Goddess Diabhal**, figlia di **Skilful-dogs Nora**, alle solide linee italiane del padre **Black Jack Di Casa Giacalone**, figlio del **Campione del Mondo 2023** Quash Marvelous Hagler de Stafflorence.
 
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1rem;max-width:720px;margin:1.75rem auto">
+<div>
+<div style="position:relative;padding-bottom:152.2%;height:0;background:#e6ddd4;border-radius:14px;overflow:hidden;box-shadow:0 8px 25px rgba(0,0,0,.12)">
+<iframe src="https://www.youtube-nocookie.com/embed/cVyPQbi2I1A" title="Cucciola di Staffordshire Bull Terrier a 55 giorni &ndash; cucciolata Bilquis x Black Jack" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe>
+</div>
+<p style="font-size:.82rem;color:#7a6a58;text-align:center;margin-top:.6rem">A 55 giorni &mdash; orecchie in pieno assestamento</p>
+</div>
+<div>
+<div style="position:relative;padding-bottom:152.2%;height:0;background:#e6ddd4;border-radius:14px;overflow:hidden;box-shadow:0 8px 25px rgba(0,0,0,.12)">
+<iframe src="https://www.youtube-nocookie.com/embed/rm1fY0_P6I8" title="Cucciola di Staffordshire Bull Terrier a 30 giorni &ndash; cucciolata Bilquis x Black Jack" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe>
+</div>
+<p style="font-size:.82rem;color:#7a6a58;text-align:center;margin-top:.6rem">A 30 giorni &mdash; in casa, con la madre</p>
+</div>
+</div>
+
 ## I cuccioli appena nati
 
 <div style="display:flex;flex-wrap:wrap;gap:1rem;justify-content:center;margin:1.5rem 0">
@@ -35,20 +55,15 @@ All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente a
 <img src="/images/cuccioli-bilquis-nati-2.webp" alt="Bilquis con i suoi cuccioli Staffordshire Bull Terrier appena nati" width="468" height="480" loading="lazy" decoding="async" style="width:320px;max-width:100%;height:auto;border-radius:12px">
 </div>
 
-
 ## A trenta giorni
 
 Il 31 agosto i cuccioli hanno compiuto un mese. Gli occhi sono aperti da settimane, le zampe reggono, e comincia il periodo in cui un cucciolo impara cos'è normale e cosa fa paura: le voci, le mani che lo prendono in braccio, i rumori della casa.
 
-<div style="max-width:340px;margin:1.75rem auto;border-radius:14px;overflow:hidden;box-shadow:0 8px 25px rgba(0,0,0,.12)">
-<div style="position:relative;padding-bottom:152.2%;height:0;background:#e6ddd4">
-<iframe src="https://www.youtube-nocookie.com/embed/rm1fY0_P6I8" title="Cucciola di Staffordshire Bull Terrier a 30 giorni – cucciolata Bilquis × Black Jack" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe>
-</div>
-</div>
-
-<p style="font-size:.85rem;color:#7a6a58;text-align:center">Una cucciola della cucciolata a trenta giorni, in casa.</p>
-
 I cuccioli crescono in casa. La legge vieta l'affido prima dei sessanta giorni: qui restano con la madre fino a settanta.
+
+## A cinquantacinque giorni
+
+Una femmina della cucciolata a 55 giorni, figlia di Bilquis Goddess Diabhal e Black Jack di Casa Giacalone. È in piena fase di assestamento delle orecchie: a quest'età salgono, scendono e cambiano posizione quasi ogni giorno, e l'orecchio a rosa definitivo si vede solo mesi dopo.
 
 ## I genitori
 
@@ -178,7 +193,6 @@ Bilquis — Ecocardio Doppler
 </div>
 
 <p style="margin-top:1.5rem"><strong>Pedigree della cucciolata:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" class="sbt-link" aria-label="Vedi il pedigree completo della cucciolata su SBTPedigree (si apre in una nuova scheda)">Vedi su SBTPedigree →</a></p>
-
 
 ## Contatti
 
