@@ -6,6 +6,18 @@ defaultContentLanguageInSubdir = false
 # Abilita lastmod automatico da Git
 enableGitInfo = true
 
+# Da dove Hugo prende le date.
+# Senza questa sezione, con enableGitInfo attivo, un articolo privo di "date"
+# nel front matter eredita la data dell'ultimo commit: basta correggere una
+# virgola e l'articolo risulta pubblicato oggi, finendo in "Ultimi articoli".
+# Qui la data di pubblicazione viene SOLO dal front matter, mentre la data di
+# modifica continua ad aggiornarsi da sola con i commit.
+[frontmatter]
+  date = ["date", "publishDate"]
+  publishDate = ["publishDate", "date"]
+  lastmod = [":git", "lastmod", "date"]
+  expiryDate = ["expiryDate"]
+
 # Disabilita generazione automatica di alcune pagine
 disableKinds = ["taxonomy", "term", "RSS"]
 

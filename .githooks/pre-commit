@@ -55,4 +55,37 @@ if [ "$TOCCATI" -gt 0 ]; then
   echo "lastmod aggiornato a $OGGI in $TOCCATI file"
 fi
 
+# ---------------------------------------------------------------------------
+# Secondo controllo: la data di PUBBLICAZIONE.
+#
+# PERCHE' SERVE
+# Con enableGitInfo attivo, un articolo senza "date:" nel front matter eredita
+# la data dell'ultimo commit: basta correggere una virgola e quell'articolo
+# risulta pubblicato oggi, finendo in cima a "Ultimi articoli". La sezione
+# [frontmatter] in hugo.toml lo impedisce, ma se un giorno quella sezione
+# sparisse il problema tornerebbe in silenzio. Questo controllo lo intercetta.
+#
+# COSA FA
+# Blocca il commit se un file con "articolo: true" non ha "date:".
+# ---------------------------------------------------------------------------
+MANCANTI=""
+for f in $(git diff --cached --name-only --diff-filter=ACM | grep '^content/.*\.md$'); do
+  [ -f "$f" ] || continue
+  grep -q '^articolo: true' "$f" || continue
+  grep -q '^date:' "$f" && continue
+  MANCANTI="$MANCANTI  $f\n"
+done
+
+if [ -n "$MANCANTI" ]; then
+  echo ""
+  echo "COMMIT FERMATO: questi articoli non hanno la data di pubblicazione."
+  printf "$MANCANTI"
+  echo ""
+  echo "Aggiungi nel front matter la data vera, per esempio:"
+  echo "  date: $OGGI"
+  echo ""
+  echo "Senza, Hugo usa la data dell'ultimo commit e l'articolo risulta di oggi."
+  exit 1
+fi
+
 exit 0
