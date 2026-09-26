@@ -55,9 +55,19 @@ custom_content: |
   <section class="section" id="cuccioli" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
-  <h2 class="section-title">Cuccioli <span class="count">(11)</span></h2>
+  <h2 class="section-title">Cuccioli <span class="count">(12)</span></h2>
 
   <div class="blog-grid">
+  <article class="blog-card">
+  <a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Leggi: Cuccioli socializzati, cosa vuol dire davvero"><div class="blog-card-thumb"><img src="/images/blog/socializzazione-cortile-hero.webp" alt="Cucciolo di Staffordshire Bull Terrier nell'erba del cortile" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">26 Set 2026</span><span>&bull;</span><span class="cat">Cuccioli</span></div>
+  <h3><a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Leggi: Cuccioli socializzati, cosa vuol dire davvero">Cuccioli gi&agrave; socializzati: cosa vuol dire davvero</a></h3>
+  <p>La finestra sensibile, cosa un cucciolo incontra in allevamento e cosa no.</p>
+  <a class="read" href="/cuccioli-socializzati-cosa-vuol-dire/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Cuccioli socializzati, cosa vuol dire davvero">Leggi &rarr;</a>
+  </div>
+  </article>
+
   <article class="blog-card">
   <a href="/genitori-visibili-cosa-significa/" title="Leggi: Genitori visibili, cosa significa davvero"><div class="blog-card-thumb"><img src="/images/blog/genitori-visibili-hero.webp" alt="Femmina di Staffordshire Bull Terrier che allatta la cucciolata" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">

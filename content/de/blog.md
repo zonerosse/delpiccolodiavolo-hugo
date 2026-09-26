@@ -52,9 +52,19 @@ custom_content: |
   <section class="section" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Kategorie</span>
-  <h2 class="section-title">Welpen <span class="count">(11)</span></h2>
+  <h2 class="section-title">Welpen <span class="count">(12)</span></h2>
   
   <div class="blog-grid">
+  <article class="blog-card">
+  <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Lesen: Sozialisierte Welpen, was das wirklich heißt"><div class="blog-card-thumb"><img src="/images/blog/socializzazione-cortile-hero.webp" alt="Staffordshire Bull Terrier Welpe im Gras des Hofs" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">26 Sep 2026</span><span>&bull;</span><span class="cat">Welpen</span></div>
+  <h3><a href="/de/sozialisierte-welpen-was-das-heisst/" title="Lesen: Sozialisierte Welpen, was das wirklich heißt">&bdquo;Bereits sozialisiert&ldquo;: was das wirklich hei&szlig;t</a></h3>
+  <p>Die sensible Phase, was ein Welpe in der Zucht kennenlernt und was nicht.</p>
+  <a class="read" href="/de/sozialisierte-welpen-was-das-heisst/" title="Vollständigen Artikel lesen" aria-label="Artikel lesen: Sozialisierte Welpen, was das wirklich heißt">Lesen &rarr;</a>
+  </div>
+  </article>
+
   <article class="blog-card">
   <a href="/de/eltern-vor-ort-was-das-bedeutet/" title="Lesen: Eltern vor Ort, was das wirklich bedeutet"><div class="blog-card-thumb"><img src="/images/blog/genitori-visibili-hero.webp" alt="Staffordshire Bull Terrier Hündin säugt ihren Wurf" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">

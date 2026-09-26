@@ -52,9 +52,19 @@ custom_content: |
   <section class="section" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Category</span>
-  <h2 class="section-title">Puppies <span class="count">(11)</span></h2>
+  <h2 class="section-title">Puppies <span class="count">(12)</span></h2>
   
   <div class="blog-grid">
+  <article class="blog-card">
+  <a href="/en/socialised-puppies-what-it-means/" title="Read: Socialised puppies, what it really means"><div class="blog-card-thumb"><img src="/images/blog/socializzazione-cortile-hero.webp" alt="Staffordshire Bull Terrier puppy in the courtyard grass" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">26 Sep 2026</span><span>&bull;</span><span class="cat">Puppies</span></div>
+  <h3><a href="/en/socialised-puppies-what-it-means/" title="Read: Socialised puppies, what it really means">&ldquo;Already socialised&rdquo;: what it really means</a></h3>
+  <p>The sensitive window, what a puppy meets at the kennel and what it does not.</p>
+  <a class="read" href="/en/socialised-puppies-what-it-means/" title="Read full article" aria-label="Read the article: Socialised puppies, what it really means">Read &rarr;</a>
+  </div>
+  </article>
+
   <article class="blog-card">
   <a href="/en/parents-on-site-what-it-means/" title="Read: Parents on site, what it really means"><div class="blog-card-thumb"><img src="/images/blog/genitori-visibili-hero.webp" alt="Staffordshire Bull Terrier bitch nursing her litter" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
