@@ -1,6 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Welpe ins Ausland: so läuft es ab"
-lastmod: 2026-09-12
+date: 2026-09-12
+lastmod: 2026-09-26
 articolo: true
 translationKey: "cucciolo-estero"
 description: "Ein Welpe für ein anderes europäisches Land reist mit vier Monaten, nicht mit zwei. Tollwutimpfung, Heimtierausweis, TRACES-Zeugnis und ENCI-Exportstammbaum."

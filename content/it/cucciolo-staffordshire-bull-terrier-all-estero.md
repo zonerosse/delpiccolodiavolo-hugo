@@ -1,6 +1,7 @@
 ---
 title: "Cucciolo Staffy all'estero: tempi e documenti"
-lastmod: 2026-09-20
+date: 2026-09-12
+lastmod: 2026-09-26
 articolo: true
 translationKey: "cucciolo-estero"
 description: "Un cucciolo destinato a un altro paese europeo parte a quattro mesi, non a due. Antirabbica, passaporto, certificato TRACES ed export pedigree ENCI."

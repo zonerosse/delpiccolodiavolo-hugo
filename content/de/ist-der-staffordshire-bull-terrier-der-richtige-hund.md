@@ -1,6 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier: Ist er der richtige Hund für Sie? Vor- und Nachteile"
-lastmod: 2026-09-20
+date: 2026-08-01
+lastmod: 2026-09-26
 titleSeo: "Staffordshire Bull Terrier: der richtige Hund für Sie?"
 translationKey: "cane-giusto"
 articolo: true

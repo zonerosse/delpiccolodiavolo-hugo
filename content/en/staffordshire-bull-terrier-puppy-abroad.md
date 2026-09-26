@@ -1,6 +1,7 @@
 ---
 title: "Staffy puppy abroad: timing and paperwork"
-lastmod: 2026-09-12
+date: 2026-09-12
+lastmod: 2026-09-26
 articolo: true
 translationKey: "cucciolo-estero"
 description: "A puppy going to another European country leaves at four months, not two. Rabies vaccination, pet passport, TRACES certificate and ENCI export pedigree."
