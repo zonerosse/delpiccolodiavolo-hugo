@@ -58,7 +58,7 @@ enableRobotsTXT = true
   foundingYear = "2013"
   # Recensioni Google: aggiornare QUI, i cinque punti del sito leggono da questi due valori
   recensioniVoto = "5.0"
-  recensioniTotale = "40"
+  recensioniTotale = "41"
 
 [markup]
   [markup.goldmark]
