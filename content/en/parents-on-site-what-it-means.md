@@ -8,7 +8,6 @@ articolo: true
 image: "/images/blog/genitori-visibili-hero.webp"
 description: "Why the sire of a litter is almost never at the kennel, how to check a stud dog that lives a thousand kilometres away, and what to look for in the dam."
 slug: "parents-on-site-what-it-means"
-categories: ["Puppies"]
 custom_content: |
   <section class="hero">
   <div class="hero-visual">

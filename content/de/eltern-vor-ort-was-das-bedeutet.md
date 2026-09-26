@@ -8,7 +8,6 @@ articolo: true
 image: "/images/blog/genitori-visibili-hero.webp"
 description: "Warum der Vater eines Wurfs fast nie in der Zucht zu sehen ist, wie man einen Deckrüden aus der Ferne überprüft und worauf man bei der Mutter achten sollte."
 slug: "eltern-vor-ort-was-das-bedeutet"
-categories: ["Welpen"]
 custom_content: |
   <section class="hero">
   <div class="hero-visual">

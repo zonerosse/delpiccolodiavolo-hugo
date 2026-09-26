@@ -8,7 +8,6 @@ articolo: true
 image: "/images/blog/socializzazione-cortile-hero.webp"
 description: "The sensitive window runs from the third to the twelfth week: what a puppy can really meet at the kennel, what it cannot, and what is left for the family to do."
 slug: "socialised-puppies-what-it-means"
-categories: ["Puppies"]
 custom_content: |
   <section class="hero">
   <div class="hero-visual">

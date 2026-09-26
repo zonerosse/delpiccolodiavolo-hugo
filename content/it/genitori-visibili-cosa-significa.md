@@ -8,7 +8,6 @@ articolo: true
 image: "/images/blog/genitori-visibili-hero.webp"
 description: "Perché il padre di una cucciolata quasi mai è visibile in allevamento, come si verifica un maschio che sta a mille chilometri, e cosa guardare davvero nella madre."
 slug: "genitori-visibili-cosa-significa"
-categories: ["Cuccioli"]
 custom_content: |
   <section class="hero">
   <div class="hero-visual">

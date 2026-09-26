@@ -8,7 +8,6 @@ articolo: true
 image: "/images/blog/socializzazione-cortile-hero.webp"
 description: "Die sensible Phase reicht von der dritten bis zur zwölften Woche: was ein Welpe in der Zucht wirklich kennenlernen kann, was nicht, und was der Familie bleibt."
 slug: "sozialisierte-welpen-was-das-heisst"
-categories: ["Welpen"]
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
