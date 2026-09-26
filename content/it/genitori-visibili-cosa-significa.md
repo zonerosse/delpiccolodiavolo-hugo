@@ -66,7 +66,7 @@ custom_content: |
 
   <p><strong>Con la prova di accoppiamento</strong> dello stesso archivio, che calcola il coefficiente di consanguineit&agrave; teorico della cucciolata e mostra su quali antenati si concentra. Come si legge, lo spieghiamo nella guida su <a href="/come-si-legge-un-pedigree/" title="Come si legge un pedigree">come si legge un pedigree</a>.</p>
 
-  <p><strong>Con i referti dei test.</strong> Quelli non stanno su SBTPedigree: li fornisce il proprietario, e valgono solo se riportano il numero di microchip del cane. Senza quel numero il documento non &egrave; collegabile a nessun animale in particolare.</p>
+  <p><strong>Con i referti dei test.</strong> Molti sono caricati su SBTPedigree dagli stessi proprietari, e si scaricano da l&igrave;; altrimenti li chiedi direttamente. In ogni caso vale una regola sola: un referto conta se riporta il <strong>numero di microchip</strong> del cane. Senza quel numero il documento non &egrave; collegabile a nessun animale in particolare.</p>
 
   <p>Quattro verifiche che chiunque pu&ograve; fare da casa, su un cane che non vedr&agrave; mai. Contro &laquo;l'ho visto, era bello&raquo;.</p>
 
