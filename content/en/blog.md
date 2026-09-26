@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Blog - Articles & Guides"
-lastmod: 2026-09-12
+lastmod: 2026-09-26
 tipoPagina: "CollectionPage"
 translationKey: "blog"
 description: "Articles on puppies, health, breed standard and daily life with the Staffordshire Bull Terrier. Practical advice from the kennel."
@@ -52,9 +52,19 @@ custom_content: |
   <section class="section" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Category</span>
-  <h2 class="section-title">Puppies <span class="count">(10)</span></h2>
+  <h2 class="section-title">Puppies <span class="count">(11)</span></h2>
   
   <div class="blog-grid">
+  <article class="blog-card">
+  <a href="/en/parents-on-site-what-it-means/" title="Read: Parents on site, what it really means"><div class="blog-card-thumb"><img src="/images/blog/genitori-visibili-hero.webp" alt="Staffordshire Bull Terrier bitch nursing her litter" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">26 Sep 2026</span><span>&bull;</span><span class="cat">Puppies</span></div>
+  <h3><a href="/en/parents-on-site-what-it-means/" title="Read: Parents on site, what it really means">&ldquo;Parents on site&rdquo;: what it really means</a></h3>
+  <p>Why the sire is almost never at the kennel, and what to look for in the dam instead.</p>
+  <a class="read" href="/en/parents-on-site-what-it-means/" title="Read full article" aria-label="Read the article: Parents on site, what it really means">Read &rarr;</a>
+  </div>
+  </article>
+
   <article class="blog-card">
   <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="Read: How Much Does a Staffordshire Bull Terrier Puppy Cost"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier puppies: what a puppy really costs" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
