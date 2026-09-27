@@ -2,7 +2,7 @@
 title: "\"Already socialised puppies\": what it really means"
 titleSeo: "Socialised puppies: what it really means"
 date: 2026-09-26
-lastmod: 2026-09-26
+lastmod: 2026-09-27
 translationKey: "socializzazione-affido"
 articolo: true
 image: "/images/blog/socializzazione-cortile-hero.webp"
@@ -28,7 +28,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> &rsaquo;
   <a href="/en/blog/" title="Blog">Blog</a> &rsaquo;
-  <a aria-label="Puppies &mdash; blog category" href="/en/blog/#cuccioli" title="Puppy articles">Puppies</a> &rsaquo;
+  <a aria-label="Puppies &mdash; blog category" href="/en/blog/#puppies" title="Puppy articles">Puppies</a> &rsaquo;
   <span>Socialised puppies</span>
   </nav>
 

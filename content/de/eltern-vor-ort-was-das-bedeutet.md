@@ -2,7 +2,7 @@
 title: "\"Eltern vor Ort\": was das wirklich bedeutet"
 titleSeo: "\"Eltern vor Ort\": was das wirklich bedeutet"
 date: 2026-09-26
-lastmod: 2026-09-26
+lastmod: 2026-09-27
 translationKey: "genitori-visibili"
 articolo: true
 image: "/images/blog/genitori-visibili-hero.webp"
@@ -28,7 +28,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/de/" title="Startseite">Startseite</a> &rsaquo;
   <a href="/de/blog/" title="Blog">Blog</a> &rsaquo;
-  <a aria-label="Welpen &mdash; Blog-Kategorie" href="/de/blog/#cuccioli" title="Artikel über Welpen">Welpen</a> &rsaquo;
+  <a aria-label="Welpen &mdash; Blog-Kategorie" href="/de/blog/#welpen" title="Artikel über Welpen">Welpen</a> &rsaquo;
   <span>Eltern vor Ort</span>
   </nav>
 

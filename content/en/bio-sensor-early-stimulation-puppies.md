@@ -2,7 +2,7 @@
 title: "Bio Sensor: what the research actually says"
 date: 2026-09-09
 titleSeo: "Bio Sensor and early stimulation: what research says"
-lastmod: 2026-09-12
+lastmod: 2026-09-27
 translationKey: "biosensor"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
@@ -28,7 +28,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> ›
   <a href="/en/blog/" title="Blog">Blog</a> ›
-  <a aria-label="Puppies — blog category" href="/en/blog/#cuccioli" title="Puppy articles">Puppies</a> ›
+  <a aria-label="Puppies — blog category" href="/en/blog/#puppies" title="Puppy articles">Puppies</a> ›
   <span>Bio Sensor</span>
   </nav>
 

@@ -2,7 +2,7 @@
 title: "Bio Sensor: was die Forschung wirklich sagt"
 date: 2026-09-09
 titleSeo: "Bio Sensor und Frühstimulation: was die Forschung sagt"
-lastmod: 2026-09-12
+lastmod: 2026-09-27
 translationKey: "biosensor"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
@@ -28,7 +28,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/de/" title="Startseite">Startseite</a> ›
   <a href="/de/blog/" title="Blog">Blog</a> ›
-  <a aria-label="Welpen — Blog-Kategorie" href="/de/blog/#cuccioli" title="Artikel über Welpen">Welpen</a> ›
+  <a aria-label="Welpen — Blog-Kategorie" href="/de/blog/#welpen" title="Artikel über Welpen">Welpen</a> ›
   <span>Bio Sensor</span>
   </nav>
 

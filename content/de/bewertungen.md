@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Bewertungen"
-lastmod: 2026-09-05
+lastmod: 2026-09-27
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
 description: "Die Google-Bewertungen der Familien, die einen Welpen von Del Piccolo Diavolo gewählt haben. Echte Erfahrungen, vor und nach der Abgabe."
@@ -304,6 +304,8 @@ custom_content: |
   <p class="review-text">Wir hatten Glück, Paolo und seine Familie zu finden… eine ausgezeichnete familiengeführte Zucht, wunderschöne Hunde, hervorragendes Wesen und aufmerksame Führung.<br>Perla Nera ist großartig, im Wesen ausgeglichen, gut erzogen und wunderschön!<br>Man merkt, wenn jemand mit Leidenschaft und Respekt für Tiere arbeitet.<br>Danke Paolo</p>
   <div class="review-meta">Dezember 2025 – Google</div>
   </article>
+
+  <p>Bewertungen beschreiben die Übergabe; was danach geschah, Jahre später, erzählen wir in den <a href="/de/staffordshire-in-der-familie-geschichten/" title="Familiengeschichten">Geschichten der Hunde, die wir gezüchtet haben</a>.</p>
   
   </div>
   </div>

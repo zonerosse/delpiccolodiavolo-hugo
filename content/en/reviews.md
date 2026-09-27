@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Reviews"
 titleSeo: "Staffordshire Bull Terrier reviews from our families"
-lastmod: 2026-09-12
+lastmod: 2026-09-27
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
 description: "Google reviews from owners of our Staffordshire Bull Terriers: real experiences, before and after the placement."
@@ -303,6 +303,8 @@ custom_content: |
   <p class="review-text">We were lucky to find Paolo and his family… an excellent family-run kennel, beautiful dogs, excellent temperament and attentive management.<br>Perla Nera is stunning, balanced in character, well-mannered and beautiful!<br>You can tell when someone works with passion and respect for animals.<br>Thank you Paolo</p>
   <div class="review-meta">December 2025 – Google</div>
   </article>
+
+  <p>Reviews describe how the handover went; what happened afterwards, years later, is told in <a href="/en/staffordshire-family-life-stories/" title="Family stories">the stories of the dogs we have bred</a>.</p>
   
   </div>
   </div>

@@ -7,7 +7,7 @@ image: "/images/blog/cucciolata-erba.avif"
 description: "Acht Kriterien, um eine seriöse Staffordshire Bull Terrier Zucht zu erkennen, jedes mit der Art, es zu überprüfen. Mit unseren eigenen Unterlagen als Beispiel."
 slug: "wie-waehlt-man-eine-staffordshire-bull-terrier-zucht"
 date: 2026-01-18
-lastmod: 2026-09-26
+lastmod: 2026-09-27
 ---
 
 <section class="hero">
@@ -29,7 +29,7 @@ lastmod: 2026-09-26
 <nav class="breadcrumb" aria-label="Breadcrumb">
 <a href="/de/" title="Startseite">Startseite</a> &rsaquo;
 <a href="/de/blog/" title="Blog">Blog</a> &rsaquo;
-<a aria-label="Welpen &mdash; Blog-Kategorie" href="/de/blog/#cuccioli" title="Artikel &uuml;ber Welpen">Welpen</a> &rsaquo;
+<a aria-label="Welpen &mdash; Blog-Kategorie" href="/de/blog/#welpen" title="Artikel &uuml;ber Welpen">Welpen</a> &rsaquo;
 <span>Wie man eine seri&ouml;se Zucht erkennt</span>
 </nav>
 

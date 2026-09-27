@@ -1,6 +1,6 @@
 ---
 title: "About Us - Staffordshire Bull Terrier Breeder"
-lastmod: 2026-09-12
+lastmod: 2026-09-27
 tipoPagina: "ProfilePage"
 translationKey: "chi-siamo"
 description: "Del Piccolo Diavolo kennel: breeding healthy, balanced and typical Staffordshire Bull Terriers since 2013. Ostellato, Italy."
@@ -128,6 +128,10 @@ custom_content: |
   </section>
   
   <!--CORRELATI-->
+
+
+  <p>We tell every family the same thing: if one day you can no longer keep the dog, it comes back to us. In twelve years it has never been needed &mdash; where those dogs ended up is told in <a href="/en/staffordshire-family-life-stories/" title="Family stories">the family stories</a>.</p>
+
 
   <section class="cta-section">
   <h2>Want to Meet Us?</h2>

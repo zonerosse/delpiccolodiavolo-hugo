@@ -7,7 +7,7 @@ image: "/images/blog/cucciolata-erba.avif"
 description: "Eight criteria for recognising a serious Staffordshire Bull Terrier breeder, each with the way to verify it. With our own documents as the worked example."
 slug: "how-to-choose-a-staffordshire-bull-terrier-breeder"
 date: 2026-01-18
-lastmod: 2026-09-26
+lastmod: 2026-09-27
 ---
 
 <section class="hero">
@@ -29,7 +29,7 @@ lastmod: 2026-09-26
 <nav class="breadcrumb" aria-label="Breadcrumb">
 <a href="/en/" title="Home">Home</a> &rsaquo;
 <a href="/en/blog/" title="Blog">Blog</a> &rsaquo;
-<a aria-label="Puppies &mdash; blog category" href="/en/blog/#cuccioli" title="Puppy articles">Puppies</a> &rsaquo;
+<a aria-label="Puppies &mdash; blog category" href="/en/blog/#puppies" title="Puppy articles">Puppies</a> &rsaquo;
 <span>How to recognise a serious breeder</span>
 </nav>
 

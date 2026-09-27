@@ -1,7 +1,7 @@
 ---
 title: "Chi Siamo"
 titleSeo: "Chi siamo: allevatori di Staffordshire Bull Terrier dal 2013"
-lastmod: 2026-09-20
+lastmod: 2026-09-27
 tipoPagina: "ProfilePage"
 translationKey: "chi-siamo"
 description: "Allevamento Del Piccolo Diavolo: dal 2013 selezioniamo Staffordshire Bull Terrier sani, equilibrati e tipici. Ostellato (FE)."
@@ -125,7 +125,7 @@ custom_content: |
 
   <p>Chiedo che si parli di come sar&agrave; la giornata del cane: quante ore resta solo, chi c'&egrave; in casa, cosa succede d'estate quando si parte. Sono domande banali, ed evitano quasi tutti i guai.</p>
 
-  <p>E dico sempre una cosa a chi prende un nostro cucciolo, che vale come impegno: <strong>se un giorno non riuscite pi&ugrave; a tenerlo, il cane torna qui</strong>. Non &egrave; una formula gentile, &egrave; il motivo per cui scelgo con calma a chi affidarlo.</p>
+  <p>E dico sempre una cosa a chi prende un nostro cucciolo, che vale come impegno: <strong>se un giorno non riuscite pi&ugrave; a tenerlo, il cane torna qui</strong>. Non &egrave; una formula gentile, &egrave; il motivo per cui scelgo con calma a chi affidarlo. In dodici anni non &egrave; mai servito: dove sono finiti quei cani, e che vita fanno oggi, lo racconto nelle <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">storie delle famiglie</a>.</p>
 
   
   </div>

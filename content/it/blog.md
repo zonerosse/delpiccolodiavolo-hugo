@@ -59,7 +59,7 @@ custom_content: |
 
   <div class="blog-grid">
   <article class="blog-card">
-  <a href="/cuccioli-sverminazione-esami-feci/" title="Leggi: Sverminazione ed esami delle feci"><div class="blog-card-thumb"><img src="/images/blog/esame-feci-microscopio-400w.webp" alt="Sverminazione dei cuccioli di Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="188" sizes="(max-width: 300px) 100vw, 300px"></div></a>
+  <a href="/cuccioli-sverminazione-esami-feci/" title="Leggi: Sverminazione ed esami delle feci"><div class="blog-card-thumb"><img src="/images/blog/esame-feci-microscopio-hero.webp" alt="Sverminazione dei cuccioli di Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="188" sizes="(max-width: 300px) 100vw, 300px"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">27 Set 2026</span><span>&bull;</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cuccioli-sverminazione-esami-feci/" title="Leggi: Sverminazione ed esami delle feci">Sverminazione: protocollo ed esami delle feci</a></h3>
@@ -345,9 +345,19 @@ custom_content: |
   <section class="section" id="famiglia">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
-  <h2 class="section-title">Famiglia e Convivenza <span class="count">(6)</span></h2>
+  <h2 class="section-title">Famiglia e Convivenza <span class="count">(7)</span></h2>
 
   <div class="blog-grid">
+  <article class="blog-card">
+  <a href="/staffordshire-in-famiglia-storie/" title="Leggi: Staffordshire Bull Terrier in famiglia: dove sono oggi i nostri cani"><div class="blog-card-thumb"><img src="/images/blog/storie-famiglie-hero.webp" alt="Assan, Staffordshire Bull Terrier nero, con Roberta" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">27 Set 2026</span><span>&bull;</span><span class="cat">Famiglia</span></div>
+  <h3><a href="/staffordshire-in-famiglia-storie/" title="Leggi: Staffordshire Bull Terrier in famiglia: dove sono oggi i nostri cani">Staffordshire Bull Terrier in famiglia: dove sono oggi i nostri cani</a></h3>
+  <p>Dieci cani nati qui, anni dopo l'affido: in famiglia, al lavoro, in esposizione.</p>
+  <a class="read" href="/staffordshire-in-famiglia-storie/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Staffordshire Bull Terrier in famiglia: dove sono oggi i nostri cani">Leggi &rarr;</a>
+  </div>
+  </article>
+
   <article class="blog-card">
   <a href="/staffordshire-bull-terrier-e-il-cane-giusto-per-te/" title="Leggi: È il cane giusto per te?"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-8.webp" alt="Lo Staffordshire Bull Terrier è il cane giusto per te" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
