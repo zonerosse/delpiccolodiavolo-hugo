@@ -1,22 +1,24 @@
 ---
 title: "How Much Does a Staffordshire Bull Terrier Puppy Cost in 2026"
-lastmod: 2026-09-26
+lastmod: 2026-09-27
 articolo: true
-image: "/images/blog/cuccioli-1.webp"
+image: "/images/blog/scontrino-farmaci-cucciolata.webp"
 titleSeo: "Staffordshire Bull Terrier puppy price explained"
 translationKey: "quanto-costa"
-description: "What a Staffordshire Bull Terrier puppy with ENCI pedigree really costs: what the price includes, and why bargain adverts are a warning sign."
+description: "What a Staffordshire Bull Terrier puppy with ENCI pedigree really costs, what the price includes, and what a breeder actually spends on a litter, item by item."
 slug: "how-much-does-a-staffordshire-bull-terrier-puppy-cost"
 date: 2026-01-25
 ---
 
 <h1>How Much Does a Staffordshire Bull Terrier Puppy Cost in 2026</h1>
 
+The price of a Staffordshire Bull Terrier puppy with an ENCI pedigree is not a list price: it is the sum of costs that exist before the puppy is born. Genetic tests on the two breeding dogs for L2HGA, HC and PHPV are paid once per dog and hold for the whole of their breeding career. Registering the litter in the ENCI stud book has public fees, the same for everyone. On top of these come the vet checks during pregnancy, the ultrasound around day twenty-five, the X-ray before whelping, the first vaccinations, worming and the microchip. At the Del Piccolo Diavolo kennel in Ostellato, Italy, a litter of six puppies costs about 2,000 euros before vaccinations and microchips, and over 4,000 with a stud dog abroad and a caesarean. A very low price almost always means something is missing: the tests, the pedigree, or puppies separated from their mother before the 60 days required by Italian law.
+
 The short answer: **there is no price list, and that is as it should be**. What you can assess is what sits inside the price when you buy from a serious breeder with an ENCI pedigree, genetic testing and full guarantees.
 
 If you come across Staffordshire Bull Terrier puppies advertised for a few hundred euros, stop. You are about to make a mistake that may cost you far more in vets' bills, behavioural problems and heartbreak.
 
-This article sets out exactly what that price covers, why cheap puppies are a risk, and how to tell a serious breeder from a dealer. If you are not sure where to start, read first <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to choose a Staffordshire Bull Terrier breeder">how to choose a Staffordshire Bull Terrier breeder</a>.
+This article sets out exactly what that price covers, what a litter really costs us, with the real figures, why cheap puppies are a risk, and how to tell a serious breeder from a dealer. If you are not sure where to start, read first <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to choose a Staffordshire Bull Terrier breeder">how to choose a Staffordshire Bull Terrier breeder</a>.
 
 ## What the price of a properly bred puppy includes
 
@@ -41,11 +43,83 @@ When you buy from a responsible breeder, the price covers:
 
 None of this is optional. It is the minimum a serious breeder has to guarantee.
 
+## What a litter costs us, item by item {#costi-cucciolata}
+
+People usually talk about the price of the puppy. Here we look at the other side: **what a breeder spends before the puppy even exists**. These are our real figures, the ones we actually pay.
+
+### Before the mating
+
+| Item | Cost |
+|---|---|
+| Vaginal swab with culture | €40 |
+| Progesterone tests, at least four | €40 each, **€160** |
+| Trips to the vet, 40 km each way | variable, one trip for every test |
+| Preventive worming of the bitch, Milbemax | €29.20 |
+
+Progesterone testing is how you find the right day: without it you mate at random and lose a season. Four tests are the minimum, and more are often needed.
+
+### The stud dog
+
+When the stud is not at the kennel — and in our case he never is, for the reasons explained in the guide to [parents on site](/en/parents-on-site-what-it-means/) — you pay a **stud fee**.
+
+It ranges from **€700** for a young dog, perhaps without titles, up to **€1,600**, which is what we were asked for a Junior World Champion in Hungary, an Elitebull dog.
+
+On top of that comes the journey, which depends on the distance, and often a **night in a hotel**: there are two matings, forty-eight hours apart, and you do not go home in between.
+
+### The pregnancy
+
+| Item | Cost |
+|---|---|
+| Ultrasound 25 days after the second mating | €35-40 |
+| Ultrasound and X-ray a week before whelping | €50-80 |
+| Puppy kibble for the bitch | €60 per 12 kg |
+
+The ultrasound tells you whether she is pregnant. The final X-ray, once the skulls have calcified, tells you **how many puppies** there are: during whelping it tells you when it is over, and the ultrasound on the same day flags any puppy in distress.
+
+Puppy kibble costs a good deal more than maintenance food, and a nursing bitch eats a lot of it.
+
+### The whelping
+
+A natural whelping costs nothing, apart from **oxytocin** if it is needed, about €30.
+
+A **caesarean** costs between **€500 and €800**, depending on the day and the time: at night or on a Sunday it sits at the top of the range. You do not choose: either it is needed or it is not.
+
+### After the birth
+
+| Item | Cost |
+|---|---|
+| Milbemax for the bitch | €29.20 |
+| Milbemax for the puppies, four packs for eight puppies | €63.60 |
+| Panacur for the puppies, six-day course | **€147.57**, three packs of ten tablets: the most expensive item in the group |
+| ENCI litter registration, form A | €60 |
+| Form B, for each puppy | €25 |
+
+Worming is repeated several times, and the cost grows with the number of puppies. On top of this come the laboratory faecal test, the first vaccinations, the microchip and the veterinary check-ups.
+
+<figure style="margin:1.5rem auto;max-width:560px;text-align:center">
+<img src="/images/blog/scontrino-farmaci-cucciolata.webp" alt="Pharmacy receipt for the litter's veterinary medicines, September 2026: three packs of Panacur and four of Milbemax for the puppies, one of Milbemax for the mother" width="855" height="900" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:8px">
+<figcaption style="font-size:.9rem;margin-top:.5rem">The pharmacy receipt of 22 September 2026, veterinary medicines for the litter. The three lines are Panacur for the puppies (3 × €49.19), Milbemax for the eight puppies (4 × €15.90) and Milbemax for the mother (€29.20). <a href="/docs/scontrino-farmaci-cucciolata-22-09-2026.pdf" target="_blank" rel="noopener" aria-label="Full receipt as PDF (opens in a new tab)">The full receipt as PDF</a>, with the tax code covered.</figcaption>
+</figure>
+
+### The total
+
+For a litter of six puppies, with no complications and a young stud dog:
+
+**around €2,000**, before vaccinations, microchips and laboratory tests.
+
+With a top-level stud dog, the trip abroad and a caesarean:
+
+**well over €4,000**.
+
+And this does not include the **genetic tests on the breeding dogs**, paid once per dog — about €400 per breeding dog for the sample, the laboratory and the eye examination — nor the time: nights on the sofa next to the whelping box, the daily weighing, the journeys.
+
+These figures are not here to justify a price. They are here to show why **a litter sold at a few hundred euros a puppy cannot have any of this behind it.**
+
 ## Why cheap puppies cost more
 
 Let us do the arithmetic.
 
-A puppy sold for a few hundred euros means the breeder spent even less to produce it. How is that possible?
+A litter done properly, as we saw above item by item, costs about 2,000 euros: with six puppies that is more than 330 euros a puppy, before vaccinations, microchips and tests. With a stud dog abroad and a caesarean it goes past 650. A puppy sold for a few hundred euros is below the cost of a serious litter. How is that possible?
 
 **By cutting everything:**
 - No genetic testing (around 400 euros per dog once sampling and the eye examination are counted, so 800 for both parents)

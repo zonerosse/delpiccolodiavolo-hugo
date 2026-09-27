@@ -111,7 +111,7 @@ custom_content: |
 
   <p>In quella visita si fa il <strong>tampone vaginale con esame colturale</strong>, per escludere batteri che comprometterebbero la gravidanza, e se serve una sverminazione.</p>
 
-  <p>Individuato il calore, cominciano i <strong>dosaggi del progesterone</strong>. Non &egrave; un dettaglio da appassionati: il momento fertile non si indovina dal giorno del calore, e sbagliarlo di 48 ore significa non avere cuccioli. Si preleva a intervalli finch&eacute; il valore raggiunge il picco, e quello &egrave; il giorno.</p>
+  <p>Individuato il calore, cominciano i <strong>dosaggi del progesterone</strong>. Non &egrave; un dettaglio da appassionati: il momento fertile non si indovina dal giorno del calore, e sbagliarlo di 48 ore significa non avere cuccioli. Si preleva a intervalli finch&eacute; il valore raggiunge il picco, e quello &egrave; il giorno. Ogni dosaggio costa 40 euro e ne servono almeno quattro: questa e le altre spese sono <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/#costi-cucciolata" title="Quanto costa una cucciolata, voce per voce">nei costi di una cucciolata, voce per voce</a>.</p>
 
   <h3>L'accoppiamento</h3>
 

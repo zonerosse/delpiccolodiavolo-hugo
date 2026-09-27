@@ -85,7 +85,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Lesen: Was kostet ein Staffordshire Bull Terrier Welpe"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier Welpen: was ein Welpe wirklich kostet" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Lesen: Was kostet ein Staffordshire Bull Terrier Welpe"><div class="blog-card-thumb"><img src="/images/blog/scontrino-farmaci-cucciolata.webp" alt="Apothekenbeleg für die Tierarzneimittel eines Wurfs" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">25 Jan 2026</span><span>•</span><span class="cat">Welpen</span></div>
   <h3><a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Lesen: Was kostet ein Staffordshire Bull Terrier Welpe">Was kostet ein Staffordshire Bull Terrier Welpe</a></h3>

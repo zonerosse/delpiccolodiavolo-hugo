@@ -1,24 +1,24 @@
 ---
 title: "Quanto Costa un Cucciolo di Staffordshire Bull Terrier nel 2026"
 date: 2026-01-25
-lastmod: 2026-09-26
+lastmod: 2026-09-27
 articolo: true
 translationKey: "quanto-costa"
-image: "/images/blog/cuccioli-1.webp"
+image: "/images/blog/scontrino-farmaci-cucciolata.webp"
 titleSeo: "Quanto costa un cucciolo Staffordshire Bull Terrier"
-description: "Quanto costa un cucciolo Staffordshire Bull Terrier con pedigree ENCI: cosa include davvero il prezzo e perché diffidare degli annunci troppo economici."
+description: "Quanto costa un cucciolo Staffordshire Bull Terrier con pedigree ENCI, cosa include il prezzo e quanto spende davvero l'allevatore per una cucciolata, voce per voce."
 slug: "quanto-costa-cucciolo-staffordshire-bull-terrier"
 ---
 
 <h1>Quanto Costa un Cucciolo di Staffordshire Bull Terrier nel 2026</h1>
 
-Il prezzo di un cucciolo di Staffordshire Bull Terrier con pedigree ENCI non è un listino: è la somma di costi che esistono prima che il cucciolo nasca. I test genetici dei due riproduttori per L2HGA, HC e PHPV si pagano una volta per cane e valgono per tutta la carriera riproduttiva. L'iscrizione della cucciolata al libro genealogico ENCI ha tariffe pubbliche, uguali per tutti. A queste si aggiungono le visite veterinarie durante la gravidanza, l'ecografia al venticinquesimo giorno, la radiografia prima del parto, le prime vaccinazioni, le sverminazioni e il microchip. Un prezzo molto basso quasi sempre significa che manca qualcosa: i test, il pedigree, o cuccioli separati dalla madre prima dei 60 giorni previsti dalla legge italiana.
+Il prezzo di un cucciolo di Staffordshire Bull Terrier con pedigree ENCI non è un listino: è la somma di costi che esistono prima che il cucciolo nasca. I test genetici dei due riproduttori per L2HGA, HC e PHPV si pagano una volta per cane e valgono per tutta la carriera riproduttiva. L'iscrizione della cucciolata al libro genealogico ENCI ha tariffe pubbliche, uguali per tutti. A queste si aggiungono le visite veterinarie durante la gravidanza, l'ecografia al venticinquesimo giorno, la radiografia prima del parto, le prime vaccinazioni, le sverminazioni e il microchip. All'allevamento Del Piccolo Diavolo, a Ostellato, una cucciolata di sei cuccioli costa circa 2.000 euro prima di vaccinazioni e microchip, e oltre 4.000 con uno stallone all'estero e un cesareo. Un prezzo molto basso quasi sempre significa che manca qualcosa: i test, il pedigree, o cuccioli separati dalla madre prima dei 60 giorni previsti dalla legge italiana.
 
 La risposta breve: **non esiste un listino, ed è giusto così**. Quello che puoi valutare è cosa c’è dentro il prezzo, quando acquisti da un allevatore serio con pedigree ENCI, test genetici e tutte le garanzie.
 
 Se ti capita di trovare cuccioli di Staffordshire Bull Terrier a poche centinaia di euro, fermati. Stai per fare un errore che potrebbe costarti molto di più in veterinari, problemi comportamentali e cuore spezzato.
 
-In questo articolo ti spiego esattamente cosa include quel prezzo, perché i cuccioli "economici" sono un rischio e come distinguere un allevatore serio da un cagnaro. Se non sai ancora da dove iniziare, leggi prima <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento Staffordshire Bull Terrier">come scegliere un allevamento Staffordshire Bull Terrier</a>.
+In questo articolo ti spiego esattamente cosa include quel prezzo, quanto spendiamo noi per una cucciolata con le cifre vere, perché i cuccioli "economici" sono un rischio e come distinguere un allevatore serio da un cagnaro. Se non sai ancora da dove iniziare, leggi prima <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento Staffordshire Bull Terrier">come scegliere un allevamento Staffordshire Bull Terrier</a>.
 
 ## Cosa include il prezzo di un cucciolo serio
 
@@ -56,11 +56,83 @@ Quando acquisti da un allevatore responsabile, il prezzo include:
 
 Questi non sono optional. Sono il minimo che un allevatore serio deve garantire.
 
+## Quanto costa una cucciolata a noi, voce per voce {#costi-cucciolata}
+
+Di solito si parla del prezzo del cucciolo. Qui parliamo dell'altro lato: **quanto spende un allevatore prima che il cucciolo esista**. Sono le nostre cifre reali, quelle che paghiamo davvero.
+
+### Prima dell'accoppiamento
+
+| Voce | Costo |
+|---|---|
+| Tampone vaginale con esame colturale | 40 € |
+| Dosaggi del progesterone, minimo quattro | 40 € l'uno, **160 €** |
+| Viaggi dal veterinario, 40 km a tratta | variabile, un viaggio per ogni dosaggio |
+| Sverminazione preventiva della femmina, Milbemax | 29,20 € |
+
+I dosaggi del progesterone servono a individuare il giorno giusto: senza, si accoppia a caso e si perde una stagione. Quattro sono il minimo, spesso servono di più.
+
+### Il maschio
+
+Quando lo stallone non è in allevamento — e nel nostro caso non lo è mai, per le ragioni spiegate nella guida sui [genitori visibili](/genitori-visibili-cosa-significa/) — si pagano i **diritti di monta**.
+
+Vanno da **700 €** per un maschio giovane e magari non titolato, fino a **1.600 €**, che è quanto ci è stato chiesto da un Giovane Campione del Mondo in Ungheria, un Elitebull.
+
+A questo si aggiunge il viaggio, che cambia con la distanza, e spesso un **pernottamento in albergo**: le monte si fanno due, a distanza di quarantotto ore, e non si torna a casa in mezzo.
+
+### La gravidanza
+
+| Voce | Costo |
+|---|---|
+| Ecografia a 25 giorni dalla seconda monta | 35-40 € |
+| Ecografia e radiografia una settimana prima del parto | 50-80 € |
+| Crocchette per cuccioli, per la femmina | 60 € ogni 12 kg |
+
+L'ecografia dice se è gravida. La radiografia finale, quando i crani sono calcificati, dice **quanti cuccioli** ci sono: serve durante il parto per sapere quando è finito, e l'ecografia dello stesso giorno segnala eventuali cuccioli in sofferenza.
+
+Le crocchette per cuccioli costano parecchio più di quelle di mantenimento, e una femmina che allatta ne mangia molte.
+
+### Il parto
+
+Un parto naturale non costa niente, a parte l'**ossitocina** se serve, circa 30 €.
+
+Un **cesareo** costa fra i **500 e gli 800 €**, e la cifra dipende dal giorno e dall'ora: di notte o di domenica sta in cima alla forchetta. Non si sceglie: o serve o non serve.
+
+### Dopo la nascita
+
+| Voce | Costo |
+|---|---|
+| Milbemax per la femmina | 29,20 € |
+| Milbemax per i cuccioli, quattro confezioni per otto cuccioli | 63,60 € |
+| Panacur per i cuccioli, ciclo di sei giorni | **147,57 €**, tre confezioni da dieci compresse: la voce più cara del gruppo |
+| Iscrizione cucciolata ENCI, modello A | 60 € |
+| Modello B, per ogni cucciolo | 25 € |
+
+Le sverminazioni si ripetono più volte, e il costo cresce con il numero dei cuccioli. A questo si aggiungono l'esame delle feci in laboratorio, le prime vaccinazioni, il microchip e le visite veterinarie di controllo.
+
+<figure style="margin:1.5rem auto;max-width:560px;text-align:center">
+<img src="/images/blog/scontrino-farmaci-cucciolata.webp" alt="Scontrino della farmacia con i farmaci veterinari della cucciolata, settembre 2026: tre confezioni di Panacur e quattro di Milbemax per i cuccioli, una di Milbemax per la madre" width="855" height="900" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:8px">
+<figcaption style="font-size:.9rem;margin-top:.5rem">Lo scontrino della farmacia del 22 settembre 2026, farmaci veterinari per la cucciolata. Le tre righe sono il Panacur per i cuccioli (3 × 49,19 €), il Milbemax per gli otto cuccioli (4 × 15,90 €) e il Milbemax per la madre (29,20 €). <a href="/docs/scontrino-farmaci-cucciolata-22-09-2026.pdf" target="_blank" rel="noopener" aria-label="Scontrino completo in PDF (si apre in una nuova scheda)">Lo scontrino completo in PDF</a>, con il codice fiscale coperto.</figcaption>
+</figure>
+
+### Il totale
+
+Per una cucciolata di sei cuccioli, senza complicazioni e con uno stallone giovane:
+
+**intorno ai 2.000 €**, prima di vaccinazioni, microchip ed esami di laboratorio.
+
+Con un maschio di alto livello, il viaggio all'estero e un cesareo:
+
+**si superano i 4.000 €**.
+
+E in questo conto non ci sono i **test genetici dei riproduttori**, che si pagano una volta per cane — circa 400 € a riproduttore fra prelievo, laboratorio e visita oftalmologica — né il tempo: le notti sul divano accanto alla cassa parto, le pesate quotidiane, i viaggi.
+
+Questi numeri non servono a giustificare un prezzo. Servono a far capire perché **una cucciolata venduta a poche centinaia di euro a cucciolo non può avere dietro niente di tutto questo.**
+
 ## Perché i cuccioli economici costano di più
 
 Facciamo due conti.
 
-Un cucciolo venduto a poche centinaia di euro significa che l'allevatore ha speso ancora meno per produrlo. Come è possibile?
+Una cucciolata fatta come si deve, lo abbiamo visto sopra voce per voce, costa circa 2.000 euro: con sei cuccioli sono più di 330 euro a cucciolo, prima di vaccinazioni, microchip ed esami. Con uno stallone all'estero e un cesareo si passano i 650. Un cucciolo venduto a poche centinaia di euro è sotto il costo di una cucciolata seria. Come è possibile?
 
 **Tagliando su tutto:**
 - Niente test genetici (circa 400€ per cane fra laboratorio, prelievo e visita oculistica, quindi 800€ solo per i genitori)

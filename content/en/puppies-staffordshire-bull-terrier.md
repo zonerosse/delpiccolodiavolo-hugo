@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Puppies"
 titleSeo: "Staffordshire Bull Terrier Puppies, verifiable genetic tests"
-lastmod: 2026-09-12
+lastmod: 2026-09-27
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
 description: "Staffordshire Bull Terrier puppies in Ostellato, Italy. ENCI pedigree, parents tested for L2HGA and HC with the certificates published on this site."
@@ -128,7 +128,7 @@ custom_content: |
 
   <p>At that visit we take a <strong>vaginal swab for bacterial culture</strong>, to rule out organisms that would compromise the pregnancy, and worm her if needed.</p>
 
-  <p>Then the <strong>progesterone testing</strong> begins. This is not a hobbyist's detail: the fertile window cannot be guessed from the day the season started, and getting it wrong by 48 hours means no puppies. Blood is drawn at intervals until the value peaks, and that is the day.</p>
+  <p>Then the <strong>progesterone testing</strong> begins. This is not a hobbyist's detail: the fertile window cannot be guessed from the day the season started, and getting it wrong by 48 hours means no puppies. Blood is drawn at intervals until the value peaks, and that is the day. Each test costs 40 euros and at least four are needed: this and every other expense is listed <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/#costi-cucciolata" title="What a litter costs us, item by item">in what a litter costs us, item by item</a>.</p>
 
   <h3>The mating</h3>
 

@@ -110,7 +110,7 @@ custom_content: |
   
   <h2>La terapia in corso</h2>
   
-  <p>Un esame negativo non chiude il programma: lo conferma. La cucciolata sta completando un ciclo di <strong>fenbendazolo per 6 giorni consecutivi</strong>, seguito da un trattamento con <strong>milbemicina ossima e praziquantel</strong> qualche giorno prima della prima vaccinazione.</p>
+  <p>Un esame negativo non chiude il programma: lo conferma. La cucciolata sta completando un ciclo di <strong>fenbendazolo per 6 giorni consecutivi</strong>, seguito da un trattamento con <strong>milbemicina ossima e praziquantel</strong> qualche giorno prima della prima vaccinazione. Quanto costa un ciclo cos&igrave;, con lo scontrino della farmacia, &egrave; nella guida su <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/#costi-cucciolata" title="Quanto costa una cucciolata, voce per voce">quanto ci costa una cucciolata, voce per voce</a>.</p>
   
   <p>I due prodotti non si sovrappongono, si completano. Il fenbendazolo copre ascaridi, anchilostomi, tricocefali e agisce sulla Giardia, ed è per questo che si somministra per giorni consecutivi e non in dose singola. Il secondo aggiunge il praziquantel, l'unica molecola realmente efficace contro le tenie, <em>Dipylidium</em> compreso.</p>
   

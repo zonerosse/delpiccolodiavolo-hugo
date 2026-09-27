@@ -85,7 +85,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="Read: How Much Does a Staffordshire Bull Terrier Puppy Cost"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier puppies: what a puppy really costs" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="Read: How Much Does a Staffordshire Bull Terrier Puppy Cost"><div class="blog-card-thumb"><img src="/images/blog/scontrino-farmaci-cucciolata.webp" alt="Pharmacy receipt for the veterinary medicines of a litter" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">25 Jan 2026</span><span>•</span><span class="cat">Puppies</span></div>
   <h3><a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="Read: How Much Does a Staffordshire Bull Terrier Puppy Cost">How Much Does a Staffordshire Bull Terrier Puppy Cost</a></h3>

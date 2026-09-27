@@ -1,7 +1,7 @@
 ---
 title: "Welpen Staffordshire Bull Terrier"
 titleSeo: "Staffordshire Bull Terrier Welpen mit überprüfbaren Gentests"
-lastmod: 2026-09-12
+lastmod: 2026-09-27
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
 description: "Staffordshire Bull Terrier Welpen in Ostellato (FE). ENCI-Ahnentafel, Eltern auf L2HGA und HC getestet, Befunde auf der Website veröffentlicht."
@@ -128,7 +128,7 @@ custom_content: |
 
   <p>Dabei wird ein <strong>Vaginaltupfer mit bakteriologischer Kultur</strong> genommen, um Keime auszuschlie&szlig;en, die die Tr&auml;chtigkeit gef&auml;hrden w&uuml;rden, und bei Bedarf entwurmt.</p>
 
-  <p>Dann beginnen die <strong>Progesteronbestimmungen</strong>. Das ist keine Spielerei: der fruchtbare Zeitpunkt l&auml;sst sich nicht am Tag des L&auml;ufigkeitsbeginns ablesen, und 48 Stunden daneben bedeuten keine Welpen. Es wird in Abst&auml;nden Blut genommen, bis der Wert seinen H&ouml;hepunkt erreicht &mdash; das ist der Tag.</p>
+  <p>Dann beginnen die <strong>Progesteronbestimmungen</strong>. Das ist keine Spielerei: der fruchtbare Zeitpunkt l&auml;sst sich nicht am Tag des L&auml;ufigkeitsbeginns ablesen, und 48 Stunden daneben bedeuten keine Welpen. Es wird in Abst&auml;nden Blut genommen, bis der Wert seinen H&ouml;hepunkt erreicht &mdash; das ist der Tag. Jede Bestimmung kostet 40 Euro, und es braucht mindestens vier: diese und alle anderen Ausgaben stehen <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/#costi-cucciolata" title="Was uns ein Wurf kostet, Posten für Posten">in den Kosten eines Wurfs, Posten für Posten</a>.</p>
 
   <h3>Der Deckakt</h3>
 

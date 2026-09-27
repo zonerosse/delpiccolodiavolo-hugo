@@ -2,7 +2,7 @@
 title: "Genitori visibili: cosa significa davvero"
 titleSeo: "Genitori visibili: cosa significa davvero"
 date: 2026-09-26
-lastmod: 2026-09-26
+lastmod: 2026-09-27
 translationKey: "genitori-visibili"
 articolo: true
 image: "/images/blog/genitori-visibili-hero.webp"
@@ -43,7 +43,7 @@ custom_content: |
 
   <p>Quando si pianifica un accoppiamento non si sceglie il cane pi&ugrave; comodo: si cerca il soggetto che corregge quello che manca alla femmina. Si guardano i test genetici, il coefficiente di consanguineit&agrave; teorico della cucciolata, la compatibilit&agrave; fenotipica &mdash; struttura, testa, movimento. E i soggetti che rispondono a quei requisiti, nel panorama internazionale della razza, <strong>si contano</strong>. Sono pochi, e stanno a chilometri di distanza.</p>
 
-  <p>La verit&agrave; che nessun annuncio scrive &egrave; questa: per costruire qualcosa negli anni, nel novanta per cento dei casi devi andare fuori.</p>
+  <p>La verit&agrave; che nessun annuncio scrive &egrave; questa: per costruire qualcosa negli anni, nel novanta per cento dei casi devi andare fuori. E andare fuori ha un prezzo preciso, fra diritti di monta, viaggio e albergo: lo trovi <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/#costi-cucciolata" title="Quanto costa una cucciolata, voce per voce">nei costi di una cucciolata, voce per voce</a>.</p>
 
   <h2>Il maschio in casa: il conto che non torna</h2>
 

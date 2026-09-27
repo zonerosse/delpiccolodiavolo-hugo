@@ -98,7 +98,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Leggi: Quanto Costa un Cucciolo"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-1.webp" alt="Quanto Costa un Cucciolo di Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Leggi: Quanto Costa un Cucciolo"><div class="blog-card-thumb"><img src="/images/blog/scontrino-farmaci-cucciolata.webp" alt="Scontrino della farmacia con i farmaci veterinari di una cucciolata" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">25 Gen 2026</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Leggi: Quanto Costa un Cucciolo">Quanto Costa un Cucciolo di Staffordshire Bull Terrier nel 2026</a></h3>

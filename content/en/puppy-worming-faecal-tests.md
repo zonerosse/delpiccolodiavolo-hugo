@@ -110,7 +110,7 @@ custom_content: |
   
   <h2>The treatment under way</h2>
   
-  <p>A negative test does not close the programme: it confirms it. The litter is completing a course of <strong>fenbendazole over 6 consecutive days</strong>, followed by a treatment with <strong>milbemycin oxime and praziquantel</strong> a few days before the first vaccination.</p>
+  <p>A negative test does not close the programme: it confirms it. The litter is completing a course of <strong>fenbendazole over 6 consecutive days</strong>, followed by a treatment with <strong>milbemycin oxime and praziquantel</strong> a few days before the first vaccination. What a course like this costs, with the pharmacy receipt, is in the guide to <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/#costi-cucciolata" title="What a litter costs us, item by item">what a litter costs us, item by item</a>.</p>
   
   <p>The two products do not overlap, they complement each other. Fenbendazole covers roundworms, hookworms, whipworms and acts on Giardia, which is why it is given over consecutive days rather than as a single dose. The second adds praziquantel, the only molecule genuinely effective against tapeworms, <em>Dipylidium</em> included.</p>
   

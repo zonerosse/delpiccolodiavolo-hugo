@@ -1,22 +1,24 @@
 ---
 title: "Was kostet ein Staffordshire Bull Terrier Welpe 2026"
-lastmod: 2026-09-26
+lastmod: 2026-09-27
 articolo: true
-image: "/images/blog/cuccioli-1.webp"
+image: "/images/blog/scontrino-farmaci-cucciolata.webp"
 titleSeo: "Was kostet ein Staffordshire Bull Terrier Welpe"
 translationKey: "quanto-costa"
-description: "Was ein Staffordshire Bull Terrier Welpe mit ENCI-Ahnentafel wirklich kostet: was im Preis enthalten ist und warum Schnäppchenangebote ein Warnsignal sind."
+description: "Was ein Staffordshire Bull Terrier Welpe mit ENCI-Ahnentafel kostet, was der Preis umfasst und was ein Züchter für einen Wurf wirklich ausgibt, Posten für Posten."
 slug: "was-kostet-ein-staffordshire-bull-terrier-welpe"
 date: 2026-01-25
 ---
 
 <h1>Was kostet ein Staffordshire Bull Terrier Welpe 2026</h1>
 
+Der Preis eines Staffordshire Bull Terrier Welpen mit ENCI-Ahnentafel ist kein Listenpreis: Er ist die Summe von Kosten, die entstehen, bevor der Welpe geboren wird. Die Gentests der beiden Zuchthunde auf L2HGA, HC und PHPV werden einmal pro Hund bezahlt und gelten für das ganze Zuchtleben. Die Eintragung des Wurfs ins ENCI-Zuchtbuch hat öffentliche Gebühren, für alle gleich. Dazu kommen die tierärztlichen Kontrollen während der Trächtigkeit, der Ultraschall um den fünfundzwanzigsten Tag, das Röntgenbild vor der Geburt, die ersten Impfungen, die Entwurmungen und der Mikrochip. In der Zucht Del Piccolo Diavolo in Ostellato, Italien, kostet ein Wurf mit sechs Welpen rund 2.000 Euro vor Impfungen und Mikrochip, und über 4.000 mit einem Deckrüden im Ausland und einem Kaiserschnitt. Ein sehr niedriger Preis bedeutet fast immer, dass etwas fehlt: die Tests, die Ahnentafel oder Welpen, die vor den gesetzlich vorgeschriebenen 60 Tagen von der Mutter getrennt wurden.
+
 Die kurze Antwort: **es gibt keine Preisliste, und das ist auch richtig so**. Beurteilen lässt sich, was im Preis steckt, wenn Sie bei einer seriösen Zucht mit ENCI-Ahnentafel, Gentests und vollständigen Garantien kaufen.
 
 Wenn Ihnen Staffordshire Bull Terrier Welpen für wenige hundert Euro angeboten werden, halten Sie inne. Sie sind dabei, einen Fehler zu machen, der Sie später weit mehr kosten kann — an Tierarztrechnungen, Verhaltensproblemen und Enttäuschung.
 
-Dieser Beitrag erklärt genau, was in diesem Preis enthalten ist, warum billige Welpen ein Risiko sind und woran Sie eine seriöse Zucht von einem Vermehrer unterscheiden. Wenn Sie noch nicht wissen, wo Sie anfangen sollen, lesen Sie zuerst <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie wählt man eine Staffordshire Bull Terrier Zucht">wie man eine Staffordshire Bull Terrier Zucht auswählt</a>.
+Dieser Beitrag erklärt genau, was in diesem Preis enthalten ist, was uns ein Wurf mit echten Zahlen kostet, warum billige Welpen ein Risiko sind und woran Sie eine seriöse Zucht von einem Vermehrer unterscheiden. Wenn Sie noch nicht wissen, wo Sie anfangen sollen, lesen Sie zuerst <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie wählt man eine Staffordshire Bull Terrier Zucht">wie man eine Staffordshire Bull Terrier Zucht auswählt</a>.
 
 ## Was im Preis eines gut aufgezogenen Welpen enthalten ist
 
@@ -41,11 +43,83 @@ Beim Kauf von einer verantwortungsvollen Zucht sind enthalten:
 
 Nichts davon ist optional. Es ist das Minimum, das eine seriöse Zucht garantieren muss.
 
+## Was uns ein Wurf kostet, Posten für Posten {#costi-cucciolata}
+
+Meist spricht man über den Preis des Welpen. Hier geht es um die andere Seite: **was ein Züchter ausgibt, bevor es den Welpen überhaupt gibt**. Das sind unsere echten Zahlen, die wir tatsächlich bezahlen.
+
+### Vor der Verpaarung
+
+| Posten | Kosten |
+|---|---|
+| Vaginalabstrich mit Kultur | 40 € |
+| Progesteronbestimmungen, mindestens vier | je 40 €, **160 €** |
+| Fahrten zum Tierarzt, 40 km pro Strecke | variabel, eine Fahrt pro Bestimmung |
+| Vorbeugende Entwurmung der Hündin, Milbemax | 29,20 € |
+
+Die Progesteronbestimmungen zeigen den richtigen Tag: Ohne sie deckt man aufs Geratewohl und verliert eine Läufigkeit. Vier sind das Minimum, oft braucht es mehr.
+
+### Der Rüde
+
+Wenn der Deckrüde nicht in der Zucht lebt — und bei uns ist das nie der Fall, aus den Gründen, die im Ratgeber über [Eltern vor Ort](/de/eltern-vor-ort-was-das-bedeutet/) erklärt sind —, zahlt man eine **Decktaxe**.
+
+Sie reicht von **700 €** für einen jungen, vielleicht noch titellosen Rüden bis zu **1.600 €**, so viel wurde von uns für einen Junior-Weltsieger in Ungarn verlangt, einen Elitebull-Rüden.
+
+Dazu kommt die Reise, die je nach Entfernung kostet, und oft eine **Übernachtung im Hotel**: Man deckt zweimal im Abstand von achtundvierzig Stunden, und dazwischen fährt man nicht nach Hause.
+
+### Die Trächtigkeit
+
+| Posten | Kosten |
+|---|---|
+| Ultraschall 25 Tage nach dem zweiten Deckakt | 35-40 € |
+| Ultraschall und Röntgen eine Woche vor der Geburt | 50-80 € |
+| Welpentrockenfutter für die Hündin | 60 € pro 12 kg |
+
+Der Ultraschall zeigt, ob sie trächtig ist. Das Röntgenbild am Ende, wenn die Schädel verkalkt sind, zeigt, **wie viele Welpen** es sind: Während der Geburt weiß man so, wann sie vorbei ist, und der Ultraschall am selben Tag zeigt, ob ein Welpe in Not ist.
+
+Welpenfutter kostet deutlich mehr als Erhaltungsfutter, und eine säugende Hündin frisst viel davon.
+
+### Die Geburt
+
+Eine natürliche Geburt kostet nichts, abgesehen vom **Oxytocin**, falls es gebraucht wird, etwa 30 €.
+
+Ein **Kaiserschnitt** kostet zwischen **500 und 800 €**, je nach Tag und Uhrzeit: Nachts oder am Sonntag liegt er am oberen Ende. Man wählt ihn nicht: Entweder er ist nötig oder nicht.
+
+### Nach der Geburt
+
+| Posten | Kosten |
+|---|---|
+| Milbemax für die Hündin | 29,20 € |
+| Milbemax für die Welpen, vier Packungen für acht Welpen | 63,60 € |
+| Panacur für die Welpen, sechstägige Behandlung | **147,57 €**, drei Packungen zu zehn Tabletten: der teuerste Posten der Gruppe |
+| ENCI-Wurfmeldung, Formular A | 60 € |
+| Formular B, pro Welpe | 25 € |
+
+Die Entwurmungen werden mehrmals wiederholt, und die Kosten steigen mit der Zahl der Welpen. Dazu kommen die Kotuntersuchung im Labor, die ersten Impfungen, der Mikrochip und die tierärztlichen Kontrollen.
+
+<figure style="margin:1.5rem auto;max-width:560px;text-align:center">
+<img src="/images/blog/scontrino-farmaci-cucciolata.webp" alt="Apothekenbeleg für die Tierarzneimittel des Wurfs, September 2026: drei Packungen Panacur und vier Packungen Milbemax für die Welpen, eine Packung Milbemax für die Mutter" width="855" height="900" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:8px">
+<figcaption style="font-size:.9rem;margin-top:.5rem">Der Apothekenbeleg vom 22. September 2026, Tierarzneimittel für den Wurf. Die drei Zeilen sind Panacur für die Welpen (3 × 49,19 €), Milbemax für die acht Welpen (4 × 15,90 €) und Milbemax für die Mutter (29,20 €). <a href="/docs/scontrino-farmaci-cucciolata-22-09-2026.pdf" target="_blank" rel="noopener" aria-label="Vollständiger Beleg als PDF (wird in einem neuen Tab geöffnet)">Der vollständige Beleg als PDF</a>, mit abgedeckter Steuernummer.</figcaption>
+</figure>
+
+### Die Summe
+
+Für einen Wurf mit sechs Welpen, ohne Komplikationen und mit einem jungen Deckrüden:
+
+**rund 2.000 €**, vor Impfungen, Mikrochips und Laboruntersuchungen.
+
+Mit einem Spitzenrüden, der Reise ins Ausland und einem Kaiserschnitt:
+
+**deutlich über 4.000 €**.
+
+Und in dieser Rechnung fehlen die **Gentests der Zuchthunde**, die einmal pro Hund bezahlt werden — rund 400 € pro Zuchthund für Probenahme, Labor und Augenuntersuchung —, und die Zeit: die Nächte auf dem Sofa neben der Wurfkiste, das tägliche Wiegen, die Fahrten.
+
+Diese Zahlen sollen keinen Preis rechtfertigen. Sie sollen zeigen, warum **hinter einem Wurf, der für ein paar hundert Euro pro Welpe verkauft wird, nichts von alledem stehen kann.**
+
 ## Warum billige Welpen teurer werden
 
 Rechnen wir kurz nach.
 
-Ein Welpe, der für wenige hundert Euro verkauft wird, bedeutet: die Zucht hat noch weniger für seine Aufzucht ausgegeben. Wie ist das möglich?
+Ein ordentlich geplanter Wurf kostet, wie oben Posten für Posten gezeigt, rund 2.000 Euro: Bei sechs Welpen sind das mehr als 330 Euro pro Welpe, vor Impfungen, Mikrochip und Untersuchungen. Mit einem Deckrüden im Ausland und einem Kaiserschnitt sind es über 650. Ein Welpe für wenige hundert Euro liegt also unter den Kosten eines seriösen Wurfs. Wie ist das möglich?
 
 **Indem an allem gespart wird:**
 - Keine Gentests (etwa 400 Euro pro Hund mit Blutentnahme und Augenuntersuchung, also 800 allein für die Eltern)

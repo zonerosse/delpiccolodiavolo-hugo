@@ -43,7 +43,7 @@ custom_content: |
 
   <p>Bei der Planung einer Verpaarung wählt man nicht den bequemsten Hund, sondern den, der ausgleicht, was der Hündin fehlt. Man prüft die Gentests, den theoretischen Inzuchtkoeffizienten des Wurfs, die strukturelle Passung &mdash; Bau, Kopf, Bewegung. Und die Hunde, die diesen Anforderungen international genügen, <strong>kann man zählen</strong>. Es sind wenige, und sie leben weit weg.</p>
 
-  <p>Die Wahrheit, die keine Anzeige schreibt, lautet: um über Jahre etwas aufzubauen, muss man in neun von zehn Fällen nach außen gehen.</p>
+  <p>Die Wahrheit, die keine Anzeige schreibt, lautet: um über Jahre etwas aufzubauen, muss man in neun von zehn Fällen nach außen gehen. Und nach außen zu gehen hat einen genauen Preis, zwischen Decktaxe, Reise und Hotel: er steht <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/#costi-cucciolata" title="Was uns ein Wurf kostet, Posten für Posten">in den Kosten eines Wurfs, Posten für Posten</a>.</p>
 
   <h2>Der Rüde im eigenen Haus: die Rechnung geht nicht auf</h2>
 

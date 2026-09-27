@@ -43,7 +43,7 @@ custom_content: |
 
   <p>When a mating is planned you do not choose the most convenient dog: you look for the one that corrects what the bitch lacks. You look at the genetic tests, at the theoretical inbreeding coefficient of the litter, at structural compatibility &mdash; build, head, movement. And the dogs that meet those requirements, across the breed internationally, <strong>can be counted</strong>. There are few of them, and they are far away.</p>
 
-  <p>The truth no advert prints is this: to build something over the years, in nine cases out of ten you have to go outside.</p>
+  <p>The truth no advert prints is this: to build something over the years, in nine cases out of ten you have to go outside. And going outside has a precise price, between stud fee, travel and hotel: it is set out <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/#costi-cucciolata" title="What a litter costs us, item by item">in what a litter costs us, item by item</a>.</p>
 
   <h2>The stud at home: the arithmetic that does not add up</h2>
 
