@@ -1,7 +1,7 @@
 ---
 title: "Parasitenvorbeugung für Staffordshire Bull Terrier"
 date: 2025-01-20
-lastmod: 2026-09-12
+lastmod: 2026-09-27
 translationKey: "parassiti"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -49,7 +49,7 @@ custom_content: |
   <p>Zum Entfernen eine Zeckenzange oder feine Pinzette möglichst hautnah ansetzen und mit gleichmäßigem, drehendem Zug herausziehen. Kein Öl, kein Alkohol, keine Flamme: eine gestresste Zecke gibt Mageninhalt ab, und genau so werden Erreger übertragen. Notieren Sie das Datum und achten Sie 3 Wochen lang auf Fieber, Mattigkeit oder dunklen Urin.</p>
 
   <h2>Darmwürmer</h2>
-  <p>Spulwürmer, Hakenwürmer, Peitschenwürmer und Bandwürmer bilden die übliche Gruppe. Welpen tragen Spulwürmer praktisch von der Mutter mit und müssen nach festem Schema entwurmt werden: alle 2 Wochen ab der zweiten Lebenswoche bis zur zwölften, danach monatlich bis zum sechsten Monat. Der erste Teil liegt in der Verantwortung des Züchters, der zweite bei Ihnen, und die Daten gehören in das Gesundheitsheft.</p>
+  <p>Spulwürmer, Hakenwürmer, Peitschenwürmer und Bandwürmer bilden die übliche Gruppe. Welpen tragen Spulwürmer praktisch von der Mutter mit und müssen nach festem Schema entwurmt werden: alle 2 Wochen ab der zweiten Lebenswoche bis zur zwölften, danach monatlich bis zum sechsten Monat &mdash; das Schema wird mit einer <a href="/de/welpen-entwurmung-kotuntersuchung/" title="Entwurmung und Kotuntersuchung">Kotuntersuchung</a> überprüft. Der erste Teil liegt in der Verantwortung des Züchters, der zweite bei Ihnen, und die Daten gehören in das Gesundheitsheft.</p>
   <p>Erwachsene Hunde werden üblicherweise vierteljährlich behandelt, häufiger, wenn sie jagen, aasen oder mit kleinen Kindern zusammenleben. Der Bandwurm wird durch das Verschlucken von Flöhen übertragen — ein weiterer Grund, beide Probleme gemeinsam anzugehen.</p>
   <p>Anzeichen eines Befalls: stumpfes Fell, aufgetriebener Bauch bei Welpen, Gewichtsverlust trotz gutem Appetit, sichtbare reiskornartige Glieder am After und Schlittenfahren, das häufiger von den Analdrüsen kommt, aber abgeklärt gehört.</p>
 

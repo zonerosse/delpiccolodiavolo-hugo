@@ -1,7 +1,7 @@
 ---
 title: "Parassiti: Prevenzione e Controllo Staffordshire Bull Terrier"
 date: 2025-01-20
-lastmod: 2026-09-20
+lastmod: 2026-09-27
 titleSeo: "Parassiti nello Staffordshire Bull Terrier: prevenzione"
 translationKey: "parassiti"
 articolo: true
@@ -245,7 +245,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Quando iniziare la prevenzione antiparassitaria nei cuccioli?</h3>
-  <div class="faq-answer">Le sverminazioni cominciano molto presto, gi&agrave; dalle due settimane di vita, perch&eacute; molti cuccioli nascono con vermi trasmessi dalla madre: si ripetono ogni due settimane fino allo svezzamento e poi mensilmente fino ai sei mesi. Per i parassiti esterni &mdash; pulci e zecche &mdash; si parte di solito <strong>dalle otto settimane</strong>, ma il prodotto dipende dal peso e dall'et&agrave;, e alcuni principi attivi hanno limiti precisi sotto una certa soglia. La regola &egrave; che il primo trattamento lo decide il veterinario, non lo scaffale del supermercato. Un cucciolo che arriva da un allevamento serio dovrebbe gi&agrave; avere il libretto con le date delle sverminazioni fatte: da l&igrave; si prosegue senza interrompere, perch&eacute; un buco di qualche settimana &egrave; sufficiente a far ripartire un'infestazione.</div>
+  <div class="faq-answer">Le sverminazioni cominciano molto presto, gi&agrave; dalle due settimane di vita, perch&eacute; molti cuccioli nascono con vermi trasmessi dalla madre: si ripetono ogni due settimane fino allo svezzamento e poi mensilmente fino ai sei mesi. Per i parassiti esterni &mdash; pulci e zecche &mdash; si parte di solito <strong>dalle otto settimane</strong>, ma il prodotto dipende dal peso e dall'et&agrave;, e alcuni principi attivi hanno limiti precisi sotto una certa soglia. La regola &egrave; che il primo trattamento lo decide il veterinario, non lo scaffale del supermercato. Un cucciolo che arriva da un allevamento serio dovrebbe gi&agrave; avere il libretto con le date delle sverminazioni fatte, e possibilmente il <a href="/cuccioli-sverminazione-esami-feci/" title="Sverminazione ed esami delle feci">referto dell'esame delle feci</a>: da l&igrave; si prosegue senza interrompere, perch&eacute; un buco di qualche settimana &egrave; sufficiente a far ripartire un'infestazione.</div>
   </div>
   
   <div class="faq-item">

@@ -1,7 +1,7 @@
 ---
 title: "Parasite Prevention for Staffordshire Bull Terrier"
 date: 2025-01-20
-lastmod: 2026-09-12
+lastmod: 2026-09-27
 translationKey: "parassiti"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -62,7 +62,7 @@ custom_content: |
   <p>Leishmaniasis, transmitted by sandflies, is endemic across the Mediterranean and expanding northwards. It is a serious, often lifelong disease. Prevention combines a repellent collar or spot-on with proven anti-feeding action, avoiding outdoor exposure at dusk and dawn during the season, and, where recommended by your veterinarian, vaccination. Any dog travelling to or from southern Italy should be protected before the journey rather than after.</p>
 
   <h2>A practical annual plan</h2>
-  <p>Monthly, all year: a combined product covering fleas and ticks, chosen with your veterinarian, plus heartworm prevention through the mosquito season. Every 3 months: intestinal worming, or more often for at-risk dogs. Weekly: a hands-on check of coat and skin, which takes 2 minutes and catches most problems early. Annually: a veterinary check that includes discussion of the local parasite picture, because it changes.</p>
+  <p>Monthly, all year: a combined product covering fleas and ticks, chosen with your veterinarian, plus heartworm prevention through the mosquito season. Every 3 months: intestinal worming, or more often for at-risk dogs &mdash; and in puppies the schedule is checked against a <a href="/en/puppy-worming-faecal-tests/" title="Worming and faecal tests">faecal examination</a>. Weekly: a hands-on check of coat and skin, which takes 2 minutes and catches most problems early. Annually: a veterinary check that includes discussion of the local parasite picture, because it changes.</p>
   <p>One caution on products: never use a preparation formulated for cats on a dog or the reverse, and never use permethrin-based products in a household with cats. And be sceptical of natural alternatives such as garlic or essential oils. Garlic is toxic to dogs, several essential oils are also toxic, and none of them prevent babesiosis.</p>
 
   <h2>Frequently asked questions</h2>

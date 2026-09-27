@@ -1,7 +1,7 @@
 ---
 title: "Blog Staffordshire Bull Terrier"
 titleSeo: "Guide sullo Staffordshire Bull Terrier: salute e cuccioli"
-lastmod: 2026-09-26
+lastmod: 2026-09-27
 tipoPagina: "CollectionPage"
 translationKey: "blog"
 description: "Articoli su cuccioli, salute, standard e convivenza dello Staffordshire Bull Terrier. Consigli pratici dall'allevamento."
@@ -55,9 +55,18 @@ custom_content: |
   <section class="section" id="cuccioli" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
-  <h2 class="section-title">Cuccioli <span class="count">(12)</span></h2>
+  <h2 class="section-title">Cuccioli <span class="count">(13)</span></h2>
 
   <div class="blog-grid">
+  <article class="blog-card">
+  <a href="/cuccioli-sverminazione-esami-feci/" title="Leggi: Sverminazione ed esami delle feci"><div class="blog-card-thumb"><img src="/images/blog/esame-feci-microscopio-400w.webp" alt="Sverminazione dei cuccioli di Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="188" sizes="(max-width: 300px) 100vw, 300px"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">27 Set 2026</span><span>&bull;</span><span class="cat">Cuccioli</span></div>
+  <h3><a href="/cuccioli-sverminazione-esami-feci/" title="Leggi: Sverminazione ed esami delle feci">Sverminazione: protocollo ed esami delle feci</a></h3>
+  <p>Il calendario, i referti della cucciolata pubblicati per intero e la terapia in corso.</p>
+  <a class="read" href="/cuccioli-sverminazione-esami-feci/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Sverminazione ed esami delle feci">Leggi &rarr;</a>
+  </div>
+  </article>
   <article class="blog-card">
   <a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Leggi: Cuccioli socializzati, cosa vuol dire davvero"><div class="blog-card-thumb"><img src="/images/blog/socializzazione-cortile-hero.webp" alt="Cucciolo di Staffordshire Bull Terrier nell'erba del cortile" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">

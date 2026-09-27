@@ -2,7 +2,7 @@
 title: "Welpen: Erste Impfungen"
 date: 2025-06-10
 titleSeo: "Erste Impfungen des Welpen: Plan und Auffrischung"
-lastmod: 2026-09-12
+lastmod: 2026-09-27
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/salute.webp"
@@ -67,7 +67,7 @@ custom_content: |
   <p>Zu meiden: öffentliche Parks und Hundewiesen, Gehwege, auf denen viele fremde Hunde markieren, der Boden im Wartezimmer und Kontakt mit Hunden unbekannten Impfstatus.</p>
 
   <h2>Entwurmung parallel zur Impfung</h2>
-  <p>Beide Pläne laufen nebeneinander und werden oft verwechselt. Welpen werden alle 2 Wochen ab der zweiten Lebenswoche bis zur zwölften entwurmt, danach monatlich bis zum sechsten Monat, als Erwachsene vierteljährlich. Der Züchter übernimmt den ersten Teil und sollte Ihnen die Daten schriftlich mitgeben.</p>
+  <p>Beide Pläne laufen nebeneinander und werden oft verwechselt &mdash; und die Entwurmung wirkt nur, wenn das Ergebnis mit einer <a href="/de/welpen-entwurmung-kotuntersuchung/" title="Entwurmung und Kotuntersuchung">Kotuntersuchung</a> überprüft wird. Welpen werden alle 2 Wochen ab der zweiten Lebenswoche bis zur zwölften entwurmt, danach monatlich bis zum sechsten Monat, als Erwachsene vierteljährlich. Der Züchter übernimmt den ersten Teil und sollte Ihnen die Daten schriftlich mitgeben.</p>
   <p>Ein Welpe mit erheblichem Wurmbefall reagiert schwächer auf die Impfung — deshalb möchten Tierärzte die Entwurmung vor der Injektion aktuell haben.</p>
 
   <h2>Das Impfbuch</h2>

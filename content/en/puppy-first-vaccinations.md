@@ -2,7 +2,7 @@
 title: "Puppies: First Vaccinations"
 date: 2025-06-10
 titleSeo: "Puppy first vaccinations: schedule and boosters"
-lastmod: 2026-09-12
+lastmod: 2026-09-27
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/salute.webp"
@@ -74,7 +74,7 @@ custom_content: |
   <p>To avoid: public parks and dog areas, pavements where many unknown dogs urinate, the floor of the veterinary waiting room, and contact with dogs of unknown vaccination status.</p>
 
   <h2>Worming alongside vaccination</h2>
-  <p>The two schedules run in parallel and are often confused. Puppies are wormed every 2 weeks from 2 weeks of age until 12 weeks, then monthly until 6 months, then every 3 months as adults. The breeder handles the first part and should give you the dates in writing when you collect the puppy.</p>
+  <p>The two schedules run in parallel and are often confused &mdash; and worming only works if you check the result with a <a href="/en/puppy-worming-faecal-tests/" title="Worming and faecal tests">faecal test</a>. Puppies are wormed every 2 weeks from 2 weeks of age until 12 weeks, then monthly until 6 months, then every 3 months as adults. The breeder handles the first part and should give you the dates in writing when you collect the puppy.</p>
   <p>A puppy with a significant worm burden mounts a weaker response to vaccination, which is why veterinarians normally want the worming up to date before injecting.</p>
 
   <h2>The health record</h2>

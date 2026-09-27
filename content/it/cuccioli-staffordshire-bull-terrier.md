@@ -1,7 +1,7 @@
 ---
 title: "Cuccioli Staffordshire Bull Terrier"
 titleSeo: "Cuccioli Staffordshire Bull Terrier con test verificabili"
-lastmod: 2026-09-26
+lastmod: 2026-09-27
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
 description: "Cuccioli Staffordshire Bull Terrier a Ostellato (FE). Pedigree ENCI, genitori testati L2HGA e HC con i referti pubblicati sul sito, verificabili da chiunque."
@@ -101,7 +101,7 @@ custom_content: |
   <span class="section-label">Prima che nascano</span>
   <h2 class="section-title">Dal calore al parto: come nasce una cucciolata</h2>
 
-  <p>Una cucciolata di Staffordshire Bull Terrier a Del Piccolo Diavolo comincia molto prima del parto. Si parte dalla visita pre-calore e dal dosaggio del progesterone per individuare il momento dell'accoppiamento, si conferma la gravidanza con l'ecografia intorno al venticinquesimo giorno e si contano i cuccioli con una radiografia cinque-sette giorni prima del parto. I cuccioli nascono in casa e ci restano il primo mese, nella cassa parto, poi passano a un box con sfogo esterno e rientrano in casa a turno, due per volta. L'affido avviene dopo i 60 giorni previsti dalla legge italiana, con microchip, prime vaccinazioni, sverminazioni e pedigree ENCI. I genitori sono testati per L2HGA, HC e PHPV, e i referti sono pubblicati sul sito con il numero di microchip in chiaro.</p>
+  <p>Una cucciolata di Staffordshire Bull Terrier a Del Piccolo Diavolo comincia molto prima del parto. Si parte dalla visita pre-calore e dal dosaggio del progesterone per individuare il momento dell'accoppiamento, si conferma la gravidanza con l'ecografia intorno al venticinquesimo giorno e si contano i cuccioli con una radiografia cinque-sette giorni prima del parto. I cuccioli nascono in casa e ci restano il primo mese, nella cassa parto, poi passano a un box con sfogo esterno e rientrano in casa a turno, due per volta. L'affido avviene dopo i 60 giorni previsti dalla legge italiana, con microchip, prime vaccinazioni, <a href="/cuccioli-sverminazione-esami-feci/" title="Sverminazione ed esami delle feci">sverminazioni con esame delle feci</a> e pedigree ENCI. I genitori sono testati per L2HGA, HC e PHPV, e i referti sono pubblicati sul sito con il numero di microchip in chiaro.</p>
 
   <p>Di quello che succede dopo la nascita si parla molto. Di quello che succede prima, quasi mai &mdash; eppure &egrave; l&igrave; che si decide gran parte di come andr&agrave; una cucciolata.</p>
 
