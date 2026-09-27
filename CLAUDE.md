@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+> **Editorial criteria — how to write pages, articles and FAQ — are in
+> [`COME-SI-SCRIVE.md`](COME-SI-SCRIVE.md) (Italian). This file covers the
+> technical architecture only.**
+
 ## What this is
 
 Static site for delpiccolodiavolo.it (Staffordshire Bull Terrier kennel, Ostellato FE), built with **Hugo extended v0.152.2**. Trilingual: Italian (default, no URL prefix), English (`/en/`), German (`/de/`). No Node, no package.json, no test suite, no linter — Hugo is the whole toolchain.
