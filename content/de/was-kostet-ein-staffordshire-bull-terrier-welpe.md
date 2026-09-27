@@ -10,7 +10,28 @@ slug: "was-kostet-ein-staffordshire-bull-terrier-welpe"
 date: 2026-01-25
 ---
 
-<h1>Was kostet ein Staffordshire Bull Terrier Welpe 2026</h1>
+<section class="hero">
+<div class="hero-visual">
+<div class="hero-image">
+<img src="/images/blog/scontrino-farmaci-cucciolata.webp" alt="Apothekenbeleg für die Tierarzneimittel eines Wurfs: Panacur und Milbemax für die Welpen, Milbemax für die Mutter" width="855" height="900" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
+</div>
+</div>
+<div class="hero-content">
+<span class="hero-eyebrow">Welpen</span>
+<h1 class="hero-title">Was kostet ein <em>Staffordshire Bull Terrier</em> Welpe 2026</h1>
+<p class="hero-subtitle">Was der Preis umfasst, und was uns ein Wurf kostet, Posten für Posten</p>
+<div class="hero-meta">
+<span>&#9201;&#65039; 9 Min. Lesezeit</span>
+</div>
+</div>
+</section>
+
+<nav class="breadcrumb" aria-label="Breadcrumb">
+<a href="/de/" title="Startseite">Startseite</a> &rsaquo;
+<a href="/de/blog/" title="Blog">Blog</a> &rsaquo;
+<a aria-label="Welpen &mdash; Blog-Kategorie" href="/de/blog/#welpen" title="Artikel über Welpen">Welpen</a> &rsaquo;
+<span>Was ein Welpe kostet</span>
+</nav>
 
 Der Preis eines Staffordshire Bull Terrier Welpen mit ENCI-Ahnentafel ist kein Listenpreis: Er ist die Summe von Kosten, die entstehen, bevor der Welpe geboren wird. Die Gentests der beiden Zuchthunde auf L2HGA, HC und PHPV werden einmal pro Hund bezahlt und gelten für das ganze Zuchtleben. Die Eintragung des Wurfs ins ENCI-Zuchtbuch hat öffentliche Gebühren, für alle gleich. Dazu kommen die tierärztlichen Kontrollen während der Trächtigkeit, der Ultraschall um den fünfundzwanzigsten Tag, das Röntgenbild vor der Geburt, die ersten Impfungen, die Entwurmungen und der Mikrochip. In der Zucht Del Piccolo Diavolo in Ostellato, Italien, kostet ein Wurf mit sechs Welpen rund 2.000 Euro vor Impfungen und Mikrochip, und über 4.000 mit einem Deckrüden im Ausland und einem Kaiserschnitt. Ein sehr niedriger Preis bedeutet fast immer, dass etwas fehlt: die Tests, die Ahnentafel oder Welpen, die vor den gesetzlich vorgeschriebenen 60 Tagen von der Mutter getrennt wurden.
 
@@ -96,10 +117,7 @@ Ein **Kaiserschnitt** kostet zwischen **500 und 800 €**, je nach Tag und Uhrze
 
 Die Entwurmungen werden mehrmals wiederholt, und die Kosten steigen mit der Zahl der Welpen. Dazu kommen die Kotuntersuchung im Labor, die ersten Impfungen, der Mikrochip und die tierärztlichen Kontrollen.
 
-<figure style="margin:1.5rem auto;max-width:560px;text-align:center">
-<img src="/images/blog/scontrino-farmaci-cucciolata.webp" alt="Apothekenbeleg für die Tierarzneimittel des Wurfs, September 2026: drei Packungen Panacur und vier Packungen Milbemax für die Welpen, eine Packung Milbemax für die Mutter" width="855" height="900" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:8px">
-<figcaption style="font-size:.9rem;margin-top:.5rem">Der Apothekenbeleg vom 22. September 2026, Tierarzneimittel für den Wurf. Die drei Zeilen sind Panacur für die Welpen (3 × 49,19 €), Milbemax für die acht Welpen (4 × 15,90 €) und Milbemax für die Mutter (29,20 €). <a href="/docs/scontrino-farmaci-cucciolata-22-09-2026.pdf" target="_blank" rel="noopener" aria-label="Vollständiger Beleg als PDF (wird in einem neuen Tab geöffnet)">Der vollständige Beleg als PDF</a>, mit abgedeckter Steuernummer.</figcaption>
-</figure>
+Der Apothekenbeleg mit diesen drei Posten steht oben auf der Seite; <a href="/docs/scontrino-farmaci-cucciolata-22-09-2026.pdf" target="_blank" rel="noopener" aria-label="Vollständiger Beleg als PDF (wird in einem neuen Tab geöffnet)">der vollständige Beleg liegt als PDF vor</a>, mit abgedeckter Steuernummer.
 
 ### Die Summe
 

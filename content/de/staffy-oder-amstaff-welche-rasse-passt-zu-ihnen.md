@@ -1,6 +1,6 @@
 ---
 title: "Staffy oder Amstaff: Welche der beiden Rassen passt zu Ihnen"
-lastmod: 2026-09-26
+lastmod: 2026-09-27
 articolo: true
 image: "/images/blog/staffy-amstaff-hero.webp"
 titleSeo: "Staffy oder Amstaff: welche Rasse wählen"
@@ -22,6 +22,13 @@ date: 2026-01-18
 <p class="hero-subtitle">Dass es nicht derselbe Hund ist, wissen Sie bereits. Bleibt die schwierigere Frage: welcher soll es werden</p>
 </div>
 </section>
+
+<nav class="breadcrumb" aria-label="Breadcrumb">
+<a href="/de/" title="Startseite">Startseite</a> &rsaquo;
+<a href="/de/blog/" title="Blog">Blog</a> &rsaquo;
+<a aria-label="Standard und Blutlinien &mdash; Blog-Kategorie" href="/de/blog/#standard" title="Artikel über Standard und Blutlinien">Standard und Blutlinien</a> &rsaquo;
+<span>Staffy oder Amstaff</span>
+</nav>
 
 <section class="section">
 <div class="section-inner content-single">

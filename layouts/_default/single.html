@@ -17,21 +17,38 @@
   {{ if not .Params.noindex }}{{ $meta | safeHTML }}{{ end }}
 {{ else }}
   {{ $haH1 := findRE "<h1[ >]" .Content 1 }}
+  {{/* Gli articoli scritti in Markdown che hanno gia' nel testo la loro
+       testata (<section class="hero">) e il percorso Home > Blog > Categoria
+       non ricevono la testata generica: altrimenti la pagina mostrerebbe un
+       secondo percorso, sbagliato, sopra la foto. */}}
+  {{ $haTestata := findRE `<section class="hero"` .Content 1 }}
+  {{ if not $haTestata }}
   <div class="page-hero">
     {{ partial "breadcrumb.html" . }}
     {{ if not $haH1 }}<h1>{{ .Title }}</h1>
     {{ with .Description }}<p>{{ . }}</p>{{ end }}{{ end }}
   </div>
+  {{ end }}
 
+  {{/* Con la testata nel testo, testata e percorso restano fuori dal riquadro
+       del testo, a tutta larghezza come negli altri articoli: il contenuto
+       viene diviso alla chiusura del percorso (il primo </nav>). */}}
+  {{ $corpo := .Content }}
+  {{ if $haTestata }}
+    {{ $parti := split .Content "</nav>" }}
+    {{ printf "%s</nav>" (index $parti 0) | safeHTML }}
+    {{ $corpo = delimit (after 1 $parti) "</nav>" | safeHTML }}
+  {{ end }}
   <div class="article-content">
-    {{ .Content }}
+    {{ $corpo }}
     {{ if not .Params.noindex }}{{ $meta | safeHTML }}{{ end }}
   </div>
 
   <section class="cta-section">
-    <h2>{{ if eq .Site.Language.Lang "en" }}Need more info?{{ else }}Vuoi Info sui Cuccioli?{{ end }}</h2>
-    <p>{{ if eq .Site.Language.Lang "en" }}Contact us on WhatsApp for information about available litters.{{ else }}Chiamaci o scrivici su WhatsApp per informazioni sulle cucciolate disponibili.{{ end }}</p>
-    <a href="https://wa.me/{{ .Site.Params.whatsapp }}?text={{ T "whatsapp_text" | urlquery }}" class="btn" title="WhatsApp">{{ if eq .Site.Language.Lang "en" }}Contact us on WhatsApp{{ else }}Scrivici su WhatsApp{{ end }}</a>
+    {{ $l := .Site.Language.Lang }}
+    <h2>{{ if eq $l "en" }}Need more info?{{ else if eq $l "de" }}Mehr Informationen?{{ else }}Vuoi Info sui Cuccioli?{{ end }}</h2>
+    <p>{{ if eq $l "en" }}Contact us on WhatsApp for information about available litters.{{ else if eq $l "de" }}Schreiben Sie uns auf WhatsApp für Informationen zu verfügbaren Würfen.{{ else }}Chiamaci o scrivici su WhatsApp per informazioni sulle cucciolate disponibili.{{ end }}</p>
+    <a href="https://wa.me/{{ .Site.Params.whatsapp }}?text={{ T "whatsapp_text" | urlquery }}" class="btn" title="WhatsApp">{{ if eq $l "en" }}Contact us on WhatsApp{{ else if eq $l "de" }}Auf WhatsApp schreiben{{ else }}Scrivici su WhatsApp{{ end }}</a>
   </section>
 {{ end }}
 

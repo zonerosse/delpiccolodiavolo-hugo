@@ -1,6 +1,6 @@
 ---
 title: "Staffy or Amstaff: Which of the Two Breeds Suits You"
-lastmod: 2026-09-26
+lastmod: 2026-09-27
 articolo: true
 image: "/images/blog/staffy-amstaff-hero.webp"
 titleSeo: "Staffy or Amstaff: which breed to choose"
@@ -22,6 +22,13 @@ date: 2026-01-18
 <p class="hero-subtitle">You already know they are not the same dog. Now comes the harder question: which one to choose</p>
 </div>
 </section>
+
+<nav class="breadcrumb" aria-label="Breadcrumb">
+<a href="/en/" title="Home">Home</a> &rsaquo;
+<a href="/en/blog/" title="Blog">Blog</a> &rsaquo;
+<a aria-label="Standard and bloodlines &mdash; blog category" href="/en/blog/#standard" title="Standard and bloodline articles">Standard and bloodlines</a> &rsaquo;
+<span>Staffy or Amstaff</span>
+</nav>
 
 <section class="section">
 <div class="section-inner content-single">

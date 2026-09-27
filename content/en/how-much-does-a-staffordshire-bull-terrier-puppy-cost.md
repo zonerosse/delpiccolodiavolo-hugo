@@ -10,7 +10,28 @@ slug: "how-much-does-a-staffordshire-bull-terrier-puppy-cost"
 date: 2026-01-25
 ---
 
-<h1>How Much Does a Staffordshire Bull Terrier Puppy Cost in 2026</h1>
+<section class="hero">
+<div class="hero-visual">
+<div class="hero-image">
+<img src="/images/blog/scontrino-farmaci-cucciolata.webp" alt="Pharmacy receipt for a litter's veterinary medicines: Panacur and Milbemax for the puppies, Milbemax for the mother" width="855" height="900" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
+</div>
+</div>
+<div class="hero-content">
+<span class="hero-eyebrow">Puppies</span>
+<h1 class="hero-title">How much does a <em>Staffordshire Bull Terrier</em> puppy cost in 2026</h1>
+<p class="hero-subtitle">What the price includes, and what a litter costs us, item by item</p>
+<div class="hero-meta">
+<span>&#9201;&#65039; 10 min read</span>
+</div>
+</div>
+</section>
+
+<nav class="breadcrumb" aria-label="Breadcrumb">
+<a href="/en/" title="Home">Home</a> &rsaquo;
+<a href="/en/blog/" title="Blog">Blog</a> &rsaquo;
+<a aria-label="Puppies &mdash; blog category" href="/en/blog/#puppies" title="Puppy articles">Puppies</a> &rsaquo;
+<span>What a puppy costs</span>
+</nav>
 
 The price of a Staffordshire Bull Terrier puppy with an ENCI pedigree is not a list price: it is the sum of costs that exist before the puppy is born. Genetic tests on the two breeding dogs for L2HGA, HC and PHPV are paid once per dog and hold for the whole of their breeding career. Registering the litter in the ENCI stud book has public fees, the same for everyone. On top of these come the vet checks during pregnancy, the ultrasound around day twenty-five, the X-ray before whelping, the first vaccinations, worming and the microchip. At the Del Piccolo Diavolo kennel in Ostellato, Italy, a litter of six puppies costs about 2,000 euros before vaccinations and microchips, and over 4,000 with a stud dog abroad and a caesarean. A very low price almost always means something is missing: the tests, the pedigree, or puppies separated from their mother before the 60 days required by Italian law.
 
@@ -96,10 +117,7 @@ A **caesarean** costs between **€500 and €800**, depending on the day and th
 
 Worming is repeated several times, and the cost grows with the number of puppies. On top of this come the laboratory faecal test, the first vaccinations, the microchip and the veterinary check-ups.
 
-<figure style="margin:1.5rem auto;max-width:560px;text-align:center">
-<img src="/images/blog/scontrino-farmaci-cucciolata.webp" alt="Pharmacy receipt for the litter's veterinary medicines, September 2026: three packs of Panacur and four of Milbemax for the puppies, one of Milbemax for the mother" width="855" height="900" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:8px">
-<figcaption style="font-size:.9rem;margin-top:.5rem">The pharmacy receipt of 22 September 2026, veterinary medicines for the litter. The three lines are Panacur for the puppies (3 × €49.19), Milbemax for the eight puppies (4 × €15.90) and Milbemax for the mother (€29.20). <a href="/docs/scontrino-farmaci-cucciolata-22-09-2026.pdf" target="_blank" rel="noopener" aria-label="Full receipt as PDF (opens in a new tab)">The full receipt as PDF</a>, with the tax code covered.</figcaption>
-</figure>
+The pharmacy receipt with these three items is at the top of the page; <a href="/docs/scontrino-farmaci-cucciolata-22-09-2026.pdf" target="_blank" rel="noopener" aria-label="Full receipt as PDF (opens in a new tab)">the full receipt is available as a PDF</a>, with the tax code covered.
 
 ### The total
 

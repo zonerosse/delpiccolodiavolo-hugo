@@ -1,6 +1,6 @@
 ---
 title: "The Staffordshire Bull Terrier Temperament: Where It Comes From"
-lastmod: 2026-09-26
+lastmod: 2026-09-27
 titleSeo: "Staffy temperament: how it was selected"
 articolo: true
 translationKey: "carattere"
@@ -32,6 +32,13 @@ correlati:
 <p class="hero-subtitle">Why this dog is the way it is, and what it means to choose a character</p>
 </div>
 </section>
+
+<nav class="breadcrumb" aria-label="Breadcrumb">
+<a href="/en/" title="Home">Home</a> &rsaquo;
+<a href="/en/blog/" title="Blog">Blog</a> &rsaquo;
+<a aria-label="Standard and bloodlines &mdash; blog category" href="/en/blog/#standard" title="Standard and bloodline articles">Standard and bloodlines</a> &rsaquo;
+<span>The temperament</span>
+</nav>
 
 <section class="section">
 <div class="section-inner content-single">

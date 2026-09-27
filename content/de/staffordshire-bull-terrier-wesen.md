@@ -1,6 +1,6 @@
 ---
 title: "Das Wesen des Staffordshire Bull Terrier: Woher es Kommt"
-lastmod: 2026-09-26
+lastmod: 2026-09-27
 titleSeo: "Wesen des Staffy: wie es selektiert wurde"
 articolo: true
 translationKey: "carattere"
@@ -32,6 +32,13 @@ correlati:
 <p class="hero-subtitle">Warum dieser Hund so ist, wie er ist, und was es bedeutet, ein Wesen zu wählen</p>
 </div>
 </section>
+
+<nav class="breadcrumb" aria-label="Breadcrumb">
+<a href="/de/" title="Startseite">Startseite</a> &rsaquo;
+<a href="/de/blog/" title="Blog">Blog</a> &rsaquo;
+<a aria-label="Standard und Blutlinien &mdash; Blog-Kategorie" href="/de/blog/#standard" title="Artikel über Standard und Blutlinien">Standard und Blutlinien</a> &rsaquo;
+<span>Das Wesen</span>
+</nav>
 
 <section class="section">
 <div class="section-inner content-single">

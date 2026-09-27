@@ -1,6 +1,6 @@
 ---
 title: "Il Temperamento dello Staffordshire Bull Terrier: Come Nasce"
-lastmod: 2026-09-26
+lastmod: 2026-09-27
 titleSeo: "Temperamento dello Staffy: come è stato selezionato"
 articolo: true
 translationKey: "carattere"
@@ -32,6 +32,13 @@ correlati:
 <p class="hero-subtitle">Perché questo cane è fatto così, e cosa significa scegliere il carattere</p>
 </div>
 </section>
+
+<nav class="breadcrumb" aria-label="Breadcrumb">
+<a href="/" title="Home">Home</a> &rsaquo;
+<a href="/blog/" title="Blog">Blog</a> &rsaquo;
+<a aria-label="Standard e linee di sangue &mdash; categoria del blog" href="/blog/#standard" title="Articoli su standard e linee">Standard e linee</a> &rsaquo;
+<span>Il temperamento</span>
+</nav>
 
 <section class="section">
 <div class="section-inner content-single">

@@ -1,6 +1,6 @@
 ---
 title: "Staffy o Amstaff: Quale delle Due Razze Fa per Te"
-lastmod: 2026-09-26
+lastmod: 2026-09-27
 articolo: true
 translationKey: "differenza-staffy-amstaff"
 image: "/images/blog/staffy-amstaff-hero.webp"
@@ -22,6 +22,13 @@ date: 2026-01-18
 <p class="hero-subtitle">Hai capito che non sono lo stesso cane. Ora resta la domanda difficile: quale scegliere</p>
 </div>
 </section>
+
+<nav class="breadcrumb" aria-label="Breadcrumb">
+<a href="/" title="Home">Home</a> &rsaquo;
+<a href="/blog/" title="Blog">Blog</a> &rsaquo;
+<a aria-label="Standard e linee di sangue &mdash; categoria del blog" href="/blog/#standard" title="Articoli su standard e linee">Standard e linee</a> &rsaquo;
+<span>Staffy o Amstaff</span>
+</nav>
 
 <section class="section">
 <div class="section-inner content-single">

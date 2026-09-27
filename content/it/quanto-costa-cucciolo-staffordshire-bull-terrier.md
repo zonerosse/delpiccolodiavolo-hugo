@@ -10,7 +10,28 @@ description: "Quanto costa un cucciolo Staffordshire Bull Terrier con pedigree E
 slug: "quanto-costa-cucciolo-staffordshire-bull-terrier"
 ---
 
-<h1>Quanto Costa un Cucciolo di Staffordshire Bull Terrier nel 2026</h1>
+<section class="hero">
+<div class="hero-visual">
+<div class="hero-image">
+<img src="/images/blog/scontrino-farmaci-cucciolata.webp" alt="Scontrino della farmacia con i farmaci veterinari di una cucciolata: Panacur e Milbemax per i cuccioli, Milbemax per la madre" width="855" height="900" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
+</div>
+</div>
+<div class="hero-content">
+<span class="hero-eyebrow">Cuccioli</span>
+<h1 class="hero-title">Quanto costa un cucciolo di <em>Staffordshire Bull Terrier</em> nel 2026</h1>
+<p class="hero-subtitle">Cosa include il prezzo, e quanto costa a noi una cucciolata, voce per voce</p>
+<div class="hero-meta">
+<span>&#9201;&#65039; 9 min lettura</span>
+</div>
+</div>
+</section>
+
+<nav class="breadcrumb" aria-label="Breadcrumb">
+<a href="/" title="Home">Home</a> &rsaquo;
+<a href="/blog/" title="Blog">Blog</a> &rsaquo;
+<a aria-label="Cuccioli &mdash; categoria del blog" href="/blog/#cuccioli" title="Articoli Cuccioli">Cuccioli</a> &rsaquo;
+<span>Quanto costa un cucciolo</span>
+</nav>
 
 Il prezzo di un cucciolo di Staffordshire Bull Terrier con pedigree ENCI non è un listino: è la somma di costi che esistono prima che il cucciolo nasca. I test genetici dei due riproduttori per L2HGA, HC e PHPV si pagano una volta per cane e valgono per tutta la carriera riproduttiva. L'iscrizione della cucciolata al libro genealogico ENCI ha tariffe pubbliche, uguali per tutti. A queste si aggiungono le visite veterinarie durante la gravidanza, l'ecografia al venticinquesimo giorno, la radiografia prima del parto, le prime vaccinazioni, le sverminazioni e il microchip. All'allevamento Del Piccolo Diavolo, a Ostellato, una cucciolata di sei cuccioli costa circa 2.000 euro prima di vaccinazioni e microchip, e oltre 4.000 con uno stallone all'estero e un cesareo. Un prezzo molto basso quasi sempre significa che manca qualcosa: i test, il pedigree, o cuccioli separati dalla madre prima dei 60 giorni previsti dalla legge italiana.
 
@@ -109,10 +130,7 @@ Un **cesareo** costa fra i **500 e gli 800 €**, e la cifra dipende dal giorno 
 
 Le sverminazioni si ripetono più volte, e il costo cresce con il numero dei cuccioli. A questo si aggiungono l'esame delle feci in laboratorio, le prime vaccinazioni, il microchip e le visite veterinarie di controllo.
 
-<figure style="margin:1.5rem auto;max-width:560px;text-align:center">
-<img src="/images/blog/scontrino-farmaci-cucciolata.webp" alt="Scontrino della farmacia con i farmaci veterinari della cucciolata, settembre 2026: tre confezioni di Panacur e quattro di Milbemax per i cuccioli, una di Milbemax per la madre" width="855" height="900" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:8px">
-<figcaption style="font-size:.9rem;margin-top:.5rem">Lo scontrino della farmacia del 22 settembre 2026, farmaci veterinari per la cucciolata. Le tre righe sono il Panacur per i cuccioli (3 × 49,19 €), il Milbemax per gli otto cuccioli (4 × 15,90 €) e il Milbemax per la madre (29,20 €). <a href="/docs/scontrino-farmaci-cucciolata-22-09-2026.pdf" target="_blank" rel="noopener" aria-label="Scontrino completo in PDF (si apre in una nuova scheda)">Lo scontrino completo in PDF</a>, con il codice fiscale coperto.</figcaption>
-</figure>
+Lo scontrino della farmacia con queste tre voci è in cima alla pagina; <a href="/docs/scontrino-farmaci-cucciolata-22-09-2026.pdf" target="_blank" rel="noopener" aria-label="Scontrino completo in PDF (si apre in una nuova scheda)">quello completo è in PDF</a>, con il codice fiscale coperto.
 
 ### Il totale
 
