@@ -75,9 +75,12 @@ enableRobotsTXT = true
   facebook = "https://www.facebook.com/delpiccolodiavolo"
   youtube = "https://www.youtube.com/@Staffordshiredelpiccolodiavolo"
   foundingYear = "2013"
-  # Recensioni Google: aggiornare QUI, i cinque punti del sito leggono da questi due valori
+  # Recensioni Google: aggiornare SOLO QUI. Ogni numero di recensioni del sito
+  # legge da questi due valori, compreso il titolo della pagina recensioni:
+  # nei testi si scrive <!--REC-TOTALE--> al posto del numero e <!--REC-VOTO-->
+  # al posto del voto, e Hugo li sostituisce da solo.
   recensioniVoto = "5.0"
-  recensioniTotale = "40"
+  recensioniTotale = "41"
 
 [markup]
   [markup.goldmark]

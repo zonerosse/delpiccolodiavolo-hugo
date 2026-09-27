@@ -10,6 +10,10 @@
   {{ $brand := "Del Piccolo Diavolo" }}
   {{ $base := .Title }}
   {{ with .Params.titleSeo }}{{ $base = . }}{{ end }}
+  {{/* Numero delle recensioni nel titolo: <!--REC-TOTALE--> nel titleSeo viene
+       sostituito con recensioniTotale di hugo.toml, cosi' il titolo non va
+       piu' aggiornato a mano. */}}
+  {{ $base = replace $base "<!--REC-TOTALE-->" (.Site.Params.recensioniTotale | default "") }}
   {{ $conBrand := printf "%s | %s" $base $brand }}
   {{ $titolo := $base }}
   {{ if in $base $brand }}
@@ -75,7 +79,7 @@
   <meta property="og:locale:alternate" content="{{ if eq .Site.Language.Lang "en" }}en_GB{{ else if eq .Site.Language.Lang "de" }}de_DE{{ else }}it_IT{{ end }}">
   {{ end }}{{ end }}
   <meta property="og:site_name" content="Del Piccolo Diavolo">
-  <meta property="og:title" content="{{ with .Params.titleSeo }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
+  <meta property="og:title" content="{{ $base }}">
   <meta property="og:description" content="{{ .Description | default .Site.Params.description }}">
   <meta property="og:url" content="{{ .Permalink }}">
   {{/* Anteprima social: JPEG, non AVIF. Facebook, LinkedIn e X non lo
@@ -100,7 +104,7 @@
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ with .Params.titleSeo }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
+  <meta name="twitter:title" content="{{ $base }}">
   <meta name="twitter:description" content="{{ .Description | default .Site.Params.description }}">
   <meta name="twitter:image" content="{{ $og | absURL }}">
 

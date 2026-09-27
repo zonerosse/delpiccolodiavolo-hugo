@@ -1,7 +1,7 @@
 ---
 title: "Recensioni Staffordshire Bull Terrier"
-titleSeo: "Recensioni Staffordshire Bull Terrier: 41 famiglie"
-lastmod: 2026-09-26
+titleSeo: "Recensioni Staffordshire Bull Terrier: <!--REC-TOTALE--> famiglie"
+lastmod: 2026-09-27
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
 description: "Le recensioni Google delle famiglie che hanno scelto un cucciolo Del Piccolo Diavolo. Esperienze reali, prima e dopo l’affidamento."
@@ -38,7 +38,7 @@ custom_content: |
   <span class="section-label">La Nostra Reputazione</span>
   <h2 class="section-title">Perché Le Recensioni Contano</h2>
 
-  <p>Del Piccolo Diavolo ha una valutazione media di 5,0 su 41 recensioni pubblicate sul profilo Google dell'allevamento, tutte verificabili all'origine: ogni recensione riportata su questa pagina porta il nome di chi l'ha scritta e il collegamento diretto all'originale su Google, dove chiunque pu&ograve; leggerla senza passare da noi. Sono famiglie che hanno preso un cucciolo di Staffordshire Bull Terrier a Ostellato, in provincia di Ferrara, fra il 2013 e oggi. Una recensione riportata su un sito senza collegamento alla fonte non &egrave; verificabile: potrebbe averla scritta chiunque, allevatore compreso. &Egrave; lo stesso principio dei referti dei test genetici, che qui vengono pubblicati con il numero di microchip del cane sopra.</p>
+  <p>Del Piccolo Diavolo ha una valutazione media di <!--REC-VOTO--> su <!--REC-TOTALE--> recensioni pubblicate sul profilo Google dell'allevamento, tutte verificabili all'origine: ogni recensione riportata su questa pagina porta il nome di chi l'ha scritta e il collegamento diretto all'originale su Google, dove chiunque pu&ograve; leggerla senza passare da noi. Sono famiglie che hanno preso un cucciolo di Staffordshire Bull Terrier a Ostellato, in provincia di Ferrara, fra il 2013 e oggi. Una recensione riportata su un sito senza collegamento alla fonte non &egrave; verificabile: potrebbe averla scritta chiunque, allevatore compreso. &Egrave; lo stesso principio dei referti dei test genetici, che qui vengono pubblicati con il numero di microchip del cane sopra.</p>
   <div class="values-grid">
   <div class="value-card"><h3>✓ Trasparenza</h3><p>Ogni recensione verificabile su Google</p></div>
   <div class="value-card"><h3>⭐ <!--REC-VOTO-->/5</h3><p>Media costruita dal 2013</p></div>
