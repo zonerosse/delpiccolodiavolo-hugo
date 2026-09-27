@@ -64,7 +64,7 @@ When the stud is not at the kennel — and in our case he never is, for the reas
 
 It ranges from **€700** for a young dog, perhaps without titles, up to **€1,600**, which is what we were asked for a Junior World Champion in Hungary, an Elitebull dog.
 
-On top of that comes the journey, which depends on the distance, and often a **night in a hotel**: there are two matings, forty-eight hours apart, and you do not go home in between.
+On top of that comes the journey, which depends on the distance, and often a **night in a hotel**: there are two matings, 12 to 24 hours apart, and you do not go home in between.
 
 ### The pregnancy
 

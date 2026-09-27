@@ -77,7 +77,7 @@ Quando lo stallone non è in allevamento — e nel nostro caso non lo è mai, pe
 
 Vanno da **700 €** per un maschio giovane e magari non titolato, fino a **1.600 €**, che è quanto ci è stato chiesto da un Giovane Campione del Mondo in Ungheria, un Elitebull.
 
-A questo si aggiunge il viaggio, che cambia con la distanza, e spesso un **pernottamento in albergo**: le monte si fanno due, a distanza di quarantotto ore, e non si torna a casa in mezzo.
+A questo si aggiunge il viaggio, che cambia con la distanza, e spesso un **pernottamento in albergo**: le monte si fanno due, a distanza di 12-24 ore l'una dall'altra, e non si torna a casa in mezzo.
 
 ### La gravidanza
 

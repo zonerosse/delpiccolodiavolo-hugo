@@ -64,7 +64,7 @@ Wenn der Deckrüde nicht in der Zucht lebt — und bei uns ist das nie der Fall,
 
 Sie reicht von **700 €** für einen jungen, vielleicht noch titellosen Rüden bis zu **1.600 €**, so viel wurde von uns für einen Junior-Weltsieger in Ungarn verlangt, einen Elitebull-Rüden.
 
-Dazu kommt die Reise, die je nach Entfernung kostet, und oft eine **Übernachtung im Hotel**: Man deckt zweimal im Abstand von achtundvierzig Stunden, und dazwischen fährt man nicht nach Hause.
+Dazu kommt die Reise, die je nach Entfernung kostet, und oft eine **Übernachtung im Hotel**: Man deckt zweimal im Abstand von 12 bis 24 Stunden, und dazwischen fährt man nicht nach Hause.
 
 ### Die Trächtigkeit
 
