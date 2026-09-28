@@ -50,7 +50,7 @@
   <link rel="manifest" href="/manifest.json">
   <meta name="theme-color" content="#8b5a2b">
   
-  {{ if .Params.noindex }}<meta name="robots" content="noindex, follow">{{ else }}<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">{{ end }}
+  {{ if or .Params.noindex (eq .Kind "404") }}<meta name="robots" content="noindex, follow">{{ else }}<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">{{ end }}
   <meta name="geo.region" content="IT-FE">
   <meta name="geo.placename" content="Ostellato">
   <meta name="geo.position" content="44.7461783;11.9377268">

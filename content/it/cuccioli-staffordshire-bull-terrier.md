@@ -1,6 +1,7 @@
 ---
 title: "Cuccioli Staffordshire Bull Terrier"
 titleSeo: "Cuccioli Staffordshire Bull Terrier con test verificabili"
+date: 2025-12-28
 lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
@@ -30,7 +31,7 @@ custom_content: |
   <span class="hero-eyebrow">Allevamento Del Piccolo Diavolo</span>
   <h1 class="hero-title">Cuccioli <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">Linee Elitebull e Lackyle - Dal 2013</p>
-  <p class="hero-description">I nostri cuccioli nascono e crescono in famiglia, circondati da amore e stimoli positivi. Selezioniamo per salute, carattere e tipicità, seguendo le migliori linee di sangue inglesi e irlandesi.</p>
+  <p class="hero-description">I nostri cuccioli nascono in casa e ci restano il primo mese, poi crescono fra casa e cortile. Selezioniamo per salute, carattere e tipicità, su linee inglesi (Elitebull) e irlandesi (Lackyle) documentate su SBTPedigree.</p>
   <div class="hero-actions">
   <a href="/programma-allevamento/" class="btn btn-primary" title="Vedi il programma di selezione">Programma Selezione</a>
   <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sui%20cuccioli" class="btn btn-ghost" title="Contattaci su WhatsApp">Contattaci</a>

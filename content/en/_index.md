@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Kennel"
+date: 2025-12-28
 lastmod: 2026-09-28
 translationKey: "home"
 description: "Ethical Staffordshire Bull Terrier kennel since 2013. ENCI pedigree, genetic test reports and breeding stock microchips published online and verifiable."
@@ -207,7 +208,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question" >
-  <span>Is the Staffordshire Bull Terrier dangerous?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is the Staffordshire Bull Terrier dangerous?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">The Staffordshire Bull Terrier is on no list of dangerous breeds in Italy: the register of at-risk breeds was abolished in 2009, moving responsibility from the breed to the owner. A Royal Veterinary College study published in 2020, covering more than 22,000 dogs, found no significant difference in aggression attributable to the breed. Towards people the standard describes a reliable dog, and the selection of temperament decides almost everything. The trait worth knowing about is different: being a terrier, it can show <strong>reactivity towards other dogs</strong>, most often of the same sex in adulthood. It remains a powerful dog for its size and deserves to be handled accordingly.</div>
@@ -215,7 +216,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question" >
-  <span>Is the Staffy good with children?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is the Staffy good with children?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">First, something that applies to every breed: <strong>no dog should be left alone with a small child</strong>, and adult supervision is not optional. That said, this is a dog built for family life, and the English nickname "nanny dog" comes from the tolerance it shows around children &mdash; but a nickname describes temperament, it does not confer an ability to supervise. What makes the difference is the selection of the parents, the first eight weeks, and the rules a family sets at home: a place where the dog is never disturbed, short interactions, and an adult in the room.</div>
@@ -223,7 +224,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question" >
-  <span>What genetic tests do you perform?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What genetic tests do you perform?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">All breeding dogs at Del Piccolo Diavolo are tested for <strong>L2-HGA</strong>, L-2-hydroxyglutaric aciduria, a neurological disease, and for <strong>HC</strong>, juvenile hereditary cataract (HSF4 gene). Our active breeding females are also tested for <strong>degenerative myelopathy</strong> (SOD1 gene), a disease of the spinal cord that appears after eight years of age. All are DNA tests, and all three diseases are recessive: two clear parents cannot produce affected puppies, and L2-HGA and HC carriers are not bred here. The laboratory reports are published on this site and can be downloaded, with the <strong>dog's microchip number in plain sight</strong> &mdash; that number is what makes a report verifiable, because without it it could refer to any dog at all.</div>
@@ -231,7 +232,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question" >
-  <span>Can I visit the kennel?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Can I visit the kennel?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Yes, and it is the right way to get to know us. Del Piccolo Diavolo is in Ostellato, in the province of Ferrara, and receives by appointment only, so we can give you the time you need without stressing the dogs. During the visit you meet the adult dogs and the mother of the litter, see where the puppies are born and raised, and can check pedigrees and test reports in person. It is also when we ask you a few questions about the dog's future day. <strong>Anyone taking one of our puppies comes here</strong>: we do not ship dogs.</div>

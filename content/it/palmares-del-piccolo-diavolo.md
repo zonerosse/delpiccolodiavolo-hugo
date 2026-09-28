@@ -1,6 +1,7 @@
 ---
 title: "Palmares Staffordshire Bull Terrier"
 titleSeo: "Palmares: campioni italiani e internazionali dal 2013"
+date: 2026-01-04
 lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 translationKey: "palmares"
@@ -20,7 +21,7 @@ custom_content: |
   <h2 class="section-title">Campioni Allevati da Noi</h2>
   
   <div class="intro-block">
-  <p>La selezione Del Piccolo Diavolo si basa su tre pilastri: salute, carattere e tipicita. I risultati ottenuti in esposizione non sono un fine, ma la conferma che il nostro lavoro di selezione produce soggetti conformi allo standard di razza. Tutti i cani presentati sono nati e cresciuti nel nostro allevamento.</p>
+  <p>La selezione Del Piccolo Diavolo si basa su tre pilastri: salute, carattere e tipicità. I risultati ottenuti in esposizione non sono un fine, ma la conferma che il nostro lavoro di selezione produce soggetti conformi allo standard di razza. Tutti i cani presentati sono nati e cresciuti nel nostro allevamento.</p>
   </div>
   
   <div class="palmares-summary" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1rem;margin:2rem 0;text-align:center">
@@ -341,7 +342,7 @@ custom_content: |
 
   <section class="dark-section">
   <h2>Selezione che si Vede</h2>
-  <p>I risultati in esposizione confermano il nostro impegno: soggetti tipici, sani, con carattere equilibrato. Non compriamo cani gia titolati: li alleviamo, li cresciamo, li portiamo in ring. Questa e la differenza.</p>
+  <p>I risultati in esposizione confermano il nostro impegno: soggetti tipici, sani, con carattere equilibrato. Non compriamo cani già titolati: li alleviamo, li cresciamo, li portiamo in ring. Questa è la differenza. Di Bilquis ha scritto anche <a href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" target="_blank" rel="noopener" aria-label="Articolo di FerraraToday su Bilquis (si apre in una nuova scheda)">FerraraToday</a>, il 6 gennaio 2026.</p>
   <a href="/femmine-staffordshire-bull-terrier/" class="btn" title="Vedi le nostre femmine">Scopri i Nostri Cani</a>
   </section>
   

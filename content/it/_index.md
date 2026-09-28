@@ -1,5 +1,6 @@
 ---
 title: "Allevamento Staffordshire Bull Terrier"
+date: 2025-12-28
 lastmod: 2026-09-28
 translationKey: "home"
 description: "Allevamento etico di Staffordshire Bull Terrier dal 2013. Pedigree ENCI, referti dei test genetici e microchip dei riproduttori pubblicati e verificabili."
@@ -120,7 +121,7 @@ custom_content: |
   <div class="section-inner">
   <h2 class="section-title">Una cucciolata l’anno, a volte nessuna</h2>
   <div class="intro-block" style="text-align:left">
-  <p>Del Piccolo Diavolo è un allevamento di Staffordshire Bull Terrier — lo Staffy, come lo chiamano gli appassionati — a <strong>Ostellato, in provincia di Ferrara</strong>, attivo dal <strong>2013</strong>. Paolo Boldrini segue la razza da oltre vent'anni e alleva da dodici: due numeri diversi che raccontano la stessa cosa, cioè che l'allevamento è nato dopo un lungo periodo di studio, non prima.</p>
+  <p>Del Piccolo Diavolo è un allevamento di Staffordshire Bull Terrier — lo Staffy, come lo chiamano gli appassionati — a <strong>Ostellato, in provincia di Ferrara</strong>, attivo dal <strong>2013</strong>. Paolo Boldrini segue la razza dal 2005 e alleva dal 2013: due date diverse che raccontano la stessa cosa, cioè che l'allevamento è nato dopo un lungo periodo di studio, non prima.</p>
 
   <p>Facciamo <strong>una cucciolata l'anno, occasionalmente due, a volte nessuna</strong>, mai su richiesta. Tutti i riproduttori sono testati per <strong>L2HGA e HC (gene HSF4)</strong>, le fattrici in attività anche per la <strong>mielopatia degenerativa (gene SOD1)</strong>, e i referti di laboratorio sono pubblicati sul sito: chiunque può scaricarli e leggere nome del cane e numero di microchip, senza chiederci niente. I cuccioli vengono affidati con <strong>pedigree ENCI</strong>, microchip e vaccinazioni in regola, dopo essere nati e cresciuti in casa il primo mese, e poi passati in un box dedicato con sfogo esterno, a contatto quotidiano con persone, rumori domestici e altri animali.</p>
 
@@ -280,7 +281,7 @@ custom_content: |
 
   <div class="faq-item active">
   <div class="faq-question" >
-  <span>Quanto costa uno Staffordshire con pedigree ENCI?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quanto costa uno Staffordshire con pedigree ENCI?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Non esiste un listino: quello che si paga riflette costi che esistono prima della nascita dei cuccioli. I test genetici dei riproduttori per L2HGA e HC, l'iscrizione della cucciolata al libro genealogico ENCI con tariffe pubbliche, le visite veterinarie in gravidanza, l'ecografia e la radiografia prima del parto, le prime vaccinazioni, le sverminazioni e il microchip. <strong>Un prezzo molto basso quasi sempre significa che manca qualcosa</strong>: i test, il pedigree, o cuccioli separati dalla madre prima dei 60 giorni previsti dalla legge. Ogni cucciolo parte con vaccinazioni, microchip, sverminazioni, certificati dei test dei genitori e il nostro supporto per tutta la vita del cane.</div>
@@ -288,7 +289,7 @@ custom_content: |
 
   <div class="faq-item active">
   <div class="faq-question" >
-  <span>Quali test genetici fate sui riproduttori?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quali test genetici fate sui riproduttori?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Tutti i nostri riproduttori sono testati per <strong>L2-HGA</strong>, l'aciduria L-2-idrossiglutarica, una malattia neurologica, e per <strong>HC</strong>, la cataratta ereditaria giovanile (gene HSF4). Le fattrici in attività sono testate anche per la <strong>mielopatia degenerativa</strong> (gene SOD1), una malattia del midollo spinale che compare dopo gli otto anni. Sono tutti test del DNA, e sono tutte malattie a trasmissione recessiva: due genitori esenti non possono produrre cuccioli malati. I portatori di L2-HGA e HC non entrano in riproduzione. I referti di laboratorio sono pubblicati su questo sito e scaricabili, con il <strong>numero di microchip del cane in chiaro</strong>: &egrave; quel numero a rendere il documento verificabile, perch&eacute; senza non sarebbe collegabile a nessun animale in particolare.</div>
@@ -296,7 +297,7 @@ custom_content: |
 
   <div class="faq-item active">
   <div class="faq-question" >
-  <span>Posso visitare l'allevamento?</span>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Posso visitare l'allevamento?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">S&igrave;, ed &egrave; il modo giusto di conoscerci. Riceviamo su appuntamento a Ostellato, in provincia di Ferrara, per dedicare tutto il tempo necessario senza stressare i cani. Durante la visita si vedono i cani adulti e la madre della cucciolata, il posto dove i cuccioli crescono, e si controllano di persona pedigree e referti dei test genetici. &Egrave; anche l'occasione in cui facciamo noi qualche domanda su come sar&agrave; la giornata del cane: non &egrave; un interrogatorio, &egrave; il modo per capire se quel cucciolo e quella famiglia stanno bene insieme. Ostellato dista circa un'ora da Bologna e da Ravenna, due da Verona e Padova.</div>

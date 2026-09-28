@@ -1,6 +1,7 @@
 ---
 title: "FAQ sullo Staffordshire Bull Terrier"
 titleSeo: "FAQ Staffordshire Bull Terrier: le domande più frequenti"
+date: 2025-12-28
 lastmod: 2026-09-28
 translationKey: "faq"
 description: "Risposte alle domande più frequenti sullo Staffordshire Bull Terrier: carattere, salute, cuccioli ENCI, costi, alimentazione, addestramento."
@@ -228,7 +229,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Restate disponibili dopo che il cucciolo è andato a casa?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">S&igrave;, e senza scadenza. Restiamo disponibili per consigli su alimentazione, crescita, educazione e gestione, anche a distanza di anni: chi ha preso un cucciolo nel 2015 scrive ancora oggi, e va benissimo cos&igrave;. C'&egrave; per&ograve; un impegno che vale pi&ugrave; dei consigli, ed &egrave; quello che diciamo a tutti prima dell'affido: <strong>se un giorno non riuscite pi&ugrave; a tenerlo, il cane torna qui</strong>. Non &egrave; una formula di cortesia, &egrave; il motivo per cui scegliamo con calma a chi affidare un cucciolo. Un cane che abbiamo allevato non finisce in canile n&eacute; passa di mano fra sconosciuti: se la situazione cambia, per qualsiasi ragione, la soluzione la troviamo noi. In dodici anni non &egrave; mai servito, e dove sono finiti quei cani lo raccontiamo nelle <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">storie delle famiglie</a>.</div>
+  <div class="faq-answer">S&igrave;, e senza scadenza. Restiamo disponibili per consigli su alimentazione, crescita, educazione e gestione, anche a distanza di anni: chi ha preso un cucciolo nel 2015 scrive ancora oggi, e va benissimo cos&igrave;. C'&egrave; per&ograve; un impegno che vale pi&ugrave; dei consigli, ed &egrave; quello che diciamo a tutti prima dell'affido: <strong>se un giorno non riuscite pi&ugrave; a tenerlo, il cane torna qui</strong>. Non &egrave; una formula di cortesia, &egrave; il motivo per cui scegliamo con calma a chi affidare un cucciolo. Un cane che abbiamo allevato non finisce in canile n&eacute; passa di mano fra sconosciuti: se la situazione cambia, per qualsiasi ragione, la soluzione la troviamo noi. Dal 2013 non &egrave; mai servito, e dove sono finiti quei cani lo raccontiamo nelle <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">storie delle famiglie</a>.</div>
   </div>
   
   <div class="faq-item active">

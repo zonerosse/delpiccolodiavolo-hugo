@@ -1,6 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Rüden"
 titleSeo: "Staffordshire Bull Terrier Rüden: Ahnentafel und Gentests"
+date: 2025-12-28
 lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 translationKey: "maschi"

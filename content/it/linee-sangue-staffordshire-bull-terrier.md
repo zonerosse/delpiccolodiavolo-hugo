@@ -214,7 +214,7 @@ custom_content: |
   
   <div class="procedure-step">
   <strong>Step 4: Consulta Database Online</strong>
-  <p>Utilizza risorse come il SBT Pedigree Database o il Kennel Club's Breed Records.</p>
+  <p>Utilizza risorse come <a href="https://sbtpedigree.com/" target="_blank" rel="noopener" aria-label="SBTPedigree (si apre in una nuova scheda)">SBTPedigree</a> o il Kennel Club's Breed Records.</p>
   </div>
   
   <div class="procedure-step">

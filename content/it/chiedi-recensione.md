@@ -1,6 +1,7 @@
 ---
 title: "Lascia una recensione – Del Piccolo Diavolo"
-lastmod: 2026-09-03
+date: 2025-12-28
+lastmod: 2026-09-28
 noindex: true
 tipoPagina: "WebPage"
 description: "Se ti trovi bene con il tuo Staffy, scriverlo su Google aiuta la prossima famiglia."

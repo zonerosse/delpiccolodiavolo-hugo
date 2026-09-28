@@ -1,6 +1,7 @@
 ---
 title: "Privacy Policy – Del Piccolo Diavolo"
 titleSeo: "Privacy Policy: how we handle your data"
+date: 2025-12-28
 lastmod: 2026-09-28
 tipoPagina: "WebPage"
 translationKey: "privacy"

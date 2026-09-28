@@ -1,6 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Blog - Articles & Guides"
-lastmod: 2026-09-27
+date: 2025-12-28
+lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 translationKey: "blog"
 description: "Articles on puppies, health, breed standard and daily life with the Staffordshire Bull Terrier. Practical advice from the kennel."

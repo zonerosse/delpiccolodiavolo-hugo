@@ -6,13 +6,17 @@ name: Segnala le pagine a IndexNow
 # COME FUNZIONA
 # -------------
 # Dopo ogni push su main, aspetta qualche minuto che Cloudflare pubblichi,
-# poi legge sitemap.xml e manda l'elenco delle URL a IndexNow.
+# poi legge le sitemap delle tre lingue (/sitemap.xml, /en/sitemap.xml,
+# /de/sitemap.xml) e manda a IndexNow SOLO le pagine con lastmod di oggi o di
+# ieri, cioe' quelle toccate dal commit. Segnalare ogni volta tutto il sito
+# insegna ai motori che le segnalazioni non significano niente.
 #
-# INSTALLAZIONE: nessuna. La chiave e' gia' nel repository, in
-# static/6ddc5a9e8d861ef5b8263d15a72183d9.txt, e viene pubblicata insieme
-# al sito. IndexNow la legge da li' per verificare che il dominio sia tuo.
+# Lanciato a mano (GitHub -> Actions -> questo workflow -> "Run workflow")
+# manda invece tutte le pagine delle tre lingue: serve per un ricontrollo
+# completo, per esempio dopo un cambio di struttura.
 #
-# Per lanciarlo a mano: GitHub -> Actions -> questo workflow -> "Run workflow".
+# La chiave e' in static/6ddc5a9e8d861ef5b8263d15a72183d9.txt e viene
+# pubblicata insieme al sito: IndexNow la legge da li'.
 
 on:
   push:
@@ -32,42 +36,46 @@ jobs:
       - name: Aspetta che Cloudflare pubblichi
         run: sleep 180
 
-      - name: Leggi la sitemap e manda le URL
+      - name: Leggi le sitemap e manda le URL
         env:
           HOST: delpiccolodiavolo.it
           KEY: 6ddc5a9e8d861ef5b8263d15a72183d9
+          TUTTO: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
           set -e
-          echo "Scarico la sitemap..."
-          curl -sS --retry 3 --retry-delay 10 "https://$HOST/sitemap.xml" -o sitemap.xml
+          for L in "" "en/" "de/"; do
+            curl -sS --retry 3 --retry-delay 10 "https://$HOST/${L}sitemap.xml" -o "sitemap-${L%/}.xml" || true
+          done
 
-          # Hugo genera un indice di sitemap per lingua: raccolgo le URL da tutte.
-          grep -oP '(?<=<loc>)[^<]+' sitemap.xml > tutte.txt
-          if grep -q 'sitemap.xml' tutte.txt; then
-            > urls.txt
-            while read -r s; do
-              curl -sS "$s" | grep -oP '(?<=<loc>)[^<]+' >> urls.txt || true
-            done < tutte.txt
-          else
-            cp tutte.txt urls.txt
-          fi
-
-          sort -u urls.txt | grep -v '\.xml$' > finali.txt
-          TOT=$(wc -l < finali.txt)
-          echo "URL trovate: $TOT"
-          if [ "$TOT" -eq 0 ]; then echo "Nessuna URL, mi fermo."; exit 1; fi
-
-          # IndexNow accetta al massimo 10.000 URL per chiamata.
           python3 - <<'PY' > payload.json
-          import json
-          urls = [l.strip() for l in open("finali.txt") if l.strip()][:10000]
+          import glob, json, os, re, sys, datetime
+          oggi = datetime.date.today()
+          soglia = (oggi - datetime.timedelta(days=1)).isoformat()
+          tutto = os.environ.get("TUTTO") == "true"
+          urls = []
+          for f in sorted(glob.glob("sitemap-*.xml")):
+              xml = open(f, encoding="utf-8").read()
+              for blocco in re.findall(r"<url>(.*?)</url>", xml, re.S):
+                  loc = re.search(r"<loc>(.*?)</loc>", blocco)
+                  mod = re.search(r"<lastmod>(.*?)</lastmod>", blocco)
+                  if not loc:
+                      continue
+                  if tutto or (mod and mod.group(1)[:10] >= soglia):
+                      urls.append(loc.group(1).strip())
+          urls = sorted(set(urls))[:10000]
+          print(f"URL da segnalare: {len(urls)}", file=sys.stderr)
+          for u in urls:
+              print("  " + u, file=sys.stderr)
           print(json.dumps({
-            "host": "delpiccolodiavolo.it",
-            "key": "6ddc5a9e8d861ef5b8263d15a72183d9",
-            "keyLocation": "https://delpiccolodiavolo.it/6ddc5a9e8d861ef5b8263d15a72183d9.txt",
+            "host": os.environ["HOST"],
+            "key": os.environ["KEY"],
+            "keyLocation": f"https://{os.environ['HOST']}/{os.environ['KEY']}.txt",
             "urlList": urls
           }))
           PY
+
+          N=$(python3 -c "import json;print(len(json.load(open('payload.json'))['urlList']))")
+          if [ "$N" -eq 0 ]; then echo "Nessuna pagina cambiata, niente da segnalare."; exit 0; fi
 
           echo "Invio a IndexNow..."
           CODE=$(curl -sS -o risposta.txt -w '%{http_code}' \
@@ -78,7 +86,4 @@ jobs:
           cat risposta.txt || true
 
           # 200 e 202 sono entrambi esiti buoni.
-          case "$CODE" in
-            200|202) echo "Segnalazione accettata." ;;
-            *) echo "IndexNow ha risposto $CODE"; exit 1 ;;
-          esac
+          if [ "$CODE" != "200" ] && [ "$CODE" != "202" ]; then exit 1; fi

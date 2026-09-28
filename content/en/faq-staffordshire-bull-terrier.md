@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier FAQ - Frequently Asked Questions"
+date: 2025-12-28
 lastmod: 2026-09-28
 translationKey: "faq"
 description: "Staffordshire Bull Terrier FAQ from a breeder: temperament, children and other dogs, health tests, lifespan, cost and how to choose a breeder, answered in detail."
@@ -229,7 +230,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Do you provide support after the puppy goes home?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Yes, with no expiry date. We remain available for advice on feeding, growth, training and management, even years later: people who took a puppy in 2015 still write today, and that is exactly as it should be. There is, however, a commitment worth more than advice, and it is the one we tell everyone before the puppy leaves: <strong>if one day you can no longer keep the dog, it comes back here</strong>. This is not a courtesy phrase; it is why we choose calmly who takes a puppy. A dog we have bred does not end up in a shelter or pass between strangers: if the situation changes, for whatever reason, we find the solution. In twelve years it has never been needed, and where those dogs ended up is told in the <a href="/en/staffordshire-family-life-stories/" title="Family stories">family stories</a>.
+  <div class="faq-answer">Yes, with no expiry date. We remain available for advice on feeding, growth, training and management, even years later: people who took a puppy in 2015 still write today, and that is exactly as it should be. There is, however, a commitment worth more than advice, and it is the one we tell everyone before the puppy leaves: <strong>if one day you can no longer keep the dog, it comes back here</strong>. This is not a courtesy phrase; it is why we choose calmly who takes a puppy. A dog we have bred does not end up in a shelter or pass between strangers: if the situation changes, for whatever reason, we find the solution. Since 2013 it has never been needed, and where those dogs ended up is told in the <a href="/en/staffordshire-family-life-stories/" title="Family stories">family stories</a>.
   </div>
   </div>
     <div class="faq-item active">

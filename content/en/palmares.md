@@ -1,6 +1,7 @@
 ---
 title: "Palmares - Our Show Results"
 titleSeo: "Palmares: Italian and international champions since 2013"
+date: 2026-01-04
 lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 translationKey: "palmares"
@@ -336,7 +337,7 @@ custom_content: |
 
   <section class="dark-section">
   <h2>Selection You Can See</h2>
-  <p>Show results confirm our commitment: typical, healthy dogs with balanced character. We don't buy already titled dogs: we breed them, raise them, show them. That's the difference.</p>
+  <p>Show results confirm our commitment: typical, healthy dogs with balanced character. We don't buy already titled dogs: we breed them, raise them, show them. That's the difference. Bilquis was also the subject of an article in <a href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" target="_blank" rel="noopener" aria-label="FerraraToday article about Bilquis (opens in a new tab)">FerraraToday</a>, the Ferrara news site, on 6 January 2026.</p>
   <a href="/en/females-staffordshire-bull-terrier/" class="btn" title="See our females">Discover Our Dogs</a>
   </section>
   

@@ -1,5 +1,6 @@
 ---
 title: "About Us - Staffordshire Bull Terrier Breeder"
+date: 2025-12-28
 lastmod: 2026-09-28
 tipoPagina: "ProfilePage"
 translationKey: "chi-siamo"
@@ -131,7 +132,7 @@ custom_content: |
   <p><strong>What lies behind the male.</strong> Looking at the dog is not enough: I look at his sire, his dam, his littermates and what he has produced if he already has offspring. A dog can be better or worse than his own line, and the second generation shows it.</p>
   <p><strong>What the stud's owner can show.</strong> Genetic test reports with the microchip number on them, not promises. If a male is not tested for everything needed, or is clear only by parentage, I know it before the mating and I write it on that litter's page: anyone reading should know it as well as I do.</p>
   <p>Before a dog is used for breeding I watch it for months: at home, with strangers, with other dogs, with children. A dog that is not sure of itself does not enter the programme, however handsome. That is why there are one or two litters a year, and some years none: if the right moment does not come, nothing is born that year.</p>
-  <p>Of anyone who wants a puppy I ask one thing first: to come to Ostellato in person, at least once. It is the only moment when I see how someone behaves with a real dog rather than a photograph, and when they see where the puppy grew up. I ask to talk about the dog's day: how many hours it will be alone, who is at home, what happens in summer when the family goes away. Ordinary questions, and they prevent almost every problem. And I tell everyone the same thing, as a commitment: <strong>if one day you can no longer keep the dog, it comes back here.</strong> In twelve years it has never been needed; where those dogs are and what life they lead today is told in the <a href="/en/staffordshire-family-life-stories/" title="Family stories">family stories</a>.</p>
+  <p>Of anyone who wants a puppy I ask one thing first: to come to Ostellato in person, at least once. It is the only moment when I see how someone behaves with a real dog rather than a photograph, and when they see where the puppy grew up. I ask to talk about the dog's day: how many hours it will be alone, who is at home, what happens in summer when the family goes away. Ordinary questions, and they prevent almost every problem.</p>
   </div>
   </section>
 
@@ -143,7 +144,7 @@ custom_content: |
   <!--CORRELATI-->
 
 
-  <p>We tell every family the same thing: if one day you can no longer keep the dog, it comes back to us. In twelve years it has never been needed &mdash; where those dogs ended up is told in <a href="/en/staffordshire-family-life-stories/" title="Family stories">the family stories</a>.</p>
+  <p>We tell every family the same thing: if one day you can no longer keep the dog, it comes back to us. Since 2013 it has never been needed &mdash; where those dogs ended up is told in <a href="/en/staffordshire-family-life-stories/" title="Family stories">the family stories</a>.</p>
 
 
   <section class="cta-section">

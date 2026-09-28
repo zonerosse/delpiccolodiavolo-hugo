@@ -1,6 +1,7 @@
 ---
 title: "Würfe Staffordshire Bull Terrier"
 titleSeo: "Würfe Staffordshire Bull Terrier: geplant und bisherige"
+date: 2025-12-28
 lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 translationKey: "programma"

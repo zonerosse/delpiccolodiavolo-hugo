@@ -1,6 +1,7 @@
 ---
 title: "Programma allevamento Staffordshire Bull Terrier"
 titleSeo: "Programma allevamento Staffordshire Bull Terrier"
+date: 2025-12-28
 lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 translationKey: "programma"
@@ -84,7 +85,7 @@ custom_content: |
   <p>Un accoppiamento a Del Piccolo Diavolo si programma con mesi di anticipo e segue sempre lo stesso percorso. Si parte dai test genetici dei due riproduttori per L2HGA e HC, e per la fattrice anche per DM-SOD1, poi si studiano i pedigree su SBTPedigree con la funzione di prova di accoppiamento, che mostra il coefficiente di consanguineità teorico dei cuccioli e su quali antenati si concentra. La forbice entro cui ci muoviamo va dal 6 al 9 per cento: sotto si perde la possibilità di fissare un carattere, sopra si stringe troppo. Il maschio arriva quasi sempre da fuori, scelto per correggere quello che manca alla femmina e non per sommare due cani belli. Il risultato è una cucciolata l'anno, occasionalmente due, in alcuni anni nessuna: se il momento giusto non arriva, quell'anno non nasce niente.</p>
 
   <p>Il nostro programma di allevamento si basa sulla selezione attenta di riproduttori sani, equilibrati e conformi allo standard. Ogni soggetto viene valutato per morfologia, carattere e salute genetica prima di entrare nel programma riproduttivo.</p>
-  <p>Lavoriamo con le migliori linee di sangue inglesi (Elitebull) e irlandesi (Lackyle), selezionando riproduttori che abbiano dimostrato qualità in esposizione e che possiedano i test genetici per L2HGA e HC.</p>
+  <p>Lavoriamo su linee inglesi (Elitebull) e irlandesi (Lackyle), verificabili su SBTPedigree, selezionando riproduttori che abbiano dimostrato qualità in esposizione e che possiedano i test genetici per L2HGA e HC.</p>
   <p>La selezione non si limita all'aspetto estetico: il temperamento equilibrato, la socievolezza e la capacità di adattarsi alla vita familiare sono criteri fondamentali nella scelta dei nostri riproduttori.</p>
   <p>Per sapere cosa include ogni affido e quanto costa un cucciolo, leggi la nostra guida su <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p>
   </div>

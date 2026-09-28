@@ -1,6 +1,7 @@
 ---
 title: "Welpen Staffordshire Bull Terrier"
 titleSeo: "Staffordshire Bull Terrier Welpen mit überprüfbaren Gentests"
+date: 2025-12-28
 lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
@@ -30,7 +31,7 @@ custom_content: |
   <span class="hero-eyebrow">Zucht Del Piccolo Diavolo</span>
   <h1 class="hero-title">Welpen <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">Elitebull und Lackyle Linien - Seit 2013</p>
-  <p class="hero-description">Unsere Welpen werden in der Familie geboren und aufgezogen, umgeben von Liebe und positiven Reizen. Wir selektieren für Gesundheit, Charakter und Typizität nach den besten englischen und irischen Blutlinien.</p>
+  <p class="hero-description">Unsere Welpen kommen im Haus zur Welt und bleiben dort den ersten Monat, danach wachsen sie zwischen Haus und Hof auf. Wir selektieren auf Gesundheit, Charakter und Typ, mit englischen (Elitebull) und irischen (Lackyle) Linien, dokumentiert auf SBTPedigree.</p>
   <div class="hero-actions">
   <a href="/de/wuerfe-staffordshire-bull-terrier/" class="btn btn-primary" title="Verfügbare Welpen ansehen">Verfügbare Welpen</a>
   <a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20möchte%20Infos%20über%20Welpen" class="btn btn-ghost" title="Kontaktieren Sie uns auf WhatsApp">Kontakt</a>

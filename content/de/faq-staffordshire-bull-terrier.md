@@ -1,5 +1,6 @@
 ---
 title: "FAQ Staffordshire Bull Terrier - Häufig gestellte Fragen"
+date: 2025-12-28
 lastmod: 2026-09-28
 translationKey: "faq"
 description: "Antworten auf häufig gestellte Fragen über Staffordshire Bull Terrier: Charakter, Gesundheit, Welpen, Kosten, Ernährung, Training. Zucht Del Piccolo Diavolo."
@@ -229,7 +230,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Bieten Sie Unterstützung, nachdem der Welpe nach Hause gegangen ist?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Ja, und ohne Ablaufdatum. Wir bleiben für Rat zu Ernährung, Wachstum, Erziehung und Haltung erreichbar, auch nach Jahren: wer 2015 einen Welpen genommen hat, schreibt heute noch, und das ist genau richtig so. Es gibt aber eine Zusage, die mehr wert ist als jeder Rat, und wir sagen sie allen vor der Abgabe: <strong>wenn Sie den Hund eines Tages nicht mehr halten können, kommt er hierher zurück</strong>. Das ist keine Höflichkeitsformel, sondern der Grund, warum wir in Ruhe entscheiden, wem wir einen Welpen anvertrauen. Ein Hund aus unserer Zucht landet weder im Tierheim noch geht er durch fremde Hände: ändert sich die Lage, aus welchem Grund auch immer, finden wir die Lösung. In zwölf Jahren war das nie nötig, und wo diese Hunde gelandet sind, erzählen die <a href="/de/staffordshire-in-der-familie-geschichten/" title="Geschichten der Familien">Geschichten der Familien</a>.
+  <div class="faq-answer">Ja, und ohne Ablaufdatum. Wir bleiben für Rat zu Ernährung, Wachstum, Erziehung und Haltung erreichbar, auch nach Jahren: wer 2015 einen Welpen genommen hat, schreibt heute noch, und das ist genau richtig so. Es gibt aber eine Zusage, die mehr wert ist als jeder Rat, und wir sagen sie allen vor der Abgabe: <strong>wenn Sie den Hund eines Tages nicht mehr halten können, kommt er hierher zurück</strong>. Das ist keine Höflichkeitsformel, sondern der Grund, warum wir in Ruhe entscheiden, wem wir einen Welpen anvertrauen. Ein Hund aus unserer Zucht landet weder im Tierheim noch geht er durch fremde Hände: ändert sich die Lage, aus welchem Grund auch immer, finden wir die Lösung. Seit 2013 war das nie nötig, und wo diese Hunde gelandet sind, erzählen die <a href="/de/staffordshire-in-der-familie-geschichten/" title="Geschichten der Familien">Geschichten der Familien</a>.
   </div>
   </div>
     <div class="faq-item active">

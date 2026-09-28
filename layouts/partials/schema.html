@@ -264,58 +264,8 @@
 }
 </script>
 
-{{/* FAQPage su HOMEPAGE */}}
-{{ if .IsHome }}
-<!-- JSON-LD: FAQPage Homepage -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "{{ if eq $lang "de" }}Wie viel kostet ein Welpe mit ENCI-Stammbaum?{{ else if eq $lang "en" }}How much does a puppy with ENCI pedigree cost?{{ else }}Quanto costa un cucciolo con pedigree ENCI?{{ end }}",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "{{ if eq $lang "de" }}Dahinter stehen Jahre an Arbeit: Selektion der Zuchttiere, Gentests, tierärztliche Betreuung und Welpen, die im Haus aufwachsen. Jeder Welpe geht mit Impfungen, Mikrochip, Entwurmungen und unserer lebenslangen Begleitung.{{ else if eq $lang "en" }}Behind every puppy there are years of work: selection, genetic testing of the breeding dogs, veterinary care and a litter raised at home. Each puppy leaves with vaccinations, microchip, deworming and our support for life.{{ else }}Dietro c'è il lavoro di anni: selezione dei riproduttori, test genetici, cure veterinarie e cuccioli cresciuti in casa. Ogni cucciolo parte con vaccinazioni, microchip, sverminazioni e il nostro supporto per tutta la vita.{{ end }}"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "{{ if eq $lang "de" }}Welche Gentests führen Sie bei den Zuchttieren durch?{{ else if eq $lang "en" }}What genetic tests do you perform on breeding dogs?{{ else }}Quali test genetici fate sui riproduttori?{{ end }}",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "{{ if eq $lang "de" }}Alle unsere Zuchttiere sind getestet auf: L2HGA und HC (Erbliche Katarakt, Gen HSF4); die aktiven Zuchthündinnen zusätzlich auf degenerative Myelopathie (Gen SOD1). Die Tests sind unerlässlich für gesunde Welpen. Jeder Welpe wird mit Zertifikaten der elterlichen Tests übergeben.{{ else if eq $lang "en" }}All our breeding dogs are tested for: L2HGA and HC (Hereditary Cataract, HSF4 gene); our active breeding females also for degenerative myelopathy (SOD1 gene). Tests are essential for producing healthy puppies. Each puppy comes with certificates of parental tests.{{ else }}Tutti i nostri riproduttori sono testati per: L2HGA (Aciduria L-2-Idrossiglutarica), HC (Cataratta Ereditaria, gene HSF4); le fattrici in attività anche per la mielopatia degenerativa (gene SOD1). I test sono fondamentali per produrre cuccioli sani. Ogni cucciolo viene affidato con certificati dei test dei genitori.{{ end }}"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "{{ if eq $lang "de" }}Kann ich die Zucht besuchen?{{ else if eq $lang "en" }}Can I visit the kennel?{{ else }}Posso visitare l'allevamento?{{ end }}",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "{{ if eq $lang "de" }}Ja, das empfehle ich sogar. In unserer Zucht empfange ich nach Vereinbarung. Sie sehen die erwachsenen Hunde, wie die Welpen leben, und können Dokumentation und Stammbaum überprüfen.{{ else if eq $lang "en" }}Yes, I highly recommend it. At our kennel I receive by appointment. You will see the adult dogs, how the puppies live, and can verify documentation and pedigree.{{ else }}Assolutamente sì, anzi lo consiglio caldamente. Nel nostro allevamento ricevo su appuntamento. Vedrete i cani adulti, come vivono i cuccioli, potrete verificare documentazione e pedigree.{{ end }}"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "{{ if eq $lang "de" }}Wo befindet sich die Zucht?{{ else if eq $lang "en" }}Where is the kennel located?{{ else }}Dove si trova l'allevamento?{{ end }}",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "{{ if eq $lang "de" }}Die Zucht befindet sich in Ostellato (Ferrara), Emilia-Romagna, im Herzen Norditaliens. Gut erreichbar aus dem Veneto, der Lombardei und der Toskana.{{ else if eq $lang "en" }}The kennel is located in Ostellato (Ferrara), Emilia-Romagna, in the heart of Northern Italy. Easily reachable from Veneto, Lombardy and Tuscany.{{ else }}L'allevamento si trova a Ostellato (Ferrara), Emilia-Romagna, nel cuore del Nord Italia. Raggiungibile facilmente da Veneto, Lombardia e Toscana.{{ end }}"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "{{ if eq $lang "de" }}Welche Blutlinien verwendet die Zucht?{{ else if eq $lang "en" }}What bloodlines does the kennel use?{{ else }}Quali linee di sangue usa l'allevamento?{{ end }}",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "{{ if eq $lang "de" }}Wir arbeiten mit den besten englischen (Elitebull) und irischen (Lackyle) Blutlinien. Elitebull ist bekannt für typischen Kopf und robuste Knochenstruktur, Lackyle für Eleganz und ausgeglichenen Charakter.{{ else if eq $lang "en" }}We work with the best English (Elitebull) and Irish (Lackyle) bloodlines. Elitebull is known for typical head and robust bone structure, Lackyle for elegance and balanced character.{{ else }}Lavoriamo con le migliori linee di sangue inglesi (Elitebull) e irlandesi (Lackyle). Elitebull è nota per la testa tipica e l'ossatura robusta, Lackyle per l'eleganza e il carattere equilibrato.{{ end }}"
-      }
-    }
-  ]
-}
-</script>
-{{ end }}
+{{/* FAQPage della home: ora lo genera lo schema automatico piu' sotto, leggendo le
+     domande visibili nella pagina, cosi' dati strutturati e testo coincidono. */}}
 
 {{/* FAQPage sulla pagina contatti/geo */}}
 {{ if and (in $currentURL "emilia-romagna") (lt (len $coppie) 3) }}
@@ -399,14 +349,7 @@
   "description": {{ .Description }},
   "image": "{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ $baseURL }}/images/femmina-bilquis-hero.avif{{ end }}",
   "author": { "@id": "{{ $baseURL }}/#paolo-boldrini" },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Allevamento Del Piccolo Diavolo",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "{{ $baseURL }}/images/logo.webp"
-    }
-  },
+  "publisher": { "@id": "{{ $baseURL }}/#organization" },
   {{ $pubA := cond .Date.IsZero .Lastmod .Date }}
   {{ if not $pubA.IsZero }}"datePublished": "{{ $pubA.Format "2006-01-02T15:04:05-07:00" }}",{{ end }}
   {{ if not .Lastmod.IsZero }}"dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}",{{ end }}
@@ -439,7 +382,7 @@
 {{/* FAQPage automatico: legge le domande gia' presenti nel contenuto.
      Si attiva sulle pagine che hanno almeno 3 H2/H3 che finiscono con "?"
      e che non hanno gia' un FAQPage scritto a mano. */}}
-{{ if and (ge (len $coppie) 3) (not .IsHome) (not .Params.faq_manuale) }}
+{{ if and (ge (len $coppie) 3) (not .Params.faq_manuale) }}
 <!-- JSON-LD: FAQPage generato dalle domande della pagina -->
 <script type="application/ld+json">
 {

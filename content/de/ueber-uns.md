@@ -1,5 +1,6 @@
 ---
 title: "Über Uns - Staffordshire Bull Terrier Züchter"
+date: 2025-12-28
 lastmod: 2026-09-28
 tipoPagina: "ProfilePage"
 translationKey: "chi-siamo"
@@ -131,7 +132,7 @@ custom_content: |
   <p><strong>Was hinter dem Rüden steht.</strong> Den Hund anzuschauen reicht nicht: ich schaue auf seinen Vater, seine Mutter, seine Wurfgeschwister und darauf, was er hervorgebracht hat, wenn er schon Nachkommen hat. Ein Hund kann besser oder schlechter sein als seine Linie, und die zweite Generation zeigt es.</p>
   <p><strong>Was der Besitzer des Deckrüden vorweisen kann.</strong> Gentest-Befunde mit der Mikrochipnummer darauf, keine Versprechen. Ist ein Rüde nicht auf alles Nötige getestet oder nur durch Abstammung frei, weiß ich es vor der Verpaarung und schreibe es auf die Seite dieses Wurfs: wer liest, soll es so gut wissen wie ich.</p>
   <p>Bevor ein Hund in die Zucht geht, beobachte ich ihn monatelang: zu Hause, mit Fremden, mit anderen Hunden, mit Kindern. Ein Hund, der nicht selbstsicher ist, kommt nicht ins Programm, so schön er auch sein mag. Deshalb gibt es ein oder zwei Würfe im Jahr und in manchen Jahren keinen: kommt der richtige Moment nicht, wird in diesem Jahr nichts geboren.</p>
-  <p>Von allen, die einen Welpen möchten, erwarte ich zuerst eines: einmal persönlich nach Ostellato zu kommen. Es ist der einzige Moment, in dem ich sehe, wie jemand mit einem echten Hund umgeht statt mit einem Foto, und in dem die Familie sieht, wo der Welpe aufgewachsen ist. Ich möchte über den Tag des Hundes sprechen: wie viele Stunden er allein ist, wer zu Hause ist, was im Sommer geschieht, wenn die Familie verreist. Alltägliche Fragen, und sie verhindern fast alle Probleme. Und ich sage allen dasselbe, als Zusage: <strong>wenn Sie den Hund eines Tages nicht mehr halten können, kommt er hierher zurück.</strong> In zwölf Jahren war das nie nötig; wo diese Hunde heute sind und welches Leben sie führen, erzählen die <a href="/de/staffordshire-in-der-familie-geschichten/" title="Geschichten der Familien">Geschichten der Familien</a>.</p>
+  <p>Von allen, die einen Welpen möchten, erwarte ich zuerst eines: einmal persönlich nach Ostellato zu kommen. Es ist der einzige Moment, in dem ich sehe, wie jemand mit einem echten Hund umgeht statt mit einem Foto, und in dem die Familie sieht, wo der Welpe aufgewachsen ist. Ich möchte über den Tag des Hundes sprechen: wie viele Stunden er allein ist, wer zu Hause ist, was im Sommer geschieht, wenn die Familie verreist. Alltägliche Fragen, und sie verhindern fast alle Probleme.</p>
   </div>
   </section>
 
@@ -143,7 +144,7 @@ custom_content: |
   <!--CORRELATI-->
 
 
-  <p>Wir sagen jeder Familie dasselbe: wenn Sie den Hund eines Tages nicht mehr halten können, kommt er zu uns zurück. In zwölf Jahren war es nie nötig &mdash; wo diese Hunde gelandet sind, erzählen wir in den <a href="/de/staffordshire-in-der-familie-geschichten/" title="Familiengeschichten">Familiengeschichten</a>.</p>
+  <p>Wir sagen jeder Familie dasselbe: wenn Sie den Hund eines Tages nicht mehr halten können, kommt er zu uns zurück. Seit 2013 war es nie nötig &mdash; wo diese Hunde gelandet sind, erzählen wir in den <a href="/de/staffordshire-in-der-familie-geschichten/" title="Familiengeschichten">Familiengeschichten</a>.</p>
 
 
   <section class="cta-section">
