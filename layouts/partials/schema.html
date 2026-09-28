@@ -24,20 +24,31 @@
 
 {{/* Schema 1: fisarmonica .faq-item — il titolo puo' contenere link o <strong>,
      la risposta sta in <div class="faq-answer"> e spesso non ha <p> dentro. */}}
-{{ range findRESubmatch `(?s)<h[23][^>]*>(.*?\?)\s*</h[23]>\s*(?:<span class="faq-toggle">.*?</span>\s*)?</div>\s*<div class="faq-answer"[^>]*>(.*?)</div>` $faqsrc }}
+{{ range findRESubmatch `(?s)<h[23][^>]*>((?:[^<]|<[^h/]|</[^h])*?\?)\s*</h[23]>\s*(?:<span class="faq-toggle">.*?</span>\s*)?</div>\s*<div class="faq-answer"[^>]*>(.*?)</div>` $faqsrc }}
   {{ $d := index . 1 | plainify | htmlUnescape }}
   {{ $r := index . 2 | plainify | htmlUnescape }}
-  {{ if and (gt (len $d) 12) (gt (len $r) 60) (lt (len $r) 1200) (not (in $viste $d)) }}
+  {{ if and (gt (len $d) 12) (lt (len $d) 250) (gt (len $r) 60) (lt (len $r) 1200) (not (in $viste $d)) }}
     {{ $coppie = $coppie | append (dict "d" $d "r" $r) }}
     {{ $viste = $viste | append $d }}
   {{ end }}
 {{ end }}
 
 {{/* Schema 2: domanda come titolo seguita da un paragrafo. */}}
-{{ range findRESubmatch `(?s)<h[23][^>]*>(.*?\?)\s*</h[23]>\s*(?:<div[^>]*>\s*)?<p[^>]*>(.*?)</p>` $faqsrc }}
+{{ range findRESubmatch `(?s)<h[23][^>]*>((?:[^<]|<[^h/]|</[^h])*?\?)\s*</h[23]>\s*(?:<div[^>]*>\s*)?<p[^>]*>(.*?)</p>` $faqsrc }}
   {{ $d := index . 1 | plainify | htmlUnescape }}
   {{ $r := index . 2 | plainify | htmlUnescape }}
-  {{ if and (gt (len $d) 12) (gt (len $r) 60) (lt (len $r) 1200) (not (in $viste $d)) }}
+  {{ if and (gt (len $d) 12) (lt (len $d) 250) (gt (len $r) 60) (lt (len $r) 1200) (not (in $viste $d)) }}
+    {{ $coppie = $coppie | append (dict "d" $d "r" $r) }}
+    {{ $viste = $viste | append $d }}
+  {{ end }}
+{{ end }}
+
+{{/* Schema 3: domanda in <h3> seguita direttamente da <div class="faq-answer">,
+     senza il contenitore .faq-question (articoli del blog). */}}
+{{ range findRESubmatch `(?s)<h[23][^>]*>((?:[^<]|<[^h/]|</[^h])*?\?)\s*</h[23]>\s*<div class="faq-answer"[^>]*>(.*?)</div>` $faqsrc }}
+  {{ $d := index . 1 | plainify | htmlUnescape }}
+  {{ $r := index . 2 | plainify | htmlUnescape }}
+  {{ if and (gt (len $d) 12) (lt (len $d) 250) (gt (len $r) 60) (lt (len $r) 1200) (not (in $viste $d)) }}
     {{ $coppie = $coppie | append (dict "d" $d "r" $r) }}
     {{ $viste = $viste | append $d }}
   {{ end }}
