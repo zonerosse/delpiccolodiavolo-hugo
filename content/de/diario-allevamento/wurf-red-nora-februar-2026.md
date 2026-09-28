@@ -1,10 +1,10 @@
 ---
 title: "Wurf Red × Nora (Februar 2026)"
-lastmod: 2026-09-08
+lastmod: 2026-09-28
 titleSeo: "Wurf Red und Nora, Februar 2026: Eltern und Gentests"
 articolo: true
 translationKey: "cucciolata-red-nora-febbraio-2026"
-description: "Wurf geboren am 9. Februar 2026 von Skilful-dogs Nora: gestromte und rot-weiße Welpen. Nicht verfügbar."
+description: "Wurf vom 9. Februar 2026 aus Skilful-dogs Nora und Vangerbull Red Harricane: gestromte und rot-weiße Staffordshire Bull Terrier Welpen. Nicht verfügbar."
 slug: "wurf-red-nora-februar-2026"
 date: 2026-02-09
 image: "/images/red.avif"

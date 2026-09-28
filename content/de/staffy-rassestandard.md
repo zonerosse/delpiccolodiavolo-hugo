@@ -1,11 +1,11 @@
 ---
 title: "FCI Rassestandard Staffordshire Bull Terrier"
 date: 2025-02-12
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 translationKey: "standard"
 articolo: true
 image: "/images/blog/standard-tipicita-morfologia-hero.webp"
-description: "Vollständiger FCI-Standard Nr. 76 für Staffordshire Bull Terrier: Morphologie, Größe, Gewicht, Farben, Charakter."
+description: "Der FCI-Standard Nr. 76 des Staffordshire Bull Terrier erklärt: Proportionen, Kopf, Körper, Gangwerk, Farben und wie die Fehler im Ring gewichtet werden."
 slug: "staffy-rassestandard"
 custom_content: |
   <section class="hero">

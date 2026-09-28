@@ -5,7 +5,7 @@ lastmod: 2026-09-28
 translationKey: "standard"
 articolo: true
 image: "/images/blog/standard-1.webp"
-description: "Standard FCI dello Staffordshire Bull Terrier: tipicità, morfologia e i punti che fanno la differenza in expo."
+description: "Lo standard FCI dello Staffordshire Bull Terrier spiegato: testa, proporzioni, ossatura, movimento, colori e carattere, cioè i punti che fanno la differenza in expo."
 slug: "standard-tipicita-morfologia"
 custom_content: |
   <section class="hero">

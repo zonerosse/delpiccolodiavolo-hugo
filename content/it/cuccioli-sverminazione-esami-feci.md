@@ -2,11 +2,11 @@
 title: "Cuccioli: Sverminazione ed Esami delle Feci"
 date: 2026-09-27
 titleSeo: "Sverminazione cuccioli: protocollo ed esami delle feci"
-lastmod: 2026-09-27
+lastmod: 2026-09-28
 translationKey: "sverminazione"
 articolo: true
 image: "/images/blog/esame-feci-microscopio-hero.webp"
-description: "Come gestiamo la sverminazione dei cuccioli Staffordshire Bull Terrier: calendario, prodotti, e i referti degli esami delle feci della cucciolata pubblicati per intero."
+description: "Sverminazione dei cuccioli di Staffordshire Bull Terrier: calendario, prodotti e i referti degli esami delle feci della cucciolata, pubblicati per intero."
 slug: "cuccioli-sverminazione-esami-feci"
 custom_content: |
   <section class="hero">

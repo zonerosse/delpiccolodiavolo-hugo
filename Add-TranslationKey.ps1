@@ -14,7 +14,8 @@ param([switch]$Apply)
 # chiave | file IT | file EN | file DE     ("-" = non esiste in quella lingua)
 $mappa = @(
  "home|_index.md|_index.md|_index.md"
- "contatti|allevamento-staffordshire-bull-terrier-in-emilia-romagna.md|contact.md|kontakt.md"
+ "contatti|-|contact.md|kontakt.md"
+ "emilia-romagna|allevamento-staffordshire-bull-terrier-in-emilia-romagna.md|-|-"
  "blog|blog.md|blog.md|blog.md"
  "boas|boas-staffordshire-bull-terrier-respirazione.md|boas-staffordshire-bull-terrier-breathing.md|boas-staffordshire-bull-terrier-atmung.md"
  "chi-siamo|chi-siamo.md|about-us.md|ueber-uns.md"

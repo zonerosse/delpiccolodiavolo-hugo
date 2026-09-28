@@ -25,7 +25,7 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Seit 2013</span>
   <h1 class="hero-title">Über <br><em>Uns</em></h1>
-  <p class="hero-subtitle">Selektion, Ethik und Leidenschaft</p>
+  <p class="hero-subtitle">Seit 2013 in Ostellato, Provinz Ferrara</p>
   <p class="hero-description">Familienzucht in Ostellato (FE), Italien. Gesunde, ausgeglichene und typische Staffordshire Bull Terrier mit Elitebull und Lackyle Blutlinien.</p>
   <div class="hero-actions">
   <a href="https://wa.me/393924635584" class="btn btn-primary" title="Kontaktieren Sie uns">Kontakt</a>
@@ -62,7 +62,7 @@ custom_content: |
   <div class="story-block" style="grid-template-columns:1fr">
   <div class="story-text">
   <h3>Von Crufts nach Ostellato</h3>
-  <p>Die Leidenschaft begann 2005 bei Crufts. Ich suchte einen Hund mit starkem aber handhabbarem Charakter: Der Staffy erschien mir wie ein "Mini-Rottweiler" — kraftvoll, entschlossen, unglaublich liebevoll.</p>
+  <p>Alles begann 2005 bei Crufts. Ich suchte einen Hund mit starkem aber handhabbarem Charakter: Der Staffy erschien mir wie ein "Mini-Rottweiler" — kraftvoll, entschlossen, unglaublich liebevoll.</p>
   <p>Seitdem habe ich den Standard studiert, bin nach UK und Irland gereist und erfahrene Züchter kennengelernt.</p>
   </div>
   <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo — Staffordshire Bull Terrier" class="story-img" width="350" height="354" loading="lazy" decoding="async">

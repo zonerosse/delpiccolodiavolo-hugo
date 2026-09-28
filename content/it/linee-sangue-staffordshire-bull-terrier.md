@@ -44,7 +44,7 @@ custom_content: |
   <article class="article-content">
   
   <div class="lead">
-  <strong>In breve:</strong> Lo <a aria-label="Allevamento Del Piccolo Diavolo" href="/">Staffordshire Bull Terrier</a> possiede una ricca storia genealogica che risale al riconoscimento ufficiale della razza nel 1935. Originariamente esistevano 6 linee di sangue fondatrici (Linea M, R, J, L, B, C), di cui oggi sopravvivono principalmente le linee M (Brindle Mick) e R (Ribchester Bob), che costituiscono circa il 70% del patrimonio genetico della razza moderna.
+  <strong>In breve:</strong> Lo <a aria-label="Allevamento Del Piccolo Diavolo" href="/">Staffordshire Bull Terrier</a> possiede una ricca storia genealogica che risale al <a href="https://www.thekennelclub.org.uk/breed-standards/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="Kennel Club britannico, standard di razza (si apre in una nuova scheda)">riconoscimento ufficiale della razza</a> da parte del Kennel Club britannico, nel 1935. Originariamente esistevano 6 linee di sangue fondatrici (Linea M, R, J, L, B, C), di cui oggi sopravvivono principalmente le linee M (Brindle Mick) e R (Ribchester Bob), che costituiscono circa il 70% del patrimonio genetico della razza moderna.
   </div>
   
   <h2>Le Origini delle Linee di Sangue</h2>
@@ -66,7 +66,7 @@ custom_content: |
   
   <div class="callout">
   <p class="callout-title">🏆 Nota storica importante</p>
-  <p>Le linee di sangue sono tracciate attraverso i discendenti maschi - una pratica <a href="https://www.enci.it/media/2347/076.pdf" title="Standard FCI n. 76, PDF ufficiale ENCI" target="_blank" rel="noopener" aria-label="Standard FCI n. 76, PDF ufficiale ENCI (si apre in una nuova scheda)">standard</a> nella cinofilia. Questo significa che un cane appartiene alla linea del suo bisnonno paterno, anche se nel pedigree sono presenti altre linee attraverso le femmine.</p>
+  <p>Le linee di sangue sono tracciate attraverso i discendenti maschi - una pratica comune nella cinofilia. Questo significa che un cane appartiene alla linea del suo bisnonno paterno, anche se nel pedigree sono presenti altre linee attraverso le femmine.</p>
   </div>
   
   <h3>Il Primo Campione: Gentleman Jim</h3>

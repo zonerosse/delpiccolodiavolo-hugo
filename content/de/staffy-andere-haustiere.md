@@ -1,11 +1,11 @@
 ---
 title: "Staffordshire Bull Terrier mit anderen Haustieren"
 date: 2024-06-18
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 translationKey: "altri-animali"
 articolo: true
 image: "/images/blog/famiglia-2.jpg"
-description: "Leitfaden für das Zusammenleben von Staffy mit anderen Hunden, Katzen und Haustieren: Sozialisierung, Einführung, Tipps."
+description: "Staffordshire Bull Terrier mit anderen Hunden, Katzen und Kleintieren: was das Terrier-Erbe bedeutet, wie man zusammenführt und wo die meisten Konflikte beginnen."
 slug: "staffy-andere-haustiere"
 custom_content: |
   <section class="hero">

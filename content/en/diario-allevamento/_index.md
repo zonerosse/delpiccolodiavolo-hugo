@@ -1,11 +1,12 @@
 ---
 title: "Breeding Diary"
 titleSeo: "Breeding diary: litters, dates and genetic tests"
-lastmod: 2026-09-12
+date: 2026-01-31
+lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 articolo: true
 translationKey: "diario-allevamento"
-description: "Updates, births and news from Del Piccolo Diavolo kennel. Follow the growth of our Staffordshire Bull Terrier puppies."
+description: "The Del Piccolo Diavolo breeding diary: births, litter updates and growth photos of our Staffordshire Bull Terrier puppies in Ostellato, Italy, week by week."
 slug: "breeding-diary"
 ---
 

@@ -6,7 +6,7 @@ titleSeo: "Staffordshire Bull Terrier: è il cane giusto per te?"
 translationKey: "cane-giusto"
 articolo: true
 image: "/images/blog/cuccioli-8.webp"
-description: "Guida onesta: pregi e difetti reali dello Staffordshire Bull Terrier, per chi è adatto e per chi no, impegno e costi."
+description: "Lo Staffordshire Bull Terrier è il cane giusto per te? Pregi e difetti senza sconti, per chi è adatto e per chi no, e quanto impegno richiede ogni giorno."
 slug: "staffordshire-bull-terrier-e-il-cane-giusto-per-te"
 custom_content: |
   <section class="hero">

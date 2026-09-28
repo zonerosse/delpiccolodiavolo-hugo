@@ -1,10 +1,10 @@
 ---
 title: "Bilquis × Black Jack Litter (August 2026)"
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 articolo: true
 titleSeo: "Bilquis × Black Jack litter, August 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
-description: "Born 1 August 2026: 8 Staffordshire Bull Terrier puppies from Bilquis Goddess Diabhal, Italian Champion ENCI. Not available."
+description: "Born 1 August 2026: 8 Staffordshire Bull Terrier puppies from Bilquis Goddess Diabhal, Italian Champion ENCI, and Black Jack Di Casa Giacalone. Not available."
 video:
   id: "rm1fY0_P6I8"
   nome: "Staffordshire Bull Terrier puppy at 30 days"

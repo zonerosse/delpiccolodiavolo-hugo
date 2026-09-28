@@ -1,12 +1,12 @@
 ---
 title: "BOAS nello Staffordshire Bull Terrier: Perché la Respirazione È Fondamentale"
 date: 2025-12-28
-lastmod: 2026-09-26
+lastmod: 2026-09-28
 titleSeo: "BOAS nello Staffordshire Bull Terrier: la respirazione"
 translationKey: "boas"
 articolo: true
 image: "/images/blog/boas-respirazione.webp"
-description: "BOAS nello Staffordshire Bull Terrier: cos'è, come riconoscerlo e perché la respirazione è un criterio di selezione."
+description: "BOAS nello Staffordshire Bull Terrier: cos'è la sindrome, perché la razza non è brachicefala estrema e come scegliere un cucciolo che respira senza difficoltà."
 slug: "boas-staffordshire-bull-terrier-respirazione"
 custom_content: |
   <section class="hero">

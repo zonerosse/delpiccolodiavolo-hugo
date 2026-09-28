@@ -26,7 +26,7 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Dal 2013</span>
   <h1 class="hero-title">Chi Siamo – <em>Allevamento Staffordshire Bull Terrier</em></h1>
-  <p class="hero-subtitle">Selezione, etica e passione</p>
+  <p class="hero-subtitle">Dal 2013 a Ostellato, in provincia di Ferrara</p>
   <p class="hero-description">Siamo un allevamento Staffordshire Bull Terrier a gestione familiare, con sede a Ostellato (FE). Selezioniamo soggetti sani, equilibrati e tipici con linee Elitebull e Lackyle.</p>
   <div class="hero-actions">
   <a href="https://wa.me/393924635584" class="btn btn-primary" title="Contattaci su WhatsApp">Contattaci</a>
@@ -55,7 +55,7 @@ custom_content: |
   <div class="story-block">
   <div class="story-text">
   <h3>Dal Crufts a Ostellato</h3>
-  <p>La passione nasce nel 2005 al Crufts. Cercavo un cane con carattere forte ma gestibile: lo Staffy mi è apparso come un "Rottweiler in miniatura" – potente, determinato, incredibilmente affettuoso.</p>
+  <p>Tutto comincia nel 2005, al Crufts. Cercavo un cane con carattere forte ma gestibile: lo Staffy mi è apparso come un "Rottweiler in miniatura" – potente, determinato, incredibilmente affettuoso.</p>
   <p>Da allora ho studiato lo standard, viaggiato in UK e Irlanda, conosciuto allevatori esperti.</p>
   </div>
   <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo — Staffordshire Bull Terrier" class="story-img" width="350" height="354" loading="lazy" decoding="async">

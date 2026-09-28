@@ -2,7 +2,7 @@
 title: "Welpen: Denkspiele"
 date: 2025-08-03
 titleSeo: "Denkspiele für Staffordshire Bull Terrier Welpen"
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 translationKey: "giochi-mentali"
 articolo: true
 image: "/images/blog/cuccioli-3.webp"
@@ -44,6 +44,7 @@ custom_content: |
   <p>Ein Staffordshire-Bull-Terrier-Welpe, der körperlich müde, geistig aber unbeschäftigt ist, ist kein müder Welpe. Er ist ein Welpe mit Energie ohne Verwendung, und er verwendet sie auf Ihre Fußleisten, Ihre Schuhe und Ihre Geduld.</p>
   <p>10 bis 15 Minuten echtes Problemlösen ermüden einen Welpen gründlicher als die doppelte Zeit im Spaziergang — und ohne jede Belastung wachsender Gelenke. Für eine Rasse mit der Fünf-Minuten-Regel bis zum Schluss der Wachstumsfugen ist das kein Nebenaspekt: Kopfarbeit ist der Weg, den Bedarf eines Welpen zu decken, ohne ihm zu schaden.</p>
   <p>Ein zweiter Nutzen zeigt sich später. Ein Welpe, der lernt, etwas zu versuchen, zu scheitern und erneut zu versuchen, entwickelt Ausdauer und Frustrationstoleranz. Ein Welpe, der nie etwas lösen musste, gibt schnell auf und wird stattdessen laut.</p>
+  <p>Auch Denkspiele sind Training, und es gelten dieselben Regeln. Die <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="Positionspapiere der AVSAB (wird in einem neuen Tab geöffnet)">American Veterinary Society of Animal Behavior</a> empfiehlt belohnungsbasierte Methoden für jedes Training: Sie zeigen dem Welpen, was er tun soll, und belohnen ihn, wenn es gelingt, statt ihn zu korrigieren, wenn er sich irrt.</p>
 
   <h2>Beginnen Sie beim Futter</h2>
   <p>Die einfachste Umstellung kostet nichts und wirkt sofort: hören Sie auf, aus dem Napf zu füttern. Die Tagesration als Währung verwandelt jede Mahlzeit in eine Trainingseinheit und jede Fütterung in 15 Minuten Beschäftigung statt neunzig Sekunden.</p>

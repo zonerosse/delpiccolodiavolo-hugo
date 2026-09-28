@@ -1,7 +1,8 @@
 ---
 title: "Zucht-Tagebuch"
 titleSeo: "Zuchttagebuch: Würfe, Daten und Gentests"
-lastmod: 2026-09-12
+date: 2026-01-31
+lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 articolo: true
 translationKey: "diario-allevamento"

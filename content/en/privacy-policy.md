@@ -1,10 +1,10 @@
 ---
 title: "Privacy Policy – Del Piccolo Diavolo"
 titleSeo: "Privacy Policy: how we handle your data"
-lastmod: 2026-09-08
+lastmod: 2026-09-28
 tipoPagina: "WebPage"
 translationKey: "privacy"
-description: "Privacy Policy and personal data processing of Del Piccolo Diavolo Kennel - GDPR Information."
+description: "Privacy policy of the Del Piccolo Diavolo kennel in Ostellato (FE), Italy: what personal data we process, why, for how long and your rights under the GDPR."
 slug: "privacy-policy"
 custom_content: |
   <section class="hero">

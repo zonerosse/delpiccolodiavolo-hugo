@@ -6,7 +6,7 @@ titleSeo: "Staffordshire Bull Terrier: der richtige Hund für Sie?"
 translationKey: "cane-giusto"
 articolo: true
 image: "/images/blog/hero-default.webp"
-description: "Ehrlicher Ratgeber: echte Stärken und Schwächen des Staffordshire Bull Terrier, für wen er geeignet ist, Aufwand und Kosten."
+description: "Ist der Staffordshire Bull Terrier der richtige Hund für Sie? Stärken und Schwächen ohne Beschönigung, für wen er passt und wie viel Aufwand er täglich macht."
 slug: "ist-der-staffordshire-bull-terrier-der-richtige-hund"
 custom_content: |
   <section class="hero">

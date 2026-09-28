@@ -2,11 +2,11 @@
 title: "Linee di Sangue Staffordshire Bull Terrier: Come Orientarsi"
 date: 2025-03-05
 titleSeo: "Come orientarsi fra le linee di sangue dello Staffy"
-lastmod: 2026-09-20
+lastmod: 2026-09-28
 translationKey: "scelta-linee"
 articolo: true
 image: "/images/blog/standard-2.webp"
-description: "Linee di sangue dello Staffordshire Bull Terrier: come orientarsi tra pedigree, affissi e scelte di selezione."
+description: "Linee di sangue dello Staffordshire Bull Terrier: da dove vengono, come leggere un pedigree, perché la salute viene prima della linea e cosa chiedere all'allevatore."
 slug: "standard-linee-di-sangue-orientarsi"
 custom_content: |
   <section class="hero">

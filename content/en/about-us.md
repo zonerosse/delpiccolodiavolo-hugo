@@ -3,7 +3,7 @@ title: "About Us - Staffordshire Bull Terrier Breeder"
 lastmod: 2026-09-28
 tipoPagina: "ProfilePage"
 translationKey: "chi-siamo"
-description: "Del Piccolo Diavolo kennel: breeding healthy, balanced and typical Staffordshire Bull Terriers since 2013. Ostellato, Italy."
+description: "Del Piccolo Diavolo, Staffordshire Bull Terrier kennel in Ostellato (Ferrara), Italy, since 2013: who breeds the dogs, how pairings are chosen and how to visit us."
 correlati:
   - url: "/en/palmares/"
     titolo: "Our results"
@@ -25,7 +25,7 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Since 2013</span>
   <h1 class="hero-title">About <br><em>Us</em></h1>
-  <p class="hero-subtitle">Selection, ethics and passion</p>
+  <p class="hero-subtitle">Since 2013 in Ostellato, province of Ferrara</p>
   <p class="hero-description">Family kennel in Ostellato (FE), Italy. Healthy, balanced and typical Staffordshire Bull Terriers with Elitebull and Lackyle bloodlines.</p>
   <div class="hero-actions">
   <a href="https://wa.me/393924635584" class="btn btn-primary" title="Contact us on WhatsApp">Contact Us</a>
@@ -62,7 +62,7 @@ custom_content: |
   <div class="story-block" style="grid-template-columns:1fr">
   <div class="story-text">
   <h3>From Crufts to Ostellato</h3>
-  <p>The passion began in 2005 at Crufts. I was looking for a dog with strong but manageable character: the Staffy appeared to me as a "miniature Rottweiler" — powerful, determined, incredibly affectionate.</p>
+  <p>It all began in 2005, at Crufts. I was looking for a dog with strong but manageable character: the Staffy appeared to me as a "miniature Rottweiler" — powerful, determined, incredibly affectionate.</p>
   <p>Since then I've studied the standard, traveled to UK and Ireland, met experienced breeders.</p>
   </div>
   <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo — Staffordshire Bull Terrier" class="story-img" width="350" height="354" loading="lazy" decoding="async">

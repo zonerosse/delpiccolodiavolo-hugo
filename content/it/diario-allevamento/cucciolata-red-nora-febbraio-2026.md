@@ -1,9 +1,9 @@
 ---
 title: "Cucciolata Red × Nora (febbraio 2026)"
-lastmod: 2026-09-20
+lastmod: 2026-09-28
 articolo: true
 translationKey: "cucciolata-red-nora-febbraio-2026"
-description: "Cucciolata nata il 9 febbraio 2026 da Skilful-dogs Nora: cuccioli tigrati e rosso pezzato. Non disponibili."
+description: "Cucciolata nata il 9 febbraio 2026 da Skilful-dogs Nora e Vangerbull Red Harricane: cuccioli di Staffordshire Bull Terrier tigrati e rosso pezzato. Non disponibili."
 slug: "cucciolata-red-nora-febbraio-2026"
 date: 2026-02-09
 image: "/images/red.avif"

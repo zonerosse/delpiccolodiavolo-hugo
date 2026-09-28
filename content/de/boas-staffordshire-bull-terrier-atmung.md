@@ -1,12 +1,12 @@
 ---
 title: "BOAS beim Staffordshire Bull Terrier: Warum die Atmung entscheidend ist"
 date: 2025-12-28
-lastmod: 2026-09-26
+lastmod: 2026-09-28
 titleSeo: "BOAS beim Staffordshire Bull Terrier: die Atmung"
 translationKey: "boas"
 articolo: true
 image: "/images/blog/boas-respirazione.webp"
-description: "BOAS beim Staffordshire Bull Terrier: was es ist, wie man es erkennt und warum die Atmung ein Zuchtkriterium ist."
+description: "BOAS beim Staffordshire Bull Terrier: was das Atemwegssyndrom ist, warum die Rasse nicht extrem brachyzephal ist und wie man einen Welpen mit freier Atmung erkennt."
 slug: "boas-staffordshire-bull-terrier-atmung"
 custom_content: |
   <section class="hero">

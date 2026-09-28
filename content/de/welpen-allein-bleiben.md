@@ -6,7 +6,7 @@ lastmod: 2026-09-28
 translationKey: "solitudine"
 articolo: true
 image: "/images/blog/hero-default.webp"
-description: "Dem Staffordshire Bull Terrier Welpen das Alleinbleiben beibringen: Trennungsangst und schlechte Gewohnheiten vermeiden."
+description: "Dem Staffordshire Bull Terrier Welpen das Alleinbleiben beibringen: vom ersten Tag an, Weggehen und Zurückkommen, echten Trennungsstress erkennen, zumutbare Zeiten."
 slug: "welpen-allein-bleiben"
 custom_content: |
   <section class="hero">

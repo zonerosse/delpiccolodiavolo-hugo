@@ -1,7 +1,7 @@
 ---
 title: "Lo Staffy è Pericoloso? Verità e Legge Italiana"
 date: 2025-11-18
-lastmod: 2026-09-26
+lastmod: 2026-09-28
 translationKey: "pericoloso"
 articolo: true
 image: "/images/blog/staffy-carattere-legge-hero.webp"
@@ -74,11 +74,11 @@ custom_content: |
   
   <p>Il dato chiave è questo: <strong>non è stata rilevata alcuna differenza statisticamente significativa nel rischio di aggressione</strong> tra Staffordshire Bull Terrier e altri cani. L'Odds Ratio (OR) calcolato è stato di 1,09 con un intervallo di confidenza al 95% tra 0,75 e 1,58, e un valore p di 0,644.</p>
   
-  <p>La dottoressa <strong>Camilla Pegram</strong>, epidemiologa del VetCompass e autrice principale dello studio, ha dichiarato: "Sebbene gli Staffy siano spesso percepiti come aggressivi, questo studio non ha rivelato differenze significative nel rischio di aggressione rispetto ad altre razze. Potrebbe essere il momento di superare questi stereotipi."</p>
+  <p>La dottoressa <strong>Camilla Pegram</strong>, epidemiologa del VetCompass e autrice principale dello studio, ha dichiarato: "Sebbene gli Staffy siano spesso percepiti come aggressivi, questo studio non ha rivelato differenze significative nel rischio di aggressione rispetto ad altre razze."</p>
   
   <div class="callout">
   <p class="callout-title">💡 Cosa Significano Questi Numeri?</p>
-  <p>Un Odds Ratio di 1,09 significa che lo Staffy ha appena il 9% di probabilità in più di mostrare aggressione rispetto ad altri cani - una differenza così piccola da non essere statisticamente significativa (p=0,644). Per fare un confronto, un risultato è considerato significativo quando p&lt;0,05.</p>
+  <p>Un Odds Ratio di 1,09, con un intervallo di confidenza che va da 0,75 a 1,58, non indica un rischio più alto del 9%: indica che lo studio non ha trovato una differenza misurabile. L'intervallo comprende valori sotto 1 (rischio minore) e sopra 1 (rischio maggiore), e il valore p di 0,644 è lontanissimo dalla soglia di 0,05 sotto cui un risultato si considera significativo. In pratica: per il rischio di aggressione, lo Staffy non si distingue dagli altri cani.</p>
   </div>
   
   <h2>Il Mito del "Nanny Dog": Verità e Contesto Storico</h2>

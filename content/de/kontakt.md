@@ -1,9 +1,9 @@
 ---
 title: "Kontakt – Staffordshire Bull Terrier Zucht"
-lastmod: 2026-09-06
+lastmod: 2026-09-28
 tipoPagina: "ContactPage"
 translationKey: "contatti"
-description: "Staffordshire Bull Terrier Zucht in Ostellato (Ferrara), Emilia-Romagna. Besuche nach Vereinbarung, WhatsApp aktiv."
+description: "Kontakt zur Zucht Del Piccolo Diavolo in Ostellato (Ferrara), Emilia-Romagna: Staffordshire Bull Terrier, Besuche nach Vereinbarung, erreichbar per WhatsApp."
 slug: "kontakt"
 custom_content: |
   <section class="hero">

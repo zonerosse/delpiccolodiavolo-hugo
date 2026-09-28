@@ -5,7 +5,7 @@ lastmod: 2026-09-28
 translationKey: "linee-sangue"
 articolo: true
 image: "/images/blog/standard-1.webp"
-description: "Vollständiger Leitfaden zu Staffy-Blutlinien: englische und irische Linien, Elitebull, Lackyle, Stammbaum bewerten."
+description: "Blutlinien des Staffordshire Bull Terrier: englische und irische Linien, Elitebull und Lackyle, Ausstellung gegen Funktion, Ahnentafel lesen und Inzuchtkoeffizient."
 slug: "staffy-blutlinien-guide"
 custom_content: |
   <section class="hero">

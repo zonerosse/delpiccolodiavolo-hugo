@@ -2,7 +2,7 @@
 title: "Puppies: Mental Games"
 date: 2025-08-03
 titleSeo: "Mental games for Staffordshire Bull Terrier puppies"
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 translationKey: "giochi-mentali"
 articolo: true
 image: "/images/blog/cuccioli-3.webp"
@@ -51,6 +51,7 @@ custom_content: |
   <p>A Staffordshire Bull Terrier puppy that is physically tired but mentally idle is not a tired puppy. It is a puppy with energy it has no use for, which it will spend on your skirting boards, your shoes and your patience.</p>
   <p>10 to 15 minutes of genuine problem-solving tires a puppy more thoroughly than twice as long spent walking, and it does so without any load on growing joints. For a breed with a five-minute-per-month walking limit until the growth plates close, that is not a minor advantage: mental work is how you meet a puppy's needs without damaging it.</p>
   <p>There is a second benefit that matters later. A puppy that learns to try things, fail, and try again develops persistence and frustration tolerance. A puppy that has never had to solve anything gives up quickly and gets loud instead.</p>
+  <p>Mental games are training too, and the same rules apply. The <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="AVSAB position statements (opens in a new tab)">American Veterinary Society of Animal Behavior</a> recommends reward-based methods for all training: you show the puppy what to do and reward it when it succeeds, rather than correcting it when it gets things wrong.</p>
 
   <h2>Start with food</h2>
   <p>The simplest change costs nothing and works immediately: stop feeding from a bowl. A puppy's daily ration used as currency turns every meal into a training session and every mealtime into 15 minutes of occupation instead of ninety seconds.</p>

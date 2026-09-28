@@ -1,10 +1,10 @@
 ---
 title: "Staffordshire Bull Terrier Reviews"
 titleSeo: "Staffordshire Bull Terrier reviews from our families"
-lastmod: 2026-09-27
+lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
-description: "Google reviews from owners of our Staffordshire Bull Terriers: real experiences, before and after the placement."
+description: "Google reviews from families who took home a Staffordshire Bull Terrier from Del Piccolo Diavolo: real experiences, before the puppy arrived and in the years after."
 slug: "reviews"
 custom_content: |
   <section class="hero">

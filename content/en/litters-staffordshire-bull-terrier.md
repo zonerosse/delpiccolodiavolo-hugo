@@ -4,7 +4,7 @@ titleSeo: "Staffordshire Bull Terrier litters: planned and past"
 lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 translationKey: "programma"
-description: "Planned and current Staffordshire Bull Terrier litters at Del Piccolo Diavolo: parents, health tests and availability."
+description: "Staffordshire Bull Terrier litters at Del Piccolo Diavolo: planned and past pairings, the parents, their L2HGA and HC tests, and how we decide each mating."
 correlati:
   - url: "/en/staffy-bloodlines-guide/"
     titolo: "Bloodlines: English and Irish"

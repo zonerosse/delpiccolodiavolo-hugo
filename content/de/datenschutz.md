@@ -1,9 +1,9 @@
 ---
 title: "Datenschutzerklärung – Del Piccolo Diavolo"
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 tipoPagina: "WebPage"
 translationKey: "privacy"
-description: "Datenschutzerklärung und Verarbeitung personenbezogener Daten der Zucht Del Piccolo Diavolo - DSGVO-Informationen."
+description: "Datenschutz der Zucht Del Piccolo Diavolo in Ostellato (FE): welche personenbezogenen Daten wir verarbeiten, wozu, wie lange und Ihre Rechte nach der DSGVO."
 slug: "datenschutz"
 custom_content: |
   <section class="hero">
