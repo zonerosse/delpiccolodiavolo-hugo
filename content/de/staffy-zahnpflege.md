@@ -63,15 +63,80 @@ custom_content: |
   <h2>Ernährung und ihre tatsächliche Rolle</h2>
   <p>Die Behauptung, Trockenfutter reinige die Zähne, ist weitgehend ein Mythos: die meisten Kroketten zerbrechen beim Kontakt, ohne den Zahnfleischrand je zu berühren. Produkte mit gezielter Zahnpflegewirkung gibt es, sie sind mit größeren, faserigen Stücken formuliert, in die der Zahn einsinkt, und deren Wirkung ist messbar. Achten Sie auf eine anerkannte zahnmedizinische Zertifizierung statt auf ein Werbeversprechen.</p>
 
-  <h2>Häufige Fragen</h2>
-  <p><strong>Mein Hund lässt sich die Zähne nicht putzen. Was nun?</strong> Fast immer war die Gewöhnung zu schnell. Gehen Sie zurück zum Ablecken der Paste vom Finger, eine Woche lang ohne Bürste, und berühren Sie dann einen einzelnen Fangzahn. Fortschritt in Wochen gelingt, wo Fortschritt in Tagen scheitert.</p>
-  <p><strong>Ist Mundgeruch beim älteren Hund normal?</strong> Nein. Er ist das häufigste Symptom der häufigsten Erkrankung bei Hunden. Das Alter macht ihn wahrscheinlicher, nicht akzeptabler.</p>
-  <p><strong>Reichen Zahnpflegesticks allein?</strong> Sie helfen und sind sinnvoll, aber als Ergänzung. Kein Kauartikel erreicht den Zahnfleischrand der hinteren Zähne so wie eine Bürste.</p>
-  <p><strong>Darf ich im Notfall menschliche Zahnpasta nehmen?</strong> Unter keinen Umständen. Fluorid ist für Hunde giftig, und viele Zahnpasten enthalten Xylit, das schon in kleinen Mengen tödlich sein kann.</p>
-
   <h2>Eine realistische Routine</h2>
   <p>Wöchentlich: Lefze heben und beide Seiten ansehen. Drei- bis siebenmal die Woche: Außenflächen putzen, 30 Sekunden je Seite. Täglich: ein geeigneter Kauartikel, ausgewählt nach der Fingernagelregel. Jährlich: eine zahnärztliche Beurteilung beim Routinecheck — und danach handeln, statt zu verschieben.</p>
   <p>Von Welpenalter an durchgeführt, kostet das etwa 3 Minuten täglich und schenkt dem Hund Jahre beschwerdefreien Fressens. Mit 7 Jahren begonnen, ist es Schadensbegrenzung.</p>
+
+  <h2>Zahnwechsel, Monat für Monat</h2>
+  <p>Die 28 Milchzähne brechen zwischen der dritten und sechsten Woche durch; der Wechsel zum bleibenden Gebiss beginnt mit drei bis fünf Monaten und ist mit sechs oder sieben abgeschlossen, mit 42 Zähnen. Während des Wechsels sind leicht gerötetes, geschwollenes Zahnfleisch, mehr Speichel, ein starkes Kaubedürfnis, etwas Zurückhaltung bei hartem Futter und kleine Zähne in der Wohnung normal. Zur Hilfe: gefrorenes Spielzeug, ein mit Wasser gefüllter und eingefrorener Kong oder ein nasses Tau aus dem Gefrierfach, weiche Gummikauartikel statt harter, und für ein paar Tage Nassfutter, wenn der Welpe Trockenfutter verweigert; harte Zerrspiele meidet man, solange sich die neuen Zähne festigen. Zum Tierarzt, wenn nach sieben Monaten ein Milchzahn noch neben seinem Nachfolger steht, wenn bleibende Zähne schief oder gedrängt kommen, oder bei starker Blutung, Schwellung im Gesicht oder völliger Futterverweigerung.</p>
+
+  <h2>Zähneputzen lernen, vom Welpenalter an</h2>
+  <p><strong>Acht bis zwölf Wochen: Anfassen.</strong> In den ersten Tagen Fang und Lefzen beim Streicheln sanft berühren und sofort belohnen, einige Sekunden, drei- oder viermal am Tag. Dann die Oberlippe zwei bis drei Sekunden anheben und die Vorderzähne zeigen, bis zu fünf oder zehn Sekunden steigern. In der zweiten Woche die Vorderzähne mit feuchter Gaze oder einem Silikon-Fingerling sanft abreiben; in der dritten und vierten Woche bis zu den hinteren Prämolaren ausdehnen, fünfzehn bis zwanzig Sekunden je Seite.</p>
+  <p><strong>Zwölf bis sechzehn Wochen: die Zahnbürste.</strong> Eine weiche Hundezahnbürste, eine enzymatische Tierzahnpasta mit Fleisch- oder Hühnergeschmack, nie eine für Menschen, und besonders gute Belohnungen.</p>
+  <p><strong>Ab vier Monaten: vollständiges Putzen</strong>, drei- bis siebenmal pro Woche, insgesamt zwei bis drei Minuten. Vom Zahnfleischrand zur Spitze bürsten, die meiste Zeit auf den hinteren Prämolaren und Molaren, wo sich Zahnstein zuerst bildet; die Innenseiten sind freiwillig, wenn der Hund sie duldet. Mit einer großzügigen Belohnung abschließen; Ausspülen ist nicht nötig. Wehrt sich der Hund, aufhören und später neu versuchen; blutet das Zahnfleisch, putzen Sie zu fest.</p>
+
+  <h2>Die häufigen Probleme</h2>
+  <p><strong>Gingivitis</strong> zeigt sich als roter, geschwollener Zahnfleischrand, der beim Putzen blutet, mit mäßigem Mundgeruch; früh erkannt bildet sie sich mit besserer Pflege zurück, hält sie an, braucht es eine professionelle Reinigung. <strong>Parodontitis</strong> ist das fortgeschrittene Stadium: zurückgehendes Zahnfleisch, Taschen, lockere Zähne, Eiter und starke Schmerzen, behandelt mit Tiefenreinigung, Ziehen geschädigter Zähne und Medikamenten. <strong>Zahnbrüche</strong> entstehen durch zu harte Gegenstände, Stöße oder zu raue Zerrspiele; liegt der Zahnnerv frei, sollte der Hund innerhalb von 24 bis 48 Stunden untersucht werden und bis dahin weiches Futter bekommen. <strong>Zahnstein</strong> beginnt als gelbbraune Beläge am Zahnfleischrand der hinteren Zähne: bei leichtem Zahnstein mehr putzen, bei mittlerem oder starkem professionell reinigen lassen.</p>
+  <p>Eine professionelle Reinigung braucht <strong>Vollnarkose</strong>, denn der wichtige Teil unter dem Zahnfleischrand ist bei einem wachen Hund nicht erreichbar. Sie dauert dreißig bis neunzig Minuten: Ultraschall bricht den Zahnstein auf, Handinstrumente entfernen den Rest, und Polieren glättet die Oberfläche. Vorher wird Blut untersucht, vor allem bei älteren Hunden. In Italien kostet eine einfache Reinigung etwa 150 bis 200 Euro, mit Extraktionen 250 bis 400 Euro und mehr.</p>
+
+  <h2>Häufige Fragen</h2>
+
+  <div class="faq-list">
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Ab welchem Alter putzt man einem Welpen die Zähne?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Sobald er nach Hause kommt, mit etwa zwei Monaten, aber nicht zum Reinigen, sondern zur Gewöhnung. In dieser Phase sind es noch Milchzähne, die ohnehin ausfallen, und das einzige Ziel ist, dass sich der Welpe ohne Erstarren ins Maul fassen lässt. Man beginnt mit einem Finger, dann einem Finger mit etwas Tierzahnpasta, dann mit der Bürste, jeweils wenige Sekunden und immer mit einer Belohnung zum Schluss. Ein als Welpe gewöhnter Hund lässt sich ein Leben lang in zwei Minuten die Zähne putzen; einer, der mit drei Jahren anfängt, muss von zwei Personen gehalten werden, und irgendwann gibt man auf. Menschenzahnpasta nie verwenden: sie enthält Xylit oder Fluorid, beides giftig für Hunde, und es gibt aromatisierte Tierzahnpasten, die Hunde gern fressen.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie oft sollte ich meinem Staffy die Zähne putzen?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Täglich ist ideal, das realistische Minimum ist <strong>dreimal pro Woche</strong>: darunter hat der Belag Zeit, zu Zahnstein zu mineralisieren, und dann reicht die Bürste nicht mehr. Zwei Minuten oft sind besser als zehn Minuten ab und zu. Es hilft, einen festen Zeitpunkt zu wählen, etwa nach dem Abendspaziergang, denn die Regelmäßigkeit hängt von der Gewohnheit dessen ab, der die Bürste hält, nicht vom Hund. Der Staffordshire Bull Terrier hat einen breiten Kiefer, was hilft, aber auch einen kräftigen Biss, der die Schneidezähne abnutzt: es lohnt sich, ab und zu auch den Abrieb zu prüfen, nicht nur den Belag.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Welche Kauartikel für die Zähne sind für einen Staffy sicher?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Produkte mit dem VOHC-Siegel, vom amerikanischen Veterinary Oral Health Council, haben eine nachgewiesene Wirkung, und das Logo steht auf der Packung. Meiden sollte man die ganze Gruppe zu harter Gegenstände: <strong>Geweihe, echte Knochen, Hufe</strong>. Der Staffy hat für seine Größe eine beachtliche Beißkraft, und ein Bruch des oberen vierten Prämolaren ist eine der häufigsten Diagnosen bei Hunden, die auf harten Gegenständen kauen. Die praktische Regel ist der Fingernagel: gibt der Gegenstand bei Druck mit dem Nagel überhaupt nicht nach, ist er zu hart. Zahnpflegesnacks zählen außerdem als Kalorien, und bei einer Rasse, die leicht zunimmt, werden sie von der Tagesration abgezogen, nicht dazugegeben.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wann ist eine professionelle Zahnreinigung nötig?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Wenn Zahnstein sichtbar und fest ist, wenn das Zahnfleisch gerötet ist oder blutet, oder wenn der Atem trotz täglicher Pflege stark riecht. Meist bedeutet das alle ein bis drei Jahre, doch es schwankt stark von Hund zu Hund, und entscheiden tut der Tierarzt beim Blick ins Maul, nicht das Alter. Die Reinigung erfolgt in <strong>Vollnarkose</strong>, denn der wichtige Teil unter dem Zahnfleischrand ist bei einem wachen Hund nicht erreichbar. Deshalb meidet man die sogenannten Reinigungen ohne Narkose außerhalb von Tierarztpraxen: sie entfernen den sichtbaren Zahnstein, lassen den unter dem Zahnfleisch zurück und wecken den falschen Eindruck, alles sei in Ordnung. Vor der Narkose werden Blutwerte bestimmt, besonders bei älteren Hunden.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was tun, wenn mein Staffy starken Mundgeruch hat?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Mundgeruch ist kein Rassemerkmal, sondern ein Symptom, und meist weist er auf Belag, Zahnstein oder Gingivitis hin. Zuerst schaut man mit einer Taschenlampe ins Maul und prüft den Zahnfleischrand der oberen Prämolaren, wo sich Zahnstein zuerst bildet. Ist das Zahnfleisch gerötet oder blutet es bei Berührung, gehört der Hund zum Tierarzt. Anhaltender Mundgeruch bei einem Hund mit sauberen Zähnen muss aber anderswo gesucht werden: er kann auf Magen-Darm-, Nieren- oder Stoffwechselprobleme hindeuten, und dann riecht der Atem oft auf besondere Weise, süßlich oder nach Ammoniak. Eine plötzliche Veränderung des Atems bei einem erwachsenen Hund ist ein guter Grund für einen Besuch, kein Ärgernis, das man mit einem Snack überdeckt.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Die Milchzähne meines Welpen fallen nicht aus. Ist das normal?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Nein, und man sollte es nicht laufen lassen. Der Zahnwechsel dauert vom vierten bis zum siebten Monat, und dann sollten alle Milchzähne weg sein. Bleibt ein Milchzahn neben dem bleibenden stehen, was vor allem bei den <strong>Fangzähnen</strong> vorkommt, entsteht eine enge Lücke, in der sich Futter und Belag sammeln, was Fehlstellungen und frühe Parodontitis begünstigt. Die Lösung ist das Ziehen, oft zusammen mit einer Kastration oder einer anderen geplanten Narkose, damit der Hund nicht zweimal narkotisiert wird. Es lohnt sich, in dieser Zeit einmal pro Woche ins Maul zu schauen: sehen Sie mit sieben Monaten zwei Fangzähne nebeneinander, ist es Zeit, mit dem Tierarzt zu sprechen.
+  </div>
+  </div>
+
+  </div>
 
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>

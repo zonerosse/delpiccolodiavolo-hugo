@@ -183,21 +183,49 @@ custom_content: |
   </div>
   </section>
 
+  <section class="section section-alt">
+  <div class="section-inner">
+  <span class="section-label">What comes with the puppy</span>
+  <h2 class="section-title">Bloodlines, documents and support</h2>
+  <p>We work with English <strong>Elitebull</strong> and Irish <strong>Lackyle</strong> lines: the first bring substance and head, the second movement and character. Every mating starts from what a female gives and what she lacks. What that means in practice, and how to read a line in a pedigree, is explained in the <a href="/en/staffy-bloodlines-guide/" title="Staffy bloodlines guide">bloodlines guide</a>.</p>
+  <p>Every puppy leaves us at 60 days at the earliest, with its first vaccination, wormed, microchipped and registered, and goes home with:</p>
+  <ul>
+  <li>the ENCI pedigree;</li>
+  <li>the health record with vaccinations and worming dates;</li>
+  <li>the microchip certificate;</li>
+  <li>the parents' genetic test reports, L2HGA and HC, plus DM-SOD1 for the mother;</li>
+  <li>photographs of its growth;</li>
+  <li>our <a href="/docs/guide-first-months-staffy-puppy.pdf" title="Guide to the first months with a Staffy puppy">guide to the first months</a>, on feeding and care.</li>
+  </ul>
+  <p>And support does not end at the handover. We remain available for advice on feeding, training and day-to-day life for as long as the dog lives, and many families still write to us years later. If one day circumstances change and the dog cannot stay, it comes back here.</p>
+  </div>
+  </section>
+
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Frequently Asked Questions</span>
   <h2 class="section-title">Puppy FAQ</h2>
   
   <div class="faq-item">
-  <h3>What is behind a puppy with an ENCI pedigree?</h3>
-  <p>Years of selection, complete genetic testing (L2HGA, HC), an <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="ENCI breed page" target="_blank" rel="noopener" aria-label="ENCI breed page (opens in a new tab)">ENCI pedigree</a>, vaccinations, microchip and the support we go on giving. Write to us and we will tell you about our dogs and our litters.</p>
+  <h3>When can I take the puppy home?</h3>
+  <p>Not before <strong>60 days</strong>, which is a legal requirement in Italy rather than a breeder's choice: before that age a puppy still needs its mother and littermates to learn to moderate its bite and read other dogs' signals. In practice ours leave between 60 and 70 days, after the first vaccination, the microchip and at least one worming. For families abroad the timing is much longer: the rabies vaccination cannot be given before twelve weeks, and after it another twenty-one days must pass before it is valid for travel. Anyone promising a puppy at forty-five days either does not know the rules or is breaking them.</p>
   </div>
   
   <div class="faq-item">
-  <h3>How do we get to know each other?</h3>
-  <p>Write to us on WhatsApp or call. We like to talk at length before anything else: about the breed, about your household, about our dogs. You are welcome to visit the kennel by appointment and meet the parents.</p>
+  <h3>What is behind a puppy with an ENCI pedigree?</h3>
+  <p>The ENCI pedigree is not a paid extra: it is the document that links the puppy to its parents, grandparents and great-grandparents, and that makes everything else verifiable. Without it you cannot trace who the breeding dogs really are, check their genetic tests, or look up how many litters the mother has had. Behind it are the registration of the litter in the stud book, at public rates that are the same for everyone, the mating report and the checks that go with it. <strong>There is no such thing as the same puppy with or without a pedigree</strong>: either the mating is properly registered, and then every puppy in the litter has one, or it is not, and then none does.</p>
   </div>
-
+  
+  <div class="faq-item">
+  <h3>How much does a Staffordshire Bull Terrier puppy cost?</h3>
+  <p>There is no price list, and what you pay reflects costs that exist before the puppy is born. The genetic tests on the two breeding dogs for L2HGA and HC are paid once per dog and hold for their whole breeding life. Registering the litter in the ENCI stud book has public rates. On top of that come the veterinary visits during pregnancy, the ultrasound at around the twenty-fifth day, the X-ray before the whelping, the first vaccinations, the worming and the microchip. <strong>A very low price almost always means something is missing</strong>: the tests, the pedigree, or puppies separated from their mother before the 60 days the law requires. The full breakdown is in <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="How much does a Staffy puppy cost">what a puppy really costs</a>.</p>
+  </div>
+  
+  <div class="faq-item">
+  <h3>Can I visit the kennel before deciding?</h3>
+  <p>Yes, and it is the right way to get to know us. We receive by appointment in Ostellato, in the province of Ferrara, so that we can give you all the time you need without stressing the dogs. During the visit you see the adult dogs and the mother of the litter, the place where the puppies are born and grow up, and you check pedigrees and test reports in person. It is also when we ask you a few questions: how many hours the dog will be alone, who is at home, what happens in summer. It is not an interrogation; it is how we work out whether that puppy and that family fit. <strong>Anyone who takes one of our puppies comes here</strong>: we do not ship dogs.</p>
+  </div>
+  
   <div style="text-align:center;margin-top:1.5rem">
   <a href="/en/faq-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="See all FAQ">See all frequently asked questions</a>
   </div>

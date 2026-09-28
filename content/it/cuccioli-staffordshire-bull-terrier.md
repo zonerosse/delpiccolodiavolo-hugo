@@ -188,7 +188,7 @@ custom_content: |
 
   <div class="content-block">
   <h3>Cosa riceve chi adotta un nostro cucciolo</h3>
-  <p>Ogni cucciolo lascia il nostro allevamento a 60 giorni minimo, completamente vaccinato, sverminato, con microchip e iscritto all'anagrafe canina. Viene consegnato con:</p>
+  <p>Ogni cucciolo lascia il nostro allevamento a 60 giorni minimo, con la prima vaccinazione, sverminato, con microchip e iscritto all'anagrafe canina. Viene consegnato con:</p>
   <ul style="list-style:disc;padding-left:2rem;margin-top:1rem">
   <li>Pedigree ENCI certificato</li>
   <li>Libretto sanitario con vaccinazioni</li>

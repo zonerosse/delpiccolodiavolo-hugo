@@ -183,21 +183,49 @@ custom_content: |
   </div>
   </section>
 
+  <section class="section section-alt">
+  <div class="section-inner">
+  <span class="section-label">Was der Welpe mitbekommt</span>
+  <h2 class="section-title">Blutlinien, Papiere und Begleitung</h2>
+  <p>Wir arbeiten mit der englischen Linie <strong>Elitebull</strong> und der irischen Linie <strong>Lackyle</strong>: die erste bringt Substanz und Kopf, die zweite Gangwerk und Charakter. Jede Verpaarung geht davon aus, was eine Hündin mitbringt und was ihr fehlt. Was das praktisch bedeutet und wie man eine Linie in der Ahnentafel liest, erklärt der <a href="/de/staffy-blutlinien-guide/" title="Ratgeber zu den Blutlinien">Ratgeber zu den Blutlinien</a>.</p>
+  <p>Jeder Welpe verlässt uns frühestens mit 60 Tagen, mit der ersten Impfung, entwurmt, gechippt und registriert, und geht nach Hause mit:</p>
+  <ul>
+  <li>der ENCI-Ahnentafel;</li>
+  <li>dem Heimtierausweis mit Impf- und Entwurmungsdaten;</li>
+  <li>dem Mikrochip-Nachweis;</li>
+  <li>den Gentest-Befunden der Eltern, L2HGA und HC, dazu DM-SOD1 der Mutter;</li>
+  <li>Fotos seines Heranwachsens;</li>
+  <li>unserem <a href="/docs/ratgeber-erste-monate-staffy-welpe.pdf" title="Ratgeber für die ersten Monate mit einem Staffy-Welpen">Ratgeber für die ersten Monate</a>, zu Fütterung und Pflege.</li>
+  </ul>
+  <p>Und die Begleitung endet nicht mit der Übergabe. Wir bleiben das ganze Hundeleben lang für Rat zu Fütterung, Erziehung und Alltag erreichbar, und viele Familien schreiben uns noch nach Jahren. Wenn sich die Umstände eines Tages ändern und der Hund nicht bleiben kann, kommt er hierher zurück.</p>
+  </div>
+  </section>
+
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Häufige Fragen</span>
   <h2 class="section-title">FAQ zu Welpen</h2>
   
   <div class="faq-item">
-  <h3>Was steckt hinter einem Welpen mit ENCI-Stammbaum?</h3>
-  <p>Jahre der Selektion, vollständige Gentests (L2HGA, HC), ein <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="ENCI-Rasseseite" target="_blank" rel="noopener" aria-label="ENCI-Rasseseite (wird in einem neuen Tab geöffnet)">ENCI</a>-Stammbaum, Impfungen, Mikrochip und die Begleitung, die wir weiterhin geben. Schreiben Sie uns, wir erzählen Ihnen von unseren Hunden und unseren Würfen.</p>
+  <h3>Wann kann ich den Welpen nach Hause holen?</h3>
+  <p>Nicht vor <strong>60 Tagen</strong>, was in Italien gesetzlich vorgeschrieben und keine Entscheidung des Züchters ist: vorher braucht der Welpe noch Mutter und Geschwister, um seinen Biss zu dosieren und die Signale anderer Hunde zu lesen. Bei uns gehen die Welpen zwischen 60 und 70 Tagen, nach der ersten Impfung, dem Mikrochip und mindestens einer Entwurmung. Für Familien im Ausland dauert es deutlich länger: die Tollwutimpfung ist nicht vor der zwölften Woche möglich, und danach müssen weitere einundzwanzig Tage vergehen, bis sie für die Reise gilt. Wer einen Welpen mit fünfundvierzig Tagen verspricht, kennt die Regeln nicht oder bricht sie.</p>
   </div>
   
   <div class="faq-item">
-  <h3>Wie lernen wir uns kennen?</h3>
-  <p>Schreiben Sie uns über WhatsApp oder rufen Sie an. Wir sprechen gern ausführlich, bevor alles andere kommt: über die Rasse, über Ihren Haushalt, über unsere Hunde. Nach Terminvereinbarung können Sie die Zucht besuchen und die Elterntiere kennenlernen.</p>
+  <h3>Was steckt hinter einem Welpen mit ENCI-Ahnentafel?</h3>
+  <p>Die ENCI-Ahnentafel ist kein bezahltes Extra: sie ist das Dokument, das den Welpen mit seinen Eltern, Großeltern und Urgroßeltern verbindet und alles andere überprüfbar macht. Ohne sie lässt sich nicht nachvollziehen, wer die Zuchthunde wirklich sind, man kann ihre Gentests nicht prüfen und nicht nachsehen, wie viele Würfe die Mutter hatte. Dahinter stehen die Eintragung des Wurfs ins Zuchtbuch, zu öffentlichen, für alle gleichen Gebühren, die Deckmeldung und die zugehörigen Kontrollen. <strong>Denselben Welpen mit oder ohne Ahnentafel gibt es nicht</strong>: entweder ist die Verpaarung ordnungsgemäß eingetragen, dann hat jeder Welpe des Wurfs eine, oder sie ist es nicht, dann hat keiner eine.</p>
   </div>
-
+  
+  <div class="faq-item">
+  <h3>Was kostet ein Staffordshire Bull Terrier Welpe?</h3>
+  <p>Eine Preisliste gibt es nicht, und was man zahlt, spiegelt Kosten wider, die entstehen, bevor der Welpe geboren wird. Die Gentests der beiden Zuchthunde auf L2HGA und HC werden einmal pro Hund bezahlt und gelten für ihr ganzes Zuchtleben. Die Eintragung des Wurfs ins ENCI-Zuchtbuch hat öffentliche Gebühren. Dazu kommen Tierarztbesuche während der Trächtigkeit, der Ultraschall um den fünfundzwanzigsten Tag, das Röntgenbild vor der Geburt, die ersten Impfungen, die Entwurmungen und der Mikrochip. <strong>Ein sehr niedriger Preis bedeutet fast immer, dass etwas fehlt</strong>: die Tests, die Ahnentafel oder Welpen, die vor den gesetzlichen 60 Tagen von der Mutter getrennt wurden. Die ganze Aufstellung steht unter <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Was kostet ein Staffy-Welpe">was ein Welpe wirklich kostet</a>.</p>
+  </div>
+  
+  <div class="faq-item">
+  <h3>Kann ich die Zucht vor der Entscheidung besuchen?</h3>
+  <p>Ja, und das ist der richtige Weg, uns kennenzulernen. Wir empfangen nach Vereinbarung in Ostellato in der Provinz Ferrara, damit wir Ihnen alle Zeit geben können, ohne die Hunde zu stressen. Beim Besuch sehen Sie die erwachsenen Hunde und die Mutter des Wurfs, den Ort, an dem die Welpen geboren werden und aufwachsen, und Sie prüfen Ahnentafeln und Befunde persönlich. Es ist auch der Moment, in dem wir Ihnen einige Fragen stellen: wie viele Stunden der Hund allein sein wird, wer zu Hause ist, was im Sommer geschieht. Das ist kein Verhör, sondern die Art, wie wir herausfinden, ob Welpe und Familie zusammenpassen. <strong>Wer einen unserer Welpen nimmt, kommt hierher</strong>: wir verschicken keine Hunde.</p>
+  </div>
+  
   <div style="text-align:center;margin-top:1.5rem">
   <a href="/de/faq-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="Alle FAQ ansehen">Alle häufigen Fragen ansehen</a>
   </div>

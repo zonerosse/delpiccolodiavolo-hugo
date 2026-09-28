@@ -69,17 +69,6 @@ custom_content: |
   <p><strong>FALSO:</strong> "Tutti gli Staffy sono perfetti con i bambini per genetica"</p>
   <p><strong>VERO:</strong> Il temperamento varia individualmente. Socializzazione precoce e gestione familiare sono determinanti quanto la genetica.</p>
   
-  <div class="callout">
-  <p class="callout-title">🏆 Selezione temperamentale Del Piccolo Diavolo</p>
-  <p>Tutti i nostri riproduttori sono valutati per <strong>temperamento stabile con bambini</strong>:</p>
-  <ul>
-  <li><strong>Test reattività:</strong> esposizione a rumori improvvisi, manipolazioni, stimoli inattesi</li>
-  <li><strong>Test socialità:</strong> interazioni con bambini di varie età sotto osservazione</li>
-  <li><strong>Valutazione soglia frustrazione:</strong> gestione risorsa contesa, attese, limitazioni</li>
-  <li><strong>Stabilità multi-generazionale:</strong> tracciamo temperamento per 4+ generazioni</li>
-  </ul>
-  <p>Ogni cucciolo viene esposto a bambini tra 4-8 settimane (periodo critico socializzazione).</p>
-  </div>
   
   <h3>Differenze maschi vs femmine con bambini</h3>
   

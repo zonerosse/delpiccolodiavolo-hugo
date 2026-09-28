@@ -101,7 +101,7 @@ custom_content: |
   
   <h2>Preparazione Casa Multi-Pet: Spazi e Attrezzatura</h2>
   
-  <p>L'ambiente fisico determina 50% successo inserimento. Preparare casa PRIMA arrivo nuovo animale evita improvvisazioni rischiose.</p>
+  <p>Molti inserimenti falliscono per l'ambiente, non per gli animali. Preparare la casa PRIMA dell'arrivo del nuovo animale evita improvvisazioni rischiose.</p>
   
   <h3>Attrezzatura indispensabile</h3>
   
@@ -125,7 +125,7 @@ custom_content: |
   <li><strong>Ciotole gatto elevate:</strong> Su mensole 120cm+ o in stanze separate con gattaiola. Zero competizione cibo</li>
   </ul>
   
-  <p><strong>Budget setup verticale gatto:</strong> 150-350€ iniziale. Investimento che previene 90% problemi convivenza cane-gatto.</p>
+  <p><strong>Budget setup verticale gatto:</strong> 150-350€ iniziale. Un investimento che previene buona parte dei problemi di convivenza cane-gatto.</p>
   
   <div class="checklist">
   <p class="checklist-title">Checklist risorse duplicate</p>
