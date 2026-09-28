@@ -89,7 +89,7 @@ custom_content: |
   <div class="story-block">
   <div class="story-text">
   <h3>Quality, Not Quantity</h3>
-  <p>1-2 litters per year. Every pairing is planned: we study pedigrees, evaluate genetic compatibility, wait for the right moment.</p>
+  <p>1-2 litters per year. Every pairing is planned: we study pedigrees, evaluate genetic compatibility, wait for the right moment. Every litter born here, with parents, tests, examinations and growth photos, is recorded in the <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a>.</p>
   <h3 style="margin-top:1.2rem">Character Selection</h3>
   <p>Before including a dog in our program, we observe it for months: behavior at home, with strangers, other dogs, children. It must be confident, balanced, sociable.</p>
   </div>

@@ -50,7 +50,7 @@ custom_content: |
   <p>Zwei Details werden oft übersehen. Erstens darf der Abstand zwischen den Dosen nicht verkürzt werden, weil maternale Antikörper den Impfstoff blockieren und der Plan um deren Abbau herum konstruiert ist. Zweitens muss der Tierarzt bei erheblicher Verzögerung unter Umständen einen Teil des Plans neu beginnen.</p>
 
   <h2>Tollwut und Reisen</h2>
-  <p>Die Tollwutimpfung gehört in weiten Teilen Italiens nicht zum Standardplan des Welpen, ist aber für Reisen innerhalb der Europäischen Union vorgeschrieben. Sie kann ab der zwölften Lebenswoche gegeben werden, muss von einem ermächtigten Tierarzt in den Heimtierausweis eingetragen werden und wirkt einundzwanzig Tage nach der Verabreichung.</p>
+  <p>Die Tollwutimpfung gehört in weiten Teilen Italiens nicht zum Standardplan des Welpen, ist aber für Reisen innerhalb der Europäischen Union vorgeschrieben. Sie kann ab der zwölften Lebenswoche gegeben werden, muss von einem ermächtigten Tierarzt in den Heimtierausweis eingetragen werden und wirkt einundzwanzig Tage nach der Verabreichung. Papiere, Auto, Bahn und Flugzeug: die praktischen Regeln stehen im Ratgeber zum <a href="/de/staffy-reisen-transport/" title="Reisen mit dem Staffy">Reisen mit dem Staffy</a>.</p>
   <p>Diese Wartefrist ist absolut und lässt sich nicht verkürzen. Wer mit einem Welpen ins Ausland will, sollte sie beim ersten Tierarztbesuch ansprechen und nicht 3 Wochen vor der Abreise.</p>
 
   <h2>Optionale Impfungen</h2>

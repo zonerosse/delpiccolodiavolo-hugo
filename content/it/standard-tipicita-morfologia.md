@@ -42,7 +42,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Uno Staffordshire Bull Terrier è tipico quando testa, proporzioni, torace, ossatura, muscolatura e movimento stanno in equilibrio fra loro e con il carattere descritto dallo standard FCI n. 76. La testa è corta, con cranio ampio, stop marcato, muso corto ma non eccessivo, mascelle forti e chiusura a forbice; gli occhi sono rotondi e preferibilmente scuri, le orecchie a rosa o semierette, né grandi né pesanti. Il corpo è raccolto, con torace ampio e profondo, e il movimento deve essere libero e potente, con una spinta evidente dal posteriore. La tipicità però non è l'esagerazione di un singolo punto: una testa spinta o un muso troppo corto penalizzano respirazione e termoregolazione, e in esposizione il giudice valuta l'insieme. È su questo equilibrio che si scelgono i riproduttori, prima ancora che sui titoli.</p>
+  <p>Uno Staffordshire Bull Terrier è tipico quando testa, proporzioni, torace, ossatura, muscolatura e movimento stanno in equilibrio fra loro e con il carattere descritto dallo standard FCI n. 76. La testa è corta, con cranio ampio, stop marcato, muso corto ma non eccessivo, mascelle forti e chiusura a forbice; gli occhi sono rotondi e preferibilmente scuri, le orecchie a rosa o semierette, né grandi né pesanti. Il corpo è raccolto, con torace ampio e profondo, e il movimento deve essere libero e potente, con una spinta evidente dal posteriore. La tipicità però non è l'esagerazione di un singolo punto: una testa spinta o un muso troppo corto penalizzano <a href="/boas-staffordshire-bull-terrier-respirazione/" title="BOAS e respirazione nello Staffordshire Bull Terrier">respirazione e termoregolazione</a>, e in esposizione il giudice valuta l'insieme. È su questo equilibrio che si scelgono i riproduttori, prima ancora che sui titoli.</p>
 
   
   <div class="callout">
@@ -112,6 +112,8 @@ custom_content: |
   <li><strong>Tigrato</strong> (brindle) in qualsiasi tonalità</li>
   <li><strong>Qualsiasi di questi</strong> con bianco</li>
   </ul>
+
+  <p>Perché alcuni colori sono esclusi, e come riconoscere un colore venduto come raro, è spiegato nella guida ai <a href="/colori-staffordshire-bull-terrier/" title="I colori dello Staffordshire Bull Terrier">colori dello Staffordshire Bull Terrier</a>.</p>
   
   <div class="alert">
   <p class="alert-title">⚠️ Colori NON ammessi</p>

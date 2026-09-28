@@ -48,7 +48,7 @@ custom_content: |
   <p>This is the single most common mistake we see in new owners, and it is made with the best intentions by people who think they are giving the puppy enough.</p>
 
   <h2>Heat: the risk that actually kills</h2>
-  <p>This is the section that matters most. The Staffordshire Bull Terrier has a shortened muzzle relative to many breeds, a dense muscular body and a dark coat in many individuals. It dissipates heat poorly, and heatstroke in this breed develops faster than most owners expect.</p>
+  <p>This is the section that matters most. The Staffordshire Bull Terrier has <a href="/en/boas-staffordshire-bull-terrier-breathing/" title="BOAS and breathing in the Staffordshire Bull Terrier">a shortened muzzle relative to many breeds</a>, a dense muscular body and a dark coat in many individuals. It dissipates heat poorly, and heatstroke in this breed develops faster than most owners expect.</p>
   <p>Above roughly twenty-two degrees with high humidity, cancel the middle of the day entirely and walk early morning and late evening. Test the tarmac with the back of your hand for 5 seconds: if you cannot hold it, the dog cannot walk on it. Carry water on every summer outing, not only long ones.</p>
   <p>The early signs are heavy noisy panting that does not settle, a bright red tongue, thick saliva, and reluctance to continue. At that point stop, move to shade, and cool the dog with water at ambient temperature on the belly, groin and paws, not ice water. Heatstroke is a <a href="https://wsava.org/global-guidelines/" title="WSAVA global guidelines" target="_blank" rel="noopener" aria-label="WSAVA global guidelines (opens in a new tab)">vet</a>erinary emergency and a dog that has recovered on the spot still needs to be seen.</p>
 

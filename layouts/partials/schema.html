@@ -89,7 +89,7 @@
     "esposizioni cinofile ENCI",
     "lettura del pedigree e coefficiente di consanguineità"{{ end }}
   ],
-  "knowsLanguage": ["it", "en"],
+  "knowsLanguage": ["it"],
   "homeLocation": {
     "@type": "Place",
     "address": {
@@ -340,6 +340,15 @@
 
 {{/* Article per blog */}}
 {{ if and (not .IsHome) (.Params.articolo) }}
+{{/* citation: le fonti esterne linkate nel testo dell'articolo (studi,
+     standard, enti, pedigree), senza social, WhatsApp e link al sito stesso. */}}
+{{ $cit := slice }}
+{{ range findRE `href="https?://[^"]+"` $faqsrc }}
+  {{ $u := . | strings.TrimPrefix "href=\"" | strings.TrimSuffix "\"" | htmlUnescape }}
+  {{ if not (or (in $u "delpiccolodiavolo.it") (in $u "wa.me") (in $u "whatsapp") (in $u "facebook.com") (in $u "instagram.com") (in $u "youtube.com") (in $u "youtu.be") (in $u "tiktok.com") (in $u "google.") (in $u "g.page")) }}
+    {{ if not (in $cit $u) }}{{ $cit = $cit | append $u }}{{ end }}
+  {{ end }}
+{{ end }}
 <!-- JSON-LD: Article -->
 <script type="application/ld+json">
 {
@@ -374,7 +383,8 @@
       "name": {{ .nome | jsonify | safeJS }},
       "sameAs": {{ .sameAs | jsonify | safeJS }}
     }{{ end }}
-  ]
+  ]{{ with $cit }},
+  "citation": {{ . | jsonify | safeJS }}{{ end }}
 }
 </script>
 {{ end }}

@@ -253,7 +253,7 @@ custom_content: |
   <a href="/linee-sangue-staffordshire-bull-terrier/" title="Leggi: Linee di Sangue Staffy"><div class="blog-card-thumb"><img src="/images/blog/linee-sangue-hero.webp" alt="Linee di Sangue Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">8 Nov 2025</span><span>•</span><span class="cat">Standard</span></div>
-  <h3><a href="/linee-sangue-staffordshire-bull-terrier/" title="Leggi: Linee di Sangue Staffy">Linee di Sangue Staffordshire Bull Terrier</a></h3>
+  <h3><a href="/linee-sangue-staffordshire-bull-terrier/" title="Leggi: Storia delle linee di sangue">Storia delle linee di sangue dello Staffy</a></h3>
   <p>Storia delle 6 linee fondatrici e allevamenti moderni UK/Irlanda.</p>
   <a class="read" href="/linee-sangue-staffordshire-bull-terrier/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Linee di Sangue Staffordshire Bull Terrier">Leggi →</a>
   </div>
@@ -273,7 +273,7 @@ custom_content: |
   <a href="/standard-linee-di-sangue-orientarsi/" title="Leggi: Linee di sangue come orientarsi"><div class="blog-card-thumb"><img src="/images/blog/standard-2.webp" alt="Standard dello Staffordshire Bull Terrier: linee di sangue: come orientarsi" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">5 Mar 2025</span><span>•</span><span class="cat">Standard</span></div>
-  <h3><a href="/standard-linee-di-sangue-orientarsi/" title="Leggi: Linee di sangue come orientarsi">Linee di sangue: come orientarsi</a></h3>
+  <h3><a href="/standard-linee-di-sangue-orientarsi/" title="Leggi: Come scegliere la linea di sangue">Come scegliere la linea di sangue di un cucciolo</a></h3>
   <p>Scelta consapevole tra genealogie e obiettivi.</p>
   <a class="read" href="/standard-linee-di-sangue-orientarsi/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Linee di sangue: come orientarsi">Leggi →</a>
   </div>

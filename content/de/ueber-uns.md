@@ -89,7 +89,7 @@ custom_content: |
   <div class="story-block">
   <div class="story-text">
   <h3>Qualität, Nicht Quantität</h3>
-  <p>1-2 Würfe pro Jahr. Jede Verpaarung ist geplant: Wir studieren Stammbäume, bewerten genetische Kompatibilität, warten auf den richtigen Zeitpunkt.</p>
+  <p>1-2 Würfe pro Jahr. Jede Verpaarung ist geplant: Wir studieren Stammbäume, bewerten genetische Kompatibilität, warten auf den richtigen Zeitpunkt. Jeder hier geborene Wurf, mit Eltern, Tests, Untersuchungen und Fotos des Heranwachsens, steht im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Zuchttagebuch</a>.</p>
   <h3 style="margin-top:1.2rem">Charakterselektion</h3>
   <p>Bevor ein Hund ins Zuchtprogramm aufgenommen wird, beobachten wir ihn monatelang: Verhalten zu Hause, mit Fremden, anderen Hunden, Kindern. Er muss sicher, ausgeglichen, gesellig sein.</p>
   </div>

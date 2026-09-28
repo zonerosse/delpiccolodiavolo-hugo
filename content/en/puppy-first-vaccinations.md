@@ -57,7 +57,7 @@ custom_content: |
   <p>Two details matter and are often missed. First, the interval between doses should not be shortened, because maternal antibodies interfere with the vaccine and the schedule is designed around their decline. Second, if a dose is significantly delayed, the veterinarian may need to restart part of the course rather than simply continuing.</p>
 
   <h2>Rabies and travel</h2>
-  <p>Rabies vaccination is not part of the routine puppy course in most of Italy, but it is compulsory for travel within the European Union and for some regions. It can be given from 12 weeks of age, must be recorded in the pet passport by an authorised veterinarian, and takes effect 21 days after administration.</p>
+  <p>Rabies vaccination is not part of the routine puppy course in most of Italy, but it is compulsory for travel within the European Union and for some regions. It can be given from 12 weeks of age, must be recorded in the pet passport by an authorised veterinarian, and takes effect 21 days after administration. Documents, car, train and air travel: the practical rules are in the guide to <a href="/en/staffy-travel-transport/" title="Travelling with a Staffy">travelling with a Staffy</a>.</p>
   <p>That waiting period is absolute and cannot be shortened, which is why anyone planning to take a puppy abroad should raise it with the veterinarian at the first visit rather than 3 weeks before departure.</p>
 
   <h2>Optional vaccines worth discussing</h2>

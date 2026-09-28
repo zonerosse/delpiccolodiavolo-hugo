@@ -80,7 +80,7 @@ custom_content: |
 
   <p>This is the point where I need to be honest. The Staffordshire Bull Terrier has a historical background as a fighting dog — it cannot be ignored. In some individuals, especially unneutered males, intolerance towards other dogs of the same sex may emerge.</p>
 
-  <p>The good news: with early and continuous socialisation, the vast majority of Staffies live happily with other dogs. All of mine live in a group without problems. But it requires consistent work, especially in the first months of life.</p>
+  <p>The good news: with early and continuous socialisation, the vast majority of Staffies live happily with other dogs. All of mine live in a group without problems. But it requires consistent work, especially in the first months of life. What "socialised puppy" really means, and how to check it when you visit a breeder, is explained in <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it means">socialised puppies: what it means</a>.</p>
 
   <p>When asked "can I keep it with another dog?" my answer is always the same: it depends on the individual dog, the character selection and how much you invest in socialisation. It's not a simple answer because the reality isn't simple.</p>
 

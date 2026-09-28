@@ -63,7 +63,10 @@
   {{ range .AllTranslations }}
   <link rel="alternate" hreflang="{{ .Site.Language.Lang }}" href="{{ .Permalink }}">
   {{ end }}
-  {{ range .AllTranslations }}{{ if eq .Site.Language.Lang "it" }}
+  {{/* x-default: la versione italiana; se la pagina non ce l'ha (per esempio
+       i contatti EN/DE, la cui controparte italiana e' noindex), l'inglese. */}}
+  {{ $haIT := false }}{{ range .AllTranslations }}{{ if eq .Site.Language.Lang "it" }}{{ $haIT = true }}{{ end }}{{ end }}
+  {{ range .AllTranslations }}{{ if eq .Site.Language.Lang (cond $haIT "it" "en") }}
   <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
   {{ end }}{{ end }}
 

@@ -78,7 +78,7 @@ custom_content: |
 
   <p>Questo è il punto su cui devo essere onesto. Lo Staffordshire Bull Terrier ha un'eredità storica da cane da combattimento — non lo si può ignorare. In alcuni soggetti, specialmente nei maschi non castrati, può emergere intolleranza verso altri cani dello stesso sesso.</p>
 
-  <p>La socializzazione precoce e continua riduce molto il problema, e la maggior parte degli Staffy convive bene con altri cani &mdash; ma è una tendenza, non una regola, e si valuta cane per cane. Tutti i miei vivono in gruppo senza problemi. Ma richiede lavoro costante, soprattutto nei primi mesi di vita.</p>
+  <p>La socializzazione precoce e continua riduce molto il problema, e la maggior parte degli Staffy convive bene con altri cani &mdash; ma è una tendenza, non una regola, e si valuta cane per cane. Tutti i miei vivono in gruppo senza problemi. Ma richiede lavoro costante, soprattutto nei primi mesi di vita. Cosa vuol dire davvero "cucciolo socializzato", e come verificarlo quando si visita un allevamento, è spiegato in <a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Cuccioli socializzati: cosa vuol dire">cuccioli socializzati: cosa vuol dire</a>.</p>
 
   <p>Chi mi chiede "posso tenerlo con un altro cane?" riceve sempre la stessa risposta: dipende dal soggetto, dalla selezione del carattere e da quanto investi nella socializzazione. Non è una risposta semplice perché la realtà non lo è.</p>
 
@@ -130,7 +130,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3 class="faq-question">Quanto vive uno Staffordshire Bull Terrier?</h3>
-  <div class="faq-answer">Dodici-quattordici anni, che &egrave; un'ottima aspettativa per un cane di taglia media e fra le migliori nel gruppo dei molossoidi. La razza &egrave; robusta, senza le problematiche respiratorie dei brachicefali estremi e senza le patologie articolari tipiche delle taglie grandi. Le tre patologie ereditarie con un test del DNA &mdash; L2-HGA, cataratta ereditaria e mielopatia degenerativa &mdash; si prevengono testando i riproduttori, perch&eacute; sono tutte recessive: due genitori esenti non possono produrre cuccioli malati. A valle della genetica, la cosa che incide di pi&ugrave; sulla durata della vita &egrave; il <strong>peso</strong>: uno Staffy in sovrappeso invecchia prima, con articolazioni che si consumano e minor tolleranza al caldo. Dodici anni sono il periodo per cui ci si impegna prendendo un cucciolo.</div>
+  <div class="faq-answer">Dodici-quattordici anni, che &egrave; un'ottima aspettativa per un cane di taglia media e fra le migliori nel gruppo dei molossoidi. La razza &egrave; robusta, senza le <a href="/boas-staffordshire-bull-terrier-respirazione/" title="BOAS e respirazione nello Staffordshire Bull Terrier">problematiche respiratorie dei brachicefali estremi</a> e senza le patologie articolari tipiche delle taglie grandi. Le tre patologie ereditarie con un test del DNA &mdash; L2-HGA, cataratta ereditaria e mielopatia degenerativa &mdash; si prevengono testando i riproduttori, perch&eacute; sono tutte recessive: due genitori esenti non possono produrre cuccioli malati. A valle della genetica, la cosa che incide di pi&ugrave; sulla durata della vita &egrave; il <strong>peso</strong>: uno Staffy in sovrappeso invecchia prima, con articolazioni che si consumano e minor tolleranza al caldo. Dodici anni sono il periodo per cui ci si impegna prendendo un cucciolo.</div>
   </div>
 
   <div class="faq-item">

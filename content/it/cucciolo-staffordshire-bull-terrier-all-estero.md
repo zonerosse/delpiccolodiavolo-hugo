@@ -1,7 +1,7 @@
 ---
 title: "Cucciolo Staffy all'estero: tempi e documenti"
 date: 2026-09-12
-lastmod: 2026-09-26
+lastmod: 2026-09-28
 articolo: true
 translationKey: "cucciolo-estero"
 description: "Un cucciolo destinato a un altro paese europeo parte a quattro mesi, non a due. Antirabbica, passaporto, certificato TRACES ed export pedigree ENCI."
@@ -41,7 +41,7 @@ custom_content: |
 
   <h2>Il cucciolo non parte a due mesi</h2>
 
-  <p>Un cucciolo di Staffordshire Bull Terrier destinato all'estero non parte a due mesi come uno che resta in Italia, e il motivo è sanitario. Per uscire dal paese serve la vaccinazione antirabbica, che non si può somministrare prima delle 12 settimane di vita, e dopo la prima dose vanno attesi altri 21 giorni perché diventi valida ai fini dello spostamento. Il conto è presto fatto: un cucciolo nato oggi può viaggiare non prima dei quattro mesi. A questo si aggiungono il passaporto europeo, il microchip registrato all'anagrafe e il certificato sanitario ufficiale, secondo il Regolamento UE 576/2013. Chi promette una consegna all'estero a due mesi o non conosce le regole o le sta violando, e in entrambi i casi vale la pena chiedersi cos'altro non stia facendo.</p>
+  <p>Un cucciolo di Staffordshire Bull Terrier destinato all'estero non parte a due mesi come uno che resta in Italia, e il motivo è sanitario. Per uscire dal paese serve la vaccinazione antirabbica, che non si può somministrare prima delle 12 settimane di vita, e dopo la prima dose vanno attesi altri 21 giorni perché diventi valida ai fini dello spostamento. Il conto è presto fatto: un cucciolo nato oggi può viaggiare non prima dei quattro mesi. A questo si aggiungono il passaporto europeo, il microchip registrato all'anagrafe e il certificato sanitario ufficiale, secondo il Regolamento UE 576/2013. Chi promette una consegna all'estero a due mesi o non conosce le regole o le sta violando, e in entrambi i casi vale la pena chiedersi cos'altro non stia facendo. Documenti, auto, treno e aereo: le regole pratiche sono nella guida su <a href="/famiglia-viaggi-spostamenti/" title="Viaggiare con lo Staffy">come viaggiare con lo Staffy</a>.</p>
 
   <p>In Italia un cucciolo lascia la madre a 60 giorni. Per uscire dal paese, invece, gli serve la vaccinazione antirabbica, che <strong>non si può fare prima delle 12 settimane</strong> di vita. Dopo la prima somministrazione bisogna aspettarne altre tre perché diventi valida ai fini dello spostamento.</p>
 

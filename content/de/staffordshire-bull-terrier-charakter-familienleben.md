@@ -80,7 +80,7 @@ custom_content: |
 
   <p>Das ist der Punkt, an dem ich ehrlich sein muss. Der Staffordshire Bull Terrier hat einen historischen Hintergrund als Kampfhund — das lässt sich nicht ignorieren. Bei einigen Individuen, besonders bei nicht kastrierten Rüden, kann Intoleranz gegenüber anderen Hunden desselben Geschlechts auftreten.</p>
 
-  <p>Die gute Nachricht: Mit früher und kontinuierlicher Sozialisation lebt die überwiegende Mehrheit der Staffies glücklich mit anderen Hunden zusammen. Alle meine leben problemlos in der Gruppe. Aber es erfordert konsequente Arbeit, besonders in den ersten Lebensmonaten.</p>
+  <p>Die gute Nachricht: Mit früher und kontinuierlicher Sozialisation lebt die überwiegende Mehrheit der Staffies glücklich mit anderen Hunden zusammen. Alle meine leben problemlos in der Gruppe. Aber es erfordert konsequente Arbeit, besonders in den ersten Lebensmonaten. Was „sozialisierter Welpe“ wirklich bedeutet und wie man es beim Besuch einer Zucht prüft, erklärt <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das heißt">sozialisierte Welpen: was das heißt</a>.</p>
 
   <p>Wenn ich gefragt werde "Kann ich ihn mit einem anderen Hund halten?" lautet meine Antwort immer gleich: Es hängt vom Individuum, der Charakterselektion und davon ab, wie viel Sie in die Sozialisation investieren. Es ist keine einfache Antwort, weil die Realität es nicht ist.</p>
 

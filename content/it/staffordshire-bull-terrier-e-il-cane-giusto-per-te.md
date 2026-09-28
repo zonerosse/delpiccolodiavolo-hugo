@@ -67,7 +67,7 @@ custom_content: |
   <p>Abbastanza robusto da non essere "delicato", abbastanza compatto da vivere bene anche in appartamento (se esce e si sfoga a sufficienza). Non occupa lo spazio di un molossoide gigante.</p>
   
   <h3>4. Pelo cortissimo, gestione semplice</h3>
-  <p>Il mantello raso richiede pochissime cure: una spazzolata ogni tanto e via. Perde poco pelo rispetto a molte razze e non ha bisogno di toelettatura.</p>
+  <p>Il mantello raso richiede pochissime cure: una spazzolata ogni tanto e via. Perde poco pelo rispetto a molte razze e non ha bisogno di toelettatura. Quali colori ammette lo standard, e quali no, è spiegato nella guida ai <a href="/colori-staffordshire-bull-terrier/" title="I colori dello Staffordshire Bull Terrier">colori dello Staffordshire Bull Terrier</a>.</p>
   
   <h3>5. Salute robusta (se allevato bene)</h3>
   <p>È una razza rustica e longeva (12-14 anni), a patto che provenga da <a href="/programma-allevamento/">riproduttori testati</a> per le patologie ereditarie principali (L2-HGA e HC). Qui la scelta dell'allevamento fa tutta la differenza.</p>
@@ -161,7 +161,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Quanto vive uno Staffordshire Bull Terrier?</h3>
-  <div class="faq-answer">Dodici-quattordici anni, un'ottima aspettativa per un cane di taglia media. La razza &egrave; robusta e non ha n&eacute; le problematiche respiratorie dei brachicefali estremi n&eacute; le patologie articolari tipiche delle taglie grandi. Le tre patologie ereditarie con un test del DNA &mdash; L2-HGA, cataratta ereditaria e mielopatia degenerativa &mdash; sono tutte recessive e si prevengono testando i riproduttori: due genitori esenti non possono produrre cuccioli malati. Dopo la genetica, la cosa che incide di pi&ugrave; sulla durata della vita &egrave; il <strong>peso</strong>: uno Staffy in sovrappeso invecchia prima, con articolazioni che si consumano e minore tolleranza al caldo. Dodici anni sono anche il periodo per cui ci si impegna quando si prende un cucciolo.</div>
+  <div class="faq-answer">Dodici-quattordici anni, un'ottima aspettativa per un cane di taglia media. La razza &egrave; robusta e non ha n&eacute; le <a href="/boas-staffordshire-bull-terrier-respirazione/" title="BOAS e respirazione nello Staffordshire Bull Terrier">problematiche respiratorie dei brachicefali estremi</a> n&eacute; le patologie articolari tipiche delle taglie grandi. Le tre patologie ereditarie con un test del DNA &mdash; L2-HGA, cataratta ereditaria e mielopatia degenerativa &mdash; sono tutte recessive e si prevengono testando i riproduttori: due genitori esenti non possono produrre cuccioli malati. Dopo la genetica, la cosa che incide di pi&ugrave; sulla durata della vita &egrave; il <strong>peso</strong>: uno Staffy in sovrappeso invecchia prima, con articolazioni che si consumano e minore tolleranza al caldo. Dodici anni sono anche il periodo per cui ci si impegna quando si prende un cucciolo.</div>
   </div>
   
   </section>

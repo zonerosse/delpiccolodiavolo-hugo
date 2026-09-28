@@ -30,7 +30,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Ein Staffordshire Bull Terrier ist typvoll, wenn Kopf, Proportionen, Brust, Knochen, Muskulatur und Gangwerk untereinander und mit dem Wesen im Gleichgewicht stehen, das der FCI-Standard Nr. 76 beschreibt. Der Standard ist die funktionale Beschreibung eines glatthaarigen, kurz gekoppelten Terriers von großer Kraft für seine Größe, wendig genug, um sich auf der Stelle zu drehen, und gesund genug, um den ganzen Tag zu arbeiten. Der Kopf ist kurz, mit tiefem, breitem Schädel, deutlichem Stop, kurzem Fang, kräftigen Kiefern und Scherengebiss; die Augen sind rund und bevorzugt dunkel, die Ohren Rosen- oder halbstehende Ohren. Das Gangwerk ist frei, kraftvoll und flink, mit erkennbarem Schub aus der Hinterhand. Typ heißt nicht, einen einzelnen Punkt zu übertreiben: Ein überzogener Kopf oder ein zu kurzer Fang kosten Atmung und Hitzetoleranz, und der Richter bewertet den ganzen Hund.</p>
+  <p>Ein Staffordshire Bull Terrier ist typvoll, wenn Kopf, Proportionen, Brust, Knochen, Muskulatur und Gangwerk untereinander und mit dem Wesen im Gleichgewicht stehen, das der FCI-Standard Nr. 76 beschreibt. Der Standard ist die funktionale Beschreibung eines glatthaarigen, kurz gekoppelten Terriers von großer Kraft für seine Größe, wendig genug, um sich auf der Stelle zu drehen, und gesund genug, um den ganzen Tag zu arbeiten. Der Kopf ist kurz, mit tiefem, breitem Schädel, deutlichem Stop, kurzem Fang, kräftigen Kiefern und Scherengebiss; die Augen sind rund und bevorzugt dunkel, die Ohren Rosen- oder halbstehende Ohren. Das Gangwerk ist frei, kraftvoll und flink, mit erkennbarem Schub aus der Hinterhand. Typ heißt nicht, einen einzelnen Punkt zu übertreiben: Ein überzogener Kopf oder ein zu kurzer Fang kosten <a href="/de/boas-staffordshire-bull-terrier-atmung/" title="BOAS und Atmung beim Staffordshire Bull Terrier">Atmung und Hitzetoleranz</a>, und der Richter bewertet den ganzen Hund.</p>
 
   
   
@@ -58,7 +58,7 @@ custom_content: |
 
   <h2>Farben</h2>
   <p>Zugelassen sind Rot, Falb, Weiß, Schwarz oder Blau, jeweils auch mit Weiß, sowie jede Schattierung von Gestromt und Gestromt mit Weiß. Schwarz-Loh und Leberfarben sind ausdrücklich nicht zugelassen, ebenso wenig die als Blue Merle oder ähnlich vermarktete Verdünnung, die in dieser Rasse gar nicht vorkommt.</p>
-  <p>Die Farbe sollte die Wahl zuletzt beeinflussen und ist die erste Frage der meisten Käufer. Ein Züchter, der Welpen nach Fellfarbe bepreist, sagt Ihnen damit, wo seine Prioritäten liegen.</p>
+  <p>Die Farbe sollte die Wahl zuletzt beeinflussen und ist die erste Frage der meisten Käufer. Ein Züchter, der Welpen nach Fellfarbe bepreist, sagt Ihnen damit, wo seine Prioritäten liegen. Welche Farben der Standard zulässt und welche nicht, erklärt der Ratgeber zu den <a href="/de/staffordshire-bull-terrier-farben/" title="Farben des Staffordshire Bull Terrier">Farben des Staffordshire Bull Terrier</a>.</p>
 
   <h2>Fehler und ihre Gewichtung</h2>
   <p>Der Standard hält fest, dass jede Abweichung als Fehler zu betrachten ist und dass die Schwere des Fehlers in genauem Verhältnis zu seinem Ausmaß und seiner Auswirkung auf Gesundheit und Wohlbefinden des Hundes stehen soll. Dieser letzte Satz ist der wichtigste des gesamten Dokuments — und der am häufigsten übergangene.</p>

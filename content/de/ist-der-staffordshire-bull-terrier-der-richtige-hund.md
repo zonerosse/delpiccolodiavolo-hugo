@@ -160,7 +160,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Wie lange lebt ein Staffordshire Bull Terrier?</h3>
-  <div class="faq-answer">Zwölf bis vierzehn Jahre, eine gute Lebenserwartung für einen mittelgroßen Hund. Die Rasse ist robust, ohne die Atemprobleme extrem brachyzephaler Rassen und ohne die Gelenkerkrankungen großer Rassen. Die drei Erbkrankheiten mit DNA-Test &mdash; L2-HGA, erblicher Katarakt und degenerative Myelopathie &mdash; werden rezessiv vererbt und durch Tests der Elterntiere vermieden: zwei freie Hunde können keine erkrankten Welpen hervorbringen. Nach der Genetik beeinflusst nichts die Lebensdauer so stark wie das <strong>Gewicht</strong>: ein übergewichtiger Staffy altert früher. Zwölf Jahre sind auch der Zeitraum, für den man sich mit einem Welpen bindet.</div>
+  <div class="faq-answer">Zwölf bis vierzehn Jahre, eine gute Lebenserwartung für einen mittelgroßen Hund. Die Rasse ist robust, ohne die <a href="/de/boas-staffordshire-bull-terrier-atmung/" title="BOAS und Atmung beim Staffordshire Bull Terrier">Atemprobleme extrem brachyzephaler Rassen</a> und ohne die Gelenkerkrankungen großer Rassen. Die drei Erbkrankheiten mit DNA-Test &mdash; L2-HGA, erblicher Katarakt und degenerative Myelopathie &mdash; werden rezessiv vererbt und durch Tests der Elterntiere vermieden: zwei freie Hunde können keine erkrankten Welpen hervorbringen. Nach der Genetik beeinflusst nichts die Lebensdauer so stark wie das <strong>Gewicht</strong>: ein übergewichtiger Staffy altert früher. Zwölf Jahre sind auch der Zeitraum, für den man sich mit einem Welpen bindet.</div>
   </div>
   
   </section>

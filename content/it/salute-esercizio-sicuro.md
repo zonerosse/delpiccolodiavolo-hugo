@@ -153,7 +153,7 @@ custom_content: |
   
   <h2>Attenzione al Caldo: Prevenire il Colpo di Calore</h2>
   
-  <p>Lo <strong>Staffordshire Bull Terrier</strong> ha una conformazione brachicefala moderata (muso corto) che lo rende <strong>più sensibile al caldo</strong> rispetto a razze dal muso lungo. La termoregolazione attraverso l'ansimazione è meno efficiente.</p>
+  <p>Lo <strong>Staffordshire Bull Terrier</strong> ha una <a href="/boas-staffordshire-bull-terrier-respirazione/" title="BOAS e respirazione nello Staffordshire Bull Terrier">conformazione brachicefala moderata</a> (muso corto) che lo rende <strong>più sensibile al caldo</strong> rispetto a razze dal muso lungo. La termoregolazione attraverso l'ansimazione è meno efficiente.</p>
   
   <h3>Rischi del colpo di calore</h3>
   

@@ -63,7 +63,7 @@ custom_content: |
   <h2 class="section-title">Litter Program</h2>
   
   <div class="intro-block">
-  <p>At our kennel, every litter is born from careful selection of healthy, balanced, in-standard parents. Our litter program guarantees breed welfare, character and typicality, following the highest ethical and health standards.</p>
+  <p>At our kennel, every litter is born from careful selection of healthy, balanced, in-standard parents. Our litter program guarantees breed welfare, character and typicality, following the highest ethical and health standards. Every litter born here, with parents, tests, examinations and growth photos, is recorded in the <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a>.</p>
   <p>Puppies grow up in a family environment, socialized with people, sounds and other animals to encourage harmonious development. Each puppy is placed after veterinary checks, vaccinations, microchip and registration.</p>
   <p>We are available to help you choose the most suitable puppy and to follow you even after adoption, with advice and ongoing assistance.</p>
   </div>

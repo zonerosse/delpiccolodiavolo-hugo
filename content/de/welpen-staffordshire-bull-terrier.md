@@ -86,7 +86,7 @@ custom_content: |
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Temperament und Sozialisierung</h3>
-  <p>Die Welpen kommen im Haus zur Welt, in der Wurfkiste, und bleiben dort etwa einen Monat: in dieser Zeit macht die Mutter alles, und der menschliche Kontakt zählt am meisten. Mit rund dreißig Tagen ziehen sie in einen eigenen Zwinger mit Auslauf um — aus einem praktischen Grund, den jeder kennt, der schon einen Wurf hatte: in diesem Alter machen sie mehr Schmutz, als ein bewohntes Haus verträgt. Von da an kommen sie abwechselnd wieder herein, zu zweit und für einige Stunden, damit jeder seinen Teil vom Haus bekommt.</p>
+  <p>Die Welpen kommen im Haus zur Welt, in der Wurfkiste, und bleiben dort etwa einen Monat: in dieser Zeit macht die Mutter alles, und der menschliche Kontakt zählt am meisten. Mit rund dreißig Tagen ziehen sie in einen eigenen Zwinger mit Auslauf um — aus einem praktischen Grund, den jeder kennt, der schon einen Wurf hatte: in diesem Alter machen sie mehr Schmutz, als ein bewohntes Haus verträgt. Von da an kommen sie abwechselnd wieder herein, zu zweit und für einige Stunden, damit jeder seinen Teil vom Haus bekommt. Jeder hier geborene Wurf, mit Eltern, Tests, Untersuchungen und Fotos des Heranwachsens, steht im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Zuchttagebuch</a>.</p>
 
     <a class="rimando" href="/de/bio-sensor-fruehstimulation-welpen/">
   <img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier Welpen in den ersten Tagen" width="88" height="88" loading="lazy" decoding="async">

@@ -1,7 +1,7 @@
 ---
-title: "Linee di Sangue Staffordshire Bull Terrier: Come Orientarsi"
+title: "Come Scegliere la Linea di Sangue di un Cucciolo di Staffy"
 date: 2025-03-05
-titleSeo: "Come orientarsi fra le linee di sangue dello Staffy"
+titleSeo: "Come scegliere la linea di sangue di un cucciolo di Staffy"
 lastmod: 2026-09-28
 translationKey: "scelta-linee"
 articolo: true
@@ -17,8 +17,8 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Standard e Linee di Sangue</span>
-  <h1 class="hero-title">Linee di Sangue: Come <em>Orientarsi</em></h1>
-  <p class="hero-subtitle">Scelta consapevole tra genealogie e obiettivi</p>
+  <h1 class="hero-title">Come Scegliere la <em>Linea di Sangue</em></h1>
+  <p class="hero-subtitle">per un cucciolo di Staffordshire Bull Terrier</p>
   <div class="hero-meta">
   <span>📅 5 Marzo 2025</span>
   <span>⏱️ 12 min lettura</span>

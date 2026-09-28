@@ -41,7 +41,7 @@ custom_content: |
 
     <h2>The puppy does not leave at eight weeks</h2>
 
-    <p>In Italy a puppy leaves its mother at 60 days. To leave the country, however, it needs the rabies vaccination, which <strong>cannot be given before 12 weeks</strong> of age. After the first dose another three weeks must pass before it counts for travel purposes.</p>
+    <p>In Italy a puppy leaves its mother at 60 days. To leave the country, however, it needs the rabies vaccination, which <strong>cannot be given before 12 weeks</strong> of age. After the first dose another three weeks must pass before it counts for travel purposes. Documents, car, train and air travel: the practical rules are in the guide to <a href="/en/staffy-travel-transport/" title="Travelling with a Staffy">travelling with a Staffy</a>.</p>
 
     <p>The arithmetic is simple: a puppy going abroad leaves at <strong>around four months</strong>, not before. That is six or seven weeks more than an Italian placement, and the puppy spends them here with us.</p>
 

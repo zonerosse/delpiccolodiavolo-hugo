@@ -37,7 +37,7 @@ custom_content: |
   <section class="section">
     <div class="section-inner content-single">
 
-  <p>Wir erhalten Anfragen aus dem Ausland, vor allem aus Osteuropa. Es ist möglich — wir haben es schon getan — aber es läuft anders ab als eine Vermittlung innerhalb Italiens, und das sollte man wissen, bevor man sich in ein Foto verliebt.</p>
+  <p>Wir erhalten Anfragen aus dem Ausland, vor allem aus Osteuropa. Es ist möglich — wir haben es schon getan — aber es läuft anders ab als eine Vermittlung innerhalb Italiens, und das sollte man wissen, bevor man sich in ein Foto verliebt. Papiere, Auto, Bahn und Flugzeug: die praktischen Regeln stehen im Ratgeber zum <a href="/de/staffy-reisen-transport/" title="Reisen mit dem Staffy">Reisen mit dem Staffy</a>.</p>
 
     <h2>Der Welpe reist nicht mit acht Wochen</h2>
 

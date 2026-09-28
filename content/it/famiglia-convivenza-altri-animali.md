@@ -193,7 +193,7 @@ custom_content: |
   
   <div class="callout">
   <p class="callout-title">🏆 I tempi reali di un inserimento</p>
-  <p>Con un cane residente equilibrato e un protocollo graduale bastano di solito alcune settimane. Quando manca l'uno o l'altro servono mesi, e in qualche caso la convivenza non funziona e i cani vanno tenuti separati per sempre. Contano soprattutto la socializzazione precoce dello Staffy, il rispetto dei tempi e il temperamento del cane che c'è già in casa.</p>
+  <p>Con un cane residente equilibrato e un protocollo graduale bastano di solito alcune settimane. Quando manca l'uno o l'altro servono mesi, e in qualche caso la convivenza non funziona e i cani vanno tenuti separati per sempre. Contano soprattutto la socializzazione precoce dello Staffy, il rispetto dei tempi e il temperamento del cane che c'è già in casa. Cosa vuol dire davvero "cucciolo socializzato", e come verificarlo quando si visita un allevamento, è spiegato in <a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Cuccioli socializzati: cosa vuol dire">cuccioli socializzati: cosa vuol dire</a>.</p>
   </div>
   
   <h2>Protocollo Inserimento Staffy-Gatto: Desensibilizzazione Completa (10-16 settimane)</h2>

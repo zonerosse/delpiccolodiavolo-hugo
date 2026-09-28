@@ -86,7 +86,7 @@ custom_content: |
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Temperament and Socialization</h3>
-  <p>Puppies are born indoors, in the whelping box, and stay there for about a month: it is the phase in which the mother does everything and human contact matters most. At around thirty days they move to a dedicated pen with outdoor access, for a practical reason anyone who has raised a litter knows: at that age they soil more than a lived-in house can take. From then on they come back inside in turns, two at a time for a few hours, so each of them gets its own share of the house.</p>
+  <p>Puppies are born indoors, in the whelping box, and stay there for about a month: it is the phase in which the mother does everything and human contact matters most. At around thirty days they move to a dedicated pen with outdoor access, for a practical reason anyone who has raised a litter knows: at that age they soil more than a lived-in house can take. From then on they come back inside in turns, two at a time for a few hours, so each of them gets its own share of the house. Every litter born here, with parents, tests, examinations and growth photos, is recorded in the <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a>.</p>
 
     <a class="rimando" href="/en/bio-sensor-early-stimulation-puppies/">
   <img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier puppies in their first days" width="88" height="88" loading="lazy" decoding="async">

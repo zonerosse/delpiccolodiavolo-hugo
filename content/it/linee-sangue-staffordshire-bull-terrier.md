@@ -1,8 +1,8 @@
 ---
-title: "Linee di Sangue Staffordshire Bull Terrier: Storia e Genealogia"
+title: "Storia delle Linee di Sangue dello Staffordshire Bull Terrier"
 date: 2025-11-08
 lastmod: 2026-09-28
-titleSeo: "Linee di sangue Staffordshire Bull Terrier: storia"
+titleSeo: "Storia delle linee di sangue dello Staffy"
 translationKey: "linee-sangue"
 articolo: true
 image: "/images/blog/linee-sangue-hero.webp"
@@ -17,8 +17,8 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Standard e Linee di Sangue</span>
-  <h1 class="hero-title">Linee di <em>Sangue</em> Staffordshire</h1>
-  <p class="hero-subtitle">Storia, Genealogia e Fondatori della Razza</p>
+  <h1 class="hero-title"><em>Storia</em> delle Linee di Sangue</h1>
+  <p class="hero-subtitle">Genealogia e fondatori dello Staffordshire Bull Terrier</p>
   <div class="hero-meta">
   <span>📅 8 Novembre 2025</span>
   <span>⏱️ 15 min lettura</span>
@@ -45,7 +45,7 @@ custom_content: |
   
   <p>Le linee di sangue dello Staffordshire Bull Terrier si contano dal 1935, quando il Kennel Club britannico riconobbe la razza: prima, i Bull and Terrier dello Staffordshire erano cani da lavoro senza genealogie tracciabili. Nel 1943 lo storico H. N. Beilby pubblicò il primo studio completo sulle linee genetiche, e nel giro di pochi anni ne furono riconosciute sei, J, M, L, B, R e C, tracciate come d'uso attraverso la discendenza maschile. Il primo campione maschio della razza fu Gentleman Jim, allevato da Jack Dunn. Oggi sopravvivono soprattutto la linea M di Brindle Mick e la linea R di Ribchester Bob, che insieme costituiscono circa il 70% del patrimonio genetico della razza moderna. Sapere a quale linea appartiene un cane serve a leggere il pedigree, non a giudicare il cane: quello lo dicono i test genetici, la struttura e il carattere.</p>
 
-  <p>Questa pagina racconta la storia delle linee e dei cani che le hanno fondate. Se devi scegliere un cucciolo e vuoi sapere come orientarti fra le linee di oggi, c'è una guida pratica: <a href="/standard-linee-di-sangue-orientarsi/" title="Come orientarsi fra le linee di sangue">come orientarsi fra le linee di sangue</a>.</p>
+  <p>Questa pagina racconta la storia delle linee e dei cani che le hanno fondate. Se devi scegliere un cucciolo e vuoi sapere come orientarti fra le linee di oggi, c'è una guida pratica: <a href="/standard-linee-di-sangue-orientarsi/" title="Come scegliere la linea di sangue">come scegliere la linea di sangue di un cucciolo</a>.</p>
 
   
   <h2>Le Origini delle Linee di Sangue</h2>

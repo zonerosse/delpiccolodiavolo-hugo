@@ -175,7 +175,7 @@ custom_content: |
   
   <h3>Zone a Rischio in Italia</h3>
   
-  <p>Pianura Padana, zone lacustri, delta del Po, coste tirreniche e adriatiche. Se vivi o viaggi in queste aree, profilassi obbligatoria.</p>
+  <p>Pianura Padana, zone lacustri, delta del Po, coste tirreniche e adriatiche. Se vivi o viaggi in queste aree, profilassi obbligatoria. Documenti, auto, treno e aereo: le regole pratiche sono nella guida su <a href="/famiglia-viaggi-spostamenti/" title="Viaggiare con lo Staffy">come viaggiare con lo Staffy</a>.</p>
   
   <h3>Protocollo Prevenzione</h3>
   

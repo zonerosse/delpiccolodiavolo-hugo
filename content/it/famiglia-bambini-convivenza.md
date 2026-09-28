@@ -67,7 +67,7 @@ custom_content: |
   <p><strong>VERO:</strong> NESSUN cane dovrebbe mai essere lasciato senza supervisione con bambini sotto 10 anni, indipendentemente dalla razza. La definizione "nanny dog" descrive tolleranza elevata, NON capacità di sorveglianza autonoma.</p>
   
   <p><strong>FALSO:</strong> "Tutti gli Staffy sono perfetti con i bambini per genetica"</p>
-  <p><strong>VERO:</strong> Il temperamento varia individualmente. Socializzazione precoce e gestione familiare sono determinanti quanto la genetica.</p>
+  <p><strong>VERO:</strong> Il temperamento varia individualmente. Socializzazione precoce e gestione familiare sono determinanti quanto la genetica. Cosa vuol dire davvero "cucciolo socializzato", e come verificarlo quando si visita un allevamento, è spiegato in <a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Cuccioli socializzati: cosa vuol dire">cuccioli socializzati: cosa vuol dire</a>.</p>
   
   
   <h3>Differenze maschi vs femmine con bambini</h3>
