@@ -48,8 +48,19 @@ custom_content: |
   <p>Praktisch bedeutet das: keine rassebezogene Beschränkung für die Haltung eines Staffordshire Bull Terrier in Italien, keine Maulkorbpflicht aufgrund der Rasse, keine Versicherungspflicht aufgrund der Rasse. Die bestehenden Pflichten gelten für jeden Hund und jeden Halter: Leine von höchstens eineinhalb Metern an öffentlichen Orten, ein mitgeführter Maulkorb, der auf Verlangen der Behörden oder wenn die Situation es erfordert angelegt wird, Mikrochip und Registrierung sowie die volle zivilrechtliche Haftung für Schäden.</p>
   <p>Einzelne Gemeinden können für bestimmte Bereiche wie Parks oder Strände strengere Regeln erlassen, und ein Gericht kann nach einem Vorfall für einen bestimmten Hund eine Wesensbeurteilung und verpflichtende Ausbildung anordnen. Beides betrifft den einzelnen Hund, nicht die Rasse.</p>
 
+  <h2>Wie Italien dahin kam: von der Liste 2006 zur Verordnung 2009</h2>
+  <p>Im Dezember 2006 erließ die damalige Gesundheitsministerin Livia Turco eine Verordnung zum Schutz der öffentlichen Sicherheit vor Hundeangriffen, mit einem Anhang von <strong>17 Rassen</strong>, die als Risiko galten, darunter Pit Bull, Rottweiler, Dogo Argentino, Fila Brasileiro und Tosa Inu. Der Staffordshire Bull Terrier stand nicht auf dieser Liste; er wurde nur im Sprachgebrauch damit verbunden, wegen seiner Ähnlichkeit mit dem Pit Bull.</p>
+  <p>Die Liste hielt kaum zwei Jahre. Die am 3. März 2009 von der Staatssekretärin Francesca Martini unterzeichnete Verordnung schaffte sie ab, mit der Begründung, dass die Veterinärmedizin es nicht erlaubt, ein höheres Aggressionsrisiko an der Rasse oder an Kreuzungen festzumachen. Was diese Verordnung eingeführt hat, gilt weiterhin: eine Leine von höchstens anderthalb Metern im städtischen Raum, ein mitgeführter Maulkorb, der auf Verlangen angelegt wird, ein Register der Hunde, die gebissen haben, bei den Gesundheitsbehörden, und die zivil- und strafrechtliche Haftung des Halters. Quelle: die <a href="https://www.salute.gov.it/portale/documentazione/p6_2_2_1.jsp?id=3031" target="_blank" rel="noopener" aria-label="Italienisches Gesundheitsministerium, Verordnung vom 3. März 2009 (wird in einem neuen Tab geöffnet)">Verordnung des italienischen Gesundheitsministeriums vom 3. März 2009</a>.</p>
+
+  <h2>Der Vorschlag der Lombardei und die „Save List“</h2>
+  <p>Im Januar 2025 legte die Region Lombardei einen Gesetzentwurf mit einer „Save List“ von 26 Hundetypen vor, darunter der Staffordshire Bull Terrier. Ihre Halter sollten einen Theoriekurs von mindestens zehn und einen Praxiskurs von mindestens sechs Stunden absolvieren, mit dem CAE-1-Test des ENCI zum Abschluss. Am 24. Juni 2025 hat der Regionalrat ihn als Gesetzentwurf an das nationale Parlament verabschiedet: es ist kein Regionalgesetz, und er hat keine Wirkung, solange das Parlament ihn nicht beschließt.</p>
+  <p>Der verabschiedete Text enthält eine Änderung, die für jeden zählt, der eine Zucht wählt: er <strong>nimmt Hunde aus, die im Zuchtbuch eingetragen sind</strong>, also Hunde mit ENCI-Ahnentafel, und verbietet Zucht und Abgabe von Hunden der gelisteten Typen ohne Papiere, um Hinterhofwürfe zu verhindern. Ein Staffordshire Bull Terrier mit ENCI-Ahnentafel fiele also auch dann nicht unter den Hundeführerschein, wenn der Vorschlag in dieser Form Gesetz würde.</p>
+
+  <h2>Europa, Land für Land</h2>
+  <p>Im <strong>Vereinigten Königreich</strong> verbietet der Dangerous Dogs Act 1991 vier Typen: Pit Bull Terrier, Japanischer Tosa, Dogo Argentino und Fila Brasileiro. Der Staffordshire Bull Terrier gehört nicht dazu und ist eine der beliebtesten Rassen des Landes. In <strong>Deutschland</strong> beschränkt das Bundesrecht die Einfuhr einiger Rassen, während die Länder eigene Listen führen, und in manchen gelten für den Staffordshire Bull Terrier Auflagen. In <strong>Frankreich</strong> werden Hunde in zwei Kategorien eingeteilt, und ein Staffordshire Bull Terrier mit französischer LOF-Ahnentafel fällt in keine davon. In <strong>Irland</strong> steht die Rasse auf der Liste der Hunde, die in der Öffentlichkeit mit Maulkorb und an kurzer Leine von einer Person über sechzehn geführt werden müssen.</p>
+
   <h2>Die Lage im übrigen Europa</h2>
-  <p>Wenn Sie dies außerhalb Italiens lesen, ist das Bild sehr unterschiedlich, und es ist wichtig, falls Sie mit dem Hund reisen oder umziehen wollen. Mehrere deutsche Bundesländer führen den Staffordshire Bull Terrier in ihren Rasselisten, mit Anforderungen von der Wesensprüfung bis zur Halteerlaubnis. Dänemark unterhält eine Verbotsliste, die die Rasse einschließt. Irland verlangt für eine Reihe von Typen Maulkorb und kurze Leine im öffentlichen Raum. Das Vereinigte Königreich, das Ursprungsland der Rasse, kennt keinerlei Beschränkung.</p>
+  <p>Wenn Sie dies außerhalb Italiens lesen, ist das Bild sehr unterschiedlich, und es ist wichtig, falls Sie mit dem Hund reisen oder umziehen wollen. Mehrere deutsche Bundesländer führen den Staffordshire Bull Terrier in ihren Rasselisten, mit Anforderungen von der Wesensprüfung bis zur Halteerlaubnis. Dänemark verbietet dreizehn Rassen, darunter den American Staffordshire Terrier und den Pit Bull Terrier, nicht aber den Staffordshire Bull Terrier; ein Hund, der einem verbotenen Typ ähnelt, muss seine Rasse unter Umständen nachweisen, ein Grund mehr, mit der Ahnentafel zu reisen. Irland verlangt für eine Reihe von Typen Maulkorb und kurze Leine im öffentlichen Raum. Das Vereinigte Königreich, das Ursprungsland der Rasse, kennt keinerlei Beschränkung.</p>
   <p>Wer mit einem Staffordshire Bull Terrier über Grenzen zieht, sollte die aktuellen Bestimmungen des Ziellandes unmittelbar prüfen und sich nicht auf Angaben aus zweiter Hand verlassen, denn diese Listen ändern sich. Bei jedem Welpen, den wir ins Ausland abgeben, tun wir das selbstverständlich und sprechen Beschränkungen im Zielland offen an.</p>
 
   <h2>Wie das Wesen der Rasse tatsächlich ist</h2>
@@ -66,11 +77,54 @@ custom_content: |
   <p>Nichts davon ist außergewöhnlich, und alles davon ist die normale Arbeit mit einem gut gebauten Terrier. Der Ruf der Rasse wird von den Haltern gemacht, Hund für Hund, und das Nützlichste, was ein Halter für die Rasse tun kann, ist ein sichtbar gut erzogener Hund in der Öffentlichkeit.</p>
 
   <h2>Häufige Fragen</h2>
-  <p><strong>Steht der Staffordshire Bull Terrier in Italien auf einer Verbotsliste?</strong> Nein. Italien hat Rasselisten 2009 abgeschafft und nicht wieder eingeführt.</p>
-  <p><strong>Muss er in der Öffentlichkeit einen Maulkorb tragen?</strong> Nicht grundsätzlich. Der Maulkorb ist mitzuführen und auf Verlangen anzulegen, und das gilt für alle Hunde.</p>
-  <p><strong>Ist eine Versicherung Pflicht?</strong> In Italien nicht, und nicht wegen der Rasse. Sinnvoll ist sie trotzdem.</p>
-  <p><strong>Kann ein Vermieter oder die Eigentümergemeinschaft die Rasse verbieten?</strong> Eine Eigentümergemeinschaft kann Tierhaltung in Eigentumswohnungen nicht verbieten. Ein privater Mietvertrag kann Einschränkungen enthalten.</p>
-  <p><strong>Ist die Rasse sicher mit Kindern?</strong> Die Rasse ist außergewöhnlich menschenbezogen und hat eine lange Geschichte als Familienhund. Das heißt nicht, dass ein einzelner Hund unbeaufsichtigt mit einem Kleinkind sicher ist. Aufsicht ist bei jeder Rasse unverzichtbar.</p>
+
+  <div class="faq-list">
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Ist der Staffordshire Bull Terrier nach italienischem Recht eine gefährliche Rasse?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Nein. Italien hat seit 2009 keine Liste gefährlicher Rassen mehr, als eine Verordnung des Gesundheitsministeriums die in den Jahren zuvor eingeführte Liste abschaffte, und der Staffordshire Bull Terrier stand ohnehin nicht darauf. Der Grundsatz, der an ihre Stelle trat: die Gefahr hängt nicht von der Rasse ab, sondern vom einzelnen Hund und von dem, der ihn hält; die zivil- und strafrechtliche Haftung liegt immer beim Halter, welcher Hund es auch sei. Die Regeln gelten deshalb für alle gleich: an öffentlichen Orten eine Leine von höchstens anderthalb Metern, ein mitgeführter Maulkorb, der auf Verlangen der Behörden oder bei Gefahr angelegt wird, und die Pflicht zum Schadenersatz. Strengere örtliche Regeln einzelner Gemeinden und Hausordnungen bleiben möglich und sind im Einzelfall zu prüfen.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was sagt die Studie des Royal Veterinary College?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Die VetCompass-Studie des Royal Veterinary College, 2020 veröffentlicht, hat die klinischen Unterlagen des Jahres 2016 von 1.304 Staffordshire Bull Terriern und 21.029 anderen Hunden in tierärztlicher Grundversorgung im Vereinigten Königreich ausgewertet. Die Rasse zeigte keinen signifikanten Unterschied bei der Aggression im Vergleich zu anderen Hunden. Es ist Forschung mit echten klinischen Daten, keine Meinungsumfrage, und genau diese Art von Belegen fehlt in der Debatte über sogenannte gefährliche Rassen fast immer. Dieselbe Studie nennt auch einige gesundheitliche Veranlagungen der Rasse, darunter Krampfanfälle und Hauterkrankungen: eine nützliche Erinnerung daran, dass man eine Rasse als Ganzes beurteilt und nicht nach einer einzelnen Schlagzeile.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was ist die „Save List“ der Lombardei?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Eine Liste von 26 Hundetypen, darunter der Staffordshire Bull Terrier, in einem Gesetzentwurf an das Parlament, den der Regionalrat der Lombardei am 24. Juni 2025 verabschiedet hat. Wer einen dieser Hunde hält, müsste einen Theoriekurs von mindestens zehn und einen Praxiskurs von mindestens sechs Stunden absolvieren, mit dem CAE-1-Test des ENCI. Wichtig für jeden, der eine Zucht wählt: der verabschiedete Text <strong>nimmt Hunde aus, die im Zuchtbuch eingetragen sind</strong>; ein Staffy mit ENCI-Ahnentafel fiele nicht unter die Pflichten, während der Entwurf für Hunde ohne Papiere Zucht und Abgabe verbietet. Es bleibt ein Vorschlag: solange das Parlament ihn nicht beschließt, hat er keine praktische Wirkung, und es lohnt sich, das Verfahren zu verfolgen.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Brauche ich eine Versicherung für meinen Staffy?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">In Italien ist eine Hundehaftpflicht nicht allgemein vorgeschrieben, wird es aber in bestimmten Fällen: für Hunde, die nach einem Beißvorfall in das Register der Gesundheitsbehörden eingetragen wurden, und nach örtlichen Regeln oder Hausordnungen, die sie verlangen können. Unabhängig von jeder Pflicht lohnt sie sich bei einem kräftigen Hund wie dem Staffordshire Bull Terrier ohnehin: der Halter haftet immer für Schäden durch sein Tier, auch ohne direktes Verschulden, und eine Police kostet wenige Dutzend Euro im Jahr. Viele Hausratversicherungen schließen sie bereits ein, prüfen Sie also Ihre eigene, bevor Sie eine neue abschließen.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Ist der Staffordshire Bull Terrier in einem Land verboten?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">In keinem größeren europäischen Land ist der Staffordshire Bull Terrier als solcher verboten, doch die Regeln unterscheiden sich stark und sollten vor Reisen oder Umzügen geprüft werden. Im Vereinigten Königreich, wo die Rasse entstand, ist er völlig legal und eine der verbreitetsten Rassen. Dänemark verbietet dreizehn Rassen, darunter den American Staffordshire Terrier, nicht aber den Staffy. In manchen deutschen Bundesländern und in Irland gelten dagegen Auflagen für die Rasse, vom Maulkorb bis zur vorherigen Erlaubnis, und anderswo kann ein Hund kontrolliert werden, weil er einem beschränkten Typ ähnelt. Wer mit dem Hund reist, sollte die Bestimmungen des Ziellandes prüfen und die Ahnentafel mitnehmen, das Dokument, das die Rasse bescheinigt.
+  </div>
+  </div>
+
+  </div>
 
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>

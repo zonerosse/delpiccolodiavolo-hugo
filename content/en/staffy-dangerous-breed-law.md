@@ -52,8 +52,19 @@ custom_content: |
   <p>In practice this means there is no breed restriction on owning a Staffordshire Bull Terrier in Italy, no muzzle requirement based on breed, and no compulsory insurance based on breed. The obligations that do exist apply to every dog and every owner: a lead no longer than one and a half metres in public places, a muzzle carried and available to be fitted on request of the authorities or when the situation requires it, microchipping and registration, and full civil liability for any damage the dog causes.</p>
   <p>Individual municipalities can impose stricter local rules on specific areas such as parks or beaches, and a judge can order a behavioural assessment and mandatory training for a specific dog after an incident. Both of these are dog-specific, not breed-specific.</p>
 
+  <h2>How Italy got here: from the 2006 list to the 2009 ordinance</h2>
+  <p>In December 2006 the then Minister of Health, Livia Turco, issued an ordinance on protecting public safety from dog attacks, with an annex listing <strong>17 breeds</strong> considered at risk, among them the Pit Bull, the Rottweiler, the Dogo Argentino, the Fila Brasileiro and the Tosa Inu. The Staffordshire Bull Terrier was not on that list; it ended up associated with it only in everyday language, through its resemblance to the Pit Bull.</p>
+  <p>The list lasted barely two years. The ordinance signed on 3 March 2009 by the undersecretary Francesca Martini abolished it, stating that veterinary science does not allow the risk of greater aggressiveness to be established on the basis of a dog's breed or crosses. What that ordinance introduced still applies: a lead of at most one and a half metres in urban areas, a muzzle carried and fitted on request, a register of dogs that have bitten kept by the local health authorities, and the civil and criminal liability of the owner. Source: the <a href="https://www.salute.gov.it/portale/documentazione/p6_2_2_1.jsp?id=3031" target="_blank" rel="noopener" aria-label="Italian Ministry of Health, ordinance of 3 March 2009 (opens in a new tab)">Italian Ministry of Health, ordinance of 3 March 2009</a>.</p>
+
+  <h2>The Lombardy proposal and the "save list"</h2>
+  <p>In January 2025 the Lombardy Region presented a bill with a "save list" of 26 types of dog, the Staffordshire Bull Terrier among them, whose owners would have to complete a theory course of at least ten hours and a practical course of at least six, ending with the ENCI's CAE-1 test. On 24 June 2025 the regional council approved it as a bill to be sent to the national Parliament: it is not a regional law, and it has no effect until Parliament passes it.</p>
+  <p>The approved text contains one change that matters to anyone choosing a breeder: it <strong>excludes dogs registered in the stud books</strong>, that is, dogs with an ENCI pedigree, and prohibits breeding and rehoming non-pedigree dogs of the listed types, to stop backyard litters. A Staffordshire Bull Terrier with an ENCI pedigree would therefore not be subject to the licence even if the proposal became law in that form.</p>
+
+  <h2>Across Europe, country by country</h2>
+  <p>In the <strong>United Kingdom</strong> the Dangerous Dogs Act 1991 prohibits four types: the Pit Bull Terrier, the Japanese Tosa, the Dogo Argentino and the Fila Brasileiro. The Staffordshire Bull Terrier is not among them and is one of the most popular breeds in the country. In <strong>Germany</strong> federal law restricts the import of some breeds, while the individual states keep their own lists, and in some of them the Staffordshire Bull Terrier is subject to requirements. In <strong>France</strong> dogs are classified in two categories, and a Staffordshire Bull Terrier with a French LOF pedigree falls into neither. In <strong>Ireland</strong> the breed is on the list of dogs that must be muzzled and kept on a short lead in public by a person over sixteen.</p>
+
   <h2>The situation elsewhere in Europe</h2>
-  <p>If you are reading this from outside Italy, the picture varies considerably and it matters if you intend to travel or relocate with your dog. Some German federal states include the Staffordshire Bull Terrier in their category lists, with requirements ranging from a temperament test to keeper permits. Denmark maintains a prohibition list that includes the breed. Ireland requires muzzle and short lead in public for a list of types. The United Kingdom, the breed's country of origin, does not restrict it at all.</p>
+  <p>If you are reading this from outside Italy, the picture varies considerably and it matters if you intend to travel or relocate with your dog. Some German federal states include the Staffordshire Bull Terrier in their category lists, with requirements ranging from a temperament test to keeper permits. Denmark prohibits thirteen breeds, including the American Staffordshire Terrier and the Pit Bull Terrier, but not the Staffordshire Bull Terrier; a dog that resembles a prohibited type may still have to prove its breed, which is one more reason to travel with the pedigree. Ireland requires muzzle and short lead in public for a list of types. The United Kingdom, the breed's country of origin, does not restrict it at all.</p>
   <p>Anyone planning to move a Staffordshire Bull Terrier across borders should check the destination's current rules directly rather than rely on second-hand information, because these lists change. We do this as a matter of course for every puppy we export, and we say so plainly to buyers when the destination has restrictions.</p>
 
   <h2>What the breed's temperament actually is</h2>
@@ -70,11 +81,54 @@ custom_content: |
   <p>None of this is exotic, and all of it is the ordinary work of owning a well-built terrier. The breed's reputation is made and unmade by owners, one dog at a time, and the single most useful thing a Staffordshire Bull Terrier owner can do for the breed is to have a visibly well-mannered dog in public.</p>
 
   <h2>Frequently asked questions</h2>
-  <p><strong>Is the Staffordshire Bull Terrier on a banned list in Italy?</strong> No. Italy abolished breed lists in 2009 and has not reinstated them.</p>
-  <p><strong>Must it wear a muzzle in public?</strong> Not by default. The muzzle must be carried and fitted on request of the authorities or where circumstances require it, and this applies to all dogs.</p>
-  <p><strong>Is insurance compulsory?</strong> Not in Italy, and not because of the breed. It is nonetheless sensible.</p>
-  <p><strong>Can a landlord or condominium prohibit the breed?</strong> A condominium regulation cannot prohibit pets in owned flats. A private rental contract can contain restrictions, so read it before signing.</p>
-  <p><strong>Is the breed safe with children?</strong> The breed is exceptionally people-oriented and has a long history as a family dog. That is not the same as saying any individual dog is safe unsupervised with a toddler. Supervision is not optional, in any breed.</p>
+
+  <div class="faq-list">
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is the Staffordshire Bull Terrier a dangerous breed under Italian law?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">No. Italy has had no list of dangerous breeds since 2009, when the Ministry of Health ordinance abolished the list introduced in the preceding years, and the Staffordshire Bull Terrier was not on that list in any case. The principle that replaced it is that danger depends not on the breed but on the individual dog and on the person keeping it: civil and criminal liability always lies with the owner, whatever the dog. The rules therefore apply to everyone equally: a lead no longer than one and a half metres in public places, a muzzle carried and fitted on request of the authorities or when there is a risk, and the obligation to compensate for damage. Stricter local rules set by individual municipalities, and condominium rules, remain possible and must be checked case by case.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What does the Royal Veterinary College study say?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">The VetCompass study by the Royal Veterinary College, published in 2020, analysed the 2016 clinical records of 1,304 Staffordshire Bull Terriers and 21,029 other dogs under primary veterinary care in the United Kingdom. The breed showed no significant difference in the odds of aggression compared with other dogs. It is research on real clinical data, not an opinion survey, and it is the kind of evidence almost always missing from the debate about so-called dangerous breeds. The same study also reports some health predispositions of the breed, among them seizures and skin conditions: a useful reminder that a breed is assessed as a whole, not on a single newspaper headline.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What is the Lombardy "save list"?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">It is a list of 26 types of dog, the Staffordshire Bull Terrier among them, contained in a bill to Parliament that the Lombardy regional council approved on 24 June 2025. Anyone keeping one of those dogs would have to complete a theory course of at least ten hours and a practical one of at least six, with the ENCI's CAE-1 test. The point that matters to anyone choosing a breeder is that the approved text <strong>excludes dogs registered in the stud books</strong>: a Staffy with an ENCI pedigree would not fall under the obligations, while for non-pedigree dogs the bill prohibits breeding and rehoming. It remains a proposal: until Parliament passes it, it has no practical effect, and it is worth following its progress.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Do I need insurance for my Staffy?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">In Italy third-party liability insurance for dogs is not compulsory in general, but it becomes so in specific cases: for dogs placed on the register kept by the local health authorities after a biting incident, and under local or condominium rules that may require it. Beyond any obligation, it is worth having for a powerful dog like the Staffordshire Bull Terrier in any case: the owner is always liable for damage caused by their animal, even without direct fault, and a policy costs a few tens of euros a year. Many home insurance policies already include it, so check your own before taking out a new one.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is the Staffordshire Bull Terrier banned in any country?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">In no major European country is the Staffordshire Bull Terrier banned as such, but the rules vary a great deal and should be checked before travelling or moving. In the United Kingdom, where the breed was born, it is entirely legal and one of the most common. Denmark bans thirteen breeds, including the American Staffordshire Terrier but not the Staffy. In some German states and in Ireland, on the other hand, there are requirements that concern the breed, ranging from a muzzle to prior authorisation, and elsewhere a dog may be checked because it resembles a restricted type. Anyone travelling with their dog should check the rules of the destination country and carry the pedigree, which is the document that certifies the breed.
+  </div>
+  </div>
+
+  </div>
 
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>

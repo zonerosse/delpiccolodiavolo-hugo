@@ -70,7 +70,7 @@ custom_content: |
   
   <h3>Il Primo Campione: Gentleman Jim</h3>
   
-  <p>Un nome emerge sopra tutti gli altri: <strong>Gentleman Jim</strong>. Nato il 25 maggio 1935 dall'allevatore Jack Dunn, era figlio di <strong>Brindle Mick</strong>, il fondatore della Linea M.</p>
+  <p>Un nome emerge sopra tutti gli altri: <strong>Gentleman Jim</strong>. Nato il 25 maggio 1937 dall'allevatore Jack Dunn, era figlio di <strong>Brindle Mick</strong>, il fondatore della Linea M.</p>
   
   <p>Gentleman Jim divenne il <strong>primo campione maschio</strong> della razza nel <strong>1939</strong>. Il suo impatto sulla razza fu enorme: praticamente ogni Staffordshire Bull Terrier moderno ha Gentleman Jim nel proprio pedigree, spesso multiple volte.</p>
   
@@ -86,8 +86,8 @@ custom_content: |
   <p>La <strong>Linea M</strong>, fondata da Brindle Mick, è oggi la linea più diffusa, rappresentando oltre il 50% del patrimonio genetico della razza moderna. I suoi discendenti più famosi includono:</p>
   
   <ul>
-  <li><strong>Gentleman Jim</strong> (1935-1948) - Primo campione maschio della razza</li>
-  <li><strong>Cross Guns Johnson</strong> - Fratello di sangue di Gentleman Jim, Best of Breed al primo Crufts</li>
+  <li><strong>Gentleman Jim</strong> (nato nel 1937) - Primo campione maschio della razza</li>
+  <li><strong>Cross Guns Johnson</strong> - Fratello di Brindle Mick, quindi zio di Gentleman Jim, Best of Breed al primo Crufts</li>
   <li><strong>Fearless Red of Bandits</strong> (1944) - Figlio di Gentleman Jim, considerato "l'essenza del vero Stafford"</li>
   </ul>
   

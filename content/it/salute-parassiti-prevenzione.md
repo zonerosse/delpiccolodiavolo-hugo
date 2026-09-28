@@ -120,7 +120,7 @@ custom_content: |
   
   <div class="alert">
   <p class="alert-title">⚠️ PERICOLO</p>
-  <p><strong>MAI</strong> usare prodotti per cani adulti su cuccioli piccoli. <strong>MAI</strong> usare antiparassitari per gatti sui cani (contengono permetrina TOSSICA per i gatti). <strong>MAI</strong> combinare prodotti senza consulto veterinario. Rischio intossicazione grave.</p>
+  <p><strong>MAI</strong> usare prodotti per cani adulti su cuccioli piccoli. <strong>MAI</strong> scambiare i prodotti fra cane e gatto: molti antiparassitari per cani contengono permetrina, TOSSICA per i gatti, anche solo per contatto con un cane appena trattato. <strong>MAI</strong> combinare prodotti senza consulto veterinario. Rischio intossicazione grave.</p>
   </div>
   
   <h2>Controllo Quotidiano e Rimozione Zecche</h2>

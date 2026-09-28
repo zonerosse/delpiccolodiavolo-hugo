@@ -59,12 +59,12 @@ custom_content: |
   <p>Lines are traced through the male descent, which is standard practice in dog breeding. A dog belongs to the line of its paternal great-grandfather even when other lines appear in the pedigree through the females.</p>
 
   <h3>The first champion: Gentleman Jim</h3>
-  <p>One name stands above the rest. <strong>Gentleman Jim</strong>, born on 25 May 1935 and bred by Jack Dunn, was a son of Brindle Mick, the founder of the M-Line. He became the breed's <strong>first male champion</strong> in 1939, and practically every modern Staffordshire Bull Terrier carries him somewhere in its pedigree — often several times over.</p>
+  <p>One name stands above the rest. <strong>Gentleman Jim</strong>, born on 25 May 1937 and bred by Jack Dunn, was a son of Brindle Mick, the founder of the M-Line. He became the breed's <strong>first male champion</strong> in 1939, and practically every modern Staffordshire Bull Terrier carries him somewhere in its pedigree — often several times over.</p>
 
   <p>That ubiquity has a cost. A single dog appearing repeatedly in almost every pedigree narrows the gene pool of the whole breed, which is one reason we test every breeding dog for L2HGA and HC, and our breeding females also for DM-SOD1, rather than relying on ancestry alone.</p>
 
   <h3>M-Line, the widespread one</h3>
-  <p>The M-Line, from Brindle Mick, is today the most widespread, accounting for more than half of the breed's genetic heritage. Its best-known descendants include Gentleman Jim himself, <strong>Cross Guns Johnson</strong> — his blood brother, Best of Breed at the first Crufts the breed attended — and <strong>Fearless Red of Bandits</strong> (1944), a son of Gentleman Jim often described as the essence of the true Stafford. The line is associated with imposing heads, substantial frames and heavy muscling.</p>
+  <p>The M-Line, from Brindle Mick, is today the most widespread, accounting for more than half of the breed's genetic heritage. Its best-known names include Gentleman Jim himself, <strong>Cross Guns Johnson</strong> — full brother of Brindle Mick, and so Gentleman Jim's uncle, Best of Breed at the first Crufts the breed attended — and <strong>Fearless Red of Bandits</strong> (1944), a son of Gentleman Jim often described as the essence of the true Stafford. The line is associated with imposing heads, substantial frames and heavy muscling.</p>
 
   <h3>R-Line, the survivor</h3>
   <p>The R-Line was founded by <strong>Ribchester Bob</strong>, born around 1931. It is known for freer movement, a more compact but athletic build, an even temperament with notable trainability, and good longevity. It accounts for roughly a fifth to a quarter of the breed's genetic heritage today and is valued by European kennels looking to widen their base.</p>

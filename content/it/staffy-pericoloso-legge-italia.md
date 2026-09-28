@@ -98,7 +98,7 @@ custom_content: |
   
   <h3>2006: L'Ordinanza Turco e la "Lista Nera"</h3>
   
-  <p>Nel dicembre 2006, l'allora Ministro della Salute <strong>Livia Turco</strong> emanò l'ordinanza "Tutela dell'incolumità pubblica dall'aggressione di cani", che introduceva un elenco di <strong>17 razze considerate pericolose</strong>. Lo Staffordshire Bull Terrier era incluso in questa lista.</p>
+  <p>Nel dicembre 2006, l'allora Ministro della Salute <strong>Livia Turco</strong> emanò l'ordinanza "Tutela dell'incolumità pubblica dall'aggressione di cani", che introduceva un elenco di <strong>17 razze considerate pericolose</strong>, fra cui Pit Bull, Rottweiler, Dogo Argentino, Fila Brasileiro e Tosa Inu. Lo Staffordshire Bull Terrier non era in quella lista: lo è diventato solo nel linguaggio comune, per somiglianza con il Pit Bull.</p>
   
   <h3>2009: L'Ordinanza Martini Abolisce la Lista</h3>
   
@@ -149,7 +149,7 @@ custom_content: |
   
   <div class="callout">
   <p class="callout-title">📝 Nota Importante sulla Proposta Lombarda</p>
-  <p>La proposta lombarda è un <strong>Progetto di Legge al Parlamento</strong>, non una legge regionale. Deve essere discussa e approvata dal Parlamento nazionale per diventare legge.</p>
+  <p>La proposta lombarda è un <strong>Progetto di Legge al Parlamento</strong>, non una legge regionale: il Consiglio regionale l'ha approvata il 24 giugno 2025, ma per diventare legge deve essere discussa e approvata dal Parlamento nazionale. Il testo approvato contiene una modifica importante rispetto alla prima versione: <strong>esclude i cani iscritti ai libri genealogici</strong>, cioè quelli con pedigree ENCI, e vieta la riproduzione e la cessione dei soggetti senza pedigree delle tipologie elencate, per colpire le cucciolate casalinghe. Uno Staffordshire Bull Terrier con pedigree ENCI, quindi, anche se la proposta diventasse legge nella forma approvata, non sarebbe soggetto al patentino.</p>
   </div>
   
   <h2>Confronto con l'Europa: Come Si Comportano gli Altri Paesi?</h2>
@@ -227,12 +227,12 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Cosa dice lo studio scientifico del Royal Veterinary College?</h3>
-  <div class="faq-answer">Lo studio VetCompass del Royal Veterinary College, pubblicato nel 2020, ha analizzato oltre 22.000 cani seguiti dalle cliniche veterinarie britanniche, confrontando pi&ugrave; di 1.300 Staffordshire Bull Terrier con il resto della popolazione canina. Il risultato &egrave; che la razza non mostra una probabilit&agrave; significativamente maggiore di comportamento aggressivo rispetto agli altri cani. &Egrave; una ricerca su dati clinici reali, non un sondaggio di opinione, ed &egrave; il tipo di evidenza che manca quasi sempre nel dibattito sulle razze cosiddette pericolose. Lo stesso studio segnala per&ograve; alcune predisposizioni sanitarie della razza, fra cui problemi dermatologici e otiti: &egrave; un promemoria utile sul fatto che una razza si valuta nel complesso, non su un singolo titolo di giornale.</div>
+  <div class="faq-answer">Lo studio VetCompass del Royal Veterinary College, pubblicato nel 2020, ha analizzato oltre 22.000 cani seguiti dalle cliniche veterinarie britanniche, confrontando pi&ugrave; di 1.300 Staffordshire Bull Terrier con il resto della popolazione canina. Il risultato &egrave; che la razza non mostra una probabilit&agrave; significativamente maggiore di comportamento aggressivo rispetto agli altri cani. &Egrave; una ricerca su dati clinici reali, non un sondaggio di opinione, ed &egrave; il tipo di evidenza che manca quasi sempre nel dibattito sulle razze cosiddette pericolose. Lo stesso studio segnala per&ograve; alcune predisposizioni sanitarie della razza, fra cui crisi epilettiche e dermatite atopica: &egrave; un promemoria utile sul fatto che una razza si valuta nel complesso, non su un singolo titolo di giornale.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Cos'è la "save list" della Lombardia?</h3>
-  <div class="faq-answer">&Egrave; un elenco di 26 tipologie di cani contenuto in una proposta di legge della Regione Lombardia del gennaio 2025, nella quale compare anche lo Staffordshire Bull Terrier. Il nome &mdash; lista di cani da salvare &mdash; indica l'intenzione dichiarata di destinare risorse alle adozioni di questi soggetti nei canili, ma un elenco di razze scritto in una norma regionale &egrave; sempre un'arma a doppio taglio: crea una categoria giuridica separata, e da l&igrave; a introdurre obblighi specifici il passo &egrave; breve. Al momento si tratta di una proposta, non di una legge in vigore, e non ha effetti pratici sui proprietari. Vale la pena seguirne l'iter, perch&eacute; le regole regionali possono differire da quelle nazionali.</div>
+  <div class="faq-answer">&Egrave; un elenco di 26 tipologie di cani, fra cui lo Staffordshire Bull Terrier, contenuto in un progetto di legge al Parlamento che il Consiglio regionale della Lombardia ha approvato il 24 giugno 2025. Chi detiene uno di quei cani dovrebbe seguire un corso teorico di almeno dieci ore e uno pratico di almeno sei, con il test CAE-1 dell'ENCI. Il punto che interessa chi sceglie un allevamento &egrave; che il testo approvato <strong>esclude i cani iscritti ai libri genealogici</strong>: uno Staffy con pedigree ENCI non rientrerebbe negli obblighi, mentre per i soggetti senza pedigree la proposta vieta riproduzione e cessione. Resta comunque una proposta: finch&eacute; il Parlamento non la approva non ha effetti pratici, ed &egrave; utile seguirne l'iter.
   </div>
   
   <div class="faq-item">
