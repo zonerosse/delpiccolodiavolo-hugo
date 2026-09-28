@@ -1,7 +1,7 @@
 ---
 title: "Staffy con Altri Animali: Guida Convivenza"
 date: 2024-06-18
-lastmod: 2026-09-20
+lastmod: 2026-09-28
 translationKey: "altri-animali"
 articolo: true
 image: "/images/blog/famiglia-3.webp"
@@ -42,9 +42,8 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>In breve:</strong> La convivenza tra Staffordshire Bull Terrier e altri animali (cani, gatti, piccoli pet) è possibile e può essere armoniosa con preparazione corretta, inserimenti graduali e gestione attenta delle risorse. Questa guida fornisce protocolli step-by-step per presentazioni sicure, valutazione temperamento pre-inserimento, gestione spazi casa, segnali stress da monitorare, problemi comuni con soluzioni pratiche e timeline realistiche per ogni tipologia animale.
-  </div>
+  <p>Lo Staffordshire Bull Terrier è un terrier, e la reattività verso gli altri cani esiste, soprattutto fra soggetti dello stesso sesso in età adulta. La socializzazione la riduce, non la cancella: un cane che sta bene al parco può rifiutare un coinquilino, perché in casa l'altro non se ne va più. Per questo la convivenza con altri cani, gatti o piccoli animali si prepara prima di cominciare. Si valuta onestamente il proprio cane, si organizza la casa con spazi separati e barriere, si fanno le presentazioni per gradi e si gestiscono ciotole, giochi e cucce, che sono il punto da cui nasce la maggior parte dei conflitti. Con un gatto servono settimane, non giorni. Con conigli, roditori e uccelli la supervisione non si allenta mai, anche quando il cane sembra indifferente.</p>
+
   
   <h2>Valutazione Temperamento: Compatibilità con Altri Animali</h2>
   

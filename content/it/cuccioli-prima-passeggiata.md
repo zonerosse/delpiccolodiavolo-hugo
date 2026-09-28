@@ -2,7 +2,7 @@
 title: "Cuccioli: Prima passeggiata"
 date: 2025-09-17
 titleSeo: "La prima passeggiata del cucciolo: quando e come iniziare"
-lastmod: 2026-09-20
+lastmod: 2026-09-28
 translationKey: "passeggiata"
 articolo: true
 image: "/images/blog/cuccioli-7.webp"
@@ -43,17 +43,14 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>In breve:</strong> La prima passeggiata è un momento importante per il cucciolo di Staffordshire Bull Terrier: serve a conoscere il mondo esterno in modo controllato e piacevole. Prepararla bene significa ridurre paure, prevenire forzature e costruire fiducia.
-  </div>
+  <p>La prima passeggiata di un cucciolo di Staffordshire Bull Terrier non è una questione di distanza ma di durata e di qualità. La regola più usata è quella dei <strong>cinque minuti per ogni mese di età</strong>, una o due volte al giorno: a tre mesi significa quindici minuti, a cinque mesi venticinque. Il limite serve perché le cartilagini di accrescimento si chiudono fra i dodici e i diciotto mesi, e camminate troppo lunghe o discese ripetute lasciano danni che si vedono da adulto. Nei primi tempi conta più quello che il cucciolo incontra che i metri percorsi: dieci minuti in cui annusa, vede persone e sente rumori valgono più di quaranta di marcia al guinzaglio teso.</p>
+
   
   <div class="callout">
   <p class="callout-title">💡 Suggerimento rapido</p>
   <p>Meglio 10 minuti ben fatti che 40 caotici. Obiettivo: qualità dell'esperienza, non distanza percorsa.</p>
   </div>
   
-  <p>La prima passeggiata di un cucciolo non è una questione di distanza ma di durata e di qualità. La regola più usata è quella dei <strong>cinque minuti per ogni mese di età</strong>, una o due volte al giorno: a tre mesi significa quindici minuti, a cinque mesi venticinque. Il limite serve perché le cartilagini di accrescimento si chiudono fra i dodici e i diciotto mesi, e camminate troppo lunghe o discese ripetute lasciano danni che si vedono da adulto. Nei primi tempi conta più quello che il cucciolo incontra che i metri percorsi: dieci minuti in cui annusa, vede persone e sente rumori valgono più di quaranta di marcia al guinzaglio teso.</p>
-
   <h2>Quando iniziare a uscire</h2>
   <p>Confrontati con il <a href="https://wsava.org/global-guidelines/vaccination-guidelines/" title="Linee guida globali WSAVA" target="_blank" rel="noopener" aria-label="Linee guida globali WSAVA (si apre in una nuova scheda)">veterinario</a> sul protocollo vaccinale. In molte aree, dopo la prima o seconda vaccinazione e con buone norme igieniche, sono possibili brevi uscite controllate in luoghi puliti e poco frequentati. Evita aree a rischio come zone con escrementi di altri cani o ristagni d'acqua.</p>
   

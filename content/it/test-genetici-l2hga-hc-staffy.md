@@ -43,14 +43,11 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>In breve:</strong> <strong>L2-HGA</strong> (L-2-idrossiglutarico aciduria) e <strong>HC</strong> (Hereditary Cataract - Cataratta Ereditaria) sono due malattie genetiche specifiche dello Staffordshire Bull Terrier. Entrambe sono ereditarie con modalità autosomica recessiva: un cucciolo può ammalarsi solo se <em>entrambi</em> i genitori sono portatori. Un allevatore serio testa sempre i riproduttori e non accoppia mai due portatori tra loro, garantendo cuccioli sani.
-  </div>
+  <p>Lo Staffordshire Bull Terrier ha tre patologie ereditarie per cui esiste un test: <strong>L2-HGA</strong>, l'aciduria L-2-idrossiglutarica, una malattia neurologica che si manifesta fra i sei mesi e l'anno con tremori, atassia e crisi; <strong>HC</strong>, la cataratta ereditaria giovanile, che può portare a cecità entro i tre anni; e <strong>PHPV</strong>, un'anomalia congenita del vitreo. Le prime due si accertano con un test del DNA su tampone salivare o sangue, la terza con una visita oftalmologica specialistica. Tutte e tre sono a trasmissione autosomica recessiva: servono due copie del gene mutato perché il cane si ammali, quindi due genitori esenti non possono produrre cuccioli malati. È per questo che il test sui riproduttori conta più di qualsiasi garanzia scritta, e che un referto vale solo se riporta il numero di microchip del cane.</p>
+
   
   <h2>Perché i Test Genetici Sono Fondamentali</h2>
   
-  <p>Lo Staffordshire Bull Terrier ha tre patologie ereditarie per cui esiste un test: <strong>L2-HGA</strong>, l'aciduria L-2-idrossiglutarica, una malattia neurologica che si manifesta fra i sei mesi e l'anno con tremori, atassia e crisi; <strong>HC</strong>, la cataratta ereditaria giovanile, che può portare a cecità entro i tre anni; e <strong>PHPV</strong>, un'anomalia congenita del vitreo. Le prime due si accertano con un test del DNA su tampone salivare o sangue, la terza con una visita oftalmologica specialistica. Tutte e tre sono a trasmissione autosomica recessiva: servono due copie del gene mutato perché il cane si ammali, quindi due genitori esenti non possono produrre cuccioli malati. È per questo che il test sui riproduttori conta più di qualsiasi garanzia scritta, e che un referto vale solo se riporta il numero di microchip del cane.</p>
-
   <p>Lo <strong>Staffordshire Bull Terrier</strong> è una razza generalmente sana e robusta, con un'aspettativa di vita di 12-14 anni. Tuttavia, come molte razze pure, presenta alcune predisposizioni genetiche che possono essere completamente controllate attraverso test del DNA e accoppiamenti responsabili.</p>
   
   <p>Le due patologie genetiche più importanti nella razza sono <strong>L2-HGA</strong> e <strong>HC</strong>. Entrambe sono state identificate, mappate geneticamente e oggi esistono test DNA affidabili che permettono di conoscere lo status genetico di ogni cane prima della riproduzione.</p>

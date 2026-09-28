@@ -42,9 +42,8 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>In breve:</strong> Cosa rende "tipico" uno Staffordshire Bull Terrier? Testa, proporzioni, muscolatura, torace e movimento devono essere in armonia con il carattere previsto dallo standard FCI. La tipicità non è estremizzazione di un singolo punto, ma equilibrio armonico dell'insieme.
-  </div>
+  <p>Uno Staffordshire Bull Terrier è tipico quando testa, proporzioni, torace, ossatura, muscolatura e movimento stanno in equilibrio fra loro e con il carattere descritto dallo standard FCI n. 76. La testa è corta, con cranio ampio, stop marcato, muso corto ma non eccessivo, mascelle forti e chiusura a forbice; gli occhi sono rotondi e preferibilmente scuri, le orecchie a rosa o semierette, né grandi né pesanti. Il corpo è raccolto, con torace ampio e profondo, e il movimento deve essere libero e potente, con una spinta evidente dal posteriore. La tipicità però non è l'esagerazione di un singolo punto: una testa spinta o un muso troppo corto penalizzano respirazione e termoregolazione, e in esposizione il giudice valuta l'insieme. È su questo equilibrio che si scelgono i riproduttori, prima ancora che sui titoli.</p>
+
   
   <div class="callout">
   <p class="callout-title">📋 Nota importante</p>

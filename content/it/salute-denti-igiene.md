@@ -1,7 +1,7 @@
 ---
 title: "Igiene Orale e Denti Staffordshire Bull Terrier"
 date: 2024-06-18
-lastmod: 2026-09-20
+lastmod: 2026-09-28
 translationKey: "denti"
 articolo: true
 image: "/images/blog/salute-2.webp"
@@ -42,9 +42,8 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>In breve:</strong> La salute dentale dello Staffordshire Bull Terrier richiede attenzione costante fin da cucciolo. Spazzolatura regolare (3-7 volte a settimana), masticativi sicuri dimensionati per la sua potente mandibola, controlli veterinari periodici e detartrasi quando necessaria prevengono problemi gravi come gengivite, parodontite e perdita precoce dei denti.
-  </div>
+  <p>Nello Staffordshire Bull Terrier la prevenzione dentale comincia da cucciolo: abituarlo a farsi toccare la bocca fra le 8 e le 16 settimane rende l'adulto collaborativo. I 28 denti da latte lasciano il posto ai 42 definitivi verso i sei-sette mesi, e da lì la placca non rimossa diventa tartaro, poi gengivite e parodontite, con dolore e perdita dei denti. L'unica cosa che funziona davvero è la spazzolatura, da tre a sette volte a settimana, con un dentifricio enzimatico veterinario, mai quello per persone. La mandibola potente della razza rende pericolosi i masticativi troppo duri: se premendo con l'unghia l'oggetto non cede, è troppo duro, e la frattura del quarto premolare superiore è la diagnosi più comune. Controlli veterinari periodici e detartrasi quando serve completano la routine.</p>
+
   
   <h2>Perché l'Igiene Orale è Fondamentale</h2>
   

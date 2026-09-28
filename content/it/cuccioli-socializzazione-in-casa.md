@@ -43,10 +43,11 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>La socializzazione del cucciolo inizia in casa: esperienze brevi, positive e guidate creano basi solide per un adulto sereno. Con uno <a aria-label="Allevamento Del Piccolo Diavolo" href="/" title="Staffordshire Bull Terrier">Staffordshire Bull Terrier</a> (Staffy) è fondamentale curare autocontrollo, manipolazioni e gestione delle risorse.</p>
-  
   <p>La socializzazione di un cucciolo di Staffordshire Bull Terrier si gioca quasi tutta in un periodo preciso: il <strong>periodo sensibile</strong>, che va grosso modo dalla terza alla dodicesima settimana di vita, con il momento centrale fra la quarta e l'ottava. Quello che un cucciolo incontra in quelle settimane entra a far parte del suo mondo normale; quello che non incontra resterà per sempre una novità da valutare. Non servono esperienze eccezionali, servono quelle ordinarie: superfici diverse sotto le zampe, rumori domestici come lavatrice e aspirapolvere, persone di età diversa, altri cani equilibrati. La regola è la qualità, non la quantità: un'esposizione breve e positiva vale più di una lunga in cui il cucciolo si spaventa.</p>
 
+  
+  <p>La socializzazione del cucciolo inizia in casa: esperienze brevi, positive e guidate creano basi solide per un adulto sereno. Con uno <a aria-label="Allevamento Del Piccolo Diavolo" href="/" title="Staffordshire Bull Terrier">Staffordshire Bull Terrier</a> (Staffy) è fondamentale curare autocontrollo, manipolazioni e gestione delle risorse.</p>
+  
   <p>Aspettare la fine delle vaccinazioni per cominciare vuol dire perdere buona parte di quelle settimane. La <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="Position statement AVSAB sulla socializzazione del cucciolo (si apre in una nuova scheda)">posizione dell'AVSAB sulla socializzazione</a> è esplicita: le esposizioni controllate vanno iniziate prima che il ciclo vaccinale sia completo, perché il rischio comportamentale di rimandare è più alto del rischio sanitario di uscite ben gestite.</p>
 
   <h2>Ambiente domestico: superfici, rumori, oggetti</h2>

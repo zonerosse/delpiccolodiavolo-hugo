@@ -42,9 +42,8 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>In breve:</strong> lo <a aria-label="Allevamento Del Piccolo Diavolo" href="/">Staffordshire Bull Terrier</a> è un cane affettuoso, coraggioso e profondamente legato alla famiglia, ideale per chi cerca un compagno vitale e presente. Ma non è il cane giusto per tutti: ha un forte bisogno di compagnia, molta energia da scaricare e una spiccata personalità. In questa guida ti diciamo <strong>onestamente</strong> pregi e difetti, così puoi capire se fa per te <em>prima</em> di prendere un cucciolo.
-  </div>
+  <p>Lo Staffordshire Bull Terrier è un cane di 13-17 kg, compatto e muscoloso, che lo standard descrive come affidabile, di indomito coraggio e molto affettuoso, specialmente con i bambini. È adatto a chi vuole un cane presente nella vita di casa, lo porta fuori ogni giorno e ha tempo per educarlo con costanza. Non è adatto a chi sta fuori casa molte ore, perché soffre la solitudine più di altre razze, né a chi cerca un cane distaccato e indipendente. Da giovane ha molta energia, ha una personalità testarda e, con gli altri cani, una reattività che la socializzazione riduce ma non cancella. Con i bambini è paziente, ma nessun cane va lasciato solo con un bambino piccolo, di nessuna razza. Questa guida mette in fila pregi e difetti prima che tu decida, non dopo.</p>
+
   
   <h2>Che cane è, davvero, lo Staffordshire Bull Terrier</h2>
   <p>Lo Staffordshire Bull Terrier (in breve "Staffy") è un molossoide di piccola taglia (13-17 kg) originario dell'Inghilterra, dal fisico compatto e muscoloso ma dal cuore enorme. Lo <a href="https://www.enci.it/media/2347/076.pdf" title="Standard FCI n. 76, PDF ufficiale ENCI" target="_blank" rel="noopener" aria-label="Standard FCI n. 76, PDF ufficiale ENCI (si apre in una nuova scheda)">standard</a> ufficiale lo descrive con parole rare per un cane: <strong>"da sempre affidabile, di indomito coraggio e altamente affettuoso, specialmente con i bambini"</strong>.</p>

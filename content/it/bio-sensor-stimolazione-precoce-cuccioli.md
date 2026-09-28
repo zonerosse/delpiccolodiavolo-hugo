@@ -2,7 +2,7 @@
 title: "Bio Sensor: cosa dice davvero la ricerca"
 date: 2026-09-09
 titleSeo: "Bio Sensor e stimolazione precoce: cosa dice la ricerca"
-lastmod: 2026-09-20
+lastmod: 2026-09-28
 translationKey: "biosensor"
 articolo: true
 image: "/images/blog/neonati-hero.webp"
@@ -34,12 +34,13 @@ custom_content: |
 
   <div class="article-container">
   <article class="article-content">
+  
+  <p>Il <strong>Bio Sensor</strong>, noto anche come ENS o Early Neurological Stimulation, è un programma nato nell'esercito statunitense negli anni Settanta: cinque esercizi di tre-cinque secondi ciascuno, una volta al giorno, dal terzo al sedicesimo giorno di vita del cucciolo. I benefici che gli vengono attribuiti — tolleranza allo stress, cuore più efficiente, maggiore resistenza alle malattie — vengono da quel programma militare e non da studi indipendenti verificati da altri ricercatori. Quello che invece è ben documentato nell'etologia del cane è il periodo sensibile per la socializzazione, fra la terza e la dodicesima settimana, e il peso della qualità delle cure materne. Chi presenta l'ENS come garanzia di equilibrio sta promettendo più di quanto si sappia. Vale per lo Staffordshire Bull Terrier come per qualsiasi altra razza.</p>
+
 
   <p>Nelle presentazioni delle cucciolate capita spesso di leggere "cuccioli trattati con metodo Bio Sensor" o "programma ENS". Suona serio, e in effetti l'origine è seria. Quello che manca, quasi sempre, è la parte in cui si dice quanto sia fondato.</p>
 
   <p>Qui provo a metterla, perché è una domanda che mi hanno fatto e perché la risposta onesta è più utile di una sigla.</p>
-
-  <p>Il <strong>Bio Sensor</strong>, noto anche come ENS o Early Neurological Stimulation, è un programma nato nell'esercito statunitense negli anni Settanta: cinque esercizi di tre-cinque secondi ciascuno, una volta al giorno, dal terzo al sedicesimo giorno di vita del cucciolo. I benefici che gli vengono attribuiti — tolleranza allo stress, cuore più efficiente, maggiore resistenza alle malattie — vengono da quel programma militare e non da studi indipendenti verificati da altri ricercatori. Quello che invece è ben documentato nell'etologia del cane è il periodo sensibile per la socializzazione, fra la terza e la dodicesima settimana, e il peso della qualità delle cure materne. Chi presenta l'ENS come garanzia di equilibrio sta promettendo più di quanto si sappia.</p>
 
   <h2>Cos'è il Bio Sensor</h2>
 

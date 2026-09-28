@@ -43,9 +43,8 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>In breve:</strong> Capire le linee di sangue nello Staffordshire Bull Terrier significa valutare genealogie, tipicità di razza, salute e obiettivi specifici (compagnia, show, sport). Questa guida ti aiuta a scegliere con consapevolezza il cucciolo più adatto alle tue esigenze.
-  </div>
+  <p>Una linea di sangue dello Staffordshire Bull Terrier è il risultato di generazioni di accoppiamenti scelti per fissare caratteristiche precise di struttura, carattere e salute. Allevatori diversi mettono l'accento su cose diverse: le linee britanniche privilegiano in genere equilibrio, movimento fluido e temperamento stabile, quelle irlandesi hanno spesso spinto su massa muscolare e ossatura. Per orientarsi conviene partire dal proprio obiettivo, famiglia, esposizione o sport, e poi leggere il pedigree cercando cani testati e documentati, non soltanto nomi famosi. La linea non viene mai prima della salute: un pedigree pieno di campioni non compensa due genitori senza test per L2HGA e HC. L'allevamento Del Piccolo Diavolo, a Ostellato in provincia di Ferrara, lavora sulla linea inglese Elitebull e su quella irlandese Lackyle.</p>
+
   
   <div class="callout">
   <p class="callout-title">💡 Concetto chiave</p>

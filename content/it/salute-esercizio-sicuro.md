@@ -1,7 +1,7 @@
 ---
 title: "Esercizio Sicuro per Staffordshire Bull Terrier"
 date: 2024-06-20
-lastmod: 2026-09-20
+lastmod: 2026-09-28
 translationKey: "esercizio"
 articolo: true
 image: "/images/blog/esercizio-hero.webp"
@@ -42,9 +42,8 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>In breve:</strong> Lo Staffordshire Bull Terrier è una razza atletica e muscolosa che necessita di esercizio quotidiano per mantenersi in salute fisica e mentale. Tuttavia, l'attività fisica deve essere calibrata all'età: i cuccioli richiedono cautela per proteggere articolazioni in sviluppo, mentre negli adulti bisogna prestare attenzione al caldo estivo. Questa guida ti fornisce indicazioni pratiche per un'attività fisica sicura e appagante.
-  </div>
+  <p>Lo Staffordshire Bull Terrier è un cane atletico e muscoloso che ha bisogno di esercizio ogni giorno, ma la quantità giusta cambia con l'età. Nel cucciolo la regola è cinque minuti di attività strutturata per ogni mese di vita, al massimo due volte al giorno: a tre mesi quindici minuti per volta, a sei mesi trenta. Il limite serve perché le cartilagini di accrescimento si chiudono fra i 12 e i 18 mesi, e salti ripetuti, scale e corse forzate prima di allora caricano anche e gomiti. Nell'adulto il rischio principale è il caldo: il muso corto rende l'ansimazione meno efficiente, e l'ansimazione è l'unico sistema di raffreddamento del cane. D'estate si esce nelle ore fresche, con acqua sempre a disposizione, e si impara a riconoscere i segnali del colpo di calore prima che diventi un'emergenza.</p>
+
   
   <h2>Perché l'Esercizio è Fondamentale per lo Staffy</h2>
   

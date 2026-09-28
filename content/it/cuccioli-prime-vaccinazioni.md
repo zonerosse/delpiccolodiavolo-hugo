@@ -2,7 +2,7 @@
 title: "Cuccioli: Prime Vaccinazioni"
 date: 2025-06-10
 titleSeo: "Prime vaccinazioni del cucciolo: calendario e richiami"
-lastmod: 2026-09-27
+lastmod: 2026-09-28
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/cuccioli-2.webp"
@@ -43,10 +43,11 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
+  <p>Il ciclo vaccinale di un cucciolo di Staffordshire Bull Terrier comincia fra le sei e le otto settimane con la prima polivalente, prosegue con richiami ogni tre-quattro settimane e si completa intorno alle sedici settimane; l'antirabbica si somministra non prima delle dodici settimane ed è obbligatoria per portare il cane all'estero, dove diventa valida solo ventun giorni dopo. Il motivo dei richiami ravvicinati è che gli anticorpi materni proteggono il cucciolo nelle prime settimane ma interferiscono con il vaccino, e il momento in cui si esauriscono varia da soggetto a soggetto. Fino al completamento del ciclo si evitano le aree ad alto rischio, <strong>ma non la socializzazione</strong>: si continua in ambienti puliti e con cani sani e vaccinati.</p>
+
+  
   <p><a href="https://wsava.org/global-guidelines/vaccination-guidelines/" title="Linee guida WSAVA sulla vaccinazione di cani e gatti, edizione 2024" target="_blank" rel="noopener" aria-label="Linee guida WSAVA sulla vaccinazione di cani e gatti, edizione 2024 (si apre in una nuova scheda)">Le prime vaccinazioni</a> sono una tappa fondamentale per la salute del cucciolo di <a aria-label="Allevamento Del Piccolo Diavolo" href="/" title="Staffordshire Bull Terrier">Staffordshire Bull Terrier</a>. Un protocollo corretto, concordato con il veterinario, protegge da malattie potenzialmente gravi e si integra con le <a href="/cuccioli-sverminazione-esami-feci/" title="Sverminazione ed esami delle feci">sverminazioni</a> e i richiami successivi.</p>
   
-  <p>Il ciclo vaccinale di un cucciolo comincia fra le sei e le otto settimane con la prima polivalente, prosegue con richiami ogni tre-quattro settimane e si completa intorno alle sedici settimane; l'antirabbica si somministra non prima delle dodici settimane ed è obbligatoria per portare il cane all'estero, dove diventa valida solo ventun giorni dopo. Il motivo dei richiami ravvicinati è che gli anticorpi materni proteggono il cucciolo nelle prime settimane ma interferiscono con il vaccino, e il momento in cui si esauriscono varia da soggetto a soggetto. Fino al completamento del ciclo si evitano le aree ad alto rischio, <strong>ma non la socializzazione</strong>: si continua in ambienti puliti e con cani sani e vaccinati.</p>
-
   <h2>Calendario base dei vaccini</h2>
   
   <ul>

@@ -1,7 +1,7 @@
 ---
 title: "Parassiti: Prevenzione e Controllo Staffordshire Bull Terrier"
 date: 2025-01-20
-lastmod: 2026-09-27
+lastmod: 2026-09-28
 titleSeo: "Parassiti nello Staffordshire Bull Terrier: prevenzione"
 translationKey: "parassiti"
 articolo: true
@@ -43,9 +43,8 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>In breve:</strong> Come proteggere i cuccioli di Staffordshire Bull Terrier da pulci, zecche e altri parassiti esterni con protocolli stagionali, prodotti sicuri per l'età, controllo dell'ambiente domestico e monitoraggio costante. La prevenzione è fondamentale per evitare infestazioni, malattie trasmesse e fastidi al cucciolo.
-  </div>
+  <p>I cuccioli di Staffordshire Bull Terrier vanno protetti dai parassiti esterni prima di vederli, non dopo: quando si notano le pulci l'infestazione è già in corso, e il 95% di essa sta nell'ambiente sotto forma di uova, larve e pupe. Le pulci causano prurito, dermatite allergica e anemia nei cuccioli più piccoli, e trasmettono la tenia. Le zecche trasmettono babesiosi, ehrlichiosi, anaplasmosi e malattia di Lyme, e il rischio cresce con il tempo in cui restano attaccate: toglierle entro 24-48 ore lo riduce molto. Pappataci e zanzare portano invece leishmaniosi e filariosi cardiopolmonare. La protezione comincia quando il veterinario la ritiene adatta all'età e al peso del cucciolo, e prosegue con un calendario stagionale che comprende anche la pulizia della casa.</p>
+
   
   <h2>Perché la Prevenzione è Fondamentale nei Cuccioli</h2>
   

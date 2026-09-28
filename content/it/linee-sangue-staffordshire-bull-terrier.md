@@ -43,9 +43,8 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>In breve:</strong> Lo <a aria-label="Allevamento Del Piccolo Diavolo" href="/">Staffordshire Bull Terrier</a> possiede una ricca storia genealogica che risale al <a href="https://www.thekennelclub.org.uk/breed-standards/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="Kennel Club britannico, standard di razza (si apre in una nuova scheda)">riconoscimento ufficiale della razza</a> da parte del Kennel Club britannico, nel 1935. Originariamente esistevano 6 linee di sangue fondatrici (Linea M, R, J, L, B, C), di cui oggi sopravvivono principalmente le linee M (Brindle Mick) e R (Ribchester Bob), che costituiscono circa il 70% del patrimonio genetico della razza moderna.
-  </div>
+  <p>Le linee di sangue dello Staffordshire Bull Terrier si contano dal 1935, quando il Kennel Club britannico riconobbe la razza: prima, i Bull and Terrier dello Staffordshire erano cani da lavoro senza genealogie tracciabili. Nel 1943 lo storico H. N. Beilby pubblicò il primo studio completo sulle linee genetiche, e nel giro di pochi anni ne furono riconosciute sei, J, M, L, B, R e C, tracciate come d'uso attraverso la discendenza maschile. Il primo campione maschio della razza fu Gentleman Jim, allevato da Jack Dunn. Oggi sopravvivono soprattutto la linea M di Brindle Mick e la linea R di Ribchester Bob, che insieme costituiscono circa il 70% del patrimonio genetico della razza moderna. Sapere a quale linea appartiene un cane serve a leggere il pedigree, non a giudicare il cane: quello lo dicono i test genetici, la struttura e il carattere.</p>
+
   
   <h2>Le Origini delle Linee di Sangue</h2>
   

@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier per Anziani: Guida Completa"
 date: 2024-05-28
-lastmod: 2026-09-20
+lastmod: 2026-09-28
 translationKey: "anziani"
 articolo: true
 image: "/images/blog/famiglia-2.webp"
@@ -42,9 +42,8 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>In breve:</strong> Lo Staffordshire Bull Terrier può essere un compagno eccellente per persone anziane attive e ben supportate, ma richiede valutazione realistica delle capacità fisiche, supporto familiare affidabile e scelta del cane giusto. L'ideale è un adulto 3-5 anni, NO cuccioli.
-  </div>
+  <p>Lo Staffordshire Bull Terrier può essere un buon compagno per una persona anziana, a condizioni precise. Pesa 12-17 kg e vive 12-14 anni, ma da giovane ha molta energia e una forza che può far perdere l'equilibrio a chi tiene il guinzaglio. Per questo la scelta giusta quasi sempre non è un cucciolo, che fra gli 8 e i 18 mesi richiede supervisione continua ed educazione quotidiana, ma un adulto fra i tre e i cinque anni, con il carattere già formato e un'energia che si accontenta di una o due passeggiate al giorno. Lo sconsigliamo a chi ha una mobilità molto ridotta, a chi vive senza familiari che possano subentrare quando serve e a chi ha problemi cognitivi. Conta anche il costo: cibo, veterinario ed eventuale pensione durano per tutta la vita del cane.</p>
+
   
   <h2>Staffy per Anziani: La Verità Senza Filtri</h2>
   

@@ -41,11 +41,8 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>In breve:</strong> No, lo <a aria-label="Allevamento Del Piccolo Diavolo" href="/" title="Allevamento Staffordshire Bull Terrier">Staffordshire Bull Terrier</a> non è una razza pericolosa. Lo dimostra lo studio scientifico del <strong>Royal Veterinary College</strong> (2020) che ha analizzato oltre 22.000 cani: non esiste differenza statisticamente significativa nel rischio di aggressione tra Staffy e altre razze. In Italia, dal 2009, non esiste più una "lista nera" delle razze pericolose.
-  </div>
-
   <p>In Italia lo Staffordshire Bull Terrier non rientra in nessuna lista di razze pericolose: l'elenco delle razze a rischio &egrave; stato abolito nel 2009 con l'ordinanza del Ministero della Salute, che ha spostato la responsabilit&agrave; dalla razza al proprietario. Da allora nessuna razza &egrave; vietata o soggetta a obblighi particolari sul territorio nazionale, e le regole valgono per tutti i cani: guinzaglio nei luoghi pubblici, museruola al bisogno, e responsabilit&agrave; civile e penale del detentore. Restano alcune limitazioni locali, decise da singoli comuni o regolamenti condominiali, e regole diverse in altri paesi europei, che vanno verificate prima di viaggiare. Uno studio del Royal Veterinary College pubblicato nel 2020 su oltre 22.000 cani non ha trovato differenze significative di aggressivit&agrave; attribuibili alla razza.</p>
+
   
   <h2>Il Pregiudizio sullo Staffordshire Bull Terrier: Da Dove Nasce?</h2>
   

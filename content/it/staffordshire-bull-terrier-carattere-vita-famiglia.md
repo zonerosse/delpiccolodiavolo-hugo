@@ -42,10 +42,9 @@ custom_content: |
 
   <div class="article-container">
   <article class="article-content">
+  
+  <p>Lo Staffordshire Bull Terrier ha un bisogno fisico di contatto umano e, insieme, una personalità fortissima: è determinato, testardo e pieno di energia. Lo racconta Paolo Boldrini, che è nella razza dal 2005, alleva dal 2013 con l'allevamento Del Piccolo Diavolo, a Ostellato in provincia di Ferrara, e ha cresciuto e affidato oltre cento Staffy. Con i bambini la razza ha una pazienza reale, quella che in Inghilterra le ha dato il soprannome di «nanny dog», ma nessun cane va lasciato solo con un bambino piccolo. Con gli altri cani la reattività esiste, soprattutto fra adulti dello stesso sesso, e la socializzazione la riduce senza cancellarla. In appartamento vive bene, se il proprietario è presente ed esce con lui ogni giorno; lasciato solo dieci ore al giorno, no. Non è il cane per chi ne cerca uno facile.</p>
 
-  <div class="lead">
-  <strong>In breve:</strong> Lo <a aria-label="Allevamento Del Piccolo Diavolo" href="/" title="Allevamento Staffordshire Bull Terrier">Staffordshire Bull Terrier</a> è il cane più affettuoso che esista — ma anche uno con una personalità fortissima. Questa guida è scritta da chi è nella razza dal 2005, alleva dal 2013 e ha affidato oltre cento Staffordshire Bull Terrier. Non troverai descrizioni generiche: troverai la verità.
-  </div>
 
   <h2>Il carattere dello Staffordshire Bull Terrier: la verità</h2>
 
