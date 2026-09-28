@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier: Tipicità di Razza e Morfologia"
 date: 2025-02-12
-lastmod: 2026-09-20
+lastmod: 2026-09-28
 translationKey: "standard"
 articolo: true
 image: "/images/blog/standard-1.webp"
@@ -136,7 +136,7 @@ custom_content: |
   
   <ul>
   <li><strong>Coerenza:</strong> accoppiare soggetti che si compensano mantenendo la tipicità globale della razza</li>
-  <li><strong>Salute prioritaria:</strong> screening genetico (L2-HGA, HC, PHPV) e selezione per longevità e benessere</li>
+  <li><strong>Salute prioritaria:</strong> screening genetico (L2-HGA, HC, DM-SOD1) e selezione per longevità e benessere</li>
   <li><strong>Temperamento stabile:</strong> priorità assoluta a equilibrio psicologico e capacità di recupero dallo stress</li>
   <li><strong>Funzionalità:</strong> il cane deve poter respirare, muoversi e vivere senza problemi strutturali</li>
   </ul>
@@ -184,7 +184,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Quali test genetici sono obbligatori per un allevamento serio?</h3>
-  <div class="faq-answer">Obbligatori per legge non ce ne sono, e vale la pena dirlo chiaramente: chi non li fa non sta violando nessuna norma. Quello che esiste &egrave; uno standard di serietà condiviso, che per questa razza comprende <strong>L2-HGA</strong> e <strong>cataratta ereditaria</strong> con test del DNA, e <strong>PHPV</strong> con visita oftalmologica specialistica. Il punto non &egrave; la presenza dei test ma la loro verificabilit&agrave;: un referto conta solo se riporta il numero di microchip del cane, il nome del laboratorio e la data. Senza il microchip non &egrave; collegabile a nessun animale in particolare. Su questo sito i referti dei riproduttori sono pubblicati e scaricabili, proprio perch&eacute; chiunque possa controllarli senza chiedere niente.</div>
+  <div class="faq-answer">Obbligatori per legge non ce ne sono, e vale la pena dirlo chiaramente: chi non li fa non sta violando nessuna norma. Quello che esiste &egrave; uno standard di serietà condiviso, che per questa razza comprende <strong>L2-HGA</strong>, <strong>cataratta ereditaria</strong> e <strong>mielopatia degenerativa</strong>, tutte con test del DNA. Il punto non &egrave; la presenza dei test ma la loro verificabilit&agrave;: un referto conta solo se riporta il numero di microchip del cane, il nome del laboratorio e la data. Senza il microchip non &egrave; collegabile a nessun animale in particolare. Su questo sito i referti dei riproduttori sono pubblicati e scaricabili, proprio perch&eacute; chiunque possa controllarli senza chiedere niente.</div>
   </div>
   
   </section>

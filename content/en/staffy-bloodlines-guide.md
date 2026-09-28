@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Bloodlines Guide"
 date: 2025-11-08
-lastmod: 2026-09-20
+lastmod: 2026-09-28
 translationKey: "linee-sangue"
 articolo: true
 image: "/images/blog/standard-1.webp"
@@ -61,7 +61,7 @@ custom_content: |
   <h3>The first champion: Gentleman Jim</h3>
   <p>One name stands above the rest. <strong>Gentleman Jim</strong>, born on 25 May 1935 and bred by Jack Dunn, was a son of Brindle Mick, the founder of the M-Line. He became the breed's <strong>first male champion</strong> in 1939, and practically every modern Staffordshire Bull Terrier carries him somewhere in its pedigree — often several times over.</p>
 
-  <p>That ubiquity has a cost. A single dog appearing repeatedly in almost every pedigree narrows the gene pool of the whole breed, which is one reason we test every breeding dog for L2HGA, HC and PHPV rather than relying on ancestry alone.</p>
+  <p>That ubiquity has a cost. A single dog appearing repeatedly in almost every pedigree narrows the gene pool of the whole breed, which is one reason we test every breeding dog for L2HGA and HC, and our breeding females also for DM-SOD1, rather than relying on ancestry alone.</p>
 
   <h3>M-Line, the widespread one</h3>
   <p>The M-Line, from Brindle Mick, is today the most widespread, accounting for more than half of the breed's genetic heritage. Its best-known descendants include Gentleman Jim himself, <strong>Cross Guns Johnson</strong> — his blood brother, Best of Breed at the first Crufts the breed attended — and <strong>Fearless Red of Bandits</strong> (1944), a son of Gentleman Jim often described as the essence of the true Stafford. The line is associated with imposing heads, substantial frames and heavy muscling.</p>

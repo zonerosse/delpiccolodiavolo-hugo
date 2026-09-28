@@ -1,10 +1,10 @@
 ---
 title: "Male Staffordshire Bull Terriers"
 titleSeo: "Male Staffordshire Bull Terriers: pedigree and health tests"
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 translationKey: "maschi"
-description: "Our male Staffordshire Bull Terriers: Lothar (Slovenian and Italian Junior Champion), Braveheart and Papillon. L2HGA and HC certified genetic testing."
+description: "Our male Staffordshire Bull Terriers: Lothar (Slovenian and Italian Junior Champion), Braveheart and Papillon. L2HGA and HC (HSF4) certified genetic testing."
 slug: "males-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">
@@ -16,7 +16,7 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Selected Stud Dogs</span>
   <h1 class="hero-title">Male <br><em>Staffordshire</em> <br>Bull Terriers</h1>
-  <p class="hero-subtitle">DNA tested, L2HGA and HC clear</p>
+  <p class="hero-subtitle">DNA tested, L2HGA and HC (HSF4) clear</p>
   <p class="hero-description">Our stud dogs are selected for health, character and breed type. All genetically tested and conforming to breed standard.</p>
   <div class="hero-actions">
   <a href="https://wa.me/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20the%20males" class="btn btn-primary" title="Contact us on WhatsApp for male info">Contact Us</a>
@@ -56,7 +56,6 @@ custom_content: |
   <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Our males are tested for:</p>
   <p>✓ <strong>L2HGA</strong> — L-2-Hydroxyglutaric Aciduria<br>
   ✓ <strong>HC</strong> — Hereditary Cataracts<br>
-  ✓ <strong>PHPV</strong> — Eye anomaly<br>
   ✓ <strong>Dentition</strong> — Complete scissor bite</p>
   <p style="margin-top:1.2rem">Only <strong>clear</strong> or <strong>unaffected</strong> dogs are used, ensuring healthy puppies and robust offspring.</p>
   </div>
@@ -82,7 +81,6 @@ custom_content: |
   <div class="male-info">
   <p><strong>Genetic tests:</strong> L2HGA clear · HC clear · HSF4 · OCD clear</p>
   <p><strong>Hips and elbows:</strong> HD B · ED 0</p>
-  <p><strong>PHPV:</strong> unaffected · <strong>DNA</strong> stored</p>
   <p><strong>Dentition:</strong> complete, scissor bite</p>
   <p><strong>Sire:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares show results, TheReds Stafford" style="color:#8b5a2b;font-weight:700;text-decoration:underline;text-underline-offset:3px" aria-label="Bullbrothers Hott as Hell (HEAT) - palmares show results, TheReds Stafford (opens in a new tab)">Bullbrothers Hott as Hell &#8599;</a> «HEAT» &mdash; Multi International Champion, Crufts qualified, TheReds Stafford kennel</p>
   <p><strong>Dam:</strong> Skilful-dogs Nora</p>
@@ -103,8 +101,7 @@ custom_content: |
   <img src="/images/maschio-braveheart.webp" alt="Braveheart del Piccolo Diavolo — Staffordshire Bull Terrier" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
-  <p><strong>Genetic Tests:</strong> L2HGA & HC clear by DNA</p>
-  <p><strong>PHPV:</strong> Unaffected</p>
+  <p><strong>Genetic Tests:</strong> L2HGA & HC (HSF4) clear by DNA</p>
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> Jackie Kennedy Great'n Glory</p>
   <p><strong>Dam:</strong> Alport The Sandman</p>
@@ -123,8 +120,7 @@ custom_content: |
   <img src="/images/maschio-papillon.webp" alt="Papillon del Piccolo Diavolo — Staffordshire Bull Terrier" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
-  <p><strong>Genetic Tests:</strong> L2HGA & HC clear by DNA</p>
-  <p><strong>PHPV:</strong> Unaffected</p>
+  <p><strong>Genetic Tests:</strong> L2HGA & HC (HSF4) clear by DNA</p>
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> Jackie Kennedy Great'n Glory</p>
   <p><strong>Dam:</strong> Alport The Sandman</p>

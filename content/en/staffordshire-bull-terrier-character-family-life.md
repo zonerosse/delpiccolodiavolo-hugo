@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier: Character, Family Life and What to Expect"
 date: 2026-04-28
-lastmod: 2026-09-20
+lastmod: 2026-09-28
 titleSeo: "Staffordshire Bull Terrier: character and family life"
 translationKey: "carattere-famiglia"
 articolo: true
@@ -159,7 +159,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3 class="faq-question">How long does a Staffordshire Bull Terrier live?</h3>
-  <div class="faq-answer">Twelve to fourteen years, which is excellent for a medium-sized dog and among the best in the molosser group. The breed is robust, with neither the respiratory problems of extreme brachycephalics nor the joint conditions typical of large breeds. The three known hereditary diseases &mdash; L2-HGA, hereditary cataract and PHPV &mdash; are recessive and are prevented by testing the parents. After genetics, the factor that most affects lifespan is <strong>weight</strong>: an overweight Staffy ages earlier, with joints that wear out and less tolerance to heat. Twelve years is also the commitment you take on when you choose a puppy.</div>
+  <div class="faq-answer">Twelve to fourteen years, which is excellent for a medium-sized dog and among the best in the molosser group. The breed is robust, with neither the respiratory problems of extreme brachycephalics nor the joint conditions typical of large breeds. The three hereditary diseases with a DNA test &mdash; L2-HGA, hereditary cataract and degenerative myelopathy &mdash; are recessive and are prevented by testing the parents. After genetics, the factor that most affects lifespan is <strong>weight</strong>: an overweight Staffy ages earlier, with joints that wear out and less tolerance to heat. Twelve years is also the commitment you take on when you choose a puppy.</div>
   </div>
 
   <div class="faq-item">

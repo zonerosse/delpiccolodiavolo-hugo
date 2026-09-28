@@ -1,10 +1,10 @@
 ---
 title: "Maschi Staffordshire Bull Terrier"
 titleSeo: "Maschi Staffordshire Bull Terrier: pedigree e test genetici"
-lastmod: 2026-09-20
+lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 translationKey: "maschi"
-description: "I nostri maschi Staffordshire Bull Terrier: Lothar (Campione Sloveno e Giovane Campione Italiano), Braveheart e Papillon. Test genetici L2HGA e HC certificati."
+description: "I nostri maschi Staffordshire Bull Terrier: Lothar (Campione Sloveno e Giovane Campione Italiano), Braveheart e Papillon. Test genetici L2HGA e HC (HSF4) certificati."
 slug: "maschi-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">
@@ -16,7 +16,7 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Riproduttori Selezionati</span>
   <h1 class="hero-title">Maschi <br><em>Staffordshire</em> <br>Bull Terrier</h1>
-  <p class="hero-subtitle">DNA tested, esenti da L2HGA e HC</p>
+  <p class="hero-subtitle">DNA tested, esenti da L2HGA e HC (HSF4)</p>
   <p class="hero-description">I nostri maschi riproduttori sono selezionati per salute, carattere e tipicità. Tutti testati geneticamente e conformi allo standard di razza.</p>
   <div class="hero-actions">
   <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sui%20maschi" class="btn btn-primary" title="Contattaci su WhatsApp per info maschi">Contattaci</a>
@@ -58,7 +58,6 @@ custom_content: |
   <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">I nostri maschi sono testati per:</p>
   <p>✓ <strong>L2HGA</strong> — Aciduria L-2-Idrossiglutarica<br>
   ✓ <strong>HC</strong> — Cataratta Ereditaria<br>
-  ✓ <strong>PHPV</strong> — Anomalia oculare<br>
   ✓ <strong>Dentatura</strong> — Scissor bite completo</p>
   <p style="margin-top:1.2rem">Solo soggetti <strong>clear</strong> o <strong>unaffected</strong> vengono utilizzati, garantendo cuccioli sani e una discendenza robusta.</p>
   </div>
@@ -84,7 +83,6 @@ custom_content: |
   <div class="male-info">
   <p><strong>Test genetici:</strong> L2HGA clear · HC clear · HSF4 · OCD clear</p>
   <p><strong>Displasia:</strong> anche HD B · gomiti ED 0</p>
-  <p><strong>PHPV:</strong> unaffected · <strong>DNA</strong> depositato</p>
   <p><strong>Dentatura:</strong> completa, chiusura a forbice</p>
   <p><strong>Padre:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford" style="color:#8b5a2b;font-weight:700;text-decoration:underline;text-underline-offset:3px" aria-label="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford (si apre in una nuova scheda)">Bullbrothers Hott as Hell &#8599;</a> «HEAT» &mdash; Multi Campione Internazionale, qualificato Crufts, allevamento TheReds Stafford</p>
   <p><strong>Madre:</strong> Skilful-dogs Nora</p>
@@ -105,8 +103,7 @@ custom_content: |
   <img src="/images/maschio-braveheart.webp" alt="Braveheart del Piccolo Diavolo — Staffordshire Bull Terrier" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
-  <p><strong>Test Genetici:</strong> L2HGA &amp; HC clear by DNA</p>
-  <p><strong>PHPV:</strong> Unaffected</p>
+  <p><strong>Test Genetici:</strong> L2HGA &amp; HC (HSF4) clear by DNA</p>
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
   <p><strong>Padre:</strong> Jackie Kennedy Great'n Glory</p>
   <p><strong>Madre:</strong> Alport The Sandman</p>
@@ -125,8 +122,7 @@ custom_content: |
   <img src="/images/maschio-papillon.webp" alt="Papillon del Piccolo Diavolo — Staffordshire Bull Terrier" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
-  <p><strong>Test Genetici:</strong> L2HGA &amp; HC clear by DNA</p>
-  <p><strong>PHPV:</strong> Unaffected</p>
+  <p><strong>Test Genetici:</strong> L2HGA &amp; HC (HSF4) clear by DNA</p>
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
   <p><strong>Padre:</strong> Jackie Kennedy Great'n Glory</p>
   <p><strong>Madre:</strong> Alport The Sandman</p>

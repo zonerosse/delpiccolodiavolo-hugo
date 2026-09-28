@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Kennel"
-lastmod: 2026-09-20
+lastmod: 2026-09-28
 translationKey: "home"
 description: "Ethical Staffordshire Bull Terrier kennel since 2013. ENCI pedigree, genetic test reports and breeding stock microchips published online and verifiable."
 correlati:
@@ -41,14 +41,16 @@ custom_content: |
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
   <span>L2HGA Clear</span>
-  <span>HC Clear</span>
+  <span>HC (HSF4) Clear</span>
+  <span>DM-SOD1 Clear</span>
   <span>Italian Champions</span>
   <span>ENCI · FCI Pedigree</span>
   <span>Ostellato FE</span>
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
   <span>L2HGA Clear</span>
-  <span>HC Clear</span>
+  <span>HC (HSF4) Clear</span>
+  <span>DM-SOD1 Clear</span>
   <span>Italian Champions</span>
   <span>ENCI · FCI Pedigree</span>
   <span>Ostellato FE</span>
@@ -121,7 +123,7 @@ custom_content: |
   <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center;display:flex;flex-direction:column;height:100%">
   <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Cattleya Del Piccolo Diavolo at Valconcaclan</h3>
   <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Junior Champion and Champion of San Marino</p>
-  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Junior Champion of San Marino in 2023, Champion of San Marino in 2024. Born and raised by us, now owned by Ricarda Mazzola Wagner (Valconcaclan). L2HGA and HC clear, PHPV unaffected, complete scissor bite.</p>
+  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Junior Champion of San Marino in 2023, Champion of San Marino in 2024. Born and raised by us, now owned by Ricarda Mazzola Wagner (Valconcaclan). L2HGA and HC (HSF4) clear, complete scissor bite.</p>
   </div>
 
   
@@ -198,7 +200,7 @@ custom_content: |
   <span>What genetic tests do you perform?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">All breeding dogs at Del Piccolo Diavolo are tested for <strong>L2-HGA</strong>, L-2-hydroxyglutaric aciduria, a neurological disease; <strong>HC</strong>, juvenile hereditary cataract; and <strong>PHPV</strong>, a congenital eye anomaly. The first two are established by DNA test, the third by a specialist ophthalmological examination. All three are recessive: two clear parents cannot produce affected puppies, and carriers are not bred here. The laboratory reports are published on this site and can be downloaded, with the <strong>dog's microchip number in plain sight</strong> &mdash; that number is what makes a report verifiable, because without it it could refer to any dog at all.</div>
+  <div class="faq-answer">All breeding dogs at Del Piccolo Diavolo are tested for <strong>L2-HGA</strong>, L-2-hydroxyglutaric aciduria, a neurological disease, and for <strong>HC</strong>, juvenile hereditary cataract (HSF4 gene). Our active breeding females are also tested for <strong>degenerative myelopathy</strong> (SOD1 gene), a disease of the spinal cord that appears after eight years of age. All are DNA tests, and all three diseases are recessive: two clear parents cannot produce affected puppies, and L2-HGA and HC carriers are not bred here. The laboratory reports are published on this site and can be downloaded, with the <strong>dog's microchip number in plain sight</strong> &mdash; that number is what makes a report verifiable, because without it it could refer to any dog at all.</div>
   </div>
   
   <div class="faq-item active">

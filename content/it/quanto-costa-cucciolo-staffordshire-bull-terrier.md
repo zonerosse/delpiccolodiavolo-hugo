@@ -1,7 +1,7 @@
 ---
 title: "Quanto Costa un Cucciolo di Staffordshire Bull Terrier nel 2026"
 date: 2026-01-25
-lastmod: 2026-09-27
+lastmod: 2026-09-28
 articolo: true
 translationKey: "quanto-costa"
 image: "/images/blog/scontrino-farmaci-cucciolata.webp"
@@ -33,7 +33,7 @@ slug: "quanto-costa-cucciolo-staffordshire-bull-terrier"
 <span>Quanto costa un cucciolo</span>
 </nav>
 
-Il prezzo di un cucciolo di Staffordshire Bull Terrier con pedigree ENCI non è un listino: è la somma di costi che esistono prima che il cucciolo nasca. I test genetici dei due riproduttori per L2HGA, HC e PHPV si pagano una volta per cane e valgono per tutta la carriera riproduttiva. L'iscrizione della cucciolata al libro genealogico ENCI ha tariffe pubbliche, uguali per tutti. A queste si aggiungono le visite veterinarie durante la gravidanza, l'ecografia al venticinquesimo giorno, la radiografia prima del parto, le prime vaccinazioni, le sverminazioni e il microchip. All'allevamento Del Piccolo Diavolo, a Ostellato, una cucciolata di sei cuccioli costa circa 2.000 euro prima di vaccinazioni e microchip, e oltre 4.000 con uno stallone all'estero e un cesareo. Un prezzo molto basso quasi sempre significa che manca qualcosa: i test, il pedigree, o cuccioli separati dalla madre prima dei 60 giorni previsti dalla legge italiana.
+Il prezzo di un cucciolo di Staffordshire Bull Terrier con pedigree ENCI non è un listino: è la somma di costi che esistono prima che il cucciolo nasca. I test genetici dei due riproduttori per L2HGA e HC si pagano una volta per cane e valgono per tutta la carriera riproduttiva. L'iscrizione della cucciolata al libro genealogico ENCI ha tariffe pubbliche, uguali per tutti. A queste si aggiungono le visite veterinarie durante la gravidanza, l'ecografia al venticinquesimo giorno, la radiografia prima del parto, le prime vaccinazioni, le sverminazioni e il microchip. All'allevamento Del Piccolo Diavolo, a Ostellato, una cucciolata di sei cuccioli costa circa 2.000 euro prima di vaccinazioni e microchip, e oltre 4.000 con uno stallone all'estero e un cesareo. Un prezzo molto basso quasi sempre significa che manca qualcosa: i test, il pedigree, o cuccioli separati dalla madre prima dei 60 giorni previsti dalla legge italiana.
 
 La risposta breve: **non esiste un listino, ed è giusto così**. Quello che puoi valutare è cosa c’è dentro il prezzo, quando acquisti da un allevatore serio con pedigree ENCI, test genetici e tutte le garanzie.
 

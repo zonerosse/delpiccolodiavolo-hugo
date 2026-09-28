@@ -1,10 +1,10 @@
 ---
 title: "Staffordshire Bull Terrier Rüden"
 titleSeo: "Staffordshire Bull Terrier Rüden: Ahnentafel und Gentests"
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 translationKey: "maschi"
-description: "Unsere Staffordshire Bull Terrier Rüden: Lothar (Slowenischer und Italienischer Jugendchampion), Braveheart und Papillon. L2HGA und HC zertifizierte Gentests."
+description: "Unsere Staffordshire Bull Terrier Rüden: Lothar (Slowenischer und Italienischer Jugendchampion), Braveheart und Papillon. L2HGA und HC (HSF4) zertifizierte Gentests."
 slug: "rueden-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">
@@ -16,7 +16,7 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Ausgewählte Deckrüden</span>
   <h1 class="hero-title">Rüden <br><em>Staffordshire</em> <br>Bull Terrier</h1>
-  <p class="hero-subtitle">DNA getestet, frei von L2HGA und HC</p>
+  <p class="hero-subtitle">DNA getestet, frei von L2HGA und HC (HSF4)</p>
   <p class="hero-description">Unsere Deckrüden werden nach Gesundheit, Charakter und Rassetypizität ausgewählt. Alle genetisch getestet und rassestandard-konform.</p>
   <div class="hero-actions">
   <a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20möchte%20Infos%20zu%20den%20Rüden" class="btn btn-primary" title="Kontaktieren Sie uns auf WhatsApp">Kontakt</a>
@@ -44,7 +44,6 @@ custom_content: |
   <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Unsere Rüden sind getestet auf:</p>
   <p>✓ <strong>L2HGA</strong> — L-2-Hydroxyglutarazidurie<br>
   ✓ <strong>HC</strong> — Hereditäre Katarakt<br>
-  ✓ <strong>PHPV</strong> — Augenanomalie<br>
   ✓ <strong>Gebiss</strong> — Vollständiges Scherengebiss</p>
   <p style="margin-top:1.2rem">Nur <strong>freie</strong> oder <strong>nicht betroffene</strong> Hunde werden eingesetzt, was gesunde Welpen und robuste Nachkommen garantiert.</p>
   </div>
@@ -70,7 +69,6 @@ custom_content: |
   <div class="male-info">
   <p><strong>Gentests:</strong> L2HGA clear · HC clear · HSF4 · OCD clear</p>
   <p><strong>HD/ED:</strong> Hüften HD B · Ellenbogen ED 0</p>
-  <p><strong>PHPV:</strong> unaffected · <strong>DNA</strong> hinterlegt</p>
   <p><strong>Gebiss:</strong> vollständig, Scherengebiss</p>
   <p><strong>Vater:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford" style="color:#8b5a2b;font-weight:700;text-decoration:underline;text-underline-offset:3px" aria-label="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford (wird in einem neuen Tab geöffnet)">Bullbrothers Hott as Hell &#8599;</a> «HEAT» &mdash; Multi-Internationaler Champion, Crufts-qualifiziert, Zucht TheReds Stafford</p>
   <p><strong>Mutter:</strong> Skilful-dogs Nora</p>
@@ -91,8 +89,7 @@ custom_content: |
   <img src="/images/maschio-braveheart.webp" alt="Braveheart del Piccolo Diavolo — Staffordshire Bull Terrier" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
-  <p><strong>Gentests:</strong> L2HGA & HC frei per DNA</p>
-  <p><strong>PHPV:</strong> Nicht betroffen</p>
+  <p><strong>Gentests:</strong> L2HGA & HC (HSF4) frei per DNA</p>
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> Jackie Kennedy Great'n Glory</p>
   <p><strong>Mutter:</strong> Alport The Sandman</p>
@@ -111,8 +108,7 @@ custom_content: |
   <img src="/images/maschio-papillon.webp" alt="Papillon del Piccolo Diavolo — Staffordshire Bull Terrier" width="350" height="467" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
-  <p><strong>Gentests:</strong> L2HGA & HC frei per DNA</p>
-  <p><strong>PHPV:</strong> Nicht betroffen</p>
+  <p><strong>Gentests:</strong> L2HGA & HC (HSF4) frei per DNA</p>
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> Jackie Kennedy Great'n Glory</p>
   <p><strong>Mutter:</strong> Alport The Sandman</p>

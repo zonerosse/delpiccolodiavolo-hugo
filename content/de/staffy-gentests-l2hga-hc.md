@@ -1,11 +1,12 @@
 ---
-title: "Gentests L2-HGA und HC für Staffordshire Bull Terrier"
+title: "Gentests L2-HGA, HC (HSF4) und DM (SOD1) für Staffordshire Bull Terrier"
+titleSeo: "Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)"
 date: 2025-11-20
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 translationKey: "test-genetici"
 articolo: true
 image: "/images/blog/salute-1.webp"
-description: "Vollständiger Leitfaden zu L2-HGA und HC Gentests für Staffy: was sie sind, warum sie wichtig sind, Ergebnisse interpretieren."
+description: "Gentests beim Staffordshire Bull Terrier: L2-HGA, erbliche Katarakt HC (Gen HSF4) und degenerative Myelopathie (Gen SOD1). Was sie sind und wie man sie liest."
 slug: "staffy-gentests-l2hga-hc"
 custom_content: |
   <section class="hero">
@@ -16,7 +17,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Gesundheit und Wohlbefinden</span>
-  <h1 class="hero-title">Gentests <em>L2-HGA und HC</em></h1>
+  <h1 class="hero-title">Gentests <em>L2-HGA, HC und DM</em></h1>
   <p class="hero-subtitle">Vollständiger Leitfaden für Staffordshire Bull Terrier</p>
   <div class="hero-meta">
   <span>📅 20. November 2025</span>
@@ -47,10 +48,18 @@ custom_content: |
   <p>Die Symptome zeigen sich meist zwischen dem sechsten Lebensmonat und dem ersten Lebensjahr, gelegentlich später. Besitzer berichten von Episoden mit Koordinationsverlust und Taumeln, Zittern, Muskelsteifheit nach Belastung oder Aufregung, Verhaltensänderungen und in vielen Fällen Krampfanfällen. Zwischen den Episoden wirkt der Hund fast normal, was die Diagnose verzögert und falsche Hoffnung weckt.</p>
   <p>Eine Heilung gibt es nicht. Eine angepasste Diät und Antikonvulsiva können die Häufigkeit der Episoden verringern, doch die Erkrankung schreitet fort und die Prognose ist schlecht. Für eine Familie, die ein Jahr lang einen Welpen aufgezogen hat, ist die Diagnose verheerend, und sie kostet emotional wie finanziell, solange der Hund lebt.</p>
 
-  <h2>Hereditäre Katarakt: was es ist und wie es sich zeigt</h2>
+  <h2>Hereditäre Katarakt (HC, Gen HSF4): was es ist und wie es sich zeigt</h2>
   <p>Die hereditäre Katarakt dieser Rasse, verursacht durch eine Mutation im HSF4-Gen, ist nicht der Altersstar, den man bei alten Hunden jeder Rasse sieht. Sie tritt früh auf, typischerweise zwischen dem vierten Lebensmonat und dem dritten Lebensjahr, betrifft beide Augen und schreitet fort.</p>
   <p>Die Linse trübt sich zunehmend ein, und der Hund verliert das Augenlicht, meist vollständig und oft vor seinem dritten Geburtstag. Eine Operation kann in ausgewählten Fällen brauchbares Sehvermögen wiederherstellen, ist aber teuer, nicht immer erfolgreich und erfordert einen Fachtierarzt für Augenheilkunde. Auch hier gilt: die Erkrankung ist durch einen Test vor der Verpaarung vollständig vermeidbar.</p>
 
+  <h2>Degenerative Myelopathie (DM, Gen SOD1): was sie ist und wie sie sich zeigt</h2>
+  
+  <p>Die <strong>degenerative Myelopathie</strong> ist eine Erkrankung des Rückenmarks, die im höheren Alter auftritt, meist nach dem achten Lebensjahr. Sie beginnt mit einem unsicheren Gang der Hinterbeine und verschlechtert sich fortschreitend bis zur Lähmung, innerhalb von einigen Monaten bis zu etwa zwei Jahren. Eine Heilung gibt es nicht. Die wichtigste Mutation, im Exon 2 des Gens <strong>SOD1</strong>, wurde 2009 beschrieben und kommt bei vielen Rassen vor. Sie wird rezessiv vererbt: Das Risiko betrifft Hunde mit zwei Kopien, auch wenn nicht alle erkranken. Gerade weil sie so spät auftritt, kann ein Risikohund schon mehrere Würfe gehabt haben, bevor die ersten Anzeichen erscheinen: Nur der DNA-Test zeigt es rechtzeitig. Ein Ergebnis N/N, oder „Wildtyp homozygot“, bedeutet, dass der Hund die Mutation nicht trägt und sie nicht weitergeben kann.</p>
+  
+  <p>Bei uns ist der SOD1-Test N/N, also frei, für unsere beiden aktiven Zuchthündinnen Bilquis und Croi Olc sowie für Nora: Die Befunde mit Mikrochipnummer stehen auf der <a href="/de/huendinnen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Hündinnen">Seite der Hündinnen</a>.</p>
+  
+  <p class="fonti">Quellen: <a href="https://www.pnas.org/doi/10.1073/pnas.0812297106" target="_blank" rel="noopener" title="Awano et al., PNAS 2009">Awano et al., PNAS 2009</a>; <a href="https://vgl.ucdavis.edu/test/degenerative-myelopathy" target="_blank" rel="noopener" title="UC Davis Veterinary Genetics Laboratory">UC Davis Veterinary Genetics Laboratory</a>.</p>
+  
   <h2>Wie die Tests funktionieren</h2>
   <p>Die Tests basieren auf DNA und sind unkompliziert. Ein Wangenabstrich oder eine kleine Blutprobe wird entnommen, idealerweise vom Tierarzt, der zugleich den Mikrochip des Hundes überprüft, damit die Probe eindeutig diesem Tier zugeordnet ist, und an ein akkreditiertes Labor geschickt. Das Ergebnis liegt nach 2 bis 4 Wochen vor und gilt lebenslang: die DNA verändert sich nicht, ein Hund wird einmal getestet und nie wieder.</p>
   <p>Die Kosten unterscheiden sich je nach Labor und Land, für beide Tests zusammen sind etwa etwa 120 Euro für das Genpaket im Labor; rechnet man Blutentnahme, Versand und Augenuntersuchung hinzu, sind es rund 400 Euro pro Hund realistisch. Verglichen mit den Kosten einer lebenslangen antikonvulsiven Behandlung oder einer Kataraktoperation ist das eine unbedeutende Summe. Deshalb betrachtet kein ernsthafter Züchter diese Ausgabe als freiwillig.</p>
@@ -70,7 +79,7 @@ custom_content: |
   <p>Vorsicht ist geboten bei: der Formulierung "die Eltern sind gesund, wir hatten nie Probleme", die eine ganz andere Frage beantwortet; Zertifikaten, die Sie angeblich später erhalten; der Weigerung, Unterlagen vor einer Anzahlung zu zeigen; Ergebnissen, die nur als Screenshot vorliegen; und der Behauptung, Tests seien überflüssig, "weil unsere Linien das nie hatten". Keine Linie ist von einer rezessiven Mutation ausgenommen, solange sie nicht getestet ist.</p>
 
   <h2>Über die beiden DNA-Tests hinaus</h2>
-  <p>Gentests sind die Untergrenze, nicht das Ziel. Ernsthafte Zuchtprogramme dieser Rasse umfassen zusätzlich eine jährliche augenärztliche Untersuchung durch einen ECVO-Spezialisten, die Befunde erfasst, die kein DNA-Test abdeckt, etwa PHPV und Distichiasis; eine offizielle Auswertung von Hüfte und Ellenbogen, die in dieser Rasse mehr Gewicht hat, als allgemein zugegeben wird; und eine kardiologische Untersuchung.</p>
+  <p>Gentests sind die Untergrenze, nicht das Ziel. Ernsthafte Zuchtprogramme dieser Rasse umfassen zusätzlich eine jährliche augenärztliche Untersuchung durch einen ECVO-Spezialisten, die Befunde erfasst, die kein DNA-Test abdeckt, etwa PHPV und Distichiasis; eine offizielle Auswertung von Hüfte und Ellenbogen, die in dieser Rasse mehr Gewicht hat, als allgemein zugegeben wird; und eine kardiologische Untersuchung. Das offizielle Augenzeugnis gilt allerdings nur ein Jahr und müsste bei einem Zuchthund jedes Jahr erneuert werden. Deshalb setzt eine seriöse Zucht auf DNA-Tests: Sie werden einmal gemacht und laufen nie ab.</p>
   <p>Zunehmend wird auch die Atemqualität beurteilt. Der Staffordshire Bull Terrier ist keine brachyzephale Rasse, doch die Tendenz zu immer kürzeren Fängen in manchen Ausstellungslinien hat Folgen. Ein Hund, der bei Wärme oder nach mäßiger Bewegung Mühe hat, hat ein Wohlbefindensproblem, unabhängig davon, wie er im Stand aussieht.</p>
 
   <h2>Kosten der Vorsorge gegen Kosten der Krankheit</h2>

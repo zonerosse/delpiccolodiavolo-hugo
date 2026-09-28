@@ -1,10 +1,10 @@
 ---
 title: "Femmine Staffordshire Bull Terrier"
 titleSeo: "Femmine Staffordshire Bull Terrier: referti e pedigree ENCI"
-lastmod: 2026-09-20
+lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 translationKey: "femmine"
-description: "Le nostre femmine Staffordshire Bull Terrier: Bilquis (Top Dog Junior 2023), Croi Olc, Divine, Kennedy, Derry, Cattleya. Test genetici L2HGA e HC certificati."
+description: "Le nostre femmine Staffordshire Bull Terrier: Bilquis (Top Dog Junior 2023), Croi Olc, Divine, Kennedy, Derry, Cattleya. Test L2HGA, HC (HSF4) e DM-SOD1."
 slug: "femmine-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">
@@ -16,8 +16,8 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Fattrici Selezionate</span>
   <h1 class="hero-title">Femmine <br><em>Staffordshire</em> <br>Bull Terrier</h1>
-  <p class="hero-subtitle">DNA tested, esenti da L2HGA e HC</p>
-  <p class="hero-description">Le nostre femmine riproduttrici sono selezionate per salute, carattere e tipicità. Tutte testate geneticamente e conformi allo standard di razza.</p>
+  <p class="hero-subtitle">DNA tested, esenti da L2HGA e HC (HSF4)</p>
+  <p class="hero-description">Le nostre femmine riproduttrici sono selezionate per salute, carattere e tipicità. Tutte testate geneticamente e conformi allo standard di razza. Le fattrici in attività, Bilquis e Croi Olc, sono esenti anche dalla mielopatia degenerativa (gene SOD1).</p>
   <div class="hero-actions">
   <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sulle%20femmine" class="btn btn-primary" title="Contattaci su WhatsApp">Contattaci</a>
   <a href="/maschi-staffordshire-bull-terrier/" class="btn btn-ghost" title="Vedi i nostri maschi">Vedi Maschi</a>
@@ -56,7 +56,7 @@ custom_content: |
   <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Le nostre femmine sono testate per:</p>
   <p>✓ <strong>L2HGA</strong> — Aciduria L-2-Idrossiglutarica<br>
   ✓ <strong>HC</strong> — Cataratta Ereditaria<br>
-  ✓ <strong>PHPV</strong> — Anomalia oculare<br>
+  ✓ <strong>DM-SOD1</strong> — Mielopatia degenerativa<br>
   ✓ <strong>Dentatura</strong> — Scissor bite completo</p>
   </div>
   </div>
@@ -86,7 +86,8 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 380260044647848<br>
   <strong>LOI:</strong> LO22197469</p>
-  <p><strong>Test Genetici:</strong> L2HGA &amp; HC clear by DNA</p>
+  <p><strong>Test Genetici:</strong> L2HGA &amp; HC (HSF4) clear by DNA</p>
+  <p><strong>Mielopatia Degenerativa (SOD1):</strong> Clear by DNA</p>
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
   <p><strong>Padre:</strong> Pablo iuno sospita plata plomo</p>
   <p><strong>Madre:</strong> Skilful-dogs Nora</p>
@@ -113,7 +114,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 380260160642781<br>
   <strong>LOI:</strong> LO2549181</p>
-  <p><strong>Test Genetici:</strong> L2HGA &amp; HC clear by Parents</p>
+  <p><strong>Test Genetici:</strong> L2HGA &amp; HC (HSF4) clear by Parents</p>
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
   <p><strong>Padre:</strong> CH. Elitebull Prospect</p>
   <p><strong>Madre:</strong> Lackyle Bean Croí Olc</p>
@@ -139,7 +140,8 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 991003001293234<br>
   <strong>LOI:</strong> LO24144140</p>
-  <p><strong>Test Genetici:</strong> L2HGA &amp; HC clear by DNA</p>
+  <p><strong>Test Genetici:</strong> L2HGA &amp; HC (HSF4) clear by DNA</p>
+  <p><strong>Mielopatia Degenerativa (SOD1):</strong> Clear by DNA</p>
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
   <p><strong>Padre:</strong> Lackyle Trodai Tine</p>
   <p><strong>Madre:</strong> CH. Lackyle Ogbhean an Diabhal</p>
@@ -163,8 +165,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 643094100473511<br>
   <strong>LOI:</strong> LO19125788</p>
-  <p><strong>Test Genetici:</strong> L2HGA &amp; HC clear by DNA</p>
-  <p><strong>PHPV:</strong> Unaffected</p>
+  <p><strong>Test Genetici:</strong> L2HGA &amp; HC (HSF4) clear by DNA</p>
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
   <p><strong>Padre:</strong> CH. Dangerous Smile Black Shadow</p>
   <p><strong>Madre:</strong> CH. Sonrisa Feliz Keely Lariel</p>
@@ -187,7 +188,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 276098104987682<br>
   <strong>LOI:</strong> LO1610654</p>
-  <p><strong>Test Genetici:</strong> L2HGA &amp; HC clear by DNA</p>
+  <p><strong>Test Genetici:</strong> L2HGA &amp; HC (HSF4) clear by DNA</p>
   <p><strong>PHPV:</strong> Unaffected</p>
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
   <p><strong>Padre:</strong> CH. Hell's Angel</p>
@@ -213,7 +214,7 @@ custom_content: |
   <strong>LOI:</strong> LO1610667</p>
   <p><strong>HD:</strong> B</p>
   <p><strong>ED:</strong> A</p>
-  <p><strong>Test Genetici:</strong> L2HGA &amp; HC clear by DNA</p>
+  <p><strong>Test Genetici:</strong> L2HGA &amp; HC (HSF4) clear by DNA</p>
   <p><strong>PHPV:</strong> Unaffected</p>
   <p><strong>Padre:</strong> CH. Kiraloebis Italian Gigalo (Top UK Staffordshire Bull Terrier 2012)</p>
   <p><strong>Madre:</strong> Lackyle Duilleog Daracha</p>
@@ -237,8 +238,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 380260044549631<br>
   <strong>LOI:</strong> LO2222029</p>
-  <p><strong>Test Genetici:</strong> L2HGA &amp; HC clear by DNA</p>
-  <p><strong>PHPV:</strong> Unaffected</p>
+  <p><strong>Test Genetici:</strong> L2HGA &amp; HC (HSF4) clear by DNA</p>
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
   <p><strong>Padre:</strong> THE Phenomenal AJ Styles Valconcaclan</p>
   <p><strong>Madre:</strong> Foyleoak Maiden Derry</p>
@@ -262,9 +262,8 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 380260004336944<br>
   <strong>LOI:</strong> LO2199721</p>
-  <p><strong>Test Genetici:</strong> L2HGA &amp; HC clear by DNA</p>
-  <p><strong>Mielopatia Degenerativa:</strong> Clear</p>
-  <p><strong>PHPV:</strong> Unaffected</p>
+  <p><strong>Test Genetici:</strong> L2HGA &amp; HC (HSF4) clear by DNA</p>
+  <p><strong>Mielopatia Degenerativa (SOD1):</strong> Clear by DNA</p>
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
   <p><strong>Padre:</strong> Skilful-Dogs Jeghër</p>
   <p><strong>Madre:</strong> Skilful-Dogs Red Skin</p>

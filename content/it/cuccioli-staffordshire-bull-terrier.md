@@ -1,7 +1,7 @@
 ---
 title: "Cuccioli Staffordshire Bull Terrier"
 titleSeo: "Cuccioli Staffordshire Bull Terrier con test verificabili"
-lastmod: 2026-09-27
+lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
 description: "Cuccioli Staffordshire Bull Terrier a Ostellato (FE). Pedigree ENCI, genitori testati L2HGA e HC con i referti pubblicati sul sito, verificabili da chiunque."
@@ -101,7 +101,7 @@ custom_content: |
   <span class="section-label">Prima che nascano</span>
   <h2 class="section-title">Dal calore al parto: come nasce una cucciolata</h2>
 
-  <p>Una cucciolata di Staffordshire Bull Terrier a Del Piccolo Diavolo comincia molto prima del parto. Si parte dalla visita pre-calore e dal dosaggio del progesterone per individuare il momento dell'accoppiamento, si conferma la gravidanza con l'ecografia intorno al venticinquesimo giorno e si contano i cuccioli con una radiografia cinque-sette giorni prima del parto. I cuccioli nascono in casa e ci restano il primo mese, nella cassa parto, poi passano a un box con sfogo esterno e rientrano in casa a turno, due per volta. L'affido avviene dopo i 60 giorni previsti dalla legge italiana, con microchip, prime vaccinazioni, <a href="/cuccioli-sverminazione-esami-feci/" title="Sverminazione ed esami delle feci">sverminazioni con esame delle feci</a> e pedigree ENCI. I genitori sono testati per L2HGA, HC e PHPV, e i referti sono pubblicati sul sito con il numero di microchip in chiaro.</p>
+  <p>Una cucciolata di Staffordshire Bull Terrier a Del Piccolo Diavolo comincia molto prima del parto. Si parte dalla visita pre-calore e dal dosaggio del progesterone per individuare il momento dell'accoppiamento, si conferma la gravidanza con l'ecografia intorno al venticinquesimo giorno e si contano i cuccioli con una radiografia cinque-sette giorni prima del parto. I cuccioli nascono in casa e ci restano il primo mese, nella cassa parto, poi passano a un box con sfogo esterno e rientrano in casa a turno, due per volta. L'affido avviene dopo i 60 giorni previsti dalla legge italiana, con microchip, prime vaccinazioni, <a href="/cuccioli-sverminazione-esami-feci/" title="Sverminazione ed esami delle feci">sverminazioni con esame delle feci</a> e pedigree ENCI. I genitori sono testati per L2HGA e HC, le madri anche per DM-SOD1, e i referti sono pubblicati sul sito con il numero di microchip in chiaro.</p>
 
   <p>Di quello che succede dopo la nascita si parla molto. Di quello che succede prima, quasi mai &mdash; eppure &egrave; l&igrave; che si decide gran parte di come andr&agrave; una cucciolata.</p>
 
@@ -193,7 +193,7 @@ custom_content: |
   <li>Pedigree ENCI certificato</li>
   <li>Libretto sanitario con vaccinazioni</li>
   <li>Certificato microchip</li>
-  <li>Test genetici dei genitori (L2HGA, HC, PHPV)</li>
+  <li>Test genetici dei genitori (L2HGA, HC; DM-SOD1 per la madre)</li>
   <li>Documentazione fotografica della crescita</li>
   <li>Guida all'alimentazione e alle cure</li>
   <li>Supporto post-adozione continuativo</li>
@@ -261,7 +261,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quanto costa un cucciolo Staffordshire Bull Terrier?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Non esiste un listino, e quello che si paga riflette costi che esistono prima che il cucciolo nasca. I test genetici dei due riproduttori per L2HGA, HC e PHPV si pagano una volta per cane e valgono per tutta la carriera riproduttiva. L'iscrizione della cucciolata al libro genealogico ENCI ha tariffe pubbliche. A queste si aggiungono le visite veterinarie durante la gravidanza, l'ecografia al venticinquesimo giorno, la radiografia prima del parto, le prime vaccinazioni, le sverminazioni e il microchip. <strong>Un prezzo molto basso quasi sempre significa che manca qualcosa</strong>: i test, il pedigree, o cuccioli separati dalla madre prima dei 60 giorni previsti dalla legge.</div>
+  <div class="faq-answer">Non esiste un listino, e quello che si paga riflette costi che esistono prima che il cucciolo nasca. I test genetici dei due riproduttori per L2HGA e HC si pagano una volta per cane e valgono per tutta la carriera riproduttiva. L'iscrizione della cucciolata al libro genealogico ENCI ha tariffe pubbliche. A queste si aggiungono le visite veterinarie durante la gravidanza, l'ecografia al venticinquesimo giorno, la radiografia prima del parto, le prime vaccinazioni, le sverminazioni e il microchip. <strong>Un prezzo molto basso quasi sempre significa che manca qualcosa</strong>: i test, il pedigree, o cuccioli separati dalla madre prima dei 60 giorni previsti dalla legge.</div>
   </div>
 
   <div class="faq-item active">

@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Zucht"
-lastmod: 2026-09-20
+lastmod: 2026-09-28
 translationKey: "home"
 description: "Ethische Staffordshire Bull Terrier Zucht seit 2013. ENCI-Ahnentafel, Gentest-Befunde und Mikrochips der Zuchttiere online veröffentlicht und überprüfbar."
 correlati:
@@ -41,14 +41,16 @@ custom_content: |
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
   <span>L2HGA Clear</span>
-  <span>HC Clear</span>
+  <span>HC (HSF4) Clear</span>
+  <span>DM-SOD1 Clear</span>
   <span>Italienische Champions</span>
   <span>ENCI · FCI Stammbaum</span>
   <span>Ostellato FE</span>
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
   <span>L2HGA Clear</span>
-  <span>HC Clear</span>
+  <span>HC (HSF4) Clear</span>
+  <span>DM-SOD1 Clear</span>
   <span>Italienische Champions</span>
   <span>ENCI · FCI Stammbaum</span>
   <span>Ostellato FE</span>
@@ -121,7 +123,7 @@ custom_content: |
   <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center;display:flex;flex-direction:column;height:100%">
   <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Cattleya Del Piccolo Diavolo at Valconcaclan</h3>
   <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Jugendchampionin und Championin von San Marino</p>
-  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Jugendchampionin von San Marino 2023, Championin von San Marino 2024. Bei uns geboren und aufgezogen, heute im Besitz von Ricarda Mazzola Wagner (Valconcaclan). L2HGA und HC clear, PHPV unaffected, vollständiges Scherengebiss.</p>
+  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Jugendchampionin von San Marino 2023, Championin von San Marino 2024. Bei uns geboren und aufgezogen, heute im Besitz von Ricarda Mazzola Wagner (Valconcaclan). L2HGA und HC (HSF4) clear, vollständiges Scherengebiss.</p>
   </div>
 
   
@@ -198,7 +200,7 @@ custom_content: |
   <span>Welche Gentests fuhren Sie durch?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Alle Zuchttiere von Del Piccolo Diavolo werden auf <strong>L2-HGA</strong>, eine neurologische Erkrankung, auf <strong>HC</strong>, den juvenilen erblichen Katarakt, und auf <strong>PHPV</strong>, eine angeborene Augenanomalie, getestet. Die ersten beiden per DNA-Test, die dritte durch eine augenärztliche Spezialuntersuchung. Alle drei werden rezessiv vererbt: zwei freie Elterntiere können keine erkrankten Welpen hervorbringen, und Träger werden hier nicht zur Zucht eingesetzt. Die Laborbefunde sind auf dieser Website veröffentlicht, mit der <strong>Mikrochipnummer im Klartext</strong> &mdash; erst diese Nummer macht einen Befund überprüfbar, denn ohne sie könnte er sich auf jeden beliebigen Hund beziehen.</div>
+  <div class="faq-answer">Alle Zuchttiere von Del Piccolo Diavolo werden auf <strong>L2-HGA</strong>, eine neurologische Erkrankung, und auf <strong>HC</strong>, den juvenilen erblichen Katarakt (Gen HSF4), getestet. Unsere aktiven Zuchthündinnen zusätzlich auf <strong>degenerative Myelopathie</strong> (Gen SOD1), eine Erkrankung des Rückenmarks, die nach dem achten Lebensjahr auftritt. Alle sind DNA-Tests, und alle drei Krankheiten werden rezessiv vererbt: zwei freie Elterntiere können keine erkrankten Welpen hervorbringen, und Träger von L2-HGA und HC werden hier nicht zur Zucht eingesetzt. Die Laborbefunde sind auf dieser Website veröffentlicht, mit der <strong>Mikrochipnummer im Klartext</strong> &mdash; erst diese Nummer macht einen Befund überprüfbar, denn ohne sie könnte er sich auf jeden beliebigen Hund beziehen.</div>
   </div>
   
   <div class="faq-item active">

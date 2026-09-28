@@ -1,6 +1,6 @@
 ---
 title: "About Us - Staffordshire Bull Terrier Breeder"
-lastmod: 2026-09-27
+lastmod: 2026-09-28
 tipoPagina: "ProfilePage"
 translationKey: "chi-siamo"
 description: "Del Piccolo Diavolo kennel: breeding healthy, balanced and typical Staffordshire Bull Terriers since 2013. Ostellato, Italy."
@@ -116,7 +116,7 @@ custom_content: |
   <h2 class="section-title">Who is behind Del Piccolo Diavolo</h2>
   <div class="content-block">
   <p><strong>Paolo Boldrini</strong> has been breeding Staffordshire Bull Terriers since 2013 in Ostellato, in the province of Ferrara, under the name Del Piccolo Diavolo. Before the Staffies he bred Rottweilers, taking an Italian Champion and a European Champion into the ring.</p>
-  <p>He works with Elitebull (England) and Lackyle (Ireland) bloodlines and tests every breeding dog for L2HGA, HC and PHPV. With <strong>Bilquis Goddess Diabhal</strong> he won the ENCI Italian Beauty Champion title and placed fourth at the World Dog Show in Zagreb in 2024. Every puppy leaves with an ENCI pedigree and with the parents' test certificates.</p>
+  <p>He works with Elitebull (England) and Lackyle (Ireland) bloodlines and tests every breeding dog for L2HGA and HC, and the breeding females also for DM-SOD1. With <strong>Bilquis Goddess Diabhal</strong> he won the ENCI Italian Beauty Champion title and placed fourth at the World Dog Show in Zagreb in 2024. Every puppy leaves with an ENCI pedigree and with the parents' test certificates.</p>
   <p>The pages on this site are written by him, based on what actually happens at the kennel. For questions about puppies, bloodlines or genetic testing: <a href="/en/contact/">contact me directly</a>.</p>
   </div>
   </div>

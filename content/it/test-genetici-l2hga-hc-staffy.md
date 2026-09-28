@@ -1,11 +1,12 @@
 ---
-title: "Test Genetici L2-HGA e HC Staffordshire Bull Terrier"
+title: "Test Genetici L2-HGA, HC (HSF4) e DM (SOD1) Staffordshire Bull Terrier"
+titleSeo: "Test genetici Staffy: L2-HGA, HC (HSF4) e DM (SOD1)"
 date: 2025-11-20
-lastmod: 2026-09-20
+lastmod: 2026-09-28
 translationKey: "test-genetici"
 articolo: true
 image: "/images/blog/salute-1.webp"
-description: "Test genetici L2-HGA e HC nello Staffordshire Bull Terrier: cosa sono, come si leggono e perché sono indispensabili."
+description: "Test genetici nello Staffordshire Bull Terrier: L2-HGA, cataratta ereditaria HC (gene HSF4) e mielopatia degenerativa (gene SOD1). Cosa sono e come si leggono."
 slug: "test-genetici-l2hga-hc-staffy"
 custom_content: |
   <section class="hero">
@@ -16,7 +17,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Salute e Benessere</span>
-  <h1 class="hero-title">Test Genetici <em>L2-HGA e HC</em></h1>
+  <h1 class="hero-title">Test Genetici <em>L2-HGA, HC e DM</em></h1>
   <p class="hero-subtitle">Guida completa per lo Staffordshire Bull Terrier</p>
   <div class="hero-meta">
   <span>📅 20 Novembre 2025</span>
@@ -97,7 +98,7 @@ custom_content: |
   <p>L2-HGA è una malattia devastante che causa grande sofferenza al cane e alla famiglia. Nessun cucciolo dovrebbe nascere con questa condizione, dato che è completamente prevenibile con test genetici e accoppiamenti responsabili.</p>
   </div>
   
-  <h2>HC (Cataratta Ereditaria): Cos'è e Come Si Manifesta</h2>
+  <h2>HC (Cataratta Ereditaria, gene HSF4): Cos'è e Come Si Manifesta</h2>
   
   <p>La <strong>Cataratta Ereditaria</strong> (Hereditary Cataract, HC) è una patologia oculare che causa opacizzazione del cristallino e, se non trattata, può portare alla cecità.</p>
   
@@ -124,6 +125,14 @@ custom_content: |
   </ul>
   
   <p>A differenza di L2-HGA, la cataratta può essere trattata chirurgicamente con buoni risultati, ma l'intervento è costoso (diverse migliaia di euro) e richiede cure post-operatorie impegnative. La prevenzione attraverso test genetici resta l'approccio migliore.</p>
+  
+  <h2>Mielopatia Degenerativa (DM, gene SOD1): Cos'è e Come Si Manifesta</h2>
+  
+  <p>La <strong>mielopatia degenerativa</strong> è una malattia del midollo spinale che compare in età avanzata, di solito dopo gli otto anni. Comincia con un'andatura incerta delle zampe posteriori e peggiora in modo progressivo fino alla paralisi, nell'arco di mesi o di un paio d'anni. Non esiste una cura. La mutazione principale, nell'esone 2 del gene <strong>SOD1</strong>, è stata descritta nel 2009 ed è presente in molte razze. Si eredita in modo recessivo: il rischio riguarda i cani che ne portano due copie, anche se non tutti si ammalano. Proprio perché si manifesta tardi, un cane a rischio può aver già fatto diverse cucciolate prima di mostrare i primi segni: il test del DNA è l'unico modo per saperlo in tempo. Un risultato N/N, o "wild type in omozigosi", significa che il cane non porta la mutazione e non può trasmetterla.</p>
+  
+  <p>Da noi il test SOD1 risulta N/N, cioè esente, per le due fattrici in attività, Bilquis e Croi Olc, e per Nora: i referti, con il numero di microchip, sono sulla <a href="/femmine-staffordshire-bull-terrier/" title="Femmine Staffordshire Bull Terrier">pagina delle femmine</a>.</p>
+  
+  <p class="fonti">Fonti: <a href="https://www.pnas.org/doi/10.1073/pnas.0812297106" target="_blank" rel="noopener" title="Awano et al., PNAS 2009">Awano et al., PNAS 2009</a>; <a href="https://vgl.ucdavis.edu/test/degenerative-myelopathy" target="_blank" rel="noopener" title="UC Davis Veterinary Genetics Laboratory">UC Davis Veterinary Genetics Laboratory</a>.</p>
   
   <h2>Come Funzionano i Test Genetici</h2>
 
@@ -331,7 +340,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Il test genetico va ripetuto ogni anno?</h3>
-  <div class="faq-answer">No, mai. Il test analizza il DNA del cane, che non cambia nel corso della vita: un soggetto risultato CLEAR a sei mesi sar&agrave; CLEAR anche a dieci anni. Il referto &egrave; definitivo e vale per tutta la carriera riproduttiva. Questo vale per le analisi genetiche vere e proprie &mdash; L2-HGA e cataratta ereditaria &mdash; ma non per la <strong>PHPV</strong>, che non &egrave; un test del DNA ma una visita oftalmologica: quella fotografa lo stato dell'occhio in quel momento, e in alcuni paesi viene ripetuta periodicamente per i soggetti in riproduzione. Un'altra cosa da non confondere &egrave; l'esenzione per discendenza: quella non &egrave; un test fatto sul cane, ma una deduzione dai genitori, e ha limiti che vale la pena conoscere.</div>
+  <div class="faq-answer">No, mai. Il test analizza il DNA del cane, che non cambia nel corso della vita: un soggetto risultato CLEAR a sei mesi sar&agrave; CLEAR anche a dieci anni. Il referto &egrave; definitivo e vale per tutta la carriera riproduttiva. Questo vale per le analisi genetiche vere e proprie &mdash; L2-HGA, cataratta ereditaria e mielopatia degenerativa &mdash; ma non per la <strong>PHPV</strong>, che non &egrave; un test del DNA ma una visita oftalmologica: quella fotografa lo stato dell'occhio in quel momento, e il certificato ufficiale vale un anno, per cui su un soggetto in riproduzione andrebbe ripetuta ogni anno. &Egrave; il motivo per cui un allevamento serio punta sui test del DNA, che si fanno una volta e non scadono. Un'altra cosa da non confondere &egrave; l'esenzione per discendenza: quella non &egrave; un test fatto sul cane, ma una deduzione dai genitori, e ha limiti che vale la pena conoscere.</div>
   </div>
   
   <div class="faq-item">

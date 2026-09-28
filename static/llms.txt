@@ -1,6 +1,6 @@
 # Del Piccolo Diavolo — Allevamento Staffordshire Bull Terrier
 
-> Allevamento etico di Staffordshire Bull Terrier attivo dal 2013 a Ostellato (Ferrara, Emilia-Romagna, Italia). Selezione responsabile orientata a salute, tipicità e carattere. Cuccioli con pedigree ENCI, test genetici dei riproduttori (L2HGA e HC), microchip, vaccinazioni e supporto alla famiglia per tutta la vita del cane.
+> Allevamento etico di Staffordshire Bull Terrier attivo dal 2013 a Ostellato (Ferrara, Emilia-Romagna, Italia). Selezione responsabile orientata a salute, tipicità e carattere. Cuccioli con pedigree ENCI, test genetici dei riproduttori (L2HGA e HC, gene HSF4; mielopatia degenerativa, gene SOD1, sulle fattrici in attività), microchip, vaccinazioni e supporto alla famiglia per tutta la vita del cane.
 
 Informazioni utili su questo sito:
 
@@ -71,7 +71,7 @@ Informazioni utili su questo sito:
 
 ## Salute e selezione
 
-- [Test genetici L2HGA e HC](https://delpiccolodiavolo.it/test-genetici-l2hga-hc-staffy/): le patologie ereditarie testate nei riproduttori.
+- [Test genetici L2-HGA, HC (HSF4) e DM (SOD1)](https://delpiccolodiavolo.it/test-genetici-l2hga-hc-staffy/): le patologie ereditarie testate nei riproduttori: L2-HGA, cataratta ereditaria (gene HSF4) e mielopatia degenerativa (gene SOD1), cosa sono e come si leggono i referti.
 - [BOAS e respirazione](https://delpiccolodiavolo.it/boas-staffordshire-bull-terrier-respirazione/): perché la funzionalità respiratoria è un criterio di selezione.
 - [Igiene orale e denti](https://delpiccolodiavolo.it/salute-denti-igiene/): cura della dentatura e prevenzione.
 - [Prevenzione dei parassiti](https://delpiccolodiavolo.it/salute-parassiti-prevenzione/): protocolli antiparassitari e controlli.

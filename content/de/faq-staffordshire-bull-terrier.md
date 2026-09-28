@@ -1,6 +1,6 @@
 ---
 title: "FAQ Staffordshire Bull Terrier - Häufig gestellte Fragen"
-lastmod: 2026-09-20
+lastmod: 2026-09-28
 translationKey: "faq"
 description: "Antworten auf häufig gestellte Fragen über Staffordshire Bull Terrier: Charakter, Gesundheit, Welpen, Kosten, Ernährung, Training. Zucht Del Piccolo Diavolo."
 slug: "faq-staffordshire-bull-terrier"
@@ -58,7 +58,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie viel kostet ein Welpe mit <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="ENCI-Rasseseite" target="_blank" rel="noopener" aria-label="ENCI-Rasseseite (wird in einem neuen Tab geöffnet)">ENCI</a>-Stammbaum?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Es gibt keine Preisliste: was man zahlt, spiegelt Kosten wider, die bereits vor der Geburt der Welpen entstehen. Die Gentests beider Elterntiere auf L2HGA, HC und PHPV werden einmal pro Hund bezahlt und gelten für die gesamte Zuchtlaufbahn. Die Eintragung des Wurfs ins ENCI-Zuchtbuch hat veröffentlichte, für alle gleiche Gebühren. Dazu kommen tierärztliche Untersuchungen während der Trächtigkeit, der Ultraschall um den 25. Tag, das Röntgenbild vor der Geburt, die ersten Impfungen, Entwurmungen und der Mikrochip. <strong>Ein sehr niedriger Preis bedeutet fast immer, dass etwas fehlt</strong>: die Tests, die Ahnentafel, oder Welpen, die vor den gesetzlich vorgeschriebenen 60 Tagen von der Mutter getrennt wurden.</div>
+  <div class="faq-answer">Es gibt keine Preisliste: was man zahlt, spiegelt Kosten wider, die bereits vor der Geburt der Welpen entstehen. Die Gentests beider Elterntiere auf L2HGA und HC werden einmal pro Hund bezahlt und gelten für die gesamte Zuchtlaufbahn. Die Eintragung des Wurfs ins ENCI-Zuchtbuch hat veröffentlichte, für alle gleiche Gebühren. Dazu kommen tierärztliche Untersuchungen während der Trächtigkeit, der Ultraschall um den 25. Tag, das Röntgenbild vor der Geburt, die ersten Impfungen, Entwurmungen und der Mikrochip. <strong>Ein sehr niedriger Preis bedeutet fast immer, dass etwas fehlt</strong>: die Tests, die Ahnentafel, oder Welpen, die vor den gesetzlich vorgeschriebenen 60 Tagen von der Mutter getrennt wurden.</div>
   </div>
   
   <div class="faq-item active">
@@ -66,7 +66,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Welche Gentests führen Sie bei den Zuchttieren durch?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Alle Zuchttiere von Del Piccolo Diavolo werden auf <strong>L2-HGA</strong>, die L-2-Hydroxyglutarazidurie, eine neurologische Erkrankung, auf <strong>HC</strong>, den juvenilen erblichen Katarakt, und auf <strong>PHPV</strong>, eine angeborene Augenanomalie, getestet. Die ersten beiden werden per DNA-Test festgestellt, die dritte durch eine augenärztliche Spezialuntersuchung. Alle drei werden rezessiv vererbt: zwei freie Elterntiere können keine erkrankten Welpen hervorbringen. Träger werden hier nicht zur Zucht eingesetzt. Die Laborbefunde sind auf dieser Website veröffentlicht und herunterladbar, mit der <strong>Mikrochipnummer des Hundes im Klartext</strong> &mdash; erst diese Nummer macht einen Befund überprüfbar.</div>
+  <div class="faq-answer">Alle Zuchttiere von Del Piccolo Diavolo werden auf <strong>L2-HGA</strong>, die L-2-Hydroxyglutarazidurie, eine neurologische Erkrankung, und auf <strong>HC</strong>, den juvenilen erblichen Katarakt (Gen HSF4), getestet; unsere Zuchthündinnen zusätzlich auf <strong>degenerative Myelopathie</strong> (Gen SOD1), eine Erkrankung des Rückenmarks, die nach dem achten Lebensjahr auftritt. Alle sind DNA-Tests, und alle drei Krankheiten werden rezessiv vererbt: zwei freie Elterntiere können keine erkrankten Welpen hervorbringen. Träger von L2-HGA und HC werden hier nicht zur Zucht eingesetzt. Die Laborbefunde sind auf dieser Website veröffentlicht und herunterladbar, mit der <strong>Mikrochipnummer des Hundes im Klartext</strong> &mdash; erst diese Nummer macht einen Befund überprüfbar.</div>
   </div>
   
   <div class="faq-item active">
@@ -98,7 +98,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie lange lebt ein Staffordshire Bull Terrier?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Zwölf bis vierzehn Jahre, was für einen mittelgroßen Hund eine gute Lebenserwartung ist und zu den besten in der Gruppe der Molosser zählt. Die Rasse ist robust, ohne die Atemprobleme extrem brachyzephaler Rassen und ohne die Gelenkerkrankungen großer Rassen. Die drei bekannten Erbkrankheiten &mdash; L2-HGA, erblicher Katarakt und PHPV &mdash; werden alle rezessiv vererbt und durch Tests der Elterntiere vermieden. Nach der Genetik beeinflusst nichts die Lebensdauer so stark wie das <strong>Gewicht</strong>: ein übergewichtiger Staffy altert früher, mit stärker belasteten Gelenken und geringerer Hitzetoleranz. Zwölf Jahre sind auch der Zeitraum, für den man sich mit einem Welpen bindet.</div>
+  <div class="faq-answer">Zwölf bis vierzehn Jahre, was für einen mittelgroßen Hund eine gute Lebenserwartung ist und zu den besten in der Gruppe der Molosser zählt. Die Rasse ist robust, ohne die Atemprobleme extrem brachyzephaler Rassen und ohne die Gelenkerkrankungen großer Rassen. Die drei Erbkrankheiten mit DNA-Test &mdash; L2-HGA, erblicher Katarakt und degenerative Myelopathie &mdash; werden alle rezessiv vererbt und durch Tests der Elterntiere vermieden. Nach der Genetik beeinflusst nichts die Lebensdauer so stark wie das <strong>Gewicht</strong>: ein übergewichtiger Staffy altert früher, mit stärker belasteten Gelenken und geringerer Hitzetoleranz. Zwölf Jahre sind auch der Zeitraum, für den man sich mit einem Welpen bindet.</div>
   </div>
   
   <div class="faq-item active">

@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier: Ist er der richtige Hund für Sie? Vor- und Nachteile"
 date: 2026-08-01
-lastmod: 2026-09-26
+lastmod: 2026-09-28
 titleSeo: "Staffordshire Bull Terrier: der richtige Hund für Sie?"
 translationKey: "cane-giusto"
 articolo: true
@@ -160,7 +160,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Wie lange lebt ein Staffordshire Bull Terrier?</h3>
-  <div class="faq-answer">Zwölf bis vierzehn Jahre, eine gute Lebenserwartung für einen mittelgroßen Hund. Die Rasse ist robust, ohne die Atemprobleme extrem brachyzephaler Rassen und ohne die Gelenkerkrankungen großer Rassen. Die drei bekannten Erbkrankheiten &mdash; L2-HGA, erblicher Katarakt und PHPV &mdash; werden rezessiv vererbt und durch Tests der Elterntiere vermieden: zwei freie Hunde können keine erkrankten Welpen hervorbringen. Nach der Genetik beeinflusst nichts die Lebensdauer so stark wie das <strong>Gewicht</strong>: ein übergewichtiger Staffy altert früher. Zwölf Jahre sind auch der Zeitraum, für den man sich mit einem Welpen bindet.</div>
+  <div class="faq-answer">Zwölf bis vierzehn Jahre, eine gute Lebenserwartung für einen mittelgroßen Hund. Die Rasse ist robust, ohne die Atemprobleme extrem brachyzephaler Rassen und ohne die Gelenkerkrankungen großer Rassen. Die drei Erbkrankheiten mit DNA-Test &mdash; L2-HGA, erblicher Katarakt und degenerative Myelopathie &mdash; werden rezessiv vererbt und durch Tests der Elterntiere vermieden: zwei freie Hunde können keine erkrankten Welpen hervorbringen. Nach der Genetik beeinflusst nichts die Lebensdauer so stark wie das <strong>Gewicht</strong>: ein übergewichtiger Staffy altert früher. Zwölf Jahre sind auch der Zeitraum, für den man sich mit einem Welpen bindet.</div>
   </div>
   
   </section>

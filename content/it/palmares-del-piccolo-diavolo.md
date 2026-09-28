@@ -1,7 +1,7 @@
 ---
 title: "Palmares Staffordshire Bull Terrier"
 titleSeo: "Palmares: campioni italiani e internazionali dal 2013"
-lastmod: 2026-09-27
+lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 translationKey: "palmares"
 description: "Risultati e titoli dei nostri Staffordshire Bull Terrier: Campioni Italiani, Giovani Campioni, Best in Show. Allevamento Del Piccolo Diavolo, Emilia-Romagna."
@@ -218,7 +218,7 @@ custom_content: |
   <h3>Giovane Campionessa e Campionessa San Marino</h3>
   <p><strong>JCH San Marino 2023</strong> - Giovane Campionessa conquistata nel 2023.</p>
   <p><strong>CH San Marino 2024</strong> - Campionessa San Marino conquistata nel 2024.</p>
-  <p>Nata e allevata da noi, ora di proprieta di Ricarda Mazzola Wagner (Valconcaclan). Test genetici L2HGA e HC clear, PHPV unaffected, dentatura completa a forbice.</p>
+  <p>Nata e allevata da noi, ora di proprieta di Ricarda Mazzola Wagner (Valconcaclan). Test genetici L2HGA e HC (HSF4) clear, dentatura completa a forbice.</p>
   </div>
   </div>
   </div>

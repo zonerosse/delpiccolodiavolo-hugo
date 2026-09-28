@@ -1,6 +1,6 @@
 ---
 title: "Was kostet ein Staffordshire Bull Terrier Welpe 2026"
-lastmod: 2026-09-27
+lastmod: 2026-09-28
 articolo: true
 image: "/images/blog/scontrino-farmaci-cucciolata.webp"
 titleSeo: "Was kostet ein Staffordshire Bull Terrier Welpe"
@@ -33,7 +33,7 @@ date: 2026-01-25
 <span>Was ein Welpe kostet</span>
 </nav>
 
-Der Preis eines Staffordshire Bull Terrier Welpen mit ENCI-Ahnentafel ist kein Listenpreis: Er ist die Summe von Kosten, die entstehen, bevor der Welpe geboren wird. Die Gentests der beiden Zuchthunde auf L2HGA, HC und PHPV werden einmal pro Hund bezahlt und gelten für das ganze Zuchtleben. Die Eintragung des Wurfs ins ENCI-Zuchtbuch hat öffentliche Gebühren, für alle gleich. Dazu kommen die tierärztlichen Kontrollen während der Trächtigkeit, der Ultraschall um den fünfundzwanzigsten Tag, das Röntgenbild vor der Geburt, die ersten Impfungen, die Entwurmungen und der Mikrochip. In der Zucht Del Piccolo Diavolo in Ostellato, Italien, kostet ein Wurf mit sechs Welpen rund 2.000 Euro vor Impfungen und Mikrochip, und über 4.000 mit einem Deckrüden im Ausland und einem Kaiserschnitt. Ein sehr niedriger Preis bedeutet fast immer, dass etwas fehlt: die Tests, die Ahnentafel oder Welpen, die vor den gesetzlich vorgeschriebenen 60 Tagen von der Mutter getrennt wurden.
+Der Preis eines Staffordshire Bull Terrier Welpen mit ENCI-Ahnentafel ist kein Listenpreis: Er ist die Summe von Kosten, die entstehen, bevor der Welpe geboren wird. Die Gentests der beiden Zuchthunde auf L2HGA und HC werden einmal pro Hund bezahlt und gelten für das ganze Zuchtleben. Die Eintragung des Wurfs ins ENCI-Zuchtbuch hat öffentliche Gebühren, für alle gleich. Dazu kommen die tierärztlichen Kontrollen während der Trächtigkeit, der Ultraschall um den fünfundzwanzigsten Tag, das Röntgenbild vor der Geburt, die ersten Impfungen, die Entwurmungen und der Mikrochip. In der Zucht Del Piccolo Diavolo in Ostellato, Italien, kostet ein Wurf mit sechs Welpen rund 2.000 Euro vor Impfungen und Mikrochip, und über 4.000 mit einem Deckrüden im Ausland und einem Kaiserschnitt. Ein sehr niedriger Preis bedeutet fast immer, dass etwas fehlt: die Tests, die Ahnentafel oder Welpen, die vor den gesetzlich vorgeschriebenen 60 Tagen von der Mutter getrennt wurden.
 
 Die kurze Antwort: **es gibt keine Preisliste, und das ist auch richtig so**. Beurteilen lässt sich, was im Preis steckt, wenn Sie bei einer seriösen Zucht mit ENCI-Ahnentafel, Gentests und vollständigen Garantien kaufen.
 

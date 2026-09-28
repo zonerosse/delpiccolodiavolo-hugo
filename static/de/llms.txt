@@ -1,6 +1,6 @@
 # Del Piccolo Diavolo — Staffordshire Bull Terrier Zucht
 
-> Ethische Staffordshire Bull Terrier Zucht, seit 2013 in Ostellato (Ferrara, Emilia-Romagna, Italien). Verantwortungsvolle Selektion nach Gesundheit, Rassetypizität und Charakter. Welpen mit ENCI-Stammbaum, Gentests der Zuchttiere (L2HGA und HC), Mikrochip, Impfungen und lebenslange Unterstützung der Familie.
+> Ethische Staffordshire Bull Terrier Zucht, seit 2013 in Ostellato (Ferrara, Emilia-Romagna, Italien). Verantwortungsvolle Selektion nach Gesundheit, Rassetypizität und Charakter. Welpen mit ENCI-Stammbaum, Gentests der Zuchttiere (L2HGA und HC, Gen HSF4; degenerative Myelopathie, Gen SOD1, bei den aktiven Zuchthündinnen), Mikrochip, Impfungen und lebenslange Unterstützung der Familie.
 
 Nützliche Informationen zu dieser Website:
 
@@ -62,7 +62,7 @@ Nützliche Informationen zu dieser Website:
 
 ## Gesundheit und Selektion
 
-- [Gentests L2HGA und HC](https://delpiccolodiavolo.it/de/staffy-gentests-l2hga-hc/): die bei den Zuchttieren getesteten Erbkrankheiten.
+- [Gentests L2-HGA, HC (HSF4) und DM (SOD1)](https://delpiccolodiavolo.it/de/staffy-gentests-l2hga-hc/): die bei den Zuchttieren getesteten Erbkrankheiten: L2-HGA, erbliche Katarakt (Gen HSF4) und degenerative Myelopathie (Gen SOD1), was sie sind und wie man die Befunde liest.
 - [BOAS und Atmung](https://delpiccolodiavolo.it/de/boas-staffordshire-bull-terrier-atmung/): warum die Atemfunktion ein Selektionskriterium ist.
 - [Zahnpflege und Mundhygiene](https://delpiccolodiavolo.it/de/staffy-zahnpflege/): Zahnpflege und Vorbeugung.
 - [Parasitenvorbeugung](https://delpiccolodiavolo.it/de/staffy-parasitenvorbeugung/): Entwurmung und Kontrollen.

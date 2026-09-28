@@ -1,9 +1,9 @@
 ---
 title: "Staffordshire Bull Terrier Hündinnen"
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 translationKey: "femmine"
-description: "Unsere Staffordshire Bull Terrier Hündinnen: Bilquis (Top Dog Junior 2023), Croi Olc, Divine, Kennedy, Derry, Cattleya. L2HGA und HC zertifizierte Gentests."
+description: "Unsere Staffordshire Bull Terrier Hündinnen: Bilquis (Top Dog Junior 2023), Croi Olc, Divine, Kennedy, Derry, Cattleya. Gentests L2HGA, HC (HSF4), DM-SOD1."
 slug: "huendinnen-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">
@@ -15,8 +15,8 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Ausgewählte Zuchthündinnen</span>
   <h1 class="hero-title">Hündinnen <br><em>Staffordshire</em> <br>Bull Terrier</h1>
-  <p class="hero-subtitle">DNA getestet, frei von L2HGA und HC</p>
-  <p class="hero-description">Unsere Zuchthündinnen werden nach Gesundheit, Charakter und Rassetypizität ausgewählt. Alle genetisch getestet und rassestandard-konform.</p>
+  <p class="hero-subtitle">DNA getestet, frei von L2HGA und HC (HSF4)</p>
+  <p class="hero-description">Unsere Zuchthündinnen werden nach Gesundheit, Charakter und Rassetypizität ausgewählt. Alle genetisch getestet und rassestandard-konform. Unsere aktiven Zuchthündinnen Bilquis und Croi Olc sind außerdem frei von degenerativer Myelopathie (Gen SOD1).</p>
   <div class="hero-actions">
   <a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20möchte%20Infos%20zu%20den%20Hündinnen" class="btn btn-primary" title="Kontaktieren Sie uns auf WhatsApp">Kontakt</a>
   <a href="/de/rueden-staffordshire-bull-terrier/" class="btn btn-ghost" title="Unsere Rüden sehen">Rüden Sehen</a>
@@ -41,7 +41,7 @@ custom_content: |
   <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Unsere Hündinnen sind getestet auf:</p>
   <p>✓ <strong>L2HGA</strong> — L-2-Hydroxyglutarazidurie<br>
   ✓ <strong>HC</strong> — Hereditäre Katarakt<br>
-  ✓ <strong>PHPV</strong> — Augenanomalie<br>
+  ✓ <strong>DM-SOD1</strong> — Degenerative Myelopathie<br>
   ✓ <strong>Gebiss</strong> — Vollständiges Scherengebiss</p>
   </div>
   </div>
@@ -71,7 +71,8 @@ custom_content: |
   <div class="female-info">
   <p><strong>Mikrochip:</strong> 380260044647848<br>
   <strong>LOI:</strong> LO22197469</p>
-  <p><strong>Gentests:</strong> L2HGA & HC frei per DNA</p>
+  <p><strong>Gentests:</strong> L2HGA & HC (HSF4) frei per DNA</p>
+  <p><strong>Degenerative Myelopathie (SOD1):</strong> Frei per DNA</p>
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> Pablo iuno sospita plata plomo</p>
   <p><strong>Mutter:</strong> Skilful-dogs Nora</p>
@@ -97,7 +98,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Mikrochip:</strong> 380260160642781<br>
   <strong>LOI:</strong> LO2549181</p>
-  <p><strong>Gentests:</strong> L2HGA & HC frei über Eltern</p>
+  <p><strong>Gentests:</strong> L2HGA & HC (HSF4) frei über Eltern</p>
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> CH. Elitebull Prospect</p>
   <p><strong>Mutter:</strong> Lackyle Bean Croí Olc</p>
@@ -123,7 +124,8 @@ custom_content: |
   <div class="female-info">
   <p><strong>Mikrochip:</strong> 991003001293234<br>
   <strong>LOI:</strong> LO24144140</p>
-  <p><strong>Gentests:</strong> L2HGA & HC frei per DNA</p>
+  <p><strong>Gentests:</strong> L2HGA & HC (HSF4) frei per DNA</p>
+  <p><strong>Degenerative Myelopathie (SOD1):</strong> Frei per DNA</p>
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> Lackyle Trodai Tine</p>
   <p><strong>Mutter:</strong> CH. Lackyle Ogbhean an Diabhal</p>
@@ -147,8 +149,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Mikrochip:</strong> 643094100473511<br>
   <strong>LOI:</strong> LO19125788</p>
-  <p><strong>Gentests:</strong> L2HGA & HC frei per DNA</p>
-  <p><strong>PHPV:</strong> Nicht betroffen</p>
+  <p><strong>Gentests:</strong> L2HGA & HC (HSF4) frei per DNA</p>
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> CH. Dangerous Smile Black Shadow</p>
   <p><strong>Mutter:</strong> CH. Sonrisa Feliz Keely Lariel</p>
@@ -171,7 +172,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Mikrochip:</strong> 276098104987682<br>
   <strong>LOI:</strong> LO1610654</p>
-  <p><strong>Gentests:</strong> L2HGA & HC frei per DNA</p>
+  <p><strong>Gentests:</strong> L2HGA & HC (HSF4) frei per DNA</p>
   <p><strong>PHPV:</strong> Nicht betroffen</p>
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> CH. Hell's Angel</p>
@@ -197,7 +198,7 @@ custom_content: |
   <strong>LOI:</strong> LO1610667</p>
   <p><strong>HD:</strong> B</p>
   <p><strong>ED:</strong> A</p>
-  <p><strong>Gentests:</strong> L2HGA & HC frei per DNA</p>
+  <p><strong>Gentests:</strong> L2HGA & HC (HSF4) frei per DNA</p>
   <p><strong>PHPV:</strong> Nicht betroffen</p>
   <p><strong>Vater:</strong> CH. Kiraloebis Italian Gigalo (Top UK Staffordshire Bull Terrier 2012)</p>
   <p><strong>Mutter:</strong> Lackyle Duilleog Daracha</p>
@@ -221,8 +222,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Mikrochip:</strong> 380260044549631<br>
   <strong>LOI:</strong> LO2222029</p>
-  <p><strong>Gentests:</strong> L2HGA & HC frei per DNA</p>
-  <p><strong>PHPV:</strong> Nicht betroffen</p>
+  <p><strong>Gentests:</strong> L2HGA & HC (HSF4) frei per DNA</p>
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> THE Phenomenal AJ Styles Valconcaclan</p>
   <p><strong>Mutter:</strong> Foyleoak Maiden Derry</p>
@@ -246,9 +246,8 @@ custom_content: |
   <div class="female-info">
   <p><strong>Mikrochip:</strong> 380260004336944<br>
   <strong>LOI:</strong> LO2199721</p>
-  <p><strong>Gentests:</strong> L2HGA & HC frei per DNA</p>
-  <p><strong>Degenerative Myelopathie:</strong> Frei</p>
-  <p><strong>PHPV:</strong> Nicht betroffen</p>
+  <p><strong>Gentests:</strong> L2HGA & HC (HSF4) frei per DNA</p>
+  <p><strong>Degenerative Myelopathie (SOD1):</strong> Frei per DNA</p>
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> Skilful-Dogs Jeghër</p>
   <p><strong>Mutter:</strong> Skilful-Dogs Red Skin</p>

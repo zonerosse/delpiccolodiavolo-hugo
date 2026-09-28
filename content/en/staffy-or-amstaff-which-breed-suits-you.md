@@ -1,6 +1,6 @@
 ---
 title: "Staffy or Amstaff: Which of the Two Breeds Suits You"
-lastmod: 2026-09-27
+lastmod: 2026-09-28
 articolo: true
 image: "/images/blog/staffy-amstaff-hero.webp"
 titleSeo: "Staffy or Amstaff: which breed to choose"

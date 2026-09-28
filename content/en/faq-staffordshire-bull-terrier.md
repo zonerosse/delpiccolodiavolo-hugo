@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier FAQ - Frequently Asked Questions"
-lastmod: 2026-09-20
+lastmod: 2026-09-28
 translationKey: "faq"
 description: "Answers to the most common questions about the Staffordshire Bull Terrier: temperament, health, cost and choosing a breeder."
 slug: "faq-staffordshire-bull-terrier"
@@ -58,7 +58,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How much does a puppy with <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="ENCI breed page" target="_blank" rel="noopener" aria-label="ENCI breed page (opens in a new tab)">ENCI pedigree</a> cost?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">There is no price list: what you pay reflects costs that exist before the puppies are even born. Genetic tests on both parents for L2HGA, HC and PHPV are paid once per dog and last their whole breeding career. Registering the litter with the ENCI stud book has published fees, the same for everyone. Add veterinary visits during pregnancy, the ultrasound at around day 25, the X-ray before whelping, first vaccinations, worming and the microchip. <strong>A very low price almost always means something is missing</strong>: the tests, the pedigree, or puppies separated from their mother before the 60 days required by Italian law. Every puppy leaves with vaccinations, microchip, worming, the parents' test certificates and our support for the dog's whole life.</div>
+  <div class="faq-answer">There is no price list: what you pay reflects costs that exist before the puppies are even born. Genetic tests on both parents for L2HGA and HC are paid once per dog and last their whole breeding career. Registering the litter with the ENCI stud book has published fees, the same for everyone. Add veterinary visits during pregnancy, the ultrasound at around day 25, the X-ray before whelping, first vaccinations, worming and the microchip. <strong>A very low price almost always means something is missing</strong>: the tests, the pedigree, or puppies separated from their mother before the 60 days required by Italian law. Every puppy leaves with vaccinations, microchip, worming, the parents' test certificates and our support for the dog's whole life.</div>
   </div>
   
   <div class="faq-item active">
@@ -66,7 +66,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What genetic tests do you perform on breeding dogs?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">All our breeding dogs are tested for <strong>L2-HGA</strong>, L-2-hydroxyglutaric aciduria, a neurological disease; <strong>HC</strong>, juvenile hereditary cataract; and <strong>PHPV</strong>, a congenital eye anomaly. The first two are established with a DNA test, the third with a specialist ophthalmological examination. All three are recessive: two clear parents cannot produce affected puppies. Carriers are not used for breeding here. The laboratory reports are published on this site and can be downloaded, with the <strong>dog's microchip number in plain sight</strong>: that number is what makes the document verifiable, because without it the report could refer to any dog at all.</div>
+  <div class="faq-answer">All our breeding dogs are tested for <strong>L2-HGA</strong>, L-2-hydroxyglutaric aciduria, a neurological disease, and for <strong>HC</strong>, juvenile hereditary cataract (HSF4 gene); our breeding females are also tested for <strong>degenerative myelopathy</strong> (SOD1 gene), a spinal cord disease that appears after eight years of age. All are DNA tests, and all three diseases are recessive: two clear parents cannot produce affected puppies. L2-HGA and HC carriers are not used for breeding here. The laboratory reports are published on this site and can be downloaded, with the <strong>dog's microchip number in plain sight</strong>: that number is what makes the document verifiable, because without it the report could refer to any dog at all.</div>
   </div>
   
   <div class="faq-item active">
@@ -98,7 +98,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How long does a Staffordshire Bull Terrier live?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Twelve to fourteen years, which is a good life expectancy for a medium-sized dog and among the best in the molosser group. The breed is robust, without the respiratory problems of extreme brachycephalics and without the joint conditions typical of large breeds. The three known hereditary diseases &mdash; L2-HGA, hereditary cataract and PHPV &mdash; are all recessive and are prevented by testing the parents: two clear dogs cannot produce affected puppies. After genetics, the single factor that most affects lifespan is <strong>weight</strong>: an overweight Staffy ages earlier, with joints that wear out and less tolerance to heat. Twelve years is also the commitment you take on when you choose a puppy.</div>
+  <div class="faq-answer">Twelve to fourteen years, which is a good life expectancy for a medium-sized dog and among the best in the molosser group. The breed is robust, without the respiratory problems of extreme brachycephalics and without the joint conditions typical of large breeds. The three hereditary diseases with a DNA test &mdash; L2-HGA, hereditary cataract and degenerative myelopathy &mdash; are all recessive and are prevented by testing the parents: two clear dogs cannot produce affected puppies. After genetics, the single factor that most affects lifespan is <strong>weight</strong>: an overweight Staffy ages earlier, with joints that wear out and less tolerance to heat. Twelve years is also the commitment you take on when you choose a puppy.</div>
   </div>
   
   <div class="faq-item active">

@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier: Charakter, Familienleben und Was Sie Erwarten Können"
 date: 2026-04-28
-lastmod: 2026-09-20
+lastmod: 2026-09-28
 titleSeo: "Staffordshire Bull Terrier: Charakter und Familienleben"
 translationKey: "carattere-famiglia"
 articolo: true
@@ -161,7 +161,7 @@ custom_content: |
   <div class="faq-item">
   <h3 class="faq-question">Wie lange lebt ein Staffordshire Bull Terrier?</h3>
   <div class="faq-answer">
-  <p>Zwölf bis vierzehn Jahre, was für einen mittelgroßen Hund ausgezeichnet ist. Die Rasse ist robust, ohne die Atemprobleme extrem brachyzephaler Rassen und ohne die Gelenkerkrankungen großer Rassen. Die drei bekannten Erbkrankheiten &mdash; L2-HGA, erblicher Katarakt und PHPV &mdash; werden rezessiv vererbt und durch Tests der Elterntiere vermieden. Nach der Genetik beeinflusst nichts die Lebensdauer so stark wie das <strong>Gewicht</strong>: ein übergewichtiger Staffy altert früher, mit stärker belasteten Gelenken und geringerer Hitzetoleranz. Zwölf Jahre sind auch der Zeitraum, für den man sich bindet.</p></div>
+  <p>Zwölf bis vierzehn Jahre, was für einen mittelgroßen Hund ausgezeichnet ist. Die Rasse ist robust, ohne die Atemprobleme extrem brachyzephaler Rassen und ohne die Gelenkerkrankungen großer Rassen. Die drei Erbkrankheiten mit DNA-Test &mdash; L2-HGA, erblicher Katarakt und degenerative Myelopathie &mdash; werden rezessiv vererbt und durch Tests der Elterntiere vermieden. Nach der Genetik beeinflusst nichts die Lebensdauer so stark wie das <strong>Gewicht</strong>: ein übergewichtiger Staffy altert früher, mit stärker belasteten Gelenken und geringerer Hitzetoleranz. Zwölf Jahre sind auch der Zeitraum, für den man sich bindet.</p></div>
   </div>
 
   <div class="faq-item">

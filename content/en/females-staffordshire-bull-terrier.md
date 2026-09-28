@@ -1,10 +1,10 @@
 ---
 title: "Female Staffordshire Bull Terriers"
 titleSeo: "Our female Staffies: microchips and pedigrees"
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 translationKey: "femmine"
-description: "Our female Staffordshire Bull Terriers: Bilquis (Top Dog Junior 2023), Croi Olc, Divine, Kennedy, Derry, Cattleya. L2HGA and HC certified genetic testing."
+description: "Our female Staffordshire Bull Terriers: Bilquis (Top Dog Junior 2023), Croi Olc, Divine, Kennedy, Derry, Cattleya. L2HGA, HC (HSF4) and DM-SOD1 tested."
 slug: "females-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">
@@ -16,8 +16,8 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Selected Breeding Females</span>
   <h1 class="hero-title">Female <br><em>Staffordshire</em> <br>Bull Terriers</h1>
-  <p class="hero-subtitle">DNA tested, L2HGA and HC clear</p>
-  <p class="hero-description">Our breeding females are selected for health, character and breed type. All genetically tested and conforming to breed standard.</p>
+  <p class="hero-subtitle">DNA tested, L2HGA and HC (HSF4) clear</p>
+  <p class="hero-description">Our breeding females are selected for health, character and breed type. All genetically tested and conforming to breed standard. Our active breeding females, Bilquis and Croi Olc, are also clear for degenerative myelopathy (SOD1 gene).</p>
   <div class="hero-actions">
   <a href="https://wa.me/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20the%20females" class="btn btn-primary" title="Contact us on WhatsApp">Contact Us</a>
   <a href="/en/males-staffordshire-bull-terrier/" class="btn btn-ghost" title="See our males">See Males</a>
@@ -54,7 +54,7 @@ custom_content: |
   <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Our females are tested for:</p>
   <p>✓ <strong>L2HGA</strong> — L-2-Hydroxyglutaric Aciduria<br>
   ✓ <strong>HC</strong> — Hereditary Cataracts<br>
-  ✓ <strong>PHPV</strong> — Eye anomaly<br>
+  ✓ <strong>DM-SOD1</strong> — Degenerative myelopathy<br>
   ✓ <strong>Dentition</strong> — Complete scissor bite</p>
   </div>
   </div>
@@ -84,7 +84,8 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 380260044647848<br>
   <strong>LOI:</strong> LO22197469</p>
-  <p><strong>Genetic Tests:</strong> L2HGA & HC clear by DNA</p>
+  <p><strong>Genetic Tests:</strong> L2HGA & HC (HSF4) clear by DNA</p>
+  <p><strong>Degenerative Myelopathy (SOD1):</strong> Clear by DNA</p>
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> Pablo iuno sospita plata plomo</p>
   <p><strong>Dam:</strong> Skilful-dogs Nora</p>
@@ -110,7 +111,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 380260160642781<br>
   <strong>LOI:</strong> LO2549181</p>
-  <p><strong>Genetic Tests:</strong> L2HGA & HC clear by Parents</p>
+  <p><strong>Genetic Tests:</strong> L2HGA & HC (HSF4) clear by Parents</p>
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> CH. Elitebull Prospect</p>
   <p><strong>Dam:</strong> Lackyle Bean Croí Olc</p>
@@ -136,7 +137,8 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 991003001293234<br>
   <strong>LOI:</strong> LO24144140</p>
-  <p><strong>Genetic Tests:</strong> L2HGA & HC clear by DNA</p>
+  <p><strong>Genetic Tests:</strong> L2HGA & HC (HSF4) clear by DNA</p>
+  <p><strong>Degenerative Myelopathy (SOD1):</strong> Clear by DNA</p>
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> Lackyle Trodai Tine</p>
   <p><strong>Dam:</strong> CH. Lackyle Ogbhean an Diabhal</p>
@@ -160,8 +162,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 643094100473511<br>
   <strong>LOI:</strong> LO19125788</p>
-  <p><strong>Genetic Tests:</strong> L2HGA & HC clear by DNA</p>
-  <p><strong>PHPV:</strong> Unaffected</p>
+  <p><strong>Genetic Tests:</strong> L2HGA & HC (HSF4) clear by DNA</p>
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> CH. Dangerous Smile Black Shadow</p>
   <p><strong>Dam:</strong> CH. Sonrisa Feliz Keely Lariel</p>
@@ -184,7 +185,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 276098104987682<br>
   <strong>LOI:</strong> LO1610654</p>
-  <p><strong>Genetic Tests:</strong> L2HGA & HC clear by DNA</p>
+  <p><strong>Genetic Tests:</strong> L2HGA & HC (HSF4) clear by DNA</p>
   <p><strong>PHPV:</strong> Unaffected</p>
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> CH. Hell's Angel</p>
@@ -210,7 +211,7 @@ custom_content: |
   <strong>LOI:</strong> LO1610667</p>
   <p><strong>HD:</strong> B</p>
   <p><strong>ED:</strong> A</p>
-  <p><strong>Genetic Tests:</strong> L2HGA & HC clear by DNA</p>
+  <p><strong>Genetic Tests:</strong> L2HGA & HC (HSF4) clear by DNA</p>
   <p><strong>PHPV:</strong> Unaffected</p>
   <p><strong>Sire:</strong> CH. Kiraloebis Italian Gigalo (Top UK Staffordshire Bull Terrier 2012)</p>
   <p><strong>Dam:</strong> Lackyle Duilleog Daracha</p>
@@ -234,8 +235,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 380260044549631<br>
   <strong>LOI:</strong> LO2222029</p>
-  <p><strong>Genetic Tests:</strong> L2HGA & HC clear by DNA</p>
-  <p><strong>PHPV:</strong> Unaffected</p>
+  <p><strong>Genetic Tests:</strong> L2HGA & HC (HSF4) clear by DNA</p>
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> THE Phenomenal AJ Styles Valconcaclan</p>
   <p><strong>Dam:</strong> Foyleoak Maiden Derry</p>
@@ -259,9 +259,8 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 380260004336944<br>
   <strong>LOI:</strong> LO2199721</p>
-  <p><strong>Genetic Tests:</strong> L2HGA & HC clear by DNA</p>
-  <p><strong>Degenerative Myelopathy:</strong> Clear</p>
-  <p><strong>PHPV:</strong> Unaffected</p>
+  <p><strong>Genetic Tests:</strong> L2HGA & HC (HSF4) clear by DNA</p>
+  <p><strong>Degenerative Myelopathy (SOD1):</strong> Clear by DNA</p>
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> Skilful-Dogs Jeghër</p>
   <p><strong>Dam:</strong> Skilful-Dogs Red Skin</p>

@@ -1,6 +1,6 @@
 # Del Piccolo Diavolo — Staffordshire Bull Terrier Kennel
 
-> Ethical Staffordshire Bull Terrier kennel, active since 2013 in Ostellato (Ferrara, Emilia-Romagna, Italy). Responsible selection focused on health, breed type and temperament. Puppies released with ENCI pedigree, genetic testing of the breeding stock (L2HGA and HC), microchip, vaccinations and lifelong support for the family.
+> Ethical Staffordshire Bull Terrier kennel, active since 2013 in Ostellato (Ferrara, Emilia-Romagna, Italy). Responsible selection focused on health, breed type and temperament. Puppies released with ENCI pedigree, genetic testing of the breeding stock (L2HGA and HC, HSF4 gene; degenerative myelopathy, SOD1 gene, on the active breeding females), microchip, vaccinations and lifelong support for the family.
 
 Useful information about this site:
 
@@ -62,7 +62,7 @@ Useful information about this site:
 
 ## Health and selection
 
-- [Genetic testing L2HGA and HC](https://delpiccolodiavolo.it/en/staffy-genetic-testing-l2hga-hc/): hereditary conditions tested in the breeding stock.
+- [Genetic testing L2-HGA, HC (HSF4) and DM (SOD1)](https://delpiccolodiavolo.it/en/staffy-genetic-testing-l2hga-hc/): hereditary conditions tested in the breeding stock: L2-HGA, hereditary cataract (HSF4 gene) and degenerative myelopathy (SOD1 gene), what they are and how to read the reports.
 - [BOAS and breathing](https://delpiccolodiavolo.it/en/boas-staffordshire-bull-terrier-breathing/): why respiratory function is a selection criterion.
 - [Dental health](https://delpiccolodiavolo.it/en/staffy-dental-health/): dental care and prevention.
 - [Parasite prevention](https://delpiccolodiavolo.it/en/staffy-parasite-prevention/): antiparasitic protocols and checks.

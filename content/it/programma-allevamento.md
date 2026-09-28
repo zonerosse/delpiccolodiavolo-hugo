@@ -1,7 +1,7 @@
 ---
 title: "Programma allevamento Staffordshire Bull Terrier"
 titleSeo: "Cucciolate programmate: accoppiamenti e criteri di selezione"
-lastmod: 2026-09-20
+lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 translationKey: "programma"
 description: "Programma di allevamento Staffordshire Bull Terrier: criteri di selezione, salute, test genetici e storico delle cucciolate passate e future."
@@ -14,7 +14,7 @@ correlati:
     testo: "Morfologia e criteri di valutazione"
   - url: "/test-genetici-l2hga-hc-staffy/"
     titolo: "Test genetici"
-    testo: "L2-HGA, HC e PHPV sui riproduttori"
+    testo: "L2-HGA e HC sui riproduttori, DM-SOD1 sulle fattrici"
   - url: "/boas-staffordshire-bull-terrier-respirazione/"
     titolo: "BOAS e respirazione"
     testo: "Un criterio di selezione spesso ignorato"
@@ -81,10 +81,10 @@ custom_content: |
   <h2 class="section-title">Come selezioniamo i riproduttori</h2>
 
   <div class="intro-block">
-  <p>Un accoppiamento a Del Piccolo Diavolo si programma con mesi di anticipo e segue sempre lo stesso percorso. Si parte dai test genetici dei due riproduttori per L2HGA, HC e PHPV, poi si studiano i pedigree su SBTPedigree con la funzione di prova di accoppiamento, che mostra il coefficiente di consanguineità teorico dei cuccioli e su quali antenati si concentra. La forbice entro cui ci muoviamo va dal 6 al 9 per cento: sotto si perde la possibilità di fissare un carattere, sopra si stringe troppo. Il maschio arriva quasi sempre da fuori, scelto per correggere quello che manca alla femmina e non per sommare due cani belli. Il risultato è una cucciolata l'anno, occasionalmente due, in alcuni anni nessuna: se il momento giusto non arriva, quell'anno non nasce niente.</p>
+  <p>Un accoppiamento a Del Piccolo Diavolo si programma con mesi di anticipo e segue sempre lo stesso percorso. Si parte dai test genetici dei due riproduttori per L2HGA e HC, e per la fattrice anche per DM-SOD1, poi si studiano i pedigree su SBTPedigree con la funzione di prova di accoppiamento, che mostra il coefficiente di consanguineità teorico dei cuccioli e su quali antenati si concentra. La forbice entro cui ci muoviamo va dal 6 al 9 per cento: sotto si perde la possibilità di fissare un carattere, sopra si stringe troppo. Il maschio arriva quasi sempre da fuori, scelto per correggere quello che manca alla femmina e non per sommare due cani belli. Il risultato è una cucciolata l'anno, occasionalmente due, in alcuni anni nessuna: se il momento giusto non arriva, quell'anno non nasce niente.</p>
 
   <p>Il nostro programma di allevamento si basa sulla selezione attenta di riproduttori sani, equilibrati e conformi allo standard. Ogni soggetto viene valutato per morfologia, carattere e salute genetica prima di entrare nel programma riproduttivo.</p>
-  <p>Lavoriamo con le migliori linee di sangue inglesi (Elitebull) e irlandesi (Lackyle), selezionando riproduttori che abbiano dimostrato qualità in esposizione e che possiedano test genetici completi per L2HGA, HC e PHPV.</p>
+  <p>Lavoriamo con le migliori linee di sangue inglesi (Elitebull) e irlandesi (Lackyle), selezionando riproduttori che abbiano dimostrato qualità in esposizione e che possiedano i test genetici per L2HGA e HC.</p>
   <p>La selezione non si limita all'aspetto estetico: il temperamento equilibrato, la socievolezza e la capacità di adattarsi alla vita familiare sono criteri fondamentali nella scelta dei nostri riproduttori.</p>
   <p>Per sapere cosa include ogni affido e quanto costa un cucciolo, leggi la nostra guida su <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p>
   </div>
@@ -273,7 +273,7 @@ custom_content: |
   <span class="section-label">Salute</span>
   <h2>Cosa testiamo prima di ogni accoppiamento</h2>
 
-  <p>Nessun riproduttore entra nel programma senza i test per <strong>L2HGA</strong> e <strong>HC</strong>, le due malattie genetiche della razza, pi&ugrave; il controllo oculistico per il <strong>PHPV</strong>. I referti sono pubblicati sulle pagine dei cani, con il numero di microchip in chiaro.</p>
+  <p>Nessun riproduttore entra nel programma senza i test per <strong>L2HGA</strong> e <strong>HC</strong>, le due malattie genetiche della razza; le fattrici sono testate anche per la <strong>mielopatia degenerativa (DM-SOD1)</strong>. I referti sono pubblicati sulle pagine dei cani, con il numero di microchip in chiaro.</p>
 
   <p>Come funzionano quei test, cosa significano gli esiti e perch&eacute; due portatori sani non vanno mai accoppiati fra loro: lo spieghiamo nella <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">pagina dedicata ai test genetici</a>.</p>
 

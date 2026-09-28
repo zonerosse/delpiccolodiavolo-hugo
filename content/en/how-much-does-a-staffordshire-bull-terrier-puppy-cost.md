@@ -1,6 +1,6 @@
 ---
 title: "How Much Does a Staffordshire Bull Terrier Puppy Cost in 2026"
-lastmod: 2026-09-27
+lastmod: 2026-09-28
 articolo: true
 image: "/images/blog/scontrino-farmaci-cucciolata.webp"
 titleSeo: "Staffordshire Bull Terrier puppy price explained"
@@ -33,7 +33,7 @@ date: 2026-01-25
 <span>What a puppy costs</span>
 </nav>
 
-The price of a Staffordshire Bull Terrier puppy with an ENCI pedigree is not a list price: it is the sum of costs that exist before the puppy is born. Genetic tests on the two breeding dogs for L2HGA, HC and PHPV are paid once per dog and hold for the whole of their breeding career. Registering the litter in the ENCI stud book has public fees, the same for everyone. On top of these come the vet checks during pregnancy, the ultrasound around day twenty-five, the X-ray before whelping, the first vaccinations, worming and the microchip. At the Del Piccolo Diavolo kennel in Ostellato, Italy, a litter of six puppies costs about 2,000 euros before vaccinations and microchips, and over 4,000 with a stud dog abroad and a caesarean. A very low price almost always means something is missing: the tests, the pedigree, or puppies separated from their mother before the 60 days required by Italian law.
+The price of a Staffordshire Bull Terrier puppy with an ENCI pedigree is not a list price: it is the sum of costs that exist before the puppy is born. Genetic tests on the two breeding dogs for L2HGA and HC are paid once per dog and hold for the whole of their breeding career. Registering the litter in the ENCI stud book has public fees, the same for everyone. On top of these come the vet checks during pregnancy, the ultrasound around day twenty-five, the X-ray before whelping, the first vaccinations, worming and the microchip. At the Del Piccolo Diavolo kennel in Ostellato, Italy, a litter of six puppies costs about 2,000 euros before vaccinations and microchips, and over 4,000 with a stud dog abroad and a caesarean. A very low price almost always means something is missing: the tests, the pedigree, or puppies separated from their mother before the 60 days required by Italian law.
 
 The short answer: **there is no price list, and that is as it should be**. What you can assess is what sits inside the price when you buy from a serious breeder with an ENCI pedigree, genetic testing and full guarantees.
 

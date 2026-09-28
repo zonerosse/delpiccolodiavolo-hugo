@@ -1,7 +1,7 @@
 ---
 title: "Linee di Sangue Staffordshire Bull Terrier: Storia e Genealogia"
 date: 2025-11-08
-lastmod: 2026-09-20
+lastmod: 2026-09-28
 titleSeo: "Linee di sangue Staffordshire Bull Terrier: storia"
 translationKey: "linee-sangue"
 articolo: true
@@ -77,7 +77,7 @@ custom_content: |
   
   <div class="alert">
   <p class="alert-title">⚠️ Attenzione all'Inbreeding</p>
-  <p>L'importanza storica di Gentleman Jim ha un lato negativo: la sua presenza ubiqua nei pedigree moderni ha ridotto la diversità genetica della razza. Per questo motivo, <strong>il nostro allevamento</strong> utilizza test genetici completi (L2-HGA, HC, PHPV) su tutti i riproduttori.</p>
+  <p>L'importanza storica di Gentleman Jim ha un lato negativo: la sua presenza ubiqua nei pedigree moderni ha ridotto la diversità genetica della razza. Per questo motivo, <strong>il nostro allevamento</strong> testa tutti i riproduttori per L2-HGA e HC, e le fattrici anche per la mielopatia degenerativa (DM-SOD1).</p>
   </div>
   
   <h2>Le Sei Linee Fondatrici: Analisi Dettagliata</h2>
@@ -138,7 +138,7 @@ custom_content: |
   
   <p><strong>Hereditary Cataract (HC-HSF4)</strong> - Causa cataratta giovanile che può portare alla cecità. Ereditata in modo autosomico recessivo.</p>
   
-  <p><strong>PHPV</strong> - Una malformazione oculare congenita che può causare cecità.</p>
+  <p><strong>Mielopatia degenerativa (DM-SOD1)</strong> - Una malattia del midollo spinale che compare dopo gli otto anni e porta progressivamente alla paralisi.</p>
   
   <h3>Coefficiente di Consanguineità (COI)</h3>
   
@@ -232,7 +232,7 @@ custom_content: |
   <div class="checklist">
   <p class="checklist-title">✅ Come Scegliere un Allevatore Responsabile</p>
   <ul>
-  <li>☐ Fornisce certificati di test genetici completi (L2-HGA, HC, PHPV)</li>
+  <li>☐ Fornisce certificati di test genetici (L2-HGA, HC, DM-SOD1)</li>
   <li>☐ Conosce e può spiegare le linee di sangue dei propri cani</li>
   <li>☐ Mantiene COI inferiori al 6% quando possibile</li>
   <li>☐ Mostra i genitori e l'ambiente di allevamento</li>

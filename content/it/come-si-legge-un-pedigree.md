@@ -2,7 +2,7 @@
 title: "Come si legge un pedigree: ENCI e SBTPedigree"
 titleSeo: "Come si legge un pedigree: cosa dice l'ENCI e cosa no"
 date: 2026-09-09
-lastmod: 2026-09-26
+lastmod: 2026-09-28
 translationKey: "leggere-pedigree"
 articolo: true
 image: "/images/blog/pedigree-queen-hero.webp"
@@ -56,7 +56,7 @@ custom_content: |
   <p>Non contiene nemmeno:</p>
 
   <ul>
-  <li><strong>i test genetici</strong> &mdash; L2HGA, HC e PHPV non compaiono</li>
+  <li><strong>i test genetici</strong> &mdash; L2HGA, HC e DM-SOD1 non compaiono</li>
   <li><strong>cosa hanno prodotto</strong> quei soggetti nelle loro cucciolate</li>
   </ul>
 

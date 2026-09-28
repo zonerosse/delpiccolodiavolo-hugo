@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier: è il cane giusto per te? Pro e contro"
 date: 2026-08-01
-lastmod: 2026-09-26
+lastmod: 2026-09-28
 titleSeo: "Staffordshire Bull Terrier: è il cane giusto per te?"
 translationKey: "cane-giusto"
 articolo: true
@@ -162,7 +162,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Quanto vive uno Staffordshire Bull Terrier?</h3>
-  <div class="faq-answer">Dodici-quattordici anni, un'ottima aspettativa per un cane di taglia media. La razza &egrave; robusta e non ha n&eacute; le problematiche respiratorie dei brachicefali estremi n&eacute; le patologie articolari tipiche delle taglie grandi. Le tre patologie ereditarie note &mdash; L2-HGA, cataratta ereditaria e PHPV &mdash; sono tutte recessive e si prevengono testando i riproduttori: due genitori esenti non possono produrre cuccioli malati. Dopo la genetica, la cosa che incide di pi&ugrave; sulla durata della vita &egrave; il <strong>peso</strong>: uno Staffy in sovrappeso invecchia prima, con articolazioni che si consumano e minore tolleranza al caldo. Dodici anni sono anche il periodo per cui ci si impegna quando si prende un cucciolo.</div>
+  <div class="faq-answer">Dodici-quattordici anni, un'ottima aspettativa per un cane di taglia media. La razza &egrave; robusta e non ha n&eacute; le problematiche respiratorie dei brachicefali estremi n&eacute; le patologie articolari tipiche delle taglie grandi. Le tre patologie ereditarie con un test del DNA &mdash; L2-HGA, cataratta ereditaria e mielopatia degenerativa &mdash; sono tutte recessive e si prevengono testando i riproduttori: due genitori esenti non possono produrre cuccioli malati. Dopo la genetica, la cosa che incide di pi&ugrave; sulla durata della vita &egrave; il <strong>peso</strong>: uno Staffy in sovrappeso invecchia prima, con articolazioni che si consumano e minore tolleranza al caldo. Dodici anni sono anche il periodo per cui ci si impegna quando si prende un cucciolo.</div>
   </div>
   
   </section>

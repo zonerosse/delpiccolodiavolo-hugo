@@ -8,7 +8,7 @@
 #
 # {{ if eq $lang "de" }}Züchter{{ else if eq $lang "en" }}Breeder{{ else }}Allevatore{{ end }}: Paolo Boldrini · Ostellato (FE), Emilia-Romagna, {{ if eq $lang "de" }}Italien{{ else if eq $lang "en" }}Italy{{ else }}Italia{{ end }}
 # {{ if eq $lang "de" }}Rasse{{ else if eq $lang "en" }}Breed{{ else }}Razza{{ end }}: Staffordshire Bull Terrier · {{ if eq $lang "de" }}Aktiv seit 2013{{ else if eq $lang "en" }}Active since 2013{{ else }}Attivo dal 2013{{ end }}
-# ENCI {{ if eq $lang "de" }}Ahnentafel · Gentests L2HGA, HC und PHPV bei allen Zuchttieren{{ else if eq $lang "en" }}pedigree · L2HGA, HC and PHPV testing on every breeding dog{{ else }}pedigree · Test genetici L2HGA, HC e PHPV su tutti i riproduttori{{ end }}
+# ENCI {{ if eq $lang "de" }}Ahnentafel · Gentests L2HGA und HC (HSF4) bei allen Zuchttieren, DM-SOD1 bei den Zuchthündinnen{{ else if eq $lang "en" }}pedigree · L2HGA and HC (HSF4) testing on every breeding dog, DM-SOD1 on the breeding females{{ else }}pedigree · Test genetici L2HGA e HC (HSF4) su tutti i riproduttori, DM-SOD1 sulle fattrici{{ end }}
 # {{ if eq $lang "de" }}Kontakt{{ else if eq $lang "en" }}Contact{{ else }}Contatti{{ end }}: WhatsApp +39 392 4635584 · zonerosse@gmail.com
 #
 {{ if eq $lang "de" -}}

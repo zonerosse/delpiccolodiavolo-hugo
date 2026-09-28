@@ -1,11 +1,12 @@
 ---
-title: "Genetic Testing L2-HGA and HC for Staffordshire Bull Terrier"
+title: "Genetic Testing L2-HGA, HC (HSF4) and DM (SOD1) for Staffordshire Bull Terrier"
+titleSeo: "Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)"
 date: 2025-11-20
-lastmod: 2026-09-20
+lastmod: 2026-09-28
 translationKey: "test-genetici"
 articolo: true
 image: "/images/blog/salute-1.webp"
-description: "Complete guide to L2-HGA and HC genetic tests for Staffy: what they are, why they are essential, how to interpret results and choose a responsible breeder."
+description: "Genetic testing in the Staffordshire Bull Terrier: L2-HGA, hereditary cataract HC (HSF4) and degenerative myelopathy (SOD1). What they are and how to read them."
 slug: "staffy-genetic-testing-l2hga-hc"
 custom_content: |
   <section class="hero">
@@ -16,7 +17,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Health and Wellness</span>
-  <h1 class="hero-title">Genetic Testing <em>L2-HGA and HC</em></h1>
+  <h1 class="hero-title">Genetic Testing <em>L2-HGA, HC and DM</em></h1>
   <p class="hero-subtitle">Complete guide for Staffordshire Bull Terrier</p>
   <div class="hero-meta">
   <span>📅 November 20, 2025</span>
@@ -66,7 +67,7 @@ custom_content: |
   </ul>
   <p>The disease is <strong>progressive and incurable</strong>. Affected dogs have a badly compromised quality of life and are frequently euthanised on humane grounds. There is no treatment, only symptomatic management of the seizures — and that is the point: this is an entirely preventable condition, and no puppy should ever be born with it.</p>
 
-  <h2>Hereditary cataract: what it is and how it presents</h2>
+  <h2>Hereditary cataract (HC, HSF4 gene): what it is and how it presents</h2>
   <p>Hereditary cataract in this breed, caused by a mutation in the HSF4 gene, is not the age-related cataract seen in older dogs of any breed. It appears early, typically between 4 months and 3 years, and it is bilateral and progressive.</p>
   <p>The lens becomes progressively opaque and the dog loses sight, usually completely, often before its third birthday. Surgery can restore useful vision in selected cases but is expensive, is not always successful, and requires a specialist ophthalmologist. Again, the disease is entirely avoidable by testing before the mating rather than treating after the diagnosis.</p>
 
@@ -80,6 +81,14 @@ custom_content: |
   </ul>
   <p>Unlike L2-HGA, cataract can be operated on with good results, but surgery is expensive and the aftercare is demanding. Prevention through testing remains by far the better route.</p>
 
+  <h2>Degenerative myelopathy (DM, SOD1 gene): what it is and how it presents</h2>
+  
+  <p><strong>Degenerative myelopathy</strong> is a disease of the spinal cord that appears late in life, usually after eight years of age. It starts with an unsteady gait in the hind legs and gets progressively worse until paralysis, over a few months to a couple of years. There is no cure. The main mutation, in exon 2 of the <strong>SOD1</strong> gene, was described in 2009 and is found in many breeds. It is inherited recessively: the risk concerns dogs that carry two copies, although not all of them fall ill. Precisely because it shows so late, an at-risk dog may already have had several litters before the first signs appear: a DNA test is the only way to know in time. An N/N result, or "wild type homozygous", means the dog does not carry the mutation and cannot pass it on.</p>
+  
+  <p>Here the SOD1 test is N/N, meaning clear, for our two active breeding females, Bilquis and Croi Olc, and for Nora: the reports, with the microchip number, are on the <a href="/en/females-staffordshire-bull-terrier/" title="Female Staffordshire Bull Terriers">females page</a>.</p>
+  
+  <p class="fonti">Sources: <a href="https://www.pnas.org/doi/10.1073/pnas.0812297106" target="_blank" rel="noopener" title="Awano et al., PNAS 2009">Awano et al., PNAS 2009</a>; <a href="https://vgl.ucdavis.edu/test/degenerative-myelopathy" target="_blank" rel="noopener" title="UC Davis Veterinary Genetics Laboratory">UC Davis Veterinary Genetics Laboratory</a>.</p>
+  
   <h2>How the tests work</h2>
   <p>The tests are DNA based and straightforward. A cheek swab or a small blood sample is taken, ideally by the veterinarian who also verifies the dog's microchip so that the sample is unambiguously linked to that animal, and sent to an accredited laboratory. The result arrives within 2 to 4 weeks and is valid for life: the DNA does not change, so a dog is tested once and never again.</p>
   <p>Costs vary by laboratory and country, but for both tests together expect something in the region of around 120 euros for the genetic panel at the laboratory, rising to roughly 400 per dog once you add the veterinary sampling, the shipping and the eye examination. Compared with the cost of a lifetime of anticonvulsants, or of cataract surgery, or of the grief of a family, it is a trivial figure. It is also the reason no serious breeder considers it a discretionary expense.</p>
@@ -157,7 +166,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3>Does the test need repeating every year?</h3>
-  <div class="faq-answer">No, never. The test reads the dog's DNA, which does not change over its lifetime: a dog that came back clear at six months is still clear at ten years. The report is definitive and covers the whole breeding career. This applies to the genetic tests proper &mdash; L2-HGA and hereditary cataract &mdash; but not to <strong>PHPV</strong>, which is not a DNA test but an eye examination: that records the state of the eye at that moment, and in some countries it is repeated periodically for breeding stock. One thing not to confuse with either is clearance by parentage, which is not a test performed on the dog but an inference from its parents.</div>
+  <div class="faq-answer">No, never. The test reads the dog's DNA, which does not change over its lifetime: a dog that came back clear at six months is still clear at ten years. The report is definitive and covers the whole breeding career. This applies to the genetic tests proper &mdash; L2-HGA, hereditary cataract and degenerative myelopathy &mdash; but not to <strong>PHPV</strong>, which is not a DNA test but an eye examination: that records the state of the eye at that moment, and the official certificate is valid for one year, so on a breeding dog it should be repeated every year. That is why a serious kennel relies on DNA tests, which are done once and never expire. One thing not to confuse with either is clearance by parentage, which is not a test performed on the dog but an inference from its parents.</div>
   </div>
 
   <div class="faq-item">

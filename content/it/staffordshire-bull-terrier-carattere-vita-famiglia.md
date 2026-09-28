@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier: Carattere, Vita in Famiglia e Cosa Aspettarsi"
 date: 2026-04-28
-lastmod: 2026-09-20
+lastmod: 2026-09-28
 titleSeo: "Staffordshire Bull Terrier: carattere e vita in famiglia"
 translationKey: "carattere-famiglia"
 articolo: true
@@ -152,7 +152,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3 class="faq-question">Quanto vive uno Staffordshire Bull Terrier?</h3>
-  <div class="faq-answer">Dodici-quattordici anni, che &egrave; un'ottima aspettativa per un cane di taglia media e fra le migliori nel gruppo dei molossoidi. La razza &egrave; robusta, senza le problematiche respiratorie dei brachicefali estremi e senza le patologie articolari tipiche delle taglie grandi. Le tre patologie ereditarie note &mdash; L2-HGA, cataratta ereditaria e PHPV &mdash; si prevengono testando i riproduttori, perch&eacute; sono tutte recessive: due genitori esenti non possono produrre cuccioli malati. A valle della genetica, la cosa che incide di pi&ugrave; sulla durata della vita &egrave; il <strong>peso</strong>: uno Staffy in sovrappeso invecchia prima, con articolazioni che si consumano e minor tolleranza al caldo. Dodici anni sono il periodo per cui ci si impegna prendendo un cucciolo.</div>
+  <div class="faq-answer">Dodici-quattordici anni, che &egrave; un'ottima aspettativa per un cane di taglia media e fra le migliori nel gruppo dei molossoidi. La razza &egrave; robusta, senza le problematiche respiratorie dei brachicefali estremi e senza le patologie articolari tipiche delle taglie grandi. Le tre patologie ereditarie con un test del DNA &mdash; L2-HGA, cataratta ereditaria e mielopatia degenerativa &mdash; si prevengono testando i riproduttori, perch&eacute; sono tutte recessive: due genitori esenti non possono produrre cuccioli malati. A valle della genetica, la cosa che incide di pi&ugrave; sulla durata della vita &egrave; il <strong>peso</strong>: uno Staffy in sovrappeso invecchia prima, con articolazioni che si consumano e minor tolleranza al caldo. Dodici anni sono il periodo per cui ci si impegna prendendo un cucciolo.</div>
   </div>
 
   <div class="faq-item">

@@ -1,6 +1,6 @@
 ---
 title: "Allevamento Staffordshire Bull Terrier"
-lastmod: 2026-09-20
+lastmod: 2026-09-28
 translationKey: "home"
 description: "Allevamento etico di Staffordshire Bull Terrier dal 2013. Pedigree ENCI, referti dei test genetici e microchip dei riproduttori pubblicati e verificabili."
 correlati:
@@ -26,7 +26,7 @@ custom_content: |
   <span class="hero-eyebrow"><a href="/recensioni/" title="Leggi le recensioni" style="color:inherit;text-decoration:none">⭐ <!--REC-VOTO--> su <!--REC-TOTALE--> recensioni →</a></span>
   <h1 class="hero-title">Allevamento <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo - Selezione, salute e carattere</p>
-  <p class="hero-description">A Ostellato (FE) dal 2013. Riproduttori testati per L2HGA, HC e PHPV, con i referti pubblicati e il microchip in chiaro. 1 Campione Italiano, 2 Giovani Campioni Italiani, 4&deg; al World Dog Show.</p>
+  <p class="hero-description">A Ostellato (FE) dal 2013. Riproduttori testati per L2HGA e HC (HSF4), le fattrici anche per DM-SOD1, con i referti pubblicati e il microchip in chiaro. 1 Campione Italiano, 2 Giovani Campioni Italiani, 4&deg; al World Dog Show.</p>
   <div class="hero-actions">
   <a href="/cuccioli-staffordshire-bull-terrier/" class="btn btn-primary" title="Cuccioli Staffordshire Bull Terrier disponibili">Cuccioli Staffordshire Bull Terrier</a>
   <a href="/allevamento-staffordshire-bull-terrier-in-emilia-romagna/" class="btn btn-ghost" title="Contattaci">Contattaci</a>
@@ -41,14 +41,16 @@ custom_content: |
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
   <span>L2HGA Clear</span>
-  <span>HC Clear</span>
+  <span>HC (HSF4) Clear</span>
+  <span>DM-SOD1 Clear</span>
   <span>Campioni Italiani</span>
   <span>Pedigree ENCI · FCI</span>
   <span>Ostellato FE</span>
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
   <span>L2HGA Clear</span>
-  <span>HC Clear</span>
+  <span>HC (HSF4) Clear</span>
+  <span>DM-SOD1 Clear</span>
   <span>Campioni Italiani</span>
   <span>Pedigree ENCI · FCI</span>
   <span>Ostellato FE</span>
@@ -91,7 +93,7 @@ custom_content: |
 
   <p>A volte si capisce meglio un allevamento da quello che non fa.</p>
 
-  <p>L'allevamento Del Piccolo Diavolo, a Ostellato in provincia di Ferrara, non ha cuccioli di Staffordshire Bull Terrier disponibili tutto l'anno: nasce una cucciolata l'anno, occasionalmente due, in alcuni anni nessuna. Non spedisce cani con corrieri n&eacute; in stiva, e non consegna a met&agrave; strada: chi prende un cucciolo viene a Ostellato e vede la madre e il posto dove &egrave; cresciuto. Ogni cucciolo esce con il certificato genealogico ENCI, che non &egrave; un extra e non si paga a parte, dopo i 60 giorni previsti dalla legge italiana. I riproduttori sono testati per L2HGA, HC e PHPV, e i referti di laboratorio &mdash; con il numero di microchip del cane sopra &mdash; sono pubblicati sul sito e scaricabili senza doverli chiedere.</p>
+  <p>L'allevamento Del Piccolo Diavolo, a Ostellato in provincia di Ferrara, non ha cuccioli di Staffordshire Bull Terrier disponibili tutto l'anno: nasce una cucciolata l'anno, occasionalmente due, in alcuni anni nessuna. Non spedisce cani con corrieri n&eacute; in stiva, e non consegna a met&agrave; strada: chi prende un cucciolo viene a Ostellato e vede la madre e il posto dove &egrave; cresciuto. Ogni cucciolo esce con il certificato genealogico ENCI, che non &egrave; un extra e non si paga a parte, dopo i 60 giorni previsti dalla legge italiana. I riproduttori sono testati per L2HGA e HC (gene HSF4), le fattrici in attività anche per la mielopatia degenerativa (gene SOD1), e i referti di laboratorio &mdash; con il numero di microchip del cane sopra &mdash; sono pubblicati sul sito e scaricabili senza doverli chiedere.</p>
 
   <p><strong>Non abbiamo cuccioli tutto l'anno.</strong> Una cucciolata, occasionalmente due, a volte nessuna. Se ci scrivi in un momento in cui non ce ne sono, la risposta &egrave; che non ce ne sono: non ti proponiamo il cucciolo di un conoscente n&eacute; ti mettiamo fretta su una cucciolata futura.</p>
 
@@ -120,7 +122,7 @@ custom_content: |
   <div class="intro-block" style="text-align:left">
   <p>Del Piccolo Diavolo è un allevamento di Staffordshire Bull Terrier — lo Staffy, come lo chiamano gli appassionati — a <strong>Ostellato, in provincia di Ferrara</strong>, attivo dal <strong>2013</strong>. Paolo Boldrini segue la razza da oltre vent'anni e alleva da dodici: due numeri diversi che raccontano la stessa cosa, cioè che l'allevamento è nato dopo un lungo periodo di studio, non prima.</p>
 
-  <p>Facciamo <strong>una cucciolata l'anno, occasionalmente due, a volte nessuna</strong>, mai su richiesta. Tutti i riproduttori sono testati per <strong>L2HGA, HC e PHPV</strong>, e i referti di laboratorio sono pubblicati sul sito: chiunque può scaricarli e leggere nome del cane e numero di microchip, senza chiederci niente. I cuccioli vengono affidati con <strong>pedigree ENCI</strong>, microchip e vaccinazioni in regola, dopo essere nati e cresciuti in casa il primo mese, e poi passati in un box dedicato con sfogo esterno, a contatto quotidiano con persone, rumori domestici e altri animali.</p>
+  <p>Facciamo <strong>una cucciolata l'anno, occasionalmente due, a volte nessuna</strong>, mai su richiesta. Tutti i riproduttori sono testati per <strong>L2HGA e HC (gene HSF4)</strong>, le fattrici in attività anche per la <strong>mielopatia degenerativa (gene SOD1)</strong>, e i referti di laboratorio sono pubblicati sul sito: chiunque può scaricarli e leggere nome del cane e numero di microchip, senza chiederci niente. I cuccioli vengono affidati con <strong>pedigree ENCI</strong>, microchip e vaccinazioni in regola, dopo essere nati e cresciuti in casa il primo mese, e poi passati in un box dedicato con sfogo esterno, a contatto quotidiano con persone, rumori domestici e altri animali.</p>
 
   <p>Sul piano dei risultati in esposizione, i cani allevati qui hanno ottenuto <strong>1 titolo di Campione Italiano</strong>, <strong>2 Giovani Campioni Italiani</strong> — uno dei quali anche Campione Sloveno — e un soggetto Giovane Campione e Campione di San Marino, un <strong>4° posto al World Dog Show</strong> con Bilquis Goddess Diabhal, e a maggio 2026 il titolo di <strong>Giovane Campionessa Italiana</strong> per Queen of California. Lavoriamo con le linee di sangue inglesi e irlandesi, in particolare Elitebull e Lackyle.</p>
 
@@ -219,7 +221,7 @@ custom_content: |
   <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center;display:flex;flex-direction:column;height:100%">
   <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Cattleya Del Piccolo Diavolo at Valconcaclan</h3>
   <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Giovane Campionessa e Campionessa di San Marino</p>
-  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Giovane Campionessa di San Marino nel 2023, Campionessa di San Marino nel 2024. Nata e allevata da noi, oggi di proprietà di Ricarda Mazzola Wagner (Valconcaclan). L2HGA e HC clear, PHPV unaffected, dentatura completa a forbice.</p>
+  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Giovane Campionessa di San Marino nel 2023, Campionessa di San Marino nel 2024. Nata e allevata da noi, oggi di proprietà di Ricarda Mazzola Wagner (Valconcaclan). L2HGA e HC (HSF4) clear, dentatura completa a forbice.</p>
   </div>
 
   </div>
@@ -254,7 +256,7 @@ custom_content: |
   <span>Quanto costa uno Staffordshire con pedigree ENCI?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Non esiste un listino: quello che si paga riflette costi che esistono prima della nascita dei cuccioli. I test genetici dei riproduttori per L2HGA, HC e PHPV, l'iscrizione della cucciolata al libro genealogico ENCI con tariffe pubbliche, le visite veterinarie in gravidanza, l'ecografia e la radiografia prima del parto, le prime vaccinazioni, le sverminazioni e il microchip. <strong>Un prezzo molto basso quasi sempre significa che manca qualcosa</strong>: i test, il pedigree, o cuccioli separati dalla madre prima dei 60 giorni previsti dalla legge. Ogni cucciolo parte con vaccinazioni, microchip, sverminazioni, certificati dei test dei genitori e il nostro supporto per tutta la vita del cane.</div>
+  <div class="faq-answer">Non esiste un listino: quello che si paga riflette costi che esistono prima della nascita dei cuccioli. I test genetici dei riproduttori per L2HGA e HC, l'iscrizione della cucciolata al libro genealogico ENCI con tariffe pubbliche, le visite veterinarie in gravidanza, l'ecografia e la radiografia prima del parto, le prime vaccinazioni, le sverminazioni e il microchip. <strong>Un prezzo molto basso quasi sempre significa che manca qualcosa</strong>: i test, il pedigree, o cuccioli separati dalla madre prima dei 60 giorni previsti dalla legge. Ogni cucciolo parte con vaccinazioni, microchip, sverminazioni, certificati dei test dei genitori e il nostro supporto per tutta la vita del cane.</div>
   </div>
 
   <div class="faq-item active">
@@ -262,7 +264,7 @@ custom_content: |
   <span>Quali test genetici fate sui riproduttori?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Tutti i nostri riproduttori sono testati per <strong>L2-HGA</strong>, l'aciduria L-2-idrossiglutarica, una malattia neurologica; <strong>HC</strong>, la cataratta ereditaria giovanile; e <strong>PHPV</strong>, un'anomalia congenita dell'occhio. Le prime due si accertano con un test del DNA, la terza con una visita oftalmologica specialistica. Sono tutte a trasmissione recessiva: due genitori esenti non possono produrre cuccioli malati. I portatori non entrano in riproduzione. I referti di laboratorio sono pubblicati su questo sito e scaricabili, con il <strong>numero di microchip del cane in chiaro</strong>: &egrave; quel numero a rendere il documento verificabile, perch&eacute; senza non sarebbe collegabile a nessun animale in particolare.</div>
+  <div class="faq-answer">Tutti i nostri riproduttori sono testati per <strong>L2-HGA</strong>, l'aciduria L-2-idrossiglutarica, una malattia neurologica, e per <strong>HC</strong>, la cataratta ereditaria giovanile (gene HSF4). Le fattrici in attività sono testate anche per la <strong>mielopatia degenerativa</strong> (gene SOD1), una malattia del midollo spinale che compare dopo gli otto anni. Sono tutti test del DNA, e sono tutte malattie a trasmissione recessiva: due genitori esenti non possono produrre cuccioli malati. I portatori di L2-HGA e HC non entrano in riproduzione. I referti di laboratorio sono pubblicati su questo sito e scaricabili, con il <strong>numero di microchip del cane in chiaro</strong>: &egrave; quel numero a rendere il documento verificabile, perch&eacute; senza non sarebbe collegabile a nessun animale in particolare.</div>
   </div>
 
   <div class="faq-item active">
