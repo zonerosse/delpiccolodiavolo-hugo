@@ -5,7 +5,7 @@ lastmod: 2026-09-28
 translationKey: "pitbull-amstaff"
 articolo: true
 image: "/images/blog/differenza-razze-hero.webp"
-description: "Non sono lo stesso cane: 11-17 kg contro 25-30, 2 standard FCI riconosciuti e uno no. Come distinguerli davvero, spiegato da un allevatore."
+description: "Non sono lo stesso cane: 11-17 kg contro 25-32, 2 standard FCI riconosciuti e uno no. Come distinguerli davvero, spiegato da un allevatore."
 slug: "differenza-staffy-pitbull-amstaff"
 custom_content: |
   <section class="hero">
@@ -42,7 +42,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Staffordshire Bull Terrier, American Staffordshire Terrier e American Pit Bull Terrier discendono dallo stesso ceppo, i Bull and Terrier dell'Inghilterra dell'Ottocento, ma oggi sono tre razze distinte. Lo Staffordshire Bull Terrier è il più piccolo, con un peso massimo di 17 kg, ed è riconosciuto dalla FCI con lo standard n. 76. L'American Staffordshire Terrier è più alto e pesante, fino a 35 kg nei maschi, ed è riconosciuto dalla FCI con lo standard n. 286. L'American Pit Bull Terrier, con un peso molto variabile fra 15 e 27 kg, è registrato dai registri americani UKC e ADBA ma non dalla FCI: per questo in Italia l'ENCI non può rilasciargli il pedigree, e un «Pit Bull» con pedigree ENCI non esiste. Nessuna delle tre razze è vietata in Italia: dal 2009 la responsabilità è del proprietario, non della razza.</p>
+  <p>Staffordshire Bull Terrier, American Staffordshire Terrier e American Pit Bull Terrier discendono dallo stesso ceppo, i Bull and Terrier dell'Inghilterra dell'Ottocento, ma oggi sono tre razze distinte. Lo Staffordshire Bull Terrier è il più piccolo, con un peso massimo di 17 kg, ed è riconosciuto dalla FCI con lo standard n. 76. L'American Staffordshire Terrier è più alto e pesante, fino a 32 kg nei maschi, ed è riconosciuto dalla FCI con lo standard n. 286. L'American Pit Bull Terrier, con un peso molto variabile fra 15 e 27 kg, è registrato dai registri americani UKC e ADBA ma non dalla FCI: per questo in Italia l'ENCI non può rilasciargli il pedigree, e un «Pit Bull» con pedigree ENCI non esiste. Nessuna delle tre razze è vietata in Italia: dal 2009 la responsabilità è del proprietario, non della razza.</p>
 
   
   <h2>Perché Si Confondono Queste Razze?</h2>
@@ -108,25 +108,25 @@ custom_content: |
   <td><strong>Altezza maschi</strong></td>
   <td>35,5 - 40,5 cm</td>
   <td>45 - 53 cm</td>
-  <td>46 - 48 cm</td>
+  <td>45,7 - 48,2 cm</td>
   </tr>
   <tr>
   <td><strong>Altezza femmine</strong></td>
   <td>35,5 - 40,5 cm</td>
   <td>43 - 50 cm</td>
-  <td>43 - 46 cm</td>
+  <td>43,1 - 48,2 cm</td>
   </tr>
   <tr>
   <td><strong>Peso maschi</strong></td>
   <td>12,7 - 17 kg</td>
   <td>15 - 27 kg</td>
-  <td>25 - 35 kg</td>
+  <td>25 - 32 kg</td>
   </tr>
   <tr>
   <td><strong>Peso femmine</strong></td>
   <td>11 - 15,4 kg</td>
   <td>13 - 23 kg</td>
-  <td>20 - 30 kg</td>
+  <td>18 - 25 kg</td>
   </tr>
   <tr>
   <td><strong>Testa</strong></td>
@@ -179,7 +179,7 @@ custom_content: |
   
   <p><strong>L'American Pit Bull Terrier</strong> è di taglia media, più alto e slanciato dello Staffy. Ha un corpo atletico, costruito per l'agilità più che per la massa. Peso molto variabile (15-27 kg).</p>
   
-  <p><strong>L'American Staffordshire Terrier</strong> è il più grande e massiccio. Ha una testa molto larga, corpo robusto e muscoloso. Peso fino a 35 kg nei maschi.</p>
+  <p><strong>L'American Staffordshire Terrier</strong> è il più grande e massiccio. Ha una testa molto larga, corpo robusto e muscoloso. Peso fino a 32 kg nei maschi.</p>
   
   <h2>Differenze Caratteriali e Temperamento</h2>
   
@@ -238,7 +238,7 @@ custom_content: |
   
   <h3>Scegli l'American Staffordshire Terrier se:</h3>
   <ul>
-  <li>Preferisci un cane più grande e imponente (fino a 35 kg)</li>
+  <li>Preferisci un cane più grande e imponente (fino a 32 kg)</li>
   <li>Vuoi comunque un pedigree riconosciuto</li>
   <li>Hai esperienza con cani di tipo "bull"</li>
   <li>Hai spazio adeguato (giardino o possibilità di molto esercizio)</li>
@@ -260,7 +260,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">L'American Staffordshire Terrier e il Pit Bull sono la stessa razza?</h3>
-  <div class="faq-answer">Hanno origini comuni ma oggi sono due cose diverse, e la differenza &egrave; nel riconoscimento. L'<strong>American Staffordshire Terrier</strong> &egrave; una razza riconosciuta dalla FCI, con standard e libro genealogico: 46-48 centimetri per 25-30 chili nel maschio, muso pi&ugrave; lungo e struttura pi&ugrave; slanciata dello Staffy. L'<strong>American Pit Bull Terrier</strong> &egrave; riconosciuto da registri americani come UKC e ADBA, ma non dalla FCI e quindi nemmeno dall'ENCI. In Italia, in pratica, un cane venduto come Pit Bull &egrave; un cane senza pedigree riconosciuto, di ascendenza non verificabile. La distinzione non &egrave; formalismo: senza libro genealogico non si pu&ograve; risalire ai genitori, ai test genetici n&eacute; al numero di cucciolate.</div>
+  <div class="faq-answer">Hanno origini comuni ma oggi sono due cose diverse, e la differenza &egrave; nel riconoscimento. L'<strong>American Staffordshire Terrier</strong> &egrave; una razza riconosciuta dalla FCI, con standard e libro genealogico: 45,7-48,2 centimetri per 25-32 chili nel maschio, muso pi&ugrave; lungo e struttura pi&ugrave; slanciata dello Staffy. L'<strong>American Pit Bull Terrier</strong> &egrave; riconosciuto da registri americani come UKC e ADBA, ma non dalla FCI e quindi nemmeno dall'ENCI. In Italia, in pratica, un cane venduto come Pit Bull &egrave; un cane senza pedigree riconosciuto, di ascendenza non verificabile. La distinzione non &egrave; formalismo: senza libro genealogico non si pu&ograve; risalire ai genitori, ai test genetici n&eacute; al numero di cucciolate.</div>
   </div>
   
   <div class="faq-item">

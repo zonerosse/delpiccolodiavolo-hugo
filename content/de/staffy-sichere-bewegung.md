@@ -61,6 +61,78 @@ custom_content: |
   <p>Ab etwa 8 Jahren bleibt die Gesamtdauer, die Intensität sinkt: häufigere, kürzere, ruhigere Gänge und Aufwärmzeit vor allem Anstrengenden. Hunde mit Hüft- oder Ellenbogendysplasie profitieren besonders vom Schwimmen und von einem stabilen Gewicht, der günstigsten und wirksamsten Gelenkbehandlung überhaupt.</p>
   <p>Zum Gewicht: diese Rasse trägt Überschuss so, dass er unter der Muskulatur leicht übersehen wird. Die Rippen müssen mit flacher Hand gut fühlbar sein, und von oben muss eine Taille sichtbar sein. Ein übergewichtiger Staffy verliert Jahre bequemer Bewegung, und der Verlust bleibt unsichtbar, bis er weit fortgeschritten ist.</p>
 
+  <h2>Anzeichen von Überlastung: wann man aufhört</h2>
+  <p>Der Staffordshire Bull Terrier schont sich nicht: Er spielt weit über die Erschöpfung hinaus weiter, um bei Ihnen zu bleiben. Die Grenze muss deshalb der Halter setzen, nicht die Begeisterung des Hundes.</p>
+  <p><strong>Während der Bewegung</strong> achten Sie auf Hecheln, das schwer wird und bei dem die Zunge weit heraushängt, auf Langsamerwerden und Zurückbleiben, auf die Suche nach Schatten, auf Hinlegen und Weigern weiterzugehen und auf gieriges Trinken, das heißt, dem Hund fehlt bereits Wasser.</p>
+  <p><strong>In den Stunden und Tagen danach</strong> sind die Zeichen Lahmheit, Steifheit beim Aufstehen, ungewöhnliche Mattigkeit, Unlust, am nächsten Tag hinauszugehen, und warme oder geschwollene Gelenke. Sehen Sie diese Zeichen, war der letzte Gang zu lang oder zu intensiv: kürzen Sie die nächsten für einige Tage um etwa ein Drittel, und lassen Sie eine Lahmheit, die länger als zwei Tage anhält, vom Tierarzt ansehen.</p>
+
+  <h2>Ein ausgewogener Tag</h2>
+  <p><strong>Ein erwachsener Hund</strong>: morgens ein Spaziergang von 30 bis 40 Minuten mit Zeit zum freien Schnüffeln; mittags eine kurze Einheit Kopfarbeit im Haus, 10 bis 15 Minuten mit Futterspiel oder Nasenarbeit; abends ein ruhigerer Gang von 20 bis 30 Minuten. An kühlen Tagen passt nachmittags eine kurze Einheit strukturiertes Spiel, Zerren mit klarem Auslassen.</p>
+  <p><strong>Ein Welpe von vier Monaten</strong>: zwei Spaziergänge von etwa 20 Minuten auf Gras, mehrmals am Tag freies Spiel im Garten, bei dem der Welpe von selbst aufhört, und eine oder zwei kurze Einheiten Training oder Nasenspiele.</p>
+  <p>In jedem Alter liegen zwischen einer Mahlzeit und kräftiger Bewegung ein bis zwei Stunden: Bei einer Rasse mit tiefem Brustkorb ist harte Anstrengung mit vollem Magen ein Risikofaktor für die Magendrehung.</p>
+
+  <h2>Hundesport</h2>
+  <p>Mehrere Disziplinen passen zur Rasse, sobald die Wachstumsfugen geschlossen sind. Agility passt zu ihrem Körperbau und ihrem Antrieb, mit Sprüngen in voller Höhe erst ab 18 Monaten; vorher bleibt die Arbeit am Boden, mit Tunneln, niedrigen Kontaktzonen und Führtechnik. Rally Obedience und Nasenarbeit befriedigen ebenso, bei viel geringerer Gelenkbelastung, und Canicross passt zu sportlichen Haltern mit einem erwachsenen, trainierten Hund bei kühlem Wetter. Beginnen Sie bei jeder Sportart mit einem Trainer, der zuerst Aufwärmen und Kondition aufbaut und erst dann Hindernisse, und denken Sie daran, dass intensive Belastung im Sommer draußen für diese Rasse ein ernstes Risiko ist.</p>
+
+  <h2>Häufige Fragen</h2>
+
+  <div class="faq-list">
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie viel Bewegung braucht ein erwachsener Staffy?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Zwei Gänge am Tag von dreißig bis vierzig Minuten decken den Bedarf eines gesunden erwachsenen Hundes, sofern mindestens einer davon Schnüffeln und freie Bewegung erlaubt und nicht nur eine Runde um den Block an kurzer Leine ist. Der Staffordshire Bull Terrier ist ein Sprinter, kein Ausdauerläufer: Er leistet viel bei kurzen, intensiven Anstrengungen, nicht bei stundenlangem Laufen. Was fast alle unterschätzen, ist die Kopfarbeit: <strong>eine halbe Stunde Nasenarbeit ermüdet einen Hund so sehr wie eine Stunde Laufen</strong>, ohne die Gelenke zu belasten. Ein Hund, der nicht genug ausgelastet wird, wird nicht aus Trotz zerstörerisch, sondern aus Langeweile, und die Anzeichen sind immer dieselben: er kaut, gräbt und kommt nie zur Ruhe. Ab sieben oder acht Jahren sinkt der Bedarf, doch die Regelmäßigkeit zählt dann noch mehr.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Kann ich meinen Staffy-Welpen zum Joggen mitnehmen?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Nein, und das ist keine übertriebene Vorsicht. Die Wachstumsfugen des Welpen schließen sich zwischen dem zwölften und achtzehnten Monat: Bis dahin hinterlassen langes Laufen, Springen und wiederholtes Bergablaufen Gelenkschäden, die sich beim Erwachsenen zeigen und nicht rückgängig zu machen sind. Die übliche Regel sind <strong>fünf Minuten je Lebensmonat</strong>, ein- oder zweimal täglich: mit vier Monaten also zwanzig Minuten pro Spaziergang. Freies Spiel auf Gras ist etwas anderes und völlig in Ordnung, weil der Welpe von selbst aufhört, wenn er müde ist, während er neben Ihnen herlaufend nie aufhört. Mit gemeinsamem Laufen beginnt man ab etwa achtzehn Monaten und steigert langsam, mit wenigen Kilometern auf weichem Boden.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Leidet der Staffy stärker unter Hitze als andere Rassen?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Ja, stärker als ein Hund mit langem Fang, wenn auch weniger als extrem brachyzephale Rassen wie Mops oder Englische Bulldogge. Ein Hund kühlt sich fast nur durch Hecheln, und ein verkürzter Fang macht diesen Austausch weniger wirksam: über 25 Grad wird der Spielraum schnell kleiner. Die praktische Regel: in den kühlen Stunden hinausgehen, immer Wasser dabeihaben und die Intensität verringern, nicht nur die Dauer. <strong>Lassen Sie den Hund nie im Auto</strong>, auch nicht für ein paar Minuten und nicht bei einem Spalt offenem Fenster: der Innenraum überschreitet in einer Viertelstunde vierzig Grad. Anzeichen eines Hitzschlags sind angestrengtes Hecheln, das sich nicht beruhigt, dunkelrotes Zahnfleisch und Taumeln: ein tierärztlicher Notfall, und bis dahin wird der Hund mit kühlem, niemals eiskaltem Wasser nass gemacht.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Kann mein Staffy Agility machen?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Ja, und der Sport passt zu Körperbau und Motivation der Rasse, unter zwei Bedingungen. Die erste ist das Alter: Sprünge in voller Höhe nicht vor <strong>achtzehn Monaten</strong>, wenn die Wachstumsfugen geschlossen sind; vorher wird nur am Boden gearbeitet, mit Tunneln, niedrigen Kontaktzonen und Führtechnik. Die zweite ist die Hitze, denn Agility ist intensive, stoßweise Belastung, und im Sommer ist ein Turnier im Freien für diese Rasse ein Risiko, das man ernsthaft abwägen muss. Es gibt auch Disziplinen, die die Gelenke weniger fordern und ebenso befriedigen: <strong>Rally Obedience</strong>, Nasenarbeit und <strong>Dog Parkour</strong> in niedriger Höhe. Wer anfängt, sollte sich von einem Trainer begleiten lassen, der zuerst Aufwärmen und Kondition aufbaut und erst dann die Hindernisse.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Woran merke ich, dass ich meinen Hund überfordert habe?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Die unmittelbaren Zeichen sind spontanes Langsamerwerden, Hecheln, das sich nach einigen Minuten Pause nicht beruhigt, und ein Hund, der unterwegs stehen bleibt oder sich hinlegt. Am wichtigsten sind aber die Zeichen <strong>danach</strong>: Steifheit beim Aufstehen am nächsten Tag, Zögern auf der Treppe, Lahmheit, die im kalten Zustand auftritt und sich in Bewegung bessert. Bemerken Sie sie, war der letzte Gang zu lang oder zu intensiv und sollte für einige Tage um etwa ein Drittel gekürzt werden. Beim Welpen ist das Bild noch unauffälliger, weil er über seine Grenze geht, um bei Ihnen zu sein: deshalb entscheidet die Uhr über die Belastung, nicht seine Begeisterung. Eine Lahmheit, die länger als zwei Tage anhält, gehört zum Tierarzt.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Kann ein Staffy schwimmen?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Manche ja, viele schlecht und einige gar nicht. Der Körperbau hilft nicht: breiter, schwerer Brustkorb, verhältnismäßig kurze Läufe, dichte Muskulatur und wenig Fett, alles Dinge, die den Auftrieb verringern. Dazu kommt der verkürzte Fang, der im Wasser bedeutet, den Kopf höher halten zu müssen, um zu atmen, und so ermüdet der Hund schnell. Schwimmen bleibt dennoch eine hervorragende, gelenkschonende Bewegung, nützlich bei Übergewicht oder in der Reha: nur eben mit <strong>Schwimmweste</strong>, in ruhigem Wasser, mit leichtem Ein- und Ausstieg und immer unter Aufsicht. Werfen Sie nie einen Hund ins Wasser, um zu sehen, ob er zurechtkommt, und spülen Sie ihn nach Meer oder Pool ab, weil Salz und Chlor die Haut reizen.
+  </div>
+  </div>
+
+  </div>
+
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>

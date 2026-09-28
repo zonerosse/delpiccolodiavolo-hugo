@@ -344,15 +344,8 @@ custom_content: |
   </section>
   
   <div class="callout">
-  <p class="callout-title">💡 Supporto post-adozione Del Piccolo Diavolo</p>
-  <p>Ogni famiglia che adotta da noi riceve:</p>
-  <ul>
-  <li>Video tutorial primo incontro personalizzato per età bambini</li>
-  <li>Poster segnali stress plastificato da appendere</li>
-  <li>Follow-up 30-60-90 giorni con valutazione integrazione</li>
-  <li>Rete professionisti fidati in zona per supporto rapido</li>
-  <li>WhatsApp urgenze con risposta entro 24h</li>
-  </ul>
+  <p class="callout-title">💡 Il supporto dopo l'affido, senza scadenza</p>
+  <p>Chi prende un cucciolo da noi non resta solo dopo la consegna. Per tutta la vita del cane restiamo disponibili per consigli sulla convivenza con i bambini, sull'educazione e sulla gestione di casa, anche a distanza di anni. E se un giorno la situazione cambia e il cane non può più restare, torna qui.</p>
   </div>
   
   <h2>Conclusione: Responsabilità e Amore</h2>

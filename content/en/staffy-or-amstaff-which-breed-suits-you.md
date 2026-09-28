@@ -56,9 +56,9 @@ date: 2026-01-18
 
 <p><strong>American Staffordshire Terrier (Amstaff):</strong></p>
 <ul>
-<li>Height: 43-48 cm at the withers</li>
-<li>Weight, males: 25-30 kg</li>
-<li>Weight, females: 20-25 kg</li>
+<li>Height: 45.7-48.2 cm in males, 43.1-48.2 cm in females</li>
+<li>Weight, males: 25-32 kg</li>
+<li>Weight, females: 18-25 kg</li>
 </ul>
 
 <p>In practice the Amstaff weighs roughly twice what the Staffy does. That difference has consequences you will feel daily: handling, the space you need, what you spend on food, and how manageable the dog is if it decides to pull.</p>

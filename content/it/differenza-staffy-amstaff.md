@@ -39,7 +39,7 @@ date: 2026-01-18
 
 <p>In questa guida ti spiego tutte le differenze per aiutarti a capire quale razza fa per te.</p>
 
-<p>Staffordshire Bull Terrier e American Staffordshire Terrier sono due razze distinte riconosciute dalla FCI, con standard e libri genealogici separati. La differenza più immediata è la taglia: lo <strong>Staffy</strong> misura 35-40 centimetri al garrese per 12-17 chili nel maschio, l'<strong>Amstaff</strong> arriva a 46-48 centimetri per 25-30 chili. Cambia anche la struttura: il primo è compatto, con testa corta e larga; il secondo più slanciato, con muso più lungo. Non sono varianti della stessa razza ma due selezioni separate da oltre un secolo, l'una inglese e l'altra americana, con linee che non si incrociano. Il Pitbull, spesso confuso con entrambi, in Italia non è una razza riconosciuta e non ha pedigree ENCI.</p>
+<p>Staffordshire Bull Terrier e American Staffordshire Terrier sono due razze distinte riconosciute dalla FCI, con standard e libri genealogici separati. La differenza più immediata è la taglia: lo <strong>Staffy</strong> misura 35-40 centimetri al garrese per 12-17 chili nel maschio, l'<strong>Amstaff</strong> arriva a 45,7-48,2 centimetri per 25-32 chili. Cambia anche la struttura: il primo è compatto, con testa corta e larga; il secondo più slanciato, con muso più lungo. Non sono varianti della stessa razza ma due selezioni separate da oltre un secolo, l'una inglese e l'altra americana, con linee che non si incrociano. Il Pitbull, spesso confuso con entrambi, in Italia non è una razza riconosciuta e non ha pedigree ENCI.</p>
 
 <h2>Origini: una storia comune, due percorsi diversi</h2>
 
@@ -60,9 +60,9 @@ date: 2026-01-18
 
 <p><strong>American Staffordshire Terrier (Amstaff):</strong></p>
 <ul>
-<li>Altezza: 43-48 cm al garrese</li>
-<li>Peso maschi: 25-30 kg</li>
-<li>Peso femmine: 20-25 kg</li>
+<li>Altezza: 45,7-48,2 cm nei maschi, 43,1-48,2 cm nelle femmine</li>
+<li>Peso maschi: 25-32 kg</li>
+<li>Peso femmine: 18-25 kg</li>
 </ul>
 
 <p>In pratica, l'Amstaff è circa il doppio dello Staffy in termini di peso. Questa differenza ha implicazioni pratiche: gestione, spazio necessario, costi di alimentazione.</p>

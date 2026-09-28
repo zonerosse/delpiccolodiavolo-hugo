@@ -6,7 +6,7 @@ titleSeo: "Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich"
 translationKey: "pitbull-amstaff"
 articolo: true
 image: "/images/blog/hero-default.webp"
-description: "Nicht derselbe Hund: 11-17 kg gegen 25-30, 2 FCI-anerkannte Standards und einer nicht. Wie man sie wirklich unterscheidet, von einem Züchter erklärt."
+description: "Nicht derselbe Hund: 11-17 kg gegen 25-32, 2 FCI-anerkannte Standards und einer nicht. Wie man sie wirklich unterscheidet, von einem Züchter erklärt."
 slug: "staffy-pitbull-amstaff-unterschied"
 custom_content: |
   <section class="hero">
@@ -35,7 +35,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Staffordshire Bull Terrier, American Staffordshire Terrier und American Pit Bull Terrier stammen vom selben Grundstock ab, den Bull and Terriers im England des 19. Jahrhunderts, sind heute aber drei verschiedene Rassen. Der Staffordshire Bull Terrier ist der kleinste, mit höchstens 17 kg, und ist von der FCI mit dem Standard Nr. 76 anerkannt. Der American Staffordshire Terrier ist größer und schwerer, bei Rüden bis 35 kg, und ist von der FCI mit dem Standard Nr. 286 anerkannt. Der American Pit Bull Terrier, dessen Gewicht stark schwankt, wird von den amerikanischen Verbänden UKC und ADBA registriert, nicht aber von der FCI; in Italien kann der ENCI ihm deshalb keine Ahnentafel ausstellen, und einen Pit Bull mit ENCI-Papieren gibt es nicht. Keine der drei Rassen ist in Italien verboten, wo seit 2009 der Halter verantwortlich ist, nicht die Rasse.</p>
+  <p>Staffordshire Bull Terrier, American Staffordshire Terrier und American Pit Bull Terrier stammen vom selben Grundstock ab, den Bull and Terriers im England des 19. Jahrhunderts, sind heute aber drei verschiedene Rassen. Der Staffordshire Bull Terrier ist der kleinste, mit höchstens 17 kg, und ist von der FCI mit dem Standard Nr. 76 anerkannt. Der American Staffordshire Terrier ist größer und schwerer, bei Rüden bis 32 kg, und ist von der FCI mit dem Standard Nr. 286 anerkannt. Der American Pit Bull Terrier, dessen Gewicht stark schwankt, wird von den amerikanischen Verbänden UKC und ADBA registriert, nicht aber von der FCI; in Italien kann der ENCI ihm deshalb keine Ahnentafel ausstellen, und einen Pit Bull mit ENCI-Papieren gibt es nicht. Keine der drei Rassen ist in Italien verboten, wo seit 2009 der Halter verantwortlich ist, nicht die Rasse.</p>
 
   
   
@@ -52,7 +52,7 @@ custom_content: |
   <p>Wesentlich ist das Wesen: der Standard beschreibt ihn als kühn, furchtlos und vollkommen zuverlässig gegenüber Menschen. Der Beiname Kindermädchen-Hund stammt aus dieser Eigenschaft. In Italien gilt keine rassebezogene Beschränkung.</p>
 
   <h2>Der American Staffordshire Terrier</h2>
-  <p>Ebenfalls FCI-anerkannt, Standard Nr. 286, Ursprungsland USA. Deutlich größer: 43 bis 48 Zentimeter, 25 bis 30 Kilogramm. Längere Läufe, längerer Fang, insgesamt athletischer und weniger gedrungen als der Staffordshire Bull Terrier.</p>
+  <p>Ebenfalls FCI-anerkannt, Standard Nr. 286, Ursprungsland USA. Deutlich größer: 45,7 bis 48,2 Zentimeter bei Rüden, 43,1 bis 48,2 bei Hündinnen; Rüden 25 bis 32, Hündinnen 18 bis 25 Kilogramm. Längere Läufe, längerer Fang, insgesamt athletischer und weniger gedrungen als der Staffordshire Bull Terrier.</p>
   <p>Die einfachste Faustregel für Laien: der Amstaff ist etwa doppelt so schwer und eine Handbreit höher. Wer die beiden nebeneinander sieht, verwechselt sie nie wieder.</p>
 
   <h2>Der "Pitbull"</h2>
@@ -60,7 +60,7 @@ custom_content: |
   <p>Im Alltagsgebrauch bezeichnet das Wort Pitbull jedoch meist gar keine Rasse, sondern einen Typ: jeden muskulösen Hund mit breitem Kopf und kurzem Fell. Unter dieser Bezeichnung werden Amstaffs, Staffordshire Bull Terrier, Cane Corso, Mischlinge und Hunde völlig anderer Abstammung zusammengeworfen. Genau deshalb sind Statistiken, die "Pitbulls" zählen, kaum aussagekräftig.</p>
 
   <h2>Die Unterschiede im Überblick</h2>
-  <p>Größe ist das verlässlichste Merkmal: 35 bis 40 Zentimeter beim Staffordshire Bull Terrier, 43 bis 48 beim Amstaff, sehr variabel beim Pit Bull Terrier. Gewicht: 11 bis 17, 25 bis 30, 14 bis 27 Kilogramm.</p>
+  <p>Größe ist das verlässlichste Merkmal: 35 bis 40 Zentimeter beim Staffordshire Bull Terrier, 43,1 bis 48,2 beim Amstaff, sehr variabel beim Pit Bull Terrier. Gewicht: 11 bis 17, 18 bis 32, 14 bis 27 Kilogramm.</p>
   <p>Anerkennung: FCI ja, FCI ja, FCI nein. Papiere: ENCI-Ahnentafel möglich für die ersten beiden, nicht für den dritten — ein Hund, der in Italien als Pitbull mit FCI-Papieren angeboten wird, ist keiner.</p>
   <p>Wesen gegenüber Menschen: bei allen drei Standards ausdrücklich freundlich gefordert. Aggression gegen Menschen ist in keiner dieser Rassen ein Rassemerkmal, sondern ein schwerer Fehler.</p>
 
@@ -82,7 +82,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3>Sind American Staffordshire Terrier und Pit Bull dieselbe Rasse?</h3>
-  <div class="faq-answer">Sie haben dieselbe Herkunft, sind heute aber zwei verschiedene Dinge, und der Unterschied liegt in der Anerkennung. Der <strong>American Staffordshire Terrier</strong> ist von der FCI anerkannt, mit Standard und Zuchtbuch: 46 bis 48 cm und 25 bis 30 kg bei Rüden, längerer Fang, schlankerer Körperbau als der Staffy. Der <strong>American Pit Bull Terrier</strong> wird von amerikanischen Registern wie UKC und ADBA anerkannt, nicht aber von der FCI und damit auch nicht vom ENCI. Praktisch ist ein in Italien als Pit Bull verkaufter Hund ein Hund ohne anerkannte Ahnentafel und mit nicht überprüfbarer Abstammung &mdash; also ohne Möglichkeit, die Eltern, die Gentests oder die Zahl der Würfe zu prüfen.</div>
+  <div class="faq-answer">Sie haben dieselbe Herkunft, sind heute aber zwei verschiedene Dinge, und der Unterschied liegt in der Anerkennung. Der <strong>American Staffordshire Terrier</strong> ist von der FCI anerkannt, mit Standard und Zuchtbuch: 45,7 bis 48,2 cm und 25 bis 32 kg bei Rüden, längerer Fang, schlankerer Körperbau als der Staffy. Der <strong>American Pit Bull Terrier</strong> wird von amerikanischen Registern wie UKC und ADBA anerkannt, nicht aber von der FCI und damit auch nicht vom ENCI. Praktisch ist ein in Italien als Pit Bull verkaufter Hund ein Hund ohne anerkannte Ahnentafel und mit nicht überprüfbarer Abstammung &mdash; also ohne Möglichkeit, die Eltern, die Gentests oder die Zahl der Würfe zu prüfen.</div>
   </div>
 
   <div class="faq-item">

@@ -56,9 +56,9 @@ date: 2026-01-18
 
 <p><strong>American Staffordshire Terrier (Amstaff):</strong></p>
 <ul>
-<li>Widerristhöhe: 43-48 cm</li>
-<li>Gewicht Rüden: 25-30 kg</li>
-<li>Gewicht Hündinnen: 20-25 kg</li>
+<li>Widerristhöhe: 45,7-48,2 cm bei Rüden, 43,1-48,2 cm bei Hündinnen</li>
+<li>Gewicht Rüden: 25-32 kg</li>
+<li>Gewicht Hündinnen: 18-25 kg</li>
 </ul>
 
 <p>Der Amstaff wiegt praktisch das Doppelte des Staffy. Dieser Unterschied wirkt sich täglich aus: Handhabung, benötigter Platz, Futterkosten und die Frage, wie beherrschbar der Hund bleibt, wenn er zieht.</p>

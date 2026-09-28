@@ -62,6 +62,103 @@ custom_content: |
   <p>Alle Vorsicht beiseite: dies ist eine der besten Familienrassen überhaupt. Die Hunde sind robust genug für einen lebhaften Haushalt, klein genug für eine Wohnung, anhänglich bis zur Komik, und sie binden sich häufig gerade an die Kinder statt an einen einzelnen Erwachsenen.</p>
   <p>Kinder, die mit einem Hund aufwachsen, lernen Verlässlichkeit, <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Italienische Verordnung vom 6. August 2013 zum Schutz der öffentlichen Sicherheit" target="_blank" rel="noopener" aria-label="Italienische Verordnung vom 6. August 2013 zum Schutz der öffentlichen Sicherheit (wird in einem neuen Tab geöffnet)">Verantwort</a>ung und eine Form von Einfühlung, die sich schwer anders vermitteln lässt. Nach über einem Jahrzehnt Welpenvermittlung wissen wir: die Familien, bei denen es am besten läuft, sind nicht die mit dem größten Garten, sondern die, die den Hund im Haus wollten, mitten im Geschehen — genau dort, wo diese Rasse sein will.</p>
 
+  <h2>Den Hund lesen, bevor es eskaliert</h2>
+  <p>Ein Hund zeigt Unbehagen lange bevor er beißt. Die frühen Zeichen verlangen, sofort einzugreifen: Lecken über Lefzen oder Nase außerhalb der Mahlzeiten, Gähnen ohne Müdigkeit, Wegschauen oder Kopfabwenden, nach hinten gelegte Ohren, tief getragene oder eingeklemmte Rute, ein steifer oder erstarrter Körper, aufgestellte Nackenhaare, eine gehobene Pfote im halben Erstarren und wiederholtes Weggehen vom Kind.</p>
+  <p>Die Zeichen der Eskalation bedeuten, Kind und Hund sofort zu trennen: Knurren, hochgezogene Lefzen, die die Zähne zeigen, Schnappen in die Luft, starrer Blick bei steifem Körper und völlige Reglosigkeit unmittelbar vor dem Handeln. <strong>Bestrafen Sie nie ein Knurren</strong>: Es ist die Warnung, die Ihnen das Eingreifen erlaubt, und ein Hund, der fürs Knurren bestraft wird, lernt, es auszulassen.</p>
+  <p>Eine praktische Regel: drei frühe Zeichen hintereinander bedeuten, dass die Begegnung vorbei ist. Trennen Sie beide, lassen Sie den Hund fünfzehn bis zwanzig Minuten an einem ruhigen Ort herunterkommen, finden Sie heraus, was den Stress ausgelöst hat, und versuchen Sie es später mit einer Änderung erneut.</p>
+
+  <h2>Die erste Begegnung zwischen Welpe und Kindern</h2>
+  <p>Bereiten Sie alles vor, bevor der Welpe kommt: erklären Sie den Kindern die Regeln vorher, wählen Sie einen ruhigen Moment ohne Gäste und mit ausgeschaltetem Fernseher, halten Sie den Rückzugsort des Welpen und Leckerli bereit, und lassen Sie den Welpen vorher etwas Energie loswerden.</p>
+  <p>Die Kinder sitzen still auf dem Boden, die Hände im Schoß. Ein Erwachsener bringt den Welpen an lockerer Leine herein und lässt ihn in seinem Tempo näherkommen. Schnüffelt er, kann ein Kind ihm die geschlossene Hand zum Beriechen hinhalten; ist der Welpe entspannt, genügt ein kurzes Streicheln an der Brust, drei Sekunden. Dann bleiben alle still, während der Welpe von selbst weggeht. Wiederholen Sie die Annäherung höchstens dreimal und beenden Sie die Einheit: insgesamt zehn bis fünfzehn Minuten beim ersten Treffen, mit einem guten Abschluss für den Welpen und Lob für die Kinder.</p>
+
+  <h2>Sichere Spiele nach Alter</h2>
+  <p>Zwischen drei und fünf Jahren Spiele ohne direkten Kontakt: das Kind wirft Leckerli auf den Boden, die der Hund sucht, versteckt Futter für eine Nasensuche oder liest laut vor, während der Hund neben ihm liegt, nicht auf ihm. Zwischen sechs und neun beaufsichtigte aktive Spiele: einen weichen Ball apportieren, nachdem ein Erwachsener das Auslassen trainiert hat, ein einfacher Parcours im Garten, einen Trick unter Anleitung eines Erwachsenen beibringen, sanftes Bürsten an unempfindlichen Stellen. Ab zehn mehr Selbstständigkeit, mit einem Erwachsenen in der Nähe: Training unter leichter Aufsicht, ein erster Einstieg in Rally Obedience, Zerrspiele mit klarer Auslassregel. Unter sechs Jahren dauern aktive Begegnungen etwa fünf Minuten, dann folgt eine Pause: kurz und gut ist besser als lang und angespannt.</p>
+
+  <h2>Wann man einen Verhaltensexperten ruft</h2>
+  <p>Manche Situationen brauchen sofort fachliche Hilfe, nicht Ratschläge aus dem Internet: ein Hund, der ein Kind gebissen hat, wie leicht auch immer; wiederholtes Knurren oder Schnappen gegenüber Kindern; Abwehrverhalten, das sich steigert; deutliche Angst vor Kindern, mit Meiden, Zittern oder Fluchtversuchen; zwanghafte Verhaltensweisen im Zusammenhang mit Stress; und eine plötzliche Wesensänderung, wenn ein toleranter Hund reaktiv wird. Ein tierärztlicher Verhaltensmediziner schließt zuerst eine körperliche Ursache aus, denn hinter vielen plötzlichen Veränderungen stecken Schmerzen, erstellt dann einen strukturierten Verhaltensplan, manchmal mit Medikamenten, und beurteilt, ob das Zusammenleben sicher gestaltet werden kann.</p>
+
+  <div class="callout">
+  <p class="callout-title">💡 Begleitung nach der Abgabe, ohne Ablaufdatum</p>
+  <p>Eine Familie, die einen Welpen von uns nimmt, bleibt nach der Übergabe nicht allein. Das ganze Hundeleben lang sind wir für Rat zum Zusammenleben mit Kindern, zur Erziehung und zum Alltag erreichbar, auch nach Jahren. Und wenn sich die Umstände eines Tages ändern und der Hund nicht bleiben kann, kommt er hierher zurück.</p>
+  </div>
+
+  <h2>Häufige Fragen</h2>
+
+  <div class="faq-list">
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Ist es sicher, einen Staffy zu nehmen, wenn ein Baby unterwegs ist?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Die richtige Frage ist nicht, ob die Rasse sicher ist, sondern ob Sie zwei neue Dinge gleichzeitig bewältigen können. Ein Welpe braucht in den ersten Monaten ständige Aufmerksamkeit, und genau in diesen Monaten braucht ein Neugeborenes am meisten: das echte Risiko ist nicht ein Unfall, sondern dass der Hund vernachlässigt wird und gerade in dem Zeitfenster schlecht lernt, in dem er am besten lernen würde. Ist die Schwangerschaft schon im Gang, ist es fast immer besser, den Welpen erst nach dem ersten Lebensjahr des Kindes zu holen. Ist der Hund schon da, wird vor der Geburt gearbeitet: ihn an Babygeräusche gewöhnen, die Räume neu festlegen, die sich ändern werden, und ihm einen Rückzugsort geben. In jedem Fall bleiben <strong>Hund und Baby nie allein im selben Raum</strong>, nicht einmal für die Dauer eines Telefonats.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Welpe oder erwachsener Hund bei Kindern von zwei bis fünf Jahren?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer"><strong>Mit einem Welpen</strong> wachsen sie zusammen auf, die Bindung ist stark, und Sie sozialisieren ihn gezielt auf Ihre Kinder. Der Nachteil: er braucht intensive Betreuung, Erziehung und Sauberkeitstraining, während Sie schon kleine Kinder betreuen, und für viele Familien ist das zu viel. <strong>Ein erwachsener Hund ab zwei Jahren</strong> bringt Selbstbeherrschung, eine Grunderziehung und Vorhersehbarkeit mit; der Nachteil ist, dass seine Vorgeschichte Auslöser enthalten kann, die niemand kennt. Unser Rat: bei Kindern unter vier Jahren ernsthaft über einen Erwachsenen mit bekanntem Wesen nachdenken. Bei Kindern ab fünf und erfahrenen Eltern ist ein Welpe gut machbar.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Mein Kind hat Angst vor dem Hund. Was tun?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Nie zwingen und nie herunterspielen. Ein ängstliches Kind zum Streicheln zu drängen, verstärkt die Angst und lehrt den Hund, dass Hände sich nähern, wenn ein Körper steif ist, und das ist die schlechteste Kombination überhaupt. Der Weg ist der umgekehrte: man arbeitet mit Abstand und lässt das Kind entscheiden. Der Hund an der Leine oder hinter einem Gitter, das Kind frei, wo es stehen will, und jedes Mal, wenn es den Hund ohne Anspannung anschaut, geschieht etwas Angenehmes. Dann einen Schritt näher, an verschiedenen Tagen, nie in derselben Einheit. Inzwischen lernt das Kind, den Hund aus der Entfernung zu führen: ihm ein Leckerli zuwerfen, ihm die Gartentür öffnen. Stammt die Angst aus einem bestimmten Erlebnis oder dauert sie Monate, lohnt sich die Begleitung durch einen Trainer.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Der Hund scheint eifersüchtig auf das Kind. Was tun?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Was wie Eifersucht aussieht, ist meist etwas Einfacheres: der Hund hat den Zugang zu Dingen verloren, die er vorher hatte, das Sofa, die Aufmerksamkeit, die Ruhe, und verbindet diesen Verlust mit dem Kind. Korrigieren hilft nicht, denn es bestätigt die Verbindung: wenn das Kind da ist, gibt es Schimpfe. Das Mittel ist, sie umzukehren. Die schönen Dinge geschehen <strong>wenn das Kind da ist</strong>: das beste Leckerli, das spannendste Spiel, der Spaziergang. Ist das Kind nicht da, kehrt der Hund zu seiner normalen Routine zurück. Daneben braucht er einen Rückzugsort, an dem ihn niemand stört, und das Kind feste Regeln, wann es ihn in Ruhe lässt. Zeigen sich Knurren, Erstarren oder hochgezogene Lefzen, ist das keine Laune: dann ruft man einen Fachmann und schimpft nicht.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Der Hund hat mein Kind beim Spielen gebissen. Muss ich ihn abgeben?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Zuerst klären, was passiert ist, denn das Wort Biss deckt sehr verschiedene Situationen ab. Ein Welpe, der beim Spielen nach Händen schnappt, benutzt sein Maul wie bei seinen Geschwistern und muss lernen, es zu dosieren: das Spiel jedes Mal unterbrechen, wenn Zähne die Haut berühren, ohne zu schreien. Ein erwachsener Hund, der eine Spur hinterlässt, ist etwas anderes, und die Frage ist nicht, ob man ihn abgibt, sondern <strong>was in den drei Sekunden davor geschah</strong>: fast immer gab es ein Signal, Erstarren, abgewandter Kopf, ein Versuch wegzugehen, das niemand gelesen hat. Bis die Lage klar ist, sind Hund und Kind nie ohne einen Erwachsenen in Armreichweite zusammen. Ein Vorfall, der eine Spur hinterlassen hat, braucht die Einschätzung eines tierärztlichen Verhaltensmediziners, nicht einen Rat aus dem Internet.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie bringe ich meinem Kind Respekt vor dem Hund bei?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Mit wenigen festen Regeln, wiederholt, bis sie selbstverständlich sind, und mit dem Vorbild der Erwachsenen. Die drei wichtigsten: <strong>einen schlafenden Hund stört man nicht</strong>, <strong>einen fressenden Hund fasst man nicht an</strong>, und <strong>einen Hund umarmt man nicht um den Hals</strong>. Eine Umarmung ist eine menschliche Geste, die für einen Hund Festhalten bedeutet, und sie steht hinter sehr vielen Vorfällen im Haus. Dann gibt es den positiven Teil, der besser wirkt als Verbote: dem Kind eine altersgerechte Aufgabe bei der Pflege des Hundes geben. Den Wassernapf füllen, die Leine bereitlegen, Leckerli für eine Nasensuche verstecken. Ein Kind, das mitmacht, lernt den Hund viel früher zu lesen als eines, dem man nur sagt, was es nicht tun soll.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Der Staffy ist zu stürmisch und springt an. Wie beruhige ich ihn?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Kurzfristig steuert man die Umgebung: im Haus eine Leine, wenn die Kinder da sind, damit Sie den Sprung unterbrechen können, bevor er beginnt. Belohnt werden vier Pfoten am Boden, mit einem Leckerli jedes Mal, wenn der Hund die Position hält, und <strong>vor jeder Begegnung ist Sitz Pflicht</strong>: setzt er sich nicht, dreht das Kind sich weg, und das Spiel beginnt nicht. Wegschieben oder laut werden hilft nicht, denn für einen aufgeregten Hund ist auch das Aufmerksamkeit. Langfristig ist die Ursache fast immer nicht verbrauchte Energie: dreißig bis sechzig Minuten Bewegung vor den kritischen Momenten ändern das Bild, und Nasenarbeit ermüdet mehr als Laufen. Der Staffy ist kompakt, aber schwer: ein Sprung, der einen Erwachsenen stört, wirft ein vierjähriges Kind um.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Ab welchem Alter darf ein Kind den Hund allein ausführen?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Nicht vor vierzehn, und das ist keine Frage der Reife, sondern der Physik und der rechtlichen Verantwortung. Ein erwachsener Staffordshire Bull Terrier wiegt zwischen 12 und 17 Kilo und zieht viel stärker, als seine Größe vermuten lässt: läuft er einer Katze hinterher, hält ihn ein Zehnjähriges nicht, so geschickt es auch ist. Und bei einem Vorfall liegt die Verantwortung trotzdem bei einem Erwachsenen, denn das Gesetz verlangt, in Italien wie in den meisten Ländern, dass wer den Hund führt, ihn auch beherrschen kann. Vor diesem Alter kann das Kind die Leine neben einem Erwachsenen halten, der eine zweite hält, eine hervorragende Übung für beide. Auch der Hund zählt: einer, der auf andere Hunde reagiert, wird einem Jugendlichen nicht einmal mit sechzehn überlassen.
+  </div>
+  </div>
+
+  </div>
+
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>

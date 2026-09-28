@@ -90,7 +90,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Difference between Staffy and Amstaff?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">They are two distinct breeds recognised by the FCI, with separate standards and stud books. The <strong>Staffordshire Bull Terrier</strong> is the smaller of the two: 35-40 cm at the withers and 12-17 kg in males, with a short broad head and a compact build. The <strong>American Staffordshire Terrier</strong> is larger and leaner: 46-48 cm and 25-30 kg, with a longer muzzle. The difference is not only size: these are two selections separated by more than a century, one English and one American, with lines that do not cross. The <strong>Pit Bull</strong>, often confused with both, is not a recognised breed in Italy and no ENCI pedigree certifies one.</div>
+  <div class="faq-answer">They are two distinct breeds recognised by the FCI, with separate standards and stud books. The <strong>Staffordshire Bull Terrier</strong> is the smaller of the two: 35-40 cm at the withers and 12-17 kg in males, with a short broad head and a compact build. The <strong>American Staffordshire Terrier</strong> is larger and leaner: 45.7-48.2 cm and 25-32 kg, with a longer muzzle. The difference is not only size: these are two selections separated by more than a century, one English and one American, with lines that do not cross. The <strong>Pit Bull</strong>, often confused with both, is not a recognised breed in Italy and no ENCI pedigree certifies one.</div>
   </div>
   
   <div class="faq-item active">
