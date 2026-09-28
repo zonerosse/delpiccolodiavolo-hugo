@@ -31,7 +31,7 @@ custom_content: |
   <p class="hero-description">Planned pairings with tested breeding dogs, ENCI pedigree and selected lines from UK and Ireland. Updates on availability and reservations.</p>
   <p style="font-family:Georgia,serif;font-size:1.05rem;font-weight:700;color:#8b5a2b;margin:0 0 .8rem">Stay up to date on our planned litters!!</p>
   <div class="hero-actions">
-  <a href="/en/litters-staffordshire-bull-terrier/feed.xml" class="btn btn-ghost" title="Follow new litters through the RSS feed"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true" style="flex:0 0 16px"><circle cx="5" cy="19" r="2.5"/><path d="M3 10.5v3a7.5 7.5 0 0 1 7.5 7.5h3A10.5 10.5 0 0 0 3 10.5z"/><path d="M3 4v3a14 14 0 0 1 14 14h3A17 17 0 0 0 3 4z"/></svg>Follow via RSS</a>
+  <a href="/en/litters-staffordshire-bull-terrier/follow/" class="btn btn-ghost" title="Follow new litters through the RSS feed"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true" style="flex:0 0 16px"><circle cx="5" cy="19" r="2.5"/><path d="M3 10.5v3a7.5 7.5 0 0 1 7.5 7.5h3A10.5 10.5 0 0 0 3 10.5z"/><path d="M3 4v3a14 14 0 0 1 14 14h3A17 17 0 0 0 3 4z"/></svg>Follow via RSS</a>
   </div>
   </div>
   </section>

@@ -34,7 +34,7 @@ custom_content: |
   <p class="hero-description">Accoppiamenti pianificati secondo criteri di salute, carattere e tipicità. In questa pagina trovi il programma di selezione e lo storico delle cucciolate.</p>
   <p style="font-family:Georgia,serif;font-size:1.05rem;font-weight:700;color:#8b5a2b;margin:0 0 .8rem">Resta aggiornato sulle cucciolate in programma!!</p>
   <div class="hero-actions">
-  <a href="/programma-allevamento/feed.xml" class="btn btn-ghost" title="Segui le nuove cucciolate con il feed RSS"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true" style="flex:0 0 16px"><circle cx="5" cy="19" r="2.5"/><path d="M3 10.5v3a7.5 7.5 0 0 1 7.5 7.5h3A10.5 10.5 0 0 0 3 10.5z"/><path d="M3 4v3a14 14 0 0 1 14 14h3A17 17 0 0 0 3 4z"/></svg>Segui con RSS</a>
+  <a href="/programma-allevamento/segui/" class="btn btn-ghost" title="Segui le nuove cucciolate con il feed RSS"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true" style="flex:0 0 16px"><circle cx="5" cy="19" r="2.5"/><path d="M3 10.5v3a7.5 7.5 0 0 1 7.5 7.5h3A10.5 10.5 0 0 0 3 10.5z"/><path d="M3 4v3a14 14 0 0 1 14 14h3A17 17 0 0 0 3 4z"/></svg>Segui con RSS</a>
   </div>
   </div>
   </section>

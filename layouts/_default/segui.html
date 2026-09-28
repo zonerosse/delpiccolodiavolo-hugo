@@ -1,0 +1,73 @@
+{{ define "main" }}
+{{- /* Pagina "Segui le cucciolate": spiega come seguire il feed RSS del
+       programma di allevamento e ne mostra le voci. Legge le schede
+       <article class="litter-card"> della pagina indicata in "fonte", come il
+       feed, quindi si aggiorna da sola quando cambia il programma. */ -}}
+{{- $p := site.GetPage .Params.fonte -}}
+{{- $feed := "" }}{{ with $p }}{{ with .OutputFormats.Get "RSSPROGRAMMA" }}{{ $feed = .Permalink }}{{ end }}{{ end -}}
+{{- $src := "" }}{{ with $p }}{{ $src = .Params.custom_content | default .Content | string }}{{ end -}}
+{{- $schede := findRE `(?s)<article class="litter-card"[^>]*>.*?</article>` $src -}}
+{{- $lang := .Site.Language.Lang -}}
+{{- $mesi := dict "it" (slice "gennaio" "febbraio" "marzo" "aprile" "maggio" "giugno" "luglio" "agosto" "settembre" "ottobre" "novembre" "dicembre") "en" (slice "January" "February" "March" "April" "May" "June" "July" "August" "September" "October" "November" "December") "de" (slice "Januar" "Februar" "März" "April" "Mai" "Juni" "Juli" "August" "September" "Oktober" "November" "Dezember") -}}
+<style>
+.segui{max-width:760px;margin:0 auto;padding:6rem 1.5rem 3rem}
+.segui .eyebrow{font-size:.65rem;font-weight:600;letter-spacing:.15em;text-transform:uppercase;color:#8b5a2b}
+.segui h1{font-family:Georgia,serif;font-weight:400;color:#5c4a3a;font-size:2rem;line-height:1.2;margin:.4rem 0 1rem}
+.segui h1 em{color:#8b5a2b}
+.segui .lead{font-size:1rem;margin-bottom:1.5rem;color:#4a3f35}
+.segui .lead strong{color:#8b5a2b}
+.segui .box{background:#fff;border:1px solid #e6ddd4;border-radius:10px;padding:1.4rem;margin-bottom:2rem}
+.segui .box h2{font-size:.95rem;color:#5c4a3a;margin-bottom:.8rem}
+.segui .btns{display:flex;gap:.6rem;flex-wrap:wrap;margin-bottom:1.2rem}
+.segui .copia{display:flex;gap:.5rem;flex-wrap:wrap}
+.segui .copia input{flex:1 1 280px;min-height:44px;padding:.6rem .8rem;border:1px solid #d8cbbd;border-radius:6px;font-size:.85rem;color:#4a3f35;background:#faf8f5}
+.segui .copia button{min-height:44px;padding:0 1.1rem;border:1px solid #8b5a2b;background:#fff;color:#8b5a2b;font-weight:700;border-radius:6px;cursor:pointer}
+.segui .small{font-size:.82rem;color:#6b5d52;margin-top:.8rem}
+.segui h2.sez{font-family:Georgia,serif;font-weight:400;color:#5c4a3a;font-size:1.35rem;margin-bottom:1rem}
+.segui .it{background:#fff;border:1px solid #e6ddd4;border-radius:10px;padding:1.1rem 1.2rem;margin-bottom:.9rem}
+.segui .top{display:flex;justify-content:space-between;gap:.5rem;align-items:center;margin-bottom:.3rem}
+.segui .data{font-size:.78rem;color:#6b5d52}
+.segui .badge-s{font-size:.65rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;background:#f5ebe0;color:#8b5a2b;padding:.2rem .5rem;border-radius:4px}
+.segui .it h3{font-size:1rem;color:#5c4a3a;margin-bottom:.3rem;line-height:1.4}
+.segui .it p{font-size:.9rem;margin-bottom:.4rem;color:#4a3f35}
+.segui .it a,.segui .torna{color:#8b5a2b;font-weight:600;font-size:.9rem}
+</style>
+<div class="segui">
+  <span class="eyebrow">{{ .Params.eyebrow }}</span>
+  <h1>{{ .Params.h1 | safeHTML }}</h1>
+  <p class="lead">{{ .Params.lead | safeHTML }}</p>
+
+  <div class="box">
+    <h2>{{ .Params.scegli }}</h2>
+    <div class="btns">
+      <a class="btn btn-primary" href="https://feedly.com/i/subscription/feed/{{ $feed | urlquery }}" target="_blank" rel="noopener nofollow" title="Feedly">{{ .Params.feedly }}</a>
+      <a class="btn btn-ghost" href="https://www.inoreader.com/?add_feed={{ $feed | urlquery }}" target="_blank" rel="noopener nofollow" title="Inoreader">{{ .Params.inoreader }}</a>
+    </div>
+    <p style="font-size:.9rem;margin-bottom:.5rem;color:#4a3f35">{{ .Params.altro }}</p>
+    <div class="copia">
+      <input id="feed-url" readonly value="{{ $feed }}" aria-label="{{ .Params.altro }}" onclick="this.select()">
+      <button type="button" onclick="navigator.clipboard.writeText(document.getElementById('feed-url').value);this.textContent='{{ .Params.copiato }}'">{{ .Params.copia }}</button>
+    </div>
+    <p class="small">{{ .Params.nota }}</p>
+  </div>
+
+  <h2 class="sez">{{ .Params.elenco }}</h2>
+  {{- range $schede }}
+  {{- $id := index (index (findRESubmatch `id="([^"]+)"` . 1) 0) 1 -}}
+  {{- $data := time (index (index (findRESubmatch `data-nascita="([^"]+)"` . 1) 0) 1) -}}
+  {{- $titolo := index (index (findRESubmatch `(?s)<h3 class="litter-title">(.*?)</h3>` . 1) 0) 1 | plainify | htmlUnescape -}}
+  {{- $stato := "" }}{{ with findRESubmatch `(?s)<span class="badge[^"]*">(.*?)</span>` . 1 }}{{ $stato = index (index . 0) 1 | plainify | htmlUnescape }}{{ end -}}
+  {{- $cani := slice }}{{ range findRESubmatch `(?s)<span class="dog-name">(.*?)</span>` . }}{{ $cani = $cani | append (index . 1 | plainify | htmlUnescape) }}{{ end -}}
+  {{- $testo := "" }}{{ with findRESubmatch `(?s)<p style="margin-top:1rem[^"]*">(.*?)</p>` . 1 }}{{ $testo = index (index . 0) 1 | plainify | htmlUnescape }}{{ end -}}
+  {{- $m := index (index $mesi $lang) (sub (int ($data.Format "1")) 1) -}}
+  <article class="it">
+    <div class="top"><span class="data">{{ if eq $lang "de" }}{{ $data.Format "2" }}. {{ $m }} {{ $data.Format "2006" }}{{ else if eq $lang "en" }}{{ $data.Format "2" }} {{ $m }} {{ $data.Format "2006" }}{{ else }}{{ $data.Format "2" }} {{ $m }} {{ $data.Format "2006" }}{{ end }}</span>{{ with $stato }}<span class="badge-s">{{ . }}</span>{{ end }}</div>
+    <h3>{{ $titolo }}{{ with $cani }}: {{ delimit . " × " }}{{ end }}</h3>
+    {{ with $testo }}<p>{{ . }}</p>{{ end }}
+    <a href="{{ $p.RelPermalink }}#{{ $id }}">{{ $.Params.vedi }} →</a>
+  </article>
+  {{- end }}
+
+  <p style="margin-top:1rem"><a class="torna" href="{{ with $p }}{{ .RelPermalink }}{{ end }}">← {{ .Params.torna }}</a></p>
+</div>
+{{ end }}
