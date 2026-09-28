@@ -1,7 +1,7 @@
 ---
 title: "Staffy puppy abroad: timing and paperwork"
 date: 2026-09-12
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 articolo: true
 translationKey: "cucciolo-estero"
 description: "A puppy going to another European country leaves at four months, not two. Rabies vaccination, pet passport, TRACES certificate and ENCI export pedigree."
@@ -107,7 +107,7 @@ custom_content: |
 
   <section class="cta-section">
   <h2>Questions about a placement abroad?</h2>
-  <p>Write to me in your own language — I will manage. If you would rather talk, my daughter Sara speaks English, German, Spanish and Dutch: <strong>+39 377 689 6955</strong>.</p>
+  <p>Write to me in your own language — I will manage. If you would rather talk, my daughter Sara speaks English, German and Spanish: <strong>+39 377 689 6955</strong>.</p>
   <a class="btn btn-light" href="https://wa.me/393924635584" target="_blank" rel="noopener" aria-label="Write on WhatsApp (opens in a new tab)">Write on WhatsApp</a>
   </section>
 ---

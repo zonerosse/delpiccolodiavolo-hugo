@@ -124,6 +124,21 @@ enableRobotsTXT = true
   home = ["HTML", "sitemap", "MARKDOWN", "LLMSFULL", "HEADERS"]
   page = ["HTML", "MARKDOWN"]
 
+# Feed RSS del programma di allevamento: una voce per ogni scheda cucciolata
+# della pagina (programma-allevamento/feed.xml, e le versioni EN e DE).
+# Le schede portano id e data-nascita, da cui il feed prende link e data.
+[outputFormats.RSSPROGRAMMA]
+  mediaType = "application/rss+xml"
+  baseName = "feed"
+  isPlainText = false
+  rel = "alternate"
+
+[[cascade]]
+  outputs = ["HTML", "MARKDOWN", "RSSPROGRAMMA"]
+  [cascade.target]
+    kind = "page"
+    path = "{/programma-allevamento,/litters-staffordshire-bull-terrier,/wuerfe-staffordshire-bull-terrier}"
+
 # ---------------------------------------------------------------
 # FOTO HERO A ROTAZIONE
 # La foto della home cambia da sola in base al periodo.

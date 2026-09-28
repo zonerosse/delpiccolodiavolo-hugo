@@ -2,7 +2,7 @@
 title: "Würfe Staffordshire Bull Terrier"
 titleSeo: "Würfe Staffordshire Bull Terrier: geplant und bisherige"
 date: 2025-12-28
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 tipoPagina: "CollectionPage"
 translationKey: "programma"
 description: "Staffordshire Bull Terrier Würfe mit ausgewählten Eltern, L2HGA/HC Gentests, ENCI-Stammbaum. Zuchtprogramm, Elitebull und Lackyle Linien. Ostellato (FE)."
@@ -29,9 +29,9 @@ custom_content: |
   <h1 class="hero-title">Würfe <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">Selektion, Gesundheit und Typizität - Seit 2013</p>
   <p class="hero-description">Geplante Verpaarungen mit getesteten Zuchttieren, ENCI-Stammbaum und ausgewählten Linien aus Großbritannien und Irland. Updates zu Verfügbarkeit und Reservierungen.</p>
+  <p style="font-family:Georgia,serif;font-size:1.05rem;font-weight:700;color:#8b5a2b;margin:0 0 .8rem">Bleiben Sie über geplante Würfe auf dem Laufenden!!</p>
   <div class="hero-actions">
-  <a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20möchte%20Infos%20über%20Würfe" class="btn btn-primary" title="Kontaktieren Sie uns auf WhatsApp">Kontakt</a>
-  <a href="/de/welpen-staffordshire-bull-terrier/" class="btn btn-ghost" title="Infos zu verfügbaren Welpen">Welpen Info</a>
+  <a href="/de/wuerfe-staffordshire-bull-terrier/feed.xml" class="btn btn-ghost" title="Neue Würfe per RSS-Feed verfolgen"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true" style="flex:0 0 16px"><circle cx="5" cy="19" r="2.5"/><path d="M3 10.5v3a7.5 7.5 0 0 1 7.5 7.5h3A10.5 10.5 0 0 0 3 10.5z"/><path d="M3 4v3a14 14 0 0 1 14 14h3A17 17 0 0 0 3 4z"/></svg>Per RSS folgen</a>
   </div>
   </div>
   </section>
@@ -76,7 +76,7 @@ custom_content: |
   <h2 class="section-title">Geplante und Vergangene Würfe</h2>
   
   <!-- Wurf: Bilquis × Black Jack - GEBOREN, NICHT VERFÜGBAR -->
-  <article class="litter-card">
+  <article class="litter-card" id="cucciolata-2026-08-01" data-nascita="2026-08-01">
   <div class="litter-header">
   <h3 class="litter-title">Wurf geboren am 01.08.2026</h3>
   <span class="badge badge-soldout">Nicht verfügbar</span>
@@ -117,7 +117,7 @@ custom_content: |
   </article>
   
   <!-- Wurf 1: Heat × Nora - KOMMEND -->
-  <article class="litter-card">
+  <article class="litter-card" id="cucciolata-2026-02-09" data-nascita="2026-02-09">
   <div class="litter-header">
   <h3 class="litter-title">Wurf geboren am 09.02.2026</h3>
   <span class="badge badge-soldout">Nicht verfügbar</span>
@@ -155,7 +155,7 @@ custom_content: |
   </article>
   
   <!-- Wurf 2: Bilquis × Luis - AUSVERKAUFT -->
-  <article class="litter-card">
+  <article class="litter-card" id="cucciolata-2025-05-02" data-nascita="2025-05-02">
   <div class="litter-header">
   <h3 class="litter-title">Wurf geboren am 02.05.2025</h3>
   <span class="badge badge-soldout">Nicht verfügbar</span>
@@ -193,7 +193,7 @@ custom_content: |
   </article>
   
   <!-- Wurf 3: Prospect × Bean - AUSVERKAUFT -->
-  <article class="litter-card">
+  <article class="litter-card" id="cucciolata-2025-02-01" data-nascita="2025-02-01">
   <div class="litter-header">
   <h3 class="litter-title">Welpen geboren am 01.02.2025</h3>
   <span class="badge badge-soldout">Nicht verfügbar</span>

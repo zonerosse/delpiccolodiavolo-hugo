@@ -1,0 +1,36 @@
+{{- /* Feed del programma di allevamento: legge le schede <article class="litter-card">
+       della pagina. Titolo dalla scheda, coppia dai nomi dei due cani, data da
+       data-nascita, link all'ancora della scheda, riassunto dal paragrafo che
+       spiega l'accoppiamento. */ -}}
+{{- $src := .Params.custom_content | default .Content | string -}}
+{{- $pagina := . -}}
+{{- $schede := findRE `(?s)<article class="litter-card"[^>]*>.*?</article>` $src -}}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ .Title }} – Del Piccolo Diavolo</title>
+    <link>{{ .Permalink }}</link>
+    <description>{{ .Description }}</description>
+    <language>{{ .Site.Language.Lang }}</language>
+    <managingEditor>zonerosse@gmail.com (Paolo Boldrini)</managingEditor>
+    <lastBuildDate>{{ .Lastmod.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
+    {{- with .OutputFormats.Get "RSSPROGRAMMA" }}
+    <atom:link href="{{ .Permalink }}" rel="self" type="application/rss+xml" />
+    {{- end }}
+    {{- range $schede }}
+    {{- $id := index (index (findRESubmatch `id="([^"]+)"` . 1) 0) 1 -}}
+    {{- $data := index (index (findRESubmatch `data-nascita="([^"]+)"` . 1) 0) 1 -}}
+    {{- $titolo := index (index (findRESubmatch `(?s)<h3 class="litter-title">(.*?)</h3>` . 1) 0) 1 | plainify | htmlUnescape -}}
+    {{- $stato := "" }}{{ with findRESubmatch `(?s)<span class="badge[^"]*">(.*?)</span>` . 1 }}{{ $stato = index (index . 0) 1 | plainify | htmlUnescape }}{{ end -}}
+    {{- $cani := slice }}{{ range findRESubmatch `(?s)<span class="dog-name">(.*?)</span>` . }}{{ $cani = $cani | append (index . 1 | plainify | htmlUnescape) }}{{ end -}}
+    {{- $testo := "" }}{{ with findRESubmatch `(?s)<p style="margin-top:1rem[^"]*">(.*?)</p>` . 1 }}{{ $testo = index (index . 0) 1 | plainify | htmlUnescape }}{{ end }}
+    <item>
+      <title>{{ $titolo }}{{ with $cani }}: {{ delimit . " × " }}{{ end }}</title>
+      <link>{{ $pagina.Permalink }}#{{ $id }}</link>
+      <guid isPermaLink="true">{{ $pagina.Permalink }}#{{ $id }}</guid>
+      <pubDate>{{ (time $data).Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+      <description>{{ with $stato }}{{ . }}. {{ end }}{{ $testo }}</description>
+    </item>
+    {{- end }}
+  </channel>
+</rss>

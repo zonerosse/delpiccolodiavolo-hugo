@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Litters"
 titleSeo: "Staffordshire Bull Terrier litters: planned and past"
 date: 2025-12-28
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 tipoPagina: "CollectionPage"
 translationKey: "programma"
 description: "Staffordshire Bull Terrier litters at Del Piccolo Diavolo: planned and past pairings, the parents, their L2HGA and HC tests, and how we decide each mating."
@@ -29,9 +29,9 @@ custom_content: |
   <h1 class="hero-title"><em>Staffordshire</em> <br>Bull Terrier <br>Litters</h1>
   <p class="hero-subtitle">Selection, health and breed type - Since 2013</p>
   <p class="hero-description">Planned pairings with tested breeding dogs, ENCI pedigree and selected lines from UK and Ireland. Updates on availability and reservations.</p>
+  <p style="font-family:Georgia,serif;font-size:1.05rem;font-weight:700;color:#8b5a2b;margin:0 0 .8rem">Stay up to date on our planned litters!!</p>
   <div class="hero-actions">
-  <a href="https://wa.me/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20litters" class="btn btn-primary" title="Contact us on WhatsApp">Contact Us</a>
-  <a href="/en/puppies-staffordshire-bull-terrier/" class="btn btn-ghost" title="Info about available puppies">Puppy Info</a>
+  <a href="/en/litters-staffordshire-bull-terrier/feed.xml" class="btn btn-ghost" title="Follow new litters through the RSS feed"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true" style="flex:0 0 16px"><circle cx="5" cy="19" r="2.5"/><path d="M3 10.5v3a7.5 7.5 0 0 1 7.5 7.5h3A10.5 10.5 0 0 0 3 10.5z"/><path d="M3 4v3a14 14 0 0 1 14 14h3A17 17 0 0 0 3 4z"/></svg>Follow via RSS</a>
   </div>
   </div>
   </section>
@@ -76,7 +76,7 @@ custom_content: |
   <h2 class="section-title">Planned and Past Litters</h2>
   
   <!-- Litter: Bilquis × Black Jack - BORN, NOT AVAILABLE -->
-  <article class="litter-card">
+  <article class="litter-card" id="cucciolata-2026-08-01" data-nascita="2026-08-01">
   <div class="litter-header">
   <h3 class="litter-title">Litter born 1 August 2026</h3>
   <span class="badge badge-soldout">Not available</span>
@@ -117,7 +117,7 @@ custom_content: |
   </article>
   
   <!-- Litter 1: Heat × Nora - COMING -->
-  <article class="litter-card">
+  <article class="litter-card" id="cucciolata-2026-02-09" data-nascita="2026-02-09">
   <div class="litter-header">
   <h3 class="litter-title">Litter born 09/02/2026</h3>
   <span class="badge badge-soldout">Not available</span>
@@ -155,7 +155,7 @@ custom_content: |
   </article>
   
   <!-- Litter 2: Bilquis × Luis - SOLD OUT -->
-  <article class="litter-card">
+  <article class="litter-card" id="cucciolata-2025-05-02" data-nascita="2025-05-02">
   <div class="litter-header">
   <h3 class="litter-title">Litter born 02/05/2025</h3>
   <span class="badge badge-soldout">Not available</span>
@@ -193,7 +193,7 @@ custom_content: |
   </article>
   
   <!-- Litter 3: Prospect × Bean - SOLD OUT -->
-  <article class="litter-card">
+  <article class="litter-card" id="cucciolata-2025-02-01" data-nascita="2025-02-01">
   <div class="litter-header">
   <h3 class="litter-title">Puppies born 01/02/2025</h3>
   <span class="badge badge-soldout">Not available</span>

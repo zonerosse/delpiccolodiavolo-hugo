@@ -2,7 +2,7 @@
 title: "Programma allevamento Staffordshire Bull Terrier"
 titleSeo: "Programma allevamento Staffordshire Bull Terrier"
 date: 2025-12-28
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 tipoPagina: "CollectionPage"
 translationKey: "programma"
 description: "Programma di allevamento Staffordshire Bull Terrier: criteri di selezione, salute, test genetici e storico delle cucciolate passate e future."
@@ -32,9 +32,9 @@ custom_content: |
   <h1 class="hero-title">Programma di <em>allevamento</em> <br>Staffordshire Bull Terrier</h1>
   <p class="hero-subtitle">Selezione, salute e tipicità - Dal 2013</p>
   <p class="hero-description">Accoppiamenti pianificati secondo criteri di salute, carattere e tipicità. In questa pagina trovi il programma di selezione e lo storico delle cucciolate.</p>
+  <p style="font-family:Georgia,serif;font-size:1.05rem;font-weight:700;color:#8b5a2b;margin:0 0 .8rem">Resta aggiornato sulle cucciolate in programma!!</p>
   <div class="hero-actions">
-  <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sugli%20accoppiamenti" class="btn btn-primary" title="Informazioni sul programma">Informazioni</a>
-  <a href="/cuccioli-staffordshire-bull-terrier/" class="btn btn-ghost" title="Cuccioli Staffordshire Bull Terrier">Cuccioli Staffordshire Bull Terrier</a>
+  <a href="/programma-allevamento/feed.xml" class="btn btn-ghost" title="Segui le nuove cucciolate con il feed RSS"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true" style="flex:0 0 16px"><circle cx="5" cy="19" r="2.5"/><path d="M3 10.5v3a7.5 7.5 0 0 1 7.5 7.5h3A10.5 10.5 0 0 0 3 10.5z"/><path d="M3 4v3a14 14 0 0 1 14 14h3A17 17 0 0 0 3 4z"/></svg>Segui con RSS</a>
   </div>
   </div>
   </section>
@@ -110,7 +110,7 @@ custom_content: |
   <p style="text-align:center;margin-bottom:2rem">Ogni accoppiamento è studiato per consolidare le caratteristiche morfologiche desiderate, migliorare il temperamento e preservare la salute genetica. Gli obiettivi vengono definiti analizzando pedigree, risultati espositivi e test genetici di entrambi i genitori.</p>
 
   <!-- Cucciolata: Bilquis × Black Jack - NATA -->
-  <article class="litter-card">
+  <article class="litter-card" id="cucciolata-2026-08-01" data-nascita="2026-08-01">
   <div class="litter-header">
   <h3 class="litter-title">Cucciolata nata il 1° agosto 2026</h3>
   <span class="badge badge-soldout">Non disponibili</span>
@@ -151,7 +151,7 @@ custom_content: |
   </article>
 
   <!-- Cucciolata 1: Red × Nora - NATA -->
-  <article class="litter-card">
+  <article class="litter-card" id="cucciolata-2026-02-09" data-nascita="2026-02-09">
   <div class="litter-header">
   <h3 class="litter-title">Cucciolata nata il 09/02/2026</h3>
   <span class="badge badge-soldout">Non disponibili</span>
@@ -189,7 +189,7 @@ custom_content: |
   </article>
 
   <!-- Cucciolata 2: Bilquis × Luis - PASSATA -->
-  <article class="litter-card">
+  <article class="litter-card" id="cucciolata-2025-05-02" data-nascita="2025-05-02">
   <div class="litter-header">
   <h3 class="litter-title">Cucciolata nata il 02/05/2025</h3>
   <span class="badge badge-soldout">Non disponibili</span>
@@ -229,7 +229,7 @@ custom_content: |
   </article>
 
   <!-- Cucciolata 3: Prospect × Bean - PASSATA -->
-  <article class="litter-card">
+  <article class="litter-card" id="cucciolata-2025-02-01" data-nascita="2025-02-01">
   <div class="litter-header">
   <h3 class="litter-title">Cucciolata nata il 01/02/2025</h3>
   <span class="badge badge-soldout">Non disponibili</span>

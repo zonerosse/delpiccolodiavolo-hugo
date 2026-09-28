@@ -58,6 +58,8 @@
   <link rel="canonical" href="{{ .Permalink }}">
   {{ with .OutputFormats.Get "MARKDOWN" }}<link rel="alternate" type="text/markdown" href="{{ .Permalink }}" title="Versione Markdown per agenti AI">{{ end }}
   <link rel="alternate" type="text/plain" href="{{ "llms.txt" | absLangURL }}" title="llms.txt">
+  {{/* Feed RSS del programma di allevamento, segnalato sulla pagina stessa. */}}
+  {{ with .OutputFormats.Get "RSSPROGRAMMA" }}<link rel="alternate" type="application/rss+xml" href="{{ .Permalink }}" title="{{ i18n "rssCucciolate" }}">{{ end }}
 
   {{/* Hreflang: solo traduzioni realmente esistenti */}}
   {{ range .AllTranslations }}
