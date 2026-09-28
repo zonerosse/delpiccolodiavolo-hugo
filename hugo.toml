@@ -21,7 +21,11 @@ enableRobotsTXT = true
 [frontmatter]
   date = ["date", "publishDate"]
   publishDate = ["publishDate", "date"]
-  lastmod = [":git", "lastmod", "date"]
+  # Prima il lastmod del front matter (aggiornato dal gancio pre-commit),
+  # poi git. Con ":git" in testa Cloudflare, che scarica il repository senza
+  # la storia completa, dava a tutte le pagine la data dell'ultimo commit:
+  # nella sitemap il sito risultava cambiato per intero a ogni push.
+  lastmod = ["lastmod", ":git", "date"]
   expiryDate = ["expiryDate"]
 
 # Nessuna tassonomia. Hugo ne crea due per impostazione predefinita, tag e

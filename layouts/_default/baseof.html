@@ -91,6 +91,12 @@
        indicare og_image nel front matter, in JPEG o PNG da 1200x630. */}}
   {{ $og := .Params.og_image | default "/images/og-default.jpg" }}
   <meta property="og:image" content="{{ $og | absURL }}">
+  {{/* Testo alternativo dell'anteprima: og_image_alt nel front matter se la
+       pagina ha una sua immagine, altrimenti la descrizione dell'immagine
+       predefinita. */}}
+  {{ $ogAlt := .Params.og_image_alt }}
+  {{ if not $ogAlt }}{{ if eq .Site.Language.Lang "en" }}{{ $ogAlt = "Staffordshire Bull Terrier from the Del Piccolo Diavolo kennel" }}{{ else if eq .Site.Language.Lang "de" }}{{ $ogAlt = "Staffordshire Bull Terrier aus der Zucht Del Piccolo Diavolo" }}{{ else }}{{ $ogAlt = "Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo" }}{{ end }}{{ end }}
+  <meta property="og:image:alt" content="{{ $ogAlt }}">
   {{/* Le dimensioni si dichiarano solo per il JPEG di default, di cui le
        conosciamo. Su un og_image diverso sarebbero un'informazione falsa
        e le piattaforme ritaglierebbero male. */}}
@@ -107,6 +113,7 @@
   <meta name="twitter:title" content="{{ $base }}">
   <meta name="twitter:description" content="{{ .Description | default .Site.Params.description }}">
   <meta name="twitter:image" content="{{ $og | absURL }}">
+  <meta name="twitter:image:alt" content="{{ $ogAlt }}">
 
   {{ with .Params.json_ld }}
   <script type="application/ld+json">{{ . | safeJS }}</script>

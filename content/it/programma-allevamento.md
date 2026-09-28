@@ -1,6 +1,6 @@
 ---
 title: "Programma allevamento Staffordshire Bull Terrier"
-titleSeo: "Cucciolate programmate: accoppiamenti e criteri di selezione"
+titleSeo: "Programma allevamento Staffordshire Bull Terrier"
 lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 translationKey: "programma"
