@@ -1,7 +1,7 @@
 ---
 title: "Farben des Staffordshire Bull Terrier: Schwarz, Gestromt, Blau und mehr"
 date: 2026-08-01
-lastmod: 2026-09-26
+lastmod: 2026-09-28
 titleSeo: "Farben des Staffordshire Bull Terrier: Schwarz, Gestromt"
 translationKey: "colori"
 articolo: true
@@ -42,9 +42,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>Kurz gesagt:</strong> Der Standard des <a aria-label="Zucht Del Piccolo Diavolo" href="/de/">Staffordshire Bull Terrier</a> erlaubt die Farben <strong>Rot, Falb, Weiß, Schwarz oder Blau</strong>, jeweils mit oder ohne Weiß, sowie <strong>jede Schattierung von Gestromt (Brindle)</strong> mit oder ohne Weiß. Black and Tan (Schwarz-Loh) und Leberfarbe sind nicht erlaubt. <strong>Blau</strong> ist zwar im Standard aufgeführt, jedoch eine verdünnte Farbe, die mit möglichen Hautproblemen verbunden ist: seriöse Züchter behandeln sie mit großer Vorsicht. In diesem Ratgeber erklären wir jede Farbe klar und deutlich.
-  </div>
+  <p>Der FCI-Standard Nr. 76 des Staffordshire Bull Terrier erlaubt fünf Farben, Rot, Falb, Weiß, Schwarz und Blau, jeweils mit oder ohne Weiß, dazu jede Schattierung von Gestromt, ebenfalls mit oder ohne Weiß. Nicht erlaubt sind Schwarz mit Loh (black and tan) und Leberfarben: Ein Hund in diesen Farben kann ein wunderbarer Begleiter sein, entspricht aber nicht dem Standard. Gestromt reicht von hell bis zu einem Black Brindle, das fast schwarz wirkt; Schwarz kann einfarbig sein oder weiße Abzeichen an Brust, Zehen und Fang haben. Blau ist ein Sonderfall: Der Standard nennt es, doch es ist eine verdünnte Farbe, die mit möglichen Hautproblemen verbunden ist, und eine sorgfältige Zucht geht vorsichtig damit um. In der Zucht Del Piccolo Diavolo in Ostellato bei Ferrara hat der Wurf von Bilquis und Black Jack im August 2026 schwarze Welpen gebracht.</p>
+
+  
   
   <h2>Was der offizielle Standard sagt</h2>
   <p>Der <a href="https://www.enci.it/media/2347/076.pdf" title="FCI-Standard Nr. 76 für den Staffordshire Bull Terrier, offizielles ENCI-PDF" target="_blank" rel="noopener" aria-label="FCI-Standard Nr. 76 für den Staffordshire Bull Terrier, offizielles ENCI-PDF (wird in einem neuen Tab geöffnet)">FCI-Standard Nr. 76</a> für den Staffordshire Bull Terrier listet die erlaubten Farben genau auf. Erlaubt sind:</p>

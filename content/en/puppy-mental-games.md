@@ -43,9 +43,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>In brief:</strong> Mental stimulation is just as important as physical exercise for your Staffordshire Bull Terrier puppy. Sniffing games, food puzzles and enrichment activities develop problem-solving skills, build self-control and provide calming mental fatigue.
-  </div>
+  <p>Mental work tires a Staffordshire Bull Terrier puppy more than physical exercise does, and without any load on growing joints. Ten to fifteen minutes of genuine problem-solving leaves a puppy more tired than twice as long spent walking, which matters in a breed limited to about five minutes of walking per month of age until the growth plates close. The simplest change costs nothing: stop feeding from a bowl and use the daily ration for sniffing games, food puzzles and short training sessions. Nose work is the most valuable activity of all. A puppy that learns to try, fail and try again builds persistence and frustration tolerance; a bored one spends its energy on skirting boards and shoes. Avoid anything hard enough to break a tooth, and repetitive ball throwing that only winds the puppy up.</p>
+
+  
   
   <h2>Why mental work matters as much as exercise</h2>
   <p>A Staffordshire Bull Terrier puppy that is physically tired but mentally idle is not a tired puppy. It is a puppy with energy it has no use for, which it will spend on your skirting boards, your shoes and your patience.</p>

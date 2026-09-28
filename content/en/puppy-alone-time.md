@@ -43,9 +43,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>In brief:</strong> Getting a Staffordshire Bull Terrier puppy used to staying alone is a gradual process. The goal is to create positive associations, predictable routines and safe environments, preventing separation anxiety and destructive behaviors.
-  </div>
+  <p>The Staffordshire Bull Terrier was selected to want human company, and that makes being alone something a puppy has to be taught deliberately. It starts in the first week, with 30 seconds behind a closed door, then one minute, three, ten, twenty, forty, leaving and coming back without ceremony. A puppy of 8 to 12 weeks should not be alone for more than one or two hours, and by six months three to four; an adult that has been walked and has something to do can manage four to six hours. A routine of eight hours a day alone is not compatible with this breed. The warning sign is not mess but panic: continuous vocalising, salivation, destruction focused on doors and windows. That is separation distress, and it calls for a behaviourist, never for punishment.</p>
+
+  
   
   <div class="info-box">
   <p class="info-box-title">🎯 Key objectives</p>

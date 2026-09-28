@@ -61,7 +61,7 @@ custom_content: |
   
   <div class="callout">
   <p class="callout-title">🏆 La nostra esperienza</p>
-  <p>In 20 anni di allevamento abbiamo osservato che gli Staffy con routine di esercizio regolare mostrano <strong>meno problemi comportamentali, migliore gestione dello stress</strong> e una convivenza familiare più serena. Un cane stanco è un cane felice!</p>
+  <p>In vent'anni con la razza abbiamo visto che gli Staffy con routine di esercizio regolare mostrano <strong>meno problemi comportamentali, migliore gestione dello stress</strong> e una convivenza familiare più serena. Un cane stanco è un cane felice!</p>
   </div>
   
   <h2>Esercizio per Cuccioli: La Regola dei 5 Minuti</h2>

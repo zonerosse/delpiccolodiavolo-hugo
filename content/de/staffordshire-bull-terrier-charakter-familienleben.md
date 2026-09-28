@@ -42,10 +42,10 @@ custom_content: |
 
   <div class="article-container">
   <article class="article-content">
+  
+  <p>Der Staffordshire Bull Terrier hat ein körperliches Bedürfnis nach menschlicher Nähe und zugleich eine äußerst starke Persönlichkeit: entschlossen, stur und voller Energie. So beschreibt ihn Paolo Boldrini, der seit 2005 in der Rasse ist, seit 2013 mit der Zucht Del Piccolo Diavolo in Ostellato bei Ferrara züchtet und mehr als hundert Staffies aufgezogen und vermittelt hat. Mit Kindern zeigt die Rasse eine echte Geduld, der Grund, warum die Engländer sie Nanny Dog nennen, doch kein Hund darf mit einem kleinen Kind allein bleiben. Gegenüber anderen Hunden gibt es Reaktivität, vor allem zwischen erwachsenen Tieren gleichen Geschlechts, und die Sozialisierung verringert sie, ohne sie zu beseitigen. In der Wohnung lebt er gut, wenn sein Mensch da ist und täglich mit ihm hinausgeht; zehn Stunden am Tag allein, nicht. Er ist kein Hund für Menschen, die einen einfachen suchen.</p>
 
-  <div class="lead">
-  <strong>Kurz zusammengefasst:</strong> Der <a aria-label="Zucht Del Piccolo Diavolo" href="/de/" title="Staffordshire Bull Terrier Zucht">Staffordshire Bull Terrier</a> ist der liebevollste Hund, den es gibt — aber auch einer mit einer außergewöhnlich starken Persönlichkeit. Dieser Leitfaden wurde von jemandem geschrieben, der seit 2005 in der Rasse ist, seit 2013 züchtet und über hundert Staffordshire Bull Terrier vermittelt hat. Keine allgemeinen Beschreibungen: nur die Wahrheit.
-  </div>
+
 
   <h2>Der Charakter des Staffordshire Bull Terriers: die Wahrheit</h2>
 

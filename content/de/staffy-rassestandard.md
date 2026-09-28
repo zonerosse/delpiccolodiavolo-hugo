@@ -30,9 +30,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>Kurz gesagt:</strong> Der FCI-Standard Nr. 76 beschreibt den idealen Staffordshire Bull Terrier: einen kompakten, muskulösen Hund von großer Stärke für seine Größe, mit traditionellem Mut und hoher Intelligenz.
-  </div>
+  <p>Ein Staffordshire Bull Terrier ist typvoll, wenn Kopf, Proportionen, Brust, Knochen, Muskulatur und Gangwerk untereinander und mit dem Wesen im Gleichgewicht stehen, das der FCI-Standard Nr. 76 beschreibt. Der Standard ist die funktionale Beschreibung eines glatthaarigen, kurz gekoppelten Terriers von großer Kraft für seine Größe, wendig genug, um sich auf der Stelle zu drehen, und gesund genug, um den ganzen Tag zu arbeiten. Der Kopf ist kurz, mit tiefem, breitem Schädel, deutlichem Stop, kurzem Fang, kräftigen Kiefern und Scherengebiss; die Augen sind rund und bevorzugt dunkel, die Ohren Rosen- oder halbstehende Ohren. Das Gangwerk ist frei, kraftvoll und flink, mit erkennbarem Schub aus der Hinterhand. Typ heißt nicht, einen einzelnen Punkt zu übertreiben: Ein überzogener Kopf oder ein zu kurzer Fang kosten Atmung und Hitzetoleranz, und der Richter bewertet den ganzen Hund.</p>
+
+  
   
   <h2>Wozu der Standard da ist</h2>
   <p><a href="https://www.enci.it/media/2347/076.pdf" title="FCI-Standard Nr. 76 für den Staffordshire Bull Terrier, offizielles ENCI-PDF" target="_blank" rel="noopener" aria-label="FCI-Standard Nr. 76 für den Staffordshire Bull Terrier, offizielles ENCI-PDF (wird in einem neuen Tab geöffnet)">Der Rassestandard</a> ist keine Schönheitscheckliste. Er ist die funktionale Beschreibung eines Hundes, der für eine bestimmte Aufgabe gebaut wurde: ein kurzhaariger, kurz gekoppelter Terrier von großer Kraft im Verhältnis zu seiner Größe, wendig genug, um auf der Stelle zu drehen, und gesund genug, um den ganzen Tag zu arbeiten. Jede Formulierung existiert, weil sie etwas beschreibt, das der Hund brauchte, um zu funktionieren.</p>

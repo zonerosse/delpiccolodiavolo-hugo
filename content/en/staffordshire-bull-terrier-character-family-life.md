@@ -42,10 +42,10 @@ custom_content: |
 
   <div class="article-container">
   <article class="article-content">
+  
+  <p>The Staffordshire Bull Terrier has a physical need for human contact and, at the same time, an extremely strong personality: determined, stubborn and full of energy. That is the view of Paolo Boldrini, who has been in the breed since 2005, has bred Staffies since 2013 as the Del Piccolo Diavolo kennel in Ostellato, near Ferrara, Italy, and has raised and placed more than a hundred of them. With children the breed shows real patience, the reason the English call it the nanny dog, but no dog should be left alone with a small child. With other dogs reactivity exists, especially between adults of the same sex, and socialisation reduces it without removing it. It lives well in a flat if its owner is present and takes it out every day; left alone ten hours a day, it does not. It is not a dog for anyone who wants an easy one.</p>
 
-  <div class="lead">
-  <strong>In brief:</strong> The <a aria-label="Del Piccolo Diavolo kennel" href="/en/" title="Staffordshire Bull Terrier Kennel">Staffordshire Bull Terrier</a> is the most affectionate dog that exists — but also one with an extremely strong personality. This guide is written by someone who has been in the breed since 2005, breeding since 2013, and has rehomed over a hundred Staffordshire Bull Terriers. No generic descriptions: just the truth.
-  </div>
+
 
   <h2>The Staffordshire Bull Terrier character: the truth</h2>
 

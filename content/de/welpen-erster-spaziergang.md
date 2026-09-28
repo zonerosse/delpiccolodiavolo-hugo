@@ -2,7 +2,7 @@
 title: "Welpen: Erster Spaziergang"
 date: 2025-09-17
 titleSeo: "Der erste Spaziergang des Welpen: wann und wie"
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 translationKey: "passeggiata"
 articolo: true
 image: "/images/blog/cuccioli-5.webp"
@@ -36,9 +36,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>Kurz gesagt:</strong> Die ersten Spaziergänge im Freien sind entscheidend für die Entwicklung Ihres Staffordshire Bull Terrier Welpen. Auf Impfschutz warten, richtige Ausrüstung wählen und auf positive Erfahrungen statt zurückgelegter Strecke konzentrieren.
-  </div>
+  <p>Die ersten Spaziergänge eines Staffordshire Bull Terrier Welpen misst man in Minuten, nicht in Kilometern. Als Richtwert gelten etwa fünf Minuten geführter Spaziergang je Lebensmonat, zweimal täglich: mit drei Monaten fünfzehn Minuten, mit vier zwanzig. Die Grenze gibt es, weil sich die Wachstumsfugen bei dieser Rasse zwischen dem zehnten und vierzehnten Monat schließen und wiederholte Stoßbelastung vorher Schäden hinterlässt, die sich erst Jahre später zeigen. Bis zum Ende der Impfungen mit etwa 16 Wochen zu warten, ist aber auch keine Lösung, weil sich das Sozialisierungsfenster ungefähr im selben Alter schließt: kontrollierte Erfahrungen beginnen, sobald der Welpe da ist, an sauberen, ruhigen Orten, fern vom Kot fremder Hunde. In den ersten Wochen zählt, was der Welpe erlebt, nicht wie weit er läuft: fünf ruhige Minuten Schnüffeln sind mehr wert als dreißig an straffer Leine.</p>
+
+  
   
   <h2>Wann anfangen — und das Impfdilemma</h2>
   <p>Der klassische Rat lautet, bis zum Abschluss der Grundimmunisierung um die sechzehnte Lebenswoche zu warten. Wörtlich befolgt ist dieser Rat schädlich, denn das kritische Sozialisierungsfenster schließt sich etwa zur selben Zeit. Ein Welpe, der bis dahin nichts von der Welt sieht, hat die Phase verpasst, in der Neues am leichtesten angenommen wird — und Verhaltensprobleme aus mangelnder Sozialisierung sind ein weit häufigerer Abgabegrund als Infektionskrankheiten.</p>

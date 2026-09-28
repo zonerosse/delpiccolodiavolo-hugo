@@ -42,9 +42,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>In short:</strong> the <a aria-label="Del Piccolo Diavolo kennel" href="/en/">Staffordshire Bull Terrier</a> is an affectionate, courageous dog, deeply bonded to the family, ideal for those looking for a lively, present companion. But it is not the right dog for everyone: it has a strong need for company, plenty of energy to burn and a distinctive personality. In this guide we tell you <strong>honestly</strong> the strengths and flaws, so you can work out whether it is right for you <em>before</em> getting a puppy.
-  </div>
+  <p>The Staffordshire Bull Terrier is a compact, muscular dog of 13 to 17 kg that the breed standard describes as reliable, courageous and highly affectionate, especially with children. It suits people who want a dog in the middle of family life, who will take it out every day and who have the time to train it consistently. It does not suit anyone who is away from home for long hours, because it copes with being alone worse than many breeds, nor anyone looking for a detached, independent dog. It has plenty of energy when young, a stubborn streak and, with other dogs, a reactivity that socialisation reduces but does not remove. With children it is patient, but no dog of any breed should be left alone with a small child. This guide sets out the strengths and the flaws before you decide, not after.</p>
+
+  
   
   <h2>What the Staffordshire Bull Terrier really is</h2>
   <p>The Staffordshire Bull Terrier ("Staffy" for short) is a small molosser-type dog (13-17 kg) originating in England, with a compact, muscular build but an enormous heart. The official <a href="https://www.enci.it/media/2347/076.pdf" title="FCI standard no. 76, official ENCI PDF" target="_blank" rel="noopener" aria-label="FCI standard no. 76, official ENCI PDF (opens in a new tab)">standard</a> describes it with words that are rare for a dog: <strong>"traditionally reliable, of indomitable courage and highly affectionate, especially with children"</strong>.</p>

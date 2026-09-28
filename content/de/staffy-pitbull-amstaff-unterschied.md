@@ -1,7 +1,7 @@
 ---
 title: "Unterschied zwischen Staffordshire Bull Terrier, Pitbull und Amstaff"
 date: 2025-11-19
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 titleSeo: "Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich"
 translationKey: "pitbull-amstaff"
 articolo: true
@@ -35,9 +35,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>Kurz gesagt:</strong> <a aria-label="Zucht Del Piccolo Diavolo" href="/de/">Staffordshire Bull Terrier</a>, American Pit Bull Terrier und American Staffordshire Terrier sind drei verschiedene Rassen, die oft verwechselt werden. Der <strong>Staffy</strong> ist der kleinste (max. 17 kg), der <strong>Amstaff</strong> der größte und muskulöseste (bis 35 kg), während der <strong>Pit Bull</strong> (APBT) nicht von der FCI anerkannt ist.
-  </div>
+  <p>Staffordshire Bull Terrier, American Staffordshire Terrier und American Pit Bull Terrier stammen vom selben Grundstock ab, den Bull and Terriers im England des 19. Jahrhunderts, sind heute aber drei verschiedene Rassen. Der Staffordshire Bull Terrier ist der kleinste, mit höchstens 17 kg, und ist von der FCI mit dem Standard Nr. 76 anerkannt. Der American Staffordshire Terrier ist größer und schwerer, bei Rüden bis 35 kg, und ist von der FCI mit dem Standard Nr. 286 anerkannt. Der American Pit Bull Terrier, dessen Gewicht stark schwankt, wird von den amerikanischen Verbänden UKC und ADBA registriert, nicht aber von der FCI; in Italien kann der ENCI ihm deshalb keine Ahnentafel ausstellen, und einen Pit Bull mit ENCI-Papieren gibt es nicht. Keine der drei Rassen ist in Italien verboten, wo seit 2009 der Halter verantwortlich ist, nicht die Rasse.</p>
+
+  
   
   <h2>Warum diese Hunde ständig verwechselt werden</h2>
   <p>Staffordshire Bull Terrier, <a href="https://www.enci.it/media/2547/286.pdf" title="FCI-Standard Nr. 286 des American Staffordshire Terrier, offizielles ENCI-PDF" target="_blank" rel="noopener" aria-label="FCI-Standard Nr. 286 des American Staffordshire Terrier, offizielles ENCI-PDF (wird in einem neuen Tab geöffnet)">American Staffordshire Terrier</a> und der sogenannte Pitbull haben eine gemeinsame Wurzel in den englischen Bull-and-Terrier-Kreuzungen des neunzehnten Jahrhunderts. Von dort haben sie sich in verschiedene Richtungen entwickelt, und heute unterscheiden sie sich in Größe, Standard und rechtlicher Behandlung erheblich.</p>

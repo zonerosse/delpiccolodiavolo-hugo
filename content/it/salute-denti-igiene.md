@@ -61,7 +61,7 @@ custom_content: |
   
   <div class="callout">
   <p class="callout-title">🏆 Esperienza dall'allevamento</p>
-  <p>Nei nostri 20 anni di allevamento abbiamo constatato che gli Staffy abituati precocemente alla spazzolatura mostrano <strong>60-70% in meno di tartaro a 3-4 anni</strong> rispetto a soggetti senza igiene domiciliare.</p>
+  <p>Gli Staffy abituati da cuccioli allo spazzolino sono quelli che da adulti si lasciano pulire i denti senza opporsi: è questa collaborazione, più di qualsiasi prodotto, che rende possibile la prevenzione per tutta la vita del cane.</p>
   </div>
   
   <h2>Anatomia Dentale dello Staffy</h2>

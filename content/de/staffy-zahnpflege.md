@@ -30,9 +30,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>Kurz gesagt:</strong> Zahngesundheit ist wesentlich für das Wohlbefinden des Staffordshire Bull Terriers. Schlechte Mundhygiene kann zu Zahnstein, Gingivitis und ernsteren Problemen führen. Regelmäßiges Zähneputzen und Zahnarztkontrollen sind der Schlüssel.
-  </div>
+  <p>Zahnerkrankungen sind die am häufigsten diagnostizierte Erkrankung beim Hund, und der Staffordshire Bull Terrier braucht aus einem baulichen Grund besondere Aufmerksamkeit: zweiundvierzig Zähne in einem vergleichsweise kurzen Kiefer, so eng, dass sich Belag dort sammelt, wo die Zunge nicht hinkommt. Belag wird in etwa drei Tagen zu Zahnstein, deshalb ist das Zähneputzen das Einzige, was wirklich wirkt: täglich ist ideal, dreimal pro Woche das realistische Minimum, dreißig Sekunden je Seite. Gewöhnen Sie den Hund schon als Welpen langsam daran; mit sieben Monaten sollte kein Milchzahn mehr da sein. Der kräftige Kiefer der Rasse macht sehr harte Kauartikel gefährlich: Was Sie mit dem Fingernagel nicht eindrücken können, gehört nicht ins Maul. Ein regelmäßig geputzter Hund braucht vielleicht alle zwei bis drei Jahre eine professionelle Zahnreinigung, einer, der nie geputzt wurde, ab mittlerem Alter jedes Jahr.</p>
+
+  
   
   <h2>Warum Zahngesundheit wichtiger ist, als Besitzer denken</h2>
   <p>Parodontalerkrankungen sind die am häufigsten diagnostizierte Erkrankung beim Hund und betreffen die große Mehrheit bereits mit 3 Jahren. Beim Staffordshire Bull Terrier verdient das besondere Aufmerksamkeit, und zwar aus einem baulichen Grund: die Rasse hat ein vollständiges Gebiss mit zweiundvierzig Zähnen in einem vergleichsweise kurzen Kiefer. Das bedeutet Enge, und Enge bedeutet Belag an Stellen, die keine Zunge erreicht.</p>

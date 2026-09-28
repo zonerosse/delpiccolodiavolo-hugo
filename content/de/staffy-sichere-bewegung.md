@@ -1,7 +1,7 @@
 ---
 title: "Sichere Bewegung für Staffordshire Bull Terrier"
 date: 2024-06-20
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 translationKey: "esercizio"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -30,9 +30,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>Kurz gesagt:</strong> Der Staffordshire Bull Terrier ist eine athletische, energiegeladene Rasse, die regelmäßige Bewegung für körperliche und geistige Gesundheit braucht. Bewegung muss jedoch altersgerecht sein.
-  </div>
+  <p>Der Staffordshire Bull Terrier braucht jeden Tag Bewegung, aber kein endloses Rennen: Für einen gesunden erwachsenen Hund rechnet man mit sechzig bis neunzig Minuten insgesamt, verteilt auf mindestens zwei Runden, mit ruhigem Gehen, etwas freier Bewegung und Kopfarbeit. Für Welpen gilt die Regel von fünf Minuten geführtem Spaziergang je Lebensmonat, zweimal täglich, weil sich die Wachstumsfugen bei dieser Rasse zwischen dem zehnten und vierzehnten Monat schließen und wiederholte Stoßbelastung vorher Schäden hinterlässt, die sich erst Jahre später zeigen. Beim erwachsenen Hund ist die größte Gefahr die Hitze: Der kurze Fang macht das Hecheln weniger wirksam, und Hecheln ist die einzige Kühlung des Hundes. Gehen Sie in den kühlen Stunden, prüfen Sie den Asphalt fünf Sekunden mit dem Handrücken und lassen Sie den Hund nie im geparkten Auto. Ab etwa acht Jahren bleibt die Dauer, die Intensität sinkt.</p>
+
+  
   
   <h2>Wie viel Bewegung diese Rasse wirklich braucht</h2>
   <p>Der Staffordshire Bull Terrier ist ein athletischer Hund in kompakter Bauform, und sein Bedarf wird regelmäßig in beide Richtungen falsch eingeschätzt. Er braucht keine 2 Stunden Laufen am Tag, und er ist kein Schoßhund, dem eine Runde um den Block genügt.</p>

@@ -1,7 +1,7 @@
 ---
 title: "Parasite Prevention for Staffordshire Bull Terrier"
 date: 2025-01-20
-lastmod: 2026-09-27
+lastmod: 2026-09-28
 translationKey: "parassiti"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -34,9 +34,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>In brief:</strong> Parasites can cause serious health problems in your Staffordshire Bull Terrier. A regular prevention program against fleas, ticks and intestinal worms is essential for your dog's health and your family's safety.
-  </div>
+  <p>Parasite control in the Staffordshire Bull Terrier is predictable and almost entirely effective, as long as the calendar is kept. The flea you see on the dog is only about 5 per cent of an infestation; the rest lives in the house as eggs, larvae and pupae. The breed's short coat makes fleas and ticks easy to spot, but its skin is prone to allergy, so flea allergy dermatitis is common. Ticks carry babesiosis, ehrlichiosis, anaplasmosis and Lyme disease; sand flies and mosquitoes carry leishmaniasis and heartworm. Puppies are born with roundworm from the dam and are wormed every two weeks from two weeks of age until twelve weeks, then monthly until six months. Adults are treated every three months, more often if they scavenge or live with small children, with a faecal examination to check the schedule.</p>
+
+  
   
   <h2>Why prevention beats treatment</h2>
   <p>Parasite control is one of the few areas of dog health where the correct approach is entirely predictable and almost entirely effective. Nearly everything that matters can be prevented with a calendar and a small monthly cost, and nearly every serious case seen by <a href="https://wsava.org/global-guidelines/" title="WSAVA global guidelines" target="_blank" rel="noopener" aria-label="WSAVA global guidelines (opens in a new tab)">vet</a>erinarians involves a dog whose prevention lapsed.</p>

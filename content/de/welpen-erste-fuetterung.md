@@ -2,7 +2,7 @@
 title: "Welpen: Erste Fütterung"
 date: 2025-04-15
 titleSeo: "Ernährung des Welpen in den ersten Monaten"
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -43,9 +43,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>Kurz gesagt:</strong> Die Fütterung in den ersten Wochen zu Hause ist entscheidend für Wachstum, Darmgesundheit und das Wohlbefinden Ihres Staffordshire Bull Terrier Welpen. Hier finden Sie Richtwerte für Portionen, Mahlzeitenfrequenz und wie Sie die Umstellung vom Züchterfutter auf Ihres managen.
-  </div>
+  <p>Ein Staffordshire Bull Terrier Welpe sollte mindestens in der ersten Woche zu Hause genau das Futter bekommen, das er in der Zucht gefressen hat. Jede spätere Umstellung erfolgt über 7 bis 10 Tage, mit einem Viertel, dann der Hälfte, dann drei Vierteln des neuen Futters, und bei weicherem Kot geht man einen Schritt zurück. Von 8 Wochen bis 4 Monaten bekommt der Welpe vier Mahlzeiten am Tag, von 4 bis 6 Monaten drei und ab 6 Monaten zwei, und dabei bleibt es das ganze Leben: eine einzige große Mahlzeit ist bei einer Rasse mit tiefem Brustkorb ein Risikofaktor für die Magendrehung. Die Menge richtet sich nach dem Körperzustand, nicht nach der Tabelle auf dem Sack, angepasst um jeweils 10 Prozent. Leckerli bleiben unter 10 Prozent der Tagesration. Durchfall über 24 Stunden oder mit Blut gehört noch am selben Tag zum Tierarzt.</p>
+
+  
   
   <h2>Die erste Regel: nicht alles auf einmal ändern</h2>
   <p>Ein Welpe, der in ein neues Zuhause kommt, hat bereits Mutter, Wurfgeschwister und alles Vertraute verloren. Am selben Tag auch noch das Futter zu wechseln fügt Verdauungsprobleme hinzu, und Durchfall bei einem 8 Wochen alten Welpen ist keine Kleinigkeit.</p>

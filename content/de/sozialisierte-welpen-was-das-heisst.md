@@ -2,7 +2,7 @@
 title: "\"Bereits sozialisierte Welpen\": was das heißt"
 titleSeo: "Sozialisierte Welpen: was das wirklich heißt"
 date: 2026-09-26
-lastmod: 2026-09-27
+lastmod: 2026-09-28
 translationKey: "socializzazione-affido"
 articolo: true
 image: "/images/blog/socializzazione-cortile-hero.webp"
@@ -35,7 +35,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>&bdquo;Sozialisierte Welpen&ldquo; gehört zu den häufigsten Formulierungen in Anzeigen, und wie &bdquo;Eltern vor Ort&ldquo; bedeutet sie nichts, solange niemand sagt <strong>womit</strong>. Beim Hund reicht die sensible Phase der Sozialisierung von der dritten bis zur zwölften Lebenswoche: wenn ein Staffordshire Bull Terrier Welpe die Zucht verlässt, mit 60 bis 70 Tagen, sind fünf oder sechs dieser zehn Wochen vorbei. Die wichtigere Hälfte der Arbeit steht noch aus, und sie übernimmt die Familie. Eine seriöse Zucht sagt nicht nur, was sie getan hat, sondern auch, was sie <strong>nicht</strong> tun konnte &mdash; Verkehr, Kinder, wenn keine da sind, andere Tierarten, und das Alleinbleiben, das ein Welpe unter Geschwistern nie erlebt hat.</p>
+  <p>&bdquo;Sozialisierte Welpen&ldquo; gehört zu den häufigsten Formulierungen in Anzeigen, und wie &bdquo;Eltern vor Ort&ldquo; bedeutet sie nichts, solange niemand sagt <strong>womit</strong>. Beim Hund reicht die sensible Phase der Sozialisierung von der dritten bis zur zwölften Lebenswoche: wenn ein Staffordshire Bull Terrier Welpe die Zucht verlässt, mit 60 bis 70 Tagen, sind fünf oder sechs dieser zehn Wochen vorbei. Die wichtigere Hälfte der Arbeit steht noch aus, und sie übernimmt die Familie. Eine seriöse Zucht sagt nicht nur, was sie getan hat, sondern auch, was sie <strong>nicht</strong> tun konnte &mdash; Verkehr, Kinder, wenn keine da sind, andere Tierarten, und das Alleinbleiben, das ein Welpe unter Geschwistern nie wirklich erlebt hat, auch nicht in einer guten Zucht.</p>
 
   <h2>Die Phase: was die Verhaltensforschung sagt</h2>
 

@@ -34,6 +34,9 @@ custom_content: |
 
   <div class="article-container">
   <article class="article-content">
+  
+  <p>Bio Sensor, auch ENS oder Early Neurological Stimulation genannt, ist ein Programm der US-Armee aus den 1970er-Jahren: fünf Übungen von je drei bis fünf Sekunden, einmal täglich, vom dritten bis zum sechzehnten Lebenstag des Welpen. Die Vorteile, die ihm zugeschrieben werden, bessere Stresstoleranz, ein leistungsfähigeres Herz und höhere Widerstandskraft gegen Krankheiten, stammen aus diesem Militärprogramm und nicht aus unabhängigen, von anderen Forschern überprüften Studien. Gut belegt ist in der Verhaltensforschung etwas anderes: die sensible Phase der Sozialisierung in den folgenden Wochen und das Gewicht einer guten mütterlichen Fürsorge. Eine Zucht, die ENS als Garantie für einen ausgeglichenen erwachsenen Hund darstellt, verspricht mehr, als man tatsächlich weiß. Das gilt für den Staffordshire Bull Terrier genauso wie für jede andere Rasse.</p>
+
 
   <p>In Wurfankündigungen liest man oft "Welpen nach der Bio-Sensor-Methode" oder "ENS-Programm". Das klingt seriös, und der Ursprung ist es tatsächlich. Was fast immer fehlt, ist der Teil, der sagt, wie gut belegt das Ganze ist.</p>
 

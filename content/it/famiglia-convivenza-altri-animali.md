@@ -49,7 +49,7 @@ custom_content: |
   
   <p>Non tutti gli <strong>Staffordshire Bull Terrier</strong> hanno lo stesso livello di compatibilità con altri animali. Prima di tentare inserimenti, valutare onestamente il temperamento del proprio cane è cruciale per successo e sicurezza.</p>
   
-  <h3>Profilo A - Alta compatibilità (70% Staffy ben socializzati)</h3>
+  <h3>Profilo A - Alta compatibilità (Staffy ben socializzati)</h3>
   <ul>
   <li><strong>Caratteristiche:</strong> Socializzazione precoce intensiva (cucciolo 8-16 settimane con molti cani diversi), esperienze positive costanti, mai episodi aggressività verso altri animali</li>
   <li><strong>Comportamento tipico:</strong> Annusa con curiosità, si avvicina con curve (non frontalmente), accetta correzioni altri cani, gioca con autocontrollo, si disimpegna facilmente</li>
@@ -57,7 +57,7 @@ custom_content: |
   <li><strong>Timeline inserimento:</strong> 2-4 settimane mediamente per convivenza stabile</li>
   </ul>
   
-  <h3>Profilo B - Compatibilità media (20% Staffy)</h3>
+  <h3>Profilo B - Compatibilità media</h3>
   <ul>
   <li><strong>Caratteristiche:</strong> Socializzazione buona ma non ottimale, qualche episodio tensione gestito, selettività iniziale (preferenze razze/taglie/sessi), possibile resource guarding moderato</li>
   <li><strong>Comportamento tipico:</strong> Inizialmente rigido poi si rilassa, gioco vigoroso che può intimidire, difficoltà disimpegno se molto eccitato</li>
@@ -65,7 +65,7 @@ custom_content: |
   <li><strong>Timeline inserimento:</strong> 4-8 settimane, possibili regressioni da gestire</li>
   </ul>
   
-  <h3>Profilo C - Bassa compatibilità (10% Staffy)</h3>
+  <h3>Profilo C - Bassa compatibilità</h3>
   <ul>
   <li><strong>Caratteristiche:</strong> Storia aggressività manifesta verso altri cani/animali, socializzazione assente o traumatica, resource guarding severo, alto prey drive non gestibile</li>
   <li><strong>Comportamento tipico:</strong> Fissità intensa, irrigidimento corpo, lunging/strattoni <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Ordinanza 6 agosto 2013, Gazzetta Ufficiale" target="_blank" rel="noopener" aria-label="Ordinanza 6 agosto 2013, Gazzetta Ufficiale (si apre in una nuova scheda)">guinzaglio</a>, vocalizzazioni aggressive, morsi/attacchi passati</li>
@@ -192,8 +192,8 @@ custom_content: |
   </ul>
   
   <div class="callout">
-  <p class="callout-title">🏆 Esperienza allevamento: tempi reali inserimenti</p>
-  <p>Su 130+ inserimenti seguiti in 20 anni: <strong>15%</strong> convivenza ottimale in 2 settimane, <strong>60%</strong> stabile 4-6 settimane, <strong>20%</strong> richiesto 2-3 mesi, <strong>5%</strong> fallimento (separazione permanente). Successo correlato a: socializzazione precoce Staffy, rispetto protocolli graduali, temperamento robusto cane residente.</p>
+  <p class="callout-title">🏆 I tempi reali di un inserimento</p>
+  <p>Con un cane residente equilibrato e un protocollo graduale bastano di solito alcune settimane. Quando manca l'uno o l'altro servono mesi, e in qualche caso la convivenza non funziona e i cani vanno tenuti separati per sempre. Contano soprattutto la socializzazione precoce dello Staffy, il rispetto dei tempi e il temperamento del cane che c'è già in casa.</p>
   </div>
   
   <h2>Protocollo Inserimento Staffy-Gatto: Desensibilizzazione Completa (10-16 settimane)</h2>

@@ -34,9 +34,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>In brief:</strong> Understanding bloodlines helps you choose a puppy that matches your expectations. The main Staffy lines include English (like Elitebull) and Irish (like Lackyle), each with distinctive characteristics while meeting the <a href="https://www.fci.be/Nomenclature/Standards/076g03-en.pdf" target="_blank" rel="noopener" aria-label="FCI breed standard no. 76, PDF (opens in a new tab)">FCI standard</a>.
-  </div>
+  <p>Staffordshire Bull Terrier bloodlines are counted from 1935, when the Kennel Club recognised the breed; before that, the Bull and Terriers of Staffordshire were working dogs without traceable pedigrees. In 1943 the breed historian H. N. Beilby published the first thorough study of the breed's genetics and identified six distinct male lines. Lines are traced through the male descent, as is standard practice in dog breeding, so a dog belongs to the line of its paternal great-grandfather even when other lines appear through the females. Today the M-Line and the R-Line dominate the modern breed. A bloodline is not a sub-breed or a brand: it is the result of generations of decisions about which dogs were kept and mated. Knowing a dog's line helps you read its pedigree; the dog itself is judged by its tests, structure and temperament.</p>
+
+  
   
   <h2>What a bloodline actually is</h2>
   <p>A bloodline is not a sub-breed and it is not a brand. It is the accumulated result of decisions made by one breeder, or a small group of breeders, over many generations: which dogs were kept, which were mated together, and which traits were treated as non-negotiable. Two Staffordshire Bull Terriers from different lines are the same breed and must meet the same standard, but they can differ noticeably in bone, head proportion, temperament and working attitude.</p>

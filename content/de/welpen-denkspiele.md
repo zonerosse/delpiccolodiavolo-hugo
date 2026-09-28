@@ -36,9 +36,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>Kurz gesagt:</strong> Geistige Stimulation ist genauso wichtig wie körperliche Bewegung für Ihren Staffordshire Bull Terrier Welpen. Schnüffelspiele, Futterpuzzles und Beschäftigungsaktivitäten entwickeln Problemlösungsfähigkeiten und bauen Selbstkontrolle auf.
-  </div>
+  <p>Kopfarbeit ermüdet einen Staffordshire Bull Terrier Welpen mehr als körperliche Bewegung, und das ohne jede Belastung für wachsende Gelenke. Zehn bis fünfzehn Minuten echtes Problemlösen machen einen Welpen müder als die doppelte Zeit im Spaziergang, und das zählt bei einer Rasse, die bis zum Schluss der Wachstumsfugen auf etwa fünf Minuten Spaziergang je Lebensmonat begrenzt ist. Die einfachste Umstellung kostet nichts: nicht mehr aus dem Napf füttern, sondern die Tagesration für Schnüffelspiele, Futterpuzzles und kurze Trainingseinheiten verwenden. Nasenarbeit ist die wertvollste Beschäftigung überhaupt. Ein Welpe, der lernt, etwas zu versuchen, zu scheitern und neu anzusetzen, entwickelt Ausdauer und Frustrationstoleranz; ein gelangweilter verbraucht seine Energie an Fußleisten und Schuhen. Meiden Sie alles, was hart genug ist, einen Zahn zu brechen, und wiederholtes Ballwerfen, das nur aufdreht.</p>
+
+  
   
   <h2>Warum Kopfarbeit ebenso zählt wie Bewegung</h2>
   <p>Ein Staffordshire-Bull-Terrier-Welpe, der körperlich müde, geistig aber unbeschäftigt ist, ist kein müder Welpe. Er ist ein Welpe mit Energie ohne Verwendung, und er verwendet sie auf Ihre Fußleisten, Ihre Schuhe und Ihre Geduld.</p>

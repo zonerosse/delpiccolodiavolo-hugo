@@ -1,7 +1,7 @@
 ---
 title: "Reisen und Transport mit Staffordshire Bull Terrier"
 date: 2024-04-07
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 translationKey: "viaggi"
 articolo: true
 image: "/images/blog/famiglia-4.jpg"
@@ -30,9 +30,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>Kurz gesagt:</strong> Mit der richtigen Vorbereitung können Sie überall mit Ihrem Staffordshire Bull Terrier reisen. Seine handliche Größe macht ihn zu einem praktischen Reisebegleiter.
-  </div>
+  <p>Mit einem Staffordshire Bull Terrier zu reisen heißt, drei Dinge vorzubereiten: Papiere, Transport und Pausen. Innerhalb der Europäischen Union braucht ein Hund einen Mikrochip, einen EU-Heimtierausweis von einem ermächtigten Tierarzt und eine gültige Tollwutimpfung, verabreicht nach dem Chippen und mindestens 21 Tage vor der Reise; Irland, Finnland, Malta und Norwegen verlangen zusätzlich eine Bandwurmbehandlung vor der Einreise. Im Auto verlangt das italienische Recht, dass der Hund den Fahrer nicht behindert: Am sichersten ist eine crashgetestete Box, im Kofferraum gesichert, danach ein festes Trenngitter, akzeptabel ein richtiges Reisegeschirr am Gurt. Legen Sie alle zwei Stunden eine Pause ein und reisen Sie mit leerem Magen. Lassen Sie den Hund nie im geparkten Auto, nicht einmal fünf Minuten: Für eine Rasse mit kurzem Fang ist Hitze der echte Notfall. Züge, Fähren, Fluggesellschaften und Hotels haben eigene Regeln, die man vor der Buchung prüft.</p>
+
+  
   
   <h2>Reisen mit dem Auto</h2>
   <p>Ein ungesicherter Hund im Auto gefährdet sich selbst und alle Mitfahrenden. Ein Staffordshire Bull Terrier von siebzehn Kilogramm erzeugt bei einem Aufprall mit fünfzig Stundenkilometern eine Kraft von mehreren hundert Kilogramm. Auch das italienische Recht ist eindeutig: Tiere müssen so befördert werden, dass sie das Fahren nicht behindern, in einer Box, in einem durch ein geeignetes Gitter abgetrennten Bereich oder angeschnallt.</p>

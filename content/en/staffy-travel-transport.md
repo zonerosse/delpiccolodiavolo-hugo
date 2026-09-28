@@ -2,7 +2,7 @@
 title: "Staffy Travel and Transport"
 date: 2024-04-07
 titleSeo: "Travelling with a Staffordshire Bull Terrier: car and train"
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 translationKey: "viaggi"
 articolo: true
 image: "/images/blog/famiglia-4.webp"
@@ -35,9 +35,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>In brief:</strong> Staffordshire Bull Terriers generally travel well with proper preparation. Their compact size makes them suitable for various transport options, but safety and comfort should always be priorities.
-  </div>
+  <p>Travelling with a Staffordshire Bull Terrier needs three things prepared: documents, transport and stops. Within the European Union a dog needs a microchip, an EU pet passport issued by an authorised vet and a valid rabies vaccination, given after the microchip and at least 21 days before travel; Ireland, Finland, Malta and Norway also require a tapeworm treatment before entry. In the car, Italian law requires the dog not to interfere with driving: a crash-tested crate secured in the boot is safest, a rigid boot divider next, a proper travel harness on the seatbelt acceptable. Stop every two hours and travel on an empty stomach. Never leave the dog in a parked car, not even for five minutes: for a short-muzzled breed, heat is the real emergency. Trains, ferries, airlines and hotels have their own rules, to check before booking.</p>
+
+  
   
   <h2>Travelling by car</h2>
   <p>An unrestrained dog in a car is a danger to itself and to everyone else in the vehicle. A seventeen-kilogram Staffordshire Bull Terrier in a fifty kilometre per hour impact generates a force equivalent to several hundred kilograms. Italian law is also explicit: animals must be transported so as not to interfere with driving, in a cage, in a compartment separated by a purpose-made grille, or restrained.</p>
@@ -55,8 +55,8 @@ custom_content: |
   <p>Sedation is contraindicated for air travel and most airlines prohibit it. Sedatives depress respiration and thermoregulation, which is precisely the wrong effect in a breed with a compromised airway at altitude.</p>
 
   <h2>Documents for European travel</h2>
-  <p>Within the European Union, a dog needs a microchip, an EU pet <a href="https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/travelling-pet-within-eu_en" title="Travelling with a pet within the EU, European Commission" target="_blank" rel="noopener" aria-label="Travelling with a pet within the EU, European Commission (opens in a new tab)">passport</a> issued by an authorised veterinarian, and a valid rabies vaccination administered after the microchip and at least twenty-1 days before travel. That waiting period is the detail most often missed and it cannot be shortened.</p>
-  <p>Some countries add requirements: tapeworm treatment administered by a veterinarian between twenty-four and one hundred and 20 hours before entry is required for Ireland, Finland, Malta and Norway. And, importantly for this breed, several countries restrict or prohibit the Staffordshire Bull Terrier entirely — check the destination's breed legislation as carefully as its health requirements.</p>
+  <p>Within the European Union, a dog needs a microchip, an EU pet <a href="https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/travelling-pet-within-eu_en" title="Travelling with a pet within the EU, European Commission" target="_blank" rel="noopener" aria-label="Travelling with a pet within the EU, European Commission (opens in a new tab)">passport</a> issued by an authorised veterinarian, and a valid rabies vaccination administered after the microchip and at least 21 days before travel. That waiting period is the detail most often missed and it cannot be shortened.</p>
+  <p>Some countries add requirements: tapeworm treatment administered by a veterinarian between twenty-four and 120 hours before entry is required for Ireland, Finland, Malta and Norway. And, importantly for this breed, several countries restrict or prohibit the Staffordshire Bull Terrier entirely — check the destination's breed legislation as carefully as its health requirements.</p>
   <p>For puppies exported from us, we prepare the passport, the vaccinations and the required treatments, and we tell buyers plainly when the destination country has restrictions. That conversation happens before a deposit, not after.</p>
 
   <h2>Trains, ferries and public transport</h2>

@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier mit Kindern und Familie"
 date: 2024-05-28
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 translationKey: "bambini"
 articolo: true
 image: "/images/blog/famiglia-1.jpg"
@@ -30,9 +30,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>Kurz gesagt:</strong> Der Staffordshire Bull Terrier ist traditionell als "Nanny Dog" bekannt für seine außergewöhnliche Geduld und Sanftheit mit Kindern. Mit richtiger Erziehung und Aufsicht ist er ein idealer Familienbegleiter.
-  </div>
+  <p>Kein Hund irgendeiner Rasse darf mit einem kleinen Kind allein bleiben, und der Staffordshire Bull Terrier ist keine Ausnahme. Sein Beiname Nanny Dog beschreibt eine echte Toleranz, keine Fähigkeit zur Aufsicht. Diese Toleranz kommt aus der Art, wie die Rasse selektiert wurde: im ständigen engen Umgang mit Menschen, wobei jeder Hund, der Aggression gegen eine Person zeigte, aus der Zucht genommen wurde. Ein gut gezüchteter, gut sozialisierter Staffy sucht die Nähe von Menschen, verträgt Anfassen und Lärm bemerkenswert gut und begegnet der Ungeschicklichkeit eines Kindes meist mit Geduld. Das Wesen ist trotzdem von Hund zu Hund verschieden, und die frühe Sozialisierung zählt so viel wie die Genetik. Praktisch hängt die Sicherheit von den Erwachsenen ab: begleitete Begegnungen, Regeln je nach Alter des Kindes, ein Rückzugsort für den Hund und das Erkennen von Stresssignalen, bevor daraus ein Knurren wird.</p>
+
+  
   
   <h2>Woher der Ruf kommt</h2>
   <p>Der Staffordshire Bull Terrier ist eine der wenigen Rassen, deren Standard beim Kennel Club ausdrücklich von vollkommener Zuverlässigkeit spricht, und die einzige, die verbreitet den inoffiziellen Namen Kindermädchen-Hund trägt. Dieser Ruf ist kein Marketing: er stammt aus der Art der Selektion, in ständigem engen Umgang, bei der jeder Hund mit Aggression gegen Menschen ohne Diskussion aus der Zucht genommen wurde.</p>

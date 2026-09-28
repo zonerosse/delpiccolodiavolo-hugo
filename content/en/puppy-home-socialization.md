@@ -43,9 +43,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>In brief:</strong> The socialization window (3-14 weeks) is critical for your Staffordshire Bull Terrier puppy. Positive exposure to sounds, surfaces, handling and household experiences builds confidence and prevents future fear issues.
-  </div>
+  <p>Socialising a Staffordshire Bull Terrier puppy depends on a window that closes early. Between roughly 3 and 16 weeks of age, a puppy's brain accepts novelty as normal, and the window narrows noticeably from 12 weeks. What the puppy meets in that period becomes part of its ordinary world; what it meets later has to be evaluated, and evaluation is where fear enters. The eight weeks with the breeder are half of that window, which is why where a puppy is raised matters so much. Socialisation does not mean meeting as many dogs and people as possible. It means ordinary experiences, different surfaces, household noises, people of different ages and steady adult dogs, kept short and positive. The measure of a good exposure is that the puppy stayed relaxed throughout, not simply that it happened.</p>
+
+  
   
   <h2>The window that closes</h2>
   <p>Between roughly 3 and 16 weeks of age, a puppy's brain accepts novelty as normal. What it meets in that period becomes part of its ordinary world; what it meets afterwards has to be evaluated, and evaluation is where fear enters. This is not a gradual fade — the window narrows noticeably from 12 weeks and is effectively shut by sixteen.</p>

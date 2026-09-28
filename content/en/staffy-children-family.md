@@ -2,7 +2,7 @@
 title: "Staffy and Children: Family Life"
 date: 2024-05-28
 titleSeo: "Staffordshire Bull Terrier with children: family life"
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 translationKey: "bambini"
 articolo: true
 image: "/images/blog/famiglia-1.webp"
@@ -35,9 +35,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>In brief:</strong> Staffordshire Bull Terriers are historically known as "nanny dogs" for their affection toward children. However, successful cohabitation requires clear rules, adult supervision and teaching both children and dogs appropriate behavior.
-  </div>
+  <p>No dog of any breed should be left alone with a small child, and the Staffordshire Bull Terrier is no exception. Its informal name, nanny dog, describes a real tolerance, not an ability to supervise. That tolerance comes from how the breed was selected: in constant close handling, where any dog that showed aggression towards a person was removed from breeding. A well-bred, well-socialised Staffy seeks human company, tolerates handling and noise remarkably well and usually meets a child's clumsiness with patience. Temperament still varies between individuals, and early socialisation matters as much as genetics. In practice, safety depends on the adults: supervised introductions, rules that change with the child's age, teaching the child as well as the dog, a place where the dog can retreat, and noticing signs of stress before they become a growl.</p>
+
+  
   
   <h2>Where the reputation comes from</h2>
   <p>The Staffordshire Bull Terrier is one of very few breeds whose Kennel Club standard explicitly describes it as totally reliable, and the only one commonly given the informal name of nanny dog. That reputation is not marketing: it comes from the way the breed was selected, in constant close handling, where any dog showing aggression towards a person was removed from breeding without discussion.</p>

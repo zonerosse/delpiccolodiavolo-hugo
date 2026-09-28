@@ -35,9 +35,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>In brief:</strong> Whether you want a show dog, family companion, or both, understanding bloodlines helps you find the perfect Staffordshire Bull Terrier. The key is matching the line's characteristics to your goals and lifestyle.
-  </div>
+  <p>Choosing a Staffordshire Bull Terrier bloodline starts with you, not with the pedigree: whether the dog will be a companion, a show prospect or a future breeding animal, how busy your household is, and how much dog you are prepared to manage. All good lines meet the same FCI standard; what differs is emphasis, in bone and substance, head proportion, drive, tolerance of other dogs and how consistently a line reproduces its type. English lines are generally associated with balance and sound movement, Irish lines with compactness and substance. Health comes before the line: ask for the L2HGA and HC results with the microchip numbers, and for the coefficient of inbreeding over five generations. The Del Piccolo Diavolo kennel in Ostellato, in the province of Ferrara, Italy, works with the English Elitebull and the Irish Lackyle lines.</p>
+
+  
   
   <h2>Start with an honest definition of what you want</h2>
   <p>Choosing a bloodline is not a question with a universally correct answer. It is a question about you: what you intend to do with the dog, how much dog you actually want in your house, and what you are prepared to manage. A line that produces superb ring dogs may be a poor fit for a family in a flat, and a line producing steady, moderate family dogs may frustrate someone who wants to compete.</p>

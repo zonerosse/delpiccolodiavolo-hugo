@@ -34,9 +34,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>In brief:</strong> The Staffordshire Bull Terrier is NOT on any dangerous breed list in Italy. Since 2009, Italy no longer has a "black list" of dangerous breeds. Owner responsibility, not breed, determines legal liability.
-  </div>
+  <p>In Italy the Staffordshire Bull Terrier is not on any list of dangerous breeds: the list was abolished by the Ministry of Health ordinance of 2009, which moved responsibility from the breed to the owner. No breed is banned or subject to special obligations nationwide, and the rules apply to every dog: a lead no longer than one and a half metres in public places, a muzzle carried and fitted when required, microchip, registration and full civil liability of the owner. Local rules on parks or beaches, rental contracts and some airlines can be stricter, and other European countries differ. A 2020 Royal Veterinary College study of 1,304 Staffordshire Bull Terriers and 21,029 other dogs found no significant difference in the odds of aggression. The breed's reputation is made by its owners, one dog at a time.</p>
+
+  
   
   <h2>The myth of the dangerous breed</h2>
   <p>The idea that certain breeds are inherently dangerous has shaped legislation across Europe for 30 years, and the evidence for it has never been strong. Breed-specific legislation rests on the assumption that aggression is a fixed property of a breed rather than the outcome of genetics, upbringing, training, management and the specific situation in which a bite occurs.</p>

@@ -30,9 +30,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>Kurz gesagt:</strong> Das Verständnis von Blutlinien hilft Ihnen, einen Welpen zu wählen, der Ihren Erwartungen entspricht. Die wichtigsten Staffy-Linien sind englische (wie Elitebull) und irische (wie Lackyle).
-  </div>
+  <p>Eine Blutlinie des Staffordshire Bull Terrier ist keine Unterrasse und keine Marke, sondern das Ergebnis von Entscheidungen, die ein Züchter oder eine kleine Gruppe von Züchtern über viele Generationen getroffen hat: welche Hunde behalten, welche miteinander verpaart und welche Merkmale nie aufgegeben wurden. Zwei Staffords aus verschiedenen Linien gehören derselben Rasse an und müssen demselben Standard entsprechen, können sich aber in Knochen, Kopfproportion, Wesen und Arbeitshaltung deutlich unterscheiden. Die englischen Linien stehen für den Typ, mit korrekten Proportionen, einem breiten Kopf ohne Übertreibung und zuverlässigem Wesen, die irischen eher für Kompaktheit und Substanz. Wer eine Ahnentafel liest, sollte auf getestete Hunde und auf den Inzuchtkoeffizienten achten, nicht nur auf berühmte Namen. Die Zucht Del Piccolo Diavolo in Ostellato bei Ferrara arbeitet mit der englischen Linie Elitebull und der irischen Linie Lackyle.</p>
+
+  
   
   <h2>Was eine Blutlinie wirklich ist</h2>
   <p>Eine Blutlinie ist keine Unterrasse und keine Marke. Sie ist das angesammelte Ergebnis von Entscheidungen, die ein Züchter oder eine kleine Gruppe von Züchtern über viele Generationen getroffen hat: welche Hunde behalten, welche miteinander verpaart und welche Eigenschaften als unverhandelbar behandelt wurden. Zwei Staffordshire Bull Terrier aus verschiedenen Linien sind dieselbe Rasse und müssen demselben Standard entsprechen, können sich aber in Knochenstärke, Kopfproportion, Wesen und Arbeitsfreude deutlich unterscheiden.</p>

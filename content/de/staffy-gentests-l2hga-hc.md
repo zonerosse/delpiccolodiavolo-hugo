@@ -35,9 +35,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>Kurz gesagt:</strong> <strong>L2-HGA</strong> (L-2-Hydroxyglutarsäureurie) und <strong>HC</strong> (Hereditäre Katarakt) sind zwei genetische Krankheiten spezifisch für den Staffordshire Bull Terrier. Beide werden autosomal-rezessiv vererbt: ein Welpe kann nur erkranken, wenn <em>beide</em> Eltern Träger sind. Ein verantwortungsvoller Züchter testet immer Zuchttiere und verpaart niemals zwei Träger.
-  </div>
+  <p>Der Staffordshire Bull Terrier ist eine grundsätzlich gesunde Rasse mit zwei schweren Erbkrankheiten, die sich durch DNA-Tests vollständig verhindern lassen. L2-HGA, die L-2-Hydroxyglutarazidurie, ist eine Stoffwechselkrankheit des Nervensystems, die meist zwischen sechs Monaten und einem Jahr auftritt. Der erbliche Katarakt, verursacht durch eine Mutation im Gen HSF4, zeigt sich zwischen vier Monaten und drei Jahren und kann zur Erblindung führen. Beide werden autosomal-rezessiv vererbt: Ein Träger wirkt sein Leben lang gesund, und zwei verpaarte Träger können kranke Welpen hervorbringen, gesund aussehende Eltern beweisen also nichts. Ein dritter Test, auf degenerative Myelopathie (Gen SOD1), betrifft eine Rückenmarkserkrankung bei Hunden über acht Jahren. Ein Befund zählt nur, wenn er die Mikrochipnummer des Hundes trägt. In der Zucht Del Piccolo Diavolo in Ostellato wird mit keinem Träger gezüchtet, und die Befunde sind veröffentlicht.</p>
+
+  
   
   <h2>Warum Gentests nicht optional sind</h2>
   <p>Der Staffordshire Bull Terrier ist eine grundsätzlich gesunde Rasse, trägt aber zwei erbliche Erkrankungen, die schwerwiegend und zugleich vollständig vermeidbar sind: L2-HGA und die hereditäre Katarakt. Beide werden rezessiv vererbt. Das bedeutet, dass ein Hund die Mutation tragen, ein Leben lang völlig gesund bleiben und trotzdem betroffene Welpen zeugen kann, wenn er mit einem anderen Träger verpaart wird.</p>

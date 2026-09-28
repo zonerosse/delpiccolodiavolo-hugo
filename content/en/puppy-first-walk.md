@@ -2,7 +2,7 @@
 title: "Puppies: First Walk"
 date: 2025-09-17
 titleSeo: "A puppy's first walk: when to start and how"
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 translationKey: "passeggiata"
 articolo: true
 image: "/images/blog/cuccioli-5.webp"
@@ -43,9 +43,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>In brief:</strong> The first outdoor walks are crucial for your Staffordshire Bull Terrier puppy's development. Wait for vaccination coverage, choose the right equipment, and focus on positive experiences rather than distance covered.
-  </div>
+  <p>A Staffordshire Bull Terrier puppy's first walks are measured in minutes, not distance. The usual guideline is about five minutes of formal walking per month of age, twice a day: fifteen minutes at three months, twenty at four. The limit exists because growth plates in this breed close between 10 and 14 months, and repeated impact before then causes damage that only shows years later. Waiting for the end of the vaccination course at around 16 weeks is not the answer either, because the socialisation window closes at about the same age: controlled exposure should begin as soon as the puppy arrives, in clean, quiet places, away from other dogs' faeces. In the early weeks, what the puppy meets matters more than how far it goes: five calm minutes of sniffing are worth more than thirty on a tight lead.</p>
+
+  
   
   <h2>When to start, and the vaccination dilemma</h2>
   <p>The classic advice is to wait until the <a href="https://wsava.org/global-guidelines/vaccination-guidelines/" title="WSAVA global guidelines" target="_blank" rel="noopener" aria-label="WSAVA global guidelines (opens in a new tab)">vaccination</a> course is complete, at around 16 weeks. The classic advice is also, taken literally, harmful, because the critical socialisation window closes at roughly the same age. A puppy that sees nothing of the world until 16 weeks has missed the period in which novelty is accepted most easily, and behavioural problems arising from under-socialisation are a far more common cause of dogs being given up than infectious disease.</p>

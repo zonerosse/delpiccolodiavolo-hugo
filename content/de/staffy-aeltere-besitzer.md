@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier für ältere Besitzer"
 date: 2024-05-28
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 translationKey: "anziani"
 articolo: true
 image: "/images/blog/famiglia-3.jpg"
@@ -30,9 +30,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>Kurz gesagt:</strong> Der Staffordshire Bull Terrier kann für aktive Senioren ein wunderbarer Begleiter sein. Seine handliche Größe (max. 17 kg) und treue Natur machen ihn überschaubar, aber sein Energielevel erfordert tägliche Bewegung.
-  </div>
+  <p>Ein Staffordshire Bull Terrier kann zu einem älteren Menschen passen, doch die Antwort hängt mehr von der Person und vom Hund ab als von der Rasse. Seine Größe, elf bis siebzehn Kilogramm, und sein kurzes Fell machen ihn leicht zu handhaben, und sechzig bis neunzig Minuten Spaziergang am Tag, verteilt auf zwei oder drei Runden, passen zu einem Alltag mit Morgen- und Nachmittagsrunde. Offen gesagt werden muss eines: die Kraft. Ein junger Staffy, der an der Leine zieht, kann einen älteren Menschen umreißen, und die Pubertät zwischen 8 und 18 Monaten fordert jeden. Für die meisten älteren Halter ist der richtige Hund ein Erwachsener von drei bis sechs Jahren, kein Welpe, mit einer schriftlichen Absprache mit der Familie oder der Zucht darüber, was geschieht, wenn der Hund nicht mehr gehalten werden kann. Ein Welpe bedeutet 12 bis 14 Jahre Verantwortung.</p>
+
+  
   
   <h2>Ein ehrlicher Ausgangspunkt</h2>
   <p>Ob ein Staffordshire Bull Terrier zu einem älteren Menschen passt, lässt sich nicht pauschal beantworten, und wer es tut, ist unvorsichtig. Es hängt weit mehr von der konkreten Person und dem konkreten Hund ab als von der Rasse, und die ehrliche Fassung dieses Rats enthält ebenso viele Warnungen wie Empfehlungen.</p>

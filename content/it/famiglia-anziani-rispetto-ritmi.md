@@ -105,8 +105,8 @@ custom_content: |
   </ul>
   
   <div class="callout">
-  <p class="callout-title">🏆 Esperienza dall'allevamento</p>
-  <p>In 20 anni: <strong>90% delle adozioni anziano-cucciolo fallisce</strong> entro 6 mesi. Al contrario, <strong>85% delle adozioni anziano-adulto</strong> sono storie di successo. Se hai &gt;65 anni, scegli SEMPRE adulto già formato.</p>
+  <p class="callout-title">🏆 Perché sconsigliamo il cucciolo</p>
+  <p>Fra gli 8 e i 18 mesi uno Staffy ha più energia e più forza di quanta una persona anziana riesca a gestire ogni giorno, e l'educazione di quel periodo non si può rimandare. Un adulto già formato, di cui si conosce il carattere, è quasi sempre la scelta giusta.</p>
   </div>
   
   <h2>Valutazione Pre-Adozione</h2>

@@ -30,9 +30,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>Kurz gesagt:</strong> Parasiten können ernsthafte Gesundheitsprobleme bei Ihrem Staffordshire Bull Terrier verursachen. Ein regelmäßiges Vorsorgeprogramm gegen Flöhe, Zecken und Darmwürmer ist essentiell.
-  </div>
+  <p>Parasitenvorbeugung beim Staffordshire Bull Terrier ist planbar und fast vollständig wirksam, solange der Kalender eingehalten wird. Der Floh, den man am Hund sieht, ist nur etwa 5 Prozent eines Befalls; der Rest lebt als Eier, Larven und Puppen in der Wohnung. Das kurze Fell der Rasse macht Flöhe und Zecken leicht erkennbar, doch ihre Haut neigt zu Allergien, deshalb ist die Flohspeichelallergie häufig. Zecken übertragen Babesiose, Ehrlichiose, Anaplasmose und Borreliose; Sandmücken und Stechmücken übertragen Leishmaniose und Herzwurm. Welpen bekommen Spulwürmer schon von der Mutter und werden ab der zweiten Lebenswoche alle zwei Wochen bis zur zwölften Woche entwurmt, dann monatlich bis zum sechsten Monat. Erwachsene Hunde werden alle drei Monate behandelt, häufiger, wenn sie Unrat fressen oder mit kleinen Kindern leben, und eine Kotuntersuchung prüft den Plan.</p>
+
+  
   
   <h2>Warum Vorbeugung besser ist als Behandlung</h2>
   <p>Die Parasitenkontrolle gehört zu den wenigen Bereichen der Hundegesundheit, in denen das richtige Vorgehen vollständig vorhersehbar und nahezu vollständig wirksam ist. Fast alles Wesentliche lässt sich mit einem Kalender und geringen monatlichen Kosten verhindern, und fast jeder schwere Fall in der Praxis betrifft einen Hund, bei dem die Vorbeugung ausgesetzt hatte.</p>

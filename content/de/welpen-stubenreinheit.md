@@ -43,9 +43,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>Kurz gesagt:</strong> Richtiges Stubenreinheitstraining in den ersten Monaten macht das Zusammenleben friedlicher und beschleunigt die Selbstständigkeit Ihres Staffordshire Bull Terrier Welpen. Klare Routinen, häufige Ausgänge und viel positive Verstärkung sind nötig.
-  </div>
+  <p>Die Stubenreinheit eines Staffordshire Bull Terrier Welpen hängt von der körperlichen Entwicklung ab, nicht von der Intelligenz, und lässt sich deshalb nicht beschleunigen. Ein Welpe von 8 Wochen kann die Blase höchstens ein bis zwei Stunden halten; als Faustregel gilt etwa eine Stunde je Lebensmonat plus eins, und weniger, solange er wach und aktiv ist. Bringen Sie ihn in den vorhersehbaren Momenten hinaus, nach dem Aufwachen, nach dem Fressen, nach dem Spielen und vor dem Schlafen, und belohnen Sie ihn draußen, gleich wenn er fertig ist. Strafen Sie Missgeschicke nie: Der Welpe verbindet Ihre Reaktion nicht mit etwas von vor Minuten, er lernt nur, dass es gefährlich ist, sich vor Ihnen zu lösen, und geht hinter das Sofa. Reinigen Sie mit Enzymreiniger, nie mit Ammoniak. Tagsüber sind die meisten Welpen mit vier Monaten zuverlässig, nachts zwischen vier und sechs.</p>
+
+  
   
   <h2>Wie lange es wirklich dauert</h2>
   <p>Stubenreinheit ist keine Frage der Intelligenz und lässt sich nicht beschleunigen, weil sie von der körperlichen Entwicklung abhängt. Ein Welpe von 8 Wochen kann die Blase nicht länger als ein bis 2 Stunden halten, und volle Kontrolle entsteht erst mit 4 bis 6 Monaten. Die meisten Welpen sind tagsüber mit 4 Monaten zuverlässig und nachts zwischen 4 und 6 Monaten trocken.</p>

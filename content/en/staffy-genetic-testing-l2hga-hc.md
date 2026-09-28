@@ -42,9 +42,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>In brief:</strong> <strong>L2-HGA</strong> (L-2-hydroxyglutaric aciduria) and <strong>HC</strong> (Hereditary Cataract) are two genetic diseases specific to the Staffordshire Bull Terrier. Both are inherited in an autosomal recessive manner: a puppy can only become ill if <em>both</em> parents are carriers. A responsible breeder always tests breeding dogs and never mates two carriers together, guaranteeing healthy puppies.
-  </div>
+  <p>The Staffordshire Bull Terrier is a fundamentally healthy breed with two serious hereditary conditions that DNA testing can prevent entirely. L2-HGA, L-2-hydroxyglutaric aciduria, is a metabolic disease of the nervous system that usually appears between six months and one year. Hereditary cataract, caused by a mutation in the HSF4 gene, appears between four months and three years and can end in blindness. Both are autosomal recessive: a carrier looks healthy all its life, and two carriers mated together can produce affected puppies, so healthy-looking parents prove nothing. A third test, for degenerative myelopathy (SOD1 gene), concerns a spinal disease of dogs over eight. A result is only worth something if the report carries the dog's microchip number. At the Del Piccolo Diavolo kennel in Ostellato, Italy, no carrier is bred from, and the reports are published.</p>
+
+  
   
   <h2>Why genetic testing is not optional</h2>
   <p>The Staffordshire Bull Terrier is a fundamentally healthy breed, but it carries two hereditary conditions that are both serious and entirely preventable: L2-HGA and hereditary cataract. Both are recessive, which means a dog can carry the mutation, show no sign of it for its whole life, and still produce affected puppies if mated to another carrier.</p>

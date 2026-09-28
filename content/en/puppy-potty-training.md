@@ -43,9 +43,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>In brief:</strong> Setting up proper potty training in the first months makes cohabitation more peaceful and accelerates your Staffordshire Bull Terrier puppy's independence. Clear routines, frequent outings and lots of positive reinforcement are needed.
-  </div>
+  <p>House training a Staffordshire Bull Terrier puppy depends on physical development, not intelligence, so it cannot be rushed. A puppy of 8 weeks cannot hold its bladder for more than one or two hours; a useful rule of thumb is about one hour per month of age plus one, and less while the puppy is awake and active. Take it out at the predictable moments, after waking, after eating, after play and before sleep, and reward it outside, straight after it has finished. Never punish accidents: the puppy does not connect your reaction with something it did minutes earlier, it learns that going in front of you is dangerous and starts hiding behind the sofa instead. Clean with an enzymatic cleaner, never with ammonia. Most puppies are reliable by day at four months and dry overnight between four and six.</p>
+
+  
   
   <h2>How long it really takes</h2>
   <p>House training is not a matter of intelligence and it cannot be rushed, because it depends on physical development. A puppy of 8 weeks cannot hold its bladder for more than 1 to 2 hours, and full control does not arrive until 4 to 6 months. Most puppies are reliable during the day by 4 months and reliably dry overnight between four and six.</p>

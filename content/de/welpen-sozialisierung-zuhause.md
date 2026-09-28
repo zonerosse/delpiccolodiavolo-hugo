@@ -2,7 +2,7 @@
 title: "Welpen: Sozialisierung zu Hause"
 date: 2025-03-18
 titleSeo: "Sozialisierung des Welpen zu Hause: die ersten Wochen"
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 translationKey: "socializzazione"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
@@ -36,9 +36,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>Kurz gesagt:</strong> Das Sozialisierungsfenster (3-14 Wochen) ist entscheidend für Ihren Staffordshire Bull Terrier Welpen. Positive Gewöhnung an Geräusche, Oberflächen, Handling und Haushaltserfahrungen baut Selbstvertrauen auf und verhindert zukünftige Angstprobleme.
-  </div>
+  <p>Die Sozialisierung eines Staffordshire Bull Terrier Welpen hängt an einem Fenster, das sich früh schließt. Zwischen etwa 3 und 16 Wochen nimmt das Gehirn eines Welpen Neues als normal hin, und ab der zwölften Woche wird das Fenster spürbar enger. Was der Welpe in dieser Zeit kennenlernt, gehört zu seiner gewöhnlichen Welt; was er später trifft, muss er erst bewerten, und beim Bewerten entsteht Angst. Die acht Wochen in der Zucht sind die Hälfte dieses Fensters, deshalb ist so wichtig, wo ein Welpe aufwächst. Sozialisierung heißt nicht, möglichst viele Hunde und Menschen zu treffen. Sie heißt gewöhnliche Erfahrungen, verschiedene Untergründe, Haushaltsgeräusche, Menschen jeden Alters und ruhige erwachsene Hunde, kurz und positiv. Maßstab einer guten Erfahrung ist, dass der Welpe entspannt blieb, nicht bloß, dass sie stattfand.</p>
+
+  
   
   <h2>Das Fenster, das sich schließt</h2>
   <p>Zwischen etwa der dritten und der sechzehnten Lebenswoche nimmt das Gehirn eines Welpen Neues als normal an. Was er in dieser Zeit kennenlernt, wird Teil seiner gewöhnlichen Welt; was danach kommt, muss bewertet werden — und bei der Bewertung entsteht Angst. Das Fenster verengt sich ab der zwölften Woche deutlich und ist mit 16 Wochen praktisch geschlossen.</p>

@@ -2,7 +2,7 @@
 title: "Puppies: First Vaccinations"
 date: 2025-06-10
 titleSeo: "Puppy first vaccinations: schedule and boosters"
-lastmod: 2026-09-27
+lastmod: 2026-09-28
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/salute.webp"
@@ -43,9 +43,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>In brief:</strong> Vaccinations protect your Staffordshire Bull Terrier puppy from serious diseases. Understanding the schedule, core vaccines and what to expect helps you prepare for this essential health care step.
-  </div>
+  <p>A Staffordshire Bull Terrier puppy has its first vaccination at 6 to 8 weeks, before leaving the breeder, against distemper, hepatitis and parvovirus. The second follows at 10 to 12 weeks, usually adding leptospirosis, and the third at 14 to 16 weeks completes the primary course, with a first booster at 12 months. Immunity builds over one to two weeks after the last injection, so the puppy is properly protected at around 16 to 18 weeks. The injections are close together because maternal antibodies protect the puppy early on but interfere with the vaccine, and when they fade varies from puppy to puppy. Rabies vaccination can be given from 12 weeks and becomes valid for travel only 21 days later. Until the course is complete, avoid high-risk places, but do not stop socialisation.</p>
+
+  
   
   <h2>What the vaccines actually protect against</h2>
   <p>The <a href="https://wsava.org/global-guidelines/vaccination-guidelines/" title="WSAVA guidelines for the vaccination of dogs and cats, 2024" target="_blank" rel="noopener" aria-label="WSAVA guidelines for the vaccination of dogs and cats, 2024 (opens in a new tab)">core vaccines</a> protect against four diseases that were, within living memory, the commonest causes of death in puppies. Distemper attacks the respiratory, digestive and nervous systems and is frequently fatal. Parvovirus causes severe haemorrhagic gastroenteritis and kills unvaccinated puppies within days. Infectious hepatitis damages liver and kidneys. Leptospirosis is bacterial, transmitted through the urine of rats and other wildlife in standing water, and is transmissible to humans.</p>
@@ -57,7 +57,7 @@ custom_content: |
   <p>Two details matter and are often missed. First, the interval between doses should not be shortened, because maternal antibodies interfere with the vaccine and the schedule is designed around their decline. Second, if a dose is significantly delayed, the veterinarian may need to restart part of the course rather than simply continuing.</p>
 
   <h2>Rabies and travel</h2>
-  <p>Rabies vaccination is not part of the routine puppy course in most of Italy, but it is compulsory for travel within the European Union and for some regions. It can be given from 12 weeks of age, must be recorded in the pet passport by an authorised veterinarian, and takes effect twenty-1 days after administration.</p>
+  <p>Rabies vaccination is not part of the routine puppy course in most of Italy, but it is compulsory for travel within the European Union and for some regions. It can be given from 12 weeks of age, must be recorded in the pet passport by an authorised veterinarian, and takes effect 21 days after administration.</p>
   <p>That waiting period is absolute and cannot be shortened, which is why anyone planning to take a puppy abroad should raise it with the veterinarian at the first visit rather than 3 weeks before departure.</p>
 
   <h2>Optional vaccines worth discussing</h2>
@@ -65,7 +65,7 @@ custom_content: |
   <p>Leishmaniasis vaccination is relevant in endemic areas, which now include much of Italy. It is not a substitute for a repellent collar or spot-on, and your veterinarian will advise based on your region and the dog's lifestyle.</p>
 
   <h2>After the injection: what is normal and what is not</h2>
-  <p>Mild lethargy, reduced appetite and slight soreness at the injection site for twenty-four to forty-8 hours are normal and require nothing. A small firm lump at the site can persist for a couple of weeks and usually resolves.</p>
+  <p>Mild lethargy, reduced appetite and slight soreness at the injection site for twenty-four to 48 hours are normal and require nothing. A small firm lump at the site can persist for a couple of weeks and usually resolves.</p>
   <p>What is not normal, and requires immediate veterinary attention: swelling of the face or muzzle, hives, repeated vomiting, difficulty breathing, or collapse. These are signs of an allergic reaction, they usually appear within an hour, and they are the reason it is sensible to stay near the practice for a short while after a first vaccination rather than driving straight home.</p>
 
   <h2>Where the puppy can and cannot go meanwhile</h2>

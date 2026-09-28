@@ -31,9 +31,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>Kurz gesagt:</strong> Ob Sie einen Show-Hund, Familienbegleiter oder beides wollen - das Verständnis von Blutlinien hilft Ihnen, den perfekten Staffordshire Bull Terrier zu finden.
-  </div>
+  <p>Die Wahl einer Blutlinie beim Staffordshire Bull Terrier beginnt bei Ihnen, nicht bei der Ahnentafel: ob der Hund Begleiter, Ausstellungshund oder späterer Zuchthund werden soll, wie lebhaft Ihr Haushalt ist und wie viel Hund Sie tatsächlich führen wollen. Alle guten Linien entsprechen demselben FCI-Standard; unterschiedlich ist die Betonung, bei Knochen und Substanz, Kopfproportion, Trieb, Verträglichkeit mit anderen Hunden und darin, wie zuverlässig eine Linie ihren Typ vererbt. Englische Linien stehen meist für Ausgewogenheit und korrektes Gangwerk, irische für Kompaktheit und Substanz. Die Gesundheit kommt vor der Linie: Fragen Sie nach den Ergebnissen für L2HGA und HC mit Mikrochipnummer und nach dem Inzuchtkoeffizienten über fünf Generationen. Die Zucht Del Piccolo Diavolo in Ostellato in der Provinz Ferrara arbeitet mit der englischen Linie Elitebull und der irischen Linie Lackyle.</p>
+
+  
   
   <h2>Beginnen Sie mit einer ehrlichen Zieldefinition</h2>
   <p>Die Wahl einer Blutlinie hat keine allgemeingültig richtige Antwort. Es ist eine Frage über Sie: was Sie mit dem Hund vorhaben, wie viel Hund Sie tatsächlich im Haus wollen und was Sie zu managen bereit sind. Eine Linie, die hervorragende Ausstellungshunde bringt, kann für eine Familie in einer Wohnung ungeeignet sein, und eine Linie mit ruhigen, gemäßigten Familienhunden kann jemanden frustrieren, der ausstellen möchte.</p>

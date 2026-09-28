@@ -43,9 +43,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>Kurz gesagt:</strong> Einen Staffordshire Bull Terrier Welpen an das Alleinsein zu gewöhnen ist ein schrittweiser Prozess. Ziel ist es, positive Verknüpfungen, vorhersehbare Routinen und sichere Umgebungen zu schaffen, um Trennungsangst und destruktives Verhalten zu verhindern.
-  </div>
+  <p>Der Staffordshire Bull Terrier wurde auf die Nähe zum Menschen selektiert, und deshalb muss ein Welpe das Alleinbleiben bewusst lernen. Man beginnt in der ersten Woche mit 30 Sekunden hinter einer geschlossenen Tür, dann eine Minute, drei, zehn, zwanzig, vierzig, und geht und kommt ohne großes Aufheben. Ein Welpe von 8 bis 12 Wochen sollte nicht länger als ein bis zwei Stunden allein sein, mit sechs Monaten drei bis vier; ein erwachsener Hund, der vorher draußen war und etwas zu tun hat, schafft vier bis sechs Stunden. Acht Stunden täglich allein sind mit dieser Rasse nicht vereinbar. Das Warnsignal ist nicht Unordnung, sondern Panik: ununterbrochenes Bellen, Speicheln, Zerstörung an Türen und Fenstern. Das ist Trennungsstress, und er braucht eine Verhaltensfachperson, niemals Strafe.</p>
+
+  
   
   <div class="info-box">
   <p class="info-box-title">🎯 Hauptziele</p>

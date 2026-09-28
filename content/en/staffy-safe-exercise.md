@@ -1,7 +1,7 @@
 ---
 title: "Safe Exercise for Staffordshire Bull Terrier"
 date: 2024-06-20
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 translationKey: "esercizio"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -34,9 +34,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>In brief:</strong> The Staffordshire Bull Terrier is an athletic, energetic breed that needs regular exercise for physical and mental health. However, exercise must be appropriate for age and physical condition to prevent injuries.
-  </div>
+  <p>The Staffordshire Bull Terrier needs exercise every day, but not endless running: for a healthy adult, count on sixty to ninety minutes in total, in at least two outings, mixing steady walking, some free movement and mental work. For puppies the guideline is five minutes of formal walking per month of age, twice a day, because growth plates in this breed close between 10 and 14 months and repeated impact before then causes damage that shows years later. In adults the main danger is heat: a short muzzle makes panting less efficient, and panting is a dog's only way to cool down. Walk in the cool hours, test the tarmac with the back of your hand for five seconds, and never leave the dog in a parked car. From about eight years old, keep the duration but lower the intensity.</p>
+
+  
   
   <h2>How much exercise this breed actually needs</h2>
   <p>The Staffordshire Bull Terrier is an athletic dog in a compact frame, and its needs are frequently misjudged in both directions. It is not a breed that requires 2 hours of running a day, and it is not a lapdog that can be satisfied with a walk around the block.</p>

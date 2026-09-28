@@ -2,7 +2,7 @@
 title: "Welpen: Erste Impfungen"
 date: 2025-06-10
 titleSeo: "Erste Impfungen des Welpen: Plan und Auffrischung"
-lastmod: 2026-09-27
+lastmod: 2026-09-28
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/salute.webp"
@@ -36,9 +36,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <div class="lead">
-  <strong>Kurz gesagt:</strong> Impfungen schützen Ihren Staffordshire Bull Terrier Welpen vor schweren Krankheiten. Den Zeitplan, die Kernimpfstoffe und was zu erwarten ist zu verstehen, hilft Ihnen bei der Vorbereitung auf diesen wichtigen Gesundheitsschritt.
-  </div>
+  <p>Ein Staffordshire Bull Terrier Welpe erhält die erste Impfung mit 6 bis 8 Wochen, noch in der Zucht, gegen Staupe, Hepatitis und Parvovirose. Die zweite folgt mit 10 bis 12 Wochen, meist zusammen mit Leptospirose, und die dritte mit 14 bis 16 Wochen schließt die Grundimmunisierung ab; eine erste Auffrischung gibt es mit 12 Monaten. Der Schutz baut sich in ein bis zwei Wochen nach der letzten Spritze auf, voll geschützt ist der Welpe also mit etwa 16 bis 18 Wochen. Die Impfungen liegen so dicht, weil mütterliche Antikörper den Welpen anfangs schützen, den Impfstoff aber stören, und wann sie verschwinden, ist von Welpe zu Welpe verschieden. Die Tollwutimpfung ist ab 12 Wochen möglich und gilt für Reisen erst 21 Tage später. Bis zum Abschluss meidet man Orte mit hohem Risiko, aber nicht die Sozialisierung.</p>
+
+  
   
   <h2>Wovor die Impfungen tatsächlich schützen</h2>
   <p>Die <a href="https://wsava.org/global-guidelines/vaccination-guidelines/" title="WSAVA-Leitlinien zur Impfung von Hunden und Katzen, 2024" target="_blank" rel="noopener" aria-label="WSAVA-Leitlinien zur Impfung von Hunden und Katzen, 2024 (wird in einem neuen Tab geöffnet)">Kernimpfungen</a> schützen vor vier Erkrankungen, die noch vor wenigen Jahrzehnten die häufigsten Todesursachen bei Welpen waren. Staupe greift Atemwege, Verdauung und Nervensystem an und verläuft häufig tödlich. Parvovirose verursacht schwere blutige Darmentzündung und tötet ungeimpfte Welpen binnen Tagen. Die ansteckende Leberentzündung schädigt Leber und Nieren. Leptospirose ist bakteriell, wird über den Urin von Ratten und Wildtieren in stehendem Wasser übertragen und ist auf den Menschen übertragbar.</p>
