@@ -45,6 +45,8 @@ custom_content: |
   
   <p>Le linee di sangue dello Staffordshire Bull Terrier si contano dal 1935, quando il Kennel Club britannico riconobbe la razza: prima, i Bull and Terrier dello Staffordshire erano cani da lavoro senza genealogie tracciabili. Nel 1943 lo storico H. N. Beilby pubblicò il primo studio completo sulle linee genetiche, e nel giro di pochi anni ne furono riconosciute sei, J, M, L, B, R e C, tracciate come d'uso attraverso la discendenza maschile. Il primo campione maschio della razza fu Gentleman Jim, allevato da Jack Dunn. Oggi sopravvivono soprattutto la linea M di Brindle Mick e la linea R di Ribchester Bob, che insieme costituiscono circa il 70% del patrimonio genetico della razza moderna. Sapere a quale linea appartiene un cane serve a leggere il pedigree, non a giudicare il cane: quello lo dicono i test genetici, la struttura e il carattere.</p>
 
+  <p>Questa pagina racconta la storia delle linee e dei cani che le hanno fondate. Se devi scegliere un cucciolo e vuoi sapere come orientarti fra le linee di oggi, c'è una guida pratica: <a href="/standard-linee-di-sangue-orientarsi/" title="Come orientarsi fra le linee di sangue">come orientarsi fra le linee di sangue</a>.</p>
+
   
   <h2>Le Origini delle Linee di Sangue</h2>
   

@@ -1,5 +1,6 @@
 ---
 title: "Differenza tra Staffordshire Bull Terrier, Pitbull e Amstaff"
+titleSeo: "Staffy, Pitbull e Amstaff: come distinguerli"
 date: 2025-11-19
 lastmod: 2026-09-28
 translationKey: "pitbull-amstaff"
@@ -221,34 +222,10 @@ custom_content: |
   </div>
   
   <h2>Quale Razza Scegliere?</h2>
-  
-  <p style="background:#faf7f2;border-left:4px solid #c9a227;padding:1rem 1.2rem;margin-bottom:1.2rem">
-  Se la scelta è ristretta a <strong>Staffy o Amstaff</strong>, abbiamo una guida dedicata a quel confronto:
-  <a href="/differenza-staffy-amstaff/" title="Staffy o Amstaff: quale scegliere">quale delle due razze fa per te</a>,
-  con le domande concrete da farsi su spazio, esperienza e vita quotidiana.</p>
-  
-  <h3>Scegli lo Staffordshire Bull Terrier se:</h3>
-  <ul>
-  <li>Vuoi un cane di taglia medio-piccola (max 17 kg) gestibile in appartamento</li>
-  <li>Cerchi un cane con pedigree e garanzie sull'allevamento</li>
-  <li>Hai bambini: lo Staffy è tradizionalmente eccellente con i più piccoli</li>
-  <li>Vuoi un cane energico ma non "estremo"</li>
-  <li>Preferisci una razza con meno problemi legali e assicurativi</li>
-  </ul>
-  
-  <h3>Scegli l'American Staffordshire Terrier se:</h3>
-  <ul>
-  <li>Preferisci un cane più grande e imponente (fino a 32 kg)</li>
-  <li>Vuoi comunque un pedigree riconosciuto</li>
-  <li>Hai esperienza con cani di tipo "bull"</li>
-  <li>Hai spazio adeguato (giardino o possibilità di molto esercizio)</li>
-  </ul>
-  
-  <div class="callout">
-  <p class="callout-title">🏆 Il Nostro Consiglio</p>
-  <p>Nel <a href="/">nostro allevamento Del Piccolo Diavolo</a> abbiamo scelto di dedicarci esclusivamente allo <strong>Staffordshire Bull Terrier</strong>: è una razza con standard FCI chiaro, permette selezione controllata con test genetici (L2-HGA, HC), ha dimensioni ideali per la vita familiare moderna e un temperamento eccezionale. I nostri <a href="/cuccioli-staffordshire-bull-terrier/">cuccioli</a> provengono da <a href="/linee-sangue-staffordshire-bull-terrier/">linee di sangue</a> inglesi e irlandesi documentate.</p>
-  </div>
-  
+
+  <p>Questa pagina serve a distinguere le tre razze e a capire cosa dice la legge. Se hai già escluso il Pit Bull e devi scegliere fra <strong>Staffy e Amstaff</strong>, la guida dedicata mette in fila le domande concrete su spazio, esperienza e vita quotidiana: <a href="/differenza-staffy-amstaff/" title="Staffy o Amstaff: quale scegliere">quale delle due razze fa per te</a>.</p>
+  <p>Noi allevamo solo lo Staffordshire Bull Terrier: una razza con standard FCI chiaro, test genetici per L2HGA e HC e una taglia adatta alla vita in casa.</p>
+
   <h2>Domande Frequenti</h2>
   
   <section class="faq">

@@ -106,44 +106,12 @@ custom_content: |
 
   <h2>Pros and cons: the honest list</h2>
 
-  <h3>Pros</h3>
-
-  <ul>
-  <li><strong>Unmatched affection and loyalty</strong></li>
-  <li><strong>Exceptional patience with children</strong></li>
-  <li><strong>Intelligence and eagerness to learn</strong></li>
-  <li><strong>Short coat</strong> — minimal grooming</li>
-  <li><strong>Robust and long-lived</strong> (12-14 years)</li>
-  <li><strong>Adaptable to apartment living</strong></li>
-  <li><strong>Presence that deters intruders</strong> without aggression</li>
-  </ul>
-
-  <h3>Cons</h3>
-
-  <ul>
-  <li><strong>Suffers from loneliness</strong> more than other breeds</li>
-  <li><strong>Can be stubborn</strong> during training</li>
-  <li><strong>High physical strength</strong> — requires work on the lead</li>
-  <li><strong>Possible intolerance</strong> towards other dogs of the same sex</li>
-  <li><strong>Energetic:</strong> not suitable for sedentary owners</li>
-  <li><strong>Destructive</strong> if bored or left alone too long</li>
-  </ul>
+  <p>This page is about everyday life with a Staffy. If you are still deciding whether to have one, the strengths and weaknesses, who the breed suits and who it does not, are set out in <a href="/en/is-the-staffordshire-bull-terrier-right-for-you/" title="Is the Staffy the right dog for you?">is the Staffordshire Bull Terrier right for you?</a></p>
 
   <h2>Character selection: why it matters more than the breed</h2>
 
-  <p>A Staffy's character depends 60% on genetics and 40% on environment. This means that choosing a serious kennel — one that selects breeding dogs with stable character and socialises puppies from day one — is the most important decision you can make.</p>
+  <p>Two Staffies with the same pedigree can have different characters: genetics lays the foundation, the first weeks do the rest, and that is why the breeder weighs as much as the breed. How a temperament is selected, what we look for in breeding dogs and how to assess a puppy is explained on the page about <a href="/en/staffordshire-bull-terrier-temperament/" title="Staffy temperament">the Staffordshire Bull Terrier temperament</a>.</p>
 
-  <p>A puppy born from parents with unstable character, raised in an isolated kennel, arrives in its new family with an enormous disadvantage that no training can fully compensate for.</p>
-
-  <p>At our kennel we select for character before aesthetics. If you're looking for <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies raised in family">Staffordshire Bull Terrier puppies</a> with a solid character from birth, this is where it starts. To find out how we select our breeding dogs, read our <a href="/en/litters-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier breeding programme">breeding programme</a>.</p>
-
-  <div class="callout">
-  <p class="callout-title">🐾 Considering a Staffy?</p>
-  <p>Contact me before deciding. I answer all questions and help you understand if the Staffy is really right for you. <a href="/en/contact/" title="Contact us">Write to me on WhatsApp</a>.</p>
-  </div>
-
-  <section class="faq">
-  <div class="faq-header">
   <h2>Frequently Asked Questions about the Staffy's Character</h2>
   <p>Answers based on 20 years of direct experience</p>
   </div>

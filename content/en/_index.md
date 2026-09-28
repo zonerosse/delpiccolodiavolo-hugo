@@ -132,7 +132,7 @@ custom_content: |
   </div>
   
   <div style="text-align:center;padding:1.5rem;background:#fff;border-radius:12px;border:1px solid rgba(139,115,85,0.15)">
-  <p style="font-size:1.1rem;color:#5c4a3a;margin-bottom:0.5rem"><strong>1 Italian Champion - 2 Italian Junior Champions - 1 San Marino Champion - 4th at World Dog Show</strong></p>
+  <p style="font-size:1.1rem;color:#5c4a3a;margin-bottom:0.5rem"><strong>1 Italian Champion - 3 Italian Junior Champions - 1 San Marino Champion - 4th at World Dog Show</strong></p>
   <p style="font-size:0.9rem;color:#4a3f35;margin-bottom:1rem">Results achieved with dogs bred and raised by us, not purchased already titled.</p>
   <a href="/en/palmares/" class="btn btn-primary" title="See all results">See All Results</a>
   </div>

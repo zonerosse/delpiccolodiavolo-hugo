@@ -27,7 +27,7 @@ custom_content: |
   <span class="hero-eyebrow"><a href="/recensioni/" title="Leggi le recensioni" style="color:inherit;text-decoration:none">⭐ <!--REC-VOTO--> su <!--REC-TOTALE--> recensioni →</a></span>
   <h1 class="hero-title">Allevamento <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo - Selezione, salute e carattere</p>
-  <p class="hero-description">A Ostellato (FE) dal 2013. Riproduttori testati per L2HGA e HC (HSF4), le fattrici anche per DM-SOD1, con i referti pubblicati e il microchip in chiaro. 1 Campione Italiano, 2 Giovani Campioni Italiani, 4&deg; al World Dog Show.</p>
+  <p class="hero-description">A Ostellato (FE) dal 2013. Riproduttori testati per L2HGA e HC (HSF4), le fattrici anche per DM-SOD1, con i referti pubblicati e il microchip in chiaro. 1 Campione Italiano, 3 Giovani Campioni Italiani, 4&deg; al World Dog Show.</p>
   <div class="hero-actions">
   <a href="/cuccioli-staffordshire-bull-terrier/" class="btn btn-primary" title="Cuccioli Staffordshire Bull Terrier disponibili">Cuccioli Staffordshire Bull Terrier</a>
   <a href="/allevamento-staffordshire-bull-terrier-in-emilia-romagna/" class="btn btn-ghost" title="Contattaci">Contattaci</a>
@@ -125,7 +125,7 @@ custom_content: |
 
   <p>Facciamo <strong>una cucciolata l'anno, occasionalmente due, a volte nessuna</strong>, mai su richiesta. Tutti i riproduttori sono testati per <strong>L2HGA e HC (gene HSF4)</strong>, le fattrici in attività anche per la <strong>mielopatia degenerativa (gene SOD1)</strong>, e i referti di laboratorio sono pubblicati sul sito: chiunque può scaricarli e leggere nome del cane e numero di microchip, senza chiederci niente. I cuccioli vengono affidati con <strong>pedigree ENCI</strong>, microchip e vaccinazioni in regola, dopo essere nati e cresciuti in casa il primo mese, e poi passati in un box dedicato con sfogo esterno, a contatto quotidiano con persone, rumori domestici e altri animali.</p>
 
-  <p>Sul piano dei risultati in esposizione, i cani allevati qui hanno ottenuto <strong>1 titolo di Campione Italiano</strong>, <strong>2 Giovani Campioni Italiani</strong> — uno dei quali anche Campione Sloveno — e un soggetto Giovane Campione e Campione di San Marino, un <strong>4° posto al World Dog Show</strong> con Bilquis Goddess Diabhal, e a maggio 2026 il titolo di <strong>Giovane Campionessa Italiana</strong> per Queen of California. Lavoriamo con le linee di sangue inglesi e irlandesi, in particolare Elitebull e Lackyle.</p>
+  <p>Sul piano dei risultati in esposizione, i cani allevati qui hanno ottenuto <strong>1 titolo di Campione Italiano</strong>, <strong>3 Giovani Campioni Italiani</strong> — uno dei quali anche Campione Sloveno — e un soggetto Giovane Campione e Campione di San Marino, un <strong>4° posto al World Dog Show</strong> con Bilquis Goddess Diabhal, e a maggio 2026 il titolo di <strong>Giovane Campionessa Italiana</strong> per Queen of California. Lavoriamo con le linee di sangue inglesi e irlandesi, in particolare Elitebull e Lackyle.</p>
 
   <p>La selezione dei riproduttori segue tre criteri, in quest'ordine: <strong>equilibrio caratteriale</strong>, <strong>assenza di patologie ereditarie</strong> e <strong>conformità allo standard</strong>. Il carattere viene per primo perché è quello che una famiglia si porta in casa per dodici anni, ed è anche il più difficile da correggere: la morfologia si sistema in due o tre generazioni, un difetto caratteriale no.</p>
 
@@ -255,7 +255,7 @@ custom_content: |
   </div>
 
   <div style="text-align:center;padding:1.5rem;background:#fff;border-radius:12px;border:1px solid rgba(139,115,85,0.15)">
-  <p style="font-size:1.1rem;color:#5c4a3a;margin-bottom:0.5rem"><strong>1 Campione Italiano - 2 Giovani Campioni Italiani - 1 Campionessa di San Marino - 4° al World Dog Show</strong></p>
+  <p style="font-size:1.1rem;color:#5c4a3a;margin-bottom:0.5rem"><strong>1 Campione Italiano - 3 Giovani Campioni Italiani - 1 Campionessa di San Marino - 4° al World Dog Show</strong></p>
   <p style="font-size:0.9rem;color:#4a3f35;margin-bottom:1rem">Risultati ottenuti con cani allevati e cresciuti da noi, non acquistati già titolati.</p>
   <a href="/palmares-del-piccolo-diavolo/" class="btn btn-primary" title="Vedi tutti i risultati" style="min-height:44px;display:inline-flex;align-items:center">Vedi Tutti i Risultati</a>
   </div>

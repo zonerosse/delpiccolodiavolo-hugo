@@ -10,7 +10,7 @@ slug: "palmares-del-piccolo-diavolo"
 custom_content: |
   <section class="page-hero">
   <h1>Palmares Staffordshire Bull Terrier — Del Piccolo Diavolo</h1>
-  <p>I cani allevati da Del Piccolo Diavolo hanno ottenuto finora un titolo di Campione Italiano, due di Giovane Campione Italiano &mdash; uno dei quali anche Campione Sloveno &mdash; e i titoli di Giovane Campionessa e Campionessa di San Marino, oltre a un quarto posto al World Dog Show con Bilquis Goddess Diabhal, che ha alle spalle dodici esposizioni consecutive con Eccellente primo. Nel maggio 2026 Queen of California ha conquistato il titolo di Giovane Campionessa Italiana all'Esposizione Nazionale di Albarella. Sono tutti cani nati e cresciuti qui, non acquistati già titolati. I risultati in esposizione non sono autocertificabili: i cataloghi delle manifestazioni sono pubblici e i giudici che hanno valutato questi cani hanno un nome e un cognome. I titoli per&ograve; sono solo una parte: che vita facciano oggi questi cani lo raccontiamo nelle <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">storie delle famiglie</a>.</p>
+  <p>I cani allevati da Del Piccolo Diavolo hanno ottenuto finora un titolo di Campione Italiano, tre di Giovane Campione Italiano &mdash; Bilquis, Lothar, che è anche Campione Sloveno, e Queen of California &mdash; e i titoli di Giovane Campionessa e Campionessa di San Marino, oltre a un quarto posto al World Dog Show con Bilquis Goddess Diabhal, che ha alle spalle dodici esposizioni consecutive con Eccellente primo. Nel maggio 2026 Queen of California ha conquistato il titolo di Giovane Campionessa Italiana all'Esposizione Nazionale di Albarella. Sono tutti cani nati e cresciuti qui, non acquistati già titolati. I risultati in esposizione non sono autocertificabili: i cataloghi delle manifestazioni sono pubblici e i giudici che hanno valutato questi cani hanno un nome e un cognome. I titoli per&ograve; sono solo una parte: che vita facciano oggi questi cani lo raccontiamo nelle <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">storie delle famiglie</a>.</p>
 
   <p>I risultati dei nostri Staffordshire Bull Terrier sui ring italiani e internazionali</p>
   </section>
@@ -30,7 +30,7 @@ custom_content: |
   <p style="font-size:0.85rem;margin:0">Campione Italiano</p>
   </div>
   <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
-  <p style="font-size:2rem;font-weight:700;margin:0">2</p>
+  <p style="font-size:2rem;font-weight:700;margin:0">3</p>
   <p style="font-size:0.85rem;margin:0">Giovani Campioni</p>
   </div>
   <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">

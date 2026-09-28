@@ -146,30 +146,9 @@ custom_content: |
   
   <h2>Which Breed to Choose?</h2>
 
-  <p style="background:#faf7f2;border-left:4px solid #c9a227;padding:1rem 1.2rem;margin-bottom:1.2rem">If your choice is narrowed to <strong>Staffy or Amstaff</strong>, we have a guide dedicated to that comparison: <a href="/en/staffy-or-amstaff-which-breed-suits-you/" title="Staffy or Amstaff: which to choose">which of the two breeds suits you</a>.</p>
-  
-  <h3>Choose the Staffordshire Bull Terrier if:</h3>
-  <ul>
-  <li>You want a medium-small dog (max 17 kg) manageable in an apartment</li>
-  <li>You are looking for a dog with pedigree and breeding guarantees</li>
-  <li>You have children: the Staffy is traditionally excellent with little ones</li>
-  <li>You want an energetic but not "extreme" dog</li>
-  <li>You prefer a breed with fewer legal and insurance issues</li>
-  </ul>
-  
-  <h3>Choose the American Staffordshire Terrier if:</h3>
-  <ul>
-  <li>You prefer a larger and more imposing dog (up to 32 kg)</li>
-  <li>You still want a recognized pedigree</li>
-  <li>You have experience with "bull" type dogs</li>
-  <li>You have adequate space (garden or possibility of lots of exercise)</li>
-  </ul>
-  
-  <div class="callout">
-  <p class="callout-title">🏆 Our Advice</p>
-  <p>At our <a href="/en/">Del Piccolo Diavolo kennel</a> we have chosen to dedicate ourselves exclusively to the <strong>Staffordshire Bull Terrier</strong>: it is a breed with clear FCI standard, allows controlled selection with genetic tests (L2-HGA, HC), has ideal size for modern family life and an exceptional temperament. Our <a href="/en/puppies-staffordshire-bull-terrier/">puppies</a> come from documented English and Irish <a href="/en/staffy-bloodlines-guide/">bloodlines</a>.</p>
-  </div>
-  
+  <p>This page is about telling the three breeds apart and understanding what the law says. If you have already ruled out the Pit Bull and are choosing between <strong>Staffy and Amstaff</strong>, the dedicated guide sets out the practical questions about space, experience and daily life: <a href="/en/staffy-or-amstaff-which-breed-suits-you/" title="Staffy or Amstaff: which to choose">which of the two breeds suits you</a>.</p>
+  <p>We breed only the Staffordshire Bull Terrier: a breed with a clear FCI standard, genetic tests for L2HGA and HC, and a size that suits life indoors.</p>
+
   <h2>Frequently Asked Questions</h2>
   
   <section class="faq">

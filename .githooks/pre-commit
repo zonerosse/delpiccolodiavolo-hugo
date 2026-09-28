@@ -28,8 +28,28 @@ FILES=$(git diff --cached --name-only --diff-filter=AMR -- 'content/*.md' 'conte
 
 [ -z "$FILES" ] && exit 0
 
+TMP_A=$(mktemp); TMP_B=$(mktemp)
+# Testo "visibile" di una versione del file: senza lastmod/date, senza tag
+# HTML, con gli spazi compattati. Due versioni con lo stesso testo visibile
+# sono la stessa pagina per chi legge, anche se il markup e' cambiato.
+testo() {
+  grep -v -e '^lastmod:' -e '^date:' | sed -e 's/<[^>]*>//g' -e 's/[[:space:]][[:space:]]*/ /g' -e '/^ *$/d'
+}
+
 for f in $FILES; do
   [ -f "$f" ] || continue
+
+  # Se il file esisteva gia' e il testo visibile non e' cambiato (solo
+  # markup, classi, attributi, link interni o la data di pubblicazione),
+  # lastmod resta com'e': la sitemap deve dire che una pagina e' cambiata
+  # solo quando e' cambiata davvero per chi la legge.
+  if git cat-file -e "HEAD:$f" 2>/dev/null; then
+    git show "HEAD:$f" | testo > "$TMP_A"
+    git show ":$f" | testo > "$TMP_B"
+    if cmp -s "$TMP_A" "$TMP_B"; then
+      continue
+    fi
+  fi
 
   if grep -q '^lastmod:' "$f"; then
     # esiste: sostituisco il valore, ma solo se e' diverso da oggi
@@ -51,8 +71,10 @@ for f in $FILES; do
   TOCCATI=$((TOCCATI + 1))
 done
 
+rm -f "$TMP_A" "$TMP_B"
+
 if [ "$TOCCATI" -gt 0 ]; then
-  echo "lastmod aggiornato a $OGGI in $TOCCATI file"
+  echo "lastmod aggiornato a $OGGI in $TOCCATI file (solo quelli con testo cambiato)"
 fi
 
 # ---------------------------------------------------------------------------

@@ -104,28 +104,7 @@ custom_content: |
 
   <h2>Pregi e difetti: la lista onesta</h2>
 
-  <h3>Pregi</h3>
-
-  <ul>
-  <li><strong>Affetto e fedeltà senza paragoni</strong></li>
-  <li><strong>Pazienza eccezionale con i bambini</strong></li>
-  <li><strong>Intelligenza e voglia di imparare</strong></li>
-  <li><strong>Pelo corto</strong> — manutenzione minima</li>
-  <li><strong>Robusto e longevo</strong> (12-14 anni)</li>
-  <li><strong>Adattabile all'appartamento</strong></li>
-  <li><strong>Presenza che scoraggia intrusioni</strong> senza aggressività</li>
-  </ul>
-
-  <h3>Difetti</h3>
-
-  <ul>
-  <li><strong>Soffre la solitudine</strong> più di altre razze</li>
-  <li><strong>Può essere testardo</strong> nell'educazione</li>
-  <li><strong>Forza fisica elevata</strong> — al guinzaglio richiede lavoro</li>
-  <li><strong>Possibile intolleranza</strong> verso altri cani dello stesso sesso</li>
-  <li><strong>Energico:</strong> non adatto a proprietari sedentari</li>
-  <li><strong>Distruttivo</strong> se annoiato o lasciato solo troppo a lungo</li>
-  </ul>
+  <p>Questa pagina racconta com'è la vita di tutti i giorni con uno Staffy. Se invece stai decidendo se prenderlo, pregi e difetti messi in fila, per chi è adatto e per chi no, stanno nella guida <a href="/staffordshire-bull-terrier-e-il-cane-giusto-per-te/" title="Lo Staffy è il cane giusto per te?">lo Staffordshire Bull Terrier è il cane giusto per te?</a></p>
 
   <h2>Il peso di chi alleva</h2>
 

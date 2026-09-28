@@ -6,7 +6,7 @@ lastmod: 2026-09-28
 translationKey: "scelta-linee"
 articolo: true
 image: "/images/blog/standard-2.webp"
-description: "Praktischer Leitfaden zur Wahl der richtigen Staffordshire Bull Terrier Blutlinie für Ihre Bedürfnisse: Show, Begleithund, Temperament."
+description: "Wie man für einen Welpen die Blutlinie des Staffordshire Bull Terrier wählt: was Sie vom Hund wollen, was Linien unterscheidet, was Sie fragen sollten."
 slug: "blutlinien-waehlen"
 custom_content: |
   <section class="hero">
@@ -32,6 +32,8 @@ custom_content: |
   <article class="article-content">
   
   <p>Die Wahl einer Blutlinie beim Staffordshire Bull Terrier beginnt bei Ihnen, nicht bei der Ahnentafel: ob der Hund Begleiter, Ausstellungshund oder späterer Zuchthund werden soll, wie lebhaft Ihr Haushalt ist und wie viel Hund Sie tatsächlich führen wollen. Alle guten Linien entsprechen demselben FCI-Standard; unterschiedlich ist die Betonung, bei Knochen und Substanz, Kopfproportion, Trieb, Verträglichkeit mit anderen Hunden und darin, wie zuverlässig eine Linie ihren Typ vererbt. Englische Linien stehen meist für Ausgewogenheit und korrektes Gangwerk, irische für Kompaktheit und Substanz. Die Gesundheit kommt vor der Linie: Fragen Sie nach den Ergebnissen für L2HGA und HC mit Mikrochipnummer und nach dem Inzuchtkoeffizienten über fünf Generationen. Die Zucht Del Piccolo Diavolo in Ostellato in der Provinz Ferrara arbeitet mit der englischen Linie Elitebull und der irischen Linie Lackyle.</p>
+
+  <p>Dies ist der praktische Ratgeber. Die Geschichte der sechs Gründerlinien, von Gentleman Jim, der M-Linie und der R-Linie steht in der <a href="/de/staffy-blutlinien-guide/" title="Geschichte der Staffy-Blutlinien">Geschichte der Blutlinien</a>.</p>
 
   
   

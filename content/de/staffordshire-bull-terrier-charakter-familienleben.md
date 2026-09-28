@@ -106,44 +106,12 @@ custom_content: |
 
   <h2>Vor- und Nachteile: die ehrliche Liste</h2>
 
-  <h3>Vorteile</h3>
-
-  <ul>
-  <li><strong>Unvergleichliche Zuneigung und Loyalität</strong></li>
-  <li><strong>Außergewöhnliche Geduld mit Kindern</strong></li>
-  <li><strong>Intelligenz und Lernbereitschaft</strong></li>
-  <li><strong>Kurzes Fell</strong> — minimale Pflege</li>
-  <li><strong>Robust und langlebig</strong> (12-14 Jahre)</li>
-  <li><strong>Anpassungsfähig an Wohnungshaltung</strong></li>
-  <li><strong>Präsenz, die Eindringlinge abschreckt</strong> ohne Aggressivität</li>
-  </ul>
-
-  <h3>Nachteile</h3>
-
-  <ul>
-  <li><strong>Leidet mehr unter Einsamkeit</strong> als andere Rassen</li>
-  <li><strong>Kann beim Training stur sein</strong></li>
-  <li><strong>Hohe körperliche Stärke</strong> — erfordert Arbeit an der Leine</li>
-  <li><strong>Mögliche Intoleranz</strong> gegenüber anderen Hunden desselben Geschlechts</li>
-  <li><strong>Energisch:</strong> nicht geeignet für bewegungsarme Besitzer</li>
-  <li><strong>Destruktiv</strong> bei Langeweile oder zu langer Einsamkeit</li>
-  </ul>
+  <p>Diese Seite erzählt vom Alltag mit einem Staffy. Wenn Sie noch entscheiden, ob er zu Ihnen passt, finden Sie Stärken und Schwächen, für wen die Rasse geeignet ist und für wen nicht, im Ratgeber <a href="/de/ist-der-staffordshire-bull-terrier-der-richtige-hund/" title="Ist der Staffy der richtige Hund?">ist der Staffordshire Bull Terrier der richtige Hund für Sie?</a></p>
 
   <h2>Charakterselektion: warum sie mehr zählt als die Rasse</h2>
 
-  <p>Der Charakter eines Staffies hängt zu 60% von der Genetik und zu 40% von der Umgebung ab. Das bedeutet, dass die Wahl einer seriösen Zucht — die Zuchttiere mit stabilem Charakter auswählt und Welpen von Tag eins an sozialisiert — die wichtigste Entscheidung ist, die Sie treffen können.</p>
+  <p>Zwei Staffies mit derselben Ahnentafel können verschiedene Charaktere haben: die Genetik legt die Grundlage, die ersten Wochen erledigen den Rest, und deshalb wiegt der Züchter so viel wie die Rasse. Wie ein Wesen selektiert wird, worauf wir bei Zuchthunden achten und wie man einen Welpen beurteilt, erklärt die Seite über <a href="/de/staffordshire-bull-terrier-wesen/" title="Das Wesen des Staffy">das Wesen des Staffordshire Bull Terrier</a>.</p>
 
-  <p>Ein Welpe, der von Eltern mit instabilem Charakter geboren und in einem isolierten Zwinger aufgezogen wurde, kommt mit einem enormen Nachteil in seine neue Familie, den keine Erziehung vollständig ausgleichen kann.</p>
-
-  <p>In unserer Zucht wählen wir den Charakter vor der Ästhetik. Wenn Sie <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen in der Familie aufgezogen">Staffordshire Bull Terrier Welpen</a> mit einem soliden Charakter von Geburt an suchen, hier beginnt es. Um zu erfahren, wie wir unsere Zuchttiere auswählen, lesen Sie unser <a href="/de/wuerfe-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Zuchtprogramm">Zuchtprogramm</a>.</p>
-
-  <div class="callout">
-  <p class="callout-title">🐾 Überlegen Sie sich einen Staffy?</p>
-  <p>Kontaktieren Sie mich, bevor Sie sich entscheiden. Ich beantworte alle Fragen und helfe Ihnen zu verstehen, ob der Staffy wirklich das Richtige für Sie ist. <a href="/de/kontakt/" title="Kontakt">WhatsApp schreiben</a>.</p>
-  </div>
-
-  <section class="faq">
-  <div class="faq-header">
   <h2>Häufig gestellte Fragen zum Charakter des Staffies</h2>
   <p>Antworten basierend auf 20 Jahren direkter Erfahrung</p>
   </div>

@@ -6,7 +6,7 @@ lastmod: 2026-09-28
 translationKey: "scelta-linee"
 articolo: true
 image: "/images/blog/standard-2.webp"
-description: "Practical guide to choosing the right Staffordshire Bull Terrier bloodline for your needs: show, companion, temperament considerations."
+description: "How to choose a Staffordshire Bull Terrier bloodline for a puppy: what you want from the dog, what differs between lines, and what to ask the breeder."
 slug: "choosing-bloodlines"
 custom_content: |
   <section class="hero">
@@ -36,6 +36,8 @@ custom_content: |
   <article class="article-content">
   
   <p>Choosing a Staffordshire Bull Terrier bloodline starts with you, not with the pedigree: whether the dog will be a companion, a show prospect or a future breeding animal, how busy your household is, and how much dog you are prepared to manage. All good lines meet the same FCI standard; what differs is emphasis, in bone and substance, head proportion, drive, tolerance of other dogs and how consistently a line reproduces its type. English lines are generally associated with balance and sound movement, Irish lines with compactness and substance. Health comes before the line: ask for the L2HGA and HC results with the microchip numbers, and for the coefficient of inbreeding over five generations. The Del Piccolo Diavolo kennel in Ostellato, in the province of Ferrara, Italy, works with the English Elitebull and the Irish Lackyle lines.</p>
+
+  <p>This is the practical guide. The history of the six founding lines, Gentleman Jim and the M-Line and R-Line is told in the <a href="/en/staffy-bloodlines-guide/" title="History of Staffy bloodlines">history of Staffy bloodlines</a>.</p>
 
   
   

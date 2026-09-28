@@ -1,11 +1,12 @@
 ---
 title: "Staffordshire Bull Terrier Blutlinien Leitfaden"
+titleSeo: "Staffy-Blutlinien: die Geschichte der sechs Linien"
 date: 2025-11-08
 lastmod: 2026-09-28
 translationKey: "linee-sangue"
 articolo: true
 image: "/images/blog/standard-1.webp"
-description: "Blutlinien des Staffordshire Bull Terrier: englische und irische Linien, Elitebull und Lackyle, Ausstellung gegen Funktion, Ahnentafel lesen und Inzuchtkoeffizient."
+description: "Geschichte der Blutlinien des Staffordshire Bull Terrier: die sechs männlichen Gründerlinien, Gentleman Jim, M- und R-Linie und die Zuchten von heute."
 slug: "staffy-blutlinien-guide"
 custom_content: |
   <section class="hero">
@@ -31,6 +32,8 @@ custom_content: |
   <article class="article-content">
   
   <p>Eine Blutlinie des Staffordshire Bull Terrier ist keine Unterrasse und keine Marke, sondern das Ergebnis von Entscheidungen, die ein Züchter oder eine kleine Gruppe von Züchtern über viele Generationen getroffen hat: welche Hunde behalten, welche miteinander verpaart und welche Merkmale nie aufgegeben wurden. Zwei Staffords aus verschiedenen Linien gehören derselben Rasse an und müssen demselben Standard entsprechen, können sich aber in Knochen, Kopfproportion, Wesen und Arbeitshaltung deutlich unterscheiden. Die englischen Linien stehen für den Typ, mit korrekten Proportionen, einem breiten Kopf ohne Übertreibung und zuverlässigem Wesen, die irischen eher für Kompaktheit und Substanz. Wer eine Ahnentafel liest, sollte auf getestete Hunde und auf den Inzuchtkoeffizienten achten, nicht nur auf berühmte Namen. Die Zucht Del Piccolo Diavolo in Ostellato bei Ferrara arbeitet mit der englischen Linie Elitebull und der irischen Linie Lackyle.</p>
+
+  <p>Diese Seite erzählt die Geschichte der Linien und der Hunde, die sie begründet haben. Wenn Sie einen Welpen wählen und wissen möchten, wie man sich unter den heutigen Linien zurechtfindet, gibt es einen praktischen Ratgeber: <a href="/de/blutlinien-waehlen/" title="Blutlinien wählen">wie man eine Blutlinie wählt</a>.</p>
 
   
   

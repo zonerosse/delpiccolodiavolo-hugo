@@ -1,7 +1,7 @@
 ---
 title: "Restiamo in contatto"
 date: 2026-08-30
-lastmod: 2026-09-28
+lastmod: 2026-09-08
 noindex: true
 tipoPagina: "WebPage"
 description: "Fatti conoscere: ti scrivo io quando c'è una cucciolata in arrivo. Non è una prenotazione e non c'è lista d'attesa."

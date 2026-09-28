@@ -1,7 +1,7 @@
 ---
 title: "Ricevuto, ti avviso"
 date: 2026-08-30
-lastmod: 2026-09-28
+lastmod: 2026-09-12
 description: "Ho preso i tuoi contatti: ti scrivo io quando c'è una cucciolata in arrivo."
 slug: "contatto-grazie"
 noindex: true
