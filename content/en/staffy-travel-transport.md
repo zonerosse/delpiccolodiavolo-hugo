@@ -71,6 +71,56 @@ custom_content: |
   <p>Passport and vaccination record with your own documents. Microchip number written somewhere separate. Enough of the usual food for the whole trip plus 2 days. Water and a collapsible bowl within reach, not in the boot. The dog's own bed. A recent photograph on your phone, which matters if the dog is lost abroad. The address of a veterinary practice at the destination. And, for summer travel, a cooling mat and a plan for where the dog will be at midday.</p>
   <p>Finally, judge the journey by the dog rather than the itinerary. A fourteen-hour drive in August with a short-muzzled dog is a bad idea however well equipped you are. Splitting it across 2 days, or travelling overnight, is not an indulgence: for this breed it is the difference between a holiday and an emergency.</p>
 
+  <h2>Frequently asked questions</h2>
+
+  <div class="faq-list">
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How far ahead should I prepare a dog for a long journey?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">For a dog already used to the car, a few days are enough: check documents and parasite treatment and set off. For a dog that is sick in the car or has never been in one, allow <strong>four to six weeks</strong>, and the path is always the same: first get into the stationary car with the engine off and get straight out again, then with the engine running, then two-minute drives that end somewhere pleasant, then gradually longer ones. The typical mistake is making the first real journey before the habit has been built, because a bad first experience then has to be undone. If the destination is abroad, the paperwork sets the timetable: passport, microchip and a valid rabies vaccination, which on its own needs twenty-one days after it is given.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Can a Staffy travel by air?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Technically yes, but it needs serious thought because the breed has a shortened muzzle. Several airlines restrict or ban brachycephalic dogs in the hold, precisely because of the breathing risk linked to stress and temperature: the rules change from carrier to carrier and must be checked on the airline's own website, not asked at a travel agency. Only dogs under about eight to ten kilos can travel in the cabin, so an adult Staffy almost never qualifies. The practical consequence is simple: for this breed <strong>the car remains the best way to travel</strong>, with stops every two to three hours. For our own puppies the question does not arise: we do not ship dogs or send them in the hold; whoever takes one comes to collect it.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How do I manage toilet breaks on a journey?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">A stop every <strong>two to three hours</strong> for an adult, every hour and a half for a puppy, always on the lead even in fenced areas: a disoriented dog at a motorway service area is the situation in which more dogs are lost than any other. It is best not to feed in the three or four hours before departure, while water should be offered at every stop, a little and often. An absorbent sheet for the boot and a few extra bags are useful. On a very long journey, make the first stop early, within the first hour: it lets you check how the dog is doing and breaks the initial tension. On arriving home, a dog that has not relieved itself for many hours goes out before the luggage is even unloaded.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">My dog is always sick in the car. What can I do?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">First work out whether it is true motion sickness or anxiety, because the solution differs. Motion sickness comes from the inner ear, is common in puppies and often improves with age; car anxiety comes from negative associations, and the dog drools, trembles and whines before the car even moves. For both it helps to travel on an empty stomach, keep the dog <strong>facing forward and low</strong>, drive smoothly through bends and when braking, and let in fresh air. On the behavioural side, rebuild the association from scratch, with very short trips that end somewhere good. There are specific veterinary medicines against motion sickness that are effective and safe: ask the vet for them, and never improvise with products for people.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Crate or harness for an adult Staffy in the car?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Italian traffic law requires that an animal must not interfere with driving, and the accepted systems are a crate, a dividing grille or a restraint harness attached to the seatbelt. Of these, a <strong>rigid crate secured in the boot</strong> remains the safest in a collision, and for a compact dog like the Staffy there are models that fit well. A car harness is a good alternative if it is crash-tested, not an ordinary walking harness clipped to the seatbelt: in a hard stop that will not hold the weight it has to hold. Whichever system you choose, the dog never travels on the front seat, and a head out of the window is dangerous for eyes and ears.
+  </div>
+  </div>
+
+  </div>
+
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   </div>

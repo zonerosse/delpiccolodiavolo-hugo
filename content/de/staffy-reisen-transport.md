@@ -61,6 +61,60 @@ custom_content: |
   <p>Buchen Sie eine Unterkunft, die Hunde wirklich willkommen heißt, und stellen Sie zwei Fragen: ob der Hund allein im Zimmer bleiben darf und ob es beschatteten Außenbereich gibt. Ein Staffordshire Bull Terrier, der allein in einem fremden Zimmer bleibt, bellt häufig.</p>
   <p>Nehmen Sie das eigene Bett und die eigenen Näpfe mit, das gewohnte Futter und davon reichlich: ein Futterwechsel an einem fremden Ort erzeugt genau die Verdauungsprobleme, die Sie nicht brauchen. Notieren Sie vor der Abfahrt Adresse und Telefonnummer einer Tierarztpraxis am Zielort und führen Sie den Heimtierausweis bei den eigenen Papieren mit, nicht im Gepäck.</p>
 
+  <h2>Eine Checkliste vor jeder langen Reise</h2>
+  <p>Heimtierausweis und Impfnachweis bei den eigenen Papieren. Die Mikrochipnummer zusätzlich an anderer Stelle notiert. Genug vom gewohnten Futter für die ganze Reise plus 2 Tage. Wasser und ein Faltnapf in Reichweite, nicht im Kofferraum. Das eigene Bett des Hundes. Ein aktuelles Foto auf dem Handy, wichtig, wenn der Hund im Ausland verloren geht. Die Adresse einer Tierarztpraxis am Ziel. Und für Sommerreisen eine Kühlmatte und ein Plan, wo der Hund um die Mittagszeit sein wird.</p>
+  <p>Beurteilen Sie die Reise schließlich nach dem Hund, nicht nach der Route. Vierzehn Stunden Autofahrt im August mit einem Hund mit kurzem Fang sind eine schlechte Idee, egal wie gut Sie ausgerüstet sind. Die Strecke auf 2 Tage zu verteilen oder nachts zu fahren ist kein Luxus: bei dieser Rasse ist es der Unterschied zwischen Urlaub und Notfall.</p>
+
+  <h2>Häufige Fragen</h2>
+
+  <div class="faq-list">
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie lange vorher bereite ich einen Hund auf eine lange Reise vor?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Für einen Hund, der das Auto gewohnt ist, reichen ein paar Tage: Papiere und Parasitenschutz prüfen und losfahren. Für einen Hund, dem im Auto übel wird oder der nie darin war, rechnen Sie mit <strong>vier bis sechs Wochen</strong>, und der Weg ist immer derselbe: zuerst ins stehende Auto mit ausgeschaltetem Motor und gleich wieder hinaus, dann mit laufendem Motor, dann Fahrten von zwei Minuten, die an einem schönen Ort enden, dann nach und nach längere. Der typische Fehler ist, die erste echte Reise zu machen, bevor die Gewohnheit aufgebaut ist, denn eine schlechte erste Erfahrung muss danach erst abgebaut werden. Geht es ins Ausland, bestimmen die Papiere den Zeitplan: Heimtierausweis, Mikrochip und eine gültige Tollwutimpfung, die allein einundzwanzig Tage nach der Gabe braucht.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Kann ein Staffy fliegen?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Technisch ja, aber es muss ernsthaft abgewogen werden, weil die Rasse einen verkürzten Fang hat. Mehrere Fluggesellschaften beschränken oder verbieten brachyzephale Hunde im Frachtraum, gerade wegen des Atemrisikos durch Stress und Temperatur: die Regeln wechseln von Gesellschaft zu Gesellschaft und müssen auf deren eigener Website geprüft werden, nicht im Reisebüro erfragt. In der Kabine dürfen nur Hunde bis etwa acht bis zehn Kilo reisen, ein erwachsener Staffy fällt also fast nie darunter. Die praktische Folge ist einfach: für diese Rasse <strong>bleibt das Auto das beste Verkehrsmittel</strong>, mit Pausen alle zwei bis drei Stunden. Für unsere eigenen Welpen stellt sich die Frage nicht: wir verschicken keine Hunde und schicken sie nicht in den Frachtraum; wer einen nimmt, holt ihn ab.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie regle ich die Pausen auf der Reise?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Eine Pause alle <strong>zwei bis drei Stunden</strong> für einen Erwachsenen, alle anderthalb Stunden für einen Welpen, immer an der Leine, auch in eingezäunten Bereichen: ein orientierungsloser Hund auf einem Autobahnrastplatz ist die Situation, in der die meisten Hunde verloren gehen. Füttern Sie am besten in den drei bis vier Stunden vor der Abfahrt nicht, Wasser dagegen bei jeder Pause, wenig und oft. Nützlich sind eine saugfähige Unterlage für den Kofferraum und ein paar Beutel mehr. Auf sehr langen Fahrten legen Sie die erste Pause früh ein, innerhalb der ersten Stunde: sie zeigt, wie es dem Hund geht, und löst die anfängliche Anspannung. Zu Hause angekommen, geht ein Hund, der sich viele Stunden nicht lösen konnte, hinaus, bevor das Gepäck ausgeladen wird.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Meinem Hund wird im Auto immer übel. Was tun?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Zuerst klären, ob es echte Reisekrankheit oder Angst ist, denn die Lösung ist eine andere. Reisekrankheit kommt aus dem Innenohr, ist bei Welpen häufig und bessert sich oft mit dem Wachstum; Autoangst entsteht aus negativen Verknüpfungen, und der Hund speichelt, zittert und winselt, bevor das Auto überhaupt fährt. In beiden Fällen hilft es, mit leerem Magen zu reisen, den Hund <strong>nach vorn gerichtet und tief</strong> zu halten, weich durch Kurven zu fahren und sanft zu bremsen und frische Luft hereinzulassen. Auf der Verhaltensseite baut man die Verknüpfung neu auf, mit sehr kurzen Fahrten, die an einem schönen Ort enden. Es gibt wirksame und sichere Tierarzneimittel gegen Reisekrankheit: fragen Sie den Tierarzt danach und improvisieren Sie nie mit Mitteln für Menschen.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Box oder Geschirr für einen erwachsenen Staffy im Auto?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Das italienische Verkehrsrecht verlangt, dass ein Tier den Fahrer nicht behindert, und zulässig sind eine Box, ein Trenngitter oder ein Sicherheitsgeschirr am Gurt. Davon bleibt eine <strong>feste, im Kofferraum gesicherte Box</strong> bei einem Unfall am sichersten, und für einen kompakten Hund wie den Staffy gibt es gut passende Modelle. Ein Autogeschirr ist eine gute Alternative, wenn es crashgetestet ist, kein gewöhnliches Spaziergeschirr, das am Gurt eingehakt wird: bei einer Vollbremsung hält es das Gewicht nicht, das es halten muss. Welches System Sie auch wählen, der Hund fährt nie auf dem Beifahrersitz, und ein Kopf aus dem Fenster ist gefährlich für Augen und Ohren.
+  </div>
+  </div>
+
+  </div>
+
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>

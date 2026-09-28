@@ -122,6 +122,19 @@ custom_content: |
   </div>
   </section>
 
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">How I work</span>
+  <h2 class="section-title">How I choose a male, and what I ask of families</h2>
+  <p>The breeding females live here and I have known them since they were puppies. The male almost always comes from outside: it is the choice that weighs most on a litter, and I make it by looking at three things.</p>
+  <p><strong>What the female lacks.</strong> A mating between two Staffordshire Bull Terriers is not about adding two beautiful dogs together; it is about correcting something and fixing the rest. If a female has an excellent head and movement that could be better, I look for a male who is strong on movement, not one who is as beautiful as she is.</p>
+  <p><strong>What lies behind the male.</strong> Looking at the dog is not enough: I look at his sire, his dam, his littermates and what he has produced if he already has offspring. A dog can be better or worse than his own line, and the second generation shows it.</p>
+  <p><strong>What the stud's owner can show.</strong> Genetic test reports with the microchip number on them, not promises. If a male is not tested for everything needed, or is clear only by parentage, I know it before the mating and I write it on that litter's page: anyone reading should know it as well as I do.</p>
+  <p>Before a dog is used for breeding I watch it for months: at home, with strangers, with other dogs, with children. A dog that is not sure of itself does not enter the programme, however handsome. That is why there are one or two litters a year, and some years none: if the right moment does not come, nothing is born that year.</p>
+  <p>Of anyone who wants a puppy I ask one thing first: to come to Ostellato in person, at least once. It is the only moment when I see how someone behaves with a real dog rather than a photograph, and when they see where the puppy grew up. I ask to talk about the dog's day: how many hours it will be alone, who is at home, what happens in summer when the family goes away. Ordinary questions, and they prevent almost every problem. And I tell everyone the same thing, as a commitment: <strong>if one day you can no longer keep the dog, it comes back here.</strong> In twelve years it has never been needed; where those dogs are and what life they lead today is told in the <a href="/en/staffordshire-family-life-stories/" title="Family stories">family stories</a>.</p>
+  </div>
+  </section>
+
   <section class="dark-section">
   <h2>We're Not Sellers, We're Guardians</h2>
   <p>We don't breed for profit. Each litter costs thousands of euros in tests, veterinary care, quality food. You'll never find our puppies on classified ads. We also select the owners.</p>

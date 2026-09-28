@@ -60,6 +60,53 @@ custom_content: |
   <p>You are not judging show potential at 8 weeks, and any breeder who guarantees a champion is guessing. What you can assess is the parents: their proportion, their dentition, their movement, and above all how they breathe after exercise. Ask to see both parents move, not just stand. Ask to see them on a warm day if you can.</p>
   <p>A puppy from two parents who are typey, sound and comfortable in their own bodies is far more likely to become the same. That is the whole of what the standard is trying to protect.</p>
 
+  <h2>Common mistakes in judging type</h2>
+  <p>Five errors recur. An <strong>overdone head</strong> pursued at the expense of everything else, which compromises neck, shoulders and movement. A <strong>chest that is too wide</strong>, a front so broad that it restricts the forehand. <strong>Bulky muscle that is not functional</strong>, built artificially rather than inherited. <strong>Weight as the only yardstick</strong>, treating the maximum weight as a target while ignoring proportions and height. And <strong>ignoring temperament</strong>, judging conformation while overlooking behavioural stability, which the standard puts in its opening lines.</p>
+
+  <h2>How to read a Stafford in the ring</h2>
+  <p>Look in this order. First the <strong>general impression</strong>: immediate type, balance, presence. Then the <strong>profile standing</strong>: lines, proportions, structure. Then the <strong>detailed examination</strong>: head, bite, body, limbs, feet. Then <strong>movement</strong>, at the trot from every side, where function shows. And finally <strong>temperament</strong>: how the dog handles being handled, its confidence, its reaction to what happens around it.</p>
+
+  <h2>Frequently asked questions</h2>
+
+  <div class="faq-list">
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What are the typical features of the Staffy's head?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">The head is the breed's most characteristic feature, and the standard describes it precisely: a <strong>short, broad skull</strong>, very pronounced cheek muscles, a <strong>distinct stop</strong>, a short foreface and a complete scissor bite. The ears are rose or half-pricked, neither large nor heavy, never drop nor cropped. The eyes are round, of medium size and preferably dark, with dark eye rims. What is assessed is not power in itself but balance: an exaggeratedly broad head or a muzzle that is too short is no longer type, it is a fault that brings breathing and dental problems. Reading a head well means looking at it in proportion to the whole dog, not on its own.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Which colours does the FCI standard allow?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">The standard allows <strong>red, fawn, white, black and blue</strong>, or any of these colours with white, plus any shade of <strong>brindle</strong> and brindle with white. It explicitly excludes <strong>black and tan</strong> and <strong>liver</strong>, colours generally attributed to outside blood, so their appearance raises doubts about a line. Merle does not exist in the breed: if it appears, it points to another breed in the background. A puppy of a non-permitted colour is no less healthy or affectionate, but it cannot be bred from or shown, and a serious breeder says so openly instead of selling it as rare. The blue is permitted but is a dilute colour linked to possible skin problems, and careful breeders treat it with caution.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What is the ideal weight according to the standard?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">The standard gives <strong>12.7 to 17 kilos for males</strong> and <strong>11 to 15.4 kilos for females</strong>, with a height at the withers of about 35.5 to 40.5 centimetres in both sexes, and height should be related to weight. It is a big dog in a small body, but compactness does not mean heaviness. In daily life, condition matters more than the number: the ribs should be easy to feel without pressing, and from above the waist should be clearly visible. The Staffordshire Bull Terrier is greedy and puts on weight easily, and excess weight is one of the most common health problems in adult dogs of the breed, with consequences for joints, heart and heat tolerance.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Which genetic tests should a serious breeder do?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">None are required by law, and it is worth saying clearly: a breeder who does not test is not breaking any rule. What exists is a shared standard of seriousness, which for this breed includes <strong>L2-HGA</strong>, <strong>hereditary cataract</strong> and <strong>degenerative myelopathy</strong>, all with DNA tests. The point is not the existence of the tests but whether they can be checked: a report only counts if it carries the dog's microchip number, the name of the laboratory and the date. Without the microchip it cannot be linked to any particular animal. On this site the breeding dogs' reports are published and downloadable, precisely so that anyone can check them without having to ask.
+  </div>
+  </div>
+
+  </div>
+
   <div class="article-footer"><a class="btn" href="/en/blog/">&larr; Back to Blog</a></div>
   </article></div>
 ---

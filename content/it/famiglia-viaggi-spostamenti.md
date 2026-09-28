@@ -196,7 +196,7 @@ custom_content: |
   
   <div class="callout">
   <p class="callout-title">💡 Consiglio finale</p>
-  <p>Prima del grande viaggio, testare weekend vicino casa (50-100km). Verificare reazioni cane, adeguatezza attrezzatura, gestione pause. Preparazione previene 90% problemi.</p>
+  <p>Prima del grande viaggio, testare weekend vicino casa (50-100km). Verificare reazioni cane, adeguatezza attrezzatura, gestione pause. La preparazione previene gran parte dei problemi.</p>
   </div>
   
   <div class="related">

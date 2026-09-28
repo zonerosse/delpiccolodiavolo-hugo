@@ -185,7 +185,7 @@ custom_content: |
   <tr><th>Attrezzatura</th><th>Perché essenziale</th><th>Costo</th></tr>
   </thead>
   <tbody>
-  <tr><td>Pettorina anti-tiro</td><td>Riduce forza trazione 70%</td><td>25-50€</td></tr>
+  <tr><td>Pettorina anti-tiro</td><td>Riduce la forza della tirata</td><td>25-50€</td></tr>
   <tr><td>Guinzaglio ammortizzato</td><td>Assorbe strattoni improvvisi</td><td>15-30€</td></tr>
   <tr><td>Guinzaglio mani-libere</td><td>Peso su bacino, mani libere bastone</td><td>20-35€</td></tr>
   <tr><td>Torcia frontale LED</td><td>Sicurezza uscite buio</td><td>15-25€</td></tr>
@@ -216,16 +216,9 @@ custom_content: |
   </ul>
   </div>
   
-  <h2>Benefici Scientificamente Comprovati</h2>
-  
-  <ul>
-  <li><strong>Pressione arteriosa:</strong> 10-15 mmHg inferiore (American Heart Association 2019)</li>
-  <li><strong>Depressione:</strong> -35-40% punteggio scala geriatrica (Journal of Gerontology 2021)</li>
-  <li><strong>Attività fisica:</strong> +22 minuti/giorno camminata (British Medical Journal 2020)</li>
-  <li><strong>Solitudine:</strong> 67% "mai/raramente soli" vs 32% senza cane (Age and Ageing 2018)</li>
-  <li><strong>Declino cognitivo:</strong> 28% più lento su 5 anni (JAMA Neurology 2022)</li>
-  </ul>
-  
+  <h2>I benefici, senza esagerare</h2>
+  <p>Un cane porta a uscire di casa ogni giorno, dà una routine alla giornata e crea occasioni di incontro durante le passeggiate. Gli studi sul rapporto fra cani e salute delle persone anziane esistono, ma i risultati variano e non vanno presi come promesse: il beneficio più sicuro è quello che si vede, cioè camminare due volte al giorno con qualcuno che ti aspetta alla porta.</p>
+
   <div class="info-box">
   <p class="info-box-title">💚 Benefici quotidiani concreti</p>
   <ul>

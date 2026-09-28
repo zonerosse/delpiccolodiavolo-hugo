@@ -60,11 +60,73 @@ custom_content: |
   <p>Wer erhebliche Gleichgewichtsprobleme, Osteoporose oder verminderte Greifkraft hat, sollte eine kleinere und weniger kräftige Rasse wählen, so sehr ihm Staffordshire Bull Terrier auch gefallen. Ebenso, wer zwei Gänge täglich bei jedem Wetter nicht sicher leisten kann oder allein lebt und keine Rückfalllösung hat.</p>
   <p>Wir sagen das Interessenten regelmäßig und verlieren gelegentlich einen Verkauf darüber. Das ist der richtige Tausch: ein Hund, der mit 18 Monaten zurückgegeben wird, weil der Halter ihn nicht halten konnte, ist für alle ein Scheitern — und es war beim ersten Telefonat absehbar.</p>
 
+  <h2>Ein realistischer Tag</h2>
+  <p>Ein Tag, der für viele ältere Halter funktioniert, sieht so aus: nach dem Aufstehen ein kurzer Gang von zehn bis fünfzehn Minuten, Frühstück, dann der Hauptspaziergang von vierzig bis sechzig Minuten am Vormittag; Ruhe zu Hause bis zum Mittag, während der Hund an einem gefüllten Kong kaut, solange Sie essen; eine Mittagsruhe, ein kurzer Gang von zehn bis fünfzehn Minuten und ein paar ruhige Nasen- oder Denkspiele zusammen; abends ein Spaziergang von zwanzig bis dreißig Minuten, Zeit auf dem Sofa und ein letzter Gang von fünf Minuten vor dem Schlafen. Zusammen ist das deutlich mehr als eine Stunde Gehen am Tag, gut verteilt, was Hund und Halter gleichermaßen guttut.</p>
+
+  <h2>Ausrüstung für sichere Spaziergänge</h2>
+  <p>Ein Geschirr mit Brustring vorn, das das Ziehen bremst, mindert die Wucht eines plötzlichen Satzes; eine Leine mit Ruckdämpfer federt Stöße ab; eine Bauchgurtleine lässt beide Hände frei für Gehstock oder Geländer. Für Gänge im Dunkeln eine Stirnlampe und eine Warnweste. Nichts davon kostet viel, und zusammen macht es den Unterschied zwischen einem Spaziergang, der Freude macht, und einem, der ein Risiko ist.</p>
+
+  <h2>Ein Plan für Notfälle</h2>
+  <p>Legen Sie im Voraus fest, wer die Schlüssel hat und den Hund innerhalb weniger Stunden erreicht, wenn Sie krank werden, wohin der Hund kommt, zu Verwandten, zu einem vertrauten Hundesitter oder in eine schon erprobte Pension, und wer Ihnen Nachrichten schickt. Halten Sie eine Notfalltasche bereit: eine Woche des gewohnten Futters, aktuelle Medikamente mit schriftlicher Dosierung, Heimtierausweis und Mikrochipnummer, eine Ersatzleine und ein Ersatzgeschirr, eine vertraute Decke, die Kontakte von Tierarzt und Hundesitter und eine Notiz zu Tagesablauf und Gewohnheiten des Hundes. Nach einem Krankenhausaufenthalt gönnen Sie sich ein oder zwei Tage Ruhe, bevor Sie den Hund wieder übernehmen.</p>
+
   <h2>Häufige Fragen</h2>
-  <p><strong>Welpe oder erwachsener Hund?</strong> In den allermeisten Fällen ein Erwachsener von 3 bis 6 Jahren: das Wesen ist bekannt statt erhofft, die Stubenreinheit steht, und die Pubertät entfällt.</p>
-  <p><strong>Geht das mit einem Gehstock?</strong> Möglicherweise, aber die Einschätzung sollte konkret ausfallen. Führen Sie den erwachsenen Staffy einer Bekannten an einem Brustring-Geschirr, und zwar an einem Tag, an dem andere Hunde unterwegs sind.</p>
-  <p><strong>Passt die Rasse zu Enkelkindern?</strong> In der Regel hervorragend, mit derselben Aufsichtsregel wie bei jeder Rasse. Ein Hund, der früh an Kinderbesuch gewöhnt ist, geht damit weit besser um.</p>
-  <p><strong>Was geschieht mit dem Hund, wenn ich nicht mehr kann?</strong> Regeln Sie es im Voraus und schriftlich. Fragen Sie jeden Züchter, ob sein Vertrag die Rücknahme vorsieht.</p>
+
+  <div class="faq-list">
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Bin ich zu alt für einen Staffy?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Das Alter auf dem Papier zählt weniger als zwei praktische Dinge: körperliche Kraft und ein Plan B. Ein erwachsener Staffordshire Bull Terrier wiegt zwischen 12 und 17 Kilo und zieht entschlossen, wenn ihn etwas reizt: die eigentliche Frage ist nicht, wie alt Sie sind, sondern ob Sie ihn auf der Straße halten können, wenn er losstürmt. Die zweite Frage ist unbequemer und muss trotzdem gestellt werden: <strong>wer kümmert sich um den Hund, wenn Sie es nicht mehr können?</strong> Ein Hund lebt zwölf bis vierzehn Jahre, und es sollte jemand feststehen, der ihn übernehmen würde, am besten jemand, den er schon kennt. Sind diese beiden Punkte geklärt, passt die Rasse: menschenbezogen, mit kurzem Fell ohne Pflegeaufwand und mit regelmäßigem, aber nicht extremem Bewegungsbedarf.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Welpe oder erwachsener Hund für ältere Halter?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Fast immer ein erwachsener Hund, und das ist keine Notlösung. Ein Welpe bedeutet unterbrochene Nächte, Gänge alle zwei Stunden, Zwicken und acht Monate Unberechenbarkeit, während sich sein Charakter formt. Ein Erwachsener von drei bis sechs Jahren hat sein Wesen schon gezeigt: man weiß, ob er mit Katzen lebt, wie er allein zu Hause zurechtkommt, wie stark er an der Leine zieht, und es ist keine Wette. Der Rhythmus eines erwachsenen Hundes ähnelt zudem viel mehr dem eines älteren Menschen. Der übliche Einwand ist die Bindung, doch die hängt nicht vom Alter ab, in dem der Hund kommt: Staffies binden sich auch als Erwachsene tief. Für Menschen, die zu uns kommen, ist ein Hund aus unserer Zucht, der wieder verfügbar wird, oft die beste Lösung.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was kostet ein Staffy wirklich im Unterhalt?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Etwa 300 bis 500 Euro im Jahr für die laufenden Kosten: gutes Futter, Auffrischimpfungen, monatliche Parasitenvorbeugung und Ausstattung. Fellpflege fällt ganz weg, und bei einer Rente zählt das: bei anderen Rassen kommen mehrere hundert Euro im Jahr dazu. Zwei Dinge liegen außerhalb dieser Zahl. Die Haftpflichtversicherung, einige Dutzend Euro, die sich ohnehin lohnt. Und <strong>unerwartete Kosten</strong>, die in zwölf Jahren immer kommen: eine Untersuchung, eine Operation, eine lange Behandlung. Tausend oder zweitausend Euro zurückgelegt, oder eine Krankenversicherung, ersparen es, je zwischen Budget und Hund wählen zu müssen. Bei einem festen, begrenzten Einkommen ist das der Teil der Rechnung, den man vorher macht, nicht danach.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Kann ich einen Staffy ganz allein halten?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Ja, wenn Sie selbstständig unterwegs sind und jemanden haben, den Sie in schwierigen Zeiten um Hilfe bitten können. Die tägliche Versorgung ist einfach: zwei Gänge, ein Napf, ein Fell, das nichts braucht. Was Alleinlebende in Schwierigkeiten bringt, sind andere Dinge, die Grippe, die Sie drei Tage ans Bett fesselt, ein Gipsarm, eine plötzliche Einweisung ins Krankenhaus, und genau dann braucht es ein Netz, und sei es noch so klein: ein Nachbar, ein Verwandter, ein vertrauter Hundesitter, den der Hund schon kennt. Bauen Sie es auf, bevor Sie es brauchen, nicht im Notfall. Sehr hilfreich ist außerdem, dem Hund das Gehen ohne Ziehen beizubringen: eine halbe Stunde mit einem Trainer löst das Problem, das Spaziergänge am häufigsten anstrengend macht.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was passiert mit dem Hund, wenn ich ins Krankenhaus muss?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Es ist die wichtigste Frage und die, die fast niemand rechtzeitig stellt. Die praktische Antwort sind drei Stufen, die man <strong>vorher</strong> einrichtet: eine Person, die die Schlüssel hat und weiß, wo Futter und Heimtierausweis sind, eine zweite Person als Reserve und eine schon erprobte Pension oder ein Hundesitter, nicht in Eile gesucht. Legen Sie gut sichtbar ein Blatt mit Name des Hundes, Mikrochip, Tierarzt, laufenden Behandlungen und Kontakten bereit. Für die längere Sicht lohnt es sich, schriftlich festzuhalten, wer den Hund dauerhaft übernehmen soll, denn ohne Anweisungen fällt die Frage auf Verwandte, die ihn vielleicht nicht halten können. Die Hunde aus unserer Zucht kommen ohnehin zu uns zurück, jederzeit und aus jedem Grund.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Brauche ich einen Garten?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Nein, und bei dieser Rasse wird der Garten oft überschätzt. Der Staffordshire Bull Terrier ist ganz auf Menschen ausgerichtet: allein im Garten gelassen langweilt er sich, gräbt, bellt oder wartet an der Tür. In der Wohnung ist er dort, wo Sie sind, und mehr will er nicht. Ein Garten ist praktisch für schnelle Pausen, <strong>ersetzt aber keine Spaziergänge</strong>: ein Hund, der nur in den Garten kommt, sieht keine Menschen, keine anderen Hunde, keine neuen Geräusche und verliert die Gewöhnung daran. Der Bedarf bleibt derselbe, zwei Gänge am Tag. Gibt es einen Garten, muss er sicher eingezäunt sein: ein muskulöser, neugieriger Hund, für den ein niedriger Maschendraht oder ein Tor, das sich mit einem Stoß öffnet, keine Grenze ist.
+  </div>
+  </div>
+
+  </div>
 
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>

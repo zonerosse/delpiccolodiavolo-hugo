@@ -68,6 +68,12 @@ custom_content: |
   <p>Mit 8 Wochen beurteilen Sie kein Ausstellungspotenzial, und wer Ihnen einen Champion garantiert, rät. Beurteilen können Sie die Eltern: Proportionen, Gebiss, Bewegung und vor allem die Atmung nach Belastung. Bitten Sie darum, beide Elterntiere in Bewegung zu sehen, nicht nur im Stand — und wenn möglich an einem warmen Tag.</p>
   <p>Ein Welpe aus zwei typvollen, gesunden Eltern, die sich in ihrem eigenen Körper wohlfühlen, wird mit weit größerer Wahrscheinlichkeit ebenso. Genau das will der Standard schützen.</p>
 
+  <h2>Häufige Fehler bei der Beurteilung des Typs</h2>
+  <p>Fünf Fehler wiederholen sich. Ein <strong>übertriebener Kopf</strong>, auf Kosten von allem anderen verfolgt, der Hals, Schultern und Gangwerk beeinträchtigt. Eine <strong>zu breite Brust</strong>, eine Front, die so breit ist, dass sie die Vorhand behindert. <strong>Aufgepumpte, nicht funktionale Muskeln</strong>, künstlich aufgebaut statt vererbt. <strong>Das Gewicht als einziges Maß</strong>, wobei das Höchstgewicht als Ziel gilt und Proportionen und Größe übersehen werden. Und <strong>das Wesen außer Acht lassen</strong>, also nur den Körperbau beurteilen und die Wesensfestigkeit übergehen, die der Standard in seinen ersten Zeilen nennt.</p>
+
+  <h2>Wie man einen Stafford im Ring liest</h2>
+  <p>Schauen Sie in dieser Reihenfolge. Zuerst der <strong>Gesamteindruck</strong>: Typ auf den ersten Blick, Ausgewogenheit, Ausstrahlung. Dann das <strong>Profil im Stand</strong>: Linien, Proportionen, Aufbau. Dann die <strong>genaue Untersuchung</strong>: Kopf, Gebiss, Körper, Gliedmaßen, Pfoten. Dann das <strong>Gangwerk</strong>, im Trab von allen Seiten, wo sich die Funktion zeigt. Und zuletzt das <strong>Wesen</strong>: wie der Hund das Anfassen annimmt, seine Sicherheit, seine Reaktion auf das, was um ihn herum geschieht.</p>
+
   <h2>Häufige Fragen zum Standard</h2>
   <p><strong>Wie schwer darf ein Staffordshire Bull Terrier sein?</strong> Der Standard nennt 11 bis 17 Kilogramm bei einer Widerristhöhe von 35 bis 40 Zentimetern. Entscheidend ist das Verhältnis: ein Hund von 17 Kilogramm bei 36 Zentimetern ist zu schwer, derselbe bei 40 Zentimetern ist stimmig.</p>
   <p><strong>Gibt es den "Staffy in Miniaturausgabe"?</strong> Nein. Zwergformen dieser Rasse existieren nicht. Wer sie anbietet, verkauft entweder einen untypischen Hund oder eine Mischung, in beiden Fällen ohne anerkannte Papiere.</p>

@@ -223,7 +223,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question" >
-  <span>Welche Gentests fuhren Sie durch?</span>
+  <span>Welche Gentests führen Sie durch?</span>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Alle Zuchttiere von Del Piccolo Diavolo werden auf <strong>L2-HGA</strong>, eine neurologische Erkrankung, und auf <strong>HC</strong>, den juvenilen erblichen Katarakt (Gen HSF4), getestet. Unsere aktiven Zuchthündinnen zusätzlich auf <strong>degenerative Myelopathie</strong> (Gen SOD1), eine Erkrankung des Rückenmarks, die nach dem achten Lebensjahr auftritt. Alle sind DNA-Tests, und alle drei Krankheiten werden rezessiv vererbt: zwei freie Elterntiere können keine erkrankten Welpen hervorbringen, und Träger von L2-HGA und HC werden hier nicht zur Zucht eingesetzt. Die Laborbefunde sind auf dieser Website veröffentlicht, mit der <strong>Mikrochipnummer im Klartext</strong> &mdash; erst diese Nummer macht einen Befund überprüfbar, denn ohne sie könnte er sich auf jeden beliebigen Hund beziehen.</div>

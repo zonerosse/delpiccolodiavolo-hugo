@@ -65,11 +65,73 @@ custom_content: |
   <p>An older person with significant balance problems, osteoporosis, or reduced grip strength should consider a smaller and less powerful breed, however much they like Staffordshire Bull Terriers. So should someone who cannot commit to two outings a day in all weather, or who lives alone with no fallback arrangement.</p>
   <p>We say this to enquirers regularly, and we occasionally lose a sale over it. That is the correct trade: a dog returned at 18 months because the owner could not hold it is a failure for everyone, and it was foreseeable at the first phone call.</p>
 
+  <h2>A realistic day</h2>
+  <p>A day that works for many older owners looks like this: a short toilet outing of ten to fifteen minutes on waking, breakfast, then the main walk of forty to sixty minutes in the morning; rest at home until lunch, with the dog chewing a filled Kong while you eat; an afternoon rest, a short outing of ten to fifteen minutes and some calm scent or puzzle games together; an evening walk of twenty to thirty minutes, time on the sofa, and a last five-minute outing before bed. In total that is well over an hour of walking a day, spread out, which suits the dog and the owner equally.</p>
+
+  <h2>Equipment for safe walks</h2>
+  <p>A front-attachment, no-pull harness reduces the force of a sudden lunge; a lead with a shock-absorbing section softens jolts; a hands-free lead worn at the waist leaves both hands free for a walking stick or a handrail. For walks in the dark, a head torch and a reflective vest. None of it costs much, and together it makes the difference between a walk that is a pleasure and one that is a risk.</p>
+
+  <h2>A plan for emergencies</h2>
+  <p>Decide in advance who has the keys and can reach the dog within a few hours if you are taken ill, where the dog will go, a relative, a trusted dog sitter or a boarding kennel already tried, and who will send you news. Keep an emergency bag ready: a week of the usual food, current medication with written doses, the health record and microchip number, a spare lead and harness, a familiar blanket, the contacts of the vet and the dog sitter, and a note on the dog's routine and habits. After a hospital stay, allow a day or two of rest before taking the dog back on.</p>
+
   <h2>Frequently asked questions</h2>
-  <p><strong>Is a puppy or an adult better for an older owner?</strong> An adult of 3 to 6 years, in almost every case. The temperament is known rather than hoped for, house training is done, and you skip the adolescence that tests even experienced owners.</p>
-  <p><strong>Can I manage a Staffy if I use a walking stick?</strong> Possibly, but the assessment should be honest and specific rather than optimistic. Try walking a friend's adult Staffy on a front-attachment harness before deciding, and do it on a day when there are other dogs about.</p>
-  <p><strong>Is the breed good with grandchildren?</strong> Typically excellent, with the same supervision rule that applies to every breed. A dog that is used to visiting children from an early age handles them far better than one meeting them at four.</p>
-  <p><strong>What happens to the dog if I can no longer care for it?</strong> Arrange it in advance and in writing. Our contract commits us to taking back any dog we bred, at any age, for any reason. Ask any breeder you speak to whether theirs does the same.</p>
+
+  <div class="faq-list">
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Am I too old to take on a Staffy?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Age on paper matters less than two practical things: physical strength and a plan B. An adult Staffordshire Bull Terrier weighs between 12 and 17 kilos and pulls decisively when something catches its interest: the real question is not how old you are, but whether you can hold it in the street when it sets off. The second question is less comfortable and must be asked anyway: <strong>who looks after the dog if you no longer can?</strong> A dog lives twelve to fourteen years, and someone should be identified who would take it on, ideally someone it already knows. Once those two points are settled, the breed suits: attached to people, with a short coat that needs no grooming, and exercise needs that are regular but not extreme.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is a puppy or an adult better for an older owner?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Almost always an adult, and it is not second best. A puppy means broken nights, toilet trips every two hours, nipping, and eight months of unpredictability while its character forms. An adult of three to six years has a temperament already expressed: you know whether it lives with cats, how it copes alone at home, how hard it pulls on the lead, and it is not a gamble. The rhythm of an adult dog is also much closer to that of an older person. The usual objection is the bond, but the bond does not depend on the age at which the dog arrives: Staffies attach deeply as adults too. For people who come to us, a dog we bred that becomes available again is often the best solution.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How much does a Staffy really cost to keep?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Around 300 to 500 euros a year for ordinary costs: good-quality food, booster vaccinations, monthly parasite treatment and equipment. Grooming is not needed at all, and on a pension that matters: in other breeds it adds several hundred euros a year. Two things sit outside that figure. Third-party liability insurance, a few tens of euros, which is worth having anyway. And <strong>unexpected costs</strong>, which over twelve years always arrive: a diagnostic test, an operation, a long course of treatment. A thousand or two put aside, or a health policy, avoids ever having to choose between the budget and the dog. On a fixed, limited income, this is the part of the sum to do before, not after.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Can I manage a Staffy completely on my own?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Yes, if you are independent in getting about and have someone to ask for help in difficult periods. Daily care is simple: two outings, a bowl, a coat that needs nothing. The situations that put someone living alone in difficulty are others, the flu that keeps you in bed for three days, an arm in plaster, a sudden hospital admission, and that is where even a minimal network is needed: a neighbour, a relative, a trusted dog sitter the dog already knows. Build it before you need it, not during the emergency. Another thing that helps a great deal is teaching the dog to walk without pulling: half an hour with a trainer solves the problem that most often makes walks tiring.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What happens to the dog if I go into hospital?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">It is the most important question and the one almost nobody asks in time. The practical answer is three levels, arranged <strong>beforehand</strong>: one person who has the keys and knows where the food and health record are, a second person in reserve, and a boarding kennel or dog sitter already tried, not searched for in a hurry. Keep a sheet in plain view with the dog's name, microchip, vet, current treatments and contacts. For the longer term, it is worth putting in writing who should take the dog permanently, because without instructions the question falls on relatives who may not be able to keep it. The dogs we have bred come back to us in any case, at any time and for any reason.
+  </div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Do I need a garden?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">No, and for this breed a garden is often overrated. The Staffordshire Bull Terrier is deeply people-oriented: left alone in a garden it gets bored, digs, barks or waits at the door. In a flat it is wherever you are, which is all it cares about. A garden is convenient for quick toilet breaks, but it <strong>does not replace walks</strong>: a dog that only goes out into the garden does not see people, other dogs or new noises, and loses its habituation to them. The need stays the same, two outings a day. If there is a garden, it must be securely fenced: this is a muscular, curious dog, and a low mesh fence or a gate that opens with a push is not a barrier.
+  </div>
+  </div>
+
+  </div>
 
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>

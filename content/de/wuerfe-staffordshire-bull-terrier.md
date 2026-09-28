@@ -230,6 +230,16 @@ custom_content: |
   </div>
   </section>
   
+  <section class="section section-alt">
+  <div class="section-inner">
+  <span class="section-label">Methode</span>
+  <h2 class="section-title">Wie eine Verpaarung geplant wird</h2>
+  <p>Eine Verpaarung bei Del Piccolo Diavolo wird Monate im Voraus geplant und folgt immer demselben Weg. Am Anfang stehen die Gentests beider Zuchthunde auf L2HGA und HC, bei der Hündin zusätzlich DM-SOD1; dann werden die Ahnentafeln auf SBTPedigree mit der Testverpaarung untersucht, die den theoretischen Inzuchtkoeffizienten der Welpen zeigt und auf welche Vorfahren er sich konzentriert. Wir arbeiten in einem Bereich von 6 bis 9 Prozent: darunter verliert man die Möglichkeit, einen Charakter zu festigen, darüber verengt man zu stark. Der Rüde kommt fast immer von außen, gewählt, um zu korrigieren, was der Hündin fehlt, nicht um zwei schöne Hunde zu addieren. Das Ergebnis ist ein Wurf im Jahr, gelegentlich zwei, und in manchen Jahren keiner.</p>
+  <p><strong>Was wir vor jeder Verpaarung testen.</strong> Kein Zuchthund kommt ohne die Tests auf L2HGA und HC ins Programm, die beiden Erbkrankheiten der Rasse; die Hündinnen werden zusätzlich auf degenerative Myelopathie (DM-SOD1) getestet. Die Befunde sind auf den Seiten der Hunde veröffentlicht, mit sichtbarer Mikrochipnummer, und wie diese Tests funktionieren, erklärt der <a href="/de/staffy-gentests-l2hga-hc/" title="Gentests L2-HGA und HC">Ratgeber zu den Gentests</a>.</p>
+  <p><strong>Wie man zu einem Welpen kommt.</strong> Das Programm ist offen: zu jeder Verpaarung sagen wir, wer die Eltern sind, welche Tests sie haben und warum wir sie gewählt haben. Wer mehr wissen will, kann nach den Ergebnissen früherer Verpaarungen fragen und die Hunde persönlich sehen. Was ein Welpe mitbekommt, steht auf der <a href="/de/welpen-staffordshire-bull-terrier/" title="Unsere Welpen">Seite der Welpen</a>; wer außerhalb Italiens lebt, findet Fristen und Papiere unter <a href="/de/staffordshire-bull-terrier-welpe-ins-ausland/" title="Ein Welpe ins Ausland">ein Welpe ins Ausland</a>.</p>
+  </div>
+  </section>
+
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Häufige Fragen</span>

@@ -4,7 +4,7 @@ titleSeo: "Palmares: campioni italiani e internazionali dal 2013"
 lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 translationKey: "palmares"
-description: "Risultati e titoli dei nostri Staffordshire Bull Terrier: Campioni Italiani, Giovani Campioni, Best in Show. Allevamento Del Piccolo Diavolo, Emilia-Romagna."
+description: "Risultati e titoli dei nostri Staffordshire Bull Terrier: Campioni Italiani, Giovani Campioni, Best of Breed. Allevamento Del Piccolo Diavolo, Emilia-Romagna."
 slug: "palmares-del-piccolo-diavolo"
 custom_content: |
   <section class="page-hero">

@@ -230,6 +230,16 @@ custom_content: |
   </div>
   </section>
   
+  <section class="section section-alt">
+  <div class="section-inner">
+  <span class="section-label">Method</span>
+  <h2 class="section-title">How a mating is planned</h2>
+  <p>A mating at Del Piccolo Diavolo is planned months ahead and always follows the same path. It starts with the genetic tests of both breeding dogs for L2HGA and HC, and for the female also DM-SOD1; then the pedigrees are studied on SBTPedigree with its test-mating function, which shows the theoretical coefficient of inbreeding of the puppies and which ancestors it concentrates on. We work within a range of 6 to 9 per cent: below it you lose the chance to fix a character, above it you tighten too much. The male almost always comes from outside, chosen to correct what the female lacks rather than to add two beautiful dogs together. The result is one litter a year, occasionally two, and in some years none.</p>
+  <p><strong>What we test before every mating.</strong> No breeding dog enters the programme without the tests for L2HGA and HC, the two genetic diseases of the breed; the females are also tested for degenerative myelopathy (DM-SOD1). The reports are published on the dogs' pages with the microchip number in plain view, and how those tests work is explained in the <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Genetic testing L2-HGA and HC">genetic testing guide</a>.</p>
+  <p><strong>How you get to a puppy.</strong> The programme is open: for every mating we say who the parents are, which tests they have and why we chose them. Anyone who wants to go further can ask about the results of earlier matings and see the dogs in person. What comes with a puppy is on the <a href="/en/puppies-staffordshire-bull-terrier/" title="Our puppies">puppies page</a>; if you live outside Italy, the timing and documents are on the page about <a href="/en/staffordshire-bull-terrier-puppy-abroad/" title="A puppy going abroad">a puppy going abroad</a>.</p>
+  </div>
+  </section>
+
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Frequently Asked Questions</span>

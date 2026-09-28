@@ -3,7 +3,7 @@ title: "Palmares - Unsere Ausstellungserfolge"
 lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 translationKey: "palmares"
-description: "Ergebnisse und Titel unserer Staffordshire Bull Terrier: Italienische Champions, Jugendchampions, Best in Show. Del Piccolo Diavolo Zucht, Italien."
+description: "Ergebnisse und Titel unserer Staffordshire Bull Terrier: Italienische Champions, Jugendchampions, Best of Breed. Del Piccolo Diavolo Zucht, Italien."
 slug: "palmares"
 custom_content: |
   <section class="page-hero">
@@ -14,10 +14,10 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Unsere Ergebnisse</span>
-  <h2 class="section-title">Von Uns Gezuchtete Champions</h2>
+  <h2 class="section-title">Von Uns Gezüchtete Champions</h2>
   
   <div class="intro-block">
-  <p>Die Selektion von Del Piccolo Diavolo basiert auf drei Saulen: Gesundheit, Charakter und Rassetyp. Ausstellungsergebnisse sind kein Selbstzweck, sondern Bestatigung, dass unsere Zuchtarbeit standardkonforme Hunde hervorbringt. Alle vorgestellten Hunde wurden in unserer Zucht geboren und aufgezogen.</p>
+  <p>Die Selektion von Del Piccolo Diavolo basiert auf drei Säulen: Gesundheit, Charakter und Rassetyp. Ausstellungsergebnisse sind kein Selbstzweck, sondern Bestätigung, dass unsere Zuchtarbeit standardkonforme Hunde hervorbringt. Alle vorgestellten Hunde wurden in unserer Zucht geboren und aufgezogen.</p>
   </div>
   
   <div class="palmares-summary" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1rem;margin:2rem 0;text-align:center">
@@ -56,7 +56,7 @@ custom_content: |
   </div>
   <div>
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
-  <h3>ENCI Italienische Schonheitschampionin</h3>
+  <h3>ENCI Italienische Schönheitschampionin</h3>
   <p><strong>4. Platz bei der World Dog Show</strong> - Ein Weltklasse-Ergebnis, auf das wir stolz sind.</p>
   <p><strong>Historischer Rekord:</strong> 12 aufeinanderfolgende Ausstellungen mit Vorzüglich 1. Platz. Italienischer Champion-Titel noch in der Zwischenklasse erreicht, ein Ergebnis, das nur wenige Staffordshire Bull Terrier in Italien vorweisen können.</p>
   </div>
@@ -69,31 +69,97 @@ custom_content: |
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#c9a227;border-radius:8px;align-items:center;color:#3a2f1a">
   <span style="background:#fff;color:#7d620e;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">4.</span>
-  <span><strong>World Dog Show - Zagreb (HR)</strong> - 26. Apr 2024</span>
+  <span><strong>World Dog Show, Zagreb (HR)</strong> - 26 Apr. 2024</span>
   <span style="font-weight:600">4. Platz</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
   <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
-  <span>Nationale Spezialausstellung Bologna - 15. Feb 2025</span>
+  <span>Rassespezialausstellung, Bologna (BO) - 15 Feb. 2025</span>
   <span style="color:#8b5a2b;font-weight:600">Championklasse</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
   <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
-  <span>Internationale Ausstellung Bologna - Feb 2024</span>
+  <span>Nationale Ausstellung, Firenze (FI) - 13 Apr. 2024</span>
+  <span style="color:#8b5a2b;font-weight:600">CAC</span>
+  </div>
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span>Internationale Ausstellung, Ferrara (FE) - 17 März 2024</span>
+  <span style="color:#8b5a2b;font-weight:600">CAC + CACIB</span>
+  </div>
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span>Internationale Ausstellung, Ferrara (FE) - 16 März 2024</span>
+  <span style="color:#8b5a2b;font-weight:600">CAC</span>
+  </div>
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span>Internationale Ausstellung, Cagliari (CA) - 25 Feb. 2024</span>
+  <span style="color:#8b5a2b;font-weight:600">CAC + CACIB</span>
+  </div>
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span>Internationale Ausstellung, Bologna (BO) - 15-18 Feb. 2024</span>
   <span style="color:#8b5a2b;font-weight:600">4x CAC + 4x CACIB</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
   <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
-  <span>Internationale Ausstellung Ferrara - Mar 2024</span>
+  <span>Internationale Ausstellung, Busto Arsizio (VA) - 14 Jan. 2024</span>
   <span style="color:#8b5a2b;font-weight:600">CAC + CACIB</span>
   </div>
   
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span>Rassespezialausstellung, Bologna (BO) - 16-17 Dez. 2023</span>
+  <span style="color:#8b5a2b;font-weight:600">JCAC</span>
   </div>
   
-  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">Und viele weitere Ergebnisse. Top Dog Junior 2023. Tochter englischer Elitebull-Linien.</p>
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span>Internationale Ausstellung, Busto Arsizio (VA) - 3-4 Nov. 2023</span>
+  <span style="color:#8b5a2b;font-weight:600">2x JCAC + 2x JCACIB</span>
+  </div>
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span>Internationale Ausstellung, Montesilvano (PE) - 22 Okt. 2023</span>
+  <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
+  </div>
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span>Internationale Ausstellung, Bastia Umbra (PG) - 8 Okt. 2023</span>
+  <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
+  </div>
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span>Internationale Ausstellung, L'Aquila (AQ) - 6 Aug. 2023</span>
+  <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
+  </div>
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span>Internationale Ausstellung, Narni (TR) - 24-25 Juni 2023</span>
+  <span style="color:#8b5a2b;font-weight:600">2x JCAC + 2x JCACIB</span>
+  </div>
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">VV 1</span>
+  <span>Rassespezialausstellung, Bologna (BO) - 18 Feb. 2023</span>
+  <span style="color:#8b5a2b;font-weight:600">Babyklasse</span>
+  </div>
+  
+  </div>
+  
+  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">20 Ausstellungen insgesamt. Top Dog Junior 2023. Italienische Jugendchampionin. Italienische Schönheitschampionin 2024.</p>
   
   </div>
   </section>
@@ -112,7 +178,7 @@ custom_content: |
   <h3>Jugendchampionin und San Marino Championin</h3>
   <p><strong>JCH San Marino 2023</strong> - Jugendchampionin gewonnen 2023.</p>
   <p><strong>CH San Marino 2024</strong> - San Marino Championin gewonnen 2024.</p>
-  <p>Bei uns geboren und aufgezogen, jetzt im Besitz von Ricarda Mazzola Wagner (Valconcaclan). Gentests L2HGA und HC (HSF4) clear, vollstandiges Scherengebiss.</p>
+  <p>Bei uns geboren und aufgezogen, jetzt im Besitz von Ricarda Mazzola Wagner (Valconcaclan). Gentests L2HGA und HC (HSF4) clear, vollständiges Scherengebiss.</p>
   </div>
   </div>
   </div>
@@ -137,6 +203,92 @@ custom_content: |
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem">
   <h3>ENCI Italienischer Jugendchampion</h3>
   <p><a href="/de/rueden-staffordshire-bull-terrier/" title="Unsere Rüden">Lothar</a> hat den Titel des Italienischen Jugendchampions mit einer beeindruckenden Serie von Ergebnissen in der Jugendklasse gewonnen. Jetzt in der Zwischenklasse, setzt er seine Ausstellungskarriere fort.</p>
+  
+  <h3 style="margin-top:2rem;margin-bottom:1rem">Vollständige Ergebnisse</h3>
+  
+  <div class="risultati-grid" style="display:grid;gap:0.75rem">
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#c9a227;border-radius:8px;align-items:center;color:#3a2f1a">
+  <span style="background:#fff;color:#7d620e;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">🇸🇮 CH</span>
+  <span><strong>Internationale Ausstellung, Vrtojba (SLO)</strong> - Jan. 2026</span>
+  <span style="font-weight:600">CAC + CACIB</span>
+  </div>
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#c9a227;border-radius:8px;align-items:center;color:#3a2f1a">
+  <span style="background:#fff;color:#7d620e;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">🇸🇮 CH</span>
+  <span><strong>Internationale Ausstellung, Vrtojba (SLO)</strong> - Jan. 2026</span>
+  <span style="font-weight:600">CAC + CACIB</span>
+  </div>
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#c9a227;border-radius:8px;align-items:center;color:#3a2f1a">
+  <span style="background:#fff;color:#7d620e;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">🇸🇮 CH</span>
+  <span><strong>Internationale Ausstellung, Vrtojba (SLO)</strong> - Jan. 2026</span>
+  <span style="font-weight:600">CAC + Res. CACIB</span>
+  </div>
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span>Rassespezialausstellung, Bologna (BO) - 29 Nov. 2025</span>
+  <span style="color:#8b5a2b;font-weight:600">Zwischenklasse</span>
+  </div>
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span>Nationale Ausstellung, Monza (MB) - 20-21 Sep. 2025</span>
+  <span style="color:#8b5a2b;font-weight:600">CAC</span>
+  </div>
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span>Internationale Ausstellung, Mondovi (CN) - 31 Aug. 2025</span>
+  <span style="color:#8b5a2b;font-weight:600">CAC + Res. CACIB</span>
+  </div>
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span>Rassespezialausstellung, Carrara (MS) - 7 Juni 2025</span>
+  <span style="color:#8b5a2b;font-weight:600">JCAC</span>
+  </div>
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span>Nationale Ausstellung, Livorno (LI) - 17 Mai 2025</span>
+  <span style="color:#8b5a2b;font-weight:600">JCAC</span>
+  </div>
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span>Nationale Ausstellung, Seveso (MB) - 11 Mai 2025</span>
+  <span style="color:#8b5a2b;font-weight:600">JCAC</span>
+  </div>
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span>Nationale Ausstellung, Livraga (LO) - 3-4 Mai 2025</span>
+  <span style="color:#8b5a2b;font-weight:600">JCAC</span>
+  </div>
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span>Nationale Ausstellung, Borgo d'Ale (VC) - 13 Apr. 2025</span>
+  <span style="color:#8b5a2b;font-weight:600">JCAC</span>
+  </div>
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span>Internationale Ausstellung, Montichiari (BS) - 6 Apr. 2025</span>
+  <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
+  </div>
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span>Internationale Ausstellung, Riva del Garda (TN) - 8 März 2025</span>
+  <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
+  </div>
+  
+  </div>
+  
+  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">21 Ausstellungen insgesamt. Italienischer Jugendchampion und Slowenischer Champion 🇸🇮. Handler: Sergio Patrucco.</p>
   </div>
   </div>
   </div>
@@ -180,12 +332,12 @@ custom_content: |
 
   <section class="dark-section">
   <h2>Selektion, die Man Sieht</h2>
-  <p>Ausstellungsergebnisse bestatigen unser Engagement: typische, gesunde Hunde mit ausgeglichenem Charakter. Wir kaufen keine bereits titulierten Hunde: wir zuchten sie, ziehen sie auf, stellen sie aus. Das ist der Unterschied.</p>
+  <p>Ausstellungsergebnisse bestätigen unser Engagement: typische, gesunde Hunde mit ausgeglichenem Charakter. Wir kaufen keine bereits titulierten Hunde: wir züchten sie, ziehen sie auf, stellen sie aus. Das ist der Unterschied.</p>
   <a href="/de/huendinnen-staffordshire-bull-terrier/" class="btn" title="Unsere Hündinnen ansehen">Unsere Hunde Entdecken</a>
   </section>
   
   <section class="cta-section">
-  <h2>Mochten Sie einen Welpen aus Siegerlinien?</h2>
+  <h2>Möchten Sie einen Welpen aus Siegerlinien?</h2>
   <p>Unsere Welpen werden von getesteten und titulierten Eltern geboren. Kontaktieren Sie uns für Informationen über kommende Würfe.</p>
 
   <p>Titel sind nur ein Teil davon: welches Leben diese Hunde heute führen, erzählen wir in den <a href="/de/staffordshire-in-der-familie-geschichten/" title="Familiengeschichten">Familiengeschichten</a>.</p>

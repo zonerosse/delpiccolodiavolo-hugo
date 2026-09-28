@@ -122,6 +122,19 @@ custom_content: |
   </div>
   </section>
 
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">Wie ich arbeite</span>
+  <h2 class="section-title">Wie ich einen Rüden wähle, und was ich von Familien erwarte</h2>
+  <p>Die Zuchthündinnen leben hier, und ich kenne sie, seit sie Welpen waren. Der Rüde kommt fast immer von außen: er ist die Entscheidung, die bei einem Wurf am meisten wiegt, und ich treffe sie, indem ich auf drei Dinge schaue.</p>
+  <p><strong>Was der Hündin fehlt.</strong> Eine Verpaarung zweier Staffordshire Bull Terrier soll nicht zwei schöne Hunde addieren, sondern etwas korrigieren und den Rest festigen. Hat eine Hündin einen hervorragenden Kopf und ein verbesserungsfähiges Gangwerk, suche ich einen Rüden, der im Gangwerk stark ist, nicht einen, der so schön ist wie sie.</p>
+  <p><strong>Was hinter dem Rüden steht.</strong> Den Hund anzuschauen reicht nicht: ich schaue auf seinen Vater, seine Mutter, seine Wurfgeschwister und darauf, was er hervorgebracht hat, wenn er schon Nachkommen hat. Ein Hund kann besser oder schlechter sein als seine Linie, und die zweite Generation zeigt es.</p>
+  <p><strong>Was der Besitzer des Deckrüden vorweisen kann.</strong> Gentest-Befunde mit der Mikrochipnummer darauf, keine Versprechen. Ist ein Rüde nicht auf alles Nötige getestet oder nur durch Abstammung frei, weiß ich es vor der Verpaarung und schreibe es auf die Seite dieses Wurfs: wer liest, soll es so gut wissen wie ich.</p>
+  <p>Bevor ein Hund in die Zucht geht, beobachte ich ihn monatelang: zu Hause, mit Fremden, mit anderen Hunden, mit Kindern. Ein Hund, der nicht selbstsicher ist, kommt nicht ins Programm, so schön er auch sein mag. Deshalb gibt es ein oder zwei Würfe im Jahr und in manchen Jahren keinen: kommt der richtige Moment nicht, wird in diesem Jahr nichts geboren.</p>
+  <p>Von allen, die einen Welpen möchten, erwarte ich zuerst eines: einmal persönlich nach Ostellato zu kommen. Es ist der einzige Moment, in dem ich sehe, wie jemand mit einem echten Hund umgeht statt mit einem Foto, und in dem die Familie sieht, wo der Welpe aufgewachsen ist. Ich möchte über den Tag des Hundes sprechen: wie viele Stunden er allein ist, wer zu Hause ist, was im Sommer geschieht, wenn die Familie verreist. Alltägliche Fragen, und sie verhindern fast alle Probleme. Und ich sage allen dasselbe, als Zusage: <strong>wenn Sie den Hund eines Tages nicht mehr halten können, kommt er hierher zurück.</strong> In zwölf Jahren war das nie nötig; wo diese Hunde heute sind und welches Leben sie führen, erzählen die <a href="/de/staffordshire-in-der-familie-geschichten/" title="Geschichten der Familien">Geschichten der Familien</a>.</p>
+  </div>
+  </section>
+
   <section class="dark-section">
   <h2>Wir Sind Keine Verkäufer, Wir Sind Hüter</h2>
   <p>Wir züchten nicht für Profit. Jeder Wurf kostet Tausende Euro für Tests, Tierarzt, Qualitätsfutter. Sie werden unsere Welpen nie auf Kleinanzeigen finden. Wir wählen auch die Besitzer aus.</p>
