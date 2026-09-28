@@ -56,6 +56,7 @@ custom_content: |
   <p>Aber es gibt eine zweite Seite: Der Staffy ist auch ein Hund mit einer sehr starken Persönlichkeit. Er ist entschlossen, stur, voller Energie. Er ist kein passiver Hund, der sich damit zufriedengibt, in einer Ecke zu existieren. Er möchte mitmachen, spielen, an allem beteiligt sein, was Sie tun.</p>
 
   <p>Die Kombination — extreme Zuneigung plus starker Charakter — macht den Staffy einzigartig. Und auch das, was ihn für diejenigen ungeeignet macht, die im falschen Sinne einen "einfachen" Hund suchen.</p>
+  <p>Der <a href="https://www.fci.be/Nomenclature/Standards/076g03-de.pdf" target="_blank" rel="noopener" aria-label="FCI-Standard Nr. 76, PDF (wird in einem neuen Tab geöffnet)">FCI-Rassestandard</a> nennt beide Seiten in wenigen Zeilen: unbeugsamen Mut und Zähigkeit auf der einen, hohe Intelligenz und Anhänglichkeit, besonders gegenüber Kindern, auf der anderen.</p>
 
   <h2>Mit Kindern: der "Nanny Dog" ist kein Mythos</h2>
 

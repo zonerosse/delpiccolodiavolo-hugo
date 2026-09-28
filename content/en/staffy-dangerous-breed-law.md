@@ -1,7 +1,7 @@
 ---
 title: "Is Staffordshire Bull Terrier Dangerous? Italian Law"
 date: 2025-11-18
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 translationKey: "pericoloso"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -42,8 +42,13 @@ custom_content: |
   <p>The idea that certain breeds are inherently dangerous has shaped legislation across Europe for 30 years, and the evidence for it has never been strong. Breed-specific legislation rests on the assumption that aggression is a fixed property of a breed rather than the outcome of genetics, upbringing, training, management and the specific situation in which a bite occurs.</p>
   <p>Where such laws have been introduced and then studied, the results have been consistently disappointing. Bite statistics have not fallen in proportion, partly because breed identification by witnesses is unreliable, partly because the dogs involved in serious incidents are usually those kept in poor conditions by owners who ignore the law in any case. Several countries that pioneered breed lists have since repealed or narrowed them for exactly this reason.</p>
 
+  <h2>What the data say: the Royal Veterinary College study</h2>
+  <p>In 2020 the Royal Veterinary College in London published the first large study to test the breed's reputation against clinical records. Working within the <a href="https://www.rvc.ac.uk/vetcompass/" target="_blank" rel="noopener" aria-label="VetCompass, Royal Veterinary College (opens in a new tab)">VetCompass™</a> programme, the researchers reviewed the 2016 records of dogs under primary veterinary care in the United Kingdom: 1,304 Staffordshire Bull Terriers and 21,029 dogs of other breeds.</p>
+  <p>The study started from the hypothesis that Staffordshire Bull Terriers would show higher odds of aggression. The data did not support it: there was <strong>no statistically significant difference</strong> between the breed and other dogs (odds ratio 1.09, 95% confidence interval 0.75 to 1.58, p = 0.644). An interval that runs from below 1 to above 1 means the study found no measurable difference in either direction.</p>
+  <p>The same study found higher odds for four of the 36 most common conditions examined, seizures among them, and lower odds for five. That is a health profile of the breed, not a verdict on its temperament. Source: <a href="https://cgejournal.biomedcentral.com/articles/10.1186/s40575-020-00092-w" target="_blank" rel="noopener" aria-label="Pegram et al. 2020, Canine Medicine and Genetics (opens in a new tab)">Pegram et al., Canine Medicine and Genetics, 2020</a>.</p>
+
   <h2>The legal position in Italy</h2>
-  <p>Italy is, on this point, one of the more rational jurisdictions in Europe. The list of allegedly dangerous breeds was abolished by the ministerial ordinance of 2009, and the principle that replaced it has been confirmed by every subsequent ordinance: <strong>responsibility lies with the owner, not with the breed</strong>.</p>
+  <p>Italy is, on this point, one of the more rational jurisdictions in Europe. The list of allegedly dangerous breeds was abolished by the <a href="https://www.salute.gov.it/portale/documentazione/p6_2_2_1.jsp?id=3031" target="_blank" rel="noopener" aria-label="Italian Ministry of Health, ordinance of 3 March 2009 (opens in a new tab)">ministerial ordinance of 2009</a>, and the principle that replaced it has been confirmed by every subsequent ordinance: <strong>responsibility lies with the owner, not with the breed</strong>.</p>
   <p>In practice this means there is no breed restriction on owning a Staffordshire Bull Terrier in Italy, no muzzle requirement based on breed, and no compulsory insurance based on breed. The obligations that do exist apply to every dog and every owner: a lead no longer than one and a half metres in public places, a muzzle carried and available to be fitted on request of the authorities or when the situation requires it, microchipping and registration, and full civil liability for any damage the dog causes.</p>
   <p>Individual municipalities can impose stricter local rules on specific areas such as parks or beaches, and a judge can order a behavioural assessment and mandatory training for a specific dog after an incident. Both of these are dog-specific, not breed-specific.</p>
 
@@ -53,7 +58,7 @@ custom_content: |
 
   <h2>What the breed's temperament actually is</h2>
   <p>The Staffordshire Bull Terrier was selected for a specific and demanding combination: courage and tenacity towards other animals, and absolute reliability with people. Dogs that showed aggression towards humans were historically removed from breeding without discussion, because they were handled constantly and at close quarters.</p>
-  <p>The result is a breed whose defining characteristic is affection for people, including strangers and, famously, children. The breed standard of the Kennel Club describes it as bold, fearless and totally reliable, and it is one of very few standards to use the word reliable at all. This is why the breed carries the informal name of nanny dog, a nickname we treat with care: no dog of any breed should ever be left unsupervised with a small child, and affection is not a substitute for supervision.</p>
+  <p>The result is a breed whose defining characteristic is affection for people, including strangers and, famously, children. The <a href="https://www.thekennelclub.org.uk/breed-standards/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="Kennel Club breed standard (opens in a new tab)">breed standard of the Kennel Club</a> describes it as bold, fearless and totally reliable, and it is one of very few standards to use the word reliable at all. This is why the breed carries the informal name of nanny dog, a nickname we treat with care: no dog of any breed should ever be left unsupervised with a small child, and affection is not a substitute for supervision.</p>
   <p>The honest counterpart is that tolerance towards other dogs is not guaranteed. A Staffordshire Bull Terrier that has not been well socialised, or that has been encouraged to react, can be difficult with dogs of the same sex after maturity. This is a management question and it is entirely foreseeable, which is precisely why it should be discussed before a puppy is chosen rather than after.</p>
 
   <h2>Insurance, housing and everyday practicalities</h2>

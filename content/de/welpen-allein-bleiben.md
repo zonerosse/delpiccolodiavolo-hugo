@@ -2,7 +2,7 @@
 title: "Welpen: Allein Bleiben Lernen"
 date: 2025-07-08
 titleSeo: "Welpen lernen allein zu bleiben, ohne Stress"
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 translationKey: "solitudine"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -79,6 +79,7 @@ custom_content: |
   <p>Gewöhnlicher Protest sind wenige Minuten Jammern, das nachlässt. Trennungsstress sieht anders aus: Zerstörung konzentriert an Türen und Fenstern statt beliebigem Kauen, Urinieren oder Koten bei einem stubenreinen Hund, ununterbrochenes Bellen über die gesamte Abwesenheit, starker Speichelfluss und Futterverweigerung im Alleinsein.</p>
   <p>Eine Kamera oder ein mitlaufendes Telefon zeigt Ihnen, welcher der beiden Fälle vorliegt, und das lohnt sich, bevor man etwas schlussfolgert. Viele Hunde, die Halter für verzweifelt halten, schlafen 4 Minuten nach dem Zufallen der Tür.</p>
   <p>Handelt es sich um echten Stress, braucht die Lage eine Verhaltensfachperson und nicht mehr vom Selben. Strafe bei der Rückkehr verschlimmert es deutlich, weil der Hund Ihre Ankunft mit Konflikt verknüpft.</p>
+  <p>So sieht es auch die <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="Positionspapiere der AVSAB (wird in einem neuen Tab geöffnet)">American Veterinary Society of Animal Behavior</a>: Angst und Furcht brauchen einen Behandlungsplan aus Umgebungsmanagement und Verhaltensmodifikation, manchmal mit Medikamenten, und Strafe hat darin keinen Platz.</p>
 
   <h2>Wie lange ist zumutbar</h2>
   <p>Ein Welpe von 8 bis 12 Wochen sollte nicht länger als ein bis 2 Stunden allein sein. Mit 6 Monaten drei bis vier. Ein erwachsener Hund schafft 4 bis 6 Stunden, wenn er vorher bewegt wurde und etwas zu tun hat — aber 8 Stunden täglich allein sind mit dieser Rasse nicht vereinbar, und das sagen wir Interessenten offen.</p>

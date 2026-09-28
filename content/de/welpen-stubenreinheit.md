@@ -2,7 +2,7 @@
 title: "Welpen: Stubenreinheit"
 date: 2025-05-22
 titleSeo: "Welpen stubenrein machen: Methode und Zeitrahmen"
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 translationKey: "bisogni"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -62,6 +62,7 @@ custom_content: |
 
   <h2>Missgeschicke in der Wohnung</h2>
   <p>Sie werden passieren, und Ihre Reaktion bestimmt die Dauer der Ausbildung. Niemals strafen, niemals schimpfen, und auf keinen Fall die Nase hineindrücken. Der Welpe verbindet Ihre Reaktion nicht mit etwas, das er vor 10 Minuten getan hat: er lernt, dass es gefährlich ist, sich vor Ihnen zu lösen, und geht künftig hinter das Sofa. Dieser eine Fehler erklärt die meisten langwierigen Fälle.</p>
+  <p>Die Verhaltensmediziner sehen es genauso. Die <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="Positionspapiere der AVSAB (wird in einem neuen Tab geöffnet)">American Veterinary Society of Animal Behavior</a> empfiehlt belohnungsbasierte Methoden für jedes Training, auch für die Stubenreinheit: die Umgebung so einrichten, dass Fehler selten sind, und das gewünschte Verhalten verstärken, statt das unerwünschte zu bestrafen.</p>
   <p>Ertappen Sie ihn in der Handlung, unterbrechen Sie mit einem neutralen Geräusch und tragen Sie ihn sofort hinaus; belohnen Sie, wenn er dort zu Ende kommt.</p>
   <p>Reinigen Sie mit einem Enzymreiniger, niemals mit ammoniakhaltigen Mitteln. Ammoniak riecht für den Hund nach Urin und markiert die Stelle als Toilette.</p>
 

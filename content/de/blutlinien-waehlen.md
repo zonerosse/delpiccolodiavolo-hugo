@@ -2,7 +2,7 @@
 title: "Wie man Staffy-Blutlinien wählt"
 date: 2025-03-05
 titleSeo: "Staffordshire Bull Terrier Blutlinien richtig wählen"
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 translationKey: "scelta-linee"
 articolo: true
 image: "/images/blog/standard-2.webp"
@@ -41,7 +41,7 @@ custom_content: |
   <p>Fast jede Fehlpaarung zwischen Halter und Hund lässt sich darauf zurückführen, dass eine dieser drei Fragen nie gestellt wurde.</p>
 
   <h2>Was sich zwischen Linien unterscheidet und was nicht</h2>
-  <p>Alle Staffordshire Bull Terrier müssen demselben Standard entsprechen, und die Unterschiede zwischen guten Linien sind Fragen der Betonung, nicht der Art. Tatsächlich variieren Knochenstärke und Substanz, Kopfproportion, Triebstärke und Reizschwelle, Verträglichkeit mit anderen Hunden und wie zuverlässig eine Linie ihren Typ über einen ganzen Wurf hinweg reproduziert.</p>
+  <p>Alle Staffordshire Bull Terrier müssen demselben <a href="https://www.fci.be/Nomenclature/Standards/076g03-de.pdf" target="_blank" rel="noopener" aria-label="FCI-Standard Nr. 76, PDF (wird in einem neuen Tab geöffnet)">Standard</a> entsprechen, und die Unterschiede zwischen guten Linien sind Fragen der Betonung, nicht der Art. Tatsächlich variieren Knochenstärke und Substanz, Kopfproportion, Triebstärke und Reizschwelle, Verträglichkeit mit anderen Hunden und wie zuverlässig eine Linie ihren Typ über einen ganzen Wurf hinweg reproduziert.</p>
   <p>Was in keiner ernstzunehmenden Linie variieren darf, ist das Wesen gegenüber Menschen und die Gesundheitsuntersuchung hinter der Verpaarung. Ein Züchter, der eine Linie als scharf beschreibt oder einen Hund entschuldigt, der mit Besuch schwierig ist, beschreibt einen Fehler, keine Eigenschaft.</p>
 
   <h2>Englische und irische Linien in der Praxis</h2>

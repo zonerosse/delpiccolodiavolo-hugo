@@ -57,14 +57,26 @@
   "familyName": "Boldrini",
   "jobTitle": "{{ if eq $lang "de" }}Staffordshire Bull Terrier Züchter{{ else if eq $lang "en" }}Staffordshire Bull Terrier Breeder{{ else }}Allevatore di Staffordshire Bull Terrier{{ end }}",
   "description": "{{ if eq $lang "de" }}Züchtet seit 2013 in Ostellato (Ferrara) Staffordshire Bull Terrier. Davor Rottweiler-Züchter mit einem italienischen und einem Europachampion.{{ else if eq $lang "en" }}Breeding Staffordshire Bull Terriers in Ostellato (Ferrara) since 2013. Previously a Rottweiler breeder, with an Italian and a European Champion.{{ else }}Alleva Staffordshire Bull Terrier a Ostellato (Ferrara) dal 2013. In precedenza allevatore di Rottweiler, con un Campione Italiano e un Campione Europeo.{{ end }}",
+  {{/* knowsAbout nella lingua della pagina: prima era in italiano anche
+       sulle versioni inglese e tedesca. */}}
   "knowsAbout": [
     "Staffordshire Bull Terrier",
-    "selezione cinofila",
+    {{ if eq $lang "de" }}"Hundezucht und Selektion",
+    "Gentests L2HGA HC HSF4 DM SOD1",
+    "Blutlinie Elitebull",
+    "Blutlinie Lackyle",
+    "ENCI-Hundeausstellungen",
+    "Ahnentafel lesen und Inzuchtkoeffizient"{{ else if eq $lang "en" }}"dog breeding and selection",
+    "genetic testing L2HGA HC HSF4 DM SOD1",
+    "Elitebull bloodline",
+    "Lackyle bloodline",
+    "ENCI dog shows",
+    "reading a pedigree and the coefficient of inbreeding"{{ else }}"selezione cinofila",
     "test genetici L2HGA HC HSF4 DM SOD1",
     "linee di sangue Elitebull",
     "linee di sangue Lackyle",
     "esposizioni cinofile ENCI",
-    "lettura del pedigree e coefficiente di consanguineità"
+    "lettura del pedigree e coefficiente di consanguineità"{{ end }}
   ],
   "knowsLanguage": ["it", "en"],
   "homeLocation": {
@@ -81,7 +93,11 @@
   "mainEntityOfPage": "{{ $baseURL }}{{ if eq $lang "en" }}/en/about-us/{{ else if eq $lang "de" }}/de/ueber-uns/{{ else }}/chi-siamo/{{ end }}",
   "sameAs": [
     "https://sbtpedigree.com/details?id=35858"
-  ]
+  ],
+  {{/* L'articolo di FerraraToday nomina Paolo Boldrini oltre al cane:
+       lo si collega anche alla persona, con lo stesso @id usato
+       nel blocco Organization. */}}
+  "subjectOf": { "@id": "{{ $baseURL }}/#ferraratoday-2026" }
 }
 </script>
 
@@ -114,6 +130,7 @@
   ],
   "subjectOf": {
     "@type": "NewsArticle",
+    "@id": "{{ $baseURL }}/#ferraratoday-2026",
     "headline": "Da Ferrara alla conquista del mondo: Bilquis, la cagnolina di 3 anni che fa incetta di premi",
     "url": "https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html",
     "datePublished": "2026-01-06T08:00:00+01:00",

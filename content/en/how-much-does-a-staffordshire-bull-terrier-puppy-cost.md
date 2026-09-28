@@ -46,7 +46,7 @@ This article sets out exactly what that price covers, what a litter really costs
 When you buy from a responsible breeder, the price covers:
 
 **Documents and registrations:**
-- ENCI pedigree (the Italian Kennel Club registration certificate)
+- ENCI pedigree (the registration certificate of the <a href="https://www.enci.it/libro-genealogico" target="_blank" rel="noopener" aria-label="ENCI, the Italian Kennel Club stud book (opens in a new tab)">Italian Kennel Club</a>)
 - Microchip already implanted and registered
 - Complete health record
 - A written placement agreement with guarantees

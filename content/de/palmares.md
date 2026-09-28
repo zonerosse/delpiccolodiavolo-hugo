@@ -136,7 +136,7 @@ custom_content: |
   <div>
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem">
   <h3>ENCI Italienischer Jugendchampion</h3>
-  <p>Lothar hat den Titel des Italienischen Jugendchampions mit einer beeindruckenden Serie von Ergebnissen in der Jugendklasse gewonnen. Jetzt in der Zwischenklasse, setzt er seine Ausstellungskarriere fort.</p>
+  <p><a href="/de/rueden-staffordshire-bull-terrier/" title="Unsere Rüden">Lothar</a> hat den Titel des Italienischen Jugendchampions mit einer beeindruckenden Serie von Ergebnissen in der Jugendklasse gewonnen. Jetzt in der Zwischenklasse, setzt er seine Ausstellungskarriere fort.</p>
   </div>
   </div>
   </div>

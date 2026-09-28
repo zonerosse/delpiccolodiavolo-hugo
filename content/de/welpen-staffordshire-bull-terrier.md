@@ -197,6 +197,10 @@ custom_content: |
   <h3>Wie lernen wir uns kennen?</h3>
   <p>Schreiben Sie uns über WhatsApp oder rufen Sie an. Wir sprechen gern ausführlich, bevor alles andere kommt: über die Rasse, über Ihren Haushalt, über unsere Hunde. Nach Terminvereinbarung können Sie die Zucht besuchen und die Elterntiere kennenlernen.</p>
   </div>
+
+  <div style="text-align:center;margin-top:1.5rem">
+  <a href="/de/faq-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="Alle FAQ ansehen">Alle häufigen Fragen ansehen</a>
+  </div>
   </div>
   </section>
   

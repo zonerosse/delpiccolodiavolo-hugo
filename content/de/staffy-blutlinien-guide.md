@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Blutlinien Leitfaden"
 date: 2025-11-08
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 translationKey: "linee-sangue"
 articolo: true
 image: "/images/blog/standard-1.webp"
@@ -39,7 +39,7 @@ custom_content: |
   <p>Linien zu verstehen ist aus zwei sehr verschiedenen Gründen wichtig. Wer einen Familienhund sucht, erfährt daraus, mit welchem Hund er die nächsten 12 Jahre leben wird. Wer über Zucht nachdenkt, erkennt darin den Unterschied zwischen einem stimmigen Programm und einer Folge hoffnungsvoller Zufälle.</p>
 
   <h2>Die englischen Linien</h2>
-  <p>Die Rasse entstand in England, und die englische Zucht bleibt der Maßstab für den Typ. Die einflussreichsten Zwinger haben korrekte Proportionen, einen breiten, gut gefüllten Kopf ohne Übertreibung, korrektes Gangwerk und vor allem das im Standard verankerte zuverlässige Wesen in den Vordergrund gestellt.</p>
+  <p>Die Rasse entstand in England, und die englische Zucht bleibt der Maßstab für den Typ. Die einflussreichsten Zwinger haben korrekte Proportionen, einen breiten, gut gefüllten Kopf ohne Übertreibung, korrektes Gangwerk und vor allem das im <a href="https://www.fci.be/Nomenclature/Standards/076g03-de.pdf" target="_blank" rel="noopener" aria-label="FCI-Standard Nr. 76, PDF (wird in einem neuen Tab geöffnet)">Standard</a> verankerte zuverlässige Wesen in den Vordergrund gestellt.</p>
   <p>Linien wie Elitebull waren auf dem europäischen Festland besonders prägend und bilden die Grundlage unseres eigenen Programms. Was wir dort suchen, ist Substanz ohne Grobheit: ein Hund, der auf den ersten Blick unverkennbar ein Staffordshire Bull Terrier ist und trotzdem eine Stunde traben und danach normal atmen kann.</p>
 
   <h2>Die irischen Linien</h2>

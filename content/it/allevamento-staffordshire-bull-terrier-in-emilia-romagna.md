@@ -211,6 +211,10 @@ custom_content: |
   <p>I nostri cuccioli con <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="Scheda di razza ENCI" target="_blank" rel="noopener" aria-label="Scheda di razza ENCI (si apre in una nuova scheda)">pedigree ENCI</a> e test genetici completi hanno un prezzo che comunichiamo direttamente, dopo una prima chiacchierata. Per tutti i dettagli leggi <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p>
   </div>
   </div>
+
+  <div style="text-align:center;margin-top:1.5rem">
+  <a href="/faq-sullo-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="Vedi tutte le FAQ">Vedi tutte le domande frequenti</a>
+  </div>
   </div>
   </section>
 

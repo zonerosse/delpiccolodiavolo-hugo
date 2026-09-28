@@ -1,6 +1,6 @@
 ---
 title: "Contact – Staffordshire Bull Terrier Breeder"
-lastmod: 2026-09-06
+lastmod: 2026-09-28
 tipoPagina: "ContactPage"
 translationKey: "contatti"
 description: "Contact Del Piccolo Diavolo kennel in Ostellato (FE), Italy. Visits by appointment, WhatsApp, phone. Reachable from Ferrara, Bologna, Milan, Venice, Florence."
@@ -234,6 +234,10 @@ custom_content: |
   <h3>How much does a puppy cost?</h3>
   <p>We tell you directly, after a first conversation. What lies behind the figure is set out in <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="How much does a Staffordshire Bull Terrier puppy cost">this page</a>: <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="ENCI breed page" target="_blank" rel="noopener" aria-label="ENCI breed page (opens in a new tab)">ENCI pedigree</a>, complete genetic testing on both parents, veterinary care and eight weeks of raising a litter indoors.</p>
   </div>
+  </div>
+
+  <div style="text-align:center;margin-top:1.5rem">
+  <a href="/en/faq-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="See all FAQ">See all frequently asked questions</a>
   </div>
   </div>
   </section>

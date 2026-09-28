@@ -2,7 +2,7 @@
 title: "Bio Sensor: was die Forschung wirklich sagt"
 date: 2026-09-09
 titleSeo: "Bio Sensor und Frühstimulation: was die Forschung sagt"
-lastmod: 2026-09-27
+lastmod: 2026-09-28
 translationKey: "biosensor"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
@@ -56,6 +56,8 @@ custom_content: |
   <h2>Was trägt und was nicht</h2>
 
   <p>Diese Vorteile stammen aus dem Militärprogramm, nicht aus Studien, die veröffentlicht und von anderen Forschern überprüft wurden. Das ist ein wichtiger Unterschied: die ursprüngliche Quelle lässt sich nicht nachprüfen.</p>
+
+  <p>Unter Züchtern verbreitet hat sich die Methode vor allem durch einen Artikel von Carmen Battaglia im <a href="https://www.journalvetbehavior.com/" target="_blank" rel="noopener" aria-label="Journal of Veterinary Behavior (wird in einem neuen Tab geöffnet)">Journal of Veterinary Behavior</a> aus dem Jahr 2009. Von dort kam die Frühstimulation in die Kynologie, und der Artikel ist eine Übersicht über die Literatur, keine kontrollierte Studie.</p>
 
   <p>In den Jahren danach gab es einige unabhängige Untersuchungen an Hunden, aber es sind wenige und die Ergebnisse weisen nicht alle in dieselbe Richtung: manche Arbeiten berichten Unterschiede, andere finden keine, die beim erwachsenen Tier messbar wären. Bis heute gibt es keine große, gut kontrollierte Studie, die zeigt, dass diese fünf Übungen einen ausgeglicheneren erwachsenen Hund hervorbringen.</p>
 

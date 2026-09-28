@@ -35,7 +35,7 @@ custom_content: |
   <article class="article-content">
   
   <div class="lead">
-  <strong>In brief:</strong> Understanding bloodlines helps you choose a puppy that matches your expectations. The main Staffy lines include English (like Elitebull) and Irish (like Lackyle), each with distinctive characteristics while meeting the FCI standard.
+  <strong>In brief:</strong> Understanding bloodlines helps you choose a puppy that matches your expectations. The main Staffy lines include English (like Elitebull) and Irish (like Lackyle), each with distinctive characteristics while meeting the <a href="https://www.fci.be/Nomenclature/Standards/076g03-en.pdf" target="_blank" rel="noopener" aria-label="FCI breed standard no. 76, PDF (opens in a new tab)">FCI standard</a>.
   </div>
   
   <h2>What a bloodline actually is</h2>

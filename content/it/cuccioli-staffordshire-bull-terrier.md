@@ -273,6 +273,10 @@ custom_content: |
   </div>
 
   </div>
+
+  <div style="text-align:center;margin-top:1.5rem">
+  <a href="/faq-sullo-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="Vedi tutte le FAQ">Vedi tutte le domande frequenti</a>
+  </div>
   </div>
   </section>
 

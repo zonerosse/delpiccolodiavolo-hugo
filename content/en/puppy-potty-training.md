@@ -2,7 +2,7 @@
 title: "Puppies: Potty Training"
 date: 2025-05-22
 titleSeo: "Puppy potty training: method, timing and setbacks"
-lastmod: 2026-09-12
+lastmod: 2026-09-28
 translationKey: "bisogni"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -62,6 +62,7 @@ custom_content: |
 
   <h2>Accidents indoors</h2>
   <p>They will happen, and how you respond determines how long training takes. Never punish, never scold, and never use the old practice of rubbing the puppy's nose in it. The puppy does not connect your reaction to something it did 10 minutes ago: it learns that going in front of you is dangerous, and starts hiding behind the sofa instead. That single mistake accounts for most protracted house training.</p>
+  <p>The veterinary behaviourists say the same. The <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="AVSAB position statements (opens in a new tab)">American Veterinary Society of Animal Behavior</a> recommends reward-based methods for all training, house training included: arrange the environment so that mistakes are rare and reinforce the behaviour you want, rather than punishing the one you do not.</p>
   <p>If you catch the puppy in the act, interrupt gently with a neutral sound and carry it straight outside, then reward if it finishes there.</p>
   <p>Clean with an enzymatic cleaner, never with ammonia-based products. Ammonia smells like urine to a dog and marks the spot as a toilet.</p>
 

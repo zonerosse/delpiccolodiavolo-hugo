@@ -1,7 +1,7 @@
 ---
 title: "Würfe Staffordshire Bull Terrier"
 titleSeo: "Würfe Staffordshire Bull Terrier: geplant und bisherige"
-lastmod: 2026-09-09
+lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 translationKey: "programma"
 description: "Staffordshire Bull Terrier Würfe mit ausgewählten Eltern, L2HGA/HC Gentests, ENCI-Stammbaum. Zuchtprogramm, Elitebull und Lackyle Linien. Ostellato (FE)."
@@ -253,6 +253,10 @@ custom_content: |
   <div class="faq-item">
   <h3>Was steckt hinter einem Ihrer Würfe?</h3>
   <p>Eine Monate im Voraus geplante Verpaarung, auf L2HGA und HC getestete Zuchttiere, ein ENCI-Stammbaum und Welpen, die im Haus aufwachsen. Schreiben Sie uns, wir erzählen Ihnen von den Hunden und den kommenden Würfen.</p>
+  </div>
+
+  <div style="text-align:center;margin-top:1.5rem">
+  <a href="/de/faq-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="Alle FAQ ansehen">Alle häufigen Fragen ansehen</a>
   </div>
   </div>
   </section>

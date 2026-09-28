@@ -56,6 +56,7 @@ custom_content: |
   <p>But there's a second side: the Staffy is also a dog with a very strong personality. It's determined, stubborn, full of energy. It's not a passive dog that's content to exist in a corner. It wants to participate, wants to play, wants to be involved in everything you do.</p>
 
   <p>The combination — extreme affection plus strong character — is what makes the Staffy unique. And also what makes it unsuitable for those looking for an "easy" dog in the wrong sense of the word.</p>
+  <p>The <a href="https://www.fci.be/Nomenclature/Standards/076g03-en.pdf" target="_blank" rel="noopener" aria-label="FCI breed standard no. 76, PDF (opens in a new tab)">FCI breed standard</a> puts both halves in the same few lines: indomitable courage and tenacity on one side, high intelligence and affection, especially with children, on the other.</p>
 
   <h2>With children: the "nanny dog" is not a myth</h2>
 

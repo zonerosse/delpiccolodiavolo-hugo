@@ -46,7 +46,7 @@ Dieser Beitrag erklärt genau, was in diesem Preis enthalten ist, was uns ein Wu
 Beim Kauf von einer verantwortungsvollen Zucht sind enthalten:
 
 **Dokumente und Registrierungen:**
-- ENCI-Ahnentafel (Eintragungsurkunde des italienischen Zuchtbuchs)
+- ENCI-Ahnentafel (Eintragungsurkunde des <a href="https://www.enci.it/libro-genealogico" target="_blank" rel="noopener" aria-label="ENCI, italienisches Zuchtbuch (wird in einem neuen Tab geöffnet)">italienischen Zuchtbuchs</a>)
 - Bereits implantierter und registrierter Mikrochip
 - Vollständiger Impfpass
 - Schriftlicher Vermittlungsvertrag mit Garantien

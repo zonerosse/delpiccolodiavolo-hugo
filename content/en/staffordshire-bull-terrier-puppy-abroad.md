@@ -1,7 +1,7 @@
 ---
 title: "Staffy puppy abroad: timing and paperwork"
 date: 2026-09-12
-lastmod: 2026-09-26
+lastmod: 2026-09-28
 articolo: true
 translationKey: "cucciolo-estero"
 description: "A puppy going to another European country leaves at four months, not two. Rabies vaccination, pet passport, TRACES certificate and ENCI export pedigree."
@@ -58,6 +58,8 @@ custom_content: |
     </ul>
 
     <p>The TRACES certificate is the one that surprises people who have not been through it: when a puppy passes from a breeder in one member state to a family in another, the movement counts as commercial and the official certificate is required. The passport alone is not enough.</p>
+
+    <p>None of this is the breeder's own paperwork. The rules are set at EU level, and the <a href="https://food.ec.europa.eu/animals/movement-pets_en" target="_blank" rel="noopener" aria-label="European Commission, movement of pets (opens in a new tab)">European Commission</a> publishes them in one place: microchip, passport and rabies vaccination for every dog, plus the additional certificate when a movement counts as commercial. Without them the puppy is turned back at the check.</p>
 
     <p>Some countries additionally require treatment against <em>Echinococcus multilocularis</em> in the days before departure. It concerns few destinations, but it has to be checked case by case.</p>
 

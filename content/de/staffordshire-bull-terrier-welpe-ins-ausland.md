@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Welpe ins Ausland: so läuft es ab"
 date: 2026-09-12
-lastmod: 2026-09-26
+lastmod: 2026-09-28
 articolo: true
 translationKey: "cucciolo-estero"
 description: "Ein Welpe für ein anderes europäisches Land reist mit vier Monaten, nicht mit zwei. Tollwutimpfung, Heimtierausweis, TRACES-Zeugnis und ENCI-Exportstammbaum."
@@ -58,6 +58,8 @@ custom_content: |
     </ul>
 
     <p>Das TRACES-Zeugnis überrascht alle, die es noch nicht erlebt haben: Wenn ein Welpe von einer Zucht in einem Mitgliedstaat an eine Familie in einem anderen übergeht, gilt die Verbringung als gewerblich, und das amtliche Zeugnis ist erforderlich. Der Heimtierausweis allein genügt nicht.</p>
+
+    <p>Nichts davon ist eine Formalität der Zucht. Die Regeln gelten EU-weit, und die <a href="https://food.ec.europa.eu/animals/movement-pets_en" target="_blank" rel="noopener" aria-label="Europäische Kommission, Verbringung von Heimtieren (wird in einem neuen Tab geöffnet)">Europäische Kommission</a> fasst sie an einer Stelle zusammen: Mikrochip, Heimtierausweis und Tollwutimpfung für jeden Hund, dazu das zusätzliche Zeugnis, wenn die Verbringung als gewerblich gilt. Ohne sie wird der Welpe bei der Kontrolle zurückgewiesen.</p>
 
     <p>Einige Länder verlangen zusätzlich eine Behandlung gegen <em>Echinococcus multilocularis</em> in den Tagen vor der Abreise. Das betrifft wenige Ziele, muss aber im Einzelfall geprüft werden.</p>
 

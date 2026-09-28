@@ -2,7 +2,7 @@
 title: "Bio Sensor: what the research actually says"
 date: 2026-09-09
 titleSeo: "Bio Sensor and early stimulation: what research says"
-lastmod: 2026-09-27
+lastmod: 2026-09-28
 translationKey: "biosensor"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
@@ -56,6 +56,8 @@ custom_content: |
   <h2>What holds up and what does not</h2>
 
   <p>Those benefits come from the military programme, not from studies published and checked by other researchers. That difference matters: it means the original source cannot be verified.</p>
+
+  <p>The method reached breeders mainly through a 2009 article by Carmen Battaglia in the <a href="https://www.journalvetbehavior.com/" target="_blank" rel="noopener" aria-label="Journal of Veterinary Behavior (opens in a new tab)">Journal of Veterinary Behavior</a>. That is where early neurological stimulation entered the dog world, and the article is a review of the literature, not a controlled study.</p>
 
   <p>Some independent research on dogs has been carried out since, but there is little of it and the results do not all point the same way: some papers report differences, others find none that can be measured in the adult animal. As things stand there is no large, well-controlled study showing that those five exercises produce a more balanced adult dog.</p>
 

@@ -197,6 +197,10 @@ custom_content: |
   <h3>How do we get to know each other?</h3>
   <p>Write to us on WhatsApp or call. We like to talk at length before anything else: about the breed, about your household, about our dogs. You are welcome to visit the kennel by appointment and meet the parents.</p>
   </div>
+
+  <div style="text-align:center;margin-top:1.5rem">
+  <a href="/en/faq-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="See all FAQ">See all frequently asked questions</a>
+  </div>
   </div>
   </section>
   
