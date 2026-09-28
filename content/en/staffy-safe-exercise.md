@@ -34,7 +34,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>The Staffordshire Bull Terrier needs exercise every day, but not endless running: for a healthy adult, count on sixty to ninety minutes in total, in at least two outings, mixing steady walking, some free movement and mental work. For puppies the guideline is five minutes of formal walking per month of age, twice a day, because growth plates in this breed close between 10 and 14 months and repeated impact before then causes damage that shows years later. In adults the main danger is heat: a short muzzle makes panting less efficient, and panting is a dog's only way to cool down. Walk in the cool hours, test the tarmac with the back of your hand for five seconds, and never leave the dog in a parked car. From about eight years old, keep the duration but lower the intensity.</p>
+  <p>The Staffordshire Bull Terrier needs exercise every day, but not endless running: for a healthy adult, count on sixty to ninety minutes in total, in at least two outings, mixing steady walking, some free movement and mental work. For puppies the guideline is five minutes of formal walking per month of age, twice a day, because growth plates in this breed close between 12 and 18 months and repeated impact before then causes damage that shows years later. In adults the main danger is heat: a short muzzle makes panting less efficient, and panting is a dog's only way to cool down. Walk in the cool hours, test the tarmac with the back of your hand for five seconds, and never leave the dog in a parked car. From about eight years old, keep the duration but lower the intensity.</p>
 
   
   
@@ -43,7 +43,7 @@ custom_content: |
   <p>For a healthy adult, count on roughly sixty to ninety minutes a day in total, split into at least two outings, with a mix of steady walking, some free movement and a component of mental work. A dog that gets only physical exercise and no thinking is a dog that stays wound up.</p>
 
   <h2>Puppies: the five-minute rule and why it matters</h2>
-  <p>Growth plates in this breed close between 10 and 14 months, and until they do, joints are vulnerable to damage that will not be visible for years. The traditional guideline is 5 minutes of formal walking per month of age, twice a day: 10 minutes at 2 months, 20 at 4, 30 at 6.</p>
+  <p>Growth plates in this breed close between 12 and 18 months, and until they do, joints are vulnerable to damage that will not be visible for years. The traditional guideline is 5 minutes of formal walking per month of age, twice a day: 10 minutes at 2 months, 20 at 4, 30 at 6.</p>
   <p>Free play in a garden, where the puppy sets its own pace and stops when tired, is different and can be more generous. What must be avoided until the growth plates close is repetitive high-impact work: long runs on hard ground, jumping down from furniture or car boots, stairs used many times a day, and any organised jumping.</p>
   <p>This is the single most common mistake we see in new owners, and it is made with the best intentions by people who think they are giving the puppy enough.</p>
 

@@ -43,7 +43,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Ein Staffordshire Bull Terrier Welpe sollte mindestens in der ersten Woche zu Hause genau das Futter bekommen, das er in der Zucht gefressen hat. Jede spätere Umstellung erfolgt über 7 bis 10 Tage, mit einem Viertel, dann der Hälfte, dann drei Vierteln des neuen Futters, und bei weicherem Kot geht man einen Schritt zurück. Von 8 Wochen bis 4 Monaten bekommt der Welpe vier Mahlzeiten am Tag, von 4 bis 6 Monaten drei und ab 6 Monaten zwei, und dabei bleibt es das ganze Leben: eine einzige große Mahlzeit ist bei einer Rasse mit tiefem Brustkorb ein Risikofaktor für die Magendrehung. Die Menge richtet sich nach dem Körperzustand, nicht nach der Tabelle auf dem Sack, angepasst um jeweils 10 Prozent. Leckerli bleiben unter 10 Prozent der Tagesration. Durchfall über 24 Stunden oder mit Blut gehört noch am selben Tag zum Tierarzt.</p>
+  <p>Ein Staffordshire Bull Terrier Welpe sollte mindestens in der ersten Woche zu Hause genau das Futter bekommen, das er in der Zucht gefressen hat. Jede spätere Umstellung erfolgt über 7 bis 10 Tage, mit einem Viertel, dann der Hälfte, dann drei Vierteln des neuen Futters, und bei weicherem Kot geht man einen Schritt zurück. Bis 6 Monate bekommt der Welpe drei Mahlzeiten am Tag zu festen Zeiten, danach zwei, und dabei bleibt es das ganze Leben: eine einzige große Mahlzeit ist bei einer Rasse mit tiefem Brustkorb ein Risikofaktor für die Magendrehung. Die Menge richtet sich nach dem Körperzustand, nicht nach der Tabelle auf dem Sack, angepasst um jeweils 10 Prozent. Leckerli bleiben unter 10 Prozent der Tagesration. Durchfall über 24 Stunden oder mit Blut gehört noch am selben Tag zum Tierarzt.</p>
 
   
   
@@ -53,7 +53,7 @@ custom_content: |
   <p>Wir geben jedem Welpen einen Vorrat seines gewohnten Futters und den genauen Fütterungsplan mit — genau aus diesem Grund.</p>
 
   <h2>Wie oft und wie viel</h2>
-  <p>Von 8 Wochen bis 4 Monate 4 Mahlzeiten täglich. Von 4 bis 6 Monaten drei. Ab 6 Monaten zwei, und 2 Mahlzeiten sollten lebenslang bleiben, statt auf eine zu reduzieren: eine einzige große Mahlzeit ist bei einer tiefbrüstigen Rasse ein Risikofaktor für die Magendrehung.</p>
+  <p>Bis 6 Monate 3 Mahlzeiten täglich zu festen Zeiten. Ab 6 Monaten zwei, und 2 Mahlzeiten sollten lebenslang bleiben, statt auf eine zu reduzieren: eine einzige große Mahlzeit ist bei einer tiefbrüstigen Rasse ein Risikofaktor für die Magendrehung.</p>
   <p>Die Menge hängt vom Futter und vom Einzeltier ab; die Angabe auf der Packung ist ein Ausgangspunkt, keine Vorschrift. Der wirkliche Maßstab ist der Welpe selbst: die Rippen müssen mit flacher Hand leicht fühlbar sein, von oben muss eine Taille erkennbar sein. Passen Sie in Schritten von 10 Prozent an und beurteilen Sie nach einer Woche neu.</p>
   <p>Verteilen Sie die Mahlzeiten über den Tag und halten Sie die Zeiten konstant, was der Stubenreinheit ebenso hilft wie der Verdauung. Lassen Sie das Futter 15 bis 20 Minuten stehen und nehmen Sie es dann weg, statt den ganzen Tag einen vollen Napf anzubieten.</p>
 

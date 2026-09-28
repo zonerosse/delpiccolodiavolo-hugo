@@ -43,12 +43,12 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>A Staffordshire Bull Terrier puppy's first walks are measured in minutes, not distance. The usual guideline is about five minutes of formal walking per month of age, twice a day: fifteen minutes at three months, twenty at four. The limit exists because growth plates in this breed close between 10 and 14 months, and repeated impact before then causes damage that only shows years later. Waiting for the end of the vaccination course at around 16 weeks is not the answer either, because the socialisation window closes at about the same age: controlled exposure should begin as soon as the puppy arrives, in clean, quiet places, away from other dogs' faeces. In the early weeks, what the puppy meets matters more than how far it goes: five calm minutes of sniffing are worth more than thirty on a tight lead.</p>
+  <p>A Staffordshire Bull Terrier puppy's first walks are measured in minutes, not distance. The usual guideline is about five minutes of formal walking per month of age, twice a day: fifteen minutes at three months, twenty at four. The limit exists because growth plates in this breed close between 12 and 18 months, and repeated impact before then causes damage that only shows years later. Waiting for the end of the vaccination course at around 16 weeks is not the answer either, because by then the socialisation window, which runs from the third to the twelfth week, has already closed: controlled exposure should begin as soon as the puppy arrives, in clean, quiet places, away from other dogs' faeces. In the early weeks, what the puppy meets matters more than how far it goes: five calm minutes of sniffing are worth more than thirty on a tight lead.</p>
 
   
   
   <h2>When to start, and the vaccination dilemma</h2>
-  <p>The classic advice is to wait until the <a href="https://wsava.org/global-guidelines/vaccination-guidelines/" title="WSAVA global guidelines" target="_blank" rel="noopener" aria-label="WSAVA global guidelines (opens in a new tab)">vaccination</a> course is complete, at around 16 weeks. The classic advice is also, taken literally, harmful, because the critical socialisation window closes at roughly the same age. A puppy that sees nothing of the world until 16 weeks has missed the period in which novelty is accepted most easily, and behavioural problems arising from under-socialisation are a far more common cause of dogs being given up than infectious disease.</p>
+  <p>The classic advice is to wait until the <a href="https://wsava.org/global-guidelines/vaccination-guidelines/" title="WSAVA global guidelines" target="_blank" rel="noopener" aria-label="WSAVA global guidelines (opens in a new tab)">vaccination</a> course is complete, at around 16 weeks. The classic advice is also, taken literally, harmful, because the socialisation window closes earlier, around the twelfth week. A puppy that sees nothing of the world until 16 weeks has missed the period in which novelty is accepted most easily, and behavioural problems arising from under-socialisation are a far more common cause of dogs being given up than infectious disease.</p>
   <p>The sensible compromise, and the one most veterinary behaviour bodies now recommend, is controlled exposure from the moment the puppy arrives. Carry the puppy in your arms in the street. Let it watch traffic, bicycles, children, market stalls and other people's umbrellas from a safe height. Visit friends whose dogs are vaccinated and healthy. Avoid places where unknown dogs urinate, public parks and veterinary waiting-room floors, until protection is complete.</p>
   <p>Put simply: exposure to the world, yes, from day one. Exposure to unknown dogs' faeces, no, until 16 weeks.</p>
 
@@ -61,7 +61,7 @@ custom_content: |
   <p>Do not be surprised if the puppy sits down and refuses to move. This is extremely common and it is not stubbornness — it is a small animal overwhelmed by an unprecedented amount of information. Crouch down, wait, offer a treat, and let it start again when it is ready. Dragging a frightened puppy forward teaches it that the lead means being forced, and that lesson is expensive to undo.</p>
 
   <h2>Duration and the growth plates</h2>
-  <p>The five-minute rule applies: roughly 5 minutes of formal walking per month of age, twice a day. 3 months, 15 minutes; 4 months, 20. This is not caution for its own sake. Growth plates in this breed close between 10 and 14 months, and repetitive impact before then causes damage that only becomes visible years later as joint disease.</p>
+  <p>The five-minute rule applies: roughly 5 minutes of formal walking per month of age, twice a day. 3 months, 15 minutes; 4 months, 20. This is not caution for its own sake. Growth plates in this breed close between 12 and 18 months, and repetitive impact before then causes damage that only becomes visible years later as joint disease.</p>
   <p>Free play in a garden, where the puppy chooses when to stop, is different and can be more generous. What must be avoided is long walks on hard ground, jumping down from heights, repeated stairs and running alongside a bicycle.</p>
 
   <h2>What to expose the puppy to, deliberately</h2>
@@ -80,7 +80,7 @@ custom_content: |
   <p><strong>My puppy sits down and refuses to walk. What do I do?</strong> Wait. Crouch at its level, stay relaxed, and let it decide to move. This resolves itself within a few outings if you never drag, and becomes a lasting problem if you do.</p>
   <p><strong>Collar or harness?</strong> Harness for walking, collar for identification. A Y-shaped harness that leaves the shoulders free, with a front attachment ring, is the best combination for a strong breed.</p>
   <p><strong>Can my puppy meet other dogs in the street?</strong> Only calm, healthy, vaccinated adults whose owners you can ask first. An uncontrolled encounter with a reactive dog at 4 months can set a puppy back for a year.</p>
-  <p><strong>When can we go for proper walks?</strong> Build gradually and expect full-length walks from around 12 to 14 months, when the growth plates have closed. Until then, patience is an investment in the dog's joints.</p>
+  <p><strong>When can we go for proper walks?</strong> Build gradually and expect full-length walks from around 18 months, when the growth plates have closed. Until then, patience is an investment in the dog's joints.</p>
 
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>

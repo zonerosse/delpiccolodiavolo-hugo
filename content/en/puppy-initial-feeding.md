@@ -43,7 +43,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>A Staffordshire Bull Terrier puppy should eat exactly what the breeder was feeding for at least its first week at home. Any change after that is made over 7 to 10 days, a quarter, then half, then three quarters of the new food, going back a step if the stools loosen. From 8 weeks to 4 months the puppy has four meals a day, from 4 to 6 months three, and from 6 months two, which should continue for life: a single large meal in a deep-chested breed is a risk factor for gastric torsion. Portions follow body condition rather than the chart on the bag, adjusted by 10 per cent at a time. Treats should stay under 10 per cent of the daily intake. Diarrhoea lasting more than 24 hours, or with blood, needs a vet the same day.</p>
+  <p>A Staffordshire Bull Terrier puppy should eat exactly what the breeder was feeding for at least its first week at home. Any change after that is made over 7 to 10 days, a quarter, then half, then three quarters of the new food, going back a step if the stools loosen. Until 6 months the puppy has three meals a day, at regular times, and from then on two, which should continue for life: a single large meal in a deep-chested breed is a risk factor for gastric torsion. Portions follow body condition rather than the chart on the bag, adjusted by 10 per cent at a time. Treats should stay under 10 per cent of the daily intake. Diarrhoea lasting more than 24 hours, or with blood, needs a vet the same day.</p>
 
   
   
@@ -53,7 +53,7 @@ custom_content: |
   <p>We send every puppy home with a supply of its current food and the exact feeding schedule, for precisely this reason.</p>
 
   <h2>How often and how much</h2>
-  <p>From 8 weeks to 4 months, 4 meals a day. From 4 to 6 months, 3. From 6 months onwards, 2, and 2 meals a day should continue for life rather than reducing to one: a single large meal in a deep-chested breed is a risk factor for gastric torsion.</p>
+  <p>Until 6 months, 3 meals a day at regular times. From 6 months onwards, 2, and 2 meals a day should continue for life rather than reducing to one: a single large meal in a deep-chested breed is a risk factor for gastric torsion.</p>
   <p>Quantity depends on the food and on the individual, and the number on the packet is a starting point rather than an instruction. The real measure is the puppy itself: you should be able to feel the ribs easily with a flat hand, and see a waist from above. Adjust by 10 per cent at a time and reassess after a week.</p>
   <p>Space the meals through the day and keep the times consistent, which helps house training as much as digestion. Leave the food down for 15 or 20 minutes and then remove it, rather than leaving a bowl available all day.</p>
 

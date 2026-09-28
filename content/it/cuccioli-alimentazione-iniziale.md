@@ -48,9 +48,8 @@ custom_content: |
   
   <h2>Frequenza e orari dei pasti</h2>
   <ul>
-  <li><strong>2–3 mesi:</strong> 4 pasti al giorno, distanziati di 4 ore circa.</li>
-  <li><strong>3–5 mesi:</strong> 3 pasti al giorno.</li>
-  <li><strong>6–12 mesi:</strong> 2 pasti al giorno (mattino/sera) e poi mantienili anche da adulto.</li>
+  <li><strong>Fino ai 6 mesi:</strong> 3 pasti al giorno, a orari regolari.</li>
+  <li><strong>Dai 6 mesi:</strong> 2 pasti al giorno (mattino/sera), da mantenere anche da adulto.</li>
   </ul>
   
   <div class="callout">

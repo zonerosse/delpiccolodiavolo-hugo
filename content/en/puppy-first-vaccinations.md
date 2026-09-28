@@ -69,7 +69,7 @@ custom_content: |
   <p>What is not normal, and requires immediate veterinary attention: swelling of the face or muzzle, hives, repeated vomiting, difficulty breathing, or collapse. These are signs of an allergic reaction, they usually appear within an hour, and they are the reason it is sensible to stay near the practice for a short while after a first vaccination rather than driving straight home.</p>
 
   <h2>Where the puppy can and cannot go meanwhile</h2>
-  <p>This is the practical question that matters most, because the socialisation window closes at 16 weeks — the same moment protection is completed. Waiting passively until then costs more in behaviour than it saves in infection risk.</p>
+  <p>This is the practical question that matters most, because the socialisation window closes around the twelfth week, about a month before protection is complete. Waiting passively until then costs more in behaviour than it saves in infection risk.</p>
   <p>Safe before the course is complete: carrying the puppy in your arms in the street, visiting the homes of friends with vaccinated healthy dogs, your own garden if no unvaccinated dog has been there, and car journeys to see the world from a window.</p>
   <p>To avoid: public parks and dog areas, pavements where many unknown dogs urinate, the floor of the veterinary waiting room, and contact with dogs of unknown vaccination status.</p>
 

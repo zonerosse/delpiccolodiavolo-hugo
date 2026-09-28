@@ -62,7 +62,7 @@ custom_content: |
   <p>Nicht normal und ein Fall für den sofortigen Tierarztbesuch: Schwellung von Gesicht oder Fang, Quaddeln, wiederholtes Erbrechen, Atemnot oder Kollaps. Das sind Zeichen einer allergischen Reaktion, sie treten meist innerhalb einer Stunde auf, und deshalb ist es sinnvoll, nach einer ersten Impfung noch kurz in der Nähe der Praxis zu bleiben.</p>
 
   <h2>Wohin der Welpe in der Zwischenzeit darf</h2>
-  <p>Das ist die praktisch wichtigste Frage, denn das Sozialisierungsfenster schließt sich mit 16 Wochen — genau dann, wenn der Schutz vollständig ist. Passiv abzuwarten kostet im Verhalten mehr, als es an Infektionsrisiko spart.</p>
+  <p>Das ist die praktisch wichtigste Frage, denn das Sozialisierungsfenster schließt sich um die zwölfte Woche, etwa einen Monat bevor der Schutz vollständig ist. Passiv abzuwarten kostet im Verhalten mehr, als es an Infektionsrisiko spart.</p>
   <p>Unbedenklich vor Abschluss: den Welpen auf dem Arm durch die Straße tragen, Freunde mit geimpften gesunden Hunden besuchen, der eigene Garten, sofern dort kein ungeimpfter Hund war, und Autofahrten, um die Welt vom Fenster aus zu sehen.</p>
   <p>Zu meiden: öffentliche Parks und Hundewiesen, Gehwege, auf denen viele fremde Hunde markieren, der Boden im Wartezimmer und Kontakt mit Hunden unbekannten Impfstatus.</p>
 

@@ -175,7 +175,7 @@ custom_content: |
   <h3>Cosa Rende un Cane "Pericoloso"?</h3>
   
   <ul>
-  <li><strong>Mancata socializzazione</strong> durante il periodo critico (3-16 settimane)</li>
+  <li><strong>Mancata socializzazione</strong> durante il periodo critico (3-12 settimane)</li>
   <li><strong>Isolamento sociale</strong> e mancanza di stimoli</li>
   <li><strong>Maltrattamenti</strong> fisici o psicologici</li>
   <li><strong>Addestramento all'aggressività</strong> (illegale in Italia)</li>
