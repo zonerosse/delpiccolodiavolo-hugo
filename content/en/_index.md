@@ -163,6 +163,32 @@ custom_content: |
   <div class="content-block">
   <h3>At the Kennel: Health comes first</h3>
   <p>Each dog is followed by trusted veterinarians, with regular checkups and genetic tests. We prefer few litters, followed with care, to guarantee quality and well-being.</p>
+  <h3>Which tests we do, and what they are</h3>
+
+  <p><strong>All breeding dogs are tested for L2HGA and HC (HSF4); the breeding females also for DM-SOD1.</strong> The reports, with the microchip number, are published on each dog's page.</p>
+
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem;margin:1.2rem 0 1rem">
+  <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
+  <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">L2HGA</div>
+  <div style="font-size:.85rem;color:#8b7355;margin-bottom:.5rem">L-2-hydroxyglutaric aciduria</div>
+  <p style="margin:0;font-size:.95rem;line-height:1.6">A neurological disease that usually appears in the first years of life: tremors, unsteady gait, seizures. There is no cure.</p>
+  <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Tested: all breeding dogs</div>
+  </div>
+  <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
+  <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">HC (HSF4 gene)</div>
+  <div style="font-size:.85rem;color:#8b7355;margin-bottom:.5rem">Hereditary cataract</div>
+  <p style="margin:0;font-size:.95rem;line-height:1.6">The lens of the eye turns cloudy at a young age, often within the first two or three years, leading to blindness.</p>
+  <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Tested: all breeding dogs</div>
+  </div>
+  <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
+  <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">DM-SOD1</div>
+  <div style="font-size:.85rem;color:#8b7355;margin-bottom:.5rem">Degenerative myelopathy</div>
+  <p style="margin:0;font-size:.95rem;line-height:1.6">A disease of the spinal cord that appears after eight years of age and slowly leads to paralysis of the hind legs. There is no cure.</p>
+  <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Tested: the breeding females</div>
+  </div>
+  </div>
+
+  <p>All three are recessive diseases, established with a DNA test that is done once and lasts a lifetime: two clear parents cannot produce affected puppies. How to read the reports is explained in the <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Genetic testing L2-HGA, HC and DM">genetic testing guide</a>.</p>
   </div>
   
   <div class="content-block">

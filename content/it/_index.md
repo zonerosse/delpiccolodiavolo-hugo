@@ -154,6 +154,33 @@ custom_content: |
 
   <p><strong>&Egrave; il numero di microchip a rendere verificabile un referto genetico.</strong> Un referto senza microchip non &egrave; collegabile a nessun animale in particolare: potrebbe riguardare qualsiasi cane. Con il microchip in chiaro, invece, chiunque pu&ograve; confrontarlo con il documento del cane che ha davanti, o chiedere conferma al laboratorio che lo ha emesso.</p>
 
+  <h3>Quali test facciamo, e cosa sono</h3>
+
+  <p><strong>Tutti i riproduttori sono testati per L2HGA e HC (HSF4); le fattrici anche per DM-SOD1.</strong> I referti, con il numero di microchip, sono pubblicati sulle schede dei cani.</p>
+
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem;margin:1.2rem 0 1rem">
+  <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
+  <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">L2HGA</div>
+  <div style="font-size:.85rem;color:#8b7355;margin-bottom:.5rem">Aciduria L-2-idrossiglutarica</div>
+  <p style="margin:0;font-size:.95rem;line-height:1.6">Malattia neurologica che compare di solito nei primi anni di vita: tremori, andatura incerta, crisi epilettiche. Non esiste una cura.</p>
+  <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Testati: tutti i riproduttori</div>
+  </div>
+  <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
+  <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">HC (gene HSF4)</div>
+  <div style="font-size:.85rem;color:#8b7355;margin-bottom:.5rem">Cataratta ereditaria</div>
+  <p style="margin:0;font-size:.95rem;line-height:1.6">Il cristallino dell'occhio si opacizza già da giovane, spesso entro i primi due o tre anni, fino a portare alla cecità.</p>
+  <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Testati: tutti i riproduttori</div>
+  </div>
+  <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
+  <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">DM-SOD1</div>
+  <div style="font-size:.85rem;color:#8b7355;margin-bottom:.5rem">Mielopatia degenerativa</div>
+  <p style="margin:0;font-size:.95rem;line-height:1.6">Malattia del midollo spinale che compare dopo gli otto anni e porta lentamente alla paralisi delle zampe posteriori. Non esiste una cura.</p>
+  <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Testate: le fattrici</div>
+  </div>
+  </div>
+
+  <p>Sono tutte e tre malattie recessive e si accertano con un test del DNA, che si fa una volta e vale per tutta la vita: due genitori esenti non possono produrre cuccioli malati. Come si leggono i referti lo spieghiamo nella <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA, HC e DM">guida ai test genetici</a>.</p>
+
   <h3>Cosa si pu&ograve; controllare, e dove</h3>
 
   <p><strong>Le genealogie.</strong> I cani di Del Piccolo Diavolo sono registrati su <a href="https://sbtpedigree.com/details?id=35858" target="_blank" rel="noopener" aria-label="Del Piccolo Diavolo su SBTPedigree (si apre in una nuova scheda)">SBTPedigree</a>, il database internazionale della razza, con tutti i soggetti e le cucciolate. Da l&igrave; si risale ai nonni, ai bisnonni, ai fratelli di cucciolata: si vede chi sono davvero i cani dietro un nome, e si vede anche cosa non c'&egrave;.</p>

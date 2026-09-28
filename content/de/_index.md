@@ -163,6 +163,32 @@ custom_content: |
   <div class="content-block">
   <h3>In der Zucht: Gesundheit geht vor</h3>
   <p>Jeder Hund wird von vertrauenswürdigen Tierärzten betreut, mit regelmäßigen Untersuchungen und Gentests. Wir bevorzugen wenige Würfe, die mit Sorgfalt betreut werden, um Qualität und Wohlbefinden zu garantieren.</p>
+  <h3>Welche Tests wir machen, und was sie bedeuten</h3>
+
+  <p><strong>Alle Zuchttiere sind auf L2HGA und HC (HSF4) getestet, die Zuchthündinnen zusätzlich auf DM-SOD1.</strong> Die Befunde mit Mikrochipnummer sind auf der Seite jedes Hundes veröffentlicht.</p>
+
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem;margin:1.2rem 0 1rem">
+  <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
+  <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">L2HGA</div>
+  <div style="font-size:.85rem;color:#8b7355;margin-bottom:.5rem">L-2-Hydroxyglutarazidurie</div>
+  <p style="margin:0;font-size:.95rem;line-height:1.6">Eine neurologische Erkrankung, die meist in den ersten Lebensjahren auftritt: Zittern, unsicherer Gang, epileptische Anfälle. Eine Heilung gibt es nicht.</p>
+  <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Getestet: alle Zuchttiere</div>
+  </div>
+  <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
+  <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">HC (Gen HSF4)</div>
+  <div style="font-size:.85rem;color:#8b7355;margin-bottom:.5rem">Erbliche Katarakt</div>
+  <p style="margin:0;font-size:.95rem;line-height:1.6">Die Augenlinse trübt sich schon in jungen Jahren ein, oft in den ersten zwei oder drei Lebensjahren, bis zur Erblindung.</p>
+  <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Getestet: alle Zuchttiere</div>
+  </div>
+  <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
+  <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">DM-SOD1</div>
+  <div style="font-size:.85rem;color:#8b7355;margin-bottom:.5rem">Degenerative Myelopathie</div>
+  <p style="margin:0;font-size:.95rem;line-height:1.6">Eine Erkrankung des Rückenmarks, die nach dem achten Lebensjahr auftritt und langsam zur Lähmung der Hinterbeine führt. Eine Heilung gibt es nicht.</p>
+  <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Getestet: die Zuchthündinnen</div>
+  </div>
+  </div>
+
+  <p>Alle drei sind rezessive Erkrankungen und werden mit einem DNA-Test festgestellt, der einmal gemacht wird und ein Leben lang gilt: zwei freie Elterntiere können keine erkrankten Welpen hervorbringen. Wie man die Befunde liest, erklärt unser <a href="/de/staffy-gentests-l2hga-hc/" title="Gentests L2-HGA, HC und DM">Ratgeber zu den Gentests</a>.</p>
   </div>
   
   <div class="content-block">
