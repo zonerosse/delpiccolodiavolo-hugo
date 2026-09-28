@@ -91,8 +91,13 @@
   "worksFor": { "@id": "{{ $baseURL }}/#organization" },
   "url": "{{ $baseURL }}{{ if eq $lang "en" }}/en/about-us/{{ else if eq $lang "de" }}/de/ueber-uns/{{ else }}/chi-siamo/{{ end }}",
   "mainEntityOfPage": "{{ $baseURL }}{{ if eq $lang "en" }}/en/about-us/{{ else if eq $lang "de" }}/de/ueber-uns/{{ else }}/chi-siamo/{{ end }}",
+  {{/* Profili della stessa persona: la scheda su SBTPedigree, la pagina
+       "Chi sono" di Punto Web Ferrara (stessa persona, @id
+       https://puntowebferrara.com/#paolo-boldrini) e l'account GitHub. */}}
   "sameAs": [
-    "https://sbtpedigree.com/details?id=35858"
+    "https://sbtpedigree.com/details?id=35858",
+    "https://puntowebferrara.com/chi-siamo/",
+    "https://github.com/zonerosse"
   ],
   {{/* L'articolo di FerraraToday nomina Paolo Boldrini oltre al cane:
        lo si collega anche alla persona, con lo stesso @id usato

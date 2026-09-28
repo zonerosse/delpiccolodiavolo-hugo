@@ -199,6 +199,63 @@ custom_content: |
   
   </div>
   </div>
+  
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What results have you achieved at shows?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Del Piccolo Diavolo has bred an <strong>Italian Champion</strong> and two <strong>Italian Junior Champions</strong>, one of whom is also a Slovenian Champion, as well as a Junior Champion and Champion of San Marino. Bilquis Goddess Diabhal placed <strong>fourth at the World Dog Show</strong> and has twelve consecutive shows with Excellent first behind her. In May 2026 Queen of California became Italian Junior Champion at the National Show in Albarella, with JCAC, JBOB and Best of Breed. They are all dogs born and raised here, not bought in already titled. Show results cannot be self-certified: the catalogues of the events are public, and the judges who awarded them have a name and a surname.
+  </div>
+  </div>
+    <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is it worth travelling to Ostellato for a puppy?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">It is a decision for the family making the journey, but one fact helps: Ostellato is about an hour from Bologna and Ravenna, two from Verona and Padua, two and a half from Milan and three from Florence, and Bologna airport is within reach for families coming from abroad. Many families make that trip, and nearly all of them come back at least a second time. The point is not the distance itself but what you come to see: the mother of the litter, the place where the puppies grow up, the adult dogs those lines have produced, and the documents in the original rather than as copies. A dog stays with a family for twelve years: a day's travel to choose well is a reasonable investment. Anyone who cannot come simply does not take a puppy from us: we do not ship.
+  </div>
+  </div>
+    <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What does it mean that the puppies are socialised?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">It means that in the weeks when the puppy's brain is most receptive &mdash; the sensitive period runs roughly from the third to the twelfth week &mdash; it meets as many ordinary things as possible. Our puppies are born in the house and stay there for the first month, near the television and household noise, not in a silent room. Then they move to a pen with an outdoor run and come back into the house in turns, two at a time, so that each one gets its share of family life, people of different ages and other dogs. Whatever a puppy meets in those weeks becomes part of its normal world; whatever it does not meet will remain, for life, something to be assessed. Socialisation does not end when the puppy leaves: it continues with its new family.
+  </div>
+  </div>
+    <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Do you provide support after the puppy goes home?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Yes, with no expiry date. We remain available for advice on feeding, growth, training and management, even years later: people who took a puppy in 2015 still write today, and that is exactly as it should be. There is, however, a commitment worth more than advice, and it is the one we tell everyone before the puppy leaves: <strong>if one day you can no longer keep the dog, it comes back here</strong>. This is not a courtesy phrase; it is why we choose calmly who takes a puppy. A dog we have bred does not end up in a shelter or pass between strangers: if the situation changes, for whatever reason, we find the solution. In twelve years it has never been needed, and where those dogs ended up is told in the <a href="/en/staffordshire-family-life-stories/" title="Family stories">family stories</a>.
+  </div>
+  </div>
+    <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Why don't you ship puppies?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Because a journey in an aircraft hold or with a courier is an experience a two-month-old puppy should not have, and because remote delivery removes the only chance we have to get to know each other. Anyone who takes one of our puppies comes to Ostellato, and in doing so sees the mother, the other adult dogs and the place where the puppy was born and raised, and can check pedigrees and test reports in person. It is also when we ask a few questions about what the puppy's day will look like. For families abroad the path is the same, with the longer timescale imposed by the rabies vaccination: the puppy still passes from our hands to its family's, with no intermediaries. The details are in <a href="/en/staffordshire-bull-terrier-puppy-abroad/" title="A puppy going abroad">a puppy going abroad</a>.
+  </div>
+  </div>
+    <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is the Staffy suitable as a first dog?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">It can be, on two conditions. The first is time: this is a dog that wants to be with people and suffers long absences, so anyone who is out of the house twelve hours a day should think twice, whatever their experience. The second is honesty about the fact that it is a terrier: reactivity towards other dogs exists, it has to be managed with early socialisation, and it does not disappear on its own. In its favour are its attachment to the family, its tolerance, a coat that needs no grooming and the ease with which it learns. A first dog done well still needs a basic training class and a breeder who stays available after the puppy leaves, not only until handover.
+  </div>
+  </div>
+    <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Which bloodlines do you work with?</h3>
+  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">We work with two historic lines of the breed, British and Irish: <strong>Elitebull</strong> and <strong>Lackyle</strong>. They are not two opposing styles: Lackyle came first and its historic dogs now appear in pedigrees across half of Europe, while Elitebull is the kennel that carries weight today &mdash; and those very dogs are in its pedigrees. The second line, in other words, contains the first. The choice is not aesthetic: these are documented lines, verifiable on SBTPedigree, that breed predictably, which is what you need when a mating is planned rather than hoped for. The kennel's own name comes from Lackyle Diabhal &Oacute;g, Irish for the young devil.
+  </div>
+  </div>
   </section>
   
   <section class="dark-section">

@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terriers in family life: where our dogs are today"
 titleSeo: "Staffordshire Bull Terriers in family life: true stories"
 date: 2026-09-27
-lastmod: 2026-09-27
+lastmod: 2026-09-28
 translationKey: "storie-famiglie"
 articolo: true
 image: "/images/blog/storie-famiglie-hero.webp"
@@ -40,7 +40,7 @@ custom_content: |
 
   <h2>Cattleya, who retired to the armchair after the ring</h2>
 
-  <p>Cattleya lives in San Clemente, in the province of Rimini, with Ricarda Mazzola Wagner. She was shown abroad as well, and at a breed show in Germany she earned the praise of <strong>Debbie Desmond</strong> of Elitebull kennels, who called her the best constructed bitch of the whole event. She has two litters behind her, with truly typical puppies.</p>
+  <p><a href="https://sbtpedigree.com/dog_details?dogs_id=4477342" target="_blank" rel="noopener" aria-label="Cattleya's pedigree on SBTPedigree (opens in a new tab)">Cattleya</a> lives in San Clemente, in the province of Rimini, with Ricarda Mazzola Wagner. She was shown abroad as well, and at a breed show in Germany she earned the praise of <strong>Debbie Desmond</strong> of Elitebull kennels, who called her the best constructed bitch of the whole event. She has two litters behind her, with truly typical puppies.</p>
 
   <p>Today she lives in the armchair, and that is exactly what should happen to a bitch after her career.</p>
 
@@ -48,13 +48,13 @@ custom_content: |
 
   <h2>Queen of California, spoilt without limits</h2>
 
-  <p>Queen is Italian Junior Champion 2026, and here too the title is the least interesting part. Her owners are special people, and they spoil her without limits: they take her to the swimming pool, they take her on holiday with them.</p>
+  <p><a href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" aria-label="Queen's pedigree on SBTPedigree (opens in a new tab)">Queen</a> is Italian Junior Champion 2026, and here too the title is the least interesting part. Her owners are special people, and they spoil her without limits: they take her to the swimming pool, they take her on holiday with them.</p>
 
   <p>A champion living like that is exactly what I hope for every dog that leaves here.</p>
 
   <h2>Lothar, and two twins</h2>
 
-  <p>Lothar is Italian Junior Champion and Slovenian Champion, but what matters is something else. The two twin brothers who handle him at shows have found in him <strong>a point of reference</strong>: preparing him, presenting him, learning that things come if you put the effort in.</p>
+  <p><a href="https://sbtpedigree.com/dog_details?dogs_id=4554911" target="_blank" rel="noopener" aria-label="Lothar's pedigree on SBTPedigree (opens in a new tab)">Lothar</a> is Italian Junior Champion and Slovenian Champion, but what matters is something else. The two twin brothers who handle him at shows have found in him <strong>a point of reference</strong>: preparing him, presenting him, learning that things come if you put the effort in.</p>
 
   <p>A dog that teaches two boys that is worth more than any grading in a catalogue.</p>
 

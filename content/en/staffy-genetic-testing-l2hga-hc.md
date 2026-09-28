@@ -99,7 +99,7 @@ custom_content: |
 
   <h2>Reading the results</h2>
   <p><strong>Clear</strong> means the dog has two normal copies of the gene. It cannot develop the disease and cannot pass the mutation to its offspring.</p>
-  <p><strong>Carrier</strong> means the dog has one normal copy and one mutated copy. It will never develop the disease itself, and it is not a defective animal: a carrier of excellent type and temperament is a perfectly legitimate breeding dog, provided it is only ever mated to a clear partner. Every puppy from such a mating is healthy, though half of them will be carriers in turn.</p>
+  <p><strong>Carrier</strong> means the dog has one normal copy and one mutated copy. It will never develop the disease itself. Mated to a clear dog it produces no affected puppies, but half the litter will be carriers in turn, and those carriers go to families who may one day breed them: the problem is moved one generation down. That is why carriers are not bred at Del Piccolo Diavolo.</p>
   <p><strong>Affected</strong> means two mutated copies. The dog will develop the disease and must never be bred.</p>
   <p>The single rule that makes the arithmetic safe is this: <strong>carrier to carrier must never happen</strong>. That mating produces, statistically, one affected puppy in four. Everything else is manageable.</p>
 
@@ -161,7 +161,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3>How much do the L2-HGA and HC tests cost?</h3>
-  <div class="faq-answer">The laboratory charges around 120 euros for the package covering L2-HGA and hereditary cataract, but the real cost to a breeder is higher: add the vet's sampling, shipping, and for PHPV a separate specialist eye examination. Two hundred to two hundred and fifty euros per dog is realistic. That figure should be read correctly, though: it is a <strong>one-off</strong>, because DNA does not change and the report stands for the dog's entire breeding career. Spread across two or three litters it becomes a minor line in the cost of a puppy. A breeder who skips the tests is not saving on the litter: they are shifting a risk onto the families who take those puppies.</div>
+  <div class="faq-answer">The laboratory charges around 120 euros for the package covering L2-HGA and hereditary cataract, but the real cost to a breeder is higher: add the vet's sampling, shipping, and for PHPV a separate specialist eye examination. Around 400 euros per dog is realistic. That figure should be read correctly, though: it is a <strong>one-off</strong>, because DNA does not change and the report stands for the dog's entire breeding career. Spread across two or three litters it becomes a minor line in the cost of a puppy. A breeder who skips the tests is not saving on the litter: they are shifting a risk onto the families who take those puppies.</div>
   </div>
 
   <div class="faq-item">

@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier in famiglia: dove sono oggi i nostri cani"
 titleSeo: "Staffordshire Bull Terrier in famiglia: storie vere"
 date: 2026-09-27
-lastmod: 2026-09-27
+lastmod: 2026-09-28
 translationKey: "storie-famiglie"
 articolo: true
 image: "/images/blog/storie-famiglie-hero.webp"
@@ -40,7 +40,7 @@ custom_content: |
 
   <h2>Cattleya, che dopo i ring vive in poltrona</h2>
 
-  <p>Cattleya vive a San Clemente, in provincia di Rimini, con Ricarda Mazzola Wagner. Ha fatto esposizioni anche all'estero, e a un raduno di razza in Germania si è presa i complimenti di <strong>Debbie Desmond</strong>, dell'allevamento Elitebull, che l'ha definita la cagna costruita meglio di tutta la manifestazione. Ha alle spalle due cucciolate, con cuccioli davvero tipici.</p>
+  <p><a href="https://sbtpedigree.com/dog_details?dogs_id=4477342" target="_blank" rel="noopener" aria-label="Pedigree di Cattleya su SBTPedigree (si apre in una nuova scheda)">Cattleya</a> vive a San Clemente, in provincia di Rimini, con Ricarda Mazzola Wagner. Ha fatto esposizioni anche all'estero, e a un raduno di razza in Germania si è presa i complimenti di <strong>Debbie Desmond</strong>, dell'allevamento Elitebull, che l'ha definita la cagna costruita meglio di tutta la manifestazione. Ha alle spalle due cucciolate, con cuccioli davvero tipici.</p>
 
   <p>Oggi vive in poltrona, ed è esattamente quello che deve succedere a una femmina dopo la carriera.</p>
 
@@ -48,13 +48,13 @@ custom_content: |
 
   <h2>Queen of California, coccolata a oltranza</h2>
 
-  <p>Queen è Giovane Campionessa Italiana 2026, e anche qui il titolo è la parte meno interessante. I suoi proprietari sono persone speciali, e la coccolano a oltranza: la portano in piscina, la portano in vacanza con loro.</p>
+  <p><a href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" aria-label="Pedigree di Queen su SBTPedigree (si apre in una nuova scheda)">Queen</a> è Giovane Campionessa Italiana 2026, e anche qui il titolo è la parte meno interessante. I suoi proprietari sono persone speciali, e la coccolano a oltranza: la portano in piscina, la portano in vacanza con loro.</p>
 
   <p>Una campionessa che vive così è esattamente ciò che spero per ogni cane che esce da qui.</p>
 
   <h2>Lothar, e due gemelli</h2>
 
-  <p>Lothar è Giovane Campione Italiano e Campione Sloveno, ma la parte che conta è un'altra. I due fratelli gemelli che lo portano in esposizione hanno trovato in lui <strong>un punto di riferimento</strong>: per prepararlo, per presentarlo, per capire che le cose vengono se ci metti impegno.</p>
+  <p><a href="https://sbtpedigree.com/dog_details?dogs_id=4554911" target="_blank" rel="noopener" aria-label="Pedigree di Lothar su SBTPedigree (si apre in una nuova scheda)">Lothar</a> è Giovane Campione Italiano e Campione Sloveno, ma la parte che conta è un'altra. I due fratelli gemelli che lo portano in esposizione hanno trovato in lui <strong>un punto di riferimento</strong>: per prepararlo, per presentarlo, per capire che le cose vengono se ci metti impegno.</p>
 
   <p>Un cane che insegna questo a due ragazzi vale più di qualsiasi qualifica in catalogo.</p>
 

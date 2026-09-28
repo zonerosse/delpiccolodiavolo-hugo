@@ -39,7 +39,7 @@ custom_content: |
 
   <h2>Die Phase: was die Verhaltensforschung sagt</h2>
 
-  <p>Das ist keine Meinung, sondern gesicherte Literatur. Die <strong>sensible Phase der Sozialisierung</strong> reicht beim Hund etwa von der dritten bis zur zwölften Lebenswoche, mit dem Kern zwischen der vierten und der achten.</p>
+  <p>Das ist keine Meinung, sondern gesicherte Literatur. Die <strong>sensible Phase der Sozialisierung</strong> reicht beim Hund etwa von der dritten bis zur zwölften Lebenswoche, mit dem Kern zwischen der vierten und der achten. Die klassische Grundlage sind die Arbeiten von Scott und Fuller aus dem Jahr 1965; heute nennt das <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="Positionspapier der AVSAB zur Welpensozialisierung (wird in einem neuen Tab geöffnet)">Positionspapier der AVSAB zur Welpensozialisierung</a> die ersten drei Lebensmonate als wichtigste Zeit und rät davon ab, mit dem Beginn bis zum Ende der Impfungen zu warten.</p>
 
   <p>In diesen Wochen baut der Welpe die Kategorie &bdquo;normal&ldquo; auf. Was er trifft &mdash; Menschen, Geräusche, Untergründe, andere Tiere &mdash; geht mühelos hinein. Was er nicht trifft, bleibt für immer etwas, das bewertet werden muss, und als erwachsener Hund bewertet er es mit den Mitteln eines Erwachsenen: Vorsicht, Wachsamkeit, manchmal Reaktivität.</p>
 

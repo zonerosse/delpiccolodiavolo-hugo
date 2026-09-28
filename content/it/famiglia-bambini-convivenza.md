@@ -101,6 +101,8 @@ custom_content: |
   
   <p><strong>Nota importante:</strong> Queste sono tendenze generali - la variabilità individuale è enorme. Un maschio specifico può essere più calmo di molte femmine e viceversa.</p>
   
+  <p>I dati dicono che questa regola non è eccessiva. Nei bambini piccoli la maggior parte dei morsi avviene in casa, spesso al volto, alla testa o al collo, e a mordere è un cane che il bambino conosce; quasi sempre il morso arriva dopo un'interazione cominciata dal bambino, come riassume <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5582199/" target="_blank" rel="noopener" aria-label="Arhant e colleghi, Frontiers in Veterinary Science 2017 (si apre in una nuova scheda)">uno studio del 2017 su Frontiers in Veterinary Science</a>. Il programma <a href="https://bluedog.blogs.lincoln.ac.uk/professionals/dog-bite-data/" target="_blank" rel="noopener" aria-label="Blue Dog, Università di Lincoln (si apre in una nuova scheda)">Blue Dog dell’Università di Lincoln</a> stima che circa tre morsi su quattro ai bambini avvengano nella loro casa, da parte di un cane familiare. Non è una questione di razza: è una questione di sorveglianza.</p>
+
   <h2>Segnali di Stress del Cane: Impara a Riconoscerli</h2>
   
   <p>Riconoscere i <strong>segnali di stress</strong> è fondamentale per prevenire incidenti. Il cane comunica disagio molto prima di arrivare al morso - sta a noi leggere i messaggi.</p>

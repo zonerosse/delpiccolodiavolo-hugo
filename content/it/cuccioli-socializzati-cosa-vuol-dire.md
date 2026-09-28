@@ -2,7 +2,7 @@
 title: "Cuccioli già socializzati: cosa vuol dire davvero"
 titleSeo: "Cuccioli socializzati: cosa vuol dire davvero"
 date: 2026-09-26
-lastmod: 2026-09-26
+lastmod: 2026-09-28
 translationKey: "socializzazione-affido"
 articolo: true
 image: "/images/blog/socializzazione-cortile-hero.webp"
@@ -39,7 +39,7 @@ custom_content: |
 
   <h2>La finestra: cosa dice l'etologia</h2>
 
-  <p>Su questo non c'&egrave; la mia opinione, c'&egrave; letteratura consolidata. Il <strong>periodo sensibile per la socializzazione</strong> del cane va grosso modo dalla terza alla dodicesima settimana di vita, con il momento centrale fra la quarta e l'ottava.</p>
+  <p>Su questo non c'&egrave; la mia opinione, c'&egrave; letteratura consolidata. Il <strong>periodo sensibile per la socializzazione</strong> del cane va grosso modo dalla terza alla dodicesima settimana di vita, con il momento centrale fra la quarta e l'ottava. Il riferimento classico sono gli studi di Scott e Fuller, pubblicati nel 1965; oggi la <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="Position statement AVSAB sulla socializzazione del cucciolo (si apre in una nuova scheda)">posizione dell’AVSAB sulla socializzazione</a> indica i primi tre mesi di vita come il periodo più importante, e raccomanda di non aspettare la fine delle vaccinazioni per cominciare.</p>
 
   <p>In quelle settimane il cucciolo costruisce la categoria &laquo;normale&raquo;. Quello che incontra &mdash; persone, rumori, superfici, altri animali &mdash; ci entra dentro senza sforzo. Quello che non incontra rester&agrave; per sempre qualcosa da valutare, e da adulto lo valuter&agrave; con gli strumenti di un adulto: prudenza, allerta, a volte reattivit&agrave;.</p>
 

@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier in der Familie: wo unsere Hunde heute sind"
 titleSeo: "Staffordshire Bull Terrier in der Familie: wahre Geschichten"
 date: 2026-09-27
-lastmod: 2026-09-27
+lastmod: 2026-09-28
 translationKey: "storie-famiglie"
 articolo: true
 image: "/images/blog/storie-famiglie-hero.webp"
@@ -40,7 +40,7 @@ custom_content: |
 
   <h2>Cattleya, die nach dem Ring im Sessel lebt</h2>
 
-  <p>Cattleya lebt in San Clemente, in der Provinz Rimini, bei Ricarda Mazzola Wagner. Sie wurde auch im Ausland ausgestellt, und auf einer Rasseausstellung in Deutschland bekam sie das Lob von <strong>Debbie Desmond</strong> vom Zwinger Elitebull, die sie als die am besten gebaute Hündin der ganzen Veranstaltung bezeichnete. Sie hat zwei Würfe hinter sich, mit wirklich typischen Welpen.</p>
+  <p><a href="https://sbtpedigree.com/dog_details?dogs_id=4477342" target="_blank" rel="noopener" aria-label="Ahnentafel von Cattleya auf SBTPedigree (wird in einem neuen Tab geöffnet)">Cattleya</a> lebt in San Clemente, in der Provinz Rimini, bei Ricarda Mazzola Wagner. Sie wurde auch im Ausland ausgestellt, und auf einer Rasseausstellung in Deutschland bekam sie das Lob von <strong>Debbie Desmond</strong> vom Zwinger Elitebull, die sie als die am besten gebaute Hündin der ganzen Veranstaltung bezeichnete. Sie hat zwei Würfe hinter sich, mit wirklich typischen Welpen.</p>
 
   <p>Heute lebt sie im Sessel, und genau das sollte mit einer Hündin nach ihrer Karriere geschehen.</p>
 
@@ -48,13 +48,13 @@ custom_content: |
 
   <h2>Queen of California, verwöhnt ohne Ende</h2>
 
-  <p>Queen ist Italienische Jugendchampionesse 2026, und auch hier ist der Titel das Uninteressanteste. Ihre Besitzer sind besondere Menschen und verwöhnen sie ohne Ende: Sie nehmen sie mit ins Schwimmbad, sie nehmen sie mit in den Urlaub.</p>
+  <p><a href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" aria-label="Ahnentafel von Queen auf SBTPedigree (wird in einem neuen Tab geöffnet)">Queen</a> ist Italienische Jugendchampionesse 2026, und auch hier ist der Titel das Uninteressanteste. Ihre Besitzer sind besondere Menschen und verwöhnen sie ohne Ende: Sie nehmen sie mit ins Schwimmbad, sie nehmen sie mit in den Urlaub.</p>
 
   <p>Eine Championesse, die so lebt, ist genau das, was ich mir für jeden Hund wünsche, der von hier weggeht.</p>
 
   <h2>Lothar und zwei Zwillinge</h2>
 
-  <p>Lothar ist Italienischer Jugendchampion und Slowenischer Champion, aber worauf es ankommt, ist etwas anderes. Die beiden Zwillingsbrüder, die ihn auf Ausstellungen vorführen, haben in ihm <strong>einen festen Bezugspunkt</strong> gefunden: ihn vorbereiten, ihn präsentieren, begreifen, dass die Dinge kommen, wenn man sich einsetzt.</p>
+  <p><a href="https://sbtpedigree.com/dog_details?dogs_id=4554911" target="_blank" rel="noopener" aria-label="Ahnentafel von Lothar auf SBTPedigree (wird in einem neuen Tab geöffnet)">Lothar</a> ist Italienischer Jugendchampion und Slowenischer Champion, aber worauf es ankommt, ist etwas anderes. Die beiden Zwillingsbrüder, die ihn auf Ausstellungen vorführen, haben in ihm <strong>einen festen Bezugspunkt</strong> gefunden: ihn vorbereiten, ihn präsentieren, begreifen, dass die Dinge kommen, wenn man sich einsetzt.</p>
 
   <p>Ein Hund, der zwei Jungen das beibringt, ist mehr wert als jede Bewertung im Katalog.</p>
 

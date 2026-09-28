@@ -2,7 +2,7 @@
 title: "\"Already socialised puppies\": what it really means"
 titleSeo: "Socialised puppies: what it really means"
 date: 2026-09-26
-lastmod: 2026-09-27
+lastmod: 2026-09-28
 translationKey: "socializzazione-affido"
 articolo: true
 image: "/images/blog/socializzazione-cortile-hero.webp"
@@ -39,7 +39,7 @@ custom_content: |
 
   <h2>The window: what ethology says</h2>
 
-  <p>This is not my opinion, it is settled literature. The <strong>sensitive period for socialisation</strong> in dogs runs roughly from the third to the twelfth week of life, with the core between the fourth and the eighth.</p>
+  <p>This is not my opinion, it is settled literature. The <strong>sensitive period for socialisation</strong> in dogs runs roughly from the third to the twelfth week of life, with the core between the fourth and the eighth. The classic reference is the work of Scott and Fuller, published in 1965; today the <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="AVSAB position statement on puppy socialisation (opens in a new tab)">AVSAB position statement on puppy socialisation</a> names the first three months of life as the most important period, and advises against waiting for the end of the vaccination course to begin.</p>
 
   <p>During those weeks the puppy builds the category &ldquo;normal&rdquo;. Whatever it meets &mdash; people, noises, surfaces, other animals &mdash; goes in effortlessly. Whatever it does not meet will forever be something to assess, and as an adult it will assess it with an adult's tools: caution, alertness, sometimes reactivity.</p>
 
