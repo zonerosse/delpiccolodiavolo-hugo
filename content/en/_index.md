@@ -163,19 +163,19 @@ custom_content: |
   <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem;margin:1.2rem 0 1rem">
   <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
   <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">L2HGA</div>
-  <div style="font-size:.85rem;color:#8b7355;margin-bottom:.5rem">L-2-hydroxyglutaric aciduria</div>
+  <div style="font-size:.85rem;color:#7a6448;margin-bottom:.5rem">L-2-hydroxyglutaric aciduria</div>
   <p style="margin:0;font-size:.95rem;line-height:1.6">A neurological disease that usually appears in the first years of life: tremors, unsteady gait, seizures. There is no cure.</p>
   <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Tested: all breeding dogs</div>
   </div>
   <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
   <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">HC (HSF4 gene)</div>
-  <div style="font-size:.85rem;color:#8b7355;margin-bottom:.5rem">Hereditary cataract</div>
+  <div style="font-size:.85rem;color:#7a6448;margin-bottom:.5rem">Hereditary cataract</div>
   <p style="margin:0;font-size:.95rem;line-height:1.6">The lens of the eye turns cloudy at a young age, often within the first two or three years, leading to blindness.</p>
   <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Tested: all breeding dogs</div>
   </div>
   <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
   <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">DM-SOD1</div>
-  <div style="font-size:.85rem;color:#8b7355;margin-bottom:.5rem">Degenerative myelopathy</div>
+  <div style="font-size:.85rem;color:#7a6448;margin-bottom:.5rem">Degenerative myelopathy</div>
   <p style="margin:0;font-size:.95rem;line-height:1.6">A disease of the spinal cord that appears after eight years of age and slowly leads to paralysis of the hind legs. There is no cure.</p>
   <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Tested: the brood bitches</div>
   </div>

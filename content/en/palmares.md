@@ -76,85 +76,85 @@ custom_content: |
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
   <span>Breed Specialty, Bologna (BO) - 15 Feb 2025</span>
   <span style="color:#8b5a2b;font-weight:600">Champion Class</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
   <span>National Show, Firenze (FI) - 13 Apr 2024</span>
   <span style="color:#8b5a2b;font-weight:600">CAC</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
   <span>International Show, Ferrara (FE) - 17 Mar 2024</span>
   <span style="color:#8b5a2b;font-weight:600">CAC + CACIB</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
   <span>International Show, Ferrara (FE) - 16 Mar 2024</span>
   <span style="color:#8b5a2b;font-weight:600">CAC</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
   <span>International Show, Cagliari (CA) - 25 Feb 2024</span>
   <span style="color:#8b5a2b;font-weight:600">CAC + CACIB</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
   <span>International Show, Bologna (BO) - 15-18 Feb 2024</span>
   <span style="color:#8b5a2b;font-weight:600">4x CAC + 4x CACIB</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
   <span>International Show, Busto Arsizio (VA) - 14 Jan 2024</span>
   <span style="color:#8b5a2b;font-weight:600">CAC + CACIB</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
   <span>Breed Specialty, Bologna (BO) - 16-17 Dec 2023</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
   <span>International Show, Busto Arsizio (VA) - 3-4 Nov 2023</span>
   <span style="color:#8b5a2b;font-weight:600">2x JCAC + 2x JCACIB</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
   <span>International Show, Montesilvano (PE) - 22 Oct 2023</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
   <span>International Show, Bastia Umbra (PG) - 8 Oct 2023</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
   <span>International Show, L'Aquila (AQ) - 6 Aug 2023</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
   <span>International Show, Narni (TR) - 24-25 Jun 2023</span>
   <span style="color:#8b5a2b;font-weight:600">2x JCAC + 2x JCACIB</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">VP 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">VP 1</span>
   <span>Breed Specialty, Bologna (BO) - 18 Feb 2023</span>
   <span style="color:#8b5a2b;font-weight:600">Baby Class</span>
   </div>
@@ -232,61 +232,61 @@ custom_content: |
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
   <span>Breed Specialty, Bologna (BO) - 29 Nov 2025</span>
   <span style="color:#8b5a2b;font-weight:600">Intermediate Class</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
   <span>National Show, Monza (MB) - 20-21 Sep 2025</span>
   <span style="color:#8b5a2b;font-weight:600">CAC</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
   <span>International Show, Mondovi (CN) - 31 Aug 2025</span>
   <span style="color:#8b5a2b;font-weight:600">CAC + Res. CACIB</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
   <span>Breed Specialty, Carrara (MS) - 7 Jun 2025</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
   <span>National Show, Livorno (LI) - 17 May 2025</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
   <span>National Show, Seveso (MB) - 11 May 2025</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
   <span>National Show, Livraga (LO) - 3-4 May 2025</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
   <span>National Show, Borgo d'Ale (VC) - 13 Apr 2025</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
   <span>International Show, Montichiari (BS) - 6 Apr 2025</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
   <span>International Show, Riva del Garda (TN) - 8 Mar 2025</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
   </div>
@@ -323,7 +323,7 @@ custom_content: |
   <div class="risultati-grid" style="display:grid;gap:0.75rem;margin-top:1.5rem">
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">JUN. 1st</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">JUN. 1st</span>
   <span>National Show Albarella (RO) - 17 May 2026</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC · JBOB · BOB</span>
   </div>

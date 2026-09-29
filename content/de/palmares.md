@@ -75,85 +75,85 @@ custom_content: |
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Rassespezialausstellung, Bologna (BO) - 15 Feb. 2025</span>
   <span style="color:#8b5a2b;font-weight:600">Championklasse</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Nationale Ausstellung, Firenze (FI) - 13 Apr. 2024</span>
   <span style="color:#8b5a2b;font-weight:600">CAC</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, Ferrara (FE) - 17 März 2024</span>
   <span style="color:#8b5a2b;font-weight:600">CAC + CACIB</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, Ferrara (FE) - 16 März 2024</span>
   <span style="color:#8b5a2b;font-weight:600">CAC</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, Cagliari (CA) - 25 Feb. 2024</span>
   <span style="color:#8b5a2b;font-weight:600">CAC + CACIB</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, Bologna (BO) - 15-18 Feb. 2024</span>
   <span style="color:#8b5a2b;font-weight:600">4x CAC + 4x CACIB</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, Busto Arsizio (VA) - 14 Jan. 2024</span>
   <span style="color:#8b5a2b;font-weight:600">CAC + CACIB</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Rassespezialausstellung, Bologna (BO) - 16-17 Dez. 2023</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, Busto Arsizio (VA) - 3-4 Nov. 2023</span>
   <span style="color:#8b5a2b;font-weight:600">2x JCAC + 2x JCACIB</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, Montesilvano (PE) - 22 Okt. 2023</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, Bastia Umbra (PG) - 8 Okt. 2023</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, L'Aquila (AQ) - 6 Aug. 2023</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, Narni (TR) - 24-25 Juni 2023</span>
   <span style="color:#8b5a2b;font-weight:600">2x JCAC + 2x JCACIB</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">VV 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">VV 1</span>
   <span>Rassespezialausstellung, Bologna (BO) - 18 Feb. 2023</span>
   <span style="color:#8b5a2b;font-weight:600">Babyklasse</span>
   </div>
@@ -228,61 +228,61 @@ custom_content: |
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Rassespezialausstellung, Bologna (BO) - 29 Nov. 2025</span>
   <span style="color:#8b5a2b;font-weight:600">Zwischenklasse</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Nationale Ausstellung, Monza (MB) - 20-21 Sep. 2025</span>
   <span style="color:#8b5a2b;font-weight:600">CAC</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, Mondovi (CN) - 31 Aug. 2025</span>
   <span style="color:#8b5a2b;font-weight:600">CAC + Res. CACIB</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Rassespezialausstellung, Carrara (MS) - 7 Juni 2025</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Nationale Ausstellung, Livorno (LI) - 17 Mai 2025</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Nationale Ausstellung, Seveso (MB) - 11 Mai 2025</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Nationale Ausstellung, Livraga (LO) - 3-4 Mai 2025</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Nationale Ausstellung, Borgo d'Ale (VC) - 13 Apr. 2025</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, Montichiari (BS) - 6 Apr. 2025</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, Riva del Garda (TN) - 8 März 2025</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
   </div>
@@ -319,7 +319,7 @@ custom_content: |
   <div class="risultati-grid" style="display:grid;gap:0.75rem;margin-top:1.5rem">
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#fff;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">JUG. 1.</span>
+  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">JUG. 1.</span>
   <span>Nationale Ausstellung Albarella (RO) - 17. Mai 2026</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC · JBOB · BOB</span>
   </div>

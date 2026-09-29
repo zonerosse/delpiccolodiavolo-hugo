@@ -163,19 +163,19 @@ custom_content: |
   <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem;margin:1.2rem 0 1rem">
   <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
   <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">L2HGA</div>
-  <div style="font-size:.85rem;color:#8b7355;margin-bottom:.5rem">L-2-Hydroxyglutarazidurie</div>
+  <div style="font-size:.85rem;color:#7a6448;margin-bottom:.5rem">L-2-Hydroxyglutarazidurie</div>
   <p style="margin:0;font-size:.95rem;line-height:1.6">Eine neurologische Erkrankung, die meist in den ersten Lebensjahren auftritt: Zittern, unsicherer Gang, epileptische Anfälle. Eine Heilung gibt es nicht.</p>
   <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Getestet: alle Zuchttiere</div>
   </div>
   <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
   <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">HC (Gen HSF4)</div>
-  <div style="font-size:.85rem;color:#8b7355;margin-bottom:.5rem">Erbliche Katarakt</div>
+  <div style="font-size:.85rem;color:#7a6448;margin-bottom:.5rem">Erbliche Katarakt</div>
   <p style="margin:0;font-size:.95rem;line-height:1.6">Die Augenlinse trübt sich schon in jungen Jahren ein, oft in den ersten zwei oder drei Lebensjahren, bis zur Erblindung.</p>
   <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Getestet: alle Zuchttiere</div>
   </div>
   <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
   <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">DM-SOD1</div>
-  <div style="font-size:.85rem;color:#8b7355;margin-bottom:.5rem">Degenerative Myelopathie</div>
+  <div style="font-size:.85rem;color:#7a6448;margin-bottom:.5rem">Degenerative Myelopathie</div>
   <p style="margin:0;font-size:.95rem;line-height:1.6">Eine Erkrankung des Rückenmarks, die nach dem achten Lebensjahr auftritt und langsam zur Lähmung der Hinterbeine führt. Eine Heilung gibt es nicht.</p>
   <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Getestet: die Zuchthündinnen</div>
   </div>

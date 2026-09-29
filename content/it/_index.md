@@ -162,19 +162,19 @@ custom_content: |
   <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem;margin:1.2rem 0 1rem">
   <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
   <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">L2HGA</div>
-  <div style="font-size:.85rem;color:#8b7355;margin-bottom:.5rem">Aciduria L-2-idrossiglutarica</div>
+  <div style="font-size:.85rem;color:#7a6448;margin-bottom:.5rem">Aciduria L-2-idrossiglutarica</div>
   <p style="margin:0;font-size:.95rem;line-height:1.6">Malattia neurologica che compare di solito nei primi anni di vita: tremori, andatura incerta, crisi epilettiche. Non esiste una cura.</p>
   <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Testati: tutti i riproduttori</div>
   </div>
   <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
   <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">HC (gene HSF4)</div>
-  <div style="font-size:.85rem;color:#8b7355;margin-bottom:.5rem">Cataratta ereditaria</div>
+  <div style="font-size:.85rem;color:#7a6448;margin-bottom:.5rem">Cataratta ereditaria</div>
   <p style="margin:0;font-size:.95rem;line-height:1.6">Il cristallino dell'occhio si opacizza già da giovane, spesso entro i primi due o tre anni, fino a portare alla cecità.</p>
   <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Testati: tutti i riproduttori</div>
   </div>
   <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
   <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">DM-SOD1</div>
-  <div style="font-size:.85rem;color:#8b7355;margin-bottom:.5rem">Mielopatia degenerativa</div>
+  <div style="font-size:.85rem;color:#7a6448;margin-bottom:.5rem">Mielopatia degenerativa</div>
   <p style="margin:0;font-size:.95rem;line-height:1.6">Malattia del midollo spinale che compare dopo gli otto anni e porta lentamente alla paralisi delle zampe posteriori. Non esiste una cura.</p>
   <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Testate: le fattrici</div>
   </div>

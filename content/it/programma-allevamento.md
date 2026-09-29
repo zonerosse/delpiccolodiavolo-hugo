@@ -69,9 +69,9 @@ custom_content: |
   <p style="font-family:Georgia,'Times New Roman',serif;font-size:1.3rem;font-style:italic;color:#f5ede0;line-height:1.8;margin:0">
   "Poche cucciolate l'anno, scelte una per una.<br>
   Prima ci si conosce. Il resto viene dopo."
-   Ogni cucciolata nata qui, con genitori, test, esami e foto della crescita, è raccontata nel <a href="/diario-allevamento/" title="Diario dell'allevamento">diario dell'allevamento</a>.</p>
+   Ogni cucciolata nata qui, con genitori, test, esami e foto della crescita, è raccontata nel <a href="/diario-allevamento/" title="Diario dell'allevamento" style="color:#e0b77a;text-decoration:underline">diario dell'allevamento</a>.</p>
   <span style="display:block;width:40px;height:1px;background:#c9a227;margin:1rem auto 0"></span>
-  <footer style="margin-top:0.75rem;font-size:0.75rem;color:#7d620e;letter-spacing:0.2em;text-transform:uppercase;font-weight:700;font-style:normal">Del Piccolo Diavolo · Dal 2013</footer>
+  <footer style="margin-top:0.75rem;font-size:0.75rem;color:#d9bb94;letter-spacing:0.2em;text-transform:uppercase;font-weight:700;font-style:normal">Del Piccolo Diavolo · Dal 2013</footer>
   </blockquote>
   </div>
   </section>
