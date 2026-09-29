@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "anziani"
 articolo: true
 image: "/images/blog/famiglia-2.webp"
+og_image: "/images/og/schede/en/staffy-elderly-owners.jpg"
+og_image_alt: "Is a Staffordshire Bull Terrier right for older owners? — Allevamento Del Piccolo Diavolo"
 description: "Staffordshire Bull Terriers for elderly owners: respecting rhythms, exercise needs, manageable energy levels and companionship benefits."
 slug: "staffy-elderly-owners"
 custom_content: |
@@ -91,7 +93,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is a puppy or an adult better for an older owner?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Almost always an adult, and it is not second best. A puppy means broken nights, toilet trips every two hours, nipping, and eight months of unpredictability while its character forms. An adult of three to six years has a temperament already expressed: you know whether it lives with cats, how it copes alone at home, how hard it pulls on the lead, and it is not a gamble. The rhythm of an adult dog is also much closer to that of an older person. The usual objection is the bond, but the bond does not depend on the age at which the dog arrives: Staffies attach deeply as adults too. For people who come to us, a dog we bred that becomes available again is often the best solution.
+  <div class="faq-answer">Almost always an adult, and it is not second best. A puppy means broken nights, toilet trips every two hours, nipping, and eight months of unpredictability while its character forms. An adult of three to six years has a temperament already expressed: you know whether it lives with cats, how it copes alone at home, how hard it pulls on the lead, and it is not a gamble. The rhythm of an adult dog is also much closer to that of an older person. The usual objection is the bond, but the bond does not depend on the age at which the dog arrives: Staffies attach deeply as adults too. For people who come to the Del Piccolo Diavolo kennel, a dog we bred that becomes available again is often the best solution.
   </div>
   </div>
 
@@ -118,7 +120,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What happens to the dog if I go into hospital?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">It is the most important question and the one almost nobody asks in time. The practical answer is three levels, arranged <strong>beforehand</strong>: one person who has the keys and knows where the food and health record are, a second person in reserve, and a boarding kennel or dog sitter already tried, not searched for in a hurry. Keep a sheet in plain view with the dog's name, microchip, vet, current treatments and contacts. For the longer term, it is worth putting in writing who should take the dog permanently, because without instructions the question falls on relatives who may not be able to keep it. The dogs we have bred come back to us in any case, at any time and for any reason.
+  <div class="faq-answer">It is the most important question and the one almost nobody asks in time. The practical answer is three levels, arranged <strong>beforehand</strong>: one person who has the keys and knows where the food and health record are, a second person in reserve, and a boarding kennel or dog sitter already tried, not searched for in a hurry. Keep a sheet in plain view with the dog's name, microchip, vet, current treatments and contacts. For the longer term, it is worth putting in writing who should take the dog permanently, because without instructions the question falls on relatives who may not be able to keep it. Dogs bred by the Del Piccolo Diavolo kennel come back to us in any case, at any time and for any reason.
   </div>
   </div>
 

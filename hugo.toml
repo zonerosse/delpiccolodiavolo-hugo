@@ -113,6 +113,14 @@ enableRobotsTXT = true
     isHTML = false
     notAlternative = true
 
+  # llms.txt generato da assets/llms/<lingua>.txt (layouts/index.llmstxt.txt)
+  [outputFormats.LLMSTXT]
+    mediaType = "text/plain"
+    baseName = "llms"
+    isPlainText = true
+    isHTML = false
+    notAlternative = true
+
   [outputFormats.LLMSFULL]
     mediaType = "text/plain"
     baseName = "llms-full"
@@ -121,7 +129,7 @@ enableRobotsTXT = true
     rel = "alternate"
 
 [outputs]
-  home = ["HTML", "sitemap", "MARKDOWN", "LLMSFULL", "HEADERS"]
+  home = ["HTML", "sitemap", "MARKDOWN", "LLMSTXT", "LLMSFULL", "HEADERS"]
   page = ["HTML", "MARKDOWN"]
 
 # Feed RSS del programma di allevamento: una voce per ogni scheda cucciolata

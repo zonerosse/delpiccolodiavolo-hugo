@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "scelta-linee"
 articolo: true
 image: "/images/blog/standard-2.webp"
+og_image: "/images/og/schede/en/choosing-bloodlines.jpg"
+og_image_alt: "Choosing Staffordshire Bull Terrier bloodlines — Allevamento Del Piccolo Diavolo"
 description: "How to choose a Staffordshire Bull Terrier bloodline for a puppy: what you want from the dog, what differs between lines, and what to ask the breeder."
 slug: "choosing-bloodlines"
 custom_content: |
@@ -94,7 +96,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Which are the main Staffy bloodlines?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Internationally, the names that recur most often are those of a few historic British and Irish kennels that shaped the breed: their dogs now appear in pedigrees across half of Europe, even several generations back. In our case we work with <strong>Elitebull</strong>, English, and <strong>Lackyle</strong>, Irish. They are not two alternatives: Lackyle came first, and its historic dogs are found in Elitebull pedigrees, so the second line contains the first. The choice is not a matter of taste: these are documented lines, verifiable on SBTPedigree, that breed predictably, which is what you need when a mating is planned rather than hoped for.
+  <div class="faq-answer">Internationally, the names that recur most often are those of a few historic British and Irish kennels that shaped the breed: their dogs now appear in pedigrees across half of Europe, even several generations back. The Del Piccolo Diavolo kennel works with <strong>Elitebull</strong>, English, and <strong>Lackyle</strong>, Irish. They are not two alternatives: Lackyle came first, and its historic dogs are found in Elitebull pedigrees, so the second line contains the first. The choice is not a matter of taste: these are documented lines, verifiable on SBTPedigree, that breed predictably, which is what you need when a mating is planned rather than hoped for.
   </div>
   </div>
 

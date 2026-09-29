@@ -31,7 +31,7 @@ custom_content: |
   <span class="hero-eyebrow">Del Piccolo Diavolo Kennel</span>
   <h1 class="hero-title"><em>Staffordshire</em> <br>Bull Terrier <br>Puppies</h1>
   <p class="hero-subtitle">Elitebull and Lackyle Lines - Since 2013</p>
-  <p class="hero-description">Our puppies are born in the house and stay there for the first month, then grow up between house and yard. We select for health, character and breed type, on English (Elitebull) and Irish (Lackyle) lines documented on SBTPedigree.</p>
+  <p class="hero-description">Del Piccolo Diavolo puppies are born in the house and stay there for the first month, then grow up between house and yard. We select for health, character and breed type, on English (Elitebull) and Irish (Lackyle) lines documented on SBTPedigree.</p>
   <div class="hero-actions">
   <a href="/en/litters-staffordshire-bull-terrier/" class="btn btn-primary" title="See available puppies">Available Puppies</a>
   <a href="https://wa.me/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20puppies" class="btn btn-ghost" title="Contact us on WhatsApp">Contact Us</a>
@@ -224,7 +224,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3>Can I visit the kennel before deciding?</h3>
-  <p>Yes, and it is the right way to get to know us. We receive by appointment in Ostellato, in the province of Ferrara, so that we can give you all the time you need without stressing the dogs. During the visit you see the adult dogs and the mother of the litter, the place where the puppies are born and grow up, and you check pedigrees and test reports in person. It is also when we ask you a few questions: how many hours the dog will be alone, who is at home, what happens in summer. It is not an interrogation; it is how we work out whether that puppy and that family fit. <strong>Anyone who takes one of our puppies comes here</strong>: we do not ship dogs.</p>
+  <p>Yes, and it is the right way to get to know us. The Del Piccolo Diavolo kennel receives visitors by appointment in Ostellato, in the province of Ferrara, so that we can give you all the time you need without stressing the dogs. During the visit you see the adult dogs and the mother of the litter, the place where the puppies are born and grow up, and you check pedigrees and test reports in person. It is also when we ask you a few questions: how many hours the dog will be alone, who is at home, what happens in summer. It is not an interrogation; it is how we work out whether that puppy and that family fit. <strong>Anyone who takes a Del Piccolo Diavolo puppy comes here</strong>: we do not ship dogs.</p>
   </div>
   
   <div style="text-align:center;margin-top:1.5rem">

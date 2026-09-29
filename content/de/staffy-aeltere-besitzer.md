@@ -5,6 +5,8 @@ lastmod: 2026-09-29
 translationKey: "anziani"
 articolo: true
 image: "/images/blog/famiglia-3.jpg"
+og_image: "/images/og/schede/de/staffy-aeltere-besitzer.jpg"
+og_image_alt: "Staffordshire Bull Terrier für ältere Besitzer — Allevamento Del Piccolo Diavolo"
 description: "Ist der Staffordshire Bull Terrier für ältere Menschen geeignet? Kraft, Bewegungsbedarf und Handhabung, ehrlich betrachtet, mit Alternativen im Zweifel."
 slug: "staffy-aeltere-besitzer"
 custom_content: |
@@ -86,7 +88,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Welpe oder erwachsener Hund für ältere Halter?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Fast immer ein erwachsener Hund, und das ist keine Notlösung. Ein Welpe bedeutet unterbrochene Nächte, Gänge alle zwei Stunden, Zwicken und acht Monate Unberechenbarkeit, während sich sein Charakter formt. Ein Erwachsener von drei bis sechs Jahren hat sein Wesen schon gezeigt: man weiß, ob er mit Katzen lebt, wie er allein zu Hause zurechtkommt, wie stark er an der Leine zieht, und es ist keine Wette. Der Rhythmus eines erwachsenen Hundes ähnelt zudem viel mehr dem eines älteren Menschen. Der übliche Einwand ist die Bindung, doch die hängt nicht vom Alter ab, in dem der Hund kommt: Staffies binden sich auch als Erwachsene tief. Für Menschen, die zu uns kommen, ist ein Hund aus unserer Zucht, der wieder verfügbar wird, oft die beste Lösung.
+  <div class="faq-answer">Fast immer ein erwachsener Hund, und das ist keine Notlösung. Ein Welpe bedeutet unterbrochene Nächte, Gänge alle zwei Stunden, Zwicken und acht Monate Unberechenbarkeit, während sich sein Charakter formt. Ein Erwachsener von drei bis sechs Jahren hat sein Wesen schon gezeigt: man weiß, ob er mit Katzen lebt, wie er allein zu Hause zurechtkommt, wie stark er an der Leine zieht, und es ist keine Wette. Der Rhythmus eines erwachsenen Hundes ähnelt zudem viel mehr dem eines älteren Menschen. Der übliche Einwand ist die Bindung, doch die hängt nicht vom Alter ab, in dem der Hund kommt: Staffies binden sich auch als Erwachsene tief. Für Menschen, die zu uns kommen, ist ein Hund aus der Zucht Del Piccolo Diavolo, der wieder verfügbar wird, oft die beste Lösung.
   </div>
   </div>
 
@@ -113,7 +115,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was passiert mit dem Hund, wenn ich ins Krankenhaus muss?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Es ist die wichtigste Frage und die, die fast niemand rechtzeitig stellt. Die praktische Antwort sind drei Stufen, die man <strong>vorher</strong> einrichtet: eine Person, die die Schlüssel hat und weiß, wo Futter und Heimtierausweis sind, eine zweite Person als Reserve und eine schon erprobte Pension oder ein Hundesitter, nicht in Eile gesucht. Legen Sie gut sichtbar ein Blatt mit Name des Hundes, Mikrochip, Tierarzt, laufenden Behandlungen und Kontakten bereit. Für die längere Sicht lohnt es sich, schriftlich festzuhalten, wer den Hund dauerhaft übernehmen soll, denn ohne Anweisungen fällt die Frage auf Verwandte, die ihn vielleicht nicht halten können. Die Hunde aus unserer Zucht kommen ohnehin zu uns zurück, jederzeit und aus jedem Grund.
+  <div class="faq-answer">Es ist die wichtigste Frage und die, die fast niemand rechtzeitig stellt. Die praktische Antwort sind drei Stufen, die man <strong>vorher</strong> einrichtet: eine Person, die die Schlüssel hat und weiß, wo Futter und Heimtierausweis sind, eine zweite Person als Reserve und eine schon erprobte Pension oder ein Hundesitter, nicht in Eile gesucht. Legen Sie gut sichtbar ein Blatt mit Name des Hundes, Mikrochip, Tierarzt, laufenden Behandlungen und Kontakten bereit. Für die längere Sicht lohnt es sich, schriftlich festzuhalten, wer den Hund dauerhaft übernehmen soll, denn ohne Anweisungen fällt die Frage auf Verwandte, die ihn vielleicht nicht halten können. Die Hunde aus der Zucht Del Piccolo Diavolo kommen ohnehin zu uns zurück, jederzeit und aus jedem Grund.
   </div>
   </div>
 

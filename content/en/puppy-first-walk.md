@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "passeggiata"
 articolo: true
 image: "/images/blog/cuccioli-5.webp"
+og_image: "/images/og/schede/en/puppy-first-walk.jpg"
+og_image_alt: "A puppy's first walk: when to start and how — Allevamento Del Piccolo Diavolo"
 description: "First leash walk for your Staffordshire Bull Terrier puppy: equipment, timing, positive introduction and building good walking habits."
 slug: "puppy-first-walk"
 custom_content: |

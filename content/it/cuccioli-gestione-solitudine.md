@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "solitudine"
 articolo: true
 image: "/images/blog/neonati-2-hero.webp"
+og_image: "/images/og/schede/it/cuccioli-gestione-solitudine.jpg"
+og_image_alt: "Insegnare al cucciolo a restare solo, senza stress — Allevamento Del Piccolo Diavolo"
 description: "Insegnare al cucciolo a stare solo senza ansia da separazione: da pochi minuti a qualche ora, con i tempi reali e gli errori che peggiorano il problema."
 slug: "cuccioli-gestione-solitudine"
 custom_content: |

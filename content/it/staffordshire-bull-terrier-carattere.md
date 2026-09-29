@@ -5,6 +5,8 @@ titleSeo: "Temperamento dello Staffy: come è stato selezionato"
 articolo: true
 translationKey: "carattere"
 image: "/images/blog/temperamento-staffy-hero.webp"
+og_image: "/images/og/schede/it/staffordshire-bull-terrier-carattere.jpg"
+og_image_alt: "Temperamento dello Staffy: come è stato selezionato — Allevamento Del Piccolo Diavolo"
 description: "Perché lo Staffordshire Bull Terrier ha questo carattere: la selezione storica, cosa dice lo standard e come si valuta il temperamento di un cucciolo."
 slug: "staffordshire-bull-terrier-carattere"
 date: 2026-01-18
@@ -73,7 +75,7 @@ correlati:
 
 <h2>Cosa selezioniamo, in concreto</h2>
 
-<p>Nel <a href="/">nostro allevamento</a> il carattere non è un auspicio ma un criterio di esclusione. Un soggetto che mostra insicurezza marcata, reattività eccessiva o diffidenza verso le persone non entra nel programma di riproduzione, per quanto sia corretto nella morfologia.</p>
+<p>Nell'<a href="/">allevamento Del Piccolo Diavolo</a> il carattere non è un auspicio ma un criterio di esclusione. Un soggetto che mostra insicurezza marcata, reattività eccessiva o diffidenza verso le persone non entra nel programma di riproduzione, per quanto sia corretto nella morfologia.</p>
 
 <p>La ragione è pratica: la morfologia si corregge in 2 o 3 generazioni scegliendo bene i partner, il carattere no. Un difetto caratteriale si propaga a lungo e si manifesta nelle case delle famiglie, non nel ring.</p>
 

@@ -6,6 +6,8 @@ titleSeo: "Staffordshire Bull Terrier: è il cane giusto per te?"
 translationKey: "cane-giusto"
 articolo: true
 image: "/images/blog/cuccioli-8.webp"
+og_image: "/images/og/schede/it/staffordshire-bull-terrier-e-il-cane-giusto-per-te.jpg"
+og_image_alt: "Staffordshire Bull Terrier: è il cane giusto per te? — Allevamento Del Piccolo Diavolo"
 description: "Lo Staffordshire Bull Terrier è il cane giusto per te? Pregi e difetti senza sconti, per chi è adatto e per chi no, e quanto impegno richiede ogni giorno."
 slug: "staffordshire-bull-terrier-e-il-cane-giusto-per-te"
 custom_content: |
@@ -159,10 +161,6 @@ custom_content: |
   <div class="faq-answer">In Italia non esiste pi&ugrave; una lista di razze pericolose dal 2009: l'ordinanza del Ministero della Salute ha abolito l'elenco e spostato la responsabilit&agrave; dalla razza al proprietario. Uno studio del Royal Veterinary College pubblicato nel 2020, su oltre 22.000 cani, non ha trovato differenze significative di aggressivit&agrave; attribuibili a questa razza. Verso le persone lo standard descrive un cane affidabile, e sulla selezione del carattere si gioca quasi tutto. La componente su cui vale invece la pena informarsi &egrave; un'altra, ed &egrave; la <strong>reattivit&agrave; verso gli altri cani</strong> tipica dei terrier. Resta un cane potente per la sua taglia: non pericoloso per razza, ma da gestire con la stessa serietà che merita qualsiasi cane robusto.</div>
   </div>
   
-  <div class="faq-item">
-  <h3 class="faq-question">Quanto vive uno Staffordshire Bull Terrier?</h3>
-  <div class="faq-answer">Dodici-quattordici anni, un'ottima aspettativa per un cane di taglia media. La razza &egrave; robusta e non ha n&eacute; le <a href="/boas-staffordshire-bull-terrier-respirazione/" title="BOAS e respirazione nello Staffordshire Bull Terrier">problematiche respiratorie dei brachicefali estremi</a> n&eacute; le patologie articolari tipiche delle taglie grandi. Le tre patologie ereditarie con un test del DNA &mdash; L2-HGA, cataratta ereditaria e mielopatia degenerativa &mdash; sono tutte recessive e si prevengono testando i riproduttori: due genitori esenti non possono produrre cuccioli malati. Dopo la genetica, la cosa che incide di pi&ugrave; sulla durata della vita &egrave; il <strong>peso</strong>: uno Staffy in sovrappeso invecchia prima, con articolazioni che si consumano e minore tolleranza al caldo. Dodici anni sono anche il periodo per cui ci si impegna quando si prende un cucciolo.</div>
-  </div>
   
   </section>
   

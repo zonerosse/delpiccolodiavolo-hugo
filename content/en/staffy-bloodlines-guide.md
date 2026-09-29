@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "linee-sangue"
 articolo: true
 image: "/images/blog/standard-1.webp"
+og_image: "/images/og/schede/en/staffy-bloodlines-guide.jpg"
+og_image_alt: "Staffy bloodlines: the history of the six lines — Allevamento Del Piccolo Diavolo"
 description: "History of Staffordshire Bull Terrier bloodlines: the six founding male lines, Gentleman Jim, the M-Line and R-Line, and English and Irish kennels today."
 slug: "staffy-bloodlines-guide"
 custom_content: |
@@ -136,7 +138,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3>What is the difference between the Irish and the English lines?</h3>
-  <div class="faq-answer">Less than is usually claimed. Descriptions that assign fixed traits by nationality &mdash; the English like this, the Irish like that &mdash; are simplifications: within each tradition there are very different kennels, and the lines have been crossing for decades. What can honestly be said is that certain historic kennels left a recognisable stamp on type, and that people who select learn to recognise it by looking at dogs rather than at flags. In our own case we work with <strong>Elitebull</strong>, English, and <strong>Lackyle</strong>, Irish &mdash; and these are not opposites, because Lackyle's historic dogs appear inside Elitebull pedigrees.</div>
+  <div class="faq-answer">Less than is usually claimed. Descriptions that assign fixed traits by nationality &mdash; the English like this, the Irish like that &mdash; are simplifications: within each tradition there are very different kennels, and the lines have been crossing for decades. What can honestly be said is that certain historic kennels left a recognisable stamp on type, and that people who select learn to recognise it by looking at dogs rather than at flags. The Del Piccolo Diavolo kennel works with <strong>Elitebull</strong>, English, and <strong>Lackyle</strong>, Irish &mdash; and these are not opposites, because Lackyle's historic dogs appear inside Elitebull pedigrees.</div>
   </div>
 
   <div class="faq-item">

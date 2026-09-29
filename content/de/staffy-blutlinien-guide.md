@@ -2,10 +2,12 @@
 title: "Staffordshire Bull Terrier Blutlinien Leitfaden"
 titleSeo: "Staffy-Blutlinien: die Geschichte der sechs Linien"
 date: 2025-11-08
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "linee-sangue"
 articolo: true
 image: "/images/blog/standard-1.webp"
+og_image: "/images/og/schede/de/staffy-blutlinien-guide.jpg"
+og_image_alt: "Staffy-Blutlinien: die Geschichte der sechs Linien — Allevamento Del Piccolo Diavolo"
 description: "Geschichte der Blutlinien des Staffordshire Bull Terrier: die sechs männlichen Gründerlinien, Gentleman Jim, M- und R-Linie und die Zuchten von heute."
 slug: "staffy-blutlinien-guide"
 custom_content: |
@@ -148,7 +150,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was ist der Unterschied zwischen irischen und englischen Linien?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Weniger, als gewöhnlich behauptet wird. Beschreibungen, die feste Merkmale nach Nationalität zuordnen &mdash; die Engländer so, die Iren anders &mdash;, sind Vereinfachungen: in jeder Tradition gibt es sehr unterschiedliche Zuchten, und die Linien kreuzen sich seit Jahrzehnten. Ehrlich sagen lässt sich, dass bestimmte historische Zuchten dem Typ einen erkennbaren Stempel aufgedrückt haben und dass, wer selektiert, ihn am Hund erkennen lernt, nicht an der Flagge. Wir selbst arbeiten mit <strong>Elitebull</strong>, englisch, und <strong>Lackyle</strong>, irisch &mdash; und das sind keine Gegensätze, denn die historischen Hunde von Lackyle stehen in den Ahnentafeln von Elitebull.
+  <div class="faq-answer">Weniger, als gewöhnlich behauptet wird. Beschreibungen, die feste Merkmale nach Nationalität zuordnen &mdash; die Engländer so, die Iren anders &mdash;, sind Vereinfachungen: in jeder Tradition gibt es sehr unterschiedliche Zuchten, und die Linien kreuzen sich seit Jahrzehnten. Ehrlich sagen lässt sich, dass bestimmte historische Zuchten dem Typ einen erkennbaren Stempel aufgedrückt haben und dass, wer selektiert, ihn am Hund erkennen lernt, nicht an der Flagge. Die Zucht Del Piccolo Diavolo arbeitet mit <strong>Elitebull</strong>, englisch, und <strong>Lackyle</strong>, irisch &mdash; und das sind keine Gegensätze, denn die historischen Hunde von Lackyle stehen in den Ahnentafeln von Elitebull.
   </div>
   </div>
 

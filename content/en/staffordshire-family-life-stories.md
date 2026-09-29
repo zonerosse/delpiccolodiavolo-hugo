@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "storie-famiglie"
 articolo: true
 image: "/images/blog/storie-famiglie-hero.webp"
+og_image: "/images/og/schede/en/staffordshire-family-life-stories.jpg"
+og_image_alt: "Staffordshire Bull Terriers in family life: true stories — Allevamento Del Piccolo Diavolo"
 description: "Gym, beach, training field, armchair: ten Staffordshire Bull Terriers bred at our kennel, and the families they live with years after going home."
 slug: "staffordshire-family-life-stories"
 tags: ["Staffordshire Bull Terrier", "life after the puppy goes home", "family stories", "Del Piccolo Diavolo"]
@@ -143,7 +145,7 @@ custom_content: |
 
   <section class="cta-section">
   <h2>Would you like to meet our dogs?</h2>
-  <p>We receive by appointment in Ostellato, province of Ferrara. You see the mothers, the puppies and the house they grow up in.</p>
+  <p>The Del Piccolo Diavolo kennel receives visitors by appointment in Ostellato, province of Ferrara. You see the mothers, the puppies and the house they grow up in.</p>
   <a href="https://wa.me/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20to%20meet%20your%20dogs" class="btn" title="Message us on WhatsApp" target="_blank" rel="noopener" aria-label="Message us on WhatsApp to arrange a visit (opens in a new tab)">Arrange a visit</a>
   </section>
 ---

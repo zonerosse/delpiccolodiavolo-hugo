@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "standard"
 articolo: true
 image: "/images/blog/standard-1.webp"
+og_image: "/images/og/schede/en/staffy-breed-standard.jpg"
+og_image_alt: "Staffordshire Bull Terrier breed standard explained — Allevamento Del Piccolo Diavolo"
 description: "The Staffordshire Bull Terrier breed standard: physical characteristics, type, structure and what defines a quality specimen."
 slug: "staffy-breed-standard"
 custom_content: |

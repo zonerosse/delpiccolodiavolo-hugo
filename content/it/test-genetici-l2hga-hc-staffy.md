@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "test-genetici"
 articolo: true
 image: "/images/blog/salute-1.webp"
+og_image: "/images/og/schede/it/test-genetici-l2hga-hc-staffy.jpg"
+og_image_alt: "Test genetici Staffy: L2-HGA, HC (HSF4) e DM (SOD1) — Allevamento Del Piccolo Diavolo"
 description: "Test genetici nello Staffordshire Bull Terrier: L2-HGA, cataratta ereditaria HC (gene HSF4) e mielopatia degenerativa (gene SOD1). Cosa sono e come si leggono."
 slug: "test-genetici-l2hga-hc-staffy"
 custom_content: |
@@ -206,7 +208,7 @@ custom_content: |
 
   <p>L'ultima riga è la ragione per cui i test servono: due cani sani, accoppiati fra loro, producono un cucciolo malato su quattro.</p>
 
-  <p>Le due righe centrali meritano una precisazione, perché sono quelle su cui si discute. Tecnicamente non producono cuccioli malati, ed è il motivo per cui qualcuno le considera accettabili. Ma lasciano in circolazione cuccioli portatori che finiscono in famiglie, e che un domani potrebbero riprodursi con un altro portatore: il problema non viene risolto, viene spostato di una generazione e affidato a qualcun altro. <strong>Nel nostro allevamento i portatori non entrano in riproduzione</strong>, e l'unico accoppiamento che consideriamo è il primo della tabella.</p>
+  <p>Le due righe centrali meritano una precisazione, perché sono quelle su cui si discute. Tecnicamente non producono cuccioli malati, ed è il motivo per cui qualcuno le considera accettabili. Ma lasciano in circolazione cuccioli portatori che finiscono in famiglie, e che un domani potrebbero riprodursi con un altro portatore: il problema non viene risolto, viene spostato di una generazione e affidato a qualcun altro. <strong>Nell'allevamento Del Piccolo Diavolo i portatori non entrano in riproduzione</strong>, e l'unico accoppiamento che consideriamo è il primo della tabella.</p>
   
   <h2>Cosa Chiedere all'Allevatore</h2>
   

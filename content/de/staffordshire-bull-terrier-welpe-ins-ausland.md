@@ -1,5 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Welpe ins Ausland: so läuft es ab"
+og_image: "/images/og/schede/de/staffordshire-bull-terrier-welpe-ins-ausland.jpg"
+og_image_alt: "Staffordshire Bull Terrier Welpe ins Ausland: so läuft es ab — Allevamento Del Piccolo Diavolo"
 date: 2026-09-12
 lastmod: 2026-09-29
 articolo: true

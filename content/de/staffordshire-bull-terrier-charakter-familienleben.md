@@ -1,11 +1,13 @@
 ---
 title: "Staffordshire Bull Terrier: Charakter, Familienleben und Was Sie Erwarten Können"
 date: 2026-04-28
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 titleSeo: "Staffordshire Bull Terrier: Charakter und Familienleben"
 translationKey: "carattere-famiglia"
 articolo: true
 image: "/images/cucciolo-con-cavallo.avif"
+og_image: "/images/og/schede/de/staffordshire-bull-terrier-charakter-familienleben.jpg"
+og_image_alt: "Staffordshire Bull Terrier: Charakter und Familienleben — Allevamento Del Piccolo Diavolo"
 description: "Das Leben mit einem Staffordshire Bull Terrier: Kinder, andere Tiere, Wohnung und Energie, erzählt von einem ENCI-Züchter seit 2013."
 slug: "staffordshire-bull-terrier-charakter-familienleben"
 custom_content: |
@@ -116,27 +118,13 @@ custom_content: |
   <p>Antworten basierend auf 20 Jahren direkter Erfahrung</p>
   </div>
 
-  <div class="faq-item">
-  <h3 class="faq-question">Ist der Staffordshire Bull Terrier für einen Erstbesitzer geeignet?</h3>
-  <div class="faq-answer">
-  <p>Er kann es sein, und die Größe hilft: fünfzehn Kilo lassen sich auch dann handhaben, wenn man etwas falsch macht. Er lernt schnell, ist stark auf Menschen bezogen und verzeiht Fehler. Zwei Dinge sollte man vorher wissen. Die <strong>Zeit</strong>: er erträgt lange Abwesenheiten schlechter als viele Rassen, und wer zwölf Stunden außer Haus ist, sollte es sich unabhängig von der Erfahrung überlegen. Und er bleibt ein Terrier, mit möglicher Reaktivität gegenüber anderen Hunden, die frühe Sozialisierung mindert, aber nicht auslöscht. Ein erster Hund braucht ohnehin eine Grundschule und einen Züchter, der auch nach der Abgabe erreichbar bleibt.</p></div>
-  </div>
 
   <div class="faq-item">
   <h3 class="faq-question">Versteht sich der Staffy mit Katzen?</h3>
   <div class="faq-answer">Das hängt vom einzelnen Hund ab und davon, wie er aufgewachsen ist &mdash; und es gehört gesagt, dass er ein Terrier ist: der Jagdtrieb gegenüber kleinen, sich bewegenden Tieren existiert und wird durch Erziehung nicht gelöscht. Ein im Haus mit Katzen aufgewachsener Welpe lebt oft bestens mit ihnen, weil die Katze in den richtigen Wochen Teil seiner normalen Welt wird. Ein erwachsener Hund, der nie eine gesehen hat, braucht eine schrittweise Zusammenführung mit Geruchstausch, Begegnungen auf Distanz und <strong>jederzeit verfügbaren Fluchtwegen nach oben</strong>. Bis das Zusammenleben gefestigt ist, bleiben sie nicht allein.</div>
   </div>
 
-  <div class="faq-item">
-  <h3 class="faq-question">Wie lange lebt ein Staffordshire Bull Terrier?</h3>
-  <div class="faq-answer">
-  <p>Zwölf bis vierzehn Jahre, was für einen mittelgroßen Hund ausgezeichnet ist. Die Rasse ist robust, ohne die Atemprobleme extrem brachyzephaler Rassen und ohne die Gelenkerkrankungen großer Rassen. Die drei Erbkrankheiten mit DNA-Test &mdash; L2-HGA, erblicher Katarakt und degenerative Myelopathie &mdash; werden rezessiv vererbt und durch Tests der Elterntiere vermieden. Nach der Genetik beeinflusst nichts die Lebensdauer so stark wie das <strong>Gewicht</strong>: ein übergewichtiger Staffy altert früher, mit stärker belasteten Gelenken und geringerer Hitzetoleranz. Zwölf Jahre sind auch der Zeitraum, für den man sich bindet.</p></div>
-  </div>
 
-  <div class="faq-item">
-  <h3 class="faq-question">Bellt der Staffy viel?</h3>
-  <div class="faq-answer">Nein, er gehört zu den ruhigeren Rassen seiner Gruppe, was im Mehrfamilienhaus viel zählt. Er ist kein Wachhund: er meldet Neues an der Tür und hört dann auf, ohne das Dauerbellen, das die häufigste Beschwerdequelle unter Nachbarn ist. Wenn ein Staffy viel bellt, liegt das Problem fast nie an der Rasse, sondern an der Situation: Langeweile, zu wenig Bewegung oder lange Zeit allein. Im letzten Fall kann Bellen ein Symptom von <strong>Trennungsangst</strong> sein &mdash; einer anerkannten Störung, die mit einem schrittweisen Programm und fachlicher Begleitung behandelt wird, nicht mit Schimpfen.</div>
-  </div>
   </section>
 
   <div class="related">

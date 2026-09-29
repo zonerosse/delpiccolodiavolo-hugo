@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "sverminazione"
 articolo: true
 image: "/images/blog/esame-feci-microscopio-hero.webp"
+og_image: "/images/og/schede/en/puppy-worming-faecal-tests.jpg"
+og_image_alt: "Puppy worming: protocol and faecal test results — Allevamento Del Piccolo Diavolo"
 description: "How we handle worming in our Staffordshire Bull Terrier puppies: schedule, products, and the litter's faecal test reports published in full."
 slug: "puppy-worming-faecal-tests"
 custom_content: |

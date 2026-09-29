@@ -4,6 +4,8 @@ titleSeo: "How to recognise a serious Staffy breeder"
 articolo: true
 translationKey: "come-scegliere"
 image: "/images/blog/cucciolata-erba.avif"
+og_image: "/images/og/schede/en/how-to-choose-a-staffordshire-bull-terrier-breeder.jpg"
+og_image_alt: "How to recognise a serious Staffy breeder — Allevamento Del Piccolo Diavolo"
 description: "Eight criteria for recognising a serious Staffordshire Bull Terrier breeder, each with the way to verify it. With our own documents as the worked example."
 slug: "how-to-choose-a-staffordshire-bull-terrier-breeder"
 date: 2026-01-18
@@ -81,7 +83,7 @@ lastmod: 2026-09-29
 
 <p><strong>How to verify.</strong> Ask to see her in the house, not in photographs, and watch how she reacts to the breeder. If the mother "is at the vet" or "is staying with a friend", the visit loses most of its point. Refuse motorway handovers and shipping: those are the methods of trade, not of breeding.</p>
 
-<p><strong>Ours.</strong> We receive by appointment in Ostellato, in the province of Ferrara. You see the mothers, the puppies and the house they grow up in.</p>
+<p><strong>Ours.</strong> The Del Piccolo Diavolo kennel receives visitors by appointment in Ostellato, in the province of Ferrara. You see the mothers, the puppies and the house they grow up in.</p>
 
 <h2>6. What happens to the mother afterwards</h2>
 
@@ -170,6 +172,6 @@ lastmod: 2026-09-29
 
 <section class="cta-section">
 <h2>Would you like to meet our dogs?</h2>
-<p>We receive by appointment in Ostellato, province of Ferrara. You see the mothers, the puppies and the house they grow up in.</p>
+<p>The Del Piccolo Diavolo kennel receives visitors by appointment in Ostellato, province of Ferrara. You see the mothers, the puppies and the house they grow up in.</p>
 <a href="https://wa.me/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20to%20meet%20your%20dogs" class="btn" title="Message us on WhatsApp" target="_blank" rel="noopener" aria-label="Message us on WhatsApp to arrange a visit (opens in a new tab)">Arrange a visit</a>
 </section>

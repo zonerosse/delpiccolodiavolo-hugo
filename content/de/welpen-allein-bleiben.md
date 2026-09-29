@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "solitudine"
 articolo: true
 image: "/images/blog/hero-default.webp"
+og_image: "/images/og/schede/de/welpen-allein-bleiben.jpg"
+og_image_alt: "Welpen lernen allein zu bleiben, ohne Stress — Allevamento Del Piccolo Diavolo"
 description: "Dem Staffordshire Bull Terrier Welpen das Alleinbleiben beibringen: vom ersten Tag an, Weggehen und Zurückkommen, Trennungsstress erkennen, zumutbare Zeiten."
 slug: "welpen-allein-bleiben"
 custom_content: |

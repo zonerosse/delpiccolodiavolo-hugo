@@ -31,7 +31,7 @@ custom_content: |
   <span class="hero-eyebrow">Allevamento Del Piccolo Diavolo</span>
   <h1 class="hero-title">Cuccioli <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">Linee Elitebull e Lackyle - Dal 2013</p>
-  <p class="hero-description">I nostri cuccioli nascono in casa e ci restano il primo mese, poi crescono fra casa e cortile. Selezioniamo per salute, carattere e tipicità, su linee inglesi (Elitebull) e irlandesi (Lackyle) documentate su SBTPedigree.</p>
+  <p class="hero-description">I cuccioli dell'allevamento Del Piccolo Diavolo nascono in casa e ci restano il primo mese, poi crescono fra casa e cortile. Selezioniamo per salute, carattere e tipicità, su linee inglesi (Elitebull) e irlandesi (Lackyle) documentate su SBTPedigree.</p>
   <div class="hero-actions">
   <a href="/programma-allevamento/" class="btn btn-primary" title="Vedi il programma di selezione">Programma Selezione</a>
   <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sui%20cuccioli" class="btn btn-ghost" title="Contattaci su WhatsApp">Contattaci</a>
@@ -246,7 +246,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quando posso portare a casa il cucciolo?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Non prima dei <strong>60 giorni</strong>, che &egrave; un obbligo di legge in Italia e non una scelta dell'allevatore: prima di quell'et&agrave; il cucciolo ha ancora bisogno della madre e dei fratelli per imparare a modulare il morso e a leggere i segnali degli altri cani. Nella pratica da noi partono fra i 60 e i 70 giorni, quando hanno fatto la prima vaccinazione, il microchip e almeno una sverminazione. Per l'estero i tempi si allungano parecchio: serve l'antirabbica, che non si pu&ograve; fare prima delle dodici settimane, e dopo la somministrazione vanno attesi altri ventun giorni perch&eacute; sia valida. Chi promette un cucciolo a quarantacinque giorni o non conosce le regole o le sta violando.</div>
+  <div class="faq-answer">Non prima dei <strong>60 giorni</strong>, che &egrave; un obbligo di legge in Italia e non una scelta dell'allevatore: prima di quell'et&agrave; il cucciolo ha ancora bisogno della madre e dei fratelli per imparare a modulare il morso e a leggere i segnali degli altri cani. Nella pratica, all'allevamento Del Piccolo Diavolo partono fra i 60 e i 70 giorni, quando hanno fatto la prima vaccinazione, il microchip e almeno una sverminazione. Per l'estero i tempi si allungano parecchio: serve l'antirabbica, che non si pu&ograve; fare prima delle dodici settimane, e dopo la somministrazione vanno attesi altri ventun giorni perch&eacute; sia valida. Chi promette un cucciolo a quarantacinque giorni o non conosce le regole o le sta violando.</div>
   </div>
 
   <div class="faq-item active">
@@ -270,7 +270,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Posso visitare l'allevamento prima di decidere?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">S&igrave;, ed &egrave; il modo giusto di conoscerci. Riceviamo su appuntamento a Ostellato, in provincia di Ferrara, cos&igrave; da dedicare tutto il tempo necessario senza stressare i cani. Durante la visita si vedono i cani adulti e la madre della cucciolata, il posto dove i cuccioli nascono e crescono, e si controllano di persona pedigree e referti dei test. &Egrave; anche l'occasione in cui facciamo noi qualche domanda: quante ore rester&agrave; solo il cane, chi c'&egrave; in casa, cosa succede d'estate. Non &egrave; un interrogatorio, &egrave; il modo per capire se quel cucciolo e quella famiglia stanno bene insieme. <strong>Chi prende un nostro cucciolo viene comunque qui</strong>: non spediamo cani.</div>
+  <div class="faq-answer">S&igrave;, ed &egrave; il modo giusto di conoscerci. L'allevamento Del Piccolo Diavolo riceve su appuntamento a Ostellato, in provincia di Ferrara, cos&igrave; da dedicare tutto il tempo necessario senza stressare i cani. Durante la visita si vedono i cani adulti e la madre della cucciolata, il posto dove i cuccioli nascono e crescono, e si controllano di persona pedigree e referti dei test. &Egrave; anche l'occasione in cui facciamo noi qualche domanda: quante ore rester&agrave; solo il cane, chi c'&egrave; in casa, cosa succede d'estate. Non &egrave; un interrogatorio, &egrave; il modo per capire se quel cucciolo e quella famiglia stanno bene insieme. <strong>Chi prende un nostro cucciolo viene comunque qui</strong>: non spediamo cani.</div>
   </div>
 
   </div>

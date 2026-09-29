@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "scelta-linee"
 articolo: true
 image: "/images/blog/standard-2.webp"
+og_image: "/images/og/schede/de/blutlinien-waehlen.jpg"
+og_image_alt: "Staffordshire Bull Terrier Blutlinien richtig wählen — Allevamento Del Piccolo Diavolo"
 description: "Wie man für einen Welpen die Blutlinie des Staffordshire Bull Terrier wählt: was Sie vom Hund wollen, was Linien unterscheidet, was Sie fragen sollten."
 slug: "blutlinien-waehlen"
 custom_content: |
@@ -90,7 +92,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Welches sind die wichtigsten Blutlinien des Staffy?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">International kehren am häufigsten die Namen einiger historischer britischer und irischer Zuchten wieder, die die Rasse geprägt haben: ihre Hunde stehen heute in Ahnentafeln in halb Europa, auch mehrere Generationen zurück. Wir selbst arbeiten mit <strong>Elitebull</strong>, englisch, und <strong>Lackyle</strong>, irisch. Es sind keine zwei Alternativen: Lackyle war zuerst da, und seine historischen Hunde finden sich in den Ahnentafeln von Elitebull, die zweite Linie enthält also die erste. Die Wahl ist keine Geschmacksfrage: es sind dokumentierte, auf SBTPedigree überprüfbare Linien, die vorhersehbar vererben, und das braucht man, wenn eine Verpaarung geplant und nicht erhofft wird.
+  <div class="faq-answer">International kehren am häufigsten die Namen einiger historischer britischer und irischer Zuchten wieder, die die Rasse geprägt haben: ihre Hunde stehen heute in Ahnentafeln in halb Europa, auch mehrere Generationen zurück. Die Zucht Del Piccolo Diavolo arbeitet mit <strong>Elitebull</strong>, englisch, und <strong>Lackyle</strong>, irisch. Es sind keine zwei Alternativen: Lackyle war zuerst da, und seine historischen Hunde finden sich in den Ahnentafeln von Elitebull, die zweite Linie enthält also die erste. Die Wahl ist keine Geschmacksfrage: es sind dokumentierte, auf SBTPedigree überprüfbare Linien, die vorhersehbar vererben, und das braucht man, wenn eine Verpaarung geplant und nicht erhofft wird.
   </div>
   </div>
 

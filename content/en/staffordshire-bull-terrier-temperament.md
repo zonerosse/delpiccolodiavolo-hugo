@@ -5,6 +5,8 @@ titleSeo: "Staffy temperament: how it was selected"
 articolo: true
 translationKey: "carattere"
 image: "/images/blog/temperamento-staffy-hero.webp"
+og_image: "/images/og/schede/en/staffordshire-bull-terrier-temperament.jpg"
+og_image_alt: "Staffy temperament: how it was selected — Allevamento Del Piccolo Diavolo"
 description: "Why the Staffordshire Bull Terrier has this character: the historical selection, what the standard actually says, and how to assess temperament in a puppy."
 slug: "staffordshire-bull-terrier-temperament"
 date: 2026-01-18

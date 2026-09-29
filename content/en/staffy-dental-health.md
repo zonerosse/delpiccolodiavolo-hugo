@@ -6,6 +6,8 @@ titleSeo: "Dental health for the Staffordshire Bull Terrier"
 translationKey: "denti"
 articolo: true
 image: "/images/blog/salute-1.webp"
+og_image: "/images/og/schede/en/staffy-dental-health.jpg"
+og_image_alt: "Dental health for the Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
 description: "Complete guide to oral hygiene for Staffy: how to clean teeth, prevent tartar, choose the right products and recognize signs of dental problems."
 slug: "staffy-dental-health"
 custom_content: |

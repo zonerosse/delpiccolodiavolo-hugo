@@ -6,6 +6,8 @@ titleSeo: "Staffordshire Bull Terrier: der richtige Hund für Sie?"
 translationKey: "cane-giusto"
 articolo: true
 image: "/images/blog/hero-default.webp"
+og_image: "/images/og/schede/de/ist-der-staffordshire-bull-terrier-der-richtige-hund.jpg"
+og_image_alt: "Staffordshire Bull Terrier: der richtige Hund für Sie? — Allevamento Del Piccolo Diavolo"
 description: "Ist der Staffordshire Bull Terrier der richtige Hund für Sie? Stärken und Schwächen ohne Beschönigung, für wen er passt und wie viel Aufwand er täglich macht."
 slug: "ist-der-staffordshire-bull-terrier-der-richtige-hund"
 custom_content: |
@@ -159,10 +161,6 @@ custom_content: |
   <div class="faq-answer">In Italien gibt es seit 2009 keine Liste gefährlicher Rassen mehr: eine Verordnung des Gesundheitsministeriums hat sie abgeschafft und die Verantwortung von der Rasse auf den Halter verlagert. Eine 2020 veröffentlichte Studie des Royal Veterinary College mit über 22.000 Hunden fand keinen signifikanten Unterschied in der Aggressivität, der dieser Rasse zuzuschreiben wäre. Gegenüber Menschen beschreibt der Standard einen zuverlässigen Hund. Wirklich wissenswert ist etwas anderes: die für Terrier typische <strong>Reaktivität gegenüber anderen Hunden</strong>. Er bleibt ein für seine Größe kräftiger Hund &mdash; nicht gefährlich durch die Rasse, aber mit dem nötigen Ernst zu führen.</div>
   </div>
   
-  <div class="faq-item">
-  <h3 class="faq-question">Wie lange lebt ein Staffordshire Bull Terrier?</h3>
-  <div class="faq-answer">Zwölf bis vierzehn Jahre, eine gute Lebenserwartung für einen mittelgroßen Hund. Die Rasse ist robust, ohne die <a href="/de/boas-staffordshire-bull-terrier-atmung/" title="BOAS und Atmung beim Staffordshire Bull Terrier">Atemprobleme extrem brachyzephaler Rassen</a> und ohne die Gelenkerkrankungen großer Rassen. Die drei Erbkrankheiten mit DNA-Test &mdash; L2-HGA, erblicher Katarakt und degenerative Myelopathie &mdash; werden rezessiv vererbt und durch Tests der Elterntiere vermieden: zwei freie Hunde können keine erkrankten Welpen hervorbringen. Nach der Genetik beeinflusst nichts die Lebensdauer so stark wie das <strong>Gewicht</strong>: ein übergewichtiger Staffy altert früher. Zwölf Jahre sind auch der Zeitraum, für den man sich mit einem Welpen bindet.</div>
-  </div>
   
   </section>
   

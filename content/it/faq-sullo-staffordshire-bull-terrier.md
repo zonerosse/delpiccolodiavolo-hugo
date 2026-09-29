@@ -1,5 +1,7 @@
 ---
 title: "FAQ sullo Staffordshire Bull Terrier"
+og_image: "/images/og/schede/it/faq-sullo-staffordshire-bull-terrier.jpg"
+og_image_alt: "FAQ Staffordshire Bull Terrier: le domande più frequenti — Allevamento Del Piccolo Diavolo"
 titleSeo: "FAQ Staffordshire Bull Terrier: le domande più frequenti"
 date: 2025-12-28
 lastmod: 2026-09-29
@@ -53,7 +55,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Lo Staffordshire Bull Terrier è adatto ai bambini?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Prima una cosa che vale per ogni razza: <strong>nessun cane va lasciato solo con un bambino piccolo</strong>. Il soprannome "nanny dog" descrive la tolleranza dello Staffy, non una capacità di sorveglianza: la supervisione di un adulto non è un'opzione. Detto questo, è un cane costruito per <a href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Carattere e vita in famiglia">stare in famiglia</a>, e il modo in cui cresce nelle prime settimane pesa moltissimo — i nostri cuccioli stanno in mezzo a persone di età diverse fin da subito. Come si imposta la convivenza, regole comprese, lo spieghiamo nella <a href="/famiglia-bambini-convivenza/" title="Staffy e bambini">guida su Staffy e bambini</a>.</div>
+  <div class="faq-answer">Prima una cosa che vale per ogni razza: <strong>nessun cane va lasciato solo con un bambino piccolo</strong>. Il soprannome "nanny dog" descrive la tolleranza dello Staffy, non una capacità di sorveglianza: la supervisione di un adulto non è un'opzione. Detto questo, è un cane costruito per <a href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Carattere e vita in famiglia">stare in famiglia</a>, e il modo in cui cresce nelle prime settimane pesa moltissimo — i cuccioli dell'allevamento Del Piccolo Diavolo stanno in mezzo a persone di età diverse fin da subito. Come si imposta la convivenza, regole comprese, lo spieghiamo nella <a href="/famiglia-bambini-convivenza/" title="Staffy e bambini">guida su Staffy e bambini</a>.</div>
   </div>
   
   <div class="faq-item active">
@@ -66,7 +68,7 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quali test genetici fate sui riproduttori?</h3>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quali test genetici servono allo Staffordshire Bull Terrier?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Lo Staffordshire Bull Terrier ha tre patologie ereditarie principali per cui esiste un test del DNA: L2-HGA, cioè l'aciduria L-2-idrossiglutarica, una malattia neurologica; HC, la cataratta ereditaria giovanile (gene HSF4); e la mielopatia degenerativa (gene SOD1), una malattia del midollo spinale che compare dopo gli otto anni. Si controllano tutte con un test del DNA su tampone salivare o sangue. Sono tutte a trasmissione recessiva: due genitori esenti non possono produrre cuccioli malati, ed è il motivo per cui il test sui riproduttori conta più di qualsiasi garanzia scritta. Tutti i riproduttori di Del Piccolo Diavolo sono testati per L2-HGA e HC, e le fattrici anche per la mielopatia degenerativa, e i referti di laboratorio sono pubblicati sul sito con il numero di microchip del cane a cui si riferiscono: chiunque può scaricarli e controllarli, senza doverli chiedere. Ogni cucciolo parte con i certificati dei test dei genitori.</div>
@@ -77,7 +79,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">A che età posso portare a casa il cucciolo?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">I <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli</a> vengono affidati dopo i 60 giorni di età: è il minimo che la legge italiana consente, e da noi in genere si arriva a 70. Per chi adotta da un altro paese europeo i tempi sono diversi: il cucciolo parte intorno ai quattro mesi, perché servono antirabbica, passaporto e certificato TRACES (<a href="/cucciolo-staffordshire-bull-terrier-all-estero/">come funziona un affido all'estero</a>). Questo periodo è fondamentale: nelle prime 8 settimane il cucciolo impara dalla madre le basi della comunicazione canina e l'autocontrollo. Cedere prima è illegale e dannoso.</div>
+  <div class="faq-answer">I <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli</a> vengono affidati dopo i 60 giorni di età: è il minimo che la legge italiana consente, e all'allevamento Del Piccolo Diavolo in genere si arriva a 70. Per chi adotta da un altro paese europeo i tempi sono diversi: il cucciolo parte intorno ai quattro mesi, perché servono antirabbica, passaporto e certificato TRACES (<a href="/cucciolo-staffordshire-bull-terrier-all-estero/">come funziona un affido all'estero</a>). Questo periodo è fondamentale: nelle prime 8 settimane il cucciolo impara dalla madre le basi della comunicazione canina e l'autocontrollo. Cedere prima è illegale e dannoso.</div>
   </div>
   
   <div class="faq-item active">
@@ -85,7 +87,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Lo Staffy va d'accordo con altri cani?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Dipende dal soggetto, e va detto chiaramente: è un terrier, e nella razza esiste una componente di reattività verso i propri simili che la socializzazione riduce ma non cancella. Può emergere soprattutto fra cani dello stesso sesso, in età adulta. La socializzazione precoce resta la base migliore — i nostri cuccioli crescono con adulti equilibrati e imparano a comunicare — ma un cane che al parco sta bene può non accettare un cane nuovo in casa, perché il territorio cambia tutto. Gli inserimenti si fanno con metodo: ne parliamo nella <a href="/famiglia-convivenza-altri-animali/" title="Staffy e altri animali">guida sulla convivenza con altri animali</a>.</div>
+  <div class="faq-answer">Dipende dal soggetto, e va detto chiaramente: è un terrier, e nella razza esiste una componente di reattività verso i propri simili che la socializzazione riduce ma non cancella. Può emergere soprattutto fra cani dello stesso sesso, in età adulta. La socializzazione precoce resta la base migliore — i cuccioli dell'allevamento Del Piccolo Diavolo crescono con adulti equilibrati e imparano a comunicare — ma un cane che al parco sta bene può non accettare un cane nuovo in casa, perché il territorio cambia tutto. Gli inserimenti si fanno con metodo: ne parliamo nella <a href="/famiglia-convivenza-altri-animali/" title="Staffy e altri animali">guida sulla convivenza con altri animali</a>.</div>
   </div>
   
   <div class="faq-item active">
@@ -213,7 +215,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Vale la pena venire da Milano o Firenze per un cucciolo?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">&Egrave; una decisione che spetta a chi viene, ma un dato aiuta: Ostellato dista circa un'ora da Bologna e da Ravenna, due da Verona e Padova, due ore e mezza da Milano e tre da Firenze. Molte famiglie fanno quel viaggio, e quasi tutte tornano almeno una seconda volta. Il punto non &egrave; la distanza in s&eacute;, &egrave; cosa si va a vedere: la madre della cucciolata, il posto dove i cuccioli crescono, i cani adulti che quelle linee hanno prodotto, e i documenti in originale invece che in fotocopia. Un cane resta in famiglia dodici anni: una giornata in auto per scegliere bene &egrave; un investimento ragionevole. Chi non pu&ograve; venire, semplicemente non prende un cucciolo da noi: non spediamo.</div>
+  <div class="faq-answer">&Egrave; una decisione che spetta a chi viene, ma un dato aiuta: Ostellato dista circa un'ora da Bologna e da Ravenna, due da Verona e Padova, due ore e mezza da Milano e tre da Firenze. Molte famiglie fanno quel viaggio, e quasi tutte tornano almeno una seconda volta. Il punto non &egrave; la distanza in s&eacute;, &egrave; cosa si va a vedere: la madre della cucciolata, il posto dove i cuccioli crescono, i cani adulti che quelle linee hanno prodotto, e i documenti in originale invece che in fotocopia. Un cane resta in famiglia dodici anni: una giornata in auto per scegliere bene &egrave; un investimento ragionevole. Chi non pu&ograve; venire, semplicemente non prende un cucciolo dall'allevamento Del Piccolo Diavolo: non spediamo.</div>
   </div>
   
   <div class="faq-item active">
@@ -221,7 +223,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Cosa significa che i cuccioli sono socializzati?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Significa che nelle settimane in cui il cervello del cucciolo &egrave; pi&ugrave; ricettivo &mdash; il periodo sensibile va grosso modo dalla terza alla dodicesima settimana &mdash; incontra il maggior numero possibile di cose normali. I nostri cuccioli nascono in casa e ci restano il primo mese, vicino alla televisione e ai rumori domestici, non in una stanza silenziosa. Poi passano a un box con sfogo esterno e rientrano in casa a turno, due per volta, cos&igrave; che ognuno faccia la sua parte di famiglia, persone di et&agrave; diverse, altri cani. Quello che un cucciolo incontra in quelle settimane entra a far parte del suo mondo normale; quello che non incontra rester&agrave; per sempre una novit&agrave; da valutare. La socializzazione non finisce con l'affido: continua nella nuova famiglia.</div>
+  <div class="faq-answer">Significa che nelle settimane in cui il cervello del cucciolo &egrave; pi&ugrave; ricettivo &mdash; il periodo sensibile va grosso modo dalla terza alla dodicesima settimana &mdash; incontra il maggior numero possibile di cose normali. I cuccioli dell'allevamento Del Piccolo Diavolo nascono in casa e ci restano il primo mese, vicino alla televisione e ai rumori domestici, non in una stanza silenziosa. Poi passano a un box con sfogo esterno e rientrano in casa a turno, due per volta, cos&igrave; che ognuno faccia la sua parte di famiglia, persone di et&agrave; diverse, altri cani. Quello che un cucciolo incontra in quelle settimane entra a far parte del suo mondo normale; quello che non incontra rester&agrave; per sempre una novit&agrave; da valutare. La socializzazione non finisce con l'affido: continua nella nuova famiglia.</div>
   </div>
   
   <div class="faq-item active">
@@ -229,7 +231,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Restate disponibili dopo che il cucciolo è andato a casa?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">S&igrave;, e senza scadenza. Restiamo disponibili per consigli su alimentazione, crescita, educazione e gestione, anche a distanza di anni: chi ha preso un cucciolo nel 2015 scrive ancora oggi, e va benissimo cos&igrave;. C'&egrave; per&ograve; un impegno che vale pi&ugrave; dei consigli, ed &egrave; quello che diciamo a tutti prima dell'affido: <strong>se un giorno non riuscite pi&ugrave; a tenerlo, il cane torna qui</strong>. Non &egrave; una formula di cortesia, &egrave; il motivo per cui scegliamo con calma a chi affidare un cucciolo. Un cane che abbiamo allevato non finisce in canile n&eacute; passa di mano fra sconosciuti: se la situazione cambia, per qualsiasi ragione, la soluzione la troviamo noi. Dal 2013 non &egrave; mai servito, e dove sono finiti quei cani lo raccontiamo nelle <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">storie delle famiglie</a>.</div>
+  <div class="faq-answer">S&igrave;, e senza scadenza. Restiamo disponibili per consigli su alimentazione, crescita, educazione e gestione, anche a distanza di anni: chi ha preso un cucciolo nel 2015 scrive ancora oggi, e va benissimo cos&igrave;. C'&egrave; per&ograve; un impegno che vale pi&ugrave; dei consigli, ed &egrave; quello che diciamo a tutti prima dell'affido: <strong>se un giorno non riuscite pi&ugrave; a tenerlo, il cane torna qui</strong>. Non &egrave; una formula di cortesia, &egrave; il motivo per cui scegliamo con calma a chi affidare un cucciolo. Un cane nato all'allevamento Del Piccolo Diavolo non finisce in canile n&eacute; passa di mano fra sconosciuti: se la situazione cambia, per qualsiasi ragione, la soluzione la troviamo noi. Dal 2013 non &egrave; mai servito, e dove sono finiti quei cani lo raccontiamo nelle <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">storie delle famiglie</a>.</div>
   </div>
   
   <div class="faq-item active">
@@ -237,7 +239,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Perche non spedite i cuccioli?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Perch&eacute; un viaggio in stiva o con un corriere &egrave; un'esperienza che un cucciolo di due mesi non dovrebbe fare, e perch&eacute; la consegna a distanza toglie l'unica occasione che abbiamo di conoscerci. Chi prende un nostro cucciolo viene a Ostellato, e nel farlo vede la madre, gli altri cani adulti, il posto dove il cucciolo &egrave; nato e cresciuto, e pu&ograve; controllare pedigree e referti di persona. &Egrave; anche il momento in cui facciamo noi qualche domanda su come sar&agrave; la sua giornata. Per chi viene dall'estero il percorso &egrave; lo stesso, con i tempi pi&ugrave; lunghi imposti dall'antirabbica: il cucciolo parte comunque dalle nostre mani a quelle della sua famiglia, senza intermediari.</div>
+  <div class="faq-answer">Perch&eacute; un viaggio in stiva o con un corriere &egrave; un'esperienza che un cucciolo di due mesi non dovrebbe fare, e perch&eacute; la consegna a distanza toglie l'unica occasione che abbiamo di conoscerci. Chi prende un cucciolo dell'allevamento Del Piccolo Diavolo viene a Ostellato, e nel farlo vede la madre, gli altri cani adulti, il posto dove il cucciolo &egrave; nato e cresciuto, e pu&ograve; controllare pedigree e referti di persona. &Egrave; anche il momento in cui facciamo noi qualche domanda su come sar&agrave; la sua giornata. Per chi viene dall'estero il percorso &egrave; lo stesso, con i tempi pi&ugrave; lunghi imposti dall'antirabbica: il cucciolo parte comunque dalle nostre mani a quelle della sua famiglia, senza intermediari.</div>
   </div>
   
   <div class="faq-item active">

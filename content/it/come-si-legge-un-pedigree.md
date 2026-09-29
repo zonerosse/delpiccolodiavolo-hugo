@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "leggere-pedigree"
 articolo: true
 image: "/images/blog/pedigree-queen-hero.webp"
+og_image: "/images/og/schede/it/come-si-legge-un-pedigree.jpg"
+og_image_alt: "Come si legge un pedigree: cosa dice l'ENCI e cosa no — Allevamento Del Piccolo Diavolo"
 description: "Cosa mostra davvero un certificato ENCI, cosa aggiunge SBTPedigree e come si usa il test mating per studiare un accoppiamento prima di farlo."
 slug: "come-si-legge-un-pedigree"
 custom_content: |

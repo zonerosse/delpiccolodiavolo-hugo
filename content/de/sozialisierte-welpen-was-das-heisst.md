@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "socializzazione-affido"
 articolo: true
 image: "/images/blog/socializzazione-cortile-hero.webp"
+og_image: "/images/og/schede/de/sozialisierte-welpen-was-das-heisst.jpg"
+og_image_alt: "Sozialisierte Welpen: was das wirklich heißt — Allevamento Del Piccolo Diavolo"
 description: "Die sensible Phase reicht von der dritten bis zur zwölften Woche: was ein Welpe in der Zucht wirklich kennenlernen kann, was nicht, und was der Familie bleibt."
 slug: "sozialisierte-welpen-was-das-heisst"
 custom_content: |
@@ -91,7 +93,7 @@ custom_content: |
 
   <h2>Was wir tun, und was wir nicht tun</h2>
 
-  <p>Unsere Welpen werden im Haus geboren und bleiben dort den ersten Monat, in der Wurfkiste, die nicht in einem stillen Zimmer steht: sie steht neben Fernseher und Radio, weil der Lärm eines bewohnten Hauses das Erste ist, woran sich ein Welpe gewöhnen muss.</p>
+  <p>Die Welpen der Zucht Del Piccolo Diavolo werden im Haus geboren und bleiben dort den ersten Monat, in der Wurfkiste, die nicht in einem stillen Zimmer steht: sie steht neben Fernseher und Radio, weil der Lärm eines bewohnten Hauses das Erste ist, woran sich ein Welpe gewöhnen muss.</p>
 
   <p>Mit etwa <strong>dreißig Tagen</strong> wechseln sie in den geschützten Welpenbereich: ein Raum, in dem sie sich sicher bewegen können, solange die Beine noch wenig tragen, und in dem das Absetzen beginnt.</p>
 
@@ -162,7 +164,7 @@ custom_content: |
 
   <section class="cta-section">
   <h2>Möchten Sie sehen, wo sie aufwachsen?</h2>
-  <p>Wir empfangen nach Terminvereinbarung in Ostellato, Provinz Ferrara. Sie sehen das Haus, den Hof und die Mütter.</p>
+  <p>Die Zucht Del Piccolo Diavolo empfängt nach Terminvereinbarung in Ostellato, Provinz Ferrara. Sie sehen das Haus, den Hof und die Mütter.</p>
   <a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20m%C3%B6chte%20sehen%2C%20wo%20die%20Welpen%20aufwachsen" class="btn" title="Schreiben Sie uns auf WhatsApp" target="_blank" rel="noopener" aria-label="Schreiben Sie uns auf WhatsApp für einen Termin (wird in einem neuen Tab geöffnet)">Termin vereinbaren</a>
   </section>
 ---

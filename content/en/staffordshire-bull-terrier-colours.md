@@ -1,11 +1,13 @@
 ---
 title: "Staffordshire Bull Terrier Colours: Black, Brindle, Blue and More"
 date: 2026-08-01
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 titleSeo: "Staffordshire Bull Terrier colours: black, brindle, blue"
 translationKey: "colori"
 articolo: true
 image: "/images/blog/hero-default.webp"
+og_image: "/images/og/schede/en/staffordshire-bull-terrier-colours.jpg"
+og_image_alt: "Staffordshire Bull Terrier colours: black, brindle, blue — Allevamento Del Piccolo Diavolo"
 description: "Staffordshire Bull Terrier colours allowed by the standard: black, brindle, fawn, red, white and pied. The case of dilute blue."
 slug: "staffordshire-bull-terrier-colours"
 custom_content: |

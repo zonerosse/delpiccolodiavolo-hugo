@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "genitori-visibili"
 articolo: true
 image: "/images/blog/genitori-visibili-hero.webp"
+og_image: "/images/og/schede/it/genitori-visibili-cosa-significa.jpg"
+og_image_alt: "Genitori visibili: cosa significa davvero — Allevamento Del Piccolo Diavolo"
 description: "Perché il padre di una cucciolata quasi mai è visibile in allevamento, come si verifica un maschio che sta a mille chilometri e cosa guardare nella madre."
 slug: "genitori-visibili-cosa-significa"
 custom_content: |
@@ -131,7 +133,7 @@ custom_content: |
 
   <section class="cta-section">
   <h2>Vuoi conoscere i nostri cani?</h2>
-  <p>Riceviamo su appuntamento a Ostellato, in provincia di Ferrara. Si vedono le madri, i cuccioli e la casa in cui crescono.</p>
+  <p>L'allevamento Del Piccolo Diavolo riceve su appuntamento a Ostellato, in provincia di Ferrara. Si vedono le madri, i cuccioli e la casa in cui crescono.</p>
   <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20conoscere%20i%20vostri%20cani" class="btn" title="Scrivici su WhatsApp" target="_blank" rel="noopener" aria-label="Scrivici su WhatsApp per fissare una visita (si apre in una nuova scheda)">Fissa una visita</a>
   </section>
 ---

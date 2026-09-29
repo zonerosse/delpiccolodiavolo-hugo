@@ -1,7 +1,7 @@
 ---
 title: "Contact – Staffordshire Bull Terrier Breeder"
 date: 2025-12-28
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 tipoPagina: "ContactPage"
 translationKey: "contatti"
 description: "Contact Del Piccolo Diavolo kennel in Ostellato (FE), Italy. Visits by appointment, WhatsApp, phone. Reachable from Ferrara, Bologna, Milan, Venice, Florence."
@@ -208,7 +208,7 @@ custom_content: |
   <div class="faq-list">
   <div class="faq-item">
   <h3>Can I visit without an appointment?</h3>
-  <p>No. We receive by appointment only, so that the dogs stay calm and we can give you as much time as you need. A visit usually takes a couple of hours, and nobody is in a hurry.</p>
+  <p>No. The Del Piccolo Diavolo kennel receives visitors by appointment only, so that the dogs stay calm and we can give you as much time as you need. A visit usually takes a couple of hours, and nobody is in a hurry.</p>
   </div>
 
   <div class="faq-item">

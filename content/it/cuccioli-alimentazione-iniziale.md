@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/cuccioli-4.webp"
+og_image: "/images/og/schede/it/cuccioli-alimentazione-iniziale.jpg"
+og_image_alt: "Alimentazione del cucciolo Staffy nei primi mesi — Allevamento Del Piccolo Diavolo"
 description: "Quanto e quante volte al giorno mangia un cucciolo di Staffordshire Bull Terrier: le quantità per età, come cambiare crocchette e cosa non va mai dato."
 slug: "cuccioli-alimentazione-iniziale"
 custom_content: |

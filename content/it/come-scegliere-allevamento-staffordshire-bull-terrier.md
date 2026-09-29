@@ -4,6 +4,8 @@ titleSeo: "Come riconoscere un allevamento di Staffy serio"
 articolo: true
 translationKey: "come-scegliere"
 image: "/images/blog/cucciolata-erba.avif"
+og_image: "/images/og/schede/it/come-scegliere-allevamento-staffordshire-bull-terrier.jpg"
+og_image_alt: "Come riconoscere un allevamento di Staffy serio — Allevamento Del Piccolo Diavolo"
 description: "Otto criteri per riconoscere un allevamento Staffordshire Bull Terrier serio, ognuno con il modo di verificarlo. Con i nostri documenti come esempio."
 slug: "come-scegliere-allevamento-staffordshire-bull-terrier"
 date: 2026-01-18
@@ -81,7 +83,7 @@ lastmod: 2026-09-29
 
 <p><strong>Come si verifica lo stato della madre.</strong> Chiedi di vederla in casa, non in foto, e osserva come reagisce all'allevatore. Se la madre "è dal veterinario" o "è a casa di un'amica", la visita perde gran parte del suo senso. Rifiuta la consegna in autogrill e la spedizione: sono modalità da commercio, non da allevamento.</p>
 
-<p><strong>Il nostro.</strong> Riceviamo su appuntamento a Ostellato, in provincia di Ferrara. Si vedono le madri, i cuccioli e la casa in cui crescono.</p>
+<p><strong>Il nostro.</strong> L'allevamento Del Piccolo Diavolo riceve su appuntamento a Ostellato, in provincia di Ferrara. Si vedono le madri, i cuccioli e la casa in cui crescono.</p>
 
 <h2>6. Cosa succede alla madre, dopo</h2>
 
@@ -170,6 +172,6 @@ lastmod: 2026-09-29
 
 <section class="cta-section">
 <h2>Vuoi conoscere i nostri cani?</h2>
-<p>Riceviamo su appuntamento a Ostellato, in provincia di Ferrara. Si vedono le madri, i cuccioli e la casa in cui crescono.</p>
+<p>L'allevamento Del Piccolo Diavolo riceve su appuntamento a Ostellato, in provincia di Ferrara. Si vedono le madri, i cuccioli e la casa in cui crescono.</p>
 <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20conoscere%20i%20vostri%20cani" class="btn" title="Scrivici su WhatsApp" target="_blank" rel="noopener" aria-label="Scrivici su WhatsApp per fissare una visita (si apre in una nuova scheda)">Fissa una visita</a>
 </section>

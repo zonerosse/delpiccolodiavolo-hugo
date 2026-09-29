@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "socializzazione"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
+og_image: "/images/og/schede/en/puppy-home-socialization.jpg"
+og_image_alt: "Socialising the puppy at home: the family checklist — Allevamento Del Piccolo Diavolo"
 description: "Surfaces, noises, handling, visitors and bowls: the checklist of things to introduce to a Staffordshire Bull Terrier puppy in its first weeks at home."
 slug: "puppy-home-socialization"
 custom_content: |

@@ -5,6 +5,8 @@ lastmod: 2026-09-29
 translationKey: "esercizio"
 articolo: true
 image: "/images/blog/salute-1.webp"
+og_image: "/images/og/schede/de/staffy-sichere-bewegung.jpg"
+og_image_alt: "Sichere Bewegung für Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
 description: "Leitfaden für sichere und angemessene Bewegung für Staffy: tägliche Aktivität, Verletzungen vermeiden, Bewegung für Welpen und Erwachsene."
 slug: "staffy-sichere-bewegung"
 custom_content: |

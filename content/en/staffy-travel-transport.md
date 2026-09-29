@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "viaggi"
 articolo: true
 image: "/images/blog/famiglia-4.webp"
+og_image: "/images/og/schede/en/staffy-travel-transport.jpg"
+og_image_alt: "Travelling with a Staffordshire Bull Terrier: car and train — Allevamento Del Piccolo Diavolo"
 description: "Traveling with your Staffordshire Bull Terrier: car safety, public transport, flying, accommodation and planning stress-free journeys."
 slug: "staffy-travel-transport"
 custom_content: |
@@ -88,7 +90,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Can a Staffy travel by air?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Technically yes, but it needs serious thought because the breed has a shortened muzzle. Several airlines restrict or ban brachycephalic dogs in the hold, precisely because of the breathing risk linked to stress and temperature: the rules change from carrier to carrier and must be checked on the airline's own website, not asked at a travel agency. Only dogs under about eight to ten kilos can travel in the cabin, so an adult Staffy almost never qualifies. The practical consequence is simple: for this breed <strong>the car remains the best way to travel</strong>, with stops every two to three hours. For our own puppies the question does not arise: we do not ship dogs or send them in the hold; whoever takes one comes to collect it.
+  <div class="faq-answer">Technically yes, but it needs serious thought because the breed has a shortened muzzle. Several airlines restrict or ban brachycephalic dogs in the hold, precisely because of the breathing risk linked to stress and temperature: the rules change from carrier to carrier and must be checked on the airline's own website, not asked at a travel agency. Only dogs under about eight to ten kilos can travel in the cabin, so an adult Staffy almost never qualifies. The practical consequence is simple: for this breed <strong>the car remains the best way to travel</strong>, with stops every two to three hours. For Del Piccolo Diavolo puppies the question does not arise: we do not ship dogs or send them in the hold; whoever takes one comes to collect it.
   </div>
   </div>
 

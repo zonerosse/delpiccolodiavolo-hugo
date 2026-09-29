@@ -4,6 +4,8 @@ lastmod: 2026-09-29
 articolo: true
 translationKey: "differenza-staffy-amstaff"
 image: "/images/blog/staffy-amstaff-hero.webp"
+og_image: "/images/og/schede/it/differenza-staffy-amstaff.jpg"
+og_image_alt: "Staffy o Amstaff, quale fa per te: il test dell'allevatore — Allevamento Del Piccolo Diavolo"
 titleSeo: "Staffy o Amstaff, quale fa per te: il test dell'allevatore"
 description: "Sette domande su casa, bambini, esperienza, tempo e burocrazia, risposte di chi alleva Staffordshire Bull Terrier dal 2013. Per scegliere, non per distinguere."
 slug: "differenza-staffy-amstaff"

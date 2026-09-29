@@ -259,7 +259,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3>What guarantees do you offer on puppies?</h3>
-  <p>Each puppy is delivered with certified ENCI pedigree, microchip, health booklet, first vaccinations and deworming. Parents are tested for L2HGA and HC. We stay available for the whole of the dog's life.</p>
+  <p>Each puppy is delivered with certified ENCI pedigree, microchip, health booklet, first vaccinations and deworming. Parents are tested for L2HGA and HC. The Del Piccolo Diavolo kennel stays available for the whole of the dog's life.</p>
   </div>
   
   <div class="faq-item">

@@ -209,7 +209,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3>Wann kann ich den Welpen nach Hause holen?</h3>
-  <p>Nicht vor <strong>60 Tagen</strong>, was in Italien gesetzlich vorgeschrieben und keine Entscheidung des Züchters ist: vorher braucht der Welpe noch Mutter und Geschwister, um seinen Biss zu dosieren und die Signale anderer Hunde zu lesen. Bei uns gehen die Welpen zwischen 60 und 70 Tagen, nach der ersten Impfung, dem Mikrochip und mindestens einer Entwurmung. Für Familien im Ausland dauert es deutlich länger: die Tollwutimpfung ist nicht vor der zwölften Woche möglich, und danach müssen weitere einundzwanzig Tage vergehen, bis sie für die Reise gilt. Wer einen Welpen mit fünfundvierzig Tagen verspricht, kennt die Regeln nicht oder bricht sie.</p>
+  <p>Nicht vor <strong>60 Tagen</strong>, was in Italien gesetzlich vorgeschrieben und keine Entscheidung des Züchters ist: vorher braucht der Welpe noch Mutter und Geschwister, um seinen Biss zu dosieren und die Signale anderer Hunde zu lesen. In der Zucht Del Piccolo Diavolo gehen die Welpen zwischen 60 und 70 Tagen, nach der ersten Impfung, dem Mikrochip und mindestens einer Entwurmung. Für Familien im Ausland dauert es deutlich länger: die Tollwutimpfung ist nicht vor der zwölften Woche möglich, und danach müssen weitere einundzwanzig Tage vergehen, bis sie für die Reise gilt. Wer einen Welpen mit fünfundvierzig Tagen verspricht, kennt die Regeln nicht oder bricht sie.</p>
   </div>
   
   <div class="faq-item">
@@ -224,7 +224,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3>Kann ich die Zucht vor der Entscheidung besuchen?</h3>
-  <p>Ja, und das ist der richtige Weg, uns kennenzulernen. Wir empfangen nach Vereinbarung in Ostellato in der Provinz Ferrara, damit wir Ihnen alle Zeit geben können, ohne die Hunde zu stressen. Beim Besuch sehen Sie die erwachsenen Hunde und die Mutter des Wurfs, den Ort, an dem die Welpen geboren werden und aufwachsen, und Sie prüfen Ahnentafeln und Befunde persönlich. Es ist auch der Moment, in dem wir Ihnen einige Fragen stellen: wie viele Stunden der Hund allein sein wird, wer zu Hause ist, was im Sommer geschieht. Das ist kein Verhör, sondern die Art, wie wir herausfinden, ob Welpe und Familie zusammenpassen. <strong>Wer einen unserer Welpen nimmt, kommt hierher</strong>: wir verschicken keine Hunde.</p>
+  <p>Ja, und das ist der richtige Weg, uns kennenzulernen. Die Zucht Del Piccolo Diavolo empfängt nach Vereinbarung in Ostellato in der Provinz Ferrara, damit wir Ihnen alle Zeit geben können, ohne die Hunde zu stressen. Beim Besuch sehen Sie die erwachsenen Hunde und die Mutter des Wurfs, den Ort, an dem die Welpen geboren werden und aufwachsen, und Sie prüfen Ahnentafeln und Befunde persönlich. Es ist auch der Moment, in dem wir Ihnen einige Fragen stellen: wie viele Stunden der Hund allein sein wird, wer zu Hause ist, was im Sommer geschieht. Das ist kein Verhör, sondern die Art, wie wir herausfinden, ob Welpe und Familie zusammenpassen. <strong>Wer einen Welpen der Zucht Del Piccolo Diavolo nimmt, kommt hierher</strong>: wir verschicken keine Hunde.</p>
   </div>
   
   <div style="text-align:center;margin-top:1.5rem">

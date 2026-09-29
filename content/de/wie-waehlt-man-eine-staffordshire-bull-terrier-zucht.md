@@ -4,6 +4,8 @@ titleSeo: "Seriöse Staffordshire Bull Terrier Zucht erkennen"
 articolo: true
 translationKey: "come-scegliere"
 image: "/images/blog/cucciolata-erba.avif"
+og_image: "/images/og/schede/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht.jpg"
+og_image_alt: "Seriöse Staffordshire Bull Terrier Zucht erkennen — Allevamento Del Piccolo Diavolo"
 description: "Acht Kriterien, um eine seriöse Staffordshire Bull Terrier Zucht zu erkennen, jedes mit der Art, es zu überprüfen. Mit unseren eigenen Unterlagen als Beispiel."
 slug: "wie-waehlt-man-eine-staffordshire-bull-terrier-zucht"
 date: 2026-01-18
@@ -81,7 +83,7 @@ lastmod: 2026-09-29
 
 <p><strong>Wie man es überprüft.</strong> Bitten Sie darum, sie im Haus zu sehen, nicht auf Fotos, und achten Sie darauf, wie sie auf den Züchter reagiert. Ist die Mutter "beim Tierarzt" oder "bei einer Freundin", verliert der Besuch das meiste von seinem Sinn. Lehnen Sie Übergaben an der Autobahn und den Versand ab: das sind Methoden des Handels, nicht der Zucht.</p>
 
-<p><strong>Unsere.</strong> Wir empfangen nach Terminvereinbarung in Ostellato, Provinz Ferrara. Sie sehen die Mütter, die Welpen und das Haus, in dem sie aufwachsen.</p>
+<p><strong>Unsere.</strong> Die Zucht Del Piccolo Diavolo empfängt nach Terminvereinbarung in Ostellato, Provinz Ferrara. Sie sehen die Mütter, die Welpen und das Haus, in dem sie aufwachsen.</p>
 
 <h2>6. Was danach mit der Mutter geschieht</h2>
 
@@ -170,6 +172,6 @@ lastmod: 2026-09-29
 
 <section class="cta-section">
 <h2>M&ouml;chten Sie unsere Hunde kennenlernen?</h2>
-<p>Wir empfangen nach Terminvereinbarung in Ostellato, Provinz Ferrara. Sie sehen die M&uuml;tter, die Welpen und das Haus, in dem sie aufwachsen.</p>
+<p>Die Zucht Del Piccolo Diavolo empfängt nach Terminvereinbarung in Ostellato, Provinz Ferrara. Sie sehen die M&uuml;tter, die Welpen und das Haus, in dem sie aufwachsen.</p>
 <a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20m%C3%B6chte%20Ihre%20Hunde%20kennenlernen" class="btn" title="Schreiben Sie uns auf WhatsApp" target="_blank" rel="noopener" aria-label="Schreiben Sie uns auf WhatsApp f&uuml;r einen Termin (wird in einem neuen Tab ge&ouml;ffnet)">Termin vereinbaren</a>
 </section>

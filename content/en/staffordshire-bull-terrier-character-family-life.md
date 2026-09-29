@@ -1,11 +1,13 @@
 ---
 title: "Staffordshire Bull Terrier: Character, Family Life and What to Expect"
 date: 2026-04-28
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 titleSeo: "Staffordshire Bull Terrier: character and family life"
 translationKey: "carattere-famiglia"
 articolo: true
 image: "/images/cucciolo-con-cavallo.avif"
+og_image: "/images/og/schede/en/staffordshire-bull-terrier-character-family-life.jpg"
+og_image_alt: "Staffordshire Bull Terrier: character and family life — Allevamento Del Piccolo Diavolo"
 description: "Staffordshire Bull Terrier character, family life, pros and cons told by a breeder with 20 years of experience. What to really expect from a Staffy."
 slug: "staffordshire-bull-terrier-character-family-life"
 custom_content: |
@@ -116,25 +118,13 @@ custom_content: |
   <p>Answers based on 20 years of direct experience</p>
   </div>
 
-  <div class="faq-item">
-  <h3 class="faq-question">Is the Staffordshire Bull Terrier suitable for a first-time owner?</h3>
-  <div class="faq-answer">It can be, and the size helps: fifteen kilos can be managed even when you get something wrong. It learns quickly, is strongly motivated by people, and forgives the mistakes of someone still learning. Two things to know beforehand, though. <strong>Time</strong>: it copes with long absences worse than many breeds, and anyone out twelve hours a day should think again regardless of experience. And it remains a terrier, with possible reactivity towards other dogs that early socialisation reduces but does not erase. A first dog done properly also means basic training classes and a breeder who stays available after the puppy leaves.</div>
-  </div>
 
   <div class="faq-item">
   <h3 class="faq-question">Does the Staffy get along with cats?</h3>
   <div class="faq-answer">It depends on the individual dog and on how it was raised, and it must be said that this is a terrier: the predatory instinct towards small moving animals exists and education does not erase it. A puppy raised in the house with cats often lives with them perfectly well, because the cat becomes part of its normal world during the right weeks. An adult that has never seen one is a completely different situation and needs a gradual introduction, with scent swapping, distance meetings and <strong>escape routes up high always available to the cat</strong>. Until the arrangement is settled they are not left alone together.</div>
   </div>
 
-  <div class="faq-item">
-  <h3 class="faq-question">How long does a Staffordshire Bull Terrier live?</h3>
-  <div class="faq-answer">Twelve to fourteen years, which is excellent for a medium-sized dog and among the best in the molosser group. The breed is robust, with neither the respiratory problems of extreme brachycephalics nor the joint conditions typical of large breeds. The three hereditary diseases with a DNA test &mdash; L2-HGA, hereditary cataract and degenerative myelopathy &mdash; are recessive and are prevented by testing the parents. After genetics, the factor that most affects lifespan is <strong>weight</strong>: an overweight Staffy ages earlier, with joints that wear out and less tolerance to heat. Twelve years is also the commitment you take on when you choose a puppy.</div>
-  </div>
 
-  <div class="faq-item">
-  <h3 class="faq-question">Does the Staffy bark a lot?</h3>
-  <div class="faq-answer">No, it is one of the quieter breeds in its group, which counts for a lot in a block of flats. It is not a watchdog: it signals something new at the door and then stops, without the continuous barking that is the first cause of complaints between neighbours. When a Staffy does bark a great deal, the problem is almost never the breed but the situation: boredom, insufficient exercise, or long periods alone. In that last case barking can be a symptom of <strong>separation anxiety</strong>, a recognised disorder rather than misbehaviour, treated with a gradual programme and professional support.</div>
-  </div>
   </section>
 
   <div class="related">

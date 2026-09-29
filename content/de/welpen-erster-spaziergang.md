@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "passeggiata"
 articolo: true
 image: "/images/blog/cuccioli-5.webp"
+og_image: "/images/og/schede/de/welpen-erster-spaziergang.jpg"
+og_image_alt: "Der erste Spaziergang des Welpen: wann und wie — Allevamento Del Piccolo Diavolo"
 description: "Erster Leinenspaziergang für Ihren Staffordshire Bull Terrier Welpen: Ausrüstung, Timing, positive Einführung und gute Gewohnheiten aufbauen."
 slug: "welpen-erster-spaziergang"
 custom_content: |

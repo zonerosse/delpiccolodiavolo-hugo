@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "scelta-linee"
 articolo: true
 image: "/images/blog/standard-2.webp"
+og_image: "/images/og/schede/it/standard-linee-di-sangue-orientarsi.jpg"
+og_image_alt: "Come scegliere la linea di sangue di un cucciolo di Staffy — Allevamento Del Piccolo Diavolo"
 description: "Linee di sangue dello Staffordshire Bull Terrier: da dove vengono, come leggere un pedigree, perché la salute viene prima della linea, cosa chiedere."
 slug: "standard-linee-di-sangue-orientarsi"
 custom_content: |
@@ -136,7 +138,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Quali sono le principali linee di sangue dello Staffy?</h3>
-  <div class="faq-answer">A livello internazionale i nomi che ricorrono pi&ugrave; spesso sono quelli di alcuni allevamenti storici britannici e irlandesi che hanno segnato la razza: i loro soggetti compaiono oggi nei pedigree di mezza Europa, anche a diverse generazioni di distanza. Nel nostro caso lavoriamo su <strong>Elitebull</strong>, inglese, e <strong>Lackyle</strong>, irlandese. Non sono due alternative: Lackyle &egrave; arrivato prima e i suoi cani storici si ritrovano proprio nei pedigree di Elitebull, quindi la seconda linea contiene la prima. La scelta non &egrave; di gusto: sono linee documentate e verificabili su SBTPedigree, che producono in modo prevedibile, ed &egrave; quello che serve quando un accoppiamento si pianifica invece di sperarlo.</div>
+  <div class="faq-answer">A livello internazionale i nomi che ricorrono pi&ugrave; spesso sono quelli di alcuni allevamenti storici britannici e irlandesi che hanno segnato la razza: i loro soggetti compaiono oggi nei pedigree di mezza Europa, anche a diverse generazioni di distanza. L'allevamento Del Piccolo Diavolo lavora su <strong>Elitebull</strong>, inglese, e <strong>Lackyle</strong>, irlandese. Non sono due alternative: Lackyle &egrave; arrivato prima e i suoi cani storici si ritrovano proprio nei pedigree di Elitebull, quindi la seconda linea contiene la prima. La scelta non &egrave; di gusto: sono linee documentate e verificabili su SBTPedigree, che producono in modo prevedibile, ed &egrave; quello che serve quando un accoppiamento si pianifica invece di sperarlo.</div>
   </div>
   
   <div class="faq-item">

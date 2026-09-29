@@ -5,6 +5,8 @@ lastmod: 2026-09-29
 translationKey: "pericoloso"
 articolo: true
 image: "/images/blog/staffy-carattere-legge-hero.webp"
+og_image: "/images/og/schede/it/staffy-pericoloso-legge-italia.jpg"
+og_image_alt: "Lo Staffy è Pericoloso? Verità e Legge Italiana — Allevamento Del Piccolo Diavolo"
 description: "Lo Staffy è davvero pericoloso? Analizziamo lo studio VetCompass 2020, la normativa italiana dal 2009 e la proposta lombarda 2025. Dati scientifici e fatti."
 slug: "staffy-pericoloso-legge-italia"
 custom_content: |

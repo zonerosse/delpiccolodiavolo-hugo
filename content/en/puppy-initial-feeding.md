@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/hero-default.webp"
+og_image: "/images/og/schede/en/puppy-initial-feeding.jpg"
+og_image_alt: "Feeding a Staffordshire Bull Terrier puppy: first months — Allevamento Del Piccolo Diavolo"
 description: "How much and how often a Staffordshire Bull Terrier puppy eats: amounts by age, how to change food safely and what should never be given."
 slug: "puppy-initial-feeding"
 custom_content: |

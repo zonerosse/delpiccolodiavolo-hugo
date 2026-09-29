@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "leggere-pedigree"
 articolo: true
 image: "/images/blog/pedigree-queen-hero.webp"
+og_image: "/images/og/schede/en/how-to-read-a-pedigree.jpg"
+og_image_alt: "How to read a pedigree: what ENCI shows and what it doesn't — Allevamento Del Piccolo Diavolo"
 description: "What an ENCI pedigree certificate really shows, what SBTPedigree adds, and how the test mating is used to study a pairing before it is made."
 slug: "how-to-read-a-pedigree"
 custom_content: |

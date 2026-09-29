@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "pitbull-amstaff"
 articolo: true
 image: "/images/blog/differenza-razze-hero.webp"
+og_image: "/images/og/schede/it/differenza-staffy-pitbull-amstaff.jpg"
+og_image_alt: "Staffy, Pitbull e Amstaff: come distinguerli — Allevamento Del Piccolo Diavolo"
 description: "Non sono lo stesso cane: 11-17 kg contro 25-32, 2 standard FCI riconosciuti e uno no. Come distinguerli davvero, spiegato da un allevatore."
 slug: "differenza-staffy-pitbull-amstaff"
 custom_content: |

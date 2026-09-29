@@ -5,6 +5,8 @@ lastmod: 2026-09-29
 translationKey: "denti"
 articolo: true
 image: "/images/blog/salute-1.webp"
+og_image: "/images/og/schede/de/staffy-zahnpflege.jpg"
+og_image_alt: "Zahnpflege und Mundhygiene für Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
 description: "Zahnpflege beim Staffordshire Bull Terrier: rassetypische Besonderheiten, gefährliche Kauartikel, richtig Zähneputzen und wann eine Zahnreinigung nötig ist."
 slug: "staffy-zahnpflege"
 custom_content: |

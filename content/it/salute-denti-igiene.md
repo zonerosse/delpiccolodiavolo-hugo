@@ -5,6 +5,8 @@ lastmod: 2026-09-29
 translationKey: "denti"
 articolo: true
 image: "/images/blog/salute-2.webp"
+og_image: "/images/og/schede/it/salute-denti-igiene.jpg"
+og_image_alt: "Igiene Orale e Denti Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
 description: "Guida completa igiene orale Staffy: come spazzolare i denti, prevenire tartaro, scegliere snack dentali sicuri, gestire dentizione cuccioli e detartrasi."
 slug: "salute-denti-igiene"
 custom_content: |

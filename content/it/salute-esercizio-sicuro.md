@@ -5,6 +5,8 @@ lastmod: 2026-09-29
 translationKey: "esercizio"
 articolo: true
 image: "/images/blog/esercizio-hero.webp"
+og_image: "/images/og/schede/it/salute-esercizio-sicuro.jpg"
+og_image_alt: "Esercizio Sicuro per Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
 description: "Esercizio fisico sicuro per lo Staffordshire Bull Terrier: attività per cuccioli e adulti, colpo di calore e segnali di sovraccarico."
 slug: "salute-esercizio-sicuro"
 custom_content: |

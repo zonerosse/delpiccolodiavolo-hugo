@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "passeggiata"
 articolo: true
 image: "/images/blog/cuccioli-7.webp"
+og_image: "/images/og/schede/it/cuccioli-prima-passeggiata.jpg"
+og_image_alt: "La prima passeggiata del cucciolo: quando e come iniziare — Allevamento Del Piccolo Diavolo"
 description: "Prima passeggiata del cucciolo di Staffordshire Bull Terrier: quando uscire, attrezzatura, prime esperienze sicure, regole di base e segnali da osservare."
 slug: "cuccioli-prima-passeggiata"
 custom_content: |

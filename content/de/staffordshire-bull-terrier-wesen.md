@@ -5,6 +5,8 @@ titleSeo: "Wesen des Staffy: wie es selektiert wurde"
 articolo: true
 translationKey: "carattere"
 image: "/images/blog/temperamento-staffy-hero.webp"
+og_image: "/images/og/schede/de/staffordshire-bull-terrier-wesen.jpg"
+og_image_alt: "Wesen des Staffy: wie es selektiert wurde — Allevamento Del Piccolo Diavolo"
 description: "Warum der Staffordshire Bull Terrier dieses Wesen hat: die historische Selektion, was der Standard wirklich sagt und wie man Wesen beim Welpen beurteilt."
 slug: "staffordshire-bull-terrier-wesen"
 date: 2026-01-18

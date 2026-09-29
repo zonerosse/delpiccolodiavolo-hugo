@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "biosensor"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
+og_image: "/images/og/schede/de/bio-sensor-fruehstimulation-welpen.jpg"
+og_image_alt: "Bio Sensor und Frühstimulation: was die Forschung sagt — Allevamento Del Piccolo Diavolo"
 description: "Bio Sensor und ENS bei Welpen: woher die Methode kommt, was sie verspricht und wie viel davon belegt ist. Und was in den ersten acht Wochen wirklich zählt."
 slug: "bio-sensor-fruehstimulation-welpen"
 custom_content: |

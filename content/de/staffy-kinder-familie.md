@@ -5,6 +5,8 @@ lastmod: 2026-09-29
 translationKey: "bambini"
 articolo: true
 image: "/images/blog/famiglia-1.jpg"
+og_image: "/images/og/schede/de/staffy-kinder-familie.jpg"
+og_image_alt: "Staffordshire Bull Terrier mit Kindern und Familie — Allevamento Del Piccolo Diavolo"
 description: "Leitfaden für das Zusammenleben von Staffy mit Kindern: warum er Nanny Dog genannt wird, Sicherheitstipps, Einführung in die Familie."
 slug: "staffy-kinder-familie"
 custom_content: |

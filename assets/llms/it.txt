@@ -1,0 +1,102 @@
+# Del Piccolo Diavolo — Allevamento Staffordshire Bull Terrier
+
+> Allevamento etico di Staffordshire Bull Terrier attivo dal 2013 a Ostellato (Ferrara, Emilia-Romagna, Italia). Selezione responsabile orientata a salute, tipicità e carattere. Cuccioli con pedigree ENCI, test genetici dei riproduttori (L2HGA e HC, gene HSF4; mielopatia degenerativa, gene SOD1, sulle fattrici in attività), microchip, vaccinazioni e supporto alla famiglia per tutta la vita del cane.
+
+Informazioni utili su questo sito:
+
+- Allevatore: Paolo Boldrini
+- Sede: Ostellato (FE), Emilia-Romagna, Italia
+- Razza allevata: Staffordshire Bull Terrier
+- Linee di sangue: inglesi (Elitebull) e irlandesi (Lackyle)
+- Risultati: 1 Campione Italiano, 3 Giovani Campioni Italiani, 1 Campionessa di San Marino, 4° posto al World Dog Show
+- Tutti i cuccioli hanno il pedigree ENCI
+- Lingue del sito: italiano (principale), inglese, tedesco
+- Recensioni Google: <!--REC-TOTALE-->, voto medio <!--REC-VOTO--> su 5, dalla scheda Google Business Profile dell'allevamento; il testo integrale è su https://delpiccolodiavolo.it/recensioni/
+- Contatti: WhatsApp +39 392 4635584 · email zonerosse@gmail.com
+
+## Corpus completo
+
+- [llms-full.txt](https://delpiccolodiavolo.it/llms-full.txt): il testo integrale di tutte le pagine italiane in un unico file, per acquisire l'intero contenuto in una sola richiesta.
+- [llms-full.txt in inglese](https://delpiccolodiavolo.it/en/llms-full.txt): lo stesso corpus, per le pagine in inglese.
+- [llms-full.txt in tedesco](https://delpiccolodiavolo.it/de/llms-full.txt): lo stesso corpus, per le pagine in tedesco.
+
+## Pagine principali
+
+- [Home — Allevamento Staffordshire Bull Terrier](https://delpiccolodiavolo.it/): presentazione dell'allevamento, metodo di selezione e cuccioli.
+- [Chi siamo](https://delpiccolodiavolo.it/chi-siamo/): storia dell'allevamento e filosofia di selezione.
+- [Cuccioli di Staffordshire Bull Terrier](https://delpiccolodiavolo.it/cuccioli-staffordshire-bull-terrier/): cucciolate, disponibilità e come funziona l'affido.
+- [Femmine riproduttrici](https://delpiccolodiavolo.it/femmine-staffordshire-bull-terrier/): le nostre fattrici con pedigree, test genetici e titoli.
+- [Maschi riproduttori](https://delpiccolodiavolo.it/maschi-staffordshire-bull-terrier/): i nostri maschi con pedigree, test genetici e titoli.
+- [Programma di allevamento](https://delpiccolodiavolo.it/programma-allevamento/): accoppiamenti programmati, riproduttori e storico delle cucciolate.
+- [Diario dell'allevamento](https://delpiccolodiavolo.it/diario-allevamento/): aggiornamenti e cucciolate, con foto di crescita.
+  - [Cucciolata Bilquis × Black Jack (agosto 2026)](https://delpiccolodiavolo.it/diario-allevamento/cucciolata-bilquis-agosto-2026/): genitori, test genetici, esami e crescita dei cuccioli.
+  - [Cucciolata Red × Nora (febbraio 2026)](https://delpiccolodiavolo.it/diario-allevamento/cucciolata-red-nora-febbraio-2026/): genitori, test genetici, esami e crescita dei cuccioli.
+- [Contatti e sede in Emilia-Romagna](https://delpiccolodiavolo.it/allevamento-staffordshire-bull-terrier-in-emilia-romagna/): dove siamo, zone servite e come fissare una visita.
+
+## Cuccioli e costi
+
+- [Quanto costa un cucciolo di Staffordshire Bull Terrier](https://delpiccolodiavolo.it/quanto-costa-cucciolo-staffordshire-bull-terrier/): cosa comprende il prezzo di un cucciolo, e quanto spende davvero l'allevamento per una cucciolata, voce per voce: progesterone, diritti di monta da 700 a 1.600 €, ecografie, cesareo, farmaci con lo scontrino della farmacia, iscrizione ENCI; circa 2.000 € per una cucciolata senza complicazioni, oltre 4.000 € con stallone all'estero e cesareo.
+- [Come scegliere un allevamento serio](https://delpiccolodiavolo.it/come-scegliere-allevamento-staffordshire-bull-terrier/): come riconoscere un allevamento responsabile.
+- [Genitori visibili: cosa significa davvero](https://delpiccolodiavolo.it/genitori-visibili-cosa-significa/): perché il padre di una cucciolata quasi mai è in allevamento, come si verifica uno stallone che sta lontano, cosa guardare nella madre e dove nascono i cuccioli.
+- [Cuccioli già socializzati: cosa vuol dire davvero](https://delpiccolodiavolo.it/cuccioli-socializzati-cosa-vuol-dire/): la finestra sensibile dalla terza alla dodicesima settimana, cosa un cucciolo incontra davvero in allevamento, cosa non può incontrare e cosa resta da fare alla famiglia.
+- [Sverminazione e esami delle feci](https://delpiccolodiavolo.it/cuccioli-sverminazione-esami-feci/): perché quasi tutti i cuccioli nascono con parassiti, il calendario delle sverminazioni, e i referti di laboratorio della nostra cucciolata pubblicati per esteso.
+- [Un cucciolo che va all'estero](https://delpiccolodiavolo.it/cucciolo-staffordshire-bull-terrier-all-estero/): tempi, documenti ed export pedigree per gli affidi fuori dall'Italia.
+
+## Guide sulla razza
+
+- [Lo Staffordshire Bull Terrier è il cane giusto per te?](https://delpiccolodiavolo.it/staffordshire-bull-terrier-e-il-cane-giusto-per-te/): pro, contro e a chi è adatto.
+- [Carattere dello Staffordshire Bull Terrier](https://delpiccolodiavolo.it/staffordshire-bull-terrier-carattere/): temperamento e indole della razza.
+- [Carattere e vita in famiglia](https://delpiccolodiavolo.it/staffordshire-bull-terrier-carattere-vita-famiglia/): come si comporta in casa e cosa aspettarsi.
+- [I colori dello Staffordshire Bull Terrier](https://delpiccolodiavolo.it/colori-staffordshire-bull-terrier/): colori ammessi dallo standard e note di salute.
+- [Differenza tra Staffy, Pitbull e Amstaff](https://delpiccolodiavolo.it/differenza-staffy-pitbull-amstaff/): come distinguere le tre razze.
+- [Staffy o Amstaff: il test dell'allevatore](https://delpiccolodiavolo.it/differenza-staffy-amstaff/): sette domande su casa, bambini, esperienza, tempo e burocrazia per scegliere fra le due razze; il confronto fisico e legale sta nella pagina Staffy, Pitbull e Amstaff.
+- [Standard, tipicità e morfologia](https://delpiccolodiavolo.it/standard-tipicita-morfologia/): lo standard di razza spiegato.
+- [Lo Staffy è pericoloso? La legge italiana](https://delpiccolodiavolo.it/staffy-pericoloso-legge-italia/): normativa italiana e dati scientifici sull'aggressività.
+- [FAQ sullo Staffordshire Bull Terrier](https://delpiccolodiavolo.it/faq-sullo-staffordshire-bull-terrier/): risposte alle domande più frequenti.
+
+## Cura e crescita del cucciolo
+
+- [Alimentazione iniziale del cucciolo](https://delpiccolodiavolo.it/cuccioli-alimentazione-iniziale/): cosa e quanto dare nei primi mesi.
+- [Prime vaccinazioni](https://delpiccolodiavolo.it/cuccioli-prime-vaccinazioni/): calendario vaccinale e consigli pratici.
+- [Bio Sensor: cosa dice davvero la ricerca](https://delpiccolodiavolo.it/bio-sensor-stimolazione-precoce-cuccioli/): il metodo ENS, le prove che mancano e cosa conta davvero nelle prime otto settimane.
+- [Socializzare il cucciolo in casa: la lista per la famiglia](https://delpiccolodiavolo.it/cuccioli-socializzazione-in-casa/): lista pratica di superfici, rumori, manipolazioni, ospiti e ciotole per le prime settimane a casa.
+- [La prima passeggiata](https://delpiccolodiavolo.it/cuccioli-prima-passeggiata/): quando uscire, attrezzatura e prime esperienze sicure.
+- [Educazione ai bisogni](https://delpiccolodiavolo.it/cuccioli-educazione-bisogni/): come insegnare al cucciolo dove fare i bisogni.
+- [Giochi mentali per cuccioli](https://delpiccolodiavolo.it/cuccioli-giochi-mentali/): attività per sviluppare autocontrollo e problem solving.
+- [Gestione della solitudine](https://delpiccolodiavolo.it/cuccioli-gestione-solitudine/): come prevenire l'ansia da separazione.
+
+## Convivenza in famiglia
+
+- [Staffordshire Bull Terrier e bambini](https://delpiccolodiavolo.it/famiglia-bambini-convivenza/): convivenza sicura e regole di gestione.
+- [Staffordshire Bull Terrier per anziani](https://delpiccolodiavolo.it/famiglia-anziani-rispetto-ritmi/): compatibilità con ritmi e possibilità di proprietari anziani.
+- [Convivenza con altri animali](https://delpiccolodiavolo.it/famiglia-convivenza-altri-animali/): inserimento con cani, gatti e altri animali domestici.
+- [Viaggiare con lo Staffordshire Bull Terrier](https://delpiccolodiavolo.it/famiglia-viaggi-spostamenti/): auto, treno, hotel e spostamenti.
+
+## Salute e selezione
+
+- [Test genetici L2-HGA, HC (HSF4) e DM (SOD1)](https://delpiccolodiavolo.it/test-genetici-l2hga-hc-staffy/): le patologie ereditarie testate nei riproduttori: L2-HGA, cataratta ereditaria (gene HSF4) e mielopatia degenerativa (gene SOD1), cosa sono e come si leggono i referti.
+- [BOAS e respirazione](https://delpiccolodiavolo.it/boas-staffordshire-bull-terrier-respirazione/): perché la funzionalità respiratoria è un criterio di selezione.
+- [Igiene orale e denti](https://delpiccolodiavolo.it/salute-denti-igiene/): cura della dentatura e prevenzione.
+- [Prevenzione dei parassiti](https://delpiccolodiavolo.it/salute-parassiti-prevenzione/): protocolli antiparassitari e controlli.
+- [Esercizio sicuro](https://delpiccolodiavolo.it/salute-esercizio-sicuro/): quanto e come far muovere il cane senza rischi.
+- [Come si legge un pedigree](https://delpiccolodiavolo.it/come-si-legge-un-pedigree/): cosa mostra il certificato ENCI, cosa aggiunge SBTPedigree e come si usa il test mating.
+- [Linee di sangue dello Staffordshire Bull Terrier](https://delpiccolodiavolo.it/linee-sangue-staffordshire-bull-terrier/): storia e genealogia delle linee fondatrici.
+- [Come orientarsi tra le linee di sangue](https://delpiccolodiavolo.it/standard-linee-di-sangue-orientarsi/): scegliere la linea in base agli obiettivi.
+- [Palmarès dell'allevamento](https://delpiccolodiavolo.it/palmares-del-piccolo-diavolo/): risultati in esposizione e riconoscimenti.
+
+## Fiducia
+
+- [Recensioni](https://delpiccolodiavolo.it/recensioni/): esperienze delle famiglie che hanno scelto un nostro cucciolo.
+- [Staffordshire Bull Terrier in famiglia: dove sono oggi i nostri cani](https://delpiccolodiavolo.it/staffordshire-in-famiglia-storie/): dieci cani nati nell'allevamento raccontati anni dopo l'affido, in famiglia, al lavoro e in esposizione, e il fatto che dal 2013 nessun cane è mai stato restituito, benché la possibilità di riportarlo sia prevista per iscritto e senza scadenza.
+
+## Blog e informazioni legali
+
+- [Blog e guide](https://delpiccolodiavolo.it/blog/): tutti gli articoli e le guide sulla razza.
+- [Note legali](https://delpiccolodiavolo.it/note-legali/): termini di utilizzo e disclaimer.
+- [Privacy policy](https://delpiccolodiavolo.it/privacy-policy/): trattamento dei dati.
+
+## Note
+
+- L'allevamento seleziona poche cucciolate all'anno e sceglie con cura le famiglie affidatarie.
+- La salute e il carattere vengono prima dell'estetica; non si praticano accoppiamenti con soggetti diluiti (blu).
+- Versioni del sito in inglese e tedesco disponibili ai percorsi /en/ e /de/.

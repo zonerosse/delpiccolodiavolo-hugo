@@ -5,6 +5,8 @@ lastmod: 2026-09-29
 translationKey: "parassiti"
 articolo: true
 image: "/images/blog/salute-1.webp"
+og_image: "/images/og/schede/en/staffy-parasite-prevention.jpg"
+og_image_alt: "Parasite Prevention for Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
 description: "Complete guide to parasite prevention for Staffy: fleas, ticks, worms, heartworm. Products, schedules and natural alternatives."
 slug: "staffy-parasite-prevention"
 custom_content: |

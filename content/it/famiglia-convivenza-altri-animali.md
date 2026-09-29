@@ -5,6 +5,8 @@ lastmod: 2026-09-29
 translationKey: "altri-animali"
 articolo: true
 image: "/images/blog/famiglia-3.webp"
+og_image: "/images/og/schede/it/famiglia-convivenza-altri-animali.jpg"
+og_image_alt: "Staffy con Altri Animali: Guida Convivenza — Allevamento Del Piccolo Diavolo"
 description: "Convivenza Staffy con cani, gatti, piccoli animali: protocolli inserimento graduali, gestione risorse, segnali stress, problemi comuni e soluzioni pratiche."
 slug: "famiglia-convivenza-altri-animali"
 custom_content: |
@@ -479,7 +481,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Quando capisco che convivenza è definitivamente fallita?</h3>
-  <div class="faq-answer">&Egrave; la domanda che nessuno vuole fare, ed &egrave; giusto avere dei criteri invece di andare a sensazione. I segnali che dicono basta sono pochi e chiari: <strong>aggressioni ripetute nonostante un percorso professionale seguito davvero</strong>, ferite che richiedono il veterinario, uno dei due animali che smette di mangiare o di usare la lettiera, che si nasconde per giornate intere o che mostra segni fisici di stress cronico. Se dopo sei mesi di lavoro guidato la situazione non &egrave; migliorata, insistere fa male a entrambi. Riconoscerlo non &egrave; un fallimento personale: significa scegliere il benessere degli animali invece dell'idea che ci si era fatti. In quel caso si cerca una sistemazione dove ciascuno possa stare senza l'altro, e per i cani che abbiamo allevato quella sistemazione siamo noi.</div>
+  <div class="faq-answer">&Egrave; la domanda che nessuno vuole fare, ed &egrave; giusto avere dei criteri invece di andare a sensazione. I segnali che dicono basta sono pochi e chiari: <strong>aggressioni ripetute nonostante un percorso professionale seguito davvero</strong>, ferite che richiedono il veterinario, uno dei due animali che smette di mangiare o di usare la lettiera, che si nasconde per giornate intere o che mostra segni fisici di stress cronico. Se dopo sei mesi di lavoro guidato la situazione non &egrave; migliorata, insistere fa male a entrambi. Riconoscerlo non &egrave; un fallimento personale: significa scegliere il benessere degli animali invece dell'idea che ci si era fatti. In quel caso si cerca una sistemazione dove ciascuno possa stare senza l'altro, e per i cani nati all'allevamento Del Piccolo Diavolo quella sistemazione siamo noi.</div>
   </div>
   
   </section>

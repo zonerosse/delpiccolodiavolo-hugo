@@ -1,11 +1,13 @@
 ---
 title: "BOAS in Staffordshire Bull Terriers: Why Breathing Matters"
 date: 2025-12-28
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 titleSeo: "BOAS in the Staffordshire Bull Terrier: breathing"
 translationKey: "boas"
 articolo: true
 image: "/images/blog/boas-respirazione.webp"
+og_image: "/images/og/schede/en/boas-staffordshire-bull-terrier-breathing.jpg"
+og_image_alt: "BOAS in the Staffordshire Bull Terrier: breathing — Allevamento Del Piccolo Diavolo"
 description: "BOAS in the Staffordshire Bull Terrier: what the airway syndrome is, why the breed is not extremely brachycephalic and how to pick a puppy that breathes freely."
 slug: "boas-staffordshire-bull-terrier-breathing"
 custom_content: |

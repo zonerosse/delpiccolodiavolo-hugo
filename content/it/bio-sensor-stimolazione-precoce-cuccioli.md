@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "biosensor"
 articolo: true
 image: "/images/blog/neonati-hero.webp"
+og_image: "/images/og/schede/it/bio-sensor-stimolazione-precoce-cuccioli.jpg"
+og_image_alt: "Bio Sensor e stimolazione precoce: cosa dice la ricerca — Allevamento Del Piccolo Diavolo"
 description: "Metodo Bio Sensor ed ENS sui cuccioli: da dove viene, cosa promette e quanto è dimostrato. E cosa conta davvero nelle prime otto settimane."
 slug: "bio-sensor-stimolazione-precoce-cuccioli"
 custom_content: |

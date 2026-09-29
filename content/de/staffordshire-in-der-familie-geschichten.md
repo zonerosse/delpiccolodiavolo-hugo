@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "storie-famiglie"
 articolo: true
 image: "/images/blog/storie-famiglie-hero.webp"
+og_image: "/images/og/schede/de/staffordshire-in-der-familie-geschichten.jpg"
+og_image_alt: "Staffordshire Bull Terrier in der Familie: wahre Geschichten — Allevamento Del Piccolo Diavolo"
 description: "Fitnessstudio, Strand, Übungsplatz, Sessel: zehn Staffordshire Bull Terrier aus unserer Zucht und die Familien, bei denen sie Jahre nach der Abgabe leben."
 slug: "staffordshire-in-der-familie-geschichten"
 tags: ["Staffordshire Bull Terrier", "Leben nach der Abgabe", "Geschichten von Familien", "Del Piccolo Diavolo"]
@@ -143,7 +145,7 @@ custom_content: |
 
   <section class="cta-section">
   <h2>Möchten Sie unsere Hunde kennenlernen?</h2>
-  <p>Wir empfangen nach Terminvereinbarung in Ostellato, Provinz Ferrara. Sie sehen die Mütter, die Welpen und das Haus, in dem sie aufwachsen.</p>
+  <p>Die Zucht Del Piccolo Diavolo empfängt nach Terminvereinbarung in Ostellato, Provinz Ferrara. Sie sehen die Mütter, die Welpen und das Haus, in dem sie aufwachsen.</p>
   <a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20m%C3%B6chte%20Ihre%20Hunde%20kennenlernen" class="btn" title="Schreiben Sie uns auf WhatsApp" target="_blank" rel="noopener" aria-label="Schreiben Sie uns auf WhatsApp für einen Termin (wird in einem neuen Tab geöffnet)">Termin vereinbaren</a>
   </section>
 ---

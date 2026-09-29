@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "bisogni"
 articolo: true
 image: "/images/blog/hero-default.webp"
+og_image: "/images/og/schede/de/welpen-stubenreinheit.jpg"
+og_image_alt: "Welpen stubenrein machen: Methode und Zeitrahmen — Allevamento Del Piccolo Diavolo"
 description: "Stubenreinheitstraining für Staffordshire Bull Terrier Welpen: Routine, Ausgänge, positive Verstärkung, Unfallmanagement und Fortschritt drinnen und draußen."
 slug: "welpen-stubenreinheit"
 custom_content: |

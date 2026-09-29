@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "giochi-mentali"
 articolo: true
 image: "/images/blog/cuccioli-3.webp"
+og_image: "/images/og/schede/de/welpen-denkspiele.jpg"
+og_image_alt: "Denkspiele für Staffordshire Bull Terrier Welpen — Allevamento Del Piccolo Diavolo"
 description: "Denkspiele für Staffordshire Bull Terrier Welpen: Geist und Selbstkontrolle stimulieren mit Schnüffelspielen, Puzzles und Beschäftigungsaktivitäten."
 slug: "welpen-denkspiele"
 custom_content: |

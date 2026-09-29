@@ -5,6 +5,8 @@ lastmod: 2026-09-29
 translationKey: "bambini"
 articolo: true
 image: "/images/blog/famiglia-1.webp"
+og_image: "/images/og/schede/it/famiglia-bambini-convivenza.jpg"
+og_image_alt: "Staffordshire Bull Terrier e Bambini: Convivenza Sicura — Allevamento Del Piccolo Diavolo"
 description: "Guida completa convivenza Staffy e bambini: regole per età, supervisione attiva, segnali stress, giochi sicuri, prevenzione incidenti e primo incontro."
 slug: "famiglia-bambini-convivenza"
 custom_content: |

@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "genitori-visibili"
 articolo: true
 image: "/images/blog/genitori-visibili-hero.webp"
+og_image: "/images/og/schede/en/parents-on-site-what-it-means.jpg"
+og_image_alt: "\"Parents on site\": what it really means — Allevamento Del Piccolo Diavolo"
 description: "Why the sire of a litter is almost never at the kennel, how to check a stud dog that lives a thousand kilometres away, and what to look for in the dam."
 slug: "parents-on-site-what-it-means"
 custom_content: |
@@ -131,7 +133,7 @@ custom_content: |
 
   <section class="cta-section">
   <h2>Would you like to meet our dogs?</h2>
-  <p>We receive by appointment in Ostellato, province of Ferrara. You see the mothers, the puppies and the house they grow up in.</p>
+  <p>The Del Piccolo Diavolo kennel receives visitors by appointment in Ostellato, province of Ferrara. You see the mothers, the puppies and the house they grow up in.</p>
   <a href="https://wa.me/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20to%20meet%20your%20dogs" class="btn" title="Message us on WhatsApp" target="_blank" rel="noopener" aria-label="Message us on WhatsApp to arrange a visit (opens in a new tab)">Arrange a visit</a>
   </section>
 ---

@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "sverminazione"
 articolo: true
 image: "/images/blog/esame-feci-microscopio-hero.webp"
+og_image: "/images/og/schede/it/cuccioli-sverminazione-esami-feci.jpg"
+og_image_alt: "Sverminazione cuccioli: protocollo ed esami delle feci — Allevamento Del Piccolo Diavolo"
 description: "Sverminazione dei cuccioli di Staffordshire Bull Terrier: calendario, prodotti e i referti degli esami delle feci della cucciolata, pubblicati per intero."
 slug: "cuccioli-sverminazione-esami-feci"
 custom_content: |

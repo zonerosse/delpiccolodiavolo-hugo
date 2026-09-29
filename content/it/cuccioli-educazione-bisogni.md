@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "bisogni"
 articolo: true
 image: "/images/blog/cucciolo-ritratto-hero.webp"
+og_image: "/images/og/schede/it/cuccioli-educazione-bisogni.jpg"
+og_image_alt: "Educare il cucciolo ai bisogni: metodo e tempi reali — Allevamento Del Piccolo Diavolo"
 description: "Educazione ai bisogni per cuccioli di Staffordshire Bull Terrier: routine, uscite, rinforzo positivo, gestione degli incidenti e progressione in casa e fuori."
 slug: "cuccioli-educazione-bisogni"
 custom_content: |

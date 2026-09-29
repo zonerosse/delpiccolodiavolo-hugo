@@ -5,6 +5,8 @@ lastmod: 2026-09-29
 translationKey: "parassiti"
 articolo: true
 image: "/images/blog/salute-1.webp"
+og_image: "/images/og/schede/de/staffy-parasitenvorbeugung.jpg"
+og_image_alt: "Parasitenvorbeugung für Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
 description: "Parasitenvorbeugung beim Staffordshire Bull Terrier: Flöhe, Zecken, Darmwürmer, Herzwurm und Leishmaniose, mit einem praktischen Jahresplan für Italien."
 slug: "staffy-parasitenvorbeugung"
 custom_content: |

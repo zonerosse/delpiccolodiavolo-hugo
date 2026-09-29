@@ -6,6 +6,8 @@ titleSeo: "Staffordshire Bull Terrier: is it the right dog for you?"
 translationKey: "cane-giusto"
 articolo: true
 image: "/images/blog/hero-default.webp"
+og_image: "/images/og/schede/en/is-the-staffordshire-bull-terrier-right-for-you.jpg"
+og_image_alt: "Staffordshire Bull Terrier: is it the right dog for you? — Allevamento Del Piccolo Diavolo"
 description: "Is the Staffordshire Bull Terrier right for you? Real strengths and weaknesses, who the breed suits and who it does not, and the daily commitment it asks."
 slug: "is-the-staffordshire-bull-terrier-right-for-you"
 custom_content: |
@@ -159,10 +161,6 @@ custom_content: |
   <div class="faq-answer">Italy has had no list of dangerous breeds since 2009, when a Ministry of Health order abolished it and moved responsibility from the breed to the owner. A Royal Veterinary College study published in 2020, covering more than 22,000 dogs, found no significant difference in aggression attributable to this breed. Towards people the standard describes a reliable dog, and the selection of temperament decides almost everything there. The trait genuinely worth knowing about is different: the <strong>reactivity towards other dogs</strong> typical of terriers. It remains a powerful dog for its size &mdash; not dangerous by breed, but to be handled with the seriousness any strong dog deserves.</div>
   </div>
   
-  <div class="faq-item">
-  <h3 class="faq-question">How long does a Staffordshire Bull Terrier live?</h3>
-  <div class="faq-answer">Twelve to fourteen years, a good life expectancy for a medium-sized dog. The breed is robust, with neither the <a href="/en/boas-staffordshire-bull-terrier-breathing/" title="BOAS and breathing in the Staffordshire Bull Terrier">respiratory problems of extreme brachycephalics</a> nor the joint conditions typical of large breeds. The three hereditary diseases with a DNA test &mdash; L2-HGA, hereditary cataract and degenerative myelopathy &mdash; are all recessive and are prevented by testing the parents: two clear dogs cannot produce affected puppies. After genetics, the factor that most affects lifespan is <strong>weight</strong>: an overweight Staffy ages earlier, with joints that wear out and less tolerance to heat. Twelve years is also the commitment you take on when you choose a puppy.</div>
-  </div>
   
   </section>
   

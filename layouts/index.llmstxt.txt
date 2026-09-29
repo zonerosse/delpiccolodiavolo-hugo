@@ -1,0 +1,10 @@
+{{- /* llms.txt — il testo sta in assets/llms/<lingua>.txt, scritto a mano.
+       Passa da qui solo per sostituire <!--REC-VOTO--> e <!--REC-TOTALE-->
+       con i valori di hugo.toml: le recensioni si aggiornano in un posto
+       solo, come nel resto del sito. Niente Review nello schema (vedi
+       schema.html): agli agenti AI il dato arriva da qui e dal testo. */ -}}
+{{- $t := resources.Get (printf "llms/%s.txt" .Site.Language.Lang) -}}
+{{- $c := $t.Content -}}
+{{- $c = replace $c "<!--REC-VOTO-->" (.Site.Params.recensioniVoto | default "") -}}
+{{- $c = replace $c "<!--REC-TOTALE-->" (.Site.Params.recensioniTotale | default "") -}}
+{{- $c | safeHTML -}}

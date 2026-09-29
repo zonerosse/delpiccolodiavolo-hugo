@@ -1,5 +1,7 @@
 ---
 title: "Staffy puppy abroad: timing and paperwork"
+og_image: "/images/og/schede/en/staffordshire-bull-terrier-puppy-abroad.jpg"
+og_image_alt: "Staffy puppy abroad: timing and paperwork — Allevamento Del Piccolo Diavolo"
 date: 2026-09-12
 lastmod: 2026-09-29
 articolo: true

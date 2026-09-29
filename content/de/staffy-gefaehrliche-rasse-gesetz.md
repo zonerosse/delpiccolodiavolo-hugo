@@ -5,6 +5,8 @@ lastmod: 2026-09-29
 translationKey: "pericoloso"
 articolo: true
 image: "/images/blog/hero-default.webp"
+og_image: "/images/og/schede/de/staffy-gefaehrliche-rasse-gesetz.jpg"
+og_image_alt: "Ist der Staffordshire Bull Terrier gefährlich? Gesetzeslage — Allevamento Del Piccolo Diavolo"
 description: "Ist der Staffy gefährlich? Was sagt das Gesetz? Vollständiger Leitfaden über rassenspezifische Gesetzgebung und Halterverantwortung."
 slug: "staffy-gefaehrliche-rasse-gesetz"
 custom_content: |

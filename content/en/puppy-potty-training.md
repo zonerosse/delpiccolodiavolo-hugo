@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "bisogni"
 articolo: true
 image: "/images/blog/hero-default.webp"
+og_image: "/images/og/schede/en/puppy-potty-training.jpg"
+og_image_alt: "Puppy potty training: method, timing and setbacks — Allevamento Del Piccolo Diavolo"
 description: "Potty training for Staffordshire Bull Terrier puppies: routine, outings, positive reinforcement, accident management and progression indoors and outdoors."
 slug: "puppy-potty-training"
 custom_content: |

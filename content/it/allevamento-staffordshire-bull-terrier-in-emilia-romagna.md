@@ -189,7 +189,7 @@ custom_content: |
   <div class="faq-list">
   <div class="faq-item">
   <h3>Posso visitare senza appuntamento?</h3>
-  <p>No, riceviamo esclusivamente su appuntamento per garantire la tranquillità dei cani e dedicarvi tutto il tempo necessario.</p>
+  <p>No, l'allevamento Del Piccolo Diavolo riceve esclusivamente su appuntamento per garantire la tranquillità dei cani e dedicarvi tutto il tempo necessario.</p>
   </div>
 
   <div class="faq-item">
@@ -209,7 +209,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3>Quanto costa un cucciolo Staffordshire Bull Terrier?</h3>
-  <p>I nostri cuccioli con <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="Scheda di razza ENCI" target="_blank" rel="noopener" aria-label="Scheda di razza ENCI (si apre in una nuova scheda)">pedigree ENCI</a> e test genetici completi hanno un prezzo che comunichiamo direttamente, dopo una prima chiacchierata. Per tutti i dettagli leggi <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p>
+  <p>I cuccioli dell'allevamento Del Piccolo Diavolo con <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="Scheda di razza ENCI" target="_blank" rel="noopener" aria-label="Scheda di razza ENCI (si apre in una nuova scheda)">pedigree ENCI</a> e test genetici completi hanno un prezzo che comunichiamo direttamente, dopo una prima chiacchierata. Per tutti i dettagli leggi <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p>
   </div>
   </div>
 

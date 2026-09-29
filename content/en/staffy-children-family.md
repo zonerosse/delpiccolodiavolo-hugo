@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "bambini"
 articolo: true
 image: "/images/blog/famiglia-1.webp"
+og_image: "/images/og/schede/en/staffy-children-family.jpg"
+og_image_alt: "Staffordshire Bull Terrier with children: family life — Allevamento Del Piccolo Diavolo"
 description: "Living with children and Staffordshire Bull Terriers: safety rules, supervised interactions, age-appropriate activities and building lasting bonds."
 slug: "staffy-children-family"
 custom_content: |

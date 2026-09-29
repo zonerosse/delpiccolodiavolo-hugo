@@ -5,6 +5,8 @@ lastmod: 2026-09-29
 translationKey: "altri-animali"
 articolo: true
 image: "/images/blog/famiglia-2.jpg"
+og_image: "/images/og/schede/de/staffy-andere-haustiere.jpg"
+og_image_alt: "Staffordshire Bull Terrier mit anderen Haustieren — Allevamento Del Piccolo Diavolo"
 description: "Staffordshire Bull Terrier mit anderen Hunden, Katzen und Kleintieren: was das Terrier-Erbe bedeutet, wie man zusammenführt und wo Konflikte beginnen."
 slug: "staffy-andere-haustiere"
 custom_content: |
@@ -156,7 +158,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Woran erkenne ich, dass das Zusammenleben endgültig gescheitert ist?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Es ist die Frage, die niemand stellen will, und es ist richtig, Kriterien zu haben, statt nach Gefühl zu gehen. Die Zeichen, die sagen, es reicht, sind wenige und klar: <strong>wiederholte Angriffe trotz eines ernsthaft befolgten professionellen Programms</strong>, Verletzungen, die zum Tierarzt müssen, ein Tier, das nicht mehr frisst oder das Katzenklo nicht mehr benutzt, sich tagelang versteckt oder körperliche Zeichen von Dauerstress zeigt. Hat sich die Lage nach sechs Monaten angeleiteter Arbeit nicht gebessert, schadet weiteres Beharren beiden. Das zu erkennen ist kein persönliches Versagen: es heißt, das Wohl der Tiere über die eigene Vorstellung zu stellen. Dann braucht es ein Zuhause, in dem jedes ohne das andere leben kann, und für die Hunde aus unserer Zucht ist dieses Zuhause hier.
+  <div class="faq-answer">Es ist die Frage, die niemand stellen will, und es ist richtig, Kriterien zu haben, statt nach Gefühl zu gehen. Die Zeichen, die sagen, es reicht, sind wenige und klar: <strong>wiederholte Angriffe trotz eines ernsthaft befolgten professionellen Programms</strong>, Verletzungen, die zum Tierarzt müssen, ein Tier, das nicht mehr frisst oder das Katzenklo nicht mehr benutzt, sich tagelang versteckt oder körperliche Zeichen von Dauerstress zeigt. Hat sich die Lage nach sechs Monaten angeleiteter Arbeit nicht gebessert, schadet weiteres Beharren beiden. Das zu erkennen ist kein persönliches Versagen: es heißt, das Wohl der Tiere über die eigene Vorstellung zu stellen. Dann braucht es ein Zuhause, in dem jedes ohne das andere leben kann, und für die Hunde aus der Zucht Del Piccolo Diavolo ist dieses Zuhause hier.
   </div>
   </div>
 

@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "giochi-mentali"
 articolo: true
 image: "/images/blog/cuccioli-3.webp"
+og_image: "/images/og/schede/en/puppy-mental-games.jpg"
+og_image_alt: "Mental games for Staffordshire Bull Terrier puppies — Allevamento Del Piccolo Diavolo"
 description: "Mental games for Staffordshire Bull Terrier puppies: stimulating mind and self-control with sniffing games, puzzles and enrichment activities."
 slug: "puppy-mental-games"
 custom_content: |

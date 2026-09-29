@@ -5,6 +5,8 @@ lastmod: 2026-09-29
 translationKey: "esercizio"
 articolo: true
 image: "/images/blog/salute-1.webp"
+og_image: "/images/og/schede/en/staffy-safe-exercise.jpg"
+og_image_alt: "Safe Exercise for Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
 description: "Guide to safe and appropriate exercise for Staffy: daily activity, avoiding injuries, exercise for puppies and adults, fun activities."
 slug: "staffy-safe-exercise"
 custom_content: |

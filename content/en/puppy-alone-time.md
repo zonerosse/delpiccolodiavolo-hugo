@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "solitudine"
 articolo: true
 image: "/images/blog/hero-default.webp"
+og_image: "/images/og/schede/en/puppy-alone-time.jpg"
+og_image_alt: "Teaching a puppy to stay alone without stress — Allevamento Del Piccolo Diavolo"
 description: "Teaching a Staffordshire Bull Terrier puppy to stay alone without separation anxiety: realistic timings and the mistakes that make it worse."
 slug: "puppy-alone-time"
 custom_content: |

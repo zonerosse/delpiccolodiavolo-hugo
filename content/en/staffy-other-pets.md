@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "altri-animali"
 articolo: true
 image: "/images/blog/famiglia-3.webp"
+og_image: "/images/og/schede/en/staffy-other-pets.jpg"
+og_image_alt: "Staffordshire Bull Terrier with other pets at home — Allevamento Del Piccolo Diavolo"
 description: "Staffordshire Bull Terriers living with other pets: cats, small animals, other dogs - cohabitation tips, introductions and realistic expectations."
 slug: "staffy-other-pets"
 custom_content: |
@@ -162,7 +164,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How do I know the arrangement has definitely failed?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">It is the question nobody wants to ask, and it is right to have criteria rather than go on feelings. The signs that say enough are few and clear: <strong>repeated attacks despite a professional programme genuinely followed</strong>, injuries that need a vet, one of the animals that stops eating or using its litter tray, hides for whole days or shows physical signs of chronic stress. If after six months of guided work the situation has not improved, persisting hurts both. Recognising it is not a personal failure: it means choosing the animals' welfare over the idea you had formed. In that case the answer is a home where each can live without the other, and for the dogs we have bred, that home is here.
+  <div class="faq-answer">It is the question nobody wants to ask, and it is right to have criteria rather than go on feelings. The signs that say enough are few and clear: <strong>repeated attacks despite a professional programme genuinely followed</strong>, injuries that need a vet, one of the animals that stops eating or using its litter tray, hides for whole days or shows physical signs of chronic stress. If after six months of guided work the situation has not improved, persisting hurts both. Recognising it is not a personal failure: it means choosing the animals' welfare over the idea you had formed. In that case the answer is a home where each can live without the other, and for dogs bred by the Del Piccolo Diavolo kennel, that home is here.
   </div>
   </div>
 

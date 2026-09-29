@@ -5,6 +5,8 @@ lastmod: 2026-09-29
 translationKey: "viaggi"
 articolo: true
 image: "/images/blog/famiglia-4.jpg"
+og_image: "/images/og/schede/de/staffy-reisen-transport.jpg"
+og_image_alt: "Reisen und Transport mit Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
 description: "Mit dem Staffordshire Bull Terrier reisen: Auto, Flugzeug, Hotel und Papiere, mit den Regeln für Italien und die wichtigsten europäischen Länder."
 slug: "staffy-reisen-transport"
 custom_content: |
@@ -82,7 +84,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Kann ein Staffy fliegen?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Technisch ja, aber es muss ernsthaft abgewogen werden, weil die Rasse einen verkürzten Fang hat. Mehrere Fluggesellschaften beschränken oder verbieten brachyzephale Hunde im Frachtraum, gerade wegen des Atemrisikos durch Stress und Temperatur: die Regeln wechseln von Gesellschaft zu Gesellschaft und müssen auf deren eigener Website geprüft werden, nicht im Reisebüro erfragt. In der Kabine dürfen nur Hunde bis etwa acht bis zehn Kilo reisen, ein erwachsener Staffy fällt also fast nie darunter. Die praktische Folge ist einfach: für diese Rasse <strong>bleibt das Auto das beste Verkehrsmittel</strong>, mit Pausen alle zwei bis drei Stunden. Für unsere eigenen Welpen stellt sich die Frage nicht: wir verschicken keine Hunde und schicken sie nicht in den Frachtraum; wer einen nimmt, holt ihn ab.
+  <div class="faq-answer">Technisch ja, aber es muss ernsthaft abgewogen werden, weil die Rasse einen verkürzten Fang hat. Mehrere Fluggesellschaften beschränken oder verbieten brachyzephale Hunde im Frachtraum, gerade wegen des Atemrisikos durch Stress und Temperatur: die Regeln wechseln von Gesellschaft zu Gesellschaft und müssen auf deren eigener Website geprüft werden, nicht im Reisebüro erfragt. In der Kabine dürfen nur Hunde bis etwa acht bis zehn Kilo reisen, ein erwachsener Staffy fällt also fast nie darunter. Die praktische Folge ist einfach: für diese Rasse <strong>bleibt das Auto das beste Verkehrsmittel</strong>, mit Pausen alle zwei bis drei Stunden. Für die Welpen der Zucht Del Piccolo Diavolo stellt sich die Frage nicht: wir verschicken keine Hunde und schicken sie nicht in den Frachtraum; wer einen nimmt, holt ihn ab.
   </div>
   </div>
 

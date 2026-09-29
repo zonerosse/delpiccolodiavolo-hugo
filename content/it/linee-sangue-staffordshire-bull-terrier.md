@@ -6,6 +6,8 @@ titleSeo: "Storia delle linee di sangue dello Staffy"
 translationKey: "linee-sangue"
 articolo: true
 image: "/images/blog/linee-sangue-hero.webp"
+og_image: "/images/og/schede/it/linee-sangue-staffordshire-bull-terrier.jpg"
+og_image_alt: "Storia delle linee di sangue dello Staffy — Allevamento Del Piccolo Diavolo"
 description: "Guida completa alle linee di sangue dello Staffordshire Bull Terrier: storia delle 6 linee fondatrici, genealogie documentate e allevamenti moderni UK/Irlanda."
 slug: "linee-sangue-staffordshire-bull-terrier"
 custom_content: |
@@ -135,7 +137,7 @@ custom_content: |
   
   <h3>Malattie Genetiche Principali</h3>
   
-  <p><strong>L2-Hydroxyglutaric Aciduria (L2-HGA)</strong> - Una malattia neurologica progressiva che causa atassia, tremori, convulsioni. Test obbligatorio nel nostro allevamento.</p>
+  <p><strong>L2-Hydroxyglutaric Aciduria (L2-HGA)</strong> - Una malattia neurologica progressiva che causa atassia, tremori, convulsioni. Test obbligatorio nell'allevamento Del Piccolo Diavolo.</p>
   
   <p><strong>Hereditary Cataract (HC-HSF4)</strong> - Causa cataratta giovanile che può portare alla cecità. Ereditata in modo autosomico recessivo.</p>
   
@@ -265,7 +267,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Quali sono le differenze tra linee irlandesi e inglesi?</h3>
-  <div class="faq-answer">Meno di quanto si racconta in giro. Le descrizioni che assegnano tratti fissi per nazionalit&agrave; &mdash; gli inglesi cos&igrave;, gli irlandesi cos&agrave; &mdash; sono semplificazioni: dentro ciascuna tradizione ci sono allevamenti molto diversi fra loro, e le linee si incrociano da decenni. Quello che si pu&ograve; dire con onest&agrave; &egrave; che alcuni allevamenti storici hanno lasciato un'impronta riconoscibile sul tipo, e che chi seleziona impara a riconoscerla guardando i cani, non la bandiera. Nel nostro caso lavoriamo su <strong>Elitebull</strong>, inglese, e <strong>Lackyle</strong>, irlandese: non sono due stili contrapposti, perch&eacute; i soggetti storici di Lackyle compaiono proprio nei pedigree di Elitebull. La seconda linea, in altre parole, contiene la prima.</div>
+  <div class="faq-answer">Meno di quanto si racconta in giro. Le descrizioni che assegnano tratti fissi per nazionalit&agrave; &mdash; gli inglesi cos&igrave;, gli irlandesi cos&agrave; &mdash; sono semplificazioni: dentro ciascuna tradizione ci sono allevamenti molto diversi fra loro, e le linee si incrociano da decenni. Quello che si pu&ograve; dire con onest&agrave; &egrave; che alcuni allevamenti storici hanno lasciato un'impronta riconoscibile sul tipo, e che chi seleziona impara a riconoscerla guardando i cani, non la bandiera. L'allevamento Del Piccolo Diavolo lavora su <strong>Elitebull</strong>, inglese, e <strong>Lackyle</strong>, irlandese: non sono due stili contrapposti, perch&eacute; i soggetti storici di Lackyle compaiono proprio nei pedigree di Elitebull. La seconda linea, in altre parole, contiene la prima.</div>
   </div>
   
   <div class="faq-item">

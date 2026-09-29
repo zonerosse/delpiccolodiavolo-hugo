@@ -1,11 +1,13 @@
 ---
 title: "Staffordshire Bull Terrier: Carattere, Vita in Famiglia e Cosa Aspettarsi"
 date: 2026-04-28
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 titleSeo: "Staffordshire Bull Terrier: carattere e vita in famiglia"
 translationKey: "carattere-famiglia"
 articolo: true
 image: "/images/cucciolo-con-cavallo.avif"
+og_image: "/images/og/schede/it/staffordshire-bull-terrier-carattere-vita-famiglia.jpg"
+og_image_alt: "Staffordshire Bull Terrier: carattere e vita in famiglia — Allevamento Del Piccolo Diavolo"
 description: "Com’è vivere con uno Staffordshire Bull Terrier: bambini, altri animali, appartamento ed energia, raccontati da un allevatore ENCI dal 2013."
 slug: "staffordshire-bull-terrier-carattere-vita-famiglia"
 custom_content: |
@@ -118,25 +120,13 @@ custom_content: |
   <p>Risposte basate su 20 anni di esperienza diretta</p>
   </div>
 
-  <div class="faq-item">
-  <h3 class="faq-question">Lo Staffordshire Bull Terrier è adatto a un proprietario alla prima esperienza?</h3>
-  <div class="faq-answer">Pu&ograve; esserlo, e la taglia gioca a favore: quindici chili si gestiscono anche quando si sbaglia qualcosa, trenta molto meno. &Egrave; un cane che impara in fretta ed &egrave; molto motivato dalle persone, quindi perdona gli errori di chi sta imparando. Le due cose da sapere prima sono per&ograve; precise. La prima &egrave; il tempo: soffre le assenze lunghe pi&ugrave; di altre razze, e chi sta fuori dodici ore al giorno dovrebbe ripensarci a prescindere dall'esperienza. La seconda &egrave; che resta un terrier, con una possibile <strong>reattivit&agrave; verso gli altri cani</strong> che la socializzazione precoce riduce ma non cancella. Un primo cane fatto bene richiede comunque una scuola di base e un allevatore che resti disponibile dopo l'affido, non solo fino alla consegna.</div>
-  </div>
 
   <div class="faq-item">
   <h3 class="faq-question">Lo Staffy va d'accordo con i gatti?</h3>
   <div class="faq-answer">Dipende dal singolo cane e da come &egrave; stato cresciuto, e va detto che &egrave; un terrier: l'istinto predatorio verso animali piccoli e in movimento esiste e non si cancella con l'educazione. Un cucciolo cresciuto in casa con i gatti spesso convive benissimo, perch&eacute; il gatto entra a far parte del suo mondo normale nelle settimane giuste. Un adulto che non ne ha mai visti &egrave; una situazione completamente diversa e richiede un inserimento graduale, con scambio di odori, incontri a distanza e <strong>vie di fuga in alto sempre disponibili per il gatto</strong>. Fino a quando la convivenza non &egrave; consolidata non si lasciano soli, e in alcuni casi la separazione in assenza resta la scelta prudente per sempre.</div>
   </div>
 
-  <div class="faq-item">
-  <h3 class="faq-question">Quanto vive uno Staffordshire Bull Terrier?</h3>
-  <div class="faq-answer">Dodici-quattordici anni, che &egrave; un'ottima aspettativa per un cane di taglia media e fra le migliori nel gruppo dei molossoidi. La razza &egrave; robusta, senza le <a href="/boas-staffordshire-bull-terrier-respirazione/" title="BOAS e respirazione nello Staffordshire Bull Terrier">problematiche respiratorie dei brachicefali estremi</a> e senza le patologie articolari tipiche delle taglie grandi. Le tre patologie ereditarie con un test del DNA &mdash; L2-HGA, cataratta ereditaria e mielopatia degenerativa &mdash; si prevengono testando i riproduttori, perch&eacute; sono tutte recessive: due genitori esenti non possono produrre cuccioli malati. A valle della genetica, la cosa che incide di pi&ugrave; sulla durata della vita &egrave; il <strong>peso</strong>: uno Staffy in sovrappeso invecchia prima, con articolazioni che si consumano e minor tolleranza al caldo. Dodici anni sono il periodo per cui ci si impegna prendendo un cucciolo.</div>
-  </div>
 
-  <div class="faq-item">
-  <h3 class="faq-question">Lo Staffy abbaia molto?</h3>
-  <div class="faq-answer">No, &egrave; una delle razze pi&ugrave; silenziose nel suo gruppo, e in condominio questo conta parecchio. Non &egrave; un cane da allarme: segnala quando c'&egrave; qualcosa di nuovo alla porta e poi smette, senza quell'abbaio continuo che &egrave; il primo motivo di lamentele fra vicini. Quando uno Staffy abbaia molto, quasi sempre il problema non &egrave; la razza ma la situazione: noia, esercizio insufficiente, oppure solitudine prolungata. In quest'ultimo caso l'abbaio pu&ograve; essere il sintomo di un'<strong>ansia da separazione</strong>, che &egrave; un disturbo riconosciuto e non un capriccio, e si affronta con un percorso graduale e con l'aiuto di un professionista. Sgridare un cane che abbaia per ansia peggiora l'ansia.</div>
-  </div>
   </section>
 
   <div class="related">

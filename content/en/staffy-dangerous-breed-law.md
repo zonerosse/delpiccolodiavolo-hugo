@@ -5,6 +5,8 @@ lastmod: 2026-09-29
 translationKey: "pericoloso"
 articolo: true
 image: "/images/blog/hero-default.webp"
+og_image: "/images/og/schede/en/staffy-dangerous-breed-law.jpg"
+og_image_alt: "Is Staffordshire Bull Terrier Dangerous? Italian Law — Allevamento Del Piccolo Diavolo"
 description: "Is the Staffy dangerous? What does Italian law say? Complete guide on breed-specific legislation, restrictions and owner responsibilities."
 slug: "staffy-dangerous-breed-law"
 custom_content: |

@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "socializzazione"
 articolo: true
 image: "/images/blog/cucciolo-in-mano-hero.webp"
+og_image: "/images/og/schede/it/cuccioli-socializzazione-in-casa.jpg"
+og_image_alt: "Socializzare il cucciolo in casa: la lista per la famiglia — Allevamento Del Piccolo Diavolo"
 description: "Superfici, rumori, mani addosso, ospiti e ciotole: la lista di cose da far conoscere a un cucciolo di Staffordshire Bull Terrier nelle prime settimane a casa."
 slug: "cuccioli-socializzazione-in-casa"
 custom_content: |

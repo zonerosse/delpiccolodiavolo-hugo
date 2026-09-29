@@ -6,6 +6,8 @@ lastmod: 2026-09-29
 translationKey: "socializzazione-affido"
 articolo: true
 image: "/images/blog/socializzazione-cortile-hero.webp"
+og_image: "/images/og/schede/it/cuccioli-socializzati-cosa-vuol-dire.jpg"
+og_image_alt: "Cuccioli socializzati: cosa vuol dire davvero — Allevamento Del Piccolo Diavolo"
 description: "La finestra sensibile va dalla terza alla dodicesima settimana: cosa un cucciolo può incontrare in allevamento, cosa no, e cosa resta da fare alla famiglia."
 slug: "cuccioli-socializzati-cosa-vuol-dire"
 custom_content: |
@@ -91,7 +93,7 @@ custom_content: |
 
   <h2>Cosa facciamo noi, e cosa non facciamo</h2>
 
-  <p>I nostri cuccioli nascono in casa e ci restano il primo mese, nella cassa parto, che non sta in una stanza silenziosa: sta vicino alla televisione e alla radio, perch&eacute; il rumore di una casa abitata &egrave; la prima cosa a cui un cucciolo deve fare l'abitudine.</p>
+  <p>I cuccioli dell'allevamento Del Piccolo Diavolo nascono in casa e ci restano il primo mese, nella cassa parto, che non sta in una stanza silenziosa: sta vicino alla televisione e alla radio, perch&eacute; il rumore di una casa abitata &egrave; la prima cosa a cui un cucciolo deve fare l'abitudine.</p>
 
   <p>Intorno ai <strong>trenta giorni</strong> passano nel box protetto, pensato per loro: uno spazio dove possono muoversi in sicurezza mentre le zampe reggono ancora poco e dove cominciano lo svezzamento.</p>
 
@@ -162,7 +164,7 @@ custom_content: |
 
   <section class="cta-section">
   <h2>Vuoi vedere dove crescono?</h2>
-  <p>Riceviamo su appuntamento a Ostellato, in provincia di Ferrara. Si vede la casa, il cortile e le madri.</p>
+  <p>L'allevamento Del Piccolo Diavolo riceve su appuntamento a Ostellato, in provincia di Ferrara. Si vede la casa, il cortile e le madri.</p>
   <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20vedere%20dove%20crescono%20i%20cuccioli" class="btn" title="Scrivici su WhatsApp" target="_blank" rel="noopener" aria-label="Scrivici su WhatsApp per fissare una visita (si apre in una nuova scheda)">Fissa una visita</a>
   </section>
 ---

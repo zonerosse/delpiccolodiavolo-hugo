@@ -5,6 +5,8 @@ lastmod: 2026-09-29
 translationKey: "anziani"
 articolo: true
 image: "/images/blog/famiglia-2.webp"
+og_image: "/images/og/schede/it/famiglia-anziani-rispetto-ritmi.jpg"
+og_image_alt: "Staffordshire Bull Terrier per Anziani: Guida Completa — Allevamento Del Piccolo Diavolo"
 description: "Guida realistica Staffy per anziani: valutazione pre-adozione, routine sicure, gestione passeggiate, supporto familiare, costi reali e benefici comprovati."
 slug: "famiglia-anziani-rispetto-ritmi"
 custom_content: |
@@ -241,7 +243,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Meglio cucciolo o adulto per anziano?</h3>
-  <div class="faq-answer">Quasi sempre un adulto, e non &egrave; un ripiego. Un cucciolo significa notti interrotte, bisogni ogni due ore, mordicchiamento, e otto mesi di imprevedibilit&agrave; su un carattere ancora in formazione. Un adulto fra i tre e i cinque anni ha un temperamento gi&agrave; espresso: si sa se convive con i gatti, come sta in casa da solo, quanto tira al guinzaglio &mdash; e non &egrave; una scommessa. In pi&ugrave;, il ritmo di un cane adulto assomiglia molto di pi&ugrave; a quello di una persona anziana. L'obiezione pi&ugrave; comune &egrave; il legame, che per&ograve; non dipende dall'et&agrave; a cui arriva: gli Staffy si affezionano profondamente anche da adulti. Per chi viene da noi, un cane che abbiamo allevato e che torna disponibile &egrave; spesso la soluzione migliore.</div>
+  <div class="faq-answer">Quasi sempre un adulto, e non &egrave; un ripiego. Un cucciolo significa notti interrotte, bisogni ogni due ore, mordicchiamento, e otto mesi di imprevedibilit&agrave; su un carattere ancora in formazione. Un adulto fra i tre e i cinque anni ha un temperamento gi&agrave; espresso: si sa se convive con i gatti, come sta in casa da solo, quanto tira al guinzaglio &mdash; e non &egrave; una scommessa. In pi&ugrave;, il ritmo di un cane adulto assomiglia molto di pi&ugrave; a quello di una persona anziana. L'obiezione pi&ugrave; comune &egrave; il legame, che per&ograve; non dipende dall'et&agrave; a cui arriva: gli Staffy si affezionano profondamente anche da adulti. Per chi si rivolge all'allevamento Del Piccolo Diavolo, un cane che abbiamo allevato e che torna disponibile &egrave; spesso la soluzione migliore.</div>
   </div>
   
   <div class="faq-item">
@@ -256,7 +258,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Cosa succede al cane se vengo ricoverato?</h3>
-  <div class="faq-answer">&Egrave; la domanda pi&ugrave; importante e quella che quasi nessuno fa in tempo. La risposta pratica sono tre livelli, da predisporre <strong>prima</strong>: una persona di riferimento che ha le chiavi e sa dove sono cibo e libretto sanitario, una seconda persona come riserva, e una pensione o un dog sitter gi&agrave; provati, non cercati di corsa. Conviene tenere in vista un foglio con nome del cane, microchip, veterinario, terapie in corso e contatti. Sul piano pi&ugrave; lungo vale la pena scriverlo nero su bianco a chi affidare il cane in via definitiva, perch&eacute; senza indicazioni la questione ricade su parenti che potrebbero non poterlo tenere. I cani che abbiamo allevato tornano comunque da noi, in qualsiasi momento e per qualsiasi ragione.</div>
+  <div class="faq-answer">&Egrave; la domanda pi&ugrave; importante e quella che quasi nessuno fa in tempo. La risposta pratica sono tre livelli, da predisporre <strong>prima</strong>: una persona di riferimento che ha le chiavi e sa dove sono cibo e libretto sanitario, una seconda persona come riserva, e una pensione o un dog sitter gi&agrave; provati, non cercati di corsa. Conviene tenere in vista un foglio con nome del cane, microchip, veterinario, terapie in corso e contatti. Sul piano pi&ugrave; lungo vale la pena scriverlo nero su bianco a chi affidare il cane in via definitiva, perch&eacute; senza indicazioni la questione ricade su parenti che potrebbero non poterlo tenere. I cani nati all'allevamento Del Piccolo Diavolo tornano comunque da noi, in qualsiasi momento e per qualsiasi ragione.</div>
   </div>
   
   <div class="faq-item">

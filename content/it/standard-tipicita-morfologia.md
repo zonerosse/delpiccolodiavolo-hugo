@@ -5,6 +5,8 @@ lastmod: 2026-09-29
 translationKey: "standard"
 articolo: true
 image: "/images/blog/standard-1.webp"
+og_image: "/images/og/schede/it/standard-tipicita-morfologia.jpg"
+og_image_alt: "Staffordshire Bull Terrier: Tipicità di Razza e Morfologia — Allevamento Del Piccolo Diavolo"
 description: "Lo standard FCI dello Staffordshire Bull Terrier spiegato: testa, proporzioni, ossatura, movimento, colori e carattere, i punti che fanno la differenza in expo."
 slug: "standard-tipicita-morfologia"
 custom_content: |

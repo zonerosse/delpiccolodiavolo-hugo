@@ -5,6 +5,8 @@ lastmod: 2026-09-29
 translationKey: "viaggi"
 articolo: true
 image: "/images/blog/famiglia-4.webp"
+og_image: "/images/og/schede/it/famiglia-viaggi-spostamenti.jpg"
+og_image_alt: "Viaggiare con Staffordshire Bull Terrier: Auto, Treno, Hotel — Allevamento Del Piccolo Diavolo"
 description: "Viaggi Staffy: trasportino omologato, documenti necessari, pause ogni 2h, hotel pet-friendly, treno con cane, gestione cuccioli e consigli pratici."
 slug: "famiglia-viaggi-spostamenti"
 custom_content: |
@@ -174,7 +176,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Staffy può viaggiare in aereo?</h3>
-  <div class="faq-answer">Tecnicamente s&igrave;, ma va valutato seriamente perch&eacute; la razza ha un muso raccorciato. Diverse compagnie hanno restrizioni o divieti espliciti per i cani brachicefali in stiva, proprio per il <a href="/boas-staffordshire-bull-terrier-respirazione/" title="BOAS e respirazione nello Staffordshire Bull Terrier">rischio respiratorio</a> legato allo stress e alle temperature: le regole cambiano da vettore a vettore e vanno verificate sul sito della compagnia, non chieste in agenzia. In cabina possono salire solo i cani sotto gli otto-dieci chili, quindi uno Staffy adulto non rientra quasi mai. La conseguenza pratica &egrave; semplice: per questa razza <strong>l'auto resta il mezzo migliore</strong>, con soste ogni due-tre ore. Per i nostri cuccioli il punto non si pone: non spediamo cani e non li facciamo viaggiare in stiva, chi ne prende uno viene a prenderlo.</div>
+  <div class="faq-answer">Tecnicamente s&igrave;, ma va valutato seriamente perch&eacute; la razza ha un muso raccorciato. Diverse compagnie hanno restrizioni o divieti espliciti per i cani brachicefali in stiva, proprio per il <a href="/boas-staffordshire-bull-terrier-respirazione/" title="BOAS e respirazione nello Staffordshire Bull Terrier">rischio respiratorio</a> legato allo stress e alle temperature: le regole cambiano da vettore a vettore e vanno verificate sul sito della compagnia, non chieste in agenzia. In cabina possono salire solo i cani sotto gli otto-dieci chili, quindi uno Staffy adulto non rientra quasi mai. La conseguenza pratica &egrave; semplice: per questa razza <strong>l'auto resta il mezzo migliore</strong>, con soste ogni due-tre ore. Per i cuccioli dell'allevamento Del Piccolo Diavolo il punto non si pone: non spediamo cani e non li facciamo viaggiare in stiva, chi ne prende uno viene a prenderlo.</div>
   </div>
   
   <div class="faq-item">

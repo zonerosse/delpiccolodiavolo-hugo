@@ -6,6 +6,8 @@ titleSeo: "Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich"
 translationKey: "pitbull-amstaff"
 articolo: true
 image: "/images/blog/hero-default.webp"
+og_image: "/images/og/schede/de/staffy-pitbull-amstaff-unterschied.jpg"
+og_image_alt: "Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich — Allevamento Del Piccolo Diavolo"
 description: "Nicht derselbe Hund: 11-17 kg gegen 25-32, 2 FCI-anerkannte Standards und einer nicht. Wie man sie wirklich unterscheidet, von einem Züchter erklärt."
 slug: "staffy-pitbull-amstaff-unterschied"
 custom_content: |

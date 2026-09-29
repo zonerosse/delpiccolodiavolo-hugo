@@ -3,6 +3,8 @@ title: "Staffy or Amstaff, Which Suits You: the Breeder's Test"
 lastmod: 2026-09-29
 articolo: true
 image: "/images/blog/staffy-amstaff-hero.webp"
+og_image: "/images/og/schede/en/staffy-or-amstaff-which-breed-suits-you.jpg"
+og_image_alt: "Staffy or Amstaff, which suits you: the breeder's test — Allevamento Del Piccolo Diavolo"
 titleSeo: "Staffy or Amstaff, which suits you: the breeder's test"
 translationKey: "differenza-staffy-amstaff"
 description: "Seven questions on home, children, experience, time and paperwork, from a Staffordshire Bull Terrier breeder since 2013. For choosing, not for telling apart."

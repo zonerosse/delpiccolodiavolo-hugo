@@ -87,3 +87,10 @@ One file, `assets/css/main.css` (already minified in-repo, single long line), in
 ## Repo cruft — do not treat as source
 
 `content_backup/`, `content/*- Copia.zip`, `layouts.zip`, `lista.txt` (UTF-16 file listing), and `PULIZIA-FILE-VECCHI.bat` are leftovers from the site migration. `public/` is gitignored but present locally.
+
+## Share cards (og:image) for articles
+
+Every article (IT/EN/DE) has its own 1200x630 share card in `static/images/og/schede/<lang>/<slug>.jpg`: title, category label, a Lucide icon matching the topic inside a circle with the category gradient, kennel name. Set via `og_image` / `og_image_alt` in front matter. Photos were dropped on purpose: Paolo does not want photos that do not match the topic.
+Colours: health `#27403a→#4f7566`, puppies `#6b3f1d→#b7793a`, family `#4a2c26→#9a5840`, standard/bloodlines and "know the breed" `#211d1a→#5c4a3a`.
+New article = add its slug, category and icon to `MAP` in `tools/schede-og/genera.py`, generate the cards for the three languages and set the front matter. Institutional pages (home, about, puppies, females, males, reviews, contact) keep `og-default.jpg`.
+
