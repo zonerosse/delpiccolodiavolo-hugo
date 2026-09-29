@@ -36,7 +36,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a aria-label="Standard e Linee — categoria del blog" href="/blog/#standard-linee-sangue" title="Standard e Linee di Sangue">Standard e Linee</a> ›
+  <a aria-label="Standard e Linee — categoria del blog" href="/blog/#standard" title="Standard e Linee di Sangue">Standard e Linee</a> ›
   <span>Differenza Staffy, Pitbull, Amstaff</span>
   </nav>
   
@@ -276,11 +276,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
   
   <p class="tags"><strong>Tag:</strong>
-  <a aria-label="Guide sullo Staffordshire Bull Terrier" href="/blog/#standard-linee-sangue" title="Articoli standard">staffordshire bull terrier</a>
-  <a aria-label="pitbull — categoria del blog" href="/blog/#standard-linee-sangue" title="Articoli pitbull">pitbull</a>
-  <a aria-label="amstaff — categoria del blog" href="/blog/#standard-linee-sangue" title="Articoli amstaff">amstaff</a>
-  <a aria-label="differenza razze — categoria del blog" href="/blog/#standard-linee-sangue" title="Articoli differenze">differenza razze</a>
-  <a aria-label="standard FCI — categoria del blog" href="/blog/#standard-linee-sangue" title="Articoli FCI">standard FCI</a>
+  <a aria-label="Guide sullo Staffordshire Bull Terrier" href="/blog/#standard" title="Articoli standard">staffordshire bull terrier</a>
+  <a aria-label="pitbull — categoria del blog" href="/blog/#standard" title="Articoli pitbull">pitbull</a>
+  <a aria-label="amstaff — categoria del blog" href="/blog/#standard" title="Articoli amstaff">amstaff</a>
+  <a aria-label="differenza razze — categoria del blog" href="/blog/#standard" title="Articoli differenze">differenza razze</a>
+  <a aria-label="standard FCI — categoria del blog" href="/blog/#standard" title="Articoli FCI">standard FCI</a>
   </p>
   </div>
   

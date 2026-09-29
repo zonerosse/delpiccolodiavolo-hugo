@@ -36,7 +36,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a aria-label="Standard e Linee — categoria del blog" href="/blog/#standard-linee-sangue" title="Standard e Linee">Standard e Linee</a> ›
+  <a aria-label="Standard e Linee — categoria del blog" href="/blog/#standard" title="Standard e Linee">Standard e Linee</a> ›
   <span>Come Orientarsi</span>
   </nav>
   
@@ -165,11 +165,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
   
   <p class="tags"><strong>Tag:</strong>
-  <a aria-label="linee di sangue — categoria del blog" href="/blog/#standard-linee-sangue" title="Articoli linee">linee di sangue</a>
-  <a aria-label="bloodlines — categoria del blog" href="/blog/#standard-linee-sangue" title="Articoli bloodlines">bloodlines</a>
-  <a aria-label="pedigree — categoria del blog" href="/blog/#standard-linee-sangue" title="Articoli pedigree">pedigree</a>
-  <a aria-label="selezione — categoria del blog" href="/blog/#standard-linee-sangue" title="Articoli selezione">selezione</a>
-  <a aria-label="test genetici — categoria del blog" href="/blog/#standard-linee-sangue" title="Articoli test">test genetici</a>
+  <a aria-label="linee di sangue — categoria del blog" href="/blog/#standard" title="Articoli linee">linee di sangue</a>
+  <a aria-label="bloodlines — categoria del blog" href="/blog/#standard" title="Articoli bloodlines">bloodlines</a>
+  <a aria-label="pedigree — categoria del blog" href="/blog/#standard" title="Articoli pedigree">pedigree</a>
+  <a aria-label="selezione — categoria del blog" href="/blog/#standard" title="Articoli selezione">selezione</a>
+  <a aria-label="test genetici — categoria del blog" href="/blog/#standard" title="Articoli test">test genetici</a>
   </p>
   </div>
   

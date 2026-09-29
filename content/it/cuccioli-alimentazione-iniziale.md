@@ -2,7 +2,7 @@
 title: "Cuccioli: Alimentazione iniziale"
 date: 2025-04-15
 titleSeo: "Alimentazione del cucciolo Staffy nei primi mesi"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/cuccioli-4.webp"
@@ -18,18 +18,18 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Cuccioli</span>
   <h1 class="hero-title">Alimentazione <em>Iniziale</em></h1>
-  <p class="hero-subtitle">Dosi, frequenza dei pasti e transizione sicura</p>
+  <p class="hero-subtitle">Quanto, quante volte al giorno, e cosa non dare mai</p>
   <div class="hero-meta">
   <span>📅 15 Aprile 2025</span>
-  <span>⏱️ 8 min lettura</span>
+  <span>⏱️ 7 min lettura</span>
   </div>
   </div>
   </section>
   
   <div class="features-bar">
   <div class="features-track">
-  <span>Frequenza Pasti</span><span>Dosi Giornaliere</span><span>Transizione Graduale</span><span>Idratazione</span><span>Snack e Masticativi</span><span>Integrazioni</span>
-  <span>Frequenza Pasti</span><span>Dosi Giornaliere</span><span>Transizione Graduale</span><span>Idratazione</span><span>Snack e Masticativi</span><span>Integrazioni</span>
+  <span>Non Cambiare Tutto Subito</span><span>Quanto e Quante Volte</span><span>Scegliere l'Alimento</span><span>Cibi Pericolosi</span><span>Premi e Addestramento</span><span>Peso</span>
+  <span>Non Cambiare Tutto Subito</span><span>Quanto e Quante Volte</span><span>Scegliere l'Alimento</span><span>Cibi Pericolosi</span><span>Premi e Addestramento</span><span>Peso</span>
   </div>
   </div>
   
@@ -43,76 +43,45 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Un cucciolo di Staffordshire Bull Terrier mangia <strong>tre volte al giorno fino ai sei mesi</strong> e due da lì in avanti, con orari regolari che aiutano digestione, routine dei bisogni e autocontrollo. Il cambio di alimento rispetto a quello dell'allevamento va fatto gradualmente nell'arco di una settimana, mescolando quantità crescenti del nuovo: un cambio brusco provoca quasi sempre diarrea. La quantità si regola sulla condizione del cane e non solo sulla tabella della confezione: le costole devono essere palpabili senza premere. È la razza sbagliata per gli extra fuori pasto, perché ingrassa con facilità, e il sovrappeso in crescita carica articolazioni ancora in formazione. L'acqua deve essere sempre disponibile e cambiata ogni giorno, anche per i cuccioli che mangiano cibo umido.</p>
+  <p>Un cucciolo di Staffordshire Bull Terrier mangia <strong>tre volte al giorno fino ai sei mesi</strong> e due da lì in avanti, con orari regolari che aiutano digestione, routine dei bisogni e autocontrollo. Il cambio di alimento rispetto a quello dell'allevamento va fatto gradualmente nell'arco di sette-dieci giorni, mescolando quantità crescenti del nuovo: un cambio brusco provoca quasi sempre diarrea. La quantità si regola sulla condizione del cane e non solo sulla tabella della confezione: le costole devono essere palpabili senza premere. È la razza sbagliata per gli extra fuori pasto, perché ingrassa con facilità, e il sovrappeso in crescita carica articolazioni ancora in formazione. L'acqua deve essere sempre disponibile e cambiata ogni giorno, anche per i cuccioli che mangiano cibo umido.</p>
 
+  <h2>La prima regola: non cambiare tutto subito</h2>
+  <p>Un cucciolo che arriva in una casa nuova ha appena perso la madre, i fratelli e tutto quello che conosceva. Cambiargli anche il cibo lo stesso giorno aggiunge un disturbo digestivo alla lista, e la diarrea in un cucciolo di otto settimane non è una cosa da poco.</p>
+  <p>Per almeno la prima settimana si dà esattamente quello che dava l'allevatore. Se dopo si vuole cambiare, lo si fa in sette-dieci giorni: tre giorni con un quarto di cibo nuovo, tre con metà, tre con tre quarti, poi tutto nuovo. Se le feci si ammorbidiscono si torna indietro di un passo e si procede più piano.</p>
+  <p>Ogni cucciolo Del Piccolo Diavolo parte con una scorta del suo alimento e con gli orari esatti dei pasti, per questa ragione precisa.</p>
+
+  <h2>Quante volte e quanto</h2>
+  <p>Fino ai sei mesi, tre pasti al giorno a orari regolari. Dai sei mesi in avanti due, e i due pasti al giorno vanno mantenuti per tutta la vita invece di scendere a uno: un solo pasto abbondante, in una razza con il torace profondo, è un fattore di rischio per la torsione dello stomaco.</p>
+  <p>La quantità dipende dall'alimento e dal soggetto, e il numero sulla confezione è un punto di partenza, non un'istruzione. La misura vera è il cucciolo: le costole si devono sentire facilmente con la mano piatta, e da sopra si deve vedere la vita. Si aggiusta del dieci per cento per volta e si rivaluta dopo una settimana.</p>
+  <p>I pasti vanno distribuiti nella giornata a orari costanti, che aiutano l'educazione ai bisogni quanto la digestione. La ciotola si lascia giù quindici-venti minuti e poi si toglie, invece di restare a disposizione tutto il giorno.</p>
+
+  <h2>Cosa conta nella scelta dell'alimento</h2>
+  <p>Crocchette, umido o crudo: le esigenze di uno Staffordshire Bull Terrier in crescita sono le stesse. L'alimento deve essere formulato per la crescita, non per il mantenimento dell'adulto. Proteine e grassi devono venire soprattutto da fonti animali dichiarate, non da sottoprodotti generici. E il rapporto fra calcio e fosforo conta più di quanto la maggior parte dei proprietari immagini.</p>
+  <p>Quest'ultimo punto merita di essere sottolineato. Il calcio in eccesso durante la crescita fa male, non bene, ed è una delle poche cause davvero alimentari di problemi scheletrici. È il motivo per cui a un <a href="https://europeanpetfood.org/self-regulation/nutritional-guidelines/" title="Linee guida nutrizionali FEDIAF" target="_blank" rel="noopener" aria-label="Linee guida nutrizionali FEDIAF (si apre in una nuova scheda)">alimento completo per cuccioli</a> non vanno mai aggiunti integratori di calcio, e per cui una dieta casalinga per un cucciolo in crescita va formulata da un nutrizionista veterinario, non dalle buone intenzioni.</p>
+
+  <h2>Cibi pericolosi</h2>
+  <p>Cioccolato, xilitolo, uva e uvetta, cipolla, aglio, noci di macadamia, alcol e ossa cotte. Lo xilitolo, presente nelle gomme da masticare senza zucchero e in alcuni burri di arachidi, è quello che i proprietari si aspettano meno ed è fra i più pericolosi: una piccola quantità provoca un crollo della glicemia.</p>
+  <p>Le ossa cotte di qualsiasi tipo si scheggiano e possono perforare l'intestino. Comprese quelle della carcassa di pollo nella pattumiera, che è il motivo per cui il bidone deve stare fuori dalla portata di un cucciolo che, certamente, andrà a ispezionarlo.</p>
+
+  <h2>Premi e addestramento</h2>
+  <p>I premi non dovrebbero superare il dieci per cento della razione giornaliera, e il modo più semplice per rispettare il limite è usare una parte della razione per l'addestramento invece di aggiungerla. Un cucciolo che si guadagna le crocchette lavorando ha stimolazione mentale e resta magro allo stesso tempo: i <a href="/cuccioli-giochi-mentali/" title="Giochi mentali per cuccioli">giochi mentali</a> partono proprio da lì.</p>
+  <p>Niente cibo dalla tavola, per quanto persuasiva sia l'espressione. Questa razza è straordinariamente convincente e straordinariamente incline a ingrassare, e l'abitudine è molto più facile da non cominciare che da togliere.</p>
+
+  <h2>Problemi digestivi comuni</h2>
+  <p>Le feci molli nei primi giorni sono quasi sempre stress, e passano. Una diarrea che dura oltre le ventiquattro ore, o con sangue, letargia o vomito, richiede il veterinario lo stesso giorno: un cucciolo si disidrata in fretta e la parvovirosi comincia così. Quasi tutti i cuccioli nascono con parassiti intestinali, e per questo la sverminazione va verificata con un <a href="/cuccioli-sverminazione-esami-feci/" title="Sverminazione ed esami delle feci">esame delle feci</a>, non data per fatta.</p>
+  <p>Un cucciolo che mangia troppo in fretta, cosa comune in una cucciolata di otto, si giova di una ciotola antivoracità. Vale la pena usarla di routine invece di aspettare un problema, perché mangiare velocemente ingoiando aria è uno dei fattori di rischio gestibili per la dilatazione gastrica.</p>
+  <p>La coprofagia, mangiare le feci, è frequente nei cuccioli, di solito passeggera, e si affronta meglio togliendo l'occasione che sgridando.</p>
+
+  <h2>Il peso: la cosa da tenere d'occhio di più</h2>
+  <p>Un cucciolo sovrappeso non è un cucciolo sano, e in questa razza il peso in eccesso si nasconde facilmente sotto il muscolo. Le articolazioni in crescita portano il carico per un anno, e il danno del sovrappeso durante la crescita non torna indietro: la <a href="/salute-esercizio-sicuro/" title="Esercizio sicuro">guida all'esercizio sicuro</a> spiega perché le cartilagini di accrescimento vanno rispettate fino ai dodici-diciotto mesi.</p>
+  <p>Il cucciolo si pesa una volta alla settimana, sulla stessa bilancia, e il peso si scrive. L'obiettivo è una crescita regolare e moderata; una crescita rapida non è un traguardo. Nel dubbio si chiede al veterinario di valutare la condizione corporea a ogni visita per i vaccini: dieci secondi, e valgono più di qualsiasi tabella.</p>
   
-  <h2>Frequenza e orari dei pasti</h2>
-  <ul>
-  <li><strong>Fino ai 6 mesi:</strong> 3 pasti al giorno, a orari regolari.</li>
-  <li><strong>Dai 6 mesi:</strong> 2 pasti al giorno (mattino/sera), da mantenere anche da adulto.</li>
-  </ul>
-  
-  <div class="callout">
-  <p class="callout-title">💡 Costanza batte quantità</p>
-  <p>Orari regolari aiutano digestione, routine dei bisogni e autocontrollo.</p>
-  </div>
-  
-  <h2>Dose giornaliera: come orientarsi</h2>
-  <p>Segui il piano indicato dall'allevatore e <a href="https://europeanpetfood.org/self-regulation/nutritional-guidelines/" title="Linee guida nutrizionali FEDIAF per alimenti completi e complementari" target="_blank" rel="noopener" aria-label="Linee guida nutrizionali FEDIAF per alimenti completi e complementari (si apre in una nuova scheda)">le linee guida del produttore</a>. Adatta la dose a condizione corporea, livello di attività e crescita.</p>
-  <ul>
-  <li><strong>Inizio:</strong> usa la stessa dose e lo stesso alimento fornito dall'allevatore per 7–10 giorni.</li>
-  <li><strong>Monitoraggio:</strong> palpa le costole (percettibili ma non visibili), vita accennata, energia buona.</li>
-  <li><strong>Aggiusta</strong> del 5–10% alla volta in base a feci, appetito e curva di crescita.</li>
-  </ul>
-  
-  <h2>Transizione graduale del cibo</h2>
-  <p>Se cambi marca o formula, procedi per step per evitare feci molli e rifiuto della ciotola:</p>
-  <ul>
-  <li><strong>Giorni 1–3:</strong> 75% vecchio – 25% nuovo</li>
-  <li><strong>Giorni 4–6:</strong> 50% – 50%</li>
-  <li><strong>Giorni 7–9:</strong> 25% – 75%</li>
-  <li><strong>Dal giorno 10:</strong> 100% nuovo</li>
-  </ul>
-  
-  <h2>Acqua e idratazione</h2>
-  <p>Acqua fresca sempre disponibile, lontano dalla zona nanna. In estate o dopo gioco, proponi pause frequenti. Evita latte vaccino: spesso causa disturbi intestinali.</p>
-  
-  <h2>Snack e masticazione</h2>
-  <ul>
-  <li>Scegli premi morbidi e piccoli per training; rientrano nella quota giornaliera.</li>
-  <li>Masticativi adatti al cucciolo, sotto supervisione; evita ossi cotti e pezzi duri che scheggiano.</li>
-  <li>Preferisci ricompense "funzionali" dopo i pasti principali per ridurre ingordigia.</li>
-  </ul>
-  
-  <h2>Integrazioni: quando servono davvero</h2>
-  <p>Con un alimento completo "puppy" bilanciato, integratori non sono necessari. Valuta con il veterinario solo in casi specifici (es. probiotici dopo terapia, omega‑3, supporti articolari per linee soggette) e mai in fai‑da‑te.</p>
-  
-  <h2>Segnali da monitorare</h2>
-  <ul>
-  <li>Feci formate, lucide ma non dure.</li>
-  <li>Pelo brillante, cute senza forfora e prurito contenuto.</li>
-  <li>Curva peso in crescita costante; attenzione a aumenti o cali improvvisi.</li>
-  <li>Vomitini ricorrenti, feci molli persistenti o prurito intenso richiedono consulto veterinario.</li>
-  </ul>
-  
-  <h2>Staffordshire Bull Terrier: note specifiche</h2>
-  <ul>
-  <li>Razza attiva e muscolare: proteine e grassi adeguati al fabbisogno del cucciolo.</li>
-  <li>Porzionare i pasti riduce il rischio di ingordigia e aerofagia.</li>
-  <li>Usa parte della razione nel training quotidiano per unire nutrizione e educazione.</li>
-  </ul>
-  
-  <div class="callout">
-  <p class="callout-title">🐾 Consiglio dell'allevamento</p>
-  <p>Mantieni il cibo dell'allevatore per la prima settimana in nuova casa. Cambia solo se necessario e sempre gradualmente.</p>
-  </div>
-  
-  <div class="related">
+  <div class="related-articles">
   <h3>Articoli correlati</h3>
   <ul>
-  <li><a href="/cuccioli-socializzazione-in-casa/" title="Socializzazione in casa">Socializzazione in casa: prime esperienze guidate</a></li>
-  <li><a href="/cuccioli-prime-vaccinazioni/" title="Prime vaccinazioni">Prime vaccinazioni: calendario e consigli pratici</a></li>
-  <li><a href="/cuccioli-educazione-bisogni/" title="Educazione ai bisogni">Educazione ai bisogni: routine e rinforzo positivo</a></li>
+  <li><a href="/cuccioli-socializzazione-in-casa/" title="Socializzazione in casa">Socializzare il cucciolo in casa: la lista per la famiglia</a></li>
+  <li><a href="/cuccioli-prime-vaccinazioni/" title="Prime vaccinazioni">Prime vaccinazioni: calendario e richiami</a></li>
+  <li><a href="/cuccioli-educazione-bisogni/" title="Educazione ai bisogni">Educazione ai bisogni: metodo e tempi reali</a></li>
   <li><a href="/salute-parassiti-prevenzione/" title="Parassiti prevenzione">Parassiti: prevenzione e controllo</a></li>
   </ul>
   </div>

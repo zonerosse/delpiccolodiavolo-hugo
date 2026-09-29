@@ -94,7 +94,19 @@
        e LinkedIn chiedono per la scheda grande, e uscirebbero peggio del
        JPEG dedicato. Per dare a una pagina una sua anteprima basta
        indicare og_image nel front matter, in JPEG o PNG da 1200x630. */}}
-  {{ $og := .Params.og_image | default "/images/og-default.jpg" }}
+  {{/* Ordine: og_image dichiarato nel front matter; altrimenti l'anteprima
+       generata in static/images/og/<nome-immagine>.jpg (1200x630 JPEG,
+       ricavata dall'image della pagina) se esiste; altrimenti quella
+       predefinita. Per dare un'anteprima a un articolo nuovo basta
+       generare il JPEG con lo stesso nome dell'image: nessun front matter
+       da toccare. */}}
+  {{ $og := .Params.og_image }}
+  {{ $ogAuto := "" }}
+  {{ if not $og }}{{ with .Params.image }}
+    {{ $cand := printf "/images/og/%s.jpg" (path.BaseName .) }}
+    {{ if fileExists (printf "static%s" $cand) }}{{ $ogAuto = $cand }}{{ end }}
+  {{ end }}{{ end }}
+  {{ $og = $og | default $ogAuto | default "/images/og-default.jpg" }}
   <meta property="og:image" content="{{ $og | absURL }}">
   {{/* Testo alternativo dell'anteprima: og_image_alt nel front matter se la
        pagina ha una sua immagine, altrimenti la descrizione dell'immagine
@@ -105,7 +117,7 @@
   {{/* Le dimensioni si dichiarano solo per il JPEG di default, di cui le
        conosciamo. Su un og_image diverso sarebbero un'informazione falsa
        e le piattaforme ritaglierebbero male. */}}
-  {{ if eq $og "/images/og-default.jpg" }}
+  {{ if or (eq $og "/images/og-default.jpg") (eq $og $ogAuto) }}
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   {{ end }}

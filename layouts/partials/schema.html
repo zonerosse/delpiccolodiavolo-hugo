@@ -123,8 +123,12 @@
   "@context": "https://schema.org",
   "@type": ["Organization", "LocalBusiness"],
   "@id": "{{ $baseURL }}/#organization",
-  "name": "{{ if eq $lang "de" }}Zucht Del Piccolo Diavolo{{ else if eq $lang "en" }}Del Piccolo Diavolo Kennel{{ else }}Allevamento Del Piccolo Diavolo{{ end }}",
-  "alternateName": "Del Piccolo Diavolo",
+  {{/* Il nome dell'entita' e' uno solo, uguale nelle tre lingue e uguale
+       alla scheda Google Business: lo stesso @id con tre nomi diversi e'
+       un'entita' con tre nomi. Il descrittore nella lingua della pagina
+       sta in alternateName. */}}
+  "name": "Allevamento Del Piccolo Diavolo",
+  "alternateName": ["Del Piccolo Diavolo"{{ if eq $lang "de" }}, "Zucht Del Piccolo Diavolo"{{ else if eq $lang "en" }}, "Del Piccolo Diavolo Kennel"{{ end }}],
   "url": "{{ $baseURL }}/",
   "logo": "{{ $baseURL }}/images/logo.webp",
   "image": "{{ $baseURL }}/images/femmina-bilquis-hero.avif",
@@ -356,7 +360,18 @@
   "@type": "Article",
   "headline": {{ .Title }},
   "description": {{ .Description }},
-  "image": "{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ $baseURL }}/images/femmina-bilquis-hero.avif{{ end }}",
+  {{/* image: prima l'anteprima 1200x630 generata in static/images/og/
+       (Google chiede immagini larghe almeno 1200 px), poi l'originale.
+       Senza image in front matter resta l'immagine predefinita. */}}
+  {{ $imgs := slice }}
+  {{ with .Params.image }}
+    {{ $ogAuto := printf "/images/og/%s.jpg" (path.BaseName .) }}
+    {{ if fileExists (printf "static%s" $ogAuto) }}{{ $imgs = $imgs | append ($ogAuto | absURL) }}{{ end }}
+    {{ $imgs = $imgs | append (. | absURL) }}
+  {{ else }}
+    {{ $imgs = $imgs | append (printf "%s/images/og-default.jpg" $baseURL) }}
+  {{ end }}
+  "image": {{ $imgs | jsonify | safeJS }},
   "author": { "@id": "{{ $baseURL }}/#paolo-boldrini" },
   "publisher": { "@id": "{{ $baseURL }}/#organization" },
   {{ $pubA := cond .Date.IsZero .Lastmod .Date }}
@@ -365,7 +380,10 @@
   "mainEntityOfPage": "{{ $currentURL }}",
   "inLanguage": "{{ $lang }}",
   "wordCount": {{ if gt .WordCount 0 }}{{ .WordCount }}{{ else }}{{ len (split (plainify (.Params.custom_content | default "")) " ") }}{{ end }},
-  "keywords": "{{ if .Params.tags }}{{ delimit .Params.tags ", " }}{{ else }}Staffordshire Bull Terrier, allevamento, cuccioli, test genetici L2HGA HC{{ end }}",
+  {{/* keywords solo se l'articolo le dichiara in front matter (tags: [...]).
+       Prima c'era un testo fisso, identico su tutti gli articoli e in
+       italiano anche nelle versioni inglese e tedesca. */}}
+  {{ with .Params.tags }}"keywords": {{ delimit . ", " | jsonify | safeJS }},{{ end }}
   {{/* about: la razza, piu' le entita' dichiarate in front matter con "entita".
        Le pagine che non la dichiarano restano identiche a prima. */}}
   "about": [
