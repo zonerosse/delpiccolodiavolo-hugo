@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Hündinnen"
 date: 2025-12-28
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 tipoPagina: "CollectionPage"
 translationKey: "femmine"
 description: "Unsere Staffordshire Bull Terrier Hündinnen: Bilquis (Top Dog Junior 2023), Croi Olc, Divine, Kennedy, Derry, Cattleya. Gentests L2HGA, HC (HSF4), DM-SOD1."
@@ -17,7 +17,7 @@ custom_content: |
   <span class="hero-eyebrow">Ausgewählte Zuchthündinnen</span>
   <h1 class="hero-title">Hündinnen <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">DNA getestet, frei von L2HGA und HC (HSF4)</p>
-  <p class="hero-description">Unsere Zuchthündinnen werden nach Gesundheit, Charakter und Rassetypizität ausgewählt. Alle genetisch getestet und rassestandard-konform. Unsere aktiven Zuchthündinnen Bilquis und Croi Olc sind außerdem frei von degenerativer Myelopathie (Gen SOD1).</p>
+  <p class="hero-description">Unsere Zuchthündinnen werden nach Gesundheit, Charakter und Rassetypizität ausgewählt. Alle genetisch getestet und konform mit dem <a href="/de/staffy-rassestandard/" title="Rassestandard des Staffordshire Bull Terrier">Rassestandard</a>. Unsere aktiven Zuchthündinnen Bilquis und Croi Olc sind außerdem frei von degenerativer Myelopathie (Gen SOD1).</p>
   <div class="hero-actions">
   <a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20möchte%20Infos%20zu%20den%20Hündinnen" class="btn btn-primary" title="Kontaktieren Sie uns auf WhatsApp">Kontakt</a>
   <a href="/de/rueden-staffordshire-bull-terrier/" class="btn btn-ghost" title="Unsere Rüden sehen">Rüden Sehen</a>
@@ -252,6 +252,7 @@ custom_content: |
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> Skilful-Dogs Jeghër</p>
   <p><strong>Mutter:</strong> Skilful-Dogs Red Skin</p>
+  <p><strong>Letzter Wurf:</strong> <a href="/de/diario-allevamento/wurf-red-nora-februar-2026/" title="Wurf Red × Nora, Februar 2026">Red × Nora, 9. Februar 2026</a>: Eltern, Tests, Untersuchungen und Wachstum im Tagebuch</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Wir nannten sie Yoghi, wie den B&auml;ren: ein Bulldozer ohne Bremsen, voller Energie, und im Grunde ein Teddyb&auml;r f&uuml;r den Sessel, das Sofa oder das Bett, wenn man es zulie&szlig;.</p>
   <a class="doc-link" href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" title="Gentests Nora herunterladen" aria-label="Gentests Nora herunterladen (wird in einem neuen Tab geöffnet)">📄 Gentests</a>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="Stammbaum Nora auf SBTPedigree" aria-label="Stammbaum Nora auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>

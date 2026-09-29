@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Zucht"
+titleSeo: "Staffordshire Bull Terrier Züchter in Italien"
 date: 2025-12-28
 lastmod: 2026-09-29
 translationKey: "home"
@@ -127,7 +128,7 @@ custom_content: |
 
   <p>Was die Ausstellungsergebnisse betrifft, haben die hier gezüchteten Hunde <strong>1 Titel Italienischer Champion</strong>, <strong>3 Italienische Jugendchampions</strong> &mdash; einer davon auch Slowenischer Champion &mdash;, eine Jugendchampionin und Championin von San Marino, einen <strong>4. Platz bei der World Dog Show</strong> mit Bilquis Goddess Diabhal und im Mai 2026 den Titel <strong>Italienische Jugendchampionin</strong> für Queen of California errungen. Wir arbeiten mit englischen und irischen Blutlinien, insbesondere Elitebull und Lackyle.</p>
 
-  <p>Die Auswahl der Zuchttiere folgt drei Kriterien, in dieser Reihenfolge: <strong>ausgeglichenes Wesen</strong>, <strong>Freiheit von Erbkrankheiten</strong> und <strong>Übereinstimmung mit dem Standard</strong>. Das Wesen kommt zuerst, weil es das ist, was eine Familie zwölf Jahre lang zu Hause hat, und weil es am schwersten zu korrigieren ist: die Anatomie lässt sich in zwei oder drei Generationen in Ordnung bringen, ein Wesensfehler nicht.</p>
+  <p>Die Auswahl der Zuchttiere folgt drei Kriterien, in dieser Reihenfolge: <strong>ausgeglichenes Wesen</strong>, <strong>Freiheit von Erbkrankheiten</strong> und <strong><a href="/de/staffy-rassestandard/" title="Der Rassestandard des Staffordshire Bull Terrier">Übereinstimmung mit dem Standard</a></strong>. Das Wesen kommt zuerst, weil es das ist, was eine Familie zwölf Jahre lang zu Hause hat, und weil es am schwersten zu korrigieren ist: die Anatomie lässt sich in zwei oder drei Generationen in Ordnung bringen, ein Wesensfehler nicht.</p>
 
   <p>Bevor wir einen Welpen abgeben, wollen wir die Familie kennenlernen: ein Telefonat, ein paar Fragen, oft ein Besuch. Und damit endet die Beziehung nicht &mdash; wir bleiben für Rat und Austausch auch nach Jahren erreichbar, und jeder Hund, den wir gezüchtet haben, kommt zu uns zurück, falls er eines Tages nicht mehr dort bleiben könnte, wo er ist.</p>
 
@@ -149,7 +150,7 @@ custom_content: |
 
   <p style="max-width:760px;margin:0 0 1.2rem;color:#5c4a3a;line-height:1.8">Jede Zucht schreibt, dass sie auf Gesundheit selektiert. Der Satz kostet nichts, und deshalb schreiben ihn alle. Der Unterschied liegt darin, was man prüfen kann, ohne jemandem glauben zu müssen.</p>
 
-  <p>Die Angaben einer Staffordshire Bull Terrier Zucht lassen sich auf vier Wegen überprüfen, alle von außen und ohne den Züchter etwas zu fragen. Die <strong>Befunde der Gentests</strong> sind nur etwas wert, wenn sie die Mikrochipnummer des Hundes tragen: ohne diese Nummer lässt sich das Dokument keinem bestimmten Tier zuordnen. Die <strong>Abstammung</strong> schlägt man auf SBTPedigree nach, dem internationalen Archiv der Rasse, wo man Großeltern, Urgroßeltern und Wurfgeschwister zurückverfolgt. Die <strong>Zahl der Würfe einer Hündin</strong> prüft man im ENCI-Zuchtbuch, wieder über den Mikrochip. Die <strong>Ausstellungstitel</strong> stehen in den öffentlichen Katalogen der Veranstaltungen, mit dem Namen des Richters, der sie vergeben hat. Del Piccolo Diavolo veröffentlicht alle vier Angaben, Mikrochipnummern eingeschlossen.</p>
+  <p>Die Angaben einer Staffordshire Bull Terrier Zucht lassen sich auf vier Wegen überprüfen, alle von außen und ohne den Züchter etwas zu fragen. Die <strong>Befunde der Gentests</strong> sind nur etwas wert, wenn sie die Mikrochipnummer des Hundes tragen: ohne diese Nummer lässt sich das Dokument keinem bestimmten Tier zuordnen. Die <strong>Abstammung</strong> schlägt man auf SBTPedigree nach, dem internationalen Archiv der Rasse, wo man Großeltern, Urgroßeltern und Wurfgeschwister zurückverfolgt (worauf man dabei achtet, erklärt <a href="/de/wie-man-eine-ahnentafel-liest/" title="Wie man eine Ahnentafel liest">wie man eine Ahnentafel liest</a>). Die <strong>Zahl der Würfe einer Hündin</strong> prüft man im ENCI-Zuchtbuch, wieder über den Mikrochip. Die <strong>Ausstellungstitel</strong> stehen in den öffentlichen Katalogen der Veranstaltungen, mit dem Namen des Richters, der sie vergeben hat. Del Piccolo Diavolo veröffentlicht alle vier Angaben, Mikrochipnummern eingeschlossen.</p>
 
   <p>Auf dieser Website sind die Gentest-Befunde der Zuchttiere nicht &bdquo;auf Anfrage erhältlich&ldquo;: sie sind veröffentlicht. Jeder kann sie herunterladen, und auf jedem Blatt steht die Mikrochipnummer des Hundes, auf den es sich bezieht, zusammen mit dem Namen des Labors, der Befundnummer und dem Datum.</p>
 

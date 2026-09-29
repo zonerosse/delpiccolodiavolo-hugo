@@ -131,7 +131,7 @@ custom_content: |
   
   <h2>Linee di Sangue e Interpretazione</h2>
   
-  <p>Le diverse linee di sangue (UK, irlandesi, scandinave, continentali) possono accentuare particolari dettagli morfologici: tipo di testa, front, pigmentazione, movimento, muscolatura. L'obiettivo di un allevamento serio è mantenere l'armonia complessiva senza estremizzare un singolo punto a scapito della funzionalità.</p>
+  <p>Le diverse <a href="/standard-linee-di-sangue-orientarsi/" title="Come scegliere la linea di sangue di un cucciolo">linee di sangue</a> (UK, irlandesi, scandinave, continentali) possono accentuare particolari dettagli morfologici: tipo di testa, front, pigmentazione, movimento, muscolatura. L'obiettivo di un allevamento serio è mantenere l'armonia complessiva senza estremizzare un singolo punto a scapito della funzionalità.</p>
   
   <h3>Principi di selezione</h3>
   

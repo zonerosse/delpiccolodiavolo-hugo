@@ -2,7 +2,7 @@
 title: "Welpen Staffordshire Bull Terrier"
 titleSeo: "Staffordshire Bull Terrier Welpen mit überprüfbaren Gentests"
 date: 2025-12-28
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
 description: "Staffordshire Bull Terrier Welpen in Ostellato (FE). ENCI-Ahnentafel, Eltern auf L2HGA und HC getestet, Befunde auf der Website veröffentlicht."
@@ -106,7 +106,7 @@ custom_content: |
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Leben in der Familie</h3>
-  <p>Der Staffy ist als "Nanny Dog" bekannt für seine Geduld mit Kindern. Er ist ein Hund, der gerne bei Menschen ist, am täglichen Leben teilnimmt und ein integraler Teil der Familie ist. Er ist kein Gartenhund: er ist ein Lebensbegleiter.</p>
+  <p>Der Staffy ist als "Nanny Dog" bekannt für seine <a href="/de/staffy-kinder-familie/" title="Staffy und Kinder: das Familienleben">Geduld mit Kindern</a>. Er ist ein Hund, der gerne bei Menschen ist, am täglichen Leben teilnimmt und ein integraler Teil der Familie ist. Er ist kein Gartenhund: er ist ein Lebensbegleiter.</p>
   </div>
   <div class="zigzag-image">
   <img src="/images/la-principessa-di-roma.avif" alt="Staffordshire Bull Terrier in der Familie" loading="lazy" decoding="async" width="400" height="300">
@@ -188,7 +188,7 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">Was der Welpe mitbekommt</span>
   <h2 class="section-title">Blutlinien, Papiere und Begleitung</h2>
-  <p>Wir arbeiten mit der englischen Linie <strong>Elitebull</strong> und der irischen Linie <strong>Lackyle</strong>: die erste bringt Substanz und Kopf, die zweite Gangwerk und Charakter. Jede Verpaarung geht davon aus, was eine Hündin mitbringt und was ihr fehlt. Was das praktisch bedeutet und wie man eine Linie in der Ahnentafel liest, erklärt der <a href="/de/staffy-blutlinien-guide/" title="Ratgeber zu den Blutlinien">Ratgeber zu den Blutlinien</a>.</p>
+  <p>Wir arbeiten mit der englischen Linie <strong>Elitebull</strong> und der irischen Linie <strong>Lackyle</strong>: die erste bringt Substanz und Kopf, die zweite Gangwerk und Charakter. Jede Verpaarung geht davon aus, was eine Hündin mitbringt und was ihr fehlt. Was das praktisch bedeutet und wie man eine Linie in der Ahnentafel liest, erklärt der <a href="/de/staffy-blutlinien-guide/" title="Ratgeber zu den Blutlinien">Ratgeber zu den Blutlinien</a>; welche Linie zu Ihrem Zuhause passt, ist eine andere Frage und hat einen <a href="/de/blutlinien-waehlen/" title="Blutlinien wählen">eigenen Ratgeber</a>.</p>
   <p>Jeder Welpe verlässt uns frühestens mit 60 Tagen, mit der ersten Impfung, entwurmt, gechippt und registriert, und geht nach Hause mit:</p>
   <ul>
   <li>der ENCI-Ahnentafel;</li>

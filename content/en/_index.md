@@ -1,5 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Kennel"
+titleSeo: "Staffordshire Bull Terrier Breeder in Italy"
 date: 2025-12-28
 lastmod: 2026-09-29
 translationKey: "home"
@@ -127,7 +128,7 @@ custom_content: |
 
   <p>As for show results, the dogs bred here have won <strong>1 Italian Champion title</strong>, <strong>3 Italian Junior Champions</strong> &mdash; one of them also Slovenian Champion &mdash; a Junior Champion and Champion of San Marino, a <strong>4th place at the World Dog Show</strong> with Bilquis Goddess Diabhal, and in May 2026 the title of <strong>Italian Junior Champion</strong> for Queen of California. We work with English and Irish bloodlines, in particular Elitebull and Lackyle.</p>
 
-  <p>Breeding stock is selected on three criteria, in this order: <strong>steadiness of temperament</strong>, <strong>absence of hereditary disease</strong> and <strong>conformity to the standard</strong>. Temperament comes first because it is what a family takes home for twelve years, and it is also the hardest thing to correct: conformation can be fixed in two or three generations, a fault of character cannot.</p>
+  <p>Breeding stock is selected on three criteria, in this order: <strong>steadiness of temperament</strong>, <strong>absence of hereditary disease</strong> and <strong><a href="/en/staffy-breed-standard/" title="The Staffordshire Bull Terrier breed standard">conformity to the standard</a></strong>. Temperament comes first because it is what a family takes home for twelve years, and it is also the hardest thing to correct: conformation can be fixed in two or three generations, a fault of character cannot.</p>
 
   <p>Before placing a puppy we want to know the family: a phone call, a few questions, often a visit. And the relationship does not end there &mdash; we remain available for advice and updates even years later, and every dog we have bred comes back to us if one day it could no longer stay where it is.</p>
 
@@ -149,7 +150,7 @@ custom_content: |
 
   <p style="max-width:760px;margin:0 0 1.2rem;color:#5c4a3a;line-height:1.8">Every kennel writes that it selects for health. It is a sentence that costs nothing, and indeed everyone writes it. The difference lies in what can be checked without having to believe anyone.</p>
 
-  <p>The claims of a Staffordshire Bull Terrier kennel can be verified in four ways, all from the outside and without asking the breeder anything. The <strong>genetic test reports</strong> are only worth something if they carry the dog's microchip number: without that number the document cannot be linked to any particular animal. The <strong>pedigrees</strong> can be looked up on SBTPedigree, the breed's international archive, where one traces grandparents, great-grandparents and littermates. The <strong>number of litters a bitch has had</strong> is checked in the ENCI studbook, again through the microchip. The <strong>show titles</strong> appear in the public catalogues of the events, with the name of the judge who awarded them. Del Piccolo Diavolo publishes all four of these, microchip numbers included.</p>
+  <p>The claims of a Staffordshire Bull Terrier kennel can be verified in four ways, all from the outside and without asking the breeder anything. The <strong>genetic test reports</strong> are only worth something if they carry the dog's microchip number: without that number the document cannot be linked to any particular animal. The <strong>pedigrees</strong> can be looked up on SBTPedigree, the breed's international archive, where one traces grandparents, great-grandparents and littermates (<a href="/en/how-to-read-a-pedigree/" title="How to read a pedigree">how to read a pedigree</a> explains what to look for). The <strong>number of litters a bitch has had</strong> is checked in the ENCI studbook, again through the microchip. The <strong>show titles</strong> appear in the public catalogues of the events, with the name of the judge who awarded them. Del Piccolo Diavolo publishes all four of these, microchip numbers included.</p>
 
   <p>On this site the genetic test reports of the breeding stock are not "available on request": they are published. Anyone can download them, and every sheet carries the microchip number of the dog it refers to, together with the name of the laboratory, the report number and the date.</p>
 

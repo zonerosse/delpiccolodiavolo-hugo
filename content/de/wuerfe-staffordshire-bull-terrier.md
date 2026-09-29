@@ -149,9 +149,10 @@ custom_content: |
   </div>
   </div>
   
-  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Diese Verpaarung wurde geplant, um die Merkmale der Vangerbull-Linie zu festigen und dabei das hervorragende Familientemperament von Skilful-Dogs zu bewahren. Geboren am 9. Februar 2026, gestromte und rot-weiße Welpen. Nicht verfügbar.</p>
+  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Diese Verpaarung wurde geplant, um die Merkmale der Vangerbull-Linie zu festigen und dabei das hervorragende Familientemperament von Skilful-Dogs zu bewahren. Geboren am 9. Februar 2026, <a href="/de/staffordshire-bull-terrier-farben/" title="Die Farben des Staffordshire Bull Terrier">gestromte und rot-weiße</a> Welpen. Nicht verfügbar.</p>
   
   <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" title="Stammbaum Wurf Red x Nora ansehen" aria-label="Vollständigen Stammbaum des Wurfes vom 9. Februar 2026 auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">auf SBTPedigree ansehen</a></p>
+  <p class="pedigree-link">Tagebuch des Wurfs: <a href="/de/diario-allevamento/wurf-red-nora-februar-2026/" title="Wurf Red × Nora im Tagebuch">Eltern, Tests, Untersuchungen und Wachstum</a></p>
   </article>
   
   <!-- Wurf 2: Bilquis × Luis - AUSVERKAUFT -->

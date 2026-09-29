@@ -1,6 +1,6 @@
 ---
 title: "Bilquis × Black Jack Litter (August 2026)"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 articolo: true
 titleSeo: "Bilquis × Black Jack litter, August 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
@@ -86,7 +86,7 @@ The puppies grow up indoors with us. Italian law forbids placing a puppy before 
 
 **Born:** August 1, 2026
 
-**Colour:** all black
+**[Colour](/en/staffordshire-bull-terrier-colours/ "Staffordshire Bull Terrier colours"):** all black
 
 **Availability:** litter complete, puppies not available.
 

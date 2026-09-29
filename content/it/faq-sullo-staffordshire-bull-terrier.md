@@ -2,7 +2,7 @@
 title: "FAQ sullo Staffordshire Bull Terrier"
 titleSeo: "FAQ Staffordshire Bull Terrier: le domande più frequenti"
 date: 2025-12-28
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "faq"
 description: "Risposte alle domande più frequenti sullo Staffordshire Bull Terrier: carattere, salute, cuccioli ENCI, costi, alimentazione, addestramento."
 slug: "faq-sullo-staffordshire-bull-terrier"
@@ -53,7 +53,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Lo Staffordshire Bull Terrier è adatto ai bambini?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Prima una cosa che vale per ogni razza: <strong>nessun cane va lasciato solo con un bambino piccolo</strong>. Il soprannome "nanny dog" descrive la tolleranza dello Staffy, non una capacità di sorveglianza: la supervisione di un adulto non è un'opzione. Detto questo, è un cane costruito per stare in famiglia, e il modo in cui cresce nelle prime settimane pesa moltissimo — i nostri cuccioli stanno in mezzo a persone di età diverse fin da subito. Come si imposta la convivenza, regole comprese, lo spieghiamo nella <a href="/famiglia-bambini-convivenza/" title="Staffy e bambini">guida su Staffy e bambini</a>.</div>
+  <div class="faq-answer">Prima una cosa che vale per ogni razza: <strong>nessun cane va lasciato solo con un bambino piccolo</strong>. Il soprannome "nanny dog" descrive la tolleranza dello Staffy, non una capacità di sorveglianza: la supervisione di un adulto non è un'opzione. Detto questo, è un cane costruito per <a href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Carattere e vita in famiglia">stare in famiglia</a>, e il modo in cui cresce nelle prime settimane pesa moltissimo — i nostri cuccioli stanno in mezzo a persone di età diverse fin da subito. Come si imposta la convivenza, regole comprese, lo spieghiamo nella <a href="/famiglia-bambini-convivenza/" title="Staffy e bambini">guida su Staffy e bambini</a>.</div>
   </div>
   
   <div class="faq-item active">
@@ -93,7 +93,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Differenza tra Staffy e Amstaff?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Sono due razze distinte riconosciute dalla FCI, con standard separati. Lo <strong>Staffordshire Bull Terrier</strong> &egrave; il pi&ugrave; piccolo dei due: 35-40 centimetri al garrese per 12-17 chili nel maschio, con testa larga e corta e corporatura compatta. L'<strong>American Staffordshire Terrier</strong> &egrave; pi&ugrave; grande e pi&ugrave; asciutto: 45,7-48,2 centimetri per 25-32 chili, con muso pi&ugrave; lungo e struttura pi&ugrave; slanciata. La differenza non &egrave; solo di taglia: sono due selezioni separate da oltre un secolo, l'una inglese e l'altra americana, con linee di sangue che non si incrociano. Il <strong>Pitbull</strong>, che spesso viene confuso con entrambi, in Italia non &egrave; una razza riconosciuta e non esiste un pedigree ENCI che lo certifichi. Per chi sta scegliendo, la domanda utile non &egrave; quale sia pi&ugrave; bello ma quanto cane si vuole in casa.</div>
+  <div class="faq-answer">Sono due razze distinte riconosciute dalla FCI, con standard separati. Lo <strong>Staffordshire Bull Terrier</strong> &egrave; il pi&ugrave; piccolo dei due: 35-40 centimetri al garrese per 12-17 chili nel maschio, con testa larga e corta e corporatura compatta. L'<strong>American Staffordshire Terrier</strong> &egrave; pi&ugrave; grande e pi&ugrave; asciutto: 45,7-48,2 centimetri per 25-32 chili, con muso pi&ugrave; lungo e struttura pi&ugrave; slanciata. La differenza non &egrave; solo di taglia: sono due selezioni separate da oltre un secolo, l'una inglese e l'altra americana, con linee di sangue che non si incrociano. Il <strong>Pitbull</strong>, che spesso viene confuso con entrambi, in Italia non &egrave; una razza riconosciuta e non esiste un pedigree ENCI che lo certifichi. Per chi sta scegliendo, la domanda utile non &egrave; quale sia pi&ugrave; bello ma quanto cane si vuole in casa: le sette domande da farsi sono in <a href="/differenza-staffy-amstaff/" title="Staffy o Amstaff: il test dell'allevatore">Staffy o Amstaff, il test dell'allevatore</a>.</div>
   </div>
   
   <div class="faq-item active">
@@ -253,7 +253,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quali linee di sangue selezionate?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Lavoriamo su due linee storiche della razza, entrambe britanniche e irlandesi: <strong>Elitebull</strong> e <strong>Lackyle</strong>. Non sono due stili contrapposti: Lackyle &egrave; arrivato prima e i suoi soggetti storici compaiono oggi nei pedigree di mezza Europa, mentre Elitebull &egrave; l'allevamento che pesa adesso &mdash; e nei suoi pedigree ci sono proprio quei cani. La seconda linea, in altre parole, contiene la prima. La scelta non &egrave; estetica: sono linee documentate e verificabili su SBTPedigree, che producono in modo prevedibile, ed &egrave; quello che serve quando un accoppiamento si pianifica invece di sperarlo. Il nome stesso dell'allevamento viene da Lackyle Diabhal &Oacute;g, in irlandese il giovane diavolo.</div>
+  <div class="faq-answer">Lavoriamo su due linee storiche della razza, entrambe britanniche e irlandesi: <strong>Elitebull</strong> e <strong>Lackyle</strong>. Non sono due stili contrapposti: Lackyle &egrave; arrivato prima e i suoi soggetti storici compaiono oggi nei pedigree di mezza Europa, mentre Elitebull &egrave; l'allevamento che pesa adesso &mdash; e nei suoi pedigree ci sono proprio quei cani. La seconda linea, in altre parole, contiene la prima. La scelta non &egrave; estetica: sono linee documentate e verificabili su SBTPedigree, che producono in modo prevedibile, ed &egrave; quello che serve quando un accoppiamento si pianifica invece di sperarlo. Il nome stesso dell'allevamento viene da Lackyle Diabhal &Oacute;g, in irlandese il giovane diavolo. Cosa cambia da una linea all'altra per chi cerca un cucciolo &egrave; nella guida su <a href="/standard-linee-di-sangue-orientarsi/" title="Come scegliere la linea di sangue di un cucciolo">come scegliere la linea di sangue</a>.</div>
   </div>
   
   </div>

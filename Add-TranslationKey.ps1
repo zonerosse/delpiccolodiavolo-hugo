@@ -19,6 +19,7 @@ $mappa = @(
  "boas|boas-staffordshire-bull-terrier-respirazione.md|boas-staffordshire-bull-terrier-breathing.md|boas-staffordshire-bull-terrier-atmung.md"
  "chi-siamo|chi-siamo.md|about-us.md|ueber-uns.md"
  "colori|colori-staffordshire-bull-terrier.md|staffordshire-bull-terrier-colours.md|staffordshire-bull-terrier-farben.md"
+ "leggere-pedigree|come-si-legge-un-pedigree.md|how-to-read-a-pedigree.md|wie-man-eine-ahnentafel-liest.md"
  "alimentazione|cuccioli-alimentazione-iniziale.md|puppy-initial-feeding.md|welpen-erste-fuetterung.md"
  "consigli-acquisto|cuccioli-consigli-acquisto.md|puppy-buying-tips.md|welpen-kauftipps.md"
  "bisogni|cuccioli-educazione-bisogni.md|puppy-potty-training.md|welpen-stubenreinheit.md"

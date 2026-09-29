@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier: è il cane giusto per te? Pro e contro"
 date: 2026-08-01
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 titleSeo: "Staffordshire Bull Terrier: è il cane giusto per te?"
 translationKey: "cane-giusto"
 articolo: true
@@ -91,7 +91,7 @@ custom_content: |
   <p>È intelligente ma ha una sua testa. Risponde benissimo all'educazione <em>gentile e coerente</em>, ma i metodi bruschi non funzionano e lo chiudono. Serve pazienza e costanza.</p>
   
   <h3>6. Il pregiudizio degli altri</h3>
-  <p>Per il suo aspetto "bull", lo Staffy viene spesso confuso con Pit Bull o Amstaff e subisce pregiudizi ingiusti. Preparati a spiegare (spesso) che è un cane da famiglia. Se ti pesa gestire lo sguardo della gente, tienilo presente. Approfondisci le <a href="/differenza-staffy-pitbull-amstaff/">differenze tra Staffy, Pitbull e Amstaff</a>.</p>
+  <p>Per il suo aspetto "bull", lo Staffy viene spesso confuso con Pit Bull o Amstaff e subisce pregiudizi ingiusti. Preparati a spiegare (spesso) che è un cane da famiglia. Se ti pesa gestire lo sguardo della gente, tienilo presente. Approfondisci le <a href="/differenza-staffy-pitbull-amstaff/">differenze tra Staffy, Pitbull e Amstaff</a>; se sei indeciso fra le prime due, il <a href="/differenza-staffy-amstaff/" title="Staffy o Amstaff: il test dell'allevatore">test dell'allevatore</a> ti fa sette domande su casa, bambini ed esperienza.</p>
   
   <h2>Lo Staffordshire Bull Terrier è adatto a te SE…</h2>
   <ul>

@@ -1,7 +1,7 @@
 ---
 title: "Allevamento Staffordshire Bull Terrier"
 date: 2025-12-28
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "home"
 description: "Allevamento etico di Staffordshire Bull Terrier dal 2013. Pedigree ENCI, referti dei test genetici e microchip dei riproduttori pubblicati e verificabili."
 correlati:
@@ -127,7 +127,7 @@ custom_content: |
 
   <p>Sul piano dei risultati in esposizione, i cani allevati qui hanno ottenuto <strong>1 titolo di Campione Italiano</strong>, <strong>3 Giovani Campioni Italiani</strong> — uno dei quali anche Campione Sloveno — e un soggetto Giovane Campione e Campione di San Marino, un <strong>4° posto al World Dog Show</strong> con Bilquis Goddess Diabhal, e a maggio 2026 il titolo di <strong>Giovane Campionessa Italiana</strong> per Queen of California. Lavoriamo con le linee di sangue inglesi e irlandesi, in particolare Elitebull e Lackyle.</p>
 
-  <p>La selezione dei riproduttori segue tre criteri, in quest'ordine: <strong>equilibrio caratteriale</strong>, <strong>assenza di patologie ereditarie</strong> e <strong>conformità allo standard</strong>. Il carattere viene per primo perché è quello che una famiglia si porta in casa per dodici anni, ed è anche il più difficile da correggere: la morfologia si sistema in due o tre generazioni, un difetto caratteriale no.</p>
+  <p>La selezione dei riproduttori segue tre criteri, in quest'ordine: <strong>equilibrio caratteriale</strong>, <strong>assenza di patologie ereditarie</strong> e <strong><a href="/standard-tipicita-morfologia/" title="Standard, tipicità e morfologia">conformità allo standard</a></strong>. Il carattere viene per primo perché è quello che una famiglia si porta in casa per dodici anni, ed è anche il più difficile da correggere: la morfologia si sistema in due o tre generazioni, un difetto caratteriale no.</p>
 
   <p>Prima di affidare un cucciolo vogliamo conoscere la famiglia: una telefonata, qualche domanda, spesso una visita. E il rapporto non finisce lì — restiamo disponibili per consigli e aggiornamenti anche a distanza di anni, e ogni cane che abbiamo allevato torna da noi se un giorno non potesse più restare dov'è.</p>
 
@@ -149,7 +149,7 @@ custom_content: |
 
   <p style="max-width:760px;margin:0 0 1.2rem;color:#5c4a3a;line-height:1.8">Ogni allevamento scrive di selezionare per la salute. &Egrave; una frase che non costa niente, e infatti la scrivono tutti. La differenza sta in cosa si pu&ograve; controllare senza dover credere a nessuno.</p>
 
-  <p>Le affermazioni di un allevamento di Staffordshire Bull Terrier si possono verificare in quattro modi, tutti dall'esterno e senza chiedere niente all'allevatore. I <strong>referti dei test genetici</strong> valgono solo se riportano il numero di microchip del cane: senza quel numero il documento non &egrave; collegabile a nessun animale in particolare. Le <strong>genealogie</strong> si consultano su SBTPedigree, l'archivio internazionale della razza, dove si risale a nonni, bisnonni e fratelli di cucciolata. Il <strong>numero di cucciolate di una femmina</strong> si controlla sul libro genealogico ENCI, sempre con il microchip. I <strong>titoli in esposizione</strong> risultano dai cataloghi pubblici delle manifestazioni, con il nome del giudice che li ha assegnati. Del Piccolo Diavolo pubblica tutti e quattro questi dati, compresi i microchip in chiaro.</p>
+  <p>Le affermazioni di un allevamento di Staffordshire Bull Terrier si possono verificare in quattro modi, tutti dall'esterno e senza chiedere niente all'allevatore. I <strong>referti dei test genetici</strong> valgono solo se riportano il numero di microchip del cane: senza quel numero il documento non &egrave; collegabile a nessun animale in particolare. Le <strong>genealogie</strong> si consultano su SBTPedigree, l'archivio internazionale della razza, dove si risale a nonni, bisnonni e fratelli di cucciolata (cosa guardare lo spiega <a href="/come-si-legge-un-pedigree/" title="Come si legge un pedigree">come si legge un pedigree</a>). Il <strong>numero di cucciolate di una femmina</strong> si controlla sul libro genealogico ENCI, sempre con il microchip. I <strong>titoli in esposizione</strong> risultano dai cataloghi pubblici delle manifestazioni, con il nome del giudice che li ha assegnati. Del Piccolo Diavolo pubblica tutti e quattro questi dati, compresi i microchip in chiaro.</p>
 
   <p>Su questo sito i referti dei test genetici dei riproduttori non sono "disponibili su richiesta": sono pubblicati. Chiunque pu&ograve; scaricarli, e su ogni foglio compare il numero di microchip del cane a cui si riferiscono, insieme al nome del laboratorio, al numero di referto e alla data.</p>
 

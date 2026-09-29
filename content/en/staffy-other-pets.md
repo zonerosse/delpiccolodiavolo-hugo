@@ -2,7 +2,7 @@
 title: "Staffy and Other Pets"
 date: 2024-06-18
 titleSeo: "Staffordshire Bull Terrier with other pets at home"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "altri-animali"
 articolo: true
 image: "/images/blog/famiglia-3.webp"
@@ -174,6 +174,7 @@ custom_content: |
   <li><a href="/en/staffy-children-family/" title="Children and family">Staffies and children: family life</a></li>
   <li><a href="/en/puppies-staffordshire-bull-terrier/" title="Puppies">Staffordshire Bull Terrier puppies</a></li>
   <li><a href="/en/staffordshire-bull-terrier-character-family-life/" title="Character">Character and family life</a></li>
+  <li><a href="/en/staffy-elderly-owners/" title="Elderly owners">Staffies for elderly owners: respecting the rhythms</a></li>
   </ul>
   </div>
 

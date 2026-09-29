@@ -1,6 +1,6 @@
 ---
 title: "Red × Nora Litter (February 2026)"
-lastmod: 2026-09-08
+lastmod: 2026-09-29
 titleSeo: "Red and Nora litter, February 2026: parents and tests"
 articolo: true
 translationKey: "cucciolata-red-nora-febbraio-2026"
@@ -61,7 +61,7 @@ Your browser does not support video.
 
 **Date of birth:** February 9, 2026
 
-**Colours:** brindle and red & white
+**[Colours](/en/staffordshire-bull-terrier-colours/ "Staffordshire Bull Terrier colours"):** brindle and red & white
 
 **Status:** Not available
 

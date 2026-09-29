@@ -1,6 +1,6 @@
 ---
 title: "Wurf Bilquis × Black Jack (August 2026)"
-lastmod: 2026-09-12
+lastmod: 2026-09-29
 articolo: true
 titleSeo: "Wurf Bilquis × Black Jack, August 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
@@ -86,7 +86,7 @@ Die Welpen wachsen bei uns im Haus auf. Das italienische Recht verbietet die Abg
 
 **Geboren:** 1. August 2026
 
-**Farbe:** alle schwarz
+**[Farbe](/de/staffordshire-bull-terrier-farben/ "Die Farben des Staffordshire Bull Terrier"):** alle schwarz
 
 **Verfügbarkeit:** Wurf vollständig, Welpen nicht verfügbar.
 

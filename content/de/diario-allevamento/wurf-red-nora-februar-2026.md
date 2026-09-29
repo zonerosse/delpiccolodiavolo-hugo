@@ -1,6 +1,6 @@
 ---
 title: "Wurf Red × Nora (Februar 2026)"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 titleSeo: "Wurf Red und Nora, Februar 2026: Eltern und Gentests"
 articolo: true
 translationKey: "cucciolata-red-nora-febbraio-2026"
@@ -62,7 +62,7 @@ Ihr Browser unterstützt kein Video.
 **Geburtsdatum:** 9. Februar 2026
 
 **Geborene Welpen:**
-**Farben:** gestromt und rot-weiß
+**[Farben](/de/staffordshire-bull-terrier-farben/ "Die Farben des Staffordshire Bull Terrier"):** gestromt und rot-weiß
 
 **Status:** Nicht verfügbar
 

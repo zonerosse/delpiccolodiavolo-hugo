@@ -1,7 +1,7 @@
 ---
 title: "FAQ Staffordshire Bull Terrier - Häufig gestellte Fragen"
 date: 2025-12-28
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "faq"
 description: "Antworten auf häufig gestellte Fragen über Staffordshire Bull Terrier: Charakter, Gesundheit, Welpen, Kosten, Ernährung, Training. Zucht Del Piccolo Diavolo."
 slug: "faq-staffordshire-bull-terrier"
@@ -43,7 +43,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Ist der Staffordshire Bull Terrier gefährlich oder aggressiv?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Der Staffordshire Bull Terrier steht in Italien auf keiner Liste gefährlicher Rassen: das Verzeichnis der Risikorassen wurde 2009 durch eine Verordnung des Gesundheitsministeriums abgeschafft, die die Verantwortung von der Rasse auf den Halter verlagert hat. Eine 2020 veröffentlichte Studie des Royal Veterinary College mit über 22.000 Hunden fand keinen signifikanten Unterschied in der Aggressivität, der auf die Rasse zurückzuführen wäre. Gegenüber Menschen beschreibt der Standard einen zuverlässigen Hund, und dabei entscheidet die Selektion des Wesens fast alles. Wirklich wissenswert ist etwas anderes: als Terrier kann er <strong>Reaktivität gegenüber anderen Hunden</strong> zeigen, meist zwischen Hunden desselben Geschlechts im Erwachsenenalter.</div>
+  <div class="faq-answer">Der Staffordshire Bull Terrier steht in Italien auf keiner Liste gefährlicher Rassen: das Verzeichnis der Risikorassen wurde 2009 durch eine Verordnung des Gesundheitsministeriums abgeschafft, die die Verantwortung von der Rasse auf den Halter verlagert hat. Eine 2020 veröffentlichte Studie des Royal Veterinary College mit über 22.000 Hunden fand keinen signifikanten Unterschied in der Aggressivität, der auf die Rasse zurückzuführen wäre. Gegenüber Menschen beschreibt der <a href="/de/staffy-rassestandard/" title="Der Rassestandard des Staffordshire Bull Terrier">Standard</a> einen zuverlässigen Hund, und dabei entscheidet die Selektion des Wesens fast alles. Wirklich wissenswert ist etwas anderes: als Terrier kann er <strong>Reaktivität gegenüber anderen Hunden</strong> zeigen, meist zwischen Hunden desselben Geschlechts im Erwachsenenalter.</div>
   </div>
   
   <div class="faq-item active">
@@ -51,7 +51,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Ist der Staffordshire Bull Terrier für Kinder geeignet?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Zuerst etwas, das für jede Rasse gilt: <strong>kein Hund sollte mit einem kleinen Kind allein gelassen werden</strong>. Die Aufsicht eines Erwachsenen ist keine Option, sondern Pflicht. Davon abgesehen ist es ein Hund, der für das Leben in der Familie gemacht ist. Der Staffordshire Bull Terrier wird traditionell "Nanny Dog" genannt wegen seiner außergewöhnlichen Geduld mit Kindern. In unserer Zucht selektieren wir ausgeglichene und stabile Charaktere, perfekt für Familien. Unsere Staffys wachsen in Kontakt mit Kindern auf und entwickeln natürlich Sanftheit und Schutzinstinkt.</div>
+  <div class="faq-answer">Zuerst etwas, das für jede Rasse gilt: <strong>kein Hund sollte mit einem kleinen Kind allein gelassen werden</strong>. Die Aufsicht eines Erwachsenen ist keine Option, sondern Pflicht. Davon abgesehen ist es ein Hund, der für das <a href="/de/staffy-kinder-familie/" title="Staffy und Kinder: das Familienleben">Leben in der Familie</a> gemacht ist. Der Staffordshire Bull Terrier wird traditionell "Nanny Dog" genannt wegen seiner außergewöhnlichen Geduld mit Kindern. In unserer Zucht selektieren wir ausgeglichene und stabile Charaktere, perfekt für Familien. Unsere Staffys wachsen in Kontakt mit Kindern auf und entwickeln natürlich Sanftheit und Schutzinstinkt.</div>
   </div>
   
   <div class="faq-item active">
@@ -91,7 +91,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Unterschied zwischen Staffy und Amstaff?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Es sind zwei eigenständige, von der FCI anerkannte Rassen mit getrennten Standards und Zuchtbüchern. Der <strong>Staffordshire Bull Terrier</strong> ist der kleinere: 35-40 cm Schulterhöhe und 12-17 kg beim Rüden, mit kurzem breitem Kopf und kompaktem Bau. Der <strong>American Staffordshire Terrier</strong> ist größer und schlanker: 45,7-48,2 cm und 25-32 kg, mit längerem Fang. Der Unterschied ist nicht nur die Größe: es handelt sich um zwei seit über einem Jahrhundert getrennte Selektionen, eine englische und eine amerikanische, deren Linien sich nicht kreuzen. Der <strong>Pitbull</strong> ist in Italien keine anerkannte Rasse und erhält keine ENCI-Ahnentafel.</div>
+  <div class="faq-answer">Es sind zwei eigenständige, von der FCI anerkannte Rassen mit getrennten Standards und Zuchtbüchern. Der <strong>Staffordshire Bull Terrier</strong> ist der kleinere: 35-40 cm Schulterhöhe und 12-17 kg beim Rüden, mit kurzem breitem Kopf und kompaktem Bau. Der <strong>American Staffordshire Terrier</strong> ist größer und schlanker: 45,7-48,2 cm und 25-32 kg, mit längerem Fang. Der Unterschied ist nicht nur die Größe: es handelt sich um zwei seit über einem Jahrhundert getrennte Selektionen, eine englische und eine amerikanische, deren Linien sich nicht kreuzen. Der <strong>Pitbull</strong> ist in Italien keine anerkannte Rasse und erhält keine ENCI-Ahnentafel. Wer zwischen den ersten beiden schwankt, findet in <a href="/de/staffy-oder-amstaff-welche-rasse-passt-zu-ihnen/" title="Staffy oder Amstaff: der Test des Züchters">Staffy oder Amstaff, der Test des Züchters</a> die sieben Fragen, die es entscheiden.</div>
   </div>
   
   <div class="faq-item active">
@@ -246,7 +246,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Ist der Staffy als Ersthund geeignet?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Er kann es sein, unter zwei Bedingungen. Die erste ist Zeit: er will bei den Menschen sein und leidet unter langen Abwesenheiten, deshalb sollte jemand, der zwölf Stunden am Tag außer Haus ist, es sich zweimal überlegen, unabhängig von seiner Erfahrung. Die zweite ist Ehrlichkeit darüber, dass er ein Terrier ist: Reaktivität gegenüber anderen Hunden gibt es, sie muss mit früher Sozialisierung gesteuert werden und verschwindet nicht von selbst. Für ihn sprechen die Bindung an die Familie, die Toleranz, ein Fell ohne Pflegeaufwand und die Leichtigkeit, mit der er lernt. Auch ein gut gewählter Ersthund braucht eine Grunderziehung in der Hundeschule und eine Zucht, die nach der Abgabe erreichbar bleibt, nicht nur bis zur Übergabe.
+  <div class="faq-answer">Er kann es sein, unter zwei Bedingungen. Die erste ist Zeit: er will bei den Menschen sein und leidet unter langen Abwesenheiten, deshalb sollte jemand, der zwölf Stunden am Tag außer Haus ist, es sich zweimal überlegen, unabhängig von seiner Erfahrung. Die zweite ist Ehrlichkeit darüber, dass er ein Terrier ist: Reaktivität gegenüber anderen Hunden gibt es, sie muss mit früher Sozialisierung gesteuert werden und verschwindet nicht von selbst. Für ihn sprechen die Bindung an die Familie, die Toleranz, ein Fell ohne Pflegeaufwand und die Leichtigkeit, mit der er lernt. Auch ein gut gewählter Ersthund braucht eine Grunderziehung in der Hundeschule und eine Zucht, die nach der Abgabe erreichbar bleibt, nicht nur bis zur Übergabe. Was sich mit dem Alter des Halters ändert, an Routine, Bewegung und Sicherheit, steht im Ratgeber für <a href="/de/staffy-aeltere-besitzer/" title="Staffy für ältere Besitzer">ältere Besitzer</a>.
   </div>
   </div>
     <div class="faq-item active">
@@ -254,7 +254,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Mit welchen Blutlinien arbeiten Sie?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Wir arbeiten mit zwei historischen Linien der Rasse, einer britischen und einer irischen: <strong>Elitebull</strong> und <strong>Lackyle</strong>. Es sind keine gegensätzlichen Stile: Lackyle war zuerst da, und seine historischen Hunde stehen heute in Ahnentafeln in halb Europa, während Elitebull die Zucht ist, die heute zählt &mdash; und genau diese Hunde stehen in ihren Ahnentafeln. Die zweite Linie enthält also die erste. Die Wahl ist nicht ästhetisch: es sind dokumentierte, auf SBTPedigree überprüfbare Linien, die vorhersehbar vererben, und das braucht man, wenn eine Verpaarung geplant und nicht erhofft wird. Der Name der Zucht selbst stammt von Lackyle Diabhal &Oacute;g, irisch für der junge Teufel.
+  <div class="faq-answer">Wir arbeiten mit zwei historischen Linien der Rasse, einer britischen und einer irischen: <strong>Elitebull</strong> und <strong>Lackyle</strong>. Es sind keine gegensätzlichen Stile: Lackyle war zuerst da, und seine historischen Hunde stehen heute in Ahnentafeln in halb Europa, während Elitebull die Zucht ist, die heute zählt &mdash; und genau diese Hunde stehen in ihren Ahnentafeln. Die zweite Linie enthält also die erste. Die Wahl ist nicht ästhetisch: es sind dokumentierte, auf SBTPedigree überprüfbare Linien, die vorhersehbar vererben, und das braucht man, wenn eine Verpaarung geplant und nicht erhofft wird. Der Name der Zucht selbst stammt von Lackyle Diabhal &Oacute;g, irisch für der junge Teufel. Was sich von einer Linie zur anderen für jemanden ändert, der einen Welpen sucht, steht im Ratgeber <a href="/de/blutlinien-waehlen/" title="Blutlinien wählen">Blutlinien wählen</a>.
   </div>
   </div>
   </section>

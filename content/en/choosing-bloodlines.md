@@ -2,7 +2,7 @@
 title: "How to Choose Staffy Bloodlines"
 date: 2025-03-05
 titleSeo: "Choosing Staffordshire Bull Terrier bloodlines"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "scelta-linee"
 articolo: true
 image: "/images/blog/standard-2.webp"
@@ -85,7 +85,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What are bloodlines in the Staffordshire Bull Terrier?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">A bloodline is the group of dogs descending from a common stock that, generation after generation, have kept recognisable traits of type, structure and character. It is not an official category: the ENCI pedigree does not state which line a dog belongs to. It is read from the names that appear in the pedigree and the kennels that produced them, which is why anyone who selects looks at the family tree and not only at the dog in front of them. <strong>A line tells you what to expect</strong>: it guarantees nothing about the individual puppy, but it shows what that selection has consistently worked on. On SBTPedigree you can go back many generations and also see what a dog has produced.
+  <div class="faq-answer">A bloodline is the group of dogs descending from a common stock that, generation after generation, have kept recognisable traits of type, structure and character. It is not an official category: the ENCI pedigree does not state which line a dog belongs to. It is read from the names that appear in the pedigree and the kennels that produced them, which is why anyone who selects looks at the family tree and not only at the dog in front of them. <strong>A line tells you what to expect</strong>: it guarantees nothing about the individual puppy, but it shows what that selection has consistently worked on. On SBTPedigree you can go back many generations and also see what a dog has produced; how to read those pages, and what the ENCI certificate leaves out, is in <a href="/en/how-to-read-a-pedigree/" title="How to read a pedigree">how to read a pedigree</a>.
   </div>
   </div>
 

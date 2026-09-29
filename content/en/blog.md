@@ -192,9 +192,18 @@ custom_content: |
   <section class="section" id="standard">
   <div class="section-inner">
   <span class="section-label">Category</span>
-  <h2 class="section-title">Standard and Bloodlines <span class="count">(7)</span></h2>
+  <h2 class="section-title">Standard and Bloodlines <span class="count">(8)</span></h2>
   
   <div class="blog-grid">
+  <article class="blog-card">
+  <a href="/en/how-to-read-a-pedigree/" title="Read: How to read a pedigree"><div class="blog-card-thumb"><img src="/images/blog/pedigree-queen-hero.webp" alt="Queen of California at a show" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">9 Sep 2026</span><span>&bull;</span><span class="cat">Breed Standard</span></div>
+  <h3><a href="/en/how-to-read-a-pedigree/" title="Read: How to read a pedigree">How to read a pedigree</a></h3>
+  <p>What the ENCI certificate says, what SBTPedigree adds, and how a pairing is studied.</p>
+  <a class="read" href="/en/how-to-read-a-pedigree/" aria-label="Read the article: How to read a pedigree">Read &rarr;</a>
+  </div>
+  </article>
   <article class="blog-card">
   <a href="/en/staffy-or-amstaff-which-breed-suits-you/" title="Read: Staffy or Amstaff, the breeder's test"><div class="blog-card-thumb"><img src="/images/blog/staffy-amstaff-hero.webp" alt="Staffordshire Bull Terrier compared with the American Staffordshire Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">

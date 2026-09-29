@@ -192,9 +192,18 @@ custom_content: |
   <section class="section" id="standard">
   <div class="section-inner">
   <span class="section-label">Kategorie</span>
-  <h2 class="section-title">Standard und Blutlinien <span class="count">(7)</span></h2>
+  <h2 class="section-title">Standard und Blutlinien <span class="count">(8)</span></h2>
   
   <div class="blog-grid">
+  <article class="blog-card">
+  <a href="/de/wie-man-eine-ahnentafel-liest/" title="Lesen: Wie man eine Ahnentafel liest"><div class="blog-card-thumb"><img src="/images/blog/pedigree-queen-hero.webp" alt="Queen of California auf einer Ausstellung" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">9 Sep 2026</span><span>&bull;</span><span class="cat">Rassestandard</span></div>
+  <h3><a href="/de/wie-man-eine-ahnentafel-liest/" title="Lesen: Wie man eine Ahnentafel liest">Wie man eine Ahnentafel liest</a></h3>
+  <p>Was die ENCI-Urkunde sagt, was SBTPedigree ergänzt und wie man eine Verpaarung studiert.</p>
+  <a class="read" href="/de/wie-man-eine-ahnentafel-liest/" aria-label="Artikel lesen: Wie man eine Ahnentafel liest">Lesen &rarr;</a>
+  </div>
+  </article>
   <article class="blog-card">
   <a href="/de/staffy-oder-amstaff-welche-rasse-passt-zu-ihnen/" title="Lesen: Staffy oder Amstaff, der Test des Züchters"><div class="blog-card-thumb"><img src="/images/blog/staffy-amstaff-hero.webp" alt="Staffordshire Bull Terrier im Vergleich mit dem American Staffordshire Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">

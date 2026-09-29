@@ -186,6 +186,7 @@ custom_content: |
   <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Questo accoppiamento è stato pianificato per consolidare le caratteristiche della linea Vangerbull, mantenendo l'eccellente temperamento familiare di Skilful-Dogs. L'obiettivo è produrre soggetti con testa potente, ossatura robusta e movimento corretto.</p>
 
   <p class="pedigree-link">Pedigree della cucciolata: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" title="Vedi pedigree cucciolata Red x Nora" aria-label="Vedi il pedigree completo della cucciolata del 9 febbraio 2026 su SBTPedigree (si apre in una nuova scheda)">vedi su SBTPedigree</a></p>
+  <p class="pedigree-link">Diario della cucciolata: <a href="/diario-allevamento/cucciolata-red-nora-febbraio-2026/" title="Cucciolata Red × Nora nel diario">genitori, test, esami e crescita</a></p>
   </article>
 
   <!-- Cucciolata 2: Bilquis × Luis - PASSATA -->

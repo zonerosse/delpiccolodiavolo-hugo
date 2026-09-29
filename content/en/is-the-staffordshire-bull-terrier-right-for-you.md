@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier: Is It the Right Dog for You? Pros and Cons"
 date: 2026-08-01
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 titleSeo: "Staffordshire Bull Terrier: is it the right dog for you?"
 translationKey: "cane-giusto"
 articolo: true
@@ -42,7 +42,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>The Staffordshire Bull Terrier is a compact, muscular dog of 13 to 17 kg that the breed standard describes as reliable, courageous and highly affectionate, especially with children. It suits people who want a dog in the middle of family life, who will take it out every day and who have the time to train it consistently. It does not suit anyone who is away from home for long hours, because it copes with being alone worse than many breeds, nor anyone looking for a detached, independent dog. It has plenty of energy when young, a stubborn streak and, with other dogs, a reactivity that socialisation reduces but does not remove. With children it is patient, but no dog of any breed should be left alone with a small child. This guide sets out the strengths and the flaws before you decide, not after.</p>
+  <p>The Staffordshire Bull Terrier is a compact, muscular dog of 13 to 17 kg that the <a href="/en/staffy-breed-standard/" title="Staffordshire Bull Terrier breed standard">breed standard</a> describes as reliable, courageous and highly affectionate, especially with children. It suits people who want a dog in the middle of family life, who will take it out every day and who have the time to train it consistently. It does not suit anyone who is away from home for long hours, because it copes with being alone worse than many breeds, nor anyone looking for a detached, independent dog. It has plenty of energy when young, a stubborn streak and, with other dogs, a reactivity that socialisation reduces but does not remove. With children it is patient, but no dog of any breed should be left alone with a small child. This guide sets out the strengths and the flaws before you decide, not after.</p>
 
   
   
@@ -92,7 +92,7 @@ custom_content: |
   <p>It is intelligent but has a mind of its own. It responds very well to <em>gentle, consistent</em> training, but harsh methods do not work and shut it down. It takes patience and consistency.</p>
   
   <h3>6. Other people's prejudice</h3>
-  <p>Because of its "bull" appearance, the Staffy is often confused with Pit Bulls or Amstaffs and suffers unfair prejudice. Be ready to explain (often) that it is a family dog. If dealing with people's stares weighs on you, bear it in mind. Read more about the <a href="/en/staffy-pitbull-amstaff-difference/">differences between Staffy, Pitbull and Amstaff</a>.</p>
+  <p>Because of its "bull" appearance, the Staffy is often confused with Pit Bulls or Amstaffs and suffers unfair prejudice. Be ready to explain (often) that it is a family dog. If dealing with people's stares weighs on you, bear it in mind. Read more about the <a href="/en/staffy-pitbull-amstaff-difference/">differences between Staffy, Pitbull and Amstaff</a>; if you are torn between the first two, the <a href="/en/staffy-or-amstaff-which-breed-suits-you/" title="Staffy or Amstaff: the breeder's test">breeder's test</a> asks seven questions about home, children and experience.</p>
   
   <h2>The Staffordshire Bull Terrier is right for you IF…</h2>
   <ul>
@@ -100,7 +100,8 @@ custom_content: |
   <li>You have (or make) time for daily walks and exercise</li>
   <li>You don't leave the dog alone for too many hours, or you have a plan not to</li>
   <li>You are willing to do <strong>basic training</strong> with consistency and gentleness</li>
-  <li>You have children and want a sturdy, tolerant dog</li>
+  <li>You have children and want a sturdy, tolerant dog: what that means day to day is in <a href="/en/staffy-children-family/" title="Staffies and children">Staffies and children</a></li>
+  <li>You are retired or older and can offer a steady routine, with the adjustments explained in <a href="/en/staffy-elderly-owners/" title="Staffies for elderly owners">Staffies for elderly owners</a></li>
   <li>You want a companion for 12-14 years, not an "accessory"</li>
   </ul>
   

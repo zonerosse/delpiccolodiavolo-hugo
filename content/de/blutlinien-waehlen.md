@@ -2,7 +2,7 @@
 title: "Wie man Staffy-Blutlinien wählt"
 date: 2025-03-05
 titleSeo: "Staffordshire Bull Terrier Blutlinien richtig wählen"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "scelta-linee"
 articolo: true
 image: "/images/blog/standard-2.webp"
@@ -81,7 +81,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was sind Blutlinien beim Staffordshire Bull Terrier?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Eine Blutlinie ist die Gruppe von Hunden, die von einem gemeinsamen Stamm abstammen und Generation für Generation erkennbare Merkmale von Typ, Aufbau und Charakter bewahrt haben. Es ist keine offizielle Kategorie: auf der ENCI-Ahnentafel steht nicht, zu welcher Linie ein Hund gehört. Man liest es an den Namen in der Ahnentafel und an den Zuchten, die sie hervorgebracht haben, und deshalb schaut, wer selektiert, auf den Stammbaum und nicht nur auf den Hund vor sich. <strong>Eine Linie sagt, was zu erwarten ist</strong>: sie garantiert nichts über den einzelnen Welpen, zeigt aber, woran diese Zucht beständig gearbeitet hat. Auf SBTPedigree kann man viele Generationen zurückgehen und auch sehen, was ein Hund hervorgebracht hat.
+  <div class="faq-answer">Eine Blutlinie ist die Gruppe von Hunden, die von einem gemeinsamen Stamm abstammen und Generation für Generation erkennbare Merkmale von Typ, Aufbau und Charakter bewahrt haben. Es ist keine offizielle Kategorie: auf der ENCI-Ahnentafel steht nicht, zu welcher Linie ein Hund gehört. Man liest es an den Namen in der Ahnentafel und an den Zuchten, die sie hervorgebracht haben, und deshalb schaut, wer selektiert, auf den Stammbaum und nicht nur auf den Hund vor sich. <strong>Eine Linie sagt, was zu erwarten ist</strong>: sie garantiert nichts über den einzelnen Welpen, zeigt aber, woran diese Zucht beständig gearbeitet hat. Auf SBTPedigree kann man viele Generationen zurückgehen und auch sehen, was ein Hund hervorgebracht hat; wie man diese Seiten liest und was die ENCI-Urkunde auslässt, steht in <a href="/de/wie-man-eine-ahnentafel-liest/" title="Wie man eine Ahnentafel liest">wie man eine Ahnentafel liest</a>.
   </div>
   </div>
 

@@ -2,7 +2,7 @@
 title: "Female Staffordshire Bull Terriers"
 titleSeo: "Our female Staffies: microchips and pedigrees"
 date: 2025-12-28
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 tipoPagina: "CollectionPage"
 translationKey: "femmine"
 description: "Our female Staffordshire Bull Terriers: Bilquis (Top Dog Junior 2023), Croi Olc, Divine, Kennedy, Derry, Cattleya. L2HGA, HC (HSF4) and DM-SOD1 tested."
@@ -18,7 +18,7 @@ custom_content: |
   <span class="hero-eyebrow">Selected Breeding Females</span>
   <h1 class="hero-title">Female <br><em>Staffordshire</em> <br>Bull Terriers</h1>
   <p class="hero-subtitle">DNA tested, L2HGA and HC (HSF4) clear</p>
-  <p class="hero-description">Our breeding females are selected for health, character and breed type. All genetically tested and conforming to breed standard. Our active breeding females, Bilquis and Croi Olc, are also clear for degenerative myelopathy (SOD1 gene).</p>
+  <p class="hero-description">Our breeding females are selected for health, character and breed type. All genetically tested and conforming to the <a href="/en/staffy-breed-standard/" title="Staffordshire Bull Terrier breed standard">breed standard</a>. Our active breeding females, Bilquis and Croi Olc, are also clear for degenerative myelopathy (SOD1 gene).</p>
   <div class="hero-actions">
   <a href="https://wa.me/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20the%20females" class="btn btn-primary" title="Contact us on WhatsApp">Contact Us</a>
   <a href="/en/males-staffordshire-bull-terrier/" class="btn btn-ghost" title="See our males">See Males</a>
@@ -265,6 +265,7 @@ custom_content: |
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> Skilful-Dogs Jeghër</p>
   <p><strong>Dam:</strong> Skilful-Dogs Red Skin</p>
+  <p><strong>Latest litter:</strong> <a href="/en/diario-allevamento/red-nora-litter-february-2026/" title="Red × Nora litter, February 2026">Red × Nora, 9 February 2026</a>: parents, tests, examinations and growth in the diary</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Character.</strong> We used to call her Yogi, after the bear: a bulldozer with no brakes, full of energy, and underneath it all a teddy bear for the armchair, the sofa, or the bed if you let her.</p>
   <a class="doc-link" href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" title="Download Nora genetic tests" aria-label="Download Nora genetic tests (opens in a new tab)">📄 Genetic Tests</a>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="View Nora pedigree on SBTPedigree" aria-label="View Nora pedigree on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>

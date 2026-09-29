@@ -2,7 +2,7 @@
 title: "Cuccioli Staffordshire Bull Terrier"
 titleSeo: "Cuccioli Staffordshire Bull Terrier con test verificabili"
 date: 2025-12-28
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
 description: "Cuccioli Staffordshire Bull Terrier a Ostellato (FE). Pedigree ENCI, genitori testati L2HGA e HC con i referti pubblicati sul sito, verificabili da chiunque."
@@ -165,7 +165,7 @@ custom_content: |
 
   <p>Il temperamento non arriva per caso: dipende dai riproduttori che si scelgono e dalle prime settimane. I nostri cuccioli crescono a contatto con persone di et&agrave; diverse, rumori domestici e altri cani, ed &egrave; il motivo per cui arrivano in famiglia gi&agrave; abituati alla vita di casa.</p>
 
-  <p>Come si seleziona un carattere, cosa guardiamo nei riproduttori e cosa aspettarsi da un adulto: lo spieghiamo nella pagina sul <a href="/staffordshire-bull-terrier-carattere/" title="Temperamento dello Staffordshire Bull Terrier">temperamento dello Staffy</a>.</p>
+  <p>Come si seleziona un carattere, cosa guardiamo nei riproduttori e cosa aspettarsi da un adulto: lo spieghiamo nella pagina sul <a href="/staffordshire-bull-terrier-carattere/" title="Temperamento dello Staffordshire Bull Terrier">temperamento dello Staffy</a>; come si traduce in casa, con bambini, altri animali e appartamento, &egrave; in <a href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Carattere e vita in famiglia">carattere e vita in famiglia</a>.</p>
 
   </div>
   </section>
@@ -177,7 +177,7 @@ custom_content: |
 
   <p>Lavoriamo su linee inglesi <strong>Elitebull</strong> e irlandesi <strong>Lackyle</strong>: le prime portano sostanza e testa, le seconde movimento e carattere. Ogni accoppiamento nasce dall'incrocio fra quello che una femmina d&agrave; e quello che le manca.</p>
 
-  <p>Che cosa significa in pratica, e come si legge una linea in un pedigree: nella pagina sulle <a href="/linee-sangue-staffordshire-bull-terrier/" title="Linee di sangue dello Staffordshire Bull Terrier">linee di sangue</a>.</p>
+  <p>Che cosa significa in pratica, e come si legge una linea in un pedigree: nella pagina sulle <a href="/linee-sangue-staffordshire-bull-terrier/" title="Linee di sangue dello Staffordshire Bull Terrier">linee di sangue</a>; quale linea sia adatta alla propria casa &egrave; un'altra domanda, e ha una <a href="/standard-linee-di-sangue-orientarsi/" title="Come scegliere la linea di sangue di un cucciolo">guida a parte</a>.</p>
 
   </div>
   </section>

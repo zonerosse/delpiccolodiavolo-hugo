@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Puppies"
 titleSeo: "Staffordshire Bull Terrier Puppies, verifiable genetic tests"
 date: 2025-12-28
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
 description: "Staffordshire Bull Terrier puppies in Ostellato, Italy. ENCI pedigree, parents tested for L2HGA and HC with the certificates published on this site."
@@ -188,7 +188,7 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">What comes with the puppy</span>
   <h2 class="section-title">Bloodlines, documents and support</h2>
-  <p>We work with English <strong>Elitebull</strong> and Irish <strong>Lackyle</strong> lines: the first bring substance and head, the second movement and character. Every mating starts from what a female gives and what she lacks. What that means in practice, and how to read a line in a pedigree, is explained in the <a href="/en/staffy-bloodlines-guide/" title="Staffy bloodlines guide">bloodlines guide</a>.</p>
+  <p>We work with English <strong>Elitebull</strong> and Irish <strong>Lackyle</strong> lines: the first bring substance and head, the second movement and character. Every mating starts from what a female gives and what she lacks. What that means in practice, and how to read a line in a pedigree, is explained in the <a href="/en/staffy-bloodlines-guide/" title="Staffy bloodlines guide">bloodlines guide</a>; which line suits your home is a different question, with a <a href="/en/choosing-bloodlines/" title="Choosing bloodlines for a puppy">guide of its own</a>.</p>
   <p>Every puppy leaves us at 60 days at the earliest, with its first vaccination, wormed, microchipped and registered, and goes home with:</p>
   <ul>
   <li>the ENCI pedigree;</li>

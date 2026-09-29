@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier FAQ - Frequently Asked Questions"
 date: 2025-12-28
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "faq"
 description: "Staffordshire Bull Terrier FAQ from a breeder: temperament, children and other dogs, health tests, lifespan, cost and how to choose a breeder."
 slug: "faq-staffordshire-bull-terrier"
@@ -43,7 +43,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is the Staffordshire Bull Terrier dangerous or aggressive?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">The Staffordshire Bull Terrier is not on any list of dangerous breeds in Italy: the list of at-risk breeds was abolished in 2009 by the Ministry of Health, which moved responsibility from the breed to the owner. It is a powerful dog for its size &mdash; 35-40 cm at the withers and 12-17 kg in males &mdash; and that is worth keeping in mind, but dangerousness is not a breed trait: it depends on how temperament is selected, on socialisation in the first weeks, and on how the dog is handled for the rest of its life. The trait genuinely worth knowing about is different: being a terrier, it can show reactivity towards other dogs, most often of the same sex in adulthood. Towards people the breed standard describes a reliable dog, and there the choice of breeding stock matters more than anything else.</div>
+  <div class="faq-answer">The Staffordshire Bull Terrier is not on any list of dangerous breeds in Italy: the list of at-risk breeds was abolished in 2009 by the Ministry of Health, which moved responsibility from the breed to the owner. It is a powerful dog for its size &mdash; 35-40 cm at the withers and 12-17 kg in males &mdash; and that is worth keeping in mind, but dangerousness is not a breed trait: it depends on how temperament is selected, on socialisation in the first weeks, and on how the dog is handled for the rest of its life. The trait genuinely worth knowing about is different: being a terrier, it can show reactivity towards other dogs, most often of the same sex in adulthood. Towards people the <a href="/en/staffy-breed-standard/" title="The Staffordshire Bull Terrier breed standard">breed standard</a> describes a reliable dog, and there the choice of breeding stock matters more than anything else.</div>
   </div>
   
   <div class="faq-item active">
@@ -91,7 +91,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Difference between Staffy and Amstaff?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">They are two distinct breeds recognised by the FCI, with separate standards and stud books. The <strong>Staffordshire Bull Terrier</strong> is the smaller of the two: 35-40 cm at the withers and 12-17 kg in males, with a short broad head and a compact build. The <strong>American Staffordshire Terrier</strong> is larger and leaner: 45.7-48.2 cm and 25-32 kg, with a longer muzzle. The difference is not only size: these are two selections separated by more than a century, one English and one American, with lines that do not cross. The <strong>Pit Bull</strong>, often confused with both, is not a recognised breed in Italy and no ENCI pedigree certifies one.</div>
+  <div class="faq-answer">They are two distinct breeds recognised by the FCI, with separate standards and stud books. The <strong>Staffordshire Bull Terrier</strong> is the smaller of the two: 35-40 cm at the withers and 12-17 kg in males, with a short broad head and a compact build. The <strong>American Staffordshire Terrier</strong> is larger and leaner: 45.7-48.2 cm and 25-32 kg, with a longer muzzle. The difference is not only size: these are two selections separated by more than a century, one English and one American, with lines that do not cross. The <strong>Pit Bull</strong>, often confused with both, is not a recognised breed in Italy and no ENCI pedigree certifies one. If you are torn between the first two, <a href="/en/staffy-or-amstaff-which-breed-suits-you/" title="Staffy or Amstaff: the breeder's test">Staffy or Amstaff, the breeder's test</a> asks the seven questions that decide it.</div>
   </div>
   
   <div class="faq-item active">
@@ -131,7 +131,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Does the Staffy need a lot of exercise?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">It needs regular exercise, not extreme exercise. Two walks a day of thirty to forty minutes cover an adult's needs, provided at least one allows sniffing and free movement rather than a march on a tight lead. The Staffordshire Bull Terrier is explosive rather than built for endurance: it performs on short intense efforts, not hours of running. The part most people underestimate is mental work: <strong>half an hour of scent games tires a dog as much as an hour of running</strong>, without loading the joints. For puppies the usual rule is five minutes per month of age per walk, because growth plates close between twelve and eighteen months.</div>
+  <div class="faq-answer">It needs regular exercise, not extreme exercise. Two walks a day of thirty to forty minutes cover an adult's needs, provided at least one allows sniffing and free movement rather than a march on a tight lead. The Staffordshire Bull Terrier is explosive rather than built for endurance: it performs on short intense efforts, not hours of running. The part most people underestimate is mental work: <strong>half an hour of scent games tires a dog as much as an hour of running</strong>, without loading the joints. For puppies the usual rule is five minutes per month of age per walk, because growth plates close between twelve and eighteen months. How the same needs fit the routine of an older owner is in <a href="/en/staffy-elderly-owners/" title="Staffies for elderly owners">Staffies for elderly owners</a>.</div>
   </div>
   
   <div class="faq-item active">
@@ -254,7 +254,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Which bloodlines do you work with?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">We work with two historic lines of the breed, British and Irish: <strong>Elitebull</strong> and <strong>Lackyle</strong>. They are not two opposing styles: Lackyle came first and its historic dogs now appear in pedigrees across half of Europe, while Elitebull is the kennel that carries weight today &mdash; and those very dogs are in its pedigrees. The second line, in other words, contains the first. The choice is not aesthetic: these are documented lines, verifiable on SBTPedigree, that breed predictably, which is what you need when a mating is planned rather than hoped for. The kennel's own name comes from Lackyle Diabhal &Oacute;g, Irish for the young devil.
+  <div class="faq-answer">We work with two historic lines of the breed, British and Irish: <strong>Elitebull</strong> and <strong>Lackyle</strong>. They are not two opposing styles: Lackyle came first and its historic dogs now appear in pedigrees across half of Europe, while Elitebull is the kennel that carries weight today &mdash; and those very dogs are in its pedigrees. The second line, in other words, contains the first. The choice is not aesthetic: these are documented lines, verifiable on SBTPedigree, that breed predictably, which is what you need when a mating is planned rather than hoped for. The kennel's own name comes from Lackyle Diabhal &Oacute;g, Irish for the young devil. What changes from one line to another for someone looking for a puppy is in <a href="/en/choosing-bloodlines/" title="Choosing bloodlines">choosing bloodlines</a>.
   </div>
   </div>
   </section>

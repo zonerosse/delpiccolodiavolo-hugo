@@ -2,7 +2,7 @@
 title: "Femmine Staffordshire Bull Terrier"
 titleSeo: "Femmine Staffordshire Bull Terrier: referti e pedigree ENCI"
 date: 2025-12-28
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 tipoPagina: "CollectionPage"
 translationKey: "femmine"
 description: "Le nostre femmine Staffordshire Bull Terrier: Bilquis (Top Dog Junior 2023), Croi Olc, Divine, Kennedy, Derry, Cattleya. Test L2HGA, HC (HSF4) e DM-SOD1."
@@ -268,6 +268,7 @@ custom_content: |
   <p><strong>Dentatura:</strong> Completely scissor bite</p>
   <p><strong>Padre:</strong> Skilful-Dogs Jeghër</p>
   <p><strong>Madre:</strong> Skilful-Dogs Red Skin</p>
+  <p><strong>Ultima cucciolata:</strong> <a href="/diario-allevamento/cucciolata-red-nora-febbraio-2026/" title="Cucciolata Red × Nora, febbraio 2026">Red × Nora, 9 febbraio 2026</a>: genitori, test, esami e crescita nel diario</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> La chiamavamo Yoghi, come l'orso: un bulldozer senza freni, piena di energie, e in fondo un orsacchiotto da poltrona, da divano, o da letto se glielo lasciavi fare.</p>
   <a class="doc-link" href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" title="Scarica test genetici Nora" aria-label="Scarica test genetici Nora (si apre in una nuova scheda)">📄 Test Genetici</a>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="Vedi pedigree Nora su SBTPedigree" aria-label="Vedi pedigree Nora su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>

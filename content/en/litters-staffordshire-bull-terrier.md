@@ -149,9 +149,10 @@ custom_content: |
   </div>
   </div>
   
-  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">This pairing was planned to consolidate the traits of the Vangerbull line while preserving the excellent family temperament of Skilful-Dogs. Born 9 February 2026, brindle and red and white puppies. Not available.</p>
+  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">This pairing was planned to consolidate the traits of the Vangerbull line while preserving the excellent family temperament of Skilful-Dogs. Born 9 February 2026, <a href="/en/staffordshire-bull-terrier-colours/" title="Staffordshire Bull Terrier colours">brindle and red and white</a> puppies. Not available.</p>
   
   <p class="pedigree-link">Litter pedigree: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" title="View Red x Nora litter pedigree" aria-label="View the full pedigree of the 9 February 2026 litter on SBTPedigree (opens in a new tab)">view on SBTPedigree</a></p>
+  <p class="pedigree-link">Litter diary: <a href="/en/diario-allevamento/red-nora-litter-february-2026/" title="Red × Nora litter in the diary">parents, tests, examinations and growth</a></p>
   </article>
   
   <!-- Litter 2: Bilquis × Luis - SOLD OUT -->

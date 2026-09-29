@@ -7,7 +7,7 @@ image: "/images/blog/cucciolata-erba.avif"
 description: "Acht Kriterien, um eine seriöse Staffordshire Bull Terrier Zucht zu erkennen, jedes mit der Art, es zu überprüfen. Mit unseren eigenen Unterlagen als Beispiel."
 slug: "wie-waehlt-man-eine-staffordshire-bull-terrier-zucht"
 date: 2026-01-18
-lastmod: 2026-09-27
+lastmod: 2026-09-29
 ---
 
 <section class="hero">
@@ -61,7 +61,7 @@ lastmod: 2026-09-27
 
 <p>Die <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="Rasseseite Staffordshire Bull Terrier, ENCI" target="_blank" rel="noopener" aria-label="Rasseseite Staffordshire Bull Terrier, ENCI (wird in einem neuen Tab geöffnet)">ENCI-Ahnentafel</a> ist das einzige Dokument, das bescheinigt, dass ein Hund ein Staffordshire Bull Terrier mit identifizierten Eltern ist. Sie ist kein Zusatz und wird nicht extra berechnet.</p>
 
-<p><strong>Wie man es überprüft.</strong> Die Ahnentafel selbst prüft man über ihre Zuchtbuchnummer. Es gibt aber einen weiteren Schritt, den fast niemand geht: die Ahnentafeln der Rasse sind öffentlich auf SBTPedigree, einer internationalen Datenbank. Suchen Sie Großeltern und Urgroßeltern, sehen Sie nach, ob es sie gibt, ob sie Titel haben, ob sie in anderen Zuchten auftauchen. Ein Stammbaum, der nach zwei Generationen abbricht, sagt etwas aus.</p>
+<p><strong>Wie man es überprüft.</strong> Die Ahnentafel selbst prüft man über ihre Zuchtbuchnummer. Es gibt aber einen weiteren Schritt, den fast niemand geht: die Ahnentafeln der Rasse sind öffentlich auf SBTPedigree, einer internationalen Datenbank (wie man sie nutzt, steht in <a href="/de/wie-man-eine-ahnentafel-liest/" title="Wie man eine Ahnentafel liest">wie man eine Ahnentafel liest</a>). Suchen Sie Großeltern und Urgroßeltern, sehen Sie nach, ob es sie gibt, ob sie Titel haben, ob sie in anderen Zuchten auftauchen. Ein Stammbaum, der nach zwei Generationen abbricht, sagt etwas aus.</p>
 
 <p><strong>Unsere.</strong> Unsere Hunde sind auf <a href="https://sbtpedigree.com/details?id=35858" target="_blank" rel="noopener" aria-label="Del Piccolo Diavolo auf SBTPedigree (wird in einem neuen Tab geöffnet)">SBTPedigree</a> mit allen Hunden und allen Würfen. Von dort aus können Sie jeden zurückverfolgen, uns eingeschlossen.</p>
 
