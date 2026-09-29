@@ -181,4 +181,4 @@ letter-spacing:.03em;padding:.55rem 1.5rem;text-transform:uppercase}
 .rimando:hover{border-color:#8b5a2b;background:#fffdf9}
 .rimando:focus{outline:3px solid #c9a227;outline-offset:2px}
 @media(max-width:480px){.rimando{grid-template-columns:64px 1fr;gap:.8rem}
-.rimando img{width:64px;height:64px}}
+.rimando img{width:64px;height:64px}}@media (prefers-reduced-motion:reduce){.features-track{animation:none}}

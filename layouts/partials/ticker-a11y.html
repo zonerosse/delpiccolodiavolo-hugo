@@ -1,0 +1,36 @@
+{{- /*
+  ticker-a11y.html — la barra scorrevole (.features-bar) contiene ogni voce
+  due volte: l'animazione ha bisogno della copia per il ciclo continuo, ma
+  lettori di schermo e parser leggono il testo doppio.
+
+  Riceve l'HTML della pagina e lo restituisce con aria-hidden="true" sugli
+  span della seconda meta' di ogni .features-track. Se le due meta' non sono
+  identiche, o dentro la barra c'e' altro oltre agli <span>, non tocca niente:
+  meglio il testo doppio di una barra rotta.
+
+  Uso:  {{ partial "ticker-a11y.html" $c | safeHTML }}
+*/ -}}
+{{- $c := . -}}
+{{- range findRE `(?s)<div class="features-track">.*?</div>` $c -}}
+  {{- $track := . -}}
+  {{- $spans := findRE `<span>[^<]*</span>` $track -}}
+  {{- $n := len $spans -}}
+  {{- if and (gt $n 1) (eq (mod $n 2) 0) -}}
+    {{- $meta := div $n 2 -}}
+    {{- $prima := first $meta $spans -}}
+    {{- $seconda := after $meta $spans -}}
+    {{- /* Le due meta' devono coincidere, e la barra deve contenere solo quegli
+         span: confronto senza spazi bianchi. */ -}}
+    {{- $interno := $track | replaceRE `^<div class="features-track">` "" | replaceRE `</div>$` "" | replaceRE `\s` "" -}}
+    {{- $soloSpan := replaceRE `\s` "" (delimit $spans "") -}}
+    {{- if and (eq (delimit $prima "") (delimit $seconda "")) (eq $interno $soloSpan) -}}
+      {{- $nascosti := slice -}}
+      {{- range $seconda -}}
+        {{- $nascosti = $nascosti | append (replace . "<span>" `<span aria-hidden="true">` 1) -}}
+      {{- end -}}
+      {{- $nuovo := printf "<div class=\"features-track\">\n%s\n%s\n</div>" (delimit $prima "\n") (delimit $nascosti "\n") -}}
+      {{- $c = replace $c $track $nuovo 1 -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $c -}}

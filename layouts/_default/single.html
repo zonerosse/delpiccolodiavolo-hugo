@@ -14,7 +14,10 @@
   {{ $c = replace $c "<!--CORRELATI-->" (partial "correlati.html" .) }}
   {{ $c = replace $c "<!--RECENTI-->" (partial "recenti.html" .) }}
   {{ $c = replace $c "<!--GUIDE-->" (partial "guide-cucciolo.html" (dict "pagina" . "gruppo" "cucciolo")) }}
-  {{ replace $c "<!--PRENOTA-->" (partial "prenota.html" .) | safeHTML }}
+  {{ $c = replace $c "<!--PRENOTA-->" (partial "prenota.html" .) }}
+  {{/* La seconda copia delle voci nella barra scorrevole viene nascosta ai
+       lettori di schermo e ai parser (vedi ticker-a11y.html). */}}
+  {{ partial "ticker-a11y.html" $c | safeHTML }}
   {{/* Le guide pratiche si collegano fra loro da sole (vedi guide-cucciolo.html). */}}
   {{ partial "guide-cucciolo.html" (dict "pagina" . "gruppo" "auto") }}
   {{ if not .Params.noindex }}{{ $meta | safeHTML }}{{ end }}
@@ -41,6 +44,7 @@
        commento <!--CORRELATI--> resterebbe in chiaro nella pagina. */}}
   {{- $testo := replace (string .Content) "<!--CORRELATI-->" (partial "correlati.html" .) -}}
   {{- $testo = replace $testo "<!--RECENTI-->" (partial "recenti.html" .) -}}
+  {{- $testo = partial "ticker-a11y.html" $testo -}}
   {{- $corpo := $testo | safeHTML -}}
   {{ if $haTestata }}
     {{ $parti := split $testo "</nav>" }}

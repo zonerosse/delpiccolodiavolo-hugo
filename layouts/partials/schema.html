@@ -233,37 +233,49 @@
 </script>
 
 <!-- JSON-LD: BreadcrumbList -->
+{{/* Il percorso strutturato ricalca quello visibile. Se la pagina ha un
+     <nav class="breadcrumb"> nel contenuto (Home > Blog > Categoria > Pagina,
+     oppure Home > Blog > Pagina), si leggono da li' i livelli, i nomi e i
+     collegamenti, compresa la categoria con l'ancora nel blog. Le schede del
+     diario hanno il percorso nel template: Home > Diario > Scheda. Le pagine
+     senza percorso visibile restano Home > Pagina. */}}
+{{ $voci := slice }}
+{{ $homeUrl := printf "%s%s" $baseURL (cond (ne $lang "it") (printf "/%s/" $lang) "/") }}
+{{ $navVis := findRE `(?s)<nav class="breadcrumb"[^>]*>.*?</nav>` $faqsrc 1 }}
+{{ if $navVis }}
+  {{ $nav := index $navVis 0 }}
+  {{ range findRESubmatch `<a[^>]*href="([^"]+)"[^>]*>(.*?)</a>` $nav }}
+    {{ $href := index . 1 }}
+    {{ $url := cond (hasPrefix $href "/") (printf "%s%s" $baseURL $href) $href }}
+    {{ $voci = $voci | append (dict "nome" (index . 2 | plainify | htmlUnescape | strings.TrimSpace) "url" $url) }}
+  {{ end }}
+  {{ $ultimo := "" }}
+  {{ range findRESubmatch `<span[^>]*>([^<]*)</span>` $nav }}
+    {{ $t := index . 1 | htmlUnescape | strings.TrimSpace }}
+    {{ if and $t (ne $t "›") }}{{ $ultimo = $t }}{{ end }}
+  {{ end }}
+  {{ $voci = $voci | append (dict "nome" ($ultimo | default $.Title) "url" $currentURL) }}
+{{ else if eq .Section "diario-allevamento" }}
+  {{ $voci = $voci | append (dict "nome" "Home" "url" $homeUrl) }}
+  {{ if not .IsSection }}{{ with .Parent }}{{ $voci = $voci | append (dict "nome" .Title "url" .Permalink) }}{{ end }}{{ end }}
+  {{ $voci = $voci | append (dict "nome" .Title "url" $currentURL) }}
+{{ else }}
+  {{ $voci = $voci | append (dict "nome" "Home" "url" $homeUrl) }}
+  {{ if and .Params.articolo (not .IsHome) }}{{ $voci = $voci | append (dict "nome" "Blog" "url" ("blog/" | absLangURL)) }}{{ end }}
+  {{ if and .Title (not .IsHome) }}{{ $voci = $voci | append (dict "nome" .Title "url" $currentURL) }}{{ end }}
+{{ end }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
+    {{ range $i, $v := $voci }}{{ if $i }},{{ end }}
     {
       "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "{{ $baseURL }}{{ if ne $lang "it" }}/{{ $lang }}/{{ end }}"
-    }
-    {{/* Gli articoli hanno un livello in piu', il Blog, come nel percorso
-         visibile sulla pagina: Home > Blog > Articolo. */}}
-    {{ $pos := 2 }}
-    {{ if and .Params.articolo (not .IsHome) }},
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Blog",
-      "item": "{{ "blog/" | absLangURL }}"
-    }
-    {{ $pos = 3 }}
-    {{ end }}
-    {{ if and .Title (not .IsHome) }},
-    {
-      "@type": "ListItem",
-      "position": {{ $pos }},
-      "name": {{ .Title }},
-      "item": "{{ $currentURL }}"
-    }
-    {{ end }}
+      "position": {{ add $i 1 }},
+      "name": {{ $v.nome | jsonify | safeJS }},
+      "item": {{ $v.url | jsonify | safeJS }}
+    }{{ end }}
   ]
 }
 </script>
