@@ -12,3 +12,9 @@ Controllo automatico (axe) su tutte le pagine, computer e telefono: 0 problemi.
 
 Non toccata la regola content-visibility del CSS: i due avvisi di
 Lighthouse (link all'affido all'estero e footer) sono falsi allarmi.
+
+## Aggiunta: tolta la regola content-visibility
+assets/css/main.css: tolta `.section:not(:first-of-type){content-visibility:auto}`.
+Con la regola, Lighthouse segnalava come illeggibili il link all'affido
+all'estero e il footer (falsi allarmi). Senza, il controllo di contrasto
+sulle 161 pagine, con telefono simulato come fa Lighthouse, dà 0 problemi.
