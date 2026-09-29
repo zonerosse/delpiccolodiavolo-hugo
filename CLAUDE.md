@@ -77,7 +77,7 @@ One file, `assets/css/main.css` (already minified in-repo, single long line), in
 ### SEO machinery
 
 - `baseof.html`: `titleSeo` front matter overrides `title` for `<title>`/OG/Twitter; the brand suffix is appended only when the result stays ≤60 chars (always on the home page). `hreflang` comes from `.AllTranslations` (hence `translationKey`). `noindex: true` front matter emits a robots meta tag. `json_ld` front matter injects extra JSON-LD.
-- `partials/schema.html`: hand-written Organization/LocalBusiness JSON-LD with address, geo coordinates and `aggregateRating` — these values are duplicated from `[params]` in `hugo.toml`, so update both.
+- `partials/schema.html`: hand-written Organization/LocalBusiness JSON-LD with address and geo coordinates — these values are duplicated from `[params]` in `hugo.toml`, so update both. **No `Review`/`AggregateRating` markup, on purpose**: the reviews come from the Google Business profile, and Google forbids marking up reviews collected elsewhere (and shows no stars for self-serving LocalBusiness reviews). `recensioniVoto`/`recensioniTotale` in `hugo.toml` only feed the visible text.
 - `enableGitInfo = true`: `lastmod` comes from git commit dates. Sitemap and robots.txt have custom layouts (`layouts/_default/sitemap.xml`, `layouts/robots.txt`); taxonomies and RSS are disabled.
 
 ### Waiting-list form → Google Apps Script

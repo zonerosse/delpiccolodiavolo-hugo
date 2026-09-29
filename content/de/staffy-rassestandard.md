@@ -1,7 +1,7 @@
 ---
 title: "FCI Rassestandard Staffordshire Bull Terrier"
 date: 2025-02-12
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "standard"
 articolo: true
 image: "/images/blog/standard-tipicita-morfologia-hero.webp"
@@ -30,7 +30,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Ein Staffordshire Bull Terrier ist typvoll, wenn Kopf, Proportionen, Brust, Knochen, Muskulatur und Gangwerk untereinander und mit dem Wesen im Gleichgewicht stehen, das der FCI-Standard Nr. 76 beschreibt. Der Standard ist die funktionale Beschreibung eines glatthaarigen, kurz gekoppelten Terriers von großer Kraft für seine Größe, wendig genug, um sich auf der Stelle zu drehen, und gesund genug, um den ganzen Tag zu arbeiten. Der Kopf ist kurz, mit tiefem, breitem Schädel, deutlichem Stop, kurzem Fang, kräftigen Kiefern und Scherengebiss; die Augen sind rund und bevorzugt dunkel, die Ohren Rosen- oder halbstehende Ohren. Das Gangwerk ist frei, kraftvoll und flink, mit erkennbarem Schub aus der Hinterhand. Typ heißt nicht, einen einzelnen Punkt zu übertreiben: Ein überzogener Kopf oder ein zu kurzer Fang kosten <a href="/de/boas-staffordshire-bull-terrier-atmung/" title="BOAS und Atmung beim Staffordshire Bull Terrier">Atmung und Hitzetoleranz</a>, und der Richter bewertet den ganzen Hund.</p>
+  <p>Ein Staffordshire Bull Terrier ist typvoll, wenn Kopf, Proportionen, Brust, Knochen, Muskulatur und Gangwerk untereinander und mit dem Wesen im Gleichgewicht stehen, das der FCI-Standard Nr. 76 beschreibt. Der Standard ist die funktionale Beschreibung eines glatthaarigen, kurz gekoppelten Terriers von großer Kraft für seine Größe, wendig genug, um sich auf der Stelle zu drehen, und gesund genug, um den ganzen Tag zu arbeiten. Der Kopf ist kurz, mit tiefem, breitem Schädel, deutlichem Stop, kurzem Fang, kräftigen Kiefern und Scherengebiss; die Augen sind rund und bevorzugt dunkel, die Ohren Rosen- oder halbstehende Ohren. Das Gangwerk ist frei, kraftvoll und flink, mit erkennbarem Schub aus der Hinterhand. Typ heißt nicht, einen einzelnen Punkt zu übertreiben: Ein überzogener Kopf oder ein zu kurzer Fang kosten <a href="/de/boas-staffordshire-bull-terrier-atmung/" title="BOAS und Atmung beim Staffordshire Bull Terrier">Atmung und Hitzetoleranz</a>, und der Richter bewertet den ganzen Hund. Ein Ratgeber der Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet.</p>
 
   
   

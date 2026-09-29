@@ -2,7 +2,7 @@
 title: "Come si legge un pedigree: ENCI e SBTPedigree"
 titleSeo: "Come si legge un pedigree: cosa dice l'ENCI e cosa no"
 date: 2026-09-09
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "leggere-pedigree"
 articolo: true
 image: "/images/blog/pedigree-queen-hero.webp"
@@ -35,7 +35,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Leggere un pedigree di Staffordshire Bull Terrier significa usare due strumenti diversi. Il <strong>certificato ENCI</strong> &egrave; il documento ufficiale: certifica genitori, nonni e bisnonni, riporta i titoli registrati e gli esami depositati, ma non mostra n&eacute; i test genetici n&eacute; una sola fotografia dei cani. <strong>SBTPedigree</strong>, l'archivio internazionale della razza, aggiunge quello che manca: le foto degli antenati generazione per generazione, i test genetici caricati, i titoli esteri e soprattutto la discendenza, cio&egrave; cosa ha prodotto quel cane. La sua funzione di prova di accoppiamento calcola il coefficiente di consanguineit&agrave; teorico di una cucciolata e mostra su quali antenati si concentra: lo stesso cane pu&ograve; avere un coefficiente del 9 per cento su otto generazioni e del 21 sul pedigree completo.</p>
+  <p>Leggere un pedigree di Staffordshire Bull Terrier significa usare due strumenti diversi. Il <strong>certificato ENCI</strong> &egrave; il documento ufficiale: certifica genitori, nonni e bisnonni, riporta i titoli registrati e gli esami depositati, ma non mostra n&eacute; i test genetici n&eacute; una sola fotografia dei cani. <strong>SBTPedigree</strong>, l'archivio internazionale della razza, aggiunge quello che manca: le foto degli antenati generazione per generazione, i test genetici caricati, i titoli esteri e soprattutto la discendenza, cio&egrave; cosa ha prodotto quel cane. La sua funzione di prova di accoppiamento calcola il coefficiente di consanguineit&agrave; teorico di una cucciolata e mostra su quali antenati si concentra: lo stesso cane pu&ograve; avere un coefficiente del 9 per cento su otto generazioni e del 21 sul pedigree completo. Guida a cura dell'allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier a Ostellato (FE) dal 2013.</p>
 
 
   <p>&laquo;Ha il pedigree&raquo; &egrave; la frase che chiude ogni discussione, e non vuol dire quasi niente. Il pedigree dice <strong>da chi discende</strong> un cane, non quanto vale. E soprattutto: esistono due documenti diversi, con due scopi diversi, e chi non alleva di solito ne conosce solo uno.</p>

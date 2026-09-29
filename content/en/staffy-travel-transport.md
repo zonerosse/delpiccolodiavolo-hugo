@@ -2,7 +2,7 @@
 title: "Staffy Travel and Transport"
 date: 2024-04-07
 titleSeo: "Travelling with a Staffordshire Bull Terrier: car and train"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "viaggi"
 articolo: true
 image: "/images/blog/famiglia-4.webp"
@@ -35,7 +35,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Travelling with a Staffordshire Bull Terrier needs three things prepared: documents, transport and stops. Within the European Union a dog needs a microchip, an EU pet passport issued by an authorised vet and a valid rabies vaccination, given after the microchip and at least 21 days before travel; Ireland, Finland, Malta and Norway also require a tapeworm treatment before entry. In the car, Italian law requires the dog not to interfere with driving: a crash-tested crate secured in the boot is safest, a rigid boot divider next, a proper travel harness on the seatbelt acceptable. Stop every two hours and travel on an empty stomach. Never leave the dog in a parked car, not even for five minutes: for a short-muzzled breed, heat is the real emergency. Trains, ferries, airlines and hotels have their own rules, to check before booking.</p>
+  <p>Travelling with a Staffordshire Bull Terrier needs three things prepared: documents, transport and stops. Within the European Union a dog needs a microchip, an EU pet passport issued by an authorised vet and a valid rabies vaccination, given after the microchip and at least 21 days before travel; Ireland, Finland, Malta and Norway also require a tapeworm treatment before entry. In the car, Italian law requires the dog not to interfere with driving: a crash-tested crate secured in the boot is safest, a rigid boot divider next, a proper travel harness on the seatbelt acceptable. Stop every two hours and travel on an empty stomach. Never leave the dog in a parked car, not even for five minutes: for a short-muzzled breed, heat is the real emergency. Trains, ferries, airlines and hotels have their own rules, to check before booking. A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.</p>
 
   
   

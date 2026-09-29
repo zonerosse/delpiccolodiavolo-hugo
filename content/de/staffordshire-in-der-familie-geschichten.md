@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier in der Familie: wo unsere Hunde heute sind"
 titleSeo: "Staffordshire Bull Terrier in der Familie: wahre Geschichten"
 date: 2026-09-27
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "storie-famiglie"
 articolo: true
 image: "/images/blog/storie-famiglie-hero.webp"
@@ -36,7 +36,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>Wir züchten Staffordshire Bull Terrier seit 2013 in Ostellato, in der Provinz Ferrara, mit einem Wurf pro Jahr, gelegentlich zwei, manchmal keinem. Eine Zucht wird nach den Hunden beurteilt, die sie hervorbringt, aber diese Hunde sieht man meist nur auf Welpenfotos oder mit zwei Jahren im Ausstellungsring. Die eigentliche Frage kommt später: <strong>Was wird aus diesen Hunden, wenn das Leben wirklich beginnt?</strong> Bei so kleinen Zahlen weiß ich von fast jedem Hund, der hier weggegangen ist, wo er heute lebt, was er tut und wie es ihm geht. Hier erzähle ich zehn dieser Geschichten: Hunde, die in Familien leben, die arbeiten, die ausgestellt werden oder die sich nach ihrer Karriere in den Sessel zurückgezogen haben. Und eine Tatsache hält sie alle zusammen: Seit 2013 ist kein Hund zurückgekommen, obwohl die Möglichkeit, ihn zurückzugeben, schriftlich festgehalten ist und unbefristet gilt.</p>
+  <p>Die Zucht Del Piccolo Diavolo züchtet Staffordshire Bull Terrier seit 2013 in Ostellato, in der Provinz Ferrara, mit einem Wurf pro Jahr, gelegentlich zwei, manchmal keinem. Eine Zucht wird nach den Hunden beurteilt, die sie hervorbringt, aber diese Hunde sieht man meist nur auf Welpenfotos oder mit zwei Jahren im Ausstellungsring. Die eigentliche Frage kommt später: <strong>Was wird aus diesen Hunden, wenn das Leben wirklich beginnt?</strong> Bei so kleinen Zahlen weiß ich von fast jedem Hund, der hier weggegangen ist, wo er heute lebt, was er tut und wie es ihm geht. Hier erzähle ich zehn dieser Geschichten: Hunde, die in Familien leben, die arbeiten, die ausgestellt werden oder die sich nach ihrer Karriere in den Sessel zurückgezogen haben. Und eine Tatsache hält sie alle zusammen: Seit 2013 ist kein Hund zurückgekommen, obwohl die Möglichkeit, ihn zurückzugeben, schriftlich festgehalten ist und unbefristet gilt.</p>
 
   <h2>Cattleya, die nach dem Ring im Sessel lebt</h2>
 

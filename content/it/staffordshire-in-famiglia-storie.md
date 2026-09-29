@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier in famiglia: dove sono oggi i nostri cani"
 titleSeo: "Staffordshire Bull Terrier in famiglia: storie vere"
 date: 2026-09-27
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "storie-famiglie"
 articolo: true
 image: "/images/blog/storie-famiglie-hero.webp"
@@ -36,7 +36,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>Alleviamo Staffordshire Bull Terrier a Ostellato, in provincia di Ferrara, dal 2013, con una cucciolata l'anno, occasionalmente due, a volte nessuna. Un allevamento si giudica dai cani che produce, ma di solito quei cani si vedono solo nelle foto dei cuccioli o sul ring, a due anni. La domanda vera arriva dopo: <strong>cosa succede a quei cani quando la vita comincia davvero?</strong> Con numeri così piccoli, di quasi tutti i cani partiti da qui so dove sono oggi, cosa fanno e come stanno. Qui ne racconto dieci: cani che vivono in famiglia, che lavorano, che vanno in esposizione o che dopo la carriera si sono ritirati in poltrona. E c'è un fatto che le tiene insieme tutte: dal 2013 nessun cane è mai tornato indietro, anche se la possibilità di riportarlo è scritta e non ha scadenza.</p>
+  <p>L'allevamento Del Piccolo Diavolo alleva Staffordshire Bull Terrier a Ostellato, in provincia di Ferrara, dal 2013, con una cucciolata l'anno, occasionalmente due, a volte nessuna. Un allevamento si giudica dai cani che produce, ma di solito quei cani si vedono solo nelle foto dei cuccioli o sul ring, a due anni. La domanda vera arriva dopo: <strong>cosa succede a quei cani quando la vita comincia davvero?</strong> Con numeri così piccoli, di quasi tutti i cani partiti da qui so dove sono oggi, cosa fanno e come stanno. Qui ne racconto dieci: cani che vivono in famiglia, che lavorano, che vanno in esposizione o che dopo la carriera si sono ritirati in poltrona. E c'è un fatto che le tiene insieme tutte: dal 2013 nessun cane è mai tornato indietro, anche se la possibilità di riportarlo è scritta e non ha scadenza.</p>
 
   <h2>Cattleya, che dopo i ring vive in poltrona</h2>
 

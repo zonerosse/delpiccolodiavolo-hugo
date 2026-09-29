@@ -2,7 +2,7 @@
 title: "Puppies: Worming and Faecal Tests"
 date: 2026-09-27
 titleSeo: "Puppy worming: protocol and faecal test results"
-lastmod: 2026-09-27
+lastmod: 2026-09-29
 translationKey: "sverminazione"
 articolo: true
 image: "/images/blog/esame-feci-microscopio-hero.webp"
@@ -43,7 +43,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Nearly all puppies are born with parasites. This is not a sign of a careless breeder: <em>Toxocara canis</em> larvae remain encysted in the dam's tissues for years, reactivate during pregnancy and pass to the foetuses through the placenta, then to the newborns through the milk. A wormed, perfectly healthy bitch can still give birth to an infested litter. That is why worming starts as early as two weeks of age and is repeated at regular intervals, and why a blind protocol is not enough: the only way to know what is actually there is a laboratory faecal examination. The reports for our August 2026 litter are published below in full, positives included, with the laboratory's name and the date.</p>
+  <p>Nearly all puppies, Staffordshire Bull Terriers included, are born with parasites. This is not a sign of a careless breeder: <em>Toxocara canis</em> larvae remain encysted in the dam's tissues for years, reactivate during pregnancy and pass to the foetuses through the placenta, then to the newborns through the milk. A wormed, perfectly healthy bitch can still give birth to an infested litter. That is why worming starts as early as two weeks of age and is repeated at regular intervals, and why a blind protocol is not enough: the only way to know what is actually there is a laboratory faecal examination. The reports for the Del Piccolo Diavolo kennel's August 2026 litter are published below in full, positives included, with the laboratory's name and the date.</p>
   
   <p>That is why worming is not the answer to a problem that has appeared: it is a procedure planned from day one and carried out regardless. What sets one breeder apart from another is not claiming to have done it, but being able to prove it.</p>
   

@@ -2,7 +2,7 @@
 title: "Staffy Breed Standard"
 date: 2025-02-12
 titleSeo: "Staffordshire Bull Terrier breed standard explained"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "standard"
 articolo: true
 image: "/images/blog/standard-1.webp"
@@ -24,7 +24,7 @@ custom_content: |
   </nav>
   <div class="article-container"><article class="article-content">
   
-  <p>A Staffordshire Bull Terrier is typey when head, proportions, chest, bone, muscle and movement are in balance with each other and with the temperament described by FCI standard no. 76. The standard is a functional description of a smooth-coated, close-coupled terrier of great strength for its size, agile enough to turn on itself and sound enough to work all day. The head is short, with a deep, broad skull, a distinct stop and a short foreface, strong jaws and a scissor bite; the eyes are round and preferably dark, the ears rose or half-pricked. Movement should be free, powerful and agile, with discernible drive from the hindlegs. Type is not the exaggeration of a single point: an overdone head or too short a muzzle costs <a href="/en/boas-staffordshire-bull-terrier-breathing/" title="BOAS and breathing in the Staffordshire Bull Terrier">breathing and heat tolerance</a>, and a judge assesses the whole dog, not one feature.</p>
+  <p>A Staffordshire Bull Terrier is typey when head, proportions, chest, bone, muscle and movement are in balance with each other and with the temperament described by FCI standard no. 76. The standard is a functional description of a smooth-coated, close-coupled terrier of great strength for its size, agile enough to turn on itself and sound enough to work all day. The head is short, with a deep, broad skull, a distinct stop and a short foreface, strong jaws and a scissor bite; the eyes are round and preferably dark, the ears rose or half-pricked. Movement should be free, powerful and agile, with discernible drive from the hindlegs. Type is not the exaggeration of a single point: an overdone head or too short a muzzle costs <a href="/en/boas-staffordshire-bull-terrier-breathing/" title="BOAS and breathing in the Staffordshire Bull Terrier">breathing and heat tolerance</a>, and a judge assesses the whole dog, not one feature. A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.</p>
 
   <h2>What the standard is for</h2>
   <p><a href="https://www.enci.it/media/2347/076.pdf" title="FCI standard no. 76 for the Staffordshire Bull Terrier, official ENCI PDF" target="_blank" rel="noopener" aria-label="FCI standard no. 76 for the Staffordshire Bull Terrier, official ENCI PDF (opens in a new tab)">The breed standard</a> is not a beauty checklist. It is a functional description of a dog built to do a specific job: a smooth-coated, close-coupled terrier of great strength for its size, agile enough to turn on itself and sound enough to work all day. Every clause exists because it describes something the dog needed in order to function, and reading it that way makes it far more useful than reading it as a list of features to tick off.</p>

@@ -2,7 +2,7 @@
 title: "Welpen: Erster Spaziergang"
 date: 2025-09-17
 titleSeo: "Der erste Spaziergang des Welpen: wann und wie"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "passeggiata"
 articolo: true
 image: "/images/blog/cuccioli-5.webp"
@@ -36,7 +36,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Die ersten Spaziergänge eines Staffordshire Bull Terrier Welpen misst man in Minuten, nicht in Kilometern. Als Richtwert gelten etwa fünf Minuten geführter Spaziergang je Lebensmonat, zweimal täglich: mit drei Monaten fünfzehn Minuten, mit vier zwanzig. Die Grenze gibt es, weil sich die Wachstumsfugen bei dieser Rasse zwischen dem zwölften und achtzehnten Monat schließen und wiederholte Stoßbelastung vorher Schäden hinterlässt, die sich erst Jahre später zeigen. Bis zum Ende der Impfungen mit etwa 16 Wochen zu warten, ist aber auch keine Lösung, weil sich das Sozialisierungsfenster, das von der dritten bis zur zwölften Woche reicht, dann schon geschlossen hat: kontrollierte Erfahrungen beginnen, sobald der Welpe da ist, an sauberen, ruhigen Orten, fern vom Kot fremder Hunde. In den ersten Wochen zählt, was der Welpe erlebt, nicht wie weit er läuft: fünf ruhige Minuten Schnüffeln sind mehr wert als dreißig an straffer Leine.</p>
+  <p>Die ersten Spaziergänge eines Staffordshire Bull Terrier Welpen misst man in Minuten, nicht in Kilometern. Als Richtwert gelten etwa fünf Minuten geführter Spaziergang je Lebensmonat, zweimal täglich: mit drei Monaten fünfzehn Minuten, mit vier zwanzig. Die Grenze gibt es, weil sich die Wachstumsfugen bei dieser Rasse zwischen dem zwölften und achtzehnten Monat schließen und wiederholte Stoßbelastung vorher Schäden hinterlässt, die sich erst Jahre später zeigen. Bis zum Ende der Impfungen mit etwa 16 Wochen zu warten, ist aber auch keine Lösung, weil sich das Sozialisierungsfenster, das von der dritten bis zur zwölften Woche reicht, dann schon geschlossen hat: kontrollierte Erfahrungen beginnen, sobald der Welpe da ist, an sauberen, ruhigen Orten, fern vom Kot fremder Hunde. In den ersten Wochen zählt, was der Welpe erlebt, nicht wie weit er läuft: fünf ruhige Minuten Schnüffeln sind mehr wert als dreißig an straffer Leine. Ein Ratgeber der Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet.</p>
 
   
   

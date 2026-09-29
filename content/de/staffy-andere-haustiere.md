@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier mit anderen Haustieren"
 date: 2024-06-18
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "altri-animali"
 articolo: true
 image: "/images/blog/famiglia-2.jpg"
@@ -30,7 +30,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Der Staffordshire Bull Terrier ist ein Terrier, und Reaktivität gegenüber anderen Hunden gibt es, vor allem zwischen Tieren gleichen Geschlechts nach der sozialen Reife zwischen 18 Monaten und drei Jahren. Sozialisierung verringert sie, beseitigt sie aber nicht: Ein Hund, der im Park keine Probleme macht, kann einen Mitbewohner ablehnen, weil der andere zu Hause nie wieder geht. Dazu bleibt ein Rest Jagdtrieb gegenüber kleinen, schnellen Tieren. Das Zusammenleben mit einem anderen Hund, einer Katze oder Kleintieren wird deshalb vorbereitet, bevor es beginnt: den eigenen Hund ehrlich einschätzen, die Wohnung mit getrennten Bereichen und Gittern einrichten, die Tiere Schritt für Schritt zusammenführen und Näpfe, Spielzeug und Liegeplätze verwalten, denn dort beginnen die meisten Konflikte. Mit einer Katze dauert es Wochen, nicht Tage. Bei Kaninchen, Nagern und Vögeln endet die Aufsicht nie.</p>
+  <p>Der Staffordshire Bull Terrier ist ein Terrier, und Reaktivität gegenüber anderen Hunden gibt es, vor allem zwischen Tieren gleichen Geschlechts nach der sozialen Reife zwischen 18 Monaten und drei Jahren. Sozialisierung verringert sie, beseitigt sie aber nicht: Ein Hund, der im Park keine Probleme macht, kann einen Mitbewohner ablehnen, weil der andere zu Hause nie wieder geht. Dazu bleibt ein Rest Jagdtrieb gegenüber kleinen, schnellen Tieren. Das Zusammenleben mit einem anderen Hund, einer Katze oder Kleintieren wird deshalb vorbereitet, bevor es beginnt: den eigenen Hund ehrlich einschätzen, die Wohnung mit getrennten Bereichen und Gittern einrichten, die Tiere Schritt für Schritt zusammenführen und Näpfe, Spielzeug und Liegeplätze verwalten, denn dort beginnen die meisten Konflikte. Mit einer Katze dauert es Wochen, nicht Tage. Bei Kaninchen, Nagern und Vögeln endet die Aufsicht nie. Ein Ratgeber der Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet.</p>
 
   
   

@@ -2,7 +2,7 @@
 title: "Welpen: Stubenreinheit"
 date: 2025-05-22
 titleSeo: "Welpen stubenrein machen: Methode und Zeitrahmen"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "bisogni"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -43,7 +43,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Die Stubenreinheit eines Staffordshire Bull Terrier Welpen hängt von der körperlichen Entwicklung ab, nicht von der Intelligenz, und lässt sich deshalb nicht beschleunigen. Ein Welpe von 8 Wochen kann die Blase höchstens ein bis zwei Stunden halten; als Faustregel gilt etwa eine Stunde je Lebensmonat plus eins, und weniger, solange er wach und aktiv ist. Bringen Sie ihn in den vorhersehbaren Momenten hinaus, nach dem Aufwachen, nach dem Fressen, nach dem Spielen und vor dem Schlafen, und belohnen Sie ihn draußen, gleich wenn er fertig ist. Strafen Sie Missgeschicke nie: Der Welpe verbindet Ihre Reaktion nicht mit etwas von vor Minuten, er lernt nur, dass es gefährlich ist, sich vor Ihnen zu lösen, und geht hinter das Sofa. Reinigen Sie mit Enzymreiniger, nie mit Ammoniak. Tagsüber sind die meisten Welpen mit vier Monaten zuverlässig, nachts zwischen vier und sechs.</p>
+  <p>Die Stubenreinheit eines Staffordshire Bull Terrier Welpen hängt von der körperlichen Entwicklung ab, nicht von der Intelligenz, und lässt sich deshalb nicht beschleunigen. Ein Welpe von 8 Wochen kann die Blase höchstens ein bis zwei Stunden halten; als Faustregel gilt etwa eine Stunde je Lebensmonat plus eins, und weniger, solange er wach und aktiv ist. Bringen Sie ihn in den vorhersehbaren Momenten hinaus, nach dem Aufwachen, nach dem Fressen, nach dem Spielen und vor dem Schlafen, und belohnen Sie ihn draußen, gleich wenn er fertig ist. Strafen Sie Missgeschicke nie: Der Welpe verbindet Ihre Reaktion nicht mit etwas von vor Minuten, er lernt nur, dass es gefährlich ist, sich vor Ihnen zu lösen, und geht hinter das Sofa. Reinigen Sie mit Enzymreiniger, nie mit Ammoniak. Tagsüber sind die meisten Welpen mit vier Monaten zuverlässig, nachts zwischen vier und sechs. Ein Ratgeber der Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet.</p>
 
   
   

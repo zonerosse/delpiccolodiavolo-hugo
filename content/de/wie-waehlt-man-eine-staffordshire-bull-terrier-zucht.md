@@ -37,6 +37,8 @@ lastmod: 2026-09-29
 <div class="section-inner content-single">
 
 
+<p>Um eine seriöse Staffordshire Bull Terrier Zucht zu erkennen, muss man niemandem vertrauen: man muss wissen, wo man nachsieht. Gentest-Befunde gelten nur, wenn sie die Mikrochipnummer des Hundes tragen, sonst lassen sie sich keinem Tier zuordnen. Die Ahnen lassen sich auf SBTPedigree prüfen, dem internationalen Archiv der Rasse. Wie viele Würfe eine Hündin hatte, steht im Zuchtbuch des ENCI, wiederum ausgehend vom Mikrochip. Ausstellungstitel stehen in öffentlichen Katalogen, mit dem Namen des Richters. Die Abgabe vor dem 60. Lebenstag ist in Italien gesetzlich verboten, und ins Ausland gehen Welpen später, weil sie die Tollwutimpfung brauchen. Acht Kriterien, jedes mit dem Weg, es zu prüfen: Sie gelten für die Zucht Del Piccolo Diavolo in Ostellato (Italien) genauso wie für jede andere.</p>
+
 <p>Fast jede Zucht sagt dasselbe: getestete Hunde, Welpen im Haus aufgezogen, sorgfältige Selektion. Solche Aussagen kosten nichts, solange sie niemand prüft — und wer den ersten Welpen sucht, weiß selten, wo das Prüfen anfängt.</p>
 
 <p>Dieser Ratgeber ist umgekehrt aufgebaut. Zu jedem Kriterium steht, <strong>wie man es überprüft</strong>: was man fragt, wo man nachsieht, welches Dokument man verlangt. Und damit es nicht bei der Theorie bleibt, steht unter jedem Kriterium unser eigenes Dokument. Nehmen Sie uns als Übung und stellen Sie dieselben Fragen danach allen anderen.</p>

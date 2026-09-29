@@ -1,7 +1,7 @@
 ---
 title: "Lo Staffy è Pericoloso? Verità e Legge Italiana"
 date: 2025-11-18
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "pericoloso"
 articolo: true
 image: "/images/blog/staffy-carattere-legge-hero.webp"
@@ -41,7 +41,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>In Italia lo Staffordshire Bull Terrier non rientra in nessuna lista di razze pericolose: l'elenco delle razze a rischio &egrave; stato abolito nel 2009 con l'ordinanza del Ministero della Salute, che ha spostato la responsabilit&agrave; dalla razza al proprietario. Da allora nessuna razza &egrave; vietata o soggetta a obblighi particolari sul territorio nazionale, e le regole valgono per tutti i cani: guinzaglio nei luoghi pubblici, museruola al bisogno, e responsabilit&agrave; civile e penale del detentore. Restano alcune limitazioni locali, decise da singoli comuni o regolamenti condominiali, e regole diverse in altri paesi europei, che vanno verificate prima di viaggiare. Uno studio del Royal Veterinary College pubblicato nel 2020 su oltre 22.000 cani non ha trovato differenze significative di aggressivit&agrave; attribuibili alla razza.</p>
+  <p>In Italia lo Staffordshire Bull Terrier non rientra in nessuna lista di razze pericolose: l'elenco delle razze a rischio &egrave; stato abolito nel 2009 con l'ordinanza del Ministero della Salute, che ha spostato la responsabilit&agrave; dalla razza al proprietario. Da allora nessuna razza &egrave; vietata o soggetta a obblighi particolari sul territorio nazionale, e le regole valgono per tutti i cani: guinzaglio nei luoghi pubblici, museruola al bisogno, e responsabilit&agrave; civile e penale del detentore. Restano alcune limitazioni locali, decise da singoli comuni o regolamenti condominiali, e regole diverse in altri paesi europei, che vanno verificate prima di viaggiare. Uno studio del Royal Veterinary College pubblicato nel 2020 su oltre 22.000 cani non ha trovato differenze significative di aggressivit&agrave; attribuibili alla razza. Guida a cura dell'allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier a Ostellato (FE) dal 2013.</p>
 
   
   <h2>Il Pregiudizio sullo Staffordshire Bull Terrier: Da Dove Nasce?</h2>

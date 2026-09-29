@@ -2,7 +2,7 @@
 title: "Welpen: Erste Impfungen"
 date: 2025-06-10
 titleSeo: "Erste Impfungen des Welpen: Plan und Auffrischung"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/salute.webp"
@@ -36,7 +36,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Ein Staffordshire Bull Terrier Welpe erhält die erste Impfung mit 6 bis 8 Wochen, noch in der Zucht, gegen Staupe, Hepatitis und Parvovirose. Die zweite folgt mit 10 bis 12 Wochen, meist zusammen mit Leptospirose, und die dritte mit 14 bis 16 Wochen schließt die Grundimmunisierung ab; eine erste Auffrischung gibt es mit 12 Monaten. Der Schutz baut sich in ein bis zwei Wochen nach der letzten Spritze auf, voll geschützt ist der Welpe also mit etwa 16 bis 18 Wochen. Die Impfungen liegen so dicht, weil mütterliche Antikörper den Welpen anfangs schützen, den Impfstoff aber stören, und wann sie verschwinden, ist von Welpe zu Welpe verschieden. Die Tollwutimpfung ist ab 12 Wochen möglich und gilt für Reisen erst 21 Tage später. Bis zum Abschluss meidet man Orte mit hohem Risiko, aber nicht die Sozialisierung.</p>
+  <p>Ein Staffordshire Bull Terrier Welpe erhält die erste Impfung mit 6 bis 8 Wochen, noch in der Zucht, gegen Staupe, Hepatitis und Parvovirose. Die zweite folgt mit 10 bis 12 Wochen, meist zusammen mit Leptospirose, und die dritte mit 14 bis 16 Wochen schließt die Grundimmunisierung ab; eine erste Auffrischung gibt es mit 12 Monaten. Der Schutz baut sich in ein bis zwei Wochen nach der letzten Spritze auf, voll geschützt ist der Welpe also mit etwa 16 bis 18 Wochen. Die Impfungen liegen so dicht, weil mütterliche Antikörper den Welpen anfangs schützen, den Impfstoff aber stören, und wann sie verschwinden, ist von Welpe zu Welpe verschieden. Die Tollwutimpfung ist ab 12 Wochen möglich und gilt für Reisen erst 21 Tage später. Bis zum Abschluss meidet man Orte mit hohem Risiko, aber nicht die Sozialisierung. Ein Ratgeber der Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet.</p>
 
   
   

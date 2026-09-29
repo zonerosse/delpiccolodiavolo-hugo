@@ -1,7 +1,7 @@
 ---
 title: "Parasitenvorbeugung für Staffordshire Bull Terrier"
 date: 2025-01-20
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "parassiti"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -30,7 +30,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Parasitenvorbeugung beim Staffordshire Bull Terrier ist planbar und fast vollständig wirksam, solange der Kalender eingehalten wird. Der Floh, den man am Hund sieht, ist nur etwa 5 Prozent eines Befalls; der Rest lebt als Eier, Larven und Puppen in der Wohnung. Das kurze Fell der Rasse macht Flöhe und Zecken leicht erkennbar, doch ihre Haut neigt zu Allergien, deshalb ist die Flohspeichelallergie häufig. Zecken übertragen Babesiose, Ehrlichiose, Anaplasmose und Borreliose; Sandmücken und Stechmücken übertragen Leishmaniose und Herzwurm. Welpen bekommen Spulwürmer schon von der Mutter und werden ab der zweiten Lebenswoche alle zwei Wochen bis zur zwölften Woche entwurmt, dann monatlich bis zum sechsten Monat. Erwachsene Hunde werden alle drei Monate behandelt, häufiger, wenn sie Unrat fressen oder mit kleinen Kindern leben, und eine Kotuntersuchung prüft den Plan.</p>
+  <p>Parasitenvorbeugung beim Staffordshire Bull Terrier ist planbar und fast vollständig wirksam, solange der Kalender eingehalten wird. Der Floh, den man am Hund sieht, ist nur etwa 5 Prozent eines Befalls; der Rest lebt als Eier, Larven und Puppen in der Wohnung. Das kurze Fell der Rasse macht Flöhe und Zecken leicht erkennbar, doch ihre Haut neigt zu Allergien, deshalb ist die Flohspeichelallergie häufig. Zecken übertragen Babesiose, Ehrlichiose, Anaplasmose und Borreliose; Sandmücken und Stechmücken übertragen Leishmaniose und Herzwurm. Welpen bekommen Spulwürmer schon von der Mutter und werden ab der zweiten Lebenswoche alle zwei Wochen bis zur zwölften Woche entwurmt, dann monatlich bis zum sechsten Monat. Erwachsene Hunde werden alle drei Monate behandelt, häufiger, wenn sie Unrat fressen oder mit kleinen Kindern leben, und eine Kotuntersuchung prüft den Plan. Ein Ratgeber der Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet.</p>
 
   
   

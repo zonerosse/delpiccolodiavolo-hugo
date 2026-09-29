@@ -2,7 +2,7 @@
 title: "\"Already socialised puppies\": what it really means"
 titleSeo: "Socialised puppies: what it really means"
 date: 2026-09-26
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "socializzazione-affido"
 articolo: true
 image: "/images/blog/socializzazione-cortile-hero.webp"
@@ -35,7 +35,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>&ldquo;Socialised puppies&rdquo; is one of the most common phrases in adverts, and like &ldquo;parents on site&rdquo; it means nothing until somebody specifies <strong>with what</strong>. In dogs the sensitive period for socialisation runs from the third to the twelfth week of life: by the time a Staffordshire Bull Terrier puppy leaves the kennel, at the 60 to 70 days Italian law and good practice allow, five or six of those ten weeks are gone. The more important half of the work is still to come, and the family will do it. A serious breeder does not only tell you what they have done: they also tell you what they could not do &mdash; traffic, children if there are none at the kennel, other species, and being left alone, which a puppy among its littermates has never experienced.</p>
+  <p>&ldquo;Socialised puppies&rdquo; is one of the most common phrases in adverts, and like &ldquo;parents on site&rdquo; it means nothing until somebody specifies <strong>with what</strong>. In dogs the sensitive period for socialisation runs from the third to the twelfth week of life: by the time a Staffordshire Bull Terrier puppy leaves the kennel, at the 60 to 70 days Italian law and good practice allow, five or six of those ten weeks are gone. The more important half of the work is still to come, and the family will do it. A serious breeder does not only tell you what they have done: they also tell you what they could not do &mdash; traffic, children if there are none at the kennel, other species, and being left alone, which a puppy among its littermates has never experienced. A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.</p>
 
   <h2>The window: what ethology says</h2>
 

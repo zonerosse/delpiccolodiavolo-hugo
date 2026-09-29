@@ -2,7 +2,7 @@
 title: "Genitori visibili: cosa significa davvero"
 titleSeo: "Genitori visibili: cosa significa davvero"
 date: 2026-09-26
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "genitori-visibili"
 articolo: true
 image: "/images/blog/genitori-visibili-hero.webp"
@@ -35,7 +35,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>&laquo;Genitori visibili&raquo; &egrave; una delle formule pi&ugrave; ricorrenti negli annunci di cuccioli di Staffordshire Bull Terrier, e suona come una garanzia di serietà. Presa alla lettera per&ograve; descrive una cosa diversa da quella che sembra promettere: la madre c'&egrave; sempre, perch&eacute; i cuccioli sono nati l&igrave;, mentre il padre quasi mai &mdash; e non per reticenza. Un programma di allevamento che guarda avanti cerca lo stallone fuori, spesso all'estero, perch&eacute; i soggetti che rispondono ai requisiti di test, coefficiente di consanguineit&agrave; e compatibilit&agrave; strutturale sono pochi e distanti. Un maschio che sta a mille chilometri, per&ograve;, si verifica meglio di uno visto due minuti in un cortile, perché di lui restano test, pedigree e figli da guardare.</p>
+  <p>&laquo;Genitori visibili&raquo; &egrave; una delle formule pi&ugrave; ricorrenti negli annunci di cuccioli di Staffordshire Bull Terrier, e suona come una garanzia di serietà. Presa alla lettera per&ograve; descrive una cosa diversa da quella che sembra promettere: la madre c'&egrave; sempre, perch&eacute; i cuccioli sono nati l&igrave;, mentre il padre quasi mai &mdash; e non per reticenza. Un programma di allevamento che guarda avanti cerca lo stallone fuori, spesso all'estero, perch&eacute; i soggetti che rispondono ai requisiti di test, coefficiente di consanguineit&agrave; e compatibilit&agrave; strutturale sono pochi e distanti. Un maschio che sta a mille chilometri, per&ograve;, si verifica meglio di uno visto due minuti in un cortile, perché di lui restano test, pedigree e figli da guardare. Guida a cura dell'allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier a Ostellato (FE) dal 2013.</p>
 
   <h2>Quello che si dovrebbe leggere &egrave; &laquo;madre visibile&raquo;</h2>
 

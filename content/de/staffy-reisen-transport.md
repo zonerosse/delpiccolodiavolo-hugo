@@ -1,7 +1,7 @@
 ---
 title: "Reisen und Transport mit Staffordshire Bull Terrier"
 date: 2024-04-07
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "viaggi"
 articolo: true
 image: "/images/blog/famiglia-4.jpg"
@@ -30,7 +30,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Mit einem Staffordshire Bull Terrier zu reisen heißt, drei Dinge vorzubereiten: Papiere, Transport und Pausen. Innerhalb der Europäischen Union braucht ein Hund einen Mikrochip, einen EU-Heimtierausweis von einem ermächtigten Tierarzt und eine gültige Tollwutimpfung, verabreicht nach dem Chippen und mindestens 21 Tage vor der Reise; Irland, Finnland, Malta und Norwegen verlangen zusätzlich eine Bandwurmbehandlung vor der Einreise. Im Auto verlangt das italienische Recht, dass der Hund den Fahrer nicht behindert: Am sichersten ist eine crashgetestete Box, im Kofferraum gesichert, danach ein festes Trenngitter, akzeptabel ein richtiges Reisegeschirr am Gurt. Legen Sie alle zwei Stunden eine Pause ein und reisen Sie mit leerem Magen. Lassen Sie den Hund nie im geparkten Auto, nicht einmal fünf Minuten: Für eine Rasse mit kurzem Fang ist Hitze der echte Notfall. Züge, Fähren, Fluggesellschaften und Hotels haben eigene Regeln, die man vor der Buchung prüft.</p>
+  <p>Mit einem Staffordshire Bull Terrier zu reisen heißt, drei Dinge vorzubereiten: Papiere, Transport und Pausen. Innerhalb der Europäischen Union braucht ein Hund einen Mikrochip, einen EU-Heimtierausweis von einem ermächtigten Tierarzt und eine gültige Tollwutimpfung, verabreicht nach dem Chippen und mindestens 21 Tage vor der Reise; Irland, Finnland, Malta und Norwegen verlangen zusätzlich eine Bandwurmbehandlung vor der Einreise. Im Auto verlangt das italienische Recht, dass der Hund den Fahrer nicht behindert: Am sichersten ist eine crashgetestete Box, im Kofferraum gesichert, danach ein festes Trenngitter, akzeptabel ein richtiges Reisegeschirr am Gurt. Legen Sie alle zwei Stunden eine Pause ein und reisen Sie mit leerem Magen. Lassen Sie den Hund nie im geparkten Auto, nicht einmal fünf Minuten: Für eine Rasse mit kurzem Fang ist Hitze der echte Notfall. Züge, Fähren, Fluggesellschaften und Hotels haben eigene Regeln, die man vor der Buchung prüft. Ein Ratgeber der Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet.</p>
 
   
   

@@ -2,7 +2,7 @@
 title: "Test Genetici L2-HGA, HC (HSF4) e DM (SOD1) Staffordshire Bull Terrier"
 titleSeo: "Test genetici Staffy: L2-HGA, HC (HSF4) e DM (SOD1)"
 date: 2025-11-20
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "test-genetici"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -43,7 +43,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Lo Staffordshire Bull Terrier ha tre patologie ereditarie per cui esiste un test: <strong>L2-HGA</strong>, l'aciduria L-2-idrossiglutarica, una malattia neurologica che si manifesta fra i sei mesi e l'anno con tremori, atassia e crisi; <strong>HC</strong>, la cataratta ereditaria giovanile, che può portare a cecità entro i tre anni; e <strong>PHPV</strong>, un'anomalia congenita del vitreo. Le prime due si accertano con un test del DNA su tampone salivare o sangue, la terza con una visita oftalmologica specialistica. Tutte e tre sono a trasmissione autosomica recessiva: servono due copie del gene mutato perché il cane si ammali, quindi due genitori esenti non possono produrre cuccioli malati. È per questo che il test sui riproduttori conta più di qualsiasi garanzia scritta, e che un referto vale solo se riporta il numero di microchip del cane.</p>
+  <p>Lo Staffordshire Bull Terrier ha tre patologie ereditarie per cui esiste un test: <strong>L2-HGA</strong>, l'aciduria L-2-idrossiglutarica, una malattia neurologica che si manifesta fra i sei mesi e l'anno con tremori, atassia e crisi; <strong>HC</strong>, la cataratta ereditaria giovanile, che può portare a cecità entro i tre anni; e <strong>PHPV</strong>, un'anomalia congenita del vitreo. Le prime due si accertano con un test del DNA su tampone salivare o sangue, la terza con una visita oftalmologica specialistica. Tutte e tre sono a trasmissione autosomica recessiva: servono due copie del gene mutato perché il cane si ammali, quindi due genitori esenti non possono produrre cuccioli malati. È per questo che il test sui riproduttori conta più di qualsiasi garanzia scritta, e che un referto vale solo se riporta il numero di microchip del cane. Guida a cura dell'allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier a Ostellato (FE) dal 2013.</p>
 
   
   <h2>Perché i Test Genetici Sono Fondamentali</h2>

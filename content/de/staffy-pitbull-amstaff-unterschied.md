@@ -1,7 +1,7 @@
 ---
 title: "Unterschied zwischen Staffordshire Bull Terrier, Pitbull und Amstaff"
 date: 2025-11-19
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 titleSeo: "Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich"
 translationKey: "pitbull-amstaff"
 articolo: true
@@ -35,7 +35,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Staffordshire Bull Terrier, American Staffordshire Terrier und American Pit Bull Terrier stammen vom selben Grundstock ab, den Bull and Terriers im England des 19. Jahrhunderts, sind heute aber drei verschiedene Rassen. Der Staffordshire Bull Terrier ist der kleinste, mit höchstens 17 kg, und ist von der FCI mit dem Standard Nr. 76 anerkannt. Der American Staffordshire Terrier ist größer und schwerer, bei Rüden bis 32 kg, und ist von der FCI mit dem Standard Nr. 286 anerkannt. Der American Pit Bull Terrier, dessen Gewicht stark schwankt, wird von den amerikanischen Verbänden UKC und ADBA registriert, nicht aber von der FCI; in Italien kann der ENCI ihm deshalb keine Ahnentafel ausstellen, und einen Pit Bull mit ENCI-Papieren gibt es nicht. Keine der drei Rassen ist in Italien verboten, wo seit 2009 der Halter verantwortlich ist, nicht die Rasse.</p>
+  <p>Staffordshire Bull Terrier, American Staffordshire Terrier und American Pit Bull Terrier stammen vom selben Grundstock ab, den Bull and Terriers im England des 19. Jahrhunderts, sind heute aber drei verschiedene Rassen. Der Staffordshire Bull Terrier ist der kleinste, mit höchstens 17 kg, und ist von der FCI mit dem Standard Nr. 76 anerkannt. Der American Staffordshire Terrier ist größer und schwerer, bei Rüden bis 32 kg, und ist von der FCI mit dem Standard Nr. 286 anerkannt. Der American Pit Bull Terrier, dessen Gewicht stark schwankt, wird von den amerikanischen Verbänden UKC und ADBA registriert, nicht aber von der FCI; in Italien kann der ENCI ihm deshalb keine Ahnentafel ausstellen, und einen Pit Bull mit ENCI-Papieren gibt es nicht. Keine der drei Rassen ist in Italien verboten, wo seit 2009 der Halter verantwortlich ist, nicht die Rasse. Ein Ratgeber der Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet.</p>
 
   
   

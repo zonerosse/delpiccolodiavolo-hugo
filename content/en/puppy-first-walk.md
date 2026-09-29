@@ -2,7 +2,7 @@
 title: "Puppies: First Walk"
 date: 2025-09-17
 titleSeo: "A puppy's first walk: when to start and how"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "passeggiata"
 articolo: true
 image: "/images/blog/cuccioli-5.webp"
@@ -43,7 +43,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>A Staffordshire Bull Terrier puppy's first walks are measured in minutes, not distance. The usual guideline is about five minutes of formal walking per month of age, twice a day: fifteen minutes at three months, twenty at four. The limit exists because growth plates in this breed close between 12 and 18 months, and repeated impact before then causes damage that only shows years later. Waiting for the end of the vaccination course at around 16 weeks is not the answer either, because by then the socialisation window, which runs from the third to the twelfth week, has already closed: controlled exposure should begin as soon as the puppy arrives, in clean, quiet places, away from other dogs' faeces. In the early weeks, what the puppy meets matters more than how far it goes: five calm minutes of sniffing are worth more than thirty on a tight lead.</p>
+  <p>A Staffordshire Bull Terrier puppy's first walks are measured in minutes, not distance. The usual guideline is about five minutes of formal walking per month of age, twice a day: fifteen minutes at three months, twenty at four. The limit exists because growth plates in this breed close between 12 and 18 months, and repeated impact before then causes damage that only shows years later. Waiting for the end of the vaccination course at around 16 weeks is not the answer either, because by then the socialisation window, which runs from the third to the twelfth week, has already closed: controlled exposure should begin as soon as the puppy arrives, in clean, quiet places, away from other dogs' faeces. In the early weeks, what the puppy meets matters more than how far it goes: five calm minutes of sniffing are worth more than thirty on a tight lead. A guide by the Del Piccolo Diavolo kennel, Ostellato, Italy.</p>
 
   
   

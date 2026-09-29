@@ -1,6 +1,6 @@
 ---
 title: "Das Wesen des Staffordshire Bull Terrier: Woher es Kommt"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 titleSeo: "Wesen des Staffy: wie es selektiert wurde"
 articolo: true
 translationKey: "carattere"
@@ -44,6 +44,9 @@ correlati:
 <div class="section-inner content-single">
 
 <p><strong>Kurz gefasst:</strong> das Wesen des Staffordshire Bull Terrier ist weder Zufall noch das Verdienst des einzelnen Hundes. Es ist das Ergebnis einer zwei Jahrhunderte währenden Selektion, in der Zuverlässigkeit gegenüber Menschen die nicht verhandelbare Bedingung war. Wer versteht, woher dieses Wesen kommt, erkennt einen typischen Vertreter — und begreift, warum die Wahl der Zucht mehr wiegt als die Rasse auf dem Papier.</p>
+
+
+<p>Das Wesen des Staffordshire Bull Terrier ist kein Zufall: Es ist das Ergebnis gezielter Selektion und der ersten Lebenswochen. Der Rassestandard beschreibt einen <strong>mutigen, zähen und gegenüber Menschen zuverlässigen</strong> Hund, und bei diesem letzten Punkt wiegt die Auswahl der Zuchttiere mehr als jede spätere Erziehung. Nachfragen sollte man bei etwas anderem: Als Terrier kann er gegenüber Artgenossen reaktiv sein, vor allem zwischen erwachsenen Hunden gleichen Geschlechts, und frühe Sozialisierung verringert das, beseitigt es aber nicht. Das Wesen beurteilt man an den Eltern und Wurfgeschwistern, nicht an einem einzelnen Welpen mit drei Wochen. Ein Ratgeber der Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet.</p>
 
 <h2>Ein Wesen, das gebaut wurde, nicht zufällig entstand</h2>
 

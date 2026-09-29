@@ -2,7 +2,7 @@
 title: "Welpen: Erste Fütterung"
 date: 2025-04-15
 titleSeo: "Ernährung des Welpen in den ersten Monaten"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -43,7 +43,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Ein Staffordshire Bull Terrier Welpe sollte mindestens in der ersten Woche zu Hause genau das Futter bekommen, das er in der Zucht gefressen hat. Jede spätere Umstellung erfolgt über 7 bis 10 Tage, mit einem Viertel, dann der Hälfte, dann drei Vierteln des neuen Futters, und bei weicherem Kot geht man einen Schritt zurück. Bis 6 Monate bekommt der Welpe drei Mahlzeiten am Tag zu festen Zeiten, danach zwei, und dabei bleibt es das ganze Leben: eine einzige große Mahlzeit ist bei einer Rasse mit tiefem Brustkorb ein Risikofaktor für die Magendrehung. Die Menge richtet sich nach dem Körperzustand, nicht nach der Tabelle auf dem Sack, angepasst um jeweils 10 Prozent. Leckerli bleiben unter 10 Prozent der Tagesration. Durchfall über 24 Stunden oder mit Blut gehört noch am selben Tag zum Tierarzt.</p>
+  <p>Ein Staffordshire Bull Terrier Welpe sollte mindestens in der ersten Woche zu Hause genau das Futter bekommen, das er in der Zucht gefressen hat. Jede spätere Umstellung erfolgt über 7 bis 10 Tage, mit einem Viertel, dann der Hälfte, dann drei Vierteln des neuen Futters, und bei weicherem Kot geht man einen Schritt zurück. Bis 6 Monate bekommt der Welpe drei Mahlzeiten am Tag zu festen Zeiten, danach zwei, und dabei bleibt es das ganze Leben: eine einzige große Mahlzeit ist bei einer Rasse mit tiefem Brustkorb ein Risikofaktor für die Magendrehung. Die Menge richtet sich nach dem Körperzustand, nicht nach der Tabelle auf dem Sack, angepasst um jeweils 10 Prozent. Leckerli bleiben unter 10 Prozent der Tagesration. Durchfall über 24 Stunden oder mit Blut gehört noch am selben Tag zum Tierarzt. Ein Ratgeber der Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet.</p>
 
   
   

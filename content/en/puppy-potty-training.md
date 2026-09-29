@@ -2,7 +2,7 @@
 title: "Puppies: Potty Training"
 date: 2025-05-22
 titleSeo: "Puppy potty training: method, timing and setbacks"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "bisogni"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -43,7 +43,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>House training a Staffordshire Bull Terrier puppy depends on physical development, not intelligence, so it cannot be rushed. A puppy of 8 weeks cannot hold its bladder for more than one or two hours; a useful rule of thumb is about one hour per month of age plus one, and less while the puppy is awake and active. Take it out at the predictable moments, after waking, after eating, after play and before sleep, and reward it outside, straight after it has finished. Never punish accidents: the puppy does not connect your reaction with something it did minutes earlier, it learns that going in front of you is dangerous and starts hiding behind the sofa instead. Clean with an enzymatic cleaner, never with ammonia. Most puppies are reliable by day at four months and dry overnight between four and six.</p>
+  <p>House training a Staffordshire Bull Terrier puppy depends on physical development, not intelligence, so it cannot be rushed. A puppy of 8 weeks cannot hold its bladder for more than one or two hours; a useful rule of thumb is about one hour per month of age plus one, and less while the puppy is awake and active. Take it out at the predictable moments, after waking, after eating, after play and before sleep, and reward it outside, straight after it has finished. Never punish accidents: the puppy does not connect your reaction with something it did minutes earlier, it learns that going in front of you is dangerous and starts hiding behind the sofa instead. Clean with an enzymatic cleaner, never with ammonia. Most puppies are reliable by day at four months and dry overnight between four and six. A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.</p>
 
   
   

@@ -1,7 +1,7 @@
 ---
 title: "Safe Exercise for Staffordshire Bull Terrier"
 date: 2024-06-20
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "esercizio"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -34,7 +34,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>The Staffordshire Bull Terrier needs exercise every day, but not endless running: for a healthy adult, count on sixty to ninety minutes in total, in at least two outings, mixing steady walking, some free movement and mental work. For puppies the guideline is five minutes of formal walking per month of age, twice a day, because growth plates in this breed close between 12 and 18 months and repeated impact before then causes damage that shows years later. In adults the main danger is heat: a short muzzle makes panting less efficient, and panting is a dog's only way to cool down. Walk in the cool hours, test the tarmac with the back of your hand for five seconds, and never leave the dog in a parked car. From about eight years old, keep the duration but lower the intensity.</p>
+  <p>The Staffordshire Bull Terrier needs exercise every day, but not endless running: for a healthy adult, count on sixty to ninety minutes in total, in at least two outings, mixing steady walking, some free movement and mental work. For puppies the guideline is five minutes of formal walking per month of age, twice a day, because growth plates in this breed close between 12 and 18 months and repeated impact before then causes damage that shows years later. In adults the main danger is heat: a short muzzle makes panting less efficient, and panting is a dog's only way to cool down. Walk in the cool hours, test the tarmac with the back of your hand for five seconds, and never leave the dog in a parked car. From about eight years old, keep the duration but lower the intensity. A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.</p>
 
   
   

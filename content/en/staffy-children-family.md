@@ -2,7 +2,7 @@
 title: "Staffy and Children: Family Life"
 date: 2024-05-28
 titleSeo: "Staffordshire Bull Terrier with children: family life"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "bambini"
 articolo: true
 image: "/images/blog/famiglia-1.webp"
@@ -35,7 +35,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>No dog of any breed should be left alone with a small child, and the Staffordshire Bull Terrier is no exception. Its informal name, nanny dog, describes a real tolerance, not an ability to supervise. That tolerance comes from how the breed was selected: in constant close handling, where any dog that showed aggression towards a person was removed from breeding. A well-bred, well-socialised Staffy seeks human company, tolerates handling and noise remarkably well and usually meets a child's clumsiness with patience. Temperament still varies between individuals, and early socialisation matters as much as genetics. In practice, safety depends on the adults: supervised introductions, rules that change with the child's age, teaching the child as well as the dog, a place where the dog can retreat, and noticing signs of stress before they become a growl.</p>
+  <p>No dog of any breed should be left alone with a small child, and the Staffordshire Bull Terrier is no exception. Its informal name, nanny dog, describes a real tolerance, not an ability to supervise. That tolerance comes from how the breed was selected: in constant close handling, where any dog that showed aggression towards a person was removed from breeding. A well-bred, well-socialised Staffy seeks human company, tolerates handling and noise remarkably well and usually meets a child's clumsiness with patience. Temperament still varies between individuals, and early socialisation matters as much as genetics. In practice, safety depends on the adults: supervised introductions, rules that change with the child's age, teaching the child as well as the dog, a place where the dog can retreat, and noticing signs of stress before they become a growl. A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.</p>
 
   
   

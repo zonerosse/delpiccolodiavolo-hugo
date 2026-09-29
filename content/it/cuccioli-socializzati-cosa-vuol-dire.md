@@ -2,7 +2,7 @@
 title: "Cuccioli già socializzati: cosa vuol dire davvero"
 titleSeo: "Cuccioli socializzati: cosa vuol dire davvero"
 date: 2026-09-26
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "socializzazione-affido"
 articolo: true
 image: "/images/blog/socializzazione-cortile-hero.webp"
@@ -35,7 +35,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>&laquo;Cuccioli socializzati&raquo; &egrave; una delle formule pi&ugrave; ricorrenti negli annunci, e come &laquo;genitori visibili&raquo; non significa nulla finch&eacute; qualcuno non specifica <strong>con cosa</strong>. Nel cane il periodo sensibile per la socializzazione va dalla terza alla dodicesima settimana di vita: quando un cucciolo di Staffordshire Bull Terrier lascia l'allevamento, fra i 60 e i 70 giorni previsti, ne ha passate in casa cinque o sei su dieci. La met&agrave; pi&ugrave; importante del lavoro deve ancora essere fatta, e la far&agrave; la sua famiglia. Un allevatore serio non dice soltanto cosa ha fatto: dice anche cosa non ha potuto fare &mdash; il traffico, i bambini se in allevamento non ce ne sono, gli altri animali, e lo stare da solo, che un cucciolo in mezzo ai fratelli non ha mai sperimentato.</p>
+  <p>&laquo;Cuccioli socializzati&raquo; &egrave; una delle formule pi&ugrave; ricorrenti negli annunci, e come &laquo;genitori visibili&raquo; non significa nulla finch&eacute; qualcuno non specifica <strong>con cosa</strong>. Nel cane il periodo sensibile per la socializzazione va dalla terza alla dodicesima settimana di vita: quando un cucciolo di Staffordshire Bull Terrier lascia l'allevamento, fra i 60 e i 70 giorni previsti, ne ha passate in casa cinque o sei su dieci. La met&agrave; pi&ugrave; importante del lavoro deve ancora essere fatta, e la far&agrave; la sua famiglia. Un allevatore serio non dice soltanto cosa ha fatto: dice anche cosa non ha potuto fare &mdash; il traffico, i bambini se in allevamento non ce ne sono, gli altri animali, e lo stare da solo, che un cucciolo in mezzo ai fratelli non ha mai sperimentato. Guida a cura dell'allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier a Ostellato (FE) dal 2013.</p>
 
   <h2>La finestra: cosa dice l'etologia</h2>
 

@@ -4,17 +4,12 @@
 {{ $baseURL := "https://delpiccolodiavolo.it" }}
 
 {{ $cc := .Params.custom_content | default "" }}
-{{ $rec := slice }}
-{{ range findRESubmatch `(?s)<article class="review-card">.*?<span class="review-name">(.*?)</span>.*?<span class="review-stars">(.*?)</span>.*?<p class="review-text">(.*?)</p>.*?<div class="review-meta">(.*?)</div>` $cc }}
-  {{ $nome := index . 1 | plainify | htmlUnescape | string }}
-  {{ $stelle := index . 2 }}
-  {{ $testo := index . 3 | plainify | htmlUnescape | string }}
-  {{ $meta := index . 4 | plainify | htmlUnescape }}
-  {{ $voto := len (findRE `★` $stelle) }}
-  {{ if and (gt (len $testo) 20) (gt $voto 0) }}
-    {{ $rec = $rec | append (dict "nome" $nome "voto" $voto "testo" $testo "meta" $meta) }}
-  {{ end }}
-{{ end }}
+{{/* Niente Review / AggregateRating nello schema. Le recensioni del sito
+     vengono dalla scheda Google Business: Google vieta di marcare recensioni
+     raccolte su altre piattaforme e, per LocalBusiness/Organization, non
+     mostra stelle per le recensioni "self-serving". Il markup non portava
+     nulla in SERP ed esponeva a un'azione manuale per dati strutturati.
+     Il testo delle recensioni resta visibile nella pagina. */}}
 
 {{ $currentURL := .Permalink }}
 
@@ -171,22 +166,6 @@
     "latitude": 44.7461783,
     "longitude": 11.9377268
   },
-  {{ if and (ge (len $rec) 3) (in (slice "recensioni" "reviews" "bewertungen") (path.Base .RelPermalink)) }}"review": [
-    {{ range $i, $r := $rec }}{{ if $i }},{{ end }}
-    {
-      "@type": "Review",
-      "author": { "@type": "Person", "name": {{ $r.nome | jsonify | safeJS }} },
-      "reviewRating": { "@type": "Rating", "ratingValue": "{{ $r.voto }}", "bestRating": "5", "worstRating": "1" },
-      "reviewBody": {{ $r.testo | jsonify | safeJS }}
-    }{{ end }}
-  ],{{ end }}
-  {{ if in (slice "recensioni" "reviews" "bewertungen") (path.Base .RelPermalink) }}"aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "{{ .Site.Params.recensioniVoto }}",
-    "reviewCount": "{{ .Site.Params.recensioniTotale }}",
-    "bestRating": "5",
-    "worstRating": "1"
-  },{{ end }}
   "areaServed": [
     {"@type": "Country", "name": "Italy"},
     {"@type": "Country", "name": "Germany"},

@@ -2,7 +2,7 @@
 title: "Staffy and Elderly Owners"
 date: 2024-05-28
 titleSeo: "Is a Staffordshire Bull Terrier right for older owners?"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "anziani"
 articolo: true
 image: "/images/blog/famiglia-2.webp"
@@ -35,7 +35,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>A Staffordshire Bull Terrier can suit an older owner, but the answer depends more on the person and the dog than on the breed. Its size, eleven to seventeen kilograms, and its short coat make it easy to manage, and sixty to ninety minutes of walking a day across two or three outings fits a routine built around morning and afternoon walks. The point that must be said plainly is strength: a young Staffy pulling on the lead can pull an older person over, and adolescence between 8 and 18 months tests anyone. For most older owners the right dog is an adult of three to six years, not a puppy, with a written arrangement with family or the breeder about what happens if the dog can no longer be kept. A puppy is a commitment of 12 to 14 years.</p>
+  <p>A Staffordshire Bull Terrier can suit an older owner, but the answer depends more on the person and the dog than on the breed. Its size, eleven to seventeen kilograms, and its short coat make it easy to manage, and sixty to ninety minutes of walking a day across two or three outings fits a routine built around morning and afternoon walks. The point that must be said plainly is strength: a young Staffy pulling on the lead can pull an older person over, and adolescence between 8 and 18 months tests anyone. For most older owners the right dog is an adult of three to six years, not a puppy, with a written arrangement with family or the breeder about what happens if the dog can no longer be kept. A puppy is a commitment of 12 to 14 years. A guide by the Del Piccolo Diavolo kennel, Ostellato, Italy.</p>
 
   
   

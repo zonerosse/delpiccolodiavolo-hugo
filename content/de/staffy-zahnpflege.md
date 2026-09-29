@@ -1,7 +1,7 @@
 ---
 title: "Zahnpflege und Mundhygiene für Staffordshire Bull Terrier"
 date: 2024-06-18
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "denti"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -30,7 +30,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Zahnerkrankungen sind die am häufigsten diagnostizierte Erkrankung beim Hund, und der Staffordshire Bull Terrier braucht aus einem baulichen Grund besondere Aufmerksamkeit: zweiundvierzig Zähne in einem vergleichsweise kurzen Kiefer, so eng, dass sich Belag dort sammelt, wo die Zunge nicht hinkommt. Belag wird in etwa drei Tagen zu Zahnstein, deshalb ist das Zähneputzen das Einzige, was wirklich wirkt: täglich ist ideal, dreimal pro Woche das realistische Minimum, dreißig Sekunden je Seite. Gewöhnen Sie den Hund schon als Welpen langsam daran; mit sieben Monaten sollte kein Milchzahn mehr da sein. Der kräftige Kiefer der Rasse macht sehr harte Kauartikel gefährlich: Was Sie mit dem Fingernagel nicht eindrücken können, gehört nicht ins Maul. Ein regelmäßig geputzter Hund braucht vielleicht alle zwei bis drei Jahre eine professionelle Zahnreinigung, einer, der nie geputzt wurde, ab mittlerem Alter jedes Jahr.</p>
+  <p>Zahnerkrankungen sind die am häufigsten diagnostizierte Erkrankung beim Hund, und der Staffordshire Bull Terrier braucht aus einem baulichen Grund besondere Aufmerksamkeit: zweiundvierzig Zähne in einem vergleichsweise kurzen Kiefer, so eng, dass sich Belag dort sammelt, wo die Zunge nicht hinkommt. Belag wird in etwa drei Tagen zu Zahnstein, deshalb ist das Zähneputzen das Einzige, was wirklich wirkt: täglich ist ideal, dreimal pro Woche das realistische Minimum, dreißig Sekunden je Seite. Gewöhnen Sie den Hund schon als Welpen langsam daran; mit sieben Monaten sollte kein Milchzahn mehr da sein. Der kräftige Kiefer der Rasse macht sehr harte Kauartikel gefährlich: Was Sie mit dem Fingernagel nicht eindrücken können, gehört nicht ins Maul. Ein regelmäßig geputzter Hund braucht vielleicht alle zwei bis drei Jahre eine professionelle Zahnreinigung, einer, der nie geputzt wurde, ab mittlerem Alter jedes Jahr. Ein Ratgeber der Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet.</p>
 
   
   

@@ -1,6 +1,6 @@
 ---
 title: "The Staffordshire Bull Terrier Temperament: Where It Comes From"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 titleSeo: "Staffy temperament: how it was selected"
 articolo: true
 translationKey: "carattere"
@@ -44,6 +44,9 @@ correlati:
 <div class="section-inner content-single">
 
 <p><strong>In short:</strong> the Staffordshire Bull Terrier's character is neither an accident nor the merit of an individual dog. It is the result of two centuries of selection in which reliability towards people was the non-negotiable requirement. Understanding where that temperament comes from helps you recognise a typical specimen, and explains why the choice of breeder matters more than the breed on paper.</p>
+
+
+<p>The temperament of the Staffordshire Bull Terrier is no accident: it is the result of deliberate selection and of the first weeks of life. The breed standard describes a dog that is <strong>bold, tenacious and reliable with people</strong>, and on that last point the choice of breeding dogs weighs more than any later training. The trait worth asking about is a different one: as a terrier, it can be reactive towards other dogs, especially between adults of the same sex, and early socialisation reduces this without removing it. Temperament is judged by looking at the parents and littermates, not at a single puppy at three weeks. A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.</p>
 
 <h2>A character that was built, not inherited by chance</h2>
 

@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terriers in family life: where our dogs are today"
 titleSeo: "Staffordshire Bull Terriers in family life: true stories"
 date: 2026-09-27
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "storie-famiglie"
 articolo: true
 image: "/images/blog/storie-famiglie-hero.webp"
@@ -36,7 +36,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>We have been breeding Staffordshire Bull Terriers in Ostellato, in the province of Ferrara, since 2013, with one litter a year, occasionally two, sometimes none. A kennel is judged by the dogs it produces, but those dogs are usually seen only in puppy photos or in the show ring at two years old. The real question comes later: <strong>what happens to those dogs once life really begins?</strong> With numbers this small, I know where almost every dog that left here is today, what it does and how it is doing. Here I tell ten of those stories: dogs that live with families, dogs that work, dogs that are shown, and dogs that retired to the armchair after their careers. And one fact holds them all together: since 2013 no dog has ever come back, even though the option to return one is written down and has no expiry date.</p>
+  <p>The Del Piccolo Diavolo kennel has been breeding Staffordshire Bull Terriers in Ostellato, in the province of Ferrara, since 2013, with one litter a year, occasionally two, sometimes none. A kennel is judged by the dogs it produces, but those dogs are usually seen only in puppy photos or in the show ring at two years old. The real question comes later: <strong>what happens to those dogs once life really begins?</strong> With numbers this small, I know where almost every dog that left here is today, what it does and how it is doing. Here I tell ten of those stories: dogs that live with families, dogs that work, dogs that are shown, and dogs that retired to the armchair after their careers. And one fact holds them all together: since 2013 no dog has ever come back, even though the option to return one is written down and has no expiry date.</p>
 
   <h2>Cattleya, who retired to the armchair after the ring</h2>
 

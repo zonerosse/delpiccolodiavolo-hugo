@@ -1,7 +1,7 @@
 ---
 title: "Sichere Bewegung für Staffordshire Bull Terrier"
 date: 2024-06-20
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "esercizio"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -30,7 +30,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Der Staffordshire Bull Terrier braucht jeden Tag Bewegung, aber kein endloses Rennen: Für einen gesunden erwachsenen Hund rechnet man mit sechzig bis neunzig Minuten insgesamt, verteilt auf mindestens zwei Runden, mit ruhigem Gehen, etwas freier Bewegung und Kopfarbeit. Für Welpen gilt die Regel von fünf Minuten geführtem Spaziergang je Lebensmonat, zweimal täglich, weil sich die Wachstumsfugen bei dieser Rasse zwischen dem zwölften und achtzehnten Monat schließen und wiederholte Stoßbelastung vorher Schäden hinterlässt, die sich erst Jahre später zeigen. Beim erwachsenen Hund ist die größte Gefahr die Hitze: Der kurze Fang macht das Hecheln weniger wirksam, und Hecheln ist die einzige Kühlung des Hundes. Gehen Sie in den kühlen Stunden, prüfen Sie den Asphalt fünf Sekunden mit dem Handrücken und lassen Sie den Hund nie im geparkten Auto. Ab etwa acht Jahren bleibt die Dauer, die Intensität sinkt.</p>
+  <p>Der Staffordshire Bull Terrier braucht jeden Tag Bewegung, aber kein endloses Rennen: Für einen gesunden erwachsenen Hund rechnet man mit sechzig bis neunzig Minuten insgesamt, verteilt auf mindestens zwei Runden, mit ruhigem Gehen, etwas freier Bewegung und Kopfarbeit. Für Welpen gilt die Regel von fünf Minuten geführtem Spaziergang je Lebensmonat, zweimal täglich, weil sich die Wachstumsfugen bei dieser Rasse zwischen dem zwölften und achtzehnten Monat schließen und wiederholte Stoßbelastung vorher Schäden hinterlässt, die sich erst Jahre später zeigen. Beim erwachsenen Hund ist die größte Gefahr die Hitze: Der kurze Fang macht das Hecheln weniger wirksam, und Hecheln ist die einzige Kühlung des Hundes. Gehen Sie in den kühlen Stunden, prüfen Sie den Asphalt fünf Sekunden mit dem Handrücken und lassen Sie den Hund nie im geparkten Auto. Ab etwa acht Jahren bleibt die Dauer, die Intensität sinkt. Ein Ratgeber der Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet.</p>
 
   
   

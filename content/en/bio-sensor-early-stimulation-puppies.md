@@ -2,7 +2,7 @@
 title: "Bio Sensor: what the research actually says"
 date: 2026-09-09
 titleSeo: "Bio Sensor and early stimulation: what research says"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "biosensor"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
@@ -35,7 +35,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Bio Sensor, also known as ENS or Early Neurological Stimulation, is a United States army programme from the 1970s: five exercises of three to five seconds each, once a day, from the third to the sixteenth day of a puppy's life. The benefits attributed to it, better stress tolerance, a more efficient heart and greater resistance to disease, come from that military programme, not from independent studies checked by other researchers. What is well documented in canine behaviour is something else: the sensitive period for socialisation in the weeks that follow, and the weight of good maternal care. A breeder who presents ENS as the guarantee of a balanced adult is promising more than is actually known. This applies to the Staffordshire Bull Terrier as much as to any other breed.</p>
+  <p>Bio Sensor, also known as ENS or Early Neurological Stimulation, is a United States army programme from the 1970s: five exercises of three to five seconds each, once a day, from the third to the sixteenth day of a puppy's life. The benefits attributed to it, better stress tolerance, a more efficient heart and greater resistance to disease, come from that military programme, not from independent studies checked by other researchers. What is well documented in canine behaviour is something else: the sensitive period for socialisation in the weeks that follow, and the weight of good maternal care. A breeder who presents ENS as the guarantee of a balanced adult is promising more than is actually known. This applies to the Staffordshire Bull Terrier as much as to any other breed. A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.</p>
 
 
   <p>Litter announcements often mention "puppies raised with the Bio Sensor method" or "ENS programme". It sounds serious, and the origin genuinely is. What is almost always missing is the part that says how well founded it is.</p>

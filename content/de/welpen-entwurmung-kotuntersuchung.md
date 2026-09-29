@@ -2,7 +2,7 @@
 title: "Welpen: Entwurmung und Kotuntersuchung"
 date: 2026-09-27
 titleSeo: "Entwurmung der Welpen: Plan und Kotuntersuchung"
-lastmod: 2026-09-27
+lastmod: 2026-09-29
 translationKey: "sverminazione"
 articolo: true
 image: "/images/blog/esame-feci-microscopio-hero.webp"
@@ -43,7 +43,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Nahezu alle Welpen kommen mit Parasiten zur Welt. Das ist kein Zeichen von Nachlässigkeit des Züchters: Larven von <em>Toxocara canis</em> bleiben über Jahre im Gewebe der Hündin eingekapselt, werden während der Trächtigkeit reaktiviert und gelangen über die Plazenta zu den Föten, später über die Milch zu den Neugeborenen. Eine entwurmte, vollkommen gesunde Hündin kann dennoch einen befallenen Wurf zur Welt bringen. Deshalb beginnt die Entwurmung schon ab der zweiten Lebenswoche und wird in regelmäßigen Abständen wiederholt, und deshalb genügt ein blindes Schema nicht: der einzige Weg zu wissen, was wirklich da ist, ist die Kotuntersuchung im Labor. Die Befunde unseres Wurfs vom August 2026 sind hier vollständig veröffentlicht, positive Ergebnisse eingeschlossen, mit Name des Labors und Datum.</p>
+  <p>Nahezu alle Welpen, auch die des Staffordshire Bull Terrier, kommen mit Parasiten zur Welt. Das ist kein Zeichen von Nachlässigkeit des Züchters: Larven von <em>Toxocara canis</em> bleiben über Jahre im Gewebe der Hündin eingekapselt, werden während der Trächtigkeit reaktiviert und gelangen über die Plazenta zu den Föten, später über die Milch zu den Neugeborenen. Eine entwurmte, vollkommen gesunde Hündin kann dennoch einen befallenen Wurf zur Welt bringen. Deshalb beginnt die Entwurmung schon ab der zweiten Lebenswoche und wird in regelmäßigen Abständen wiederholt, und deshalb genügt ein blindes Schema nicht: der einzige Weg zu wissen, was wirklich da ist, ist die Kotuntersuchung im Labor. Die Befunde des Wurfs vom August 2026 der Zucht Del Piccolo Diavolo sind hier vollständig veröffentlicht, positive Ergebnisse eingeschlossen, mit Name des Labors und Datum.</p>
   
   <p>Die Entwurmung ist deshalb nicht die Antwort auf ein aufgetretenes Problem, sondern ein von Anfang an geplanter Ablauf, der ohnehin stattfindet. Der Unterschied zwischen Zuchten liegt nicht darin, sie zu behaupten, sondern sie belegen zu können.</p>
   

@@ -1,7 +1,7 @@
 ---
 title: "Parassiti: Prevenzione e Controllo Staffordshire Bull Terrier"
 date: 2025-01-20
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 titleSeo: "Parassiti nello Staffordshire Bull Terrier: prevenzione"
 translationKey: "parassiti"
 articolo: true
@@ -43,7 +43,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>I cuccioli di Staffordshire Bull Terrier vanno protetti dai parassiti esterni prima di vederli, non dopo: quando si notano le pulci l'infestazione è già in corso, e il 95% di essa sta nell'ambiente sotto forma di uova, larve e pupe. Le pulci causano prurito, dermatite allergica e anemia nei cuccioli più piccoli, e trasmettono la tenia. Le zecche trasmettono babesiosi, ehrlichiosi, anaplasmosi e malattia di Lyme, e il rischio cresce con il tempo in cui restano attaccate: toglierle entro 24-48 ore lo riduce molto. Pappataci e zanzare portano invece leishmaniosi e filariosi cardiopolmonare. La protezione comincia quando il veterinario la ritiene adatta all'età e al peso del cucciolo, e prosegue con un calendario stagionale che comprende anche la pulizia della casa.</p>
+  <p>I cuccioli di Staffordshire Bull Terrier vanno protetti dai parassiti esterni prima di vederli, non dopo: quando si notano le pulci l'infestazione è già in corso, e il 95% di essa sta nell'ambiente sotto forma di uova, larve e pupe. Le pulci causano prurito, dermatite allergica e anemia nei cuccioli più piccoli, e trasmettono la tenia. Le zecche trasmettono babesiosi, ehrlichiosi, anaplasmosi e malattia di Lyme, e il rischio cresce con il tempo in cui restano attaccate: toglierle entro 24-48 ore lo riduce molto. Pappataci e zanzare portano invece leishmaniosi e filariosi cardiopolmonare. La protezione comincia quando il veterinario la ritiene adatta all'età e al peso del cucciolo, e prosegue con un calendario stagionale che comprende anche la pulizia della casa. Guida a cura dell'allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier a Ostellato (FE) dal 2013.</p>
 
   
   <h2>Perché la Prevenzione è Fondamentale nei Cuccioli</h2>

@@ -2,7 +2,7 @@
 title: "Differenza tra Staffordshire Bull Terrier, Pitbull e Amstaff"
 titleSeo: "Staffy, Pitbull e Amstaff: come distinguerli"
 date: 2025-11-19
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "pitbull-amstaff"
 articolo: true
 image: "/images/blog/differenza-razze-hero.webp"
@@ -43,7 +43,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Staffordshire Bull Terrier, American Staffordshire Terrier e American Pit Bull Terrier discendono dallo stesso ceppo, i Bull and Terrier dell'Inghilterra dell'Ottocento, ma oggi sono tre razze distinte. Lo Staffordshire Bull Terrier è il più piccolo, con un peso massimo di 17 kg, ed è riconosciuto dalla FCI con lo standard n. 76. L'American Staffordshire Terrier è più alto e pesante, fino a 32 kg nei maschi, ed è riconosciuto dalla FCI con lo standard n. 286. L'American Pit Bull Terrier, con un peso molto variabile fra 15 e 27 kg, è registrato dai registri americani UKC e ADBA ma non dalla FCI: per questo in Italia l'ENCI non può rilasciargli il pedigree, e un «Pit Bull» con pedigree ENCI non esiste. Nessuna delle tre razze è vietata in Italia: dal 2009 la responsabilità è del proprietario, non della razza.</p>
+  <p>Staffordshire Bull Terrier, American Staffordshire Terrier e American Pit Bull Terrier discendono dallo stesso ceppo, i Bull and Terrier dell'Inghilterra dell'Ottocento, ma oggi sono tre razze distinte. Lo Staffordshire Bull Terrier è il più piccolo, con un peso massimo di 17 kg, ed è riconosciuto dalla FCI con lo standard n. 76. L'American Staffordshire Terrier è più alto e pesante, fino a 32 kg nei maschi, ed è riconosciuto dalla FCI con lo standard n. 286. L'American Pit Bull Terrier, con un peso molto variabile fra 15 e 27 kg, è registrato dai registri americani UKC e ADBA ma non dalla FCI: per questo in Italia l'ENCI non può rilasciargli il pedigree, e un «Pit Bull» con pedigree ENCI non esiste. Nessuna delle tre razze è vietata in Italia: dal 2009 la responsabilità è del proprietario, non della razza. Guida a cura dell'allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier a Ostellato (FE) dal 2013.</p>
 
   
   <h2>Perché Si Confondono Queste Razze?</h2>

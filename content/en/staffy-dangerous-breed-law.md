@@ -1,7 +1,7 @@
 ---
 title: "Is Staffordshire Bull Terrier Dangerous? Italian Law"
 date: 2025-11-18
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "pericoloso"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -34,7 +34,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>In Italy the Staffordshire Bull Terrier is not on any list of dangerous breeds: the list was abolished by the Ministry of Health ordinance of 2009, which moved responsibility from the breed to the owner. No breed is banned or subject to special obligations nationwide, and the rules apply to every dog: a lead no longer than one and a half metres in public places, a muzzle carried and fitted when required, microchip, registration and full civil liability of the owner. Local rules on parks or beaches, rental contracts and some airlines can be stricter, and other European countries differ. A 2020 Royal Veterinary College study of 1,304 Staffordshire Bull Terriers and 21,029 other dogs found no significant difference in the odds of aggression. The breed's reputation is made by its owners, one dog at a time.</p>
+  <p>In Italy the Staffordshire Bull Terrier is not on any list of dangerous breeds: the list was abolished by the Ministry of Health ordinance of 2009, which moved responsibility from the breed to the owner. No breed is banned or subject to special obligations nationwide, and the rules apply to every dog: a lead no longer than one and a half metres in public places, a muzzle carried and fitted when required, microchip, registration and full civil liability of the owner. Local rules on parks or beaches, rental contracts and some airlines can be stricter, and other European countries differ. A 2020 Royal Veterinary College study of 1,304 Staffordshire Bull Terriers and 21,029 other dogs found no significant difference in the odds of aggression. The breed's reputation is made by its owners, one dog at a time. A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.</p>
 
   
   

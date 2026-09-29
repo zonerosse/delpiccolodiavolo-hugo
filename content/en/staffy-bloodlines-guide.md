@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Bloodlines Guide"
 titleSeo: "Staffy bloodlines: the history of the six lines"
 date: 2025-11-08
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "linee-sangue"
 articolo: true
 image: "/images/blog/standard-1.webp"
@@ -35,7 +35,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Staffordshire Bull Terrier bloodlines are counted from 1935, when the Kennel Club recognised the breed; before that, the Bull and Terriers of Staffordshire were working dogs without traceable pedigrees. In 1943 the breed historian H. N. Beilby published the first thorough study of the breed's genetics and identified six distinct male lines. Lines are traced through the male descent, as is standard practice in dog breeding, so a dog belongs to the line of its paternal great-grandfather even when other lines appear through the females. Today the M-Line and the R-Line dominate the modern breed. A bloodline is not a sub-breed or a brand: it is the result of generations of decisions about which dogs were kept and mated. Knowing a dog's line helps you read its pedigree; the dog itself is judged by its tests, structure and temperament.</p>
+  <p>Staffordshire Bull Terrier bloodlines are counted from 1935, when the Kennel Club recognised the breed; before that, the Bull and Terriers of Staffordshire were working dogs without traceable pedigrees. In 1943 the breed historian H. N. Beilby published the first thorough study of the breed's genetics and identified six distinct male lines. Lines are traced through the male descent, as is standard practice in dog breeding, so a dog belongs to the line of its paternal great-grandfather even when other lines appear through the females. Today the M-Line and the R-Line dominate the modern breed. A bloodline is not a sub-breed or a brand: it is the result of generations of decisions about which dogs were kept and mated. Knowing a dog's line helps you read its pedigree; the dog itself is judged by its tests, structure and temperament. A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.</p>
 
   <p>This page tells the history of the lines and the dogs that founded them. If you are choosing a puppy and want to know how to find your way among today's lines, there is a practical guide: <a href="/en/choosing-bloodlines/" title="Choosing Staffy bloodlines">how to choose a bloodline</a>.</p>
 

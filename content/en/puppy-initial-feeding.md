@@ -2,7 +2,7 @@
 title: "Puppies: Initial Feeding"
 date: 2025-04-15
 titleSeo: "Feeding a Staffordshire Bull Terrier puppy: first months"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -43,7 +43,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>A Staffordshire Bull Terrier puppy should eat exactly what the breeder was feeding for at least its first week at home. Any change after that is made over 7 to 10 days, a quarter, then half, then three quarters of the new food, going back a step if the stools loosen. Until 6 months the puppy has three meals a day, at regular times, and from then on two, which should continue for life: a single large meal in a deep-chested breed is a risk factor for gastric torsion. Portions follow body condition rather than the chart on the bag, adjusted by 10 per cent at a time. Treats should stay under 10 per cent of the daily intake. Diarrhoea lasting more than 24 hours, or with blood, needs a vet the same day.</p>
+  <p>A Staffordshire Bull Terrier puppy should eat exactly what the breeder was feeding for at least its first week at home. Any change after that is made over 7 to 10 days, a quarter, then half, then three quarters of the new food, going back a step if the stools loosen. Until 6 months the puppy has three meals a day, at regular times, and from then on two, which should continue for life: a single large meal in a deep-chested breed is a risk factor for gastric torsion. Portions follow body condition rather than the chart on the bag, adjusted by 10 per cent at a time. Treats should stay under 10 per cent of the daily intake. Diarrhoea lasting more than 24 hours, or with blood, needs a vet the same day. A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.</p>
 
   
   

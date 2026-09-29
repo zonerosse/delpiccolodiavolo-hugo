@@ -37,6 +37,8 @@ lastmod: 2026-09-29
 <div class="section-inner content-single">
 
 
+<p>Recognising a serious Staffordshire Bull Terrier breeder does not require trusting anyone: it requires knowing where to look. Genetic test certificates are only valid if they carry the dog's microchip number, otherwise they cannot be tied to any animal. Genealogies can be checked on SBTPedigree, the breed's international archive. The number of litters a bitch has had is checked in the ENCI stud book, again starting from the microchip. Show titles appear in public catalogues, with the judge's name. Selling a puppy before 60 days of age is prohibited by Italian law, and puppies going abroad leave later because they need a rabies vaccination. Eight criteria, each with the way to check it: they apply to the Del Piccolo Diavolo kennel in Ostellato, Italy, as much as to any other.</p>
+
 <p>Nearly every kennel says the same things: tested dogs, puppies raised indoors, careful selection. Those claims cost nothing until somebody checks them, and a first-time buyer rarely knows where to start checking.</p>
 
 <p>This guide is built the other way round. For each criterion you get <strong>how to verify it</strong> — what to ask, where to look, which document to insist on. And so you are not left with theory alone, under each criterion we put our own document: use us as the exercise, then put the same questions to anyone else.</p>

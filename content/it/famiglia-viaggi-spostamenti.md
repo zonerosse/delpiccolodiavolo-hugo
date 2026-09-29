@@ -1,7 +1,7 @@
 ---
 title: "Viaggiare con Staffordshire Bull Terrier: Auto, Treno, Hotel"
 date: 2024-04-07
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "viaggi"
 articolo: true
 image: "/images/blog/famiglia-4.webp"
@@ -42,7 +42,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Viaggiare con uno Staffordshire Bull Terrier richiede di preparare tre cose: documenti, mezzo di trasporto e soste. Per andare in un altro paese dell'Unione Europea servono microchip registrato, passaporto europeo e antirabbica valida; per il Regno Unito e i paesi extra UE le regole cambiano e vanno verificate almeno due mesi prima della partenza. In auto il Codice della Strada, all'articolo 169, chiede che il cane non intralci chi guida, con multe da 87 a 345 euro: il trasportino rigido è il sistema più sicuro in caso di incidente, l'imbrago con cintura va bene per i tragitti brevi, il divisorio del bagagliaio non protegge. Nei viaggi lunghi si fa una sosta ogni due ore. Treni, traghetti, aerei e hotel hanno regole proprie su taglia e museruola, da controllare prima di prenotare.</p>
+  <p>Viaggiare con uno Staffordshire Bull Terrier richiede di preparare tre cose: documenti, mezzo di trasporto e soste. Per andare in un altro paese dell'Unione Europea servono microchip registrato, passaporto europeo e antirabbica valida; per il Regno Unito e i paesi extra UE le regole cambiano e vanno verificate almeno due mesi prima della partenza. In auto il Codice della Strada, all'articolo 169, chiede che il cane non intralci chi guida, con multe da 87 a 345 euro: il trasportino rigido è il sistema più sicuro in caso di incidente, l'imbrago con cintura va bene per i tragitti brevi, il divisorio del bagagliaio non protegge. Nei viaggi lunghi si fa una sosta ogni due ore. Treni, traghetti, aerei e hotel hanno regole proprie su taglia e museruola, da controllare prima di prenotare. Guida a cura dell'allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier a Ostellato (FE) dal 2013.</p>
 
   
   <h2>Documenti e Preparazione Sanitaria</h2>

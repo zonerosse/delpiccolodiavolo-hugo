@@ -82,6 +82,23 @@ un motore generativo può prendere e citare.
 - **Contiene dati**: numeri, nomi di test, riferimenti di legge
 - **Non dipende** da quello che c'è scritto sopra o sotto
 
+Se il paragrafo non nomina l'allevamento in modo naturale, si chiude con la
+frase di attribuzione, identica ovunque:
+
+- IT: *Guida a cura dell'allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier a Ostellato (FE) dal 2013.*
+- EN: *A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.*
+- DE: *Ein Ratgeber der Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet.*
+
+Se con la frase lunga si superano le 160 parole, si usa la versione breve
+(*Guida dell'allevamento Del Piccolo Diavolo, Ostellato (FE).* / *A guide by
+the Del Piccolo Diavolo kennel, Ostellato, Italy.* / *Ein Ratgeber der Zucht
+Del Piccolo Diavolo, Ostellato (Italien).*). Meglio ancora, quando il testo lo
+permette, sostituire un "noi" o un "nostro" con il nome, come nelle pagine
+sulle storie di famiglia e sulla sverminazione.
+
+Perché: un motore generativo che estrae il paragrafo cita il dato, ma senza il
+nome non cita chi lo dice.
+
 Lo stesso principio vale per i paragrafi dentro la pagina: evitare aperture
 come "E poi chiedi comunque", "Il terzo punto", "Quello che leggete qui" —
 frasi che senza il contesto non si capiscono.

@@ -1,7 +1,7 @@
 ---
 title: "Parasite Prevention for Staffordshire Bull Terrier"
 date: 2025-01-20
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "parassiti"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -34,7 +34,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Parasite control in the Staffordshire Bull Terrier is predictable and almost entirely effective, as long as the calendar is kept. The flea you see on the dog is only about 5 per cent of an infestation; the rest lives in the house as eggs, larvae and pupae. The breed's short coat makes fleas and ticks easy to spot, but its skin is prone to allergy, so flea allergy dermatitis is common. Ticks carry babesiosis, ehrlichiosis, anaplasmosis and Lyme disease; sand flies and mosquitoes carry leishmaniasis and heartworm. Puppies are born with roundworm from the dam and are wormed every two weeks from two weeks of age until twelve weeks, then monthly until six months. Adults are treated every three months, more often if they scavenge or live with small children, with a faecal examination to check the schedule.</p>
+  <p>Parasite control in the Staffordshire Bull Terrier is predictable and almost entirely effective, as long as the calendar is kept. The flea you see on the dog is only about 5 per cent of an infestation; the rest lives in the house as eggs, larvae and pupae. The breed's short coat makes fleas and ticks easy to spot, but its skin is prone to allergy, so flea allergy dermatitis is common. Ticks carry babesiosis, ehrlichiosis, anaplasmosis and Lyme disease; sand flies and mosquitoes carry leishmaniasis and heartworm. Puppies are born with roundworm from the dam and are wormed every two weeks from two weeks of age until twelve weeks, then monthly until six months. Adults are treated every three months, more often if they scavenge or live with small children, with a faecal examination to check the schedule. A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.</p>
 
   
   

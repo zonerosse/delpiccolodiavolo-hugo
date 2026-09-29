@@ -2,7 +2,7 @@
 title: "Cuccioli: Sverminazione ed Esami delle Feci"
 date: 2026-09-27
 titleSeo: "Sverminazione cuccioli: protocollo ed esami delle feci"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "sverminazione"
 articolo: true
 image: "/images/blog/esame-feci-microscopio-hero.webp"
@@ -43,7 +43,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Quasi tutti i cuccioli nascono con i parassiti. Non è un segno di trascuratezza dell'allevatore: le larve di <em>Toxocara canis</em> restano incistate nei tessuti della madre anche per anni, si riattivano durante la gravidanza e passano ai feti attraverso la placenta, poi ai neonati con il latte. Una femmina sverminata e in perfetta salute può comunque mettere al mondo una cucciolata infestata. Per questo le sverminazioni cominciano già dalle due settimane di vita e si ripetono a intervalli regolari, e per questo un protocollo cieco non basta: l'unico modo per sapere cosa c'è davvero è l'esame delle feci in laboratorio. I referti della nostra cucciolata di agosto 2026 sono pubblicati qui sotto, positivi compresi, con il nome del laboratorio e la data.</p>
+  <p>Quasi tutti i cuccioli nascono con i parassiti, e quelli di Staffordshire Bull Terrier non fanno eccezione. Non è un segno di trascuratezza dell'allevatore: le larve di <em>Toxocara canis</em> restano incistate nei tessuti della madre anche per anni, si riattivano durante la gravidanza e passano ai feti attraverso la placenta, poi ai neonati con il latte. Una femmina sverminata e in perfetta salute può comunque mettere al mondo una cucciolata infestata. Per questo le sverminazioni cominciano già dalle due settimane di vita e si ripetono a intervalli regolari, e per questo un protocollo cieco non basta: l'unico modo per sapere cosa c'è davvero è l'esame delle feci in laboratorio. I referti della cucciolata di agosto 2026 dell'allevamento Del Piccolo Diavolo sono pubblicati qui sotto, positivi compresi, con il nome del laboratorio e la data.</p>
   
   <p>Per questo la sverminazione non è la soluzione a un problema che si è presentato: è una procedura programmata dal primo giorno, che si fa a prescindere. Quello che distingue un allevamento da un altro non è dichiarare di averla fatta, ma poterlo dimostrare.</p>
   

@@ -2,7 +2,7 @@
 title: "Puppies: First Vaccinations"
 date: 2025-06-10
 titleSeo: "Puppy first vaccinations: schedule and boosters"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/salute.webp"
@@ -43,7 +43,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>A Staffordshire Bull Terrier puppy has its first vaccination at 6 to 8 weeks, before leaving the breeder, against distemper, hepatitis and parvovirus. The second follows at 10 to 12 weeks, usually adding leptospirosis, and the third at 14 to 16 weeks completes the primary course, with a first booster at 12 months. Immunity builds over one to two weeks after the last injection, so the puppy is properly protected at around 16 to 18 weeks. The injections are close together because maternal antibodies protect the puppy early on but interfere with the vaccine, and when they fade varies from puppy to puppy. Rabies vaccination can be given from 12 weeks and becomes valid for travel only 21 days later. Until the course is complete, avoid high-risk places, but do not stop socialisation.</p>
+  <p>A Staffordshire Bull Terrier puppy has its first vaccination at 6 to 8 weeks, before leaving the breeder, against distemper, hepatitis and parvovirus. The second follows at 10 to 12 weeks, usually adding leptospirosis, and the third at 14 to 16 weeks completes the primary course, with a first booster at 12 months. Immunity builds over one to two weeks after the last injection, so the puppy is properly protected at around 16 to 18 weeks. The injections are close together because maternal antibodies protect the puppy early on but interfere with the vaccine, and when they fade varies from puppy to puppy. Rabies vaccination can be given from 12 weeks and becomes valid for travel only 21 days later. Until the course is complete, avoid high-risk places, but do not stop socialisation. A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.</p>
 
   
   

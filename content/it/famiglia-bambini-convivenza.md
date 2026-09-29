@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier e Bambini: Convivenza Sicura"
 date: 2024-05-28
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "bambini"
 articolo: true
 image: "/images/blog/famiglia-1.webp"
@@ -42,7 +42,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Nessun cane va lasciato solo con un bambino piccolo, di nessuna razza, e lo Staffordshire Bull Terrier non fa eccezione. Il soprannome inglese «nanny dog» descrive una tolleranza reale, nata nelle famiglie operaie britanniche dell'Ottocento, non una capacità di sorveglianza. Detto questo, uno Staffy ben selezionato e ben socializzato ha una soglia di reazione alta a toccate maldestre e rumori forti, cerca il contatto con le persone e impara in fretta le regole di casa. Il temperamento però varia da cane a cane, e la socializzazione nelle prime settimane pesa quanto la genetica. In pratica la sicurezza dipende dagli adulti: presentazioni guidate, regole diverse per ogni età del bambino, un posto dove il cane può ritirarsi, e la capacità di leggere i suoi segnali di stress prima che diventino un ringhio.</p>
+  <p>Nessun cane va lasciato solo con un bambino piccolo, di nessuna razza, e lo Staffordshire Bull Terrier non fa eccezione. Il soprannome inglese «nanny dog» descrive una tolleranza reale, nata nelle famiglie operaie britanniche dell'Ottocento, non una capacità di sorveglianza. Detto questo, uno Staffy ben selezionato e ben socializzato ha una soglia di reazione alta a toccate maldestre e rumori forti, cerca il contatto con le persone e impara in fretta le regole di casa. Il temperamento però varia da cane a cane, e la socializzazione nelle prime settimane pesa quanto la genetica. In pratica la sicurezza dipende dagli adulti: presentazioni guidate, regole diverse per ogni età del bambino, un posto dove il cane può ritirarsi, e la capacità di leggere i suoi segnali di stress prima che diventino un ringhio. Guida a cura dell'allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier a Ostellato (FE) dal 2013.</p>
 
   
   <h2>Temperamento Staffy: È Davvero Adatto ai Bambini?</h2>
