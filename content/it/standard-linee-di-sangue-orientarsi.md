@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/standard-2.webp"
 og_image: "/images/og/schede/it/standard-linee-di-sangue-orientarsi.jpg"
 og_image_alt: "Come scegliere la linea di sangue di un cucciolo di Staffy — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/standard-linee-di-sangue-orientarsi.webp"
 description: "Linee di sangue dello Staffordshire Bull Terrier: da dove vengono, come leggere un pedigree, perché la salute viene prima della linea, cosa chiedere."
 slug: "standard-linee-di-sangue-orientarsi"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/standard-2.webp" alt="Linee di sangue Staffordshire Bull Terrier come orientarsi" width="800" height="727" fetchpriority="high">
+  <img src="/images/blog/icone/hero-standard-linee-di-sangue-orientarsi.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

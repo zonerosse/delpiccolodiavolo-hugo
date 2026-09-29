@@ -7,13 +7,14 @@ articolo: true
 image: "/images/blog/salute-1.webp"
 og_image: "/images/og/schede/en/staffy-safe-exercise.jpg"
 og_image_alt: "Safe Exercise for Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/salute-esercizio-sicuro.webp"
 description: "Guide to safe and appropriate exercise for Staffy: daily activity, avoiding injuries, exercise for puppies and adults, fun activities."
 slug: "staffy-safe-exercise"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/salute-1.webp" alt="Safe exercise Staffordshire Bull Terrier" width="800" height="449" fetchpriority="high">
+  <img src="/images/blog/icone/hero-salute-esercizio-sicuro.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

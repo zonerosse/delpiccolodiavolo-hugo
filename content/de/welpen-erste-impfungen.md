@@ -8,6 +8,7 @@ articolo: true
 image: "/images/blog/salute.webp"
 og_image: "/images/og/schede/de/welpen-erste-impfungen.jpg"
 og_image_alt: "Erste Impfungen des Welpen: Plan und Auffrischung — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/cuccioli-prime-vaccinazioni.webp"
 description: "Erste Impfungen für Ihren Staffordshire Bull Terrier Welpen: Zeitplan, Kernimpfstoffe, was zu erwarten ist und praktische Tipps für den Impftag."
 slug: "welpen-erste-impfungen"
 custom_content: |

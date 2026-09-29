@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/socializzazione-cortile-hero.webp"
 og_image: "/images/og/schede/de/sozialisierte-welpen-was-das-heisst.jpg"
 og_image_alt: "Sozialisierte Welpen: was das wirklich heißt — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/cuccioli-socializzati-cosa-vuol-dire.webp"
 description: "Die sensible Phase reicht von der dritten bis zur zwölften Woche: was ein Welpe in der Zucht wirklich kennenlernen kann, was nicht, und was der Familie bleibt."
 slug: "sozialisierte-welpen-was-das-heisst"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/socializzazione-cortile-hero.webp" alt="Staffordshire Bull Terrier Welpe im Gras des Zuchthofs" width="478" height="760" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
+  <img src="/images/blog/icone/hero-cuccioli-socializzati-cosa-vuol-dire.webp" alt="" width="800" height="600" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
   </div>
   </div>
   <div class="hero-content">

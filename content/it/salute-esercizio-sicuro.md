@@ -7,13 +7,14 @@ articolo: true
 image: "/images/blog/esercizio-hero.webp"
 og_image: "/images/og/schede/it/salute-esercizio-sicuro.jpg"
 og_image_alt: "Esercizio Sicuro per Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/salute-esercizio-sicuro.webp"
 description: "Esercizio fisico sicuro per lo Staffordshire Bull Terrier: attività per cuccioli e adulti, colpo di calore e segnali di sovraccarico."
 slug: "salute-esercizio-sicuro"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/salute-3.webp" alt="Esercizio sicuro Staffordshire Bull Terrier" width="800" height="632" fetchpriority="high">
+  <img src="/images/blog/icone/hero-salute-esercizio-sicuro.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

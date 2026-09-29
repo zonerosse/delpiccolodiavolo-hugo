@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/cuccioli-5.webp"
 og_image: "/images/og/schede/de/welpen-erster-spaziergang.jpg"
 og_image_alt: "Der erste Spaziergang des Welpen: wann und wie — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/cuccioli-prima-passeggiata.webp"
 description: "Erster Leinenspaziergang für Ihren Staffordshire Bull Terrier Welpen: Ausrüstung, Timing, positive Einführung und gute Gewohnheiten aufbauen."
 slug: "welpen-erster-spaziergang"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/cuccioli-5.webp" alt="Staffordshire Bull Terrier Welpen erster Spaziergang" width="800" height="498" fetchpriority="high">
+  <img src="/images/blog/icone/hero-cuccioli-prima-passeggiata.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

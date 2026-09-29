@@ -1,20 +1,21 @@
 ---
 title: "BOAS nello Staffordshire Bull Terrier: Perché la Respirazione È Fondamentale"
 date: 2025-12-28
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 titleSeo: "BOAS nello Staffordshire Bull Terrier: la respirazione"
 translationKey: "boas"
 articolo: true
 image: "/images/blog/boas-respirazione.webp"
 og_image: "/images/og/schede/it/boas-staffordshire-bull-terrier-respirazione.jpg"
 og_image_alt: "BOAS nello Staffordshire Bull Terrier: la respirazione — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/boas-staffordshire-bull-terrier-respirazione.webp"
 description: "BOAS nello Staffordshire Bull Terrier: cos'è la sindrome, perché la razza non è brachicefala estrema e come scegliere un cucciolo che respira senza difficoltà."
 slug: "boas-staffordshire-bull-terrier-respirazione"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/femmina-bilquis-hero.avif" alt="Bilquis Goddess Diabhal, Campionessa Italiana Staffordshire Bull Terrier - Del Piccolo Diavolo" width="301" height="396" fetchpriority="high" decoding="sync">
+  <img src="/images/blog/icone/hero-boas-staffordshire-bull-terrier-respirazione.webp" alt="" width="800" height="600" fetchpriority="high" decoding="sync">
   </div>
   </div>
   <div class="hero-content">

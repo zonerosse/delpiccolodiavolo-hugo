@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/cuccioli-3.webp"
 og_image: "/images/og/schede/en/puppy-mental-games.jpg"
 og_image_alt: "Mental games for Staffordshire Bull Terrier puppies — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/cuccioli-giochi-mentali.webp"
 description: "Mental games for Staffordshire Bull Terrier puppies: stimulating mind and self-control with sniffing games, puzzles and enrichment activities."
 slug: "puppy-mental-games"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/cuccioli-3.webp" alt="Staffordshire Bull Terrier puppy mental games" width="800" height="533" fetchpriority="high" srcset="/images/blog/cuccioli-3-400w.webp 400w, /images/blog/cuccioli-3-800w.webp 800w, /images/blog/cuccioli-3.webp 1280w" sizes="(max-width: 800px) 100vw, 800px">
+  <img src="/images/blog/icone/hero-cuccioli-giochi-mentali.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

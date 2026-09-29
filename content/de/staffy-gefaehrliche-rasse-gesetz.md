@@ -7,13 +7,14 @@ articolo: true
 image: "/images/blog/hero-default.webp"
 og_image: "/images/og/schede/de/staffy-gefaehrliche-rasse-gesetz.jpg"
 og_image_alt: "Ist der Staffordshire Bull Terrier gefährlich? Gesetzeslage — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/staffy-pericoloso-legge-italia.webp"
 description: "Ist der Staffy gefährlich? Was sagt das Gesetz? Vollständiger Leitfaden über rassenspezifische Gesetzgebung und Halterverantwortung."
 slug: "staffy-gefaehrliche-rasse-gesetz"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/hero-default.webp" alt="Ist Staffordshire Bull Terrier gefährlich Gesetz" width="800" height="627" fetchpriority="high">
+  <img src="/images/blog/icone/hero-staffy-pericoloso-legge-italia.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

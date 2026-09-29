@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/differenza-razze-hero.webp"
 og_image: "/images/og/schede/it/differenza-staffy-pitbull-amstaff.jpg"
 og_image_alt: "Staffy, Pitbull e Amstaff: come distinguerli — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/differenza-staffy-pitbull-amstaff.webp"
 description: "Non sono lo stesso cane: 11-17 kg contro 25-32, 2 standard FCI riconosciuti e uno no. Come distinguerli davvero, spiegato da un allevatore."
 slug: "differenza-staffy-pitbull-amstaff"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/hero-default.webp" alt="Differenza tra Staffordshire Bull Terrier Pitbull e Amstaff" width="800" height="627" fetchpriority="high">
+  <img src="/images/blog/icone/hero-differenza-staffy-pitbull-amstaff.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

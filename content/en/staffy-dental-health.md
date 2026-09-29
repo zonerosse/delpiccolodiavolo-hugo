@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/salute-1.webp"
 og_image: "/images/og/schede/en/staffy-dental-health.jpg"
 og_image_alt: "Dental health for the Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/salute-denti-igiene.webp"
 description: "Complete guide to oral hygiene for Staffy: how to clean teeth, prevent tartar, choose the right products and recognize signs of dental problems."
 slug: "staffy-dental-health"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/salute-1.webp" alt="Dental health Staffordshire Bull Terrier" width="800" height="449" fetchpriority="high">
+  <img src="/images/blog/icone/hero-salute-denti-igiene.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

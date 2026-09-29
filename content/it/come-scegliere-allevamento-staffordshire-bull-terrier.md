@@ -6,6 +6,7 @@ translationKey: "come-scegliere"
 image: "/images/blog/cucciolata-erba.avif"
 og_image: "/images/og/schede/it/come-scegliere-allevamento-staffordshire-bull-terrier.jpg"
 og_image_alt: "Come riconoscere un allevamento di Staffy serio — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier.webp"
 description: "Otto criteri per riconoscere un allevamento Staffordshire Bull Terrier serio, ognuno con il modo di verificarlo. Con i nostri documenti come esempio."
 slug: "come-scegliere-allevamento-staffordshire-bull-terrier"
 date: 2026-01-18

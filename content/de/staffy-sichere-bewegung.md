@@ -7,13 +7,14 @@ articolo: true
 image: "/images/blog/salute-1.webp"
 og_image: "/images/og/schede/de/staffy-sichere-bewegung.jpg"
 og_image_alt: "Sichere Bewegung für Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/salute-esercizio-sicuro.webp"
 description: "Leitfaden für sichere und angemessene Bewegung für Staffy: tägliche Aktivität, Verletzungen vermeiden, Bewegung für Welpen und Erwachsene."
 slug: "staffy-sichere-bewegung"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/salute-1.webp" alt="Sichere Bewegung Staffordshire Bull Terrier" width="800" height="449" fetchpriority="high">
+  <img src="/images/blog/icone/hero-salute-esercizio-sicuro.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

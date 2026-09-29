@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/cucciolo-ritratto-hero.webp"
 og_image: "/images/og/schede/it/cuccioli-educazione-bisogni.jpg"
 og_image_alt: "Educare il cucciolo ai bisogni: metodo e tempi reali — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/cuccioli-educazione-bisogni.webp"
 description: "Educazione ai bisogni per cuccioli di Staffordshire Bull Terrier: routine, uscite, rinforzo positivo, gestione degli incidenti e progressione in casa e fuori."
 slug: "cuccioli-educazione-bisogni"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/hero-default.webp" alt="Educazione bisogni cucciolo Staffordshire Bull Terrier" width="800" height="627" fetchpriority="high">
+  <img src="/images/blog/icone/hero-cuccioli-educazione-bisogni.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

@@ -8,6 +8,7 @@ articolo: true
 image: "/images/blog/pedigree-queen-hero.webp"
 og_image: "/images/og/schede/de/wie-man-eine-ahnentafel-liest.jpg"
 og_image_alt: "Ahnentafel lesen: was die ENCI zeigt und was nicht — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/come-si-legge-un-pedigree.webp"
 description: "Was eine ENCI-Ahnentafel wirklich zeigt, was SBTPedigree ergänzt und wie man mit dem Test Mating eine Verpaarung studiert, bevor man sie macht."
 slug: "wie-man-eine-ahnentafel-liest"
 custom_content: |

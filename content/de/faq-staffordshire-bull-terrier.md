@@ -2,6 +2,7 @@
 title: "FAQ Staffordshire Bull Terrier - Häufig gestellte Fragen"
 og_image: "/images/og/schede/de/faq-staffordshire-bull-terrier.jpg"
 og_image_alt: "FAQ Staffordshire Bull Terrier - Häufig gestellte Fragen — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/faq-sullo-staffordshire-bull-terrier.webp"
 date: 2025-12-28
 lastmod: 2026-09-29
 translationKey: "faq"
@@ -11,7 +12,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/femmina-bilquis-hero.avif" alt="Bilquis Goddess Diabhal, Campionessa Italiana Staffordshire Bull Terrier - Del Piccolo Diavolo" width="301" height="396" fetchpriority="high" decoding="sync">
+  <img src="/images/blog/icone/hero-faq-sullo-staffordshire-bull-terrier.webp" alt="" width="800" height="600" fetchpriority="high" decoding="sync">
   </div>
   </div>
   <div class="hero-content">

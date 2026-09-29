@@ -7,13 +7,14 @@ articolo: true
 image: "/images/blog/famiglia-1.webp"
 og_image: "/images/og/schede/it/famiglia-bambini-convivenza.jpg"
 og_image_alt: "Staffordshire Bull Terrier e Bambini: Convivenza Sicura — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/famiglia-bambini-convivenza.webp"
 description: "Guida completa convivenza Staffy e bambini: regole per età, supervisione attiva, segnali stress, giochi sicuri, prevenzione incidenti e primo incontro."
 slug: "famiglia-bambini-convivenza"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/famiglia-1.webp" alt="Staffordshire Bull Terrier e bambini convivenza sicura" width="800" height="480" fetchpriority="high">
+  <img src="/images/blog/icone/hero-famiglia-bambini-convivenza.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

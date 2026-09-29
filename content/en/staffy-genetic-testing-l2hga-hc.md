@@ -2,19 +2,20 @@
 title: "Genetic Testing L2-HGA, HC (HSF4) and DM (SOD1) for Staffordshire Bull Terrier"
 titleSeo: "Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)"
 date: 2025-11-20
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "test-genetici"
 articolo: true
 image: "/images/blog/salute-1.webp"
 og_image: "/images/og/schede/en/staffy-genetic-testing-l2hga-hc.jpg"
 og_image_alt: "Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1) — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/test-genetici-l2hga-hc-staffy.webp"
 description: "Genetic testing in the Staffordshire Bull Terrier: L2-HGA, hereditary cataract HC (HSF4) and degenerative myelopathy (SOD1). What they are and how to read them."
 slug: "staffy-genetic-testing-l2hga-hc"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/salute-1.webp" alt="L2-HGA and HC genetic testing Staffordshire Bull Terrier" width="800" height="449" fetchpriority="high">
+  <img src="/images/blog/icone/hero-test-genetici-l2hga-hc-staffy.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

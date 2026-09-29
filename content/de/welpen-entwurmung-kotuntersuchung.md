@@ -8,6 +8,7 @@ articolo: true
 image: "/images/blog/esame-feci-microscopio-hero.webp"
 og_image: "/images/og/schede/de/welpen-entwurmung-kotuntersuchung.jpg"
 og_image_alt: "Entwurmung der Welpen: Plan und Kotuntersuchung — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/cuccioli-sverminazione-esami-feci.webp"
 description: "Wie wir die Entwurmung unserer Staffordshire Bull Terrier Welpen handhaben: Plan, Präparate und die vollständig veröffentlichten Befunde der Kotuntersuchung."
 slug: "welpen-entwurmung-kotuntersuchung"
 custom_content: |

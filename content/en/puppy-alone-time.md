@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/hero-default.webp"
 og_image: "/images/og/schede/en/puppy-alone-time.jpg"
 og_image_alt: "Teaching a puppy to stay alone without stress — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/cuccioli-gestione-solitudine.webp"
 description: "Teaching a Staffordshire Bull Terrier puppy to stay alone without separation anxiety: realistic timings and the mistakes that make it worse."
 slug: "puppy-alone-time"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/hero-default.webp" alt="Staffordshire Bull Terrier puppy alone time" width="800" height="627" fetchpriority="high">
+  <img src="/images/blog/icone/hero-cuccioli-gestione-solitudine.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

@@ -7,7 +7,7 @@
 # Le modifiche non ancora committate prendono la data di oggi.
 import subprocess,re,glob,sys,datetime
 def vis(s):
-    lines=[l for l in s.splitlines() if not l.startswith(('lastmod:','date:','og_image','og_image_alt'))]
+    lines=[l for l in s.splitlines() if not l.startswith(('lastmod:','date:','og_image','og_image_alt','thumb:'))]
     t=re.sub(r'<[^>]*>','','\n'.join(lines)); return re.sub(r'\s+',' ',t).strip()
 def git(*a): return subprocess.run(['git',*a],capture_output=True,text=True,encoding='utf8').stdout
 oggi=datetime.date.today().isoformat(); out=[]

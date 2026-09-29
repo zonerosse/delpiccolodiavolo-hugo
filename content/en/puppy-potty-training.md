@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/hero-default.webp"
 og_image: "/images/og/schede/en/puppy-potty-training.jpg"
 og_image_alt: "Puppy potty training: method, timing and setbacks — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/cuccioli-educazione-bisogni.webp"
 description: "Potty training for Staffordshire Bull Terrier puppies: routine, outings, positive reinforcement, accident management and progression indoors and outdoors."
 slug: "puppy-potty-training"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/hero-default.webp" alt="Staffordshire Bull Terrier puppy potty training" width="800" height="627" fetchpriority="high">
+  <img src="/images/blog/icone/hero-cuccioli-educazione-bisogni.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

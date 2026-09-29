@@ -7,13 +7,14 @@ articolo: true
 image: "/images/blog/salute-1.webp"
 og_image: "/images/og/schede/de/staffy-parasitenvorbeugung.jpg"
 og_image_alt: "Parasitenvorbeugung für Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/salute-parassiti-prevenzione.webp"
 description: "Parasitenvorbeugung beim Staffordshire Bull Terrier: Flöhe, Zecken, Darmwürmer, Herzwurm und Leishmaniose, mit einem praktischen Jahresplan für Italien."
 slug: "staffy-parasitenvorbeugung"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/salute-1.webp" alt="Parasitenvorbeugung Staffordshire Bull Terrier" width="800" height="449" fetchpriority="high">
+  <img src="/images/blog/icone/hero-salute-parassiti-prevenzione.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

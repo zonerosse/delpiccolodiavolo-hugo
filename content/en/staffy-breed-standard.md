@@ -8,12 +8,13 @@ articolo: true
 image: "/images/blog/standard-1.webp"
 og_image: "/images/og/schede/en/staffy-breed-standard.jpg"
 og_image_alt: "Staffordshire Bull Terrier breed standard explained — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/standard-tipicita-morfologia.webp"
 description: "The Staffordshire Bull Terrier breed standard: physical characteristics, type, structure and what defines a quality specimen."
 slug: "staffy-breed-standard"
 custom_content: |
   <section class="hero">
   <div class="hero-visual"><div class="hero-image">
-  <img src="/images/blog/standard-1.webp" alt="Staffordshire Bull Terrier breed standard" width="800" height="533" fetchpriority="high">
+  <img src="/images/blog/icone/hero-standard-tipicita-morfologia.webp" alt="" width="800" height="600" fetchpriority="high">
   </div></div>
   <div class="hero-content">
   <span class="hero-eyebrow">Standard</span>

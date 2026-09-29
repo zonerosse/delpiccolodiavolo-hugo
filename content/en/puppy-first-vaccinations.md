@@ -8,6 +8,7 @@ articolo: true
 image: "/images/blog/salute.webp"
 og_image: "/images/og/schede/en/puppy-first-vaccinations.jpg"
 og_image_alt: "Puppy first vaccinations: schedule and boosters — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/cuccioli-prime-vaccinazioni.webp"
 description: "First vaccinations for your Staffordshire Bull Terrier puppy: schedule, core vaccines, what to expect and practical tips for vaccination day."
 slug: "puppy-first-vaccinations"
 custom_content: |

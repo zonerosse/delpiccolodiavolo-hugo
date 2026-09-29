@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/hero-default.webp"
 og_image: "/images/og/schede/de/welpen-stubenreinheit.jpg"
 og_image_alt: "Welpen stubenrein machen: Methode und Zeitrahmen — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/cuccioli-educazione-bisogni.webp"
 description: "Stubenreinheitstraining für Staffordshire Bull Terrier Welpen: Routine, Ausgänge, positive Verstärkung, Unfallmanagement und Fortschritt drinnen und draußen."
 slug: "welpen-stubenreinheit"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/hero-default.webp" alt="Staffordshire Bull Terrier Welpen Stubenreinheit" width="800" height="627" fetchpriority="high">
+  <img src="/images/blog/icone/hero-cuccioli-educazione-bisogni.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

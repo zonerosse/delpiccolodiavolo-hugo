@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/famiglia-4.webp"
 og_image: "/images/og/schede/en/staffy-travel-transport.jpg"
 og_image_alt: "Travelling with a Staffordshire Bull Terrier: car and train — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/famiglia-viaggi-spostamenti.webp"
 description: "Traveling with your Staffordshire Bull Terrier: car safety, public transport, flying, accommodation and planning stress-free journeys."
 slug: "staffy-travel-transport"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/famiglia-4.webp" alt="Staffordshire Bull Terrier traveling" width="800" height="532" fetchpriority="high">
+  <img src="/images/blog/icone/hero-famiglia-viaggi-spostamenti.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

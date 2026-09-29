@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/genitori-visibili-hero.webp"
 og_image: "/images/og/schede/it/genitori-visibili-cosa-significa.jpg"
 og_image_alt: "Genitori visibili: cosa significa davvero — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/genitori-visibili-cosa-significa.webp"
 description: "Perché il padre di una cucciolata quasi mai è visibile in allevamento, come si verifica un maschio che sta a mille chilometri e cosa guardare nella madre."
 slug: "genitori-visibili-cosa-significa"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/genitori-visibili-hero.webp" alt="Femmina di Staffordshire Bull Terrier che allatta la sua cucciolata" width="468" height="480" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
+  <img src="/images/blog/icone/hero-genitori-visibili-cosa-significa.webp" alt="" width="800" height="600" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
   </div>
   </div>
   <div class="hero-content">

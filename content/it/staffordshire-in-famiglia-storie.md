@@ -8,6 +8,7 @@ articolo: true
 image: "/images/blog/storie-famiglie-hero.webp"
 og_image: "/images/og/schede/it/staffordshire-in-famiglia-storie.jpg"
 og_image_alt: "Staffordshire Bull Terrier in famiglia: storie vere — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/staffordshire-in-famiglia-storie.webp"
 description: "Palestra, spiaggia, campo di lavoro, poltrona: dieci Staffordshire Bull Terrier nati nel nostro allevamento, e le famiglie con cui vivono anni dopo l'affido."
 slug: "staffordshire-in-famiglia-storie"
 tags: ["Staffordshire Bull Terrier", "cuccioli dopo l'affido", "storie di famiglie", "Del Piccolo Diavolo"]

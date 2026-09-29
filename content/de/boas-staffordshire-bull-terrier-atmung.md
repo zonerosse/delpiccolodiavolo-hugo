@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/boas-respirazione.webp"
 og_image: "/images/og/schede/de/boas-staffordshire-bull-terrier-atmung.jpg"
 og_image_alt: "BOAS beim Staffordshire Bull Terrier: die Atmung — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/boas-staffordshire-bull-terrier-respirazione.webp"
 description: "BOAS beim Staffordshire Bull Terrier: was das Atemwegssyndrom ist, warum die Rasse nicht extrem brachyzephal ist und wie man einen frei atmenden Welpen erkennt."
 slug: "boas-staffordshire-bull-terrier-atmung"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/femmina-bilquis-hero.avif" alt="Bilquis Goddess Diabhal, Campionessa Italiana Staffordshire Bull Terrier - Del Piccolo Diavolo" width="301" height="396" fetchpriority="high" decoding="sync">
+  <img src="/images/blog/icone/hero-boas-staffordshire-bull-terrier-respirazione.webp" alt="" width="800" height="600" fetchpriority="high" decoding="sync">
   </div>
   </div>
   <div class="hero-content">

@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/hero-default.webp"
 og_image: "/images/og/schede/en/puppy-initial-feeding.jpg"
 og_image_alt: "Feeding a Staffordshire Bull Terrier puppy: first months — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/cuccioli-alimentazione-iniziale.webp"
 description: "How much and how often a Staffordshire Bull Terrier puppy eats: amounts by age, how to change food safely and what should never be given."
 slug: "puppy-initial-feeding"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/hero-default.webp" alt="Staffordshire Bull Terrier puppy feeding" width="800" height="627" fetchpriority="high">
+  <img src="/images/blog/icone/hero-cuccioli-alimentazione-iniziale.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

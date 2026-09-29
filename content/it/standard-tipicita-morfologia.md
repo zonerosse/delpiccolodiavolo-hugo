@@ -7,13 +7,14 @@ articolo: true
 image: "/images/blog/standard-1.webp"
 og_image: "/images/og/schede/it/standard-tipicita-morfologia.jpg"
 og_image_alt: "Staffordshire Bull Terrier: Tipicità di Razza e Morfologia — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/standard-tipicita-morfologia.webp"
 description: "Lo standard FCI dello Staffordshire Bull Terrier spiegato: testa, proporzioni, ossatura, movimento, colori e carattere, i punti che fanno la differenza in expo."
 slug: "standard-tipicita-morfologia"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/standard-1.webp" alt="Staffordshire Bull Terrier tipico secondo standard FCI" width="800" height="533" fetchpriority="high">
+  <img src="/images/blog/icone/hero-standard-tipicita-morfologia.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

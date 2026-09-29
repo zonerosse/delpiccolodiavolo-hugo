@@ -7,13 +7,14 @@ articolo: true
 image: "/images/blog/standard-tipicita-morfologia-hero.webp"
 og_image: "/images/og/schede/de/staffy-rassestandard.jpg"
 og_image_alt: "FCI Rassestandard Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/standard-tipicita-morfologia.webp"
 description: "Der FCI-Standard Nr. 76 des Staffordshire Bull Terrier erklärt: Proportionen, Kopf, Körper, Gangwerk, Farben und wie die Fehler im Ring gewichtet werden."
 slug: "staffy-rassestandard"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/standard-tipicita-morfologia-hero.webp" alt="FCI Rassestandard Staffordshire Bull Terrier" width="800" height="627" fetchpriority="high">
+  <img src="/images/blog/icone/hero-standard-tipicita-morfologia.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

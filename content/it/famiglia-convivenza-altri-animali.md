@@ -7,13 +7,14 @@ articolo: true
 image: "/images/blog/famiglia-3.webp"
 og_image: "/images/og/schede/it/famiglia-convivenza-altri-animali.jpg"
 og_image_alt: "Staffy con Altri Animali: Guida Convivenza — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/famiglia-convivenza-altri-animali.webp"
 description: "Convivenza Staffy con cani, gatti, piccoli animali: protocolli inserimento graduali, gestione risorse, segnali stress, problemi comuni e soluzioni pratiche."
 slug: "famiglia-convivenza-altri-animali"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/famiglia-3.webp" alt="Staffordshire Bull Terrier convivenza altri animali" width="800" height="532" fetchpriority="high">
+  <img src="/images/blog/icone/hero-famiglia-convivenza-altri-animali.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

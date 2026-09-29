@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/socializzazione-cortile-hero.webp"
 og_image: "/images/og/schede/en/socialised-puppies-what-it-means.jpg"
 og_image_alt: "Socialised puppies: what it really means — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/cuccioli-socializzati-cosa-vuol-dire.webp"
 description: "The sensitive window runs from the third to the twelfth week: what a puppy can really meet at the kennel, what it cannot, and what is left for the family to do."
 slug: "socialised-puppies-what-it-means"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/socializzazione-cortile-hero.webp" alt="Staffordshire Bull Terrier puppy in the grass of the kennel courtyard" width="478" height="760" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
+  <img src="/images/blog/icone/hero-cuccioli-socializzati-cosa-vuol-dire.webp" alt="" width="800" height="600" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
   </div>
   </div>
   <div class="hero-content">

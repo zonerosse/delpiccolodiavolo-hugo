@@ -7,13 +7,14 @@ articolo: true
 image: "/images/blog/famiglia-3.jpg"
 og_image: "/images/og/schede/de/staffy-aeltere-besitzer.jpg"
 og_image_alt: "Staffordshire Bull Terrier für ältere Besitzer — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/famiglia-anziani-rispetto-ritmi.webp"
 description: "Ist der Staffordshire Bull Terrier für ältere Menschen geeignet? Kraft, Bewegungsbedarf und Handhabung, ehrlich betrachtet, mit Alternativen im Zweifel."
 slug: "staffy-aeltere-besitzer"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/famiglia-3.jpg" alt="Staffordshire Bull Terrier für ältere Besitzer" width="800" height="532" fetchpriority="high">
+  <img src="/images/blog/icone/hero-famiglia-anziani-rispetto-ritmi.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

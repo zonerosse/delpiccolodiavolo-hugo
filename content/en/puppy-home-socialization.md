@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/cuccioli-1.webp"
 og_image: "/images/og/schede/en/puppy-home-socialization.jpg"
 og_image_alt: "Socialising the puppy at home: the family checklist — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/cuccioli-socializzazione-in-casa.webp"
 description: "Surfaces, noises, handling, visitors and bowls: the checklist of things to introduce to a Staffordshire Bull Terrier puppy in its first weeks at home."
 slug: "puppy-home-socialization"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier puppy socialization" width="800" height="913" fetchpriority="high">
+  <img src="/images/blog/icone/hero-cuccioli-socializzazione-in-casa.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

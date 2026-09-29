@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/hero-default.webp"
 og_image: "/images/og/schede/en/staffy-pitbull-amstaff-difference.jpg"
 og_image_alt: "Staffordshire Bull Terrier, Pitbull and Amstaff compared — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/differenza-staffy-pitbull-amstaff.webp"
 description: "Not the same dog: 11-17 kg against 25-32, 2 FCI-recognised standards and one that is not. How to tell them apart, explained by a breeder."
 slug: "staffy-pitbull-amstaff-difference"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/hero-default.webp" alt="Difference between Staffordshire Bull Terrier Pitbull and Amstaff" width="800" height="627" fetchpriority="high">
+  <img src="/images/blog/icone/hero-differenza-staffy-pitbull-amstaff.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

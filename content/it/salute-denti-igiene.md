@@ -7,13 +7,14 @@ articolo: true
 image: "/images/blog/salute-2.webp"
 og_image: "/images/og/schede/it/salute-denti-igiene.jpg"
 og_image_alt: "Igiene Orale e Denti Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/salute-denti-igiene.webp"
 description: "Guida completa igiene orale Staffy: come spazzolare i denti, prevenire tartaro, scegliere snack dentali sicuri, gestire dentizione cuccioli e detartrasi."
 slug: "salute-denti-igiene"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/salute-2.webp" alt="Igiene orale e denti Staffordshire Bull Terrier" width="800" height="600" fetchpriority="high">
+  <img src="/images/blog/icone/hero-salute-denti-igiene.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

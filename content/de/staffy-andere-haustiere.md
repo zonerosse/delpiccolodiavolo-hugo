@@ -7,13 +7,14 @@ articolo: true
 image: "/images/blog/famiglia-2.jpg"
 og_image: "/images/og/schede/de/staffy-andere-haustiere.jpg"
 og_image_alt: "Staffordshire Bull Terrier mit anderen Haustieren — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/famiglia-convivenza-altri-animali.webp"
 description: "Staffordshire Bull Terrier mit anderen Hunden, Katzen und Kleintieren: was das Terrier-Erbe bedeutet, wie man zusammenführt und wo Konflikte beginnen."
 slug: "staffy-andere-haustiere"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/famiglia-2.jpg" alt="Staffordshire Bull Terrier mit anderen Haustieren" width="800" height="499" fetchpriority="high">
+  <img src="/images/blog/icone/hero-famiglia-convivenza-altri-animali.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

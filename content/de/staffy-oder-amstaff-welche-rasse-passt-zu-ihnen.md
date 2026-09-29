@@ -5,6 +5,7 @@ articolo: true
 image: "/images/blog/staffy-amstaff-hero.webp"
 og_image: "/images/og/schede/de/staffy-oder-amstaff-welche-rasse-passt-zu-ihnen.jpg"
 og_image_alt: "Staffy oder Amstaff, welcher passt: der Test des Züchters — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/differenza-staffy-amstaff.webp"
 titleSeo: "Staffy oder Amstaff, welcher passt: der Test des Züchters"
 translationKey: "differenza-staffy-amstaff"
 description: "Sieben Fragen zu Wohnung, Kindern, Erfahrung, Zeit und Bürokratie, von einem Staffordshire Bull Terrier Züchter seit 2013. Zum Wählen, nicht zum Unterscheiden."

@@ -6,6 +6,7 @@ translationKey: "come-scegliere"
 image: "/images/blog/cucciolata-erba.avif"
 og_image: "/images/og/schede/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht.jpg"
 og_image_alt: "Seriöse Staffordshire Bull Terrier Zucht erkennen — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier.webp"
 description: "Acht Kriterien, um eine seriöse Staffordshire Bull Terrier Zucht zu erkennen, jedes mit der Art, es zu überprüfen. Mit unseren eigenen Unterlagen als Beispiel."
 slug: "wie-waehlt-man-eine-staffordshire-bull-terrier-zucht"
 date: 2026-01-18

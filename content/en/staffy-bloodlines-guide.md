@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/standard-1.webp"
 og_image: "/images/og/schede/en/staffy-bloodlines-guide.jpg"
 og_image_alt: "Staffy bloodlines: the history of the six lines — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/linee-sangue-staffordshire-bull-terrier.webp"
 description: "History of Staffordshire Bull Terrier bloodlines: the six founding male lines, Gentleman Jim, the M-Line and R-Line, and English and Irish kennels today."
 slug: "staffy-bloodlines-guide"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/standard-1.webp" alt="Staffordshire Bull Terrier bloodlines guide" width="800" height="533" fetchpriority="high">
+  <img src="/images/blog/icone/hero-linee-sangue-staffordshire-bull-terrier.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

@@ -7,13 +7,14 @@ articolo: true
 image: "/images/blog/famiglia-4.jpg"
 og_image: "/images/og/schede/de/staffy-reisen-transport.jpg"
 og_image_alt: "Reisen und Transport mit Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/famiglia-viaggi-spostamenti.webp"
 description: "Mit dem Staffordshire Bull Terrier reisen: Auto, Flugzeug, Hotel und Papiere, mit den Regeln für Italien und die wichtigsten europäischen Länder."
 slug: "staffy-reisen-transport"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/famiglia-4.jpg" alt="Reisen mit Staffordshire Bull Terrier" width="800" height="532" fetchpriority="high">
+  <img src="/images/blog/icone/hero-famiglia-viaggi-spostamenti.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

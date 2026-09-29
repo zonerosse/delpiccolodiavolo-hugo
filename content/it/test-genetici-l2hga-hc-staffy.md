@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/salute-1.webp"
 og_image: "/images/og/schede/it/test-genetici-l2hga-hc-staffy.jpg"
 og_image_alt: "Test genetici Staffy: L2-HGA, HC (HSF4) e DM (SOD1) — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/test-genetici-l2hga-hc-staffy.webp"
 description: "Test genetici nello Staffordshire Bull Terrier: L2-HGA, cataratta ereditaria HC (gene HSF4) e mielopatia degenerativa (gene SOD1). Cosa sono e come si leggono."
 slug: "test-genetici-l2hga-hc-staffy"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/salute-1.webp" alt="Test genetici L2-HGA e HC Staffordshire Bull Terrier" width="800" height="449" fetchpriority="high">
+  <img src="/images/blog/icone/hero-test-genetici-l2hga-hc-staffy.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

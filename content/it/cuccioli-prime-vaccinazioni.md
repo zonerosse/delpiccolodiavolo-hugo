@@ -8,6 +8,7 @@ articolo: true
 image: "/images/blog/cuccioli-2.webp"
 og_image: "/images/og/schede/it/cuccioli-prime-vaccinazioni.jpg"
 og_image_alt: "Prime vaccinazioni del cucciolo: calendario e richiami — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/cuccioli-prime-vaccinazioni.webp"
 description: "Il calendario vaccinale del cucciolo Staffordshire Bull Terrier: quando si fanno i richiami, quando può uscire davvero e perché aspettare non è sempre giusto."
 slug: "cuccioli-prime-vaccinazioni"
 custom_content: |

@@ -2,8 +2,9 @@
 title: "Cucciolo Staffy all'estero: tempi e documenti"
 og_image: "/images/og/schede/it/cucciolo-staffordshire-bull-terrier-all-estero.jpg"
 og_image_alt: "Cucciolo Staffy all'estero: tempi e documenti — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/cucciolo-staffordshire-bull-terrier-all-estero.webp"
 date: 2026-09-12
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 articolo: true
 translationKey: "cucciolo-estero"
 description: "Un cucciolo destinato a un altro paese europeo parte a quattro mesi, non a due. Antirabbica, passaporto, certificato TRACES ed export pedigree ENCI."

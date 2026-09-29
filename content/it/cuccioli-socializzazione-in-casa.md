@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/cucciolo-in-mano-hero.webp"
 og_image: "/images/og/schede/it/cuccioli-socializzazione-in-casa.jpg"
 og_image_alt: "Socializzare il cucciolo in casa: la lista per la famiglia — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/cuccioli-socializzazione-in-casa.webp"
 description: "Superfici, rumori, mani addosso, ospiti e ciotole: la lista di cose da far conoscere a un cucciolo di Staffordshire Bull Terrier nelle prime settimane a casa."
 slug: "cuccioli-socializzazione-in-casa"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/cuccioli-1.webp" alt="Socializzazione cucciolo Staffordshire Bull Terrier in casa" width="800" height="913" fetchpriority="high">
+  <img src="/images/blog/icone/hero-cuccioli-socializzazione-in-casa.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

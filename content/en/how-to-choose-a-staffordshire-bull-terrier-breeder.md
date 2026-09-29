@@ -6,6 +6,7 @@ translationKey: "come-scegliere"
 image: "/images/blog/cucciolata-erba.avif"
 og_image: "/images/og/schede/en/how-to-choose-a-staffordshire-bull-terrier-breeder.jpg"
 og_image_alt: "How to recognise a serious Staffy breeder — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier.webp"
 description: "Eight criteria for recognising a serious Staffordshire Bull Terrier breeder, each with the way to verify it. With our own documents as the worked example."
 slug: "how-to-choose-a-staffordshire-bull-terrier-breeder"
 date: 2026-01-18

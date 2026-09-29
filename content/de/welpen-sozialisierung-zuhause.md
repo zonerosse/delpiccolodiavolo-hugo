@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/cuccioli-1.webp"
 og_image: "/images/og/schede/de/welpen-sozialisierung-zuhause.jpg"
 og_image_alt: "Welpen zu Hause sozialisieren: die Liste für die Familie — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/cuccioli-socializzazione-in-casa.webp"
 description: "Böden, Geräusche, Anfassen, Besuch und Näpfe: die Liste dessen, was ein Staffordshire Bull Terrier Welpe in den ersten Wochen zu Hause kennenlernen sollte."
 slug: "welpen-sozialisierung-zuhause"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier Welpen Sozialisierung" width="800" height="913" fetchpriority="high">
+  <img src="/images/blog/icone/hero-cuccioli-socializzazione-in-casa.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

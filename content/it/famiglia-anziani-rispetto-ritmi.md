@@ -7,13 +7,14 @@ articolo: true
 image: "/images/blog/famiglia-2.webp"
 og_image: "/images/og/schede/it/famiglia-anziani-rispetto-ritmi.jpg"
 og_image_alt: "Staffordshire Bull Terrier per Anziani: Guida Completa — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/famiglia-anziani-rispetto-ritmi.webp"
 description: "Guida realistica Staffy per anziani: valutazione pre-adozione, routine sicure, gestione passeggiate, supporto familiare, costi reali e benefici comprovati."
 slug: "famiglia-anziani-rispetto-ritmi"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/famiglia-2.webp" alt="Staffordshire Bull Terrier con persona anziana" width="800" height="499" fetchpriority="high">
+  <img src="/images/blog/icone/hero-famiglia-anziani-rispetto-ritmi.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

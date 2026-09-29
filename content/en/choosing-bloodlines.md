@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/standard-2.webp"
 og_image: "/images/og/schede/en/choosing-bloodlines.jpg"
 og_image_alt: "Choosing Staffordshire Bull Terrier bloodlines — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/standard-linee-di-sangue-orientarsi.webp"
 description: "How to choose a Staffordshire Bull Terrier bloodline for a puppy: what you want from the dog, what differs between lines, and what to ask the breeder."
 slug: "choosing-bloodlines"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/standard-2.webp" alt="Choosing Staffordshire Bull Terrier bloodlines" width="800" height="727" fetchpriority="high">
+  <img src="/images/blog/icone/hero-standard-linee-di-sangue-orientarsi.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

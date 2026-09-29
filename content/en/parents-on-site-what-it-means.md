@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/genitori-visibili-hero.webp"
 og_image: "/images/og/schede/en/parents-on-site-what-it-means.jpg"
 og_image_alt: "\"Parents on site\": what it really means — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/genitori-visibili-cosa-significa.webp"
 description: "Why the sire of a litter is almost never at the kennel, how to check a stud dog that lives a thousand kilometres away, and what to look for in the dam."
 slug: "parents-on-site-what-it-means"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/genitori-visibili-hero.webp" alt="Staffordshire Bull Terrier bitch nursing her litter" width="468" height="480" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
+  <img src="/images/blog/icone/hero-genitori-visibili-cosa-significa.webp" alt="" width="800" height="600" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
   </div>
   </div>
   <div class="hero-content">

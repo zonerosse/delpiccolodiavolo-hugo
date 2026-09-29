@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/neonati-hero.webp"
 og_image: "/images/og/schede/it/bio-sensor-stimolazione-precoce-cuccioli.jpg"
 og_image_alt: "Bio Sensor e stimolazione precoce: cosa dice la ricerca — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/bio-sensor-stimolazione-precoce-cuccioli.webp"
 description: "Metodo Bio Sensor ed ENS sui cuccioli: da dove viene, cosa promette e quanto è dimostrato. E cosa conta davvero nelle prime otto settimane."
 slug: "bio-sensor-stimolazione-precoce-cuccioli"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/cuccioli-1.webp" alt="Cuccioli di Staffordshire Bull Terrier nelle prime settimane di vita" width="800" height="913" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
+  <img src="/images/blog/icone/hero-bio-sensor-stimolazione-precoce-cuccioli.webp" alt="" width="800" height="600" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
   </div>
   </div>
   <div class="hero-content">

@@ -7,13 +7,14 @@ articolo: true
 image: "/images/blog/salute-1.webp"
 og_image: "/images/og/schede/de/staffy-zahnpflege.jpg"
 og_image_alt: "Zahnpflege und Mundhygiene für Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/salute-denti-igiene.webp"
 description: "Zahnpflege beim Staffordshire Bull Terrier: rassetypische Besonderheiten, gefährliche Kauartikel, richtig Zähneputzen und wann eine Zahnreinigung nötig ist."
 slug: "staffy-zahnpflege"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/salute-1.webp" alt="Zahnpflege Staffordshire Bull Terrier" width="800" height="449" fetchpriority="high">
+  <img src="/images/blog/icone/hero-salute-denti-igiene.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

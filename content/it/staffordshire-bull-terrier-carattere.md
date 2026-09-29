@@ -7,6 +7,7 @@ translationKey: "carattere"
 image: "/images/blog/temperamento-staffy-hero.webp"
 og_image: "/images/og/schede/it/staffordshire-bull-terrier-carattere.jpg"
 og_image_alt: "Temperamento dello Staffy: come è stato selezionato — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/staffordshire-bull-terrier-carattere.webp"
 description: "Perché lo Staffordshire Bull Terrier ha questo carattere: la selezione storica, cosa dice lo standard e come si valuta il temperamento di un cucciolo."
 slug: "staffordshire-bull-terrier-carattere"
 date: 2026-01-18

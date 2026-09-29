@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/cuccioli-8.webp"
 og_image: "/images/og/schede/it/staffordshire-bull-terrier-e-il-cane-giusto-per-te.jpg"
 og_image_alt: "Staffordshire Bull Terrier: è il cane giusto per te? — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/staffordshire-bull-terrier-e-il-cane-giusto-per-te.webp"
 description: "Lo Staffordshire Bull Terrier è il cane giusto per te? Pregi e difetti senza sconti, per chi è adatto e per chi no, e quanto impegno richiede ogni giorno."
 slug: "staffordshire-bull-terrier-e-il-cane-giusto-per-te"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/hero-default.webp" alt="Staffordshire Bull Terrier: è il cane giusto per te" width="800" height="627" fetchpriority="high">
+  <img src="/images/blog/icone/hero-staffordshire-bull-terrier-e-il-cane-giusto-per-te.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

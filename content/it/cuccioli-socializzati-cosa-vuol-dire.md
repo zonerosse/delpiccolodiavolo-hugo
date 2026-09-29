@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/socializzazione-cortile-hero.webp"
 og_image: "/images/og/schede/it/cuccioli-socializzati-cosa-vuol-dire.jpg"
 og_image_alt: "Cuccioli socializzati: cosa vuol dire davvero — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/cuccioli-socializzati-cosa-vuol-dire.webp"
 description: "La finestra sensibile va dalla terza alla dodicesima settimana: cosa un cucciolo può incontrare in allevamento, cosa no, e cosa resta da fare alla famiglia."
 slug: "cuccioli-socializzati-cosa-vuol-dire"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/socializzazione-cortile-hero.webp" alt="Cucciolo di Staffordshire Bull Terrier nell'erba del cortile dell'allevamento" width="478" height="760" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
+  <img src="/images/blog/icone/hero-cuccioli-socializzati-cosa-vuol-dire.webp" alt="" width="800" height="600" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
   </div>
   </div>
   <div class="hero-content">

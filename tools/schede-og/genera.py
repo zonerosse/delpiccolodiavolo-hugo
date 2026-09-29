@@ -104,3 +104,29 @@ with sync_playwright() as p:
         pg.screenshot(path='/tmp/c.png'); Image.open('/tmp/c.png').convert('RGB').save(dest,'JPEG',quality=85,optimize=True,progressive=True)
     br.close()
 print(len(out),'cards'); print('shrunk:',[(o['lang'],o['slug'],o['fs']) for o in out if o['fs']<64])
+
+# ---------------------------------------------------------------------------
+# Icone per l'elenco del blog e per la testata degli articoli (stile A:
+# fondo sabbia, icona nel cerchio col colore della categoria). Non dipendono
+# dalla lingua: un file per articolo, col nome dello slug italiano.
+#   static/images/blog/icone/<slug-it>.webp       600x376  (schede del blog, front matter "thumb")
+#   static/images/blog/icone/hero-<slug-it>.webp  1120x840 (testata, solo se la foto e' sotto
+#                                                  i 560 px o e' la generica hero-default)
+# Si generano con:  python3 tools/schede-og/genera.py --icone
+def icona_riquadro(g,ic,W,H,circle):
+    a,b_=GROUPS[g]
+    svg=icon(ic).replace('width="210"',f'width="{int(circle*0.62)}"').replace('height="210"',f'height="{int(circle*0.62)}"')
+    return (f'<!DOCTYPE html><html><head><meta charset="utf-8"><style>html,body{{margin:0}}</style></head><body>'
+            f'<div style="width:{W}px;height:{H}px;background:#f5ebe0;display:flex;align-items:center;justify-content:center">'
+            f'<div style="width:{circle}px;height:{circle}px;border-radius:50%;background:linear-gradient(135deg,{a},{b_});display:flex;align-items:center;justify-content:center">{svg}</div></div></body></html>')
+import sys
+if '--icone' in sys.argv:
+    from playwright.sync_api import sync_playwright
+    dest=os.path.join(R,'static','images','blog','icone'); os.makedirs(dest,exist_ok=True)
+    with sync_playwright() as p:
+        br=p.chromium.launch(); pg=br.new_page()
+        for slug,(g,ic) in MAP.items():
+            for nome,W,H,c in ((slug,600,376,230),('hero-'+slug,1120,840,440)):
+                pg.set_viewport_size({'width':W,'height':H}); pg.set_content(icona_riquadro(g,ic,W,H,c))
+                pg.screenshot(path='/tmp/i.png'); Image.open('/tmp/i.png').convert('RGB').save(os.path.join(dest,nome+'.webp'),'WEBP',quality=82)
+        br.close()

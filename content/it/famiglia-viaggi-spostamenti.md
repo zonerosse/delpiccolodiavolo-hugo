@@ -7,13 +7,14 @@ articolo: true
 image: "/images/blog/famiglia-4.webp"
 og_image: "/images/og/schede/it/famiglia-viaggi-spostamenti.jpg"
 og_image_alt: "Viaggiare con Staffordshire Bull Terrier: Auto, Treno, Hotel — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/famiglia-viaggi-spostamenti.webp"
 description: "Viaggi Staffy: trasportino omologato, documenti necessari, pause ogni 2h, hotel pet-friendly, treno con cane, gestione cuccioli e consigli pratici."
 slug: "famiglia-viaggi-spostamenti"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/famiglia-4.webp" alt="Staffordshire Bull Terrier viaggia sicuro in auto" width="800" height="532" fetchpriority="high">
+  <img src="/images/blog/icone/hero-famiglia-viaggi-spostamenti.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

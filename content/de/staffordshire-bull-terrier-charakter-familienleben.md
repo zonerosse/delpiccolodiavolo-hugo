@@ -8,13 +8,14 @@ articolo: true
 image: "/images/cucciolo-con-cavallo.avif"
 og_image: "/images/og/schede/de/staffordshire-bull-terrier-charakter-familienleben.jpg"
 og_image_alt: "Staffordshire Bull Terrier: Charakter und Familienleben — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/staffordshire-bull-terrier-carattere-vita-famiglia.webp"
 description: "Das Leben mit einem Staffordshire Bull Terrier: Kinder, andere Tiere, Wohnung und Energie, erzählt von einem ENCI-Züchter seit 2013."
 slug: "staffordshire-bull-terrier-charakter-familienleben"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/cucciolo-con-cavallo.avif" alt="Staffordshire Bull Terrier Welpe Del Piccolo Diavolo" width="800" height="978" fetchpriority="high">
+  <img src="/images/blog/icone/hero-staffordshire-bull-terrier-carattere-vita-famiglia.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

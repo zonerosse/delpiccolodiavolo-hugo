@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/famiglia-1.webp"
 og_image: "/images/og/schede/en/staffy-children-family.jpg"
 og_image_alt: "Staffordshire Bull Terrier with children: family life — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/famiglia-bambini-convivenza.webp"
 description: "Living with children and Staffordshire Bull Terriers: safety rules, supervised interactions, age-appropriate activities and building lasting bonds."
 slug: "staffy-children-family"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/famiglia-1.webp" alt="Staffordshire Bull Terrier with children" width="800" height="480" fetchpriority="high">
+  <img src="/images/blog/icone/hero-famiglia-bambini-convivenza.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/neonati-2-hero.webp"
 og_image: "/images/og/schede/it/cuccioli-gestione-solitudine.jpg"
 og_image_alt: "Insegnare al cucciolo a restare solo, senza stress — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/cuccioli-gestione-solitudine.webp"
 description: "Insegnare al cucciolo a stare solo senza ansia da separazione: da pochi minuti a qualche ora, con i tempi reali e gli errori che peggiorano il problema."
 slug: "cuccioli-gestione-solitudine"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/hero-default.webp" alt="Gestione solitudine cucciolo Staffordshire Bull Terrier" width="800" height="627" fetchpriority="high">
+  <img src="/images/blog/icone/hero-cuccioli-gestione-solitudine.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

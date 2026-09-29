@@ -31,7 +31,7 @@
 <div class="blog-grid">
 {{ range $recenti }}
   <article class="blog-card">
-  <a href="{{ .RelPermalink }}" title="{{ $leggi }}: {{ .Title }}"><div class="blog-card-thumb"><img src="{{ with .Params.image }}{{ . }}{{ else }}/images/blog/hero-default.webp{{ end }}" alt="{{ .Title }}" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="{{ .RelPermalink }}" title="{{ $leggi }}: {{ .Title }}"><div class="blog-card-thumb"><img src="{{ with .Params.thumb }}{{ . }}{{ else }}{{ with .Params.image }}{{ . }}{{ else }}/images/blog/hero-default.webp{{ end }}{{ end }}" alt="{{ .Title }}" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">{{ .Date.Format "2 January 2006" }}</span></div>
   <h3><a href="{{ .RelPermalink }}" title="{{ $leggi }}: {{ .Title }}">{{ .Title }}</a></h3>

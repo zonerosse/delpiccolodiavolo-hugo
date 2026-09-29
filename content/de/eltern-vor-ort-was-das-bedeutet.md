@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/genitori-visibili-hero.webp"
 og_image: "/images/og/schede/de/eltern-vor-ort-was-das-bedeutet.jpg"
 og_image_alt: "\"Eltern vor Ort\": was das wirklich bedeutet — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/genitori-visibili-cosa-significa.webp"
 description: "Warum der Vater eines Wurfs fast nie in der Zucht zu sehen ist, wie man einen Deckrüden aus der Ferne überprüft und worauf man bei der Mutter achten sollte."
 slug: "eltern-vor-ort-was-das-bedeutet"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/genitori-visibili-hero.webp" alt="Staffordshire Bull Terrier Hündin säugt ihren Wurf" width="468" height="480" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
+  <img src="/images/blog/icone/hero-genitori-visibili-cosa-significa.webp" alt="" width="800" height="600" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
   </div>
   </div>
   <div class="hero-content">

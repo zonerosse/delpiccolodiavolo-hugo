@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/linee-sangue-hero.webp"
 og_image: "/images/og/schede/it/linee-sangue-staffordshire-bull-terrier.jpg"
 og_image_alt: "Storia delle linee di sangue dello Staffy — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/linee-sangue-staffordshire-bull-terrier.webp"
 description: "Guida completa alle linee di sangue dello Staffordshire Bull Terrier: storia delle 6 linee fondatrici, genealogie documentate e allevamenti moderni UK/Irlanda."
 slug: "linee-sangue-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/hero-default.webp" alt="Linee di sangue Staffordshire Bull Terrier Genealogia" width="800" height="627" fetchpriority="high">
+  <img src="/images/blog/icone/hero-linee-sangue-staffordshire-bull-terrier.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

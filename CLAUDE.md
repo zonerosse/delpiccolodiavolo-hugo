@@ -102,3 +102,10 @@ Paolo does not run the pre-commit hook reliably (it needs `git config core.hooks
 
 For articles with `og_image`, the Article JSON-LD `image` is the 1200x630 share card only (blog photos are too small for Google and often unrelated to the topic). Diary posts keep their litter photos.
 
+## Icons in the blog listing and article headers
+
+- Blog listing (`content/*/blog.md` and `partials/recenti.html`): every article card shows its icon, style A, from `static/images/blog/icone/<slug-it>.webp` (front matter `thumb`). Diary cards keep litter photos.
+- Article header: the existing photo stays only if it is at least 560 px wide (the header box on desktop) AND it matches the topic. Otherwise the header uses `static/images/blog/icone/hero-<slug-it>.webp`, with `alt=""` (decorative, the title follows). Paolo's rule; 27 articles use the icon header, 9 keep their photo (sverminazione, costo, vaccinazioni, pedigree, scegliere allevamento, Staffy o Amstaff, temperamento, storie, estero).
+- The generic `hero-default.webp` must not be used as an article header.
+- Files are generated with `python3 tools/schede-og/genera.py --icone`.
+

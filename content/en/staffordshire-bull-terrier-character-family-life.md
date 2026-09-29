@@ -8,13 +8,14 @@ articolo: true
 image: "/images/cucciolo-con-cavallo.avif"
 og_image: "/images/og/schede/en/staffordshire-bull-terrier-character-family-life.jpg"
 og_image_alt: "Staffordshire Bull Terrier: character and family life — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/staffordshire-bull-terrier-carattere-vita-famiglia.webp"
 description: "Staffordshire Bull Terrier character, family life, pros and cons told by a breeder with 20 years of experience. What to really expect from a Staffy."
 slug: "staffordshire-bull-terrier-character-family-life"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/cucciolo-con-cavallo.avif" alt="Staffordshire Bull Terrier puppy Del Piccolo Diavolo" width="800" height="978" fetchpriority="high">
+  <img src="/images/blog/icone/hero-staffordshire-bull-terrier-carattere-vita-famiglia.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

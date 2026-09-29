@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/standard-1.webp"
 og_image: "/images/og/schede/de/staffy-blutlinien-guide.jpg"
 og_image_alt: "Staffy-Blutlinien: die Geschichte der sechs Linien — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/linee-sangue-staffordshire-bull-terrier.webp"
 description: "Geschichte der Blutlinien des Staffordshire Bull Terrier: die sechs männlichen Gründerlinien, Gentleman Jim, M- und R-Linie und die Zuchten von heute."
 slug: "staffy-blutlinien-guide"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/standard-1.webp" alt="Staffordshire Bull Terrier Blutlinien Leitfaden" width="800" height="533" fetchpriority="high">
+  <img src="/images/blog/icone/hero-linee-sangue-staffordshire-bull-terrier.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

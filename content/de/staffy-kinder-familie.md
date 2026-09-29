@@ -7,13 +7,14 @@ articolo: true
 image: "/images/blog/famiglia-1.jpg"
 og_image: "/images/og/schede/de/staffy-kinder-familie.jpg"
 og_image_alt: "Staffordshire Bull Terrier mit Kindern und Familie — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/famiglia-bambini-convivenza.webp"
 description: "Leitfaden für das Zusammenleben von Staffy mit Kindern: warum er Nanny Dog genannt wird, Sicherheitstipps, Einführung in die Familie."
 slug: "staffy-kinder-familie"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/famiglia-1.jpg" alt="Staffordshire Bull Terrier mit Kindern" width="800" height="480" fetchpriority="high">
+  <img src="/images/blog/icone/hero-famiglia-bambini-convivenza.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

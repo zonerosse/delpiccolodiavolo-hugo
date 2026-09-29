@@ -8,13 +8,14 @@ articolo: true
 image: "/images/blog/cuccioli-7.webp"
 og_image: "/images/og/schede/it/cuccioli-prima-passeggiata.jpg"
 og_image_alt: "La prima passeggiata del cucciolo: quando e come iniziare — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/cuccioli-prima-passeggiata.webp"
 description: "Prima passeggiata del cucciolo di Staffordshire Bull Terrier: quando uscire, attrezzatura, prime esperienze sicure, regole di base e segnali da osservare."
 slug: "cuccioli-prima-passeggiata"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/cuccioli-7.webp" alt="Cucciolo Staffordshire Bull Terrier prima passeggiata guinzaglio" width="800" height="533" fetchpriority="high">
+  <img src="/images/blog/icone/hero-cuccioli-prima-passeggiata.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

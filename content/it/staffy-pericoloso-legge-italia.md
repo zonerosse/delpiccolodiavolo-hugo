@@ -7,13 +7,14 @@ articolo: true
 image: "/images/blog/staffy-carattere-legge-hero.webp"
 og_image: "/images/og/schede/it/staffy-pericoloso-legge-italia.jpg"
 og_image_alt: "Lo Staffy è Pericoloso? Verità e Legge Italiana — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/staffy-pericoloso-legge-italia.webp"
 description: "Lo Staffy è davvero pericoloso? Analizziamo lo studio VetCompass 2020, la normativa italiana dal 2009 e la proposta lombarda 2025. Dati scientifici e fatti."
 slug: "staffy-pericoloso-legge-italia"
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/hero-default.webp" alt="Lo Staffordshire Bull Terrier è pericoloso? La verità scientifica" width="800" height="627" fetchpriority="high">
+  <img src="/images/blog/icone/hero-staffy-pericoloso-legge-italia.webp" alt="" width="800" height="600" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

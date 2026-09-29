@@ -8,6 +8,7 @@ articolo: true
 image: "/images/blog/storie-famiglie-hero.webp"
 og_image: "/images/og/schede/de/staffordshire-in-der-familie-geschichten.jpg"
 og_image_alt: "Staffordshire Bull Terrier in der Familie: wahre Geschichten — Allevamento Del Piccolo Diavolo"
+thumb: "/images/blog/icone/staffordshire-in-famiglia-storie.webp"
 description: "Fitnessstudio, Strand, Übungsplatz, Sessel: zehn Staffordshire Bull Terrier aus unserer Zucht und die Familien, bei denen sie Jahre nach der Abgabe leben."
 slug: "staffordshire-in-der-familie-geschichten"
 tags: ["Staffordshire Bull Terrier", "Leben nach der Abgabe", "Geschichten von Familien", "Del Piccolo Diavolo"]
