@@ -64,9 +64,9 @@ custom_content: |
   <h2 class="section-title">Nati e cresciuti qui, a Ostellato</h2>
 
   <div class="gallery-grid">
-  <div class="gallery-item"><img src="/images/foto1.avif" alt="Cucciolo di Staffordshire Bull Terrier nero tenuto in mano" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/foto2.avif" alt="Cucciolo di Staffordshire Bull Terrier nero di poche settimane" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/foto4.avif" alt="Cucciolo di Staffordshire Bull Terrier in braccio, primo piano" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/foto1.avif" alt="Cucciolo di Staffordshire Bull Terrier nero tenuto in mano" loading="lazy" decoding="async" width="300" height="363"></div>
+  <div class="gallery-item"><img src="/images/foto2.avif" alt="Cucciolo di Staffordshire Bull Terrier nero di poche settimane" loading="lazy" decoding="async" width="300" height="391"></div>
+  <div class="gallery-item"><img src="/images/foto4.avif" alt="Cucciolo di Staffordshire Bull Terrier in braccio, primo piano" loading="lazy" decoding="async" width="300" height="347"></div>
   </div>
 
   <p style="text-align:center;margin-top:1.5rem"><a class="btn" href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">Come nascono e crescono</a></p>
@@ -77,7 +77,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <div style="max-width:760px;margin:0 auto;display:grid;grid-template-columns:88px 1fr;gap:1.2rem;align-items:center;background:#fff;border:1px solid #e6ddd4;border-radius:10px;padding:1rem 1.2rem">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Campionessa Italiana" width="88" height="88" loading="lazy" decoding="async" style="width:88px;height:88px;object-fit:cover;border-radius:8px">
+  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Campionessa Italiana" width="88" height="116" loading="lazy" decoding="async" style="width:88px;height:88px;object-fit:cover;border-radius:8px">
   <div>
   <p style="font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:#8b5a2b;font-weight:700;margin:0 0 .25rem">Ne hanno parlato &middot; 6 gennaio 2026</p>
   <h2 style="font-family:Georgia,'Times New Roman',serif;font-size:1.05rem;color:#5c4a3a;margin:0 0 .3rem;line-height:1.4">&ldquo;Da Ferrara alla conquista del mondo: Bilquis, la cagnolina di 3 anni che fa incetta di premi&rdquo;</h2>
@@ -108,7 +108,7 @@ custom_content: |
 
   
   <a class="rimando" href="/come-scegliere-allevamento-staffordshire-bull-terrier/">
-  <img src="/images/blog/cucciolata-erba.avif" alt="Cuccioli di Staffordshire Bull Terrier con la madre" width="88" height="88" loading="lazy" decoding="async">
+  <img src="/images/blog/cucciolata-erba.avif" alt="Cuccioli di Staffordshire Bull Terrier con la madre" width="88" height="64" loading="lazy" decoding="async">
   <span>
   <span class="ti">Come riconoscere un allevamento serio</span>
   <span class="de">Otto criteri e il modo di verificarli, su di noi come su chiunque altro.</span>
@@ -210,7 +210,7 @@ custom_content: |
 
   
   <a class="rimando" href="/femmine-staffordshire-bull-terrier/">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, fattrice Del Piccolo Diavolo" width="88" height="88" loading="lazy" decoding="async">
+  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, fattrice Del Piccolo Diavolo" width="88" height="116" loading="lazy" decoding="async">
   <span>
   <span class="ti">Le nostre femmine, una per una</span>
   <span class="de">Microchip, test genetici e pedigree: da lì verifichi genealogie e cucciolate.</span>
@@ -261,7 +261,7 @@ custom_content: |
   </div>
   
   <a class="rimando" href="/cuccioli-staffordshire-bull-terrier/">
-  <img src="/images/primo-piano-cucciolo.avif" alt="Cucciolo di Staffordshire Bull Terrier" width="88" height="88" loading="lazy" decoding="async">
+  <img src="/images/primo-piano-cucciolo.avif" alt="Cucciolo di Staffordshire Bull Terrier" width="88" height="83" loading="lazy" decoding="async">
   <span>
   <span class="ti">Come nasce e cresce una cucciolata</span>
   <span class="de">Dal calore al parto, e cosa succede nelle otto settimane successive.</span>
@@ -295,13 +295,6 @@ custom_content: |
   <div class="faq-answer">Tutti i riproduttori dell'allevamento Del Piccolo Diavolo sono testati per <strong>L2-HGA</strong>, l'aciduria L-2-idrossiglutarica, una malattia neurologica, e per <strong>HC</strong>, la cataratta ereditaria giovanile (gene HSF4). Le fattrici in attività sono testate anche per la <strong>mielopatia degenerativa</strong> (gene SOD1), una malattia del midollo spinale che compare dopo gli otto anni. Sono tutti test del DNA, e sono tutte malattie a trasmissione recessiva: due genitori esenti non possono produrre cuccioli malati. I portatori di L2-HGA e HC non entrano in riproduzione. I referti di laboratorio sono pubblicati su questo sito e scaricabili, con il <strong>numero di microchip del cane in chiaro</strong>: &egrave; quel numero a rendere il documento verificabile, perch&eacute; senza non sarebbe collegabile a nessun animale in particolare.</div>
   </div>
 
-  <div class="faq-item active">
-  <div class="faq-question" >
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Posso visitare l'allevamento?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
-  </div>
-  <div class="faq-answer">S&igrave;, ed &egrave; il modo giusto di conoscerci. L'allevamento Del Piccolo Diavolo riceve su appuntamento a Ostellato, in provincia di Ferrara, per dedicare tutto il tempo necessario senza stressare i cani. Durante la visita si vedono i cani adulti e la madre della cucciolata, il posto dove i cuccioli crescono, e si controllano di persona pedigree e referti dei test genetici. &Egrave; anche l'occasione in cui facciamo noi qualche domanda su come sar&agrave; la giornata del cane: non &egrave; un interrogatorio, &egrave; il modo per capire se quel cucciolo e quella famiglia stanno bene insieme. Ostellato dista circa un'ora da Bologna e da Ravenna, due da Verona e Padova.</div>
-  </div>
 
   </div>
 

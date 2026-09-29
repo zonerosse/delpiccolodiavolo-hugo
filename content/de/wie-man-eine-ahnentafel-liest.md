@@ -127,7 +127,7 @@ custom_content: |
   <p>Das ist keine Großzügigkeit: eine Zucht, die diese Daten veröffentlicht, lässt sich überprüfen, und eine, die es nicht tut, nicht.</p>
 
   <a class="rimando" href="/de/huendinnen-staffordshire-bull-terrier/">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Zuchthündin von Del Piccolo Diavolo" width="88" height="88" loading="lazy" decoding="async">
+  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Zuchthündin von Del Piccolo Diavolo" width="88" height="116" loading="lazy" decoding="async">
   <span>
   <span class="ti">Unsere Hündinnen, mit Mikrochip und Ahnentafel</span>
   <span class="de">Acht Seiten: von dort gelangen Sie zu den Abstammungen auf SBTPedigree und prüfen selbst.</span>

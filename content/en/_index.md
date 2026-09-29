@@ -65,9 +65,9 @@ custom_content: |
   <h2 class="section-title">Born and raised here, in Ostellato</h2>
 
   <div class="gallery-grid">
-  <div class="gallery-item"><img src="/images/foto1.avif" alt="Black Staffordshire Bull Terrier puppy held in a hand" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/foto2.avif" alt="Black Staffordshire Bull Terrier puppy a few weeks old" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/foto4.avif" alt="Staffordshire Bull Terrier puppy in arms, close up" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/foto1.avif" alt="Black Staffordshire Bull Terrier puppy held in a hand" loading="lazy" decoding="async" width="300" height="363"></div>
+  <div class="gallery-item"><img src="/images/foto2.avif" alt="Black Staffordshire Bull Terrier puppy a few weeks old" loading="lazy" decoding="async" width="300" height="391"></div>
+  <div class="gallery-item"><img src="/images/foto4.avif" alt="Staffordshire Bull Terrier puppy in arms, close up" loading="lazy" decoding="async" width="300" height="347"></div>
   </div>
 
   <p style="text-align:center;margin-top:1.5rem"><a class="btn" href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">How they are born and raised</a></p>
@@ -78,7 +78,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <div style="max-width:760px;margin:0 auto;display:grid;grid-template-columns:88px 1fr;gap:1.2rem;align-items:center;background:#fff;border:1px solid #e6ddd4;border-radius:10px;padding:1rem 1.2rem">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Italian Champion" width="88" height="88" loading="lazy" decoding="async" style="width:88px;height:88px;object-fit:cover;border-radius:8px">
+  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Italian Champion" width="88" height="116" loading="lazy" decoding="async" style="width:88px;height:88px;object-fit:cover;border-radius:8px">
   <div>
   <p style="font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:#8b5a2b;font-weight:700;margin:0 0 .25rem">In the press &middot; 6 January 2026</p>
   <h2 style="font-family:Georgia,'Times New Roman',serif;font-size:1.05rem;color:#5c4a3a;margin:0 0 .3rem;line-height:1.4">&ldquo;From Ferrara to conquer the world: Bilquis, the 3-year-old bitch collecting prizes&rdquo;</h2>
@@ -109,7 +109,7 @@ custom_content: |
 
 
   <a class="rimando" href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/">
-  <img src="/images/blog/cucciolata-erba.avif" alt="Staffordshire Bull Terrier puppies with their mother" width="88" height="88" loading="lazy" decoding="async">
+  <img src="/images/blog/cucciolata-erba.avif" alt="Staffordshire Bull Terrier puppies with their mother" width="88" height="64" loading="lazy" decoding="async">
   <span>
   <span class="ti">How to recognise a serious breeder</span>
   <span class="de">Eight criteria and how to check each one, on us as much as on anyone else.</span>
@@ -211,7 +211,7 @@ custom_content: |
 
 
   <a class="rimando" href="/en/females-staffordshire-bull-terrier/">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Del Piccolo Diavolo brood bitch" width="88" height="88" loading="lazy" decoding="async">
+  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Del Piccolo Diavolo brood bitch" width="88" height="116" loading="lazy" decoding="async">
   <span>
   <span class="ti">Our females, one by one</span>
   <span class="de">Microchip, genetic tests and pedigree: from there you verify ancestry and litters.</span>
@@ -262,7 +262,7 @@ custom_content: |
   </div>
 
   <a class="rimando" href="/en/puppies-staffordshire-bull-terrier/">
-  <img src="/images/primo-piano-cucciolo.avif" alt="Staffordshire Bull Terrier puppy" width="88" height="88" loading="lazy" decoding="async">
+  <img src="/images/primo-piano-cucciolo.avif" alt="Staffordshire Bull Terrier puppy" width="88" height="83" loading="lazy" decoding="async">
   <span>
   <span class="ti">How a litter is born and raised</span>
   <span class="de">From the season to the whelping, and what happens in the eight weeks that follow.</span>
@@ -296,13 +296,6 @@ custom_content: |
   <div class="faq-answer">All Del Piccolo Diavolo breeding dogs are tested for <strong>L2-HGA</strong>, L-2-hydroxyglutaric aciduria, a neurological disease, and for <strong>HC</strong>, juvenile hereditary cataract (HSF4 gene). The active brood bitches are also tested for <strong>degenerative myelopathy</strong> (SOD1 gene), a disease of the spinal cord that appears after eight years of age. They are all DNA tests, and all three diseases are recessive: two clear parents cannot produce affected puppies. Carriers of L2-HGA and HC are not bred. The laboratory reports are published on this site and can be downloaded, with the <strong>dog's microchip number in plain sight</strong>: that number is what makes the document verifiable, because without it it could not be linked to any particular animal.</div>
   </div>
 
-  <div class="faq-item active">
-  <div class="faq-question" >
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Can I visit the kennel?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
-  </div>
-  <div class="faq-answer">Yes, and it is the right way to get to know us. The Del Piccolo Diavolo kennel receives visitors by appointment in Ostellato, in the province of Ferrara, so as to give all the time needed without stressing the dogs. During the visit you see the adult dogs and the mother of the litter, the place where the puppies grow up, and you check pedigrees and genetic test reports in person. It is also the occasion when we ask a few questions about what the dog's day will look like: it is not an interrogation, it is the way to understand whether that puppy and that family are right for each other. Ostellato is about an hour from Bologna and Ravenna, two from Verona and Padua; the nearest airports are Bologna and Venice.</div>
-  </div>
 
   </div>
 

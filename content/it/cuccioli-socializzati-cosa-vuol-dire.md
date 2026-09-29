@@ -2,7 +2,7 @@
 title: "Cuccioli già socializzati: cosa vuol dire davvero"
 titleSeo: "Cuccioli socializzati: cosa vuol dire davvero"
 date: 2026-09-26
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "socializzazione-affido"
 articolo: true
 image: "/images/blog/socializzazione-cortile-hero.webp"
@@ -142,7 +142,7 @@ custom_content: |
   </ul>
 
   <a class="rimando" href="/cuccioli-staffordshire-bull-terrier/">
-  <img src="/images/primo-piano-cucciolo.avif" alt="Cucciolo di Staffordshire Bull Terrier" width="88" height="88" loading="lazy" decoding="async">
+  <img src="/images/primo-piano-cucciolo.avif" alt="Cucciolo di Staffordshire Bull Terrier" width="88" height="83" loading="lazy" decoding="async">
   <span>
   <span class="ti">Come nasce e cresce una cucciolata</span>
   <span class="de">Dal calore al parto, e cosa succede nelle settimane successive.</span>

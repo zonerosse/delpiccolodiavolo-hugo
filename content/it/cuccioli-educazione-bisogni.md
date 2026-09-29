@@ -14,7 +14,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/hero-default.webp" alt="Educazione bisogni cucciolo Staffordshire Bull Terrier" width="800" height="600" fetchpriority="high">
+  <img src="/images/blog/hero-default.webp" alt="Educazione bisogni cucciolo Staffordshire Bull Terrier" width="800" height="627" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

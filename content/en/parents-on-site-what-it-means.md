@@ -2,7 +2,7 @@
 title: "\"Parents on site\": what it really means"
 titleSeo: "\"Parents on site\": what it really means"
 date: 2026-09-26
-lastmod: 2026-09-27
+lastmod: 2026-09-29
 translationKey: "genitori-visibili"
 articolo: true
 image: "/images/blog/genitori-visibili-hero.webp"
@@ -111,7 +111,7 @@ custom_content: |
   <p>Anyone promising both parents on site is probably mating the dogs they happen to own. Anyone who explains why the sire lives in another country, and hands you the tools to check him, is doing something else.</p>
 
   <a class="rimando" href="/en/females-staffordshire-bull-terrier/">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, brood bitch at Del Piccolo Diavolo" width="88" height="88" loading="lazy" decoding="async">
+  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, brood bitch at Del Piccolo Diavolo" width="88" height="116" loading="lazy" decoding="async">
   <span>
   <span class="ti">Our females, one by one</span>
   <span class="de">Microchips, genetic tests and pedigrees: from there you reach the pedigree database and check for yourself.</span>

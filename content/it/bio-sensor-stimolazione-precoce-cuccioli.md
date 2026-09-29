@@ -2,7 +2,7 @@
 title: "Bio Sensor: cosa dice davvero la ricerca"
 date: 2026-09-09
 titleSeo: "Bio Sensor e stimolazione precoce: cosa dice la ricerca"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "biosensor"
 articolo: true
 image: "/images/blog/neonati-hero.webp"
@@ -14,7 +14,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/cuccioli-1.webp" alt="Cuccioli di Staffordshire Bull Terrier nelle prime settimane di vita" width="800" height="600" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
+  <img src="/images/blog/cuccioli-1.webp" alt="Cuccioli di Staffordshire Bull Terrier nelle prime settimane di vita" width="800" height="913" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
   </div>
   </div>
   <div class="hero-content">
@@ -103,7 +103,7 @@ custom_content: |
   <p>Le risposte a quelle tre domande dicono molto di pi&ugrave; di qualsiasi sigla.</p>
 
     <a class="rimando" href="/come-scegliere-allevamento-staffordshire-bull-terrier/">
-  <img src="/images/blog/cucciolata-erba.avif" alt="Cuccioli di Staffordshire Bull Terrier con la madre" width="88" height="88" loading="lazy" decoding="async">
+  <img src="/images/blog/cucciolata-erba.avif" alt="Cuccioli di Staffordshire Bull Terrier con la madre" width="88" height="64" loading="lazy" decoding="async">
   <span>
   <span class="ti">Come riconoscere un allevamento serio</span>
   <span class="de">Otto criteri e il modo di verificarli: sui documenti, non sulle parole.</span>

@@ -94,3 +94,11 @@ Every article (IT/EN/DE) has its own 1200x630 share card in `static/images/og/sc
 Colours: health `#27403a→#4f7566`, puppies `#6b3f1d→#b7793a`, family `#4a2c26→#9a5840`, standard/bloodlines and "know the breed" `#211d1a→#5c4a3a`.
 New article = add its slug, category and icon to `MAP` in `tools/schede-og/genera.py`, generate the cards for the three languages and set the front matter. Institutional pages (home, about, puppies, females, males, reviews, contact) keep `og-default.jpg`.
 
+## lastmod: who updates it
+
+Paolo does not run the pre-commit hook reliably (it needs `git config core.hooksPath .githooks` on each machine, and commits made on github.com skip it). So **Claude sets `lastmod` itself in every file it delivers** whose visible text changed, and before delivering runs `python3 tools/lastmod/aggiorna.py --scrivi` on a full clone to catch anything missed. The hook stays as a safety net, nothing depends on it.
+
+## Article schema image
+
+For articles with `og_image`, the Article JSON-LD `image` is the 1200x630 share card only (blog photos are too small for Google and often unrelated to the topic). Diary posts keep their litter photos.
+

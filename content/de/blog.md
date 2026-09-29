@@ -37,7 +37,7 @@ custom_content: |
   
   <div class="blog-grid">
   <article class="blog-card">
-  <a href="/de/staffy-gefaehrliche-rasse-gesetz/" title="Lesen: Ist der Staffy gefährlich?"><div class="blog-card-thumb"><img src="/images/blog/staffy-carattere-legge-hero.webp" alt="Ist der Staffordshire Bull Terrier gefährlich?" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/staffy-gefaehrliche-rasse-gesetz/" title="Lesen: Ist der Staffy gefährlich?"><div class="blog-card-thumb"><img src="/images/blog/staffy-carattere-legge-hero.webp" alt="Ist der Staffordshire Bull Terrier gefährlich?" loading="lazy" decoding="async" width="300" height="446"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Nov 2025</span><span>•</span><span class="cat">Gesetzgebung</span></div>
   <h3><a href="/de/staffy-gefaehrliche-rasse-gesetz/" title="Lesen: Ist der Staffy gefährlich?">Ist der Staffordshire Bull Terrier gefährlich? Die Wahrheit und das Gesetz</a></h3>
@@ -57,7 +57,7 @@ custom_content: |
   
   <div class="blog-grid">
   <article class="blog-card">
-  <a href="/de/welpen-entwurmung-kotuntersuchung/" title="Lesen: Entwurmung und Kotuntersuchung"><div class="blog-card-thumb"><img src="/images/blog/esame-feci-microscopio-hero.webp" alt="Entwurmung von Staffordshire Bull Terrier Welpen" loading="lazy" decoding="async" width="300" height="188" sizes="(max-width: 300px) 100vw, 300px"></div></a>
+  <a href="/de/welpen-entwurmung-kotuntersuchung/" title="Lesen: Entwurmung und Kotuntersuchung"><div class="blog-card-thumb"><img src="/images/blog/esame-feci-microscopio-hero.webp" alt="Entwurmung von Staffordshire Bull Terrier Welpen" loading="lazy" decoding="async" width="300" height="223" sizes="(max-width: 300px) 100vw, 300px"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">27. Sep 2026</span><span>&bull;</span><span class="cat">Welpen</span></div>
   <h3><a href="/de/welpen-entwurmung-kotuntersuchung/" title="Lesen: Entwurmung und Kotuntersuchung">Entwurmung: Plan und Kotuntersuchung</a></h3>
@@ -66,7 +66,7 @@ custom_content: |
   </div>
   </article>
   <article class="blog-card">
-  <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Lesen: Sozialisierte Welpen, was das wirklich heißt"><div class="blog-card-thumb"><img src="/images/blog/socializzazione-cortile-hero.webp" alt="Staffordshire Bull Terrier Welpe im Gras des Hofs" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Lesen: Sozialisierte Welpen, was das wirklich heißt"><div class="blog-card-thumb"><img src="/images/blog/socializzazione-cortile-hero.webp" alt="Staffordshire Bull Terrier Welpe im Gras des Hofs" loading="lazy" decoding="async" width="300" height="477"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">26 Sep 2026</span><span>&bull;</span><span class="cat">Welpen</span></div>
   <h3><a href="/de/sozialisierte-welpen-was-das-heisst/" title="Lesen: Sozialisierte Welpen, was das wirklich heißt">&bdquo;Bereits sozialisiert&ldquo;: was das wirklich hei&szlig;t</a></h3>
@@ -76,7 +76,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/de/eltern-vor-ort-was-das-bedeutet/" title="Lesen: Eltern vor Ort, was das wirklich bedeutet"><div class="blog-card-thumb"><img src="/images/blog/genitori-visibili-hero.webp" alt="Staffordshire Bull Terrier Hündin säugt ihren Wurf" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/eltern-vor-ort-was-das-bedeutet/" title="Lesen: Eltern vor Ort, was das wirklich bedeutet"><div class="blog-card-thumb"><img src="/images/blog/genitori-visibili-hero.webp" alt="Staffordshire Bull Terrier Hündin säugt ihren Wurf" loading="lazy" decoding="async" width="300" height="308"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">26 Sep 2026</span><span>&bull;</span><span class="cat">Welpen</span></div>
   <h3><a href="/de/eltern-vor-ort-was-das-bedeutet/" title="Lesen: Eltern vor Ort, was das wirklich bedeutet">&bdquo;Eltern vor Ort&ldquo;: was das wirklich bedeutet</a></h3>
@@ -86,7 +86,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Lesen: Was kostet ein Staffordshire Bull Terrier Welpe"><div class="blog-card-thumb"><img src="/images/blog/scontrino-farmaci-cucciolata.webp" alt="Apothekenbeleg für die Tierarzneimittel eines Wurfs" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Lesen: Was kostet ein Staffordshire Bull Terrier Welpe"><div class="blog-card-thumb"><img src="/images/blog/scontrino-farmaci-cucciolata.webp" alt="Apothekenbeleg für die Tierarzneimittel eines Wurfs" loading="lazy" decoding="async" width="300" height="316"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">25 Jan 2026</span><span>•</span><span class="cat">Welpen</span></div>
   <h3><a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Lesen: Was kostet ein Staffordshire Bull Terrier Welpe">Was kostet ein Staffordshire Bull Terrier Welpe</a></h3>
@@ -95,7 +95,7 @@ custom_content: |
   </div>
   </article>
   <article class="blog-card">
-  <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Lesen: Wie man eine seriöse Zucht erkennt"><div class="blog-card-thumb"><img src="/images/blog/cucciolata-erba.avif" alt="Staffordshire Bull Terrier Welpen im Gras einer seriösen Zucht" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Lesen: Wie man eine seriöse Zucht erkennt"><div class="blog-card-thumb"><img src="/images/blog/cucciolata-erba.avif" alt="Staffordshire Bull Terrier Welpen im Gras einer seriösen Zucht" loading="lazy" decoding="async" width="300" height="218"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Jan 2026</span><span>•</span><span class="cat">Welpen</span></div>
   <h3><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Lesen: Wie man eine seriöse Zucht erkennt">Wie man eine seriöse Zucht erkennt</a></h3>
@@ -105,7 +105,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Lesen: Bio Sensor, was die Forschung sagt"><div class="blog-card-thumb"><img src="/images/blog/neonati-hero.webp" alt="Staffordshire Bull Terrier Welpen in den ersten Lebenstagen" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Lesen: Bio Sensor, was die Forschung sagt"><div class="blog-card-thumb"><img src="/images/blog/neonati-hero.webp" alt="Staffordshire Bull Terrier Welpen in den ersten Lebenstagen" loading="lazy" decoding="async" width="300" height="238"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">8 Sep 2026</span><span>&bull;</span><span class="cat">Welpen</span></div>
   <h3><a href="/de/bio-sensor-fruehstimulation-welpen/" title="Lesen: Bio Sensor, was die Forschung sagt">Bio Sensor: was die Forschung wirklich sagt</a></h3>
@@ -115,7 +115,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/de/welpen-sozialisierung-zuhause/" title="Lesen: Welpen zu Hause sozialisieren"><div class="blog-card-thumb"><img src="/images/blog/cucciolo-in-mano-hero.webp" alt="Staffordshire Bull Terrier Welpen: sozialisierung zu Hause" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/welpen-sozialisierung-zuhause/" title="Lesen: Welpen zu Hause sozialisieren"><div class="blog-card-thumb"><img src="/images/blog/cucciolo-in-mano-hero.webp" alt="Staffordshire Bull Terrier Welpen: sozialisierung zu Hause" loading="lazy" decoding="async" width="300" height="351"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Mär 2025</span><span>•</span><span class="cat">Welpen</span></div>
   <h3><a href="/de/welpen-sozialisierung-zuhause/" title="Lesen: Welpen zu Hause sozialisieren">Welpen zu Hause sozialisieren: die Liste für die Familie</a></h3>
@@ -125,7 +125,7 @@ custom_content: |
   </article>
   
   <article class="blog-card">
-  <a href="/de/welpen-erste-impfungen/" title="Lesen: Erste Impfungen"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-2.webp" alt="Staffordshire Bull Terrier Welpen: erste Impfungen" loading="lazy" decoding="async" width="300" height="188" srcset="/images/blog/cuccioli-2-400w.webp 400w, /images/blog/cuccioli-2-800w.webp 800w, /images/blog/cuccioli-2.webp 1400w" sizes="(max-width: 300px) 100vw, 300px"></div></a>
+  <a href="/de/welpen-erste-impfungen/" title="Lesen: Erste Impfungen"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-2.webp" alt="Staffordshire Bull Terrier Welpen: erste Impfungen" loading="lazy" decoding="async" width="300" height="200" srcset="/images/blog/cuccioli-2-400w.webp 400w, /images/blog/cuccioli-2-800w.webp 800w, /images/blog/cuccioli-2.webp 1400w" sizes="(max-width: 300px) 100vw, 300px"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">10 Jun 2025</span><span>•</span><span class="cat">Welpen</span></div>
   <h3><a href="/de/welpen-erste-impfungen/" title="Lesen: Erste Impfungen">Erste Impfungen</a></h3>
@@ -135,7 +135,7 @@ custom_content: |
   </article>
   
   <article class="blog-card">
-  <a href="/de/welpen-erste-fuetterung/" title="Lesen: Erste Fütterung"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-4.webp" alt="Staffordshire Bull Terrier Welpen: erste Fütterung" loading="lazy" decoding="async" width="300" height="188" srcset="/images/blog/cuccioli-3-400w.webp 400w, /images/blog/cuccioli-3-800w.webp 800w, /images/blog/cuccioli-3.webp 1280w" sizes="(max-width: 300px) 100vw, 300px"></div></a>
+  <a href="/de/welpen-erste-fuetterung/" title="Lesen: Erste Fütterung"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-4.webp" alt="Staffordshire Bull Terrier Welpen: erste Fütterung" loading="lazy" decoding="async" width="300" height="175" srcset="/images/blog/cuccioli-3-400w.webp 400w, /images/blog/cuccioli-3-800w.webp 800w, /images/blog/cuccioli-3.webp 1280w" sizes="(max-width: 300px) 100vw, 300px"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">15 Apr 2025</span><span>•</span><span class="cat">Welpen</span></div>
   <h3><a href="/de/welpen-erste-fuetterung/" title="Lesen: Erste Fütterung">Erste Fütterung</a></h3>
@@ -145,7 +145,7 @@ custom_content: |
   </article>
   
   <article class="blog-card">
-  <a href="/de/welpen-stubenreinheit/" title="Lesen: Stubenreinheit"><div class="blog-card-thumb"><img src="/images/blog/cucciolo-ritratto-hero.webp" alt="Staffordshire Bull Terrier Welpe beim Stubenreinheitstraining" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/welpen-stubenreinheit/" title="Lesen: Stubenreinheit"><div class="blog-card-thumb"><img src="/images/blog/cucciolo-ritratto-hero.webp" alt="Staffordshire Bull Terrier Welpe beim Stubenreinheitstraining" loading="lazy" decoding="async" width="300" height="300"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">22 Mai 2025</span><span>•</span><span class="cat">Welpen</span></div>
   <h3><a href="/de/welpen-stubenreinheit/" title="Lesen: Stubenreinheit">Stubenreinheit</a></h3>
@@ -155,7 +155,7 @@ custom_content: |
   </article>
   
   <article class="blog-card">
-  <a href="/de/welpen-allein-bleiben/" title="Lesen: Allein bleiben lernen"><div class="blog-card-thumb"><img src="/images/blog/neonati-2-hero.webp" alt="Staffordshire Bull Terrier Welpen: allein bleiben lernen" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/welpen-allein-bleiben/" title="Lesen: Allein bleiben lernen"><div class="blog-card-thumb"><img src="/images/blog/neonati-2-hero.webp" alt="Staffordshire Bull Terrier Welpen: allein bleiben lernen" loading="lazy" decoding="async" width="300" height="232"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">8 Jul 2025</span><span>•</span><span class="cat">Welpen</span></div>
   <h3><a href="/de/welpen-allein-bleiben/" title="Lesen: Allein bleiben lernen">Allein bleiben lernen</a></h3>
@@ -165,7 +165,7 @@ custom_content: |
   </article>
   
   <article class="blog-card">
-  <a href="/de/welpen-denkspiele/" title="Lesen: Denkspiele für Welpen"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-6.webp" alt="Staffordshire Bull Terrier Welpen: denkspiele für Welpen" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/welpen-denkspiele/" title="Lesen: Denkspiele für Welpen"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-6.webp" alt="Staffordshire Bull Terrier Welpen: denkspiele für Welpen" loading="lazy" decoding="async" width="300" height="200"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">3 Aug 2025</span><span>•</span><span class="cat">Welpen</span></div>
   <h3><a href="/de/welpen-denkspiele/" title="Lesen: Denkspiele für Welpen">Denkspiele für Welpen</a></h3>
@@ -175,7 +175,7 @@ custom_content: |
   </article>
   
   <article class="blog-card">
-  <a href="/de/welpen-erster-spaziergang/" title="Lesen: Erster Spaziergang an der Leine"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-7.webp" alt="Staffordshire Bull Terrier Welpen: erster Spaziergang an der Leine" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/welpen-erster-spaziergang/" title="Lesen: Erster Spaziergang an der Leine"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-7.webp" alt="Staffordshire Bull Terrier Welpen: erster Spaziergang an der Leine" loading="lazy" decoding="async" width="300" height="200"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">17 Sep 2025</span><span>•</span><span class="cat">Welpen</span></div>
   <h3><a href="/de/welpen-erster-spaziergang/" title="Lesen: Erster Spaziergang an der Leine">Erster Spaziergang an der Leine</a></h3>
@@ -196,7 +196,7 @@ custom_content: |
   
   <div class="blog-grid">
   <article class="blog-card">
-  <a href="/de/wie-man-eine-ahnentafel-liest/" title="Lesen: Wie man eine Ahnentafel liest"><div class="blog-card-thumb"><img src="/images/blog/pedigree-queen-hero.webp" alt="Queen of California auf einer Ausstellung" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/wie-man-eine-ahnentafel-liest/" title="Lesen: Wie man eine Ahnentafel liest"><div class="blog-card-thumb"><img src="/images/blog/pedigree-queen-hero.webp" alt="Queen of California auf einer Ausstellung" loading="lazy" decoding="async" width="300" height="200"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">9 Sep 2026</span><span>&bull;</span><span class="cat">Rassestandard</span></div>
   <h3><a href="/de/wie-man-eine-ahnentafel-liest/" title="Lesen: Wie man eine Ahnentafel liest">Wie man eine Ahnentafel liest</a></h3>
@@ -205,7 +205,7 @@ custom_content: |
   </div>
   </article>
   <article class="blog-card">
-  <a href="/de/staffy-oder-amstaff-welche-rasse-passt-zu-ihnen/" title="Lesen: Staffy oder Amstaff, der Test des Züchters"><div class="blog-card-thumb"><img src="/images/blog/staffy-amstaff-hero.webp" alt="Staffordshire Bull Terrier im Vergleich mit dem American Staffordshire Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/staffy-oder-amstaff-welche-rasse-passt-zu-ihnen/" title="Lesen: Staffy oder Amstaff, der Test des Züchters"><div class="blog-card-thumb"><img src="/images/blog/staffy-amstaff-hero.webp" alt="Staffordshire Bull Terrier im Vergleich mit dem American Staffordshire Terrier" loading="lazy" decoding="async" width="300" height="286"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Jan 2026</span><span>•</span><span class="cat">Rassestandard</span></div>
   <h3><a href="/de/staffy-oder-amstaff-welche-rasse-passt-zu-ihnen/" title="Lesen: Staffy oder Amstaff, der Test des Züchters">Staffy oder Amstaff: der Test des Züchters</a></h3>
@@ -214,7 +214,7 @@ custom_content: |
   </div>
   </article>
   <article class="blog-card">
-  <a href="/de/staffordshire-bull-terrier-wesen/" title="Lesen: Das Wesen des Staffordshire Bull Terrier"><div class="blog-card-thumb"><img src="/images/blog/temperamento-staffy-hero.webp" alt="Staffordshire Bull Terrier mit der Familie: das Wesen der Rasse" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/staffordshire-bull-terrier-wesen/" title="Lesen: Das Wesen des Staffordshire Bull Terrier"><div class="blog-card-thumb"><img src="/images/blog/temperamento-staffy-hero.webp" alt="Staffordshire Bull Terrier mit der Familie: das Wesen der Rasse" loading="lazy" decoding="async" width="300" height="346"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Jan 2026</span><span>•</span><span class="cat">Rassestandard</span></div>
   <h3><a href="/de/staffordshire-bull-terrier-wesen/" title="Lesen: Das Wesen des Staffordshire Bull Terrier">Das Wesen des Staffordshire Bull Terrier</a></h3>
@@ -224,7 +224,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/de/staffy-pitbull-amstaff-unterschied/" title="Lesen: Unterschied Staffy Pitbull Amstaff"><div class="blog-card-thumb"><img src="/images/blog/differenza-razze-hero.webp" alt="Unterschied Staffy Pitbull Amstaff" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/staffy-pitbull-amstaff-unterschied/" title="Lesen: Unterschied Staffy Pitbull Amstaff"><div class="blog-card-thumb"><img src="/images/blog/differenza-razze-hero.webp" alt="Unterschied Staffy Pitbull Amstaff" loading="lazy" decoding="async" width="300" height="384"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">19 Nov 2025</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/de/staffy-pitbull-amstaff-unterschied/" title="Lesen: Unterschied Staffy Pitbull Amstaff">Unterschied zwischen Staffordshire Bull Terrier, Pitbull und Amstaff</a></h3>
@@ -234,7 +234,7 @@ custom_content: |
   </article>
   
   <article class="blog-card">
-  <a href="/de/staffy-blutlinien-guide/" title="Lesen: Staffy Blutlinien"><div class="blog-card-thumb"><img src="/images/blog/linee-sangue-hero.webp" alt="Staffordshire Bull Terrier Blutlinien" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/staffy-blutlinien-guide/" title="Lesen: Staffy Blutlinien"><div class="blog-card-thumb"><img src="/images/blog/linee-sangue-hero.webp" alt="Staffordshire Bull Terrier Blutlinien" loading="lazy" decoding="async" width="300" height="400"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">8 Nov 2025</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/de/staffy-blutlinien-guide/" title="Lesen: Staffy Blutlinien">Staffordshire Bull Terrier Blutlinien</a></h3>
@@ -244,7 +244,7 @@ custom_content: |
   </article>
   
   <article class="blog-card">
-  <a href="/de/staffy-rassestandard/" title="Lesen: Rassetyp und Morphologie"><div class="blog-card-thumb"><img src="/images/blog/standard-1.webp" alt="Rassestandard des Staffordshire Bull Terrier: rassetyp und Morphologie" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/staffy-rassestandard/" title="Lesen: Rassetyp und Morphologie"><div class="blog-card-thumb"><img src="/images/blog/standard-1.webp" alt="Rassestandard des Staffordshire Bull Terrier: rassetyp und Morphologie" loading="lazy" decoding="async" width="300" height="200"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">12 Feb 2025</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/de/staffy-rassestandard/" title="Lesen: Rassetyp und Morphologie">Rassetyp und Morphologie</a></h3>
@@ -254,7 +254,7 @@ custom_content: |
   </article>
   
   <article class="blog-card">
-  <a href="/de/blutlinien-waehlen/" title="Lesen: Wie man sich bei Blutlinien orientiert"><div class="blog-card-thumb"><img src="/images/blog/standard-2.webp" alt="Rassestandard des Staffordshire Bull Terrier: wie man sich bei Blutlinien orientiert" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/blutlinien-waehlen/" title="Lesen: Wie man sich bei Blutlinien orientiert"><div class="blog-card-thumb"><img src="/images/blog/standard-2.webp" alt="Rassestandard des Staffordshire Bull Terrier: wie man sich bei Blutlinien orientiert" loading="lazy" decoding="async" width="300" height="273"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">5 Mär 2025</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/de/blutlinien-waehlen/" title="Lesen: Wie man sich bei Blutlinien orientiert">Blutlinien: Wie man sich orientiert</a></h3>
@@ -264,7 +264,7 @@ custom_content: |
   </article>
   
   <article class="blog-card">
-  <a href="/de/staffordshire-bull-terrier-farben/" title="Lesen: Farben des Staffordshire Bull Terrier"><div class="blog-card-thumb"><img src="/images/blog/colori-staffy-hero.webp" alt="Farben des Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/staffordshire-bull-terrier-farben/" title="Lesen: Farben des Staffordshire Bull Terrier"><div class="blog-card-thumb"><img src="/images/blog/colori-staffy-hero.webp" alt="Farben des Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="333"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">Aug 2026</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/de/staffordshire-bull-terrier-farben/" title="Lesen: Farben des Staffordshire Bull Terrier">Farben des Staffordshire Bull Terrier</a></h3>
@@ -284,7 +284,7 @@ custom_content: |
   
   <div class="blog-grid">
   <article class="blog-card">
-  <a href="/de/boas-staffordshire-bull-terrier-atmung/" title="Lesen: BOAS und Atmung"><div class="blog-card-thumb"><img src="/images/blog/boas-respirazione.webp" alt="BOAS Brachyzephales Syndrom Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/boas-staffordshire-bull-terrier-atmung/" title="Lesen: BOAS und Atmung"><div class="blog-card-thumb"><img src="/images/blog/boas-respirazione.webp" alt="BOAS Brachyzephales Syndrom Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="168"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">28 Dez 2025</span><span>•</span><span class="cat">Gesundheit</span></div>
   <h3><a href="/de/boas-staffordshire-bull-terrier-atmung/" title="Lesen: BOAS und Atmung">BOAS: Warum Atmung wichtig ist</a></h3>
@@ -294,7 +294,7 @@ custom_content: |
   </article>
   
   <article class="blog-card">
-  <a href="/de/staffy-gentests-l2hga-hc/" title="Lesen: L2HGA und HC Gentests"><div class="blog-card-thumb"><img src="/images/blog/salute-1.webp" alt="Staffordshire Bull Terrier: l2HGA und HC Gentests" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/staffy-gentests-l2hga-hc/" title="Lesen: L2HGA und HC Gentests"><div class="blog-card-thumb"><img src="/images/blog/salute-1.webp" alt="Staffordshire Bull Terrier: l2HGA und HC Gentests" loading="lazy" decoding="async" width="300" height="169"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">20 Nov 2025</span><span>•</span><span class="cat">Gesundheit</span></div>
   <h3><a href="/de/staffy-gentests-l2hga-hc/" title="Lesen: L2HGA und HC Gentests">L2HGA und HC Gentests: Kompletter Ratgeber</a></h3>
@@ -304,7 +304,7 @@ custom_content: |
   </article>
   
   <article class="blog-card">
-  <a href="/de/staffy-parasitenvorbeugung/" title="Lesen: Parasitenvorbeugung und -kontrolle"><div class="blog-card-thumb"><img src="/images/blog/salute-3.webp" alt="Gesundheitsvorsorge beim Staffordshire Bull Terrier: parasitenvorbeugung und -kontrolle" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/staffy-parasitenvorbeugung/" title="Lesen: Parasitenvorbeugung und -kontrolle"><div class="blog-card-thumb"><img src="/images/blog/salute-3.webp" alt="Gesundheitsvorsorge beim Staffordshire Bull Terrier: parasitenvorbeugung und -kontrolle" loading="lazy" decoding="async" width="300" height="237"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">20 Jan 2025</span><span>•</span><span class="cat">Gesundheit</span></div>
   <h3><a href="/de/staffy-parasitenvorbeugung/" title="Lesen: Parasitenvorbeugung und -kontrolle">Parasiten: Vorbeugung und Kontrolle</a></h3>
@@ -314,7 +314,7 @@ custom_content: |
   </article>
   
   <article class="blog-card">
-  <a href="/de/staffy-zahnpflege/" title="Lesen: Mundhygiene und Zähne"><div class="blog-card-thumb"><img src="/images/blog/salute-2.webp" alt="Gesundheitsvorsorge beim Staffordshire Bull Terrier: mundhygiene und Zähne" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/staffy-zahnpflege/" title="Lesen: Mundhygiene und Zähne"><div class="blog-card-thumb"><img src="/images/blog/salute-2.webp" alt="Gesundheitsvorsorge beim Staffordshire Bull Terrier: mundhygiene und Zähne" loading="lazy" decoding="async" width="300" height="225"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">14 Apr 2025</span><span>•</span><span class="cat">Gesundheit</span></div>
   <h3><a href="/de/staffy-zahnpflege/" title="Lesen: Mundhygiene und Zähne">Mundhygiene und Zähne</a></h3>
@@ -324,7 +324,7 @@ custom_content: |
   </article>
   
   <article class="blog-card">
-  <a href="/de/staffy-sichere-bewegung/" title="Lesen: Sichere Bewegung"><div class="blog-card-thumb"><img src="/images/blog/esercizio-hero.webp" alt="Gesundheitsvorsorge beim Staffordshire Bull Terrier: sichere Bewegung" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/staffy-sichere-bewegung/" title="Lesen: Sichere Bewegung"><div class="blog-card-thumb"><img src="/images/blog/esercizio-hero.webp" alt="Gesundheitsvorsorge beim Staffordshire Bull Terrier: sichere Bewegung" loading="lazy" decoding="async" width="300" height="286"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">28 Jun 2025</span><span>•</span><span class="cat">Gesundheit</span></div>
   <h3><a href="/de/staffy-sichere-bewegung/" title="Lesen: Sichere Bewegung">Sichere Bewegung</a></h3>
@@ -344,7 +344,7 @@ custom_content: |
   
   <div class="blog-grid">
   <article class="blog-card">
-  <a href="/de/staffordshire-in-der-familie-geschichten/" title="Lesen: Staffordshire Bull Terrier in der Familie: wo unsere Hunde heute sind"><div class="blog-card-thumb"><img src="/images/blog/storie-famiglie-hero.webp" alt="Assan, schwarzer Staffordshire Bull Terrier, mit Roberta" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/staffordshire-in-der-familie-geschichten/" title="Lesen: Staffordshire Bull Terrier in der Familie: wo unsere Hunde heute sind"><div class="blog-card-thumb"><img src="/images/blog/storie-famiglie-hero.webp" alt="Assan, schwarzer Staffordshire Bull Terrier, mit Roberta" loading="lazy" decoding="async" width="300" height="396"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">27. Sep 2026</span><span>&bull;</span><span class="cat">Familie</span></div>
   <h3><a href="/de/staffordshire-in-der-familie-geschichten/" title="Lesen: Staffordshire Bull Terrier in der Familie: wo unsere Hunde heute sind">Staffordshire Bull Terrier in der Familie: wo unsere Hunde heute sind</a></h3>
@@ -354,7 +354,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/de/staffy-kinder-familie/" title="Lesen: Zusammenleben mit Kindern"><div class="blog-card-thumb"><img src="/images/blog/famiglia-1.webp" alt="Staffordshire Bull Terrier in der Familie: zusammenleben mit Kindern" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/staffy-kinder-familie/" title="Lesen: Zusammenleben mit Kindern"><div class="blog-card-thumb"><img src="/images/blog/famiglia-1.webp" alt="Staffordshire Bull Terrier in der Familie: zusammenleben mit Kindern" loading="lazy" decoding="async" width="300" height="180"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">7 Feb 2025</span><span>•</span><span class="cat">Familie</span></div>
   <h3><a href="/de/staffy-kinder-familie/" title="Lesen: Zusammenleben mit Kindern">Zusammenleben mit Kindern</a></h3>
@@ -374,7 +374,7 @@ custom_content: |
   </article>
   
   <article class="blog-card">
-  <a href="/de/staffy-andere-haustiere/" title="Lesen: Zusammenleben mit anderen Tieren"><div class="blog-card-thumb"><img src="/images/blog/famiglia-3.webp" alt="Staffordshire Bull Terrier in der Familie: zusammenleben mit anderen Tieren" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/staffy-andere-haustiere/" title="Lesen: Zusammenleben mit anderen Tieren"><div class="blog-card-thumb"><img src="/images/blog/famiglia-3.webp" alt="Staffordshire Bull Terrier in der Familie: zusammenleben mit anderen Tieren" loading="lazy" decoding="async" width="300" height="200"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">11 Aug 2025</span><span>•</span><span class="cat">Familie</span></div>
   <h3><a href="/de/staffy-andere-haustiere/" title="Lesen: Zusammenleben mit anderen Tieren">Zusammenleben mit anderen Tieren</a></h3>
@@ -384,7 +384,7 @@ custom_content: |
   </article>
   
   <article class="blog-card">
-  <a href="/de/staffy-reisen-transport/" title="Lesen: Reisen und Transport"><div class="blog-card-thumb"><img src="/images/blog/famiglia-4.webp" alt="Staffordshire Bull Terrier in der Familie: reisen und Transport" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/staffy-reisen-transport/" title="Lesen: Reisen und Transport"><div class="blog-card-thumb"><img src="/images/blog/famiglia-4.webp" alt="Staffordshire Bull Terrier in der Familie: reisen und Transport" loading="lazy" decoding="async" width="300" height="200"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">2 Nov 2025</span><span>•</span><span class="cat">Familie</span></div>
   <h3><a href="/de/staffy-reisen-transport/" title="Lesen: Reisen und Transport">Reisen und Transport</a></h3>
@@ -394,7 +394,7 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/de/staffordshire-bull-terrier-charakter-familienleben/" title="Lesen: Charakter und Familienleben"><div class="blog-card-thumb"><img src="/images/cucciolo-con-cavallo.avif" alt="Staffordshire Bull Terrier Charakter und Familienleben" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/staffordshire-bull-terrier-charakter-familienleben/" title="Lesen: Charakter und Familienleben"><div class="blog-card-thumb"><img src="/images/cucciolo-con-cavallo.avif" alt="Staffordshire Bull Terrier Charakter und Familienleben" loading="lazy" decoding="async" width="300" height="367"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">28 Apr 2026</span><span>•</span><span class="cat">Familie</span></div>
   <h3><a href="/de/staffordshire-bull-terrier-charakter-familienleben/" title="Lesen: Charakter und Familienleben">Staffordshire Bull Terrier: Charakter, Familienleben und Was Sie Erwarten Können</a></h3>
@@ -404,7 +404,7 @@ custom_content: |
   </article>
   
   <article class="blog-card">
-  <a href="/de/ist-der-staffordshire-bull-terrier-der-richtige-hund/" title="Lesen: Ist der Staffy der richtige Hund?"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-8.webp" alt="Ist der Staffordshire Bull Terrier der richtige Hund" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/ist-der-staffordshire-bull-terrier-der-richtige-hund/" title="Lesen: Ist der Staffy der richtige Hund?"><div class="blog-card-thumb"><img src="/images/blog/cuccioli-8.webp" alt="Ist der Staffordshire Bull Terrier der richtige Hund" loading="lazy" decoding="async" width="300" height="200"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">Aug 2026</span><span>•</span><span class="cat">Familie</span></div>
   <h3><a href="/de/ist-der-staffordshire-bull-terrier-der-richtige-hund/" title="Lesen: Ist der Staffy der richtige Hund?">Ist der Staffordshire Bull Terrier der richtige Hund?</a></h3>

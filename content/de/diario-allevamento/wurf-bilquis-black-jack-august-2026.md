@@ -6,11 +6,16 @@ titleSeo: "Wurf Bilquis × Black Jack, August 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
 description: "Geboren am 1. August 2026: 8 Staffordshire Bull Terrier Welpen von Bilquis Goddess Diabhal, Italienische Championin ENCI. Nicht verfügbar."
 video:
-  id: "rm1fY0_P6I8"
-  nome: "Staffordshire Bull Terrier Welpe mit 30 Tagen"
-  descrizione: "Eine Welpin aus dem Wurf Bilquis x Black Jack mit dreissig Tagen, im Haus, in der Zucht Del Piccolo Diavolo in Ostellato (Italien)."
-  durata: "PT16S"
-  caricato: "2026-09-04T00:00:00+02:00"
+  - id: "rm1fY0_P6I8"
+    nome: "Staffordshire Bull Terrier Welpe mit 30 Tagen"
+    descrizione: "Eine Welpin aus dem Wurf Bilquis x Black Jack mit dreissig Tagen, im Haus, in der Zucht Del Piccolo Diavolo in Ostellato (Italien)."
+    durata: "PT16S"
+    caricato: "2026-09-04T00:00:00+02:00"
+  - id: "cVyPQbi2I1A"
+    nome: "Staffordshire Bull Terrier Welpe mit 55 Tagen"
+    descrizione: "Eine Hündin aus dem Wurf Bilquis x Black Jack mit 55 Tagen, die Ohren noch in Bewegung, in der Zucht Del Piccolo Diavolo in Ostellato (Italien)."
+    durata: "PT6S"
+    caricato: "2026-09-26T00:00:00+02:00"
 slug: "wurf-bilquis-black-jack-august-2026"
 date: 2026-08-01
 image: "/images/cuccioli-bilquis-nati-1.webp"
@@ -48,12 +53,24 @@ Am 31. August sind die Welpen einen Monat alt geworden. Die Augen sind seit Woch
 
 Die Welpen wachsen bei uns im Haus auf. Das italienische Recht verbietet die Abgabe vor sechzig Tagen: hier bleiben sie bis zu siebzig Tage bei der Mutter.
 
+## Mit fünfundfünfzig Tagen
+
+Mit fünfundfünfzig Tagen sind die Ohren mitten in der Ausformung: Sie stellen sich auf, fallen wieder und ändern fast täglich ihre Stellung, und das endgültige Rosenohr eines erwachsenen Staffordshire Bull Terrier zeigt sich erst Monate später. Es ist auch die Zeit, in der die Welpen in den sonnigen Stunden in den Außenbereich gehen und abwechselnd, zu zweit, ins Haus zurückkommen.
+
+<div style="max-width:340px;margin:1.75rem auto;border-radius:14px;overflow:hidden;box-shadow:0 8px 25px rgba(0,0,0,.12)">
+<div style="position:relative;padding-bottom:152.2%;height:0;background:#e6ddd4">
+<iframe src="https://www.youtube-nocookie.com/embed/cVyPQbi2I1A" title="Staffordshire Bull Terrier Welpe mit 55 Tagen – Wurf Bilquis × Black Jack" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe>
+</div>
+</div>
+
+<p style="font-size:.85rem;color:#7a6a58;text-align:center">Eine Hündin aus diesem Wurf mit fünfundfünfzig Tagen, die Ohren noch in Bewegung.</p>
+
 ## Die Eltern
 
 <div class="pair">
   <div class="dog">
     <span class="dog-name">Black Jack Di Casa Giacalone</span>
-    <img src="/images/jack1.jpg" alt="Black Jack Di Casa Giacalone - Schwarzer Staffordshire Bull Terrier Deckrüde" width="250" height="333" loading="lazy" decoding="async">
+    <img src="/images/jack1.jpg" alt="Black Jack Di Casa Giacalone - Schwarzer Staffordshire Bull Terrier Deckrüde" width="250" height="399" loading="lazy" decoding="async">
     <ul>
       <li>Farbe: Schwarz</li>
       <li>L2HGA: <strong>Free by parents</strong> (Eltern Clear)</li>

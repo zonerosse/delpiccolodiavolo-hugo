@@ -65,7 +65,7 @@ All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente a
 <div class="pair">
   <div class="dog">
     <span class="dog-name">Black Jack Di Casa Giacalone</span>
-    <img src="/images/jack1.jpg" alt="Black Jack Di Casa Giacalone - Riproduttore Staffordshire Bull Terrier nero" width="250" height="333" loading="lazy" decoding="async">
+    <img src="/images/jack1.jpg" alt="Black Jack Di Casa Giacalone - Riproduttore Staffordshire Bull Terrier nero" width="250" height="399" loading="lazy" decoding="async">
     <ul>
       <li>Colore: Nero</li>
       <li>L2HGA: <strong>Free by parents</strong> (genitori Clear)</li>

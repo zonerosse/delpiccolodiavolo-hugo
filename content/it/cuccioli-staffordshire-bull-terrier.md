@@ -68,9 +68,9 @@ custom_content: |
   <h2 class="section-title">Cuccioli di Staffordshire Bull Terrier allevati in famiglia</h2>
 
   <div class="gallery-grid">
-  <div class="gallery-item"><img src="/images/primo-piano-cucciolo.avif" alt="Cucciolo Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/cucciolo-con-cavallo.avif" alt="Cucciolo Staffordshire Bull Terrier in posa" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/foto4.avif" alt="Cucciolo di Staffordshire Bull Terrier in braccio" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/primo-piano-cucciolo.avif" alt="Cucciolo Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="282"></div>
+  <div class="gallery-item"><img src="/images/cucciolo-con-cavallo.avif" alt="Cucciolo Staffordshire Bull Terrier in posa" loading="lazy" decoding="async" width="300" height="367"></div>
+  <div class="gallery-item"><img src="/images/foto4.avif" alt="Cucciolo di Staffordshire Bull Terrier in braccio" loading="lazy" decoding="async" width="300" height="347"></div>
   </div>
   </div>
   </section>
@@ -84,7 +84,7 @@ custom_content: |
   <p>La socializzazione è il processo più importante nei primi mesi di vita di un cucciolo. I cuccioli nascono in casa, nella cassa parto, e ci restano circa un mese: &egrave; la fase in cui la madre fa tutto e il contatto umano conta pi&ugrave; di ogni altra cosa. Chi &egrave; venuto a vederli prima dei trenta giorni li ha visti l&igrave;. Verso il mese passano in un box dedicato con accesso all'esterno, per una ragione pratica che chiunque abbia avuto una cucciolata conosce: a quell'et&agrave; sporcano in una misura che una casa abitata non regge. Da l&igrave; in avanti tornano dentro a turno, due per volta e per qualche ora, cos&igrave; che ognuno faccia la sua parte di casa: famiglia, rumori domestici, altri cani e persone diverse. Ogni cucciolata nata qui, con genitori, test, esami e foto della crescita, è raccontata nel <a href="/diario-allevamento/" title="Diario dell'allevamento">diario dell'allevamento</a>.</p>
 
     <a class="rimando" href="/bio-sensor-stimolazione-precoce-cuccioli/">
-  <img src="/images/blog/cuccioli-1.webp" alt="Cuccioli di Staffordshire Bull Terrier nei primi giorni" width="88" height="88" loading="lazy" decoding="async">
+  <img src="/images/blog/cuccioli-1.webp" alt="Cuccioli di Staffordshire Bull Terrier nei primi giorni" width="88" height="100" loading="lazy" decoding="async">
   <span>
   <span class="ti">Bio Sensor: cosa dice davvero la ricerca</span>
   <span class="de">Il metodo ENS, le prove che mancano, e cosa conta davvero nelle prime otto settimane.</span>

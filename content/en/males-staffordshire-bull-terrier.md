@@ -99,7 +99,7 @@ custom_content: |
   </div>
   <div class="male-content">
   <div class="male-image">
-  <img src="/images/maschio-braveheart.webp" alt="Braveheart del Piccolo Diavolo — Staffordshire Bull Terrier" width="350" height="467" loading="lazy" decoding="async">
+  <img src="/images/maschio-braveheart.webp" alt="Braveheart del Piccolo Diavolo — Staffordshire Bull Terrier" width="350" height="350" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
   <p><strong>Genetic Tests:</strong> L2HGA & HC (HSF4) clear by DNA</p>
@@ -118,7 +118,7 @@ custom_content: |
   </div>
   <div class="male-content">
   <div class="male-image">
-  <img src="/images/maschio-papillon.webp" alt="Papillon del Piccolo Diavolo — Staffordshire Bull Terrier" width="350" height="467" loading="lazy" decoding="async">
+  <img src="/images/maschio-papillon.webp" alt="Papillon del Piccolo Diavolo — Staffordshire Bull Terrier" width="350" height="438" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
   <p><strong>Genetic Tests:</strong> L2HGA & HC (HSF4) clear by DNA</p>

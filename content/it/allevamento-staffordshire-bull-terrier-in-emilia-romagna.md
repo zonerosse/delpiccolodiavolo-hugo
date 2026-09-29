@@ -170,7 +170,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <div class="story-block">
-  <img src="/images/cucciolo-rosso.webp" alt="Cucciolo Staffordshire Bull Terrier" class="story-img" width="350" height="350" loading="lazy" decoding="async">
+  <img src="/images/cucciolo-rosso.webp" alt="Cucciolo Staffordshire Bull Terrier" class="story-img" width="350" height="400" loading="lazy" decoding="async">
   <div class="story-text">
   <h3>Perché Venire di Persona</h3>
   <p>Uno Staffordshire Bull Terrier vi accompagnerà per 12-15 anni. È una scelta importante che merita una visita di persona.</p>
@@ -207,10 +207,6 @@ custom_content: |
   <p>Solo voi stessi e le vostre domande! Vi mostreremo tutto: genitori, cuccioli (se disponibili), certificati, pedigree e l'ambiente in cui vivono.</p>
   </div>
 
-  <div class="faq-item">
-  <h3>Quanto costa un cucciolo Staffordshire Bull Terrier?</h3>
-  <p>I cuccioli dell'allevamento Del Piccolo Diavolo con <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="Scheda di razza ENCI" target="_blank" rel="noopener" aria-label="Scheda di razza ENCI (si apre in una nuova scheda)">pedigree ENCI</a> e test genetici completi hanno un prezzo che comunichiamo direttamente, dopo una prima chiacchierata. Per tutti i dettagli leggi <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p>
-  </div>
   </div>
 
   <div style="text-align:center;margin-top:1.5rem">

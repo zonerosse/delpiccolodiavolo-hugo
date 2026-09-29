@@ -2,7 +2,7 @@
 title: "Come si legge un pedigree: ENCI e SBTPedigree"
 titleSeo: "Come si legge un pedigree: cosa dice l'ENCI e cosa no"
 date: 2026-09-09
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "leggere-pedigree"
 articolo: true
 image: "/images/blog/pedigree-queen-hero.webp"
@@ -127,7 +127,7 @@ custom_content: |
   <p>Non &egrave; generosit&agrave;: &egrave; che un allevamento che pubblica quei dati si pu&ograve; controllare, e uno che non li pubblica no.</p>
 
   <a class="rimando" href="/femmine-staffordshire-bull-terrier/">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, fattrice Del Piccolo Diavolo" width="88" height="88" loading="lazy" decoding="async">
+  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, fattrice Del Piccolo Diavolo" width="88" height="116" loading="lazy" decoding="async">
   <span>
   <span class="ti">Le nostre femmine, con microchip e pedigree</span>
   <span class="de">Otto schede: da l&igrave; arrivi alle genealogie su SBTPedigree e verifichi da solo.</span>

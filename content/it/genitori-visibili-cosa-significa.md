@@ -2,7 +2,7 @@
 title: "Genitori visibili: cosa significa davvero"
 titleSeo: "Genitori visibili: cosa significa davvero"
 date: 2026-09-26
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "genitori-visibili"
 articolo: true
 image: "/images/blog/genitori-visibili-hero.webp"
@@ -111,7 +111,7 @@ custom_content: |
   <p>Chi promette la visibilit&agrave; di entrambi i genitori probabilmente sta accoppiando i cani che ha sottomano. Chi ti spiega perch&eacute; il padre sta in un altro paese, e ti d&agrave; gli strumenti per verificarlo, sta facendo un'altra cosa.</p>
 
   <a class="rimando" href="/femmine-staffordshire-bull-terrier/">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, fattrice Del Piccolo Diavolo" width="88" height="88" loading="lazy" decoding="async">
+  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, fattrice Del Piccolo Diavolo" width="88" height="116" loading="lazy" decoding="async">
   <span>
   <span class="ti">Le nostre femmine, una per una</span>
   <span class="de">Microchip, test genetici e pedigree: da l&igrave; arrivi alle genealogie e verifichi da solo.</span>

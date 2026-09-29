@@ -1,7 +1,7 @@
 ---
 title: "Dental Health and Oral Hygiene for Staffordshire Bull Terrier"
 date: 2024-06-18
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 titleSeo: "Dental health for the Staffordshire Bull Terrier"
 translationKey: "denti"
 articolo: true
@@ -14,7 +14,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/salute-1.webp" alt="Dental health Staffordshire Bull Terrier" width="800" height="600" fetchpriority="high">
+  <img src="/images/blog/salute-1.webp" alt="Dental health Staffordshire Bull Terrier" width="800" height="449" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

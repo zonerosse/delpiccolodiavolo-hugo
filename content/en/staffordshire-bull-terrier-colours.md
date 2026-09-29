@@ -14,7 +14,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/hero-default.webp" alt="Staffordshire Bull Terrier colours: black, brindle, blue" width="800" height="600" fetchpriority="high">
+  <img src="/images/blog/hero-default.webp" alt="Staffordshire Bull Terrier colours: black, brindle, blue" width="800" height="627" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

@@ -1,7 +1,7 @@
 ---
 title: "BOAS beim Staffordshire Bull Terrier: Warum die Atmung entscheidend ist"
 date: 2025-12-28
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 titleSeo: "BOAS beim Staffordshire Bull Terrier: die Atmung"
 translationKey: "boas"
 articolo: true

@@ -6,11 +6,16 @@ titleSeo: "Bilquis × Black Jack litter, August 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
 description: "Born 1 August 2026: 8 Staffordshire Bull Terrier puppies from Bilquis Goddess Diabhal, Italian Champion ENCI, and Black Jack Di Casa Giacalone. Not available."
 video:
-  id: "rm1fY0_P6I8"
-  nome: "Staffordshire Bull Terrier puppy at 30 days"
-  descrizione: "A puppy from the Bilquis x Black Jack litter filmed at thirty days, indoors, at the Del Piccolo Diavolo kennel in Ostellato, Italy."
-  durata: "PT16S"
-  caricato: "2026-09-04T00:00:00+02:00"
+  - id: "rm1fY0_P6I8"
+    nome: "Staffordshire Bull Terrier puppy at 30 days"
+    descrizione: "A puppy from the Bilquis x Black Jack litter filmed at thirty days, indoors, at the Del Piccolo Diavolo kennel in Ostellato, Italy."
+    durata: "PT16S"
+    caricato: "2026-09-04T00:00:00+02:00"
+  - id: "cVyPQbi2I1A"
+    nome: "Staffordshire Bull Terrier puppy at 55 days"
+    descrizione: "A female from the Bilquis x Black Jack litter at 55 days, with her ears still settling, at the Del Piccolo Diavolo kennel in Ostellato, Italy."
+    durata: "PT6S"
+    caricato: "2026-09-26T00:00:00+02:00"
 slug: "bilquis-black-jack-litter-august-2026"
 date: 2026-08-01
 image: "/images/cuccioli-bilquis-nati-1.webp"
@@ -48,12 +53,24 @@ On 31 August the puppies turned one month old. Their eyes have been open for wee
 
 The puppies grow up indoors with us. Italian law forbids placing a puppy before sixty days: here they stay with their mother up to seventy.
 
+## At fifty-five days
+
+At fifty-five days the ears are right in the middle of settling: they go up, drop and change position almost every day, and the final rose ear of an adult Staffordshire Bull Terrier only shows months later. It is also the period when the puppies start going out into the outdoor area in the sunny hours, coming back into the house in turns, two at a time.
+
+<div style="max-width:340px;margin:1.75rem auto;border-radius:14px;overflow:hidden;box-shadow:0 8px 25px rgba(0,0,0,.12)">
+<div style="position:relative;padding-bottom:152.2%;height:0;background:#e6ddd4">
+<iframe src="https://www.youtube-nocookie.com/embed/cVyPQbi2I1A" title="Staffordshire Bull Terrier puppy at 55 days – Bilquis × Black Jack litter" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe>
+</div>
+</div>
+
+<p style="font-size:.85rem;color:#7a6a58;text-align:center">A female from this litter at fifty-five days, ears still settling.</p>
+
 ## The parents
 
 <div class="pair">
   <div class="dog">
     <span class="dog-name">Black Jack Di Casa Giacalone</span>
-    <img src="/images/jack1.jpg" alt="Black Jack Di Casa Giacalone - Black Staffordshire Bull Terrier stud" width="250" height="333" loading="lazy" decoding="async">
+    <img src="/images/jack1.jpg" alt="Black Jack Di Casa Giacalone - Black Staffordshire Bull Terrier stud" width="250" height="399" loading="lazy" decoding="async">
     <ul>
       <li>Colour: Black</li>
       <li>L2HGA: <strong>Free by parents</strong> (parents Clear)</li>

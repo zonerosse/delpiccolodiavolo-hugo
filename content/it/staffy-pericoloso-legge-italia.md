@@ -1,7 +1,7 @@
 ---
 title: "Lo Staffy è Pericoloso? Verità e Legge Italiana"
 date: 2025-11-18
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "pericoloso"
 articolo: true
 image: "/images/blog/staffy-carattere-legge-hero.webp"
@@ -13,7 +13,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/hero-default.webp" alt="Lo Staffordshire Bull Terrier è pericoloso? La verità scientifica" width="800" height="600" fetchpriority="high">
+  <img src="/images/blog/hero-default.webp" alt="Lo Staffordshire Bull Terrier è pericoloso? La verità scientifica" width="800" height="627" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">
@@ -87,7 +87,7 @@ custom_content: |
   <p>La definizione di "nanny dog" nacque nel XX secolo quando le famiglie della working class inglese notarono che gli Staffy erano particolarmente pazienti e protettivi con i bambini. Non significa che la razza sia stata "progettata" per badare ai bambini, ma che il temperamento equilibrato e l'attaccamento alla famiglia umana rendono questi cani particolarmente adatti alla vita familiare.</p>
   
   <figure class="article-image img-right">
-  <img src="/images/Lothar-e-Arianna.webp" alt="Lothar Del Piccolo Diavolo con handler" loading="lazy" decoding="async" width="260" height="195">
+  <img src="/images/Lothar-e-Arianna.webp" alt="Lothar Del Piccolo Diavolo con handler" loading="lazy" decoding="async" width="260" height="325">
   <figcaption>Lothar Mattheus Del Piccolo Diavolo</figcaption>
   </figure>
   
@@ -166,7 +166,7 @@ custom_content: |
   <p>La Francia classifica i cani in due categorie. Lo Staffordshire Bull Terrier con pedigree LOF non rientra in nessuna categoria restrittiva.</p>
   
   <figure class="article-image img-left">
-  <img src="/images/cucciolo-rosso.webp" alt="Cucciolo di Staffordshire Bull Terrier rosso" loading="lazy" decoding="async" width="260" height="195">
+  <img src="/images/cucciolo-rosso.webp" alt="Cucciolo di Staffordshire Bull Terrier rosso" loading="lazy" decoding="async" width="260" height="297">
   <figcaption>Cucciolo Staffordshire Bull Terrier</figcaption>
   </figure>
   

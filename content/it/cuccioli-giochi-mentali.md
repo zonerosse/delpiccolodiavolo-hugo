@@ -14,7 +14,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/cuccioli-6.webp" alt="Cucciolo Staffordshire Bull Terrier giochi mentali olfattivi" width="800" height="600" fetchpriority="high">
+  <img src="/images/blog/cuccioli-6.webp" alt="Cucciolo Staffordshire Bull Terrier giochi mentali olfattivi" width="800" height="533" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier: Character, Family Life and What to Expect"
 date: 2026-04-28
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 titleSeo: "Staffordshire Bull Terrier: character and family life"
 translationKey: "carattere-famiglia"
 articolo: true
@@ -14,7 +14,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/cucciolo-con-cavallo.avif" alt="Staffordshire Bull Terrier puppy Del Piccolo Diavolo" width="800" height="600" fetchpriority="high">
+  <img src="/images/cucciolo-con-cavallo.avif" alt="Staffordshire Bull Terrier puppy Del Piccolo Diavolo" width="800" height="978" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">
@@ -65,7 +65,7 @@ custom_content: |
   <p>In England they have called it the "nanny dog" for centuries. It's not marketing — it's a real characteristic, genetically selected. The well-bred Staffordshire Bull Terrier has a patience with children that few other breeds can match.</p>
 
   <figure class="article-image img-right">
-  <img src="/images/cucciolo-con-cavallo.avif" alt="Staffordshire Bull Terrier puppy Del Piccolo Diavolo" loading="lazy" decoding="async" width="260" height="195">
+  <img src="/images/cucciolo-con-cavallo.avif" alt="Staffordshire Bull Terrier puppy Del Piccolo Diavolo" loading="lazy" decoding="async" width="260" height="318">
   <figcaption>Del Piccolo Diavolo</figcaption>
   </figure>
 

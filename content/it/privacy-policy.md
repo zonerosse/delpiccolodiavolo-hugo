@@ -1,7 +1,7 @@
 ---
 title: "Privacy Policy – Del Piccolo Diavolo"
 date: 2025-12-28
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 tipoPagina: "WebPage"
 translationKey: "privacy"
 description: "Informativa privacy dell'Allevamento Del Piccolo Diavolo a Ostellato (FE): quali dati trattiamo, perché, per quanto tempo e i diritti previsti dal GDPR."

@@ -1,7 +1,7 @@
 ---
 title: "FCI Rassestandard Staffordshire Bull Terrier"
 date: 2025-02-12
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "standard"
 articolo: true
 image: "/images/blog/standard-tipicita-morfologia-hero.webp"
@@ -13,7 +13,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/standard-tipicita-morfologia-hero.webp" alt="FCI Rassestandard Staffordshire Bull Terrier" width="800" height="600" fetchpriority="high">
+  <img src="/images/blog/standard-tipicita-morfologia-hero.webp" alt="FCI Rassestandard Staffordshire Bull Terrier" width="800" height="627" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

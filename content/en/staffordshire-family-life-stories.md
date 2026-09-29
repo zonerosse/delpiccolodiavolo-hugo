@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terriers in family life: where our dogs are today"
 titleSeo: "Staffordshire Bull Terriers in family life: true stories"
 date: 2026-09-27
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "storie-famiglie"
 articolo: true
 image: "/images/blog/storie-famiglie-hero.webp"

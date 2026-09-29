@@ -1,7 +1,7 @@
 ---
 title: "Staffy con Altri Animali: Guida Convivenza"
 date: 2024-06-18
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "altri-animali"
 articolo: true
 image: "/images/blog/famiglia-3.webp"
@@ -13,7 +13,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/famiglia-3.webp" alt="Staffordshire Bull Terrier convivenza altri animali" width="800" height="600" fetchpriority="high">
+  <img src="/images/blog/famiglia-3.webp" alt="Staffordshire Bull Terrier convivenza altri animali" width="800" height="532" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

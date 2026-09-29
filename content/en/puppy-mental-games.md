@@ -2,7 +2,7 @@
 title: "Puppies: Mental Games"
 date: 2025-08-03
 titleSeo: "Mental games for Staffordshire Bull Terrier puppies"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "giochi-mentali"
 articolo: true
 image: "/images/blog/cuccioli-3.webp"
@@ -14,7 +14,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/cuccioli-3.webp" alt="Staffordshire Bull Terrier puppy mental games" width="800" height="600" fetchpriority="high" srcset="/images/blog/cuccioli-3-400w.webp 400w, /images/blog/cuccioli-3-800w.webp 800w, /images/blog/cuccioli-3.webp 1280w" sizes="(max-width: 800px) 100vw, 800px">
+  <img src="/images/blog/cuccioli-3.webp" alt="Staffordshire Bull Terrier puppy mental games" width="800" height="533" fetchpriority="high" srcset="/images/blog/cuccioli-3-400w.webp 400w, /images/blog/cuccioli-3-800w.webp 800w, /images/blog/cuccioli-3.webp 1280w" sizes="(max-width: 800px) 100vw, 800px">
   </div>
   </div>
   <div class="hero-content">

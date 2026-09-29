@@ -1,7 +1,7 @@
 ---
 title: "Ist der Staffordshire Bull Terrier gefährlich? Gesetzeslage"
 date: 2025-11-18
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "pericoloso"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -13,7 +13,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/hero-default.webp" alt="Ist Staffordshire Bull Terrier gefährlich Gesetz" width="800" height="600" fetchpriority="high">
+  <img src="/images/blog/hero-default.webp" alt="Ist Staffordshire Bull Terrier gefährlich Gesetz" width="800" height="627" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

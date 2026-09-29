@@ -355,13 +355,18 @@
        (Google chiede immagini larghe almeno 1200 px), poi l'originale.
        Senza image in front matter resta l'immagine predefinita. */}}
   {{ $imgs := slice }}
-  {{ with .Params.image }}
+  {{ with .Params.og_image }}
+    {{/* Articoli del blog: la scheda con l'icona, 1200x630. Le foto degli
+         articoli sono troppo piccole per Google (Discover vuole 1200 px) e
+         spesso non c'entrano con l'argomento: nello schema va solo la scheda. */}}
+    {{ $imgs = $imgs | append (. | absURL) }}
+  {{ else }}{{ with $.Params.image }}
     {{ $ogAuto := printf "/images/og/%s.jpg" (path.BaseName .) }}
     {{ if fileExists (printf "static%s" $ogAuto) }}{{ $imgs = $imgs | append ($ogAuto | absURL) }}{{ end }}
     {{ $imgs = $imgs | append (. | absURL) }}
   {{ else }}
     {{ $imgs = $imgs | append (printf "%s/images/og-default.jpg" $baseURL) }}
-  {{ end }}
+  {{ end }}{{ end }}
   "image": {{ $imgs | jsonify | safeJS }},
   "author": { "@id": "{{ $baseURL }}/#paolo-boldrini" },
   "publisher": { "@id": "{{ $baseURL }}/#organization" },

@@ -2,7 +2,7 @@
 title: "\"Eltern vor Ort\": was das wirklich bedeutet"
 titleSeo: "\"Eltern vor Ort\": was das wirklich bedeutet"
 date: 2026-09-26
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "genitori-visibili"
 articolo: true
 image: "/images/blog/genitori-visibili-hero.webp"
@@ -111,7 +111,7 @@ custom_content: |
   <p>Wer beide Elterntiere vor Ort verspricht, verpaart vermutlich die Hunde, die er ohnehin besitzt. Wer erklärt, warum der Vater in einem anderen Land lebt, und die Mittel zur Überprüfung mitliefert, macht etwas anderes.</p>
 
   <a class="rimando" href="/de/huendinnen-staffordshire-bull-terrier/">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Zuchthündin bei Del Piccolo Diavolo" width="88" height="88" loading="lazy" decoding="async">
+  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Zuchthündin bei Del Piccolo Diavolo" width="88" height="116" loading="lazy" decoding="async">
   <span>
   <span class="ti">Unsere Hündinnen, eine nach der anderen</span>
   <span class="de">Mikrochip, Gentests und Ahnentafeln: von dort gelangen Sie zu den Genealogien und prüfen selbst.</span>

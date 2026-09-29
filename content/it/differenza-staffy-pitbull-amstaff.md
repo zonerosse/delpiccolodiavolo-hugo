@@ -2,7 +2,7 @@
 title: "Differenza tra Staffordshire Bull Terrier, Pitbull e Amstaff"
 titleSeo: "Staffy, Pitbull e Amstaff: come distinguerli"
 date: 2025-11-19
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "pitbull-amstaff"
 articolo: true
 image: "/images/blog/differenza-razze-hero.webp"
@@ -14,7 +14,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/hero-default.webp" alt="Differenza tra Staffordshire Bull Terrier Pitbull e Amstaff" width="800" height="600" fetchpriority="high">
+  <img src="/images/blog/hero-default.webp" alt="Differenza tra Staffordshire Bull Terrier Pitbull e Amstaff" width="800" height="627" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">
@@ -80,7 +80,7 @@ custom_content: |
   <p>Nel XIX secolo, molti Bull and Terrier furono esportati in America dagli immigrati britannici. Negli Stati Uniti, questi cani si svilupparono in due direzioni distinte:</p>
   
   <figure class="article-image img-right">
-  <img src="/images/Lothar-e-Arianna.webp" alt="Staffy con handler in esposizione" loading="lazy" decoding="async" width="400" height="400">
+  <img src="/images/Lothar-e-Arianna.webp" alt="Staffy con handler in esposizione" loading="lazy" decoding="async" width="400" height="500">
   <figcaption>Staffy in esposizione</figcaption>
   </figure>
   
@@ -191,7 +191,7 @@ custom_content: |
   <p>Lo standard FCI descrive il temperamento dello Staffy come: "Tradizionalmente di temperamento intrepido e tenace. Altamente intelligente e affettuoso, specialmente con i bambini." Lo Staffy è noto per il suo forte attaccamento alla famiglia umana, tanto da essere soprannominato "nanny dog".</p>
   
   <figure class="article-image img-left">
-  <img src="/images/cucciolo-rosso.webp" alt="Cucciolo di Staffordshire Bull Terrier" loading="lazy" decoding="async" width="400" height="400">
+  <img src="/images/cucciolo-rosso.webp" alt="Cucciolo di Staffordshire Bull Terrier" loading="lazy" decoding="async" width="400" height="457">
   <figcaption>Cucciolo di Staffy</figcaption>
   </figure>
   
@@ -226,7 +226,7 @@ custom_content: |
   <h2>Quale Razza Scegliere?</h2>
 
   <p>Questa pagina serve a distinguere le tre razze e a capire cosa dice la legge. Se hai già escluso il Pit Bull e devi scegliere fra <strong>Staffy e Amstaff</strong>, la guida dedicata mette in fila le domande concrete su spazio, esperienza e vita quotidiana: <a href="/differenza-staffy-amstaff/" title="Staffy o Amstaff: quale scegliere">quale delle due razze fa per te</a>.</p>
-  <p>Noi allevamo solo lo Staffordshire Bull Terrier: una razza con standard FCI chiaro, test genetici per L2HGA e HC e una taglia adatta alla vita in casa.</p>
+  <p>L'allevamento Del Piccolo Diavolo alleva solo lo Staffordshire Bull Terrier: una razza con standard FCI chiaro, test genetici per L2HGA e HC e una taglia adatta alla vita in casa.</p>
 
   <h2>Domande Frequenti</h2>
   

@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier mit anderen Haustieren"
 date: 2024-06-18
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "altri-animali"
 articolo: true
 image: "/images/blog/famiglia-2.jpg"
@@ -13,7 +13,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/famiglia-2.jpg" alt="Staffordshire Bull Terrier mit anderen Haustieren" width="800" height="600" fetchpriority="high">
+  <img src="/images/blog/famiglia-2.jpg" alt="Staffordshire Bull Terrier mit anderen Haustieren" width="800" height="499" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

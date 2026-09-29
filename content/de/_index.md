@@ -65,9 +65,9 @@ custom_content: |
   <h2 class="section-title">Hier geboren und aufgewachsen, in Ostellato</h2>
 
   <div class="gallery-grid">
-  <div class="gallery-item"><img src="/images/foto1.avif" alt="Schwarzer Staffordshire Bull Terrier Welpe auf der Hand" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/foto2.avif" alt="Schwarzer Staffordshire Bull Terrier Welpe, wenige Wochen alt" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/foto4.avif" alt="Staffordshire Bull Terrier Welpe im Arm, Nahaufnahme" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/foto1.avif" alt="Schwarzer Staffordshire Bull Terrier Welpe auf der Hand" loading="lazy" decoding="async" width="300" height="363"></div>
+  <div class="gallery-item"><img src="/images/foto2.avif" alt="Schwarzer Staffordshire Bull Terrier Welpe, wenige Wochen alt" loading="lazy" decoding="async" width="300" height="391"></div>
+  <div class="gallery-item"><img src="/images/foto4.avif" alt="Staffordshire Bull Terrier Welpe im Arm, Nahaufnahme" loading="lazy" decoding="async" width="300" height="347"></div>
   </div>
 
   <p style="text-align:center;margin-top:1.5rem"><a class="btn" href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Wie sie geboren werden und aufwachsen</a></p>
@@ -78,7 +78,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <div style="max-width:760px;margin:0 auto;display:grid;grid-template-columns:88px 1fr;gap:1.2rem;align-items:center;background:#fff;border:1px solid #e6ddd4;border-radius:10px;padding:1rem 1.2rem">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Italienische Championin" width="88" height="88" loading="lazy" decoding="async" style="width:88px;height:88px;object-fit:cover;border-radius:8px">
+  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Italienische Championin" width="88" height="116" loading="lazy" decoding="async" style="width:88px;height:88px;object-fit:cover;border-radius:8px">
   <div>
   <p style="font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:#8b5a2b;font-weight:700;margin:0 0 .25rem">In der Presse &middot; 6. Januar 2026</p>
   <h2 style="font-family:Georgia,'Times New Roman',serif;font-size:1.05rem;color:#5c4a3a;margin:0 0 .3rem;line-height:1.4">&bdquo;Von Ferrara aus die Welt erobern: Bilquis, die dreijährige Hündin, die Preise sammelt&ldquo;</h2>
@@ -109,7 +109,7 @@ custom_content: |
 
 
   <a class="rimando" href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/">
-  <img src="/images/blog/cucciolata-erba.avif" alt="Staffordshire Bull Terrier Welpen mit ihrer Mutter" width="88" height="88" loading="lazy" decoding="async">
+  <img src="/images/blog/cucciolata-erba.avif" alt="Staffordshire Bull Terrier Welpen mit ihrer Mutter" width="88" height="64" loading="lazy" decoding="async">
   <span>
   <span class="ti">Wie man eine seriöse Zucht erkennt</span>
   <span class="de">Acht Kriterien und wie man sie prüft — bei uns wie bei allen anderen.</span>
@@ -211,7 +211,7 @@ custom_content: |
 
 
   <a class="rimando" href="/de/huendinnen-staffordshire-bull-terrier/">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Zuchthündin von Del Piccolo Diavolo" width="88" height="88" loading="lazy" decoding="async">
+  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Zuchthündin von Del Piccolo Diavolo" width="88" height="116" loading="lazy" decoding="async">
   <span>
   <span class="ti">Unsere Hündinnen, eine nach der anderen</span>
   <span class="de">Mikrochip, Gentests und Ahnentafel: von dort aus prüfen Sie Abstammung und Würfe.</span>
@@ -262,7 +262,7 @@ custom_content: |
   </div>
 
   <a class="rimando" href="/de/welpen-staffordshire-bull-terrier/">
-  <img src="/images/primo-piano-cucciolo.avif" alt="Staffordshire Bull Terrier Welpe" width="88" height="88" loading="lazy" decoding="async">
+  <img src="/images/primo-piano-cucciolo.avif" alt="Staffordshire Bull Terrier Welpe" width="88" height="83" loading="lazy" decoding="async">
   <span>
   <span class="ti">Wie ein Wurf entsteht und aufwächst</span>
   <span class="de">Von der Läufigkeit bis zur Geburt, und was in den acht Wochen danach geschieht.</span>
@@ -296,13 +296,6 @@ custom_content: |
   <div class="faq-answer">Alle Zuchttiere von Del Piccolo Diavolo werden auf <strong>L2-HGA</strong>, die L-2-Hydroxyglutarazidurie, eine neurologische Erkrankung, und auf <strong>HC</strong>, den juvenilen erblichen Katarakt (Gen HSF4), getestet. Die aktiven Zuchthündinnen zusätzlich auf <strong>degenerative Myelopathie</strong> (Gen SOD1), eine Erkrankung des Rückenmarks, die nach dem achten Lebensjahr auftritt. Alle sind DNA-Tests, und alle drei Krankheiten werden rezessiv vererbt: zwei freie Elterntiere können keine erkrankten Welpen hervorbringen. Träger von L2-HGA und HC werden nicht zur Zucht eingesetzt. Die Laborbefunde sind auf dieser Website veröffentlicht und können heruntergeladen werden, mit der <strong>Mikrochipnummer des Hundes im Klartext</strong>: erst diese Nummer macht das Dokument überprüfbar, denn ohne sie ließe es sich keinem bestimmten Tier zuordnen.</div>
   </div>
 
-  <div class="faq-item active">
-  <div class="faq-question" >
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Kann ich die Zucht besuchen?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
-  </div>
-  <div class="faq-answer">Ja, und es ist der richtige Weg, uns kennenzulernen. Die Zucht Del Piccolo Diavolo empfängt nach Vereinbarung in Ostellato, Provinz Ferrara, um uns die nötige Zeit zu nehmen, ohne die Hunde zu stressen. Beim Besuch sehen Sie die erwachsenen Hunde und die Mutter des Wurfs, den Ort, an dem die Welpen aufwachsen, und prüfen Ahnentafeln und Gentest-Befunde persönlich. Es ist auch die Gelegenheit, bei der wir ein paar Fragen dazu stellen, wie der Alltag des Hundes aussehen wird: das ist kein Verhör, sondern der Weg, um zu verstehen, ob dieser Welpe und diese Familie zueinander passen. Ostellato liegt etwa eine Stunde von Bologna und Ravenna, zwei von Verona und Padua; die nächsten Flughäfen sind Bologna und Venedig.</div>
-  </div>
 
   </div>
 

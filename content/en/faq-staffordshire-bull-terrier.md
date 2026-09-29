@@ -66,10 +66,10 @@ custom_content: |
   
   <div class="faq-item active">
   <div class="faq-question">
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What genetic tests do you perform on breeding dogs?</h3>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Which genetic tests does the Staffordshire Bull Terrier need?</h3>
   <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">All Del Piccolo Diavolo breeding dogs are tested for <strong>L2-HGA</strong>, L-2-hydroxyglutaric aciduria, a neurological disease, and for <strong>HC</strong>, juvenile hereditary cataract (HSF4 gene); our breeding females are also tested for <strong>degenerative myelopathy</strong> (SOD1 gene), a spinal cord disease that appears after eight years of age. All are DNA tests, and all three diseases are recessive: two clear parents cannot produce affected puppies. L2-HGA and HC carriers are not used for breeding here. The laboratory reports are published on this site and can be downloaded, with the <strong>dog's microchip number in plain sight</strong>: that number is what makes the document verifiable, because without it the report could refer to any dog at all.</div>
+  <div class="faq-answer">The Staffordshire Bull Terrier has three main inherited diseases for which a DNA test exists: L2-HGA, L-2-hydroxyglutaric aciduria, a neurological disease; HC, juvenile hereditary cataract (HSF4 gene); and degenerative myelopathy (SOD1 gene), a spinal cord disease that appears after eight years of age. All three are checked with a DNA test on a saliva swab or blood. All are recessive: two clear parents cannot produce affected puppies, which is why testing the breeding dogs counts for more than any written guarantee. All Del Piccolo Diavolo breeding dogs are tested for L2-HGA and HC, the breeding females for degenerative myelopathy as well, and the laboratory reports are published on the site with the microchip number of the dog they refer to: anyone can download and check them without having to ask. Every puppy leaves with the certificates of its parents' tests.</div>
   </div>
   
   <div class="faq-item active">

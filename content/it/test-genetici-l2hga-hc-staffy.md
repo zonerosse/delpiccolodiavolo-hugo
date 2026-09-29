@@ -2,7 +2,7 @@
 title: "Test Genetici L2-HGA, HC (HSF4) e DM (SOD1) Staffordshire Bull Terrier"
 titleSeo: "Test genetici Staffy: L2-HGA, HC (HSF4) e DM (SOD1)"
 date: 2025-11-20
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "test-genetici"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -14,7 +14,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/salute-1.webp" alt="Test genetici L2-HGA e HC Staffordshire Bull Terrier" width="800" height="600" fetchpriority="high">
+  <img src="/images/blog/salute-1.webp" alt="Test genetici L2-HGA e HC Staffordshire Bull Terrier" width="800" height="449" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">
@@ -106,7 +106,7 @@ custom_content: |
   <p>Anche HC è causata da una mutazione genetica specifica, identificata nel gene <strong>HSF4</strong> (Heat Shock Factor 4). Come L2-HGA, è ereditaria con modalità <strong>autosomica recessiva</strong>: servono due copie del gene mutato (una da ciascun genitore) perché il cane sviluppi la malattia.</p>
   
   <figure class="article-image img-right">
-  <img src="/images/Lothar-e-Arianna.webp" alt="Staffy con occhi sani" loading="lazy" decoding="async" width="280" height="280">
+  <img src="/images/Lothar-e-Arianna.webp" alt="Staffy con occhi sani" loading="lazy" decoding="async" width="280" height="350">
   <figcaption>Staffy con occhi sani</figcaption>
   </figure>
   
@@ -224,7 +224,7 @@ custom_content: |
   </ol>
   
   <figure class="article-image img-left">
-  <img src="/images/cucciolo-rosso.webp" alt="Cucciolo di Staffy sano" loading="lazy" decoding="async" width="280" height="280">
+  <img src="/images/cucciolo-rosso.webp" alt="Cucciolo di Staffy sano" loading="lazy" decoding="async" width="280" height="320">
   <figcaption>Cucciolo sano da genitori testati</figcaption>
   </figure>
   

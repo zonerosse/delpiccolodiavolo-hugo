@@ -1,7 +1,7 @@
 ---
 title: "Contact – Staffordshire Bull Terrier Breeder"
 date: 2025-12-28
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 tipoPagina: "ContactPage"
 translationKey: "contatti"
 description: "Contact Del Piccolo Diavolo kennel in Ostellato (FE), Italy. Visits by appointment, WhatsApp, phone. Reachable from Ferrara, Bologna, Milan, Venice, Florence."
@@ -189,7 +189,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <div class="story-block">
-  <img src="/images/cucciolo-rosso.webp" alt="Staffordshire Bull Terrier puppy" class="story-img" width="350" height="350" loading="lazy" decoding="async">
+  <img src="/images/cucciolo-rosso.webp" alt="Staffordshire Bull Terrier puppy" class="story-img" width="350" height="400" loading="lazy" decoding="async">
   <div class="story-text">
   <h3>Why Come in Person</h3>
   <p>A Staffordshire Bull Terrier will be with you for 12 to 15 years. That is a decision worth a journey.</p>

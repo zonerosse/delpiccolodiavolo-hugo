@@ -2,7 +2,7 @@
 title: "Bio Sensor: was die Forschung wirklich sagt"
 date: 2026-09-09
 titleSeo: "Bio Sensor und Frühstimulation: was die Forschung sagt"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "biosensor"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
@@ -14,7 +14,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier Welpen in den ersten Lebenswochen" width="800" height="600" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
+  <img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier Welpen in den ersten Lebenswochen" width="800" height="913" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
   </div>
   </div>
   <div class="hero-content">
@@ -103,7 +103,7 @@ custom_content: |
   <p>Die Antworten auf diese drei Fragen sagen weit mehr als jedes K&uuml;rzel.</p>
 
     <a class="rimando" href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/">
-  <img src="/images/blog/cucciolata-erba.avif" alt="Staffordshire Bull Terrier Welpen mit ihrer Mutter" width="88" height="88" loading="lazy" decoding="async">
+  <img src="/images/blog/cucciolata-erba.avif" alt="Staffordshire Bull Terrier Welpen mit ihrer Mutter" width="88" height="64" loading="lazy" decoding="async">
   <span>
   <span class="ti">Wie man eine seriöse Zucht erkennt</span>
   <span class="de">Acht Kriterien und wie man jedes prüft: an den Unterlagen, nicht an den Worten.</span>

@@ -93,7 +93,7 @@ custom_content: |
 
   
   <a class="rimando" href="/come-si-legge-un-pedigree/">
-  <img src="/images/blog/pedigree-queen-hero.webp" alt="Queen of California in esposizione" width="88" height="88" loading="lazy" decoding="async">
+  <img src="/images/blog/pedigree-queen-hero.webp" alt="Queen of California in esposizione" width="88" height="59" loading="lazy" decoding="async">
   <span>
   <span class="ti">Come studio un accoppiamento prima di farlo</span>
   <span class="de">Il test mating, il coefficiente e su quali antenati si va in consanguineit&agrave;: con i numeri di Queen.</span>
@@ -134,7 +134,7 @@ custom_content: |
 
   <div class="dog">
   <span class="dog-name">Black Jack Di Casa Giacalone</span>
-  <img src="/images/jack1.jpg" alt="Black Jack Di Casa Giacalone - Riproduttore Staffordshire Bull Terrier nero" width="300" height="330" loading="lazy" decoding="async">
+  <img src="/images/jack1.jpg" alt="Black Jack Di Casa Giacalone - Riproduttore Staffordshire Bull Terrier nero" width="300" height="478" loading="lazy" decoding="async">
   <ul>
   <li>L2HGA &amp; HC free by parents (genitori clear)</li>
   <li>Completely scissor bite</li>
@@ -160,7 +160,7 @@ custom_content: |
   <div class="pair">
   <div class="dog">
   <span class="dog-name">Vangerbull Red Harricane</span>
-  <img src="/images/red.avif" alt="Vangerbull Red Harricane - Riproduttore Staffordshire Bull Terrier" width="225" height="320" loading="lazy" decoding="async">
+  <img src="/images/red.avif" alt="Vangerbull Red Harricane - Riproduttore Staffordshire Bull Terrier" width="225" height="291" loading="lazy" decoding="async">
   <ul>
   <li>L2HGA &amp; HC clear by DNA</li>
   <li>Completely scissor bite</li>
@@ -173,7 +173,7 @@ custom_content: |
 
   <div class="dog">
   <span class="dog-name">Skilful-dogs Nora</span>
-  <img src="/images/nora-femmina-staffordshire-bull-terrier.avif" alt="Skilful-dogs Nora - Riproduttrice Staffordshire Bull Terrier" width="300" height="400" loading="lazy" decoding="async">
+  <img src="/images/nora-femmina-staffordshire-bull-terrier.avif" alt="Skilful-dogs Nora - Riproduttrice Staffordshire Bull Terrier" width="300" height="446" loading="lazy" decoding="async">
   <ul>
   <li>L2HGA &amp; HC clear by DNA</li>
   <li>Completely scissor bite</li>

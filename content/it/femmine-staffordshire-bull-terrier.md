@@ -110,7 +110,7 @@ custom_content: |
   </div>
   <div class="female-content">
   <div class="female-image">
-  <img src="/images/queen-of-california.webp" alt="JCH Queen of California Aka Desy Del Piccolo Diavolo" width="350" height="467" loading="lazy" decoding="async" srcset="/images/queen-of-california-400w.webp 400w, /images/queen-of-california-800w.webp 800w, /images/queen-of-california.webp 1400w" sizes="(max-width: 350px) 100vw, 350px">
+  <img src="/images/queen-of-california.webp" alt="JCH Queen of California Aka Desy Del Piccolo Diavolo" width="350" height="233" loading="lazy" decoding="async" srcset="/images/queen-of-california-400w.webp 400w, /images/queen-of-california-800w.webp 800w, /images/queen-of-california.webp 1400w" sizes="(max-width: 350px) 100vw, 350px">
   </div>
   <div class="female-info">
   <p><strong>Microchip:</strong> 380260160642781<br>
@@ -136,7 +136,7 @@ custom_content: |
   </div>
   <div class="female-content">
   <div class="female-image">
-  <img src="/images/femmina-croi-olc.webp" alt="Lackyle Bean Croi Olc — Staffordshire Bull Terrier" width="350" height="467" loading="lazy" decoding="async">
+  <img src="/images/femmina-croi-olc.webp" alt="Lackyle Bean Croi Olc — Staffordshire Bull Terrier" width="350" height="422" loading="lazy" decoding="async">
   </div>
   <div class="female-info">
   <p><strong>Microchip:</strong> 991003001293234<br>
@@ -161,7 +161,7 @@ custom_content: |
   </div>
   <div class="female-content">
   <div class="female-image">
-  <img src="/images/femmina-divine.webp" alt="Faiter Divine at Diabhal Staff — Staffordshire Bull Terrier" width="350" height="467" loading="lazy" decoding="async">
+  <img src="/images/femmina-divine.webp" alt="Faiter Divine at Diabhal Staff — Staffordshire Bull Terrier" width="350" height="515" loading="lazy" decoding="async">
   </div>
   <div class="female-info">
   <p><strong>Microchip:</strong> 643094100473511<br>
@@ -208,7 +208,7 @@ custom_content: |
   </div>
   <div class="female-content">
   <div class="female-image">
-  <img src="/images/femmina-derry.webp" alt="Foyleoak Maiden Derry — Staffordshire Bull Terrier" width="350" height="467" loading="lazy" decoding="async">
+  <img src="/images/femmina-derry.webp" alt="Foyleoak Maiden Derry — Staffordshire Bull Terrier" width="350" height="334" loading="lazy" decoding="async">
   </div>
   <div class="female-info">
   <p><strong>Microchip:</strong> 945000005024701<br>
@@ -258,7 +258,7 @@ custom_content: |
   </div>
   <div class="female-content">
   <div class="female-image">
-  <img src="/images/nora-femmina-staffordshire-bull-terrier.avif" alt="Skilful-dogs Nora — Staffordshire Bull Terrier" width="350" height="467" loading="lazy" decoding="async">
+  <img src="/images/nora-femmina-staffordshire-bull-terrier.avif" alt="Skilful-dogs Nora — Staffordshire Bull Terrier" width="350" height="520" loading="lazy" decoding="async">
   </div>
   <div class="female-info">
   <p><strong>Microchip:</strong> 380260004336944<br>

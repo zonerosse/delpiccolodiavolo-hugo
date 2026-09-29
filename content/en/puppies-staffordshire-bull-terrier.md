@@ -68,9 +68,9 @@ custom_content: |
   <h2 class="section-title">Our Puppies</h2>
   
   <div class="gallery-grid">
-  <div class="gallery-item"><img src="/images/primo-piano-cucciolo.avif" alt="Staffordshire Bull Terrier puppy" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/cucciolo-con-cavallo.avif" alt="Staffordshire Bull Terrier puppy posing" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/foto4.avif" alt="Socialized Staffordshire Bull Terrier puppy" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/primo-piano-cucciolo.avif" alt="Staffordshire Bull Terrier puppy" loading="lazy" decoding="async" width="300" height="282"></div>
+  <div class="gallery-item"><img src="/images/cucciolo-con-cavallo.avif" alt="Staffordshire Bull Terrier puppy posing" loading="lazy" decoding="async" width="300" height="367"></div>
+  <div class="gallery-item"><img src="/images/foto4.avif" alt="Socialized Staffordshire Bull Terrier puppy" loading="lazy" decoding="async" width="300" height="347"></div>
   </div>
   </div>
   </section>
@@ -89,7 +89,7 @@ custom_content: |
   <p>Puppies are born indoors, in the whelping box, and stay there for about a month: it is the phase in which the mother does everything and human contact matters most. At around thirty days they move to a dedicated pen with outdoor access, for a practical reason anyone who has raised a litter knows: at that age they soil more than a lived-in house can take. From then on they come back inside in turns, two at a time for a few hours, so each of them gets its own share of the house. Every litter born here, with parents, tests, examinations and growth photos, is recorded in the <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a>.</p>
 
     <a class="rimando" href="/en/bio-sensor-early-stimulation-puppies/">
-  <img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier puppies in their first days" width="88" height="88" loading="lazy" decoding="async">
+  <img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier puppies in their first days" width="88" height="100" loading="lazy" decoding="async">
   <span>
   <span class="ti">Bio Sensor: what the research actually says</span>
   <span class="de">The ENS method, the evidence that is missing, and what counts in the first eight weeks.</span>
@@ -99,7 +99,7 @@ custom_content: |
   <p>They learn to recognize household sounds, different people, other animals. This early socialization is essential to develop a confident and calm temperament.</p>
   </div>
   <div class="zigzag-image">
-  <img src="/images/foto1.avif" alt="Socialized Staffordshire Bull Terrier puppies at home" loading="lazy" decoding="async" width="400" height="300">
+  <img src="/images/foto1.avif" alt="Socialized Staffordshire Bull Terrier puppies at home" loading="lazy" decoding="async" width="400" height="484">
   </div>
   </div>
   
@@ -109,7 +109,7 @@ custom_content: |
   <p>The Staffy is known as the "nanny dog" for its patience with children. It's a dog that loves being with people, participating in daily life, being an integral part of the family. It's not a backyard dog: it's a life companion.</p>
   </div>
   <div class="zigzag-image">
-  <img src="/images/la-principessa-di-roma.avif" alt="Staffordshire Bull Terrier in family" loading="lazy" decoding="async" width="400" height="300">
+  <img src="/images/la-principessa-di-roma.avif" alt="Staffordshire Bull Terrier in family" loading="lazy" decoding="async" width="400" height="526">
   </div>
   </div>
   </div>

@@ -2,7 +2,7 @@
 title: "Welpen: Erster Spaziergang"
 date: 2025-09-17
 titleSeo: "Der erste Spaziergang des Welpen: wann und wie"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "passeggiata"
 articolo: true
 image: "/images/blog/cuccioli-5.webp"
@@ -14,7 +14,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/cuccioli-5.webp" alt="Staffordshire Bull Terrier Welpen erster Spaziergang" width="800" height="600" fetchpriority="high">
+  <img src="/images/blog/cuccioli-5.webp" alt="Staffordshire Bull Terrier Welpen erster Spaziergang" width="800" height="498" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

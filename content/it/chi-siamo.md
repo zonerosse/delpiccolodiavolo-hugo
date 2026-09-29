@@ -75,7 +75,7 @@ custom_content: |
   <p>Dietro la scelta di queste linee c'è anche un motivo che non è tecnico. In quei pedigree c'è <strong>Lackyle Diabhal Óg</strong> — in irlandese, il giovane diavolo — che per me resta uno dei migliori cani dell'epoca moderna, lui e tutto quello che ha lasciato dietro di sé. <strong>Del Piccolo Diavolo</strong> è la traduzione del suo nome: l'allevamento si chiama così per lui.</p>
 
   <a class="rimando" href="/femmine-staffordshire-bull-terrier/">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, fattrice Del Piccolo Diavolo" width="88" height="88" loading="lazy" decoding="async">
+  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, fattrice Del Piccolo Diavolo" width="88" height="116" loading="lazy" decoding="async">
   <span>
   <span class="ti">Le femmine che portano quelle linee</span>
   <span class="de">Otto schede con microchip, test genetici e pedigree: da l&igrave; risali alle genealogie e verifichi tutto.</span>

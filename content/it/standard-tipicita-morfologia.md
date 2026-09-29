@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier: Tipicità di Razza e Morfologia"
 date: 2025-02-12
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "standard"
 articolo: true
 image: "/images/blog/standard-1.webp"
@@ -13,7 +13,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/standard-1.webp" alt="Staffordshire Bull Terrier tipico secondo standard FCI" width="800" height="600" fetchpriority="high">
+  <img src="/images/blog/standard-1.webp" alt="Staffordshire Bull Terrier tipico secondo standard FCI" width="800" height="533" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

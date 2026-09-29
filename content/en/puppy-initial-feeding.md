@@ -2,7 +2,7 @@
 title: "Puppies: Initial Feeding"
 date: 2025-04-15
 titleSeo: "Feeding a Staffordshire Bull Terrier puppy: first months"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -14,7 +14,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/hero-default.webp" alt="Staffordshire Bull Terrier puppy feeding" width="800" height="600" fetchpriority="high">
+  <img src="/images/blog/hero-default.webp" alt="Staffordshire Bull Terrier puppy feeding" width="800" height="627" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

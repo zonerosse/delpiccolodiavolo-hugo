@@ -68,9 +68,9 @@ custom_content: |
   <h2 class="section-title">Unsere Welpen</h2>
   
   <div class="gallery-grid">
-  <div class="gallery-item"><img src="/images/primo-piano-cucciolo.avif" alt="Staffordshire Bull Terrier Welpe" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/cucciolo-con-cavallo.avif" alt="Staffordshire Bull Terrier Welpe posiert" loading="lazy" decoding="async" width="300" height="400"></div>
-  <div class="gallery-item"><img src="/images/foto4.avif" alt="Sozialisierter Staffordshire Bull Terrier Welpe" loading="lazy" decoding="async" width="300" height="400"></div>
+  <div class="gallery-item"><img src="/images/primo-piano-cucciolo.avif" alt="Staffordshire Bull Terrier Welpe" loading="lazy" decoding="async" width="300" height="282"></div>
+  <div class="gallery-item"><img src="/images/cucciolo-con-cavallo.avif" alt="Staffordshire Bull Terrier Welpe posiert" loading="lazy" decoding="async" width="300" height="367"></div>
+  <div class="gallery-item"><img src="/images/foto4.avif" alt="Sozialisierter Staffordshire Bull Terrier Welpe" loading="lazy" decoding="async" width="300" height="347"></div>
   </div>
   </div>
   </section>
@@ -89,7 +89,7 @@ custom_content: |
   <p>Die Welpen kommen im Haus zur Welt, in der Wurfkiste, und bleiben dort etwa einen Monat: in dieser Zeit macht die Mutter alles, und der menschliche Kontakt zählt am meisten. Mit rund dreißig Tagen ziehen sie in einen eigenen Zwinger mit Auslauf um — aus einem praktischen Grund, den jeder kennt, der schon einen Wurf hatte: in diesem Alter machen sie mehr Schmutz, als ein bewohntes Haus verträgt. Von da an kommen sie abwechselnd wieder herein, zu zweit und für einige Stunden, damit jeder seinen Teil vom Haus bekommt. Jeder hier geborene Wurf, mit Eltern, Tests, Untersuchungen und Fotos des Heranwachsens, steht im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Zuchttagebuch</a>.</p>
 
     <a class="rimando" href="/de/bio-sensor-fruehstimulation-welpen/">
-  <img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier Welpen in den ersten Tagen" width="88" height="88" loading="lazy" decoding="async">
+  <img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier Welpen in den ersten Tagen" width="88" height="100" loading="lazy" decoding="async">
   <span>
   <span class="ti">Bio Sensor: was die Forschung wirklich sagt</span>
   <span class="de">Die ENS-Methode, die fehlenden Belege und was in den ersten acht Wochen zählt.</span>
@@ -99,7 +99,7 @@ custom_content: |
   <p>Sie lernen Haushaltsgeräusche, verschiedene Menschen und andere Tiere kennen. Diese frühe Sozialisierung ist grundlegend für die Entwicklung eines sicheren und ruhigen Temperaments.</p>
   </div>
   <div class="zigzag-image">
-  <img src="/images/foto1.avif" alt="Sozialisierte Staffordshire Bull Terrier Welpen zu Hause" loading="lazy" decoding="async" width="400" height="300">
+  <img src="/images/foto1.avif" alt="Sozialisierte Staffordshire Bull Terrier Welpen zu Hause" loading="lazy" decoding="async" width="400" height="484">
   </div>
   </div>
   
@@ -109,7 +109,7 @@ custom_content: |
   <p>Der Staffy ist als "Nanny Dog" bekannt für seine <a href="/de/staffy-kinder-familie/" title="Staffy und Kinder: das Familienleben">Geduld mit Kindern</a>. Er ist ein Hund, der gerne bei Menschen ist, am täglichen Leben teilnimmt und ein integraler Teil der Familie ist. Er ist kein Gartenhund: er ist ein Lebensbegleiter.</p>
   </div>
   <div class="zigzag-image">
-  <img src="/images/la-principessa-di-roma.avif" alt="Staffordshire Bull Terrier in der Familie" loading="lazy" decoding="async" width="400" height="300">
+  <img src="/images/la-principessa-di-roma.avif" alt="Staffordshire Bull Terrier in der Familie" loading="lazy" decoding="async" width="400" height="526">
   </div>
   </div>
   </div>

@@ -2,7 +2,7 @@
 title: "Bio Sensor: what the research actually says"
 date: 2026-09-09
 titleSeo: "Bio Sensor and early stimulation: what research says"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "biosensor"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
@@ -14,7 +14,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier puppies in their first weeks of life" width="800" height="600" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
+  <img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier puppies in their first weeks of life" width="800" height="913" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
   </div>
   </div>
   <div class="hero-content">
@@ -103,7 +103,7 @@ custom_content: |
   <p>The answers to those three questions say far more than any acronym.</p>
 
     <a class="rimando" href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/">
-  <img src="/images/blog/cucciolata-erba.avif" alt="Staffordshire Bull Terrier puppies with their mother" width="88" height="88" loading="lazy" decoding="async">
+  <img src="/images/blog/cucciolata-erba.avif" alt="Staffordshire Bull Terrier puppies with their mother" width="88" height="64" loading="lazy" decoding="async">
   <span>
   <span class="ti">How to recognise a serious breeder</span>
   <span class="de">Eight criteria and how to check each one: on documents, not on words.</span>

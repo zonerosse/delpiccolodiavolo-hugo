@@ -100,7 +100,7 @@ custom_content: |
   
   <div class="dog">
   <span class="dog-name">Black Jack Di Casa Giacalone</span>
-  <img src="/images/jack1.jpg" alt="Black Jack Di Casa Giacalone - Black Staffordshire Bull Terrier stud" width="250" height="333" loading="lazy" decoding="async">
+  <img src="/images/jack1.jpg" alt="Black Jack Di Casa Giacalone - Black Staffordshire Bull Terrier stud" width="250" height="399" loading="lazy" decoding="async">
   <ul>
   <li>L2HGA &amp; HC free by parents (both parents clear)</li>
   <li>Completely scissor bite</li>
@@ -126,7 +126,7 @@ custom_content: |
   <div class="pair">
   <div class="dog">
   <span class="dog-name">Vangerbull Red Harricane</span>
-  <img src="/images/red.avif" alt="Vangerbull Red Harricane - Staffordshire Bull Terrier stud" width="225" height="320" loading="lazy" decoding="async">
+  <img src="/images/red.avif" alt="Vangerbull Red Harricane - Staffordshire Bull Terrier stud" width="225" height="291" loading="lazy" decoding="async">
   <ul>
   <li>L2HGA & HC clear by DNA</li>
   <li>Completely scissor bite</li>
@@ -139,7 +139,7 @@ custom_content: |
   
   <div class="dog">
   <span class="dog-name">Skilful-dogs Nora</span>
-  <img src="/images/nora-femmina-staffordshire-bull-terrier.avif" alt="Skilful-dogs Nora - Staffordshire Bull Terrier breeding female" width="300" height="400" loading="lazy" decoding="async">
+  <img src="/images/nora-femmina-staffordshire-bull-terrier.avif" alt="Skilful-dogs Nora - Staffordshire Bull Terrier breeding female" width="300" height="446" loading="lazy" decoding="async">
   <ul>
   <li>L2HGA & HC clear by DNA</li>
   <li>Completely scissor bite</li>

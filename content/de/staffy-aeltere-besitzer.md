@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier für ältere Besitzer"
 date: 2024-05-28
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "anziani"
 articolo: true
 image: "/images/blog/famiglia-3.jpg"
@@ -13,7 +13,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/famiglia-3.jpg" alt="Staffordshire Bull Terrier für ältere Besitzer" width="800" height="600" fetchpriority="high">
+  <img src="/images/blog/famiglia-3.jpg" alt="Staffordshire Bull Terrier für ältere Besitzer" width="800" height="532" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

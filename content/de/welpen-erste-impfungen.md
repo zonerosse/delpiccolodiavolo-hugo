@@ -2,7 +2,7 @@
 title: "Welpen: Erste Impfungen"
 date: 2025-06-10
 titleSeo: "Erste Impfungen des Welpen: Plan und Auffrischung"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/salute.webp"
@@ -14,7 +14,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/salute.webp" alt="Staffordshire Bull Terrier Welpen Impfungen" width="800" height="600" fetchpriority="high">
+  <img src="/images/blog/salute.webp" alt="Staffordshire Bull Terrier Welpen Impfungen" width="800" height="449" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">

@@ -127,7 +127,7 @@ custom_content: |
   <p>It is not generosity: it is that a kennel that publishes those data can be checked, and one that does not cannot.</p>
 
   <a class="rimando" href="/en/females-staffordshire-bull-terrier/">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Del Piccolo Diavolo brood bitch" width="88" height="88" loading="lazy" decoding="async">
+  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Del Piccolo Diavolo brood bitch" width="88" height="116" loading="lazy" decoding="async">
   <span>
   <span class="ti">Our females, with microchip and pedigree</span>
   <span class="de">Eight pages: from there you reach the genealogies on SBTPedigree and check for yourself.</span>

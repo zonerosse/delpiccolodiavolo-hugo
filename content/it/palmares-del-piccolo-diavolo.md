@@ -59,7 +59,7 @@ custom_content: |
 
   <div style="display:flex;flex-direction:column;gap:1.5rem;margin-bottom:2rem">
   <div class="image-center">
-  <img src="/images/queen-of-california.webp" alt="Queen of California Aka Desy - Giovane Campionessa Italiana Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="380" style="border-radius:12px" srcset="/images/queen-of-california-400w.webp 400w, /images/queen-of-california-800w.webp 800w, /images/queen-of-california.webp 1400w" sizes="(max-width: 300px) 100vw, 300px">
+  <img src="/images/queen-of-california.webp" alt="Queen of California Aka Desy - Giovane Campionessa Italiana Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="200" style="border-radius:12px" srcset="/images/queen-of-california-400w.webp 400w, /images/queen-of-california-800w.webp 800w, /images/queen-of-california.webp 1400w" sizes="(max-width: 300px) 100vw, 300px">
   </div>
   <div>
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
@@ -93,7 +93,7 @@ custom_content: |
   
   <div style="display:flex;flex-direction:column;gap:1.5rem;margin-bottom:2rem">
   <div class="image-center">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Campionessa Italiana Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="380" style="border-radius:12px">
+  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Campionessa Italiana Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="395" style="border-radius:12px">
   </div>
   <div>
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
@@ -212,7 +212,7 @@ custom_content: |
   
   <div style="display:flex;flex-direction:column;gap:1.5rem;margin-bottom:2rem">
   <div class="image-center">
-  <img src="/images/cattleya-campionessa.webp" alt="Cattleya Del Piccolo Diavolo, Campionessa San Marino Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="380" style="border-radius:12px" srcset="/images/cattleya-campionessa-400w.webp 400w, /images/cattleya-campionessa-800w.webp 800w, /images/cattleya-campionessa.webp 1200w" sizes="(max-width: 300px) 100vw, 300px">
+  <img src="/images/cattleya-campionessa.webp" alt="Cattleya Del Piccolo Diavolo, Campionessa San Marino Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="329" style="border-radius:12px" srcset="/images/cattleya-campionessa-400w.webp 400w, /images/cattleya-campionessa-800w.webp 800w, /images/cattleya-campionessa.webp 1200w" sizes="(max-width: 300px) 100vw, 300px">
   </div>
   <div>
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
@@ -234,7 +234,7 @@ custom_content: |
   
   <div style="display:flex;flex-direction:column;gap:1.5rem;margin-bottom:2rem">
   <div class="image-center">
-  <img src="/images/lothar-best-young.webp" alt="Lothar Matthäus, Giovane Campione Italiano e Campione Sloveno Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="380" style="border-radius:12px" srcset="/images/lothar-best-young-400w.webp 400w, /images/lothar-best-young-800w.webp 800w, /images/lothar-best-young.webp 1110w" sizes="(max-width: 300px) 100vw, 300px">
+  <img src="/images/lothar-best-young.webp" alt="Lothar Matthäus, Giovane Campione Italiano e Campione Sloveno Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="181" style="border-radius:12px" srcset="/images/lothar-best-young-400w.webp 400w, /images/lothar-best-young-800w.webp 800w, /images/lothar-best-young.webp 1110w" sizes="(max-width: 300px) 100vw, 300px">
   </div>
   <div class="image-center" style="margin-top:1rem">
   <img src="/images/lothar-matthaus-tyson-locandina.avif" alt="CH SLO J.CH ITA Lothar Matthäus del Piccolo Diavolo detto Tyson, Staffordshire Bull Terrier tigrato allevato da Del Piccolo Diavolo" loading="lazy" decoding="async" width="900" height="1228" style="border-radius:12px;max-width:340px;width:100%" srcset="/images/lothar-matthaus-tyson-locandina-400w.avif 400w, /images/lothar-matthaus-tyson-locandina-800w.avif 800w, /images/lothar-matthaus-tyson-locandina.avif 900w" sizes="(max-width: 900px) 100vw, 900px">

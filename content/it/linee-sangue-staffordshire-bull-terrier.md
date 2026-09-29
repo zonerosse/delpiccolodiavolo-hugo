@@ -1,7 +1,7 @@
 ---
 title: "Storia delle Linee di Sangue dello Staffordshire Bull Terrier"
 date: 2025-11-08
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 titleSeo: "Storia delle linee di sangue dello Staffy"
 translationKey: "linee-sangue"
 articolo: true
@@ -14,7 +14,7 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/hero-default.webp" alt="Linee di sangue Staffordshire Bull Terrier Genealogia" width="800" height="600" fetchpriority="high">
+  <img src="/images/blog/hero-default.webp" alt="Linee di sangue Staffordshire Bull Terrier Genealogia" width="800" height="627" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">
@@ -275,7 +275,7 @@ custom_content: |
   <div class="faq-answer">&Egrave; uno dei due numeri che guardo prima di programmare un accoppiamento, ma da solo non basta. Il coefficiente dice <strong>quanto</strong> si sta stringendo, non <strong>su chi</strong>: raddoppiare su un soggetto eccellente &egrave; una tecnica di selezione, raddoppiare su uno mediocre moltiplica i suoi difetti. La forbice entro cui mi muovo va dal 6 al 9 per cento, ma &egrave; opinabile e non un dogma. C'&egrave; anche un aspetto tecnico che quasi nessuno spiega: il valore dipende da quante generazioni si contano. Lo stesso cane pu&ograve; avere un COI del 9 per cento su otto generazioni e del 21 sul pedigree completo. Chi cita un coefficiente senza dire su quante generazioni l'ha calcolato sta dicendo mezza cosa.</div>
   
   <a class="rimando" href="/come-si-legge-un-pedigree/">
-  <img src="/images/blog/pedigree-queen-hero.webp" alt="Queen of California in esposizione" width="88" height="88" loading="lazy" decoding="async">
+  <img src="/images/blog/pedigree-queen-hero.webp" alt="Queen of California in esposizione" width="88" height="59" loading="lazy" decoding="async">
   <span>
   <span class="ti">Come si legge un pedigree</span>
   <span class="de">Dove si vedono davvero le linee: foto degli antenati, discendenze e coefficiente di consanguineit&agrave;.</span>
