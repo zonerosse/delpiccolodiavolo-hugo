@@ -33,9 +33,14 @@
   {{/* Con la testata nel testo, testata e percorso restano fuori dal riquadro
        del testo, a tutta larghezza come negli altri articoli: il contenuto
        viene diviso alla chiusura del percorso (il primo </nav>). */}}
-  {{ $corpo := .Content }}
+  {{/* Anche gli articoli in Markdown possono usare i segnaposto dei
+       correlati e degli articoli recenti: senza questa sostituzione il
+       commento <!--CORRELATI--> resterebbe in chiaro nella pagina. */}}
+  {{- $testo := replace (string .Content) "<!--CORRELATI-->" (partial "correlati.html" .) -}}
+  {{- $testo = replace $testo "<!--RECENTI-->" (partial "recenti.html" .) -}}
+  {{- $corpo := $testo | safeHTML -}}
   {{ if $haTestata }}
-    {{ $parti := split .Content "</nav>" }}
+    {{ $parti := split $testo "</nav>" }}
     {{ printf "%s</nav>" (index $parti 0) | safeHTML }}
     {{ $corpo = delimit (after 1 $parti) "</nav>" | safeHTML }}
   {{ end }}

@@ -5,7 +5,7 @@ date: 2025-12-28
 lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 translationKey: "blog"
-description: "Articoli sullo Staffordshire Bull Terrier scritti dall'allevamento: cuccioli, salute e test genetici, standard e linee di sangue, convivenza in famiglia e legge."
+description: "Articoli sullo Staffordshire Bull Terrier scritti dall'allevamento: cuccioli, salute e test genetici, standard e linee di sangue, famiglia e legge."
 slug: "blog"
 custom_content: |
   <section class="hero">

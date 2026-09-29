@@ -6,7 +6,7 @@ titleSeo: "BOAS in the Staffordshire Bull Terrier: breathing"
 translationKey: "boas"
 articolo: true
 image: "/images/blog/boas-respirazione.webp"
-description: "BOAS in the Staffordshire Bull Terrier: what the airway syndrome is, why the breed is not extremely brachycephalic and how to choose a puppy that breathes freely."
+description: "BOAS in the Staffordshire Bull Terrier: what the airway syndrome is, why the breed is not extremely brachycephalic and how to pick a puppy that breathes freely."
 slug: "boas-staffordshire-bull-terrier-breathing"
 custom_content: |
   <section class="hero">

@@ -5,7 +5,7 @@ articolo: true
 image: "/images/blog/scontrino-farmaci-cucciolata.webp"
 titleSeo: "Was kostet ein Staffordshire Bull Terrier Welpe"
 translationKey: "quanto-costa"
-description: "Was ein Staffordshire Bull Terrier Welpe mit ENCI-Ahnentafel kostet, was der Preis umfasst und was ein Züchter für einen Wurf wirklich ausgibt, Posten für Posten."
+description: "Was ein Staffordshire Bull Terrier Welpe mit ENCI-Ahnentafel kostet, was der Preis umfasst und was ein Züchter für einen Wurf wirklich ausgibt."
 slug: "was-kostet-ein-staffordshire-bull-terrier-welpe"
 date: 2026-01-25
 ---

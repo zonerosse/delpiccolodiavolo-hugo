@@ -5,7 +5,7 @@ lastmod: 2026-09-28
 translationKey: "altri-animali"
 articolo: true
 image: "/images/blog/famiglia-2.jpg"
-description: "Staffordshire Bull Terrier mit anderen Hunden, Katzen und Kleintieren: was das Terrier-Erbe bedeutet, wie man zusammenführt und wo die meisten Konflikte beginnen."
+description: "Staffordshire Bull Terrier mit anderen Hunden, Katzen und Kleintieren: was das Terrier-Erbe bedeutet, wie man zusammenführt und wo Konflikte beginnen."
 slug: "staffy-andere-haustiere"
 custom_content: |
   <section class="hero">

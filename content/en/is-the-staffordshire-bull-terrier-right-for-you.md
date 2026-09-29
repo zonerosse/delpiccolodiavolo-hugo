@@ -6,7 +6,7 @@ titleSeo: "Staffordshire Bull Terrier: is it the right dog for you?"
 translationKey: "cane-giusto"
 articolo: true
 image: "/images/blog/hero-default.webp"
-description: "Is the Staffordshire Bull Terrier right for you? Real strengths and weaknesses, who the breed suits and who it does not, and the daily commitment it asks of you."
+description: "Is the Staffordshire Bull Terrier right for you? Real strengths and weaknesses, who the breed suits and who it does not, and the daily commitment it asks."
 slug: "is-the-staffordshire-bull-terrier-right-for-you"
 custom_content: |
   <section class="hero">

@@ -6,7 +6,7 @@ articolo: true
 translationKey: "quanto-costa"
 image: "/images/blog/scontrino-farmaci-cucciolata.webp"
 titleSeo: "Quanto costa un cucciolo Staffordshire Bull Terrier"
-description: "Quanto costa un cucciolo Staffordshire Bull Terrier con pedigree ENCI, cosa include il prezzo e quanto spende davvero l'allevatore per una cucciolata, voce per voce."
+description: "Quanto costa un cucciolo Staffordshire Bull Terrier con pedigree ENCI, cosa include il prezzo e quanto spende davvero l'allevatore per una cucciolata."
 slug: "quanto-costa-cucciolo-staffordshire-bull-terrier"
 ---
 

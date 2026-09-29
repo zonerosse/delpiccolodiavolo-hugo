@@ -5,7 +5,7 @@ date: 2025-12-28
 lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 translationKey: "maschi"
-description: "Unsere Staffordshire Bull Terrier Rüden: Lothar (Slowenischer und Italienischer Jugendchampion), Braveheart und Papillon. L2HGA und HC (HSF4) zertifizierte Gentests."
+description: "Unsere Staffordshire Bull Terrier Rüden: Lothar (Slowenischer und Italienischer Jugendchampion), Braveheart und Papillon. Gentests L2HGA und HC (HSF4)."
 slug: "rueden-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">

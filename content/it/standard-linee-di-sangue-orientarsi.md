@@ -6,7 +6,7 @@ lastmod: 2026-09-28
 translationKey: "scelta-linee"
 articolo: true
 image: "/images/blog/standard-2.webp"
-description: "Linee di sangue dello Staffordshire Bull Terrier: da dove vengono, come leggere un pedigree, perché la salute viene prima della linea e cosa chiedere all'allevatore."
+description: "Linee di sangue dello Staffordshire Bull Terrier: da dove vengono, come leggere un pedigree, perché la salute viene prima della linea, cosa chiedere."
 slug: "standard-linee-di-sangue-orientarsi"
 custom_content: |
   <section class="hero">

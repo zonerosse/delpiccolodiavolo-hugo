@@ -52,7 +52,7 @@ Inside `custom_content`, HTML comment placeholders are string-replaced with part
 | `<!--CORRELATI-->` | yes | yes | `partials/correlati.html`, driven by the `correlati:` front matter list |
 | `<!--LISTAATTESA-->` | yes | yes | `partials/lista-attesa.html` |
 
-Adding a placeholder to a page that its template doesn't handle leaves the literal comment in the HTML.
+`<!--CORRELATI-->` and `<!--RECENTI-->` are also replaced in the Markdown body of pages *without* `custom_content` (the `{{ else }}` branch of `single.html`); the other placeholders are not. Adding a placeholder to a page that its template doesn't handle leaves the literal comment in the HTML.
 
 ### Breeding diary drives the homepage
 

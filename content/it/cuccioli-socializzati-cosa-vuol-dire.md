@@ -6,7 +6,7 @@ lastmod: 2026-09-28
 translationKey: "socializzazione-affido"
 articolo: true
 image: "/images/blog/socializzazione-cortile-hero.webp"
-description: "La finestra sensibile va dalla terza alla dodicesima settimana: cosa un cucciolo può davvero incontrare in allevamento, cosa no, e cosa resta da fare alla famiglia."
+description: "La finestra sensibile va dalla terza alla dodicesima settimana: cosa un cucciolo può incontrare in allevamento, cosa no, e cosa resta da fare alla famiglia."
 slug: "cuccioli-socializzati-cosa-vuol-dire"
 custom_content: |
   <section class="hero">

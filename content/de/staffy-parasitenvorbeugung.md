@@ -5,7 +5,7 @@ lastmod: 2026-09-28
 translationKey: "parassiti"
 articolo: true
 image: "/images/blog/salute-1.webp"
-description: "Parasitenvorbeugung beim Staffordshire Bull Terrier: Flöhe, Zecken, Darmwürmer, Herzwurm und Leishmaniose, mit einem praktischen Jahresplan für Italien und Europa."
+description: "Parasitenvorbeugung beim Staffordshire Bull Terrier: Flöhe, Zecken, Darmwürmer, Herzwurm und Leishmaniose, mit einem praktischen Jahresplan für Italien."
 slug: "staffy-parasitenvorbeugung"
 custom_content: |
   <section class="hero">

@@ -5,7 +5,7 @@ date: 2025-12-28
 lastmod: 2026-09-28
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
-description: "Google reviews from families who took home a Staffordshire Bull Terrier from Del Piccolo Diavolo: real experiences, before the puppy arrived and in the years after."
+description: "Google reviews from families who took home a Staffordshire Bull Terrier from Del Piccolo Diavolo: real experiences, before the puppy arrived and years after."
 slug: "reviews"
 custom_content: |
   <section class="hero">

@@ -6,7 +6,7 @@ titleSeo: "BOAS beim Staffordshire Bull Terrier: die Atmung"
 translationKey: "boas"
 articolo: true
 image: "/images/blog/boas-respirazione.webp"
-description: "BOAS beim Staffordshire Bull Terrier: was das Atemwegssyndrom ist, warum die Rasse nicht extrem brachyzephal ist und wie man einen Welpen mit freier Atmung erkennt."
+description: "BOAS beim Staffordshire Bull Terrier: was das Atemwegssyndrom ist, warum die Rasse nicht extrem brachyzephal ist und wie man einen frei atmenden Welpen erkennt."
 slug: "boas-staffordshire-bull-terrier-atmung"
 custom_content: |
   <section class="hero">
