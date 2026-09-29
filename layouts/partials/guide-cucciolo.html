@@ -1,0 +1,65 @@
+{{/*
+  guide-cucciolo.html — blocco di collegamenti alle guide pratiche.
+
+  Serve a non lasciare isolate le guide operative (alimentazione, bisogni,
+  solitudine, passeggiata, giochi, vaccinazioni, sverminazione; denti,
+  parassiti, esercizio): in inglese e tedesco ricevevano un solo link,
+  quello della scheda nel blog.
+
+  Le pagine si trovano per translationKey, quindi il blocco esce nella
+  lingua giusta da solo e la pagina corrente viene esclusa.
+
+  Uso:
+    {{ partial "guide-cucciolo.html" (dict "pagina" . "gruppo" "cucciolo") }}
+    gruppo = "cucciolo" | "salute" | "auto" (sceglie dal translationKey
+    della pagina; se non appartiene a nessun gruppo non stampa nulla)
+
+  Nel custom_content si può usare il segnaposto <!--GUIDE--> (gruppo
+  "cucciolo").
+*/}}
+{{- $p := .pagina -}}
+{{- $gruppo := .gruppo | default "auto" -}}
+{{- $lang := $p.Site.Language.Lang -}}
+{{- $gruppi := dict
+  "cucciolo" (slice "alimentazione" "bisogni" "solitudine" "passeggiata" "giochi-mentali" "socializzazione" "vaccinazioni" "sverminazione")
+  "salute"   (slice "denti" "parassiti" "esercizio" "vaccinazioni" "sverminazione")
+-}}
+{{- $tk := $p.Params.translationKey | default "" -}}
+{{- if eq $gruppo "auto" -}}
+  {{- $gruppo = "" -}}
+  {{- if in (index $gruppi "cucciolo") $tk }}{{ $gruppo = "cucciolo" }}{{ end -}}
+  {{- if and (not $gruppo) (in (index $gruppi "salute") $tk) }}{{ $gruppo = "salute" }}{{ end -}}
+{{- end -}}
+{{- with $gruppo -}}
+{{- $chiavi := index $gruppi . -}}
+{{- $titolo := "" -}}{{- $intro := "" -}}
+{{- if eq . "cucciolo" -}}
+  {{- $titolo = cond (eq $lang "en") "The first months at home: the guides" (cond (eq $lang "de") "Die ersten Monate zu Hause: die Ratgeber" "I primi mesi a casa: le guide") -}}
+  {{- $intro = cond (eq $lang "en") "What we tell the families of our puppies, written down so it can be read again when needed." (cond (eq $lang "de") "Was wir den Familien unserer Welpen sagen, aufgeschrieben, damit man es bei Bedarf nachlesen kann." "Quello che diciamo alle famiglie dei nostri cuccioli, scritto perché si possa rileggere quando serve.") -}}
+{{- else -}}
+  {{- $titolo = cond (eq $lang "en") "Everyday health: the guides" (cond (eq $lang "de") "Gesundheit im Alltag: die Ratgeber" "Salute quotidiana: le guide") -}}
+  {{- $intro = cond (eq $lang "en") "Teeth, parasites, exercise, vaccinations and worming: the routine care of a Staffordshire Bull Terrier." (cond (eq $lang "de") "Zähne, Parasiten, Bewegung, Impfungen und Entwurmung: die laufende Pflege eines Staffordshire Bull Terrier." "Denti, parassiti, movimento, vaccinazioni e sverminazioni: la manutenzione ordinaria di uno Staffordshire Bull Terrier.") -}}
+{{- end -}}
+{{- $pagine := slice -}}
+{{- range $chiavi -}}
+  {{- with index (where $p.Site.RegularPages "Params.translationKey" .) 0 -}}
+    {{- if ne .Permalink $p.Permalink }}{{ $pagine = $pagine | append . }}{{ end -}}
+  {{- end -}}
+{{- end -}}
+{{- if $pagine }}
+<section class="section guide-cucciolo">
+<div class="section-inner">
+<h2 class="section-title" style="font-size:1.5rem;margin-bottom:.5rem">{{ $titolo }}</h2>
+<p style="color:#4a3f35;font-size:.95rem;line-height:1.6;margin:0 0 1.2rem">{{ $intro }}</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:.9rem">
+  {{- range $pagine }}
+  <a href="{{ .RelPermalink }}" style="display:block;background:#fff;border:1px solid #ece3d4;border-radius:12px;padding:.9rem 1.05rem;text-decoration:none;color:inherit;box-shadow:0 4px 14px rgba(0,0,0,.05)">
+    <span style="display:block;color:#5c4a3a;font-weight:700;font-size:1rem;line-height:1.3">{{ .Title }}</span>
+    <span style="display:inline-block;margin-top:.45rem;color:#8b5a2b;font-weight:700;font-size:.88rem">{{ if eq $lang "en" }}Read &rarr;{{ else if eq $lang "de" }}Lesen &rarr;{{ else }}Leggi &rarr;{{ end }}</span>
+  </a>
+  {{- end }}
+</div>
+</div>
+</section>
+{{- end -}}
+{{- end -}}

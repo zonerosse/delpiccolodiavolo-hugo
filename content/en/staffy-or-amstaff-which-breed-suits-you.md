@@ -1,11 +1,11 @@
 ---
-title: "Staffy or Amstaff: Which of the Two Breeds Suits You"
-lastmod: 2026-09-28
+title: "Staffy or Amstaff, Which Suits You: the Breeder's Test"
+lastmod: 2026-09-29
 articolo: true
 image: "/images/blog/staffy-amstaff-hero.webp"
-titleSeo: "Staffy or Amstaff: which breed to choose"
+titleSeo: "Staffy or Amstaff, which suits you: the breeder's test"
 translationKey: "differenza-staffy-amstaff"
-description: "17 kg against 30, flat living against space, first dog or not: the concrete questions to ask before choosing between Staffordshire Bull Terrier and Amstaff."
+description: "Seven questions on home, children, experience, time and paperwork, from a Staffordshire Bull Terrier breeder since 2013. For choosing, not for telling apart."
 slug: "staffy-or-amstaff-which-breed-suits-you"
 date: 2026-01-18
 ---
@@ -18,8 +18,8 @@ date: 2026-01-18
 </div>
 <div class="hero-content">
 <span class="hero-eyebrow">Complete Guide</span>
-<h1 class="hero-title">Staffy or Amstaff: which of the two breeds suits you</h1>
-<p class="hero-subtitle">You already know they are not the same dog. Now comes the harder question: which one to choose</p>
+<h1 class="hero-title">Staffy or Amstaff, which suits you: <em>the breeder's test</em></h1>
+<p class="hero-subtitle">You already know they are not the same dog. What remains are the seven questions we ask anyone who writes to us about a puppy</p>
 </div>
 </section>
 
@@ -35,66 +35,43 @@ date: 2026-01-18
 
 <p><strong>If you are still trying to tell them apart</strong>, the guide you want is a different one: <a href="/en/staffy-pitbull-amstaff-difference/" title="How to recognise the three breeds">Staffordshire Bull Terrier, Pitbull and Amstaff compared</a>, with the measurements table and the legal position. This page starts one step later: you already know they are distinct breeds and you have to decide which one comes home with you.</p>
 
-<p>One of the questions I am asked most often at my <a href="/en/" title="Staffordshire Bull Terrier kennel">Staffordshire Bull Terrier kennel</a> is: <em>"Is the Staffy the same as the Amstaff?"</em>. The answer is no. They are two distinct breeds, separately recognised by the FCI, with shared origins but different paths.</p>
+<p>The Staffordshire Bull Terrier and the American Staffordshire Terrier are two separate breeds, with their own FCI standards and stud books: a male Staffy weighs 12-17 kg at 35-40 cm at the withers, an Amstaff 25-32 kg at 45.7-48.2 cm. Choosing between them is not a matter of taste in heads: it is a matter of home, of who lives in it and of how much time there is. At the Del Piccolo Diavolo kennel, in Ostellato near Ferrara, Italy, we ask anyone who writes about a puppy seven questions before we talk about litters, because the answer to each one rules out one of the two breeds more often than people expect. They are the same seven questions on this page. The answers about the Staffy come from our own dogs; those about the Amstaff from what we have seen in the ring and in the homes of people who keep one.</p>
 
-<p>This guide sets out the differences that actually matter when you are choosing.</p>
+<h2>The seven questions</h2>
 
-<h2>Origins: one history, two directions</h2>
+<h3>1. Who lives in the house?</h3>
 
-<p>Both breeds descend from the English fighting dogs of the 1800s, crosses between Bulldog and Terrier. When those dogs reached America, breeders there selected for larger, more powerful animals, creating the <a href="https://www.enci.it/media/2547/286.pdf" title="FCI standard no. 76, official ENCI PDF" target="_blank" rel="noopener" aria-label="FCI standard no. 76, official ENCI PDF (opens in a new tab)">American Staffordshire Terrier</a>.</p>
+<p>With small children, size matters every single day: 15 kg jumping up at a three-year-old is a bump, 30 kg is a fall. For both breeds the rule that never changes applies: no dog, of any breed, is left alone with a small child. The "nanny dog" nickname describes the Staffy's tolerance, not a capacity to supervise. With children at home, the answer is almost always the Staffy.</p>
 
-<p>In England the selection kept the original, more compact size, producing the Staffordshire Bull Terrier we know today.</p>
+<h3>2. How many square metres, and on which floor?</h3>
 
-<h2>Size: the most obvious difference</h2>
+<p>Both live indoors, not in the garden: they are people dogs, and a garden is a bonus, not a requirement. The difference is in the handling: stairs, the lift, the sofa and the back seat of the car are measured in kilos. A Staffy in a flat is a habit; so is an Amstaff, but with twice the weight at every doorway.</p>
 
-<p><strong>Staffordshire Bull Terrier (Staffy):</strong></p>
-<ul>
-<li>Height: 35-40 cm at the withers</li>
-<li>Weight, males: 12-17 kg</li>
-<li>Weight, females: 10-15 kg</li>
-</ul>
+<h3>3. Is this your first dog?</h3>
 
-<p><strong>American Staffordshire Terrier (Amstaff):</strong></p>
-<ul>
-<li>Height: 45.7-48.2 cm in males, 43.1-48.2 cm in females</li>
-<li>Weight, males: 25-32 kg</li>
-<li>Weight, females: 18-25 kg</li>
-</ul>
+<p>Both are terriers, with the same tenacity. Where the difference shows is on the lead: 17 kg pulling towards a cat can be held with the wrist, 30 kg needs technique and training done beforehand, not afterwards. Someone who has never handled a dog starts with an advantage with the Staffy.</p>
 
-<p>In practice the Amstaff weighs roughly twice what the Staffy does. That difference has consequences you will feel daily: handling, the space you need, what you spend on food, and how manageable the dog is if it decides to pull.</p>
+<h3>4. How much time, every day?</h3>
 
-<h2>Temperament: similar, not identical</h2>
+<p>Both need at least an hour of exercise and mental work, daily. The Staffy stays playful into adulthood; the Amstaff tends to settle after two or three years. If you want a dog that is still a clown at six, it is the Staffy; if you would rather have a calmer adult, the Amstaff.</p>
 
-<p>Both breeds are affectionate, loyal and strongly oriented towards people. There are shades of difference, though.</p>
+<h3>5. Are there already other dogs?</h3>
 
-<p>The <strong>Staffy</strong> has traditionally been called the "nanny dog" for its patience with children. It is playful, faintly clownish, and keeps a lively energy well into adulthood. Its character is the softer of the two.</p>
+<p>What applies to every terrier applies to both: reactivity towards other dogs exists, above all between adults of the same sex, and socialisation reduces it without removing it. With two dogs in the house, weight decides how manageable a scuffle is: separating 15 kg and separating 30 kg is not the same manoeuvre. How the Staffy lives alongside other animals is covered in the page on <a href="/en/staffy-other-pets/" title="Staffy with other dogs, cats and small animals">other pets at home</a>.</p>
 
-<p>The <strong>Amstaff</strong> is generally calmer and more composed as an adult. It has a more imposing presence and a slightly more serious character, while remaining devoted to its family.</p>
+<h3>6. Insurance, building rules, local orders</h3>
 
-<h2>The legal position in Italy</h2>
+<p>Italy has had no list of dangerous breeds since 2009. The Amstaff, however, still turns up in municipal orders, insurance exclusions and apartment-building regulations; the Staffy, less known and smaller, almost never does. Read your building's rules and your liability policy before choosing, not after. The legal picture is in the page on <a href="/en/staffy-dangerous-breed-law/" title="Is the Staffy dangerous? What Italian law says">the Staffy and Italian law</a>.</p>
 
-<p>Italy abolished the list of dangerous breeds in 2009. The Amstaff, however, still appears in some local ordinances and attracts more bureaucratic attention in certain contexts: insurance policies, block-of-flats regulations, some rental agreements.</p>
+<h3>7. What do you want to see when you open the door?</h3>
 
-<p>The Staffy, being less well known and smaller, rarely runs into those issues.</p>
+<p>It is not a frivolous question. Anyone looking for an imposing presence will be disappointed by the Staffy, and a dog taken for the wrong reason is the one someone tries to rehome a year later. The Amstaff imposes; the Staffy is compact and grins. If the answer is "a dog that commands respect", it is not the Staffy.</p>
 
-<h2>The questions to ask before deciding</h2>
+<h2>In two lines</h2>
 
-<p><strong>Choose the Staffy if:</strong></p>
-<ul>
-<li>You have young children</li>
-<li>You live in a flat</li>
-<li>You want a dog of manageable size</li>
-<li>You are looking for a playful, lively character</li>
-<li>You would rather avoid bureaucratic complications</li>
-</ul>
+<p><strong>Choose the Staffy if:</strong> you have young children, you live in a flat, it is your first dog, you want an adult that is still playful, you would rather avoid bureaucratic complications.</p>
 
-<p><strong>Choose the Amstaff if:</strong></p>
-<ul>
-<li>You prefer a larger dog</li>
-<li>You have space and a garden</li>
-<li>You want a more imposing presence</li>
-<li>You already have experience with terrier breeds</li>
-</ul>
+<p><strong>Choose the Amstaff if:</strong> you prefer a larger dog, you have space and time, you want an imposing presence and a calmer adult, you already have experience with terriers.</p>
 
 <h2>My experience as a breeder</h2>
 

@@ -250,6 +250,7 @@ custom_content: |
   </div>
   </section>
   
+  <!--GUIDE-->
   <!--CORRELATI-->
 
   <p style="margin-top:1rem">Eine ausführliche Darstellung dessen, was hinter einem gut gezüchteten Welpen steht, finden Sie unter <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Was kostet ein Staffordshire Bull Terrier Welpe">was ein Staffordshire Bull Terrier Welpe kostet</a>.</p>

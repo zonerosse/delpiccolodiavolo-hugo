@@ -2,7 +2,7 @@
 title: "Blog Staffordshire Bull Terrier"
 titleSeo: "Guide sullo Staffordshire Bull Terrier: salute e cuccioli"
 date: 2025-12-28
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 tipoPagina: "CollectionPage"
 translationKey: "blog"
 description: "Articoli sullo Staffordshire Bull Terrier scritti dall'allevamento: cuccioli, salute e test genetici, standard e linee di sangue, famiglia e legge."
@@ -119,12 +119,12 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/cuccioli-socializzazione-in-casa/" title="Leggi: Socializzazione in casa"><div class="blog-card-thumb"><img src="/images/blog/cucciolo-in-mano-hero.webp" alt="Cuccioli di Staffordshire Bull Terrier: socializzazione in casa" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/cuccioli-socializzazione-in-casa/" title="Leggi: Socializzare il cucciolo in casa"><div class="blog-card-thumb"><img src="/images/blog/cucciolo-in-mano-hero.webp" alt="Cuccioli di Staffordshire Bull Terrier: socializzazione in casa" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Mar 2025</span><span>•</span><span class="cat">Cuccioli</span></div>
-  <h3><a href="/cuccioli-socializzazione-in-casa/" title="Leggi: Socializzazione in casa">Socializzazione in casa</a></h3>
+  <h3><a href="/cuccioli-socializzazione-in-casa/" title="Leggi: Socializzare il cucciolo in casa">Socializzare il cucciolo in casa: la lista per la famiglia</a></h3>
   <p>Prime esperienze positive e gestione quotidiana.</p>
-  <a class="read" href="/cuccioli-socializzazione-in-casa/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Socializzazione in casa">Leggi →</a>
+  <a class="read" href="/cuccioli-socializzazione-in-casa/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Socializzare il cucciolo in casa">Leggi →</a>
   </div>
   </article>
 
@@ -230,12 +230,12 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/differenza-staffy-amstaff/" title="Leggi: Differenza Staffy e Amstaff"><div class="blog-card-thumb"><img src="/images/blog/staffy-amstaff-hero.webp" alt="Differenza tra Staffy e Amstaff" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/differenza-staffy-amstaff/" title="Leggi: Staffy o Amstaff, il test dell'allevatore"><div class="blog-card-thumb"><img src="/images/blog/staffy-amstaff-hero.webp" alt="Differenza tra Staffy e Amstaff" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Gen 2026</span><span>•</span><span class="cat">Standard</span></div>
-  <h3><a href="/differenza-staffy-amstaff/" title="Leggi: Differenza Staffy e Amstaff">Differenza tra Staffy e Amstaff: Guida Completa</a></h3>
-  <p>Taglia, carattere, origini e quale scegliere tra le due razze.</p>
-  <a class="read" href="/differenza-staffy-amstaff/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Differenza tra Staffy e Amstaff: Guida Completa">Leggi →</a>
+  <h3><a href="/differenza-staffy-amstaff/" title="Leggi: Staffy o Amstaff, il test dell'allevatore">Staffy o Amstaff: il test dell'allevatore</a></h3>
+  <p>Sette domande su casa, bambini, esperienza e tempo per scegliere fra le due razze.</p>
+  <a class="read" href="/differenza-staffy-amstaff/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Staffy o Amstaff: il test dell'allevatore">Leggi →</a>
   </div>
   </article>
 

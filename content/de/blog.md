@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Blog - Artikel & Ratgeber"
 date: 2025-12-28
-lastmod: 2026-09-27
+lastmod: 2026-09-29
 tipoPagina: "CollectionPage"
 translationKey: "blog"
 description: "Artikel über Welpen, Gesundheit, Standard und Zusammenleben mit dem Staffordshire Bull Terrier. Praktische Tipps aus der Zucht."
@@ -115,12 +115,12 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/de/welpen-sozialisierung-zuhause/" title="Lesen: Sozialisierung zu Hause"><div class="blog-card-thumb"><img src="/images/blog/cucciolo-in-mano-hero.webp" alt="Staffordshire Bull Terrier Welpen: sozialisierung zu Hause" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/welpen-sozialisierung-zuhause/" title="Lesen: Welpen zu Hause sozialisieren"><div class="blog-card-thumb"><img src="/images/blog/cucciolo-in-mano-hero.webp" alt="Staffordshire Bull Terrier Welpen: sozialisierung zu Hause" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Mär 2025</span><span>•</span><span class="cat">Welpen</span></div>
-  <h3><a href="/de/welpen-sozialisierung-zuhause/" title="Lesen: Sozialisierung zu Hause">Sozialisierung zu Hause</a></h3>
+  <h3><a href="/de/welpen-sozialisierung-zuhause/" title="Lesen: Welpen zu Hause sozialisieren">Welpen zu Hause sozialisieren: die Liste für die Familie</a></h3>
   <p>Erste positive Erfahrungen und tägliches Management.</p>
-  <a class="read" href="/de/welpen-sozialisierung-zuhause/" title="Vollständigen Artikel lesen" aria-label="Artikel lesen: Sozialisierung zu Hause">Lesen →</a>
+  <a class="read" href="/de/welpen-sozialisierung-zuhause/" title="Vollständigen Artikel lesen" aria-label="Artikel lesen: Welpen zu Hause sozialisieren">Lesen →</a>
   </div>
   </article>
   
@@ -196,12 +196,12 @@ custom_content: |
   
   <div class="blog-grid">
   <article class="blog-card">
-  <a href="/de/staffy-oder-amstaff-welche-rasse-passt-zu-ihnen/" title="Lesen: Staffy oder Amstaff: welche Rasse passt zu Ihnen"><div class="blog-card-thumb"><img src="/images/blog/staffy-amstaff-hero.webp" alt="Staffordshire Bull Terrier im Vergleich mit dem American Staffordshire Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/staffy-oder-amstaff-welche-rasse-passt-zu-ihnen/" title="Lesen: Staffy oder Amstaff, der Test des Züchters"><div class="blog-card-thumb"><img src="/images/blog/staffy-amstaff-hero.webp" alt="Staffordshire Bull Terrier im Vergleich mit dem American Staffordshire Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Jan 2026</span><span>•</span><span class="cat">Rassestandard</span></div>
-  <h3><a href="/de/staffy-oder-amstaff-welche-rasse-passt-zu-ihnen/" title="Lesen: Staffy oder Amstaff: welche Rasse passt zu Ihnen">Staffy oder Amstaff: welche Rasse passt zu Ihnen</a></h3>
+  <h3><a href="/de/staffy-oder-amstaff-welche-rasse-passt-zu-ihnen/" title="Lesen: Staffy oder Amstaff, der Test des Züchters">Staffy oder Amstaff: der Test des Züchters</a></h3>
   <p>17 kg gegen 30, Wohnung oder Garten: die Fragen vor der Entscheidung.</p>
-  <a class="read" href="/de/staffy-oder-amstaff-welche-rasse-passt-zu-ihnen/" aria-label="Artikel lesen: Staffy oder Amstaff: welche Rasse passt zu Ihnen">Lesen →</a>
+  <a class="read" href="/de/staffy-oder-amstaff-welche-rasse-passt-zu-ihnen/" aria-label="Artikel lesen: Staffy oder Amstaff: der Test des Züchters">Lesen →</a>
   </div>
   </article>
   <article class="blog-card">

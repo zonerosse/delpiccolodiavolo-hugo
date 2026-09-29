@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Blog - Articles & Guides"
 date: 2025-12-28
-lastmod: 2026-09-27
+lastmod: 2026-09-29
 tipoPagina: "CollectionPage"
 translationKey: "blog"
 description: "Articles on puppies, health, breed standard and daily life with the Staffordshire Bull Terrier. Practical advice from the kennel."
@@ -115,12 +115,12 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/en/puppy-home-socialization/" title="Read: Home socialization"><div class="blog-card-thumb"><img src="/images/blog/cucciolo-in-mano-hero.webp" alt="Staffordshire Bull Terrier puppies: home socialization" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/en/puppy-home-socialization/" title="Read: Socialising the puppy at home"><div class="blog-card-thumb"><img src="/images/blog/cucciolo-in-mano-hero.webp" alt="Staffordshire Bull Terrier puppies: home socialization" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Mar 2025</span><span>•</span><span class="cat">Puppies</span></div>
-  <h3><a href="/en/puppy-home-socialization/" title="Read: Home socialization">Home socialization</a></h3>
+  <h3><a href="/en/puppy-home-socialization/" title="Read: Socialising the puppy at home">Socialising the puppy at home: the family checklist</a></h3>
   <p>First positive experiences and daily management.</p>
-  <a class="read" href="/en/puppy-home-socialization/" title="Read full article" aria-label="Read the article: Home socialization">Read →</a>
+  <a class="read" href="/en/puppy-home-socialization/" title="Read full article" aria-label="Read the article: Socialising the puppy at home">Read →</a>
   </div>
   </article>
   
@@ -196,12 +196,12 @@ custom_content: |
   
   <div class="blog-grid">
   <article class="blog-card">
-  <a href="/en/staffy-or-amstaff-which-breed-suits-you/" title="Read: Staffy or Amstaff: Which Breed Suits You"><div class="blog-card-thumb"><img src="/images/blog/staffy-amstaff-hero.webp" alt="Staffordshire Bull Terrier compared with the American Staffordshire Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/en/staffy-or-amstaff-which-breed-suits-you/" title="Read: Staffy or Amstaff, the breeder's test"><div class="blog-card-thumb"><img src="/images/blog/staffy-amstaff-hero.webp" alt="Staffordshire Bull Terrier compared with the American Staffordshire Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Jan 2026</span><span>•</span><span class="cat">Breed Standard</span></div>
-  <h3><a href="/en/staffy-or-amstaff-which-breed-suits-you/" title="Read: Staffy or Amstaff: Which Breed Suits You">Staffy or Amstaff: Which Breed Suits You</a></h3>
+  <h3><a href="/en/staffy-or-amstaff-which-breed-suits-you/" title="Read: Staffy or Amstaff, the breeder's test">Staffy or Amstaff: the breeder's test</a></h3>
   <p>17 kg against 30, flat or garden: the questions to ask before choosing.</p>
-  <a class="read" href="/en/staffy-or-amstaff-which-breed-suits-you/" aria-label="Read the article: Staffy or Amstaff: Which Breed Suits You">Read →</a>
+  <a class="read" href="/en/staffy-or-amstaff-which-breed-suits-you/" aria-label="Read the article: Staffy or Amstaff: the breeder's test">Read →</a>
   </div>
   </article>
   <article class="blog-card">

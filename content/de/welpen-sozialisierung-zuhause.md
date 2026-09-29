@@ -1,12 +1,12 @@
 ---
-title: "Welpen: Sozialisierung zu Hause"
+title: "Welpen zu Hause sozialisieren: die Liste für die Familie"
 date: 2025-03-18
-titleSeo: "Sozialisierung des Welpen zu Hause: die ersten Wochen"
-lastmod: 2026-09-28
+titleSeo: "Welpen zu Hause sozialisieren: die Liste für die Familie"
+lastmod: 2026-09-29
 translationKey: "socializzazione"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
-description: "Sozialisierung zu Hause für Ihren Staffordshire Bull Terrier Welpen: Geführte erste Erfahrungen mit Geräuschen, Oberflächen, Handling und Haushaltsroutinen."
+description: "Böden, Geräusche, Anfassen, Besuch und Näpfe: die Liste dessen, was ein Staffordshire Bull Terrier Welpe in den ersten Wochen zu Hause kennenlernen sollte."
 slug: "welpen-sozialisierung-zuhause"
 custom_content: |
   <section class="hero">
@@ -17,7 +17,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Welpen</span>
-  <h1 class="hero-title">Sozialisierung <em>zu Hause</em></h1>
+  <h1 class="hero-title">Welpen zu Hause sozialisieren: <em>die Liste für die Familie</em></h1>
   <p class="hero-subtitle">Geführte erste Erfahrungen</p>
   <div class="hero-meta">
   <span>📅 10. Mai 2025</span>
@@ -37,6 +37,8 @@ custom_content: |
   <article class="article-content">
   
   <p>Die Sozialisierung eines Staffordshire Bull Terrier Welpen hängt an einem Fenster, das sich früh schließt. Von etwa der dritten bis zur zwölften Lebenswoche, mit dem Kern zwischen der vierten und der achten, nimmt das Gehirn eines Welpen Neues als normal hin. Was der Welpe in dieser Zeit kennenlernt, gehört zu seiner gewöhnlichen Welt; was er später trifft, muss er erst bewerten, und beim Bewerten entsteht Angst. Die acht Wochen in der Zucht sind die Hälfte dieses Fensters, deshalb ist so wichtig, wo ein Welpe aufwächst. Sozialisierung heißt nicht, möglichst viele Hunde und Menschen zu treffen. Sie heißt gewöhnliche Erfahrungen, verschiedene Untergründe, Haushaltsgeräusche, Menschen jeden Alters und ruhige erwachsene Hunde, kurz und positiv. Maßstab einer guten Erfahrung ist, dass der Welpe entspannt blieb, nicht bloß, dass sie stattfand.</p>
+
+  <p><strong>Dies ist die praktische Liste für die Familie</strong>, ab dem Tag, an dem der Welpe einzieht. Was er vorher, in der Zucht, kennengelernt haben kann, was nicht, und warum "bereits sozialisierter Welpe" für sich allein wenig bedeutet, steht im Artikel <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das wirklich heißt">Bereits sozialisierte Welpen: was das heißt</a>.</p>
 
   
   

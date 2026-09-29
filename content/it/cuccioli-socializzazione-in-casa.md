@@ -1,12 +1,12 @@
 ---
-title: "Cuccioli: Socializzazione in Casa"
+title: "Socializzare il Cucciolo in Casa: la Lista per la Famiglia"
 date: 2025-03-18
-titleSeo: "Socializzazione del cucciolo in casa: le prime settimane"
-lastmod: 2026-09-28
+titleSeo: "Socializzare il cucciolo in casa: la lista per la famiglia"
+lastmod: 2026-09-29
 translationKey: "socializzazione"
 articolo: true
 image: "/images/blog/cucciolo-in-mano-hero.webp"
-description: "Come socializzare il cucciolo in casa: rumori, superfici, manipolazioni, spazi e routine. Idee pratiche per cuccioli di Staffordshire Bull Terrier in famiglia."
+description: "Superfici, rumori, mani addosso, ospiti e ciotole: la lista di cose da far conoscere a un cucciolo di Staffordshire Bull Terrier nelle prime settimane a casa."
 slug: "cuccioli-socializzazione-in-casa"
 custom_content: |
   <section class="hero">
@@ -17,7 +17,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Cuccioli</span>
-  <h1 class="hero-title">Socializzazione <em>in Casa</em></h1>
+  <h1 class="hero-title">Socializzare il cucciolo in casa: <em>la lista per la famiglia</em></h1>
   <p class="hero-subtitle">Abitudini serene e prime esperienze guidate</p>
   <div class="hero-meta">
   <span>📅 18 Marzo 2025</span>
@@ -44,6 +44,8 @@ custom_content: |
   <article class="article-content">
   
   <p>La socializzazione di un cucciolo di Staffordshire Bull Terrier si gioca quasi tutta in un periodo preciso: il <strong>periodo sensibile</strong>, che va grosso modo dalla terza alla dodicesima settimana di vita, con il momento centrale fra la quarta e l'ottava. Quello che un cucciolo incontra in quelle settimane entra a far parte del suo mondo normale; quello che non incontra resterà per sempre una novità da valutare. Non servono esperienze eccezionali, servono quelle ordinarie: superfici diverse sotto le zampe, rumori domestici come lavatrice e aspirapolvere, persone di età diversa, altri cani equilibrati. La regola è la qualità, non la quantità: un'esposizione breve e positiva vale più di una lunga in cui il cucciolo si spaventa.</p>
+
+  <p><strong>Questa è la lista pratica per la famiglia</strong>, dal giorno in cui il cucciolo entra in casa. Cosa può avere incontrato prima, in allevamento, cosa non può avere incontrato e perché &laquo;cucciolo già socializzato&raquo; non vuol dire quasi niente è spiegato nell'articolo <a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Cuccioli socializzati: cosa vuol dire davvero">Cuccioli già socializzati: cosa vuol dire davvero</a>.</p>
 
   
   <p>La socializzazione del cucciolo inizia in casa: esperienze brevi, positive e guidate creano basi solide per un adulto sereno. Con uno <a aria-label="Allevamento Del Piccolo Diavolo" href="/" title="Staffordshire Bull Terrier">Staffordshire Bull Terrier</a> (Staffy) è fondamentale curare autocontrollo, manipolazioni e gestione delle risorse.</p>

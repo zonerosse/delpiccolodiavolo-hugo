@@ -1,12 +1,12 @@
 ---
-title: "Puppies: Home Socialization"
+title: "Socialising the Puppy at Home: the Family Checklist"
 date: 2025-03-18
-titleSeo: "Socialising a puppy at home: the first weeks"
-lastmod: 2026-09-28
+titleSeo: "Socialising the puppy at home: the family checklist"
+lastmod: 2026-09-29
 translationKey: "socializzazione"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
-description: "Home socialization for your Staffordshire Bull Terrier puppy: guided first experiences with sounds, surfaces, handling and household routines."
+description: "Surfaces, noises, handling, visitors and bowls: the checklist of things to introduce to a Staffordshire Bull Terrier puppy in its first weeks at home."
 slug: "puppy-home-socialization"
 custom_content: |
   <section class="hero">
@@ -17,7 +17,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Puppies</span>
-  <h1 class="hero-title">Home <em>Socialization</em></h1>
+  <h1 class="hero-title">Socialising the puppy at home: <em>the family checklist</em></h1>
   <p class="hero-subtitle">Guided first experiences</p>
   <div class="hero-meta">
   <span>📅 May 10, 2025</span>
@@ -44,6 +44,8 @@ custom_content: |
   <article class="article-content">
   
   <p>Socialising a Staffordshire Bull Terrier puppy depends on a window that closes early. From roughly the third to the twelfth week of life, with the core between the fourth and the eighth, a puppy's brain accepts novelty as normal. What the puppy meets in that period becomes part of its ordinary world; what it meets later has to be evaluated, and evaluation is where fear enters. The eight weeks with the breeder are half of that window, which is why where a puppy is raised matters so much. Socialisation does not mean meeting as many dogs and people as possible. It means ordinary experiences, different surfaces, household noises, people of different ages and steady adult dogs, kept short and positive. The measure of a good exposure is that the puppy stayed relaxed throughout, not simply that it happened.</p>
+
+  <p><strong>This is the practical checklist for the family</strong>, from the day the puppy comes home. What it can have met before, at the kennel, what it cannot, and why "already socialised puppy" means very little on its own is explained in <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it really means">Already socialised puppies: what it really means</a>.</p>
 
   
   

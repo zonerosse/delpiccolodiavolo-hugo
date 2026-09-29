@@ -2,7 +2,7 @@
 title: "Come Scegliere la Linea di Sangue di un Cucciolo di Staffy"
 date: 2025-03-05
 titleSeo: "Come scegliere la linea di sangue di un cucciolo di Staffy"
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 translationKey: "scelta-linee"
 articolo: true
 image: "/images/blog/standard-2.webp"
@@ -89,7 +89,9 @@ custom_content: |
   <li><strong>Cosa verificare:</strong> assenza di problemi strutturali, test anca/gomito, stamina</li>
   </ul>
   
-  <h2>Come Leggere e Interpretare un Pedigree</h2>
+  <h2>Cosa cercare nel pedigree quando scegli</h2>
+
+  <p>Come si legge materialmente un pedigree ENCI &mdash; le generazioni, le sigle dei titoli, gli esami depositati e cosa aggiunge SBTPedigree &mdash; &egrave; spiegato passo per passo nella guida <a href="/come-si-legge-un-pedigree/" title="Come si legge un pedigree">Come si legge un pedigree</a>. Qui interessa un'altra cosa: cosa cercarci dentro quando stai scegliendo un cucciolo.</p>
   
   <h3>Consistenza genetica</h3>
   
@@ -139,7 +141,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Come si legge correttamente un pedigree?</h3>
-  <div class="faq-answer">Servono due strumenti diversi. Il <strong>certificato ENCI</strong> &egrave; il documento ufficiale: certifica genitori, nonni e bisnonni, riporta i titoli registrati e gli esami depositati. Ma non mostra n&eacute; i test genetici n&eacute; una sola fotografia dei cani, e senza vedere i soggetti si lavora sui nomi. <strong>SBTPedigree</strong> aggiunge quello che manca: foto degli antenati generazione per generazione, test caricati, titoli esteri e soprattutto la discendenza, cio&egrave; cosa quel cane ha prodotto. Il pedigree si legge risalendo e chiedendosi due cose: quali nomi si ripetono da entrambi i rami, e cosa hanno lasciato. La prova di accoppiamento calcola il coefficiente teorico di una cucciolata e mostra su quali antenati si concentra.</div>
+  <div class="faq-answer">Servono due strumenti diversi. Il <strong>certificato ENCI</strong> &egrave; il documento ufficiale: certifica genitori, nonni e bisnonni, riporta i titoli registrati e gli esami depositati. Ma non mostra n&eacute; i test genetici n&eacute; una sola fotografia dei cani, e senza vedere i soggetti si lavora sui nomi. <strong>SBTPedigree</strong> aggiunge quello che manca: foto degli antenati generazione per generazione, test caricati, titoli esteri e soprattutto la discendenza, cio&egrave; cosa quel cane ha prodotto. Il pedigree si legge risalendo e chiedendosi due cose: quali nomi si ripetono da entrambi i rami, e cosa hanno lasciato. La prova di accoppiamento calcola il coefficiente teorico di una cucciolata e mostra su quali antenati si concentra. La lettura passo per passo &egrave; nella guida <a href="/come-si-legge-un-pedigree/" title="Come si legge un pedigree">Come si legge un pedigree</a>.</div>
   </div>
   
   <div class="faq-item">

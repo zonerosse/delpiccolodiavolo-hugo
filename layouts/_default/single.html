@@ -13,7 +13,10 @@
   {{ $c = replace $c "<!--REC-TOTALE-->" $tot }}
   {{ $c = replace $c "<!--CORRELATI-->" (partial "correlati.html" .) }}
   {{ $c = replace $c "<!--RECENTI-->" (partial "recenti.html" .) }}
+  {{ $c = replace $c "<!--GUIDE-->" (partial "guide-cucciolo.html" (dict "pagina" . "gruppo" "cucciolo")) }}
   {{ replace $c "<!--PRENOTA-->" (partial "prenota.html" .) | safeHTML }}
+  {{/* Le guide pratiche si collegano fra loro da sole (vedi guide-cucciolo.html). */}}
+  {{ partial "guide-cucciolo.html" (dict "pagina" . "gruppo" "auto") }}
   {{ if not .Params.noindex }}{{ $meta | safeHTML }}{{ end }}
 {{ else }}
   {{ $haH1 := findRE "<h1[ >]" .Content 1 }}
@@ -48,6 +51,7 @@
     {{ $corpo }}
     {{ if not .Params.noindex }}{{ $meta | safeHTML }}{{ end }}
   </div>
+  {{ partial "guide-cucciolo.html" (dict "pagina" . "gruppo" "auto") }}
 
   <section class="cta-section">
     {{ $l := .Site.Language.Lang }}

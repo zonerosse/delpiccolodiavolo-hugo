@@ -250,6 +250,7 @@ custom_content: |
   </div>
   </section>
   
+  <!--GUIDE-->
   <!--CORRELATI-->
 
   <p style="margin-top:1rem">For a detailed account of what lies behind a well-bred puppy, read <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="How much does a Staffordshire Bull Terrier puppy cost">how much a Staffordshire Bull Terrier puppy costs</a>.</p>
