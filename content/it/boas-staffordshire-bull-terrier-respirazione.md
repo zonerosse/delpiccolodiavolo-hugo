@@ -1,7 +1,7 @@
 ---
 title: "BOAS nello Staffordshire Bull Terrier: Perché la Respirazione È Fondamentale"
 date: 2025-12-28
-lastmod: 2026-09-29
+lastmod: 2026-09-28
 titleSeo: "BOAS nello Staffordshire Bull Terrier: la respirazione"
 translationKey: "boas"
 articolo: true

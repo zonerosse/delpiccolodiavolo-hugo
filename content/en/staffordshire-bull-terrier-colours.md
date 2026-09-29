@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Colours: Black, Brindle, Blue and More"
 date: 2026-08-01
-lastmod: 2026-09-29
+lastmod: 2026-09-28
 titleSeo: "Staffordshire Bull Terrier colours: black, brindle, blue"
 translationKey: "colori"
 articolo: true

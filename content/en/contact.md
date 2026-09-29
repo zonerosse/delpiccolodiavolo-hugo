@@ -1,7 +1,7 @@
 ---
 title: "Contact – Staffordshire Bull Terrier Breeder"
 date: 2025-12-28
-lastmod: 2026-09-29
+lastmod: 2026-09-28
 tipoPagina: "ContactPage"
 translationKey: "contatti"
 description: "Contact Del Piccolo Diavolo kennel in Ostellato (FE), Italy. Visits by appointment, WhatsApp, phone. Reachable from Ferrara, Bologna, Milan, Venice, Florence."

@@ -1,7 +1,7 @@
 ---
 title: "Esercizio Sicuro per Staffordshire Bull Terrier"
 date: 2024-06-20
-lastmod: 2026-09-29
+lastmod: 2026-09-28
 translationKey: "esercizio"
 articolo: true
 image: "/images/blog/esercizio-hero.webp"

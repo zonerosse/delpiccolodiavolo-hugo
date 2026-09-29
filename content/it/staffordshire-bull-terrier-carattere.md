@@ -1,6 +1,6 @@
 ---
 title: "Il Temperamento dello Staffordshire Bull Terrier: Come Nasce"
-lastmod: 2026-09-29
+lastmod: 2026-09-28
 titleSeo: "Temperamento dello Staffy: come è stato selezionato"
 articolo: true
 translationKey: "carattere"

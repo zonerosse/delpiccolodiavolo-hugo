@@ -1,7 +1,7 @@
 ---
 title: "BOAS in Staffordshire Bull Terriers: Why Breathing Matters"
 date: 2025-12-28
-lastmod: 2026-09-29
+lastmod: 2026-09-28
 titleSeo: "BOAS in the Staffordshire Bull Terrier: breathing"
 translationKey: "boas"
 articolo: true

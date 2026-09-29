@@ -2,7 +2,7 @@
 title: "Genetic Testing L2-HGA, HC (HSF4) and DM (SOD1) for Staffordshire Bull Terrier"
 titleSeo: "Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)"
 date: 2025-11-20
-lastmod: 2026-09-29
+lastmod: 2026-09-28
 translationKey: "test-genetici"
 articolo: true
 image: "/images/blog/salute-1.webp"

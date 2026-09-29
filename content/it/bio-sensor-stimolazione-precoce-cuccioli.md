@@ -2,7 +2,7 @@
 title: "Bio Sensor: cosa dice davvero la ricerca"
 date: 2026-09-09
 titleSeo: "Bio Sensor e stimolazione precoce: cosa dice la ricerca"
-lastmod: 2026-09-29
+lastmod: 2026-09-28
 translationKey: "biosensor"
 articolo: true
 image: "/images/blog/neonati-hero.webp"

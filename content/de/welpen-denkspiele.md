@@ -2,7 +2,7 @@
 title: "Welpen: Denkspiele"
 date: 2025-08-03
 titleSeo: "Denkspiele für Staffordshire Bull Terrier Welpen"
-lastmod: 2026-09-29
+lastmod: 2026-09-28
 translationKey: "giochi-mentali"
 articolo: true
 image: "/images/blog/cuccioli-3.webp"

@@ -1,7 +1,7 @@
 ---
 title: "Storia delle Linee di Sangue dello Staffordshire Bull Terrier"
 date: 2025-11-08
-lastmod: 2026-09-29
+lastmod: 2026-09-28
 titleSeo: "Storia delle linee di sangue dello Staffy"
 translationKey: "linee-sangue"
 articolo: true

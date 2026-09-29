@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier in famiglia: dove sono oggi i nostri cani"
 titleSeo: "Staffordshire Bull Terrier in famiglia: storie vere"
 date: 2026-09-27
-lastmod: 2026-09-29
+lastmod: 2026-09-28
 translationKey: "storie-famiglie"
 articolo: true
 image: "/images/blog/storie-famiglie-hero.webp"

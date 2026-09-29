@@ -1,7 +1,7 @@
 ---
 title: "Parasitenvorbeugung für Staffordshire Bull Terrier"
 date: 2025-01-20
-lastmod: 2026-09-29
+lastmod: 2026-09-28
 translationKey: "parassiti"
 articolo: true
 image: "/images/blog/salute-1.webp"

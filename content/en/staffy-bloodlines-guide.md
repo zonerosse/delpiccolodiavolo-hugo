@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Bloodlines Guide"
 titleSeo: "Staffy bloodlines: the history of the six lines"
 date: 2025-11-08
-lastmod: 2026-09-29
+lastmod: 2026-09-28
 translationKey: "linee-sangue"
 articolo: true
 image: "/images/blog/standard-1.webp"
