@@ -1,6 +1,6 @@
 ---
 title: "Red × Nora Litter (February 2026)"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 titleSeo: "Red and Nora litter, February 2026: parents and tests"
 articolo: true
 translationKey: "cucciolata-red-nora-febbraio-2026"
@@ -14,6 +14,8 @@ image: "/images/red.avif"
 <strong>🎉 BORN FEBRUARY 9, 2026!</strong><br>
 Brindle and red &amp; white puppies — <strong>Not available</strong>
 </div>
+
+This litter was born in February 2026 from the mating of Red and Skilful-dogs Nora. As with every Del Piccolo Diavolo litter, the page stays online after the puppies have gone home, with <strong>the date of birth, the two parents and their genetic tests</strong>: it is the simplest way to let anyone check the kennel's pace, which is one litter a year, occasionally two, in some years none. The number of litters a female has had can be checked in the ENCI stud book starting from her microchip, and we publish it precisely so that the check can be done without asking us anything.
 
 We are delighted to announce the birth of a highly anticipated litter at **Del Piccolo Diavolo** kennel. This combination brings together the power of the Vangerbull line with the proven breeding quality of Nora, already mother of two Italian Champions.
 
@@ -94,17 +96,17 @@ All puppies are **genetically healthy** for L2HGA and HC (all Clear).
 
 <div style="background:linear-gradient(135deg,#5c4a3a 0%,#8b7355 100%);padding:2rem;border-radius:12px;margin:2rem 0;color:#fff">
 <h3 style="margin:0 0 1rem;font-size:1.1rem;font-family:inherit;font-weight:600;color:#fff;display:flex;align-items:center;gap:.5rem">
-<svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+<svg aria-hidden="true" focusable="false" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
 Verifiable Genetic Tests
 </h3>
 <p style="margin:0 0 1rem;font-size:1rem;color:#fff !important;font-weight:600">Full transparency: download the original laboratory certificates.</p>
 <div style="display:flex;flex-wrap:wrap;gap:1rem">
 <a href="/docs/test-genetici-red.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem" aria-label="Red (L2HGA + HC) (opens in a new tab)">
-<svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
+<svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Red (L2HGA + HC)
 </a>
 <a href="/docs/test-genetici-nora.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem" aria-label="Nora (L2HGA + HC + DM) (opens in a new tab)">
-<svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
+<svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Nora (L2HGA + HC + DM)
 </a>
 </div>

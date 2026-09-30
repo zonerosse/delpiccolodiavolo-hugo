@@ -2,7 +2,7 @@
 title: "Welpen: Allein Bleiben Lernen"
 date: 2025-07-08
 titleSeo: "Welpen lernen allein zu bleiben, ohne Stress"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "solitudine"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -46,7 +46,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Der Staffordshire Bull Terrier wurde auf die Nähe zum Menschen selektiert, und deshalb muss ein Welpe das Alleinbleiben bewusst lernen. Man beginnt in der ersten Woche mit 30 Sekunden hinter einer geschlossenen Tür, dann eine Minute, drei, zehn, zwanzig, vierzig, und geht und kommt ohne großes Aufheben. Ein Welpe von 8 bis 12 Wochen sollte nicht länger als ein bis zwei Stunden allein sein, mit sechs Monaten drei bis vier; ein erwachsener Hund, der vorher draußen war und etwas zu tun hat, schafft vier bis sechs Stunden. Acht Stunden täglich allein sind mit dieser Rasse nicht vereinbar. Das Warnsignal ist nicht Unordnung, sondern Panik: ununterbrochenes Bellen, Speicheln, Zerstörung an Türen und Fenstern. Das ist Trennungsstress, und er braucht eine Verhaltensfachperson, niemals Strafe. Ein Ratgeber der Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet.</p>
+  <p>Der Staffordshire Bull Terrier wurde auf die Nähe zum Menschen selektiert, und deshalb muss ein Welpe das Alleinbleiben bewusst lernen. Man beginnt in der ersten Woche mit 30 Sekunden hinter einer geschlossenen Tür, dann eine Minute, drei, zehn, zwanzig, vierzig, und geht und kommt ohne großes Aufheben. Ein Welpe von 8 bis 12 Wochen sollte nicht länger als ein bis zwei Stunden allein sein, mit sechs Monaten drei bis vier; ein erwachsener Hund, der vorher draußen war und etwas zu tun hat, schafft vier bis sechs Stunden. Acht Stunden täglich allein sind mit dieser Rasse nicht vereinbar. Das Warnsignal ist nicht Unordnung, sondern Panik: ununterbrochenes Bellen, Speicheln, Zerstörung an Türen und Fenstern. Das ist Trennungsstress, und er braucht eine Verhaltensfachperson, niemals Strafe. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
   
   
@@ -88,6 +88,23 @@ custom_content: |
   <p>Ein Welpe von 8 bis 12 Wochen sollte nicht länger als ein bis 2 Stunden allein sein. Mit 6 Monaten drei bis vier. Ein erwachsener Hund schafft 4 bis 6 Stunden, wenn er vorher bewegt wurde und etwas zu tun hat — aber 8 Stunden täglich allein sind mit dieser Rasse nicht vereinbar, und das sagen wir Interessenten offen.</p>
   <p>Wo der Arbeitstag lang ist, lautet die Lösung: eine Mittagsrunde durch eine bezahlte Betreuung, eine Nachbarin, oder zwei- bis dreimal wöchentlich eine Hundetagesstätte. Das sind gewöhnliche Kosten dieser Rasse und kein Luxus.</p>
 
+  <div class="related-articles">
+  <h3>Verwandte Artikel</h3>
+  <ul>
+  <li><a href="/de/welpen-sozialisierung-zuhause/" title="Welpen zu Hause sozialisieren: die Liste für die Familie">Welpen zu Hause sozialisieren: die Liste für die Familie</a></li>
+  <li><a href="/de/welpen-stubenreinheit/" title="Welpen stubenrein machen: Methode und Zeitrahmen">Welpen stubenrein machen: Methode und Zeitrahmen</a></li>
+  <li><a href="/de/welpen-denkspiele/" title="Denkspiele für Staffordshire Bull Terrier Welpen">Denkspiele für Staffordshire Bull Terrier Welpen</a></li>
+  <li><a href="/de/staffy-kinder-familie/" title="Staffordshire Bull Terrier mit Kindern und Familie">Staffordshire Bull Terrier mit Kindern und Familie</a></li>
+  </ul>
+  </div>
+  
+  <div class="related-articles">
+  <h3>Mehr zum Thema</h3>
+  <ul>
+  <li><a href="/de/ist-der-staffordshire-bull-terrier-der-richtige-hund/" title="Staffordshire Bull Terrier: der richtige Hund für Sie?">Staffordshire Bull Terrier: der richtige Hund für Sie?</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   

@@ -1,7 +1,7 @@
 ---
 title: "FCI Rassestandard Staffordshire Bull Terrier"
 date: 2025-02-12
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "standard"
 articolo: true
 image: "/images/blog/standard-tipicita-morfologia-hero.webp"
@@ -33,7 +33,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Ein Staffordshire Bull Terrier ist typvoll, wenn Kopf, Proportionen, Brust, Knochen, Muskulatur und Gangwerk untereinander und mit dem Wesen im Gleichgewicht stehen, das der FCI-Standard Nr. 76 beschreibt. Der Standard ist die funktionale Beschreibung eines glatthaarigen, kurz gekoppelten Terriers von großer Kraft für seine Größe, wendig genug, um sich auf der Stelle zu drehen, und gesund genug, um den ganzen Tag zu arbeiten. Der Kopf ist kurz, mit tiefem, breitem Schädel, deutlichem Stop, kurzem Fang, kräftigen Kiefern und Scherengebiss; die Augen sind rund und bevorzugt dunkel, die Ohren Rosen- oder halbstehende Ohren. Das Gangwerk ist frei, kraftvoll und flink, mit erkennbarem Schub aus der Hinterhand. Typ heißt nicht, einen einzelnen Punkt zu übertreiben: Ein überzogener Kopf oder ein zu kurzer Fang kosten <a href="/de/boas-staffordshire-bull-terrier-atmung/" title="BOAS und Atmung beim Staffordshire Bull Terrier">Atmung und Hitzetoleranz</a>, und der Richter bewertet den ganzen Hund. Ein Ratgeber der Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet.</p>
+  <p>Ein Staffordshire Bull Terrier ist typvoll, wenn Kopf, Proportionen, Brust, Knochen, Muskulatur und Gangwerk untereinander und mit dem Wesen im Gleichgewicht stehen, das der FCI-Standard Nr. 76 beschreibt. Der Standard ist die funktionale Beschreibung eines glatthaarigen, kurz gekoppelten Terriers von großer Kraft für seine Größe, wendig genug, um sich auf der Stelle zu drehen, und gesund genug, um den ganzen Tag zu arbeiten. Der Kopf ist kurz, mit tiefem, breitem Schädel, deutlichem Stop, kurzem Fang, kräftigen Kiefern und Scherengebiss; die Augen sind rund und bevorzugt dunkel, die Ohren Rosen- oder halbstehende Ohren. Das Gangwerk ist frei, kraftvoll und flink, mit erkennbarem Schub aus der Hinterhand. Typ heißt nicht, einen einzelnen Punkt zu übertreiben: Ein überzogener Kopf oder ein zu kurzer Fang kosten <a href="/de/boas-staffordshire-bull-terrier-atmung/" title="BOAS und Atmung beim Staffordshire Bull Terrier">Atmung und Hitzetoleranz</a>, und der Richter bewertet den ganzen Hund. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
   
   
@@ -78,11 +78,77 @@ custom_content: |
   <p>Schauen Sie in dieser Reihenfolge. Zuerst der <strong>Gesamteindruck</strong>: Typ auf den ersten Blick, Ausgewogenheit, Ausstrahlung. Dann das <strong>Profil im Stand</strong>: Linien, Proportionen, Aufbau. Dann die <strong>genaue Untersuchung</strong>: Kopf, Gebiss, Körper, Gliedmaßen, Pfoten. Dann das <strong>Gangwerk</strong>, im Trab von allen Seiten, wo sich die Funktion zeigt. Und zuletzt das <strong>Wesen</strong>: wie der Hund das Anfassen annimmt, seine Sicherheit, seine Reaktion auf das, was um ihn herum geschieht.</p>
 
   <h2>Häufige Fragen zum Standard</h2>
-  <p><strong>Wie schwer darf ein Staffordshire Bull Terrier sein?</strong> Der Standard nennt 11 bis 17 Kilogramm bei einer Widerristhöhe von 35 bis 40 Zentimetern. Entscheidend ist das Verhältnis: ein Hund von 17 Kilogramm bei 36 Zentimetern ist zu schwer, derselbe bei 40 Zentimetern ist stimmig.</p>
-  <p><strong>Gibt es den "Staffy in Miniaturausgabe"?</strong> Nein. Zwergformen dieser Rasse existieren nicht. Wer sie anbietet, verkauft entweder einen untypischen Hund oder eine Mischung, in beiden Fällen ohne anerkannte Papiere.</p>
-  <p><strong>Sind blaue Hunde erlaubt?</strong> Blau ist eine zugelassene Farbe. Blau ist jedoch häufiger mit der Farbmutantenalopezie verbunden, und ein Preisaufschlag für blaue Welpen ist ein Warnsignal, kein Qualitätsmerkmal.</p>
-  <p><strong>Muss ein Zuchthund ausgestellt worden sein?</strong> Nicht zwingend, aber eine unabhängige Beurteilung im Ring ist ein nützliches Korrektiv gegen Betriebsblindheit. Wichtiger sind dokumentierte Gesundheitsergebnisse.</p>
 
+  <div class="faq-list">
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was sind die typischen Merkmale des Staffy-Kopfes?</h3>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Der Kopf ist das charakteristischste Merkmal der Rasse, und der Standard beschreibt ihn genau: ein <strong>kurzer, breiter Schädel</strong>, sehr ausgeprägte Backenmuskulatur, ein <strong>deutlicher Stop</strong>, ein kurzer Fang &mdash; etwa ein Drittel der gesamten Kopflänge &mdash; und ein vollständiges Scherengebiss, bei dem die Eckzähne richtig ineinandergreifen. Die Ohren sind Rosen- oder Halbstehohren, nie hängend und nie kupiert. Die Augen sind rund, mittelgroß und möglichst dunkel, mit dunklen Lidrändern. Bewertet wird nicht die Kraft an sich, sondern das Gleichgewicht: Ein übertrieben breiter Kopf oder ein zu stark verkürzter Fang sind kein Typ mehr, sondern ein Fehler, der Atem- und Zahnprobleme mit sich bringt.</div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Welche Farben erlaubt der FCI-Standard?</h3>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Der Standard erlaubt <strong>Rot, Falb, Weiß, Schwarz und Blau</strong> oder jede dieser Farben mit Weiß, dazu alle Schattierungen von Gestromt und Gestromt mit Weiß. Ausdrücklich ausgeschlossen sind Schwarz mit Loh und Leberfarbe: nicht aus ästhetischen Gründen, sondern weil sie historisch mit Einkreuzungen anderer Rassen verbunden sind, sodass ihr Auftreten die Reinheit der Linie in Frage stellt. Merle gibt es in der Rasse nicht: Taucht es auf, weist es auf fremdes Blut hin. Ein Welpe in einer nicht zugelassenen Farbe ist weder weniger gesund noch weniger anhänglich, darf aber weder in die Zucht noch in den Ausstellungsring, und eine seriöse Zucht sagt das offen, statt ihn als Rarität zu verkaufen.</div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was ist das ideale Gewicht nach dem Standard?</h3>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Der Standard nennt <strong>12,7 bis 17 Kilogramm für Rüden</strong> und <strong>11 bis 15,4 Kilogramm für Hündinnen</strong>, bei einer Widerristhöhe von 35 bis 40 Zentimetern in beiden Geschlechtern. Gewicht und Größe müssen im Verhältnis stehen: ein großer Hund in einem kleinen Körper, aber Kompaktheit heißt nicht Schwere. Im Alltag zählt die Kondition mehr als die Zahl: Die Rippen müssen ohne Druck fühlbar sein, und von oben muss die Taille erkennbar sein. Der Staffordshire Bull Terrier ist verfressen und nimmt leicht zu, und Übergewicht ist nach dem dritten Lebensjahr das häufigste Gesundheitsproblem der Rasse, mit Folgen für Gelenke, Herz und Hitzetoleranz.</div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Welche Gentests sind für eine seriöse Zucht Pflicht?</h3>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Gesetzlich vorgeschrieben ist keiner, und das sollte man klar sagen: Wer nicht testet, verstößt gegen keine Vorschrift. Was es gibt, ist ein gemeinsamer Maßstab an Seriosität, der bei dieser Rasse L2-HGA, erblichen Katarakt und degenerative Myelopathie umfasst, alle mit DNA-Tests. Entscheidend ist nicht, dass Tests gemacht wurden, sondern dass sie überprüfbar sind: Ein Befund zählt nur, wenn er die Mikrochipnummer des Hundes, den Namen des Labors und das Datum trägt. Ohne Mikrochip lässt er sich keinem bestimmten Tier zuordnen. Auf dieser Website sind die Befunde der Zuchttiere veröffentlicht und herunterladbar, damit jeder sie prüfen kann, ohne uns fragen zu müssen.</div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Gibt es den "Staffy in Miniaturausgabe"?</h3>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Nein. Zwergformen dieser Rasse existieren nicht. Wer sie anbietet, verkauft entweder einen untypischen Hund oder eine Mischung, in beiden Fällen ohne anerkannte Papiere.</div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Sind blaue Hunde erlaubt?</h3>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Blau ist eine zugelassene Farbe. Blau ist jedoch häufiger mit der Farbmutantenalopezie verbunden, und ein Preisaufschlag für blaue Welpen ist ein Warnsignal, kein Qualitätsmerkmal.</div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Muss ein Zuchthund ausgestellt worden sein?</h3>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Nicht zwingend, aber eine unabhängige Beurteilung im Ring ist ein nützliches Korrektiv gegen Betriebsblindheit. Wichtiger sind dokumentierte Gesundheitsergebnisse.</div>
+  </div>
+
+  </div>
+
+  <div class="related-articles">
+  <h3>Mehr zum Thema</h3>
+  <ul>
+  <li><a href="/de/blutlinien-waehlen/" title="Staffordshire Bull Terrier Blutlinien richtig wählen">Staffordshire Bull Terrier Blutlinien richtig wählen</a></li>
+  <li><a href="/de/staffy-blutlinien-guide/" title="Staffy-Blutlinien: die Geschichte der sechs Linien">Staffy-Blutlinien: die Geschichte der sechs Linien</a></li>
+  <li><a href="/de/staffy-pitbull-amstaff-unterschied/" title="Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich">Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich</a></li>
+  <li><a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)">Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)</a></li>
+  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Seriöse Staffordshire Bull Terrier Zucht erkennen">Seriöse Staffordshire Bull Terrier Zucht erkennen</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>

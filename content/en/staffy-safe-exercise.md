@@ -1,7 +1,7 @@
 ---
 title: "Safe Exercise for Staffordshire Bull Terrier"
 date: 2024-06-20
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "esercizio"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -37,7 +37,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>The Staffordshire Bull Terrier needs exercise every day, but not endless running: for a healthy adult, count on sixty to ninety minutes in total, in at least two outings, mixing steady walking, some free movement and mental work. For puppies the guideline is five minutes of formal walking per month of age, twice a day, because growth plates in this breed close between 12 and 18 months and repeated impact before then causes damage that shows years later. In adults the main danger is heat: a short muzzle makes panting less efficient, and panting is a dog's only way to cool down. Walk in the cool hours, test the tarmac with the back of your hand for five seconds, and never leave the dog in a parked car. From about eight years old, keep the duration but lower the intensity. A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>The Staffordshire Bull Terrier needs exercise every day, but not endless running: for a healthy adult, count on sixty to ninety minutes in total, in at least two outings, mixing steady walking, some free movement and mental work. For puppies the guideline is five minutes of formal walking per month of age, twice a day, because growth plates in this breed close between 12 and 18 months and repeated impact before then causes damage that shows years later. In adults the main danger is heat: a short muzzle makes panting less efficient, and panting is a dog's only way to cool down. Walk in the cool hours, test the tarmac with the back of your hand for five seconds, and never leave the dog in a parked car. From about eight years old, keep the duration but lower the intensity. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
   
   
@@ -87,7 +87,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How much exercise does an adult Staffy need?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Two outings a day of thirty to forty minutes cover the needs of a healthy adult, provided at least one of them allows sniffing and free movement rather than a loop of the block on a short lead. The Staffordshire Bull Terrier is explosive rather than built for endurance: it performs on short, intense efforts, not on hours of continuous running. The part almost everyone underestimates is mental work: <strong>half an hour of scent work tires a dog as much as an hour of running</strong>, and it puts no load on the joints. A dog that does not get enough outlet does not become destructive out of spite but out of boredom, and the symptoms are always the same: it chews, digs and never settles. After seven or eight years the need falls, but consistency matters even more.
   </div>
@@ -96,7 +96,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Can I take my Staffy puppy running with me?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">No, and it is not an excessive precaution. A puppy's growth plates close between twelve and eighteen months: until then, sustained running, jumping and repeated descents leave joint damage that shows in the adult and cannot be undone. The usual rule is <strong>five minutes per month of age</strong>, once or twice a day: at four months that means twenty minutes per walk. Free play on grass is another matter and is perfectly fine, because the puppy stops by itself when tired, whereas running beside you it never stops. To start running together, wait until around eighteen months and build up gradually, beginning with a few kilometres on soft ground.
   </div>
@@ -105,7 +105,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Does the Staffy suffer from heat more than other breeds?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Yes, more than a long-muzzled dog, although less than extreme brachycephalic breeds such as the pug or the English bulldog. A dog cools itself almost only by panting, and a shortened muzzle makes that exchange less efficient: above 25 degrees the margin shrinks quickly. The practical rule is to go out in the cool hours, always carry water and reduce the intensity, not only the duration. <strong>Never leave the dog in a car</strong>, not even for a few minutes and not even with the windows ajar: the inside passes forty degrees within a quarter of an hour. The signs of heatstroke are laboured panting that will not settle, dark red gums and staggering: it is a veterinary emergency, and while you wait the dog should be wetted with cool water, never iced.
   </div>
@@ -114,7 +114,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Can my Staffy do agility?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Yes, and it is a sport that suits the breed's build and motivation, on two conditions. The first is age: full-height jumps not before <strong>eighteen months</strong>, when the growth plates have closed; before that, work stays on the ground, with tunnels, low contacts and handling. The second is heat, because agility is intense, intermittent effort, and in summer an outdoor competition is a risk to be weighed seriously for this breed. There are also disciplines that ask less of the joints and are just as rewarding: <strong>rally obedience</strong>, scent work and low-height <strong>dog parkour</strong>. Anyone starting out should work with an instructor who sets up warm-up and fitness first, and the obstacles second.
   </div>
@@ -123,7 +123,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How do I know if I have overtired my dog?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">The immediate signs are spontaneous slowing down, panting that does not settle after a few minutes' rest, and a dog that stops or lies down on the route. But the ones that matter most come <strong>afterwards</strong>: stiffness getting up the next day, reluctance on the stairs, lameness that appears when cold and eases with movement. If you notice them, the last outing was too long or too intense, and it should be cut by about a third for a few days. In a puppy the picture is even subtler, because it pushes past its limit to stay with you: that is why the load is decided by the clock, not by its enthusiasm. Lameness that lasts more than two days should be seen by a vet.
   </div>
@@ -132,7 +132,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Can a Staffy swim?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Some can, many swim badly, and a few not at all. The build does not help: a wide, heavy chest, relatively short legs, dense muscle and little fat, all of which reduce buoyancy. Add the shortened muzzle, which in water means holding the head higher to breathe, and you have a dog that tires quickly. Swimming is still an excellent low-impact exercise, useful for overweight dogs or in rehabilitation: it simply has to be done with a <strong>life jacket</strong>, in calm water, with an easy way in and out and always under supervision. Never throw a dog into the water to see whether it copes, and rinse it after the sea or a pool, because salt and chlorine irritate the skin.
   </div>
@@ -140,6 +140,16 @@ custom_content: |
 
   </div>
 
+  <div class="related-articles">
+  <h3>More on this topic</h3>
+  <ul>
+  <li><a href="/en/staffy-dental-health/" title="Dental health for the Staffordshire Bull Terrier">Dental health for the Staffordshire Bull Terrier</a></li>
+  <li><a href="/en/staffy-parasite-prevention/" title="Parasite Prevention for Staffordshire Bull Terrier">Parasite Prevention for Staffordshire Bull Terrier</a></li>
+  <li><a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)">Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)</a></li>
+  <li><a href="/en/puppy-initial-feeding/" title="Feeding a Staffordshire Bull Terrier puppy: first months">Feeding a Staffordshire Bull Terrier puppy: first months</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   </div>

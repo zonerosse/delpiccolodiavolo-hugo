@@ -1,7 +1,7 @@
 ---
 title: "Zahnpflege und Mundhygiene für Staffordshire Bull Terrier"
 date: 2024-06-18
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "denti"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -33,7 +33,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Zahnerkrankungen sind die am häufigsten diagnostizierte Erkrankung beim Hund, und der Staffordshire Bull Terrier braucht aus einem baulichen Grund besondere Aufmerksamkeit: zweiundvierzig Zähne in einem vergleichsweise kurzen Kiefer, so eng, dass sich Belag dort sammelt, wo die Zunge nicht hinkommt. Belag wird in etwa drei Tagen zu Zahnstein, deshalb ist das Zähneputzen das Einzige, was wirklich wirkt: täglich ist ideal, dreimal pro Woche das realistische Minimum, dreißig Sekunden je Seite. Gewöhnen Sie den Hund schon als Welpen langsam daran; mit sieben Monaten sollte kein Milchzahn mehr da sein. Der kräftige Kiefer der Rasse macht sehr harte Kauartikel gefährlich: Was Sie mit dem Fingernagel nicht eindrücken können, gehört nicht ins Maul. Ein regelmäßig geputzter Hund braucht vielleicht alle zwei bis drei Jahre eine professionelle Zahnreinigung, einer, der nie geputzt wurde, ab mittlerem Alter jedes Jahr. Ein Ratgeber der Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet.</p>
+  <p>Zahnerkrankungen sind die am häufigsten diagnostizierte Erkrankung beim Hund, und der Staffordshire Bull Terrier braucht aus einem baulichen Grund besondere Aufmerksamkeit: zweiundvierzig Zähne in einem vergleichsweise kurzen Kiefer, so eng, dass sich Belag dort sammelt, wo die Zunge nicht hinkommt. Belag wird in etwa drei Tagen zu Zahnstein, deshalb ist das Zähneputzen das Einzige, was wirklich wirkt: täglich ist ideal, dreimal pro Woche das realistische Minimum, dreißig Sekunden je Seite. Gewöhnen Sie den Hund schon als Welpen langsam daran; mit sieben Monaten sollte kein Milchzahn mehr da sein. Der kräftige Kiefer der Rasse macht sehr harte Kauartikel gefährlich: Was Sie mit dem Fingernagel nicht eindrücken können, gehört nicht ins Maul. Ein regelmäßig geputzter Hund braucht vielleicht alle zwei bis drei Jahre eine professionelle Zahnreinigung, einer, der nie geputzt wurde, ab mittlerem Alter jedes Jahr. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
   
   
@@ -88,7 +88,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Ab welchem Alter putzt man einem Welpen die Zähne?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Sobald er nach Hause kommt, mit etwa zwei Monaten, aber nicht zum Reinigen, sondern zur Gewöhnung. In dieser Phase sind es noch Milchzähne, die ohnehin ausfallen, und das einzige Ziel ist, dass sich der Welpe ohne Erstarren ins Maul fassen lässt. Man beginnt mit einem Finger, dann einem Finger mit etwas Tierzahnpasta, dann mit der Bürste, jeweils wenige Sekunden und immer mit einer Belohnung zum Schluss. Ein als Welpe gewöhnter Hund lässt sich ein Leben lang in zwei Minuten die Zähne putzen; einer, der mit drei Jahren anfängt, muss von zwei Personen gehalten werden, und irgendwann gibt man auf. Menschenzahnpasta nie verwenden: sie enthält Xylit oder Fluorid, beides giftig für Hunde, und es gibt aromatisierte Tierzahnpasten, die Hunde gern fressen.
   </div>
@@ -97,7 +97,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie oft sollte ich meinem Staffy die Zähne putzen?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Täglich ist ideal, das realistische Minimum ist <strong>dreimal pro Woche</strong>: darunter hat der Belag Zeit, zu Zahnstein zu mineralisieren, und dann reicht die Bürste nicht mehr. Zwei Minuten oft sind besser als zehn Minuten ab und zu. Es hilft, einen festen Zeitpunkt zu wählen, etwa nach dem Abendspaziergang, denn die Regelmäßigkeit hängt von der Gewohnheit dessen ab, der die Bürste hält, nicht vom Hund. Der Staffordshire Bull Terrier hat einen breiten Kiefer, was hilft, aber auch einen kräftigen Biss, der die Schneidezähne abnutzt: es lohnt sich, ab und zu auch den Abrieb zu prüfen, nicht nur den Belag.
   </div>
@@ -106,7 +106,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Welche Kauartikel für die Zähne sind für einen Staffy sicher?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Produkte mit dem VOHC-Siegel, vom amerikanischen Veterinary Oral Health Council, haben eine nachgewiesene Wirkung, und das Logo steht auf der Packung. Meiden sollte man die ganze Gruppe zu harter Gegenstände: <strong>Geweihe, echte Knochen, Hufe</strong>. Der Staffy hat für seine Größe eine beachtliche Beißkraft, und ein Bruch des oberen vierten Prämolaren ist eine der häufigsten Diagnosen bei Hunden, die auf harten Gegenständen kauen. Die praktische Regel ist der Fingernagel: gibt der Gegenstand bei Druck mit dem Nagel überhaupt nicht nach, ist er zu hart. Zahnpflegesnacks zählen außerdem als Kalorien, und bei einer Rasse, die leicht zunimmt, werden sie von der Tagesration abgezogen, nicht dazugegeben.
   </div>
@@ -115,7 +115,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wann ist eine professionelle Zahnreinigung nötig?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Wenn Zahnstein sichtbar und fest ist, wenn das Zahnfleisch gerötet ist oder blutet, oder wenn der Atem trotz täglicher Pflege stark riecht. Meist bedeutet das alle ein bis drei Jahre, doch es schwankt stark von Hund zu Hund, und entscheiden tut der Tierarzt beim Blick ins Maul, nicht das Alter. Die Reinigung erfolgt in <strong>Vollnarkose</strong>, denn der wichtige Teil unter dem Zahnfleischrand ist bei einem wachen Hund nicht erreichbar. Deshalb meidet man die sogenannten Reinigungen ohne Narkose außerhalb von Tierarztpraxen: sie entfernen den sichtbaren Zahnstein, lassen den unter dem Zahnfleisch zurück und wecken den falschen Eindruck, alles sei in Ordnung. Vor der Narkose werden Blutwerte bestimmt, besonders bei älteren Hunden.
   </div>
@@ -124,7 +124,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was tun, wenn mein Staffy starken Mundgeruch hat?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Mundgeruch ist kein Rassemerkmal, sondern ein Symptom, und meist weist er auf Belag, Zahnstein oder Gingivitis hin. Zuerst schaut man mit einer Taschenlampe ins Maul und prüft den Zahnfleischrand der oberen Prämolaren, wo sich Zahnstein zuerst bildet. Ist das Zahnfleisch gerötet oder blutet es bei Berührung, gehört der Hund zum Tierarzt. Anhaltender Mundgeruch bei einem Hund mit sauberen Zähnen muss aber anderswo gesucht werden: er kann auf Magen-Darm-, Nieren- oder Stoffwechselprobleme hindeuten, und dann riecht der Atem oft auf besondere Weise, süßlich oder nach Ammoniak. Eine plötzliche Veränderung des Atems bei einem erwachsenen Hund ist ein guter Grund für einen Besuch, kein Ärgernis, das man mit einem Snack überdeckt.
   </div>
@@ -133,7 +133,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Die Milchzähne meines Welpen fallen nicht aus. Ist das normal?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Nein, und man sollte es nicht laufen lassen. Der Zahnwechsel dauert vom vierten bis zum siebten Monat, und dann sollten alle Milchzähne weg sein. Bleibt ein Milchzahn neben dem bleibenden stehen, was vor allem bei den <strong>Fangzähnen</strong> vorkommt, entsteht eine enge Lücke, in der sich Futter und Belag sammeln, was Fehlstellungen und frühe Parodontitis begünstigt. Die Lösung ist das Ziehen, oft zusammen mit einer Kastration oder einer anderen geplanten Narkose, damit der Hund nicht zweimal narkotisiert wird. Es lohnt sich, in dieser Zeit einmal pro Woche ins Maul zu schauen: sehen Sie mit sieben Monaten zwei Fangzähne nebeneinander, ist es Zeit, mit dem Tierarzt zu sprechen.
   </div>
@@ -141,6 +141,16 @@ custom_content: |
 
   </div>
 
+  <div class="related-articles">
+  <h3>Mehr zum Thema</h3>
+  <ul>
+  <li><a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)">Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)</a></li>
+  <li><a href="/de/staffy-parasitenvorbeugung/" title="Parasitenvorbeugung für Staffordshire Bull Terrier">Parasitenvorbeugung für Staffordshire Bull Terrier</a></li>
+  <li><a href="/de/welpen-erste-fuetterung/" title="Ernährung des Welpen in den ersten Monaten">Ernährung des Welpen in den ersten Monaten</a></li>
+  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Seriöse Staffordshire Bull Terrier Zucht erkennen">Seriöse Staffordshire Bull Terrier Zucht erkennen</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>

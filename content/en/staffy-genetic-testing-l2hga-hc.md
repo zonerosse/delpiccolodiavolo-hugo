@@ -2,7 +2,7 @@
 title: "Genetic Testing L2-HGA, HC (HSF4) and DM (SOD1) for Staffordshire Bull Terrier"
 titleSeo: "Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)"
 date: 2025-11-20
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "test-genetici"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -90,13 +90,18 @@ custom_content: |
   
   <p>Here the SOD1 test is N/N, meaning clear, for our two active breeding females, Bilquis and Croi Olc, and for Nora: the reports, with the microchip number, are on the <a href="/en/females-staffordshire-bull-terrier/" title="Female Staffordshire Bull Terriers">females page</a>.</p>
   
-  <p class="fonti">Sources: <a href="https://www.pnas.org/doi/10.1073/pnas.0812297106" target="_blank" rel="noopener" title="Awano et al., PNAS 2009">Awano et al., PNAS 2009</a>; <a href="https://vgl.ucdavis.edu/test/degenerative-myelopathy" target="_blank" rel="noopener" title="UC Davis Veterinary Genetics Laboratory">UC Davis Veterinary Genetics Laboratory</a>.</p>
+  <p class="fonti">Sources: <a href="https://www.pnas.org/doi/10.1073/pnas.0812297106" target="_blank" rel="noopener" title="Awano et al., PNAS 2009" aria-label="Awano et al., PNAS 2009 (opens in a new tab)">Awano et al., PNAS 2009</a>; <a href="https://vgl.ucdavis.edu/test/degenerative-myelopathy" target="_blank" rel="noopener" title="UC Davis Veterinary Genetics Laboratory" aria-label="UC Davis Veterinary Genetics Laboratory (opens in a new tab)">UC Davis Veterinary Genetics Laboratory</a>.</p>
   
   <h2>How the tests work</h2>
   <p>The tests are DNA based and straightforward. A cheek swab or a small blood sample is taken, ideally by the veterinarian who also verifies the dog's microchip so that the sample is unambiguously linked to that animal, and sent to an accredited laboratory. The result arrives within 2 to 4 weeks and is valid for life: the DNA does not change, so a dog is tested once and never again.</p>
   <p>Costs vary by laboratory and country, but for both tests together expect something in the region of around 120 euros for the genetic panel at the laboratory, rising to roughly 400 per dog once you add the veterinary sampling, the shipping and the eye examination. Compared with the cost of a lifetime of anticonvulsants, or of cataract surgery, or of the grief of a family, it is a trivial figure. It is also the reason no serious breeder considers it a discretionary expense.</p>
 
     <h3>Where the testing is done</h3>
+  <p>The test for L2-HGA and hereditary cataract is recognised internationally: the <a href="https://www.thekennelclub.org.uk/health-and-dog-care/health/health-and-care/az-of-health-and-care-issues/dna-testing-schemes/" target="_blank" rel="noopener" title="Kennel Club DNA testing schemes" aria-label="Kennel Club DNA testing schemes (opens in a new tab)">UK Kennel Club</a> includes it in its official schemes, which is why a report from an accredited laboratory is valid anywhere in Europe.</p>
+  <figure class="article-image img-right">
+  <img src="/images/Lothar-e-Arianna.webp" alt="Staffordshire Bull Terrier with healthy eyes" loading="lazy" decoding="async" width="280" height="350">
+  <figcaption>A Staffy with healthy eyes</figcaption>
+  </figure>
   <p>The main laboratories carrying out these tests are the <strong>Animal Health Trust</strong> in the UK, which developed both of them and is now part of The Kennel Club; <strong>Laboklin</strong>, the German laboratory that also operates in Italy; <strong>Optigen</strong> in the United States, specialised in eye conditions; and <strong>Embark</strong>, whose broad panel includes L2-HGA and HC.</p>
   <p>The sample is a cheek swab or a blood draw taken by a vet, sent to the laboratory, and the certificate comes back with the dog's microchip number on it. That number is what ties the result to a specific animal — a certificate without one proves nothing about the dog in front of you.</p>
 
@@ -129,6 +134,10 @@ custom_content: |
   <p>This is legitimate and accepted by kennel clubs, but it depends entirely on the accuracy of the pedigree. It is valid for 1 generation and it collapses if a parentage is wrong. For a dog that will be used in breeding, we prefer a direct test regardless of what the parents' certificates say. For a pet puppy, clear by parentage from two directly tested parents is perfectly reassuring.</p>
 
   <h2>What to ask the breeder, and what should worry you</h2>
+  <figure class="article-image img-left">
+  <img src="/images/cucciolo-rosso.webp" alt="Healthy Staffordshire Bull Terrier puppy" loading="lazy" decoding="async" width="280" height="320">
+  <figcaption>A healthy puppy from tested parents</figcaption>
+  </figure>
   <p>Ask for the laboratory certificates of both parents, as documents, with the dogs' names, microchip numbers and the laboratory's name legible. A serious breeder sends them without hesitation and often before you ask.</p>
   <p>Be wary of any of the following: the phrase "the parents are healthy, they have never had problems", which addresses a different question entirely; certificates you are told you will receive later; a refusal to give the certificates before a deposit; results shown only as a screenshot or a message; and the claim that testing is unnecessary "because our lines have never had it". No line is exempt from a recessive mutation until it is tested.</p>
 
@@ -187,6 +196,28 @@ custom_content: |
   <div class="faq-answer">By asking for the reports, and looking at one thing: <strong>the microchip number</strong>. A laboratory certificate carrying the microchip can be linked to that dog and no other, and can be checked against the animal's own documents or confirmed with the laboratory that issued it. A report without a microchip, or a photocopy with the name blanked out, proves nothing: it could refer to any dog. Be wary of the phrase "available on request": a kennel that has done the tests has no reason to keep them hidden. On this site the breeding dogs' reports are published and downloadable, microchip numbers in plain sight.</div>
   </div>
 
+  <div class="faq-item">
+  <h3>Do L2-HGA and HC exist only in the Staffy?</h3>
+  <div class="faq-answer">Not exclusively, but almost. L2-HGA has been identified and studied above all in the Staffordshire Bull Terrier, where the mutation was isolated and the test developed; sporadic cases have been described in other breeds, including the West Highland White Terrier. Juvenile hereditary cataract in the form linked to this mutation affects the Staffy and the Boston Terrier. The fact that these are breed conditions is not a sentence: it is the reason a specific test exists, which for many other hereditary diseases is not the case. A breed with two testable conditions and a breeder who tests for them is in a better position than a breed with ten known problems and no test available.
+  </div>
+  </div>
+
+  <div class="faq-item">
+  <h3>Why do some breeders not test?</h3>
+  <div class="faq-answer">There are three reasons, and none of them holds up. The first is ignorance: some people do not know these conditions exist or that a test does, and this mostly concerns people who breed an occasional litter without following the breed. The second is saving money: 200 euros per dog looks like a lot to someone who sees a litter as income rather than a project, even though spread over several litters it becomes negligible. The third is the most uncomfortable: fear of the result. A beautiful dog that turns out to be a carrier can no longer be mated with another carrier, and someone who has already planned that mating would rather not know. In all three cases the risk is passed on to the families who will take the puppies.
+  </div>
+  </div>
+
+  <div class="related-articles">
+  <h3>More on this topic</h3>
+  <ul>
+  <li><a href="/en/staffy-bloodlines-guide/" title="Staffy bloodlines: the history of the six lines">Staffy bloodlines: the history of the six lines</a></li>
+  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious Staffy breeder">How to recognise a serious Staffy breeder</a></li>
+  <li><a href="/en/puppy-first-vaccinations/" title="Puppy first vaccinations: schedule and boosters">Puppy first vaccinations: schedule and boosters</a></li>
+  <li><a href="/en/puppy-initial-feeding/" title="Feeding a Staffordshire Bull Terrier puppy: first months">Feeding a Staffordshire Bull Terrier puppy: first months</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   </div>

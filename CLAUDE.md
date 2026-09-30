@@ -14,6 +14,27 @@ Site copy, front matter keys, template comments and script output are all in Ita
 
 ## Commands
 
+**Before delivering any file and at the start of any repo analysis, run
+`python3 tools/controlli/verifica.py`** (full clone, Hugo on PATH). ERRORI
+must be 0 before delivering. AVVISI are COME-SI-SCRIVE rules: report them,
+fix them only when Paolo decides. Cases Paolo has accepted go in
+`tools/controlli/eccezioni.txt`. Report results as that script prints them:
+if a new kind of check is added, say it is a new check, not a new problem.
+
+Other files read by the script: `tools/controlli/originali.txt` (Paolo's list
+of the most original articles, which need at least `minimo:` in-text inbound
+links, in all three languages) and the front matter key `fonti_motivo` (a page
+with no external source must say why; without it the page is reported).
+`tools/controlli/parole-chiave.txt` lists the primary keyword of each main
+page (home: "allevamento staffordshire bull terrier", puppies page: "cuccioli
+staffordshire bull terrier", and the EN/DE equivalents): the script checks
+title, h1, description, opening text, alt, inbound anchors and other pages
+competing for the same keyword. These two keywords are Paolo's top priority.
+Search volumes for synonyms come from `tools/parole-chiave/volumi.py`
+(DataForSEO, run by Paolo with his API credentials).
+Decorative inline SVG icons carry `aria-hidden="true" focusable="false"`;
+icon images and share cards are kept out of the sitemap.
+
 ```bash
 hugo server          # dev server on http://localhost:1313, live reload
 hugo                 # production build into public/ (gitignored)
@@ -86,7 +107,7 @@ One file, `assets/css/main.css` (already minified in-repo, single long line), in
 
 ## Repo cruft — do not treat as source
 
-`content_backup/`, `content/*- Copia.zip`, `layouts.zip`, `lista.txt` (UTF-16 file listing), and `PULIZIA-FILE-VECCHI.bat` are leftovers from the site migration. `public/` is gitignored but present locally.
+`lista.txt` (UTF-16 file listing), and `PULIZIA-FILE-VECCHI.bat` are leftovers from the site migration. `public/` is gitignored but present locally.
 
 ## Share cards (og:image) for articles
 

@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Colours: Black, Brindle, Blue and More"
 date: 2026-08-01
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 titleSeo: "Staffordshire Bull Terrier colours: black, brindle, blue"
 translationKey: "colori"
 articolo: true
@@ -132,6 +132,13 @@ custom_content: |
   <li><a href="/en/staffy-pitbull-amstaff-difference/" title="Differences">Staffy vs Pitbull vs Amstaff</a></li>
   <li><a href="/en/staffy-bloodlines-guide/" title="Bloodlines">Staffordshire Bull Terrier bloodlines</a></li>
   <li><a href="/en/is-the-staffordshire-bull-terrier-right-for-you/" title="Is it right for you">Is the Staffy right for you?</a></li>
+  </ul>
+  </div>
+  
+  <div class="related-articles">
+  <h3>More on this topic</h3>
+  <ul>
+  <li><a href="/en/litters-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier litters: planned and past">Staffordshire Bull Terrier litters: planned and past</a></li>
   </ul>
   </div>
   

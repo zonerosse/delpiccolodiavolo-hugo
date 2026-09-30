@@ -2,7 +2,7 @@
 title: "Puppies: Managing Alone Time"
 date: 2025-07-08
 titleSeo: "Teaching a puppy to stay alone without stress"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "solitudine"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -46,7 +46,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>The Staffordshire Bull Terrier was selected to want human company, and that makes being alone something a puppy has to be taught deliberately. It starts in the first week, with 30 seconds behind a closed door, then one minute, three, ten, twenty, forty, leaving and coming back without ceremony. A puppy of 8 to 12 weeks should not be alone for more than one or two hours, and by six months three to four; an adult that has been walked and has something to do can manage four to six hours. A routine of eight hours a day alone is not compatible with this breed. The warning sign is not mess but panic: continuous vocalising, salivation, destruction focused on doors and windows. That is separation distress, and it calls for a behaviourist, never for punishment. A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>The Staffordshire Bull Terrier was selected to want human company, and that makes being alone something a puppy has to be taught deliberately. It starts in the first week, with 30 seconds behind a closed door, then one minute, three, ten, twenty, forty, leaving and coming back without ceremony. A puppy of 8 to 12 weeks should not be alone for more than one or two hours, and by six months three to four; an adult that has been walked and has something to do can manage four to six hours. A routine of eight hours a day alone is not compatible with this breed. The warning sign is not mess but panic: continuous vocalising, salivation, destruction focused on doors and windows. That is separation distress, and it calls for a behaviourist, never for punishment. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
   
   
@@ -88,6 +88,23 @@ custom_content: |
   <p>A puppy of 8 to 12 weeks should not be alone for more than 1 or 2 hours. By 6 months, 3 to four. An adult dog can manage 4 to 6 hours if it has been walked beforehand and has something to do, but a routine of 8 hours a day alone is not compatible with this breed, and we say so plainly to prospective owners.</p>
   <p>Where the working day is long, the answer is a midday walker, a neighbour, or a dog daycare 2 or 3 times a week. It is an ordinary cost of owning this breed rather than an indulgence.</p>
 
+  <div class="related-articles">
+  <h3>Related articles</h3>
+  <ul>
+  <li><a href="/en/puppy-home-socialization/" title="Socialising the puppy at home: the family checklist">Socialising the puppy at home: the family checklist</a></li>
+  <li><a href="/en/puppy-potty-training/" title="Puppy potty training: method, timing and setbacks">Puppy potty training: method, timing and setbacks</a></li>
+  <li><a href="/en/puppy-mental-games/" title="Mental games for Staffordshire Bull Terrier puppies">Mental games for Staffordshire Bull Terrier puppies</a></li>
+  <li><a href="/en/staffy-children-family/" title="Staffordshire Bull Terrier with children: family life">Staffordshire Bull Terrier with children: family life</a></li>
+  </ul>
+  </div>
+  
+  <div class="related-articles">
+  <h3>More on this topic</h3>
+  <ul>
+  <li><a href="/en/is-the-staffordshire-bull-terrier-right-for-you/" title="Staffordshire Bull Terrier: is it the right dog for you?">Staffordshire Bull Terrier: is it the right dog for you?</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   

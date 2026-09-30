@@ -1,7 +1,7 @@
 ---
 title: "Farben des Staffordshire Bull Terrier: Schwarz, Gestromt, Blau und mehr"
 date: 2026-08-01
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 titleSeo: "Farben des Staffordshire Bull Terrier: Schwarz, Gestromt"
 translationKey: "colori"
 articolo: true
@@ -132,6 +132,13 @@ custom_content: |
   <li><a href="/de/staffy-pitbull-amstaff-unterschied/" title="Unterschiede">Unterschied zwischen Staffy, Pitbull und Amstaff</a></li>
   <li><a href="/de/staffy-blutlinien-guide/" title="Blutlinien">Blutlinien des Staffordshire Bull Terrier</a></li>
   <li><a href="/de/ist-der-staffordshire-bull-terrier-der-richtige-hund/" title="Ist er der richtige Hund">Ist der Staffy der richtige Hund für Sie?</a></li>
+  </ul>
+  </div>
+  
+  <div class="related-articles">
+  <h3>Mehr zum Thema</h3>
+  <ul>
+  <li><a href="/de/wuerfe-staffordshire-bull-terrier/" title="Würfe Staffordshire Bull Terrier: geplant und bisherige">Würfe Staffordshire Bull Terrier: geplant und bisherige</a></li>
   </ul>
   </div>
   

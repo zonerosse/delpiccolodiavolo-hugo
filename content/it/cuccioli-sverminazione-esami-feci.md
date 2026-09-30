@@ -96,7 +96,7 @@ custom_content: |
   <p>Il quadro descrive cuccioli con un intestino sano: nessun parassita, flora batterica equilibrata, digestione che funziona. Non è fortuna. È il risultato di un protocollo applicato dalla seconda settimana di vita e di un ambiente tenuto pulito.</p>
   
   <div class="callout">
-  <p><strong>📄 I referti completi:</strong> <a href="/docs/referti-feci-cucciolata-17-09-2026.pdf" title="Referti degli esami delle feci della cucciolata, 17 settembre 2026" target="_blank" rel="noopener">scarica il PDF dei due esami</a> — tabella dei risultati, microfotografie e test antigenico per Giardia.</p>
+  <p><strong>📄 I referti completi:</strong> <a href="/docs/referti-feci-cucciolata-17-09-2026.pdf" title="Referti degli esami delle feci della cucciolata, 17 settembre 2026" target="_blank" rel="noopener" aria-label="Referti degli esami delle feci della cucciolata, 17 settembre 2026 (si apre in una nuova scheda)">scarica il PDF dei due esami</a> — tabella dei risultati, microfotografie e test antigenico per Giardia.</p>
   </div>
   
   <h2>Una riga in rosso, e perché non è un problema</h2>

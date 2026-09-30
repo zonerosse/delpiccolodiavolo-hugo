@@ -46,7 +46,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Lo Staffordshire Bull Terrier ha tre patologie ereditarie per cui esiste un test: <strong>L2-HGA</strong>, l'aciduria L-2-idrossiglutarica, una malattia neurologica che si manifesta fra i sei mesi e l'anno con tremori, atassia e crisi; <strong>HC</strong>, la cataratta ereditaria giovanile, che può portare a cecità entro i tre anni; e <strong>PHPV</strong>, un'anomalia congenita del vitreo. Le prime due si accertano con un test del DNA su tampone salivare o sangue, la terza con una visita oftalmologica specialistica. Tutte e tre sono a trasmissione autosomica recessiva: servono due copie del gene mutato perché il cane si ammali, quindi due genitori esenti non possono produrre cuccioli malati. È per questo che il test sui riproduttori conta più di qualsiasi garanzia scritta, e che un referto vale solo se riporta il numero di microchip del cane. Guida a cura dell'allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier a Ostellato (FE) dal 2013.</p>
+  <p>Lo Staffordshire Bull Terrier ha tre patologie ereditarie per cui esiste un test: <strong>L2-HGA</strong>, l'aciduria L-2-idrossiglutarica, una malattia neurologica che si manifesta fra i sei mesi e l'anno con tremori, atassia e crisi; <strong>HC</strong>, la cataratta ereditaria giovanile, che può portare a cecità entro i tre anni; e <strong>PHPV</strong>, un'anomalia congenita del vitreo. Le prime due si accertano con un test del DNA su tampone salivare o sangue, la terza con una visita oftalmologica specialistica. Tutte e tre sono a trasmissione autosomica recessiva: servono due copie del gene mutato perché il cane si ammali, quindi due genitori esenti non possono produrre cuccioli malati. È per questo che il test sui riproduttori conta più di qualsiasi garanzia scritta, e che un referto vale solo se riporta il numero di microchip del cane. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
   
   <h2>Perché i Test Genetici Sono Fondamentali</h2>
@@ -132,7 +132,7 @@ custom_content: |
   
   <p>Da noi il test SOD1 risulta N/N, cioè esente, per le due fattrici in attività, Bilquis e Croi Olc, e per Nora: i referti, con il numero di microchip, sono sulla <a href="/femmine-staffordshire-bull-terrier/" title="Femmine Staffordshire Bull Terrier">pagina delle femmine</a>.</p>
   
-  <p class="fonti">Fonti: <a href="https://www.pnas.org/doi/10.1073/pnas.0812297106" target="_blank" rel="noopener" title="Awano et al., PNAS 2009">Awano et al., PNAS 2009</a>; <a href="https://vgl.ucdavis.edu/test/degenerative-myelopathy" target="_blank" rel="noopener" title="UC Davis Veterinary Genetics Laboratory">UC Davis Veterinary Genetics Laboratory</a>.</p>
+  <p class="fonti">Fonti: <a href="https://www.pnas.org/doi/10.1073/pnas.0812297106" target="_blank" rel="noopener" title="Awano et al., PNAS 2009" aria-label="Awano et al., PNAS 2009 (si apre in una nuova scheda)">Awano et al., PNAS 2009</a>; <a href="https://vgl.ucdavis.edu/test/degenerative-myelopathy" target="_blank" rel="noopener" title="UC Davis Veterinary Genetics Laboratory" aria-label="UC Davis Veterinary Genetics Laboratory (si apre in una nuova scheda)">UC Davis Veterinary Genetics Laboratory</a>.</p>
   
   <h2>Come Funzionano i Test Genetici</h2>
 

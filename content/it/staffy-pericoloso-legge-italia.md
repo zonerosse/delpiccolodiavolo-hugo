@@ -1,7 +1,7 @@
 ---
 title: "Lo Staffy è Pericoloso? Verità e Legge Italiana"
 date: 2025-11-18
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "pericoloso"
 articolo: true
 image: "/images/blog/staffy-carattere-legge-hero.webp"
@@ -44,7 +44,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>In Italia lo Staffordshire Bull Terrier non rientra in nessuna lista di razze pericolose: l'elenco delle razze a rischio &egrave; stato abolito nel 2009 con l'ordinanza del Ministero della Salute, che ha spostato la responsabilit&agrave; dalla razza al proprietario. Da allora nessuna razza &egrave; vietata o soggetta a obblighi particolari sul territorio nazionale, e le regole valgono per tutti i cani: guinzaglio nei luoghi pubblici, museruola al bisogno, e responsabilit&agrave; civile e penale del detentore. Restano alcune limitazioni locali, decise da singoli comuni o regolamenti condominiali, e regole diverse in altri paesi europei, che vanno verificate prima di viaggiare. Uno studio del Royal Veterinary College pubblicato nel 2020 su oltre 22.000 cani non ha trovato differenze significative di aggressivit&agrave; attribuibili alla razza. Guida a cura dell'allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier a Ostellato (FE) dal 2013.</p>
+  <p>In Italia lo Staffordshire Bull Terrier non rientra in nessuna lista di razze pericolose: l'elenco delle razze a rischio &egrave; stato abolito nel 2009 con l'ordinanza del Ministero della Salute, che ha spostato la responsabilit&agrave; dalla razza al proprietario. Da allora nessuna razza &egrave; vietata o soggetta a obblighi particolari sul territorio nazionale, e le regole valgono per tutti i cani: guinzaglio nei luoghi pubblici, museruola al bisogno, e responsabilit&agrave; civile e penale del detentore. Restano alcune limitazioni locali, decise da singoli comuni o regolamenti condominiali, e regole diverse in altri paesi europei, che vanno verificate prima di viaggiare. Uno studio del Royal Veterinary College pubblicato nel 2020 su oltre 22.000 cani non ha trovato differenze significative di aggressivit&agrave; attribuibili alla razza. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
   
   <h2>Il Pregiudizio sullo Staffordshire Bull Terrier: Da Dove Nasce?</h2>
@@ -200,7 +200,7 @@ custom_content: |
   </ul>
   </div>
   
-  <p>Nel <a href="/" title="Allevamento Del Piccolo Diavolo">nostro allevamento Del Piccolo Diavolo</a>, poniamo grande enfasi sulla selezione caratteriale. Tutti i nostri <a href="/maschi-staffordshire-bull-terrier/" title="Maschi Staffy">maschi</a> e <a href="/femmine-staffordshire-bull-terrier/" title="Femmine Staffy">femmine</a> sono testati geneticamente e selezionati per temperamento equilibrato. I <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffy">cuccioli</a> crescono in casa e poi nel cortile, esposti a persone, rumori e cani adulti nelle settimane in cui quell'esposizione conta davvero.</p>
+  <p>Nel <a href="/" title="Allevamento Del Piccolo Diavolo">nostro allevamento Del Piccolo Diavolo</a>, poniamo grande enfasi sulla selezione caratteriale. Tutti i nostri <a href="/maschi-staffordshire-bull-terrier/" title="Maschi Staffy">maschi</a> e <a href="/femmine-staffordshire-bull-terrier/" title="Femmine Staffy">femmine</a> sono testati geneticamente e selezionati per temperamento equilibrato. I <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffy">cuccioli di Staffy</a> crescono in casa e poi nel cortile, esposti a persone, rumori e cani adulti nelle settimane in cui quell'esposizione conta davvero.</p>
   
   <h2>Conclusioni: I Fatti Oltre i Pregiudizi</h2>
   
@@ -236,6 +236,7 @@ custom_content: |
   <div class="faq-item">
   <h3 class="faq-question">Cos'è la "save list" della Lombardia?</h3>
   <div class="faq-answer">&Egrave; un elenco di 26 tipologie di cani, fra cui lo Staffordshire Bull Terrier, contenuto in un progetto di legge al Parlamento che il Consiglio regionale della Lombardia ha approvato il 24 giugno 2025. Chi detiene uno di quei cani dovrebbe seguire un corso teorico di almeno dieci ore e uno pratico di almeno sei, con il test CAE-1 dell'ENCI. Il punto che interessa chi sceglie un allevamento &egrave; che il testo approvato <strong>esclude i cani iscritti ai libri genealogici</strong>: uno Staffy con pedigree ENCI non rientrerebbe negli obblighi, mentre per i soggetti senza pedigree la proposta vieta riproduzione e cessione. Resta comunque una proposta: finch&eacute; il Parlamento non la approva non ha effetti pratici, ed &egrave; utile seguirne l'iter.
+  </div>
   </div>
   
   <div class="faq-item">

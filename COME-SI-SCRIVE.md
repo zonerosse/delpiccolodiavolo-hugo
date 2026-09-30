@@ -86,6 +86,14 @@ Se il paragrafo non nomina l'allevamento in modo naturale, si chiude con la
 frase di attribuzione, identica ovunque:
 
 - IT: *Guida a cura dell'allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier a Ostellato (FE) dal 2013.*
+  In italiano la parte *allevamento Del Piccolo Diavolo, che alleva
+  Staffordshire Bull Terrier* è un link alla home (`href="/"`): è il segnale
+  principale per la parola chiave "allevamento Staffordshire Bull Terrier"
+  (scelta di Paolo, settembre 2026). Nelle guide nuove va messo uguale.
+  Stessa cosa in inglese (link su *Del Piccolo Diavolo kennel, which has bred
+  Staffordshire Bull Terriers*, verso `/en/`) e in tedesco (link su *Zucht Del
+  Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire
+  Bull Terrier züchtet*, verso `/de/`).
 - EN: *A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.*
 - DE: *Ein Ratgeber der Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet.*
 
@@ -153,8 +161,9 @@ data dell'ultimo commit e l'articolo risulterebbe pubblicato oggi ogni volta
 che lo tocchi. La sezione `[frontmatter]` in `hugo.toml` lo impedisce, e il
 gancio pre-commit blocca il commit se manca.
 
-**`lastmod` si aggiorna da solo** al commit, tramite il gancio in
-`.githooks/pre-commit`.
+**`lastmod` lo aggiorna Claude** in ogni file che consegna, con
+`tools/lastmod/aggiorna.py --scrivi`. Il gancio in `.githooks/pre-commit`
+resta come rete di sicurezza, ma non si conta su di lui.
 
 **Lunghezze da rispettare**: `titleSeo` fra 30 e 60 caratteri, `description`
 fra 140 e 165. Oltre, Google taglia.
@@ -254,8 +263,9 @@ Per ogni articolo nuovo servono, in tutte e tre le lingue:
 2. L'immagine in `static/images/blog/`
 3. La **scheda nel blog**: `content/<lingua>/blog.md`, dentro la sezione
    giusta, con il contatore della categoria aumentato di uno
-4. La **voce nel llms.txt**: `static/llms.txt`, `static/en/llms.txt`,
-   `static/de/llms.txt`
+4. La **voce nel llms.txt**: `assets/llms/it.txt`, `assets/llms/en.txt`,
+   `assets/llms/de.txt` (Hugo li pubblica come `/llms.txt`, `/en/llms.txt`,
+   `/de/llms.txt`)
 5. I **collegamenti in entrata** da almeno tre pagine esistenti
 6. Se l'articolo cita un documento, il PDF in `static/docs/`
 
@@ -268,21 +278,25 @@ niente — è stato tolto da tutte le pagine.
 ## 12. Prima del commit
 
 ```powershell
-hugo --gc --minify --cleanDestinationDir
+python tools/controlli/verifica.py
 ```
 
-L'output deve essere **pulito**: nessun `WARN`. Se ne compare uno è una cosa
-nuova e va guardata.
+Lo script compila il sito con Hugo e fa **sempre gli stessi controlli**
+(elencati in testa al file). Divide il risultato in due:
 
-Controlli da fare, che sono quelli che hanno già trovato errori veri:
+- **ERRORI**: cose rotte (tag non chiusi, link rotti, schema non valido,
+  hreflang, sitemap, llms.txt, lastmod). Devono essere **zero**: con anche un
+  solo errore non si consegna e non si committa.
+- **AVVISI**: regole di questo file non rispettate (lunghezze, blocco
+  citabile, FAQ corte, link in entrata, parole vuote). Si correggono quando
+  Paolo decide.
 
-- front matter YAML valido su tutte le pagine
-- tag HTML bilanciati: `<div>`, `<p>`, `<a>`, `<section>`, `<article>`
-- indentazione di due spazi dentro `custom_content`
-- nessun link interno rotto
-- tutte le immagini e i PDF citati esistono davvero
-- nessun titolo duplicato, nessuno fuori dai 30-60 caratteri
-- `date` presente su ogni pagina con `articolo: true`
+Quando Paolo decide che un caso va bene così, si aggiunge una riga in
+`tools/controlli/eccezioni.txt` e lo script smette di segnalarlo.
+
+Perché: prima i controlli si facevano a mano e ogni volta erano diversi, così
+ogni analisi trovava problemi "nuovi" e una correzione poteva romperne
+un'altra senza che nessuno se ne accorgesse.
 
 ---
 

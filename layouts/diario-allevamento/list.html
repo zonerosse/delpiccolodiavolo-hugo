@@ -38,9 +38,11 @@
 </section>
 
 <section class="cta-section">
-  <h2>Vuoi essere avvisato?</h2>
-  <p>Contattaci su WhatsApp per ricevere aggiornamenti sulle prossime cucciolate.</p>
-  <a href="https://wa.me/{{ .Site.Params.whatsapp }}?text=Ciao%20Paolo%2C%20vorrei%20ricevere%20aggiornamenti%20sulle%20cucciolate" class="btn" target="_blank" rel="noopener" title="WhatsApp" aria-label="{{ i18n "scrivi_wa" }} per gli aggiornamenti sulle cucciolate ({{ i18n "nuova_scheda" }})">Scrivici su WhatsApp</a>
+  {{ if eq .Site.Language.Lang "en" }}<h2>Want to be kept informed?</h2>
+  <p>Contact us on WhatsApp to receive updates on the next litters.</p>{{ else if eq .Site.Language.Lang "de" }}<h2>Möchten Sie informiert werden?</h2>
+  <p>Schreiben Sie uns auf WhatsApp, um Neuigkeiten zu den nächsten Würfen zu erhalten.</p>{{ else }}<h2>Vuoi essere avvisato?</h2>
+  <p>Contattaci su WhatsApp per ricevere aggiornamenti sulle prossime cucciolate.</p>{{ end }}
+  <a href="https://wa.me/{{ .Site.Params.whatsapp }}?text={{ if eq .Site.Language.Lang "en" }}Hello%20Paolo%2C%20I%20would%20like%20updates%20on%20the%20litters{{ else if eq .Site.Language.Lang "de" }}Hallo%20Paolo%2C%20ich%20m%C3%B6chte%20Neuigkeiten%20zu%20den%20W%C3%BCrfen{{ else }}Ciao%20Paolo%2C%20vorrei%20ricevere%20aggiornamenti%20sulle%20cucciolate{{ end }}" class="btn" target="_blank" rel="noopener" title="WhatsApp" aria-label="{{ i18n "scrivi_wa" }} {{ if eq .Site.Language.Lang "en" }}for litter updates{{ else if eq .Site.Language.Lang "de" }}für Neuigkeiten zu den Würfen{{ else }}per gli aggiornamenti sulle cucciolate{{ end }} ({{ i18n "nuova_scheda" }})">{{ if eq .Site.Language.Lang "en" }}Write to us on WhatsApp{{ else if eq .Site.Language.Lang "de" }}Auf WhatsApp schreiben{{ else }}Scrivici su WhatsApp{{ end }}</a>
 </section>
 
 {{ end }}

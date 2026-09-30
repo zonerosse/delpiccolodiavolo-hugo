@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier mit anderen Haustieren"
 date: 2024-06-18
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "altri-animali"
 articolo: true
 image: "/images/blog/famiglia-2.jpg"
@@ -33,7 +33,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Der Staffordshire Bull Terrier ist ein Terrier, und Reaktivität gegenüber anderen Hunden gibt es, vor allem zwischen Tieren gleichen Geschlechts nach der sozialen Reife zwischen 18 Monaten und drei Jahren. Sozialisierung verringert sie, beseitigt sie aber nicht: Ein Hund, der im Park keine Probleme macht, kann einen Mitbewohner ablehnen, weil der andere zu Hause nie wieder geht. Dazu bleibt ein Rest Jagdtrieb gegenüber kleinen, schnellen Tieren. Das Zusammenleben mit einem anderen Hund, einer Katze oder Kleintieren wird deshalb vorbereitet, bevor es beginnt: den eigenen Hund ehrlich einschätzen, die Wohnung mit getrennten Bereichen und Gittern einrichten, die Tiere Schritt für Schritt zusammenführen und Näpfe, Spielzeug und Liegeplätze verwalten, denn dort beginnen die meisten Konflikte. Mit einer Katze dauert es Wochen, nicht Tage. Bei Kaninchen, Nagern und Vögeln endet die Aufsicht nie. Ein Ratgeber der Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet.</p>
+  <p>Der Staffordshire Bull Terrier ist ein Terrier, und Reaktivität gegenüber anderen Hunden gibt es, vor allem zwischen Tieren gleichen Geschlechts nach der sozialen Reife zwischen 18 Monaten und drei Jahren. Sozialisierung verringert sie, beseitigt sie aber nicht: Ein Hund, der im Park keine Probleme macht, kann einen Mitbewohner ablehnen, weil der andere zu Hause nie wieder geht. Dazu bleibt ein Rest Jagdtrieb gegenüber kleinen, schnellen Tieren. Das Zusammenleben mit einem anderen Hund, einer Katze oder Kleintieren wird deshalb vorbereitet, bevor es beginnt: den eigenen Hund ehrlich einschätzen, die Wohnung mit getrennten Bereichen und Gittern einrichten, die Tiere Schritt für Schritt zusammenführen und Näpfe, Spielzeug und Liegeplätze verwalten, denn dort beginnen die meisten Konflikte. Mit einer Katze dauert es Wochen, nicht Tage. Bei Kaninchen, Nagern und Vögeln endet die Aufsicht nie. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
   
   
@@ -94,7 +94,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie lange dauert eine gelungene Zusammenführung wirklich?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Das hängt von den beiden Tieren ab, aber eine ehrliche Größenordnung ist diese: <strong>zwei bis vier Wochen</strong> für eine einfache Zusammenführung, ein Welpe mit einem ausgeglichenen Erwachsenen des anderen Geschlechts, und <strong>zwei bis sechs Monate</strong>, wenn beide erwachsen sind oder einer schon Probleme hatte. Mit einer vorhandenen Katze dauert es meist länger, mindestens zehn bis sechzehn Wochen, weil die Katze ihr eigenes Tempo bestimmt und sich nicht drängen lässt. Entscheidend ist nicht das Ankunftsdatum, sondern die Reihenfolge: Geruchsaustausch, Begegnungen auf Abstand, kurze Treffen auf neutralem Boden und erst am Ende das Zusammenleben in der Wohnung. Einen Schritt zu überspringen, weil es gut zu laufen scheint, ist der häufigste Fehler, und alles neu zu machen kostet viel mehr als die gesparte Zeit.
   </div>
@@ -103,7 +103,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Kann ich den Geruchsaustausch überspringen und gleich Treffen machen?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Man kann, und manchmal geht es trotzdem gut, aber diese Wette lohnt sich nicht. Hunde und Katzen bauen einen großen Teil ihrer sozialen Landkarte über Gerüche auf: sie zusammenzubringen, bevor sie sich riechen kennen, heißt, zwei Fremde im Moment der größten Aufregung vorzustellen. Decken, Körbchen oder ein Tuch, das an einem Tier gerieben und einige Tage beim anderen gelassen wird, kosten nichts und machen aus dem ersten Treffen ein Wiedererkennen statt einer Entdeckung. Das eigentliche Problem: geht das erste Treffen schief, bleibt keine Verzögerung zurück, sondern <strong>eine negative Verknüpfung, die man wieder abbauen muss</strong>, und das dauert viel länger als die Zeit, die man durch das Überspringen gespart hat.
   </div>
@@ -112,7 +112,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Mein Staffy hat einmal ein anderes Tier angegriffen. Ist alles vorbei?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Nein, aber der Plan ändert sich. Ein einzelner Vorfall bestimmt keinen Hund, er muss aber untersucht statt vergessen werden: <strong>was in den Minuten davor geschah</strong>, wer da war, wo, und ob eine Ressource im Spiel war, Futter, ein enger Durchgang, ein Mensch. Die meisten Vorfälle im Haus entstehen aus Konkurrenz um eine Ressource oder aus einem Hund, der sich nicht lösen konnte und die Stufe erhöht hat. Von da an wird das Zusammenleben mit räumlicher Trennung gesteuert, wann immer niemand aufpasst, und mit einem Programm unter Anleitung eines Trainers oder tierärztlichen Verhaltensmediziners. Was nicht hilft, ist zu hoffen, dass es von selbst vergeht: wiederholte Vorfälle kommen meist immer schneller, weil der Hund lernt, dass es funktioniert.
   </div>
@@ -121,7 +121,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Besser einen Staffy-Welpen zum vorhandenen Tier oder umgekehrt?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Ein Welpe von acht bis sechzehn Wochen, der zu einem vorhandenen erwachsenen Hund oder einer Katze kommt, ist meist die einfachste Kombination, sofern das vorhandene Tier tolerant ist: der Welpe lernt die sozialen Regeln von ihm. Bedenken Sie aber, dass die Energie zwischen sechs und achtzehn Monaten sehr hoch wird und ein älteres Tier stressen kann. Ein gut sozialisierter erwachsener Staffy mit einem neuen Welpen ist machbar, doch der Welpe bleibt verletzlich gegenüber zu rauem Spiel. Ideal sind zwei junge Erwachsene von zwei bis fünf Jahren mit ähnlicher Energie. Ein erwachsener Staffy, der zu einer vorhandenen Katze zieht, ist die Kombination, die am häufigsten fachliche Hilfe braucht.
   </div>
@@ -130,7 +130,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Können sie ohne ständige Aufsicht zusammenleben?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Mit der Zeit ja, aber die Aufsicht wird nicht per Entscheidung beendet, sondern durch gesammelte Erfahrung, und in manchen Fällen nie. Der vernünftige Weg ist schrittweise: zuerst vollständige Trennung, wenn Sie weg sind, dann sehr kurze Abwesenheiten mit Sichttrennung, dann längere, immer mit einem Ort, an den sich jedes Tier zurückziehen kann. Maßstab für den nächsten Schritt ist nicht der Kalender, sondern das Verhalten: zwei Tiere, die sich ruhig ignorieren, sind bereit, zwei, die sich ständig kontrollieren, nicht. Bei sehr unterschiedlicher Größe, bei Hund und Katze oder bei einer Katze ohne Fluchtwege in der Höhe bleibt die Trennung bei Abwesenheit die vorsichtige Wahl. Ein Vorfall im Haus dauert zwei Sekunden.
   </div>
@@ -139,7 +139,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Lohnt sich ein professioneller Trainer?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Eine Beratung zu Hause kostet in Italien etwa 60 bis 120 Euro, ein Programm mit einigen Terminen 200 bis 500. Das scheint viel, bis man es neben die Alternativen stellt: ein Notfall nach einem Vorfall, eine Operation an einer Katze oder die dauerhafte Trennung zweier Tiere im selben Haushalt, die tägliche Kosten verursacht und keine einmaligen. Es lohnt sich, <strong>vorher</strong> anzurufen, wenn Sie die Zusammenführung planen, nicht nach dem ersten Problem: ein Trainer, der die Abfolge von Anfang an festlegt, arbeitet auf einem leeren Blatt, während einer, der nach einem Vorfall kommt, zuerst eine negative Verknüpfung abbauen muss. Wählen Sie jemanden, der mit positiven Methoden arbeitet und sich die Wohnung ansieht, statt am Telefon zu beraten.
   </div>
@@ -148,7 +148,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Mein Staffy versteht sich im Park, akzeptiert aber keinen neuen Hund zu Hause. Warum?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Weil es zwei völlig verschiedene Situationen sind, auch wenn wir beide einen Hund treffen nennen. Im Park gehört das Gebiet niemandem, es gibt Raum und Auswege, die Begegnung dauert wenige Minuten und endet, wenn einer weggeht. Zu Hause ist es sein Gebiet, die wichtigen Ressourcen, Futter, Liegeplatz, die Menschen, sind dort, der Raum ist eng, und vor allem <strong>geht der andere Hund nie wieder</strong>. Ein Hund, der draußen verträglich ist, kann deshalb einen Mitbewohner ablehnen, und das ist kein Widerspruch: genau das ist zu erwarten. Eine Zusammenführung zu Hause wird mit der vollständigen Abfolge aufgebaut, beginnend mit Treffen auf neutralem Boden, bis zum Zusammenleben nur schrittweise, und es hilft, umstrittene Ressourcen eine Zeit lang wegzuräumen.
   </div>
@@ -157,7 +157,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Woran erkenne ich, dass das Zusammenleben endgültig gescheitert ist?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Es ist die Frage, die niemand stellen will, und es ist richtig, Kriterien zu haben, statt nach Gefühl zu gehen. Die Zeichen, die sagen, es reicht, sind wenige und klar: <strong>wiederholte Angriffe trotz eines ernsthaft befolgten professionellen Programms</strong>, Verletzungen, die zum Tierarzt müssen, ein Tier, das nicht mehr frisst oder das Katzenklo nicht mehr benutzt, sich tagelang versteckt oder körperliche Zeichen von Dauerstress zeigt. Hat sich die Lage nach sechs Monaten angeleiteter Arbeit nicht gebessert, schadet weiteres Beharren beiden. Das zu erkennen ist kein persönliches Versagen: es heißt, das Wohl der Tiere über die eigene Vorstellung zu stellen. Dann braucht es ein Zuhause, in dem jedes ohne das andere leben kann, und für die Hunde aus der Zucht Del Piccolo Diavolo ist dieses Zuhause hier.
   </div>
@@ -165,6 +165,17 @@ custom_content: |
 
   </div>
 
+  <div class="related-articles">
+  <h3>Mehr zum Thema</h3>
+  <ul>
+  <li><a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das wirklich heißt">Sozialisierte Welpen: was das wirklich heißt</a></li>
+  <li><a href="/de/staffy-kinder-familie/" title="Staffordshire Bull Terrier mit Kindern und Familie">Staffordshire Bull Terrier mit Kindern und Familie</a></li>
+  <li><a href="/de/staffy-aeltere-besitzer/" title="Staffordshire Bull Terrier für ältere Besitzer">Staffordshire Bull Terrier für ältere Besitzer</a></li>
+  <li><a href="/de/welpen-sozialisierung-zuhause/" title="Welpen zu Hause sozialisieren: die Liste für die Familie">Welpen zu Hause sozialisieren: die Liste für die Familie</a></li>
+  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Seriöse Staffordshire Bull Terrier Zucht erkennen">Seriöse Staffordshire Bull Terrier Zucht erkennen</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>

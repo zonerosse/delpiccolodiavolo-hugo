@@ -2,7 +2,7 @@
 title: "Welpen zu Hause sozialisieren: die Liste für die Familie"
 date: 2025-03-18
 titleSeo: "Welpen zu Hause sozialisieren: die Liste für die Familie"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "socializzazione"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
@@ -39,7 +39,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Die Sozialisierung eines Staffordshire Bull Terrier Welpen hängt an einem Fenster, das sich früh schließt. Von etwa der dritten bis zur zwölften Lebenswoche, mit dem Kern zwischen der vierten und der achten, nimmt das Gehirn eines Welpen Neues als normal hin. Was der Welpe in dieser Zeit kennenlernt, gehört zu seiner gewöhnlichen Welt; was er später trifft, muss er erst bewerten, und beim Bewerten entsteht Angst. Die acht Wochen in der Zucht sind die Hälfte dieses Fensters, deshalb ist so wichtig, wo ein Welpe aufwächst. Sozialisierung heißt nicht, möglichst viele Hunde und Menschen zu treffen. Sie heißt gewöhnliche Erfahrungen, verschiedene Untergründe, Haushaltsgeräusche, Menschen jeden Alters und ruhige erwachsene Hunde, kurz und positiv. Maßstab einer guten Erfahrung ist, dass der Welpe entspannt blieb, nicht bloß, dass sie stattfand. Ein Ratgeber der Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet.</p>
+  <p>Die Sozialisierung eines Staffordshire Bull Terrier Welpen hängt an einem Fenster, das sich früh schließt. Von etwa der dritten bis zur zwölften Lebenswoche, mit dem Kern zwischen der vierten und der achten, nimmt das Gehirn eines Welpen Neues als normal hin. Was der Welpe in dieser Zeit kennenlernt, gehört zu seiner gewöhnlichen Welt; was er später trifft, muss er erst bewerten, und beim Bewerten entsteht Angst. Die acht Wochen in der Zucht sind die Hälfte dieses Fensters, deshalb ist so wichtig, wo ein Welpe aufwächst. Sozialisierung heißt nicht, möglichst viele Hunde und Menschen zu treffen. Sie heißt gewöhnliche Erfahrungen, verschiedene Untergründe, Haushaltsgeräusche, Menschen jeden Alters und ruhige erwachsene Hunde, kurz und positiv. Maßstab einer guten Erfahrung ist, dass der Welpe entspannt blieb, nicht bloß, dass sie stattfand. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
   <p><strong>Dies ist die praktische Liste für die Familie</strong>, ab dem Tag, an dem der Welpe einzieht. Was er vorher, in der Zucht, kennengelernt haben kann, was nicht, und warum "bereits sozialisierter Welpe" für sich allein wenig bedeutet, steht im Artikel <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das wirklich heißt">Bereits sozialisierte Welpen: was das heißt</a>.</p>
 
@@ -82,6 +82,16 @@ custom_content: |
   <p><strong>Mein Welpe hat Angst vor dem Staubsauger.</strong> Erst ausgeschaltet im Raum, belohnt. Dann eingeschaltet im Nebenraum bei geschlossener Tür. Dann an, aus Entfernung, 10 Sekunden.</p>
   <p><strong>Lohnt sich eine Welpenstunde?</strong> Eine gut geführte ja, besonders wenn sie ruhiges Handling und strukturierte Gewöhnung enthält statt 20 Minuten freies Getümmel. Schauen Sie vorher einmal zu.</p>
 
+  <div class="related-articles">
+  <h3>Verwandte Artikel</h3>
+  <ul>
+  <li><a href="/de/welpen-erste-impfungen/" title="Erste Impfungen des Welpen: Plan und Auffrischung">Erste Impfungen des Welpen: Plan und Auffrischung</a></li>
+  <li><a href="/de/welpen-erste-fuetterung/" title="Ernährung des Welpen in den ersten Monaten">Ernährung des Welpen in den ersten Monaten</a></li>
+  <li><a href="/de/welpen-stubenreinheit/" title="Welpen stubenrein machen: Methode und Zeitrahmen">Welpen stubenrein machen: Methode und Zeitrahmen</a></li>
+  <li><a href="/de/welpen-allein-bleiben/" title="Welpen lernen allein zu bleiben, ohne Stress">Welpen lernen allein zu bleiben, ohne Stress</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>

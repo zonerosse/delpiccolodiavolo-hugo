@@ -1,7 +1,7 @@
 ---
 title: "Parasite Prevention for Staffordshire Bull Terrier"
 date: 2025-01-20
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "parassiti"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -37,7 +37,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Parasite control in the Staffordshire Bull Terrier is predictable and almost entirely effective, as long as the calendar is kept. The flea you see on the dog is only about 5 per cent of an infestation; the rest lives in the house as eggs, larvae and pupae. The breed's short coat makes fleas and ticks easy to spot, but its skin is prone to allergy, so flea allergy dermatitis is common. Ticks carry babesiosis, ehrlichiosis, anaplasmosis and Lyme disease; sand flies and mosquitoes carry leishmaniasis and heartworm. Puppies are born with roundworm from the dam and are wormed every two weeks from two weeks of age until twelve weeks, then monthly until six months. Adults are treated every three months, more often if they scavenge or live with small children, with a faecal examination to check the schedule. A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>Parasite control in the Staffordshire Bull Terrier is predictable and almost entirely effective, as long as the calendar is kept. The flea you see on the dog is only about 5 per cent of an infestation; the rest lives in the house as eggs, larvae and pupae. The breed's short coat makes fleas and ticks easy to spot, but its skin is prone to allergy, so flea allergy dermatitis is common. Ticks carry babesiosis, ehrlichiosis, anaplasmosis and Lyme disease; sand flies and mosquitoes carry leishmaniasis and heartworm. Puppies are born with roundworm from the dam and are wormed every two weeks from two weeks of age until twelve weeks, then monthly until six months. Adults are treated every three months, more often if they scavenge or live with small children, with a faecal examination to check the schedule. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
   
   
@@ -84,7 +84,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">When should parasite prevention start in a puppy?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Worming starts very early, from two weeks of age, because many puppies are born carrying worms passed on by the mother: it is repeated every two weeks until twelve weeks and then monthly until six months. For external parasites, fleas and ticks, treatment usually starts <strong>from eight weeks</strong>, but the product depends on weight and age, and some active ingredients have precise limits below a certain threshold. The rule is that the vet chooses the first treatment, not the supermarket shelf. A puppy from a serious breeder should arrive with a health record listing the dates of every worming, and ideally the <strong>report of a faecal examination</strong>: from there you carry on without interruption, because a gap of a few weeks is enough to restart an infestation.
   </div>
@@ -93,7 +93,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How do I remove a tick correctly?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">With fine-pointed tweezers or a tick hook, gripping the tick <strong>as close to the skin as possible</strong> and pulling with steady, even traction, without jerking; a hook is designed to be turned gently as it lifts, tweezers are not. What must not be done is the whole repertoire of home remedies: oil, alcohol, a flame, petroleum jelly. Suffocating the tick makes it regurgitate into the dog, which is exactly when pathogens can pass. After removal, disinfect the spot and write down the date: most tick-borne diseases have an incubation period of weeks, so if fever, apathy or intermittent lameness appear in the following twenty to thirty days, tell the vet and remind them of the date of the bite.
   </div>
@@ -102,7 +102,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Which parasite products are best for puppies?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">There is no best in absolute terms, only the right one for that puppy, and it depends on age, weight, region and lifestyle. The main families are three: <strong>spot-ons</strong>, simple and suited to owners who do not need to treat often; <strong>chewable tablets</strong>, which are not lost with bathing and suit dogs that spend a lot of time outdoors or in water; and <strong>collars</strong>, which cover long periods. Where leishmaniasis is present, you need products with a repellent action against sandflies, which not all parasite treatments have. Avoid swapping products between cats and dogs, and avoid natural remedies without proven effect, which give the illusion of protection while the dog stays uncovered.
   </div>
@@ -111,7 +111,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How often should treatments be given?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">It depends on the product and the season, and the correct answer is on the leaflet: a spot-on usually covers four weeks, some tablets up to twelve, collars several months. The real mistake is not the choice of product but <strong>the winter break</strong>: with today's mild winters, ticks and fleas stay active even in January, and in the Po Valley year-round cover is now the norm. Heartworm is different, because prevention is seasonal and has to be in place before the mosquito season starts, after a test in dogs whose history is unknown. Keep a note of treatment dates: nobody notices when a month is skipped, and reinfestations at home are far more tedious to solve than to prevent.
   </div>
@@ -120,7 +120,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">My dog never leaves the garden. Does it still need prevention?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Yes. Mosquitoes carrying heartworm and sandflies carrying leishmaniasis do not need the dog to travel, they come to the garden; ticks can be carried by hedgehogs, birds and other animals that pass through; and flea eggs arrive on shoes, clothing and visiting pets. A garden-only dog therefore needs the same protection as any other, adapted to the area where you live. What changes is not whether to protect but how much to check: a dog that never goes into long grass or woodland needs fewer tick checks than one that does, but not a lower level of prevention. Ask your vet which parasites circulate locally, because the picture changes from one area to the next.
   </div>
@@ -128,6 +128,16 @@ custom_content: |
 
   </div>
 
+  <div class="related-articles">
+  <h3>More on this topic</h3>
+  <ul>
+  <li><a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)">Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)</a></li>
+  <li><a href="/en/puppy-first-vaccinations/" title="Puppy first vaccinations: schedule and boosters">Puppy first vaccinations: schedule and boosters</a></li>
+  <li><a href="/en/puppy-initial-feeding/" title="Feeding a Staffordshire Bull Terrier puppy: first months">Feeding a Staffordshire Bull Terrier puppy: first months</a></li>
+  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious Staffy breeder">How to recognise a serious Staffy breeder</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   </div>

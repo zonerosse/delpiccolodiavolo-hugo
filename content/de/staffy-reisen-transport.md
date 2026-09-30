@@ -1,7 +1,7 @@
 ---
 title: "Reisen und Transport mit Staffordshire Bull Terrier"
 date: 2024-04-07
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "viaggi"
 articolo: true
 image: "/images/blog/famiglia-4.jpg"
@@ -33,7 +33,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Mit einem Staffordshire Bull Terrier zu reisen heißt, drei Dinge vorzubereiten: Papiere, Transport und Pausen. Innerhalb der Europäischen Union braucht ein Hund einen Mikrochip, einen EU-Heimtierausweis von einem ermächtigten Tierarzt und eine gültige Tollwutimpfung, verabreicht nach dem Chippen und mindestens 21 Tage vor der Reise; Irland, Finnland, Malta und Norwegen verlangen zusätzlich eine Bandwurmbehandlung vor der Einreise. Im Auto verlangt das italienische Recht, dass der Hund den Fahrer nicht behindert: Am sichersten ist eine crashgetestete Box, im Kofferraum gesichert, danach ein festes Trenngitter, akzeptabel ein richtiges Reisegeschirr am Gurt. Legen Sie alle zwei Stunden eine Pause ein und reisen Sie mit leerem Magen. Lassen Sie den Hund nie im geparkten Auto, nicht einmal fünf Minuten: Für eine Rasse mit kurzem Fang ist Hitze der echte Notfall. Züge, Fähren, Fluggesellschaften und Hotels haben eigene Regeln, die man vor der Buchung prüft. Ein Ratgeber der Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet.</p>
+  <p>Mit einem Staffordshire Bull Terrier zu reisen heißt, drei Dinge vorzubereiten: Papiere, Transport und Pausen. Innerhalb der Europäischen Union braucht ein Hund einen Mikrochip, einen EU-Heimtierausweis von einem ermächtigten Tierarzt und eine gültige Tollwutimpfung, verabreicht nach dem Chippen und mindestens 21 Tage vor der Reise; Irland, Finnland, Malta und Norwegen verlangen zusätzlich eine Bandwurmbehandlung vor der Einreise. Im Auto verlangt das italienische Recht, dass der Hund den Fahrer nicht behindert: Am sichersten ist eine crashgetestete Box, im Kofferraum gesichert, danach ein festes Trenngitter, akzeptabel ein richtiges Reisegeschirr am Gurt. Legen Sie alle zwei Stunden eine Pause ein und reisen Sie mit leerem Magen. Lassen Sie den Hund nie im geparkten Auto, nicht einmal fünf Minuten: Für eine Rasse mit kurzem Fang ist Hitze der echte Notfall. Züge, Fähren, Fluggesellschaften und Hotels haben eigene Regeln, die man vor der Buchung prüft. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
   
   
@@ -74,7 +74,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie lange vorher bereite ich einen Hund auf eine lange Reise vor?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Für einen Hund, der das Auto gewohnt ist, reichen ein paar Tage: Papiere und Parasitenschutz prüfen und losfahren. Für einen Hund, dem im Auto übel wird oder der nie darin war, rechnen Sie mit <strong>vier bis sechs Wochen</strong>, und der Weg ist immer derselbe: zuerst ins stehende Auto mit ausgeschaltetem Motor und gleich wieder hinaus, dann mit laufendem Motor, dann Fahrten von zwei Minuten, die an einem schönen Ort enden, dann nach und nach längere. Der typische Fehler ist, die erste echte Reise zu machen, bevor die Gewohnheit aufgebaut ist, denn eine schlechte erste Erfahrung muss danach erst abgebaut werden. Geht es ins Ausland, bestimmen die Papiere den Zeitplan: Heimtierausweis, Mikrochip und eine gültige Tollwutimpfung, die allein einundzwanzig Tage nach der Gabe braucht.
   </div>
@@ -83,7 +83,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Kann ein Staffy fliegen?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Technisch ja, aber es muss ernsthaft abgewogen werden, weil die Rasse einen verkürzten Fang hat. Mehrere Fluggesellschaften beschränken oder verbieten brachyzephale Hunde im Frachtraum, gerade wegen des Atemrisikos durch Stress und Temperatur: die Regeln wechseln von Gesellschaft zu Gesellschaft und müssen auf deren eigener Website geprüft werden, nicht im Reisebüro erfragt. In der Kabine dürfen nur Hunde bis etwa acht bis zehn Kilo reisen, ein erwachsener Staffy fällt also fast nie darunter. Die praktische Folge ist einfach: für diese Rasse <strong>bleibt das Auto das beste Verkehrsmittel</strong>, mit Pausen alle zwei bis drei Stunden. Für die Welpen der Zucht Del Piccolo Diavolo stellt sich die Frage nicht: wir verschicken keine Hunde und schicken sie nicht in den Frachtraum; wer einen nimmt, holt ihn ab.
   </div>
@@ -92,7 +92,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie regle ich die Pausen auf der Reise?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Eine Pause alle <strong>zwei bis drei Stunden</strong> für einen Erwachsenen, alle anderthalb Stunden für einen Welpen, immer an der Leine, auch in eingezäunten Bereichen: ein orientierungsloser Hund auf einem Autobahnrastplatz ist die Situation, in der die meisten Hunde verloren gehen. Füttern Sie am besten in den drei bis vier Stunden vor der Abfahrt nicht, Wasser dagegen bei jeder Pause, wenig und oft. Nützlich sind eine saugfähige Unterlage für den Kofferraum und ein paar Beutel mehr. Auf sehr langen Fahrten legen Sie die erste Pause früh ein, innerhalb der ersten Stunde: sie zeigt, wie es dem Hund geht, und löst die anfängliche Anspannung. Zu Hause angekommen, geht ein Hund, der sich viele Stunden nicht lösen konnte, hinaus, bevor das Gepäck ausgeladen wird.
   </div>
@@ -101,7 +101,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Meinem Hund wird im Auto immer übel. Was tun?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Zuerst klären, ob es echte Reisekrankheit oder Angst ist, denn die Lösung ist eine andere. Reisekrankheit kommt aus dem Innenohr, ist bei Welpen häufig und bessert sich oft mit dem Wachstum; Autoangst entsteht aus negativen Verknüpfungen, und der Hund speichelt, zittert und winselt, bevor das Auto überhaupt fährt. In beiden Fällen hilft es, mit leerem Magen zu reisen, den Hund <strong>nach vorn gerichtet und tief</strong> zu halten, weich durch Kurven zu fahren und sanft zu bremsen und frische Luft hereinzulassen. Auf der Verhaltensseite baut man die Verknüpfung neu auf, mit sehr kurzen Fahrten, die an einem schönen Ort enden. Es gibt wirksame und sichere Tierarzneimittel gegen Reisekrankheit: fragen Sie den Tierarzt danach und improvisieren Sie nie mit Mitteln für Menschen.
   </div>
@@ -110,7 +110,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Box oder Geschirr für einen erwachsenen Staffy im Auto?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Das italienische Verkehrsrecht verlangt, dass ein Tier den Fahrer nicht behindert, und zulässig sind eine Box, ein Trenngitter oder ein Sicherheitsgeschirr am Gurt. Davon bleibt eine <strong>feste, im Kofferraum gesicherte Box</strong> bei einem Unfall am sichersten, und für einen kompakten Hund wie den Staffy gibt es gut passende Modelle. Ein Autogeschirr ist eine gute Alternative, wenn es crashgetestet ist, kein gewöhnliches Spaziergeschirr, das am Gurt eingehakt wird: bei einer Vollbremsung hält es das Gewicht nicht, das es halten muss. Welches System Sie auch wählen, der Hund fährt nie auf dem Beifahrersitz, und ein Kopf aus dem Fenster ist gefährlich für Augen und Ohren.
   </div>
@@ -118,6 +118,16 @@ custom_content: |
 
   </div>
 
+  <div class="related-articles">
+  <h3>Mehr zum Thema</h3>
+  <ul>
+  <li><a href="/de/staffy-andere-haustiere/" title="Staffordshire Bull Terrier mit anderen Haustieren">Staffordshire Bull Terrier mit anderen Haustieren</a></li>
+  <li><a href="/de/staffy-kinder-familie/" title="Staffordshire Bull Terrier mit Kindern und Familie">Staffordshire Bull Terrier mit Kindern und Familie</a></li>
+  <li><a href="/de/staffy-aeltere-besitzer/" title="Staffordshire Bull Terrier für ältere Besitzer">Staffordshire Bull Terrier für ältere Besitzer</a></li>
+  <li><a href="/de/staffy-sichere-bewegung/" title="Sichere Bewegung für Staffordshire Bull Terrier">Sichere Bewegung für Staffordshire Bull Terrier</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>

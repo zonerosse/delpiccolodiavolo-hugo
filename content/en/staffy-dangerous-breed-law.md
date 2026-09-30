@@ -1,7 +1,7 @@
 ---
 title: "Is Staffordshire Bull Terrier Dangerous? Italian Law"
 date: 2025-11-18
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "pericoloso"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -37,7 +37,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>In Italy the Staffordshire Bull Terrier is not on any list of dangerous breeds: the list was abolished by the Ministry of Health ordinance of 2009, which moved responsibility from the breed to the owner. No breed is banned or subject to special obligations nationwide, and the rules apply to every dog: a lead no longer than one and a half metres in public places, a muzzle carried and fitted when required, microchip, registration and full civil liability of the owner. Local rules on parks or beaches, rental contracts and some airlines can be stricter, and other European countries differ. A 2020 Royal Veterinary College study of 1,304 Staffordshire Bull Terriers and 21,029 other dogs found no significant difference in the odds of aggression. The breed's reputation is made by its owners, one dog at a time. A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>In Italy the Staffordshire Bull Terrier is not on any list of dangerous breeds: the list was abolished by the Ministry of Health ordinance of 2009, which moved responsibility from the breed to the owner. No breed is banned or subject to special obligations nationwide, and the rules apply to every dog: a lead no longer than one and a half metres in public places, a muzzle carried and fitted when required, microchip, registration and full civil liability of the owner. Local rules on parks or beaches, rental contracts and some airlines can be stricter, and other European countries differ. A 2020 Royal Veterinary College study of 1,304 Staffordshire Bull Terriers and 21,029 other dogs found no significant difference in the odds of aggression. The breed's reputation is made by its owners, one dog at a time. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
   
   
@@ -60,10 +60,14 @@ custom_content: |
   <p>The list lasted barely two years. The ordinance signed on 3 March 2009 by the undersecretary Francesca Martini abolished it, stating that veterinary science does not allow the risk of greater aggressiveness to be established on the basis of a dog's breed or crosses. What that ordinance introduced still applies: a lead of at most one and a half metres in urban areas, a muzzle carried and fitted on request, a register of dogs that have bitten kept by the local health authorities, and the civil and criminal liability of the owner. Source: the <a href="https://www.salute.gov.it/portale/documentazione/p6_2_2_1.jsp?id=3031" target="_blank" rel="noopener" aria-label="Italian Ministry of Health, ordinance of 3 March 2009 (opens in a new tab)">Italian Ministry of Health, ordinance of 3 March 2009</a>.</p>
 
   <h2>The Lombardy proposal and the "save list"</h2>
-  <p>In January 2025 the Lombardy Region presented a bill with a "save list" of 26 types of dog, the Staffordshire Bull Terrier among them, whose owners would have to complete a theory course of at least ten hours and a practical course of at least six, ending with the ENCI's CAE-1 test. On 24 June 2025 the regional council approved it as a bill to be sent to the national Parliament: it is not a regional law, and it has no effect until Parliament passes it.</p>
+  <p>In January 2025 the Lombardy Region presented a bill with a "save list" of 26 types of dog, the Staffordshire Bull Terrier among them, whose owners would have to complete a theory course of at least ten hours and a practical course of at least six, ending with the CAE-1 test run by the <a href="https://www.enci.it/" target="_blank" rel="noopener" title="ENCI" aria-label="ENCI, Italian Kennel Club (opens in a new tab)">ENCI</a>, the Italian Kennel Club. On 24 June 2025 the regional council approved it as a bill to be sent to the national Parliament: it is not a regional law, and it has no effect until Parliament passes it.</p>
   <p>The approved text contains one change that matters to anyone choosing a breeder: it <strong>excludes dogs registered in the stud books</strong>, that is, dogs with an ENCI pedigree, and prohibits breeding and rehoming non-pedigree dogs of the listed types, to stop backyard litters. A Staffordshire Bull Terrier with an ENCI pedigree would therefore not be subject to the licence even if the proposal became law in that form.</p>
 
   <h2>Across Europe, country by country</h2>
+  <figure class="article-image img-left">
+  <img src="/images/cucciolo-rosso.webp" alt="Red Staffordshire Bull Terrier puppy" loading="lazy" decoding="async" width="260" height="297">
+  <figcaption>Staffordshire Bull Terrier puppy</figcaption>
+  </figure>
   <p>In the <strong>United Kingdom</strong> the Dangerous Dogs Act 1991 prohibits four types: the Pit Bull Terrier, the Japanese Tosa, the Dogo Argentino and the Fila Brasileiro. The Staffordshire Bull Terrier is not among them and is one of the most popular breeds in the country. In <strong>Germany</strong> federal law restricts the import of some breeds, while the individual states keep their own lists, and in some of them the Staffordshire Bull Terrier is subject to requirements. In <strong>France</strong> dogs are classified in two categories, and a Staffordshire Bull Terrier with a French LOF pedigree falls into neither. In <strong>Ireland</strong> the breed is on the list of dogs that must be muzzled and kept on a short lead in public by a person over sixteen.</p>
 
   <h2>The situation elsewhere in Europe</h2>
@@ -74,6 +78,18 @@ custom_content: |
   <p>The Staffordshire Bull Terrier was selected for a specific and demanding combination: courage and tenacity towards other animals, and absolute reliability with people. Dogs that showed aggression towards humans were historically removed from breeding without discussion, because they were handled constantly and at close quarters.</p>
   <p>The result is a breed whose defining characteristic is affection for people, including strangers and, famously, children. The <a href="https://www.thekennelclub.org.uk/breed-standards/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="Kennel Club breed standard (opens in a new tab)">breed standard of the Kennel Club</a> describes it as bold, fearless and totally reliable, and it is one of very few standards to use the word reliable at all. This is why the breed carries the informal name of nanny dog, a nickname we treat with care: no dog of any breed should ever be left unsupervised with a small child, and affection is not a substitute for supervision.</p>
   <p>The honest counterpart is that tolerance towards other dogs is not guaranteed. A Staffordshire Bull Terrier that has not been well socialised, or that has been encouraged to react, can be difficult with dogs of the same sex after maturity. This is a management question and it is entirely foreseeable, which is precisely why it should be discussed before a puppy is chosen rather than after.</p>
+  <h2>The "nanny dog" myth: what it means and what it does not</h2>
+  <p>You have probably heard the Staffordshire Bull Terrier called a "nanny dog". The nickname was born in the twentieth century, when working-class English families noticed how patient and attached to the household these dogs were with children. It does not mean the breed was designed to look after children: it describes tolerance and attachment to the human family, which is what makes the breed well suited to family life.</p>
+
+  <figure class="article-image img-right">
+  <img src="/images/Lothar-e-Arianna.webp" alt="Lothar Del Piccolo Diavolo, Staffordshire Bull Terrier, with his handler" loading="lazy" decoding="async" width="260" height="325">
+  <figcaption>Lothar Mattheus Del Piccolo Diavolo</figcaption>
+  </figure>
+
+  <div class="alert">
+  <p class="alert-title">⚠️ Supervision is always necessary</p>
+  <p>Whatever the breed, <strong>no dog should ever be left alone with young children without an adult present</strong>. This applies to the Staffy exactly as it does to the Labrador, the Golden Retriever or any other breed.</p>
+  </div>
 
   <h2>Insurance, housing and everyday practicalities</h2>
   <p>Civil liability insurance is not compulsory in Italy for this breed, but we recommend it to every owner regardless of breed: policies are inexpensive and cover situations that have nothing to do with aggression, such as a dog causing a cyclist to fall.</p>
@@ -89,7 +105,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is the Staffordshire Bull Terrier a dangerous breed under Italian law?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">No. Italy has had no list of dangerous breeds since 2009, when the Ministry of Health ordinance abolished the list introduced in the preceding years, and the Staffordshire Bull Terrier was not on that list in any case. The principle that replaced it is that danger depends not on the breed but on the individual dog and on the person keeping it: civil and criminal liability always lies with the owner, whatever the dog. The rules therefore apply to everyone equally: a lead no longer than one and a half metres in public places, a muzzle carried and fitted on request of the authorities or when there is a risk, and the obligation to compensate for damage. Stricter local rules set by individual municipalities, and condominium rules, remain possible and must be checked case by case.
   </div>
@@ -98,7 +114,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What does the Royal Veterinary College study say?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">The VetCompass study by the Royal Veterinary College, published in 2020, analysed the 2016 clinical records of 1,304 Staffordshire Bull Terriers and 21,029 other dogs under primary veterinary care in the United Kingdom. The breed showed no significant difference in the odds of aggression compared with other dogs. It is research on real clinical data, not an opinion survey, and it is the kind of evidence almost always missing from the debate about so-called dangerous breeds. The same study also reports some health predispositions of the breed, among them seizures and skin conditions: a useful reminder that a breed is assessed as a whole, not on a single newspaper headline.
   </div>
@@ -107,7 +123,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What is the Lombardy "save list"?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">It is a list of 26 types of dog, the Staffordshire Bull Terrier among them, contained in a bill to Parliament that the Lombardy regional council approved on 24 June 2025. Anyone keeping one of those dogs would have to complete a theory course of at least ten hours and a practical one of at least six, with the ENCI's CAE-1 test. The point that matters to anyone choosing a breeder is that the approved text <strong>excludes dogs registered in the stud books</strong>: a Staffy with an ENCI pedigree would not fall under the obligations, while for non-pedigree dogs the bill prohibits breeding and rehoming. It remains a proposal: until Parliament passes it, it has no practical effect, and it is worth following its progress.
   </div>
@@ -115,8 +131,16 @@ custom_content: |
 
   <div class="faq-item active">
   <div class="faq-question">
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is the Staffy suitable for families with children?</h3>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">First, what applies to every breed: <strong>no dog should be left alone with a young child</strong>, and adult supervision is not optional. That said, the Staffordshire Bull Terrier is a dog built for <a href="/en/staffordshire-bull-terrier-character-family-life/" title="Character and family life">family life</a>: the breed standard describes it as reliable with people, and the English nickname "nanny dog" comes from the tolerance it shows towards children. But the nickname describes a temperament, it does not grant a capacity for supervision: no dog supervises a child. What makes the difference is the selection of the breeding dogs, the first eight weeks, and the rules the family sets at home: an area where the dog is not disturbed, short interactions, and an adult always present. At the Del Piccolo Diavolo kennel the <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies</a> grow up in the house and then in the yard, among people of different ages.</div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Do I need insurance for my Staffy?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">In Italy third-party liability insurance for dogs is not compulsory in general, but it becomes so in specific cases: for dogs placed on the register kept by the local health authorities after a biting incident, and under local or condominium rules that may require it. Beyond any obligation, it is worth having for a powerful dog like the Staffordshire Bull Terrier in any case: the owner is always liable for damage caused by their animal, even without direct fault, and a policy costs a few tens of euros a year. Many home insurance policies already include it, so check your own before taking out a new one.
   </div>
@@ -125,7 +149,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is the Staffordshire Bull Terrier banned in any country?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">In no major European country is the Staffordshire Bull Terrier banned as such, but the rules vary a great deal and should be checked before travelling or moving. In the United Kingdom, where the breed was born, it is entirely legal and one of the most common. Denmark bans thirteen breeds, including the American Staffordshire Terrier but not the Staffy. In some German states and in Ireland, on the other hand, there are requirements that concern the breed, ranging from a muzzle to prior authorisation, and elsewhere a dog may be checked because it resembles a restricted type. Anyone travelling with their dog should check the rules of the destination country and carry the pedigree, which is the document that certifies the breed.
   </div>
@@ -133,6 +157,21 @@ custom_content: |
 
   </div>
 
+  <div class="related-articles">
+  <h3>More on this topic</h3>
+  <ul>
+  <li><a href="/en/about-us/" title="About Us - Staffordshire Bull Terrier Breeder">About Us - Staffordshire Bull Terrier Breeder</a></li>
+  <li><a href="/en/staffy-bloodlines-guide/" title="Staffy bloodlines: the history of the six lines">Staffy bloodlines: the history of the six lines</a></li>
+  <li><a href="/en/males-staffordshire-bull-terrier/" title="Male Staffordshire Bull Terriers: pedigree and health tests">Male Staffordshire Bull Terriers: pedigree and health tests</a></li>
+  <li><a href="/en/females-staffordshire-bull-terrier/" title="Our female Staffies: microchips and pedigrees">Our female Staffies: microchips and pedigrees</a></li>
+  <li><a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Puppies, verifiable genetic tests">Staffordshire Bull Terrier Puppies, verifiable genetic tests</a></li>
+  <li><a href="/en/contact/" title="Contact – Staffordshire Bull Terrier Breeder">Contact – Staffordshire Bull Terrier Breeder</a></li>
+  <li><a href="/en/faq-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier FAQ - Frequently Asked Questions">Staffordshire Bull Terrier FAQ - Frequently Asked Questions</a></li>
+  <li><a href="/en/reviews/" title="Staffordshire Bull Terrier reviews from our families">Staffordshire Bull Terrier reviews from our families</a></li>
+  <li><a href="/en/staffordshire-bull-terrier-character-family-life/" title="Staffordshire Bull Terrier: character and family life">Staffordshire Bull Terrier: character and family life</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   </div>

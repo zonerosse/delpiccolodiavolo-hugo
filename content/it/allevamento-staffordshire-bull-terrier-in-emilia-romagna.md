@@ -40,7 +40,7 @@ custom_content: |
   <div class="intro-block" style="max-width:800px;text-align:left">
   <p>L'allevamento Del Piccolo Diavolo si trova a Ostellato, in provincia di Ferrara, in Emilia-Romagna, e riceve esclusivamente su appuntamento. La visita serve a vedere i cani adulti, la madre della cucciolata e il posto dove i cuccioli crescono, e a controllare di persona pedigree e referti dei test genetici. Ostellato &egrave; raggiungibile in circa un'ora da Bologna e da Ravenna, in due da Verona e Padova, in tre da Milano e Firenze. I cuccioli non vengono spediti con corrieri n&eacute; consegnati a met&agrave; strada: chi ne prende uno viene qui. Per chi scrive dall'estero in inglese, tedesco o spagnolo c'&egrave; un secondo recapito telefonico dedicato.</p>
 
-  <p>Del Piccolo Diavolo è uno dei pochi allevamenti di <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">Staffordshire Bull Terrier</a> in Emilia-Romagna con un programma di selezione strutturato e documentato. Attivo dal 2013 a Ostellato, in provincia di Ferrara, lavoriamo esclusivamente con linee di sangue inglesi (Elitebull) e irlandesi (Lackyle), scelte per tipicità, salute e carattere.</p>
+  <p>Del Piccolo Diavolo è uno dei pochi <a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamenti di Staffordshire Bull Terrier</a> in Emilia-Romagna con un programma di selezione strutturato e documentato. Attivo dal 2013 a Ostellato, in provincia di Ferrara, lavoriamo esclusivamente con linee di sangue inglesi (Elitebull) e irlandesi (Lackyle), scelte per tipicità, salute e carattere.</p>
   <p>Dal 2013 abbiamo prodotto 1 Campione Italiano, 3 Giovani Campioni Italiani e un 4° posto al World Dog Show e decine di soggetti inseriti con successo in famiglie di tutta Italia. Ogni riproduttore è testato per L2HGA e HC, e le fattrici anche per la mielopatia degenerativa (DM-SOD1): le tre principali patologie ereditarie della razza con un test del DNA.</p>
   <p>Non siamo un allevamento commerciale: produciamo 1-2 cucciolate all'anno, seguite con attenzione dalla nascita all'affido. Chi sceglie Del Piccolo Diavolo non compra un cane: entra in una relazione che dura per tutta la vita dell'animale.</p>
   <p>Per conoscere nel dettaglio il nostro metodo di lavoro, visita la pagina <a href="/chi-siamo/" title="Chi siamo - Allevamento Del Piccolo Diavolo">chi siamo</a>.</p>
@@ -55,21 +55,21 @@ custom_content: |
 
   <div class="contact-grid">
   <div class="contact-item">
-  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>
+  <svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>
   <h3>WhatsApp</h3>
   <p>Il modo più rapido</p>
   <a href="https://wa.me/393924635584" target="_blank" rel="noopener" title="Scrivici su WhatsApp" aria-label="Scrivici su WhatsApp al +39 392 463 5584 (si apre in una nuova scheda)">+39 392 463 5584</a>
   </div>
 
   <div class="contact-item">
-  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+  <svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
   <h3>Telefono</h3>
   <p>Chiamaci direttamente</p>
   <a href="tel:+393924635584" title="Chiamaci" aria-label="Chiamaci al +39 392 463 5584">+39 392 463 5584</a>
   </div>
 
   <div class="contact-item">
-  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+  <svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
   <h3>Email</h3>
   <p>Per richieste dettagliate</p>
   <a href="mailto:zonerosse@gmail.com" title="Scrivici via email">zonerosse@gmail.com</a>

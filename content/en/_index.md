@@ -2,9 +2,9 @@
 title: "Staffordshire Bull Terrier Kennel"
 titleSeo: "Staffordshire Bull Terrier Breeder in Italy"
 date: 2025-12-28
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "home"
-description: "Ethical Staffordshire Bull Terrier kennel since 2013. ENCI pedigree, genetic test reports and breeding stock microchips published online and verifiable."
+description: "Ethical Staffordshire Bull Terrier breeder since 2013. ENCI pedigree, genetic test reports and breeding stock microchips published online and verifiable."
 correlati:
   - url: "/en/puppies-staffordshire-bull-terrier/"
     titolo: "Puppies"
@@ -26,7 +26,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow"><a href="/en/reviews/" title="Read the reviews" style="color:inherit;text-decoration:none">⭐ <!--REC-VOTO--> on <!--REC-TOTALE--> reviews →</a></span>
-  <h1 class="hero-title">Staffordshire <br><em>Bull Terrier</em> <br>Kennel</h1>
+  <h1 class="hero-title">Staffordshire <br><em>Bull Terrier</em> <br>Breeder</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo - Selection, health and character</p>
   <p class="hero-description">In Ostellato (Ferrara, Italy) since 2013. Breeding stock tested for L2HGA and HC (HSF4), the brood bitches also for DM-SOD1, with the reports published and the microchip numbers in plain sight. 1 Italian Champion, 3 Italian Junior Champions, 4th at the World Dog Show.</p>
   <div class="hero-actions">
@@ -95,7 +95,7 @@ custom_content: |
 
   <p>Sometimes a kennel is easier to understand from what it does not do.</p>
 
-  <p>The Del Piccolo Diavolo kennel, in Ostellato in the province of Ferrara, Italy, does not have Staffordshire Bull Terrier puppies available all year round: one litter is born a year, occasionally two, in some years none. It does not ship dogs by courier or in an aircraft hold, and does not hand them over halfway: whoever takes a puppy comes to Ostellato and sees the mother and the place where it grew up. Every puppy leaves with the ENCI pedigree certificate, which is not an extra and is not charged separately, after the 60 days required by Italian law. The breeding stock is tested for L2HGA and HC (HSF4 gene), the active brood bitches also for degenerative myelopathy (SOD1 gene), and the laboratory reports &mdash; with the dog's microchip number on them &mdash; are published on the site and can be downloaded without asking.</p>
+  <p>The Del Piccolo Diavolo kennel, in Ostellato in the province of Ferrara, Italy, does not have <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies</a> available all year round: one litter is born a year, occasionally two, in some years none. It does not ship dogs by courier or in an aircraft hold, and does not hand them over halfway: whoever takes a puppy comes to Ostellato and sees the mother and the place where it grew up. Every puppy leaves with the ENCI pedigree certificate, which is not an extra and is not charged separately, after the 60 days required by Italian law. The breeding stock is tested for L2HGA and HC (HSF4 gene), the active brood bitches also for degenerative myelopathy (SOD1 gene), and the laboratory reports &mdash; with the dog's microchip number on them &mdash; are published on the site and can be downloaded without asking.</p>
 
   <p><strong>We do not have puppies all year round.</strong> One litter, occasionally two, sometimes none. If you write to us at a time when there are none, the answer is that there are none: we do not offer you an acquaintance's puppy and we do not rush you towards a future litter.</p>
 
@@ -283,7 +283,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question" >
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How much does a Staffordshire Bull Terrier with ENCI pedigree cost?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">There is no price list: what you pay reflects costs that exist before the puppies are born. The genetic tests of the breeding stock for L2HGA and HC, the registration of the litter in the ENCI studbook at public rates, the veterinary visits during pregnancy, the ultrasound and the X-ray before whelping, the first vaccinations, the worming and the microchip. <strong>A very low price almost always means something is missing</strong>: the tests, the pedigree, or puppies separated from their mother before the 60 days required by Italian law. Every puppy leaves with vaccinations, microchip, worming, the certificates of the parents' tests and the Del Piccolo Diavolo kennel's support for the whole of the dog's life.</div>
   </div>
@@ -291,7 +291,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question" >
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What genetic tests do you do on the breeding stock?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">All Del Piccolo Diavolo breeding dogs are tested for <strong>L2-HGA</strong>, L-2-hydroxyglutaric aciduria, a neurological disease, and for <strong>HC</strong>, juvenile hereditary cataract (HSF4 gene). The active brood bitches are also tested for <strong>degenerative myelopathy</strong> (SOD1 gene), a disease of the spinal cord that appears after eight years of age. They are all DNA tests, and all three diseases are recessive: two clear parents cannot produce affected puppies. Carriers of L2-HGA and HC are not bred. The laboratory reports are published on this site and can be downloaded, with the <strong>dog's microchip number in plain sight</strong>: that number is what makes the document verifiable, because without it it could not be linked to any particular animal.</div>
   </div>

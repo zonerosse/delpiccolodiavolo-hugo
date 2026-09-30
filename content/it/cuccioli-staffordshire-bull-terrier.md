@@ -244,7 +244,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quando posso portare a casa il cucciolo?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Non prima dei <strong>60 giorni</strong>, che &egrave; un obbligo di legge in Italia e non una scelta dell'allevatore: prima di quell'et&agrave; il cucciolo ha ancora bisogno della madre e dei fratelli per imparare a modulare il morso e a leggere i segnali degli altri cani. Nella pratica, all'allevamento Del Piccolo Diavolo partono fra i 60 e i 70 giorni, quando hanno fatto la prima vaccinazione, il microchip e almeno una sverminazione. Per l'estero i tempi si allungano parecchio: serve l'antirabbica, che non si pu&ograve; fare prima delle dodici settimane, e dopo la somministrazione vanno attesi altri ventun giorni perch&eacute; sia valida. Chi promette un cucciolo a quarantacinque giorni o non conosce le regole o le sta violando.</div>
   </div>
@@ -252,7 +252,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Cosa c'è dietro un cucciolo con pedigree ENCI?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Il certificato genealogico ENCI non &egrave; un accessorio a pagamento: &egrave; il documento che collega quel cucciolo ai suoi genitori, nonni e bisnonni, e che rende verificabile tutto il resto. Senza pedigree non si pu&ograve; risalire a chi sono davvero i riproduttori, n&eacute; controllare i test genetici, n&eacute; consultare quante cucciolate ha fatto la madre. Dietro ci sono l'iscrizione della cucciolata al libro genealogico, con tariffe pubbliche uguali per tutti, la denuncia di monta e i controlli previsti. <strong>Non esiste un cucciolo con o senza pedigree</strong>: o l'accoppiamento &egrave; regolarmente registrato, e allora il certificato c'&egrave; per tutti i cuccioli, oppure non lo &egrave;, e allora manca per tutti.</div>
   </div>
@@ -260,7 +260,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quanto costa un cucciolo Staffordshire Bull Terrier?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Non esiste un listino, e quello che si paga riflette costi che esistono prima che il cucciolo nasca. I test genetici dei due riproduttori per L2HGA e HC si pagano una volta per cane e valgono per tutta la carriera riproduttiva. L'iscrizione della cucciolata al libro genealogico ENCI ha tariffe pubbliche. A queste si aggiungono le visite veterinarie durante la gravidanza, l'ecografia al venticinquesimo giorno, la radiografia prima del parto, le prime vaccinazioni, le sverminazioni e il microchip. <strong>Un prezzo molto basso quasi sempre significa che manca qualcosa</strong>: i test, il pedigree, o cuccioli separati dalla madre prima dei 60 giorni previsti dalla legge.</div>
   </div>
@@ -268,7 +268,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Posso visitare l'allevamento prima di decidere?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">S&igrave;, ed &egrave; il modo giusto di conoscerci. L'allevamento Del Piccolo Diavolo riceve su appuntamento a Ostellato, in provincia di Ferrara, cos&igrave; da dedicare tutto il tempo necessario senza stressare i cani. Durante la visita si vedono i cani adulti e la madre della cucciolata, il posto dove i cuccioli nascono e crescono, e si controllano di persona pedigree e referti dei test. &Egrave; anche l'occasione in cui facciamo noi qualche domanda: quante ore rester&agrave; solo il cane, chi c'&egrave; in casa, cosa succede d'estate. Non &egrave; un interrogatorio, &egrave; il modo per capire se quel cucciolo e quella famiglia stanno bene insieme. <strong>Chi prende un nostro cucciolo viene comunque qui</strong>: non spediamo cani.</div>
   </div>

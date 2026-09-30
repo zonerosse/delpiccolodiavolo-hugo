@@ -2,7 +2,7 @@
 title: "Male Staffordshire Bull Terriers"
 titleSeo: "Male Staffordshire Bull Terriers: pedigree and health tests"
 date: 2025-12-28
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 tipoPagina: "CollectionPage"
 translationKey: "maschi"
 description: "Our male Staffordshire Bull Terriers: Lothar (Slovenian and Italian Junior Champion), Braveheart and Papillon. L2HGA and HC (HSF4) certified genetic testing."
@@ -51,6 +51,8 @@ custom_content: |
   <h2 class="section-title">Ethics, Health and Responsible Selection</h2>
   
   <div class="intro-block">
+  <p>Del Piccolo Diavolo does not keep stud dogs of its own, and that is a choice. For every mating the stud is sought outside the kennel, among English Elitebull and Irish Lackyle lines, and chosen to correct what the female lacks: if a bitch has an excellent head and movement that could be better, what she needs is a male who is sound on movement, not one as handsome as she is. Keeping a male at home would mean using him because he is there, and closing the lines on a single dog. Before a mating we ask the owner for the genetic test reports with the microchip number on them, not promises: if a male is tested for some conditions and not for all, we know it beforehand and we write it on that litter's page.</p>
+
   <p>In our kennel, <strong>genetic health</strong> comes first. Every stud dog undergoes complete screening before entering the program.</p>
   <p style="margin-top:1rem">A stud dog weighs far more on the future of a line than a bitch does: a female produces 2 or 3 litters in her lifetime, a male can father dozens of puppies. That is why the bar for admission is higher, not lower.</p>
   <p style="margin-top:1rem">We look at three things, in this order. <strong>Temperament</strong>: an insecure or reactive dog does not enter the programme, however correct its conformation, because a temperament fault propagates for generations and shows itself in family homes, not in the ring. <strong>Breathing</strong>: a dog that struggles after a few minutes of trotting, or suffers in the first warm weather, has a welfare problem regardless of how many titles sit in its pedigree. And <strong>type without exaggeration</strong>: a correct head and solid bone, but never at the expense of function.</p>

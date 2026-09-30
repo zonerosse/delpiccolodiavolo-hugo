@@ -2,7 +2,7 @@
 title: "Welpen: Erste Fütterung"
 date: 2025-04-15
 titleSeo: "Ernährung des Welpen in den ersten Monaten"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -46,7 +46,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Ein Staffordshire Bull Terrier Welpe sollte mindestens in der ersten Woche zu Hause genau das Futter bekommen, das er in der Zucht gefressen hat. Jede spätere Umstellung erfolgt über 7 bis 10 Tage, mit einem Viertel, dann der Hälfte, dann drei Vierteln des neuen Futters, und bei weicherem Kot geht man einen Schritt zurück. Bis 6 Monate bekommt der Welpe drei Mahlzeiten am Tag zu festen Zeiten, danach zwei, und dabei bleibt es das ganze Leben: eine einzige große Mahlzeit ist bei einer Rasse mit tiefem Brustkorb ein Risikofaktor für die Magendrehung. Die Menge richtet sich nach dem Körperzustand, nicht nach der Tabelle auf dem Sack, angepasst um jeweils 10 Prozent. Leckerli bleiben unter 10 Prozent der Tagesration. Durchfall über 24 Stunden oder mit Blut gehört noch am selben Tag zum Tierarzt. Ein Ratgeber der Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet.</p>
+  <p>Ein Staffordshire Bull Terrier Welpe sollte mindestens in der ersten Woche zu Hause genau das Futter bekommen, das er in der Zucht gefressen hat. Jede spätere Umstellung erfolgt über 7 bis 10 Tage, mit einem Viertel, dann der Hälfte, dann drei Vierteln des neuen Futters, und bei weicherem Kot geht man einen Schritt zurück. Bis 6 Monate bekommt der Welpe drei Mahlzeiten am Tag zu festen Zeiten, danach zwei, und dabei bleibt es das ganze Leben: eine einzige große Mahlzeit ist bei einer Rasse mit tiefem Brustkorb ein Risikofaktor für die Magendrehung. Die Menge richtet sich nach dem Körperzustand, nicht nach der Tabelle auf dem Sack, angepasst um jeweils 10 Prozent. Leckerli bleiben unter 10 Prozent der Tagesration. Durchfall über 24 Stunden oder mit Blut gehört noch am selben Tag zum Tierarzt. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
   
   
@@ -80,6 +80,25 @@ custom_content: |
   <p>Ein übergewichtiger Welpe ist kein gesunder Welpe, und bei dieser Rasse verschwindet der Überschuss leicht unter der Muskulatur. Wachsende Gelenke tragen die Last ein Jahr lang, und der Schaden aus dieser Zeit bildet sich nicht zurück.</p>
   <p>Wiegen Sie den Welpen wöchentlich auf derselben Waage und notieren Sie es. Ziel ist gleichmäßiges, maßvolles Wachstum; schnelles Wachstum ist kein Erfolg. Lassen Sie im Zweifel bei jedem Impftermin den Ernährungszustand beurteilen — das dauert 10 Sekunden und nützt mehr als jede Tabelle.</p>
 
+  <div class="related-articles">
+  <h3>Verwandte Artikel</h3>
+  <ul>
+  <li><a href="/de/welpen-sozialisierung-zuhause/" title="Welpen zu Hause sozialisieren: die Liste für die Familie">Welpen zu Hause sozialisieren: die Liste für die Familie</a></li>
+  <li><a href="/de/welpen-erste-impfungen/" title="Erste Impfungen des Welpen: Plan und Auffrischung">Erste Impfungen des Welpen: Plan und Auffrischung</a></li>
+  <li><a href="/de/welpen-stubenreinheit/" title="Welpen stubenrein machen: Methode und Zeitrahmen">Welpen stubenrein machen: Methode und Zeitrahmen</a></li>
+  <li><a href="/de/staffy-parasitenvorbeugung/" title="Parasitenvorbeugung für Staffordshire Bull Terrier">Parasitenvorbeugung für Staffordshire Bull Terrier</a></li>
+  </ul>
+  </div>
+  
+  <div class="related-articles">
+  <h3>Mehr zum Thema</h3>
+  <ul>
+  <li><a href="/de/welpen-denkspiele/" title="Denkspiele für Staffordshire Bull Terrier Welpen">Denkspiele für Staffordshire Bull Terrier Welpen</a></li>
+  <li><a href="/de/welpen-entwurmung-kotuntersuchung/" title="Entwurmung der Welpen: Plan und Kotuntersuchung">Entwurmung der Welpen: Plan und Kotuntersuchung</a></li>
+  <li><a href="/de/staffy-sichere-bewegung/" title="Sichere Bewegung für Staffordshire Bull Terrier">Sichere Bewegung für Staffordshire Bull Terrier</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   

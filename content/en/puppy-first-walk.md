@@ -2,7 +2,7 @@
 title: "Puppies: First Walk"
 date: 2025-09-17
 titleSeo: "A puppy's first walk: when to start and how"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "passeggiata"
 articolo: true
 image: "/images/blog/cuccioli-5.webp"
@@ -85,6 +85,23 @@ custom_content: |
   <p><strong>Can my puppy meet other dogs in the street?</strong> Only calm, healthy, vaccinated adults whose owners you can ask first. An uncontrolled encounter with a reactive dog at 4 months can set a puppy back for a year.</p>
   <p><strong>When can we go for proper walks?</strong> Build gradually and expect full-length walks from around 18 months, when the growth plates have closed. Until then, patience is an investment in the dog's joints.</p>
 
+  <div class="related-articles">
+  <h3>Related articles</h3>
+  <ul>
+  <li><a href="/en/puppy-home-socialization/" title="Socialising the puppy at home: the family checklist">Socialising the puppy at home: the family checklist</a></li>
+  <li><a href="/en/puppy-potty-training/" title="Puppy potty training: method, timing and setbacks">Puppy potty training: method, timing and setbacks</a></li>
+  <li><a href="/en/puppy-mental-games/" title="Mental games for Staffordshire Bull Terrier puppies">Mental games for Staffordshire Bull Terrier puppies</a></li>
+  <li><a href="/en/puppy-first-vaccinations/" title="Puppy first vaccinations: schedule and boosters">Puppy first vaccinations: schedule and boosters</a></li>
+  </ul>
+  </div>
+  
+  <div class="related-articles">
+  <h3>More on this topic</h3>
+  <ul>
+  <li><a href="/en/staffy-safe-exercise/" title="Safe Exercise for Staffordshire Bull Terrier">Safe Exercise for Staffordshire Bull Terrier</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   

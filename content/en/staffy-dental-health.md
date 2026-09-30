@@ -1,7 +1,7 @@
 ---
 title: "Dental Health and Oral Hygiene for Staffordshire Bull Terrier"
 date: 2024-06-18
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 titleSeo: "Dental health for the Staffordshire Bull Terrier"
 translationKey: "denti"
 articolo: true
@@ -45,7 +45,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Dental disease is the most commonly diagnosed condition in dogs, and the Staffordshire Bull Terrier needs particular care for a structural reason: forty-two teeth in a comparatively short jaw, crowded enough that plaque collects where the tongue cannot reach. Plaque hardens into tartar within about three days, which is why brushing is the only measure that genuinely works: daily is ideal, three times a week the realistic minimum, thirty seconds a side. Introduce it gradually from puppyhood; by seven months no milk teeth should remain. The breed's powerful jaw makes very hard chews dangerous: if you cannot dent it with a fingernail, it does not belong in the dog's mouth. A dog brushed regularly may need a professional clean every two or three years; one that has never been brushed may need it every year from middle age. A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>Dental disease is the most commonly diagnosed condition in dogs, and the Staffordshire Bull Terrier needs particular care for a structural reason: forty-two teeth in a comparatively short jaw, crowded enough that plaque collects where the tongue cannot reach. Plaque hardens into tartar within about three days, which is why brushing is the only measure that genuinely works: daily is ideal, three times a week the realistic minimum, thirty seconds a side. Introduce it gradually from puppyhood; by seven months no milk teeth should remain. The breed's powerful jaw makes very hard chews dangerous: if you cannot dent it with a fingernail, it does not belong in the dog's mouth. A dog brushed regularly may need a professional clean every two or three years; one that has never been brushed may need it every year from middle age. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
   
   
@@ -102,7 +102,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">At what age should I start brushing a puppy's teeth?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">As soon as it arrives home, at around two months, but not to clean: to get it used to it. At that stage the teeth are still milk teeth and will fall out anyway, so the only goal is that the puppy lets you touch its mouth without stiffening. Start with a finger, then a finger with a little veterinary toothpaste, then the brush, a few seconds at a time and always ending with a reward. A dog accustomed as a puppy has its teeth brushed in two minutes for the rest of its life; one that starts at three years has to be held by two people, and in the end people give up. Human toothpaste must never be used: it contains xylitol or fluoride, both toxic to dogs, and there are flavoured veterinary pastes that dogs eat happily.
   </div>
@@ -111,7 +111,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How often should I brush my Staffy's teeth?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Every day is ideal; the realistic minimum is <strong>three times a week</strong>: below that threshold plaque has time to mineralise into tartar, and at that point the brush is no longer enough. Two minutes done often beat ten minutes done now and then. It helps to fix it at the same time each day, such as after the evening walk, because consistency depends on the habit of the person holding the brush, not the dog. The Staffordshire Bull Terrier has a broad jaw, which helps, but it also has a powerful bite that wears the incisors: it is worth checking wear from time to time, not only plaque.
   </div>
@@ -120,7 +120,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Which dental chews are safe for a Staffy?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Products carrying the VOHC seal, from the American Veterinary Oral Health Council, are the ones with proven effect, and the logo is on the pack. What is best avoided is the whole category of objects that are too hard: <strong>antlers, real bones, hooves</strong>. The Staffy has a considerable bite force for its size, and a fracture of the upper fourth premolar is one of the most common diagnoses in dogs that chew rigid objects. The practical rule is the fingernail: if pressing with your nail does not dent the object at all, it is too hard. Dental chews also count as calories, and in a breed that puts on weight easily they come out of the daily ration rather than being added to it.
   </div>
@@ -129,7 +129,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">When is a professional clean needed?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">When tartar is visible and firmly attached, when the gums are red or bleed, or when the breath is strong despite daily care. Typically that means once every one to three years, but it varies a great deal from dog to dog, and the decision is made by the vet looking at the mouth, not by age. A professional clean is done under <strong>general anaesthesia</strong>, because the part that matters, below the gum line, cannot be reached on an awake dog. That is why the so-called anaesthesia-free cleans offered outside veterinary clinics are best avoided: they remove the visible tartar, leave what is under the gum and give the false impression that all is well. Blood tests are done before anaesthesia, especially in older dogs.
   </div>
@@ -138,7 +138,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What should I do if my Staffy has strong bad breath?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Bad breath is not a trait of the breed: it is a symptom, and in most cases it points to plaque, tartar or gingivitis. The first step is to look in the mouth with a torch, checking the gum margin of the upper premolars, where tartar builds first. If the gums are red or bleed when touched, see the vet. But persistent bad breath in a dog with clean teeth has to be investigated elsewhere: it can signal gastrointestinal, kidney or metabolic problems, and then the breath often has a particular smell, sweetish or like ammonia. A sudden change of breath in an adult dog is a good reason for a visit, not a nuisance to mask with a chew.
   </div>
@@ -147,7 +147,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">My puppy's milk teeth are not falling out. Is that normal?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">No, and it should not be left. The change of teeth runs from four to seven months, and by then all the milk teeth should have gone. When a milk tooth stays beside the permanent one, which happens above all with the <strong>canines</strong>, it creates a narrow gap where food and plaque collect, encouraging malocclusion and early periodontal disease. The solution is extraction, often done at the same time as neutering or another planned anaesthetic, so as not to put the dog under twice. It is worth checking the puppy's mouth once a week in that period: if at seven months you see two canines side by side, it is time to talk to the vet.
   </div>
@@ -155,6 +155,16 @@ custom_content: |
 
   </div>
 
+  <div class="related-articles">
+  <h3>More on this topic</h3>
+  <ul>
+  <li><a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)">Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)</a></li>
+  <li><a href="/en/staffy-parasite-prevention/" title="Parasite Prevention for Staffordshire Bull Terrier">Parasite Prevention for Staffordshire Bull Terrier</a></li>
+  <li><a href="/en/puppy-initial-feeding/" title="Feeding a Staffordshire Bull Terrier puppy: first months">Feeding a Staffordshire Bull Terrier puppy: first months</a></li>
+  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious Staffy breeder">How to recognise a serious Staffy breeder</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   </div>

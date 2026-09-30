@@ -2,7 +2,7 @@
 title: "Welpen: Erste Impfungen"
 date: 2025-06-10
 titleSeo: "Erste Impfungen des Welpen: Plan und Auffrischung"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/salute.webp"
@@ -39,7 +39,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Ein Staffordshire Bull Terrier Welpe erhält die erste Impfung mit 6 bis 8 Wochen, noch in der Zucht, gegen Staupe, Hepatitis und Parvovirose. Die zweite folgt mit 10 bis 12 Wochen, meist zusammen mit Leptospirose, und die dritte mit 14 bis 16 Wochen schließt die Grundimmunisierung ab; eine erste Auffrischung gibt es mit 12 Monaten. Der Schutz baut sich in ein bis zwei Wochen nach der letzten Spritze auf, voll geschützt ist der Welpe also mit etwa 16 bis 18 Wochen. Die Impfungen liegen so dicht, weil mütterliche Antikörper den Welpen anfangs schützen, den Impfstoff aber stören, und wann sie verschwinden, ist von Welpe zu Welpe verschieden. Die Tollwutimpfung ist ab 12 Wochen möglich und gilt für Reisen erst 21 Tage später. Bis zum Abschluss meidet man Orte mit hohem Risiko, aber nicht die Sozialisierung. Ein Ratgeber der Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet.</p>
+  <p>Ein Staffordshire Bull Terrier Welpe erhält die erste Impfung mit 6 bis 8 Wochen, noch in der Zucht, gegen Staupe, Hepatitis und Parvovirose. Die zweite folgt mit 10 bis 12 Wochen, meist zusammen mit Leptospirose, und die dritte mit 14 bis 16 Wochen schließt die Grundimmunisierung ab; eine erste Auffrischung gibt es mit 12 Monaten. Der Schutz baut sich in ein bis zwei Wochen nach der letzten Spritze auf, voll geschützt ist der Welpe also mit etwa 16 bis 18 Wochen. Die Impfungen liegen so dicht, weil mütterliche Antikörper den Welpen anfangs schützen, den Impfstoff aber stören, und wann sie verschwinden, ist von Welpe zu Welpe verschieden. Die Tollwutimpfung ist ab 12 Wochen möglich und gilt für Reisen erst 21 Tage später. Bis zum Abschluss meidet man Orte mit hohem Risiko, aber nicht die Sozialisierung. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
   
   
@@ -77,6 +77,24 @@ custom_content: |
   <p>Jede Injektion muss mit Datum, Präparatename, Chargennummer und Praxisstempel eingetragen sein. Bewahren Sie das Heft sicher auf: es wird für Pension, Reisen, Ausstellungen und jede spätere Behandlung gebraucht, und es lässt sich nachträglich nicht rekonstruieren.</p>
   <p>Bei einem Welpen von uns sind die erste Impfung und der Entwurmungsplan bereits eingetragen, und wir gehen die verbleibenden Termine vor der Abgabe gemeinsam durch.</p>
 
+  <div class="related-articles">
+  <h3>Verwandte Artikel</h3>
+  <ul>
+  <li><a href="/de/welpen-sozialisierung-zuhause/" title="Welpen zu Hause sozialisieren: die Liste für die Familie">Welpen zu Hause sozialisieren: die Liste für die Familie</a></li>
+  <li><a href="/de/welpen-erste-fuetterung/" title="Ernährung des Welpen in den ersten Monaten">Ernährung des Welpen in den ersten Monaten</a></li>
+  <li><a href="/de/staffy-parasitenvorbeugung/" title="Parasitenvorbeugung für Staffordshire Bull Terrier">Parasitenvorbeugung für Staffordshire Bull Terrier</a></li>
+  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Seriöse Staffordshire Bull Terrier Zucht erkennen">Seriöse Staffordshire Bull Terrier Zucht erkennen</a></li>
+  </ul>
+  </div>
+  
+  <div class="related-articles">
+  <h3>Mehr zum Thema</h3>
+  <ul>
+  <li><a href="/de/staffordshire-bull-terrier-welpe-ins-ausland/" title="Staffordshire Bull Terrier Welpe ins Ausland: so läuft es ab">Staffordshire Bull Terrier Welpe ins Ausland: so läuft es ab</a></li>
+  <li><a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das wirklich heißt">Sozialisierte Welpen: was das wirklich heißt</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>

@@ -2,7 +2,7 @@
 title: "How to Choose Staffy Bloodlines"
 date: 2025-03-05
 titleSeo: "Choosing Staffordshire Bull Terrier bloodlines"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "scelta-linee"
 articolo: true
 image: "/images/blog/standard-2.webp"
@@ -86,7 +86,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What are bloodlines in the Staffordshire Bull Terrier?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">A bloodline is the group of dogs descending from a common stock that, generation after generation, have kept recognisable traits of type, structure and character. It is not an official category: the ENCI pedigree does not state which line a dog belongs to. It is read from the names that appear in the pedigree and the kennels that produced them, which is why anyone who selects looks at the family tree and not only at the dog in front of them. <strong>A line tells you what to expect</strong>: it guarantees nothing about the individual puppy, but it shows what that selection has consistently worked on. On SBTPedigree you can go back many generations and also see what a dog has produced; how to read those pages, and what the ENCI certificate leaves out, is in <a href="/en/how-to-read-a-pedigree/" title="How to read a pedigree">how to read a pedigree</a>.
   </div>
@@ -95,7 +95,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Which are the main Staffy bloodlines?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Internationally, the names that recur most often are those of a few historic British and Irish kennels that shaped the breed: their dogs now appear in pedigrees across half of Europe, even several generations back. The Del Piccolo Diavolo kennel works with <strong>Elitebull</strong>, English, and <strong>Lackyle</strong>, Irish. They are not two alternatives: Lackyle came first, and its historic dogs are found in Elitebull pedigrees, so the second line contains the first. The choice is not a matter of taste: these are documented lines, verifiable on SBTPedigree, that breed predictably, which is what you need when a mating is planned rather than hoped for.
   </div>
@@ -104,7 +104,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How do you read a pedigree properly?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">You need two different tools. The <strong>ENCI certificate</strong> is the official document: it certifies parents, grandparents and great-grandparents and records the registered titles and filed examinations. But it shows neither the genetic tests nor a single photograph of the dogs, and without seeing them you are working with names. <strong>SBTPedigree</strong> adds what is missing: photographs of the ancestors generation by generation, uploaded tests, foreign titles and, above all, the offspring, what that dog has produced. A pedigree is read by going back and asking two things: which names repeat on both sides, and what they left behind. The test-mating function calculates a litter's theoretical coefficient of inbreeding and shows which ancestors it concentrates on.
   </div>
@@ -113,7 +113,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What should I ask a breeder about bloodlines?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Four questions, all of them verifiable. <strong>Why did you choose this male for this female?</strong> If the answer is that they are two beautiful dogs, there is no programme behind it; if it is that the female's movement could be better and the male is strong on that, there is. <strong>What is this litter's coefficient of inbreeding, and over how many generations?</strong> Anyone who quotes it without the generations is telling you half the story. <strong>Which ancestors does it concentrate on?</strong> Knowing how much you tighten is not enough; you need to know on whom. And finally: <strong>can I see the test reports with the microchip numbers?</strong> The first three separate those who plan from those who simply mate; the last separates those who document from those who tell stories.
   </div>
@@ -121,6 +121,16 @@ custom_content: |
 
   </div>
 
+  <div class="related-articles">
+  <h3>More on this topic</h3>
+  <ul>
+  <li><a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)">Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)</a></li>
+  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious Staffy breeder">How to recognise a serious Staffy breeder</a></li>
+  <li><a href="/en/staffy-breed-standard/" title="Staffordshire Bull Terrier breed standard explained">Staffordshire Bull Terrier breed standard explained</a></li>
+  <li><a href="/en/staffy-pitbull-amstaff-difference/" title="Staffordshire Bull Terrier, Pitbull and Amstaff compared">Staffordshire Bull Terrier, Pitbull and Amstaff compared</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   </div>

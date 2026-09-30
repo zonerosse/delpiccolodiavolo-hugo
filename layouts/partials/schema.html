@@ -14,6 +14,10 @@
 {{ $currentURL := .Permalink }}
 
 {{ $faqsrc := .Params.custom_content | default .Content }}
+{{/* Le sezioni di invito finale ("Vuoi saperne di piu'?", "Hai altre
+     domande?") hanno titoli con il punto di domanda ma non sono FAQ:
+     si tolgono prima di cercare le coppie domanda-risposta. */}}
+{{ $faqsrc = replaceRE `(?s)<section class="(?:cta-section|dark-section)[^"]*">.*?</section>` "" $faqsrc }}
 {{ $coppie := slice }}
 {{ $viste := slice }}
 

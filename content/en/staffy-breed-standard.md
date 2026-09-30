@@ -2,7 +2,7 @@
 title: "Staffy Breed Standard"
 date: 2025-02-12
 titleSeo: "Staffordshire Bull Terrier breed standard explained"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "standard"
 articolo: true
 image: "/images/blog/standard-1.webp"
@@ -27,7 +27,7 @@ custom_content: |
   </nav>
   <div class="article-container"><article class="article-content">
   
-  <p>A Staffordshire Bull Terrier is typey when head, proportions, chest, bone, muscle and movement are in balance with each other and with the temperament described by FCI standard no. 76. The standard is a functional description of a smooth-coated, close-coupled terrier of great strength for its size, agile enough to turn on itself and sound enough to work all day. The head is short, with a deep, broad skull, a distinct stop and a short foreface, strong jaws and a scissor bite; the eyes are round and preferably dark, the ears rose or half-pricked. Movement should be free, powerful and agile, with discernible drive from the hindlegs. Type is not the exaggeration of a single point: an overdone head or too short a muzzle costs <a href="/en/boas-staffordshire-bull-terrier-breathing/" title="BOAS and breathing in the Staffordshire Bull Terrier">breathing and heat tolerance</a>, and a judge assesses the whole dog, not one feature. A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>A Staffordshire Bull Terrier is typey when head, proportions, chest, bone, muscle and movement are in balance with each other and with the temperament described by FCI standard no. 76. The standard is a functional description of a smooth-coated, close-coupled terrier of great strength for its size, agile enough to turn on itself and sound enough to work all day. The head is short, with a deep, broad skull, a distinct stop and a short foreface, strong jaws and a scissor bite; the eyes are round and preferably dark, the ears rose or half-pricked. Movement should be free, powerful and agile, with discernible drive from the hindlegs. Type is not the exaggeration of a single point: an overdone head or too short a muzzle costs <a href="/en/boas-staffordshire-bull-terrier-breathing/" title="BOAS and breathing in the Staffordshire Bull Terrier">breathing and heat tolerance</a>, and a judge assesses the whole dog, not one feature. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
   <h2>What the standard is for</h2>
   <p><a href="https://www.enci.it/media/2347/076.pdf" title="FCI standard no. 76 for the Staffordshire Bull Terrier, official ENCI PDF" target="_blank" rel="noopener" aria-label="FCI standard no. 76 for the Staffordshire Bull Terrier, official ENCI PDF (opens in a new tab)">The breed standard</a> is not a beauty checklist. It is a functional description of a dog built to do a specific job: a smooth-coated, close-coupled terrier of great strength for its size, agile enough to turn on itself and sound enough to work all day. Every clause exists because it describes something the dog needed in order to function, and reading it that way makes it far more useful than reading it as a list of features to tick off.</p>
@@ -75,7 +75,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What are the typical features of the Staffy's head?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">The head is the breed's most characteristic feature, and the standard describes it precisely: a <strong>short, broad skull</strong>, very pronounced cheek muscles, a <strong>distinct stop</strong>, a short foreface and a complete scissor bite. The ears are rose or half-pricked, neither large nor heavy, never drop nor cropped. The eyes are round, of medium size and preferably dark, with dark eye rims. What is assessed is not power in itself but balance: an exaggeratedly broad head or a muzzle that is too short is no longer type, it is a fault that brings breathing and dental problems. Reading a head well means looking at it in proportion to the whole dog, not on its own.
   </div>
@@ -84,7 +84,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Which colours does the FCI standard allow?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">The standard allows <strong>red, fawn, white, black and blue</strong>, or any of these colours with white, plus any shade of <strong>brindle</strong> and brindle with white. It explicitly excludes <strong>black and tan</strong> and <strong>liver</strong>, colours generally attributed to outside blood, so their appearance raises doubts about a line. Merle does not exist in the breed: if it appears, it points to another breed in the background. A puppy of a non-permitted colour is no less healthy or affectionate, but it cannot be bred from or shown, and a serious breeder says so openly instead of selling it as rare. The blue is permitted but is a dilute colour linked to possible skin problems, and careful breeders treat it with caution.
   </div>
@@ -93,7 +93,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What is the ideal weight according to the standard?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">The standard gives <strong>12.7 to 17 kilos for males</strong> and <strong>11 to 15.4 kilos for females</strong>, with a height at the withers of about 35.5 to 40.5 centimetres in both sexes, and height should be related to weight. It is a big dog in a small body, but compactness does not mean heaviness. In daily life, condition matters more than the number: the ribs should be easy to feel without pressing, and from above the waist should be clearly visible. The Staffordshire Bull Terrier is greedy and puts on weight easily, and excess weight is one of the most common health problems in adult dogs of the breed, with consequences for joints, heart and heat tolerance.
   </div>
@@ -102,7 +102,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Which genetic tests should a serious breeder do?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">None are required by law, and it is worth saying clearly: a breeder who does not test is not breaking any rule. What exists is a shared standard of seriousness, which for this breed includes <strong>L2-HGA</strong>, <strong>hereditary cataract</strong> and <strong>degenerative myelopathy</strong>, all with DNA tests. The point is not the existence of the tests but whether they can be checked: a report only counts if it carries the dog's microchip number, the name of the laboratory and the date. Without the microchip it cannot be linked to any particular animal. On this site the breeding dogs' reports are published and downloadable, precisely so that anyone can check them without having to ask.
   </div>
@@ -110,6 +110,17 @@ custom_content: |
 
   </div>
 
+  <div class="related-articles">
+  <h3>More on this topic</h3>
+  <ul>
+  <li><a href="/en/choosing-bloodlines/" title="Choosing Staffordshire Bull Terrier bloodlines">Choosing Staffordshire Bull Terrier bloodlines</a></li>
+  <li><a href="/en/staffy-bloodlines-guide/" title="Staffy bloodlines: the history of the six lines">Staffy bloodlines: the history of the six lines</a></li>
+  <li><a href="/en/staffy-pitbull-amstaff-difference/" title="Staffordshire Bull Terrier, Pitbull and Amstaff compared">Staffordshire Bull Terrier, Pitbull and Amstaff compared</a></li>
+  <li><a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)">Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)</a></li>
+  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious Staffy breeder">How to recognise a serious Staffy breeder</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer"><a class="btn" href="/en/blog/">&larr; Back to Blog</a></div>
   </article></div>
 ---

@@ -2,7 +2,7 @@
 title: "Gentests L2-HGA, HC (HSF4) und DM (SOD1) für Staffordshire Bull Terrier"
 titleSeo: "Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)"
 date: 2025-11-20
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "test-genetici"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -83,13 +83,18 @@ custom_content: |
   
   <p>Bei uns ist der SOD1-Test N/N, also frei, für unsere beiden aktiven Zuchthündinnen Bilquis und Croi Olc sowie für Nora: Die Befunde mit Mikrochipnummer stehen auf der <a href="/de/huendinnen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Hündinnen">Seite der Hündinnen</a>.</p>
   
-  <p class="fonti">Quellen: <a href="https://www.pnas.org/doi/10.1073/pnas.0812297106" target="_blank" rel="noopener" title="Awano et al., PNAS 2009">Awano et al., PNAS 2009</a>; <a href="https://vgl.ucdavis.edu/test/degenerative-myelopathy" target="_blank" rel="noopener" title="UC Davis Veterinary Genetics Laboratory">UC Davis Veterinary Genetics Laboratory</a>.</p>
+  <p class="fonti">Quellen: <a href="https://www.pnas.org/doi/10.1073/pnas.0812297106" target="_blank" rel="noopener" title="Awano et al., PNAS 2009" aria-label="Awano et al., PNAS 2009 (wird in einem neuen Tab geöffnet)">Awano et al., PNAS 2009</a>; <a href="https://vgl.ucdavis.edu/test/degenerative-myelopathy" target="_blank" rel="noopener" title="UC Davis Veterinary Genetics Laboratory" aria-label="UC Davis Veterinary Genetics Laboratory (wird in einem neuen Tab geöffnet)">UC Davis Veterinary Genetics Laboratory</a>.</p>
   
   <h2>Wie die Tests funktionieren</h2>
   <p>Die Tests basieren auf DNA und sind unkompliziert. Ein Wangenabstrich oder eine kleine Blutprobe wird entnommen, idealerweise vom Tierarzt, der zugleich den Mikrochip des Hundes überprüft, damit die Probe eindeutig diesem Tier zugeordnet ist, und an ein akkreditiertes Labor geschickt. Das Ergebnis liegt nach 2 bis 4 Wochen vor und gilt lebenslang: die DNA verändert sich nicht, ein Hund wird einmal getestet und nie wieder.</p>
   <p>Die Kosten unterscheiden sich je nach Labor und Land, für beide Tests zusammen sind etwa 120 Euro für das Genpaket im Labor; rechnet man Blutentnahme, Versand und Augenuntersuchung hinzu, sind es rund 400 Euro pro Hund realistisch. Verglichen mit den Kosten einer lebenslangen antikonvulsiven Behandlung oder einer Kataraktoperation ist das eine unbedeutende Summe. Deshalb betrachtet kein ernsthafter Züchter diese Ausgabe als freiwillig.</p>
 
     <h3>Wo getestet wird</h3>
+  <p>Der Test auf L2-HGA und erblichen Katarakt ist international anerkannt: Der britische <a href="https://www.thekennelclub.org.uk/health-and-dog-care/health/health-and-care/az-of-health-and-care-issues/dna-testing-schemes/" target="_blank" rel="noopener" title="Kennel Club DNA testing schemes" aria-label="Kennel Club, DNA-Testprogramme (wird in einem neuen Tab geöffnet)">Kennel Club</a> führt ihn in seinen offiziellen Programmen, und deshalb gilt ein Befund aus einem akkreditierten Labor überall in Europa.</p>
+  <figure class="article-image img-right">
+  <img src="/images/Lothar-e-Arianna.webp" alt="Staffordshire Bull Terrier mit gesunden Augen" loading="lazy" decoding="async" width="280" height="350">
+  <figcaption>Ein Staffy mit gesunden Augen</figcaption>
+  </figure>
   <p>Die wichtigsten Labore für diese Tests sind der <strong>Animal Health Trust</strong> in Großbritannien, der beide Tests entwickelt hat und heute zum Kennel Club gehört; <strong>Laboklin</strong>, das deutsche Labor, das auch in Italien arbeitet; <strong>Optigen</strong> in den Vereinigten Staaten, spezialisiert auf Augenerkrankungen; und <strong>Embark</strong>, dessen breites Panel L2-HGA und HC einschließt.</p>
   <p>Die Probe ist ein Wangenabstrich oder eine Blutentnahme durch den Tierarzt; sie geht ans Labor, und das Zertifikat kommt mit der Mikrochipnummer des Hundes zurück. Diese Nummer verbindet das Ergebnis mit einem bestimmten Tier &mdash; ein Zertifikat ohne sie beweist nichts über den Hund, der vor Ihnen steht.</p>
 
@@ -122,6 +127,10 @@ custom_content: |
   <p>Das ist zulässig und wird von den Zuchtverbänden anerkannt, hängt aber vollständig von der Richtigkeit der Abstammung ab. Es gilt für eine Generation und fällt in sich zusammen, wenn eine Elternangabe falsch ist. Für einen Hund, der in der Zucht eingesetzt werden soll, bevorzugen wir unabhängig davon den direkten Test. Für einen Familienwelpen ist "frei durch Abstammung" bei zwei direkt getesteten Eltern völlig beruhigend.</p>
 
   <h2>Was Sie den Züchter fragen sollten</h2>
+  <figure class="article-image img-left">
+  <img src="/images/cucciolo-rosso.webp" alt="Gesunder Staffordshire Bull Terrier Welpe" loading="lazy" decoding="async" width="280" height="320">
+  <figcaption>Ein gesunder Welpe von getesteten Eltern</figcaption>
+  </figure>
   <p>Verlangen Sie die Laborzertifikate beider Elterntiere als Dokument, mit lesbaren Namen der Hunde, Mikrochipnummern und Laborangabe. Ein seriöser Züchter schickt sie ohne Zögern und oft, bevor Sie fragen.</p>
   <p>Vorsicht ist geboten bei: der Formulierung "die Eltern sind gesund, wir hatten nie Probleme", die eine ganz andere Frage beantwortet; Zertifikaten, die Sie angeblich später erhalten; der Weigerung, Unterlagen vor einer Anzahlung zu zeigen; Ergebnissen, die nur als Screenshot vorliegen; und der Behauptung, Tests seien überflüssig, "weil unsere Linien das nie hatten". Keine Linie ist von einer rezessiven Mutation ausgenommen, solange sie nicht getestet ist.</p>
 
@@ -180,6 +189,28 @@ custom_content: |
   <div class="faq-answer">Indem Sie nach den Befunden fragen und auf eines achten: <strong>die Mikrochipnummer</strong>. Ein Laborzertifikat mit Mikrochip lässt sich diesem und keinem anderen Hund zuordnen und kann mit den Papieren des Tieres abgeglichen oder beim ausstellenden Labor bestätigt werden. Ein Befund ohne Mikrochip oder eine Kopie mit geschwärztem Namen beweist nichts: er könnte zu jedem Hund gehören. Vorsicht bei der Formulierung „auf Anfrage erhältlich“: eine Zucht, die getestet hat, hat keinen Grund, die Ergebnisse zu verstecken. Auf dieser Website sind die Befunde der Zuchthunde veröffentlicht und herunterladbar, mit sichtbarer Mikrochipnummer.</div>
   </div>
 
+  <div class="faq-item">
+  <h3>Gibt es L2-HGA und HC nur beim Staffy?</h3>
+  <div class="faq-answer">Nicht ausschließlich, aber fast. L2-HGA wurde vor allem beim Staffordshire Bull Terrier erkannt und untersucht, wo die Mutation isoliert und der Test entwickelt wurde; vereinzelte Fälle sind bei anderen Rassen beschrieben, darunter der West Highland White Terrier. Der juvenile erbliche Katarakt in der Form, die mit dieser Mutation verbunden ist, betrifft den Staffy und den Boston Terrier. Dass es sich um Rasseerkrankungen handelt, ist kein Urteil: Es ist der Grund, warum es einen spezifischen Test gibt, was bei vielen anderen Erbkrankheiten nicht der Fall ist. Eine Rasse mit zwei testbaren Erkrankungen und einer Zucht, die darauf testet, steht besser da als eine Rasse mit zehn bekannten Problemen und keinem verfügbaren Test.
+  </div>
+  </div>
+
+  <div class="faq-item">
+  <h3>Warum testen manche Züchter nicht?</h3>
+  <div class="faq-answer">Es gibt drei Gründe, und keiner hält stand. Der erste ist Unwissen: Manche wissen nicht, dass diese Erkrankungen oder ein Test dafür existieren, und das betrifft vor allem Leute, die gelegentlich einen Wurf machen, ohne die Rasse zu verfolgen. Der zweite ist Sparen: 200 Euro pro Hund wirken viel für jemanden, der einen Wurf als Einnahme sieht und nicht als Projekt, obwohl sie auf mehrere Würfe verteilt kaum ins Gewicht fallen. Der dritte ist der unbequemste: Angst vor dem Ergebnis. Ein wunderschöner Hund, der sich als Träger herausstellt, darf nicht mehr mit einem anderen Träger verpaart werden, und wer diese Verpaarung schon geplant hat, will es lieber nicht wissen. In allen drei Fällen wird das Risiko auf die Familien abgewälzt, die die Welpen übernehmen.
+  </div>
+  </div>
+
+  <div class="related-articles">
+  <h3>Mehr zum Thema</h3>
+  <ul>
+  <li><a href="/de/staffy-blutlinien-guide/" title="Staffy-Blutlinien: die Geschichte der sechs Linien">Staffy-Blutlinien: die Geschichte der sechs Linien</a></li>
+  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Seriöse Staffordshire Bull Terrier Zucht erkennen">Seriöse Staffordshire Bull Terrier Zucht erkennen</a></li>
+  <li><a href="/de/welpen-erste-impfungen/" title="Erste Impfungen des Welpen: Plan und Auffrischung">Erste Impfungen des Welpen: Plan und Auffrischung</a></li>
+  <li><a href="/de/welpen-erste-fuetterung/" title="Ernährung des Welpen in den ersten Monaten">Ernährung des Welpen in den ersten Monaten</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>

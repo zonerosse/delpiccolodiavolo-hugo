@@ -1,7 +1,7 @@
 ---
 title: "Allevamento Staffordshire Bull Terrier"
 date: 2025-12-28
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "home"
 description: "Allevamento etico di Staffordshire Bull Terrier dal 2013. Pedigree ENCI, referti dei test genetici e microchip dei riproduttori pubblicati e verificabili."
 correlati:
@@ -94,7 +94,7 @@ custom_content: |
 
   <p>A volte si capisce meglio un allevamento da quello che non fa.</p>
 
-  <p>L'allevamento Del Piccolo Diavolo, a Ostellato in provincia di Ferrara, non ha cuccioli di Staffordshire Bull Terrier disponibili tutto l'anno: nasce una cucciolata l'anno, occasionalmente due, in alcuni anni nessuna. Non spedisce cani con corrieri n&eacute; in stiva, e non consegna a met&agrave; strada: chi prende un cucciolo viene a Ostellato e vede la madre e il posto dove &egrave; cresciuto. Ogni cucciolo esce con il certificato genealogico ENCI, che non &egrave; un extra e non si paga a parte, dopo i 60 giorni previsti dalla legge italiana. I riproduttori sono testati per L2HGA e HC (gene HSF4), le fattrici in attività anche per la mielopatia degenerativa (gene SOD1), e i referti di laboratorio &mdash; con il numero di microchip del cane sopra &mdash; sono pubblicati sul sito e scaricabili senza doverli chiedere.</p>
+  <p>L'allevamento Del Piccolo Diavolo, a Ostellato in provincia di Ferrara, non ha <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli di Staffordshire Bull Terrier</a> disponibili tutto l'anno: nasce una cucciolata l'anno, occasionalmente due, in alcuni anni nessuna. Non spedisce cani con corrieri n&eacute; in stiva, e non consegna a met&agrave; strada: chi prende un cucciolo viene a Ostellato e vede la madre e il posto dove &egrave; cresciuto. Ogni cucciolo esce con il certificato genealogico ENCI, che non &egrave; un extra e non si paga a parte, dopo i 60 giorni previsti dalla legge italiana. I riproduttori sono testati per L2HGA e HC (gene HSF4), le fattrici in attività anche per la mielopatia degenerativa (gene SOD1), e i referti di laboratorio &mdash; con il numero di microchip del cane sopra &mdash; sono pubblicati sul sito e scaricabili senza doverli chiedere.</p>
 
   <p><strong>Non abbiamo cuccioli tutto l'anno.</strong> Una cucciolata, occasionalmente due, a volte nessuna. Se ci scrivi in un momento in cui non ce ne sono, la risposta &egrave; che non ce ne sono: non ti proponiamo il cucciolo di un conoscente n&eacute; ti mettiamo fretta su una cucciolata futura.</p>
 
@@ -282,15 +282,15 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question" >
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quanto costa uno Staffordshire con pedigree ENCI?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Non esiste un listino: quello che si paga riflette costi che esistono prima della nascita dei cuccioli. I test genetici dei riproduttori per L2HGA e HC, l'iscrizione della cucciolata al libro genealogico ENCI con tariffe pubbliche, le visite veterinarie in gravidanza, l'ecografia e la radiografia prima del parto, le prime vaccinazioni, le sverminazioni e il microchip. <strong>Un prezzo molto basso quasi sempre significa che manca qualcosa</strong>: i test, il pedigree, o cuccioli separati dalla madre prima dei 60 giorni previsti dalla legge. Ogni cucciolo parte con vaccinazioni, microchip, sverminazioni, certificati dei test dei genitori e il supporto dell'allevamento Del Piccolo Diavolo per tutta la vita del cane.</div>
+  <div class="faq-answer">Non esiste un listino: quello che si paga riflette costi che esistono prima della nascita dei cuccioli. I test genetici dei riproduttori per L2HGA e HC, l'iscrizione della cucciolata al libro genealogico ENCI con tariffe pubbliche, le visite veterinarie in gravidanza, l'ecografia e la radiografia prima del parto, le prime vaccinazioni, le sverminazioni e il microchip. <strong>Un prezzo molto basso quasi sempre significa che manca qualcosa</strong>: i test, il pedigree, o cuccioli separati dalla madre prima dei 60 giorni previsti dalla legge. Ogni cucciolo parte con vaccinazioni, microchip, sverminazioni, certificati dei test dei genitori e il supporto dell'allevamento Del Piccolo Diavolo per tutta la vita del cane. Il dettaglio è nella guida sul <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Prezzo di un cucciolo di Staffordshire Bull Terrier">prezzo di un cucciolo di Staffordshire Bull Terrier</a>.</div>
   </div>
 
   <div class="faq-item active">
   <div class="faq-question" >
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quali test genetici fate sui riproduttori?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Tutti i riproduttori dell'allevamento Del Piccolo Diavolo sono testati per <strong>L2-HGA</strong>, l'aciduria L-2-idrossiglutarica, una malattia neurologica, e per <strong>HC</strong>, la cataratta ereditaria giovanile (gene HSF4). Le fattrici in attività sono testate anche per la <strong>mielopatia degenerativa</strong> (gene SOD1), una malattia del midollo spinale che compare dopo gli otto anni. Sono tutti test del DNA, e sono tutte malattie a trasmissione recessiva: due genitori esenti non possono produrre cuccioli malati. I portatori di L2-HGA e HC non entrano in riproduzione. I referti di laboratorio sono pubblicati su questo sito e scaricabili, con il <strong>numero di microchip del cane in chiaro</strong>: &egrave; quel numero a rendere il documento verificabile, perch&eacute; senza non sarebbe collegabile a nessun animale in particolare.</div>
   </div>

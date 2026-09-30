@@ -2,7 +2,7 @@
 title: "Welpen: Erster Spaziergang"
 date: 2025-09-17
 titleSeo: "Der erste Spaziergang des Welpen: wann und wie"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "passeggiata"
 articolo: true
 image: "/images/blog/cuccioli-5.webp"
@@ -39,7 +39,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Die ersten Spaziergänge eines Staffordshire Bull Terrier Welpen misst man in Minuten, nicht in Kilometern. Als Richtwert gelten etwa fünf Minuten geführter Spaziergang je Lebensmonat, zweimal täglich: mit drei Monaten fünfzehn Minuten, mit vier zwanzig. Die Grenze gibt es, weil sich die Wachstumsfugen bei dieser Rasse zwischen dem zwölften und achtzehnten Monat schließen und wiederholte Stoßbelastung vorher Schäden hinterlässt, die sich erst Jahre später zeigen. Bis zum Ende der Impfungen mit etwa 16 Wochen zu warten, ist aber auch keine Lösung, weil sich das Sozialisierungsfenster, das von der dritten bis zur zwölften Woche reicht, dann schon geschlossen hat: kontrollierte Erfahrungen beginnen, sobald der Welpe da ist, an sauberen, ruhigen Orten, fern vom Kot fremder Hunde. In den ersten Wochen zählt, was der Welpe erlebt, nicht wie weit er läuft: fünf ruhige Minuten Schnüffeln sind mehr wert als dreißig an straffer Leine. Ein Ratgeber der Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet.</p>
+  <p>Die ersten Spaziergänge eines Staffordshire Bull Terrier Welpen misst man in Minuten, nicht in Kilometern. Als Richtwert gelten etwa fünf Minuten geführter Spaziergang je Lebensmonat, zweimal täglich: mit drei Monaten fünfzehn Minuten, mit vier zwanzig. Die Grenze gibt es, weil sich die Wachstumsfugen bei dieser Rasse zwischen dem zwölften und achtzehnten Monat schließen und wiederholte Stoßbelastung vorher Schäden hinterlässt, die sich erst Jahre später zeigen. Bis zum Ende der Impfungen mit etwa 16 Wochen zu warten, ist aber auch keine Lösung, weil sich das Sozialisierungsfenster, das von der dritten bis zur zwölften Woche reicht, dann schon geschlossen hat: kontrollierte Erfahrungen beginnen, sobald der Welpe da ist, an sauberen, ruhigen Orten, fern vom Kot fremder Hunde. In den ersten Wochen zählt, was der Welpe erlebt, nicht wie weit er läuft: fünf ruhige Minuten Schnüffeln sind mehr wert als dreißig an straffer Leine. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
   
   
@@ -78,6 +78,23 @@ custom_content: |
   <p><strong>Darf mein Welpe fremde Hunde treffen?</strong> Nur ruhige, gesunde, geimpfte Erwachsene, deren Halter Sie vorher fragen können. Eine unkontrollierte Begegnung mit einem reaktiven Hund kann einen Welpen um ein Jahr zurückwerfen.</p>
   <p><strong>Ab wann sind richtige Spaziergänge möglich?</strong> Steigern Sie langsam und rechnen Sie mit voller Länge ab etwa 18 Monaten, wenn die Wachstumsfugen geschlossen sind.</p>
 
+  <div class="related-articles">
+  <h3>Verwandte Artikel</h3>
+  <ul>
+  <li><a href="/de/welpen-sozialisierung-zuhause/" title="Welpen zu Hause sozialisieren: die Liste für die Familie">Welpen zu Hause sozialisieren: die Liste für die Familie</a></li>
+  <li><a href="/de/welpen-stubenreinheit/" title="Welpen stubenrein machen: Methode und Zeitrahmen">Welpen stubenrein machen: Methode und Zeitrahmen</a></li>
+  <li><a href="/de/welpen-denkspiele/" title="Denkspiele für Staffordshire Bull Terrier Welpen">Denkspiele für Staffordshire Bull Terrier Welpen</a></li>
+  <li><a href="/de/welpen-erste-impfungen/" title="Erste Impfungen des Welpen: Plan und Auffrischung">Erste Impfungen des Welpen: Plan und Auffrischung</a></li>
+  </ul>
+  </div>
+  
+  <div class="related-articles">
+  <h3>Mehr zum Thema</h3>
+  <ul>
+  <li><a href="/de/staffy-sichere-bewegung/" title="Sichere Bewegung für Staffordshire Bull Terrier">Sichere Bewegung für Staffordshire Bull Terrier</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>

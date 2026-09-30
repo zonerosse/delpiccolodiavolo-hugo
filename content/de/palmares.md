@@ -1,7 +1,7 @@
 ---
 title: "Palmares - Unsere Ausstellungserfolge"
 date: 2026-01-04
-lastmod: 2026-09-28
+lastmod: 2026-09-30
 tipoPagina: "CollectionPage"
 translationKey: "palmares"
 description: "Ergebnisse und Titel unserer Staffordshire Bull Terrier: Italienische Champions, Jugendchampions, Best of Breed. Del Piccolo Diavolo Zucht, Italien."
@@ -18,6 +18,7 @@ custom_content: |
   <h2 class="section-title">Von Uns Gezüchtete Champions</h2>
   
   <div class="intro-block">
+  <p>Die von Del Piccolo Diavolo gezüchteten Hunde haben bisher einen Titel als Italienischer Champion, drei als Italienischer Jugendchampion &mdash; Bilquis, Lothar, der auch Slowenischer Champion ist, und Queen of California &mdash; sowie die Titel Jugendchampion und Champion von San Marino errungen, dazu einen vierten Platz auf der World Dog Show mit Bilquis Goddess Diabhal, die zwölf aufeinanderfolgende Ausstellungen mit Vorzüglich 1 hinter sich hat. Im Mai 2026 holte Queen of California den Titel Italienische Jugendchampionin auf der Nationalen Ausstellung in Albarella. Es sind alles Hunde, die hier geboren und aufgewachsen sind, keine bereits betitelt gekauften. Ausstellungsergebnisse lassen sich nicht selbst bescheinigen: Die Kataloge der Veranstaltungen sind öffentlich, und die Richter, die diese Hunde bewertet haben, haben einen Vor- und Nachnamen. Titel sind aber nur ein Teil: Welches Leben diese Hunde heute führen, erzählen die <a href="/de/staffordshire-in-der-familie-geschichten/" title="Geschichten aus den Familien">Geschichten aus den Familien</a>.</p>
   <p>Die Selektion von Del Piccolo Diavolo basiert auf drei Säulen: Gesundheit, Charakter und Rassetyp. Ausstellungsergebnisse sind kein Selbstzweck, sondern Bestätigung, dass unsere Zuchtarbeit standardkonforme Hunde hervorbringt. Alle vorgestellten Hunde wurden in unserer Zucht geboren und aufgezogen.</p>
   </div>
   
@@ -43,6 +44,8 @@ custom_content: |
   <p style="font-size:0.85rem;margin:0">Vorzüglich</p>
   </div>
   </div>
+
+  <p style="text-align:center;margin-top:1rem">Unsere Welpen stammen von diesen Hunden. Auf der Seite <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Staffordshire Bull Terrier Welpen</a> erfahren Sie mehr über die nächsten Würfe.</p>
   </div>
   </section>
   
@@ -204,6 +207,7 @@ custom_content: |
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem">
   <h3>ENCI Italienischer Jugendchampion</h3>
   <p><a href="/de/rueden-staffordshire-bull-terrier/" title="Unsere Rüden">Lothar</a> hat den Titel des Italienischen Jugendchampions mit einer beeindruckenden Serie von Ergebnissen in der Jugendklasse gewonnen. Jetzt in der Zwischenklasse, setzt er seine Ausstellungskarriere fort.</p>
+  <p><strong>Januar 2026:</strong> neuer Slowenischer Champion! Ein außergewöhnliches Wochenende auf den internationalen Ausstellungen in Vrtojba mit 3 × Vorzüglich 1, womit der slowenische Titel vollständig ist.</p>
   
   <h3 style="margin-top:2rem;margin-bottom:1rem">Vollständige Ergebnisse</h3>
   
@@ -326,6 +330,7 @@ custom_content: |
   
   </div>
   
+  <p>Tochter von CH. Elitebull Prospect × Lackyle Bean Croí Olc, aus dem Wurf vom 1. Februar 2025. Besitzer: Stefano Tevini. Handlerin: Vittoria Passerini, in ihrem zehnten Ausstellungsjahr, das 2016 genau in Albarella begann, im Junior Handling mit sieben Jahren.</p>
   <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">Vater: CH. Elitebull Prospect. Mutter: Lackyle Bean Croí Olc. Besitzer: Stefano Tevini. Handler: Vittoria Passerini.</p>
   
   </div>
@@ -336,6 +341,13 @@ custom_content: |
   <p>Ausstellungsergebnisse bestätigen unser Engagement: typische, gesunde Hunde mit ausgeglichenem Charakter. Wir kaufen keine bereits titulierten Hunde: wir züchten sie, ziehen sie auf, stellen sie aus. Das ist der Unterschied. Über Bilquis hat am 6. Januar 2026 auch das Ferrareser Nachrichtenportal <a href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" target="_blank" rel="noopener" aria-label="Artikel von FerraraToday über Bilquis (wird in einem neuen Tab geöffnet)">FerraraToday</a> berichtet.</p>
   <a href="/de/huendinnen-staffordshire-bull-terrier/" class="btn" title="Unsere Hündinnen ansehen">Unsere Hunde Entdecken</a>
   </section>
+  
+  <div class="related-articles">
+  <h3>Mehr zum Thema</h3>
+  <ul>
+  <li><a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen mit überprüfbaren Gentests">Staffordshire Bull Terrier Welpen mit überprüfbaren Gentests</a></li>
+  </ul>
+  </div>
   
   <section class="cta-section">
   <h2>Möchten Sie einen Welpen aus Siegerlinien?</h2>

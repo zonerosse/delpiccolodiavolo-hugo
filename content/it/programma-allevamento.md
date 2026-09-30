@@ -1,8 +1,8 @@
 ---
 title: "Programma allevamento Staffordshire Bull Terrier"
-titleSeo: "Programma allevamento Staffordshire Bull Terrier"
+titleSeo: "Prossime cucciolate di Staffy: il programma di selezione"
 date: 2025-12-28
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 tipoPagina: "CollectionPage"
 translationKey: "programma"
 description: "Programma di allevamento Staffordshire Bull Terrier: criteri di selezione, salute, test genetici e storico delle cucciolate passate e future."
@@ -29,7 +29,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Programma Allevamento</span>
-  <h1 class="hero-title">Programma di <em>allevamento</em> <br>Staffordshire Bull Terrier</h1>
+  <h1 class="hero-title">Il programma <em>di selezione</em> <br>e le prossime cucciolate</h1>
   <p class="hero-subtitle">Selezione, salute e tipicità - Dal 2013</p>
   <p class="hero-description">Accoppiamenti pianificati secondo criteri di salute, carattere e tipicità. In questa pagina trovi il programma di selezione e lo storico delle cucciolate.</p>
   <p style="font-family:Georgia,serif;font-size:1.05rem;font-weight:700;color:#8b5a2b;margin:0 0 .8rem">Resta aggiornato sulle cucciolate in programma!!</p>
@@ -296,7 +296,7 @@ custom_content: |
 
   <p>Il programma &egrave; aperto: di ogni accoppiamento diciamo chi sono i genitori, che test hanno e perch&eacute; li abbiamo scelti. Chi vuole approfondire pu&ograve; chiedere i risultati degli accoppiamenti precedenti e vedere i cani di persona.</p>
 
-  <p>Cosa accompagna il cucciolo e come funziona l'affido sta nella <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">pagina dei cuccioli</a>; se abiti fuori dall'Italia, i tempi e i documenti sono <a href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Cucciolo all'estero">in questa pagina</a>.</p>
+  <p>Cosa accompagna il cucciolo e come funziona l'affido sta nella <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">pagina dei cuccioli di Staffordshire Bull Terrier</a>; se abiti fuori dall'Italia, i tempi e i documenti sono <a href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Cucciolo all'estero">in questa pagina</a>.</p>
 
   <h2>Domande frequenti sulle cucciolate</h2>
   <p>Per conoscere in dettaglio il nostro metodo di selezione e gli accoppiamenti pianificati, contattaci.</p>

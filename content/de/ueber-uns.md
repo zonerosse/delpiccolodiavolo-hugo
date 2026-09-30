@@ -1,7 +1,7 @@
 ---
-title: "Über Uns - Staffordshire Bull Terrier Züchter"
+title: "Über uns – der Züchter hinter Del Piccolo Diavolo"
 date: 2025-12-28
-lastmod: 2026-09-28
+lastmod: 2026-09-30
 tipoPagina: "ProfilePage"
 translationKey: "chi-siamo"
 description: "Zucht Del Piccolo Diavolo: seit 2013 gesunde, ausgeglichene und typvolle Staffordshire Bull Terrier. Ostellato (FE), Italien."
@@ -25,7 +25,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Seit 2013</span>
-  <h1 class="hero-title">Über <br><em>Uns</em></h1>
+  <h1 class="hero-title">Über uns – <em>der Züchter hinter Del Piccolo Diavolo</em></h1>
   <p class="hero-subtitle">Seit 2013 in Ostellato, Provinz Ferrara</p>
   <p class="hero-description">Familienzucht in Ostellato (FE), Italien. Gesunde, ausgeglichene und typische Staffordshire Bull Terrier mit Elitebull und Lackyle Blutlinien.</p>
   <div class="hero-actions">
@@ -147,6 +147,13 @@ custom_content: |
   <p>Wir sagen jeder Familie dasselbe: wenn Sie den Hund eines Tages nicht mehr halten können, kommt er zu uns zurück. Seit 2013 war es nie nötig &mdash; wo diese Hunde gelandet sind, erzählen wir in den <a href="/de/staffordshire-in-der-familie-geschichten/" title="Familiengeschichten">Familiengeschichten</a>.</p>
 
 
+  <div class="related-articles">
+  <h3>Mehr zum Thema</h3>
+  <ul>
+  <li><a href="/de/huendinnen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Hündinnen">Staffordshire Bull Terrier Hündinnen</a></li>
+  </ul>
+  </div>
+  
   <section class="cta-section">
   <h2>Möchten Sie uns kennenlernen?</h2>
   <p>Besuchen Sie uns in Ostellato (FE) oder kontaktieren Sie uns auf WhatsApp</p>

@@ -1,0 +1,15 @@
+# Articoli originali: contengono dati o posizioni che nel web italiano non si
+# trovano altrove. Devono avere piu' link in entrata dal testo delle altre
+# pagine (menu, pie' di pagina e box "correlati" non contano).
+# Si scrive l'indirizzo italiano: le versioni EN e DE si trovano da sole
+# tramite translationKey. La lista la decide Paolo.
+minimo: 6
+/programma-allevamento/                  # COI di Queen con i numeri
+/cuccioli-sverminazione-esami-feci/      # referti pubblicati, riga positiva compresa
+/bio-sensor-stimolazione-precoce-cuccioli/  # unico che dice che le prove non ci sono
+/staffordshire-in-famiglia-storie/       # storie vere dei cani affidati
+/genitori-visibili-cosa-significa/       # smonta una formula da annuncio
+/cuccioli-socializzati-cosa-vuol-dire/   # smonta una formula da annuncio
+/test-genetici-l2hga-hc-staffy/          # test dei propri riproduttori, DM SOD1
+/come-si-legge-un-pedigree/              # cosa dice l'ENCI e cosa no
+/differenza-staffy-amstaff/              # le sette domande dell'allevatore

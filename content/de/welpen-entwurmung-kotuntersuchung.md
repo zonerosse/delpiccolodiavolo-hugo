@@ -2,7 +2,7 @@
 title: "Welpen: Entwurmung und Kotuntersuchung"
 date: 2026-09-27
 titleSeo: "Entwurmung der Welpen: Plan und Kotuntersuchung"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "sverminazione"
 articolo: true
 image: "/images/blog/esame-feci-microscopio-hero.webp"
@@ -96,7 +96,7 @@ custom_content: |
   <p>Das Bild zeigt Welpen mit gesundem Darm: keine Parasiten, ausgeglichene Flora, funktionierende Verdauung. Das ist kein Glück, sondern das Ergebnis eines ab der zweiten Lebenswoche angewandten Protokolls und einer sauber gehaltenen Umgebung.</p>
   
   <div class="callout">
-  <p><strong>📄 Die vollständigen Befunde:</strong> <a href="/docs/referti-feci-cucciolata-17-09-2026.pdf" title="Befunde der Kotuntersuchung des Wurfs, 17. September 2026" target="_blank" rel="noopener">PDF beider Untersuchungen herunterladen</a> — Ergebnistabelle, Mikroaufnahmen und Giardien-Antigentest. Die Befunde sind auf Italienisch.</p>
+  <p><strong>📄 Die vollständigen Befunde:</strong> <a href="/docs/referti-feci-cucciolata-17-09-2026.pdf" title="Befunde der Kotuntersuchung des Wurfs, 17. September 2026" target="_blank" rel="noopener" aria-label="Befunde der Kotuntersuchung des Wurfs, 17. September 2026 (wird in einem neuen Tab geöffnet)">PDF beider Untersuchungen herunterladen</a> — Ergebnistabelle, Mikroaufnahmen und Giardien-Antigentest. Die Befunde sind auf Italienisch.</p>
   </div>
   
   <h2>Eine rote Zeile, und warum sie kein Problem ist</h2>
@@ -140,6 +140,16 @@ custom_content: |
   
   <div class="alert">
   <p><strong>⚠️ Eine Sache, nach der man immer fragen sollte</strong>, bei uns wie bei jedem anderen: <strong>die Befunde</strong>. Wer sauber arbeitet, hat keinen Grund, sie nicht zu zeigen.</p>
+  </div>
+  
+  <div class="related-articles">
+  <h3>Verwandte Artikel</h3>
+  <ul>
+  <li><a href="/de/welpen-erste-impfungen/" title="Erste Impfungen des Welpen: Plan und Auffrischung">Erste Impfungen des Welpen: Plan und Auffrischung</a></li>
+  <li><a href="/de/staffy-parasitenvorbeugung/" title="Parasitenvorbeugung für Staffordshire Bull Terrier">Parasitenvorbeugung für Staffordshire Bull Terrier</a></li>
+  <li><a href="/de/welpen-erste-fuetterung/" title="Ernährung des Welpen in den ersten Monaten">Ernährung des Welpen in den ersten Monaten</a></li>
+  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Seriöse Staffordshire Bull Terrier Zucht erkennen">Seriöse Staffordshire Bull Terrier Zucht erkennen</a></li>
+  </ul>
   </div>
   
   <div class="article-footer">

@@ -1,14 +1,14 @@
 ---
 title: "Quanto Costa un Cucciolo di Staffordshire Bull Terrier nel 2026"
 date: 2026-01-25
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 articolo: true
 translationKey: "quanto-costa"
 image: "/images/blog/scontrino-farmaci-cucciolata.webp"
 og_image: "/images/og/schede/it/quanto-costa-cucciolo-staffordshire-bull-terrier.jpg"
 og_image_alt: "Quanto costa un cucciolo Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/quanto-costa-cucciolo-staffordshire-bull-terrier.webp"
-titleSeo: "Quanto costa un cucciolo Staffordshire Bull Terrier"
+titleSeo: "Prezzo di un cucciolo di Staffordshire Bull Terrier"
 description: "Quanto costa un cucciolo Staffordshire Bull Terrier con pedigree ENCI, cosa include il prezzo e quanto spende davvero l'allevatore per una cucciolata."
 slug: "quanto-costa-cucciolo-staffordshire-bull-terrier"
 ---
@@ -21,7 +21,7 @@ slug: "quanto-costa-cucciolo-staffordshire-bull-terrier"
 </div>
 <div class="hero-content">
 <span class="hero-eyebrow">Cuccioli</span>
-<h1 class="hero-title">Quanto costa un cucciolo di <em>Staffordshire Bull Terrier</em> nel 2026</h1>
+<h1 class="hero-title">Prezzo di un cucciolo di <em>Staffordshire Bull Terrier</em>: cosa include</h1>
 <p class="hero-subtitle">Cosa include il prezzo, e quanto costa a noi una cucciolata, voce per voce</p>
 <div class="hero-meta">
 <span>&#9201;&#65039; 9 min lettura</span>

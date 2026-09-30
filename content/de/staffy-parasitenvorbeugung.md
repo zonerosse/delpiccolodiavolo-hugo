@@ -1,7 +1,7 @@
 ---
 title: "Parasitenvorbeugung für Staffordshire Bull Terrier"
 date: 2025-01-20
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "parassiti"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -33,7 +33,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Parasitenvorbeugung beim Staffordshire Bull Terrier ist planbar und fast vollständig wirksam, solange der Kalender eingehalten wird. Der Floh, den man am Hund sieht, ist nur etwa 5 Prozent eines Befalls; der Rest lebt als Eier, Larven und Puppen in der Wohnung. Das kurze Fell der Rasse macht Flöhe und Zecken leicht erkennbar, doch ihre Haut neigt zu Allergien, deshalb ist die Flohspeichelallergie häufig. Zecken übertragen Babesiose, Ehrlichiose, Anaplasmose und Borreliose; Sandmücken und Stechmücken übertragen Leishmaniose und Herzwurm. Welpen bekommen Spulwürmer schon von der Mutter und werden ab der zweiten Lebenswoche alle zwei Wochen bis zur zwölften Woche entwurmt, dann monatlich bis zum sechsten Monat. Erwachsene Hunde werden alle drei Monate behandelt, häufiger, wenn sie Unrat fressen oder mit kleinen Kindern leben, und eine Kotuntersuchung prüft den Plan. Ein Ratgeber der Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet.</p>
+  <p>Parasitenvorbeugung beim Staffordshire Bull Terrier ist planbar und fast vollständig wirksam, solange der Kalender eingehalten wird. Der Floh, den man am Hund sieht, ist nur etwa 5 Prozent eines Befalls; der Rest lebt als Eier, Larven und Puppen in der Wohnung. Das kurze Fell der Rasse macht Flöhe und Zecken leicht erkennbar, doch ihre Haut neigt zu Allergien, deshalb ist die Flohspeichelallergie häufig. Zecken übertragen Babesiose, Ehrlichiose, Anaplasmose und Borreliose; Sandmücken und Stechmücken übertragen Leishmaniose und Herzwurm. Welpen bekommen Spulwürmer schon von der Mutter und werden ab der zweiten Lebenswoche alle zwei Wochen bis zur zwölften Woche entwurmt, dann monatlich bis zum sechsten Monat. Erwachsene Hunde werden alle drei Monate behandelt, häufiger, wenn sie Unrat fressen oder mit kleinen Kindern leben, und eine Kotuntersuchung prüft den Plan. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
   
   
@@ -80,7 +80,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wann beginnt die Parasitenvorbeugung beim Welpen?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Die Entwurmung beginnt sehr früh, ab der zweiten Lebenswoche, weil viele Welpen schon mit Würmern von der Mutter zur Welt kommen: sie wird alle zwei Wochen bis zur zwölften Woche wiederholt und dann monatlich bis zum sechsten Monat. Gegen äußere Parasiten, Flöhe und Zecken, beginnt man meist <strong>ab acht Wochen</strong>, doch das Präparat hängt von Gewicht und Alter ab, und manche Wirkstoffe haben genaue Grenzen unterhalb einer bestimmten Schwelle. Die Regel: die erste Behandlung wählt der Tierarzt, nicht das Supermarktregal. Ein Welpe aus einer seriösen Zucht sollte mit einem Heimtierausweis kommen, in dem die Daten jeder Entwurmung stehen, und am besten mit dem <strong>Befund einer Kotuntersuchung</strong>: von dort macht man ohne Unterbrechung weiter, denn eine Lücke von wenigen Wochen genügt, um einen Befall neu zu starten.
   </div>
@@ -89,7 +89,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie entferne ich eine Zecke richtig?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Mit einer spitzen Pinzette oder einem Zeckenhaken, die Zecke <strong>so hautnah wie möglich</strong> fassen und mit gleichmäßigem, ruhigem Zug ohne Ruck herausziehen; ein Haken ist dafür gemacht, beim Herausheben sanft gedreht zu werden, eine Pinzette nicht. Was man nicht tut, ist das ganze Repertoire der Hausmittel: Öl, Alkohol, Flamme, Vaseline. Die Zecke zu ersticken lässt sie in den Hund zurückwürgen, und genau dann können Erreger übergehen. Nach dem Entfernen die Stelle desinfizieren und das Datum notieren: die meisten durch Zecken übertragenen Krankheiten haben eine Inkubationszeit von Wochen, und wenn in den folgenden zwanzig bis dreißig Tagen Fieber, Mattigkeit oder wechselnde Lahmheit auftreten, sagen Sie es dem Tierarzt und nennen Sie ihm das Datum des Stichs.
   </div>
@@ -98,7 +98,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Welche Parasitenmittel sind für Welpen am besten?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Ein bestes im absoluten Sinn gibt es nicht, nur das richtige für diesen Welpen, und das hängt von Alter, Gewicht, Region und Lebensweise ab. Es gibt drei große Gruppen: <strong>Spot-ons</strong>, einfach und geeignet für Halter, die nicht oft behandeln müssen; <strong>Kautabletten</strong>, die beim Baden nicht verloren gehen und zu Hunden passen, die viel draußen oder im Wasser sind; und <strong>Halsbänder</strong>, die lange Zeiträume abdecken. Wo es Leishmaniose gibt, braucht man Präparate mit abwehrender Wirkung gegen Sandmücken, die nicht alle Mittel haben. Vermeiden Sie den Tausch von Präparaten zwischen Katze und Hund, und vermeiden Sie Naturmittel ohne nachgewiesene Wirkung, die Schutz vortäuschen, während der Hund ungeschützt bleibt.
   </div>
@@ -107,7 +107,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie oft muss behandelt werden?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Das hängt von Präparat und Jahreszeit ab, und die richtige Antwort steht auf dem Beipackzettel: ein Spot-on deckt meist vier Wochen, manche Tabletten bis zu zwölf, Halsbänder mehrere Monate. Der eigentliche Fehler ist nicht die Wahl des Präparats, sondern <strong>die Winterpause</strong>: bei den heutigen milden Wintern bleiben Zecken und Flöhe auch im Januar aktiv, und in der Poebene ist ganzjähriger Schutz inzwischen die Regel. Beim Herzwurm ist es anders, denn die Vorbeugung ist saisonal und muss vor Beginn der Mückenzeit stehen, bei Hunden mit unbekannter Vorgeschichte nach einem Test. Notieren Sie die Behandlungsdaten: niemand merkt, wenn ein Monat ausfällt, und ein erneuter Befall in der Wohnung ist viel mühsamer zu beheben als zu verhindern.
   </div>
@@ -116,7 +116,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Mein Hund verlässt den Garten nie. Braucht er trotzdem Schutz?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Ja. Stechmücken, die Herzwurm übertragen, und Sandmücken, die Leishmaniose übertragen, verlangen keine Reise, sie kommen in den Garten; Zecken können von Igeln, Vögeln und anderen durchziehenden Tieren eingeschleppt werden; und Floheier gelangen an Schuhen, Kleidung und besuchenden Tieren ins Haus. Ein Hund, der nur im Garten ist, braucht deshalb denselben Schutz wie jeder andere, angepasst an die Gegend, in der Sie leben. Was sich ändert, ist nicht ob, sondern wie viel man kontrolliert: ein Hund, der nie in hohes Gras oder Wald kommt, braucht weniger Zeckenkontrollen, aber keinen geringeren Schutz. Fragen Sie Ihren Tierarzt, welche Parasiten in Ihrer Gegend vorkommen, denn das Bild ändert sich von Ort zu Ort.
   </div>
@@ -124,6 +124,17 @@ custom_content: |
 
   </div>
 
+  <div class="related-articles">
+  <h3>Mehr zum Thema</h3>
+  <ul>
+  <li><a href="/de/staffy-reisen-transport/" title="Reisen und Transport mit Staffordshire Bull Terrier">Reisen und Transport mit Staffordshire Bull Terrier</a></li>
+  <li><a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)">Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)</a></li>
+  <li><a href="/de/welpen-erste-impfungen/" title="Erste Impfungen des Welpen: Plan und Auffrischung">Erste Impfungen des Welpen: Plan und Auffrischung</a></li>
+  <li><a href="/de/welpen-erste-fuetterung/" title="Ernährung des Welpen in den ersten Monaten">Ernährung des Welpen in den ersten Monaten</a></li>
+  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Seriöse Staffordshire Bull Terrier Zucht erkennen">Seriöse Staffordshire Bull Terrier Zucht erkennen</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>

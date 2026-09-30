@@ -2,7 +2,7 @@
 title: "Wie man Staffy-Blutlinien wählt"
 date: 2025-03-05
 titleSeo: "Staffordshire Bull Terrier Blutlinien richtig wählen"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "scelta-linee"
 articolo: true
 image: "/images/blog/standard-2.webp"
@@ -82,7 +82,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was sind Blutlinien beim Staffordshire Bull Terrier?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Eine Blutlinie ist die Gruppe von Hunden, die von einem gemeinsamen Stamm abstammen und Generation für Generation erkennbare Merkmale von Typ, Aufbau und Charakter bewahrt haben. Es ist keine offizielle Kategorie: auf der ENCI-Ahnentafel steht nicht, zu welcher Linie ein Hund gehört. Man liest es an den Namen in der Ahnentafel und an den Zuchten, die sie hervorgebracht haben, und deshalb schaut, wer selektiert, auf den Stammbaum und nicht nur auf den Hund vor sich. <strong>Eine Linie sagt, was zu erwarten ist</strong>: sie garantiert nichts über den einzelnen Welpen, zeigt aber, woran diese Zucht beständig gearbeitet hat. Auf SBTPedigree kann man viele Generationen zurückgehen und auch sehen, was ein Hund hervorgebracht hat; wie man diese Seiten liest und was die ENCI-Urkunde auslässt, steht in <a href="/de/wie-man-eine-ahnentafel-liest/" title="Wie man eine Ahnentafel liest">wie man eine Ahnentafel liest</a>.
   </div>
@@ -91,7 +91,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Welches sind die wichtigsten Blutlinien des Staffy?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">International kehren am häufigsten die Namen einiger historischer britischer und irischer Zuchten wieder, die die Rasse geprägt haben: ihre Hunde stehen heute in Ahnentafeln in halb Europa, auch mehrere Generationen zurück. Die Zucht Del Piccolo Diavolo arbeitet mit <strong>Elitebull</strong>, englisch, und <strong>Lackyle</strong>, irisch. Es sind keine zwei Alternativen: Lackyle war zuerst da, und seine historischen Hunde finden sich in den Ahnentafeln von Elitebull, die zweite Linie enthält also die erste. Die Wahl ist keine Geschmacksfrage: es sind dokumentierte, auf SBTPedigree überprüfbare Linien, die vorhersehbar vererben, und das braucht man, wenn eine Verpaarung geplant und nicht erhofft wird.
   </div>
@@ -100,7 +100,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie liest man eine Ahnentafel richtig?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Man braucht zwei verschiedene Werkzeuge. Die <strong>ENCI-Urkunde</strong> ist das offizielle Dokument: sie bescheinigt Eltern, Großeltern und Urgroßeltern und nennt eingetragene Titel und hinterlegte Untersuchungen. Aber sie zeigt weder die Gentests noch ein einziges Foto der Hunde, und ohne die Hunde zu sehen, arbeitet man mit Namen. <strong>SBTPedigree</strong> ergänzt, was fehlt: Fotos der Vorfahren Generation für Generation, hochgeladene Tests, ausländische Titel und vor allem die Nachkommen, also was dieser Hund hervorgebracht hat. Eine Ahnentafel liest man rückwärts und fragt sich zweierlei: welche Namen sich auf beiden Seiten wiederholen und was sie hinterlassen haben. Die Testverpaarung berechnet den theoretischen Inzuchtkoeffizienten eines Wurfs und zeigt, auf welche Vorfahren er sich konzentriert.
   </div>
@@ -109,7 +109,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was sollte ich einen Züchter zu den Blutlinien fragen?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Vier Fragen, alle überprüfbar. <strong>Warum haben Sie diesen Rüden für diese Hündin gewählt?</strong> Lautet die Antwort, dass es zwei schöne Hunde sind, steht kein Programm dahinter; lautet sie, dass das Gangwerk der Hündin besser sein könnte und der Rüde darin stark ist, dann schon. <strong>Welchen Inzuchtkoeffizienten hat dieser Wurf, und über wie viele Generationen?</strong> Wer ihn ohne die Generationen nennt, sagt nur die halbe Wahrheit. <strong>Auf welche Vorfahren konzentriert er sich?</strong> Zu wissen, wie stark man verengt, reicht nicht; man muss wissen, auf wen. Und zuletzt: <strong>kann ich die Befunde mit den Mikrochipnummern sehen?</strong> Die ersten drei trennen die, die planen, von denen, die einfach verpaaren; die letzte trennt die, die belegen, von denen, die erzählen.
   </div>
@@ -117,6 +117,16 @@ custom_content: |
 
   </div>
 
+  <div class="related-articles">
+  <h3>Mehr zum Thema</h3>
+  <ul>
+  <li><a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)">Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)</a></li>
+  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Seriöse Staffordshire Bull Terrier Zucht erkennen">Seriöse Staffordshire Bull Terrier Zucht erkennen</a></li>
+  <li><a href="/de/staffy-rassestandard/" title="FCI Rassestandard Staffordshire Bull Terrier">FCI Rassestandard Staffordshire Bull Terrier</a></li>
+  <li><a href="/de/staffy-pitbull-amstaff-unterschied/" title="Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich">Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>

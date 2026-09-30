@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Blutlinien Leitfaden"
 titleSeo: "Staffy-Blutlinien: die Geschichte der sechs Linien"
 date: 2025-11-08
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "linee-sangue"
 articolo: true
 image: "/images/blog/standard-1.webp"
@@ -122,7 +122,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie viele ursprüngliche Blutlinien hatte der Staffordshire Bull Terrier?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Als der britische Kennel Club die Rasse 1935 offiziell anerkannte, ging der Gründer-Genpool auf eine begrenzte Zahl von Stämmen zurück, traditionell beschrieben als <strong>sechs männliche Linien</strong>, jede mit einem Buchstaben bezeichnet. Jeder heute lebende Staffordshire Bull Terrier mit Ahnentafel stammt in unterschiedlichem Maß von diesen Stämmen ab. Nicht allen erging es gleich: manche starben fast aus, andere verbreiteten sich enorm, weil bestimmte Hunde viel produzierten und überall eingesetzt wurden. Auf SBTPedigree sieht man das deutlich, wenn man einen Stammbaum acht oder zehn Generationen zurückverfolgt &mdash; dieselben Namen tauchen über mehrere Zweige wieder auf, und deshalb steigt der Inzuchtkoeffizient, je weiter man zurückzählt.
   </div>
@@ -131,16 +131,16 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was ist die M-Linie, und warum ist sie so wichtig?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Die M-Linie ist eine der männlichen Gründerlinien der Rasse und wurde international die verbreitetste: sehr viele heutige Staffordshire Bull Terrier stammen von ihr ab, auch wenn der Name in den ersten Generationen der Ahnentafel nicht auftaucht. SBTPedigree nennt die männliche Abstammungslinie eines Hundes ausdrücklich, und das ist kein Detail für Sammler: <strong>es zeigt, woher der beständigste Teil des Erbguts kommt</strong>, der vom Vater an den Sohn weitergegeben wird. Gerade ihre Verbreitung hat eine Kehrseite: je verbreiteter eine Linie, desto leichter verdoppelt man sie bei einer Verpaarung, ohne es zu merken. Genau das zeigt eine Testverpaarung im Voraus.
+  <div class="faq-answer">Die M-Linie ist eine der männlichen Gründerlinien der Rasse und wurde international die verbreitetste: sehr viele heutige Staffordshire Bull Terrier stammen von ihr ab, auch wenn der Name in den ersten Generationen der Ahnentafel nicht auftaucht. <a href="https://sbtpedigree.com/" target="_blank" rel="noopener" title="SBTPedigree" aria-label="SBTPedigree (wird in einem neuen Tab geöffnet)">SBTPedigree</a> nennt die männliche Abstammungslinie eines Hundes ausdrücklich, und das ist kein Detail für Sammler: <strong>es zeigt, woher der beständigste Teil des Erbguts kommt</strong>, der vom Vater an den Sohn weitergegeben wird. Gerade ihre Verbreitung hat eine Kehrseite: je verbreiteter eine Linie, desto leichter verdoppelt man sie bei einer Verpaarung, ohne es zu merken. Genau das zeigt eine Testverpaarung im Voraus.
   </div>
   </div>
 
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wer war Gentleman Jim?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Gentleman Jim ist einer der Namen, die in den historischen Ahnentafeln der Rasse am häufigsten wiederkehren: ein britischer Deckrüde, geboren 1937 und 1939 erster Champion der Rasse, dessen Einfluss so weit reichte, dass er in sehr vielen Stammbäumen noch auftaucht, wenn man einige Generationen zurückgeht. Dass bestimmte Hunde so schwer wiegen, liegt nicht nur an ihrer Qualität, sondern daran, dass sie viel eingesetzt wurden, und ein viel genutzter Deckrüde vervielfacht seinen Einfluss. <strong>Das wirkt in beide Richtungen</strong>: es verbreitet die Vorzüge, aber auch die Fehler, und deshalb lohnt es sich in einer zahlenmäßig begrenzten Rasse, darauf zu achten, wie oft ein Vorfahr auftaucht, nicht nur auf seinen Ruf.
   </div>
@@ -149,7 +149,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was ist der Unterschied zwischen irischen und englischen Linien?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Weniger, als gewöhnlich behauptet wird. Beschreibungen, die feste Merkmale nach Nationalität zuordnen &mdash; die Engländer so, die Iren anders &mdash;, sind Vereinfachungen: in jeder Tradition gibt es sehr unterschiedliche Zuchten, und die Linien kreuzen sich seit Jahrzehnten. Ehrlich sagen lässt sich, dass bestimmte historische Zuchten dem Typ einen erkennbaren Stempel aufgedrückt haben und dass, wer selektiert, ihn am Hund erkennen lernt, nicht an der Flagge. Die Zucht Del Piccolo Diavolo arbeitet mit <strong>Elitebull</strong>, englisch, und <strong>Lackyle</strong>, irisch &mdash; und das sind keine Gegensätze, denn die historischen Hunde von Lackyle stehen in den Ahnentafeln von Elitebull.
   </div>
@@ -158,7 +158,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie wichtig ist der Inzuchtkoeffizient?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Er ist eine der beiden Zahlen, auf die man vor einer Verpaarung schaut, aber allein reicht er nicht. Der Koeffizient sagt Ihnen, <strong>wie stark</strong> Sie verengen, nicht <strong>auf wen</strong>: einen herausragenden Hund zu verdoppeln ist eine Selektionstechnik, einen mittelmäßigen zu verdoppeln vervielfacht seine Fehler. Der Bereich, in dem wir arbeiten, liegt bei 6 bis 9 Prozent, wobei das eine Frage des Urteils ist und keine Lehre. Es gibt auch einen technischen Punkt, den kaum jemand erklärt: die Zahl hängt davon ab, wie viele Generationen man zählt. Derselbe Hund kann über acht Generationen 9 Prozent zeigen und über die ganze Ahnentafel 21 Prozent.
   </div>
@@ -166,6 +166,25 @@ custom_content: |
 
   </div>
 
+  <a class="rimando" href="/de/wie-man-eine-ahnentafel-liest/">
+  <img src="/images/blog/pedigree-queen-hero.webp" alt="Queen of California auf einer Ausstellung" width="88" height="59" loading="lazy" decoding="async">
+  <span>
+  <span class="ti">Wie man eine Ahnentafel liest</span>
+  <span class="de">Wo man die Linien wirklich sieht: Fotos der Vorfahren, Abstammung und Inzuchtkoeffizient.</span>
+  </span>
+  </a>
+
+  <div class="related-articles">
+  <h3>Mehr zum Thema</h3>
+  <ul>
+  <li><a href="/de/wie-man-eine-ahnentafel-liest/" title="Ahnentafel lesen: was die ENCI zeigt und was nicht">Ahnentafel lesen: was die ENCI zeigt und was nicht</a></li>
+  <li><a href="/de/staffy-pitbull-amstaff-unterschied/" title="Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich">Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich</a></li>
+  <li><a href="/de/staffy-rassestandard/" title="FCI Rassestandard Staffordshire Bull Terrier">FCI Rassestandard Staffordshire Bull Terrier</a></li>
+  <li><a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)">Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)</a></li>
+  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Seriöse Staffordshire Bull Terrier Zucht erkennen">Seriöse Staffordshire Bull Terrier Zucht erkennen</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>

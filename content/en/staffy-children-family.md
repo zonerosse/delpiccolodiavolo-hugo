@@ -2,7 +2,7 @@
 title: "Staffy and Children: Family Life"
 date: 2024-05-28
 titleSeo: "Staffordshire Bull Terrier with children: family life"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "bambini"
 articolo: true
 image: "/images/blog/famiglia-1.webp"
@@ -38,7 +38,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>No dog of any breed should be left alone with a small child, and the Staffordshire Bull Terrier is no exception. Its informal name, nanny dog, describes a real tolerance, not an ability to supervise. That tolerance comes from how the breed was selected: in constant close handling, where any dog that showed aggression towards a person was removed from breeding. A well-bred, well-socialised Staffy seeks human company, tolerates handling and noise remarkably well and usually meets a child's clumsiness with patience. Temperament still varies between individuals, and early socialisation matters as much as genetics. In practice, safety depends on the adults: supervised introductions, rules that change with the child's age, teaching the child as well as the dog, a place where the dog can retreat, and noticing signs of stress before they become a growl. A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>No dog of any breed should be left alone with a small child, and the Staffordshire Bull Terrier is no exception. Its informal name, nanny dog, describes a real tolerance, not an ability to supervise. That tolerance comes from how the breed was selected: in constant close handling, where any dog that showed aggression towards a person was removed from breeding. A well-bred, well-socialised Staffy seeks human company, tolerates handling and noise remarkably well and usually meets a child's clumsiness with patience. Temperament still varies between individuals, and early socialisation matters as much as genetics. In practice, safety depends on the adults: supervised introductions, rules that change with the child's age, teaching the child as well as the dog, a place where the dog can retreat, and noticing signs of stress before they become a growl. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
   
   
@@ -96,7 +96,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is it safe to get a Staffy with a baby on the way?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">The right question is not whether the breed is safe, but whether you are in a position to manage two new things at once. A puppy needs constant attention in its first months, and those are exactly the months when a newborn needs the most: the real risk is not an incident, it is that the dog is neglected and learns badly in the very window when it would learn best. If the pregnancy is already under way, moving the puppy's arrival to after the child's first year is almost always the better choice. If the dog is already there, the work is done before the birth: getting it used to the sounds of a baby, redefining the spaces that will change and giving it a place to retreat. Either way, <strong>dog and baby are never left alone in the same room</strong>, not even for the time it takes to answer the phone.
   </div>
@@ -105,7 +105,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Puppy or adult dog with small children aged two to five?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer"><strong>With a puppy</strong> they grow up together, the bond is strong and you socialise it specifically to your children. The drawback is that it needs intensive management, training and cleaning, at the same time as you are managing small children: for many families that is too much. <strong>An adult of two years or more</strong> brings developed self-control, basic training already in place and predictability; the drawback is that its earlier history may include triggers nobody knows about. Our advice: with children under four, give serious thought to an adult whose temperament is already known. With children of five and over and experienced parents, a puppy is feasible.
   </div>
@@ -114,7 +114,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">My child is afraid of the dog. What should I do?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Never force it, and never dismiss it. Making a frightened child stroke a dog makes the fear worse and teaches the dog that hands approach when a body is stiff, which is the worst combination of all. The path is the opposite one: work on distance and let the child decide. The dog on a lead or behind a gate, the child free to stand wherever they like, and every time they look at the dog without tension something pleasant happens. Then one step closer, on different days, never within the same session. Meanwhile the child learns to handle the dog from a distance: throwing it a treat, opening the garden door for it. If the fear comes from a specific episode, or lasts for months, it is worth working with a trainer.
   </div>
@@ -123,7 +123,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">The dog seems jealous of the child. What should I do?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">What looks like jealousy is usually something simpler: the dog has lost access to things it used to have, the sofa, attention, peace and quiet, and connects that loss with the child. Correcting it does not work, because it confirms the connection: when the child is there, the telling-off comes. The remedy is to reverse it. Good things happen <strong>when the child is present</strong>: the best treat, the most interesting game, the walk. When the child is not there, the dog goes back to its normal routine. Alongside this it needs a retreat where nobody disturbs it, and firm rules for the child about when to leave it alone. If growling, stiffening or lifted lips appear, that is not a whim and it is time to call a professional, not to scold.
   </div>
@@ -132,7 +132,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">The dog bit my child during play. Do I have to give it up?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">First work out what happened, because the word bite covers very different situations. A puppy that grabs hands during play is using its mouth as it did with its littermates, and has to be taught to moderate it: stop the game every time teeth touch skin, without shouting. An adult dog that leaves a mark is something else, and the question is not whether to give it up but <strong>what happened in the three seconds before</strong>: there was almost always a signal, stiffening, a turned head, an attempt to move away, that nobody read. Until the situation is clear, dog and child are not together without an adult within arm's reach. An episode that left a mark needs assessment by a veterinary behaviourist, not advice found online.
   </div>
@@ -141,7 +141,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How do I teach my child to respect the dog?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">With a few absolute rules, repeated until they become automatic, and with the example of the adults. The three that matter most: <strong>a sleeping dog is not disturbed</strong>, <strong>a dog that is eating is not touched</strong>, and <strong>a dog is not hugged around the neck</strong>. A hug is a human gesture that, for a dog, means being pinned, and it is the dynamic behind a great many incidents at home. Then there is the positive part, which works better than prohibitions: giving the child a role in caring for the dog, suited to their age. Filling the water bowl, getting the lead ready, hiding treats for a scent search. A child who takes part learns to read the dog much sooner than one who is only told what not to do.
   </div>
@@ -150,7 +150,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">The Staffy is too boisterous and jumps up. How do I calm it?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">In the short term, manage the environment: a lead indoors when the children are around, so you can stop the jump before it starts. Reward four paws on the floor, with a treat each time the dog holds the position, and make <strong>a sit compulsory before every interaction</strong>: if it does not sit, the child turns away and the game does not start. Pushing the dog away or raising your voice does not work, because for an excited dog it is still attention. In the long term the cause is almost always unspent energy: thirty to sixty minutes of exercise before the critical moments changes the picture, and scent work tires more than running. The Staffy is compact but heavy: a jump that annoys an adult knocks a four-year-old over.
   </div>
@@ -159,7 +159,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">At what age can a child walk the dog alone?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Not before fourteen, and it is not a question of maturity but of physics and legal responsibility. An adult Staffordshire Bull Terrier weighs between 12 and 17 kilos and pulls far harder than its size suggests: if it sets off after a cat, a ten-year-old will not hold it, however capable. And in the event of an incident the responsibility still falls on an adult, because the law, in Italy as in most countries, expects whoever holds the dog to be able to control it. Before that age the child can hold the lead next to an adult holding a second one, which is excellent practice for both. The dog matters too: one that is reactive towards other dogs is not handed to a teenager even at sixteen.
   </div>
@@ -167,6 +167,17 @@ custom_content: |
 
   </div>
 
+  <div class="related-articles">
+  <h3>More on this topic</h3>
+  <ul>
+  <li><a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it really means">Socialised puppies: what it really means</a></li>
+  <li><a href="/en/staffy-elderly-owners/" title="Is a Staffordshire Bull Terrier right for older owners?">Is a Staffordshire Bull Terrier right for older owners?</a></li>
+  <li><a href="/en/staffy-other-pets/" title="Staffordshire Bull Terrier with other pets at home">Staffordshire Bull Terrier with other pets at home</a></li>
+  <li><a href="/en/puppy-home-socialization/" title="Socialising the puppy at home: the family checklist">Socialising the puppy at home: the family checklist</a></li>
+  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious Staffy breeder">How to recognise a serious Staffy breeder</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   </div>

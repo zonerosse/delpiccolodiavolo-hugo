@@ -10,7 +10,7 @@ thumb: "/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier
 description: "Otto criteri per riconoscere un allevamento Staffordshire Bull Terrier serio, ognuno con il modo di verificarlo. Con i nostri documenti come esempio."
 slug: "come-scegliere-allevamento-staffordshire-bull-terrier"
 date: 2026-01-18
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 ---
 
 <section class="hero">
@@ -145,7 +145,7 @@ lastmod: 2026-09-29
 
 <h2>Un'ultima cosa sul denaro</h2>
 
-<p>Una cifra molto bassa per un cucciolo con pedigree non è un affare: è la conseguenza di qualcosa che non è stato fatto. Test non eseguiti, pedigree mancante, cuccioli staccati troppo presto dalla madre, veterinario saltato. Quel risparmio torna indietro, e non solo in denaro. Da cosa è composto davvero il costo di un cucciolo ne parliamo <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">in una pagina dedicata</a>.</p>
+<p>Una cifra molto bassa per un cucciolo con pedigree non è un affare: è la conseguenza di qualcosa che non è stato fatto. Test non eseguiti, pedigree mancante, cuccioli staccati troppo presto dalla madre, veterinario saltato. Quel risparmio torna indietro, e non solo in denaro. Da cosa è composto davvero il costo di un cucciolo ne parliamo nella guida sul <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Prezzo di un cucciolo di Staffordshire Bull Terrier">prezzo di un cucciolo di Staffordshire Bull Terrier</a>.</p>
 
 <p>Detto questo: chiedere quanto costa è una domanda legittima e va fatta presto. Un cane sono dodici o quattordici anni di spese ordinarie, che pesano più della cifra iniziale.</p>
 

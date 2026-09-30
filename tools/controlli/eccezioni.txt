@@ -1,0 +1,11 @@
+# Decisioni gia' prese da Paolo: questi casi non vengono piu' segnalati.
+# Formato:  codice-del-controllo | percorso    # motivo e data
+titolo | /en/    # title della home EN oltre i 60 caratteri: va bene cosi' (settembre 2026)
+titolo | /de/    # title della home DE oltre i 60 caratteri: va bene cosi' (settembre 2026)
+kw_concorrenza | /allevamento-staffordshire-bull-terrier-in-emilia-romagna/    # landing voluta per "allevamento staffordshire bull terrier in emilia romagna" (settembre 2026)
+kw_concorrenza | /come-scegliere-allevamento-staffordshire-bull-terrier/    # guida su come scegliere: intento diverso, collega la home (settembre 2026)
+kw_concorrenza | /en/how-to-choose-a-staffordshire-bull-terrier-breeder/    # come sopra, in inglese
+kw_concorrenza | /blog/    # elenco delle guide, non compete per "cuccioli"
+kw_concorrenza | /cuccioli-giochi-mentali/    # guida, intento diverso
+kw_concorrenza | /en/puppy-mental-games/    # guida, intento diverso
+kw_concorrenza | /de/welpen-denkspiele/    # guida, intento diverso

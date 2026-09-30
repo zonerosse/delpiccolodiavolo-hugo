@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Litters"
 titleSeo: "Staffordshire Bull Terrier litters: planned and past"
 date: 2025-12-28
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 tipoPagina: "CollectionPage"
 translationKey: "programma"
 description: "Staffordshire Bull Terrier litters at Del Piccolo Diavolo: planned and past pairings, the parents, their L2HGA and HC tests, and how we decide each mating."
@@ -114,6 +114,14 @@ custom_content: |
   <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">A pairing planned to combine the champion morphology of Bilquis (Italian Champion, 4th at the 2024 World Dog Show) with the lines of Black Jack, son of the 2023 World Champion Quash Marvelous Hagler de Stafflorence. Born 1 August 2026, black puppies. Litter complete: not available.</p>
   
   <p class="pedigree-link">Litter pedigree: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" title="View Bilquis x Black Jack litter pedigree" aria-label="View the full pedigree of the 1 August 2026 litter on SBTPedigree (opens in a new tab)">view on SBTPedigree</a></p>
+  <div class="related-articles">
+  <h3>More on this topic</h3>
+  <ul>
+  <li><a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="Staffordshire Bull Terrier puppy price explained">Staffordshire Bull Terrier puppy price explained</a></li>
+  <li><a href="/en/how-to-read-a-pedigree/" title="How to read a pedigree: what ENCI shows and what it doesn&#x27;t">How to read a pedigree: what ENCI shows and what it doesn't</a></li>
+  </ul>
+  </div>
+  
   </article>
   
   <!-- Litter 1: Heat × Nora - COMING -->
@@ -238,7 +246,14 @@ custom_content: |
   <h2 class="section-title">How a mating is planned</h2>
   <p>A mating at Del Piccolo Diavolo is planned months ahead and always follows the same path. It starts with the genetic tests of both breeding dogs for L2HGA and HC, and for the female also DM-SOD1; then the pedigrees are studied on SBTPedigree with its test-mating function, which shows the theoretical coefficient of inbreeding of the puppies and which ancestors it concentrates on. We work within a range of 6 to 9 per cent: below it you lose the chance to fix a character, above it you tighten too much. The male almost always comes from outside, chosen to correct what the female lacks rather than to add two beautiful dogs together. The result is one litter a year, occasionally two, and in some years none.</p>
   <p><strong>What we test before every mating.</strong> No breeding dog enters the programme without the tests for L2HGA and HC, the two genetic diseases of the breed; the females are also tested for degenerative myelopathy (DM-SOD1). The reports are published on the dogs' pages with the microchip number in plain view, and how those tests work is explained in the <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Genetic testing L2-HGA and HC">genetic testing guide</a>.</p>
-  <p><strong>How you get to a puppy.</strong> The programme is open: for every mating we say who the parents are, which tests they have and why we chose them. Anyone who wants to go further can ask about the results of earlier matings and see the dogs in person. What comes with a puppy is on the <a href="/en/puppies-staffordshire-bull-terrier/" title="Our puppies">puppies page</a>; if you live outside Italy, the timing and documents are on the page about <a href="/en/staffordshire-bull-terrier-puppy-abroad/" title="A puppy going abroad">a puppy going abroad</a>.</p>
+  <p><strong>How you get to a puppy.</strong> The programme is open: for every mating we say who the parents are, which tests they have and why we chose them. Anyone who wants to go further can ask about the results of earlier matings and see the dogs in person. What comes with a puppy is on the <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies page</a>; if you live outside Italy, the timing and documents are on the page about <a href="/en/staffordshire-bull-terrier-puppy-abroad/" title="A puppy going abroad">a puppy going abroad</a>.</p>
+  <a class="rimando" href="/en/how-to-read-a-pedigree/">
+  <img src="/images/blog/pedigree-queen-hero.webp" alt="Queen of California at a show" width="88" height="59" loading="lazy" decoding="async">
+  <span>
+  <span class="ti">How we study a mating before doing it</span>
+  <span class="de">The test mating, the coefficient and which ancestors are doubled up: with Queen's numbers.</span>
+  </span>
+  </a>
   </div>
   </section>
 

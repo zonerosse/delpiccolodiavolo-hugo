@@ -1,7 +1,7 @@
 ---
-title: "About Us - Staffordshire Bull Terrier Breeder"
+title: "About us – the breeder behind Del Piccolo Diavolo"
 date: 2025-12-28
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 tipoPagina: "ProfilePage"
 translationKey: "chi-siamo"
 description: "Del Piccolo Diavolo, Staffordshire Bull Terrier kennel in Ostellato (Ferrara), Italy, since 2013: who breeds the dogs, how pairings are chosen, how to visit."
@@ -25,7 +25,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Since 2013</span>
-  <h1 class="hero-title">About <br><em>Us</em></h1>
+  <h1 class="hero-title">About us – <em>the breeder behind Del Piccolo Diavolo</em></h1>
   <p class="hero-subtitle">Since 2013 in Ostellato, province of Ferrara</p>
   <p class="hero-description">Family kennel in Ostellato (FE), Italy. Healthy, balanced and typical Staffordshire Bull Terriers with Elitebull and Lackyle bloodlines.</p>
   <div class="hero-actions">
@@ -147,6 +147,13 @@ custom_content: |
   <p>We tell every family the same thing: if one day you can no longer keep the dog, it comes back to us. Since 2013 it has never been needed &mdash; where those dogs ended up is told in <a href="/en/staffordshire-family-life-stories/" title="Family stories">the family stories</a>.</p>
 
 
+  <div class="related-articles">
+  <h3>More on this topic</h3>
+  <ul>
+  <li><a href="/en/females-staffordshire-bull-terrier/" title="Our female Staffies: microchips and pedigrees">Our female Staffies: microchips and pedigrees</a></li>
+  </ul>
+  </div>
+  
   <section class="cta-section">
   <h2>Want to Meet Us?</h2>
   <p>Come visit us in Ostellato (FE) or contact us on WhatsApp</p>

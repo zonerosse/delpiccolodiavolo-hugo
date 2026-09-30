@@ -2,7 +2,7 @@
 title: "Palmares - Our Show Results"
 titleSeo: "Palmares: Italian and international champions since 2013"
 date: 2026-01-04
-lastmod: 2026-09-28
+lastmod: 2026-09-30
 tipoPagina: "CollectionPage"
 translationKey: "palmares"
 description: "Results and titles of our Staffordshire Bull Terriers: Italian Champions, Junior Champions, Best of Breed. Del Piccolo Diavolo Kennel, Italy."
@@ -19,6 +19,7 @@ custom_content: |
   <h2 class="section-title">Champions Bred by Us</h2>
   
   <div class="intro-block">
+  <p>Dogs bred by Del Piccolo Diavolo have so far won one Italian Champion title, three Italian Junior Champion titles &mdash; Bilquis, Lothar, who is also Slovenian Champion, and Queen of California &mdash; and the Junior Champion and Champion titles of San Marino, as well as a fourth place at the World Dog Show with Bilquis Goddess Diabhal, who has twelve consecutive shows with Excellent first behind her. In May 2026 Queen of California won the Italian Junior Champion title at the National Show in Albarella. They are all dogs born and raised here, not bought already titled. Show results cannot be self-certified: show catalogues are public, and the judges who assessed these dogs have a name and a surname. Titles are only part of it, though: what life these dogs lead today is told in the <a href="/en/staffordshire-family-life-stories/" title="Family stories">family stories</a>.</p>
   <p>Del Piccolo Diavolo's selection is based on three pillars: health, character and breed type. Show results are not an end in themselves, but confirmation that our breeding program produces dogs conforming to the breed standard. All dogs presented were born and raised in our kennel.</p>
   </div>
   
@@ -44,6 +45,8 @@ custom_content: |
   <p style="font-size:0.85rem;margin:0">Excellent</p>
   </div>
   </div>
+
+  <p style="text-align:center;margin-top:1rem">Our puppies are born from these dogs. Visit the <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies</a> page to find out about the next litters.</p>
   </div>
   </section>
   
@@ -205,6 +208,7 @@ custom_content: |
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem">
   <h3>ENCI Junior Italian Champion</h3>
   <p>Lothar won the Junior Italian Champion title with an impressive series of results in Junior Class. Now in Intermediate Class, he continues his show career collecting Excellent qualifications and CAC.</p>
+  <p><strong>January 2026:</strong> new Slovenian Champion! An outstanding weekend at the international shows in Vrtojba, with 3 Excellent 1st, completing the Slovenian title.</p>
   </div>
   </div>
   </div>
@@ -330,6 +334,7 @@ custom_content: |
   
   </div>
   
+  <p>Daughter of CH. Elitebull Prospect × Lackyle Bean Croí Olc, from the litter of 1 February 2025. Owner: Stefano Tevini. Handler: Vittoria Passerini, in her tenth year of showing, which began in Albarella itself in 2016, in Junior Handling at the age of seven.</p>
   <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">Sire: CH. Elitebull Prospect. Dam: Lackyle Bean Croí Olc. Owner: Stefano Tevini. Handler: Vittoria Passerini.</p>
   
   </div>
@@ -340,6 +345,13 @@ custom_content: |
   <p>Show results confirm our commitment: typical, healthy dogs with balanced character. We don't buy already titled dogs: we breed them, raise them, show them. That's the difference. Bilquis was also the subject of an article in <a href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" target="_blank" rel="noopener" aria-label="FerraraToday article about Bilquis (opens in a new tab)">FerraraToday</a>, the Ferrara news site, on 6 January 2026.</p>
   <a href="/en/females-staffordshire-bull-terrier/" class="btn" title="See our females">Discover Our Dogs</a>
   </section>
+  
+  <div class="related-articles">
+  <h3>More on this topic</h3>
+  <ul>
+  <li><a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Puppies, verifiable genetic tests">Staffordshire Bull Terrier Puppies, verifiable genetic tests</a></li>
+  </ul>
+  </div>
   
   <section class="cta-section">
   <h2>Want a Puppy from Winning Lines?</h2>

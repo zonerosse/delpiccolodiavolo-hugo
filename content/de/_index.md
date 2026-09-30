@@ -2,9 +2,9 @@
 title: "Staffordshire Bull Terrier Zucht"
 titleSeo: "Staffordshire Bull Terrier Züchter in Italien"
 date: 2025-12-28
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "home"
-description: "Ethische Staffordshire Bull Terrier Zucht seit 2013. ENCI-Ahnentafel, Gentest-Befunde und Mikrochips der Zuchttiere online veröffentlicht und überprüfbar."
+description: "Ethischer Staffordshire Bull Terrier Züchter seit 2013. ENCI-Ahnentafel, Gentest-Befunde und Mikrochips der Zuchttiere online veröffentlicht und überprüfbar."
 correlati:
   - url: "/de/welpen-staffordshire-bull-terrier/"
     titolo: "Welpen"
@@ -26,7 +26,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow"><a href="/de/bewertungen/" title="Bewertungen lesen" style="color:inherit;text-decoration:none">⭐ <!--REC-VOTO--> bei <!--REC-TOTALE--> Bewertungen →</a></span>
-  <h1 class="hero-title">Staffordshire <br><em>Bull Terrier</em> <br>Zucht</h1>
+  <h1 class="hero-title">Staffordshire <br><em>Bull Terrier</em> <br>Züchter</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo - Selektion, Gesundheit und Charakter</p>
   <p class="hero-description">In Ostellato (Ferrara, Italien) seit 2013. Zuchttiere auf L2HGA und HC (HSF4) getestet, die Zuchthündinnen zusätzlich auf DM-SOD1, mit veröffentlichten Befunden und Mikrochipnummern im Klartext. 1 Italienischer Champion, 3 Italienische Jugendchampions, 4. bei der World Dog Show.</p>
   <div class="hero-actions">
@@ -95,7 +95,7 @@ custom_content: |
 
   <p>Manchmal versteht man eine Zucht besser an dem, was sie nicht tut.</p>
 
-  <p>Die Zucht Del Piccolo Diavolo in Ostellato, Provinz Ferrara, Italien, hat nicht das ganze Jahr über Staffordshire Bull Terrier Welpen: es wird ein Wurf im Jahr geboren, gelegentlich zwei, in manchen Jahren keiner. Sie versendet keine Hunde per Kurier oder im Frachtraum eines Flugzeugs und übergibt nicht auf halbem Weg: wer einen Welpen nimmt, kommt nach Ostellato und sieht die Mutter und den Ort, an dem er aufgewachsen ist. Jeder Welpe geht mit der ENCI-Ahnentafel, die kein Extra ist und nicht gesondert berechnet wird, nach den 60 Tagen, die das italienische Gesetz vorschreibt. Die Zuchttiere sind auf L2HGA und HC (Gen HSF4) getestet, die aktiven Zuchthündinnen zusätzlich auf degenerative Myelopathie (Gen SOD1), und die Laborbefunde &mdash; mit der Mikrochipnummer des Hundes darauf &mdash; sind auf der Website veröffentlicht und können heruntergeladen werden, ohne dass man danach fragen muss.</p>
+  <p>Die Zucht Del Piccolo Diavolo in Ostellato, Provinz Ferrara, Italien, hat nicht das ganze Jahr über <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Staffordshire Bull Terrier Welpen</a>: es wird ein Wurf im Jahr geboren, gelegentlich zwei, in manchen Jahren keiner. Sie versendet keine Hunde per Kurier oder im Frachtraum eines Flugzeugs und übergibt nicht auf halbem Weg: wer einen Welpen nimmt, kommt nach Ostellato und sieht die Mutter und den Ort, an dem er aufgewachsen ist. Jeder Welpe geht mit der ENCI-Ahnentafel, die kein Extra ist und nicht gesondert berechnet wird, nach den 60 Tagen, die das italienische Gesetz vorschreibt. Die Zuchttiere sind auf L2HGA und HC (Gen HSF4) getestet, die aktiven Zuchthündinnen zusätzlich auf degenerative Myelopathie (Gen SOD1), und die Laborbefunde &mdash; mit der Mikrochipnummer des Hundes darauf &mdash; sind auf der Website veröffentlicht und können heruntergeladen werden, ohne dass man danach fragen muss.</p>
 
   <p><strong>Wir haben nicht das ganze Jahr über Welpen.</strong> Ein Wurf, gelegentlich zwei, manchmal keiner. Wenn Sie uns zu einem Zeitpunkt schreiben, an dem es keine gibt, lautet die Antwort, dass es keine gibt: wir bieten Ihnen nicht den Welpen eines Bekannten an und drängen Sie nicht zu einem künftigen Wurf.</p>
 
@@ -283,7 +283,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question" >
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was kostet ein Staffordshire Bull Terrier mit ENCI-Ahnentafel?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Es gibt keine Preisliste: was man bezahlt, spiegelt Kosten wider, die schon vor der Geburt der Welpen entstehen. Die Gentests der Zuchttiere auf L2HGA und HC, die Eintragung des Wurfs ins ENCI-Zuchtbuch zu öffentlichen Gebühren, die tierärztlichen Untersuchungen in der Trächtigkeit, der Ultraschall und das Röntgenbild vor der Geburt, die ersten Impfungen, die Entwurmungen und der Mikrochip. <strong>Ein sehr niedriger Preis bedeutet fast immer, dass etwas fehlt</strong>: die Tests, die Ahnentafel, oder Welpen, die vor den vom italienischen Gesetz vorgeschriebenen 60 Tagen von der Mutter getrennt wurden. Jeder Welpe geht mit Impfungen, Mikrochip, Entwurmungen, den Testbescheinigungen der Eltern und der Unterstützung der Zucht Del Piccolo Diavolo für das ganze Leben des Hundes.</div>
   </div>
@@ -291,7 +291,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question" >
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Welche Gentests führen Sie bei den Zuchttieren durch?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Alle Zuchttiere von Del Piccolo Diavolo werden auf <strong>L2-HGA</strong>, die L-2-Hydroxyglutarazidurie, eine neurologische Erkrankung, und auf <strong>HC</strong>, den juvenilen erblichen Katarakt (Gen HSF4), getestet. Die aktiven Zuchthündinnen zusätzlich auf <strong>degenerative Myelopathie</strong> (Gen SOD1), eine Erkrankung des Rückenmarks, die nach dem achten Lebensjahr auftritt. Alle sind DNA-Tests, und alle drei Krankheiten werden rezessiv vererbt: zwei freie Elterntiere können keine erkrankten Welpen hervorbringen. Träger von L2-HGA und HC werden nicht zur Zucht eingesetzt. Die Laborbefunde sind auf dieser Website veröffentlicht und können heruntergeladen werden, mit der <strong>Mikrochipnummer des Hundes im Klartext</strong>: erst diese Nummer macht das Dokument überprüfbar, denn ohne sie ließe es sich keinem bestimmten Tier zuordnen.</div>
   </div>

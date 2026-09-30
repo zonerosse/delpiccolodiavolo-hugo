@@ -2,7 +2,7 @@
 title: "Staffy and Other Pets"
 date: 2024-06-18
 titleSeo: "Staffordshire Bull Terrier with other pets at home"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "altri-animali"
 articolo: true
 image: "/images/blog/famiglia-3.webp"
@@ -38,7 +38,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>The Staffordshire Bull Terrier is a terrier, and reactivity towards other dogs exists, especially between individuals of the same sex once they reach social maturity, between 18 months and three years. Socialisation reduces it but does not remove it: a dog that is fine at the park may refuse a housemate, because at home the other dog never leaves. The breed also keeps a residual prey drive towards small, fast-moving animals. Living with another dog, a cat or small pets is therefore prepared before it starts: assess your own dog honestly, set up the house with separate spaces and barriers, introduce the animals step by step, and manage bowls, toys and beds, where most conflicts actually begin. With a cat it takes weeks, not days. With rabbits, rodents and birds, supervision never relaxes. A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>The Staffordshire Bull Terrier is a terrier, and reactivity towards other dogs exists, especially between individuals of the same sex once they reach social maturity, between 18 months and three years. Socialisation reduces it but does not remove it: a dog that is fine at the park may refuse a housemate, because at home the other dog never leaves. The breed also keeps a residual prey drive towards small, fast-moving animals. Living with another dog, a cat or small pets is therefore prepared before it starts: assess your own dog honestly, set up the house with separate spaces and barriers, introduce the animals step by step, and manage bowls, toys and beds, where most conflicts actually begin. With a cat it takes weeks, not days. With rabbits, rodents and birds, supervision never relaxes. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
   
   
@@ -100,7 +100,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How long does a successful introduction really take?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">It depends on the two animals, but an honest order of magnitude is this: <strong>two to four weeks</strong> for an easy introduction, a puppy with a balanced adult of the other sex, and <strong>two to six months</strong> when both are adults or when one of them has already had problems. With a resident cat it generally takes longer, ten to sixteen weeks at least, because the cat sets its own pace and cannot be hurried. What matters is not the arrival date but the sequence: scent exchange, meetings at a distance, short meetings on neutral ground, and only at the end living together in the house. Skipping a step because things seem to be going well is the commonest mistake, and redoing everything costs far more than the time saved.
   </div>
@@ -109,7 +109,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Can I skip the scent exchange and go straight to meetings?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">You can, and sometimes it works anyway, but it is a bet not worth making. Dogs and cats build much of their social map on smell: bringing them together before they know each other by scent means introducing two strangers at the moment of greatest excitement. Exchanging bedding, beds or a cloth rubbed on one and left with the other for a few days costs nothing and turns the first meeting into a recognition rather than a discovery. The real problem is that if the first meeting goes badly, what remains is not a delay: it is <strong>a negative association that has to be undone</strong>, which takes far longer than the time saved by skipping the phase.
   </div>
@@ -118,7 +118,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">My Staffy attacked another animal once. Is it over?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">No, but the plan changes. A single episode does not define a dog, but it has to be analysed rather than forgotten: <strong>what happened in the minutes before</strong>, who was there, where, and whether a resource was at stake, food, a narrow passage, a person. Most incidents at home come from competition over a resource or from a dog that could not disengage and raised the level. From then on, living together is managed with physical separation whenever nobody is supervising, and with a programme guided by a trainer or a veterinary behaviourist. What does not work is hoping it will pass by itself: repeated episodes tend to come faster, because the dog learns that it works.
   </div>
@@ -127,7 +127,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is it better to bring a Staffy puppy to a resident animal, or the reverse?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">A puppy of eight to sixteen weeks joining a resident adult dog or cat is usually the easiest combination, provided the resident is tolerant: the puppy learns the social rules from it. Bear in mind, though, that between six and eighteen months the puppy's energy becomes very high and can stress an older animal. A well-socialised adult Staffy with a new puppy is feasible, but the puppy remains vulnerable to play that is too rough. The ideal is two young adults of two to five years with compatible energy. An adult Staffy joining a household with a resident cat is the combination that most often needs professional help.
   </div>
@@ -136,7 +136,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Can they live together without constant supervision?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">In time, yes, but supervision is not removed by decision, it is removed by accumulated evidence, and in some cases it is never removed. The sensible path is gradual: first total separation when you are out, then very short absences with visual separation, then longer ones, always with a place where each animal can retreat. The criterion for moving on is not the calendar but behaviour: two animals that calmly ignore each other are ready, two that keep checking on each other are not. With animals of very different size, with a dog and a cat, or with a cat that has no escape routes at height, separation when nobody is home remains the prudent choice. An incident at home takes two seconds.
   </div>
@@ -145,7 +145,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is a professional trainer worth the cost?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">A home consultation costs roughly 60 to 120 euros in Italy, and a programme of a few sessions 200 to 500. That seems like money until you set it beside the alternatives: an emergency visit after an episode, surgery on a cat, or the permanent separation of two animals living in the same house, which is a daily cost rather than a one-off. It is worth calling <strong>before</strong>, while you are planning the introduction, not after the first problem: a trainer who sets up the sequence from the start works on a blank page, whereas one who arrives after an incident first has to undo a negative association. Choose a professional who works with positive methods and comes to see the house, rather than one who advises over the phone.
   </div>
@@ -154,7 +154,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">My Staffy is fine at the park but will not accept a new dog at home. Why?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Because they are two completely different situations, even if we call both meeting a dog. At the park the territory belongs to nobody, there is space and a way out, the meeting lasts a few minutes and ends when one of them walks away. At home the territory is his, the resources that matter, food, bed, the people, are there, the space is tight and above all <strong>the other dog never leaves</strong>. A dog that is sociable outside can therefore refuse a housemate, and that is not a contradiction: it is exactly what should be expected. An introduction at home has to be built with the complete sequence, starting from meetings on neutral ground and reaching living together only by degrees, and it helps to remove contested resources for a while.
   </div>
@@ -163,7 +163,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How do I know the arrangement has definitely failed?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">It is the question nobody wants to ask, and it is right to have criteria rather than go on feelings. The signs that say enough are few and clear: <strong>repeated attacks despite a professional programme genuinely followed</strong>, injuries that need a vet, one of the animals that stops eating or using its litter tray, hides for whole days or shows physical signs of chronic stress. If after six months of guided work the situation has not improved, persisting hurts both. Recognising it is not a personal failure: it means choosing the animals' welfare over the idea you had formed. In that case the answer is a home where each can live without the other, and for dogs bred by the Del Piccolo Diavolo kennel, that home is here.
   </div>
@@ -181,6 +181,15 @@ custom_content: |
   </ul>
   </div>
 
+  <div class="related-articles">
+  <h3>More on this topic</h3>
+  <ul>
+  <li><a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it really means">Socialised puppies: what it really means</a></li>
+  <li><a href="/en/puppy-home-socialization/" title="Socialising the puppy at home: the family checklist">Socialising the puppy at home: the family checklist</a></li>
+  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious Staffy breeder">How to recognise a serious Staffy breeder</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   </div>

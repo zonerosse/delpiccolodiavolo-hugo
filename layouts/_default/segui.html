@@ -40,8 +40,8 @@
   <div class="box">
     <h2>{{ .Params.scegli }}</h2>
     <div class="btns">
-      <a class="btn btn-primary" href="https://feedly.com/i/subscription/feed/{{ $feed | urlquery }}" target="_blank" rel="noopener nofollow" title="Feedly">{{ .Params.feedly }}</a>
-      <a class="btn btn-ghost" href="https://www.inoreader.com/?add_feed={{ $feed | urlquery }}" target="_blank" rel="noopener nofollow" title="Inoreader">{{ .Params.inoreader }}</a>
+      <a class="btn btn-primary" href="https://feedly.com/i/subscription/feed/{{ $feed | urlquery }}" target="_blank" rel="noopener nofollow" title="Feedly" aria-label="{{ .Params.feedly }} {{ if eq .Site.Language.Lang "en" }}(opens in a new tab){{ else if eq .Site.Language.Lang "de" }}(wird in einem neuen Tab geöffnet){{ else }}(si apre in una nuova scheda){{ end }}">{{ .Params.feedly }}</a>
+      <a class="btn btn-ghost" href="https://www.inoreader.com/?add_feed={{ $feed | urlquery }}" target="_blank" rel="noopener nofollow" title="Inoreader" aria-label="{{ .Params.inoreader }} {{ if eq .Site.Language.Lang "en" }}(opens in a new tab){{ else if eq .Site.Language.Lang "de" }}(wird in einem neuen Tab geöffnet){{ else }}(si apre in una nuova scheda){{ end }}">{{ .Params.inoreader }}</a>
     </div>
     <p style="font-size:.9rem;margin-bottom:.5rem;color:#4a3f35">{{ .Params.altro }}</p>
     <div class="copia">

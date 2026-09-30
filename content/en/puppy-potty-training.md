@@ -2,7 +2,7 @@
 title: "Puppies: Potty Training"
 date: 2025-05-22
 titleSeo: "Puppy potty training: method, timing and setbacks"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "bisogni"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -46,7 +46,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>House training a Staffordshire Bull Terrier puppy depends on physical development, not intelligence, so it cannot be rushed. A puppy of 8 weeks cannot hold its bladder for more than one or two hours; a useful rule of thumb is about one hour per month of age plus one, and less while the puppy is awake and active. Take it out at the predictable moments, after waking, after eating, after play and before sleep, and reward it outside, straight after it has finished. Never punish accidents: the puppy does not connect your reaction with something it did minutes earlier, it learns that going in front of you is dangerous and starts hiding behind the sofa instead. Clean with an enzymatic cleaner, never with ammonia. Most puppies are reliable by day at four months and dry overnight between four and six. A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>House training a Staffordshire Bull Terrier puppy depends on physical development, not intelligence, so it cannot be rushed. A puppy of 8 weeks cannot hold its bladder for more than one or two hours; a useful rule of thumb is about one hour per month of age plus one, and less while the puppy is awake and active. Take it out at the predictable moments, after waking, after eating, after play and before sleep, and reward it outside, straight after it has finished. Never punish accidents: the puppy does not connect your reaction with something it did minutes earlier, it learns that going in front of you is dangerous and starts hiding behind the sofa instead. Clean with an enzymatic cleaner, never with ammonia. Most puppies are reliable by day at four months and dry overnight between four and six. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
   
   
@@ -87,6 +87,16 @@ custom_content: |
   <p>Too much freedom too early: a puppy loose in a whole house will find a quiet corner. Restrict the available space until reliability is established, and expand it gradually.</p>
   <p>And giving up at 3 months because it is not finished. It is not supposed to be finished at 3 months.</p>
 
+  <div class="related-articles">
+  <h3>Related articles</h3>
+  <ul>
+  <li><a href="/en/puppy-home-socialization/" title="Socialising the puppy at home: the family checklist">Socialising the puppy at home: the family checklist</a></li>
+  <li><a href="/en/puppy-first-walk/" title="A puppy&#x27;s first walk: when to start and how">A puppy's first walk: when to start and how</a></li>
+  <li><a href="/en/puppy-initial-feeding/" title="Feeding a Staffordshire Bull Terrier puppy: first months">Feeding a Staffordshire Bull Terrier puppy: first months</a></li>
+  <li><a href="/en/puppy-alone-time/" title="Teaching a puppy to stay alone without stress">Teaching a puppy to stay alone without stress</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   

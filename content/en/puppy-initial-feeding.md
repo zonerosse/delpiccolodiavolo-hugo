@@ -2,7 +2,7 @@
 title: "Puppies: Initial Feeding"
 date: 2025-04-15
 titleSeo: "Feeding a Staffordshire Bull Terrier puppy: first months"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -46,7 +46,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>A Staffordshire Bull Terrier puppy should eat exactly what the breeder was feeding for at least its first week at home. Any change after that is made over 7 to 10 days, a quarter, then half, then three quarters of the new food, going back a step if the stools loosen. Until 6 months the puppy has three meals a day, at regular times, and from then on two, which should continue for life: a single large meal in a deep-chested breed is a risk factor for gastric torsion. Portions follow body condition rather than the chart on the bag, adjusted by 10 per cent at a time. Treats should stay under 10 per cent of the daily intake. Diarrhoea lasting more than 24 hours, or with blood, needs a vet the same day. A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>A Staffordshire Bull Terrier puppy should eat exactly what the breeder was feeding for at least its first week at home. Any change after that is made over 7 to 10 days, a quarter, then half, then three quarters of the new food, going back a step if the stools loosen. Until 6 months the puppy has three meals a day, at regular times, and from then on two, which should continue for life: a single large meal in a deep-chested breed is a risk factor for gastric torsion. Portions follow body condition rather than the chart on the bag, adjusted by 10 per cent at a time. Treats should stay under 10 per cent of the daily intake. Diarrhoea lasting more than 24 hours, or with blood, needs a vet the same day. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
   
   
@@ -81,6 +81,25 @@ custom_content: |
   <p>An overweight puppy is not a healthy puppy, and in this breed excess weight is easy to miss under muscle. Growing joints carry the load for a year, and the damage from excess weight during growth does not reverse.</p>
   <p>Weigh the puppy weekly on the same scales and write it down. Steady, moderate growth is the goal; rapid growth is not an achievement. If in doubt, ask your veterinarian to body-condition score the puppy at each vaccination visit, which takes 10 seconds and is more useful than any chart.</p>
 
+  <div class="related-articles">
+  <h3>Related articles</h3>
+  <ul>
+  <li><a href="/en/puppy-home-socialization/" title="Socialising the puppy at home: the family checklist">Socialising the puppy at home: the family checklist</a></li>
+  <li><a href="/en/puppy-first-vaccinations/" title="Puppy first vaccinations: schedule and boosters">Puppy first vaccinations: schedule and boosters</a></li>
+  <li><a href="/en/puppy-potty-training/" title="Puppy potty training: method, timing and setbacks">Puppy potty training: method, timing and setbacks</a></li>
+  <li><a href="/en/staffy-parasite-prevention/" title="Parasite Prevention for Staffordshire Bull Terrier">Parasite Prevention for Staffordshire Bull Terrier</a></li>
+  </ul>
+  </div>
+  
+  <div class="related-articles">
+  <h3>More on this topic</h3>
+  <ul>
+  <li><a href="/en/puppy-mental-games/" title="Mental games for Staffordshire Bull Terrier puppies">Mental games for Staffordshire Bull Terrier puppies</a></li>
+  <li><a href="/en/puppy-worming-faecal-tests/" title="Puppy worming: protocol and faecal test results">Puppy worming: protocol and faecal test results</a></li>
+  <li><a href="/en/staffy-safe-exercise/" title="Safe Exercise for Staffordshire Bull Terrier">Safe Exercise for Staffordshire Bull Terrier</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   

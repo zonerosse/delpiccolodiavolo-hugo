@@ -2,7 +2,7 @@
 title: "Socialising the Puppy at Home: the Family Checklist"
 date: 2025-03-18
 titleSeo: "Socialising the puppy at home: the family checklist"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "socializzazione"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
@@ -46,7 +46,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Socialising a Staffordshire Bull Terrier puppy depends on a window that closes early. From roughly the third to the twelfth week of life, with the core between the fourth and the eighth, a puppy's brain accepts novelty as normal. What the puppy meets in that period becomes part of its ordinary world; what it meets later has to be evaluated, and evaluation is where fear enters. The eight weeks with the breeder are half of that window, which is why where a puppy is raised matters so much. Socialisation does not mean meeting as many dogs and people as possible. It means ordinary experiences, different surfaces, household noises, people of different ages and steady adult dogs, kept short and positive. The measure of a good exposure is that the puppy stayed relaxed throughout, not simply that it happened. A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>Socialising a Staffordshire Bull Terrier puppy depends on a window that closes early. From roughly the third to the twelfth week of life, with the core between the fourth and the eighth, a puppy's brain accepts novelty as normal. What the puppy meets in that period becomes part of its ordinary world; what it meets later has to be evaluated, and evaluation is where fear enters. The eight weeks with the breeder are half of that window, which is why where a puppy is raised matters so much. Socialisation does not mean meeting as many dogs and people as possible. It means ordinary experiences, different surfaces, household noises, people of different ages and steady adult dogs, kept short and positive. The measure of a good exposure is that the puppy stayed relaxed throughout, not simply that it happened. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
   <p><strong>This is the practical checklist for the family</strong>, from the day the puppy comes home. What it can have met before, at the kennel, what it cannot, and why "already socialised puppy" means very little on its own is explained in <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it really means">Already socialised puppies: what it really means</a>.</p>
 
@@ -91,6 +91,16 @@ custom_content: |
   <p><strong>Is puppy class worthwhile?</strong> A well-run one, yes, particularly if it includes calm handling and structured exposure rather than 20 minutes of free-for-all play. Ask to observe a session before enrolling.</p>
   <p><strong>What if I adopted an under-socialised adult?</strong> Progress is slower but real. The approach is the same — distance, patience, food — with the expectation of months rather than weeks, and usually with professional help.</p>
 
+  <div class="related-articles">
+  <h3>Related articles</h3>
+  <ul>
+  <li><a href="/en/puppy-first-vaccinations/" title="Puppy first vaccinations: schedule and boosters">Puppy first vaccinations: schedule and boosters</a></li>
+  <li><a href="/en/puppy-initial-feeding/" title="Feeding a Staffordshire Bull Terrier puppy: first months">Feeding a Staffordshire Bull Terrier puppy: first months</a></li>
+  <li><a href="/en/puppy-potty-training/" title="Puppy potty training: method, timing and setbacks">Puppy potty training: method, timing and setbacks</a></li>
+  <li><a href="/en/puppy-alone-time/" title="Teaching a puppy to stay alone without stress">Teaching a puppy to stay alone without stress</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   

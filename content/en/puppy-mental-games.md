@@ -2,7 +2,7 @@
 title: "Puppies: Mental Games"
 date: 2025-08-03
 titleSeo: "Mental games for Staffordshire Bull Terrier puppies"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "giochi-mentali"
 articolo: true
 image: "/images/blog/cuccioli-3.webp"
@@ -46,7 +46,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Mental work tires a Staffordshire Bull Terrier puppy more than physical exercise does, and without any load on growing joints. Ten to fifteen minutes of genuine problem-solving leaves a puppy more tired than twice as long spent walking, which matters in a breed limited to about five minutes of walking per month of age until the growth plates close. The simplest change costs nothing: stop feeding from a bowl and use the daily ration for sniffing games, food puzzles and short training sessions. Nose work is the most valuable activity of all. A puppy that learns to try, fail and try again builds persistence and frustration tolerance; a bored one spends its energy on skirting boards and shoes. Avoid anything hard enough to break a tooth, and repetitive ball throwing that only winds the puppy up. A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>Mental work tires a Staffordshire Bull Terrier puppy more than physical exercise does, and without any load on growing joints. Ten to fifteen minutes of genuine problem-solving leaves a puppy more tired than twice as long spent walking, which matters in a breed limited to about five minutes of walking per month of age until the growth plates close. The simplest change costs nothing: stop feeding from a bowl and use the daily ration for sniffing games, food puzzles and short training sessions. Nose work is the most valuable activity of all. A puppy that learns to try, fail and try again builds persistence and frustration tolerance; a bored one spends its energy on skirting boards and shoes. Avoid anything hard enough to break a tooth, and repetitive ball throwing that only winds the puppy up. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
   
   
@@ -88,6 +88,24 @@ custom_content: |
   <p><strong>My puppy destroys the puzzle instead of solving it.</strong> That is a Staffordshire Bull Terrier being a Staffordshire Bull Terrier. Use cardboard for the destructive phase, supervise, and choose sturdier puzzles as the puppy learns to work rather than dismantle.</p>
   <p><strong>Is nose work suitable for a very young puppy?</strong> Yes, from 8 weeks, at the simplest level. It is the safest activity there is for a growing dog: no impact, no repetition, no load on joints.</p>
 
+  <div class="related-articles">
+  <h3>Related articles</h3>
+  <ul>
+  <li><a href="/en/puppy-home-socialization/" title="Socialising the puppy at home: the family checklist">Socialising the puppy at home: the family checklist</a></li>
+  <li><a href="/en/puppy-alone-time/" title="Teaching a puppy to stay alone without stress">Teaching a puppy to stay alone without stress</a></li>
+  <li><a href="/en/puppy-potty-training/" title="Puppy potty training: method, timing and setbacks">Puppy potty training: method, timing and setbacks</a></li>
+  <li><a href="/en/puppy-first-walk/" title="A puppy&#x27;s first walk: when to start and how">A puppy's first walk: when to start and how</a></li>
+  </ul>
+  </div>
+  
+  <div class="related-articles">
+  <h3>More on this topic</h3>
+  <ul>
+  <li><a href="/en/puppy-initial-feeding/" title="Feeding a Staffordshire Bull Terrier puppy: first months">Feeding a Staffordshire Bull Terrier puppy: first months</a></li>
+  <li><a href="/en/staffy-dental-health/" title="Dental health for the Staffordshire Bull Terrier">Dental health for the Staffordshire Bull Terrier</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   

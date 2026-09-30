@@ -1,0 +1,20 @@
+# Parole chiave principali: una pagina per parola, la pagina che deve
+# posizionarsi. Formato:  indirizzo | parola chiave | sinonimi separati da ;
+# I sinonimi contano per le ancore dei link in entrata, non per title e h1.
+# L'ordine delle parole non conta ("staffordshire bull terrier allevamento"
+# vale come "allevamento staffordshire bull terrier"); plurale e singolare si.
+# Italiano scelto da Paolo sui dati di Search Console (12 mesi, settembre 2026).
+# EN e DE: "breeder" e "Züchter" scelti da Paolo (settembre 2026); i volumi
+# DataForSEO (tools/parole-chiave/volumi.py) servono a confermarli.
+# Un quarto campo facoltativo "minimo: N" cambia il minimo per quella pagina.
+minimo_ancore: 10
+/ | allevamento staffordshire bull terrier | allevamento staffy; allevamenti staffordshire bull terrier; allevamenti staffy
+/cuccioli-staffordshire-bull-terrier/ | cuccioli staffordshire bull terrier | cuccioli staffy
+# Varianti commerciali: solo "prezzo", e solo sull'articolo del costo
+# (scelta di Paolo, settembre 2026). "In vendita" e "regalo" no.
+# Minimo 7 link: oltre si dovrebbe forzare il link in pagine che parlano d'altro.
+/quanto-costa-cucciolo-staffordshire-bull-terrier/ | prezzo cucciolo staffordshire bull terrier | quanto costa un cucciolo staffordshire bull terrier; prezzo staffy | minimo: 7
+/en/ | staffordshire bull terrier breeder | staffordshire bull terrier breeders; staffy breeder; staffordshire bull terrier kennel; kennel staffordshire bull terriers
+/en/puppies-staffordshire-bull-terrier/ | staffordshire bull terrier puppies | staffy puppies; staffie puppies
+/de/ | staffordshire bull terrier züchter | staffordshire bull terrier zucht; staffy züchter
+/de/welpen-staffordshire-bull-terrier/ | staffordshire bull terrier welpen | staffy welpen; staffordshire bullterrier welpen

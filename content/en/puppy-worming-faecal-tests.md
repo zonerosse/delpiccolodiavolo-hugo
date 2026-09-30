@@ -96,7 +96,7 @@ custom_content: |
   <p>The picture is one of puppies with a healthy gut: no parasites, balanced flora, digestion working as it should. That is not luck. It is the result of a protocol applied from the second week of life and of an environment kept clean.</p>
   
   <div class="callout">
-  <p><strong>📄 The full reports:</strong> <a href="/docs/referti-feci-cucciolata-17-09-2026.pdf" title="Faecal test reports for the litter, 17 September 2026" target="_blank" rel="noopener">download the PDF of both tests</a> — results table, microphotographs and the Giardia antigen test. The reports are in Italian.</p>
+  <p><strong>📄 The full reports:</strong> <a href="/docs/referti-feci-cucciolata-17-09-2026.pdf" title="Faecal test reports for the litter, 17 September 2026" target="_blank" rel="noopener" aria-label="Faecal test reports for the litter, 17 September 2026 (opens in a new tab)">download the PDF of both tests</a> — results table, microphotographs and the Giardia antigen test. The reports are in Italian.</p>
   </div>
   
   <h2>One line in red, and why it is not a problem</h2>

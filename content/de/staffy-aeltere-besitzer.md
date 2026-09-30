@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier für ältere Besitzer"
 date: 2024-05-28
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "anziani"
 articolo: true
 image: "/images/blog/famiglia-3.jpg"
@@ -33,7 +33,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Ein Staffordshire Bull Terrier kann zu einem älteren Menschen passen, doch die Antwort hängt mehr von der Person und vom Hund ab als von der Rasse. Seine Größe, elf bis siebzehn Kilogramm, und sein kurzes Fell machen ihn leicht zu handhaben, und sechzig bis neunzig Minuten Spaziergang am Tag, verteilt auf zwei oder drei Runden, passen zu einem Alltag mit Morgen- und Nachmittagsrunde. Offen gesagt werden muss eines: die Kraft. Ein junger Staffy, der an der Leine zieht, kann einen älteren Menschen umreißen, und die Pubertät zwischen 8 und 18 Monaten fordert jeden. Für die meisten älteren Halter ist der richtige Hund ein Erwachsener von drei bis sechs Jahren, kein Welpe, mit einer schriftlichen Absprache mit der Familie oder der Zucht darüber, was geschieht, wenn der Hund nicht mehr gehalten werden kann. Ein Welpe bedeutet 12 bis 14 Jahre Verantwortung. Ein Ratgeber der Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet.</p>
+  <p>Ein Staffordshire Bull Terrier kann zu einem älteren Menschen passen, doch die Antwort hängt mehr von der Person und vom Hund ab als von der Rasse. Seine Größe, elf bis siebzehn Kilogramm, und sein kurzes Fell machen ihn leicht zu handhaben, und sechzig bis neunzig Minuten Spaziergang am Tag, verteilt auf zwei oder drei Runden, passen zu einem Alltag mit Morgen- und Nachmittagsrunde. Offen gesagt werden muss eines: die Kraft. Ein junger Staffy, der an der Leine zieht, kann einen älteren Menschen umreißen, und die Pubertät zwischen 8 und 18 Monaten fordert jeden. Für die meisten älteren Halter ist der richtige Hund ein Erwachsener von drei bis sechs Jahren, kein Welpe, mit einer schriftlichen Absprache mit der Familie oder der Zucht darüber, was geschieht, wenn der Hund nicht mehr gehalten werden kann. Ein Welpe bedeutet 12 bis 14 Jahre Verantwortung. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
   
   
@@ -78,7 +78,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Bin ich zu alt für einen Staffy?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Das Alter auf dem Papier zählt weniger als zwei praktische Dinge: körperliche Kraft und ein Plan B. Ein erwachsener Staffordshire Bull Terrier wiegt zwischen 12 und 17 Kilo und zieht entschlossen, wenn ihn etwas reizt: die eigentliche Frage ist nicht, wie alt Sie sind, sondern ob Sie ihn auf der Straße halten können, wenn er losstürmt. Die zweite Frage ist unbequemer und muss trotzdem gestellt werden: <strong>wer kümmert sich um den Hund, wenn Sie es nicht mehr können?</strong> Ein Hund lebt zwölf bis vierzehn Jahre, und es sollte jemand feststehen, der ihn übernehmen würde, am besten jemand, den er schon kennt. Sind diese beiden Punkte geklärt, passt die Rasse: menschenbezogen, mit kurzem Fell ohne Pflegeaufwand und mit regelmäßigem, aber nicht extremem Bewegungsbedarf.
   </div>
@@ -87,7 +87,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Welpe oder erwachsener Hund für ältere Halter?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Fast immer ein erwachsener Hund, und das ist keine Notlösung. Ein Welpe bedeutet unterbrochene Nächte, Gänge alle zwei Stunden, Zwicken und acht Monate Unberechenbarkeit, während sich sein Charakter formt. Ein Erwachsener von drei bis sechs Jahren hat sein Wesen schon gezeigt: man weiß, ob er mit Katzen lebt, wie er allein zu Hause zurechtkommt, wie stark er an der Leine zieht, und es ist keine Wette. Der Rhythmus eines erwachsenen Hundes ähnelt zudem viel mehr dem eines älteren Menschen. Der übliche Einwand ist die Bindung, doch die hängt nicht vom Alter ab, in dem der Hund kommt: Staffies binden sich auch als Erwachsene tief. Für Menschen, die zu uns kommen, ist ein Hund aus der Zucht Del Piccolo Diavolo, der wieder verfügbar wird, oft die beste Lösung.
   </div>
@@ -96,7 +96,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was kostet ein Staffy wirklich im Unterhalt?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Etwa 300 bis 500 Euro im Jahr für die laufenden Kosten: gutes Futter, Auffrischimpfungen, monatliche Parasitenvorbeugung und Ausstattung. Fellpflege fällt ganz weg, und bei einer Rente zählt das: bei anderen Rassen kommen mehrere hundert Euro im Jahr dazu. Zwei Dinge liegen außerhalb dieser Zahl. Die Haftpflichtversicherung, einige Dutzend Euro, die sich ohnehin lohnt. Und <strong>unerwartete Kosten</strong>, die in zwölf Jahren immer kommen: eine Untersuchung, eine Operation, eine lange Behandlung. Tausend oder zweitausend Euro zurückgelegt, oder eine Krankenversicherung, ersparen es, je zwischen Budget und Hund wählen zu müssen. Bei einem festen, begrenzten Einkommen ist das der Teil der Rechnung, den man vorher macht, nicht danach.
   </div>
@@ -105,7 +105,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Kann ich einen Staffy ganz allein halten?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Ja, wenn Sie selbstständig unterwegs sind und jemanden haben, den Sie in schwierigen Zeiten um Hilfe bitten können. Die tägliche Versorgung ist einfach: zwei Gänge, ein Napf, ein Fell, das nichts braucht. Was Alleinlebende in Schwierigkeiten bringt, sind andere Dinge, die Grippe, die Sie drei Tage ans Bett fesselt, ein Gipsarm, eine plötzliche Einweisung ins Krankenhaus, und genau dann braucht es ein Netz, und sei es noch so klein: ein Nachbar, ein Verwandter, ein vertrauter Hundesitter, den der Hund schon kennt. Bauen Sie es auf, bevor Sie es brauchen, nicht im Notfall. Sehr hilfreich ist außerdem, dem Hund das Gehen ohne Ziehen beizubringen: eine halbe Stunde mit einem Trainer löst das Problem, das Spaziergänge am häufigsten anstrengend macht.
   </div>
@@ -114,7 +114,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was passiert mit dem Hund, wenn ich ins Krankenhaus muss?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Es ist die wichtigste Frage und die, die fast niemand rechtzeitig stellt. Die praktische Antwort sind drei Stufen, die man <strong>vorher</strong> einrichtet: eine Person, die die Schlüssel hat und weiß, wo Futter und Heimtierausweis sind, eine zweite Person als Reserve und eine schon erprobte Pension oder ein Hundesitter, nicht in Eile gesucht. Legen Sie gut sichtbar ein Blatt mit Name des Hundes, Mikrochip, Tierarzt, laufenden Behandlungen und Kontakten bereit. Für die längere Sicht lohnt es sich, schriftlich festzuhalten, wer den Hund dauerhaft übernehmen soll, denn ohne Anweisungen fällt die Frage auf Verwandte, die ihn vielleicht nicht halten können. Die Hunde aus der Zucht Del Piccolo Diavolo kommen ohnehin zu uns zurück, jederzeit und aus jedem Grund.
   </div>
@@ -123,7 +123,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Brauche ich einen Garten?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Nein, und bei dieser Rasse wird der Garten oft überschätzt. Der Staffordshire Bull Terrier ist ganz auf Menschen ausgerichtet: allein im Garten gelassen langweilt er sich, gräbt, bellt oder wartet an der Tür. In der Wohnung ist er dort, wo Sie sind, und mehr will er nicht. Ein Garten ist praktisch für schnelle Pausen, <strong>ersetzt aber keine Spaziergänge</strong>: ein Hund, der nur in den Garten kommt, sieht keine Menschen, keine anderen Hunde, keine neuen Geräusche und verliert die Gewöhnung daran. Der Bedarf bleibt derselbe, zwei Gänge am Tag. Gibt es einen Garten, muss er sicher eingezäunt sein: ein muskulöser, neugieriger Hund, für den ein niedriger Maschendraht oder ein Tor, das sich mit einem Stoß öffnet, keine Grenze ist.
   </div>
@@ -131,6 +131,16 @@ custom_content: |
 
   </div>
 
+  <div class="related-articles">
+  <h3>Mehr zum Thema</h3>
+  <ul>
+  <li><a href="/de/staffy-kinder-familie/" title="Staffordshire Bull Terrier mit Kindern und Familie">Staffordshire Bull Terrier mit Kindern und Familie</a></li>
+  <li><a href="/de/staffy-andere-haustiere/" title="Staffordshire Bull Terrier mit anderen Haustieren">Staffordshire Bull Terrier mit anderen Haustieren</a></li>
+  <li><a href="/de/staffy-sichere-bewegung/" title="Sichere Bewegung für Staffordshire Bull Terrier">Sichere Bewegung für Staffordshire Bull Terrier</a></li>
+  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Seriöse Staffordshire Bull Terrier Zucht erkennen">Seriöse Staffordshire Bull Terrier Zucht erkennen</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>

@@ -2,7 +2,7 @@
 title: "Würfe Staffordshire Bull Terrier"
 titleSeo: "Würfe Staffordshire Bull Terrier: geplant und bisherige"
 date: 2025-12-28
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 tipoPagina: "CollectionPage"
 translationKey: "programma"
 description: "Staffordshire Bull Terrier Würfe mit ausgewählten Eltern, L2HGA/HC Gentests, ENCI-Stammbaum. Zuchtprogramm, Elitebull und Lackyle Linien. Ostellato (FE)."
@@ -114,6 +114,14 @@ custom_content: |
   <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Eine Verpaarung, die die Championin-Morphologie von Bilquis (Italienische Championin, 4. beim World Dog Show 2024) mit den Linien von Black Jack verbindet, dem Sohn des Weltsiegers 2023 Quash Marvelous Hagler de Stafflorence. Geboren am 1. August 2026, schwarze Welpen. Wurf vollständig: nicht verfügbar.</p>
   
   <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" title="Stammbaum Wurf Bilquis x Black Jack ansehen" aria-label="Vollständigen Stammbaum des Wurfes vom 1. August 2026 auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">auf SBTPedigree ansehen</a></p>
+  <div class="related-articles">
+  <h3>Mehr zum Thema</h3>
+  <ul>
+  <li><a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Was kostet ein Staffordshire Bull Terrier Welpe">Was kostet ein Staffordshire Bull Terrier Welpe</a></li>
+  <li><a href="/de/wie-man-eine-ahnentafel-liest/" title="Ahnentafel lesen: was die ENCI zeigt und was nicht">Ahnentafel lesen: was die ENCI zeigt und was nicht</a></li>
+  </ul>
+  </div>
+  
   </article>
   
   <!-- Wurf 1: Heat × Nora - KOMMEND -->
@@ -238,7 +246,14 @@ custom_content: |
   <h2 class="section-title">Wie eine Verpaarung geplant wird</h2>
   <p>Eine Verpaarung bei Del Piccolo Diavolo wird Monate im Voraus geplant und folgt immer demselben Weg. Am Anfang stehen die Gentests beider Zuchthunde auf L2HGA und HC, bei der Hündin zusätzlich DM-SOD1; dann werden die Ahnentafeln auf SBTPedigree mit der Testverpaarung untersucht, die den theoretischen Inzuchtkoeffizienten der Welpen zeigt und auf welche Vorfahren er sich konzentriert. Wir arbeiten in einem Bereich von 6 bis 9 Prozent: darunter verliert man die Möglichkeit, einen Charakter zu festigen, darüber verengt man zu stark. Der Rüde kommt fast immer von außen, gewählt, um zu korrigieren, was der Hündin fehlt, nicht um zwei schöne Hunde zu addieren. Das Ergebnis ist ein Wurf im Jahr, gelegentlich zwei, und in manchen Jahren keiner.</p>
   <p><strong>Was wir vor jeder Verpaarung testen.</strong> Kein Zuchthund kommt ohne die Tests auf L2HGA und HC ins Programm, die beiden Erbkrankheiten der Rasse; die Hündinnen werden zusätzlich auf degenerative Myelopathie (DM-SOD1) getestet. Die Befunde sind auf den Seiten der Hunde veröffentlicht, mit sichtbarer Mikrochipnummer, und wie diese Tests funktionieren, erklärt der <a href="/de/staffy-gentests-l2hga-hc/" title="Gentests L2-HGA und HC">Ratgeber zu den Gentests</a>.</p>
-  <p><strong>Wie man zu einem Welpen kommt.</strong> Das Programm ist offen: zu jeder Verpaarung sagen wir, wer die Eltern sind, welche Tests sie haben und warum wir sie gewählt haben. Wer mehr wissen will, kann nach den Ergebnissen früherer Verpaarungen fragen und die Hunde persönlich sehen. Was ein Welpe mitbekommt, steht auf der <a href="/de/welpen-staffordshire-bull-terrier/" title="Unsere Welpen">Seite der Welpen</a>; wer außerhalb Italiens lebt, findet Fristen und Papiere unter <a href="/de/staffordshire-bull-terrier-welpe-ins-ausland/" title="Ein Welpe ins Ausland">ein Welpe ins Ausland</a>.</p>
+  <p><strong>Wie man zu einem Welpen kommt.</strong> Das Programm ist offen: zu jeder Verpaarung sagen wir, wer die Eltern sind, welche Tests sie haben und warum wir sie gewählt haben. Wer mehr wissen will, kann nach den Ergebnissen früherer Verpaarungen fragen und die Hunde persönlich sehen. Was ein Welpe mitbekommt, steht auf der <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Seite der Staffordshire Bull Terrier Welpen</a>; wer außerhalb Italiens lebt, findet Fristen und Papiere unter <a href="/de/staffordshire-bull-terrier-welpe-ins-ausland/" title="Ein Welpe ins Ausland">ein Welpe ins Ausland</a>.</p>
+  <a class="rimando" href="/de/wie-man-eine-ahnentafel-liest/">
+  <img src="/images/blog/pedigree-queen-hero.webp" alt="Queen of California auf einer Ausstellung" width="88" height="59" loading="lazy" decoding="async">
+  <span>
+  <span class="ti">Wie wir eine Verpaarung prüfen, bevor wir sie machen</span>
+  <span class="de">Die Testverpaarung, der Koeffizient und auf welche Vorfahren sich die Inzucht bezieht: mit Queens Zahlen.</span>
+  </span>
+  </a>
   </div>
   </section>
 

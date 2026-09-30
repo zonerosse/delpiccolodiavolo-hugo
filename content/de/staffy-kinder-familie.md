@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier mit Kindern und Familie"
 date: 2024-05-28
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "bambini"
 articolo: true
 image: "/images/blog/famiglia-1.jpg"
@@ -33,7 +33,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Kein Hund irgendeiner Rasse darf mit einem kleinen Kind allein bleiben, und der Staffordshire Bull Terrier ist keine Ausnahme. Sein Beiname Nanny Dog beschreibt eine echte Toleranz, keine Fähigkeit zur Aufsicht. Diese Toleranz kommt aus der Art, wie die Rasse selektiert wurde: im ständigen engen Umgang mit Menschen, wobei jeder Hund, der Aggression gegen eine Person zeigte, aus der Zucht genommen wurde. Ein gut gezüchteter, gut sozialisierter Staffy sucht die Nähe von Menschen, verträgt Anfassen und Lärm bemerkenswert gut und begegnet der Ungeschicklichkeit eines Kindes meist mit Geduld. Das Wesen ist trotzdem von Hund zu Hund verschieden, und die frühe Sozialisierung zählt so viel wie die Genetik. Praktisch hängt die Sicherheit von den Erwachsenen ab: begleitete Begegnungen, Regeln je nach Alter des Kindes, ein Rückzugsort für den Hund und das Erkennen von Stresssignalen, bevor daraus ein Knurren wird. Ein Ratgeber der Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet.</p>
+  <p>Kein Hund irgendeiner Rasse darf mit einem kleinen Kind allein bleiben, und der Staffordshire Bull Terrier ist keine Ausnahme. Sein Beiname Nanny Dog beschreibt eine echte Toleranz, keine Fähigkeit zur Aufsicht. Diese Toleranz kommt aus der Art, wie die Rasse selektiert wurde: im ständigen engen Umgang mit Menschen, wobei jeder Hund, der Aggression gegen eine Person zeigte, aus der Zucht genommen wurde. Ein gut gezüchteter, gut sozialisierter Staffy sucht die Nähe von Menschen, verträgt Anfassen und Lärm bemerkenswert gut und begegnet der Ungeschicklichkeit eines Kindes meist mit Geduld. Das Wesen ist trotzdem von Hund zu Hund verschieden, und die frühe Sozialisierung zählt so viel wie die Genetik. Praktisch hängt die Sicherheit von den Erwachsenen ab: begleitete Begegnungen, Regeln je nach Alter des Kindes, ein Rückzugsort für den Hund und das Erkennen von Stresssignalen, bevor daraus ein Knurren wird. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
   
   
@@ -91,7 +91,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Ist es sicher, einen Staffy zu nehmen, wenn ein Baby unterwegs ist?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Die richtige Frage ist nicht, ob die Rasse sicher ist, sondern ob Sie zwei neue Dinge gleichzeitig bewältigen können. Ein Welpe braucht in den ersten Monaten ständige Aufmerksamkeit, und genau in diesen Monaten braucht ein Neugeborenes am meisten: das echte Risiko ist nicht ein Unfall, sondern dass der Hund vernachlässigt wird und gerade in dem Zeitfenster schlecht lernt, in dem er am besten lernen würde. Ist die Schwangerschaft schon im Gang, ist es fast immer besser, den Welpen erst nach dem ersten Lebensjahr des Kindes zu holen. Ist der Hund schon da, wird vor der Geburt gearbeitet: ihn an Babygeräusche gewöhnen, die Räume neu festlegen, die sich ändern werden, und ihm einen Rückzugsort geben. In jedem Fall bleiben <strong>Hund und Baby nie allein im selben Raum</strong>, nicht einmal für die Dauer eines Telefonats.
   </div>
@@ -100,7 +100,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Welpe oder erwachsener Hund bei Kindern von zwei bis fünf Jahren?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer"><strong>Mit einem Welpen</strong> wachsen sie zusammen auf, die Bindung ist stark, und Sie sozialisieren ihn gezielt auf Ihre Kinder. Der Nachteil: er braucht intensive Betreuung, Erziehung und Sauberkeitstraining, während Sie schon kleine Kinder betreuen, und für viele Familien ist das zu viel. <strong>Ein erwachsener Hund ab zwei Jahren</strong> bringt Selbstbeherrschung, eine Grunderziehung und Vorhersehbarkeit mit; der Nachteil ist, dass seine Vorgeschichte Auslöser enthalten kann, die niemand kennt. Unser Rat: bei Kindern unter vier Jahren ernsthaft über einen Erwachsenen mit bekanntem Wesen nachdenken. Bei Kindern ab fünf und erfahrenen Eltern ist ein Welpe gut machbar.
   </div>
@@ -109,7 +109,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Mein Kind hat Angst vor dem Hund. Was tun?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Nie zwingen und nie herunterspielen. Ein ängstliches Kind zum Streicheln zu drängen, verstärkt die Angst und lehrt den Hund, dass Hände sich nähern, wenn ein Körper steif ist, und das ist die schlechteste Kombination überhaupt. Der Weg ist der umgekehrte: man arbeitet mit Abstand und lässt das Kind entscheiden. Der Hund an der Leine oder hinter einem Gitter, das Kind frei, wo es stehen will, und jedes Mal, wenn es den Hund ohne Anspannung anschaut, geschieht etwas Angenehmes. Dann einen Schritt näher, an verschiedenen Tagen, nie in derselben Einheit. Inzwischen lernt das Kind, den Hund aus der Entfernung zu führen: ihm ein Leckerli zuwerfen, ihm die Gartentür öffnen. Stammt die Angst aus einem bestimmten Erlebnis oder dauert sie Monate, lohnt sich die Begleitung durch einen Trainer.
   </div>
@@ -118,7 +118,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Der Hund scheint eifersüchtig auf das Kind. Was tun?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Was wie Eifersucht aussieht, ist meist etwas Einfacheres: der Hund hat den Zugang zu Dingen verloren, die er vorher hatte, das Sofa, die Aufmerksamkeit, die Ruhe, und verbindet diesen Verlust mit dem Kind. Korrigieren hilft nicht, denn es bestätigt die Verbindung: wenn das Kind da ist, gibt es Schimpfe. Das Mittel ist, sie umzukehren. Die schönen Dinge geschehen <strong>wenn das Kind da ist</strong>: das beste Leckerli, das spannendste Spiel, der Spaziergang. Ist das Kind nicht da, kehrt der Hund zu seiner normalen Routine zurück. Daneben braucht er einen Rückzugsort, an dem ihn niemand stört, und das Kind feste Regeln, wann es ihn in Ruhe lässt. Zeigen sich Knurren, Erstarren oder hochgezogene Lefzen, ist das keine Laune: dann ruft man einen Fachmann und schimpft nicht.
   </div>
@@ -127,7 +127,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Der Hund hat mein Kind beim Spielen gebissen. Muss ich ihn abgeben?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Zuerst klären, was passiert ist, denn das Wort Biss deckt sehr verschiedene Situationen ab. Ein Welpe, der beim Spielen nach Händen schnappt, benutzt sein Maul wie bei seinen Geschwistern und muss lernen, es zu dosieren: das Spiel jedes Mal unterbrechen, wenn Zähne die Haut berühren, ohne zu schreien. Ein erwachsener Hund, der eine Spur hinterlässt, ist etwas anderes, und die Frage ist nicht, ob man ihn abgibt, sondern <strong>was in den drei Sekunden davor geschah</strong>: fast immer gab es ein Signal, Erstarren, abgewandter Kopf, ein Versuch wegzugehen, das niemand gelesen hat. Bis die Lage klar ist, sind Hund und Kind nie ohne einen Erwachsenen in Armreichweite zusammen. Ein Vorfall, der eine Spur hinterlassen hat, braucht die Einschätzung eines tierärztlichen Verhaltensmediziners, nicht einen Rat aus dem Internet.
   </div>
@@ -136,7 +136,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie bringe ich meinem Kind Respekt vor dem Hund bei?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Mit wenigen festen Regeln, wiederholt, bis sie selbstverständlich sind, und mit dem Vorbild der Erwachsenen. Die drei wichtigsten: <strong>einen schlafenden Hund stört man nicht</strong>, <strong>einen fressenden Hund fasst man nicht an</strong>, und <strong>einen Hund umarmt man nicht um den Hals</strong>. Eine Umarmung ist eine menschliche Geste, die für einen Hund Festhalten bedeutet, und sie steht hinter sehr vielen Vorfällen im Haus. Dann gibt es den positiven Teil, der besser wirkt als Verbote: dem Kind eine altersgerechte Aufgabe bei der Pflege des Hundes geben. Den Wassernapf füllen, die Leine bereitlegen, Leckerli für eine Nasensuche verstecken. Ein Kind, das mitmacht, lernt den Hund viel früher zu lesen als eines, dem man nur sagt, was es nicht tun soll.
   </div>
@@ -145,7 +145,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Der Staffy ist zu stürmisch und springt an. Wie beruhige ich ihn?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Kurzfristig steuert man die Umgebung: im Haus eine Leine, wenn die Kinder da sind, damit Sie den Sprung unterbrechen können, bevor er beginnt. Belohnt werden vier Pfoten am Boden, mit einem Leckerli jedes Mal, wenn der Hund die Position hält, und <strong>vor jeder Begegnung ist Sitz Pflicht</strong>: setzt er sich nicht, dreht das Kind sich weg, und das Spiel beginnt nicht. Wegschieben oder laut werden hilft nicht, denn für einen aufgeregten Hund ist auch das Aufmerksamkeit. Langfristig ist die Ursache fast immer nicht verbrauchte Energie: dreißig bis sechzig Minuten Bewegung vor den kritischen Momenten ändern das Bild, und Nasenarbeit ermüdet mehr als Laufen. Der Staffy ist kompakt, aber schwer: ein Sprung, der einen Erwachsenen stört, wirft ein vierjähriges Kind um.
   </div>
@@ -154,7 +154,7 @@ custom_content: |
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Ab welchem Alter darf ein Kind den Hund allein ausführen?</h3>
-  <span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Nicht vor vierzehn, und das ist keine Frage der Reife, sondern der Physik und der rechtlichen Verantwortung. Ein erwachsener Staffordshire Bull Terrier wiegt zwischen 12 und 17 Kilo und zieht viel stärker, als seine Größe vermuten lässt: läuft er einer Katze hinterher, hält ihn ein Zehnjähriges nicht, so geschickt es auch ist. Und bei einem Vorfall liegt die Verantwortung trotzdem bei einem Erwachsenen, denn das Gesetz verlangt, in Italien wie in den meisten Ländern, dass wer den Hund führt, ihn auch beherrschen kann. Vor diesem Alter kann das Kind die Leine neben einem Erwachsenen halten, der eine zweite hält, eine hervorragende Übung für beide. Auch der Hund zählt: einer, der auf andere Hunde reagiert, wird einem Jugendlichen nicht einmal mit sechzehn überlassen.
   </div>
@@ -162,6 +162,17 @@ custom_content: |
 
   </div>
 
+  <div class="related-articles">
+  <h3>Mehr zum Thema</h3>
+  <ul>
+  <li><a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das wirklich heißt">Sozialisierte Welpen: was das wirklich heißt</a></li>
+  <li><a href="/de/staffy-aeltere-besitzer/" title="Staffordshire Bull Terrier für ältere Besitzer">Staffordshire Bull Terrier für ältere Besitzer</a></li>
+  <li><a href="/de/staffy-andere-haustiere/" title="Staffordshire Bull Terrier mit anderen Haustieren">Staffordshire Bull Terrier mit anderen Haustieren</a></li>
+  <li><a href="/de/welpen-sozialisierung-zuhause/" title="Welpen zu Hause sozialisieren: die Liste für die Familie">Welpen zu Hause sozialisieren: die Liste für die Familie</a></li>
+  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Seriöse Staffordshire Bull Terrier Zucht erkennen">Seriöse Staffordshire Bull Terrier Zucht erkennen</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>

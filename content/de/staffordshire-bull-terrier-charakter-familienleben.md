@@ -115,6 +115,8 @@ custom_content: |
 
   <p>Zwei Staffies mit derselben Ahnentafel können verschiedene Charaktere haben: die Genetik legt die Grundlage, die ersten Wochen erledigen den Rest, und deshalb wiegt der Züchter so viel wie die Rasse. Wie ein Wesen selektiert wird, worauf wir bei Zuchthunden achten und wie man einen Welpen beurteilt, erklärt die Seite über <a href="/de/staffordshire-bull-terrier-wesen/" title="Das Wesen des Staffy">das Wesen des Staffordshire Bull Terrier</a>.</p>
 
+  <section class="faq">
+  <div class="faq-header">
   <h2>Häufig gestellte Fragen zum Charakter des Staffies</h2>
   <p>Antworten basierend auf 20 Jahren direkter Erfahrung</p>
   </div>

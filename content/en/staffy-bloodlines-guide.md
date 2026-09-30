@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Bloodlines Guide"
 titleSeo: "Staffy bloodlines: the history of the six lines"
 date: 2025-11-08
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "linee-sangue"
 articolo: true
 image: "/images/blog/standard-1.webp"
@@ -38,7 +38,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Staffordshire Bull Terrier bloodlines are counted from 1935, when the Kennel Club recognised the breed; before that, the Bull and Terriers of Staffordshire were working dogs without traceable pedigrees. In 1943 the breed historian H. N. Beilby published the first thorough study of the breed's genetics and identified six distinct male lines. Lines are traced through the male descent, as is standard practice in dog breeding, so a dog belongs to the line of its paternal great-grandfather even when other lines appear through the females. Today the M-Line and the R-Line dominate the modern breed. A bloodline is not a sub-breed or a brand: it is the result of generations of decisions about which dogs were kept and mated. Knowing a dog's line helps you read its pedigree; the dog itself is judged by its tests, structure and temperament. A guide by the Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>Staffordshire Bull Terrier bloodlines are counted from 1935, when the Kennel Club recognised the breed; before that, the Bull and Terriers of Staffordshire were working dogs without traceable pedigrees. In 1943 the breed historian H. N. Beilby published the first thorough study of the breed's genetics and identified six distinct male lines. Lines are traced through the male descent, as is standard practice in dog breeding, so a dog belongs to the line of its paternal great-grandfather even when other lines appear through the females. Today the M-Line and the R-Line dominate the modern breed. A bloodline is not a sub-breed or a brand: it is the result of generations of decisions about which dogs were kept and mated. Knowing a dog's line helps you read its pedigree; the dog itself is judged by its tests, structure and temperament. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
   <p>This page tells the history of the lines and the dogs that founded them. If you are choosing a puppy and want to know how to find your way among today's lines, there is a practical guide: <a href="/en/choosing-bloodlines/" title="Choosing Staffy bloodlines">how to choose a bloodline</a>.</p>
 
@@ -129,7 +129,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3>What is the M-Line and why does it matter so much?</h3>
-  <div class="faq-answer">The M-Line is one of the breed's founding male lines, and it became the most widespread internationally: a great many modern Staffordshire Bull Terriers descend from it, even when the name does not appear in the first generations of a pedigree. SBTPedigree states a dog's male line of descent explicitly, and it is not a collector's detail: <strong>it tells you where the most conservative part of the gene pool comes from</strong>, the part passed from father to son. Its very spread has a downside: the more widespread a line, the easier it is to double up on it in a mating without noticing. That is precisely what a test mating shows you beforehand.</div>
+  <div class="faq-answer">The M-Line is one of the breed's founding male lines, and it became the most widespread internationally: a great many modern Staffordshire Bull Terriers descend from it, even when the name does not appear in the first generations of a pedigree. <a href="https://sbtpedigree.com/" target="_blank" rel="noopener" title="SBTPedigree" aria-label="SBTPedigree (opens in a new tab)">SBTPedigree</a> states a dog's male line of descent explicitly, and it is not a collector's detail: <strong>it tells you where the most conservative part of the gene pool comes from</strong>, the part passed from father to son. Its very spread has a downside: the more widespread a line, the easier it is to double up on it in a mating without noticing. That is precisely what a test mating shows you beforehand.</div>
   </div>
 
   <div class="faq-item">
@@ -147,6 +147,25 @@ custom_content: |
   <div class="faq-answer">It is one of the two numbers to look at before planning a mating, but on its own it is not enough. The coefficient tells you <strong>how much</strong> you are tightening, not <strong>on whom</strong>: doubling up on an outstanding dog is a selection technique, doubling up on a mediocre one multiplies his faults. The range we work within is 6 to 9 per cent, though that is a matter of judgement rather than doctrine. There is also a technical point few people explain: the figure depends on how many generations are counted. The same dog can show 9 per cent over eight generations and 21 per cent over the full pedigree.</div>
   </div>
 
+  <a class="rimando" href="/en/how-to-read-a-pedigree/">
+  <img src="/images/blog/pedigree-queen-hero.webp" alt="Queen of California at a show" width="88" height="59" loading="lazy" decoding="async">
+  <span>
+  <span class="ti">How to read a pedigree</span>
+  <span class="de">Where the lines really show: photos of the ancestors, descent and the inbreeding coefficient.</span>
+  </span>
+  </a>
+
+  <div class="related-articles">
+  <h3>More on this topic</h3>
+  <ul>
+  <li><a href="/en/how-to-read-a-pedigree/" title="How to read a pedigree: what ENCI shows and what it doesn&#x27;t">How to read a pedigree: what ENCI shows and what it doesn't</a></li>
+  <li><a href="/en/staffy-pitbull-amstaff-difference/" title="Staffordshire Bull Terrier, Pitbull and Amstaff compared">Staffordshire Bull Terrier, Pitbull and Amstaff compared</a></li>
+  <li><a href="/en/staffy-breed-standard/" title="Staffordshire Bull Terrier breed standard explained">Staffordshire Bull Terrier breed standard explained</a></li>
+  <li><a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)">Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)</a></li>
+  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious Staffy breeder">How to recognise a serious Staffy breeder</a></li>
+  </ul>
+  </div>
+  
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   </div>

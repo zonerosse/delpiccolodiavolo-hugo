@@ -2,13 +2,15 @@
 title: "Zucht-Tagebuch"
 titleSeo: "Zuchttagebuch: Würfe, Daten und Gentests"
 date: 2026-01-31
-lastmod: 2026-09-28
+lastmod: 2026-09-30
 tipoPagina: "CollectionPage"
 articolo: true
 translationKey: "diario-allevamento"
 description: "Aktualisierungen, Geburten und Neuigkeiten aus der Zucht Del Piccolo Diavolo. Verfolgen Sie das Wachstum unserer Staffordshire Bull Terrier Welpen."
 slug: "zucht-tagebuch"
 ---
+
+Das Tagebuch von Del Piccolo Diavolo verzeichnet alle in Ostellato geborenen Würfe, mit Geburtsdatum, den Namen der beiden Elterntiere, ihren Gentests und der Zahl der Welpen. Kein Wurf verschwindet von der Website, wenn die Welpen in ihrem neuen Zuhause sind, und das ist gewollt: So kann jeder zählen, wie viele in einem Jahr wirklich geboren werden, und die Zahl ausgehend vom Mikrochip der Mutter mit dem ENCI-Zuchtbuch abgleichen. Im Schnitt ist es ein Wurf im Jahr, gelegentlich zwei, in manchen Jahren keiner. Jeder Eintrag nennt die Gentests beider Elterntiere und den Link zu ihrer Seite auf SBTPedigree, über die man Großeltern und Urgroßeltern zurückverfolgen kann.
 
 Hier halten wir fest, was in der Zucht tatsächlich geschieht, Wurf für Wurf: wer die Elterntiere sind und warum wir sie gewählt haben, welche Tests sie haben, wie die Welpen in den ersten Wochen heranwachsen.
 
