@@ -107,7 +107,7 @@ custom_content: |
   <p><strong>Besitzer:</strong> Stefano Tevini</p>
   <p><strong>Handler:</strong> Vittoria Passerini</p>
   <p><strong>Titel:</strong> Italienische Jugendchampionin — Albarella (RO), 17. Mai 2026. Jugendklasse V1, JCAC, JBOB, BOB. Bester Staffy — Kynologische Gruppe Polesano.</p>
-    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Minnies Tochter und ihre Kopie: nicht nur im K&ouml;rperbau, vor allem im Kopf. Dieselbe &Uuml;berschw&auml;nglichkeit, dasselbe st&auml;ndige Verlangen nach Aufmerksamkeit, derselbe Bauch nach oben bei jeder Gelegenheit. Queen lebt nicht bei uns, aber wir sehen sie oft, und ihre Familie erz&auml;hlt uns jeden Tag, wie es ihr geht: Wenn es hei&szlig;t, das Wesen werde vererbt, ist sie der Beweis, den wir vor Augen haben.</p>
+    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Minnies Tochter und ihre Kopie: nicht nur im K&ouml;rperbau, vor allem im Kopf. Dieselbe &Uuml;berschw&auml;nglichkeit, dasselbe st&auml;ndige Verlangen nach Aufmerksamkeit, derselbe Bauch nach oben bei jeder Gelegenheit. Queen lebt nicht bei uns, aber wir sehen sie oft, und Manuela, die Frau des Besitzers, erz&auml;hlt uns jeden Tag, wie es ihr geht: Wenn es hei&szlig;t, das Wesen werde vererbt, ist sie der Beweis, den wir vor Augen haben.</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" title="Stammbaum Queen of California auf SBTPedigree" aria-label="Vollständigen Stammbaum des Wurfes auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
   </div>
   </div>
@@ -175,6 +175,7 @@ custom_content: |
   <p><strong>Mikrochip:</strong> 276098104987682<br>
   <strong>LOI:</strong> LO1610654</p>
   <p><strong>Gentests:</strong> L2HGA & HC (HSF4) frei per DNA</p>
+  <p><strong>PHPV:</strong> Nicht betroffen</p>
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> CH. Hell's Angel</p>
   <p><strong>Mutter:</strong> CH. Mellowstaff by Great'n Glory</p>
@@ -200,6 +201,7 @@ custom_content: |
   <p><strong>HD:</strong> B</p>
   <p><strong>ED:</strong> A</p>
   <p><strong>Gentests:</strong> L2HGA & HC (HSF4) frei per DNA</p>
+  <p><strong>PHPV:</strong> Nicht betroffen</p>
   <p><strong>Vater:</strong> CH. Kiraloebis Italian Gigalo (Top UK Staffordshire Bull Terrier 2012)</p>
   <p><strong>Mutter:</strong> Lackyle Duilleog Daracha</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Die alte Dame des Hauses, die Chefin. Sie kontrolliert alles und jeden und versucht, sich in jeder Lage Haltung zu geben &mdash; dann merkt sie, dass sie doch ein Staffy ist, und kann dem Schmusen nicht widerstehen. Eine Nervens&auml;ge, die immer im Mittelpunkt stehen will. Ihr Kissen liegt auf dem Teppich neben meinem Bett.</p>

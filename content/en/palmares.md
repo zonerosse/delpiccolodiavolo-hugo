@@ -19,7 +19,7 @@ custom_content: |
   <h2 class="section-title">Champions Bred by Us</h2>
   
   <div class="intro-block">
-  <p>Dogs bred by Del Piccolo Diavolo have so far won one Italian Champion title, three Italian Junior Champion titles &mdash; Bilquis, Lothar, who is also Slovenian Champion, and Queen of California &mdash; and the Junior Champion and Champion titles of San Marino, as well as a fourth place at the World Dog Show with Bilquis Goddess Diabhal, who has twelve consecutive shows with Excellent first behind her. In May 2026 Queen of California won the Italian Junior Champion title at the National Show in Albarella. They are all dogs born and raised here, not bought already titled. Show results cannot be self-certified: show catalogues are public, and the judges who assessed these dogs have a name and a surname. Titles are only part of it, though: what life these dogs lead today is told in the <a href="/en/staffordshire-family-life-stories/" title="Family stories">family stories</a>.</p>
+  <p>Dogs bred by Del Piccolo Diavolo have so far won one Italian Champion title, three Italian Junior Champion titles &mdash; Bilquis, Lothar, who is also Slovenian Champion, and Queen of California &mdash; and the Junior Champion and Champion titles of San Marino, as well as a fourth place at the World Dog Show with Bilquis Goddess Diabhal, who has fourteen consecutive shows with Excellent first behind her. In May 2026 Queen of California won the Italian Junior Champion title at the National Show in Albarella. They are all dogs born and raised here, not bought already titled. Show results cannot be self-certified: show catalogues are public, and the judges who assessed these dogs have a name and a surname. Titles are only part of it, though: what life these dogs lead today is told in the <a href="/en/staffordshire-family-life-stories/" title="Family stories">family stories</a>.</p>
   <p>Del Piccolo Diavolo's selection is based on three pillars: health, character and breed type. Show results are not an end in themselves, but confirmation that our breeding program produces dogs conforming to the breed standard. All dogs presented were born and raised in our kennel.</p>
   </div>
   
@@ -63,7 +63,7 @@ custom_content: |
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
   <h3>ENCI Italian Beauty Champion</h3>
   <p><strong>4th place at World Dog Show</strong> - A world-class result we are proud of.</p>
-  <p><strong>Historic record:</strong> 12 consecutive shows with Excellent 1st placement. Italian Champion title achieved while still in Intermediate Class, a result few Staffordshire Bull Terriers can boast in Italy.</p>
+  <p><strong>Historic record:</strong> 14 consecutive shows with Excellent 1st placement. Italian Champion title achieved while still in Intermediate Class, a result few Staffordshire Bull Terriers can boast in Italy.</p>
   </div>
   </div>
   </div>

@@ -306,7 +306,7 @@ custom_content: |
   <td>Prelievo, spedizione e test SOD1 sulle fattrici</td><td>Allevatore</td><td>Una volta per cane</td><td>il resto della spesa</td>
   </tr>
   <tr>
-  <td><strong>Totale per una coppia riproduttrice</strong></td><td>Allevatore</td><td>Prima dell'accoppiamento</td><td><strong>circa 800 €</strong></td>
+  <td><strong>Totale per cane</strong></td><td>Allevatore</td><td>Una volta per cane</td><td><strong>circa 400 €</strong></td>
   </tr>
   <tr>
   <td>Farmaci antiepilettici per un cane con L2-HGA</td><td>Famiglia</td><td>Per tutta la vita del cane</td><td>200-400 € al mese</td>
@@ -320,7 +320,7 @@ custom_content: |
   </tbody>
   </table>
 
-  <p>Il confronto non è fra due spese simili. Ottocento euro spesi una volta prima dell'accoppiamento stanno sullo stesso piano di una spesa mensile che dura quanto il cane.</p>
+  <p>Il confronto non è fra due spese simili. Quattrocento euro a cane, spesi una volta, stanno sullo stesso piano di una spesa mensile che dura quanto il cane.</p>
   
   <p>La differenza è evidente. Un allevatore che risparmia sui test genetici sta trasferendo un rischio enorme sulle spalle dell'acquirente.</p>
   

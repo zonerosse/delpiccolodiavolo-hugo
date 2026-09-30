@@ -143,7 +143,7 @@ Let us do the arithmetic.
 A litter done properly, as we saw above item by item, costs about 2,000 euros: with six puppies that is more than 330 euros a puppy, before vaccinations, microchips and tests. With a stud dog abroad and a caesarean it goes past 650. A puppy sold for a few hundred euros is below the cost of a serious litter. How is that possible?
 
 **By cutting everything:**
-- No genetic testing (around 400 euros per dog once sampling and shipping are counted, so 800 for both parents)
+- No genetic testing (around 400 euros per dog once sampling and shipping are counted)
 - Supermarket kibble instead of quality food
 - Few vaccinations, or none
 - No pedigree, or a false one

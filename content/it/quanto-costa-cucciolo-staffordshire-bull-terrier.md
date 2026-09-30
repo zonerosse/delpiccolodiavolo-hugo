@@ -156,7 +156,7 @@ Facciamo due conti.
 Una cucciolata fatta come si deve, lo abbiamo visto sopra voce per voce, costa circa 2.000 euro: con sei cuccioli sono più di 330 euro a cucciolo, prima di vaccinazioni, microchip ed esami. Con uno stallone all'estero e un cesareo si passano i 650. Un cucciolo venduto a poche centinaia di euro è sotto il costo di una cucciolata seria. Come è possibile?
 
 **Tagliando su tutto:**
-- Niente test genetici (circa 400€ per cane fra laboratorio, prelievo e spedizione, quindi 800€ solo per i genitori)
+- Niente test genetici (circa 400€ per cane fra laboratorio, prelievo e spedizione)
 - Crocchette da discount invece di alimentazione di qualità
 - Niente o poche vaccinazioni
 - Niente pedigree (o pedigree falso)

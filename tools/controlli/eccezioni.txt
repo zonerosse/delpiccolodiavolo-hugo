@@ -26,3 +26,4 @@ parita | /en/staffy-children-family/    # contenuto controllato paragrafo per pa
 parita | /de/welpen-sozialisierung-zuhause/    # come sopra, in tedesco
 sync_data | content/en/privacy-policy.md    # il 29/09 in italiano e' cambiata solo la data, non il testo
 sync_data | content/de/datenschutz.md    # come sopra
+parita | /en/females-staffordshire-bull-terrier/    # testo all'85% dell'italiano per le etichette italiane piu' lunghe (esente, test del DNA): va bene cosi' (settembre 2026)

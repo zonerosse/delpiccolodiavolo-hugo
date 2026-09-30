@@ -143,7 +143,7 @@ Rechnen wir kurz nach.
 Ein ordentlich geplanter Wurf kostet, wie oben Posten für Posten gezeigt, rund 2.000 Euro: Bei sechs Welpen sind das mehr als 330 Euro pro Welpe, vor Impfungen, Mikrochip und Untersuchungen. Mit einem Deckrüden im Ausland und einem Kaiserschnitt sind es über 650. Ein Welpe für wenige hundert Euro liegt also unter den Kosten eines seriösen Wurfs. Wie ist das möglich?
 
 **Indem an allem gespart wird:**
-- Keine Gentests (etwa 400 Euro pro Hund mit Blutentnahme und Versand, also 800 allein für die Eltern)
+- Keine Gentests (etwa 400 Euro pro Hund mit Blutentnahme und Versand)
 - Discounter-Futter statt hochwertiger Ernährung
 - Wenige Impfungen oder gar keine
 - Keine Ahnentafel oder eine gefälschte

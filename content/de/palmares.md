@@ -18,7 +18,7 @@ custom_content: |
   <h2 class="section-title">Von Uns Gezüchtete Champions</h2>
   
   <div class="intro-block">
-  <p>Die von Del Piccolo Diavolo gezüchteten Hunde haben bisher einen Titel als Italienischer Champion, drei als Italienischer Jugendchampion &mdash; Bilquis, Lothar, der auch Slowenischer Champion ist, und Queen of California &mdash; sowie die Titel Jugendchampion und Champion von San Marino errungen, dazu einen vierten Platz auf der World Dog Show mit Bilquis Goddess Diabhal, die zwölf aufeinanderfolgende Ausstellungen mit Vorzüglich 1 hinter sich hat. Im Mai 2026 holte Queen of California den Titel Italienische Jugendchampionin auf der Nationalen Ausstellung in Albarella. Es sind alles Hunde, die hier geboren und aufgewachsen sind, keine bereits betitelt gekauften. Ausstellungsergebnisse lassen sich nicht selbst bescheinigen: Die Kataloge der Veranstaltungen sind öffentlich, und die Richter, die diese Hunde bewertet haben, haben einen Vor- und Nachnamen. Titel sind aber nur ein Teil: Welches Leben diese Hunde heute führen, erzählen die <a href="/de/staffordshire-in-der-familie-geschichten/" title="Geschichten aus den Familien">Geschichten aus den Familien</a>.</p>
+  <p>Die von Del Piccolo Diavolo gezüchteten Hunde haben bisher einen Titel als Italienischer Champion, drei als Italienischer Jugendchampion &mdash; Bilquis, Lothar, der auch Slowenischer Champion ist, und Queen of California &mdash; sowie die Titel Jugendchampion und Champion von San Marino errungen, dazu einen vierten Platz auf der World Dog Show mit Bilquis Goddess Diabhal, die vierzehn aufeinanderfolgende Ausstellungen mit Vorzüglich 1 hinter sich hat. Im Mai 2026 holte Queen of California den Titel Italienische Jugendchampionin auf der Nationalen Ausstellung in Albarella. Es sind alles Hunde, die hier geboren und aufgewachsen sind, keine bereits betitelt gekauften. Ausstellungsergebnisse lassen sich nicht selbst bescheinigen: Die Kataloge der Veranstaltungen sind öffentlich, und die Richter, die diese Hunde bewertet haben, haben einen Vor- und Nachnamen. Titel sind aber nur ein Teil: Welches Leben diese Hunde heute führen, erzählen die <a href="/de/staffordshire-in-der-familie-geschichten/" title="Geschichten aus den Familien">Geschichten aus den Familien</a>.</p>
   <p>Die Selektion von Del Piccolo Diavolo basiert auf drei Säulen: Gesundheit, Charakter und Rassetyp. Ausstellungsergebnisse sind kein Selbstzweck, sondern Bestätigung, dass unsere Zuchtarbeit standardkonforme Hunde hervorbringt. Alle vorgestellten Hunde wurden in unserer Zucht geboren und aufgezogen.</p>
   </div>
   
@@ -62,7 +62,7 @@ custom_content: |
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
   <h3>ENCI Italienische Schönheitschampionin</h3>
   <p><strong>4. Platz bei der World Dog Show</strong> - Ein Weltklasse-Ergebnis, auf das wir stolz sind.</p>
-  <p><strong>Historischer Rekord:</strong> 12 aufeinanderfolgende Ausstellungen mit Vorzüglich 1. Platz. Italienischer Champion-Titel noch in der Zwischenklasse erreicht, ein Ergebnis, das nur wenige Staffordshire Bull Terrier in Italien vorweisen können.</p>
+  <p><strong>Historischer Rekord:</strong> 14 aufeinanderfolgende Ausstellungen mit Vorzüglich 1. Platz. Italienischer Champion-Titel noch in der Zwischenklasse erreicht, ein Ergebnis, das nur wenige Staffordshire Bull Terrier in Italien vorweisen können.</p>
   </div>
   </div>
   </div>

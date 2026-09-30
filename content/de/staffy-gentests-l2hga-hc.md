@@ -139,7 +139,7 @@ custom_content: |
   <p>Zunehmend wird auch die Atemqualität beurteilt. Der Staffordshire Bull Terrier ist keine brachyzephale Rasse, doch die Tendenz zu immer kürzeren Fängen in manchen Ausstellungslinien hat Folgen. Ein Hund, der bei Wärme oder nach mäßiger Bewegung Mühe hat, hat ein Wohlbefindensproblem, unabhängig davon, wie er im Stand aussieht.</p>
 
   <h2>Kosten der Vorsorge gegen Kosten der Krankheit</h2>
-  <p>Beide Elterntiere zu testen kostet einmalig insgesamt etwa 800 Euro. Die Lebenszeitkosten eines an L2-HGA erkrankten Hundes gehen in die Tausende, und eine Kataraktoperation an einem Auge kostet ungefähr so viel wie der Welpe selbst. Die eigentliche Frage ist aber nicht das Geld. Sie lautet: eine Familie, die sich bewusst für eine gesunde Rasse und einen Welpen mit Papieren entschieden hat, sollte nie in diese Lage kommen, wenn ein Wangenabstrich und 3 Wochen Wartezeit es vollständig verhindert hätten.</p>
+  <p>Die Tests kosten einmalig etwa 400 Euro pro Hund. Die Lebenszeitkosten eines an L2-HGA erkrankten Hundes gehen in die Tausende, und eine Kataraktoperation an einem Auge kostet ungefähr so viel wie der Welpe selbst. Die eigentliche Frage ist aber nicht das Geld. Sie lautet: eine Familie, die sich bewusst für eine gesunde Rasse und einen Welpen mit Papieren entschieden hat, sollte nie in diese Lage kommen, wenn ein Wangenabstrich und 3 Wochen Wartezeit es vollständig verhindert hätten.</p>
 
     <table>
   <thead>
@@ -148,7 +148,7 @@ custom_content: |
   <tbody>
   <tr><td>Laborpaket L2HGA + HC</td><td>Züchter</td><td>Einmal pro Hund</td><td>etwa 120 € pro Hund</td></tr>
   <tr><td>Probenahme, Versand und SOD1-Test bei Zuchthündinnen</td><td>Züchter</td><td>Einmal pro Hund</td><td>der Rest der Ausgabe</td></tr>
-  <tr><td><strong>Summe für ein Zuchtpaar</strong></td><td>Züchter</td><td>Vor der Verpaarung</td><td><strong>etwa 800 €</strong></td></tr>
+  <tr><td><strong>Summe pro Hund</strong></td><td>Züchter</td><td>Einmal pro Hund</td><td><strong>etwa 400 €</strong></td></tr>
   <tr><td>Antiepileptika für einen Hund mit L2-HGA</td><td>Familie</td><td>Das ganze Hundeleben</td><td>200–400 € im Monat</td></tr>
   <tr><td>Neurologische Termine und tägliche Betreuung</td><td>Familie</td><td>Wiederkehrend, oft bis zur frühen Einschläferung</td><td>unterschiedlich</td></tr>
   <tr><td>Operation der hereditären Katarakt</td><td>Familie</td><td>Ein- oder zweimal</td><td>2.000–4.000 € pro Auge</td></tr>

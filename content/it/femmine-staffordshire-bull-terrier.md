@@ -123,7 +123,7 @@ custom_content: |
   <p><strong>Proprietario:</strong> Stefano Tevini</p>
   <p><strong>Handler:</strong> Vittoria Passerini</p>
   <p><strong>Titolo:</strong> Giovane Campionessa Italiana — Albarella (RO), 17 maggio 2026. Cl. Giovani 1° Ecc, JCAC, JBOB, BOB. Miglior Staffy — Gruppo Cinofilo Polesano.</p>
-    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Figlia di Minnie, e la sua fotocopia: non solo nella struttura, ma soprattutto nella testa. La stessa esuberanza, la stessa richiesta continua di attenzioni, la stessa pancia all'aria facile. Queen non vive con noi, ma la vediamo spesso e chi vive con lei ci racconta ogni giorno come sta: quando si dice che il carattere si eredita, &egrave; lei la prova che abbiamo sotto gli occhi.</p>
+    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Figlia di Minnie, e la sua fotocopia: non solo nella struttura, ma soprattutto nella testa. La stessa esuberanza, la stessa richiesta continua di attenzioni, la stessa pancia all'aria facile. Queen non vive con noi, ma la vediamo spesso e Manuela, la moglie del proprietario, ci racconta ogni giorno come sta: quando si dice che il carattere si eredita, &egrave; lei la prova che abbiamo sotto gli occhi.</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" title="Vedi pedigree Queen of California su SBTPedigree" aria-label="Vedi il pedigree completo della cucciolata su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
   </div>
   </div>
@@ -191,6 +191,7 @@ custom_content: |
   <p><strong>Microchip:</strong> 276098104987682<br>
   <strong>LOI:</strong> LO1610654</p>
   <p><strong>Test Genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>PHPV:</strong> Esente</p>
   <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> CH. Hell's Angel</p>
   <p><strong>Madre:</strong> CH. Mellowstaff by Great'n Glory</p>
@@ -216,6 +217,7 @@ custom_content: |
   <p><strong>HD:</strong> B</p>
   <p><strong>ED:</strong> A</p>
   <p><strong>Test Genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>PHPV:</strong> Esente</p>
   <p><strong>Padre:</strong> CH. Kiraloebis Italian Gigalo (Top UK Staffordshire Bull Terrier 2012)</p>
   <p><strong>Madre:</strong> Lackyle Duilleog Daracha</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> La vecchietta di casa, la capobranco. Controlla tutto e tutti e cerca di darsi un tono in ogni situazione, poi si rende conto di essere tutto sommato uno Staffy e non pu&ograve; fare a meno di farsi coccolare. Una rompiscatole che vuole sempre stare al centro dell'attenzione. Il suo cuscino sta sul tappeto di fianco al mio letto.</p>

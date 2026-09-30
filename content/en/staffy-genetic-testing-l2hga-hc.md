@@ -146,7 +146,7 @@ custom_content: |
   <p>Increasingly, breathing quality is being assessed as well. The Staffordshire Bull Terrier is not a brachycephalic breed, but the tendency towards ever shorter muzzles in some show lines has consequences, and a dog that struggles in warm weather or after moderate exercise has a welfare problem regardless of how it looks standing still.</p>
 
   <h2>The cost of prevention against the cost of the disease</h2>
-  <p>Testing both parents costs around 800 euros in all, once. The lifetime cost of an L2-HGA affected dog runs into thousands, and the cost of cataract surgery for one eye is comparable to the price of the puppy. But the arithmetic is not really the point. The point is that a family who chose a healthy breed and paid for a pedigree puppy should never be put in that position, when a swab and 3 weeks of waiting would have prevented it entirely.</p>
+  <p>Testing costs around 400 euros per dog, once. The lifetime cost of an L2-HGA affected dog runs into thousands, and the cost of cataract surgery for one eye is comparable to the price of the puppy. But the arithmetic is not really the point. The point is that a family who chose a healthy breed and paid for a pedigree puppy should never be put in that position, when a swab and 3 weeks of waiting would have prevented it entirely.</p>
 
     <table>
   <thead>
@@ -155,7 +155,7 @@ custom_content: |
   <tbody>
   <tr><td>L2HGA + HC laboratory panel</td><td>Breeder</td><td>Once per dog</td><td>around €120 per dog</td></tr>
   <tr><td>Sampling, shipping and the SOD1 test on brood bitches</td><td>Breeder</td><td>Once per dog</td><td>the rest of the outlay</td></tr>
-  <tr><td><strong>Total for a breeding pair</strong></td><td>Breeder</td><td>Before the mating</td><td><strong>around €800</strong></td></tr>
+  <tr><td><strong>Total per dog</strong></td><td>Breeder</td><td>Once per dog</td><td><strong>around €400</strong></td></tr>
   <tr><td>Anti-epileptic drugs for a dog with L2-HGA</td><td>Family</td><td>For the dog's whole life</td><td>€200–400 a month</td></tr>
   <tr><td>Neurological appointments and daily management</td><td>Family</td><td>Recurring, often until early euthanasia</td><td>variable</td></tr>
   <tr><td>Surgery for hereditary cataract</td><td>Family</td><td>Once or twice</td><td>€2,000–4,000 per eye</td></tr>

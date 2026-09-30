@@ -120,7 +120,7 @@ custom_content: |
   <p><strong>Owner:</strong> Stefano Tevini</p>
   <p><strong>Handler:</strong> Vittoria Passerini</p>
   <p><strong>Title:</strong> Italian Young Champion — Albarella (RO), 17 May 2026. Junior Class 1st Excellent, JCAC, JBOB, BOB. Best Staffy — Polesano Canine Group.</p>
-    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Character.</strong> Minnie's daughter, and her carbon copy: not only in build, but above all in the head. The same exuberance, the same constant demand for attention, the same belly up at the drop of a hat. Queen does not live with us, but we see her often and the family she lives with tells us every day how she is: when people say character is inherited, she is the proof we have in front of us.</p>
+    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Character.</strong> Minnie's daughter, and her carbon copy: not only in build, but above all in the head. The same exuberance, the same constant demand for attention, the same belly up at the drop of a hat. Queen does not live with us, but we see her often and Manuela, her owner's wife, tells us every day how she is: when people say character is inherited, she is the proof we have in front of us.</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" title="View Queen of California pedigree on SBTPedigree" aria-label="View the full pedigree of the litter on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
   </div>
   </div>
@@ -188,6 +188,7 @@ custom_content: |
   <p><strong>Microchip:</strong> 276098104987682<br>
   <strong>LOI:</strong> LO1610654</p>
   <p><strong>Genetic Tests:</strong> L2HGA & HC (HSF4) clear by DNA</p>
+  <p><strong>PHPV:</strong> Unaffected</p>
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> CH. Hell's Angel</p>
   <p><strong>Dam:</strong> CH. Mellowstaff by Great'n Glory</p>
@@ -213,6 +214,7 @@ custom_content: |
   <p><strong>HD:</strong> B</p>
   <p><strong>ED:</strong> A</p>
   <p><strong>Genetic Tests:</strong> L2HGA & HC (HSF4) clear by DNA</p>
+  <p><strong>PHPV:</strong> Unaffected</p>
   <p><strong>Sire:</strong> CH. Kiraloebis Italian Gigalo (Top UK Staffordshire Bull Terrier 2012)</p>
   <p><strong>Dam:</strong> Lackyle Duilleog Daracha</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Character.</strong> The old lady of the house, the one in charge. She keeps an eye on everything and everyone and tries to look serious in every situation, then remembers she is a Staffy after all and cannot resist being fussed over. A nuisance who always wants to be the centre of attention. Her cushion is on the rug beside my bed.</p>

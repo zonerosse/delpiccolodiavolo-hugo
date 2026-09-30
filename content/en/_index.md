@@ -232,7 +232,7 @@ custom_content: |
   <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center;display:flex;flex-direction:column;height:100%">
   <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Bilquis Goddess Diabhal</h3>
   <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Italian Champion - 4th at the World Dog Show</p>
-  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Record: 12 consecutive shows graded Excellent 1st. Italian Champion in Intermediate Class. 4th at the World Dog Show. Top Dog Junior 2023.</p>
+  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Record: 14 consecutive shows graded Excellent 1st. Italian Champion in Intermediate Class. 4th at the World Dog Show. Top Dog Junior 2023.</p>
   </div>
 
   <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center;display:flex;flex-direction:column;height:100%">
