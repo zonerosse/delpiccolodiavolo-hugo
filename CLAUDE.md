@@ -120,12 +120,12 @@ There is **no waiting list and no booking**: Paolo removed both from the whole s
 
 - Page: `content/it/prenota.md` (slug `contatto`, `noindex`, Italian only, no `translationKey` — the form itself is trilingual). The link is not published anywhere on the site: Paolo sends it to people who ask. Confirmation page: `content/it/prenota-grazie.md` (slug `contatto-grazie`, noindex, `build.list: never`).
 - `partials/prenota.html`, via `<!--PRENOTA-->`, renders a plain `<form method="POST">` to `params.listaAttesaEndpoint` (a Google Apps Script `/exec` URL; the parameter keeps its old name). Without JavaScript it is a normal POST. With JavaScript it posts in the background (`fetch`, `no-cors`) and then sends the visitor to `/contatto-grazie/`, because the site's `X-Frame-Options: DENY` prevents the Apps Script response page from being framed. The `azienda` field is a honeypot.
-- Server side: `apps-script-prenotazioni.gs`, **not deployed by this repo** — to change it, paste it into the Apps Script editor and publish a new version of the existing deployment (the `/exec` URL does not change). `apps-script-lista-attesa.gs` is the previous version of the same script, kept for reference only.
+- Server side: `apps-script-prenotazioni.gs`, **not deployed by this repo** — to change it, paste it into the Apps Script editor and publish a new version of the existing deployment (the `/exec` URL does not change).
 - File names, the `listaAttesaEndpoint` parameter and the spreadsheet name in the script still say "prenota"/"lista d'attesa": internal leftovers, never to be used in visible text. Visible copy follows COME-SI-SCRIVE (no booking, waiting-list or sales language).
 
 ## Repo cruft — do not treat as source
 
-`lista.txt` (UTF-16 file listing) and `PULIZIA-FILE-VECCHI.bat` are leftovers from the site migration. The `LEGGIMI-*.md` / `LEGGIMI.txt` files in the root are delivery notes from past changes, not instructions: current rules live only in this file and in COME-SI-SCRIVE. `FILE-NON-USATI.md` is a dated snapshot of unused static files and is no longer accurate. `public/` is gitignored but present locally.
+`lista.txt` (UTF-16 file listing) and `PULIZIA-FILE-VECCHI.bat` are leftovers from the site migration. Delivery notes (`LEGGIMI-*`) are not kept in the repo: current rules live only in this file and in COME-SI-SCRIVE. `FILE-NON-USATI.md` is a dated snapshot of unused static files and is no longer accurate. `public/` is gitignored but present locally.
 
 ## Share cards (og:image) for articles
 
