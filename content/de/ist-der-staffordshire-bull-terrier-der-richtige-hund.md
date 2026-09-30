@@ -59,7 +59,7 @@ custom_content: |
   <p>Er ist vielleicht die am stärksten familiengebundene Rasse überhaupt. Er folgt Ihnen überallhin, liebt Körperkontakt, lebt dafür, bei Ihnen zu sein. Wenn Sie einen "distanzierten und unabhängigen" Hund suchen, ist er es nicht: Der Staffy will <em>Teil</em> des häuslichen Lebens sein.</p>
   
   <h3>2. Außergewöhnlich mit Kindern</h3>
-  <p>Nicht umsonst wird er in England <strong>"Nanny Dog"</strong> (Kindermädchen-Hund) genannt. Geduldig, tolerant und verspielt, gilt er traditionell als einer der besten Hunde für Familien mit Kindern.</p>
+  <p>Nicht umsonst wird er in England <strong>"Nanny Dog"</strong> (Kindermädchen-Hund) genannt. Geduldig, tolerant und verspielt, gilt er traditionell als einer der besten Hunde für <a href="/de/staffordshire-in-der-familie-geschichten/" title="Staffordshire Bull Terrier in der Familie: wahre Geschichten">Familien mit Kindern</a>.</p>
   
   <div style="background:#fff8e1;border-left:5px solid #f4b400;border-radius:8px;padding:1rem 1.3rem;margin:1.5rem 0">
   <p style="margin:0 0 .4rem;font-weight:700;color:#7a5c00;display:flex;align-items:center;gap:.5rem">⚠️ Immer beaufsichtigen</p>

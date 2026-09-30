@@ -2,12 +2,13 @@
 title: "Diario Allevamento"
 titleSeo: "Diario dell'allevamento: cucciolate, date e test genetici"
 date: 2026-01-31
-lastmod: 2026-09-28
+lastmod: 2026-09-30
 tipoPagina: "CollectionPage"
 articolo: true
 translationKey: "diario-allevamento"
 description: "Aggiornamenti, nascite e novità dall'allevamento Del Piccolo Diavolo. Segui la crescita dei nostri cuccioli di Staffordshire Bull Terrier."
 slug: "diario-allevamento"
+fonti_motivo: "Il diario registra fatti dell'allevamento Del Piccolo Diavolo, e per questo non cita fonti esterne: la verifica indipendente è il libro genealogico ENCI, dove il numero di cucciolate di ogni fattrice si controlla a partire dal suo microchip."
 ---
 
 Il diario di Del Piccolo Diavolo raccoglie tutte le cucciolate nate a Ostellato, con la data di nascita, i nomi dei due riproduttori, i loro test genetici e il numero di cuccioli. Nessuna cucciolata sparisce dal sito quando i cuccioli sono andati a casa loro, ed è voluto: è così che chiunque può contare quante ne nascono davvero in un anno, e confrontare il dato con il libro genealogico ENCI partendo dal microchip della madre. La media è di una cucciolata l'anno, occasionalmente due, in alcuni anni nessuna. Ogni scheda riporta i test genetici dei due riproduttori e il collegamento alla loro pagina su SBTPedigree, da cui si risale a nonni e bisnonni.
@@ -35,3 +36,5 @@ Le pagine non spariscono quando i cuccioli sono a casa loro. Restano con la loro
 Le cucciolate precedenti al 2026 — maggio 2025 e febbraio 2025 — sono raccontate nel <a href="/programma-allevamento/" title="Programma di allevamento">programma di allevamento</a>, insieme agli accoppiamenti e alle ragioni per cui li abbiamo scelti.
 
 Se non sai ancora cosa guardare in un allevamento, la <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento serio">guida su come riconoscerne uno serio</a> spiega gli otto criteri e come verificarli — su di noi come su chiunque altro.
+
+<p class="fonti">Fonti: Il diario registra fatti dell'allevamento Del Piccolo Diavolo, e per questo non cita fonti esterne: la verifica indipendente è il libro genealogico ENCI, dove il numero di cucciolate di ogni fattrice si controlla a partire dal suo microchip.</p>

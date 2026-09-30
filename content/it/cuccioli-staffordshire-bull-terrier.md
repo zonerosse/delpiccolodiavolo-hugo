@@ -2,7 +2,7 @@
 title: "Cuccioli Staffordshire Bull Terrier"
 titleSeo: "Cuccioli Staffordshire Bull Terrier con test verificabili"
 date: 2025-12-28
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
 description: "Cuccioli Staffordshire Bull Terrier a Ostellato (FE). Pedigree ENCI, genitori testati L2HGA e HC con i referti pubblicati sul sito, verificabili da chiunque."
@@ -20,6 +20,7 @@ correlati:
     titolo: "I colori della razza"
     testo: "Quali sono riconosciuti dallo standard"
 slug: "cuccioli-staffordshire-bull-terrier"
+fonti_motivo: "Questa pagina descrive come nascono e crescono i cuccioli dell'allevamento Del Piccolo Diavolo: sono dati propri, e per questo non ci sono fonti esterne da citare. Le date di ogni cucciolata e i referti dei genitori sono pubblicati nel diario dell'allevamento e nelle schede dei riproduttori."
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
@@ -118,7 +119,7 @@ custom_content: |
 
   <p><strong>Sono sempre io che vado dal maschio</strong>, mai il contrario: il maschio resta a casa sua, si sposta la femmina.</p>
 
-  <p>Quando lo stallone scelto &egrave; un maschio di livello, capita spesso che il proprietario si appoggi a un veterinario per l'<strong>inseminazione strumentale</strong>, con deposizione intracervicale. Le ragioni sono tre: evitare il rischio di malattie trasmissibili, non sottoporre il soggetto a sforzi eccessivi, e avere la certezza che l'accoppiamento avvenga. Perch&eacute; &mdash; e questa &egrave; una cosa che chi non alleva non immagina &mdash; <strong>non per tutti i maschi accoppiarsi &egrave; facile</strong>. Molto dipende dalla femmina: ce n'&egrave; pi&ugrave; d'una che non gliela rende semplice per niente.</p>
+  <p>Quando <a href="/genitori-visibili-cosa-significa/" title="Genitori visibili: cosa significa">lo stallone scelto</a> &egrave; un maschio di livello, capita spesso che il proprietario si appoggi a un veterinario per l'<strong>inseminazione strumentale</strong>, con deposizione intracervicale. Le ragioni sono tre: evitare il rischio di malattie trasmissibili, non sottoporre il soggetto a sforzi eccessivi, e avere la certezza che l'accoppiamento avvenga. Perch&eacute; &mdash; e questa &egrave; una cosa che chi non alleva non immagina &mdash; <strong>non per tutti i maschi accoppiarsi &egrave; facile</strong>. Molto dipende dalla femmina: ce n'&egrave; pi&ugrave; d'una che non gliela rende semplice per niente.</p>
 
   <h3>La gravidanza: due esami, due scopi diversi</h3>
 
@@ -292,6 +293,12 @@ custom_content: |
 
   <!--GUIDE-->
   <!--CORRELATI-->
+
+  <section class="section">
+  <div class="section-inner content-single">
+  <p class="fonti">Fonti: Questa pagina descrive come nascono e crescono i cuccioli dell'allevamento Del Piccolo Diavolo: sono dati propri, e per questo non ci sono fonti esterne da citare. Le date di ogni cucciolata e i referti dei genitori sono pubblicati nel diario dell'allevamento e nelle schede dei riproduttori.</p>
+  </div>
+  </section>
 
   <section class="cta-section">
   <h2>Vuoi Saperne di Più?</h2>

@@ -48,7 +48,7 @@ correlati:
 
 <p><strong>In breve:</strong> il carattere dello Staffordshire Bull Terrier non è un caso né un merito del singolo cane. È il risultato di una selezione durata due secoli, in cui l'affidabilità verso le persone era il requisito non negoziabile. Capire da dove viene quel temperamento serve a riconoscere un soggetto tipico e a capire perché la scelta dell'allevatore conta più della razza sulla carta.</p>
 
-<p>Il temperamento dello Staffordshire Bull Terrier non è un caso: è il risultato di una selezione precisa e delle prime settimane di vita. Lo standard di razza descrive un cane <strong>coraggioso, tenace e affidabile con le persone</strong>, e su quest'ultimo punto la selezione dei riproduttori pesa più di qualsiasi addestramento successivo. La componente su cui vale la pena informarsi è un'altra: essendo un terrier, può mostrare reattività verso i propri simili, soprattutto fra cani dello stesso sesso in età adulta, e la socializzazione precoce la riduce ma non la cancella. Un carattere si valuta guardando i genitori e i fratelli di cucciolata, non il singolo cucciolo a tre settimane. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
+<p>Il temperamento dello Staffordshire Bull Terrier non è un caso: è il risultato di una selezione precisa e delle <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor e stimolazione precoce">prime settimane di vita</a>. Lo standard di razza descrive un cane <strong>coraggioso, tenace e affidabile con le persone</strong>, e su quest'ultimo punto la selezione dei riproduttori pesa più di qualsiasi addestramento successivo. La componente su cui vale la pena informarsi è un'altra: essendo un terrier, può mostrare reattività verso i propri simili, soprattutto fra cani dello stesso sesso in età adulta, e la socializzazione precoce la riduce ma non la cancella. Un carattere si valuta guardando i genitori e i fratelli di cucciolata, non il singolo cucciolo a tre settimane. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
 <h2>Un carattere costruito, non ereditato per caso</h2>
 
@@ -78,7 +78,7 @@ correlati:
 
 <p>Nell'<a href="/">allevamento Del Piccolo Diavolo</a> il carattere non è un auspicio ma un criterio di esclusione. Un soggetto che mostra insicurezza marcata, reattività eccessiva o diffidenza verso le persone non entra nel programma di riproduzione, per quanto sia corretto nella morfologia.</p>
 
-<p>La ragione è pratica: la morfologia si corregge in 2 o 3 generazioni scegliendo bene i partner, il carattere no. Un difetto caratteriale si propaga a lungo e si manifesta nelle case delle famiglie, non nel ring.</p>
+<p>La ragione è pratica: la morfologia si corregge in 2 o 3 generazioni scegliendo bene i partner, il carattere no. Un difetto caratteriale si propaga a lungo e si manifesta <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">nelle case delle famiglie</a>, non nel ring.</p>
 
 <p>Questo significa rinunciare, a volte, a soggetti bellissimi. È il costo di una selezione onesta.</p>
 
@@ -96,7 +96,7 @@ correlati:
 
 <h2>Quanto pesa l'allevatore rispetto alla razza</h2>
 
-<p>La razza definisce un intervallo, l'allevatore decide dove ti collochi dentro quell'intervallo. Due Staffordshire Bull Terrier con pedigree simili sulla carta possono avere temperamenti sensibilmente diversi, a seconda di cosa è stato selezionato e di come sono state passate le prime 8 settimane.</p>
+<p>La razza definisce un intervallo, l'allevatore decide dove ti collochi dentro quell'intervallo. Due Staffordshire Bull Terrier con <a href="/come-si-legge-un-pedigree/" title="Come si legge un pedigree">pedigree simili sulla carta</a> possono avere temperamenti sensibilmente diversi, a seconda di cosa è stato selezionato e di come sono state passate le prime 8 settimane.</p>
 
 <p>Quelle settimane, per inciso, sono metà della finestra di socializzazione: ciò che il cucciolo incontra dal terzo giorno di vita fino all'affidamento entra a far parte del suo mondo normale. Un cucciolo cresciuto in cucina, fra rumori domestici e visitatori, arriva a casa tua con un vantaggio che poi non si recupera.</p>
 

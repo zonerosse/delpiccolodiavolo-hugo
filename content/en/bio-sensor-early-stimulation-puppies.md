@@ -77,7 +77,7 @@ custom_content: |
 
   <p>The <strong>sensitive period for socialisation</strong> &mdash; roughly from the third to the twelfth week, with the core between the fourth and the eighth &mdash; is one of the best established findings in dog behaviour. Whatever a puppy meets in those weeks becomes part of its normal world; whatever it does not meet will remain, for life, something to be assessed.</p>
 
-  <p>The <strong>quality of maternal care</strong> matters a great deal too: a settled mother, in an environment she knows, raises steadier puppies. One more reason to look at the mother when you visit a kennel.</p>
+  <p>The <strong>quality of maternal care</strong> matters a great deal too: a settled mother, in an environment she knows, raises steadier puppies. One more reason to <a href="/en/parents-on-site-what-it-means/" title="&quot;Parents on site&quot;: what it really means">look at the mother when you visit a kennel</a>.</p>
 
   <h2>What we do</h2>
 

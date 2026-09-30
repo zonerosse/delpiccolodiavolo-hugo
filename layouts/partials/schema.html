@@ -13,6 +13,15 @@
 
 {{ $currentURL := .Permalink }}
 
+{{/* Pagine senza fonti esterne: il motivo (fonti_motivo nel front matter)
+     si dichiara anche ai motori e alle IA, con la proprieta' "backstory"
+     di schema.org, che spiega come e perche' e' nato un contenuto. */}}
+{{ with .Params.fonti_motivo }}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","@id":"{{ $currentURL }}","url":"{{ $currentURL }}","backstory":"{{ . }}"}
+</script>
+{{ end }}
+
 {{ $faqsrc := .Params.custom_content | default .Content }}
 {{/* Le sezioni di invito finale ("Vuoi saperne di piu'?", "Hai altre
      domande?") hanno titoli con il punto di domanda ma non sono FAQ:

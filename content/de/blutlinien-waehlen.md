@@ -62,7 +62,7 @@ custom_content: |
   <p>Eine Ahnentafel erzählt von Vorfahren. Der Züchter erzählt vom Welpen, den Sie tatsächlich bekommen. Diese Fragen bringen am meisten.</p>
   <p>Warum genau diese beiden Hunde? Wer ein Programm hat, antwortet mit dem, was jedes Elterntier einbringt, was verbessert werden sollte und welcher Kompromiss dafür akzeptiert wurde. Ohne Programm lautet die Antwort, dass beide schön sind.</p>
   <p>Was würden Sie an diesem Wurf ändern? Wer ehrlich ist, hat eine konkrete Antwort.</p>
-  <p>Wo leben die Welpen? Welpen, die in der Küche zwischen Haushaltsgeräuschen aufwachsen, sind mit 8 Wochen deutlich besser sozialisiert als Welpen aus einem sauberen Außenzwinger, und der Unterschied bleibt.</p>
+  <p>Wo leben die Welpen? Welpen, die in der Küche zwischen Haushaltsgeräuschen aufwachsen, sind mit 8 Wochen <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das wirklich heißt">deutlich besser sozialisiert</a> als Welpen aus einem sauberen Außenzwinger, und der Unterschied bleibt.</p>
   <p>Was passiert, wenn es nicht funktioniert? Die richtige Antwort lautet, dass der Hund zum Züchter zurückkommt, in jedem Alter, aus jedem Grund, und dass es im Vertrag steht.</p>
 
   <h2>Linienzucht und wo die Grenze liegt</h2>

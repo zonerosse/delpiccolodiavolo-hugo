@@ -1,6 +1,6 @@
 ---
 title: "Staffy or Amstaff, Which Suits You: the Breeder's Test"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 articolo: true
 image: "/images/blog/staffy-amstaff-hero.webp"
 og_image: "/images/og/schede/en/staffy-or-amstaff-which-breed-suits-you.jpg"
@@ -11,6 +11,7 @@ translationKey: "differenza-staffy-amstaff"
 description: "Seven questions on home, children, experience, time and paperwork, from a Staffordshire Bull Terrier breeder since 2013. For choosing, not for telling apart."
 slug: "staffy-or-amstaff-which-breed-suits-you"
 date: 2026-01-18
+fonti_motivo: "This page sets out the test the Del Piccolo Diavolo kennel uses with people asking for a puppy: it is the breeder's own questions and direct experience, not data from the literature. The measurements of the two breeds come from the FCI standards of the Staffordshire Bull Terrier and the American Staffordshire Terrier."
 ---
 
 <section class="hero">
@@ -90,3 +91,5 @@ date: 2026-01-18
 <p>Come and visit the kennel and see the character of the Staffordshire Bull Terrier for yourself.</p>
 <a href="https://wa.me/393924635584?text=Hi%20Paolo%2C%20I%27d%20like%20to%20visit%20the%20kennel" class="btn btn-light" title="Contact us on WhatsApp">Contact Us on WhatsApp</a>
 </section>
+
+<p class="fonti">Sources: This page sets out the test the Del Piccolo Diavolo kennel uses with people asking for a puppy: it is the breeder's own questions and direct experience, not data from the literature. The measurements of the two breeds come from the FCI standards of the <a href="https://www.fci.be/en/nomenclature/STAFFORDSHIRE-BULL-TERRIER-76.html" target="_blank" rel="noopener" title="FCI standard no. 76" aria-label="FCI standard no. 76, Staffordshire Bull Terrier (opens in a new tab)">Staffordshire Bull Terrier</a> and the <a href="https://www.fci.be/en/nomenclature/AMERICAN-STAFFORDSHIRE-TERRIER-286.html" target="_blank" rel="noopener" title="FCI standard no. 286" aria-label="FCI standard no. 286, American Staffordshire Terrier (opens in a new tab)">American Staffordshire Terrier</a>.</p>

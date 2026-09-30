@@ -1,6 +1,6 @@
 ---
 title: "Staffy oder Amstaff, welcher passt zu Ihnen: der Test des Züchters"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 articolo: true
 image: "/images/blog/staffy-amstaff-hero.webp"
 og_image: "/images/og/schede/de/staffy-oder-amstaff-welche-rasse-passt-zu-ihnen.jpg"
@@ -11,6 +11,7 @@ translationKey: "differenza-staffy-amstaff"
 description: "Sieben Fragen zu Wohnung, Kindern, Erfahrung, Zeit und Bürokratie, von einem Staffordshire Bull Terrier Züchter seit 2013. Zum Wählen, nicht zum Unterscheiden."
 slug: "staffy-oder-amstaff-welche-rasse-passt-zu-ihnen"
 date: 2026-01-18
+fonti_motivo: "Diese Seite gibt den Test wieder, den die Zucht Del Piccolo Diavolo bei Welpenanfragen verwendet: Es sind die eigenen Fragen und die direkte Erfahrung des Züchters, keine Daten aus der Fachliteratur. Die Maße der beiden Rassen stammen aus den FCI-Standards des Staffordshire Bull Terrier und des American Staffordshire Terrier."
 ---
 
 <section class="hero">
@@ -90,3 +91,5 @@ date: 2026-01-18
 <p>Besuchen Sie uns in der Zucht und erleben Sie das Wesen des Staffordshire Bull Terrier selbst.</p>
 <a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20w%C3%BCrde%20gerne%20die%20Zucht%20besuchen" class="btn btn-light" title="Kontakt über WhatsApp">Kontakt über WhatsApp</a>
 </section>
+
+<p class="fonti">Quellen: Diese Seite gibt den Test wieder, den die Zucht Del Piccolo Diavolo bei Welpenanfragen verwendet: Es sind die eigenen Fragen und die direkte Erfahrung des Züchters, keine Daten aus der Fachliteratur. Die Maße der beiden Rassen stammen aus den FCI-Standards des <a href="https://www.fci.be/en/nomenclature/STAFFORDSHIRE-BULL-TERRIER-76.html" target="_blank" rel="noopener" title="FCI-Standard Nr. 76" aria-label="FCI-Standard Nr. 76, Staffordshire Bull Terrier (wird in einem neuen Tab geöffnet)">Staffordshire Bull Terrier</a> und des <a href="https://www.fci.be/en/nomenclature/AMERICAN-STAFFORDSHIRE-TERRIER-286.html" target="_blank" rel="noopener" title="FCI-Standard Nr. 286" aria-label="FCI-Standard Nr. 286, American Staffordshire Terrier (wird in einem neuen Tab geöffnet)">American Staffordshire Terrier</a>.</p>

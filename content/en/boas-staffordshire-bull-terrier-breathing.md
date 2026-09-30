@@ -1,7 +1,7 @@
 ---
 title: "BOAS in Staffordshire Bull Terriers: Why Breathing Matters"
 date: 2025-12-28
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 titleSeo: "BOAS in the Staffordshire Bull Terrier: breathing"
 translationKey: "boas"
 articolo: true
@@ -48,6 +48,8 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">What is BOAS</span>
+  <p>The Staffordshire Bull Terrier is a moderately brachycephalic breed: its muzzle is shortened, but not to the extremes of the pug or the English bulldog, and in most dogs breathing is normal. <strong>BOAS</strong> &mdash; brachycephalic obstructive airway syndrome &mdash; is therefore not a breed sentence but a risk to know about: the signs are marked snoring even when awake, noisy breathing at rest, intolerance of exertion and heat, and frequent regurgitation. A dog that pants heavily after a few minutes of play is not unfit: it needs to be seen by a vet. In breeding what matters is choosing dogs with open nostrils and an uncompressed nasal passage: a typical head must never work against function.</p>
+
   <h2 class="section-title">Brachycephalic Obstructive Airway Syndrome</h2>
   
   <div class="content-block">

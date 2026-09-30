@@ -77,7 +77,7 @@ custom_content: |
 
   <p>Die <strong>sensible Phase der Sozialisierung</strong> &mdash; etwa von der dritten bis zur zwölften Woche, mit dem Kern zwischen der vierten und der achten &mdash; gehört zum Bestbelegten in der Verhaltensbiologie des Hundes. Was ein Welpe in diesen Wochen kennenlernt, wird Teil seiner normalen Welt; was er nicht kennenlernt, bleibt ein Leben lang etwas, das erst bewertet werden muss.</p>
 
-  <p>Auch die <strong>Qualität der mütterlichen Fürsorge</strong> zählt sehr: eine ruhige Hündin in einer ihr vertrauten Umgebung zieht stabilere Welpen auf. Ein Grund mehr, beim Besuch einer Zucht auf die Mutter zu schauen.</p>
+  <p>Auch die <strong>Qualität der mütterlichen Fürsorge</strong> zählt sehr: eine ruhige Hündin in einer ihr vertrauten Umgebung zieht stabilere Welpen auf. Ein Grund mehr, beim Besuch einer Zucht <a href="/de/eltern-vor-ort-was-das-bedeutet/" title="&quot;Eltern vor Ort&quot;: was das wirklich bedeutet">auf die Mutter zu schauen</a>.</p>
 
   <h2>Was wir tun</h2>
 

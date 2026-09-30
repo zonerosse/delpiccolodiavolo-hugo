@@ -112,31 +112,11 @@ custom_content: |
   <div class="faq-answer">Gesetzlich vorgeschrieben ist keiner, und das sollte man klar sagen: Wer nicht testet, verstößt gegen keine Vorschrift. Was es gibt, ist ein gemeinsamer Maßstab an Seriosität, der bei dieser Rasse L2-HGA, erblichen Katarakt und degenerative Myelopathie umfasst, alle mit DNA-Tests. Entscheidend ist nicht, dass Tests gemacht wurden, sondern dass sie überprüfbar sind: Ein Befund zählt nur, wenn er die Mikrochipnummer des Hundes, den Namen des Labors und das Datum trägt. Ohne Mikrochip lässt er sich keinem bestimmten Tier zuordnen. Auf dieser Website sind die Befunde der Zuchttiere veröffentlicht und herunterladbar, damit jeder sie prüfen kann, ohne uns fragen zu müssen.</div>
   </div>
 
-  <div class="faq-item active">
-  <div class="faq-question">
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Gibt es den "Staffy in Miniaturausgabe"?</h3>
-  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
-  </div>
-  <div class="faq-answer">Nein. Zwergformen dieser Rasse existieren nicht. Wer sie anbietet, verkauft entweder einen untypischen Hund oder eine Mischung, in beiden Fällen ohne anerkannte Papiere.</div>
   </div>
 
-  <div class="faq-item active">
-  <div class="faq-question">
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Sind blaue Hunde erlaubt?</h3>
-  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
-  </div>
-  <div class="faq-answer">Blau ist eine zugelassene Farbe. Blau ist jedoch häufiger mit der Farbmutantenalopezie verbunden, und ein Preisaufschlag für blaue Welpen ist ein Warnsignal, kein Qualitätsmerkmal.</div>
-  </div>
-
-  <div class="faq-item active">
-  <div class="faq-question">
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Muss ein Zuchthund ausgestellt worden sein?</h3>
-  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
-  </div>
-  <div class="faq-answer">Nicht zwingend, aber eine unabhängige Beurteilung im Ring ist ein nützliches Korrektiv gegen Betriebsblindheit. Wichtiger sind dokumentierte Gesundheitsergebnisse.</div>
-  </div>
-
-  </div>
+  <p><strong>Gibt es den "Staffy in Miniaturausgabe"?</strong> Nein. Zwergformen dieser Rasse existieren nicht. Wer sie anbietet, verkauft entweder einen untypischen Hund oder eine Mischung, in beiden Fällen ohne anerkannte Papiere.</p>
+  <p><strong>Sind blaue Hunde erlaubt?</strong> Blau ist eine zugelassene Farbe. Blau ist jedoch häufiger mit der Farbmutantenalopezie verbunden, und ein Preisaufschlag für blaue Welpen ist ein Warnsignal, kein Qualitätsmerkmal.</p>
+  <p><strong>Muss ein Zuchthund ausgestellt worden sein?</strong> Nicht zwingend, aber eine unabhängige Beurteilung im Ring ist ein nützliches Korrektiv gegen Betriebsblindheit. Wichtiger sind dokumentierte Gesundheitsergebnisse.</p>
 
   <div class="related-articles">
   <h3>Mehr zum Thema</h3>

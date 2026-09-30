@@ -224,6 +224,32 @@ microscopio preso dal referto dell'esame delle feci.
 **Ogni guida ne cita almeno una.** Un testo che afferma senza mai rimandare a
 una fonte è indistinguibile da un'opinione.
 
+**Quando una fonte esterna non c'è, si dice perché.** Molte pagine sono
+personali: la storia dell'allevamento, i cuccioli, il diario, le recensioni,
+il test Staffy o Amstaff. Lì i fatti sono dell'allevamento e una fonte esterna
+non esiste. In quel caso:
+
+1. nel front matter si scrive `fonti_motivo: "…"` con il motivo in una frase;
+2. in fondo alla pagina, prima dell'invito finale, si mette la stessa frase
+   visibile: `<p class="fonti">Fonti: …</p>` (EN *Sources:*, DE *Quellen:*),
+   indicando dove si verificano i dati (referti, ENCI, profilo Google);
+3. il template la dichiara anche ai motori e alle IA come `backstory` nello
+   schema della pagina.
+
+Le pagine legali hanno solo il `fonti_motivo`, senza frase visibile.
+Lo script di controllo segnala ogni pagina che non ha né una fonte esterna né
+il `fonti_motivo`.
+
+Perché: una pagina senza fonti e senza spiegazione sembra un'opinione; una
+pagina che dice "questi sono dati nostri, e si verificano così" è una
+testimonianza diretta, che per un motore generativo vale più di una fonte
+ripresa da altri.
+
+**Icone e foto.** Le icone di testata degli articoli sono decorative: `alt=""`
+(il titolo le segue subito), e restano fuori dalla sitemap. Le icone SVG
+decorative hanno `aria-hidden="true"`. L'`alt` descrittivo è per le foto
+vere, cani compresi, sempre.
+
 Fonti usate finora: ENCI, Kennel Club britannico, WSAVA, AVSAB, Gazzetta
 Ufficiale, Regolamento UE 576/2013, Royal Veterinary College, PubMed, Cornell,
 Cambridge, SBTPedigree.

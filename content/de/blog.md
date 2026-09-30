@@ -1,11 +1,12 @@
 ---
 title: "Staffordshire Bull Terrier Blog - Artikel & Ratgeber"
 date: 2025-12-28
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 tipoPagina: "CollectionPage"
 translationKey: "blog"
 description: "Artikel über Welpen, Gesundheit, Standard und Zusammenleben mit dem Staffordshire Bull Terrier. Praktische Tipps aus der Zucht."
 slug: "blog"
+fonti_motivo: "Diese Seite ist das Verzeichnis der Ratgeber der Zucht Del Piccolo Diavolo: Externe Quellen werden in jedem Ratgeber genannt, direkt neben der Angabe, die sie belegen."
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
@@ -29,6 +30,12 @@ custom_content: |
   
   <!-- RASSE UND GESETZGEBUNG -->
   <!--RECENTI-->
+
+  <section class="section">
+  <div class="section-inner content-single">
+  <p>Dieser Blog sammelt die Ratgeber, die wir über den Staffordshire Bull Terrier schreiben, nach Themen geordnet: Rasse und Gesetz, Welpen, Standard und Blutlinien, Gesundheit, Familie und Zusammenleben. Es sind keine Artikel, die geschrieben wurden, um die Website zu füllen: Sie entstehen aus den Fragen, die uns wirklich gestellt werden, und wo nötig sagen sie auch das Unbequeme &mdash; dass Tests Grenzen haben, dass Reaktivität gegenüber anderen Hunden existiert, dass eine verbreitete Methode die Belege nicht hat, die sie verspricht. Wo wir eine Zahl nennen, geben wir die Quelle an: ENCI, britischer Kennel Club, tierärztliche Leitlinien oder veröffentlichte Studien. <strong>Die meistgelesenen Ratgeber</strong> sind die darüber, wie man eine seriöse Zucht erkennt, über die Gentests L2-HGA und HC und darüber, wie man eine Ahnentafel liest.</p>
+  </div>
+  </section>
 
   <section class="section" id="gesetzgebung">
   <div class="section-inner">
@@ -416,6 +423,12 @@ custom_content: |
   </div>
   </section>
   
+  <section class="section">
+  <div class="section-inner content-single">
+  <p class="fonti">Quellen: Diese Seite ist das Verzeichnis der Ratgeber der Zucht Del Piccolo Diavolo: Externe Quellen werden in jedem Ratgeber genannt, direkt neben der Angabe, die sie belegen.</p>
+  </div>
+  </section>
+
   <section class="dark-section">
   <h2>Haben Sie Fragen?</h2>
   <p>Wenn Sie Zweifel zu einem Thema haben oder ein Thema für den Blog vorschlagen möchten, kontaktieren Sie uns.</p>

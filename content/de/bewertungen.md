@@ -6,6 +6,7 @@ tipoPagina: "CollectionPage"
 translationKey: "recensioni"
 description: "Die Google-Bewertungen der Familien, die einen Welpen von Del Piccolo Diavolo gewählt haben. Echte Erfahrungen, vor und nach der Abgabe."
 slug: "bewertungen"
+fonti_motivo: "Die hier gezeigten Bewertungen stammen von Kunden der Zucht Del Piccolo Diavolo: Ihre Quelle ist das Google-Profil der Zucht, auf das jede einzelne Bewertung verlinkt, und es gibt keine weiteren externen Quellen zu nennen."
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
@@ -37,6 +38,8 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">Unser Ruf</span>
   <h2 class="section-title">Warum Bewertungen Zählen</h2>
+
+  <p>Del Piccolo Diavolo hat eine durchschnittliche Bewertung von <!--REC-VOTO--> aus <!--REC-TOTALE--> Bewertungen im Google-Profil der Zucht, alle an der Quelle überprüfbar: Jede auf dieser Seite gezeigte Bewertung trägt den Namen der Person, die sie geschrieben hat, und einen direkten Link zum Original auf Google, wo jeder sie lesen kann, ohne über uns zu gehen. Es sind Familien, die zwischen 2013 und heute einen Staffordshire Bull Terrier Welpen aus Ostellato in der Provinz Ferrara übernommen haben. Eine Bewertung auf einer Website ohne Link zur Quelle ist nicht überprüfbar: Jeder könnte sie geschrieben haben, auch der Züchter. Es ist dasselbe Prinzip wie bei den Befunden der Gentests, die hier mit der Mikrochipnummer des Hundes veröffentlicht sind. Die Bewertungen erzählen von der Vermittlung; was danach geschah, Jahre später, erzählen die <a href="/de/staffordshire-in-der-familie-geschichten/" title="Geschichten aus den Familien">Geschichten der Hunde, die wir gezüchtet haben</a>.</p>
   <div class="values-grid">
   <div class="value-card"><h3>✓ Transparenz</h3><p>Jede Bewertung bei Google verifizierbar</p></div>
   <div class="value-card"><h3>⭐ <!--REC-VOTO-->/5</h3><p>Durchschnitt aufgebaut seit 2013</p></div>
@@ -323,6 +326,12 @@ custom_content: |
   </section>
   
   <!-- CTA -->
+  <section class="section">
+  <div class="section-inner content-single">
+  <p class="fonti">Quellen: Die hier gezeigten Bewertungen stammen von Kunden der Zucht Del Piccolo Diavolo: Ihre Quelle ist das Google-Profil der Zucht, auf das jede einzelne Bewertung verlinkt, und es gibt keine weiteren externen Quellen zu nennen.</p>
+  </div>
+  </section>
+
   <section class="dark-section">
   <h2>Möchten Sie uns kennenlernen?</h2>
   <p>Kontaktieren Sie uns unverbindlich für Informationen über unsere Welpen.</p>

@@ -49,7 +49,7 @@ correlati:
 <p><strong>Kurz gefasst:</strong> das Wesen des Staffordshire Bull Terrier ist weder Zufall noch das Verdienst des einzelnen Hundes. Es ist das Ergebnis einer zwei Jahrhunderte währenden Selektion, in der Zuverlässigkeit gegenüber Menschen die nicht verhandelbare Bedingung war. Wer versteht, woher dieses Wesen kommt, erkennt einen typischen Vertreter — und begreift, warum die Wahl der Zucht mehr wiegt als die Rasse auf dem Papier.</p>
 
 
-<p>Das Wesen des Staffordshire Bull Terrier ist kein Zufall: Es ist das Ergebnis gezielter Selektion und der ersten Lebenswochen. Der Rassestandard beschreibt einen <strong>mutigen, zähen und gegenüber Menschen zuverlässigen</strong> Hund, und bei diesem letzten Punkt wiegt die Auswahl der Zuchttiere mehr als jede spätere Erziehung. Nachfragen sollte man bei etwas anderem: Als Terrier kann er gegenüber Artgenossen reaktiv sein, vor allem zwischen erwachsenen Hunden gleichen Geschlechts, und frühe Sozialisierung verringert das, beseitigt es aber nicht. Das Wesen beurteilt man an den Eltern und Wurfgeschwistern, nicht an einem einzelnen Welpen mit drei Wochen. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
+<p>Das Wesen des Staffordshire Bull Terrier ist kein Zufall: Es ist das Ergebnis gezielter Selektion und <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor und Frühstimulation: was die Forschung sagt">der ersten Lebenswochen</a>. Der Rassestandard beschreibt einen <strong>mutigen, zähen und gegenüber Menschen zuverlässigen</strong> Hund, und bei diesem letzten Punkt wiegt die Auswahl der Zuchttiere mehr als jede spätere Erziehung. Nachfragen sollte man bei etwas anderem: Als Terrier kann er gegenüber Artgenossen reaktiv sein, vor allem zwischen erwachsenen Hunden gleichen Geschlechts, und <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das wirklich heißt">frühe Sozialisierung</a> verringert das, beseitigt es aber nicht. Das Wesen beurteilt man an den Eltern und Wurfgeschwistern, nicht an einem einzelnen Welpen mit drei Wochen. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
 <h2>Ein Wesen, das gebaut wurde, nicht zufällig entstand</h2>
 
@@ -79,7 +79,7 @@ correlati:
 
 <p>In unserer <a href="/de/">Zucht</a> ist Wesen kein Wunsch, sondern ein Ausschlusskriterium. Ein Hund mit ausgeprägter Unsicherheit, übermäßiger Reaktivität oder Misstrauen gegenüber Menschen kommt nicht ins Zuchtprogramm, wie korrekt sein Körperbau auch sein mag.</p>
 
-<p>Der Grund ist praktisch: Anatomie lässt sich in zwei oder drei Generationen durch gute Partnerwahl korrigieren, Wesen nicht. Ein Wesensfehler vererbt sich über viele Generationen und zeigt sich in Familien, nicht im Ring.</p>
+<p>Der Grund ist praktisch: Anatomie lässt sich in zwei oder drei Generationen durch gute Partnerwahl korrigieren, Wesen nicht. Ein Wesensfehler vererbt sich über viele Generationen und <a href="/de/staffordshire-in-der-familie-geschichten/" title="Staffordshire Bull Terrier in der Familie: wahre Geschichten">zeigt sich in Familien</a>, nicht im Ring.</p>
 
 <p>Das bedeutet auch, gelegentlich auf sehr schöne Hunde zu verzichten. Das ist der Preis ehrlicher Selektion.</p>
 
@@ -97,7 +97,7 @@ correlati:
 
 <h2>Wie viel die Zucht gegenüber der Rasse wiegt</h2>
 
-<p>Die Rasse steckt einen Rahmen ab, die Zucht entscheidet, wo innerhalb dieses Rahmens Sie landen. Zwei Staffordshire Bull Terrier mit auf dem Papier vergleichbaren Ahnentafeln können deutlich unterschiedliche Wesen haben, je nachdem, worauf selektiert wurde und wie die ersten acht Wochen verliefen.</p>
+<p>Die Rasse steckt einen Rahmen ab, die Zucht entscheidet, wo innerhalb dieses Rahmens Sie landen. Zwei Staffordshire Bull Terrier mit <a href="/de/wie-man-eine-ahnentafel-liest/" title="Ahnentafel lesen: was die ENCI zeigt und was nicht">auf dem Papier vergleichbaren Ahnentafeln</a> können deutlich unterschiedliche Wesen haben, je nachdem, worauf selektiert wurde und wie die ersten acht Wochen verliefen.</p>
 
 <p>Diese Wochen sind übrigens die Hälfte des Sozialisierungsfensters: was ein Welpe zwischen dem dritten Lebenstag und der Abgabe kennenlernt, wird Teil seiner normalen Welt. Ein Welpe, der in der Küche aufgewachsen ist, zwischen Haushaltsgeräuschen und Besuch, kommt mit einem Vorsprung zu Ihnen, der sich später nicht mehr aufholen lässt.</p>
 

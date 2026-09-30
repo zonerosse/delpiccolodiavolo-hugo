@@ -41,52 +41,396 @@ custom_content: |
   <p>Der Staffordshire Bull Terrier wurde gezüchtet, um eng mit Menschen zu arbeiten, nicht um Territorium zu bewachen. Das erklärt die außergewöhnliche Menschenfreundlichkeit, für die die Rasse bekannt ist. Es erklärt aber auch zwei Eigenschaften, die im Zusammenleben mit anderen Tieren zählen: einen Rest an Beutetrieb gegenüber kleinen, sich schnell bewegenden Tieren, und bei einer Minderheit der Hunde eine geringe Toleranz gegenüber gleichgeschlechtlichen Artgenossen ab der sozialen Reife zwischen 18 Monaten und 3 Jahren.</p>
   <p>Keine der beiden Eigenschaften ist ein Urteil. Nach über einem Jahrzehnt Zucht und der Begleitung unserer Welpen in ihren Familien ist das Bild deutlich: die meisten Staffies leben problemlos mit einem bereits vorhandenen Hund oder einer Katze zusammen, wenn die Zusammenführung sauber gemacht wird. Manche brauchen dauerhaftes Management, also getrennte Fütterung und beaufsichtigte gemeinsame Zeit. Einige wenige sind als Einzelhund besser aufgehoben. Herauszufinden, zu welcher Gruppe Ihr Hund gehört, ist die eigentliche Aufgabe.</p>
 
-  <h2>Verträglichkeit einschätzen, bevor Sie sich festlegen</h2>
-  <p>Drei einfache Beobachtungen sagen sehr viel. Achten Sie darauf, wie Ihr Staffy auf eine Katze hinter dem Fenster reagiert: kurzes Interesse, das nach Sekunden nachlässt, ist ein gutes Zeichen; ein starrer Blick mit steifem Körper nicht. Beobachten Sie eine Begegnung mit einem fremden Hund auf neutralem Boden: eine lockere, im Bogen geführte Annäherung mit wedelnder Rute spricht für eine einfache Integration, eine gerade und angespannte Frontalannäherung bedeutet, dass Sie mehr Zeit brauchen. Nehmen Sie schließlich einen begehrten Kauartikel weg und geben Sie ihn zurück: ein Hund, der das gelassen hinnimmt, teilt sich ein Zuhause deutlich leichter.</p>
+  <h2>Das Wesen einschätzen: Verträglichkeit mit anderen Tieren</h2>
 
-  <h2>Fünf schnelle Prüfungen, und wann man es nicht allein versucht</h2>
-  <p>Bevor Sie eine Zusammenführung planen, geben fünf einfache Prüfungen ein realistisches Bild Ihres Hundes. Ignoriert er beim Spaziergang fast jeden Hund oder grüßt er höflich? Spielt er auf der Hundewiese mit Selbstbeherrschung, respektiert die Beschwichtigungssignale anderer Hunde und löst sich leicht? Bemerkt er Katzen oder Kleintiere auf der Straße, schaut aber auf Aufforderung weg, ohne heftig zu ziehen? Können Sie sich zu Hause nähern, während er frisst oder kaut, ohne dass er erstarrt oder knurrt? Und kommt er auf Rückruf, auch mitten im wilden Spiel? Vier oder fünf Ja bedeuten gute Verträglichkeit, zwei oder drei ein längeres Vorgehen, keines oder eines, dass von Anfang an ein Fachmann nötig ist.</p>
-  <p>Manche Situationen sollte man nie ohne Hilfe angehen: ein Staffy, der bereits ein anderes Tier gebissen oder angegriffen hat; zwanghaftes Jagen von Kleintieren, bei dem sich der Hund nicht mehr abrufen lässt, sobald er fixiert; starkes Verteidigen von Futter oder Spielzeug mit Beißen oder Beißversuchen; fehlende Impulskontrolle, ein Hund, der aufgeregt nie reagiert; und Reaktivität gegenüber Menschen wie Tieren. In diesen Fällen arbeitet man vor jedem Versuch mit einem tierärztlichen Verhaltensmediziner oder einem qualifizierten Trainer.</p>
+  <p>Nicht jeder <strong>Staffordshire Bull Terrier</strong> ist gleich gut mit anderen Tieren verträglich. Bevor Sie eine Zusammenführung versuchen, ist eine ehrliche Einschätzung des Wesens Ihres Hundes entscheidend, für den Erfolg wie für die Sicherheit.</p>
 
-  <h2>Die Wohnung vorbereiten</h2>
-  <p>Die meisten gescheiterten Zusammenführungen scheitern an der Umgebung, nicht an den Tieren. Richten Sie vorher zwei getrennte Futterplätze außer Sichtweite voneinander ein, einen Rückzugsort, dem niemand folgen darf, und ein Türgitter, durch das sich die Tiere sehen und riechen können, ohne Kontakt zu haben.</p>
-  <p>Für Katzen ist die vertikale Ebene nicht verhandelbar. Regale, ein hoher Kratzbaum und ein Fluchtweg nach oben in jedem wichtigen Raum verändern die Dynamik grundlegend: eine Katze, die jederzeit gehen kann, fühlt sich nicht gefangen und rennt nicht weg, und eine Katze, die nicht rennt, löst selten eine Hetzjagd aus. Katzentoiletten kommen dorthin, wo der Hund physisch nicht hinkommt.</p>
+  <h3>Profil A - Hohe Verträglichkeit (gut sozialisierte Staffys)</h3>
+  <ul>
+  <li><strong>Merkmale:</strong> intensive frühe Sozialisierung (als Welpe zwischen der 8. und 16. Woche mit vielen verschiedenen Hunden), durchgehend positive Erfahrungen, nie ein aggressiver Vorfall gegenüber anderen Tieren</li>
+  <li><strong>Typisches Verhalten:</strong> schnuppert neugierig, nähert sich im Bogen (nicht frontal), nimmt Korrekturen anderer Hunde an, spielt mit Selbstkontrolle, löst sich leicht</li>
+  <li><strong>Mögliche Zusammenführungen:</strong> andere Hunde (gleich groß oder größer), Katzen (mit schrittweisem Vorgehen), eventuell kleine Tiere unter Aufsicht</li>
+  <li><strong>Zeitrahmen:</strong> im Schnitt 2-4 Wochen bis zu einem stabilen Zusammenleben</li>
+  </ul>
 
-  <h2>Zusammenführung mit einem anderen Hund, Schritt für Schritt</h2>
-  <p><strong>Tag eins bis drei: nur Geruch.</strong> Die Hunde bleiben getrennt, Decken und Spielzeug werden zweimal täglich getauscht. Jeder Hund darf den Bereich des anderen erkunden, während dieser woanders ist. Noch kein Sichtkontakt.</p>
-  <p><strong>Tag vier bis sieben: neutraler Boden.</strong> Beide Hunde an der <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Italienische Verordnung vom 6. August 2013" target="_blank" rel="noopener" aria-label="Italienische Verordnung vom 6. August 2013 (wird in einem neuen Tab geöffnet)">Leine</a> parallel spazieren führen, in einem Abstand, bei dem beide entspannt bleiben. Den Abstand über mehrere Einheiten verringern, nie so weit, dass einer sich versteift. Jede Einheit beenden, solange beide noch entspannt sind.</p>
-  <p><strong>Tag acht bis einundzwanzig: kontrollierte Zeit drinnen.</strong> Kurze Einheiten im selben Raum, Leinen locker, alle Spielzeuge, Kauartikel und Näpfe entfernt. 10 Minuten reichen anfangs völlig.</p>
-  <p><strong>Woche vier bis acht: beaufsichtigte Freiheit.</strong> Leinen ablegen, Ressourcen weiterhin weg, Sie bleiben im Raum. Erst nach mehreren Wochen ohne einen einzigen angespannten Moment sollten Sie überlegen, die Hunde allein zu lassen — und bei manchen Paaren lautet die ehrliche Antwort: nie ganz.</p>
+  <h3>Profil B - Mittlere Verträglichkeit</h3>
+  <ul>
+  <li><strong>Merkmale:</strong> gute, aber nicht ideale Sozialisierung, einige bewältigte Spannungsmomente, anfängliche Selektivität (Vorlieben nach Rasse, Größe oder Geschlecht), möglicherweise mäßiges Ressourcenverteidigen</li>
+  <li><strong>Typisches Verhalten:</strong> zunächst steif, dann entspannter; kräftiges Spiel, das einschüchtern kann; löst sich schwer, wenn sehr aufgeregt</li>
+  <li><strong>Mögliche Zusammenführungen:</strong> andere Hunde mit robustem Wesen, Katzen MIT erweitertem Vorgehen und dauerhaften Barrieren, KEINE kleinen Tiere</li>
+  <li><strong>Zeitrahmen:</strong> 4-8 Wochen, mit möglichen Rückschritten, die man auffangen muss</li>
+  </ul>
 
-  <h2>Zusammenführung mit einer Katze</h2>
-  <p>Rechnen Sie mit 10 bis 16 Wochen und kürzen Sie nicht ab. Beginnen Sie mit vollständiger Trennung und Geruchsaustausch für eine Woche. Dann Sichtkontakt durch ein Türgitter, der Hund an der Leine, belohnt dafür, dass er von der Katze wegschaut statt hin. Diese Übung ist die wichtigste des gesamten Prozesses, weil sie dem Hund beibringt, dass sich Ignorieren lohnt.</p>
-  <p>Erst wenn der Hund mehrere Minuten entspannt liegen bleiben kann, während die Katze sichtbar ist, darf gemeinsamer Raum folgen — und auch dann mit Schleppleine. Gefüttert wird durchgehend in getrennten Räumen.</p>
+  <h3>Profil C - Geringe Verträglichkeit</h3>
+  <ul>
+  <li><strong>Merkmale:</strong> offene Aggression gegenüber anderen Hunden oder Tieren in der Vorgeschichte, fehlende oder traumatische Sozialisierung, starkes Ressourcenverteidigen, hoher, nicht steuerbarer Beutetrieb</li>
+  <li><strong>Typisches Verhalten:</strong> intensives Fixieren, Versteifen des Körpers, Vorschnellen und Zerren an der <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Verordnung vom 6. August 2013, Gazzetta Ufficiale" target="_blank" rel="noopener" aria-label="Verordnung vom 6. August 2013, Gazzetta Ufficiale (wird in einem neuen Tab geöffnet)">Leine</a>, aggressive Lautäußerungen, Beißen oder Angriffe</li>
+  <li><strong>Zusammenführungen:</strong> DRINGEND ABZURATEN. Vor jedem Versuch braucht es einen Verhaltensexperten</li>
+  </ul>
 
-  <h2>Die Zusammenführung mit der Katze, Phase für Phase</h2>
-  <p>Wie es verläuft, hängt vor allem vom Jagdinteresse des Hundes ab. Ein Staffy, der Katzen auf der Straße ignoriert oder sie bemerkt und leicht wegschaut, kann dem normalen Vorgehen folgen. Einer, der intensiv starrt, aber auf Rückruf noch reagiert, braucht das erweiterte Vorgehen und dauerhafte Gitter. Einer, der fixiert, heftig zieht und aufgeregt lautgibt, kommt ohne Verhaltensexperten nicht in Frage.</p>
-  <p><strong>Woche 1 bis 2: vollständige Trennung.</strong> Die Katze hat ein eigenes Zimmer mit Katzenklappe, der Hund den Rest der Wohnung. Tauschen Sie täglich die Decken, reiben Sie ein Tuch an der Katze und lassen Sie es beim Hund, und belohnen Sie ruhiges Interesse. Später erkundet die Katze die Wohnung, während der Hund auf einem langen Spaziergang ist, dann umgekehrt.</p>
-  <p><strong>Woche 3 bis 6: Sehen durch ein Gitter.</strong> Ein Türgitter erlaubt Sicht ohne Kontakt. Der Hund ist an der Leine und wird schrittweise näher gebracht, jeweils wenige Minuten, mehrmals am Tag, belohnt für Hinschauen und Wegschauen, ruhiges Schnuppern oder Hinlegen. Aufregung oder Vorspringen bedeuten mehr Abstand.</p>
-  <p><strong>Woche 7 bis 10: erster Kontakt im selben Raum.</strong> Der Hund immer an einer Schleppleine von drei bis fünf Metern, die Katze immer mit Fluchtwegen in der Höhe. Die Einheiten beginnen mit drei bis fünf Minuten und enden, bevor einer von beiden Stress zeigt. Jagen ist nie erlaubt: läuft die Katze weg und der Hund hinterher, sofort abrufen und die Einheit beenden, denn Jagen verstärkt das Beuteverhalten. Das Ziel ist nicht Freundschaft, sondern friedliches Nebeneinander.</p>
-  <p><strong>Woche 11 bis 16: Freiheit unter Aufsicht.</strong> Zuerst ohne Leine in einem großen Raum unter voller Aufsicht, dann tagsüber frei in der Wohnung. Nachts bleiben beide getrennt, und erst nach mehreren Monaten ohne einen einzigen Vorfall ist es vernünftig, es anders zu versuchen.</p>
-  <p>Die ganze Zeit frisst der Hund hinter geschlossener Tür, die Katze auf einem Brett in mindestens 120 cm Höhe oder in einem Raum mit Katzenklappe, am besten während der Hund draußen ist. Das Katzenklo steht dort, wo der Hund nicht hinkommt: viele Hunde fressen Katzenkot, und ein Hund, der die Katze mit Futter verbindet, ist genau das, was man nicht will.</p>
+  <div class="alert">
+  <p class="alert-title">⚠️ Wann Sie es NICHT ohne Fachleute versuchen sollten</p>
+  <ul>
+  <li><strong>Aggression in der Vorgeschichte:</strong> der Staffy hat schon andere Tiere gebissen oder angegriffen</li>
+  <li><strong>Extremer Beutetrieb:</strong> zwanghaftes Jagen kleiner Tiere, nicht abrufbar, sobald er auf Beute „eingerastet“ ist</li>
+  <li><strong>Starkes Ressourcenverteidigen:</strong> beißt oder versucht zu beißen, wenn man sich beim Fressen oder Spielen nähert</li>
+  <li><strong>Fehlende Impulskontrolle:</strong> reagiert NIE auf den Rückruf, wenn er aufgeregt ist</li>
+  <li><strong>Generalisierte Reaktivität:</strong> Aggression gegenüber Menschen und anderen Tieren</li>
+  </ul>
+  <p>In diesen Fällen braucht es einen tierärztlichen Verhaltensmediziner oder einen zertifizierten Hundetrainer (in Italien ENCI oder FICSS).</p>
+  </div>
 
-  <h2>Kaninchen, Nager, Frettchen und Vögel</h2>
-  <p>Hier sind wir bewusst deutlich: Für die meisten Staffordshire Bull Terrier sollten frei laufende Kleintiere und der Hund niemals unbeaufsichtigt denselben Raum teilen. Derselbe Trieb, der den Staffy zu einem verspielten Begleiter macht, reagiert auf eine plötzliche Bewegung in Bodennähe — und zwar schneller, als jeder Rückruf wirken kann.</p>
-  <p>Ein sicheres Nebeneinander unter einem Dach ist dagegen gut machbar. Es braucht Gehege, die der Hund weder öffnen noch umwerfen kann, Kontakt ausschließlich durch eine Barriere, und die feste Regel, dass Freilaufzeit des Kleintiers und Anwesenheit des Hundes sich nie überschneiden. Wo beide einen Raum teilen müssen, steht das Gehege erhöht, nicht am Boden.</p>
+  <h3>Schnelltests vor der Zusammenführung</h3>
 
-  <h2>Ressourcen verwalten: hier beginnen die meisten Konflikte</h2>
-  <p>Auseinandersetzungen zwischen Tieren, die sich sonst vertragen, beginnen fast immer an einem Gegenstand: einem Knochen, einem Napf, einem Lieblingsplatz auf dem Sofa oder der Aufmerksamkeit des Menschen. Die Vorbeugung ist unspektakulär und wirksam. Getrennt füttern, hinter geschlossenen Türen. Hochwertige Kauartikel nur in getrennten Bereichen. Mehr Liegeplätze anbieten, als Tiere im Haushalt leben.</p>
-  <p>Wenn ein Hund sich versteift oder über einem Gegenstand erstarrt, sobald sich ein anderes Tier nähert, holen Sie früh fachliche Hilfe. Ressourcenverteidigung lässt sich in den ersten Wochen sehr gut bearbeiten und nach Monaten nur noch mühsam.</p>
+  <div class="checklist">
+  <p class="checklist-title">Checkliste zum Wesen</p>
+  <ul>
+  <li>Spaziergang: Ignoriert oder begrüßt der Staffy 8 von 10 Hunden höflich?</li>
+  <li>Hundewiese: Spielt er mit Selbstkontrolle, achtet auf Beschwichtigungssignale und löst sich leicht?</li>
+  <li>Katzen und kleine Tiere auf der Straße: Bemerkt er sie, schaut aber auf Aufforderung weg, ohne heftig zu ziehen?</li>
+  <li>Ressourcen zu Hause: Können Sie sich nähern, während er frisst oder spielt, ohne dass er erstarrt oder knurrt?</li>
+  <li>Rückruf unter starker Ablenkung: Kommt er, auch wenn er gerade intensiv spielt?</li>
+  </ul>
+  </div>
 
-  <h2>Signale lesen</h2>
-  <p>Gähnen, Lecken über die Nase, den Kopf abwenden, ohne Anlass am Boden schnüffeln: das sind Beschwichtigungssignale, und im richtigen Zusammenhang sind sie ein gutes Zeichen, weil der Hund die Situation entschärfen will. Ein harter starrer Blick, ein plötzlich geschlossenes Maul nach dem Hecheln, eine hoch und steif getragene Rute, nach vorn verlagertes Gewicht oder sichtbares Weiß im Auge bedeuten: Abstand vergrößern und die Einheit beenden, bevor etwas passiert.</p>
-  <p>Achten Sie langfristig auch auf die leiseren Anzeichen. Eine Katze, die ihre gewohnten Schlafplätze meidet, oder ein Hund, der weniger frisst, teilt Ihnen mit, dass die Situation Stress bedeutet, auch wenn es nie einen Vorfall gab.</p>
+  <p><strong>Auswertung:</strong> 4-5 positive Tests = hohe Verträglichkeit. 2-3 positive = mittlere Verträglichkeit (erweitertes Vorgehen). 0-1 positive = Fachleute nötig.</p>
 
-  <h2>Häufige Probleme und was wirklich hilft</h2>
-  <p><strong>Der Hund jagt die Katze.</strong> 2 Wochen zurück zur Arbeit am Türgitter und die Wegschau-Übung neu aufbauen. Eingeübtes Jagen belohnt sich selbst, warten Sie also nicht ab.</p>
-  <p><strong>Streit um Futter oder Möbel.</strong> Die umstrittene Ressource einen Monat lang vollständig entfernen und danach nur getrennt wieder anbieten. Versuchen Sie nicht, Teilen beizubringen.</p>
-  <p><strong>Ein Tier drangsaliert das andere.</strong> Trennung erhöhen, Liegeplätze ergänzen, dem ruhigeren Tier einen eigenen Raum geben. Das löst sich selten ohne Veränderung der Umgebung.</p>
-  <p><strong>Die Katze versteckt sich dauerhaft.</strong> Das ist das am meisten unterschätzte Scheitern. Eine Katze hinter dem Schrank toleriert die Lage nicht, sie erträgt sie. Vollständige Trennung wiederherstellen und deutlich langsamer neu beginnen.</p>
+  <h2>Ein Zuhause für mehrere Tiere vorbereiten: Räume und Ausstattung</h2>
+
+  <p>Viele Zusammenführungen scheitern an der Umgebung, nicht an den Tieren. Das Zuhause VOR der Ankunft des neuen Tieres vorzubereiten, vermeidet riskantes Improvisieren.</p>
+
+  <h3>Unverzichtbare Ausstattung</h3>
+
+  <ul>
+  <li><strong>Ausziehbare Gitter (30-60 €):</strong> teilweise Sichttrennung zwischen Räumen. Gerüche und Geräusche kommen durch, KEIN Körperkontakt. Dauerhaft als Sicherheit installiert lassen</li>
+  <li><strong>Box oder modulares Gehege (50-120 €):</strong> sichere Zone für das verletzlichere Tier (Katze, kleiner Hund, Welpe). Ein immer zugänglicher Rückzugsort</li>
+  <li><strong>Lange Hausleine, 3-5 m (15-25 €):</strong> Kontrolle über den Staffy bei den ersten Begegnungen, ohne ihn zu sehr einzuschränken</li>
+  <li><strong>Maulkorb in Korbform (25-40 €):</strong> volle Sicherheit bei Zweifeln am Wesen. Er erlaubt Atmen, Trinken und Belohnen. NUR wenn der Hund schon positiv daran gewöhnt ist</li>
+  <li><strong>Pheromon-Zerstäuber (20-35 € im Monat):</strong> Adaptil (Hunde) oder Feliway (Katzen) senken den Stress. Eine Woche VOR der Zusammenführung einschalten und 4-6 Wochen beibehalten</li>
+  </ul>
+
+  <h3>Höhe für Katzen</h3>
+
+  <p>Bei der Zusammenführung eines Staffys mit einer Katze ist eine Umgebung in der Höhe NICHT verhandelbar:</p>
+
+  <ul>
+  <li><strong>Hohe Regale (&gt;150 cm):</strong> erhöhte Wege, auf denen die Katze Räume durchquert, ohne herunterzukommen. Vor der Ankunft des Staffys an den Wänden anbringen</li>
+  <li><strong>Sehr hohe Kratzbäume (180 cm+):</strong> mit mehreren Plattformen, an strategischen Ecken</li>
+  <li><strong>Türen mit Katzenklappe:</strong> Die Katze erreicht Räume, die für den Staffy tabu sind (Schlafzimmer, Arbeitszimmer). Sie hat immer einen Fluchtweg</li>
+  <li><strong>Katzenklo außer Reichweite des Hundes:</strong> hinter einem Möbelstück mit Zugang nur für die Katze oder erhöht. Der Staffy darf NIE hinkommen</li>
+  <li><strong>Erhöhte Katzennäpfe:</strong> auf Regalen ab 120 cm oder in getrennten Räumen mit Katzenklappe. Keinerlei Futterkonkurrenz</li>
+  </ul>
+
+  <p><strong>Budget für die Katzen-Einrichtung in der Höhe:</strong> 150-350 € zu Beginn. Eine Investition, die einen guten Teil der Probleme zwischen Hund und Katze verhindert.</p>
+
+  <div class="checklist">
+  <p class="checklist-title">Checkliste doppelte Ressourcen</p>
+  <ul>
+  <li>Futternäpfe: einer pro Tier plus einer extra, an VERSCHIEDENEN Orten (wenn möglich in getrennten Räumen)</li>
+  <li>Wassernäpfe: mindestens 3 verschiedene Stellen im Haus. Überfluss verhindert Verteidigen</li>
+  <li>Körbchen und Ruheplätze: 2 pro Tier (die Vorlieben wechseln). Nie Teilen erzwingen</li>
+  <li>Spielzeug: getrennte Sets für jeden Hund. Interaktives Spielzeug anfangs nur unter Aufsicht</li>
+  <li>Aufmerksamkeit des Halters: JEDEN Tag garantierte Zeit zu zweit (getrennte Spaziergänge, Training, exklusive Streicheleinheiten)</li>
+  </ul>
+  </div>
+
+  <h2>Zusammenführung Staffy und Hund: ein genaues Vorgehen Schritt für Schritt</h2>
+
+  <p>Die Zusammenführung zweier Hunde braucht ein langsames und methodisches Vorgehen. Wer drängt, riskiert Auseinandersetzungen, die die Beziehung dauerhaft belasten.</p>
+
+  <h3>PHASE 1: Geruchsaustausch (Tag 1-3)</h3>
+
+  <p><strong>Tag 1-2: Decken oder Matten tauschen</strong> - Hund A schläft auf Decke X, Hund B auf Decke Y. Nach 24 Stunden die Decken tauschen. Jeder Hund beschnuppert den Geruch des anderen in Ruhe in seinem eigenen Bereich. Reaktionen beobachten: entspannte Neugier = in Ordnung, Anspannung oder Knurren = problematisches Wesen.</p>
+
+  <p><strong>Tag 2-3: Räume tauschen</strong> - Hund A geht lange spazieren (60+ Minuten). In dieser Zeit erkundet Hund B frei Haus und Garten von Hund A, schnuppert und markiert leicht. Dann umgekehrt. Gegenseitige Gewöhnung an den Geruch VOR dem ersten Sichtkontakt.</p>
+
+  <p><strong>Tag 3: Begegnung durch eine Barriere</strong> - Ein Gitter teilt den Raum. Die beiden Hunde auf gegenüberliegenden Seiten, 3-4 m Abstand. Sie sehen sich, haben aber KEINEN Kontakt. Großzügige Belohnung, wenn sie sich ignorieren oder ruhige Neugier zeigen. Einheiten von 5-10 Minuten, 3-4 Mal am Tag.</p>
+
+  <h3>PHASE 2: Erste direkte Begegnung draußen (Tag 4-7)</h3>
+
+  <p><strong>Ideale Bedingungen:</strong></p>
+  <ul>
+  <li><strong>Ort:</strong> ein neutraler Park oder ein Feld (NIE Haus oder Garten des ansässigen Hundes, das ist verteidigtes Revier)</li>
+  <li><strong>Personen:</strong> 2 Erwachsene, jeder führt einen Hund</li>
+  <li><strong>Ausrüstung:</strong> lange Leinen von 3-5 m, Geschirre (KEINE Halsbänder), Leckerlibeutel</li>
+  <li><strong>Vorbereitung:</strong> beide Hunde VORHER 30 Minuten ausgelastet (müde Hunde reagieren weniger)</li>
+  </ul>
+
+  <p><strong>Ablauf der ersten Begegnung:</strong></p>
+  <ol>
+  <li><strong>Schritt 1 - Paralleles Gehen mit 10 m Abstand (10-15 Min.):</strong> Die Hunde gehen in dieselbe Richtung auf gegenüberliegenden Wegseiten. KEIN direkter Blickkontakt. Wenn ein Hund den anderen anstarren will, die Aufmerksamkeit auf den Führenden umlenken (Leckerli, Schnüffeln)</li>
+  <li><strong>Schritt 2 - Abstand schrittweise verringern (10 Min.):</strong> Wenn sie entspannt sind, nach und nach verringern: 8 m → 5 m → 3 m. Bei Anspannung STOPPEN</li>
+  <li><strong>Schritt 3 - Annäherung im „U“ (5-10 Min.):</strong> Die Wege laufen schrittweise zusammen, aber NICHT frontal. Sie kreuzen sich fast, mit sehr kurzem Schnüffeln (2-3 Sekunden), ohne anzuhalten. 3-5 Mal wiederholen</li>
+  <li><strong>Schritt 4 - Längeres Schnüffeln (5-10 Min.):</strong> gegenseitiges Beschnuppern des Hinterteils für 10-15 Sekunden zulassen. Mit einem fröhlichen Rückruf unterbrechen, BEVOR sie fertig sind. 3-4 Mal schnüffeln lassen, dann die Einheit positiv BEENDEN</li>
+  </ol>
+
+  <div class="info-box">
+  <p class="info-box-title">💚 Signale für einen sofortigen STOPP</p>
+  <p>Versteifter Körper, gesträubtes Fell, hoch getragene, unbewegte Rute, Knurren, aggressives Bellen, Vorschnellen. Zeigt einer davon etwas = unterbrechen, Abstand vergrößern und am nächsten Tag zum vorigen Schritt zurückkehren.</p>
+  </div>
+
+  <h3>PHASE 3: Kontrollierte Begegnungen im Haus (Tag 8-21)</h3>
+
+  <p>Erst NACH 3-5 positiven Begegnungen draußen mit Begegnungen im Haus beginnen:</p>
+
+  <ul>
+  <li><strong>Tag 8-10:</strong> beide im Haus, aber in getrennten Räumen mit Gitter. Sie können sich aus der Ferne sehen. Täglich gemeinsame Spaziergänge draußen</li>
+  <li><strong>Tag 11-14:</strong> Einheiten im selben Raum, beide an langer Leine. 15-30 Minuten unter voller Aufsicht. Kein Spielzeug, kein Futter</li>
+  <li><strong>Tag 15-21:</strong> Leinen abnehmen, wenn gegenseitiger Respekt, kein Verteidigen und leichtes Lösen da sind. Die Gitter bleiben als optionale Barrieren</li>
+  </ul>
+
+  <h3>PHASE 4: Freiheit unter Aufsicht (Woche 4-8)</h3>
+
+  <ul>
+  <li><strong>Woche 4-5:</strong> fast vollständige Freiheit im Haus. Aufsicht vorhanden, aber weniger intensiv. Nachts noch getrennt</li>
+  <li><strong>Woche 6-8:</strong> wenn es keinerlei Spannungen gab, Freiheit in der Nacht versuchen. Morgens auf Stresszeichen achten</li>
+  <li><strong>Ab Monat 3:</strong> Das Zusammenleben hat sich eingespielt. Die Beziehung zwischen den Hunden ist geklärt. Ressourcen weiterhin doppelt halten</li>
+  </ul>
+
+  <div class="callout">
+  <p class="callout-title">🏆 Wie lange eine Zusammenführung wirklich dauert</p>
+  <p>Mit einem ausgeglichenen ansässigen Hund und einem schrittweisen Vorgehen reichen meist einige Wochen. Fehlt das eine oder das andere, dauert es Monate, und in manchen Fällen klappt das Zusammenleben nicht und die Hunde müssen für immer getrennt bleiben. Am meisten zählen die frühe Sozialisierung des Staffys, das Einhalten der Zeiten und das Wesen des Hundes, der schon im Haus lebt. Was „sozialisierter Welpe“ wirklich heißt und wie man es beim Besuch einer Zucht prüft, steht unter <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das heißt">sozialisierte Welpen: was das heißt</a>.</p>
+  </div>
+
+  <h2>Zusammenführung Staffy und Katze: vollständige Desensibilisierung (10-16 Wochen)</h2>
+
+  <p>Das Zusammenleben mit einer Katze braucht IMMER mehr Zeit und Vorsicht als mit einem anderen Hund. Das Jagen kleiner, schneller Beute ist bei vielen Staffys ein starker Instinkt.</p>
+
+  <h3>Den Beutetrieb des Staffys einschätzen</h3>
+  <ul>
+  <li><strong>Geringer Beutetrieb (IDEAL):</strong> ignoriert Katzen auf der Straße oder im Park, bemerkt sie, lässt sich aber leicht ablenken, zieht nicht zu kleinen Tieren. Zusammenleben mit dem normalen Vorgehen machbar</li>
+  <li><strong>Mittlerer Beutetrieb (BEHERRSCHBAR):</strong> Interesse an Katzen, aber mit Verstärkung steuerbar, schaut intensiv, zieht aber nicht heftig, reagiert auch abgelenkt auf den Rückruf. Möglich mit erweitertem Vorgehen und dauerhaften Barrieren</li>
+  <li><strong>Hoher Beutetrieb (KRITISCH):</strong> zwanghaftes Jagen, vollständiges visuelles „Einrasten“, heftiges Ziehen, aufgeregte Laute. Zusammenleben ABZURATEN oder nur mit Verhaltensexperten</li>
+  </ul>
+
+  <h3>Die Phasen im Einzelnen</h3>
+
+  <p><strong>PHASE 1: Vollständige Trennung mit Geruchsaustausch (Woche 1-2)</strong></p>
+  <ul>
+  <li><strong>Woche 1:</strong> Die Katze hat Schlafzimmer und Bad (Türen zu, Katzenklappe in der Tür). Der Staffy den Rest des Hauses. Täglich Decken tauschen. Die Katze mit einem Tuch streicheln und das Tuch beim Staffy lassen (belohnen, wenn er entspannt ist)</li>
+  <li><strong>Woche 2:</strong> Der Staffy geht 2 Stunden in den Garten oder spazieren. Die Katze erkundet frei das Haus und markiert ihr Revier. Dann umgekehrt. 3-4 Mal pro Woche wiederholen</li>
+  </ul>
+
+  <p><strong>PHASE 2: Sichtkontakt durch Barrieren (Woche 3-6)</strong></p>
+  <ul>
+  <li><strong>Woche 3-4:</strong> die Katze in ihrem sicheren Raum. Ein Gitter lässt sie sich sehen, KEIN Kontakt. Der Staffy an der Leine, schrittweise näher geführt. Ruhiges Schauen = Belohnung. Aufregung oder Vorschnellen = mehr Abstand. Einheiten von 5-10 Minuten, 3-4 Mal am Tag</li>
+  <li><strong>Woche 5-6:</strong> den Staffy nach und nach bis auf 1 m ans Gitter heranführen. Die Katze MUSS Fluchtwege in der Höhe haben. Belohnen: 2 Sekunden schauen und dann wegsehen, ruhig in die Luft schnuppern, entspannt sitzen</li>
+  </ul>
+
+  <p><strong>PHASE 3: Erste Kontakte im selben Raum (Woche 7-10)</strong></p>
+
+  <div class="alert">
+  <p class="alert-title">⚠️ ENTSCHEIDENDE Regeln für die ersten direkten Kontakte zwischen Hund und Katze</p>
+  <ul>
+  <li><strong>Staffy IMMER an langer Leine:</strong> 3-5 m erlauben Bewegung, aber sofortige Kontrolle bei einer Jagdreaktion</li>
+  <li><strong>Die Katze MUSS mehrere Fluchtwege haben:</strong> hohe Regale, Kratzbäume, Türen mit Katzenklappe</li>
+  <li><strong>Anfangs sehr kurz:</strong> 3-5 Minuten. Aufhören, BEVOR sie Stress zeigen</li>
+  <li><strong>NIE jagen lassen:</strong> Flieht die Katze und der Staffy jagt = sofortiger Rückruf und Ende der Einheit. Jagen verstärkt den Beutetrieb</li>
+  <li><strong>Gegenseitiges Ignorieren belohnen:</strong> Das Ziel ist NICHT „Freundschaft“, sondern „friedliches Nebeneinander“</li>
+  </ul>
+  </div>
+
+  <p><strong>Ablauf der ersten Kontakte:</strong></p>
+  <ol>
+  <li><strong>Tag 1-3 der Woche 7:</strong> Der Staffy betritt den Raum der Katze (Katze auf einem hohen Regal). Staffy an der Leine, beschnuppert den Raum, bemerkt die Katze, wird aber auf Spielzeug oder Leckerli umgelenkt. 3-5 Minuten, zweimal am Tag</li>
+  <li><strong>Tag 4-7 der Woche 7:</strong> sich aus 3-4 m ansehen lassen. Entspannung belohnen. Kommt die Katze freiwillig vom Regal = Zeichen von Vertrauen. 5-10 Minuten</li>
+  <li><strong>Woche 8-10:</strong> die Dauer bis auf 30 Minuten steigern. Staffy immer an 5-m-Leine. Sind beide entspannt (die Katze putzt sich, der Staffy legt sich hin und ignoriert sie) = ausgezeichnete Fortschritte</li>
+  </ol>
+
+  <p><strong>PHASE 4: Freiheit unter Aufsicht (Woche 11-16+)</strong></p>
+  <ul>
+  <li><strong>Woche 11-12:</strong> Freiheit für den Staffy (ohne Leine) in einem großen Raum versuchen. Volle Aufsicht. Bereit zu unterbrechen, wenn er jagt</li>
+  <li><strong>Woche 13-16:</strong> tagsüber Freiheit im Haus unter Aufsicht. Nachts weiterhin Pflicht zur Trennung</li>
+  <li><strong>Ab Monat 5:</strong> wenn es keine Vorfälle gab, Freiheit in der Nacht versuchen. Viele Katzen bevorzugen ohnehin hohe Plätze</li>
+  </ul>
+
+  <h3>Füttern von Hund und Katze</h3>
+  <ul>
+  <li><strong>Mahlzeiten des Hundes:</strong> in einem getrennten Raum bei geschlossener Tür. Die Katze hat während und nach der Mahlzeit KEINEN Zugang</li>
+  <li><strong>Mahlzeiten der Katze:</strong> auf einem Regal ab 120 cm oder in einem Raum mit Katzenklappe</li>
+  <li><strong>Versetzte Zeiten:</strong> Die Katze frisst, wenn der Hund spazieren ist</li>
+  <li><strong>Katzenklo außer Reichweite:</strong> Viele Hunde fressen Katzenkot. Das erzeugt die Verknüpfung „Katze = Futterquelle“ (GEFÄHRLICH)</li>
+  </ul>
+
+  <h2>Zusammenleben mit kleinen Tieren: Kaninchen, Frettchen, Vögel, Nager</h2>
+
+  <p>Das Zusammenleben eines Staffys mit Tieren unter 5 kg ist IMMER hochriskant. Der Jagdtrieb gegenüber kleiner, schneller Beute ist bei den meisten Staffys stark.</p>
+
+  <h3>Wann das Zusammenleben möglich ist (aber nie garantiert)</h3>
+  <ul>
+  <li>Der Staffy ist mit diesen Tieren als Welpe aufgewachsen (ständige positive Erfahrung zwischen der 8. und 16. Woche)</li>
+  <li>Nachweislich GERINGER Beutetrieb (ignoriert kleine Tiere draußen vollständig)</li>
+  <li>Allgemein ruhiges Wesen, ausgezeichnete Selbstkontrolle, reagiert immer auf den Rückruf</li>
+  <li>Bereitschaft zu DAUERHAFTER räumlicher Trennung (getrennte Räume, Kontakte nur unter Aufsicht)</li>
+  <li>Das kleine Tier hat eine robuste Persönlichkeit (gerät nicht leicht in Panik)</li>
+  </ul>
+
+  <h3>Wann vom Zusammenleben ABZURATEN ist</h3>
+  <ul>
+  <li>Erwachsener Staffy, der nie zuvor kleinen Tieren begegnet ist</li>
+  <li>Mittlerer bis hoher Beutetrieb</li>
+  <li>Frühere Jagden oder Angriffe auf kleine Tiere (auch „spielerische“)</li>
+  <li>Keine Möglichkeit, jede Begegnung zu 100 % zu beaufsichtigen</li>
+  <li>Empfindliches oder ängstliches kleines Tier (Dauerstress schadet seiner Gesundheit)</li>
+  </ul>
+
+  <div class="alert">
+  <p class="alert-title">⚠️ WICHTIGE WARNUNG zu kleinen Tieren</p>
+  <p>Ein EINZIGER Jagdvorfall (auch ohne schwere Verletzung) kann den Staffy dauerhaft lehren, das kleine Tier als „Beute“ zu sehen. Eine erneute Zusammenführung nach einem Vorfall ist oft unmöglich. Außerdem kann eine „spielerische Jagd“ des Staffys ein Kaninchen oder Frettchen durch Herzversagen oder Schock TÖTEN, auch ohne Biss. Der Unterschied an Gewicht und Kraft ist extrem. <strong>Bei auch nur geringstem Zweifel = NICHT versuchen.</strong></p>
+  </div>
+
+  <h3>Nicht verhandelbare Einrichtung</h3>
+  <ul>
+  <li><strong>Eigener Raum für das kleine Tier:</strong> für den Staffy völlig TABU. Tür IMMER zu, wenn kein Mensch beaufsichtigt</li>
+  <li><strong>Stabiler Käfig oder Gehege:</strong> das kleine Tier in einem sicheren Bereich, wenn der Staffy frei ist. Der Staffy darf ihn NICHT öffnen oder beschädigen können</li>
+  <li><strong>Wenn möglich in der Höhe:</strong> Vogelkäfige auf 180 cm+ aufgehängt, außer körperlicher Reichweite und niedriger Sichtlinie des Staffys</li>
+  <li><strong>Kein Zugang ohne Aufsicht:</strong> den Staffy NIE frei im Raum des kleinen Tieres lassen</li>
+  </ul>
+
+  <h3>Phasen der Zusammenführung (16-24 Wochen)</h3>
+  <ol>
+  <li><strong>Woche 1-4:</strong> nur Gerüche. Decken tauschen. Der Staffy gewöhnt sich an den Geruch ohne Möglichkeit zu jagen</li>
+  <li><strong>Woche 5-8:</strong> Sichtkontakt durch einen stabilen Käfig. Das kleine Tier geschützt, der Staffy an der Leine auf 3 m+. Ruhiges Schauen = Belohnung</li>
+  <li><strong>Woche 9-12:</strong> Abstand verringern. Der Staffy liegt entspannt neben dem Käfig (sehr schwer zu erreichen)</li>
+  <li><strong>Woche 13-16:</strong> das kleine Tier frei in einem Gehege, der Staffy hinter einem Gitter. Umkehrung: mehr Freiheit für das kleine Tier</li>
+  <li><strong>Ab Woche 17:</strong> SEHR kontrollierte Kontakte. Staffy an kurzer 1-m-Leine, das kleine Tier mit Rückzugsort in der Nähe. HÖCHSTENS 2-3 Minuten</li>
+  </ol>
+
+  <div class="info-box">
+  <p class="info-box-title">💚 Ein realistisches Ziel</p>
+  <p>Die meisten Zusammenführungen von Staffy und kleinen Tieren erreichen NIE die volle gemeinsame Freiheit. Das realistische Ziel ist „Nebeneinander in getrennten Räumen, mit gelegentlichen, streng beaufsichtigten Kontakten ohne Vorfälle“. Diese Grenze sollte man akzeptieren.</p>
+  </div>
+
+  <h2>Ressourcen gezielt verwalten: Konflikten vorbeugen</h2>
+
+  <p>Ressourcenverteidigung ist die häufigste Ursache für Konflikte in Haushalten mit mehreren Tieren. Vorbeugung ist der Schlüssel.</p>
+
+  <h3>Empfindliche Ressourcen</h3>
+  <ul>
+  <li><strong>Futter im Napf:</strong> die wichtigste Ressource, sehr starker Auslöser → Mahlzeiten in getrennten Räumen, Türen zu, Näpfe danach wegräumen</li>
+  <li><strong>Leckerli und Snacks:</strong> sehr begehrt → getrennt geben oder gleichzeitig mit 3 m+ Abstand, Hunde voneinander abgewandt</li>
+  <li><strong>Interaktives Spielzeug:</strong> Aufregung → getrenntes Spielzeug. Gemeinsames nur, wenn beide „Aus“ perfekt beherrschen</li>
+  <li><strong>Knochen und Kauartikel:</strong> langes Kauen = Besitzanspruch → getrennte Räume oder enge Aufsicht</li>
+  <li><strong>Sofa und Bett:</strong> Revier mit hohem Status → reichlich Platz oder abwechselnder Zugang</li>
+  <li><strong>Aufmerksamkeit des Halters:</strong> Eifersucht → TÄGLICH Zeit zu zweit mit jedem Tier</li>
+  </ul>
+
+  <h3>Desensibilisierung beim Verteidigen</h3>
+  <ol>
+  <li><strong>Schritt 1 - Positive Konditionierung:</strong> Hund A frisst. Der Halter nähert sich (3 m → 1 m), wirft ein besonders wertvolles Leckerli IN den Napf und geht weg. 10 Mal pro Einheit, 2 Einheiten am Tag eine Woche lang</li>
+  <li><strong>Schritt 2 - Hund B kommt in Sicht:</strong> Hund A frisst. Hund B erscheint in 5 m Abstand (hinter einem Gitter). Der Halter wirft Hund A besonders wertvolle Leckerli zu. Verknüpfung: „der andere Hund ist da = extra Belohnung“</li>
+  <li><strong>Schritt 3 - Abstand verringern:</strong> Hund B während der Mahlzeiten von Hund A nach und nach näher bringen (immer mit Barriere). Belohnung für beide. Ein Prozess von 2-4 Wochen</li>
+  <li><strong>Schritt 4 - Parallele Mahlzeiten:</strong> beide fressen gleichzeitig im selben Raum, voneinander abgewandt, 3 m Abstand. Volle Aufsicht. Näpfe gleichzeitig wegräumen</li>
+  </ol>
+
+  <p><strong>Bei starkem Verteidigen (Angriffe, Bisse):</strong> NICHT selbst versuchen. Es braucht einen zertifizierten Verhaltensexperten.</p>
+
+  <h2>Stresssignale und Körpersprache: worauf man achten muss</h2>
+
+  <p>Stress früh zu erkennen, verhindert, dass Konflikte eskalieren. Hunde zeigen Unbehagen, bevor sie aggressiv reagieren.</p>
+
+  <h3>Beschwichtigungssignale (ein gutes Zeichen, WENN sie zur Situation passen)</h3>
+  <ul>
+  <li><strong>Langes Schnüffeln am Boden:</strong> „Aufmerksamkeit abwenden“ von einem belastenden Reiz</li>
+  <li><strong>Annäherung im Bogen:</strong> Vermeiden der direkten, frontalen (bedrohlichen) Annäherung</li>
+  <li><strong>Abgewandter Blick:</strong> Vermeiden gegenseitigen Anstarrens (Herausforderung)</li>
+  <li><strong>Gähnen:</strong> „Ich bin ruhig“ (wenn es zur Situation passt, nicht nur aus Müdigkeit)</li>
+  <li><strong>Kurzes Nasenlecken:</strong> Selbstberuhigung in einer unsicheren Lage</li>
+  <li><strong>Langsame Bewegungen, tiefe Haltung:</strong> „Ich bin keine Bedrohung“</li>
+  </ul>
+
+  <p><strong>Auswertung:</strong> Zeigen beide Hunde Beschwichtigungssignale = die Kommunikation funktioniert, sie gehen angemessen mit der Spannung um. POSITIV.</p>
+
+  <h3>Stress- und Unbehagenssignale (Aufmerksamkeit nötig)</h3>
+  <ul>
+  <li><strong>Versteifter Körper:</strong> gespannte Muskeln, weniger fließende Bewegungen</li>
+  <li><strong>Gesträubtes Fell (Piloerektion):</strong> auf Rücken und Schultern = hohe Erregung</li>
+  <li><strong>Hoch getragene, unbewegte Rute:</strong> höchste Alarmbereitschaft (anders als fröhliches Wedeln)</li>
+  <li><strong>Starr nach vorn gerichtete Ohren:</strong> völlige Fokussierung, mögliche Jagdreaktion</li>
+  <li><strong>Anstarren:</strong> lange, ohne wegzusehen = hohe Spannung</li>
+  <li><strong>Hektisches, wiederholtes Nasenlecken:</strong> akuter Stress</li>
+  <li><strong>Anhaltendes Meiden:</strong> Hund oder Katze meidet Bereiche, in denen das andere Tier ist = Dauerstress</li>
+  </ul>
+
+  <div class="alert">
+  <p class="alert-title">⚠️ Signale VOR einer Aggression - SOFORT STOPPEN</p>
+  <ul>
+  <li><strong>Tiefes Knurren:</strong> eine ernste Warnung, IMMER respektieren</li>
+  <li><strong>Hochgezogene Lefze mit sichtbaren Zähnen:</strong> klare aggressive Kommunikation</li>
+  <li><strong>Steife Haltung mit langsamem Vorrücken:</strong> jagdliches oder drohendes „Anschleichen“</li>
+  <li><strong>Vorschnellen:</strong> ein abgebrochener Angriffsversuch</li>
+  <li><strong>Gesträubtes Fell + hohe Rute + Knurren:</strong> Aggression steht unmittelbar bevor</li>
+  </ul>
+  <p>Mit einem ruhigen Rückruf unterbrechen, Futter auf den Boden streuen und sofort Abstand schaffen. Knurren NIE bestrafen (es ist ehrliche Kommunikation).</p>
+  </div>
+
+  <h3>Das Wohlbefinden langfristig beobachten</h3>
+
+  <div class="checklist">
+  <p class="checklist-title">Checkliste Wohlbefinden im Zusammenleben (monatlich)</p>
+  <ul>
+  <li>Normaler Appetit: Fressen beide ohne Stress bei den Mahlzeiten?</li>
+  <li>Ruhiger Schlaf: Schlafen sie tief, ohne übermäßige Wachsamkeit?</li>
+  <li>Natürliches Verhalten: Spielen, putzen und entspannen sie sich normal?</li>
+  <li>Kein Meiden: Nutzen sie alle Bereiche des Hauses frei?</li>
+  <li>Keine Aggression: Kein Vorfall von Gewalt im letzten Monat?</li>
+  <li>Stabile körperliche Gesundheit: Kein stressbedingter Haarausfall, keine Verdauungsprobleme, kein zwanghaftes Verhalten?</li>
+  </ul>
+  </div>
+
+  <p><strong>Bei 5 oder mehr negativen Antworten:</strong> Das Zusammenleben verursacht Dauerstress. Einen Verhaltensexperten hinzuziehen, um zu klären, ob es beherrschbar ist oder ob Trennung oder eine neue Familie nötig sind.</p>
+
+  <h2>Häufige Probleme und praktische Lösungen</h2>
+
+  <h3>Problem 1: Der Hund jagt die Katze oder das kleine Tier</h3>
+
+  <p><strong>Sofortmaßnahmen:</strong></p>
+  <ul>
+  <li><strong>Unterbrechen:</strong> nachdrücklicher Rückruf + Futter in die Gegenrichtung auf den Boden streuen</li>
+  <li><strong>Barrieren wieder aufbauen:</strong> vollständige Trennung für 1-2 Wochen</li>
+  <li><strong>Neu beginnen:</strong> zur vorigen Phase zurückkehren</li>
+  <li><strong>Intensives „Aus“-Training:</strong> 10 Minuten am Tag Übungen zur Selbstkontrolle</li>
+  <li><strong>Mehr Bewegung:</strong> die Auslastung um 30 % erhöhen (ein müder Hund reagiert weniger)</li>
+  </ul>
+
+  <p><strong>Langfristige Lösungen:</strong></p>
+  <ul>
+  <li><strong>Desensibilisierung auf Bewegung:</strong> die Katze in einer Transportbox langsam in der Nähe des angeleinten Hundes bewegen. Gleichgültigkeit und Ruhe belohnen. Das Tempo schrittweise steigern</li>
+  <li><strong>Wenn es nach 2-3 Versuchen bleibt:</strong> prüfen, ob freies Zusammenleben möglich ist oder eine dauerhafte Trennung nötig ist</li>
+  </ul>
+
+  <h3>Problem 2: Konflikte um Ressourcen (Futter, Spielzeug, Sofa)</h3>
+
+  <p><strong>Lösungen:</strong></p>
+  <ul>
+  <li><strong>VOLLSTÄNDIGE Trennung der Ressourcen:</strong> Mahlzeiten in völlig getrennten Räumen, kein gemeinsames Spielzeug, getrennte Ruheplätze</li>
+  <li><strong>Umstrittenen Zugang entziehen:</strong> Ist das Sofa das Problem, beide 2-4 Wochen vom Sofa fernhalten (Neustart)</li>
+  <li><strong>Training „Aus“ + „Ab ins Körbchen“:</strong> Sie müssen immer reagieren, damit sich der Zugang zu Ressourcen steuern lässt</li>
+  <li><strong>Positives Fütterungsprotokoll:</strong> neu verknüpfen, dass die Anwesenheit des anderen = etwas Gutes ist</li>
+  </ul>
+
+  <h3>Problem 3: Einer dominiert übermäßig (Mobbing)</h3>
+
+  <p><strong>Anzeichen:</strong> blockiert den Zugang zu Ressourcen oder Räumen, reitet wiederholt auf und ignoriert Stoppsignale, verhindert, dass der andere sich dem Halter nähert</p>
+
+  <p><strong>Lösungen:</strong></p>
+  <ul>
+  <li><strong>Unausgewogene Dynamiken unterbrechen:</strong> wiederholtes Aufreiten nicht zulassen, das Blockieren von Durchgängen verhindern</li>
+  <li><strong>Den unterlegenen Hund stärken:</strong> eigene Zeit mit ungeteilter Aufmerksamkeit, „sichere“ Bereiche, in die der Dominante nicht kommt</li>
+  <li><strong>Vorrechte des Dominanten einschränken:</strong> vorübergehend den Zugang zu besonders begehrten Ressourcen verringern</li>
+  <li><strong>Dauerhaft enge Aufsicht:</strong> nicht allein lassen, bis sich das Gleichgewicht bessert</li>
+  </ul>
+
+  <h3>Problem 4: Die verängstigte Katze kommt nicht aus ihrem Versteck</h3>
+
+  <p><strong>Lösungen:</strong></p>
+  <ul>
+  <li><strong>Mehr Raum in der Höhe:</strong> mehr Regale, hohe Wege, erhöhte Verstecke über 150 cm</li>
+  <li><strong>Barrieren wieder aufbauen:</strong> Gitter teilen die Räume. Die halbe Wohnung ist für den Hund tabu</li>
+  <li><strong>Pheromone:</strong> Feliway-Zerstäuber in den wichtigsten Räumen der Katze</li>
+  <li><strong>Weniger Zugang für den Hund:</strong> der Hund frei in 50-60 % der Wohnung</li>
+  <li><strong>Ehrliche Einschätzung:</strong> Ist die Katze nach 2-3 Monaten noch verängstigt = wahrscheinlich nicht vereinbar. Dauerstress schadet der Gesundheit der Katze</li>
+  </ul>
 
   <h2>Häufige Fragen</h2>
 

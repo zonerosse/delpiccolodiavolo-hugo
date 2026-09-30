@@ -228,7 +228,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3>What should I bring?</h3>
-  <p>Yourself and your questions. We will show you the parents, the puppies if there are any, the laboratory certificates, the pedigrees and the rooms the dogs actually live in. Ask to see anything you like.</p>
+  <p>Yourself and your questions. <a href="/en/parents-on-site-what-it-means/" title="&quot;Parents on site&quot;: what it really means">We will show you the parents</a>, the puppies if there are any, the laboratory certificates, the pedigrees and the rooms the dogs actually live in. Ask to see anything you like.</p>
   </div>
 
   <div class="faq-item">

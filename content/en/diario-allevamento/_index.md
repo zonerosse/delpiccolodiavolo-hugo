@@ -8,6 +8,7 @@ articolo: true
 translationKey: "diario-allevamento"
 description: "The Del Piccolo Diavolo breeding diary: births, litter updates and growth photos of our Staffordshire Bull Terrier puppies in Ostellato, Italy, week by week."
 slug: "breeding-diary"
+fonti_motivo: "The diary records facts from the Del Piccolo Diavolo kennel, which is why it cites no external sources: the independent check is the ENCI stud book, where the number of litters of each bitch can be verified from her microchip."
 ---
 
 The Del Piccolo Diavolo diary lists every litter born in Ostellato, with the date of birth, the names of the two parents, their genetic tests and the number of puppies. No litter disappears from the site once the puppies have gone home, and that is deliberate: it is how anyone can count how many are really born in a year, and check the figure against the ENCI stud book starting from the mother's microchip. The average is one litter a year, occasionally two, in some years none. Every entry gives the genetic tests of both parents and the link to their page on SBTPedigree, from which you can trace grandparents and great-grandparents.
@@ -35,3 +36,5 @@ Pages do not disappear once the puppies are home. They stay, with their dates, a
 Litters before 2026 — May 2025 and February 2025 — are covered in our <a href="/en/litters-staffordshire-bull-terrier/" title="Breeding programme">breeding programme</a>, together with the pairings and the reasons behind them.
 
 If you are not yet sure what to look for in a kennel, our <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious breeder">guide to recognising a serious one</a> sets out eight criteria and how to check each — on us as much as on anyone else.
+
+<p class="fonti">Sources: The diary records facts from the Del Piccolo Diavolo kennel, which is why it cites no external sources: the independent check is the ENCI stud book, where the number of litters of each bitch can be verified from her microchip.</p>

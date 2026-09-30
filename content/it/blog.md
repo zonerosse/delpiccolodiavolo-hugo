@@ -2,11 +2,12 @@
 title: "Blog Staffordshire Bull Terrier"
 titleSeo: "Guide sullo Staffordshire Bull Terrier: salute e cuccioli"
 date: 2025-12-28
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 tipoPagina: "CollectionPage"
 translationKey: "blog"
 description: "Articoli sullo Staffordshire Bull Terrier scritti dall'allevamento: cuccioli, salute e test genetici, standard e linee di sangue, famiglia e legge."
 slug: "blog"
+fonti_motivo: "Questa pagina è l'indice delle guide dell'allevamento Del Piccolo Diavolo: le fonti esterne sono citate dentro ciascuna guida, accanto al dato che sostengono."
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
@@ -419,6 +420,12 @@ custom_content: |
   </div>
   </article>
   </div>
+  </div>
+  </section>
+
+  <section class="section">
+  <div class="section-inner content-single">
+  <p class="fonti">Fonti: Questa pagina è l'indice delle guide dell'allevamento Del Piccolo Diavolo: le fonti esterne sono citate dentro ciascuna guida, accanto al dato che sostengono.</p>
   </div>
   </section>
 

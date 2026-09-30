@@ -3,6 +3,7 @@
 # pagine (menu, pie' di pagina e box "correlati" non contano).
 # Si scrive l'indirizzo italiano: le versioni EN e DE si trovano da sole
 # tramite translationKey. La lista la decide Paolo.
+# "| minimo: N" dopo l'indirizzo cambia il minimo per quell'articolo.
 minimo: 6
 /programma-allevamento/                  # COI di Queen con i numeri
 /cuccioli-sverminazione-esami-feci/      # referti pubblicati, riga positiva compresa
@@ -12,4 +13,4 @@ minimo: 6
 /cuccioli-socializzati-cosa-vuol-dire/   # smonta una formula da annuncio
 /test-genetici-l2hga-hc-staffy/          # test dei propri riproduttori, DM SOD1
 /come-si-legge-un-pedigree/              # cosa dice l'ENCI e cosa no
-/differenza-staffy-amstaff/              # le sette domande dell'allevatore
+/differenza-staffy-amstaff/ | minimo: 4  # le sette domande; oltre 4 il link andrebbe forzato

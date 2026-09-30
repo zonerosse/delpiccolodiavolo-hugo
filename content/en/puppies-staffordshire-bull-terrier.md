@@ -20,6 +20,7 @@ correlati:
     titolo: "Breed legislation in Europe"
     testo: "Where the breed is restricted"
 slug: "puppies-staffordshire-bull-terrier"
+fonti_motivo: "This page describes how the puppies of the Del Piccolo Diavolo kennel are born and raised: it is the kennel's own information, which is why there are no external sources to cite. The dates of every litter and the parents' reports are published in the breeding diary and on the breeding dogs' pages."
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
@@ -86,7 +87,7 @@ custom_content: |
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Temperament and Socialization</h3>
-  <p>Puppies are born indoors, in the whelping box, and stay there for about a month: it is the phase in which the mother does everything and human contact matters most. At around thirty days they move to a dedicated pen with outdoor access, for a practical reason anyone who has raised a litter knows: at that age they soil more than a lived-in house can take. From then on they come back inside in turns, two at a time for a few hours, so each of them gets its own share of the house. Every litter born here, with parents, tests, examinations and growth photos, is recorded in the <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a>.</p>
+  <p>Socialisation is the most important process in a puppy's first months. The puppies are born in the house, in the whelping box, and stay there for about a month: it is the phase in which the mother does everything and human contact matters more than anything else. Anyone who came to see them before thirty days saw them there. At around a month they move to a dedicated pen with access outdoors, for a practical reason anyone who has had a litter knows: at that age they make more mess than a lived-in house can take. From then on they come back inside in turns, two at a time and for a few hours, so that each one does its share of home life: family, household noise, other dogs and different people. Every litter born here, with parents, tests, examinations and growth photos, is told in the <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a>.</p>
 
     <a class="rimando" href="/en/bio-sensor-early-stimulation-puppies/">
   <img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier puppies in their first days" width="88" height="100" loading="lazy" decoding="async">
@@ -133,6 +134,8 @@ custom_content: |
   <span class="section-label">Before they are born</span>
   <h2 class="section-title">From the season to the whelping: how a litter comes about</h2>
 
+  <p>A Staffordshire Bull Terrier litter at Del Piccolo Diavolo begins long before the birth. It starts with the pre-season check and progesterone testing to find the right moment for the mating, the pregnancy is confirmed by ultrasound at around the twenty-fifth day, and the puppies are counted with an X-ray five to seven days before the birth. The puppies are born in the house and stay there for the first month, in the whelping box, then move to a pen with outdoor access and come back inside in turns, two at a time. They go to their families after the 60 days required by Italian law, with microchip, first vaccinations, <a href="/en/puppy-worming-faecal-tests/" title="Worming and faecal tests">worming with faecal tests</a> and an ENCI pedigree. The parents are tested for L2HGA and HC, the mothers also for DM-SOD1, and the reports are published on the site with the microchip number in full.</p>
+
   <p>Plenty gets said about what happens after the puppies are born. About what happens before, almost nothing &mdash; and yet that is where most of how a litter goes is decided.</p>
 
   <h3>Before the season</h3>
@@ -145,7 +148,7 @@ custom_content: |
 
   <h3>The mating</h3>
 
-  <p><strong>I always travel to the stud</strong>, never the other way round: the male stays at home, the bitch moves.</p>
+  <p><strong><a href="/en/parents-on-site-what-it-means/" title="&quot;Parents on site&quot;: what it really means">I always travel to the stud</a></strong>, never the other way round: the male stays at home, the bitch moves.</p>
 
   <p>With a stud of real quality, the owner often uses a vet for <strong>artificial insemination</strong>, deposited intracervically. There are three reasons: avoiding the risk of transmissible disease, sparing the dog excessive effort, and being certain the mating actually happens. Because &mdash; and this is something people outside breeding do not picture &mdash; <strong>mating is not easy for every male</strong>. Much depends on the bitch: more than one makes it anything but simple.</p>
 
@@ -292,6 +295,12 @@ custom_content: |
   </ul>
   </div>
   
+  <section class="section">
+  <div class="section-inner content-single">
+  <p class="fonti">Sources: This page describes how the puppies of the Del Piccolo Diavolo kennel are born and raised: it is the kennel's own information, which is why there are no external sources to cite. The dates of every litter and the parents' reports are published in the breeding diary and on the breeding dogs' pages.</p>
+  </div>
+  </section>
+
   <section class="cta-section">
   <h2>Want Info About Puppies?</h2>
   <p>Call us or write on WhatsApp for information about available litters.</p>

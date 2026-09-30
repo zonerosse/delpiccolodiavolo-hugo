@@ -72,7 +72,7 @@ custom_content: |
 
   <p><strong>Le fotografie degli antenati</strong>, generazione dopo generazione, fin dove arriva l'archivio. &Egrave; la differenza fra leggere un nome e vedere il cane: capisci che testa aveva, che struttura, come era costruito.</p>
 
-  <p>Sulla scheda SBTPedigree di Queen of California, una nostra fattrice, non leggi soltanto che il padre &egrave; Elitebull Prospect: lo vedi, e vedi anche suo padre, e il padre di suo padre. Quattro generazioni di fotografie, una accanto all'altra. Quello che il certificato ENCI non potr&agrave; mai darti.</p>
+  <p>Sulla scheda SBTPedigree di Queen of California, una nostra fattrice, non leggi soltanto che <a href="/genitori-visibili-cosa-significa/" title="Genitori visibili: cosa significa">il padre</a> &egrave; Elitebull Prospect: lo vedi, e vedi anche suo padre, e il padre di suo padre. Quattro generazioni di fotografie, una accanto all'altra. Quello che il certificato ENCI non potr&agrave; mai darti.</p>
 
   <p><strong>I test genetici</strong>, quando chi ha inserito il soggetto li ha caricati.</p>
 

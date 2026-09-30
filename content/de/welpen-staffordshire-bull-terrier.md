@@ -20,6 +20,7 @@ correlati:
     titolo: "Rassegesetzgebung in Europa"
     testo: "Wo die Rasse Beschränkungen unterliegt"
 slug: "welpen-staffordshire-bull-terrier"
+fonti_motivo: "Diese Seite beschreibt, wie die Welpen der Zucht Del Piccolo Diavolo geboren werden und aufwachsen: Es sind eigene Angaben der Zucht, deshalb gibt es keine externen Quellen zu nennen. Die Daten jedes Wurfs und die Befunde der Eltern sind im Zuchttagebuch und auf den Seiten der Zuchttiere veröffentlicht."
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
@@ -86,7 +87,7 @@ custom_content: |
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Temperament und Sozialisierung</h3>
-  <p>Die Welpen kommen im Haus zur Welt, in der Wurfkiste, und bleiben dort etwa einen Monat: in dieser Zeit macht die Mutter alles, und der menschliche Kontakt zählt am meisten. Mit rund dreißig Tagen ziehen sie in einen eigenen Zwinger mit Auslauf um — aus einem praktischen Grund, den jeder kennt, der schon einen Wurf hatte: in diesem Alter machen sie mehr Schmutz, als ein bewohntes Haus verträgt. Von da an kommen sie abwechselnd wieder herein, zu zweit und für einige Stunden, damit jeder seinen Teil vom Haus bekommt. Jeder hier geborene Wurf, mit Eltern, Tests, Untersuchungen und Fotos des Heranwachsens, steht im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Zuchttagebuch</a>.</p>
+  <p>Die Sozialisierung ist der wichtigste Vorgang in den ersten Lebensmonaten eines Welpen. Die Welpen kommen im Haus zur Welt, in der Wurfkiste, und bleiben dort etwa einen Monat: Es ist die Zeit, in der die Mutter alles macht und der menschliche Kontakt mehr zählt als alles andere. Wer sie vor dem dreißigsten Tag besucht hat, hat sie dort gesehen. Mit etwa einem Monat ziehen sie in einen eigenen Auslauf mit Zugang nach draußen, aus einem praktischen Grund, den jeder kennt, der einen Wurf hatte: In diesem Alter machen sie mehr Schmutz, als ein bewohntes Haus verkraftet. Von da an kommen sie abwechselnd wieder ins Haus, zu zweit und für einige Stunden, damit jeder seinen Teil des Familienlebens bekommt: Familie, Haushaltsgeräusche, andere Hunde und verschiedene Menschen. Jeder hier geborene Wurf, mit Eltern, Tests, Untersuchungen und Fotos vom Aufwachsen, steht im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Zuchttagebuch</a>.</p>
 
     <a class="rimando" href="/de/bio-sensor-fruehstimulation-welpen/">
   <img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier Welpen in den ersten Tagen" width="88" height="100" loading="lazy" decoding="async">
@@ -132,6 +133,8 @@ custom_content: |
   <div class="section-inner content-single">
   <span class="section-label">Bevor sie geboren werden</span>
   <h2 class="section-title">Von der L&auml;ufigkeit bis zur Geburt: wie ein Wurf entsteht</h2>
+
+  <p>Ein Wurf Staffordshire Bull Terrier bei Del Piccolo Diavolo beginnt lange vor der Geburt. Am Anfang stehen die Untersuchung vor der Läufigkeit und die Progesteronmessung, um den richtigen Zeitpunkt für die Verpaarung zu finden; die Trächtigkeit wird um den fünfundzwanzigsten Tag per Ultraschall bestätigt, und die Welpen werden fünf bis sieben Tage vor der Geburt mit einem Röntgenbild gezählt. Die Welpen kommen im Haus zur Welt und bleiben den ersten Monat dort, in der Wurfkiste, dann ziehen sie in einen Auslauf mit Zugang nach draußen und kommen abwechselnd, zu zweit, wieder ins Haus. Sie gehen nach den 60 Tagen, die das italienische Gesetz vorschreibt, in ihre Familien, mit Mikrochip, ersten Impfungen, <a href="/de/welpen-entwurmung-kotuntersuchung/" title="Entwurmung und Kotuntersuchung">Entwurmung mit Kotuntersuchung</a> und ENCI-Ahnentafel. Die Eltern sind auf L2HGA und HC getestet, die Mütter auch auf DM-SOD1, und die Befunde sind mit vollständiger Mikrochipnummer auf der Website veröffentlicht.</p>
 
   <p>&Uuml;ber das, was nach der Geburt passiert, wird viel geschrieben. &Uuml;ber das, was davor passiert, fast nie &mdash; und doch entscheidet sich dort der gr&ouml;&szlig;te Teil davon, wie ein Wurf verl&auml;uft.</p>
 
@@ -292,6 +295,12 @@ custom_content: |
   </ul>
   </div>
   
+  <section class="section">
+  <div class="section-inner content-single">
+  <p class="fonti">Quellen: Diese Seite beschreibt, wie die Welpen der Zucht Del Piccolo Diavolo geboren werden und aufwachsen: Es sind eigene Angaben der Zucht, deshalb gibt es keine externen Quellen zu nennen. Die Daten jedes Wurfs und die Befunde der Eltern sind im Zuchttagebuch und auf den Seiten der Zuchttiere veröffentlicht.</p>
+  </div>
+  </section>
+
   <section class="cta-section">
   <h2>Möchten Sie Infos zu Welpen?</h2>
   <p>Rufen Sie uns an oder schreiben Sie uns auf WhatsApp für Informationen über verfügbare Würfe.</p>

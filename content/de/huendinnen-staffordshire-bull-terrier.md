@@ -38,7 +38,7 @@ custom_content: |
   <h2 class="section-title">Selektion und Pflege Unserer Hündinnen</h2>
   
   <div class="intro-block">
-  <p>Mit Sorgfalt und Verantwortung aufgezogen, werden unsere Hündinnen für <strong>Gesundheit</strong>, <strong>Rassetypizität</strong> und <strong>ausgeglichenes Temperament</strong> selektiert. Jede Verpaarung wird auf Basis von Gentests und Linienkompatibilität geplant.</p>
+  <p>Mit Sorgfalt und Verantwortung aufgezogen, werden unsere Hündinnen für <strong>Gesundheit</strong>, <strong>Rassetypizität</strong> und <strong>ausgeglichenes Temperament</strong> selektiert. Jede Verpaarung wird <a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)">auf Basis von Gentests</a> und Linienkompatibilität geplant.</p>
   <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Unsere Hündinnen sind getestet auf:</p>
   <p>✓ <strong>L2HGA</strong> — L-2-Hydroxyglutarazidurie<br>
   ✓ <strong>HC</strong> — Hereditäre Katarakt<br>

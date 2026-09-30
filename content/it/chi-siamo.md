@@ -17,6 +17,7 @@ correlati:
     titolo: "Le recensioni"
     testo: "Cosa dicono le famiglie"
 slug: "chi-siamo"
+fonti_motivo: "Questa pagina racconta in prima persona la storia e il lavoro dell'allevamento Del Piccolo Diavolo, e non cita fonti esterne perché i fatti riportati sono dell'allevamento stesso. Quelli verificabili lo sono sul sito: referti dei test genetici con il numero di microchip, pedigree ENCI, risultati in esposizione con i nomi dei giudici."
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
@@ -42,7 +43,7 @@ custom_content: |
   <h2 class="section-title">Chi c'è dietro Del Piccolo Diavolo</h2>
   <div class="content-block">
   <p><strong>Paolo Boldrini</strong> alleva Staffordshire Bull Terrier dal 2013 a Ostellato, in provincia di Ferrara, con il nome Del Piccolo Diavolo. Segue la razza dal 2005, otto anni prima della prima cucciolata: l'allevamento &egrave; nato dopo un lungo periodo di studio, non prima. In precedenza ha allevato Rottweiler, producendo un Campione Italiano e un Campione Europeo, ed &egrave; stato giudice internazionale per canarini Gloster. Non ha affisso ENCI: i cani sono registrati a suo nome e rilasciano pedigree ENCI regolari. Il nome dell'allevamento viene da Lackyle Diabhal &Oacute;g, in irlandese il giovane diavolo, uno dei cani che hanno fatto la storia della razza e che compare nei pedigree delle linee su cui lavora. Le cucciolate sono una l'anno, occasionalmente due, in alcuni anni nessuna. Ogni cucciolata nata qui, con genitori, test, esami e foto della crescita, è raccontata nel <a href="/diario-allevamento/" title="Diario dell'allevamento">diario dell'allevamento</a>.</p>
-  <p>L'allevamento lavora su linee Elitebull (Inghilterra) e Lackyle (Irlanda) e testa tutti i riproduttori per L2HGA e HC, e le fattrici anche per DM-SOD1. Con <strong>Bilquis Goddess Diabhal</strong> ha conquistato il titolo di Campionessa Italiana di Bellezza ENCI e un quarto posto al World Dog Show di Zagabria nel 2024. Tutti i cuccioli sono affidati con pedigree ENCI e con i certificati dei test dei genitori.</p>
+  <p>L'allevamento lavora su linee Elitebull (Inghilterra) e Lackyle (Irlanda) e <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">testa tutti i riproduttori per L2HGA e HC</a>, e le fattrici anche per DM-SOD1. Con <strong>Bilquis Goddess Diabhal</strong> ha conquistato il titolo di Campionessa Italiana di Bellezza ENCI e un quarto posto al World Dog Show di Zagabria nel 2024. Tutti i cuccioli sono affidati con pedigree ENCI e con i certificati dei test dei genitori.</p>
   <p>Le pagine di questo sito sono scritte da lui, sulla base di quello che succede davvero in allevamento. Per domande sui cuccioli, sulle linee di sangue o sui test genetici: <a href="/allevamento-staffordshire-bull-terrier-in-emilia-romagna/">contattami direttamente</a>.</p>
   </div>
   </div>
@@ -96,7 +97,7 @@ custom_content: |
 
   <p><strong>Cosa manca alla femmina.</strong> Un accoppiamento fra due Staffordshire Bull Terrier non serve a sommare due cani belli, serve a correggere qualcosa e a fissare il resto. Se una femmina ha una testa eccellente e un movimento migliorabile, cerco un maschio solido sul movimento, non uno bello quanto lei.</p>
 
-  <p><strong>Cosa c'&egrave; dietro il maschio.</strong> Non basta guardare il cane: guardo il padre, la madre, i fratelli di cucciolata, e cosa ha prodotto se ha gi&agrave; figli. Un soggetto pu&ograve; essere migliore o peggiore della propria linea, e nella seconda generazione viene fuori.</p>
+  <p><strong>Cosa c'&egrave; dietro il maschio.</strong> Non basta guardare il cane: <a href="/genitori-visibili-cosa-significa/" title="Genitori visibili: cosa significa">guardo il padre, la madre</a>, i fratelli di cucciolata, e cosa ha prodotto se ha gi&agrave; figli. Un soggetto pu&ograve; essere migliore o peggiore della propria linea, e nella seconda generazione viene fuori.</p>
 
   <p><strong>Cosa ha in mano il proprietario dello stallone.</strong> Referti dei test genetici con il numero di microchip sopra, non promesse. Se un maschio non &egrave; testato per tutto quello che serve, o se &egrave; esente solo per discendenza, lo so prima di accoppiare e lo scrivo nella pagina di quella cucciolata: chi legge deve poterlo sapere quanto me.</p>
 
@@ -135,6 +136,12 @@ custom_content: |
   
     
   <!--CORRELATI-->
+
+  <section class="section">
+  <div class="section-inner content-single">
+  <p class="fonti">Fonti: Questa pagina racconta in prima persona la storia e il lavoro dell'allevamento Del Piccolo Diavolo, e non cita fonti esterne perché i fatti riportati sono dell'allevamento stesso. Quelli verificabili lo sono sul sito: referti dei test genetici con il numero di microchip, pedigree ENCI, risultati in esposizione con i nomi dei giudici.</p>
+  </div>
+  </section>
 
   <section class="cta-section">
   <h2>Vuoi Conoscerci?</h2>

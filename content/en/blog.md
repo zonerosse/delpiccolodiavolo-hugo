@@ -1,11 +1,12 @@
 ---
 title: "Staffordshire Bull Terrier Blog - Articles & Guides"
 date: 2025-12-28
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 tipoPagina: "CollectionPage"
 translationKey: "blog"
 description: "Articles on puppies, health, breed standard and daily life with the Staffordshire Bull Terrier. Practical advice from the kennel."
 slug: "blog"
+fonti_motivo: "This page is the index of the Del Piccolo Diavolo kennel's guides: external sources are cited inside each guide, next to the figure they support."
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
@@ -29,6 +30,12 @@ custom_content: |
   
   <!-- BREED AND LEGISLATION -->
   <!--RECENTI-->
+
+  <section class="section">
+  <div class="section-inner content-single">
+  <p>This blog collects the guides we write about the Staffordshire Bull Terrier, divided by topic: breed and legislation, puppies, standard and bloodlines, health, family and living together. They are not articles written to fill the site: they come from the questions people really ask us, and where needed they also say the uncomfortable things &mdash; that tests have limits, that reactivity towards other dogs exists, that a popular method does not have the evidence it promises. Where we cite a figure, we give the source: ENCI, the UK Kennel Club, veterinary guidelines or published studies. <strong>The most read guides</strong> are the ones on how to recognise a serious breeder, on the L2-HGA and HC genetic tests and on how to read a pedigree.</p>
+  </div>
+  </section>
 
   <section class="section" id="legislation">
   <div class="section-inner">
@@ -416,6 +423,12 @@ custom_content: |
   </div>
   </section>
   
+  <section class="section">
+  <div class="section-inner content-single">
+  <p class="fonti">Sources: This page is the index of the Del Piccolo Diavolo kennel's guides: external sources are cited inside each guide, next to the figure they support.</p>
+  </div>
+  </section>
+
   <section class="dark-section">
   <h2>Have Questions?</h2>
   <p>If you have doubts about a topic or want to suggest a theme for the blog, contact us.</p>

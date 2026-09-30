@@ -59,7 +59,7 @@ custom_content: |
   <p>It is perhaps the most family-bonded breed of all. It follows you everywhere, loves physical contact, lives to be with you. If you want a "detached and independent" dog, this is not the one: the Staffy wants to <em>be part</em> of home life.</p>
   
   <h3>2. Exceptional with children</h3>
-  <p>It is no coincidence that in England it is nicknamed the <strong>"nanny dog"</strong>. Patient, tolerant and playful, it is traditionally considered one of the best dogs for families with children.</p>
+  <p>It is no coincidence that in England it is nicknamed the <strong>"nanny dog"</strong>. Patient, tolerant and playful, it is traditionally considered one of the best dogs for <a href="/en/staffordshire-family-life-stories/" title="Staffordshire Bull Terriers in family life: true stories">families with children</a>.</p>
   
   <div style="background:#fff8e1;border-left:5px solid #f4b400;border-radius:8px;padding:1rem 1.3rem;margin:1.5rem 0">
   <p style="margin:0 0 .4rem;font-weight:700;color:#7a5c00;display:flex;align-items:center;gap:.5rem">⚠️ Always supervise</p>

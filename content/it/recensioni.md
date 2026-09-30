@@ -7,6 +7,7 @@ tipoPagina: "CollectionPage"
 translationKey: "recensioni"
 description: "Le recensioni Google delle famiglie che hanno scelto un cucciolo Del Piccolo Diavolo. Esperienze reali, prima e dopo l’affidamento."
 slug: "recensioni"
+fonti_motivo: "Le recensioni riportate qui sono dei clienti dell'allevamento Del Piccolo Diavolo: la fonte è il profilo Google dell'allevamento, collegato da ogni singola recensione, e non esistono altre fonti esterne da citare."
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
@@ -342,4 +343,9 @@ custom_content: |
   </div>
   </section>
 
+  <section class="section">
+  <div class="section-inner content-single">
+  <p class="fonti">Fonti: Le recensioni riportate qui sono dei clienti dell'allevamento Del Piccolo Diavolo: la fonte è il profilo Google dell'allevamento, collegato da ogni singola recensione, e non esistono altre fonti esterne da citare.</p>
+  </div>
+  </section>
 ---

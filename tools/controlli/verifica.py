@@ -259,7 +259,7 @@ if r.returncode == 0:
         ("parita", "EN/DE con meno testo o meno elementi dell'italiano"),
         ("fonti", "Pagina senza fonte esterna e senza il motivo dichiarato (fonti_motivo)"),
         ("originali", "Articolo originale con meno link in entrata del minimo (originali.txt)"),
-        ("alt_vuoto", "Immagine con alt vuoto o icona SVG senza descrizione"),
+        ("alt_vuoto", "Foto con alt vuoto o icona SVG non marcata come decorativa"),
         ("kw_pagina", "Parola chiave principale assente da title, h1, description, apertura o alt"),
         ("kw_ancore", "Pagina principale con poche ancore che contengono la parola chiave o un sinonimo"),
         ("kw_concorrenza", "Altra pagina con la stessa parola chiave principale nel title o nell'h1"),
@@ -433,7 +433,10 @@ if r.returncode == 0:
 
         # ---- immagini e icone: alt e SVG
         for n in nodi:
-            if n.tag == "img" and n.attrs.get("alt", None) == "":
+            # alt="" su un'immagine e' la marcatura corretta delle immagini
+            # decorative (icone di testata degli articoli): non si segnala.
+            # Si segnala solo l'alt vuoto su foto vere fuori da /images/blog/icone/.
+            if n.tag == "img" and n.attrs.get("alt", None) == "" and "/images/blog/icone/" not in n.attrs.get("src", ""):
                 segnala("alt_vuoto", "AVVISO", "", url, n.attrs.get("src", ""))
             if n.tag == "svg" and n.attrs.get("aria-hidden") != "true" and not n.attrs.get("aria-label") \
                     and not any(x.tag == "title" for x in n.tutti()):
@@ -525,13 +528,17 @@ if r.returncode == 0:
         for riga in open(orig_file, encoding="utf-8"):
             riga = riga.split("#", 1)[0].strip()
             if riga.startswith("minimo:"): minimo = int(riga.split(":")[1])
-            elif riga.startswith("/"): originali.append(riga)
-        for u_it in originali:
+            elif riga.startswith("/"):
+                parti = [x.strip() for x in riga.split("|")]
+                m_riga = int(parti[1].split(":")[1]) if len(parti) > 1 and parti[1].startswith("minimo:") else None
+                originali.append((parti[0], m_riga))
+        for u_it, m_riga in originali:
+            min_o = m_riga or minimo
             f_it = url_fm.get(u_it, (None, {}))[1]
             k = f_it.get("translationKey")
             for u in ([per_chiave[k][l] for l in LINGUE if l in per_chiave.get(k, {})] if k else [u_it]):
-                if len(entrate[u]) < minimo:
-                    segnala("originali", "AVVISO", "", u, f"{len(entrate[u])} link, minimo {minimo}")
+                if len(entrate[u]) < min_o:
+                    segnala("originali", "AVVISO", "", u, f"{len(entrate[u])} link, minimo {min_o}")
 
     # ---- parole chiave principali (tools/controlli/parole-chiave.txt)
     kw_file = os.path.join(RADICE, "tools", "controlli", "parole-chiave.txt")

@@ -16,6 +16,7 @@ correlati:
     titolo: "What families say"
     testo: "Reviews from our puppy owners"
 slug: "about-us"
+fonti_motivo: "This page tells the story and the work of the Del Piccolo Diavolo kennel in the first person, and cites no external sources because the facts it reports are the kennel's own. Those that can be verified are verifiable on the site: genetic test reports with the microchip number, ENCI pedigrees, show results with the judges' names."
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
@@ -117,7 +118,7 @@ custom_content: |
   <h2 class="section-title">Who is behind Del Piccolo Diavolo</h2>
   <div class="content-block">
   <p><strong>Paolo Boldrini</strong> has been breeding Staffordshire Bull Terriers since 2013 in Ostellato, in the province of Ferrara, under the name Del Piccolo Diavolo. Before the Staffies he bred Rottweilers, taking an Italian Champion and a European Champion into the ring.</p>
-  <p>He works with Elitebull (England) and Lackyle (Ireland) bloodlines and tests every breeding dog for L2HGA and HC, and the breeding females also for DM-SOD1. With <strong>Bilquis Goddess Diabhal</strong> he won the ENCI Italian Beauty Champion title and placed fourth at the World Dog Show in Zagreb in 2024. Every puppy leaves with an ENCI pedigree and with the parents' test certificates.</p>
+  <p>He works with Elitebull (England) and Lackyle (Ireland) bloodlines and <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)">tests every breeding dog for L2HGA and HC</a>, and the breeding females also for DM-SOD1. With <strong>Bilquis Goddess Diabhal</strong> he won the ENCI Italian Beauty Champion title and placed fourth at the World Dog Show in Zagreb in 2024. Every puppy leaves with an ENCI pedigree and with the parents' test certificates.</p>
   <p>The pages on this site are written by him, based on what actually happens at the kennel. For questions about puppies, bloodlines or genetic testing: <a href="/en/contact/">contact me directly</a>.</p>
   </div>
   </div>
@@ -133,6 +134,12 @@ custom_content: |
   <p><strong>What the stud's owner can show.</strong> Genetic test reports with the microchip number on them, not promises. If a male is not tested for everything needed, or is clear only by parentage, I know it before the mating and I write it on that litter's page: anyone reading should know it as well as I do.</p>
   <p>Before a dog is used for breeding I watch it for months: at home, with strangers, with other dogs, with children. A dog that is not sure of itself does not enter the programme, however handsome. That is why there are one or two litters a year, and some years none: if the right moment does not come, nothing is born that year.</p>
   <p>Of anyone who wants a puppy I ask one thing first: to come to Ostellato in person, at least once. It is the only moment when I see how someone behaves with a real dog rather than a photograph, and when they see where the puppy grew up. I ask to talk about the dog's day: how many hours it will be alone, who is at home, what happens in summer when the family goes away. Ordinary questions, and they prevent almost every problem.</p>
+  </div>
+  </section>
+
+  <section class="section">
+  <div class="section-inner content-single">
+  <p class="fonti">Sources: This page tells the story and the work of the Del Piccolo Diavolo kennel in the first person, and cites no external sources because the facts it reports are the kennel's own. Those that can be verified are verifiable on the site: genetic test reports with the microchip number, ENCI pedigrees, show results with the judges' names.</p>
   </div>
   </section>
 

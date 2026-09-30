@@ -7,6 +7,7 @@ tipoPagina: "CollectionPage"
 translationKey: "recensioni"
 description: "Google reviews from families who took home a Staffordshire Bull Terrier from Del Piccolo Diavolo: real experiences, before the puppy arrived and years after."
 slug: "reviews"
+fonti_motivo: "The reviews shown here come from the Del Piccolo Diavolo kennel's customers: their source is the kennel's Google profile, linked from every single review, and there are no other external sources to cite."
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
@@ -37,6 +38,8 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">Our Reputation</span>
   <h2 class="section-title">Why Reviews Matter</h2>
+
+  <p>Del Piccolo Diavolo has an average rating of <!--REC-VOTO--> from <!--REC-TOTALE--> reviews published on the kennel's Google profile, all verifiable at the source: every review shown on this page carries the name of the person who wrote it and a direct link to the original on Google, where anyone can read it without going through us. They are families who took a Staffordshire Bull Terrier puppy from Ostellato, in the province of Ferrara, between 2013 and today. A review shown on a website without a link to its source cannot be verified: anyone could have written it, the breeder included. It is the same principle as the genetic test reports, which are published here with the dog's microchip number on them. The reviews tell the story of the placement; what happened afterwards, years later, is told in the <a href="/en/staffordshire-family-life-stories/" title="Family stories">stories of the dogs we bred</a>.</p>
   <div class="values-grid">
   <div class="value-card"><h3>✓ Transparency</h3><p>Every review verifiable on Google</p></div>
   <div class="value-card"><h3>⭐ <!--REC-VOTO-->/5</h3><p>Average built since 2013</p></div>
@@ -334,4 +337,10 @@ custom_content: |
   </div>
   </section>
   
+
+  <section class="section">
+  <div class="section-inner content-single">
+  <p class="fonti">Sources: The reviews shown here come from the Del Piccolo Diavolo kennel's customers: their source is the kennel's Google profile, linked from every single review, and there are no other external sources to cite.</p>
+  </div>
+  </section>
 ---

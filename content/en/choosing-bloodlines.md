@@ -66,7 +66,7 @@ custom_content: |
   <p>A pedigree tells you about ancestors. A breeder tells you about the puppy you will actually get. The questions that reveal most are these.</p>
   <p>Why these two dogs? A breeder with a programme answers in terms of what each parent brings, what they hoped to improve and what compromise they accepted. Without one, the answer is that both parents are beautiful.</p>
   <p>What would you change about this litter? Anyone honest has an answer, and it is usually specific.</p>
-  <p>Where do the puppies live? Puppies raised in a kitchen among household noise are meaningfully better socialised at 8 weeks than puppies raised in a clean outdoor kennel, and the difference persists.</p>
+  <p>Where do the puppies live? Puppies raised in a kitchen among household noise are meaningfully <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it really means">better socialised at 8 weeks</a> than puppies raised in a clean outdoor kennel, and the difference persists.</p>
   <p>What happens if it does not work out? The right answer is that the dog comes back to the breeder, at any age, for any reason, and that it is written in the contract.</p>
 
   <h2>Linebreeding and how much is too much</h2>

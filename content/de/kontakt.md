@@ -228,7 +228,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3>Was soll ich mitbringen?</h3>
-  <p>Sich selbst und Ihre Fragen. Wir zeigen Ihnen die Eltern, die Welpen, falls es welche gibt, die Laborbefunde, die Ahnentafeln und die Räume, in denen die Hunde wirklich leben. Fragen Sie nach allem, was Sie sehen möchten.</p>
+  <p>Sich selbst und Ihre Fragen. <a href="/de/eltern-vor-ort-was-das-bedeutet/" title="&quot;Eltern vor Ort&quot;: was das wirklich bedeutet">Wir zeigen Ihnen die Eltern</a>, die Welpen, falls es welche gibt, die Laborbefunde, die Ahnentafeln und die Räume, in denen die Hunde wirklich leben. Fragen Sie nach allem, was Sie sehen möchten.</p>
   </div>
 
   <div class="faq-item">
