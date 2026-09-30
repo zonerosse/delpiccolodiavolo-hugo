@@ -52,6 +52,8 @@ hugo server -D       # include drafts
 
 Deploy is Cloudflare Pages (build command `hugo`, output dir `public`), triggered on push to `main`.
 
+After each push touching the site, `.github/workflows/indexnow.yml` waits until the deploy is live, then pings IndexNow with the pages whose sitemap `lastmod` is today or yesterday. "Live" means the `X-Build` header of `/sitemap.xml` (written by `layouts/index.headers` from Cloudflare's `CF_PAGES_COMMIT_SHA`, allowed in `[security.funcs]` of `hugo.toml`) equals the pushed commit or has changed since the run started; after 20 minutes it goes ahead anyway with a warning. Locally the variable is empty and the header is not emitted.
+
 Markdown for AI agents: every page also builds as `index.md` (`layouts/_default/single.md`, `layouts/index.md`). On Cloudflare a URL Rewrite Transform Rule named "Markdown per agenti AI" serves it to clients sending `Accept: text/markdown`:
 expression `(http.request.headers["accept"][0] contains "text/markdown" and not ends_with(http.request.uri.path, ".md"))`, dynamic path `concat(http.request.uri.path, "index.md")`. `Vary: Accept` in `layouts/index.headers` keeps the cache from mixing the two. Check: `curl.exe -H "Accept: text/markdown" https://delpiccolodiavolo.it/colori-staffordshire-bull-terrier/` must start with `#`, not `<!DOCTYPE html>`.
 

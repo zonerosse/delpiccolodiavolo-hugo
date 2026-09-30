@@ -32,6 +32,13 @@
 # letti da chi decide quanto spesso tornare. Devono essere sempre freschi.
 # max-age=0 con must-revalidate non significa riscaricare ogni volta: il
 # client chiede se e' cambiato e riceve un 304 quando non lo e'.
+{{- with os.Getenv "CF_PAGES_COMMIT_SHA" }}
+# Commit pubblicato: lo legge il workflow IndexNow per aspettare che la
+# pubblicazione sia finita. Solo su Cloudflare; in locale la regola non c'e'.
+/sitemap.xml
+  X-Build: {{ . }}
+
+{{ end -}}
 /*.xml
   Cache-Control: public, max-age=0, must-revalidate
 

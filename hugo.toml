@@ -87,6 +87,15 @@ enableRobotsTXT = true
   recensioniVoto = "5.0"
   recensioniTotale = "41"
 
+# Cloudflare Pages mette nell'ambiente di build lo SHA del commit che sta
+# compilando (CF_PAGES_COMMIT_SHA). Hugo di norma legge solo le variabili
+# HUGO_* e CI: qui gli si permette di leggere anche questa, che finisce
+# nell'intestazione X-Build della sitemap (layouts/index.headers). Serve al
+# workflow IndexNow per sapere quando il commit e' davvero online.
+[security]
+  [security.funcs]
+    getenv = ['^HUGO_', '^CI$', '^CF_PAGES_COMMIT_SHA$']
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

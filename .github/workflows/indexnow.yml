@@ -5,8 +5,8 @@ name: Segnala le pagine a IndexNow
 #
 # COME FUNZIONA
 # -------------
-# Dopo ogni push su main, aspetta qualche minuto che Cloudflare pubblichi,
-# poi legge le sitemap delle tre lingue (/sitemap.xml, /en/sitemap.xml,
+# Dopo ogni push su main aspetta che Cloudflare abbia pubblicato il commit
+# (vedi "Aspetta che Cloudflare pubblichi" qui sotto), poi legge le sitemap delle tre lingue (/sitemap.xml, /en/sitemap.xml,
 # /de/sitemap.xml) e manda a IndexNow SOLO le pagine con lastmod di oggi o di
 # ieri, cioe' quelle toccate dal commit. Segnalare ogni volta tutto il sito
 # insegna ai motori che le segnalazioni non significano niente.
@@ -32,13 +32,38 @@ on:
 jobs:
   segnala:
     runs-on: ubuntu-latest
+    env:
+      HOST: delpiccolodiavolo.it
     steps:
+      # Prima c'era un'attesa fissa di 3 minuti: se Cloudflare ci metteva di
+      # piu', la sitemap letta era quella vecchia, nessuna pagina risultava
+      # cambiata e il run finiva "riuscito" senza aver segnalato niente.
+      # Ora il workflow chiede ogni 30 secondi l'intestazione X-Build della
+      # sitemap, che Hugo scrive con il commit compilato da Cloudflare
+      # (layouts/index.headers), e prosegue appena il sito e' cambiato:
+      # X-Build uguale a questo commit, oppure diverso da quello trovato
+      # all'inizio (succede se nel frattempo e' arrivato un push piu' nuovo).
+      # Dopo 20 minuti prosegue comunque e lascia un avviso giallo nel run.
       - name: Aspetta che Cloudflare pubblichi
-        run: sleep 180
+        run: |
+          build() {
+            curl -sSI --retry 2 "https://$HOST/sitemap.xml" 2>/dev/null \
+              | tr -d '\r' | awk -F': ' 'tolower($1)=="x-build"{print $2}'
+          }
+          INIZIO=$(build)
+          echo "Online all'avvio: ${INIZIO:-(nessun X-Build)}   Commit di questo push: $GITHUB_SHA"
+          for i in $(seq 1 40); do
+            ORA=$(build)
+            if [ -n "$ORA" ] && { [ "$ORA" = "$GITHUB_SHA" ] || [ "$ORA" != "$INIZIO" ]; }; then
+              echo "Pubblicato ($ORA) dopo circa $(( (i-1)*30 )) secondi."
+              exit 0
+            fi
+            sleep 30
+          done
+          echo "::warning::Dopo 20 minuti il sito non risulta aggiornato a questo commit. Segnalo comunque le pagine con la sitemap attuale."
 
       - name: Leggi le sitemap e manda le URL
         env:
-          HOST: delpiccolodiavolo.it
           KEY: 6ddc5a9e8d861ef5b8263d15a72183d9
           TUTTO: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
