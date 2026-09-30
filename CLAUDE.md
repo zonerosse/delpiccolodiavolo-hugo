@@ -69,7 +69,7 @@ Each language has its own `contentDir` (`content/it`, `content/en`, `content/de`
 
 ### `custom_content`: pages are HTML in front matter, not Markdown
 
-The dominant pattern (~123 of 136 pages): the page body is empty and all markup lives in a `custom_content:` YAML block-scalar in the front matter, rendered through `safeHTML` by `layouts/index.html` / `layouts/_default/single.html`. Only pages *without* `custom_content` fall through to the standard Markdown path (breadcrumb + `.Content` + WhatsApp CTA). A Markdown article that starts its body with its own `<section class="hero">` followed by `<nav class="breadcrumb">` gets no generic page-hero: `single.html` prints everything up to the first `</nav>` full width and puts the rest inside `.article-content`. The four articles still written in Markdown (price guide, choosing a breeder, temperament, Staffy vs Amstaff, in three languages) all follow this pattern. Goldmark has `unsafe = true`, so inline HTML in Markdown bodies also renders.
+The dominant pattern (137 of 161 content files): the page body is empty and all markup lives in a `custom_content:` YAML block-scalar in the front matter, rendered through `safeHTML` by `layouts/index.html` / `layouts/_default/single.html`. Only pages *without* `custom_content` fall through to the standard Markdown path (breadcrumb + `.Content` + WhatsApp CTA). A Markdown article that starts its body with its own `<section class="hero">` followed by `<nav class="breadcrumb">` gets no generic page-hero: `single.html` prints everything up to the first `</nav>` full width and puts the rest inside `.article-content`. The four articles still written in Markdown (price guide, choosing a breeder, temperament, Staffy vs Amstaff, in three languages) all follow this pattern. Goldmark has `unsafe = true`, so inline HTML in Markdown bodies also renders.
 
 Inside `custom_content`, HTML comment placeholders are string-replaced with partials before the output is marked safe. **Which placeholders work depends on the template**:
 
@@ -79,13 +79,16 @@ Inside `custom_content`, HTML comment placeholders are string-replaced with part
 | `<!--HEROFOTO-->` | yes | no | `partials/hero-foto.html` |
 | `<!--CUCCIOLATA-->` | no | yes | `partials/ultima-cucciolata.html` |
 | `<!--CORRELATI-->` | yes | yes | `partials/correlati.html`, driven by the `correlati:` front matter list |
-| `<!--LISTAATTESA-->` | yes | yes | `partials/lista-attesa.html` |
+| `<!--RECENTI-->` | no | yes | `partials/recenti.html` |
+| `<!--GUIDE-->` | no | yes | `partials/guide-cucciolo.html`, group `cucciolo` (links to the practical puppy guides, found by `translationKey`, current page excluded) |
+| `<!--PRENOTA-->` | no | yes | `partials/prenota.html` — the trilingual contact form, used only on `/contatto/` |
+| `<!--REC-VOTO-->` / `<!--REC-TOTALE-->` | yes | yes | Google rating and review count from `recensioniVoto` / `recensioniTotale` in `hugo.toml` — never write the numbers by hand |
 
 `<!--CORRELATI-->` and `<!--RECENTI-->` are also replaced in the Markdown body of pages *without* `custom_content` (the `{{ else }}` branch of `single.html`); the other placeholders are not. Adding a placeholder to a page that its template doesn't handle leaves the literal comment in the HTML.
 
 ### Breeding diary drives the homepage
 
-`content/<lang>/diario-allevamento/` is the only real Hugo section, with its own `layouts/diario-allevamento/{list,single}.html`. The **newest post by date** is pulled into the home NEWS block and into `ultima-cucciolata.html`. Post front matter: `date`, `image`, `image_alt`, `annuncio` (overrides the title in cards), and `stato: disponibile|completa` which switches the waiting-list CTA copy on the post page.
+`content/<lang>/diario-allevamento/` is the only real Hugo section, with its own `layouts/diario-allevamento/{list,single}.html`. The **newest post by date** is pulled into the home NEWS block and into `ultima-cucciolata.html`. Post front matter: `date`, `image`, `image_alt`, `annuncio` (overrides the title in cards), and `stato: disponibile|completa` (default `completa`) which switches the title and text of the contact block at the bottom of the post page.
 
 ### Hero photo rotation and the weekly rebuild
 
@@ -99,7 +102,9 @@ One file, `assets/css/main.css` (already minified in-repo, single long line), in
 
 1. `i18n/{it,en,de}.toml` via `{{ T "key" }}` — nav labels, footer, WhatsApp prefill text.
 2. Inline `{{ if eq .Site.Language.Lang "en" }}…{{ end }}` chains — used throughout the partials for anything longer than a label.
-3. Per-language `dict` blocks — `lista-attesa.html` builds a whole `$T` dictionary per language.
+3. Per-language `dict` blocks — e.g. `data-locale.html`, `schema.html`.
+
+Exception: `partials/prenota.html` is a single page for all three languages, so its labels carry IT · EN · DE on the same line instead of switching by language.
 
 `layouts/partials/header.html` hardcodes each menu target as a `cond` chain over the three language slugs, and the **desktop `<ul class="nav-links">` and the `.mobile-menu` block are separate copies** — a menu change must be applied to both.
 
@@ -107,15 +112,20 @@ One file, `assets/css/main.css` (already minified in-repo, single long line), in
 
 - `baseof.html`: `titleSeo` front matter overrides `title` for `<title>`/OG/Twitter; the brand suffix is appended only when the result stays ≤60 chars (always on the home page). `hreflang` comes from `.AllTranslations` (hence `translationKey`). `noindex: true` front matter emits a robots meta tag. `json_ld` front matter injects extra JSON-LD.
 - `partials/schema.html`: hand-written Organization/LocalBusiness JSON-LD with address and geo coordinates — these values are duplicated from `[params]` in `hugo.toml`, so update both. **No `Review`/`AggregateRating` markup, on purpose**: the reviews come from the Google Business profile, and Google forbids marking up reviews collected elsewhere (and shows no stars for self-serving LocalBusiness reviews). `recensioniVoto`/`recensioniTotale` in `hugo.toml` only feed the visible text.
-- `enableGitInfo = true`: `lastmod` comes from git commit dates. Sitemap and robots.txt have custom layouts (`layouts/_default/sitemap.xml`, `layouts/robots.txt`); taxonomies and RSS are disabled.
+- `enableGitInfo = true`, but `[frontmatter]` in `hugo.toml` reads `lastmod` from front matter first, then git (Cloudflare clones without history, so git dates alone would be wrong); `date` comes only from front matter. See "lastmod: who updates it" below. Sitemap and robots.txt have custom layouts (`layouts/_default/sitemap.xml`, `layouts/robots.txt`); taxonomies and RSS are disabled.
 
-### Waiting-list form → Google Apps Script
+### Contact form (`/contatto/`) → Google Apps Script
 
-`partials/lista-attesa.html` renders a plain `<form method="POST">` posting directly to `params.listaAttesaEndpoint` (a Google Apps Script `/exec` URL). It works with JavaScript disabled; the small inline script only blocks the `azienda` honeypot field and disables the submit button. Server side lives in `apps-script-lista-attesa.gs` — that file is **not deployed by this repo**; editing it requires a manual redeploy from the Apps Script editor (see the install comment at the top of the file).
+There is **no waiting list and no booking**: Paolo removed both from the whole site. What remains is a "let's stay in touch" form.
+
+- Page: `content/it/prenota.md` (slug `contatto`, `noindex`, Italian only, no `translationKey` — the form itself is trilingual). The link is not published anywhere on the site: Paolo sends it to people who ask. Confirmation page: `content/it/prenota-grazie.md` (slug `contatto-grazie`, noindex, `build.list: never`).
+- `partials/prenota.html`, via `<!--PRENOTA-->`, renders a plain `<form method="POST">` to `params.listaAttesaEndpoint` (a Google Apps Script `/exec` URL; the parameter keeps its old name). Without JavaScript it is a normal POST. With JavaScript it posts in the background (`fetch`, `no-cors`) and then sends the visitor to `/contatto-grazie/`, because the site's `X-Frame-Options: DENY` prevents the Apps Script response page from being framed. The `azienda` field is a honeypot.
+- Server side: `apps-script-prenotazioni.gs`, **not deployed by this repo** — to change it, paste it into the Apps Script editor and publish a new version of the existing deployment (the `/exec` URL does not change). `apps-script-lista-attesa.gs` is the previous version of the same script, kept for reference only.
+- File names, the `listaAttesaEndpoint` parameter and the spreadsheet name in the script still say "prenota"/"lista d'attesa": internal leftovers, never to be used in visible text. Visible copy follows COME-SI-SCRIVE (no booking, waiting-list or sales language).
 
 ## Repo cruft — do not treat as source
 
-`lista.txt` (UTF-16 file listing), and `PULIZIA-FILE-VECCHI.bat` are leftovers from the site migration. `public/` is gitignored but present locally.
+`lista.txt` (UTF-16 file listing) and `PULIZIA-FILE-VECCHI.bat` are leftovers from the site migration. The `LEGGIMI-*.md` / `LEGGIMI.txt` files in the root are delivery notes from past changes, not instructions: current rules live only in this file and in COME-SI-SCRIVE. `FILE-NON-USATI.md` is a dated snapshot of unused static files and is no longer accurate. `public/` is gitignored but present locally.
 
 ## Share cards (og:image) for articles
 

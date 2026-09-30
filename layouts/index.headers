@@ -22,9 +22,9 @@
 # scaricato un referto se lo tiene finche' non scade, e il purge di
 # Cloudflare non lo raggiunge: quello svuota l'edge, non i browser.
 #
-# I referti pesano poche decine di KB e vengono scaricati di rado: un
-# giorno di cache non fa risparmiare nulla di misurabile e garantisce che
-# una correzione si veda subito.
+# I PDF pesano da qualche decina di KB a poco piu' di 1 MB, ma vengono
+# scaricati di rado: un giorno di cache non fa risparmiare nulla di
+# misurabile e garantisce che una correzione si veda subito.
 /docs/*
   Cache-Control: public, max-age=86400
 
