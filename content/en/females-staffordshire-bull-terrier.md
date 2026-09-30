@@ -2,10 +2,10 @@
 title: "Female Staffordshire Bull Terriers"
 titleSeo: "Our female Staffies: microchips and pedigrees"
 date: 2025-12-28
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 tipoPagina: "CollectionPage"
 translationKey: "femmine"
-description: "Our female Staffordshire Bull Terriers: Bilquis (Top Dog Junior 2023), Croi Olc, Divine, Kennedy, Derry, Cattleya. L2HGA, HC (HSF4) and DM-SOD1 tested."
+description: "Our female Staffordshire Bull Terriers: Bilquis (Top Dog Junior 2023), Queen of California, Croi Olc, Divine, Kennedy, Derry, Cattleya. L2HGA, HC and DM-SOD1 tested."
 slug: "females-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">
@@ -93,6 +93,7 @@ custom_content: |
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Character.</strong> Gentle and soft with everyone, dogs and people included those she has never met. If you come to visit she greets you belly up asking to be stroked, and you will not shake her off until you leave. It is not only her own trait: the puppies from her first litter inherited the same character, and the families say so in the <a href="/en/reviews/" title="Reviews">reviews</a>.</p>
   <a class="doc-link" href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" title="Download Bilquis genetic tests" aria-label="Download Bilquis genetic tests (opens in a new tab)">📄 Genetic Tests</a>
   <a class="doc-link" href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" title="Download Bilquis echocardiogram" aria-label="Download Bilquis echocardiogram (opens in a new tab)">📄 Doppler Echocardiogram</a>
+  <a class="doc-link" href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Download Bilquis show results from the ENCI stud book" aria-label="Download Bilquis show results from the ENCI stud book (opens in a new tab)">📄 ENCI show results</a>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="View Bilquis pedigree on SBTPedigree" aria-label="View Bilquis pedigree on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
   </div>
   </div>
@@ -119,7 +120,7 @@ custom_content: |
   <p><strong>Owner:</strong> Stefano Tevini</p>
   <p><strong>Handler:</strong> Vittoria Passerini</p>
   <p><strong>Title:</strong> Italian Young Champion — Albarella (RO), 17 May 2026. Junior Class 1st Excellent, JCAC, JBOB, BOB. Best Staffy — Polesano Canine Group.</p>
-    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Character.</strong> Minnie's daughter, and her carbon copy: not only in build, but above all in the head. The same exuberance, the same constant demand for attention, the same belly up at the drop of a hat. When people say character is inherited, Queen is how we see it here at home.</p>
+    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Character.</strong> Minnie's daughter, and her carbon copy: not only in build, but above all in the head. The same exuberance, the same constant demand for attention, the same belly up at the drop of a hat. Queen does not live with us, but we see her often and the family she lives with tells us every day how she is: when people say character is inherited, she is the proof we have in front of us.</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" title="View Queen of California pedigree on SBTPedigree" aria-label="View the full pedigree of the litter on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
   </div>
   </div>
@@ -187,7 +188,6 @@ custom_content: |
   <p><strong>Microchip:</strong> 276098104987682<br>
   <strong>LOI:</strong> LO1610654</p>
   <p><strong>Genetic Tests:</strong> L2HGA & HC (HSF4) clear by DNA</p>
-  <p><strong>PHPV:</strong> Unaffected</p>
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> CH. Hell's Angel</p>
   <p><strong>Dam:</strong> CH. Mellowstaff by Great'n Glory</p>
@@ -213,7 +213,6 @@ custom_content: |
   <p><strong>HD:</strong> B</p>
   <p><strong>ED:</strong> A</p>
   <p><strong>Genetic Tests:</strong> L2HGA & HC (HSF4) clear by DNA</p>
-  <p><strong>PHPV:</strong> Unaffected</p>
   <p><strong>Sire:</strong> CH. Kiraloebis Italian Gigalo (Top UK Staffordshire Bull Terrier 2012)</p>
   <p><strong>Dam:</strong> Lackyle Duilleog Daracha</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Character.</strong> The old lady of the house, the one in charge. She keeps an eye on everything and everyone and tries to look serious in every situation, then remembers she is a Staffy after all and cannot resist being fussed over. A nuisance who always wants to be the centre of attention. Her cushion is on the rug beside my bed.</p>

@@ -8,7 +8,7 @@ Nützliche Informationen zu dieser Website:
 - Standort: Ostellato (FE), Emilia-Romagna, Italien
 - Rasse: Staffordshire Bull Terrier
 - Blutlinien: englische (Elitebull) und irische (Lackyle)
-- Erfolge: 1 Italienischer Champion, 3 Italienische Jugendchampions, 1 San-Marino-Champion, 4. Platz bei der World Dog Show
+- Erfolge: 1 Italienischer Champion, 3 Italienische Jugendchampions, 1 San-Marino-Champion, 4. Platz bei der World Dog Show; Bilquis Goddess Diabhal hat 19 erste Plätze bei 20 Ausstellungen in Italien, erfasst im ENCI-Zuchtbuch
 - Welpen werden mit ENCI-Stammbaum übergeben
 - Sprachen der Website: Italienisch (Hauptsprache), Englisch, Deutsch
 - Google-Bewertungen: <!--REC-TOTALE-->, Durchschnitt <!--REC-VOTO--> von 5, aus dem Google-Unternehmensprofil der Zucht; vollständiger Text unter https://delpiccolodiavolo.it/de/bewertungen/
@@ -19,7 +19,7 @@ Nützliche Informationen zu dieser Website:
 - [Startseite — Staffordshire Bull Terrier Zucht](https://delpiccolodiavolo.it/de/): Vorstellung der Zucht, Selektionsmethode und Welpen.
 - [Über uns](https://delpiccolodiavolo.it/de/ueber-uns/): Geschichte der Zucht und Zuchtphilosophie.
 - [Staffordshire Bull Terrier Welpen](https://delpiccolodiavolo.it/de/welpen-staffordshire-bull-terrier/): Würfe, Verfügbarkeit und Ablauf der Abgabe.
-- [Zuchthündinnen](https://delpiccolodiavolo.it/de/huendinnen-staffordshire-bull-terrier/): die Hündinnen der Zucht Del Piccolo Diavolo mit Stammbaum, Gentests und Titeln.
+- [Zuchthündinnen](https://delpiccolodiavolo.it/de/huendinnen-staffordshire-bull-terrier/): die Hündinnen der Zucht Del Piccolo Diavolo mit Stammbaum, Gentests, Titeln und herunterladbaren Befunden.
 - [Zuchtrüden](https://delpiccolodiavolo.it/de/rueden-staffordshire-bull-terrier/): die Rüden der Zucht Del Piccolo Diavolo mit Stammbaum, Gentests und Titeln.
 - [Würfe und Zuchtprogramm](https://delpiccolodiavolo.it/de/wuerfe-staffordshire-bull-terrier/): geplante Verpaarungen, Zuchttiere und vergangene Würfe.
 - [Kontakt](https://delpiccolodiavolo.it/de/kontakt/): wo die Zucht liegt und wie Sie einen Besuch vereinbaren.
@@ -80,6 +80,7 @@ Nützliche Informationen zu dieser Website:
 
 ## Vertrauen
 
+- [Ausstellungsergebnisse von Bilquis im ENCI-Zuchtbuch (PDF)](https://delpiccolodiavolo.it/docs/bilquis-esposizioni-enci.pdf): die Ergebnisliste von Bilquis Goddess Diabhal (LOI LO22197469) im ENCI-Zuchtbuch: 20 Ausstellungen in Italien, 19 davon mit dem 1. Platz. Ausstellungen im Ausland, die World Dog Show eingeschlossen, erfasst die ENCI nicht.
 - [Bewertungen](https://delpiccolodiavolo.it/de/bewertungen/): Erfahrungen der Familien, die einen Welpen der Zucht Del Piccolo Diavolo gewählt haben.
 - [Staffordshire Bull Terrier in der Familie: wo unsere Hunde heute sind](https://delpiccolodiavolo.it/de/staffordshire-in-der-familie-geschichten/): zehn in der Zucht Del Piccolo Diavolo geborene Hunde, Jahre nach der Abgabe erzählt, im Familienalltag, bei der Arbeit und im Ausstellungsring, und die Tatsache, dass seit 2013 kein Hund zurückgegeben wurde, obwohl die schriftliche Rücknahmezusage unbefristet gilt.
 
@@ -98,6 +99,6 @@ Nützliche Informationen zu dieser Website:
 
 ## Hinweise
 
-- Die Zucht produziert wenige Würfe pro Jahr und wählt die Familien sorgfältig aus.
+- Die Zucht hat einen Wurf im Jahr, gelegentlich zwei und in manchen Jahren keinen, und wählt die Familien sorgfältig aus.
 - Gesundheit und Charakter stehen vor der Ästhetik; keine Verpaarungen mit verdünnten (blauen) Hunden.
 - Die Hauptwebsite ist auf Italienisch unter https://delpiccolodiavolo.it/ ; eine englische Version ist unter /en/ verfügbar.

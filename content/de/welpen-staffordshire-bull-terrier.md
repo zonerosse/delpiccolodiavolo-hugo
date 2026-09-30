@@ -44,15 +44,15 @@ custom_content: |
   <div class="features-track">
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA Clear</span>
-  <span>HC Clear</span>
+  <span>L2HGA frei</span>
+  <span>HC frei</span>
   <span>Italienische Champions</span>
   <span>ENCI Stammbaum</span>
   <span>Ostellato FE</span>
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA Clear</span>
-  <span>HC Clear</span>
+  <span>L2HGA frei</span>
+  <span>HC frei</span>
   <span>Italienische Champions</span>
   <span>ENCI Stammbaum</span>
   <span>Ostellato FE</span>

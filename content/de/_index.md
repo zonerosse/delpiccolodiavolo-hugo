@@ -42,17 +42,17 @@ custom_content: |
   <div class="features-track">
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA Clear</span>
-  <span>HC (HSF4) Clear</span>
-  <span>DM-SOD1 Clear</span>
+  <span>L2HGA frei</span>
+  <span>HC (HSF4) frei</span>
+  <span>DM-SOD1 frei</span>
   <span>Italienische Champions</span>
   <span>ENCI · FCI Ahnentafel</span>
   <span>Ostellato FE</span>
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA Clear</span>
-  <span>HC (HSF4) Clear</span>
-  <span>DM-SOD1 Clear</span>
+  <span>L2HGA frei</span>
+  <span>HC (HSF4) frei</span>
+  <span>DM-SOD1 frei</span>
   <span>Italienische Champions</span>
   <span>ENCI · FCI Ahnentafel</span>
   <span>Ostellato FE</span>
@@ -250,7 +250,7 @@ custom_content: |
   <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center;display:flex;flex-direction:column;height:100%">
   <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Cattleya Del Piccolo Diavolo at Valconcaclan</h3>
   <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Jugendchampionin und Championin von San Marino</p>
-  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Jugendchampionin von San Marino 2023, Championin von San Marino 2024. Bei uns geboren und aufgezogen, heute im Besitz von Ricarda Mazzola Wagner (Valconcaclan). L2HGA und HC (HSF4) clear, vollständiges Scherengebiss.</p>
+  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Jugendchampionin von San Marino 2023, Championin von San Marino 2024. Bei uns geboren und aufgezogen, heute im Besitz von Ricarda Mazzola Wagner (Valconcaclan). L2HGA und HC (HSF4) frei, vollständiges Scherengebiss.</p>
   </div>
 
   </div>

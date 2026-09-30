@@ -35,8 +35,8 @@ Ihr Browser unterstützt kein Video.
     <span class="dog-name">Vangerbull Red Harricane</span>
     <img src="/images/red.avif" alt="Vangerbull Red Harricane - Staffordshire Bull Terrier Deckrüde" width="250" height="324" loading="lazy" decoding="async">
     <ul>
-      <li>L2HGA: Clear (N/N)</li>
-      <li>HC: Clear (N/N)</li>
+      <li>L2HGA: frei (N/N)</li>
+      <li>HC: frei (N/N)</li>
       <li>Vollständiges Scherengebiss</li>
     </ul>
     <p>CH. Americano Toreator De Testaferro × Staffgold Girl Of Ice</p>
@@ -49,9 +49,9 @@ Ihr Browser unterstützt kein Video.
     <span class="dog-name">Skilful-dogs Nora</span>
     <img src="/images/nora-femmina-staffordshire-bull-terrier.avif" alt="Skilful-dogs Nora - Staffordshire Bull Terrier Zuchthündin" width="250" height="372" loading="lazy" decoding="async">
     <ul>
-      <li>L2HGA: Clear (N/N)</li>
-      <li>HC: Clear (N/N)</li>
-      <li>DM: Clear</li>
+      <li>L2HGA: frei (N/N)</li>
+      <li>HC: frei (N/N)</li>
+      <li>DM: frei</li>
       <li>Vollständiges Scherengebiss</li>
     </ul>
     <p>Skilful-Dogs Jeghër × Skilful-Dogs Red Skin</p>
@@ -85,15 +85,15 @@ Dies beweist ihre Fähigkeit, Qualität an ihre Nachkommen weiterzugeben.
 
 ## Gentests
 
-Beide Eltern sind **Clear** getestet für die wichtigsten genetischen Erkrankungen der Rasse:
+Beide Eltern sind **frei** getestet für die wichtigsten genetischen Erkrankungen der Rasse:
 
 | Test | Red | Nora |
 |------|-----|------|
-| L2HGA (L-2-Hydroxyglutarsäure-Azidurie) | N/N Clear | N/N Clear |
-| HC (Hereditäre Katarakt) | N/N Clear | N/N Clear |
+| L2HGA (L-2-Hydroxyglutarsäure-Azidurie) | N/N frei | N/N frei |
+| HC (Hereditäre Katarakt) | N/N frei | N/N frei |
 | Gebiss | Vollständiges Scherengebiss | Vollständiges Scherengebiss |
 
-Alle Welpen sind **genetisch gesund** für L2HGA und HC (alle Clear).
+Alle Welpen sind **genetisch gesund** für L2HGA und HC (alle frei).
 
 <div style="background:linear-gradient(135deg,#5c4a3a 0%,#8b7355 100%);padding:2rem;border-radius:12px;margin:2rem 0;color:#fff">
 <h3 style="margin:0 0 1rem;font-size:1.1rem;font-family:inherit;font-weight:600;color:#fff;display:flex;align-items:center;gap:.5rem">

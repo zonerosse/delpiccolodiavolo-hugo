@@ -2,7 +2,7 @@
 title: "Palmares Staffordshire Bull Terrier"
 titleSeo: "Palmares: campioni italiani e internazionali dal 2013"
 date: 2026-01-04
-lastmod: 2026-09-28
+lastmod: 2026-09-30
 tipoPagina: "CollectionPage"
 translationKey: "palmares"
 description: "Risultati e titoli dei nostri Staffordshire Bull Terrier: Campioni Italiani, Giovani Campioni, Best of Breed. Allevamento Del Piccolo Diavolo, Emilia-Romagna."
@@ -175,6 +175,12 @@ custom_content: |
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
+  <span style="background:#d8cfc2;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 2a</span>
+  <span>Expo Internazionale Montesilvano (PE) - 21 ott 2023</span>
+  <span style="color:#8b5a2b;font-weight:600">R.JCAC</span>
+  </div>
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
   <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
   <span>Expo Internazionale Bastia Umbra (PG) - 8 ott 2023</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
@@ -200,7 +206,7 @@ custom_content: |
   
   </div>
   
-  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">20 esposizioni totali. Top Dog Junior 2023. Giovane Campionessa Italiana. Campionessa Italiana di Bellezza.</p>
+  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">20 esposizioni in Italia nel Libro genealogico ENCI, 19 chiuse al primo posto: <a href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Esposizioni di Bilquis nel Libro genealogico ENCI" aria-label="Esposizioni di Bilquis nel Libro genealogico ENCI (si apre in una nuova scheda)">la scheda ENCI dei risultati</a> (LOI LO22197469). Le esposizioni all'estero, World Dog Show compreso, su ENCI non sono registrate. Top Dog Junior 2023. Giovane Campionessa Italiana. Campionessa Italiana di Bellezza.</p>
   
   </div>
   </section>
@@ -219,7 +225,7 @@ custom_content: |
   <h3>Giovane Campionessa e Campionessa San Marino</h3>
   <p><strong>JCH San Marino 2023</strong> - Giovane Campionessa conquistata nel 2023.</p>
   <p><strong>CH San Marino 2024</strong> - Campionessa San Marino conquistata nel 2024.</p>
-  <p>Nata e allevata da noi, ora di proprieta di Ricarda Mazzola Wagner (Valconcaclan). Test genetici L2HGA e HC (HSF4) clear, dentatura completa a forbice.</p>
+  <p>Nata e allevata da noi, ora di proprieta di Ricarda Mazzola Wagner (Valconcaclan). Test genetici L2HGA e HC (HSF4) esente, dentatura completa a forbice.</p>
   </div>
   </div>
   </div>

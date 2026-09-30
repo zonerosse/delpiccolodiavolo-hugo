@@ -2,7 +2,7 @@
 title: "Maschi Staffordshire Bull Terrier"
 titleSeo: "Maschi Staffordshire Bull Terrier: pedigree e test genetici"
 date: 2025-12-28
-lastmod: 2026-09-28
+lastmod: 2026-09-30
 tipoPagina: "CollectionPage"
 translationKey: "maschi"
 description: "I maschi Staffordshire Bull Terrier dell'allevamento: Lothar, Campione Sloveno e Giovane Campione Italiano, Braveheart e Papillon, con test L2HGA e HC."
@@ -30,15 +30,15 @@ custom_content: |
   <div class="features-track">
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA Clear</span>
-  <span>HC Clear</span>
+  <span>L2HGA esente</span>
+  <span>HC esente</span>
   <span>Campioni Italiani</span>
   <span>Pedigree ENCI</span>
   <span>Ostellato FE</span>
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA Clear</span>
-  <span>HC Clear</span>
+  <span>L2HGA esente</span>
+  <span>HC esente</span>
   <span>Campioni Italiani</span>
   <span>Pedigree ENCI</span>
   <span>Ostellato FE</span>
@@ -59,8 +59,8 @@ custom_content: |
   <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">I nostri maschi sono testati per:</p>
   <p>✓ <strong>L2HGA</strong> — Aciduria L-2-Idrossiglutarica<br>
   ✓ <strong>HC</strong> — Cataratta Ereditaria<br>
-  ✓ <strong>Dentatura</strong> — Scissor bite completo</p>
-  <p style="margin-top:1.2rem">Solo soggetti <strong>clear</strong> o <strong>unaffected</strong> vengono utilizzati, garantendo cuccioli sani e una discendenza robusta.</p>
+  ✓ <strong>Dentatura</strong> — Chiusura a forbice completa</p>
+  <p style="margin-top:1.2rem">Solo soggetti <strong>esenti</strong> vengono utilizzati, garantendo cuccioli sani e una discendenza robusta.</p>
   </div>
   </div>
   </section>
@@ -82,7 +82,7 @@ custom_content: |
   <img src="/images/lothar-matthaus-tyson-locandina.avif" alt="CH SLO J.CH ITA Lothar Matthäus del Piccolo Diavolo detto Tyson, maschio Staffordshire Bull Terrier tigrato allevato da Del Piccolo Diavolo" width="900" height="1228" loading="lazy" decoding="async" srcset="/images/lothar-matthaus-tyson-locandina-400w.avif 400w, /images/lothar-matthaus-tyson-locandina-800w.avif 800w, /images/lothar-matthaus-tyson-locandina.avif 900w" sizes="(max-width: 900px) 100vw, 900px">
   </div>
   <div class="male-info">
-  <p><strong>Test genetici:</strong> L2HGA clear · HC clear · HSF4 · OCD clear</p>
+  <p><strong>Test genetici:</strong> L2HGA esente · HC esente · HSF4 · OCD esente</p>
   <p><strong>Displasia:</strong> anche HD B · gomiti ED 0</p>
   <p><strong>Dentatura:</strong> completa, chiusura a forbice</p>
   <p><strong>Padre:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford" style="color:#8b5a2b;font-weight:700;text-decoration:underline;text-underline-offset:3px" aria-label="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford (si apre in una nuova scheda)">Bullbrothers Hott as Hell &#8599;</a> «HEAT» &mdash; Multi Campione Internazionale, qualificato Crufts, allevamento TheReds Stafford</p>
@@ -104,8 +104,8 @@ custom_content: |
   <img src="/images/maschio-braveheart.webp" alt="Braveheart del Piccolo Diavolo — Staffordshire Bull Terrier" width="350" height="350" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
-  <p><strong>Test Genetici:</strong> L2HGA &amp; HC (HSF4) clear by DNA</p>
-  <p><strong>Dentatura:</strong> Completely scissor bite</p>
+  <p><strong>Test Genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> Jackie Kennedy Great'n Glory</p>
   <p><strong>Madre:</strong> Alport The Sandman</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2632698" target="_blank" rel="noopener" title="Vedi pedigree Braveheart su SBTPedigree" aria-label="Vedi pedigree Braveheart su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
@@ -123,8 +123,8 @@ custom_content: |
   <img src="/images/maschio-papillon.webp" alt="Papillon del Piccolo Diavolo — Staffordshire Bull Terrier" width="350" height="438" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
-  <p><strong>Test Genetici:</strong> L2HGA &amp; HC (HSF4) clear by DNA</p>
-  <p><strong>Dentatura:</strong> Completely scissor bite</p>
+  <p><strong>Test Genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> Jackie Kennedy Great'n Glory</p>
   <p><strong>Madre:</strong> Alport The Sandman</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2609040" target="_blank" rel="noopener" title="Vedi pedigree Papillon su SBTPedigree" aria-label="Vedi pedigree Papillon su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>

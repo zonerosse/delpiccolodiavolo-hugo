@@ -139,6 +139,12 @@ custom_content: |
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
+  <span style="background:#d8cfc2;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 2</span>
+  <span>International Show, Montesilvano (PE) - 21 Oct 2023</span>
+  <span style="color:#8b5a2b;font-weight:600">R.JCAC</span>
+  </div>
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
   <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
   <span>International Show, Bastia Umbra (PG) - 8 Oct 2023</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
@@ -164,7 +170,7 @@ custom_content: |
   
   </div>
   
-  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">20 shows in total. Top Dog Junior 2023. Italian Junior Champion. Italian Beauty Champion 2024.</p>
+  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">20 shows in Italy recorded in the ENCI stud book, 19 of them placed first: <a href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Bilquis show results in the ENCI stud book" aria-label="Bilquis show results in the ENCI stud book (opens in a new tab)">the ENCI results record</a> (LOI LO22197469). Shows abroad, the World Dog Show included, are not recorded by ENCI. Top Dog Junior 2023. Italian Junior Champion. Italian Beauty Champion 2024.</p>
   
   </div>
   </section>

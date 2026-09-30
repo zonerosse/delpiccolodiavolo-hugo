@@ -73,8 +73,8 @@ Mit fünfundfünfzig Tagen sind die Ohren mitten in der Ausformung: Sie stellen 
     <img src="/images/jack1.jpg" alt="Black Jack Di Casa Giacalone - Schwarzer Staffordshire Bull Terrier Deckrüde" width="250" height="399" loading="lazy" decoding="async">
     <ul>
       <li>Farbe: Schwarz</li>
-      <li>L2HGA: <strong>Free by parents</strong> (Eltern Clear)</li>
-      <li>HC: <strong>Free by parents</strong> (Eltern Clear)</li>
+      <li>L2HGA: <strong>Frei über die Eltern</strong> (Eltern frei)</li>
+      <li>HC: <strong>Frei über die Eltern</strong> (Eltern frei)</li>
       <li>Vollständiges Scherengebiss</li>
     </ul>
     <p>🏆 <strong>Quash Marvelous Hagler de Stafflorence</strong> (Weltsieger 2023) × <strong>Ultima Di Casa Giacalone</strong> (Italienische Jugendchampionin)</p>
@@ -89,8 +89,8 @@ Mit fünfundfünfzig Tagen sind die Ohren mitten in der Ausformung: Sie stellen 
     <img src="/images/ffbilly-compressa--1---1-.webp" alt="Bilquis Goddess Diabhal - Italienische Championin Staffordshire Bull Terrier" width="250" height="333" loading="lazy" decoding="async">
     <ul>
       <li>Farbe: Schwarz gestromt und weiß</li>
-      <li>L2HGA: Clear (N/N)</li>
-      <li>HC: Clear (N/N)</li>
+      <li>L2HGA: frei (N/N)</li>
+      <li>HC: frei (N/N)</li>
       <li>Vollständiges Scherengebiss</li>
     </ul>
     <p><strong>Ch. IT · JCh. IT · JCh. HR · Ch. BiH</strong> · ENCI Winner 2023/24 · Crufts-Qualifikation 2025 · 4. World Dog Show Zagreb 2024</p>
@@ -123,11 +123,11 @@ Die Eltern sind auf die wichtigsten genetischen Erkrankungen der Rasse getestet:
 
 | Test | Black Jack | Bilquis |
 |------|-----|------|
-| L2HGA (L-2-Hydroxyglutarazidurie) | Free by parents* | Clear (N/N) |
-| HC (Erbliche Katarakt) | Free by parents* | Clear (N/N) |
+| L2HGA (L-2-Hydroxyglutarazidurie) | Frei über die Eltern* | frei (N/N) |
+| HC (Erbliche Katarakt) | Frei über die Eltern* | frei (N/N) |
 | Gebiss | Vollständiges Scherengebiss | Vollständiges Scherengebiss |
 
-<p style="font-size:.9rem;color:#666"><em>* Frei über die Eltern: beide Eltern von Black Jack sind für L2HGA und HC Clear getestet, daher können die Nachkommen genetisch nicht betroffen sein. Die Befunde sind unten aufgeführt. Black Jack ist ein junger Rüde: individuelle offizielle Tests sind geplant.</em></p>
+<p style="font-size:.9rem;color:#666"><em>* Frei über die Eltern: beide Eltern von Black Jack sind für L2HGA und HC frei getestet, daher können die Nachkommen genetisch nicht betroffen sein. Die Befunde sind unten aufgeführt. Black Jack ist ein junger Rüde: individuelle offizielle Tests sind geplant.</em></p>
 
 ### Die Befunde der Eltern von Black Jack
 
@@ -138,10 +138,10 @@ Die Eltern sind auf die wichtigsten genetischen Erkrankungen der Rasse getestet:
     <p style="margin:.6rem 0 .3rem;font-weight:700">Quash Marvelous Hagler de Stafflorence</p>
     <p style="margin:0 0 .9rem;font-size:.82rem;color:#666;line-height:1.5">Rüde, geboren am 26.02.2021 — Mikrochip 380260160176743<br>Antagene (La Tour de Salvagny, Frankreich) — Befund A00046270, validiert am 08.09.2023</p>
     <ul style="margin:0;padding-left:1.1rem;font-size:.92rem">
-      <li>L2HGA (L2HGDH): <strong>Clear (N/N)</strong></li>
-      <li>HC (HSF4): <strong>Clear (N/N)</strong></li>
-      <li>Hyperurikosurie (SLC2A9): <strong>Clear (N/N)</strong></li>
-      <li>MDR1: <strong>Clear (N/N)</strong></li>
+      <li>L2HGA (L2HGDH): <strong>frei (N/N)</strong></li>
+      <li>HC (HSF4): <strong>frei (N/N)</strong></li>
+      <li>Hyperurikosurie (SLC2A9): <strong>frei (N/N)</strong></li>
+      <li>MDR1: <strong>frei (N/N)</strong></li>
     </ul>
     <p style="margin:.9rem 0 0"><a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b" aria-label="Antagene-Befund (PDF) (wird in einem neuen Tab geöffnet)">Antagene-Befund (PDF) →</a></p>
   </div>
@@ -151,8 +151,8 @@ Die Eltern sind auf die wichtigsten genetischen Erkrankungen der Rasse getestet:
     <p style="margin:.6rem 0 .3rem;font-weight:700">Ultima Di Casa Giacalone</p>
     <p style="margin:0 0 .9rem;font-size:.82rem;color:#666;line-height:1.5">Hündin — Mikrochip 380260044680718, Ahnentafel LO2313633<br>EVG Molekularna Diagnostika (Maribor, Slowenien) — Referenz 2026-083880/01, 27.08.2026</p>
     <ul style="margin:0;padding-left:1.1rem;font-size:.92rem">
-      <li>L2HGA (L2HGDH): <strong>Clear (WT/WT)</strong></li>
-      <li>HC (HSF4): <strong>Clear (WT/WT)</strong></li>
+      <li>L2HGA (L2HGDH): <strong>frei (WT/WT)</strong></li>
+      <li>HC (HSF4): <strong>frei (WT/WT)</strong></li>
     </ul>
     <p style="margin:.9rem 0 0"><a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b" aria-label="L2HGA-Befund (PDF) (wird in einem neuen Tab geöffnet)">L2HGA-Befund (PDF) →</a></p>
     <p style="margin:.35rem 0 0"><a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b" aria-label="HC-Befund (PDF) (wird in einem neuen Tab geöffnet)">HC-Befund (PDF) →</a></p>

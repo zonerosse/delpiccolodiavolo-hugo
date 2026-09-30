@@ -43,15 +43,15 @@ custom_content: |
   <div class="features-track">
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA Clear</span>
-  <span>HC Clear</span>
+  <span>L2HGA esente</span>
+  <span>HC esente</span>
   <span>Campioni Italiani</span>
   <span>Pedigree ENCI</span>
   <span>Ostellato FE</span>
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA Clear</span>
-  <span>HC Clear</span>
+  <span>L2HGA esente</span>
+  <span>HC esente</span>
   <span>Campioni Italiani</span>
   <span>Pedigree ENCI</span>
   <span>Ostellato FE</span>
@@ -121,8 +121,8 @@ custom_content: |
   <span class="dog-name">JCH. CH. Italiana Bilquis Goddess Diabhal</span>
   <img src="/images/ffbilly-compressa--1---1-.webp" alt="Bilquis Goddess Diabhal - Campionessa Italiana Staffordshire Bull Terrier" width="301" height="396" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA &amp; HC clear by DNA</li>
-  <li>Completely scissor bite</li>
+  <li>L2HGA e HC esente, test del DNA</li>
+  <li>Chiusura a forbice completa</li>
   <li>Qualified for CRUFTS 2024/25</li>
   <li>Top Dog Junior female 2023</li>
   </ul>
@@ -136,8 +136,8 @@ custom_content: |
   <span class="dog-name">Black Jack Di Casa Giacalone</span>
   <img src="/images/jack1.jpg" alt="Black Jack Di Casa Giacalone - Riproduttore Staffordshire Bull Terrier nero" width="300" height="478" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA &amp; HC free by parents (genitori clear)</li>
-  <li>Completely scissor bite</li>
+  <li>L2HGA e HC esente per discendenza (genitori esenti)</li>
+  <li>Chiusura a forbice completa</li>
   <li>Figlio del Campione del Mondo 2023</li>
   </ul>
   <p>Quash Marvelous Hagler de Stafflorence (Campione del Mondo 2023) × Ultima Di Casa Giacalone</p>
@@ -162,8 +162,8 @@ custom_content: |
   <span class="dog-name">Vangerbull Red Harricane</span>
   <img src="/images/red.avif" alt="Vangerbull Red Harricane - Riproduttore Staffordshire Bull Terrier" width="225" height="291" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA &amp; HC clear by DNA</li>
-  <li>Completely scissor bite</li>
+  <li>L2HGA e HC esente, test del DNA</li>
+  <li>Chiusura a forbice completa</li>
   </ul>
   <p>CH. Americano Toreator De Testaferro x Staffgold Girl Of Ice</p>
   <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=3372904" target="_blank" rel="noopener" title="Vedi pedigree Red su SBTPedigree" aria-label="Vedi il pedigree di Vangerbull Red Harricane (si apre in una nuova scheda)">SBTPedigree</a></p>
@@ -175,8 +175,8 @@ custom_content: |
   <span class="dog-name">Skilful-dogs Nora</span>
   <img src="/images/nora-femmina-staffordshire-bull-terrier.avif" alt="Skilful-dogs Nora - Riproduttrice Staffordshire Bull Terrier" width="300" height="446" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA &amp; HC clear by DNA</li>
-  <li>Completely scissor bite</li>
+  <li>L2HGA e HC esente, test del DNA</li>
+  <li>Chiusura a forbice completa</li>
   </ul>
   <p>Skilful-Dogs Jeghër × Skilful-Dogs Red Skin</p>
   <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="Vedi pedigree Nora su SBTPedigree" aria-label="Vedi il pedigree di Skilful-dogs Nora (si apre in una nuova scheda)">SBTPedigree</a></p>
@@ -201,8 +201,8 @@ custom_content: |
   <span class="dog-name">JCH. CH. Italiana Bilquis Goddess Diabhal</span>
   <img src="/images/ffbilly-compressa--1---1-.webp" alt="Bilquis Goddess Diabhal - Campionessa Italiana Staffordshire Bull Terrier" width="301" height="396" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA &amp; HC clear by DNA</li>
-  <li>Completely scissor bite</li>
+  <li>L2HGA e HC esente, test del DNA</li>
+  <li>Chiusura a forbice completa</li>
   <li>Qualified for CRUFTS 2024/25</li>
   <li>Top Dog Junior female 2023</li>
   </ul>
@@ -216,8 +216,8 @@ custom_content: |
   <span class="dog-name">Il lupo perde il pelo ma non il vizio – Luis</span>
   <img src="/images/luis2.webp" alt="Luis - Maschio Staffordshire Bull Terrier riproduttore" width="300" height="447" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA &amp; HC clear by DNA</li>
-  <li>Completely scissor bite</li>
+  <li>L2HGA e HC esente, test del DNA</li>
+  <li>Chiusura a forbice completa</li>
   </ul>
   <p>D' Spain Fuogo Negro Espartaco × Iunosospita Torvi</p>
   <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4555572" target="_blank" rel="noopener" title="Vedi pedigree Luis su SBTPedigree" aria-label="Vedi il pedigree di Il lupo perde il pelo ma non il vizio – Luis (si apre in una nuova scheda)">SBTPedigree</a></p>
@@ -241,8 +241,8 @@ custom_content: |
   <span class="dog-name">CH. Elitebull Prospect</span>
   <img src="/images/george--1---1-.webp" alt="Elitebull Prospect - Riproduttore Staffordshire Bull Terrier" width="225" height="320" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA &amp; HC clear by DNA</li>
-  <li>Completely scissor bite</li>
+  <li>L2HGA e HC esente, test del DNA</li>
+  <li>Chiusura a forbice completa</li>
   </ul>
   <p>CH. Elitebulls Challenger × Elitebull Destiny</p>
   <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4483601" target="_blank" rel="noopener" title="Vedi pedigree Prospect su SBTPedigree" aria-label="Vedi il pedigree di CH. Elitebull Prospect (si apre in una nuova scheda)">SBTPedigree</a></p>
@@ -254,8 +254,8 @@ custom_content: |
   <span class="dog-name">Lackyle Bean Croí Olc</span>
   <img src="/images/minnie3.webp" alt="Lackyle Bean Croí Olc - Riproduttrice Staffordshire Bull Terrier" width="225" height="320" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA &amp; HC clear by DNA</li>
-  <li>Completely scissor bite</li>
+  <li>L2HGA e HC esente, test del DNA</li>
+  <li>Chiusura a forbice completa</li>
   </ul>
   <p>Lackyle Trodai Tine × CH. Lackyle Ogbhean an Diabhal</p>
   <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="Vedi pedigree Bean su SBTPedigree" aria-label="Vedi il pedigree di Lackyle Bean Croí Olc (si apre in una nuova scheda)">SBTPedigree</a></p>

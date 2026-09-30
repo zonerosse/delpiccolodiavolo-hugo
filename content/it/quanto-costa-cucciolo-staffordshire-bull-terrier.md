@@ -145,7 +145,7 @@ Con un maschio di alto livello, il viaggio all'estero e un cesareo:
 
 **si superano i 4.000 €**.
 
-E in questo conto non ci sono i **test genetici dei riproduttori**, che si pagano una volta per cane — circa 400 € a riproduttore fra prelievo, laboratorio e visita oftalmologica — né il tempo: le notti sul divano accanto alla cassa parto, le pesate quotidiane, i viaggi.
+E in questo conto non ci sono i **test genetici dei riproduttori**, che si pagano una volta per cane — circa 400 € a riproduttore fra prelievo, laboratorio e spedizione — né il tempo: le notti sul divano accanto alla cassa parto, le pesate quotidiane, i viaggi.
 
 Questi numeri non servono a giustificare un prezzo. Servono a far capire perché **una cucciolata venduta a poche centinaia di euro a cucciolo non può avere dietro niente di tutto questo.**
 
@@ -156,7 +156,7 @@ Facciamo due conti.
 Una cucciolata fatta come si deve, lo abbiamo visto sopra voce per voce, costa circa 2.000 euro: con sei cuccioli sono più di 330 euro a cucciolo, prima di vaccinazioni, microchip ed esami. Con uno stallone all'estero e un cesareo si passano i 650. Un cucciolo venduto a poche centinaia di euro è sotto il costo di una cucciolata seria. Come è possibile?
 
 **Tagliando su tutto:**
-- Niente test genetici (circa 400€ per cane fra laboratorio, prelievo e visita oculistica, quindi 800€ solo per i genitori)
+- Niente test genetici (circa 400€ per cane fra laboratorio, prelievo e spedizione, quindi 800€ solo per i genitori)
 - Crocchette da discount invece di alimentazione di qualità
 - Niente o poche vaccinazioni
 - Niente pedigree (o pedigree falso)

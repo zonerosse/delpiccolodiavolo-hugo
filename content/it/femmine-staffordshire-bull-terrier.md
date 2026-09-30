@@ -2,10 +2,10 @@
 title: "Femmine Staffordshire Bull Terrier"
 titleSeo: "Femmine Staffordshire Bull Terrier: referti e pedigree ENCI"
 date: 2025-12-28
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 tipoPagina: "CollectionPage"
 translationKey: "femmine"
-description: "Le nostre femmine Staffordshire Bull Terrier: Bilquis (Top Dog Junior 2023), Croi Olc, Divine, Kennedy, Derry, Cattleya. Test L2HGA, HC (HSF4) e DM-SOD1."
+description: "Le femmine Staffordshire Bull Terrier: Bilquis (Top Dog Junior 2023), Queen of California, Croi Olc, Divine, Kennedy, Derry, Cattleya. Test L2HGA, HC e DM-SOD1."
 slug: "femmine-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">
@@ -30,15 +30,15 @@ custom_content: |
   <div class="features-track">
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA Clear</span>
-  <span>HC Clear</span>
+  <span>L2HGA esente</span>
+  <span>HC esente</span>
   <span>Campioni Italiani</span>
   <span>Pedigree ENCI</span>
   <span>Ostellato FE</span>
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA Clear</span>
-  <span>HC Clear</span>
+  <span>L2HGA esente</span>
+  <span>HC esente</span>
   <span>Campioni Italiani</span>
   <span>Pedigree ENCI</span>
   <span>Ostellato FE</span>
@@ -58,7 +58,7 @@ custom_content: |
   <p>✓ <strong>L2HGA</strong> — Aciduria L-2-Idrossiglutarica<br>
   ✓ <strong>HC</strong> — Cataratta Ereditaria<br>
   ✓ <strong>DM-SOD1</strong> — Mielopatia degenerativa<br>
-  ✓ <strong>Dentatura</strong> — Scissor bite completo</p>
+  ✓ <strong>Dentatura</strong> — Chiusura a forbice completa</p>
   </div>
   </div>
   </section>
@@ -87,14 +87,15 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 380260044647848<br>
   <strong>LOI:</strong> LO22197469</p>
-  <p><strong>Test Genetici:</strong> L2HGA &amp; HC (HSF4) clear by DNA</p>
-  <p><strong>Mielopatia Degenerativa (SOD1):</strong> Clear by DNA</p>
-  <p><strong>Dentatura:</strong> Completely scissor bite</p>
+  <p><strong>Test Genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>Mielopatia Degenerativa (SOD1):</strong> Esente, test del DNA</p>
+  <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> Pablo iuno sospita plata plomo</p>
   <p><strong>Madre:</strong> Skilful-dogs Nora</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Dolce e delicata con chiunque, cani e persone comprese quelle che non ha mai visto. Se venite a trovarci vi riceve pancia all'aria in cerca di coccole, e non ve la togliete di torno fino ai saluti. Non &egrave; solo un tratto suo: i cuccioli della sua prima cucciolata hanno ereditato lo stesso carattere, e lo raccontano le famiglie nelle <a href="/recensioni/" title="Recensioni">recensioni</a>.</p>
   <a class="doc-link" href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" title="Scarica test genetici Bilquis" aria-label="Scarica test genetici Bilquis (si apre in una nuova scheda)">📄 Test Genetici</a>
   <a class="doc-link" href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" title="Scarica ecocardio Bilquis" aria-label="Scarica ecocardio Bilquis (si apre in una nuova scheda)">📄 Ecocardio Doppler</a>
+  <a class="doc-link" href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Scarica le esposizioni di Bilquis dal Libro genealogico ENCI" aria-label="Scarica le esposizioni di Bilquis dal Libro genealogico ENCI (si apre in una nuova scheda)">📄 Esposizioni ENCI</a>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Vedi pedigree Bilquis su SBTPedigree" aria-label="Vedi pedigree Bilquis su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
   </div>
   </div>
@@ -115,14 +116,14 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 380260160642781<br>
   <strong>LOI:</strong> LO2549181</p>
-  <p><strong>Test Genetici:</strong> L2HGA &amp; HC (HSF4) clear by Parents</p>
-  <p><strong>Dentatura:</strong> Completely scissor bite</p>
+  <p><strong>Test Genetici:</strong> L2HGA e HC (HSF4) esente per discendenza (genitori esenti)</p>
+  <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> CH. Elitebull Prospect</p>
   <p><strong>Madre:</strong> Lackyle Bean Croí Olc</p>
   <p><strong>Proprietario:</strong> Stefano Tevini</p>
   <p><strong>Handler:</strong> Vittoria Passerini</p>
   <p><strong>Titolo:</strong> Giovane Campionessa Italiana — Albarella (RO), 17 maggio 2026. Cl. Giovani 1° Ecc, JCAC, JBOB, BOB. Miglior Staffy — Gruppo Cinofilo Polesano.</p>
-    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Figlia di Minnie, e la sua fotocopia: non solo nella struttura, ma soprattutto nella testa. La stessa esuberanza, la stessa richiesta continua di attenzioni, la stessa pancia all'aria facile. Quando si dice che il carattere si eredita, Queen &egrave; il modo in cui lo vediamo qui in casa.</p>
+    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Figlia di Minnie, e la sua fotocopia: non solo nella struttura, ma soprattutto nella testa. La stessa esuberanza, la stessa richiesta continua di attenzioni, la stessa pancia all'aria facile. Queen non vive con noi, ma la vediamo spesso e chi vive con lei ci racconta ogni giorno come sta: quando si dice che il carattere si eredita, &egrave; lei la prova che abbiamo sotto gli occhi.</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" title="Vedi pedigree Queen of California su SBTPedigree" aria-label="Vedi il pedigree completo della cucciolata su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
   </div>
   </div>
@@ -141,9 +142,9 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 991003001293234<br>
   <strong>LOI:</strong> LO24144140</p>
-  <p><strong>Test Genetici:</strong> L2HGA &amp; HC (HSF4) clear by DNA</p>
-  <p><strong>Mielopatia Degenerativa (SOD1):</strong> Clear by DNA</p>
-  <p><strong>Dentatura:</strong> Completely scissor bite</p>
+  <p><strong>Test Genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>Mielopatia Degenerativa (SOD1):</strong> Esente, test del DNA</p>
+  <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> Lackyle Trodai Tine</p>
   <p><strong>Madre:</strong> CH. Lackyle Ogbhean an Diabhal</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Esuberante. Ti straccia le gambe saltandoti addosso per avere attenzioni, poi ti lecca finch&eacute; non sei tu a stancarti. Anche lei ha la pancia all'aria facile.</p>
@@ -166,8 +167,8 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 643094100473511<br>
   <strong>LOI:</strong> LO19125788</p>
-  <p><strong>Test Genetici:</strong> L2HGA &amp; HC (HSF4) clear by DNA</p>
-  <p><strong>Dentatura:</strong> Completely scissor bite</p>
+  <p><strong>Test Genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> CH. Dangerous Smile Black Shadow</p>
   <p><strong>Madre:</strong> CH. Sonrisa Feliz Keely Lariel</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Ha il fuoco addosso, se glielo permetti: mai stanca, una rompiscatole vera. Poi arriva mio figlio e si trasforma &mdash; sale in poltrona e gioca a palla colpendola con il muso, come una foca.</p>
@@ -189,9 +190,8 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 276098104987682<br>
   <strong>LOI:</strong> LO1610654</p>
-  <p><strong>Test Genetici:</strong> L2HGA &amp; HC (HSF4) clear by DNA</p>
-  <p><strong>PHPV:</strong> Unaffected</p>
-  <p><strong>Dentatura:</strong> Completely scissor bite</p>
+  <p><strong>Test Genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> CH. Hell's Angel</p>
   <p><strong>Madre:</strong> CH. Mellowstaff by Great'n Glory</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Da vera tedesca non cede di un centimetro: sempre sul pezzo, con un caratterino tutto pepe. Ma rispettosa al punto da essere diventata la cagnolina dei miei genitori, che sono anziani. Vive con loro e li accompagna in ogni cosa: le passeggiate, il cortile, stendere i panni, portare fuori l'immondizia. E lo farebbe anche senza guinzaglio, se glielo lasciassimo fare: dai piedi di mia madre non si sposta di un metro.</p>
@@ -215,8 +215,7 @@ custom_content: |
   <strong>LOI:</strong> LO1610667</p>
   <p><strong>HD:</strong> B</p>
   <p><strong>ED:</strong> A</p>
-  <p><strong>Test Genetici:</strong> L2HGA &amp; HC (HSF4) clear by DNA</p>
-  <p><strong>PHPV:</strong> Unaffected</p>
+  <p><strong>Test Genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
   <p><strong>Padre:</strong> CH. Kiraloebis Italian Gigalo (Top UK Staffordshire Bull Terrier 2012)</p>
   <p><strong>Madre:</strong> Lackyle Duilleog Daracha</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> La vecchietta di casa, la capobranco. Controlla tutto e tutti e cerca di darsi un tono in ogni situazione, poi si rende conto di essere tutto sommato uno Staffy e non pu&ograve; fare a meno di farsi coccolare. Una rompiscatole che vuole sempre stare al centro dell'attenzione. Il suo cuscino sta sul tappeto di fianco al mio letto.</p>
@@ -239,8 +238,8 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 380260044549631<br>
   <strong>LOI:</strong> LO2222029</p>
-  <p><strong>Test Genetici:</strong> L2HGA &amp; HC (HSF4) clear by DNA</p>
-  <p><strong>Dentatura:</strong> Completely scissor bite</p>
+  <p><strong>Test Genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> THE Phenomenal AJ Styles Valconcaclan</p>
   <p><strong>Madre:</strong> Foyleoak Maiden Derry</p>
   <p><strong>Proprietaria:</strong> Ricarda Mazzola Wagner</p>
@@ -263,9 +262,9 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 380260004336944<br>
   <strong>LOI:</strong> LO2199721</p>
-  <p><strong>Test Genetici:</strong> L2HGA &amp; HC (HSF4) clear by DNA</p>
-  <p><strong>Mielopatia Degenerativa (SOD1):</strong> Clear by DNA</p>
-  <p><strong>Dentatura:</strong> Completely scissor bite</p>
+  <p><strong>Test Genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>Mielopatia Degenerativa (SOD1):</strong> Esente, test del DNA</p>
+  <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> Skilful-Dogs Jeghër</p>
   <p><strong>Madre:</strong> Skilful-Dogs Red Skin</p>
   <p><strong>Ultima cucciolata:</strong> <a href="/diario-allevamento/cucciolata-red-nora-febbraio-2026/" title="Cucciolata Red × Nora, febbraio 2026">Red × Nora, 9 febbraio 2026</a>: genitori, test, esami e crescita nel diario</p>

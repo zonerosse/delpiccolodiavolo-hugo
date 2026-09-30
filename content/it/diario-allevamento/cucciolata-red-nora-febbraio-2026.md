@@ -1,6 +1,6 @@
 ---
 title: "Cucciolata Red × Nora (febbraio 2026)"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 articolo: true
 translationKey: "cucciolata-red-nora-febbraio-2026"
 description: "Cucciolata nata il 9 febbraio 2026 da Skilful-dogs Nora e Vangerbull Red Harricane: cuccioli di Staffordshire Bull Terrier tigrati e rossi. Non disponibili."
@@ -34,8 +34,8 @@ Il tuo browser non supporta il video.
     <span class="dog-name">Vangerbull Red Harricane</span>
     <img src="/images/red.avif" alt="Vangerbull Red Harricane - Riproduttore Staffordshire Bull Terrier" width="250" height="324" loading="lazy" decoding="async">
     <ul>
-      <li>L2HGA: Clear (N/N)</li>
-      <li>HC: Clear (N/N)</li>
+      <li>L2HGA: Esente (N/N)</li>
+      <li>HC: Esente (N/N)</li>
       <li>Dentatura completa a forbice</li>
     </ul>
     <p>CH. Americano Toreator De Testaferro × Staffgold Girl Of Ice</p>
@@ -48,9 +48,9 @@ Il tuo browser non supporta il video.
     <span class="dog-name">Skilful-dogs Nora</span>
     <img src="/images/nora-femmina-staffordshire-bull-terrier.avif" alt="Skilful-dogs Nora - Riproduttrice Staffordshire Bull Terrier" width="250" height="372" loading="lazy" decoding="async">
     <ul>
-      <li>L2HGA: Clear (N/N)</li>
-      <li>HC: Clear (N/N)</li>
-      <li>DM: Clear</li>
+      <li>L2HGA: Esente (N/N)</li>
+      <li>HC: Esente (N/N)</li>
+      <li>DM: Esente</li>
       <li>Dentatura completa a forbice</li>
     </ul>
     <p>Skilful-Dogs Jeghër × Skilful-Dogs Red Skin</p>
@@ -83,15 +83,15 @@ Questo dimostra la sua capacità di trasmettere qualità ai figli.
 
 ## Test genetici
 
-Entrambi i genitori sono testati **Clear** per le principali patologie genetiche della razza:
+Entrambi i genitori sono testati **esenti** per le principali patologie genetiche della razza:
 
 | Test | Red | Nora |
 |------|-----|------|
-| L2HGA (L-2-idrossiglutarico aciduria) | N/N Clear | N/N Clear |
-| HC (Cataratta Ereditaria) | N/N Clear | N/N Clear |
+| L2HGA (L-2-idrossiglutarico aciduria) | N/N esente | N/N esente |
+| HC (Cataratta Ereditaria) | N/N esente | N/N esente |
 | Dentatura | Completa a forbice | Completa a forbice |
 
-I cuccioli sono **geneticamente sani** per L2HGA e HC (tutti Clear).
+I cuccioli sono **geneticamente sani** per L2HGA e HC (tutti esenti).
 
 <div style="background:linear-gradient(135deg,#5c4a3a 0%,#8b7355 100%);padding:2rem;border-radius:12px;margin:2rem 0;color:#fff">
 <h3 style="margin:0 0 1rem;font-size:1.1rem;font-family:inherit;font-weight:600;color:#fff;display:flex;align-items:center;gap:.5rem">

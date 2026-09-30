@@ -132,7 +132,7 @@ Mit einem Spitzenrüden, der Reise ins Ausland und einem Kaiserschnitt:
 
 **deutlich über 4.000 €**.
 
-Und in dieser Rechnung fehlen die **Gentests der Zuchthunde**, die einmal pro Hund bezahlt werden — rund 400 € pro Zuchthund für Probenahme, Labor und Augenuntersuchung —, und die Zeit: die Nächte auf dem Sofa neben der Wurfkiste, das tägliche Wiegen, die Fahrten.
+Und in dieser Rechnung fehlen die **Gentests der Zuchthunde**, die einmal pro Hund bezahlt werden — rund 400 € pro Zuchthund für Probenahme, Labor und Versand —, und die Zeit: die Nächte auf dem Sofa neben der Wurfkiste, das tägliche Wiegen, die Fahrten.
 
 Diese Zahlen sollen keinen Preis rechtfertigen. Sie sollen zeigen, warum **hinter einem Wurf, der für ein paar hundert Euro pro Welpe verkauft wird, nichts von alledem stehen kann.**
 
@@ -143,7 +143,7 @@ Rechnen wir kurz nach.
 Ein ordentlich geplanter Wurf kostet, wie oben Posten für Posten gezeigt, rund 2.000 Euro: Bei sechs Welpen sind das mehr als 330 Euro pro Welpe, vor Impfungen, Mikrochip und Untersuchungen. Mit einem Deckrüden im Ausland und einem Kaiserschnitt sind es über 650. Ein Welpe für wenige hundert Euro liegt also unter den Kosten eines seriösen Wurfs. Wie ist das möglich?
 
 **Indem an allem gespart wird:**
-- Keine Gentests (etwa 400 Euro pro Hund mit Blutentnahme und Augenuntersuchung, also 800 allein für die Eltern)
+- Keine Gentests (etwa 400 Euro pro Hund mit Blutentnahme und Versand, also 800 allein für die Eltern)
 - Discounter-Futter statt hochwertiger Ernährung
 - Wenige Impfungen oder gar keine
 - Keine Ahnentafel oder eine gefälschte

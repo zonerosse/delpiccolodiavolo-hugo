@@ -132,7 +132,7 @@ With a top-level stud dog, the trip abroad and a caesarean:
 
 **well over €4,000**.
 
-And this does not include the **genetic tests on the breeding dogs**, paid once per dog — about €400 per breeding dog for the sample, the laboratory and the eye examination — nor the time: nights on the sofa next to the whelping box, the daily weighing, the journeys.
+And this does not include the **genetic tests on the breeding dogs**, paid once per dog — about €400 per breeding dog for the sample, the laboratory and the shipping — nor the time: nights on the sofa next to the whelping box, the daily weighing, the journeys.
 
 These figures are not here to justify a price. They are here to show why **a litter sold at a few hundred euros a puppy cannot have any of this behind it.**
 
@@ -143,7 +143,7 @@ Let us do the arithmetic.
 A litter done properly, as we saw above item by item, costs about 2,000 euros: with six puppies that is more than 330 euros a puppy, before vaccinations, microchips and tests. With a stud dog abroad and a caesarean it goes past 650. A puppy sold for a few hundred euros is below the cost of a serious litter. How is that possible?
 
 **By cutting everything:**
-- No genetic testing (around 400 euros per dog once sampling and the eye examination are counted, so 800 for both parents)
+- No genetic testing (around 400 euros per dog once sampling and shipping are counted, so 800 for both parents)
 - Supermarket kibble instead of quality food
 - Few vaccinations, or none
 - No pedigree, or a false one

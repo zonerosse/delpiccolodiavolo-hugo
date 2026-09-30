@@ -1,10 +1,10 @@
 ---
 title: "Staffordshire Bull Terrier Hündinnen"
 date: 2025-12-28
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 tipoPagina: "CollectionPage"
 translationKey: "femmine"
-description: "Unsere Staffordshire Bull Terrier Hündinnen: Bilquis (Top Dog Junior 2023), Croi Olc, Divine, Kennedy, Derry, Cattleya. Gentests L2HGA, HC (HSF4), DM-SOD1."
+description: "Staffordshire Bull Terrier Hündinnen: Bilquis (Top Dog Junior 2023), Queen of California, Croi Olc, Divine, Kennedy, Derry, Cattleya. Gentests L2HGA, HC, DM-SOD1."
 slug: "huendinnen-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">
@@ -80,6 +80,7 @@ custom_content: |
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Sanft und fein zu allen, Hunden wie Menschen, auch zu solchen, die sie nie gesehen hat. Wer uns besucht, wird von ihr mit dem Bauch nach oben empfangen und wird sie bis zum Abschied nicht mehr los. Das ist nicht nur ihr eigener Zug: die Welpen ihres ersten Wurfes haben dasselbe Wesen geerbt, und die Familien sagen es in den <a href="/de/bewertungen/" title="Bewertungen">Bewertungen</a>.</p>
   <a class="doc-link" href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" title="Gentests Bilquis herunterladen" aria-label="Gentests Bilquis herunterladen (wird in einem neuen Tab geöffnet)">📄 Gentests</a>
   <a class="doc-link" href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" title="Echokardiogramm Bilquis herunterladen" aria-label="Echokardiogramm Bilquis herunterladen (wird in einem neuen Tab geöffnet)">📄 Echo-Doppler</a>
+  <a class="doc-link" href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Ausstellungsergebnisse von Bilquis aus dem ENCI-Zuchtbuch herunterladen" aria-label="Ausstellungsergebnisse von Bilquis aus dem ENCI-Zuchtbuch herunterladen (wird in einem neuen Tab geöffnet)">📄 ENCI-Ausstellungen</a>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Stammbaum Bilquis auf SBTPedigree" aria-label="Stammbaum Bilquis auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
   </div>
   </div>
@@ -106,7 +107,7 @@ custom_content: |
   <p><strong>Besitzer:</strong> Stefano Tevini</p>
   <p><strong>Handler:</strong> Vittoria Passerini</p>
   <p><strong>Titel:</strong> Italienische Jugendchampionin — Albarella (RO), 17. Mai 2026. Jugendklasse V1, JCAC, JBOB, BOB. Bester Staffy — Kynologische Gruppe Polesano.</p>
-    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Minnies Tochter und ihre Kopie: nicht nur im K&ouml;rperbau, vor allem im Kopf. Dieselbe &Uuml;berschw&auml;nglichkeit, dasselbe st&auml;ndige Verlangen nach Aufmerksamkeit, derselbe Bauch nach oben bei jeder Gelegenheit. Wenn es hei&szlig;t, das Wesen werde vererbt, dann ist Queen der Beweis, den wir hier zu Hause sehen.</p>
+    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Minnies Tochter und ihre Kopie: nicht nur im K&ouml;rperbau, vor allem im Kopf. Dieselbe &Uuml;berschw&auml;nglichkeit, dasselbe st&auml;ndige Verlangen nach Aufmerksamkeit, derselbe Bauch nach oben bei jeder Gelegenheit. Queen lebt nicht bei uns, aber wir sehen sie oft, und ihre Familie erz&auml;hlt uns jeden Tag, wie es ihr geht: Wenn es hei&szlig;t, das Wesen werde vererbt, ist sie der Beweis, den wir vor Augen haben.</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" title="Stammbaum Queen of California auf SBTPedigree" aria-label="Vollständigen Stammbaum des Wurfes auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
   </div>
   </div>
@@ -174,7 +175,6 @@ custom_content: |
   <p><strong>Mikrochip:</strong> 276098104987682<br>
   <strong>LOI:</strong> LO1610654</p>
   <p><strong>Gentests:</strong> L2HGA & HC (HSF4) frei per DNA</p>
-  <p><strong>PHPV:</strong> Nicht betroffen</p>
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> CH. Hell's Angel</p>
   <p><strong>Mutter:</strong> CH. Mellowstaff by Great'n Glory</p>
@@ -200,7 +200,6 @@ custom_content: |
   <p><strong>HD:</strong> B</p>
   <p><strong>ED:</strong> A</p>
   <p><strong>Gentests:</strong> L2HGA & HC (HSF4) frei per DNA</p>
-  <p><strong>PHPV:</strong> Nicht betroffen</p>
   <p><strong>Vater:</strong> CH. Kiraloebis Italian Gigalo (Top UK Staffordshire Bull Terrier 2012)</p>
   <p><strong>Mutter:</strong> Lackyle Duilleog Daracha</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Die alte Dame des Hauses, die Chefin. Sie kontrolliert alles und jeden und versucht, sich in jeder Lage Haltung zu geben &mdash; dann merkt sie, dass sie doch ein Staffy ist, und kann dem Schmusen nicht widerstehen. Eine Nervens&auml;ge, die immer im Mittelpunkt stehen will. Ihr Kissen liegt auf dem Teppich neben meinem Bett.</p>

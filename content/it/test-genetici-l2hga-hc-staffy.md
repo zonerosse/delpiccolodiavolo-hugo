@@ -2,7 +2,7 @@
 title: "Test Genetici L2-HGA, HC (HSF4) e DM (SOD1) Staffordshire Bull Terrier"
 titleSeo: "Test genetici Staffy: L2-HGA, HC (HSF4) e DM (SOD1)"
 date: 2025-11-20
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "test-genetici"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -46,7 +46,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Lo Staffordshire Bull Terrier ha tre patologie ereditarie per cui esiste un test: <strong>L2-HGA</strong>, l'aciduria L-2-idrossiglutarica, una malattia neurologica che si manifesta fra i sei mesi e l'anno con tremori, atassia e crisi; <strong>HC</strong>, la cataratta ereditaria giovanile, che può portare a cecità entro i tre anni; e <strong>PHPV</strong>, un'anomalia congenita del vitreo. Le prime due si accertano con un test del DNA su tampone salivare o sangue, la terza con una visita oftalmologica specialistica. Tutte e tre sono a trasmissione autosomica recessiva: servono due copie del gene mutato perché il cane si ammali, quindi due genitori esenti non possono produrre cuccioli malati. È per questo che il test sui riproduttori conta più di qualsiasi garanzia scritta, e che un referto vale solo se riporta il numero di microchip del cane. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
+  <p>Lo Staffordshire Bull Terrier ha tre malattie ereditarie per cui esiste un test del DNA: <strong>L2-HGA</strong>, l'aciduria L-2-idrossiglutarica, una malattia neurologica che si manifesta fra i sei mesi e l'anno con tremori, atassia e crisi; <strong>HC</strong>, la cataratta ereditaria giovanile (gene HSF4), che può portare a cecità entro i tre anni; e la <strong>mielopatia degenerativa</strong> (gene SOD1), una malattia del midollo spinale che compare dopo gli otto anni. Tutte e tre si accertano con un tampone salivare o un prelievo di sangue, e sono a trasmissione autosomica recessiva: servono due copie del gene mutato perché il cane si ammali, quindi due genitori esenti non possono produrre cuccioli malati. Per la mielopatia la penetranza è incompleta: non tutti i cani con due copie si ammalano. Un referto vale solo se riporta il numero di microchip del cane. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
   
   <h2>Perché i Test Genetici Sono Fondamentali</h2>
@@ -132,7 +132,7 @@ custom_content: |
   
   <p>Da noi il test SOD1 risulta N/N, cioè esente, per le due fattrici in attività, Bilquis e Croi Olc, e per Nora: i referti, con il numero di microchip, sono sulla <a href="/femmine-staffordshire-bull-terrier/" title="Femmine Staffordshire Bull Terrier">pagina delle femmine</a>.</p>
   
-  <p class="fonti">Fonti: <a href="https://www.pnas.org/doi/10.1073/pnas.0812297106" target="_blank" rel="noopener" title="Awano et al., PNAS 2009" aria-label="Awano et al., PNAS 2009 (si apre in una nuova scheda)">Awano et al., PNAS 2009</a>; <a href="https://vgl.ucdavis.edu/test/degenerative-myelopathy" target="_blank" rel="noopener" title="UC Davis Veterinary Genetics Laboratory" aria-label="UC Davis Veterinary Genetics Laboratory (si apre in una nuova scheda)">UC Davis Veterinary Genetics Laboratory</a>.</p>
+  <p class="fonti">Fonti: <a href="https://www.pnas.org/doi/10.1073/pnas.0812297106" target="_blank" rel="noopener" title="Awano et al., PNAS 2009" aria-label="Awano et al., PNAS 2009 (si apre in una nuova scheda)">Awano et al., PNAS 2009</a>; <a href="https://vgl.ucdavis.edu/test/degenerative-myelopathy" target="_blank" rel="noopener" title="UC Davis Veterinary Genetics Laboratory" aria-label="UC Davis Veterinary Genetics Laboratory (si apre in una nuova scheda)">UC Davis Veterinary Genetics Laboratory</a>; <a href="https://omia.org/OMIA001371/9615/" target="_blank" rel="noopener" title="OMIA 001371-9615" aria-label="OMIA, L-2-HGA nel cane (si apre in una nuova scheda)">OMIA, L-2-HGA nel cane</a>; <a href="https://omia.org/OMIA001758/9615/" target="_blank" rel="noopener" title="OMIA 001758-9615" aria-label="OMIA, cataratta ereditaria HSF4 (si apre in una nuova scheda)">OMIA, cataratta ereditaria HSF4</a> (modalità di trasmissione).</p>
   
   <h2>Come Funzionano i Test Genetici</h2>
 
@@ -162,7 +162,7 @@ custom_content: |
   <li><strong>Embark</strong> - Test genetico completo che include anche L2-HGA e HC</li>
   </ul>
   
-  <p>Il pacchetto genetico che comprende L2HGA e HC costa circa 120€ per cane in laboratorio. A quella cifra vanno però aggiunti il prelievo dal veterinario, la spedizione del campione e la visita oculistica per il PHPV, che si fa in centri specializzati: fra tutto si arriva a circa 400€ per cane. Un investimento minimo rispetto alle sofferenze e ai costi veterinari di un cane malato.</p>
+  <p>Il pacchetto genetico che comprende L2HGA e HC costa circa 120€ per cane in laboratorio. A quella cifra vanno però aggiunti il prelievo dal veterinario, la spedizione del campione e, sulle fattrici, il test della mielopatia degenerativa (SOD1): fra tutto si arriva a circa 400€ per cane. Un investimento minimo rispetto alle sofferenze e ai costi veterinari di un cane malato.</p>
   
   <h3>Interpretare i Risultati</h3>
   
@@ -233,7 +233,7 @@ custom_content: |
   
   <ul>
   <li>"I miei cani sono sani, non servono test" - Un allevatore serio testa SEMPRE</li>
-  <li>"I test costano troppo" - Circa 400€ per cane fra laboratorio, prelievo e visita oculistica: niente rispetto a un cane</li>
+  <li>"I test costano troppo" - Circa 400€ per cane fra laboratorio, prelievo e spedizione: niente rispetto a un cane</li>
   <li>"La linea è pulita da generazioni" - Senza certificati, sono solo parole</li>
   <li>"Te li mando dopo" - I certificati devono essere disponibili PRIMA dell'acquisto</li>
   <li>Certificati illeggibili, fotocopiati male o senza microchip verificabile</li>
@@ -303,7 +303,7 @@ custom_content: |
   <td>Pacchetto L2HGA + HC in laboratorio</td><td>Allevatore</td><td>Una volta per cane</td><td>circa 120 € a cane</td>
   </tr>
   <tr>
-  <td>Prelievo, spedizione e visita oculistica per il PHPV</td><td>Allevatore</td><td>Una volta per cane</td><td>il resto della spesa</td>
+  <td>Prelievo, spedizione e test SOD1 sulle fattrici</td><td>Allevatore</td><td>Una volta per cane</td><td>il resto della spesa</td>
   </tr>
   <tr>
   <td><strong>Totale per una coppia riproduttrice</strong></td><td>Allevatore</td><td>Prima dell'accoppiamento</td><td><strong>circa 800 €</strong></td>
@@ -335,12 +335,12 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Quanto costano i test L2-HGA e HC?</h3>
-  <div class="faq-answer">Il laboratorio chiede intorno ai 120 euro per il pacchetto che comprende L2-HGA e cataratta ereditaria, ma il costo reale per l'allevatore &egrave; pi&ugrave; alto: si aggiungono il prelievo dal veterinario, la spedizione del campione e, per la PHPV, una visita oftalmologica specialistica che si fa a parte. Fra tutto si arriva a circa 400 euro per cane. La cifra va per&ograve; letta nel modo giusto: &egrave; una spesa <strong>una tantum</strong>, perch&eacute; il DNA non cambia e il referto vale per tutta la vita riproduttiva del soggetto. Spalmata su una carriera di due o tre cucciolate diventa una voce minima nel costo complessivo di un cucciolo. Chi non fa i test non sta risparmiando sulla cucciolata: sta scaricando un rischio sulle famiglie che prenderanno quei cuccioli.</div>
+  <div class="faq-answer">Il laboratorio chiede intorno ai 120 euro per il pacchetto che comprende L2-HGA e cataratta ereditaria, ma il costo reale per l'allevatore &egrave; pi&ugrave; alto: si aggiungono il prelievo dal veterinario, la spedizione del campione e, sulle fattrici, il test della mielopatia degenerativa (gene SOD1). Fra tutto si arriva a circa 400 euro per cane. La cifra va per&ograve; letta nel modo giusto: &egrave; una spesa <strong>una tantum</strong>, perch&eacute; il DNA non cambia e il referto vale per tutta la vita riproduttiva del soggetto. Spalmata su una carriera di due o tre cucciolate diventa una voce minima nel costo complessivo di un cucciolo. Chi non fa i test non sta risparmiando sulla cucciolata: sta scaricando un rischio sulle famiglie che prenderanno quei cuccioli.</div>
   </div>
   
   <div class="faq-item">
   <h3 class="faq-question">Il test genetico va ripetuto ogni anno?</h3>
-  <div class="faq-answer">No, mai. Il test analizza il DNA del cane, che non cambia nel corso della vita: un soggetto risultato CLEAR a sei mesi sar&agrave; CLEAR anche a dieci anni. Il referto &egrave; definitivo e vale per tutta la carriera riproduttiva. Questo vale per le analisi genetiche vere e proprie &mdash; L2-HGA, cataratta ereditaria e mielopatia degenerativa &mdash; ma non per la <strong>PHPV</strong>, che non &egrave; un test del DNA ma una visita oftalmologica: quella fotografa lo stato dell'occhio in quel momento, e il certificato ufficiale vale un anno, per cui su un soggetto in riproduzione andrebbe ripetuta ogni anno. &Egrave; il motivo per cui un allevamento serio punta sui test del DNA, che si fanno una volta e non scadono. Un'altra cosa da non confondere &egrave; l'esenzione per discendenza: quella non &egrave; un test fatto sul cane, ma una deduzione dai genitori, e ha limiti che vale la pena conoscere.</div>
+  <div class="faq-answer">No, mai. Il test analizza il DNA del cane, che non cambia nel corso della vita: un soggetto risultato CLEAR a sei mesi sar&agrave; CLEAR anche a dieci anni. Il referto &egrave; definitivo e vale per tutta la carriera riproduttiva. Questo vale per le analisi genetiche vere e proprie &mdash; L2-HGA, cataratta ereditaria e mielopatia degenerativa &mdash; ma non per l'<strong>esame oculistico ECVO</strong>, che non &egrave; un test del DNA ma una visita clinica: fotografa lo stato dell'occhio in quel momento, e il certificato ufficiale vale un anno, per cui su un soggetto in riproduzione andrebbe ripetuto ogni anno. &Egrave; il motivo per cui un allevamento serio punta sui test del DNA, che si fanno una volta e non scadono. Un'altra cosa da non confondere &egrave; l'esenzione per discendenza: quella non &egrave; un test fatto sul cane, ma una deduzione dai genitori, e ha limiti che vale la pena conoscere.</div>
   </div>
   
   <div class="faq-item">

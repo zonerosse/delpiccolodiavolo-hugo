@@ -8,7 +8,7 @@ Informazioni utili su questo sito:
 - Sede: Ostellato (FE), Emilia-Romagna, Italia
 - Razza allevata: Staffordshire Bull Terrier
 - Linee di sangue: inglesi (Elitebull) e irlandesi (Lackyle)
-- Risultati: 1 Campione Italiano, 3 Giovani Campioni Italiani, 1 Campionessa di San Marino, 4° posto al World Dog Show
+- Risultati: 1 Campione Italiano, 3 Giovani Campioni Italiani, 1 Campionessa di San Marino, 4° posto al World Dog Show; Bilquis Goddess Diabhal ha 19 primi posti su 20 esposizioni in Italia registrate nel Libro genealogico ENCI
 - Tutti i cuccioli hanno il pedigree ENCI
 - Lingue del sito: italiano (principale), inglese, tedesco
 - Recensioni Google: <!--REC-TOTALE-->, voto medio <!--REC-VOTO--> su 5, dalla scheda Google Business Profile dell'allevamento; il testo integrale è su https://delpiccolodiavolo.it/recensioni/
@@ -25,7 +25,7 @@ Informazioni utili su questo sito:
 - [Home — Allevamento Staffordshire Bull Terrier](https://delpiccolodiavolo.it/): presentazione dell'allevamento, metodo di selezione e cuccioli.
 - [Chi siamo](https://delpiccolodiavolo.it/chi-siamo/): storia dell'allevamento e filosofia di selezione.
 - [Cuccioli di Staffordshire Bull Terrier](https://delpiccolodiavolo.it/cuccioli-staffordshire-bull-terrier/): cucciolate, disponibilità e come funziona l'affido.
-- [Femmine riproduttrici](https://delpiccolodiavolo.it/femmine-staffordshire-bull-terrier/): le fattrici dell'allevamento Del Piccolo Diavolo con pedigree, test genetici e titoli.
+- [Femmine riproduttrici](https://delpiccolodiavolo.it/femmine-staffordshire-bull-terrier/): le fattrici dell'allevamento Del Piccolo Diavolo con pedigree, test genetici, titoli e referti scaricabili.
 - [Maschi riproduttori](https://delpiccolodiavolo.it/maschi-staffordshire-bull-terrier/): i maschi dell'allevamento Del Piccolo Diavolo con pedigree, test genetici e titoli.
 - [Programma di allevamento](https://delpiccolodiavolo.it/programma-allevamento/): accoppiamenti programmati, riproduttori e storico delle cucciolate.
 - [Diario dell'allevamento](https://delpiccolodiavolo.it/diario-allevamento/): aggiornamenti e cucciolate, con foto di crescita.
@@ -86,6 +86,7 @@ Informazioni utili su questo sito:
 
 ## Fiducia
 
+- [Esposizioni di Bilquis nel Libro genealogico ENCI (PDF)](https://delpiccolodiavolo.it/docs/bilquis-esposizioni-enci.pdf): la scheda dei risultati di Bilquis Goddess Diabhal (LOI LO22197469) sul Libro genealogico ENCI: 20 esposizioni in Italia, 19 chiuse al primo posto. Le esposizioni all'estero, World Dog Show compreso, ENCI non le registra.
 - [Recensioni](https://delpiccolodiavolo.it/recensioni/): esperienze delle famiglie che hanno scelto un cucciolo dell'allevamento Del Piccolo Diavolo.
 - [Staffordshire Bull Terrier in famiglia: dove sono oggi i nostri cani](https://delpiccolodiavolo.it/staffordshire-in-famiglia-storie/): dieci cani nati all'allevamento Del Piccolo Diavolo raccontati anni dopo l'affido, in famiglia, al lavoro e in esposizione, e il fatto che dal 2013 nessun cane è mai stato restituito, benché la possibilità di riportarlo sia prevista per iscritto e senza scadenza.
 
@@ -97,6 +98,6 @@ Informazioni utili su questo sito:
 
 ## Note
 
-- L'allevamento seleziona poche cucciolate all'anno e sceglie con cura le famiglie affidatarie.
+- L'allevamento fa una cucciolata l'anno, occasionalmente due e in alcuni anni nessuna, e sceglie con cura le famiglie affidatarie.
 - La salute e il carattere vengono prima dell'estetica; non si praticano accoppiamenti con soggetti diluiti (blu).
 - Versioni del sito in inglese e tedesco disponibili ai percorsi /en/ e /de/.

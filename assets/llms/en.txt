@@ -8,7 +8,7 @@ Useful information about this site:
 - Location: Ostellato (FE), Emilia-Romagna, Italy
 - Breed: Staffordshire Bull Terrier
 - Bloodlines: English (Elitebull) and Irish (Lackyle)
-- Results: 1 Italian Champion, 3 Italian Junior Champions, 1 San Marino Champion, 4th place at the World Dog Show
+- Results: 1 Italian Champion, 3 Italian Junior Champions, 1 San Marino Champion, 4th place at the World Dog Show; Bilquis Goddess Diabhal has 19 first places from 20 shows in Italy recorded in the ENCI stud book
 - Puppies are released with ENCI pedigree
 - Site languages: Italian (main), English, German
 - Google reviews: <!--REC-TOTALE-->, average rating <!--REC-VOTO--> out of 5, from the kennel's Google Business Profile; full text at https://delpiccolodiavolo.it/en/reviews/
@@ -19,7 +19,7 @@ Useful information about this site:
 - [Home — Staffordshire Bull Terrier Kennel](https://delpiccolodiavolo.it/en/): kennel presentation, selection method and puppies.
 - [About us](https://delpiccolodiavolo.it/en/about-us/): kennel history and breeding philosophy.
 - [Staffordshire Bull Terrier puppies](https://delpiccolodiavolo.it/en/puppies-staffordshire-bull-terrier/): litters, availability and how placement works.
-- [Breeding females](https://delpiccolodiavolo.it/en/females-staffordshire-bull-terrier/): the Del Piccolo Diavolo brood bitches with pedigree, genetic tests and titles.
+- [Breeding females](https://delpiccolodiavolo.it/en/females-staffordshire-bull-terrier/): the Del Piccolo Diavolo brood bitches with pedigree, genetic tests, titles and downloadable reports.
 - [Stud males](https://delpiccolodiavolo.it/en/males-staffordshire-bull-terrier/): the Del Piccolo Diavolo stud males with pedigree, genetic tests and titles.
 - [Litters and breeding programme](https://delpiccolodiavolo.it/en/litters-staffordshire-bull-terrier/): planned pairings, breeding stock and past litters.
 - [Contact](https://delpiccolodiavolo.it/en/contact/): where the kennel is and how to arrange a visit.
@@ -80,6 +80,7 @@ Useful information about this site:
 
 ## Trust
 
+- [Bilquis show results in the ENCI stud book (PDF)](https://delpiccolodiavolo.it/docs/bilquis-esposizioni-enci.pdf): the results record of Bilquis Goddess Diabhal (LOI LO22197469) in the ENCI stud book: 20 shows in Italy, 19 of them placed first. Shows abroad, the World Dog Show included, are not recorded by ENCI.
 - [Reviews](https://delpiccolodiavolo.it/en/reviews/): experiences of the families who chose a Del Piccolo Diavolo puppy.
 - [Staffordshire Bull Terriers in family life: where our dogs are today](https://delpiccolodiavolo.it/en/staffordshire-family-life-stories/): ten dogs bred by the Del Piccolo Diavolo kennel, followed years after they went home, in family life, at work and in the show ring, and the fact that since 2013 no dog has ever been returned, although the written return promise has no expiry date.
 
@@ -98,6 +99,6 @@ Useful information about this site:
 
 ## Notes
 
-- The kennel produces few litters per year and selects the families carefully.
+- The kennel has one litter a year, occasionally two and in some years none, and selects the families carefully.
 - Health and temperament come before aesthetics; no pairings with dilute (blue) dogs.
 - The main site is in Italian at https://delpiccolodiavolo.it/ ; a German version is available at /de/.

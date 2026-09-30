@@ -138,6 +138,12 @@ custom_content: |
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
+  <span style="background:#d8cfc2;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 2</span>
+  <span>Internationale Ausstellung, Montesilvano (PE) - 21 Okt. 2023</span>
+  <span style="color:#8b5a2b;font-weight:600">R.JCAC</span>
+  </div>
+  
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
   <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, Bastia Umbra (PG) - 8 Okt. 2023</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
@@ -163,7 +169,7 @@ custom_content: |
   
   </div>
   
-  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">20 Ausstellungen insgesamt. Top Dog Junior 2023. Italienische Jugendchampionin. Italienische Schönheitschampionin 2024.</p>
+  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">20 Ausstellungen in Italien im ENCI-Zuchtbuch, 19 davon mit dem 1. Platz: <a href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Ausstellungsergebnisse von Bilquis im ENCI-Zuchtbuch" aria-label="Ausstellungsergebnisse von Bilquis im ENCI-Zuchtbuch (wird in einem neuen Tab geöffnet)">die ENCI-Ergebnisliste</a> (LOI LO22197469). Ausstellungen im Ausland, die World Dog Show eingeschlossen, erfasst die ENCI nicht. Top Dog Junior 2023. Italienische Jugendchampionin. Italienische Schönheitschampionin 2024.</p>
   
   </div>
   </section>
@@ -182,7 +188,7 @@ custom_content: |
   <h3>Jugendchampionin und San Marino Championin</h3>
   <p><strong>JCH San Marino 2023</strong> - Jugendchampionin gewonnen 2023.</p>
   <p><strong>CH San Marino 2024</strong> - San Marino Championin gewonnen 2024.</p>
-  <p>Bei uns geboren und aufgezogen, jetzt im Besitz von Ricarda Mazzola Wagner (Valconcaclan). Gentests L2HGA und HC (HSF4) clear, vollständiges Scherengebiss.</p>
+  <p>Bei uns geboren und aufgezogen, jetzt im Besitz von Ricarda Mazzola Wagner (Valconcaclan). Gentests L2HGA und HC (HSF4) frei, vollständiges Scherengebiss.</p>
   </div>
   </div>
   </div>

@@ -1,6 +1,6 @@
 ---
 title: "Cucciolata Bilquis × Black Jack (agosto 2026)"
-lastmod: 2026-09-26
+lastmod: 2026-09-30
 articolo: true
 titleSeo: "Cucciolata Bilquis × Black Jack, agosto 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
@@ -68,8 +68,8 @@ All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente a
     <img src="/images/jack1.jpg" alt="Black Jack Di Casa Giacalone - Riproduttore Staffordshire Bull Terrier nero" width="250" height="399" loading="lazy" decoding="async">
     <ul>
       <li>Colore: Nero</li>
-      <li>L2HGA: <strong>Free by parents</strong> (genitori Clear)</li>
-      <li>HC: <strong>Free by parents</strong> (genitori Clear)</li>
+      <li>L2HGA: <strong>Esente per discendenza</strong> (genitori esenti)</li>
+      <li>HC: <strong>Esente per discendenza</strong> (genitori esenti)</li>
       <li>Dentatura completa a forbice</li>
     </ul>
     <p>🏆 <strong>Quash Marvelous Hagler de Stafflorence</strong> (Campione del Mondo 2023) × <strong>Ultima Di Casa Giacalone</strong> (Giovane Campionessa Italiana)</p>
@@ -84,8 +84,8 @@ All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente a
     <img src="/images/ffbilly-compressa--1---1-.webp" alt="Bilquis Goddess Diabhal - Campionessa Italiana Staffordshire Bull Terrier" width="250" height="333" loading="lazy" decoding="async">
     <ul>
       <li>Colore: Nero tigrato e bianco</li>
-      <li>L2HGA: Clear (N/N)</li>
-      <li>HC: Clear (N/N)</li>
+      <li>L2HGA: Esente (N/N)</li>
+      <li>HC: Esente (N/N)</li>
       <li>Dentatura completa a forbice</li>
     </ul>
     <p><strong>Ch. IT · JCh. IT · JCh. HR · Ch. BiH</strong> · ENCI Winner 2023/24 · Qualifica Crufts 2025 · 4ª World Dog Show Zagabria 2024</p>
@@ -118,11 +118,11 @@ I genitori sono testati per le principali patologie genetiche della razza:
 
 | Test | Black Jack | Bilquis |
 |------|-----|------|
-| L2HGA (L-2-idrossiglutarico aciduria) | Free by parents* | Clear (N/N) |
-| HC (Cataratta Ereditaria) | Free by parents* | Clear (N/N) |
+| L2HGA (L-2-idrossiglutarico aciduria) | Esente per discendenza* | Esente (N/N) |
+| HC (Cataratta Ereditaria) | Esente per discendenza* | Esente (N/N) |
 | Dentatura | Completa a forbice | Completa a forbice |
 
-<p style="font-size:.9rem;color:#666"><em>* Esente per via parentale: entrambi i genitori di Black Jack sono testati Clear per L2HGA e HC, quindi i figli non possono essere geneticamente affetti. I referti sono riportati qui sotto. Black Jack è un maschio giovane: i test ufficiali individuali sono in programma.</em></p>
+<p style="font-size:.9rem;color:#666"><em>* Esente per via parentale: entrambi i genitori di Black Jack sono risultati esenti a L2HGA e HC, quindi i figli non possono essere geneticamente affetti. I referti sono riportati qui sotto. Black Jack è un maschio giovane: i test ufficiali individuali sono in programma.</em></p>
 
 ### I referti dei genitori di Black Jack
 
@@ -133,10 +133,10 @@ I genitori sono testati per le principali patologie genetiche della razza:
     <p style="margin:.6rem 0 .3rem;font-weight:700">Quash Marvelous Hagler de Stafflorence</p>
     <p style="margin:0 0 .9rem;font-size:.82rem;color:#666;line-height:1.5">Maschio, nato il 26/02/2021 — microchip 380260160176743<br>Antagene (La Tour de Salvagny, Francia) — referto A00046270, validato l'08/09/2023</p>
     <ul style="margin:0;padding-left:1.1rem;font-size:.92rem">
-      <li>L2HGA (L2HGDH): <strong>Clear (N/N)</strong></li>
-      <li>HC (HSF4): <strong>Clear (N/N)</strong></li>
-      <li>Iperuricosuria (SLC2A9): <strong>Clear (N/N)</strong></li>
-      <li>MDR1: <strong>Clear (N/N)</strong></li>
+      <li>L2HGA (L2HGDH): <strong>Esente (N/N)</strong></li>
+      <li>HC (HSF4): <strong>Esente (N/N)</strong></li>
+      <li>Iperuricosuria (SLC2A9): <strong>Esente (N/N)</strong></li>
+      <li>MDR1: <strong>Esente (N/N)</strong></li>
     </ul>
     <p style="margin:.9rem 0 0"><a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b" aria-label="Referto Antagene (PDF) (si apre in una nuova scheda)">Referto Antagene (PDF) →</a></p>
   </div>
@@ -146,8 +146,8 @@ I genitori sono testati per le principali patologie genetiche della razza:
     <p style="margin:.6rem 0 .3rem;font-weight:700">Ultima Di Casa Giacalone</p>
     <p style="margin:0 0 .9rem;font-size:.82rem;color:#666;line-height:1.5">Femmina — microchip 380260044680718, pedigree LO2313633<br>EVG Molekularna Diagnostika (Maribor, Slovenia) — riferimento 2026-083880/01, 27/08/2026</p>
     <ul style="margin:0;padding-left:1.1rem;font-size:.92rem">
-      <li>L2HGA (L2HGDH): <strong>Clear (WT/WT)</strong></li>
-      <li>HC (HSF4): <strong>Clear (WT/WT)</strong></li>
+      <li>L2HGA (L2HGDH): <strong>Esente (WT/WT)</strong></li>
+      <li>HC (HSF4): <strong>Esente (WT/WT)</strong></li>
     </ul>
     <p style="margin:.9rem 0 0"><a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b" aria-label="Referto L2HGA (PDF) (si apre in una nuova scheda)">Referto L2HGA (PDF) →</a></p>
     <p style="margin:.35rem 0 0"><a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b" aria-label="Referto HC (PDF) (si apre in una nuova scheda)">Referto HC (PDF) →</a></p>

@@ -70,7 +70,7 @@ custom_content: |
   <img src="/images/lothar-matthaus-tyson-locandina.avif" alt="CH SLO J.CH ITA Lothar Matthäus del Piccolo Diavolo, gerufen Tyson, gestromter Staffordshire Bull Terrier Rüde aus der Zucht Del Piccolo Diavolo" width="900" height="1228" loading="lazy" decoding="async" srcset="/images/lothar-matthaus-tyson-locandina-400w.avif 400w, /images/lothar-matthaus-tyson-locandina-800w.avif 800w, /images/lothar-matthaus-tyson-locandina.avif 900w" sizes="(max-width: 900px) 100vw, 900px">
   </div>
   <div class="male-info">
-  <p><strong>Gentests:</strong> L2HGA clear · HC clear · HSF4 · OCD clear</p>
+  <p><strong>Gentests:</strong> L2HGA frei · HC frei · HSF4 · OCD frei</p>
   <p><strong>HD/ED:</strong> Hüften HD B · Ellenbogen ED 0</p>
   <p><strong>Gebiss:</strong> vollständig, Scherengebiss</p>
   <p><strong>Vater:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford" style="color:#8b5a2b;font-weight:700;text-decoration:underline;text-underline-offset:3px" aria-label="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford (wird in einem neuen Tab geöffnet)">Bullbrothers Hott as Hell &#8599;</a> «HEAT» &mdash; Multi-Internationaler Champion, Crufts-qualifiziert, Zucht TheReds Stafford</p>
