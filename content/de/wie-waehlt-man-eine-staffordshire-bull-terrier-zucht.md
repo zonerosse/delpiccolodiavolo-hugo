@@ -10,7 +10,7 @@ thumb: "/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier
 description: "Acht Kriterien, um eine seriöse Staffordshire Bull Terrier Zucht zu erkennen, jedes mit der Art, es zu überprüfen. Mit unseren eigenen Unterlagen als Beispiel."
 slug: "wie-waehlt-man-eine-staffordshire-bull-terrier-zucht"
 date: 2026-01-18
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 ---
 
 <section class="hero">
@@ -145,7 +145,7 @@ lastmod: 2026-09-29
 
 <h2>Noch ein Wort zum Geld</h2>
 
-<p>Ein sehr niedriger Betrag ist kein Schnäppchen: er ist die Folge von etwas, das nicht gemacht wurde. Nicht durchgeführte Tests, fehlende Ahnentafel, zu früh von der Mutter getrennte Welpen, ausgelassener Tierarzt. Diese Ersparnis kommt zurück, und nicht nur in Geld. Woraus sich die Kosten eines Welpen wirklich zusammensetzen, steht <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Was kostet ein Staffordshire Bull Terrier Welpe">auf einer eigenen Seite</a>.</p>
+<p>Ein sehr niedriger Betrag ist kein Schnäppchen: er ist die Folge von etwas, das nicht gemacht wurde. Nicht durchgeführte Tests, fehlende Ahnentafel, zu früh von der Mutter getrennte Welpen, ausgelassener Tierarzt. Diese Ersparnis kommt zurück, und nicht nur in Geld. Woraus sich die Kosten eines Welpen wirklich zusammensetzen, steht im Ratgeber zum <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Preis eines Staffordshire Bull Terrier Welpen">Preis eines Staffordshire Bull Terrier Welpen</a>.</p>
 
 <p>Trotzdem: nach den Kosten zu fragen ist berechtigt und sollte früh geschehen. Ein Hund bedeutet zwölf bis vierzehn Jahre laufender Ausgaben, und die wiegen schwerer als der Anfangsbetrag.</p>
 

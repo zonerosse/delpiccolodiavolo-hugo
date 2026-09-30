@@ -2,14 +2,14 @@
 title: "Bio Sensor: what the research actually says"
 date: 2026-09-09
 titleSeo: "Bio Sensor and early stimulation: what research says"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "biosensor"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
 og_image: "/images/og/schede/en/bio-sensor-early-stimulation-puppies.jpg"
 og_image_alt: "Bio Sensor and early stimulation: what research says — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/bio-sensor-stimolazione-precoce-cuccioli.webp"
-description: "The Bio Sensor and ENS method on puppies: where it comes from, what it promises and how much is proven. And what really counts in the first eight weeks."
+description: "The Bio Sensor and ENS method on puppies: where it comes from, what it promises and how much studies have proven. And what really counts in the first eight weeks."
 slug: "bio-sensor-early-stimulation-puppies"
 custom_content: |
   <section class="hero">

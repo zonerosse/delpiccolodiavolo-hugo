@@ -129,7 +129,7 @@ custom_content: |
   <li><strong>Company:</strong> no more than 4-5 hours alone at a stretch, less as a puppy</li>
   <li><strong>Training:</strong> daily consistency in the first months; a basic course is recommended</li>
   <li><strong>Coat care:</strong> minimal (a brush once a week)</li>
-  <li><strong>Puppy cost:</strong> from a serious kennel with ENCI pedigree and genetic tests — <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/">here's what to check before buying</a></li>
+  <li><strong>Puppy cost:</strong> from a serious kennel with ENCI pedigree and genetic tests — <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="Price of a Staffordshire Bull Terrier puppy">here is what the price of a Staffy puppy includes</a></li>
   <li><strong>Upkeep:</strong> quality food, vet, parasite control — the breed has no particular needs beyond the norm</li>
   </ul>
   

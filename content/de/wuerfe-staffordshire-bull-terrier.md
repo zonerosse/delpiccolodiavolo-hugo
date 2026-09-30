@@ -1,6 +1,6 @@
 ---
 title: "Würfe Staffordshire Bull Terrier"
-titleSeo: "Würfe Staffordshire Bull Terrier: geplant und bisherige"
+titleSeo: "Nächste Staffy-Würfe: das Selektionsprogramm"
 date: 2025-12-28
 lastmod: 2026-09-30
 tipoPagina: "CollectionPage"
@@ -26,7 +26,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Zuchtprogramm</span>
-  <h1 class="hero-title">Würfe <br><em>Staffordshire</em> <br>Bull Terrier</h1>
+  <h1 class="hero-title">Das Selektionsprogramm <br><em>und die nächsten Würfe</em></h1>
   <p class="hero-subtitle">Selektion, Gesundheit und Typizität - Seit 2013</p>
   <p class="hero-description">Geplante Verpaarungen mit getesteten Zuchttieren, ENCI-Stammbaum und ausgewählten Linien aus Großbritannien und Irland. Updates zu Verfügbarkeit und Reservierungen.</p>
   <p style="font-family:Georgia,serif;font-size:1.05rem;font-weight:700;color:#8b5a2b;margin:0 0 .8rem">Bleiben Sie über geplante Würfe auf dem Laufenden!!</p>

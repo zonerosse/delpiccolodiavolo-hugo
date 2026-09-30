@@ -2,14 +2,14 @@
 title: "Bio Sensor: was die Forschung wirklich sagt"
 date: 2026-09-09
 titleSeo: "Bio Sensor und Frühstimulation: was die Forschung sagt"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "biosensor"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
 og_image: "/images/og/schede/de/bio-sensor-fruehstimulation-welpen.jpg"
 og_image_alt: "Bio Sensor und Frühstimulation: was die Forschung sagt — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/bio-sensor-stimolazione-precoce-cuccioli.webp"
-description: "Bio Sensor und ENS bei Welpen: woher die Methode kommt, was sie verspricht und wie viel davon belegt ist. Und was in den ersten acht Wochen wirklich zählt."
+description: "Bio Sensor und ENS bei Welpen: Herkunft der Methode, ihre Versprechen und wie viel davon durch Studien belegt ist. Und was in den ersten acht Wochen wirklich zählt."
 slug: "bio-sensor-fruehstimulation-welpen"
 custom_content: |
   <section class="hero">

@@ -9,6 +9,31 @@ c'è scritto perché.
 
 ---
 
+## 0. Tre lingue, sempre insieme
+
+**Ogni modifica in italiano si fa, nello stesso momento, anche in inglese e in
+tedesco.** Vale per tutto: una pagina o un articolo nuovo, un paragrafo
+aggiunto o tolto, un titolo, un H1, una description, una FAQ, un link, un'alt,
+una foto, una fonte. La pagina italiana e le sue versioni EN e DE (quelle con
+la stessa `translationKey`) devono dire le stesse cose, con la stessa
+struttura: stesse sezioni, stesse FAQ, stesse fonti, stesse immagini, stessi
+link verso le pagine corrispondenti nella propria lingua.
+
+Non è una traduzione da fare "dopo": una consegna che cambia solo l'italiano
+è incompleta, e lo script di controllo la blocca come **errore** (confronta
+i file modificati e non ancora committati: se cambia la pagina italiana e non
+cambiano le altre due, si ferma). Se l'italiano risulta aggiornato più di
+recente di EN o DE, lo segnala come avviso.
+
+Un articolo nuovo si pubblica quindi in tre file, con tre schede nel blog,
+tre voci in llms.txt e i link in entrata in tutte e tre le lingue.
+
+Perché: EN e DE rimasti indietro erano 35 pagine su 52, con FAQ, fonti e
+sezioni mancanti. Tenerle allineate a ogni modifica costa poco; recuperarle
+tutte insieme costa giorni.
+
+---
+
 ## 1. La regola che viene prima di tutte
 
 **Non affermare: dimostrare.**

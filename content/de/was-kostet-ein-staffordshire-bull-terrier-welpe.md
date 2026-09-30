@@ -1,12 +1,12 @@
 ---
 title: "Was kostet ein Staffordshire Bull Terrier Welpe 2026"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 articolo: true
 image: "/images/blog/scontrino-farmaci-cucciolata.webp"
 og_image: "/images/og/schede/de/was-kostet-ein-staffordshire-bull-terrier-welpe.jpg"
 og_image_alt: "Was kostet ein Staffordshire Bull Terrier Welpe — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/quanto-costa-cucciolo-staffordshire-bull-terrier.webp"
-titleSeo: "Was kostet ein Staffordshire Bull Terrier Welpe"
+titleSeo: "Welpenpreis: was ein Staffordshire Bull Terrier kostet"
 translationKey: "quanto-costa"
 description: "Was ein Staffordshire Bull Terrier Welpe mit ENCI-Ahnentafel kostet, was der Preis umfasst und was ein Züchter für einen Wurf wirklich ausgibt."
 slug: "was-kostet-ein-staffordshire-bull-terrier-welpe"
@@ -16,12 +16,12 @@ date: 2026-01-25
 <section class="hero">
 <div class="hero-visual">
 <div class="hero-image">
-<img src="/images/blog/scontrino-farmaci-cucciolata.webp" alt="Apothekenbeleg für die Tierarzneimittel eines Wurfs: Panacur und Milbemax für die Welpen, Milbemax für die Mutter" width="855" height="900" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
+<img src="/images/blog/scontrino-farmaci-cucciolata.webp" alt="Apothekenbeleg für die Tierarzneimittel eines Wurfs, einer der Posten im Preis eines Staffordshire Bull Terrier Welpen: Panacur und Milbemax für die Welpen, Milbemax für die Mutter" width="855" height="900" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
 </div>
 </div>
 <div class="hero-content">
 <span class="hero-eyebrow">Welpen</span>
-<h1 class="hero-title">Was kostet ein <em>Staffordshire Bull Terrier</em> Welpe 2026</h1>
+<h1 class="hero-title">Der Welpenpreis beim <em>Staffordshire Bull Terrier</em>: was er enthält</h1>
 <p class="hero-subtitle">Was der Preis umfasst, und was uns ein Wurf kostet, Posten für Posten</p>
 <div class="hero-meta">
 <span>&#9201;&#65039; 9 Min. Lesezeit</span>

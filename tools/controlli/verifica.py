@@ -644,6 +644,31 @@ if r.returncode == 0:
 
 shutil.rmtree(dest, ignore_errors=True)
 
+# ================================================================ 3b. TRE LINGUE INSIEME
+# Regola di Paolo: ogni modifica a una pagina italiana va fatta anche nelle
+# versioni EN e DE (stessa translationKey). Si controllano le modifiche non
+# ancora committate: se cambia l'italiano e non cambiano le altre due, e' un errore.
+registra("sync", "ERRORE", "Pagina italiana modificata senza modificare anche EN e DE")
+registra("sync_data", "AVVISO", "Italiano aggiornato dopo EN o DE (lastmod piu' recente)")
+def _git(*a):
+    return subprocess.run(["git", *a], capture_output=True, text=True, encoding="utf-8").stdout.split()
+cambiati = set(x.replace("\\", "/") for x in _git("diff", "--name-only", "HEAD", "--", "content")) | \
+           set(x.replace("\\", "/") for x in _git("ls-files", "--others", "--exclude-standard", "content"))
+per_tk = collections.defaultdict(dict)
+for f, (fm, _) in pagine_src.items():
+    if fm.get("translationKey") and not vero(fm.get("noindex")):
+        per_tk[fm["translationKey"]][f.split("/")[1]] = (f, str(fm.get("lastmod") or ""))
+for k, lingue in per_tk.items():
+    if "it" not in lingue: continue
+    f_it, lm_it = lingue["it"]
+    for l in ("en", "de"):
+        if l not in lingue: continue
+        f_l, lm_l = lingue[l]
+        if f_it in cambiati and f_l not in cambiati:
+            segnala("sync", "ERRORE", "", f_l, f"cambiato {f_it}, questa no")
+        if lm_it and lm_l and lm_it > lm_l:
+            segnala("sync_data", "AVVISO", "", f_l, f"IT {lm_it}, {l.upper()} {lm_l}")
+
 # ================================================================ 4. LASTMOD
 registra("lastmod", "ERRORE", "lastmod piu' vecchio dell'ultima modifica del testo")
 agg = os.path.join("tools", "lastmod", "aggiorna.py")

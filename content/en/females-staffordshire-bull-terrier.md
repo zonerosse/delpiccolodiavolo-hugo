@@ -53,7 +53,7 @@ custom_content: |
   <div class="intro-block">
   <p>Raised with care and responsibility, our females are selected for <strong>health</strong>, <strong>breed typicality</strong> and <strong>balanced temperament</strong>. Every pairing is planned based on genetic testing and bloodline compatibility.</p>
   <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Our females are tested for:</p>
-  <p>✓ <strong>L2HGA</strong> — L-2-Hydroxyglutaric Aciduria<br>
+  <p>✓ <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)"><strong>L2HGA</strong> — L-2-Hydroxyglutaric Aciduria</a><br>
   ✓ <strong>HC</strong> — Hereditary Cataracts<br>
   ✓ <strong>DM-SOD1</strong> — Degenerative myelopathy<br>
   ✓ <strong>Dentition</strong> — Complete scissor bite</p>

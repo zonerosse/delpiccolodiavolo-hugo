@@ -10,7 +10,7 @@ thumb: "/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier
 description: "Eight criteria for recognising a serious Staffordshire Bull Terrier breeder, each with the way to verify it. With our own documents as the worked example."
 slug: "how-to-choose-a-staffordshire-bull-terrier-breeder"
 date: 2026-01-18
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 ---
 
 <section class="hero">
@@ -145,7 +145,7 @@ lastmod: 2026-09-29
 
 <h2>One last word about money</h2>
 
-<p>A very low figure is not a bargain: it is the consequence of something that was not done. Tests not run, pedigree missing, puppies taken from the mother too early, veterinary care skipped. That saving comes back to you, and not only in money. What a puppy actually costs is set out <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="How much does a Staffordshire Bull Terrier puppy cost">on its own page</a>.</p>
+<p>A very low figure is not a bargain: it is the consequence of something that was not done. Tests not run, pedigree missing, puppies taken from the mother too early, veterinary care skipped. That saving comes back to you, and not only in money. What a puppy actually costs is set out in the guide to the <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="Price of a Staffordshire Bull Terrier puppy">price of a Staffordshire Bull Terrier puppy</a>.</p>
 
 <p>That said: asking what it costs is a legitimate question and should be asked early. A dog is twelve to fourteen years of ordinary expenses, and those weigh more than the initial figure.</p>
 

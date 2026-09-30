@@ -24,3 +24,5 @@ faq_titolo | /staffy-pericoloso-legge-italia/
 faq_titolo | ok
 parita | /en/staffy-children-family/    # contenuto controllato paragrafo per paragrafo: c'e' tutto, l'inglese e' solo piu' corto dell'italiano (settembre 2026)
 parita | /de/welpen-sozialisierung-zuhause/    # come sopra, in tedesco
+sync_data | content/en/privacy-policy.md    # il 29/09 in italiano e' cambiata solo la data, non il testo
+sync_data | content/de/datenschutz.md    # come sopra

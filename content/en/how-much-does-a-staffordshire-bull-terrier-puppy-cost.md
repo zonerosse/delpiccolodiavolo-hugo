@@ -1,12 +1,12 @@
 ---
 title: "How Much Does a Staffordshire Bull Terrier Puppy Cost in 2026"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 articolo: true
 image: "/images/blog/scontrino-farmaci-cucciolata.webp"
 og_image: "/images/og/schede/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost.jpg"
 og_image_alt: "Staffordshire Bull Terrier puppy price explained — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/quanto-costa-cucciolo-staffordshire-bull-terrier.webp"
-titleSeo: "Staffordshire Bull Terrier puppy price explained"
+titleSeo: "Price of a Staffordshire Bull Terrier puppy"
 translationKey: "quanto-costa"
 description: "What a Staffordshire Bull Terrier puppy with ENCI pedigree really costs, what the price includes, and what a breeder actually spends on a litter, item by item."
 slug: "how-much-does-a-staffordshire-bull-terrier-puppy-cost"
@@ -16,12 +16,12 @@ date: 2026-01-25
 <section class="hero">
 <div class="hero-visual">
 <div class="hero-image">
-<img src="/images/blog/scontrino-farmaci-cucciolata.webp" alt="Pharmacy receipt for a litter's veterinary medicines: Panacur and Milbemax for the puppies, Milbemax for the mother" width="855" height="900" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
+<img src="/images/blog/scontrino-farmaci-cucciolata.webp" alt="Pharmacy receipt for a litter's veterinary medicines, one of the items in the price of a Staffordshire Bull Terrier puppy: Panacur and Milbemax for the puppies, Milbemax for the mother" width="855" height="900" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
 </div>
 </div>
 <div class="hero-content">
 <span class="hero-eyebrow">Puppies</span>
-<h1 class="hero-title">How much does a <em>Staffordshire Bull Terrier</em> puppy cost in 2026</h1>
+<h1 class="hero-title">Price of a <em>Staffordshire Bull Terrier</em> puppy: what it includes</h1>
 <p class="hero-subtitle">What the price includes, and what a litter costs us, item by item</p>
 <div class="hero-meta">
 <span>&#9201;&#65039; 10 min read</span>

@@ -1,6 +1,6 @@
 ---
 title: "Staffordshire Bull Terrier Litters"
-titleSeo: "Staffordshire Bull Terrier litters: planned and past"
+titleSeo: "Upcoming Staffy litters: the selection programme"
 date: 2025-12-28
 lastmod: 2026-09-30
 tipoPagina: "CollectionPage"
@@ -26,7 +26,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Litter Program</span>
-  <h1 class="hero-title"><em>Staffordshire</em> <br>Bull Terrier <br>Litters</h1>
+  <h1 class="hero-title">The selection programme <br><em>and upcoming litters</em></h1>
   <p class="hero-subtitle">Selection, health and breed type - Since 2013</p>
   <p class="hero-description">Planned pairings with tested breeding dogs, ENCI pedigree and selected lines from UK and Ireland. Updates on availability and reservations.</p>
   <p style="font-family:Georgia,serif;font-size:1.05rem;font-weight:700;color:#8b5a2b;margin:0 0 .8rem">Stay up to date on our planned litters!!</p>

@@ -129,7 +129,7 @@ custom_content: |
   <li><strong>Gesellschaft:</strong> nicht mehr als 4-5 Stunden am Stück allein, weniger als Welpe</li>
   <li><strong>Erziehung:</strong> tägliche Beständigkeit in den ersten Monaten; ein Grundkurs wird empfohlen</li>
   <li><strong>Fellpflege:</strong> minimal (einmal pro Woche bürsten)</li>
-  <li><strong>Welpenkosten:</strong> aus einer seriösen Zucht mit ENCI-Stammbaum und Gentests — <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/">hier, worauf Sie vor dem Kauf achten sollten</a></li>
+  <li><strong>Welpenkosten:</strong> aus einer seriösen Zucht mit ENCI-Ahnentafel und Gentests — <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Preis eines Staffordshire Bull Terrier Welpen">das steckt im Preis eines Staffy-Welpen</a></li>
   <li><strong>Unterhalt:</strong> hochwertiges Futter, Tierarzt, Parasitenschutz — die Rasse hat keine besonderen Bedürfnisse über die Norm hinaus</li>
   </ul>
   

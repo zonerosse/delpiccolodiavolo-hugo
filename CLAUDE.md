@@ -14,6 +14,14 @@ Site copy, front matter keys, template comments and script output are all in Ita
 
 ## Commands
 
+**Three languages, always together (Paolo's rule).** Any change to an
+Italian page or article — new page, text, title, H1, description, FAQ, link,
+alt, image, source — must be made in the same delivery to its EN and DE
+versions (same `translationKey`), with the same structure. Never deliver an
+Italian-only change. `verifica.py` enforces it: an Italian content file
+changed (uncommitted) without its EN and DE counterparts is an ERROR, and an
+Italian `lastmod` newer than EN/DE is a warning. Details in COME-SI-SCRIVE §0.
+
 **Before delivering any file and at the start of any repo analysis, run
 `python3 tools/controlli/verifica.py`** (full clone, Hugo on PATH). ERRORI
 must be 0 before delivering. AVVISI are COME-SI-SCRIVE rules: report them,
