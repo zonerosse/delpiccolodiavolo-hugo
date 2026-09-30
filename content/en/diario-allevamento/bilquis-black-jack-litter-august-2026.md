@@ -1,6 +1,6 @@
 ---
 title: "Bilquis × Black Jack Litter (August 2026)"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 articolo: true
 titleSeo: "Bilquis × Black Jack litter, August 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
@@ -93,7 +93,7 @@ At fifty-five days the ears are right in the middle of settling: they go up, dro
       <li>HC: Clear (N/N)</li>
       <li>Full scissor bite</li>
     </ul>
-    <p><strong>Ch. IT · JCh. IT · JCh. HR · Ch. BiH</strong> · ENCI Winner 2023/24 · Crufts Qualification 2025 · 4th World Dog Show Zagreb 2024</p>
+    <p><strong>Ch. IT · JCh. IT · JCh. HR · Ch. BiH</strong> · BOS Bologna 2024 · Crufts Qualification 2025 · 4th World Dog Show Zagreb 2024</p>
     <p>Pablo Iuno Sospita Plata Plomo × Skilful-dogs Nora</p>
     <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" aria-label="View the pedigree of Bilquis Goddess Diabhal (opens in a new tab)">View pedigree on SBTPedigree →</a></p>
   </div>

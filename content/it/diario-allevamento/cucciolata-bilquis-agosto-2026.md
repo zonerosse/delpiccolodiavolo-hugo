@@ -88,7 +88,7 @@ All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente a
       <li>HC: Esente (N/N)</li>
       <li>Dentatura completa a forbice</li>
     </ul>
-    <p><strong>Ch. IT · JCh. IT · JCh. HR · Ch. BiH</strong> · ENCI Winner 2023/24 · Qualifica Crufts 2025 · 4ª World Dog Show Zagabria 2024</p>
+    <p><strong>Ch. IT · JCh. IT · JCh. HR · Ch. BiH</strong> · BOS Bologna 2024 · Qualifica Crufts 2025 · 4ª World Dog Show Zagabria 2024</p>
     <p>Pablo Iuno Sospita Plata Plomo × Skilful-dogs Nora</p>
     <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" aria-label="Vedi il pedigree di Bilquis Goddess Diabhal (si apre in una nuova scheda)">Vedi pedigree su SBTPedigree →</a></p>
   </div>

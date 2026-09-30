@@ -93,7 +93,7 @@ Mit fünfundfünfzig Tagen sind die Ohren mitten in der Ausformung: Sie stellen 
       <li>HC: frei (N/N)</li>
       <li>Vollständiges Scherengebiss</li>
     </ul>
-    <p><strong>Ch. IT · JCh. IT · JCh. HR · Ch. BiH</strong> · ENCI Winner 2023/24 · Crufts-Qualifikation 2025 · 4. World Dog Show Zagreb 2024</p>
+    <p><strong>Ch. IT · JCh. IT · JCh. HR · Ch. BiH</strong> · BOS Bologna 2024 · Crufts-Qualifikation 2025 · 4. World Dog Show Zagreb 2024</p>
     <p>Pablo Iuno Sospita Plata Plomo × Skilful-dogs Nora</p>
     <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" aria-label="Stammbaum ansehen von Bilquis Goddess Diabhal (wird in einem neuen Tab geöffnet)">Stammbaum auf SBTPedigree ansehen →</a></p>
   </div>

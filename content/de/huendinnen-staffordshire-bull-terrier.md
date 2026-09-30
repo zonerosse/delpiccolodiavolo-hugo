@@ -62,7 +62,7 @@ custom_content: |
   <article class="female-card female-featured">
   <div class="female-header">
   <span class="stato-fattrice" style="display:inline-block;background:#e3f2e7;color:#1b4d2e;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;padding:.35rem .8rem;border-radius:4px;margin-bottom:.5rem">● Aktive Zuchthündin</span>
-  <span class="female-badge">🏆 Top Dog Junior Female 2023 • Crufts Qualifiziert 2024/25</span>
+  <span class="female-badge">🏆 Top Dog Junior Female 2023 • Crufts-Qualifikation 2025</span>
   <h3 class="female-name">JCH. CH. Bilquis Goddess Diabhal Del Piccolo Diavolo</h3>
   </div>
   <div class="female-content">

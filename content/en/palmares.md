@@ -111,7 +111,7 @@ custom_content: |
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
   <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
   <span>International Show, Bologna (BO) - 15-18 Feb 2024</span>
-  <span style="color:#8b5a2b;font-weight:600">4x CAC + 4x CACIB</span>
+  <span style="color:#8b5a2b;font-weight:600">4x CAC + 4x CACIB + BOS on 17 Feb (<a href="/docs/bilquis-bos-bologna-17-02-2024.pdf" target="_blank" rel="noopener" title="ENCI results of 17 February 2024, Bilquis BOS" aria-label="ENCI results of 17 February 2024, Bilquis BOS (opens in a new tab)">ENCI results</a>)</span>
   </div>
   
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
@@ -170,7 +170,7 @@ custom_content: |
   
   </div>
   
-  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">20 shows in Italy recorded in the ENCI stud book, 19 of them placed first: <a href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Bilquis show results in the ENCI stud book" aria-label="Bilquis show results in the ENCI stud book (opens in a new tab)">the ENCI results record</a> (LOI LO22197469). Shows abroad, the World Dog Show included, are not recorded by ENCI. Top Dog Junior 2023. Italian Junior Champion. Italian Beauty Champion 2024.</p>
+  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">20 shows in Italy recorded in the ENCI stud book, 19 of them placed first: <a href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Bilquis show results in the ENCI stud book" aria-label="Bilquis show results in the ENCI stud book (opens in a new tab)">the ENCI results record</a> (LOI LO22197469). Shows abroad, the World Dog Show included, are not recorded by ENCI. Top Dog Junior 2023. Italian Junior Champion. Italian Beauty Champion 2024. Croatian Junior Champion. Bosnia and Herzegovina Champion. Crufts qualification 2025.</p>
   
   </div>
   </section>
