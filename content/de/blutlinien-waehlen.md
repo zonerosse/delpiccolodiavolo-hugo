@@ -42,7 +42,7 @@ custom_content: |
   
   <h2>Beginnen Sie mit einer ehrlichen Zieldefinition</h2>
   <p>Die Wahl einer Blutlinie hat keine allgemeingültig richtige Antwort. Es ist eine Frage über Sie: was Sie mit dem Hund vorhaben, wie viel Hund Sie tatsächlich im Haus wollen und was Sie zu managen bereit sind. Eine Linie, die hervorragende Ausstellungshunde bringt, kann für eine Familie in einer Wohnung ungeeignet sein, und eine Linie mit ruhigen, gemäßigten Familienhunden kann jemanden frustrieren, der ausstellen möchte.</p>
-  <p>Bevor Sie Zwinger vergleichen, notieren Sie drei Dinge. Ob der Hund Begleiter, Ausstellungsanwärter oder künftiger Zuchthund sein soll. Ob Ihr Haushalt ruhig oder lebhaft ist und ob Kinder oder andere Tiere da sind. Und wie viel Zeit Sie in einer schlechten Woche wirklich für Erziehung und Bewegung haben, nicht in einer guten.</p>
+  <p>Bevor Sie Zwinger vergleichen, notieren Sie drei Dinge. Ob der Hund Begleiter, Ausstellungsanwärter oder künftiger Zuchthund sein soll. Ob Ihr Haushalt ruhig oder lebhaft ist und ob Kinder oder <a href="/de/staffy-andere-haustiere/" title="Staffordshire Bull Terrier mit anderen Haustieren">andere Tiere</a> da sind. Und wie viel Zeit Sie in einer schlechten Woche wirklich für Erziehung und <a href="/de/staffy-sichere-bewegung/" title="Sichere Bewegung für Staffordshire Bull Terrier">Bewegung</a> haben, nicht in einer guten.</p>
   <p>Fast jede Fehlpaarung zwischen Halter und Hund lässt sich darauf zurückführen, dass eine dieser drei Fragen nie gestellt wurde.</p>
 
   <h2>Was sich zwischen Linien unterscheidet und was nicht</h2>

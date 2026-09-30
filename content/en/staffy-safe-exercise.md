@@ -8,7 +8,7 @@ image: "/images/blog/salute-1.webp"
 og_image: "/images/og/schede/en/staffy-safe-exercise.jpg"
 og_image_alt: "Safe Exercise for Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/salute-esercizio-sicuro.webp"
-description: "Guide to safe and appropriate exercise for Staffy: daily activity, avoiding injuries, exercise for puppies and adults, fun activities."
+description: "Safe exercise for the Staffordshire Bull Terrier: the five-minute rule for puppies, activity for adults, heatstroke prevention and the signs of overload."
 slug: "staffy-safe-exercise"
 custom_content: |
   <section class="hero">

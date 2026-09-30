@@ -1,7 +1,7 @@
 ---
 title: "I colori dello Staffordshire Bull Terrier: nero, tigrato, blu e altri"
 date: 2026-08-01
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 titleSeo: "Colori dello Staffordshire Bull Terrier: nero, tigrato, blu"
 translationKey: "colori"
 articolo: true
@@ -9,7 +9,7 @@ image: "/images/blog/colori-staffy-hero.webp"
 og_image: "/images/og/schede/it/colori-staffordshire-bull-terrier.jpg"
 og_image_alt: "Colori dello Staffordshire Bull Terrier: nero, tigrato, blu — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/colori-staffordshire-bull-terrier.webp"
-description: "I colori dello Staffordshire Bull Terrier ammessi dallo standard: nero, tigrato, fulvo, rosso, bianco e pezzati. Il caso del blu diluito."
+description: "I colori dello Staffordshire Bull Terrier ammessi dallo standard FCI: nero, tigrato, fulvo, rosso, bianco e pezzati. Quelli esclusi, e il caso del blu diluito."
 slug: "colori-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">
@@ -91,7 +91,7 @@ custom_content: |
   </div>
   
   <h2>Il colore influenza il carattere?</h2>
-  <p>No: è un mito da sfatare. Il <strong>colore del mantello non ha alcuna relazione con il temperamento</strong> dello Staffordshire Bull Terrier. Un cane nero, tigrato o fulvo può essere ugualmente dolce ed equilibrato. Il carattere dipende dalla genetica dei genitori, dalla socializzazione e da come il cucciolo viene allevato — non dalla tinta del pelo.</p>
+  <p>No: è un mito da sfatare. Il <strong>colore del mantello non ha alcuna relazione con il <a href="/staffordshire-bull-terrier-carattere/" title="Temperamento dello Staffy: come è stato selezionato">temperamento</a></strong> dello Staffordshire Bull Terrier. Un cane nero, tigrato o fulvo può essere ugualmente dolce ed equilibrato. Il carattere dipende dalla genetica dei genitori, dalla socializzazione e da come il cucciolo viene allevato — non dalla tinta del pelo.</p>
   
   <h2>Domande Frequenti</h2>
   

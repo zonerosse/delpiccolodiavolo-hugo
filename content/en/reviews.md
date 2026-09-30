@@ -19,7 +19,7 @@ custom_content: |
   <span class="hero-eyebrow">⭐ <!--REC-VOTO-->/5 on Google</span>
   <h1 class="hero-title">Our <br><em>Reviews</em></h1>
   <p class="hero-subtitle"><!--REC-TOTALE--> verified testimonials</p>
-  <p class="hero-description">Real experiences from owners of our Staffordshire Bull Terriers: professionalism, health and balanced character guaranteed.</p>
+  <p class="hero-description">The experiences of the families who took one of our Staffordshire Bull Terriers, each with a link to the original review on Google.</p>
   <div class="hero-actions">
   <a href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" class="btn btn-primary" title="Read reviews on Google" aria-label="Read reviews on Google (opens in a new tab)">Read on Google</a>
   <a href="https://g.page/r/CUCv-r9V4lTREAE/review" target="_blank" rel="noopener" class="btn btn-ghost" title="Leave a review on Google" aria-label="Leave a review on Google (opens in a new tab)">Leave Review</a>

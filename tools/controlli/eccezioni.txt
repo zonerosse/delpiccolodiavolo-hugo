@@ -9,3 +9,18 @@ kw_concorrenza | /blog/    # elenco delle guide, non compete per "cuccioli"
 kw_concorrenza | /cuccioli-giochi-mentali/    # guida, intento diverso
 kw_concorrenza | /en/puppy-mental-games/    # guida, intento diverso
 kw_concorrenza | /de/welpen-denkspiele/    # guida, intento diverso
+# Titoli con il punto di domanda che finiscono nello schema FAQ: sono domande vere con risposta nel testo (settembre 2026)
+faq_titolo | /colori-staffordshire-bull-terrier/
+faq_titolo | /de/staffordshire-bull-terrier-farben/
+faq_titolo | /de/staffy-oder-amstaff-welche-rasse-passt-zu-ihnen/
+faq_titolo | /de/staffy-pitbull-amstaff-unterschied/
+faq_titolo | /differenza-staffy-amstaff/
+faq_titolo | /differenza-staffy-pitbull-amstaff/
+faq_titolo | /en/staffordshire-bull-terrier-colours/
+faq_titolo | /en/staffy-or-amstaff-which-breed-suits-you/
+faq_titolo | /en/staffy-pitbull-amstaff-difference/
+faq_titolo | /famiglia-bambini-convivenza/
+faq_titolo | /staffy-pericoloso-legge-italia/
+faq_titolo | ok
+parita | /en/staffy-children-family/    # contenuto controllato paragrafo per paragrafo: c'e' tutto, l'inglese e' solo piu' corto dell'italiano (settembre 2026)
+parita | /de/welpen-sozialisierung-zuhause/    # come sopra, in tedesco

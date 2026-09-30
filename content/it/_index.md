@@ -77,7 +77,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <div style="max-width:760px;margin:0 auto;display:grid;grid-template-columns:88px 1fr;gap:1.2rem;align-items:center;background:#fff;border:1px solid #e6ddd4;border-radius:10px;padding:1rem 1.2rem">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Campionessa Italiana" width="88" height="116" loading="lazy" decoding="async" style="width:88px;height:88px;object-fit:cover;border-radius:8px">
+  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Campionessa Italiana, fattrice dell'allevamento Staffordshire Bull Terrier Del Piccolo Diavolo" width="88" height="116" loading="lazy" decoding="async" style="width:88px;height:88px;object-fit:cover;border-radius:8px">
   <div>
   <p style="font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:#8b5a2b;font-weight:700;margin:0 0 .25rem">Ne hanno parlato &middot; 6 gennaio 2026</p>
   <h2 style="font-family:Georgia,'Times New Roman',serif;font-size:1.05rem;color:#5c4a3a;margin:0 0 .3rem;line-height:1.4">&ldquo;Da Ferrara alla conquista del mondo: Bilquis, la cagnolina di 3 anni che fa incetta di premi&rdquo;</h2>
@@ -123,7 +123,7 @@ custom_content: |
   <div class="intro-block" style="text-align:left">
   <p>Del Piccolo Diavolo è un allevamento di Staffordshire Bull Terrier — lo Staffy, come lo chiamano gli appassionati — a <strong>Ostellato, in provincia di Ferrara</strong>, attivo dal <strong>2013</strong>. Paolo Boldrini segue la razza dal 2005 e alleva dal 2013: due date diverse che raccontano la stessa cosa, cioè che l'allevamento è nato dopo un lungo periodo di studio, non prima.</p>
 
-  <p>Facciamo <strong>una cucciolata l'anno, occasionalmente due, a volte nessuna</strong>, mai su richiesta. Tutti i riproduttori sono testati per <strong>L2HGA e HC (gene HSF4)</strong>, le fattrici in attività anche per la <strong>mielopatia degenerativa (gene SOD1)</strong>, e i referti di laboratorio sono pubblicati sul sito: chiunque può scaricarli e leggere nome del cane e numero di microchip, senza chiederci niente. I cuccioli vengono affidati con <strong>pedigree ENCI</strong>, microchip e vaccinazioni in regola, dopo essere <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor e stimolazione precoce">nati e cresciuti in casa il primo mese</a>, e poi passati in un box dedicato con sfogo esterno, a contatto quotidiano con persone, rumori domestici e altri animali.</p>
+  <p>Facciamo <strong>una cucciolata l'anno, occasionalmente due, a volte nessuna</strong>, mai su richiesta. Tutti i riproduttori sono testati per <strong>L2HGA e HC (gene HSF4)</strong>, le fattrici in attività anche per la <strong>mielopatia degenerativa (gene SOD1)</strong>, e i referti di laboratorio sono pubblicati sul sito: chiunque può scaricarli e leggere nome del cane e numero di microchip, senza chiederci niente. I cuccioli vengono affidati con <strong>pedigree ENCI</strong>, microchip e vaccinazioni in regola, dopo essere <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor e stimolazione precoce">nati e cresciuti in casa il primo mese</a>, e poi passati in un box dedicato con sfogo esterno, a contatto quotidiano con persone, rumori domestici e <a href="/famiglia-convivenza-altri-animali/" title="Staffy con Altri Animali: Guida Convivenza">altri animali</a>.</p>
 
   <p>Sul piano dei risultati in esposizione, i cani allevati qui hanno ottenuto <strong>1 titolo di Campione Italiano</strong>, <strong>3 Giovani Campioni Italiani</strong> — uno dei quali anche Campione Sloveno — e un soggetto Giovane Campione e Campione di San Marino, un <strong>4° posto al World Dog Show</strong> con Bilquis Goddess Diabhal, e a maggio 2026 il titolo di <strong>Giovane Campionessa Italiana</strong> per Queen of California. Lavoriamo con le linee di sangue inglesi e irlandesi, in particolare Elitebull e Lackyle.</p>
 
@@ -293,6 +293,14 @@ custom_content: |
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Tutti i riproduttori dell'allevamento Del Piccolo Diavolo sono testati per <strong>L2-HGA</strong>, l'aciduria L-2-idrossiglutarica, una malattia neurologica, e per <strong>HC</strong>, la cataratta ereditaria giovanile (gene HSF4). Le fattrici in attività sono testate anche per la <strong>mielopatia degenerativa</strong> (gene SOD1), una malattia del midollo spinale che compare dopo gli otto anni. Sono tutti test del DNA, e sono tutte malattie a trasmissione recessiva: due genitori esenti non possono produrre cuccioli malati. I portatori di L2-HGA e HC non entrano in riproduzione. I referti di laboratorio sono pubblicati su questo sito e scaricabili, con il <strong>numero di microchip del cane in chiaro</strong>: &egrave; quel numero a rendere il documento verificabile, perch&eacute; senza non sarebbe collegabile a nessun animale in particolare.</div>
+  </div>
+
+  <div class="faq-item active">
+  <div class="faq-question" >
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quante cucciolate fa l'allevamento ogni anno?</h3>
+  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+  </div>
+  <div class="faq-answer">Una l'anno, occasionalmente due, e in alcuni anni nessuna: l'allevamento Del Piccolo Diavolo non fa cucciolate su richiesta e non tiene una fattrice in produzione continua. Ogni accoppiamento si programma con mesi di anticipo, partendo dai test genetici dei due riproduttori e dal coefficiente di consanguineità teorico dei cuccioli. Il ritmo si può verificare senza chiedere niente a noi: ogni cucciolata resta pubblicata nel <a href="/diario-allevamento/" title="Diario dell'allevamento">diario dell'allevamento</a> con la data di nascita, e il numero di cucciolate di ogni fattrice si controlla sul libro genealogico ENCI partendo dal suo microchip.</div>
   </div>
 
 

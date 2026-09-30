@@ -4,7 +4,7 @@ og_image: "/images/og/schede/de/staffordshire-bull-terrier-welpe-ins-ausland.jpg
 og_image_alt: "Staffordshire Bull Terrier Welpe ins Ausland: so läuft es ab — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/cucciolo-staffordshire-bull-terrier-all-estero.webp"
 date: 2026-09-12
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 articolo: true
 translationKey: "cucciolo-estero"
 description: "Ein Welpe für ein anderes europäisches Land reist mit vier Monaten, nicht mit zwei. Tollwutimpfung, Heimtierausweis, TRACES-Zeugnis und ENCI-Exportstammbaum."
@@ -39,6 +39,8 @@ custom_content: |
   <div class="features-bar"><div class="features-track"><span>Tollwut ab 12 Wochen</span><span>EU-Heimtierausweis</span><span>TRACES-Zeugnis</span><span>ENCI-Exportstammbaum</span><span>Abreise mit 4 Monaten</span><span>Tollwut ab 12 Wochen</span><span>EU-Heimtierausweis</span><span>TRACES-Zeugnis</span><span>ENCI-Exportstammbaum</span><span>Abreise mit 4 Monaten</span></div></div>
   <section class="section">
     <div class="section-inner content-single">
+  <p>Ein Staffordshire Bull Terrier Welpe, der ins Ausland geht, reist nicht mit zwei Monaten wie einer, der in Italien bleibt, und der Grund ist ein gesundheitlicher. Um das Land zu verlassen, braucht er die Tollwutimpfung, die nicht vor der 12. Lebenswoche gegeben werden darf, und nach der ersten Dosis müssen weitere 21 Tage vergehen, bis sie für die Reise gültig ist. Die Rechnung ist einfach: Ein heute geborener Welpe kann nicht vor vier Monaten reisen. Dazu kommen der EU-Heimtierausweis, ein in der nationalen Datenbank registrierter Mikrochip und die amtliche Gesundheitsbescheinigung nach der EU-Verordnung 576/2013. Wer eine Übergabe im Ausland mit zwei Monaten verspricht, kennt die Regeln entweder nicht oder verstößt gegen sie, und in beiden Fällen sollte man sich fragen, was er sonst noch nicht tut. Papiere, Auto, Bahn und Flugzeug: Die praktischen Regeln stehen im Ratgeber <a href="/de/staffy-reisen-transport/" title="Reisen mit dem Staffy">Reisen mit dem Staffy</a>.</p>
+
 
   <p>Wir erhalten Anfragen aus dem Ausland, vor allem aus Osteuropa. Es ist möglich — wir haben es schon getan — aber es läuft anders ab als eine Vermittlung innerhalb Italiens, und das sollte man wissen, bevor man sich in ein Foto verliebt. Papiere, Auto, Bahn und Flugzeug: die praktischen Regeln stehen im Ratgeber zum <a href="/de/staffy-reisen-transport/" title="Reisen mit dem Staffy">Reisen mit dem Staffy</a>.</p>
 

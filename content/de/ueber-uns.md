@@ -4,7 +4,7 @@ date: 2025-12-28
 lastmod: 2026-09-30
 tipoPagina: "ProfilePage"
 translationKey: "chi-siamo"
-description: "Zucht Del Piccolo Diavolo: seit 2013 gesunde, ausgeglichene und typvolle Staffordshire Bull Terrier. Ostellato (FE), Italien."
+description: "Wer hinter der Zucht Del Piccolo Diavolo in Ostellato (FE) steht: Staffordshire Bull Terrier seit 2013, Linien Elitebull und Lackyle, Gentests und ENCI-Papiere."
 correlati:
   - url: "/de/palmares/"
     titolo: "Unsere Ergebnisse"

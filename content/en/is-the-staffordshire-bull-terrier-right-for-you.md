@@ -59,7 +59,7 @@ custom_content: |
   <p>It is perhaps the most family-bonded breed of all. It follows you everywhere, loves physical contact, lives to be with you. If you want a "detached and independent" dog, this is not the one: the Staffy wants to <em>be part</em> of home life.</p>
   
   <h3>2. Exceptional with children</h3>
-  <p>It is no coincidence that in England it is nicknamed the <strong>"nanny dog"</strong>. Patient, tolerant and playful, it is traditionally considered one of the best dogs for <a href="/en/staffordshire-family-life-stories/" title="Staffordshire Bull Terriers in family life: true stories">families with children</a>.</p>
+  <p>It is no coincidence that in England it is nicknamed the <strong>"nanny dog"</strong>. Patient, tolerant and playful, it is traditionally considered one of the best dogs for <a href="/en/staffordshire-family-life-stories/" title="Staffordshire Bull Terriers in family life: true stories">families with children</a>. For older owners the question is a different one, covered in the guide on <a href="/en/staffy-elderly-owners/" title="Is a Staffordshire Bull Terrier right for older owners?">Staffies and older owners</a>.</p>
   
   <div style="background:#fff8e1;border-left:5px solid #f4b400;border-radius:8px;padding:1rem 1.3rem;margin:1.5rem 0">
   <p style="margin:0 0 .4rem;font-weight:700;color:#7a5c00;display:flex;align-items:center;gap:.5rem">⚠️ Always supervise</p>
@@ -83,7 +83,7 @@ custom_content: |
   <p>This is the most important "con". The Staffy genuinely suffers if left alone for many hours: it can develop separation anxiety, bark, destroy things. <strong>If you are out of the house 10 hours a day and have no plan</strong>, this is not the right breed for you.</p>
   
   <h3>2. Lots of energy to burn</h3>
-  <p>When young it is a volcano. It needs real daily exercise (walks, play, running) and mental stimulation. A bored, under-stimulated Staffy puppy becomes a little demolisher.</p>
+  <p>When young it is a volcano. It needs <a href="/en/staffy-safe-exercise/" title="Safe Exercise for Staffordshire Bull Terrier">real daily exercise</a> (walks, play, running) and mental stimulation. A bored, under-stimulated Staffy puppy becomes a little demolisher.</p>
   
   <h3>3. It may not get on with other dogs</h3>
   <p>It is very sweet with people, but towards <strong>other dogs</strong> (especially of the same sex) it can be assertive. With good socialisation as a puppy, cohabitation is possible, but it must be managed carefully: this is not a dog to let off the lead in the park at random.</p>

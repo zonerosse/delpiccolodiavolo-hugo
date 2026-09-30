@@ -5,7 +5,7 @@ date: 2025-12-28
 lastmod: 2026-09-30
 tipoPagina: "ProfilePage"
 translationKey: "chi-siamo"
-description: "Allevamento Del Piccolo Diavolo: dal 2013 selezioniamo Staffordshire Bull Terrier sani, equilibrati e tipici. Ostellato (FE)."
+description: "Chi c'è dietro l'allevamento Del Piccolo Diavolo di Ostellato (FE): Staffordshire Bull Terrier dal 2013, linee Elitebull e Lackyle, test e pedigree ENCI."
 correlati:
   - url: "/palmares-del-piccolo-diavolo/"
     titolo: "I nostri risultati"
@@ -111,7 +111,7 @@ custom_content: |
 
   <p>Ogni accoppiamento &egrave; pianificato: si studiano i pedigree, si valuta la compatibilit&agrave; genetica, si aspetta il momento giusto. Se quel momento non arriva, quell'anno non nasce niente.</p>
 
-  <p>Prima di usare uno Staffordshire Bull Terrier in riproduzione lo osservo per mesi: come sta in casa, con gli estranei, con gli altri cani, con i bambini. Un cane che non &egrave; sicuro di s&eacute; non entra nel programma, per bello che sia.</p>
+  <p>Prima di usare uno Staffordshire Bull Terrier in riproduzione lo osservo per mesi: come sta in casa, con gli estranei, con gli altri cani, <a href="/famiglia-bambini-convivenza/" title="Staffordshire Bull Terrier e Bambini: Convivenza Sicura">con i bambini</a>. Un cane che non &egrave; sicuro di s&eacute; non entra nel programma, per bello che sia.</p>
 
   </div>
   </section>

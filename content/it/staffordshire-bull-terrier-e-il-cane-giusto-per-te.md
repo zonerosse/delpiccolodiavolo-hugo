@@ -58,7 +58,7 @@ custom_content: |
   <p>È forse la razza più legata alla famiglia in assoluto. Ti segue ovunque, ama il contatto fisico, vive per stare con te. Se cerchi un cane "distaccato e indipendente", questo non è lui: lo Staffy vuole <em>far parte</em> della vita di casa.</p>
   
   <h3>2. Eccezionale con i bambini</h3>
-  <p>Non a caso in Inghilterra è soprannominato <strong>"nanny dog"</strong> (il cane bambinaia). Paziente, tollerante e giocoso, è tradizionalmente considerato uno dei cani migliori per <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">le famiglie con bambini</a>.</p>
+  <p>Non a caso in Inghilterra è soprannominato <strong>"nanny dog"</strong> (il cane bambinaia). Paziente, tollerante e giocoso, è tradizionalmente considerato uno dei cani migliori per <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">le famiglie con bambini</a>. Per chi è in là con gli anni il discorso è diverso, e lo affrontiamo nella guida su <a href="/famiglia-anziani-rispetto-ritmi/" title="Staffordshire Bull Terrier per Anziani: Guida Completa">Staffy e proprietari anziani</a>.</p>
   
   <div style="background:#fff8e1;border-left:5px solid #f4b400;border-radius:8px;padding:1rem 1.3rem;margin:1.5rem 0">
   <p style="margin:0 0 .4rem;font-weight:700;color:#7a5c00;display:flex;align-items:center;gap:.5rem">⚠️ Supervisione sempre</p>

@@ -9,7 +9,7 @@ image: "/images/blog/hero-default.webp"
 og_image: "/images/og/schede/de/staffordshire-bull-terrier-farben.jpg"
 og_image_alt: "Farben des Staffordshire Bull Terrier: Schwarz, Gestromt — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/colori-staffordshire-bull-terrier.webp"
-description: "Vom Standard erlaubte Farben des Staffordshire Bull Terrier: Schwarz, Gestromt, Falb, Rot, Weiß und Pied. Der Fall des verdünnten Blau."
+description: "Vom FCI-Standard erlaubte Farben des Staffordshire Bull Terrier: Schwarz, Gestromt, Falb, Rot, Weiß und Pied. Die ausgeschlossenen Farben und das verdünnte Blau."
 slug: "staffordshire-bull-terrier-farben"
 custom_content: |
   <section class="hero">

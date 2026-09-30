@@ -4,7 +4,7 @@ date: 2025-12-28
 lastmod: 2026-09-30
 tipoPagina: "CollectionPage"
 translationKey: "blog"
-description: "Artikel über Welpen, Gesundheit, Standard und Zusammenleben mit dem Staffordshire Bull Terrier. Praktische Tipps aus der Zucht."
+description: "Ratgeber über Welpen, Gesundheit, Standard, Blutlinien und das Zusammenleben mit dem Staffordshire Bull Terrier, geschrieben von der Zucht Del Piccolo Diavolo."
 slug: "blog"
 fonti_motivo: "Diese Seite ist das Verzeichnis der Ratgeber der Zucht Del Piccolo Diavolo: Externe Quellen werden in jedem Ratgeber genannt, direkt neben der Angabe, die sie belegen."
 custom_content: |
@@ -60,7 +60,7 @@ custom_content: |
   <section class="section" id="welpen" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Kategorie</span>
-  <h2 class="section-title">Welpen <span class="count">(13)</span></h2>
+  <h2 class="section-title">Welpen <span class="count">(14)</span></h2>
   
   <div class="blog-grid">
   <article class="blog-card">
@@ -70,6 +70,16 @@ custom_content: |
   <h3><a href="/de/welpen-entwurmung-kotuntersuchung/" title="Lesen: Entwurmung und Kotuntersuchung">Entwurmung: Plan und Kotuntersuchung</a></h3>
   <p>Der Zeitplan, die vollst&auml;ndig ver&ouml;ffentlichten Befunde und die laufende Behandlung.</p>
   <a class="read" href="/de/welpen-entwurmung-kotuntersuchung/" title="Vollständigen Artikel lesen" aria-label="Artikel lesen: Entwurmung und Kotuntersuchung">Lesen &rarr;</a>
+  </div>
+  </article>
+
+  <article class="blog-card">
+  <a href="/de/staffordshire-bull-terrier-welpe-ins-ausland/" title="Lesen: Ein Welpe ins Ausland"><div class="blog-card-thumb"><img src="/images/blog/icone/cucciolo-staffordshire-bull-terrier-all-estero.webp" alt="Staffordshire Bull Terrier Welpe ins Ausland" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">12. Sep 2026</span><span>&bull;</span><span class="cat">Welpen</span></div>
+  <h3><a href="/de/staffordshire-bull-terrier-welpe-ins-ausland/" title="Lesen: Ein Welpe ins Ausland">Ein Welpe ins Ausland: Fristen und Papiere</a></h3>
+  <p>Warum er mit etwa vier Monaten reist, was ihn begleitet und wie die ENCI-Exportahnentafel funktioniert.</p>
+  <a class="read" href="/de/staffordshire-bull-terrier-welpe-ins-ausland/" title="Vollständigen Artikel lesen" aria-label="Artikel lesen: Ein Welpe ins Ausland">Lesen &rarr;</a>
   </div>
   </article>
   <article class="blog-card">
@@ -405,7 +415,7 @@ custom_content: |
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">28 Apr 2026</span><span>•</span><span class="cat">Familie</span></div>
   <h3><a href="/de/staffordshire-bull-terrier-charakter-familienleben/" title="Lesen: Charakter und Familienleben">Staffordshire Bull Terrier: Charakter, Familienleben und Was Sie Erwarten Können</a></h3>
-  <p>20 Jahre direkte Erfahrung. Vor- und Nachteile und was Sie wirklich von einem Staffy erwarten können.</p>
+  <p>Mit der Rasse seit 2005. Vor- und Nachteile und was Sie wirklich von einem Staffy erwarten können.</p>
   <a class="read" href="/de/staffordshire-bull-terrier-charakter-familienleben/" title="Vollständigen Artikel lesen" aria-label="Artikel lesen: Staffordshire Bull Terrier: Charakter, Familienleben und Was Sie Erwarten Können">Lesen →</a>
   </div>
   </article>

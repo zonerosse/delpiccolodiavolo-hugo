@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier: Carattere, Vita in Famiglia e Cosa Aspettarsi"
 date: 2026-04-28
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 titleSeo: "Staffordshire Bull Terrier: carattere e vita in famiglia"
 translationKey: "carattere-famiglia"
 articolo: true
@@ -21,7 +21,7 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Famiglia e Convivenza</span>
   <h1 class="hero-title">Carattere e Vita in Famiglia con lo <em>Staffy</em></h1>
-  <p class="hero-subtitle">Vent'anni con questi cani. Ecco la verità.</p>
+  <p class="hero-subtitle">Con la razza dal 2005, allevatore dal 2013.</p>
   <div class="hero-meta">
   <span>📅 28 Aprile 2026</span>
   <span>⏱️ 10 min lettura</span>
@@ -31,8 +31,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Carattere Reale</span><span>Vita con i Bambini</span><span>Con Altri Cani</span><span>Energia e Movimento</span><span>Pregi e Difetti</span><span>20 Anni di Esperienza</span>
-  <span>Carattere Reale</span><span>Vita con i Bambini</span><span>Con Altri Cani</span><span>Energia e Movimento</span><span>Pregi e Difetti</span><span>20 Anni di Esperienza</span>
+  <span>Carattere Reale</span><span>Vita con i Bambini</span><span>Con Altri Cani</span><span>Energia e Movimento</span><span>Pregi e Difetti</span><span>Con la Razza dal 2005</span>
+  <span>Carattere Reale</span><span>Vita con i Bambini</span><span>Con Altri Cani</span><span>Energia e Movimento</span><span>Pregi e Difetti</span><span>Con la Razza dal 2005</span>
   </div>
   </div>
 
@@ -101,7 +101,7 @@ custom_content: |
 
   <h2>In appartamento: funziona?</h2>
 
-  <p>Sì, funziona — con le giuste condizioni. Lo Staffy non è un cane da giardino: è un cane da divano. Preferisce stare dentro con la famiglia che fuori da solo. L'appartamento va benissimo se il proprietario è presente e attivo.</p>
+  <p>Sì, funziona — con le giuste condizioni. Lo Staffy non è un cane da giardino: è un cane da divano. Preferisce stare dentro con la famiglia che fuori da solo. L'appartamento va benissimo se il proprietario è presente e attivo. Per una persona non più giovane cambia soprattutto l'età del cane da scegliere: ne parliamo nella guida su <a href="/famiglia-anziani-rispetto-ritmi/" title="Staffordshire Bull Terrier per Anziani: Guida Completa">Staffy e proprietari anziani</a>.</p>
 
   <p>Quello che non funziona è lasciare uno Staffy solo in appartamento 10 ore al giorno. Questo vale per quasi tutte le razze, ma per lo Staffy — che ha un attaccamento umano particolarmente forte — è ancora più problematico.</p>
 
@@ -115,20 +115,9 @@ custom_content: |
 
   <p>Come si seleziona un temperamento, cosa guardiamo nei riproduttori e come si valuta un cucciolo: ne parliamo nella pagina sul <a href="/staffordshire-bull-terrier-carattere/" title="Temperamento dello Staffy: come è stato selezionato">temperamento dello Staffy</a>.</p>
 
-  <section class="faq">
-  <div class="faq-header">
-  <h2>Domande Frequenti sul Carattere dello Staffy</h2>
-  <p>Risposte basate su 20 anni di esperienza diretta</p>
-  </div>
+  <h2>Lo Staffy va d'accordo con i gatti?</h2>
 
-
-  <div class="faq-item">
-  <h3 class="faq-question">Lo Staffy va d'accordo con i gatti?</h3>
-  <div class="faq-answer">Dipende dal singolo cane e da come &egrave; stato cresciuto, e va detto che &egrave; un terrier: l'istinto predatorio verso animali piccoli e in movimento esiste e non si cancella con l'educazione. Un cucciolo cresciuto in casa con i gatti spesso convive benissimo, perch&eacute; il gatto entra a far parte del suo mondo normale nelle settimane giuste. Un adulto che non ne ha mai visti &egrave; una situazione completamente diversa e richiede un inserimento graduale, con scambio di odori, incontri a distanza e <strong>vie di fuga in alto sempre disponibili per il gatto</strong>. Fino a quando la convivenza non &egrave; consolidata non si lasciano soli, e in alcuni casi la separazione in assenza resta la scelta prudente per sempre.</div>
-  </div>
-
-
-  </section>
+  <p>Dipende dal singolo cane e da come &egrave; stato cresciuto, e va detto che &egrave; un terrier: l'istinto predatorio verso animali piccoli e in movimento esiste e non si cancella con l'educazione. Un cucciolo cresciuto in casa con i gatti spesso convive benissimo, perch&eacute; il gatto entra a far parte del suo mondo normale nelle settimane giuste. Un adulto che non ne ha mai visti &egrave; una situazione completamente diversa e richiede un inserimento graduale, con scambio di odori, incontri a distanza e <strong>vie di fuga in alto sempre disponibili per il gatto</strong>. Fino a quando la convivenza non &egrave; consolidata non si lasciano soli, e in alcuni casi la separazione in assenza resta la scelta prudente per sempre.</p>
 
   <div class="related">
   <h3>Articoli correlati</h3>

@@ -8,7 +8,7 @@ image: "/images/blog/salute-1.webp"
 og_image: "/images/og/schede/en/staffy-parasite-prevention.jpg"
 og_image_alt: "Parasite Prevention for Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/salute-parassiti-prevenzione.webp"
-description: "Complete guide to parasite prevention for Staffy: fleas, ticks, worms, heartworm. Products, schedules and natural alternatives."
+description: "Parasite prevention for the Staffordshire Bull Terrier: fleas, ticks, worms, heartworm and leishmaniasis. When to treat, which products and which signs to watch."
 slug: "staffy-parasite-prevention"
 custom_content: |
   <section class="hero">

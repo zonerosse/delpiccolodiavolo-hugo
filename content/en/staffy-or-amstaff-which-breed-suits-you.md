@@ -36,10 +36,10 @@ fonti_motivo: "This page sets out the test the Del Piccolo Diavolo kennel uses w
 
 <section class="section">
 <div class="section-inner content-single">
+<p>The Staffordshire Bull Terrier and the American Staffordshire Terrier are two separate breeds, with their own FCI standards and stud books: a male Staffy weighs 12-17 kg at 35-40 cm at the withers, an Amstaff 25-32 kg at 45.7-48.2 cm. Choosing between them is not a matter of taste in heads: it is a matter of home, of who lives in it and of how much time there is. At the Del Piccolo Diavolo kennel, in Ostellato near Ferrara, Italy, we ask anyone who writes about a puppy seven questions before we talk about litters, because the answer to each one rules out one of the two breeds more often than people expect. They are the same seven questions on this page. The answers about the Staffy come from our own dogs; those about the Amstaff from what we have seen in the ring and in the homes of people who keep one.</p>
+
 
 <p><strong>If you are still trying to tell them apart</strong>, the guide you want is a different one: <a href="/en/staffy-pitbull-amstaff-difference/" title="How to recognise the three breeds">Staffordshire Bull Terrier, Pitbull and Amstaff compared</a>, with the measurements table and the legal position. This page starts one step later: you already know they are distinct breeds and you have to decide which one comes home with you.</p>
-
-<p>The Staffordshire Bull Terrier and the American Staffordshire Terrier are two separate breeds, with their own FCI standards and stud books: a male Staffy weighs 12-17 kg at 35-40 cm at the withers, an Amstaff 25-32 kg at 45.7-48.2 cm. Choosing between them is not a matter of taste in heads: it is a matter of home, of who lives in it and of how much time there is. At the Del Piccolo Diavolo kennel, in Ostellato near Ferrara, Italy, we ask anyone who writes about a puppy seven questions before we talk about litters, because the answer to each one rules out one of the two breeds more often than people expect. They are the same seven questions on this page. The answers about the Staffy come from our own dogs; those about the Amstaff from what we have seen in the ring and in the homes of people who keep one.</p>
 
 <h2>The seven questions</h2>
 

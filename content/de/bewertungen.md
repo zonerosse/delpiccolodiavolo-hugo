@@ -4,7 +4,7 @@ date: 2025-12-28
 lastmod: 2026-09-30
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
-description: "Die Google-Bewertungen der Familien, die einen Welpen von Del Piccolo Diavolo gewählt haben. Echte Erfahrungen, vor und nach der Abgabe."
+description: "Die Google-Bewertungen der Familien, die einen Welpen von Del Piccolo Diavolo gewählt haben: echte Erfahrungen vor und nach der Abgabe, jede mit Link zum Original."
 slug: "bewertungen"
 fonti_motivo: "Die hier gezeigten Bewertungen stammen von Kunden der Zucht Del Piccolo Diavolo: Ihre Quelle ist das Google-Profil der Zucht, auf das jede einzelne Bewertung verlinkt, und es gibt keine weiteren externen Quellen zu nennen."
 custom_content: |
@@ -18,7 +18,7 @@ custom_content: |
   <span class="hero-eyebrow">⭐ <!--REC-VOTO-->/5 bei Google</span>
   <h1 class="hero-title">Unsere <br><em>Bewertungen</em></h1>
   <p class="hero-subtitle">36 verifizierte Testimonials</p>
-  <p class="hero-description">Echte Erfahrungen von Besitzern unserer Staffordshire Bull Terrier: Professionalität, Gesundheit und ausgeglichener Charakter garantiert.</p>
+  <p class="hero-description">Die Erfahrungen der Familien, die einen unserer Staffordshire Bull Terrier übernommen haben, jede mit dem Link zur Originalbewertung auf Google.</p>
   <div class="hero-actions">
   <a href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" class="btn btn-primary" title="Bewertungen bei Google lesen" aria-label="Bewertungen bei Google lesen (wird in einem neuen Tab geöffnet)">Bei Google Lesen</a>
   <a href="https://g.page/r/CUCv-r9V4lTREAE/review" target="_blank" rel="noopener" class="btn btn-ghost" title="Bewertung hinterlassen" aria-label="Bewertung hinterlassen (wird in einem neuen Tab geöffnet)">Bewertung Hinterlassen</a>

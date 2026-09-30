@@ -4,7 +4,7 @@ og_image: "/images/og/schede/en/staffordshire-bull-terrier-puppy-abroad.jpg"
 og_image_alt: "Staffy puppy abroad: timing and paperwork — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/cucciolo-staffordshire-bull-terrier-all-estero.webp"
 date: 2026-09-12
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 articolo: true
 translationKey: "cucciolo-estero"
 description: "A puppy going to another European country leaves at four months, not two. Rabies vaccination, pet passport, TRACES certificate and ENCI export pedigree."
@@ -39,6 +39,8 @@ custom_content: |
   <div class="features-bar"><div class="features-track"><span>Rabies from 12 weeks</span><span>EU pet passport</span><span>TRACES certificate</span><span>ENCI export pedigree</span><span>Departure at 4 months</span><span>Rabies from 12 weeks</span><span>EU pet passport</span><span>TRACES certificate</span><span>ENCI export pedigree</span><span>Departure at 4 months</span></div></div>
   <section class="section">
     <div class="section-inner content-single">
+  <p>A Staffordshire Bull Terrier puppy going abroad does not leave at two months like one staying in Italy, and the reason is a health one. To leave the country it needs the rabies vaccination, which cannot be given before 12 weeks of age, and after the first dose another 21 days must pass before it is valid for travel. The arithmetic is simple: a puppy born today cannot travel before four months. On top of that come the European pet passport, a microchip registered with the national database and the official health certificate, under EU Regulation 576/2013. Anyone promising delivery abroad at two months either does not know the rules or is breaking them, and in both cases it is worth wondering what else they are not doing. Documents, car, train and plane: the practical rules are in the guide on <a href="/en/staffy-travel-transport/" title="Travelling with a Staffy">travelling with a Staffy</a>.</p>
+
 
   <p>We receive enquiries from outside Italy, mostly from Eastern Europe. It is possible — we have done it before — but it works differently from a placement within Italy, and it is worth knowing that before falling for a photograph.</p>
 

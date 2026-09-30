@@ -51,7 +51,7 @@ custom_content: |
 
   <h2>Queen of California, verwöhnt ohne Ende</h2>
 
-  <p><a href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" aria-label="Ahnentafel von Queen auf SBTPedigree (wird in einem neuen Tab geöffnet)">Queen</a> ist Italienische Jugendchampionesse 2026, und auch hier ist der Titel das Uninteressanteste. Ihre Besitzer sind besondere Menschen und verwöhnen sie ohne Ende: Sie nehmen sie mit ins Schwimmbad, sie nehmen sie mit in den Urlaub.</p>
+  <p><a href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" aria-label="Ahnentafel von Queen auf SBTPedigree (wird in einem neuen Tab geöffnet)">Queen</a> ist Italienische Jugendchampionesse 2026, und auch hier ist der Titel das Uninteressanteste. Ihre Besitzer sind besondere Menschen und verwöhnen sie ohne Ende: Sie nehmen sie mit ins Schwimmbad, sie nehmen sie mit in den <a href="/de/staffy-reisen-transport/" title="Reisen und Transport mit Staffordshire Bull Terrier">Urlaub</a>.</p>
 
   <p>Eine Championesse, die so lebt, ist genau das, was ich mir für jeden Hund wünsche, der von hier weggeht.</p>
 

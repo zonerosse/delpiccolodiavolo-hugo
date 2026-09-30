@@ -9,7 +9,7 @@ image: "/images/blog/standard-1.webp"
 og_image: "/images/og/schede/en/staffy-breed-standard.jpg"
 og_image_alt: "Staffordshire Bull Terrier breed standard explained — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/standard-tipicita-morfologia.webp"
-description: "The Staffordshire Bull Terrier breed standard: physical characteristics, type, structure and what defines a quality specimen."
+description: "The Staffordshire Bull Terrier breed standard explained by a breeder: head, body, movement, colours, weight and how to recognise a typical, well-built dog."
 slug: "staffy-breed-standard"
 custom_content: |
   <section class="hero">
@@ -77,7 +77,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What are the typical features of the Staffy's head?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">The head is the breed's most characteristic feature, and the standard describes it precisely: a <strong>short, broad skull</strong>, very pronounced cheek muscles, a <strong>distinct stop</strong>, a short foreface and a complete scissor bite. The ears are rose or half-pricked, neither large nor heavy, never drop nor cropped. The eyes are round, of medium size and preferably dark, with dark eye rims. What is assessed is not power in itself but balance: an exaggeratedly broad head or a muzzle that is too short is no longer type, it is a fault that brings breathing and dental problems. Reading a head well means looking at it in proportion to the whole dog, not on its own.
+  <div class="faq-answer">The head is the breed's most characteristic feature, and the standard describes it precisely: a <strong>short, broad skull</strong>, very pronounced cheek muscles, a <strong>distinct stop</strong>, a short foreface and a complete scissor bite. The ears are rose or half-pricked, neither large nor heavy, never drop nor cropped. The eyes are round, of medium size and preferably dark, with dark eye rims. What is assessed is not power in itself but balance: an exaggeratedly broad head or a muzzle that is too short is no longer type, it is a fault that brings breathing and <a href="/en/staffy-dental-health/" title="Dental health for the Staffordshire Bull Terrier">dental problems</a>. Reading a head well means looking at it in proportion to the whole dog, not on its own.
   </div>
   </div>
 

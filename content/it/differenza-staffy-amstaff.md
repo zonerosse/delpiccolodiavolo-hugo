@@ -36,16 +36,16 @@ fonti_motivo: "Questa pagina riporta il test che l'allevamento Del Piccolo Diavo
 
 <section class="section">
 <div class="section-inner content-single">
+<p>Staffordshire Bull Terrier e American Staffordshire Terrier sono due razze distinte, con standard FCI e libri genealogici separati: lo Staffy pesa 12-17 kg nel maschio per 35-40 cm al garrese, l'Amstaff 25-32 kg per 45,7-48,2 cm. Scegliere fra i due non è una questione di gusto sul muso: è una questione di casa, di chi ci vive e di quanto tempo c'è. Nell'allevamento Del Piccolo Diavolo, a Ostellato in provincia di Ferrara, a chi ci scrive per un cucciolo facciamo sette domande prima di parlare di cucciolate, perché la risposta a ciascuna esclude una delle due razze più spesso di quanto si pensi. Sono le stesse domande di questa pagina. Le risposte sullo Staffy vengono dai nostri cani; quelle sull'Amstaff da quello che abbiamo visto in ring e nelle case di chi lo tiene.</p>
+
 
 <p><strong>Se stai ancora cercando di capire come distinguerli</strong>, la guida che ti serve è un'altra: <a href="/differenza-staffy-pitbull-amstaff/" title="Come riconoscere le tre razze">Staffordshire Bull Terrier, Pitbull e Amstaff a confronto</a>, con la tabella delle misure e la situazione legale. Questa pagina parte dal passo dopo: sai già che sono razze diverse e devi decidere quale portare a casa.</p>
-
-<p>Staffordshire Bull Terrier e American Staffordshire Terrier sono due razze distinte, con standard FCI e libri genealogici separati: lo Staffy pesa 12-17 kg nel maschio per 35-40 cm al garrese, l'Amstaff 25-32 kg per 45,7-48,2 cm. Scegliere fra i due non è una questione di gusto sul muso: è una questione di casa, di chi ci vive e di quanto tempo c'è. Nell'allevamento Del Piccolo Diavolo, a Ostellato in provincia di Ferrara, a chi ci scrive per un cucciolo facciamo sette domande prima di parlare di cucciolate, perché la risposta a ciascuna esclude una delle due razze più spesso di quanto si pensi. Sono le stesse domande di questa pagina. Le risposte sullo Staffy vengono dai nostri cani; quelle sull'Amstaff da quello che abbiamo visto in ring e nelle case di chi lo tiene.</p>
 
 <h2>Le sette domande</h2>
 
 <h3>1. Chi vive in casa?</h3>
 
-<p>Con bambini piccoli la taglia conta ogni giorno: 15 kg che saltano addosso a un bambino di tre anni sono un urto, 30 kg sono una caduta. Per entrambe le razze vale la regola che non cambia: nessun cane, di nessuna razza, va lasciato solo con un bambino piccolo. Il soprannome "nanny dog" descrive la tolleranza dello Staffy, non una capacità di sorveglianza. Con bambini in casa, la risposta è quasi sempre lo Staffy.</p>
+<p>Con <a href="/famiglia-bambini-convivenza/" title="Staffordshire Bull Terrier e Bambini: Convivenza Sicura">bambini piccoli</a> la taglia conta ogni giorno: 15 kg che saltano addosso a un bambino di tre anni sono un urto, 30 kg sono una caduta. Per entrambe le razze vale la regola che non cambia: nessun cane, di nessuna razza, va lasciato solo con un bambino piccolo. Il soprannome "nanny dog" descrive la tolleranza dello Staffy, non una capacità di sorveglianza. Con bambini in casa, la risposta è quasi sempre lo Staffy.</p>
 
 <h3>2. Quanti metri quadri, e a che piano?</h3>
 

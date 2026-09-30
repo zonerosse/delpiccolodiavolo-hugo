@@ -8,7 +8,7 @@ image: "/images/blog/hero-default.webp"
 og_image: "/images/og/schede/en/staffy-dangerous-breed-law.jpg"
 og_image_alt: "Is Staffordshire Bull Terrier Dangerous? Italian Law — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/staffy-pericoloso-legge-italia.webp"
-description: "Is the Staffy dangerous? What does Italian law say? Complete guide on breed-specific legislation, restrictions and owner responsibilities."
+description: "Is the Staffy dangerous? The VetCompass study, Italian law since 2009 and the Lombardy proposal: data and legislation instead of prejudice, country by country."
 slug: "staffy-dangerous-breed-law"
 custom_content: |
   <section class="hero">

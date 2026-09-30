@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier: Character, Family Life and What to Expect"
 date: 2026-04-28
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 titleSeo: "Staffordshire Bull Terrier: character and family life"
 translationKey: "carattere-famiglia"
 articolo: true
@@ -9,7 +9,7 @@ image: "/images/cucciolo-con-cavallo.avif"
 og_image: "/images/og/schede/en/staffordshire-bull-terrier-character-family-life.jpg"
 og_image_alt: "Staffordshire Bull Terrier: character and family life — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/staffordshire-bull-terrier-carattere-vita-famiglia.webp"
-description: "Staffordshire Bull Terrier character, family life, pros and cons told by a breeder with 20 years of experience. What to really expect from a Staffy."
+description: "Staffordshire Bull Terrier character, family life, pros and cons told by a breeder with the breed since 2005. What to really expect from a Staffy."
 slug: "staffordshire-bull-terrier-character-family-life"
 custom_content: |
   <section class="hero">
@@ -21,7 +21,7 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Family and Cohabitation</span>
   <h1 class="hero-title">Staffy Character and <em>Family Life</em></h1>
-  <p class="hero-subtitle">20 years with these dogs. Here's the truth.</p>
+  <p class="hero-subtitle">With the breed since 2005, breeding since 2013.</p>
   <div class="hero-meta">
   <span>📅 28 April 2026</span>
   <span>⏱️ 10 min read</span>
@@ -31,8 +31,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Real Character</span><span>Life with Children</span><span>With Other Dogs</span><span>Energy & Exercise</span><span>Pros and Cons</span><span>20 Years Experience</span>
-  <span>Real Character</span><span>Life with Children</span><span>With Other Dogs</span><span>Energy & Exercise</span><span>Pros and Cons</span><span>20 Years Experience</span>
+  <span>Real Character</span><span>Life with Children</span><span>With Other Dogs</span><span>Energy & Exercise</span><span>Pros and Cons</span><span>With the Breed since 2005</span>
+  <span>Real Character</span><span>Life with Children</span><span>With Other Dogs</span><span>Energy & Exercise</span><span>Pros and Cons</span><span>With the Breed since 2005</span>
   </div>
   </div>
 
@@ -50,7 +50,7 @@ custom_content: |
 
 
 
-  <h2>The Staffordshire Bull Terrier character: the truth</h2>
+  <h2>The Staffordshire Bull Terrier character, without embellishment</h2>
 
   <p>I met my first Staffordshire Bull Terrier in 2005 at Crufts. In the breed since 2005, breeding since 2013: since then I have bred, raised and rehomed over a hundred of them. I know this breed in a way that no generic article can match.</p>
 
@@ -103,7 +103,7 @@ custom_content: |
 
   <h2>In an apartment: does it work?</h2>
 
-  <p>Yes, it works — with the right conditions. The Staffy is not a garden dog: it's a sofa dog. It prefers to be inside with the family rather than outside alone. An apartment works perfectly if the owner is present and active.</p>
+  <p>Yes, it works — with the right conditions. The Staffy is not a garden dog: it's a sofa dog. It prefers to be inside with the family rather than outside alone. An apartment works perfectly if the owner is present and active. For an older person what changes most is the age of the dog to choose, as explained in the guide on <a href="/en/staffy-elderly-owners/" title="Is a Staffordshire Bull Terrier right for older owners?">Staffies and older owners</a>.</p>
 
   <p>What doesn't work is leaving a Staffy alone in an apartment for 10 hours a day. This applies to almost all breeds, but for the Staffy — which has a particularly strong human attachment — it's even more problematic.</p>
 
@@ -115,20 +115,9 @@ custom_content: |
 
   <p>Two Staffies with the same pedigree can have different characters: genetics lays the foundation, <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor and early stimulation">the first weeks do the rest</a>, and that is why the breeder weighs as much as the breed. How a temperament is selected, what we look for in breeding dogs and how to assess a puppy is explained on the page about <a href="/en/staffordshire-bull-terrier-temperament/" title="Staffy temperament">the Staffordshire Bull Terrier temperament</a>.</p>
 
-  <section class="faq">
-  <div class="faq-header">
-  <h2>Frequently Asked Questions about the Staffy's Character</h2>
-  <p>Answers based on 20 years of direct experience</p>
-  </div>
+  <h2>Does the Staffy get along with cats?</h2>
 
-
-  <div class="faq-item">
-  <h3 class="faq-question">Does the Staffy get along with cats?</h3>
-  <div class="faq-answer">It depends on the individual dog and on how it was raised, and it must be said that this is a terrier: the predatory instinct towards small moving animals exists and education does not erase it. A puppy raised in the house with cats often lives with them perfectly well, because the cat becomes part of its normal world during the right weeks. An adult that has never seen one is a completely different situation and needs a gradual introduction, with scent swapping, distance meetings and <strong>escape routes up high always available to the cat</strong>. Until the arrangement is settled they are not left alone together.</div>
-  </div>
-
-
-  </section>
+  <p>It depends on the individual dog and on how it was raised, and it must be said that this is a terrier: the predatory instinct towards small moving animals exists and education does not erase it. A puppy raised in the house with cats often lives with them perfectly well, because the cat becomes part of its normal world during the right weeks. An adult that has never seen one is a completely different situation and needs a gradual introduction, with scent swapping, distance meetings and <strong>escape routes up high always available to the cat</strong>. Until the arrangement is settled they are not left alone together.</p>
 
   <div class="related">
   <h3>Related articles</h3>

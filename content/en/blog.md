@@ -4,7 +4,7 @@ date: 2025-12-28
 lastmod: 2026-09-30
 tipoPagina: "CollectionPage"
 translationKey: "blog"
-description: "Articles on puppies, health, breed standard and daily life with the Staffordshire Bull Terrier. Practical advice from the kennel."
+description: "Guides on puppies, health, breed standard, bloodlines and daily life with the Staffordshire Bull Terrier, written by the Del Piccolo Diavolo kennel in Italy."
 slug: "blog"
 fonti_motivo: "This page is the index of the Del Piccolo Diavolo kennel's guides: external sources are cited inside each guide, next to the figure they support."
 custom_content: |
@@ -60,7 +60,7 @@ custom_content: |
   <section class="section" id="puppies" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Category</span>
-  <h2 class="section-title">Puppies <span class="count">(13)</span></h2>
+  <h2 class="section-title">Puppies <span class="count">(14)</span></h2>
   
   <div class="blog-grid">
   <article class="blog-card">
@@ -70,6 +70,16 @@ custom_content: |
   <h3><a href="/en/puppy-worming-faecal-tests/" title="Read: Worming and faecal tests">Worming: protocol and faecal test results</a></h3>
   <p>The schedule, the litter's lab reports published in full and the treatment under way.</p>
   <a class="read" href="/en/puppy-worming-faecal-tests/" title="Read full article" aria-label="Read the article: Worming and faecal tests">Read &rarr;</a>
+  </div>
+  </article>
+
+  <article class="blog-card">
+  <a href="/en/staffordshire-bull-terrier-puppy-abroad/" title="Read: A puppy going abroad"><div class="blog-card-thumb"><img src="/images/blog/icone/cucciolo-staffordshire-bull-terrier-all-estero.webp" alt="Staffordshire Bull Terrier puppy going abroad" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">12 Sep 2026</span><span>&bull;</span><span class="cat">Puppies</span></div>
+  <h3><a href="/en/staffordshire-bull-terrier-puppy-abroad/" title="Read: A puppy going abroad">A puppy going abroad: timing and paperwork</a></h3>
+  <p>Why it leaves at around four months, what goes with it and how the ENCI export pedigree works.</p>
+  <a class="read" href="/en/staffordshire-bull-terrier-puppy-abroad/" title="Read full article" aria-label="Read the article: A puppy going abroad">Read &rarr;</a>
   </div>
   </article>
   <article class="blog-card">
@@ -405,7 +415,7 @@ custom_content: |
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">28 Apr 2026</span><span>•</span><span class="cat">Family</span></div>
   <h3><a href="/en/staffordshire-bull-terrier-character-family-life/" title="Read: Character and family life">Staffordshire Bull Terrier: Character, Family Life and What to Expect</a></h3>
-  <p>20 years of direct experience. Pros, cons and what to really expect from a Staffy.</p>
+  <p>With the breed since 2005. Pros, cons and what to really expect from a Staffy.</p>
   <a class="read" href="/en/staffordshire-bull-terrier-character-family-life/" title="Read full article" aria-label="Read the article: Staffordshire Bull Terrier: Character, Family Life and What to Expect">Read →</a>
   </div>
   </article>

@@ -1,7 +1,7 @@
 ---
 title: "Difference Between Staffordshire Bull Terrier, Pitbull and Amstaff"
 date: 2025-11-19
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 titleSeo: "Staffordshire Bull Terrier, Pitbull and Amstaff compared"
 translationKey: "pitbull-amstaff"
 articolo: true
@@ -9,7 +9,7 @@ image: "/images/blog/hero-default.webp"
 og_image: "/images/og/schede/en/staffy-pitbull-amstaff-difference.jpg"
 og_image_alt: "Staffordshire Bull Terrier, Pitbull and Amstaff compared — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/differenza-staffy-pitbull-amstaff.webp"
-description: "Not the same dog: 11-17 kg against 25-32, 2 FCI-recognised standards and one that is not. How to tell them apart, explained by a breeder."
+description: "Not the same dog: 11-17 kg against 25-32, two FCI-recognised standards and one that is not. How to tell Staffy, Pit Bull and Amstaff apart, explained by a breeder."
 slug: "staffy-pitbull-amstaff-difference"
 custom_content: |
   <section class="hero">
@@ -45,7 +45,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Staffordshire Bull Terrier, American Staffordshire Terrier and American Pit Bull Terrier descend from the same stock, the Bull and Terriers of 19th-century England, but today they are three distinct breeds. The Staffordshire Bull Terrier is the smallest, with a maximum weight of 17 kg, and is recognised by the FCI under standard no. 76. The American Staffordshire Terrier is taller and heavier, up to 32 kg in males, and is recognised by the FCI under standard no. 286. The American Pit Bull Terrier, whose weight varies widely between 15 and 27 kg, is registered by the American UKC and ADBA but not by the FCI, so in Italy the ENCI cannot issue it a pedigree: a Pit Bull with an ENCI pedigree does not exist. None of the three breeds is banned in Italy: since 2009 responsibility lies with the owner, not the breed. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>Staffordshire Bull Terrier, American Staffordshire Terrier and American Pit Bull Terrier descend from the same stock, the Bull and Terriers of 19th-century England, but today they are three distinct breeds. The Staffordshire Bull Terrier is the smallest, with a maximum weight of 17 kg, and is recognised by the FCI under standard no. 76. The American Staffordshire Terrier is taller and heavier, up to 32 kg in males, and is recognised by the FCI under standard no. 286. The American Pit Bull Terrier, whose weight varies widely between 15 and 27 kg, is registered by the American UKC and ADBA but not by the FCI, so in Italy the ENCI cannot issue it a pedigree: a Pit Bull with an ENCI pedigree does not exist. None of the three is banned in Italy. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
   
   <h2>Why Are These Breeds Confused?</h2>

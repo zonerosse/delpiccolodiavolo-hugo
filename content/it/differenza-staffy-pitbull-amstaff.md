@@ -2,14 +2,14 @@
 title: "Differenza tra Staffordshire Bull Terrier, Pitbull e Amstaff"
 titleSeo: "Staffy, Pitbull e Amstaff: come distinguerli"
 date: 2025-11-19
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "pitbull-amstaff"
 articolo: true
 image: "/images/blog/differenza-razze-hero.webp"
 og_image: "/images/og/schede/it/differenza-staffy-pitbull-amstaff.jpg"
 og_image_alt: "Staffy, Pitbull e Amstaff: come distinguerli — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/differenza-staffy-pitbull-amstaff.webp"
-description: "Non sono lo stesso cane: 11-17 kg contro 25-32, 2 standard FCI riconosciuti e uno no. Come distinguerli davvero, spiegato da un allevatore."
+description: "Non sono lo stesso cane: 11-17 kg contro 25-32, due standard FCI riconosciuti e uno no. Come distinguere Staffy, Pitbull e Amstaff, spiegato da un allevatore."
 slug: "differenza-staffy-pitbull-amstaff"
 custom_content: |
   <section class="hero">
@@ -255,7 +255,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Queste razze sono vietate in Italia?</h3>
-  <div class="faq-answer">No. In Italia non esiste pi&ugrave; una lista di razze pericolose dal 2009, quando l'ordinanza del Ministero della Salute ha abolito l'elenco e spostato la responsabilit&agrave; dalla razza al proprietario. N&eacute; lo Staffordshire Bull Terrier n&eacute; l'American Staffordshire Terrier sono soggetti a divieti o obblighi particolari a livello nazionale. Restano possibili <strong>regolamenti locali</strong> pi&ugrave; restrittivi, decisi da singoli comuni o da regolamenti condominiali, e regole diverse in altri paesi europei che vanno verificate prima di viaggiare. Vale per tutti l'obbligo di guinzaglio nei luoghi pubblici, museruola al seguito da applicare su richiesta, e responsabilit&agrave; civile e penale del detentore per i danni causati.</div>
+  <div class="faq-answer">No. In Italia non esiste pi&ugrave; una lista di <a href="/staffy-pericoloso-legge-italia/" title="Lo Staffy è Pericoloso? Verità e Legge Italiana">razze pericolose</a> dal 2009, quando l'ordinanza del Ministero della Salute ha abolito l'elenco e spostato la responsabilit&agrave; dalla razza al proprietario. N&eacute; lo Staffordshire Bull Terrier n&eacute; l'American Staffordshire Terrier sono soggetti a divieti o obblighi particolari a livello nazionale. Restano possibili <strong>regolamenti locali</strong> pi&ugrave; restrittivi, decisi da singoli comuni o da regolamenti condominiali, e regole diverse in altri paesi europei che vanno verificate prima di viaggiare. Vale per tutti l'obbligo di guinzaglio nei luoghi pubblici, museruola al seguito da applicare su richiesta, e responsabilit&agrave; civile e penale del detentore per i danni causati.</div>
   </div>
   
   <div class="faq-item">

@@ -9,7 +9,7 @@ image: "/images/blog/famiglia-2.webp"
 og_image: "/images/og/schede/en/staffy-elderly-owners.jpg"
 og_image_alt: "Is a Staffordshire Bull Terrier right for older owners? — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/famiglia-anziani-rispetto-ritmi.webp"
-description: "Staffordshire Bull Terriers for elderly owners: respecting rhythms, exercise needs, manageable energy levels and companionship benefits."
+description: "Staffordshire Bull Terriers for older owners: respecting the dog's rhythms and yours, daily exercise needs, manageable energy and the companionship they give."
 slug: "staffy-elderly-owners"
 custom_content: |
   <section class="hero">

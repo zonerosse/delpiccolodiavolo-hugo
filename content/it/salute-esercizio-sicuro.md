@@ -1,14 +1,14 @@
 ---
 title: "Esercizio Sicuro per Staffordshire Bull Terrier"
 date: 2024-06-20
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "esercizio"
 articolo: true
 image: "/images/blog/esercizio-hero.webp"
 og_image: "/images/og/schede/it/salute-esercizio-sicuro.jpg"
 og_image_alt: "Esercizio Sicuro per Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/salute-esercizio-sicuro.webp"
-description: "Esercizio fisico sicuro per lo Staffordshire Bull Terrier: attività per cuccioli e adulti, colpo di calore e segnali di sovraccarico."
+description: "Esercizio fisico sicuro per lo Staffordshire Bull Terrier: la regola dei 5 minuti per i cuccioli, attività per adulti, colpo di calore e segnali di sovraccarico."
 slug: "salute-esercizio-sicuro"
 custom_content: |
   <section class="hero">

@@ -9,7 +9,7 @@ image: "/images/blog/cuccioli-5.webp"
 og_image: "/images/og/schede/en/puppy-first-walk.jpg"
 og_image_alt: "A puppy's first walk: when to start and how — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/cuccioli-prima-passeggiata.webp"
-description: "First leash walk for your Staffordshire Bull Terrier puppy: equipment, timing, positive introduction and building good walking habits."
+description: "First walk for your Staffordshire Bull Terrier puppy: when to start, how long to go out, the right equipment and how to build good walking habits from day one."
 slug: "puppy-first-walk"
 custom_content: |
   <section class="hero">

@@ -5,7 +5,7 @@ date: 2025-12-28
 lastmod: 2026-09-30
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
-description: "Le recensioni Google delle famiglie che hanno scelto un cucciolo Del Piccolo Diavolo. Esperienze reali, prima e dopo l’affidamento."
+description: "Le recensioni Google delle famiglie che hanno scelto un cucciolo Del Piccolo Diavolo: esperienze reali, prima e dopo l'affido, ognuna collegata all'originale."
 slug: "recensioni"
 fonti_motivo: "Le recensioni riportate qui sono dei clienti dell'allevamento Del Piccolo Diavolo: la fonte è il profilo Google dell'allevamento, collegato da ogni singola recensione, e non esistono altre fonti esterne da citare."
 custom_content: |
@@ -19,7 +19,7 @@ custom_content: |
   <span class="hero-eyebrow">⭐ <!--REC-VOTO-->/5 su Google</span>
   <h1 class="hero-title">Recensioni <br><em>delle famiglie</em> <br>Del Piccolo Diavolo</h1>
   <p class="hero-subtitle"><!--REC-TOTALE--> testimonianze verificate</p>
-  <p class="hero-description">Le esperienze reali dei proprietari dei nostri Staffordshire Bull Terrier: professionalità, salute e carattere equilibrato garantiti.</p>
+  <p class="hero-description">Le esperienze delle famiglie che hanno preso un nostro Staffordshire Bull Terrier, ognuna con il collegamento alla recensione originale su Google.</p>
   <div class="hero-actions">
   <a href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" class="btn btn-primary" title="Leggi le recensioni su Google" aria-label="Leggi le recensioni su Google (si apre in una nuova scheda)">Leggi su Google</a>
   <a href="https://g.page/r/CUCv-r9V4lTREAE/review" target="_blank" rel="noopener" class="btn btn-ghost" title="Lascia una recensione su Google" aria-label="Lascia una recensione su Google (si apre in una nuova scheda)">Lascia Recensione</a>

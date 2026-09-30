@@ -9,7 +9,7 @@ image: "/images/blog/hero-default.webp"
 og_image: "/images/og/schede/en/staffordshire-bull-terrier-colours.jpg"
 og_image_alt: "Staffordshire Bull Terrier colours: black, brindle, blue — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/colori-staffordshire-bull-terrier.webp"
-description: "Staffordshire Bull Terrier colours allowed by the standard: black, brindle, fawn, red, white and pied. The case of dilute blue."
+description: "Staffordshire Bull Terrier colours allowed by the FCI standard: black, brindle, fawn, red, white and pied. The excluded colours, and the case of dilute blue."
 slug: "staffordshire-bull-terrier-colours"
 custom_content: |
   <section class="hero">

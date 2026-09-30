@@ -57,7 +57,7 @@ custom_content: |
   <section class="section" id="cuccioli" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
-  <h2 class="section-title">Cuccioli <span class="count">(13)</span></h2>
+  <h2 class="section-title">Cuccioli <span class="count">(14)</span></h2>
 
   <div class="blog-grid">
   <article class="blog-card">
@@ -67,6 +67,16 @@ custom_content: |
   <h3><a href="/cuccioli-sverminazione-esami-feci/" title="Leggi: Sverminazione ed esami delle feci">Sverminazione: protocollo ed esami delle feci</a></h3>
   <p>Il calendario, i referti della cucciolata pubblicati per intero e la terapia in corso.</p>
   <a class="read" href="/cuccioli-sverminazione-esami-feci/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Sverminazione ed esami delle feci">Leggi &rarr;</a>
+  </div>
+  </article>
+
+  <article class="blog-card">
+  <a href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Leggi: Cucciolo all'estero"><div class="blog-card-thumb"><img src="/images/blog/icone/cucciolo-staffordshire-bull-terrier-all-estero.webp" alt="Cucciolo Staffordshire Bull Terrier all'estero" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">12 Set 2026</span><span>&bull;</span><span class="cat">Cuccioli</span></div>
+  <h3><a href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Leggi: Cucciolo all'estero">Un cucciolo all'estero: tempi e documenti</a></h3>
+  <p>Perché parte intorno ai quattro mesi, cosa lo accompagna e come funziona l'export pedigree ENCI.</p>
+  <a class="read" href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Cucciolo all'estero">Leggi &rarr;</a>
   </div>
   </article>
   <article class="blog-card">
@@ -415,7 +425,7 @@ custom_content: |
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">28 Apr 2026</span><span>•</span><span class="cat">Famiglia</span></div>
   <h3><a href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Leggi: Carattere e vita in famiglia">Staffordshire Bull Terrier: Carattere, Vita in Famiglia e Cosa Aspettarsi</a></h3>
-  <p>Vent'anni di esperienza diretta. Pregi, difetti e cosa aspettarsi davvero da uno Staffy.</p>
+  <p>Con la razza dal 2005. Pregi, difetti e cosa aspettarsi davvero da uno Staffy.</p>
   <a class="read" href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Staffordshire Bull Terrier: Carattere, Vita in Famiglia e Cosa Aspettarsi">Leggi →</a>
   </div>
   </article>

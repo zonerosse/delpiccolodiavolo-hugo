@@ -2,14 +2,14 @@
 title: "Bio Sensor: cosa dice davvero la ricerca"
 date: 2026-09-09
 titleSeo: "Bio Sensor e stimolazione precoce: cosa dice la ricerca"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "biosensor"
 articolo: true
 image: "/images/blog/neonati-hero.webp"
 og_image: "/images/og/schede/it/bio-sensor-stimolazione-precoce-cuccioli.jpg"
 og_image_alt: "Bio Sensor e stimolazione precoce: cosa dice la ricerca — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/bio-sensor-stimolazione-precoce-cuccioli.webp"
-description: "Metodo Bio Sensor ed ENS sui cuccioli: da dove viene, cosa promette e quanto è dimostrato. E cosa conta davvero nelle prime otto settimane."
+description: "Metodo Bio Sensor ed ENS sui cuccioli: da dove viene, cosa promette e quanto è dimostrato dagli studi. E cosa conta davvero nelle prime otto settimane."
 slug: "bio-sensor-stimolazione-precoce-cuccioli"
 custom_content: |
   <section class="hero">

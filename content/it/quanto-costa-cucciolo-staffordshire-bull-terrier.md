@@ -16,7 +16,7 @@ slug: "quanto-costa-cucciolo-staffordshire-bull-terrier"
 <section class="hero">
 <div class="hero-visual">
 <div class="hero-image">
-<img src="/images/blog/scontrino-farmaci-cucciolata.webp" alt="Scontrino della farmacia con i farmaci veterinari di una cucciolata: Panacur e Milbemax per i cuccioli, Milbemax per la madre" width="855" height="900" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
+<img src="/images/blog/scontrino-farmaci-cucciolata.webp" alt="Scontrino della farmacia con i farmaci veterinari di una cucciolata, una delle voci del prezzo di un cucciolo di Staffordshire Bull Terrier: Panacur e Milbemax per i cuccioli, Milbemax per la madre" width="855" height="900" fetchpriority="high" decoding="sync" style="width:100%;height:auto">
 </div>
 </div>
 <div class="hero-content">

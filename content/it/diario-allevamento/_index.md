@@ -6,7 +6,7 @@ lastmod: 2026-09-30
 tipoPagina: "CollectionPage"
 articolo: true
 translationKey: "diario-allevamento"
-description: "Aggiornamenti, nascite e novità dall'allevamento Del Piccolo Diavolo. Segui la crescita dei nostri cuccioli di Staffordshire Bull Terrier."
+description: "Il diario dell'allevamento Del Piccolo Diavolo: ogni cucciolata di Staffordshire Bull Terrier con data di nascita, genitori, test genetici e foto della crescita."
 slug: "diario-allevamento"
 fonti_motivo: "Il diario registra fatti dell'allevamento Del Piccolo Diavolo, e per questo non cita fonti esterne: la verifica indipendente è il libro genealogico ENCI, dove il numero di cucciolate di ogni fattrice si controlla a partire dal suo microchip."
 ---

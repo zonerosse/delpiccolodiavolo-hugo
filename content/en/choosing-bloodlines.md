@@ -46,7 +46,7 @@ custom_content: |
   
   <h2>Start with an honest definition of what you want</h2>
   <p>Choosing a bloodline is not a question with a universally correct answer. It is a question about you: what you intend to do with the dog, how much dog you actually want in your house, and what you are prepared to manage. A line that produces superb ring dogs may be a poor fit for a family in a flat, and a line producing steady, moderate family dogs may frustrate someone who wants to compete.</p>
-  <p>Before comparing kennels, write down three things. Whether the dog is a companion, a show prospect, or a future breeding animal. Whether your household is calm or busy, and whether there are children or other animals. And how much time you can genuinely give to training and exercise in a bad week, not a good one.</p>
+  <p>Before comparing kennels, write down three things. Whether the dog is a companion, a show prospect, or a future breeding animal. Whether your household is calm or busy, and whether there are children or <a href="/en/staffy-other-pets/" title="Staffordshire Bull Terrier with other pets at home">other animals</a>. And how much time you can genuinely give to training and exercise in a bad week, not a good one.</p>
   <p>Almost every mismatch we see between owner and dog traces back to one of those three questions never being asked.</p>
 
   <h2>What differs between lines, and what does not</h2>

@@ -8,7 +8,7 @@ image: "/images/blog/hero-default.webp"
 og_image: "/images/og/schede/de/staffy-gefaehrliche-rasse-gesetz.jpg"
 og_image_alt: "Ist der Staffordshire Bull Terrier gefährlich? Gesetzeslage — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/staffy-pericoloso-legge-italia.webp"
-description: "Ist der Staffy gefährlich? Was sagt das Gesetz? Vollständiger Leitfaden über rassenspezifische Gesetzgebung und Halterverantwortung."
+description: "Ist der Staffy gefährlich? Die VetCompass-Studie, das italienische Recht seit 2009 und der Vorschlag der Lombardei: Daten und Gesetze statt Vorurteile."
 slug: "staffy-gefaehrliche-rasse-gesetz"
 custom_content: |
   <section class="hero">
@@ -52,7 +52,7 @@ custom_content: |
   <p>Einzelne Gemeinden können für bestimmte Bereiche wie Parks oder Strände strengere Regeln erlassen, und ein Gericht kann nach einem Vorfall für einen bestimmten Hund eine Wesensbeurteilung und verpflichtende Ausbildung anordnen. Beides betrifft den einzelnen Hund, nicht die Rasse.</p>
 
   <h2>Wie Italien dahin kam: von der Liste 2006 zur Verordnung 2009</h2>
-  <p>Im Dezember 2006 erließ die damalige Gesundheitsministerin Livia Turco eine Verordnung zum Schutz der öffentlichen Sicherheit vor Hundeangriffen, mit einem Anhang von <strong>17 Rassen</strong>, die als Risiko galten, darunter Pit Bull, Rottweiler, Dogo Argentino, Fila Brasileiro und Tosa Inu. Der Staffordshire Bull Terrier stand nicht auf dieser Liste; er wurde nur im Sprachgebrauch damit verbunden, wegen seiner Ähnlichkeit mit dem Pit Bull.</p>
+  <p>Im Dezember 2006 erließ die damalige Gesundheitsministerin Livia Turco eine Verordnung zum Schutz der öffentlichen Sicherheit vor Hundeangriffen, mit einem Anhang von <strong>17 Rassen</strong>, die als Risiko galten, darunter <a href="/de/staffy-pitbull-amstaff-unterschied/" title="Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich">Pit Bull</a>, Rottweiler, Dogo Argentino, Fila Brasileiro und Tosa Inu. Der Staffordshire Bull Terrier stand nicht auf dieser Liste; er wurde nur im Sprachgebrauch damit verbunden, wegen seiner Ähnlichkeit mit dem Pit Bull.</p>
   <p>Die Liste hielt kaum zwei Jahre. Die am 3. März 2009 von der Staatssekretärin Francesca Martini unterzeichnete Verordnung schaffte sie ab, mit der Begründung, dass die Veterinärmedizin es nicht erlaubt, ein höheres Aggressionsrisiko an der Rasse oder an Kreuzungen festzumachen. Was diese Verordnung eingeführt hat, gilt weiterhin: eine Leine von höchstens anderthalb Metern im städtischen Raum, ein mitgeführter Maulkorb, der auf Verlangen angelegt wird, ein Register der Hunde, die gebissen haben, bei den Gesundheitsbehörden, und die zivil- und strafrechtliche Haftung des Halters. Quelle: die <a href="https://www.salute.gov.it/portale/documentazione/p6_2_2_1.jsp?id=3031" target="_blank" rel="noopener" aria-label="Italienisches Gesundheitsministerium, Verordnung vom 3. März 2009 (wird in einem neuen Tab geöffnet)">Verordnung des italienischen Gesundheitsministeriums vom 3. März 2009</a>.</p>
 
   <h2>Der Vorschlag der Lombardei und die „Save List“</h2>
