@@ -52,14 +52,8 @@ hugo server -D       # include drafts
 
 Deploy is Cloudflare Pages (build command `hugo`, output dir `public`), triggered on push to `main`.
 
-Two PowerShell maintenance scripts, both **dry-run by default**, `-Apply` to write (they preserve UTF-8 without BOM — keep it that way):
-
-```powershell
-.\Add-TranslationKey.ps1 -Apply   # injects translationKey into front matter, from a hardcoded it|en|de filename map
-.\Fix-BrokenLinks.ps1 -Apply      # rewrites known-bad href="..." paths across content/
-```
-
-`Add-TranslationKey.ps1` contains an explicit page map at the top; adding a new translated page means adding a row there too.
+Markdown for AI agents: every page also builds as `index.md` (`layouts/_default/single.md`, `layouts/index.md`). On Cloudflare a URL Rewrite Transform Rule named "Markdown per agenti AI" serves it to clients sending `Accept: text/markdown`:
+expression `(http.request.headers["accept"][0] contains "text/markdown" and not ends_with(http.request.uri.path, ".md"))`, dynamic path `concat(http.request.uri.path, "index.md")`. `Vary: Accept` in `layouts/index.headers` keeps the cache from mixing the two. Check: `curl.exe -H "Accept: text/markdown" https://delpiccolodiavolo.it/colori-staffordshire-bull-terrier/` must start with `#`, not `<!DOCTYPE html>`.
 
 ## Architecture
 
@@ -125,7 +119,7 @@ There is **no waiting list and no booking**: Paolo removed both from the whole s
 
 ## Repo cruft — do not treat as source
 
-`lista.txt` (UTF-16 file listing) and `PULIZIA-FILE-VECCHI.bat` are leftovers from the site migration. Delivery notes (`LEGGIMI-*`) are not kept in the repo: current rules live only in this file and in COME-SI-SCRIVE. `FILE-NON-USATI.md` is a dated snapshot of unused static files and is no longer accurate. `public/` is gitignored but present locally.
+Delivery notes (`LEGGIMI-*`) are not kept in the repo: current rules live only in this file and in COME-SI-SCRIVE. Static files no page links to are moved to `_archivio/` (gitignored: they stay on Paolo's disk, out of git and off the site), never deleted. `archivia-immagini.ps1`, `archivia-backup.ps1` and `elimina-zip.ps1` are one-shot cleanup scripts already run. `public/` is gitignored but present locally.
 
 ## Share cards (og:image) for articles
 

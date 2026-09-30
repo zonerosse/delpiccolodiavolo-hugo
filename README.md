@@ -1,60 +1,62 @@
 # Del Piccolo Diavolo — sito Hugo
 
 Sito di delpiccolodiavolo.it, allevamento di Staffordshire Bull Terrier a Ostellato (FE).
-Hugo multilingua in tre lingue: italiano, inglese, tedesco. Pubblicato su Cloudflare Pages.
+Hugo extended 0.152.2, tre lingue (italiano senza prefisso, `/en/`, `/de/`), pubblicato su Cloudflare Pages.
+
+Due file vanno letti prima di mettere mano al sito:
+
+- `CLAUDE.md` — architettura tecnica: modelli, segnaposto, schema, output per gli agenti AI
+- `COME-SI-SCRIVE.md` — criteri editoriali: come si scrivono pagine, articoli e FAQ
+
+Questo README è solo la mappa.
 
 ## Struttura del progetto
 
 ```
 delpiccolodiavolo-hugo/
-├── hugo.toml                    # configurazione: lingue, parametri, output
+├── hugo.toml                    # lingue, parametri, recensioni Google, foto hero a rotazione, output
 ├── content/
-│   ├── it/                      # 48 pagine italiane (lingua principale, senza /it/ nell'URL)
-│   ├── en/                      # 46 pagine inglesi
-│   ├── de/                      # 46 pagine tedesche
-│   └── */diario-allevamento/    # le cucciolate, una pagina ciascuna
+│   ├── it/  en/  de/            # 52 / 50 / 50 pagine, collegate fra lingue da translationKey
+│   └── */diario-allevamento/    # le cucciolate, una pagina ciascuna (unica sezione vera)
 ├── layouts/
 │   ├── _default/
-│   │   ├── baseof.html          # struttura comune: head, meta, Open Graph
-│   │   ├── single.html          # pagine normali
+│   │   ├── baseof.html          # head, meta, Open Graph, hreflang
+│   │   ├── single.html          # pagine e articoli
 │   │   ├── single.md            # versione Markdown di ogni pagina, per gli agenti AI
-│   │   └── sitemap.xml          # sitemap; esclude le pagine con noindex
-│   ├── diario-allevamento/
-│   │   ├── list.html            # indice del diario
-│   │   └── single.html          # scheda di una cucciolata
-│   ├── partials/
-│   │   ├── header.html          # navigazione e selettore di lingua
-│   │   ├── footer.html
-│   │   ├── css.html             # incorpora assets/css/main.css nella pagina
-│   │   ├── schema.html          # tutti i dati strutturati JSON-LD
-│   │   ├── breadcrumb.html
-│   │   ├── correlati.html       # sostituisce <!--CORRELATI--> nel contenuto
-│   │   ├── ultima-cucciolata.html
-│   │   ├── hero-foto.html
-│   │   └── prenota.html         # modulo di prenotazione, sostituisce <!--PRENOTA-->
-│   ├── index.html               # homepage
+│   │   ├── single.rssprogramma.xml  # feed RSS del programma di allevamento
+│   │   ├── segui.html           # pagina "Segui le cucciolate"
+│   │   └── sitemap.xml          # esclude le pagine noindex
+│   ├── diario-allevamento/      # indice e scheda di una cucciolata
+│   ├── partials/                # header, footer, schema JSON-LD, hero, correlati,
+│   │                            # recenti, guide cucciolo, ultima cucciolata, modulo contatto
+│   ├── shortcodes/rimando.html  # scheda con foto verso una pagina importante
+│   ├── index.html  index.md     # home, in HTML e in Markdown
 │   ├── index.headers            # genera public/_headers (cache e sicurezza)
-│   ├── index.md                 # versione Markdown della home
+│   ├── index.llmstxt.txt        # genera llms.txt da assets/llms/<lingua>.txt
 │   ├── index.llmsfull.txt       # genera llms-full.txt
 │   ├── robots.txt
 │   └── 404.html
 ├── assets/
-│   └── css/main.css             # unico foglio di stile, incorporato nelle pagine
+│   ├── css/main.css             # unico foglio di stile, incorporato nelle pagine
+│   └── llms/it.txt en.txt de.txt
 ├── static/                      # copiato così com'è nel sito pubblicato
-│   ├── images/                  # foto (avif e webp)
-│   ├── videos/                  # video delle cucciolate
-│   ├── docs/                    # referti e guide in PDF
-│   ├── blog/  foto/             # immagini più vecchie
+│   ├── images/                  # foto, icone del blog, schede di condivisione (og/)
+│   ├── videos/  docs/  foto/    # video delle cucciolate, referti e PDF
 │   ├── _redirects               # redirect di Cloudflare Pages
-│   ├── llms.txt  en/  de/       # indice del sito per gli agenti AI
-│   ├── manifest.json  favicon*  # icone e PWA
+│   ├── manifest.json  favicon*
 │   └── <chiave>.txt             # chiave IndexNow
-├── i18n/
-│   └── it.toml  en.toml  de.toml
-├── .githooks/pre-commit         # aggiorna lastmod nelle pagine modificate
-├── .github/workflows/           # IndexNow e ricostruzione settimanale
-└── apps-script-prenotazioni.gs  # codice Google Apps Script del modulo
+├── i18n/it.toml en.toml de.toml # etichette brevi (menu, footer, WhatsApp)
+├── tools/
+│   ├── controlli/verifica.py    # controllo completo del sito, prima di ogni consegna
+│   ├── lastmod/aggiorna.py      # allinea lastmod all'ultima modifica del testo
+│   ├── schede-og/genera.py      # schede di condivisione e icone degli articoli
+│   └── parole-chiave/volumi.py  # volumi di ricerca da DataForSEO
+├── .githooks/pre-commit         # aggiorna lastmod nelle pagine del commit
+├── .github/workflows/           # IndexNow dopo ogni push, ricostruzione del lunedì
+└── apps-script-prenotazioni.gs  # codice del modulo contatto (va incollato in Apps Script)
 ```
+
+`_archivio/` sta solo sul disco, fuori da git: lì finiscono i file che nessuna pagina usa più.
 
 ## Avviare il sito in locale
 
@@ -65,44 +67,44 @@ hugo server
 
 Poi apri http://localhost:1313. Il sito si aggiorna a ogni salvataggio.
 
-## Prima di pubblicare, sempre
+## Il controllo prima di pubblicare
 
 ```powershell
-hugo --gc --minify --cleanDestinationDir
+python tools/controlli/verifica.py
 ```
 
-`--cleanDestinationDir` serve davvero: senza, Hugo lascia in `public/` le pagine
-cancellate, che finiscono online un'altra volta.
-
-Se il comando dà errore, **fermati**: un errore qui è un deploy fallito su
-Cloudflare. Il caso più frequente è l'indentazione dentro `custom_content`.
+Compila il sito e fa 45 controlli: link, hreflang, canonical, schema, FAQ, tre
+lingue allineate, lastmod, parole chiave, regole di COME-SI-SCRIVE. Gli ERRORI
+devono essere 0. Gli AVVISI sono regole editoriali: si decide caso per caso, e
+quelli accettati vanno in `tools/controlli/eccezioni.txt`.
 
 ## Come sono fatte le pagine
 
-Ogni pagina è un file `.md` con il frontmatter fra `---` e il contenuto HTML
-dentro `custom_content`. I campi che contano:
+Quasi tutte le pagine hanno il corpo vuoto e l'HTML dentro `custom_content` nel
+front matter. I campi che contano:
 
-- `title` — titolo della pagina
-- `titleSeo` — titolo per i motori di ricerca, se diverso; ha la precedenza
-- `description` — massimo 165 caratteri, finisce nello snippet di Google
+- `title`, `titleSeo` — titolo; `titleSeo` ha la precedenza per `<title>` e anteprime
+- `description` — fra 140 e 165 caratteri
 - `slug` — l'indirizzo della pagina
-- `translationKey` — collega fra loro le tre versioni linguistiche
-- `lastmod` — data, aggiornata dall'hook a ogni commit
-- `noindex: true` — pagina fuori dalla sitemap e dai risultati di ricerca
-- `tipoPagina` — tipo di dato strutturato (WebPage, CollectionPage, ProfilePage…)
+- `translationKey` — collega le tre versioni linguistiche: senza, niente hreflang
+- `lastmod` — data dell'ultima modifica del testo visibile
+- `noindex: true` — fuori dalla sitemap e dai risultati di ricerca
+- `fonti_motivo` — perché la pagina non cita fonti esterne, quando non le cita
+- `og_image`, `og_image_alt`, `thumb` — scheda di condivisione e icona dell'articolo
 
 **Attenzione all'indentazione.** Tutto ciò che sta dentro `custom_content: |`
 va rientrato di due spazi. Una riga a colonna zero chiude il blocco e il build
 si ferma con "could not find expected ':'".
 
-Nel contenuto si possono usare tre segnaposto, che Hugo sostituisce da sé:
-`<!--CORRELATI-->`, `<!--CUCCIOLATA-->`, `<!--PRENOTA-->`.
+I segnaposto (`<!--CORRELATI-->`, `<!--RECENTI-->`, `<!--GUIDE-->`,
+`<!--REC-TOTALE-->`…) e i modelli in cui funzionano sono in `CLAUDE.md`.
 
 ## Aggiungere una pagina
 
-1. Crea `content/it/nuova-pagina.md` copiando la struttura da una esistente
-2. Metti lo stesso `translationKey` nelle versioni `en/` e `de/`
+1. Crea la pagina nelle tre lingue insieme, con lo stesso `translationKey` e la stessa struttura
+2. Se è un articolo, aggiungilo alla pagina blog delle tre lingue e genera scheda e icona con `tools/schede-og/genera.py`
 3. Se l'indirizzo sostituisce quello di una pagina vecchia, aggiungi il redirect
+4. Lancia `verifica.py`
 
 ## Redirect: l'ordine conta
 
@@ -117,7 +119,9 @@ Stesso limite per `layouts/index.headers`: massimo 100 regole.
 
 Il push su `main` fa partire da solo il build su Cloudflare Pages
 (build command `hugo`, output `public`). Poi il workflow IndexNow segnala le
-pagine a Bing, da cui pesca ChatGPT quando naviga.
+pagine cambiate a Bing, da cui pesca ChatGPT quando naviga. Ogni lunedì un
+secondo workflow fa ricompilare il sito, così la foto della home cambia anche
+senza modifiche.
 
 ```powershell
 git add -A
@@ -125,17 +129,12 @@ git commit -m "descrizione della modifica"
 git push
 ```
 
-L'hook in `.githooks/pre-commit` aggiorna `lastmod` nelle pagine del commit.
-Va attivato una volta per ogni copia del repository:
-
-```powershell
-git config core.hooksPath .githooks
-```
-
 ## Cose da sapere
 
 - Il CSS è uno solo, `assets/css/main.css`, incorporato nella pagina: nessun file esterno da scaricare
-- I dati strutturati stanno tutti in `layouts/partials/schema.html`
-- Le anteprime social usano `static/images/og-default.jpg`, in JPEG: AVIF non è supportato da Facebook e LinkedIn
-- Cloudflare clona il repository senza storia, quindi `enableGitInfo` non ricava le date: per questo `lastmod` sta nel frontmatter
+- I dati strutturati stanno in `layouts/partials/schema.html`; indirizzo e coordinate sono ripetuti in `hugo.toml`, vanno cambiati in tutti e due
+- Voto e numero delle recensioni Google si cambiano solo in `hugo.toml` (`recensioniVoto`, `recensioniTotale`)
+- Le anteprime social sono JPEG: AVIF non è supportato da Facebook e LinkedIn
+- Cloudflare clona il repository senza storia, quindi `enableGitInfo` non ricava le date: per questo `lastmod` sta nel front matter
+- Su Cloudflare una regola di trasformazione ("Markdown per agenti AI") consegna la versione `index.md` a chi la chiede con `Accept: text/markdown`; i dettagli sono in `CLAUDE.md`
 - Nel pannello Cloudflare, **TTL cache browser** deve restare su "Rispetta intestazioni esistenti", altrimenti sovrascrive `_headers`
