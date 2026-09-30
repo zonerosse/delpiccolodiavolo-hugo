@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier e Bambini: Convivenza Sicura"
 date: 2024-05-28
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "bambini"
 articolo: true
 image: "/images/blog/famiglia-1.webp"
@@ -116,7 +116,7 @@ custom_content: |
   <h3>Segnali di escalation (allontana bambino immediatamente)</h3>
   
   <ul>
-  <li><strong>Ringhio</strong> (mai punire - è avvertimento prezioso!)</li>
+  <li><strong>Ringhio</strong> (mai punire - è avvertimento prezioso)</li>
   <li><strong>Mostrare denti</strong> (labbro sollevato)</li>
   <li><strong>Snap nell'aria</strong> (morso a vuoto intenzionale)</li>
   <li><strong>Fissare intensamente</strong> con corpo rigido</li>
@@ -223,7 +223,7 @@ custom_content: |
   
   <div class="info-box">
   <p class="info-box-title">💡 Regola dei 5 minuti</p>
-  <p>Per bambini sotto 6 anni: interazioni attive max 5 minuti, poi pausa obbligatoria. Cane e bambino si stancano entrambi - meglio sessioni brevi e positive che lunghe e stressanti. Se tutto va bene: "Bravissimi! Pausa merenda, poi giochiamo ancora."</p>
+  <p>Per bambini sotto 6 anni: interazioni attive max 5 minuti, poi pausa obbligatoria. Cane e bambino si stancano entrambi - meglio sessioni brevi e positive che lunghe e stressanti. Se tutto va bene: "Bravissimi. Pausa merenda, poi giochiamo ancora."</p>
   </div>
   
   <h2>Primo Incontro Cucciolo-Bambini</h2>

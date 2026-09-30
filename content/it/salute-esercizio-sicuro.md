@@ -64,7 +64,7 @@ custom_content: |
   
   <div class="callout">
   <p class="callout-title">🏆 La nostra esperienza</p>
-  <p>In vent'anni con la razza abbiamo visto che gli Staffy con routine di esercizio regolare mostrano <strong>meno problemi comportamentali, migliore gestione dello stress</strong> e una convivenza familiare più serena. Un cane stanco è un cane felice!</p>
+  <p>In vent'anni con la razza abbiamo visto che gli Staffy con routine di esercizio regolare mostrano <strong>meno problemi comportamentali, migliore gestione dello stress</strong> e una convivenza familiare più serena. Un cane stanco è un cane felice.</p>
   </div>
   
   <h2>Esercizio per Cuccioli: La Regola dei 5 Minuti</h2>
@@ -174,7 +174,7 @@ custom_content: |
   <h3>Sintomi del colpo di calore</h3>
   
   <div class="alert">
-  <p class="alert-title">🚨 Riconosci i segnali - Agisci subito!</p>
+  <p class="alert-title">🚨 Riconosci i segnali - Agisci subito</p>
   <ul>
   <li>Ansimazione eccessiva e rumorosa</li>
   <li>Salivazione abbondante, bava densa</li>
@@ -184,7 +184,7 @@ custom_content: |
   <li>Confusione, disorientamento</li>
   <li>Collasso, convulsioni, perdita di coscienza</li>
   </ul>
-  <p><strong>EMERGENZA:</strong> Raffredda gradualmente con acqua fresca (non ghiacciata) e vai SUBITO dal veterinario!</p>
+  <p><strong>EMERGENZA:</strong> Raffredda gradualmente con acqua fresca (non ghiacciata) e vai SUBITO dal veterinario.</p>
   </div>
   
   <h3>Regole estive per l'esercizio</h3>

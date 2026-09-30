@@ -143,7 +143,7 @@ custom_content: |
   <ol>
   <li>Usa <strong>pinzette specifiche</strong> per zecche (a uncino o con leva) o un rimuovi-zecche</li>
   <li>Afferra la zecca il più vicino possibile alla cute del cane</li>
-  <li>Tira <strong>lentamente e costantemente</strong> perpendicolare alla cute (non ruotare!)</li>
+  <li>Tira <strong>lentamente e costantemente</strong> perpendicolare alla cute (non ruotare)</li>
   <li>Non schiacciare il corpo della zecca (rischio rigurgito di patogeni)</li>
   <li>Disinfetta la zona con clorexidina o iodopovidone</li>
   <li>Conserva la zecca in un barattolo con alcol (eventuale identificazione)</li>

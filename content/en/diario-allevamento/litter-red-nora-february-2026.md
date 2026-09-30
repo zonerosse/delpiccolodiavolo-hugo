@@ -11,7 +11,7 @@ image: "/images/red.avif"
 ---
 
 <div style="background:#c9a227;color:#1a1a1a;padding:1rem 1.5rem;border-radius:8px;margin-bottom:2rem;text-align:center">
-<strong>🎉 BORN FEBRUARY 9, 2026!</strong><br>
+<strong>🎉 BORN FEBRUARY 9, 2026</strong><br>
 Brindle and red &amp; white puppies — <strong>Not available</strong>
 </div>
 

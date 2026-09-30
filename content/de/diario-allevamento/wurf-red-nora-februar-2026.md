@@ -11,7 +11,7 @@ image: "/images/red.avif"
 ---
 
 <div style="background:#c9a227;color:#1a1a1a;padding:1rem 1.5rem;border-radius:8px;margin-bottom:2rem;text-align:center">
-<strong>🎉 GEBOREN AM 9. FEBRUAR 2026!</strong><br>
+<strong>🎉 GEBOREN AM 9. FEBRUAR 2026</strong><br>
 Gestromte und rot-weiße Welpen — <strong>Nicht verfügbar</strong>
 </div>
 

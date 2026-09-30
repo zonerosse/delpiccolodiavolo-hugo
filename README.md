@@ -73,7 +73,7 @@ Poi apri http://localhost:1313. Il sito si aggiorna a ogni salvataggio.
 python tools/controlli/verifica.py
 ```
 
-Compila il sito e fa 45 controlli: link, hreflang, canonical, schema, FAQ, tre
+Compila il sito e fa 46 controlli: link, hreflang, canonical, schema, FAQ, tre
 lingue allineate, lastmod, parole chiave, regole di COME-SI-SCRIVE. Gli ERRORI
 devono essere 0. Gli AVVISI sono regole editoriali: si decide caso per caso, e
 quelli accettati vanno in `tools/controlli/eccezioni.txt`.

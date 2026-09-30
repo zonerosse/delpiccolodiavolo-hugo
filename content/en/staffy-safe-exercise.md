@@ -53,7 +53,7 @@ custom_content: |
   </ul>
   <div class="callout">
   <p class="callout-title">🏆 Our experience</p>
-  <p>In twenty years with the breed we have seen that Staffies with a regular exercise routine show <strong>fewer behaviour problems, better stress management</strong> and a calmer family life. A tired dog is a happy dog!</p>
+  <p>In twenty years with the breed we have seen that Staffies with a regular exercise routine show <strong>fewer behaviour problems, better stress management</strong> and a calmer family life. A tired dog is a happy dog.</p>
   </div>
 
   <h2>Exercise for puppies: the five-minute rule</h2>
@@ -140,7 +140,7 @@ custom_content: |
   </ul>
   <h3>Signs of heatstroke</h3>
   <div class="alert">
-  <p class="alert-title">🚨 Recognise the signs - act at once!</p>
+  <p class="alert-title">🚨 Recognise the signs - act at once</p>
   <ul>
   <li>Excessive, noisy panting</li>
   <li>Heavy drooling, thick saliva</li>
@@ -150,7 +150,7 @@ custom_content: |
   <li>Confusion, disorientation</li>
   <li>Collapse, seizures, loss of consciousness</li>
   </ul>
-  <p><strong>EMERGENCY:</strong> cool the dog gradually with fresh (not iced) water and go to the vet IMMEDIATELY!</p>
+  <p><strong>EMERGENCY:</strong> cool the dog gradually with fresh (not iced) water and go to the vet IMMEDIATELY.</p>
   </div>
   <h3>Summer rules for exercise</h3>
   <ul>

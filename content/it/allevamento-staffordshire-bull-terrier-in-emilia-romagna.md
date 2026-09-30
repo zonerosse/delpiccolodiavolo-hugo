@@ -205,7 +205,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3>Cosa devo portare per la visita?</h3>
-  <p>Solo voi stessi e le vostre domande! Vi mostreremo tutto: genitori, cuccioli (se disponibili), certificati, pedigree e l'ambiente in cui vivono.</p>
+  <p>Solo voi stessi e le vostre domande. Vi mostreremo tutto: genitori, cuccioli (se disponibili), certificati, pedigree e l'ambiente in cui vivono.</p>
   </div>
 
   </div>

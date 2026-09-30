@@ -1,7 +1,7 @@
 ---
 title: "Igiene Orale e Denti Staffordshire Bull Terrier"
 date: 2024-06-18
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 translationKey: "denti"
 articolo: true
 image: "/images/blog/salute-2.webp"
@@ -268,7 +268,7 @@ custom_content: |
   <p class="callout-title">💰 Prevenzione vs Trattamento</p>
   <p><strong>Prevenzione:</strong> ~215€/anno (spazzolino, dentifricio, snack, detartrasi ogni 3 anni)<br>
   <strong>Nessuna prevenzione:</strong> 3.500-5.000€ in 10 anni (detartrasi annuali, estrazioni, farmaci)<br>
-  <em>La prevenzione costa la metà e garantisce un cane sano!</em></p>
+  <em>La prevenzione costa la metà e garantisce un cane sano.</em></p>
   </div>
   
   <div class="checklist">

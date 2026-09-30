@@ -229,6 +229,7 @@ if r.returncode == 0:
         ("alt", "Immagine senza attributo alt"),
         ("noopener", "Link che apre una nuova scheda senza rel=\"noopener\""),
         ("sitemap", "Sitemap: URL inesistenti o pagine noindex"),
+        ("sitemap_forma", "Sitemap di una lingua mancante, vuota o sostituita dall'indice"),
         ("llms", "llms.txt: articoli assenti o link rotti"),
     ]:
         registra(cod, "ERRORE", tit)
@@ -621,6 +622,32 @@ if r.returncode == 0:
                 ph = dest + loc.rstrip("/") + "/index.html"
                 if os.path.isfile(ph) and re.search(r'name="?robots"?[^>]*noindex', open(ph, encoding="utf-8").read()[:5000]):
                     segnala("sitemap", "ERRORE", "", sm[len(dest):], f"{loc} e' noindex")
+
+    # forma delle sitemap
+    # Hugo scrive /sitemap.xml due volte nella stessa build: prima l'indice
+    # delle sitemap (sitemapindex), poi la sitemap delle pagine italiane,
+    # perche' l'italiano sta nella radice. Oggi vince la seconda, ed e' quella
+    # che servono robots.txt e il workflow IndexNow. Hugo lo segnala solo con
+    # --printPathWarnings, quindi qui si controlla il risultato: ogni lingua
+    # deve avere la sua sitemap, fatta di pagine (urlset) e solo della sua lingua.
+    # Se un giorno vincesse l'indice, le pagine italiane sparirebbero da qui.
+    for lingua in LINGUE:
+        pre = "" if lingua == "it" else "/" + lingua
+        sm = dest + pre + "/sitemap.xml"
+        dove = pre + "/sitemap.xml"
+        if not os.path.isfile(sm):
+            segnala("sitemap_forma", "ERRORE", "", dove, "manca"); continue
+        x = open(sm, encoding="utf-8").read()
+        if "<sitemapindex" in x or "<urlset" not in x:
+            segnala("sitemap_forma", "ERRORE", "", dove, "e' un indice di sitemap, non l'elenco delle pagine"); continue
+        locs = re.findall(r"<loc>https?://" + re.escape(DOMINIO) + r"([^<]*)</loc>", x)
+        if not locs:
+            segnala("sitemap_forma", "ERRORE", "", dove, "nessuna pagina"); continue
+        altre = ["/" + l + "/" for l in LINGUE if l != "it"]
+        fuori = [u for u in locs if (lingua == "it" and any(u.startswith(a) for a in altre))
+                 or (lingua != "it" and not u.startswith(pre + "/"))]
+        if fuori:
+            segnala("sitemap_forma", "ERRORE", "", dove, f"{len(fuori)} pagine di un'altra lingua, es. {fuori[0]}")
 
     # llms.txt
     for lingua in LINGUE:

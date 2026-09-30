@@ -213,7 +213,7 @@ custom_content: |
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem">
   <h3>ENCI Italienischer Jugendchampion</h3>
   <p><a href="/de/rueden-staffordshire-bull-terrier/" title="Unsere Rüden">Lothar</a> hat den Titel des Italienischen Jugendchampions mit einer beeindruckenden Serie von Ergebnissen in der Jugendklasse gewonnen. Jetzt in der Zwischenklasse, setzt er seine Ausstellungskarriere fort.</p>
-  <p><strong>Januar 2026:</strong> neuer Slowenischer Champion! Ein außergewöhnliches Wochenende auf den internationalen Ausstellungen in Vrtojba mit 3 × Vorzüglich 1, womit der slowenische Titel vollständig ist.</p>
+  <p><strong>Januar 2026:</strong> neuer Slowenischer Champion. Ein außergewöhnliches Wochenende auf den internationalen Ausstellungen in Vrtojba mit 3 × Vorzüglich 1, womit der slowenische Titel vollständig ist.</p>
   
   <h3 style="margin-top:2rem;margin-bottom:1rem">Vollständige Ergebnisse</h3>
   

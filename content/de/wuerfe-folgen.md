@@ -1,6 +1,6 @@
 ---
 title: "Unseren Würfen folgen"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 titleSeo: "Den Würfen unseres Zuchtprogramms folgen"
 date: 2026-09-28
 description: "Wie Sie den geplanten Würfen der Zucht Del Piccolo Diavolo mit einem RSS-Feedreader folgen, ohne soziale Netzwerke und ohne Ihre E-Mail-Adresse anzugeben."
@@ -12,7 +12,7 @@ outputs: ["HTML"]
 fonte: "/wuerfe-staffordshire-bull-terrier"
 eyebrow: "Zuchtprogramm"
 h1: "Unseren <em>Würfen</em> folgen"
-lead: "<strong>Bleiben Sie über geplante Würfe auf dem Laufenden!!</strong> Ein Feedreader meldet sich jedes Mal, wenn wir einen Wurf ins Programm aufnehmen, ohne soziale Netzwerke und ohne dass Sie uns Ihre E-Mail-Adresse geben müssen."
+lead: "<strong>Bleiben Sie über geplante Würfe auf dem Laufenden.</strong> Ein Feedreader meldet sich jedes Mal, wenn wir einen Wurf ins Programm aufnehmen, ohne soziale Netzwerke und ohne dass Sie uns Ihre E-Mail-Adresse geben müssen."
 scegli: "Wählen Sie, wie Sie uns folgen"
 feedly: "Auf Feedly folgen"
 inoreader: "Auf Inoreader folgen"

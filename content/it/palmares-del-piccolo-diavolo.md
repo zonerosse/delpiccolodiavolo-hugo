@@ -250,7 +250,7 @@ custom_content: |
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
   <h3>Giovane Campione Italiano ENCI + Campione Sloveno 🇸🇮</h3>
   <p>Lothar ha conquistato il titolo di Giovane Campione Italiano con una serie impressionante di risultati in Classe Giovani. Ora in Classe Intermedia, continua a collezionare successi nei ring di tutta Europa.</p>
-  <p><strong>Gennaio 2026:</strong> Nuovo Campione Sloveno! Weekend straordinario alle esposizioni internazionali di Vrtojba con 3 Eccellente 1°, completando il titolo sloveno.</p>
+  <p><strong>Gennaio 2026:</strong> Nuovo Campione Sloveno. Weekend straordinario alle esposizioni internazionali di Vrtojba con 3 Eccellente 1°, completando il titolo sloveno.</p>
   </div>
   </div>
   </div>

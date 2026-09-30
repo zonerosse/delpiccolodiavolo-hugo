@@ -214,7 +214,7 @@ custom_content: |
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem">
   <h3>ENCI Junior Italian Champion</h3>
   <p>Lothar won the Junior Italian Champion title with an impressive series of results in Junior Class. Now in Intermediate Class, he continues his show career collecting Excellent qualifications and CAC.</p>
-  <p><strong>January 2026:</strong> new Slovenian Champion! An outstanding weekend at the international shows in Vrtojba, with 3 Excellent 1st, completing the Slovenian title.</p>
+  <p><strong>January 2026:</strong> new Slovenian Champion. An outstanding weekend at the international shows in Vrtojba, with 3 Excellent 1st, completing the Slovenian title.</p>
   </div>
   </div>
   </div>

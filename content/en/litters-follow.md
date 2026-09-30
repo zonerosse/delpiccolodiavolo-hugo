@@ -1,6 +1,6 @@
 ---
 title: "Follow our litters"
-lastmod: 2026-09-29
+lastmod: 2026-09-30
 titleSeo: "Follow the litters of our breeding programme"
 date: 2026-09-28
 description: "How to follow the planned litters of the Del Piccolo Diavolo kennel with an RSS feed reader, without social media and without giving your email address."
@@ -12,7 +12,7 @@ outputs: ["HTML"]
 fonte: "/litters-staffordshire-bull-terrier"
 eyebrow: "Breeding programme"
 h1: "Follow our <em>litters</em>"
-lead: "<strong>Stay up to date on our planned litters!!</strong> A feed reader lets you know every time we add a litter to the programme, without social media and without giving us your email address."
+lead: "<strong>Stay up to date on our planned litters.</strong> A feed reader lets you know every time we add a litter to the programme, without social media and without giving us your email address."
 scegli: "Choose how to follow us"
 feedly: "Follow on Feedly"
 inoreader: "Follow on Inoreader"
