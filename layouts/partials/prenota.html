@@ -4,10 +4,13 @@
   Etichette in italiano, inglese e tedesco sulla stessa riga, così una sola
   pagina serve a chiunque scriva.
   Richiede in hugo.toml:  [params] listaAttesaEndpoint = "https://script.google.com/.../exec"
+  Le richieste vanno anche nella Lista d'attesa del gestionale (gestionaleRichieste, facoltativo:
+  di base https://gestionale.delpiccolodiavolo.it/api/public/richiesta).
   Segnaposto da inserire nel custom_content: <!--PRENOTA-->
 */}}
 {{- $ep := .Site.Params.listaAttesaEndpoint -}}
 {{- $wa := .Site.Params.whatsapp | default "393924635584" -}}
+{{- $gest := .Site.Params.gestionaleRichieste | default "https://gestionale.delpiccolodiavolo.it/api/public/richiesta" -}}
 
 
 {{- if $ep }}
@@ -115,7 +118,10 @@
     ev.preventDefault();
     var dove=(f.ritorno && f.ritorno.value) ? f.ritorno.value : '/contatto-grazie/';
     var vaiAvanti=function(){ window.location.href=dove; };
-    fetch(f.action,{method:'POST',mode:'no-cors',body:new URLSearchParams(new FormData(f))})
+    var dati=new URLSearchParams(new FormData(f));
+    /* copia anche nella Lista d'attesa del gestionale: se non risponde, non blocca niente */
+    try{ fetch('{{ $gest }}',{method:'POST',mode:'no-cors',body:new URLSearchParams(dati)}).catch(function(){}); }catch(e){}
+    fetch(f.action,{method:'POST',mode:'no-cors',body:dati})
       .then(vaiAvanti)
       .catch(function(){ f.submit(); });
     setTimeout(vaiAvanti,6000);
