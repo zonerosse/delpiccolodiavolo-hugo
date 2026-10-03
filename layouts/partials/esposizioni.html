@@ -1,0 +1,70 @@
+{{- /*
+  Risultati in esposizione dal gestionale (gestionale.delpiccolodiavolo.it).
+  - Testo vero della pagina: data/esposizioni.json, che arriva con "Prepara per il sito" del gestionale
+    (zip delpiccolodiavolo-esposizioni.zip). Google e le IA leggono questo.
+  - In automatico: lo script legge /api/public/esposizioni e aggiunge i risultati più nuovi, non ancora nel file.
+  Uso nel testo delle pagine: <!--ESPOSIZIONI--> (Palmarès, tutti i cani, ultimi 12)
+  e <!--ESPOSIZIONI:id-del-cane-nel-gestionale--> (sotto il cane, ultimi 6). Niente giudizi né foto.
+*/ -}}
+{{- $p := .p -}}{{- $k := .k | default "" -}}{{- $L := $p.Site.Language.Lang -}}
+{{- $max := cond (eq $k "") 12 6 -}}
+{{- $api := $p.Site.Params.gestionaleEsposizioni | default "https://gestionale.delpiccolodiavolo.it/api/public/esposizioni" -}}
+{{- $tr := dict
+  "en" (dict "Nazionale (CAC)" "National show (CAC)" "Internazionale (CACIB)" "International show (CACIB)" "Raduno" "Breed show" "Speciale" "Specialty show" "Club Show" "Club show" "Altro" "Show"
+    "Baby" "Baby" "Juniores" "Puppy" "Giovani" "Junior" "Intermedia" "Intermediate" "Libera" "Open" "Lavoro" "Working" "Campioni" "Champion" "Veterani" "Veteran"
+    "Eccellente" "Excellent" "Molto Buono" "Very Good" "Buono" "Good" "Sufficiente" "Sufficient" "Molto Promettente" "Very Promising" "Promettente" "Promising" "Poco Promettente" "Less Promising" "Squalificato" "Disqualified" "Non giudicabile" "Cannot be judged"
+    "Ris. CAC" "Res. CAC" "Ris. CACIB" "Res. CACIB" "Miglior Giovane" "Best Junior"
+    "_giudice" "Judge" "_classe" "Class" "_titolo" "Latest show results" "_lab" "Show results" "_h2" "Our dogs' latest results")
+  "de" (dict "Nazionale (CAC)" "Nationale Ausstellung (CAC)" "Internazionale (CACIB)" "Internationale Ausstellung (CACIB)" "Raduno" "Zuchtschau" "Speciale" "Spezialausstellung" "Club Show" "Clubschau" "Altro" "Ausstellung"
+    "Baby" "Babyklasse" "Juniores" "Jüngstenklasse" "Giovani" "Jugendklasse" "Intermedia" "Zwischenklasse" "Libera" "Offene Klasse" "Lavoro" "Gebrauchshundklasse" "Campioni" "Championklasse" "Veterani" "Veteranenklasse"
+    "Eccellente" "Vorzüglich" "Molto Buono" "Sehr gut" "Buono" "Gut" "Sufficiente" "Genügend" "Molto Promettente" "Vielversprechend" "Promettente" "Versprechend" "Poco Promettente" "Wenig versprechend" "Squalificato" "Disqualifiziert" "Non giudicabile" "Nicht beurteilbar"
+    "Ris. CAC" "Res. CAC" "Ris. CACIB" "Res. CACIB" "Miglior Giovane" "Bester Junghund"
+    "_giudice" "Richter" "_classe" "" "_titolo" "Neueste Ausstellungsergebnisse" "_lab" "Ausstellungsergebnisse" "_h2" "Die neuesten Ergebnisse unserer Hunde")
+  "it" (dict "_giudice" "Giudice" "_classe" "Classe" "_titolo" "Ultimi risultati in esposizione" "_lab" "Risultati in esposizione" "_h2" "Gli ultimi risultati dei nostri cani")
+-}}
+{{- $t := index $tr $L | default (index $tr "it") -}}
+{{- $items := slice -}}
+{{- with $p.Site.Data.esposizioni -}}{{- range .items -}}{{- if or (eq $k "") (eq .dog $k) -}}{{- $items = $items | append . -}}{{- end -}}{{- end -}}{{- end -}}
+{{- $items = first $max (sort $items "date" "desc") -}}
+{{- $have := slice -}}{{- range $items -}}{{- $have = $have | append .id -}}{{- end -}}
+{{- if .first -}}
+<style>
+.espo-h{font-size:1rem;margin:1.2rem 0 .6rem;color:#5c4a3a}.espo-l{display:grid;gap:.6rem}
+.espo-r{background:#fff;border:1px solid #eadfce;border-radius:12px;padding:.8rem 1rem;text-align:left}
+.espo-r b.espo-dog{font-family:Georgia,serif;font-size:1.05rem;color:#4a3f35;display:block}
+.espo-m{color:#7a6a5a;font-size:.88rem}.espo-q{font-size:.95rem}
+.espo-t{display:flex;flex-wrap:wrap;gap:.3rem;margin-top:.35rem}.espo-t span{background:#5c4a3a;color:#fff;font-weight:700;font-size:.72rem;padding:.2rem .6rem;border-radius:999px}.espo-t span.g{background:#b8860b}
+</style>
+<script>
+(function(){if(window.__espo)return;window.__espo=1;
+var T={{ $tr | jsonify | safeJS }};
+function tr(L,x){return (T[L]&&T[L][x])||x}
+function d8(s){var a=(s||"").split("-");return a.length===3?a[2]+"/"+a[1]+"/"+a[0]:s}
+function esc(s){return String(s||"").replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]})}
+function row(L,x,all){return '<div class="espo-r" data-date="'+esc(x.date)+'">'+(all?'<b class="espo-dog">'+esc(x.dogName)+'</b>':'')+
+ '<div class="espo-m">'+esc(x.name)+' · '+d8(x.date)+(x.judge?' · '+tr(L,"_giudice")+' '+esc(x.judge):'')+'</div>'+
+ '<div class="espo-q">'+(x.cls?((T[L]&&T[L]._classe!==undefined?T[L]._classe:"Classe")?(T[L]&&T[L]._classe!==undefined?T[L]._classe:"Classe")+' ':'')+esc(tr(L,x.cls))+' · ':'')+'<strong>'+esc(tr(L,x.qual))+'</strong>'+(x.rank?' '+esc(x.rank):'')+'</div>'+
+ ((x.titles||[]).length?'<div class="espo-t">'+x.titles.map(function(t){return '<span'+(/^(CACIB|BOB|BIS|BIG)/.test(t)?' class="g"':'')+'>'+esc(tr(L,t))+'</span>'}).join("")+'</div>':'')+'</div>'}
+document.addEventListener("DOMContentLoaded",function(){var B=document.querySelectorAll(".espo");if(!B.length||!window.fetch)return;
+ fetch({{ $api }},{mode:"cors"}).then(function(r){return r.ok?r.json():null}).then(function(j){if(!j||!j.items)return;
+  B.forEach(function(b){var k=b.getAttribute("data-espo"),L=b.getAttribute("data-lang"),mx=+b.getAttribute("data-max"),have=(b.getAttribute("data-have")||"").split(","),
+   l=b.querySelector(".espo-l"),n=j.items.filter(function(x){return (!k||x.dog===k)&&have.indexOf(x.id)<0});if(!n.length)return;
+   n.forEach(function(x){l.insertAdjacentHTML("beforeend",row(L,x,!k))});
+   var R=[].slice.call(l.children).sort(function(a,c){return (c.getAttribute("data-date")||"").localeCompare(a.getAttribute("data-date")||"")});
+   R.forEach(function(r,i){if(i<mx)l.appendChild(r);else r.remove()});b.hidden=false;var sc=b.closest(".espo-sec");if(sc)sc.hidden=false})}).catch(function(){})})})();
+</script>
+{{- end -}}
+{{- if eq $k "" }}<section class="section espo-sec"{{ if not $items }} hidden{{ end }}><div class="section-inner"><span class="section-label">{{ index $t "_lab" }}</span><h2 class="section-title">{{ index $t "_h2" }}</h2>{{ end }}
+<div class="espo" data-espo="{{ $k }}" data-lang="{{ $L }}" data-max="{{ $max }}" data-have="{{ delimit $have "," }}"{{ if not $items }} hidden{{ end }}>
+{{- if ne $k "" }}<p class="espo-h"><strong>{{ index $t "_titolo" }}</strong></p>{{ end }}
+<div class="espo-l">
+{{- range $items }}
+<div class="espo-r" data-date="{{ .date }}">{{ if eq $k "" }}<b class="espo-dog">{{ .dogName }}</b>{{ end }}
+<div class="espo-m">{{ .name }} · {{ replaceRE `^(\d{4})-(\d{2})-(\d{2})$` "$3/$2/$1" .date }}{{ with .judge }} · {{ index $t "_giudice" }} {{ . }}{{ end }}</div>
+<div class="espo-q">{{ with .cls }}{{ with index $t "_classe" }}{{ . }} {{ end }}{{ index $t . | default . }} · {{ end }}<strong>{{ index $t .qual | default .qual }}</strong>{{ with .rank }} {{ . }}{{ end }}</div>
+{{ with .titles }}<div class="espo-t">{{ range . }}<span{{ if findRE `^(CACIB|BOB|BIS|BIG)` . 1 }} class="g"{{ end }}>{{ index $t . | default . }}</span> {{ end }}</div>{{ end }}
+</div>
+{{- end }}
+</div>
+</div>
+{{- if eq $k "" }}</div></section>{{ end }}

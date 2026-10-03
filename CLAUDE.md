@@ -146,3 +146,14 @@ For articles with `og_image`, the Article JSON-LD `image` is the 1200x630 share 
 - The generic `hero-default.webp` must not be used as an article header.
 - Files are generated with `python3 tools/schede-og/genera.py --icone`.
 
+
+## Risultati in esposizione dal gestionale (ottobre 2026)
+- Nel gestionale (gestionale.delpiccolodiavolo.it) ogni esposizione ha l'interruttore "Sul sito".
+- **In automatico**: `layouts/partials/esposizioni.html` legge `https://gestionale.delpiccolodiavolo.it/api/public/esposizioni`
+  (param `gestionaleEsposizioni` per cambiarlo) e aggiunge i risultati più nuovi. Google e le IA non li vedono.
+- **Testo vero**: `data/esposizioni.json`, che arriva con "Prepara per il sito" del gestionale (zip `delpiccolodiavolo-esposizioni.zip`
+  da estrarre nella cartella del sito). È quello che leggono Google, le IA e la versione `.md` delle pagine.
+- Segnaposto nel testo: `<!--ESPOSIZIONI-->` nella pagina Palmarès (IT/EN/DE): il partial disegna tutta la sezione "Gli ultimi
+  risultati dei nostri cani" (ultimi 12), nascosta finché non c'è almeno un risultato (la mostra lo script se arriva in automatico) e `<!--ESPOSIZIONI:<id del cane nel gestionale>-->` dentro la scheda di ogni cane in Femmine/Maschi (ultimi 6;
+  bilquis, queen, croiolc, faiter, jackie, nutella, cattleya, nora, lothar, braveheart, papillon). Sostituiti in `single.html` e `single.md`.
+- Sul sito niente giudizi scritti né foto (scelta di Paolo). Classi, qualifiche e tipi tradotti in inglese e tedesco nel partial.

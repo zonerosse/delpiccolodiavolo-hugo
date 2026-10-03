@@ -77,6 +77,7 @@ custom_content: |
   <p><strong>Mutter:</strong> Skilful-dogs Nora</p>
   <p><strong>Besitzer:</strong> Sergio Patrucco</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4554911" target="_blank" rel="noopener" title="Stammbaum Lothar auf SBTPedigree" aria-label="Stammbaum Lothar auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
+  <!--ESPOSIZIONI:lothar-->
   </div>
   </div>
   </article>
@@ -97,6 +98,7 @@ custom_content: |
   <p><strong>Vater:</strong> Jackie Kennedy Great'n Glory</p>
   <p><strong>Mutter:</strong> Alport The Sandman</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2632698" target="_blank" rel="noopener" title="Stammbaum Braveheart auf SBTPedigree" aria-label="Stammbaum Braveheart auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
+  <!--ESPOSIZIONI:braveheart-->
   </div>
   </div>
   </article>
@@ -116,6 +118,7 @@ custom_content: |
   <p><strong>Vater:</strong> Jackie Kennedy Great'n Glory</p>
   <p><strong>Mutter:</strong> Alport The Sandman</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2609040" target="_blank" rel="noopener" title="Stammbaum Papillon auf SBTPedigree" aria-label="Stammbaum Papillon auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
+  <!--ESPOSIZIONI:papillon-->
   </div>
   </div>
   </article>

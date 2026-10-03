@@ -97,6 +97,7 @@ custom_content: |
   <a class="doc-link" href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" title="Scarica ecocardio Bilquis" aria-label="Scarica ecocardio Bilquis (si apre in una nuova scheda)">📄 Ecocardio Doppler</a>
   <a class="doc-link" href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Scarica le esposizioni di Bilquis dal Libro genealogico ENCI" aria-label="Scarica le esposizioni di Bilquis dal Libro genealogico ENCI (si apre in una nuova scheda)">📄 Esposizioni ENCI</a>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Vedi pedigree Bilquis su SBTPedigree" aria-label="Vedi pedigree Bilquis su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
+  <!--ESPOSIZIONI:bilquis-->
   </div>
   </div>
   </article>
@@ -125,6 +126,7 @@ custom_content: |
   <p><strong>Titolo:</strong> Giovane Campionessa Italiana — Albarella (RO), 17 maggio 2026. Cl. Giovani 1° Ecc, JCAC, JBOB, BOB. Miglior Staffy — Gruppo Cinofilo Polesano.</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Figlia di Minnie, e la sua fotocopia: non solo nella struttura, ma soprattutto nella testa. La stessa esuberanza, la stessa richiesta continua di attenzioni, la stessa pancia all'aria facile. Queen non vive con noi, ma la vediamo spesso e Manuela, la moglie del proprietario, ci racconta ogni giorno come sta: quando si dice che il carattere si eredita, &egrave; lei la prova che abbiamo sotto gli occhi.</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" title="Vedi pedigree Queen of California su SBTPedigree" aria-label="Vedi il pedigree completo della cucciolata su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
+  <!--ESPOSIZIONI:queen-->
   </div>
   </div>
   </article>
@@ -150,6 +152,7 @@ custom_content: |
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Esuberante. Ti straccia le gambe saltandoti addosso per avere attenzioni, poi ti lecca finch&eacute; non sei tu a stancarti. Anche lei ha la pancia all'aria facile.</p>
   <a class="doc-link" href="/docs/Minnie-GF.pdf" target="_blank" rel="noopener" title="Scarica test genetici Croi Olc" aria-label="Scarica test genetici Croi Olc (si apre in una nuova scheda)">📄 Test Genetici</a>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="Vedi pedigree Croi Olc su SBTPedigree" aria-label="Vedi pedigree Croi Olc su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
+  <!--ESPOSIZIONI:croiolc-->
   </div>
   </div>
   </article>
@@ -173,6 +176,7 @@ custom_content: |
   <p><strong>Madre:</strong> CH. Sonrisa Feliz Keely Lariel</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Ha il fuoco addosso, se glielo permetti: mai stanca, una rompiscatole vera. Poi arriva mio figlio e si trasforma &mdash; sale in poltrona e gioca a palla colpendola con il muso, come una foca.</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1775592" target="_blank" rel="noopener" title="Vedi pedigree Divine su SBTPedigree" aria-label="Vedi pedigree Divine su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
+  <!--ESPOSIZIONI:faiter-->
   </div>
   </div>
   </article>
@@ -197,6 +201,7 @@ custom_content: |
   <p><strong>Madre:</strong> CH. Mellowstaff by Great'n Glory</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Da vera tedesca non cede di un centimetro: sempre sul pezzo, con un caratterino tutto pepe. Ma rispettosa al punto da essere diventata la cagnolina dei miei genitori, che sono anziani. Vive con loro e li accompagna in ogni cosa: le passeggiate, il cortile, stendere i panni, portare fuori l'immondizia. E lo farebbe anche senza guinzaglio, se glielo lasciassimo fare: dai piedi di mia madre non si sposta di un metro.</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1054244" target="_blank" rel="noopener" title="Vedi pedigree Kennedy su SBTPedigree" aria-label="Vedi pedigree Kennedy su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
+  <!--ESPOSIZIONI:jackie-->
   </div>
   </div>
   </article>
@@ -222,6 +227,7 @@ custom_content: |
   <p><strong>Madre:</strong> Lackyle Duilleog Daracha</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> La vecchietta di casa, la capobranco. Controlla tutto e tutti e cerca di darsi un tono in ogni situazione, poi si rende conto di essere tutto sommato uno Staffy e non pu&ograve; fare a meno di farsi coccolare. Una rompiscatole che vuole sempre stare al centro dell'attenzione. Il suo cuscino sta sul tappeto di fianco al mio letto.</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=789829" target="_blank" rel="noopener" title="Vedi pedigree Derry su SBTPedigree" aria-label="Vedi pedigree Derry su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
+  <!--ESPOSIZIONI:nutella-->
   </div>
   </div>
   </article>
@@ -246,6 +252,7 @@ custom_content: |
   <p><strong>Madre:</strong> Foyleoak Maiden Derry</p>
   <p><strong>Proprietaria:</strong> Ricarda Mazzola Wagner</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4477342" target="_blank" rel="noopener" title="Vedi pedigree Cattleya su SBTPedigree" aria-label="Vedi pedigree Cattleya su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
+  <!--ESPOSIZIONI:cattleya-->
   </div>
   </div>
   </article>
@@ -273,6 +280,7 @@ custom_content: |
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> La chiamavamo Yoghi, come l'orso: un bulldozer senza freni, piena di energie, e in fondo un orsacchiotto da poltrona, da divano, o da letto se glielo lasciavi fare.</p>
   <a class="doc-link" href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" title="Scarica test genetici Nora" aria-label="Scarica test genetici Nora (si apre in una nuova scheda)">📄 Test Genetici</a>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="Vedi pedigree Nora su SBTPedigree" aria-label="Vedi pedigree Nora su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
+  <!--ESPOSIZIONI:nora-->
   </div>
   </div>
   </article>

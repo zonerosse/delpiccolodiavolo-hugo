@@ -89,6 +89,7 @@ custom_content: |
   <p><strong>Madre:</strong> Skilful-dogs Nora</p>
   <p><strong>Proprietario:</strong> Sergio Patrucco</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4554911" target="_blank" rel="noopener" title="Vedi pedigree Lothar su SBTPedigree" aria-label="Vedi pedigree Lothar su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
+  <!--ESPOSIZIONI:lothar-->
   </div>
   </div>
   </article>
@@ -109,6 +110,7 @@ custom_content: |
   <p><strong>Padre:</strong> Jackie Kennedy Great'n Glory</p>
   <p><strong>Madre:</strong> Alport The Sandman</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2632698" target="_blank" rel="noopener" title="Vedi pedigree Braveheart su SBTPedigree" aria-label="Vedi pedigree Braveheart su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
+  <!--ESPOSIZIONI:braveheart-->
   </div>
   </div>
   </article>
@@ -128,6 +130,7 @@ custom_content: |
   <p><strong>Padre:</strong> Jackie Kennedy Great'n Glory</p>
   <p><strong>Madre:</strong> Alport The Sandman</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2609040" target="_blank" rel="noopener" title="Vedi pedigree Papillon su SBTPedigree" aria-label="Vedi pedigree Papillon su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
+  <!--ESPOSIZIONI:papillon-->
   </div>
   </div>
   </article>

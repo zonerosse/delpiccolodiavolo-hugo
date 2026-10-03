@@ -50,6 +50,8 @@ custom_content: |
   <p style="text-align:center;margin-top:1rem">I nostri cuccioli nascono da questi soggetti. Visita la pagina <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli Staffordshire Bull Terrier</a> per conoscere le prossime cucciolate.</p>
   </div>
   </section>
+
+  <!--ESPOSIZIONI-->
   
 
   <section class="section">

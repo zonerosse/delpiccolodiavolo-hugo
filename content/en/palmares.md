@@ -49,6 +49,8 @@ custom_content: |
   <p style="text-align:center;margin-top:1rem">Our puppies are born from these dogs. Visit the <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies</a> page to find out about the next litters.</p>
   </div>
   </section>
+
+  <!--ESPOSIZIONI-->
   
   <section class="section section-alt">
   <div class="section-inner">

@@ -48,6 +48,8 @@ custom_content: |
   <p style="text-align:center;margin-top:1rem">Unsere Welpen stammen von diesen Hunden. Auf der Seite <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Staffordshire Bull Terrier Welpen</a> erfahren Sie mehr über die nächsten Würfe.</p>
   </div>
   </section>
+
+  <!--ESPOSIZIONI-->
   
   <section class="section section-alt">
   <div class="section-inner">

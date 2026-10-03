@@ -15,6 +15,11 @@
   {{ $c = replace $c "<!--RECENTI-->" (partial "recenti.html" .) }}
   {{ $c = replace $c "<!--GUIDE-->" (partial "guide-cucciolo.html" (dict "pagina" . "gruppo" "cucciolo")) }}
   {{ $c = replace $c "<!--PRENOTA-->" (partial "prenota.html" .) }}
+  {{/* Risultati in esposizione dal gestionale (vedi esposizioni.html): <!--ESPOSIZIONI--> e <!--ESPOSIZIONI:id-cane--> */}}
+  {{ range $i, $m := (findRE `<!--ESPOSIZIONI(:[A-Za-z0-9_-]+)?-->` $c) }}
+    {{ $key := replaceRE `^<!--ESPOSIZIONI:?([A-Za-z0-9_-]*)-->$` "$1" $m }}
+    {{ $c = replace $c $m (partial "esposizioni.html" (dict "p" $ "k" $key "first" (eq $i 0))) }}
+  {{ end }}
   {{/* La seconda copia delle voci nella barra scorrevole viene nascosta ai
        lettori di schermo e ai parser (vedi ticker-a11y.html). */}}
   {{ partial "ticker-a11y.html" $c | safeHTML }}
