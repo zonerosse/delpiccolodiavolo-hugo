@@ -157,3 +157,15 @@ For articles with `og_image`, the Article JSON-LD `image` is the 1200x630 share 
   risultati dei nostri cani" (ultimi 12), nascosta finché non c'è almeno un risultato (la mostra lo script se arriva in automatico) e `<!--ESPOSIZIONI:<id del cane nel gestionale>-->` dentro la scheda di ogni cane in Femmine/Maschi (ultimi 6;
   bilquis, queen, croiolc, faiter, jackie, nutella, cattleya, nora, lothar, braveheart, papillon). Sostituiti in `single.html` e `single.md`.
 - Sul sito niente giudizi scritti né foto (scelta di Paolo). Classi, qualifiche e tipi tradotti in inglese e tedesco nel partial.
+
+## Cucciolate dal gestionale nella pagina Cuccioli (punto 10, ottobre 2026)
+- Segnaposto `<!--CUCCIOLATE-->` nelle pagine Cuccioli (IT `cuccioli-…`, EN `puppies-…`, DE `welpen-…`), dopo la prima sezione;
+  sostituito in `single.html` e `single.md` con `layouts/partials/cucciolate.html`.
+- Mostra le cucciolate con "Sul sito" acceso nel gestionale, come le schede del Programma allevamento: genitori con foto, test e
+  titoli (in IT/EN/DE: campi `tests_en/_de`, `titles_en/_de` del gestionale, altrimenti italiano), i loro genitori, link SBT;
+  etichetta Disponibili / Non disponibili / In programma; numero di cuccioli e link SBT della cucciolata. Niente cuccioli singoli,
+  niente prenotazioni, nessun riquadro di contatto (scelte di Paolo). Mai note né proprietari.
+- **Testo vero**: `data/cucciolate.json` + `static/images/cucciolate/<id cane>.<ext>`, che arrivano con "Prepara per il sito" della
+  Scheda della cucciolata (zip `delpiccolodiavolo-cucciolate.zip`). **In automatico**: lo script ridisegna la sezione da
+  `https://gestionale.delpiccolodiavolo.it/api/public/cucciolate` (param `gestionaleCucciolate`), foto da `…/cucciolate/f/<chiave>`.
+  Sezione nascosta se non c'è nessuna cucciolata.

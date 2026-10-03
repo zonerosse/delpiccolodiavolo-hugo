@@ -15,6 +15,7 @@
   {{ $c = replace $c "<!--RECENTI-->" (partial "recenti.html" .) }}
   {{ $c = replace $c "<!--GUIDE-->" (partial "guide-cucciolo.html" (dict "pagina" . "gruppo" "cucciolo")) }}
   {{ $c = replace $c "<!--PRENOTA-->" (partial "prenota.html" .) }}
+  {{ $c = replace $c "<!--CUCCIOLATE-->" (partial "cucciolate.html" (dict "p" .)) }}
   {{/* Risultati in esposizione dal gestionale (vedi esposizioni.html): <!--ESPOSIZIONI--> e <!--ESPOSIZIONI:id-cane--> */}}
   {{ range $i, $m := (findRE `<!--ESPOSIZIONI(:[A-Za-z0-9_-]+)?-->` $c) }}
     {{ $key := replaceRE `^<!--ESPOSIZIONI:?([A-Za-z0-9_-]*)-->$` "$1" $m }}

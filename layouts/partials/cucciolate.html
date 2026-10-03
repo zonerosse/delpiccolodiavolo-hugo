@@ -1,0 +1,55 @@
+{{- /*
+  Cucciolate dal gestionale (gestionale.delpiccolodiavolo.it): genitori con foto, test e titoli, genitori, SBT, ed etichetta
+  Disponibili / Non disponibili / In programma. Niente cuccioli singoli, niente prenotazioni (scelta di Paolo).
+  - Testo vero: data/cucciolate.json + static/images/cucciolate/…, che arrivano con "Prepara per il sito" del gestionale
+    (zip delpiccolodiavolo-cucciolate.zip). Google e le IA leggono questo.
+  - In automatico: lo script legge /api/public/cucciolate e ridisegna la sezione con i dati di adesso.
+  Uso nel testo della pagina: <!--CUCCIOLATE-->. La sezione resta nascosta se non c'è nessuna cucciolata.
+*/ -}}
+{{- $p := .p -}}{{- $L := $p.Site.Language.Lang -}}
+{{- $api := $p.Site.Params.gestionaleCucciolate | default "https://gestionale.delpiccolodiavolo.it/api/public/cucciolate" -}}
+{{- $T := dict
+  "it" (dict "lab" "Cucciolate" "h2" "Le nostre cucciolate" "born" "Cucciolata nata il" "plan" "Cucciolata in programma" "av" "Disponibili" "na" "Non disponibili" "pl" "In programma" "ped" "Pedigree della cucciolata:" "see" "vedi su SBTPedigree" "pups" "cuccioli" "m" "maschi" "f" "femmine" "and" "e" "x" "×")
+  "en" (dict "lab" "Litters" "h2" "Our litters" "born" "Litter born on" "plan" "Planned litter" "av" "Available" "na" "Not available" "pl" "Planned" "ped" "Litter pedigree:" "see" "see on SBTPedigree" "pups" "puppies" "m" "males" "f" "females" "and" "and" "x" "×")
+  "de" (dict "lab" "Würfe" "h2" "Unsere Würfe" "born" "Wurf geboren am" "plan" "Geplanter Wurf" "av" "Verfügbar" "na" "Nicht verfügbar" "pl" "In Planung" "ped" "Stammbaum des Wurfs:" "see" "auf SBTPedigree ansehen" "pups" "Welpen" "m" "Rüden" "f" "Hündinnen" "and" "und" "x" "×")
+-}}
+{{- $t := index $T $L | default (index $T "it") -}}
+{{- $items := slice -}}{{- with $p.Site.Data.cucciolate -}}{{- $items = .items -}}{{- end -}}
+<section class="section cu-sec"{{ if not $items }} hidden{{ end }} data-lang="{{ $L }}">
+<div class="section-inner">
+<span class="section-label">{{ index $t "lab" }}</span>
+<h2 class="section-title">{{ index $t "h2" }}</h2>
+<div class="cu-list">
+{{- range $items }}
+{{- $it := . }}
+<article class="litter-card">
+<div class="litter-header"><h3 class="litter-title">{{ if eq .state "plan" }}{{ index $t "plan" }}{{ else }}{{ index $t "born" }} {{ replaceRE `^(\d{4})-(\d{2})-(\d{2})$` "$3/$2/$1" .date }}{{ end }}</h3>
+<span class="badge {{ if or (eq .state "plan") .avail }}badge-coming{{ else }}badge-soldout{{ end }}">{{ if eq .state "plan" }}{{ index $t "pl" }}{{ else if .avail }}{{ index $t "av" }}{{ else }}{{ index $t "na" }}{{ end }}</span></div>
+<div class="pair">
+{{- range $i, $d := slice .dam .sire }}{{ if $i }}<div class="pair-x">×</div>{{ end }}
+<div class="dog">{{ with $d }}<span class="dog-name">{{ .name }}</span>
+{{ with .photo }}<img src="{{ . }}" alt="{{ $d.name }} - Staffordshire Bull Terrier" width="300" height="400" loading="lazy" decoding="async">{{ end }}
+{{ with (index $d $L | default $d.it) }}<ul>{{ range . }}<li>{{ . }}</li>{{ end }}</ul>{{ end }}
+{{ with .parents }}<p>{{ delimit . " × " }}</p>{{ end }}
+{{ with .sbt }}<p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id={{ . }}" target="_blank" rel="noopener">SBTPedigree</a></p>{{ end }}{{ end }}</div>
+{{- end }}
+</div>
+{{ if or (gt .n 0) .sbtUrl }}<p class="pedigree-link">{{ if gt .n 0 }}{{ .n }} {{ index $t "pups" }}: {{ .m }} {{ index $t "m" }} {{ index $t "and" }} {{ .f }} {{ index $t "f" }}. {{ end }}{{ with .sbtUrl }}{{ index $t "ped" }} <a class="sbt-link" href="{{ . }}" target="_blank" rel="noopener">{{ index $t "see" }}</a>{{ end }}</p>{{ end }}
+</article>
+{{- end }}
+</div>
+</div>
+</section>
+<script>
+(function(){var S=document.currentScript.previousElementSibling;if(!S||!window.fetch)return;var L=S.getAttribute("data-lang"),T={{ $t | jsonify | safeJS }},API={{ $api }};
+function e(s){return String(s||"").replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]})}
+function d8(s){var a=(s||"").split("-");return a.length===3?a[2]+"/"+a[1]+"/"+a[0]:""}
+function dog(p){if(!p)return'<div class="dog"></div>';var img=p.photoKey?API+"/f/"+encodeURIComponent(p.photoKey):"",li=(p[L]&&p[L].length?p[L]:p.it)||[];
+ return '<div class="dog"><span class="dog-name">'+e(p.name)+'</span>'+(img?'<img src="'+img+'" alt="'+e(p.name)+' - Staffordshire Bull Terrier" width="300" height="400" loading="lazy" decoding="async">':"")+
+ (li.length?'<ul>'+li.map(function(x){return'<li>'+e(x)+'</li>'}).join("")+'</ul>':"")+((p.parents||[]).length?'<p>'+e(p.parents.join(" × "))+'</p>':"")+
+ (p.sbt?'<p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id='+e(p.sbt)+'" target="_blank" rel="noopener">SBTPedigree</a></p>':"")+'</div>'}
+fetch(API,{mode:"cors"}).then(function(r){return r.ok?r.json():null}).then(function(j){if(!j||!j.items)return;var l=S.querySelector(".cu-list");
+ l.innerHTML=j.items.map(function(x){var pl=x.state==="plan";return '<article class="litter-card"><div class="litter-header"><h3 class="litter-title">'+(pl?T.plan:T.born+" "+d8(x.date))+'</h3><span class="badge '+(pl||x.avail?"badge-coming":"badge-soldout")+'">'+(pl?T.pl:x.avail?T.av:T.na)+'</span></div>'+
+  '<div class="pair">'+dog(x.dam)+'<div class="pair-x">×</div>'+dog(x.sire)+'</div>'+(x.n>0||x.sbtUrl?'<p class="pedigree-link">'+(x.n>0?x.n+" "+T.pups+": "+x.m+" "+T.m+" "+T.and+" "+x.f+" "+T.f+". ":"")+(x.sbtUrl?T.ped+' <a class="sbt-link" href="'+e(x.sbtUrl)+'" target="_blank" rel="noopener">'+T.see+'</a>':"")+'</p>':"")+'</article>'}).join("");
+ S.hidden=!j.items.length}).catch(function(){})})();
+</script>
