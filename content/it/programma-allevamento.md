@@ -110,6 +110,44 @@ custom_content: |
   <p style="text-align:center;margin-bottom:2rem">Ogni accoppiamento è studiato per consolidare le caratteristiche morfologiche desiderate, migliorare il temperamento e preservare la salute genetica. Gli obiettivi vengono definiti analizzando pedigree, risultati espositivi e test genetici di entrambi i genitori.</p>
 
   <!-- Cucciolata: Bilquis × Black Jack - NATA -->
+  <!-- GESTIONALE:INIZIO -->
+  <article class="litter-card" id="cucciolata-lq">
+  <div class="litter-header">
+  <h3 class="litter-title">Cucciolata in programma</h3>
+  <span class="badge badge-coming">In programma</span>
+  </div>
+  <div class="pair">
+  <div class="dog">
+  <span class="dog-name">Queen of California</span>
+  <img src="/images/cucciolate/queen.jpg" alt="Queen of California - Staffordshire Bull Terrier" width="300" height="400" loading="lazy" decoding="async">
+  <ul>
+  <li>L2HGA e HC (HSF4): esente per discendenza</li>
+  <li>Giovane Campionessa Italiana 2026 (Albarella, 17/05/2026: Ecc. 1°, JCAC, JBOB, BOB)</li>
+  </ul>
+  <p>Elitebull Prospect × Lackyle Bean Croi Olc</p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" aria-label="Vedi il pedigree di Queen of California">SBTPedigree</a></p>
+  </div>
+  <div class="pair-x">×</div>
+  <div class="dog">
+  <span class="dog-name">Forever Bull Icon Of Style</span>
+  <img src="/images/cucciolate/forever.jpg" alt="Forever Bull Icon Of Style - Staffordshire Bull Terrier" width="300" height="400" loading="lazy" decoding="async">
+  <ul>
+  <li>L2HGA e HC: esente (DNA)</li>
+  <li>Campione del mondo</li>
+  <li>CC e BOB Manchester Championship Show 2025</li>
+  <li>Campione di Polonia</li>
+  <li>Giovane Campione di Polonia</li>
+  <li>Junior German Winner</li>
+  </ul>
+  <p>Elitebulls Challenger × Agatka Uboga Made In Home</p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4544111" target="_blank" rel="noopener" aria-label="Vedi il pedigree di Forever Bull Icon Of Style">SBTPedigree</a></p>
+  </div>
+  </div>
+  <p class="pedigree-link"></p>
+  </article>
+
+  <!-- GESTIONALE:FINE -->
+
   <article class="litter-card" id="cucciolata-2026-08-01" data-nascita="2026-08-01">
   <div class="litter-header">
   <h3 class="litter-title">Cucciolata nata il 1° agosto 2026</h3>
