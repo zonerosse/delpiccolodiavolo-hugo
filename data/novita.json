@@ -1,1 +1,29 @@
-{"show":false}
+{
+ "show": true,
+ "since": "2026-10-04",
+ "it": {
+  "badge": "📅 In programma",
+  "title": "Cucciolata in programma: Queen × Forever Bull",
+  "desc": "Genitori e test genetici nel programma di allevamento.",
+  "url": "/programma-allevamento/#cucciolata-lq",
+  "cta": "Vedi il programma →",
+  "alt": "Queen of California × Forever Bull Icon Of Style"
+ },
+ "en": {
+  "badge": "📅 Planned",
+  "title": "Planned litter: Queen × Forever Bull",
+  "desc": "Parents and genetic tests in the breeding programme.",
+  "url": "/en/litters-staffordshire-bull-terrier/#cucciolata-lq",
+  "cta": "See the programme →",
+  "alt": "Queen of California × Forever Bull Icon Of Style"
+ },
+ "de": {
+  "badge": "📅 Geplant",
+  "title": "Geplanter Wurf: Queen × Forever Bull",
+  "desc": "Eltern und Gentests im Zuchtprogramm.",
+  "url": "/de/wuerfe-staffordshire-bull-terrier/#cucciolata-lq",
+  "cta": "Zum Zuchtprogramm →",
+  "alt": "Queen of California × Forever Bull Icon Of Style"
+ },
+ "img": "/images/cucciolate/queen.jpg"
+}
