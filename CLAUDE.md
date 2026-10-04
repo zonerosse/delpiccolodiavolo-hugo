@@ -193,3 +193,10 @@ Paolo publishes from his phone with "🌐 Pubblica sul sito" in the gestionale (
   characters, external links carry `aria-label`: `tools/controlli/verifica.py` reports no warnings on them.
 
 Before working on the site locally, **Fetch/Pull** in GitHub Desktop: the gestionale may have committed in the meantime.
+- Gestionale diary pages are also listed in `llms.txt` automatically: placeholder `<!--DIARIO-GESTIONALE-->` in
+  `assets/llms/<lang>.txt` (right under the diary entry), filled by `layouts/index.llmstxt.txt` with the pages that have
+  `gestionale: true`, newest first. Hand-written diary pages stay listed by hand.
+- When the gestionale changes its cards in the breeding programme it also sets `lastmod` to today in the three files, so
+  IndexNow and Google see the page as updated. Photos have descriptive names
+  (`static/images/cucciolate/<dog-name>-staffordshire-bull-terrier.<ext>`,
+  `static/images/diario/<slug>/cuccioli-staffordshire-bull-terrier-<dam>-<sire>-<n>.<ext>`).

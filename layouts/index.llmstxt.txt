@@ -7,4 +7,11 @@
 {{- $c := $t.Content -}}
 {{- $c = replace $c "<!--REC-VOTO-->" (.Site.Params.recensioniVoto | default "") -}}
 {{- $c = replace $c "<!--REC-TOTALE-->" (.Site.Params.recensioniTotale | default "") -}}
+{{- /* Pagine del Diario scritte dal gestionale (gestionale: true): si aggiungono da sole sotto la voce del Diario, le più
+       recenti prima. Quelle scritte a mano restano elencate a mano nel file della lingua. */ -}}
+{{- $lang := .Site.Language.Lang -}}
+{{- $desc := cond (eq $lang "de") "Eltern, Gentests und Fotos der Entwicklung der Welpen." (cond (eq $lang "en") "parents, genetic tests and photos of the puppies' growth." "genitori, test genetici e foto della crescita dei cuccioli.") -}}
+{{- $d := "" -}}
+{{- with .Site.GetPage "/diario-allevamento" -}}{{- range where .RegularPages.ByDate.Reverse "Params.gestionale" true -}}{{- $d = printf "%s  - [%s](%s): %s\n" $d .Title .Permalink $desc -}}{{- end -}}{{- end -}}
+{{- $c = replace $c "<!--DIARIO-GESTIONALE-->\n" $d -}}
 {{- $c | safeHTML -}}
