@@ -110,6 +110,9 @@ custom_content: |
   <p style="text-align:center;margin-bottom:2rem">Ogni accoppiamento è studiato per consolidare le caratteristiche morfologiche desiderate, migliorare il temperamento e preservare la salute genetica. Gli obiettivi vengono definiti analizzando pedigree, risultati espositivi e test genetici di entrambi i genitori.</p>
 
   <!-- Cucciolata: Bilquis × Black Jack - NATA -->
+  <!-- GESTIONALE:INIZIO -->
+  <!-- GESTIONALE:FINE -->
+
   <article class="litter-card" id="cucciolata-2026-08-01" data-nascita="2026-08-01">
   <div class="litter-header">
   <h3 class="litter-title">Cucciolata nata il 1° agosto 2026</h3>

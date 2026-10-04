@@ -76,6 +76,9 @@ custom_content: |
   <h2 class="section-title">Geplante und Vergangene Würfe</h2>
   
   <!-- Wurf: Bilquis × Black Jack - GEBOREN, NICHT VERFÜGBAR -->
+  <!-- GESTIONALE:INIZIO -->
+  <!-- GESTIONALE:FINE -->
+
   <article class="litter-card" id="cucciolata-2026-08-01" data-nascita="2026-08-01">
   <div class="litter-header">
   <h3 class="litter-title">Wurf geboren am 01.08.2026</h3>

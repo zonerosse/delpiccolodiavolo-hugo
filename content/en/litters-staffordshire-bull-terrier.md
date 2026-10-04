@@ -76,6 +76,9 @@ custom_content: |
   <h2 class="section-title">Planned and Past Litters</h2>
   
   <!-- Litter: Bilquis × Black Jack - BORN, NOT AVAILABLE -->
+  <!-- GESTIONALE:INIZIO -->
+  <!-- GESTIONALE:FINE -->
+
   <article class="litter-card" id="cucciolata-2026-08-01" data-nascita="2026-08-01">
   <div class="litter-header">
   <h3 class="litter-title">Litter born 1 August 2026</h3>
