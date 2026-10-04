@@ -58,6 +58,8 @@ custom_content: |
   </div>
   </div>
 
+  <!--NOVITA-->
+
   <section class="section">
   <div class="section-inner">
   <span class="section-label">I nostri cuccioli</span>

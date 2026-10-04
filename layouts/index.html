@@ -18,6 +18,7 @@
   {{ $c = replace $c "<!--REC-TOTALE-->" $tot }}
   {{ $c = replace $c "<!--CORRELATI-->" (partial "correlati.html" .) }}
   {{ $c = replace $c "<!--HEROFOTO-->" (partial "hero-foto.html" .) }}
+  {{ $c = replace $c "<!--NOVITA-->" (partial "novita-home.html" .) }}
   {{/* La seconda copia delle voci nella barra scorrevole viene nascosta ai
        lettori di schermo e ai parser (vedi ticker-a11y.html). */}}
   {{ partial "ticker-a11y.html" $c | safeHTML }}

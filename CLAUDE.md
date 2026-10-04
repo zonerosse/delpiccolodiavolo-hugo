@@ -169,3 +169,27 @@ For articles with `og_image`, the Article JSON-LD `image` is the 1200x630 share 
   Scheda della cucciolata (zip `delpiccolodiavolo-cucciolate.zip`). **In automatico**: lo script ridisegna la sezione da
   `https://gestionale.delpiccolodiavolo.it/api/public/cucciolate` (param `gestionaleCucciolate`), foto da `…/cucciolate/f/<chiave>`.
   Sezione nascosta se non c'è nessuna cucciolata.
+
+
+## Published from the management app (gestionale), October 2026
+
+Paolo publishes from his phone with "🌐 Pubblica sul sito" in the gestionale (repo `zonerosse/gestionale-allevamento`,
+`functions/api/publish.js`): one commit on `main` via the GitHub API (fine-grained token, this repo only). Never edit by hand:
+
+- `data/cucciolate.json` + `static/images/cucciolate/` — the Cuccioli page, as before.
+- `data/novita.json` — the gold "news" box on the home page (`layouts/partials/novita-home.html`, placeholder
+  `<!--NOVITA-->` in `content/{it,en,de}/_index.md`, right after the hero and the features bar; replaced in `layouts/index.html`).
+  `{"show":false}` → no box. Texts for it/en/de come ready from the gestionale; `url` points to the diary page or to the
+  litter card in the breeding programme (`#cucciolata-<id>`). Switched on/off from the gestionale ("Novità in Home").
+- Breeding programme pages (`content/it/programma-allevamento.md`, `content/en/litters-staffordshire-bull-terrier.md`,
+  `content/de/wuerfe-staffordshire-bull-terrier.md`): the gestionale owns only the text between
+  `<!-- GESTIONALE:INIZIO -->` and `<!-- GESTIONALE:FINE -->` inside `custom_content` (same `<article class="litter-card">`
+  markup as the hand-written cards, so the RSS feed and `/programma-allevamento/segui/` pick them up). Never edit inside the
+  markers; everything outside them is Paolo's and the gestionale never touches it.
+- Diary pages with `gestionale: true` in the front matter (`content/<lang>/diario-allevamento/*.md`, photos in
+  `static/images/diario/<it-slug>/`): written and deleted by the gestionale, only for litters from October 2026 on. The
+  publish endpoint refuses to overwrite or delete any file without `gestionale: true`, so hand-written diary pages are safe.
+  The opening paragraph is the citable block (110–160 words, kennel and breed named), descriptions are kept within 140–165
+  characters, external links carry `aria-label`: `tools/controlli/verifica.py` reports no warnings on them.
+
+Before working on the site locally, **Fetch/Pull** in GitHub Desktop: the gestionale may have committed in the meantime.
