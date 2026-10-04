@@ -77,41 +77,6 @@ custom_content: |
   
   <!-- Wurf: Bilquis × Black Jack - GEBOREN, NICHT VERFÜGBAR -->
   <!-- GESTIONALE:INIZIO -->
-  <article class="litter-card" id="cucciolata-lq">
-  <div class="litter-header">
-  <h3 class="litter-title">Geplanter Wurf</h3>
-  <span class="badge badge-coming">Geplant</span>
-  </div>
-  <div class="pair">
-  <div class="dog">
-  <span class="dog-name">Queen of California</span>
-  <img src="/images/cucciolate/queen.jpg" alt="Queen of California - Staffordshire Bull Terrier" width="300" height="400" loading="lazy" decoding="async">
-  <ul>
-  <li>L2HGA und HC (HSF4): frei über Eltern</li>
-  <li>Italienische Jugendchampionin 2026 (Albarella, 17.05.2026: Vorzüglich 1, JCAC, JBOB, BOB)</li>
-  </ul>
-  <p>Elitebull Prospect × Lackyle Bean Croi Olc</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" aria-label="Stammbaum ansehen: Queen of California">SBTPedigree</a></p>
-  </div>
-  <div class="pair-x">×</div>
-  <div class="dog">
-  <span class="dog-name">Forever Bull Icon Of Style</span>
-  <img src="/images/cucciolate/forever.jpg" alt="Forever Bull Icon Of Style - Staffordshire Bull Terrier" width="300" height="400" loading="lazy" decoding="async">
-  <ul>
-  <li>L2HGA und HC: frei (DNA)</li>
-  <li>Weltsieger</li>
-  <li>CC und BOB Manchester Championship Show 2025</li>
-  <li>Polnischer Champion</li>
-  <li>Polnischer Jugendchampion</li>
-  <li>Junior German Winner</li>
-  </ul>
-  <p>Elitebulls Challenger × Agatka Uboga Made In Home</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4544111" target="_blank" rel="noopener" aria-label="Stammbaum ansehen: Forever Bull Icon Of Style">SBTPedigree</a></p>
-  </div>
-  </div>
-  <p class="pedigree-link"></p>
-  </article>
-
   <!-- GESTIONALE:FINE -->
 
   <article class="litter-card" id="cucciolata-2026-08-01" data-nascita="2026-08-01">
