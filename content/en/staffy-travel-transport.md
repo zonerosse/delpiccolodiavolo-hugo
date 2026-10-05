@@ -43,8 +43,21 @@ custom_content: |
   
   
   <h2>Travelling by car</h2>
-  <p>An unrestrained dog in a car is a danger to itself and to everyone else in the vehicle. A seventeen-kilogram Staffordshire Bull Terrier in a fifty kilometre per hour impact generates a force equivalent to several hundred kilograms. Italian law is also explicit: animals must be transported so as not to interfere with driving, in a cage, in a compartment separated by a purpose-made grille, or restrained.</p>
+  <p>An unrestrained dog in a car is a danger to itself and to everyone else in the vehicle. A seventeen-kilogram Staffordshire Bull Terrier in a fifty kilometre per hour impact generates a force equivalent to several hundred kilograms. Italian law is also explicit: article 169 of the Highway Code requires animals to be transported so as not to interfere with driving, in a cage, in a compartment separated by a purpose-made grille, or restrained, with fines from 87 to 345 euros.</p>
   <p>The safest option is a crash-tested crate secured in the boot, ideally with the crate itself anchored. A rigid boot divider is the next best. A harness attached to the seatbelt is acceptable and far better than nothing, provided it is a proper travel harness with wide chest padding, not an ordinary walking harness clipped to a strap.</p>
+
+  <p>The three systems compared:</p>
+
+  <table>
+  <thead>
+  <tr><th>System</th><th>Pros</th><th>Cons</th><th>Best for</th></tr>
+  </thead>
+  <tbody>
+  <tr><td><strong>Rigid crate</strong></td><td>Maximum safety, holds the dog in a crash</td><td>Bulky, 80-150 euros</td><td>Long journeys, puppies</td></tr>
+  <tr><td><strong>Travel harness + seatbelt</strong></td><td>Inexpensive, 25-40 euros, the dog can see out</td><td>Less protection</td><td>Short and medium trips</td></tr>
+  <tr><td><strong>Boot divider</strong></td><td>Freedom of movement</td><td>No protection in a crash</td><td>Estate cars and SUVs only</td></tr>
+  </tbody>
+  </table>
   <p>For this breed there is a specific and serious warning: <strong>never leave the dog in a parked car</strong>, not for 5 minutes, not with the windows open, not in the shade. A dense, dark-coated, short-muzzled dog reaches a dangerous body temperature far faster than most owners believe, and the temperature inside a parked car in Italian summer rises by twenty degrees within a quarter of an hour.</p>
 
   <h2>Preventing and managing car sickness</h2>

@@ -1,7 +1,7 @@
 ---
 title: "Lo Staffy è Pericoloso? Verità e Legge Italiana"
 date: 2025-11-18
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "pericoloso"
 articolo: true
 image: "/images/blog/staffy-carattere-legge-hero.webp"
@@ -46,177 +46,85 @@ custom_content: |
   
   <p>In Italia lo Staffordshire Bull Terrier non rientra in nessuna lista di razze pericolose: l'elenco delle razze a rischio &egrave; stato abolito nel 2009 con l'ordinanza del Ministero della Salute, che ha spostato la responsabilit&agrave; dalla razza al proprietario. Da allora nessuna razza &egrave; vietata o soggetta a obblighi particolari sul territorio nazionale, e le regole valgono per tutti i cani: guinzaglio nei luoghi pubblici, museruola al bisogno, e responsabilit&agrave; civile e penale del detentore. Restano alcune limitazioni locali, decise da singoli comuni o regolamenti condominiali, e regole diverse in altri paesi europei, che vanno verificate prima di viaggiare. Uno studio del Royal Veterinary College pubblicato nel 2020 su oltre 22.000 cani non ha trovato differenze significative di aggressivit&agrave; attribuibili alla razza. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
-  
-  <h2>Il Pregiudizio sullo Staffordshire Bull Terrier: Da Dove Nasce?</h2>
-  
-  <p>Lo <strong>Staffordshire Bull Terrier</strong>, affettuosamente chiamato "Staffy", porta con sé un pesante fardello di pregiudizi. La sua corporatura muscolosa, la testa larga e la mascella potente evocano immediatamente nell'immaginario collettivo l'idea di un cane "da combattimento" e quindi pericoloso. Ma questa percezione è basata sui fatti o su stereotipi mediatici?</p>
-  
-  <p>La risposta è chiara: <strong>si tratta principalmente di stereotipi</strong>. Come vedremo in questo articolo, i dati scientifici raccontano una storia molto diversa da quella sensazionalistica dei media.</p>
-  
-  <p>Il primo fattore è la <strong>storia della razza</strong>. Lo Staffordshire Bull Terrier discende dai "Bull and Terrier" utilizzati nell'Inghilterra del XIX secolo per i combattimenti. Tuttavia, questa pratica fu vietata nel 1835 con il Cruelty to Animals Act, e la razza fu riconosciuta dal <a href="https://www.thekennelclub.org.uk/breed-standards/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" class="source-link" title="Kennel Club UK - Standard Staffy" aria-label="Kennel Club UK - Standard Staffy (si apre in una nuova scheda)">Kennel Club britannico nel 1935</a> proprio per le sue qualità come cane da compagnia.</p>
-  
-  <p>Il secondo fattore è la <strong>confusione con altre razze</strong>. Lo Staffy viene spesso confuso con l'American Pit Bull Terrier, <a href="/differenza-staffy-amstaff/" title="Staffy o Amstaff: il test">l'American Staffordshire Terrier</a> e altri "bully breeds". Quando un cane di tipo "bull" è coinvolto in un incidente, spesso viene erroneamente identificato come "Pitbull" o "Staffy" indipendentemente dalla razza effettiva.</p>
-  
-  
-  <p>Il terzo fattore è l'<strong>uso improprio da parte di proprietari irresponsabili</strong>. Purtroppo, alcune persone scelgono razze muscolose come "status symbol" o per intimorire gli altri, e le addestrano all'aggressività. Questo comportamento criminale danneggia la reputazione di intere razze, quando la responsabilità è esclusivamente del proprietario.</p>
-  
-  <h2>Cosa Dice la Scienza: Lo Studio VetCompass del Royal Veterinary College</h2>
-  
-  <p>Nel 2020, il <strong>Royal Veterinary College</strong> di Londra ha pubblicato uno studio fondamentale che ha finalmente fornito dati scientifici solidi sulla questione dell'aggressività dello Staffordshire Bull Terrier. Lo studio, condotto nell'ambito del programma <a href="https://www.rvc.ac.uk/vetcompass/" target="_blank" rel="noopener" class="source-link" title="VetCompass - Royal Veterinary College" aria-label="VetCompass - Royal Veterinary College (si apre in una nuova scheda)">VetCompass™</a>, ha analizzato i dati clinici veterinari di oltre 22.000 cani.</p>
-  
-  <div class="info-box">
-  <p class="info-box-title">📊 I Numeri dello Studio VetCompass 2020</p>
-  <p><strong>Campione totale:</strong> 22.333 cani sotto cure veterinarie nel Regno Unito durante il 2016</p>
-  <p><strong>Staffordshire Bull Terrier:</strong> 1.304 esemplari (5,8% del campione)</p>
-  <p><strong>Altri cani (controllo):</strong> 21.029 esemplari (94,2%)</p>
-  <p><strong>Fonte:</strong> <a href="https://cgejournal.biomedcentral.com/articles/10.1186/s40575-020-00092-w" target="_blank" rel="noopener" title="Studio VetCompass 2020" aria-label="Studio VetCompass 2020 (si apre in una nuova scheda)">Pegram et al., Canine Medicine and Genetics, 2020</a></p>
-  </div>
-  
-  <p>Il dato chiave è questo: <strong>non è stata rilevata alcuna differenza statisticamente significativa nel rischio di aggressione</strong> tra Staffordshire Bull Terrier e altri cani. L'Odds Ratio (OR) calcolato è stato di 1,09 con un intervallo di confidenza al 95% tra 0,75 e 1,58, e un valore p di 0,644.</p>
-  
-  <p>La dottoressa <strong>Camilla Pegram</strong>, epidemiologa del VetCompass e autrice principale dello studio, ha dichiarato: "Sebbene gli Staffy siano spesso percepiti come aggressivi, questo studio non ha rivelato differenze significative nel rischio di aggressione rispetto ad altre razze."</p>
-  
-  <div class="callout">
-  <p class="callout-title">💡 Cosa Significano Questi Numeri?</p>
-  <p>Un Odds Ratio di 1,09, con un intervallo di confidenza che va da 0,75 a 1,58, non indica un rischio più alto del 9%: indica che lo studio non ha trovato una differenza misurabile. L'intervallo comprende valori sotto 1 (rischio minore) e sopra 1 (rischio maggiore), e il valore p di 0,644 è lontanissimo dalla soglia di 0,05 sotto cui un risultato si considera significativo. In pratica: per il rischio di aggressione, lo Staffy non si distingue dagli altri cani.</p>
-  </div>
-  
-  <h2>Il Mito del "Nanny Dog": Verità e Contesto Storico</h2>
-  
-  <p>Avrai probabilmente sentito definire lo Staffordshire Bull Terrier come "nanny dog" (cane babysitter). Lo standard ufficiale della razza pubblicato dal <a href="https://www.thekennelclub.org.uk/breed-standards/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" class="source-link" title="Standard Kennel Club" aria-label="Standard Kennel Club (si apre in una nuova scheda)">Kennel Club britannico</a> descrive lo Staffy come: "Tradizionalmente di temperamento intrepido e tenace. Altamente intelligente e affettuoso, specialmente con i bambini."</p>
-  
-  <p>La definizione di "nanny dog" nacque nel XX secolo quando le famiglie della working class inglese notarono che gli Staffy erano particolarmente pazienti e protettivi con i bambini. Non significa che la razza sia stata "progettata" per badare ai bambini, ma che il temperamento equilibrato e l'attaccamento alla famiglia umana rendono questi cani particolarmente adatti alla vita familiare.</p>
-  
-  <figure class="article-image img-right">
-  <img src="/images/Lothar-e-Arianna.webp" alt="Lothar Del Piccolo Diavolo con handler" loading="lazy" decoding="async" width="260" height="325">
-  <figcaption>Lothar Mattheus Del Piccolo Diavolo</figcaption>
-  </figure>
-  
-  <div class="alert">
-  <p class="alert-title">⚠️ Attenzione: Supervisione Sempre Necessaria</p>
-  <p>Indipendentemente dalla razza, <strong>nessun cane dovrebbe mai essere lasciato solo con bambini piccoli senza supervisione adulta</strong>. Questo vale per lo Staffy come per il Labrador, il Golden Retriever o qualsiasi altra razza.</p>
-  </div>
-  
-  <h2>La Situazione Legale in Italia: Dall'Ordinanza Turco all'Ordinanza Martini</h2>
-  
-  <h3>2006: L'Ordinanza Turco e la "Lista Nera"</h3>
-  
-  <p>Nel dicembre 2006, l'allora Ministro della Salute <strong>Livia Turco</strong> emanò l'ordinanza "Tutela dell'incolumità pubblica dall'aggressione di cani", che introduceva un elenco di <strong>17 razze considerate pericolose</strong>, fra cui Pit Bull, Rottweiler, Dogo Argentino, Fila Brasileiro e Tosa Inu. Lo Staffordshire Bull Terrier non era in quella lista: lo è diventato solo nel linguaggio comune, per somiglianza con il Pit Bull.</p>
-  
-  <h3>2009: L'Ordinanza Martini Abolisce la Lista</h3>
-  
-  <p>Il <strong>3 marzo 2009</strong>, il Sottosegretario alla Salute <strong>Francesca Martini</strong> presentò una nuova ordinanza che segnò una svolta fondamentale: <strong>la "lista nera" delle razze pericolose venne abolita</strong>.</p>
-  
-  <p>L'ordinanza Martini stabilisce chiaramente: "Come confermato dalla letteratura scientifica di Medicina Veterinaria, <strong>non è possibile stabilire il rischio di una maggiore aggressività di un cane sulla base dell'appartenenza a una razza o ai suoi incroci</strong>."</p>
-  
-  <div class="info-box">
-  <p class="info-box-title">✅ Cosa Prevede l'Ordinanza Martini (Ancora in Vigore)</p>
-  <p>• <strong>Guinzaglio obbligatorio</strong> (max 1,5 metri) in aree urbane</p>
-  <p>• <strong>Museruola</strong> da portare sempre con sé, da applicare su richiesta</p>
-  <p>• <strong>Registro dei cani morsicatori</strong> gestito dalle ASL</p>
-  <p>• <strong>Responsabilità del proprietario</strong>: civile e penale per danni</p>
-  <p><strong>Fonte:</strong> <a href="https://www.salute.gov.it/portale/documentazione/p6_2_2_1.jsp?id=3031" target="_blank" rel="noopener" title="Ministero della Salute" aria-label="Ministero della Salute (si apre in una nuova scheda)">Ministero della Salute - Ordinanza 3 marzo 2009</a></p>
-  </div>
-  
-  <h2>La Proposta della Lombardia 2025: Il Ritorno del Patentino</h2>
-  
-  <p>Nel gennaio 2025, la <strong>Regione Lombardia</strong> ha presentato un progetto di legge che introduce il concetto di <strong>"save list"</strong> (lista di cani da salvare), che include 26 tipologie di cani. Lo Staffordshire Bull Terrier è incluso in questa lista.</p>
-  
-  <p>Il relatore del provvedimento, <strong>Roberto Anelli</strong> (Lega), ha precisato: "Non si tratta di una black-list, ma di una lista di 'cani da salvare' dall'incapacità di chi li detiene senza averne una adeguata conoscenza e preparazione."</p>
-  
+  <h2>Il mito della razza pericolosa</h2>
+  <p>L'idea che certe razze siano pericolose di per sé ha guidato le leggi di mezza Europa per trent'anni, e le prove a suo favore non sono mai state solide. Le norme sulle razze partono dal presupposto che l'aggressività sia una caratteristica fissa della razza, e non il risultato di genetica, crescita, educazione, gestione e della situazione precisa in cui avviene un morso.</p>
+  <p>Dove queste leggi sono state introdotte e poi studiate, i risultati sono stati costantemente deludenti. I morsi non sono diminuiti in proporzione: in parte perché i testimoni riconoscono male le razze, in parte perché i cani coinvolti negli episodi gravi sono di solito tenuti in cattive condizioni da proprietari che la legge la ignorano comunque. Lo Staffy, poi, viene spesso confuso con l'American Pit Bull Terrier e con <a href="/differenza-staffy-amstaff/" title="Staffy o Amstaff: il test">l'American Staffordshire Terrier</a>: quando un cane di tipo bull è coinvolto in un incidente, viene chiamato «Pitbull» o «Staffy» qualunque sia la sua razza. Diversi paesi che avevano introdotto per primi le liste di razze le hanno poi abolite o ristrette, proprio per questi motivi.</p>
+
+  <h2>Cosa dicono i dati: lo studio del Royal Veterinary College</h2>
+  <p>Nel 2020 il Royal Veterinary College di Londra ha pubblicato il primo grande studio che mette alla prova la reputazione della razza con le cartelle cliniche. Nell'ambito del programma <a href="https://www.rvc.ac.uk/vetcompass/" target="_blank" rel="noopener" aria-label="VetCompass, Royal Veterinary College (si apre in una nuova scheda)">VetCompass™</a>, i ricercatori hanno esaminato le cartelle del 2016 dei cani seguiti dai veterinari di base nel Regno Unito: 1.304 Staffordshire Bull Terrier e 21.029 cani di altre razze.</p>
+  <p>Lo studio partiva dall'ipotesi che gli Staffordshire Bull Terrier avessero una probabilità maggiore di aggressività. I dati non l'hanno confermata: <strong>nessuna differenza statisticamente significativa</strong> fra la razza e gli altri cani (odds ratio 1,09, intervallo di confidenza al 95% da 0,75 a 1,58, p = 0,644). Un intervallo che va da sotto 1 a sopra 1 vuol dire che lo studio non ha trovato una differenza misurabile né in un senso né nell'altro.</p>
+  <p>Lo stesso studio ha trovato una probabilità più alta per quattro delle 36 condizioni più comuni esaminate, fra cui le crisi epilettiche, e più bassa per cinque. È un profilo di salute della razza, non un giudizio sul suo carattere. Fonte: <a href="https://cgejournal.biomedcentral.com/articles/10.1186/s40575-020-00092-w" target="_blank" rel="noopener" aria-label="Pegram e altri 2020, Canine Medicine and Genetics (si apre in una nuova scheda)">Pegram e altri, Canine Medicine and Genetics, 2020</a>.</p>
+
+  <h2>La situazione legale in Italia</h2>
+  <p>Su questo punto l'Italia è uno dei paesi più razionali d'Europa. La lista delle razze cosiddette pericolose è stata abolita dall'<a href="https://www.salute.gov.it/portale/documentazione/p6_2_2_1.jsp?id=3031" target="_blank" rel="noopener" aria-label="Ministero della Salute, ordinanza del 3 marzo 2009 (si apre in una nuova scheda)">ordinanza ministeriale del 2009</a>, e il principio che l'ha sostituita è stato confermato da tutte le ordinanze successive: <strong>la responsabilità è del proprietario, non della razza</strong>.</p>
+  <p>In pratica, in Italia non c'è nessuna restrizione al possesso di uno Staffordshire Bull Terrier, nessun obbligo di museruola legato alla razza e nessuna assicurazione obbligatoria legata alla razza. Gli obblighi che esistono valgono per ogni cane e ogni proprietario: guinzaglio non più lungo di un metro e mezzo nei luoghi pubblici, museruola al seguito da applicare su richiesta delle autorità o quando la situazione lo richiede, microchip e iscrizione all'anagrafe, e piena responsabilità civile per i danni causati dal cane.</p>
+  <p>I singoli comuni possono imporre regole locali più restrittive per zone precise, come parchi o spiagge, e un giudice può disporre una valutazione comportamentale e un percorso di educazione obbligatorio per un cane dopo un episodio. In entrambi i casi la misura riguarda quel cane, non la razza.</p>
+
+  <h2>Come ci si è arrivati: dalla lista del 2006 all'ordinanza del 2009</h2>
+  <p>Nel dicembre 2006 l'allora ministra della Salute Livia Turco firmò un'ordinanza sulla tutela dell'incolumità pubblica dall'aggressione dei cani, con un allegato che elencava <strong>17 razze</strong> considerate a rischio, fra cui il Pit Bull, il Rottweiler, il Dogo Argentino, il Fila Brasileiro e il Tosa Inu. Lo Staffordshire Bull Terrier non era in quella lista: ci è finito associato solo nel linguaggio comune, per la somiglianza con il Pit Bull.</p>
+  <p>La lista durò poco più di due anni. L'ordinanza firmata il 3 marzo 2009 dalla sottosegretaria Francesca Martini la abolì, affermando che la scienza veterinaria non permette di stabilire un rischio di maggiore aggressività in base alla razza o agli incroci di un cane. Quello che quell'ordinanza introdusse vale ancora: guinzaglio di al massimo un metro e mezzo nelle aree urbane, museruola al seguito da applicare su richiesta, un registro dei cani morsicatori tenuto dalle ASL, e la responsabilità civile e penale del proprietario. Fonte: <a href="https://www.salute.gov.it/portale/documentazione/p6_2_2_1.jsp?id=3031" target="_blank" rel="noopener" aria-label="Ministero della Salute, ordinanza del 3 marzo 2009 (si apre in una nuova scheda)">Ministero della Salute, ordinanza del 3 marzo 2009</a>.</p>
+
+  <h2>La proposta della Lombardia e la «save list»</h2>
+  <p>Nel gennaio 2025 la Regione Lombardia ha presentato un progetto di legge con una «save list» di 26 tipologie di cani, i cui proprietari dovrebbero seguire un corso teorico di almeno dieci ore e uno pratico di almeno sei, concluso dal test CAE-1 dell'<a href="https://www.enci.it/" target="_blank" rel="noopener" title="ENCI" aria-label="ENCI, Ente Nazionale della Cinofilia Italiana (si apre in una nuova scheda)">ENCI</a>. Nella prima versione dell'elenco c'era anche lo Staffordshire Bull Terrier. Il 24 giugno 2025 il Consiglio regionale ha approvato il testo come proposta di legge al Parlamento: non è una legge regionale, e non ha effetti finché il Parlamento non la approva.</p>
+  <p>Il testo approvato contiene due cambiamenti che contano per chi sceglie uno Staffy. Il primo: <strong>lo Staffordshire Bull Terrier non è più nell'elenco</strong>. Il secondo: sono <strong>esclusi i cani iscritti ai libri genealogici</strong>, cioè con pedigree ENCI, mentre per i soggetti senza pedigree delle tipologie elencate la proposta vieta riproduzione e cessione, per fermare le cucciolate improvvisate. Fonte: il <a href="https://www.anmvioggi.it/in-evidenza/77665-cani-in-save-list-il-testo-consolidato-della-plp-lombarda.html" target="_blank" rel="noopener" aria-label="Anmvi Oggi, testo consolidato della proposta lombarda (si apre in una nuova scheda)">testo consolidato pubblicato da Anmvi Oggi</a>.</p>
+  <p>L'elenco del testo approvato, con i relativi incroci:</p>
+
   <table>
   <thead>
-  <tr><th>Le 26 Razze nella "Save List" Lombarda</th></tr>
+  <tr><th colspan="3">Le 26 tipologie dell'Allegato A, testo approvato il 24 giugno 2025</th></tr>
   </thead>
   <tbody>
-  <tr><td>Dogo Argentino, Fila Brasileiro, Tosa giapponese</td></tr>
-  <tr><td>American Pit Bull Terrier, Pit Bull Terrier, <strong>Staffordshire Bull Terrier</strong></td></tr>
-  <tr><td>American Staffordshire Terrier, Bull Terrier, Bullmastiff</td></tr>
-  <tr><td>Rottweiler, Cane Corso, American Bulldog</td></tr>
-  <tr><td>Perro de Presa Canario, Rhodesian Ridgeback, Boerboel</td></tr>
-  <tr><td>Akita Inu, Akita Americano, Bandog, Tosa Inu</td></tr>
-  <tr><td>Pastore del Caucaso, Pastore dell'Asia Centrale, Pastore dell'Anatolia</td></tr>
-  <tr><td>Pastore Maremmano Abruzzese, Pastore Belga Malinois, Pastore Tedesco</td></tr>
-  <tr><td>Cane Lupo Cecoslovacco, Cane Lupo di Saarloos</td></tr>
+  <tr><td>Dogo Argentino</td><td>Fila Brasileiro</td><td>Tosa giapponese</td></tr>
+  <tr><td>American Pit Bull Terrier</td><td>Bull Terrier</td><td>American Staffordshire Terrier</td></tr>
+  <tr><td>Bullmastiff</td><td>Rottweiler</td><td>Cane Corso</td></tr>
+  <tr><td>American Bulldog</td><td>Cane da pastore di Charplanina</td><td>Cane da pastore dell'Anatolia</td></tr>
+  <tr><td>Cane da pastore dell'Asia Centrale</td><td>Cane da pastore del Caucaso</td><td>Cane da pastore Maremmano Abruzzese</td></tr>
+  <tr><td>Cane da pastore Belga Malinois</td><td>Pastore Tedesco</td><td>Rafeiro do Alentejo</td></tr>
+  <tr><td>Rhodesian Ridgeback</td><td>Tosa Inu</td><td>Bandog</td></tr>
+  <tr><td>Boerboel</td><td>Akita Inu</td><td>Akita Americano</td></tr>
+  <tr><td>Cane Lupo Cecoslovacco</td><td>Cane Lupo di Saarloos</td><td></td></tr>
   </tbody>
   </table>
-  
-  <h3>Cosa Prevede il Patentino</h3>
-  
-  <p>I proprietari di cani inclusi nella "save list" dovranno seguire un <strong>percorso formativo obbligatorio</strong>:</p>
-  
-  <ol>
-  <li><strong>Corso teorico</strong> (minimo 10 ore): per il conseguimento del "patentino"</li>
-  <li><strong>Corso pratico</strong> (minimo 6 ore): valutazione attraverso il test <strong>CAE-1</strong> somministrato dall'<a href="https://www.enci.it/" target="_blank" rel="noopener" title="ENCI" aria-label="ENCI (si apre in una nuova scheda)">ENCI</a></li>
-  </ol>
-  
-  <div class="callout">
-  <p class="callout-title">📝 Nota Importante sulla Proposta Lombarda</p>
-  <p>La proposta lombarda è un <strong>Progetto di Legge al Parlamento</strong>, non una legge regionale: il Consiglio regionale l'ha approvata il 24 giugno 2025, ma per diventare legge deve essere discussa e approvata dal Parlamento nazionale. Il testo approvato contiene una modifica importante rispetto alla prima versione: <strong>esclude i cani iscritti ai libri genealogici</strong>, cioè quelli con pedigree ENCI, e vieta la riproduzione e la cessione dei soggetti senza pedigree delle tipologie elencate, per colpire le cucciolate casalinghe. Uno Staffordshire Bull Terrier con pedigree ENCI, quindi, anche se la proposta diventasse legge nella forma approvata, non sarebbe soggetto al patentino.</p>
-  </div>
-  
-  <h2>Confronto con l'Europa: Come Si Comportano gli Altri Paesi?</h2>
-  
-  <h3>Regno Unito</h3>
-  <p>Nel Regno Unito vige il <strong>Dangerous Dogs Act 1991</strong>, che vieta completamente quattro razze: Pit Bull Terrier, Japanese Tosa, Dogo Argentino e Fila Brasileiro. Lo <strong>Staffordshire Bull Terrier non è incluso</strong> in questo divieto ed è anzi una delle razze più popolari nel Paese.</p>
-  
-  <h3>Germania</h3>
-  <p>La Germania ha una legislazione federale che regolamenta l'importazione di alcune razze, ma lascia ampia autonomia ai singoli Länder. Lo Staffordshire Bull Terrier è soggetto a restrizioni in alcuni stati federali ma non in tutti.</p>
-  
-  <h3>Francia</h3>
-  <p>La Francia classifica i cani in due categorie. Lo Staffordshire Bull Terrier con pedigree LOF non rientra in nessuna categoria restrittiva.</p>
-  
+
+  <h2>In Europa, paese per paese</h2>
   <figure class="article-image img-left">
   <img src="/images/cucciolo-rosso.webp" alt="Cucciolo di Staffordshire Bull Terrier rosso" loading="lazy" decoding="async" width="260" height="297">
-  <figcaption>Cucciolo Staffordshire Bull Terrier</figcaption>
+  <figcaption>Cucciolo di Staffordshire Bull Terrier</figcaption>
   </figure>
-  
-  <h2>La Responsabilità del Proprietario: Il Vero Fattore Determinante</h2>
-  
-  <p>Tutti gli studi scientifici e tutte le normative moderne convergono su un punto fondamentale: <strong>la pericolosità di un cane dipende principalmente dal proprietario</strong>, non dalla razza.</p>
-  
-  <h3>Cosa Rende un Cane "Pericoloso"?</h3>
-  
-  <ul>
-  <li><strong>Mancata socializzazione</strong> durante il periodo critico (3-12 settimane)</li>
-  <li><strong>Isolamento sociale</strong> e mancanza di stimoli</li>
-  <li><strong>Maltrattamenti</strong> fisici o psicologici</li>
-  <li><strong>Addestramento all'aggressività</strong> (illegale in Italia)</li>
-  <li><strong>Paura e insicurezza</strong> non gestite</li>
-  <li><strong>Gestione inadeguata</strong> da parte del proprietario</li>
-  </ul>
-  
-  <div class="checklist">
-  <p class="checklist-title">✅ Come Essere un Proprietario Responsabile di Staffy</p>
-  <ul>
-  <li>☐ Socializza il cucciolo presto e con costanza</li>
-  <li>☐ Iscriviti a un corso di educazione cinofila con metodi gentili</li>
-  <li>☐ Fornisci esercizio fisico e mentale quotidiano</li>
-  <li>☐ Rispetta le norme: guinzaglio in pubblico, museruola sempre con te</li>
-  <li>☐ Stipula un'assicurazione RC per il tuo cane</li>
-  <li>☐ Non lasciare mai il cane solo con bambini piccoli</li>
-  <li>☐ Scegli un <a href="/chi-siamo/" title="Chi siamo">allevatore responsabile</a> che testi geneticamente i riproduttori</li>
-  <li>☐ Informati sulle <a href="/linee-sangue-staffordshire-bull-terrier/" title="Linee di sangue Staffy">linee di sangue</a> e sul temperamento</li>
-  </ul>
+  <p>Nel <strong>Regno Unito</strong> il Dangerous Dogs Act del 1991 vieta quattro tipologie: il Pit Bull Terrier, il Tosa giapponese, il Dogo Argentino e il Fila Brasileiro. Lo Staffordshire Bull Terrier non è fra queste ed è una delle razze più diffuse del paese. In <strong>Germania</strong> la legge federale limita l'importazione di alcune razze, mentre i singoli Länder hanno liste proprie, e in alcuni lo Staffordshire Bull Terrier è soggetto a obblighi. In <strong>Francia</strong> i cani sono divisi in due categorie, e uno Staffordshire Bull Terrier con pedigree francese LOF non rientra in nessuna delle due. In <strong>Irlanda</strong> la razza è nella lista dei cani che in pubblico devono portare la museruola ed essere tenuti al guinzaglio corto da una persona con più di sedici anni.</p>
+
+  <h2>Fuori dall'Italia, in pratica</h2>
+  <p>Per chi legge dall'estero il quadro cambia molto, e conta se si pensa di viaggiare o trasferirsi con il cane. Alcuni Länder tedeschi inseriscono lo Staffordshire Bull Terrier nelle loro categorie, con obblighi che vanno dal test caratteriale al permesso per il detentore. La Danimarca vieta tredici razze, fra cui l'American Staffordshire Terrier e il Pit Bull Terrier, ma non lo Staffordshire Bull Terrier; un cane che somiglia a una tipologia vietata può comunque dover dimostrare la propria razza, ed è un motivo in più per viaggiare con il pedigree. L'Irlanda chiede museruola e guinzaglio corto in pubblico per una lista di tipologie. Il Regno Unito, paese d'origine della razza, non la limita in nessun modo.</p>
+  <p>Chi deve spostare uno Staffordshire Bull Terrier oltre confine dovrebbe controllare direttamente le regole attuali del paese di destinazione invece di fidarsi di informazioni di seconda mano, perché queste liste cambiano. Noi lo facciamo sempre per ogni cucciolo che va all'estero, e diciamo chiaramente alle famiglie se la destinazione ha restrizioni.</p>
+
+  <h2>Com'è davvero il carattere della razza</h2>
+  <p>Lo Staffordshire Bull Terrier è stato selezionato per una combinazione precisa e impegnativa: coraggio e tenacia verso gli altri animali, e affidabilità assoluta con le persone. I cani che mostravano aggressività verso l'uomo venivano tolti dalla riproduzione senza discussioni, perché venivano maneggiati di continuo e da vicino.</p>
+  <p>Il risultato è una razza il cui tratto distintivo è l'affetto per le persone, estranei compresi e, notoriamente, bambini. Lo <a href="https://www.thekennelclub.org.uk/breed-standards/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="Standard di razza del Kennel Club (si apre in una nuova scheda)">standard di razza del Kennel Club</a> lo descrive audace, senza paura e totalmente affidabile, ed è uno dei pochissimi standard che usa la parola affidabile. Da qui il soprannome informale di nanny dog, che trattiamo con cautela: nessun cane di nessuna razza va mai lasciato senza sorveglianza con un bambino piccolo, e l'affetto non sostituisce la sorveglianza.</p>
+  <p>Il rovescio onesto è che la tolleranza verso gli altri cani non è garantita. Uno Staffordshire Bull Terrier poco socializzato, o incoraggiato a reagire, può diventare difficile con i cani dello stesso sesso dopo la maturità. È una questione di gestione, del tutto prevedibile, ed è proprio per questo che va affrontata prima di scegliere un cucciolo, non dopo.</p>
+
+  <h2>Il mito del «nanny dog»: cosa vuol dire e cosa no</h2>
+  <p>Probabilmente hai sentito chiamare lo Staffordshire Bull Terrier «nanny dog». Il soprannome è nato nel Novecento, quando le famiglie operaie inglesi notarono quanto questi cani fossero pazienti e legati alla casa con i bambini. Non vuol dire che la razza sia stata creata per badare ai bambini: descrive la tolleranza e l'attaccamento alla famiglia, che è ciò che la rende adatta alla vita in casa.</p>
+
+  <figure class="article-image img-right">
+  <img src="/images/Lothar-e-Arianna.webp" alt="Lothar Del Piccolo Diavolo, Staffordshire Bull Terrier, con la sua handler" loading="lazy" decoding="async" width="260" height="325">
+  <figcaption>Lothar Matthäus Del Piccolo Diavolo</figcaption>
+  </figure>
+
+  <div class="alert">
+  <p class="alert-title">⚠️ La sorveglianza serve sempre</p>
+  <p>Qualunque sia la razza, <strong>nessun cane va mai lasciato solo con bambini piccoli senza un adulto presente</strong>. Vale per lo Staffy esattamente come per il Labrador, il Golden Retriever o qualsiasi altra razza.</p>
   </div>
-  
-  <p>Nel <a href="/" title="Allevamento Del Piccolo Diavolo">nostro allevamento Del Piccolo Diavolo</a>, poniamo grande enfasi sulla selezione caratteriale. Tutti i nostri <a href="/maschi-staffordshire-bull-terrier/" title="Maschi Staffy">maschi</a> e <a href="/femmine-staffordshire-bull-terrier/" title="Femmine Staffy">femmine</a> sono testati geneticamente e selezionati per temperamento equilibrato. I <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffy">cuccioli di Staffy</a> crescono in casa e poi nel cortile, esposti a persone, rumori e cani adulti nelle settimane in cui quell'esposizione conta davvero.</p>
-  
-  <h2>Conclusioni: I Fatti Oltre i Pregiudizi</h2>
-  
-  <p><strong>1. La scienza è chiara:</strong> lo studio VetCompass 2020 del Royal Veterinary College non ha trovato alcuna differenza statisticamente significativa nel rischio di aggressione tra Staffordshire Bull Terrier e altre razze.</p>
-  
-  <p><strong>2. La legge italiana attuale non discrimina per razza:</strong> dal 2009 non esiste più una "lista nera" delle razze pericolose.</p>
-  
-  <p><strong>3. La proposta lombarda 2025</strong> introduce un patentino obbligatorio per 26 razze, ma non vieta il possesso.</p>
-  
-  <p><strong>4. Il fattore determinante è il proprietario:</strong> socializzazione, educazione, gestione responsabile e selezione da allevatori seri sono i veri elementi che determinano il comportamento di un cane.</p>
-  
-  <div class="callout">
-  <p class="callout-title">🐾 Vuoi Conoscere Meglio lo Staffordshire Bull Terrier?</p>
-  <p>Se stai considerando di accogliere uno Staffy nella tua famiglia, <a href="/allevamento-staffordshire-bull-terrier-in-emilia-romagna/" title="Contattaci">contattaci</a> per una visita al nostro allevamento. Leggi anche le nostre <a href="/faq-sullo-staffordshire-bull-terrier/" title="FAQ Staffy">FAQ</a> e le <a href="/recensioni/" title="Recensioni delle famiglie">recensioni</a> degli appassionati della razza.</p>
-  </div>
-  
+
+  <h2>Assicurazione, casa e vita di tutti i giorni</h2>
+  <p>In Italia l'assicurazione di responsabilità civile non è obbligatoria per questa razza, ma la consigliamo a ogni proprietario, di qualunque razza: le polizze costano poco e coprono situazioni che con l'aggressività non c'entrano, come un cane che fa cadere un ciclista.</p>
+  <p>Dopo la riforma del condominio del 2012, il regolamento condominiale non può vietare di tenere animali negli appartamenti di proprietà. I contratti d'affitto sono un'altra cosa e possono avere clausole sugli animali: la domanda va fatta prima di firmare, non dopo l'arrivo del cucciolo. Alcune compagnie aeree e di navigazione applicano restrizioni di razza più severe della legge nazionale, e vanno controllate prima di ogni viaggio.</p>
+
+  <h2>Cosa vuol dire, in pratica, essere un proprietario responsabile</h2>
+  <p>Socializzazione presto e per tutto il primo anno, cominciando dall'allevatore. Obbedienza di base con un richiamo affidabile, che vale più di qualsiasi museruola. Mai incoraggiare giochi bruschi che premiano il mordicchiare o il tirare contro una persona. Gestire con attenzione gli incontri con cani sconosciuti, invece di sperare che vada bene. E abbastanza attività fisica e mentale perché un cane forte e intelligente non si inventi da solo come occupare il tempo.</p>
+  <p>Niente di tutto questo è insolito: è il lavoro normale di chi vive con un terrier ben costruito. La reputazione della razza la fanno e la disfano i proprietari, un cane alla volta, e la cosa più utile che un proprietario di Staffordshire Bull Terrier possa fare per la razza è avere in pubblico un cane visibilmente educato.</p>
+  <p>Per questo nell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo</a> la selezione parte dal carattere: i <a href="/maschi-staffordshire-bull-terrier/" title="Maschi Staffy">maschi</a> e le <a href="/femmine-staffordshire-bull-terrier/" title="Femmine Staffy">femmine</a> sono testati, o esenti per via parentale con i referti dei genitori, e scelti anche per l'equilibrio, e le <a href="/linee-sangue-staffordshire-bull-terrier/" title="Linee di sangue Staffy">linee di sangue</a> sono studiate anche per il temperamento. I <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffy">cuccioli di Staffy</a> crescono in casa e poi nel cortile, esposti a persone, rumori e cani adulti nelle settimane in cui conta. Altre risposte sono nelle <a href="/faq-sullo-staffordshire-bull-terrier/" title="FAQ Staffy">FAQ</a> e nelle <a href="/recensioni/" title="Recensioni delle famiglie">recensioni</a> delle famiglie; per una visita, la pagina dell'<a href="/allevamento-staffordshire-bull-terrier-in-emilia-romagna/" title="Allevamento in Emilia-Romagna">allevamento a Ostellato</a>.</p>
+
+
   <section class="faq">
   <div class="faq-header">
   <h2>Domande Frequenti sulla Pericolosità dello Staffy</h2>
@@ -235,7 +143,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Cos'è la "save list" della Lombardia?</h3>
-  <div class="faq-answer">&Egrave; un elenco di 26 tipologie di cani, fra cui lo Staffordshire Bull Terrier, contenuto in un progetto di legge al Parlamento che il Consiglio regionale della Lombardia ha approvato il 24 giugno 2025. Chi detiene uno di quei cani dovrebbe seguire un corso teorico di almeno dieci ore e uno pratico di almeno sei, con il test CAE-1 dell'ENCI. Il punto che interessa chi sceglie un allevamento &egrave; che il testo approvato <strong>esclude i cani iscritti ai libri genealogici</strong>: uno Staffy con pedigree ENCI non rientrerebbe negli obblighi, mentre per i soggetti senza pedigree la proposta vieta riproduzione e cessione. Resta comunque una proposta: finch&eacute; il Parlamento non la approva non ha effetti pratici, ed &egrave; utile seguirne l'iter.
+  <div class="faq-answer">&Egrave; un elenco di 26 tipologie di cani contenuto in un progetto di legge al Parlamento che il Consiglio regionale della Lombardia ha approvato il 24 giugno 2025. Nella prima versione, presentata a gennaio, c'era anche lo Staffordshire Bull Terrier; nel testo approvato non c'&egrave; pi&ugrave;. Chi detiene uno di quei cani dovrebbe seguire un corso teorico di almeno dieci ore e uno pratico di almeno sei, con il test CAE-1 dell'ENCI. Il punto che interessa chi sceglie un allevamento &egrave; che il testo approvato <strong>esclude comunque i cani iscritti ai libri genealogici</strong>, qualunque sia la tipologia, mentre per i soggetti senza pedigree la proposta vieta riproduzione e cessione. Resta comunque una proposta: finch&eacute; il Parlamento non la approva non ha effetti pratici, ed &egrave; utile seguirne l'iter.
   </div>
   </div>
   

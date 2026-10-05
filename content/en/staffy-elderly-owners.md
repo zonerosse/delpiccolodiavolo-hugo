@@ -73,6 +73,21 @@ custom_content: |
 
   <h2>Equipment for safe walks</h2>
   <p>A front-attachment, no-pull harness reduces the force of a sudden lunge; a lead with a shock-absorbing section softens jolts; a hands-free lead worn at the waist leaves both hands free for a walking stick or a handrail. For walks in the dark, a head torch and a reflective vest. None of it costs much, and together it makes the difference between a walk that is a pleasure and one that is a risk.</p>
+  <p>What you need and what it costs:</p>
+
+  <table>
+  <thead>
+  <tr><th>Equipment</th><th>Why it matters</th><th>Cost</th></tr>
+  </thead>
+  <tbody>
+  <tr><td><strong>No-pull harness</strong></td><td>Reduces the force of a pull</td><td>25-50 euros</td></tr>
+  <tr><td><strong>Shock-absorbing lead</strong></td><td>Absorbs sudden jolts</td><td>15-30 euros</td></tr>
+  <tr><td><strong>Hands-free lead</strong></td><td>The weight sits on the hips, hands stay free for a stick</td><td>20-35 euros</td></tr>
+  <tr><td><strong>Head torch</strong></td><td>Safety on walks in the dark</td><td>15-25 euros</td></tr>
+  <tr><td><strong>Reflective vest</strong></td><td>Visibility in the evening</td><td>10-20 euros</td></tr>
+  </tbody>
+  </table>
+
 
   <h2>A plan for emergencies</h2>
   <p>Decide in advance who has the keys and can reach the dog within a few hours if you are taken ill, where the dog will go, a relative, a trusted dog sitter or a boarding kennel already tried, and who will send you news. Keep an emergency bag ready: a week of the usual food, current medication with written doses, the health record and microchip number, a spare lead and harness, a familiar blanket, the contacts of the vet and the dog sitter, and a note on the dog's routine and habits. After a hospital stay, allow a day or two of rest before taking the dog back on.</p>
@@ -103,7 +118,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How much does a Staffy really cost to keep?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Around 300 to 500 euros a year for ordinary costs: good-quality food, booster vaccinations, monthly parasite treatment and equipment. Grooming is not needed at all, and on a pension that matters: in other breeds it adds several hundred euros a year. Two things sit outside that figure. Third-party liability insurance, a few tens of euros, which is worth having anyway. And <strong>unexpected costs</strong>, which over twelve years always arrive: a diagnostic test, an operation, a long course of treatment. A thousand or two put aside, or a health policy, avoids ever having to choose between the budget and the dog. On a fixed, limited income, this is the part of the sum to do before, not after.
+  <div class="faq-answer">Around 200 to 300 euros a year for ordinary costs: good-quality food, booster vaccinations, monthly parasite treatment and equipment. Grooming is not needed at all, and on a pension that matters: in other breeds it adds several hundred euros a year. Two things sit outside that figure. Third-party liability insurance, a few tens of euros, which is worth having anyway. And <strong>unexpected costs</strong>, which over twelve years always arrive: a diagnostic test, an operation, a long course of treatment. A thousand or two put aside, or a health policy, avoids ever having to choose between the budget and the dog. On a fixed, limited income, this is the part of the sum to do before, not after.
   </div>
   </div>
 

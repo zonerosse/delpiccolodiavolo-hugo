@@ -68,6 +68,21 @@ custom_content: |
 
   <h2>Ausrüstung für sichere Spaziergänge</h2>
   <p>Ein Geschirr mit Brustring vorn, das das Ziehen bremst, mindert die Wucht eines plötzlichen Satzes; eine Leine mit Ruckdämpfer federt Stöße ab; eine Bauchgurtleine lässt beide Hände frei für Gehstock oder Geländer. Für Gänge im Dunkeln eine Stirnlampe und eine Warnweste. Nichts davon kostet viel, und zusammen macht es den Unterschied zwischen einem Spaziergang, der Freude macht, und einem, der ein Risiko ist.</p>
+  <p>Was man braucht und was es kostet:</p>
+
+  <table>
+  <thead>
+  <tr><th>Ausrüstung</th><th>Wozu sie dient</th><th>Kosten</th></tr>
+  </thead>
+  <tbody>
+  <tr><td><strong>Anti-Zug-Geschirr</strong></td><td>Verringert die Zugkraft</td><td>25-50 Euro</td></tr>
+  <tr><td><strong>Ruckdämpfende Leine</strong></td><td>Fängt plötzliche Rucke ab</td><td>15-30 Euro</td></tr>
+  <tr><td><strong>Freihandleine</strong></td><td>Das Gewicht liegt auf der Hüfte, die Hände bleiben frei für den Stock</td><td>20-35 Euro</td></tr>
+  <tr><td><strong>Stirnlampe</strong></td><td>Sicherheit bei Spaziergängen im Dunkeln</td><td>15-25 Euro</td></tr>
+  <tr><td><strong>Reflektierende Weste</strong></td><td>Sichtbarkeit am Abend</td><td>10-20 Euro</td></tr>
+  </tbody>
+  </table>
+
 
   <h2>Ein Plan für Notfälle</h2>
   <p>Legen Sie im Voraus fest, wer die Schlüssel hat und den Hund innerhalb weniger Stunden erreicht, wenn Sie krank werden, wohin der Hund kommt, zu Verwandten, zu einem vertrauten Hundesitter oder in eine schon erprobte Pension, und wer Ihnen Nachrichten schickt. Halten Sie eine Notfalltasche bereit: eine Woche des gewohnten Futters, aktuelle Medikamente mit schriftlicher Dosierung, Heimtierausweis und Mikrochipnummer, eine Ersatzleine und ein Ersatzgeschirr, eine vertraute Decke, die Kontakte von Tierarzt und Hundesitter und eine Notiz zu Tagesablauf und Gewohnheiten des Hundes. Nach einem Krankenhausaufenthalt gönnen Sie sich ein oder zwei Tage Ruhe, bevor Sie den Hund wieder übernehmen.</p>
@@ -98,7 +113,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was kostet ein Staffy wirklich im Unterhalt?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Etwa 300 bis 500 Euro im Jahr für die laufenden Kosten: gutes Futter, Auffrischimpfungen, monatliche Parasitenvorbeugung und Ausstattung. Fellpflege fällt ganz weg, und bei einer Rente zählt das: bei anderen Rassen kommen mehrere hundert Euro im Jahr dazu. Zwei Dinge liegen außerhalb dieser Zahl. Die Haftpflichtversicherung, einige Dutzend Euro, die sich ohnehin lohnt. Und <strong>unerwartete Kosten</strong>, die in zwölf Jahren immer kommen: eine Untersuchung, eine Operation, eine lange Behandlung. Tausend oder zweitausend Euro zurückgelegt, oder eine Krankenversicherung, ersparen es, je zwischen Budget und Hund wählen zu müssen. Bei einem festen, begrenzten Einkommen ist das der Teil der Rechnung, den man vorher macht, nicht danach.
+  <div class="faq-answer">Etwa 200 bis 300 Euro im Jahr für die laufenden Kosten: gutes Futter, Auffrischimpfungen, monatliche Parasitenvorbeugung und Ausstattung. Fellpflege fällt ganz weg, und bei einer Rente zählt das: bei anderen Rassen kommen mehrere hundert Euro im Jahr dazu. Zwei Dinge liegen außerhalb dieser Zahl. Die Haftpflichtversicherung, einige Dutzend Euro, die sich ohnehin lohnt. Und <strong>unerwartete Kosten</strong>, die in zwölf Jahren immer kommen: eine Untersuchung, eine Operation, eine lange Behandlung. Tausend oder zweitausend Euro zurückgelegt, oder eine Krankenversicherung, ersparen es, je zwischen Budget und Hund wählen zu müssen. Bei einem festen, begrenzten Einkommen ist das der Teil der Rechnung, den man vorher macht, nicht danach.
   </div>
   </div>
 

@@ -48,34 +48,43 @@ custom_content: |
   
   <p>I cuccioli di Staffordshire Bull Terrier vanno protetti dai parassiti esterni prima di vederli, non dopo: quando si notano le pulci l'infestazione è già in corso, e il 95% di essa sta nell'ambiente sotto forma di uova, larve e pupe. Le pulci causano prurito, dermatite allergica e anemia nei cuccioli più piccoli, e trasmettono la tenia. Le zecche trasmettono babesiosi, ehrlichiosi, anaplasmosi e malattia di Lyme, e il rischio cresce con il tempo in cui restano attaccate: toglierle entro 24-48 ore lo riduce molto. Pappataci e zanzare portano invece leishmaniosi e filariosi cardiopolmonare. La protezione comincia quando il veterinario la ritiene adatta all'età e al peso del cucciolo, e prosegue con un calendario stagionale che comprende anche la pulizia della casa. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
-  
-  <h2>Perché la Prevenzione è Fondamentale nei Cuccioli</h2>
-  
-  <p>I cuccioli di Staffordshire Bull Terrier hanno un sistema immunitario ancora in sviluppo: infestazioni di <strong>pulci</strong> e <strong>zecche</strong> possono causare anemia (soprattutto nei cuccioli piccoli), dermatiti allergiche da morso di pulce (DAP), e trasmissione di patogeni pericolosi come Babesia, Ehrlichia, Borreliosi (malattia di Lyme).</p>
-  
-  <p>Un piano preventivo strutturato riduce drammaticamente i rischi sanitari e il fastidio per il cucciolo fin dai primi mesi di vita. La protezione va iniziata appena il <a href="https://wsava.org/global-guidelines/" title="Linee guida globali WSAVA" target="_blank" rel="noopener" aria-label="Linee guida globali WSAVA (si apre in una nuova scheda)">veterinario</a> lo ritiene appropriato in base all'età e al peso.</p>
-  
-  <div class="callout">
-  <p class="callout-title">💡 Importante</p>
-  <p>Non aspettare di vedere i parassiti per iniziare la prevenzione. Quando li vedi, l'infestazione è già in atto e serve un intervento più aggressivo.</p>
-  </div>
-  
-  <h2>Parassiti Esterni Principali da Conoscere</h2>
-  
-  <h3>Pulci (Ctenocephalides canis/felis)</h3>
-  
-  <p>Piccoli insetti marroni che si muovono rapidamente nel pelo. Una singola pulce femmina può deporre 40-50 uova al giorno. Causano prurito intenso, allergie cutanee (DAP), anemia nei cuccioli, e possono trasmettere tenie (Dipylidium). Le pulci adulte rappresentano solo il <strong>5% dell'infestazione</strong>: il 95% sono uova, larve e pupe nell'ambiente.</p>
-  
-  <h3>Zecche (Ixodidae)</h3>
-  
-  <p>Parassiti che si attaccano alla cute per nutrirsi di sangue per giorni. Trasmettono malattie gravi: Babesiosi (distrugge i globuli rossi), Ehrlichiosi, Anaplasmosi, Malattia di Lyme. Più tempo la zecca resta attaccata, maggiore il rischio di trasmissione. Rimozione entro 24-48h riduce drasticamente il rischio.</p>
-  
-  <h3>Pappataci e Zanzare</h3>
-  
-  <p>Trasmettono <strong>Leishmaniosi</strong> (pappataci) e <strong>Filariosi cardiopolmonare</strong> (zanzare). Prevenzione regionale specifica necessaria in aree endemiche.</p>
-  
-  <h2>Protocolli Stagionali: Come Organizzarsi</h2>
-  
+  <h2>Perché prevenire conviene più che curare</h2>
+  <p>La lotta ai parassiti è uno dei pochi campi della salute del cane in cui l'approccio giusto è del tutto prevedibile e quasi sempre efficace. Quasi tutto quello che conta si previene con un calendario e una piccola spesa al mese, e quasi tutti i casi gravi che vedono i <a href="https://wsava.org/global-guidelines/" title="Linee guida globali WSAVA" target="_blank" rel="noopener" aria-label="Linee guida globali WSAVA (si apre in una nuova scheda)">veterinari</a> riguardano un cane la cui prevenzione si era interrotta.</p>
+  <p>Per lo Staffordshire Bull Terrier c'è una considerazione di razza da dire subito: il pelo corto e fitto rende pulci e zecche più facili da vedere che in una razza a pelo lungo, ed è un vantaggio. Ma lo stesso mantello, insieme a una pelle portata alle reazioni allergiche, fa sì che la dermatite allergica da pulci sia particolarmente frequente e particolarmente fastidiosa. In un cane sensibilizzato, una sola puntura di pulce può scatenare settimane di prurito.</p>
+
+  <h2>Pulci</h2>
+  <p>La pulce che vedi sul cane è circa il 5 per cento dell'infestazione. Il resto, cioè uova, larve e pupe, è nel tappeto, nella cuccia, nel divano e nelle fessure del pavimento. È la cosa più utile da sapere sulle pulci, perché spiega perché trattare solo il cane fallisce di continuo, e perché un'infestazione sembra tornare due settimane dopo essere stata risolta.</p>
+  <p>I segni da cercare: grattamento concentrato alla base della coda e lungo la schiena, piccole croste, e le feci di pulce, che sembrano granelli di terra nera e diventano color ruggine su un foglio bianco bagnato. Quella prova è definitiva e richiede dieci secondi.</p>
+  <p>Il trattamento riguarda tutti gli animali di casa, nello stesso giorno, più l'ambiente. Cucce, plaid e coperte si lavano a 60 gradi; si passa l'aspirapolvere a fondo, anche sotto i mobili, lungo i battiscopa e nelle fessure dove si nascondono le larve, ogni giorno finché l'infestazione è attiva, svuotando subito il sacchetto fuori casa. Tappeti e divani si trattano con il vapore, e nelle infestazioni importanti serve un prodotto per l'ambiente con un regolatore della crescita degli insetti (IGR), usato secondo l'etichetta, arieggiando bene e rispettando i tempi prima di rientrare con cuccioli e persone. Si ripete dopo tre settimane, per prendere la generazione che esce dalle pupe, che resistono a tutto.</p>
+
+  <h2>Zecche</h2>
+  <p>Le zecche contano meno per il morso che per quello che trasmettono: babesiosi, ehrlichiosi, borreliosi e, in alcune zone del Sud Europa, epatozoonosi. In Italia la babesiosi in particolare può diventare in fretta pericolosa per la vita, ed è il motivo per cui consideriamo la prevenzione delle zecche non negoziabile per i cani che passeggiano vicino all'erba alta.</p>
+  <p>Durante la stagione, che in gran parte d'Italia ormai va da marzo a novembre e nelle zone costiere miti di fatto tutto l'anno, il cane si controlla dopo ogni passeggiata nell'erba o nel bosco. Si passano le mani contropelo, lentamente, cercando piccoli noduli: orecchie, dentro e fuori, collo, ascelle, inguine, fra le dita e attorno all'ano.</p>
+  <p>Per togliere una zecca:</p>
+  <ol>
+  <li>Si usa un uncino tira-zecche o una pinzetta a punta fine, presa il più vicino possibile alla pelle.</li>
+  <li>Si tira in modo lento e costante, senza strappi e senza schiacciare il corpo della zecca. L'uncino è fatto per essere ruotato piano mentre si solleva; la pinzetta no: si tira dritto.</li>
+  <li>Niente olio, alcol o fiamma sulla zecca attaccata: una zecca stressata rigurgita, ed è proprio così che passano i patogeni.</li>
+  <li>Si disinfetta il punto con clorexidina o iodopovidone e ci si lava bene le mani.</li>
+  <li>La zecca si può conservare in un barattolino con alcol, se il veterinario vuole identificarla.</li>
+  <li>Si segna la data, e nelle tre settimane successive si osservano febbre, abbattimento, zoppia o urine scure.</li>
+  </ol>
+
+  <h2>Vermi intestinali</h2>
+  <p>Ascaridi, anchilostomi, tricocefali e tenie sono il gruppo più comune. I cuccioli di fatto nascono con gli ascaridi passati dalla madre e vanno sverminati con un calendario rigido: ogni due settimane dalle due alle dodici settimane di età, poi ogni mese fino ai sei mesi. La prima parte è compito dell'allevatore, il resto del proprietario, e le date devono essere scritte sul libretto sanitario che ricevi.</p>
+  <p>Gli adulti di solito si trattano ogni tre mesi, più spesso per i cani che cacciano, mangiano quello che trovano o vivono con bambini piccoli. La tenia si prende ingerendo le pulci: un motivo in più per gestire i due problemi insieme e non separatamente.</p>
+  <p>I segni di un'infestazione: pelo opaco, pancia gonfia nei cuccioli, dimagrimento nonostante il buon appetito, segmenti simili a chicchi di riso attorno all'ano, e il cane che si trascina sul sedere, che più spesso dipende dalle ghiandole anali ma va comunque controllato.</p>
+
+  <h2>Filaria e leishmaniosi</h2>
+  <p>Sono le due che chi vive nel Sud Europa non può permettersi di prendere alla leggera. La filaria (Dirofilaria immitis), trasmessa dalle zanzare, è endemica in Pianura Padana e in gran parte del Nord Italia, compresa la nostra zona del delta del Po, oltre che nelle zone lacustri e lungo le coste. I vermi adulti vivono nel cuore e nelle arterie polmonari, e senza cura la malattia è mortale.</p>
+  <p>La prevenzione è un trattamento mensile, in compresse o spot-on, per tutta la stagione delle zanzare, di solito da aprile-maggio a novembre-dicembre. Prima di cominciare serve un test: verso i sei-sette mesi nel cucciolo, e sempre in un cane di cui non si conosce la storia, perché dare il preventivo a un cane già infestato può essere pericoloso. Poi il test si ripete ogni primavera, prima di ricominciare.</p>
+  <p>La leishmaniosi, trasmessa dai pappataci, è endemica in tutto il Mediterraneo e si sta spostando verso nord. È una malattia seria, spesso per tutta la vita. La prevenzione unisce un collare o uno spot-on repellente con un'azione anti-puntura dimostrata, evitare l'esposizione all'aperto all'alba e al tramonto durante la stagione e, se il veterinario lo consiglia, il vaccino. Un cane che va al Sud o che ne arriva va protetto prima del viaggio, non dopo. Documenti, auto, treno e aereo: le regole pratiche sono nella guida su <a href="/famiglia-viaggi-spostamenti/" title="Viaggiare con lo Staffy">come viaggiare con lo Staffy</a>.</p>
+
+  <h2>Un piano pratico per l'anno</h2>
+  <p>Ogni mese, tutto l'anno: un prodotto combinato contro pulci e zecche, scelto con il veterinario, più la prevenzione della filaria durante la stagione delle zanzare. Ogni tre mesi: la sverminazione, o più spesso per i cani a rischio, e nei cuccioli il calendario si verifica con un <a href="/cuccioli-sverminazione-esami-feci/" title="Sverminazione ed esame delle feci">esame delle feci</a>. Ogni settimana: un controllo con le mani di pelo e pelle, che richiede due minuti e intercetta presto la maggior parte dei problemi. Ogni anno: una visita che comprenda anche la situazione dei parassiti nella propria zona, perché cambia.</p>
+  <p>Una cautela sui prodotti: mai usare su un cane un prodotto fatto per il gatto, o il contrario, e mai prodotti a base di permetrina in una casa con gatti. E diffidare delle alternative naturali come l'aglio o gli oli essenziali: l'aglio è tossico per il cane, anche diversi oli essenziali lo sono, e nessuno di loro previene la babesiosi.</p>
+
+  <h2>L'anno, stagione per stagione</h2>
   <p>Come cambia la protezione dai parassiti nel corso dell'anno, stagione per stagione:</p>
 
   <table>
@@ -88,16 +97,12 @@ custom_content: |
   <tr><td><strong>Inverno (dicembre-marzo)</strong></td><td>Nelle case riscaldate le pulci restano attive tutto l'anno</td><td>Si decide con il veterinario se mantenere la protezione completa; dove leishmaniosi o zecche sono endemiche, protezione per 12 mesi</td></tr>
   </tbody>
   </table>
-  
-  <div class="info-box">
-  <p class="info-box-title">🏠 Consiglio allevamento</p>
-  <p>In zone endemiche per zecche (collina, boschi) o Leishmaniosi (centro-sud Italia, zone lacustri), mantieni copertura continua 12 mesi all'anno con promemoria sul calendario del telefono.</p>
-  </div>
-  
-  <h2>Prodotti Antiparassitari: Cosa Scegliere</h2>
-  
-  <p>Confrontati <strong>SEMPRE</strong> con il veterinario per scegliere il prodotto idoneo all'età esatta e al peso attuale del cucciolo. Non improvvisare.</p>
-  
+
+  <p>Un promemoria sul calendario del telefono fa più di qualsiasi buona intenzione.</p>
+
+  <h2>Scegliere il prodotto: tre formati</h2>
+  <p>Il primo trattamento lo sceglie il veterinario, sull'età esatta e sul peso attuale del cucciolo.</p>
+
   <table>
   <thead>
   <tr><th>Formato</th><th>Vantaggi</th><th>Limiti e modo d'uso</th><th>Età minima</th></tr>
@@ -108,127 +113,12 @@ custom_content: |
   <tr><td><strong>Collari</strong></td><td>Rilascio per 6-8 mesi, copertura ampia, economici; nella formulazione giusta respingono anche i pappataci</td><td>Vanno portati sempre, con due dita di gioco; possibili reazioni cutanee locali</td><td>Spesso 7 settimane: vale quella indicata sul prodotto</td></tr>
   </tbody>
   </table>
-  
-  <div class="alert">
-  <p class="alert-title">⚠️ PERICOLO</p>
-  <p><strong>MAI</strong> usare prodotti per cani adulti su cuccioli piccoli. <strong>MAI</strong> scambiare i prodotti fra cane e gatto: molti antiparassitari per cani contengono permetrina, TOSSICA per i gatti, anche solo per contatto con un cane appena trattato. <strong>MAI</strong> combinare prodotti senza consulto veterinario. Rischio intossicazione grave.</p>
-  </div>
-  
-  <h2>Controllo Quotidiano e Rimozione Zecche</h2>
-  
-  <h3>Ispezione Post-Passeggiata</h3>
-  
-  <p>Dopo ogni uscita in aree a rischio (erba alta, boschi, campagna), ispeziona accuratamente:</p>
-  
-  <ul>
-  <li><strong>Zone preferite dalle zecche:</strong> orecchie (dentro e fuori), collo, ascelle, inguine, spazi interdigitali, zona perianale</li>
-  <li><strong>Tecnica:</strong> passa le mani contropelo lentamente, cerca noduli o irregolarità</li>
-  <li><strong>Tempistica:</strong> prima che la zecca si attacchi saldamente (prime 24h)</li>
-  </ul>
-  
-  <div class="procedure">
-  <p class="procedure-title">📋 Rimozione Zecche: Procedura Corretta</p>
-  <ol>
-  <li>Usa <strong>pinzette specifiche</strong> per zecche (a uncino o con leva) o un rimuovi-zecche</li>
-  <li>Afferra la zecca il più vicino possibile alla cute del cane</li>
-  <li>Tira <strong>lentamente e costantemente</strong> perpendicolare alla cute (non ruotare)</li>
-  <li>Non schiacciare il corpo della zecca (rischio rigurgito di patogeni)</li>
-  <li>Disinfetta la zona con clorexidina o iodopovidone</li>
-  <li>Conserva la zecca in un barattolo con alcol (eventuale identificazione)</li>
-  <li>Lava bene le mani dopo la rimozione</li>
-  </ol>
-  </div>
-  
-  <p><strong>Non usare:</strong> alcol, olio, fiammiferi sulla zecca attaccata. Sono metodi pericolosi che stressano la zecca causando rigurgito di saliva infetta.</p>
-  
-  <p><strong>Monitoraggio post-rimozione:</strong> segna data e zona su un calendario. Osserva per 2-3 settimane eventuali reazioni locali, febbre, letargia, zoppia. Se compaiono sintomi, contatta subito il veterinario specificando la rimozione della zecca.</p>
-  
-  <h2>Gestione dell'Ambiente Domestico</h2>
-  
-  <p>Il <strong>95% del ciclo vitale delle pulci</strong> avviene nell'ambiente, non sul cane. Trattare solo il cane è insufficiente.</p>
-  
-  <h3>Pulizie Strategiche</h3>
-  
-  <ul>
-  <li><strong>Cucce e tessuti:</strong> lava cucce, plaid, coperte a 60°C almeno settimanalmente</li>
-  <li><strong>Aspirapolvere:</strong> passa OGNI GIORNO durante infestazione attiva, svuota subito il sacchetto fuori casa</li>
-  <li><strong>Fessure e battiscopa:</strong> le larve di pulce si nascondono qui, aspira accuratamente</li>
-  <li><strong>Tappeti e divani:</strong> trattali con vapore o spray specifici se infestazione grave</li>
-  </ul>
-  
-  <h3>Spray Ambientali</h3>
-  
-  <p>In infestazioni importanti, valuta <strong>spray ambientali</strong> con IGR (regolatori crescita) o trattamenti professionali. Proteggi cuccioli e persone secondo etichette, arieggia bene, rispetta i tempi di rientro.</p>
-  
-  <h2>Filariosi Cardiopolmonare: Prevenzione Specifica</h2>
-  
-  <p>La Filaria (Dirofilaria immitis) è trasmessa da zanzare ed è <strong>mortale se non trattata</strong>. Vermi adulti colonizzano cuore e arterie polmonari.</p>
-  
-  <h3>Zone a Rischio in Italia</h3>
-  
-  <p>Pianura Padana, zone lacustri, delta del Po, coste tirreniche e adriatiche. Se vivi o viaggi in queste aree, profilassi obbligatoria. Documenti, auto, treno e aereo: le regole pratiche sono nella guida su <a href="/famiglia-viaggi-spostamenti/" title="Viaggiare con lo Staffy">come viaggiare con lo Staffy</a>.</p>
-  
-  <h3>Protocollo Prevenzione</h3>
-  
-  <ul>
-  <li><strong>Test pre-profilassi:</strong> a 6-7 mesi per escludere infezione in corso</li>
-  <li><strong>Prodotti mensili:</strong> compresse o spot-on con ivermectina/moxidectina da aprile/maggio a novembre/dicembre</li>
-  <li><strong>Test annuale:</strong> ogni primavera prima di ricominciare la profilassi</li>
-  </ul>
-  
-  <h2>Segnali d'Allarme: Quando Chiamare il Veterinario</h2>
-  
-  <h3>Infestazione da Pulci</h3>
-  
-  <ul>
-  <li>Prurito intenso persistente con grattamento compulsivo</li>
-  <li>Croste, aree senza pelo, lesioni da grattamento</li>
-  <li>Puntini neri nel pelo (feci di pulce che diventano rosse se bagnate)</li>
-  <li>Gengive pallide (anemia da infestazione massiva nei cuccioli)</li>
-  </ul>
-  
-  <h3>Malattie Trasmesse da Zecche</h3>
-  
-  <ul>
-  <li>Febbre alta (&gt;39.5°C) entro 3 settimane dalla rimozione zecca</li>
-  <li>Letargia marcata, inappetenza persistente</li>
-  <li>Zoppia intermittente o gonfiore articolare</li>
-  <li>Urine scure/rosse (babesiosi - URGENZA)</li>
-  <li>Petecchie (puntini rossi) su gengive/pancia</li>
-  </ul>
-  
-  <h3>Reazioni Avverse a Antiparassitari</h3>
-  
-  <ul>
-  <li>Vomito/diarrea entro ore dall'applicazione</li>
-  <li>Tremori, salivazione eccessiva, atassia</li>
-  <li>Dermatite da contatto nel punto applicazione spot-on</li>
-  </ul>
-  
-  <div class="alert">
-  <p class="alert-title">🚨 URGENZA VETERINARIA</p>
-  <p>Urine rosse/marroni, pallore gengive, difficoltà respiratoria, collasso, convulsioni. NON aspettare, vai subito in pronto soccorso.</p>
-  </div>
-  
-  <div class="checklist">
-  <p class="checklist-title">Checklist Prevenzione Parassiti</p>
-  <ul>
-  <li>Protocollo antiparassitario attivo 12 mesi o stagionale secondo zona</li>
-  <li>Promemoria calendario per applicazioni mensili</li>
-  <li>Ispezione post-passeggiata in aree a rischio</li>
-  <li>Pinzette rimuovi-zecche sempre in borsa/auto</li>
-  <li>Lavaggi settimanali cuccia e tessuti a 60°C</li>
-  <li>Aspirapolvere quotidiana se presenza pulci</li>
-  <li>Test Filaria se zona endemica</li>
-  <li>Numero veterinario salvato in rubrica</li>
-  </ul>
-  </div>
-  
-  <div class="callout">
-  <p class="callout-title">🎯 Conclusione</p>
-  <p>La prevenzione parassitaria nei cuccioli di Staffordshire Bull Terrier non è opzionale ma essenziale per salute e benessere. Un approccio proattivo con prodotti appropriati, controlli regolari e gestione ambientale protegge il tuo Staffy da malattie gravi e costose da trattare. Investi in prevenzione oggi per risparmiare in cure domani.</p>
-  </div>
-  
+
+  <p>Tre regole senza eccezioni: mai un prodotto per cani adulti su un cucciolo piccolo; mai scambiare i prodotti fra cane e gatto, perché molti antiparassitari per cani contengono permetrina, tossica per i gatti anche solo per contatto con un cane appena trattato; e mai combinare prodotti senza chiedere al veterinario.</p>
+
+  <h2>Quando chiamare il veterinario</h2>
+  <p><strong>Pulci</strong>: prurito intenso e persistente con grattamento compulsivo, croste o zone senza pelo, feci di pulce nel pelo, gengive pallide in un cucciolo molto infestato. <strong>Malattie da zecche</strong>: febbre sopra i 39,5 °C nelle tre settimane dopo aver tolto una zecca, abbattimento marcato, inappetenza, zoppia intermittente o articolazioni gonfie, puntini rossi su gengive o pancia. <strong>Reazione a un prodotto</strong>: vomito o diarrea nelle ore dopo l'applicazione, tremori, salivazione abbondante, andatura incerta, o dermatite dove è stato messo uno spot-on. Urine rosse o marroni, gengive molto pallide, difficoltà a respirare, collasso o convulsioni sono un'emergenza: si va subito al pronto soccorso veterinario più vicino.</p>
+
   <h2>Domande Frequenti</h2>
   
   <section class="faq">
@@ -251,6 +141,12 @@ custom_content: |
   <div class="faq-item">
   <h3 class="faq-question">Quanto spesso vanno fatti i trattamenti antiparassitari?</h3>
   <div class="faq-answer">Dipende dal prodotto e dalla stagione, e la risposta corretta &egrave; scritta sul foglietto: uno spot-on copre in genere quattro settimane, alcune compresse arrivano a dodici, i collari a diversi mesi. Il vero errore non &egrave; la scelta del prodotto ma <strong>l'interruzione invernale</strong>: con gli inverni miti di oggi zecche e pulci restano attive anche a gennaio, e in pianura padana la copertura tutto l'anno &egrave; ormai la norma. Per la filaria il discorso &egrave; diverso, perch&eacute; la prevenzione &egrave; stagionale e va impostata prima dell'inizio del periodo dei vettori. Conviene tenere una nota con le date dei trattamenti: quando si salta un mese non ce ne si accorge, e le reinfestazioni in casa sono molto pi&ugrave; noiose da risolvere che da prevenire.</div>
+  </div>
+  
+  <div class="faq-item">
+  <h3 class="faq-question">Il mio cane non esce mai dal giardino. Serve comunque la prevenzione?</h3>
+  <div class="faq-answer">S&igrave;. Le zanzare che portano la filaria e i pappataci che portano la leishmaniosi non hanno bisogno che il cane viaggi: arrivano in giardino. Le zecche possono essere portate da ricci, uccelli e altri animali di passaggio, e le uova di pulce arrivano con le scarpe, i vestiti e gli animali in visita. Un cane che vive solo in giardino ha quindi bisogno della stessa protezione degli altri, adattata alla zona in cui vivi. Quello che cambia non &egrave; se proteggerlo, ma quanto controllarlo: un cane che non entra mai nell'erba alta o nel bosco ha bisogno di meno controlli per le zecche, non di meno prevenzione. Chiedi al veterinario quali parassiti circolano nella tua zona, perch&eacute; il quadro cambia da un posto all'altro.
+  </div>
   </div>
   
   </section>

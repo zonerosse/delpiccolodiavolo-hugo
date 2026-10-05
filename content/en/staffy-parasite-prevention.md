@@ -48,12 +48,20 @@ custom_content: |
   <h2>Fleas</h2>
   <p>The flea you see on the dog represents about 5 per cent of the infestation. The remainder — eggs, larvae and pupae — is in the carpet, the bedding, the sofa and the cracks in the floor. This is the single most useful fact about fleas, because it explains why treating the dog alone repeatedly fails, and why an infestation appears to return a fortnight after it was solved.</p>
   <p>Signs to look for: scratching concentrated at the base of the tail and along the back, small scabs, and flea dirt, which looks like specks of black grit and turns rust-red on damp white paper. That test is definitive and takes 10 seconds.</p>
-  <p>Treatment means treating every animal in the household simultaneously, on the same day, plus the environment: hot washing of all bedding, thorough vacuuming including under furniture with immediate disposal of the bag, and in heavy infestations an environmental product with an insect growth regulator. Repeat after 3 weeks to catch the generation that hatches from pupae, which are resistant to everything.</p>
+  <p>Treatment means treating every animal in the household on the same day, plus the environment. Beds, throws and blankets are washed at 60 degrees; vacuum thoroughly, under furniture, along skirting boards and in the cracks where larvae hide, every day while the infestation is active, emptying the bag outside straight away. Carpets and sofas are treated with steam, and heavy infestations need an environmental product with an insect growth regulator (IGR), used as the label says, airing the room well and keeping puppies and people out for the stated time. Repeat after 3 weeks to catch the generation that hatches from pupae, which are resistant to everything.</p>
 
   <h2>Ticks</h2>
   <p>Ticks matter less for the bite than for what they transmit: babesiosis, ehrlichiosis, borreliosis and, in parts of southern Europe, hepatozoonosis. In Italy, babesiosis in particular can be rapidly life-threatening, and it is the reason we treat tick prevention as non-negotiable for dogs that walk anywhere near long grass.</p>
-  <p>Check the dog after every walk in grass or woodland during the season, which in most of Italy now runs from March to November and in mild coastal areas effectively all year. Concentrate on ears, neck, armpits, groin and between the toes.</p>
-  <p>To remove one, use a tick hook or fine tweezers as close to the skin as possible, and pull steadily and straight out, without jerking or crushing the body; a tick hook is designed to be turned gently as it lifts, tweezers are not. Do not apply oil, alcohol or a flame: a distressed tick regurgitates, which is precisely how pathogens are transmitted. Note the date, and watch for fever, lethargy or dark urine over the following 3 weeks.</p>
+  <p>Check the dog after every walk in grass or woodland during the season, which in most of Italy now runs from March to November and in mild coastal areas effectively all year. Run your hands slowly against the coat, feeling for small lumps: ears inside and out, neck, armpits, groin, between the toes and around the anus.</p>
+  <p>To remove a tick:</p>
+  <ol>
+  <li>Use a tick hook or fine-pointed tweezers, gripping as close to the skin as possible.</li>
+  <li>Pull slowly and steadily, without jerking and without crushing the tick's body. A hook is designed to be turned gently as it lifts; tweezers are not: pull straight out.</li>
+  <li>No oil, alcohol or flame on an attached tick: a distressed tick regurgitates, which is precisely how pathogens are transmitted.</li>
+  <li>Disinfect the spot with chlorhexidine or povidone-iodine and wash your hands well.</li>
+  <li>The tick can be kept in a small jar of alcohol, if the vet wants to identify it.</li>
+  <li>Note the date, and watch for fever, lethargy, lameness or dark urine over the following 3 weeks.</li>
+  </ol>
 
   <h2>Intestinal worms</h2>
   <p>Roundworms, hookworms, whipworms and tapeworms are the common group. Puppies are effectively born with roundworm from the dam and must be wormed on a strict schedule: every 2 weeks from 2 weeks of age until 12 weeks, then monthly to 6 months. This is the breeder's responsibility for the first part and the owner's thereafter, and the dates should be written in the health record you receive.</p>
@@ -61,7 +69,8 @@ custom_content: |
   <p>Signs of a burden: a dull coat, a pot-bellied appearance in puppies, weight loss despite good appetite, visible segments like grains of rice around the anus, and scooting, which is more often anal glands but is worth investigating.</p>
 
   <h2>Heartworm and leishmaniasis</h2>
-  <p>These are the two that owners in southern Europe cannot afford to treat casually. Heartworm, transmitted by mosquitoes, is endemic in the Po Valley and much of northern Italy, including our own area. Prevention is a monthly treatment through the mosquito season, and it is essential to test before starting prophylaxis in a dog whose history is unknown, because treating an infected dog with a preventive can be dangerous.</p>
+  <p>These are the two that owners in southern Europe cannot afford to treat casually. Heartworm (Dirofilaria immitis), transmitted by mosquitoes, is endemic in the Po Valley and much of northern Italy, including our own area of the Po Delta, as well as around lakes and along the coasts. The adult worms live in the heart and pulmonary arteries, and untreated the disease is fatal.</p>
+  <p>Prevention is a monthly treatment, tablets or spot-on, through the whole mosquito season, usually from April or May to November or December. A test comes first: at around six to seven months in a puppy, and always in a dog whose history is unknown, because giving a preventive to a dog that is already infected can be dangerous. The test is then repeated every spring, before starting again.</p>
   <p>Leishmaniasis, transmitted by sandflies, is endemic across the Mediterranean and expanding northwards. It is a serious, often lifelong disease. Prevention combines a repellent collar or spot-on with proven anti-feeding action, avoiding outdoor exposure at dusk and dawn during the season, and, where recommended by your veterinarian, vaccination. Any dog travelling to or from southern Italy should be protected before the journey rather than after. Documents, car, train and air travel: the practical rules are in the guide to <a href="/en/staffy-travel-transport/" title="Travelling with a Staffy">travelling with a Staffy</a>.</p>
 
   <h2>A practical annual plan</h2>

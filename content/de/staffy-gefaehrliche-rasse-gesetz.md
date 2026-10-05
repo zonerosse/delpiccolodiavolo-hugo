@@ -56,8 +56,26 @@ custom_content: |
   <p>Die Liste hielt kaum zwei Jahre. Die am 3. März 2009 von der Staatssekretärin Francesca Martini unterzeichnete Verordnung schaffte sie ab, mit der Begründung, dass die Veterinärmedizin es nicht erlaubt, ein höheres Aggressionsrisiko an der Rasse oder an Kreuzungen festzumachen. Was diese Verordnung eingeführt hat, gilt weiterhin: eine Leine von höchstens anderthalb Metern im städtischen Raum, ein mitgeführter Maulkorb, der auf Verlangen angelegt wird, ein Register der Hunde, die gebissen haben, bei den Gesundheitsbehörden, und die zivil- und strafrechtliche Haftung des Halters. Quelle: die <a href="https://www.salute.gov.it/portale/documentazione/p6_2_2_1.jsp?id=3031" target="_blank" rel="noopener" aria-label="Italienisches Gesundheitsministerium, Verordnung vom 3. März 2009 (wird in einem neuen Tab geöffnet)">Verordnung des italienischen Gesundheitsministeriums vom 3. März 2009</a>.</p>
 
   <h2>Der Vorschlag der Lombardei und die „Save List“</h2>
-  <p>Im Januar 2025 legte die Region Lombardei einen Gesetzentwurf mit einer „Save List“ von 26 Hundetypen vor, darunter der Staffordshire Bull Terrier. Ihre Halter sollten einen Theoriekurs von mindestens zehn und einen Praxiskurs von mindestens sechs Stunden absolvieren, mit dem CAE-1-Test des <a href="https://www.enci.it/" target="_blank" rel="noopener" title="ENCI" aria-label="ENCI, italienischer Kennel Club (wird in einem neuen Tab geöffnet)">ENCI</a>, des italienischen Kennel Clubs, zum Abschluss. Am 24. Juni 2025 hat der Regionalrat ihn als Gesetzentwurf an das nationale Parlament verabschiedet: es ist kein Regionalgesetz, und er hat keine Wirkung, solange das Parlament ihn nicht beschließt.</p>
-  <p>Der verabschiedete Text enthält eine Änderung, die für jeden zählt, der eine Zucht wählt: er <strong>nimmt Hunde aus, die im Zuchtbuch eingetragen sind</strong>, also Hunde mit ENCI-Ahnentafel, und verbietet Zucht und Abgabe von Hunden der gelisteten Typen ohne Papiere, um Hinterhofwürfe zu verhindern. Ein Staffordshire Bull Terrier mit ENCI-Ahnentafel fiele also auch dann nicht unter den Hundeführerschein, wenn der Vorschlag in dieser Form Gesetz würde.</p>
+  <p>Im Januar 2025 legte die Region Lombardei einen Gesetzentwurf mit einer „Save List“ von 26 Hundetypen vor. Ihre Halter sollten einen Theoriekurs von mindestens zehn und einen Praxiskurs von mindestens sechs Stunden absolvieren, mit dem CAE-1-Test des <a href="https://www.enci.it/" target="_blank" rel="noopener" title="ENCI" aria-label="ENCI, italienischer Kennel Club (wird in einem neuen Tab geöffnet)">ENCI</a>, des italienischen Kennel Clubs, zum Abschluss. In der ersten Fassung der Liste stand auch der Staffordshire Bull Terrier. Am 24. Juni 2025 hat der Regionalrat den Text als Gesetzentwurf an das nationale Parlament verabschiedet: es ist kein Regionalgesetz, und er hat keine Wirkung, solange das Parlament ihn nicht beschließt.</p>
+  <p>Der verabschiedete Text enthält zwei Änderungen, die für jeden zählen, der einen Staffy wählt. Erstens: <strong>der Staffordshire Bull Terrier steht nicht mehr auf der Liste</strong>. Zweitens: er <strong>nimmt Hunde aus, die im Zuchtbuch eingetragen sind</strong>, also Hunde mit ENCI-Ahnentafel, und verbietet Zucht und Abgabe von Hunden der gelisteten Typen ohne Papiere, um Hinterhofwürfe zu verhindern. Quelle: der <a href="https://www.anmvioggi.it/in-evidenza/77665-cani-in-save-list-il-testo-consolidato-della-plp-lombarda.html" target="_blank" rel="noopener" aria-label="Anmvi Oggi, konsolidierter Text des lombardischen Entwurfs (wird in einem neuen Tab geöffnet)">von Anmvi Oggi veröffentlichte konsolidierte Text</a>.</p>
+  <p>Die Liste des verabschiedeten Textes, einschließlich Mischlingen:</p>
+
+  <table>
+  <thead>
+  <tr><th colspan="3">Die 26 Typen in Anhang A, am 24. Juni 2025 verabschiedeter Text</th></tr>
+  </thead>
+  <tbody>
+  <tr><td>Dogo Argentino</td><td>Fila Brasileiro</td><td>Japanischer Tosa</td></tr>
+  <tr><td>American Pit Bull Terrier</td><td>Bull Terrier</td><td>American Staffordshire Terrier</td></tr>
+  <tr><td>Bullmastiff</td><td>Rottweiler</td><td>Cane Corso</td></tr>
+  <tr><td>American Bulldog</td><td>Šarplaninac</td><td>Anatolischer Hirtenhund</td></tr>
+  <tr><td>Zentralasiatischer Owtscharka</td><td>Kaukasischer Owtscharka</td><td>Maremmen-Abruzzen-Schäferhund</td></tr>
+  <tr><td>Belgischer Malinois</td><td>Deutscher Schäferhund</td><td>Rafeiro do Alentejo</td></tr>
+  <tr><td>Rhodesian Ridgeback</td><td>Tosa Inu</td><td>Bandog</td></tr>
+  <tr><td>Boerboel</td><td>Akita Inu</td><td>Amerikanischer Akita</td></tr>
+  <tr><td>Tschechoslowakischer Wolfhund</td><td>Saarlooswolfhond</td><td></td></tr>
+  </tbody>
+  </table>
 
   <h2>Europa, Land für Land</h2>
   <figure class="article-image img-left">
@@ -94,6 +112,7 @@ custom_content: |
   <h2>Was verantwortungsvolle Haltung praktisch bedeutet</h2>
   <p>Frühe und fortgesetzte Sozialisierung, die beim Züchter beginnt und durch das erste Lebensjahr trägt. Grundgehorsam mit zuverlässigem Rückruf, der mehr wert ist als jeder Maulkorb. Kein wildes Spiel, das Zwicken oder Zerren am Menschen belohnt. Umsichtiges Management bei fremden Hunden statt optimistischem Hoffen. Und genug körperliche wie geistige Auslastung, damit ein kräftiger, kluger Hund sich nicht selbst beschäftigen muss.</p>
   <p>Nichts davon ist außergewöhnlich, und alles davon ist die normale Arbeit mit einem gut gebauten Terrier. Der Ruf der Rasse wird von den Haltern gemacht, Hund für Hund, und das Nützlichste, was ein Halter für die Rasse tun kann, ist ein sichtbar gut erzogener Hund in der Öffentlichkeit.</p>
+  <p>Deshalb beginnt die Selektion bei der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo</a> beim Wesen: die <a href="/de/rueden-staffordshire-bull-terrier/" title="Staffy Rüden">Rüden</a> und <a href="/de/huendinnen-staffordshire-bull-terrier/" title="Staffy Hündinnen">Hündinnen</a> sind getestet oder durch Abstammung frei, mit den Befunden der Eltern, und auch nach ihrer Ausgeglichenheit ausgewählt, und die <a href="/de/staffy-blutlinien-guide/" title="Staffy Blutlinien">Blutlinien</a> werden auch auf das Wesen hin studiert. Die <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffy Welpen">Staffy-Welpen</a> wachsen im Haus und dann im Hof auf, mit Menschen, Geräuschen und erwachsenen Hunden in den Wochen, in denen es zählt. Weitere Antworten stehen in den <a href="/de/faq-staffordshire-bull-terrier/" title="Staffy FAQ">FAQ</a> und in den <a href="/de/bewertungen/" title="Bewertungen unserer Familien">Bewertungen der Familien</a>; für einen Besuch die <a href="/de/kontakt/" title="Kontakt">Kontaktseite</a>.</p>
 
   <h2>Häufige Fragen</h2>
 
@@ -121,7 +140,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was ist die „Save List“ der Lombardei?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Eine Liste von 26 Hundetypen, darunter der Staffordshire Bull Terrier, in einem Gesetzentwurf an das Parlament, den der Regionalrat der Lombardei am 24. Juni 2025 verabschiedet hat. Wer einen dieser Hunde hält, müsste einen Theoriekurs von mindestens zehn und einen Praxiskurs von mindestens sechs Stunden absolvieren, mit dem CAE-1-Test des ENCI. Wichtig für jeden, der eine Zucht wählt: der verabschiedete Text <strong>nimmt Hunde aus, die im Zuchtbuch eingetragen sind</strong>; ein Staffy mit ENCI-Ahnentafel fiele nicht unter die Pflichten, während der Entwurf für Hunde ohne Papiere Zucht und Abgabe verbietet. Es bleibt ein Vorschlag: solange das Parlament ihn nicht beschließt, hat er keine praktische Wirkung, und es lohnt sich, das Verfahren zu verfolgen.
+  <div class="faq-answer">Eine Liste von 26 Hundetypen in einem Gesetzentwurf an das Parlament, den der Regionalrat der Lombardei am 24. Juni 2025 verabschiedet hat. In der ersten Fassung vom Januar stand auch der Staffordshire Bull Terrier; im verabschiedeten Text steht er nicht mehr. Wer einen dieser Hunde hält, müsste einen Theoriekurs von mindestens zehn und einen Praxiskurs von mindestens sechs Stunden absolvieren, mit dem CAE-1-Test des ENCI. Wichtig für jeden, der eine Zucht wählt: der verabschiedete Text <strong>nimmt in jedem Fall Hunde aus, die im Zuchtbuch eingetragen sind</strong>, gleich welchen Typs, während der Entwurf für Hunde ohne Papiere Zucht und Abgabe verbietet. Es bleibt ein Vorschlag: solange das Parlament ihn nicht beschließt, hat er keine praktische Wirkung, und es lohnt sich, das Verfahren zu verfolgen.
   </div>
   </div>
 

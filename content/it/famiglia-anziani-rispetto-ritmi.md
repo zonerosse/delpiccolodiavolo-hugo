@@ -47,192 +47,55 @@ custom_content: |
   
   <p>Lo Staffordshire Bull Terrier può essere un buon compagno per una persona anziana, a condizioni precise. Pesa 12-17 kg e vive 12-14 anni, ma da giovane ha molta energia e una forza che può far perdere l'equilibrio a chi tiene il guinzaglio. Per questo la scelta giusta quasi sempre non è un cucciolo, che fra gli 8 e i 18 mesi richiede supervisione continua ed educazione quotidiana, ma un adulto fra i tre e i cinque anni, con il carattere già formato e un'energia che si accontenta di una o due passeggiate al giorno. Lo sconsigliamo a chi ha una mobilità molto ridotta, a chi vive senza familiari che possano subentrare quando serve e a chi ha problemi cognitivi. Conta anche il costo: cibo, veterinario ed eventuale pensione durano per tutta la vita del cane. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
-  
-  <h2>Staffy per Anziani: La Verità Senza Filtri</h2>
-  
-  <p>Lo <strong>Staffordshire Bull Terrier</strong> può essere un compagno meraviglioso per persone anziane, ma richiede condizioni specifiche. Un approccio onesto è essenziale per evitare adozioni fallite.</p>
-  
-  <h3>PRO realistici</h3>
-  
-  <ul>
-  <li><strong>Taglia media gestibile:</strong> 12-17kg, abbastanza robusto ma non gigantesco</li>
-  <li><strong>Affettuosità estrema:</strong> orientamento sociale forte, compagnia costante anti-solitudine</li>
-  <li><strong>Intelligenza e trainability:</strong> apprende rapidamente, stimola cognitivamente entrambi</li>
-  <li><strong>Adattabilità:</strong> vive bene in appartamento con esercizio adeguato</li>
-  <li><strong>Motivazione al movimento:</strong> costringe l'anziano a camminare regolarmente</li>
-  <li><strong>Longevità:</strong> 12-14 anni, permette legame duraturo</li>
-  </ul>
-  
-  <h3>CONTRO onesti</h3>
-  
-  <ul>
-  <li><strong>Energia elevata (sotto 5 anni):</strong> richiede 60+ minuti esercizio quotidiano</li>
-  <li><strong>Forza considerevole:</strong> 15kg che tirano possono far perdere equilibrio</li>
-  <li><strong>Training necessario:</strong> educazione costante primi 1-2 anni</li>
-  <li><strong>Costi elevati:</strong> 80-150€/mese, pensione 20-40€/giorno</li>
-  <li><strong>Impegno lungo:</strong> 12-14 anni di responsabilità</li>
-  </ul>
-  
-  <div class="alert">
-  <p class="alert-title">⚠️ Quando lo Staffy è SCONSIGLIATO</p>
-  <ul>
-  <li>Mobilità severamente compromessa (bastone/deambulatore obbligatori)</li>
-  <li>Vive completamente solo senza rete supporto</li>
-  <li>Budget molto limitato (pensione &lt;1.000€/mese)</li>
-  <li>Problemi cognitivi (Alzheimer, demenza)</li>
-  <li>Insiste su cucciolo (energia mostruosa 8-18 mesi)</li>
-  </ul>
-  </div>
-  
-  <h2>Cucciolo vs Adulto: Scelta Determinante</h2>
-  
-  <p><strong>CUCCIOLO (2-18 mesi) - SCONSIGLIATO:</strong></p>
-  <ul>
-  <li>Energia illimitata, mordacchiamento, housetraining</li>
-  <li>Richiede supervisione 24/7, pazienza infinita</li>
-  <li>Training intensivo, socializzazione continua</li>
-  </ul>
-  
-  <p><strong>ADULTO 3-5 anni - IDEALE:</strong></p>
-  <ul>
-  <li>Temperamento formato e prevedibile</li>
-  <li>Energia gestibile (1-2 passeggiate sufficienti)</li>
-  <li>Training base già fatto, nessuna sorpresa carattere</li>
-  </ul>
-  
-  <p><strong>SENIOR 7+ anni - OPZIONE VALIDA:</strong></p>
-  <ul>
-  <li>Energia minima, calmo, affettuoso</li>
-  <li>Ideale per ritmi tranquilli</li>
-  <li>Attenzione: costi veterinari aumentati</li>
-  </ul>
-  
-  <div class="callout">
-  <p class="callout-title">🏆 Perché sconsigliamo il cucciolo</p>
-  <p>Fra gli 8 e i 18 mesi uno Staffy ha più energia e più forza di quanta una persona anziana riesca a gestire ogni giorno, e l'educazione di quel periodo non si può rimandare. Un adulto già formato, di cui si conosce il carattere, è quasi sempre la scelta giusta.</p>
-  </div>
-  
-  <h2>Valutazione Pre-Adozione</h2>
-  
-  <div class="checklist">
-  <p class="checklist-title">Checklist capacità fisiche</p>
-  <ul>
-  <li>Cammino 30+ minuti senza fermarmi per dolore?</li>
-  <li>Salgo/scendo scale senza difficoltà?</li>
-  <li>Posso sollevare 5-8kg senza sforzo eccessivo?</li>
-  <li>Equilibrio stabile: no cadute ultimi 6 mesi?</li>
-  <li>Vista/udito sufficienti per supervisione cane?</li>
-  </ul>
-  </div>
-  
-  <p><strong>Regola:</strong> Se 5+ risposte sono "SÌ" = mobilità sufficiente. Se 3 o meno = serve supporto quotidiano esterno.</p>
-  
-  <h2>Rete Supporto Necessaria</h2>
-  
-  <ul>
-  <li><strong>Contatto emergenza primario:</strong> 1-2 persone disponibili H24, con chiavi casa</li>
-  <li><strong>Backup passeggiate:</strong> almeno 2 persone per sostituzioni</li>
-  <li><strong>Pensione pre-identificata:</strong> visitata e verificata prima dell'adozione</li>
-  <li><strong>Servizi professionali:</strong> dog sitter, toelettatore, <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Ordinanza 6 agosto 2013, Gazzetta Ufficiale" target="_blank" rel="noopener" aria-label="Ordinanza 6 agosto 2013, Gazzetta Ufficiale (si apre in una nuova scheda)">veterinario</a> domiciliare</li>
-  </ul>
-  
-  <h2>Budget Realistico Mensile</h2>
-  
-  <table>
-  <thead>
-  <tr><th>Voce</th><th>Costo mensile</th><th>Costo annuale</th></tr>
-  </thead>
-  <tbody>
-  <tr><td>Cibo qualità premium</td><td>40-60€</td><td>480-720€</td></tr>
-  <tr><td>Antiparassitari</td><td>15-25€</td><td>180-300€</td></tr>
-  <tr><td>Veterinario routine</td><td>10-20€</td><td>120-240€</td></tr>
-  <tr><td>Assicurazione RC/salute</td><td>15-30€</td><td>180-360€</td></tr>
-  <tr><td>Accessori/imprevisti</td><td>10-20€</td><td>120-240€</td></tr>
-  <tr><td><strong>TOTALE</strong></td><td><strong>90-155€</strong></td><td><strong>1.080-1.860€</strong></td></tr>
-  </tbody>
-  </table>
-  
-  <p><strong>Extra da prevedere:</strong> emergenze veterinarie 300-1.500€, pensione 20-40€/giorno, training 40-80€/sessione.</p>
-  
-  <h2>Routine Quotidiana Ideale</h2>
-  
-  <h3>Mattina (7:00-12:00)</h3>
-  <ul>
-  <li><strong>7:00:</strong> Prima uscita igienica 10-15 minuti</li>
-  <li><strong>7:30:</strong> Colazione entrambi</li>
-  <li><strong>8:30:</strong> Passeggiata principale 40-60 minuti</li>
-  <li><strong>9:30-12:00:</strong> Riposo casa entrambi</li>
-  </ul>
-  
-  <h3>Pomeriggio (12:00-18:00)</h3>
-  <ul>
-  <li><strong>12:00:</strong> Pranzo, cane mastica kong</li>
-  <li><strong>13:00-15:00:</strong> Riposo pomeridiano</li>
-  <li><strong>15:00:</strong> Uscita breve 10-15 minuti</li>
-  <li><strong>15:30-18:00:</strong> Giochi mentali insieme</li>
-  </ul>
-  
-  <h3>Sera (18:00-22:00)</h3>
-  <ul>
-  <li><strong>19:30:</strong> Passeggiata serale 20-30 minuti</li>
-  <li><strong>20:30-22:00:</strong> Relax insieme divano</li>
-  <li><strong>22:00:</strong> Ultima uscita igienica 5-10 minuti</li>
-  </ul>
-  
-  <p><strong>Totale movimento anziano:</strong> 90-120 minuti distribuiti (ideale per salute over 65).</p>
-  
-  <h2>Attrezzatura Passeggiate Sicure</h2>
-  
-  <table>
-  <thead>
-  <tr><th>Attrezzatura</th><th>Perché essenziale</th><th>Costo</th></tr>
-  </thead>
-  <tbody>
-  <tr><td>Pettorina anti-tiro</td><td>Riduce la forza della tirata</td><td>25-50€</td></tr>
-  <tr><td>Guinzaglio ammortizzato</td><td>Assorbe strattoni improvvisi</td><td>15-30€</td></tr>
-  <tr><td>Guinzaglio mani-libere</td><td>Peso su bacino, mani libere bastone</td><td>20-35€</td></tr>
-  <tr><td>Torcia frontale LED</td><td>Sicurezza uscite buio</td><td>15-25€</td></tr>
-  <tr><td>Gilet riflettente</td><td>Visibilità sera</td><td>10-20€</td></tr>
-  </tbody>
-  </table>
-  
-  <h2>Piano Emergenze: Cosa Fare Se Ricoverato</h2>
-  
-  <ol>
-  <li><strong>Entro 2 ore:</strong> contatto emergenza notificato</li>
-  <li><strong>Entro 4-6 ore:</strong> contatto accede casa (ha chiavi)</li>
-  <li><strong>Cane va in:</strong> casa contatto, pensione pre-identificata, o familiare</li>
-  <li><strong>Aggiornamenti:</strong> foto/video giornalieri ad anziano</li>
-  <li><strong>Post-dimissione:</strong> 1-2 giorni riposo prima di riprendere cane</li>
-  </ol>
-  
-  <div class="checklist">
-  <p class="checklist-title">Valigia pronta cane emergenze</p>
-  <ul>
-  <li>Cibo 7 giorni stesso tipo abituale</li>
-  <li>Farmaci correnti con dosaggi scritti</li>
-  <li>Libretto sanitario + microchip</li>
-  <li>Guinzaglio + pettorina ricambio</li>
-  <li>Coperta/peluche familiare</li>
-  <li>Lista contatti veterinario, pensione, dog sitter</li>
-  <li>Note comportamentali routine</li>
-  </ul>
-  </div>
-  
-  <h2>I benefici, senza esagerare</h2>
-  <p>Un cane porta a uscire di casa ogni giorno, dà una routine alla giornata e crea occasioni di incontro durante le passeggiate. Gli studi sul rapporto fra cani e salute delle persone anziane esistono, ma i risultati variano e non vanno presi come promesse: il beneficio più sicuro è quello che si vede, cioè camminare due volte al giorno con qualcuno che ti aspetta alla porta.</p>
+  <h2>Un punto di partenza onesto</h2>
+  <p>Alla domanda se uno Staffordshire Bull Terrier sia adatto a una persona anziana non c'è una risposta unica, e chi ne dà una non sta facendo attenzione. Dipende molto più dalla persona e dal cane in questione che dalla razza, e la versione onesta del consiglio contiene tante cautele quante raccomandazioni.</p>
+  <p>Quello che si può dire con sicurezza è che la razza ha vantaggi veri per una casa con persone anziane, e una caratteristica precisa che va affrontata apertamente, invece di scoprirla su un marciapiede bagnato.</p>
 
-  <div class="info-box">
-  <p class="info-box-title">💚 Benefici quotidiani concreti</p>
-  <ul>
-  <li>Routine strutturata che combatte disorganizzazione</li>
-  <li>Scopo di vita, motivazione alzarsi mattina</li>
-  <li>Socializzazione forzata positiva durante passeggiate</li>
-  <li>Contatto fisico che rilascia ossitocina</li>
-  <li>Sicurezza percepita in casa e fuori</li>
-  </ul>
-  </div>
-  
+  <h2>Cosa rende la razza adatta</h2>
+  <p>Prima di tutto taglia e mantello. Un cane fra gli undici e i diciassette chili si riesce a sollevare in auto, a portare in braccio sulle scale in un'emergenza e a tenere in un appartamento. Il pelo raso chiede un guanto di gomma una volta alla settimana e nient'altro: niente toelettatore, niente nodi, niente viaggi in auto per la toelettatura.</p>
+  <p>Il bisogno di movimento è moderato e, cosa decisiva, flessibile. Sessanta-novanta minuti divisi in due o tre uscite si adattano a una giornata costruita su una passeggiata al mattino e una al pomeriggio molto meglio di una razza che ha bisogno di correre. Nei giorni no, un po' di lavoro mentale in casa sostituisce la passeggiata senza che il cane diventi distruttivo.</p>
+  <p>Poi c'è il carattere, che è il vero argomento. Questa razza si lega intensamente alle sue persone e vuole stare a contatto fisico con loro. Per chi vive da solo, un cane che ti segue da una stanza all'altra e si appoggia alla tua gamba non è un dettaglio: è il motivo stesso. La routine di dare da mangiare, uscire e prendersi cura di un animale ha un valore documentato per l'umore, per dare struttura alla giornata e per i contatti con gli altri, e un cane che ti accoglie con entusiasmo due volte al giorno è un motivo per alzarsi.</p>
+
+  <h2>Il punto da dire chiaramente</h2>
+  <p>Uno Staffordshire Bull Terrier è straordinariamente forte per la sua taglia. Un cane che scatta verso un gatto, o che semplicemente tira forte verso un altro cane, può far perdere l'equilibrio a una persona poco stabile. In una persona anziana una caduta non è un livido: può essere una frattura del femore e un ricovero.</p>
+  <p>È un rischio che si gestisce, e gli strumenti sono precisi. Una pettorina a Y ben regolata, con l'aggancio sul petto, trasforma un cane che tira. Un <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Ordinanza del Ministero della Salute del 6 agosto 2013" target="_blank" rel="noopener" aria-label="Ordinanza del Ministero della Salute del 6 agosto 2013 (si apre in una nuova scheda)">guinzaglio</a> corto, di un metro e mezzo, tenuto con il polso dentro l'asola e non con le dita, dà il controllo. Il guinzaglio allungabile non va mai usato da chi ha problemi di equilibrio, con nessuna razza. E la passeggiata al guinzaglio lento va insegnata davvero, meglio con due o tre lezioni con un educatore, non sperata.</p>
+  <p>L'altra metà della risposta è scegliere il cane giusto. Un adulto tranquillo di tre o quattro anni, di carattere conosciuto, da un allevatore o da un'associazione di razza, per la maggior parte delle persone anziane è una proposta molto migliore di un cucciolo. Il primo anno di uno Staffordshire Bull Terrier è fisicamente impegnativo, e l'adolescenza fra gli 8 e i 18 mesi mette alla prova chiunque.</p>
+
+  <h2>Accorgimenti pratici che conviene prendere</h2>
+  <p>Bisogna organizzarsi per i giorni in cui non si può uscire. Un vicino, un familiare o un dog sitter pagato, trovati prima, fanno sì che un periodo di malattia non diventi una crisi per il cane. Tappeti antiscivolo nei punti in cui il cane gira e scatta, soprattutto sulle piastrelle, proteggono tutti e due.</p>
+  <p>Distributori automatici di cibo e fontanelle per l'acqua riducono le volte in cui ci si deve chinare o portare pesi. Una rampa per l'auto risparmia la schiena a voi e, più avanti, le articolazioni al cane. E tenere il cane esattamente nel suo peso è la cosa più efficace per mantenerlo facile da gestire: due chili in più su uno Staffy sono una tirata sensibilmente più forte.</p>
+
+  <h2>La domanda che nessuno vuole fare</h2>
+  <p>Un cucciolo è un impegno di 12-14 anni. Quel conto merita di essere fatto con onestà, e farlo non è macabro: è responsabile.</p>
+  <p>Se i numeri mettono a disagio, la risposta non è per forza no. È un cane adulto di 5 o 6 anni invece di un cucciolo, e un accordo scritto con un familiare o con l'allevatore su cosa succede se non si può più tenere il cane. Nei nostri contratti di affido c'è esattamente questa clausola, e la intendiamo sul serio: un cane nato da noi torna sempre da noi, non va in un canile. Saperlo prima toglie l'ansia dalla decisione.</p>
+
+  <h2>A chi questa razza non è adatta</h2>
+  <p>Una persona anziana con problemi di equilibrio importanti, osteoporosi o poca forza nella presa dovrebbe pensare a una razza più piccola e meno potente, per quanto le piacciano gli Staffordshire Bull Terrier. Lo stesso vale per chi non può garantire due uscite al giorno con qualsiasi tempo, o per chi vive da solo senza nessuno su cui contare.</p>
+  <p>Lo diciamo a ogni famiglia che ce lo chiede, anche quando non è quello che sperava di sentire: un cane restituito a 18 mesi perché il proprietario non riusciva a tenerlo è un fallimento per tutti, ed era prevedibile già dalla prima telefonata.</p>
+
+  <h2>Una giornata realistica</h2>
+  <p>Una giornata che funziona per molte persone anziane è fatta così: appena svegli un'uscita breve di dieci-quindici minuti per i bisogni, la colazione, poi la passeggiata principale di quaranta-sessanta minuti al mattino; riposo in casa fino a pranzo, con il cane che rosicchia un Kong ripieno mentre voi mangiate; un riposo nel pomeriggio, un'uscita breve di dieci-quindici minuti e qualche gioco tranquillo di olfatto o di ricerca insieme; una passeggiata serale di venti-trenta minuti, il divano, e un'ultima uscita di cinque minuti prima di dormire. In tutto è ben più di un'ora di passeggiata al giorno, distribuita, che va bene al cane quanto al proprietario.</p>
+
+  <h2>L'attrezzatura per passeggiate sicure</h2>
+  <p>Una pettorina anti-tiro con l'aggancio davanti riduce la forza di uno scatto improvviso; un guinzaglio con un tratto ammortizzato attenua gli strattoni; un guinzaglio mani libere portato in vita lascia entrambe le mani libere per il bastone o il corrimano. Per le uscite al buio, una torcia frontale e un gilet riflettente. Niente di tutto questo costa molto, e insieme fa la differenza fra una passeggiata che è un piacere e una che è un rischio.</p>
+  <p>Cosa serve e quanto costa:</p>
+
+  <table>
+  <thead>
+  <tr><th>Attrezzatura</th><th>Perché serve</th><th>Costo</th></tr>
+  </thead>
+  <tbody>
+  <tr><td><strong>Pettorina anti-tiro</strong></td><td>Riduce la forza della tirata</td><td>25-50 euro</td></tr>
+  <tr><td><strong>Guinzaglio ammortizzato</strong></td><td>Assorbe gli strattoni improvvisi</td><td>15-30 euro</td></tr>
+  <tr><td><strong>Guinzaglio mani libere</strong></td><td>Il peso va sul bacino, le mani restano libere per il bastone</td><td>20-35 euro</td></tr>
+  <tr><td><strong>Torcia frontale</strong></td><td>Sicurezza nelle uscite al buio</td><td>15-25 euro</td></tr>
+  <tr><td><strong>Gilet riflettente</strong></td><td>Visibilità la sera</td><td>10-20 euro</td></tr>
+  </tbody>
+  </table>
+
+  <h2>Un piano per le emergenze</h2>
+  <p>Va deciso prima chi ha le chiavi e può raggiungere il cane in poche ore se state male, dove andrà il cane (un parente, un dog sitter di fiducia o una pensione già provata) e chi vi darà notizie. Conviene tenere pronta una borsa d'emergenza: una settimana del suo cibo abituale, gli eventuali farmaci con le dosi scritte, il libretto sanitario e il numero di microchip, un guinzaglio e una pettorina di scorta, una coperta che conosce, i contatti del veterinario e del dog sitter, e un foglio con le abitudini e la routine del cane. Dopo un ricovero, prendetevi uno o due giorni di riposo prima di riprendere il cane con voi.</p>
+
   <h2>Domande Frequenti</h2>
   
   <section class="faq">
@@ -249,7 +112,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Quanto costa davvero mantenere uno Staffy?</h3>
-  <div class="faq-answer">Fra i 300 e i 500 euro l'anno per le spese ordinarie: alimentazione di qualit&agrave;, richiami vaccinali, antiparassitari mensili e accessori. La toelettatura non serve, e su un pensionato &egrave; una voce che pesa: in altre razze sono altri 300-600 euro l'anno. Fuori conto vanno due cose. L'assicurazione di responsabilit&agrave; civile, poche decine di euro, che conviene comunque. E le <strong>spese impreviste</strong>, che su dodici anni arrivano sempre: un accertamento, un intervento, una terapia lunga. Mille-duemila euro accantonati, o una polizza sanitaria, evitano di doversi trovare a scegliere fra il portafoglio e il cane. Per chi ha un reddito fisso e limitato, questa &egrave; la parte del conto da fare prima, non dopo.</div>
+  <div class="faq-answer">Fra i 200 e i 300 euro l'anno per le spese ordinarie: alimentazione di qualit&agrave;, richiami vaccinali, antiparassitari mensili e accessori. La toelettatura non serve, e su un pensionato &egrave; una voce che pesa: in altre razze sono altri 300-600 euro l'anno. Fuori conto vanno due cose. L'assicurazione di responsabilit&agrave; civile, poche decine di euro, che conviene comunque. E le <strong>spese impreviste</strong>, che su dodici anni arrivano sempre: un accertamento, un intervento, una terapia lunga. Mille-duemila euro accantonati, o una polizza sanitaria, evitano di doversi trovare a scegliere fra il portafoglio e il cane. Per chi ha un reddito fisso e limitato, questa &egrave; la parte del conto da fare prima, non dopo.</div>
   </div>
   
   <div class="faq-item">

@@ -60,8 +60,26 @@ custom_content: |
   <p>The list lasted barely two years. The ordinance signed on 3 March 2009 by the undersecretary Francesca Martini abolished it, stating that veterinary science does not allow the risk of greater aggressiveness to be established on the basis of a dog's breed or crosses. What that ordinance introduced still applies: a lead of at most one and a half metres in urban areas, a muzzle carried and fitted on request, a register of dogs that have bitten kept by the local health authorities, and the civil and criminal liability of the owner. Source: the <a href="https://www.salute.gov.it/portale/documentazione/p6_2_2_1.jsp?id=3031" target="_blank" rel="noopener" aria-label="Italian Ministry of Health, ordinance of 3 March 2009 (opens in a new tab)">Italian Ministry of Health, ordinance of 3 March 2009</a>.</p>
 
   <h2>The Lombardy proposal and the "save list"</h2>
-  <p>In January 2025 the Lombardy Region presented a bill with a "save list" of 26 types of dog, the Staffordshire Bull Terrier among them, whose owners would have to complete a theory course of at least ten hours and a practical course of at least six, ending with the CAE-1 test run by the <a href="https://www.enci.it/" target="_blank" rel="noopener" title="ENCI" aria-label="ENCI, Italian Kennel Club (opens in a new tab)">ENCI</a>, the Italian Kennel Club. On 24 June 2025 the regional council approved it as a bill to be sent to the national Parliament: it is not a regional law, and it has no effect until Parliament passes it.</p>
-  <p>The approved text contains one change that matters to anyone choosing a breeder: it <strong>excludes dogs registered in the stud books</strong>, that is, dogs with an ENCI pedigree, and prohibits breeding and rehoming non-pedigree dogs of the listed types, to stop backyard litters. A Staffordshire Bull Terrier with an ENCI pedigree would therefore not be subject to the licence even if the proposal became law in that form.</p>
+  <p>In January 2025 the Lombardy Region presented a bill with a "save list" of 26 types of dog, whose owners would have to complete a theory course of at least ten hours and a practical course of at least six, ending with the CAE-1 test run by the <a href="https://www.enci.it/" target="_blank" rel="noopener" title="ENCI" aria-label="ENCI, Italian Kennel Club (opens in a new tab)">ENCI</a>, the Italian Kennel Club. The first version of the list included the Staffordshire Bull Terrier. On 24 June 2025 the regional council approved the text as a bill to be sent to the national Parliament: it is not a regional law, and it has no effect until Parliament passes it.</p>
+  <p>The approved text contains two changes that matter to anyone choosing a Staffy. First: <strong>the Staffordshire Bull Terrier is no longer on the list</strong>. Second: it <strong>excludes dogs registered in the stud books</strong>, that is, dogs with an ENCI pedigree, and prohibits breeding and rehoming non-pedigree dogs of the listed types, to stop backyard litters. Source: the <a href="https://www.anmvioggi.it/in-evidenza/77665-cani-in-save-list-il-testo-consolidato-della-plp-lombarda.html" target="_blank" rel="noopener" aria-label="Anmvi Oggi, consolidated text of the Lombardy bill (opens in a new tab)">consolidated text published by Anmvi Oggi</a>.</p>
+  <p>The list in the approved text, crosses included:</p>
+
+  <table>
+  <thead>
+  <tr><th colspan="3">The 26 types in Annex A, text approved on 24 June 2025</th></tr>
+  </thead>
+  <tbody>
+  <tr><td>Dogo Argentino</td><td>Fila Brasileiro</td><td>Japanese Tosa</td></tr>
+  <tr><td>American Pit Bull Terrier</td><td>Bull Terrier</td><td>American Staffordshire Terrier</td></tr>
+  <tr><td>Bullmastiff</td><td>Rottweiler</td><td>Cane Corso</td></tr>
+  <tr><td>American Bulldog</td><td>Sarplaninac</td><td>Anatolian Shepherd</td></tr>
+  <tr><td>Central Asian Shepherd</td><td>Caucasian Shepherd</td><td>Maremma Sheepdog</td></tr>
+  <tr><td>Belgian Malinois</td><td>German Shepherd</td><td>Rafeiro do Alentejo</td></tr>
+  <tr><td>Rhodesian Ridgeback</td><td>Tosa Inu</td><td>Bandog</td></tr>
+  <tr><td>Boerboel</td><td>Akita Inu</td><td>American Akita</td></tr>
+  <tr><td>Czechoslovakian Wolfdog</td><td>Saarloos Wolfdog</td><td></td></tr>
+  </tbody>
+  </table>
 
   <h2>Across Europe, country by country</h2>
   <figure class="article-image img-left">
@@ -98,6 +116,7 @@ custom_content: |
   <h2>What responsible ownership looks like in practice</h2>
   <p>Early and continuing socialisation, ideally beginning with the breeder and continuing through the first year. Basic obedience with a reliable recall, which is worth more than any muzzle. Never encouraging rough play that rewards mouthing or tugging against a person. Careful management around unfamiliar dogs rather than optimistic hoping. And enough physical and mental exercise that a strong, intelligent dog is not left to invent its own occupations.</p>
   <p>None of this is exotic, and all of it is the ordinary work of owning a well-built terrier. The breed's reputation is made and unmade by owners, one dog at a time, and the single most useful thing a Staffordshire Bull Terrier owner can do for the breed is to have a visibly well-mannered dog in public.</p>
+  <p>That is why selection at the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel</a> starts from temperament: the <a href="/en/males-staffordshire-bull-terrier/" title="Male Staffies">males</a> and <a href="/en/females-staffordshire-bull-terrier/" title="Female Staffies">females</a> are tested, or clear by parentage with their parents' reports, and chosen for their balance as well, and the <a href="/en/staffy-bloodlines-guide/" title="Staffy bloodlines">bloodlines</a> are studied for temperament too. The <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffy puppies">Staffy puppies</a> grow up in the house and then the yard, meeting people, noises and adult dogs in the weeks when it matters. More answers are in the <a href="/en/faq-staffordshire-bull-terrier/" title="Staffy FAQ">FAQ</a> and in the <a href="/en/reviews/" title="Reviews from our families">families' reviews</a>; to arrange a visit, see the <a href="/en/contact/" title="Contact">contact page</a>.</p>
 
   <h2>Frequently asked questions</h2>
 
@@ -125,7 +144,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What is the Lombardy "save list"?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">It is a list of 26 types of dog, the Staffordshire Bull Terrier among them, contained in a bill to Parliament that the Lombardy regional council approved on 24 June 2025. Anyone keeping one of those dogs would have to complete a theory course of at least ten hours and a practical one of at least six, with the ENCI's CAE-1 test. The point that matters to anyone choosing a breeder is that the approved text <strong>excludes dogs registered in the stud books</strong>: a Staffy with an ENCI pedigree would not fall under the obligations, while for non-pedigree dogs the bill prohibits breeding and rehoming. It remains a proposal: until Parliament passes it, it has no practical effect, and it is worth following its progress.
+  <div class="faq-answer">It is a list of 26 types of dog contained in a bill to Parliament that the Lombardy regional council approved on 24 June 2025. The first version, presented in January, included the Staffordshire Bull Terrier; the approved text no longer does. Anyone keeping one of those dogs would have to complete a theory course of at least ten hours and a practical one of at least six, with the ENCI's CAE-1 test. The point that matters to anyone choosing a breeder is that the approved text <strong>in any case excludes dogs registered in the stud books</strong>, whatever the type, while for non-pedigree dogs the bill prohibits breeding and rehoming. It remains a proposal: until Parliament passes it, it has no practical effect, and it is worth following its progress.
   </div>
   </div>
 

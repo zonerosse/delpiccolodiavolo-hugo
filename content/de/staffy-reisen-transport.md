@@ -38,8 +38,21 @@ custom_content: |
   
   
   <h2>Reisen mit dem Auto</h2>
-  <p>Ein ungesicherter Hund im Auto gefährdet sich selbst und alle Mitfahrenden. Ein Staffordshire Bull Terrier von siebzehn Kilogramm erzeugt bei einem Aufprall mit fünfzig Stundenkilometern eine Kraft von mehreren hundert Kilogramm. Auch das italienische Recht ist eindeutig: Tiere müssen so befördert werden, dass sie das Fahren nicht behindern, in einer Box, in einem durch ein geeignetes Gitter abgetrennten Bereich oder angeschnallt.</p>
+  <p>Ein ungesicherter Hund im Auto gefährdet sich selbst und alle Mitfahrenden. Ein Staffordshire Bull Terrier von siebzehn Kilogramm erzeugt bei einem Aufprall mit fünfzig Stundenkilometern eine Kraft von mehreren hundert Kilogramm. Auch das italienische Recht ist eindeutig: Artikel 169 der Straßenverkehrsordnung verlangt, dass Tiere so befördert werden, dass sie das Fahren nicht behindern, in einer Box, in einem durch ein geeignetes Gitter abgetrennten Bereich oder angeschnallt, mit Bußgeldern von 87 bis 345 Euro.</p>
   <p>Am sichersten ist eine crashgetestete Box im Kofferraum, idealerweise selbst verankert. Ein festes Trenngitter ist die nächstbeste Lösung. Ein am Sicherheitsgurt befestigtes Geschirr ist vertretbar und weit besser als nichts, sofern es ein echtes Reisegeschirr mit breiter Brustpolsterung ist und kein gewöhnliches Führgeschirr an einem Gurtband.</p>
+
+  <p>Die drei Systeme im Vergleich:</p>
+
+  <table>
+  <thead>
+  <tr><th>System</th><th>Vorteile</th><th>Nachteile</th><th>Geeignet für</th></tr>
+  </thead>
+  <tbody>
+  <tr><td><strong>Feste Transportbox</strong></td><td>Höchste Sicherheit, hält den Hund bei einem Unfall</td><td>Sperrig, 80-150 Euro</td><td>Lange Reisen, Welpen</td></tr>
+  <tr><td><strong>Reisegeschirr + Gurt</strong></td><td>Günstig, 25-40 Euro, der Hund sieht hinaus</td><td>Geringerer Schutz</td><td>Kurze und mittlere Strecken</td></tr>
+  <tr><td><strong>Trenngitter im Kofferraum</strong></td><td>Bewegungsfreiheit</td><td>Kein Schutz bei einem Unfall</td><td>Nur Kombi und SUV</td></tr>
+  </tbody>
+  </table>
   <p>Für diese Rasse gilt eine besonders ernste Warnung: <strong>lassen Sie den Hund niemals im geparkten Auto</strong> — nicht 5 Minuten, nicht bei geöffnetem Fenster, nicht im Schatten. Ein dichter, dunkel behaarter Hund mit kurzem Fang erreicht eine gefährliche Körpertemperatur weit schneller, als die meisten Halter glauben, und die Innentemperatur eines geparkten Autos steigt im italienischen Sommer binnen einer Viertelstunde um zwanzig Grad.</p>
 
   <h2>Reiseübelkeit vorbeugen und behandeln</h2>
