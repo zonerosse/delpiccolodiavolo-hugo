@@ -1,7 +1,7 @@
 ---
 title: "Storia delle Linee di Sangue dello Staffordshire Bull Terrier"
 date: 2025-11-08
-lastmod: 2026-09-29
+lastmod: 2026-10-05
 titleSeo: "Storia delle linee di sangue dello Staffy"
 translationKey: "linee-sangue"
 articolo: true
@@ -292,7 +292,7 @@ custom_content: |
   <li><a href="/differenza-staffy-pitbull-amstaff/" title="Differenza razze">Differenza tra Staffy, Pitbull e Amstaff</a></li>
   <li><a href="/standard-tipicita-morfologia/" title="Standard FCI">Standard FCI e tipicità morfologica</a></li>
   <li><a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici">Test genetici L2-HGA e HC: guida completa</a></li>
-  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Consigli acquisto">Consigli prima dell'acquisto di un cucciolo</a></li>
+  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento">Consigli prima di prendere un cucciolo</a></li>
   </ul>
   </div>
   

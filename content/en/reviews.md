@@ -2,12 +2,12 @@
 title: "Staffordshire Bull Terrier Reviews"
 titleSeo: "Staffordshire Bull Terrier reviews from our families"
 date: 2025-12-28
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
 description: "Google reviews from families who took home a Staffordshire Bull Terrier from Del Piccolo Diavolo: real experiences, before the puppy arrived and years after."
 slug: "reviews"
-fonti_motivo: "The reviews shown here come from the Del Piccolo Diavolo kennel's customers: their source is the kennel's Google profile, linked from every single review, and there are no other external sources to cite."
+fonti_motivo: "The reviews shown here come from families who have taken a puppy from the Del Piccolo Diavolo kennel: their source is the kennel's Google profile, linked from every single review, and there are no other external sources to cite."
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
@@ -29,8 +29,8 @@ custom_content: |
   
   <div class="features-bar">
   <div class="features-track">
-  <span>Since 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Reviews</span><span>100% Verified</span><span>Lifetime Support</span><span>Satisfied Clients</span>
-  <span>Since 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Reviews</span><span>100% Verified</span><span>Lifetime Support</span><span>Satisfied Clients</span>
+  <span>Since 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Reviews</span><span>100% Verified</span><span>Lifetime Support</span><span>Satisfied Families</span>
+  <span>Since 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Reviews</span><span>100% Verified</span><span>Lifetime Support</span><span>Satisfied Families</span>
   </div>
   </div>
   
@@ -340,7 +340,7 @@ custom_content: |
 
   <section class="section">
   <div class="section-inner content-single">
-  <p class="fonti">Sources: The reviews shown here come from the Del Piccolo Diavolo kennel's customers: their source is the kennel's Google profile, linked from every single review, and there are no other external sources to cite.</p>
+  <p class="fonti">Sources: The reviews shown here come from families who have taken a puppy from the Del Piccolo Diavolo kennel: their source is the kennel's Google profile, linked from every single review, and there are no other external sources to cite.</p>
   </div>
   </section>
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Il Temperamento dello Staffordshire Bull Terrier: Come Nasce"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 titleSeo: "Temperamento dello Staffy: come è stato selezionato"
 articolo: true
 translationKey: "carattere"
@@ -69,7 +69,7 @@ correlati:
 
 <p>Oggi quella tenacia si manifesta in forme pacifiche — nel gioco, nell'insistenza con cui ti segue in casa, nella determinazione con cui affronta un puzzle alimentare — ma esiste anche in una versione da gestire: la tolleranza verso altri cani non è garantita, soprattutto fra soggetti dello stesso sesso dopo la maturità sociale.</p>
 
-<p>È una caratteristica prevedibile, non un difetto nascosto. E va detta prima dell'acquisto: chi cerca un cane da portare al parco a giocare con chiunque deve saperlo in anticipo.</p>
+<p>È una caratteristica prevedibile, non un difetto nascosto. E va detta prima di prendere il cucciolo: chi cerca un cane da portare al parco a giocare con chiunque deve saperlo in anticipo.</p>
 
 <h2>Cosa selezioniamo, in concreto</h2>
 

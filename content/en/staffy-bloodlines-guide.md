@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Bloodlines Guide"
 titleSeo: "Staffy bloodlines: the history of the six lines"
 date: 2025-11-08
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "linee-sangue"
 articolo: true
 image: "/images/blog/standard-1.webp"
@@ -46,7 +46,7 @@ custom_content: |
   
   <h2>What a bloodline actually is</h2>
   <p>A bloodline is not a sub-breed and it is not a brand. It is the accumulated result of decisions made by one breeder, or a small group of breeders, over many generations: which dogs were kept, which were mated together, and which traits were treated as non-negotiable. Two Staffordshire Bull Terriers from different lines are the same breed and must meet the same standard, but they can differ noticeably in bone, head proportion, temperament and working attitude.</p>
-  <p>Understanding lines matters for two very different reasons. If you are buying a companion, it tells you what kind of dog you are likely to live with for the next 12 years. If you are considering breeding, it is the difference between a coherent programme and a series of hopeful accidents.</p>
+  <p>Understanding lines matters for two very different reasons. If you are looking for a companion, it tells you what kind of dog you are likely to live with for the next 12 years. If you are considering breeding, it is the difference between a coherent programme and a series of hopeful accidents.</p>
 
   <h2>Where the lines come from</h2>
   <p>The recorded history of Staffordshire Bull Terrier bloodlines begins on <strong>25 May 1935</strong>, when the Kennel Club recognised the breed. Before that date the "Bull and Terriers" of Staffordshire were working dogs with no traceable pedigrees. The first official breed show followed on 17 August 1935, at the Cradley Heath Conservative Club in South Staffordshire, and systematic record-keeping started there.</p>
@@ -114,7 +114,7 @@ custom_content: |
 
   <h2>Linebreeding, inbreeding and coefficients</h2>
   <p>Linebreeding, the deliberate repetition of an admired ancestor within a pedigree, is a legitimate tool for fixing type. Pushed too far it becomes inbreeding, and the cost is paid in immune function, fertility and vigour rather than in appearance, which is precisely why it is easy to ignore.</p>
-  <p>A practical rule we apply: we want to see the coefficient of inbreeding over 5 generations kept low, and we will not repeat a close doubling simply because a particular ancestor was fashionable. Type gained at the expense of vitality is a bad trade, and it is one the buyer discovers years later.</p>
+  <p>A practical rule we apply: we want to see the coefficient of inbreeding over 5 generations kept low, and we will not repeat a close doubling simply because a particular ancestor was fashionable. Type gained at the expense of vitality is a bad trade, and it is one the family discovers years later.</p>
 
   <h2>What this means when you choose a puppy</h2>
   <p>Ask the breeder which lines are behind the litter, and why those two dogs were put together. The answer is revealing. A breeder with a programme will tell you what the sire brings, what the dam brings, what they are trying to improve and what they accept as a compromise. A breeder without one will say that both parents are beautiful.</p>

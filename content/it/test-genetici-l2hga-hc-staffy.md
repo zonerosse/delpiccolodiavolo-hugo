@@ -2,7 +2,7 @@
 title: "Test Genetici L2-HGA, HC (HSF4) e DM (SOD1) Staffordshire Bull Terrier"
 titleSeo: "Test genetici Staffy: L2-HGA, HC (HSF4) e DM (SOD1)"
 date: 2025-11-20
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "test-genetici"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -58,7 +58,7 @@ custom_content: |
   
   <p>Questo significa che <strong>nessun cucciolo dovrebbe più nascere malato</strong> di L2-HGA o HC, a patto che l'allevatore faccia i test e pianifichi gli accoppiamenti correttamente. Purtroppo, non tutti gli allevatori (e tantomeno i "cagnari" improvvisati) seguono queste pratiche.</p>
   
-  <p>Ecco perché è fondamentale che chi cerca un cucciolo di Staffy sappia cosa chiedere e come interpretare i risultati dei test genetici. Un acquirente informato può distinguere un allevatore serio da chi produce cuccioli senza le dovute garanzie sanitarie.</p>
+  <p>Ecco perché è fondamentale che chi cerca un cucciolo di Staffy sappia cosa chiedere e come interpretare i risultati dei test genetici. Una famiglia informata può distinguere un allevatore serio da chi produce cuccioli senza le dovute garanzie sanitarie.</p>
   
   <h2>L2-HGA: Cos'è e Come Si Manifesta</h2>
   
@@ -235,7 +235,7 @@ custom_content: |
   <li>"I miei cani sono sani, non servono test" - Un allevatore serio testa SEMPRE</li>
   <li>"I test costano troppo" - Circa 400€ per cane fra laboratorio, prelievo e spedizione: niente rispetto a un cane</li>
   <li>"La linea è pulita da generazioni" - Senza certificati, sono solo parole</li>
-  <li>"Te li mando dopo" - I certificati devono essere disponibili PRIMA dell'acquisto</li>
+  <li>"Te li mando dopo" - I certificati devono essere disponibili PRIMA di prendere il cucciolo</li>
   <li>Certificati illeggibili, fotocopiati male o senza microchip verificabile</li>
   </ul>
   
@@ -322,7 +322,7 @@ custom_content: |
 
   <p>Il confronto non è fra due spese simili. Quattrocento euro a cane, spesi una volta, stanno sullo stesso piano di una spesa mensile che dura quanto il cane.</p>
   
-  <p>La differenza è evidente. Un allevatore che risparmia sui test genetici sta trasferendo un rischio enorme sulle spalle dell'acquirente.</p>
+  <p>La differenza è evidente. Un allevatore che risparmia sui test genetici sta trasferendo un rischio enorme sulle spalle della famiglia.</p>
   
   <h2>Domande Frequenti sui Test Genetici</h2>
   
@@ -374,7 +374,7 @@ custom_content: |
   <h3>Articoli correlati</h3>
   <ul>
   <li><a href="/linee-sangue-staffordshire-bull-terrier/" title="Linee di sangue">Linee di Sangue: Storia e Genealogia</a></li>
-  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Consigli acquisto">Consigli prima dell'acquisto di un cucciolo</a></li>
+  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento">Consigli prima di prendere un cucciolo</a></li>
   <li><a href="/cuccioli-prime-vaccinazioni/" title="Prime vaccinazioni">Prime vaccinazioni del cucciolo</a></li>
   <li><a href="/cuccioli-alimentazione-iniziale/" title="Alimentazione">Alimentazione iniziale del cucciolo</a></li>
   </ul>

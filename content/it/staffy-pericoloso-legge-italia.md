@@ -214,7 +214,7 @@ custom_content: |
   
   <div class="callout">
   <p class="callout-title">🐾 Vuoi Conoscere Meglio lo Staffordshire Bull Terrier?</p>
-  <p>Se stai considerando di accogliere uno Staffy nella tua famiglia, <a href="/allevamento-staffordshire-bull-terrier-in-emilia-romagna/" title="Contattaci">contattaci</a> per una visita al nostro allevamento. Leggi anche le nostre <a href="/faq-sullo-staffordshire-bull-terrier/" title="FAQ Staffy">FAQ</a> e le <a href="/recensioni/" title="Recensioni clienti">recensioni</a> degli appassionati della razza.</p>
+  <p>Se stai considerando di accogliere uno Staffy nella tua famiglia, <a href="/allevamento-staffordshire-bull-terrier-in-emilia-romagna/" title="Contattaci">contattaci</a> per una visita al nostro allevamento. Leggi anche le nostre <a href="/faq-sullo-staffordshire-bull-terrier/" title="FAQ Staffy">FAQ</a> e le <a href="/recensioni/" title="Recensioni delle famiglie">recensioni</a> degli appassionati della razza.</p>
   </div>
   
   <section class="faq">

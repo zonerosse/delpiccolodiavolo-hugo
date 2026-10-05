@@ -53,7 +53,7 @@ custom_content: |
 
   <h2>Colour</h2>
   <p>Permitted colours are red, fawn, white, black or blue, or any of these with white, and any shade of brindle or brindle with white. Black-and-tan and liver are described as highly undesirable, and there is no place for the diluted colour marketed as "blue merle" or similar, which does not belong in this breed at all. Which colours the standard allows, and which it does not, is explained in the guide to <a href="/en/staffordshire-bull-terrier-colours/" title="Staffordshire Bull Terrier colours">Staffordshire Bull Terrier colours</a>.</p>
-  <p>Colour is the last thing that should influence a choice and the first thing most buyers ask about. A breeder who prices puppies by coat colour is telling you what their priorities are.</p>
+  <p>Colour is the last thing that should influence a choice and the first thing most families ask about. A breeder who prices puppies by coat colour is telling you what their priorities are.</p>
 
   <h2>Faults, and how to weigh them</h2>
   <p>The standard states that any departure from the foregoing points should be considered a fault, and that the seriousness of the fault should be in exact proportion to its degree and its effect on the health and welfare of the dog. That final clause is the most important sentence in the whole document, and it is the one most often ignored.</p>

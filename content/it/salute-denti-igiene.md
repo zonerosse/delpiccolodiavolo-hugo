@@ -1,7 +1,7 @@
 ---
 title: "Igiene Orale e Denti Staffordshire Bull Terrier"
 date: 2024-06-18
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "denti"
 articolo: true
 image: "/images/blog/salute-2.webp"
@@ -327,7 +327,7 @@ custom_content: |
   <li><a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici">Test Genetici L2-HGA e HC</a></li>
   <li><a href="/salute-parassiti-prevenzione/" title="Parassiti">Parassiti: Prevenzione e Controllo</a></li>
   <li><a href="/cuccioli-alimentazione-iniziale/" title="Alimentazione">Alimentazione Iniziale del Cucciolo</a></li>
-  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Consigli acquisto">Consigli Prima dell'Acquisto</a></li>
+  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento">Consigli prima di prendere un cucciolo</a></li>
   </ul>
   </div>
   

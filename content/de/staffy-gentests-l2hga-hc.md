@@ -2,7 +2,7 @@
 title: "Gentests L2-HGA, HC (HSF4) und DM (SOD1) für Staffordshire Bull Terrier"
 titleSeo: "Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)"
 date: 2025-11-20
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "test-genetici"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -44,7 +44,7 @@ custom_content: |
   
   <h2>Warum Gentests nicht optional sind</h2>
   <p>Der Staffordshire Bull Terrier ist eine grundsätzlich gesunde Rasse, trägt aber zwei erbliche Erkrankungen, die schwerwiegend und zugleich vollständig vermeidbar sind: L2-HGA und die hereditäre Katarakt. Beide werden rezessiv vererbt. Das bedeutet, dass ein Hund die Mutation tragen, ein Leben lang völlig gesund bleiben und trotzdem betroffene Welpen zeugen kann, wenn er mit einem anderen Träger verpaart wird.</p>
-  <p>Genau diesen Punkt übersehen viele Käufer. Sichtbar gesunde Elterntiere beweisen nichts über die Welpen. Nur ein DNA-Test der Eltern zeigt, ob ein Wurf betroffene Hunde hervorbringen kann. Seit diese Tests verfügbar sind, sind beide Erkrankungen in der verantwortungsvollen Zucht praktisch verschwunden. Wenn heute ein betroffener Welpe geboren wird, ist das fast nie Pech, sondern die Folge einer Verpaarung ohne Test.</p>
+  <p>Genau diesen Punkt übersehen viele Familien. Sichtbar gesunde Elterntiere beweisen nichts über die Welpen. Nur ein DNA-Test der Eltern zeigt, ob ein Wurf betroffene Hunde hervorbringen kann. Seit diese Tests verfügbar sind, sind beide Erkrankungen in der verantwortungsvollen Zucht praktisch verschwunden. Wenn heute ein betroffener Welpe geboren wird, ist das fast nie Pech, sondern die Folge einer Verpaarung ohne Test.</p>
 
   <h2>L2-HGA: was es ist und wie es sich zeigt</h2>
   <p>Die L-2-Hydroxyglutarazidurie ist eine Stoffwechselerkrankung, verursacht durch eine Mutation im L2HGDH-Gen. Der betroffene Hund kann ein Molekül namens L-2-Hydroxyglutarsäure nicht korrekt abbauen. Es reichert sich in der Gehirn-Rückenmarks-Flüssigkeit an und schädigt fortschreitend das zentrale Nervensystem.</p>

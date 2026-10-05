@@ -1,6 +1,6 @@
 ---
 title: "Das Wesen des Staffordshire Bull Terrier: Woher es Kommt"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 titleSeo: "Wesen des Staffy: wie es selektiert wurde"
 articolo: true
 translationKey: "carattere"
@@ -69,7 +69,7 @@ correlati:
 
 <p>Heute zeigt sich diese Zähigkeit in völlig friedlichen Formen — im Spiel, in der Beharrlichkeit, mit der er Ihnen durch die Wohnung folgt, in der Entschlossenheit vor einem Futterpuzzle. Es gibt aber auch eine Ausprägung, die geführt werden muss: die Verträglichkeit mit anderen Hunden ist nicht selbstverständlich, besonders zwischen gleichgeschlechtlichen Tieren nach der sozialen Reife.</p>
 
-<p>Das ist eine vorhersehbare Eigenschaft, kein verborgener Mangel. Und sie gehört vor den Kauf gesagt, nicht danach: wer einen Hund sucht, den er im Park mit allen frei laufen lassen kann, sollte das vorher wissen.</p>
+<p>Das ist eine vorhersehbare Eigenschaft, kein verborgener Mangel. Und sie gehört gesagt, bevor der Welpe einzieht, nicht danach: wer einen Hund sucht, den er im Park mit allen frei laufen lassen kann, sollte das vorher wissen.</p>
 
 <h2>Was wir konkret selektieren</h2>
 

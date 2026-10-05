@@ -1,7 +1,7 @@
 ---
 title: "Zahnpflege und Mundhygiene für Staffordshire Bull Terrier"
 date: 2024-06-18
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "denti"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -147,7 +147,7 @@ custom_content: |
   <li><a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)">Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)</a></li>
   <li><a href="/de/staffy-parasitenvorbeugung/" title="Parasitenvorbeugung für Staffordshire Bull Terrier">Parasitenvorbeugung für Staffordshire Bull Terrier</a></li>
   <li><a href="/de/welpen-erste-fuetterung/" title="Ernährung des Welpen in den ersten Monaten">Ernährung des Welpen in den ersten Monaten</a></li>
-  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Seriöse Staffordshire Bull Terrier Zucht erkennen">Seriöse Staffordshire Bull Terrier Zucht erkennen</a></li>
+  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Zucht wählen">Tipps, bevor ein Welpe einzieht</a></li>
   </ul>
   </div>
   

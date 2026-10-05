@@ -195,7 +195,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3>Vale la pena venire da Milano o Firenze?</h3>
-  <p>Assolutamente sì. Molti clienti da Lombardia e Toscana ci raggiungono in 2-2,5 ore, visitano l'allevamento e tornano in giornata. È un investimento importante, merita una visita.</p>
+  <p>Assolutamente sì. Molte famiglie da Lombardia e Toscana ci raggiungono in 2-2,5 ore, visitano l'allevamento e tornano in giornata. È un investimento importante, merita una visita.</p>
   </div>
 
   <div class="faq-item">

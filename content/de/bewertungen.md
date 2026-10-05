@@ -1,12 +1,12 @@
 ---
 title: "Staffordshire Bull Terrier Bewertungen"
 date: 2025-12-28
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
 description: "Die Google-Bewertungen der Familien, die einen Welpen von Del Piccolo Diavolo gewählt haben: echte Erfahrungen vor und nach der Abgabe, jede mit Link zum Original."
 slug: "bewertungen"
-fonti_motivo: "Die hier gezeigten Bewertungen stammen von Kunden der Zucht Del Piccolo Diavolo: Ihre Quelle ist das Google-Profil der Zucht, auf das jede einzelne Bewertung verlinkt, und es gibt keine weiteren externen Quellen zu nennen."
+fonti_motivo: "Die hier gezeigten Bewertungen stammen von Familien mit einem Welpen der Zucht Del Piccolo Diavolo: Ihre Quelle ist das Google-Profil der Zucht, auf das jede einzelne Bewertung verlinkt, und es gibt keine weiteren externen Quellen zu nennen."
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
@@ -28,8 +28,8 @@ custom_content: |
   
   <div class="features-bar">
   <div class="features-track">
-  <span>Seit 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Bewertungen</span><span>100% Verifiziert</span><span>Lebenslanger Support</span><span>Zufriedene Kunden</span>
-  <span>Seit 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Bewertungen</span><span>100% Verifiziert</span><span>Lebenslanger Support</span><span>Zufriedene Kunden</span>
+  <span>Seit 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Bewertungen</span><span>100% Verifiziert</span><span>Lebenslanger Support</span><span>Zufriedene Familien</span>
+  <span>Seit 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Bewertungen</span><span>100% Verifiziert</span><span>Lebenslanger Support</span><span>Zufriedene Familien</span>
   </div>
   </div>
   
@@ -328,7 +328,7 @@ custom_content: |
   <!-- CTA -->
   <section class="section">
   <div class="section-inner content-single">
-  <p class="fonti">Quellen: Die hier gezeigten Bewertungen stammen von Kunden der Zucht Del Piccolo Diavolo: Ihre Quelle ist das Google-Profil der Zucht, auf das jede einzelne Bewertung verlinkt, und es gibt keine weiteren externen Quellen zu nennen.</p>
+  <p class="fonti">Quellen: Die hier gezeigten Bewertungen stammen von Familien mit einem Welpen der Zucht Del Piccolo Diavolo: Ihre Quelle ist das Google-Profil der Zucht, auf das jede einzelne Bewertung verlinkt, und es gibt keine weiteren externen Quellen zu nennen.</p>
   </div>
   </section>
 

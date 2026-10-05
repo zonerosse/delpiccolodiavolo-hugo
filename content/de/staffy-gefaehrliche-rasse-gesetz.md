@@ -1,7 +1,7 @@
 ---
 title: "Ist der Staffordshire Bull Terrier gefährlich? Gesetzeslage"
 date: 2025-11-18
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "pericoloso"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -163,7 +163,7 @@ custom_content: |
   <li><a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen mit überprüfbaren Gentests">Staffordshire Bull Terrier Welpen mit überprüfbaren Gentests</a></li>
   <li><a href="/de/kontakt/" title="Kontakt – Staffordshire Bull Terrier Zucht">Kontakt – Staffordshire Bull Terrier Zucht</a></li>
   <li><a href="/de/faq-staffordshire-bull-terrier/" title="FAQ Staffordshire Bull Terrier - Häufig gestellte Fragen">FAQ Staffordshire Bull Terrier - Häufig gestellte Fragen</a></li>
-  <li><a href="/de/bewertungen/" title="Staffordshire Bull Terrier Bewertungen">Staffordshire Bull Terrier Bewertungen</a></li>
+  <li><a href="/de/bewertungen/" title="Bewertungen unserer Familien">Bewertungen unserer Familien</a></li>
   <li><a href="/de/staffordshire-bull-terrier-charakter-familienleben/" title="Staffordshire Bull Terrier: Charakter und Familienleben">Staffordshire Bull Terrier: Charakter und Familienleben</a></li>
   </ul>
   </div>

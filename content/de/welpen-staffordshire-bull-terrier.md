@@ -2,7 +2,7 @@
 title: "Welpen Staffordshire Bull Terrier"
 titleSeo: "Staffordshire Bull Terrier Welpen mit überprüfbaren Gentests"
 date: 2025-12-28
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
 description: "Staffordshire Bull Terrier Welpen in Ostellato (FE). ENCI-Ahnentafel, Eltern auf L2HGA und HC getestet, Befunde auf der Website veröffentlicht."
@@ -11,7 +11,7 @@ correlati:
     titolo: "Gentests: L2-HGA und HC"
     testo: "Warum beide Elterntiere getestet sein müssen"
   - url: "/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/"
-    titolo: "Vor dem Welpenkauf"
+    titolo: "Bevor ein Welpe einzieht"
     testo: "Unterlagen, Fragen und Warnzeichen"
   - url: "/de/staffy-blutlinien-guide/"
     titolo: "Blutlinien: England und Irland"

@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier: Ist er der richtige Hund für Sie? Vor- und Nachteile"
 date: 2026-08-01
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 titleSeo: "Staffordshire Bull Terrier: der richtige Hund für Sie?"
 translationKey: "cane-giusto"
 articolo: true
@@ -170,7 +170,7 @@ custom_content: |
   <ul>
   <li><a href="/de/staffy-pitbull-amstaff-unterschied/" title="Unterschiede">Unterschied zwischen Staffy, Pitbull und Amstaff</a></li>
   <li><a href="/de/staffy-gefaehrliche-rasse-gesetz/" title="Staffy und Gesetz">Ist der Staffy gefährlich? Was das Gesetz sagt</a></li>
-  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Kauftipps">Tipps vor dem Kauf eines Welpen</a></li>
+  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Zucht wählen">Tipps, bevor ein Welpe einzieht</a></li>
   <li><a href="/de/staffordshire-bull-terrier-charakter-familienleben/" title="Charakter und Familienleben">Charakter und Familienleben des Staffy</a></li>
   </ul>
   </div>

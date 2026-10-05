@@ -1,6 +1,6 @@
 ---
 title: "The Staffordshire Bull Terrier Temperament: Where It Comes From"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 titleSeo: "Staffy temperament: how it was selected"
 articolo: true
 translationKey: "carattere"
@@ -69,7 +69,7 @@ correlati:
 
 <p>Today that tenacity appears in entirely peaceful forms — in play, in the insistence with which the dog follows you around the house, in the determination it brings to a food puzzle. But it also exists in a version that needs managing: tolerance towards other dogs is not guaranteed, particularly between animals of the same sex after social maturity.</p>
 
-<p>It is a predictable trait, not a hidden defect. And it should be said before the purchase, not after: anyone looking for a dog to take to the park and let loose with all comers needs to know this in advance.</p>
+<p>It is a predictable trait, not a hidden defect. And it should be said before the puppy goes home, not after: anyone looking for a dog to take to the park and let loose with all comers needs to know this in advance.</p>
 
 <h2>What we select for, in practice</h2>
 
@@ -89,7 +89,7 @@ correlati:
 
 <p><strong>Tolerance of handling.</strong> Held on its back for a few seconds, a balanced puppy struggles briefly and then relaxes. Panic or complete rigidity are signals worth noting.</p>
 
-<p>The most common mistake buyers make is choosing the boldest puppy, the one that arrives first. For most families the secure middle of the litter works better than either extreme. A good breeder knows this and proposes the match: if they do, it is a sign of seriousness, not an imposition.</p>
+<p>The most common mistake families make is choosing the boldest puppy, the one that arrives first. For most families the secure middle of the litter works better than either extreme. A good breeder knows this and proposes the match: if they do, it is a sign of seriousness, not an imposition.</p>
 
 <h2>How much the breeder weighs against the breed</h2>
 

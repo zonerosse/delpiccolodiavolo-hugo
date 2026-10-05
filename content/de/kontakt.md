@@ -147,7 +147,7 @@ custom_content: |
   </div>
   </div>
   
-  <p style="text-align:center;color:#4a3f35;margin-top:1.5rem;font-size:.9rem">Viele Liebhaber aus Mailand, Florenz und Venedig kommen bequem als Tagesausflug.</p>
+  <p style="text-align:center;color:#4a3f35;margin-top:1.5rem;font-size:.9rem">Viele Familien aus Mailand, Florenz und Venedig kommen bequem als Tagesausflug.</p>
   </div>
   </section>
   

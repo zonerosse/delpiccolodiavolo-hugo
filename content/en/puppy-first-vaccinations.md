@@ -104,7 +104,7 @@ custom_content: |
   <li><a href="/en/puppy-home-socialization/" title="Socialising the puppy at home: the family checklist">Socialising the puppy at home: the family checklist</a></li>
   <li><a href="/en/puppy-initial-feeding/" title="Feeding a Staffordshire Bull Terrier puppy: first months">Feeding a Staffordshire Bull Terrier puppy: first months</a></li>
   <li><a href="/en/staffy-parasite-prevention/" title="Parasite Prevention for Staffordshire Bull Terrier">Parasite Prevention for Staffordshire Bull Terrier</a></li>
-  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious Staffy breeder">How to recognise a serious Staffy breeder</a></li>
+  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Choosing a breeder">How to recognise a serious Staffy breeder</a></li>
   </ul>
   </div>
   

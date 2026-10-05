@@ -147,7 +147,7 @@ custom_content: |
   </div>
   </div>
   
-  <p style="text-align:center;color:#4a3f35;margin-top:1.5rem;font-size:.9rem">Many enthusiasts from Milan, Florence and Venice reach us comfortably in a day trip.</p>
+  <p style="text-align:center;color:#4a3f35;margin-top:1.5rem;font-size:.9rem">Many families from Milan, Florence and Venice reach us comfortably in a day trip.</p>
   </div>
   </section>
   

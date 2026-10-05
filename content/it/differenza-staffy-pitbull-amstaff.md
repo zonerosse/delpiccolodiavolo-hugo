@@ -2,7 +2,7 @@
 title: "Differenza tra Staffordshire Bull Terrier, Pitbull e Amstaff"
 titleSeo: "Staffy, Pitbull e Amstaff: come distinguerli"
 date: 2025-11-19
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "pitbull-amstaff"
 articolo: true
 image: "/images/blog/differenza-razze-hero.webp"
@@ -271,7 +271,7 @@ custom_content: |
   <li><a href="/linee-sangue-staffordshire-bull-terrier/" title="Linee di sangue">Linee di sangue dello Staffordshire Bull Terrier</a></li>
   <li><a href="/standard-tipicita-morfologia/" title="Standard e tipicità">Standard FCI e tipicità morfologica</a></li>
   <li><a href="/staffy-pericoloso-legge-italia/" title="Staffy e legge">Lo Staffy è pericoloso? Cosa dice la legge italiana</a></li>
-  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Consigli acquisto">Consigli prima dell'acquisto di un cucciolo</a></li>
+  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento">Consigli prima di prendere un cucciolo</a></li>
   </ul>
   </div>
   

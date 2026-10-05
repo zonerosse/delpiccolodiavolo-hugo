@@ -1,7 +1,7 @@
 ---
 title: "Dental Health and Oral Hygiene for Staffordshire Bull Terrier"
 date: 2024-06-18
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 titleSeo: "Dental health for the Staffordshire Bull Terrier"
 translationKey: "denti"
 articolo: true
@@ -59,7 +59,7 @@ custom_content: |
   <p>Third, and most under-appreciated: fractured teeth from inappropriate chews. This is an extremely powerful jaw in a dog with an unusually high pain threshold, and slab fractures of the upper carnassial teeth are the classic injury. The dog often shows no sign at all.</p>
 
   <h2>What to give and what to avoid</h2>
-  <p>The rule we give every puppy buyer is simple: if you cannot make a fingernail mark in it, and you would not want it dropped on your knee, do not give it to the dog. That excludes antlers, bones of any kind including the widely sold weight-bearing beef bones, nylon bones, hooves and stones.</p>
+  <p>The rule we give every family that takes one of our puppies is simple: if you cannot make a fingernail mark in it, and you would not want it dropped on your knee, do not give it to the dog. That excludes antlers, bones of any kind including the widely sold weight-bearing beef bones, nylon bones, hooves and stones.</p>
   <p>Appropriate options: rubber chews of the type that flex under pressure, dental chews with a proven abrasive action, rope toys used under supervision, and raw carrots for dogs whose diet accommodates them. None of these replaces brushing, and any product marketed as making brushing unnecessary is overstating its case.</p>
 
   <h2>Brushing: the only thing that genuinely works</h2>
@@ -161,7 +161,7 @@ custom_content: |
   <li><a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)">Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)</a></li>
   <li><a href="/en/staffy-parasite-prevention/" title="Parasite Prevention for Staffordshire Bull Terrier">Parasite Prevention for Staffordshire Bull Terrier</a></li>
   <li><a href="/en/puppy-initial-feeding/" title="Feeding a Staffordshire Bull Terrier puppy: first months">Feeding a Staffordshire Bull Terrier puppy: first months</a></li>
-  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious Staffy breeder">How to recognise a serious Staffy breeder</a></li>
+  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Choosing a breeder">Advice before taking on a puppy</a></li>
   </ul>
   </div>
   

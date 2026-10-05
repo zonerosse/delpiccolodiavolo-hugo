@@ -2,7 +2,7 @@
 title: "Staffy and Other Pets"
 date: 2024-06-18
 titleSeo: "Staffordshire Bull Terrier with other pets at home"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "altri-animali"
 articolo: true
 image: "/images/blog/famiglia-3.webp"
@@ -529,7 +529,7 @@ custom_content: |
   <ul>
   <li><a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it really means">Socialised puppies: what it really means</a></li>
   <li><a href="/en/puppy-home-socialization/" title="Socialising the puppy at home: the family checklist">Socialising the puppy at home: the family checklist</a></li>
-  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious Staffy breeder">How to recognise a serious Staffy breeder</a></li>
+  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Choosing a breeder">Advice before taking on a puppy</a></li>
   </ul>
   </div>
   

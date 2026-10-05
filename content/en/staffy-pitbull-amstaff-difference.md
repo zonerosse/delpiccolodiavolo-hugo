@@ -1,7 +1,7 @@
 ---
 title: "Difference Between Staffordshire Bull Terrier, Pitbull and Amstaff"
 date: 2025-11-19
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 titleSeo: "Staffordshire Bull Terrier, Pitbull and Amstaff compared"
 translationKey: "pitbull-amstaff"
 articolo: true
@@ -270,7 +270,7 @@ custom_content: |
   <li><a href="/en/staffy-bloodlines-guide/" title="Bloodlines">Staffordshire Bull Terrier bloodlines</a></li>
   <li><a href="/en/staffy-breed-standard/" title="Breed standard">FCI standard and breed type</a></li>
   <li><a href="/en/staffy-dangerous-breed-law/" title="Staffy and the law">Is the Staffy dangerous? What Italian law says</a></li>
-  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Choosing a breeder">Before buying a puppy: how to choose a breeder</a></li>
+  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Choosing a breeder">Before taking on a puppy: how to choose a breeder</a></li>
   </ul>
   </div>
   

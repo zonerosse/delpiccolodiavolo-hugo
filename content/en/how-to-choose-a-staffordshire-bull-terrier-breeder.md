@@ -10,7 +10,7 @@ thumb: "/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier
 description: "Eight criteria for recognising a serious Staffordshire Bull Terrier breeder, each with the way to verify it. With our own documents as the worked example."
 slug: "how-to-choose-a-staffordshire-bull-terrier-breeder"
 date: 2026-01-18
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 ---
 
 <section class="hero">
@@ -42,7 +42,7 @@ lastmod: 2026-09-30
 
 <p>Recognising a serious Staffordshire Bull Terrier breeder does not require trusting anyone: it requires knowing where to look. Genetic test certificates are only valid if they carry the dog's microchip number, otherwise they cannot be tied to any animal. <a href="/en/how-to-read-a-pedigree/" title="How to read a pedigree: what ENCI shows and what it doesn't">Genealogies can be checked on SBTPedigree</a>, the breed's international archive. The number of litters a bitch has had is checked in the ENCI stud book, again starting from the microchip. Show titles appear in public catalogues, with the judge's name. Selling a puppy before 60 days of age is prohibited by Italian law, and puppies going abroad leave later because they need a rabies vaccination. Eight criteria, each with the way to check it: they apply to the Del Piccolo Diavolo kennel in Ostellato, Italy, as much as to any other.</p>
 
-<p>Nearly every kennel says the same things: tested dogs, puppies raised indoors, careful selection. Those claims cost nothing until somebody checks them, and a first-time buyer rarely knows where to start checking.</p>
+<p>Nearly every kennel says the same things: tested dogs, puppies raised indoors, careful selection. Those claims cost nothing until somebody checks them, and a first-time owner rarely knows where to start checking.</p>
 
 <p>This guide is built the other way round. For each criterion you get <strong>how to verify it</strong> — what to ask, where to look, which document to insist on. And so you are not left with theory alone, under each criterion we put our own document: use us as the exercise, then put the same questions to anyone else.</p>
 

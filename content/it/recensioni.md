@@ -2,12 +2,12 @@
 title: "Recensioni Staffordshire Bull Terrier"
 titleSeo: "Recensioni Staffordshire Bull Terrier: <!--REC-TOTALE--> famiglie"
 date: 2025-12-28
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
 description: "Le recensioni Google delle famiglie che hanno scelto un cucciolo Del Piccolo Diavolo: esperienze reali, prima e dopo l'affido, ognuna collegata all'originale."
 slug: "recensioni"
-fonti_motivo: "Le recensioni riportate qui sono dei clienti dell'allevamento Del Piccolo Diavolo: la fonte è il profilo Google dell'allevamento, collegato da ogni singola recensione, e non esistono altre fonti esterne da citare."
+fonti_motivo: "Le recensioni riportate qui sono delle famiglie che hanno accolto un cucciolo dell'allevamento Del Piccolo Diavolo: la fonte è il profilo Google dell'allevamento, collegato da ogni singola recensione, e non esistono altre fonti esterne da citare."
 custom_content: |
   <section class="hero">
   <div class="hero-visual">
@@ -29,8 +29,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Dal 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Recensioni</span><span>100% Verificate</span><span>Supporto a Vita</span><span>Clienti Soddisfatti</span>
-  <span>Dal 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Recensioni</span><span>100% Verificate</span><span>Supporto a Vita</span><span>Clienti Soddisfatti</span>
+  <span>Dal 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Recensioni</span><span>100% Verificate</span><span>Supporto a Vita</span><span>Famiglie Soddisfatte</span>
+  <span>Dal 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Recensioni</span><span>100% Verificate</span><span>Supporto a Vita</span><span>Famiglie Soddisfatte</span>
   </div>
   </div>
 
@@ -345,7 +345,7 @@ custom_content: |
 
   <section class="section">
   <div class="section-inner content-single">
-  <p class="fonti">Fonti: Le recensioni riportate qui sono dei clienti dell'allevamento Del Piccolo Diavolo: la fonte è il profilo Google dell'allevamento, collegato da ogni singola recensione, e non esistono altre fonti esterne da citare.</p>
+  <p class="fonti">Fonti: Le recensioni riportate qui sono delle famiglie che hanno accolto un cucciolo dell'allevamento Del Piccolo Diavolo: la fonte è il profilo Google dell'allevamento, collegato da ogni singola recensione, e non esistono altre fonti esterne da citare.</p>
   </div>
   </section>
 ---

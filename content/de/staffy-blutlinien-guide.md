@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Blutlinien Leitfaden"
 titleSeo: "Staffy-Blutlinien: die Geschichte der sechs Linien"
 date: 2025-11-08
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "linee-sangue"
 articolo: true
 image: "/images/blog/standard-1.webp"
@@ -110,7 +110,7 @@ custom_content: |
 
   <h2>Linienzucht, Inzucht und Koeffizienten</h2>
   <p>Linienzucht, also die bewusste Wiederholung eines geschätzten Vorfahren in der Ahnentafel, ist ein legitimes Werkzeug zur Festigung des Typs. Zu weit getrieben wird sie zur Inzucht, und der Preis wird bei Immunfunktion, Fruchtbarkeit und Vitalität gezahlt, nicht beim Aussehen — weshalb er leicht zu übersehen ist.</p>
-  <p>Eine Regel, die wir anwenden: der Inzuchtkoeffizient über 5 Generationen soll niedrig bleiben, und wir wiederholen keine enge Verdopplung nur deshalb, weil ein bestimmter Vorfahre gerade in Mode ist. Typ auf Kosten der Vitalität ist ein schlechtes Geschäft, und es zeigt sich erst Jahre später beim Käufer.</p>
+  <p>Eine Regel, die wir anwenden: der Inzuchtkoeffizient über 5 Generationen soll niedrig bleiben, und wir wiederholen keine enge Verdopplung nur deshalb, weil ein bestimmter Vorfahre gerade in Mode ist. Typ auf Kosten der Vitalität ist ein schlechtes Geschäft, und es zeigt sich erst Jahre später bei der Familie.</p>
 
   <h2>Was das für Ihre Welpenwahl bedeutet</h2>
   <p>Fragen Sie den Züchter, welche Linien hinter dem Wurf stehen und warum genau diese beiden Hunde verpaart wurden. Die Antwort ist aufschlussreich. Wer ein Programm hat, erklärt Ihnen, was der Rüde einbringt, was die Hündin einbringt, was verbessert werden soll und welchen Kompromiss man dafür in Kauf nimmt. Wer keines hat, sagt, dass beide Eltern schön sind.</p>

@@ -1,7 +1,7 @@
 ---
 title: "Is Staffordshire Bull Terrier Dangerous? Italian Law"
 date: 2025-11-18
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "pericoloso"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -72,7 +72,7 @@ custom_content: |
 
   <h2>The situation elsewhere in Europe</h2>
   <p>If you are reading this from outside Italy, the picture varies considerably and it matters if you intend to travel or relocate with your dog. Some German federal states include the Staffordshire Bull Terrier in their category lists, with requirements ranging from a temperament test to keeper permits. Denmark prohibits thirteen breeds, including <a href="/en/staffy-or-amstaff-which-breed-suits-you/" title="Staffy or Amstaff, which suits you: the breeder's test">the American Staffordshire Terrier</a> and the Pit Bull Terrier, but not the Staffordshire Bull Terrier; a dog that resembles a prohibited type may still have to prove its breed, which is one more reason to travel with the pedigree. Ireland requires muzzle and short lead in public for a list of types. The United Kingdom, the breed's country of origin, does not restrict it at all.</p>
-  <p>Anyone planning to move a Staffordshire Bull Terrier across borders should check the destination's current rules directly rather than rely on second-hand information, because these lists change. We do this as a matter of course for every puppy we export, and we say so plainly to buyers when the destination has restrictions.</p>
+  <p>Anyone planning to move a Staffordshire Bull Terrier across borders should check the destination's current rules directly rather than rely on second-hand information, because these lists change. We do this as a matter of course for every puppy that goes abroad, and we say so plainly to families when the destination has restrictions.</p>
 
   <h2>What the breed's temperament actually is</h2>
   <p>The Staffordshire Bull Terrier was selected for a specific and demanding combination: courage and tenacity towards other animals, and absolute reliability with people. Dogs that showed aggression towards humans were historically removed from breeding without discussion, because they were handled constantly and at close quarters.</p>

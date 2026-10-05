@@ -2,7 +2,7 @@
 title: "How to Choose Staffy Bloodlines"
 date: 2025-03-05
 titleSeo: "Choosing Staffordshire Bull Terrier bloodlines"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "scelta-linee"
 articolo: true
 image: "/images/blog/standard-2.webp"
@@ -59,8 +59,8 @@ custom_content: |
   <p>The question to ask is not which country the dogs come from. It is whether the breeder can explain what each line contributes and why.</p>
 
   <h2>Show emphasis and its cost</h2>
-  <p>Some lines have been shaped primarily by ring success, and in this breed that has consequences worth understanding before you buy. Where judges have rewarded heavier bone, wider fronts and shorter muzzles, the dogs that result photograph magnificently and struggle in warm weather.</p>
-  <p>If you are buying a companion, this matters more than any title. Ask to see the parents move, ask to hear them breathe after 5 minutes of activity, and ask directly whether the breeder considers airway quality in their matings. The answer, and the ease with which it is given, tells you a great deal.</p>
+  <p>Some lines have been shaped primarily by ring success, and in this breed that has consequences worth understanding before you choose a puppy. Where judges have rewarded heavier bone, wider fronts and shorter muzzles, the dogs that result photograph magnificently and struggle in warm weather.</p>
+  <p>If you are looking for a companion, this matters more than any title. Ask to see the parents move, ask to hear them breathe after 5 minutes of activity, and ask directly whether the breeder considers airway quality in their matings. The answer, and the ease with which it is given, tells you a great deal.</p>
 
   <h2>Assessing a breeder rather than a pedigree</h2>
   <p>A pedigree tells you about ancestors. A breeder tells you about the puppy you will actually get. The questions that reveal most are these.</p>

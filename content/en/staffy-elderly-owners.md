@@ -142,7 +142,7 @@ custom_content: |
   <li><a href="/en/staffy-children-family/" title="Staffordshire Bull Terrier with children: family life">Staffordshire Bull Terrier with children: family life</a></li>
   <li><a href="/en/staffy-other-pets/" title="Staffordshire Bull Terrier with other pets at home">Staffordshire Bull Terrier with other pets at home</a></li>
   <li><a href="/en/staffy-safe-exercise/" title="Safe Exercise for Staffordshire Bull Terrier">Safe Exercise for Staffordshire Bull Terrier</a></li>
-  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious Staffy breeder">How to recognise a serious Staffy breeder</a></li>
+  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Choosing a breeder">Advice before taking on a puppy</a></li>
   </ul>
   </div>
   

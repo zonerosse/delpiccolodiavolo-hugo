@@ -199,7 +199,7 @@ custom_content: |
   <li><a href="/linee-sangue-staffordshire-bull-terrier/" title="Linee di sangue">Linee di Sangue: Storia e Genealogia</a></li>
   <li><a href="/differenza-staffy-pitbull-amstaff/" title="Differenza razze">Differenza tra Staffy, Pitbull e Amstaff</a></li>
   <li><a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici">Test genetici L2-HGA e HC: guida completa</a></li>
-  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Consigli acquisto">Consigli prima dell'acquisto di un cucciolo</a></li>
+  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento">Consigli prima di prendere un cucciolo</a></li>
   </ul>
   </div>
   

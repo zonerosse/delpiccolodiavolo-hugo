@@ -159,7 +159,7 @@ custom_content: |
   <li><a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)">Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)</a></li>
   <li><a href="/en/puppy-first-vaccinations/" title="Puppy first vaccinations: schedule and boosters">Puppy first vaccinations: schedule and boosters</a></li>
   <li><a href="/en/puppy-initial-feeding/" title="Feeding a Staffordshire Bull Terrier puppy: first months">Feeding a Staffordshire Bull Terrier puppy: first months</a></li>
-  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious Staffy breeder">How to recognise a serious Staffy breeder</a></li>
+  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Choosing a breeder">Advice before taking on a puppy</a></li>
   </ul>
   </div>
   

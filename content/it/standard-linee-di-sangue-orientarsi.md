@@ -2,7 +2,7 @@
 title: "Come Scegliere la Linea di Sangue di un Cucciolo di Staffy"
 date: 2025-03-05
 titleSeo: "Come scegliere la linea di sangue di un cucciolo di Staffy"
-lastmod: 2026-09-29
+lastmod: 2026-10-05
 translationKey: "scelta-linee"
 articolo: true
 image: "/images/blog/standard-2.webp"
@@ -160,7 +160,7 @@ custom_content: |
   <li><a href="/linee-sangue-staffordshire-bull-terrier/" title="Storia linee">Linee di Sangue: Storia e Genealogia</a></li>
   <li><a href="/standard-tipicita-morfologia/" title="Standard FCI">Standard FCI: Tipicità e Morfologia</a></li>
   <li><a href="/differenza-staffy-pitbull-amstaff/" title="Differenza razze">Differenza tra Staffy, Pitbull e Amstaff</a></li>
-  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Consigli acquisto">Consigli prima dell'acquisto di un cucciolo</a></li>
+  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento">Consigli prima di prendere un cucciolo</a></li>
   </ul>
   </div>
   

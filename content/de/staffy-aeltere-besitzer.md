@@ -137,7 +137,7 @@ custom_content: |
   <li><a href="/de/staffy-kinder-familie/" title="Staffordshire Bull Terrier mit Kindern und Familie">Staffordshire Bull Terrier mit Kindern und Familie</a></li>
   <li><a href="/de/staffy-andere-haustiere/" title="Staffordshire Bull Terrier mit anderen Haustieren">Staffordshire Bull Terrier mit anderen Haustieren</a></li>
   <li><a href="/de/staffy-sichere-bewegung/" title="Sichere Bewegung für Staffordshire Bull Terrier">Sichere Bewegung für Staffordshire Bull Terrier</a></li>
-  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Seriöse Staffordshire Bull Terrier Zucht erkennen">Seriöse Staffordshire Bull Terrier Zucht erkennen</a></li>
+  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Zucht wählen">Tipps, bevor ein Welpe einzieht</a></li>
   </ul>
   </div>
   

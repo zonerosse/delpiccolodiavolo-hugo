@@ -178,7 +178,7 @@ custom_content: |
   <li><a href="/de/staffy-aeltere-besitzer/" title="Staffordshire Bull Terrier für ältere Besitzer">Staffordshire Bull Terrier für ältere Besitzer</a></li>
   <li><a href="/de/staffy-andere-haustiere/" title="Staffordshire Bull Terrier mit anderen Haustieren">Staffordshire Bull Terrier mit anderen Haustieren</a></li>
   <li><a href="/de/welpen-sozialisierung-zuhause/" title="Welpen zu Hause sozialisieren: die Liste für die Familie">Welpen zu Hause sozialisieren: die Liste für die Familie</a></li>
-  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Seriöse Staffordshire Bull Terrier Zucht erkennen">Seriöse Staffordshire Bull Terrier Zucht erkennen</a></li>
+  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Zucht wählen">Tipps, bevor ein Welpe einzieht</a></li>
   </ul>
   </div>
   

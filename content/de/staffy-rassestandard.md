@@ -61,7 +61,7 @@ custom_content: |
 
   <h2>Farben</h2>
   <p>Zugelassen sind Rot, Falb, Weiß, Schwarz oder Blau, jeweils auch mit Weiß, sowie jede Schattierung von Gestromt und Gestromt mit Weiß. Schwarz-Loh und Leberfarben gelten als höchst unerwünscht, und keinen Platz hat die als Blue Merle oder ähnlich vermarktete Verdünnung, die in dieser Rasse gar nicht vorkommt.</p>
-  <p>Die Farbe sollte die Wahl zuletzt beeinflussen und ist die erste Frage der meisten Käufer. Ein Züchter, der Welpen nach Fellfarbe bepreist, sagt Ihnen damit, wo seine Prioritäten liegen. Welche Farben der Standard zulässt und welche nicht, erklärt der Ratgeber zu den <a href="/de/staffordshire-bull-terrier-farben/" title="Farben des Staffordshire Bull Terrier">Farben des Staffordshire Bull Terrier</a>.</p>
+  <p>Die Farbe sollte die Wahl zuletzt beeinflussen und ist die erste Frage der meisten Familien. Ein Züchter, der Welpen nach Fellfarbe bepreist, sagt Ihnen damit, wo seine Prioritäten liegen. Welche Farben der Standard zulässt und welche nicht, erklärt der Ratgeber zu den <a href="/de/staffordshire-bull-terrier-farben/" title="Farben des Staffordshire Bull Terrier">Farben des Staffordshire Bull Terrier</a>.</p>
 
   <h2>Fehler und ihre Gewichtung</h2>
   <p>Der Standard hält fest, dass jede Abweichung als Fehler zu betrachten ist und dass die Schwere des Fehlers in genauem Verhältnis zu seinem Ausmaß und seiner Auswirkung auf Gesundheit und Wohlbefinden des Hundes stehen soll. Dieser letzte Satz ist der wichtigste des gesamten Dokuments — und der am häufigsten übergangene.</p>

@@ -183,7 +183,7 @@ custom_content: |
   <li><a href="/en/staffy-elderly-owners/" title="Is a Staffordshire Bull Terrier right for older owners?">Is a Staffordshire Bull Terrier right for older owners?</a></li>
   <li><a href="/en/staffy-other-pets/" title="Staffordshire Bull Terrier with other pets at home">Staffordshire Bull Terrier with other pets at home</a></li>
   <li><a href="/en/puppy-home-socialization/" title="Socialising the puppy at home: the family checklist">Socialising the puppy at home: the family checklist</a></li>
-  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious Staffy breeder">How to recognise a serious Staffy breeder</a></li>
+  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Choosing a breeder">Advice before taking on a puppy</a></li>
   </ul>
   </div>
   

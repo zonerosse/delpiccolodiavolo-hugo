@@ -2,7 +2,7 @@
 title: "Wie man Staffy-Blutlinien wählt"
 date: 2025-03-05
 titleSeo: "Staffordshire Bull Terrier Blutlinien richtig wählen"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "scelta-linee"
 articolo: true
 image: "/images/blog/standard-2.webp"
@@ -55,7 +55,7 @@ custom_content: |
   <p>Die Frage lautet nicht, aus welchem Land die Hunde stammen, sondern ob der Züchter erklären kann, was jede Linie beiträgt und warum.</p>
 
   <h2>Ausstellungsbetonung und ihr Preis</h2>
-  <p>Manche Linien wurden vorrangig durch Ringerfolg geformt, und das hat in dieser Rasse Folgen, die man vor dem Kauf kennen sollte. Wo Richter schwereren Knochen, breitere Fronten und kürzere Fänge belohnt haben, entstehen Hunde, die großartig fotografieren und bei Wärme Mühe haben.</p>
+  <p>Manche Linien wurden vorrangig durch Ringerfolg geformt, und das hat in dieser Rasse Folgen, die man kennen sollte, bevor man einen Welpen wählt. Wo Richter schwereren Knochen, breitere Fronten und kürzere Fänge belohnt haben, entstehen Hunde, die großartig fotografieren und bei Wärme Mühe haben.</p>
   <p>Wer einen Begleithund sucht, für den wiegt das schwerer als jeder Titel. Lassen Sie sich die Elterntiere in Bewegung zeigen, hören Sie ihre Atmung nach 5 Minuten Aktivität, und fragen Sie direkt, ob der Züchter die Atemqualität in seine Verpaarungen einbezieht. Die Antwort, und wie leicht sie kommt, sagt viel.</p>
 
   <h2>Den Züchter beurteilen, nicht die Ahnentafel</h2>
