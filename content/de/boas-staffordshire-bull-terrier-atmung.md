@@ -1,7 +1,7 @@
 ---
 title: "BOAS beim Staffordshire Bull Terrier: Warum die Atmung entscheidend ist"
 date: 2025-12-28
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 titleSeo: "BOAS beim Staffordshire Bull Terrier: die Atmung"
 translationKey: "boas"
 articolo: true
@@ -9,7 +9,7 @@ image: "/images/blog/boas-respirazione.webp"
 og_image: "/images/og/schede/de/boas-staffordshire-bull-terrier-atmung.jpg"
 og_image_alt: "BOAS beim Staffordshire Bull Terrier: die Atmung — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/boas-staffordshire-bull-terrier-respirazione.webp"
-description: "BOAS beim Staffordshire Bull Terrier: was das Atemwegssyndrom ist, warum die Rasse nicht extrem brachyzephal ist und wie man einen frei atmenden Welpen erkennt."
+description: "BOAS beim Staffordshire Bull Terrier: was das Atemwegssyndrom ist, warum die Rasse nicht brachyzephal ist und wie man einen frei atmenden Welpen erkennt."
 slug: "boas-staffordshire-bull-terrier-atmung"
 custom_content: |
   <section class="hero">
@@ -48,7 +48,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Was ist BOAS</span>
-  <p>Der Staffordshire Bull Terrier ist eine mäßig brachyzephale Rasse: Sein Fang ist verkürzt, aber nicht so extrem wie beim Mops oder der Englischen Bulldogge, und bei den meisten Hunden ist die Atmung normal. <strong>BOAS</strong> &mdash; das brachyzephale obstruktive Atemwegssyndrom &mdash; ist deshalb kein Urteil über die Rasse, sondern ein Risiko, das man kennen sollte: Die Anzeichen sind deutliches Schnarchen auch im Wachzustand, geräuschvolles Atmen in Ruhe, Unverträglichkeit von Anstrengung und Hitze und häufiges Hochwürgen. Ein Hund, der nach wenigen Minuten Spiel schwer hechelt, ist nicht außer Form, sondern gehört zum Tierarzt. In der Zucht zählt die Wahl von Tieren mit offenen Nasenlöchern und nicht zusammengedrücktem Nasengang: Die Typischkeit des Kopfes darf nie gegen die Funktion arbeiten.</p>
+  <p>Der Staffordshire Bull Terrier ist keine brachyzephale Rasse: Sein Fang ist kürzer als bei vielen Rassen, aber weit entfernt von Mops oder Englischer Bulldogge, und bei den meisten Hunden ist die Atmung normal; manche Linien haben allerdings einen zu kurzen Fang. <strong>BOAS</strong> &mdash; das brachyzephale obstruktive Atemwegssyndrom &mdash; ist deshalb kein Urteil über die Rasse, sondern ein Risiko, das man kennen sollte: Die Anzeichen sind deutliches Schnarchen auch im Wachzustand, geräuschvolles Atmen in Ruhe, Unverträglichkeit von Anstrengung und Hitze und häufiges Hochwürgen. Ein Hund, der nach wenigen Minuten Spiel schwer hechelt, ist nicht außer Form, sondern gehört zum Tierarzt. In der Zucht zählt die Wahl von Tieren mit offenen Nasenlöchern und nicht zusammengedrücktem Nasengang: Die Typischkeit des Kopfes darf nie gegen die Funktion arbeiten.</p>
 
   <h2 class="section-title">Brachyzephales Obstruktives Atemwegssyndrom</h2>
   
@@ -72,14 +72,14 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Die Position des Staffy</span>
-  <h2 class="section-title">Der Staffordshire Bull Terrier ist KEINE extreme brachyzephale Rasse</h2>
+  <h2 class="section-title">Der Staffordshire Bull Terrier ist keine brachyzephale Rasse</h2>
   
   <div class="zigzag">
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Ein Spektrum, keine Kategorie</h3>
   <p>Der <a href="https://www.thekennelclub.org.uk/health-and-dog-care/health/health-and-care/a-z-of-health-and-care-issues/brachycephalic-health-issues/" target="_blank" rel="noopener" aria-label="Kennel Club UK (wird in einem neuen Tab geöffnet)">Kennel Club UK</a> stellt klar: "Brachyzephalie tritt in einem Spektrum auf, von Rassen mit fast vollständig flachen Gesichtern (manchmal als 'extreme Brachyzephalie' bezeichnet) wie dem Mops und dem Japan Chin bis hin zu <strong>weniger übertriebenen brachyzephalen Rassen wie dem Boxer und dem Staffordshire Bull Terrier</strong>."</p>
-  <p>Das bedeutet, dass der Staffy laut Standard eine ausreichend lange Schnauze haben sollte, um eine normale Atmung zu ermöglichen.</p>
+  <p>Der Kennel Club ordnet ihn also am wenigsten ausgeprägten Ende des Spektrums ein, und unsere Position ist deutlicher: Laut Standard muss der Staffy einen Fang haben, der lang genug für eine normale Atmung ist, und Linien mit zu kurzem Fang gehen in die falsche Richtung.</p>
   </div>
   <div class="zigzag-image"></div>
   </div>

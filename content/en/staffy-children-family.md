@@ -94,6 +94,44 @@ custom_content: |
   <h2>When to call a behaviourist</h2>
   <p>Some situations need professional help straight away, not advice read online: a dog that has bitten a child, however lightly; repeated growling or snapping at children; defensive behaviour that is escalating; marked fear of children, with avoidance, trembling or attempts to escape; compulsive behaviours linked to stress; and a sudden change of temperament, a tolerant dog becoming reactive. A veterinary behaviourist first rules out a medical cause, because pain lies behind many sudden changes, then sets out a structured behaviour plan, sometimes with medication, and assesses whether living together can be made safe.</p>
 
+  <h2>Forbidden actions: print it and pin it up</h2>
+  <div class="alert">
+  <p class="alert-title">🚫 The complete list</p>
+  <ul>
+  <li>Tight hugs and kisses on the face</li>
+  <li>Pulling the tail, ears, paws or lips</li>
+  <li>Riding or climbing on the dog</li>
+  <li>Waking it by touching it (calling it from a distance is fine)</li>
+  <li>Disturbing it while it eats or chews</li>
+  <li>Staring into its eyes (to a dog it is a challenge)</li>
+  <li>Shouting close to the dog</li>
+  <li>Running at it or chasing it</li>
+  <li>Blowing in its face or ears</li>
+  <li>Dressing it up by force</li>
+  <li>Holding it down or restraining it against its will</li>
+  <li>Physical punishment</li>
+  </ul>
+  <p><strong>If a rule is broken:</strong> no dog-child interaction for the rest of the day, a calm explanation of why it was dangerous, and try again tomorrow.</p>
+  </div>
+
+  <h2>The safe household checklist</h2>
+  <div class="checklist">
+  <p class="checklist-title">To check as a family</p>
+  <ul>
+  <li>A retreat area for the dog that the children do not enter</li>
+  <li>Gates in the key places in the house</li>
+  <li>The dog's toys and the children's toys kept completely separate</li>
+  <li>The adults know all the stress signals</li>
+  <li>The children know the basic rules</li>
+  <li>The list of forbidden actions printed and pinned up</li>
+  <li>Supervision at every interaction, always</li>
+  <li>"Leave it" and "go to your place" well established</li>
+  <li>The contacts of a trainer and a behaviourist close to hand</li>
+  <li>An emergency plan discussed as a family</li>
+  <li>Third-party liability insurance in place</li>
+  </ul>
+  </div>
+
   <div class="callout">
   <p class="callout-title">💡 Support after the puppy goes home, with no expiry</p>
   <p>A family that takes a puppy from us is not left alone after the handover. For the whole of the dog's life we remain available for advice on living with children, training and day-to-day management, even years later. And if one day circumstances change and the dog cannot stay, it comes back here.</p>

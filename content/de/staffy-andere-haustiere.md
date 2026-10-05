@@ -57,7 +57,7 @@ custom_content: |
   <ul>
   <li><strong>Merkmale:</strong> gute, aber nicht ideale Sozialisierung, einige bewältigte Spannungsmomente, anfängliche Selektivität (Vorlieben nach Rasse, Größe oder Geschlecht), möglicherweise mäßiges Ressourcenverteidigen</li>
   <li><strong>Typisches Verhalten:</strong> zunächst steif, dann entspannter; kräftiges Spiel, das einschüchtern kann; löst sich schwer, wenn sehr aufgeregt</li>
-  <li><strong>Mögliche Zusammenführungen:</strong> andere Hunde mit robustem Wesen, Katzen MIT erweitertem Vorgehen und dauerhaften Barrieren, KEINE kleinen Tiere</li>
+  <li><strong>Mögliche Zusammenführungen:</strong> andere Hunde mit robustem Wesen, Katzen mit erweitertem Vorgehen und dauerhaften Barrieren, keine kleinen Tiere</li>
   <li><strong>Zeitrahmen:</strong> 4-8 Wochen, mit möglichen Rückschritten, die man auffangen muss</li>
   </ul>
 
@@ -65,16 +65,16 @@ custom_content: |
   <ul>
   <li><strong>Merkmale:</strong> offene Aggression gegenüber anderen Hunden oder Tieren in der Vorgeschichte, fehlende oder traumatische Sozialisierung, starkes Ressourcenverteidigen, hoher, nicht steuerbarer Beutetrieb</li>
   <li><strong>Typisches Verhalten:</strong> intensives Fixieren, Versteifen des Körpers, Vorschnellen und Zerren an der <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Verordnung vom 6. August 2013, Gazzetta Ufficiale" target="_blank" rel="noopener" aria-label="Verordnung vom 6. August 2013, Gazzetta Ufficiale (wird in einem neuen Tab geöffnet)">Leine</a>, aggressive Lautäußerungen, Beißen oder Angriffe</li>
-  <li><strong>Zusammenführungen:</strong> DRINGEND ABZURATEN. Vor jedem Versuch braucht es einen Verhaltensexperten</li>
+  <li><strong>Zusammenführungen:</strong> Dringend abzuraten. Vor jedem Versuch braucht es einen Verhaltensexperten</li>
   </ul>
 
   <div class="alert">
-  <p class="alert-title">⚠️ Wann Sie es NICHT ohne Fachleute versuchen sollten</p>
+  <p class="alert-title">⚠️ Wann Sie es nicht ohne Fachleute versuchen sollten</p>
   <ul>
   <li><strong>Aggression in der Vorgeschichte:</strong> der Staffy hat schon andere Tiere gebissen oder angegriffen</li>
   <li><strong>Extremer Beutetrieb:</strong> zwanghaftes Jagen kleiner Tiere, nicht abrufbar, sobald er auf Beute „eingerastet“ ist</li>
   <li><strong>Starkes Ressourcenverteidigen:</strong> beißt oder versucht zu beißen, wenn man sich beim Fressen oder Spielen nähert</li>
-  <li><strong>Fehlende Impulskontrolle:</strong> reagiert NIE auf den Rückruf, wenn er aufgeregt ist</li>
+  <li><strong>Fehlende Impulskontrolle:</strong> reagiert nie auf den Rückruf, wenn er aufgeregt ist</li>
   <li><strong>Generalisierte Reaktivität:</strong> Aggression gegenüber Menschen und anderen Tieren</li>
   </ul>
   <p>In diesen Fällen braucht es einen tierärztlichen Verhaltensmediziner oder einen zertifizierten Hundetrainer (in Italien ENCI oder FICSS).</p>
@@ -97,27 +97,27 @@ custom_content: |
 
   <h2>Ein Zuhause für mehrere Tiere vorbereiten: Räume und Ausstattung</h2>
 
-  <p>Viele Zusammenführungen scheitern an der Umgebung, nicht an den Tieren. Das Zuhause VOR der Ankunft des neuen Tieres vorzubereiten, vermeidet riskantes Improvisieren.</p>
+  <p>Viele Zusammenführungen scheitern an der Umgebung, nicht an den Tieren. Das Zuhause vor der Ankunft des neuen Tieres vorzubereiten, vermeidet riskantes Improvisieren.</p>
 
   <h3>Unverzichtbare Ausstattung</h3>
 
   <ul>
-  <li><strong>Ausziehbare Gitter (30-60 €):</strong> teilweise Sichttrennung zwischen Räumen. Gerüche und Geräusche kommen durch, KEIN Körperkontakt. Dauerhaft als Sicherheit installiert lassen</li>
+  <li><strong>Ausziehbare Gitter (30-60 €):</strong> teilweise Sichttrennung zwischen Räumen. Gerüche und Geräusche kommen durch, kein Körperkontakt. Dauerhaft als Sicherheit installiert lassen</li>
   <li><strong>Box oder modulares Gehege (50-120 €):</strong> sichere Zone für das verletzlichere Tier (Katze, kleiner Hund, Welpe). Ein immer zugänglicher Rückzugsort</li>
   <li><strong>Lange Hausleine, 3-5 m (15-25 €):</strong> Kontrolle über den Staffy bei den ersten Begegnungen, ohne ihn zu sehr einzuschränken</li>
-  <li><strong>Maulkorb in Korbform (25-40 €):</strong> volle Sicherheit bei Zweifeln am Wesen. Er erlaubt Atmen, Trinken und Belohnen. NUR wenn der Hund schon positiv daran gewöhnt ist</li>
-  <li><strong>Pheromon-Zerstäuber (20-35 € im Monat):</strong> Adaptil (Hunde) oder Feliway (Katzen) senken den Stress. Eine Woche VOR der Zusammenführung einschalten und 4-6 Wochen beibehalten</li>
+  <li><strong>Maulkorb in Korbform (25-40 €):</strong> volle Sicherheit bei Zweifeln am Wesen. Er erlaubt Atmen, Trinken und Belohnen. Nur wenn der Hund schon positiv daran gewöhnt ist</li>
+  <li><strong>Pheromon-Zerstäuber (20-35 € im Monat):</strong> Adaptil (Hunde) oder Feliway (Katzen) senken den Stress. Eine Woche vor der Zusammenführung einschalten und 4-6 Wochen beibehalten</li>
   </ul>
 
   <h3>Höhe für Katzen</h3>
 
-  <p>Bei der Zusammenführung eines Staffys mit einer Katze ist eine Umgebung in der Höhe NICHT verhandelbar:</p>
+  <p>Bei der Zusammenführung eines Staffys mit einer Katze ist eine Umgebung in der Höhe nicht verhandelbar:</p>
 
   <ul>
   <li><strong>Hohe Regale (&gt;150 cm):</strong> erhöhte Wege, auf denen die Katze Räume durchquert, ohne herunterzukommen. Vor der Ankunft des Staffys an den Wänden anbringen</li>
   <li><strong>Sehr hohe Kratzbäume (180 cm+):</strong> mit mehreren Plattformen, an strategischen Ecken</li>
   <li><strong>Türen mit Katzenklappe:</strong> Die Katze erreicht Räume, die für den Staffy tabu sind (Schlafzimmer, Arbeitszimmer). Sie hat immer einen Fluchtweg</li>
-  <li><strong>Katzenklo außer Reichweite des Hundes:</strong> hinter einem Möbelstück mit Zugang nur für die Katze oder erhöht. Der Staffy darf NIE hinkommen</li>
+  <li><strong>Katzenklo außer Reichweite des Hundes:</strong> hinter einem Möbelstück mit Zugang nur für die Katze oder erhöht. Der Staffy darf nie hinkommen</li>
   <li><strong>Erhöhte Katzennäpfe:</strong> auf Regalen ab 120 cm oder in getrennten Räumen mit Katzenklappe. Keinerlei Futterkonkurrenz</li>
   </ul>
 
@@ -126,11 +126,11 @@ custom_content: |
   <div class="checklist">
   <p class="checklist-title">Checkliste doppelte Ressourcen</p>
   <ul>
-  <li>Futternäpfe: einer pro Tier plus einer extra, an VERSCHIEDENEN Orten (wenn möglich in getrennten Räumen)</li>
+  <li>Futternäpfe: einer pro Tier plus einer extra, an verschiedenen Orten (wenn möglich in getrennten Räumen)</li>
   <li>Wassernäpfe: mindestens 3 verschiedene Stellen im Haus. Überfluss verhindert Verteidigen</li>
   <li>Körbchen und Ruheplätze: 2 pro Tier (die Vorlieben wechseln). Nie Teilen erzwingen</li>
   <li>Spielzeug: getrennte Sets für jeden Hund. Interaktives Spielzeug anfangs nur unter Aufsicht</li>
-  <li>Aufmerksamkeit des Halters: JEDEN Tag garantierte Zeit zu zweit (getrennte Spaziergänge, Training, exklusive Streicheleinheiten)</li>
+  <li>Aufmerksamkeit des Halters: Jeden Tag garantierte Zeit zu zweit (getrennte Spaziergänge, Training, exklusive Streicheleinheiten)</li>
   </ul>
   </div>
 
@@ -142,36 +142,36 @@ custom_content: |
 
   <p><strong>Tag 1-2: Decken oder Matten tauschen</strong> - Hund A schläft auf Decke X, Hund B auf Decke Y. Nach 24 Stunden die Decken tauschen. Jeder Hund beschnuppert den Geruch des anderen in Ruhe in seinem eigenen Bereich. Reaktionen beobachten: entspannte Neugier = in Ordnung, Anspannung oder Knurren = problematisches Wesen.</p>
 
-  <p><strong>Tag 2-3: Räume tauschen</strong> - Hund A geht lange spazieren (60+ Minuten). In dieser Zeit erkundet Hund B frei Haus und Garten von Hund A, schnuppert und markiert leicht. Dann umgekehrt. Gegenseitige Gewöhnung an den Geruch VOR dem ersten Sichtkontakt.</p>
+  <p><strong>Tag 2-3: Räume tauschen</strong> - Hund A geht lange spazieren (60+ Minuten). In dieser Zeit erkundet Hund B frei Haus und Garten von Hund A, schnuppert und markiert leicht. Dann umgekehrt. Gegenseitige Gewöhnung an den Geruch vor dem ersten Sichtkontakt.</p>
 
-  <p><strong>Tag 3: Begegnung durch eine Barriere</strong> - Ein Gitter teilt den Raum. Die beiden Hunde auf gegenüberliegenden Seiten, 3-4 m Abstand. Sie sehen sich, haben aber KEINEN Kontakt. Großzügige Belohnung, wenn sie sich ignorieren oder ruhige Neugier zeigen. Einheiten von 5-10 Minuten, 3-4 Mal am Tag.</p>
+  <p><strong>Tag 3: Begegnung durch eine Barriere</strong> - Ein Gitter teilt den Raum. Die beiden Hunde auf gegenüberliegenden Seiten, 3-4 m Abstand. Sie sehen sich, haben aber keinen Kontakt. Großzügige Belohnung, wenn sie sich ignorieren oder ruhige Neugier zeigen. Einheiten von 5-10 Minuten, 3-4 Mal am Tag.</p>
 
   <h3>PHASE 2: Erste direkte Begegnung draußen (Tag 4-7)</h3>
 
   <p><strong>Ideale Bedingungen:</strong></p>
   <ul>
-  <li><strong>Ort:</strong> ein neutraler Park oder ein Feld (NIE Haus oder Garten des ansässigen Hundes, das ist verteidigtes Revier)</li>
+  <li><strong>Ort:</strong> ein neutraler Park oder ein Feld (nie Haus oder Garten des ansässigen Hundes, das ist verteidigtes Revier)</li>
   <li><strong>Personen:</strong> 2 Erwachsene, jeder führt einen Hund</li>
-  <li><strong>Ausrüstung:</strong> lange Leinen von 3-5 m, Geschirre (KEINE Halsbänder), Leckerlibeutel</li>
-  <li><strong>Vorbereitung:</strong> beide Hunde VORHER 30 Minuten ausgelastet (müde Hunde reagieren weniger)</li>
+  <li><strong>Ausrüstung:</strong> lange Leinen von 3-5 m, Geschirre (keine Halsbänder), Leckerlibeutel</li>
+  <li><strong>Vorbereitung:</strong> beide Hunde vorher 30 Minuten ausgelastet (müde Hunde reagieren weniger)</li>
   </ul>
 
   <p><strong>Ablauf der ersten Begegnung:</strong></p>
   <ol>
-  <li><strong>Schritt 1 - Paralleles Gehen mit 10 m Abstand (10-15 Min.):</strong> Die Hunde gehen in dieselbe Richtung auf gegenüberliegenden Wegseiten. KEIN direkter Blickkontakt. Wenn ein Hund den anderen anstarren will, die Aufmerksamkeit auf den Führenden umlenken (Leckerli, Schnüffeln)</li>
-  <li><strong>Schritt 2 - Abstand schrittweise verringern (10 Min.):</strong> Wenn sie entspannt sind, nach und nach verringern: 8 m → 5 m → 3 m. Bei Anspannung STOPPEN</li>
-  <li><strong>Schritt 3 - Annäherung im „U“ (5-10 Min.):</strong> Die Wege laufen schrittweise zusammen, aber NICHT frontal. Sie kreuzen sich fast, mit sehr kurzem Schnüffeln (2-3 Sekunden), ohne anzuhalten. 3-5 Mal wiederholen</li>
-  <li><strong>Schritt 4 - Längeres Schnüffeln (5-10 Min.):</strong> gegenseitiges Beschnuppern des Hinterteils für 10-15 Sekunden zulassen. Mit einem fröhlichen Rückruf unterbrechen, BEVOR sie fertig sind. 3-4 Mal schnüffeln lassen, dann die Einheit positiv BEENDEN</li>
+  <li><strong>Schritt 1 - Paralleles Gehen mit 10 m Abstand (10-15 Min.):</strong> Die Hunde gehen in dieselbe Richtung auf gegenüberliegenden Wegseiten. Kein direkter Blickkontakt. Wenn ein Hund den anderen anstarren will, die Aufmerksamkeit auf den Führenden umlenken (Leckerli, Schnüffeln)</li>
+  <li><strong>Schritt 2 - Abstand schrittweise verringern (10 Min.):</strong> Wenn sie entspannt sind, nach und nach verringern: 8 m → 5 m → 3 m. Bei Anspannung stoppen</li>
+  <li><strong>Schritt 3 - Annäherung im „U“ (5-10 Min.):</strong> Die Wege laufen schrittweise zusammen, aber nicht frontal. Sie kreuzen sich fast, mit sehr kurzem Schnüffeln (2-3 Sekunden), ohne anzuhalten. 3-5 Mal wiederholen</li>
+  <li><strong>Schritt 4 - Längeres Schnüffeln (5-10 Min.):</strong> gegenseitiges Beschnuppern des Hinterteils für 10-15 Sekunden zulassen. Mit einem fröhlichen Rückruf unterbrechen, bevor sie fertig sind. 3-4 Mal schnüffeln lassen, dann die Einheit positiv beenden</li>
   </ol>
 
   <div class="info-box">
-  <p class="info-box-title">💚 Signale für einen sofortigen STOPP</p>
+  <p class="info-box-title">💚 Signale für einen sofortigen Stopp</p>
   <p>Versteifter Körper, gesträubtes Fell, hoch getragene, unbewegte Rute, Knurren, aggressives Bellen, Vorschnellen. Zeigt einer davon etwas = unterbrechen, Abstand vergrößern und am nächsten Tag zum vorigen Schritt zurückkehren.</p>
   </div>
 
   <h3>PHASE 3: Kontrollierte Begegnungen im Haus (Tag 8-21)</h3>
 
-  <p>Erst NACH 3-5 positiven Begegnungen draußen mit Begegnungen im Haus beginnen:</p>
+  <p>Erst nach 3-5 positiven Begegnungen draußen mit Begegnungen im Haus beginnen:</p>
 
   <ul>
   <li><strong>Tag 8-10:</strong> beide im Haus, aber in getrennten Räumen mit Gitter. Sie können sich aus der Ferne sehen. Täglich gemeinsame Spaziergänge draußen</li>
@@ -194,13 +194,13 @@ custom_content: |
 
   <h2>Zusammenführung Staffy und Katze: vollständige Desensibilisierung (10-16 Wochen)</h2>
 
-  <p>Das Zusammenleben mit einer Katze braucht IMMER mehr Zeit und Vorsicht als mit einem anderen Hund. Das Jagen kleiner, schneller Beute ist bei vielen Staffys ein starker Instinkt.</p>
+  <p>Das Zusammenleben mit einer Katze braucht immer mehr Zeit und Vorsicht als mit einem anderen Hund. Das Jagen kleiner, schneller Beute ist bei vielen Staffys ein starker Instinkt.</p>
 
   <h3>Den Beutetrieb des Staffys einschätzen</h3>
   <ul>
-  <li><strong>Geringer Beutetrieb (IDEAL):</strong> ignoriert Katzen auf der Straße oder im Park, bemerkt sie, lässt sich aber leicht ablenken, zieht nicht zu kleinen Tieren. Zusammenleben mit dem normalen Vorgehen machbar</li>
-  <li><strong>Mittlerer Beutetrieb (BEHERRSCHBAR):</strong> Interesse an Katzen, aber mit Verstärkung steuerbar, schaut intensiv, zieht aber nicht heftig, reagiert auch abgelenkt auf den Rückruf. Möglich mit erweitertem Vorgehen und dauerhaften Barrieren</li>
-  <li><strong>Hoher Beutetrieb (KRITISCH):</strong> zwanghaftes Jagen, vollständiges visuelles „Einrasten“, heftiges Ziehen, aufgeregte Laute. Zusammenleben ABZURATEN oder nur mit Verhaltensexperten</li>
+  <li><strong>Geringer Beutetrieb (ideal):</strong> ignoriert Katzen auf der Straße oder im Park, bemerkt sie, lässt sich aber leicht ablenken, zieht nicht zu kleinen Tieren. Zusammenleben mit dem normalen Vorgehen machbar</li>
+  <li><strong>Mittlerer Beutetrieb (beherrschbar):</strong> Interesse an Katzen, aber mit Verstärkung steuerbar, schaut intensiv, zieht aber nicht heftig, reagiert auch abgelenkt auf den Rückruf. Möglich mit erweitertem Vorgehen und dauerhaften Barrieren</li>
+  <li><strong>Hoher Beutetrieb (kritisch):</strong> zwanghaftes Jagen, vollständiges visuelles „Einrasten“, heftiges Ziehen, aufgeregte Laute. Zusammenleben abzuraten oder nur mit Verhaltensexperten</li>
   </ul>
 
   <h3>Die Phasen im Einzelnen</h3>
@@ -213,20 +213,20 @@ custom_content: |
 
   <p><strong>PHASE 2: Sichtkontakt durch Barrieren (Woche 3-6)</strong></p>
   <ul>
-  <li><strong>Woche 3-4:</strong> die Katze in ihrem sicheren Raum. Ein Gitter lässt sie sich sehen, KEIN Kontakt. Der Staffy an der Leine, schrittweise näher geführt. Ruhiges Schauen = Belohnung. Aufregung oder Vorschnellen = mehr Abstand. Einheiten von 5-10 Minuten, 3-4 Mal am Tag</li>
-  <li><strong>Woche 5-6:</strong> den Staffy nach und nach bis auf 1 m ans Gitter heranführen. Die Katze MUSS Fluchtwege in der Höhe haben. Belohnen: 2 Sekunden schauen und dann wegsehen, ruhig in die Luft schnuppern, entspannt sitzen</li>
+  <li><strong>Woche 3-4:</strong> die Katze in ihrem sicheren Raum. Ein Gitter lässt sie sich sehen, kein Kontakt. Der Staffy an der Leine, schrittweise näher geführt. Ruhiges Schauen = Belohnung. Aufregung oder Vorschnellen = mehr Abstand. Einheiten von 5-10 Minuten, 3-4 Mal am Tag</li>
+  <li><strong>Woche 5-6:</strong> den Staffy nach und nach bis auf 1 m ans Gitter heranführen. Die Katze muss Fluchtwege in der Höhe haben. Belohnen: 2 Sekunden schauen und dann wegsehen, ruhig in die Luft schnuppern, entspannt sitzen</li>
   </ul>
 
   <p><strong>PHASE 3: Erste Kontakte im selben Raum (Woche 7-10)</strong></p>
 
   <div class="alert">
-  <p class="alert-title">⚠️ ENTSCHEIDENDE Regeln für die ersten direkten Kontakte zwischen Hund und Katze</p>
+  <p class="alert-title">⚠️ Entscheidende Regeln für die ersten direkten Kontakte zwischen Hund und Katze</p>
   <ul>
-  <li><strong>Staffy IMMER an langer Leine:</strong> 3-5 m erlauben Bewegung, aber sofortige Kontrolle bei einer Jagdreaktion</li>
-  <li><strong>Die Katze MUSS mehrere Fluchtwege haben:</strong> hohe Regale, Kratzbäume, Türen mit Katzenklappe</li>
-  <li><strong>Anfangs sehr kurz:</strong> 3-5 Minuten. Aufhören, BEVOR sie Stress zeigen</li>
-  <li><strong>NIE jagen lassen:</strong> Flieht die Katze und der Staffy jagt = sofortiger Rückruf und Ende der Einheit. Jagen verstärkt den Beutetrieb</li>
-  <li><strong>Gegenseitiges Ignorieren belohnen:</strong> Das Ziel ist NICHT „Freundschaft“, sondern „friedliches Nebeneinander“</li>
+  <li><strong>Staffy immer an langer Leine:</strong> 3-5 m erlauben Bewegung, aber sofortige Kontrolle bei einer Jagdreaktion</li>
+  <li><strong>Die Katze muss mehrere Fluchtwege haben:</strong> hohe Regale, Kratzbäume, Türen mit Katzenklappe</li>
+  <li><strong>Anfangs sehr kurz:</strong> 3-5 Minuten. Aufhören, bevor sie Stress zeigen</li>
+  <li><strong>Nie jagen lassen:</strong> Flieht die Katze und der Staffy jagt = sofortiger Rückruf und Ende der Einheit. Jagen verstärkt den Beutetrieb</li>
+  <li><strong>Gegenseitiges Ignorieren belohnen:</strong> Das Ziel ist nicht „Freundschaft“, sondern „friedliches Nebeneinander“</li>
   </ul>
   </div>
 
@@ -246,26 +246,26 @@ custom_content: |
 
   <h3>Füttern von Hund und Katze</h3>
   <ul>
-  <li><strong>Mahlzeiten des Hundes:</strong> in einem getrennten Raum bei geschlossener Tür. Die Katze hat während und nach der Mahlzeit KEINEN Zugang</li>
+  <li><strong>Mahlzeiten des Hundes:</strong> in einem getrennten Raum bei geschlossener Tür. Die Katze hat während und nach der Mahlzeit keinen Zugang</li>
   <li><strong>Mahlzeiten der Katze:</strong> auf einem Regal ab 120 cm oder in einem Raum mit Katzenklappe</li>
   <li><strong>Versetzte Zeiten:</strong> Die Katze frisst, wenn der Hund spazieren ist</li>
-  <li><strong>Katzenklo außer Reichweite:</strong> Viele Hunde fressen Katzenkot. Das erzeugt die Verknüpfung „Katze = Futterquelle“ (GEFÄHRLICH)</li>
+  <li><strong>Katzenklo außer Reichweite:</strong> Viele Hunde fressen Katzenkot. Das erzeugt die Verknüpfung „Katze = Futterquelle“ (gefährlich)</li>
   </ul>
 
   <h2>Zusammenleben mit kleinen Tieren: Kaninchen, Frettchen, Vögel, Nager</h2>
 
-  <p>Das Zusammenleben eines Staffys mit Tieren unter 5 kg ist IMMER hochriskant. Der Jagdtrieb gegenüber kleiner, schneller Beute ist bei den meisten Staffys stark.</p>
+  <p>Das Zusammenleben eines Staffys mit Tieren unter 5 kg ist immer hochriskant. Der Jagdtrieb gegenüber kleiner, schneller Beute ist bei den meisten Staffys stark.</p>
 
   <h3>Wann das Zusammenleben möglich ist (aber nie garantiert)</h3>
   <ul>
   <li>Der Staffy ist mit diesen Tieren als Welpe aufgewachsen (ständige positive Erfahrung zwischen der 8. und 16. Woche)</li>
-  <li>Nachweislich GERINGER Beutetrieb (ignoriert kleine Tiere draußen vollständig)</li>
+  <li>Nachweislich geringer Beutetrieb (ignoriert kleine Tiere draußen vollständig)</li>
   <li>Allgemein ruhiges Wesen, ausgezeichnete Selbstkontrolle, reagiert immer auf den Rückruf</li>
-  <li>Bereitschaft zu DAUERHAFTER räumlicher Trennung (getrennte Räume, Kontakte nur unter Aufsicht)</li>
+  <li>Bereitschaft zu dauerhafter räumlicher Trennung (getrennte Räume, Kontakte nur unter Aufsicht)</li>
   <li>Das kleine Tier hat eine robuste Persönlichkeit (gerät nicht leicht in Panik)</li>
   </ul>
 
-  <h3>Wann vom Zusammenleben ABZURATEN ist</h3>
+  <h3>Wann vom Zusammenleben abzuraten ist</h3>
   <ul>
   <li>Erwachsener Staffy, der nie zuvor kleinen Tieren begegnet ist</li>
   <li>Mittlerer bis hoher Beutetrieb</li>
@@ -275,16 +275,16 @@ custom_content: |
   </ul>
 
   <div class="alert">
-  <p class="alert-title">⚠️ WICHTIGE WARNUNG zu kleinen Tieren</p>
-  <p>Ein EINZIGER Jagdvorfall (auch ohne schwere Verletzung) kann den Staffy dauerhaft lehren, das kleine Tier als „Beute“ zu sehen. Eine erneute Zusammenführung nach einem Vorfall ist oft unmöglich. Außerdem kann eine „spielerische Jagd“ des Staffys ein Kaninchen oder Frettchen durch Herzversagen oder Schock TÖTEN, auch ohne Biss. Der Unterschied an Gewicht und Kraft ist extrem. <strong>Bei auch nur geringstem Zweifel = NICHT versuchen.</strong></p>
+  <p class="alert-title">⚠️ Wichtige Warnung zu kleinen Tieren</p>
+  <p>Ein einziger Jagdvorfall (auch ohne schwere Verletzung) kann den Staffy dauerhaft lehren, das kleine Tier als „Beute“ zu sehen. Eine erneute Zusammenführung nach einem Vorfall ist oft unmöglich. Außerdem kann eine „spielerische Jagd“ des Staffys ein Kaninchen oder Frettchen durch Herzversagen oder Schock töten, auch ohne Biss. Der Unterschied an Gewicht und Kraft ist extrem. <strong>Bei auch nur geringstem Zweifel = nicht versuchen.</strong></p>
   </div>
 
   <h3>Nicht verhandelbare Einrichtung</h3>
   <ul>
-  <li><strong>Eigener Raum für das kleine Tier:</strong> für den Staffy völlig TABU. Tür IMMER zu, wenn kein Mensch beaufsichtigt</li>
-  <li><strong>Stabiler Käfig oder Gehege:</strong> das kleine Tier in einem sicheren Bereich, wenn der Staffy frei ist. Der Staffy darf ihn NICHT öffnen oder beschädigen können</li>
+  <li><strong>Eigener Raum für das kleine Tier:</strong> für den Staffy völlig tabu. Tür immer zu, wenn kein Mensch beaufsichtigt</li>
+  <li><strong>Stabiler Käfig oder Gehege:</strong> das kleine Tier in einem sicheren Bereich, wenn der Staffy frei ist. Der Staffy darf ihn nicht öffnen oder beschädigen können</li>
   <li><strong>Wenn möglich in der Höhe:</strong> Vogelkäfige auf 180 cm+ aufgehängt, außer körperlicher Reichweite und niedriger Sichtlinie des Staffys</li>
-  <li><strong>Kein Zugang ohne Aufsicht:</strong> den Staffy NIE frei im Raum des kleinen Tieres lassen</li>
+  <li><strong>Kein Zugang ohne Aufsicht:</strong> den Staffy nie frei im Raum des kleinen Tieres lassen</li>
   </ul>
 
   <h3>Phasen der Zusammenführung (16-24 Wochen)</h3>
@@ -293,12 +293,12 @@ custom_content: |
   <li><strong>Woche 5-8:</strong> Sichtkontakt durch einen stabilen Käfig. Das kleine Tier geschützt, der Staffy an der Leine auf 3 m+. Ruhiges Schauen = Belohnung</li>
   <li><strong>Woche 9-12:</strong> Abstand verringern. Der Staffy liegt entspannt neben dem Käfig (sehr schwer zu erreichen)</li>
   <li><strong>Woche 13-16:</strong> das kleine Tier frei in einem Gehege, der Staffy hinter einem Gitter. Umkehrung: mehr Freiheit für das kleine Tier</li>
-  <li><strong>Ab Woche 17:</strong> SEHR kontrollierte Kontakte. Staffy an kurzer 1-m-Leine, das kleine Tier mit Rückzugsort in der Nähe. HÖCHSTENS 2-3 Minuten</li>
+  <li><strong>Ab Woche 17:</strong> Sehr kontrollierte Kontakte. Staffy an kurzer 1-m-Leine, das kleine Tier mit Rückzugsort in der Nähe. Höchstens 2-3 Minuten</li>
   </ol>
 
   <div class="info-box">
   <p class="info-box-title">💚 Ein realistisches Ziel</p>
-  <p>Die meisten Zusammenführungen von Staffy und kleinen Tieren erreichen NIE die volle gemeinsame Freiheit. Das realistische Ziel ist „Nebeneinander in getrennten Räumen, mit gelegentlichen, streng beaufsichtigten Kontakten ohne Vorfälle“. Diese Grenze sollte man akzeptieren.</p>
+  <p>Die meisten Zusammenführungen von Staffy und kleinen Tieren erreichen nie die volle gemeinsame Freiheit. Das realistische Ziel ist „Nebeneinander in getrennten Räumen, mit gelegentlichen, streng beaufsichtigten Kontakten ohne Vorfälle“. Diese Grenze sollte man akzeptieren.</p>
   </div>
 
   <h2>Ressourcen gezielt verwalten: Konflikten vorbeugen</h2>
@@ -312,24 +312,24 @@ custom_content: |
   <li><strong>Interaktives Spielzeug:</strong> Aufregung → getrenntes Spielzeug. Gemeinsames nur, wenn beide „Aus“ perfekt beherrschen</li>
   <li><strong>Knochen und Kauartikel:</strong> langes Kauen = Besitzanspruch → getrennte Räume oder enge Aufsicht</li>
   <li><strong>Sofa und Bett:</strong> Revier mit hohem Status → reichlich Platz oder abwechselnder Zugang</li>
-  <li><strong>Aufmerksamkeit des Halters:</strong> Eifersucht → TÄGLICH Zeit zu zweit mit jedem Tier</li>
+  <li><strong>Aufmerksamkeit des Halters:</strong> Eifersucht → täglich Zeit zu zweit mit jedem Tier</li>
   </ul>
 
   <h3>Desensibilisierung beim Verteidigen</h3>
   <ol>
-  <li><strong>Schritt 1 - Positive Konditionierung:</strong> Hund A frisst. Der Halter nähert sich (3 m → 1 m), wirft ein besonders wertvolles Leckerli IN den Napf und geht weg. 10 Mal pro Einheit, 2 Einheiten am Tag eine Woche lang</li>
+  <li><strong>Schritt 1 - Positive Konditionierung:</strong> Hund A frisst. Der Halter nähert sich (3 m → 1 m), wirft ein besonders wertvolles Leckerli in den Napf und geht weg. 10 Mal pro Einheit, 2 Einheiten am Tag eine Woche lang</li>
   <li><strong>Schritt 2 - Hund B kommt in Sicht:</strong> Hund A frisst. Hund B erscheint in 5 m Abstand (hinter einem Gitter). Der Halter wirft Hund A besonders wertvolle Leckerli zu. Verknüpfung: „der andere Hund ist da = extra Belohnung“</li>
   <li><strong>Schritt 3 - Abstand verringern:</strong> Hund B während der Mahlzeiten von Hund A nach und nach näher bringen (immer mit Barriere). Belohnung für beide. Ein Prozess von 2-4 Wochen</li>
   <li><strong>Schritt 4 - Parallele Mahlzeiten:</strong> beide fressen gleichzeitig im selben Raum, voneinander abgewandt, 3 m Abstand. Volle Aufsicht. Näpfe gleichzeitig wegräumen</li>
   </ol>
 
-  <p><strong>Bei starkem Verteidigen (Angriffe, Bisse):</strong> NICHT selbst versuchen. Es braucht einen zertifizierten Verhaltensexperten.</p>
+  <p><strong>Bei starkem Verteidigen (Angriffe, Bisse):</strong> Nicht selbst versuchen. Es braucht einen zertifizierten Verhaltensexperten.</p>
 
   <h2>Stresssignale und Körpersprache: worauf man achten muss</h2>
 
   <p>Stress früh zu erkennen, verhindert, dass Konflikte eskalieren. Hunde zeigen Unbehagen, bevor sie aggressiv reagieren.</p>
 
-  <h3>Beschwichtigungssignale (ein gutes Zeichen, WENN sie zur Situation passen)</h3>
+  <h3>Beschwichtigungssignale (ein gutes Zeichen, wenn sie zur Situation passen)</h3>
   <ul>
   <li><strong>Langes Schnüffeln am Boden:</strong> „Aufmerksamkeit abwenden“ von einem belastenden Reiz</li>
   <li><strong>Annäherung im Bogen:</strong> Vermeiden der direkten, frontalen (bedrohlichen) Annäherung</li>
@@ -339,7 +339,7 @@ custom_content: |
   <li><strong>Langsame Bewegungen, tiefe Haltung:</strong> „Ich bin keine Bedrohung“</li>
   </ul>
 
-  <p><strong>Auswertung:</strong> Zeigen beide Hunde Beschwichtigungssignale = die Kommunikation funktioniert, sie gehen angemessen mit der Spannung um. POSITIV.</p>
+  <p><strong>Auswertung:</strong> Zeigen beide Hunde Beschwichtigungssignale = die Kommunikation funktioniert, sie gehen angemessen mit der Spannung um. Positiv.</p>
 
   <h3>Stress- und Unbehagenssignale (Aufmerksamkeit nötig)</h3>
   <ul>
@@ -353,15 +353,15 @@ custom_content: |
   </ul>
 
   <div class="alert">
-  <p class="alert-title">⚠️ Signale VOR einer Aggression - SOFORT STOPPEN</p>
+  <p class="alert-title">⚠️ Signale vor einer Aggression - sofort stoppen</p>
   <ul>
-  <li><strong>Tiefes Knurren:</strong> eine ernste Warnung, IMMER respektieren</li>
+  <li><strong>Tiefes Knurren:</strong> eine ernste Warnung, immer respektieren</li>
   <li><strong>Hochgezogene Lefze mit sichtbaren Zähnen:</strong> klare aggressive Kommunikation</li>
   <li><strong>Steife Haltung mit langsamem Vorrücken:</strong> jagdliches oder drohendes „Anschleichen“</li>
   <li><strong>Vorschnellen:</strong> ein abgebrochener Angriffsversuch</li>
   <li><strong>Gesträubtes Fell + hohe Rute + Knurren:</strong> Aggression steht unmittelbar bevor</li>
   </ul>
-  <p>Mit einem ruhigen Rückruf unterbrechen, Futter auf den Boden streuen und sofort Abstand schaffen. Knurren NIE bestrafen (es ist ehrliche Kommunikation).</p>
+  <p>Mit einem ruhigen Rückruf unterbrechen, Futter auf den Boden streuen und sofort Abstand schaffen. Knurren nie bestrafen (es ist ehrliche Kommunikation).</p>
   </div>
 
   <h3>Das Wohlbefinden langfristig beobachten</h3>
@@ -403,7 +403,7 @@ custom_content: |
 
   <p><strong>Lösungen:</strong></p>
   <ul>
-  <li><strong>VOLLSTÄNDIGE Trennung der Ressourcen:</strong> Mahlzeiten in völlig getrennten Räumen, kein gemeinsames Spielzeug, getrennte Ruheplätze</li>
+  <li><strong>Vollständige Trennung der Ressourcen:</strong> Mahlzeiten in völlig getrennten Räumen, kein gemeinsames Spielzeug, getrennte Ruheplätze</li>
   <li><strong>Umstrittenen Zugang entziehen:</strong> Ist das Sofa das Problem, beide 2-4 Wochen vom Sofa fernhalten (Neustart)</li>
   <li><strong>Training „Aus“ + „Ab ins Körbchen“:</strong> Sie müssen immer reagieren, damit sich der Zugang zu Ressourcen steuern lässt</li>
   <li><strong>Positives Fütterungsprotokoll:</strong> neu verknüpfen, dass die Anwesenheit des anderen = etwas Gutes ist</li>

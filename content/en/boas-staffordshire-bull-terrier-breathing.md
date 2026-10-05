@@ -1,7 +1,7 @@
 ---
 title: "BOAS in Staffordshire Bull Terriers: Why Breathing Matters"
 date: 2025-12-28
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 titleSeo: "BOAS in the Staffordshire Bull Terrier: breathing"
 translationKey: "boas"
 articolo: true
@@ -9,7 +9,7 @@ image: "/images/blog/boas-respirazione.webp"
 og_image: "/images/og/schede/en/boas-staffordshire-bull-terrier-breathing.jpg"
 og_image_alt: "BOAS in the Staffordshire Bull Terrier: breathing — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/boas-staffordshire-bull-terrier-respirazione.webp"
-description: "BOAS in the Staffordshire Bull Terrier: what the airway syndrome is, why the breed is not extremely brachycephalic and how to pick a puppy that breathes freely."
+description: "BOAS in the Staffordshire Bull Terrier: what the airway syndrome is, why the breed is not brachycephalic and how to pick a puppy that breathes freely."
 slug: "boas-staffordshire-bull-terrier-breathing"
 custom_content: |
   <section class="hero">
@@ -48,7 +48,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">What is BOAS</span>
-  <p>The Staffordshire Bull Terrier is a moderately brachycephalic breed: its muzzle is shortened, but not to the extremes of the pug or the English bulldog, and in most dogs breathing is normal. <strong>BOAS</strong> &mdash; brachycephalic obstructive airway syndrome &mdash; is therefore not a breed sentence but a risk to know about: the signs are marked snoring even when awake, noisy breathing at rest, intolerance of exertion and heat, and frequent regurgitation. A dog that pants heavily after a few minutes of play is not unfit: it needs to be seen by a vet. In breeding what matters is choosing dogs with open nostrils and an uncompressed nasal passage: a typical head must never work against function.</p>
+  <p>The Staffordshire Bull Terrier is not a brachycephalic breed: its muzzle is shorter than in many breeds, but far from the pug or the English bulldog, and in most dogs breathing is normal; some lines, however, have muzzles that are too short. <strong>BOAS</strong> &mdash; brachycephalic obstructive airway syndrome &mdash; is therefore not a breed sentence but a risk to know about: the signs are marked snoring even when awake, noisy breathing at rest, intolerance of exertion and heat, and frequent regurgitation. A dog that pants heavily after a few minutes of play is not unfit: it needs to be seen by a vet. In breeding what matters is choosing dogs with open nostrils and an uncompressed nasal passage: a typical head must never work against function.</p>
 
   <h2 class="section-title">Brachycephalic Obstructive Airway Syndrome</h2>
   
@@ -72,14 +72,14 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">The Staffy's Position</span>
-  <h2 class="section-title">The Staffordshire Bull Terrier Is NOT an Extreme Brachycephalic Breed</h2>
+  <h2 class="section-title">The Staffordshire Bull Terrier is not a brachycephalic breed</h2>
   
   <div class="zigzag">
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>A Spectrum, Not a Category</h3>
   <p>The <a href="https://www.thekennelclub.org.uk/health-and-dog-care/health/health-and-care/a-z-of-health-and-care-issues/brachycephalic-health-issues/" target="_blank" rel="noopener" aria-label="Kennel Club UK (opens in a new tab)">Kennel Club UK</a> clarifies: "Brachycephaly occurs across a spectrum, from breeds with almost entirely flat faces (sometimes termed 'extreme brachycephaly'), such as the Pug and Japanese Chin, through to <strong>less exaggerated brachycephalic breeds such as the Boxer and Staffordshire Bull Terrier</strong>."</p>
-  <p>This means that the Staffy, by standard, should have a muzzle long enough to allow normal breathing.</p>
+  <p>The Kennel Club therefore places it at the least marked end of the spectrum, and our position is firmer: by standard the Staffy must have a muzzle long enough to breathe normally, and lines with muzzles that are too short are heading in the wrong direction.</p>
   </div>
   <div class="zigzag-image"></div>
   </div>

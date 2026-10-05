@@ -62,7 +62,7 @@ custom_content: |
   <ul>
   <li><strong>Characteristics:</strong> good but not ideal socialisation, a few episodes of tension that were managed, initial selectivity (preferences by breed, size or sex), possible moderate resource guarding</li>
   <li><strong>Typical behaviour:</strong> stiff at first, then relaxes; vigorous play that can intimidate; struggles to disengage when very excited</li>
-  <li><strong>Feasible introductions:</strong> other dogs with a robust temperament, cats WITH an extended protocol and permanent barriers, NO small animals</li>
+  <li><strong>Feasible introductions:</strong> other dogs with a robust temperament, cats with an extended protocol and permanent barriers, no small animals</li>
   <li><strong>Introduction timeline:</strong> 4-8 weeks, with possible setbacks to manage</li>
   </ul>
 
@@ -70,16 +70,16 @@ custom_content: |
   <ul>
   <li><strong>Characteristics:</strong> a history of open aggression towards other dogs or animals, absent or traumatic socialisation, severe resource guarding, a high prey drive that cannot be managed</li>
   <li><strong>Typical behaviour:</strong> intense fixation, body stiffening, lunging and pulling on the <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Ordinance of 6 August 2013, Gazzetta Ufficiale" target="_blank" rel="noopener" aria-label="Ordinance of 6 August 2013, Gazzetta Ufficiale (opens in a new tab)">lead</a>, aggressive vocalisations, bites or attacks</li>
-  <li><strong>Introductions:</strong> STRONGLY DISCOURAGED. They require a behaviourist BEFORE any attempt</li>
+  <li><strong>Introductions:</strong> Strongly discouraged. They require a behaviourist before any attempt</li>
   </ul>
 
   <div class="alert">
-  <p class="alert-title">⚠️ When NOT to attempt an introduction without a professional</p>
+  <p class="alert-title">⚠️ When not to attempt an introduction without a professional</p>
   <ul>
   <li><strong>History of aggression:</strong> the Staffy has already bitten or attacked other animals</li>
   <li><strong>Extreme prey drive:</strong> compulsive chasing of small animals, impossible to recall once "locked" on prey</li>
   <li><strong>Severe resource guarding:</strong> bites or tries to bite if approached while eating or holding a toy</li>
-  <li><strong>Lack of impulse control:</strong> NEVER responds to recall when excited</li>
+  <li><strong>Lack of impulse control:</strong> Never responds to recall when excited</li>
   <li><strong>Generalised reactivity:</strong> aggression towards people as well as other animals</li>
   </ul>
   <p>In these cases you need a veterinary behaviourist or a certified dog trainer (in Italy, ENCI or FICSS).</p>
@@ -102,27 +102,27 @@ custom_content: |
 
   <h2>Preparing a multi-pet home: space and equipment</h2>
 
-  <p>Many introductions fail because of the environment, not the animals. Preparing the house BEFORE the new animal arrives avoids risky improvisation.</p>
+  <p>Many introductions fail because of the environment, not the animals. Preparing the house before the new animal arrives avoids risky improvisation.</p>
 
   <h3>Essential equipment</h3>
 
   <ul>
-  <li><strong>Extendable gates (30-60 €):</strong> partial visual separation between rooms. They allow smells and sounds but NO physical contact. Leave them installed permanently as a safety measure</li>
+  <li><strong>Extendable gates (30-60 €):</strong> partial visual separation between rooms. They allow smells and sounds but no physical contact. Leave them installed permanently as a safety measure</li>
   <li><strong>Crate or modular pen (50-120 €):</strong> a safe zone for the more vulnerable animal (cat, small dog, puppy). A refuge that is always accessible</li>
   <li><strong>Long indoor line, 3-5 m (15-25 €):</strong> control of the Staffy during the first meetings without restricting movement too much</li>
-  <li><strong>Basket muzzle (25-40 €):</strong> complete safety if you have doubts about temperament. It allows the dog to breathe, drink and take treats. ONLY if the dog has already been positively accustomed to it</li>
-  <li><strong>Pheromone diffusers (20-35 € a month):</strong> Adaptil (dogs) or Feliway (cats) reduce stress. Switch them on a week BEFORE the introduction and keep them for 4-6 weeks</li>
+  <li><strong>Basket muzzle (25-40 €):</strong> complete safety if you have doubts about temperament. It allows the dog to breathe, drink and take treats. Only if the dog has already been positively accustomed to it</li>
+  <li><strong>Pheromone diffusers (20-35 € a month):</strong> Adaptil (dogs) or Feliway (cats) reduce stress. Switch them on a week before the introduction and keep them for 4-6 weeks</li>
   </ul>
 
   <h3>Vertical space for cats</h3>
 
-  <p>If you are introducing a Staffy to a cat, vertical space is NOT negotiable:</p>
+  <p>If you are introducing a Staffy to a cat, vertical space is not negotiable:</p>
 
   <ul>
   <li><strong>High shelves (&gt;150 cm):</strong> raised routes that let the cat cross rooms without coming down. Fit them along the walls before the Staffy arrives</li>
   <li><strong>Very tall scratching posts (180 cm+):</strong> with several platforms, placed in strategic corners</li>
   <li><strong>Doors with cat flaps:</strong> the cat can reach rooms that are off-limits to the Staffy (bedroom, study). The cat always has an escape route</li>
-  <li><strong>Litter tray the dog cannot reach:</strong> behind furniture with access for the cat only, or on a raised unit. The Staffy must NEVER get to it</li>
+  <li><strong>Litter tray the dog cannot reach:</strong> behind furniture with access for the cat only, or on a raised unit. The Staffy must never get to it</li>
   <li><strong>Raised cat bowls:</strong> on shelves at 120 cm+ or in separate rooms with a cat flap. Zero competition over food</li>
   </ul>
 
@@ -131,11 +131,11 @@ custom_content: |
   <div class="checklist">
   <p class="checklist-title">Duplicated resources checklist</p>
   <ul>
-  <li>Food bowls: one per animal plus one extra, in DIFFERENT places (separate rooms if possible)</li>
+  <li>Food bowls: one per animal plus one extra, in different places (separate rooms if possible)</li>
   <li>Water bowls: at least 3 different spots in the house. Abundance prevents guarding</li>
   <li>Beds and resting areas: 2 per animal (they switch preferences). Never force sharing</li>
   <li>Toys: separate sets for each dog. Interactive toys only under supervision at first</li>
-  <li>Owner's attention: one-to-one time guaranteed EVERY day (separate walks, training, exclusive cuddles)</li>
+  <li>Owner's attention: one-to-one time guaranteed every day (separate walks, training, exclusive cuddles)</li>
   </ul>
   </div>
 
@@ -147,36 +147,36 @@ custom_content: |
 
   <p><strong>Days 1-2: swapping blankets or mats</strong> - dog A sleeps on blanket X, dog B on blanket Y. After 24 hours, swap the blankets. Each dog sniffs the other's scent calmly in its own area. Watch the reactions: relaxed curiosity = OK, tension or growling = a problematic temperament.</p>
 
-  <p><strong>Days 2-3: swapping spaces</strong> - dog A goes for a long walk (60+ minutes). Meanwhile dog B freely explores dog A's house and garden, sniffs and lightly marks. Then the other way round. Mutual scent familiarity BEFORE any visual contact.</p>
+  <p><strong>Days 2-3: swapping spaces</strong> - dog A goes for a long walk (60+ minutes). Meanwhile dog B freely explores dog A's house and garden, sniffs and lightly marks. Then the other way round. Mutual scent familiarity before any visual contact.</p>
 
-  <p><strong>Day 3: meeting through a barrier</strong> - a gate divides the room. The two dogs are on opposite sides, 3-4 m apart. They can see each other but have NO contact. Generous rewards if they ignore each other or show calm curiosity. Sessions of 5-10 minutes, repeated 3-4 times a day.</p>
+  <p><strong>Day 3: meeting through a barrier</strong> - a gate divides the room. The two dogs are on opposite sides, 3-4 m apart. They can see each other but have no contact. Generous rewards if they ignore each other or show calm curiosity. Sessions of 5-10 minutes, repeated 3-4 times a day.</p>
 
   <h3>PHASE 2: First direct meeting outdoors (days 4-7)</h3>
 
   <p><strong>Ideal setting:</strong></p>
   <ul>
-  <li><strong>Place:</strong> a neutral park or field (NEVER the resident dog's house or garden, which is defended territory)</li>
+  <li><strong>Place:</strong> a neutral park or field (never the resident dog's house or garden, which is defended territory)</li>
   <li><strong>People:</strong> 2 adults, one handling each dog</li>
-  <li><strong>Equipment:</strong> long lines of 3-5 m, harnesses (NOT collars), a treat pouch</li>
-  <li><strong>Preparation:</strong> both dogs exercised for 30 minutes BEFORE (tired dogs are less reactive)</li>
+  <li><strong>Equipment:</strong> long lines of 3-5 m, harnesses (not collars), a treat pouch</li>
+  <li><strong>Preparation:</strong> both dogs exercised for 30 minutes before (tired dogs are less reactive)</li>
   </ul>
 
   <p><strong>Sequence of the first meeting:</strong></p>
   <ol>
-  <li><strong>Step 1 - Parallel walking 10 m apart (10-15 min):</strong> the dogs walk in the same direction on opposite sides of the path. NO direct eye contact. If a dog tries to stare at the other, redirect its attention to the handler (treats, sniffing)</li>
-  <li><strong>Step 2 - Gradually closing the distance (10 min):</strong> if they are relaxed, reduce progressively: 8 m → 5 m → 3 m. STOP at any sign of tension</li>
-  <li><strong>Step 3 - The "U" approach (5-10 min):</strong> the paths converge gradually but NOT head-on. They almost cross, with very brief sniffs (2-3 seconds) without stopping. Repeat 3-5 times</li>
-  <li><strong>Step 4 - Longer sniffs (5-10 min):</strong> allow mutual rear-end sniffing for 10-15 seconds. Interrupt with a cheerful recall BEFORE they finish. Do 3-4 sniffs and then END the session on a positive note</li>
+  <li><strong>Step 1 - Parallel walking 10 m apart (10-15 min):</strong> the dogs walk in the same direction on opposite sides of the path. No direct eye contact. If a dog tries to stare at the other, redirect its attention to the handler (treats, sniffing)</li>
+  <li><strong>Step 2 - Gradually closing the distance (10 min):</strong> if they are relaxed, reduce progressively: 8 m → 5 m → 3 m. Stop at any sign of tension</li>
+  <li><strong>Step 3 - The "U" approach (5-10 min):</strong> the paths converge gradually but not head-on. They almost cross, with very brief sniffs (2-3 seconds) without stopping. Repeat 3-5 times</li>
+  <li><strong>Step 4 - Longer sniffs (5-10 min):</strong> allow mutual rear-end sniffing for 10-15 seconds. Interrupt with a cheerful recall before they finish. Do 3-4 sniffs and then end the session on a positive note</li>
   </ol>
 
   <div class="info-box">
-  <p class="info-box-title">💚 Signals to STOP at once</p>
+  <p class="info-box-title">💚 Signals to stop at once</p>
   <p>Body stiffening, raised hackles, a high motionless tail, growling, aggressive barking, lunging. If either dog shows them = interrupt, increase the distance and go back to the previous step the next day.</p>
   </div>
 
   <h3>PHASE 3: Controlled meetings at home (days 8-21)</h3>
 
-  <p>Only AFTER 3-5 positive meetings outdoors should you start meetings at home:</p>
+  <p>Only after 3-5 positive meetings outdoors should you start meetings at home:</p>
 
   <ul>
   <li><strong>Days 8-10:</strong> both dogs in the house but in separate rooms with a gate. They can see each other from a distance. Daily walks together outdoors</li>
@@ -199,13 +199,13 @@ custom_content: |
 
   <h2>Introducing a Staffy to a cat: full desensitisation (10-16 weeks)</h2>
 
-  <p>Living with a cat ALWAYS needs more time and caution than living with another dog. Predatory behaviour towards small, fast prey is a powerful instinct in many Staffies.</p>
+  <p>Living with a cat always needs more time and caution than living with another dog. Predatory behaviour towards small, fast prey is a powerful instinct in many Staffies.</p>
 
   <h3>Assessing the Staffy's prey drive</h3>
   <ul>
-  <li><strong>Low prey drive (IDEAL):</strong> ignores cats in the street or park, notices them but looks away easily, does not pull towards small animals. Living together is feasible with the standard protocol</li>
-  <li><strong>Medium prey drive (MANAGEABLE):</strong> interest in cats but controllable with reinforcement, watches intently but does not pull violently, responds to recall even when distracted. Possible with an extended protocol and permanent barriers</li>
-  <li><strong>High prey drive (CRITICAL):</strong> compulsive chasing, total visual "locking", violent pulling, excited vocalisations. Living together DISCOURAGED, or only with a behaviourist</li>
+  <li><strong>Low prey drive (ideal):</strong> ignores cats in the street or park, notices them but looks away easily, does not pull towards small animals. Living together is feasible with the standard protocol</li>
+  <li><strong>Medium prey drive (manageable):</strong> interest in cats but controllable with reinforcement, watches intently but does not pull violently, responds to recall even when distracted. Possible with an extended protocol and permanent barriers</li>
+  <li><strong>High prey drive (critical):</strong> compulsive chasing, total visual "locking", violent pulling, excited vocalisations. Living together discouraged, or only with a behaviourist</li>
   </ul>
 
   <h3>The phases in detail</h3>
@@ -218,20 +218,20 @@ custom_content: |
 
   <p><strong>PHASE 2: Visual contact through barriers (weeks 3-6)</strong></p>
   <ul>
-  <li><strong>Weeks 3-4:</strong> the cat in its safe room. A gate lets them see each other with NO contact. The Staffy on a lead, brought closer gradually. Calm looking = rewards. Excitement or lunging = more distance. Sessions of 5-10 minutes, 3-4 times a day</li>
-  <li><strong>Weeks 5-6:</strong> progressively bring the Staffy closer to the gate, down to 1 m. The cat MUST have vertical escape routes. Reward: looking for 2 seconds and then looking away, sniffing the air calmly, sitting relaxed</li>
+  <li><strong>Weeks 3-4:</strong> the cat in its safe room. A gate lets them see each other with no contact. The Staffy on a lead, brought closer gradually. Calm looking = rewards. Excitement or lunging = more distance. Sessions of 5-10 minutes, 3-4 times a day</li>
+  <li><strong>Weeks 5-6:</strong> progressively bring the Staffy closer to the gate, down to 1 m. The cat must have vertical escape routes. Reward: looking for 2 seconds and then looking away, sniffing the air calmly, sitting relaxed</li>
   </ul>
 
   <p><strong>PHASE 3: First contact in the same room (weeks 7-10)</strong></p>
 
   <div class="alert">
-  <p class="alert-title">⚠️ CRITICAL rules for the first direct dog-cat contact</p>
+  <p class="alert-title">⚠️ Critical rules for the first direct dog-cat contact</p>
   <ul>
-  <li><strong>Staffy ALWAYS on a long line:</strong> 3-5 m allows movement but immediate control if there is a predatory reaction</li>
-  <li><strong>The cat MUST have several escape routes:</strong> high shelves, scratching posts, doors with cat flaps</li>
-  <li><strong>Very short at first:</strong> 3-5 minutes. End BEFORE they show stress</li>
-  <li><strong>NO chasing, EVER:</strong> if the cat runs and the Staffy chases = immediate recall and end of session. Chasing reinforces the predatory instinct</li>
-  <li><strong>Reward mutual indifference:</strong> the goal is NOT "friendship", it is "peaceful coexistence"</li>
+  <li><strong>Staffy always on a long line:</strong> 3-5 m allows movement but immediate control if there is a predatory reaction</li>
+  <li><strong>The cat must have several escape routes:</strong> high shelves, scratching posts, doors with cat flaps</li>
+  <li><strong>Very short at first:</strong> 3-5 minutes. End before they show stress</li>
+  <li><strong>No chasing, ever:</strong> if the cat runs and the Staffy chases = immediate recall and end of session. Chasing reinforces the predatory instinct</li>
+  <li><strong>Reward mutual indifference:</strong> the goal is not "friendship", it is "peaceful coexistence"</li>
   </ul>
   </div>
 
@@ -251,26 +251,26 @@ custom_content: |
 
   <h3>Feeding dog and cat</h3>
   <ul>
-  <li><strong>Dog's meals:</strong> in a separate room with the door closed. The cat has NO access during or after the meal</li>
+  <li><strong>Dog's meals:</strong> in a separate room with the door closed. The cat has no access during or after the meal</li>
   <li><strong>Cat's meals:</strong> on a high shelf at 120 cm+ or in a room with a cat flap</li>
   <li><strong>Staggered times:</strong> the cat eats while the dog is out on a walk</li>
-  <li><strong>Litter tray out of the dog's reach:</strong> many dogs eat cat faeces. It creates the association "cat = source of food" (DANGEROUS)</li>
+  <li><strong>Litter tray out of the dog's reach:</strong> many dogs eat cat faeces. It creates the association "cat = source of food" (dangerous)</li>
   </ul>
 
   <h2>Living with small animals: rabbits, ferrets, birds, rodents</h2>
 
-  <p>A Staffy living with animals under 5 kg is ALWAYS high-risk. The predatory instinct towards small, fast prey is strong in most Staffies.</p>
+  <p>A Staffy living with animals under 5 kg is always high-risk. The predatory instinct towards small, fast prey is strong in most Staffies.</p>
 
   <h3>When living together is possible (but never guaranteed)</h3>
   <ul>
   <li>The Staffy grew up with these animals from puppyhood (constant positive exposure between 8 and 16 weeks)</li>
-  <li>A documented LOW prey drive (completely ignores small animals outdoors)</li>
+  <li>A documented low prey drive (completely ignores small animals outdoors)</li>
   <li>A generally calm temperament, excellent self-control, always responds to recall</li>
-  <li>Willingness to keep PERMANENT physical separation (separate rooms, contact only under supervision)</li>
+  <li>Willingness to keep permanent physical separation (separate rooms, contact only under supervision)</li>
   <li>The small animal has a robust personality (does not panic easily)</li>
   </ul>
 
-  <h3>When living together is DISCOURAGED</h3>
+  <h3>When living together is discouraged</h3>
   <ul>
   <li>An adult Staffy never previously exposed to small animals</li>
   <li>Medium to high prey drive</li>
@@ -280,16 +280,16 @@ custom_content: |
   </ul>
 
   <div class="alert">
-  <p class="alert-title">⚠️ CRITICAL WARNING about small animals</p>
-  <p>A SINGLE predatory episode (even without serious injury) can teach the Staffy to see the small animal as "prey" permanently. Reintroduction after an incident is often impossible. And a Staffy's "playful chase" can KILL a rabbit or ferret through heart failure or shock, even without a bite. The difference in weight and strength is extreme. <strong>If you have even the slightest doubt = do NOT attempt it.</strong></p>
+  <p class="alert-title">⚠️ Critical warning about small animals</p>
+  <p>A single predatory episode (even without serious injury) can teach the Staffy to see the small animal as "prey" permanently. Reintroduction after an incident is often impossible. And a Staffy's "playful chase" can kill a rabbit or ferret through heart failure or shock, even without a bite. The difference in weight and strength is extreme. <strong>If you have even the slightest doubt = do not attempt it.</strong></p>
   </div>
 
   <h3>Non-negotiable set-up</h3>
   <ul>
-  <li><strong>A dedicated room for the small animal:</strong> completely OFF-LIMITS to the Staffy. Door ALWAYS closed when no person is supervising</li>
-  <li><strong>A sturdy cage or enclosure:</strong> the small animal in a secure habitat when the Staffy is free. The Staffy must NOT be able to open or damage it</li>
+  <li><strong>A dedicated room for the small animal:</strong> completely off-limits to the Staffy. Door always closed when no person is supervising</li>
+  <li><strong>A sturdy cage or enclosure:</strong> the small animal in a secure habitat when the Staffy is free. The Staffy must not be able to open or damage it</li>
   <li><strong>Height where possible:</strong> bird cages hung at 180 cm+, out of the Staffy's physical reach and low line of sight</li>
-  <li><strong>Zero unsupervised access:</strong> NEVER leave the Staffy loose in the small animal's room</li>
+  <li><strong>Zero unsupervised access:</strong> Never leave the Staffy loose in the small animal's room</li>
   </ul>
 
   <h3>Introduction phases (16-24 weeks)</h3>
@@ -298,12 +298,12 @@ custom_content: |
   <li><strong>Weeks 5-8:</strong> visual contact through a sturdy cage. The small animal protected, the Staffy on a lead at 3 m+. Calm looking = rewards</li>
   <li><strong>Weeks 9-12:</strong> reduce the distance. The Staffy lies down relaxed near the cage (very hard to achieve)</li>
   <li><strong>Weeks 13-16:</strong> the small animal free in an enclosure, the Staffy behind a gate. A reversal: more freedom for the small animal</li>
-  <li><strong>Weeks 17+:</strong> VERY controlled contact. Staffy on a short 1 m lead, the small animal with a refuge ready. 2-3 minutes MAXIMUM</li>
+  <li><strong>Weeks 17+:</strong> Very controlled contact. Staffy on a short 1 m lead, the small animal with a refuge ready. 2-3 minutes maximum</li>
   </ol>
 
   <div class="info-box">
   <p class="info-box-title">💚 A realistic goal</p>
-  <p>Most Staffy-small animal introductions NEVER reach full freedom together. The realistic goal is "coexistence in separate rooms, with occasional intensively supervised contact and no incidents". Accept this limit.</p>
+  <p>Most Staffy-small animal introductions never reach full freedom together. The realistic goal is "coexistence in separate rooms, with occasional intensively supervised contact and no incidents". Accept this limit.</p>
   </div>
 
   <h2>Advanced resource management: preventing conflicts</h2>
@@ -317,24 +317,24 @@ custom_content: |
   <li><strong>Interactive toys:</strong> excitement → separate toys. Shared ones only if both have mastered "leave it" perfectly</li>
   <li><strong>Bones and chews:</strong> long chewing = possessiveness → separate rooms or close supervision</li>
   <li><strong>Sofa and bed:</strong> high-status territory → plenty of space or alternating access</li>
-  <li><strong>The owner's attention:</strong> jealousy → DAILY one-to-one time for each animal</li>
+  <li><strong>The owner's attention:</strong> jealousy → daily one-to-one time for each animal</li>
   </ul>
 
   <h3>Desensitisation protocol for guarding</h3>
   <ol>
-  <li><strong>Step 1 - Positive conditioning:</strong> dog A eats. The owner approaches (3 m → 1 m), drops a high-value treat INTO the bowl and walks away. Repeat 10 times per session, 2 sessions a day for a week</li>
+  <li><strong>Step 1 - Positive conditioning:</strong> dog A eats. The owner approaches (3 m → 1 m), drops a high-value treat into the bowl and walks away. Repeat 10 times per session, 2 sessions a day for a week</li>
   <li><strong>Step 2 - Dog B comes into view:</strong> dog A eats. Dog B appears 5 m away (behind a gate). The owner throws high-value treats to dog A. The association: "the other dog's presence = extra treats"</li>
   <li><strong>Step 3 - Closing the distance:</strong> progressively bring dog B closer during dog A's meals (always with a barrier). Treats for both. A process of 2-4 weeks</li>
   <li><strong>Step 4 - Parallel meals:</strong> both eat at the same time, in the same room, facing away, 3 m apart. Full supervision. Remove the bowls at the same moment</li>
   </ol>
 
-  <p><strong>If guarding is severe (attacks, bites):</strong> do NOT try it yourself. You need a certified behaviourist.</p>
+  <p><strong>If guarding is severe (attacks, bites):</strong> do not try it yourself. You need a certified behaviourist.</p>
 
   <h2>Stress signals and body language: what to watch</h2>
 
   <p>Recognising stress early prevents conflicts from escalating. Dogs communicate discomfort before they react aggressively.</p>
 
-  <h3>Calming signals (a good sign IF they fit the context)</h3>
+  <h3>Calming signals (a good sign if they fit the context)</h3>
   <ul>
   <li><strong>Prolonged sniffing of the ground:</strong> "shifting attention" away from a stressful stimulus</li>
   <li><strong>Curved approaches:</strong> avoiding a direct, head-on approach (which is threatening)</li>
@@ -344,7 +344,7 @@ custom_content: |
   <li><strong>Slow movement and low postures:</strong> "I am not a threat"</li>
   </ul>
 
-  <p><strong>Reading it:</strong> if both dogs show calming signals = communication is working and they are handling tension appropriately. POSITIVE.</p>
+  <p><strong>Reading it:</strong> if both dogs show calming signals = communication is working and they are handling tension appropriately. Positive.</p>
 
   <h3>Stress and discomfort signals (attention needed)</h3>
   <ul>
@@ -358,15 +358,15 @@ custom_content: |
   </ul>
 
   <div class="alert">
-  <p class="alert-title">⚠️ PRE-AGGRESSION signals - STOP AT ONCE</p>
+  <p class="alert-title">⚠️ Pre-aggression signals - stop at once</p>
   <ul>
-  <li><strong>Low growls:</strong> a serious warning, ALWAYS respect it</li>
+  <li><strong>Low growls:</strong> a serious warning, always respect it</li>
   <li><strong>Lip lifted to show the teeth:</strong> clear aggressive communication</li>
   <li><strong>Stiff posture with a slow advance:</strong> predatory or threatening "stalking"</li>
   <li><strong>Lunging:</strong> an aborted attempt to attack</li>
   <li><strong>Hackles up + high tail + growling:</strong> aggression is imminent</li>
   </ul>
-  <p>Interrupt with a calm recall, a scatter feed (throw food on the ground) and an immediate increase in distance. NEVER punish growling (it is honest communication).</p>
+  <p>Interrupt with a calm recall, a scatter feed (throw food on the ground) and an immediate increase in distance. Never punish growling (it is honest communication).</p>
   </div>
 
   <h3>Monitoring long-term wellbeing</h3>
@@ -408,7 +408,7 @@ custom_content: |
 
   <p><strong>Solutions:</strong></p>
   <ul>
-  <li><strong>TOTAL separation of resources:</strong> meals in completely separate rooms, no shared toys, separate resting areas</li>
+  <li><strong>Total separation of resources:</strong> meals in completely separate rooms, no shared toys, separate resting areas</li>
   <li><strong>Remove the contested access:</strong> if the sofa is the problem, keep both off it for 2-4 weeks (a reset)</li>
   <li><strong>"Leave it" + "go to bed" training:</strong> they must always respond, so that access to resources can be managed</li>
   <li><strong>Positive feeding protocol:</strong> recondition them so that the other's presence = something positive</li>

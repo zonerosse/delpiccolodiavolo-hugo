@@ -47,90 +47,16 @@ custom_content: |
   
   <p>Nessun cane va lasciato solo con un bambino piccolo, di nessuna razza, e lo Staffordshire Bull Terrier non fa eccezione. Il soprannome inglese «nanny dog» descrive una tolleranza reale, nata nelle famiglie operaie britanniche dell'Ottocento, non una capacità di sorveglianza. Detto questo, uno Staffy ben selezionato e ben socializzato ha una soglia di reazione alta a toccate maldestre e rumori forti, cerca il contatto con le persone e impara in fretta le regole di casa. Il temperamento però varia da cane a cane, e la <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor e stimolazione precoce">socializzazione nelle prime settimane</a> pesa quanto la genetica. In pratica la sicurezza dipende dagli adulti: presentazioni guidate, regole diverse per ogni età del bambino, un posto dove il cane può ritirarsi, e la capacità di leggere i suoi segnali di stress prima che diventino un ringhio. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
-  
-  <h2>Temperamento Staffy: È Davvero Adatto ai Bambini?</h2>
-  
-  <p>Lo <strong>Staffordshire Bull Terrier</strong> ha guadagnato storicamente la reputazione di "nanny dog" (cane tata) per la sua leggendaria pazienza con i bambini delle famiglie operaie britanniche del XIX secolo. Ma questa fama, per quanto fondata su basi reali, richiede contestualizzazione moderna.</p>
-  
-  <h3>Caratteristiche temperamentali positive</h3>
-  
-  <p>Quando selezionato correttamente da <strong>allevamenti responsabili</strong>, lo Staffy presenta:</p>
-  
-  <ul>
-  <li><strong>Tolleranza elevata:</strong> soglia di reazione alta a stimoli spiacevoli (toccamenti maldestri, rumori forti)</li>
-  <li><strong>Affettuosità spiccata:</strong> orientamento sociale forte verso famiglia umana, cerca contatto fisico</li>
-  <li><strong>Stabilità emotiva:</strong> non reattivo a cambiamenti ambientali improvvisi</li>
-  <li><strong>Energia gestibile:</strong> atletico ma non iperattivo - con esercizio adeguato, tranquillo in casa</li>
-  <li><strong>Predisposizione al training:</strong> motivato dal cibo e lode, apprendimento rapido regole familiari</li>
-  </ul>
-  
-  <h3>Miti da sfatare sul "nanny dog"</h3>
-  
-  <p><strong>FALSO:</strong> "Lo Staffy può essere lasciato da solo con bambini piccoli perché è un nanny dog"</p>
-  <p><strong>VERO:</strong> NESSUN cane dovrebbe mai essere lasciato senza supervisione con bambini sotto 10 anni, indipendentemente dalla razza. La definizione "nanny dog" descrive tolleranza elevata, NON capacità di sorveglianza autonoma.</p>
-  
-  <p><strong>FALSO:</strong> "Tutti gli Staffy sono perfetti con i bambini per genetica"</p>
-  <p><strong>VERO:</strong> Il temperamento varia individualmente. Socializzazione precoce e gestione familiare sono determinanti quanto la genetica. Cosa vuol dire davvero "cucciolo socializzato", e come verificarlo quando si visita un allevamento, è spiegato in <a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Cuccioli socializzati: cosa vuol dire">cuccioli socializzati: cosa vuol dire</a>.</p>
-  
-  
-  <h3>Differenze maschi vs femmine con bambini</h3>
-  
-  <p><strong>Maschi:</strong></p>
-  <ul>
-  <li>Generalmente più tolleranti a manipolazioni fisiche inadeguate</li>
-  <li>Tendenza a essere più giocherelloni e persistenti</li>
-  <li>Possibile competizione risorse con bambini maschi (giocattoli, attenzione)</li>
-  <li>Spesso più "buffoni" - cercano far ridere</li>
-  </ul>
-  
-  <p><strong>Femmine:</strong></p>
-  <ul>
-  <li>Tendono a essere più selettive nelle interazioni</li>
-  <li>Spesso più calme e "materne" con neonati</li>
-  <li>Possono essere più territoriali su spazi propri</li>
-  <li>Generalmente meno irruente nel gioco</li>
-  </ul>
-  
-  <p><strong>Nota importante:</strong> Queste sono tendenze generali - la variabilità individuale è enorme. Un maschio specifico può essere più calmo di molte femmine e viceversa.</p>
-  
-  <p>I dati dicono che questa regola non è eccessiva. Nei bambini piccoli la maggior parte dei morsi avviene in casa, spesso al volto, alla testa o al collo, e a mordere è un cane che il bambino conosce; quasi sempre il morso arriva dopo un'interazione cominciata dal bambino, come riassume <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5582199/" target="_blank" rel="noopener" aria-label="Arhant e colleghi, Frontiers in Veterinary Science 2017 (si apre in una nuova scheda)">uno studio del 2017 su Frontiers in Veterinary Science</a>. Il programma <a href="https://bluedog.blogs.lincoln.ac.uk/professionals/dog-bite-data/" target="_blank" rel="noopener" aria-label="Blue Dog, Università di Lincoln (si apre in una nuova scheda)">Blue Dog dell’Università di Lincoln</a> stima che circa tre morsi su quattro ai bambini avvengano nella loro casa, da parte di un cane familiare. Non è una questione di razza: è una questione di sorveglianza.</p>
+  <h2>Da dove nasce la reputazione</h2>
+  <p>Lo Staffordshire Bull Terrier è una delle pochissime razze che lo standard del Kennel Club descrive esplicitamente come totalmente affidabile, e l'unica a cui si dà comunemente il soprannome di nanny dog. Quella reputazione non è marketing: nasce dal modo in cui la razza è stata selezionata, maneggiata di continuo e da vicino, togliendo dalla riproduzione senza discussioni qualsiasi cane che mostrasse aggressività verso una persona.</p>
+  <p>Il risultato è un cane che cerca attivamente la compagnia delle persone, tollera con una pazienza notevole il contatto e il rumore, e di solito risponde alla goffaggine di un bambino con pazienza invece che allontanandosi. Chi ha visto uno Staffy ben allevato con un bimbo piccolo riconosce subito lo schema.</p>
 
-  <h2>Segnali di Stress del Cane: Impara a Riconoscerli</h2>
-  
-  <p>Riconoscere i <strong>segnali di stress</strong> è fondamentale per prevenire incidenti. Il cane comunica disagio molto prima di arrivare al morso - sta a noi leggere i messaggi.</p>
-  
-  <h3>Segnali precoci (intervieni subito)</h3>
-  
-  <ul>
-  <li><strong>Leccamento labbra/naso</strong> ripetuto fuori contesto cibo</li>
-  <li><strong>Sbadigli</strong> quando non stanco</li>
-  <li><strong>Distogliere sguardo</strong> girando testa</li>
-  <li><strong>Orecchie appiattite</strong> all'indietro</li>
-  <li><strong>Coda bassa</strong> o tra le gambe</li>
-  <li><strong>Corpo rigido</strong> immobile</li>
-  <li><strong>Pelo rialzato</strong> su schiena (piloerezione)</li>
-  <li><strong>Zampa alzata</strong> (freeze parziale)</li>
-  <li><strong>Allontanarsi</strong> dal bambino ripetutamente</li>
-  </ul>
-  
-  <h3>Segnali di escalation (allontana bambino immediatamente)</h3>
-  
-  <ul>
-  <li><strong>Ringhio</strong> (mai punire - è avvertimento prezioso)</li>
-  <li><strong>Mostrare denti</strong> (labbro sollevato)</li>
-  <li><strong>Snap nell'aria</strong> (morso a vuoto intenzionale)</li>
-  <li><strong>Fissare intensamente</strong> con corpo rigido</li>
-  <li><strong>Congelamento totale</strong> prima di azione</li>
-  <li><strong>Ringhio + mostro denti</strong> combinato</li>
-  </ul>
-  
-  <div class="alert">
-  <p class="alert-title">⚠️ Regola dei 3 segnali</p>
-  <p>Se vedi <strong>3 segnali precoci</strong> in sequenza = interrompi interazione immediatamente. Separa bambino e cane. Lascia cane decomprimere 15-20 minuti in zona tranquilla. Analizza cosa ha causato stress. Riprova più tardi con accorgimenti.</p>
-  </div>
-  
-  <h2>Regole di Interazione per Età del Bambino</h2>
-  
+  <h2>La precisazione onesta</h2>
+  <p>Il soprannome nanny dog lo usiamo con cautela: descrive la tolleranza, non una capacità di sorvegliare. Nessun cane di nessuna razza va lasciato senza sorveglianza con un bambino piccolo. Non perché la razza non sia affidabile, ma perché i bambini sono imprevedibili, i cani comunicano in modi che i bambini non sanno leggere, e la causa più comune di un morso in casa è un cane che aveva dato avvertimenti chiari che nessuno ha notato.</p>
+  <p>C'è anche un aspetto fisico, proprio di questa razza. Uno Staffordshire Bull Terrier è basso, compatto e molto forte per la sua taglia. Anche un cane del tutto amichevole, in un momento di entusiasmo, può far cadere un bambino di tre anni. Non è aggressività, ma il livido è lo stesso.</p>
+  <p>I dati dicono che questa regola non è eccessiva. Nei bambini piccoli la maggior parte dei morsi avviene in casa, spesso al viso, alla testa o al collo, ed è dato da un cane che il bambino conosce; quasi sempre è preceduto da un'interazione cominciata dal bambino, come riassume <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5582199/" target="_blank" rel="noopener" aria-label="Arhant e altri, Frontiers in Veterinary Science 2017 (si apre in una nuova scheda)">uno studio del 2017 su Frontiers in Veterinary Science</a>. Il <a href="https://bluedog.blogs.lincoln.ac.uk/professionals/dog-bite-data/" target="_blank" rel="noopener" aria-label="Blue Dog, Università di Lincoln (si apre in una nuova scheda)">programma Blue Dog dell'Università di Lincoln</a> stima che circa tre morsi su quattro ai bambini avvengano nella loro casa, da parte di un cane conosciuto. Non è una questione di razza: è una questione di sorveglianza.</p>
+
+  <h2>Regole per età del bambino</h2>
   <p>Le regole cambiano con l'età del bambino, e la fascia più delicata non è quella dei neonati:</p>
 
   <table>
@@ -144,123 +70,77 @@ custom_content: |
   <tr><td><strong>Da 12 anni</strong></td><td>Pasti, spazzola, gioco ed educazione di base come responsabilità quotidiane. A passeggio da solo non prima dei 14 anni</td><td>Resta presente in casa. A 14 anni valuta la passeggiata da soli solo se il ragazzo ha la forza di tenere il cane e il giudizio per evitare gli incontri con altri cani; un cane reattivo con i simili non si affida nemmeno a sedici anni</td></tr>
   </tbody>
   </table>
-  
-  <h2>Azioni Vietate: Stampa e Appendi</h2>
-  
+
+  <h2>Educare il bambino, non solo il cane</h2>
+  <p>Quasi tutti gli incidenti in casa si prevengono educando il bambino. Fategli vedere come ci si avvicina: di fianco, con calma, lasciando che sia il cane a fare l'ultimo passo. Fategli vedere com'è un cane che vuole essere lasciato in pace: si gira dall'altra parte, si lecca le labbra, si sposta in un'altra stanza. E dategli una regola assoluta da applicare sempre: se il cane se ne va, è finita, non lo si segue.</p>
+  <p>Date al cane un posto, un trasportino o una cuccia in un angolo tranquillo, che sia davvero inviolabile. Un cane con un rifugio sicuro raramente ha bisogno di alzare il tono, perché andarsene funziona.</p>
+
+  <h2>I segnali che chiedono di intervenire</h2>
+  <p>Un cane che si irrigidisce sul cibo o su un gioco quando si avvicina un bambino. Un cane che esce dalla stanza ogni volta che entrano i bambini. Un cane che ha cominciato a ringhiare o, peggio, uno che ha smesso di ringhiare dopo essere stato sgridato per questo. Rigidità, sguardo fisso, il bianco dell'occhio in vista, la bocca che si chiude di colpo.</p>
+  <p>Nessuno di questi segnali vuol dire che avete un cane pericoloso. Vuol dire che l'organizzazione va corretta adesso, con un educatore, non dopo un incidente. Il ringhio è un'informazione, e punirlo toglie l'avvertimento senza togliere quello che il cane prova.</p>
+
+  <h2>Cosa ci guadagna davvero la famiglia</h2>
+  <p>Messe da parte le cautele, questa è una delle migliori razze da famiglia che esistano. Sono cani abbastanza robusti da reggere una casa movimentata, abbastanza piccoli da vivere bene in appartamento, affettuosi fino al comico, e tendono a legarsi proprio ai bambini più che a un solo adulto.</p>
+  <p>I bambini che crescono con un cane imparano la routine, la responsabilità e una forma di empatia difficile da insegnare in altro modo. Nella nostra esperienza di affidi, in più di dieci anni, le famiglie che stanno meglio non sono quelle con il giardino più grande: sono quelle che volevano il cane in casa, in mezzo a tutto, che è esattamente dove questa razza vuole stare.</p>
+
+  <h2>Leggere il cane prima che reagisca</h2>
+  <p>Un cane segnala il disagio molto prima di mordere. I segnali precoci chiedono di intervenire subito: leccarsi labbra o naso fuori dai pasti, sbadigliare quando non è stanco, distogliere lo sguardo o girare la testa, orecchie appiattite all'indietro, coda bassa o fra le zampe, corpo rigido o immobile, pelo rizzato, una zampa alzata a metà, e allontanarsi dal bambino una volta dopo l'altra.</p>
+  <p>I segnali di escalation vogliono dire separare subito bambino e cane: ringhio, labbra sollevate a mostrare i denti, uno scatto a vuoto, uno sguardo fisso da un corpo rigido, e l'immobilità totale appena prima di agire. <strong>Il ringhio non si punisce mai</strong>: è l'avvertimento che vi permette di intervenire, e un cane punito per aver ringhiato impara a saltarlo.</p>
+  <p>Una regola pratica: tre segnali precoci di fila vogliono dire che l'interazione è finita. Si separano, si lascia il cane calmarsi per quindici-venti minuti in un posto tranquillo, si capisce cosa ha causato lo stress, e si riprova più tardi cambiando qualcosa.</p>
+
+  <h2>Il primo incontro fra cucciolo e bambini</h2>
+  <p>Ci si prepara prima che arrivi il cucciolo: si spiegano le regole ai bambini in anticipo, si sceglie un momento tranquillo senza ospiti e con la televisione spenta, si tengono pronti la zona rifugio del cucciolo e i premi, e lo si lascia sfogare un po' prima.</p>
+  <p>I bambini stanno seduti per terra, fermi, con le mani in grembo. Un adulto porta dentro il cucciolo con il guinzaglio lento e lo lascia avvicinare con i suoi tempi. Se annusa, un bambino può offrirgli da annusare la mano chiusa; se il cucciolo è rilassato, basta una carezza breve sul petto, tre secondi. Poi tutti restano fermi mentre il cucciolo si allontana da solo. L'avvicinamento si ripete al massimo tre volte e poi si chiude: dieci-quindici minuti in tutto per il primo incontro, finendo con qualcosa di bello per il cucciolo e un complimento per i bambini.</p>
+
+  <h2>Giochi sicuri per fasce d'età</h2>
+  <p>Fra i tre e i cinque anni, giochi senza contatto diretto: il bambino lancia premi per terra che il cane cerca, nasconde cibo per una ricerca con il naso, o legge ad alta voce con il cane sdraiato accanto, non addosso. Fra i sei e i nove anni, giochi attivi sorvegliati: riportare una palla morbida dopo che un adulto ha insegnato il «lascia», un percorso semplice in giardino, insegnare un trucco con la guida di un adulto, spazzolare con delicatezza le zone non sensibili. Dai dieci anni, più autonomia con un adulto sempre vicino: addestramento con una sorveglianza leggera, un primo assaggio di rally obedience, il tira e molla con una regola chiara per il rilascio. Sotto i sei anni le interazioni attive durano circa cinque minuti, poi si fa una pausa: meglio breve e sereno che lungo e teso.</p>
+
+  <h2>Quando chiamare un comportamentalista</h2>
+  <p>Alcune situazioni chiedono subito un aiuto professionale, non consigli letti in rete: un cane che ha morso un bambino, anche leggermente; ringhi o scatti ripetuti verso i bambini; comportamenti difensivi in aumento; una paura marcata dei bambini, con evitamento, tremori o tentativi di fuga; comportamenti compulsivi legati allo stress; e un cambio di carattere improvviso, un cane tollerante che diventa reattivo. Un medico veterinario esperto in comportamento esclude prima una causa medica, perché dietro molti cambiamenti improvvisi c'è il dolore, poi imposta un piano comportamentale strutturato, a volte con farmaci, e valuta se la convivenza si può rendere sicura.</p>
+
+  <h2>Le azioni vietate: da stampare e appendere</h2>
   <div class="alert">
-  <p class="alert-title">🚫 Lista completa azioni vietate</p>
+  <p class="alert-title">🚫 L'elenco completo</p>
   <ul>
-  <li>❌ Abbracci stretti e baci sul muso</li>
-  <li>❌ Tirare coda, orecchie, zampe, labbra</li>
-  <li>❌ Cavalcare o salire addosso al cane</li>
-  <li>❌ Svegliare toccando (ok chiamare da distanza)</li>
-  <li>❌ Disturbare durante pasti/masticazione</li>
-  <li>❌ Guardare fisso negli occhi (è sfida)</li>
-  <li>❌ Urlare vicino al cane</li>
-  <li>❌ Correre addosso/inseguire</li>
-  <li>❌ Soffiare nel muso/orecchie</li>
-  <li>❌ Vestire il cane con forza</li>
-  <li>❌ Contenere/bloccare contro sua volontà</li>
-  <li>❌ Punire fisicamente (sculacciare, colpire)</li>
+  <li>Abbracci stretti e baci sul muso</li>
+  <li>Tirare coda, orecchie, zampe o labbra</li>
+  <li>Salire a cavallo o arrampicarsi sul cane</li>
+  <li>Svegliarlo toccandolo (si può chiamarlo da lontano)</li>
+  <li>Disturbarlo mentre mangia o mastica</li>
+  <li>Fissarlo negli occhi (per il cane è una sfida)</li>
+  <li>Urlare vicino al cane</li>
+  <li>Corrergli addosso o inseguirlo</li>
+  <li>Soffiargli sul muso o nelle orecchie</li>
+  <li>Vestirlo a forza</li>
+  <li>Trattenerlo o bloccarlo contro la sua volontà</li>
+  <li>Punirlo fisicamente</li>
   </ul>
-  <p><strong>Conseguenza violazione:</strong> interazione cane-bambino sospesa per resto giornata. Spiegazione calma perché era pericoloso. Riprova domani.</p>
+  <p><strong>Se una regola viene violata:</strong> per il resto della giornata niente interazioni fra cane e bambino, una spiegazione calma del perché era pericoloso, e il giorno dopo si riprova.</p>
   </div>
-  
-  <h2>Giochi Sicuri per Fasce d'Età</h2>
-  
-  <h3>Età 3-5 anni: giochi passivi supervisionati</h3>
-  
-  <ul>
-  <li><strong>Lancio premietti:</strong> bambino lancia croccantini a terra, cane cerca (zero contatto diretto)</li>
-  <li><strong>Nascondino cibo:</strong> bambino nasconde premi in giardino/casa, cane trova con naso</li>
-  <li><strong>Lettura insieme:</strong> bambino legge libro ad alta voce, cane sdraiato accanto (non sopra)</li>
-  <li><strong>Spettatore giochi:</strong> bambino osserva adulto che gioca con cane, commenta</li>
-  </ul>
-  
-  <h3>Età 6-9 anni: giochi attivi supervisionati</h3>
-  
-  <ul>
-  <li><strong>Riporto:</strong> bambino lancia palla morbida, cane riporta, bambino dice "lascia" (training adulto)</li>
-  <li><strong>Percorsi ostacoli:</strong> costruire insieme percorso semplice in giardino, cane lo attraversa</li>
-  <li><strong>Training trick:</strong> insegnare comandi semplici (zampa, rotola) con guida adulto</li>
-  <li><strong>Grooming leggero:</strong> spazzolatura gentile zone non sensibili</li>
-  </ul>
-  
-  <h3>Età 10+ anni: giochi più autonomi</h3>
-  
-  <ul>
-  <li><strong>Passeggiate brevi</strong> in zona sicura (adulto comunque raggiungibile)</li>
-  <li><strong>Training avanzato</strong> con guida iniziale adulto poi supervisione leggera</li>
-  <li><strong>Sport cinofili</strong> introduttivi (rally-o, agility base per divertimento)</li>
-  <li><strong>Tiro alla fune</strong> controllato (con regole "lascia" chiare)</li>
-  </ul>
-  
-  <div class="info-box">
-  <p class="info-box-title">💡 Regola dei 5 minuti</p>
-  <p>Per bambini sotto 6 anni: interazioni attive max 5 minuti, poi pausa obbligatoria. Cane e bambino si stancano entrambi - meglio sessioni brevi e positive che lunghe e stressanti. Se tutto va bene: "Bravissimi. Pausa merenda, poi giochiamo ancora."</p>
-  </div>
-  
-  <h2>Primo Incontro Cucciolo-Bambini</h2>
-  
-  <h3>Preparazione</h3>
-  
-  <ul>
-  <li>Cucciolo deve aver fatto esercizio (scarico energetico) prima dell'incontro</li>
-  <li>Bambini istruiti su regole base PRIMA dell'arrivo cucciolo</li>
-  <li>Ambiente tranquillo: no ospiti, no confusione, TV spenta</li>
-  <li>Zona rifugio cucciolo già preparata (kennel o area protetta)</li>
-  <li>Premi appetitosi pronti per entrambi</li>
-  </ul>
-  
-  <h3>Procedura step-by-step</h3>
-  
-  <ol>
-  <li>Bambini seduti a terra, fermi, mani in grembo - "Siamo statue"</li>
-  <li>Cucciolo entra in stanza al guinzaglio (adulto tiene, guinzaglio morbido)</li>
-  <li>Lasciare che cucciolo si avvicini ai suoi tempi - no forzature</li>
-  <li>Se annusa: bambino può offrire mano chiusa (pugno) da annusare</li>
-  <li>Se cucciolo rilassato (coda media, corpo morbido): carezza breve su petto (3 secondi)</li>
-  <li>Pausa: cucciolo si allontana naturalmente, tutti fermi</li>
-  <li>Ripetere ciclo avvicinamento max 3 volte, poi chiudere sessione</li>
-  <li>Durata totale: max 10-15 minuti primo incontro</li>
-  <li>Fine positiva: premio a cucciolo, lode a bambini per bravura</li>
-  </ol>
-  
-  <h2>Quando Chiamare un Comportamentalista</h2>
-  
-  <p>Alcuni segnali richiedono <strong>intervento professionale immediato</strong>:</p>
-  
-  <ul>
-  <li>Cane ha morso bambino (qualsiasi gravità)</li>
-  <li>Ringhio o snap ripetuti verso bambini</li>
-  <li>Aggressività difensiva progressiva (escalation da ringhio a snap)</li>
-  <li>Paura marcata bambini (evitamento, tremori, tentativo fuga quando bambini presenti)</li>
-  <li>Comportamenti compulsivi legati a stress (tail chasing, lick granuloma)</li>
-  <li>Cambiamento brusco temperamento (cane tollerante diventa reattivo)</li>
-  </ul>
-  
-  <p><strong>Cosa fa il comportamentalista:</strong> diagnosi differenziale (problema medico vs comportamentale), piano modificazione comportamentale strutturato, possibile farmacoterapia di supporto, valutazione sicurezza convivenza.</p>
-  
-  <h2>Checklist Convivenza Sicura</h2>
-  
+
+  <h2>La checklist della convivenza sicura</h2>
   <div class="checklist">
-  <p class="checklist-title">Verifica di aver implementato tutti gli elementi</p>
+  <p class="checklist-title">Da verificare in famiglia</p>
   <ul>
-  <li>Zona rifugio cane inaccessibile a bambini</li>
-  <li>Cancelletti divisori installati punti strategici</li>
-  <li>Giocattoli cane e bambini completamente separati</li>
-  <li>Adulti conoscono tutti i segnali stress</li>
-  <li>Bambini istruiti su regole base</li>
-  <li>Lista azioni vietate stampata e appesa</li>
-  <li>Supervisione 100% durante ogni interazione</li>
-  <li>Training "lascia" e "vai al posto" solido</li>
-  <li>Contatti educatore/comportamentalista salvati</li>
-  <li>Piano emergenza discusso in famiglia</li>
-  <li>Assicurazione RC animali attiva</li>
-  <li>Follow-up periodici programmati</li>
+  <li>Una zona rifugio per il cane, dove i bambini non entrano</li>
+  <li>Cancelletti divisori nei punti strategici della casa</li>
+  <li>Giochi del cane e giochi dei bambini tenuti del tutto separati</li>
+  <li>Gli adulti conoscono tutti i segnali di stress</li>
+  <li>I bambini conoscono le regole di base</li>
+  <li>L'elenco delle azioni vietate stampato e appeso</li>
+  <li>Sorveglianza a ogni interazione, sempre</li>
+  <li>«Lascia» e «vai al posto» ben consolidati</li>
+  <li>I contatti di un educatore e di un comportamentalista a portata di mano</li>
+  <li>Un piano per le emergenze discusso in famiglia</li>
+  <li>Un'assicurazione di responsabilità civile attiva</li>
   </ul>
   </div>
-  
+
+  <div class="callout">
+  <p class="callout-title">💡 Il supporto dopo l'affido, senza scadenza</p>
+  <p>Chi prende un cucciolo da noi non resta solo dopo la consegna. Per tutta la vita del cane restiamo disponibili per consigli sulla convivenza con i bambini, sull'educazione e sulla gestione di casa, anche a distanza di anni. E se un giorno la situazione cambia e il cane non può più restare, torna qui.</p>
+  </div>
+
   <h2>Domande Frequenti</h2>
   
   <section class="faq">
@@ -308,21 +188,6 @@ custom_content: |
   </div>
   
   </section>
-  
-  <div class="callout">
-  <p class="callout-title">💡 Il supporto dopo l'affido, senza scadenza</p>
-  <p>Chi prende un cucciolo da noi non resta solo dopo la consegna. Per tutta la vita del cane restiamo disponibili per consigli sulla convivenza con i bambini, sull'educazione e sulla gestione di casa, anche a distanza di anni. E se un giorno la situazione cambia e il cane non può più restare, torna qui.</p>
-  </div>
-  
-  <h2>Conclusione: Responsabilità e Amore</h2>
-  
-  <p>La convivenza tra <strong>Staffordshire Bull Terrier</strong> e bambini può essere una delle esperienze più arricchenti per una famiglia - un legame che insegna ai bambini empatia, responsabilità, comunicazione non-verbale e rispetto per esseri viventi diversi da loro. Lo Staffy, dal canto suo, può sviluppare un attaccamento profondo e protettivo verso i bambini di casa.</p>
-  
-  <p><strong>Ma questa magia non è automatica.</strong> Richiede impegno quotidiano in supervisione attiva, educazione continua sia del cane che dei bambini, rispetto rigoroso delle regole, umiltà nel riconoscere quando serve aiuto professionale, e disponibilità ad adattare la gestione man mano che bambini crescono.</p>
-  
-  <p>Il successo dipende quasi interamente dalla competenza e costanza degli adulti. Un cucciolo dello stesso identico temperamento può diventare un compagno sicuro e gioioso in una famiglia, o causa di incidenti in un'altra - la differenza è la gestione umana.</p>
-  
-  <p>Fatte le cose bene, la relazione bambino-Staffy può essere fonte di gioia reciproca per 12-14 anni di vita condivisa. Vale ogni minuto dell'impegno iniziale.</p>
   
   <div class="related">
   <h3>Articoli correlati</h3>

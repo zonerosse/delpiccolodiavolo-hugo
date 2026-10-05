@@ -89,6 +89,44 @@ custom_content: |
   <h2>Wann man einen Verhaltensexperten ruft</h2>
   <p>Manche Situationen brauchen sofort fachliche Hilfe, nicht Ratschläge aus dem Internet: ein Hund, der ein Kind gebissen hat, wie leicht auch immer; wiederholtes Knurren oder Schnappen gegenüber Kindern; Abwehrverhalten, das sich steigert; deutliche Angst vor Kindern, mit Meiden, Zittern oder Fluchtversuchen; zwanghafte Verhaltensweisen im Zusammenhang mit Stress; und eine plötzliche Wesensänderung, wenn ein toleranter Hund reaktiv wird. Ein tierärztlicher Verhaltensmediziner schließt zuerst eine körperliche Ursache aus, denn hinter vielen plötzlichen Veränderungen stecken Schmerzen, erstellt dann einen strukturierten Verhaltensplan, manchmal mit Medikamenten, und beurteilt, ob das Zusammenleben sicher gestaltet werden kann.</p>
 
+  <h2>Verbotene Handlungen: ausdrucken und aufhängen</h2>
+  <div class="alert">
+  <p class="alert-title">🚫 Die vollständige Liste</p>
+  <ul>
+  <li>Feste Umarmungen und Küsse auf den Fang</li>
+  <li>An Rute, Ohren, Pfoten oder Lefzen ziehen</li>
+  <li>Auf dem Hund reiten oder auf ihn klettern</li>
+  <li>Ihn durch Berühren wecken (aus der Entfernung rufen ist in Ordnung)</li>
+  <li>Ihn beim Fressen oder Kauen stören</li>
+  <li>Ihm starr in die Augen sehen (für den Hund eine Herausforderung)</li>
+  <li>In der Nähe des Hundes schreien</li>
+  <li>Auf ihn zurennen oder ihn jagen</li>
+  <li>Ihm ins Gesicht oder in die Ohren pusten</li>
+  <li>Ihn gegen seinen Willen anziehen</li>
+  <li>Ihn gegen seinen Willen festhalten oder blockieren</li>
+  <li>Körperliche Strafen</li>
+  </ul>
+  <p><strong>Wenn eine Regel gebrochen wird:</strong> für den Rest des Tages kein Kontakt zwischen Hund und Kind, eine ruhige Erklärung, warum es gefährlich war, und am nächsten Tag ein neuer Versuch.</p>
+  </div>
+
+  <h2>Die Checkliste für ein sicheres Zusammenleben</h2>
+  <div class="checklist">
+  <p class="checklist-title">In der Familie zu prüfen</p>
+  <ul>
+  <li>Ein Rückzugsort für den Hund, den die Kinder nicht betreten</li>
+  <li>Türgitter an den wichtigen Stellen im Haus</li>
+  <li>Spielzeug des Hundes und der Kinder vollständig getrennt</li>
+  <li>Die Erwachsenen kennen alle Stresssignale</li>
+  <li>Die Kinder kennen die Grundregeln</li>
+  <li>Die Liste der verbotenen Handlungen ausgedruckt und aufgehängt</li>
+  <li>Aufsicht bei jeder Begegnung, immer</li>
+  <li>„Aus“ und „Auf deinen Platz“ gut gefestigt</li>
+  <li>Die Kontakte eines Trainers und eines Verhaltensexperten griffbereit</li>
+  <li>Ein Notfallplan, in der Familie besprochen</li>
+  <li>Eine Haftpflichtversicherung für den Hund</li>
+  </ul>
+  </div>
+
   <div class="callout">
   <p class="callout-title">💡 Begleitung nach der Abgabe, ohne Ablaufdatum</p>
   <p>Eine Familie, die einen Welpen von uns nimmt, bleibt nach der Übergabe nicht allein. Das ganze Hundeleben lang sind wir für Rat zum Zusammenleben mit Kindern, zur Erziehung und zum Alltag erreichbar, auch nach Jahren. Und wenn sich die Umstände eines Tages ändern und der Hund nicht bleiben kann, kommt er hierher zurück.</p>

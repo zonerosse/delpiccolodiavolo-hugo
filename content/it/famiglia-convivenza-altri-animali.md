@@ -47,398 +47,400 @@ custom_content: |
   
   <p>Lo Staffordshire Bull Terrier è un terrier, e la reattività verso gli altri cani esiste, soprattutto fra soggetti dello stesso sesso in età adulta. La socializzazione la riduce, non la cancella: un cane che sta bene al parco può rifiutare un coinquilino, perché in casa l'altro non se ne va più. Per questo la convivenza con altri cani, gatti o piccoli animali si prepara prima di cominciare. Si valuta onestamente il proprio cane, si organizza la casa con spazi separati e barriere, si fanno le presentazioni per gradi e si gestiscono ciotole, giochi e cucce, che sono il punto da cui nasce la maggior parte dei conflitti. Con un gatto servono settimane, non giorni. Con conigli, roditori e uccelli la supervisione non si allenta mai, anche quando il cane sembra indifferente. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
-  
-  <h2>Valutazione Temperamento: Compatibilità con Altri Animali</h2>
-  
-  <p>Non tutti gli <strong>Staffordshire Bull Terrier</strong> hanno lo stesso livello di compatibilità con altri animali. Prima di tentare inserimenti, valutare onestamente il temperamento del proprio cane è cruciale per successo e sicurezza.</p>
-  
-  <h3>Profilo A - Alta compatibilità (Staffy ben socializzati)</h3>
+  <h2>Le tendenze della razza: cosa vuol dire davvero l'eredità da terrier</h2>
+  <p>Lo Staffordshire Bull Terrier è stato selezionato per lavorare a stretto contatto con le persone, non per fare la guardia a un territorio o sorvegliare il bestiame. Questa storia spiega la straordinaria tolleranza verso l'uomo per cui la razza è famosa. Spiega anche due tendenze che contano quando in casa vivono altri animali: un istinto predatorio residuo verso le creature piccole e veloci e, in una minoranza di soggetti, una bassa tolleranza verso i cani dello stesso sesso una volta raggiunta la maturità sociale, fra i 18 mesi e i 3 anni.</p>
+  <p>Nessuna delle due è una condanna. In più di dieci anni di allevamento, seguendo i nostri cuccioli nelle loro case, lo schema è costante: la maggior parte degli Staffy si inserisce con un cane o un gatto già presenti quando l'inserimento è fatto bene; alcuni hanno bisogno di una gestione continua, come zone separate per i pasti e tempo insieme solo sotto sorveglianza; e pochi stanno davvero meglio come unico animale di casa. Capire a quale gruppo appartiene il proprio cane è il primo compito, ed è molto più utile di qualsiasi regola generale sulla razza.</p>
+
+  <h2>Valutare il carattere: la compatibilità con gli altri animali</h2>
+  <p>Non tutti gli <strong>Staffordshire Bull Terrier</strong> hanno lo stesso grado di compatibilità con gli altri animali. Prima di tentare qualsiasi inserimento, una valutazione onesta del carattere del proprio cane è indispensabile, sia per la riuscita sia per la sicurezza.</p>
+
+  <h3>Profilo A - Compatibilità alta (Staffy ben socializzati)</h3>
   <ul>
-  <li><strong>Caratteristiche:</strong> Socializzazione precoce intensiva (cucciolo 8-16 settimane con molti cani diversi), esperienze positive costanti, mai episodi aggressività verso altri animali</li>
-  <li><strong>Comportamento tipico:</strong> Annusa con curiosità, si avvicina con curve (non frontalmente), accetta correzioni altri cani, gioca con autocontrollo, si disimpegna facilmente</li>
-  <li><strong>Inserimenti fattibili:</strong> Altri cani (stessa taglia o più grandi), gatti (con protocollo graduale), potenzialmente piccoli animali supervisionati</li>
-  <li><strong>Timeline inserimento:</strong> 2-4 settimane mediamente per convivenza stabile</li>
+  <li><strong>Caratteristiche:</strong> socializzazione precoce intensa (da cucciolo, fra le 8 e le 16 settimane, con molti cani diversi), esperienze sempre positive, nessun episodio di aggressività verso altri animali</li>
+  <li><strong>Comportamento tipico:</strong> annusa con curiosità, si avvicina in curva (non frontalmente), accetta le correzioni degli altri cani, gioca con autocontrollo, si stacca facilmente</li>
+  <li><strong>Inserimenti possibili:</strong> altri cani (della stessa taglia o più grandi), gatti (con un protocollo graduale), eventualmente piccoli animali sotto sorveglianza</li>
+  <li><strong>Tempi dell'inserimento:</strong> in media 2-4 settimane per arrivare a una convivenza stabile</li>
   </ul>
-  
+
   <h3>Profilo B - Compatibilità media</h3>
   <ul>
-  <li><strong>Caratteristiche:</strong> Socializzazione buona ma non ottimale, qualche episodio tensione gestito, selettività iniziale (preferenze razze/taglie/sessi), possibile resource guarding moderato</li>
-  <li><strong>Comportamento tipico:</strong> Inizialmente rigido poi si rilassa, gioco vigoroso che può intimidire, difficoltà disimpegno se molto eccitato</li>
-  <li><strong>Inserimenti fattibili:</strong> Altri cani con temperamento robusto, gatti CON protocollo esteso e barriere permanenti, NO piccoli animali</li>
-  <li><strong>Timeline inserimento:</strong> 4-8 settimane, possibili regressioni da gestire</li>
+  <li><strong>Caratteristiche:</strong> socializzazione buona ma non ideale, qualche episodio di tensione gestito, una selettività iniziale (preferenze per razza, taglia o sesso), possibile possessività moderata sulle risorse</li>
+  <li><strong>Comportamento tipico:</strong> rigido all'inizio, poi si rilassa; gioco vigoroso che può intimidire; fatica a staccarsi quando è molto eccitato</li>
+  <li><strong>Inserimenti possibili:</strong> altri cani dal carattere solido, gatti con un protocollo lungo e barriere permanenti, nessun piccolo animale</li>
+  <li><strong>Tempi dell'inserimento:</strong> 4-8 settimane, con possibili passi indietro da gestire</li>
   </ul>
-  
-  <h3>Profilo C - Bassa compatibilità</h3>
+
+  <h3>Profilo C - Compatibilità bassa</h3>
   <ul>
-  <li><strong>Caratteristiche:</strong> Storia aggressività manifesta verso altri cani/animali, socializzazione assente o traumatica, resource guarding severo, alto prey drive non gestibile</li>
-  <li><strong>Comportamento tipico:</strong> Fissità intensa, irrigidimento corpo, lunging/strattoni <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Ordinanza 6 agosto 2013, Gazzetta Ufficiale" target="_blank" rel="noopener" aria-label="Ordinanza 6 agosto 2013, Gazzetta Ufficiale (si apre in una nuova scheda)">guinzaglio</a>, vocalizzazioni aggressive, morsi/attacchi passati</li>
-  <li><strong>Inserimenti:</strong> SCONSIGLIATI fortemente. Richiedono intervento comportamentalista PRIMA di qualsiasi tentativo</li>
+  <li><strong>Caratteristiche:</strong> precedenti di aggressività aperta verso altri cani o animali, socializzazione assente o traumatica, possessività grave sulle risorse, istinto predatorio alto e non gestibile</li>
+  <li><strong>Comportamento tipico:</strong> fissazione intensa, irrigidimento del corpo, scatti e tirate al <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Ordinanza del 6 agosto 2013, Gazzetta Ufficiale" target="_blank" rel="noopener" aria-label="Ordinanza del 6 agosto 2013, Gazzetta Ufficiale (si apre in una nuova scheda)">guinzaglio</a>, vocalizzi aggressivi, morsi o attacchi</li>
+  <li><strong>Inserimenti:</strong> fortemente sconsigliati. Prima di qualsiasi tentativo serve un comportamentalista</li>
   </ul>
-  
+
   <div class="alert">
-  <p class="alert-title">⚠️ Quando NON tentare inserimenti senza professionista</p>
+  <p class="alert-title">⚠️ Quando non tentare un inserimento senza un professionista</p>
   <ul>
-  <li><strong>Storia aggressività:</strong> Staffy ha già morso/attaccato altri animali</li>
-  <li><strong>Prey drive estremo:</strong> Inseguimento compulsivo piccoli animali, impossibile richiamare quando "locked" su preda</li>
-  <li><strong>Resource guarding severo:</strong> Morde o tenta mordere se avvicinato mentre mangia/ha gioco</li>
-  <li><strong>Mancanza controllo impulsi:</strong> Non risponde MAI a richiami quando eccitato</li>
-  <li><strong>Reattività generalizzata:</strong> Aggressività verso persone + altri animali</li>
+  <li><strong>Precedenti di aggressività:</strong> lo Staffy ha già morso o attaccato altri animali</li>
+  <li><strong>Istinto predatorio estremo:</strong> insegue in modo compulsivo i piccoli animali, ed è impossibile richiamarlo quando si è «agganciato» alla preda</li>
+  <li><strong>Possessività grave:</strong> morde o tenta di mordere se ci si avvicina mentre mangia o tiene un gioco</li>
+  <li><strong>Mancanza di controllo degli impulsi:</strong> non risponde mai al richiamo quando è eccitato</li>
+  <li><strong>Reattività generalizzata:</strong> aggressività verso le persone oltre che verso gli altri animali</li>
   </ul>
-  <p>In questi casi serve comportamentalista veterinario o istruttore cinofilo certificato ENCI/FICSS.</p>
+  <p>In questi casi serve un medico veterinario esperto in comportamento o un educatore cinofilo certificato (in Italia, ENCI o FICSS).</p>
   </div>
-  
-  <h3>Test rapidi compatibilità pre-inserimento</h3>
-  
+
+  <h3>Verifiche rapide di compatibilità prima di un inserimento</h3>
+
   <div class="checklist">
-  <p class="checklist-title">Checklist test temperamento</p>
+  <p class="checklist-title">Checklist del carattere</p>
   <ul>
-  <li>Test passeggiata: Staffy ignora o saluta educatamente 8/10 cani incontrati?</li>
-  <li>Test area cani: Gioca con autocontrollo, rispetta segnali calmanti, si disimpegna facilmente?</li>
-  <li>Test gatti/piccoli animali strada: Nota ma distoglie sguardo su richiesta, non tira violentemente?</li>
-  <li>Test resource guarding casa: Puoi avvicinarti mentre mangia/gioca senza irrigidimenti/ringhi?</li>
-  <li>Test richiamo alta distrazione: Torna quando chiamato anche se sta giocando intensamente?</li>
+  <li>Prova in passeggiata: lo Staffy ignora o saluta educatamente 8 cani su 10 di quelli che incontra?</li>
+  <li>Prova all'area cani: gioca con autocontrollo, rispetta i segnali calmanti e si stacca facilmente?</li>
+  <li>Gatti e piccoli animali per strada: li nota ma distoglie lo sguardo se glielo chiedi, senza tirare forte?</li>
+  <li>Possessività in casa: puoi avvicinarti mentre mangia o gioca senza che si irrigidisca o ringhi?</li>
+  <li>Richiamo con molte distrazioni: torna quando lo chiami anche mentre gioca intensamente?</li>
   </ul>
   </div>
-  
-  <p><strong>Interpretazione:</strong> 4-5 test positivi = compatibilità alta. 2-3 positivi = compatibilità media (protocolli estesi). 0-1 positivi = professionista necessario.</p>
-  
-  <h2>Preparazione Casa Multi-Pet: Spazi e Attrezzatura</h2>
-  
-  <p>Molti inserimenti falliscono per l'ambiente, non per gli animali. Preparare la casa PRIMA dell'arrivo del nuovo animale evita improvvisazioni rischiose.</p>
-  
+
+  <p><strong>Come leggere il risultato:</strong> 4-5 risposte positive = compatibilità alta. 2-3 positive = compatibilità media (protocolli lunghi). 0-1 positive = serve un professionista.</p>
+
+  <h2>Preparare una casa con più animali: spazi e attrezzatura</h2>
+
+  <p>Molti inserimenti falliscono per colpa dell'ambiente, non degli animali. Preparare la casa prima che arrivi il nuovo animale evita improvvisazioni rischiose.</p>
+
   <h3>Attrezzatura indispensabile</h3>
-  
+
   <ul>
-  <li><strong>Cancelletti estensibili (30-60€):</strong> Separazione visiva parziale stanze. Permette odori/suoni ma NO contatto fisico. Lasciare installati permanentemente come sicurezza</li>
-  <li><strong>Box/recinto modulare (50-120€):</strong> Zona sicura animale più vulnerabile (gatto, cane piccolo, cucciolo). Rifugio sempre accessibile</li>
-  <li><strong>Guinzaglio lungo casa 3-5m (15-25€):</strong> Controllo Staffy durante primi incontri senza restrizione eccessiva movimento</li>
-  <li><strong>Museruola basket (25-40€):</strong> Sicurezza assoluta se dubbi temperamento. Permette respirare/bere/premiare. SOLO se cane già abituato positivamente</li>
-  <li><strong>Diffusori feromoni (20-35€/mese):</strong> Adaptil (cani) o Feliway (gatti) riducono stress. Attivare 1 settimana PRIMA inserimento, mantenere 4-6 settimane</li>
+  <li><strong>Cancelletti estensibili (30-60 €):</strong> separazione visiva parziale fra le stanze. Lasciano passare odori e suoni ma nessun contatto fisico. Conviene lasciarli montati per sempre, come sicurezza</li>
+  <li><strong>Trasportino o recinto modulare (50-120 €):</strong> una zona sicura per l'animale più vulnerabile (gatto, cane piccolo, cucciolo). Un rifugio sempre accessibile</li>
+  <li><strong>Lunghina da casa di 3-5 m (15-25 €):</strong> controllo dello Staffy nei primi incontri senza limitarne troppo i movimenti</li>
+  <li><strong>Museruola a cestello (25-40 €):</strong> sicurezza completa se si hanno dubbi sul carattere. Permette al cane di respirare, bere e prendere premi. Solo se il cane è già stato abituato in modo positivo</li>
+  <li><strong>Diffusori di feromoni (20-35 € al mese):</strong> Adaptil (cani) o Feliway (gatti) riducono lo stress. Vanno accesi una settimana prima dell'inserimento e tenuti per 4-6 settimane</li>
   </ul>
-  
-  <h3>Gestione verticale per gatti</h3>
-  
-  <p>Se inserimento Staffy con gatto, ambiente verticale è NON negoziabile:</p>
-  
+
+  <h3>Lo spazio in altezza per i gatti</h3>
+
+  <p>Se si inserisce uno Staffy con un gatto, lo spazio in altezza non è negoziabile:</p>
+
   <ul>
-  <li><strong>Mensole alte (&gt;150cm):</strong> Percorsi sopraelevati gatto attraversa stanze senza scendere. Installare lungo pareti prima arrivo Staffy</li>
-  <li><strong>Tiragraffi altissimi (180cm+):</strong> Con piattaforme multiple. Posizionare angoli strategici</li>
-  <li><strong>Porte con gattaiole:</strong> Accesso gatto a stanze off-limits Staffy (camera letto, studio). Gatto ha sempre vie fuga</li>
-  <li><strong>Lettiera inaccessibile cane:</strong> Dietro mobile con accesso solo gatto, o su mobile rialzato. Staffy NON deve accedere mai</li>
-  <li><strong>Ciotole gatto elevate:</strong> Su mensole 120cm+ o in stanze separate con gattaiola. Zero competizione cibo</li>
+  <li><strong>Mensole alte (oltre 150 cm):</strong> percorsi sopraelevati che permettono al gatto di attraversare le stanze senza scendere. Vanno montate lungo le pareti prima che arrivi lo Staffy</li>
+  <li><strong>Tiragraffi molto alti (180 cm e oltre):</strong> con più ripiani, negli angoli strategici</li>
+  <li><strong>Porte con gattaiola:</strong> il gatto raggiunge stanze vietate allo Staffy (camera, studio). Il gatto ha sempre una via di fuga</li>
+  <li><strong>Lettiera irraggiungibile per il cane:</strong> dietro un mobile con accesso solo per il gatto, o su un mobile alto. Lo Staffy non deve mai arrivarci</li>
+  <li><strong>Ciotole del gatto in alto:</strong> su mensole a 120 cm o più, o in stanze separate con gattaiola. Nessuna competizione per il cibo</li>
   </ul>
-  
-  <p><strong>Budget setup verticale gatto:</strong> 150-350€ iniziale. Un investimento che previene buona parte dei problemi di convivenza cane-gatto.</p>
-  
+
+  <p><strong>Spesa per sistemare lo spazio in altezza per il gatto:</strong> 150-350 € all'inizio. Un investimento che previene buona parte dei problemi fra cane e gatto.</p>
+
   <div class="checklist">
-  <p class="checklist-title">Checklist risorse duplicate</p>
+  <p class="checklist-title">Checklist delle risorse raddoppiate</p>
   <ul>
-  <li>Ciotole cibo: 1 per animale + 1 extra, posizioni DIVERSE (stanze separate se possibile)</li>
-  <li>Ciotole acqua: minimo 3 punti casa diversi. Sovrabbondanza previene guarding</li>
-  <li>Cucce/zone riposo: 2 per animale (alternano preferenze). Mai imporre condivisione</li>
-  <li>Giochi: set separati per ogni cane. Giochi interattivi solo supervisionati inizialmente</li>
-  <li>Attenzione proprietario: tempi 1-to-1 garantiti OGNI giorno (passeggiate separate, training, coccole esclusive)</li>
+  <li>Ciotole del cibo: una per animale più una in più, in posti diversi (stanze separate se possibile)</li>
+  <li>Ciotole dell'acqua: almeno 3 punti diversi della casa. L'abbondanza previene la possessività</li>
+  <li>Cucce e zone di riposo: 2 per animale (cambiano preferenza). Mai forzare la condivisione</li>
+  <li>Giochi: un set separato per ogni cane. I giochi interattivi all'inizio solo sotto sorveglianza</li>
+  <li>Attenzione del proprietario: tempo a tu per tu garantito ogni giorno (passeggiate separate, addestramento, coccole esclusive)</li>
   </ul>
   </div>
-  
-  <h2>Protocollo Inserimento Staffy-Cane: Step-by-Step Dettagliato</h2>
-  
-  <p>Inserimento tra cani richiede progressione lenta e metodica. Affrettare = rischio scontri che compromettono relazione permanentemente.</p>
-  
-  <h3>FASE 1: Scambio odori (giorni 1-3)</h3>
-  
-  <p><strong>Giorno 1-2: Scambio coperte/tappetini</strong> - Cane A dorme su coperta X, cane B su coperta Y. Dopo 24h, scambiare coperte. Ogni cane annusa odore altro in tranquillità propria zona. Osservare reazioni: curiosità rilassata = OK, tensione/ringhio = temperamento problematico.</p>
-  
-  <p><strong>Giorno 2-3: Scambio ambienti</strong> - Cane A va a passeggiata lunga (60+ min). Durante assenza, cane B esplora casa/giardino cane A liberamente, annusa, marca territorio leggero. Poi viceversa. Abituazione olfattiva reciproca PRIMA contatto visivo.</p>
-  
-  <p><strong>Giorno 3: Incontro barriera</strong> - Cancelletto divide stanza. Entrambi cani lato opposto, distanza 3-4m. Si vedono ma NO contatto. Premi generosi se ignorano reciprocamente o mostrano curiosità calma. Sessione 5-10 min. Ripetere 3-4 volte giornata.</p>
-  
-  <h3>FASE 2: Primo incontro diretto esterno (giorni 4-7)</h3>
-  
-  <p><strong>Setting ideale:</strong></p>
+
+  <h2>Inserire uno Staffy con un altro cane: il protocollo passo per passo</h2>
+
+  <p>L'inserimento fra cani chiede una progressione lenta e metodica. Avere fretta significa rischiare litigi che possono rovinare il rapporto per sempre.</p>
+
+  <h3>FASE 1: scambio di odori (giorni 1-3)</h3>
+
+  <p><strong>Giorni 1-2: scambio di coperte o tappetini</strong>: il cane A dorme sulla coperta X, il cane B sulla coperta Y. Dopo 24 ore le coperte si scambiano. Ogni cane annusa con calma l'odore dell'altro nella propria zona. Si osservano le reazioni: curiosità rilassata = bene, tensione o ringhio = carattere problematico.</p>
+
+  <p><strong>Giorni 2-3: scambio di spazi</strong>: il cane A esce per una lunga passeggiata (60 minuti o più). Intanto il cane B esplora liberamente casa e giardino del cane A, annusa e marca un po'. Poi il contrario. Familiarità reciproca con l'odore prima di qualsiasi contatto visivo.</p>
+
+  <p><strong>Giorno 3: incontro attraverso una barriera</strong>: un cancelletto divide la stanza. I due cani sono ai lati opposti, a 3-4 m. Si vedono ma non si toccano. Premi generosi se si ignorano o mostrano una curiosità calma. Sessioni di 5-10 minuti, 3-4 volte al giorno.</p>
+
+  <h3>FASE 2: primo incontro diretto all'aperto (giorni 4-7)</h3>
+
+  <p><strong>Condizioni ideali:</strong></p>
   <ul>
-  <li><strong>Luogo:</strong> Parco/campo neutro (MAI casa/giardino cane residente = territorio difeso)</li>
-  <li><strong>Persone:</strong> 2 adulti, uno gestisce ogni cane</li>
-  <li><strong>Attrezzatura:</strong> Guinzagli lunghi 3-5m, pettorine (NO collari), borsello premi</li>
-  <li><strong>Preparazione:</strong> Entrambi sfogati fisicamente 30 min PRIMA (cani stanchi = meno reattivi)</li>
+  <li><strong>Luogo:</strong> un parco o un campo neutro (mai la casa o il giardino del cane residente, che è territorio da difendere)</li>
+  <li><strong>Persone:</strong> 2 adulti, uno per cane</li>
+  <li><strong>Attrezzatura:</strong> lunghine di 3-5 m, pettorine (non collari), un marsupio con i premi</li>
+  <li><strong>Preparazione:</strong> entrambi i cani fatti muovere per 30 minuti prima (un cane stanco reagisce meno)</li>
   </ul>
-  
-  <p><strong>Sequenza primo incontro:</strong></p>
+
+  <p><strong>Sequenza del primo incontro:</strong></p>
   <ol>
-  <li><strong>Step 1 - Camminate parallele distanza 10m (10-15 min):</strong> Cani camminano stessa direzione, lati opposti sentiero. NO contatto visivo diretto. Se cane cerca guardare altro = redirigere attenzione su conduttore (premi, sniffing)</li>
-  <li><strong>Step 2 - Riduzione distanza graduale (10 min):</strong> Se rilassati, ridurre progressivamente: 8m → 5m → 3m. FERMARSI se tensione</li>
-  <li><strong>Step 3 - Avvicinamento "a U" (5-10 min):</strong> Percorsi convergono gradualmente ma NO frontalmente. Si incrociano quasi, annusate brevissime (2-3 sec) senza fermarsi. Ripetere 3-5 volte</li>
-  <li><strong>Step 4 - Annusate più lunghe (5-10 min):</strong> Permettere annusate posteriore reciproche 10-15 sec. Interrompere con richiamo gioioso PRIMA che finiscano. Fare 3-4 annusate poi FINIRE sessione positivamente</li>
+  <li><strong>Passo 1 - Passeggiata parallela a 10 m (10-15 minuti):</strong> i cani camminano nella stessa direzione ai lati opposti del sentiero. Nessun contatto visivo diretto. Se un cane prova a fissare l'altro, si riporta la sua attenzione sul conduttore (premi, annusate)</li>
+  <li><strong>Passo 2 - Avvicinamento graduale (10 minuti):</strong> se sono rilassati, la distanza si riduce poco a poco: 8 m, poi 5, poi 3. Ci si ferma al primo segnale di tensione</li>
+  <li><strong>Passo 3 - L'avvicinamento a «U» (5-10 minuti):</strong> i percorsi convergono piano ma non frontalmente. Si incrociano quasi, con annusate brevissime (2-3 secondi) senza fermarsi. Si ripete 3-5 volte</li>
+  <li><strong>Passo 4 - Annusate più lunghe (5-10 minuti):</strong> si permette l'annusata reciproca del posteriore per 10-15 secondi. Si interrompe con un richiamo allegro prima che finiscano. Si fanno 3-4 annusate e poi si chiude la sessione in positivo</li>
   </ol>
-  
+
   <div class="info-box">
-  <p class="info-box-title">💚 Segnali STOP immediato</p>
-  <p>Irrigidimento corpo, sollevamento pelo, coda alta immobile, ringhio, abbaiare aggressivo, lunging. Se uno mostra = interrompere, aumentare distanza, tornare step precedente giorno dopo.</p>
+  <p class="info-box-title">💚 I segnali per fermarsi subito</p>
+  <p>Irrigidimento del corpo, pelo rizzato, coda alta e immobile, ringhio, abbaio aggressivo, scatti in avanti. Se uno dei due cani li mostra: si interrompe, si aumenta la distanza e il giorno dopo si torna al passo precedente.</p>
   </div>
-  
-  <h3>FASE 3: Incontri casa controllati (giorni 8-21)</h3>
-  
-  <p>Solo DOPO 3-5 incontri esterni positivi, iniziare incontri casa:</p>
-  
+
+  <h3>FASE 3: incontri controllati in casa (giorni 8-21)</h3>
+
+  <p>Solo dopo 3-5 incontri positivi all'aperto si comincia con gli incontri in casa:</p>
+
   <ul>
-  <li><strong>Giorno 8-10:</strong> Entrambi in casa ma stanze separate con cancelletto. Possono vedersi da lontano. Passeggiate insieme esterne quotidiane</li>
-  <li><strong>Giorno 11-14:</strong> Sessioni stessa stanza, entrambi guinzaglio lungo. Durata 15-30 min supervisione totale. Giochi/cibo NON presenti</li>
-  <li><strong>Giorno 15-21:</strong> Rimozione guinzagli se rispetto reciproco, nessun guarding, disimpegno facile. Cancelletti restano come barriere opzionali</li>
+  <li><strong>Giorni 8-10:</strong> entrambi i cani in casa ma in stanze separate da un cancelletto. Si vedono a distanza. Passeggiate insieme all'aperto ogni giorno</li>
+  <li><strong>Giorni 11-14:</strong> sessioni nella stessa stanza, entrambi con la lunghina. 15-30 minuti sotto sorveglianza completa. Niente giochi o cibo in giro</li>
+  <li><strong>Giorni 15-21:</strong> si tolgono le lunghine se c'è rispetto reciproco, nessuna possessività e i cani si staccano facilmente. I cancelletti restano come barriere da usare se serve</li>
   </ul>
-  
-  <h3>FASE 4: Libertà vigilata (settimane 4-8)</h3>
-  
+
+  <h3>FASE 4: libertà sorvegliata (settimane 4-8)</h3>
+
   <ul>
-  <li><strong>Settimana 4-5:</strong> Libertà casa quasi completa. Supervisione presente ma meno intensa. Notte ancora separati</li>
-  <li><strong>Settimana 6-8:</strong> Se zero tensioni, tentare libertà notturna. Monitorare mattina segni stress</li>
-  <li><strong>Mese 3+:</strong> Convivenza stabilizzata. Dinamiche gerarchiche definite. Mantenere risorse duplicate</li>
+  <li><strong>Settimane 4-5:</strong> libertà quasi completa in casa. Sorveglianza presente ma meno stretta. Di notte ancora separati</li>
+  <li><strong>Settimane 6-8:</strong> se non c'è stata nessuna tensione, si prova la libertà anche di notte. Al mattino si controllano i segni di stress</li>
+  <li><strong>Dal terzo mese:</strong> la convivenza si è assestata. Il rapporto fra i cani è definito. Le risorse restano raddoppiate</li>
   </ul>
-  
+
   <div class="callout">
-  <p class="callout-title">🏆 I tempi reali di un inserimento</p>
-  <p>Con un cane residente equilibrato e un protocollo graduale bastano di solito alcune settimane. Quando manca l'uno o l'altro servono mesi, e in qualche caso la convivenza non funziona e i cani vanno tenuti separati per sempre. Contano soprattutto la socializzazione precoce dello Staffy, il rispetto dei tempi e il temperamento del cane che c'è già in casa. Cosa vuol dire davvero "cucciolo socializzato", e come verificarlo quando si visita un allevamento, è spiegato in <a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Cuccioli socializzati: cosa vuol dire">cuccioli socializzati: cosa vuol dire</a>.</p>
+  <p class="callout-title">🏆 I tempi veri di un inserimento</p>
+  <p>Con un cane residente equilibrato e un protocollo graduale di solito bastano poche settimane. Quando manca l'una o l'altra cosa servono mesi, e in alcuni casi la convivenza non funziona e i cani vanno tenuti separati per sempre. Quello che conta di più è la socializzazione precoce dello Staffy, il rispetto dei tempi e il carattere del cane già presente in casa. Cosa vuol dire davvero «cucciolo socializzato», e come verificarlo quando si visita un allevamento, è spiegato in <a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Cuccioli socializzati: cosa vuol dire davvero">cuccioli socializzati: cosa vuol dire davvero</a>.</p>
   </div>
-  
-  <h2>Protocollo Inserimento Staffy-Gatto: Desensibilizzazione Completa (10-16 settimane)</h2>
-  
-  <p>Convivenza cane-gatto richiede SEMPRE più tempo e cautela rispetto cane-cane. Predazione verso prede piccole/veloci è istinto potente molti Staffy.</p>
-  
-  <h3>Valutazione prey drive Staffy</h3>
+
+  <h2>Inserire uno Staffy con un gatto: la desensibilizzazione completa (10-16 settimane)</h2>
+
+  <p>La convivenza con un gatto chiede sempre più tempo e più cautela di quella con un altro cane. L'istinto predatorio verso prede piccole e veloci è forte in molti Staffy.</p>
+
+  <h3>Valutare l'istinto predatorio dello Staffy</h3>
   <ul>
-  <li><strong>Basso prey drive (IDEALE):</strong> Ignora gatti strada/parco, nota ma distoglie attenzione facilmente, non tira guinzaglio verso piccoli animali. Convivenza fattibile con protocollo standard</li>
-  <li><strong>Medio prey drive (GESTIBILE):</strong> Interesse verso gatti ma controllabile con rinforzo, guarda intensamente ma non tira violentemente, risponde richiami anche se distratto. Convivenza possibile con protocollo esteso + barriere permanenti</li>
-  <li><strong>Alto prey drive (CRITICO):</strong> Inseguimento compulsivo, "locking" visivo totale, tira violentemente, vocalizzazioni eccitate. Convivenza SCONSIGLIATA o solo con comportamentalista</li>
+  <li><strong>Istinto predatorio basso (ideale):</strong> ignora i gatti per strada o al parco, li nota ma distoglie facilmente lo sguardo, non tira verso i piccoli animali. La convivenza è possibile con il protocollo standard</li>
+  <li><strong>Istinto predatorio medio (gestibile):</strong> interesse per i gatti ma controllabile con il rinforzo, li fissa ma non tira con violenza, risponde al richiamo anche se distratto. Possibile con un protocollo lungo e barriere permanenti</li>
+  <li><strong>Istinto predatorio alto (critico):</strong> inseguimento compulsivo, «aggancio» visivo totale, tirate violente, vocalizzi di eccitazione. Convivenza sconsigliata, o solo con un comportamentalista</li>
   </ul>
-  
-  <h3>Fasi inserimento dettagliate</h3>
-  
-  <p><strong>FASE 1: Separazione totale con scambio odori (settimane 1-2)</strong></p>
+
+  <h3>Le fasi nel dettaglio</h3>
+
+  <p><strong>FASE 1: separazione totale con scambio di odori (settimane 1-2)</strong></p>
   <ul>
-  <li><strong>Settimana 1:</strong> Gatto ha camera letto + bagno (porte chiuse, gattaiola su porta). Staffy resto casa. Scambiare coperte quotidianamente. Accarezzare gatto con panno, lasciare panno a Staffy (premiare se rilassato)</li>
-  <li><strong>Settimana 2:</strong> Staffy va in giardino/passeggiata 2 ore. Gatto esplora casa liberamente, marca territorio. Poi viceversa. Ripetere 3-4 volte settimana</li>
+  <li><strong>Settimana 1:</strong> il gatto ha una camera e un bagno (porte chiuse, gattaiola nella porta). Lo Staffy ha il resto della casa. Si scambiano le coperte ogni giorno. Si accarezza il gatto con un panno e si lascia il panno allo Staffy (premio se è rilassato)</li>
+  <li><strong>Settimana 2:</strong> lo Staffy va in giardino o a passeggio per 2 ore. Il gatto esplora liberamente la casa e marca il territorio. Poi il contrario. Si ripete 3-4 volte alla settimana</li>
   </ul>
-  
-  <p><strong>FASE 2: Contatto visivo attraverso barriere (settimane 3-6)</strong></p>
+
+  <p><strong>FASE 2: contatto visivo attraverso le barriere (settimane 3-6)</strong></p>
   <ul>
-  <li><strong>Settimana 3-4:</strong> Gatto in sua stanza sicura. Cancelletto permette vedersi ma NO contatto. Staffy al guinzaglio, portato vicino gradualmente. Se guarda calmamente = premi. Se eccitazione/lunging = aumentare distanza. Sessioni 5-10 min, 3-4 volte/giorno</li>
-  <li><strong>Settimana 5-6:</strong> Progressivamente avvicinare Staffy a cancelletto fino 1m. Gatto DEVE avere vie fuga verticali. Premiare: guardare 2 sec poi distogliere sguardo, annusare aria calmamente, sedersi rilassato</li>
+  <li><strong>Settimane 3-4:</strong> il gatto nella sua stanza sicura. Un cancelletto permette di vedersi senza contatto. Lo Staffy al guinzaglio, avvicinato poco a poco. Sguardo calmo = premi. Eccitazione o scatti = più distanza. Sessioni di 5-10 minuti, 3-4 volte al giorno</li>
+  <li><strong>Settimane 5-6:</strong> lo Staffy si avvicina progressivamente al cancelletto, fino a 1 m. Il gatto deve avere vie di fuga in alto. Si premia: guardare per 2 secondi e poi distogliere lo sguardo, annusare l'aria con calma, sedersi rilassato</li>
   </ul>
-  
-  <p><strong>FASE 3: Primi contatti stessa stanza (settimane 7-10)</strong></p>
-  
+
+  <p><strong>FASE 3: primo contatto nella stessa stanza (settimane 7-10)</strong></p>
+
   <div class="alert">
-  <p class="alert-title">⚠️ Regole CRITICHE primi contatti diretti cane-gatto</p>
+  <p class="alert-title">⚠️ Regole critiche per il primo contatto diretto fra cane e gatto</p>
   <ul>
-  <li><strong>Staffy SEMPRE guinzaglio lungo:</strong> 3-5m permette movimento ma controllo immediato se reazione predatoria</li>
-  <li><strong>Gatto DEVE avere vie fuga multiple:</strong> Mensole alte, tiragraffi, porte con gattaiola</li>
-  <li><strong>Durata brevissima inizialmente:</strong> 3-5 minuti. Finire PRIMA che mostrino stress</li>
-  <li><strong>NO inseguimenti MAI:</strong> Se gatto scappa e Staffy insegue = richiamo immediato + fine sessione. Inseguimento rinforza istinto predatorio</li>
-  <li><strong>Premiare ignoranza reciproca:</strong> Obiettivo NON è "amicizia", è "coesistenza pacifica"</li>
+  <li><strong>Staffy sempre con la lunghina:</strong> 3-5 m permettono di muoversi ma danno un controllo immediato in caso di reazione predatoria</li>
+  <li><strong>Il gatto deve avere più vie di fuga:</strong> mensole alte, tiragraffi, porte con gattaiola</li>
+  <li><strong>All'inizio molto brevi:</strong> 3-5 minuti. Si chiude prima che mostrino stress</li>
+  <li><strong>Mai inseguimenti:</strong> se il gatto scappa e lo Staffy lo insegue, richiamo immediato e fine della sessione. L'inseguimento rinforza l'istinto predatorio</li>
+  <li><strong>Si premia l'indifferenza reciproca:</strong> l'obiettivo non è «l'amicizia», è la «convivenza pacifica»</li>
   </ul>
   </div>
-  
-  <p><strong>Sequenza primi contatti:</strong></p>
+
+  <p><strong>Sequenza dei primi contatti:</strong></p>
   <ol>
-  <li><strong>Giorni 1-3 settimana 7:</strong> Staffy entra stanza gatto (gatto su mensola alta). Staffy guinzaglio, annusa ambiente, nota gatto ma rediretto su giochi/premi. 3-5 min, 2 volte/giorno</li>
-  <li><strong>Giorni 4-7 settimana 7:</strong> Permettere guardarsi da 3-4m. Premiare rilassamento. Se gatto scende mensola volontariamente = segno confidenza. 5-10 min</li>
-  <li><strong>Settimane 8-10:</strong> Incremento durata fino 30 min. Staffy sempre guinzaglio 5m. Se entrambi rilassati (gatto si pulisce, Staffy si sdraia ignorando) = progressi eccellenti</li>
+  <li><strong>Giorni 1-3 della settimana 7:</strong> lo Staffy entra nella stanza del gatto (gatto su una mensola alta). Staffy al guinzaglio, annusa la stanza, nota il gatto ma viene riportato ai giochi o ai premi. 3-5 minuti, due volte al giorno</li>
+  <li><strong>Giorni 4-7 della settimana 7:</strong> si lasciano guardare a 3-4 m. Si premia il rilassamento. Se il gatto scende dalla mensola di sua iniziativa è un segno di fiducia. 5-10 minuti</li>
+  <li><strong>Settimane 8-10:</strong> la durata sale fino a 30 minuti. Staffy sempre con la lunghina di 5 m. Se entrambi sono rilassati (il gatto si lava, lo Staffy si sdraia e lo ignora) il progresso è ottimo</li>
   </ol>
-  
-  <p><strong>FASE 4: Libertà vigilata (settimane 11-16+)</strong></p>
+
+  <p><strong>FASE 4: libertà sorvegliata (settimane 11-16 e oltre)</strong></p>
   <ul>
-  <li><strong>Settimana 11-12:</strong> Tentare libertà Staffy (rimozione guinzaglio) in stanza ampia. Supervisione totale. Pronta interruzione se insegue</li>
-  <li><strong>Settimana 13-16:</strong> Libertà casa diurna sotto supervisione. Notte ancora separazione obbligatoria</li>
-  <li><strong>Mese 5+:</strong> Se zero incidenti, tentare libertà notturna. Molti gatti preferiscono zone alte comunque</li>
+  <li><strong>Settimane 11-12:</strong> si prova la libertà dello Staffy (senza guinzaglio) in una stanza grande. Sorveglianza completa. Pronti a interrompere se insegue</li>
+  <li><strong>Settimane 13-16:</strong> libertà in casa di giorno sotto sorveglianza. La separazione di notte resta obbligatoria</li>
+  <li><strong>Dal quinto mese:</strong> se non ci sono stati incidenti, si prova la libertà anche di notte. Molti gatti preferiscono comunque le zone alte</li>
   </ul>
-  
-  <h3>Gestione alimentazione cane-gatto</h3>
+
+  <h3>I pasti di cane e gatto</h3>
   <ul>
-  <li><strong>Pasti cane:</strong> Stanza separata porta chiusa. Gatto NON accede durante/dopo pasto</li>
-  <li><strong>Pasti gatto:</strong> Mensola alta 120cm+ o stanza con gattaiola</li>
-  <li><strong>Orari sfalsati:</strong> Gatto mangia quando cane in passeggiata</li>
-  <li><strong>Lettiera gatto inaccessibile:</strong> Molti cani mangiano feci gatto. Crea associazione "gatto = fonte cibo" (PERICOLOSO)</li>
+  <li><strong>Pasti del cane:</strong> in una stanza separata con la porta chiusa. Il gatto non ha accesso durante e dopo il pasto</li>
+  <li><strong>Pasti del gatto:</strong> su una mensola alta, a 120 cm o più, o in una stanza con gattaiola</li>
+  <li><strong>Orari sfalsati:</strong> il gatto mangia mentre il cane è fuori in passeggiata</li>
+  <li><strong>Lettiera fuori dalla portata del cane:</strong> molti cani mangiano le feci del gatto, e questo crea l'associazione «gatto = fonte di cibo», che è pericolosa</li>
   </ul>
-  
-  <h2>Convivenza con Piccoli Animali: Conigli, Furetti, Uccelli, Roditori</h2>
-  
-  <p>Convivenza Staffy con animali &lt;5kg è SEMPRE ad alto rischio. Istinto predatorio verso prede piccole/veloci è forte maggioranza Staffy.</p>
-  
-  <h3>Quando convivenza è possibile (ma mai garantita)</h3>
+
+  <h2>La convivenza con i piccoli animali: conigli, furetti, uccelli, roditori</h2>
+
+  <p>Uno Staffy che vive con animali sotto i 5 kg è sempre una situazione ad alto rischio. L'istinto predatorio verso prede piccole e veloci è forte nella maggior parte degli Staffy.</p>
+
+  <h3>Quando la convivenza è possibile (ma mai garantita)</h3>
   <ul>
-  <li>Staffy cresciuto con questi animali da cucciolo (8-16 settimane esposizione positiva costante)</li>
-  <li>Prey drive documentato BASSO (ignora completamente piccoli animali esterni)</li>
-  <li>Temperamento generale calmo, autocontrollo eccellente, risponde sempre richiami</li>
-  <li>Disponibilità mantenere separazione fisica PERMANENTE (stanze separate, contatti solo supervisionati)</li>
-  <li>Piccolo animale ha personalità robusta (non panicarsi facilmente)</li>
+  <li>Lo Staffy è cresciuto con questi animali da cucciolo (esposizione costante e positiva fra le 8 e le 16 settimane)</li>
+  <li>Un istinto predatorio basso e documentato (ignora completamente i piccoli animali all'aperto)</li>
+  <li>Un carattere generalmente calmo, ottimo autocontrollo, risponde sempre al richiamo</li>
+  <li>La disponibilità a mantenere una separazione fisica permanente (stanze separate, contatto solo sotto sorveglianza)</li>
+  <li>Il piccolo animale ha un carattere solido (non va facilmente in panico)</li>
   </ul>
-  
-  <h3>Quando convivenza è SCONSIGLIATA</h3>
+
+  <h3>Quando la convivenza è sconsigliata</h3>
   <ul>
-  <li>Staffy adulto mai esposto piccoli animali precedentemente</li>
-  <li>Prey drive medio-alto</li>
-  <li>Storia inseguimenti/attacchi verso piccoli animali (anche "giocosi")</li>
-  <li>Impossibilità garantire supervisione 100% interazioni</li>
-  <li>Piccolo animale fragile/pauroso (stress cronico danneggia salute)</li>
+  <li>Uno Staffy adulto mai esposto prima ai piccoli animali</li>
+  <li>Istinto predatorio medio o alto</li>
+  <li>Precedenti di inseguimenti o attacchi a piccoli animali (anche «per gioco»)</li>
+  <li>L'impossibilità di garantire la sorveglianza al 100% delle interazioni</li>
+  <li>Un piccolo animale fragile o pauroso (lo stress cronico ne danneggia la salute)</li>
   </ul>
-  
+
   <div class="alert">
-  <p class="alert-title">⚠️ AVVERTENZA CRITICA piccoli animali</p>
-  <p>Un SINGOLO episodio predatorio (anche senza ferimento grave) può traumatizzare Staffy a vedere piccolo animale come "preda" permanentemente. Reinserimento post-incidente spesso impossibile. Inoltre, "inseguimento giocoso" Staffy può UCCIDERE coniglio/furetto per infarto o shock anche senza morso diretto. Peso/forza disparità estrema. <strong>Se dubbi anche minimi = NON tentare convivenza.</strong></p>
+  <p class="alert-title">⚠️ Avvertenza critica sui piccoli animali</p>
+  <p>Un solo episodio predatorio, anche senza ferite gravi, può insegnare allo Staffy a vedere il piccolo animale come «preda» per sempre, e dopo un incidente il reinserimento è spesso impossibile. E l'«inseguimento per gioco» di uno Staffy può uccidere un coniglio o un furetto per arresto cardiaco o per shock, anche senza un morso: la differenza di peso e di forza è enorme. <strong>Al minimo dubbio, non si tenta.</strong></p>
   </div>
-  
-  <h3>Setup ambiente NON negoziabile</h3>
+
+  <h3>Una sistemazione non negoziabile</h3>
   <ul>
-  <li><strong>Stanza dedicata piccolo animale:</strong> OFF-LIMITS totali Staffy. Porta chiusa SEMPRE quando umano non supervisiona</li>
-  <li><strong>Gabbia/recinto robusto:</strong> Piccolo animale in habitat sicuro quando Staffy libero. Staffy NON può aprire/danneggiare</li>
-  <li><strong>Altezza se possibile:</strong> Gabbia uccelli sospesa 180cm+. Fuori portata fisica E visiva bassa Staffy</li>
-  <li><strong>Zero accesso non supervisionato:</strong> MAI lasciare Staffy libero in stanza piccolo animale</li>
+  <li><strong>Una stanza dedicata al piccolo animale:</strong> del tutto vietata allo Staffy. Porta sempre chiusa quando nessuno sorveglia</li>
+  <li><strong>Una gabbia o un recinto robusti:</strong> il piccolo animale sta in un habitat sicuro quando lo Staffy è libero. Lo Staffy non deve riuscire ad aprirlo o a danneggiarlo</li>
+  <li><strong>In alto, dove si può:</strong> le gabbie degli uccelli appese a 180 cm o più, fuori dalla portata fisica dello Staffy e dalla sua linea di sguardo bassa</li>
+  <li><strong>Nessun accesso senza sorveglianza:</strong> mai lasciare lo Staffy libero nella stanza del piccolo animale</li>
   </ul>
-  
-  <h3>Fasi inserimento (16-24 settimane)</h3>
+
+  <h3>Le fasi dell'inserimento (16-24 settimane)</h3>
   <ol>
-  <li><strong>Settimane 1-4:</strong> Solo odori. Scambio coperte. Staffy abituato a profumo senza possibilità caccia</li>
-  <li><strong>Settimane 5-8:</strong> Contatto visivo attraverso gabbia robusta. Piccolo animale protetto, Staffy guinzaglio distanza 3m+. Guardare calmamente = premi</li>
-  <li><strong>Settimane 9-12:</strong> Riduzione distanza. Staffy si sdraia rilassato vicino gabbia (difficilissimo raggiungere)</li>
-  <li><strong>Settimane 13-16:</strong> Piccolo animale libero in recinto, Staffy dietro cancelletto. Inversione: piccolo animale più libertà</li>
-  <li><strong>Settimane 17+:</strong> Contatti MOLTO controllati. Staffy guinzaglio corto 1m, piccolo animale pronto rifugio. Durata 2-3 min MAX</li>
+  <li><strong>Settimane 1-4:</strong> solo l'odore. Scambio di coperte. Lo Staffy si abitua all'odore senza possibilità di cacciare</li>
+  <li><strong>Settimane 5-8:</strong> contatto visivo attraverso una gabbia robusta. Il piccolo animale protetto, lo Staffy al guinzaglio a 3 m o più. Sguardo calmo = premi</li>
+  <li><strong>Settimane 9-12:</strong> si riduce la distanza. Lo Staffy si sdraia rilassato vicino alla gabbia (molto difficile da ottenere)</li>
+  <li><strong>Settimane 13-16:</strong> il piccolo animale libero in un recinto, lo Staffy dietro un cancelletto. Si invertono i ruoli: più libertà al piccolo animale</li>
+  <li><strong>Dalla settimana 17:</strong> contatto molto controllato. Staffy al guinzaglio corto di 1 m, il piccolo animale con un rifugio pronto. Al massimo 2-3 minuti</li>
   </ol>
-  
+
   <div class="info-box">
-  <p class="info-box-title">💚 Obiettivo realistico</p>
-  <p>La maggioranza inserimenti Staffy-piccoli animali NON raggiunge mai libertà totale insieme. Obiettivo realistico: "coesistenza stanze separate, occasionali supervisioni intense senza incidenti". Accettare questo limite.</p>
+  <p class="info-box-title">💚 Un obiettivo realistico</p>
+  <p>La maggior parte degli inserimenti fra uno Staffy e un piccolo animale non arriva mai alla piena libertà insieme. L'obiettivo realistico è «convivenza in stanze separate, con contatti occasionali sorvegliati da vicino e nessun incidente». Questo limite va accettato.</p>
   </div>
-  
-  <h2>Gestione Risorse Avanzata: Prevenire Conflitti</h2>
-  
-  <p>Resource guarding (difesa risorse) è causa #1 conflitti convivenze multi-pet. Prevenzione è chiave.</p>
-  
-  <h3>Tipologie risorse sensibili</h3>
+
+  <h2>Gestire le risorse: prevenire i conflitti</h2>
+
+  <p>La possessività sulle risorse è la prima causa di conflitto nelle case con più animali. La chiave è la prevenzione.</p>
+
+  <h3>Le risorse sensibili</h3>
   <ul>
-  <li><strong>Cibo ciotole:</strong> Risorsa primaria, trigger fortissimo → Pasti stanze separate, porte chiuse, ciotole rimosse dopo</li>
-  <li><strong>Cibo premio/snack:</strong> Alta appetibilità → Dare separatamente o simultaneamente distanza 3m+, cani voltati schiena</li>
-  <li><strong>Giochi interattivi:</strong> Eccitazione → Giochi separati. Comuni solo se entrambi padroneggiano "lascia" perfettamente</li>
-  <li><strong>Ossi/masticativi:</strong> Durata masticazione = possessività → Stanze separate o supervisione stretta</li>
-  <li><strong>Divano/letto:</strong> Territorio status elevato → Spazio sovrabbondante o accesso alternato</li>
-  <li><strong>Attenzione proprietario:</strong> Gelosia → Tempi 1-to-1 QUOTIDIANI per ogni animale</li>
+  <li><strong>Il cibo nella ciotola:</strong> la risorsa principale e un innesco fortissimo → pasti in stanze separate, porte chiuse, ciotole tolte dopo</li>
+  <li><strong>Premi e snack:</strong> molto appetibili → si danno separatamente, o insieme a 3 m o più con i cani girati dalla parte opposta</li>
+  <li><strong>Giochi interattivi:</strong> eccitazione → giochi separati. Quelli in comune solo se entrambi conoscono perfettamente il «lascia»</li>
+  <li><strong>Ossi e masticativi:</strong> masticazione lunga = possessività → stanze separate o sorveglianza stretta</li>
+  <li><strong>Divano e letto:</strong> territorio di prestigio → molto spazio o accesso a turno</li>
+  <li><strong>L'attenzione del proprietario:</strong> gelosia → tempo a tu per tu ogni giorno per ogni animale</li>
   </ul>
-  
-  <h3>Protocollo desensibilizzazione guarding</h3>
+
+  <h3>Protocollo di desensibilizzazione per la possessività</h3>
   <ol>
-  <li><strong>Step 1 - Conditioning positivo:</strong> Cane A mangia. Proprietario si avvicina (3m→1m), lancia super-premio DENTRO ciotola, si allontana. Ripetere 10 volte/sessione, 2 sessioni/giorno per 1 settimana</li>
-  <li><strong>Step 2 - Introduzione visiva cane B:</strong> Cane A mangia. Cane B appare 5m distanza (dietro cancelletto). Proprietario lancia super-premi a cane A. Associazione: "presenza altro cane = premi extra"</li>
-  <li><strong>Step 3 - Riduzione distanza:</strong> Progressivamente ridurre distanza cane B durante pasti cane A (sempre barriera). Premi a entrambi. Processo 2-4 settimane</li>
-  <li><strong>Step 4 - Pasti paralleli:</strong> Entrambi mangiano simultaneamente, stessa stanza, voltati schiena, distanza 3m. Supervisione totale. Rimuovere ciotole simultaneamente</li>
+  <li><strong>Passo 1 - Condizionamento positivo:</strong> il cane A mangia. Il proprietario si avvicina (da 3 m a 1 m), lascia cadere un premio di alto valore nella ciotola e si allontana. 10 ripetizioni per sessione, 2 sessioni al giorno per una settimana</li>
+  <li><strong>Passo 2 - Il cane B entra in vista:</strong> il cane A mangia. Il cane B compare a 5 m (dietro un cancelletto). Il proprietario lancia premi di alto valore al cane A. L'associazione: «la presenza dell'altro cane = premi in più»</li>
+  <li><strong>Passo 3 - Si riduce la distanza:</strong> il cane B si avvicina progressivamente durante i pasti del cane A (sempre con una barriera). Premi a entrambi. Un percorso di 2-4 settimane</li>
+  <li><strong>Passo 4 - Pasti in parallelo:</strong> mangiano insieme, nella stessa stanza, girati dalla parte opposta, a 3 m. Sorveglianza completa. Le ciotole si tolgono nello stesso momento</li>
   </ol>
-  
-  <p><strong>Se guarding severo (attacchi, morsi):</strong> NON fare DIY. Serve comportamentalista certificato.</p>
-  
-  <h2>Segnali Stress e Linguaggio Corporeo: Cosa Monitorare</h2>
-  
-  <p>Riconoscere stress precoce previene escalation conflitti. Cani comunicano disagio prima reagire aggressivamente.</p>
-  
-  <h3>Segnali calmanti (buon segno SE contestuali)</h3>
+
+  <p><strong>Se la possessività è grave (attacchi, morsi):</strong> non si prova da soli. Serve un comportamentalista certificato.</p>
+
+  <h2>Segnali di stress e linguaggio del corpo: cosa osservare</h2>
+
+  <p>Riconoscere presto lo stress evita che i conflitti crescano. I cani comunicano il disagio prima di reagire con aggressività.</p>
+
+  <h3>Segnali calmanti (un buon segno, se sono coerenti con il contesto)</h3>
   <ul>
-  <li><strong>Annusate terra prolungate:</strong> "Distogliere attenzione" da stimolo stressante</li>
-  <li><strong>Curve avvicinamento:</strong> Evitare approccio frontale diretto (minaccioso)</li>
-  <li><strong>Sguardi distolti:</strong> Evitare fissità reciproca (challenge)</li>
-  <li><strong>Sbadigli:</strong> "Sono calmo" (se contestuale, non solo stanchezza)</li>
-  <li><strong>Leccamento naso rapido:</strong> Auto-calmante in situazione incerta</li>
-  <li><strong>Movimento lento/posture basse:</strong> "Non sono minaccia"</li>
+  <li><strong>Annusare a lungo il terreno:</strong> «spostare l'attenzione» da uno stimolo che stressa</li>
+  <li><strong>Avvicinamenti in curva:</strong> evitare l'approccio diretto e frontale, che è minaccioso</li>
+  <li><strong>Sguardo distolto:</strong> evitare di fissarsi a vicenda, che è una sfida</li>
+  <li><strong>Sbadiglio:</strong> «sono tranquillo» (se coerente con il contesto, non solo stanchezza)</li>
+  <li><strong>Leccarsi il naso rapidamente:</strong> autocalmarsi in una situazione incerta</li>
+  <li><strong>Movimenti lenti e posture basse:</strong> «non sono una minaccia»</li>
   </ul>
-  
-  <p><strong>Interpretazione:</strong> Se entrambi cani mostrano segnali calmanti = comunicazione funziona, gestiscono tensione appropriatamente. POSITIVO.</p>
-  
-  <h3>Segnali stress/disagio (attenzione richiesta)</h3>
+
+  <p><strong>Come leggerlo:</strong> se entrambi i cani mostrano segnali calmanti, la comunicazione funziona e stanno gestendo la tensione nel modo giusto. È un segnale positivo.</p>
+
+  <h3>Segnali di stress e disagio (serve attenzione)</h3>
   <ul>
-  <li><strong>Irrigidimento corpo:</strong> Muscoli tesi, movimenti meno fluidi</li>
-  <li><strong>Pelo sollevato (piloerezione):</strong> Dorso/spalle = arousal alto</li>
-  <li><strong>Coda alta immobile:</strong> Allerta massima (diverso da scodinzolio giocoso)</li>
-  <li><strong>Orecchie avanti fisse:</strong> Focus totale, possibile reazione predatoria</li>
-  <li><strong>Fissità visiva ("staring"):</strong> Prolungato senza distogliere = tensione alta</li>
-  <li><strong>Leccamento naso frenetico ripetuto:</strong> Stress acuto</li>
-  <li><strong>Evitamento persistente:</strong> Cane/gatto evita aree dove altro animale = stress cronico</li>
+  <li><strong>Irrigidimento del corpo:</strong> muscoli tesi, movimenti meno fluidi</li>
+  <li><strong>Pelo rizzato (piloerezione):</strong> su schiena e spalle = eccitazione alta</li>
+  <li><strong>Coda alta e immobile:</strong> massima allerta (diversa dallo scodinzolio di gioco)</li>
+  <li><strong>Orecchie fisse in avanti:</strong> concentrazione totale, possibile reazione predatoria</li>
+  <li><strong>Fissare:</strong> a lungo, senza distogliere lo sguardo = tensione alta</li>
+  <li><strong>Leccarsi il naso in modo frenetico e ripetuto:</strong> stress acuto</li>
+  <li><strong>Evitamento persistente:</strong> un cane o un gatto che evita le zone dove sta l'altro animale = stress cronico</li>
   </ul>
-  
+
   <div class="alert">
-  <p class="alert-title">⚠️ Segnali PRE-AGGRESSIONE - STOP IMMEDIATO</p>
+  <p class="alert-title">⚠️ Segnali che precedono l'aggressione - fermarsi subito</p>
   <ul>
-  <li><strong>Ringhi bassi:</strong> Avvertimento serio, rispettare SEMPRE</li>
-  <li><strong>Labbro sollevato mostrando denti:</strong> Comunicazione aggressiva chiara</li>
-  <li><strong>Postura rigida avanzamento lento:</strong> "Stalking" predatorio o minaccioso</li>
-  <li><strong>Lunging (slancio improvviso):</strong> Tentativo attacco abortito</li>
-  <li><strong>Piloerezione + coda alta + ringhi:</strong> Aggressione imminente</li>
+  <li><strong>Ringhio basso:</strong> un avvertimento serio, da rispettare sempre</li>
+  <li><strong>Labbro sollevato a mostrare i denti:</strong> comunicazione aggressiva chiara</li>
+  <li><strong>Postura rigida con avanzata lenta:</strong> «puntata» predatoria o minacciosa</li>
+  <li><strong>Scatto in avanti:</strong> un tentativo di attacco interrotto</li>
+  <li><strong>Pelo rizzato + coda alta + ringhio:</strong> l'aggressione è imminente</li>
   </ul>
-  <p>Interrompere con richiamo calmo, scatter feed (lanciare cibo), aumento distanza immediato. MAI punire ringhi (comunicazione onesta).</p>
+  <p>Si interrompe con un richiamo calmo, una manciata di cibo sparsa a terra e un aumento immediato della distanza. Il ringhio non si punisce mai: è una comunicazione onesta.</p>
   </div>
-  
-  <h3>Monitoraggio benessere lungo termine</h3>
-  
+
+  <h3>Tenere d'occhio il benessere nel tempo</h3>
+
   <div class="checklist">
-  <p class="checklist-title">Checklist benessere convivenza (mensile)</p>
+  <p class="checklist-title">Checklist del benessere in casa (una volta al mese)</p>
   <ul>
-  <li>Appetito normale: Entrambi mangiano senza stress pasti?</li>
-  <li>Sonno tranquillo: Dormono profondamente senza ipervigilanza?</li>
-  <li>Comportamenti naturali: Giocano, si puliscono, rilassano normalmente?</li>
-  <li>Assenza evitamenti: Usano tutte aree casa liberamente?</li>
-  <li>Zero aggressioni: Nessun episodio violenza ultimo mese?</li>
-  <li>Salute fisica stabile: No perdita pelo stress, problemi digestivi, comportamenti compulsivi?</li>
+  <li>Appetito normale: mangiano entrambi senza stress ai pasti?</li>
+  <li>Sonno tranquillo: dormono profondamente, senza ipervigilanza?</li>
+  <li>Comportamento naturale: giocano, si puliscono e si rilassano normalmente?</li>
+  <li>Nessun evitamento: usano liberamente tutte le zone della casa?</li>
+  <li>Nessuna aggressività: nessun episodio violento nell'ultimo mese?</li>
+  <li>Salute fisica stabile: niente perdita di pelo da stress, disturbi digestivi o comportamenti compulsivi?</li>
   </ul>
   </div>
-  
-  <p><strong>Se 5+ risposte negative:</strong> Convivenza causa stress cronico. Consultare comportamentalista per valutare se gestibile o necessita separazione/rehoming.</p>
-  
-  <h2>Problemi Comuni e Soluzioni Pratiche</h2>
-  
-  <h3>Problema 1: Cane insegue gatto/piccolo animale</h3>
-  
+
+  <p><strong>Se 5 o più risposte sono negative:</strong> la convivenza sta causando uno stress cronico. Serve un comportamentalista, per capire se si può gestire o se è necessaria una separazione o una nuova sistemazione.</p>
+
+  <h2>Problemi comuni e soluzioni pratiche</h2>
+
+  <h3>Problema 1: il cane insegue il gatto o il piccolo animale</h3>
+
   <p><strong>Soluzioni immediate:</strong></p>
   <ul>
-  <li><strong>Interruzione:</strong> Richiamo enfatico + scatter feed (lancia cibo terra opposto)</li>
-  <li><strong>Ripristino barriere:</strong> Separazione totale 1-2 settimane</li>
-  <li><strong>Ri-start protocollo:</strong> Tornare fase precedente</li>
-  <li><strong>Training "lascia" intensivo:</strong> 10 min/giorno esercizi autocontrollo</li>
-  <li><strong>Attivazione fisica:</strong> Aumentare esercizio 30% (cane stanco = meno reattivo)</li>
+  <li><strong>Interrompere:</strong> un richiamo deciso + cibo sparso a terra nella direzione opposta</li>
+  <li><strong>Rimettere le barriere:</strong> separazione totale per 1-2 settimane</li>
+  <li><strong>Ricominciare il protocollo:</strong> si torna alla fase precedente</li>
+  <li><strong>Lavoro intenso sul «lascia»:</strong> 10 minuti al giorno di esercizi di autocontrollo</li>
+  <li><strong>Attività fisica:</strong> più movimento, circa il 30% in più (un cane stanco reagisce meno)</li>
   </ul>
-  
-  <p><strong>Soluzioni lungo termine:</strong></p>
+
+  <p><strong>Soluzioni a lungo termine:</strong></p>
   <ul>
-  <li><strong>Desensibilizzazione movimento:</strong> Gatto in trasportino, muovere lentamente vicino cane guinzagliato. Premiare ignoranza/calma. Incrementare velocità gradualmente</li>
-  <li><strong>Se persiste dopo 2-3 tentativi:</strong> Valutare se convivenza libera possibile o serve separazione permanente</li>
+  <li><strong>Desensibilizzazione al movimento:</strong> il gatto nel trasportino, spostato lentamente vicino al cane al guinzaglio. Si premiano indifferenza e calma. La velocità sale poco a poco</li>
+  <li><strong>Se continua dopo 2-3 tentativi:</strong> va valutato se la convivenza libera è possibile o se serve una separazione permanente</li>
   </ul>
-  
-  <h3>Problema 2: Conflitti su risorse (cibo, giochi, divano)</h3>
-  
+
+  <h3>Problema 2: conflitti per le risorse (cibo, giochi, divano)</h3>
+
   <p><strong>Soluzioni:</strong></p>
   <ul>
-  <li><strong>Separazione risorse TOTALE:</strong> Pasti stanze completamente separate, giochi zero condivisione, zone riposo distinte</li>
-  <li><strong>Rimozione accesso conteso:</strong> Se divano è problema, vietare divano entrambi 2-4 settimane (reset)</li>
-  <li><strong>Training "lascia" + "vai cuccia":</strong> Devono rispondere sempre per gestire accesso risorse</li>
-  <li><strong>Protocollo alimentazione positivo:</strong> Ri-condizionare che presenza altro = positivo</li>
+  <li><strong>Separazione totale delle risorse:</strong> pasti in stanze del tutto separate, nessun gioco in comune, zone di riposo separate</li>
+  <li><strong>Togliere l'accesso conteso:</strong> se il problema è il divano, entrambi giù per 2-4 settimane (si riparte da zero)</li>
+  <li><strong>Lavoro su «lascia» e «a cuccia»:</strong> devono rispondere sempre, così l'accesso alle risorse si può gestire</li>
+  <li><strong>Protocollo positivo ai pasti:</strong> si ricondiziona l'associazione, così la presenza dell'altro diventa qualcosa di positivo</li>
   </ul>
-  
-  <h3>Problema 3: Uno domina eccessivamente (bullying)</h3>
-  
-  <p><strong>Segni:</strong> Blocca accesso risorse/stanze, monta ripetutamente ignorando segnali stop, impedisce avvicinamento proprietario</p>
-  
+
+  <h3>Problema 3: uno dei due prevarica troppo (bullismo)</h3>
+
+  <p><strong>Segni:</strong> blocca l'accesso alle risorse o alle stanze, monta di continuo ignorando i segnali di stop, impedisce all'altro di avvicinarsi al proprietario</p>
+
   <p><strong>Soluzioni:</strong></p>
   <ul>
-  <li><strong>Interrompere dinamiche squilibrate:</strong> Non permettere montate ripetute, bloccare impedimenti passaggi</li>
-  <li><strong>Empowerment cane sottomesso:</strong> Tempi individuali attenzione esclusiva, zone "safe" dove dominante non accede</li>
-  <li><strong>Riduzione privileges dominante:</strong> Temporaneamente ridurre accesso risorse premium</li>
-  <li><strong>Supervisione intensa permanente:</strong> Non lasciare soli finché equilibrio migliora</li>
+  <li><strong>Interrompere le dinamiche squilibrate:</strong> niente monta ripetuta, non gli si permette di bloccare i passaggi</li>
+  <li><strong>Dare forza al cane più remissivo:</strong> tempo individuale con attenzione esclusiva, zone «sicure» dove l'altro non può entrare</li>
+  <li><strong>Ridurre i privilegi del cane che prevarica:</strong> per un periodo si limita il suo accesso alle risorse più ambite</li>
+  <li><strong>Sorveglianza stretta e costante:</strong> non lasciarli soli finché l'equilibrio non migliora</li>
   </ul>
-  
-  <h3>Problema 4: Gatto terrorizzato non esce da nascondigli</h3>
-  
+
+  <h3>Problema 4: il gatto terrorizzato non esce dal nascondiglio</h3>
+
   <p><strong>Soluzioni:</strong></p>
   <ul>
-  <li><strong>Aumentare ambiente verticale:</strong> Più mensole, vie alte, nascondigli elevati &gt;150cm</li>
-  <li><strong>Barriere ripristinate:</strong> Cancelletti dividono stanze. Gatto ha metà casa off-limits cane</li>
-  <li><strong>Feromoni ambiente:</strong> Feliway diffusori stanze principali gatto</li>
-  <li><strong>Riduzione accesso cane:</strong> Libertà cane 50-60% casa</li>
-  <li><strong>Valutazione onesta:</strong> Se gatto resta terrificato dopo 2-3 mesi = probabilmente incompatibili. Stress cronico danneggia salute gatto</li>
+  <li><strong>Più spazio in altezza:</strong> più mensole, percorsi alti, nascondigli sopraelevati oltre i 150 cm</li>
+  <li><strong>Rimettere le barriere:</strong> i cancelletti dividono le stanze. Metà della casa è vietata al cane</li>
+  <li><strong>Feromoni:</strong> diffusori Feliway nelle stanze principali del gatto</li>
+  <li><strong>Meno accesso per il cane:</strong> il cane libero nel 50-60% della casa</li>
+  <li><strong>Una valutazione onesta:</strong> se dopo 2-3 mesi il gatto è ancora terrorizzato, probabilmente sono incompatibili. Lo stress cronico danneggia la salute del gatto</li>
   </ul>
-  
+
   <h2>Domande Frequenti</h2>
   
   <section class="faq">

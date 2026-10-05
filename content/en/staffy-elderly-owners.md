@@ -38,7 +38,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>A Staffordshire Bull Terrier can suit an older owner, but the answer depends more on the person and the dog than on the breed. Its size, eleven to seventeen kilograms, and its short coat make it easy to manage, and sixty to ninety minutes of walking a day across two or three outings fits a routine built around morning and afternoon walks. The point that must be said plainly is strength: a young Staffy pulling on the lead can pull an older person over, and adolescence between 8 and 18 months tests anyone. For most older owners the right dog is an adult of three to six years, not a puppy, with a written arrangement with family or the breeder about what happens if the dog can no longer be kept. A puppy is a commitment of 12 to 14 years. A guide by the Del Piccolo Diavolo kennel, Ostellato, Italy.</p>
+  <p>A Staffordshire Bull Terrier can suit an older owner, but the answer depends more on the person and the dog than on the breed. Its size, eleven to seventeen kilograms, and its short coat make it easy to manage, and two or three outings a day, of a length that depends on the dog, fit a routine built around morning and afternoon walks. The point that must be said plainly is strength: a young Staffy pulling on the lead can pull an older person over, and adolescence between 8 and 18 months tests anyone. For most older owners the right dog is an adult of three to six years, not a puppy, with a written arrangement with family or the breeder about what happens if the dog can no longer be kept. A puppy is a commitment of 12 to 14 years. A guide by the Del Piccolo Diavolo kennel, Ostellato, Italy.</p>
 
   
   
@@ -48,7 +48,7 @@ custom_content: |
 
   <h2>What makes the breed suitable</h2>
   <p>Size and coat first. A dog of eleven to seventeen kilograms is manageable to lift into a car, to carry up stairs in an emergency, and to accommodate in a flat. The smooth coat needs a rubber mitt once a week and nothing else: no professional grooming appointments, no mats, no trips to a groomer that require driving.</p>
-  <p>Exercise requirements are moderate and, crucially, flexible. Sixty to ninety minutes across two or three outings suits a routine built around a morning and an afternoon walk far better than a breed that needs to run. On a bad day, mental work at home substitutes for a walk without the dog becoming destructive.</p>
+  <p>Exercise requirements are moderate and, crucially, flexible. Two or three outings a day, of a length that depends on the dog, suit a routine built around a morning and an afternoon walk far better than a breed that needs to run. On a bad day, mental work at home substitutes for a walk without the dog becoming destructive.</p>
   <p>Then there is temperament, which is the real argument. This breed attaches intensely to its people and wants to be in physical contact with them. For someone living alone, a dog that follows you from room to room and settles against your leg is not a minor detail: it is the whole point. The routine of feeding, walking and caring for an animal has documented value for mood, structure and social contact, and a dog that greets you with enthusiasm twice a day is a reason to get up.</p>
 
   <h2>The point that must be said plainly</h2>

@@ -1,7 +1,7 @@
 ---
 title: "BOAS nello Staffordshire Bull Terrier: Perché la Respirazione È Fondamentale"
 date: 2025-12-28
-lastmod: 2026-09-29
+lastmod: 2026-10-05
 titleSeo: "BOAS nello Staffordshire Bull Terrier: la respirazione"
 translationKey: "boas"
 articolo: true
@@ -9,7 +9,7 @@ image: "/images/blog/boas-respirazione.webp"
 og_image: "/images/og/schede/it/boas-staffordshire-bull-terrier-respirazione.jpg"
 og_image_alt: "BOAS nello Staffordshire Bull Terrier: la respirazione — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/boas-staffordshire-bull-terrier-respirazione.webp"
-description: "BOAS nello Staffordshire Bull Terrier: cos'è la sindrome, perché la razza non è brachicefala estrema e come scegliere un cucciolo che respira senza difficoltà."
+description: "BOAS nello Staffordshire Bull Terrier: cos'è la sindrome, perché la razza non è brachicefala e come scegliere un cucciolo che respira senza difficoltà."
 slug: "boas-staffordshire-bull-terrier-respirazione"
 custom_content: |
   <section class="hero">
@@ -48,7 +48,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Cos'è il BOAS</span>
-  <p>Lo Staffordshire Bull Terrier è un brachicefalo moderato: ha il muso raccorciato, ma non ai livelli estremi del carlino o del bulldog inglese, e nella maggior parte dei soggetti la respirazione è normale. La <strong>BOAS</strong> — sindrome ostruttiva delle vie aeree dei brachicefali — non è quindi una condanna di razza, ma un rischio da conoscere: i segnali sono russamento marcato anche da sveglio, respiro rumoroso a riposo, intolleranza allo sforzo e al caldo, rigurgiti frequenti. Un cane che ansima pesantemente dopo pochi minuti di gioco non è fuori forma, va visto. Nella selezione conta scegliere riproduttori con narici aperte e canna nasale non compressa: la tipicità della testa non deve mai andare contro la funzionalità.</p>
+  <p>Lo Staffordshire Bull Terrier non è una razza brachicefala: ha il muso più corto di molte razze, ma lontano dal carlino o dal bulldog inglese, e nella maggior parte dei soggetti la respirazione è normale; alcune linee, però, hanno il muso troppo corto. La <strong>BOAS</strong> — sindrome ostruttiva delle vie aeree dei brachicefali — non è quindi una condanna di razza, ma un rischio da conoscere: i segnali sono russamento marcato anche da sveglio, respiro rumoroso a riposo, intolleranza allo sforzo e al caldo, rigurgiti frequenti. Un cane che ansima pesantemente dopo pochi minuti di gioco non è fuori forma, va visto. Nella selezione conta scegliere riproduttori con narici aperte e canna nasale non compressa: la tipicità della testa non deve mai andare contro la funzionalità.</p>
 
   <h2 class="section-title">Sindrome Brachicefalica Ostruttiva delle Vie Aeree</h2>
   
@@ -72,14 +72,14 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">La Posizione dello Staffy</span>
-  <h2 class="section-title">Lo Staffordshire Bull Terrier NON È una Razza Brachicefala Estrema</h2>
+  <h2 class="section-title">Lo Staffordshire Bull Terrier non è una razza brachicefala</h2>
   
   <div class="zigzag">
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Uno Spettro, Non una Categoria</h3>
   <p>Il <a href="https://www.thekennelclub.org.uk/health-and-dog-care/health/health-and-care/a-z-of-health-and-care-issues/brachycephalic-health-issues/" target="_blank" rel="noopener" aria-label="Kennel Club UK (si apre in una nuova scheda)">Kennel Club UK</a> chiarisce: "La brachicefalia si presenta su uno spettro, da razze con facce quasi completamente piatte (brachicefalia estrema) come il Carlino e il Japanese Chin, fino a <strong>razze brachicefaliche meno esagerate come il Boxer e lo Staffordshire Bull Terrier</strong>."</p>
-  <p>Questo significa che lo Staffy, per standard, dovrebbe avere un muso sufficientemente lungo da permettere una respirazione normale.</p>
+  <p>Il Kennel Club lo mette quindi all'estremo meno marcato dello spettro, e la nostra posizione è più netta: lo Staffy, per standard, deve avere un muso abbastanza lungo da respirare normalmente, e le linee con il muso troppo corto vanno nella direzione sbagliata.</p>
   </div>
   <div class="zigzag-image"></div>
   </div>

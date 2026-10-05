@@ -45,7 +45,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Lo Staffordshire Bull Terrier è un cane di 13-17 kg, compatto e muscoloso, che lo standard descrive come affidabile, di indomito coraggio e molto affettuoso, specialmente con i bambini. È adatto a chi vuole un cane presente nella vita di casa, lo porta fuori ogni giorno e ha tempo per educarlo con costanza. Non è adatto a chi sta fuori casa molte ore, perché soffre la solitudine più di altre razze, né a chi cerca un cane distaccato e indipendente. Da giovane ha molta energia, ha una personalità testarda e, con gli altri cani, una reattività che la socializzazione riduce ma non cancella. Con i bambini è paziente, ma nessun cane va lasciato solo con un bambino piccolo, di nessuna razza. Questa guida mette in fila pregi e difetti prima che tu decida, non dopo. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
+  <p>Lo Staffordshire Bull Terrier è un cane di 13-17 kg, compatto e muscoloso, che lo <a href="/standard-tipicita-morfologia/" title="Standard di razza dello Staffordshire Bull Terrier">standard</a> descrive come affidabile, di indomito coraggio e molto affettuoso, specialmente con i bambini. È adatto a chi vuole un cane presente nella vita di casa, lo porta fuori ogni giorno e ha tempo per educarlo con costanza. Non è adatto a chi sta fuori casa molte ore, perché soffre la solitudine più di altre razze, né a chi cerca un cane distaccato e indipendente. Da giovane ha molta energia, ha una personalità testarda e, con gli altri cani, una reattività che la socializzazione riduce ma non cancella. Con i bambini è paziente, ma nessun cane va lasciato solo con un bambino piccolo, di nessuna razza. Questa guida mette in fila pregi e difetti prima che tu decida, non dopo. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
   
   <h2>Che cane è, davvero, lo Staffordshire Bull Terrier</h2>
@@ -73,7 +73,7 @@ custom_content: |
   <p>Il mantello raso richiede pochissime cure: una spazzolata ogni tanto e via. Perde poco pelo rispetto a molte razze e non ha bisogno di toelettatura. Quali colori ammette lo standard, e quali no, è spiegato nella guida ai <a href="/colori-staffordshire-bull-terrier/" title="I colori dello Staffordshire Bull Terrier">colori dello Staffordshire Bull Terrier</a>.</p>
   
   <h3>5. Salute robusta (se allevato bene)</h3>
-  <p>È una razza rustica e longeva (12-14 anni), a patto che provenga da <a href="/programma-allevamento/">riproduttori testati</a> per le patologie ereditarie principali (L2-HGA e HC). Qui la scelta dell'allevamento fa tutta la differenza.</p>
+  <p>È una razza rustica e longeva (12-14 anni), a patto che provenga da <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">riproduttori testati</a> per le patologie ereditarie principali (L2-HGA e HC). Qui la scelta dell'allevamento fa tutta la differenza.</p>
   
   <h2>I CONTRO: cosa nessuno ti dice (e noi sì)</h2>
   <p>Nessuna razza è perfetta, e chi ti racconta solo meraviglie non ti sta aiutando. Ecco i difetti <strong>reali</strong> dello Staffy — non per scoraggiarti, ma per farti scegliere bene.</p>
@@ -82,7 +82,7 @@ custom_content: |
   <p>È il "contro" più importante. Lo Staffy soffre davvero se lasciato solo per molte ore: può sviluppare ansia da separazione, abbaiare, distruggere. <strong>Se stai fuori casa 10 ore al giorno e non hai un piano</strong>, questa non è la razza giusta per te.</p>
   
   <h3>2. Tanta energia da scaricare</h3>
-  <p>Da giovane è un vulcano. Ha bisogno di movimento quotidiano vero (passeggiate, gioco, corsa) e di stimoli mentali. Un cucciolo di Staffy annoiato e sotto-stimolato diventa un piccolo demolitore.</p>
+  <p>Da giovane è un vulcano. Ha bisogno di <a href="/salute-esercizio-sicuro/" title="Esercizio sicuro per lo Staffordshire Bull Terrier">movimento quotidiano vero</a> (passeggiate, gioco, corsa) e di stimoli mentali. Un cucciolo di Staffy annoiato e sotto-stimolato diventa un piccolo demolitore.</p>
   
   <h3>3. Può non andare d'accordo con altri cani</h3>
   <p>È dolcissimo con le persone, ma verso <strong>altri cani</strong> (soprattutto dello stesso sesso) può essere deciso. Con una buona socializzazione da cucciolo la convivenza è possibile, ma va gestita con attenzione: non è il cane da lasciare libero al parco a caso.</p>
@@ -94,7 +94,7 @@ custom_content: |
   <p>È intelligente ma ha una sua testa. Risponde benissimo all'educazione <em>gentile e coerente</em>, ma i metodi bruschi non funzionano e lo chiudono. Serve pazienza e costanza.</p>
   
   <h3>6. Il pregiudizio degli altri</h3>
-  <p>Per il suo aspetto "bull", lo Staffy viene spesso confuso con Pit Bull o Amstaff e subisce pregiudizi ingiusti. Preparati a spiegare (spesso) che è un cane da famiglia. Se ti pesa gestire lo sguardo della gente, tienilo presente. Approfondisci le <a href="/differenza-staffy-pitbull-amstaff/">differenze tra Staffy, Pitbull e Amstaff</a>; se sei indeciso fra le prime due, il <a href="/differenza-staffy-amstaff/" title="Staffy o Amstaff: il test dell'allevatore">test dell'allevatore</a> ti fa sette domande su casa, bambini ed esperienza.</p>
+  <p>Per il suo aspetto "bull", lo Staffy viene spesso confuso con Pit Bull o Amstaff e subisce pregiudizi ingiusti. Preparati a spiegare (spesso) che è un cane da famiglia. Se ti pesa gestire lo sguardo della gente, tienilo presente. Approfondisci le <a href="/differenza-staffy-pitbull-amstaff/" title="Differenza fra Staffy, Pitbull e Amstaff">differenze tra Staffy, Pitbull e Amstaff</a>; se sei indeciso fra le prime due, il <a href="/differenza-staffy-amstaff/" title="Staffy o Amstaff: il test dell'allevatore">test dell'allevatore</a> ti fa sette domande su casa, bambini ed esperienza.</p>
   
   <h2>Lo Staffordshire Bull Terrier è adatto a te SE…</h2>
   <ul>
@@ -102,7 +102,7 @@ custom_content: |
   <li>Hai (o crei) tempo per passeggiate ed esercizio quotidiano</li>
   <li>Non lasci il cane solo per troppe ore, o hai un piano per non farlo</li>
   <li>Sei disposto a fare <strong>educazione di base</strong> con costanza e dolcezza</li>
-  <li>Hai bambini e cerchi un cane robusto e tollerante</li>
+  <li>Hai bambini e cerchi un cane robusto e tollerante: cosa vuol dire nella vita di tutti i giorni è spiegato in <a href="/famiglia-bambini-convivenza/" title="Staffy e bambini">Staffy e bambini</a></li>
   <li>Vuoi un compagno per 12-14 anni, non un "accessorio"</li>
   </ul>
   
@@ -117,7 +117,7 @@ custom_content: |
   
   <div class="callout">
   <p class="callout-title">🏆 Il nostro punto di vista</p>
-  <p>Nel <a href="/">nostro allevamento Del Piccolo Diavolo</a> i cuccioli nascono in casa e crescono <strong>in famiglia</strong>: prima nella cassa parto, poi in un box dedicato da cui rientrano ogni giorno, a turno. Questo fa un'enorme differenza sull'equilibrio del cane adulto. Un cucciolo ben socializzato dai suoi primi giorni — a persone, rumori, altri animali — diventa uno Staffy sereno e gestibile. Se decidi che è la razza giusta per te, il passo successivo più importante è scegliere <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/">un allevamento serio</a>: è lì che si costruisce (o si rovina) il carattere del tuo futuro compagno.</p>
+  <p>Nel <a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">nostro allevamento Del Piccolo Diavolo</a> i cuccioli nascono in casa e crescono <strong>in famiglia</strong>: prima nella cassa parto, poi in un box dedicato da cui rientrano ogni giorno, a turno. Questo fa un'enorme differenza sull'equilibrio del cane adulto. Un cucciolo ben socializzato dai suoi primi giorni — a persone, rumori, altri animali — diventa uno Staffy sereno e gestibile. Se decidi che è la razza giusta per te, il passo successivo più importante è scegliere <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento">un allevamento serio</a>: è lì che si costruisce (o si rovina) il carattere del tuo futuro compagno.</p>
   </div>
   
   <h2>Quanto impegno richiede, in concreto</h2>
@@ -172,6 +172,8 @@ custom_content: |
   <li><a href="/staffy-pericoloso-legge-italia/" title="Staffy e legge">Lo Staffy è pericoloso? Cosa dice la legge italiana</a></li>
   <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento">Consigli prima di prendere un cucciolo</a></li>
   <li><a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Prezzo cucciolo">Quanto costa un cucciolo di Staffordshire Bull Terrier</a></li>
+  <li><a href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Carattere e vita in famiglia">Carattere e vita in famiglia dello Staffy</a></li>
+  <li><a href="/programma-allevamento/" title="Cucciolate Staffordshire Bull Terrier: in programma e passate">Cucciolate di Staffordshire Bull Terrier: in programma e passate</a></li>
   </ul>
   </div>
   

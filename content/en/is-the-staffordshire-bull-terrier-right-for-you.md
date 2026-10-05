@@ -74,7 +74,7 @@ custom_content: |
   <p>The smooth coat needs very little care: an occasional brush and that's it. It sheds little compared with many breeds and needs no grooming.</p>
   
   <h3>5. Robust health (if well bred)</h3>
-  <p>It is a hardy, long-lived breed (12-14 years), provided it comes from <a href="/en/staffy-genetic-testing-l2hga-hc/">breeding dogs tested</a> for the main hereditary conditions (L2-HGA and HC). Here the choice of kennel makes all the difference.</p>
+  <p>It is a hardy, long-lived breed (12-14 years), provided it comes from <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA and HC">breeding dogs tested</a> for the main hereditary conditions (L2-HGA and HC). Here the choice of kennel makes all the difference.</p>
   
   <h2>The CONS: what no one tells you (and we do)</h2>
   <p>No breed is perfect, and anyone who tells you only wonderful things is not helping you. Here are the <strong>real</strong> flaws of the Staffy — not to put you off, but to help you choose well.</p>
@@ -95,7 +95,7 @@ custom_content: |
   <p>It is intelligent but has a mind of its own. It responds very well to <em>gentle, consistent</em> training, but harsh methods do not work and shut it down. It takes patience and consistency.</p>
   
   <h3>6. Other people's prejudice</h3>
-  <p>Because of its "bull" appearance, the Staffy is often confused with Pit Bulls or Amstaffs and suffers unfair prejudice. Be ready to explain (often) that it is a family dog. If dealing with people's stares weighs on you, bear it in mind. Read more about the <a href="/en/staffy-pitbull-amstaff-difference/">differences between Staffy, Pitbull and Amstaff</a>; if you are torn between the first two, the <a href="/en/staffy-or-amstaff-which-breed-suits-you/" title="Staffy or Amstaff: the breeder's test">breeder's test</a> asks seven questions about home, children and experience.</p>
+  <p>Because of its "bull" appearance, the Staffy is often confused with Pit Bulls or Amstaffs and suffers unfair prejudice. Be ready to explain (often) that it is a family dog. If dealing with people's stares weighs on you, bear it in mind. Read more about the <a href="/en/staffy-pitbull-amstaff-difference/" title="Staffy, Pit Bull and Amstaff: the differences">differences between Staffy, Pitbull and Amstaff</a>; if you are torn between the first two, the <a href="/en/staffy-or-amstaff-which-breed-suits-you/" title="Staffy or Amstaff: the breeder's test">breeder's test</a> asks seven questions about home, children and experience.</p>
   
   <h2>The Staffordshire Bull Terrier is right for you IF…</h2>
   <ul>
@@ -119,7 +119,7 @@ custom_content: |
   
   <div class="callout">
   <p class="callout-title">🏆 Our point of view</p>
-  <p>At <a href="/en/">our Del Piccolo Diavolo kennel</a> the puppies are born and raised <strong>in the family</strong>, not in kennels: this makes an enormous difference to the balance of the adult dog. A puppy well socialised from its first days — to people, noises, other animals — becomes a calm, manageable Staffy. If you decide it is the right breed for you, the most important next step is to choose <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/">a serious kennel</a>: that is where the character of your future companion is built (or ruined).</p>
+  <p>At <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">our Del Piccolo Diavolo kennel</a> the puppies are born and raised <strong>in the family</strong>, not in kennels: this makes an enormous difference to the balance of the adult dog. A puppy well socialised from its first days — to people, noises, other animals — becomes a calm, manageable Staffy. If you decide it is the right breed for you, the most important next step is to choose <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Choosing a breeder">a serious kennel</a>: that is where the character of your future companion is built (or ruined).</p>
   </div>
   
   <h2>How much commitment it really takes</h2>
