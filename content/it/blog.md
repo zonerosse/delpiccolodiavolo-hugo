@@ -2,7 +2,7 @@
 title: "Blog Staffordshire Bull Terrier"
 titleSeo: "Guide sullo Staffordshire Bull Terrier: salute e cuccioli"
 date: 2025-12-28
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 tipoPagina: "CollectionPage"
 translationKey: "blog"
 description: "Articoli sullo Staffordshire Bull Terrier scritti dall'allevamento: cuccioli, salute e test genetici, standard e linee di sangue, famiglia e legge."
@@ -46,7 +46,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">18 Nov 2025</span><span>•</span><span class="cat">Legislazione</span></div>
   <h3><a href="/staffy-pericoloso-legge-italia/" title="Leggi: Lo Staffy è pericoloso?">Lo Staffordshire Bull Terrier è Pericoloso? La Verità e la Legge Italiana</a></h3>
   <p>Dati scientifici, normativa italiana dal 2009 e proposta lombarda 2025 sul patentino.</p>
-  <a class="read" href="/staffy-pericoloso-legge-italia/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Lo Staffordshire Bull Terrier è Pericoloso? La Verità e la Legge Italiana">Leggi →</a>
+  <a class="read" href="/staffy-pericoloso-legge-italia/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Lo Staffordshire Bull Terrier è Pericoloso? La Verità e la Legge Italiana">Leggi<span class="sr-only">: Lo Staffordshire Bull Terrier è Pericoloso? La Verità e la Legge Italiana</span> →</a>
   </div>
   </article>
   </div>
@@ -66,7 +66,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">27 Set 2026</span><span>&bull;</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cuccioli-sverminazione-esami-feci/" title="Leggi: Sverminazione ed esami delle feci">Sverminazione: protocollo ed esami delle feci</a></h3>
   <p>Il calendario, i referti della cucciolata pubblicati per intero e la terapia in corso.</p>
-  <a class="read" href="/cuccioli-sverminazione-esami-feci/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Sverminazione ed esami delle feci">Leggi &rarr;</a>
+  <a class="read" href="/cuccioli-sverminazione-esami-feci/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Sverminazione ed esami delle feci">Leggi<span class="sr-only">: Sverminazione ed esami delle feci</span> &rarr;</a>
   </div>
   </article>
 
@@ -76,7 +76,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">12 Set 2026</span><span>&bull;</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Leggi: Cucciolo all'estero">Un cucciolo all'estero: tempi e documenti</a></h3>
   <p>Perché parte intorno ai quattro mesi, cosa lo accompagna e come funziona l'export pedigree ENCI.</p>
-  <a class="read" href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Cucciolo all'estero">Leggi &rarr;</a>
+  <a class="read" href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Cucciolo all'estero">Leggi<span class="sr-only">: Cucciolo all'estero</span> &rarr;</a>
   </div>
   </article>
   <article class="blog-card">
@@ -85,7 +85,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">26 Set 2026</span><span>&bull;</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Leggi: Cuccioli socializzati, cosa vuol dire davvero">Cuccioli gi&agrave; socializzati: cosa vuol dire davvero</a></h3>
   <p>La finestra sensibile, cosa un cucciolo incontra in allevamento e cosa no.</p>
-  <a class="read" href="/cuccioli-socializzati-cosa-vuol-dire/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Cuccioli socializzati, cosa vuol dire davvero">Leggi &rarr;</a>
+  <a class="read" href="/cuccioli-socializzati-cosa-vuol-dire/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Cuccioli socializzati, cosa vuol dire davvero">Leggi<span class="sr-only">: Cuccioli socializzati, cosa vuol dire davvero</span> &rarr;</a>
   </div>
   </article>
 
@@ -95,7 +95,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">26 Set 2026</span><span>&bull;</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/genitori-visibili-cosa-significa/" title="Leggi: Genitori visibili, cosa significa davvero">Genitori visibili: cosa significa davvero</a></h3>
   <p>Perch&eacute; il padre quasi mai &egrave; in allevamento, e cosa guardare invece nella madre.</p>
-  <a class="read" href="/genitori-visibili-cosa-significa/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Genitori visibili, cosa significa davvero">Leggi &rarr;</a>
+  <a class="read" href="/genitori-visibili-cosa-significa/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Genitori visibili, cosa significa davvero">Leggi<span class="sr-only">: Genitori visibili, cosa significa davvero</span> &rarr;</a>
   </div>
   </article>
 
@@ -105,7 +105,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">18 Gen 2026</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi: Come riconoscere un allevamento serio">Come riconoscere un allevamento serio</a></h3>
   <p>Otto criteri e il modo di verificarli, con i nostri documenti come esempio.</p>
-  <a class="read" href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Come riconoscere un allevamento serio">Leggi →</a>
+  <a class="read" href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Come riconoscere un allevamento serio">Leggi<span class="sr-only">: Come riconoscere un allevamento serio</span> →</a>
   </div>
   </article>
 
@@ -115,7 +115,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">25 Gen 2026</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Leggi: Quanto Costa un Cucciolo">Quanto Costa un Cucciolo di Staffordshire Bull Terrier nel 2026</a></h3>
   <p>Cosa include davvero il prezzo di un cucciolo, e perché diffidare dai prezzi troppo bassi.</p>
-  <a class="read" href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Quanto Costa un Cucciolo di Staffordshire Bull Terrier nel 2026">Leggi →</a>
+  <a class="read" href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Quanto Costa un Cucciolo di Staffordshire Bull Terrier nel 2026">Leggi<span class="sr-only">: Quanto Costa un Cucciolo di Staffordshire Bull Terrier nel 2026</span> →</a>
   </div>
   </article>
 
@@ -125,7 +125,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">8 Set 2026</span><span>&bull;</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Leggi: Bio Sensor, cosa dice la ricerca">Bio Sensor: cosa dice davvero la ricerca</a></h3>
   <p>Il metodo ENS, le prove che mancano, e cosa conta nelle prime otto settimane.</p>
-  <a class="read" href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Leggi articolo completo" aria-label="Leggi larticolo: Bio Sensor, cosa dice davvero la ricerca">Leggi &rarr;</a>
+  <a class="read" href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Leggi articolo completo" aria-label="Leggi larticolo: Bio Sensor, cosa dice davvero la ricerca">Leggi<span class="sr-only">: Bio Sensor, cosa dice davvero la ricerca</span> &rarr;</a>
   </div>
   </article>
 
@@ -135,7 +135,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">18 Mar 2025</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cuccioli-socializzazione-in-casa/" title="Leggi: Socializzare il cucciolo in casa">Socializzare il cucciolo in casa: la lista per la famiglia</a></h3>
   <p>Prime esperienze positive e gestione quotidiana.</p>
-  <a class="read" href="/cuccioli-socializzazione-in-casa/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Socializzare il cucciolo in casa">Leggi →</a>
+  <a class="read" href="/cuccioli-socializzazione-in-casa/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Socializzare il cucciolo in casa">Leggi<span class="sr-only">: Socializzare il cucciolo in casa</span> →</a>
   </div>
   </article>
 
@@ -145,7 +145,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">10 Giu 2025</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cuccioli-prime-vaccinazioni/" title="Leggi: Prime vaccinazioni">Prime vaccinazioni</a></h3>
   <p>Calendario e consigli pratici per iniziare bene.</p>
-  <a class="read" href="/cuccioli-prime-vaccinazioni/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Prime vaccinazioni">Leggi →</a>
+  <a class="read" href="/cuccioli-prime-vaccinazioni/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Prime vaccinazioni">Leggi<span class="sr-only">: Prime vaccinazioni</span> →</a>
   </div>
   </article>
 
@@ -155,7 +155,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">15 Apr 2025</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cuccioli-alimentazione-iniziale/" title="Leggi: Alimentazione iniziale">Alimentazione iniziale</a></h3>
   <p>Frequenza pasti, transizioni e qualità del cibo.</p>
-  <a class="read" href="/cuccioli-alimentazione-iniziale/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Alimentazione iniziale">Leggi →</a>
+  <a class="read" href="/cuccioli-alimentazione-iniziale/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Alimentazione iniziale">Leggi<span class="sr-only">: Alimentazione iniziale</span> →</a>
   </div>
   </article>
 
@@ -165,7 +165,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">22 Mag 2025</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cuccioli-educazione-bisogni/" title="Leggi: Educazione ai bisogni">Educazione ai bisogni</a></h3>
   <p>Routine, rinforzo positivo e segnali.</p>
-  <a class="read" href="/cuccioli-educazione-bisogni/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Educazione ai bisogni">Leggi →</a>
+  <a class="read" href="/cuccioli-educazione-bisogni/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Educazione ai bisogni">Leggi<span class="sr-only">: Educazione ai bisogni</span> →</a>
   </div>
   </article>
 
@@ -175,7 +175,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">8 Lug 2025</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cuccioli-gestione-solitudine/" title="Leggi: Gestione della solitudine">Gestione della solitudine</a></h3>
   <p>Prevenire ansia e abitudini scorrette.</p>
-  <a class="read" href="/cuccioli-gestione-solitudine/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Gestione della solitudine">Leggi →</a>
+  <a class="read" href="/cuccioli-gestione-solitudine/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Gestione della solitudine">Leggi<span class="sr-only">: Gestione della solitudine</span> →</a>
   </div>
   </article>
 
@@ -185,7 +185,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">3 Ago 2025</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cuccioli-giochi-mentali/" title="Leggi: Giochi mentali per cuccioli">Giochi mentali per cuccioli</a></h3>
   <p>Stimolare mente e autocontrollo in sicurezza.</p>
-  <a class="read" href="/cuccioli-giochi-mentali/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Giochi mentali per cuccioli">Leggi →</a>
+  <a class="read" href="/cuccioli-giochi-mentali/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Giochi mentali per cuccioli">Leggi<span class="sr-only">: Giochi mentali per cuccioli</span> →</a>
   </div>
   </article>
 
@@ -195,7 +195,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">17 Set 2025</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cuccioli-prima-passeggiata/" title="Leggi: Prima passeggiata al guinzaglio">Prima passeggiata al guinzaglio</a></h3>
   <p>Attrezzatura, tempi e prime regole.</p>
-  <a class="read" href="/cuccioli-prima-passeggiata/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Prima passeggiata al guinzaglio">Leggi →</a>
+  <a class="read" href="/cuccioli-prima-passeggiata/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Prima passeggiata al guinzaglio">Leggi<span class="sr-only">: Prima passeggiata al guinzaglio</span> →</a>
   </div>
   </article>
 
@@ -216,7 +216,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">9 Set 2026</span><span>&bull;</span><span class="cat">Standard</span></div>
   <h3><a href="/come-si-legge-un-pedigree/" title="Leggi: Come si legge un pedigree">Come si legge un pedigree</a></h3>
   <p>Cosa dice il certificato ENCI, cosa aggiunge SBTPedigree, e come si studia un accoppiamento.</p>
-  <a class="read" href="/come-si-legge-un-pedigree/" title="Leggi articolo completo" aria-label="Leggi larticolo: Come si legge un pedigree">Leggi &rarr;</a>
+  <a class="read" href="/come-si-legge-un-pedigree/" title="Leggi articolo completo" aria-label="Leggi larticolo: Come si legge un pedigree">Leggi<span class="sr-only">: Come si legge un pedigree</span> &rarr;</a>
   </div>
   </article>
 
@@ -226,7 +226,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">1 Ago 2026</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/colori-staffordshire-bull-terrier/" title="Leggi: I colori dello Staffy">I colori dello Staffordshire Bull Terrier: nero, tigrato, blu</a></h3>
   <p>Nero, tigrato, fulvo, blu e pezzati: quali colori ammette lo standard e cosa sapere sul blu diluito.</p>
-  <a class="read" href="/colori-staffordshire-bull-terrier/" title="Leggi articolo completo" aria-label="Leggi l'articolo: I colori dello Staffordshire Bull Terrier: nero, tigrato, blu">Leggi →</a>
+  <a class="read" href="/colori-staffordshire-bull-terrier/" title="Leggi articolo completo" aria-label="Leggi l'articolo: I colori dello Staffordshire Bull Terrier: nero, tigrato, blu">Leggi<span class="sr-only">: I colori dello Staffordshire Bull Terrier: nero, tigrato, blu</span> →</a>
   </div>
   </article>
 
@@ -236,7 +236,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">18 Gen 2026</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/staffordshire-bull-terrier-carattere/" title="Leggi: Carattere e Temperamento">Staffordshire Bull Terrier: Carattere e Temperamento</a></h3>
   <p>Il vero volto del "nanny dog" inglese, e perché il soprannome non sostituisce la sorveglianza.</p>
-  <a class="read" href="/staffordshire-bull-terrier-carattere/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Staffordshire Bull Terrier: Carattere e Temperamento">Leggi →</a>
+  <a class="read" href="/staffordshire-bull-terrier-carattere/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Staffordshire Bull Terrier: Carattere e Temperamento">Leggi<span class="sr-only">: Staffordshire Bull Terrier: Carattere e Temperamento</span> →</a>
   </div>
   </article>
 
@@ -246,7 +246,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">18 Gen 2026</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/differenza-staffy-amstaff/" title="Leggi: Staffy o Amstaff, il test dell'allevatore">Staffy o Amstaff: il test dell'allevatore</a></h3>
   <p>Sette domande su casa, bambini, esperienza e tempo per scegliere fra le due razze.</p>
-  <a class="read" href="/differenza-staffy-amstaff/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Staffy o Amstaff: il test dell'allevatore">Leggi →</a>
+  <a class="read" href="/differenza-staffy-amstaff/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Staffy o Amstaff: il test dell'allevatore">Leggi<span class="sr-only">: Staffy o Amstaff: il test dell'allevatore</span> →</a>
   </div>
   </article>
 
@@ -256,7 +256,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">19 Nov 2025</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/differenza-staffy-pitbull-amstaff/" title="Leggi: Differenza Staffy Pitbull Amstaff">Differenza tra Staffordshire Bull Terrier, Pitbull e Amstaff</a></h3>
   <p>Guida completa: origini, standard FCI, taglia, carattere e riconoscimento.</p>
-  <a class="read" href="/differenza-staffy-pitbull-amstaff/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Differenza tra Staffordshire Bull Terrier, Pitbull e Amstaff">Leggi →</a>
+  <a class="read" href="/differenza-staffy-pitbull-amstaff/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Differenza tra Staffordshire Bull Terrier, Pitbull e Amstaff">Leggi<span class="sr-only">: Differenza tra Staffordshire Bull Terrier, Pitbull e Amstaff</span> →</a>
   </div>
   </article>
 
@@ -266,7 +266,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">8 Nov 2025</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/linee-sangue-staffordshire-bull-terrier/" title="Leggi: Storia delle linee di sangue">Storia delle linee di sangue dello Staffy</a></h3>
   <p>Storia delle 6 linee fondatrici e allevamenti moderni UK/Irlanda.</p>
-  <a class="read" href="/linee-sangue-staffordshire-bull-terrier/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Linee di Sangue Staffordshire Bull Terrier">Leggi →</a>
+  <a class="read" href="/linee-sangue-staffordshire-bull-terrier/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Linee di Sangue Staffordshire Bull Terrier">Leggi<span class="sr-only">: Linee di Sangue Staffordshire Bull Terrier</span> →</a>
   </div>
   </article>
 
@@ -276,7 +276,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">12 Feb 2025</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/standard-tipicita-morfologia/" title="Leggi: Tipicità di razza e morfologia">Tipicità di razza e morfologia</a></h3>
   <p>Punti chiave dello standard e interpretazione.</p>
-  <a class="read" href="/standard-tipicita-morfologia/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Tipicità di razza e morfologia">Leggi →</a>
+  <a class="read" href="/standard-tipicita-morfologia/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Tipicità di razza e morfologia">Leggi<span class="sr-only">: Tipicità di razza e morfologia</span> →</a>
   </div>
   </article>
 
@@ -286,7 +286,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">5 Mar 2025</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/standard-linee-di-sangue-orientarsi/" title="Leggi: Come scegliere la linea di sangue">Come scegliere la linea di sangue di un cucciolo</a></h3>
   <p>Scelta consapevole tra genealogie e obiettivi.</p>
-  <a class="read" href="/standard-linee-di-sangue-orientarsi/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Linee di sangue: come orientarsi">Leggi →</a>
+  <a class="read" href="/standard-linee-di-sangue-orientarsi/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Linee di sangue: come orientarsi">Leggi<span class="sr-only">: Linee di sangue: come orientarsi</span> →</a>
   </div>
   </article>
   </div>
@@ -306,7 +306,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">28 Dic 2025</span><span>•</span><span class="cat">Salute</span></div>
   <h3><a href="/boas-staffordshire-bull-terrier-respirazione/" title="Leggi: BOAS e Respirazione">BOAS: Perché la Respirazione Conta</a></h3>
   <p>Sindrome brachicefalica: cos'è, sintomi, prevenzione e selezione responsabile.</p>
-  <a class="read" href="/boas-staffordshire-bull-terrier-respirazione/" title="Leggi articolo completo" aria-label="Leggi l'articolo: BOAS: Perché la Respirazione Conta">Leggi →</a>
+  <a class="read" href="/boas-staffordshire-bull-terrier-respirazione/" title="Leggi articolo completo" aria-label="Leggi l'articolo: BOAS: Perché la Respirazione Conta">Leggi<span class="sr-only">: BOAS: Perché la Respirazione Conta</span> →</a>
   </div>
   </article>
 
@@ -316,7 +316,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">20 Nov 2025</span><span>•</span><span class="cat">Salute</span></div>
   <h3><a href="/test-genetici-l2hga-hc-staffy/" title="Leggi: Test Genetici L2HGA e HC">Test Genetici L2HGA e HC: Guida Completa</a></h3>
   <p>Cosa sono, come leggerli, dove farli e perché sono fondamentali.</p>
-  <a class="read" href="/test-genetici-l2hga-hc-staffy/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Test Genetici L2HGA e HC: Guida Completa">Leggi →</a>
+  <a class="read" href="/test-genetici-l2hga-hc-staffy/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Test Genetici L2HGA e HC: Guida Completa">Leggi<span class="sr-only">: Test Genetici L2HGA e HC: Guida Completa</span> →</a>
   </div>
   </article>
 
@@ -326,7 +326,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">20 Gen 2025</span><span>•</span><span class="cat">Salute</span></div>
   <h3><a href="/salute-parassiti-prevenzione/" title="Leggi: Parassiti prevenzione e controllo">Parassiti: prevenzione e controllo</a></h3>
   <p>Pulci, zecche e protocolli stagionali.</p>
-  <a class="read" href="/salute-parassiti-prevenzione/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Parassiti: prevenzione e controllo">Leggi →</a>
+  <a class="read" href="/salute-parassiti-prevenzione/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Parassiti: prevenzione e controllo">Leggi<span class="sr-only">: Parassiti: prevenzione e controllo</span> →</a>
   </div>
   </article>
 
@@ -336,7 +336,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">14 Apr 2025</span><span>•</span><span class="cat">Salute</span></div>
   <h3><a href="/salute-denti-igiene/" title="Leggi: Igiene orale e denti">Igiene orale e denti</a></h3>
   <p>Pulizia, masticazione e prevenzione tartaro.</p>
-  <a class="read" href="/salute-denti-igiene/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Igiene orale e denti">Leggi →</a>
+  <a class="read" href="/salute-denti-igiene/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Igiene orale e denti">Leggi<span class="sr-only">: Igiene orale e denti</span> →</a>
   </div>
   </article>
 
@@ -346,7 +346,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">28 Giu 2025</span><span>•</span><span class="cat">Salute</span></div>
   <h3><a href="/salute-esercizio-sicuro/" title="Leggi: Esercizio fisico in sicurezza">Esercizio fisico in sicurezza</a></h3>
   <p>Carichi adeguati per età e stagione.</p>
-  <a class="read" href="/salute-esercizio-sicuro/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Esercizio fisico in sicurezza">Leggi →</a>
+  <a class="read" href="/salute-esercizio-sicuro/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Esercizio fisico in sicurezza">Leggi<span class="sr-only">: Esercizio fisico in sicurezza</span> →</a>
   </div>
   </article>
   </div>
@@ -366,7 +366,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">27 Set 2026</span><span>&bull;</span><span class="cat">Famiglia</span></div>
   <h3><a href="/staffordshire-in-famiglia-storie/" title="Leggi: Staffordshire Bull Terrier in famiglia: dove sono oggi i nostri cani">Staffordshire Bull Terrier in famiglia: dove sono oggi i nostri cani</a></h3>
   <p>Dieci cani nati qui, anni dopo l'affido: in famiglia, al lavoro, in esposizione.</p>
-  <a class="read" href="/staffordshire-in-famiglia-storie/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Staffordshire Bull Terrier in famiglia: dove sono oggi i nostri cani">Leggi &rarr;</a>
+  <a class="read" href="/staffordshire-in-famiglia-storie/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Staffordshire Bull Terrier in famiglia: dove sono oggi i nostri cani">Leggi<span class="sr-only">: Staffordshire Bull Terrier in famiglia: dove sono oggi i nostri cani</span> &rarr;</a>
   </div>
   </article>
 
@@ -376,7 +376,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">1 Ago 2026</span><span>•</span><span class="cat">Famiglia</span></div>
   <h3><a href="/staffordshire-bull-terrier-e-il-cane-giusto-per-te/" title="Leggi: È il cane giusto per te?">Lo Staffordshire Bull Terrier è il cane giusto per te? Pro e contro</a></h3>
   <p>Pro e contro onesti, a chi è adatto e a chi no, impegno e costi reali prima di scegliere.</p>
-  <a class="read" href="/staffordshire-bull-terrier-e-il-cane-giusto-per-te/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Lo Staffordshire Bull Terrier è il cane giusto per te? Pro e contro">Leggi →</a>
+  <a class="read" href="/staffordshire-bull-terrier-e-il-cane-giusto-per-te/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Lo Staffordshire Bull Terrier è il cane giusto per te? Pro e contro">Leggi<span class="sr-only">: Lo Staffordshire Bull Terrier è il cane giusto per te? Pro e contro</span> →</a>
   </div>
   </article>
 
@@ -386,7 +386,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">7 Feb 2025</span><span>•</span><span class="cat">Famiglia</span></div>
   <h3><a href="/famiglia-bambini-convivenza/" title="Leggi: Convivenza con bambini">Convivenza con bambini</a></h3>
   <p>Regole chiare e interazioni sicure.</p>
-  <a class="read" href="/famiglia-bambini-convivenza/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Convivenza con bambini">Leggi →</a>
+  <a class="read" href="/famiglia-bambini-convivenza/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Convivenza con bambini">Leggi<span class="sr-only">: Convivenza con bambini</span> →</a>
   </div>
   </article>
 
@@ -396,7 +396,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">19 Mag 2025</span><span>•</span><span class="cat">Famiglia</span></div>
   <h3><a href="/famiglia-anziani-rispetto-ritmi/" title="Leggi: Con persone anziane">Con persone anziane: rispetto dei ritmi</a></h3>
   <p>Routine tranquille e supporti utili.</p>
-  <a class="read" href="/famiglia-anziani-rispetto-ritmi/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Con persone anziane: rispetto dei ritmi">Leggi →</a>
+  <a class="read" href="/famiglia-anziani-rispetto-ritmi/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Con persone anziane: rispetto dei ritmi">Leggi<span class="sr-only">: Con persone anziane: rispetto dei ritmi</span> →</a>
   </div>
   </article>
 
@@ -406,7 +406,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">11 Ago 2025</span><span>•</span><span class="cat">Famiglia</span></div>
   <h3><a href="/famiglia-convivenza-altri-animali/" title="Leggi: Convivenza con altri animali">Convivenza con altri animali</a></h3>
   <p>Inserimenti graduali e gestione degli spazi.</p>
-  <a class="read" href="/famiglia-convivenza-altri-animali/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Convivenza con altri animali">Leggi →</a>
+  <a class="read" href="/famiglia-convivenza-altri-animali/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Convivenza con altri animali">Leggi<span class="sr-only">: Convivenza con altri animali</span> →</a>
   </div>
   </article>
 
@@ -416,7 +416,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">2 Nov 2025</span><span>•</span><span class="cat">Famiglia</span></div>
   <h3><a href="/famiglia-viaggi-spostamenti/" title="Leggi: Viaggi e spostamenti">Viaggi e spostamenti</a></h3>
   <p>Auto, treno e pernottamenti sereni.</p>
-  <a class="read" href="/famiglia-viaggi-spostamenti/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Viaggi e spostamenti">Leggi →</a>
+  <a class="read" href="/famiglia-viaggi-spostamenti/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Viaggi e spostamenti">Leggi<span class="sr-only">: Viaggi e spostamenti</span> →</a>
   </div>
   </article>
 
@@ -426,7 +426,7 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">28 Apr 2026</span><span>•</span><span class="cat">Famiglia</span></div>
   <h3><a href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Leggi: Carattere e vita in famiglia">Staffordshire Bull Terrier: Carattere, Vita in Famiglia e Cosa Aspettarsi</a></h3>
   <p>Con la razza dal 2005. Pregi, difetti e cosa aspettarsi davvero da uno Staffy.</p>
-  <a class="read" href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Staffordshire Bull Terrier: Carattere, Vita in Famiglia e Cosa Aspettarsi">Leggi →</a>
+  <a class="read" href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Staffordshire Bull Terrier: Carattere, Vita in Famiglia e Cosa Aspettarsi">Leggi<span class="sr-only">: Staffordshire Bull Terrier: Carattere, Vita in Famiglia e Cosa Aspettarsi</span> →</a>
   </div>
   </article>
   </div>
