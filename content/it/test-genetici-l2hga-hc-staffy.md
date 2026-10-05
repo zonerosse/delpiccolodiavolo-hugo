@@ -142,14 +142,9 @@ custom_content: |
   
   <h3>Il Prelievo del Campione</h3>
   
-  <p>Il test richiede solo un campione di DNA, che può essere ottenuto in due modi:</p>
+  <p>Il test si fa su un campione di DNA: un tampone sulla guancia o un piccolo prelievo di sangue, fatto preferibilmente dal veterinario, che nello stesso momento verifica il microchip del cane. Così il campione è legato senza dubbi a quell'animale.</p>
   
-  <ul>
-  <li><strong>Tampone buccale (swab):</strong> Il metodo più comune. Si strofina un bastoncino con cotone all'interno della guancia del cane per raccogliere cellule. È indolore e può essere fatto a casa.</li>
-  <li><strong>Prelievo di sangue:</strong> Effettuato dal veterinario. Meno comune per questi test specifici.</li>
-  </ul>
-  
-  <p>Il campione viene inviato a un laboratorio accreditato che analizza il DNA ed emette un certificato ufficiale con il risultato.</p>
+  <p>Il campione va a un laboratorio accreditato, che emette un certificato con il numero di microchip del cane. Il risultato arriva in 2-4 settimane e vale per tutta la vita: il DNA non cambia, quindi un cane si testa una volta sola.</p>
   
   <h3>I Laboratori Accreditati</h3>
   
@@ -180,17 +175,17 @@ custom_content: |
   <tr>
   <td><strong>CLEAR</strong> (o Normal, -/-)</td>
   <td>Nessuna copia del gene mutato. Il cane è sano e non trasmetterà la malattia.</td>
-  <td>✅ Sì, con qualsiasi partner</td>
+  <td>✅ Sì. Da noi solo con un altro CLEAR</td>
   </tr>
   <tr>
   <td><strong>CARRIER</strong> (o Heterozygous, +/-)</td>
   <td>Una copia del gene mutato. Il cane è sano ma può trasmettere il gene.</td>
-  <td>✅ Sì, ma SOLO con partner CLEAR</td>
+  <td>⚠️ Tecnicamente sì con un CLEAR, ma metà della cucciolata nasce portatrice. Da noi no</td>
   </tr>
   <tr>
   <td><strong>AFFECTED</strong> (o Homozygous, +/+)</td>
   <td>Due copie del gene mutato. Il cane svilupperà la malattia.</td>
-  <td>❌ No, non dovrebbe riprodursi</td>
+  <td>❌ No, mai</td>
   </tr>
   </tbody>
   </table>
@@ -215,34 +210,16 @@ custom_content: |
   
   <p>Quando cerchi un cucciolo di Staffordshire Bull Terrier, i test genetici sono uno dei criteri fondamentali per valutare la serietà dell'allevatore. Ecco cosa chiedere e cosa pretendere.</p>
   
-  <h3>Documenti da Richiedere</h3>
-  
-  <ol>
-  <li><strong>Certificati originali dei test L2-HGA e HC</strong> per ENTRAMBI i genitori</li>
-  <li>I certificati devono essere emessi da laboratori riconosciuti</li>
-  <li>Devono riportare il numero di microchip o tatuaggio del cane testato</li>
-  <li>Verifica gli esiti: <strong>CLEAR per entrambi i genitori</strong> è l'unica combinazione che non lascia portatori nella cucciolata</li>
-  </ol>
-  
   <figure class="article-image img-left">
   <img src="/images/cucciolo-rosso.webp" alt="Cucciolo di Staffy sano" loading="lazy" decoding="async" width="280" height="320">
   <figcaption>Cucciolo sano da genitori testati</figcaption>
   </figure>
   
-  <h3>Bandiere Rosse: Quando Diffidare</h3>
+  <p>Chiedi i certificati di laboratorio di entrambi i genitori, come documenti, con il nome dei cani, il numero di microchip e il nome del laboratorio leggibili: sono il laboratorio accreditato e il microchip che corrisponde al cane a rendere valido un referto. Un allevatore serio li manda senza esitare, e spesso prima che tu li chieda.</p>
   
-  <ul>
-  <li>"I miei cani sono sani, non servono test" - Un allevatore serio testa SEMPRE</li>
-  <li>"I test costano troppo" - Circa 400€ per cane fra laboratorio, prelievo e spedizione: niente rispetto a un cane</li>
-  <li>"La linea è pulita da generazioni" - Senza certificati, sono solo parole</li>
-  <li>"Te li mando dopo" - I certificati devono essere disponibili PRIMA di prendere il cucciolo</li>
-  <li>Certificati illeggibili, fotocopiati male o senza microchip verificabile</li>
-  </ul>
+  <p>Diffida della frase «i genitori sono sani, non hanno mai avuto problemi», che risponde a un'altra domanda; dei certificati che arriveranno «dopo»; del rifiuto di mostrarli prima di prendere il cucciolo; dei risultati mostrati solo come screenshot o messaggio; e dell'idea che il test non serva «perché le nostre linee non l'hanno mai avuto». Nessuna linea è esente da una mutazione recessiva finché non viene testata.</p>
   
-  <div class="callout">
-  <p class="callout-title">💡 Il Nostro Approccio</p>
-  <p>Nel nostro allevamento Del Piccolo Diavolo, tutti i riproduttori sono testati <strong>L2-HGA CLEAR</strong> e <strong>HC CLEAR</strong>. I certificati originali sono sempre disponibili per la consultazione e vengono forniti in copia ai nuovi proprietari. Non abbiamo mai prodotto e non produrremo mai un cucciolo a rischio di queste patologie.</p>
-  </div>
+  <p>Nell'allevamento Del Piccolo Diavolo i riproduttori sono testati, o esenti per via parentale con i referti dei genitori. I referti, con il numero di microchip, sono pubblicati sulle schede dei cani.</p>
   
   <h2>Ereditarietà "By Parentage": Cosa Significa</h2>
   
@@ -258,7 +235,7 @@ custom_content: |
   <li>Il registro abbia confermato lo status "hereditary clear"</li>
   </ul>
   
-  <p>Se intendi usare un cane per la riproduzione, è comunque consigliabile effettuare il test diretto per avere un certificato a proprio nome.</p>
+  <p>Dipende però interamente dalla correttezza del pedigree: vale per una generazione, e cade se una paternità è sbagliata. Se intendi usare un cane per la riproduzione, è comunque consigliabile effettuare il test diretto per avere un certificato a proprio nome.</p>
   
   <h2>Altri Test e Controlli Sanitari</h2>
   
@@ -268,7 +245,7 @@ custom_content: |
   
   <p>L'esame oculistico <strong>ECVO</strong> (European College of Veterinary Ophthalmologists) è un controllo clinico effettuato da un veterinario oculista certificato. A differenza del test genetico HC (che rileva la predisposizione), l'esame ECVO verifica lo stato attuale degli occhi del cane.</p>
   
-  <p>L'esame ECVO può rilevare: cataratte già presenti, distrofia corneale, atrofia progressiva della retina (PRA), altre anomalie oculari.</p>
+  <p>L'esame ECVO può rilevare: cataratte già presenti, distichiasi, distrofia corneale, atrofia progressiva della retina (PRA), altre anomalie oculari.</p>
   
   <h3>Displasia dell'Anca e del Gomito</h3>
   
@@ -277,6 +254,10 @@ custom_content: |
   <h3>Test Cardiaci</h3>
   
   <p>Alcuni allevatori effettuano ecocardiogrammi per escludere cardiopatie congenite come la stenosi aortica o polmonare, rare ma presenti nella razza.</p>
+  
+  <h3>La Respirazione</h3>
+  
+  <p>Sempre più spesso si valuta anche la respirazione. Lo Staffordshire Bull Terrier non è una razza brachicefala, ma la tendenza a musi sempre più corti in alcune linee da esposizione ha conseguenze: un cane che fatica con il caldo o dopo un esercizio moderato ha un problema di benessere, per quanto stia bene da fermo. Se ne parla nella guida sulla <a href="/boas-staffordshire-bull-terrier-respirazione/" title="BOAS e respirazione nello Staffordshire Bull Terrier">respirazione dello Staffy</a>.</p>
   
   <div class="blue-box">
   <p class="blue-box-title">📋 Checklist Controlli Sanitari Allevatore Serio</p>

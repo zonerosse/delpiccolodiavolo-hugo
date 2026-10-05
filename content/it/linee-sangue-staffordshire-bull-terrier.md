@@ -81,7 +81,7 @@ custom_content: |
   
   <div class="alert">
   <p class="alert-title">⚠️ Attenzione all'Inbreeding</p>
-  <p>L'importanza storica di Gentleman Jim ha un lato negativo: la sua presenza ubiqua nei pedigree moderni ha ridotto la diversità genetica della razza. Per questo motivo, <strong>il nostro allevamento</strong> testa tutti i riproduttori per L2-HGA e HC, e le fattrici anche per la mielopatia degenerativa (DM-SOD1).</p>
+  <p>L'importanza storica di Gentleman Jim ha un lato negativo: la sua presenza ubiqua nei pedigree moderni ha ridotto la diversità genetica della razza. Per questo motivo, <strong>il nostro allevamento</strong> testa tutti i riproduttori per L2-HGA e HC, o li verifica esenti per via parentale con i referti dei genitori, e le fattrici anche per la mielopatia degenerativa (DM-SOD1).</p>
   </div>
   
   <h2>Le Sei Linee Fondatrici: Analisi Dettagliata</h2>

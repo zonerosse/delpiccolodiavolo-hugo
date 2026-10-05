@@ -106,9 +106,19 @@ custom_content: |
   <p>The sample is a cheek swab or a blood draw taken by a vet, sent to the laboratory, and the certificate comes back with the dog's microchip number on it. That number is what ties the result to a specific animal — a certificate without one proves nothing about the dog in front of you.</p>
 
   <h2>Reading the results</h2>
-  <p><strong>Clear</strong> means the dog has two normal copies of the gene. It cannot develop the disease and cannot pass the mutation to its offspring.</p>
-  <p><strong>Carrier</strong> means the dog has one normal copy and one mutated copy. It will never develop the disease itself. Mated to a clear dog it produces no affected puppies, but half the litter will be carriers in turn, and those carriers go to families who may one day breed them: the problem is moved one generation down. That is why carriers are not bred at Del Piccolo Diavolo.</p>
-  <p><strong>Affected</strong> means two mutated copies. The dog will develop the disease and must never be bred.</p>
+  <p>Results are expressed in standard terms:</p>
+
+  <table>
+  <thead>
+  <tr><th>Result</th><th>Meaning</th><th>Can it be bred?</th></tr>
+  </thead>
+  <tbody>
+  <tr><td><strong>CLEAR</strong> (or Normal, -/-)</td><td>No copy of the mutated gene. The dog is healthy and will not pass on the disease.</td><td>✅ Yes. Here only with another CLEAR</td></tr>
+  <tr><td><strong>CARRIER</strong> (or Heterozygous, +/-)</td><td>One copy of the mutated gene. The dog is healthy but can pass on the gene.</td><td>⚠️ Technically yes with a CLEAR, but half the litter is born carrier. Not here</td></tr>
+  <tr><td><strong>AFFECTED</strong> (or Homozygous, +/+)</td><td>Two copies of the mutated gene. The dog will develop the disease.</td><td>❌ No, never</td></tr>
+  </tbody>
+  </table>
+
   <p>The single rule that makes the arithmetic safe is this: <strong>carrier to carrier must never happen</strong>. That mating produces, statistically, one affected puppy in four. Everything else is manageable.</p>
 
     <h3>The arithmetic of a mating</h3>
@@ -131,19 +141,44 @@ custom_content: |
 
   <h2>Testing by parentage</h2>
   <p>You will often see a pedigree stating that a dog is clear "by parentage" or "hereditarily clear". This means the dog itself has not been tested, but both its parents were tested clear, which makes it genetically impossible for the dog to carry the mutation.</p>
-  <p>This is legitimate and accepted by kennel clubs, but it depends entirely on the accuracy of the pedigree. It is valid for 1 generation and it collapses if a parentage is wrong. For a dog that will be used in breeding, we prefer a direct test regardless of what the parents' certificates say. For a pet puppy, clear by parentage from two directly tested parents is perfectly reassuring.</p>
+  <p>This is legitimate and accepted by kennel clubs, but it depends entirely on the accuracy of the pedigree. It is valid for 1 generation and it collapses if a parentage is wrong. For a dog that will be used for breeding, a direct test is still advisable, so that it has a certificate in its own name. For a pet puppy, clear by parentage from two directly tested parents is perfectly reassuring.</p>
 
   <h2>What to ask the breeder, and what should worry you</h2>
   <figure class="article-image img-left">
   <img src="/images/cucciolo-rosso.webp" alt="Healthy Staffordshire Bull Terrier puppy" loading="lazy" decoding="async" width="280" height="320">
   <figcaption>A healthy puppy from tested parents</figcaption>
   </figure>
-  <p>Ask for the laboratory certificates of both parents, as documents, with the dogs' names, microchip numbers and the laboratory's name legible. A serious breeder sends them without hesitation and often before you ask.</p>
+  <p>Ask for the laboratory certificates of both parents, as documents, with the dogs' names, microchip numbers and the laboratory's name legible: an accredited laboratory and a microchip that matches the dog are what make a report valid. A serious breeder sends them without hesitation and often before you ask.</p>
   <p>Be wary of any of the following: the phrase "the parents are healthy, they have never had problems", which addresses a different question entirely; certificates you are told you will receive later; a refusal to show the certificates before the puppy goes home; results shown only as a screenshot or a message; and the claim that testing is unnecessary "because our lines have never had it". No line is exempt from a recessive mutation until it is tested.</p>
+  <p>At Del Piccolo Diavolo the breeding dogs are tested, or clear by parentage with their parents' reports. The reports, with the microchip number, are published on the dogs' pages.</p>
 
   <h2>Beyond the two DNA tests</h2>
-  <p>Genetic testing is the floor, not the ceiling. Serious breeding programmes in this breed also include an annual ophthalmological examination by an ECVO specialist, which detects conditions not covered by DNA tests such as distichiasis; official hip and elbow scoring, which matters more in this breed than is generally admitted; and a cardiac examination for the heart conditions that occasionally appear in bull breeds.</p>
-  <p>Increasingly, breathing quality is being assessed as well. The Staffordshire Bull Terrier is not a brachycephalic breed, but the tendency towards ever shorter muzzles in some show lines has consequences, and a dog that struggles in warm weather or after moderate exercise has a welfare problem regardless of how it looks standing still.</p>
+  <p>Besides L2-HGA and HC, a serious kennel carries out other health checks on its breeding dogs.</p>
+
+  <h3>Eye examinations (ECVO)</h3>
+  <p>The <strong>ECVO</strong> eye examination (European College of Veterinary Ophthalmologists) is a clinical check carried out by a certified veterinary ophthalmologist. Unlike the HC genetic test, which detects the predisposition, the ECVO examination checks the current state of the dog's eyes.</p>
+  <p>The ECVO examination can detect cataracts already present, distichiasis, corneal dystrophy, progressive retinal atrophy (PRA) and other eye abnormalities.</p>
+
+  <h3>Hip and elbow dysplasia</h3>
+  <p>Although the Staffy is not among the breeds most affected by dysplasia, some breeders have official X-rays taken. In Italy the official reading is carried out by the FSA (Fondazione Salute Animale) or by Ce.Le.Ma.Sche.</p>
+
+  <h3>Heart tests</h3>
+  <p>Some breeders have echocardiograms carried out to rule out congenital heart conditions such as aortic or pulmonary stenosis, rare but present in the breed.</p>
+
+  <h3>Breathing</h3>
+  <p>Increasingly, breathing quality is being assessed as well. The Staffordshire Bull Terrier is not a brachycephalic breed, but the tendency towards ever shorter muzzles in some show lines has consequences, and a dog that struggles in warm weather or after moderate exercise has a welfare problem regardless of how it looks standing still. More on this in the guide to <a href="/en/boas-staffordshire-bull-terrier-breathing/" title="BOAS and breathing in the Staffordshire Bull Terrier">breathing in the Staffy</a>.</p>
+
+  <div class="blue-box">
+  <p class="blue-box-title">📋 Health checklist for a serious breeder</p>
+  <p>✅ L2-HGA DNA test, both parents CLEAR<br>
+  ✅ HC DNA test, both parents CLEAR<br>
+  ✅ ECVO eye examination (annual, recommended)<br>
+  ⭐ Dysplasia X-rays (optional but welcome)<br>
+  ⭐ Echocardiogram (optional but welcome)<br>
+  ✅ ENCI pedigree with a verifiable lineage<br>
+  ✅ Registered microchip<br>
+  ✅ Complete vaccinations and health record</p>
+  </div>
 
   <h2>The cost of prevention against the cost of the disease</h2>
   <p>Testing costs around 400 euros per dog, once. The lifetime cost of an L2-HGA affected dog runs into thousands, and the cost of cataract surgery for one eye is comparable to the price of the puppy. But the arithmetic is not really the point. The point is that a family who chose a healthy breed and paid for a pedigree puppy should never be put in that position, when a swab and 3 weeks of waiting would have prevented it entirely.</p>

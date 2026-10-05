@@ -5,7 +5,7 @@ og_image_alt: "FAQ Staffordshire Bull Terrier: le domande più frequenti — All
 thumb: "/images/blog/icone/faq-sullo-staffordshire-bull-terrier.webp"
 titleSeo: "FAQ Staffordshire Bull Terrier: le domande più frequenti"
 date: 2025-12-28
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "faq"
 description: "Risposte alle domande più frequenti sullo Staffordshire Bull Terrier: carattere, salute, cuccioli ENCI, costi, alimentazione, addestramento."
 slug: "faq-sullo-staffordshire-bull-terrier"
@@ -72,7 +72,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quali test genetici servono allo Staffordshire Bull Terrier?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Lo Staffordshire Bull Terrier ha tre patologie ereditarie principali per cui esiste un test del DNA: L2-HGA, cioè l'aciduria L-2-idrossiglutarica, una malattia neurologica; HC, la cataratta ereditaria giovanile (gene HSF4); e la mielopatia degenerativa (gene SOD1), una malattia del midollo spinale che compare dopo gli otto anni. Si controllano tutte con un test del DNA su tampone salivare o sangue. Sono tutte a trasmissione recessiva: due genitori esenti non possono produrre cuccioli malati, ed è il motivo per cui il test sui riproduttori conta più di qualsiasi garanzia scritta. Tutti i riproduttori di Del Piccolo Diavolo sono testati per L2-HGA e HC, e le fattrici anche per la mielopatia degenerativa, e i referti di laboratorio sono pubblicati sul sito con il numero di microchip del cane a cui si riferiscono: chiunque può scaricarli e controllarli, senza doverli chiedere. Ogni cucciolo parte con i certificati dei test dei genitori.</div>
+  <div class="faq-answer">Lo Staffordshire Bull Terrier ha tre patologie ereditarie principali per cui esiste un test del DNA: L2-HGA, cioè l'aciduria L-2-idrossiglutarica, una malattia neurologica; HC, la cataratta ereditaria giovanile (gene HSF4); e la mielopatia degenerativa (gene SOD1), una malattia del midollo spinale che compare dopo gli otto anni. Si controllano tutte con un test del DNA su tampone salivare o sangue. Sono tutte a trasmissione recessiva: due genitori esenti non possono produrre cuccioli malati, ed è il motivo per cui il test sui riproduttori conta più di qualsiasi garanzia scritta. Tutti i riproduttori di Del Piccolo Diavolo sono testati per L2-HGA e HC, o esenti per via parentale con i referti dei genitori, e le fattrici anche per la mielopatia degenerativa, e i referti di laboratorio sono pubblicati sul sito con il numero di microchip del cane a cui si riferiscono: chiunque può scaricarli e controllarli, senza doverli chiedere. Ogni cucciolo parte con i certificati dei test dei genitori.</div>
   </div>
   
   <div class="faq-item active">

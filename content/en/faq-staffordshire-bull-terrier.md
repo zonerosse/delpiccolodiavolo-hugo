@@ -4,7 +4,7 @@ og_image: "/images/og/schede/en/faq-staffordshire-bull-terrier.jpg"
 og_image_alt: "Staffordshire Bull Terrier FAQ - Frequently Asked Questions — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/faq-sullo-staffordshire-bull-terrier.webp"
 date: 2025-12-28
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "faq"
 description: "Staffordshire Bull Terrier FAQ from a breeder: temperament, children and other dogs, health tests, lifespan, cost and how to choose a breeder."
 slug: "faq-staffordshire-bull-terrier"
@@ -70,7 +70,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Which genetic tests does the Staffordshire Bull Terrier need?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">The Staffordshire Bull Terrier has three main inherited diseases for which a DNA test exists: L2-HGA, L-2-hydroxyglutaric aciduria, a neurological disease; HC, juvenile hereditary cataract (HSF4 gene); and degenerative myelopathy (SOD1 gene), a spinal cord disease that appears after eight years of age. All three are checked with a DNA test on a saliva swab or blood. All are recessive: two clear parents cannot produce affected puppies, which is why testing the breeding dogs counts for more than any written guarantee. All Del Piccolo Diavolo breeding dogs are tested for L2-HGA and HC, the breeding females for degenerative myelopathy as well, and the laboratory reports are published on the site with the microchip number of the dog they refer to: anyone can download and check them without having to ask. Every puppy leaves with the certificates of its parents' tests.</div>
+  <div class="faq-answer">The Staffordshire Bull Terrier has three main inherited diseases for which a DNA test exists: L2-HGA, L-2-hydroxyglutaric aciduria, a neurological disease; HC, juvenile hereditary cataract (HSF4 gene); and degenerative myelopathy (SOD1 gene), a spinal cord disease that appears after eight years of age. All three are checked with a DNA test on a saliva swab or blood. All are recessive: two clear parents cannot produce affected puppies, which is why testing the breeding dogs counts for more than any written guarantee. All Del Piccolo Diavolo breeding dogs are tested for L2-HGA and HC, or clear by parentage with their parents' reports; the breeding females for degenerative myelopathy as well, and the laboratory reports are published on the site with the microchip number of the dog they refer to: anyone can download and check them without having to ask. Every puppy leaves with the certificates of its parents' tests.</div>
   </div>
   
   <div class="faq-item active">

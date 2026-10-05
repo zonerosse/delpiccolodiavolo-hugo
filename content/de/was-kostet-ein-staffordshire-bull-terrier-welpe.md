@@ -1,6 +1,6 @@
 ---
 title: "Was kostet ein Staffordshire Bull Terrier Welpe 2026"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 articolo: true
 image: "/images/blog/scontrino-farmaci-cucciolata.webp"
 og_image: "/images/og/schede/de/was-kostet-ein-staffordshire-bull-terrier-welpe.jpg"
@@ -46,24 +46,37 @@ Dieser Beitrag erklärt genau, was in diesem Preis enthalten ist, was uns ein Wu
 
 ## Was im Preis eines gut aufgezogenen Welpen enthalten ist
 
+Ein Teil dieses Preises hängt nicht von der Zucht ab: Die Eintragung eines Wurfs ins Zuchtbuch hat Gebühren, die das <a href="https://www.enci.it/libro-genealogico" target="_blank" rel="noopener" aria-label="ENCI, italienisches Zuchtbuch (wird in einem neuen Tab geöffnet)">ENCI</a> festlegt und die für alle gleich sind; dazu kommen die Gentests der Zuchttiere und die Tierarztkosten.
+
 Beim Kauf von einer verantwortungsvollen Zucht sind enthalten:
 
-**Dokumente und Registrierungen:**
-- ENCI-Ahnentafel (Eintragungsurkunde des <a href="https://www.enci.it/libro-genealogico" target="_blank" rel="noopener" aria-label="ENCI, italienisches Zuchtbuch (wird in einem neuen Tab geöffnet)">italienischen Zuchtbuchs</a>)
-- Bereits implantierter und registrierter Mikrochip
-- Vollständiger Impfpass
-- Schriftlicher Vermittlungsvertrag mit Garantien
-
-**Gesundheit und Vorsorge:**
-- Erste Impfungen, mindestens zwei Auffrischungen
-- Vollständige Entwurmung
-- Tierärztliche Untersuchung vor der Abgabe
-- Beide Elterntiere per DNA auf L2HGA und HC getestet, die beiden Erbkrankheiten der Rasse
-
-**Betreuung:**
-- Ein Gespräch vor dem Kauf, um zu klären, ob ein Staffy wirklich zu Ihnen passt
-- Ein Startpaket mit Futterprobe und Fütterungsempfehlungen
-- Betreuung für das ganze Hundeleben
+<table>
+<thead>
+<tr><th>Bereich</th><th>Was enthalten ist</th><th>Wie man es prüft</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Dokumente</strong></td>
+<td>ENCI-Ahnentafel, implantierter und registrierter Mikrochip, Impfpass, schriftlicher Vermittlungsvertrag</td>
+<td>Originale beim Besuch in der Hand, keine Fotokopien</td>
+</tr>
+<tr>
+<td><strong>Gesundheit</strong></td>
+<td>Erste Impfungen mit mindestens zwei Auffrischungen, Entwurmungen, tierärztliche Untersuchung vor der Übergabe</td>
+<td>Daten und Stempel im Impfpass</td>
+</tr>
+<tr>
+<td><strong>Genetik der Eltern</strong></td>
+<td>DNA-Tests auf L2HGA und HC bei beiden Zuchttieren, oder frei durch Abstammung mit den Befunden ihrer Eltern</td>
+<td>Laborbefund mit der Mikrochipnummer des Hundes oder seiner Eltern</td>
+</tr>
+<tr>
+<td><strong>Betreuung</strong></td>
+<td>Ein Gespräch vor der Vermittlung, ein Vorrat seines gewohnten Futters mit Hinweisen zu den Mahlzeiten, Betreuung für das ganze Hundeleben</td>
+<td>Man erkennt sie an den Fragen, die die Zucht Ihnen stellt</td>
+</tr>
+</tbody>
+</table>
 
 Nichts davon ist optional. Es ist das Minimum, das eine seriöse Zucht garantieren muss.
 
@@ -165,58 +178,65 @@ Der billig gekaufte Welpe kann leicht zum Hund werden, der Tausende an Tierarztk
 
 ## Der Unterschied, den man im Preis nicht sieht
 
-Der Preis eines Welpen bezahlt nicht nur Impfungen und Papiere. Er bezahlt eine völlig andere Art zu züchten.
+Der Preis eines Welpen bezahlt nicht nur Impfungen und Ahnentafel. Er bezahlt eine völlig andere Art zu züchten.
 
-**Wo die Welpen leben:**
-
-Beim Vermehrer: in Boxen, Käfigen, in der Garage. Sie sehen den Menschen, wenn das Futter kommt.
-
-In einer seriösen Zucht: im Haus, mit der Familie. Sie schlafen auf dem Sofa, hören den Staubsauger, erleben Kinder und Besuch, den ganz normalen Alltag. Mit 8 Wochen haben sie die Welt bereits gesehen.
-
-**Wie sie betreut werden:**
-
-Beim Vermehrer: sie sind Nummern. So viele Würfe wie möglich, so wenig Ausgaben wie möglich, maximaler Gewinn.
-
-In einer seriösen Zucht: jeder Hund wird einzeln spazieren geführt. Er kennt den Ort, die Menschen, die Geräusche. Er ist nicht einer von vielen, sondern Teil der Familie.
-
-**Was sie fressen:**
-
-Beim Vermehrer: das billigste erhältliche Futter.
-
-In einer seriösen Zucht: hochwertige, auf das Wachstum abgestimmte Ernährung. Denn was ein Welpe in den ersten Monaten frisst, prägt seine Gesundheit ein Leben lang.
-
-**Die Selektion:**
-
-Beim Vermehrer: verpaart wird, was da ist. Hauptsache "reinrassig", vielleicht.
-
-In einer seriösen Zucht: Ahnentafeln werden studiert, ergänzende Blutlinien ausgewählt, das Ziel ist die Verbesserung der Rasse. Die Zuchttiere sind getestet, selektiert und häufig im Ring betitelt.
+<table>
+<thead>
+<tr><th></th><th>Wer auf Menge züchtet</th><th>Wer selektiert</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Wo die Welpen leben</strong></td>
+<td>Boxen, Käfige, Garage. Sie sehen den Züchter, wenn das Futter kommt</td>
+<td>Im Haus, mit der Familie. Mit acht Wochen haben sie schon den Staubsauger gehört, Kinder und Besuch gesehen</td>
+</tr>
+<tr>
+<td><strong>Wie sie betreut werden</strong></td>
+<td>So viele Würfe wie möglich, so wenig Kosten wie möglich</td>
+<td>Jeder Hund geht einzeln spazieren. Er kennt das Dorf, die Menschen, die Geräusche</td>
+</tr>
+<tr>
+<td><strong>Was sie fressen</strong></td>
+<td>Das billigste verfügbare Trockenfutter</td>
+<td>Futter, das auf das Wachstum abgestimmt ist, denn die ersten Monate prägen das ganze Leben</td>
+</tr>
+<tr>
+<td><strong>Die Selektion</strong></td>
+<td>Verpaart wird, was da ist, Hauptsache die Rasse stimmt</td>
+<td>Studierte Ahnentafeln, ergänzende Linien, getestete und oft ausgezeichnete Zuchttiere</td>
+</tr>
+</tbody>
+</table>
 
 ## Woran man einen Vermehrer erkennt
 
-Einige Warnsignale:
+Einige Warnzeichen:
 
-**Beim Preis:**
-- Ein Preis deutlich unter dem Rassedurchschnitt
-- Rabatt, wenn Sie den Welpen sofort mitnehmen
-- Ein anderer Preis "mit oder ohne Papiere" — die Ahnentafel ist kein Zubehör
+<table>
+<thead>
+<tr><th>Bereich</th><th>Warnzeichen</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Zahlen</strong></td>
+<td>Weit unter dem Durchschnitt der Rasse; Rabatte, wenn man sich sofort entscheidet; unterschiedliche Beträge "mit oder ohne Ahnentafel", die kein Zubehör ist</td>
+</tr>
+<tr>
+<td><strong>Wie er mit Ihnen spricht</strong></td>
+<td>Er will nicht zeigen, wo die Hunde leben; er fragt nichts über Zuhause, Familie und Erfahrung; er hat immer Welpen jeden Alters; er drängt Sie</td>
+</tr>
+<tr>
+<td><strong>Dokumente</strong></td>
+<td>Er zeigt die Tests der Eltern nicht oder sagt, sie seien unnötig; die Ahnentafel ist "unterwegs"; kein schriftlicher Vertrag</td>
+</tr>
+<tr>
+<td><strong>Die Hunde</strong></td>
+<td>Sie können die Mutter nicht mit den Welpen sehen; die Eltern wirken ängstlich oder aggressiv; zu viele Hündinnen und zu viele Würfe</td>
+</tr>
+</tbody>
+</table>
 
-**In der Kommunikation:**
-- Man will nicht, dass Sie sehen, wo die Hunde leben
-- Man stellt Ihnen keine Fragen zu Wohnung, Familie oder Erfahrung
-- Es sind immer Welpen jeden Alters verfügbar
-- Man setzt Sie unter Druck: "es ist nur noch einer da"
-
-**Bei den Unterlagen:**
-- Die Gentests der Elterntiere werden nicht gezeigt, oder sie seien "nicht nötig"
-- Die Ahnentafel ist "unterwegs" oder "kommt später"
-- Kein Vermittlungsvertrag
-
-**Bei den Hunden:**
-- Sie können die Mutter nicht mit den Welpen sehen
-- Die Elterntiere wirken ängstlich oder aggressiv
-- Zu viele Hündinnen, zu viele Würfe
-
-Wenn auch nur eines dieser Zeichen auftritt: gehen Sie.
+Wenn auch nur eines dieser Zeichen vorliegt: gehen Sie.
 
 ## Was eine seriöse Zucht tatsächlich wert ist
 

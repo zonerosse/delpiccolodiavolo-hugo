@@ -48,7 +48,7 @@ custom_content: |
   <span class="section-label">Our Values</span>
   <h2 class="section-title">What Guides Us</h2>
   <div class="values-grid">
-  <div class="value-card"><h3>🧬 Genetic Testing</h3><p>All breeding dogs tested for L2HGA and HC</p></div>
+  <div class="value-card"><h3>🧬 Genetic Testing</h3><p>All breeding dogs tested for L2HGA and HC, or clear by parentage</p></div>
   <div class="value-card"><h3>🏠 Family Raised</h3><p>Puppies socialized in a home environment</p></div>
   <div class="value-card"><h3>📞 Support</h3><p>Assistance for the dog's entire life</p></div>
   <div class="value-card"><h3>🏆 Top Lines</h3><p>Elitebull (UK) and Lackyle (Ireland)</p></div>

@@ -282,7 +282,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3>What lies behind one of your litters?</h3>
-  <p>A pairing planned months ahead, breeding dogs tested for L2HGA and HC, an ENCI pedigree and puppies raised at home. Write to us and we will tell you about the dogs and the litters to come.</p>
+  <p>A pairing planned months ahead, breeding dogs tested for L2HGA and HC or clear by parentage, an ENCI pedigree and puppies raised at home. Write to us and we will tell you about the dogs and the litters to come.</p>
   </div>
 
   <div style="text-align:center;margin-top:1.5rem">

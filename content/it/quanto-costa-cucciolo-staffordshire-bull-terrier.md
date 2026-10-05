@@ -1,7 +1,7 @@
 ---
 title: "Quanto Costa un Cucciolo di Staffordshire Bull Terrier nel 2026"
 date: 2026-01-25
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 articolo: true
 translationKey: "quanto-costa"
 image: "/images/blog/scontrino-farmaci-cucciolata.webp"
@@ -67,12 +67,12 @@ Quando acquisti da un allevatore responsabile, il prezzo include:
 </tr>
 <tr>
 <td><strong>Genetica dei genitori</strong></td>
-<td>Test del DNA per L2HGA e HC su entrambi i riproduttori</td>
-<td>Referto di laboratorio con il microchip del cane</td>
+<td>Test del DNA per L2HGA e HC su entrambi i riproduttori, o esenzione per via parentale con i referti dei loro genitori</td>
+<td>Referto di laboratorio con il microchip del cane, o dei suoi genitori</td>
 </tr>
 <tr>
 <td><strong>Supporto</strong></td>
-<td>Confronto prima dell'affido, indicazioni sull'alimentazione, assistenza per tutta la vita del cane</td>
+<td>Confronto prima dell'affido, una scorta del suo alimento con le indicazioni sui pasti, assistenza per tutta la vita del cane</td>
 <td>Si valuta dalle domande che l'allevatore fa a te</td>
 </tr>
 </tbody>

@@ -4,7 +4,7 @@ og_image: "/images/og/schede/de/faq-staffordshire-bull-terrier.jpg"
 og_image_alt: "FAQ Staffordshire Bull Terrier - Häufig gestellte Fragen — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/faq-sullo-staffordshire-bull-terrier.webp"
 date: 2025-12-28
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "faq"
 description: "Antworten auf häufig gestellte Fragen über Staffordshire Bull Terrier: Charakter, Gesundheit, Welpen, Kosten, Ernährung, Training. Zucht Del Piccolo Diavolo."
 slug: "faq-staffordshire-bull-terrier"
@@ -70,7 +70,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Welche Gentests braucht der Staffordshire Bull Terrier?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Der Staffordshire Bull Terrier hat drei wichtige Erbkrankheiten, für die es einen DNA-Test gibt: L2-HGA, die L-2-Hydroxyglutarazidurie, eine neurologische Erkrankung; HC, den juvenilen erblichen Katarakt (Gen HSF4); und die degenerative Myelopathie (Gen SOD1), eine Erkrankung des Rückenmarks, die nach dem achten Lebensjahr auftritt. Alle drei werden mit einem DNA-Test aus Speichelabstrich oder Blut geprüft. Alle werden rezessiv vererbt: Zwei freie Elterntiere können keine erkrankten Welpen bekommen, und deshalb zählt der Test der Zuchttiere mehr als jede schriftliche Garantie. Alle Zuchttiere von Del Piccolo Diavolo sind auf L2-HGA und HC getestet, die Zuchthündinnen zusätzlich auf degenerative Myelopathie, und die Laborbefunde sind auf der Website mit der Mikrochipnummer des jeweiligen Hundes veröffentlicht: Jeder kann sie herunterladen und prüfen, ohne danach fragen zu müssen. Jeder Welpe geht mit den Testbescheinigungen seiner Eltern.</div>
+  <div class="faq-answer">Der Staffordshire Bull Terrier hat drei wichtige Erbkrankheiten, für die es einen DNA-Test gibt: L2-HGA, die L-2-Hydroxyglutarazidurie, eine neurologische Erkrankung; HC, den juvenilen erblichen Katarakt (Gen HSF4); und die degenerative Myelopathie (Gen SOD1), eine Erkrankung des Rückenmarks, die nach dem achten Lebensjahr auftritt. Alle drei werden mit einem DNA-Test aus Speichelabstrich oder Blut geprüft. Alle werden rezessiv vererbt: Zwei freie Elterntiere können keine erkrankten Welpen bekommen, und deshalb zählt der Test der Zuchttiere mehr als jede schriftliche Garantie. Alle Zuchttiere von Del Piccolo Diavolo sind auf L2-HGA und HC getestet oder durch Abstammung frei, mit den Befunden der Eltern; die Zuchthündinnen zusätzlich auf degenerative Myelopathie, und die Laborbefunde sind auf der Website mit der Mikrochipnummer des jeweiligen Hundes veröffentlicht: Jeder kann sie herunterladen und prüfen, ohne danach fragen zu müssen. Jeder Welpe geht mit den Testbescheinigungen seiner Eltern.</div>
   </div>
   
   <div class="faq-item active">

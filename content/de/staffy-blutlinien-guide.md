@@ -63,7 +63,7 @@ custom_content: |
   <h3>Der erste Champion: Gentleman Jim</h3>
   <p>Ein Name überragt alle anderen. <strong>Gentleman Jim</strong>, geboren am 25. Mai 1937 und gezüchtet von Jack Dunn, war ein Sohn von Brindle Mick, dem Gründer der M-Linie. 1939 wurde er der <strong>erste männliche Champion</strong> der Rasse, und praktisch jeder heutige Staffordshire Bull Terrier trägt ihn irgendwo in seiner Ahnentafel, oft mehrfach.</p>
 
-  <p>Diese Allgegenwart hat ihren Preis. Ein einzelner Hund, der in fast jeder Ahnentafel wiederholt auftaucht, verengt den Genpool der ganzen Rasse, und das ist ein Grund, warum wir jeden Zuchthund auf L2HGA und HC testen und unsere Zuchthündinnen zusätzlich auf DM-SOD1, statt uns allein auf die Abstammung zu verlassen.</p>
+  <p>Diese Allgegenwart hat ihren Preis. Ein einzelner Hund, der in fast jeder Ahnentafel wiederholt auftaucht, verengt den Genpool der ganzen Rasse, und das ist ein Grund, warum jeder Zuchthund bei uns auf L2HGA und HC getestet oder durch Abstammung frei ist, mit den Befunden seiner Eltern, und unsere Zuchthündinnen zusätzlich auf DM-SOD1 getestet sind.</p>
 
   <h3>M-Linie, die verbreitete</h3>
   <p>Die M-Linie von Brindle Mick ist heute die verbreitetste und macht mehr als die Hälfte des genetischen Erbes der Rasse aus. Zu ihren bekanntesten Namen gehören Gentleman Jim selbst, <strong>Cross Guns Johnson</strong> (Vollbruder von Brindle Mick und damit Onkel von Gentleman Jim, Best of Breed bei der ersten Crufts, an der die Rasse teilnahm) und <strong>Fearless Red of Bandits</strong> (1944), ein Sohn von Gentleman Jim, der oft als Inbegriff des echten Stafford beschrieben wird. Die Linie wird mit eindrucksvollen Köpfen, kräftigem Körperbau und schwerer Bemuskelung verbunden.</p>

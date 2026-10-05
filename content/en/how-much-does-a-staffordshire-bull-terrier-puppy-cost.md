@@ -1,6 +1,6 @@
 ---
 title: "How Much Does a Staffordshire Bull Terrier Puppy Cost in 2026"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 articolo: true
 image: "/images/blog/scontrino-farmaci-cucciolata.webp"
 og_image: "/images/og/schede/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost.jpg"
@@ -46,24 +46,37 @@ This article sets out exactly what that price covers, what a litter really costs
 
 ## What the price of a properly bred puppy includes
 
+Part of that price does not depend on the breeder: registering a litter in the stud book has fees set by the <a href="https://www.enci.it/libro-genealogico" target="_blank" rel="noopener" aria-label="ENCI, the Italian Kennel Club stud book (opens in a new tab)">ENCI</a>, the same for everyone, and on top of those come the genetic tests of the breeding dogs and the veterinary costs.
+
 When you buy from a responsible breeder, the price covers:
 
-**Documents and registrations:**
-- ENCI pedigree (the registration certificate of the <a href="https://www.enci.it/libro-genealogico" target="_blank" rel="noopener" aria-label="ENCI, the Italian Kennel Club stud book (opens in a new tab)">Italian Kennel Club</a>)
-- Microchip already implanted and registered
-- Complete health record
-- A written placement agreement with guarantees
-
-**Health and prevention:**
-- First vaccinations, at least two boosters
-- Full worming programme
-- Veterinary examination before the puppy leaves
-- Both parents DNA tested for L2HGA and HC, the two genetic diseases of the breed
-
-**Support:**
-- A conversation before you buy, to work out whether a Staffy actually suits you
-- A starter kit with a food sample and feeding guidance
-- Support for the whole of the dog's life
+<table>
+<thead>
+<tr><th>Area</th><th>What it includes</th><th>How to check it</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Documents</strong></td>
+<td>ENCI pedigree, microchip implanted and registered, health record, written placement agreement</td>
+<td>Originals in your hands during the visit, not photocopies</td>
+</tr>
+<tr>
+<td><strong>Health</strong></td>
+<td>First vaccinations with at least two boosters, worming, veterinary examination before the puppy leaves</td>
+<td>Dates and stamps in the health record</td>
+</tr>
+<tr>
+<td><strong>Parents' genetics</strong></td>
+<td>DNA tests for L2HGA and HC on both breeding dogs, or clear by parentage with their parents' reports</td>
+<td>Laboratory report with the dog's microchip number, or its parents'</td>
+</tr>
+<tr>
+<td><strong>Support</strong></td>
+<td>A conversation before the placement, a supply of the puppy's own food with guidance on meals, support for the whole of the dog's life</td>
+<td>You can judge it by the questions the breeder asks you</td>
+</tr>
+</tbody>
+</table>
 
 None of this is optional. It is the minimum a serious breeder has to guarantee.
 
@@ -167,54 +180,61 @@ The puppy that cost little can easily become a dog that costs thousands in veter
 
 The price of a puppy does not just pay for vaccinations and a pedigree. It pays for an entirely different way of breeding.
 
-**Where the puppies live:**
-
-At a dealer's: in pens, cages, a garage. They see the breeder when food arrives.
-
-At a serious breeder's: in the house, with the family. They sleep on the sofa, hear the vacuum cleaner, meet children and visitors, live an ordinary domestic life. By 8 weeks they have already seen the world.
-
-**How they are handled:**
-
-At a dealer's: they are numbers. As many litters as possible, as little expenditure as possible, maximum profit.
-
-At a serious breeder's: every dog is walked individually. It knows the village, the people, the noises. It is not one of many: it is part of the family.
-
-**What they eat:**
-
-At a dealer's: the cheapest kibble available.
-
-At a serious breeder's: quality food, calibrated for growth. Because what a puppy eats in its first months shapes its health for life.
-
-**The selection:**
-
-At a dealer's: whatever is available gets mated. What matters is that they are "purebred", possibly.
-
-At a serious breeder's: pedigrees are studied, complementary bloodlines are chosen, the aim is to improve the breed. The breeding stock is tested, selected and often titled in the show ring.
+<table>
+<thead>
+<tr><th></th><th>Breeding for numbers</th><th>Breeding for selection</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Where the puppies live</strong></td>
+<td>Pens, cages, a garage. They see the breeder when food arrives</td>
+<td>In the house, with the family. By eight weeks they have already heard the vacuum cleaner and met children and visitors</td>
+</tr>
+<tr>
+<td><strong>How they are looked after</strong></td>
+<td>As many litters as possible, as little expenditure as possible</td>
+<td>Every dog is walked on its own. It knows the village, the people, the noises</td>
+</tr>
+<tr>
+<td><strong>What they eat</strong></td>
+<td>The cheapest kibble available</td>
+<td>Food calibrated for growth, because the first months weigh on the whole of a dog's life</td>
+</tr>
+<tr>
+<td><strong>The selection</strong></td>
+<td>Whatever is available gets mated, as long as it is the breed</td>
+<td>Studied pedigrees, complementary lines, breeding dogs tested and often titled</td>
+</tr>
+</tbody>
+</table>
 
 ## How to recognise a dealer
 
 Some warning signs:
 
-**On price:**
-- A price well below the breed average
-- Discounts if you take the puppy immediately
-- A different price "with or without pedigree" — the pedigree is not an optional extra
-
-**On communication:**
-- They do not want you to see where the dogs live
-- They ask you no questions about your home, family or experience
-- They always have puppies available, of every age
-- They rush you: "there is only one left"
-
-**On documents:**
-- They do not show the parents' genetic tests, or say the tests "are not needed"
-- The pedigree is "on its way" or "I will send it later"
-- No placement agreement
-
-**On the dogs:**
-- You cannot see the mother with the puppies
-- The parents look frightened or aggressive
-- Too many females, too many litters
+<table>
+<thead>
+<tr><th>Area</th><th>Warning signs</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Figures</strong></td>
+<td>Well below the breed average; discounts for deciding at once; a different figure "with or without pedigree", which is not an optional extra</td>
+</tr>
+<tr>
+<td><strong>How they talk to you</strong></td>
+<td>They do not want you to see where the dogs live; they ask you nothing about your home, family and experience; they always have puppies of every age; they rush you</td>
+</tr>
+<tr>
+<td><strong>Documents</strong></td>
+<td>They do not show the parents' tests, or say they are not needed; the pedigree is "on its way"; no written agreement</td>
+</tr>
+<tr>
+<td><strong>The dogs</strong></td>
+<td>You cannot see the mother with the puppies; the parents look frightened or aggressive; too many females and too many litters</td>
+</tr>
+</tbody>
+</table>
 
 If even one of these signs is present, walk away.
 

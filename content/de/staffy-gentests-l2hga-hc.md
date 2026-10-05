@@ -99,9 +99,19 @@ custom_content: |
   <p>Die Probe ist ein Wangenabstrich oder eine Blutentnahme durch den Tierarzt; sie geht ans Labor, und das Zertifikat kommt mit der Mikrochipnummer des Hundes zurück. Diese Nummer verbindet das Ergebnis mit einem bestimmten Tier &mdash; ein Zertifikat ohne sie beweist nichts über den Hund, der vor Ihnen steht.</p>
 
   <h2>Ergebnisse richtig lesen</h2>
-  <p><strong>Frei (clear)</strong> bedeutet zwei normale Genkopien. Der Hund kann weder erkranken noch die Mutation weitergeben.</p>
-  <p><strong>Träger (carrier)</strong> bedeutet eine normale und eine mutierte Kopie. Der Hund erkrankt selbst nie. Mit einem freien Hund verpaart bringt er keine kranken Welpen hervor, aber die Hälfte des Wurfs ist wiederum Träger, und diese Träger kommen in Familien, die sie eines Tages vielleicht selbst verpaaren: das Problem wird um eine Generation verschoben. Deshalb wird bei Del Piccolo Diavolo mit Trägern nicht gezüchtet.</p>
-  <p><strong>Betroffen (affected)</strong> bedeutet zwei mutierte Kopien. Der Hund wird erkranken und darf niemals in die Zucht.</p>
+  <p>Die Ergebnisse werden in festen Begriffen angegeben:</p>
+
+  <table>
+  <thead>
+  <tr><th>Ergebnis</th><th>Bedeutung</th><th>Darf er in die Zucht?</th></tr>
+  </thead>
+  <tbody>
+  <tr><td><strong>CLEAR / frei</strong> (Normal, -/-)</td><td>Keine Kopie des mutierten Gens. Der Hund ist gesund und gibt die Krankheit nicht weiter.</td><td>✅ Ja. Bei uns nur mit einem anderen freien Hund</td></tr>
+  <tr><td><strong>CARRIER / Träger</strong> (heterozygot, +/-)</td><td>Eine Kopie des mutierten Gens. Der Hund ist gesund, kann das Gen aber weitergeben.</td><td>⚠️ Technisch ja mit einem freien Hund, aber der halbe Wurf ist Träger. Bei uns nicht</td></tr>
+  <tr><td><strong>AFFECTED / betroffen</strong> (homozygot, +/+)</td><td>Zwei Kopien des mutierten Gens. Der Hund wird erkranken.</td><td>❌ Nein, nie</td></tr>
+  </tbody>
+  </table>
+
   <p>Die eine Regel, die die Rechnung sicher macht, lautet: <strong>Träger mal Träger darf nie vorkommen</strong>. Aus dieser Verpaarung geht statistisch jeder vierte Welpe betroffen hervor.</p>
 
     <h3>Die Rechnung einer Verpaarung</h3>
@@ -124,19 +134,44 @@ custom_content: |
 
   <h2>Frei durch Abstammung</h2>
   <p>In Ahnentafeln findet sich oft der Vermerk, ein Hund sei "frei durch Abstammung" oder "hereditär frei". Das bedeutet, dass der Hund selbst nicht getestet wurde, beide Elterntiere aber getestet frei sind, wodurch es genetisch unmöglich ist, dass er die Mutation trägt.</p>
-  <p>Das ist zulässig und wird von den Zuchtverbänden anerkannt, hängt aber vollständig von der Richtigkeit der Abstammung ab. Es gilt für eine Generation und fällt in sich zusammen, wenn eine Elternangabe falsch ist. Für einen Hund, der in der Zucht eingesetzt werden soll, bevorzugen wir unabhängig davon den direkten Test. Für einen Familienwelpen ist "frei durch Abstammung" bei zwei direkt getesteten Eltern völlig beruhigend.</p>
+  <p>Das ist zulässig und wird von den Zuchtverbänden anerkannt, hängt aber vollständig von der Richtigkeit der Abstammung ab. Es gilt für eine Generation und fällt in sich zusammen, wenn eine Elternangabe falsch ist. Für einen Hund, der in der Zucht eingesetzt werden soll, ist ein direkter Test dennoch ratsam, damit er ein Zertifikat auf seinen eigenen Namen hat. Für einen Familienwelpen ist "frei durch Abstammung" bei zwei direkt getesteten Eltern völlig beruhigend.</p>
 
   <h2>Was Sie den Züchter fragen sollten</h2>
   <figure class="article-image img-left">
   <img src="/images/cucciolo-rosso.webp" alt="Gesunder Staffordshire Bull Terrier Welpe" loading="lazy" decoding="async" width="280" height="320">
   <figcaption>Ein gesunder Welpe von getesteten Eltern</figcaption>
   </figure>
-  <p>Verlangen Sie die Laborzertifikate beider Elterntiere als Dokument, mit lesbaren Namen der Hunde, Mikrochipnummern und Laborangabe. Ein seriöser Züchter schickt sie ohne Zögern und oft, bevor Sie fragen.</p>
+  <p>Verlangen Sie die Laborzertifikate beider Elterntiere als Dokument, mit lesbaren Namen der Hunde, Mikrochipnummern und Laborangabe: Ein akkreditiertes Labor und ein Mikrochip, der zum Hund passt, machen einen Befund erst gültig. Ein seriöser Züchter schickt sie ohne Zögern und oft, bevor Sie fragen.</p>
   <p>Vorsicht ist geboten bei: der Formulierung "die Eltern sind gesund, wir hatten nie Probleme", die eine ganz andere Frage beantwortet; Zertifikaten, die Sie angeblich später erhalten; der Weigerung, Unterlagen zu zeigen, bevor der Welpe einzieht; Ergebnissen, die nur als Screenshot vorliegen; und der Behauptung, Tests seien überflüssig, "weil unsere Linien das nie hatten". Keine Linie ist von einer rezessiven Mutation ausgenommen, solange sie nicht getestet ist.</p>
+  <p>Bei der Zucht Del Piccolo Diavolo sind die Zuchttiere getestet oder durch Abstammung frei, mit den Befunden der Eltern. Die Befunde mit Mikrochipnummer sind auf den Seiten der Hunde veröffentlicht.</p>
 
   <h2>Über die beiden DNA-Tests hinaus</h2>
-  <p>Gentests sind die Untergrenze, nicht das Ziel. Ernsthafte Zuchtprogramme dieser Rasse umfassen zusätzlich eine jährliche augenärztliche Untersuchung durch einen ECVO-Spezialisten, die Befunde erfasst, die kein DNA-Test abdeckt, etwa Distichiasis; eine offizielle Auswertung von Hüfte und Ellenbogen, die in dieser Rasse mehr Gewicht hat, als allgemein zugegeben wird; und eine kardiologische Untersuchung. Das offizielle Augenzeugnis gilt allerdings nur ein Jahr und müsste bei einem Zuchthund jedes Jahr erneuert werden. Deshalb setzt eine seriöse Zucht auf DNA-Tests: Sie werden einmal gemacht und laufen nie ab.</p>
-  <p>Zunehmend wird auch die Atemqualität beurteilt. Der Staffordshire Bull Terrier ist keine brachyzephale Rasse, doch die Tendenz zu immer kürzeren Fängen in manchen Ausstellungslinien hat Folgen. Ein Hund, der bei Wärme oder nach mäßiger Bewegung Mühe hat, hat ein Wohlbefindensproblem, unabhängig davon, wie er im Stand aussieht.</p>
+  <p>Neben L2-HGA und HC führt eine seriöse Zucht weitere Gesundheitskontrollen an ihren Zuchttieren durch.</p>
+
+  <h3>Augenuntersuchung (ECVO)</h3>
+  <p>Die <strong>ECVO</strong>-Augenuntersuchung (European College of Veterinary Ophthalmologists) ist eine klinische Kontrolle durch einen zertifizierten tierärztlichen Augenspezialisten. Anders als der HC-Gentest, der die Veranlagung erkennt, prüft die ECVO-Untersuchung den aktuellen Zustand der Augen.</p>
+  <p>Die ECVO-Untersuchung kann bereits vorhandene Katarakte, Distichiasis, Hornhautdystrophie, progressive Retinaatrophie (PRA) und andere Augenveränderungen erkennen.</p>
+
+  <h3>Hüft- und Ellbogendysplasie</h3>
+  <p>Auch wenn der Staffy nicht zu den am stärksten von Dysplasie betroffenen Rassen gehört, lassen manche Züchter offizielle Röntgenaufnahmen machen. In Italien erfolgt die offizielle Auswertung durch die FSA (Fondazione Salute Animale) oder durch Ce.Le.Ma.Sche.</p>
+
+  <h3>Herzuntersuchungen</h3>
+  <p>Manche Züchter lassen Echokardiographien machen, um angeborene Herzerkrankungen wie Aorten- oder Pulmonalstenose auszuschließen, die in der Rasse selten, aber vorhanden sind.</p>
+
+  <h3>Atmung</h3>
+  <p>Zunehmend wird auch die Atemqualität beurteilt. Der Staffordshire Bull Terrier ist keine brachyzephale Rasse, doch die Tendenz zu immer kürzeren Fängen in manchen Ausstellungslinien hat Folgen: Ein Hund, der bei Wärme oder nach mäßiger Bewegung Mühe hat, hat ein Wohlergehensproblem, wie gut er im Stand auch aussieht. Mehr dazu im Ratgeber zur <a href="/de/boas-staffordshire-bull-terrier-atmung/" title="BOAS und Atmung beim Staffordshire Bull Terrier">Atmung des Staffy</a>.</p>
+
+  <div class="blue-box">
+  <p class="blue-box-title">📋 Gesundheits-Checkliste einer seriösen Zucht</p>
+  <p>✅ DNA-Test L2-HGA, beide Eltern frei<br>
+  ✅ DNA-Test HC, beide Eltern frei<br>
+  ✅ ECVO-Augenuntersuchung (jährlich empfohlen)<br>
+  ⭐ Dysplasie-Röntgen (optional, aber gern gesehen)<br>
+  ⭐ Echokardiographie (optional, aber gern gesehen)<br>
+  ✅ ENCI-Ahnentafel mit nachprüfbarer Abstammung<br>
+  ✅ Registrierter Mikrochip<br>
+  ✅ Vollständige Impfungen und Impfpass</p>
+  </div>
 
   <h2>Kosten der Vorsorge gegen Kosten der Krankheit</h2>
   <p>Die Tests kosten einmalig etwa 400 Euro pro Hund. Die Lebenszeitkosten eines an L2-HGA erkrankten Hundes gehen in die Tausende, und eine Kataraktoperation an einem Auge kostet ungefähr so viel wie der Welpe selbst. Die eigentliche Frage ist aber nicht das Geld. Sie lautet: eine Familie, die sich bewusst für eine gesunde Rasse und einen Welpen mit Papieren entschieden hat, sollte nie in diese Lage kommen, wenn ein Wangenabstrich und 3 Wochen Wartezeit es vollständig verhindert hätten.</p>

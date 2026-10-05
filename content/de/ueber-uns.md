@@ -118,7 +118,7 @@ custom_content: |
   <h2 class="section-title">Wer hinter Del Piccolo Diavolo steht</h2>
   <div class="content-block">
   <p><strong>Paolo Boldrini</strong> züchtet seit 2013 Staffordshire Bull Terrier in Ostellato in der Provinz Ferrara unter dem Namen Del Piccolo Diavolo. Vor den Staffies züchtete er Rottweiler und führte einen Italienischen Champion und einen Europachampion in den Ring.</p>
-  <p>Er arbeitet mit den Blutlinien Elitebull (England) und Lackyle (Irland) und <a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)">testet alle Zuchttiere auf L2HGA und HC</a>, die Zuchthündinnen zusätzlich auf DM-SOD1. Mit <strong>Bilquis Goddess Diabhal</strong> gewann er den Titel Italienische Schönheitschampionin ENCI und einen vierten Platz bei der World Dog Show in Zagreb 2024. Jeder Welpe erhält eine ENCI-Ahnentafel und die Testzertifikate der Eltern.</p>
+  <p>Er arbeitet mit den Blutlinien Elitebull (England) und Lackyle (Irland) und <a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)">testet alle Zuchttiere auf L2HGA und HC</a> oder prüft sie als frei durch Abstammung, mit den Befunden der Eltern; die Zuchthündinnen zusätzlich auf DM-SOD1. Mit <strong>Bilquis Goddess Diabhal</strong> gewann er den Titel Italienische Schönheitschampionin ENCI und einen vierten Platz bei der World Dog Show in Zagreb 2024. Jeder Welpe erhält eine ENCI-Ahnentafel und die Testzertifikate der Eltern.</p>
   <p>Die Seiten dieser Website schreibt er selbst, auf Grundlage dessen, was in der Zucht tatsächlich passiert. Für Fragen zu Welpen, Blutlinien oder Gentests: <a href="/de/kontakt/">schreiben Sie mir direkt</a>.</p>
   </div>
   </div>

@@ -2,7 +2,7 @@
 title: "Chi Siamo"
 titleSeo: "Chi siamo: allevatori di Staffordshire Bull Terrier dal 2013"
 date: 2025-12-28
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 tipoPagina: "ProfilePage"
 translationKey: "chi-siamo"
 description: "Chi c'è dietro l'allevamento Del Piccolo Diavolo di Ostellato (FE): Staffordshire Bull Terrier dal 2013, linee Elitebull e Lackyle, test e pedigree ENCI."
@@ -43,7 +43,7 @@ custom_content: |
   <h2 class="section-title">Chi c'è dietro Del Piccolo Diavolo</h2>
   <div class="content-block">
   <p><strong>Paolo Boldrini</strong> alleva Staffordshire Bull Terrier dal 2013 a Ostellato, in provincia di Ferrara, con il nome Del Piccolo Diavolo. Segue la razza dal 2005, otto anni prima della prima cucciolata: l'allevamento &egrave; nato dopo un lungo periodo di studio, non prima. In precedenza ha allevato Rottweiler, producendo un Campione Italiano e un Campione Europeo, ed &egrave; stato giudice internazionale per canarini Gloster. Non ha affisso ENCI: i cani sono registrati a suo nome e rilasciano pedigree ENCI regolari. Il nome dell'allevamento viene da Lackyle Diabhal &Oacute;g, in irlandese il giovane diavolo, uno dei cani che hanno fatto la storia della razza e che compare nei pedigree delle linee su cui lavora. Le cucciolate sono una l'anno, occasionalmente due, in alcuni anni nessuna. Ogni cucciolata nata qui, con genitori, test, esami e foto della crescita, è raccontata nel <a href="/diario-allevamento/" title="Diario dell'allevamento">diario dell'allevamento</a>.</p>
-  <p>L'allevamento lavora su linee Elitebull (Inghilterra) e Lackyle (Irlanda) e <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">testa tutti i riproduttori per L2HGA e HC</a>, e le fattrici anche per DM-SOD1. Con <strong>Bilquis Goddess Diabhal</strong> ha conquistato il titolo di Campionessa Italiana di Bellezza ENCI e un quarto posto al World Dog Show di Zagabria nel 2024. Tutti i cuccioli sono affidati con pedigree ENCI e con i certificati dei test dei genitori.</p>
+  <p>L'allevamento lavora su linee Elitebull (Inghilterra) e Lackyle (Irlanda) e <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">testa tutti i riproduttori per L2HGA e HC</a>, o li verifica esenti per via parentale con i referti dei genitori, e le fattrici anche per DM-SOD1. Con <strong>Bilquis Goddess Diabhal</strong> ha conquistato il titolo di Campionessa Italiana di Bellezza ENCI e un quarto posto al World Dog Show di Zagabria nel 2024. Tutti i cuccioli sono affidati con pedigree ENCI e con i certificati dei test dei genitori.</p>
   <p>Le pagine di questo sito sono scritte da lui, sulla base di quello che succede davvero in allevamento. Per domande sui cuccioli, sulle linee di sangue o sui test genetici: <a href="/allevamento-staffordshire-bull-terrier-in-emilia-romagna/">contattami direttamente</a>.</p>
   </div>
   </div>

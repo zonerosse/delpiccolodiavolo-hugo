@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Zucht"
 titleSeo: "Staffordshire Bull Terrier Züchter in Italien"
 date: 2025-12-28
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "home"
 description: "Ethischer Staffordshire Bull Terrier Züchter seit 2013. ENCI-Ahnentafel, Gentest-Befunde und Mikrochips der Zuchttiere online veröffentlicht und überprüfbar."
 correlati:
@@ -28,7 +28,7 @@ custom_content: |
   <span class="hero-eyebrow"><a href="/de/bewertungen/" title="Bewertungen lesen" style="color:inherit;text-decoration:none">⭐ <!--REC-VOTO--> bei <!--REC-TOTALE--> Bewertungen →</a></span>
   <h1 class="hero-title">Staffordshire <br><em>Bull Terrier</em> <br>Züchter</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo - Selektion, Gesundheit und Charakter</p>
-  <p class="hero-description">In Ostellato (Ferrara, Italien) seit 2013. Zuchttiere auf L2HGA und HC (HSF4) getestet, die Zuchthündinnen zusätzlich auf DM-SOD1, mit veröffentlichten Befunden und Mikrochipnummern im Klartext. 1 Italienischer Champion, 3 Italienische Jugendchampions, 4. bei der World Dog Show.</p>
+  <p class="hero-description">In Ostellato (Ferrara, Italien) seit 2013. Zuchttiere auf L2HGA und HC (HSF4) getestet oder durch Abstammung frei, mit den Befunden der Eltern; die Zuchthündinnen zusätzlich auf DM-SOD1, mit veröffentlichten Befunden und Mikrochipnummern im Klartext. 1 Italienischer Champion, 3 Italienische Jugendchampions, 4. bei der World Dog Show.</p>
   <div class="hero-actions">
   <a href="/de/welpen-staffordshire-bull-terrier/" class="btn btn-primary" title="Staffordshire Bull Terrier Welpen">Staffordshire Bull Terrier Welpen</a>
   <a href="/de/kontakt/" class="btn btn-ghost" title="Kontaktieren Sie uns">Kontakt</a>
@@ -126,7 +126,7 @@ custom_content: |
   <div class="intro-block" style="text-align:left">
   <p>Del Piccolo Diavolo ist eine Staffordshire Bull Terrier Zucht &mdash; der Staffy, wie ihn seine Liebhaber nennen &mdash; in <strong>Ostellato, Provinz Ferrara, Italien</strong>, aktiv seit <strong>2013</strong>. Paolo Boldrini beschäftigt sich seit 2005 mit der Rasse und züchtet seit 2013: zwei verschiedene Jahreszahlen, die dasselbe erzählen, nämlich dass die Zucht nach einer langen Zeit des Studiums entstanden ist, nicht davor.</p>
 
-  <p>Wir haben <strong>einen Wurf im Jahr, gelegentlich zwei, manchmal keinen</strong>, nie auf Bestellung. Alle Zuchttiere sind auf <strong>L2HGA und HC (Gen HSF4)</strong> getestet, die aktiven Zuchthündinnen zusätzlich auf <strong>degenerative Myelopathie (Gen SOD1)</strong>, und die Laborbefunde sind auf der Website veröffentlicht: jeder kann sie herunterladen und den Namen des Hundes und die Mikrochipnummer lesen, ohne uns etwas fragen zu müssen. Die Welpen werden mit <strong>ENCI-Ahnentafel</strong>, Mikrochip und ordnungsgemäßen Impfungen abgegeben, nachdem sie <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor und Frühstimulation: was die Forschung sagt">im Haus geboren wurden und dort den ersten Monat verbracht haben</a>, danach in einem eigenen Zwinger mit Auslauf, in täglichem Kontakt mit Menschen, Haushaltsgeräuschen und <a href="/de/staffy-andere-haustiere/" title="Staffordshire Bull Terrier mit anderen Haustieren">anderen Tieren</a>.</p>
+  <p>Wir haben <strong>einen Wurf im Jahr, gelegentlich zwei, manchmal keinen</strong>, nie auf Bestellung. Alle Zuchttiere sind auf <strong>L2HGA und HC (Gen HSF4)</strong> getestet oder durch Abstammung frei, mit den Befunden der Eltern; die aktiven Zuchthündinnen zusätzlich auf <strong>degenerative Myelopathie (Gen SOD1)</strong>, und die Laborbefunde sind auf der Website veröffentlicht: jeder kann sie herunterladen und den Namen des Hundes und die Mikrochipnummer lesen, ohne uns etwas fragen zu müssen. Die Welpen werden mit <strong>ENCI-Ahnentafel</strong>, Mikrochip und ordnungsgemäßen Impfungen abgegeben, nachdem sie <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor und Frühstimulation: was die Forschung sagt">im Haus geboren wurden und dort den ersten Monat verbracht haben</a>, danach in einem eigenen Zwinger mit Auslauf, in täglichem Kontakt mit Menschen, Haushaltsgeräuschen und <a href="/de/staffy-andere-haustiere/" title="Staffordshire Bull Terrier mit anderen Haustieren">anderen Tieren</a>.</p>
 
   <p>Was die Ausstellungsergebnisse betrifft, haben die hier gezüchteten Hunde <strong>1 Titel Italienischer Champion</strong>, <strong>3 Italienische Jugendchampions</strong> &mdash; einer davon auch Slowenischer Champion &mdash;, eine Jugendchampionin und Championin von San Marino, einen <strong>4. Platz bei der World Dog Show</strong> mit Bilquis Goddess Diabhal und im Mai 2026 den Titel <strong>Italienische Jugendchampionin</strong> für Queen of California errungen. Wir arbeiten mit englischen und irischen Blutlinien, insbesondere Elitebull und Lackyle.</p>
 
@@ -160,20 +160,20 @@ custom_content: |
 
   <h3>Welche Tests wir machen, und was sie bedeuten</h3>
 
-  <p><strong>Alle Zuchttiere sind auf L2HGA und HC (HSF4) getestet, die Zuchthündinnen zusätzlich auf DM-SOD1.</strong> Die Befunde mit Mikrochipnummer sind auf den Seiten der Hunde veröffentlicht.</p>
+  <p><strong>Alle Zuchttiere sind auf L2HGA und HC (HSF4) getestet oder durch Abstammung frei, mit den Befunden der Eltern; die Zuchthündinnen zusätzlich auf DM-SOD1.</strong> Die Befunde mit Mikrochipnummer sind auf den Seiten der Hunde veröffentlicht.</p>
 
   <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem;margin:1.2rem 0 1rem">
   <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
   <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">L2HGA</div>
   <div style="font-size:.85rem;color:#7a6448;margin-bottom:.5rem">L-2-Hydroxyglutarazidurie</div>
   <p style="margin:0;font-size:.95rem;line-height:1.6">Eine neurologische Erkrankung, die meist in den ersten Lebensjahren auftritt: Zittern, unsicherer Gang, epileptische Anfälle. Eine Heilung gibt es nicht.</p>
-  <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Getestet: alle Zuchttiere</div>
+  <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Frei: alle Zuchttiere</div>
   </div>
   <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
   <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">HC (Gen HSF4)</div>
   <div style="font-size:.85rem;color:#7a6448;margin-bottom:.5rem">Erbliche Katarakt</div>
   <p style="margin:0;font-size:.95rem;line-height:1.6">Die Augenlinse trübt sich schon in jungen Jahren ein, oft in den ersten zwei oder drei Lebensjahren, bis zur Erblindung.</p>
-  <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Getestet: alle Zuchttiere</div>
+  <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Frei: alle Zuchttiere</div>
   </div>
   <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
   <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">DM-SOD1</div>
@@ -295,7 +295,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Welche Gentests führen Sie bei den Zuchttieren durch?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Alle Zuchttiere von Del Piccolo Diavolo werden auf <strong>L2-HGA</strong>, die L-2-Hydroxyglutarazidurie, eine neurologische Erkrankung, und auf <strong>HC</strong>, den juvenilen erblichen Katarakt (Gen HSF4), getestet. Die aktiven Zuchthündinnen zusätzlich auf <strong>degenerative Myelopathie</strong> (Gen SOD1), eine Erkrankung des Rückenmarks, die nach dem achten Lebensjahr auftritt. Alle sind DNA-Tests, und alle drei Krankheiten werden rezessiv vererbt: zwei freie Elterntiere können keine erkrankten Welpen hervorbringen. Träger von L2-HGA und HC werden nicht zur Zucht eingesetzt. Die Laborbefunde sind auf dieser Website veröffentlicht und können heruntergeladen werden, mit der <strong>Mikrochipnummer des Hundes im Klartext</strong>: erst diese Nummer macht das Dokument überprüfbar, denn ohne sie ließe es sich keinem bestimmten Tier zuordnen.</div>
+  <div class="faq-answer">Alle Zuchttiere von Del Piccolo Diavolo werden auf <strong>L2-HGA</strong>, die L-2-Hydroxyglutarazidurie, eine neurologische Erkrankung, und auf <strong>HC</strong>, den juvenilen erblichen Katarakt (Gen HSF4), getestet oder sind durch Abstammung frei, mit den Befunden der Eltern. Die aktiven Zuchthündinnen zusätzlich auf <strong>degenerative Myelopathie</strong> (Gen SOD1), eine Erkrankung des Rückenmarks, die nach dem achten Lebensjahr auftritt. Alle sind DNA-Tests, und alle drei Krankheiten werden rezessiv vererbt: zwei freie Elterntiere können keine erkrankten Welpen hervorbringen. Träger von L2-HGA und HC werden nicht zur Zucht eingesetzt. Die Laborbefunde sind auf dieser Website veröffentlicht und können heruntergeladen werden, mit der <strong>Mikrochipnummer des Hundes im Klartext</strong>: erst diese Nummer macht das Dokument überprüfbar, denn ohne sie ließe es sich keinem bestimmten Tier zuordnen.</div>
   </div>
 
   <div class="faq-item active">

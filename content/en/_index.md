@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Kennel"
 titleSeo: "Staffordshire Bull Terrier Breeder in Italy"
 date: 2025-12-28
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "home"
 description: "Ethical Staffordshire Bull Terrier breeder since 2013. ENCI pedigree, genetic test reports and breeding stock microchips published online and verifiable."
 correlati:
@@ -28,7 +28,7 @@ custom_content: |
   <span class="hero-eyebrow"><a href="/en/reviews/" title="Read the reviews" style="color:inherit;text-decoration:none">⭐ <!--REC-VOTO--> on <!--REC-TOTALE--> reviews →</a></span>
   <h1 class="hero-title">Staffordshire <br><em>Bull Terrier</em> <br>Breeder</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo - Selection, health and character</p>
-  <p class="hero-description">In Ostellato (Ferrara, Italy) since 2013. Breeding stock tested for L2HGA and HC (HSF4), the brood bitches also for DM-SOD1, with the reports published and the microchip numbers in plain sight. 1 Italian Champion, 3 Italian Junior Champions, 4th at the World Dog Show.</p>
+  <p class="hero-description">In Ostellato (Ferrara, Italy) since 2013. Breeding stock tested for L2HGA and HC (HSF4), or clear by parentage with their parents' reports; the brood bitches also for DM-SOD1, with the reports published and the microchip numbers in plain sight. 1 Italian Champion, 3 Italian Junior Champions, 4th at the World Dog Show.</p>
   <div class="hero-actions">
   <a href="/en/puppies-staffordshire-bull-terrier/" class="btn btn-primary" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier Puppies</a>
   <a href="/en/contact/" class="btn btn-ghost" title="Contact us">Contact Us</a>
@@ -126,7 +126,7 @@ custom_content: |
   <div class="intro-block" style="text-align:left">
   <p>Del Piccolo Diavolo is a Staffordshire Bull Terrier kennel &mdash; the Staffy, as its enthusiasts call it &mdash; in <strong>Ostellato, in the province of Ferrara, Italy</strong>, active since <strong>2013</strong>. Paolo Boldrini has followed the breed since 2005 and has bred it since 2013: two different dates that tell the same story, namely that the kennel came after a long period of study, not before it.</p>
 
-  <p>We have <strong>one litter a year, occasionally two, sometimes none</strong>, never on request. All breeding dogs are tested for <strong>L2HGA and HC (HSF4 gene)</strong>, the active brood bitches also for <strong>degenerative myelopathy (SOD1 gene)</strong>, and the laboratory reports are published on the site: anyone can download them and read the dog's name and microchip number without asking us anything. The puppies are placed with an <strong>ENCI pedigree</strong>, microchip and vaccinations in order, after being <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor and early stimulation: what research says">born and raised in the house for the first month</a>, then moved to a dedicated run with outdoor access, in daily contact with people, household noises and <a href="/en/staffy-other-pets/" title="Staffordshire Bull Terrier with other pets at home">other animals</a>.</p>
+  <p>We have <strong>one litter a year, occasionally two, sometimes none</strong>, never on request. All breeding dogs are tested for <strong>L2HGA and HC (HSF4 gene)</strong>, or clear by parentage with their parents' reports; the active brood bitches also for <strong>degenerative myelopathy (SOD1 gene)</strong>, and the laboratory reports are published on the site: anyone can download them and read the dog's name and microchip number without asking us anything. The puppies are placed with an <strong>ENCI pedigree</strong>, microchip and vaccinations in order, after being <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor and early stimulation: what research says">born and raised in the house for the first month</a>, then moved to a dedicated run with outdoor access, in daily contact with people, household noises and <a href="/en/staffy-other-pets/" title="Staffordshire Bull Terrier with other pets at home">other animals</a>.</p>
 
   <p>As for show results, the dogs bred here have won <strong>1 Italian Champion title</strong>, <strong>3 Italian Junior Champions</strong> &mdash; one of them also Slovenian Champion &mdash; a Junior Champion and Champion of San Marino, a <strong>4th place at the World Dog Show</strong> with Bilquis Goddess Diabhal, and in May 2026 the title of <strong>Italian Junior Champion</strong> for Queen of California. We work with English and Irish bloodlines, in particular Elitebull and Lackyle.</p>
 
@@ -160,20 +160,20 @@ custom_content: |
 
   <h3>Which tests we do, and what they are</h3>
 
-  <p><strong>All breeding dogs are tested for L2HGA and HC (HSF4); the brood bitches also for DM-SOD1.</strong> The reports, with the microchip number, are published on the dogs' pages.</p>
+  <p><strong>All breeding dogs are tested for L2HGA and HC (HSF4), or clear by parentage with their parents' reports; the brood bitches also for DM-SOD1.</strong> The reports, with the microchip number, are published on the dogs' pages.</p>
 
   <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem;margin:1.2rem 0 1rem">
   <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
   <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">L2HGA</div>
   <div style="font-size:.85rem;color:#7a6448;margin-bottom:.5rem">L-2-hydroxyglutaric aciduria</div>
   <p style="margin:0;font-size:.95rem;line-height:1.6">A neurological disease that usually appears in the first years of life: tremors, unsteady gait, seizures. There is no cure.</p>
-  <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Tested: all breeding dogs</div>
+  <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Clear: all breeding dogs</div>
   </div>
   <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
   <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">HC (HSF4 gene)</div>
   <div style="font-size:.85rem;color:#7a6448;margin-bottom:.5rem">Hereditary cataract</div>
   <p style="margin:0;font-size:.95rem;line-height:1.6">The lens of the eye turns cloudy at a young age, often within the first two or three years, leading to blindness.</p>
-  <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Tested: all breeding dogs</div>
+  <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Clear: all breeding dogs</div>
   </div>
   <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
   <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">DM-SOD1</div>
@@ -295,7 +295,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What genetic tests do you do on the breeding stock?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">All Del Piccolo Diavolo breeding dogs are tested for <strong>L2-HGA</strong>, L-2-hydroxyglutaric aciduria, a neurological disease, and for <strong>HC</strong>, juvenile hereditary cataract (HSF4 gene). The active brood bitches are also tested for <strong>degenerative myelopathy</strong> (SOD1 gene), a disease of the spinal cord that appears after eight years of age. They are all DNA tests, and all three diseases are recessive: two clear parents cannot produce affected puppies. Carriers of L2-HGA and HC are not bred. The laboratory reports are published on this site and can be downloaded, with the <strong>dog's microchip number in plain sight</strong>: that number is what makes the document verifiable, because without it it could not be linked to any particular animal.</div>
+  <div class="faq-answer">All Del Piccolo Diavolo breeding dogs are tested for <strong>L2-HGA</strong>, L-2-hydroxyglutaric aciduria, a neurological disease, and for <strong>HC</strong>, juvenile hereditary cataract (HSF4 gene), or are clear by parentage, with their parents' reports. The active brood bitches are also tested for <strong>degenerative myelopathy</strong> (SOD1 gene), a disease of the spinal cord that appears after eight years of age. They are all DNA tests, and all three diseases are recessive: two clear parents cannot produce affected puppies. Carriers of L2-HGA and HC are not bred. The laboratory reports are published on this site and can be downloaded, with the <strong>dog's microchip number in plain sight</strong>: that number is what makes the document verifiable, because without it it could not be linked to any particular animal.</div>
   </div>
 
   <div class="faq-item active">
