@@ -2,7 +2,7 @@
 title: "Staffy and Elderly Owners"
 date: 2024-05-28
 titleSeo: "Is a Staffordshire Bull Terrier right for older owners?"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "anziani"
 articolo: true
 image: "/images/blog/famiglia-2.webp"
@@ -66,7 +66,7 @@ custom_content: |
 
   <h2>Who this breed does not suit</h2>
   <p>An older person with significant balance problems, osteoporosis, or reduced grip strength should consider a smaller and less powerful breed, however much they like Staffordshire Bull Terriers. So should someone who cannot commit to two outings a day in all weather, or who lives alone with no fallback arrangement.</p>
-  <p>We say this to enquirers regularly, and we occasionally lose a sale over it. That is the correct trade: a dog returned at 18 months because the owner could not hold it is a failure for everyone, and it was foreseeable at the first phone call.</p>
+  <p>We say this to every family who asks, even when it is not what they hoped to hear: a dog returned at 18 months because the owner could not hold it is a failure for everyone, and it was foreseeable at the first phone call.</p>
 
   <h2>A realistic day</h2>
   <p>A day that works for many older owners looks like this: a short toilet outing of ten to fifteen minutes on waking, breakfast, then the main walk of forty to sixty minutes in the morning; rest at home until lunch, with the dog chewing a filled Kong while you eat; an afternoon rest, a short outing of ten to fifteen minutes and some calm scent or puzzle games together; an evening walk of twenty to thirty minutes, time on the sofa, and a last five-minute outing before bed. In total that is well over an hour of walking a day, spread out, which suits the dog and the owner equally.</p>

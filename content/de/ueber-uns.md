@@ -1,7 +1,7 @@
 ---
 title: "Über uns – der Züchter hinter Del Piccolo Diavolo"
 date: 2025-12-28
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 tipoPagina: "ProfilePage"
 translationKey: "chi-siamo"
 description: "Wer hinter der Zucht Del Piccolo Diavolo in Ostellato (FE) steht: Staffordshire Bull Terrier seit 2013, Linien Elitebull und Lackyle, Gentests und ENCI-Papiere."
@@ -143,10 +143,6 @@ custom_content: |
   </div>
   </section>
 
-  <section class="dark-section">
-  <h2>Wir Sind Keine Verkäufer, Wir Sind Hüter</h2>
-  <p>Wir züchten nicht für Profit. Jeder Wurf kostet Tausende Euro für Tests, Tierarzt, Qualitätsfutter. Sie werden unsere Welpen nie auf Kleinanzeigen finden. Wir wählen auch die Besitzer aus.</p>
-  </section>
   
   <!--CORRELATI-->
 

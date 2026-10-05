@@ -1,6 +1,6 @@
 ---
 title: "Allevamento Staffordshire Bull Terrier in Emilia-Romagna"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 tipoPagina: "ContactPage"
 titleSeo: "Allevamento Staffy in Emilia-Romagna: Ostellato (FE)"
 date: 2025-12-28
@@ -225,6 +225,6 @@ custom_content: |
   <section class="dark-section">
   <h2>Ti Aspettiamo</h2>
   <p>Vieni a conoscere i nostri Staffordshire Bull Terrier e l'ambiente in cui crescono. La visita è il primo passo per una scelta consapevole.</p>
-  <a href="https://wa.me/393924635584" class="btn btn-gold" title="Prenota una visita su WhatsApp">Prenota su WhatsApp</a>
+  <a href="https://wa.me/393924635584" class="btn btn-gold" title="Concorda una visita su WhatsApp">Concorda su WhatsApp</a>
   </section>
 ---

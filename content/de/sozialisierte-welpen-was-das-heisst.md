@@ -2,7 +2,7 @@
 title: "\"Bereits sozialisierte Welpen\": was das heißt"
 titleSeo: "Sozialisierte Welpen: was das wirklich heißt"
 date: 2026-09-26
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "socializzazione-affido"
 articolo: true
 image: "/images/blog/socializzazione-cortile-hero.webp"
@@ -106,7 +106,7 @@ custom_content: |
 
   <p>Und der Hof ersetzt das Haus nicht. Zwischen <strong>vierzig und fünfzig Tagen</strong> kommen sie abwechselnd wieder herein, <strong>in Gruppen von zwei oder drei</strong>, für einige Stunden. Nicht alle zusammen: in kleiner Gruppe, damit jeder die Sache selbst erlebt, statt sie zu beobachten, während das Rudel als Schutzschild dient. Dort lernen sie den Rest &mdash; den laufenden Fernseher, Menschen, die kommen und gehen, den glatten Boden, die Küche.</p>
 
-  <p><strong>Die Menschen, die vorbeikommen, sind fast alle neue Gesichter.</strong> Familien, die einen Welpen reserviert haben, kommen ihn während des Aufwachsens mehrfach besuchen, außer sie reisen von sehr weit an: für die Welpen bedeutet das andere Hände, andere Stimmen, andere Gangarten, über die Zeit wiederholt. Dabei kommt auch gelegentlich ein Kind mit, denn meine eigenen Kinder sind erwachsen und hier leben keine: wenn ein Paar eines mitbringt, ist mir das willkommen, und das sage ich auch.</p>
+  <p><strong>Die Menschen, die vorbeikommen, sind fast alle neue Gesichter.</strong> Familien, die einen Welpen aufnehmen werden, kommen ihn während des Aufwachsens mehrfach besuchen, außer sie reisen von sehr weit an: für die Welpen bedeutet das andere Hände, andere Stimmen, andere Gangarten, über die Zeit wiederholt. Dabei kommt auch gelegentlich ein Kind mit, denn meine eigenen Kinder sind erwachsen und hier leben keine: wenn ein Paar eines mitbringt, ist mir das willkommen, und das sage ich auch.</p>
 
   <p><strong>Der Tierarzt kommt zu uns.</strong> Bei großen Würfen immer, bei kleinen fahre ich manchmal hin &mdash; aber die Regel ist, dass er kommt: ungeimpfte Welpen in eine Praxis zu bringen, in der kranke Hunde verkehren, ist nicht ideal. Die Kehrseite: der Welpe erlebt vor der Abgabe keine Autofahrt, und die lernt er später.</p>
 

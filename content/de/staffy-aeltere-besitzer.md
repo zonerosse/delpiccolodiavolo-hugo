@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier für ältere Besitzer"
 date: 2024-05-28
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "anziani"
 articolo: true
 image: "/images/blog/famiglia-3.jpg"
@@ -61,7 +61,7 @@ custom_content: |
 
   <h2>Für wen die Rasse nicht geeignet ist</h2>
   <p>Wer erhebliche Gleichgewichtsprobleme, Osteoporose oder verminderte Greifkraft hat, sollte eine kleinere und weniger kräftige Rasse wählen, so sehr ihm Staffordshire Bull Terrier auch gefallen. Ebenso, wer zwei Gänge täglich bei jedem Wetter nicht sicher leisten kann oder allein lebt und keine Rückfalllösung hat.</p>
-  <p>Wir sagen das Interessenten regelmäßig und verlieren gelegentlich einen Verkauf darüber. Das ist der richtige Tausch: ein Hund, der mit 18 Monaten zurückgegeben wird, weil der Halter ihn nicht halten konnte, ist für alle ein Scheitern — und es war beim ersten Telefonat absehbar.</p>
+  <p>Wir sagen das jeder Familie, die fragt, auch wenn es nicht das ist, was sie hören wollte: ein Hund, der mit 18 Monaten zurückgegeben wird, weil der Halter ihn nicht halten konnte, ist für alle ein Scheitern — und es war beim ersten Telefonat absehbar.</p>
 
   <h2>Ein realistischer Tag</h2>
   <p>Ein Tag, der für viele ältere Halter funktioniert, sieht so aus: nach dem Aufstehen ein kurzer Gang von zehn bis fünfzehn Minuten, Frühstück, dann der Hauptspaziergang von vierzig bis sechzig Minuten am Vormittag; Ruhe zu Hause bis zum Mittag, während der Hund an einem gefüllten Kong kaut, solange Sie essen; eine Mittagsruhe, ein kurzer Gang von zehn bis fünfzehn Minuten und ein paar ruhige Nasen- oder Denkspiele zusammen; abends ein Spaziergang von zwanzig bis dreißig Minuten, Zeit auf dem Sofa und ein letzter Gang von fünf Minuten vor dem Schlafen. Zusammen ist das deutlich mehr als eine Stunde Gehen am Tag, gut verteilt, was Hund und Halter gleichermaßen guttut.</p>

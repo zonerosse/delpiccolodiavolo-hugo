@@ -1,7 +1,7 @@
 ---
 title: "Staffy breeder in Emilia-Romagna, Italy: Ostellato (FE)"
 date: 2025-12-28
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 tipoPagina: "ContactPage"
 translationKey: "contatti"
 description: "Contact Del Piccolo Diavolo kennel in Ostellato (FE), Italy. Visits by appointment, WhatsApp, phone. Reachable from Ferrara, Bologna, Milan, Venice, Florence."
@@ -246,6 +246,6 @@ custom_content: |
   <section class="dark-section">
   <h2>We're Waiting for You</h2>
   <p>Come meet our Staffordshire Bull Terriers and the environment where they grow. A visit is the first step toward an informed choice.</p>
-  <a href="https://wa.me/393924635584" class="btn" title="Book a visit on WhatsApp">Book on WhatsApp</a>
+  <a href="https://wa.me/393924635584" class="btn" title="Arrange a visit on WhatsApp">Arrange on WhatsApp</a>
   </section>
 ---

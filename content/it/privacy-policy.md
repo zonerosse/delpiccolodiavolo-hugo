@@ -1,7 +1,7 @@
 ---
 title: "Privacy Policy – Del Piccolo Diavolo"
 date: 2025-12-28
-lastmod: 2026-09-29
+lastmod: 2026-10-05
 tipoPagina: "WebPage"
 translationKey: "privacy"
 description: "Informativa privacy dell'Allevamento Del Piccolo Diavolo a Ostellato (FE): quali dati trattiamo, perché, per quanto tempo e i diritti previsti dal GDPR."
@@ -68,7 +68,7 @@ custom_content: |
   <p><strong>Base giuridica:</strong> Esecuzione di misure precontrattuali adottate su richiesta dell'interessato (Art. 6, par. 1, lett. b GDPR).</p>
   
   <h4>b) Affido dei cuccioli</h4>
-  <p><strong>Finalità:</strong> Organizzare le visite in allevamento, procedere all'affido dei cuccioli. Non riceviamo prenotazioni e non teniamo liste d'attesa.</p>
+  <p><strong>Finalità:</strong> Organizzare le visite in allevamento, procedere all'affido dei cuccioli.</p>
   <p><strong>Base giuridica:</strong> Esecuzione del contratto di affido (Art. 6, par. 1, lett. b GDPR).</p>
   
   <h4>c) Assistenza dopo l'affido</h4>

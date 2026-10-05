@@ -2,7 +2,7 @@
 title: "Privacy Policy – Del Piccolo Diavolo"
 titleSeo: "Privacy Policy: how we handle your data"
 date: 2025-12-28
-lastmod: 2026-09-28
+lastmod: 2026-10-05
 tipoPagina: "WebPage"
 translationKey: "privacy"
 description: "Privacy policy of the Del Piccolo Diavolo kennel in Ostellato (FE), Italy: what personal data we process, why, for how long and your rights under the GDPR."
@@ -69,7 +69,7 @@ custom_content: |
   <p><strong>Legal basis:</strong> Performance of pre-contractual measures taken at the request of the data subject (Art. 6, para. 1, letter b GDPR).</p>
   
   <h4>b) Placement of puppies</h4>
-  <p><strong>Purpose:</strong> Organising visits to the kennel, proceeding with the placement of puppies. We do not take reservations and we keep no waiting list.</p>
+  <p><strong>Purpose:</strong> Organising visits to the kennel, proceeding with the placement of puppies.</p>
   <p><strong>Legal basis:</strong> Performance of the placement agreement (Art. 6, para. 1, letter b GDPR).</p>
   
   <h4>c) Assistance after placement</h4>
@@ -131,7 +131,7 @@ custom_content: |
   
   
   <div class="legal-section">
-  <h3>9. Reservation Form</h3>
+  <h3>9. Contact Form</h3>
   <p>We use a form to collect the details of anyone who would like to be told when a litter is on the way. <strong>It is not published on this site and cannot be reached from the menus:</strong> it lives at <code>/contatto/</code> and the link is sent by the controller, on request, to people who have already been in touch with the kennel.</p>
   <p><strong>Data collected:</strong> full name, email address, phone number and country (required), town, and the information you choose to provide (sex preference, experience with dogs, where the dog will live and with whom).</p>
   <p><strong>Purpose:</strong> solely to handle your enquiry and to contact you about puppies. Your data is not used for newsletters, automated marketing or profiling.</p>

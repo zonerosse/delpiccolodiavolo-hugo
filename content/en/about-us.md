@@ -1,7 +1,7 @@
 ---
 title: "About us – the breeder behind Del Piccolo Diavolo"
 date: 2025-12-28
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 tipoPagina: "ProfilePage"
 translationKey: "chi-siamo"
 description: "Del Piccolo Diavolo, Staffordshire Bull Terrier kennel in Ostellato (Ferrara), Italy, since 2013: who breeds the dogs, how pairings are chosen, how to visit."
@@ -143,10 +143,6 @@ custom_content: |
   </div>
   </section>
 
-  <section class="dark-section">
-  <h2>We're Not Sellers, We're Guardians</h2>
-  <p>We don't breed for profit. Each litter costs thousands of euros in tests, veterinary care, quality food. You'll never find our puppies on classified ads. We also select the owners.</p>
-  </section>
   
   <!--CORRELATI-->
 

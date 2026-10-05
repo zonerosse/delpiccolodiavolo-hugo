@@ -2,7 +2,7 @@
 title: "Staffy Travel and Transport"
 date: 2024-04-07
 titleSeo: "Travelling with a Staffordshire Bull Terrier: car and train"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "viaggi"
 articolo: true
 image: "/images/blog/famiglia-4.webp"
@@ -60,7 +60,7 @@ custom_content: |
   <h2>Documents for European travel</h2>
   <p>Within the European Union, a dog needs a microchip, an EU pet <a href="https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/travelling-pet-within-eu_en" title="Travelling with a pet within the EU, European Commission" target="_blank" rel="noopener" aria-label="Travelling with a pet within the EU, European Commission (opens in a new tab)">passport</a> issued by an authorised veterinarian, and a valid rabies vaccination administered after the microchip and at least 21 days before travel. That waiting period is the detail most often missed and it cannot be shortened.</p>
   <p>Some countries add requirements: tapeworm treatment administered by a veterinarian between twenty-four and 120 hours before entry is required for Ireland, Finland, Malta and Norway. And, importantly for this breed, several countries restrict or prohibit the Staffordshire Bull Terrier entirely — check the destination's breed legislation as carefully as its health requirements.</p>
-  <p>For puppies exported from us, we prepare the passport, the vaccinations and the required treatments, and we tell buyers plainly when the destination country has restrictions. That conversation happens before a deposit, not after.</p>
+  <p>For puppies going to live abroad, we prepare the passport, the vaccinations and the required treatments, and we tell families plainly when the destination country has restrictions: at the first conversation, not at handover.</p>
 
   <h2>Trains, ferries and public transport</h2>
   <p>In Italy, dogs travel on Trenitalia and Italo services with a muzzle available and a lead, on a ticket for medium and large dogs, in most classes. Ferry operators vary widely: some allow dogs in cabins, others confine them to kennels on deck, which in summer is a genuine welfare concern for this breed. Ask specifically about air-conditioned kennels or pet-friendly cabins when booking.</p>

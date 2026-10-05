@@ -2,7 +2,7 @@
 title: "\"Already socialised puppies\": what it really means"
 titleSeo: "Socialised puppies: what it really means"
 date: 2026-09-26
-lastmod: 2026-09-29
+lastmod: 2026-10-05
 translationKey: "socializzazione-affido"
 articolo: true
 image: "/images/blog/socializzazione-cortile-hero.webp"
@@ -106,7 +106,7 @@ custom_content: |
 
   <p>And the courtyard does not replace the house. Between <strong>forty and fifty days</strong> they start coming back inside in turns, <strong>in groups of two or three</strong>, for a few hours. Not all together: in a small group, so each one lives the experience instead of watching it while the pack acts as a shield. That is where they learn the rest &mdash; the television on, people coming and going, the smooth floor, the kitchen.</p>
 
-  <p><strong>Most of the people who come through are new faces.</strong> Families who have reserved a puppy come to see it several times as it grows, except those travelling from very far: for the puppies that means different hands, different voices, different gaits, repeated over time. It is also when the occasional child turns up, because my own children are grown and there are none living here: when a couple brings one along, I see it as a bonus and say so gladly.</p>
+  <p><strong>Most of the people who come through are new faces.</strong> Families who will welcome a puppy come to see it several times as it grows, except those travelling from very far: for the puppies that means different hands, different voices, different gaits, repeated over time. It is also when the occasional child turns up, because my own children are grown and there are none living here: when a couple brings one along, I see it as a bonus and say so gladly.</p>
 
   <p><strong>The vet comes to us.</strong> Always for large litters, sometimes I go for small ones &mdash; but the rule is that he comes: taking unvaccinated puppies into a clinic, where sick dogs pass through, is not ideal. The flip side is that the puppy does not experience a car journey before leaving, and that is something it will learn later.</p>
 

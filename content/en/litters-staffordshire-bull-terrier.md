@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Litters"
 titleSeo: "Upcoming Staffy litters: the selection programme"
 date: 2025-12-28
-lastmod: 2026-10-04
+lastmod: 2026-10-05
 tipoPagina: "CollectionPage"
 translationKey: "programma"
 description: "Staffordshire Bull Terrier litters at Del Piccolo Diavolo: planned and past pairings, the parents, their L2HGA and HC tests, and how we decide each mating."
@@ -28,7 +28,7 @@ custom_content: |
   <span class="hero-eyebrow">Litter Program</span>
   <h1 class="hero-title">The selection programme <br><em>and upcoming litters</em></h1>
   <p class="hero-subtitle">Selection, health and breed type - Since 2013</p>
-  <p class="hero-description">Planned pairings with tested breeding dogs, ENCI pedigree and selected lines from UK and Ireland. Updates on availability and reservations.</p>
+  <p class="hero-description">Planned pairings chosen for health, temperament and type. On this page you will find the selection programme and the history of our litters.</p>
   <p style="font-family:Georgia,serif;font-size:1.05rem;font-weight:700;color:#8b5a2b;margin:0 0 .8rem">Stay up to date on our planned litters.</p>
   <div class="hero-actions">
   <a href="/en/litters-staffordshire-bull-terrier/follow/" class="btn btn-ghost" title="Follow new litters through the RSS feed"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true" style="flex:0 0 16px"><circle cx="5" cy="19" r="2.5"/><path d="M3 10.5v3a7.5 7.5 0 0 1 7.5 7.5h3A10.5 10.5 0 0 0 3 10.5z"/><path d="M3 4v3a14 14 0 0 1 14 14h3A17 17 0 0 0 3 4z"/></svg>Follow via RSS</a>

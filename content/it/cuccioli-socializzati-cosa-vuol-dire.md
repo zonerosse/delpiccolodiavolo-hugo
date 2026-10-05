@@ -2,7 +2,7 @@
 title: "Cuccioli già socializzati: cosa vuol dire davvero"
 titleSeo: "Cuccioli socializzati: cosa vuol dire davvero"
 date: 2026-09-26
-lastmod: 2026-09-29
+lastmod: 2026-10-05
 translationKey: "socializzazione-affido"
 articolo: true
 image: "/images/blog/socializzazione-cortile-hero.webp"
@@ -106,7 +106,7 @@ custom_content: |
 
   <p>E il cortile non sostituisce la casa. Fra i <strong>quaranta e i cinquanta giorni</strong> cominciano a rientrare a turno, <strong>a gruppi di due o tre</strong>, per qualche ora. Non tutti insieme: in piccolo gruppo, cos&igrave; che ognuno viva la cosa invece di guardarla mentre il branco fa da scudo. &Egrave; l&igrave; dentro che imparano il resto &mdash; la televisione accesa, la gente che entra ed esce, il pavimento liscio, la cucina.</p>
 
-  <p><strong>Le persone che passano sono quasi tutte facce nuove.</strong> Le famiglie che hanno prenotato un cucciolo vengono a vederlo pi&ugrave; volte durante la crescita, salvo chi arriva da troppo lontano: per i cuccioli significa mani diverse, voci diverse, andature diverse, ripetute nel tempo. Ed &egrave; anche l'occasione in cui capita qualche bambino, perch&eacute; i miei figli sono ormai adulti e in casa bambini non ce ne sono: quando una coppia ne porta uno, per me &egrave; un vantaggio e lo dico volentieri.</p>
+  <p><strong>Le persone che passano sono quasi tutte facce nuove.</strong> Le famiglie che accoglieranno un cucciolo vengono a vederlo pi&ugrave; volte durante la crescita, salvo chi arriva da troppo lontano: per i cuccioli significa mani diverse, voci diverse, andature diverse, ripetute nel tempo. Ed &egrave; anche l'occasione in cui capita qualche bambino, perch&eacute; i miei figli sono ormai adulti e in casa bambini non ce ne sono: quando una coppia ne porta uno, per me &egrave; un vantaggio e lo dico volentieri.</p>
 
   <p><strong>Il veterinario viene qui.</strong> Per le cucciolate numerose sempre, per le piccole a volte vado io &mdash; ma la regola &egrave; che venga lui: portare cuccioli non ancora vaccinati in un ambulatorio, dove passano cani malati, non &egrave; il massimo. Il rovescio &egrave; che il cucciolo non fa il viaggio in auto prima dell'affido, e quello lo imparer&agrave; dopo.</p>
 

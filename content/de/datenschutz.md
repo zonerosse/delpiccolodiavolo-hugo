@@ -1,7 +1,7 @@
 ---
 title: "Datenschutzerklärung – Del Piccolo Diavolo"
 date: 2025-12-28
-lastmod: 2026-09-28
+lastmod: 2026-10-05
 tipoPagina: "WebPage"
 translationKey: "privacy"
 description: "Datenschutz der Zucht Del Piccolo Diavolo in Ostellato (FE): welche personenbezogenen Daten wir verarbeiten, wozu, wie lange und Ihre Rechte nach der DSGVO."
@@ -68,7 +68,7 @@ custom_content: |
   <p><strong>Rechtsgrundlage:</strong> Durchführung vorvertraglicher Maßnahmen auf Anfrage der betroffenen Person (Art. 6 Abs. 1 lit. b DSGVO).</p>
   
   <h4>b) Vermittlung der Welpen</h4>
-  <p><strong>Zweck:</strong> Organisation von Besuchen in der Zucht, Durchführung der Vermittlung der Welpen. Wir nehmen keine Reservierungen entgegen und führen keine Warteliste.</p>
+  <p><strong>Zweck:</strong> Organisation von Besuchen in der Zucht, Durchführung der Vermittlung der Welpen.</p>
   <p><strong>Rechtsgrundlage:</strong> Erfüllung des Vermittlungsvertrags (Art. 6 Abs. 1 lit. b DSGVO).</p>
   
   <h4>c) Betreuung nach der Vermittlung</h4>
@@ -130,7 +130,7 @@ custom_content: |
   
   
   <div class="legal-section">
-  <h3>9. Reservierungsformular</h3>
+  <h3>9. Kontaktformular</h3>
   <p>Wir verwenden ein Formular, um die Angaben derjenigen zu erfassen, die benachrichtigt werden möchten, wenn ein Wurf unterwegs ist. <strong>Es ist nicht auf der Website veröffentlicht und über die Menüs nicht erreichbar:</strong> es liegt unter <code>/contatto/</code>, und den Link versendet der Verantwortliche auf Anfrage an Personen, die bereits mit der Zucht in Kontakt standen.</p>
   <p><strong>Erhobene Daten:</strong> Vor- und Nachname, E-Mail-Adresse, Telefonnummer und Land (Pflichtangaben), Ort sowie die Angaben, die Sie freiwillig machen (Geschlechtswunsch, Erfahrung mit Hunden, wo und mit wem der Hund leben wird).</p>
   <p><strong>Zweck:</strong> ausschließlich die Bearbeitung Ihrer Anfrage und die Kontaktaufnahme zu den Welpen. Ihre Daten werden nicht für Newsletter, automatisiertes Marketing oder Profiling verwendet.</p>

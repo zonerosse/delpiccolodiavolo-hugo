@@ -1,7 +1,7 @@
 ---
 title: "Reisen und Transport mit Staffordshire Bull Terrier"
 date: 2024-04-07
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "viaggi"
 articolo: true
 image: "/images/blog/famiglia-4.jpg"
@@ -55,7 +55,7 @@ custom_content: |
   <h2>Dokumente für Reisen in Europa</h2>
   <p>Innerhalb der Europäischen Union braucht ein Hund einen Mikrochip, einen EU-<a href="https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/travelling-pet-within-eu_en" title="Reisen mit Heimtieren innerhalb der EU, Europäische Kommission" target="_blank" rel="noopener" aria-label="Reisen mit Heimtieren innerhalb der EU, Europäische Kommission (wird in einem neuen Tab geöffnet)">Heimtierausweis</a> von einem ermächtigten Tierarzt und eine gültige Tollwutimpfung, die nach dem Chippen und mindestens einundzwanzig Tage vor der Reise erfolgt sein muss. Diese Wartefrist wird am häufigsten übersehen und lässt sich nicht verkürzen.</p>
   <p>Manche Länder verlangen mehr: eine tierärztlich verabreichte Bandwurmbehandlung zwischen vierundzwanzig und hundertzwanzig Stunden vor der Einreise gilt für Irland, Finnland, Malta und Norwegen. Und für diese Rasse besonders wichtig: mehrere Länder beschränken oder verbieten den Staffordshire Bull Terrier — prüfen Sie die Rassegesetzgebung des Ziellandes ebenso sorgfältig wie die Gesundheitsvorschriften.</p>
-  <p>Für Welpen, die wir ins Ausland abgeben, bereiten wir Heimtierausweis, Impfungen und erforderliche Behandlungen vor und weisen Käufer offen auf Beschränkungen im Zielland hin. Dieses Gespräch findet vor der Anzahlung statt, nicht danach.</p>
+  <p>Für Welpen, die im Ausland leben werden, bereiten wir Heimtierausweis, Impfungen und erforderliche Behandlungen vor und weisen die Familien offen auf Beschränkungen im Zielland hin: beim ersten Gespräch, nicht bei der Übergabe.</p>
 
   <h2>Bahn, Fähre und öffentlicher Verkehr</h2>
   <p>In Italien reisen Hunde bei Trenitalia und Italo mit mitgeführtem Maulkorb und an der Leine, mit einer Fahrkarte für mittlere und große Hunde, in den meisten Klassen. Fährgesellschaften handhaben es sehr unterschiedlich: manche erlauben Hunde in der Kabine, andere verweisen sie in Zwinger an Deck, was im Sommer für diese Rasse ein echtes Wohlbefindensproblem ist. Fragen Sie bei der Buchung ausdrücklich nach klimatisierten Zwingern oder tierfreundlichen Kabinen.</p>
