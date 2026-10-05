@@ -376,6 +376,25 @@ quando per specifica è ripetibile, 445 parole su una pagina che ne ha 1.758
 perché avevano letto una copia in cache. Prima di correggere qualcosa, va
 verificato che il problema esista.
 
+**Lo standard citato a memoria.** Per mesi il sito ha scritto, in sei pagine e
+tre lingue, che nero focato e fegato "non sono ammessi" e "non possono essere
+presentati in esposizione". Lo standard FCI n. 76 li definisce *altamente
+indesiderabili*: non vietati, penalizzati. Lo standard si cita con le parole
+del testo ENCI (EN: *highly undesirable*, DE: *höchst unerwünscht*), mai
+riassunte a memoria.
+
+**EN e DE rimasti a una versione vecchia.** In italiano le prenotazioni e il
+linguaggio commerciale erano stati tolti; in inglese e tedesco sono rimasti
+"lose a sale", "buyers", "deposit", una sezione "We're Not Sellers" e un
+modulo chiamato "Reservation Form". Lo script controlla che EN e DE non abbiano
+*meno* dell'italiano, non che non abbiano *altro*: quando si cambia una regola
+di linguaggio, si cerca la parola in tutte e tre le lingue.
+
+**Fidarsi dei report GEO.** Un audit esterno (ottobre 2026) segnalava lo schema
+LocalBusiness mancante, il FAQPage su una sola pagina, l'apertura degli
+articoli da rifare e il canale YouTube assente: erano tutti già a posto. Vale
+la stessa regola degli strumenti SEO: prima si verifica nel repo.
+
 ---
 
 ## 14. Cosa vale la pena scrivere
@@ -394,3 +413,73 @@ Funzionano gli articoli che contengono qualcosa che nessun altro ha:
 
 Non funzionano: "quanto costa un cucciolo", "come socializzare", "lo Staffy è
 pericoloso" — a meno che non li si scriva partendo dai propri dati.
+
+---
+
+## 15. Parole dell'affido, non del commercio
+
+**L'allevamento è un'attività amatoriale, non a fini di lucro**, e le note
+legali (sezione 4) lo dichiarano. Ogni testo del sito deve essere coerente con
+questa dichiarazione: il sito è un documento pubblico, e una sola pagina che
+parla di vendite e caparre la contraddice.
+
+**Prenotazioni, liste d'attesa e caparre non si citano mai**, nemmeno per dire
+che non ci sono (scelta di Paolo, ottobre 2026). Non esistono, quindi non se ne
+parla. Il modulo di `/contatto/` si chiama *modulo di contatto*; la visita in
+allevamento si *concorda*, non si prenota.
+
+| Da non scrivere | Da scrivere |
+|---|---|
+| clienti, acquirenti | famiglie |
+| vendita, vendere, cessione di un nostro cucciolo | affido, affidare |
+| acquisto, prima dell'acquisto | prima di prendere un cucciolo |
+| prenotare un cucciolo, chi ha prenotato | le famiglie che accoglieranno un cucciolo |
+| prenota una visita | concorda una visita |
+| caparra, acconto | (non si cita) |
+| EN: customers, clients, buyers, sale, purchase, deposit, reservation | EN: families, placement, before taking on a puppy |
+| DE: Kunden, Käufer, Verkauf, Kauf, Anzahlung, Reservierung | DE: Familien, Vermittlung, bevor ein Welpe einzieht |
+
+**Eccezioni, decise da Paolo:**
+
+- l'articolo sul prezzo (nelle tre lingue) usa *prezzo* e il linguaggio
+  dell'acquisto, perché la parola chiave è quella: è l'unico posto;
+- le recensioni sono parole dei proprietari, prese dal profilo Google: non si
+  ritoccano, anche se dicono "ho acquistato";
+- le frasi che descrivono il *mercato* e i segnali d'allarme di altri
+  allevamenti ("un cane venduto come Pit Bull", "chi vende un colore raro a
+  prezzo maggiorato") restano: parlano di altri, non dell'affido dei nostri
+  cuccioli;
+- "clienti" detto di persone estranee all'allevamento (la palestra di una
+  proprietaria nelle storie di famiglia) resta.
+
+**Il numero dei cuccioli per cucciolata non si pubblica.** La legge regionale
+(L.R. Emilia-Romagna 5/2005, art. 5) conta fattrici e cuccioli l'anno; i
+numeri li gestisce Paolo con l'AUSL, non il sito. Le femmine sterilizzate sono
+indicate come tali nella loro scheda, e "fattrici in attività" è riservato a
+quelle in riproduzione.
+
+Perché: l'inquadramento amatoriale si regge su fatti e su parole coerenti. Una
+caparra nelle note legali e un badge "Clienti soddisfatti" dicono il contrario
+di quello che l'allevamento è.
+
+---
+
+## 16. Tabelle
+
+Una tabella si usa **solo quando il contenuto è già una tabella** scritta come
+elenco o come prosa: un calendario (vaccinazioni), un confronto fra opzioni con
+gli stessi criteri (antiparassitari, sistemi per l'auto), delle fasce d'età
+(bambini), dei passaggi a dosi (cambio di alimento). Non si inventano tabelle
+per decorare un articolo.
+
+- Dati identici a quelli del testo: la tabella riordina, non aggiunge.
+- Prima colonna in `<strong>`, intestazioni in `<thead>`, stessa tabella nelle
+  tre lingue.
+- Una frase prima della tabella che dica cosa contiene, così la tabella si
+  capisce anche estratta dalla pagina.
+- Niente stile in linea: lo stile delle tabelle è già in `main.css`.
+
+Perché: Google e i motori generativi estraggono volentieri le tabelle per le
+domande di confronto e di calendario, ma una tabella che ripete male il testo
+è solo rumore.
+

@@ -14,7 +14,7 @@ correlati:
     testo: "Geplante und aktuelle Würfe"
   - url: "/de/bewertungen/"
     titolo: "Was Familien sagen"
-    testo: "Bewertungen unserer Welpenkäufer"
+    testo: "Was die Familien sagen"
 slug: "ueber-uns"
 fonti_motivo: "Diese Seite erzählt in der ersten Person die Geschichte und die Arbeit der Zucht Del Piccolo Diavolo und nennt keine externen Quellen, weil die berichteten Tatsachen die der Zucht selbst sind. Was sich prüfen lässt, ist auf der Website prüfbar: Gentest-Befunde mit Mikrochipnummer, ENCI-Ahnentafeln, Ausstellungsergebnisse mit den Namen der Richter."
 custom_content: |

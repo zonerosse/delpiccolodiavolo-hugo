@@ -139,7 +139,7 @@ custom_content: |
   <figcaption>A healthy puppy from tested parents</figcaption>
   </figure>
   <p>Ask for the laboratory certificates of both parents, as documents, with the dogs' names, microchip numbers and the laboratory's name legible. A serious breeder sends them without hesitation and often before you ask.</p>
-  <p>Be wary of any of the following: the phrase "the parents are healthy, they have never had problems", which addresses a different question entirely; certificates you are told you will receive later; a refusal to give the certificates before a deposit; results shown only as a screenshot or a message; and the claim that testing is unnecessary "because our lines have never had it". No line is exempt from a recessive mutation until it is tested.</p>
+  <p>Be wary of any of the following: the phrase "the parents are healthy, they have never had problems", which addresses a different question entirely; certificates you are told you will receive later; a refusal to show the certificates before the puppy goes home; results shown only as a screenshot or a message; and the claim that testing is unnecessary "because our lines have never had it". No line is exempt from a recessive mutation until it is tested.</p>
 
   <h2>Beyond the two DNA tests</h2>
   <p>Genetic testing is the floor, not the ceiling. Serious breeding programmes in this breed also include an annual ophthalmological examination by an ECVO specialist, which detects conditions not covered by DNA tests such as distichiasis; official hip and elbow scoring, which matters more in this breed than is generally admitted; and a cardiac examination for the heart conditions that occasionally appear in bull breeds.</p>

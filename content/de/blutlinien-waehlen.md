@@ -74,7 +74,7 @@ custom_content: |
   <p>Wählen Sie nicht den forschesten Welpen, nur weil er als Erster zu Ihnen kommt — der häufigste Fehler. Das selbstsichere Mittelfeld eines Wurfes passt zur überwiegenden Mehrheit der Familien weit besser als beide Extreme, und ein guter Züchter lenkt Sie dorthin. Tatsächlich wählt ein guter Züchter den Welpen für Sie aus, statt Sie wählen zu lassen, und das sollte beruhigen statt zu ärgern.</p>
 
   <h2>Warnzeichen beim Vergleich von Zwingern</h2>
-  <p>Mehrere Würfe gleichzeitig verfügbar oder ständig Welpen vorrätig. Preise, die sich nach Fellfarbe richten. Gesundheitszeugnisse, die nach der Anzahlung versprochen werden. Welpen vor der achten Lebenswoche, in Italien ohnehin unzulässig. Seltene Farben als Verkaufsargument. Und ein Züchter, der Ihnen keine einzige Frage stellt: gerade diejenigen, die Sie ausfragen, nehmen den Hund zurück, wenn Sie es brauchen.</p>
+  <p>Mehrere Würfe gleichzeitig verfügbar oder ständig Welpen vorrätig. Preise, die sich nach Fellfarbe richten. Gesundheitszeugnisse, die erst für nach dem Einzug versprochen werden. Welpen vor der achten Lebenswoche, in Italien ohnehin unzulässig. Seltene Farben als Verkaufsargument. Und ein Züchter, der Ihnen keine einzige Frage stellt: gerade diejenigen, die Sie ausfragen, nehmen den Hund zurück, wenn Sie es brauchen.</p>
 
   <h2>Häufige Fragen</h2>
 

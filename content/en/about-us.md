@@ -14,7 +14,7 @@ correlati:
     testo: "Planned and current litters"
   - url: "/en/reviews/"
     titolo: "What families say"
-    testo: "Reviews from our puppy owners"
+    testo: "What families say"
 slug: "about-us"
 fonti_motivo: "This page tells the story and the work of the Del Piccolo Diavolo kennel in the first person, and cites no external sources because the facts it reports are the kennel's own. Those that can be verified are verifiable on the site: genetic test reports with the microchip number, ENCI pedigrees, show results with the judges' names."
 custom_content: |

@@ -47,7 +47,7 @@ custom_content: |
   <p>Drittens, und am meisten unterschätzt: Zahnfrakturen durch ungeeignete Kauartikel. Dies ist ein außerordentlich kräftiger Kiefer an einem Hund mit ungewöhnlich hoher Schmerzschwelle, und die klassische Verletzung ist eine Absplitterung am oberen Reißzahn. Der Hund zeigt oft überhaupt kein Anzeichen.</p>
 
   <h2>Was geeignet ist und was nicht</h2>
-  <p>Die Regel, die wir jedem Welpenkäufer mitgeben, ist einfach: was Sie mit dem Fingernagel nicht eindrücken können und was Sie sich nicht auf das Knie fallen lassen möchten, gehört nicht ins Maul des Hundes. Das schließt Geweihe, Knochen jeder Art einschließlich der verbreitet verkauften tragenden Rinderknochen, Nylonknochen, Hufe und Steine aus.</p>
+  <p>Die Regel, die wir jeder Familie mitgeben, die einen unserer Welpen aufnimmt, ist einfach: was Sie mit dem Fingernagel nicht eindrücken können und was Sie sich nicht auf das Knie fallen lassen möchten, gehört nicht ins Maul des Hundes. Das schließt Geweihe, Knochen jeder Art einschließlich der verbreitet verkauften tragenden Rinderknochen, Nylonknochen, Hufe und Steine aus.</p>
   <p>Geeignet sind: Kauartikel aus Gummi, die unter Druck nachgeben, Zahnpflegeartikel mit nachgewiesener abrasiver Wirkung, Seilspielzeug unter Aufsicht und rohe Karotten, sofern die Ernährung es zulässt. Nichts davon ersetzt das Zähneputzen, und jedes Produkt, das damit wirbt, Putzen überflüssig zu machen, übertreibt.</p>
 
   <h2>Zähneputzen: das Einzige, was wirklich wirkt</h2>

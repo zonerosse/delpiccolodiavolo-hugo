@@ -78,7 +78,7 @@ custom_content: |
   <p>Avoid choosing the boldest puppy in the litter because it comes to you first, which is the commonest mistake. The confident middle of a litter suits the vast majority of homes far better than either extreme, and a good breeder will steer you there — indeed, a good breeder chooses the puppy for you rather than letting you choose it, and that should be reassuring rather than annoying.</p>
 
   <h2>Warning signs when comparing kennels</h2>
-  <p>Several litters available at once, or puppies always in stock. Prices that vary by coat colour. Health certificates promised after the deposit. Puppies available before 8 weeks, which is illegal in Italy. Rare colours advertised as a selling point. And a breeder who asks you no questions at all: the ones who interrogate you are the ones who will take the dog back if you need them to.</p>
+  <p>Several litters available at once, or puppies always in stock. Prices that vary by coat colour. Health certificates promised for after the puppy goes home. Puppies available before 8 weeks, which is illegal in Italy. Rare colours advertised as a selling point. And a breeder who asks you no questions at all: the ones who interrogate you are the ones who will take the dog back if you need them to.</p>
 
   <h2>Frequently asked questions</h2>
 
