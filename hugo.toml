@@ -85,7 +85,7 @@ enableRobotsTXT = true
   # nei testi si scrive <!--REC-TOTALE--> al posto del numero e <!--REC-VOTO-->
   # al posto del voto, e Hugo li sostituisce da solo.
   recensioniVoto = "5.0"
-  recensioniTotale = "41"
+  recensioniTotale = "42"
 
 # Cloudflare Pages mette nell'ambiente di build lo SHA del commit che sta
 # compilando (CF_PAGES_COMMIT_SHA). Hugo di norma legge solo le variabili
