@@ -2,7 +2,7 @@
 title: "Welpen: Erste Fütterung"
 date: 2025-04-15
 titleSeo: "Ernährung des Welpen in den ersten Monaten"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -53,6 +53,18 @@ custom_content: |
   <h2>Die erste Regel: nicht alles auf einmal ändern</h2>
   <p>Ein Welpe, der in ein neues Zuhause kommt, hat bereits Mutter, Wurfgeschwister und alles Vertraute verloren. Am selben Tag auch noch das Futter zu wechseln fügt Verdauungsprobleme hinzu, und Durchfall bei einem 8 Wochen alten Welpen ist keine Kleinigkeit.</p>
   <p>Füttern Sie mindestens eine Woche lang genau das, <a href="https://europeanpetfood.org/self-regulation/nutritional-guidelines/" title="FEDIAF-Ernährungsleitlinien für Allein- und Ergänzungsfuttermittel" target="_blank" rel="noopener" aria-label="FEDIAF-Ernährungsleitlinien für Allein- und Ergänzungsfuttermittel (wird in einem neuen Tab geöffnet)">was der Züchter gefüttert hat</a>. Wollen Sie danach wechseln, tun Sie es über 7 bis 10 Tage: 3 Tage ein Viertel neues Futter, 3 Tage die Hälfte, 3 Tage drei Viertel, dann vollständig. Wird der Kot weicher, gehen Sie einen Schritt zurück.</p>
+
+  <table>
+  <thead>
+  <tr><th>Tage</th><th>Bisheriges Futter</th><th>Neues Futter</th></tr>
+  </thead>
+  <tbody>
+  <tr><td><strong>1-3</strong></td><td>Drei Viertel</td><td>Ein Viertel</td></tr>
+  <tr><td><strong>4-6</strong></td><td>Die Hälfte</td><td>Die Hälfte</td></tr>
+  <tr><td><strong>7-9</strong></td><td>Ein Viertel</td><td>Drei Viertel</td></tr>
+  <tr><td><strong>Ab Tag 10</strong></td><td>Nichts</td><td>Alles</td></tr>
+  </tbody>
+  </table>
   <p>Wir geben jedem Welpen einen Vorrat seines gewohnten Futters und den genauen Fütterungsplan mit — genau aus diesem Grund.</p>
 
   <h2>Wie oft und wie viel</h2>

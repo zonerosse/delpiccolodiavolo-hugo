@@ -2,7 +2,7 @@
 title: "Programma allevamento Staffordshire Bull Terrier"
 titleSeo: "Prossime cucciolate di Staffy: il programma di selezione"
 date: 2025-12-28
-lastmod: 2026-09-30
+lastmod: 2026-10-04
 tipoPagina: "CollectionPage"
 translationKey: "programma"
 description: "Programma di allevamento Staffordshire Bull Terrier: criteri di selezione, salute, test genetici e storico delle cucciolate passate e future."

@@ -2,7 +2,7 @@
 title: "Welpen: Erste Impfungen"
 date: 2025-06-10
 titleSeo: "Erste Impfungen des Welpen: Plan und Auffrischung"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/salute.webp"
@@ -49,6 +49,20 @@ custom_content: |
 
   <h2>Der Impfplan</h2>
   <p>Die meisten Protokolle in Italien folgen demselben Muster. Die erste Injektion erfolgt mit 6 bis 8 Wochen, noch beim Züchter, und deckt Staupe, Hepatitis und Parvovirose ab. Die zweite folgt mit 10 bis 12 Wochen, meist ergänzt um Leptospirose. Die dritte mit 14 bis 16 Wochen schließt die Grundimmunisierung ab. Eine erste Auffrischung erfolgt mit 12 Monaten, danach richtet sich der Abstand nach Impfstoff und tierärztlicher Einschätzung.</p>
+
+  <table>
+  <thead>
+  <tr><th>Alter</th><th>Was gemacht wird</th><th>Gut zu wissen</th></tr>
+  </thead>
+  <tbody>
+  <tr><td><strong>6-8 Wochen</strong></td><td>Erste Dosis des Kombinationsimpfstoffs: Staupe, Hepatitis, Parvovirose</td><td>Noch beim Züchter, vor der Abgabe</td></tr>
+  <tr><td><strong>10-12 Wochen</strong></td><td>Zweite Dosis, meist mit Leptospirose</td><td>Der Abstand zwischen den Dosen darf nicht verkürzt werden</td></tr>
+  <tr><td><strong>Ab 12 Wochen</strong></td><td>Tollwut, Pflicht für Reisen in der Europäischen Union</td><td>Gültig 21 Tage danach, eingetragen im Heimtierausweis</td></tr>
+  <tr><td><strong>14-16 Wochen</strong></td><td>Dritte Dosis, schließt die Grundimmunisierung ab</td><td>Bei erheblicher Verzögerung kann der Tierarzt einen Teil wiederholen</td></tr>
+  <tr><td><strong>16-18 Wochen</strong></td><td>Keine Injektion: der Schutz setzt ein</td><td>Die Immunität baut sich ein bis zwei Wochen nach der letzten Dosis auf</td></tr>
+  <tr><td><strong>12 Monate</strong></td><td>Erste Auffrischung</td><td>Danach richtet sich der Abstand nach Impfstoff und Tierarzt</td></tr>
+  </tbody>
+  </table>
   <p>Der Schutz besteht nicht sofort. Die Immunität baut sich über ein bis 2 Wochen nach der letzten Injektion auf, das heißt ein Welpe ist erst mit etwa 16 bis 18 Wochen wirklich geschützt, nicht im Moment der letzten Spritze.</p>
   <p>Zwei Details werden oft übersehen. Erstens darf der Abstand zwischen den Dosen nicht verkürzt werden, weil maternale Antikörper den Impfstoff blockieren und der Plan um deren Abbau herum konstruiert ist. Zweitens muss der Tierarzt bei erheblicher Verzögerung unter Umständen einen Teil des Plans neu beginnen.</p>
 

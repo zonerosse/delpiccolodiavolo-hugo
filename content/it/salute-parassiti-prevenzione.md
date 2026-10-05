@@ -1,7 +1,7 @@
 ---
 title: "Parassiti: Prevenzione e Controllo Staffordshire Bull Terrier"
 date: 2025-01-20
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 titleSeo: "Parassiti nello Staffordshire Bull Terrier: prevenzione"
 translationKey: "parassiti"
 articolo: true
@@ -76,17 +76,18 @@ custom_content: |
   
   <h2>Protocolli Stagionali: Come Organizzarsi</h2>
   
-  <h3>Primavera-Estate (marzo-ottobre)</h3>
-  
-  <p><strong>Massima pressione parassitaria.</strong> Programma trattamenti antiparassitari regolari (ogni 4 settimane o secondo prodotto) e controlli visivi accurati dopo ogni passeggiata in erba alta, boschi, parchi. Periodo critico per zecche e pulci.</p>
-  
-  <h3>Autunno (ottobre-dicembre)</h3>
-  
-  <p>Continua la protezione completa, soprattutto nelle aree rurali, collinari o con clima mite. Le zecche adulte sono particolarmente attive in autunno. Non abbassare la guardia.</p>
-  
-  <h3>Inverno (dicembre-marzo)</h3>
-  
-  <p>Valuta con il veterinario se mantenere protocollo "leggero" o completo. In ambienti riscaldati domestici le pulci rimangono attive tutto l'anno. In zone endemiche per Leishmaniosi, protezione 12 mesi obbligatoria.</p>
+  <p>Come cambia la protezione dai parassiti nel corso dell'anno, stagione per stagione:</p>
+
+  <table>
+  <thead>
+  <tr><th>Periodo</th><th>Rischio</th><th>Cosa fare</th></tr>
+  </thead>
+  <tbody>
+  <tr><td><strong>Primavera ed estate (marzo-ottobre)</strong></td><td>Massima pressione: è il periodo critico per zecche e pulci</td><td>Trattamento regolare, ogni 4 settimane o come indica il prodotto; controllo accurato dopo ogni passeggiata in erba alta, boschi e parchi</td></tr>
+  <tr><td><strong>Autunno (ottobre-dicembre)</strong></td><td>Le zecche adulte sono particolarmente attive</td><td>Protezione completa, soprattutto in aree rurali, collinari o con clima mite: non è il momento di allentare</td></tr>
+  <tr><td><strong>Inverno (dicembre-marzo)</strong></td><td>Nelle case riscaldate le pulci restano attive tutto l'anno</td><td>Si decide con il veterinario se mantenere la protezione completa; dove leishmaniosi o zecche sono endemiche, protezione per 12 mesi</td></tr>
+  </tbody>
+  </table>
   
   <div class="info-box">
   <p class="info-box-title">🏠 Consiglio allevamento</p>
@@ -97,29 +98,16 @@ custom_content: |
   
   <p>Confrontati <strong>SEMPRE</strong> con il veterinario per scegliere il prodotto idoneo all'età esatta e al peso attuale del cucciolo. Non improvvisare.</p>
   
-  <h3>Spot-on (pipette)</h3>
-  
-  <ul>
-  <li><strong>Pro:</strong> pratiche, efficaci su pulci e zecche, copertura 4 settimane, ideali per cuccioli</li>
-  <li><strong>Applicazione:</strong> cute asciutta tra le scapole, dove il cucciolo non si lecca</li>
-  <li><strong>Attenzione:</strong> rispetta l'età minima indicata (spesso 8 settimane), non bagnare per 48h</li>
-  </ul>
-  
-  <h3>Compresse Orali</h3>
-  
-  <ul>
-  <li><strong>Pro:</strong> azione sistemica rapida, comode se il cucciolo fa bagni frequenti o nuota</li>
-  <li><strong>Contro:</strong> alcune coprono solo pulci, altre anche zecche - verifica lo spettro</li>
-  <li><strong>Attenzione:</strong> scegli formulazioni specifiche per cuccioli, rispetta peso minimo</li>
-  </ul>
-  
-  <h3>Collari Antiparassitari</h3>
-  
-  <ul>
-  <li><strong>Pro:</strong> rilascio prolungato (6-8 mesi), copertura ampia, economici</li>
-  <li><strong>Contro:</strong> possibili reazioni cutanee locali, regola bene la misura</li>
-  <li><strong>Attenzione:</strong> verifica età minima (spesso 7 settimane), taglia 2 dita di slack</li>
-  </ul>
+  <table>
+  <thead>
+  <tr><th>Formato</th><th>Vantaggi</th><th>Limiti e modo d'uso</th><th>Età minima</th></tr>
+  </thead>
+  <tbody>
+  <tr><td><strong>Spot-on (pipette)</strong></td><td>Pratiche, efficaci su pulci e zecche per circa 4 settimane, adatte ai cuccioli</td><td>Sulla cute asciutta fra le scapole, dove il cane non arriva a leccare; niente bagno per 48 ore</td><td>Spesso 8 settimane: vale quella indicata sul prodotto</td></tr>
+  <tr><td><strong>Compresse masticabili</strong></td><td>Azione rapida in tutto il corpo, non si perdono con bagni o nuotate</td><td>Alcune coprono solo le pulci, altre anche le zecche: va controllato lo spettro</td><td>Formulazioni per cuccioli, rispettando il peso minimo</td></tr>
+  <tr><td><strong>Collari</strong></td><td>Rilascio per 6-8 mesi, copertura ampia, economici; nella formulazione giusta respingono anche i pappataci</td><td>Vanno portati sempre, con due dita di gioco; possibili reazioni cutanee locali</td><td>Spesso 7 settimane: vale quella indicata sul prodotto</td></tr>
+  </tbody>
+  </table>
   
   <div class="alert">
   <p class="alert-title">⚠️ PERICOLO</p>

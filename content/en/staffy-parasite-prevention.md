@@ -1,7 +1,7 @@
 ---
 title: "Parasite Prevention for Staffordshire Bull Terrier"
 date: 2025-01-20
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "parassiti"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -69,10 +69,35 @@ custom_content: |
   <p>One caution on products: never use a preparation formulated for cats on a dog or the reverse, and never use permethrin-based products in a household with cats. And be sceptical of natural alternatives such as garlic or essential oils. Garlic is toxic to dogs, several essential oils are also toxic, and none of them prevent babesiosis.</p>
 
   <h2>The year, season by season</h2>
-  <p><strong>Spring and summer, March to October</strong>, is the period of greatest pressure: regular treatment, every four weeks or as the product specifies, and a careful check after every walk in long grass, woods or parks. <strong>Autumn</strong> is no time to ease off, because adult ticks are particularly active then, above all in rural, hilly or mild areas. <strong>In winter</strong>, decide with your vet whether to keep full cover: in heated homes fleas stay active all year, and where leishmaniasis or ticks are endemic, twelve months of protection is the rule. A reminder on the phone calendar does more than any good intention.</p>
+  <p>How protection against parasites changes through the year, season by season:</p>
+
+  <table>
+  <thead>
+  <tr><th>Period</th><th>Risk</th><th>What to do</th></tr>
+  </thead>
+  <tbody>
+  <tr><td><strong>Spring and summer (March-October)</strong></td><td>Greatest pressure: the critical period for ticks and fleas</td><td>Regular treatment, every 4 weeks or as the product specifies; a careful check after every walk in long grass, woods or parks</td></tr>
+  <tr><td><strong>Autumn (October-December)</strong></td><td>Adult ticks are particularly active</td><td>Full protection, above all in rural, hilly or mild areas: no time to ease off</td></tr>
+  <tr><td><strong>Winter (December-March)</strong></td><td>In heated homes fleas stay active all year</td><td>Decide with your vet whether to keep full cover; where leishmaniasis or ticks are endemic, twelve months of protection</td></tr>
+  </tbody>
+  </table>
+
+  <p>A reminder on the phone calendar does more than any good intention.</p>
 
   <h2>Choosing a product: three formats</h2>
-  <p>The first treatment is chosen by the vet, for the puppy's exact age and current weight. <strong>Spot-on</strong> pipettes are practical, work against fleas and ticks for about four weeks and are applied on dry skin between the shoulder blades, where the dog cannot lick; many have a minimum age of eight weeks, and the dog should not be bathed for 48 hours. <strong>Chewable tablets</strong> act quickly throughout the body and are not washed off by baths or swimming, but check the spectrum, since some cover only fleas. <strong>Collars</strong> release their active ingredient for several months and, in the right formulation, repel sandflies too; they must be worn continuously and fitted with two fingers of slack, and they can cause local skin reactions.</p>
+  <p>The first treatment is chosen by the vet, for the puppy's exact age and current weight.</p>
+
+  <table>
+  <thead>
+  <tr><th>Format</th><th>Advantages</th><th>Limits and how to use</th><th>Minimum age</th></tr>
+  </thead>
+  <tbody>
+  <tr><td><strong>Spot-on (pipettes)</strong></td><td>Practical, work against fleas and ticks for about 4 weeks, suitable for puppies</td><td>On dry skin between the shoulder blades, where the dog cannot lick; no bathing for 48 hours</td><td>Often 8 weeks: the age on the product is the one that counts</td></tr>
+  <tr><td><strong>Chewable tablets</strong></td><td>Act quickly throughout the body, not washed off by baths or swimming</td><td>Some cover only fleas, others ticks too: check the spectrum</td><td>Puppy formulations, respecting the minimum weight</td></tr>
+  <tr><td><strong>Collars</strong></td><td>Release for 6-8 months, broad cover, inexpensive; in the right formulation they repel sandflies too</td><td>Worn continuously, with two fingers of slack; can cause local skin reactions</td><td>Often 7 weeks: the age on the product is the one that counts</td></tr>
+  </tbody>
+  </table>
+
   <p>Three rules without exceptions: never use a product for adult dogs on a small puppy; never swap products between dog and cat, because many dog products contain permethrin, which is toxic to cats even through contact with a freshly treated dog; and never combine products without asking the vet.</p>
 
   <h2>When to call the vet</h2>

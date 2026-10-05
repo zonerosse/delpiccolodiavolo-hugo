@@ -2,7 +2,7 @@
 title: "Puppies: First Vaccinations"
 date: 2025-06-10
 titleSeo: "Puppy first vaccinations: schedule and boosters"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/salute.webp"
@@ -56,6 +56,20 @@ custom_content: |
 
   <h2>The schedule</h2>
   <p>Most protocols in Italy follow the same shape. The first injection is given at 6 to 8 weeks, before the puppy leaves the breeder, and covers distemper, hepatitis and parvovirus. The second follows at 10 to 12 weeks, usually adding leptospirosis. The third, at 14 to 16 weeks, completes the primary course. A first booster is given at 12 months, and thereafter the interval depends on the vaccine and on your veterinarian's assessment.</p>
+
+  <table>
+  <thead>
+  <tr><th>Age</th><th>What is done</th><th>Worth knowing</th></tr>
+  </thead>
+  <tbody>
+  <tr><td><strong>6-8 weeks</strong></td><td>First dose of the combined vaccine: distemper, infectious hepatitis, parvovirus</td><td>Given at the breeder's, before the puppy leaves</td></tr>
+  <tr><td><strong>10-12 weeks</strong></td><td>Second dose, usually adding leptospirosis</td><td>The interval between doses must not be shortened</td></tr>
+  <tr><td><strong>From 12 weeks</strong></td><td>Rabies, compulsory for travel within the European Union</td><td>Valid 21 days later, recorded in the pet passport</td></tr>
+  <tr><td><strong>14-16 weeks</strong></td><td>Third dose, completing the primary course</td><td>If a dose is much delayed, the vet may repeat part of the course</td></tr>
+  <tr><td><strong>16-18 weeks</strong></td><td>No injection: protection arrives</td><td>Immunity develops 1 to 2 weeks after the last dose</td></tr>
+  <tr><td><strong>12 months</strong></td><td>First booster</td><td>Then the interval depends on the vaccine and on the vet</td></tr>
+  </tbody>
+  </table>
   <p>Full protection is not immediate. Immunity develops over 1 to 2 weeks after the final injection of the course, which means a puppy is not properly protected until roughly 16 to 18 weeks of age, not at the moment of the last needle.</p>
   <p>Two details matter and are often missed. First, the interval between doses should not be shortened, because maternal antibodies interfere with the vaccine and the schedule is designed around their decline. Second, if a dose is significantly delayed, the veterinarian may need to restart part of the course rather than simply continuing.</p>
 

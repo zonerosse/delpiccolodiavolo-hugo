@@ -2,7 +2,7 @@
 title: "Cuccioli: Alimentazione iniziale"
 date: 2025-04-15
 titleSeo: "Alimentazione del cucciolo Staffy nei primi mesi"
-lastmod: 2026-09-29
+lastmod: 2026-10-05
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/cuccioli-4.webp"
@@ -51,6 +51,18 @@ custom_content: |
   <h2>La prima regola: non cambiare tutto subito</h2>
   <p>Un cucciolo che arriva in una casa nuova ha appena perso la madre, i fratelli e tutto quello che conosceva. Cambiargli anche il cibo lo stesso giorno aggiunge un disturbo digestivo alla lista, e la diarrea in un cucciolo di otto settimane non è una cosa da poco.</p>
   <p>Per almeno la prima settimana si dà esattamente quello che dava l'allevatore. Se dopo si vuole cambiare, lo si fa in sette-dieci giorni: tre giorni con un quarto di cibo nuovo, tre con metà, tre con tre quarti, poi tutto nuovo. Se le feci si ammorbidiscono si torna indietro di un passo e si procede più piano.</p>
+
+  <table>
+  <thead>
+  <tr><th>Giorni</th><th>Alimento di prima</th><th>Alimento nuovo</th></tr>
+  </thead>
+  <tbody>
+  <tr><td><strong>1-3</strong></td><td>Tre quarti</td><td>Un quarto</td></tr>
+  <tr><td><strong>4-6</strong></td><td>Metà</td><td>Metà</td></tr>
+  <tr><td><strong>7-9</strong></td><td>Un quarto</td><td>Tre quarti</td></tr>
+  <tr><td><strong>Dal 10°</strong></td><td>Niente</td><td>Tutto</td></tr>
+  </tbody>
+  </table>
   <p>Ogni cucciolo Del Piccolo Diavolo parte con una scorta del suo alimento e con gli orari esatti dei pasti, per questa ragione precisa.</p>
 
   <h2>Quante volte e quanto</h2>

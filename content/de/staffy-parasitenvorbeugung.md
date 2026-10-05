@@ -1,7 +1,7 @@
 ---
 title: "Parasitenvorbeugung für Staffordshire Bull Terrier"
 date: 2025-01-20
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "parassiti"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -65,10 +65,35 @@ custom_content: |
   <p>Ein Hinweis zu Präparaten: verwenden Sie nie ein Katzenpräparat beim Hund oder umgekehrt, und keine permethrinhaltigen Produkte in einem Haushalt mit Katzen. Und seien Sie skeptisch gegenüber natürlichen Alternativen wie Knoblauch oder ätherischen Ölen. Knoblauch ist für Hunde giftig, mehrere ätherische Öle ebenfalls, und keines davon verhindert eine Babesiose.</p>
 
   <h2>Das Jahr, Jahreszeit für Jahreszeit</h2>
-  <p><strong>Frühjahr und Sommer, März bis Oktober</strong>, ist die Zeit des größten Drucks: regelmäßige Behandlung, alle vier Wochen oder wie das Präparat es vorsieht, und eine gründliche Kontrolle nach jedem Gang durch hohes Gras, Wald oder Park. <strong>Im Herbst</strong> darf man nicht nachlassen, denn erwachsene Zecken sind dann besonders aktiv, vor allem in ländlichen, hügeligen oder milden Gegenden. <strong>Im Winter</strong> entscheiden Sie mit dem Tierarzt, ob der volle Schutz bleibt: in geheizten Wohnungen sind Flöhe das ganze Jahr aktiv, und wo Leishmaniose oder Zecken verbreitet sind, gilt der Schutz zwölf Monate lang. Eine Erinnerung im Handykalender bewirkt mehr als jeder gute Vorsatz.</p>
+  <p>Wie sich der Parasitenschutz im Lauf des Jahres ändert, Jahreszeit für Jahreszeit:</p>
+
+  <table>
+  <thead>
+  <tr><th>Zeitraum</th><th>Risiko</th><th>Was zu tun ist</th></tr>
+  </thead>
+  <tbody>
+  <tr><td><strong>Frühjahr und Sommer (März-Oktober)</strong></td><td>Größter Druck: die kritische Zeit für Zecken und Flöhe</td><td>Regelmäßige Behandlung, alle 4 Wochen oder wie das Präparat es vorsieht; gründliche Kontrolle nach jedem Gang durch hohes Gras, Wald oder Park</td></tr>
+  <tr><td><strong>Herbst (Oktober-Dezember)</strong></td><td>Erwachsene Zecken sind besonders aktiv</td><td>Voller Schutz, vor allem in ländlichen, hügeligen oder milden Gegenden: keine Zeit nachzulassen</td></tr>
+  <tr><td><strong>Winter (Dezember-März)</strong></td><td>In geheizten Wohnungen sind Flöhe das ganze Jahr aktiv</td><td>Mit dem Tierarzt entscheiden, ob der volle Schutz bleibt; wo Leishmaniose oder Zecken verbreitet sind, zwölf Monate Schutz</td></tr>
+  </tbody>
+  </table>
+
+  <p>Eine Erinnerung im Handykalender bewirkt mehr als jeder gute Vorsatz.</p>
 
   <h2>Ein Präparat wählen: drei Formen</h2>
-  <p>Die erste Behandlung wählt der Tierarzt, passend zu genauem Alter und aktuellem Gewicht des Welpen. <strong>Spot-on</strong>-Pipetten sind praktisch, wirken etwa vier Wochen gegen Flöhe und Zecken und werden auf trockene Haut zwischen die Schulterblätter aufgetragen, wo der Hund nicht lecken kann; viele haben ein Mindestalter von acht Wochen, und der Hund sollte 48 Stunden nicht gebadet werden. <strong>Kautabletten</strong> wirken schnell im ganzen Körper und werden durch Baden oder Schwimmen nicht abgewaschen, doch prüfen Sie das Wirkspektrum, denn manche wirken nur gegen Flöhe. <strong>Halsbänder</strong> geben ihren Wirkstoff mehrere Monate ab und halten in der richtigen Zusammensetzung auch Sandmücken fern; sie müssen ständig getragen und mit zwei Fingern Spiel angelegt werden und können örtliche Hautreaktionen auslösen.</p>
+  <p>Die erste Behandlung wählt der Tierarzt, passend zu genauem Alter und aktuellem Gewicht des Welpen.</p>
+
+  <table>
+  <thead>
+  <tr><th>Form</th><th>Vorteile</th><th>Grenzen und Anwendung</th><th>Mindestalter</th></tr>
+  </thead>
+  <tbody>
+  <tr><td><strong>Spot-on (Pipetten)</strong></td><td>Praktisch, wirken etwa 4 Wochen gegen Flöhe und Zecken, für Welpen geeignet</td><td>Auf trockene Haut zwischen die Schulterblätter, wo der Hund nicht lecken kann; 48 Stunden nicht baden</td><td>Oft 8 Wochen: maßgeblich ist die Angabe auf dem Präparat</td></tr>
+  <tr><td><strong>Kautabletten</strong></td><td>Wirken schnell im ganzen Körper, werden durch Baden oder Schwimmen nicht abgewaschen</td><td>Manche wirken nur gegen Flöhe, andere auch gegen Zecken: Wirkspektrum prüfen</td><td>Welpenformulierungen, Mindestgewicht beachten</td></tr>
+  <tr><td><strong>Halsbänder</strong></td><td>Wirkstoffabgabe über 6-8 Monate, breiter Schutz, günstig; in der richtigen Zusammensetzung halten sie auch Sandmücken fern</td><td>Ständig tragen, mit zwei Fingern Spiel; örtliche Hautreaktionen möglich</td><td>Oft 7 Wochen: maßgeblich ist die Angabe auf dem Präparat</td></tr>
+  </tbody>
+  </table>
+
   <p>Drei Regeln ohne Ausnahme: nie ein Präparat für erwachsene Hunde bei einem kleinen Welpen; nie Präparate zwischen Hund und Katze tauschen, denn viele Hundemittel enthalten Permethrin, das für Katzen giftig ist, schon bei Kontakt mit einem frisch behandelten Hund; und nie Präparate ohne Rücksprache mit dem Tierarzt kombinieren.</p>
 
   <h2>Wann zum Tierarzt</h2>

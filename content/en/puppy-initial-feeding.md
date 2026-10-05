@@ -2,7 +2,7 @@
 title: "Puppies: Initial Feeding"
 date: 2025-04-15
 titleSeo: "Feeding a Staffordshire Bull Terrier puppy: first months"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -53,6 +53,18 @@ custom_content: |
   <h2>The first rule: do not change anything at once</h2>
   <p>A puppy arriving in a new home has already lost its mother, its littermates and everything familiar. Changing its food on the same day adds digestive upset to that list, and diarrhoea in an eight-week-old puppy is not a minor matter.</p>
   <p>Feed exactly what the breeder was feeding for at least the first week. If you want to change afterwards, do it over 7 to 10 days: 3 days at 1 quarter new food, 3 at half, 3 at 3 quarters, then complete. Any loosening of the stools means going back a step and moving more slowly.</p>
+
+  <table>
+  <thead>
+  <tr><th>Days</th><th>Previous food</th><th>New food</th></tr>
+  </thead>
+  <tbody>
+  <tr><td><strong>1-3</strong></td><td>Three quarters</td><td>One quarter</td></tr>
+  <tr><td><strong>4-6</strong></td><td>Half</td><td>Half</td></tr>
+  <tr><td><strong>7-9</strong></td><td>One quarter</td><td>Three quarters</td></tr>
+  <tr><td><strong>From day 10</strong></td><td>None</td><td>All</td></tr>
+  </tbody>
+  </table>
   <p>We send every puppy home with a supply of its current food and the exact feeding schedule, for precisely this reason.</p>
 
   <h2>How often and how much</h2>

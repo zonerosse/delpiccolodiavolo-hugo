@@ -2,7 +2,7 @@
 title: "Cuccioli: Prime Vaccinazioni"
 date: 2025-06-10
 titleSeo: "Prime vaccinazioni del cucciolo: calendario e richiami"
-lastmod: 2026-09-29
+lastmod: 2026-10-05
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/cuccioli-2.webp"
@@ -54,6 +54,20 @@ custom_content: |
 
   <h2>Il calendario</h2>
   <p>La maggior parte dei protocolli usati in Italia ha la stessa forma. La prima iniezione si fa fra le sei e le otto settimane, prima che il cucciolo lasci l'allevamento, e copre cimurro, epatite e parvovirosi. La seconda segue fra le dieci e le dodici settimane, di solito aggiungendo la leptospirosi. La terza, fra le quattordici e le sedici settimane, completa il ciclo di base. Un primo richiamo si fa a dodici mesi, e da lì in avanti l'intervallo dipende dal vaccino e dalla valutazione del veterinario.</p>
+
+  <table>
+  <thead>
+  <tr><th>Età</th><th>Cosa si fa</th><th>Da sapere</th></tr>
+  </thead>
+  <tbody>
+  <tr><td><strong>6-8 settimane</strong></td><td>Prima dose della polivalente: cimurro, epatite infettiva, parvovirosi</td><td>Si fa in allevamento, prima della consegna</td></tr>
+  <tr><td><strong>10-12 settimane</strong></td><td>Seconda dose, di solito con la leptospirosi</td><td>L'intervallo fra le dosi non va accorciato</td></tr>
+  <tr><td><strong>Dalle 12 settimane</strong></td><td>Antirabbica, obbligatoria per viaggiare nell'Unione Europea</td><td>Valida 21 giorni dopo, registrata sul passaporto</td></tr>
+  <tr><td><strong>14-16 settimane</strong></td><td>Terza dose, che completa il ciclo di base</td><td>Se una dose slitta di molto, il veterinario può ripetere parte del ciclo</td></tr>
+  <tr><td><strong>16-18 settimane</strong></td><td>Nessuna iniezione: arriva la protezione</td><td>L'immunità si forma una o due settimane dopo l'ultima dose</td></tr>
+  <tr><td><strong>12 mesi</strong></td><td>Primo richiamo</td><td>Poi l'intervallo dipende dal vaccino e dal veterinario</td></tr>
+  </tbody>
+  </table>
   <p>La protezione completa non è immediata. L'immunità si sviluppa in una o due settimane dopo l'ultima iniezione del ciclo, il che significa che un cucciolo non è davvero protetto prima delle sedici-diciotto settimane di età, non nel momento dell'ultimo ago.</p>
   <p>Due dettagli contano e spesso sfuggono. Primo: l'intervallo fra le dosi non va accorciato, perché gli anticorpi materni interferiscono con il vaccino e il calendario è costruito intorno al loro calo. Secondo: se una dose viene rimandata di molto, il veterinario può dover ripetere una parte del ciclo invece di proseguire semplicemente da dove si era rimasti.</p>
 
