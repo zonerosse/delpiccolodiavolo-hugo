@@ -439,6 +439,11 @@ allevamento si *concorda*, non si prenota.
 | EN: customers, clients, buyers, sale, purchase, deposit, reservation | EN: families, placement, before taking on a puppy |
 | DE: Kunden, Käufer, Verkauf, Kauf, Anzahlung, Reservierung | DE: Familien, Vermittlung, bevor ein Welpe einzieht |
 
+**Lo script le controlla da solo**: `verifica.py` segnala come avviso
+(codice `commercio`) ogni parola della colonna di sinistra trovata nel testo
+visibile di una pagina, tabelle e FAQ comprese, recensioni escluse. I casi
+che vanno bene così si aggiungono a `eccezioni.txt` con quel codice.
+
 **Eccezioni, decise da Paolo:**
 
 - l'articolo sul prezzo (nelle tre lingue) usa *prezzo* e il linguaggio

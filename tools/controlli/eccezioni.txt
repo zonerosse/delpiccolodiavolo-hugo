@@ -27,3 +27,8 @@ parita | /de/welpen-sozialisierung-zuhause/    # come sopra, in tedesco
 sync_data | content/en/privacy-policy.md    # il 29/09 in italiano e' cambiata solo la data, non il testo
 sync_data | content/de/datenschutz.md    # come sopra
 parita | /en/females-staffordshire-bull-terrier/    # testo all'85% dell'italiano per le etichette italiane piu' lunghe (esente, test del DNA): va bene cosi' (settembre 2026)
+# Parole del commercio (COME-SI-SCRIVE §15): casi che non parlano dell'affido dei nostri cuccioli (ottobre 2026)
+commercio | /staffordshire-in-famiglia-storie/    # i clienti della palestra di una proprietaria, non dell'allevamento
+commercio | /en/staffordshire-family-life-stories/    # come sopra
+commercio | /de/staffordshire-in-der-familie-geschichten/    # come sopra
+commercio | /famiglia-viaggi-spostamenti/    # prenotare l'albergo per le vacanze con il cane

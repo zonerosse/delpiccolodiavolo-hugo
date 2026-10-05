@@ -245,6 +245,7 @@ if r.returncode == 0:
         ("entrata", "Articolo con meno di 3 link in entrata dal testo di altre pagine"),
         ("peso", "Immagine del blog oltre i 200 KB"),
         ("parole", "Parole vuote vietate (passione, esperienza pluriennale...)"),
+        ("commercio", "Parole del commercio invece che dell'affido (COME-SI-SCRIVE \u00a715)"),
     ]:
         registra(cod, "AVVISO", tit)
     for cod, tit in [
@@ -294,6 +295,16 @@ if r.returncode == 0:
     VIETATE = re.compile(r"\b(passione|amore per la razza|esperienza pluriennale|professionalit[aà]|"
                          r"anni di esperienza|passion for|years of (?:direct )?experience|"
                          r"Leidenschaft|jahre(?:n)? (?:direkter )?erfahrung)\b", re.I)
+
+    # COME-SI-SCRIVE §15: l'allevamento e' amatoriale; prenotazioni, liste
+    # d'attesa e caparre non si citano mai, e chi prende un cucciolo e' una
+    # famiglia, non un cliente o un acquirente. Le eccezioni decise da Paolo
+    # (articolo sul prezzo, frasi su altri allevamenti, clienti di altri)
+    # stanno in eccezioni.txt con il codice "commercio".
+    COMMERCIO = re.compile(r"\b(prenot\w*|liste? d['\u2019]attesa|caparr[ae]|accont[oi]|client[ei]|"
+                           r"acquirent[ei]|prima dell['\u2019]acquisto|"
+                           r"waiting lists?|deposit|reservations?|reserved a puppy|buyers?|customers?|clients?|"
+                           r"Wartelisten?|Anzahlung\w*|Reservierung\w*|reserviert\w*|\w*K\u00e4ufer\w*|Kunden)\b", re.I)
 
     for p in sorted(glob.glob(dest + "/**/*.html", recursive=True)):
         url = p[len(dest):].replace("\\", "/")
@@ -487,6 +498,19 @@ if r.returncode == 0:
                 if any(not isinstance(f, str) and f.tag in ("p", "li") for f in n.figli): continue
                 m = VIETATE.search(n.testo())
                 if m: segnala("parole", "AVVISO", "", url, f"\u00ab{m.group(0)}\u00bb")
+        # parole del commercio: tutto il testo visibile, comprese tabelle e FAQ,
+        # escluse le recensioni (parole dei proprietari, da Google)
+        visti = set()
+        for n in nodi:
+            if n.tag in ("p", "h1", "h2", "h3", "h4", "span", "li", "td", "th", "a", "button", "label", "option") or \
+                    "faq-answer" in n.classi():
+                if any("review" in c for a in [n] + [n.padre] for c in (a.classi() if a else [])): continue
+                if any(not isinstance(f, str) and f.tag in ("p", "li", "td") for f in n.figli): continue
+                for m in COMMERCIO.finditer(n.testo()):
+                    parola = m.group(0).lower()
+                    if parola not in visti:
+                        visti.add(parola)
+                        segnala("commercio", "AVVISO", "", url, f"\u00ab{m.group(0)}\u00bb")
 
         # link in entrata: si conta il testo, non menu, pie' di pagina, correlati, blog
         if not url.rstrip("/").endswith("blog"):
