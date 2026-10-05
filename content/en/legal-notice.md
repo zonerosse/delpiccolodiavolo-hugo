@@ -1,7 +1,7 @@
 ---
 title: "Legal Notice – Del Piccolo Diavolo"
 date: 2025-12-28
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 tipoPagina: "WebPage"
 translationKey: "note-legali"
 description: "Legal notice, disclaimer and terms of use of the website of the Del Piccolo Diavolo kennel, Staffordshire Bull Terrier breeder in Ostellato (FE), Italy."
@@ -58,9 +58,10 @@ custom_content: |
   </div>
   
   <div class="legal-section">
-  <h3>4. Puppy Reservation and Purchase</h3>
-  <p><strong>Reservation Procedure:</strong> A puppy is reserved following an introductory conversation and payment of a deposit. Specific terms are agreed on a case-by-case basis.</p>
-  <p><strong>Guarantees:</strong> All puppies are released with:</p>
+  <h3>4. Placement of Puppies</h3>
+  <p><strong>Nature of the activity:</strong> the Del Piccolo Diavolo kennel is an amateur activity, not run for profit.</p>
+  <p><strong>How a placement works:</strong> each puppy is placed after one or more introductory conversations with the family. The terms of the placement are agreed on a case-by-case basis.</p>
+  <p><strong>Documents and care:</strong> all puppies are placed with:</p>
   <ul>
   <li>ENCI pedigree</li>
   <li>Microchip and registration in the canine registry</li>
@@ -86,9 +87,9 @@ custom_content: |
   </div>
   
   <div class="legal-section">
-  <h3>6. Selection of Buyers</h3>
-  <p>The kennel reserves the right to select the buyers of its puppies, assessing the suitability of the families and the living conditions they will be able to offer the dog.</p>
-  <p>We reserve the right to decline the sale of a puppy where we consider that the family is not suitable or that the conditions offered are not appropriate for the animal's wellbeing.</p>
+  <h3>6. Choice of Families</h3>
+  <p>The kennel reserves the right to choose the families its puppies are placed with, assessing their suitability and the living conditions they will be able to offer the dog.</p>
+  <p>We reserve the right not to place a puppy where we consider that the family is not suitable or that the conditions offered are not appropriate for the animal's wellbeing.</p>
   </div>
   
   <div class="legal-section">

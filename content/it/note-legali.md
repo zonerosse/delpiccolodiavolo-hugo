@@ -1,7 +1,7 @@
 ---
 title: "Note Legali – Del Piccolo Diavolo"
 date: 2025-12-28
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 tipoPagina: "WebPage"
 translationKey: "note-legali"
 description: "Note legali, disclaimer e termini di utilizzo del sito dell'allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier a Ostellato (FE) dal 2013."
@@ -58,9 +58,10 @@ custom_content: |
   </div>
   
   <div class="legal-section">
-  <h3>4. Prenotazioni e Acquisto Cuccioli</h3>
-  <p><strong>Procedura di Prenotazione:</strong> La prenotazione di un cucciolo avviene previo colloquio conoscitivo e versamento di una caparra. Le modalità specifiche vengono concordate caso per caso.</p>
-  <p><strong>Garanzie:</strong> Tutti i cuccioli vengono affidati con:</p>
+  <h3>4. Affido dei Cuccioli</h3>
+  <p><strong>Natura dell'attività:</strong> l'allevamento Del Piccolo Diavolo è un'attività amatoriale, non a fini di lucro.</p>
+  <p><strong>Come avviene l'affido:</strong> ogni cucciolo viene affidato dopo uno o più colloqui conoscitivi con la famiglia. Le modalità dell'affido vengono concordate caso per caso.</p>
+  <p><strong>Documenti e cure:</strong> tutti i cuccioli vengono affidati con:</p>
   <ul>
   <li>Pedigree ENCI</li>
   <li>Microchip e iscrizione anagrafe canina</li>
@@ -86,9 +87,9 @@ custom_content: |
   </div>
   
   <div class="legal-section">
-  <h3>6. Selezione degli Acquirenti</h3>
-  <p>L'allevamento si riserva il diritto di selezionare gli acquirenti dei propri cuccioli, valutando l'idoneità delle famiglie e delle condizioni di vita che potranno offrire al cane.</p>
-  <p>Ci riserviamo il diritto di rifiutare la vendita di un cucciolo qualora ritenessimo che la famiglia non sia adatta o che le condizioni offerte non siano idonee al benessere dell'animale.</p>
+  <h3>6. Scelta delle Famiglie</h3>
+  <p>L'allevamento si riserva il diritto di scegliere le famiglie a cui affidare i propri cuccioli, valutandone l'idoneità e le condizioni di vita che potranno offrire al cane.</p>
+  <p>Ci riserviamo il diritto di non affidare un cucciolo qualora ritenessimo che la famiglia non sia adatta o che le condizioni offerte non siano idonee al benessere dell'animale.</p>
   </div>
   
   <div class="legal-section">

@@ -1,7 +1,7 @@
 ---
 title: "Impressum – Del Piccolo Diavolo"
 date: 2025-12-28
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 tipoPagina: "WebPage"
 translationKey: "note-legali"
 description: "Impressum, Haftungsausschluss und Nutzungsbedingungen der Website der Zucht Del Piccolo Diavolo - Staffordshire Bull Terrier in Ostellato (FE), Italien."
@@ -58,9 +58,10 @@ custom_content: |
   </div>
   
   <div class="legal-section">
-  <h3>4. Reservierung und Kauf von Welpen</h3>
-  <p><strong>Reservierungsverfahren:</strong> Die Reservierung eines Welpen erfolgt nach einem persönlichen Vorgespräch und der Zahlung einer Anzahlung. Die genauen Bedingungen werden im Einzelfall vereinbart.</p>
-  <p><strong>Garantien:</strong> Alle Welpen werden übergeben mit:</p>
+  <h3>4. Vermittlung der Welpen</h3>
+  <p><strong>Art der Tätigkeit:</strong> Die Zucht Del Piccolo Diavolo ist eine Liebhaberzucht ohne Gewinnerzielungsabsicht.</p>
+  <p><strong>Ablauf der Vermittlung:</strong> Jeder Welpe wird nach einem oder mehreren persönlichen Gesprächen mit der Familie vermittelt. Die Einzelheiten der Vermittlung werden im Einzelfall vereinbart.</p>
+  <p><strong>Dokumente und Versorgung:</strong> Alle Welpen werden übergeben mit:</p>
   <ul>
   <li>ENCI-Stammbaum</li>
   <li>Mikrochip und Eintragung im Hunderegister</li>
@@ -86,9 +87,9 @@ custom_content: |
   </div>
   
   <div class="legal-section">
-  <h3>6. Auswahl der Käufer</h3>
-  <p>Die Zucht behält sich das Recht vor, die Käufer ihrer Welpen auszuwählen und dabei die Eignung der Familien sowie die Lebensbedingungen zu beurteilen, die sie dem Hund bieten können.</p>
-  <p>Wir behalten uns das Recht vor, den Verkauf eines Welpen abzulehnen, wenn wir der Auffassung sind, dass die Familie nicht geeignet ist oder die gebotenen Bedingungen dem Wohl des Tieres nicht entsprechen.</p>
+  <h3>6. Auswahl der Familien</h3>
+  <p>Die Zucht behält sich das Recht vor, die Familien auszuwählen, denen sie ihre Welpen anvertraut, und dabei deren Eignung sowie die Lebensbedingungen zu beurteilen, die sie dem Hund bieten können.</p>
+  <p>Wir behalten uns das Recht vor, einen Welpen nicht zu vermitteln, wenn wir der Auffassung sind, dass die Familie nicht geeignet ist oder die gebotenen Bedingungen dem Wohl des Tieres nicht entsprechen.</p>
   </div>
   
   <div class="legal-section">
