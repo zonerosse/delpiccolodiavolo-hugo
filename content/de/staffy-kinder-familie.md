@@ -21,6 +21,10 @@ custom_content: |
   <span class="hero-eyebrow">Familie</span>
   <h1 class="hero-title">Staffy mit <em>Kindern</em></h1>
   <p class="hero-subtitle">Der Nanny Dog und Ihre Familie</p>
+  <div class="hero-meta">
+  <span>📅 28. Mai 2024</span>
+  <span>⏱️ 13 Min. Lesezeit</span>
+  </div>
   </div>
   </section>
   

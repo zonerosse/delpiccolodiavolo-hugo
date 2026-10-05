@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">Vollständiger Leitfaden für Staffordshire Bull Terrier</p>
   <div class="hero-meta">
   <span>📅 20. November 2025</span>
-  <span>⏱️ 12 Min. Lesezeit</span>
+  <span>⏱️ 14 Min. Lesezeit</span>
   </div>
   </div>
   </section>

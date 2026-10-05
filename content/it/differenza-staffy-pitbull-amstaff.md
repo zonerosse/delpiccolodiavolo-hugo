@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">Guida completa per distinguere le tre razze</p>
   <div class="hero-meta">
   <span>📅 19 Novembre 2025</span>
-  <span>⏱️ 14 min lettura</span>
+  <span>⏱️ 9 min lettura</span>
   </div>
   </div>
   </section>
@@ -235,7 +235,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Qual è la differenza principale tra Staffy e Pit Bull?</h3>
-  <div class="faq-answer">La differenza che conta prima di tutte &egrave; giuridica, non estetica: lo <strong>Staffordshire Bull Terrier &egrave; una razza riconosciuta dalla FCI</strong> con uno standard preciso e un libro genealogico, mentre il Pit Bull in Italia non &egrave; una razza riconosciuta e non esiste un pedigree ENCI che lo certifichi. Chi vende un Pit Bull con pedigree sta vendendo altro. Sul piano fisico lo Staffy &egrave; nettamente pi&ugrave; piccolo: 35-40 centimetri al garrese per 12-17 chili nel maschio, contro una variabilit&agrave; molto pi&ugrave; ampia nei cani chiamati Pit Bull, che possono superare i trenta chili. Compatto, con testa corta e larga e corporatura tozza, lo Staffy &egrave; il pi&ugrave; piccolo dei tre.</div>
+  <div class="faq-answer">La differenza che conta prima di tutte &egrave; giuridica, non estetica: lo <strong>Staffordshire Bull Terrier &egrave; una razza riconosciuta dalla FCI</strong> con uno standard preciso e un libro genealogico, mentre il Pit Bull in Italia non &egrave; una razza riconosciuta e non esiste un pedigree ENCI che lo certifichi. Chi vende un Pit Bull con pedigree sta vendendo altro. Sul piano fisico lo Staffy &egrave; nettamente pi&ugrave; piccolo: 35,5-40,5 centimetri al garrese per 12,7-17 chili nel maschio, contro una variabilit&agrave; molto pi&ugrave; ampia nei cani chiamati Pit Bull, che possono superare i trenta chili. Compatto, con testa corta e larga e corporatura tozza, lo Staffy &egrave; il pi&ugrave; piccolo dei tre.</div>
   </div>
   
   <div class="faq-item">

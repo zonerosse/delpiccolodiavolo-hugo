@@ -22,6 +22,10 @@ custom_content: |
   <span class="hero-eyebrow">Standards und Blutlinien</span>
   <h1 class="hero-title">Blutlinien <em>Leitfaden</em></h1>
   <p class="hero-subtitle">Englische und irische Linien für Staffordshire Bull Terrier</p>
+  <div class="hero-meta">
+  <span>📅 8. November 2025</span>
+  <span>⏱️ 10 Min. Lesezeit</span>
+  </div>
   </div>
   </section>
   
@@ -66,13 +70,13 @@ custom_content: |
   <p>Diese Allgegenwart hat ihren Preis. Ein einzelner Hund, der in fast jeder Ahnentafel wiederholt auftaucht, verengt den Genpool der ganzen Rasse, und das ist ein Grund, warum jeder Zuchthund bei uns auf L2HGA und HC getestet oder durch Abstammung frei ist, mit den Befunden seiner Eltern, und unsere Zuchthündinnen zusätzlich auf DM-SOD1 getestet sind.</p>
 
   <h3>M-Linie, die verbreitete</h3>
-  <p>Die M-Linie von Brindle Mick ist heute die verbreitetste und macht mehr als die Hälfte des genetischen Erbes der Rasse aus. Zu ihren bekanntesten Namen gehören Gentleman Jim selbst, <strong>Cross Guns Johnson</strong> (Vollbruder von Brindle Mick und damit Onkel von Gentleman Jim, Best of Breed bei der ersten Crufts, an der die Rasse teilnahm) und <strong>Fearless Red of Bandits</strong> (1944), ein Sohn von Gentleman Jim, der oft als Inbegriff des echten Stafford beschrieben wird. Die Linie wird mit eindrucksvollen Köpfen, kräftigem Körperbau und schwerer Bemuskelung verbunden.</p>
+  <p>Die M-Linie von Brindle Mick ist heute mit Abstand die verbreitetste: In der <a href="https://thestaffordknot.com/the-original-lines-explained/" target="_blank" rel="noopener" aria-label="The Stafford Knot, die ursprünglichen Linien (wird in einem neuen Tab geöffnet)">Datenbank von The Stafford Knot</a> stammen etwa 32.500 Rüden in männlicher Linie von ihr ab, gegenüber etwa 6.750 bei der R-Linie, während die anderen vier Linien nur einige Dutzend Hunde zählen. Zu ihren bekanntesten Namen gehören Gentleman Jim selbst, <strong>Cross Guns Johnson</strong> (Vollbruder von Brindle Mick und damit Onkel von Gentleman Jim, Best of Breed bei der ersten Crufts, an der die Rasse teilnahm) und <strong>Fearless Red of Bandits</strong> (1944), ein Sohn von Gentleman Jim, der oft als Inbegriff des echten Stafford beschrieben wird. Die Linie wird mit eindrucksvollen Köpfen, kräftigem Körperbau und schwerer Bemuskelung verbunden.</p>
 
   <h3>R-Linie, die Überlebende</h3>
-  <p>Die R-Linie wurde von <strong>Ribchester Bob</strong> gegründet, geboren um 1931. Sie ist bekannt für freieres Gangwerk, einen kompakteren, aber athletischen Körperbau, ein ausgeglichenes Wesen mit bemerkenswerter Erziehbarkeit und gute Langlebigkeit. Sie macht heute etwa ein Fünftel bis ein Viertel des genetischen Erbes der Rasse aus und wird von europäischen Zuchten geschätzt, die ihre Basis verbreitern wollen.</p>
+  <p>Die R-Linie wurde von <strong>Ribchester Bob</strong> gegründet, geboren um 1931. Sie ist bekannt für freieres Gangwerk, einen kompakteren, aber athletischen Körperbau, ein ausgeglichenes Wesen mit bemerkenswerter Erziehbarkeit und gute Langlebigkeit. Heute stammt etwa jeder sechste Rüde in männlicher Linie von ihr ab, und sie wird von europäischen Zuchten geschätzt, die ihre Basis verbreitern wollen.</p>
 
   <h3>Die ausgestorbenen Linien</h3>
-  <p>Drei der sechs ursprünglichen Linien sind verblasst. Die <strong>L-Linie</strong> (Game Lad) war die kleinste der großen Linien und wurde von den beiden Weltkriegen hart getroffen; die <strong>B-Linie</strong> (Rum Bottle), mit der Familie Westall verbunden, verschwand in den 1950er-Jahren; die <strong>C-Linie</strong> (Cinderbank Beauty), die jüngste der sechs, konnte sich nie dauerhaft durchsetzen.</p>
+  <p>Drei der sechs ursprünglichen Linien sind verblasst. Die <strong>L-Linie</strong> (Game Lad) war die kleinste der großen Linien und wurde von den beiden Weltkriegen hart getroffen; die <strong>B-Linie</strong> (Rum Bottle), mit der Familie Westall verbunden, verschwand in den 1950er-Jahren; die <strong>C-Linie</strong> (Cinderbank Beauty), die jüngste der sechs, konnte sich nie dauerhaft durchsetzen. Von der J-Linie sind nur noch wenige Hunde übrig.</p>
 
   <h2>M-Linie und R-Linie im Vergleich</h2>
 
@@ -86,7 +90,7 @@ custom_content: |
   <tr><td><strong>Gangwerk</strong></td><td>Kraftvoller Schub, weniger wendig</td><td>Freier und wendiger, raumgreifend</td></tr>
   <tr><td><strong>Wesen</strong></td><td>Selbstbewusst, dominant, starke Persönlichkeit</td><td>Ausgeglichen, erziehbar, vielseitig</td></tr>
   <tr><td><strong>Wo sie heute glänzt</strong></td><td>Ausstellungen</td><td>Agility, Obedience, Familienleben</td></tr>
-  <tr><td><strong>Anteil am Genpool</strong></td><td>Etwa 50–60 %</td><td>Etwa 20–25 %</td></tr>
+  <tr><td><strong>Rüden in männlicher Linie (Datenbank The Stafford Knot)</strong></td><td>Etwa 82 %</td><td>Etwa 17 %</td></tr>
   </tbody>
   </table>
 
@@ -110,6 +114,7 @@ custom_content: |
 
   <h2>Linienzucht, Inzucht und Koeffizienten</h2>
   <p>Linienzucht, also die bewusste Wiederholung eines geschätzten Vorfahren in der Ahnentafel, ist ein legitimes Werkzeug zur Festigung des Typs. Zu weit getrieben wird sie zur Inzucht, und der Preis wird bei Immunfunktion, Fruchtbarkeit und Vitalität gezahlt, nicht beim Aussehen — weshalb er leicht zu übersehen ist.</p>
+  <p>Der Inzuchtkoeffizient (COI) misst, wie eng die Eltern verwandt sind, und wird immer zusammen mit der Zahl der Generationen gelesen, über die er berechnet ist. Über fünf Generationen als Richtwert: bis 5 % ist ein guter Wert, der auf verschiedene Linien hinweist; zwischen 6 und 10 % ist vertretbar, braucht aber Aufmerksamkeit; zwischen 11 und 15 % ist bedenklich und erhöht das Risiko genetischer Probleme; über 15 % ist hoch.</p>
   <p>Eine Regel, die wir anwenden: der Inzuchtkoeffizient über 5 Generationen soll niedrig bleiben, und wir wiederholen keine enge Verdopplung nur deshalb, weil ein bestimmter Vorfahre gerade in Mode ist. Typ auf Kosten der Vitalität ist ein schlechtes Geschäft, und es zeigt sich erst Jahre später bei der Familie.</p>
 
   <h2>Was das für Ihre Welpenwahl bedeutet</h2>

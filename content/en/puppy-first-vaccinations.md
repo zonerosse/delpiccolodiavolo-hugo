@@ -23,8 +23,8 @@ custom_content: |
   <h1 class="hero-title">First <em>Vaccinations</em></h1>
   <p class="hero-subtitle">Schedule and practical tips</p>
   <div class="hero-meta">
-  <span>📅 May 28, 2025</span>
-  <span>⏱️ 7 min read</span>
+  <span>📅 June 10, 2025</span>
+  <span>⏱️ 6 min read</span>
   </div>
   </div>
   </section>

@@ -2,7 +2,7 @@
 title: "Puppies: Mental Games"
 date: 2025-08-03
 titleSeo: "Mental games for Staffordshire Bull Terrier puppies"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "giochi-mentali"
 articolo: true
 image: "/images/blog/cuccioli-3.webp"
@@ -23,8 +23,8 @@ custom_content: |
   <h1 class="hero-title">Mental <em>Games</em></h1>
   <p class="hero-subtitle">Stimulating mind and self-control</p>
   <div class="hero-meta">
-  <span>📅 June 5, 2025</span>
-  <span>⏱️ 7 min read</span>
+  <span>📅 August 3, 2025</span>
+  <span>⏱️ 6 min read</span>
   </div>
   </div>
   </section>

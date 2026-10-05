@@ -2,7 +2,7 @@
 title: "Cuccioli: Sverminazione ed Esami delle Feci"
 date: 2026-09-27
 titleSeo: "Sverminazione cuccioli: protocollo ed esami delle feci"
-lastmod: 2026-09-29
+lastmod: 2026-10-05
 translationKey: "sverminazione"
 articolo: true
 image: "/images/blog/esame-feci-microscopio-hero.webp"
@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">Protocollo, referti degli esami e terapia in corso</p>
   <div class="hero-meta">
   <span>📅 27 Settembre 2026</span>
-  <span>⏱️ 7 min lettura</span>
+  <span>⏱️ 6 min lettura</span>
   </div>
   </div>
   </section>

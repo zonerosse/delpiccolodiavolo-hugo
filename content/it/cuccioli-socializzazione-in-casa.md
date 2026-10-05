@@ -2,7 +2,7 @@
 title: "Socializzare il Cucciolo in Casa: la Lista per la Famiglia"
 date: 2025-03-18
 titleSeo: "Socializzare il cucciolo in casa: la lista per la famiglia"
-lastmod: 2026-09-29
+lastmod: 2026-10-05
 translationKey: "socializzazione"
 articolo: true
 image: "/images/blog/cucciolo-in-mano-hero.webp"
@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">Superfici, rumori, mani addosso, ospiti e solitudine</p>
   <div class="hero-meta">
   <span>📅 18 Marzo 2025</span>
-  <span>⏱️ 8 min lettura</span>
+  <span>⏱️ 7 min lettura</span>
   </div>
   </div>
   </section>

@@ -23,7 +23,7 @@ custom_content: |
   <p class="hero-subtitle">La Verità Scientifica e la Legge Italiana 2025</p>
   <div class="hero-meta">
   <span>📅 18 Novembre 2025</span>
-  <span>⏱️ 15 min lettura</span>
+  <span>⏱️ 13 min lettura</span>
   </div>
   </div>
   </section>

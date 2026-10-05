@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">Complete guide for Staffordshire Bull Terrier</p>
   <div class="hero-meta">
   <span>📅 November 20, 2025</span>
-  <span>⏱️ 12 min read</span>
+  <span>⏱️ 15 min read</span>
   </div>
   </div>
   </section>

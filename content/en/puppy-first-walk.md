@@ -2,7 +2,7 @@
 title: "Puppies: First Walk"
 date: 2025-09-17
 titleSeo: "A puppy's first walk: when to start and how"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "passeggiata"
 articolo: true
 image: "/images/blog/cuccioli-5.webp"
@@ -23,8 +23,8 @@ custom_content: |
   <h1 class="hero-title">First <em>Walk</em></h1>
   <p class="hero-subtitle">Equipment and first rules</p>
   <div class="hero-meta">
-  <span>📅 June 15, 2025</span>
-  <span>⏱️ 8 min read</span>
+  <span>📅 September 17, 2025</span>
+  <span>⏱️ 5 min read</span>
   </div>
   </div>
   </section>

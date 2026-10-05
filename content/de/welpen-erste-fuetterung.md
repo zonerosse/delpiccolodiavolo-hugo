@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">Portionen, Mahlzeitenfrequenz und sichere Umstellung</p>
   <div class="hero-meta">
   <span>📅 15. April 2025</span>
-  <span>⏱️ 8 Min. Lesezeit</span>
+  <span>⏱️ 4 Min. Lesezeit</span>
   </div>
   </div>
   </section>

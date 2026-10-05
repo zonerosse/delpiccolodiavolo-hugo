@@ -23,8 +23,8 @@ custom_content: |
   <h1 class="hero-title">Travel and <em>Transport</em></h1>
   <p class="hero-subtitle">Stress-free journeys together</p>
   <div class="hero-meta">
-  <span>📅 October 8, 2025</span>
-  <span>⏱️ 8 min read</span>
+  <span>📅 April 7, 2024</span>
+  <span>⏱️ 9 min read</span>
   </div>
   </div>
   </section>

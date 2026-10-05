@@ -23,7 +23,7 @@ custom_content: |
   <p class="hero-subtitle">Regole chiare, supervisione attiva, interazioni sicure</p>
   <div class="hero-meta">
   <span>📅 28 Maggio 2024</span>
-  <span>⏱️ 22 min lettura</span>
+  <span>⏱️ 14 min lettura</span>
   </div>
   </div>
   </section>

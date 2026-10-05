@@ -4,7 +4,7 @@ og_image: "/images/og/schede/de/staffordshire-bull-terrier-welpe-ins-ausland.jpg
 og_image_alt: "Staffordshire Bull Terrier Welpe ins Ausland: so läuft es ab — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/cucciolo-staffordshire-bull-terrier-all-estero.webp"
 date: 2026-09-12
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 articolo: true
 translationKey: "cucciolo-estero"
 description: "Ein Welpe für ein anderes europäisches Land reist mit vier Monaten, nicht mit zwei. Tollwutimpfung, Heimtierausweis, TRACES-Zeugnis und ENCI-Exportstammbaum."
@@ -27,6 +27,10 @@ custom_content: |
   <span class="hero-eyebrow">Vermittlung ins Ausland</span>
   <h1 class="hero-title">Ein <em>Staffordshire Bull Terrier</em> Welpe, der ins Ausland geht</h1>
   <p class="hero-subtitle">Fristen, Papiere, Exportstammbaum</p>
+  <div class="hero-meta">
+  <span>📅 12. September 2026</span>
+  <span>⏱️ 5 Min. Lesezeit</span>
+  </div>
   <p class="hero-description">Ein Welpe für eine Familie in einem anderen europäischen Land reist mit etwa vier Monaten, nicht mit zwei. Nötig sind Tollwutimpfung, EU-Heimtierausweis, TRACES-Gesundheitszeugnis und ENCI-Exportstammbaum. So läuft es wirklich ab.</p>
   <div class="hero-actions">
   <a class="btn btn-primary" href="https://wa.me/393924635584" target="_blank" rel="noopener" aria-label="Schreiben Sie mir (wird in einem neuen Tab geöffnet)">Schreiben Sie mir</a>

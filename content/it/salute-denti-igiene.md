@@ -23,7 +23,7 @@ custom_content: |
   <p class="hero-subtitle">Spazzolatura, prevenzione tartaro e salute dentale</p>
   <div class="hero-meta">
   <span>📅 18 Giugno 2024</span>
-  <span>⏱️ 18 min lettura</span>
+  <span>⏱️ 12 min lettura</span>
   </div>
   </div>
   </section>
@@ -47,244 +47,53 @@ custom_content: |
   
   <p>Nello Staffordshire Bull Terrier la prevenzione dentale comincia da cucciolo: abituarlo a farsi toccare la bocca fra le 8 e le 16 settimane rende l'adulto collaborativo. I 28 denti da latte lasciano il posto ai 42 definitivi verso i sei-sette mesi, e da lì la placca non rimossa diventa tartaro, poi gengivite e parodontite, con dolore e perdita dei denti. L'unica cosa che funziona davvero è la spazzolatura, da tre a sette volte a settimana, con un dentifricio enzimatico veterinario, mai quello per persone. La mandibola potente della razza rende pericolosi i masticativi troppo duri: se premendo con l'unghia l'oggetto non cede, è troppo duro, e la frattura del quarto premolare superiore è la diagnosi più comune. Controlli veterinari periodici e detartrasi quando serve completano la routine. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
-  
-  <h2>Perché l'Igiene Orale è Fondamentale</h2>
-  
-  <p>La salute del cavo orale influisce profondamente sul benessere generale del tuo <strong>Staffordshire Bull Terrier</strong>. I problemi dentali non trattati possono portare a conseguenze serie:</p>
-  
-  <ul>
-  <li><strong>Dolore cronico:</strong> placca e tartaro causano gengivite che progredisce in parodontite</li>
-  <li><strong>Infezioni sistemiche:</strong> i batteri orali entrano nel circolo sanguigno, potenzialmente danneggiando cuore, fegato e reni</li>
-  <li><strong>Perdita dei denti:</strong> la malattia parodontale avanzata porta alla mobilità e caduta dei denti</li>
-  <li><strong>Riduzione qualità di vita:</strong> difficoltà a masticare, riluttanza a giocare</li>
-  <li><strong>Costi elevati:</strong> detartrasi ripetute e interventi chirurgici sono molto più costosi della prevenzione</li>
-  </ul>
-  
-  <p>Nei <strong>cuccioli di Staffordshire Bull Terrier</strong> è cruciale impostare una routine precoce. Abituare il cucciolo alla manipolazione della bocca tra le 8 e le 16 settimane rende l'adulto collaborativo.</p>
-  
-  <div class="callout">
-  <p class="callout-title">🏆 Esperienza dall'allevamento</p>
-  <p>Gli Staffy abituati da cuccioli allo spazzolino sono quelli che da adulti si lasciano pulire i denti senza opporsi: è questa collaborazione, più di qualsiasi prodotto, che rende possibile la prevenzione per tutta la vita del cane.</p>
-  </div>
-  
-  <h2>Anatomia Dentale dello Staffy</h2>
-  
-  <h3>Dentizione del cucciolo</h3>
-  
-  <p><strong>Denti da latte (decidui):</strong> 28 denti, compaiono tra 3-6 settimane. Formula: 3 incisivi, 1 canino, 3 premolari per semiarcata. Più piccoli, più affilati, radici corte.</p>
-  
-  <p><strong>Denti permanenti:</strong> 42 denti, permuta completa verso 6-7 mesi. Formula superiore: 3 incisivi, 1 canino, 4 premolari, 2 molari per lato. Formula inferiore: 3 incisivi, 1 canino, 4 premolari, 3 molari per lato.</p>
-  
-  <h3>Peculiarità della razza</h3>
-  
-  <ul>
-  <li><strong>Mandibola potente:</strong> attenzione nella scelta dei masticativi (no oggetti troppo duri)</li>
-  <li><strong>Muso brachicefalo moderato:</strong> meno problemi di affollamento rispetto a razze ultra-brachicefale</li>
-  <li><strong>Predisposizione media al tartaro:</strong> igiene domiciliare rimane essenziale</li>
-  <li><strong>Denti robusti:</strong> smalto resistente ma non immune a usura e fratture</li>
-  </ul>
-  
-  <h2>Come Spazzolare i Denti: Procedura Step-by-Step</h2>
-  
-  <h3>Fase 1: Abituazione (cuccioli 8-12 settimane)</h3>
-  
-  <div class="procedure">
-  <p class="procedure-title">📋 Obiettivo: rendere la manipolazione della bocca positiva</p>
-  <div class="procedure-step"><strong>Giorno 1-3:</strong> Tocca delicatamente muso e labbra mentre accarezzi il cucciolo. Premia immediatamente. Ripeti 3-4 volte al giorno per pochi secondi.</div>
-  <div class="procedure-step"><strong>Giorno 4-7:</strong> Solleva il labbro superiore per 2-3 secondi, mostra i denti anteriori, premia. Aumenta gradualmente a 5-10 secondi.</div>
-  <div class="procedure-step"><strong>Giorno 8-14:</strong> Usa garza sterile o ditale in silicone inumidito. Strofina delicatamente i denti anteriori. Premia generosamente.</div>
-  <div class="procedure-step"><strong>Settimana 3-4:</strong> Estendi ai premolari posteriori. Aumenta a 15-20 secondi per lato.</div>
-  </div>
-  
-  <h3>Fase 2: Introduzione spazzolino (12-16 settimane)</h3>
-  
-  <p><strong>Materiali necessari:</strong></p>
-  <ul>
-  <li>Spazzolino per cani a setole morbide</li>
-  <li>Dentifricio enzimatico veterinario (gusto carne/pollo, mai prodotti umani)</li>
-  <li>Premi ad alto valore</li>
-  </ul>
-  
-  <h3>Fase 3: Spazzolatura completa (da 4 mesi)</h3>
-  
-  <p>Da eseguire <strong>3-7 volte a settimana</strong>, idealmente quotidiana. Durata totale: 2-3 minuti.</p>
-  
-  <ul>
-  <li><strong>Lato esterno superiore:</strong> Spazzola dalla linea gengivale verso il bordo. Insisti sui premolari/molari posteriori (40% del tempo). Durata: 30-40 secondi per lato.</li>
-  <li><strong>Lato esterno inferiore:</strong> Stessa tecnica. Attenzione a canini e premolari.</li>
-  <li><strong>Lato interno:</strong> Facoltativo, più difficile. Se tollerato, 10-20 secondi.</li>
-  <li><strong>Conclusione:</strong> Premio finale generoso. Risciacquo non necessario.</li>
-  </ul>
-  
-  <div class="alert">
-  <p class="alert-title">⚠️ Errori comuni da evitare</p>
-  <ul>
-  <li><strong>Forzare il cane:</strong> Se si agita, interrompi e riprova più tardi</li>
-  <li><strong>Dentifrici umani:</strong> Contengono fluoro e xilitolo, tossici per i cani</li>
-  <li><strong>Spazzolare troppo forte:</strong> Le gengive non devono sanguinare</li>
-  <li><strong>Trascurare i posteriori:</strong> Area critica dove si accumula più tartaro</li>
-  <li><strong>Irregolarità:</strong> La placca si mineralizza in tartaro in 24-48 ore</li>
-  </ul>
-  </div>
-  
-  <h2>Prodotti per l'Igiene Orale</h2>
-  
-  <h3>Spazzolini: confronto</h3>
-  
-  <ul>
-  <li><strong>Ditale:</strong> Ottimo per iniziare, controllo maggiore, economico. Per abituazione cuccioli 8-12 settimane.</li>
-  <li><strong>Classico a setole morbide:</strong> Più efficace, raggiunge meglio i posteriori. Per Staffy da 4 mesi in poi.</li>
-  <li><strong>Doppia testina:</strong> Versatile, testina grande e piccola. Per chi ha cani di età diverse.</li>
-  </ul>
-  
-  <h3>Dentifrici: criteri di scelta</h3>
-  
-  <ul>
-  <li><strong>Enzimatici:</strong> Contengono enzimi che disgregano la placca</li>
-  <li><strong>Gusto appetibile:</strong> Carne, pollo, malto - facilita l'accettazione</li>
-  <li><strong>Senza schiuma:</strong> Deglutibile in sicurezza</li>
-  </ul>
-  
-  <div class="info-box">
-  <p class="info-box-title">💡 Marchi affidabili</p>
-  <p>Orozyme, Virbac C.E.T., Beaphar, Tropiclean Fresh Breath. Costo: 8-15€ per tubetto da 70g (durata 2-3 mesi). Evita prodotti generici senza indicazione veterinaria.</p>
-  </div>
-  
-  <h2>Masticativi Sicuri per lo Staffy</h2>
-  
-  <h3>Snack raccomandati</h3>
-  
-  <ul>
-  <li><strong>Certificati VOHC:</strong> Testati scientificamente contro placca/tartaro. Frequenza: 3-4 volte a settimana.</li>
-  <li><strong>Tendini di manzo essiccati:</strong> Durata lunga, basso grasso, ottima azione abrasiva</li>
-  <li><strong>Trachee bovine:</strong> Ricche di glucosamina, massaggiano le gengive</li>
-  <li><strong>Kong Classic:</strong> Indistruttibile, riempibile con cibo</li>
-  <li><strong>Nylabone Dura Chew:</strong> Nylon resistente, superficie scanalata</li>
-  </ul>
-  
-  <div class="alert">
-  <p class="alert-title">🚫 Oggetti da evitare assolutamente</p>
-  <ul>
-  <li><strong>Ossa cotte:</strong> Scheggiabili, rischio fatale</li>
-  <li><strong>Corna di cervo/bufalo:</strong> Troppo dure, fratturano i premolari</li>
-  <li><strong>Zoccoli bovini:</strong> Durezza estrema</li>
-  <li><strong>Sassi e bastoni:</strong> Usura smalto, schegge</li>
-  <li><strong>Palle da tennis:</strong> Abrasive come carta vetrata</li>
-  </ul>
-  </div>
-  
-  <h2>Dentizione del Cucciolo: Gestione della Permuta</h2>
-  
-  <h3>Cronologia</h3>
-  
-  <ul>
-  <li><strong>3-6 settimane:</strong> Eruzione denti da latte (28 totali)</li>
-  <li><strong>3-5 mesi:</strong> Inizio permuta (caduta decidui, eruzione permanenti)</li>
-  <li><strong>6-7 mesi:</strong> Completamento dentizione permanente (42 denti)</li>
-  </ul>
-  
-  <h3>Sintomi normali durante la permuta</h3>
-  
-  <ul>
-  <li>Gengive leggermente arrossate/gonfie</li>
-  <li>Salivazione aumentata</li>
-  <li>Desiderio aumentato di masticare</li>
-  <li>Lieve riluttanza al cibo duro</li>
-  <li>Trovare dentini caduti in casa</li>
-  </ul>
-  
-  <h3>Come aiutare il cucciolo</h3>
-  
-  <ul>
-  <li><strong>Giochi da congelare:</strong> Kong riempito d'acqua e congelato, corde bagnate congelate</li>
-  <li><strong>Masticativi morbidi:</strong> Giochi in gomma morbida, evita quelli troppo duri</li>
-  <li><strong>Cibo umido temporaneo:</strong> Se riluttante al secco</li>
-  <li><strong>Evita tiro alla fune intenso:</strong> Può danneggiare denti in fase di radicamento</li>
-  </ul>
-  
-  <div class="alert">
-  <p class="alert-title">⚠️ Consulta il veterinario se noti:</p>
-  <ul>
-  <li>Doppia dentizione persistente oltre 7 mesi</li>
-  <li>Denti permanenti storti/sovrapposti</li>
-  <li>Sanguinamento gengivale abbondante</li>
-  <li>Rifiuto completo del cibo</li>
-  <li>Gonfiore facciale/ascessi</li>
-  </ul>
-  </div>
-  
-  <h2>Problemi Dentali Comuni</h2>
-  
-  <h3>Gengivite</h3>
-  
-  <p><strong>Sintomi:</strong> gengive arrossate, gonfiore del margine gengivale, sanguinamento durante spazzolatura, alitosi moderata.</p>
-  
-  <p><strong>Gestione:</strong> Fase iniziale reversibile con igiene intensificata. Persistente: <a href="https://wsava.org/global-guidelines/" title="Linee guida globali WSAVA" target="_blank" rel="noopener" aria-label="Linee guida globali WSAVA (si apre in una nuova scheda)">detartrasi</a> professionale.</p>
-  
-  <h3>Parodontite</h3>
-  
-  <p><strong>Sintomi:</strong> recessione gengivale, tasche parodontali, mobilità dentale, pus dalle gengive, alitosi severa, dolore marcato.</p>
-  
-  <p><strong>Gestione:</strong> Detartrasi profonda, estrazione denti compromessi, antibiotici, analgesici.</p>
-  
-  <h3>Fratture dentali</h3>
-  
-  <p><strong>Cause:</strong> oggetti troppo duri, traumi, tiro alla fune troppo aggressivo.</p>
-  
-  <p><strong>Cosa fare:</strong> Consulta veterinario entro 24-48h se polpa esposta. Dieta morbida fino a valutazione.</p>
-  
-  <h3>Tartaro</h3>
-  
-  <p><strong>Aspetto:</strong> depositi giallo-marroni sulla base dei denti, inizia sulla linea gengivale dei posteriori.</p>
-  
-  <p><strong>Gestione:</strong> Tartaro lieve: intensifica igiene. Moderato-severo: detartrasi professionale obbligatoria.</p>
-  
-  <h2>Detartrasi Professionale</h2>
-  
-  <h3>Quando è necessaria</h3>
-  
-  <ul>
-  <li>Tartaro visibile moderato-severo</li>
-  <li>Gengivite persistente nonostante igiene domiciliare</li>
-  <li>Alitosi intensa nonostante spazzolatura</li>
-  <li>Come prevenzione: ogni 1-3 anni a seconda della predisposizione</li>
-  </ul>
-  
-  <h3>La procedura</h3>
-  
-  <p><strong>Anestesia generale necessaria</strong> per pulizia sottogengivale completa. Protocollo: induzione, mantenimento con isoflurano/sevoflurano, monitoraggio costante. Durata: 30-90 minuti.</p>
-  
-  <p><strong>Scaling ultrasonico:</strong> frantuma il tartaro. <strong>Scaling manuale:</strong> rimuove residui. <strong>Lucidatura:</strong> leviga la superficie. <strong>Fluoro:</strong> rinforza smalto.</p>
-  
-  <h3>Costi indicativi</h3>
-  
-  <ul>
-  <li>Detartrasi base: 150-200€</li>
-  <li>Detartrasi + estrazioni: 250-400€+</li>
-  <li>Esami pre-anestesia: 50-100€</li>
-  </ul>
-  
-  <div class="callout">
-  <p class="callout-title">💰 Prevenzione vs Trattamento</p>
-  <p><strong>Prevenzione:</strong> ~215€/anno (spazzolino, dentifricio, snack, detartrasi ogni 3 anni)<br>
-  <strong>Nessuna prevenzione:</strong> 3.500-5.000€ in 10 anni (detartrasi annuali, estrazioni, farmaci)<br>
-  <em>La prevenzione costa la metà e garantisce un cane sano.</em></p>
-  </div>
-  
-  <div class="checklist">
-  <p class="checklist-title">Checklist Igiene Orale Completa</p>
-  <ul>
-  <li>Spazzolatura 3-7 volte/settimana con spazzolino morbido</li>
-  <li>Dentifricio enzimatico veterinario</li>
-  <li>Concentrazione sui premolari/molari posteriori</li>
-  <li>Snack masticabili sicuri 3-4 volte/settimana</li>
-  <li>Acqua fresca sempre disponibile</li>
-  <li>Ispezione visiva bocca settimanale</li>
-  <li>Controllo veterinario ogni 6-12 mesi</li>
-  <li>Detartrasi quando indicata</li>
-  </ul>
-  </div>
-  
+  <h2>Perché i denti contano più di quanto si pensi</h2>
+  <p>La malattia parodontale è la patologia diagnosticata più spesso nel cane, e la grande maggioranza dei cani ne è colpita già a tre anni. Nello Staffordshire Bull Terrier merita un'attenzione particolare per un motivo di struttura: la razza ha una dentatura completa di quarantadue denti in una mascella relativamente corta, il che vuol dire denti affollati, e i denti affollati trattengono la placca nei punti dove la lingua non arriva.</p>
+  <p>Le conseguenze vanno ben oltre l'alito cattivo. Un'infezione dentale cronica libera batteri nel sangue di continuo, e il legame con malattie di cuore, reni e fegato è ben documentato. Un cane con una malattia parodontale avanzata vive con un dolore costante e sordo che non può dire, e i proprietari raccontano spesso di un cane completamente diverso dopo una cura dentale che avevano continuato a rimandare.</p>
+
+  <h2>I problemi dentali tipici della razza</h2>
+  <p>Oltre all'affollamento, in questa razza conviene tenere d'occhio tre cose. I denti da latte che non cadono, soprattutto i canini, sono frequenti: se un dente da latte è ancora al suo posto quando è spuntato quello definitivo, va tolto, perché i due insieme trattengono residui e spingono il dente adulto fuori posto. A sette mesi non deve essere rimasto nessun dente da latte.</p>
+  <p>La seconda è la malocclusione. Una chiusura a forbice corretta distribuisce l'usura in modo uniforme; il prognatismo inferiore, che nella razza si vede, provoca un'usura anomala e traumi localizzati alle gengive. È un difetto da evitare in riproduzione, e in un cane che c'è già vuol dire controlli più frequenti più che una cura.</p>
+  <p>La terza, la più sottovalutata: i denti fratturati da masticativi sbagliati. È una mascella potentissima in un cane con una soglia del dolore insolitamente alta, e la frattura a scaglia del quarto premolare superiore è la lesione classica. Spesso il cane non dà nessun segno.</p>
+
+  <h2>Cosa dare e cosa evitare</h2>
+  <p>La regola che diamo a ogni famiglia che prende uno dei nostri cuccioli è semplice: se non ci lasci il segno con l'unghia, e non vorresti che ti cadesse su un ginocchio, non darlo al cane. Questo esclude corna, ossa di qualsiasi tipo, comprese le ossa di bovino da carico che si vendono ovunque, ossa di nylon, zoccoli e sassi.</p>
+  <p>Le scelte adatte: masticativi in gomma di quelli che cedono alla pressione, snack dentali con un'azione abrasiva dimostrata, corde da masticare usate sotto sorveglianza, e carote crude per i cani la cui alimentazione lo permette. Nessuno di questi sostituisce lo spazzolino, e qualsiasi prodotto che promette di rendere inutile lo spazzolino sta esagerando.</p>
+
+  <h2>Lo spazzolino: l'unica cosa che funziona davvero</h2>
+  <p>La placca si mineralizza in tartaro in circa tre giorni. Toglierla meccanicamente prima che succeda è l'unico intervento che previene in modo affidabile la malattia parodontale, e tutto il resto è un complemento.</p>
+  <p>L'ideale è ogni giorno; tre volte alla settimana è il minimo realistico che fa ancora una differenza misurabile. Si usa un dentifricio per cani, mai quello umano, che contiene fluoro e spesso xilitolo ed è tossico. Vanno bene sia uno spazzolino da dito sia uno spazzolino morbido da bambino: conta più la frequenza dello spazzolino.</p>
+  <p>Si introduce poco a poco, in un paio di settimane: prima si lascia leccare il dentifricio, poi si toccano solo le superfici esterne dei canini, poi si va verso il fondo. Contano le superfici esterne, perché quelle interne la lingua le tiene abbastanza pulite. Trenta secondi per lato, fatti con costanza, valgono più di cinque minuti fatti ogni tanto e poi abbandonati.</p>
+
+  <h2>Riconoscere un problema</h2>
+  <p>L'alito cattivo è il primo segno, e quello che più spesso viene considerato normale. Non lo è. Gli altri: depositi gialli o marroni lungo il bordo delle gengive, gengive rosse o che sanguinano, masticare da una parte sola, far cadere il cibo, toccarsi la bocca con la zampa, e rifiutare un masticativo che prima era gradito.</p>
+  <p>Visto che questa razza sopporta bene il fastidio, il fatto che non si lamenti non vuol dire niente. Una volta alla settimana si solleva il labbro e si guarda, e conviene prendere l'abitudine da cucciolo, così più avanti è una cosa normale.</p>
+
+  <h2>La pulizia professionale</h2>
+  <p>Una pulizia dentale dal <a href="https://wsava.org/global-guidelines/" title="Linee guida globali WSAVA" target="_blank" rel="noopener" aria-label="Linee guida globali WSAVA (si apre in una nuova scheda)">veterinario</a> richiede l'anestesia generale, ed è il punto in cui i proprietari esitano. L'esitazione si capisce, ma di solito è fuori luogo: i protocolli moderni, con esami del sangue prima e monitoraggio durante, sono a basso rischio in un cane sano, e l'alternativa sono anni di infezione non curata.</p>
+  <p>La cosiddetta pulizia senza anestesia toglie il tartaro visibile dalla corona e lascia i depositi sotto la gengiva, che sono quelli che causano davvero la malattia. La bocca sembra più bella e non si cura niente.</p>
+  <p>La frequenza cambia da cane a cane: un cane a cui si spazzolano i denti con regolarità può aver bisogno di una pulizia professionale ogni due o tre anni, mentre uno a cui non sono mai stati spazzolati può averne bisogno ogni anno dalla mezza età.</p>
+
+  <h2>Una routine realistica</h2>
+  <p>Ogni settimana: sollevare il labbro e guardare da tutti e due i lati. Da tre a sette volte alla settimana: spazzolare le superfici esterne, trenta secondi per lato. Ogni giorno: un masticativo adatto, scelto con la regola dell'unghia. Ogni anno: un controllo dei denti alla visita di routine, e fare quello che serve invece di rimandare.</p>
+  <p>Cominciata da cucciolo, questa routine richiede circa tre minuti al giorno e regala al cane anni di pasti senza dolore. Cominciata a sette anni, serve a limitare i danni.</p>
+
+  <h2>L'alimentazione e il suo vero ruolo</h2>
+  <p>L'idea che le crocchette puliscano i denti è in gran parte un mito: la maggior parte delle crocchette si sbriciola al contatto senza mai arrivare al bordo della gengiva. Esistono prodotti con un'azione dentale specifica, fatti con pezzi più grandi e fibrosi in cui il dente affonda invece di romperli, e quelli un effetto misurabile ce l'hanno. Sulla confezione va cercato un riconoscimento veterinario per la salute dentale, non una promessa pubblicitaria.</p>
+  <p>L'alimentazione a crudo, fatta bene, tende a dare denti visibilmente più puliti, soprattutto per l'azione meccanica delle ossa carnose crude adatte. Ha però anche dei rischi, come fratture da ossa troppo dure, occlusioni e la gestione dei batteri, e va discussa con il veterinario, non presa da un forum. Qualunque alimentazione si scelga, il suo effetto sulla salute dei denti viene dopo lo spazzolino.</p>
+
+  <h2>La dentizione, mese per mese</h2>
+  <p>I 28 denti da latte spuntano fra le tre e le sei settimane; il cambio con i denti definitivi comincia fra i tre e i cinque mesi e finisce a sei o sette, con 42 denti. Durante il cambio è normale vedere gengive un po' rosse e gonfie, più bava, una gran voglia di masticare, qualche difficoltà con il cibo duro, e dentini trovati in giro per casa. Per aiutarlo: giochi congelati, un Kong riempito d'acqua e messo in freezer, o una corda bagnata e congelata, masticativi in gomma morbida invece che duri, e cibo umido per qualche giorno se rifiuta le crocchette; mentre i denti nuovi si assestano, niente giochi di tira e molla bruschi. Dal veterinario se dopo i sette mesi un dente da latte è ancora al suo posto accanto al definitivo, se i denti definitivi crescono storti o affollati, o in caso di sanguinamento abbondante, gonfiore del muso o rifiuto completo del cibo.</p>
+
+  <h2>Insegnare lo spazzolino, da cucciolo</h2>
+  <p><strong>Dalle otto alle dodici settimane: abituarlo al contatto.</strong> Nei primi giorni si tocca piano il muso e le labbra mentre lo si accarezza, con un premio subito, pochi secondi tre o quattro volte al giorno. Poi si solleva il labbro superiore per due o tre secondi, mostrando i denti davanti, fino ad arrivare a cinque-dieci. Nella seconda settimana si strofinano piano i denti davanti con una garza umida o uno spazzolino da dito in silicone; fra la terza e la quarta si arriva ai premolari in fondo, quindici-venti secondi per lato.</p>
+  <p><strong>Dalle dodici alle sedici settimane: lo spazzolino.</strong> Uno spazzolino per cani a setole morbide, un dentifricio enzimatico veterinario al gusto di carne o pollo, mai quello umano, e premi di alto valore.</p>
+  <p><strong>Dai quattro mesi: la spazzolatura completa</strong>, da tre a sette volte alla settimana, due o tre minuti in tutto. Si spazzola dalla gengiva verso la punta, dedicando più tempo a premolari e molari in fondo, dove il tartaro si forma prima; le superfici interne sono facoltative, se il cane le tollera. Si chiude con un premio generoso; non serve sciacquare. Se il cane si agita ci si ferma e si riprova più tardi; se le gengive sanguinano, si sta spazzolando troppo forte.</p>
+
+  <h2>I problemi più comuni</h2>
+  <p><strong>La gengivite</strong> si vede come bordo della gengiva rosso e gonfio, che sanguina con lo spazzolino, con un alito moderatamente cattivo; presa presto regredisce con una migliore igiene, e se continua serve una pulizia professionale. <strong>La parodontite</strong> è lo stadio avanzato: gengive che si ritirano, tasche, denti che si muovono, pus e dolore forte, e si cura con una pulizia profonda, l'estrazione dei denti danneggiati e farmaci. <strong>I denti fratturati</strong> vengono da oggetti troppo duri, colpi o giochi di tira e molla troppo bruschi; se la polpa è scoperta, il cane va visto entro 24-48 ore e nel frattempo mangia cibo morbido. <strong>Il tartaro</strong> comincia come depositi giallo-marroni al bordo della gengiva dei denti posteriori: un tartaro leggero chiede più spazzolino, uno moderato o grave una pulizia professionale.</p>
+  <p>Una pulizia professionale richiede <strong>l'anestesia generale</strong>, perché la parte che conta, sotto la gengiva, su un cane sveglio non si raggiunge. Dura da trenta a novanta minuti: gli ultrasuoni rompono il tartaro, gli strumenti manuali tolgono quello che resta, e la lucidatura leviga la superficie. Prima si fanno gli esami del sangue, soprattutto nei cani anziani. In Italia una pulizia standard costa indicativamente 150-200 euro, e 250-400 euro o più con le estrazioni.</p>
+
   <h2>Domande Frequenti</h2>
   
   <section class="faq">

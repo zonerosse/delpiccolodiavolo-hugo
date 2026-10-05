@@ -23,7 +23,7 @@ custom_content: |
   <p class="hero-subtitle">What the law says</p>
   <div class="hero-meta">
   <span>📅 November 25, 2025</span>
-  <span>⏱️ 8 min read</span>
+  <span>⏱️ 13 min read</span>
   </div>
   </div>
   </section>

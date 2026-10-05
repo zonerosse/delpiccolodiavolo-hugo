@@ -21,6 +21,10 @@ custom_content: |
   <span class="hero-eyebrow">Gesetzgebung</span>
   <h1 class="hero-title">Ist der Staffy <em>gefährlich</em>?</h1>
   <p class="hero-subtitle">Was das Gesetz sagt</p>
+  <div class="hero-meta">
+  <span>📅 18. November 2025</span>
+  <span>⏱️ 12 Min. Lesezeit</span>
+  </div>
   </div>
   </section>
   

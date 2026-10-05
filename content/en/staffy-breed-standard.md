@@ -20,6 +20,10 @@ custom_content: |
   <span class="hero-eyebrow">Standard</span>
   <h1 class="hero-title">Breed <em>Standard</em></h1>
   <p class="hero-subtitle">Type and morphology</p>
+  <div class="hero-meta">
+  <span>📅 February 12, 2025</span>
+  <span>⏱️ 9 min read</span>
+  </div>
   </div>
   </section>
   <nav class="breadcrumb" aria-label="Breadcrumb">
@@ -34,12 +38,12 @@ custom_content: |
   <p>This matters when choosing a puppy, because it lets you distinguish between a dog that is typey and a dog that is merely exaggerated. The two are frequently confused, and the confusion has consequences that appear years later in the form of a dog that cannot breathe in August or cannot trot without rolling.</p>
 
   <h2>General appearance and proportions</h2>
-  <p>The Staffordshire Bull Terrier should be smooth-coated, well balanced, of great strength for its size, and active and agile. Height at the withers falls between 35 and 40 centimetres, and weight between 11 and 17 kilograms, with dogs at the upper end and bitches at the lower.</p>
+  <p>The Staffordshire Bull Terrier should be smooth-coated, well balanced, of great strength for its size, and active and agile. The desirable height at the withers is between 35.5 and 40.5 centimetres, related to weight: dogs weigh between 12.7 and 17 kilograms, bitches between 11 and 15.4.</p>
   <p>The proportion that matters most is often overlooked: the dog should be slightly longer than tall, close-coupled, with a level topline. A dog that is square or high on the leg loses the breed's characteristic outline; a dog that is long and low has lost the agility the standard asks for. The balance between substance and mobility is the whole point, and it is the first thing a good judge assesses from across the ring.</p>
 
   <h2>Head and expression</h2>
   <p>The head is the breed's most recognisable feature and, unfortunately, the one most subject to fashion. The standard asks for a short, deep skull, a broad head, very pronounced cheek muscles, a distinct stop, and a <strong>short foreface</strong>. The word short is doing important work here, and so is the absence of any word meaning absent.</p>
-  <p>A correct Staffordshire Bull Terrier has a muzzle that is short in relation to the skull but clearly present, with well-developed nostrils and enough length to house a complete, correctly aligned dentition. The tendency in some show lines towards an ever shorter, ever wider muzzle produces heads that photograph impressively and dogs that pant in the shade. This is not what the standard describes.</p>
+  <p>A correct Staffordshire Bull Terrier has a muzzle that is short in relation to the skull but clearly present, with well-developed nostrils and enough length to house a complete, correctly aligned dentition. The tendency in some show lines towards an ever shorter, ever wider muzzle produces heads that photograph impressively and dogs that pant in the shade. This is not what the standard describes, and the consequences are explained in the guide to <a href="/en/boas-staffordshire-bull-terrier-breathing/" title="BOAS and breathing in the Staffordshire Bull Terrier">breathing in the Staffy</a>.</p>
   <p>Eyes are dark, preferably, round, of medium size, set to look straight ahead. Ears are rose or half-pricked; full drop or fully pricked ears are faults. The mouth must have a scissor bite: the upper incisors closing tightly over the lower, with a complete set of teeth. Undershot and overshot mouths are serious faults.</p>
 
   <h2>Body, forequarters and hindquarters</h2>
@@ -52,7 +56,7 @@ custom_content: |
   <p>Watch for a dog that rolls, that paddles with its front feet, or that moves close behind. Watch also, and more importantly, for how the dog breathes at the end of a few minutes of trotting. A dog that is noisy after two circuits of a ring has a problem the standard never intended, and no amount of correct outline compensates for it.</p>
 
   <h2>Colour</h2>
-  <p>Permitted colours are red, fawn, white, black or blue, or any of these with white, and any shade of brindle or brindle with white. Black-and-tan and liver are described as highly undesirable, and there is no place for the diluted colour marketed as "blue merle" or similar, which does not belong in this breed at all. Which colours the standard allows, and which it does not, is explained in the guide to <a href="/en/staffordshire-bull-terrier-colours/" title="Staffordshire Bull Terrier colours">Staffordshire Bull Terrier colours</a>.</p>
+  <p>Permitted colours are red, fawn, white, black or blue, or any of these with white, and any shade of brindle or brindle with white. Black-and-tan and liver are described as highly undesirable, and there is no place for merle, sometimes sold as "blue merle", which does not exist in this breed at all. Which colours the standard allows, and which it does not, is explained in the guide to <a href="/en/staffordshire-bull-terrier-colours/" title="Staffordshire Bull Terrier colours">Staffordshire Bull Terrier colours</a>.</p>
   <p>Colour is the last thing that should influence a choice and the first thing most families ask about. A breeder who prices puppies by coat colour is telling you what their priorities are.</p>
 
   <h2>Faults, and how to weigh them</h2>
@@ -61,7 +65,7 @@ custom_content: |
 
   <h2>What this means when you look at a litter</h2>
   <p>You are not judging show potential at 8 weeks, and any breeder who guarantees a champion is guessing. What you can assess is the parents: their proportion, their dentition, their movement, and above all how they breathe after exercise. Ask to see both parents move, not just stand. Ask to see them on a warm day if you can.</p>
-  <p>A puppy from two parents who are typey, sound and comfortable in their own bodies is far more likely to become the same. That is the whole of what the standard is trying to protect.</p>
+  <p>A puppy from two parents who are typey, sound and comfortable in their own bodies is far more likely to become the same. That is the whole of what the standard is trying to protect. How to find your way among the lines when choosing is explained in the guide to <a href="/en/choosing-bloodlines/" title="Choosing Staffy bloodlines">choosing a bloodline</a>.</p>
 
   <h2>Common mistakes in judging type</h2>
   <p>Five errors recur. An <strong>overdone head</strong> pursued at the expense of everything else, which compromises neck, shoulders and movement. A <strong>chest that is too wide</strong>, a front so broad that it restricts the forehand. <strong>Bulky muscle that is not functional</strong>, built artificially rather than inherited. <strong>Weight as the only yardstick</strong>, treating the maximum weight as a target while ignoring proportions and height. And <strong>ignoring temperament</strong>, judging conformation while overlooking behavioural stability, which the standard puts in its opening lines.</p>

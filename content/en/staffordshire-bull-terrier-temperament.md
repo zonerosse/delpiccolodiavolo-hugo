@@ -33,6 +33,10 @@ correlati:
 <span class="hero-eyebrow">Know the Breed</span>
 <h1 class="hero-title">The Staffordshire Bull Terrier Temperament: Where It Comes From</h1>
 <p class="hero-subtitle">Why this dog is the way it is, and what it means to choose a character</p>
+  <div class="hero-meta">
+  <span>📅 January 18, 2026</span>
+  <span>⏱️ 5 min read</span>
+  </div>
 </div>
 </section>
 

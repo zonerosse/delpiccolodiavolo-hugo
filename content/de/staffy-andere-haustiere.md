@@ -21,6 +21,10 @@ custom_content: |
   <span class="hero-eyebrow">Familie</span>
   <h1 class="hero-title">Staffy mit <em>anderen Haustieren</em></h1>
   <p class="hero-subtitle">Zusammenleben mit Hunden, Katzen und mehr</p>
+  <div class="hero-meta">
+  <span>📅 18. Juni 2024</span>
+  <span>⏱️ 21 Min. Lesezeit</span>
+  </div>
   </div>
   </section>
   

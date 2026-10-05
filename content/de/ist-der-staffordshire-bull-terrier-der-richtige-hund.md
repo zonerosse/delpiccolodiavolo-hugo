@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">Vor- und Nachteile und für wen er wirklich geeignet ist — ohne Beschönigung</p>
   <div class="hero-meta">
   <span>📅 August 2026</span>
-  <span>⏱️ 9 Min. Lesezeit</span>
+  <span>⏱️ 8 Min. Lesezeit</span>
   </div>
   </div>
   </section>
@@ -45,12 +45,12 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Der Staffordshire Bull Terrier ist ein kompakter, muskulöser Hund von 13 bis 17 kg, den der <a href="/de/staffy-rassestandard/" title="Rassestandard des Staffordshire Bull Terrier">Rassestandard</a> als zuverlässig, mutig und sehr anhänglich beschreibt, besonders gegenüber Kindern. Er passt zu Menschen, die einen Hund mitten im Familienleben wollen, ihn jeden Tag ausführen und die Zeit haben, ihn konsequent zu erziehen. Er passt nicht zu jemandem, der viele Stunden außer Haus ist, weil er das Alleinsein schlechter verträgt als viele andere Rassen, und auch nicht zu jemandem, der einen distanzierten, unabhängigen Hund sucht. Als junger Hund hat er viel Energie, einen sturen Kopf und gegenüber anderen Hunden eine Reaktivität, die Sozialisierung verringert, aber nicht beseitigt. Mit Kindern ist er geduldig, doch kein Hund irgendeiner Rasse darf mit einem kleinen Kind allein bleiben. Dieser Ratgeber zeigt Stärken und Schwächen, bevor Sie entscheiden, nicht danach. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
+  <p>Der Staffordshire Bull Terrier ist ein kompakter, muskulöser Hund von 11 bis 17 kg, den der <a href="/de/staffy-rassestandard/" title="Rassestandard des Staffordshire Bull Terrier">Rassestandard</a> als zuverlässig, mutig und sehr anhänglich beschreibt, besonders gegenüber Kindern. Er passt zu Menschen, die einen Hund mitten im Familienleben wollen, ihn jeden Tag ausführen und die Zeit haben, ihn konsequent zu erziehen. Er passt nicht zu jemandem, der viele Stunden außer Haus ist, weil er das Alleinsein schlechter verträgt als viele andere Rassen, und auch nicht zu jemandem, der einen distanzierten, unabhängigen Hund sucht. Als junger Hund hat er viel Energie, einen sturen Kopf und gegenüber anderen Hunden eine Reaktivität, die Sozialisierung verringert, aber nicht beseitigt. Mit Kindern ist er geduldig, doch kein Hund irgendeiner Rasse darf mit einem kleinen Kind allein bleiben. Dieser Ratgeber zeigt Stärken und Schwächen, bevor Sie entscheiden, nicht danach. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
   
   
   <h2>Was der Staffordshire Bull Terrier wirklich ist</h2>
-  <p>Der Staffordshire Bull Terrier (kurz "Staffy") ist ein kleiner molossoider Hund (13-17 kg) englischen Ursprungs, mit kompaktem, muskulösem Körperbau, aber einem riesigen Herzen. Der offizielle <a href="https://www.fci.be/Nomenclature/Standards/076g03-de.pdf" target="_blank" rel="noopener" aria-label="FCI-Standard Nr. 76, PDF (wird in einem neuen Tab geöffnet)">Standard</a> beschreibt ihn mit Worten, die für einen Hund selten sind: <strong>"traditionell zuverlässig, von unbezähmbarem Mut und höchst anhänglich, besonders gegenüber Kindern"</strong>.</p>
+  <p>Der Staffordshire Bull Terrier (kurz "Staffy") ist ein kleiner molossoider Hund (11-17 kg) englischen Ursprungs, mit kompaktem, muskulösem Körperbau, aber einem riesigen Herzen. Der offizielle <a href="https://www.fci.be/Nomenclature/Standards/076g03-de.pdf" target="_blank" rel="noopener" aria-label="FCI-Standard Nr. 76, PDF (wird in einem neuen Tab geöffnet)">Standard</a> beschreibt ihn mit Worten, die für einen Hund selten sind: <strong>"traditionell zuverlässig, von unbezähmbarem Mut und höchst anhänglich, besonders gegenüber Kindern"</strong>.</p>
   <p>Es ist ein Hund faszinierender Widersprüche: robust, aber sehr sanft, hartnäckig, aber in der Familie fügsam, energiegeladen, aber fähig, sich in einen "Sofahund" zu verwandeln, wenn er ausgelastet ist. Wer ihn kennt, verliebt sich in ihn. Aber gerade weil er so "intensiv" ist, sollte er mit Bewusstsein gewählt werden.</p>
   
   <h2>Die VORTEILE: warum der Staffy die Herzen erobert</h2>

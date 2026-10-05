@@ -33,6 +33,10 @@ correlati:
 <span class="hero-eyebrow">Conosci la Razza</span>
 <h1 class="hero-title">Il Temperamento dello Staffordshire Bull Terrier: Come Nasce</h1>
 <p class="hero-subtitle">Perché questo cane è fatto così, e cosa significa scegliere il carattere</p>
+  <div class="hero-meta">
+  <span>📅 18 Gennaio 2026</span>
+  <span>⏱️ 5 min lettura</span>
+  </div>
 </div>
 </section>
 

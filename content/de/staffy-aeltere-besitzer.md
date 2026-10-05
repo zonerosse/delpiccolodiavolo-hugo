@@ -21,6 +21,10 @@ custom_content: |
   <span class="hero-eyebrow">Familie</span>
   <h1 class="hero-title">Staffy für <em>ältere Besitzer</em></h1>
   <p class="hero-subtitle">Ist der Staffy für Senioren geeignet?</p>
+  <div class="hero-meta">
+  <span>📅 28. Mai 2024</span>
+  <span>⏱️ 9 Min. Lesezeit</span>
+  </div>
   </div>
   </section>
   

@@ -2,7 +2,7 @@
 title: "Welpen: Entwurmung und Kotuntersuchung"
 date: 2026-09-27
 titleSeo: "Entwurmung der Welpen: Plan und Kotuntersuchung"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "sverminazione"
 articolo: true
 image: "/images/blog/esame-feci-microscopio-hero.webp"
@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">Plan, Laborbefunde und laufende Behandlung</p>
   <div class="hero-meta">
   <span>📅 27. September 2026</span>
-  <span>⏱️ 7 Min. Lesezeit</span>
+  <span>⏱️ 5 Min. Lesezeit</span>
   </div>
   </div>
   </section>

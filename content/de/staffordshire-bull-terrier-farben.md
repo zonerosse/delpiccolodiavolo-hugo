@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">Schwarz, Gestromt, Falb, Blau und Pied: welche erlaubt sind und was man wissen sollte</p>
   <div class="hero-meta">
   <span>📅 August 2026</span>
-  <span>⏱️ 8 Min. Lesezeit</span>
+  <span>⏱️ 6 Min. Lesezeit</span>
   </div>
   </div>
   </section>

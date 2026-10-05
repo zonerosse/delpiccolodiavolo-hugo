@@ -23,7 +23,7 @@ custom_content: |
   <p class="hero-subtitle">Inserimenti graduali, gestione risorse e protocolli sicuri</p>
   <div class="hero-meta">
   <span>📅 18 Giugno 2024</span>
-  <span>⏱️ 35 min lettura</span>
+  <span>⏱️ 24 min lettura</span>
   </div>
   </div>
   </section>

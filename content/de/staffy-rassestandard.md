@@ -21,6 +21,10 @@ custom_content: |
   <span class="hero-eyebrow">Standards und Blutlinien</span>
   <h1 class="hero-title">FCI <em>Rassestandard</em></h1>
   <p class="hero-subtitle">Standard Nr. 76 für Staffordshire Bull Terrier</p>
+  <div class="hero-meta">
+  <span>📅 12. Februar 2025</span>
+  <span>⏱️ 8 Min. Lesezeit</span>
+  </div>
   </div>
   </section>
   
@@ -42,12 +46,12 @@ custom_content: |
   <p>Das ist bei der Welpenwahl entscheidend, denn es erlaubt die Unterscheidung zwischen einem typvollen und einem bloß übertriebenen Hund. Beides wird häufig verwechselt, und die Verwechslung zeigt ihre Folgen erst Jahre später: ein Hund, der im August nicht atmen oder nicht ohne Wackeln traben kann.</p>
 
   <h2>Erscheinungsbild und Proportionen</h2>
-  <p>Der Staffordshire Bull Terrier soll kurzhaarig, gut ausbalanciert, von großer Kraft für seine Größe sowie aktiv und wendig sein. Die Widerristhöhe liegt zwischen 35 und 40 Zentimetern, das Gewicht zwischen 11 und 17 Kilogramm, Rüden am oberen, Hündinnen am unteren Ende.</p>
+  <p>Der Staffordshire Bull Terrier soll kurzhaarig, gut ausbalanciert, von großer Kraft für seine Größe sowie aktiv und wendig sein. Die erwünschte Widerristhöhe liegt zwischen 35,5 und 40,5 Zentimetern, im Verhältnis zum Gewicht: Rüden wiegen zwischen 12,7 und 17 Kilogramm, Hündinnen zwischen 11 und 15,4.</p>
   <p>Die wichtigste Proportion wird oft übersehen: der Hund soll geringfügig länger als hoch sein, kurz gekoppelt, mit gerader oberer Linie. Ein quadratischer oder hochläufiger Hund verliert die charakteristische Silhouette; ein langer, niedriger Hund hat die geforderte Wendigkeit eingebüßt. Das Gleichgewicht zwischen Substanz und Beweglichkeit ist der eigentliche Punkt.</p>
 
   <h2>Kopf und Ausdruck</h2>
   <p>Der Kopf ist das auffälligste Merkmal der Rasse und leider dasjenige, das der Mode am stärksten unterliegt. Der Standard verlangt einen kurzen, tiefen Schädel, einen breiten Kopf, sehr ausgeprägte Wangenmuskulatur, einen deutlichen Stopp und einen <strong>kurzen Vorgesichtsschädel</strong>. Das Wort kurz leistet hier wichtige Arbeit, und ebenso das Fehlen jedes Wortes, das nicht vorhanden bedeutet.</p>
-  <p>Ein korrekter Staffordshire Bull Terrier hat einen im Verhältnis zum Schädel kurzen, aber deutlich vorhandenen Fang, mit gut entwickelten Nasenlöchern und ausreichend Länge für ein vollständiges, korrekt gestelltes Gebiss. Die Tendenz mancher Ausstellungslinien zu immer kürzeren, immer breiteren Fängen erzeugt Köpfe, die auf Fotos beeindrucken, und Hunde, die im Schatten hecheln. Das beschreibt der Standard nicht.</p>
+  <p>Ein korrekter Staffordshire Bull Terrier hat einen im Verhältnis zum Schädel kurzen, aber deutlich vorhandenen Fang, mit gut entwickelten Nasenlöchern und ausreichend Länge für ein vollständiges, korrekt gestelltes Gebiss. Die Tendenz mancher Ausstellungslinien zu immer kürzeren, immer breiteren Fängen erzeugt Köpfe, die auf Fotos beeindrucken, und Hunde, die im Schatten hecheln. Das beschreibt der Standard nicht, und die Folgen erklärt der Ratgeber zur <a href="/de/boas-staffordshire-bull-terrier-atmung/" title="BOAS und Atmung beim Staffordshire Bull Terrier">Atmung des Staffy</a>.</p>
   <p>Die Augen sind vorzugsweise dunkel, rund, mittelgroß und geradeaus blickend. Die Ohren sind Rosen- oder Halbstehohren; vollständig hängende oder vollständig stehende Ohren sind Fehler. Das Gebiss muss ein Scherengebiss sein, mit vollständigem Zahnbestand. Vor- und Rückbiss sind schwere Fehler.</p>
 
   <h2>Körper, Vorhand und Hinterhand</h2>
@@ -60,7 +64,7 @@ custom_content: |
   <p>Achten Sie auf einen Hund, der wackelt, mit den Vorderpfoten rudert oder hinten eng geht. Achten Sie vor allem darauf, wie der Hund nach einigen Minuten Trab atmet. Ein Hund, der nach zwei Ringrunden geräuschvoll atmet, hat ein Problem, das der Standard nie vorgesehen hat, und keine noch so korrekte Silhouette gleicht das aus.</p>
 
   <h2>Farben</h2>
-  <p>Zugelassen sind Rot, Falb, Weiß, Schwarz oder Blau, jeweils auch mit Weiß, sowie jede Schattierung von Gestromt und Gestromt mit Weiß. Schwarz-Loh und Leberfarben gelten als höchst unerwünscht, und keinen Platz hat die als Blue Merle oder ähnlich vermarktete Verdünnung, die in dieser Rasse gar nicht vorkommt.</p>
+  <p>Zugelassen sind Rot, Falb, Weiß, Schwarz oder Blau, jeweils auch mit Weiß, sowie jede Schattierung von Gestromt und Gestromt mit Weiß. Schwarz-Loh und Leberfarben gelten als höchst unerwünscht, und keinen Platz hat Merle, manchmal als „Blue Merle“ verkauft, das es in dieser Rasse überhaupt nicht gibt.</p>
   <p>Die Farbe sollte die Wahl zuletzt beeinflussen und ist die erste Frage der meisten Familien. Ein Züchter, der Welpen nach Fellfarbe bepreist, sagt Ihnen damit, wo seine Prioritäten liegen. Welche Farben der Standard zulässt und welche nicht, erklärt der Ratgeber zu den <a href="/de/staffordshire-bull-terrier-farben/" title="Farben des Staffordshire Bull Terrier">Farben des Staffordshire Bull Terrier</a>.</p>
 
   <h2>Fehler und ihre Gewichtung</h2>
@@ -69,7 +73,7 @@ custom_content: |
 
   <h2>Was das bei der Betrachtung eines Wurfes bedeutet</h2>
   <p>Mit 8 Wochen beurteilen Sie kein Ausstellungspotenzial, und wer Ihnen einen Champion garantiert, rät. Beurteilen können Sie die Eltern: Proportionen, Gebiss, Bewegung und vor allem die Atmung nach Belastung. Bitten Sie darum, beide Elterntiere in Bewegung zu sehen, nicht nur im Stand — und wenn möglich an einem warmen Tag.</p>
-  <p>Ein Welpe aus zwei typvollen, gesunden Eltern, die sich in ihrem eigenen Körper wohlfühlen, wird mit weit größerer Wahrscheinlichkeit ebenso. Genau das will der Standard schützen.</p>
+  <p>Ein Welpe aus zwei typvollen, gesunden Eltern, die sich in ihrem eigenen Körper wohlfühlen, wird mit weit größerer Wahrscheinlichkeit ebenso. Genau das will der Standard schützen. Wie man sich bei der Wahl zwischen den Linien zurechtfindet, erklärt der Ratgeber <a href="/de/blutlinien-waehlen/" title="Staffy Blutlinien wählen">Blutlinien wählen</a>.</p>
 
   <h2>Häufige Fehler bei der Beurteilung des Typs</h2>
   <p>Fünf Fehler wiederholen sich. Ein <strong>übertriebener Kopf</strong>, auf Kosten von allem anderen verfolgt, der Hals, Schultern und Gangwerk beeinträchtigt. Eine <strong>zu breite Brust</strong>, eine Front, die so breit ist, dass sie die Vorhand behindert. <strong>Aufgepumpte, nicht funktionale Muskeln</strong>, künstlich aufgebaut statt vererbt. <strong>Das Gewicht als einziges Maß</strong>, wobei das Höchstgewicht als Ziel gilt und Proportionen und Größe übersehen werden. Und <strong>das Wesen außer Acht lassen</strong>, also nur den Körperbau beurteilen und die Wesensfestigkeit übergehen, die der Standard in seinen ersten Zeilen nennt.</p>
@@ -101,7 +105,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was ist das ideale Gewicht nach dem Standard?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Der Standard nennt <strong>12,7 bis 17 Kilogramm für Rüden</strong> und <strong>11 bis 15,4 Kilogramm für Hündinnen</strong>, bei einer Widerristhöhe von 35 bis 40 Zentimetern in beiden Geschlechtern. Gewicht und Größe müssen im Verhältnis stehen: ein großer Hund in einem kleinen Körper, aber Kompaktheit heißt nicht Schwere. Im Alltag zählt die Kondition mehr als die Zahl: Die Rippen müssen ohne Druck fühlbar sein, und von oben muss die Taille erkennbar sein. Der Staffordshire Bull Terrier ist verfressen und nimmt leicht zu, und Übergewicht ist nach dem dritten Lebensjahr das häufigste Gesundheitsproblem der Rasse, mit Folgen für Gelenke, Herz und Hitzetoleranz.</div>
+  <div class="faq-answer">Der Standard nennt <strong>12,7 bis 17 Kilogramm für Rüden</strong> und <strong>11 bis 15,4 Kilogramm für Hündinnen</strong>, bei einer Widerristhöhe von 35,5 bis 40,5 Zentimetern in beiden Geschlechtern. Gewicht und Größe müssen im Verhältnis stehen: ein großer Hund in einem kleinen Körper, aber Kompaktheit heißt nicht Schwere. Im Alltag zählt die Kondition mehr als die Zahl: Die Rippen müssen ohne Druck fühlbar sein, und von oben muss die Taille erkennbar sein. Der Staffordshire Bull Terrier ist verfressen und nimmt leicht zu, und Übergewicht ist nach dem dritten Lebensjahr das häufigste Gesundheitsproblem der Rasse, mit Folgen für Gelenke, Herz und Hitzetoleranz.</div>
   </div>
 
   <div class="faq-item active">

@@ -2,7 +2,7 @@
 title: "Welpen: Denkspiele"
 date: 2025-08-03
 titleSeo: "Denkspiele für Staffordshire Bull Terrier Welpen"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "giochi-mentali"
 articolo: true
 image: "/images/blog/cuccioli-3.webp"
@@ -23,8 +23,8 @@ custom_content: |
   <h1 class="hero-title">Denk<em>spiele</em></h1>
   <p class="hero-subtitle">Geist und Selbstkontrolle fördern</p>
   <div class="hero-meta">
-  <span>📅 5. Juni 2025</span>
-  <span>⏱️ 7 Min. Lesezeit</span>
+  <span>📅 3. August 2025</span>
+  <span>⏱️ 5 Min. Lesezeit</span>
   </div>
   </div>
   </section>

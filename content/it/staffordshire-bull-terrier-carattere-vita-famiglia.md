@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier: Carattere, Vita in Famiglia e Cosa Aspettarsi"
 date: 2026-04-28
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 titleSeo: "Staffordshire Bull Terrier: carattere e vita in famiglia"
 translationKey: "carattere-famiglia"
 articolo: true
@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">Con la razza dal 2005, allevatore dal 2013.</p>
   <div class="hero-meta">
   <span>📅 28 Aprile 2026</span>
-  <span>⏱️ 10 min lettura</span>
+  <span>⏱️ 5 min lettura</span>
   </div>
   </div>
   </section>

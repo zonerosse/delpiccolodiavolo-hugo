@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">per un cucciolo di Staffordshire Bull Terrier</p>
   <div class="hero-meta">
   <span>📅 5 Marzo 2025</span>
-  <span>⏱️ 12 min lettura</span>
+  <span>⏱️ 8 min lettura</span>
   </div>
   </div>
   </section>
@@ -48,85 +48,43 @@ custom_content: |
   
   <p>Una linea di sangue dello Staffordshire Bull Terrier è il risultato di generazioni di accoppiamenti scelti per fissare caratteristiche precise di struttura, carattere e salute. Allevatori diversi mettono l'accento su cose diverse: le linee britanniche privilegiano in genere equilibrio, movimento fluido e temperamento stabile, quelle irlandesi hanno spesso spinto su massa muscolare e ossatura. Per orientarsi conviene partire dal proprio obiettivo, famiglia, esposizione o sport, e poi leggere il pedigree cercando cani testati e documentati, non soltanto nomi famosi. La linea non viene mai prima della salute: un pedigree pieno di campioni non compensa due genitori senza test per L2HGA e HC. L'allevamento Del Piccolo Diavolo, a Ostellato in provincia di Ferrara, lavora sulla linea inglese Elitebull e su quella irlandese Lackyle.</p>
 
-  
-  <div class="callout">
-  <p class="callout-title">💡 Concetto chiave</p>
-  <p>La linea di sangue (bloodline) è la storia genetica del cane, un insieme di accoppiamenti selezionati nel tempo per fissare determinate caratteristiche morfologiche, caratteriali e di salute.</p>
-  </div>
-  
-  <h2>Perché le Linee di Sangue Contano</h2>
-  
-  <p>La linea di sangue non è solo un "nome famoso" nel pedigree. È un <strong>progetto di selezione</strong> che attraversa generazioni, con obiettivi precisi. Nello Staffordshire Bull Terrier, le caratteristiche da preservare includono tipicità morfologica (testa, proporzioni, espressione, torace e movimento), carattere stabile ed equilibrato, e salute genetica certificata.</p>
-  
-  <p>Allevatori diversi enfatizzano aspetti diversi: alcuni privilegiano la conformazione da show, altri il temperamento da famiglia, altri ancora la funzionalità atletica. Conoscere la linea di sangue ti aiuta a capire cosa aspettarti dal tuo cucciolo adulto.</p>
-  
-  <h2>Da dove vengono le linee</h2>
+  <p>Questa è la guida pratica. La storia delle sei linee fondatrici, di Gentleman Jim e delle linee M e R è raccontata nella <a href="/linee-sangue-staffordshire-bull-terrier/" title="Storia delle linee di sangue dello Staffy">storia delle linee di sangue dello Staffy</a>.</p>
 
-  <p>Le linee britanniche sono le pi&ugrave; antiche e variegate, e privilegiano equilibrio generale, movimento fluido e temperamento stabile. Le irlandesi hanno spesso enfatizzato massa muscolare e ossatura. Sono due tradizioni che si combinano bene, ed &egrave; su questo che lavoriamo.</p>
+  <h2>Parti da una definizione onesta di quello che vuoi</h2>
+  <p>Scegliere una linea di sangue non è una domanda con una risposta giusta per tutti. È una domanda su di te: cosa vuoi fare con il cane, quanto cane vuoi davvero in casa, e cosa sei disposto a gestire. Una linea che produce splendidi cani da esposizione può essere poco adatta a una famiglia in appartamento, e una linea che produce cani da famiglia equilibrati e moderati può deludere chi vuole gareggiare.</p>
+  <p>Prima di confrontare gli allevamenti, metti per iscritto tre cose. Se il cane sarà un compagno, un cane da esposizione o un futuro riproduttore. Se la tua casa è tranquilla o movimentata, e se ci sono bambini o <a href="/famiglia-convivenza-altri-animali/" title="Staffordshire Bull Terrier con altri animali in casa">altri animali</a>. E quanto tempo puoi dare davvero all'educazione e al movimento in una settimana storta, non in una buona.</p>
+  <p>Quasi tutti i casi di cane e proprietario sbagliati l'uno per l'altro che vediamo nascono da una di queste tre domande mai fatta.</p>
 
-  <p>La storia completa &mdash; le sei linee fondatrici individuate da Beilby nel 1943, Gentleman Jim, le linee estinte e il confronto fra Linea M e Linea R &mdash; &egrave; raccontata nella <a href="/linee-sangue-staffordshire-bull-terrier/" title="Linee di sangue Staffordshire Bull Terrier: storia">pagina dedicata alla storia delle linee</a>.</p>
+  <h2>Cosa cambia fra le linee, e cosa no</h2>
+  <p>Tutti gli Staffordshire Bull Terrier devono rispondere allo stesso <a href="https://www.enci.it/media/2347/076.pdf" target="_blank" rel="noopener" aria-label="Standard FCI n. 76, PDF ufficiale ENCI (si apre in una nuova scheda)">standard</a>, e le differenze fra le linee buone sono questioni di accento, non di sostanza. Quello che cambia davvero sono ossatura e massa, proporzioni della testa, livello di motivazione e reattività, tolleranza verso gli altri cani, e quanto una linea riproduce con costanza il suo tipo in tutta la cucciolata.</p>
+  <p>Quello che non deve cambiare, in nessuna linea che valga la pena considerare, è il carattere verso le persone e i <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">test di salute</a> dietro l'accoppiamento. Un allevatore che descrive una linea come «tagliente», o che giustifica un cane difficile con gli ospiti, sta descrivendo un difetto, non una caratteristica.</p>
 
-  <h2>Definisci i Tuoi Obiettivi Prima di Scegliere</h2>
-  
-  <h3>Cane da Compagnia/Famiglia</h3>
-  
-  <ul>
-  <li><strong>Priorità:</strong> temperamento equilibrato, recupero rapido dagli stimoli, docilità in casa, socialità con bambini</li>
-  <li><strong>Linee consigliate:</strong> bloodlines con storia di cani da famiglia, carattere testato</li>
-  <li><strong>Cosa verificare:</strong> stabilità psicologica dei genitori, assenza di aggressività o paura</li>
-  </ul>
-  
-  <h3>Cane da Show/Esposizioni</h3>
-  
-  <ul>
-  <li><strong>Priorità:</strong> aderenza rigorosa allo standard FCI, struttura e movimento corretti, espressione tipica</li>
-  <li><strong>Linee consigliate:</strong> bloodlines con titoli di campionato, risultati in ring documentati</li>
-  <li><strong>Cosa verificare:</strong> genealogia con campioni, tipo di morfologia non estremizzata, movimento fluido</li>
-  </ul>
-  
-  <h3>Cane per Sport/Attività</h3>
-  
-  <ul>
-  <li><strong>Priorità:</strong> costruzione funzionale, resistenza fisica, motivazione al lavoro, autocontrollo</li>
-  <li><strong>Linee consigliate:</strong> bloodlines con background di cani atletici, movimento efficiente</li>
-  <li><strong>Cosa verificare:</strong> assenza di problemi strutturali, test anca/gomito, stamina</li>
-  </ul>
-  
-  <h2>Cosa cercare nel pedigree quando scegli</h2>
+  <h2>Le linee inglesi e irlandesi in pratica</h2>
+  <p>Le linee inglesi, fra cui Elitebull è una delle più influenti nell'Europa continentale, sono associate in genere a proporzioni equilibrate, una buona qualità della testa senza esagerazioni e un movimento sano. Le linee irlandesi come Lackyle sono note per compattezza, ossatura forte, una notevole costanza dentro la cucciolata e un carattere estroverso e solido.</p>
+  <p>Il nostro programma le unisce di proposito, perché si completano invece di farsi concorrenza: l'inglese per l'equilibrio e la testa, l'irlandese per la sostanza e la costanza. Non è l'unica strategia valida, e un allevatore che lavora solo dentro una tradizione e la conosce a fondo può benissimo produrre cani migliori di uno che mescola senza un piano.</p>
+  <p>La domanda da fare non è da quale paese vengono i cani. È se l'allevatore sa spiegare cosa porta ogni linea, e perché.</p>
 
-  <p>Come si legge materialmente un pedigree ENCI &mdash; le generazioni, le sigle dei titoli, gli esami depositati e cosa aggiunge SBTPedigree &mdash; &egrave; spiegato passo per passo nella guida <a href="/come-si-legge-un-pedigree/" title="Come si legge un pedigree">Come si legge un pedigree</a>. Qui interessa un'altra cosa: cosa cercarci dentro quando stai scegliendo un cucciolo.</p>
-  
-  <h3>Consistenza genetica</h3>
-  
-  <p>Più gli stessi soggetti tipici, sani ed equilibrati ricorrono nel pedigree (nonni, bisnonni), più prevedibile sarà il risultato. La consanguineità moderata (linebreeding) su soggetti eccellenti può fissare qualità, ma richiede competenza per evitare problemi.</p>
-  
-  <h3>Equilibrio morfologico</h3>
-  
-  <p>Evita genealogie che estremizzano un singolo aspetto (testa spinta, ossatura eccessiva, altezza fuori <a href="https://www.enci.it/media/2347/076.pdf" title="Standard FCI n. 76, PDF ufficiale ENCI" target="_blank" rel="noopener" aria-label="Standard FCI n. 76, PDF ufficiale ENCI (si apre in una nuova scheda)">standard</a>) a scapito di movimento, funzionalità e salute. L'armonia complessiva è più importante di un dettaglio esasperato.</p>
-  
-  <h3>Titoli vs sostanza reale</h3>
-  
-  <p>I titoli di campionato (CH, Multi CH, INT CH) sono indicatori utili ma non sufficienti. Verifica sempre: salute certificata con test genetici, carattere stabile, tipicità reale confrontando foto e video dei soggetti in pedigree.</p>
-  
-  <h2>La salute viene prima della linea</h2>
+  <h2>L'accento sull'esposizione e il suo prezzo</h2>
+  <p>Alcune linee sono state plasmate soprattutto dal successo in ring, e in questa razza la cosa ha conseguenze che conviene capire prima di scegliere un cucciolo. Dove i giudici hanno premiato ossature più pesanti, anteriori più larghi e musi più corti, ne escono cani splendidi in fotografia che soffrono il caldo.</p>
+  <p>Se cerchi un compagno, questo conta più di qualsiasi titolo. Chiedi di vedere muovere i genitori, chiedi di sentirli respirare dopo cinque minuti di attività, e chiedi direttamente se l'allevatore tiene conto della respirazione negli accoppiamenti. La risposta, e la facilità con cui arriva, dicono molto.</p>
 
-  <p>Qualunque sia la linea, i test non sono un dettaglio da valutare dopo: L2-HGA e HC si escludono con un esame del DNA, e i referti devono riportare il microchip del cane. Come funzionano, cosa significano gli esiti e quanto costano lo trovi nella <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">pagina sui test genetici</a>.</p>
+  <h2>Valutare l'allevatore, non solo il pedigree</h2>
+  <p>Il pedigree ti parla degli antenati. L'allevatore ti parla del cucciolo che porterai davvero a casa. Le domande che rivelano di più sono queste.</p>
+  <p>Perché questi due cani? Un allevatore con un programma risponde in termini di cosa porta ciascun genitore, cosa sperava di migliorare e quale compromesso ha accettato. Senza programma, la risposta è che i genitori sono bellissimi.</p>
+  <p>Cosa cambieresti di questa cucciolata? Chiunque sia onesto ha una risposta, e di solito è precisa.</p>
+  <p>Dove vivono i cuccioli? I cuccioli cresciuti in casa, in mezzo ai rumori di tutti i giorni, a otto settimane sono <a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Cuccioli socializzati: cosa vuol dire davvero">molto più socializzati</a> di quelli cresciuti in un box pulito all'aperto, e la differenza resta.</p>
+  <p>Cosa succede se non funziona? La risposta giusta è che il cane torna all'allevatore, a qualsiasi età, per qualsiasi motivo, e che è scritto nel contratto di affido. L'elenco completo delle domande da fare, e come verificare le risposte, è nella guida su <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento serio">come riconoscere un allevamento serio</a>.</p>
 
-  <h2>Tipicità di Razza: Cosa Osservare</h2>
-  
-  <ul>
-  <li><strong>Testa ed espressione:</strong> proporzioni corrette secondo standard, stop marcato, muscolatura piena ma non esagerata, occhi scuri rotondi, orecchie a rosetta</li>
-  <li><strong>Proporzioni e torace:</strong> corpo compatto (non lungo), torace profondo ben cerchiato ma non eccessivo</li>
-  <li><strong>Movimento:</strong> sciolto, fluido, efficiente con buona spinta posteriore, senza rollii o incroci degli arti</li>
-  <li><strong>Mantello e pigmento:</strong> pelo corto e lucido, colori ammessi da standard, tartufo sempre nero</li>
-  <li><strong>Temperamento:</strong> sicuro, curioso, non aggressivo né pauroso, socievole con persone</li>
-  </ul>
-  
-  <h2>Le domande da fare</h2>
+  <h2>Il linebreeding, e quando è troppo</h2>
+  <p>Ripetere un antenato apprezzato dentro un pedigree fissa il tipo, ed è uno strumento legittimo che usa ogni programma serio. Spinto troppo oltre costa in difese immunitarie, fertilità e longevità, e lo fa senza farsi vedere per una o due generazioni.</p>
+  <p>Chiedi il coefficiente di consanguineità su cinque generazioni, e chiedi come l'allevatore decide dov'è il limite. Un allevatore che non l'ha mai calcolato non è per forza superficiale, ma uno che liquida la domanda ti sta dicendo qualcosa. Come si legge materialmente un pedigree ENCI, e cosa aggiunge SBTPedigree, è spiegato passo per passo nella guida <a href="/come-si-legge-un-pedigree/" title="Come si legge un pedigree">come si legge un pedigree</a>.</p>
 
-  <p>Sulle linee di sangue vale la pena chiedere una cosa sola, ma precisa: <em>perch&eacute; hai scelto questo maschio per questa femmina?</em> Chi seleziona sa rispondere indicando cosa sta cercando di correggere e cosa sta cercando di fissare.</p>
+  <h2>Cosa guardare nei cuccioli</h2>
+  <p>A otto settimane si valuta una tendenza, non un risultato. Cerca cuccioli che si riprendono in fretta da una sorpresa, che si avvicinano a un estraneo dopo un attimo di esitazione invece di ritirarsi, e che tollerano di essere tenuti a pancia in su per qualche secondo senza andare nel panico.</p>
+  <p>Non scegliere il cucciolo più sfacciato della cucciolata perché viene da te per primo: è l'errore più comune. La fascia sicura di sé ma non estrema va bene per la grande maggioranza delle case, molto più dei due estremi, e un buon allevatore ti ci porterà; anzi, un buon allevatore il cucciolo lo sceglie lui per te invece di lasciartelo scegliere, e questo dovrebbe rassicurarti, non infastidirti.</p>
 
-  <p>L'elenco completo delle domande da fare, e come verificare le risposte, sta nella guida su <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento serio">come riconoscere un allevamento serio</a>.</p>
+  <h2>I segnali d'allarme quando confronti gli allevamenti</h2>
+  <p>Diverse cucciolate disponibili insieme, o cuccioli sempre pronti. Prezzi che cambiano secondo il colore del mantello. Certificati di salute promessi per quando il cucciolo sarà già a casa. Cuccioli disponibili prima delle otto settimane, cosa vietata in Italia. Colori rari usati come argomento di vendita. E un allevatore che non ti fa nessuna domanda: quelli che ti fanno l'interrogatorio sono quelli che si riprenderanno il cane se ne avrai bisogno.</p>
 
   <h2>Domande Frequenti</h2>
   

@@ -2,7 +2,7 @@
 title: "Cuccioli: Gestione della solitudine"
 date: 2025-07-08
 titleSeo: "Insegnare al cucciolo a restare solo, senza stress"
-lastmod: 2026-09-29
+lastmod: 2026-10-05
 translationKey: "solitudine"
 articolo: true
 image: "/images/blog/neonati-2-hero.webp"
@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">Dai trenta secondi alle quattro ore, senza scene</p>
   <div class="hero-meta">
   <span>📅 8 Luglio 2025</span>
-  <span>⏱️ 7 min lettura</span>
+  <span>⏱️ 5 min lettura</span>
   </div>
   </div>
   </section>

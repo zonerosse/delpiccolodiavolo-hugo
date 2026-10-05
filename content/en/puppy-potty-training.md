@@ -2,7 +2,7 @@
 title: "Puppies: Potty Training"
 date: 2025-05-22
 titleSeo: "Puppy potty training: method, timing and setbacks"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "bisogni"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">Routine, signals and accident management</p>
   <div class="hero-meta">
   <span>📅 May 22, 2025</span>
-  <span>⏱️ 8 min read</span>
+  <span>⏱️ 5 min read</span>
   </div>
   </div>
   </section>

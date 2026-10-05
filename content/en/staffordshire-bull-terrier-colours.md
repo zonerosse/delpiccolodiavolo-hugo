@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">Black, brindle, fawn, blue and pied: which are allowed and what to know</p>
   <div class="hero-meta">
   <span>📅 August 2026</span>
-  <span>⏱️ 8 min read</span>
+  <span>⏱️ 6 min read</span>
   </div>
   </div>
   </section>

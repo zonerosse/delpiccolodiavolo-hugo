@@ -2,7 +2,7 @@
 title: "Welpen zu Hause sozialisieren: die Liste für die Familie"
 date: 2025-03-18
 titleSeo: "Welpen zu Hause sozialisieren: die Liste für die Familie"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "socializzazione"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
@@ -23,8 +23,8 @@ custom_content: |
   <h1 class="hero-title">Welpen zu Hause sozialisieren: <em>die Liste für die Familie</em></h1>
   <p class="hero-subtitle">Geführte erste Erfahrungen</p>
   <div class="hero-meta">
-  <span>📅 10. Mai 2025</span>
-  <span>⏱️ 8 Min. Lesezeit</span>
+  <span>📅 18. März 2025</span>
+  <span>⏱️ 5 Min. Lesezeit</span>
   </div>
   </div>
   </section>

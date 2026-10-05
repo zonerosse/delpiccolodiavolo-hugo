@@ -2,7 +2,7 @@
 title: "Welpen: Allein Bleiben Lernen"
 date: 2025-07-08
 titleSeo: "Welpen lernen allein zu bleiben, ohne Stress"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "solitudine"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">Schrittweise Gewöhnung und friedliche Routinen</p>
   <div class="hero-meta">
   <span>📅 8. Juli 2025</span>
-  <span>⏱️ 9 Min. Lesezeit</span>
+  <span>⏱️ 4 Min. Lesezeit</span>
   </div>
   </div>
   </section>

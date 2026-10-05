@@ -33,6 +33,10 @@ correlati:
 <span class="hero-eyebrow">Die Rasse Kennenlernen</span>
 <h1 class="hero-title">Das Wesen des Staffordshire Bull Terrier: Woher es Kommt</h1>
 <p class="hero-subtitle">Warum dieser Hund so ist, wie er ist, und was es bedeutet, ein Wesen zu wählen</p>
+  <div class="hero-meta">
+  <span>📅 18. Januar 2026</span>
+  <span>⏱️ 5 Min. Lesezeit</span>
+  </div>
 </div>
 </section>
 

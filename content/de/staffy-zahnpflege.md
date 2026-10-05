@@ -21,6 +21,10 @@ custom_content: |
   <span class="hero-eyebrow">Gesundheit und Wohlbefinden</span>
   <h1 class="hero-title">Zahnpflege und <em>Mundhygiene</em></h1>
   <p class="hero-subtitle">Vollständiger Leitfaden für Staffordshire Bull Terrier</p>
+  <div class="hero-meta">
+  <span>📅 18. Juni 2024</span>
+  <span>⏱️ 10 Min. Lesezeit</span>
+  </div>
   </div>
   </section>
   

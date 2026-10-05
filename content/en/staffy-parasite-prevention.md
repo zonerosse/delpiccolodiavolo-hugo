@@ -22,8 +22,8 @@ custom_content: |
   <h1 class="hero-title">Parasite <em>Prevention</em></h1>
   <p class="hero-subtitle">Complete guide for Staffordshire Bull Terrier</p>
   <div class="hero-meta">
-  <span>📅 November 23, 2025</span>
-  <span>⏱️ 10 min read</span>
+  <span>📅 January 20, 2025</span>
+  <span>⏱️ 11 min read</span>
   </div>
   </div>
   </section>

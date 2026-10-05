@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">Nero, tigrato, fulvo, blu e pezzati: quali sono ammessi e cosa sapere</p>
   <div class="hero-meta">
   <span>📅 Agosto 2026</span>
-  <span>⏱️ 8 min lettura</span>
+  <span>⏱️ 7 min lettura</span>
   </div>
   </div>
   </section>

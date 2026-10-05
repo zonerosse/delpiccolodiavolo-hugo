@@ -2,7 +2,7 @@
 title: "Cuccioli: Educazione ai bisogni"
 date: 2025-05-22
 titleSeo: "Educare il cucciolo ai bisogni: metodo e tempi reali"
-lastmod: 2026-09-29
+lastmod: 2026-10-05
 translationKey: "bisogni"
 articolo: true
 image: "/images/blog/cucciolo-ritratto-hero.webp"
@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">Quanto ci vuole davvero, i cinque momenti e gli incidenti</p>
   <div class="hero-meta">
   <span>📅 22 Maggio 2025</span>
-  <span>⏱️ 7 min lettura</span>
+  <span>⏱️ 5 min lettura</span>
   </div>
   </div>
   </section>

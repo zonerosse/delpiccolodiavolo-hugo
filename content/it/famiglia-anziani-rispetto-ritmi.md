@@ -23,7 +23,7 @@ custom_content: |
   <p class="hero-subtitle">Convivenza realistica: routine, supporti e benefici comprovati</p>
   <div class="hero-meta">
   <span>📅 28 Maggio 2024</span>
-  <span>⏱️ 20 min lettura</span>
+  <span>⏱️ 10 min lettura</span>
   </div>
   </div>
   </section>
@@ -45,7 +45,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Lo Staffordshire Bull Terrier può essere un buon compagno per una persona anziana, a condizioni precise. Pesa 12-17 kg e vive 12-14 anni, ma da giovane ha molta energia e una forza che può far perdere l'equilibrio a chi tiene il guinzaglio. Per questo la scelta giusta quasi sempre non è un cucciolo, che fra gli 8 e i 18 mesi richiede supervisione continua ed educazione quotidiana, ma un adulto fra i tre e i cinque anni, con il carattere già formato e un'energia che si accontenta di una o due passeggiate al giorno. Lo sconsigliamo a chi ha una mobilità molto ridotta, a chi vive senza familiari che possano subentrare quando serve e a chi ha problemi cognitivi. Conta anche il costo: cibo, veterinario ed eventuale pensione durano per tutta la vita del cane. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
+  <p>Lo Staffordshire Bull Terrier può essere un buon compagno per una persona anziana, a condizioni precise. Pesa 11-17 kg e vive 12-14 anni, ma da giovane ha molta energia e una forza che può far perdere l'equilibrio a chi tiene il guinzaglio. Per questo la scelta giusta quasi sempre non è un cucciolo, che fra gli 8 e i 18 mesi richiede supervisione continua ed educazione quotidiana, ma un adulto fra i tre e i cinque anni, con il carattere già formato e un'energia che si accontenta di una o due passeggiate al giorno. Lo sconsigliamo a chi ha una mobilità molto ridotta, a chi vive senza familiari che possano subentrare quando serve e a chi ha problemi cognitivi. Conta anche il costo: cibo, veterinario ed eventuale pensione durano per tutta la vita del cane. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
   <h2>Un punto di partenza onesto</h2>
   <p>Alla domanda se uno Staffordshire Bull Terrier sia adatto a una persona anziana non c'è una risposta unica, e chi ne dà una non sta facendo attenzione. Dipende molto più dalla persona e dal cane in questione che dalla razza, e la versione onesta del consiglio contiene tante cautele quante raccomandazioni.</p>

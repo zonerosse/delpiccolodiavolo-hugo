@@ -4,7 +4,7 @@ og_image: "/images/og/schede/en/staffordshire-bull-terrier-puppy-abroad.jpg"
 og_image_alt: "Staffy puppy abroad: timing and paperwork — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/cucciolo-staffordshire-bull-terrier-all-estero.webp"
 date: 2026-09-12
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 articolo: true
 translationKey: "cucciolo-estero"
 description: "A puppy going to another European country leaves at four months, not two. Rabies vaccination, pet passport, TRACES certificate and ENCI export pedigree."
@@ -27,6 +27,10 @@ custom_content: |
   <span class="hero-eyebrow">Placements abroad</span>
   <h1 class="hero-title">A <em>Staffordshire Bull Terrier</em> puppy going abroad</h1>
   <p class="hero-subtitle">Timing, paperwork, export pedigree</p>
+  <div class="hero-meta">
+  <span>📅 September 12, 2026</span>
+  <span>⏱️ 5 min read</span>
+  </div>
   <p class="hero-description">A puppy going to a family in another European country leaves at around four months, not two. It needs the rabies vaccination, the pet passport, the TRACES health certificate and the ENCI export pedigree. Here is how it actually works.</p>
   <div class="hero-actions">
   <a class="btn btn-primary" href="https://wa.me/393924635584" target="_blank" rel="noopener" aria-label="Write to me (opens in a new tab)">Write to me</a>

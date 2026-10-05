@@ -21,6 +21,10 @@ custom_content: |
   <span class="hero-eyebrow">Gesundheit und Wohlbefinden</span>
   <h1 class="hero-title">Sichere <em>Bewegung</em></h1>
   <p class="hero-subtitle">Aktivitätsleitfaden für Staffordshire Bull Terrier</p>
+  <div class="hero-meta">
+  <span>📅 20. Juni 2024</span>
+  <span>⏱️ 12 Min. Lesezeit</span>
+  </div>
   </div>
   </section>
   

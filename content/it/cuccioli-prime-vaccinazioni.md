@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">Calendario, richiami e cosa fare nel frattempo</p>
   <div class="hero-meta">
   <span>📅 10 Giugno 2025</span>
-  <span>⏱️ 7 min lettura</span>
+  <span>⏱️ 6 min lettura</span>
   </div>
   </div>
   </section>

@@ -23,7 +23,7 @@ custom_content: |
   <p class="hero-subtitle">Auto, treno, hotel: guida pratica per spostamenti sicuri</p>
   <div class="hero-meta">
   <span>📅 7 Aprile 2024</span>
-  <span>⏱️ 12 min lettura</span>
+  <span>⏱️ 9 min lettura</span>
   </div>
   </div>
   </section>

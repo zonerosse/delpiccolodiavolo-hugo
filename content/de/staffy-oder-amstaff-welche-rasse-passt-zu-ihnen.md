@@ -1,6 +1,6 @@
 ---
 title: "Staffy oder Amstaff, welcher passt zu Ihnen: der Test des Züchters"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 articolo: true
 image: "/images/blog/staffy-amstaff-hero.webp"
 og_image: "/images/og/schede/de/staffy-oder-amstaff-welche-rasse-passt-zu-ihnen.jpg"
@@ -24,6 +24,10 @@ fonti_motivo: "Diese Seite gibt den Test wieder, den die Zucht Del Piccolo Diavo
 <span class="hero-eyebrow">Vollständiger Leitfaden</span>
 <h1 class="hero-title">Staffy oder Amstaff, welcher passt zu Ihnen: <em>der Test des Züchters</em></h1>
 <p class="hero-subtitle">Dass es nicht derselbe Hund ist, wissen Sie bereits. Bleiben die sieben Fragen, die wir jedem stellen, der uns wegen eines Welpen schreibt</p>
+  <div class="hero-meta">
+  <span>📅 18. Januar 2026</span>
+  <span>⏱️ 4 Min. Lesezeit</span>
+  </div>
 </div>
 </section>
 
@@ -36,7 +40,7 @@ fonti_motivo: "Diese Seite gibt den Test wieder, den die Zucht Del Piccolo Diavo
 
 <section class="section">
 <div class="section-inner content-single">
-<p>Staffordshire Bull Terrier und American Staffordshire Terrier sind zwei eigenständige Rassen mit eigenem FCI-Standard und eigenem Zuchtbuch: ein Staffy-Rüde wiegt 12-17 kg bei 35-40 cm Widerristhöhe, ein Amstaff 25-32 kg bei 45,7-48,2 cm. Die Wahl zwischen beiden ist keine Geschmacksfrage in Sachen Kopf: es geht um die Wohnung, um die Menschen darin und um die Zeit, die vorhanden ist. In der Zucht Del Piccolo Diavolo in Ostellato bei Ferrara, Italien, stellen wir jedem, der wegen eines Welpen schreibt, sieben Fragen, bevor wir über Würfe sprechen, denn die Antwort auf jede einzelne schließt eine der beiden Rassen öfter aus, als man denkt. Es sind dieselben sieben Fragen wie auf dieser Seite. Die Antworten zum Staffy stammen von unseren eigenen Hunden; die zum Amstaff aus dem, was wir im Ring und bei Haltern gesehen haben.</p>
+<p>Staffordshire Bull Terrier und American Staffordshire Terrier sind zwei eigenständige Rassen mit eigenem FCI-Standard und eigenem Zuchtbuch: ein Staffy-Rüde wiegt 12,7-17 kg bei 35,5-40,5 cm Widerristhöhe, ein Amstaff 25-32 kg bei 45,7-48,2 cm. Die Wahl zwischen beiden ist keine Geschmacksfrage in Sachen Kopf: es geht um die Wohnung, um die Menschen darin und um die Zeit, die vorhanden ist. In der Zucht Del Piccolo Diavolo in Ostellato bei Ferrara, Italien, stellen wir jedem, der wegen eines Welpen schreibt, sieben Fragen, bevor wir über Würfe sprechen, denn die Antwort auf jede einzelne schließt eine der beiden Rassen öfter aus, als man denkt. Es sind dieselben sieben Fragen wie auf dieser Seite. Die Antworten zum Staffy stammen von unseren eigenen Hunden; die zum Amstaff aus dem, was wir im Ring und bei Haltern gesehen haben.</p>
 
 
 <p><strong>Wenn Sie noch dabei sind, die Rassen auseinanderzuhalten</strong>, brauchen Sie einen anderen Leitfaden: <a href="/de/staffy-pitbull-amstaff-unterschied/" title="Wie man die drei Rassen erkennt">Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich</a>, mit der Maßtabelle und der Rechtslage. Diese Seite beginnt einen Schritt später: Sie wissen bereits, dass es verschiedene Rassen sind, und müssen entscheiden, welche bei Ihnen einzieht.</p>

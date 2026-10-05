@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">Vollständiger Leitfaden zur Unterscheidung der drei Rassen</p>
   <div class="hero-meta">
   <span>📅 19. November 2025</span>
-  <span>⏱️ 12 Min. Lesezeit</span>
+  <span>⏱️ 9 Min. Lesezeit</span>
   </div>
   </div>
   </section>
@@ -227,7 +227,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Was ist der wichtigste Unterschied zwischen Staffy und Pit Bull?</h3>
-  <div class="faq-answer">Der Unterschied, der zuerst zählt, ist rechtlich, nicht optisch: Der <strong>Staffordshire Bull Terrier ist eine von der FCI anerkannte Rasse</strong> mit genauem Standard und Zuchtbuch, während der Pit Bull in Italien keine anerkannte Rasse ist und keine ENCI-Ahnentafel ihn bescheinigt. Wer einen Pit Bull mit Ahnentafel verkauft, verkauft etwas anderes. Körperlich ist der Staffy deutlich kleiner: 35-40 cm Widerristhöhe und 12-17 kg beim Rüden, gegenüber einer viel größeren Bandbreite bei Hunden, die Pit Bull genannt werden und über dreißig Kilo wiegen können. Kompakt, mit kurzem, breitem Kopf und gedrungenem Körperbau, ist der Staffy der kleinste der drei.</div>
+  <div class="faq-answer">Der Unterschied, der zuerst zählt, ist rechtlich, nicht optisch: Der <strong>Staffordshire Bull Terrier ist eine von der FCI anerkannte Rasse</strong> mit genauem Standard und Zuchtbuch, während der Pit Bull in Italien keine anerkannte Rasse ist und keine ENCI-Ahnentafel ihn bescheinigt. Wer einen Pit Bull mit Ahnentafel verkauft, verkauft etwas anderes. Körperlich ist der Staffy deutlich kleiner: 35,5-40,5 cm Widerristhöhe und 12,7-17 kg beim Rüden, gegenüber einer viel größeren Bandbreite bei Hunden, die Pit Bull genannt werden und über dreißig Kilo wiegen können. Kompakt, mit kurzem, breitem Kopf und gedrungenem Körperbau, ist der Staffy der kleinste der drei.</div>
   </div>
   
   <div class="faq-item">

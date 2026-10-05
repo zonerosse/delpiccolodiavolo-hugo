@@ -23,7 +23,7 @@ custom_content: |
   <p class="hero-subtitle">Punti chiave dello standard FCI e interpretazione pratica</p>
   <div class="hero-meta">
   <span>📅 12 Febbraio 2025</span>
-  <span>⏱️ 10 min lettura</span>
+  <span>⏱️ 9 min lettura</span>
   </div>
   </div>
   </section>
@@ -47,126 +47,46 @@ custom_content: |
   
   <p>Uno Staffordshire Bull Terrier è tipico quando testa, proporzioni, torace, ossatura, muscolatura e movimento stanno in equilibrio fra loro e con il carattere descritto dallo standard FCI n. 76. La testa è corta, con cranio ampio, stop marcato, muso corto ma non eccessivo, mascelle forti e chiusura a forbice; gli occhi sono rotondi e preferibilmente scuri, le orecchie a rosa o semierette, né grandi né pesanti. Il corpo è raccolto, con torace ampio e profondo, e il movimento deve essere libero e potente, con una spinta evidente dal posteriore. La tipicità però non è l'esagerazione di un singolo punto: una testa spinta o un muso troppo corto penalizzano <a href="/boas-staffordshire-bull-terrier-respirazione/" title="BOAS e respirazione nello Staffordshire Bull Terrier">respirazione e termoregolazione</a>, e in esposizione il giudice valuta l'insieme. È su questo equilibrio che si scelgono i riproduttori, prima ancora che sui titoli. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
-  
-  <div class="callout">
-  <p class="callout-title">📋 Nota importante</p>
-  <p>Lo <a href="https://www.enci.it/media/2347/076.pdf" title="Standard FCI n. 76, PDF ufficiale ENCI" target="_blank" rel="noopener" aria-label="Standard FCI n. 76, PDF ufficiale ENCI (si apre in una nuova scheda)">standard FCI n. 76</a> descrive il tipo ideale dello Staffordshire Bull Terrier. L'obiettivo di un allevamento serio è mantenere l'armonia complessiva senza estremizzare un singolo punto a scapito della funzionalità.</p>
-  </div>
-  
-  <h2>La Testa: Proporzioni, Stop e Muso</h2>
-  
-  <p>La testa è uno dei tratti più distintivi dello Staffordshire Bull Terrier. Lo standard FCI descrive un <strong>cranio corto e ampio</strong>, stop marcato, muso corto ma non eccessivo, mascelle forti con dentatura a forbice perfetta. Gli occhi devono essere rotondi, preferibilmente scuri, con espressione viva e intelligente. Le orecchie, a "rosetta" o semierette, non devono essere né troppo grandi né pesanti.</p>
-  
-  <h3>Come valutarla in pratica</h3>
-  
-  <ul>
-  <li><strong>Rapporto cranio/muso:</strong> equilibrio funzionale, evitando eccessi di brevità che penalizzano respirazione e termoregolazione</li>
-  <li><strong>Stop ben definito</strong> ma non "rotto" o esagerato come nel Bulldog Inglese</li>
-  <li><strong>Labbra asciutte,</strong> mascelle piene e potenti, zigomi muscolosi senza rughe marcate a riposo</li>
-  <li><strong>Espressione:</strong> vivace, intelligente, mai aggressiva o impaurita</li>
-  </ul>
-  
-  <h2>Proporzioni e Silhouette Generale</h2>
-  
-  <p>Il cane deve dare un'impressione di <strong>potenza concentrata e atleticità</strong>, mai pesantezza o goffaggine. Dorso diritto e corto, rene corto e muscoloso, torace ampio e profondo con costole ben cerchiate ("a botte"). L'altezza al garrese in rapporto con lunghezza del corpo e massa muscolare deve restituire un insieme compatto, atletico e maneggevole.</p>
-  
-  <div class="callout">
-  <p class="callout-title">💡 Consiglio da ring</p>
-  <p>Osserva il profilo in stazione naturale: collo asciutto e muscoloso, spalle oblique, linea dorsale stabile e orizzontale, groppa leggermente inclinata e coda portata bassa a "manico di pompa".</p>
-  </div>
-  
-  <h2>Torace, Ossatura e Muscolatura</h2>
-  
-  <p>Il torace deve essere profondo con buona discesa di sterno, pettorali ben sviluppati ma non ingombranti o esagerati. Ossatura solida e robusta su piedi compatti con dita ben chiuse. La muscolatura deve essere definita e asciutta, frutto di genetica e condizionamento, mai gonfia o artificiosa.</p>
-  
-  <div class="info-box">
-  <p class="info-box-title">📏 Standard FCI - Misure</p>
-  <ul>
-  <li><strong>Peso maschi:</strong> 12,7-17,2 kg</li>
-  <li><strong>Peso femmine:</strong> 11,0-15,4 kg</li>
-  <li><strong>Altezza al garrese:</strong> 35,5-40,5 cm (maschi e femmine)</li>
-  <li><strong>Proporzione peso/altezza:</strong> rapporto armonioso, cane compatto</li>
-  </ul>
-  </div>
-  
-  <h2>Movimento e Andature</h2>
-  
-  <p>Il movimento deve essere <strong>sciolto, fluido e coprente</strong>, con buona spinta posteriore e anteriore libero senza restrizioni. Visti da davanti o da dietro gli arti devono muoversi su piani paralleli, senza incroci, rollii o andatura a gambero. Al trotto il cane deve coprire terreno con economia di movimento.</p>
-  
-  <h3>Difetti di movimento</h3>
-  
-  <ul>
-  <li>Anteriore troppo stretto che incrocia</li>
-  <li>Posteriore vaccino o cagnolo</li>
-  <li>Rollio eccessivo delle spalle</li>
-  <li>Passo corto e poco fluido</li>
-  </ul>
-  
-  <h2>Mantello e Colori Ammessi</h2>
-  
-  <p>Mantello corto, liscio e aderente. Colori ammessi dallo standard FCI:</p>
-  
-  <ul>
-  <li><strong>Rosso</strong> (red)</li>
-  <li><strong>Fulvo</strong> (fawn)</li>
-  <li><strong>Bianco</strong></li>
-  <li><strong>Nero</strong></li>
-  <li><strong>Blu</strong> (blue)</li>
-  <li><strong>Tigrato</strong> (brindle) in qualsiasi tonalità</li>
-  <li><strong>Qualsiasi di questi</strong> con bianco</li>
-  </ul>
+  <h2>A cosa serve lo standard</h2>
+  <p><a href="https://www.enci.it/media/2347/076.pdf" title="Standard FCI n. 76 dello Staffordshire Bull Terrier, PDF ufficiale ENCI" target="_blank" rel="noopener" aria-label="Standard FCI n. 76 dello Staffordshire Bull Terrier, PDF ufficiale ENCI (si apre in una nuova scheda)">Lo standard di razza</a> non è una lista di requisiti estetici. È la descrizione funzionale di un cane costruito per un compito preciso: un terrier a pelo raso, raccolto, di grande forza per la sua taglia, abbastanza agile da girarsi su sé stesso e abbastanza sano da lavorare tutto il giorno. Ogni frase c'è perché descrive qualcosa di cui il cane aveva bisogno per funzionare, e leggerlo così lo rende molto più utile che leggerlo come un elenco di caratteristiche da spuntare.</p>
+  <p>Conta quando si sceglie un cucciolo, perché permette di distinguere un cane tipico da un cane semplicemente esagerato. I due vengono confusi spesso, e la confusione ha conseguenze che si vedono anni dopo: un cane che ad agosto non respira, o che non riesce a trottare senza dondolare.</p>
 
-  <p>Perché alcuni colori sono esclusi, e come riconoscere un colore venduto come raro, è spiegato nella guida ai <a href="/colori-staffordshire-bull-terrier/" title="I colori dello Staffordshire Bull Terrier">colori dello Staffordshire Bull Terrier</a>.</p>
-  
-  <div class="alert">
-  <p class="alert-title">⚠️ Colori NON ammessi</p>
-  <p>Il nero focato (black and tan) e il fegato (liver) sono definiti dallo standard altamente indesiderabili. Il tartufo deve essere sempre nero.</p>
-  </div>
-  
-  <h2>Carattere e Tipicità Comportamentale</h2>
-  
-  <p>Lo standard non è solo morfologia. Il carattere è parte integrante della tipicità: lo Stafford deve essere <strong>coraggioso, tenace, affidabile</strong> con le persone e in particolare affettuoso verso la famiglia, specialmente i bambini. Deve essere sicuro di sé, stabile psicologicamente, mai pauroso o aggressivo senza motivo.</p>
-  
-  <div class="callout">
-  <p class="callout-title">🐕 Importante</p>
-  <p>Stabilità psicologica e sicurezza sono requisiti essenziali, frutto di selezione genetica attenta e corretta socializzazione precoce. Un Staffy timido o isterico non è tipico, indipendentemente dalla morfologia perfetta.</p>
-  </div>
-  
-  <h2>Linee di Sangue e Interpretazione</h2>
-  
-  <p>Le diverse <a href="/standard-linee-di-sangue-orientarsi/" title="Come scegliere la linea di sangue di un cucciolo">linee di sangue</a> (UK, irlandesi, scandinave, continentali) possono accentuare particolari dettagli morfologici: tipo di testa, front, pigmentazione, movimento, muscolatura. L'obiettivo di un allevamento serio è mantenere l'armonia complessiva senza estremizzare un singolo punto a scapito della funzionalità.</p>
-  
-  <h3>Principi di selezione</h3>
-  
-  <ul>
-  <li><strong>Coerenza:</strong> accoppiare soggetti che si compensano mantenendo la tipicità globale della razza</li>
-  <li><strong>Salute prioritaria:</strong> screening genetico (L2-HGA, HC, DM-SOD1) e selezione per longevità e benessere</li>
-  <li><strong>Temperamento stabile:</strong> priorità assoluta a equilibrio psicologico e capacità di recupero dallo stress</li>
-  <li><strong>Funzionalità:</strong> il cane deve poter respirare, muoversi e vivere senza problemi strutturali</li>
-  </ul>
-  
-  <h2>Errori Comuni di Valutazione</h2>
-  
-  <ul>
-  <li><strong>Testa "spinta" a scapito di tutto:</strong> testa esagerata che compromette collo, spalle e movimento</li>
-  <li><strong>Torace troppo ampio:</strong> front eccessivo che limita il movimento dell'anteriore</li>
-  <li><strong>Muscolatura gonfia non funzionale:</strong> massa ottenuta artificialmente, non genetica</li>
-  <li><strong>Peso come unico indicatore:</strong> interpretare il peso massimo come obiettivo, ignorando proporzioni e altezza</li>
-  <li><strong>Ignorare il carattere:</strong> valutare solo morfologia trascurando stabilità comportamentale</li>
-  </ul>
-  
-  <h2>Come Leggere uno Stafford in Ring</h2>
-  
-  <p>Quando valuti un Staffordshire Bull Terrier in esposizione, segui questo ordine:</p>
-  
-  <ul>
-  <li><strong>Impressione generale:</strong> tipicità immediata, bilanciamento, presenza</li>
-  <li><strong>Profilo in stazione:</strong> linee, proporzioni, struttura</li>
-  <li><strong>Esame dettagliato:</strong> testa, dentatura, corpo, arti, piedi</li>
-  <li><strong>Movimento:</strong> al trotto da tutti i lati, valutazione funzionalità</li>
-  <li><strong>Temperamento:</strong> gestione, sicurezza, reazione agli stimoli</li>
-  </ul>
-  
+  <h2>Aspetto generale e proporzioni</h2>
+  <p>Lo Staffordshire Bull Terrier deve essere a pelo raso, ben proporzionato, di grande forza per la sua taglia, attivo e agile. L'altezza al garrese desiderata è fra 35,5 e 40,5 centimetri, legata al peso: i maschi pesano fra 12,7 e 17 chili, le femmine fra 11 e 15,4.</p>
+  <p>La proporzione che conta di più viene spesso trascurata: il cane deve essere appena più lungo che alto, raccolto, con la linea superiore orizzontale. Un cane quadrato o alto sugli arti perde la sagoma tipica della razza; un cane lungo e basso ha perso l'agilità che lo standard chiede. L'equilibrio fra sostanza e mobilità è tutto, ed è la prima cosa che un buon giudice valuta dall'altra parte del ring.</p>
+
+  <h2>Testa ed espressione</h2>
+  <p>La testa è il tratto più riconoscibile della razza e, purtroppo, quello più soggetto alle mode. Lo standard chiede un cranio corto e profondo, una testa larga, muscoli delle guance molto pronunciati, uno stop marcato e un <strong>muso corto</strong>. La parola «corto» qui pesa, e pesa anche il fatto che non ci sia nessuna parola che voglia dire «assente».</p>
+  <p>Uno Staffordshire Bull Terrier corretto ha un muso corto rispetto al cranio ma ben presente, con narici ben sviluppate e una lunghezza sufficiente a contenere una dentatura completa e ben allineata. La tendenza di alcune linee da esposizione verso musi sempre più corti e più larghi produce teste che in foto fanno colpo e cani che ansimano all'ombra. Non è quello che descrive lo standard, e le conseguenze sono spiegate nella guida sulla <a href="/boas-staffordshire-bull-terrier-respirazione/" title="BOAS e respirazione nello Staffordshire Bull Terrier">respirazione dello Staffy</a>.</p>
+  <p>Gli occhi sono preferibilmente scuri, rotondi, di media grandezza, posizionati per guardare dritto davanti. Gli orecchi sono a rosa o semieretti; orecchi del tutto cadenti o del tutto eretti sono difetti. La bocca deve avere una chiusura a forbice: gli incisivi superiori chiudono stretti su quelli inferiori, con una dentatura completa. Prognatismo e enognatismo sono difetti gravi.</p>
+
+  <h2>Corpo, anteriori e posteriori</h2>
+  <p>Il corpo è raccolto, con linea superiore orizzontale, anteriore largo, petto profondo e costole ben cerchiate. Il torace dà un'idea di capacità senza diventare una botte, e la linea inferiore mostra una leggera risalita invece di una linea dritta dal petto all'anca.</p>
+  <p>Gli arti anteriori sono dritti e ben ossuti, ben distanziati, con i piedi girati appena in fuori. Arti arcuati, o piedi girati vistosamente in fuori, sono difetti, non caratteristiche di razza: è un equivoco comune. I posteriori sono ben muscolosi, con ginocchia ben angolate e garretti ben discesi, ed è qui che molti cani per il resto buoni sono più deboli, perché l'angolazione posteriore si perde facilmente e si recupera a fatica.</p>
+  <p>I piedi devono essere ben imbottiti, forti e di media grandezza. La coda è di media lunghezza, attaccata bassa, rastremata, portata piuttosto bassa, e mai arrotolata sul dorso come in un terrier di altro tipo.</p>
+
+  <h2>Il movimento: dove viene fuori la verità</h2>
+  <p>Un cane fermo può nascondere molto; un cane in movimento non nasconde niente. Lo standard chiede un movimento libero, potente e agile, con economia di sforzo, i posteriori che spingono con forza e il movimento parallelo di anteriori e posteriori ben visibile guardando il cane da davanti e da dietro.</p>
+  <p>Attenzione al cane che dondola, che rema con gli anteriori o che muove i posteriori troppo stretti. E attenzione, soprattutto, a come respira il cane dopo qualche minuto di trotto. Un cane rumoroso dopo due giri di ring ha un problema che lo standard non ha mai previsto, e nessuna sagoma corretta lo compensa.</p>
+
+  <h2>Il colore</h2>
+  <p>I colori ammessi sono rosso, fulvo, bianco, nero o blu, o ciascuno di questi con il bianco, e qualsiasi tonalità di tigrato, anche con il bianco. Il nero focato e il fegato sono definiti altamente indesiderabili, e nella razza non c'è posto per il merle, a volte venduto come «blue merle», che in questa razza non esiste affatto. Quali colori ammette lo standard, e quali no, è spiegato nella guida ai <a href="/colori-staffordshire-bull-terrier/" title="I colori dello Staffordshire Bull Terrier">colori dello Staffordshire Bull Terrier</a>.</p>
+  <p>Il colore è l'ultima cosa che dovrebbe guidare una scelta e la prima che chiede la maggior parte delle famiglie. Un allevatore che fa il prezzo dei cuccioli in base al mantello ti sta dicendo quali sono le sue priorità.</p>
+
+  <h2>I difetti, e come pesarli</h2>
+  <p>Lo standard dice che qualsiasi scostamento da quanto descritto va considerato un difetto, e che la gravità del difetto deve essere in proporzione esatta alla sua entità e ai suoi effetti sulla salute e sul benessere del cane. Quest'ultima frase è la più importante di tutto il documento, ed è quella ignorata più spesso.</p>
+  <p>Letto così, un occhio un po' chiaro è una questione estetica. Un muso così corto che il cane si surriscalda, una bocca così prognata che i denti non si incontrano, o un anteriore così largo che i gomiti non passano accanto alla gabbia toracica sono difetti che toccano il benessere. Un giudice, e un allevatore, non dovrebbero trattarli allo stesso modo.</p>
+
+  <h2>Cosa vuol dire quando guardi una cucciolata</h2>
+  <p>A otto settimane non si giudica il potenziale da esposizione, e un allevatore che ti garantisce un campione sta tirando a indovinare. Quello che puoi valutare sono i genitori: proporzioni, dentatura, movimento e, soprattutto, come respirano dopo un po' di attività. Chiedi di vedere muovere entrambi i genitori, non solo fermi. Se puoi, chiedi di vederli in una giornata calda.</p>
+  <p>Un cucciolo nato da due genitori tipici, sani e a loro agio nel proprio corpo ha molte più probabilità di diventare come loro. È tutto quello che lo standard cerca di proteggere. Come orientarsi fra le linee quando si sceglie è spiegato nella guida su <a href="/standard-linee-di-sangue-orientarsi/" title="Come scegliere la linea di sangue">come scegliere la linea di sangue di un cucciolo</a>.</p>
+
+  <h2>Gli errori più comuni nel giudicare il tipo</h2>
+  <p>Cinque errori si ripetono. Una <strong>testa esagerata</strong> inseguita a scapito di tutto il resto, che compromette collo, spalle e movimento. Un <strong>petto troppo largo</strong>, un anteriore così ampio da limitare il movimento. Una <strong>muscolatura voluminosa ma non funzionale</strong>, costruita artificialmente invece che ereditata. Il <strong>peso come unico metro</strong>, prendendo il peso massimo come obiettivo e trascurando proporzioni e altezza. E <strong>ignorare il carattere</strong>, giudicando la morfologia senza guardare la stabilità del comportamento, che lo standard mette nelle prime righe.</p>
+
+  <h2>Come leggere uno Stafford in ring</h2>
+  <p>Si guarda in quest'ordine. Prima l'<strong>impressione generale</strong>: tipo a colpo d'occhio, equilibrio, presenza. Poi il <strong>profilo da fermo</strong>: linee, proporzioni, struttura. Poi l'<strong>esame nel dettaglio</strong>: testa, chiusura, corpo, arti, piedi. Poi il <strong>movimento</strong>, al trotto da ogni lato, dove si vede la funzione. E infine il <strong>carattere</strong>: come il cane accetta di essere maneggiato, la sua sicurezza, come reagisce a quello che succede intorno.</p>
+
   <h2>Domande Frequenti</h2>
   
   <section class="faq">
@@ -183,7 +103,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Qual è il peso ideale secondo lo standard?</h3>
-  <div class="faq-answer">Lo standard indica <strong>12,7-17 chili per i maschi</strong> e <strong>11-15,4 chili per le femmine</strong>, con un'altezza al garrese fra i 35 e i 40 centimetri in entrambi i sessi. Il rapporto fra altezza e peso deve restare in proporzione: &egrave; un cane definito grande in un corpo piccolo, ma la compattezza non significa pesantezza. Nella pratica quotidiana conta pi&ugrave; la condizione del numero: le costole devono essere palpabili senza premere, e vista dall'alto la vita deve essere riconoscibile. Lo Staffordshire Bull Terrier &egrave; goloso e ingrassa con facilit&agrave;, e il sovrappeso &egrave; il problema di salute pi&ugrave; comune della razza dopo i tre anni, con conseguenze su articolazioni, cuore e tolleranza al caldo.</div>
+  <div class="faq-answer">Lo standard indica <strong>12,7-17 chili per i maschi</strong> e <strong>11-15,4 chili per le femmine</strong>, con un'altezza al garrese fra i 35,5 e i 40,5 centimetri in entrambi i sessi. Il rapporto fra altezza e peso deve restare in proporzione: &egrave; un cane definito grande in un corpo piccolo, ma la compattezza non significa pesantezza. Nella pratica quotidiana conta pi&ugrave; la condizione del numero: le costole devono essere palpabili senza premere, e vista dall'alto la vita deve essere riconoscibile. Lo Staffordshire Bull Terrier &egrave; goloso e ingrassa con facilit&agrave;, e il sovrappeso &egrave; il problema di salute pi&ugrave; comune della razza dopo i tre anni, con conseguenze su articolazioni, cuore e tolleranza al caldo.</div>
   </div>
   
   <div class="faq-item">

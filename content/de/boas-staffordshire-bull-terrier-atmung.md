@@ -22,6 +22,10 @@ custom_content: |
   <span class="hero-eyebrow">Gesundheit & Selektion</span>
   <h1 class="hero-title">BOAS beim <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">Warum die Atmung entscheidend ist</p>
+  <div class="hero-meta">
+  <span>📅 28. Dezember 2025</span>
+  <span>⏱️ 5 Min. Lesezeit</span>
+  </div>
   <p class="hero-description">Das Brachyzephale Obstruktive Atemwegssyndrom ist ein wachsendes Problem bei vielen Rassen. Der Staffy sollte nicht betroffen sein, aber falsche Zuchtentscheidungen ändern das. Hier ist, was Sie wissen müssen.</p>
   <div class="hero-actions">
   <a href="/de/huendinnen-staffordshire-bull-terrier/" class="btn btn-primary" title="Unsere Zuchthunde">Unsere Hunde</a>

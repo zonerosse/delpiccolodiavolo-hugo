@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">Pulci, zecche e protocolli stagionali</p>
   <div class="hero-meta">
   <span>📅 20 Gennaio 2025</span>
-  <span>⏱️ 12 min lettura</span>
+  <span>⏱️ 11 min lettura</span>
   </div>
   </div>
   </section>

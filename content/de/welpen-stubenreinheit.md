@@ -2,7 +2,7 @@
 title: "Welpen: Stubenreinheit"
 date: 2025-05-22
 titleSeo: "Welpen stubenrein machen: Methode und Zeitrahmen"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "bisogni"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">Routine, Signale und Unfallmanagement</p>
   <div class="hero-meta">
   <span>📅 22. Mai 2025</span>
-  <span>⏱️ 8 Min. Lesezeit</span>
+  <span>⏱️ 4 Min. Lesezeit</span>
   </div>
   </div>
   </section>

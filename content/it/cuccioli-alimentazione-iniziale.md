@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">Quanto, quante volte al giorno, e cosa non dare mai</p>
   <div class="hero-meta">
   <span>📅 15 Aprile 2025</span>
-  <span>⏱️ 7 min lettura</span>
+  <span>⏱️ 5 min lettura</span>
   </div>
   </div>
   </section>

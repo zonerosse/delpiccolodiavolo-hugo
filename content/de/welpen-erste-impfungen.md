@@ -23,8 +23,8 @@ custom_content: |
   <h1 class="hero-title">Erste <em>Impfungen</em></h1>
   <p class="hero-subtitle">Zeitplan und praktische Tipps</p>
   <div class="hero-meta">
-  <span>📅 28. Mai 2025</span>
-  <span>⏱️ 7 Min. Lesezeit</span>
+  <span>📅 10. Juni 2025</span>
+  <span>⏱️ 5 Min. Lesezeit</span>
   </div>
   </div>
   </section>

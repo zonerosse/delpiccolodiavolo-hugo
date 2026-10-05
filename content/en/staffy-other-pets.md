@@ -23,8 +23,8 @@ custom_content: |
   <h1 class="hero-title">Staffy and <em>Other Pets</em></h1>
   <p class="hero-subtitle">Cohabitation tips and introductions</p>
   <div class="hero-meta">
-  <span>📅 September 20, 2025</span>
-  <span>⏱️ 10 min read</span>
+  <span>📅 June 18, 2024</span>
+  <span>⏱️ 23 min read</span>
   </div>
   </div>
   </section>

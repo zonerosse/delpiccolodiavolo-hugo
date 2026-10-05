@@ -2,7 +2,7 @@
 title: "Puppies: Managing Alone Time"
 date: 2025-07-08
 titleSeo: "Teaching a puppy to stay alone without stress"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "solitudine"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">Gradual habituation and peaceful routines</p>
   <div class="hero-meta">
   <span>📅 July 8, 2025</span>
-  <span>⏱️ 9 min read</span>
+  <span>⏱️ 4 min read</span>
   </div>
   </div>
   </section>

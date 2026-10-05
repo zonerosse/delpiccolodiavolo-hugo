@@ -21,6 +21,10 @@ custom_content: |
   <span class="hero-eyebrow">Familie</span>
   <h1 class="hero-title">Reisen mit <em>Staffy</em></h1>
   <p class="hero-subtitle">Transport und Urlaub mit Ihrem Hund</p>
+  <div class="hero-meta">
+  <span>📅 7. April 2024</span>
+  <span>⏱️ 8 Min. Lesezeit</span>
+  </div>
   </div>
   </section>
   

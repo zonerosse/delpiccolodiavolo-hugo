@@ -23,8 +23,8 @@ custom_content: |
   <h1 class="hero-title">Dental Health and <em>Oral Hygiene</em></h1>
   <p class="hero-subtitle">Complete guide for Staffordshire Bull Terrier</p>
   <div class="hero-meta">
-  <span>📅 November 22, 2025</span>
-  <span>⏱️ 10 min read</span>
+  <span>📅 June 18, 2024</span>
+  <span>⏱️ 11 min read</span>
   </div>
   </div>
   </section>

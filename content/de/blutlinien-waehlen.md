@@ -22,6 +22,10 @@ custom_content: |
   <span class="hero-eyebrow">Standards und Blutlinien</span>
   <h1 class="hero-title">Blutlinien <em>wählen</em></h1>
   <p class="hero-subtitle">Den richtigen Staffy für Sie finden</p>
+  <div class="hero-meta">
+  <span>📅 5. März 2025</span>
+  <span>⏱️ 7 Min. Lesezeit</span>
+  </div>
   </div>
   </section>
   
@@ -47,7 +51,7 @@ custom_content: |
 
   <h2>Was sich zwischen Linien unterscheidet und was nicht</h2>
   <p>Alle Staffordshire Bull Terrier müssen demselben <a href="https://www.fci.be/Nomenclature/Standards/076g03-de.pdf" target="_blank" rel="noopener" aria-label="FCI-Standard Nr. 76, PDF (wird in einem neuen Tab geöffnet)">Standard</a> entsprechen, und die Unterschiede zwischen guten Linien sind Fragen der Betonung, nicht der Art. Tatsächlich variieren Knochenstärke und Substanz, Kopfproportion, Triebstärke und Reizschwelle, Verträglichkeit mit anderen Hunden und wie zuverlässig eine Linie ihren Typ über einen ganzen Wurf hinweg reproduziert.</p>
-  <p>Was in keiner ernstzunehmenden Linie variieren darf, ist das Wesen gegenüber Menschen und die Gesundheitsuntersuchung hinter der Verpaarung. Ein Züchter, der eine Linie als scharf beschreibt oder einen Hund entschuldigt, der mit Besuch schwierig ist, beschreibt einen Fehler, keine Eigenschaft.</p>
+  <p>Was in keiner ernstzunehmenden Linie variieren darf, ist das Wesen gegenüber Menschen und die <a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA und HC">Gesundheitsuntersuchung</a> hinter der Verpaarung. Ein Züchter, der eine Linie als scharf beschreibt oder einen Hund entschuldigt, der mit Besuch schwierig ist, beschreibt einen Fehler, keine Eigenschaft.</p>
 
   <h2>Englische und irische Linien in der Praxis</h2>
   <p>Englische Linien, unter denen Elitebull auf dem europäischen Festland zu den einflussreichsten zählt, stehen allgemein für ausgewogene Proportionen, gute Kopfqualität ohne Übertreibung und korrektes Gangwerk. Irische Linien wie Lackyle sind bekannt für Kompaktheit, kräftigen Knochen, auffällige Wurfkonstanz und ein offenes, robustes Wesen.</p>
@@ -63,11 +67,11 @@ custom_content: |
   <p>Warum genau diese beiden Hunde? Wer ein Programm hat, antwortet mit dem, was jedes Elterntier einbringt, was verbessert werden sollte und welcher Kompromiss dafür akzeptiert wurde. Ohne Programm lautet die Antwort, dass beide schön sind.</p>
   <p>Was würden Sie an diesem Wurf ändern? Wer ehrlich ist, hat eine konkrete Antwort.</p>
   <p>Wo leben die Welpen? Welpen, die in der Küche zwischen Haushaltsgeräuschen aufwachsen, sind mit 8 Wochen <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das wirklich heißt">deutlich besser sozialisiert</a> als Welpen aus einem sauberen Außenzwinger, und der Unterschied bleibt.</p>
-  <p>Was passiert, wenn es nicht funktioniert? Die richtige Antwort lautet, dass der Hund zum Züchter zurückkommt, in jedem Alter, aus jedem Grund, und dass es im Vertrag steht.</p>
+  <p>Was passiert, wenn es nicht funktioniert? Die richtige Antwort lautet, dass der Hund zum Züchter zurückkommt, in jedem Alter, aus jedem Grund, und dass es im Vermittlungsvertrag steht. Die vollständige Liste der Fragen und wie man die Antworten prüft, steht im Ratgeber <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Eine seriöse Zucht erkennen">eine seriöse Zucht erkennen</a>.</p>
 
   <h2>Linienzucht und wo die Grenze liegt</h2>
   <p>Einen geschätzten Vorfahren in der Ahnentafel zu wiederholen festigt den Typ und ist ein legitimes Werkzeug jedes ernsthaften Programms. Zu weit getrieben kostet es Immunfunktion, Fruchtbarkeit und Lebenserwartung, und zwar für ein bis 2 Generationen unsichtbar.</p>
-  <p>Fragen Sie nach dem Inzuchtkoeffizienten über 5 Generationen und danach, wie der Züchter seine Grenze bestimmt. Wer ihn nie berechnet hat, ist nicht zwangsläufig nachlässig; wer die Frage abtut, sagt etwas aus.</p>
+  <p>Fragen Sie nach dem Inzuchtkoeffizienten über 5 Generationen und danach, wie der Züchter seine Grenze bestimmt. Wer ihn nie berechnet hat, ist nicht zwangsläufig nachlässig; wer die Frage abtut, sagt etwas aus. Wie man eine ENCI-Ahnentafel praktisch liest und was SBTPedigree ergänzt, erklärt Schritt für Schritt der Ratgeber <a href="/de/wie-man-eine-ahnentafel-liest/" title="Wie man eine Ahnentafel liest">wie man eine Ahnentafel liest</a>.</p>
 
   <h2>Worauf Sie bei den Welpen selbst achten</h2>
   <p>Mit 8 Wochen beurteilen Sie Tendenzen, keine Ergebnisse. Achten Sie auf Welpen, die sich von einer Überraschung schnell erholen, die nach kurzem Zögern auf einen Fremden zugehen statt zurückzuweichen, und die es einige Sekunden ohne Panik aushalten, auf dem Rücken gehalten zu werden.</p>

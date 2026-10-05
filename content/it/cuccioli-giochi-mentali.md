@@ -2,7 +2,7 @@
 title: "Cuccioli: Giochi mentali"
 date: 2025-08-03
 titleSeo: "Giochi mentali per cuccioli di Staffordshire Bull Terrier"
-lastmod: 2026-09-29
+lastmod: 2026-10-05
 translationKey: "giochi-mentali"
 articolo: true
 image: "/images/blog/cuccioli-6.webp"
@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">Cibo, naso e sessioni brevi: cosa stanca davvero un cucciolo</p>
   <div class="hero-meta">
   <span>📅 3 Agosto 2025</span>
-  <span>⏱️ 8 min lettura</span>
+  <span>⏱️ 6 min lettura</span>
   </div>
   </div>
   </section>

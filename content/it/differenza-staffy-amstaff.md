@@ -1,6 +1,6 @@
 ---
 title: "Staffy o Amstaff, Quale Fa per Te: il Test dell'Allevatore"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 articolo: true
 translationKey: "differenza-staffy-amstaff"
 image: "/images/blog/staffy-amstaff-hero.webp"
@@ -24,6 +24,10 @@ fonti_motivo: "Questa pagina riporta il test che l'allevamento Del Piccolo Diavo
 <span class="hero-eyebrow">Guida Completa</span>
 <h1 class="hero-title">Staffy o Amstaff, quale fa per te: <em>il test dell'allevatore</em></h1>
 <p class="hero-subtitle">Hai capito che non sono lo stesso cane. Ora restano le sette domande che facciamo a chi ci scrive per un cucciolo</p>
+  <div class="hero-meta">
+  <span>📅 18 Gennaio 2026</span>
+  <span>⏱️ 4 min lettura</span>
+  </div>
 </div>
 </section>
 
@@ -36,7 +40,7 @@ fonti_motivo: "Questa pagina riporta il test che l'allevamento Del Piccolo Diavo
 
 <section class="section">
 <div class="section-inner content-single">
-<p>Staffordshire Bull Terrier e American Staffordshire Terrier sono due razze distinte, con standard FCI e libri genealogici separati: lo Staffy pesa 12-17 kg nel maschio per 35-40 cm al garrese, l'Amstaff 25-32 kg per 45,7-48,2 cm. Scegliere fra i due non è una questione di gusto sul muso: è una questione di casa, di chi ci vive e di quanto tempo c'è. Nell'allevamento Del Piccolo Diavolo, a Ostellato in provincia di Ferrara, a chi ci scrive per un cucciolo facciamo sette domande prima di parlare di cucciolate, perché la risposta a ciascuna esclude una delle due razze più spesso di quanto si pensi. Sono le stesse domande di questa pagina. Le risposte sullo Staffy vengono dai nostri cani; quelle sull'Amstaff da quello che abbiamo visto in ring e nelle case di chi lo tiene.</p>
+<p>Staffordshire Bull Terrier e American Staffordshire Terrier sono due razze distinte, con standard FCI e libri genealogici separati: lo Staffy pesa 12,7-17 kg nel maschio per 35,5-40,5 cm al garrese, l'Amstaff 25-32 kg per 45,7-48,2 cm. Scegliere fra i due non è una questione di gusto sul muso: è una questione di casa, di chi ci vive e di quanto tempo c'è. Nell'allevamento Del Piccolo Diavolo, a Ostellato in provincia di Ferrara, a chi ci scrive per un cucciolo facciamo sette domande prima di parlare di cucciolate, perché la risposta a ciascuna esclude una delle due razze più spesso di quanto si pensi. Sono le stesse domande di questa pagina. Le risposte sullo Staffy vengono dai nostri cani; quelle sull'Amstaff da quello che abbiamo visto in ring e nelle case di chi lo tiene.</p>
 
 
 <p><strong>Se stai ancora cercando di capire come distinguerli</strong>, la guida che ti serve è un'altra: <a href="/differenza-staffy-pitbull-amstaff/" title="Come riconoscere le tre razze">Staffordshire Bull Terrier, Pitbull e Amstaff a confronto</a>, con la tabella delle misure e la situazione legale. Questa pagina parte dal passo dopo: sai già che sono razze diverse e devi decidere quale portare a casa.</p>

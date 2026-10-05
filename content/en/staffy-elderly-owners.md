@@ -23,8 +23,8 @@ custom_content: |
   <h1 class="hero-title">Staffy and <em>Elderly Owners</em></h1>
   <p class="hero-subtitle">Respecting rhythms and companionship</p>
   <div class="hero-meta">
-  <span>📅 September 5, 2025</span>
-  <span>⏱️ 8 min read</span>
+  <span>📅 May 28, 2024</span>
+  <span>⏱️ 10 min read</span>
   </div>
   </div>
   </section>

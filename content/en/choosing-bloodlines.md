@@ -23,7 +23,7 @@ custom_content: |
   <h1 class="hero-title">Choosing <em>Bloodlines</em></h1>
   <p class="hero-subtitle">Finding the right Staffy for you</p>
   <div class="hero-meta">
-  <span>📅 November 27, 2025</span>
+  <span>📅 March 5, 2025</span>
   <span>⏱️ 8 min read</span>
   </div>
   </div>
@@ -51,7 +51,7 @@ custom_content: |
 
   <h2>What differs between lines, and what does not</h2>
   <p>All Staffordshire Bull Terriers must meet the same <a href="https://www.fci.be/Nomenclature/Standards/076g03-en.pdf" target="_blank" rel="noopener" aria-label="FCI breed standard no. 76, PDF (opens in a new tab)">standard</a>, and the differences between good lines are matters of emphasis rather than kind. What genuinely varies is bone and substance, head proportion, the level of drive and reactivity, tolerance of other dogs, and how consistently a line reproduces its own type across a whole litter.</p>
-  <p>What should not vary, in any line worth considering, is temperament towards people and the health testing behind the mating. A breeder who describes a line as sharp, or explains away a dog that is difficult with visitors, is describing a fault rather than a characteristic.</p>
+  <p>What should not vary, in any line worth considering, is temperament towards people and the <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA and HC">health testing</a> behind the mating. A breeder who describes a line as sharp, or explains away a dog that is difficult with visitors, is describing a fault rather than a characteristic.</p>
 
   <h2>English and Irish lines in practice</h2>
   <p>English lines, of which Elitebull is among the most influential in continental Europe, are generally associated with balanced proportion, good head quality without exaggeration and sound movement. Irish lines such as Lackyle are known for compactness, strong bone, notable consistency within litters and an outgoing, robust character.</p>
@@ -67,11 +67,11 @@ custom_content: |
   <p>Why these two dogs? A breeder with a programme answers in terms of what each parent brings, what they hoped to improve and what compromise they accepted. Without one, the answer is that both parents are beautiful.</p>
   <p>What would you change about this litter? Anyone honest has an answer, and it is usually specific.</p>
   <p>Where do the puppies live? Puppies raised in a kitchen among household noise are meaningfully <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it really means">better socialised at 8 weeks</a> than puppies raised in a clean outdoor kennel, and the difference persists.</p>
-  <p>What happens if it does not work out? The right answer is that the dog comes back to the breeder, at any age, for any reason, and that it is written in the contract.</p>
+  <p>What happens if it does not work out? The right answer is that the dog comes back to the breeder, at any age, for any reason, and that it is written in the placement agreement. The full list of questions to ask, and how to check the answers, is in the guide to <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious breeder">how to recognise a serious breeder</a>.</p>
 
   <h2>Linebreeding and how much is too much</h2>
   <p>Repeating an admired ancestor within a pedigree fixes type, and it is a legitimate tool used by every serious programme. Pushed too far, it costs immune function, fertility and longevity, and it does so invisibly for a generation or two.</p>
-  <p>Ask for the coefficient of inbreeding over 5 generations, and ask how the breeder decides where the limit is. A breeder who has never calculated it is not necessarily careless, but a breeder who dismisses the question is telling you something.</p>
+  <p>Ask for the coefficient of inbreeding over 5 generations, and ask how the breeder decides where the limit is. A breeder who has never calculated it is not necessarily careless, but a breeder who dismisses the question is telling you something. How to read an ENCI pedigree in practice, and what SBTPedigree adds, is explained step by step in the guide on <a href="/en/how-to-read-a-pedigree/" title="How to read a pedigree">how to read a pedigree</a>.</p>
 
   <h2>What to look for in the puppies themselves</h2>
   <p>At 8 weeks you are assessing tendency rather than outcome. Look for puppies that recover quickly from a surprise, that approach a stranger after a moment of hesitation rather than retreating, and that tolerate being held on their back for a few seconds without panic.</p>

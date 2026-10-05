@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">Complete guide to distinguish the three breeds</p>
   <div class="hero-meta">
   <span>📅 November 19, 2025</span>
-  <span>⏱️ 14 min read</span>
+  <span>⏱️ 10 min read</span>
   </div>
   </div>
   </section>
@@ -234,7 +234,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">What is the main difference between Staffy and Pit Bull?</h3>
-  <div class="faq-answer">The difference that matters first is legal, not physical: the <strong>Staffordshire Bull Terrier is a breed recognised by the FCI</strong>, with a precise standard and a stud book, while the Pit Bull is not a recognised breed in Italy and no ENCI pedigree certifies one. Anyone selling a Pit Bull with pedigree is selling something else. Physically the Staffy is clearly smaller: 35-40 cm at the withers and 12-17 kg in males, against a far wider range in dogs called Pit Bull, which can exceed thirty kilos. Compact, with a short broad head and a stocky build, the Staffy is the smallest of the three.</div>
+  <div class="faq-answer">The difference that matters first is legal, not physical: the <strong>Staffordshire Bull Terrier is a breed recognised by the FCI</strong>, with a precise standard and a stud book, while the Pit Bull is not a recognised breed in Italy and no ENCI pedigree certifies one. Anyone selling a Pit Bull with pedigree is selling something else. Physically the Staffy is clearly smaller: 35.5-40.5 cm at the withers and 12.7-17 kg in males, against a far wider range in dogs called Pit Bull, which can exceed thirty kilos. Compact, with a short broad head and a stocky build, the Staffy is the smallest of the three.</div>
   </div>
   
   <div class="faq-item">

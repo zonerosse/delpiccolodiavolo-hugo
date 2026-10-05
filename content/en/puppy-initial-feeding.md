@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">Portions, meal frequency and safe transition</p>
   <div class="hero-meta">
   <span>📅 April 15, 2025</span>
-  <span>⏱️ 8 min read</span>
+  <span>⏱️ 5 min read</span>
   </div>
   </div>
   </section>

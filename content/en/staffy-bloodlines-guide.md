@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">English and Irish lines for Staffordshire Bull Terrier</p>
   <div class="hero-meta">
   <span>📅 November 26, 2025</span>
-  <span>⏱️ 12 min read</span>
+  <span>⏱️ 11 min read</span>
   </div>
   </div>
   </section>
@@ -70,13 +70,13 @@ custom_content: |
   <p>That ubiquity has a cost. A single dog appearing repeatedly in almost every pedigree narrows the gene pool of the whole breed, which is one reason every breeding dog here is tested for L2HGA and HC, or clear by parentage with its parents' reports, and our breeding females are also tested for DM-SOD1.</p>
 
   <h3>M-Line, the widespread one</h3>
-  <p>The M-Line, from Brindle Mick, is today the most widespread, accounting for more than half of the breed's genetic heritage. Its best-known names include Gentleman Jim himself, <strong>Cross Guns Johnson</strong> — full brother of Brindle Mick, and so Gentleman Jim's uncle, Best of Breed at the first Crufts the breed attended — and <strong>Fearless Red of Bandits</strong> (1944), a son of Gentleman Jim often described as the essence of the true Stafford. The line is associated with imposing heads, substantial frames and heavy muscling.</p>
+  <p>The M-Line, from Brindle Mick, is today by far the most widespread: in the <a href="https://thestaffordknot.com/the-original-lines-explained/" target="_blank" rel="noopener" aria-label="The Stafford Knot, the original lines explained (opens in a new tab)">The Stafford Knot database</a> about 32,500 males descend from it in male line, against about 6,750 for the R-Line, while the other four lines count a few dozen dogs. Its best-known names include Gentleman Jim himself, <strong>Cross Guns Johnson</strong> — full brother of Brindle Mick, and so Gentleman Jim's uncle, Best of Breed at the first Crufts the breed attended — and <strong>Fearless Red of Bandits</strong> (1944), a son of Gentleman Jim often described as the essence of the true Stafford. The line is associated with imposing heads, substantial frames and heavy muscling.</p>
 
   <h3>R-Line, the survivor</h3>
-  <p>The R-Line was founded by <strong>Ribchester Bob</strong>, born around 1931. It is known for freer movement, a more compact but athletic build, an even temperament with notable trainability, and good longevity. It accounts for roughly a fifth to a quarter of the breed's genetic heritage today and is valued by European kennels looking to widen their base.</p>
+  <p>The R-Line was founded by <strong>Ribchester Bob</strong>, born around 1931. It is known for freer movement, a more compact but athletic build, an even temperament with notable trainability, and good longevity. Today about one male in six descends from it in male line, and it is valued by European kennels looking to widen their base.</p>
 
   <h3>The lines that died out</h3>
-  <p>Three of the six original lines faded. The <strong>L-Line</strong> (Game Lad) was the smallest of the major lines and was hit hard by the two world wars; the <strong>B-Line</strong> (Rum Bottle), tied to the Westall family, disappeared during the 1950s; the <strong>C-Line</strong> (Cinderbank Beauty), the most recent of the six, never established a lasting presence.</p>
+  <p>Three of the six original lines faded. The <strong>L-Line</strong> (Game Lad) was the smallest of the major lines and was hit hard by the two world wars; the <strong>B-Line</strong> (Rum Bottle), tied to the Westall family, disappeared during the 1950s; the <strong>C-Line</strong> (Cinderbank Beauty), the most recent of the six, never established a lasting presence. Of the J-Line only a handful of dogs remain.</p>
 
   <h2>M-Line and R-Line side by side</h2>
 
@@ -90,7 +90,7 @@ custom_content: |
   <tr><td><strong>Movement</strong></td><td>Powerful drive, less agile</td><td>Freer and more agile, efficient ground cover</td></tr>
   <tr><td><strong>Temperament</strong></td><td>Confident, dominant, strong personality</td><td>Even, trainable, versatile</td></tr>
   <tr><td><strong>Where it excels today</strong></td><td>Conformation showing</td><td>Agility, obedience, family life</td></tr>
-  <tr><td><strong>Share of the gene pool</strong></td><td>Around 50–60%</td><td>Around 20–25%</td></tr>
+  <tr><td><strong>Males in male line (The Stafford Knot database)</strong></td><td>About 82%</td><td>About 17%</td></tr>
   </tbody>
   </table>
 
@@ -114,6 +114,7 @@ custom_content: |
 
   <h2>Linebreeding, inbreeding and coefficients</h2>
   <p>Linebreeding, the deliberate repetition of an admired ancestor within a pedigree, is a legitimate tool for fixing type. Pushed too far it becomes inbreeding, and the cost is paid in immune function, fertility and vigour rather than in appearance, which is precisely why it is easy to ignore.</p>
+  <p>The coefficient of inbreeding (COI) measures how closely related the parents are, and it is always read together with the number of generations it is calculated over. Over five generations, as a reference: up to 5% is a good value, pointing to different lines; between 6 and 10% is acceptable but needs attention; between 11 and 15% is worrying and raises the risk of genetic problems; above 15% is high.</p>
   <p>A practical rule we apply: we want to see the coefficient of inbreeding over 5 generations kept low, and we will not repeat a close doubling simply because a particular ancestor was fashionable. Type gained at the expense of vitality is a bad trade, and it is one the family discovers years later.</p>
 
   <h2>What this means when you choose a puppy</h2>

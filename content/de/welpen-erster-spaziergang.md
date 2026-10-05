@@ -2,7 +2,7 @@
 title: "Welpen: Erster Spaziergang"
 date: 2025-09-17
 titleSeo: "Der erste Spaziergang des Welpen: wann und wie"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "passeggiata"
 articolo: true
 image: "/images/blog/cuccioli-5.webp"
@@ -23,8 +23,8 @@ custom_content: |
   <h1 class="hero-title">Erster <em>Spaziergang</em></h1>
   <p class="hero-subtitle">Ausrüstung und erste Regeln</p>
   <div class="hero-meta">
-  <span>📅 15. Juni 2025</span>
-  <span>⏱️ 8 Min. Lesezeit</span>
+  <span>📅 17. September 2025</span>
+  <span>⏱️ 5 Min. Lesezeit</span>
   </div>
   </div>
   </section>

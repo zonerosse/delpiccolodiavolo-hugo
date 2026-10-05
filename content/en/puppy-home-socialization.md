@@ -2,7 +2,7 @@
 title: "Socialising the Puppy at Home: the Family Checklist"
 date: 2025-03-18
 titleSeo: "Socialising the puppy at home: the family checklist"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "socializzazione"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
@@ -23,8 +23,8 @@ custom_content: |
   <h1 class="hero-title">Socialising the puppy at home: <em>the family checklist</em></h1>
   <p class="hero-subtitle">Guided first experiences</p>
   <div class="hero-meta">
-  <span>📅 May 10, 2025</span>
-  <span>⏱️ 8 min read</span>
+  <span>📅 March 18, 2025</span>
+  <span>⏱️ 6 min read</span>
   </div>
   </div>
   </section>

@@ -22,8 +22,8 @@ custom_content: |
   <h1 class="hero-title">Safe <em>Exercise</em></h1>
   <p class="hero-subtitle">Activity guide for Staffordshire Bull Terrier</p>
   <div class="hero-meta">
-  <span>📅 November 24, 2025</span>
-  <span>⏱️ 8 min read</span>
+  <span>📅 June 20, 2024</span>
+  <span>⏱️ 12 min read</span>
   </div>
   </div>
   </section>

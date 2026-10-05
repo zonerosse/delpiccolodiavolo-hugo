@@ -24,7 +24,7 @@ custom_content: |
   <p class="hero-subtitle">Genealogia e fondatori dello Staffordshire Bull Terrier</p>
   <div class="hero-meta">
   <span>📅 8 Novembre 2025</span>
-  <span>⏱️ 15 min lettura</span>
+  <span>⏱️ 11 min lettura</span>
   </div>
   </div>
   </section>
@@ -46,207 +46,83 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Le linee di sangue dello Staffordshire Bull Terrier si contano dal 1935, quando il Kennel Club britannico riconobbe la razza: prima, i Bull and Terrier dello Staffordshire erano cani da lavoro senza genealogie tracciabili. Nel 1943 lo storico H. N. Beilby pubblicò il primo studio completo sulle linee genetiche, e nel giro di pochi anni ne furono riconosciute sei, J, M, L, B, R e C, tracciate come d'uso attraverso la discendenza maschile. Il primo campione maschio della razza fu Gentleman Jim, allevato da Jack Dunn. Oggi sopravvivono soprattutto la linea M di Brindle Mick e la linea R di Ribchester Bob, che insieme costituiscono circa il 70% del patrimonio genetico della razza moderna. Sapere a quale linea appartiene un cane serve a leggere il pedigree, non a giudicare il cane: quello lo dicono i test genetici, la struttura e il carattere. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
+  <p>Le linee di sangue dello Staffordshire Bull Terrier si contano dal 1935, quando il Kennel Club britannico riconobbe la razza: prima, i Bull and Terrier dello Staffordshire erano cani da lavoro senza genealogie tracciabili. Nel 1943 lo storico H. N. Beilby pubblicò il primo studio completo sulle linee genetiche, e nel giro di pochi anni ne furono riconosciute sei, J, M, L, B, R e C, tracciate come d'uso attraverso la discendenza maschile. Il primo campione maschio della razza fu Gentleman Jim, allevato da Jack Dunn. Oggi sopravvivono soprattutto la linea M di Brindle Mick e la linea R di Ribchester Bob, e la prima prevale nettamente. Sapere a quale linea appartiene un cane serve a leggere il pedigree, non a giudicare il cane: quello lo dicono i test genetici, la struttura e il carattere. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
   <p>Questa pagina racconta la storia delle linee e dei cani che le hanno fondate. Se devi scegliere un cucciolo e vuoi sapere come orientarti fra le linee di oggi, c'è una guida pratica: <a href="/standard-linee-di-sangue-orientarsi/" title="Come scegliere la linea di sangue">come scegliere la linea di sangue di un cucciolo</a>.</p>
 
-  
-  <h2>Le Origini delle Linee di Sangue</h2>
-  
-  <p>La storia moderna delle linee di sangue dello <strong>Staffordshire Bull Terrier</strong> inizia ufficialmente il <strong>25 maggio 1935</strong>, quando il Kennel Club britannico riconobbe la razza. Prima di questa data, i "Bull and Terrier" del Staffordshire erano cani da lavoro senza pedigree tracciabili.</p>
-  
-  <p>Il riconoscimento ufficiale cambiò tutto. Il <strong>17 agosto 1935</strong>, si tenne la prima esposizione ufficiale della razza al Cradley Heath Conservative Club nel South Staffordshire. Questo evento storico segnò l'inizio della documentazione sistematica delle genealogie.</p>
-  
-  <p>Nel 1943, lo storico H. N. Beilby pubblicò il primo studio completo sulle linee genetiche identificando <strong>sei linee di sangue distinte</strong>:</p>
-  
+  <h2>Cos'è davvero una linea di sangue</h2>
+  <p>Una linea di sangue non è una sottorazza e non è un marchio. È il risultato accumulato delle decisioni prese da un allevatore, o da un piccolo gruppo di allevatori, per molte generazioni: quali cani tenere, quali accoppiare fra loro, e quali caratteristiche considerare irrinunciabili. Due Staffordshire Bull Terrier di linee diverse sono della stessa razza e devono rispondere allo stesso standard, ma possono differire in modo evidente per ossatura, proporzioni della testa, carattere e attitudine al lavoro.</p>
+  <p>Capire le linee conta per due motivi molto diversi. Se cerchi un compagno, ti dice che tipo di cane avrai probabilmente in casa per i prossimi 12 anni. Se pensi di allevare, è la differenza fra un programma coerente e una serie di incidenti sperati.</p>
+
+  <h2>Da dove vengono le linee</h2>
+  <p>La storia documentata delle linee di sangue dello Staffordshire Bull Terrier comincia il <strong>25 maggio 1935</strong>, quando il Kennel Club riconobbe la razza. Prima di quella data i «Bull and Terrier» dello Staffordshire erano cani da lavoro senza genealogie tracciabili. La prima esposizione ufficiale della razza seguì il 17 agosto 1935, al Cradley Heath Conservative Club nello Staffordshire meridionale, e da lì cominciò la registrazione sistematica.</p>
+  <p>Nel 1943 lo storico della razza H. N. Beilby pubblicò il primo studio completo sulla genetica della razza e individuò <strong>sei linee maschili distinte</strong>:</p>
   <ul>
-  <li><strong>Linea J (J-Line)</strong> - Fondata da Fearless Joe (circa 300 registrazioni nel 1943)</li>
-  <li><strong>Linea M (M-Line)</strong> - Fondata da Brindle Mick (circa 300 registrazioni nel 1943)</li>
-  <li><strong>Linea L (L-Line)</strong> - Fondata da Game Lad (circa 120 registrazioni nel 1943)</li>
-  <li><strong>Linea B (B-Line)</strong> - Fondata da Rum Bottle/Westall Strain (circa 100 registrazioni nel 1943)</li>
-  <li><strong>Linea R (R-Line)</strong> - Fondata da Ribchester Bob (riconosciuta nel 1946)</li>
-  <li><strong>Linea C (C-Line)</strong> - Fondata da Cinderbank Beauty attraverso Togo (riconosciuta nel 1946)</li>
+  <li><strong>Linea J</strong>: fondata da Fearless Joe, circa 300 iscrizioni al 1943</li>
+  <li><strong>Linea M</strong>: fondata da Brindle Mick, circa 300 iscrizioni al 1943</li>
+  <li><strong>Linea L</strong>: fondata da Game Lad, circa 120 iscrizioni</li>
+  <li><strong>Linea B</strong>: fondata da Rum Bottle, legata al ceppo Westall, circa 100 iscrizioni</li>
+  <li><strong>Linea R</strong>: fondata da Ribchester Bob, riconosciuta nel 1946</li>
+  <li><strong>Linea C</strong>: fondata attraverso Cinderbank Beauty, tramite Togo, riconosciuta nel 1946</li>
   </ul>
-  
-  <div class="callout">
-  <p class="callout-title">🏆 Nota storica importante</p>
-  <p>Le linee di sangue sono tracciate attraverso i discendenti maschi - una pratica comune nella cinofilia. Questo significa che un cane appartiene alla linea del suo bisnonno paterno, anche se nel pedigree sono presenti altre linee attraverso le femmine.</p>
-  </div>
-  
-  <h3>Il Primo Campione: Gentleman Jim</h3>
-  
-  <p>Un nome emerge sopra tutti gli altri: <strong>Gentleman Jim</strong>. Nato il 25 maggio 1937 dall'allevatore Jack Dunn, era figlio di <strong>Brindle Mick</strong>, il fondatore della Linea M.</p>
-  
-  <p>Gentleman Jim divenne il <strong>primo campione maschio</strong> della razza nel <strong>1939</strong>. Il suo impatto sulla razza fu enorme: praticamente ogni Staffordshire Bull Terrier moderno ha Gentleman Jim nel proprio pedigree, spesso multiple volte.</p>
-  
-  <div class="alert">
-  <p class="alert-title">⚠️ Attenzione all'Inbreeding</p>
-  <p>L'importanza storica di Gentleman Jim ha un lato negativo: la sua presenza ubiqua nei pedigree moderni ha ridotto la diversità genetica della razza. Per questo motivo, <strong>il nostro allevamento</strong> testa tutti i riproduttori per L2-HGA e HC, o li verifica esenti per via parentale con i referti dei genitori, e le fattrici anche per la mielopatia degenerativa (DM-SOD1).</p>
-  </div>
-  
-  <h2>Le Sei Linee Fondatrici: Analisi Dettagliata</h2>
-  
-  <h3>Linea M (M-Line) - La Più Diffusa</h3>
-  
-  <p>La <strong>Linea M</strong>, fondata da Brindle Mick, è oggi la linea più diffusa, rappresentando oltre il 50% del patrimonio genetico della razza moderna. I suoi discendenti più famosi includono:</p>
-  
-  <ul>
-  <li><strong>Gentleman Jim</strong> (nato nel 1937) - Primo campione maschio della razza</li>
-  <li><strong>Cross Guns Johnson</strong> - Fratello di Brindle Mick, quindi zio di Gentleman Jim, Best of Breed al primo Crufts</li>
-  <li><strong>Fearless Red of Bandits</strong> (1944) - Figlio di Gentleman Jim, considerato "l'essenza del vero Stafford"</li>
-  </ul>
-  
-  <p>La Linea M è caratterizzata da cani con <strong>teste imponenti</strong>, struttura robusta e muscolatura ben definita.</p>
-  
-  <h3>Linea R (R-Line) - La Sopravvissuta</h3>
-  
-  <p>La <strong>Linea R</strong> fu fondata da <strong>Ribchester Bob</strong>, nato intorno al 1931. Questa linea si distingue per:</p>
-  
-  <ul>
-  <li><strong>Agilità superiore</strong> e movimento più fluido rispetto alla Linea M</li>
-  <li><strong>Temperamento equilibrato</strong> e grande trainability</li>
-  <li><strong>Struttura più compatta</strong> ma atletica</li>
-  <li><strong>Longevità</strong> - questa linea ha mostrato una buona sopravvivenza genetica</li>
-  </ul>
-  
-  <p>Oggi, la Linea R rappresenta circa il 20-25% del patrimonio genetico della razza ed è particolarmente apprezzata negli allevamenti europei che cercano di diversificare le loro linee.</p>
-  
-  <h3>Linee L, B e C - Le Linee Estinte</h3>
-  
-  <p>Tre delle sei linee originali si sono progressivamente estinte:</p>
-  
-  <p><strong>Linea L (Game Lad)</strong> - Con circa 120 registrazioni nel 1943, era la più piccola delle linee maggiori. Le due guerre mondiali decimarono molti allevamenti.</p>
-  
-  <p><strong>Linea B (Rum Bottle)</strong> - Questa linea, con circa 100 registrazioni, era associata alla famiglia Westall. Si estinse negli anni '50.</p>
-  
-  <p><strong>Linea C (Cinderbank Beauty)</strong> - La più recente delle sei linee. Non riuscì a stabilire una presenza duratura.</p>
-  
-  <h2>L'Influenza delle Linee Irlandesi</h2>
-  
-  <p>Parallelamente allo sviluppo delle linee inglesi, l'<strong>Irlanda</strong> sviluppò proprie varianti. Gli <strong>Irish Staffordshire Bull Terrier</strong> erano tipicamente:</p>
-  
-  <ul>
-  <li><strong>Più alti e atletici</strong> rispetto ai cugini inglesi (fino a 2-3 cm in più al garrese)</li>
-  <li><strong>Utilizzati per la caccia</strong> oltre che per i combattimenti</li>
-  <li><strong>Gameness superiore</strong> - tenacia e coraggio leggendari</li>
-  <li><strong>Influenza su razze americane</strong> - fondamentali nello sviluppo dell'American Pit Bull Terrier</li>
-  </ul>
-  
-  <p>Oggi, allevamenti come <strong>Hazmieh Kennels</strong> e <strong>Dubhfhéith Staffs</strong> mantengono queste linee con test genetici completi.</p>
-  
-  <h2>Test Genetici e Salute delle Linee Moderne</h2>
-  
-  <h3>Malattie Genetiche Principali</h3>
-  
-  <p><strong>L2-Hydroxyglutaric Aciduria (L2-HGA)</strong> - Una malattia neurologica progressiva che causa atassia, tremori, convulsioni. Test obbligatorio nell'allevamento Del Piccolo Diavolo.</p>
-  
-  <p><strong>Hereditary Cataract (HC-HSF4)</strong> - Causa cataratta giovanile che può portare alla cecità. Ereditata in modo autosomico recessivo.</p>
-  
-  <p><strong>Mielopatia degenerativa (DM-SOD1)</strong> - Una malattia del midollo spinale che compare dopo gli otto anni e porta progressivamente alla paralisi.</p>
-  
-  <h3>Coefficiente di Consanguineità (COI)</h3>
-  
-  <p>Il <strong>Coefficiente di Consanguineità</strong> (COI) misura quanto strettamente imparentati sono i genitori:</p>
-  
-  <ul>
-  <li><strong>COI 0-5%</strong> - Eccellente, indica linee diverse e basso inbreeding</li>
-  <li><strong>COI 6-10%</strong> - Accettabile, ma richiede attenzione</li>
-  <li><strong>COI 11-15%</strong> - Preoccupante, aumenta il rischio di problemi genetici</li>
-  <li><strong>COI &gt;15%</strong> - Alto rischio, da evitare per la riproduzione</li>
-  </ul>
-  
-  <h2>Linea M vs Linea R: Confronto</h2>
-  
+  <p>Le linee si seguono attraverso la discendenza maschile, come si fa di norma in cinofilia. Un cane appartiene alla linea del bisnonno paterno anche quando nel pedigree compaiono altre linee attraverso le femmine.</p>
+
+  <h3>Il primo campione: Gentleman Jim</h3>
+  <p>Un nome sta sopra tutti. <strong>Gentleman Jim</strong>, nato il 25 maggio 1937 e allevato da Jack Dunn, era figlio di Brindle Mick, il fondatore della linea M. Nel 1939 diventò il <strong>primo campione maschio</strong> della razza, e praticamente ogni Staffordshire Bull Terrier moderno lo ha da qualche parte nel pedigree, spesso più volte.</p>
+  <p>Questa presenza ovunque ha un costo. Un solo cane che ricompare in quasi ogni pedigree restringe il patrimonio genetico di tutta la razza, ed è uno dei motivi per cui qui ogni riproduttore è testato per L2HGA e HC, o esente per via parentale con i referti dei genitori, e le nostre fattrici anche per DM-SOD1.</p>
+
+  <h3>La linea M, la più diffusa</h3>
+  <p>La linea M, da Brindle Mick, è oggi di gran lunga la più diffusa: nel <a href="https://thestaffordknot.com/the-original-lines-explained/" target="_blank" rel="noopener" aria-label="The Stafford Knot, le linee originali (si apre in una nuova scheda)">database di The Stafford Knot</a> circa 32.500 maschi discendono da lei in linea maschile, contro circa 6.750 della linea R, mentre le altre quattro linee contano poche decine di soggetti. I suoi nomi più noti sono lo stesso Gentleman Jim, <strong>Cross Guns Johnson</strong>, fratello pieno di Brindle Mick e quindi zio di Gentleman Jim, miglior di razza al primo Crufts a cui la razza partecipò, e <strong>Fearless Red of Bandits</strong> (1944), figlio di Gentleman Jim, spesso descritto come l'essenza del vero Stafford. La linea è associata a teste imponenti, corporature sostanziose e muscolatura pesante.</p>
+
+  <h3>La linea R, la sopravvissuta</h3>
+  <p>La linea R fu fondata da <strong>Ribchester Bob</strong>, nato intorno al 1931. È nota per un movimento più libero, una costruzione più compatta ma atletica, un carattere equilibrato con una notevole predisposizione all'addestramento, e una buona longevità. Oggi circa un maschio su sei discende da lei in linea maschile, ed è apprezzata dagli allevamenti europei che vogliono allargare la propria base.</p>
+
+  <h3>Le linee scomparse</h3>
+  <p>Tre delle sei linee originali sono sparite. La <strong>linea L</strong> (Game Lad) era la più piccola delle linee principali e fu colpita duramente dalle due guerre mondiali; la <strong>linea B</strong> (Rum Bottle), legata alla famiglia Westall, scomparve negli anni Cinquanta; la <strong>linea C</strong> (Cinderbank Beauty), la più recente delle sei, non si affermò mai in modo duraturo. Della linea J restano pochi soggetti.</p>
+
+  <h2>Linea M e linea R a confronto</h2>
+
   <table>
   <thead>
-  <tr>
-  <th>Caratteristica</th>
-  <th>Linea M (Brindle Mick)</th>
-  <th>Linea R (Ribchester Bob)</th>
-  </tr>
+  <tr><th>Caratteristica</th><th>Linea M (Brindle Mick)</th><th>Linea R (Ribchester Bob)</th></tr>
   </thead>
   <tbody>
-  <tr>
-  <td><strong>Testa</strong></td>
-  <td>Più larga e massiccia, stop pronunciato</td>
-  <td>Più pulita, proporzionata, stop moderato</td>
-  </tr>
-  <tr>
-  <td><strong>Corpo</strong></td>
-  <td>Più robusto, torace ampio, ossatura pesante</td>
-  <td>Più compatto, equilibrato, ossatura media</td>
-  </tr>
-  <tr>
-  <td><strong>Movimento</strong></td>
-  <td>Potente, spinta forte, meno agile</td>
-  <td>Più fluido, agile, copertura efficiente</td>
-  </tr>
-  <tr>
-  <td><strong>Temperamento</strong></td>
-  <td>Fiducioso, dominante, forte personalità</td>
-  <td>Equilibrato, trainabile, versatile</td>
-  </tr>
-  <tr>
-  <td><strong>Utilizzo Moderno</strong></td>
-  <td>Eccellente per show di conformazione</td>
-  <td>Ottimo per agility, obedience, famiglia</td>
-  </tr>
-  <tr>
-  <td><strong>Prevalenza</strong></td>
-  <td>~50-60% del patrimonio genetico</td>
-  <td>~20-25% del patrimonio genetico</td>
-  </tr>
+  <tr><td><strong>Testa</strong></td><td>Più larga e massiccia, stop marcato</td><td>Più asciutta e proporzionata, stop moderato</td></tr>
+  <tr><td><strong>Corpo</strong></td><td>Più sostanzioso, petto ampio, ossatura pesante</td><td>Più compatto ed equilibrato, ossatura media</td></tr>
+  <tr><td><strong>Movimento</strong></td><td>Spinta potente, meno agile</td><td>Più libero e agile, copre bene il terreno</td></tr>
+  <tr><td><strong>Carattere</strong></td><td>Sicuro, dominante, personalità forte</td><td>Equilibrato, addestrabile, versatile</td></tr>
+  <tr><td><strong>Dove eccelle oggi</strong></td><td>Esposizioni</td><td>Agility, obedience, vita in famiglia</td></tr>
+  <tr><td><strong>Maschi in linea maschile (database The Stafford Knot)</strong></td><td>Circa l'82%</td><td>Circa il 17%</td></tr>
   </tbody>
   </table>
-  
-  <div class="procedure">
-  <p class="procedure-title">📋 Come Verificare le Linee di Sangue del Tuo Staffordshire</p>
-  
-  <div class="procedure-step">
-  <strong>Step 1: Richiedi il Pedigree Esteso</strong>
-  <p>Contatta il tuo allevatore o il Kennel Club per ottenere un pedigree di almeno 4-5 generazioni.</p>
-  </div>
-  
-  <div class="procedure-step">
-  <strong>Step 2: Traccia la Linea Paterna</strong>
-  <p>Segui la linea dei maschi: padre, nonno paterno, bisnonno paterno e così via.</p>
-  </div>
-  
-  <div class="procedure-step">
-  <strong>Step 3: Cerca i Cani Fondatori</strong>
-  <p>Cerca nomi come Gentleman Jim, Brindle Mick, Ribchester Bob, Fearless Joe nelle generazioni precedenti.</p>
-  </div>
-  
-  <div class="procedure-step">
-  <strong>Step 4: Consulta Database Online</strong>
-  <p>Utilizza risorse come <a href="https://sbtpedigree.com/" target="_blank" rel="noopener" aria-label="SBTPedigree (si apre in una nuova scheda)">SBTPedigree</a> o il Kennel Club's Breed Records.</p>
-  </div>
-  
-  <div class="procedure-step">
-  <strong>Step 5: Verifica con Test Genetici</strong>
-  <p>I moderni test del DNA possono confermare la purezza delle linee e identificare potenziali problemi.</p>
-  </div>
-  </div>
-  
-  <div class="callout">
-  <p class="callout-title">🏆 La nostra filosofia di allevamento</p>
-  <p>Nel <strong>nostro allevamento Del Piccolo Diavolo</strong>, utilizziamo una combinazione strategica di linee M e R, con occasionale incorporazione di linee irlandesi. Tutti i nostri riproduttori hanno COI inferiori al 6% e sono completamente testati per malattie genetiche.</p>
-  </div>
-  
-  <div class="checklist">
-  <p class="checklist-title">✅ Come Scegliere un Allevatore Responsabile</p>
-  <ul>
-  <li>☐ Fornisce certificati di test genetici (L2-HGA, HC, DM-SOD1)</li>
-  <li>☐ Conosce e può spiegare le linee di sangue dei propri cani</li>
-  <li>☐ Mantiene COI inferiori al 6% quando possibile</li>
-  <li>☐ Mostra i genitori e l'ambiente di allevamento</li>
-  <li>☐ È registrato presso l'ENCI</li>
-  <li>☐ Fornisce contratto scritto con garanzie di salute</li>
-  <li>☐ Offre supporto dopo l'affido</li>
-  <li>☐ I cuccioli rimangono con la madre almeno 8 settimane</li>
-  </ul>
-  </div>
-  
+
+  <p>Nessuna delle due è migliore dell'altra. Sapere quale sta dietro una cucciolata dice soltanto cosa aspettarsi dal cucciolo che hai davanti.</p>
+
+  <h2>Le linee inglesi</h2>
+  <p>La razza è nata in Inghilterra, e l'allevamento inglese resta il riferimento per il tipo. Gli allevamenti più influenti hanno dato la priorità a proporzioni corrette, una testa larga e ben piena senza esagerazioni, un movimento sano e, soprattutto, il carattere affidabile scritto nello standard.</p>
+  <p>Linee come Elitebull sono state particolarmente influenti nell'Europa continentale, e sono la base del nostro programma. Quello che ci cerchiamo è sostanza senza grossolanità: un cane che a colpo d'occhio è inconfondibilmente uno Staffordshire Bull Terrier, ma che può ancora trottare per un'ora e respirare normalmente alla fine.</p>
+
+  <h2>Le linee irlandesi</h2>
+  <p>L'allevamento irlandese ha un carattere suo e un'ottima reputazione. Allevamenti come Lackyle sono noti per cani compatti, atletici, molto tipici, con un'ossatura forte e un carattere decisamente estroverso. Le linee irlandesi hanno sempre insistito molto sulla solidità e sul produrre cani che mantengono il tipo in modo costante in tutta la cucciolata, invece di un cucciolo eccezionale fra otto qualunque.</p>
+  <p>Unire linee inglesi e irlandesi è una strategia comune e produttiva, ed è la base della nostra selezione. Le due tradizioni si completano: l'inglese per l'equilibrio e la qualità della testa, l'irlandese per la compattezza, l'ossatura e la costanza.</p>
+
+  <h2>Linee da esposizione, linee da lavoro e il problema delle esagerazioni</h2>
+  <p>Nella razza c'è una tensione reale fra i cani allevati soprattutto per il ring e quelli allevati per la funzione e la vita in famiglia. In teoria lo standard descrive un solo cane e non dovrebbe esserci divisione. In pratica, in alcuni posti il successo in esposizione ha premiato ossature sempre più pesanti, musi sempre più corti e anteriori sempre più larghi, e queste caratteristiche hanno conseguenze che si vedono solo fuori dal ring: intolleranza al caldo, respiro rumoroso, fatica a sostenere un esercizio moderato.</p>
+  <p>Per noi è il problema più importante della razza oggi, e pesa su ogni accoppiamento che programmiamo. Un cane che a luglio non respira bene è stato tradito dal suo allevatore, per quanti titoli abbia nel pedigree.</p>
+
+  <h2>Leggere bene un pedigree</h2>
+  <p>Un pedigree è un documento di discendenza, non una garanzia di qualità: ce l'ha ogni cane iscritto. Quello che lo rende utile è come lo si usa. Guarda quante volte gli stessi nomi compaiono dalle due parti, che ti dice il grado di consanguineità in linea. Guarda se i risultati di salute di quegli antenati sono documentati e pubblicati. Guarda se i cani dietro il cucciolo sono stati davvero valutati da qualcuno di indipendente, in esposizione o da un veterinario specialista, o se sono semplicemente esistiti. I pedigree si possono consultare su <a href="https://sbtpedigree.com/" target="_blank" rel="noopener" aria-label="SBTPedigree (si apre in una nuova scheda)">SBTPedigree</a>.</p>
+  <p>Tre generazioni di titoli senza risultati di salute sono un pedigree più debole di tre generazioni di cani senza titoli ma con tutti i test e un carattere conosciuto. Il secondo dice molto di più sul cucciolo che stai per portare a casa.</p>
+
+  <h2>Linebreeding, consanguineità e coefficienti</h2>
+  <p>Il linebreeding, la ripetizione voluta di un antenato apprezzato dentro un pedigree, è uno strumento legittimo per fissare il tipo. Spinto troppo oltre diventa consanguineità stretta, e il prezzo si paga in difese immunitarie, fertilità e vigore più che nell'aspetto, ed è proprio per questo che è facile ignorarlo.</p>
+  <p>Il coefficiente di consanguineità (COI) misura quanto sono imparentati i genitori, e si legge sempre insieme al numero di generazioni su cui è calcolato. Su cinque generazioni, come riferimento: fino al 5% è un valore buono, che indica linee diverse; fra il 6 e il 10% è accettabile, ma chiede attenzione; fra l'11 e il 15% è preoccupante, e aumenta il rischio di problemi genetici; sopra il 15% è alto.</p>
+  <p>Una regola pratica che applichiamo: vogliamo un COI basso su cinque generazioni, e non ripetiamo un raddoppio stretto solo perché un certo antenato andava di moda. Il tipo guadagnato a spese della vitalità è un cattivo affare, e la famiglia se ne accorge anni dopo.</p>
+
+  <h2>Cosa vuol dire quando scegli un cucciolo</h2>
+  <p>Chiedi all'allevatore quali linee ci sono dietro la cucciolata, e perché quei due cani sono stati messi insieme. La risposta dice molto. Un allevatore con un programma ti dirà cosa porta il maschio, cosa porta la femmina, cosa vuole migliorare e cosa accetta come compromesso. Un allevatore senza programma ti dirà che i genitori sono bellissimi.</p>
+  <p>Poi chiedi cosa cambierebbe di quella cucciolata se potesse rifarla. Chiunque sia onesto ha una risposta.</p>
+
   <h2>Domande Frequenti</h2>
   
   <section class="faq">
