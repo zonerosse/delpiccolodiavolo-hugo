@@ -2,7 +2,7 @@
 title: "Staffy Breed Standard"
 date: 2025-02-12
 titleSeo: "Staffordshire Bull Terrier breed standard explained"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "standard"
 articolo: true
 image: "/images/blog/standard-1.webp"
@@ -52,7 +52,7 @@ custom_content: |
   <p>Watch for a dog that rolls, that paddles with its front feet, or that moves close behind. Watch also, and more importantly, for how the dog breathes at the end of a few minutes of trotting. A dog that is noisy after two circuits of a ring has a problem the standard never intended, and no amount of correct outline compensates for it.</p>
 
   <h2>Colour</h2>
-  <p>Permitted colours are red, fawn, white, black or blue, or any of these with white, and any shade of brindle or brindle with white. Black-and-tan and liver are explicitly not permitted, and neither is the diluted colour marketed as "blue merle" or similar, which does not belong in this breed at all. Which colours the standard allows, and which it does not, is explained in the guide to <a href="/en/staffordshire-bull-terrier-colours/" title="Staffordshire Bull Terrier colours">Staffordshire Bull Terrier colours</a>.</p>
+  <p>Permitted colours are red, fawn, white, black or blue, or any of these with white, and any shade of brindle or brindle with white. Black-and-tan and liver are described as highly undesirable, and there is no place for the diluted colour marketed as "blue merle" or similar, which does not belong in this breed at all. Which colours the standard allows, and which it does not, is explained in the guide to <a href="/en/staffordshire-bull-terrier-colours/" title="Staffordshire Bull Terrier colours">Staffordshire Bull Terrier colours</a>.</p>
   <p>Colour is the last thing that should influence a choice and the first thing most buyers ask about. A breeder who prices puppies by coat colour is telling you what their priorities are.</p>
 
   <h2>Faults, and how to weigh them</h2>
@@ -86,7 +86,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Which colours does the FCI standard allow?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">The standard allows <strong>red, fawn, white, black and blue</strong>, or any of these colours with white, plus any shade of <strong>brindle</strong> and brindle with white. It explicitly excludes <strong>black and tan</strong> and <strong>liver</strong>, colours generally attributed to outside blood, so their appearance raises doubts about a line. Merle does not exist in the breed: if it appears, it points to another breed in the background. A puppy of a non-permitted colour is no less healthy or affectionate, but it cannot be bred from or shown, and a serious breeder says so openly instead of selling it as rare. The blue is permitted but is a dilute colour linked to possible skin problems, and careful breeders treat it with caution.
+  <div class="faq-answer">The standard allows <strong>red, fawn, white, black and blue</strong>, or any of these colours with white, plus any shade of <strong>brindle</strong> and brindle with white. It describes <strong>black and tan</strong> and <strong>liver</strong> as highly undesirable, colours generally attributed to outside blood, so their appearance raises doubts about a line. Merle does not exist in the breed: if it appears, it points to another breed in the background. A puppy of these colours is no less healthy or affectionate, but it is penalised in the show ring and a kennel that breeds to the standard does not breed from it, and a serious breeder says so openly instead of selling it as rare. The blue is permitted but is a dilute colour linked to possible skin problems, and careful breeders treat it with caution.
   </div>
   </div>
 

@@ -1,7 +1,7 @@
 ---
 title: "I colori dello Staffordshire Bull Terrier: nero, tigrato, blu e altri"
 date: 2026-08-01
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 titleSeo: "Colori dello Staffordshire Bull Terrier: nero, tigrato, blu"
 translationKey: "colori"
 articolo: true
@@ -9,7 +9,7 @@ image: "/images/blog/colori-staffy-hero.webp"
 og_image: "/images/og/schede/it/colori-staffordshire-bull-terrier.jpg"
 og_image_alt: "Colori dello Staffordshire Bull Terrier: nero, tigrato, blu — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/colori-staffordshire-bull-terrier.webp"
-description: "I colori dello Staffordshire Bull Terrier ammessi dallo standard FCI: nero, tigrato, fulvo, rosso, bianco e pezzati. Quelli esclusi, e il caso del blu diluito."
+description: "I colori dello Staffordshire Bull Terrier ammessi dallo standard FCI: nero, tigrato, fulvo, rosso, bianco e pezzati. Quelli indesiderati e il caso del blu diluito."
 slug: "colori-staffordshire-bull-terrier"
 custom_content: |
   <section class="hero">
@@ -45,7 +45,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Lo standard FCI n. 76 dello Staffordshire Bull Terrier ammette cinque colori, rosso, fulvo, bianco, nero e blu, ciascuno con o senza bianco, più qualsiasi tonalità di tigrato, anch'essa con o senza bianco. Non sono ammessi il nero focato (black and tan) e il fegato (liver): un cane di questi colori può essere un ottimo compagno, ma non è conforme allo standard. Il tigrato va dal chiaro al black brindle, così carico da sembrare nero; il nero può essere pieno o con pezzature bianche su petto, dita e muso. Il blu è un caso a parte: lo standard lo ammette, ma è un colore diluito legato a possibili problemi di pelle, e un allevatore attento lo tratta con cautela. Nell'allevamento Del Piccolo Diavolo, a Ostellato in provincia di Ferrara, la cucciolata di agosto 2026 fra Bilquis e Black Jack ha dato cuccioli neri.</p>
+  <p>Lo standard FCI n. 76 dello Staffordshire Bull Terrier ammette cinque colori, rosso, fulvo, bianco, nero e blu, ciascuno con o senza bianco, più qualsiasi tonalità di tigrato, anch'essa con o senza bianco. Il nero focato (black and tan) e il fegato (liver) non sono vietati, ma lo standard li definisce altamente indesiderabili: in esposizione vengono penalizzati, mentre come compagno il cane non vale meno degli altri. Il tigrato va dal chiaro al black brindle, così carico da sembrare nero; il nero può essere pieno o con pezzature bianche su petto, dita e muso. Il blu è un caso a parte: lo standard lo ammette, ma è un colore diluito legato a possibili problemi di pelle, e un allevatore attento lo tratta con cautela. Nell'allevamento Del Piccolo Diavolo, a Ostellato in provincia di Ferrara, la cucciolata di agosto 2026 fra Bilquis e Black Jack ha dato cuccioli neri.</p>
 
   
   <h2>Cosa dice lo standard ufficiale</h2>
@@ -59,7 +59,7 @@ custom_content: |
   <li>Ognuno di questi <strong>con o senza bianco</strong></li>
   <li>Qualsiasi tonalità di <strong>tigrato (brindle)</strong>, con o senza bianco</li>
   </ul>
-  <p>Lo standard è altrettanto chiaro su ciò che <strong>non è ammesso</strong>: il <strong>nero focato</strong> (black and tan, cioè nero con focature marroni) e il colore <strong>fegato</strong> (liver). Un cane di questi colori, pur potendo essere un ottimo compagno, non è conforme allo standard di razza.</p>
+  <p>Lo standard indica anche due colori <strong>altamente indesiderabili</strong>: il <strong>nero focato</strong> (black and tan, cioè nero con focature marroni) e il colore <strong>fegato</strong> (liver). Non sono vietati: un cane di questi colori in esposizione viene penalizzato, ma come compagno può essere ottimo quanto gli altri.</p>
   
   <h2>Nero — elegante e sempre attuale</h2>
   <p>Il nero pieno è uno dei colori più amati e scenografici della razza: un mantello raso, lucido e uniforme che mette in risalto la muscolatura tipica dello Staffy. Può presentarsi in nero pieno oppure <strong>nero con bianco</strong> (pezzature sul petto, sulle dita, sul muso).</p>
@@ -104,7 +104,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Il nero focato (black and tan) è ammesso?</h3>
-  <div class="faq-answer">No. Lo standard della razza esclude esplicitamente il nero focato e il fegato, e la ragione non &egrave; estetica: quelle colorazioni sono storicamente associate a incroci con altre razze, quindi la loro presenza mette in dubbio la purezza della linea. Un cucciolo nero focato pu&ograve; comunque nascere da due genitori con pedigree, perch&eacute; il gene pu&ograve; restare nascosto per generazioni, e in quel caso non &egrave; un cane meno sano n&eacute; meno amabile: semplicemente <strong>non &egrave; adatto alla riproduzione e non pu&ograve; essere presentato in esposizione</strong>. Un allevamento serio lo dichiara apertamente invece di venderlo come colore raro a prezzo maggiorato, che &egrave; esattamente quello che succede in giro.</div>
+  <div class="faq-answer">Non è escluso, ma lo standard FCI lo definisce, insieme al fegato, <strong>altamente indesiderabile</strong>, e la ragione non &egrave; estetica: quelle colorazioni sono storicamente associate a incroci con altre razze, quindi la loro presenza mette in dubbio la purezza della linea. Un cucciolo nero focato pu&ograve; comunque nascere da due genitori con pedigree, perch&eacute; il gene pu&ograve; restare nascosto per generazioni, e in quel caso non &egrave; un cane meno sano n&eacute; meno amabile: semplicemente <strong>in esposizione viene penalizzato, e un allevamento che seleziona secondo lo standard non lo usa in riproduzione</strong>. Un allevamento serio lo dichiara apertamente invece di venderlo come colore raro a prezzo maggiorato, che &egrave; esattamente quello che succede in giro.</div>
   </div>
   
   <div class="faq-item">

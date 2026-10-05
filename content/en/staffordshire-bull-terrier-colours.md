@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Colours: Black, Brindle, Blue and More"
 date: 2026-08-01
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 titleSeo: "Staffordshire Bull Terrier colours: black, brindle, blue"
 translationKey: "colori"
 articolo: true
@@ -9,7 +9,7 @@ image: "/images/blog/hero-default.webp"
 og_image: "/images/og/schede/en/staffordshire-bull-terrier-colours.jpg"
 og_image_alt: "Staffordshire Bull Terrier colours: black, brindle, blue — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/colori-staffordshire-bull-terrier.webp"
-description: "Staffordshire Bull Terrier colours allowed by the FCI standard: black, brindle, fawn, red, white and pied. The excluded colours, and the case of dilute blue."
+description: "Staffordshire Bull Terrier colours allowed by the FCI standard: black, brindle, fawn, red, white and pied. The undesirable colours and the case of dilute blue."
 slug: "staffordshire-bull-terrier-colours"
 custom_content: |
   <section class="hero">
@@ -45,7 +45,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>FCI standard no. 76 for the Staffordshire Bull Terrier allows five colours, red, fawn, white, black and blue, each with or without white, plus any shade of brindle, also with or without white. Black and tan and liver are not permitted: a dog of these colours may be an excellent companion, but it does not conform to the standard. Brindle ranges from light to black brindle, so dark it looks almost black; black may be solid or with white markings on the chest, toes and muzzle. Blue is a special case: the standard lists it, but it is a dilute colour linked to possible skin problems, and a careful breeder treats it with caution. At the Del Piccolo Diavolo kennel in Ostellato, near Ferrara, Italy, the August 2026 litter from Bilquis and Black Jack produced black puppies.</p>
+  <p>FCI standard no. 76 for the Staffordshire Bull Terrier allows five colours, red, fawn, white, black and blue, each with or without white, plus any shade of brindle, also with or without white. Black and tan and liver are not forbidden, but the standard calls them highly undesirable: they are penalised in the show ring, while as a companion such a dog is worth no less than any other. Brindle ranges from light to black brindle, so dark it looks almost black; black may be solid or with white markings on the chest, toes and muzzle. Blue is a special case: the standard lists it, but it is a dilute colour linked to possible skin problems, and a careful breeder treats it with caution. At the Del Piccolo Diavolo kennel in Ostellato, near Ferrara, Italy, the August 2026 litter from Bilquis and Black Jack produced black puppies.</p>
 
   
   
@@ -60,7 +60,7 @@ custom_content: |
   <li>Each of these <strong>with or without white</strong></li>
   <li>Any shade of <strong>brindle</strong>, with or without white</li>
   </ul>
-  <p>The standard is equally clear about what is <strong>not permitted</strong>: <strong>black and tan</strong> (black with brown markings) and the <strong>liver</strong> colour. A dog of these colours, though it may be an excellent companion, does not conform to the breed standard.</p>
+  <p>The standard also names two colours as <strong>highly undesirable</strong>: <strong>black and tan</strong> (black with brown markings) and the <strong>liver</strong> colour. They are not forbidden: a dog of these colours is penalised in the show ring, but as a companion it can be every bit as good as any other.</p>
   
   <h2>Black — elegant and always in style</h2>
   <p>Solid black is one of the most loved and striking colours of the breed: a smooth, glossy, even coat that highlights the Staffy's typical musculature. It can appear as solid black or <strong>black with white</strong> (markings on the chest, toes, muzzle).</p>
@@ -105,7 +105,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Is black and tan permitted?</h3>
-  <div class="faq-answer">No. The breed standard explicitly excludes black and tan and liver, and the reason is not aesthetic: those colours are historically associated with crosses to other breeds, so their presence casts doubt on the purity of the line. A black and tan puppy can still be born to two pedigree parents, because the gene can stay hidden for generations, and such a dog is no less healthy and no less affectionate: it simply <strong>cannot be used for breeding and cannot be shown</strong>. A serious breeder says so openly instead of selling it as a rare colour at a premium, which is exactly what happens elsewhere.</div>
+  <div class="faq-answer">It is not excluded, but the FCI standard calls it, together with liver, <strong>highly undesirable</strong>, and the reason is not aesthetic: those colours are historically associated with crosses to other breeds, so their presence casts doubt on the purity of the line. A black and tan puppy can still be born to two pedigree parents, because the gene can stay hidden for generations, and such a dog is no less healthy and no less affectionate: it is simply <strong>penalised in the show ring, and a kennel that breeds to the standard does not use it for breeding</strong>. A serious breeder says so openly instead of selling it as a rare colour at a premium, which is exactly what happens elsewhere.</div>
   </div>
   
   <div class="faq-item">

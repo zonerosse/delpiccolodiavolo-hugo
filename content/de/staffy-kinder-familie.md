@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier mit Kindern und Familie"
 date: 2024-05-28
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "bambini"
 articolo: true
 image: "/images/blog/famiglia-1.jpg"
@@ -48,10 +48,19 @@ custom_content: |
   <p>Die Daten zeigen, dass diese Regel nicht übertrieben ist. Bei kleinen Kindern geschehen die meisten Bisse zu Hause, oft ins Gesicht, an Kopf oder Hals, und gebissen wird von einem Hund, den das Kind kennt; meist geht dem Biss eine Interaktion voraus, die das Kind begonnen hat, wie <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5582199/" target="_blank" rel="noopener" aria-label="Arhant und Kollegen, Frontiers in Veterinary Science 2017 (wird in einem neuen Tab geöffnet)">eine Studie von 2017 in Frontiers in Veterinary Science</a> zusammenfasst. Das Programm <a href="https://bluedog.blogs.lincoln.ac.uk/professionals/dog-bite-data/" target="_blank" rel="noopener" aria-label="Blue Dog, Universität Lincoln (wird in einem neuen Tab geöffnet)">Blue Dog der Universität Lincoln</a> schätzt, dass etwa drei von vier Bissen bei Kindern im eigenen Zuhause und durch einen vertrauten Hund geschehen. Es ist keine Frage der Rasse, sondern der Aufsicht.</p>
 
   <h2>Alter für Alter</h2>
-  <p><strong>Säuglinge und Kleinkinder.</strong> Räumliche Trennung, wenn niemand beaufsichtigt, immer. Arbeiten Sie mit Türgittern statt mit Kommandos. Lassen Sie den Hund das neue Familienmitglied aus Distanz beobachten und belohnen Sie Ruhe, statt ihn auszuschließen — Ausschluss erzeugt Groll auf die Anwesenheit des Kindes.</p>
-  <p><strong>3 bis 6 Jahre.</strong> Das Alter mit dem höchsten Risiko, weil das Kind mobil und laut ist und überzeugt, der Hund möge alles, was es selbst mag. Drei Regeln, ausnahmslos durchgesetzt: den Hund beim Fressen nie stören, den Hund auf seinem Platz nie bedrängen, den Hund nie um den Hals umarmen.</p>
-  <p><strong>7 bis 11 Jahre.</strong> Das beste Alter, um das Kind in Pflege und Training einzubeziehen. Füttern, bürsten und einfache Übungen unter Aufsicht — die hier entstehende Bindung hält meist ein Leben lang.</p>
-  <p><strong>Jugendliche.</strong> Können den Hund allein führen, wenn sie kräftig genug sind, ihn zu halten, und urteilsfähig genug, Konfrontationen mit anderen Hunden zu vermeiden. Kraft allein genügt nicht.</p>
+  <p>Die Regeln ändern sich mit dem Alter des Kindes, und die heikelste Phase ist nicht das Säuglingsalter:</p>
+
+  <table>
+  <thead>
+  <tr><th>Alter</th><th>Was das Kind tun kann</th><th>Was der Erwachsene tut</th></tr>
+  </thead>
+  <tbody>
+  <tr><td><strong>0 bis 2 Jahre</strong></td><td>Kein freier Kontakt. Der Hund darf Hände und Füße einige Sekunden beschnuppern, während ein Erwachsener das Kind hält</td><td>Hund und Kind nie im selben Raum ohne einen aufmerksamen Erwachsenen; Türgitter statt Kommandos. Der Hund beobachtet das neue Familienmitglied aus Distanz und wird für Ruhe belohnt: Ausschluss lässt ihn das Kind mit etwas Unangenehmem verbinden</td></tr>
+  <tr><td><strong>3 bis 6 Jahre: das Alter mit dem höchsten Risiko</strong></td><td>Sanftes Streicheln mit offener Hand, in Fellrichtung; Begegnungen von 2-3 Minuten, dann Pause. Keine Umarmungen, keine Küsse auf den Fang, kein Ziehen an Ohren oder Rute</td><td>Das Kind ist mobil, laut und überzeugt, der Hund möge alles, was es selbst mag. Aufsicht auf Armlänge und drei Regeln ohne Ausnahme: den Hund beim Fressen nie stören, ihn auf seinem Platz nie bedrängen, ihn nie um den Hals umarmen</td></tr>
+  <tr><td><strong>7 bis 11 Jahre</strong></td><td>Füttert, bürstet, bringt einfache Kommandos wie Sitz und Pfote bei, lernt Stresssignale zu erkennen. Hält die Leine neben einem Erwachsenen, der eine zweite hält</td><td>Bezieht das Kind in Pflege und Training ein, immer anwesend: das beste Alter dafür, und die Bindung, die hier entsteht, hält meist</td></tr>
+  <tr><td><strong>Ab 12 Jahren</strong></td><td>Fütterung, Bürsten, Spiel und Grundgehorsam als tägliche Aufgaben. Allein Gassi gehen nicht vor 14</td><td>Bleibt im Haus präsent. Mit 14 erlaubt er Spaziergänge allein nur, wenn der Jugendliche die Kraft hat, den Hund zu halten, und das Urteil, Begegnungen mit anderen Hunden zu vermeiden; ein Hund, der auf Artgenossen reagiert, wird nicht einmal mit sechzehn überlassen</td></tr>
+  </tbody>
+  </table>
 
   <h2>Nicht nur den Hund erziehen, sondern auch das Kind</h2>
   <p>Die meisten Vorfälle im Haushalt werden durch die Erziehung des Kindes verhindert. Zeigen Sie ihm, wie man sich nähert: seitlich, ruhig, und den letzten Schritt dem Hund überlassen. Zeigen Sie ihm, wie ein Hund aussieht, der in Ruhe gelassen werden will: abgewandter Kopf, Lecken über die Nase, Wechsel in einen anderen Raum. Und geben Sie ihm eine Regel, die immer gilt: wenn der Hund geht, ist Schluss, nicht hinterhergehen.</p>

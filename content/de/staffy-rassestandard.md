@@ -1,7 +1,7 @@
 ---
 title: "FCI Rassestandard Staffordshire Bull Terrier"
 date: 2025-02-12
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "standard"
 articolo: true
 image: "/images/blog/standard-tipicita-morfologia-hero.webp"
@@ -60,7 +60,7 @@ custom_content: |
   <p>Achten Sie auf einen Hund, der wackelt, mit den Vorderpfoten rudert oder hinten eng geht. Achten Sie vor allem darauf, wie der Hund nach einigen Minuten Trab atmet. Ein Hund, der nach zwei Ringrunden geräuschvoll atmet, hat ein Problem, das der Standard nie vorgesehen hat, und keine noch so korrekte Silhouette gleicht das aus.</p>
 
   <h2>Farben</h2>
-  <p>Zugelassen sind Rot, Falb, Weiß, Schwarz oder Blau, jeweils auch mit Weiß, sowie jede Schattierung von Gestromt und Gestromt mit Weiß. Schwarz-Loh und Leberfarben sind ausdrücklich nicht zugelassen, ebenso wenig die als Blue Merle oder ähnlich vermarktete Verdünnung, die in dieser Rasse gar nicht vorkommt.</p>
+  <p>Zugelassen sind Rot, Falb, Weiß, Schwarz oder Blau, jeweils auch mit Weiß, sowie jede Schattierung von Gestromt und Gestromt mit Weiß. Schwarz-Loh und Leberfarben gelten als höchst unerwünscht, und keinen Platz hat die als Blue Merle oder ähnlich vermarktete Verdünnung, die in dieser Rasse gar nicht vorkommt.</p>
   <p>Die Farbe sollte die Wahl zuletzt beeinflussen und ist die erste Frage der meisten Käufer. Ein Züchter, der Welpen nach Fellfarbe bepreist, sagt Ihnen damit, wo seine Prioritäten liegen. Welche Farben der Standard zulässt und welche nicht, erklärt der Ratgeber zu den <a href="/de/staffordshire-bull-terrier-farben/" title="Farben des Staffordshire Bull Terrier">Farben des Staffordshire Bull Terrier</a>.</p>
 
   <h2>Fehler und ihre Gewichtung</h2>
@@ -93,7 +93,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Welche Farben erlaubt der FCI-Standard?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Der Standard erlaubt <strong>Rot, Falb, Weiß, Schwarz und Blau</strong> oder jede dieser Farben mit Weiß, dazu alle Schattierungen von Gestromt und Gestromt mit Weiß. Ausdrücklich ausgeschlossen sind Schwarz mit Loh und Leberfarbe: nicht aus ästhetischen Gründen, sondern weil sie historisch mit Einkreuzungen anderer Rassen verbunden sind, sodass ihr Auftreten die Reinheit der Linie in Frage stellt. Merle gibt es in der Rasse nicht: Taucht es auf, weist es auf fremdes Blut hin. Ein Welpe in einer nicht zugelassenen Farbe ist weder weniger gesund noch weniger anhänglich, darf aber weder in die Zucht noch in den Ausstellungsring, und eine seriöse Zucht sagt das offen, statt ihn als Rarität zu verkaufen.</div>
+  <div class="faq-answer">Der Standard erlaubt <strong>Rot, Falb, Weiß, Schwarz und Blau</strong> oder jede dieser Farben mit Weiß, dazu alle Schattierungen von Gestromt und Gestromt mit Weiß. Schwarz mit Loh und Leberfarbe gelten als höchst unerwünscht: nicht aus ästhetischen Gründen, sondern weil sie historisch mit Einkreuzungen anderer Rassen verbunden sind, sodass ihr Auftreten die Reinheit der Linie in Frage stellt. Merle gibt es in der Rasse nicht: Taucht es auf, weist es auf fremdes Blut hin. Ein Welpe in diesen Farben ist weder weniger gesund noch weniger anhänglich, wird aber im Ausstellungsring bestraft, und eine Zucht, die nach dem Standard selektiert, setzt ihn nicht ein, und eine seriöse Zucht sagt das offen, statt ihn als Rarität zu verkaufen.</div>
   </div>
 
   <div class="faq-item active">

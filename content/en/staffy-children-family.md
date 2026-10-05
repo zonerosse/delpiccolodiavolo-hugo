@@ -2,7 +2,7 @@
 title: "Staffy and Children: Family Life"
 date: 2024-05-28
 titleSeo: "Staffordshire Bull Terrier with children: family life"
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "bambini"
 articolo: true
 image: "/images/blog/famiglia-1.webp"
@@ -53,10 +53,19 @@ custom_content: |
   <p>The evidence shows this rule is not excessive. In young children most bites happen at home, often to the face, head or neck, and are inflicted by a dog the child knows; most are preceded by an interaction the child started, as <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5582199/" target="_blank" rel="noopener" aria-label="Arhant et al., Frontiers in Veterinary Science 2017 (opens in a new tab)">a 2017 study in Frontiers in Veterinary Science</a> summarises. The <a href="https://bluedog.blogs.lincoln.ac.uk/professionals/dog-bite-data/" target="_blank" rel="noopener" aria-label="Blue Dog, University of Lincoln (opens in a new tab)">Blue Dog programme of the University of Lincoln</a> estimates that about three bites in four to children happen in their own home, by a familiar dog. It is not a question of breed: it is a question of supervision.</p>
 
   <h2>Age by age</h2>
-  <p><strong>Babies and toddlers.</strong> Physical separation when unsupervised, always. Use gates rather than commands. Let the dog observe the new arrival from a distance and reward calm behaviour rather than excluding it, which builds resentment of the child's presence.</p>
-  <p><strong>3 to 6 years.</strong> This is the highest-risk age, because the child is mobile, loud and convinced the dog enjoys everything they enjoy. Teach three rules and enforce them without exception: never disturb the dog while eating, never approach the dog in its bed, never hug the dog around the neck.</p>
-  <p><strong>Seven to eleven.</strong> The best age for involving the child in care and training. A child of this age can feed, brush, and practise simple obedience under supervision, and the relationship built here tends to last.</p>
-  <p><strong>Adolescents.</strong> Can walk the dog alone if they have the physical strength to hold it and the judgement to avoid confrontations with other dogs. Strength alone is not enough.</p>
+  <p>The rules change with the child's age, and the most delicate stage is not infancy:</p>
+
+  <table>
+  <thead>
+  <tr><th>Age</th><th>What the child can do</th><th>What the adult does</th></tr>
+  </thead>
+  <tbody>
+  <tr><td><strong>0 to 2 years</strong></td><td>No free contact. The dog may sniff the baby's hands and feet for a few seconds while an adult holds the child</td><td>Dog and child never in the same room without an attentive adult; gates rather than commands. The dog watches the new arrival from a distance and is rewarded for calm: excluding it teaches it to link the child with something unpleasant</td></tr>
+  <tr><td><strong>3 to 6 years: the highest-risk age</strong></td><td>Gentle strokes with an open hand, in the direction of the coat; interactions of 2-3 minutes, then a break. No hugs, no kisses on the face, no pulling ears or tail</td><td>The child is mobile, loud and convinced the dog enjoys everything they enjoy. Supervision at arm's length and three rules without exception: never disturb the dog while eating, never approach it in its bed, never hug it around the neck</td></tr>
+  <tr><td><strong>7 to 11 years</strong></td><td>Feeds, brushes, teaches simple commands such as sit and paw, learns to read signs of stress. Holds the lead next to an adult holding a second one</td><td>Involves the child in care and training, always present: this is the best age for it, and the relationship built here tends to last</td></tr>
+  <tr><td><strong>From 12 years</strong></td><td>Meals, brushing, play and basic training as daily responsibilities. Walking the dog alone not before 14</td><td>Stays present at home. At 14, allows solo walks only if the teenager has the strength to hold the dog and the judgement to avoid meetings with other dogs; a dog reactive to other dogs is not handed over even at sixteen</td></tr>
+  </tbody>
+  </table>
 
   <h2>Teaching the child, not only the dog</h2>
   <p>Most household incidents are prevented by educating the child. Show them how to approach: sideways, calmly, letting the dog come the last step. Show them what a dog looks like when it wants to be left alone: turning away, licking its lips, moving to another room. And give them one absolute rule they can always apply — if the dog leaves, it is over, do not follow.</p>

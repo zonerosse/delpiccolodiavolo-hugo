@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier: Tipicità di Razza e Morfologia"
 date: 2025-02-12
-lastmod: 2026-09-29
+lastmod: 2026-10-05
 translationKey: "standard"
 articolo: true
 image: "/images/blog/standard-1.webp"
@@ -120,7 +120,7 @@ custom_content: |
   
   <div class="alert">
   <p class="alert-title">⚠️ Colori NON ammessi</p>
-  <p>Il nero focato (black and tan) e il fegato (liver) NON sono ammessi dallo standard. Il tartufo deve essere sempre nero.</p>
+  <p>Il nero focato (black and tan) e il fegato (liver) sono definiti dallo standard altamente indesiderabili. Il tartufo deve essere sempre nero.</p>
   </div>
   
   <h2>Carattere e Tipicità Comportamentale</h2>
@@ -178,7 +178,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Quali colori sono ammessi nello standard FCI?</h3>
-  <div class="faq-answer">Lo standard ammette <strong>rosso, fulvo, bianco, nero e blu</strong>, o qualsiasi di queste tinte con il bianco, oltre a tutte le sfumature di <strong>tigrato</strong> e al tigrato con bianco. Sono invece esplicitamente esclusi il <strong>nero focato</strong> e il <strong>fegato</strong>: non per questioni estetiche, ma perch&eacute; storicamente associati a incroci con altre razze, quindi la loro presenza mette in dubbio la purezza della linea. Non esiste nella razza il <em>merle</em>: se compare, indica sangue esterno. Un cucciolo di colore non ammesso non &egrave; meno sano n&eacute; meno affettuoso, ma non pu&ograve; essere usato in riproduzione n&eacute; presentato in esposizione, e un allevamento serio lo dichiara invece di venderlo come raro.</div>
+  <div class="faq-answer">Lo standard ammette <strong>rosso, fulvo, bianco, nero e blu</strong>, o qualsiasi di queste tinte con il bianco, oltre a tutte le sfumature di <strong>tigrato</strong> e al tigrato con bianco. Il <strong>nero focato</strong> e il <strong>fegato</strong> sono invece definiti altamente indesiderabili: non per questioni estetiche, ma perch&eacute; storicamente associati a incroci con altre razze, quindi la loro presenza mette in dubbio la purezza della linea. Non esiste nella razza il <em>merle</em>: se compare, indica sangue esterno. Un cucciolo di questi colori non &egrave; meno sano n&eacute; meno affettuoso, ma in esposizione viene penalizzato e un allevamento che seleziona secondo lo standard non lo usa in riproduzione, e un allevamento serio lo dichiara invece di venderlo come raro.</div>
   </div>
   
   <div class="faq-item">

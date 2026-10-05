@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier e Bambini: Convivenza Sicura"
 date: 2024-05-28
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 translationKey: "bambini"
 articolo: true
 image: "/images/blog/famiglia-1.webp"
@@ -131,45 +131,19 @@ custom_content: |
   
   <h2>Regole di Interazione per Età del Bambino</h2>
   
-  <h3>Neonati (0-12 mesi)</h3>
-  
-  <ul>
-  <li><strong>Zero interazione diretta</strong> non supervisionata - mai</li>
-  <li>Cane e neonato MAI nella stessa stanza senza adulto presente e attento</li>
-  <li>Cane può annusare piedini/mani brevemente con adulto che tiene neonato</li>
-  <li>Creare associazione positiva: arrivo bambino = premi extra per cane</li>
-  <li>Cancelletti divisori per separare zone quando necessario</li>
-  </ul>
-  
-  <h3>Bambini piccoli (1-3 anni)</h3>
-  
-  <ul>
-  <li>Supervisione <strong>a distanza di braccio</strong> sempre</li>
-  <li>Insegnare "carezze morbide" (mano aperta, direzione pelo)</li>
-  <li>NO abbracci, baci sul muso, tirare orecchie/coda</li>
-  <li>Interazioni brevi: max 2-3 minuti poi pausa obbligatoria</li>
-  <li>Adulto interviene prima che bambino faccia cosa scorretta</li>
-  </ul>
-  
-  <h3>Bambini età scolare (4-7 anni)</h3>
-  
-  <ul>
-  <li>Possono dare comandi semplici (seduto, zampa) con supervisione</li>
-  <li>Partecipano a routine (riempire ciotola acqua, spazzolare)</li>
-  <li>Giochi strutturati supervisionati (lancio palla morbida)</li>
-  <li>Imparano a leggere segnali stress base</li>
-  <li>Regole visuali con simboli semplici</li>
-  </ul>
-  
-  <h3>Pre-adolescenti (8-12 anni)</h3>
-  
-  <ul>
-  <li>Possono camminare cane con adulto vicino (non da soli)</li>
-  <li>Responsabilità quotidiane (pasti, spazzolatura, giochi)</li>
-  <li>Training base sotto guida adulto</li>
-  <li>Supervisione meno stretta ma sempre presente in casa</li>
-  <li>Possono riconoscere autonomamente segnali stress</li>
-  </ul>
+  <p>Le regole cambiano con l'età del bambino, e la fascia più delicata non è quella dei neonati:</p>
+
+  <table>
+  <thead>
+  <tr><th>Età</th><th>Cosa può fare il bambino</th><th>Cosa fa l'adulto</th></tr>
+  </thead>
+  <tbody>
+  <tr><td><strong>Da 0 a 2 anni</strong></td><td>Nessun contatto libero. Il cane può annusargli mani e piedi per pochi secondi, mentre un adulto lo tiene in braccio</td><td>Cane e bambino mai nella stessa stanza senza un adulto attento; cancelletti invece dei comandi. Il cane osserva il nuovo arrivato da lontano e viene premiato quando è calmo: escluderlo gli fa associare il bambino a qualcosa di negativo</td></tr>
+  <tr><td><strong>Da 3 a 6 anni: l'età più a rischio</strong></td><td>Carezze morbide a mano aperta, nel verso del pelo; interazioni di 2-3 minuti, poi pausa. Niente abbracci, baci sul muso, orecchie o coda tirate</td><td>Il bambino si muove, fa rumore ed è convinto che al cane piaccia tutto quello che piace a lui. Supervisione a un braccio di distanza e tre regole senza eccezioni: mai disturbare il cane mentre mangia, mai avvicinarsi alla sua cuccia, mai abbracciarlo al collo</td></tr>
+  <tr><td><strong>Da 7 a 11 anni</strong></td><td>Dà da mangiare, spazzola, insegna comandi semplici come seduto e zampa, impara a riconoscere i segnali di stress. Tiene il guinzaglio accanto a un adulto che ne tiene un secondo</td><td>Coinvolge il bambino nella cura e nell'educazione, sempre presente: è l'età migliore per farlo, e il rapporto che nasce qui di solito dura</td></tr>
+  <tr><td><strong>Da 12 anni</strong></td><td>Pasti, spazzola, gioco ed educazione di base come responsabilità quotidiane. A passeggio da solo non prima dei 14 anni</td><td>Resta presente in casa. A 14 anni valuta la passeggiata da soli solo se il ragazzo ha la forza di tenere il cane e il giudizio per evitare gli incontri con altri cani; un cane reattivo con i simili non si affida nemmeno a sedici anni</td></tr>
+  </tbody>
+  </table>
   
   <h2>Azioni Vietate: Stampa e Appendi</h2>
   

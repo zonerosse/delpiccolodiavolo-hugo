@@ -1,7 +1,7 @@
 ---
 title: "Farben des Staffordshire Bull Terrier: Schwarz, Gestromt, Blau und mehr"
 date: 2026-08-01
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 titleSeo: "Farben des Staffordshire Bull Terrier: Schwarz, Gestromt"
 translationKey: "colori"
 articolo: true
@@ -9,7 +9,7 @@ image: "/images/blog/hero-default.webp"
 og_image: "/images/og/schede/de/staffordshire-bull-terrier-farben.jpg"
 og_image_alt: "Farben des Staffordshire Bull Terrier: Schwarz, Gestromt — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/colori-staffordshire-bull-terrier.webp"
-description: "Vom FCI-Standard erlaubte Farben des Staffordshire Bull Terrier: Schwarz, Gestromt, Falb, Rot, Weiß und Pied. Die ausgeschlossenen Farben und das verdünnte Blau."
+description: "Vom FCI-Standard erlaubte Farben des Staffordshire Bull Terrier: Schwarz, Gestromt, Falb, Rot, Weiß und Pied. Die unerwünschten Farben und das verdünnte Blau."
 slug: "staffordshire-bull-terrier-farben"
 custom_content: |
   <section class="hero">
@@ -45,7 +45,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Der FCI-Standard Nr. 76 des Staffordshire Bull Terrier erlaubt fünf Farben, Rot, Falb, Weiß, Schwarz und Blau, jeweils mit oder ohne Weiß, dazu jede Schattierung von Gestromt, ebenfalls mit oder ohne Weiß. Nicht erlaubt sind Schwarz mit Loh (black and tan) und Leberfarben: Ein Hund in diesen Farben kann ein wunderbarer Begleiter sein, entspricht aber nicht dem Standard. Gestromt reicht von hell bis zu einem Black Brindle, das fast schwarz wirkt; Schwarz kann einfarbig sein oder weiße Abzeichen an Brust, Zehen und Fang haben. Blau ist ein Sonderfall: Der Standard nennt es, doch es ist eine verdünnte Farbe, die mit möglichen Hautproblemen verbunden ist, und eine sorgfältige Zucht geht vorsichtig damit um. In der Zucht Del Piccolo Diavolo in Ostellato bei Ferrara hat der Wurf von Bilquis und Black Jack im August 2026 schwarze Welpen gebracht.</p>
+  <p>Der FCI-Standard Nr. 76 des Staffordshire Bull Terrier erlaubt fünf Farben, Rot, Falb, Weiß, Schwarz und Blau, jeweils mit oder ohne Weiß, dazu jede Schattierung von Gestromt, ebenfalls mit oder ohne Weiß. Schwarz mit Loh (black and tan) und Leberfarben sind nicht verboten, doch der Standard nennt sie höchst unerwünscht: Im Ausstellungsring werden sie bestraft, als Begleiter ist ein solcher Hund aber nicht weniger wert als jeder andere. Gestromt reicht von hell bis zu einem Black Brindle, das fast schwarz wirkt; Schwarz kann einfarbig sein oder weiße Abzeichen an Brust, Zehen und Fang haben. Blau ist ein Sonderfall: Der Standard nennt es, doch es ist eine verdünnte Farbe, die mit möglichen Hautproblemen verbunden ist, und eine sorgfältige Zucht geht vorsichtig damit um. In der Zucht Del Piccolo Diavolo in Ostellato bei Ferrara hat der Wurf von Bilquis und Black Jack im August 2026 schwarze Welpen gebracht.</p>
 
   
   
@@ -60,7 +60,7 @@ custom_content: |
   <li>Jede dieser Farben <strong>mit oder ohne Weiß</strong></li>
   <li>Jede Schattierung von <strong>Gestromt (Brindle)</strong>, mit oder ohne Weiß</li>
   </ul>
-  <p>Der Standard ist ebenso klar bei dem, was <strong>nicht erlaubt</strong> ist: <strong>Black and Tan</strong> (Schwarz mit braunen Abzeichen) und die <strong>Leberfarbe</strong>. Ein Hund dieser Farben kann zwar ein ausgezeichneter Begleiter sein, entspricht aber nicht dem Rassestandard.</p>
+  <p>Der Standard nennt außerdem zwei Farben <strong>höchst unerwünscht</strong>: <strong>Black and Tan</strong> (Schwarz mit braunen Abzeichen) und die <strong>Leberfarbe</strong>. Verboten sind sie nicht: Im Ausstellungsring wird ein Hund dieser Farben bestraft, als Begleiter kann er aber genauso gut sein wie jeder andere.</p>
   
   <h2>Schwarz — elegant und immer aktuell</h2>
   <p>Volles Schwarz ist eine der beliebtesten und eindrucksvollsten Farben der Rasse: ein glattes, glänzendes und gleichmäßiges Fell, das die typische Muskulatur des Staffy hervorhebt. Es kann als volles Schwarz oder <strong>Schwarz mit Weiß</strong> auftreten (Abzeichen an Brust, Zehen, Fang).</p>
@@ -105,7 +105,7 @@ custom_content: |
   
   <div class="faq-item">
   <h3 class="faq-question">Ist Black and Tan erlaubt?</h3>
-  <div class="faq-answer">Nein. Der Rassestandard schließt Black and Tan sowie Leberfarben ausdrücklich aus, und der Grund ist nicht ästhetisch: diese Farben sind historisch mit Einkreuzungen anderer Rassen verbunden, ihr Auftreten stellt also die Reinheit der Linie infrage. Ein solcher Welpe kann dennoch aus zwei Elterntieren mit Ahnentafel fallen, weil das Gen über Generationen verborgen bleiben kann &mdash; er ist dann nicht weniger gesund und nicht weniger liebenswert: er <strong>darf nur nicht zur Zucht eingesetzt und nicht ausgestellt werden</strong>. Eine seriöse Zucht sagt das offen, statt ihn als seltene Farbe teurer zu verkaufen.</div>
+  <div class="faq-answer">Ausgeschlossen ist es nicht, aber der FCI-Standard nennt es, zusammen mit Leberfarben, <strong>höchst unerwünscht</strong>, und der Grund ist nicht ästhetisch: diese Farben sind historisch mit Einkreuzungen anderer Rassen verbunden, ihr Auftreten stellt also die Reinheit der Linie infrage. Ein solcher Welpe kann dennoch aus zwei Elterntieren mit Ahnentafel fallen, weil das Gen über Generationen verborgen bleiben kann &mdash; er ist dann nicht weniger gesund und nicht weniger liebenswert: er <strong>wird im Ausstellungsring bestraft, und eine Zucht, die nach dem Standard selektiert, setzt ihn nicht in der Zucht ein</strong>. Eine seriöse Zucht sagt das offen, statt ihn als seltene Farbe teurer zu verkaufen.</div>
   </div>
   
   <div class="faq-item">
