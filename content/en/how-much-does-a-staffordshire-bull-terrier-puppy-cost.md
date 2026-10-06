@@ -62,7 +62,7 @@ When you buy from a responsible breeder, the price covers:
 </tr>
 <tr>
 <td><strong>Health</strong></td>
-<td>First vaccinations with at least two boosters, worming, veterinary examination before the puppy leaves</td>
+<td>First vaccination, worming, veterinary examination before the puppy leaves</td>
 <td>Dates and stamps in the health record</td>
 </tr>
 <tr>

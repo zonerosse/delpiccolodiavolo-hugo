@@ -1,7 +1,7 @@
 ---
 title: "Esercizio Sicuro per Staffordshire Bull Terrier"
 date: 2024-06-20
-lastmod: 2026-10-05
+lastmod: 2026-10-06
 translationKey: "esercizio"
 articolo: true
 image: "/images/blog/esercizio-hero.webp"
@@ -100,8 +100,9 @@ custom_content: |
   <ul>
   <li><strong>Salti ripetuti:</strong> dal divano, scale, ostacoli - stress eccessivo su anche e gomiti</li>
   <li><strong>Corse prolungate:</strong> mai jogging o bici con cucciolo sotto i 12 mesi</li>
-  <li><strong>Scale frequenti:</strong> limita salita/discesa scale fino a 4-5 mesi</li>
-  <li><strong>Tiro alla fune intenso:</strong> può danneggiare denti e collo in crescita</li>
+  <li><strong>Scale:</strong> nei primi 8-9 mesi il cucciolo le fa in braccio, né in salita né in discesa</li>
+  <li><strong>Tira e molla:</strong> niente, con stracci, corde o simili, finché non ha cambiato tutti i denti: danneggia denti e collo in crescita</li>
+  <li><strong>Lanci di palline o bastoni:</strong> costringono il cucciolo ad accelerazioni innaturali e forzate</li>
   <li><strong>Esercizio su asfalto caldo:</strong> ustioni ai polpastrelli e surriscaldamento</li>
   <li><strong>Parco cani affollato:</strong> rischio traumi da gioco troppo irruento</li>
   </ul>

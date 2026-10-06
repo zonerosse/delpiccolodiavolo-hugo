@@ -1,7 +1,7 @@
 ---
 title: "Safe Exercise for Staffordshire Bull Terrier"
 date: 2024-06-20
-lastmod: 2026-10-05
+lastmod: 2026-10-06
 translationKey: "esercizio"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -81,8 +81,9 @@ custom_content: |
   <ul>
   <li><strong>Repeated jumping:</strong> off the sofa, stairs, obstacles - too much stress on hips and elbows</li>
   <li><strong>Long runs:</strong> never jogging or cycling with a puppy under 12 months</li>
-  <li><strong>Frequent stairs:</strong> limit going up and down stairs until 4-5 months</li>
-  <li><strong>Hard tug-of-war:</strong> it can damage growing teeth and neck</li>
+  <li><strong>Stairs:</strong> for the first 8-9 months the puppy is carried, both up and down</li>
+  <li><strong>Tug-of-war:</strong> none, with rags, ropes or similar, until all the adult teeth are in: it damages growing teeth and neck</li>
+  <li><strong>Throwing balls or sticks:</strong> it forces the puppy into unnatural, forced acceleration</li>
   <li><strong>Exercise on hot tarmac:</strong> burnt pads and overheating</li>
   <li><strong>A crowded dog park:</strong> risk of injury from over-boisterous play</li>
   </ul>

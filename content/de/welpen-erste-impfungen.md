@@ -2,7 +2,7 @@
 title: "Welpen: Erste Impfungen"
 date: 2025-06-10
 titleSeo: "Erste Impfungen des Welpen: Plan und Auffrischung"
-lastmod: 2026-10-05
+lastmod: 2026-10-06
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/salute.webp"
@@ -39,7 +39,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>Ein Staffordshire Bull Terrier Welpe erhält die erste Impfung mit 6 bis 8 Wochen, noch in der Zucht, gegen Staupe, Hepatitis und Parvovirose. Die zweite folgt mit 10 bis 12 Wochen, meist zusammen mit Leptospirose, und die dritte mit 14 bis 16 Wochen schließt die Grundimmunisierung ab; eine erste Auffrischung gibt es mit 12 Monaten. Der Schutz baut sich in ein bis zwei Wochen nach der letzten Spritze auf, voll geschützt ist der Welpe also mit etwa 16 bis 18 Wochen. Die Impfungen liegen so dicht, weil mütterliche Antikörper den Welpen anfangs schützen, den Impfstoff aber stören, und wann sie verschwinden, ist von Welpe zu Welpe verschieden. Die Tollwutimpfung ist ab 12 Wochen möglich und gilt für Reisen erst 21 Tage später. Bis zum Abschluss meidet man Orte mit hohem Risiko, aber nicht die Sozialisierung. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
+  <p>Das Impfprotokoll, dem wir bei unseren Staffordshire Bull Terrier Welpen folgen, ist einfach: der erste Kombinationsimpfstoff mit 6 bis 8 Wochen, noch in der Zucht, eine zweite Dosis mit drei Monaten, dann die Auffrischung ein Jahr später, sofern der eigene Tierarzt nichts anderes rät. Manche Tierärzte geben lieber eine weitere Dosis um die 16. Woche: dann folgt man dem Tierarzt, der die Gegend und den Hund kennt. Der Schutz setzt ein bis zwei Wochen nach der letzten Spritze ein, nicht im Moment der Injektion. Die Dosen liegen auseinander, weil mütterliche Antikörper den Welpen anfangs schützen, den Impfstoff aber stören. Die Tollwutimpfung ist ab 12 Wochen möglich, für Reisen ins Ausland Pflicht und gilt erst 21 Tage später. Bis der Welpe geschützt ist, meidet man Orte mit hohem Risiko, aber nicht die Sozialisierung. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
   
   
@@ -48,7 +48,7 @@ custom_content: |
   <p>Die Parvovirose verdient besondere Beachtung, weil sie monatelang in der Umwelt überlebt und gegen die meisten Haushaltsdesinfektionsmittel unempfindlich ist. Ein Garten, in dem ein infizierter Hund war, kann lange danach noch ansteckend sein — daher die Vorsicht, wo ein ungeimpfter Welpe seine Pfoten hinsetzt.</p>
 
   <h2>Der Impfplan</h2>
-  <p>Die meisten Protokolle in Italien folgen demselben Muster. Die erste Injektion erfolgt mit 6 bis 8 Wochen, noch beim Züchter, und deckt Staupe, Hepatitis und Parvovirose ab. Die zweite folgt mit 10 bis 12 Wochen, meist ergänzt um Leptospirose. Die dritte mit 14 bis 16 Wochen schließt die Grundimmunisierung ab. Eine erste Auffrischung erfolgt mit 12 Monaten, danach richtet sich der Abstand nach Impfstoff und tierärztlicher Einschätzung.</p>
+  <p>Dies ist das Protokoll, dem wir folgen. Die erste Injektion erfolgt mit 6 bis 8 Wochen, noch beim Züchter, und deckt Staupe, Hepatitis und Parvovirose ab. Die zweite erfolgt mit drei Monaten, meist ergänzt um Leptospirose. Dann die Auffrischung ein Jahr später; danach richtet sich der Abstand nach Impfstoff und tierärztlicher Einschätzung. Der eigene Tierarzt kann ein anderes Protokoll haben, zum Beispiel mit einer zusätzlichen Dosis um die 16. Woche: dann gilt sein Rat.</p>
 
   <table>
   <thead>
@@ -56,14 +56,13 @@ custom_content: |
   </thead>
   <tbody>
   <tr><td><strong>6-8 Wochen</strong></td><td>Erste Dosis des Kombinationsimpfstoffs: Staupe, Hepatitis, Parvovirose</td><td>Noch beim Züchter, vor der Abgabe</td></tr>
-  <tr><td><strong>10-12 Wochen</strong></td><td>Zweite Dosis, meist mit Leptospirose</td><td>Der Abstand zwischen den Dosen darf nicht verkürzt werden</td></tr>
+  <tr><td><strong>3 Monate</strong></td><td>Zweite Dosis, meist mit Leptospirose</td><td>Sofern der eigene Tierarzt nichts anderes rät</td></tr>
   <tr><td><strong>Ab 12 Wochen</strong></td><td>Tollwut, Pflicht für Reisen in der Europäischen Union</td><td>Gültig 21 Tage danach, eingetragen im Heimtierausweis</td></tr>
-  <tr><td><strong>14-16 Wochen</strong></td><td>Dritte Dosis, schließt die Grundimmunisierung ab</td><td>Bei erheblicher Verzögerung kann der Tierarzt einen Teil wiederholen</td></tr>
-  <tr><td><strong>16-18 Wochen</strong></td><td>Keine Injektion: der Schutz setzt ein</td><td>Die Immunität baut sich ein bis zwei Wochen nach der letzten Dosis auf</td></tr>
-  <tr><td><strong>12 Monate</strong></td><td>Erste Auffrischung</td><td>Danach richtet sich der Abstand nach Impfstoff und Tierarzt</td></tr>
+  <tr><td><strong>Etwa 14 Wochen</strong></td><td>Keine Injektion: der Schutz setzt ein</td><td>Die Immunität baut sich ein bis zwei Wochen nach der letzten Dosis auf</td></tr>
+  <tr><td><strong>Ein Jahr später</strong></td><td>Auffrischung</td><td>Danach richtet sich der Abstand nach Impfstoff und Tierarzt</td></tr>
   </tbody>
   </table>
-  <p>Der Schutz besteht nicht sofort. Die Immunität baut sich über ein bis 2 Wochen nach der letzten Injektion auf, das heißt ein Welpe ist erst mit etwa 16 bis 18 Wochen wirklich geschützt, nicht im Moment der letzten Spritze.</p>
+  <p>Der Schutz besteht nicht sofort. Die Immunität baut sich über ein bis zwei Wochen nach der letzten Injektion auf; mit unserem Protokoll ist ein Welpe also mit etwa 14 Wochen wirklich geschützt, nicht im Moment der letzten Spritze.</p>
   <p>Zwei Details werden oft übersehen. Erstens darf der Abstand zwischen den Dosen nicht verkürzt werden, weil maternale Antikörper den Impfstoff blockieren und der Plan um deren Abbau herum konstruiert ist. Zweitens muss der Tierarzt bei erheblicher Verzögerung unter Umständen einen Teil des Plans neu beginnen.</p>
 
   <h2>Tollwut und Reisen</h2>
@@ -79,7 +78,7 @@ custom_content: |
   <p>Nicht normal und ein Fall für den sofortigen Tierarztbesuch: Schwellung von Gesicht oder Fang, Quaddeln, wiederholtes Erbrechen, Atemnot oder Kollaps. Das sind Zeichen einer allergischen Reaktion, sie treten meist innerhalb einer Stunde auf, und deshalb ist es sinnvoll, nach einer ersten Impfung noch kurz in der Nähe der Praxis zu bleiben.</p>
 
   <h2>Wohin der Welpe in der Zwischenzeit darf</h2>
-  <p>Das ist die praktisch wichtigste Frage, denn das Sozialisierungsfenster schließt sich um die zwölfte Woche, etwa einen Monat bevor der Schutz vollständig ist. Passiv abzuwarten kostet im Verhalten mehr, als es an Infektionsrisiko spart.</p>
+  <p>Das ist die praktisch wichtigste Frage, denn das Sozialisierungsfenster schließt sich um die zwölfte Woche, etwa zwei Wochen bevor der Schutz vollständig ist. Passiv abzuwarten kostet im Verhalten mehr, als es an Infektionsrisiko spart.</p>
   <p>Unbedenklich vor Abschluss: den Welpen auf dem Arm durch die Straße tragen, Freunde mit geimpften gesunden Hunden besuchen, der eigene Garten, sofern dort kein ungeimpfter Hund war, und Autofahrten, um die Welt vom Fenster aus zu sehen.</p>
   <p>Zu meiden: öffentliche Parks und Hundewiesen, Gehwege, auf denen viele fremde Hunde markieren, der Boden im Wartezimmer und Kontakt mit Hunden unbekannten Impfstatus.</p>
 

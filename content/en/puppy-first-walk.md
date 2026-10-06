@@ -2,7 +2,7 @@
 title: "Puppies: First Walk"
 date: 2025-09-17
 titleSeo: "A puppy's first walk: when to start and how"
-lastmod: 2026-10-05
+lastmod: 2026-10-06
 translationKey: "passeggiata"
 articolo: true
 image: "/images/blog/cuccioli-5.webp"
@@ -46,14 +46,14 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>A Staffordshire Bull Terrier puppy's first walks are measured in minutes, not distance. The usual guideline is about five minutes of formal walking per month of age, twice a day: fifteen minutes at three months, twenty at four. The limit exists because growth plates in this breed close between 12 and 18 months, and repeated impact before then causes damage that only shows years later. Waiting for the end of the vaccination course at around 16 weeks is not the answer either, because by then the socialisation window, which runs from the third to the twelfth week, has already closed: controlled exposure should begin as soon as the puppy arrives, in clean, quiet places, away from other dogs' faeces. In the early weeks, what the puppy meets matters more than how far it goes: five calm minutes of sniffing are worth more than thirty on a tight lead. A guide by the Del Piccolo Diavolo kennel, Ostellato, Italy.</p>
+  <p>A Staffordshire Bull Terrier puppy's first walks are measured in minutes, not distance. The usual guideline is about five minutes of formal walking per month of age, twice a day: fifteen minutes at three months, twenty at four. The limit exists because growth plates in this breed close between 12 and 18 months, and repeated impact before then causes damage that only shows years later. Waiting for the end of the vaccinations, at around 14 weeks with our protocol, is not the answer either, because by then the socialisation window, which runs from the third to the twelfth week, has already closed: controlled exposure should begin as soon as the puppy arrives, in clean, quiet places, away from other dogs' faeces. In the early weeks, what the puppy meets matters more than how far it goes: five calm minutes of sniffing are worth more than thirty on a tight lead. A guide by the Del Piccolo Diavolo kennel, Ostellato, Italy.</p>
 
   
   
   <h2>When to start, and the vaccination dilemma</h2>
-  <p>The classic advice is to wait until the <a href="https://wsava.org/global-guidelines/vaccination-guidelines/" title="WSAVA global guidelines" target="_blank" rel="noopener" aria-label="WSAVA global guidelines (opens in a new tab)">vaccination</a> course is complete, at around 16 weeks. The classic advice is also, taken literally, harmful, because the socialisation window closes earlier, around the twelfth week. A puppy that sees nothing of the world until 16 weeks has missed the period in which novelty is accepted most easily, and behavioural problems arising from under-socialisation are a far more common cause of dogs being given up than infectious disease. What "socialised puppy" really means, and how to check it when you visit a breeder, is explained in <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it means">socialised puppies: what it means</a>.</p>
+  <p>The classic advice is to wait until the <a href="https://wsava.org/global-guidelines/vaccination-guidelines/" title="WSAVA global guidelines" target="_blank" rel="noopener" aria-label="WSAVA global guidelines (opens in a new tab)">vaccination</a> course is complete, at around 16 weeks; with the protocol we follow, protection comes earlier, at around 14 weeks. The classic advice is also, taken literally, harmful, because the socialisation window closes earlier, around the twelfth week. A puppy that sees nothing of the world until 16 weeks has missed the period in which novelty is accepted most easily, and behavioural problems arising from under-socialisation are a far more common cause of dogs being given up than infectious disease. What "socialised puppy" really means, and how to check it when you visit a breeder, is explained in <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it means">socialised puppies: what it means</a>.</p>
   <p>The sensible compromise, and the one most veterinary behaviour bodies now recommend, is controlled exposure from the moment the puppy arrives. Carry the puppy in your arms in the street. Let it watch traffic, bicycles, children, market stalls and other people's umbrellas from a safe height. Visit friends whose dogs are vaccinated and healthy. Avoid places where unknown dogs urinate, public parks and veterinary waiting-room floors, until protection is complete.</p>
-  <p>Put simply: exposure to the world, yes, from day one. Exposure to unknown dogs' faeces, no, until 16 weeks.</p>
+  <p>Put simply: exposure to the world, yes, from day one. Exposure to unknown dogs' faeces, no, until the puppy is protected: with our protocol at around 14 weeks.</p>
 
   <h2>Preparing before you go out</h2>
   <p>Work at home first. Let the puppy wear a flat collar and a Y-shaped harness indoors for a few minutes at a time, with something pleasant happening while it is on, until it stops noticing them. Attach a light lead and let it trail while you play. Only then attach the lead and walk 3 metres in the corridor.</p>

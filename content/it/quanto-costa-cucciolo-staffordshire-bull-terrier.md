@@ -62,7 +62,7 @@ Quando acquisti da un allevatore responsabile, il prezzo include:
 </tr>
 <tr>
 <td><strong>Salute</strong></td>
-<td>Prime vaccinazioni con almeno due richiami, sverminazioni, visita veterinaria prima della consegna</td>
+<td>Prima vaccinazione, sverminazioni, visita veterinaria prima della consegna</td>
 <td>Date e timbri sul libretto</td>
 </tr>
 <tr>

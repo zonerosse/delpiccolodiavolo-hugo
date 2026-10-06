@@ -1,7 +1,7 @@
 ---
 title: "Sichere Bewegung für Staffordshire Bull Terrier"
 date: 2024-06-20
-lastmod: 2026-10-05
+lastmod: 2026-10-06
 translationKey: "esercizio"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -79,8 +79,9 @@ custom_content: |
   <ul>
   <li><strong>Wiederholtes Springen:</strong> vom Sofa, Treppen, Hindernisse - zu viel Belastung für Hüften und Ellenbogen</li>
   <li><strong>Lange Läufe:</strong> nie Joggen oder Radfahren mit einem Welpen unter 12 Monaten</li>
-  <li><strong>Häufiges Treppensteigen:</strong> Treppen bis 4-5 Monate einschränken</li>
-  <li><strong>Hartes Zerrspiel:</strong> es kann wachsende Zähne und den Hals schädigen</li>
+  <li><strong>Treppen:</strong> in den ersten 8-9 Monaten wird der Welpe getragen, hinauf wie hinunter</li>
+  <li><strong>Zerrspiele:</strong> keine, mit Lappen, Seilen oder Ähnlichem, bis alle bleibenden Zähne da sind: sie schädigen wachsende Zähne und den Hals</li>
+  <li><strong>Bälle oder Stöcke werfen:</strong> zwingt den Welpen zu unnatürlichen, erzwungenen Sprints</li>
   <li><strong>Bewegung auf heißem Asphalt:</strong> verbrannte Ballen und Überhitzung</li>
   <li><strong>Ein überfüllter Hundeauslauf:</strong> Verletzungsgefahr durch zu wildes Spiel</li>
   </ul>

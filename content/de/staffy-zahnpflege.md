@@ -1,7 +1,7 @@
 ---
 title: "Zahnpflege und Mundhygiene für Staffordshire Bull Terrier"
 date: 2024-06-18
-lastmod: 2026-10-05
+lastmod: 2026-10-06
 translationKey: "denti"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -52,7 +52,7 @@ custom_content: |
 
   <h2>Was geeignet ist und was nicht</h2>
   <p>Die Regel, die wir jeder Familie mitgeben, die einen unserer Welpen aufnimmt, ist einfach: was Sie mit dem Fingernagel nicht eindrücken können und was Sie sich nicht auf das Knie fallen lassen möchten, gehört nicht ins Maul des Hundes. Das schließt Geweihe, Knochen jeder Art einschließlich der verbreitet verkauften tragenden Rinderknochen, Nylonknochen, Hufe und Steine aus.</p>
-  <p>Geeignet sind: Kauartikel aus Gummi, die unter Druck nachgeben, Zahnpflegeartikel mit nachgewiesener abrasiver Wirkung, Seilspielzeug unter Aufsicht und rohe Karotten, sofern die Ernährung es zulässt. Nichts davon ersetzt das Zähneputzen, und jedes Produkt, das damit wirbt, Putzen überflüssig zu machen, übertreibt.</p>
+  <p>Geeignet sind: Kauartikel aus Gummi, die unter Druck nachgeben, Zahnpflegeartikel mit nachgewiesener abrasiver Wirkung und rohe Karotten, sofern die Ernährung es zulässt. Bis der Welpe alle bleibenden Zähne hat, nur weiche Kauartikel, etwa weiche oder mittelharte Kongs, und keine Zerrspiele mit Lappen, Seilen oder Ähnlichem. Nichts davon ersetzt das Zähneputzen, und jedes Produkt, das damit wirbt, Putzen überflüssig zu machen, übertreibt.</p>
 
   <h2>Zähneputzen: das Einzige, was wirklich wirkt</h2>
   <p>Belag mineralisiert innerhalb von etwa 3 Tagen zu Zahnstein. Die mechanische Entfernung davor ist die einzige Maßnahme, die Parodontitis zuverlässig verhindert; alles andere ist Ergänzung.</p>
@@ -75,7 +75,7 @@ custom_content: |
   <p>Von Welpenalter an durchgeführt, kostet das etwa 3 Minuten täglich und schenkt dem Hund Jahre beschwerdefreien Fressens. Mit 7 Jahren begonnen, ist es Schadensbegrenzung.</p>
 
   <h2>Zahnwechsel, Monat für Monat</h2>
-  <p>Die 28 Milchzähne brechen zwischen der dritten und sechsten Woche durch; der Wechsel zum bleibenden Gebiss beginnt mit drei bis fünf Monaten und ist mit sechs oder sieben abgeschlossen, mit 42 Zähnen. Während des Wechsels sind leicht gerötetes, geschwollenes Zahnfleisch, mehr Speichel, ein starkes Kaubedürfnis, etwas Zurückhaltung bei hartem Futter und kleine Zähne in der Wohnung normal. Zur Hilfe: gefrorenes Spielzeug, ein mit Wasser gefüllter und eingefrorener Kong oder ein nasses Tau aus dem Gefrierfach, weiche Gummikauartikel statt harter, und für ein paar Tage Nassfutter, wenn der Welpe Trockenfutter verweigert; harte Zerrspiele meidet man, solange sich die neuen Zähne festigen. Zum Tierarzt, wenn nach sieben Monaten ein Milchzahn noch neben seinem Nachfolger steht, wenn bleibende Zähne schief oder gedrängt kommen, oder bei starker Blutung, Schwellung im Gesicht oder völliger Futterverweigerung.</p>
+  <p>Die 28 Milchzähne brechen zwischen der dritten und sechsten Woche durch; der Wechsel zum bleibenden Gebiss beginnt mit drei bis fünf Monaten und ist mit sechs oder sieben abgeschlossen, mit 42 Zähnen. Während des Wechsels sind leicht gerötetes, geschwollenes Zahnfleisch, mehr Speichel, ein starkes Kaubedürfnis, etwas Zurückhaltung bei hartem Futter und kleine Zähne in der Wohnung normal. Zur Hilfe: gefrorenes Spielzeug, ein mit Wasser gefüllter und eingefrorener Kong, weiche Gummikauartikel statt harter, und für ein paar Tage Nassfutter, wenn der Welpe Trockenfutter verweigert; bis alle bleibenden Zähne da sind, keine Zerrspiele mit Lappen, Seilen oder Ähnlichem. Zum Tierarzt, wenn nach sieben Monaten ein Milchzahn noch neben seinem Nachfolger steht, wenn bleibende Zähne schief oder gedrängt kommen, oder bei starker Blutung, Schwellung im Gesicht oder völliger Futterverweigerung.</p>
 
   <h2>Zähneputzen lernen, vom Welpenalter an</h2>
   <p><strong>Acht bis zwölf Wochen: Anfassen.</strong> In den ersten Tagen Fang und Lefzen beim Streicheln sanft berühren und sofort belohnen, einige Sekunden, drei- oder viermal am Tag. Dann die Oberlippe zwei bis drei Sekunden anheben und die Vorderzähne zeigen, bis zu fünf oder zehn Sekunden steigern. In der zweiten Woche die Vorderzähne mit feuchter Gaze oder einem Silikon-Fingerling sanft abreiben; in der dritten und vierten Woche bis zu den hinteren Prämolaren ausdehnen, fünfzehn bis zwanzig Sekunden je Seite.</p>

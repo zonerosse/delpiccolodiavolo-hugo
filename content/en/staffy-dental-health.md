@@ -1,7 +1,7 @@
 ---
 title: "Dental Health and Oral Hygiene for Staffordshire Bull Terrier"
 date: 2024-06-18
-lastmod: 2026-10-05
+lastmod: 2026-10-06
 titleSeo: "Dental health for the Staffordshire Bull Terrier"
 translationKey: "denti"
 articolo: true
@@ -60,7 +60,7 @@ custom_content: |
 
   <h2>What to give and what to avoid</h2>
   <p>The rule we give every family that takes one of our puppies is simple: if you cannot make a fingernail mark in it, and you would not want it dropped on your knee, do not give it to the dog. That excludes antlers, bones of any kind including the widely sold weight-bearing beef bones, nylon bones, hooves and stones.</p>
-  <p>Appropriate options: rubber chews of the type that flex under pressure, dental chews with a proven abrasive action, rope toys used under supervision, and raw carrots for dogs whose diet accommodates them. None of these replaces brushing, and any product marketed as making brushing unnecessary is overstating its case.</p>
+  <p>Appropriate options: rubber chews of the type that flex under pressure, dental chews with a proven abrasive action, and raw carrots for dogs whose diet accommodates them. Until the puppy has all its adult teeth, only soft chews, such as soft or medium Kongs, and no tug-of-war with rags, ropes or similar. None of these replaces brushing, and any product marketed as making brushing unnecessary is overstating its case.</p>
 
   <h2>Brushing: the only thing that genuinely works</h2>
   <p>Plaque mineralises into tartar within roughly 3 days. Mechanical removal before that happens is the only intervention that reliably prevents periodontal disease, and everything else is supplementary.</p>
@@ -85,7 +85,7 @@ custom_content: |
   <p>Raw feeding, done properly, tends to produce visibly cleaner teeth, largely because of the mechanical action of appropriate raw meaty bones. It also carries risks — fractures from weight-bearing bones, obstruction, bacterial handling — and it should be discussed with a veterinarian rather than adopted from a forum. Whichever diet you choose, the effect on dental health is secondary to brushing.</p>
 
   <h2>Teething, month by month</h2>
-  <p>The 28 milk teeth erupt between three and six weeks; the change to the permanent set begins at three to five months and is complete at six or seven, with 42 teeth. During the change it is normal to see slightly red, swollen gums, more drooling, a strong urge to chew, some reluctance with hard food, and small teeth found around the house. To help, offer frozen toys, a Kong filled with water and frozen, or a wet rope put in the freezer, soft rubber chews rather than hard ones, and wet food for a few days if the puppy refuses kibble; avoid hard tug games while the new teeth are settling. See the vet if a milk tooth is still in place next to its permanent replacement after seven months, if permanent teeth come in crooked or crowded, or if you see heavy bleeding, facial swelling or a complete refusal to eat.</p>
+  <p>The 28 milk teeth erupt between three and six weeks; the change to the permanent set begins at three to five months and is complete at six or seven, with 42 teeth. During the change it is normal to see slightly red, swollen gums, more drooling, a strong urge to chew, some reluctance with hard food, and small teeth found around the house. To help, offer frozen toys, a Kong filled with water and frozen, soft rubber chews rather than hard ones, and wet food for a few days if the puppy refuses kibble; until all the adult teeth are in, no tug-of-war with rags, ropes or similar. See the vet if a milk tooth is still in place next to its permanent replacement after seven months, if permanent teeth come in crooked or crowded, or if you see heavy bleeding, facial swelling or a complete refusal to eat.</p>
 
   <h2>Teaching brushing, from puppyhood</h2>
   <p><strong>Eight to twelve weeks: handling.</strong> For the first few days, touch the muzzle and lips gently while stroking the puppy, and reward at once, a few seconds three or four times a day. Then lift the upper lip for two or three seconds to show the front teeth, building up to five or ten. In the second week, rub the front teeth gently with damp gauze or a silicone finger brush; by the third and fourth weeks, extend to the premolars at the back, fifteen to twenty seconds a side.</p>

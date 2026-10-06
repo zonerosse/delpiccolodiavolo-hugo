@@ -1,7 +1,7 @@
 ---
 title: "Igiene Orale e Denti Staffordshire Bull Terrier"
 date: 2024-06-18
-lastmod: 2026-10-05
+lastmod: 2026-10-06
 translationKey: "denti"
 articolo: true
 image: "/images/blog/salute-2.webp"
@@ -58,7 +58,7 @@ custom_content: |
 
   <h2>Cosa dare e cosa evitare</h2>
   <p>La regola che diamo a ogni famiglia che prende uno dei nostri cuccioli è semplice: se non ci lasci il segno con l'unghia, e non vorresti che ti cadesse su un ginocchio, non darlo al cane. Questo esclude corna, ossa di qualsiasi tipo, comprese le ossa di bovino da carico che si vendono ovunque, ossa di nylon, zoccoli e sassi.</p>
-  <p>Le scelte adatte: masticativi in gomma di quelli che cedono alla pressione, snack dentali con un'azione abrasiva dimostrata, corde da masticare usate sotto sorveglianza, e carote crude per i cani la cui alimentazione lo permette. Nessuno di questi sostituisce lo spazzolino, e qualsiasi prodotto che promette di rendere inutile lo spazzolino sta esagerando.</p>
+  <p>Le scelte adatte: masticativi in gomma di quelli che cedono alla pressione, snack dentali con un'azione abrasiva dimostrata e carote crude per i cani la cui alimentazione lo permette. Finché il cucciolo non ha cambiato tutti i denti, solo masticativi morbidi, come i Kong morbidi o di media durezza, e niente tira e molla con stracci, corde o simili. Nessuno di questi sostituisce lo spazzolino, e qualsiasi prodotto che promette di rendere inutile lo spazzolino sta esagerando.</p>
 
   <h2>Lo spazzolino: l'unica cosa che funziona davvero</h2>
   <p>La placca si mineralizza in tartaro in circa tre giorni. Toglierla meccanicamente prima che succeda è l'unico intervento che previene in modo affidabile la malattia parodontale, e tutto il resto è un complemento.</p>
@@ -83,7 +83,7 @@ custom_content: |
   <p>L'alimentazione a crudo, fatta bene, tende a dare denti visibilmente più puliti, soprattutto per l'azione meccanica delle ossa carnose crude adatte. Ha però anche dei rischi, come fratture da ossa troppo dure, occlusioni e la gestione dei batteri, e va discussa con il veterinario, non presa da un forum. Qualunque alimentazione si scelga, il suo effetto sulla salute dei denti viene dopo lo spazzolino.</p>
 
   <h2>La dentizione, mese per mese</h2>
-  <p>I 28 denti da latte spuntano fra le tre e le sei settimane; il cambio con i denti definitivi comincia fra i tre e i cinque mesi e finisce a sei o sette, con 42 denti. Durante il cambio è normale vedere gengive un po' rosse e gonfie, più bava, una gran voglia di masticare, qualche difficoltà con il cibo duro, e dentini trovati in giro per casa. Per aiutarlo: giochi congelati, un Kong riempito d'acqua e messo in freezer, o una corda bagnata e congelata, masticativi in gomma morbida invece che duri, e cibo umido per qualche giorno se rifiuta le crocchette; mentre i denti nuovi si assestano, niente giochi di tira e molla bruschi. Dal veterinario se dopo i sette mesi un dente da latte è ancora al suo posto accanto al definitivo, se i denti definitivi crescono storti o affollati, o in caso di sanguinamento abbondante, gonfiore del muso o rifiuto completo del cibo.</p>
+  <p>I 28 denti da latte spuntano fra le tre e le sei settimane; il cambio con i denti definitivi comincia fra i tre e i cinque mesi e finisce a sei o sette, con 42 denti. Durante il cambio è normale vedere gengive un po' rosse e gonfie, più bava, una gran voglia di masticare, qualche difficoltà con il cibo duro, e dentini trovati in giro per casa. Per aiutarlo: giochi congelati, un Kong riempito d'acqua e messo in freezer, masticativi in gomma morbida invece che duri, e cibo umido per qualche giorno se rifiuta le crocchette; fino al cambio completo dei denti, niente tira e molla con stracci, corde o simili. Dal veterinario se dopo i sette mesi un dente da latte è ancora al suo posto accanto al definitivo, se i denti definitivi crescono storti o affollati, o in caso di sanguinamento abbondante, gonfiore del muso o rifiuto completo del cibo.</p>
 
   <h2>Insegnare lo spazzolino, da cucciolo</h2>
   <p><strong>Dalle otto alle dodici settimane: abituarlo al contatto.</strong> Nei primi giorni si tocca piano il muso e le labbra mentre lo si accarezza, con un premio subito, pochi secondi tre o quattro volte al giorno. Poi si solleva il labbro superiore per due o tre secondi, mostrando i denti davanti, fino ad arrivare a cinque-dieci. Nella seconda settimana si strofinano piano i denti davanti con una garza umida o uno spazzolino da dito in silicone; fra la terza e la quarta si arriva ai premolari in fondo, quindici-venti secondi per lato.</p>

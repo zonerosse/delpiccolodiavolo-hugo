@@ -62,7 +62,7 @@ Beim Kauf von einer verantwortungsvollen Zucht sind enthalten:
 </tr>
 <tr>
 <td><strong>Gesundheit</strong></td>
-<td>Erste Impfungen mit mindestens zwei Auffrischungen, Entwurmungen, tierärztliche Untersuchung vor der Übergabe</td>
+<td>Erste Impfung, Entwurmungen, tierärztliche Untersuchung vor der Übergabe</td>
 <td>Daten und Stempel im Impfpass</td>
 </tr>
 <tr>

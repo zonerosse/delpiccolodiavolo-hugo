@@ -2,7 +2,7 @@
 title: "Puppies: First Vaccinations"
 date: 2025-06-10
 titleSeo: "Puppy first vaccinations: schedule and boosters"
-lastmod: 2026-10-05
+lastmod: 2026-10-06
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/salute.webp"
@@ -46,7 +46,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
   
-  <p>A Staffordshire Bull Terrier puppy has its first vaccination at 6 to 8 weeks, before leaving the breeder, against distemper, hepatitis and parvovirus. The second follows at 10 to 12 weeks, usually adding leptospirosis, and the third at 14 to 16 weeks completes the primary course, with a first booster at 12 months. Immunity builds over one to two weeks after the last injection, so the puppy is properly protected at around 16 to 18 weeks. The injections are close together because maternal antibodies protect the puppy early on but interfere with the vaccine, and when they fade varies from puppy to puppy. Rabies vaccination can be given from 12 weeks and becomes valid for travel only 21 days later. Until the course is complete, avoid high-risk places, but do not stop socialisation. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>The vaccination protocol we follow for Staffordshire Bull Terrier puppies is simple: the first combined vaccine at 6 to 8 weeks, still at the breeder's, a second dose at three months, then a booster one year later, unless your own veterinarian advises otherwise. Some vets prefer to add a dose at around 16 weeks: in that case, follow the vet, who knows the area and the dog. Protection comes one to two weeks after the last injection, not at the moment of the needle. The doses are spaced because maternal antibodies protect the puppy early on but interfere with the vaccine. Rabies vaccination can be given from 12 weeks, is compulsory for travel abroad and becomes valid only 21 days later. Until the puppy is protected, avoid high-risk places, but do not stop socialisation. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
   
   
@@ -55,7 +55,7 @@ custom_content: |
   <p>Parvovirus deserves particular attention because it survives in the environment for months and is resistant to most household disinfectants. A garden where an infected dog has been can remain contagious long after that dog has gone, which is the reason for the caution about where an unvaccinated puppy sets its feet.</p>
 
   <h2>The schedule</h2>
-  <p>Most protocols in Italy follow the same shape. The first injection is given at 6 to 8 weeks, before the puppy leaves the breeder, and covers distemper, hepatitis and parvovirus. The second follows at 10 to 12 weeks, usually adding leptospirosis. The third, at 14 to 16 weeks, completes the primary course. A first booster is given at 12 months, and thereafter the interval depends on the vaccine and on your veterinarian's assessment.</p>
+  <p>This is the protocol we follow. The first injection is given at 6 to 8 weeks, before the puppy leaves the breeder, and covers distemper, hepatitis and parvovirus. The second is given at three months, usually adding leptospirosis. Then a booster one year later, and from there the interval depends on the vaccine and on your veterinarian's assessment. Your own vet may follow a different protocol, for example with an extra dose at around 16 weeks: in that case, the vet's advice applies.</p>
 
   <table>
   <thead>
@@ -63,14 +63,13 @@ custom_content: |
   </thead>
   <tbody>
   <tr><td><strong>6-8 weeks</strong></td><td>First dose of the combined vaccine: distemper, infectious hepatitis, parvovirus</td><td>Given at the breeder's, before the puppy leaves</td></tr>
-  <tr><td><strong>10-12 weeks</strong></td><td>Second dose, usually adding leptospirosis</td><td>The interval between doses must not be shortened</td></tr>
+  <tr><td><strong>3 months</strong></td><td>Second dose, usually adding leptospirosis</td><td>Unless your own vet advises otherwise</td></tr>
   <tr><td><strong>From 12 weeks</strong></td><td>Rabies, compulsory for travel within the European Union</td><td>Valid 21 days later, recorded in the pet passport</td></tr>
-  <tr><td><strong>14-16 weeks</strong></td><td>Third dose, completing the primary course</td><td>If a dose is much delayed, the vet may repeat part of the course</td></tr>
-  <tr><td><strong>16-18 weeks</strong></td><td>No injection: protection arrives</td><td>Immunity develops 1 to 2 weeks after the last dose</td></tr>
-  <tr><td><strong>12 months</strong></td><td>First booster</td><td>Then the interval depends on the vaccine and on the vet</td></tr>
+  <tr><td><strong>About 14 weeks</strong></td><td>No injection: protection arrives</td><td>Immunity develops 1 to 2 weeks after the last dose</td></tr>
+  <tr><td><strong>One year later</strong></td><td>Booster</td><td>Then the interval depends on the vaccine and on the vet</td></tr>
   </tbody>
   </table>
-  <p>Full protection is not immediate. Immunity develops over 1 to 2 weeks after the final injection of the course, which means a puppy is not properly protected until roughly 16 to 18 weeks of age, not at the moment of the last needle.</p>
+  <p>Full protection is not immediate. Immunity develops over 1 to 2 weeks after the last injection, which means that with our protocol a puppy is properly protected at around 14 weeks of age, not at the moment of the last needle.</p>
   <p>Two details matter and are often missed. First, the interval between doses should not be shortened, because maternal antibodies interfere with the vaccine and the schedule is designed around their decline. Second, if a dose is significantly delayed, the veterinarian may need to restart part of the course rather than simply continuing.</p>
 
   <h2>Rabies and travel</h2>
@@ -86,7 +85,7 @@ custom_content: |
   <p>What is not normal, and requires immediate veterinary attention: swelling of the face or muzzle, hives, repeated vomiting, difficulty breathing, or collapse. These are signs of an allergic reaction, they usually appear within an hour, and they are the reason it is sensible to stay near the practice for a short while after a first vaccination rather than driving straight home.</p>
 
   <h2>Where the puppy can and cannot go meanwhile</h2>
-  <p>This is the practical question that matters most, because the socialisation window closes around the twelfth week, about a month before protection is complete. Waiting passively until then costs more in behaviour than it saves in infection risk.</p>
+  <p>This is the practical question that matters most, because the socialisation window closes around the twelfth week, a couple of weeks before protection is complete. Waiting passively until then costs more in behaviour than it saves in infection risk.</p>
   <p>Safe before the course is complete: carrying the puppy in your arms in the street, visiting the homes of friends with vaccinated healthy dogs, your own garden if no unvaccinated dog has been there, and car journeys to see the world from a window.</p>
   <p>To avoid: public parks and dog areas, pavements where many unknown dogs urinate, the floor of the veterinary waiting room, and contact with dogs of unknown vaccination status.</p>
 
