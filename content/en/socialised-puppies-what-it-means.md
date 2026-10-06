@@ -166,6 +166,6 @@ custom_content: |
   <section class="cta-section">
   <h2>Would you like to see where they grow up?</h2>
   <p>The Del Piccolo Diavolo kennel receives visitors by appointment in Ostellato, province of Ferrara. You see the house, the courtyard and the mothers.</p>
-  <a href="https://wa.me/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20to%20see%20where%20the%20puppies%20grow%20up" class="btn" title="Message us on WhatsApp" target="_blank" rel="noopener" aria-label="Message us on WhatsApp to arrange a visit (opens in a new tab)">Arrange a visit</a>
+  <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20to%20see%20where%20the%20puppies%20grow%20up" class="btn" title="Message us on WhatsApp" target="_blank" rel="noopener" aria-label="Message us on WhatsApp to arrange a visit (opens in a new tab)">Arrange a visit</a>
   </section>
 ---

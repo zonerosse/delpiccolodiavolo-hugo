@@ -36,7 +36,7 @@ custom_content: |
   
   <div class="faq-intro">
   <p>Willkommen im FAQ-Bereich der <strong>Zucht Del Piccolo Diavolo</strong>.</p>
-  <p>Wenn Sie Fragen haben, die hier nicht beantwortet werden, <a href="https://wa.me/393924635584" title="Kontaktieren Sie uns auf WhatsApp">kontaktieren Sie uns auf WhatsApp</a>.</p>
+  <p>Wenn Sie Fragen haben, die hier nicht beantwortet werden, <a href="/wa/393924635584" title="Kontaktieren Sie uns auf WhatsApp">kontaktieren Sie uns auf WhatsApp</a>.</p>
   </div>
   
   <div class="faq-container">
@@ -279,6 +279,6 @@ custom_content: |
   <section class="dark-section">
   <h2>Haben Sie weitere Fragen?</h2>
   <p>Wir sind immer bereit, alle Fragen zum Staffordshire Bull Terrier zu beantworten.</p>
-  <a href="https://wa.me/393924635584" class="btn btn-gold" title="Auf WhatsApp schreiben">Auf WhatsApp Schreiben</a>
+  <a href="/wa/393924635584" class="btn btn-gold" title="Auf WhatsApp schreiben">Auf WhatsApp Schreiben</a>
   </section>
 ---

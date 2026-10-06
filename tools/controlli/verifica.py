@@ -351,6 +351,8 @@ if r.returncode == 0:
                     if not u or u.startswith("#") or pr.scheme in ("mailto", "tel", "data", "javascript", "whatsapp"): continue
                     if pr.netloc and DOMINIO not in pr.netloc: continue
                     percorso = pr.path if pr.path.startswith("/") else urljoin(url, pr.path)
+                    # /wa/<numero> = tasto WhatsApp: non è una pagina ma la funzione functions/wa/ (conta il tocco, poi wa.me)
+                    if re.match(r"^/wa/\d+$", percorso): continue
                     if not esiste(percorso):
                         segnala("link", "ERRORE", "", url, u)
             if n.tag == "img" and "alt" not in n.attrs:

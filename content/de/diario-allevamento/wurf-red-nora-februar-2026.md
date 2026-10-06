@@ -119,4 +119,4 @@ Nora (L2HGA + HC + DM)
 
 Dieser Wurf ist vollständig. Für Informationen über die Zucht, unsere Zuchthunde oder die Laborzertifikate schreiben Sie uns gerne.
 
-<p style="margin-top:2rem"><a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20h%C3%A4tte%20gerne%20Informationen%20zur%20Zucht" class="btn btn-primary">Kontakt über WhatsApp →</a></p>
+<p style="margin-top:2rem"><a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20h%C3%A4tte%20gerne%20Informationen%20zur%20Zucht" class="btn btn-primary">Kontakt über WhatsApp →</a></p>

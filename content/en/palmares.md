@@ -366,6 +366,6 @@ custom_content: |
   <p>Our puppies are born from tested and titled parents. Contact us to learn about upcoming litters.</p>
 
   <p>Titles are only part of it: what these dogs' lives look like today is told in <a href="/en/staffordshire-family-life-stories/" title="Family stories">the family stories</a>.</p>
-  <a href="https://wa.me/393924635584?text=Hello%20Paolo%2C%20I%20am%20interested%20in%20champion%20line%20puppies" class="btn" title="Write us on WhatsApp">Write on WhatsApp</a>
+  <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20am%20interested%20in%20champion%20line%20puppies" class="btn" title="Write us on WhatsApp">Write on WhatsApp</a>
   </section>
 ---

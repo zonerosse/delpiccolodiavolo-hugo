@@ -19,7 +19,7 @@ custom_content: |
   <p class="hero-subtitle">Im Herzen Norditaliens</p>
   <p class="hero-description">Gut erreichbar aus der Emilia-Romagna, Venetien, der Lombardei und der Toskana. Besuche nur nach Vereinbarung.</p>
   <div class="hero-actions">
-  <a href="https://wa.me/393924635584" class="btn btn-primary" title="Schreiben Sie uns auf WhatsApp">Kontakt</a>
+  <a href="/wa/393924635584" class="btn btn-primary" title="Schreiben Sie uns auf WhatsApp">Kontakt</a>
   <a href="tel:+393924635584" class="btn btn-ghost" title="Rufen Sie uns an">Anrufen</a>
   </div>
   </div>
@@ -42,7 +42,7 @@ custom_content: |
   <svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>
   <h3>WhatsApp</h3>
   <p>Der schnellste Weg</p>
-  <a href="https://wa.me/393924635584" target="_blank" rel="noopener" title="Schreiben Sie uns auf WhatsApp" aria-label="Schreiben Sie uns auf WhatsApp unter +39 392 463 5584 (wird in einem neuen Tab geöffnet)">+39 392 463 5584</a>
+  <a href="/wa/393924635584" target="_blank" rel="noopener" title="Schreiben Sie uns auf WhatsApp" aria-label="Schreiben Sie uns auf WhatsApp unter +39 392 463 5584 (wird in einem neuen Tab geöffnet)">+39 392 463 5584</a>
   </div>
   
   <div class="contact-item">
@@ -246,6 +246,6 @@ custom_content: |
   <section class="dark-section">
   <h2>Wir erwarten Sie</h2>
   <p>Lernen Sie unsere Staffordshire Bull Terrier und die Umgebung kennen, in der sie aufwachsen. Ein Besuch ist der erste Schritt zu einer informierten Entscheidung.</p>
-  <a href="https://wa.me/393924635584" class="btn" title="Einen Besuch auf WhatsApp vereinbaren">Auf WhatsApp vereinbaren</a>
+  <a href="/wa/393924635584" class="btn" title="Einen Besuch auf WhatsApp vereinbaren">Auf WhatsApp vereinbaren</a>
   </section>
 ---

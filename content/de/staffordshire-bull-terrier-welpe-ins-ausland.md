@@ -33,7 +33,7 @@ custom_content: |
   </div>
   <p class="hero-description">Ein Welpe für eine Familie in einem anderen europäischen Land reist mit etwa vier Monaten, nicht mit zwei. Nötig sind Tollwutimpfung, EU-Heimtierausweis, TRACES-Gesundheitszeugnis und ENCI-Exportstammbaum. So läuft es wirklich ab.</p>
   <div class="hero-actions">
-  <a class="btn btn-primary" href="https://wa.me/393924635584" target="_blank" rel="noopener" aria-label="Schreiben Sie mir (wird in einem neuen Tab geöffnet)">Schreiben Sie mir</a>
+  <a class="btn btn-primary" href="/wa/393924635584" target="_blank" rel="noopener" aria-label="Schreiben Sie mir (wird in einem neuen Tab geöffnet)">Schreiben Sie mir</a>
   <a class="btn btn-ghost" href="#contenuto">So funktioniert es</a>
   </div>
   <p class="hero-trust">Seit 2013 &middot; ENCI-Stammbaum &middot; Italiano, English, Deutsch</p>
@@ -117,6 +117,6 @@ custom_content: |
   <section class="cta-section">
   <h2>Fragen zur Vermittlung ins Ausland?</h2>
   <p>Schreiben Sie mir ruhig in Ihrer Sprache — das bekomme ich hin. Wenn Sie lieber sprechen möchten: meine Tochter Sara spricht Englisch, Deutsch und Spanisch, <strong>+39 377 689 6955</strong>.</p>
-  <a class="btn btn-light" href="https://wa.me/393924635584" target="_blank" rel="noopener" aria-label="Auf WhatsApp schreiben (wird in einem neuen Tab geöffnet)">Auf WhatsApp schreiben</a>
+  <a class="btn btn-light" href="/wa/393924635584" target="_blank" rel="noopener" aria-label="Auf WhatsApp schreiben (wird in einem neuen Tab geöffnet)">Auf WhatsApp schreiben</a>
   </section>
 ---

@@ -183,6 +183,6 @@ custom_content: |
   <section class="dark-section">
   <h2>Questions About Privacy?</h2>
   <p>Contact us for any clarification regarding the processing of your personal data.</p>
-  <a href="https://wa.me/393924635584" class="btn" title="Write us on WhatsApp">Write on WhatsApp</a>
+  <a href="/wa/393924635584" class="btn" title="Write us on WhatsApp">Write on WhatsApp</a>
   </section>
 ---

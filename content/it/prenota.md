@@ -37,7 +37,7 @@ custom_content: |
 
   <!--PRENOTA-->
 
-  <p style="margin-top:2rem;color:#7a6a58;font-size:.9rem;line-height:1.6">Preferisci scrivere direttamente? <a href="https://wa.me/393924635584" target="_blank" rel="noopener" style="color:#8b5a2b;font-weight:600" aria-label="Scrivimi su WhatsApp (si apre in una nuova scheda)">WhatsApp +39 392 463 5584</a><br>
+  <p style="margin-top:2rem;color:#7a6a58;font-size:.9rem;line-height:1.6">Preferisci scrivere direttamente? <a href="/wa/393924635584" target="_blank" rel="noopener" style="color:#8b5a2b;font-weight:600" aria-label="Scrivimi su WhatsApp (si apre in una nuova scheda)">WhatsApp +39 392 463 5584</a><br>
   Rather write directly? · Lieber direkt schreiben?</p>
 
   </div>

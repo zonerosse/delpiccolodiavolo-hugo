@@ -1,7 +1,7 @@
 ---
 title: "Quanto Costa un Cucciolo di Staffordshire Bull Terrier nel 2026"
 date: 2026-01-25
-lastmod: 2026-10-05
+lastmod: 2026-10-06
 articolo: true
 translationKey: "quanto-costa"
 image: "/images/blog/scontrino-farmaci-cucciolata.webp"
@@ -264,4 +264,4 @@ Scegli con la testa, non col portafoglio. Se vuoi vedere come lavoriamo, visita 
 
 *Leggi anche: <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento Staffordshire Bull Terrier">come scegliere un allevamento serio</a>.*
 
-*Vuoi saperne di più sui nostri cuccioli e sulle prossime cucciolate? [Scrivici su WhatsApp](https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20informazioni%20sui%20cuccioli%20e%20sui%20prezzi) - ti raccontiamo come lavoriamo e rispondiamo a tutte le tue domande.*
+*Vuoi saperne di più sui nostri cuccioli e sulle prossime cucciolate? [Scrivici su WhatsApp](/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20informazioni%20sui%20cuccioli%20e%20sui%20prezzi) - ti raccontiamo come lavoriamo e rispondiamo a tutte le tue domande.*

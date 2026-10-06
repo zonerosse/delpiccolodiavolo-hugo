@@ -335,6 +335,6 @@ custom_content: |
   <section class="dark-section">
   <h2>Möchten Sie uns kennenlernen?</h2>
   <p>Kontaktieren Sie uns unverbindlich für Informationen über unsere Welpen.</p>
-  <a href="https://wa.me/393924635584" class="btn btn-light" title="Auf WhatsApp schreiben">Auf WhatsApp Schreiben</a>
+  <a href="/wa/393924635584" class="btn btn-light" title="Auf WhatsApp schreiben">Auf WhatsApp Schreiben</a>
   </section>
 ---

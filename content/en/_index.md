@@ -318,6 +318,6 @@ custom_content: |
     <section class="cta-section">
   <h2>Get in touch to meet our Staffies in person</h2>
   <p>Write to us for a no-obligation chat. We are here to answer all your questions.</p>
-  <a href="https://wa.me/393924635584?text=Hello%20Paolo%2C%20I%20write%20from%20the%20Del%20Piccolo%20Diavolo%20website" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Write to us on WhatsApp" aria-label="Contact us on WhatsApp for information">Write on WhatsApp</a>
+  <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20write%20from%20the%20Del%20Piccolo%20Diavolo%20website" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Write to us on WhatsApp" aria-label="Contact us on WhatsApp for information">Write on WhatsApp</a>
   </section>
 ---

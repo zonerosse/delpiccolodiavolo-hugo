@@ -198,4 +198,4 @@ Bilquis — Doppler echocardio
 
 This litter is complete. For information about the kennel, our breeding dogs or the laboratory certificates, feel free to write to us.
 
-<p style="margin-top:2rem"><a href="https://wa.me/393924635584?text=Hi%20Paolo%2C%20I%20would%20like%20information%20about%20the%20kennel" class="btn btn-primary">Contact us on WhatsApp →</a></p>
+<p style="margin-top:2rem"><a href="/wa/393924635584?text=Hi%20Paolo%2C%20I%20would%20like%20information%20about%20the%20kennel" class="btn btn-primary">Contact us on WhatsApp →</a></p>

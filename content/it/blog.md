@@ -442,6 +442,6 @@ custom_content: |
   <section class="dark-section">
   <h2>Hai Domande?</h2>
   <p>Se hai dubbi su un argomento o vuoi suggerire un tema per il blog, contattaci.</p>
-  <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20ho%20una%20domanda%20sul%20blog" class="btn btn-light" title="Scrivici su WhatsApp per domande sul blog">Scrivici su WhatsApp</a>
+  <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20ho%20una%20domanda%20sul%20blog" class="btn btn-light" title="Scrivici su WhatsApp per domande sul blog">Scrivici su WhatsApp</a>
   </section>
 ---

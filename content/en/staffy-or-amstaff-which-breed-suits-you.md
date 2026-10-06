@@ -93,7 +93,7 @@ fonti_motivo: "This page sets out the test the Del Piccolo Diavolo kennel uses w
 <section class="dark-section">
 <h2>Would You Like to Meet Our Staffies?</h2>
 <p>Come and visit the kennel and see the character of the Staffordshire Bull Terrier for yourself.</p>
-<a href="https://wa.me/393924635584?text=Hi%20Paolo%2C%20I%27d%20like%20to%20visit%20the%20kennel" class="btn btn-light" title="Contact us on WhatsApp">Contact Us on WhatsApp</a>
+<a href="/wa/393924635584?text=Hi%20Paolo%2C%20I%27d%20like%20to%20visit%20the%20kennel" class="btn btn-light" title="Contact us on WhatsApp">Contact Us on WhatsApp</a>
 </section>
 
 <p class="fonti">Sources: This page sets out the test the Del Piccolo Diavolo kennel uses with people asking for a puppy: it is the breeder's own questions and direct experience, not data from the literature. The measurements of the two breeds come from the FCI standards of the <a href="https://www.fci.be/en/nomenclature/STAFFORDSHIRE-BULL-TERRIER-76.html" target="_blank" rel="noopener" title="FCI standard no. 76" aria-label="FCI standard no. 76, Staffordshire Bull Terrier (opens in a new tab)">Staffordshire Bull Terrier</a> and the <a href="https://www.fci.be/en/nomenclature/AMERICAN-STAFFORDSHIRE-TERRIER-286.html" target="_blank" rel="noopener" title="FCI standard no. 286" aria-label="FCI standard no. 286, American Staffordshire Terrier (opens in a new tab)">American Staffordshire Terrier</a>.</p>

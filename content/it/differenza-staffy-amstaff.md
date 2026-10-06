@@ -93,7 +93,7 @@ fonti_motivo: "Questa pagina riporta il test che l'allevamento Del Piccolo Diavo
 <section class="dark-section">
 <h2>Vuoi Conoscere i Nostri Staffy?</h2>
 <p>Vieni a trovarci in allevamento e scopri di persona il carattere unico dello Staffordshire Bull Terrier.</p>
-<a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20visitare%20l%27allevamento" class="btn btn-light" title="Contattaci su WhatsApp">Contattaci su WhatsApp</a>
+<a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20visitare%20l%27allevamento" class="btn btn-light" title="Contattaci su WhatsApp">Contattaci su WhatsApp</a>
 </section>
 
 <p class="fonti">Fonti: Questa pagina riporta il test che l'allevamento Del Piccolo Diavolo usa con chi chiede un cucciolo: sono domande ed esperienza diretta dell'allevatore, non dati di letteratura. Le misure delle due razze vengono dagli standard FCI dello <a href="https://www.fci.be/en/nomenclature/STAFFORDSHIRE-BULL-TERRIER-76.html" target="_blank" rel="noopener" title="Standard FCI n. 76" aria-label="Standard FCI n. 76, Staffordshire Bull Terrier (si apre in una nuova scheda)">Staffordshire Bull Terrier</a> e dell'<a href="https://www.fci.be/en/nomenclature/AMERICAN-STAFFORDSHIRE-TERRIER-286.html" target="_blank" rel="noopener" title="Standard FCI n. 286" aria-label="Standard FCI n. 286, American Staffordshire Terrier (si apre in una nuova scheda)">American Staffordshire Terrier</a>.</p>

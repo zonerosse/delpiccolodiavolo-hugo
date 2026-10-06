@@ -67,7 +67,7 @@
     {{ $l := .Site.Language.Lang }}
     <h2>{{ if eq $l "en" }}Need more info?{{ else if eq $l "de" }}Mehr Informationen?{{ else }}Vuoi Info sui Cuccioli?{{ end }}</h2>
     <p>{{ if eq $l "en" }}Contact us on WhatsApp for information about available litters.{{ else if eq $l "de" }}Schreiben Sie uns auf WhatsApp für Informationen zu verfügbaren Würfen.{{ else }}Chiamaci o scrivici su WhatsApp per informazioni sulle cucciolate disponibili.{{ end }}</p>
-    <a href="https://wa.me/{{ .Site.Params.whatsapp }}?text={{ T "whatsapp_text" | urlquery }}" class="btn" title="WhatsApp">{{ if eq $l "en" }}Contact us on WhatsApp{{ else if eq $l "de" }}Auf WhatsApp schreiben{{ else }}Scrivici su WhatsApp{{ end }}</a>
+    <a href="/wa/{{ .Site.Params.whatsapp }}?text={{ T "whatsapp_text" | urlquery }}" class="btn" title="WhatsApp">{{ if eq $l "en" }}Contact us on WhatsApp{{ else if eq $l "de" }}Auf WhatsApp schreiben{{ else }}Scrivici su WhatsApp{{ end }}</a>
   </section>
 {{ end }}
 

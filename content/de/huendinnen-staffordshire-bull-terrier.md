@@ -19,7 +19,7 @@ custom_content: |
   <p class="hero-subtitle">DNA getestet, frei von L2HGA und HC (HSF4)</p>
   <p class="hero-description">Unsere Zuchthündinnen werden nach Gesundheit, Charakter und Rassetypizität ausgewählt. Alle genetisch getestet und konform mit dem <a href="/de/staffy-rassestandard/" title="Rassestandard des Staffordshire Bull Terrier">Rassestandard</a>. Unsere aktiven Zuchthündinnen Bilquis und Croi Olc sind außerdem frei von degenerativer Myelopathie (Gen SOD1).</p>
   <div class="hero-actions">
-  <a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20möchte%20Infos%20zu%20den%20Hündinnen" class="btn btn-primary" title="Kontaktieren Sie uns auf WhatsApp">Kontakt</a>
+  <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20möchte%20Infos%20zu%20den%20Hündinnen" class="btn btn-primary" title="Kontaktieren Sie uns auf WhatsApp">Kontakt</a>
   <a href="/de/rueden-staffordshire-bull-terrier/" class="btn btn-ghost" title="Unsere Rüden sehen">Rüden Sehen</a>
   </div>
   </div>
@@ -276,6 +276,6 @@ custom_content: |
   <section class="cta-section">
   <h2>Möchten Sie Infos über unsere Hündinnen?</h2>
   <p>Rufen Sie uns an oder schreiben Sie uns auf WhatsApp für Informationen über unsere Zuchthündinnen.</p>
-  <a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20möchte%20Infos%20über%20Staffordshire%20Bull%20Terrier%20Hündinnen" class="btn" title="Schreiben Sie uns auf WhatsApp">Auf WhatsApp Schreiben</a>
+  <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20möchte%20Infos%20über%20Staffordshire%20Bull%20Terrier%20Hündinnen" class="btn" title="Schreiben Sie uns auf WhatsApp">Auf WhatsApp Schreiben</a>
   </section>
 ---

@@ -31,7 +31,7 @@ custom_content: |
   <p class="hero-subtitle">Dal 2013 a Ostellato, in provincia di Ferrara</p>
   <p class="hero-description">Siamo un allevamento Staffordshire Bull Terrier a gestione familiare, con sede a Ostellato (FE). Selezioniamo soggetti sani, equilibrati e tipici con linee Elitebull e Lackyle.</p>
   <div class="hero-actions">
-  <a href="https://wa.me/393924635584" class="btn btn-primary" title="Contattaci su WhatsApp">Contattaci</a>
+  <a href="/wa/393924635584" class="btn btn-primary" title="Contattaci su WhatsApp">Contattaci</a>
   <a href="/recensioni/" class="btn btn-ghost" title="Leggi le recensioni">Recensioni</a>
   </div>
   </div>
@@ -146,6 +146,6 @@ custom_content: |
   <section class="cta-section">
   <h2>Vuoi Conoscerci?</h2>
   <p>Vieni a trovarci a Ostellato (FE) o contattaci su WhatsApp</p>
-  <a href="https://wa.me/393924635584" class="btn" title="Scrivici su WhatsApp">Scrivici su WhatsApp</a>
+  <a href="/wa/393924635584" class="btn" title="Scrivici su WhatsApp">Scrivici su WhatsApp</a>
   </section>
 ---

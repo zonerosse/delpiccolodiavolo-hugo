@@ -20,7 +20,7 @@ custom_content: |
   <p class="hero-subtitle">DNA tested, esenti da L2HGA e HC (HSF4)</p>
   <p class="hero-description">Le nostre femmine riproduttrici sono selezionate per salute, carattere e tipicità. Tutte testate geneticamente e conformi allo standard di razza. Le fattrici in attività, Bilquis e Croi Olc, sono esenti anche dalla mielopatia degenerativa (gene SOD1).</p>
   <div class="hero-actions">
-  <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sulle%20femmine" class="btn btn-primary" title="Contattaci su WhatsApp">Contattaci</a>
+  <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sulle%20femmine" class="btn btn-primary" title="Contattaci su WhatsApp">Contattaci</a>
   <a href="/maschi-staffordshire-bull-terrier/" class="btn btn-ghost" title="Vedi i nostri maschi">Vedi Maschi</a>
   </div>
   </div>
@@ -292,6 +292,6 @@ custom_content: |
   <section class="cta-section">
   <h2>Vuoi Info sulle Nostre Femmine?</h2>
   <p>Chiamaci o scrivici su WhatsApp per informazioni sulle nostre fattrici.</p>
-  <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sulle%20femmine%20Staffordshire%20Bull%20Terrier" class="btn" title="Scrivici su WhatsApp per info femmine">Scrivici su WhatsApp</a>
+  <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sulle%20femmine%20Staffordshire%20Bull%20Terrier" class="btn" title="Scrivici su WhatsApp per info femmine">Scrivici su WhatsApp</a>
   </section>
 ---

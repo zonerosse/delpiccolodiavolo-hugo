@@ -30,7 +30,7 @@ custom_content: |
   <p class="hero-subtitle">Since 2013 in Ostellato, province of Ferrara</p>
   <p class="hero-description">Family kennel in Ostellato (FE), Italy. Healthy, balanced and typical Staffordshire Bull Terriers with Elitebull and Lackyle bloodlines.</p>
   <div class="hero-actions">
-  <a href="https://wa.me/393924635584" class="btn btn-primary" title="Contact us on WhatsApp">Contact Us</a>
+  <a href="/wa/393924635584" class="btn btn-primary" title="Contact us on WhatsApp">Contact Us</a>
   <a href="/en/reviews/" class="btn btn-ghost" title="Read reviews">Reviews</a>
   </div>
   </div>
@@ -160,6 +160,6 @@ custom_content: |
   <section class="cta-section">
   <h2>Want to Meet Us?</h2>
   <p>Come visit us in Ostellato (FE) or contact us on WhatsApp</p>
-  <a href="https://wa.me/393924635584" class="btn" title="Write us on WhatsApp">Write Us on WhatsApp</a>
+  <a href="/wa/393924635584" class="btn" title="Write us on WhatsApp">Write Us on WhatsApp</a>
   </section>
 ---

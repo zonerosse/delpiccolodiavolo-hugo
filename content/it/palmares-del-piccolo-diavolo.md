@@ -357,6 +357,6 @@ custom_content: |
   <section class="cta-section">
   <h2>Vuoi un Cucciolo da Linee Vincenti?</h2>
   <p>I nostri cuccioli nascono da genitori testati e titolati. Contattaci per conoscere le prossime cucciolate.</p>
-  <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20sono%20interessato%20ai%20cuccioli%20da%20linee%20campioni" class="btn" title="Scrivici su WhatsApp">Scrivici su WhatsApp</a>
+  <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20sono%20interessato%20ai%20cuccioli%20da%20linee%20campioni" class="btn" title="Scrivici su WhatsApp">Scrivici su WhatsApp</a>
   </section>
 ---

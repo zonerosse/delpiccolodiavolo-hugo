@@ -111,5 +111,5 @@ correlati:
 <section class="cta-section">
 <h2>Vuoi Conoscere i Nostri Staffy di Persona?</h2>
 <p>Il modo migliore per capire il carattere di una linea è incontrare i cani adulti. Scrivici per fissare una visita.</p>
-<a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20conoscere%20i%20vostri%20cani" class="btn" title="Scrivici su WhatsApp">Scrivici su WhatsApp</a>
+<a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20conoscere%20i%20vostri%20cani" class="btn" title="Scrivici su WhatsApp">Scrivici su WhatsApp</a>
 </section>

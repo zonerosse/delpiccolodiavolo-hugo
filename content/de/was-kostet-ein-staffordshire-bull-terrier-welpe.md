@@ -1,6 +1,6 @@
 ---
 title: "Was kostet ein Staffordshire Bull Terrier Welpe 2026"
-lastmod: 2026-10-05
+lastmod: 2026-10-06
 articolo: true
 image: "/images/blog/scontrino-farmaci-cucciolata.webp"
 og_image: "/images/og/schede/de/was-kostet-ein-staffordshire-bull-terrier-welpe.jpg"
@@ -264,4 +264,4 @@ Entscheiden Sie mit dem Kopf, nicht mit dem Geldbeutel. Wenn Sie sehen möchten,
 
 *Lesen Sie auch: <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie wählt man eine Staffordshire Bull Terrier Zucht">wie man eine seriöse Zucht auswählt</a>.*
 
-*Möchten Sie mehr über unsere Welpen und die nächsten Würfe erfahren? [Schreiben Sie uns auf WhatsApp](https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20h%C3%A4tte%20gerne%20Informationen%20%C3%BCber%20Ihre%20Welpen) — wir erzählen Ihnen, wie wir arbeiten, und beantworten alle Ihre Fragen.*
+*Möchten Sie mehr über unsere Welpen und die nächsten Würfe erfahren? [Schreiben Sie uns auf WhatsApp](/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20h%C3%A4tte%20gerne%20Informationen%20%C3%BCber%20Ihre%20Welpen) — wir erzählen Ihnen, wie wir arbeiten, und beantworten alle Ihre Fragen.*

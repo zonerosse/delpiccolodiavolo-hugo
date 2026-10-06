@@ -173,6 +173,6 @@ custom_content: |
   <section class="cta-section">
   <h2>Möchten Sie sehen, wo sie aufwachsen?</h2>
   <p>Die Zucht Del Piccolo Diavolo empfängt nach Terminvereinbarung in Ostellato, Provinz Ferrara. Sie sehen das Haus, den Hof und die Mütter.</p>
-  <a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20m%C3%B6chte%20sehen%2C%20wo%20die%20Welpen%20aufwachsen" class="btn" title="Schreiben Sie uns auf WhatsApp" target="_blank" rel="noopener" aria-label="Schreiben Sie uns auf WhatsApp für einen Termin (wird in einem neuen Tab geöffnet)">Termin vereinbaren</a>
+  <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20m%C3%B6chte%20sehen%2C%20wo%20die%20Welpen%20aufwachsen" class="btn" title="Schreiben Sie uns auf WhatsApp" target="_blank" rel="noopener" aria-label="Schreiben Sie uns auf WhatsApp für einen Termin (wird in einem neuen Tab geöffnet)">Termin vereinbaren</a>
   </section>
 ---

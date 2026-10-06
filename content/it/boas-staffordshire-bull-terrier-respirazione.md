@@ -29,7 +29,7 @@ custom_content: |
   <p class="hero-description">La sindrome brachicefalica ostruttiva è un problema crescente in molte razze. Lo Staffy non dovrebbe esserne colpito, ma la selezione sbagliata sta cambiando le cose. Ecco cosa devi sapere.</p>
   <div class="hero-actions">
   <a href="/femmine-staffordshire-bull-terrier/" class="btn btn-primary" title="I nostri riproduttori">I Nostri Soggetti</a>
-  <a href="https://wa.me/393924635584" class="btn btn-ghost" title="Contattaci">Contattaci</a>
+  <a href="/wa/393924635584" class="btn btn-ghost" title="Contattaci">Contattaci</a>
   </div>
   </div>
   </section>
@@ -219,6 +219,6 @@ custom_content: |
   <section class="cta-section">
   <h2>Hai Domande sulla Salute dello Staffy?</h2>
   <p>Contattaci per parlare della nostra filosofia di allevamento e dei criteri di selezione.</p>
-  <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20ho%20letto%20l'articolo%20sul%20BOAS%20e%20vorrei%20maggiori%20informazioni" class="btn" title="Contattaci su WhatsApp">Scrivici su WhatsApp</a>
+  <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20ho%20letto%20l'articolo%20sul%20BOAS%20e%20vorrei%20maggiori%20informazioni" class="btn" title="Contattaci su WhatsApp">Scrivici su WhatsApp</a>
   </section>
 ---

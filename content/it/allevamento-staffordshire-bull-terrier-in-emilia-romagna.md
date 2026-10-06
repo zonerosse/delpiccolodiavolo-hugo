@@ -21,7 +21,7 @@ custom_content: |
   <p class="hero-subtitle">Del Piccolo Diavolo – Dal 2013</p>
   <p class="hero-description">Selezioniamo Staffordshire Bull Terrier da linee inglesi e irlandesi nel cuore dell'Emilia-Romagna, a Ostellato (FE). Raggiungibile da tutto il Nord e Centro Italia.</p>
   <div class="hero-actions">
-  <a href="https://wa.me/393924635584" class="btn btn-primary" title="Scrivici su WhatsApp">Scrivici</a>
+  <a href="/wa/393924635584" class="btn btn-primary" title="Scrivici su WhatsApp">Scrivici</a>
   <a href="tel:+393924635584" class="btn btn-ghost" title="Chiamaci">Chiama</a>
   </div>
   </div>
@@ -59,7 +59,7 @@ custom_content: |
   <svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>
   <h3>WhatsApp</h3>
   <p>Il modo più rapido</p>
-  <a href="https://wa.me/393924635584" target="_blank" rel="noopener" title="Scrivici su WhatsApp" aria-label="Scrivici su WhatsApp al +39 392 463 5584 (si apre in una nuova scheda)">+39 392 463 5584</a>
+  <a href="/wa/393924635584" target="_blank" rel="noopener" title="Scrivici su WhatsApp" aria-label="Scrivici su WhatsApp al +39 392 463 5584 (si apre in una nuova scheda)">+39 392 463 5584</a>
   </div>
 
   <div class="contact-item">
@@ -225,6 +225,6 @@ custom_content: |
   <section class="dark-section">
   <h2>Ti Aspettiamo</h2>
   <p>Vieni a conoscere i nostri Staffordshire Bull Terrier e l'ambiente in cui crescono. La visita è il primo passo per una scelta consapevole.</p>
-  <a href="https://wa.me/393924635584" class="btn btn-gold" title="Concorda una visita su WhatsApp">Concorda su WhatsApp</a>
+  <a href="/wa/393924635584" class="btn btn-gold" title="Concorda una visita su WhatsApp">Concorda su WhatsApp</a>
   </section>
 ---

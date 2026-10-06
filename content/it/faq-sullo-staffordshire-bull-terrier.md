@@ -38,7 +38,7 @@ custom_content: |
   
   <div class="faq-intro">
   <p>Benvenuto nella sezione FAQ dell'<strong><a href="/" title="Allevamento Staffordshire Bull Terrier">allevamento Staffordshire Bull Terrier Del Piccolo Diavolo</a></strong>.</p>
-  <p>Se hai dubbi che non trovi qui, <a href="https://wa.me/393924635584" title="Contattaci su WhatsApp">contattaci su WhatsApp</a>.</p>
+  <p>Se hai dubbi che non trovi qui, <a href="/wa/393924635584" title="Contattaci su WhatsApp">contattaci su WhatsApp</a>.</p>
   </div>
   
   <div class="faq-container">
@@ -266,6 +266,6 @@ custom_content: |
   <section class="cta-section">
   <h2>Hai Altre Domande?</h2>
   <p>Siamo sempre disponibili per rispondere a qualsiasi dubbio sullo Staffordshire Bull Terrier.</p>
-  <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20ho%20una%20domanda%20sullo%20Staffy" class="btn" title="Scrivici su WhatsApp per domande">Scrivici su WhatsApp</a>
+  <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20ho%20una%20domanda%20sullo%20Staffy" class="btn" title="Scrivici su WhatsApp per domande">Scrivici su WhatsApp</a>
   </section>
 ---

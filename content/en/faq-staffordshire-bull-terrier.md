@@ -36,7 +36,7 @@ custom_content: |
   
   <div class="faq-intro">
   <p>Welcome to the FAQ section of <strong>Del Piccolo Diavolo Kennel</strong>.</p>
-  <p>If you have questions not found here, <a href="https://wa.me/393924635584" title="Contact us on WhatsApp">contact us on WhatsApp</a>.</p>
+  <p>If you have questions not found here, <a href="/wa/393924635584" title="Contact us on WhatsApp">contact us on WhatsApp</a>.</p>
   </div>
   
   <div class="faq-container">
@@ -280,6 +280,6 @@ custom_content: |
   <section class="dark-section">
   <h2>Have More Questions?</h2>
   <p>We're always available to answer any questions about the Staffordshire Bull Terrier.</p>
-  <a href="https://wa.me/393924635584?text=Hello%20Paolo%2C%20I%20have%20a%20question%20about%20the%20Staffy" class="btn btn-light" title="Write us on WhatsApp for questions">Write Us on WhatsApp</a>
+  <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20have%20a%20question%20about%20the%20Staffy" class="btn btn-light" title="Write us on WhatsApp for questions">Write Us on WhatsApp</a>
   </section>
 ---

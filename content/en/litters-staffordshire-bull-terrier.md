@@ -301,6 +301,6 @@ custom_content: |
   <section class="cta-section">
   <h2>Want Info About Litters?</h2>
   <p>Call us or write on WhatsApp for information about available and future litters.</p>
-  <a href="https://wa.me/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20Staffordshire%20Bull%20Terrier%20litters" class="btn" title="Write us on WhatsApp for litter info">Write Us on WhatsApp</a>
+  <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20Staffordshire%20Bull%20Terrier%20litters" class="btn" title="Write us on WhatsApp for litter info">Write Us on WhatsApp</a>
   </section>
 ---

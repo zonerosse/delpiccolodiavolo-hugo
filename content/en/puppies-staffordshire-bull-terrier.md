@@ -35,7 +35,7 @@ custom_content: |
   <p class="hero-description">Del Piccolo Diavolo puppies are born in the house and stay there for the first month, then grow up between house and yard. We select for health, character and breed type, on English (Elitebull) and Irish (Lackyle) lines documented on SBTPedigree.</p>
   <div class="hero-actions">
   <a href="/en/litters-staffordshire-bull-terrier/" class="btn btn-primary" title="See available puppies">Available Puppies</a>
-  <a href="https://wa.me/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20puppies" class="btn btn-ghost" title="Contact us on WhatsApp">Contact Us</a>
+  <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20puppies" class="btn btn-ghost" title="Contact us on WhatsApp">Contact Us</a>
   </div>
   </div>
   </section>
@@ -306,6 +306,6 @@ custom_content: |
   <section class="cta-section">
   <h2>Want Info About Puppies?</h2>
   <p>Call us or write on WhatsApp for information about available litters.</p>
-  <a href="https://wa.me/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20Staffordshire%20Bull%20Terrier%20puppies" class="btn" title="Write us on WhatsApp for puppy info">Write Us on WhatsApp</a>
+  <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20Staffordshire%20Bull%20Terrier%20puppies" class="btn" title="Write us on WhatsApp for puppy info">Write Us on WhatsApp</a>
   </section>
 ---

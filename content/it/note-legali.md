@@ -117,6 +117,6 @@ custom_content: |
   <section class="dark-section">
   <h2>Hai Domande?</h2>
   <p>Contattaci per qualsiasi chiarimento sui termini di utilizzo o sulle nostre garanzie.</p>
-  <a href="https://wa.me/393924635584" class="btn btn-gold" title="Scrivici su WhatsApp">Scrivici su WhatsApp</a>
+  <a href="/wa/393924635584" class="btn btn-gold" title="Scrivici su WhatsApp">Scrivici su WhatsApp</a>
   </section>
 ---

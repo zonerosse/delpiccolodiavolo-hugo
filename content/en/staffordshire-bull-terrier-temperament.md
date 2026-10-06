@@ -111,5 +111,5 @@ correlati:
 <section class="cta-section">
 <h2>Would You Like to Meet Our Staffies in Person?</h2>
 <p>The best way to understand the character of a line is to meet the adult dogs. Write to us to arrange a visit.</p>
-<a href="https://wa.me/393924635584?text=Hi%20Paolo%2C%20I%27d%20like%20to%20meet%20your%20dogs" class="btn" title="Write to us on WhatsApp">Write to Us on WhatsApp</a>
+<a href="/wa/393924635584?text=Hi%20Paolo%2C%20I%27d%20like%20to%20meet%20your%20dogs" class="btn" title="Write to us on WhatsApp">Write to Us on WhatsApp</a>
 </section>

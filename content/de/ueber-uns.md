@@ -30,7 +30,7 @@ custom_content: |
   <p class="hero-subtitle">Seit 2013 in Ostellato, Provinz Ferrara</p>
   <p class="hero-description">Familienzucht in Ostellato (FE), Italien. Gesunde, ausgeglichene und typische Staffordshire Bull Terrier mit Elitebull und Lackyle Blutlinien.</p>
   <div class="hero-actions">
-  <a href="https://wa.me/393924635584" class="btn btn-primary" title="Kontaktieren Sie uns">Kontakt</a>
+  <a href="/wa/393924635584" class="btn btn-primary" title="Kontaktieren Sie uns">Kontakt</a>
   <a href="/de/bewertungen/" class="btn btn-ghost" title="Bewertungen lesen">Bewertungen</a>
   </div>
   </div>
@@ -160,6 +160,6 @@ custom_content: |
   <section class="cta-section">
   <h2>Möchten Sie uns kennenlernen?</h2>
   <p>Besuchen Sie uns in Ostellato (FE) oder kontaktieren Sie uns auf WhatsApp</p>
-  <a href="https://wa.me/393924635584" class="btn" title="Auf WhatsApp schreiben">Auf WhatsApp Schreiben</a>
+  <a href="/wa/393924635584" class="btn" title="Auf WhatsApp schreiben">Auf WhatsApp Schreiben</a>
   </section>
 ---

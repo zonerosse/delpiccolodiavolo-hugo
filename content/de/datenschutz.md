@@ -182,6 +182,6 @@ custom_content: |
   <section class="dark-section">
   <h2>Fragen zum Datenschutz?</h2>
   <p>Kontaktieren Sie uns für alle Fragen zur Verarbeitung Ihrer personenbezogenen Daten.</p>
-  <a href="https://wa.me/393924635584" class="btn" title="Schreiben Sie uns auf WhatsApp">Auf WhatsApp Schreiben</a>
+  <a href="/wa/393924635584" class="btn" title="Schreiben Sie uns auf WhatsApp">Auf WhatsApp Schreiben</a>
   </section>
 ---

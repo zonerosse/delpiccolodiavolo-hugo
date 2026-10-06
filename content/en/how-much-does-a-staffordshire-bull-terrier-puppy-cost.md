@@ -1,6 +1,6 @@
 ---
 title: "How Much Does a Staffordshire Bull Terrier Puppy Cost in 2026"
-lastmod: 2026-10-05
+lastmod: 2026-10-06
 articolo: true
 image: "/images/blog/scontrino-farmaci-cucciolata.webp"
 og_image: "/images/og/schede/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost.jpg"
@@ -264,4 +264,4 @@ Choose with your head, not your wallet. If you want to see how we work, visit ou
 
 *See also: <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to choose a Staffordshire Bull Terrier breeder">how to choose a serious breeder</a>.*
 
-*Want to know more about our puppies and upcoming litters? [Write to us on WhatsApp](https://wa.me/393924635584?text=Hi%20Paolo%2C%20I%27d%20like%20information%20about%20your%20puppies) — we will tell you how we work and answer any question.*
+*Want to know more about our puppies and upcoming litters? [Write to us on WhatsApp](/wa/393924635584?text=Hi%20Paolo%2C%20I%27d%20like%20information%20about%20your%20puppies) — we will tell you how we work and answer any question.*

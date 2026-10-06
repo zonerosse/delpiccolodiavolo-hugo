@@ -442,6 +442,6 @@ custom_content: |
   <section class="dark-section">
   <h2>Haben Sie Fragen?</h2>
   <p>Wenn Sie Zweifel zu einem Thema haben oder ein Thema für den Blog vorschlagen möchten, kontaktieren Sie uns.</p>
-  <a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20habe%20eine%20Frage%20zum%20Blog" class="btn btn-light" title="Schreiben Sie uns auf WhatsApp für Blog-Fragen">Schreiben Sie uns auf WhatsApp</a>
+  <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20habe%20eine%20Frage%20zum%20Blog" class="btn btn-light" title="Schreiben Sie uns auf WhatsApp für Blog-Fragen">Schreiben Sie uns auf WhatsApp</a>
   </section>
 ---

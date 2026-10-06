@@ -143,6 +143,6 @@ custom_content: |
   <section class="cta-section">
   <h2>Möchten Sie unsere Hunde kennenlernen?</h2>
   <p>Die Zucht Del Piccolo Diavolo empfängt nach Terminvereinbarung in Ostellato, Provinz Ferrara. Sie sehen die Mütter, die Welpen und das Haus, in dem sie aufwachsen.</p>
-  <a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20m%C3%B6chte%20Ihre%20Hunde%20kennenlernen" class="btn" title="Schreiben Sie uns auf WhatsApp" target="_blank" rel="noopener" aria-label="Schreiben Sie uns auf WhatsApp für einen Termin (wird in einem neuen Tab geöffnet)">Termin vereinbaren</a>
+  <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20m%C3%B6chte%20Ihre%20Hunde%20kennenlernen" class="btn" title="Schreiben Sie uns auf WhatsApp" target="_blank" rel="noopener" aria-label="Schreiben Sie uns auf WhatsApp für einen Termin (wird in einem neuen Tab geöffnet)">Termin vereinbaren</a>
   </section>
 ---

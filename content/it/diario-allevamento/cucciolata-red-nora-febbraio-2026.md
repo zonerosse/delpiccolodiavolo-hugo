@@ -117,4 +117,4 @@ Nora (L2HGA + HC + DM)
 
 Questa cucciolata è completa. Per informazioni sull'allevamento, sui nostri riproduttori o sui certificati di laboratorio, scrivici pure.
 
-<p style="margin-top:2rem"><a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20informazioni%20sull%27allevamento" class="btn btn-primary">Contattaci su WhatsApp →</a></p>
+<p style="margin-top:2rem"><a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20informazioni%20sull%27allevamento" class="btn btn-primary">Contattaci su WhatsApp →</a></p>

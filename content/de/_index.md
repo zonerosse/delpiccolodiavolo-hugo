@@ -318,6 +318,6 @@ custom_content: |
     <section class="cta-section">
   <h2>Schreiben Sie uns, um unsere Staffys persönlich kennenzulernen</h2>
   <p>Schreiben Sie uns für ein unverbindliches Gespräch. Wir beantworten gerne alle Ihre Fragen.</p>
-  <a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20schreibe%20von%20der%20Del%20Piccolo%20Diavolo%20Website" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Schreiben Sie uns auf WhatsApp" aria-label="Kontaktieren Sie uns auf WhatsApp">Auf WhatsApp schreiben</a>
+  <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20schreibe%20von%20der%20Del%20Piccolo%20Diavolo%20Website" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Schreiben Sie uns auf WhatsApp" aria-label="Kontaktieren Sie uns auf WhatsApp">Auf WhatsApp schreiben</a>
   </section>
 ---

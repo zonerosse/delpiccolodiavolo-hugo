@@ -1,69 +1,89 @@
+# /wa/ = tasto WhatsApp (conta il tocco e manda a wa.me): non è una pagina, i robot non devono seguirlo.
 # Motori di ricerca tradizionali
 User-agent: *
 Allow: /
+Disallow: /wa/
 
 # Le versioni Markdown (.md) delle pagine servono agli agenti AI.
 # Sono escluse dalla ricerca tradizionale per evitare contenuto duplicato.
 User-agent: Googlebot
 Allow: /
+Disallow: /wa/
 Disallow: /*.md$
 
 User-agent: Yandex
 Allow: /
+Disallow: /wa/
 Disallow: /*.md$
 
 User-agent: DuckDuckBot
 Allow: /
+Disallow: /wa/
 Disallow: /*.md$
 
 # Google AI (Gemini, AI Overviews)
 User-agent: Google-Extended
 Allow: /
+Disallow: /wa/
 
 # OpenAI (ChatGPT)
 User-agent: GPTBot
 Allow: /
+Disallow: /wa/
 User-agent: OAI-SearchBot
 Allow: /
+Disallow: /wa/
 User-agent: ChatGPT-User
 Allow: /
+Disallow: /wa/
 
 # Anthropic (Claude)
 User-agent: ClaudeBot
 Allow: /
+Disallow: /wa/
 User-agent: Claude-User
 Allow: /
+Disallow: /wa/
 User-agent: Claude-SearchBot
 Allow: /
+Disallow: /wa/
 
 # Microsoft/Bing AI (Copilot)
 User-agent: Bingbot
 Allow: /
+Disallow: /wa/
 Disallow: /*.md$
 
 # Perplexity AI
 User-agent: PerplexityBot
 Allow: /
+Disallow: /wa/
 User-agent: Perplexity-User
 Allow: /
+Disallow: /wa/
 
 # Meta AI
 User-agent: meta-externalagent
 Allow: /
+Disallow: /wa/
 User-agent: FacebookBot
 Allow: /
+Disallow: /wa/
 
 # Apple (Siri, Spotlight)
 User-agent: Applebot
 Allow: /
+Disallow: /wa/
 
 # Common Crawl (dataset per AI)
 User-agent: CCBot
 Allow: /
+Disallow: /wa/
 
 # Cohere AI
 User-agent: cohere-ai
 Allow: /
+Disallow: /wa/
 
 Sitemap: https://delpiccolodiavolo.it/sitemap.xml
 Sitemap: https://delpiccolodiavolo.it/en/sitemap.xml

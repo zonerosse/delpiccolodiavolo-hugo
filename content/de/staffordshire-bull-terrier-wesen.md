@@ -111,5 +111,5 @@ correlati:
 <section class="cta-section">
 <h2>Möchten Sie unsere Staffys persönlich kennenlernen?</h2>
 <p>Der beste Weg, das Wesen einer Linie zu verstehen, ist, die erwachsenen Hunde zu treffen. Schreiben Sie uns für einen Besuchstermin.</p>
-<a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20w%C3%BCrde%20gerne%20Ihre%20Hunde%20kennenlernen" class="btn" title="Schreiben Sie uns auf WhatsApp">Schreiben Sie uns auf WhatsApp</a>
+<a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20w%C3%BCrde%20gerne%20Ihre%20Hunde%20kennenlernen" class="btn" title="Schreiben Sie uns auf WhatsApp">Schreiben Sie uns auf WhatsApp</a>
 </section>

@@ -20,7 +20,7 @@ custom_content: |
   <p class="hero-subtitle">DNA tested, esenti da L2HGA e HC (HSF4)</p>
   <p class="hero-description">I nostri maschi riproduttori sono selezionati per salute, carattere e tipicità. Tutti testati geneticamente e conformi allo standard di razza.</p>
   <div class="hero-actions">
-  <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sui%20maschi" class="btn btn-primary" title="Contattaci su WhatsApp per info maschi">Contattaci</a>
+  <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sui%20maschi" class="btn btn-primary" title="Contattaci su WhatsApp per info maschi">Contattaci</a>
   <a href="/femmine-staffordshire-bull-terrier/" class="btn btn-ghost" title="Vedi le nostre femmine">Vedi Femmine</a>
   </div>
   </div>
@@ -142,6 +142,6 @@ custom_content: |
   <section class="cta-section">
   <h2>Vuoi Info sui Nostri Maschi?</h2>
   <p>Chiamaci o scrivici su WhatsApp per informazioni sui nostri riproduttori.</p>
-  <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sui%20maschi%20Staffordshire%20Bull%20Terrier" class="btn" title="Scrivici su WhatsApp per info maschi">Scrivici su WhatsApp</a>
+  <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sui%20maschi%20Staffordshire%20Bull%20Terrier" class="btn" title="Scrivici su WhatsApp per info maschi">Scrivici su WhatsApp</a>
   </section>
 ---

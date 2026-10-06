@@ -166,6 +166,6 @@ custom_content: |
   <section class="cta-section">
   <h2>Vuoi vedere dove crescono?</h2>
   <p>L'allevamento Del Piccolo Diavolo riceve su appuntamento a Ostellato, in provincia di Ferrara. Si vede la casa, il cortile e le madri.</p>
-  <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20vedere%20dove%20crescono%20i%20cuccioli" class="btn" title="Scrivici su WhatsApp" target="_blank" rel="noopener" aria-label="Scrivici su WhatsApp per fissare una visita (si apre in una nuova scheda)">Fissa una visita</a>
+  <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20vedere%20dove%20crescono%20i%20cuccioli" class="btn" title="Scrivici su WhatsApp" target="_blank" rel="noopener" aria-label="Scrivici su WhatsApp per fissare una visita (si apre in una nuova scheda)">Fissa una visita</a>
   </section>
 ---

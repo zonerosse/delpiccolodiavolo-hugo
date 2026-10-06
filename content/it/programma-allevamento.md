@@ -303,6 +303,6 @@ custom_content: |
 
   <h2>Domande frequenti sulle cucciolate</h2>
   <p>Per conoscere in dettaglio il nostro metodo di selezione e gli accoppiamenti pianificati, contattaci.</p>
-  <a href="https://wa.me/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sul%20programma%20di%20allevamento" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Informazioni sul programma" aria-label="Contattaci per informazioni sul programma di allevamento">Scrivici su WhatsApp</a>
+  <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sul%20programma%20di%20allevamento" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Informazioni sul programma" aria-label="Contattaci per informazioni sul programma di allevamento">Scrivici su WhatsApp</a>
   </section>
 ---

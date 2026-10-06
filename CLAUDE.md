@@ -200,3 +200,12 @@ Before working on the site locally, **Fetch/Pull** in GitHub Desktop: the gestio
   IndexNow and Google see the page as updated. Photos have descriptive names
   (`static/images/cucciolate/<dog-name>-staffordshire-bull-terrier.<ext>`,
   `static/images/diario/<slug>/cuccioli-staffordshire-bull-terrier-<dam>-<sire>-<n>.<ext>`).
+
+## WhatsApp buttons (October 2026)
+- Every WhatsApp link on the site points to `/wa/<number>?text=…`, never straight to `https://wa.me/`. `functions/wa/[[path]].js`
+  (Cloudflare Pages Function) logs the tap in the management app (`gestionale.delpiccolodiavolo.it/api/public/walog`,
+  shared secret `WA_KEY` set in BOTH Cloudflare projects) and redirects (302) to `https://wa.me/<number>?text=…`.
+  Only the source page path is sent (from the same-site Referer): no IP, no personal data; bots and link previews are skipped.
+- `robots.txt` disallows `/wa/` for every group; `verifica.py` treats `/wa/<digits>` as a valid internal link.
+- The JSON-LD in `partials/schema.html` keeps the real `https://wa.me/` URL (it is data, not a button).
+- New pages: write WhatsApp links as `/wa/393924635584?text=…` (same text-encoding as before).

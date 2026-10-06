@@ -29,7 +29,7 @@ custom_content: |
   <p class="hero-description">Das Brachyzephale Obstruktive Atemwegssyndrom ist ein wachsendes Problem bei vielen Rassen. Der Staffy sollte nicht betroffen sein, aber falsche Zuchtentscheidungen ändern das. Hier ist, was Sie wissen müssen.</p>
   <div class="hero-actions">
   <a href="/de/huendinnen-staffordshire-bull-terrier/" class="btn btn-primary" title="Unsere Zuchthunde">Unsere Hunde</a>
-  <a href="https://wa.me/393924635584" class="btn btn-ghost" title="Kontaktieren Sie uns">Kontakt</a>
+  <a href="/wa/393924635584" class="btn btn-ghost" title="Kontaktieren Sie uns">Kontakt</a>
   </div>
   </div>
   </section>
@@ -219,6 +219,6 @@ custom_content: |
   <section class="cta-section">
   <h2>Fragen zur Staffy-Gesundheit?</h2>
   <p>Kontaktieren Sie uns, um über unsere Zuchtphilosophie und Selektionskriterien zu sprechen.</p>
-  <a href="https://wa.me/393924635584?text=Hallo%20Paolo%2C%20ich%20habe%20Ihren%20Artikel%20%C3%BCber%20BOAS%20gelesen%20und%20h%C3%A4tte%20gerne%20weitere%20Informationen" class="btn" title="Kontaktieren Sie uns auf WhatsApp">Nachricht auf WhatsApp</a>
+  <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20habe%20Ihren%20Artikel%20%C3%BCber%20BOAS%20gelesen%20und%20h%C3%A4tte%20gerne%20weitere%20Informationen" class="btn" title="Kontaktieren Sie uns auf WhatsApp">Nachricht auf WhatsApp</a>
   </section>
 ---
