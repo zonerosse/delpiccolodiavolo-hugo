@@ -120,10 +120,13 @@
     var vaiAvanti=function(){ window.location.href=dove; };
     var dati=new URLSearchParams(new FormData(f));
     /* copia anche nella Lista d'attesa del gestionale: se non risponde, non blocca niente */
-    try{ fetch('{{ $gest }}',{method:'POST',mode:'no-cors',body:new URLSearchParams(dati)}).catch(function(){}); }catch(e){}
-    fetch(f.action,{method:'POST',mode:'no-cors',body:dati})
-      .then(vaiAvanti)
-      .catch(function(){ f.submit(); });
+    /* keepalive: la richiesta al gestionale arriva anche se la pagina passa subito alla conferma (prima veniva interrotta).
+       Si aspettano tutti e due gli invii, al massimo 6 secondi, poi si va alla conferma. */
+    var alGest=Promise.resolve();
+    try{ alGest=fetch('{{ $gest }}',{method:'POST',mode:'no-cors',keepalive:true,body:new URLSearchParams(dati)}).catch(function(){}); }catch(e){}
+    var alDrive=fetch(f.action,{method:'POST',mode:'no-cors',body:dati});
+    alDrive.then(function(){ return alGest; }).then(vaiAvanti)
+      .catch(function(){ alGest.then(function(){ f.submit(); }); });
     setTimeout(vaiAvanti,6000);
   });
 })();
