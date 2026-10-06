@@ -8,6 +8,16 @@ export async function onRequestGet({ request, params, env, waitUntil }) {
   const num = seg.replace(/\D/g, "") || "393924635584";
   const to = "https://wa.me/" + num + u.search;
   const ua = request.headers.get("user-agent") || "";
+  // Pagina di controllo: /wa/393924635584?diag=1 mostra se la chiave c'è e cosa risponde il gestionale (conta un tocco di prova)
+  if (u.searchParams.get("diag") === "1") {
+    const out = { chiave_WA_KEY_presente: !!env.WA_KEY, browser_preso_per_robot: BOT.test(ua) };
+    try {
+      const r = await fetch("https://gestionale.delpiccolodiavolo.it/api/public/walog", { method: "POST",
+        headers: { "content-type": "application/json", "x-wa-key": env.WA_KEY || "" }, body: JSON.stringify({ path: "/prova-diag/" }) });
+      out.risposta_gestionale = r.status + " " + (await r.text()).slice(0, 300);
+    } catch (e) { out.errore_collegamento = String(e && e.message || e); }
+    return new Response(JSON.stringify(out, null, 2), { headers: { "content-type": "application/json; charset=utf-8", "cache-control": "no-store", "X-Robots-Tag": "noindex" } });
+  }
   if (env.WA_KEY && !BOT.test(ua)) {
     let path = "";
     try { const r = new URL(request.headers.get("referer") || ""); if (r.hostname.endsWith("delpiccolodiavolo.it")) path = r.pathname; } catch (e) {}
