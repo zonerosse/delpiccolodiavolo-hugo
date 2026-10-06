@@ -2,7 +2,8 @@
    Chi tocca non si accorge di niente. Si manda solo la pagina di partenza (dal Referer, stesso sito): niente IP, niente
    dati personali. I robot e le anteprime dei link non si contano. Chiave condivisa: WA_KEY (uguale nel gestionale). */
 const BOT = /bot|crawl|spider|slurp|preview|facebookexternalhit|whatsapp|telegram|headless|lighthouse|pagespeed|seobility|seomator|python|curl|wget|httpclient|java\//i;
-export async function onRequestGet({ request, params, env, waitUntil }) {
+export async function onRequestGet(context) {
+  const { request, params, env } = context;
   const u = new URL(request.url);
   const seg = Array.isArray(params.path) ? params.path.join("") : String(params.path || "");
   const num = seg.replace(/\D/g, "") || "393924635584";
@@ -21,8 +22,10 @@ export async function onRequestGet({ request, params, env, waitUntil }) {
   if (env.WA_KEY && !BOT.test(ua)) {
     let path = "";
     try { const r = new URL(request.headers.get("referer") || ""); if (r.hostname.endsWith("delpiccolodiavolo.it")) path = r.pathname; } catch (e) {}
-    waitUntil(fetch("https://gestionale.delpiccolodiavolo.it/api/public/walog", { method: "POST",
-      headers: { "content-type": "application/json", "x-wa-key": env.WA_KEY }, body: JSON.stringify({ path }) }).catch(() => {}));
+    // il conteggio parte prima del salto a WhatsApp; context.waitUntil (non "staccato" dal contesto) lo lascia finire
+    const invio = fetch("https://gestionale.delpiccolodiavolo.it/api/public/walog", { method: "POST",
+      headers: { "content-type": "application/json", "x-wa-key": env.WA_KEY }, body: JSON.stringify({ path }) }).catch(() => {});
+    try { context.waitUntil(invio); } catch (e) { await invio; }
   }
   return new Response(null, { status: 302, headers: { Location: to, "Cache-Control": "no-store", "X-Robots-Tag": "noindex, nofollow" } });
 }
