@@ -132,7 +132,9 @@ letter-spacing:.03em;padding:.55rem 1.5rem;text-transform:uppercase}
 .content-single p a:not(.btn),
 .content-single li a:not(.btn),
 .section-inner p a:not(.btn):not(.doc-link):not(.pedigree-link),
-.section-inner li a:not(.btn):not(.doc-link):not(.pedigree-link){
+.section-inner li a:not(.btn):not(.doc-link):not(.pedigree-link),
+.faq-answer a:not(.btn),
+.faq-list .faq-item p a:not(.btn){
   color:#8b5a2b;
   text-decoration:underline;
   text-underline-offset:2px;
@@ -144,7 +146,9 @@ letter-spacing:.03em;padding:.55rem 1.5rem;text-transform:uppercase}
 .content-single p a:not(.btn):hover,
 .content-single li a:not(.btn):hover,
 .section-inner p a:not(.btn):hover,
-.section-inner li a:not(.btn):hover{
+.section-inner li a:not(.btn):hover,
+.faq-answer a:not(.btn):hover,
+.faq-list .faq-item p a:not(.btn):hover{
   color:#6b4423;
   text-decoration-color:currentColor
 }
