@@ -76,7 +76,7 @@ custom_content: |
   <div class="gallery-item"><img src="/images/foto4.avif" alt="Cucciolo di Staffordshire Bull Terrier in braccio, primo piano" loading="lazy" decoding="async" width="300" height="347"></div>
   </div>
 
-  <p style="text-align:center;margin-top:1.5rem"><a class="btn" href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">Come nascono e crescono i cuccioli Staffy</a></p>
+  <p style="text-align:center;margin-top:1.5rem"><a class="btn" href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">Come nascono e crescono</a></p>
   </div>
   </section>
   <!--/BLOCCO:3-->
@@ -105,7 +105,7 @@ custom_content: |
 
   <p>A volte si capisce meglio un allevamento da quello che non fa.</p>
 
-  <p>L'allevamento Del Piccolo Diavolo, a Ostellato in provincia di Ferrara, non ha <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli di Staffy</a> disponibili tutto l'anno: nasce una cucciolata l'anno, occasionalmente due, in alcuni anni nessuna. Non spedisce cani con corrieri n&eacute; in stiva, e non consegna a met&agrave; strada: chi prende un cucciolo viene a Ostellato e vede la madre e il posto dove &egrave; cresciuto. Ogni cucciolo esce con il certificato genealogico ENCI, che non &egrave; un extra e non si paga a parte, dopo i 60 giorni previsti dalla legge italiana. I riproduttori sono testati per L2HGA e HC (gene HSF4), o esenti per via parentale con i referti dei genitori; le fattrici in attività anche per la mielopatia degenerativa (gene SOD1), e i referti di laboratorio &mdash; con il numero di microchip del cane sopra &mdash; sono pubblicati sul sito e scaricabili senza doverli chiedere.</p>
+  <p>L'allevamento Del Piccolo Diavolo, a Ostellato in provincia di Ferrara, non ha <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli di Staffordshire Bull Terrier</a> disponibili tutto l'anno: nasce una cucciolata l'anno, occasionalmente due, in alcuni anni nessuna. Non spedisce cani con corrieri n&eacute; in stiva, e non consegna a met&agrave; strada: chi prende un cucciolo viene a Ostellato e vede la madre e il posto dove &egrave; cresciuto. Ogni cucciolo esce con il certificato genealogico ENCI, che non &egrave; un extra e non si paga a parte, dopo i 60 giorni previsti dalla legge italiana. I riproduttori sono testati per L2HGA e HC (gene HSF4), o esenti per via parentale con i referti dei genitori; le fattrici in attività anche per la mielopatia degenerativa (gene SOD1), e i referti di laboratorio &mdash; con il numero di microchip del cane sopra &mdash; sono pubblicati sul sito e scaricabili senza doverli chiedere.</p>
 
   <p><strong>Non abbiamo cuccioli tutto l'anno.</strong> Una cucciolata, occasionalmente due, a volte nessuna. Se ci scrivi in un momento in cui non ce ne sono, la risposta &egrave; che non ce ne sono: non ti proponiamo il cucciolo di un conoscente n&eacute; ti mettiamo fretta su una cucciolata futura.</p>
 
@@ -280,7 +280,7 @@ custom_content: |
   <a class="rimando" href="/cuccioli-staffordshire-bull-terrier/">
   <img src="/images/primo-piano-cucciolo.avif" alt="Cucciolo di Staffordshire Bull Terrier" width="88" height="83" loading="lazy" decoding="async">
   <span>
-  <span class="ti">Come nascono e crescono i cuccioli di Staffordshire Bull Terrier</span>
+  <span class="ti">Come nasce e cresce una cucciolata</span>
   <span class="de">Dal calore al parto, e cosa succede nelle otto settimane successive.</span>
   </span>
   </a>
