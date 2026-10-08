@@ -146,7 +146,7 @@ custom_content: |
   <div class="related">
   <h3>Related articles</h3>
   <ul>
-  <li><a href="/en/puppies-staffordshire-bull-terrier/" title="Puppies">Our Staffordshire Bull Terrier puppies</a></li>
+  <li><a href="/en/puppies-staffordshire-bull-terrier/" title="Puppies">Our Staffy puppies</a></li>
   <li><a href="/en/staffy-pitbull-amstaff-difference/" title="Differences">Staffy vs Pitbull vs Amstaff</a></li>
   <li><a href="/en/staffy-bloodlines-guide/" title="Bloodlines">Staffordshire Bull Terrier bloodlines</a></li>
   <li><a href="/en/is-the-staffordshire-bull-terrier-right-for-you/" title="Is it right for you">Is the Staffy right for you?</a></li>

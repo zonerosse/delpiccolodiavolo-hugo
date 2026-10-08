@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Reviews"
 titleSeo: "Staffordshire Bull Terrier reviews from our families"
 date: 2025-12-28
-lastmod: 2026-10-05
+lastmod: 2026-10-08
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
 description: "Google reviews from families who took home a Staffordshire Bull Terrier from Del Piccolo Diavolo: real experiences, before the puppy arrived and years after."
@@ -338,7 +338,7 @@ custom_content: |
   </div>
 
   <div class="links-box">
-  <p>Discover our <a href="/en/litters-staffordshire-bull-terrier/" title="Planned litters">litters</a> and <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies</a>.</p>
+  <p>Discover our <a href="/en/litters-staffordshire-bull-terrier/" title="Planned litters">litters</a> and <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffy puppies</a>.</p>
   <p>Meet our <a href="/en/males-staffordshire-bull-terrier/" title="Male Staffordshire Bull Terriers">champion males</a> and <a href="/en/females-staffordshire-bull-terrier/" title="Female Staffordshire Bull Terriers">selected females</a>.</p>
   </div>
   </div>

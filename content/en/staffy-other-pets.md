@@ -540,7 +540,7 @@ custom_content: |
   <ul>
   <li><a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it really means">Socialised puppies: what it really means</a></li>
   <li><a href="/en/staffy-children-family/" title="Staffies and children: family life">Staffies and children: family life</a></li>
-  <li><a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies</a></li>
+  <li><a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffy puppies</a></li>
   <li><a href="/en/staffordshire-bull-terrier-character-family-life/" title="Staffordshire Bull Terrier: character and family life">Staffordshire Bull Terrier: character and family life</a></li>
   <li><a href="/en/staffy-elderly-owners/" title="Staffies for elderly owners: respecting the rhythms">Staffies for elderly owners: respecting the rhythms</a></li>
   <li><a href="/en/puppy-home-socialization/" title="Socialising the puppy at home: the family checklist">Socialising the puppy at home: the family checklist</a></li>

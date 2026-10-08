@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Bewertungen"
 date: 2025-12-28
-lastmod: 2026-10-05
+lastmod: 2026-10-08
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
 description: "Die Google-Bewertungen der Familien, die einen Welpen von Del Piccolo Diavolo gewählt haben: echte Erfahrungen vor und nach der Abgabe, jede mit Link zum Original."
@@ -73,7 +73,7 @@ custom_content: |
   <h3>Mehr zum Thema</h3>
   <ul>
   <li><a href="/de/wuerfe-staffordshire-bull-terrier/" title="Würfe Staffordshire Bull Terrier: geplant und bisherige">Würfe Staffordshire Bull Terrier: geplant und bisherige</a></li>
-  <li><a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen mit überprüfbaren Gentests">Staffordshire Bull Terrier Welpen mit überprüfbaren Gentests</a></li>
+  <li><a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen mit überprüfbaren Gentests">Staffy-Welpen mit überprüfbaren Gentests</a></li>
   <li><a href="/de/rueden-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Rüden: Ahnentafel und Gentests">Staffordshire Bull Terrier Rüden: Ahnentafel und Gentests</a></li>
   <li><a href="/de/huendinnen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Hündinnen">Staffordshire Bull Terrier Hündinnen</a></li>
   </ul>

@@ -521,7 +521,7 @@ custom_content: |
   <ul>
   <li><a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Cuccioli socializzati: cosa vuol dire davvero">Cuccioli socializzati: cosa vuol dire davvero</a></li>
   <li><a href="/famiglia-bambini-convivenza/" title="Staffy e Bambini: Convivenza Sicura">Staffy e Bambini: Convivenza Sicura</a></li>
-  <li><a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli di Staffordshire Bull Terrier">Cuccioli di Staffordshire Bull Terrier</a></li>
+  <li><a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli di Staffordshire Bull Terrier">Cuccioli di Staffy</a></li>
   <li><a href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Staffordshire Bull Terrier: carattere e vita in famiglia">Staffordshire Bull Terrier: carattere e vita in famiglia</a></li>
   <li><a href="/famiglia-anziani-rispetto-ritmi/" title="Staffy e Anziani">Staffy e Anziani</a></li>
   <li><a href="/cuccioli-socializzazione-in-casa/" title="Socializzare il cucciolo in casa: la lista per la famiglia">Socializzare il cucciolo in casa: la lista per la famiglia</a></li>

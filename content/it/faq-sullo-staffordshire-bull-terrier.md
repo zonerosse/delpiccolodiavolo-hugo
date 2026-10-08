@@ -5,7 +5,7 @@ og_image_alt: "FAQ Staffordshire Bull Terrier: le domande più frequenti — All
 thumb: "/images/blog/icone/faq-sullo-staffordshire-bull-terrier.webp"
 titleSeo: "FAQ Staffordshire Bull Terrier: le domande più frequenti"
 date: 2025-12-28
-lastmod: 2026-10-05
+lastmod: 2026-10-08
 translationKey: "faq"
 description: "Risposte alle domande più frequenti sullo Staffordshire Bull Terrier: carattere, salute, cuccioli ENCI, costi, alimentazione, addestramento."
 slug: "faq-sullo-staffordshire-bull-terrier"
@@ -83,7 +83,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">A che età posso portare a casa il cucciolo?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">I <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli di Staffordshire Bull Terrier</a> vengono affidati dopo i 60 giorni di età: è il minimo che la legge italiana consente, e all'allevamento Del Piccolo Diavolo in genere si arriva a 70. Per chi adotta da un altro paese europeo i tempi sono diversi: il cucciolo parte intorno ai quattro mesi, perché servono antirabbica, passaporto e certificato TRACES (<a href="/cucciolo-staffordshire-bull-terrier-all-estero/">come funziona un affido all'estero</a>). Questo periodo è fondamentale: nelle prime 8 settimane il cucciolo impara dalla madre le basi della comunicazione canina e l'autocontrollo. Cedere prima è illegale e dannoso.</div>
+  <div class="faq-answer">I <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli Staffy</a> vengono affidati dopo i 60 giorni di età: è il minimo che la legge italiana consente, e all'allevamento Del Piccolo Diavolo in genere si arriva a 70. Per chi adotta da un altro paese europeo i tempi sono diversi: il cucciolo parte intorno ai quattro mesi, perché servono antirabbica, passaporto e certificato TRACES (<a href="/cucciolo-staffordshire-bull-terrier-all-estero/">come funziona un affido all'estero</a>). Questo periodo è fondamentale: nelle prime 8 settimane il cucciolo impara dalla madre le basi della comunicazione canina e l'autocontrollo. Cedere prima è illegale e dannoso.</div>
   </div>
 
   <div class="faq-item active">

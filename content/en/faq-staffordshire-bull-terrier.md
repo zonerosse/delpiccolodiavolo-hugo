@@ -4,7 +4,7 @@ og_image: "/images/og/schede/en/faq-staffordshire-bull-terrier.jpg"
 og_image_alt: "Staffordshire Bull Terrier FAQ - Frequently Asked Questions — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/faq-sullo-staffordshire-bull-terrier.webp"
 date: 2025-12-28
-lastmod: 2026-10-05
+lastmod: 2026-10-08
 translationKey: "faq"
 description: "Staffordshire Bull Terrier FAQ from a breeder: temperament, children and other dogs, health tests, lifespan, cost and how to choose a breeder."
 slug: "faq-staffordshire-bull-terrier"
@@ -81,7 +81,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">At what age can I take the puppy home?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer"><a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies</a> are placed after 60 days of age: that is the minimum Italian law allows, and here they usually stay until 70. For families adopting from another European country the timing is different: the puppy leaves at around four months, because the rabies vaccination, the pet passport and the TRACES certificate are all needed (<a href="/en/staffordshire-bull-terrier-puppy-abroad/">how a placement abroad works</a>). This period is essential: in the first 8 weeks the puppy learns from the mother the basics of canine communication and self-control. Placing earlier is illegal and harmful.</div>
+  <div class="faq-answer"><a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffy puppies</a> are placed after 60 days of age: that is the minimum Italian law allows, and here they usually stay until 70. For families adopting from another European country the timing is different: the puppy leaves at around four months, because the rabies vaccination, the pet passport and the TRACES certificate are all needed (<a href="/en/staffordshire-bull-terrier-puppy-abroad/">how a placement abroad works</a>). This period is essential: in the first 8 weeks the puppy learns from the mother the basics of canine communication and self-control. Placing earlier is illegal and harmful.</div>
   </div>
 
   <div class="faq-item active">

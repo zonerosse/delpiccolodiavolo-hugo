@@ -104,7 +104,7 @@ custom_content: |
 
   <p>Applicare cinque esercizi identici a otto cuccioli diversi, contando i secondi, vuol dire trattarli come se fossero intercambiabili. Non lo sono, come non lo sono i bambini.</p>
 
-  <p>Dal primo mese in avanti comincia la parte che conta di più: il passaggio al box con sfogo esterno, il rientro in casa a turno, e poi le persone, i rumori, gli altri cani. È lì che si costruisce il carattere di un cane adulto, e dopo non si recupera. Come crescono i nostri lo racconta la pagina dei <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli di Staffordshire Bull Terrier</a>.</p>
+  <p>Dal primo mese in avanti comincia la parte che conta di più: il passaggio al box con sfogo esterno, il rientro in casa a turno, e poi le persone, i rumori, gli altri cani. È lì che si costruisce il carattere di un cane adulto, e dopo non si recupera. Come crescono i nostri lo racconta la pagina dei <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli di Staffy</a>.</p>
   <!--/BLOCCO:5-->
 
   <!--BLOCCO:6-->

@@ -145,7 +145,7 @@ custom_content: |
   <div class="related">
   <h3>Articoli correlati</h3>
   <ul>
-  <li><a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli">I nostri cuccioli di Staffordshire Bull Terrier</a></li>
+  <li><a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli">I nostri cuccioli di Staffy</a></li>
   <li><a href="/differenza-staffy-pitbull-amstaff/" title="Differenze">Differenza tra Staffy, Pitbull e Amstaff</a></li>
   <li><a href="/linee-sangue-staffordshire-bull-terrier/" title="Linee di sangue">Linee di sangue dello Staffordshire Bull Terrier</a></li>
   <li><a href="/staffordshire-bull-terrier-e-il-cane-giusto-per-te/" title="È il cane giusto per te">Lo Staffy è il cane giusto per te?</a></li>

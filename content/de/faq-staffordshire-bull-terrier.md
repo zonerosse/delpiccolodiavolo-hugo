@@ -4,7 +4,7 @@ og_image: "/images/og/schede/de/faq-staffordshire-bull-terrier.jpg"
 og_image_alt: "FAQ Staffordshire Bull Terrier - Häufig gestellte Fragen — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/faq-sullo-staffordshire-bull-terrier.webp"
 date: 2025-12-28
-lastmod: 2026-10-05
+lastmod: 2026-10-08
 translationKey: "faq"
 description: "Antworten auf häufig gestellte Fragen über Staffordshire Bull Terrier: Charakter, Gesundheit, Welpen, Kosten, Ernährung, Training. Zucht Del Piccolo Diavolo."
 slug: "faq-staffordshire-bull-terrier"
@@ -81,7 +81,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Mit welchem Alter kann ich den Welpen nach Hause bringen?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer"><a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Staffordshire Bull Terrier Welpen</a> werden nach 60 Tagen übergeben: das ist das gesetzliche Minimum in Italien, in der Zucht Del Piccolo Diavolo bleiben sie in der Regel bis 70 Tage. Für Familien aus einem anderen europäischen Land gelten andere Fristen: der Welpe reist mit etwa vier Monaten, denn Tollwutimpfung, Heimtierausweis und TRACES-Zeugnis werden benötigt (<a href="/de/staffordshire-bull-terrier-welpe-ins-ausland/">wie eine Vermittlung ins Ausland abläuft</a>). Diese Zeit ist grundlegend: In den ersten 8 Wochen lernt der Welpe von der Mutter die Grundlagen der Hundekommunikation und Selbstkontrolle. Frühere Übergabe ist illegal und schädlich.</div>
+  <div class="faq-answer"><a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Staffy-Welpen</a> werden nach 60 Tagen übergeben: das ist das gesetzliche Minimum in Italien, in der Zucht Del Piccolo Diavolo bleiben sie in der Regel bis 70 Tage. Für Familien aus einem anderen europäischen Land gelten andere Fristen: der Welpe reist mit etwa vier Monaten, denn Tollwutimpfung, Heimtierausweis und TRACES-Zeugnis werden benötigt (<a href="/de/staffordshire-bull-terrier-welpe-ins-ausland/">wie eine Vermittlung ins Ausland abläuft</a>). Diese Zeit ist grundlegend: In den ersten 8 Wochen lernt der Welpe von der Mutter die Grundlagen der Hundekommunikation und Selbstkontrolle. Frühere Übergabe ist illegal und schädlich.</div>
   </div>
 
   <div class="faq-item active">

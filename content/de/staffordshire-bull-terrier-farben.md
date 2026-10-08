@@ -146,7 +146,7 @@ custom_content: |
   <div class="related">
   <h3>Verwandte Artikel</h3>
   <ul>
-  <li><a href="/de/welpen-staffordshire-bull-terrier/" title="Welpen">Unsere Staffordshire Bull Terrier Welpen</a></li>
+  <li><a href="/de/welpen-staffordshire-bull-terrier/" title="Welpen">Unsere Staffy-Welpen</a></li>
   <li><a href="/de/staffy-pitbull-amstaff-unterschied/" title="Unterschiede">Unterschied zwischen Staffy, Pitbull und Amstaff</a></li>
   <li><a href="/de/staffy-blutlinien-guide/" title="Blutlinien">Blutlinien des Staffordshire Bull Terrier</a></li>
   <li><a href="/de/ist-der-staffordshire-bull-terrier-der-richtige-hund/" title="Ist er der richtige Hund">Ist der Staffy der richtige Hund für Sie?</a></li>

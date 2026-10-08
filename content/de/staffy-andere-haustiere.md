@@ -539,7 +539,7 @@ custom_content: |
   <ul>
   <li><a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das wirklich heißt">Sozialisierte Welpen: was das wirklich heißt</a></li>
   <li><a href="/de/staffy-kinder-familie/" title="Staffordshire Bull Terrier mit Kindern und Familie">Staffordshire Bull Terrier mit Kindern und Familie</a></li>
-  <li><a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Staffordshire Bull Terrier Welpen</a></li>
+  <li><a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Staffy-Welpen</a></li>
   <li><a href="/de/staffordshire-bull-terrier-charakter-familienleben/" title="Staffordshire Bull Terrier: Charakter und Familienleben">Staffordshire Bull Terrier: Charakter und Familienleben</a></li>
   <li><a href="/de/staffy-aeltere-besitzer/" title="Staffordshire Bull Terrier für ältere Besitzer">Staffordshire Bull Terrier für ältere Besitzer</a></li>
   <li><a href="/de/welpen-sozialisierung-zuhause/" title="Welpen zu Hause sozialisieren: die Liste für die Familie">Welpen zu Hause sozialisieren: die Liste für die Familie</a></li>

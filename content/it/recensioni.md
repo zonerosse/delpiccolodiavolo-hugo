@@ -2,7 +2,7 @@
 title: "Recensioni Staffordshire Bull Terrier"
 titleSeo: "Recensioni Staffordshire Bull Terrier: <!--REC-TOTALE--> famiglie"
 date: 2025-12-28
-lastmod: 2026-10-05
+lastmod: 2026-10-08
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
 description: "Le recensioni Google delle famiglie che hanno scelto un cucciolo Del Piccolo Diavolo: esperienze reali, prima e dopo l'affido, ognuna collegata all'originale."
@@ -344,7 +344,7 @@ custom_content: |
   </div>
 
   <div class="links-box">
-  <p>Scopri le nostre <a href="/programma-allevamento/" title="Cucciolate programmate">cucciolate</a> e i <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli di Staffordshire Bull Terrier</a>.</p>
+  <p>Scopri le nostre <a href="/programma-allevamento/" title="Cucciolate programmate">cucciolate</a> e i <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli Staffy</a>.</p>
   <p>Conosci i nostri <a href="/maschi-staffordshire-bull-terrier/" title="Maschi Staffordshire Bull Terrier">maschi campioni</a> e le <a href="/femmine-staffordshire-bull-terrier/" title="Femmine Staffordshire Bull Terrier">fattrici selezionate</a>.</p>
   </div>
   </div>
