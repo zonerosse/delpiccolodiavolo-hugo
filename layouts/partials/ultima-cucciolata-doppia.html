@@ -1,13 +1,13 @@
-{{- /* true se l'ultima cucciolata del diario (stessa data di nascita) è già fra le schede
-       del gestionale nella pagina Cuccioli (data/cucciolate.json, interruttore "Pagina Cuccioli"):
-       in quel caso la sezione "L'ultima cucciolata" non si mostra, per non averla due volte
-       (scelta D di Paolo, 08/10/2026). Usato da ultima-cucciolata-scheda.html e single.md. */ -}}
+{{- /* true se fra le schede del gestionale nella pagina Cuccioli (data/cucciolate.json, interruttore
+       "Pagina Cuccioli") c'è una cucciolata nata con la stessa data dell'ultima del diario (sarebbe un
+       doppione, scelta D di Paolo, 08/10/2026) o più recente (allora quella del diario non è più
+       l'ultima): in tutti e due i casi la sezione "L'ultima cucciolata" non si mostra. Usato da ultima-cucciolata-scheda.html e single.md. */ -}}
 {{- $doppia := false -}}
 {{- with .Site.GetPage "/diario-allevamento" -}}
   {{- range first 1 .RegularPages.ByDate.Reverse -}}
     {{- $d := .Date.Format "2006-01-02" -}}
     {{- with site.Data.cucciolate -}}{{- range .items -}}
-      {{- if and (ne .state "plan") (eq .date $d) }}{{ $doppia = true }}{{ end -}}
+      {{- if and (ne .state "plan") (ge .date $d) }}{{ $doppia = true }}{{ end -}}
     {{- end -}}{{- end -}}
   {{- end -}}
 {{- end -}}

@@ -53,5 +53,5 @@ fetch(API,{mode:"cors"}).then(function(r){return r.ok?r.json():null}).then(funct
   '<div class="pair">'+dog(x.dam)+'<div class="pair-x">×</div>'+dog(x.sire)+'</div>'+(x.n>0||x.sbtUrl?'<p class="pedigree-link">'+(x.n>0?x.n+" "+T.pups+": "+x.m+" "+T.m+" "+T.and+" "+x.f+" "+T.f+". ":"")+(x.sbtUrl?T.ped+' <a class="sbt-link" href="'+e(x.sbtUrl)+'" target="_blank" rel="noopener">'+T.see+'</a>':"")+'</p>':"")+'</article>'}).join("");
  S.hidden=!j.items.length;
  /* "L'ultima cucciolata" (ultima-cucciolata-scheda.html) non si ripete se la stessa cucciolata è già qui */
- document.querySelectorAll(".ultima-cu").forEach(function(u){u.hidden=j.items.some(function(x){return x.state!=="plan"&&x.date===u.getAttribute("data-date")})})}).catch(function(){})})();
+ document.querySelectorAll(".ultima-cu").forEach(function(u){u.hidden=j.items.some(function(x){return x.state!=="plan"&&(x.date||"")>=u.getAttribute("data-date")})})}).catch(function(){})})();
 </script>
