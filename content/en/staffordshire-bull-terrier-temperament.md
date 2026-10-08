@@ -23,6 +23,9 @@ correlati:
     testo: "English and Irish lines: what changes in temperament"
 ---
 
+
+<!--BLOCCO:1-->
+
 <section class="hero">
 <div class="hero-visual">
 <div class="hero-image">
@@ -40,12 +43,18 @@ correlati:
 </div>
 </section>
 
+<!--/BLOCCO:1-->
+
+
 <nav class="breadcrumb" aria-label="Breadcrumb">
 <a href="/en/" title="Home">Home</a> &rsaquo;
 <a href="/en/blog/" title="Blog">Blog</a> &rsaquo;
 <a aria-label="Standard and bloodlines &mdash; blog category" href="/en/blog/#standard" title="Standard and bloodline articles">Standard and bloodlines</a> &rsaquo;
 <span>The temperament</span>
 </nav>
+
+
+<!--BLOCCO:2-->
 
 <section class="section">
 <div class="section-inner content-single">
@@ -108,8 +117,17 @@ correlati:
 </div>
 </section>
 
+<!--/BLOCCO:2-->
+
+
+
+<!--BLOCCO:3-->
+
 <section class="cta-section">
 <h2>Would You Like to Meet Our Staffies in Person?</h2>
 <p>The best way to understand the character of a line is to meet the adult dogs. Write to us to arrange a visit.</p>
 <a href="/wa/393924635584?text=Hi%20Paolo%2C%20I%27d%20like%20to%20meet%20your%20dogs" class="btn" title="Write to us on WhatsApp">Write to Us on WhatsApp</a>
 </section>
+
+<!--/BLOCCO:3-->
+

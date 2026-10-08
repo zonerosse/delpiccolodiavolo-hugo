@@ -11,6 +11,7 @@ thumb: "/images/blog/icone/staffy-pericoloso-legge-italia.webp"
 description: "Ist der Staffy gefährlich? Die VetCompass-Studie, das italienische Recht seit 2009 und der Vorschlag der Lombardei: Daten und Gesetze statt Vorurteile."
 slug: "staffy-gefaehrliche-rasse-gesetz"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -27,38 +28,48 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/de/" title="Home">Home</a> ›
   <a href="/de/blog/" title="Blog">Blog</a> ›
   <span>Staffy und Gesetz</span>
   </nav>
-  
+
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>In Italien steht der Staffordshire Bull Terrier auf keiner Liste gefährlicher Rassen: Die Liste wurde 2009 mit einer Verordnung des Gesundheitsministeriums abgeschafft, die die Verantwortung von der Rasse auf den Halter verlagert hat. Landesweit ist keine Rasse verboten oder besonderen Pflichten unterworfen, und die Regeln gelten für jeden Hund: an öffentlichen Orten eine Leine von höchstens anderthalb Metern, ein Maulkorb, der mitgeführt und bei Bedarf angelegt wird, Mikrochip, Registrierung und die volle zivilrechtliche Haftung des Halters. Örtliche Regeln für Parks oder Strände, Mietverträge und manche Fluggesellschaften können strenger sein, und andere europäische Länder regeln es anders. Eine Studie des Royal Veterinary College von 2020 mit 1.304 Staffordshire Bull Terriern und 21.029 anderen Hunden fand keinen signifikanten Unterschied bei der Aggression. Den Ruf der Rasse machen ihre Halter, Hund für Hund. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
-  
-  
+
+
+  <!--BLOCCO:2-->
   <h2>Der Mythos der gefährlichen Rasse</h2>
   <p>Die Vorstellung, bestimmte Rassen seien von Natur aus gefährlich, prägt die Gesetzgebung in Europa seit 30 Jahren, und die Belege dafür waren nie überzeugend. Rassespezifische Gesetze beruhen auf der Annahme, Aggression sei eine feste Eigenschaft einer Rasse und nicht das Ergebnis von Genetik, Aufzucht, Erziehung, Haltung und der konkreten Situation, in der es zu einem Vorfall kommt.</p>
   <p>Wo solche Gesetze eingeführt und anschließend untersucht wurden, fielen die Ergebnisse durchweg ernüchternd aus. Die Zahl der Beißvorfälle sank nicht entsprechend, unter anderem weil die Rassebestimmung durch Zeugen unzuverlässig ist und weil die Hunde in schweren Vorfällen meist von Haltern stammen, die sich ohnehin nicht an Vorschriften halten. Der Staffy wird zudem oft mit dem American Pit Bull Terrier und mit dem <a href="/de/staffy-oder-amstaff-welche-rasse-passt-zu-ihnen/" title="Staffy oder Amstaff: der Test">American Staffordshire Terrier</a> verwechselt: Ist ein Hund vom Bull-Typ in einen Vorfall verwickelt, heißt er „Pitbull“ oder „Staffy“, ganz gleich, welcher Rasse er angehört. Mehrere Länder, die Rasselisten früh eingeführt haben, haben sie deshalb wieder abgeschafft oder eingeschränkt.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>Was die Daten sagen: die Studie des Royal Veterinary College</h2>
   <p>2020 veröffentlichte das Royal Veterinary College in London die erste große Studie, die den Ruf der Rasse an klinischen Daten überprüft hat. Im Rahmen des Programms <a href="https://www.rvc.ac.uk/vetcompass/" target="_blank" rel="noopener" aria-label="VetCompass, Royal Veterinary College (wird in einem neuen Tab geöffnet)">VetCompass™</a> wurden die Unterlagen des Jahres 2016 von Hunden in tierärztlicher Grundversorgung im Vereinigten Königreich ausgewertet: 1.304 Staffordshire Bull Terrier und 21.029 Hunde anderer Rassen.</p>
   <p>Die Studie ging von der Hypothese aus, dass Staffordshire Bull Terrier eine höhere Chance auf Aggression zeigen. Die Daten haben das nicht bestätigt: Es gab <strong>keinen statistisch signifikanten Unterschied</strong> zwischen der Rasse und anderen Hunden (Odds Ratio 1,09, 95-%-Konfidenzintervall 0,75 bis 1,58, p = 0,644). Ein Intervall, das von unter 1 bis über 1 reicht, bedeutet, dass die Studie in keiner Richtung einen messbaren Unterschied gefunden hat.</p>
   <p>Dieselbe Studie fand bei vier der 36 häufigsten untersuchten Erkrankungen eine höhere Chance, darunter Krampfanfälle, und bei fünf eine niedrigere. Das ist ein Gesundheitsprofil der Rasse, kein Urteil über ihr Wesen. Quelle: <a href="https://cgejournal.biomedcentral.com/articles/10.1186/s40575-020-00092-w" target="_blank" rel="noopener" aria-label="Pegram et al. 2020, Canine Medicine and Genetics (wird in einem neuen Tab geöffnet)">Pegram et al., Canine Medicine and Genetics, 2020</a>.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>Die Rechtslage in Italien</h2>
   <p>Italien gehört in dieser Frage zu den vernünftigeren Rechtsordnungen Europas. Die Liste angeblich gefährlicher Rassen wurde mit der <a href="https://www.salute.gov.it/portale/documentazione/p6_2_2_1.jsp?id=3031" target="_blank" rel="noopener" aria-label="Italienisches Gesundheitsministerium, Verordnung vom 3. März 2009 (wird in einem neuen Tab geöffnet)">Ministerialverordnung von 2009</a> abgeschafft, und der Grundsatz, der an ihre Stelle trat, wurde seither in jeder Folgeverordnung bestätigt: <strong>die Verantwortung liegt beim Halter, nicht bei der Rasse</strong>.</p>
   <p>Praktisch bedeutet das: keine rassebezogene Beschränkung für die Haltung eines Staffordshire Bull Terrier in Italien, keine Maulkorbpflicht aufgrund der Rasse, keine Versicherungspflicht aufgrund der Rasse. Die bestehenden Pflichten gelten für jeden Hund und jeden Halter: Leine von höchstens eineinhalb Metern an öffentlichen Orten, ein mitgeführter Maulkorb, der auf Verlangen der Behörden oder wenn die Situation es erfordert angelegt wird, Mikrochip und Registrierung sowie die volle zivilrechtliche Haftung für Schäden.</p>
   <p>Einzelne Gemeinden können für bestimmte Bereiche wie Parks oder Strände strengere Regeln erlassen, und ein Gericht kann nach einem Vorfall für einen bestimmten Hund eine Wesensbeurteilung und verpflichtende Ausbildung anordnen. Beides betrifft den einzelnen Hund, nicht die Rasse.</p>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>Wie Italien dahin kam: von der Liste 2006 zur Verordnung 2009</h2>
   <p>Im Dezember 2006 erließ die damalige Gesundheitsministerin Livia Turco eine Verordnung zum Schutz der öffentlichen Sicherheit vor Hundeangriffen, mit einem Anhang von <strong>17 Rassen</strong>, die als Risiko galten, darunter <a href="/de/staffy-pitbull-amstaff-unterschied/" title="Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich">Pit Bull</a>, Rottweiler, Dogo Argentino, Fila Brasileiro und Tosa Inu. Der Staffordshire Bull Terrier stand nicht auf dieser Liste; er wurde nur im Sprachgebrauch damit verbunden, wegen seiner Ähnlichkeit mit dem Pit Bull.</p>
   <p>Die Liste hielt kaum zwei Jahre. Die am 3. März 2009 von der Staatssekretärin Francesca Martini unterzeichnete Verordnung schaffte sie ab, mit der Begründung, dass die Veterinärmedizin es nicht erlaubt, ein höheres Aggressionsrisiko an der Rasse oder an Kreuzungen festzumachen. Was diese Verordnung eingeführt hat, gilt weiterhin: eine Leine von höchstens anderthalb Metern im städtischen Raum, ein mitgeführter Maulkorb, der auf Verlangen angelegt wird, ein Register der Hunde, die gebissen haben, bei den Gesundheitsbehörden, und die zivil- und strafrechtliche Haftung des Halters. Quelle: die <a href="https://www.salute.gov.it/portale/documentazione/p6_2_2_1.jsp?id=3031" target="_blank" rel="noopener" aria-label="Italienisches Gesundheitsministerium, Verordnung vom 3. März 2009 (wird in einem neuen Tab geöffnet)">Verordnung des italienischen Gesundheitsministeriums vom 3. März 2009</a>.</p>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>Der Vorschlag der Lombardei und die „Save List“</h2>
   <p>Im Januar 2025 legte die Region Lombardei einen Gesetzentwurf mit einer „Save List“ von 26 Hundetypen vor. Ihre Halter sollten einen Theoriekurs von mindestens zehn und einen Praxiskurs von mindestens sechs Stunden absolvieren, mit dem CAE-1-Test des <a href="https://www.enci.it/" target="_blank" rel="noopener" title="ENCI" aria-label="ENCI, italienischer Kennel Club (wird in einem neuen Tab geöffnet)">ENCI</a>, des italienischen Kennel Clubs, zum Abschluss. In der ersten Fassung der Liste stand auch der Staffordshire Bull Terrier. Am 24. Juni 2025 hat der Regionalrat den Text als Gesetzentwurf an das nationale Parlament verabschiedet: es ist kein Regionalgesetz, und er hat keine Wirkung, solange das Parlament ihn nicht beschließt.</p>
   <p>Der verabschiedete Text enthält zwei Änderungen, die für jeden zählen, der einen Staffy wählt. Erstens: <strong>der Staffordshire Bull Terrier steht nicht mehr auf der Liste</strong>. Zweitens: er <strong>nimmt Hunde aus, die im Zuchtbuch eingetragen sind</strong>, also Hunde mit ENCI-Ahnentafel, und verbietet Zucht und Abgabe von Hunden der gelisteten Typen ohne Papiere, um Hinterhofwürfe zu verhindern. Quelle: der <a href="https://www.anmvioggi.it/in-evidenza/77665-cani-in-save-list-il-testo-consolidato-della-plp-lombarda.html" target="_blank" rel="noopener" aria-label="Anmvi Oggi, konsolidierter Text des lombardischen Entwurfs (wird in einem neuen Tab geöffnet)">von Anmvi Oggi veröffentlichte konsolidierte Text</a>.</p>
@@ -80,22 +91,30 @@ custom_content: |
   <tr><td>Tschechoslowakischer Wolfhund</td><td>Saarlooswolfhond</td><td></td></tr>
   </tbody>
   </table>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:7-->
   <h2>Europa, Land für Land</h2>
   <figure class="article-image img-left">
   <img src="/images/cucciolo-rosso.webp" alt="Roter Staffordshire Bull Terrier Welpe" loading="lazy" decoding="async" width="260" height="297">
   <figcaption>Staffordshire Bull Terrier Welpe</figcaption>
   </figure>
   <p>Im <strong>Vereinigten Königreich</strong> verbietet der Dangerous Dogs Act 1991 vier Typen: Pit Bull Terrier, Japanischer Tosa, Dogo Argentino und Fila Brasileiro. Der Staffordshire Bull Terrier gehört nicht dazu und ist eine der beliebtesten Rassen des Landes. In <strong>Deutschland</strong> beschränkt das Bundesrecht die Einfuhr einiger Rassen, während die Länder eigene Listen führen, und in manchen gelten für den Staffordshire Bull Terrier Auflagen. In <strong>Frankreich</strong> werden Hunde in zwei Kategorien eingeteilt, und ein Staffordshire Bull Terrier mit französischer LOF-Ahnentafel fällt in keine davon. In <strong>Irland</strong> steht die Rasse auf der Liste der Hunde, die in der Öffentlichkeit mit Maulkorb und an kurzer Leine von einer Person über sechzehn geführt werden müssen.</p>
+  <!--/BLOCCO:7-->
 
+  <!--BLOCCO:8-->
   <h2>Die Lage im übrigen Europa</h2>
   <p>Wenn Sie dies außerhalb Italiens lesen, ist das Bild sehr unterschiedlich, und es ist wichtig, falls Sie mit dem Hund reisen oder umziehen wollen. Mehrere deutsche Bundesländer führen den Staffordshire Bull Terrier in ihren Rasselisten, mit Anforderungen von der Wesensprüfung bis zur Halteerlaubnis. Dänemark verbietet dreizehn Rassen, darunter <a href="/de/staffy-oder-amstaff-welche-rasse-passt-zu-ihnen/" title="Staffy oder Amstaff, welcher passt: der Test des Züchters">den American Staffordshire Terrier</a> und den Pit Bull Terrier, nicht aber den Staffordshire Bull Terrier; ein Hund, der einem verbotenen Typ ähnelt, muss seine Rasse unter Umständen nachweisen, ein Grund mehr, mit der Ahnentafel zu reisen. Irland verlangt für eine Reihe von Typen Maulkorb und kurze Leine im öffentlichen Raum. Das Vereinigte Königreich, das Ursprungsland der Rasse, kennt keinerlei Beschränkung.</p>
   <p>Wer mit einem Staffordshire Bull Terrier über Grenzen zieht, sollte die aktuellen Bestimmungen des Ziellandes unmittelbar prüfen und sich nicht auf Angaben aus zweiter Hand verlassen, denn diese Listen ändern sich. Bei jedem Welpen, den wir ins Ausland abgeben, tun wir das selbstverständlich und sprechen Beschränkungen im Zielland offen an.</p>
+  <!--/BLOCCO:8-->
 
+  <!--BLOCCO:9-->
   <h2>Wie das Wesen der Rasse tatsächlich ist</h2>
   <p>Der Staffordshire Bull Terrier wurde auf eine anspruchsvolle Kombination selektiert: Mut und Beharrlichkeit gegenüber anderen Tieren und absolute Zuverlässigkeit gegenüber Menschen. Hunde, die Aggression gegen Menschen zeigten, wurden historisch ohne Diskussion aus der Zucht genommen, weil ständig und auf engstem Raum mit ihnen umgegangen wurde.</p>
   <p>Das Ergebnis ist eine Rasse, deren hervorstechendes Merkmal die Zuneigung zu Menschen ist, auch zu fremden und, sprichwörtlich, zu Kindern. Der <a href="https://www.thekennelclub.org.uk/breed-standards/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="Rassestandard des Kennel Club (wird in einem neuen Tab geöffnet)">Rassestandard des Kennel Club</a> beschreibt sie als kühn, furchtlos und vollkommen zuverlässig — einer der wenigen Standards, die das Wort zuverlässig überhaupt verwenden. Daher der inoffizielle Beiname Kindermädchen-Hund, den wir mit Vorsicht behandeln: kein Hund welcher Rasse auch immer sollte unbeaufsichtigt mit einem kleinen Kind bleiben, und Zuneigung ersetzt keine Aufsicht.</p>
   <p>Die ehrliche Kehrseite lautet: Verträglichkeit mit anderen Hunden ist nicht garantiert. Ein Staffordshire Bull Terrier, der schlecht sozialisiert wurde oder zu Reaktionen ermuntert worden ist, kann nach der Reife gegenüber gleichgeschlechtlichen Artgenossen schwierig sein. Das ist eine Frage des Managements und vollständig vorhersehbar — und genau deshalb gehört es vor die Auswahl eines Welpen, nicht danach.</p>
+  <!--/BLOCCO:9-->
+  <!--BLOCCO:10-->
   <h2>Der Mythos „Nanny Dog“: was er bedeutet und was nicht</h2>
   <p>Vermutlich haben Sie den Staffordshire Bull Terrier schon „Nanny Dog“ nennen hören. Der Spitzname entstand im 20. Jahrhundert, als englische Arbeiterfamilien bemerkten, wie geduldig und familienverbunden diese Hunde mit Kindern waren. Er bedeutet nicht, dass die Rasse dafür geschaffen wurde, auf Kinder aufzupassen: Er beschreibt Toleranz und Bindung an die menschliche Familie, und genau das macht die Rasse für das Familienleben geeignet.</p>
 
@@ -108,16 +127,22 @@ custom_content: |
   <p class="alert-title">⚠️ Aufsicht ist immer nötig</p>
   <p>Unabhängig von der Rasse <strong>sollte kein Hund jemals ohne Erwachsene mit kleinen Kindern allein gelassen werden</strong>. Das gilt für den Staffy genauso wie für den Labrador, den Golden Retriever oder jede andere Rasse.</p>
   </div>
+  <!--/BLOCCO:10-->
 
+  <!--BLOCCO:11-->
   <h2>Versicherung, Wohnen und Alltag</h2>
   <p>Eine Haftpflichtversicherung ist in Italien für diese Rasse nicht vorgeschrieben, wir empfehlen sie aber jedem Halter unabhängig von der Rasse: die Beiträge sind gering und decken Situationen ab, die mit Aggression nichts zu tun haben, etwa wenn ein Hund einen Radfahrer zu Fall bringt.</p>
   <p>Eine italienische Wohnungseigentümergemeinschaft darf die Tierhaltung in Eigentumswohnungen seit der Reform von 2012 nicht verbieten. Mietverträge sind eine andere Frage und können Klauseln zu Tieren enthalten, weshalb dies vor der Unterschrift zu klären ist. Manche Fluggesellschaften und Fährbetreiber wenden eigene, strengere Rassebeschränkungen an, die vor jeder Reise gesondert geprüft werden müssen.</p>
+  <!--/BLOCCO:11-->
 
+  <!--BLOCCO:12-->
   <h2>Was verantwortungsvolle Haltung praktisch bedeutet</h2>
   <p>Frühe und fortgesetzte Sozialisierung, die beim Züchter beginnt und durch das erste Lebensjahr trägt. Grundgehorsam mit zuverlässigem Rückruf, der mehr wert ist als jeder Maulkorb. Kein wildes Spiel, das Zwicken oder Zerren am Menschen belohnt. Umsichtiges Management bei fremden Hunden statt optimistischem Hoffen. Und genug körperliche wie geistige Auslastung, damit ein kräftiger, kluger Hund sich nicht selbst beschäftigen muss.</p>
   <p>Nichts davon ist außergewöhnlich, und alles davon ist die normale Arbeit mit einem gut gebauten Terrier. Der Ruf der Rasse wird von den Haltern gemacht, Hund für Hund, und das Nützlichste, was ein Halter für die Rasse tun kann, ist ein sichtbar gut erzogener Hund in der Öffentlichkeit.</p>
   <p>Deshalb beginnt die Selektion bei der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo</a> beim Wesen: die <a href="/de/rueden-staffordshire-bull-terrier/" title="Staffy Rüden">Rüden</a> und <a href="/de/huendinnen-staffordshire-bull-terrier/" title="Staffy Hündinnen">Hündinnen</a> sind getestet oder durch Abstammung frei, mit den Befunden der Eltern, und auch nach ihrer Ausgeglichenheit ausgewählt, und die <a href="/de/staffy-blutlinien-guide/" title="Staffy Blutlinien">Blutlinien</a> werden auch auf das Wesen hin studiert. Die <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffy Welpen">Staffy-Welpen</a> wachsen im Haus und dann im Hof auf, mit Menschen, Geräuschen und erwachsenen Hunden in den Wochen, in denen es zählt. Weitere Antworten stehen in den <a href="/de/faq-staffordshire-bull-terrier/" title="Staffy FAQ">FAQ</a> und in den <a href="/de/bewertungen/" title="Bewertungen unserer Familien">Bewertungen der Familien</a>; für einen Besuch die <a href="/de/kontakt/" title="Kontakt">Kontaktseite</a>.</p>
+  <!--/BLOCCO:12-->
 
+  <!--BLOCCO:13-->
   <h2>Häufige Fragen</h2>
 
   <div class="faq-list">
@@ -190,11 +215,12 @@ custom_content: |
   <li><a href="/de/staffordshire-bull-terrier-charakter-familienleben/" title="Staffordshire Bull Terrier: Charakter und Familienleben">Staffordshire Bull Terrier: Charakter und Familienleben</a></li>
   </ul>
   </div>
-  
+
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>
-  
+  <!--/BLOCCO:13-->
+
   </article>
   </div>
 ---

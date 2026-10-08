@@ -18,6 +18,7 @@ correlati:
     testo: "Typ, Bewegung und Wohlbefindensfehler"
 slug: "wuerfe-staffordshire-bull-terrier"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -35,7 +36,8 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>Elitebull Lines</span>
@@ -54,14 +56,16 @@ custom_content: |
   <span>Ostellato FE</span>
   </div>
   </div>
-  
+
+  <!--BLOCCO:2-->
   <!--CUCCIOLATA-->
+  <!--/BLOCCO:2-->
 
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Unser Programm</span>
   <h2 class="section-title">Zuchtprogramm</h2>
-  
+
   <div class="intro-block">
   <p>In der Zucht Del Piccolo Diavolo wird jeder Wurf aus einer sorgfältigen Auswahl gesunder, ausgeglichener und standardkonformer Eltern geboren. Das Wurfprogramm garantiert Wohlbefinden, Charakter und Typizität der Rasse nach höchsten ethischen und gesundheitlichen Standards. Jeder hier geborene Wurf, mit Eltern, Tests, Untersuchungen und Fotos des Heranwachsens, steht im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Zuchttagebuch</a>.</p>
   <p>Die Welpen wachsen in familiärer Umgebung auf, sozialisiert mit Menschen, Geräuschen und anderen Tieren für eine harmonische Entwicklung. Jeder Welpe wird nach tierärztlichen Kontrollen, Impfungen, Mikrochip und Registrierung übergeben.</p>
@@ -69,12 +73,12 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Verpaarungen</span>
   <h2 class="section-title">Geplante und Vergangene Würfe</h2>
-  
+
   <!-- Wurf: Bilquis × Black Jack - GEBOREN, NICHT VERFÜGBAR -->
   <!-- GESTIONALE:INIZIO -->
   <!-- GESTIONALE:FINE -->
@@ -84,7 +88,7 @@ custom_content: |
   <h3 class="litter-title">Wurf geboren am 01.08.2026</h3>
   <span class="badge badge-soldout">Nicht verfügbar</span>
   </div>
-  
+
   <div class="pair">
   <div class="dog">
   <span class="dog-name">JCH. CH. Italiana Bilquis Goddess Diabhal</span>
@@ -98,9 +102,9 @@ custom_content: |
   <p>Skilful-dogs Nora × Pablo iuno sospita plata plomo</p>
   <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Bilquis Stammbaum auf SBTPedigree ansehen" aria-label="Stammbaum ansehen von JCH. CH. Italiana Bilquis Goddess Diabhal (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
   </div>
-  
+
   <div class="pair-x">×</div>
-  
+
   <div class="dog">
   <span class="dog-name">Black Jack di Casa Giacalone</span>
   <img src="/images/jack1.jpg" alt="Black Jack di Casa Giacalone - Schwarzer Staffordshire Bull Terrier Zuchtrüde" width="250" height="399" loading="lazy" decoding="async">
@@ -113,9 +117,9 @@ custom_content: |
   <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" title="Black Jack Stammbaum auf SBTPedigree ansehen" aria-label="Stammbaum ansehen von Black Jack di Casa Giacalone (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
   </div>
   </div>
-  
+
   <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Eine Verpaarung, die die Championin-Morphologie von Bilquis (Italienische Championin, 4. beim World Dog Show 2024) mit den Linien von Black Jack verbindet, dem Sohn des Weltsiegers 2023 Quash Marvelous Hagler de Stafflorence. Geboren am 1. August 2026, schwarze Welpen. Wurf vollständig: nicht verfügbar.</p>
-  
+
   <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" title="Stammbaum Wurf Bilquis x Black Jack ansehen" aria-label="Vollständigen Stammbaum des Wurfes vom 1. August 2026 auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">auf SBTPedigree ansehen</a></p>
   <div class="related-articles">
   <h3>Mehr zum Thema</h3>
@@ -124,16 +128,16 @@ custom_content: |
   <li><a href="/de/wie-man-eine-ahnentafel-liest/" title="Ahnentafel lesen: was die ENCI zeigt und was nicht">Ahnentafel lesen: was die ENCI zeigt und was nicht</a></li>
   </ul>
   </div>
-  
+
   </article>
-  
+
   <!-- Wurf 1: Heat × Nora - KOMMEND -->
   <article class="litter-card" id="cucciolata-2026-02-09" data-nascita="2026-02-09">
   <div class="litter-header">
   <h3 class="litter-title">Wurf geboren am 09.02.2026</h3>
   <span class="badge badge-soldout">Nicht verfügbar</span>
   </div>
-  
+
   <div class="pair">
   <div class="dog">
   <span class="dog-name">Vangerbull Red Harricane</span>
@@ -145,9 +149,9 @@ custom_content: |
   <p>CH. Americano Toreator De Testaferro x Staffgold Girl Of Ice</p>
   <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=3372904" target="_blank" rel="noopener" title="Red Stammbaum auf SBTPedigree ansehen" aria-label="Stammbaum ansehen von Vangerbull Red Harricane (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
   </div>
-  
+
   <div class="pair-x">×</div>
-  
+
   <div class="dog">
   <span class="dog-name">Skilful-dogs Nora</span>
   <img src="/images/nora-femmina-staffordshire-bull-terrier.avif" alt="Skilful-dogs Nora - Staffordshire Bull Terrier Zuchthündin" width="300" height="446" loading="lazy" decoding="async">
@@ -159,20 +163,20 @@ custom_content: |
   <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="Nora Stammbaum auf SBTPedigree ansehen" aria-label="Stammbaum ansehen von Skilful-dogs Nora (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
   </div>
   </div>
-  
+
   <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Diese Verpaarung wurde geplant, um die Merkmale der Vangerbull-Linie zu festigen und dabei das hervorragende Familientemperament von Skilful-Dogs zu bewahren. Geboren am 9. Februar 2026, <a href="/de/staffordshire-bull-terrier-farben/" title="Die Farben des Staffordshire Bull Terrier">gestromte und rot-weiße</a> Welpen. Nicht verfügbar.</p>
-  
+
   <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" title="Stammbaum Wurf Red x Nora ansehen" aria-label="Vollständigen Stammbaum des Wurfes vom 9. Februar 2026 auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">auf SBTPedigree ansehen</a></p>
   <p class="pedigree-link">Tagebuch des Wurfs: <a href="/de/diario-allevamento/wurf-red-nora-februar-2026/" title="Wurf Red × Nora im Tagebuch">Eltern, Tests, Untersuchungen und Wachstum</a></p>
   </article>
-  
+
   <!-- Wurf 2: Bilquis × Luis - AUSVERKAUFT -->
   <article class="litter-card" id="cucciolata-2025-05-02" data-nascita="2025-05-02">
   <div class="litter-header">
   <h3 class="litter-title">Wurf geboren am 02.05.2025</h3>
   <span class="badge badge-soldout">Nicht verfügbar</span>
   </div>
-  
+
   <div class="pair">
   <div class="dog">
   <span class="dog-name">JCH. CH. Italiana Bilquis Goddess Diabhal</span>
@@ -186,9 +190,9 @@ custom_content: |
   <p>Skilful-dogs Nora × Pablo iuno sospita plata plomo</p>
   <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Bilquis Stammbaum auf SBTPedigree ansehen" aria-label="Stammbaum ansehen von JCH. CH. Italiana Bilquis Goddess Diabhal (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
   </div>
-  
+
   <div class="pair-x">×</div>
-  
+
   <div class="dog">
   <span class="dog-name">Il lupo perde il pelo ma non il vizio – Luis</span>
   <img src="/images/luis2.webp" alt="Luis - Staffordshire Bull Terrier Zuchtrüde" width="300" height="447" loading="lazy" decoding="async">
@@ -200,17 +204,17 @@ custom_content: |
   <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4555572" target="_blank" rel="noopener" title="Luis Stammbaum auf SBTPedigree ansehen" aria-label="Stammbaum ansehen von Il lupo perde il pelo ma non il vizio – Luis (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
   </div>
   </div>
-  
+
   <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4555572&DAM=4496127&generation=4&dogs_id=4555573" target="_blank" rel="noopener" title="Stammbaum Wurf Bilquis x Luis ansehen" aria-label="Vollständigen Stammbaum des Wurfes vom 2. Mai 2025 auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">auf SBTPedigree ansehen</a></p>
   </article>
-  
+
   <!-- Wurf 3: Prospect × Bean - AUSVERKAUFT -->
   <article class="litter-card" id="cucciolata-2025-02-01" data-nascita="2025-02-01">
   <div class="litter-header">
   <h3 class="litter-title">Welpen geboren am 01.02.2025</h3>
   <span class="badge badge-soldout">Nicht verfügbar</span>
   </div>
-  
+
   <div class="pair">
   <div class="dog">
   <span class="dog-name">CH. Elitebull Prospect</span>
@@ -222,9 +226,9 @@ custom_content: |
   <p>CH. Elitebulls Challenger × Elitebull Destiny</p>
   <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4483601" target="_blank" rel="noopener" title="Prospect Stammbaum auf SBTPedigree ansehen" aria-label="Stammbaum ansehen von CH. Elitebull Prospect (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
   </div>
-  
+
   <div class="pair-x">×</div>
-  
+
   <div class="dog">
   <span class="dog-name">Lackyle Bean Croí Olc</span>
   <img src="/images/minnie3.webp" alt="Lackyle Bean Croí Olc - Staffordshire Bull Terrier Zuchthündin" width="225" height="320" loading="lazy" decoding="async">
@@ -236,13 +240,13 @@ custom_content: |
   <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="Bean Stammbaum auf SBTPedigree ansehen" aria-label="Stammbaum ansehen von Lackyle Bean Croí Olc (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
   </div>
   </div>
-  
+
   <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4483601&DAM=4538599&generation=4&dogs_id=4547824" target="_blank" rel="noopener" title="Stammbaum Wurf Prospect x Bean ansehen" aria-label="Vollständigen Stammbaum des Wurfes vom 1. Februar 2025 auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">auf SBTPedigree ansehen</a></p>
   </article>
-  
+
   </div>
   </section>
-  
+
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Methode</span>
@@ -264,22 +268,22 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">Häufige Fragen</span>
   <h2 class="section-title">FAQ zu Würfen</h2>
-  
+
   <div class="faq-item">
   <h3>Wie lerne ich Ihre Hunde kennen?</h3>
   <p>Schreiben Sie uns per WhatsApp oder rufen Sie an. Zuerst wird gesprochen — über die Rasse, über Ihren Haushalt, über die Hunde hinter einem Wurf. Familien, die einen Wurf begleiten, halten wir mit Fotos und Videos auf dem Laufenden.</p>
   </div>
-  
+
   <div class="faq-item">
   <h3>Wann kann ich die Welpen besuchen?</h3>
   <p>Besuche sind nach Terminvereinbarung ab der dritten Lebenswoche der Welpen möglich. Sie können die Eltern kennenlernen und die Umgebung sehen, in der sie aufwachsen. Wir empfehlen, den Besuch im Voraus zu buchen.</p>
   </div>
-  
+
   <div class="faq-item">
   <h3>Welche Garantien bieten Sie für die Welpen?</h3>
   <p>Jeder Welpe wird mit zertifiziertem ENCI-Stammbaum, Mikrochip, Gesundheitsheft, ersten Impfungen und Entwurmungen übergeben. Die Eltern sind auf L2HGA und HC getestet. Die Zucht Del Piccolo Diavolo bleibt das ganze Hundeleben lang erreichbar.</p>
   </div>
-  
+
   <div class="faq-item">
   <h3>Was steckt hinter einem Ihrer Würfe?</h3>
   <p>Eine Monate im Voraus geplante Verpaarung, auf L2HGA und HC getestete Zuchttiere, ein ENCI-Stammbaum und Welpen, die im Haus aufwachsen. Schreiben Sie uns, wir erzählen Ihnen von den Hunden und den kommenden Würfen.</p>
@@ -290,13 +294,15 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+
   <section class="dark-section">
   <h2>Wohlbefinden, Ethik und Verantwortung</h2>
   <p>Seit 2013 züchten wir Staffordshire Bull Terrier mit einem ethischen Ansatz: wenige ausgewählte Würfe, Aufmerksamkeit für Gesundheit, Charakter und Typizität. Jeder Welpe wird sorgfältig betreut, von der Geburt bis zum Einzug in die neue Familie. Unsere Mission ist es, die Authentizität der Rasse durch verantwortungsvolle und transparente Selektion zu bewahren.</p>
   </section>
-  
+
+  <!--BLOCCO:3-->
   <!--CORRELATI-->
+  <!--/BLOCCO:3-->
 
   <section class="cta-section">
   <h2>Möchten Sie Infos zu Würfen?</h2>

@@ -1,0 +1,5 @@
+{{- /* Data di aggiornamento: la più recente fra lastmod della pagina e "mod" delle modifiche del gestionale. */ -}}
+{{- $lm := .Lastmod -}}
+{{- $m := partial "pagine/mod.html" . -}}
+{{- with $m.mod -}}{{- $t := time . -}}{{- if or $lm.IsZero ($t.After $lm) -}}{{- $lm = $t -}}{{- end -}}{{- end -}}
+{{- return $lm -}}

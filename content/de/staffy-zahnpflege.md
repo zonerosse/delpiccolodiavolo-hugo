@@ -11,6 +11,7 @@ thumb: "/images/blog/icone/salute-denti-igiene.webp"
 description: "Zahnpflege beim Staffordshire Bull Terrier: rassetypische Besonderheiten, gefährliche Kauartikel, richtig Zähneputzen und wann eine Zahnreinigung nötig ist."
 slug: "staffy-zahnpflege"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -27,65 +28,89 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/de/" title="Home">Home</a> ›
   <a href="/de/blog/" title="Blog">Blog</a> ›
   <span>Zahnpflege</span>
   </nav>
-  
+
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>Zahnerkrankungen sind die am häufigsten diagnostizierte Erkrankung beim Hund, und der Staffordshire Bull Terrier braucht aus einem baulichen Grund besondere Aufmerksamkeit: zweiundvierzig Zähne in einem vergleichsweise kurzen Kiefer, so eng, dass sich Belag dort sammelt, wo die Zunge nicht hinkommt. Belag wird in etwa drei Tagen zu Zahnstein, deshalb ist das Zähneputzen das Einzige, was wirklich wirkt: täglich ist ideal, dreimal pro Woche das realistische Minimum, dreißig Sekunden je Seite. Gewöhnen Sie den Hund schon als Welpen langsam daran; mit sieben Monaten sollte kein Milchzahn mehr da sein. Der kräftige Kiefer der Rasse macht sehr harte Kauartikel gefährlich: Was Sie mit dem Fingernagel nicht eindrücken können, gehört nicht ins Maul. Ein regelmäßig geputzter Hund braucht vielleicht alle zwei bis drei Jahre eine professionelle Zahnreinigung, einer, der nie geputzt wurde, ab mittlerem Alter jedes Jahr. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
-  
-  
+
+
+  <!--BLOCCO:2-->
   <h2>Warum Zahngesundheit wichtiger ist, als Besitzer denken</h2>
   <p>Parodontalerkrankungen sind die am häufigsten diagnostizierte Erkrankung beim Hund und betreffen die große Mehrheit bereits mit 3 Jahren. Beim Staffordshire Bull Terrier verdient das besondere Aufmerksamkeit, und zwar aus einem baulichen Grund: die Rasse hat ein vollständiges Gebiss mit zweiundvierzig Zähnen in einem vergleichsweise kurzen Kiefer. Das bedeutet Enge, und Enge bedeutet Belag an Stellen, die keine Zunge erreicht.</p>
   <p>Die Folgen gehen weit über Mundgeruch hinaus. Eine chronische <a href="https://wsava.org/global-guidelines/" title="WSAVA-Leitlinien" target="_blank" rel="noopener" aria-label="WSAVA-Leitlinien (wird in einem neuen Tab geöffnet)">Zahn</a>infektion schwemmt fortlaufend Bakterien in die Blutbahn, und der Zusammenhang mit Herz-, Nieren- und Lebererkrankungen ist gut belegt. Ein Hund mit fortgeschrittener Parodontitis hat dauerhaft leichte Schmerzen, die er nicht mitteilen kann, und Besitzer beschreiben nach einer lange aufgeschobenen Zahnbehandlung regelmäßig einen völlig veränderten Hund.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>Rassespezifische Besonderheiten</h2>
   <p>Neben der Enge sind drei Punkte zu beachten. Persistierende Milchzähne, besonders die Fangzähne, sind häufig: steht ein Milchzahn noch, während der bleibende bereits durchgebrochen ist, muss er entfernt werden, weil beide zusammen Futterreste einklemmen und den bleibenden Zahn aus der Reihe drängen. Mit 7 Monaten sollte kein Milchzahn mehr vorhanden sein.</p>
   <p>Der zweite Punkt ist die Bissanomalie. Ein korrektes Scherengebiss verteilt die Abnutzung gleichmäßig; ein Vorbiss, der in der Rasse vorkommt, führt zu ungleichmäßigem Abrieb und örtlicher Zahnfleischreizung. In der Zucht ist er zu vermeiden, beim vorhandenen Hund bedeutet er engere Kontrolle.</p>
   <p>Drittens, und am meisten unterschätzt: Zahnfrakturen durch ungeeignete Kauartikel. Dies ist ein außerordentlich kräftiger Kiefer an einem Hund mit ungewöhnlich hoher Schmerzschwelle, und die klassische Verletzung ist eine Absplitterung am oberen Reißzahn. Der Hund zeigt oft überhaupt kein Anzeichen.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>Was geeignet ist und was nicht</h2>
   <p>Die Regel, die wir jeder Familie mitgeben, die einen unserer Welpen aufnimmt, ist einfach: was Sie mit dem Fingernagel nicht eindrücken können und was Sie sich nicht auf das Knie fallen lassen möchten, gehört nicht ins Maul des Hundes. Das schließt Geweihe, Knochen jeder Art einschließlich der verbreitet verkauften tragenden Rinderknochen, Nylonknochen, Hufe und Steine aus.</p>
   <p>Geeignet sind: Kauartikel aus Gummi, die unter Druck nachgeben, Zahnpflegeartikel mit nachgewiesener abrasiver Wirkung und rohe Karotten, sofern die Ernährung es zulässt. Bis der Welpe alle bleibenden Zähne hat, nur weiche Kauartikel, etwa weiche oder mittelharte Kongs, und keine Zerrspiele mit Lappen, Seilen oder Ähnlichem. Nichts davon ersetzt das Zähneputzen, und jedes Produkt, das damit wirbt, Putzen überflüssig zu machen, übertreibt.</p>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>Zähneputzen: das Einzige, was wirklich wirkt</h2>
   <p>Belag mineralisiert innerhalb von etwa 3 Tagen zu Zahnstein. Die mechanische Entfernung davor ist die einzige Maßnahme, die Parodontitis zuverlässig verhindert; alles andere ist Ergänzung.</p>
   <p>Täglich ist ideal, dreimal wöchentlich das realistische Minimum mit messbarem Effekt. Verwenden Sie eine Zahnpasta für Hunde, niemals menschliche Zahnpasta: sie enthält Fluorid und oft Xylit und ist giftig. Fingerbürste oder weiche Kinderzahnbürste funktionieren beide; die Bürste zählt weniger als die Regelmäßigkeit.</p>
   <p>Führen Sie es über 2 Wochen langsam ein: erst die Paste vom Finger lecken lassen, dann nur die Außenflächen der Fangzähne berühren, dann nach hinten erweitern. Die Außenflächen sind entscheidend, weil die Zunge die Innenflächen relativ sauber hält. 30 Sekunden pro Seite, regelmäßig, schlagen 5 Minuten gelegentlich.</p>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>Ein Problem erkennen</h2>
   <p>Mundgeruch ist das erste Zeichen und dasjenige, das am häufigsten als normal abgetan wird. Er ist nicht normal. Weiter: gelbe oder braune Auflagerungen am Zahnfleischrand, gerötetes oder blutendes Zahnfleisch, einseitiges Kauen, Fallenlassen von Futter, Pfoten am Maul und Ablehnung eines zuvor beliebten Kauartikels.</p>
   <p>Da diese Rasse Unbehagen gut erträgt, bedeutet ausbleibende Klage nichts. Heben Sie einmal wöchentlich die Lefze und schauen Sie hin, und gewöhnen Sie den Hund als Welpen daran, damit es später selbstverständlich ist.</p>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:7-->
   <h2>Professionelle Zahnreinigung</h2>
   <p>Eine tierärztliche Zahnreinigung erfordert eine Vollnarkose, und an diesem Punkt zögern Besitzer. Das Zögern ist verständlich, meist aber unangebracht: moderne Protokolle mit Blutuntersuchung und Überwachung sind bei einem gesunden Hund risikoarm, und die Alternative sind Jahre unbehandelter Infektion.</p>
   <p>Die sogenannte narkosefreie Reinigung entfernt sichtbaren Zahnstein von der Krone und lässt die Ablagerungen unter dem Zahnfleischrand stehen, die die Erkrankung tatsächlich verursachen. Sie lässt das Maul besser aussehen und behandelt nichts.</p>
+  <!--/BLOCCO:7-->
 
+  <!--BLOCCO:8-->
   <h2>Ernährung und ihre tatsächliche Rolle</h2>
   <p>Die Behauptung, Trockenfutter reinige die Zähne, ist weitgehend ein Mythos: die meisten Kroketten zerbrechen beim Kontakt, ohne den Zahnfleischrand je zu berühren. Produkte mit gezielter Zahnpflegewirkung gibt es, sie sind mit größeren, faserigen Stücken formuliert, in die der Zahn einsinkt, und deren Wirkung ist messbar. Achten Sie auf eine anerkannte zahnmedizinische Zertifizierung statt auf ein Werbeversprechen.</p>
+  <!--/BLOCCO:8-->
 
+  <!--BLOCCO:9-->
   <h2>Eine realistische Routine</h2>
   <p>Wöchentlich: Lefze heben und beide Seiten ansehen. Drei- bis siebenmal die Woche: Außenflächen putzen, 30 Sekunden je Seite. Täglich: ein geeigneter Kauartikel, ausgewählt nach der Fingernagelregel. Jährlich: eine zahnärztliche Beurteilung beim Routinecheck — und danach handeln, statt zu verschieben.</p>
   <p>Von Welpenalter an durchgeführt, kostet das etwa 3 Minuten täglich und schenkt dem Hund Jahre beschwerdefreien Fressens. Mit 7 Jahren begonnen, ist es Schadensbegrenzung.</p>
+  <!--/BLOCCO:9-->
 
+  <!--BLOCCO:10-->
   <h2>Zahnwechsel, Monat für Monat</h2>
   <p>Die 28 Milchzähne brechen zwischen der dritten und sechsten Woche durch; der Wechsel zum bleibenden Gebiss beginnt mit drei bis fünf Monaten und ist mit sechs oder sieben abgeschlossen, mit 42 Zähnen. Während des Wechsels sind leicht gerötetes, geschwollenes Zahnfleisch, mehr Speichel, ein starkes Kaubedürfnis, etwas Zurückhaltung bei hartem Futter und kleine Zähne in der Wohnung normal. Zur Hilfe: gefrorenes Spielzeug, ein mit Wasser gefüllter und eingefrorener Kong, weiche Gummikauartikel statt harter, und für ein paar Tage Nassfutter, wenn der Welpe Trockenfutter verweigert; bis alle bleibenden Zähne da sind, keine Zerrspiele mit Lappen, Seilen oder Ähnlichem. Zum Tierarzt, wenn nach sieben Monaten ein Milchzahn noch neben seinem Nachfolger steht, wenn bleibende Zähne schief oder gedrängt kommen, oder bei starker Blutung, Schwellung im Gesicht oder völliger Futterverweigerung.</p>
+  <!--/BLOCCO:10-->
 
+  <!--BLOCCO:11-->
   <h2>Zähneputzen lernen, vom Welpenalter an</h2>
   <p><strong>Acht bis zwölf Wochen: Anfassen.</strong> In den ersten Tagen Fang und Lefzen beim Streicheln sanft berühren und sofort belohnen, einige Sekunden, drei- oder viermal am Tag. Dann die Oberlippe zwei bis drei Sekunden anheben und die Vorderzähne zeigen, bis zu fünf oder zehn Sekunden steigern. In der zweiten Woche die Vorderzähne mit feuchter Gaze oder einem Silikon-Fingerling sanft abreiben; in der dritten und vierten Woche bis zu den hinteren Prämolaren ausdehnen, fünfzehn bis zwanzig Sekunden je Seite.</p>
   <p><strong>Zwölf bis sechzehn Wochen: die Zahnbürste.</strong> Eine weiche Hundezahnbürste, eine enzymatische Tierzahnpasta mit Fleisch- oder Hühnergeschmack, nie eine für Menschen, und besonders gute Belohnungen.</p>
   <p><strong>Ab vier Monaten: vollständiges Putzen</strong>, drei- bis siebenmal pro Woche, insgesamt zwei bis drei Minuten. Vom Zahnfleischrand zur Spitze bürsten, die meiste Zeit auf den hinteren Prämolaren und Molaren, wo sich Zahnstein zuerst bildet; die Innenseiten sind freiwillig, wenn der Hund sie duldet. Mit einer großzügigen Belohnung abschließen; Ausspülen ist nicht nötig. Wehrt sich der Hund, aufhören und später neu versuchen; blutet das Zahnfleisch, putzen Sie zu fest.</p>
+  <!--/BLOCCO:11-->
 
+  <!--BLOCCO:12-->
   <h2>Die häufigen Probleme</h2>
   <p><strong>Gingivitis</strong> zeigt sich als roter, geschwollener Zahnfleischrand, der beim Putzen blutet, mit mäßigem Mundgeruch; früh erkannt bildet sie sich mit besserer Pflege zurück, hält sie an, braucht es eine professionelle Reinigung. <strong>Parodontitis</strong> ist das fortgeschrittene Stadium: zurückgehendes Zahnfleisch, Taschen, lockere Zähne, Eiter und starke Schmerzen, behandelt mit Tiefenreinigung, Ziehen geschädigter Zähne und Medikamenten. <strong>Zahnbrüche</strong> entstehen durch zu harte Gegenstände, Stöße oder zu raue Zerrspiele; liegt der Zahnnerv frei, sollte der Hund innerhalb von 24 bis 48 Stunden untersucht werden und bis dahin weiches Futter bekommen. <strong>Zahnstein</strong> beginnt als gelbbraune Beläge am Zahnfleischrand der hinteren Zähne: bei leichtem Zahnstein mehr putzen, bei mittlerem oder starkem professionell reinigen lassen.</p>
   <p>Eine professionelle Reinigung braucht <strong>Vollnarkose</strong>, denn der wichtige Teil unter dem Zahnfleischrand ist bei einem wachen Hund nicht erreichbar. Sie dauert dreißig bis neunzig Minuten: Ultraschall bricht den Zahnstein auf, Handinstrumente entfernen den Rest, und Polieren glättet die Oberfläche. Vorher wird Blut untersucht, vor allem bei älteren Hunden. In Italien kostet eine einfache Reinigung etwa 150 bis 200 Euro, mit Extraktionen 250 bis 400 Euro und mehr.</p>
+  <!--/BLOCCO:12-->
 
+  <!--BLOCCO:13-->
   <h2>Häufige Fragen</h2>
 
   <div class="faq-list">
@@ -154,11 +179,12 @@ custom_content: |
   <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Zucht wählen">Tipps, bevor ein Welpe einzieht</a></li>
   </ul>
   </div>
-  
+
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>
-  
+  <!--/BLOCCO:13-->
+
   </article>
   </div>
 ---

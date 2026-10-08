@@ -7,6 +7,7 @@ translationKey: "contatti"
 description: "Contact Del Piccolo Diavolo kennel in Ostellato (FE), Italy. Visits by appointment, WhatsApp, phone. Reachable from Ferrara, Bologna, Milan, Venice, Florence."
 slug: "contact"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -24,19 +25,21 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>Since 2013</span><span>Ostellato (FE)</span><span>By Appointment Only</span><span>WhatsApp Active</span><span>Private Parking</span>
   <span>Since 2013</span><span>Ostellato (FE)</span><span>By Appointment Only</span><span>WhatsApp Active</span><span>Private Parking</span>
   </div>
   </div>
-  
+
+  <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Contact</span>
   <h2 class="section-title">How to Reach Us</h2>
-  
+
   <div class="contact-grid">
   <div class="contact-item">
   <svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>
@@ -44,14 +47,14 @@ custom_content: |
   <p>The fastest way</p>
   <a href="/wa/393924635584" target="_blank" rel="noopener" title="Write us on WhatsApp" aria-label="Message us on WhatsApp at +39 392 463 5584 (opens in a new tab)">+39 392 463 5584</a>
   </div>
-  
+
   <div class="contact-item">
   <svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
   <h3>Phone</h3>
   <p>Call us directly</p>
   <a href="tel:+393924635584" title="Call us" aria-label="Call us on +39 392 463 5584">+39 392 463 5584</a>
   </div>
-  
+
   <div class="contact-item">
   <svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
   <h3>Email</h3>
@@ -59,19 +62,21 @@ custom_content: |
   <a href="mailto:zonerosse@gmail.com" title="Email us">zonerosse@gmail.com</a>
   </div>
   </div>
-  
+
   <a href="https://maps.app.goo.gl/XDzxryqkbSSWNYVB8" target="_blank" rel="noopener" class="map-link" title="Open Google Maps for directions" aria-label="Open Google Maps for directions (opens in a new tab)">
   Open Google Maps
   <span>Via Amerigo Chierici, 12, 44020 Ostellato (FE), Italy</span>
   </a>
   </div>
   </section>
-  
+  <!--/BLOCCO:2-->
+
+  <!--BLOCCO:3-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">The Kennel</span>
   <h2 class="section-title">Where We Are</h2>
-  
+
   <div class="story-block" style="grid-template-columns:1fr">
   <div class="story-text">
   <h3>Via Amerigo Chierici, 12, Ostellato (FE)</h3>
@@ -81,7 +86,7 @@ custom_content: |
   </div>
   <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo — Staffordshire Bull Terrier" class="story-img" width="350" height="354" loading="lazy" decoding="async">
   </div>
-  
+
   <div class="story-block reverse">
   <div class="story-text">
   <h3>Visits By Appointment Only</h3>
@@ -92,13 +97,15 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:3-->
+
+  <!--BLOCCO:4-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Areas Served</span>
   <h2 class="section-title">Where Breed Enthusiasts Come From</h2>
   <p style="color:#4a3f35;margin-bottom:1.5rem">We welcome families from all over Northern and Central Italy, and — increasingly — from beyond the border. Here are the main cities from which we regularly receive visits:</p>
-  
+
   <div class="zones-section">
   <div class="zone-row">
   <span class="zone-name">Emilia Romagna</span>
@@ -111,7 +118,7 @@ custom_content: |
   <span class="zone-city">Parma 1h 30</span>
   </div>
   </div>
-  
+
   <div class="zone-row">
   <span class="zone-name">Veneto</span>
   <div class="zone-cities">
@@ -123,7 +130,7 @@ custom_content: |
   <span class="zone-city">Treviso 1h 45</span>
   </div>
   </div>
-  
+
   <div class="zone-row">
   <span class="zone-name">Lombardy</span>
   <div class="zone-cities">
@@ -134,7 +141,7 @@ custom_content: |
   <span class="zone-city">Bergamo 2h 30</span>
   </div>
   </div>
-  
+
   <div class="zone-row">
   <span class="zone-name">Tuscany / Marche</span>
   <div class="zone-cities">
@@ -146,11 +153,13 @@ custom_content: |
   </div>
   </div>
   </div>
-  
+
   <p style="text-align:center;color:#4a3f35;margin-top:1.5rem;font-size:.9rem">Many families from Milan, Florence and Venice reach us comfortably in a day trip.</p>
   </div>
   </section>
-  
+  <!--/BLOCCO:4-->
+
+  <!--BLOCCO:5-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Coming from abroad</span>
@@ -185,6 +194,7 @@ custom_content: |
   <p>If you are considering a puppy from abroad, read <a href="/en/staffordshire-bull-terrier-puppy-abroad/" title="A puppy going abroad">how a placement abroad works</a> before you write: minimum age, documents, the export pedigree and how long it all takes. It answers most of what people ask us in their first message.</p>
   </div>
   </section>
+  <!--/BLOCCO:5-->
 
   <section class="section section-alt">
   <div class="section-inner">
@@ -200,6 +210,7 @@ custom_content: |
   </div>
   </section>
 
+  <!--BLOCCO:6-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Frequently Asked</span>
@@ -242,10 +253,13 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:7-->
   <section class="dark-section">
   <h2>We're Waiting for You</h2>
   <p>Come meet our Staffordshire Bull Terriers and the environment where they grow. A visit is the first step toward an informed choice.</p>
   <a href="/wa/393924635584" class="btn" title="Arrange a visit on WhatsApp">Arrange on WhatsApp</a>
   </section>
+  <!--/BLOCCO:7-->
 ---

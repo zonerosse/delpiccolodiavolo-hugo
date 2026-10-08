@@ -22,6 +22,7 @@ correlati:
 slug: "cuccioli-staffordshire-bull-terrier"
 fonti_motivo: "Questa pagina descrive come nascono e crescono i cuccioli dell'allevamento Del Piccolo Diavolo: sono dati propri, e per questo non ci sono fonti esterne da citare. Le date di ogni cucciolata e i referti dei genitori sono pubblicati nel diario dell'allevamento e nelle schede dei riproduttori."
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -39,6 +40,7 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:1-->
 
   <div class="features-bar">
   <div class="features-track">
@@ -61,6 +63,7 @@ custom_content: |
 
   <!-- Citazione allevamento -->
 
+  <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Gallery</span>
@@ -73,11 +76,17 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <!--ULTIMA-CUCCIOLATA-->
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <!--CUCCIOLATE-->
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Come Crescono</span>
@@ -99,7 +108,9 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <section class="section section-alt">
   <div class="section-inner content-single">
   <span class="section-label">Prima che nascano</span>
@@ -160,7 +171,9 @@ custom_content: |
 
   </div>
   </section>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:7-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Carattere</span>
@@ -172,6 +185,7 @@ custom_content: |
 
   </div>
   </section>
+  <!--/BLOCCO:7-->
 
   <section class="section section-alt">
   <div class="section-inner">
@@ -213,6 +227,7 @@ custom_content: |
   </div>
   </section>
 
+  <!--BLOCCO:8-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Recensioni</span>
@@ -235,8 +250,10 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:8-->
 
 
+  <!--BLOCCO:9-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Domande Frequenti</span>
@@ -283,7 +300,9 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:9-->
 
+  <!--BLOCCO:10-->
   <section class="section section-alt">
   <div class="section-inner content-single">
   <span class="section-label">Affidi all'estero</span>
@@ -292,9 +311,14 @@ custom_content: |
   <p><a href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Cucciolo Staffordshire Bull Terrier all'estero">Come funziona un affido all'estero: tempi, documenti ed export pedigree &rarr;</a></p>
   </div>
   </section>
+  <!--/BLOCCO:10-->
 
+  <!--BLOCCO:11-->
   <!--GUIDE-->
+  <!--/BLOCCO:11-->
+  <!--BLOCCO:12-->
   <!--CORRELATI-->
+  <!--/BLOCCO:12-->
 
   <section class="section">
   <div class="section-inner content-single">
@@ -302,10 +326,12 @@ custom_content: |
   </div>
   </section>
 
+  <!--BLOCCO:13-->
   <section class="cta-section">
   <h2>Vuoi Saperne di Più?</h2>
   <p>Per conoscere il nostro metodo di lavoro e le cucciolate pianificate:</p>
   <a href="/programma-allevamento/" class="btn" style="min-height:44px;padding:1rem 1.8rem;margin-right:1rem;margin-bottom:1rem" title="Vedi il programma di selezione">Programma di Allevamento</a>
   <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sui%20cuccioli%20di%20Staffordshire%20Bull%20Terrier" class="btn" style="min-height:44px;padding:1rem 1.8rem;margin-bottom:1rem" title="Scrivici su WhatsApp" aria-label="Contattaci su WhatsApp per informazioni sui cuccioli">Scrivici su WhatsApp</a>
   </section>
+  <!--/BLOCCO:13-->
 ---

@@ -7,6 +7,7 @@ translationKey: "contatti"
 description: "Kontakt zur Zucht Del Piccolo Diavolo in Ostellato (Ferrara), Emilia-Romagna: Staffordshire Bull Terrier, Besuche nach Vereinbarung, erreichbar per WhatsApp."
 slug: "kontakt"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -24,19 +25,21 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>Seit 2013</span><span>Ostellato (FE)</span><span>Nur nach Vereinbarung</span><span>WhatsApp aktiv</span><span>Eigener Parkplatz</span>
   <span>Seit 2013</span><span>Ostellato (FE)</span><span>Nur nach Vereinbarung</span><span>WhatsApp aktiv</span><span>Eigener Parkplatz</span>
   </div>
   </div>
-  
+
+  <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Kontakt</span>
   <h2 class="section-title">So erreichen Sie uns</h2>
-  
+
   <div class="contact-grid">
   <div class="contact-item">
   <svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>
@@ -44,14 +47,14 @@ custom_content: |
   <p>Der schnellste Weg</p>
   <a href="/wa/393924635584" target="_blank" rel="noopener" title="Schreiben Sie uns auf WhatsApp" aria-label="Schreiben Sie uns auf WhatsApp unter +39 392 463 5584 (wird in einem neuen Tab geöffnet)">+39 392 463 5584</a>
   </div>
-  
+
   <div class="contact-item">
   <svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
   <h3>Telefon</h3>
   <p>Rufen Sie direkt an</p>
   <a href="tel:+393924635584" title="Rufen Sie uns an" aria-label="Rufen Sie uns an unter +39 392 463 5584">+39 392 463 5584</a>
   </div>
-  
+
   <div class="contact-item">
   <svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
   <h3>E-Mail</h3>
@@ -59,19 +62,21 @@ custom_content: |
   <a href="mailto:zonerosse@gmail.com" title="Schreiben Sie uns eine E-Mail">zonerosse@gmail.com</a>
   </div>
   </div>
-  
+
   <a href="https://maps.app.goo.gl/XDzxryqkbSSWNYVB8" target="_blank" rel="noopener" class="map-link" title="Route in Google Maps öffnen" aria-label="Route in Google Maps öffnen (wird in einem neuen Tab geöffnet)">
   Google Maps öffnen
   <span>Via Amerigo Chierici, 12, 44020 Ostellato (FE), Italien</span>
   </a>
   </div>
   </section>
-  
+  <!--/BLOCCO:2-->
+
+  <!--BLOCCO:3-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Die Zucht</span>
   <h2 class="section-title">Wo wir sind</h2>
-  
+
   <div class="story-block" style="grid-template-columns:1fr">
   <div class="story-text">
   <h3>Via Amerigo Chierici, 12, Ostellato (FE)</h3>
@@ -81,7 +86,7 @@ custom_content: |
   </div>
   <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo — Staffordshire Bull Terrier" class="story-img" width="350" height="354" loading="lazy" decoding="async">
   </div>
-  
+
   <div class="story-block reverse">
   <div class="story-text">
   <h3>Besuche nur nach Vereinbarung</h3>
@@ -92,13 +97,15 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:3-->
+
+  <!--BLOCCO:4-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Einzugsgebiet</span>
   <h2 class="section-title">Woher die Liebhaber der Rasse kommen</h2>
   <p style="color:#4a3f35;margin-bottom:1.5rem">Zu uns kommen Familien aus ganz Nord- und Mittelitalien und, immer häufiger, auch von jenseits der Grenze. Aus diesen Städten erhalten wir regelmäßig Besuch:</p>
-  
+
   <div class="zones-section">
   <div class="zone-row">
   <span class="zone-name">Emilia Romagna</span>
@@ -111,7 +118,7 @@ custom_content: |
   <span class="zone-city">Parma 1h 30</span>
   </div>
   </div>
-  
+
   <div class="zone-row">
   <span class="zone-name">Venetien</span>
   <div class="zone-cities">
@@ -123,7 +130,7 @@ custom_content: |
   <span class="zone-city">Treviso 1h 45</span>
   </div>
   </div>
-  
+
   <div class="zone-row">
   <span class="zone-name">Lombardei</span>
   <div class="zone-cities">
@@ -134,7 +141,7 @@ custom_content: |
   <span class="zone-city">Bergamo 2h 30</span>
   </div>
   </div>
-  
+
   <div class="zone-row">
   <span class="zone-name">Toskana / Marken</span>
   <div class="zone-cities">
@@ -146,11 +153,13 @@ custom_content: |
   </div>
   </div>
   </div>
-  
+
   <p style="text-align:center;color:#4a3f35;margin-top:1.5rem;font-size:.9rem">Viele Familien aus Mailand, Florenz und Venedig kommen bequem als Tagesausflug.</p>
   </div>
   </section>
-  
+  <!--/BLOCCO:4-->
+
+  <!--BLOCCO:5-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Anreise aus dem Ausland</span>
@@ -185,6 +194,7 @@ custom_content: |
   <p>Wenn Sie an einen Welpen aus dem Ausland denken, lesen Sie vor Ihrer Nachricht, <a href="/de/staffordshire-bull-terrier-welpe-ins-ausland/" title="Ein Welpe, der ins Ausland geht">wie eine Vermittlung ins Ausland abläuft</a>: Mindestalter, Papiere, Exportahnentafel und wie lange alles dauert. Das beantwortet das meiste, was man uns in der ersten Nachricht fragt.</p>
   </div>
   </section>
+  <!--/BLOCCO:5-->
 
   <section class="section section-alt">
   <div class="section-inner">
@@ -200,6 +210,7 @@ custom_content: |
   </div>
   </section>
 
+  <!--BLOCCO:6-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Häufige Fragen</span>
@@ -242,10 +253,13 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:7-->
   <section class="dark-section">
   <h2>Wir erwarten Sie</h2>
   <p>Lernen Sie unsere Staffordshire Bull Terrier und die Umgebung kennen, in der sie aufwachsen. Ein Besuch ist der erste Schritt zu einer informierten Entscheidung.</p>
   <a href="/wa/393924635584" class="btn" title="Einen Besuch auf WhatsApp vereinbaren">Auf WhatsApp vereinbaren</a>
   </section>
+  <!--/BLOCCO:7-->
 ---

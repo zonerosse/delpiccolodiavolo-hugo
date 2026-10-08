@@ -12,6 +12,7 @@ thumb: "/images/blog/icone/famiglia-bambini-convivenza.webp"
 description: "Living with children and Staffordshire Bull Terriers: safety rules, supervised interactions, age-appropriate activities and building lasting bonds."
 slug: "staffy-children-family"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -28,30 +29,36 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> ›
   <a href="/en/blog/" title="Blog">Blog</a> ›
   <span>Staffy and Children</span>
   </nav>
-  
+
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>No dog of any breed should be left alone with a small child, and the Staffordshire Bull Terrier is no exception. Its informal name, nanny dog, describes a real tolerance, not an ability to supervise. That tolerance comes from how the breed was selected: in constant close handling, where any dog that showed aggression towards a person was removed from breeding. A well-bred, well-socialised Staffy seeks human company, tolerates handling and noise remarkably well and usually meets a child's clumsiness with patience. Temperament still varies between individuals, and early socialisation matters as much as genetics. In practice, safety depends on the adults: supervised introductions, rules that change with the child's age, teaching the child as well as the dog, a place where the dog can retreat, and noticing signs of stress before they become a growl. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
-  
-  
+
+
+  <!--BLOCCO:2-->
   <h2>Where the reputation comes from</h2>
   <p>The Staffordshire Bull Terrier is one of very few breeds whose Kennel Club standard explicitly describes it as totally reliable, and the only one commonly given the informal name of nanny dog. That reputation is not marketing: it comes from the way the breed was selected, in constant close handling, where any dog showing aggression towards a person was removed from breeding without discussion.</p>
   <p>The result is a dog that actively seeks human company, tolerates handling and noise remarkably well, and typically responds to a child's clumsiness with patience rather than avoidance. Anyone who has watched a well-bred Staffy with a toddler recognises the pattern immediately.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>The honest qualification</h2>
   <p>We use the nanny dog expression with care: it describes tolerance, not an ability to supervise. No dog of any breed should be left unsupervised with a small child. Not because the breed is untrustworthy, but because children are unpredictable, dogs communicate in ways children cannot read, and the most common cause of a bite in the home is a dog that gave clear warnings nobody noticed.</p>
   <p>There is also a physical dimension specific to this breed. A Staffordshire Bull Terrier is short, dense and remarkably strong for its size. Even a completely friendly dog in a moment of enthusiasm can knock a three-year-old over. That is not aggression, but the bruise is the same.</p>
 
   <p>The evidence shows this rule is not excessive. In young children most bites happen at home, often to the face, head or neck, and are inflicted by a dog the child knows; most are preceded by an interaction the child started, as <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5582199/" target="_blank" rel="noopener" aria-label="Arhant et al., Frontiers in Veterinary Science 2017 (opens in a new tab)">a 2017 study in Frontiers in Veterinary Science</a> summarises. The <a href="https://bluedog.blogs.lincoln.ac.uk/professionals/dog-bite-data/" target="_blank" rel="noopener" aria-label="Blue Dog, University of Lincoln (opens in a new tab)">Blue Dog programme of the University of Lincoln</a> estimates that about three bites in four to children happen in their own home, by a familiar dog. It is not a question of breed: it is a question of supervision.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>Age by age</h2>
   <p>The rules change with the child's age, and the most delicate stage is not infancy:</p>
 
@@ -66,34 +73,50 @@ custom_content: |
   <tr><td><strong>From 12 years</strong></td><td>Meals, brushing, play and basic training as daily responsibilities. Walking the dog alone not before 14</td><td>Stays present at home. At 14, allows solo walks only if the teenager has the strength to hold the dog and the judgement to avoid meetings with other dogs; a dog reactive to other dogs is not handed over even at sixteen</td></tr>
   </tbody>
   </table>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>Teaching the child, not only the dog</h2>
   <p>Most household incidents are prevented by educating the child. Show them how to approach: sideways, calmly, letting the dog come the last step. Show them what a dog looks like when it wants to be left alone: turning away, licking its lips, moving to another room. And give them one absolute rule they can always apply — if the dog leaves, it is over, do not follow.</p>
   <p>Give the dog a place, a crate or a bed in a quiet corner, that is genuinely inviolable. A dog with a reliable retreat rarely needs to escalate, because leaving works.</p>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>Warning signs worth acting on</h2>
   <p>A dog that freezes over food or a toy when a child approaches. A dog that leaves the room whenever the children come in. A dog that has started to growl, or worse, one that has stopped growling after being told off for it. Stiffness, a hard stare, whale eye, a suddenly closed mouth.</p>
   <p>None of these mean you have a dangerous dog. They mean the arrangement needs adjusting now, with a trainer, rather than after an incident. A growl is information, and punishing it removes the warning without removing the feeling.</p>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:7-->
   <h2>What families actually gain</h2>
   <p>Setting the caution aside, this is one of the finest family breeds that exists. The dogs are robust enough to cope with a busy household, small enough to live comfortably in a flat, affectionate to the point of comedy, and they tend to attach to the children specifically rather than to one adult.</p>
   <p>Children who grow up with a dog learn routine, responsibility and a form of empathy that is hard to teach any other way. In our experience of placing puppies for over a decade, the families who do best are not the ones with the largest gardens: they are the ones who wanted the dog in the house, in the middle of everything, which is exactly where this breed wants to be.</p>
+  <!--/BLOCCO:7-->
 
+  <!--BLOCCO:8-->
   <h2>Reading the dog before it escalates</h2>
   <p>A dog signals discomfort long before it bites. The early signs call for stepping in straight away: licking the lips or nose outside mealtimes, yawning when not tired, looking away or turning the head, ears flattened back, a low or tucked tail, a stiff or frozen body, raised hackles, a paw lifted in a half-freeze, and moving away from the child again and again.</p>
   <p>The signs of escalation mean separating child and dog at once: a growl, lips lifted to show the teeth, a snap at the air, a hard stare from a rigid body, and total stillness just before acting. <strong>Never punish a growl</strong>: it is the warning that lets you intervene, and a dog punished for growling learns to skip it.</p>
   <p>A practical rule: three early signs in a row mean the interaction is over. Separate them, let the dog settle for fifteen to twenty minutes somewhere quiet, work out what caused the stress, and try again later with something changed.</p>
+  <!--/BLOCCO:8-->
 
+  <!--BLOCCO:9-->
   <h2>The first meeting between a puppy and the children</h2>
   <p>Prepare before the puppy arrives: explain the rules to the children in advance, choose a calm moment with no guests and the television off, have the puppy's retreat area ready and treats at hand, and let the puppy use up some energy first.</p>
   <p>The children sit on the floor, still, hands in their laps. An adult brings the puppy in on a loose lead and lets it approach at its own pace. If it sniffs, a child can offer a closed hand to smell; if the puppy is relaxed, a short stroke on the chest, three seconds, is enough. Then everyone stays still while the puppy moves away by itself. Repeat the approach no more than three times and close the session: ten to fifteen minutes in all for the first meeting, ending with something good for the puppy and praise for the children.</p>
+  <!--/BLOCCO:9-->
 
+  <!--BLOCCO:10-->
   <h2>Safe games by age</h2>
   <p>Between three and five, games without direct contact: the child throws treats on the floor for the dog to find, hides food for a scent search, or reads aloud with the dog lying beside them, not on top of them. Between six and nine, supervised active games: fetching a soft ball once an adult has trained the release, a simple obstacle course in the garden, teaching a trick with an adult guiding, gentle brushing on areas that are not sensitive. From ten, more autonomy with an adult still close by: training with light supervision, a first taste of rally obedience, tug played with a clear release rule. Under six, keep active interactions to about five minutes and then take a break: short and good beats long and tense.</p>
+  <!--/BLOCCO:10-->
 
+  <!--BLOCCO:11-->
   <h2>When to call a behaviourist</h2>
   <p>Some situations need professional help straight away, not advice read online: a dog that has bitten a child, however lightly; repeated growling or snapping at children; defensive behaviour that is escalating; marked fear of children, with avoidance, trembling or attempts to escape; compulsive behaviours linked to stress; and a sudden change of temperament, a tolerant dog becoming reactive. A veterinary behaviourist first rules out a medical cause, because pain lies behind many sudden changes, then sets out a structured behaviour plan, sometimes with medication, and assesses whether living together can be made safe.</p>
+  <!--/BLOCCO:11-->
 
+  <!--BLOCCO:12-->
   <h2>Forbidden actions: print it and pin it up</h2>
   <div class="alert">
   <p class="alert-title">🚫 The complete list</p>
@@ -113,7 +136,9 @@ custom_content: |
   </ul>
   <p><strong>If a rule is broken:</strong> no dog-child interaction for the rest of the day, a calm explanation of why it was dangerous, and try again tomorrow.</p>
   </div>
+  <!--/BLOCCO:12-->
 
+  <!--BLOCCO:13-->
   <h2>The safe household checklist</h2>
   <div class="checklist">
   <p class="checklist-title">To check as a family</p>
@@ -136,7 +161,9 @@ custom_content: |
   <p class="callout-title">💡 Support after the puppy goes home, with no expiry</p>
   <p>A family that takes a puppy from us is not left alone after the handover. For the whole of the dog's life we remain available for advice on living with children, training and day-to-day management, even years later. And if one day circumstances change and the dog cannot stay, it comes back here.</p>
   </div>
+  <!--/BLOCCO:13-->
 
+  <!--BLOCCO:14-->
   <h2>Frequently asked questions</h2>
 
   <div class="faq-list">
@@ -224,11 +251,12 @@ custom_content: |
   <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Choosing a breeder">Advice before taking on a puppy</a></li>
   </ul>
   </div>
-  
+
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   </div>
-  
+  <!--/BLOCCO:14-->
+
   </article>
   </div>
 ---

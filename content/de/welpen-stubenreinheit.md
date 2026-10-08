@@ -12,6 +12,7 @@ thumb: "/images/blog/icone/cuccioli-educazione-bisogni.webp"
 description: "Stubenreinheitstraining für Staffordshire Bull Terrier Welpen: Routine, Ausgänge, positive Verstärkung, Unfallmanagement und Fortschritt drinnen und draußen."
 slug: "welpen-stubenreinheit"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -28,58 +29,74 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>Ausgangsroutine</span><span>Warnsignale</span><span>Positive Verstärkung</span><span>Unfallmanagement</span><span>Welpenunterlagen</span><span>Wöchentlicher Fortschritt</span>
   <span>Ausgangsroutine</span><span>Warnsignale</span><span>Positive Verstärkung</span><span>Unfallmanagement</span><span>Welpenunterlagen</span><span>Wöchentlicher Fortschritt</span>
   </div>
   </div>
-  
+
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/de/" title="Startseite">Startseite</a> ›
   <a href="/de/blog/" title="Blog">Blog</a> ›
   <a aria-label="Welpen — Blog-Kategorie" href="/de/blog/#welpen" title="Welpen">Welpen</a> ›
   <span>Stubenreinheit</span>
   </nav>
-  
+
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>Die Stubenreinheit eines Staffordshire Bull Terrier Welpen hängt von der körperlichen Entwicklung ab, nicht von der Intelligenz, und lässt sich deshalb nicht beschleunigen. Ein Welpe von 8 Wochen kann die Blase höchstens ein bis zwei Stunden halten; als Faustregel gilt etwa eine Stunde je Lebensmonat plus eins, und weniger, solange er wach und aktiv ist. Bringen Sie ihn in den vorhersehbaren Momenten hinaus, nach dem Aufwachen, nach dem Fressen, nach dem Spielen und vor dem Schlafen, und belohnen Sie ihn draußen, gleich wenn er fertig ist. Strafen Sie Missgeschicke nie: Der Welpe verbindet Ihre Reaktion nicht mit etwas von vor Minuten, er lernt nur, dass es gefährlich ist, sich vor Ihnen zu lösen, und geht hinter das Sofa. Reinigen Sie mit Enzymreiniger, nie mit Ammoniak. Tagsüber sind die meisten Welpen mit vier Monaten zuverlässig, nachts zwischen vier und sechs. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
-  
-  
+
+
+  <!--BLOCCO:2-->
   <h2>Wie lange es wirklich dauert</h2>
   <p>Stubenreinheit ist keine Frage der Intelligenz und lässt sich nicht beschleunigen, weil sie von der körperlichen Entwicklung abhängt. Ein Welpe von 8 Wochen kann die Blase nicht länger als ein bis 2 Stunden halten, und volle Kontrolle entsteht erst mit 4 bis 6 Monaten. Die meisten Welpen sind tagsüber mit 4 Monaten zuverlässig und nachts zwischen 4 und 6 Monaten trocken.</p>
   <p>Eine brauchbare Faustregel: ein Welpe hält etwa eine Stunde je Lebensmonat plus eine. Ein dreimonatiger Welpe schafft also bestenfalls 4 Stunden, wach und aktiv deutlich weniger.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>Die fünf entscheidenden Momente</h2>
   <p>Fast der gesamte Erfolg hängt davon ab, zur richtigen Zeit draußen zu sein, und nicht von einer Technik. Gehen Sie sofort nach dem Aufwachen hinaus, innerhalb von 10 Minuten nach jeder Mahlzeit, nach jeder Spieleinheit, vor dem Schlafengehen und tagsüber zusätzlich alle ein bis 2 Stunden.</p>
   <p>Diese fünf Momente decken den größten Teil des Bedarfs ab. Wer sie zuverlässig einhält, ist Wochen früher fertig als jemand, der auf Anzeichen wartet.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>Was draußen zu tun ist</h2>
   <p>Wählen Sie eine Stelle und gehen Sie immer dorthin. Der verbliebene Geruch löst das Verhalten aus, und Beständigkeit verkürzt den Prozess erheblich.</p>
   <p>Warten Sie schweigend, statt zu ermuntern oder zu spielen, denn ein unterhaltener Welpe vergisst, weshalb er draußen ist. Belohnen Sie sofort und deutlich, sobald er sich löst — innerhalb von 2 Sekunden, nicht erst drinnen, was eine völlig falsche Verknüpfung schafft.</p>
   <p>Sagen Sie währenddessen leise immer dasselbe Wort. Nach wenigen Wochen reagieren die meisten Welpen darauf, was im Regen, vor einer Autofahrt oder an fremden Orten unbezahlbar ist.</p>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>Missgeschicke in der Wohnung</h2>
   <p>Sie werden passieren, und Ihre Reaktion bestimmt die Dauer der Ausbildung. Niemals strafen, niemals schimpfen, und auf keinen Fall die Nase hineindrücken. Der Welpe verbindet Ihre Reaktion nicht mit etwas, das er vor 10 Minuten getan hat: er lernt, dass es gefährlich ist, sich vor Ihnen zu lösen, und geht künftig hinter das Sofa. Dieser eine Fehler erklärt die meisten langwierigen Fälle.</p>
   <p>Die Verhaltensmediziner sehen es genauso. Die <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="Positionspapiere der AVSAB (wird in einem neuen Tab geöffnet)">American Veterinary Society of Animal Behavior</a> empfiehlt belohnungsbasierte Methoden für jedes Training, auch für die Stubenreinheit: die Umgebung so einrichten, dass Fehler selten sind, und das gewünschte Verhalten verstärken, statt das unerwünschte zu bestrafen.</p>
   <p>Ertappen Sie ihn in der Handlung, unterbrechen Sie mit einem neutralen Geräusch und tragen Sie ihn sofort hinaus; belohnen Sie, wenn er dort zu Ende kommt.</p>
   <p>Reinigen Sie mit einem Enzymreiniger, niemals mit ammoniakhaltigen Mitteln. Ammoniak riecht für den Hund nach Urin und markiert die Stelle als Toilette.</p>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>Nächte</h2>
   <p>Stellen Sie Box oder Bett in den ersten Wochen in Ihr Schlafzimmer. Ein Welpe, der Sie hört, beruhigt sich schneller, und Sie hören, wenn er hinaus muss. Nehmen Sie das Wasser eine Stunde vor dem Schlafen weg, aber schränken Sie es tagsüber nie ein.</p>
   <p>Rechnen Sie mit ein bis zwei nächtlichen Gängen mit 8 bis 10 Wochen, meist nur noch einem mit 12 Wochen und keinem mehr mit 4 Monaten. Halten Sie diese Gänge langweilig: nicht sprechen, nicht spielen, möglichst kein Licht. Raus, warten, zurück ins Bett.</p>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:7-->
   <h2>Welpenunterlagen: die ehrliche Einschätzung</h2>
   <p>Sie lösen ein Problem des Halters und schaffen eines für den Welpen. Eine Unterlage lehrt, dass das Lösen drinnen auf weichem saugendem Untergrund in Ordnung ist — und ein Teppich ist ebenfalls weich und saugend. Auf Unterlagen erzogene Welpen brauchen in der Regel länger, bis sie draußen zuverlässig sind, weil sie erst umlernen müssen.</p>
   <p>Ihren Platz haben sie bei echten Zwängen: vierter Stock ohne Aufzug, eingeschränkte Mobilität des Halters, ein 8 Wochen alter Welpe in einer Nacht, in der das Hinuntergehen unmöglich ist. Als Bequemlichkeit verwendet kosten sie Wochen.</p>
+  <!--/BLOCCO:7-->
 
+  <!--BLOCCO:8-->
   <h2>Wann etwas krank statt unerzogen ist</h2>
   <p>Tierärztlichen Rat einholen, wenn ein bereits zuverlässiger Welpe wieder einnässt, wenn er beim Urinieren presst oder jault, wenn sehr häufig kleine Mengen kommen oder wenn Blut sichtbar ist. Harnwegsinfektionen sind bei jungen Hündinnen häufig und werden regelmäßig für ein Erziehungsproblem gehalten.</p>
+  <!--/BLOCCO:8-->
 
+  <!--BLOCCO:9-->
   <h2>Die häufigen Fehler</h2>
   <p>Den Welpen allein in den Garten lassen und annehmen, er habe sich gelöst. Sie müssen mitgehen, sonst können Sie nicht belohnen und wissen es nicht.</p>
   <p>Erst drinnen belohnen, was dem Welpen beibringt, dass sich das Hereinkommen lohnt.</p>
@@ -95,10 +112,10 @@ custom_content: |
   <li><a href="/de/welpen-allein-bleiben/" title="Welpen lernen allein zu bleiben, ohne Stress">Welpen lernen allein zu bleiben, ohne Stress</a></li>
   </ul>
   </div>
-  
+
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
-  
+
   <p class="tags"><strong>Tags:</strong>
   <a aria-label="welpen — Blog-Kategorie" href="/de/blog/#welpen" title="Welpen-Artikel">welpen</a>
   <a aria-label="Ratgeber zum Staffordshire Bull Terrier" href="/de/blog/#welpen" title="Staffy-Artikel">staffordshire bull terrier</a>
@@ -106,7 +123,8 @@ custom_content: |
   <a aria-label="ausgangsroutine — Blog-Kategorie" href="/de/blog/#welpen" title="Routine-Artikel">ausgangsroutine</a>
   </p>
   </div>
-  
+  <!--/BLOCCO:9-->
+
   </article>
   </div>
 ---

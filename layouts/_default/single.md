@@ -2,20 +2,21 @@
 {{- /* Titolo: se la pagina ha un h1 suo (diverso dall'h1 "hero-title", che
      ripete il titolo) si usa quello e lo si toglie dal testo, cosi' il file
      ha un solo titolo # come la pagina HTML (es. Palmares). */ -}}
-{{- $grezzo := .Params.custom_content | default (string .Content) -}}
+{{- $grezzo := partial "pagine/applica.html" (dict "p" . "c" (.Params.custom_content | default (string .Content))) -}}
 {{- $grezzo = replaceRE `(?s)<h1 class="hero-title">.*?</h1>` "" $grezzo -}}
-{{- $titolo := .Title -}}
+{{- $titolo := or (partial "pagine/mod.html" .).h1 .Title -}}
 {{- $suoH1 := false -}}
 {{- with findRESubmatch `(?s)<h1(?:\s[^>]*)?>(.*?)</h1>` $grezzo 1 -}}
 {{- $t := index (index . 0) 1 | replaceRE `<br\s*/?>` " " | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace -}}
 {{- if $t }}{{ $titolo = $t }}{{ $suoH1 = true }}{{ end -}}
 {{- end -}}
 # {{ $titolo }}
-{{ with .Description }}
+{{ with partial "pagine/desc.html" . }}
 > {{ . }}
 {{ end }}
 {{- $c := .Params.custom_content | default "" -}}
 {{- if not $c }}{{ $c = .Content }}{{ end -}}
+{{- $c = partial "pagine/applica.html" (dict "p" . "c" (string $c)) -}}
 {{- $c = replace $c "<!--CUCCIOLATE-->" (partial "cucciolate.html" (dict "p" .)) -}}
 {{- $c = replace $c "<!--ULTIMA-CUCCIOLATA-->" (cond (partial "ultima-cucciolata-doppia.html" .) "" (partial "ultima-cucciolata-scheda.html" .)) -}}
 {{- range $i, $m := (findRE `<!--ESPOSIZIONI(:[A-Za-z0-9_-]+)?-->` $c) -}}

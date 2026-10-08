@@ -12,6 +12,7 @@ thumb: "/images/blog/icone/test-genetici-l2hga-hc-staffy.webp"
 description: "Genetic testing in the Staffordshire Bull Terrier: L2-HGA, hereditary cataract HC (HSF4) and degenerative myelopathy (SOD1). What they are and how to read them."
 slug: "staffy-genetic-testing-l2hga-hc"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -28,31 +29,35 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>L2-HGA</span><span>HC Cataract</span><span>DNA Testing</span><span>CLEAR · CARRIER · AFFECTED</span><span>Recessive Inheritance</span><span>Accredited Labs</span><span>Responsible Breeding</span>
   <span>L2-HGA</span><span>HC Cataract</span><span>DNA Testing</span><span>CLEAR · CARRIER · AFFECTED</span><span>Recessive Inheritance</span><span>Accredited Labs</span><span>Responsible Breeding</span>
   </div>
   </div>
-  
+
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> ›
   <a href="/en/blog/" title="Blog">Blog</a> ›
   <span>Genetic Testing L2-HGA and HC</span>
   </nav>
-  
+
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>The Staffordshire Bull Terrier is a fundamentally healthy breed with two serious hereditary conditions that DNA testing can prevent entirely. L2-HGA, L-2-hydroxyglutaric aciduria, is a metabolic disease of the nervous system that usually appears between six months and one year. Hereditary cataract, caused by a mutation in the HSF4 gene, appears between four months and three years and can end in blindness. Both are autosomal recessive: a carrier looks healthy all its life, and two carriers mated together can produce affected puppies, so healthy-looking parents prove nothing. A third test, for degenerative myelopathy (SOD1 gene), concerns a spinal disease of dogs over eight; it is recessive too, with incomplete penetrance: not every dog with two copies falls ill. A result is only worth something if the report carries the dog's microchip number. At the Del Piccolo Diavolo kennel in Ostellato, Italy, no carrier is bred from, and the reports are published.</p>
 
-  
-  
+
+
+  <!--BLOCCO:2-->
   <h2>Why genetic testing is not optional</h2>
   <p>The Staffordshire Bull Terrier is a fundamentally healthy breed, but it carries two hereditary conditions that are both serious and entirely preventable: L2-HGA and hereditary cataract. Both are recessive, which means a dog can carry the mutation, show no sign of it for its whole life, and still produce affected puppies if mated to another carrier.</p>
   <p>This is the crucial point that many families miss. A visibly healthy sire and dam prove nothing about the puppies. Only a DNA test on the parents tells you whether a litter can produce an affected dog, and since the tests have been available the two diseases have become, in responsible breeding, simply extinct. When an affected puppy is born today it is almost never bad luck: it is the consequence of a mating done without testing.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>L2-HGA: what it is and how it presents</h2>
   <p>L-2-hydroxyglutaric aciduria is a metabolic disorder caused by a mutation in the L2HGDH gene. The affected dog cannot correctly break down a molecule called L-2-hydroxyglutaric acid, which accumulates in the cerebrospinal fluid and progressively damages the central nervous system.</p>
   <p>Symptoms usually appear between 6 months and 1 year of age, occasionally later. Owners describe episodes of wobbliness and loss of coordination, tremors, muscle stiffness after exercise or excitement, behavioural changes, and in many cases seizures. Between episodes the dog can seem almost normal, which delays diagnosis and gives false hope.</p>
@@ -69,7 +74,9 @@ custom_content: |
   <li>Exercise intolerance</li>
   </ul>
   <p>The disease is <strong>progressive and incurable</strong>. Affected dogs have a badly compromised quality of life and are frequently euthanised on humane grounds. There is no treatment, only symptomatic management of the seizures — and that is the point: this is an entirely preventable condition, and no puppy should ever be born with it.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>Hereditary cataract (HC, HSF4 gene): what it is and how it presents</h2>
   <p>Hereditary cataract in this breed, caused by a mutation in the HSF4 gene, is not the age-related cataract seen in older dogs of any breed. It appears early, typically between 4 months and 3 years, and it is bilateral and progressive.</p>
   <p>The lens becomes progressively opaque and the dog loses sight, usually completely, often before its third birthday. Surgery can restore useful vision in selected cases but is expensive, is not always successful, and requires a specialist ophthalmologist. Again, the disease is entirely avoidable by testing before the mating rather than treating after the diagnosis.</p>
@@ -83,15 +90,19 @@ custom_content: |
   <li>Complete blindness in advanced cases</li>
   </ul>
   <p>Unlike L2-HGA, cataract can be operated on with good results, but surgery is expensive and the aftercare is demanding. Prevention through testing remains by far the better route.</p>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>Degenerative myelopathy (DM, SOD1 gene): what it is and how it presents</h2>
-  
+
   <p><strong>Degenerative myelopathy</strong> is a disease of the spinal cord that appears late in life, usually after eight years of age. It starts with an unsteady gait in the hind legs and gets progressively worse until paralysis, over a few months to a couple of years. There is no cure. The main mutation, in exon 2 of the <strong>SOD1</strong> gene, was described in 2009 and is found in many breeds. It is inherited recessively: the risk concerns dogs that carry two copies, although not all of them fall ill. Precisely because it shows so late, an at-risk dog may already have had several litters before the first signs appear: a DNA test is the only way to know in time. An N/N result, or "wild type homozygous", means the dog does not carry the mutation and cannot pass it on.</p>
-  
+
   <p>Here the SOD1 test is N/N, meaning clear, for our two active breeding females, Bilquis and Croi Olc, and for Nora: the reports, with the microchip number, are on the <a href="/en/females-staffordshire-bull-terrier/" title="Female Staffordshire Bull Terriers">females page</a>.</p>
-  
+
   <p class="fonti">Sources: <a href="https://www.pnas.org/doi/10.1073/pnas.0812297106" target="_blank" rel="noopener" title="Awano et al., PNAS 2009" aria-label="Awano et al., PNAS 2009 (opens in a new tab)">Awano et al., PNAS 2009</a>; <a href="https://vgl.ucdavis.edu/test/degenerative-myelopathy" target="_blank" rel="noopener" title="UC Davis Veterinary Genetics Laboratory" aria-label="UC Davis Veterinary Genetics Laboratory (opens in a new tab)">UC Davis Veterinary Genetics Laboratory</a>; <a href="https://omia.org/OMIA001371/9615/" target="_blank" rel="noopener" title="OMIA 001371-9615" aria-label="OMIA, L-2-HGA in the dog (opens in a new tab)">OMIA, L-2-HGA in the dog</a>; <a href="https://omia.org/OMIA001758/9615/" target="_blank" rel="noopener" title="OMIA 001758-9615" aria-label="OMIA, HSF4 hereditary cataract (opens in a new tab)">OMIA, HSF4 hereditary cataract</a> (mode of inheritance).</p>
-  
+  <!--/BLOCCO:5-->
+
+  <!--BLOCCO:6-->
   <h2>How the tests work</h2>
   <p>The tests are DNA based and straightforward. A cheek swab or a small blood sample is taken, ideally by the veterinarian who also verifies the dog's microchip so that the sample is unambiguously linked to that animal, and sent to an accredited laboratory. The result arrives within 2 to 4 weeks and is valid for life: the DNA does not change, so a dog is tested once and never again.</p>
   <p>Costs vary by laboratory and country, but for both tests together expect something in the region of around 120 euros for the genetic panel at the laboratory, rising to roughly 400 per dog once you add the veterinary sampling, the shipping and, on brood bitches, the degenerative myelopathy (SOD1) test. Compared with the cost of a lifetime of anticonvulsants, or of cataract surgery, or of the grief of a family, it is a trivial figure. It is also the reason no serious breeder considers it a discretionary expense.</p>
@@ -104,6 +115,7 @@ custom_content: |
   </figure>
   <p>The main laboratories carrying out these tests are the <strong>Animal Health Trust</strong> in the UK, which developed both of them and is now part of The Kennel Club; <strong>Laboklin</strong>, the German laboratory that also operates in Italy; <strong>Optigen</strong> in the United States, specialised in eye conditions; and <strong>Embark</strong>, whose broad panel includes L2-HGA and HC.</p>
   <p>The sample is a cheek swab or a blood draw taken by a vet, sent to the laboratory, and the certificate comes back with the dog's microchip number on it. That number is what ties the result to a specific animal — a certificate without one proves nothing about the dog in front of you.</p>
+  <!--/BLOCCO:6-->
 
   <h2>Reading the results</h2>
   <p>Results are expressed in standard terms:</p>
@@ -139,10 +151,13 @@ custom_content: |
 
   <p>The last row is the whole reason the tests exist: two healthy dogs, mated together, produce one sick puppy in four.</p>
 
+  <!--BLOCCO:8-->
   <h2>Testing by parentage</h2>
   <p>You will often see a pedigree stating that a dog is clear "by parentage" or "hereditarily clear". This means the dog itself has not been tested, but both its parents were tested clear, which makes it genetically impossible for the dog to carry the mutation.</p>
   <p>This is legitimate and accepted by kennel clubs, but it depends entirely on the accuracy of the pedigree. It is valid for 1 generation and it collapses if a parentage is wrong. For a dog that will be used for breeding, a direct test is still advisable, so that it has a certificate in its own name. For a pet puppy, clear by parentage from two directly tested parents is perfectly reassuring.</p>
+  <!--/BLOCCO:8-->
 
+  <!--BLOCCO:7-->
   <h2>What to ask the breeder, and what should worry you</h2>
   <figure class="article-image img-left">
   <img src="/images/cucciolo-rosso.webp" alt="Healthy Staffordshire Bull Terrier puppy" loading="lazy" decoding="async" width="280" height="320">
@@ -151,7 +166,9 @@ custom_content: |
   <p>Ask for the laboratory certificates of both parents, as documents, with the dogs' names, microchip numbers and the laboratory's name legible: an accredited laboratory and a microchip that matches the dog are what make a report valid. A serious breeder sends them without hesitation and often before you ask.</p>
   <p>Be wary of any of the following: the phrase "the parents are healthy, they have never had problems", which addresses a different question entirely; certificates you are told you will receive later; a refusal to show the certificates before the puppy goes home; results shown only as a screenshot or a message; and the claim that testing is unnecessary "because our lines have never had it". No line is exempt from a recessive mutation until it is tested.</p>
   <p>At Del Piccolo Diavolo the breeding dogs are tested, or clear by parentage with their parents' reports. The reports, with the microchip number, are published on the dogs' pages.</p>
+  <!--/BLOCCO:7-->
 
+  <!--BLOCCO:9-->
   <h2>Beyond the two DNA tests</h2>
   <p>Besides L2-HGA and HC, a serious kennel carries out other health checks on its breeding dogs.</p>
 
@@ -179,7 +196,9 @@ custom_content: |
   ✅ Registered microchip<br>
   ✅ Complete vaccinations and health record</p>
   </div>
+  <!--/BLOCCO:9-->
 
+  <!--BLOCCO:10-->
   <h2>The cost of prevention against the cost of the disease</h2>
   <p>Testing costs around 400 euros per dog, once. The lifetime cost of an L2-HGA affected dog runs into thousands, and the cost of cataract surgery for one eye is comparable to the price of the puppy. But the arithmetic is not really the point. The point is that a family who chose a healthy breed and paid for a pedigree puppy should never be put in that position, when a swab and 3 weeks of waiting would have prevented it entirely.</p>
 
@@ -198,7 +217,9 @@ custom_content: |
   </table>
 
   <p>These are not two comparable expenses. Eight hundred euros spent once before a mating sits opposite a monthly cost that lasts as long as the dog does.</p>
+  <!--/BLOCCO:10-->
 
+  <!--BLOCCO:11-->
   <h2>Frequently asked</h2>
 
   <div class="faq-item">
@@ -252,11 +273,12 @@ custom_content: |
   <li><a href="/en/puppy-initial-feeding/" title="Feeding a Staffordshire Bull Terrier puppy: first months">Feeding a Staffordshire Bull Terrier puppy: first months</a></li>
   </ul>
   </div>
-  
+
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   </div>
-  
+  <!--/BLOCCO:11-->
+
   </article>
   </div>
 ---

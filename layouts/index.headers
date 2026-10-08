@@ -60,6 +60,12 @@
 /de/llms-full.txt
   Cache-Control: public, max-age=0, must-revalidate
 
+# Indice delle pagine per il gestionale (Google -> Pagine del sito): lo legge solo il gestionale.
+/pagine-indice.json
+  Access-Control-Allow-Origin: https://gestionale.delpiccolodiavolo.it
+  Cache-Control: public, max-age=0, must-revalidate
+  X-Robots-Tag: noindex
+
 /robots.txt
   Cache-Control: public, max-age=86400
 

@@ -17,6 +17,7 @@ entita:
   - nome: "TRACES"
     sameAs: ["https://food.ec.europa.eu/animals/traces_en"]
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -39,8 +40,10 @@ custom_content: |
   <p class="hero-trust">Seit 2013 &middot; ENCI-Stammbaum &middot; Italiano, English, Deutsch</p>
   </div>
   </section>
+  <!--/BLOCCO:1-->
 
   <div class="features-bar"><div class="features-track"><span>Tollwut ab 12 Wochen</span><span>EU-Heimtierausweis</span><span>TRACES-Zeugnis</span><span>ENCI-Exportstammbaum</span><span>Abreise mit 4 Monaten</span><span>Tollwut ab 12 Wochen</span><span>EU-Heimtierausweis</span><span>TRACES-Zeugnis</span><span>ENCI-Exportstammbaum</span><span>Abreise mit 4 Monaten</span></div></div>
+  <!--BLOCCO:2-->
   <section class="section">
     <div class="section-inner content-single">
   <p>Ein Staffordshire Bull Terrier Welpe, der ins Ausland geht, reist nicht mit zwei Monaten wie einer, der in Italien bleibt, und der Grund ist ein gesundheitlicher. Um das Land zu verlassen, braucht er die Tollwutimpfung, die nicht vor der 12. Lebenswoche gegeben werden darf, und nach der ersten Dosis müssen weitere 21 Tage vergehen, bis sie für die Reise gültig ist. Die Rechnung ist einfach: Ein heute geborener Welpe kann nicht vor vier Monaten reisen. Dazu kommen der EU-Heimtierausweis, ein in der nationalen Datenbank registrierter Mikrochip und die amtliche Gesundheitsbescheinigung nach der EU-Verordnung 576/2013. Wer eine Übergabe im Ausland mit zwei Monaten verspricht, kennt die Regeln entweder nicht oder verstößt gegen sie, und in beiden Fällen sollte man sich fragen, was er sonst noch nicht tut. Papiere, Auto, Bahn und Flugzeug: Die praktischen Regeln stehen im Ratgeber <a href="/de/staffy-reisen-transport/" title="Reisen mit dem Staffy">Reisen mit dem Staffy</a>.</p>
@@ -105,7 +108,9 @@ custom_content: |
 
     </div>
     </section>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <section class="section section-alt">
   <div class="section-inner content-single">
   <h2 class="section-title">Früh darüber sprechen</h2>
@@ -113,10 +118,13 @@ custom_content: |
   <p>Geplante Würfe: <a href="/de/welpen-staffordshire-bull-terrier/">Staffordshire Bull Terrier Welpen</a>.</p>
   </div>
   </section>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <section class="cta-section">
   <h2>Fragen zur Vermittlung ins Ausland?</h2>
   <p>Schreiben Sie mir ruhig in Ihrer Sprache — das bekomme ich hin. Wenn Sie lieber sprechen möchten: meine Tochter Sara spricht Englisch, Deutsch und Spanisch, <strong>+39 377 689 6955</strong>.</p>
   <a class="btn btn-light" href="/wa/393924635584" target="_blank" rel="noopener" aria-label="Auf WhatsApp schreiben (wird in einem neuen Tab geöffnet)">Auf WhatsApp schreiben</a>
   </section>
+  <!--/BLOCCO:4-->
 ---

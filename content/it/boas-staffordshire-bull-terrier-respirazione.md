@@ -12,6 +12,7 @@ thumb: "/images/blog/icone/boas-staffordshire-bull-terrier-respirazione.webp"
 description: "BOAS nello Staffordshire Bull Terrier: cos'è la sindrome, perché la razza non è brachicefala e come scegliere un cucciolo che respira senza difficoltà."
 slug: "boas-staffordshire-bull-terrier-respirazione"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -33,7 +34,8 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>Selezione Responsabile</span>
@@ -48,36 +50,39 @@ custom_content: |
   <span>Salute Prima di Tutto</span>
   </div>
   </div>
-  
+
+  <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Cos'è il BOAS</span>
   <p>Lo Staffordshire Bull Terrier non è una razza brachicefala: ha il muso più corto di molte razze, ma lontano dal carlino o dal bulldog inglese, e nella maggior parte dei soggetti la respirazione è normale; alcune linee, però, hanno il muso troppo corto. La <strong>BOAS</strong> — sindrome ostruttiva delle vie aeree dei brachicefali — non è quindi una condanna di razza, ma un rischio da conoscere: i segnali sono russamento marcato anche da sveglio, respiro rumoroso a riposo, intolleranza allo sforzo e al caldo, rigurgiti frequenti. Un cane che ansima pesantemente dopo pochi minuti di gioco non è fuori forma, va visto. Nella selezione conta scegliere riproduttori con narici aperte e canna nasale non compressa: la tipicità della testa non deve mai andare contro la funzionalità.</p>
 
   <h2 class="section-title">Sindrome Brachicefalica Ostruttiva delle Vie Aeree</h2>
-  
+
   <div class="content-block">
   <p>Il <strong>BOAS</strong> (Brachycephalic Obstructive Airway Syndrome) è un insieme di anomalie anatomiche che causano ostruzione delle vie aeree superiori nei cani a muso corto. Non si tratta di un singolo problema, ma di una combinazione di difetti che rendono difficile la respirazione.</p>
-  
+
   <p>Secondo il <a href="https://vcahospitals.com/know-your-pet/brachycephalic-airway-syndrome-in-dogs" target="_blank" rel="noopener" aria-label="VCA Animal Hospitals (si apre in una nuova scheda)">VCA Animal Hospitals</a>, le anomalie principali includono:</p>
-  
+
   <ul>
   <li><strong>Narici stenotiche</strong> – narici troppo strette che limitano il flusso d'aria</li>
   <li><strong>Palato molle allungato</strong> – tessuto che si estende troppo indietro nella gola, bloccando parzialmente le vie respiratorie</li>
   <li><strong>Sacculi laringei evertiti</strong> – piccole sacche che vengono "risucchiate" nelle vie aeree</li>
   <li><strong>Trachea ipoplastica</strong> – trachea di diametro inferiore al normale</li>
   </ul>
-  
+
   <p>Il problema del <strong>palato molle</strong> è particolarmente insidioso. Come riporta <a href="https://www.cherrydownvets.co.uk/news/brachycephalic-obstructive-airway-syndrome/" target="_blank" rel="noopener" aria-label="Cherrydown Vets (si apre in una nuova scheda)">Cherrydown Vets</a>: "Il 100% dei Carlini, Bouledogue Francesi e Bulldog Inglesi hanno un palato molle allungato. Il palato molle in queste razze è spesso molto ispessito, ostruendo ulteriormente le vie aeree e aumentando lo sforzo necessario per far passare l'aria nei polmoni."</p>
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:2-->
+
+  <!--BLOCCO:3-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">La Posizione dello Staffy</span>
   <h2 class="section-title">Lo Staffordshire Bull Terrier non è una razza brachicefala</h2>
-  
+
   <div class="zigzag">
   <div class="zigzag-item">
   <div class="zigzag-text">
@@ -87,7 +92,7 @@ custom_content: |
   </div>
   <div class="zigzag-image"></div>
   </div>
-  
+
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>La Posizione di The Stafford Knot</h3>
@@ -96,7 +101,7 @@ custom_content: |
   </div>
   <div class="zigzag-image"></div>
   </div>
-  
+
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Il BOAS È Raro nello Staffy... Se Selezionato Bene</h3>
@@ -108,20 +113,22 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:3-->
+
+  <!--BLOCCO:4-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Il Problema</span>
   <h2 class="section-title">Perché Molti Allevatori Ignorano la Respirazione</h2>
-  
+
   <div class="content-block">
   <p>Purtroppo, la tendenza a preferire musi sempre più corti sta influenzando anche lo Staffordshire Bull Terrier. Alcuni allevatori, inseguendo una moda estetica, selezionano soggetti con teste esagerate e musi schiacciati, ignorando le conseguenze sulla salute.</p>
-  
+
   <p>Il <a href="https://wsava.org/updates/meet-the-staffordshire-bull-terrier-update-your-knowledge/" target="_blank" rel="noopener" aria-label="WSAVA (si apre in una nuova scheda)">WSAVA</a> (World Small Animal Veterinary Association) è chiaro: "<strong>L'esistenza del BOAS nella razza indica che i cani usati per la riproduzione devono avere narici aperte e un muso sufficientemente lungo – e nessun segno clinico di BOAS.</strong>"</p>
-  
+
   <p>Un altro problema è la normalizzazione dei sintomi. Come riporta uno <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6067768/" target="_blank" rel="noopener" aria-label="studio scientifico pubblicato su PMC (si apre in una nuova scheda)">studio scientifico pubblicato su PMC</a>: "I cambiamenti positivi alla salute brachicefalica possono essere ostacolati dalla percezione che il BOAS sia 'normale per la razza'. Questa percezione deve essere evitata da proprietari, allevatori e veterinari per prevenire il sottotrattamento degli individui e la perpetuazione di questo grave disturbo alle future generazioni di cani."</p>
   </div>
-  
+
   <div class="checklist">
   <h3>Segnali di Allarme da Non Ignorare</h3>
   <ul>
@@ -135,72 +142,80 @@ custom_content: |
   <li>Posizione a gambe larghe per respirare meglio</li>
   </ul>
   </div>
-  
+
   <div class="content-block" style="margin-top:2rem">
   <p><strong>Importante:</strong> Se il tuo Staffy mostra questi sintomi, non pensare che sia "normale per la razza". Consulta un veterinario. La <a href="https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/brachycephalic-obstructive-airway-syndrome-boas" target="_blank" rel="noopener" aria-label="Cornell University (si apre in una nuova scheda)">Cornell University</a> sottolinea che "l'intervento chirurgico precoce (cani sotto i 2 anni) porta a risultati migliori."</p>
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:4-->
+
+  <!--BLOCCO:5-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">La Nostra Filosofia</span>
   <h2 class="section-title">Perché Diamo Priorità alla Respirazione</h2>
-  
+
   <div class="content-block">
   <p>All'allevamento Del Piccolo Diavolo, la respirazione corretta è un criterio <strong>non negoziabile</strong> nella selezione dei riproduttori. Non ci interessa seguire mode estetiche che compromettono la salute.</p>
-  
+
   <p>Ogni soggetto che entra nel nostro programma di allevamento viene valutato per:</p>
-  
+
   <ul>
   <li><strong>Narici aperte</strong> – devono permettere un flusso d'aria adeguato</li>
   <li><strong>Lunghezza del muso</strong> – proporzionata secondo lo standard, mai esageratamente corta</li>
   <li><strong>Respirazione silenziosa</strong> – nessun rumore anomalo a riposo o sotto sforzo moderato</li>
   <li><strong>Tolleranza all'esercizio</strong> – capacità di fare attività fisica senza difficoltà respiratorie</li>
   </ul>
-  
+
   <p>Non alleveremo mai da soggetti che mostrano segni di BOAS, indipendentemente da quanto siano belli o titolati. La salute viene prima dei premi.</p>
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:5-->
+
+  <!--BLOCCO:6-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Per i Futuri Proprietari</span>
   <h2 class="section-title">Come Scegliere un Cucciolo Sano</h2>
-  
+
   <div class="faq-item">
   <h3>Osserva i genitori</h3>
   <p>Quando visiti un allevamento, presta attenzione alla respirazione dei riproduttori. Respirano silenziosamente? Possono fare attività senza affannarsi? Le narici sono aperte o sembrano "pizzicate"? Se i genitori hanno problemi, i cuccioli li erediteranno.</p>
   </div>
-  
+
   <div class="faq-item">
   <h3>Chiedi informazioni sulla selezione</h3>
   <p>Un allevatore responsabile sarà felice di parlare dei criteri di selezione per la salute respiratoria. Se minimizza il problema o dice che "è normale per la razza", cerca altrove.</p>
   </div>
-  
+
   <div class="faq-item">
   <h3>Diffida dei musi troppo corti</h3>
   <p>Lo Staffordshire Bull Terrier dovrebbe avere un muso corto ma non schiacciato. Se un cucciolo o i suoi genitori hanno un profilo quasi piatto come un Carlino, c'è un problema di selezione.</p>
   </div>
-  
+
   <div class="faq-item">
   <h3>Verifica l'ambiente</h3>
   <p>I cuccioli cresciuti in ambienti caldi e poco ventilati potrebbero nascondere problemi respiratori. Un allevatore serio ti mostrerà dove vivono i cani e come gestisce il loro benessere.</p>
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:6-->
+
+  <!--BLOCCO:7-->
   <section class="dark-section">
   <h2>La Salute Non È Negoziabile</h2>
   <p>Lo Staffordshire Bull Terrier è una razza meravigliosa che merita di respirare liberamente. Come allevatori, abbiamo la responsabilità di preservare la sua salute, non di inseguire mode estetiche dannose. Ogni scelta di selezione che facciamo oggi influenzerà generazioni di cani domani.</p>
   </section>
-  
+  <!--/BLOCCO:7-->
+
+  <!--BLOCCO:8-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Fonti</span>
   <h2 class="section-title">Riferimenti Scientifici e Autorevoli</h2>
-  
+
   <div class="content-block">
   <ul>
   <li><a href="https://thestaffordknot.com/brachycephalic-airway-syndrome/" target="_blank" rel="noopener" aria-label="The Stafford Knot – Brachycephalic Airway Syndrome (si apre in una nuova scheda)">The Stafford Knot – Brachycephalic Airway Syndrome</a></li>
@@ -215,10 +230,13 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:8-->
+
+  <!--BLOCCO:9-->
   <section class="cta-section">
   <h2>Hai Domande sulla Salute dello Staffy?</h2>
   <p>Contattaci per parlare della nostra filosofia di allevamento e dei criteri di selezione.</p>
   <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20ho%20letto%20l'articolo%20sul%20BOAS%20e%20vorrei%20maggiori%20informazioni" class="btn" title="Contattaci su WhatsApp">Scrivici su WhatsApp</a>
   </section>
+  <!--/BLOCCO:9-->
 ---

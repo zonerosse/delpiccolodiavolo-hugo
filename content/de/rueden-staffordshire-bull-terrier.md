@@ -8,6 +8,7 @@ translationKey: "maschi"
 description: "Unsere Staffordshire Bull Terrier Rüden: Lothar (Slowenischer und Italienischer Jugendchampion), Braveheart und Papillon. Gentests L2HGA und HC (HSF4)."
 slug: "rueden-staffordshire-bull-terrier"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -25,19 +26,21 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>Elitebull Linien</span><span>Lackyle Linien</span><span>L2HGA Frei</span><span>HC Frei</span><span>Italienische Champions</span><span>ENCI Stammbaum</span>
   <span>Elitebull Linien</span><span>Lackyle Linien</span><span>L2HGA Frei</span><span>HC Frei</span><span>Italienische Champions</span><span>ENCI Stammbaum</span>
   </div>
   </div>
-  
+
+  <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Unser Ansatz</span>
   <h2 class="section-title">Ethik, Gesundheit und Verantwortungsvolle Selektion</h2>
-  
+
   <div class="intro-block">
   <p>Del Piccolo Diavolo hält keine eigenen Deckrüden, und das ist eine Entscheidung. Für jede Verpaarung wird <a href="/de/eltern-vor-ort-was-das-bedeutet/" title="&quot;Eltern vor Ort&quot;: was das wirklich bedeutet">der Rüde außerhalb der Zucht gesucht</a>, in den englischen Elitebull- und irischen Lackyle-Linien, und so gewählt, dass er ausgleicht, was der Hündin fehlt: Hat eine Hündin einen ausgezeichneten Kopf und ein verbesserungsfähiges Gangwerk, braucht sie einen Rüden mit solidem Gangwerk, nicht einen, der genauso schön ist wie sie. Einen Rüden im Haus zu halten hieße, ihn einzusetzen, weil er da ist, und die Linien auf einen einzigen Hund zu verengen. Vor einer Verpaarung verlangen wir vom Besitzer die Befunde der Gentests mit der Mikrochipnummer darauf, keine Versprechen: Ist ein Rüde auf einige Erkrankungen getestet und nicht auf alle, wissen wir es vorher und schreiben es auf die Seite des jeweiligen Wurfs.</p>
 
@@ -52,12 +55,14 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:2-->
+
+  <!--BLOCCO:3-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Unsere Rüden</span>
   <h2 class="section-title">Deckrüden</h2>
-  
+
   <!-- LOTHAR -->
   <article class="male-card male-featured">
   <div class="male-header">
@@ -81,8 +86,8 @@ custom_content: |
   </div>
   </div>
   </article>
-  
-  
+
+
   <!-- BRAVEHEART -->
   <article class="male-card">
   <div class="male-header">
@@ -102,7 +107,7 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   <!-- PAPILLON -->
   <article class="male-card">
   <div class="male-header">
@@ -122,14 +127,17 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   </div>
   </section>
-  
-    
+  <!--/BLOCCO:3-->
+
+
+  <!--BLOCCO:4-->
   <section class="cta-section">
   <h2>Möchten Sie Infos über unsere Rüden?</h2>
   <p>Rufen Sie uns an oder schreiben Sie uns auf WhatsApp für Informationen über unsere Deckrüden.</p>
   <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20möchte%20Infos%20über%20Staffordshire%20Bull%20Terrier%20Rüden" class="btn" title="Schreiben Sie uns auf WhatsApp">Auf WhatsApp Schreiben</a>
   </section>
+  <!--/BLOCCO:4-->
 ---

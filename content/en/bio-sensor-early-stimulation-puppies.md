@@ -12,6 +12,7 @@ thumb: "/images/blog/icone/bio-sensor-stimolazione-precoce-cuccioli.webp"
 description: "The Bio Sensor and ENS method on puppies: where it comes from, what it promises and how much studies have proven. And what really counts in the first eight weeks."
 slug: "bio-sensor-early-stimulation-puppies"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -27,6 +28,7 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:1-->
 
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> ›
@@ -37,7 +39,7 @@ custom_content: |
 
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>Bio Sensor, also known as ENS or Early Neurological Stimulation, is a United States army programme from the 1970s: five exercises of three to five seconds each, once a day, from the third to the sixteenth day of a puppy's life. The benefits attributed to it, better stress tolerance, a more efficient heart and greater resistance to disease, come from that military programme, not from independent studies checked by other researchers. What is well documented in canine behaviour is something else: the sensitive period for socialisation in the weeks that follow, and the weight of good maternal care. A breeder who presents ENS as the guarantee of a balanced adult is promising more than is actually known. This applies to the Staffordshire Bull Terrier as much as to any other breed. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
 
@@ -45,6 +47,7 @@ custom_content: |
 
   <p>I will try to supply that part here, because someone asked me and because an honest answer is more useful than an acronym.</p>
 
+  <!--BLOCCO:2-->
   <h2>What Bio Sensor is</h2>
 
   <p><strong>Bio Sensor</strong> was a United States army programme from the 1970s, later known as "Super Dog", designed to improve the performance of working dogs. In the popularised version &mdash; known as <strong>ENS</strong>, Early Neurological Stimulation &mdash; it consists of five exercises of three to five seconds each, once a day, <strong>from the third to the sixteenth day of life</strong>:</p>
@@ -58,7 +61,9 @@ custom_content: |
   </ol>
 
   <p>The benefits attributed to the programme are stress tolerance, a more efficient heart, stronger adrenal glands and greater resistance to disease.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>What holds up and what does not</h2>
 
   <p>Those benefits come from the military programme, not from studies published and checked by other researchers. That difference matters: it means the original source cannot be verified.</p>
@@ -70,7 +75,9 @@ custom_content: |
   <p><strong>This does not mean ENS is harmful or a scam.</strong> It means that anyone presenting it as a guarantee is promising more than is known.</p>
 
   <p>There is also a practical point that tends to get skipped: <strong>more is worse.</strong> These are stressful stimuli applied to a newborn that cannot yet regulate its own temperature. Stretching the timings or repeating the exercises several times a day, in the belief that more must be better, is the surest way to get the opposite effect.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>What is well documented instead</h2>
 
   <p>If you are looking for the factor that really shapes a puppy's character, it is not in the first sixteen days: it is in the weeks that follow.</p>
@@ -78,7 +85,9 @@ custom_content: |
   <p>The <strong>sensitive period for socialisation</strong> &mdash; roughly from the third to the twelfth week, with the core between the fourth and the eighth &mdash; is one of the best established findings in dog behaviour. Whatever a puppy meets in those weeks becomes part of its normal world; whatever it does not meet will remain, for life, something to be assessed.</p>
 
   <p>The <strong>quality of maternal care</strong> matters a great deal too: a settled mother, in an environment she knows, raises steadier puppies. One more reason to <a href="/en/parents-on-site-what-it-means/" title="&quot;Parents on site&quot;: what it really means">look at the mother when you visit a kennel</a>.</p>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>What we do</h2>
 
   <p>I follow no stopwatch protocol, and I do not write "Bio Sensor method" in our litter announcements. What I do is less impressive to describe, and I believe it is worth more.</p>
@@ -96,7 +105,9 @@ custom_content: |
   <p>Applying five identical exercises to eight different puppies, counting the seconds, means treating them as interchangeable. They are not, any more than children are.</p>
 
   <p>From the first month onwards the part that matters most begins: the move to the pen with outdoor access, coming back indoors in turns, and then the people, the noises, the other dogs. That is where an adult dog's character is built, and it cannot be recovered afterwards. How ours grow up is described on the <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Puppies">Staffordshire Bull Terrier puppies</a> page.</p>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>In short</h2>
 
   <p>If a breeder tells you they use ENS, that is not a fault: it is a detail worth what it is worth, which is little either way. If instead they present it as the reason their puppy will be balanced, the right question is a different one: <strong>where the puppies grow up, who they meet in the first eight weeks, and what condition the mother is in.</strong></p>
@@ -124,6 +135,7 @@ custom_content: |
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to the blog">&larr; Back to the blog</a>
   </div>
+  <!--/BLOCCO:6-->
 
   </article>
   </div>

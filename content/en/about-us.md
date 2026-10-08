@@ -18,6 +18,7 @@ correlati:
 slug: "about-us"
 fonti_motivo: "This page tells the story and the work of the Del Piccolo Diavolo kennel in the first person, and cites no external sources because the facts it reports are the kennel's own. Those that can be verified are verifiable on the site: genetic test reports with the microchip number, ENCI pedigrees, show results with the judges' names."
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -35,14 +36,16 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>Since 2013</span><span>Elitebull Lines</span><span>Lackyle Lines</span><span>L2HGA Clear</span><span>HC Clear</span><span>ENCI Pedigree</span><span>Ostellato FE</span>
   <span>Since 2013</span><span>Elitebull Lines</span><span>Lackyle Lines</span><span>L2HGA Clear</span><span>HC Clear</span><span>ENCI Pedigree</span><span>Ostellato FE</span>
   </div>
   </div>
-  
+
+  <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Our Values</span>
@@ -55,12 +58,14 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:2-->
+
+  <!--BLOCCO:3-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">How It Began</span>
   <h2 class="section-title">Our Story</h2>
-  
+
   <div class="story-block" style="grid-template-columns:1fr">
   <div class="story-text">
   <h3>From Crufts to Ostellato</h3>
@@ -69,7 +74,7 @@ custom_content: |
   </div>
   <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo — Staffordshire Bull Terrier" class="story-img" width="350" height="354" loading="lazy" decoding="async">
   </div>
-  
+
   <div class="story-block reverse">
   <div class="story-text">
   <h3>Why Elitebull and Lackyle</h3>
@@ -81,12 +86,14 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:3-->
+
+  <!--BLOCCO:4-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Our Approach</span>
   <h2 class="section-title">Breeding Philosophy</h2>
-  
+
   <div class="story-block">
   <div class="story-text">
   <h3>Quality, Not Quantity</h3>
@@ -96,7 +103,7 @@ custom_content: |
   </div>
   <img src="/images/20250922175108-4a225f3e-sm--1-.webp" alt="Newborn Staffy puppies" class="story-img" width="247" height="288" loading="lazy" decoding="async">
   </div>
-  
+
   <div class="checklist">
   <h3>What You Receive With Our Puppy</h3>
   <ul>
@@ -111,7 +118,9 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:4-->
+
+  <!--BLOCCO:5-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">The Breeder</span>
@@ -123,7 +132,9 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">How I work</span>
@@ -136,6 +147,7 @@ custom_content: |
   <p>Of anyone who wants a puppy I ask one thing first: to come to Ostellato in person, at least once. It is the only moment when I see how someone behaves with a real dog rather than a photograph, and when they see where the puppy grew up. I ask to talk about the dog's day: how many hours it will be alone, who is at home, what happens in summer when the family goes away. Ordinary questions, and they prevent almost every problem.</p>
   </div>
   </section>
+  <!--/BLOCCO:6-->
 
   <section class="section">
   <div class="section-inner content-single">
@@ -143,8 +155,10 @@ custom_content: |
   </div>
   </section>
 
-  
+
+  <!--BLOCCO:7-->
   <!--CORRELATI-->
+  <!--/BLOCCO:7-->
 
 
   <p>We tell every family the same thing: if one day you can no longer keep the dog, it comes back to us. Since 2013 it has never been needed &mdash; where those dogs ended up is told in <a href="/en/staffordshire-family-life-stories/" title="Family stories">the family stories</a>.</p>
@@ -156,10 +170,12 @@ custom_content: |
   <li><a href="/en/females-staffordshire-bull-terrier/" title="Our female Staffies: microchips and pedigrees">Our female Staffies: microchips and pedigrees</a></li>
   </ul>
   </div>
-  
+
+  <!--BLOCCO:8-->
   <section class="cta-section">
   <h2>Want to Meet Us?</h2>
   <p>Come visit us in Ostellato (FE) or contact us on WhatsApp</p>
   <a href="/wa/393924635584" class="btn" title="Write us on WhatsApp">Write Us on WhatsApp</a>
   </section>
+  <!--/BLOCCO:8-->
 ---

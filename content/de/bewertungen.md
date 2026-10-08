@@ -8,6 +8,7 @@ description: "Die Google-Bewertungen der Familien, die einen Welpen von Del Picc
 slug: "bewertungen"
 fonti_motivo: "Die hier gezeigten Bewertungen stammen von Familien mit einem Welpen der Zucht Del Piccolo Diavolo: Ihre Quelle ist das Google-Profil der Zucht, auf das jede einzelne Bewertung verlinkt, und es gibt keine weiteren externen Quellen zu nennen."
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -25,15 +26,17 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>Seit 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Bewertungen</span><span>100% Verifiziert</span><span>Lebenslanger Support</span><span>Zufriedene Familien</span>
   <span>Seit 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Bewertungen</span><span>100% Verifiziert</span><span>Lebenslanger Support</span><span>Zufriedene Familien</span>
   </div>
   </div>
-  
+
   <!-- WARUM UNSERE BEWERTUNGEN ZÄHLEN -->
+  <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Unser Ruf</span>
@@ -48,15 +51,17 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:2-->
+
   <!-- BEWERTUNGEN -->
+  <!--BLOCCO:3-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Testimonials</span>
   <h2 class="section-title">Was Die Besitzer Sagen</h2>
-  
+
   <div class="reviews-grid">
-  
+
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Gianluca Ravera</span>
@@ -73,7 +78,7 @@ custom_content: |
   <li><a href="/de/huendinnen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Hündinnen">Staffordshire Bull Terrier Hündinnen</a></li>
   </ul>
   </div>
-  
+
   </article>
 
   <article class="review-card">
@@ -120,7 +125,7 @@ custom_content: |
   <p class="review-text">Eine Zucht mit 6 von 5 Sternen. Sie sind professionell und begleiten dich Schritt für Schritt in allem, auch nachdem dein Fellknäuel zu Hause angekommen ist!! Sehr zu empfehlen!!</p>
   <div class="review-meta">15. November 2025 – Google</div>
   </article>
-  
+
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Paola Bonora</span>
@@ -129,7 +134,7 @@ custom_content: |
   <p class="review-text">Die Zucht und alles drumherum sind vollkommen im Einklang. Höchste Sauberkeit. Herzlichkeit. Professionalität auf höchstem Niveau. Volle Erreichbarkeit. 5 Sterne sind wenig... sie verdienen viel mehr. Danke an Paolo und Daniela. Zwei Menschen, die aus ihrer Zucht eine echte Leidenschaft gemacht haben, mit Herz und Hingabe. HERZLICHE GLÜCKWÜNSCHE. MACHT WEITER SO.</p>
   <div class="review-meta">13. November 2025 – Google</div>
   </article>
-  
+
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Franco Cavalieri</span>
@@ -138,7 +143,7 @@ custom_content: |
   <p class="review-text">Staffordshire Bull Terrier Zucht &laquo;Il Piccolo Diavolo&raquo;.<br>Wenige Worte: Professionalität und Herz auf höchstem Niveau. Die Hunde sind äußerst ausgeglichen, weil sie von Zuneigung und Liebe umgeben sind. Paolo, Kompliment.<br>Sehr zu empfehlen.<br>Franco</p>
   <div class="review-meta">12. November 2025 – Google</div>
   </article>
-  
+
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Eliana Buono</span>
@@ -147,7 +152,7 @@ custom_content: |
   <p class="review-text">Eine positive und sehr bewegende Erfahrung!<br>Wie immer braucht die Aufnahme eines Tieres Zeit, Geduld und Hingabe.<br>Paolo war sehr offen und hilfsbereit. Er ist ein Züchter, der sich durch die Sorgfalt und Aufmerksamkeit für seine Hunde auszeichnet. Er führt diese Zucht mit großer Leidenschaft, Professionalität und Hingabe und stellt das Wohl seiner Tiere an erste Stelle.<br>Unser Morfeo, Sohn der legendären Billy (der Hündin, die uns beim ersten Mal mit dem Bauch nach oben empfing, bereit für Streicheleinheiten), ist wunderbar und überrascht uns immer wieder.<br>Ich empfehle diese Zucht aufrichtig: Wer Echtheit, Professionalität, Hunde aus guter Abstammung und Tierliebe sucht, ist hier richtig!</p>
   <div class="review-meta">12. November 2025 – Google</div>
   </article>
-  
+
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Massimiliano Di Falco</span>
@@ -156,7 +161,7 @@ custom_content: |
   <p class="review-text">Ein Züchter mit beachtlicher Erfahrung, freundlich und immer erreichbar, wirklich begeistert von diesem Bereich und von der Rasse. Die Welpen werden sehr gut versorgt und leben in großen, gepflegten Räumen. Zur Rasse selbst kann ich nur das Wort AUSSERGEWÖHNLICH verwenden, körperlich wie im Wesen, zweifellos das Verdienst von Paolo und seiner Frau, die eine außergewöhnliche Arbeit leisten.</p>
   <div class="review-meta">11. November 2025 – Google</div>
   </article>
-  
+
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Jenny Gondolini</span>
@@ -165,7 +170,7 @@ custom_content: |
   <p class="review-text">Paolo ist überaus freundlich und äußerst kompetent.<br>Die Zucht ist in ausgezeichnetem Zustand; man merkt die große Leidenschaft von ihm und seiner Familie.<br>Eine Garantie, sowohl für die Aufmerksamkeit bei tausend Fragen als auch für die gezeigte Freundlichkeit und Hilfsbereitschaft.<br>Danke</p>
   <div class="review-meta">11. November 2025 – Google</div>
   </article>
-  
+
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Maurizio Folegatti</span>
@@ -174,7 +179,7 @@ custom_content: |
   <p class="review-text">Kompetenz, Professionalität und echte Liebe<br>Sehr gut versorgte Welpen, gesund und sozialisiert.<br>Ich empfehle diese Zucht jedem, der einen ruhigen, ausgeglichenen Lebensbegleiter sucht, aufgezogen mit Kompetenz, Hingabe und viel Liebe.<br>Kompliment</p>
   <div class="review-meta">10. November 2025 – Google</div>
   </article>
-  
+
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Giorgia Carone</span>
@@ -183,7 +188,7 @@ custom_content: |
   <p class="review-text">Streben nach Perfektion und Leidenschaft für diese spektakuläre Rasse. Eine hervorragende Kombination, die zusammen mit Bildung, Verfügbarkeit und Freundlichkeit diese Zucht zu einem 5-Sterne-Betrieb macht!</p>
   <div class="review-meta">15. Oktober 2024 – Google</div>
   </article>
-  
+
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Manu Nannetti</span>
@@ -192,7 +197,7 @@ custom_content: |
   <p class="review-text">Die Website und Paolos Zucht haben uns sofort beeindruckt. Er, seine Frau und seine Kinder haben uns mit Professionalität, Erfahrung und Freundlichkeit begleitet. Liebe auf den ersten Blick existiert... vertrauen Sie uns.</p>
   <div class="review-meta">20. September 2024 – Google</div>
   </article>
-  
+
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Monica Nanetti</span>
@@ -201,7 +206,7 @@ custom_content: |
   <p class="review-text">Sol Claressa kam im November 2022. Liebevoll, verspielt, fröhlich und sehr aufgeweckt. Sie liebt es wie eine Sprinterin zu laufen und füllt unsere Tage mit ihrer Energie. Danke Paolo!</p>
   <div class="review-meta">15. November 2022 – Google</div>
   </article>
-  
+
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Paolo Patrucco</span>
@@ -320,11 +325,12 @@ custom_content: |
   </article>
 
   <p>Bewertungen beschreiben die Übergabe; was danach geschah, Jahre später, erzählen wir in den <a href="/de/staffordshire-in-der-familie-geschichten/" title="Familiengeschichten">Geschichten der Hunde, die wir gezüchtet haben</a>.</p>
-  
+
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:3-->
+
   <!-- CTA -->
   <section class="section">
   <div class="section-inner content-single">
@@ -332,9 +338,11 @@ custom_content: |
   </div>
   </section>
 
+  <!--BLOCCO:4-->
   <section class="dark-section">
   <h2>Möchten Sie uns kennenlernen?</h2>
   <p>Kontaktieren Sie uns unverbindlich für Informationen über unsere Welpen.</p>
   <a href="/wa/393924635584" class="btn btn-light" title="Auf WhatsApp schreiben">Auf WhatsApp Schreiben</a>
   </section>
+  <!--/BLOCCO:4-->
 ---

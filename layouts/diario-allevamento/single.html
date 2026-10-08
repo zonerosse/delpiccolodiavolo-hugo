@@ -5,8 +5,8 @@
   <time class="diario-date-hero" datetime="{{ .Date.Format "2006-01-02" }}">
     {{ .Date.Format "2 January 2006" }}
   </time>
-  <h1>{{ .Title }}</h1>
-  {{ with .Description }}<p>{{ . }}</p>{{ end }}
+  <h1>{{ or (partial "pagine/mod.html" .).h1 .Title }}</h1>
+  {{ with partial "pagine/desc.html" . }}<p>{{ . }}</p>{{ end }}
 </div>
 
 {{/* Blocco contatto: il testo dipende dal campo "stato" del front matter
@@ -40,7 +40,7 @@
 </div>
 
 <div class="article-content">
-  {{ .Content }}
+  {{ partial "pagine/applica.html" (dict "p" . "c" (string .Content)) | safeHTML }}
 </div>
 
 {{/* Guide pratiche per le famiglie dei cuccioli di questa cucciolata. */}}

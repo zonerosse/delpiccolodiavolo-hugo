@@ -12,6 +12,7 @@ thumb: "/images/blog/icone/bio-sensor-stimolazione-precoce-cuccioli.webp"
 description: "Metodo Bio Sensor ed ENS sui cuccioli: da dove viene, cosa promette e quanto è dimostrato dagli studi. E cosa conta davvero nelle prime otto settimane."
 slug: "bio-sensor-stimolazione-precoce-cuccioli"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -27,6 +28,7 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:1-->
 
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> ›
@@ -37,7 +39,7 @@ custom_content: |
 
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>Il <strong>Bio Sensor</strong>, noto anche come ENS o Early Neurological Stimulation, è un programma nato nell'esercito statunitense negli anni Settanta: cinque esercizi di tre-cinque secondi ciascuno, una volta al giorno, dal terzo al sedicesimo giorno di vita del cucciolo. I benefici che gli vengono attribuiti — tolleranza allo stress, cuore più efficiente, maggiore resistenza alle malattie — vengono da quel programma militare e non da studi indipendenti verificati da altri ricercatori. Quello che invece è ben documentato nell'etologia del cane è il periodo sensibile per la socializzazione, fra la terza e la dodicesima settimana, e il peso della qualità delle cure materne. Chi presenta l'ENS come garanzia di equilibrio sta promettendo più di quanto si sappia. Vale per lo Staffordshire Bull Terrier come per qualsiasi altra razza. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
 
@@ -45,6 +47,7 @@ custom_content: |
 
   <p>Qui provo a metterla, perché è una domanda che mi hanno fatto e perché la risposta onesta è più utile di una sigla.</p>
 
+  <!--BLOCCO:2-->
   <h2>Cos'è il Bio Sensor</h2>
 
   <p><strong>Bio Sensor</strong> è il nome di un programma dell'esercito statunitense degli anni Settanta, poi diventato noto come "Super Dog", pensato per migliorare le prestazioni dei cani da lavoro. Nella versione divulgata &mdash; la sigla inglese è <strong>ENS</strong>, Early Neurological Stimulation &mdash; consiste in cinque esercizi da tre a cinque secondi ciascuno, una volta al giorno, <strong>dal terzo al sedicesimo giorno di vita</strong>:</p>
@@ -58,7 +61,9 @@ custom_content: |
   </ol>
 
   <p>I benefici attribuiti al programma sono tolleranza allo stress, cuore più efficiente, ghiandole surrenali più robuste, maggiore resistenza alle malattie.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>Cosa regge e cosa no</h2>
 
   <p>Quei benefici vengono dal programma militare, non da studi pubblicati e verificati da altri ricercatori. È una differenza che conta: significa che la fonte originale non è controllabile.</p>
@@ -70,7 +75,9 @@ custom_content: |
   <p><strong>Questo non vuol dire che l'ENS faccia male o sia una truffa.</strong> Vuol dire che chi lo presenta come una garanzia sta promettendo più di quanto si sappia.</p>
 
   <p>C'è anche un punto pratico che si tende a saltare: <strong>il di più fa danno.</strong> Sono stimoli stressanti applicati a un neonato che non regola ancora la propria temperatura. Allungare i tempi o ripetere gli esercizi più volte al giorno, nella convinzione che "più è meglio", è il modo migliore per ottenere l'effetto contrario.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>Quello che invece è documentato</h2>
 
   <p>Se cerchi il fattore che pesa davvero sul carattere di un cucciolo, non è nei primi sedici giorni: è nelle settimane successive.</p>
@@ -78,7 +85,9 @@ custom_content: |
   <p>Il <strong>periodo sensibile per la socializzazione</strong> &mdash; grosso modo dalla terza alla dodicesima settimana, con il momento centrale fra la quarta e l'ottava &mdash; è una delle cose meglio stabilite dell'etologia del cane. Quello che un cucciolo incontra in quelle settimane entra a far parte del suo mondo normale; quello che non incontra resterà per sempre una novità da valutare.</p>
 
   <p>Conta anche, e molto, la <strong>qualità delle cure materne</strong>: una madre serena, in un ambiente che conosce, cresce cuccioli più stabili. Ed è un motivo in più per guardare la madre quando si visita un allevamento.</p>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>Cosa facciamo noi</h2>
 
   <p>Non applico nessun protocollo a orologeria, e non scrivo "metodo Bio Sensor" nelle presentazioni delle cucciolate. Quello che faccio è meno spettacolare da raccontare, e credo valga di più.</p>
@@ -96,7 +105,9 @@ custom_content: |
   <p>Applicare cinque esercizi identici a otto cuccioli diversi, contando i secondi, vuol dire trattarli come se fossero intercambiabili. Non lo sono, come non lo sono i bambini.</p>
 
   <p>Dal primo mese in avanti comincia la parte che conta di più: il passaggio al box con sfogo esterno, il rientro in casa a turno, e poi le persone, i rumori, gli altri cani. È lì che si costruisce il carattere di un cane adulto, e dopo non si recupera. Come crescono i nostri lo racconta la pagina dei <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli di Staffordshire Bull Terrier</a>.</p>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>In sintesi</h2>
 
   <p>Se un allevatore ti dice che applica l'ENS, non è un difetto: è un dettaglio che vale quanto vale, cioè poco in un senso e poco nell'altro. Se invece te lo presenta come la ragione per cui il suo cucciolo sarà equilibrato, la domanda giusta è un'altra: <strong>dove crescono i cuccioli, chi incontrano nelle prime otto settimane, e in che condizioni è la madre.</strong></p>
@@ -124,6 +135,7 @@ custom_content: |
   <div class="article-footer">
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
   </div>
+  <!--/BLOCCO:6-->
 
   </article>
   </div>

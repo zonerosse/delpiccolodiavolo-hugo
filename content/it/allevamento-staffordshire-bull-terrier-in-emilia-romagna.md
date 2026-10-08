@@ -9,6 +9,7 @@ description: "Allevamento di Staffordshire Bull Terrier a Ostellato (Ferrara), i
 slug: "allevamento-staffordshire-bull-terrier-in-emilia-romagna"
 fonti_motivo: "Questa è la pagina dei contatti dell'allevamento Del Piccolo Diavolo: indirizzo, modalità di visita e distanze sono dati dell'allevamento, e non ci sono fonti esterne da citare."
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -26,6 +27,7 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:1-->
 
   <div class="features-bar">
   <div class="features-track">
@@ -34,6 +36,7 @@ custom_content: |
   </div>
   </div>
 
+  <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">L'Allevamento</span>
@@ -48,7 +51,9 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Contatti</span>
@@ -83,7 +88,9 @@ custom_content: |
   </a>
   </div>
   </section>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">L'Allevamento</span>
@@ -109,7 +116,9 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Zone Servite</span>
@@ -167,6 +176,7 @@ custom_content: |
   <p style="text-align:center;color:#4a3f35;margin-top:1.5rem;font-size:.9rem">Molti appassionati da Milano, Firenze e Venezia ci raggiungono comodamente in giornata.</p>
   </div>
   </section>
+  <!--/BLOCCO:5-->
 
   <section class="section">
   <div class="section-inner">
@@ -182,6 +192,7 @@ custom_content: |
   </div>
   </section>
 
+  <!--BLOCCO:6-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Domande Frequenti</span>
@@ -215,6 +226,7 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:6-->
 
   <section class="section">
   <div class="section-inner content-single">
@@ -222,9 +234,11 @@ custom_content: |
   </div>
   </section>
 
+  <!--BLOCCO:7-->
   <section class="dark-section">
   <h2>Ti Aspettiamo</h2>
   <p>Vieni a conoscere i nostri Staffordshire Bull Terrier e l'ambiente in cui crescono. La visita è il primo passo per una scelta consapevole.</p>
   <a href="/wa/393924635584" class="btn btn-gold" title="Concorda una visita su WhatsApp">Concorda su WhatsApp</a>
   </section>
+  <!--/BLOCCO:7-->
 ---

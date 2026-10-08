@@ -23,6 +23,9 @@ correlati:
     testo: "Englische und irische Linien: was sich im Wesen unterscheidet"
 ---
 
+
+<!--BLOCCO:1-->
+
 <section class="hero">
 <div class="hero-visual">
 <div class="hero-image">
@@ -40,12 +43,18 @@ correlati:
 </div>
 </section>
 
+<!--/BLOCCO:1-->
+
+
 <nav class="breadcrumb" aria-label="Breadcrumb">
 <a href="/de/" title="Startseite">Startseite</a> &rsaquo;
 <a href="/de/blog/" title="Blog">Blog</a> &rsaquo;
 <a aria-label="Standard und Blutlinien &mdash; Blog-Kategorie" href="/de/blog/#standard" title="Artikel über Standard und Blutlinien">Standard und Blutlinien</a> &rsaquo;
 <span>Das Wesen</span>
 </nav>
+
+
+<!--BLOCCO:2-->
 
 <section class="section">
 <div class="section-inner content-single">
@@ -108,8 +117,17 @@ correlati:
 </div>
 </section>
 
+<!--/BLOCCO:2-->
+
+
+
+<!--BLOCCO:3-->
+
 <section class="cta-section">
 <h2>Möchten Sie unsere Staffys persönlich kennenlernen?</h2>
 <p>Der beste Weg, das Wesen einer Linie zu verstehen, ist, die erwachsenen Hunde zu treffen. Schreiben Sie uns für einen Besuchstermin.</p>
 <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20w%C3%BCrde%20gerne%20Ihre%20Hunde%20kennenlernen" class="btn" title="Schreiben Sie uns auf WhatsApp">Schreiben Sie uns auf WhatsApp</a>
 </section>
+
+<!--/BLOCCO:3-->
+

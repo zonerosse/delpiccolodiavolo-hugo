@@ -12,6 +12,7 @@ thumb: "/images/blog/icone/cuccioli-educazione-bisogni.webp"
 description: "Potty training for Staffordshire Bull Terrier puppies: routine, outings, positive reinforcement, accident management and progression indoors and outdoors."
 slug: "puppy-potty-training"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -28,59 +29,75 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>Outing Routine</span><span>Warning Signs</span><span>Positive Reinforcement</span><span>Accident Management</span><span>Potty Pads</span><span>Weekly Progression</span>
   <span>Outing Routine</span><span>Warning Signs</span><span>Positive Reinforcement</span><span>Accident Management</span><span>Potty Pads</span><span>Weekly Progression</span>
   </div>
   </div>
-  
+
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> ›
   <a href="/en/blog/" title="Blog">Blog</a> ›
   <a aria-label="Puppies — blog category" href="/en/blog/#puppies" title="Puppies">Puppies</a> ›
   <span>Potty Training</span>
   </nav>
-  
+
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>House training a Staffordshire Bull Terrier puppy depends on physical development, not intelligence, so it cannot be rushed. A puppy of 8 weeks cannot hold its bladder for more than one or two hours; a useful rule of thumb is about one hour per month of age plus one, and less while the puppy is awake and active. Take it out at the predictable moments, after waking, after eating, after play and before sleep, and reward it outside, straight after it has finished. Never punish accidents: the puppy does not connect your reaction with something it did minutes earlier, it learns that going in front of you is dangerous and starts hiding behind the sofa instead. Clean with an enzymatic cleaner, never with ammonia. Most puppies are reliable by day at four months and dry overnight between four and six. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
-  
-  
+
+
+  <!--BLOCCO:2-->
   <h2>How long it really takes</h2>
   <p>House training is not a matter of intelligence and it cannot be rushed, because it depends on physical development. A puppy of 8 weeks cannot hold its bladder for more than 1 to 2 hours, and full control does not arrive until 4 to 6 months. Most puppies are reliable during the day by 4 months and reliably dry overnight between four and six.</p>
   <p>A useful rule of thumb: a puppy can hold on for roughly 1 hour per month of age, plus one. A three-month-old puppy therefore manages about 4 hours at best, and considerably less when awake and active.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>The five moments that matter</h2>
   <p>Almost all successful house training comes down to being outside at the right times rather than to any technique. Take the puppy out immediately on waking, within 10 minutes of every meal, after every play session, before bed, and every hour or two in between during the day.</p>
   <p>Those five moments account for the large majority of a puppy's needs. An owner who is reliable about them will finish house training weeks earlier than one who waits to see signs.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>What to do outside</h2>
   <p>Choose one spot and always go to it. The residual scent prompts the behaviour, and consistency shortens the process considerably.</p>
   <p>Wait in silence rather than encouraging or playing, because a puppy that is entertained forgets why it came out. When it performs, reward immediately and enthusiastically — within 2 seconds, not once you are back indoors, which teaches the wrong association entirely.</p>
   <p>Add a quiet verbal cue while the puppy is in the act, always the same word. Within a few weeks most puppies will respond to it, which is invaluable in the rain, before a car journey, or in an unfamiliar place.</p>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>Accidents indoors</h2>
   <p>They will happen, and how you respond determines how long training takes. Never punish, never scold, and never use the old practice of rubbing the puppy's nose in it. The puppy does not connect your reaction to something it did 10 minutes ago: it learns that going in front of you is dangerous, and starts hiding behind the sofa instead. That single mistake accounts for most protracted house training.</p>
   <p>The veterinary behaviourists say the same. The <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="AVSAB position statements (opens in a new tab)">American Veterinary Society of Animal Behavior</a> recommends reward-based methods for all training, house training included: arrange the environment so that mistakes are rare and reinforce the behaviour you want, rather than punishing the one you do not.</p>
   <p>If you catch the puppy in the act, interrupt gently with a neutral sound and carry it straight outside, then reward if it finishes there.</p>
   <p>Clean with an enzymatic cleaner, never with ammonia-based products. Ammonia smells like urine to a dog and marks the spot as a toilet.</p>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>Nights</h2>
   <p>Put the crate or bed where you sleep for the first weeks. A puppy that can hear you settles faster, and you hear it when it needs to go out. Remove water an hour before bed but never restrict water during the day.</p>
   <p>Expect one or two outings during the night at 8 to 10 weeks, usually reducing to one by 12 weeks and none by 4 months. Keep night outings boring: no talking, no play, no light if you can manage it. Out, wait, back to bed.</p>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:7-->
   <h2>Puppy pads: the honest verdict</h2>
   <p>They solve a problem for the owner and create one for the puppy. A pad teaches that relieving oneself indoors on a soft absorbent surface is acceptable, and a rug is also a soft absorbent surface. Puppies trained on pads generally take longer to become reliable outdoors, because they must first unlearn the indoor habit.</p>
   <p>They have a place in genuine constraints — a fifth-floor flat with no lift and a shared stairwell, an owner with mobility limits, an eight-week-old puppy on a night when going down is impossible. Used as a convenience, they cost weeks.</p>
+  <!--/BLOCCO:7-->
 
+  <!--BLOCCO:8-->
   <h2>When something is wrong rather than untrained</h2>
   <p>Seek veterinary advice if a puppy that was reliable starts having accidents again, if it strains or cries when urinating, if the urine is very frequent and in small amounts, or if there is blood. Urinary infections are common in young bitches and are frequently mistaken for a training failure.</p>
   <p>Also worth mentioning to your vet: a puppy that leaks small amounts while asleep. That is not a training problem at all.</p>
+  <!--/BLOCCO:8-->
 
+  <!--BLOCCO:9-->
   <h2>The common mistakes</h2>
   <p>Letting the puppy out alone into the garden and assuming it has performed. You have to go with it, because otherwise you cannot reward and you do not know.</p>
   <p>Rewarding once back indoors, which teaches the puppy that coming inside is what pays.</p>
@@ -96,10 +113,10 @@ custom_content: |
   <li><a href="/en/puppy-alone-time/" title="Teaching a puppy to stay alone without stress">Teaching a puppy to stay alone without stress</a></li>
   </ul>
   </div>
-  
+
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
-  
+
   <p class="tags"><strong>Tags:</strong>
   <a aria-label="puppies — blog category" href="/en/blog/#puppies" title="Puppy articles">puppies</a>
   <a aria-label="Staffordshire Bull Terrier guides" href="/en/blog/#puppies" title="Staffy articles">staffordshire bull terrier</a>
@@ -107,7 +124,8 @@ custom_content: |
   <a aria-label="outing routine — blog category" href="/en/blog/#puppies" title="Routine articles">outing routine</a>
   </p>
   </div>
-  
+  <!--/BLOCCO:9-->
+
   </article>
   </div>
 ---

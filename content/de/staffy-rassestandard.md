@@ -11,6 +11,7 @@ thumb: "/images/blog/icone/standard-tipicita-morfologia.webp"
 description: "Der FCI-Standard Nr. 76 des Staffordshire Bull Terrier erklärt: Proportionen, Kopf, Körper, Gangwerk, Farben und wie die Fehler im Ring gewichtet werden."
 slug: "staffy-rassestandard"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -27,60 +28,82 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/de/" title="Home">Home</a> ›
   <a href="/de/blog/" title="Blog">Blog</a> ›
   <span>FCI Rassestandard</span>
   </nav>
-  
+
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>Ein Staffordshire Bull Terrier ist typvoll, wenn Kopf, Proportionen, Brust, Knochen, Muskulatur und Gangwerk untereinander und mit dem Wesen im Gleichgewicht stehen, das der FCI-Standard Nr. 76 beschreibt. Der Standard ist die funktionale Beschreibung eines glatthaarigen, kurz gekoppelten Terriers von großer Kraft für seine Größe, wendig genug, um sich auf der Stelle zu drehen, und gesund genug, um den ganzen Tag zu arbeiten. Der Kopf ist kurz, mit tiefem, breitem Schädel, deutlichem Stop, kurzem Fang, kräftigen Kiefern und Scherengebiss; die Augen sind rund und bevorzugt dunkel, die Ohren Rosen- oder halbstehende Ohren. Das Gangwerk ist frei, kraftvoll und flink, mit erkennbarem Schub aus der Hinterhand. Typ heißt nicht, einen einzelnen Punkt zu übertreiben: Ein überzogener Kopf oder ein zu kurzer Fang kosten <a href="/de/boas-staffordshire-bull-terrier-atmung/" title="BOAS und Atmung beim Staffordshire Bull Terrier">Atmung und Hitzetoleranz</a>, und der Richter bewertet den ganzen Hund. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
-  
-  
+
+
+  <!--BLOCCO:2-->
   <h2>Wozu der Standard da ist</h2>
   <p><a href="https://www.enci.it/media/2347/076.pdf" title="FCI-Standard Nr. 76 für den Staffordshire Bull Terrier, offizielles ENCI-PDF" target="_blank" rel="noopener" aria-label="FCI-Standard Nr. 76 für den Staffordshire Bull Terrier, offizielles ENCI-PDF (wird in einem neuen Tab geöffnet)">Der Rassestandard</a> ist keine Schönheitscheckliste. Er ist die funktionale Beschreibung eines Hundes, der für eine bestimmte Aufgabe gebaut wurde: ein kurzhaariger, kurz gekoppelter Terrier von großer Kraft im Verhältnis zu seiner Größe, wendig genug, um auf der Stelle zu drehen, und gesund genug, um den ganzen Tag zu arbeiten. Jede Formulierung existiert, weil sie etwas beschreibt, das der Hund brauchte, um zu funktionieren.</p>
   <p>Das ist bei der Welpenwahl entscheidend, denn es erlaubt die Unterscheidung zwischen einem typvollen und einem bloß übertriebenen Hund. Beides wird häufig verwechselt, und die Verwechslung zeigt ihre Folgen erst Jahre später: ein Hund, der im August nicht atmen oder nicht ohne Wackeln traben kann.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>Erscheinungsbild und Proportionen</h2>
   <p>Der Staffordshire Bull Terrier soll kurzhaarig, gut ausbalanciert, von großer Kraft für seine Größe sowie aktiv und wendig sein. Die erwünschte Widerristhöhe liegt zwischen 35,5 und 40,5 Zentimetern, im Verhältnis zum Gewicht: Rüden wiegen zwischen 12,7 und 17 Kilogramm, Hündinnen zwischen 11 und 15,4.</p>
   <p>Die wichtigste Proportion wird oft übersehen: der Hund soll geringfügig länger als hoch sein, kurz gekoppelt, mit gerader oberer Linie. Ein quadratischer oder hochläufiger Hund verliert die charakteristische Silhouette; ein langer, niedriger Hund hat die geforderte Wendigkeit eingebüßt. Das Gleichgewicht zwischen Substanz und Beweglichkeit ist der eigentliche Punkt.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>Kopf und Ausdruck</h2>
   <p>Der Kopf ist das auffälligste Merkmal der Rasse und leider dasjenige, das der Mode am stärksten unterliegt. Der Standard verlangt einen kurzen, tiefen Schädel, einen breiten Kopf, sehr ausgeprägte Wangenmuskulatur, einen deutlichen Stopp und einen <strong>kurzen Vorgesichtsschädel</strong>. Das Wort kurz leistet hier wichtige Arbeit, und ebenso das Fehlen jedes Wortes, das nicht vorhanden bedeutet.</p>
   <p>Ein korrekter Staffordshire Bull Terrier hat einen im Verhältnis zum Schädel kurzen, aber deutlich vorhandenen Fang, mit gut entwickelten Nasenlöchern und ausreichend Länge für ein vollständiges, korrekt gestelltes Gebiss. Die Tendenz mancher Ausstellungslinien zu immer kürzeren, immer breiteren Fängen erzeugt Köpfe, die auf Fotos beeindrucken, und Hunde, die im Schatten hecheln. Das beschreibt der Standard nicht, und die Folgen erklärt der Ratgeber zur <a href="/de/boas-staffordshire-bull-terrier-atmung/" title="BOAS und Atmung beim Staffordshire Bull Terrier">Atmung des Staffy</a>.</p>
   <p>Die Augen sind vorzugsweise dunkel, rund, mittelgroß und geradeaus blickend. Die Ohren sind Rosen- oder Halbstehohren; vollständig hängende oder vollständig stehende Ohren sind Fehler. Das Gebiss muss ein Scherengebiss sein, mit vollständigem Zahnbestand. Vor- und Rückbiss sind schwere Fehler.</p>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>Körper, Vorhand und Hinterhand</h2>
   <p>Der Körper ist kurz gekoppelt mit gerader Rückenlinie, breiter Front, tiefer Brust und gut gewölbten Rippen. Die Brust vermittelt Kapazität, ohne tonnenförmig zu werden, und die Unterlinie zeigt eine mäßige Aufziehung.</p>
   <p>Die Vorderläufe sind gerade und gut beknocht, weit auseinander gestellt, die Pfoten nur leicht nach außen gedreht. Gebogene oder deutlich nach außen gedrehte Läufe sind Fehler und keine Rassemerkmale — ein verbreiteter Irrtum. Die Hinterhand ist gut bemuskelt mit gut gewinkelten Knien und tief angesetzten Sprunggelenken, und genau hier sind viele sonst gute Hunde am schwächsten, weil hintere Winkelung leicht verloren geht und schwer zurückzugewinnen ist.</p>
   <p>Die Rute ist mittellang, tief angesetzt, sich verjüngend, eher tief getragen und niemals über dem Rücken eingerollt.</p>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>Bewegung: hier zeigt sich die Wahrheit</h2>
   <p>Ein stehender Hund kann vieles verbergen, ein bewegter Hund nichts. Der Standard verlangt freie, kraftvolle und wendige Bewegung mit sparsamem Krafteinsatz, mit kraftvollem Schub aus der Hinterhand und deutlich paralleler Bewegung von vorn wie von hinten betrachtet.</p>
   <p>Achten Sie auf einen Hund, der wackelt, mit den Vorderpfoten rudert oder hinten eng geht. Achten Sie vor allem darauf, wie der Hund nach einigen Minuten Trab atmet. Ein Hund, der nach zwei Ringrunden geräuschvoll atmet, hat ein Problem, das der Standard nie vorgesehen hat, und keine noch so korrekte Silhouette gleicht das aus.</p>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:7-->
   <h2>Farben</h2>
   <p>Zugelassen sind Rot, Falb, Weiß, Schwarz oder Blau, jeweils auch mit Weiß, sowie jede Schattierung von Gestromt und Gestromt mit Weiß. Schwarz-Loh und Leberfarben gelten als höchst unerwünscht, und keinen Platz hat Merle, manchmal als „Blue Merle“ verkauft, das es in dieser Rasse überhaupt nicht gibt.</p>
   <p>Die Farbe sollte die Wahl zuletzt beeinflussen und ist die erste Frage der meisten Familien. Ein Züchter, der Welpen nach Fellfarbe bepreist, sagt Ihnen damit, wo seine Prioritäten liegen. Welche Farben der Standard zulässt und welche nicht, erklärt der Ratgeber zu den <a href="/de/staffordshire-bull-terrier-farben/" title="Farben des Staffordshire Bull Terrier">Farben des Staffordshire Bull Terrier</a>.</p>
+  <!--/BLOCCO:7-->
 
+  <!--BLOCCO:8-->
   <h2>Fehler und ihre Gewichtung</h2>
   <p>Der Standard hält fest, dass jede Abweichung als Fehler zu betrachten ist und dass die Schwere des Fehlers in genauem Verhältnis zu seinem Ausmaß und seiner Auswirkung auf Gesundheit und Wohlbefinden des Hundes stehen soll. Dieser letzte Satz ist der wichtigste des gesamten Dokuments — und der am häufigsten übergangene.</p>
   <p>So gelesen ist ein etwas helles Auge eine kosmetische Frage. Ein so kurzer Fang, dass der Hund überhitzt, ein so starker Vorbiss, dass Zähne nicht aufeinandertreffen, oder eine so breite Front, dass die Ellenbogen den Brustkorb nicht freibekommen, sind Wohlbefindensfehler. Ein Richter, und ein Züchter, sollten sie nicht gleichsetzen.</p>
+  <!--/BLOCCO:8-->
 
+  <!--BLOCCO:9-->
   <h2>Was das bei der Betrachtung eines Wurfes bedeutet</h2>
   <p>Mit 8 Wochen beurteilen Sie kein Ausstellungspotenzial, und wer Ihnen einen Champion garantiert, rät. Beurteilen können Sie die Eltern: Proportionen, Gebiss, Bewegung und vor allem die Atmung nach Belastung. Bitten Sie darum, beide Elterntiere in Bewegung zu sehen, nicht nur im Stand — und wenn möglich an einem warmen Tag.</p>
   <p>Ein Welpe aus zwei typvollen, gesunden Eltern, die sich in ihrem eigenen Körper wohlfühlen, wird mit weit größerer Wahrscheinlichkeit ebenso. Genau das will der Standard schützen. Wie man sich bei der Wahl zwischen den Linien zurechtfindet, erklärt der Ratgeber <a href="/de/blutlinien-waehlen/" title="Staffy Blutlinien wählen">Blutlinien wählen</a>.</p>
+  <!--/BLOCCO:9-->
 
+  <!--BLOCCO:10-->
   <h2>Häufige Fehler bei der Beurteilung des Typs</h2>
   <p>Fünf Fehler wiederholen sich. Ein <strong>übertriebener Kopf</strong>, auf Kosten von allem anderen verfolgt, der Hals, Schultern und Gangwerk beeinträchtigt. Eine <strong>zu breite Brust</strong>, eine Front, die so breit ist, dass sie die Vorhand behindert. <strong>Aufgepumpte, nicht funktionale Muskeln</strong>, künstlich aufgebaut statt vererbt. <strong>Das Gewicht als einziges Maß</strong>, wobei das Höchstgewicht als Ziel gilt und Proportionen und Größe übersehen werden. Und <strong>das Wesen außer Acht lassen</strong>, also nur den Körperbau beurteilen und die Wesensfestigkeit übergehen, die der Standard in seinen ersten Zeilen nennt.</p>
+  <!--/BLOCCO:10-->
 
+  <!--BLOCCO:11-->
   <h2>Wie man einen Stafford im Ring liest</h2>
   <p>Schauen Sie in dieser Reihenfolge. Zuerst der <strong>Gesamteindruck</strong>: Typ auf den ersten Blick, Ausgewogenheit, Ausstrahlung. Dann das <strong>Profil im Stand</strong>: Linien, Proportionen, Aufbau. Dann die <strong>genaue Untersuchung</strong>: Kopf, Gebiss, Körper, Gliedmaßen, Pfoten. Dann das <strong>Gangwerk</strong>, im Trab von allen Seiten, wo sich die Funktion zeigt. Und zuletzt das <strong>Wesen</strong>: wie der Hund das Anfassen annimmt, seine Sicherheit, seine Reaktion auf das, was um ihn herum geschieht.</p>
+  <!--/BLOCCO:11-->
 
+  <!--BLOCCO:12-->
   <h2>Häufige Fragen zum Standard</h2>
 
   <div class="faq-list">
@@ -132,11 +155,12 @@ custom_content: |
   <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Seriöse Staffordshire Bull Terrier Zucht erkennen">Seriöse Staffordshire Bull Terrier Zucht erkennen</a></li>
   </ul>
   </div>
-  
+
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>
-  
+  <!--/BLOCCO:12-->
+
   </article>
   </div>
 ---

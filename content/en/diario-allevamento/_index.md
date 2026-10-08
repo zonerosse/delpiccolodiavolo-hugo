@@ -16,6 +16,9 @@ This is where we record what actually happens at the kennel, litter by litter: w
 
 It is not a listings page. It is how we show the way we work to people who are considering a puppy and do not know us yet.
 
+
+<!--BLOCCO:1-->
+
 ## What every entry contains
 
 Each litter has its own page, and each one always carries the same things:
@@ -28,6 +31,12 @@ Each litter has its own page, and each one always carries the same things:
 
 The certificates of our own breeding dogs can be downloaded at the foot of each entry. For outside stud dogs we publish the document when the owner agrees; otherwise we report the details, which anyone can still verify.
 
+<!--/BLOCCO:1-->
+
+
+
+<!--BLOCCO:2-->
+
 ## Old litters stay here too
 
 Pages do not disappear once the puppies are home. They stay, with their dates, and that is deliberate: it is how anyone can count how many litters we actually have in a year. One, occasionally two, sometimes none at all.
@@ -37,3 +46,6 @@ Litters before 2026 — May 2025 and February 2025 — are covered in our <a hre
 If you are not yet sure what to look for in a kennel, our <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious breeder">guide to recognising a serious one</a> sets out eight criteria and how to check each — on us as much as on anyone else.
 
 <p class="fonti">Sources: The diary records facts from the Del Piccolo Diavolo kennel, which is why it cites no external sources: the independent check is the ENCI stud book, where the number of litters of each bitch can be verified from her microchip.</p>
+
+<!--/BLOCCO:2-->
+

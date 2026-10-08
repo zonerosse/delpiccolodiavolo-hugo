@@ -130,6 +130,13 @@ enableRobotsTXT = true
     isHTML = false
     notAlternative = true
 
+  [outputFormats.PAGINE]
+    mediaType = "application/json"
+    baseName = "pagine-indice"
+    isPlainText = true
+    isHTML = false
+    notAlternative = true
+
   [outputFormats.LLMSFULL]
     mediaType = "text/plain"
     baseName = "llms-full"
@@ -138,7 +145,7 @@ enableRobotsTXT = true
     rel = "alternate"
 
 [outputs]
-  home = ["HTML", "sitemap", "MARKDOWN", "LLMSTXT", "LLMSFULL", "HEADERS"]
+  home = ["HTML", "sitemap", "MARKDOWN", "LLMSTXT", "LLMSFULL", "HEADERS", "PAGINE"]
   page = ["HTML", "MARKDOWN"]
 
 # Feed RSS del programma di allevamento: una voce per ogni scheda cucciolata

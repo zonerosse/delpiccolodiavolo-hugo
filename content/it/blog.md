@@ -9,6 +9,7 @@ description: "Articoli sullo Staffordshire Bull Terrier scritti dall'allevamento
 slug: "blog"
 fonti_motivo: "Questa pagina è l'indice delle guide dell'allevamento Del Piccolo Diavolo: le fonti esterne sono citate dentro ciascuna guida, accanto al dato che sostengono."
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -21,6 +22,7 @@ custom_content: |
   <p class="hero-subtitle">Articoli su cuccioli, salute, standard e convivenza</p>
   </div>
   </section>
+  <!--/BLOCCO:1-->
 
   <div class="features-bar">
   <div class="features-track">
@@ -32,8 +34,11 @@ custom_content: |
   <!-- RAZZA E LEGISLAZIONE -->
     <p>Questo blog raccoglie le guide che scriviamo sullo Staffordshire Bull Terrier, divise per argomento: razza e legislazione, cuccioli, standard e linee di sangue, salute, famiglia e convivenza. Non sono articoli scritti per riempire il sito: nascono dalle domande che ci fanno davvero, e dove serve dicono anche le cose scomode &mdash; che i test hanno dei limiti, che la reattivit&agrave; verso altri cani esiste, che un metodo diffuso non ha le prove che promette. Dove citiamo un dato, indichiamo la fonte: ENCI, Kennel Club britannico, linee guida veterinarie o studi pubblicati. <strong>Le guide pi&ugrave; lette</strong> sono quelle su come riconoscere un allevamento serio, sui test genetici L2-HGA e HC e su come si legge un pedigree.</p>
 
+  <!--BLOCCO:2-->
   <!--RECENTI-->
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <section class="section" id="legislazione">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
@@ -52,8 +57,10 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:3-->
 
   <!-- CUCCIOLI -->
+  <!--BLOCCO:4-->
   <section class="section" id="cuccioli" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
@@ -202,8 +209,10 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:4-->
 
   <!-- STANDARD E LINEE DI SANGUE -->
+  <!--BLOCCO:5-->
   <section class="section" id="standard">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
@@ -292,8 +301,10 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:5-->
 
   <!-- SALUTE E BENESSERE -->
+  <!--BLOCCO:6-->
   <section class="section" id="salute" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
@@ -352,8 +363,10 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:6-->
 
   <!-- FAMIGLIA E CONVIVENZA -->
+  <!--BLOCCO:7-->
   <section class="section" id="famiglia">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
@@ -432,6 +445,7 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:7-->
 
   <section class="section">
   <div class="section-inner content-single">
@@ -439,9 +453,11 @@ custom_content: |
   </div>
   </section>
 
+  <!--BLOCCO:8-->
   <section class="dark-section">
   <h2>Hai Domande?</h2>
   <p>Se hai dubbi su un argomento o vuoi suggerire un tema per il blog, contattaci.</p>
   <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20ho%20una%20domanda%20sul%20blog" class="btn btn-light" title="Scrivici su WhatsApp per domande sul blog">Scrivici su WhatsApp</a>
   </section>
+  <!--/BLOCCO:8-->
 ---

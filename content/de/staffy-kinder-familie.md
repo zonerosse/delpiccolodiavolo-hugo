@@ -11,6 +11,7 @@ thumb: "/images/blog/icone/famiglia-bambini-convivenza.webp"
 description: "Staffy und Kinder: warum er Nanny Dog genannt wird und was das nicht bedeutet, die Regel der Aufsicht, Warnsignale und wie man Hund und Kinder richtig einführt."
 slug: "staffy-kinder-familie"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -27,30 +28,36 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/de/" title="Home">Home</a> ›
   <a href="/de/blog/" title="Blog">Blog</a> ›
   <span>Staffy mit Kindern</span>
   </nav>
-  
+
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>Kein Hund irgendeiner Rasse darf mit einem kleinen Kind allein bleiben, und der Staffordshire Bull Terrier ist keine Ausnahme. Sein Beiname Nanny Dog beschreibt eine echte Toleranz, keine Fähigkeit zur Aufsicht. Diese Toleranz kommt aus der Art, wie die Rasse selektiert wurde: im ständigen engen Umgang mit Menschen, wobei jeder Hund, der Aggression gegen eine Person zeigte, aus der Zucht genommen wurde. Ein gut gezüchteter, gut sozialisierter Staffy sucht die Nähe von Menschen, verträgt Anfassen und Lärm bemerkenswert gut und begegnet der Ungeschicklichkeit eines Kindes meist mit Geduld. Das Wesen ist trotzdem von Hund zu Hund verschieden, und die frühe Sozialisierung zählt so viel wie die Genetik. Praktisch hängt die Sicherheit von den Erwachsenen ab: begleitete Begegnungen, Regeln je nach Alter des Kindes, ein Rückzugsort für den Hund und das Erkennen von Stresssignalen, bevor daraus ein Knurren wird. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
-  
-  
+
+
+  <!--BLOCCO:2-->
   <h2>Woher der Ruf kommt</h2>
   <p>Der Staffordshire Bull Terrier ist eine der wenigen Rassen, deren Standard beim Kennel Club ausdrücklich von vollkommener Zuverlässigkeit spricht, und die einzige, die verbreitet den inoffiziellen Namen Kindermädchen-Hund trägt. Dieser Ruf ist kein Marketing: er stammt aus der Art der Selektion, in ständigem engen Umgang, bei der jeder Hund mit Aggression gegen Menschen ohne Diskussion aus der Zucht genommen wurde.</p>
   <p>Das Ergebnis ist ein Hund, der die Nähe von Menschen aktiv sucht, Anfassen und Lärm bemerkenswert gut verträgt und auf die Ungeschicklichkeit eines Kindes typischerweise mit Geduld statt mit Ausweichen reagiert.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>Die ehrliche Einschränkung</h2>
   <p>Wir verwenden den Ausdruck Kindermädchen-Hund mit Vorsicht: Er beschreibt Toleranz, nicht die Fähigkeit, auf ein Kind aufzupassen. Kein Hund welcher Rasse auch immer sollte unbeaufsichtigt mit einem kleinen Kind bleiben. Nicht weil die Rasse unzuverlässig wäre, sondern weil Kinder unberechenbar sind, Hunde auf eine Weise kommunizieren, die Kinder nicht lesen können, und die häufigste Ursache eines Vorfalls zu Hause ein Hund ist, der deutlich gewarnt hat, ohne dass es jemand bemerkte.</p>
   <p>Hinzu kommt eine körperliche Besonderheit dieser Rasse. Ein Staffordshire Bull Terrier ist niedrig, dicht und für seine Größe außergewöhnlich kräftig. Selbst ein völlig freundlicher Hund kann in einem Moment der Begeisterung ein dreijähriges Kind umwerfen. Das ist keine Aggression, aber der blaue Fleck ist derselbe.</p>
 
   <p>Die Daten zeigen, dass diese Regel nicht übertrieben ist. Bei kleinen Kindern geschehen die meisten Bisse zu Hause, oft ins Gesicht, an Kopf oder Hals, und gebissen wird von einem Hund, den das Kind kennt; meist geht dem Biss eine Interaktion voraus, die das Kind begonnen hat, wie <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5582199/" target="_blank" rel="noopener" aria-label="Arhant und Kollegen, Frontiers in Veterinary Science 2017 (wird in einem neuen Tab geöffnet)">eine Studie von 2017 in Frontiers in Veterinary Science</a> zusammenfasst. Das Programm <a href="https://bluedog.blogs.lincoln.ac.uk/professionals/dog-bite-data/" target="_blank" rel="noopener" aria-label="Blue Dog, Universität Lincoln (wird in einem neuen Tab geöffnet)">Blue Dog der Universität Lincoln</a> schätzt, dass etwa drei von vier Bissen bei Kindern im eigenen Zuhause und durch einen vertrauten Hund geschehen. Es ist keine Frage der Rasse, sondern der Aufsicht.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>Alter für Alter</h2>
   <p>Die Regeln ändern sich mit dem Alter des Kindes, und die heikelste Phase ist nicht das Säuglingsalter:</p>
 
@@ -65,34 +72,50 @@ custom_content: |
   <tr><td><strong>Ab 12 Jahren</strong></td><td>Fütterung, Bürsten, Spiel und Grundgehorsam als tägliche Aufgaben. Allein Gassi gehen nicht vor 14</td><td>Bleibt im Haus präsent. Mit 14 erlaubt er Spaziergänge allein nur, wenn der Jugendliche die Kraft hat, den Hund zu halten, und das Urteil, Begegnungen mit anderen Hunden zu vermeiden; ein Hund, der auf Artgenossen reagiert, wird nicht einmal mit sechzehn überlassen</td></tr>
   </tbody>
   </table>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>Nicht nur den Hund erziehen, sondern auch das Kind</h2>
   <p>Die meisten Vorfälle im Haushalt werden durch die Erziehung des Kindes verhindert. Zeigen Sie ihm, wie man sich nähert: seitlich, ruhig, und den letzten Schritt dem Hund überlassen. Zeigen Sie ihm, wie ein Hund aussieht, der in Ruhe gelassen werden will: abgewandter Kopf, Lecken über die Nase, Wechsel in einen anderen Raum. Und geben Sie ihm eine Regel, die immer gilt: wenn der Hund geht, ist Schluss, nicht hinterhergehen.</p>
   <p>Geben Sie dem Hund einen Platz, eine Box oder ein Bett in einer ruhigen Ecke, der wirklich unantastbar ist. Ein Hund mit verlässlichem Rückzugsort muss selten eskalieren, weil Weggehen funktioniert.</p>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>Warnzeichen, die man ernst nehmen muss</h2>
   <p>Ein Hund, der über Futter oder Spielzeug erstarrt, wenn ein Kind näher kommt. Ein Hund, der den Raum verlässt, sobald die Kinder hereinkommen. Ein Hund, der zu knurren begonnen hat — oder schlimmer, der nach einer Zurechtweisung aufgehört hat zu knurren. Steifheit, harter Blick, sichtbares Weiß im Auge, plötzlich geschlossenes Maul.</p>
   <p>Nichts davon bedeutet, dass Sie einen gefährlichen Hund haben. Es bedeutet, dass die Situation jetzt angepasst werden muss, mit fachlicher Hilfe, und nicht nach einem Vorfall. Ein Knurren ist eine Information, und wer es bestraft, entfernt die Warnung, nicht das Gefühl.</p>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:7-->
   <h2>Was Familien wirklich gewinnen</h2>
   <p>Alle Vorsicht beiseite: dies ist eine der besten Familienrassen überhaupt. Die Hunde sind robust genug für einen lebhaften Haushalt, klein genug für eine Wohnung, anhänglich bis zur Komik, und sie binden sich häufig gerade an die Kinder statt an einen einzelnen Erwachsenen.</p>
   <p>Kinder, die mit einem Hund aufwachsen, lernen Verlässlichkeit, <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Italienische Verordnung vom 6. August 2013 zum Schutz der öffentlichen Sicherheit" target="_blank" rel="noopener" aria-label="Italienische Verordnung vom 6. August 2013 zum Schutz der öffentlichen Sicherheit (wird in einem neuen Tab geöffnet)">Verantwort</a>ung und eine Form von Einfühlung, die sich schwer anders vermitteln lässt. Nach über einem Jahrzehnt Welpenvermittlung wissen wir: die Familien, bei denen es am besten läuft, sind nicht die mit dem größten Garten, sondern die, die den Hund im Haus wollten, mitten im Geschehen — genau dort, wo diese Rasse sein will.</p>
+  <!--/BLOCCO:7-->
 
+  <!--BLOCCO:8-->
   <h2>Den Hund lesen, bevor es eskaliert</h2>
   <p>Ein Hund zeigt Unbehagen lange bevor er beißt. Die frühen Zeichen verlangen, sofort einzugreifen: Lecken über Lefzen oder Nase außerhalb der Mahlzeiten, Gähnen ohne Müdigkeit, Wegschauen oder Kopfabwenden, nach hinten gelegte Ohren, tief getragene oder eingeklemmte Rute, ein steifer oder erstarrter Körper, aufgestellte Nackenhaare, eine gehobene Pfote im halben Erstarren und wiederholtes Weggehen vom Kind.</p>
   <p>Die Zeichen der Eskalation bedeuten, Kind und Hund sofort zu trennen: Knurren, hochgezogene Lefzen, die die Zähne zeigen, Schnappen in die Luft, starrer Blick bei steifem Körper und völlige Reglosigkeit unmittelbar vor dem Handeln. <strong>Bestrafen Sie nie ein Knurren</strong>: Es ist die Warnung, die Ihnen das Eingreifen erlaubt, und ein Hund, der fürs Knurren bestraft wird, lernt, es auszulassen.</p>
   <p>Eine praktische Regel: drei frühe Zeichen hintereinander bedeuten, dass die Begegnung vorbei ist. Trennen Sie beide, lassen Sie den Hund fünfzehn bis zwanzig Minuten an einem ruhigen Ort herunterkommen, finden Sie heraus, was den Stress ausgelöst hat, und versuchen Sie es später mit einer Änderung erneut.</p>
+  <!--/BLOCCO:8-->
 
+  <!--BLOCCO:9-->
   <h2>Die erste Begegnung zwischen Welpe und Kindern</h2>
   <p>Bereiten Sie alles vor, bevor der Welpe kommt: erklären Sie den Kindern die Regeln vorher, wählen Sie einen ruhigen Moment ohne Gäste und mit ausgeschaltetem Fernseher, halten Sie den Rückzugsort des Welpen und Leckerli bereit, und lassen Sie den Welpen vorher etwas Energie loswerden.</p>
   <p>Die Kinder sitzen still auf dem Boden, die Hände im Schoß. Ein Erwachsener bringt den Welpen an lockerer Leine herein und lässt ihn in seinem Tempo näherkommen. Schnüffelt er, kann ein Kind ihm die geschlossene Hand zum Beriechen hinhalten; ist der Welpe entspannt, genügt ein kurzes Streicheln an der Brust, drei Sekunden. Dann bleiben alle still, während der Welpe von selbst weggeht. Wiederholen Sie die Annäherung höchstens dreimal und beenden Sie die Einheit: insgesamt zehn bis fünfzehn Minuten beim ersten Treffen, mit einem guten Abschluss für den Welpen und Lob für die Kinder.</p>
+  <!--/BLOCCO:9-->
 
+  <!--BLOCCO:10-->
   <h2>Sichere Spiele nach Alter</h2>
   <p>Zwischen drei und fünf Jahren Spiele ohne direkten Kontakt: das Kind wirft Leckerli auf den Boden, die der Hund sucht, versteckt Futter für eine Nasensuche oder liest laut vor, während der Hund neben ihm liegt, nicht auf ihm. Zwischen sechs und neun beaufsichtigte aktive Spiele: einen weichen Ball apportieren, nachdem ein Erwachsener das Auslassen trainiert hat, ein einfacher Parcours im Garten, einen Trick unter Anleitung eines Erwachsenen beibringen, sanftes Bürsten an unempfindlichen Stellen. Ab zehn mehr Selbstständigkeit, mit einem Erwachsenen in der Nähe: Training unter leichter Aufsicht, ein erster Einstieg in Rally Obedience, Zerrspiele mit klarer Auslassregel. Unter sechs Jahren dauern aktive Begegnungen etwa fünf Minuten, dann folgt eine Pause: kurz und gut ist besser als lang und angespannt.</p>
+  <!--/BLOCCO:10-->
 
+  <!--BLOCCO:11-->
   <h2>Wann man einen Verhaltensexperten ruft</h2>
   <p>Manche Situationen brauchen sofort fachliche Hilfe, nicht Ratschläge aus dem Internet: ein Hund, der ein Kind gebissen hat, wie leicht auch immer; wiederholtes Knurren oder Schnappen gegenüber Kindern; Abwehrverhalten, das sich steigert; deutliche Angst vor Kindern, mit Meiden, Zittern oder Fluchtversuchen; zwanghafte Verhaltensweisen im Zusammenhang mit Stress; und eine plötzliche Wesensänderung, wenn ein toleranter Hund reaktiv wird. Ein tierärztlicher Verhaltensmediziner schließt zuerst eine körperliche Ursache aus, denn hinter vielen plötzlichen Veränderungen stecken Schmerzen, erstellt dann einen strukturierten Verhaltensplan, manchmal mit Medikamenten, und beurteilt, ob das Zusammenleben sicher gestaltet werden kann.</p>
+  <!--/BLOCCO:11-->
 
+  <!--BLOCCO:12-->
   <h2>Verbotene Handlungen: ausdrucken und aufhängen</h2>
   <div class="alert">
   <p class="alert-title">🚫 Die vollständige Liste</p>
@@ -112,7 +135,9 @@ custom_content: |
   </ul>
   <p><strong>Wenn eine Regel gebrochen wird:</strong> für den Rest des Tages kein Kontakt zwischen Hund und Kind, eine ruhige Erklärung, warum es gefährlich war, und am nächsten Tag ein neuer Versuch.</p>
   </div>
+  <!--/BLOCCO:12-->
 
+  <!--BLOCCO:13-->
   <h2>Die Checkliste für ein sicheres Zusammenleben</h2>
   <div class="checklist">
   <p class="checklist-title">In der Familie zu prüfen</p>
@@ -135,7 +160,9 @@ custom_content: |
   <p class="callout-title">💡 Begleitung nach der Abgabe, ohne Ablaufdatum</p>
   <p>Eine Familie, die einen Welpen von uns nimmt, bleibt nach der Übergabe nicht allein. Das ganze Hundeleben lang sind wir für Rat zum Zusammenleben mit Kindern, zur Erziehung und zum Alltag erreichbar, auch nach Jahren. Und wenn sich die Umstände eines Tages ändern und der Hund nicht bleiben kann, kommt er hierher zurück.</p>
   </div>
+  <!--/BLOCCO:13-->
 
+  <!--BLOCCO:14-->
   <h2>Häufige Fragen</h2>
 
   <div class="faq-list">
@@ -223,11 +250,12 @@ custom_content: |
   <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Zucht wählen">Tipps, bevor ein Welpe einzieht</a></li>
   </ul>
   </div>
-  
+
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>
-  
+  <!--/BLOCCO:14-->
+
   </article>
   </div>
 ---

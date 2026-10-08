@@ -17,6 +17,7 @@ entita:
   - nome: "TRACES"
     sameAs: ["https://food.ec.europa.eu/animals/traces_en"]
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -39,8 +40,10 @@ custom_content: |
   <p class="hero-trust">Dal 2013 &middot; Pedigree ENCI &middot; Italiano, English, Deutsch</p>
   </div>
   </section>
+  <!--/BLOCCO:1-->
 
   <div class="features-bar"><div class="features-track"><span>Antirabbica da 12 settimane</span><span>Passaporto europeo</span><span>Certificato TRACES</span><span>Export pedigree ENCI</span><span>Partenza a 4 mesi</span><span>Antirabbica da 12 settimane</span><span>Passaporto europeo</span><span>Certificato TRACES</span><span>Export pedigree ENCI</span><span>Partenza a 4 mesi</span></div></div>
+  <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner content-single">
 
@@ -106,7 +109,9 @@ custom_content: |
 
   </div>
   </section>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <section class="section section-alt">
   <div class="section-inner content-single">
   <h2 class="section-title">Parlarne prima</h2>
@@ -114,10 +119,13 @@ custom_content: |
   <p>Per le cucciolate in programma: <a href="/cuccioli-staffordshire-bull-terrier/">cuccioli Staffordshire Bull Terrier</a>.</p>
   </div>
   </section>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <section class="cta-section">
   <h2>Domande sull'affido all'estero?</h2>
   <p>Scrivimi su WhatsApp e ne parliamo con calma.</p>
   <a class="btn btn-light" href="/wa/393924635584" target="_blank" rel="noopener" aria-label="Scrivimi su WhatsApp (si apre in una nuova scheda)">Scrivimi su WhatsApp</a>
   </section>
+  <!--/BLOCCO:4-->
 ---

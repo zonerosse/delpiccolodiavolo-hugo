@@ -11,6 +11,7 @@ thumb: "/images/blog/icone/salute-parassiti-prevenzione.webp"
 description: "Parasitenvorbeugung beim Staffordshire Bull Terrier: Flöhe, Zecken, Darmwürmer, Herzwurm und Leishmaniose, mit einem praktischen Jahresplan für Italien."
 slug: "staffy-parasitenvorbeugung"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -27,29 +28,35 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/de/" title="Home">Home</a> ›
   <a href="/de/blog/" title="Blog">Blog</a> ›
   <span>Parasitenvorbeugung</span>
   </nav>
-  
+
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>Parasitenvorbeugung beim Staffordshire Bull Terrier ist planbar und fast vollständig wirksam, solange der Kalender eingehalten wird. Der Floh, den man am Hund sieht, ist nur etwa 5 Prozent eines Befalls; der Rest lebt als Eier, Larven und Puppen in der Wohnung. Das kurze Fell der Rasse macht Flöhe und Zecken leicht erkennbar, doch ihre Haut neigt zu Allergien, deshalb ist die Flohspeichelallergie häufig. Zecken übertragen Babesiose, Ehrlichiose, Anaplasmose und Borreliose; Sandmücken und Stechmücken übertragen Leishmaniose und Herzwurm. Welpen bekommen Spulwürmer schon von der Mutter und werden ab der zweiten Lebenswoche alle zwei Wochen bis zur zwölften Woche entwurmt, dann monatlich bis zum sechsten Monat. Erwachsene Hunde werden alle drei Monate behandelt, häufiger, wenn sie Unrat fressen oder mit kleinen Kindern leben, und eine Kotuntersuchung prüft den Plan. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
-  
-  
+
+
+  <!--BLOCCO:2-->
   <h2>Warum Vorbeugung besser ist als Behandlung</h2>
   <p>Die Parasitenkontrolle gehört zu den wenigen Bereichen der Hundegesundheit, in denen das richtige Vorgehen vollständig vorhersehbar und nahezu vollständig wirksam ist. Fast alles Wesentliche lässt sich mit einem Kalender und geringen monatlichen Kosten verhindern, und fast jeder schwere Fall in der Praxis betrifft einen Hund, bei dem die Vorbeugung ausgesetzt hatte.</p>
   <p>Für den Staffordshire Bull Terrier gibt es eine rassespezifische Besonderheit: das kurze, dichte Fell macht Flöhe und Zecken leichter auffindbar als bei langhaarigen Rassen, was ein Vorteil ist. Dasselbe Fell in Verbindung mit einer zu allergischen Reaktionen neigenden Haut bedeutet jedoch, dass die Flohspeichelallergie überdurchschnittlich häufig und überdurchschnittlich quälend ist. Ein einziger Flohstich kann bei einem sensibilisierten Hund wochenlangen Juckreiz auslösen.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>Flöhe</h2>
   <p>Der Floh, den Sie auf dem Hund sehen, macht etwa 5 Prozent des Befalls aus. Der Rest — Eier, Larven und Puppen — sitzt im Teppich, in der Decke, im Sofa und in den Bodenfugen. Das ist die nützlichste Information über Flöhe überhaupt, denn sie erklärt, warum die alleinige Behandlung des Hundes wiederholt scheitert und warum ein Befall 14 Tage nach der vermeintlichen Lösung zurückkehrt.</p>
   <p>Zeichen: Kratzen vor allem an der Schwanzwurzel und entlang des Rückens, kleine Krusten und Flohkot, der wie schwarze Körnchen aussieht und auf feuchtem weißem Papier rostrot verläuft. Dieser Test ist eindeutig und dauert 10 Sekunden.</p>
   <p>Die Behandlung umfasst alle Tiere im Haushalt am selben Tag sowie die Umgebung. Körbchen, Decken und Überwürfe werden bei 60 Grad gewaschen; gründlich saugen, unter Möbeln, an den Fußleisten und in den Fugen, in denen sich Larven verstecken, jeden Tag, solange der Befall aktiv ist, und den Beutel sofort draußen entsorgen. Teppiche und Sofas werden mit Dampf behandelt, und bei starkem Befall braucht es ein Umgebungsprodukt mit Wachstumsregulator (IGR), angewendet wie auf dem Etikett angegeben, mit gutem Lüften und mit Welpen und Menschen erst nach der angegebenen Zeit zurück im Raum. Nach 3 Wochen wiederholen, um die aus den widerstandsfähigen Puppen schlüpfende Generation zu erfassen.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>Zecken</h2>
   <p>Zecken sind weniger wegen des Stichs bedeutsam als wegen dessen, was sie übertragen: Babesiose, Ehrlichiose, Borreliose und in Teilen Südeuropas Hepatozoonose. In Italien kann besonders die Babesiose rasch lebensbedrohlich verlaufen, weshalb wir Zeckenschutz für Hunde, die in der Nähe hohen Grases spazieren gehen, als nicht verhandelbar betrachten.</p>
   <p>Kontrollieren Sie den Hund nach jedem Gang in Gras oder Wald während der Saison, die in weiten Teilen Italiens von März bis November reicht und in milden Küstenregionen faktisch ganzjährig ist. Fahren Sie langsam mit den Händen gegen den Strich und tasten Sie nach kleinen Knoten: Ohren innen und außen, Hals, Achseln, Leisten, Zehenzwischenräume und um den After.</p>
@@ -62,21 +69,29 @@ custom_content: |
   <li>Die Zecke kann in einem kleinen Glas mit Alkohol aufbewahrt werden, falls der Tierarzt sie bestimmen will.</li>
   <li>Das Datum notieren und 3 Wochen lang auf Fieber, Mattigkeit, Lahmheit oder dunklen Urin achten.</li>
   </ol>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>Darmwürmer</h2>
   <p>Spulwürmer, Hakenwürmer, Peitschenwürmer und Bandwürmer bilden die übliche Gruppe. Welpen tragen Spulwürmer praktisch von der Mutter mit und müssen nach festem Schema entwurmt werden: alle 2 Wochen ab der zweiten Lebenswoche bis zur zwölften, danach monatlich bis zum sechsten Monat &mdash; das Schema wird mit einer <a href="/de/welpen-entwurmung-kotuntersuchung/" title="Entwurmung und Kotuntersuchung">Kotuntersuchung</a> überprüft. Der erste Teil liegt in der Verantwortung des Züchters, der zweite bei Ihnen, und die Daten gehören in das Gesundheitsheft.</p>
   <p>Erwachsene Hunde werden üblicherweise vierteljährlich behandelt, häufiger, wenn sie jagen, aasen oder mit kleinen Kindern zusammenleben. Der Bandwurm wird durch das Verschlucken von Flöhen übertragen — ein weiterer Grund, beide Probleme gemeinsam anzugehen.</p>
   <p>Anzeichen eines Befalls: stumpfes Fell, aufgetriebener Bauch bei Welpen, Gewichtsverlust trotz gutem Appetit, sichtbare reiskornartige Glieder am After und Schlittenfahren, das häufiger von den Analdrüsen kommt, aber abgeklärt gehört.</p>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>Herzwurm und Leishmaniose</h2>
   <p>Diese beiden dürfen Halter in Südeuropa nicht auf die leichte Schulter nehmen. Der Herzwurm (Dirofilaria immitis), übertragen durch Stechmücken, ist in der Po-Ebene und weiten Teilen Norditaliens endemisch, auch in unserer Region im Po-Delta, dazu an den Seen und entlang der Küsten. Die erwachsenen Würmer leben im Herzen und in den Lungenarterien, und unbehandelt verläuft die Krankheit tödlich.</p>
   <p>Die Vorbeugung ist eine monatliche Behandlung, als Tablette oder Spot-on, während der ganzen Mückensaison, meist von April oder Mai bis November oder Dezember. Vorher braucht es einen Test: beim Welpen mit etwa sechs bis sieben Monaten und immer bei einem Hund mit unbekannter Vorgeschichte, weil die Prophylaxe bei einem bereits infizierten Hund gefährlich sein kann. Danach wird der Test jedes Frühjahr wiederholt, bevor man neu beginnt.</p>
   <p>Die Leishmaniose, übertragen durch Sandmücken, ist im gesamten Mittelmeerraum endemisch und breitet sich nach Norden aus. Sie ist eine schwere, oft lebenslange Erkrankung. Die Vorbeugung kombiniert ein Halsband oder Spot-on mit nachgewiesener Anti-Feeding-Wirkung, das Vermeiden des Aufenthalts im Freien in der Dämmerung während der Saison und, wo tierärztlich empfohlen, eine Impfung. Jeder Hund, der nach Süditalien reist, sollte vor der Fahrt geschützt sein, nicht danach. Dokumente, Auto, Bahn und Flugzeug: die praktischen Regeln stehen im Ratgeber zum <a href="/de/staffy-reisen-transport/" title="Reisen mit dem Staffy">Reisen mit dem Staffy</a>.</p>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:7-->
   <h2>Ein praktischer Jahresplan</h2>
   <p>Monatlich, ganzjährig: ein Kombinationspräparat gegen Flöhe und Zecken, gemeinsam mit dem <a href="https://wsava.org/global-guidelines/" title="WSAVA-Leitlinien" target="_blank" rel="noopener" aria-label="WSAVA-Leitlinien (wird in einem neuen Tab geöffnet)">Tierarzt</a> gewählt, dazu Herzwurmprophylaxe während der Mückensaison. Vierteljährlich: Entwurmung, bei Risikohunden häufiger. Wöchentlich: eine Kontrolle von Fell und Haut mit der Hand, die 2 Minuten dauert und die meisten Probleme früh erkennt. Jährlich: eine tierärztliche Untersuchung samt Besprechung der örtlichen Parasitenlage, denn sie verändert sich.</p>
   <p>Ein Hinweis zu Präparaten: verwenden Sie nie ein Katzenpräparat beim Hund oder umgekehrt, und keine permethrinhaltigen Produkte in einem Haushalt mit Katzen. Und seien Sie skeptisch gegenüber natürlichen Alternativen wie Knoblauch oder ätherischen Ölen. Knoblauch ist für Hunde giftig, mehrere ätherische Öle ebenfalls, und keines davon verhindert eine Babesiose.</p>
+  <!--/BLOCCO:7-->
 
+  <!--BLOCCO:8-->
   <h2>Das Jahr, Jahreszeit für Jahreszeit</h2>
   <p>Wie sich der Parasitenschutz im Lauf des Jahres ändert, Jahreszeit für Jahreszeit:</p>
 
@@ -92,7 +107,9 @@ custom_content: |
   </table>
 
   <p>Eine Erinnerung im Handykalender bewirkt mehr als jeder gute Vorsatz.</p>
+  <!--/BLOCCO:8-->
 
+  <!--BLOCCO:9-->
   <h2>Ein Präparat wählen: drei Formen</h2>
   <p>Die erste Behandlung wählt der Tierarzt, passend zu genauem Alter und aktuellem Gewicht des Welpen.</p>
 
@@ -108,10 +125,14 @@ custom_content: |
   </table>
 
   <p>Drei Regeln ohne Ausnahme: nie ein Präparat für erwachsene Hunde bei einem kleinen Welpen; nie Präparate zwischen Hund und Katze tauschen, denn viele Hundemittel enthalten Permethrin, das für Katzen giftig ist, schon bei Kontakt mit einem frisch behandelten Hund; und nie Präparate ohne Rücksprache mit dem Tierarzt kombinieren.</p>
+  <!--/BLOCCO:9-->
 
+  <!--BLOCCO:10-->
   <h2>Wann zum Tierarzt</h2>
   <p><strong>Flöhe</strong>: anhaltender, starker Juckreiz mit zwanghaftem Kratzen, Krusten oder kahle Stellen, Flohkot im Fell, blasses Zahnfleisch bei einem stark befallenen Welpen. <strong>Durch Zecken übertragene Krankheiten</strong>: Fieber über 39,5 °C innerhalb von drei Wochen nach Entfernen einer Zecke, deutliche Mattigkeit, Appetitlosigkeit, wechselnde Lahmheit oder geschwollene Gelenke, kleine rote Punkte an Zahnfleisch oder Bauch. <strong>Eine Reaktion auf ein Präparat</strong>: Erbrechen oder Durchfall wenige Stunden nach der Anwendung, Zittern, starkes Speicheln, Taumeln oder eine Hautentzündung an der Stelle des Spot-on. Roter oder brauner Urin, sehr blasses Zahnfleisch, Atemnot, Zusammenbruch oder Krampfanfälle sind ein Notfall: fahren Sie sofort in die nächste Notfallklinik.</p>
+  <!--/BLOCCO:10-->
 
+  <!--BLOCCO:11-->
   <h2>Häufige Fragen</h2>
 
   <div class="faq-list">
@@ -172,11 +193,12 @@ custom_content: |
   <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Zucht wählen">Tipps, bevor ein Welpe einzieht</a></li>
   </ul>
   </div>
-  
+
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>
-  
+  <!--/BLOCCO:11-->
+
   </article>
   </div>
 ---

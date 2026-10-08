@@ -8,6 +8,7 @@ description: "Note legali, disclaimer e termini di utilizzo del sito dell'alleva
 slug: "note-legali"
 fonti_motivo: "Pagina di servizio con i dati richiesti dalla legge: non riporta informazioni che richiedano una fonte esterna."
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -20,19 +21,21 @@ custom_content: |
   <p class="hero-subtitle">Termini di utilizzo del sito</p>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>Trasparenza</span><span>Diritti d'Autore</span><span>Garanzie Cuccioli</span><span>Pedigree ENCI</span><span>Foro di Ferrara</span>
   <span>Trasparenza</span><span>Diritti d'Autore</span><span>Garanzie Cuccioli</span><span>Pedigree ENCI</span><span>Foro di Ferrara</span>
   </div>
   </div>
-  
+
+  <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Note Legali</span>
   <h2 class="section-title">Termini di Utilizzo e Disclaimer</h2>
-  
+
   <div class="legal-section">
   <h3>1. Proprietà del Sito</h3>
   <p>Il presente sito web è di proprietà di:</p>
@@ -42,13 +45,13 @@ custom_content: |
   Email: <a href="mailto:zonerosse@gmail.com" title="Scrivici via email">zonerosse@gmail.com</a><br>
   Tel/WhatsApp: <a href="tel:+393924635584" title="Chiamaci">+39 392 4635584</a></p>
   </div>
-  
+
   <div class="legal-section">
   <h3>2. Diritti d'Autore e Proprietà Intellettuale</h3>
   <p>Tutti i contenuti presenti su questo sito, inclusi testi, immagini, fotografie, loghi, grafica e design, sono protetti da diritti d'autore e sono di proprietà esclusiva dell'Allevamento Del Piccolo Diavolo o dei rispettivi autori.</p>
   <p>È vietata la riproduzione, distribuzione, pubblicazione o utilizzo di qualsiasi contenuto senza previa autorizzazione scritta del titolare.</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>3. Disclaimer Cuccioli e Informazioni Sanitarie</h3>
   <p><strong>Informazioni Generali:</strong> Le informazioni presenti su questo sito riguardanti la razza Staffordshire Bull Terrier, la salute, l'alimentazione e la cura dei cuccioli hanno scopo puramente informativo e non sostituiscono il parere di un veterinario qualificato.</p>
@@ -56,7 +59,7 @@ custom_content: |
   <p><strong>Caratteristiche dei Cuccioli:</strong> Ogni cucciolo è unico. Le caratteristiche fisiche, caratteriali e comportamentali possono variare da soggetto a soggetto, anche all'interno della stessa cucciolata.</p>
   <p><strong>Test Genetici:</strong> I nostri riproduttori sono sottoposti a test genetici per le principali patologie della razza. Le informazioni sui test sono disponibili su richiesta e sono fornite in buona fede. I test genetici riducono ma non eliminano completamente il rischio di patologie ereditarie.</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>4. Affido dei Cuccioli</h3>
   <p><strong>Natura dell'attività:</strong> l'allevamento Del Piccolo Diavolo è un'attività amatoriale, non a fini di lucro.</p>
@@ -71,7 +74,7 @@ custom_content: |
   </ul>
   <p><strong>Consegna:</strong> I cuccioli vengono consegnati non prima dei 60 giorni di età, come previsto dalla normativa vigente. La consegna avviene esclusivamente presso l'allevamento, di persona: non effettuiamo spedizioni né consegne tramite corriere o trasportatore. Per gli affidi verso altri paesi si applicano requisiti sanitari e documentali ulteriori, fra cui la vaccinazione antirabbica e il certificato sanitario ufficiale, che comportano un'età minima superiore.</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>5. Limitazioni di Responsabilità</h3>
   <p>L'Allevamento Del Piccolo Diavolo si impegna a fornire informazioni accurate e aggiornate. Tuttavia, non può garantire la completezza, accuratezza o attualità di tutte le informazioni presenti sul sito.</p>
@@ -85,24 +88,24 @@ custom_content: |
   <p><strong>Responsabilità sul cane dopo la consegna:</strong> dal momento della consegna del cucciolo, la cura, il mantenimento, l'educazione, la custodia e la sorveglianza del cane sono di esclusiva responsabilità del proprietario.</p>
   <p>In particolare, il cane non deve mai essere lasciato senza la supervisione di un adulto in presenza di bambini piccoli. L'Allevamento Del Piccolo Diavolo non si assume alcuna responsabilità per danni a persone, animali o cose, né per lesioni o incidenti, causati dal cane o occorsi al cane, successivamente alla consegna al proprietario.</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>6. Scelta delle Famiglie</h3>
   <p>L'allevamento si riserva il diritto di scegliere le famiglie a cui affidare i propri cuccioli, valutandone l'idoneità e le condizioni di vita che potranno offrire al cane.</p>
   <p>Ci riserviamo il diritto di non affidare un cucciolo qualora ritenessimo che la famiglia non sia adatta o che le condizioni offerte non siano idonee al benessere dell'animale.</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>7. Modifiche alle Note Legali</h3>
   <p>L'Allevamento Del Piccolo Diavolo si riserva il diritto di modificare in qualsiasi momento il contenuto di queste note legali. Le modifiche saranno effettive dalla data di pubblicazione sul sito.</p>
   <p>Si consiglia di consultare periodicamente questa pagina per rimanere aggiornati.</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>8. Legge Applicabile e Foro Competente</h3>
   <p>Le presenti note legali sono regolate dalla legge italiana. Per qualsiasi controversia è competente esclusivamente il Foro di Ferrara.</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>9. Contatti</h3>
   <p>Per qualsiasi chiarimento riguardante le presenti note legali o per esercitare i diritti previsti dalla normativa vigente, è possibile contattarci:</p>
@@ -110,13 +113,16 @@ custom_content: |
   Tel/WhatsApp: <a href="tel:+393924635584" title="Chiamaci">+39 392 4635584</a></p>
   <p class="last-updated"><em>Ultimo aggiornamento: Novembre 2025</em></p>
   </div>
-  
+
   </div>
   </section>
-  
+  <!--/BLOCCO:2-->
+
+  <!--BLOCCO:3-->
   <section class="dark-section">
   <h2>Hai Domande?</h2>
   <p>Contattaci per qualsiasi chiarimento sui termini di utilizzo o sulle nostre garanzie.</p>
   <a href="/wa/393924635584" class="btn btn-gold" title="Scrivici su WhatsApp">Scrivici su WhatsApp</a>
   </section>
+  <!--/BLOCCO:3-->
 ---

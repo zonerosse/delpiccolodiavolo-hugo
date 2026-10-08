@@ -23,6 +23,9 @@ correlati:
     testo: "Inglesi e irlandesi: cosa cambia nel temperamento"
 ---
 
+
+<!--BLOCCO:1-->
+
 <section class="hero">
 <div class="hero-visual">
 <div class="hero-image">
@@ -40,12 +43,18 @@ correlati:
 </div>
 </section>
 
+<!--/BLOCCO:1-->
+
+
 <nav class="breadcrumb" aria-label="Breadcrumb">
 <a href="/" title="Home">Home</a> &rsaquo;
 <a href="/blog/" title="Blog">Blog</a> &rsaquo;
 <a aria-label="Standard e linee di sangue &mdash; categoria del blog" href="/blog/#standard" title="Articoli su standard e linee">Standard e linee</a> &rsaquo;
 <span>Il temperamento</span>
 </nav>
+
+
+<!--BLOCCO:2-->
 
 <section class="section">
 <div class="section-inner content-single">
@@ -108,8 +117,17 @@ correlati:
 </div>
 </section>
 
+<!--/BLOCCO:2-->
+
+
+
+<!--BLOCCO:3-->
+
 <section class="cta-section">
 <h2>Vuoi Conoscere i Nostri Staffy di Persona?</h2>
 <p>Il modo migliore per capire il carattere di una linea è incontrare i cani adulti. Scrivici per fissare una visita.</p>
 <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20conoscere%20i%20vostri%20cani" class="btn" title="Scrivici su WhatsApp">Scrivici su WhatsApp</a>
 </section>
+
+<!--/BLOCCO:3-->
+

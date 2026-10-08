@@ -1,0 +1,3 @@
+{{- /* Description della pagina: quella del gestionale se c'è, altrimenti quella del front matter. */ -}}
+{{- $m := partial "pagine/mod.html" . -}}
+{{- return (or $m.desc .Description) -}}

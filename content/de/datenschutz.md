@@ -7,6 +7,7 @@ translationKey: "privacy"
 description: "Datenschutz der Zucht Del Piccolo Diavolo in Ostellato (FE): welche personenbezogenen Daten wir verarbeiten, wozu, wie lange und Ihre Rechte nach der DSGVO."
 slug: "datenschutz"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -19,19 +20,21 @@ custom_content: |
   <p class="hero-subtitle">Verarbeitung personenbezogener Daten</p>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>Transparenz</span><span>DSGVO Konform</span><span>Keine Cookies</span><span>Daten Geschützt</span><span>Rechte Garantiert</span>
   <span>Transparenz</span><span>DSGVO Konform</span><span>Keine Cookies</span><span>Daten Geschützt</span><span>Rechte Garantiert</span>
   </div>
   </div>
-  
+
+  <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Datenschutz</span>
   <h2 class="section-title">Informationen zur Verarbeitung Personenbezogener Daten</h2>
-  
+
   <div class="legal-section">
   <h3>1. Verantwortlicher für die Datenverarbeitung</h3>
   <p>Verantwortlicher für die Verarbeitung personenbezogener Daten ist:</p>
@@ -41,7 +44,7 @@ custom_content: |
   E-Mail: <a href="mailto:zonerosse@gmail.com" title="Schreiben Sie uns per E-Mail">zonerosse@gmail.com</a><br>
   Tel/WhatsApp: <a href="tel:+393924635584" title="Rufen Sie uns an">+39 392 4635584</a></p>
   </div>
-  
+
   <div class="legal-section">
   <h3>2. Arten der erhobenen Daten</h3>
   <p><strong>Wichtig:</strong> Diese Website verwendet keine Tracking-Cookies, Profiling-Cookies oder cookiebasierten Analysesysteme. Die Website zeigt kein öffentliches Formular: Daten erreichen uns, wenn Sie schreiben oder anrufen, oder über das unter Punkt 9 beschriebene Kontaktformular, das über die Menüs nicht erreichbar ist und dessen Link wir auf Anfrage versenden.</p>
@@ -58,30 +61,30 @@ custom_content: |
   <li><strong>Weitere Informationen:</strong> Alle anderen Informationen, die Sie uns während der Kommunikation bezüglich Ihres Interesses an unseren Welpen mitteilen</li>
   </ul>
   </div>
-  
+
   <div class="legal-section">
   <h3>3. Zweck und Rechtsgrundlage der Verarbeitung</h3>
   <p>Personenbezogene Daten werden für folgende Zwecke verarbeitet:</p>
-  
+
   <h4>a) Bearbeitung von Informationsanfragen</h4>
   <p><strong>Zweck:</strong> Beantwortung von Anfragen zu unseren Welpen, zur Rasse Staffordshire Bull Terrier und zur Zuchttätigkeit.</p>
   <p><strong>Rechtsgrundlage:</strong> Durchführung vorvertraglicher Maßnahmen auf Anfrage der betroffenen Person (Art. 6 Abs. 1 lit. b DSGVO).</p>
-  
+
   <h4>b) Vermittlung der Welpen</h4>
   <p><strong>Zweck:</strong> Organisation von Besuchen in der Zucht, Durchführung der Vermittlung der Welpen.</p>
   <p><strong>Rechtsgrundlage:</strong> Erfüllung des Vermittlungsvertrags (Art. 6 Abs. 1 lit. b DSGVO).</p>
-  
+
   <h4>c) Betreuung nach der Vermittlung</h4>
   <p><strong>Zweck:</strong> Bereitstellung von Unterstützung und Hilfe für die Besitzer unserer Welpen, Weitergabe von Updates zur Gesundheit der Zuchttiere, Mitteilung relevanter Informationen zur Rasse.</p>
   <p><strong>Rechtsgrundlage:</strong> Berechtigtes Interesse des Verantwortlichen und Einwilligung der betroffenen Person (Art. 6 Abs. 1 lit. a und f DSGVO).</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>4. Art der Verarbeitung</h3>
   <p>Personenbezogene Daten werden mit manuellen und elektronischen Mitteln verarbeitet, mit Logiken, die streng mit den angegebenen Zwecken verbunden sind, und unter Anwendung angemessener Sicherheitsmaßnahmen zur Gewährleistung der Vertraulichkeit und zur Verhinderung unbefugten Zugriffs.</p>
   <p>Verwendete Kommunikationskanäle: Telefon, E-Mail, WhatsApp.</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>5. Speicherdauer</h3>
   <p>Personenbezogene Daten werden für den zur Erreichung der angegebenen Zwecke erforderlichen Zeitraum gespeichert:</p>
@@ -91,7 +94,7 @@ custom_content: |
   <li><strong>Betreuung nach der Vermittlung:</strong> Daten werden bis zum Widerruf der Einwilligung durch die betroffene Person gespeichert.</li>
   </ul>
   </div>
-  
+
   <div class="legal-section">
   <h3>6. Weitergabe und Verbreitung der Daten</h3>
   <p>Personenbezogene Daten werden nicht verbreitet. Sie können ausschließlich weitergegeben werden an:</p>
@@ -103,7 +106,7 @@ custom_content: |
     </ul>
   <p>Die Anbieter, die die Website hosten und unsere Werkzeuge bereitstellen (Cloudflare, Google), sind Unternehmen auch mit Sitz außerhalb der Europäischen Union: etwaige Übermittlungen erfolgen auf Grundlage der von der Europäischen Kommission genehmigten Standardvertragsklauseln. Für Vermittlungen in andere EU-Länder gelten die unter Punkt 10 beschriebenen Weitergaben.</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>7. Rechte der betroffenen Person</h3>
   <p>Als betroffene Person haben Sie das Recht auf:</p>
@@ -118,7 +121,7 @@ custom_content: |
   </ul>
   <p>Um diese Rechte auszuüben, kontaktieren Sie uns unter: <a href="mailto:zonerosse@gmail.com" title="Schreiben Sie uns per E-Mail">zonerosse@gmail.com</a> oder <a href="tel:+393924635584" title="Rufen Sie uns an">+39 392 4635584</a>.</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>8. Beschwerderecht</h3>
   <p>Sie haben das Recht, Beschwerde bei der Datenschutzaufsichtsbehörde einzureichen, wenn Sie der Meinung sind, dass die Verarbeitung Ihrer Daten gegen die DSGVO verstößt.</p>
@@ -127,8 +130,8 @@ custom_content: |
   Tel: <a href="tel:+390669677001" title="Italienische Datenschutzbehörde anrufen">+39 06 696771</a><br>
   Website: <a href="https://www.garanteprivacy.it" target="_blank" rel="noopener" title="Website der italienischen Datenschutzbehörde" aria-label="Website der italienischen Datenschutzbehörde (wird in einem neuen Tab geöffnet)">www.garanteprivacy.it</a></p>
   </div>
-  
-  
+
+
   <div class="legal-section">
   <h3>9. Kontaktformular</h3>
   <p>Wir verwenden ein Formular, um die Angaben derjenigen zu erfassen, die benachrichtigt werden möchten, wenn ein Wurf unterwegs ist. <strong>Es ist nicht auf der Website veröffentlicht und über die Menüs nicht erreichbar:</strong> es liegt unter <code>/contatto/</code>, und den Link versendet der Verantwortliche auf Anfrage an Personen, die bereits mit der Zucht in Kontakt standen.</p>
@@ -169,19 +172,22 @@ custom_content: |
   <p>Es werden keine technischen Cookies, Profiling-Cookies, Third-Party-Cookies oder Benutzer-Tracking-Systeme verwendet.</p>
   <p>Die Website erhebt aggregierte Zugriffsstatistiken über <strong>Cloudflare Web Analytics</strong>, das keine Cookies auf Ihrem Gerät setzt, keine Kennungen vergibt und Sie nicht über verschiedene Websites hinweg verfolgt. Aus diesem Grund zeigt die Website kein Einwilligungsbanner: Es gibt nichts, wofür eine Einwilligung erforderlich wäre.</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>13. Änderungen der Datenschutzerklärung</h3>
   <p>Diese Datenschutzerklärung kann regelmäßig aktualisiert werden, um regulatorische Änderungen oder Änderungen in unseren Datenverarbeitungspraktiken widerzuspiegeln.</p>
   <p class="last-updated"><em>Letzte Aktualisierung: September 2026</em></p>
   </div>
-  
+
   </div>
   </section>
-  
+  <!--/BLOCCO:2-->
+
+  <!--BLOCCO:3-->
   <section class="dark-section">
   <h2>Fragen zum Datenschutz?</h2>
   <p>Kontaktieren Sie uns für alle Fragen zur Verarbeitung Ihrer personenbezogenen Daten.</p>
   <a href="/wa/393924635584" class="btn" title="Schreiben Sie uns auf WhatsApp">Auf WhatsApp Schreiben</a>
   </section>
+  <!--/BLOCCO:3-->
 ---

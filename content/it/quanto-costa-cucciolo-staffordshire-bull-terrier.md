@@ -13,6 +13,9 @@ description: "Quanto costa un cucciolo Staffordshire Bull Terrier con pedigree E
 slug: "quanto-costa-cucciolo-staffordshire-bull-terrier"
 ---
 
+
+<!--BLOCCO:1-->
+
 <section class="hero">
 <div class="hero-visual">
 <div class="hero-image">
@@ -29,6 +32,9 @@ slug: "quanto-costa-cucciolo-staffordshire-bull-terrier"
 </div>
 </section>
 
+<!--/BLOCCO:1-->
+
+
 <nav class="breadcrumb" aria-label="Breadcrumb">
 <a href="/" title="Home">Home</a> &rsaquo;
 <a href="/blog/" title="Blog">Blog</a> &rsaquo;
@@ -43,6 +49,9 @@ La risposta breve: **non esiste un listino, ed è giusto così**. Quello che puo
 Se ti capita di trovare cuccioli di Staffordshire Bull Terrier a poche centinaia di euro, fermati. Stai per fare un errore che potrebbe costarti molto di più in veterinari, problemi comportamentali e cuore spezzato.
 
 In questo articolo ti spiego esattamente cosa include quel prezzo, quanto spendiamo noi per una cucciolata con le cifre vere, perché i cuccioli "economici" sono un rischio e come distinguere un allevatore serio da un cagnaro. Se non sai ancora da dove iniziare, leggi prima <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento Staffordshire Bull Terrier">come scegliere un allevamento Staffordshire Bull Terrier</a>.
+
+
+<!--BLOCCO:2-->
 
 ## Cosa include il prezzo di un cucciolo serio
 
@@ -79,6 +88,12 @@ Quando acquisti da un allevatore responsabile, il prezzo include:
 </table>
 
 Questi non sono optional. Sono il minimo che un allevatore serio deve garantire.
+
+<!--/BLOCCO:2-->
+
+
+
+<!--BLOCCO:3-->
 
 ## Quanto costa una cucciolata a noi, voce per voce {#costi-cucciolata}
 
@@ -149,6 +164,12 @@ E in questo conto non ci sono i **test genetici dei riproduttori**, che si pagan
 
 Questi numeri non servono a giustificare un prezzo. Servono a far capire perché **una cucciolata venduta a poche centinaia di euro a cucciolo non può avere dietro niente di tutto questo.**
 
+<!--/BLOCCO:3-->
+
+
+
+<!--BLOCCO:4-->
+
 ## Perché i cuccioli economici costano di più
 
 Facciamo due conti.
@@ -175,6 +196,12 @@ Un cucciolo da cagnaro può sembrare sano a 2 mesi. I problemi emergono dopo:
 Un intervento per displasia costa 3.000-5.000€. La gestione di un cane con problemi comportamentali gravi? Incalcolabile, tra educatori, farmaci e qualità della vita compromessa.
 
 Il cucciolo pagato poco può facilmente diventare un cane da migliaia di euro di spese veterinarie.
+
+<!--/BLOCCO:4-->
+
+
+
+<!--BLOCCO:5-->
 
 ## La differenza che non vedi nel prezzo
 
@@ -208,6 +235,12 @@ Il prezzo di un cucciolo non paga solo vaccinazioni e pedigree. Paga un modo com
 </tbody>
 </table>
 
+<!--/BLOCCO:5-->
+
+
+
+<!--BLOCCO:6-->
+
 ## Come riconoscere un cagnaro
 
 Alcuni segnali d'allarme:
@@ -238,6 +271,12 @@ Alcuni segnali d'allarme:
 
 Se anche solo uno di questi segnali è presente: scappa.
 
+<!--/BLOCCO:6-->
+
+
+
+<!--BLOCCO:7-->
+
 ## Il vero valore di un allevatore serio
 
 Quando acquisti da un allevatore serio, non compri solo un cucciolo. Compri:
@@ -249,6 +288,12 @@ Quando acquisti da un allevatore serio, non compri solo un cucciolo. Compri:
 **Supporto a vita**: quando hai un problema, un dubbio, una domanda - anche tra 10 anni - puoi chiamare. Non sei mai solo.
 
 **Garanzia reale**: se qualcosa va storto, l'allevatore c'è. Con un cagnaro, sparisce dopo il bonifico.
+
+<!--/BLOCCO:7-->
+
+
+
+<!--BLOCCO:8-->
 
 ## Conclusione
 
@@ -265,3 +310,6 @@ Scegli con la testa, non col portafoglio. Se vuoi vedere come lavoriamo, visita 
 *Leggi anche: <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento Staffordshire Bull Terrier">come scegliere un allevamento serio</a>.*
 
 *Vuoi saperne di più sui nostri cuccioli e sulle prossime cucciolate? [Scrivici su WhatsApp](/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20informazioni%20sui%20cuccioli%20e%20sui%20prezzi) - ti raccontiamo come lavoriamo e rispondiamo a tutte le tue domande.*
+
+<!--/BLOCCO:8-->
+

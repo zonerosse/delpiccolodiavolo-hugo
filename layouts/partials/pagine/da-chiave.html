@@ -1,0 +1,4 @@
+{{- /* La pagina con questa translationKey nella lingua corrente (o false). */ -}}
+{{- $r := false -}}
+{{- range where site.Pages "Params.translationKey" . -}}{{- $r = . -}}{{- end -}}
+{{- return $r -}}

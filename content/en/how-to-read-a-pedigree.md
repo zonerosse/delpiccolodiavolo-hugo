@@ -12,6 +12,7 @@ thumb: "/images/blog/icone/come-si-legge-un-pedigree.webp"
 description: "What an ENCI pedigree certificate really shows, what SBTPedigree adds, and how the test mating is used to study a pairing before it is made."
 slug: "how-to-read-a-pedigree"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -27,6 +28,7 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:1-->
 
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> &rsaquo;
@@ -37,12 +39,13 @@ custom_content: |
 
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>Reading a Staffordshire Bull Terrier pedigree means using two different tools. The <strong>ENCI certificate</strong> is the official document: it certifies parents, grandparents and great-grandparents and records the registered titles and the filed examinations, but it shows neither the genetic tests nor a single photograph of the dogs. <strong>SBTPedigree</strong>, the breed's international archive, adds what is missing: photographs of the ancestors generation by generation, the uploaded genetic tests, the foreign titles and above all the progeny, that is what a dog has produced. Its test-mating function calculates the theoretical coefficient of inbreeding of a litter and shows which ancestors it concentrates on: the same dog can have a coefficient of 9 per cent over eight generations and 21 over the full pedigree. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
 
   <p>&laquo;It has a pedigree&raquo; is the sentence that ends every discussion, and it means almost nothing. A pedigree says <strong>who a dog descends from</strong>, not what it is worth. And above all: there are two different documents, with two different purposes, and people who do not breed usually know only one of them.</p>
 
+  <!--BLOCCO:2-->
   <h2>The ENCI certificate: the official record</h2>
 
   <p>The pedigree certificate that the ENCI issues for a Staffordshire Bull Terrier is the <strong>official</strong> document. It certifies who that dog's parents, grandparents and great-grandparents are, and it records the <strong>registered titles</strong>: Italian Champion, recognised foreign championships, and any official examinations filed.</p>
@@ -65,7 +68,9 @@ custom_content: |
   </ul>
 
   <p>With the ENCI certificate in hand you know that the dog is who it claims to be. You do not know what it is like, and you do not know what it passes on.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>SBTPedigree: where you really look</h2>
 
   <p><a href="https://sbtpedigree.com/" target="_blank" rel="noopener" aria-label="SBTPedigree, the breed archive (opens in a new tab)">SBTPedigree</a> is an international archive dedicated to the Staffordshire Bull Terrier, fed by breeders and owners from half the world. It is not an official document, and that is precisely what makes it useful: it contains the things the certificate cannot contain.</p>
@@ -79,7 +84,9 @@ custom_content: |
   <p><strong>The titles</strong>, including the foreign ones that do not appear on the Italian certificate.</p>
 
   <p><strong>The progeny</strong>, which SBTPedigree shows and the ENCI certificate does not: what that dog has produced, in which pairings, with what results. It is the information that weighs most and that no certificate gives you &mdash; a dog is also judged by what it leaves behind.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>The test mating</h2>
 
   <p>Then there is the function I use most, and that almost nobody outside the breeding world knows: the <strong>test mating</strong>.</p>
@@ -108,7 +115,9 @@ custom_content: |
   <p>Of the doubled-up ancestors, the third point is the one that really matters. It is not enough to know <em>how much</em> you tighten: you need to know <strong>on whom</strong>. Doubling up fourteen times on one dog means betting that that dog is worth fixing &mdash; and if you are wrong, you fix its faults too.</p>
 
   <p>That is why a pairing is studied for months. You do not choose a male because he is handsome or because he has won: you look at what happens when those two genealogies meet.</p>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>How to use it to check a breeder</h2>
 
   <p>And this is where it becomes useful to someone looking for a puppy, not only to someone who breeds.</p>
@@ -120,7 +129,9 @@ custom_content: |
   <p><strong>Compare with what you were told.</strong> If the two do not match, you have your answer without having to argue.</p>
 
   <p>And a detail worth knowing when assessing a kennel: on the ENCI website, with the <strong>microchip number</strong>, you can also look up the number of litters a bitch has had. It serves to check the pace of a kennel without asking anyone.</p>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>Ours</h2>
 
   <p>The Del Piccolo Diavolo dogs are registered on SBTPedigree, and every dog's page on this site has a direct link to its SBTPedigree page. On those pages you also find the microchip number and the studbook number, which are the two keys for the checks described above.</p>
@@ -148,6 +159,7 @@ custom_content: |
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   </div>
+  <!--/BLOCCO:6-->
 
   </article>
   </div>

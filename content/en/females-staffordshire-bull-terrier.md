@@ -8,6 +8,7 @@ translationKey: "femmine"
 description: "Our female Staffordshire Bull Terriers: Bilquis (Top Dog Junior 2023), Queen of California, Croi Olc, Divine, Kennedy, Derry, Cattleya. L2HGA, HC and DM-SOD1 tested."
 slug: "females-staffordshire-bull-terrier"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -25,7 +26,8 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>Elitebull Lines</span>
@@ -44,12 +46,13 @@ custom_content: |
   <span>Ostellato FE</span>
   </div>
   </div>
-  
+
+  <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Our Approach</span>
   <h2 class="section-title">Selection and Care of Our Females</h2>
-  
+
   <div class="intro-block">
   <p>Raised with care and responsibility, our females are selected for <strong>health</strong>, <strong>breed typicality</strong> and <strong>balanced temperament</strong>. Every pairing is planned based on genetic testing and bloodline compatibility.</p>
   <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Our females are tested for:</p>
@@ -60,7 +63,9 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:2-->
+
+  <!--BLOCCO:3-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Our Females</span>
@@ -70,7 +75,7 @@ custom_content: |
   <p><strong>How many litters, and how to check.</strong> Our females have <strong>two litters</strong> each on average. You do not have to take our word for it: under every name there is the microchip number, and with that the number of litters can be looked up in the <a href="https://www.enci.it/libro-genealogico/libro-genealogico-on-line" target="_blank" rel="noopener" title="ENCI stud book" aria-label="ENCI stud book (opens in a new tab)">ENCI stud book</a>.</p>
   <p style="margin-bottom:0">When a dog lives elsewhere, the owner's name is given under hers. Because this is the kind of thing that <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious breeder">should always be verified</a>, not simply told.</p>
   </div>
-  
+
   <!-- BILQUIS - ITALIAN CHAMPION -->
   <article class="female-card female-featured">
   <div class="female-header">
@@ -99,7 +104,7 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   <!-- QUEEN OF CALIFORNIA -->
   <article class="female-card female-featured">
   <div class="female-header">
@@ -127,7 +132,7 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   <!-- CROI OLC -->
   <article class="female-card">
   <div class="female-header">
@@ -153,7 +158,7 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   <!-- DIVINE -->
   <article class="female-card">
   <div class="female-header">
@@ -177,7 +182,7 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   <!-- KENNEDY -->
   <article class="female-card">
   <div class="female-header">
@@ -202,7 +207,7 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   <!-- DERRY -->
   <article class="female-card">
   <div class="female-header">
@@ -228,7 +233,7 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   <!-- CATTLEYA -->
   <article class="female-card female-featured">
   <div class="female-header">
@@ -253,7 +258,7 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   <!-- NORA -->
   <article class="female-card">
   <div class="female-header">
@@ -281,14 +286,17 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   </div>
   </section>
-  
-    
+  <!--/BLOCCO:3-->
+
+
+  <!--BLOCCO:4-->
   <section class="cta-section">
   <h2>Want Info About Our Females?</h2>
   <p>Call us or write on WhatsApp for information about our breeding females.</p>
   <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20the%20female%20Staffordshire%20Bull%20Terriers" class="btn" title="Write us on WhatsApp for female info">Write Us on WhatsApp</a>
   </section>
+  <!--/BLOCCO:4-->
 ---

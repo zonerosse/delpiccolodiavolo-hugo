@@ -12,6 +12,7 @@ thumb: "/images/blog/icone/famiglia-convivenza-altri-animali.webp"
 description: "Staffordshire Bull Terriers living with other pets: cats, small animals, other dogs - cohabitation tips, introductions and realistic expectations."
 slug: "staffy-other-pets"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -28,24 +29,28 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> ›
   <a href="/en/blog/" title="Blog">Blog</a> ›
   <span>Staffy and Other Pets</span>
   </nav>
-  
+
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>The Staffordshire Bull Terrier is a terrier, and reactivity towards other dogs exists, especially between individuals of the same sex once they reach social maturity, between 18 months and three years. Socialisation reduces it but does not remove it: a dog that is fine at the park may refuse a housemate, because at home the other dog never leaves. The breed also keeps a residual prey drive towards small, fast-moving animals. Living with another dog, a cat or small pets is therefore prepared before it starts: assess your own dog honestly, set up the house with separate spaces and barriers, introduce the animals step by step, and manage bowls, toys and beds, where most conflicts actually begin. With a cat it takes weeks, not days. With rabbits, rodents and birds, supervision never relaxes. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
-  
-  
+
+
+  <!--BLOCCO:2-->
   <h2>Breed tendencies: what the terrier heritage really means</h2>
   <p>The Staffordshire Bull Terrier was bred to work closely with people, not to guard territory or patrol livestock. That history explains the extraordinary tolerance towards humans the breed is famous for. It also explains two tendencies that matter when other animals live in the same house: a residual prey drive towards small fast-moving creatures, and, in a minority of individuals, a low tolerance for dogs of the same sex once they reach social maturity between 18 months and 3 years.</p>
   <p>Neither tendency is a life sentence. In more than a decade of breeding and following our puppies in their homes, the pattern is consistent: most Staffies integrate with a resident dog or cat when the introduction is done properly; some need ongoing management, such as separate feeding areas and supervised time together; and a few are genuinely better off as an only pet. Knowing which group your dog belongs to is the first job, and it is far more useful than any general rule about the breed.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>Assessing temperament: compatibility with other animals</h2>
 
   <p>Not every <strong>Staffordshire Bull Terrier</strong> has the same level of compatibility with other animals. Before attempting any introduction, an honest assessment of your own dog's temperament is essential for both success and safety.</p>
@@ -99,7 +104,9 @@ custom_content: |
   </div>
 
   <p><strong>Reading the result:</strong> 4-5 positive checks = high compatibility. 2-3 positive = medium compatibility (extended protocols). 0-1 positive = a professional is needed.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>Preparing a multi-pet home: space and equipment</h2>
 
   <p>Many introductions fail because of the environment, not the animals. Preparing the house before the new animal arrives avoids risky improvisation.</p>
@@ -138,7 +145,9 @@ custom_content: |
   <li>Owner's attention: one-to-one time guaranteed every day (separate walks, training, exclusive cuddles)</li>
   </ul>
   </div>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>Introducing a Staffy to another dog: a detailed step-by-step protocol</h2>
 
   <p>An introduction between dogs needs a slow and methodical progression. Rushing means risking fights that can damage the relationship for good.</p>
@@ -196,7 +205,9 @@ custom_content: |
   <p class="callout-title">🏆 The real timing of an introduction</p>
   <p>With a balanced resident dog and a gradual protocol, a few weeks are usually enough. When one or the other is missing it takes months, and in some cases living together does not work and the dogs have to be kept apart for good. What counts most is the Staffy's early socialisation, respecting the timing, and the temperament of the dog already in the house. What "socialised puppy" really means, and how to check it when you visit a breeder, is explained in <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it really means">socialised puppies: what it really means</a>.</p>
   </div>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>Introducing a Staffy to a cat: full desensitisation (10-16 weeks)</h2>
 
   <p>Living with a cat always needs more time and caution than living with another dog. Predatory behaviour towards small, fast prey is a powerful instinct in many Staffies.</p>
@@ -256,7 +267,9 @@ custom_content: |
   <li><strong>Staggered times:</strong> the cat eats while the dog is out on a walk</li>
   <li><strong>Litter tray out of the dog's reach:</strong> many dogs eat cat faeces. It creates the association "cat = source of food" (dangerous)</li>
   </ul>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:7-->
   <h2>Living with small animals: rabbits, ferrets, birds, rodents</h2>
 
   <p>A Staffy living with animals under 5 kg is always high-risk. The predatory instinct towards small, fast prey is strong in most Staffies.</p>
@@ -305,7 +318,9 @@ custom_content: |
   <p class="info-box-title">💚 A realistic goal</p>
   <p>Most Staffy-small animal introductions never reach full freedom together. The realistic goal is "coexistence in separate rooms, with occasional intensively supervised contact and no incidents". Accept this limit.</p>
   </div>
+  <!--/BLOCCO:7-->
 
+  <!--BLOCCO:8-->
   <h2>Advanced resource management: preventing conflicts</h2>
 
   <p>Resource guarding is the number one cause of conflict in multi-pet homes. Prevention is the key.</p>
@@ -329,7 +344,9 @@ custom_content: |
   </ol>
 
   <p><strong>If guarding is severe (attacks, bites):</strong> do not try it yourself. You need a certified behaviourist.</p>
+  <!--/BLOCCO:8-->
 
+  <!--BLOCCO:9-->
   <h2>Stress signals and body language: what to watch</h2>
 
   <p>Recognising stress early prevents conflicts from escalating. Dogs communicate discomfort before they react aggressively.</p>
@@ -384,7 +401,9 @@ custom_content: |
   </div>
 
   <p><strong>If 5 or more answers are negative:</strong> living together is causing chronic stress. Consult a behaviourist to assess whether it can be managed or whether separation or rehoming is needed.</p>
+  <!--/BLOCCO:9-->
 
+  <!--BLOCCO:10-->
   <h2>Common problems and practical solutions</h2>
 
   <h3>Problem 1: the dog chases the cat or small animal</h3>
@@ -436,7 +455,9 @@ custom_content: |
   <li><strong>Less access for the dog:</strong> the dog free in 50-60% of the house</li>
   <li><strong>An honest assessment:</strong> if the cat is still terrified after 2-3 months = they are probably incompatible. Chronic stress damages the cat's health</li>
   </ul>
+  <!--/BLOCCO:10-->
 
+  <!--BLOCCO:11-->
   <h2>Frequently asked questions</h2>
 
   <div class="faq-list">
@@ -526,10 +547,11 @@ custom_content: |
   <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Advice before taking on a puppy">Advice before taking on a puppy</a></li>
   </ul>
   </div>
-  
+
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   </div>
+  <!--/BLOCCO:11-->
 
   </article>
   </div>

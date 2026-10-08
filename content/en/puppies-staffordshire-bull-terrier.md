@@ -22,6 +22,7 @@ correlati:
 slug: "puppies-staffordshire-bull-terrier"
 fonti_motivo: "This page describes how the puppies of the Del Piccolo Diavolo kennel are born and raised: it is the kennel's own information, which is why there are no external sources to cite. The dates of every litter and the parents' reports are published in the breeding diary and on the breeding dogs' pages."
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -39,7 +40,8 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>Elitebull Lines</span>
@@ -58,14 +60,15 @@ custom_content: |
   <span>Ostellato FE</span>
   </div>
   </div>
-  
+
   <!-- Citazione allevamento -->
 
+  <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Gallery</span>
   <h2 class="section-title">Our Puppies</h2>
-  
+
   <div class="gallery-grid">
   <div class="gallery-item"><img src="/images/primo-piano-cucciolo.avif" alt="Staffordshire Bull Terrier puppy" loading="lazy" decoding="async" width="300" height="282"></div>
   <div class="gallery-item"><img src="/images/cucciolo-con-cavallo.avif" alt="Staffordshire Bull Terrier puppy posing" loading="lazy" decoding="async" width="300" height="367"></div>
@@ -73,19 +76,25 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <!--ULTIMA-CUCCIOLATA-->
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <!--CUCCIOLATE-->
-  
+  <!--/BLOCCO:4-->
+
+  <!--BLOCCO:5-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Why Choose Us</span>
   <h2 class="section-title">Our Approach</h2>
-  
+
   <div class="zigzag">
 
-    
+
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Temperament and Socialization</h3>
@@ -105,7 +114,7 @@ custom_content: |
   <img src="/images/foto1.avif" alt="Socialized Staffordshire Bull Terrier puppies at home" loading="lazy" decoding="async" width="400" height="484">
   </div>
   </div>
-  
+
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Family Life</h3>
@@ -118,7 +127,9 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:5-->
+
+  <!--BLOCCO:7-->
   <section class="section">
   <div class="section-inner content-single">
   <span class="section-label">Temperament</span>
@@ -130,7 +141,9 @@ custom_content: |
 
   </div>
   </section>
+  <!--/BLOCCO:7-->
 
+  <!--BLOCCO:6-->
   <section class="section section-alt">
   <div class="section-inner content-single">
   <span class="section-label">Before they are born</span>
@@ -191,7 +204,9 @@ custom_content: |
 
   </div>
   </section>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:10-->
   <section class="section section-alt">
   <div class="section-inner content-single">
   <span class="section-label">Placements abroad</span>
@@ -200,6 +215,7 @@ custom_content: |
   <p><a href="/en/staffordshire-bull-terrier-puppy-abroad/">How a placement abroad works: timing, paperwork and export pedigree &rarr;</a></p>
   </div>
   </section>
+  <!--/BLOCCO:10-->
 
   <section class="section section-alt">
   <div class="section-inner">
@@ -220,11 +236,12 @@ custom_content: |
   </div>
   </section>
 
+  <!--BLOCCO:9-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Frequently Asked Questions</span>
   <h2 class="section-title">Puppy FAQ</h2>
-  
+
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">When can I take the puppy home?</h3>
@@ -232,7 +249,7 @@ custom_content: |
   </div>
   <div class="faq-answer">Not before <strong>60 days</strong>, which is a legal requirement in Italy rather than a breeder's choice: before that age a puppy still needs its mother and littermates to learn to moderate its bite and read other dogs' signals. In practice ours leave between 60 and 70 days, after the first vaccination, the microchip and at least one worming. For families abroad the timing is much longer: the rabies vaccination cannot be given before twelve weeks, and after it another twenty-one days must pass before it is valid for travel. Anyone promising a puppy at forty-five days either does not know the rules or is breaking them.</div>
   </div>
-  
+
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What is behind a puppy with an ENCI pedigree?</h3>
@@ -240,7 +257,7 @@ custom_content: |
   </div>
   <div class="faq-answer">The ENCI pedigree is not a paid extra: it is the document that links the puppy to its parents, grandparents and great-grandparents, and that makes everything else verifiable. Without it you cannot trace who the breeding dogs really are, check their genetic tests, or look up how many litters the mother has had. Behind it are the registration of the litter in the stud book, at public rates that are the same for everyone, the mating report and the checks that go with it. <strong>There is no such thing as the same puppy with or without a pedigree</strong>: either the mating is properly registered, and then every puppy in the litter has one, or it is not, and then none does.</div>
   </div>
-  
+
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How much does a Staffordshire Bull Terrier puppy cost?</h3>
@@ -248,7 +265,7 @@ custom_content: |
   </div>
   <div class="faq-answer">There is no price list, and what you pay reflects costs that exist before the puppy is born. The genetic tests on the two breeding dogs for L2HGA and HC are paid once per dog and hold for their whole breeding life. Registering the litter in the ENCI stud book has public rates. On top of that come the veterinary visits during pregnancy, the ultrasound at around the twenty-fifth day, the X-ray before the whelping, the first vaccinations, the worming and the microchip. <strong>A very low price almost always means something is missing</strong>: the tests, the pedigree, or puppies separated from their mother before the 60 days the law requires. The full breakdown is in <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="How much does a Staffy puppy cost">what a puppy really costs</a>.</div>
   </div>
-  
+
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Can I visit the kennel before deciding?</h3>
@@ -256,32 +273,39 @@ custom_content: |
   </div>
   <div class="faq-answer">Yes, and it is the right way to get to know us. The Del Piccolo Diavolo kennel receives visitors by appointment in Ostellato, in the province of Ferrara, so that we can give you all the time you need without stressing the dogs. During the visit you see the adult dogs and the mother of the litter, the place where the puppies are born and grow up, and you check pedigrees and test reports in person. It is also when we ask you a few questions: how many hours the dog will be alone, who is at home, what happens in summer. It is not an interrogation; it is how we work out whether that puppy and that family fit. <strong>Anyone who takes a Del Piccolo Diavolo puppy comes here</strong>: we do not ship dogs.</div>
   </div>
-  
+
   <div style="text-align:center;margin-top:1.5rem">
   <a href="/en/faq-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="See all FAQ">See all frequently asked questions</a>
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:9-->
+
+  <!--BLOCCO:8-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Reviews</span>
   <h2 class="section-title">What People Say About Us</h2>
-  
+
   <div class="review-card">
   <p class="review-text">"Paolo is a guarantee for this breed. Home-raised puppies, continuous support and great expertise. Our Staffy is perfect!"</p>
   <div class="reviewer"><span>Cristian Ferroci</span><span class="stars">★★★★★</span></div>
   </div>
-  
+
   <div class="review-card">
   <p class="review-text">"Love at first sight exists... trust me. Professionalism, passion and balanced, healthy puppies. I recommend this kennel to everyone."</p>
   <div class="reviewer"><span>Manu Nannetti</span><span class="stars">★★★★★</span></div>
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:8-->
+
+  <!--BLOCCO:11-->
   <!--GUIDE-->
+  <!--/BLOCCO:11-->
+  <!--BLOCCO:12-->
   <!--CORRELATI-->
+  <!--/BLOCCO:12-->
 
   <p style="margin-top:1rem">For a detailed account of what lies behind a well-bred puppy, read <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="How much does a Staffordshire Bull Terrier puppy cost">how much a Staffordshire Bull Terrier puppy costs</a>.</p>
 
@@ -296,16 +320,18 @@ custom_content: |
   <li><a href="/en/palmares/" title="Palmares: Italian and international champions since 2013">Palmares: Italian and international champions since 2013</a></li>
   </ul>
   </div>
-  
+
   <section class="section">
   <div class="section-inner content-single">
   <p class="fonti">Sources: This page describes how the puppies of the Del Piccolo Diavolo kennel are born and raised: it is the kennel's own information, which is why there are no external sources to cite. The dates of every litter and the parents' reports are published in the breeding diary and on the breeding dogs' pages.</p>
   </div>
   </section>
 
+  <!--BLOCCO:13-->
   <section class="cta-section">
   <h2>Want Info About Puppies?</h2>
   <p>Call us or write on WhatsApp for information about available litters.</p>
   <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20Staffordshire%20Bull%20Terrier%20puppies" class="btn" title="Write us on WhatsApp for puppy info">Write Us on WhatsApp</a>
   </section>
+  <!--/BLOCCO:13-->
 ---

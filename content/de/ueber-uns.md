@@ -18,6 +18,7 @@ correlati:
 slug: "ueber-uns"
 fonti_motivo: "Diese Seite erzählt in der ersten Person die Geschichte und die Arbeit der Zucht Del Piccolo Diavolo und nennt keine externen Quellen, weil die berichteten Tatsachen die der Zucht selbst sind. Was sich prüfen lässt, ist auf der Website prüfbar: Gentest-Befunde mit Mikrochipnummer, ENCI-Ahnentafeln, Ausstellungsergebnisse mit den Namen der Richter."
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -35,14 +36,16 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>Seit 2013</span><span>Elitebull Linien</span><span>Lackyle Linien</span><span>L2HGA Frei</span><span>HC Frei</span><span>ENCI Stammbaum</span><span>Ostellato FE</span>
   <span>Seit 2013</span><span>Elitebull Linien</span><span>Lackyle Linien</span><span>L2HGA Frei</span><span>HC Frei</span><span>ENCI Stammbaum</span><span>Ostellato FE</span>
   </div>
   </div>
-  
+
+  <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Unsere Werte</span>
@@ -55,12 +58,14 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:2-->
+
+  <!--BLOCCO:3-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Wie Es Begann</span>
   <h2 class="section-title">Unsere Geschichte</h2>
-  
+
   <div class="story-block" style="grid-template-columns:1fr">
   <div class="story-text">
   <h3>Von Crufts nach Ostellato</h3>
@@ -69,7 +74,7 @@ custom_content: |
   </div>
   <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo — Staffordshire Bull Terrier" class="story-img" width="350" height="354" loading="lazy" decoding="async">
   </div>
-  
+
   <div class="story-block reverse">
   <div class="story-text">
   <h3>Warum Elitebull und Lackyle</h3>
@@ -81,12 +86,14 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:3-->
+
+  <!--BLOCCO:4-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Unser Ansatz</span>
   <h2 class="section-title">Zuchtphilosophie</h2>
-  
+
   <div class="story-block">
   <div class="story-text">
   <h3>Qualität, Nicht Quantität</h3>
@@ -96,7 +103,7 @@ custom_content: |
   </div>
   <img src="/images/20250922175108-4a225f3e-sm--1-.webp" alt="Neugeborene Staffy-Welpen" class="story-img" width="247" height="288" loading="lazy" decoding="async">
   </div>
-  
+
   <div class="checklist">
   <h3>Was Sie mit einem unserer Welpen erhalten</h3>
   <ul>
@@ -111,7 +118,9 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:4-->
+
+  <!--BLOCCO:5-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Der Züchter</span>
@@ -123,7 +132,9 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Wie ich arbeite</span>
@@ -136,6 +147,7 @@ custom_content: |
   <p>Von allen, die einen Welpen möchten, erwarte ich zuerst eines: einmal persönlich nach Ostellato zu kommen. Es ist der einzige Moment, in dem ich sehe, wie jemand mit einem echten Hund umgeht statt mit einem Foto, und in dem die Familie sieht, wo der Welpe aufgewachsen ist. Ich möchte über den Tag des Hundes sprechen: wie viele Stunden er allein ist, wer zu Hause ist, was im Sommer geschieht, wenn die Familie verreist. Alltägliche Fragen, und sie verhindern fast alle Probleme.</p>
   </div>
   </section>
+  <!--/BLOCCO:6-->
 
   <section class="section">
   <div class="section-inner content-single">
@@ -143,8 +155,10 @@ custom_content: |
   </div>
   </section>
 
-  
+
+  <!--BLOCCO:7-->
   <!--CORRELATI-->
+  <!--/BLOCCO:7-->
 
 
   <p>Wir sagen jeder Familie dasselbe: wenn Sie den Hund eines Tages nicht mehr halten können, kommt er zu uns zurück. Seit 2013 war es nie nötig &mdash; wo diese Hunde gelandet sind, erzählen wir in den <a href="/de/staffordshire-in-der-familie-geschichten/" title="Familiengeschichten">Familiengeschichten</a>.</p>
@@ -156,10 +170,12 @@ custom_content: |
   <li><a href="/de/huendinnen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Hündinnen">Staffordshire Bull Terrier Hündinnen</a></li>
   </ul>
   </div>
-  
+
+  <!--BLOCCO:8-->
   <section class="cta-section">
   <h2>Möchten Sie uns kennenlernen?</h2>
   <p>Besuchen Sie uns in Ostellato (FE) oder kontaktieren Sie uns auf WhatsApp</p>
   <a href="/wa/393924635584" class="btn" title="Auf WhatsApp schreiben">Auf WhatsApp Schreiben</a>
   </section>
+  <!--/BLOCCO:8-->
 ---

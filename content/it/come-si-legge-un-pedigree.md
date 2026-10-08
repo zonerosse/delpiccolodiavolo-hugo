@@ -12,6 +12,7 @@ thumb: "/images/blog/icone/come-si-legge-un-pedigree.webp"
 description: "Cosa mostra davvero un certificato ENCI, cosa aggiunge SBTPedigree e come si usa il test mating per studiare un accoppiamento prima di farlo."
 slug: "come-si-legge-un-pedigree"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -27,6 +28,7 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:1-->
 
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> &rsaquo;
@@ -37,12 +39,13 @@ custom_content: |
 
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>Leggere un pedigree di Staffordshire Bull Terrier significa usare due strumenti diversi. Il <strong>certificato ENCI</strong> &egrave; il documento ufficiale: certifica genitori, nonni e bisnonni, riporta i titoli registrati e gli esami depositati, ma non mostra n&eacute; i test genetici n&eacute; una sola fotografia dei cani. <strong>SBTPedigree</strong>, l'archivio internazionale della razza, aggiunge quello che manca: le foto degli antenati generazione per generazione, i test genetici caricati, i titoli esteri e soprattutto la discendenza, cio&egrave; cosa ha prodotto quel cane. La sua funzione di prova di accoppiamento calcola il coefficiente di consanguineit&agrave; teorico di una cucciolata e mostra su quali antenati si concentra: lo stesso cane pu&ograve; avere un coefficiente del 9 per cento su otto generazioni e del 21 sul pedigree completo. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
 
   <p>&laquo;Ha il pedigree&raquo; &egrave; la frase che chiude ogni discussione, e non vuol dire quasi niente. Il pedigree dice <strong>da chi discende</strong> un cane, non quanto vale. E soprattutto: esistono due documenti diversi, con due scopi diversi, e chi non alleva di solito ne conosce solo uno.</p>
 
+  <!--BLOCCO:2-->
   <h2>Il certificato ENCI: l'atto ufficiale</h2>
 
   <p>Il certificato genealogico che l'ENCI rilascia per uno Staffordshire Bull Terrier &egrave; il documento <strong>ufficiale</strong>. Certifica chi sono i genitori, i nonni e i bisnonni di quel cane, e riporta i <strong>titoli registrati</strong>: Campione Italiano, campionati esteri riconosciuti, e gli eventuali esami ufficiali depositati.</p>
@@ -65,7 +68,9 @@ custom_content: |
   </ul>
 
   <p>Con il certificato ENCI in mano sai che il cane &egrave; chi dice di essere. Non sai com'&egrave; fatto, e non sai cosa lascia.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>SBTPedigree: dove si guarda davvero</h2>
 
   <p><a href="https://sbtpedigree.com/" target="_blank" rel="noopener" aria-label="SBTPedigree, archivio della razza (si apre in una nuova scheda)">SBTPedigree</a> &egrave; un archivio internazionale dedicato allo Staffordshire Bull Terrier, alimentato da allevatori e proprietari di mezzo mondo. Non &egrave; un documento ufficiale, ed &egrave; proprio questo che lo rende utile: contiene le cose che il certificato non pu&ograve; contenere.</p>
@@ -79,7 +84,9 @@ custom_content: |
   <p><strong>I titoli</strong>, anche quelli esteri che sul certificato italiano non compaiono.</p>
 
   <p><strong>La discendenza</strong>, che SBTPedigree mostra e il certificato ENCI no: cosa ha prodotto quel cane, in quali accoppiamenti, con quali risultati. &Egrave; l'informazione che pesa di pi&ugrave; e che nessun certificato ti d&agrave; &mdash; un soggetto si giudica anche da quello che lascia.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>La prova di accoppiamento</h2>
 
   <p>C'&egrave; poi la funzione che uso di pi&ugrave;, e che quasi nessuno fuori dall'ambiente conosce: il <strong>test mating</strong>.</p>
@@ -108,7 +115,9 @@ custom_content: |
   <p>Degli antenati raddoppiati, il terzo punto &egrave; quello che conta davvero. Non basta sapere <em>quanto</em> si stringe: bisogna sapere <strong>su chi</strong>. Raddoppiare quattordici volte su un soggetto significa scommettere che quel cane valga la pena di essere fissato &mdash; e se ci si sbaglia, si fissano anche i suoi difetti.</p>
 
   <p>&Egrave; il motivo per cui un accoppiamento si studia per mesi. Non si sceglie un maschio perch&eacute; &egrave; bello o perch&eacute; ha vinto: si guarda cosa succede quando quelle due genealogie si incontrano.</p>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>Come usarlo per controllare un allevatore</h2>
 
   <p>Ed &egrave; qui che la cosa diventa utile a chi sta cercando un cucciolo, non solo a chi alleva.</p>
@@ -120,7 +129,9 @@ custom_content: |
   <p><strong>Confronta con quello che ti hanno detto.</strong> Se le due cose non tornano, hai la risposta senza dover discutere.</p>
 
   <p>E un dettaglio che vale la pena conoscere per valutare un allevamento: sul sito ENCI, con il <strong>numero di microchip</strong>, si consulta anche il numero di cucciolate di una femmina. Serve a verificare il ritmo di un allevamento senza chiederlo a nessuno.</p>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>I nostri</h2>
 
   <p>I cani di Del Piccolo Diavolo sono registrati su SBTPedigree, e da ogni scheda del sito c'&egrave; il link diretto alla loro pagina. Nelle schede trovi anche il numero di microchip e il numero di libro genealogico, che sono le due chiavi per fare le verifiche di cui sopra.</p>
@@ -148,6 +159,7 @@ custom_content: |
   <div class="article-footer">
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
   </div>
+  <!--/BLOCCO:6-->
 
   </article>
   </div>

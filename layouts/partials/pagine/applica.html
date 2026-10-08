@@ -1,0 +1,45 @@
+{{- /* Applica al testo di una pagina le modifiche del gestionale: blocchi spenti, titolo grande (h1),
+       frase di apertura, riquadro "Leggi anche". Toglie sempre i segni <!--BLOCCO:n-->.
+       Uso: (partial "pagine/applica.html" (dict "p" . "c" $testo)). Vedi tools/blocchi/segna.py. */ -}}
+{{- $p := .p -}}{{- $c := .c -}}
+{{- $m := partial "pagine/mod.html" $p -}}
+{{- range $m.spente -}}
+  {{- $c = replaceRE (printf `(?s)<!--BLOCCO:%v-->.*?<!--/BLOCCO:%v-->` . .) "" $c -}}
+{{- end -}}
+{{- $c = replaceRE `<!--/?BLOCCO:\d+-->` "" $c -}}
+{{- with $m.h1 -}}
+  {{- $nuovo := . -}}
+  {{- with findRESubmatch `(?s)(<h1[^>]*>)(.*?)(</h1>)` $c 1 -}}
+    {{- $c = replace $c (index (index . 0) 0) (printf "%s%s</h1>" (index (index . 0) 1) (htmlEscape $nuovo)) 1 -}}
+  {{- end -}}
+{{- end -}}
+{{- with $m.ap -}}
+  {{- $nuovo := . -}}
+  {{- with partial "pagine/apertura.html" $c -}}
+    {{- $vecchio := . -}}
+    {{- with findRESubmatch `^(<p\b[^>]*>)` $vecchio 1 -}}
+      {{- $c = replace $c $vecchio (printf "%s%s</p>" (index (index . 0) 1) (htmlEscape $nuovo)) 1 -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- with $m.link -}}
+  {{- $L := site.Language.Lang -}}
+  {{- $voci := slice -}}
+  {{- range . -}}
+    {{- $t := index . $L | default "" -}}
+    {{- $pg := partial "pagine/da-chiave.html" .key -}}
+    {{- if and $t $pg (ne $pg.RelPermalink $p.RelPermalink) -}}
+      {{- $voci = $voci | append (printf `<li><a href="%s" title="%s">%s</a></li>` $pg.RelPermalink (htmlEscape $t) (htmlEscape $t)) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if $voci -}}
+    {{- $tit := index (dict "it" "Leggi anche" "en" "Read also" "de" "Lesen Sie auch") $L -}}
+    {{- $box := printf "<section class=\"section\"><div class=\"section-inner\"><div class=\"related-articles\"><h3>%s</h3><ul>%s</ul></div></div></section>\n" $tit (delimit $voci "") -}}
+    {{- if in $c `<section class="cta-section"` -}}
+      {{- $c = replace $c `<section class="cta-section"` (printf "%s<section class=\"cta-section\"" $box) 1 -}}
+    {{- else -}}
+      {{- $c = printf "%s\n%s" $c $box -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $c -}}

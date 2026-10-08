@@ -12,6 +12,7 @@ thumb: "/images/blog/icone/cuccioli-socializzati-cosa-vuol-dire.webp"
 description: "The sensitive window runs from the third to the twelfth week: what a puppy can really meet at the kennel, what it cannot, and what is left for the family to do."
 slug: "socialised-puppies-what-it-means"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -27,6 +28,7 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:1-->
 
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> &rsaquo;
@@ -40,6 +42,7 @@ custom_content: |
 
   <p>&ldquo;Socialised puppies&rdquo; is one of the most common phrases in adverts, and like &ldquo;parents on site&rdquo; it means nothing until somebody specifies <strong>with what</strong>. In dogs the sensitive period for socialisation runs from the third to the twelfth week of life: by the time a Staffordshire Bull Terrier puppy leaves the kennel, at the 60 to 70 days Italian law and good practice allow, five or six of those ten weeks are gone. The more important half of the work is still to come, and the family will do it. A serious breeder does not only tell you what they have done: they also tell you what they could not do &mdash; traffic, children if there are none at the kennel, other species, and being left alone, which a puppy among its littermates has never experienced. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
+  <!--BLOCCO:2-->
   <h2>The window: what ethology says</h2>
 
   <p>This is not my opinion, it is settled literature. The <strong>sensitive period for socialisation</strong> in dogs runs roughly from the third to the twelfth week of life, with the core between the fourth and the eighth. The classic reference is the work of Scott and Fuller, published in 1965; today the <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="AVSAB position statement on puppy socialisation (opens in a new tab)">AVSAB position statement on puppy socialisation</a> names the first three months of life as the most important period, and advises against waiting for the end of the vaccination course to begin.</p>
@@ -49,7 +52,9 @@ custom_content: |
   <p>The consequence is arithmetic. Italian law forbids rehoming before <strong>sixty days</strong>: at that age a puppy has spent five of the ten weeks that count at the kennel, and the better half of the work is still ahead.</p>
 
   <p>Every extra week changes the sum. Our puppies stay until <strong>seventy days</strong> &mdash; ten more, which within the sensitive window is no detail: it is a seventh of the useful period, spent somewhere new things arrive in measured doses rather than all at once on day one in an unfamiliar house.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>What it can really have met before leaving</h2>
 
   <p>Far less than the word &ldquo;socialised&rdquo; suggests, and almost all of it within a narrow perimeter &mdash; which widens a little with every extra week.</p>
@@ -59,7 +64,9 @@ custom_content: |
   <p>And, if the kennel sits on a road rather than isolated in the countryside, <strong>the noises of the outside world heard from a distance</strong>: traffic, passing voices, church bells. It is not crossing a city on a lead, but it is a great deal more than silence.</p>
 
   <p>Then there is one element almost nobody names, and at this stage it counts for more than many stimuli: <strong>the dam</strong>. A settled bitch, in an environment she knows, raises steadier puppies. A stressed one raises more reactive puppies, and no protocol fixes that.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>What it cannot have met, and why</h2>
 
   <p>This is the part adverts leave out.</p>
@@ -75,7 +82,9 @@ custom_content: |
   <p>This applies to us too, and it is right to say so: <strong>there are no other animals here</strong>, apart from a neighbour's cat crossing the courtyard now and then. A puppy leaving us has never seen a hen or a horse, and if the new family has them, that work is done there.</p>
 
   <p><strong>Being left alone.</strong> A puppy at a kennel is never alone: there are the littermates, the mother, the people. Solitude is learned afterwards, in the new home, and it is one of the things that most often goes wrong.</p>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>And what about Bio Sensor?</h2>
 
   <p>Whenever early stimulation comes up, so does <strong>Bio Sensor</strong>, or ENS: five exercises of a few seconds each, once a day, from the third to the sixteenth day of life. In litter announcements it is quoted as though it were a guarantee of good temperament.</p>
@@ -85,13 +94,17 @@ custom_content: |
   <p>That does not mean ENS does harm. It means that anyone presenting it as the reason their puppy will be well balanced is promising more than is known. We have written about it at length in our guide to <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor: what the research actually says">what the research actually says about Bio Sensor</a>.</p>
 
   <p>And there is a practical consequence for this article: <strong>a kennel that only tells you about the first sixteen days is telling you about the least important part.</strong> The question to ask is what happened from the third week onwards.</p>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>So what does &ldquo;socialised&rdquo; actually mean</h2>
 
   <p>That the puppy is <strong>started</strong>, not finished. That it has a base to build on rather than a blank sheet. That the weeks spent at the kennel &mdash; five or six of them &mdash; were not wasted.</p>
 
   <p>But if an advert just says &ldquo;socialised&rdquo;, there is one question to ask: <strong>with what, exactly?</strong> A breeder who knows what they are doing answers with a list, not with an adjective. And if the list is short, that is fine too &mdash; as long as it is said.</p>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:7-->
   <h2>What we do, and what we do not</h2>
 
   <p>Our puppies are born indoors and stay there for the first month, in the whelping box, which is not in a silent room: it sits near the television and the radio, because the noise of a lived-in house is the first thing a puppy has to get used to.</p>
@@ -111,7 +124,9 @@ custom_content: |
   <p><strong>The vet comes to us.</strong> Always for large litters, sometimes I go for small ones &mdash; but the rule is that he comes: taking unvaccinated puppies into a clinic, where sick dogs pass through, is not ideal. The flip side is that the puppy does not experience a car journey before leaving, and that is something it will learn later.</p>
 
   <p>What we <strong>do not</strong> do is promise that the work is finished by the time a puppy leaves. It is not, at sixty days or at seventy. When a puppy goes, it still has several weeks of open sensitive window ahead, and it will spend them with its family.</p>
+  <!--/BLOCCO:7-->
 
+  <!--BLOCCO:8-->
   <h2>The ones who stay longer get socialised properly</h2>
 
   <p>There is a category of puppies that follows a different path: the ones that for some reason stay longer &mdash; often those destined abroad, who must wait for the rabies vaccination and do not leave before four months.</p>
@@ -119,7 +134,9 @@ custom_content: |
   <p>Those puppies <strong>I socialise myself</strong>. After the second vaccination I start taking them on a lead around the village, and not on their own: <strong>with their mother alongside</strong>. A puppy on its first outing is almost always a little hesitant &mdash; the road is wide, noises come from every direction, the lead is new. But if its mother is walking ahead of it, and she knows that road and is not bothered by it, the puppy follows her willingly. What the mother teaches in three walks, no protocol teaches at all.</p>
 
   <p>That is why a puppy that stays until four months leaves with an advantage: it has finished the sensitive window here, guided by someone who speaks its language.</p>
+  <!--/BLOCCO:8-->
 
+  <!--BLOCCO:9-->
   <h2>The first four weeks at home: the ones that decide</h2>
 
   <p>This is the part of the path the breeder does not control, and it weighs as much as theirs.</p>
@@ -131,7 +148,9 @@ custom_content: |
   <p><strong>Solitude is taught from day one</strong>, with very short absences, extended little by little, with no drama on leaving or returning.</p>
 
   <p><strong>If something goes wrong, call somebody.</strong> A puppy that is afraid to go out at four months will not &ldquo;grow out of it&rdquo;: that is the moment to get help, not a year later.</p>
+  <!--/BLOCCO:9-->
 
+  <!--BLOCCO:10-->
   <h2>In short</h2>
 
   <ul>
@@ -159,13 +178,16 @@ custom_content: |
   <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious breeder">How to recognise a serious breeder</a></li>
   </ul>
   </div>
+  <!--/BLOCCO:10-->
 
   </article>
   </div>
 
+  <!--BLOCCO:11-->
   <section class="cta-section">
   <h2>Would you like to see where they grow up?</h2>
   <p>The Del Piccolo Diavolo kennel receives visitors by appointment in Ostellato, province of Ferrara. You see the house, the courtyard and the mothers.</p>
   <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20to%20see%20where%20the%20puppies%20grow%20up" class="btn" title="Message us on WhatsApp" target="_blank" rel="noopener" aria-label="Message us on WhatsApp to arrange a visit (opens in a new tab)">Arrange a visit</a>
   </section>
+  <!--/BLOCCO:11-->
 ---

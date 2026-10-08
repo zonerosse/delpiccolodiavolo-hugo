@@ -10,6 +10,8 @@
   {{ $brand := "Del Piccolo Diavolo" }}
   {{ $base := .Title }}
   {{ with .Params.titleSeo }}{{ $base = . }}{{ end }}
+  {{/* Titolo per Google cambiato dal gestionale (Google → Pagine del sito), se c'è */}}
+  {{ with (partial "pagine/mod.html" .).title }}{{ $base = . }}{{ end }}
   {{/* Numero delle recensioni nel titolo: <!--REC-TOTALE--> nel titleSeo viene
        sostituito con recensioniTotale di hugo.toml, cosi' il titolo non va
        piu' aggiornato a mano. */}}
@@ -25,7 +27,7 @@
     {{ $titolo = $conBrand }}
   {{ end }}
   <title>{{ $titolo }}</title>
-  <meta name="description" content="{{ .Description | default .Site.Params.description }}">
+  <meta name="description" content="{{ (partial "pagine/desc.html" .) | default .Site.Params.description }}">
 
   {{/* Preconnect to external domains */}}
 
@@ -72,9 +74,9 @@
 
   <!-- Open Graph -->
   <meta property="og:type" content="{{ if .Params.articolo }}article{{ else }}website{{ end }}">
-  {{ if .Params.articolo }}{{ $pub := cond .Date.IsZero (.Lastmod.Format "2006-01-02T15:04:05-07:00") (.Date.Format "2006-01-02T15:04:05-07:00") }}
+  {{ if .Params.articolo }}{{ $pub := cond .Date.IsZero ((partial "pagine/lastmod.html" .).Format "2006-01-02T15:04:05-07:00") (.Date.Format "2006-01-02T15:04:05-07:00") }}
   <meta property="article:published_time" content="{{ $pub | safeHTML }}">
-  <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}">
+  <meta property="article:modified_time" content="{{ (partial "pagine/lastmod.html" .).Format "2006-01-02T15:04:05-07:00" | safeHTML }}">
   <meta property="article:author" content="Paolo Boldrini">{{ end }}
   {{ $loc := "it_IT" }}{{ if eq .Site.Language.Lang "en" }}{{ $loc = "en_GB" }}{{ end }}{{ if eq .Site.Language.Lang "de" }}{{ $loc = "de_DE" }}{{ end }}
   <meta property="og:locale" content="{{ $loc }}">
@@ -83,7 +85,7 @@
   {{ end }}{{ end }}
   <meta property="og:site_name" content="Del Piccolo Diavolo">
   <meta property="og:title" content="{{ $base }}">
-  <meta property="og:description" content="{{ .Description | default .Site.Params.description }}">
+  <meta property="og:description" content="{{ (partial "pagine/desc.html" .) | default .Site.Params.description }}">
   <meta property="og:url" content="{{ .Permalink }}">
   {{/* Anteprima social: JPEG, non AVIF. Facebook, LinkedIn e X non lo
        gestiscono in modo affidabile e la condivisione esce senza immagine. */}}
@@ -127,7 +129,7 @@
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ $base }}">
-  <meta name="twitter:description" content="{{ .Description | default .Site.Params.description }}">
+  <meta name="twitter:description" content="{{ (partial "pagine/desc.html" .) | default .Site.Params.description }}">
   <meta name="twitter:image" content="{{ $og | absURL }}">
   <meta name="twitter:image:alt" content="{{ $ogAlt }}">
 

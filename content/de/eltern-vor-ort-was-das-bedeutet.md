@@ -12,6 +12,7 @@ thumb: "/images/blog/icone/genitori-visibili-cosa-significa.webp"
 description: "Warum der Vater eines Wurfs fast nie in der Zucht zu sehen ist, wie man einen Deckrüden aus der Ferne überprüft und worauf man bei der Mutter achten sollte."
 slug: "eltern-vor-ort-was-das-bedeutet"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -27,6 +28,7 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:1-->
 
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/de/" title="Startseite">Startseite</a> &rsaquo;
@@ -40,6 +42,7 @@ custom_content: |
 
   <p>&bdquo;Beide Elterntiere vor Ort&ldquo; gehört zu den häufigsten Formulierungen in Welpenanzeigen für den Staffordshire Bull Terrier, und sie klingt nach einer Garantie für Seriosität. Wörtlich genommen beschreibt sie jedoch etwas anderes, als sie zu versprechen scheint: die Mutter ist immer da, weil die Welpen dort geboren wurden, der Vater fast nie &mdash; und das nicht aus Verschwiegenheit. Ein Zuchtprogramm, das nach vorn denkt, sucht den Deckrüden auswärts, oft im Ausland, weil die Hunde, die den Anforderungen an Gentests, Inzuchtkoeffizient und strukturelle Passung genügen, selten und weit entfernt sind. Ein Rüde tausend Kilometer entfernt lässt sich allerdings gründlicher prüfen als einer, den man zwei Minuten lang im Hof gesehen hat, denn von ihm gibt es Tests, Ahnentafel und Nachkommen. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
+  <!--BLOCCO:2-->
   <h2>Richtig hieße es &bdquo;Mutter vor Ort&ldquo;</h2>
 
   <p>Die Mutter ist immer da, weil die Welpen dort geboren wurden. Der Vater fast nie, und das nicht aus Zurückhaltung: ein ernsthaftes Zuchtprogramm sucht den Rüden draußen.</p>
@@ -47,7 +50,9 @@ custom_content: |
   <p>Bei der Planung einer Verpaarung wählt man nicht den bequemsten Hund, sondern den, der ausgleicht, was der Hündin fehlt. Man prüft die Gentests, den theoretischen Inzuchtkoeffizienten des Wurfs, die strukturelle Passung &mdash; Bau, Kopf, Bewegung. Und die Hunde, die diesen Anforderungen international genügen, <strong>kann man zählen</strong>. Es sind wenige, und sie leben weit weg.</p>
 
   <p>Die Wahrheit, die keine Anzeige schreibt, lautet: um über Jahre etwas aufzubauen, muss man in neun von zehn Fällen nach außen gehen. Und nach außen zu gehen hat einen genauen Preis, zwischen Decktaxe, Reise und Hotel: er steht <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/#costi-cucciolata" title="Was uns ein Wurf kostet, Posten für Posten">in den Kosten eines Wurfs, Posten für Posten</a>.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>Der Rüde im eigenen Haus: die Rechnung geht nicht auf</h2>
 
   <p>Nehmen wir den günstigsten Fall. Eine Zucht hat einen wirklich guten Rüden im Haus: getestet, betitelt, mit einer soliden Linie dahinter.</p>
@@ -57,7 +62,9 @@ custom_content: |
   <p>Seine Töchter können nicht mit ihm verpaart werden. Seine Enkelinnen ebenso wenig, es sei denn, man treibt den Inzuchtkoeffizienten über jede vernünftige Schwelle. Innerhalb von zwei Generationen wird dieser Rüde, der die Stärke der Zucht war, zu dem Punkt, an dem sich die Linie schließt.</p>
 
   <p><strong>Eine Zucht, die immer den Vater im Haus zeigt, ist eine Zucht, die nicht nach außen sucht.</strong> Das ist keine Garantie, sondern die Grenze dessen, der sich mit dem begnügt, was er ohnehin besitzt.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>Wie prüft man dann einen Rüden tausend Kilometer entfernt?</h2>
 
   <p>Besser, als man je einen Hund prüfen könnte, den man zwei Minuten im Hof gesehen hat.</p>
@@ -73,7 +80,9 @@ custom_content: |
   <p>Vier Prüfungen, die jeder von zu Hause aus durchführen kann, an einem Hund, den er nie sehen wird. Gegen &bdquo;ich habe ihn gesehen, er war schön&ldquo;.</p>
 
   <p>Und es gibt eine fünfte, die sich nicht von zu Hause erledigen lässt, in dieser Welt aber besser funktioniert als alle anderen: <strong>die Kontrolle übernehmen die anderen Züchter</strong>. In einer Rasse, in der sich alle kennen, fliegt eine Ahnentafel mit einem Hund, der nicht hineingehört, oder ein aufgeblasener Titel binnen Wochen auf &mdash; weil jemand diese Hunde im Ring gesehen hat und jemand anders einen Sohn oder Bruder besitzt. Transparenz ist hier kein guter Wille: es geht schlicht nicht anders.</p>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>Und worauf achtet man bei der Mutter wirklich?</h2>
 
   <p>Hier zählt der Besuch sehr wohl, nur nicht aus den Gründen, die man vermutet.</p>
@@ -85,7 +94,9 @@ custom_content: |
   <p><strong>Wo sie geboren wurden und wo sie aufwachsen.</strong> Das ist vielleicht der wichtigste Punkt überhaupt, und er betrifft nicht die Mutter, sondern den Ort: ein Welpe, der im Haus aufwächst, zwischen Haushaltsgeräuschen und Menschen, kommt an die Familie gewöhnt in sein neues Zuhause. Einer, der in einer Halle aufwächst, nicht &mdash; so gesund seine Mutter auch sein mag.</p>
 
   <p><strong>Wer sonst da ist.</strong> Der Züchter, die anderen erwachsenen Hunde, wie sie aussehen und wie sie sich verhalten. Das sind die Hunde, die diese Selektion über Jahre hervorgebracht hat: sie sind das Ergebnis, nicht der Plan.</p>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>Zwei ehrliche Anmerkungen</h2>
 
   <p><strong>Eine säugende Hündin ist vielleicht nicht in Form.</strong> Eine Hündin, die acht Welpen großzieht, hat alles gegeben: stumpfes Fell, weniger Gewicht, müder Ausdruck. Das ist normal und gehört gesagt, statt beschönigt zu werden. Eine Hündin in der Laktation wie im Ring zu beurteilen, ergibt keinen Sinn.</p>
@@ -97,7 +108,9 @@ custom_content: |
   <p>Von diesem Tag an bis zum Absetzen haben wir die Wurfkiste geteilt: die Welpen schliefen getrennt neben der Mutter, und gesäugt wurde alle zwei bis drei Stunden unter Aufsicht.</p>
 
   <p>Das erzählt sich schwer und steht nirgendwo sonst. Aber wer eine Zucht besucht, sollte wissen, dass eine von ihren Welpen getrennte Mutter nicht zwangsläufig ein Zeichen von Unehrlichkeit ist: manchmal ist es das einzig Richtige. Der Unterschied liegt allein in einem Punkt &mdash; <strong>ob der Züchter es erzählt oder zu verbergen versucht</strong>.</p>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:7-->
   <h2>Kurz gefasst</h2>
 
   <p>&bdquo;Eltern vor Ort&ldquo; ist eine Formel, keine Garantie. Worauf es ankommt:</p>
@@ -136,13 +149,16 @@ custom_content: |
   <li><a href="/de/wuerfe-staffordshire-bull-terrier/" title="Würfe Staffordshire Bull Terrier: geplant und bisherige">Würfe Staffordshire Bull Terrier: geplant und bisherige</a></li>
   </ul>
   </div>
-  
+  <!--/BLOCCO:7-->
+
   </article>
   </div>
 
+  <!--BLOCCO:8-->
   <section class="cta-section">
   <h2>Möchten Sie unsere Hunde kennenlernen?</h2>
   <p>Die Zucht Del Piccolo Diavolo empfängt nach Terminvereinbarung in Ostellato, Provinz Ferrara. Sie sehen die Mütter, die Welpen und das Haus, in dem sie aufwachsen.</p>
   <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20m%C3%B6chte%20Ihre%20Hunde%20kennenlernen" class="btn" title="Schreiben Sie uns auf WhatsApp" target="_blank" rel="noopener" aria-label="Schreiben Sie uns auf WhatsApp für einen Termin (wird in einem neuen Tab geöffnet)">Termin vereinbaren</a>
   </section>
+  <!--/BLOCCO:8-->
 ---

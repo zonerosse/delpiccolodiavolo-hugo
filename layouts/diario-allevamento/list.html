@@ -2,13 +2,13 @@
 
 <div class="page-hero">
   {{ partial "breadcrumb.html" . }}
-  <h1>{{ .Title }}</h1>
-  {{ with .Description }}<p>{{ . }}</p>{{ end }}
+  <h1>{{ or (partial "pagine/mod.html" .).h1 .Title }}</h1>
+  {{ with partial "pagine/desc.html" . }}<p>{{ . }}</p>{{ end }}
 </div>
 
 <section class="section">
   <div class="section-inner">
-    {{ with .Content }}<div class="diario-intro" style="max-width:760px;margin:0 auto 2.5rem;line-height:1.8;color:#4a3f35">{{ . }}</div>{{ end }}
+    {{ with partial "pagine/applica.html" (dict "p" . "c" (string .Content)) | safeHTML }}<div class="diario-intro" style="max-width:760px;margin:0 auto 2.5rem;line-height:1.8;color:#4a3f35">{{ . }}</div>{{ end }}
     <div class="diario-grid">
       {{ range .Pages.ByDate.Reverse }}{{ $p := . }}
       <article class="diario-card">

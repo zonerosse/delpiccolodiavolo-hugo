@@ -11,6 +11,7 @@ thumb: "/images/blog/icone/salute-esercizio-sicuro.webp"
 description: "Safe exercise for the Staffordshire Bull Terrier: the five-minute rule for puppies, activity for adults, heatstroke prevention and the signs of overload."
 slug: "staffy-safe-exercise"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -27,20 +28,22 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> ›
   <a href="/en/blog/" title="Blog">Blog</a> ›
   <span>Safe Exercise</span>
   </nav>
-  
+
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>The Staffordshire Bull Terrier needs exercise every day, but not endless running: how much depends on the dog, with at least two outings a day and no excessive strain while it is young. For puppies the guideline is five minutes of formal walking per month of age, twice a day, because growth plates in this breed close between 12 and 18 months and repeated impact before then causes damage that shows years later. In adults the main danger is heat: a short muzzle makes panting less efficient, and panting is a dog's only way to cool down. Walk in the cool hours, test the tarmac with the back of your hand for five seconds, and never leave the dog in a parked car. From about eight years old, keep the duration but lower the intensity. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
-  
-  
+
+
+  <!--BLOCCO:2-->
   <h2>Why exercise matters so much for the Staffy</h2>
   <p>The <strong>Staffordshire Bull Terrier</strong> was historically selected as a working dog, with powerful muscles, stamina and a great deal of energy. That genetic inheritance needs a proper outlet through daily physical activity.</p>
   <p>Regular, appropriate exercise gives:</p>
@@ -55,7 +58,9 @@ custom_content: |
   <p class="callout-title">🏆 Our experience</p>
   <p>In more than ten years with the breed we have seen that Staffies with a regular exercise routine show <strong>fewer behaviour problems, better stress management</strong> and a calmer family life. A tired dog is a happy dog.</p>
   </div>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>Exercise for puppies: the five-minute rule</h2>
   <p><strong>Staffordshire Bull Terrier puppies</strong> are full of energy, but their bones, joints and growth plates are still developing. Too much exercise, or the wrong kind, can cause permanent damage.</p>
   <h3>The golden rule</h3>
@@ -90,7 +95,9 @@ custom_content: |
   </div>
   <h3>When to increase exercise</h3>
   <p>In the Staffy the growth plates close between <strong>12 and 18 months</strong>. Only after that can you gradually increase the intensity and duration of exercise. An X-ray from your <a href="https://wsava.org/global-guidelines/" title="WSAVA global guidelines" target="_blank" rel="noopener" aria-label="WSAVA global guidelines (opens in a new tab)">vet</a> can confirm that they have closed completely.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>Exercise for adults: how much and how</h2>
   <p>An <strong>adult Staffordshire Bull Terrier</strong> (over 18 months) needs exercise every day, in at least 2 outings, but <strong>there is no ideal number of minutes for every dog</strong>: it depends on the individual, because some are more athletic and others calmer. What applies to all of them is avoiding excessive strain, above all while they are young.</p>
   <h3>Recommended activities</h3>
@@ -118,7 +125,9 @@ custom_content: |
   <p class="info-box-title">💡 The importance of mental stimulation</p>
   <p>15 minutes of mental work (problem-solving games, training, scent work) tire a dog as much as a 30-40 minute walk. Always combine physical and mental exercise for a balanced, contented Staffy.</p>
   </div>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>Beware of heat: preventing heatstroke</h2>
   <p>The <strong>Staffordshire Bull Terrier</strong> has a <a href="/en/boas-staffordshire-bull-terrier-breathing/" title="BOAS and breathing in the Staffordshire Bull Terrier">muzzle shorter than in many breeds</a> (it is not a brachycephalic breed, but in some lines the muzzle is too short) that makes it <strong>more sensitive to heat</strong> than long-muzzled breeds. Cooling by panting is less efficient.</p>
   <h3>The risks of heatstroke</h3>
@@ -163,7 +172,9 @@ custom_content: |
   <li><strong>Above 30 °C:</strong> keep outings to the bare minimum</li>
   </ul>
   </div>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>Signs of overload: when to stop</h2>
   <p>The Staffy is a dog that <strong>does not hold back</strong>: it would play to exhaustion to please its owner. It is up to you to recognise the signs of tiredness and stop before it is too much.</p>
   <h3>Signs during exercise</h3>
@@ -183,7 +194,9 @@ custom_content: |
   <li><strong>Swollen joints:</strong> joints that are hot or swollen</li>
   </ul>
   <p>If you notice these signs, <strong>reduce exercise</strong> and see your vet if they last more than 24-48 hours.</p>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:7-->
   <h2>Activities to avoid or limit</h2>
   <div class="alert">
   <p class="alert-title">🚫 Always avoid</p>
@@ -203,7 +216,9 @@ custom_content: |
   <li><strong>Frisbee on hard ground:</strong> prefer grass to cushion the landings</li>
   <li><strong>Agility before 18 months:</strong> wait for the growth plates to close</li>
   </ul>
+  <!--/BLOCCO:7-->
 
+  <!--BLOCCO:8-->
   <h2>Building a balanced routine</h2>
   <p>A well-structured routine makes sure your Staffy gets the exercise it needs without risk.</p>
   <h3>Example daily routine - adult</h3>
@@ -235,18 +250,26 @@ custom_content: |
   <li>Demanding sports only after 18 months</li>
   </ul>
   </div>
+  <!--/BLOCCO:8-->
 
+  <!--BLOCCO:9-->
   <h2>Mental work is not optional</h2>
   <p>A Staffordshire Bull Terrier that is physically tired but mentally under-occupied will find its own occupation, usually at the expense of your furniture. Ten minutes of scent work, a food game or a short training session with something genuinely new tire this breed more effectively than another kilometre of walking.</p>
   <p>Scattering the day's ration in the grass and letting the dog search for it takes no preparation and works remarkably well.</p>
+  <!--/BLOCCO:9-->
 
+  <!--BLOCCO:10-->
   <h2>Adapting exercise to age and condition</h2>
   <p>From about eight years old the duration stays and the intensity drops: more frequent, shorter, calmer outings, and a warm-up before anything strenuous. Dogs with hip or elbow dysplasia benefit particularly from swimming and from a stable weight, which is the cheapest and most effective joint treatment there is.</p>
   <p>On weight: this breed carries extra kilos in a way that is easily missed under the muscle. The ribs should be easy to feel with a flat hand, and a waist should be visible from above. An overweight Staffy loses years of comfortable movement, and the loss stays invisible until it is well advanced.</p>
+  <!--/BLOCCO:10-->
 
+  <!--BLOCCO:11-->
   <h2>Dog sports</h2>
   <p>Several disciplines suit the breed once the growth plates have closed. Agility fits its build and its drive, with full-height jumps only from 18 months; before that the work stays on the ground, with tunnels, low contacts and handling. Obedience, rally obedience and scent work are just as satisfying with far less strain on the joints, and canicross suits sporty owners with an adult, conditioned dog in cool weather. Whatever the sport, start with an instructor who builds warm-up and fitness first and obstacles only afterwards, and remember that intense exercise outdoors in summer is a serious risk for this breed.</p>
+  <!--/BLOCCO:11-->
 
+  <!--BLOCCO:12-->
   <h2>Frequently asked questions</h2>
 
   <div class="faq-list">
@@ -315,11 +338,12 @@ custom_content: |
   <li><a href="/en/puppy-initial-feeding/" title="Feeding a Staffordshire Bull Terrier puppy: first months">Feeding a Staffordshire Bull Terrier puppy: first months</a></li>
   </ul>
   </div>
-  
+
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   </div>
-  
+  <!--/BLOCCO:12-->
+
   </article>
   </div>
 ---

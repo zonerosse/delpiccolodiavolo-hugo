@@ -12,6 +12,7 @@ thumb: "/images/blog/icone/cuccioli-prima-passeggiata.webp"
 description: "Erster Leinenspaziergang für Ihren Staffordshire Bull Terrier Welpen: Ausrüstung, Timing, positive Einführung und gute Gewohnheiten aufbauen."
 slug: "welpen-erster-spaziergang"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -28,50 +29,66 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/de/" title="Startseite">Startseite</a> ›
   <a href="/de/blog/" title="Blog">Blog</a> ›
   <a aria-label="Welpen — Blog-Kategorie" href="/de/blog/#welpen" title="Welpen">Welpen</a> ›
   <span>Erster Spaziergang</span>
   </nav>
-  
+
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>Die ersten Spaziergänge eines Staffordshire Bull Terrier Welpen misst man in Minuten, nicht in Kilometern. Als Richtwert gelten etwa fünf Minuten geführter Spaziergang je Lebensmonat, zweimal täglich: mit drei Monaten fünfzehn Minuten, mit vier zwanzig. Die Grenze gibt es, weil sich die Wachstumsfugen bei dieser Rasse zwischen dem zwölften und achtzehnten Monat schließen und wiederholte Stoßbelastung vorher Schäden hinterlässt, die sich erst Jahre später zeigen. Bis zum Ende der Impfungen zu warten (bei uns etwa 14 Wochen) ist keine Lösung, weil sich das Sozialisierungsfenster, das von der dritten bis zur zwölften Woche reicht, dann schon geschlossen hat: kontrollierte Erfahrungen beginnen, sobald der Welpe da ist, an sauberen, ruhigen Orten, fern vom Kot fremder Hunde. In den ersten Wochen zählt, was der Welpe erlebt, nicht wie weit er läuft: fünf ruhige Minuten Schnüffeln sind mehr wert als dreißig an straffer Leine. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
-  
-  
+
+
+  <!--BLOCCO:2-->
   <h2>Wann anfangen — und das Impfdilemma</h2>
   <p>Der klassische Rat lautet, bis zum Abschluss der Grundimmunisierung um die sechzehnte Lebenswoche zu warten; mit dem Protokoll, dem wir folgen, setzt der Schutz früher ein, etwa mit 14 Wochen. Wörtlich befolgt ist dieser Rat schädlich, denn das Sozialisierungsfenster schließt sich schon früher, um die zwölfte Woche. Ein Welpe, der bis dahin nichts von der Welt sieht, hat die Phase verpasst, in der Neues am leichtesten angenommen wird — und Verhaltensprobleme aus mangelnder Sozialisierung sind ein weit häufigerer Abgabegrund als Infektionskrankheiten. Was „sozialisierter Welpe“ wirklich bedeutet und wie man es beim Besuch einer Zucht prüft, erklärt <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das heißt">sozialisierte Welpen: was das heißt</a>.</p>
   <p>Der sinnvolle Kompromiss, den heute die meisten verhaltensmedizinischen Fachgesellschaften empfehlen, ist kontrollierte Exposition ab dem Einzug. Tragen Sie den Welpen auf dem Arm durch die Straße. Lassen Sie ihn Verkehr, Fahrräder, Kinder, Marktstände und fremde Regenschirme aus sicherer Höhe beobachten. Besuchen Sie Bekannte mit geimpften, gesunden Hunden. Meiden Sie, bis der Welpe geschützt ist (mit unserem Protokoll etwa mit 14 Wochen), Orte, an denen unbekannte Hunde markieren, öffentliche Parks und den Boden im Wartezimmer der <a href="https://wsava.org/global-guidelines/vaccination-guidelines/" title="WSAVA-Leitlinien" target="_blank" rel="noopener" aria-label="WSAVA-Leitlinien (wird in einem neuen Tab geöffnet)">Tierarzt</a>praxis.</p>
   <p>Kurz gesagt: Kontakt mit der Welt ja, ab dem ersten Tag. Kontakt mit dem Kot unbekannter Hunde nein, bis die Immunisierung steht.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>Vorbereitung zu Hause</h2>
   <p>Beginnen Sie drinnen. Lassen Sie den Welpen jeweils wenige Minuten ein flaches Halsband und ein Y-Geschirr tragen, während etwas Angenehmes geschieht, bis er beides nicht mehr beachtet. Hängen Sie eine leichte Leine an und lassen Sie sie beim Spielen schleifen. Erst dann nehmen Sie die Leine auf und gehen 3 Meter durch den Flur.</p>
   <p>Wählen Sie zum Führen ein Geschirr statt eines Halsbands. Diese Rasse zieht, und der Druck eines Halsbands auf die Luftröhre eines wachsenden Welpen ist vermeidbar. Ein gut sitzendes Y-Geschirr mit Brustring verändert die Zugrichtung und macht die Sache für beide Seiten leichter.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>Der erste Gang nach draußen</h2>
   <p>Wählen Sie eine ruhige Straße, eine ruhige Uhrzeit und planen Sie 5 Minuten, nicht dreißig. Lassen Sie den Welpen das Tempo bestimmen, einschließlich der langen Minuten an einem einzelnen Geländer. Schnüffeln ist keine verlorene Zeit: so sammelt der Hund Informationen, und es ermüdet ihn wirksamer als Bewegung.</p>
   <p>Wundern Sie sich nicht, wenn der Welpe sich hinsetzt und nicht weitergeht. Das ist sehr häufig und keine Sturheit, sondern ein kleines Tier, überwältigt von einer noch nie dagewesenen Menge an Eindrücken. Gehen Sie in die Hocke, warten Sie, bieten Sie ein Leckerchen an und lassen Sie ihn selbst wieder starten. Einen ängstlichen Welpen vorwärtszuziehen lehrt ihn, dass die Leine Zwang bedeutet, und diese Lektion ist teuer rückgängig zu machen.</p>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>Dauer und Wachstumsfugen</h2>
   <p>Es gilt die Fünf-Minuten-Regel: etwa 5 Minuten geführter Spaziergang je Lebensmonat, zweimal täglich. 3 Monate, 15 Minuten; 4 Monate, 20. Das ist keine Vorsicht um ihrer selbst willen. Die Wachstumsfugen schließen sich bei dieser Rasse zwischen dem zwölften und achtzehnten Monat, und wiederholte Belastung davor verursacht Schäden, die erst Jahre später als Gelenkerkrankung sichtbar werden.</p>
   <p>Freies Spiel im Garten, bei dem der Welpe selbst aufhört, ist etwas anderes und darf großzügiger sein. Zu vermeiden sind lange Wege auf hartem Untergrund, Herunterspringen, wiederholtes Treppensteigen und Laufen neben dem Fahrrad.</p>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>Woran der Welpe gezielt gewöhnt werden sollte</h2>
   <p>Schreiben Sie eine Liste und arbeiten Sie sie ab: verschiedene Untergründe wie Metallgitter, Kies, nasses Gras und glatte Fliesen; Verkehrsgeräusche aus einer Entfernung, die keine Angst macht; Männer mit Bart und Mütze, die viele Welpen seltsam finden; Regenschirme, Rollstühle, Kinderwagen und Skateboards; und ruhige erwachsene Hunde mit bekanntem Wesen, die einem Welpen Hundemanieren besser beibringen als jede turbulente Welpenstunde.</p>
   <p>Qualität zählt weit mehr als Menge. Eine ruhige, positive Begegnung mit einem freundlichen erwachsenen Hund wiegt schwerer als zehn hektische, und ein einziges beängstigendes Erlebnis in diesem Alter kann Monate kosten.</p>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:7-->
   <h2>Angst erkennen und richtig reagieren</h2>
   <p>Ein Welpe, der die Rute einklemmt, die Ohren anlegt, sich hinter Ihre Beine zurückzieht, wiederholt gähnt oder Futter verweigert, das er sonst nimmt, hat Angst und ist nicht ungezogen. Richtig ist, den Abstand zum Auslöser zu vergrößern, zu warten, bis der Welpe sich entspannt, und sich nur so weit anzunähern, wie er ruhig bleibt.</p>
   <p>Angst lässt sich durch Trost nicht verstärken — diese verbreitete Vorstellung hat viel Schaden angerichtet. Beruhigen Sie den Welpen, nehmen Sie den Druck weg und versuchen Sie es an einem anderen Tag aus größerer Entfernung erneut.</p>
+  <!--/BLOCCO:7-->
 
+  <!--BLOCCO:8-->
   <h2>Leinenführigkeit ab dem ersten Tag</h2>
   <p>Diese Rasse ist kräftig, und ein Welpe, der lernt, dass Ziehen funktioniert, wird zum erwachsenen Hund, der Sie durch die Straße schleift. Die Regel ist einfach und unbequem: <strong>ist die Leine straff, bleiben Sie stehen</strong>. Wird sie locker, gehen Sie weiter. Mehr braucht es nicht, und kein Hilfsmittel ersetzt Konsequenz.</p>
   <p>Belohnen Sie die gewünschte Position, statt die unerwünschte zu korrigieren. Ein Leckerchen, immer wieder auf Höhe Ihres linken Knies gegeben, lehrt einen Welpen schneller, wo das Gute passiert, als jedes Zurückziehen.</p>
+  <!--/BLOCCO:8-->
 
+  <!--BLOCCO:9-->
   <h2>Häufige Fragen</h2>
   <p><strong>Mein Welpe setzt sich hin und geht nicht weiter.</strong> Warten. Gehen Sie in die Hocke, bleiben Sie entspannt und lassen Sie ihn selbst losgehen. Das legt sich nach wenigen Gängen, wenn Sie nie ziehen, und bleibt bestehen, wenn Sie es tun.</p>
   <p><strong>Halsband oder Geschirr?</strong> Geschirr zum Führen, Halsband zur Kennzeichnung. Ein Y-Geschirr, das die Schulter frei lässt, mit Brustring, ist für eine kräftige Rasse die beste Kombination.</p>
@@ -87,18 +104,19 @@ custom_content: |
   <li><a href="/de/welpen-erste-impfungen/" title="Erste Impfungen des Welpen: Plan und Auffrischung">Erste Impfungen des Welpen: Plan und Auffrischung</a></li>
   </ul>
   </div>
-  
+
   <div class="related-articles">
   <h3>Mehr zum Thema</h3>
   <ul>
   <li><a href="/de/staffy-sichere-bewegung/" title="Sichere Bewegung für Staffordshire Bull Terrier">Sichere Bewegung für Staffordshire Bull Terrier</a></li>
   </ul>
   </div>
-  
+
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>
-  
+  <!--/BLOCCO:9-->
+
   </article>
   </div>
 ---

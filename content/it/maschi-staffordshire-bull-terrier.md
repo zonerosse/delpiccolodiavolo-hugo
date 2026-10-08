@@ -8,6 +8,7 @@ translationKey: "maschi"
 description: "I maschi Staffordshire Bull Terrier dell'allevamento: Lothar, Campione Sloveno e Giovane Campione Italiano, Braveheart e Papillon, con test L2HGA e HC."
 slug: "maschi-staffordshire-bull-terrier"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -25,7 +26,8 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>Elitebull Lines</span>
@@ -44,12 +46,13 @@ custom_content: |
   <span>Ostellato FE</span>
   </div>
   </div>
-  
+
+  <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Il Nostro Approccio</span>
   <h2 class="section-title">Etica, Salute e Selezione Responsabile</h2>
-  
+
   <div class="intro-block">
   <p>Del Piccolo Diavolo non tiene maschi riproduttori di propriet&agrave;, ed &egrave; una scelta. Per ogni accoppiamento <a href="/genitori-visibili-cosa-significa/" title="Genitori visibili: cosa significa">lo stallone viene cercato fuori</a>, fra le linee inglesi Elitebull e irlandesi Lackyle, e scelto per correggere quello che manca alla femmina: se una fattrice ha una testa eccellente e un movimento migliorabile, serve un maschio solido sul movimento, non uno bello quanto lei. Tenere un maschio in casa significherebbe usarlo perch&eacute; c'&egrave;, e chiudere le linee su un solo soggetto. Prima di un accoppiamento chiediamo al proprietario i referti dei test genetici con il numero di microchip sopra, non promesse: se un maschio &egrave; testato per alcune patologie e non per tutte, lo sappiamo prima e lo scriviamo nella pagina di quella cucciolata.</p>
 
@@ -64,12 +67,14 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:2-->
+
+  <!--BLOCCO:3-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">I Nostri Maschi</span>
   <h2 class="section-title">Maschi Riproduttori</h2>
-  
+
   <!-- LOTHAR -->
   <article class="male-card male-featured">
   <div class="male-header">
@@ -93,8 +98,8 @@ custom_content: |
   </div>
   </div>
   </article>
-  
-  
+
+
   <!-- BRAVEHEART -->
   <article class="male-card">
   <div class="male-header">
@@ -114,7 +119,7 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   <!-- PAPILLON -->
   <article class="male-card">
   <div class="male-header">
@@ -134,14 +139,17 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   </div>
   </section>
-  
-    
+  <!--/BLOCCO:3-->
+
+
+  <!--BLOCCO:4-->
   <section class="cta-section">
   <h2>Vuoi Info sui Nostri Maschi?</h2>
   <p>Chiamaci o scrivici su WhatsApp per informazioni sui nostri riproduttori.</p>
   <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sui%20maschi%20Staffordshire%20Bull%20Terrier" class="btn" title="Scrivici su WhatsApp per info maschi">Scrivici su WhatsApp</a>
   </section>
+  <!--/BLOCCO:4-->
 ---

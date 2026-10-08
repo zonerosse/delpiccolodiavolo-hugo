@@ -9,6 +9,7 @@ translationKey: "faq"
 description: "Antworten auf häufig gestellte Fragen über Staffordshire Bull Terrier: Charakter, Gesundheit, Welpen, Kosten, Ernährung, Training. Zucht Del Piccolo Diavolo."
 slug: "faq-staffordshire-bull-terrier"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -21,26 +22,28 @@ custom_content: |
   <p class="hero-subtitle">Alles, was Sie über den Staffordshire Bull Terrier wissen möchten</p>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>Charakter</span><span>Gesundheit</span><span>Welpen</span><span>Kosten</span><span>Ernährung</span><span>Training</span><span>Zusammenleben</span>
   <span>Charakter</span><span>Gesundheit</span><span>Welpen</span><span>Kosten</span><span>Ernährung</span><span>Training</span><span>Zusammenleben</span>
   </div>
   </div>
-  
+
+  <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">FAQ</span>
   <h2 class="section-title">Ihre Fragen, Unsere Antworten</h2>
-  
+
   <div class="faq-intro">
   <p>Willkommen im FAQ-Bereich der <strong>Zucht Del Piccolo Diavolo</strong>.</p>
   <p>Wenn Sie Fragen haben, die hier nicht beantwortet werden, <a href="/wa/393924635584" title="Kontaktieren Sie uns auf WhatsApp">kontaktieren Sie uns auf WhatsApp</a>.</p>
   </div>
-  
+
   <div class="faq-container">
-  
+
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Ist der Staffordshire Bull Terrier gefährlich oder aggressiv?</h3>
@@ -48,7 +51,7 @@ custom_content: |
   </div>
   <div class="faq-answer">Der Staffordshire Bull Terrier steht in Italien auf keiner Liste gefährlicher Rassen: das Verzeichnis der Risikorassen wurde 2009 durch eine Verordnung des Gesundheitsministeriums abgeschafft, die die Verantwortung von der Rasse auf den Halter verlagert hat. Eine 2020 veröffentlichte Studie des Royal Veterinary College mit über 22.000 Hunden fand keinen signifikanten Unterschied in der Aggressivität, der auf die Rasse zurückzuführen wäre. Gegenüber Menschen beschreibt der <a href="/de/staffy-rassestandard/" title="Der Rassestandard des Staffordshire Bull Terrier">Standard</a> einen zuverlässigen Hund, und dabei entscheidet die Selektion des Wesens fast alles. Wirklich wissenswert ist etwas anderes: als Terrier kann er <strong>Reaktivität gegenüber anderen Hunden</strong> zeigen, meist zwischen Hunden desselben Geschlechts im Erwachsenenalter.</div>
   </div>
-  
+
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Ist der Staffordshire Bull Terrier für Kinder geeignet?</h3>
@@ -56,7 +59,7 @@ custom_content: |
   </div>
   <div class="faq-answer">Zuerst etwas, das für jede Rasse gilt: <strong>kein Hund sollte mit einem kleinen Kind allein gelassen werden</strong>. Die Aufsicht eines Erwachsenen ist keine Option, sondern Pflicht. Davon abgesehen ist es ein Hund, der für das <a href="/de/staffy-kinder-familie/" title="Staffy und Kinder: das Familienleben">Leben in der Familie</a> gemacht ist. Der Staffordshire Bull Terrier wird traditionell "Nanny Dog" genannt wegen seiner außergewöhnlichen Geduld mit Kindern. In der Zucht Del Piccolo Diavolo selektieren wir ausgeglichene und stabile Charaktere, perfekt für Familien. Unsere Staffys wachsen in Kontakt mit Kindern auf und entwickeln natürlich Sanftheit und Schutzinstinkt.</div>
   </div>
-  
+
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie viel kostet ein Welpe mit <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="ENCI-Rasseseite" target="_blank" rel="noopener" aria-label="ENCI-Rasseseite (wird in einem neuen Tab geöffnet)">ENCI</a>-Stammbaum?</h3>
@@ -64,7 +67,7 @@ custom_content: |
   </div>
   <div class="faq-answer">Es gibt keine Preisliste: was man zahlt, spiegelt Kosten wider, die bereits vor der Geburt der Welpen entstehen. Die Gentests beider Elterntiere auf L2HGA und HC werden einmal pro Hund bezahlt und gelten für die gesamte Zuchtlaufbahn. Die Eintragung des Wurfs ins ENCI-Zuchtbuch hat veröffentlichte, für alle gleiche Gebühren. Dazu kommen tierärztliche Untersuchungen während der Trächtigkeit, der Ultraschall um den 25. Tag, das Röntgenbild vor der Geburt, die ersten Impfungen, Entwurmungen und der Mikrochip. <strong>Ein sehr niedriger Preis bedeutet fast immer, dass etwas fehlt</strong>: die Tests, die Ahnentafel, oder Welpen, die vor den gesetzlich vorgeschriebenen 60 Tagen von der Mutter getrennt wurden. Woraus sich der <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Preis eines Staffordshire Bull Terrier Welpen">Preis eines Staffordshire Bull Terrier Welpen</a> Posten für Posten zusammensetzt, erklärt ein eigener Ratgeber.</div>
   </div>
-  
+
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Welche Gentests braucht der Staffordshire Bull Terrier?</h3>
@@ -72,7 +75,7 @@ custom_content: |
   </div>
   <div class="faq-answer">Der Staffordshire Bull Terrier hat drei wichtige Erbkrankheiten, für die es einen DNA-Test gibt: L2-HGA, die L-2-Hydroxyglutarazidurie, eine neurologische Erkrankung; HC, den juvenilen erblichen Katarakt (Gen HSF4); und die degenerative Myelopathie (Gen SOD1), eine Erkrankung des Rückenmarks, die nach dem achten Lebensjahr auftritt. Alle drei werden mit einem DNA-Test aus Speichelabstrich oder Blut geprüft. Alle werden rezessiv vererbt: Zwei freie Elterntiere können keine erkrankten Welpen bekommen, und deshalb zählt der Test der Zuchttiere mehr als jede schriftliche Garantie. Alle Zuchttiere von Del Piccolo Diavolo sind auf L2-HGA und HC getestet oder durch Abstammung frei, mit den Befunden der Eltern; die Zuchthündinnen zusätzlich auf degenerative Myelopathie, und die Laborbefunde sind auf der Website mit der Mikrochipnummer des jeweiligen Hundes veröffentlicht: Jeder kann sie herunterladen und prüfen, ohne danach fragen zu müssen. Jeder Welpe geht mit den Testbescheinigungen seiner Eltern.</div>
   </div>
-  
+
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Mit welchem Alter kann ich den Welpen nach Hause bringen?</h3>
@@ -80,7 +83,7 @@ custom_content: |
   </div>
   <div class="faq-answer"><a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Staffordshire Bull Terrier Welpen</a> werden nach 60 Tagen übergeben: das ist das gesetzliche Minimum in Italien, in der Zucht Del Piccolo Diavolo bleiben sie in der Regel bis 70 Tage. Für Familien aus einem anderen europäischen Land gelten andere Fristen: der Welpe reist mit etwa vier Monaten, denn Tollwutimpfung, Heimtierausweis und TRACES-Zeugnis werden benötigt (<a href="/de/staffordshire-bull-terrier-welpe-ins-ausland/">wie eine Vermittlung ins Ausland abläuft</a>). Diese Zeit ist grundlegend: In den ersten 8 Wochen lernt der Welpe von der Mutter die Grundlagen der Hundekommunikation und Selbstkontrolle. Frühere Übergabe ist illegal und schädlich.</div>
   </div>
-  
+
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Versteht sich der Staffy mit anderen Hunden?</h3>
@@ -88,7 +91,7 @@ custom_content: |
   </div>
   <div class="faq-answer">Das hängt vom einzelnen Hund ab, und das gehört klar gesagt: es ist ein Terrier, und in der Rasse gibt es eine Reaktivität gegenüber Artgenossen, die Sozialisierung mindert, aber nicht auslöscht &mdash; meist zwischen Hunden desselben Geschlechts, im Erwachsenenalter. Frühe Sozialisierung bleibt die beste Grundlage. Die Welpen der Zucht Del Piccolo Diavolo wachsen in Kontakt mit anderen ausgeglichenen erwachsenen Hunden auf und lernen die richtige Kommunikation. Mit früher und kontinuierlicher Sozialisierung ist der Staffy gesellig und verspielt. Viele unserer Staffys leben glücklich mit anderen Hunden.</div>
   </div>
-  
+
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Unterschied zwischen Staffy und Amstaff?</h3>
@@ -96,7 +99,7 @@ custom_content: |
   </div>
   <div class="faq-answer">Es sind zwei eigenständige, von der FCI anerkannte Rassen mit getrennten Standards und Zuchtbüchern. Der <strong>Staffordshire Bull Terrier</strong> ist der kleinere: 35,5-40,5 cm Schulterhöhe und 12,7-17 kg beim Rüden, mit kurzem breitem Kopf und kompaktem Bau. Der <strong>American Staffordshire Terrier</strong> ist größer und schlanker: 45,7-48,2 cm und 25-32 kg, mit längerem Fang. Der Unterschied ist nicht nur die Größe: es handelt sich um zwei seit über einem Jahrhundert getrennte Selektionen, eine englische und eine amerikanische, deren Linien sich nicht kreuzen. Der <strong>Pitbull</strong> ist in Italien keine anerkannte Rasse und erhält keine ENCI-Ahnentafel. Wer zwischen den ersten beiden schwankt, findet in <a href="/de/staffy-oder-amstaff-welche-rasse-passt-zu-ihnen/" title="Staffy oder Amstaff: der Test des Züchters">Staffy oder Amstaff, der Test des Züchters</a> die sieben Fragen, die es entscheiden.</div>
   </div>
-  
+
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie lange lebt ein Staffordshire Bull Terrier?</h3>
@@ -104,7 +107,7 @@ custom_content: |
   </div>
   <div class="faq-answer">Zwölf bis vierzehn Jahre, was für einen mittelgroßen Hund eine gute Lebenserwartung ist und zu den besten in der Gruppe der Molosser zählt. Die Rasse ist robust, ohne die <a href="/de/boas-staffordshire-bull-terrier-atmung/" title="BOAS und Atmung beim Staffordshire Bull Terrier">Atemprobleme brachyzephaler Rassen</a> und ohne die Gelenkerkrankungen großer Rassen. Die drei Erbkrankheiten mit DNA-Test &mdash; L2-HGA, erblicher Katarakt und degenerative Myelopathie &mdash; werden alle rezessiv vererbt und durch Tests der Elterntiere vermieden. Nach der Genetik beeinflusst nichts die Lebensdauer so stark wie das <strong>Gewicht</strong>: ein übergewichtiger Staffy altert früher, mit stärker belasteten Gelenken und geringerer Hitzetoleranz. Zwölf Jahre sind auch der Zeitraum, für den man sich mit einem Welpen bindet.</div>
   </div>
-  
+
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie viel Bewegung braucht ein Staffy?</h3>
@@ -112,7 +115,7 @@ custom_content: |
   </div>
   <div class="faq-answer">Regelmäßige Bewegung, keine extreme. Zwei Spaziergänge täglich von dreißig bis vierzig Minuten decken den Bedarf eines erwachsenen Hundes, sofern mindestens einer davon Schnüffeln und freie Bewegung erlaubt. Der Staffordshire Bull Terrier ist ein explosiver Hund, kein Ausdauerläufer: er leistet auf kurzen, intensiven Einheiten. Unterschätzt wird meist die geistige Arbeit: <strong>eine halbe Stunde Nasenarbeit ermüdet so sehr wie eine Stunde Laufen</strong>, ohne die Gelenke zu belasten. Beim Welpen gilt die Regel von fünf Minuten pro Lebensmonat je Spaziergang, weil sich die Wachstumsfugen erst zwischen dem zwölften und achtzehnten Monat schließen.</div>
   </div>
-  
+
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Ist der Staffy leicht zu erziehen?</h3>
@@ -120,10 +123,10 @@ custom_content: |
   </div>
   <div class="faq-answer">Er ist intelligent und stark auf Menschen bezogen, was die Erziehung einfacher macht als bei vielen Rassen &mdash; er bringt aber auch die typische Sturheit eines Terriers mit. Auf positive Verstärkung reagiert er hervorragend, auf Zwangsmethoden sehr schlecht: diese blockieren ihn bestenfalls und schaffen schlimmstenfalls Probleme, die vorher nicht da waren. Die Grundkommandos sitzen schnell. Woran sich von Anfang an zu arbeiten lohnt, sind der Rückruf &mdash; ein Terrier, der einem Reiz hinterherläuft, hört nichts mehr &mdash; und die Impulskontrolle. <strong>Beständigkeit schlägt Dauer</strong>: fünf Minuten täglich bringen mehr als eine Stunde am Sonntag.</div>
   </div>
-  
+
   </div>
   </div>
-  
+
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Woran erkennt man eine seriöse Zucht?</h3>
@@ -261,7 +264,8 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:2-->
+
   <section class="section">
   <div class="section-inner content-single">
   <div class="related-articles">
@@ -275,10 +279,12 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+
+  <!--BLOCCO:3-->
   <section class="dark-section">
   <h2>Haben Sie weitere Fragen?</h2>
   <p>Wir sind immer bereit, alle Fragen zum Staffordshire Bull Terrier zu beantworten.</p>
   <a href="/wa/393924635584" class="btn btn-gold" title="Auf WhatsApp schreiben">Auf WhatsApp Schreiben</a>
   </section>
+  <!--/BLOCCO:3-->
 ---

@@ -13,6 +13,9 @@ date: 2026-01-18
 lastmod: 2026-10-05
 ---
 
+
+<!--BLOCCO:1-->
+
 <section class="hero">
 <div class="hero-visual">
 <div class="hero-image">
@@ -29,12 +32,18 @@ lastmod: 2026-10-05
 </div>
 </section>
 
+<!--/BLOCCO:1-->
+
+
 <nav class="breadcrumb" aria-label="Breadcrumb">
 <a href="/en/" title="Home">Home</a> &rsaquo;
 <a href="/en/blog/" title="Blog">Blog</a> &rsaquo;
 <a aria-label="Puppies &mdash; blog category" href="/en/blog/#puppies" title="Puppy articles">Puppies</a> &rsaquo;
 <span>How to recognise a serious breeder</span>
 </nav>
+
+
+<!--BLOCCO:2-->
 
 <section class="section">
 <div class="section-inner content-single">
@@ -171,8 +180,17 @@ lastmod: 2026-10-05
 </div>
 </section>
 
+<!--/BLOCCO:2-->
+
+
+
+<!--BLOCCO:3-->
+
 <section class="cta-section">
 <h2>Would you like to meet our dogs?</h2>
 <p>The Del Piccolo Diavolo kennel receives visitors by appointment in Ostellato, province of Ferrara. You see the mothers, the puppies and the house they grow up in.</p>
 <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20to%20meet%20your%20dogs" class="btn" title="Message us on WhatsApp" target="_blank" rel="noopener" aria-label="Message us on WhatsApp to arrange a visit (opens in a new tab)">Arrange a visit</a>
 </section>
+
+<!--/BLOCCO:3-->
+

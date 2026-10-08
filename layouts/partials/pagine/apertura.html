@@ -1,0 +1,11 @@
+{{- /* Il paragrafo di apertura di una pagina: il primo <p> dopo l'h1 (entro 5000 caratteri) con almeno 15 parole.
+       Stessa regola per l'indice del gestionale e per la sostituzione. Riceve il testo, restituisce il <p> intero o "". */ -}}
+{{- $r := "" -}}
+{{- with findRESubmatch `(?s)</h1>(.*)` . 1 -}}
+  {{- $dopo := index (index . 0) 1 -}}
+  {{- if gt (len $dopo) 5000 }}{{ $dopo = substr $dopo 0 5000 }}{{ end -}}
+  {{- range findRE `(?s)<p\b[^>]*>.*?</p>` $dopo -}}
+    {{- if and (not $r) (ge (countwords (plainify .)) 15) }}{{ $r = . }}{{ end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $r -}}

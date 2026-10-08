@@ -22,6 +22,7 @@ correlati:
 slug: "welpen-staffordshire-bull-terrier"
 fonti_motivo: "Diese Seite beschreibt, wie die Welpen der Zucht Del Piccolo Diavolo geboren werden und aufwachsen: Es sind eigene Angaben der Zucht, deshalb gibt es keine externen Quellen zu nennen. Die Daten jedes Wurfs und die Befunde der Eltern sind im Zuchttagebuch und auf den Seiten der Zuchttiere veröffentlicht."
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -39,7 +40,8 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>Elitebull Lines</span>
@@ -58,14 +60,15 @@ custom_content: |
   <span>Ostellato FE</span>
   </div>
   </div>
-  
+
   <!-- Citazione allevamento -->
 
+  <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Galerie</span>
   <h2 class="section-title">Unsere Welpen</h2>
-  
+
   <div class="gallery-grid">
   <div class="gallery-item"><img src="/images/primo-piano-cucciolo.avif" alt="Staffordshire Bull Terrier Welpe" loading="lazy" decoding="async" width="300" height="282"></div>
   <div class="gallery-item"><img src="/images/cucciolo-con-cavallo.avif" alt="Staffordshire Bull Terrier Welpe posiert" loading="lazy" decoding="async" width="300" height="367"></div>
@@ -73,19 +76,25 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <!--ULTIMA-CUCCIOLATA-->
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <!--CUCCIOLATE-->
-  
+  <!--/BLOCCO:4-->
+
+  <!--BLOCCO:5-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Warum Uns Wählen</span>
   <h2 class="section-title">Unser Ansatz</h2>
-  
+
   <div class="zigzag">
 
-    
+
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Temperament und Sozialisierung</h3>
@@ -105,7 +114,7 @@ custom_content: |
   <img src="/images/foto1.avif" alt="Sozialisierte Staffordshire Bull Terrier Welpen zu Hause" loading="lazy" decoding="async" width="400" height="484">
   </div>
   </div>
-  
+
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Leben in der Familie</h3>
@@ -118,7 +127,9 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:5-->
+
+  <!--BLOCCO:7-->
   <section class="section">
   <div class="section-inner content-single">
   <span class="section-label">Wesen</span>
@@ -130,7 +141,9 @@ custom_content: |
 
   </div>
   </section>
+  <!--/BLOCCO:7-->
 
+  <!--BLOCCO:6-->
   <section class="section section-alt">
   <div class="section-inner content-single">
   <span class="section-label">Bevor sie geboren werden</span>
@@ -191,7 +204,9 @@ custom_content: |
 
   </div>
   </section>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:10-->
   <section class="section section-alt">
   <div class="section-inner content-single">
   <span class="section-label">Vermittlung ins Ausland</span>
@@ -200,6 +215,7 @@ custom_content: |
   <p><a href="/de/staffordshire-bull-terrier-welpe-ins-ausland/">Wie eine Vermittlung ins Ausland abl&auml;uft: Fristen, Papiere und Exportstammbaum &rarr;</a></p>
   </div>
   </section>
+  <!--/BLOCCO:10-->
 
   <section class="section section-alt">
   <div class="section-inner">
@@ -220,11 +236,12 @@ custom_content: |
   </div>
   </section>
 
+  <!--BLOCCO:9-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Häufige Fragen</span>
   <h2 class="section-title">FAQ zu Welpen</h2>
-  
+
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wann kann ich den Welpen nach Hause holen?</h3>
@@ -232,7 +249,7 @@ custom_content: |
   </div>
   <div class="faq-answer">Nicht vor <strong>60 Tagen</strong>, was in Italien gesetzlich vorgeschrieben und keine Entscheidung des Züchters ist: vorher braucht der Welpe noch Mutter und Geschwister, um seinen Biss zu dosieren und die Signale anderer Hunde zu lesen. In der Zucht Del Piccolo Diavolo gehen die Welpen zwischen 60 und 70 Tagen, nach der ersten Impfung, dem Mikrochip und mindestens einer Entwurmung. Für Familien im Ausland dauert es deutlich länger: die Tollwutimpfung ist nicht vor der zwölften Woche möglich, und danach müssen weitere einundzwanzig Tage vergehen, bis sie für die Reise gilt. Wer einen Welpen mit fünfundvierzig Tagen verspricht, kennt die Regeln nicht oder bricht sie.</div>
   </div>
-  
+
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was steckt hinter einem Welpen mit ENCI-Ahnentafel?</h3>
@@ -240,7 +257,7 @@ custom_content: |
   </div>
   <div class="faq-answer">Die ENCI-Ahnentafel ist kein bezahltes Extra: sie ist das Dokument, das den Welpen mit seinen Eltern, Großeltern und Urgroßeltern verbindet und alles andere überprüfbar macht. Ohne sie lässt sich nicht nachvollziehen, wer die Zuchthunde wirklich sind, man kann ihre Gentests nicht prüfen und nicht nachsehen, wie viele Würfe die Mutter hatte. Dahinter stehen die Eintragung des Wurfs ins Zuchtbuch, zu öffentlichen, für alle gleichen Gebühren, die Deckmeldung und die zugehörigen Kontrollen. <strong>Denselben Welpen mit oder ohne Ahnentafel gibt es nicht</strong>: entweder ist die Verpaarung ordnungsgemäß eingetragen, dann hat jeder Welpe des Wurfs eine, oder sie ist es nicht, dann hat keiner eine.</div>
   </div>
-  
+
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was kostet ein Staffordshire Bull Terrier Welpe?</h3>
@@ -248,7 +265,7 @@ custom_content: |
   </div>
   <div class="faq-answer">Eine Preisliste gibt es nicht, und was man zahlt, spiegelt Kosten wider, die entstehen, bevor der Welpe geboren wird. Die Gentests der beiden Zuchthunde auf L2HGA und HC werden einmal pro Hund bezahlt und gelten für ihr ganzes Zuchtleben. Die Eintragung des Wurfs ins ENCI-Zuchtbuch hat öffentliche Gebühren. Dazu kommen Tierarztbesuche während der Trächtigkeit, der Ultraschall um den fünfundzwanzigsten Tag, das Röntgenbild vor der Geburt, die ersten Impfungen, die Entwurmungen und der Mikrochip. <strong>Ein sehr niedriger Preis bedeutet fast immer, dass etwas fehlt</strong>: die Tests, die Ahnentafel oder Welpen, die vor den gesetzlichen 60 Tagen von der Mutter getrennt wurden. Die ganze Aufstellung steht unter <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Was kostet ein Staffy-Welpe">was ein Welpe wirklich kostet</a>.</div>
   </div>
-  
+
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Kann ich die Zucht vor der Entscheidung besuchen?</h3>
@@ -256,32 +273,39 @@ custom_content: |
   </div>
   <div class="faq-answer">Ja, und das ist der richtige Weg, uns kennenzulernen. Die Zucht Del Piccolo Diavolo empfängt nach Vereinbarung in Ostellato in der Provinz Ferrara, damit wir Ihnen alle Zeit geben können, ohne die Hunde zu stressen. Beim Besuch sehen Sie die erwachsenen Hunde und die Mutter des Wurfs, den Ort, an dem die Welpen geboren werden und aufwachsen, und Sie prüfen Ahnentafeln und Befunde persönlich. Es ist auch der Moment, in dem wir Ihnen einige Fragen stellen: wie viele Stunden der Hund allein sein wird, wer zu Hause ist, was im Sommer geschieht. Das ist kein Verhör, sondern die Art, wie wir herausfinden, ob Welpe und Familie zusammenpassen. <strong>Wer einen Welpen der Zucht Del Piccolo Diavolo nimmt, kommt hierher</strong>: wir verschicken keine Hunde.</div>
   </div>
-  
+
   <div style="text-align:center;margin-top:1.5rem">
   <a href="/de/faq-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="Alle FAQ ansehen">Alle häufigen Fragen ansehen</a>
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:9-->
+
+  <!--BLOCCO:8-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Bewertungen</span>
   <h2 class="section-title">Was Man Über Uns Sagt</h2>
-  
+
   <div class="review-card">
   <p class="review-text">"Paolo ist eine Garantie für diese Rasse. Welpen im Haus aufgezogen, kontinuierliche Unterstützung und große Kompetenz. Unser Staffy ist perfekt!"</p>
   <div class="reviewer"><span>Cristian Ferroci</span><span class="stars">★★★★★</span></div>
   </div>
-  
+
   <div class="review-card">
   <p class="review-text">"Liebe auf den ersten Blick existiert... vertrauen Sie uns. Professionalität, Leidenschaft und ausgeglichene, gesunde Welpen. Ich empfehle diese Zucht jedem."</p>
   <div class="reviewer"><span>Manu Nannetti</span><span class="stars">★★★★★</span></div>
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:8-->
+
+  <!--BLOCCO:11-->
   <!--GUIDE-->
+  <!--/BLOCCO:11-->
+  <!--BLOCCO:12-->
   <!--CORRELATI-->
+  <!--/BLOCCO:12-->
 
   <p style="margin-top:1rem">Eine ausführliche Darstellung dessen, was hinter einem gut gezüchteten Welpen steht, finden Sie unter <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Was kostet ein Staffordshire Bull Terrier Welpe">was ein Staffordshire Bull Terrier Welpe kostet</a>.</p>
 
@@ -296,16 +320,18 @@ custom_content: |
   <li><a href="/de/palmares/" title="Palmares - Unsere Ausstellungserfolge">Palmares - Unsere Ausstellungserfolge</a></li>
   </ul>
   </div>
-  
+
   <section class="section">
   <div class="section-inner content-single">
   <p class="fonti">Quellen: Diese Seite beschreibt, wie die Welpen der Zucht Del Piccolo Diavolo geboren werden und aufwachsen: Es sind eigene Angaben der Zucht, deshalb gibt es keine externen Quellen zu nennen. Die Daten jedes Wurfs und die Befunde der Eltern sind im Zuchttagebuch und auf den Seiten der Zuchttiere veröffentlicht.</p>
   </div>
   </section>
 
+  <!--BLOCCO:13-->
   <section class="cta-section">
   <h2>Möchten Sie Infos zu Welpen?</h2>
   <p>Rufen Sie uns an oder schreiben Sie uns auf WhatsApp für Informationen über verfügbare Würfe.</p>
   <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20möchte%20Infos%20über%20Staffordshire%20Bull%20Terrier%20Welpen" class="btn" title="Schreiben Sie uns auf WhatsApp für Welpen-Infos">Auf WhatsApp Schreiben</a>
   </section>
+  <!--/BLOCCO:13-->
 ---

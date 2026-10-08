@@ -17,6 +17,7 @@ entita:
   - nome: "TRACES"
     sameAs: ["https://food.ec.europa.eu/animals/traces_en"]
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -39,8 +40,10 @@ custom_content: |
   <p class="hero-trust">Since 2013 &middot; ENCI pedigree &middot; Italiano, English, Deutsch</p>
   </div>
   </section>
+  <!--/BLOCCO:1-->
 
   <div class="features-bar"><div class="features-track"><span>Rabies from 12 weeks</span><span>EU pet passport</span><span>TRACES certificate</span><span>ENCI export pedigree</span><span>Departure at 4 months</span><span>Rabies from 12 weeks</span><span>EU pet passport</span><span>TRACES certificate</span><span>ENCI export pedigree</span><span>Departure at 4 months</span></div></div>
+  <!--BLOCCO:2-->
   <section class="section">
     <div class="section-inner content-single">
   <p>A Staffordshire Bull Terrier puppy going abroad does not leave at two months like one staying in Italy, and the reason is a health one. To leave the country it needs the rabies vaccination, which cannot be given before 12 weeks of age, and after the first dose another 21 days must pass before it is valid for travel. The arithmetic is simple: a puppy born today cannot travel before four months. On top of that come the European pet passport, a microchip registered with the national database and the official health certificate, under EU Regulation 576/2013. Anyone promising delivery abroad at two months either does not know the rules or is breaking them, and in both cases it is worth wondering what else they are not doing. Documents, car, train and plane: the practical rules are in the guide on <a href="/en/staffy-travel-transport/" title="Travelling with a Staffy">travelling with a Staffy</a>.</p>
@@ -105,7 +108,9 @@ custom_content: |
 
     </div>
     </section>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <section class="section section-alt">
   <div class="section-inner content-single">
   <h2 class="section-title">Talk to me early</h2>
@@ -113,10 +118,13 @@ custom_content: |
   <p>Planned litters: <a href="/en/puppies-staffordshire-bull-terrier/">Staffordshire Bull Terrier puppies</a>.</p>
   </div>
   </section>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <section class="cta-section">
   <h2>Questions about a placement abroad?</h2>
   <p>Write to me in your own language — I will manage. If you would rather talk, my daughter Sara speaks English, German and Spanish: <strong>+39 377 689 6955</strong>.</p>
   <a class="btn btn-light" href="/wa/393924635584" target="_blank" rel="noopener" aria-label="Write on WhatsApp (opens in a new tab)">Write on WhatsApp</a>
   </section>
+  <!--/BLOCCO:4-->
 ---

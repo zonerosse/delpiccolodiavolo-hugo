@@ -1,0 +1,68 @@
+{{- /* Indice delle pagine per il gestionale (Google → Pagine del sito), ottobre 2026: /pagine-indice.json.
+       Per ogni pagina (chiave = translationKey): indirizzi, parola chiave (tools/controlli/parole-chiave.txt), e il testo
+       di OGGI scritto nei file (senza le modifiche del gestionale): titolo per Google, descrizione, h1, apertura, blocchi
+       (<!--BLOCCO:n-->, vedi tools/blocchi/segna.py) con titolo e avvisi (h1, faq, parola chiave, link interni).
+       Lo legge solo il gestionale (CORS in index.headers); lo genera solo la home italiana. */ -}}
+{{- if ne .Site.Language.Lang "it" -}}{}{{- else -}}
+{{- $kw := dict -}}
+{{- with (fileExists "tools/controlli/parole-chiave.txt") -}}
+  {{- range split (os.ReadFile "tools/controlli/parole-chiave.txt") "\n" -}}
+    {{- $r := split . "|" -}}
+    {{- if and (ge (len $r) 2) (hasPrefix (trim (index $r 0) " ") "/") -}}
+      {{- $kw = merge $kw (dict (trim (index $r 0) " ") (trim (index $r 1) " ")) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $etichette := dict "ULTIMA-CUCCIOLATA" "L'ultima cucciolata (automatica)" "CUCCIOLATE" "Le nostre cucciolate (dal gestionale)" "CUCCIOLATA" "Riquadro ultima cucciolata" "CORRELATI" "Articoli correlati" "RECENTI" "Articoli recenti" "GUIDE" "Guide per il cucciolo" "NOVITA" "Novità in Home (dal gestionale)" "NEWS" "Notizia dal diario" "ESPOSIZIONI" "Ultimi risultati in esposizione" -}}
+{{- $out := slice -}}
+{{- range site.Pages -}}
+  {{- $p := . -}}
+  {{- $k := $p.Params.translationKey | default "" -}}
+  {{- if and $k (not $p.Params.noindex) (in (slice "page" "home" "section") $p.Kind) -}}
+    {{- $L := dict -}}
+    {{- range $p.AllTranslations }}{{ $L = merge $L (dict .Language.Lang .) }}{{ end -}}
+    {{- $voce := dict "key" $k "gestionale" (eq $p.Params.gestionale true) -}}
+    {{- $campi := dict -}}
+    {{- $src := dict -}}
+    {{- range $l, $q := $L -}}
+      {{- $s := $q.Params.custom_content | default (string $q.Content) -}}
+      {{- $src = merge $src (dict $l $s) -}}
+      {{- $t := $q.Params.titleSeo | default $q.Title -}}
+      {{- $t = replace $t "<!--REC-TOTALE-->" (site.Params.recensioniTotale | default "") -}}
+      {{- $h1 := $q.Title -}}{{- $h1da := "titolo" -}}
+      {{- with findRESubmatch `(?s)<h1[^>]*>(.*?)</h1>` $s 1 -}}
+        {{- $h1 = index (index . 0) 1 | replaceRE `<br\s*/?>` " " | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace -}}{{- $h1da = "testo" -}}
+      {{- end -}}
+      {{- $ap := "" -}}
+      {{- with partial "pagine/apertura.html" $s }}{{ $ap = . | replaceRE `<!--.*?-->` "" | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace }}{{ end -}}
+      {{- $campi = merge $campi (dict $l (dict "url" $q.RelPermalink "titolo" $t "desc" $q.Description "h1" $h1 "h1da" $h1da "ap" $ap "kw" (index $kw $q.RelPermalink | default ""))) -}}
+    {{- end -}}
+    {{- $blocchi := slice -}}
+    {{- $it := index $src "it" | default "" -}}
+    {{- range findRESubmatch `<!--BLOCCO:(\d+)-->` $it -}}
+      {{- $n := index . 1 -}}
+      {{- $pat := printf `(?s)<!--BLOCCO:%s-->(.*?)<!--/BLOCCO:%s-->` $n $n -}}
+      {{- $tit := dict -}}
+      {{- $info := dict -}}
+      {{- range $l, $s := $src -}}
+        {{- with findRESubmatch $pat $s 1 -}}
+          {{- $seg := index (index . 0) 1 -}}
+          {{- $x := "" -}}
+          {{- with findRESubmatch `(?s)<h[12][^>]*>(.*?)</h[12]>` $seg 1 }}{{ $x = index (index . 0) 1 }}{{ end -}}
+          {{- if not $x }}{{ with findRESubmatch `(?m)^##\s+(.+)$` $seg 1 }}{{ $x = index (index . 0) 1 }}{{ end }}{{ end -}}
+          {{- if not $x }}{{ with findRESubmatch `<!--([A-Z-]+)-->` $seg 1 }}{{ $x = index $etichette (index (index . 0) 1) | default (index (index . 0) 1) }}{{ end }}{{ end -}}
+          {{- $x = $x | replaceRE `<br\s*/?>` " " | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace -}}
+          {{- $tit = merge $tit (dict $l $x) -}}
+          {{- if eq $l "it" -}}
+            {{- $kwl := lower (index $campi "it").kw -}}
+            {{- $info = dict "h1" (in $seg "<h1") "faq" (or (in $seg "faq-question") (in $seg `class="faq`)) "kw" (and (ne $kwl "") (in (lower $x) $kwl)) "link" (len (findRE `href="/[^w]` $seg)) -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+      {{- $blocchi = $blocchi | append (merge $info (dict "n" (int $n) "t" $tit)) -}}
+    {{- end -}}
+    {{- $out = $out | append (merge $voce (dict "lingue" $campi "blocchi" $blocchi)) -}}
+  {{- end -}}
+{{- end -}}
+{{- dict "generato" (now.Format "2006-01-02T15:04:05Z07:00") "pagine" (sort $out "key") | jsonify -}}
+{{- end -}}

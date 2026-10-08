@@ -8,6 +8,7 @@ translationKey: "maschi"
 description: "Our male Staffordshire Bull Terriers: Lothar (Slovenian and Italian Junior Champion), Braveheart and Papillon. L2HGA and HC (HSF4) certified genetic testing."
 slug: "males-staffordshire-bull-terrier"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -25,7 +26,8 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>Elitebull Lines</span>
@@ -44,12 +46,13 @@ custom_content: |
   <span>Ostellato FE</span>
   </div>
   </div>
-  
+
+  <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Our Approach</span>
   <h2 class="section-title">Ethics, Health and Responsible Selection</h2>
-  
+
   <div class="intro-block">
   <p>Del Piccolo Diavolo does not keep stud dogs of its own, and that is a choice. For every mating <a href="/en/parents-on-site-what-it-means/" title="&quot;Parents on site&quot;: what it really means">the stud is sought outside the kennel</a>, among English Elitebull and Irish Lackyle lines, and chosen to correct what the female lacks: if a bitch has an excellent head and movement that could be better, what she needs is a male who is sound on movement, not one as handsome as she is. Keeping a male at home would mean using him because he is there, and closing the lines on a single dog. Before a mating we ask the owner for the genetic test reports with the microchip number on them, not promises: if a male is tested for some conditions and not for all, we know it beforehand and we write it on that litter's page.</p>
 
@@ -64,12 +67,14 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:2-->
+
+  <!--BLOCCO:3-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Our Males</span>
   <h2 class="section-title">Stud Dogs</h2>
-  
+
   <!-- LOTHAR -->
   <article class="male-card male-featured">
   <div class="male-header">
@@ -93,8 +98,8 @@ custom_content: |
   </div>
   </div>
   </article>
-  
-  
+
+
   <!-- BRAVEHEART -->
   <article class="male-card">
   <div class="male-header">
@@ -114,7 +119,7 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   <!-- PAPILLON -->
   <article class="male-card">
   <div class="male-header">
@@ -134,14 +139,17 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   </div>
   </section>
-  
-    
+  <!--/BLOCCO:3-->
+
+
+  <!--BLOCCO:4-->
   <section class="cta-section">
   <h2>Want Info About Our Males?</h2>
   <p>Call us or write on WhatsApp for information about our stud dogs.</p>
   <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20the%20male%20Staffordshire%20Bull%20Terriers" class="btn" title="Write us on WhatsApp for male info">Write Us on WhatsApp</a>
   </section>
+  <!--/BLOCCO:4-->
 ---

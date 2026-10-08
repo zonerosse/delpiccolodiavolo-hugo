@@ -12,6 +12,7 @@ thumb: "/images/blog/icone/bio-sensor-stimolazione-precoce-cuccioli.webp"
 description: "Bio Sensor und ENS bei Welpen: Herkunft der Methode, ihre Versprechen und wie viel davon durch Studien belegt ist. Und was in den ersten acht Wochen wirklich zählt."
 slug: "bio-sensor-fruehstimulation-welpen"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -27,6 +28,7 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:1-->
 
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/de/" title="Startseite">Startseite</a> ›
@@ -37,7 +39,7 @@ custom_content: |
 
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>Bio Sensor, auch ENS oder Early Neurological Stimulation genannt, ist ein Programm der US-Armee aus den 1970er-Jahren: fünf Übungen von je drei bis fünf Sekunden, einmal täglich, vom dritten bis zum sechzehnten Lebenstag des Welpen. Die Vorteile, die ihm zugeschrieben werden, bessere Stresstoleranz, ein leistungsfähigeres Herz und höhere Widerstandskraft gegen Krankheiten, stammen aus diesem Militärprogramm und nicht aus unabhängigen, von anderen Forschern überprüften Studien. Gut belegt ist in der Verhaltensforschung etwas anderes: die sensible Phase der Sozialisierung in den folgenden Wochen und das Gewicht einer guten mütterlichen Fürsorge. Eine Zucht, die ENS als Garantie für einen ausgeglichenen erwachsenen Hund darstellt, verspricht mehr, als man tatsächlich weiß. Das gilt für den Staffordshire Bull Terrier genauso wie für jede andere Rasse. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
 
@@ -45,6 +47,7 @@ custom_content: |
 
   <p>Diesen Teil versuche ich hier zu liefern, weil man mich danach gefragt hat und weil eine ehrliche Antwort nützlicher ist als ein Kürzel.</p>
 
+  <!--BLOCCO:2-->
   <h2>Was Bio Sensor ist</h2>
 
   <p><strong>Bio Sensor</strong> war ein Programm der US-Armee aus den 1970er Jahren, später als "Super Dog" bekannt, gedacht zur Leistungssteigerung von Diensthunden. In der verbreiteten Fassung &mdash; das Kürzel lautet <strong>ENS</strong>, Early Neurological Stimulation &mdash; besteht es aus fünf Übungen von je drei bis fünf Sekunden, einmal täglich, <strong>vom dritten bis zum sechzehnten Lebenstag</strong>:</p>
@@ -58,7 +61,9 @@ custom_content: |
   </ol>
 
   <p>Die dem Programm zugeschriebenen Vorteile sind Stresstoleranz, ein leistungsfähigeres Herz, kräftigere Nebennieren und höhere Widerstandsfähigkeit gegen Krankheiten.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>Was trägt und was nicht</h2>
 
   <p>Diese Vorteile stammen aus dem Militärprogramm, nicht aus Studien, die veröffentlicht und von anderen Forschern überprüft wurden. Das ist ein wichtiger Unterschied: die ursprüngliche Quelle lässt sich nicht nachprüfen.</p>
@@ -70,7 +75,9 @@ custom_content: |
   <p><strong>Das heißt nicht, dass ENS schadet oder Betrug ist.</strong> Es heißt, dass wer es als Garantie präsentiert, mehr verspricht, als bekannt ist.</p>
 
   <p>Es gibt auch einen praktischen Punkt, den man gern überspringt: <strong>mehr ist schlechter.</strong> Es handelt sich um Stressreize bei einem Neugeborenen, das seine Temperatur noch nicht selbst regulieren kann. Die Zeiten zu verlängern oder die Übungen mehrmals täglich zu wiederholen, im Glauben "viel hilft viel", ist der sicherste Weg zum Gegenteil.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>Was dagegen gut belegt ist</h2>
 
   <p>Wer den Faktor sucht, der den Charakter eines Welpen wirklich prägt, findet ihn nicht in den ersten sechzehn Tagen, sondern in den Wochen danach.</p>
@@ -78,7 +85,9 @@ custom_content: |
   <p>Die <strong>sensible Phase der Sozialisierung</strong> &mdash; etwa von der dritten bis zur zwölften Woche, mit dem Kern zwischen der vierten und der achten &mdash; gehört zum Bestbelegten in der Verhaltensbiologie des Hundes. Was ein Welpe in diesen Wochen kennenlernt, wird Teil seiner normalen Welt; was er nicht kennenlernt, bleibt ein Leben lang etwas, das erst bewertet werden muss.</p>
 
   <p>Auch die <strong>Qualität der mütterlichen Fürsorge</strong> zählt sehr: eine ruhige Hündin in einer ihr vertrauten Umgebung zieht stabilere Welpen auf. Ein Grund mehr, beim Besuch einer Zucht <a href="/de/eltern-vor-ort-was-das-bedeutet/" title="&quot;Eltern vor Ort&quot;: was das wirklich bedeutet">auf die Mutter zu schauen</a>.</p>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>Was wir tun</h2>
 
   <p>Ich wende kein Protokoll nach Stoppuhr an, und ich schreibe "Bio-Sensor-Methode" in keiner unserer Wurfankündigungen. Was ich tue, klingt weniger spektakulär, und ich halte es für mehr wert.</p>
@@ -96,7 +105,9 @@ custom_content: |
   <p>Fünf identische Übungen an acht verschiedenen Welpen anzuwenden und dabei die Sekunden zu zählen, heißt sie als austauschbar zu behandeln. Das sind sie nicht, so wenig wie Kinder es sind.</p>
 
   <p>Ab dem ersten Monat beginnt der wichtigste Teil: der Umzug in den Zwinger mit Auslauf, das abwechselnde Zurückkommen ins Haus, und dann die Menschen, die Geräusche, die anderen Hunde. Dort entsteht der Charakter eines erwachsenen Hundes, und danach lässt sich das nicht nachholen. Wie unsere aufwachsen, beschreibt die Seite über unsere <a href="/de/welpen-staffordshire-bull-terrier/" title="Welpen Staffordshire Bull Terrier">Staffordshire Bull Terrier Welpen</a>.</p>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>Kurz gesagt</h2>
 
   <p>Wenn eine Zucht sagt, sie wende ENS an, ist das kein Mangel: es ist ein Detail, das wenig aussagt &mdash; in beide Richtungen. Wird es dagegen als Grund präsentiert, warum der Welpe ausgeglichen sein wird, lautet die richtige Frage anders: <strong>wo die Welpen aufwachsen, wen sie in den ersten acht Wochen treffen und in welchem Zustand die Mutter ist.</strong></p>
@@ -124,6 +135,7 @@ custom_content: |
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>
+  <!--/BLOCCO:6-->
 
   </article>
   </div>

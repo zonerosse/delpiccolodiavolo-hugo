@@ -20,6 +20,7 @@ correlati:
     testo: "Ostellato (Ferrara), Italien, nach Vereinbarung"
 slug: ""
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <!--HEROFOTO-->
@@ -37,6 +38,7 @@ custom_content: |
   <p class="hero-trust">Gentests - ENCI-Ahnentafel - Seit 2013</p>
   </div>
   </section>
+  <!--/BLOCCO:1-->
 
   <div class="features-bar">
   <div class="features-track">
@@ -59,8 +61,11 @@ custom_content: |
   </div>
   </div>
 
+  <!--BLOCCO:2-->
   <!--NOVITA-->
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Unsere Welpen</span>
@@ -75,8 +80,10 @@ custom_content: |
   <p style="text-align:center;margin-top:1.5rem"><a class="btn" href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Wie sie geboren werden und aufwachsen</a></p>
   </div>
   </section>
+  <!--/BLOCCO:3-->
 
 
+  <!--BLOCCO:4-->
   <section class="section">
   <div class="section-inner">
   <div style="max-width:760px;margin:0 auto;display:grid;grid-template-columns:88px 1fr;gap:1.2rem;align-items:center;background:#fff;border:1px solid #e6ddd4;border-radius:10px;padding:1rem 1.2rem">
@@ -89,7 +96,9 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <section class="section section-alt">
   <div class="section-inner content-single">
   <span class="section-label">Im Klartext</span>
@@ -119,7 +128,9 @@ custom_content: |
   </a>
   </div>
   </section>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <section class="section">
   <div class="section-inner">
   <h2 class="section-title">Ein Wurf im Jahr, manchmal auch keiner</h2>
@@ -139,12 +150,14 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:6-->
 
   <div class="review-card">
   <p class="review-text">&laquo;Vor etwa acht Monaten beschloss ich, einen Staffy als Begleiter zu nehmen, und begann mich einzulesen, um mich der zuverlässigsten Zucht anvertrauen zu können. […] Jetzt habe ich meinen kleinen Teufel, dank dieser wunderbaren Familie, der ich nie genug danken kann.&raquo;</p>
   <div class="reviewer"><span>Gianluca Ravera</span><span class="stars">★★★★★</span></div>
   <p style="margin-top:.6rem;font-size:.82rem"><a href="https://search.google.com/local/reviews?placeid=ChIJqV8xIv1rfkcRQK_6v1XiVNE" target="_blank" rel="noopener" title="Originalbewertung auf Google lesen" style="color:#8b5a2b;font-weight:600" aria-label="Bewertung auf Google lesen (wird in einem neuen Tab geöffnet)">Bewertung auf Google lesen &rarr;</a></p>
   </div>
+  <!--BLOCCO:7-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Überprüfbar</span>
@@ -221,7 +234,9 @@ custom_content: |
   </a>
   </div>
   </section>
+  <!--/BLOCCO:7-->
 
+  <!--BLOCCO:8-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Ausstellungserfolge</span>
@@ -272,9 +287,13 @@ custom_content: |
   </a>
   </div>
   </section>
+  <!--/BLOCCO:8-->
 
+  <!--BLOCCO:9-->
   <!--CORRELATI-->
+  <!--/BLOCCO:9-->
 
+  <!--BLOCCO:10-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Häufig gestellte Fragen</span>
@@ -314,10 +333,13 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:10-->
 
+  <!--BLOCCO:11-->
     <section class="cta-section">
   <h2>Schreiben Sie uns, um unsere Staffys persönlich kennenzulernen</h2>
   <p>Schreiben Sie uns für ein unverbindliches Gespräch. Wir beantworten gerne alle Ihre Fragen.</p>
   <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20schreibe%20von%20der%20Del%20Piccolo%20Diavolo%20Website" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Schreiben Sie uns auf WhatsApp" aria-label="Kontaktieren Sie uns auf WhatsApp">Auf WhatsApp schreiben</a>
   </section>
+  <!--/BLOCCO:11-->
 ---

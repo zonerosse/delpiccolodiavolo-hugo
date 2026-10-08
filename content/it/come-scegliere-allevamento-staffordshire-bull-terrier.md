@@ -13,6 +13,9 @@ date: 2026-01-18
 lastmod: 2026-09-30
 ---
 
+
+<!--BLOCCO:1-->
+
 <section class="hero">
 <div class="hero-visual">
 <div class="hero-image">
@@ -29,12 +32,18 @@ lastmod: 2026-09-30
 </div>
 </section>
 
+<!--/BLOCCO:1-->
+
+
 <nav class="breadcrumb" aria-label="Breadcrumb">
 <a href="/" title="Home">Home</a> &rsaquo;
 <a href="/blog/" title="Blog">Blog</a> &rsaquo;
 <a aria-label="Cuccioli &mdash; categoria del blog" href="/blog/#cuccioli" title="Articoli Cuccioli">Cuccioli</a> &rsaquo;
 <span>Come riconoscere un allevamento serio</span>
 </nav>
+
+
+<!--BLOCCO:2-->
 
 <section class="section">
 <div class="section-inner content-single">
@@ -171,8 +180,17 @@ lastmod: 2026-09-30
 </div>
 </section>
 
+<!--/BLOCCO:2-->
+
+
+
+<!--BLOCCO:3-->
+
 <section class="cta-section">
 <h2>Vuoi conoscere i nostri cani?</h2>
 <p>L'allevamento Del Piccolo Diavolo riceve su appuntamento a Ostellato, in provincia di Ferrara. Si vedono le madri, i cuccioli e la casa in cui crescono.</p>
 <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20conoscere%20i%20vostri%20cani" class="btn" title="Scrivici su WhatsApp" target="_blank" rel="noopener" aria-label="Scrivici su WhatsApp per fissare una visita (si apre in una nuova scheda)">Fissa una visita</a>
 </section>
+
+<!--/BLOCCO:3-->
+

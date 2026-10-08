@@ -42,12 +42,18 @@ Not available
 
 At the **Del Piccolo Diavolo** kennel, a particularly awaited litter has arrived: on **August 1, 2026** our **Bilquis Goddess Diabhal** — Italian Show Champion (ENCI) and 4th at the 2024 World Dog Show in Zagreb — became a mother. A carefully planned mating that combines the pedigree of **Bilquis Goddess Diabhal**, daughter of **Skilful-dogs Nora**, with the solid Italian lines of the sire **Black Jack di Casa Giacalone**, son of the **2023 World Champion** Quash Marvelous Hagler de Stafflorence.
 
+
+<!--BLOCCO:1-->
+
 ## The newborn puppies
 
 <div style="display:flex;flex-wrap:wrap;gap:1rem;justify-content:center;margin:1.5rem 0">
 <img src="/images/cuccioli-bilquis-nati-1.webp" alt="Newborn black Staffordshire Bull Terrier puppies - Bilquis x Black Jack" width="435" height="480" loading="lazy" decoding="async" style="width:320px;max-width:100%;height:auto;border-radius:12px">
 <img src="/images/cuccioli-bilquis-nati-2.webp" alt="Bilquis with her newborn Staffordshire Bull Terrier puppies" width="468" height="480" loading="lazy" decoding="async" style="width:320px;max-width:100%;height:auto;border-radius:12px">
 </div>
+
+<!--/BLOCCO:1-->
+
 
 
 ## At thirty days
@@ -75,6 +81,9 @@ At fifty-five days the ears are right in the middle of settling: they go up, dro
 </div>
 
 <p style="font-size:.85rem;color:#7a6a58;text-align:center">A female from this litter at fifty-five days, ears still settling.</p>
+
+
+<!--BLOCCO:2-->
 
 ## The parents
 
@@ -110,6 +119,12 @@ At fifty-five days the ears are right in the middle of settling: they go up, dro
   </div>
 </div>
 
+<!--/BLOCCO:2-->
+
+
+
+<!--BLOCCO:3-->
+
 ## The litter
 
 **Born:** August 1, 2026
@@ -117,6 +132,12 @@ At fifty-five days the ears are right in the middle of settling: they go up, dro
 **[Colour](/en/staffordshire-bull-terrier-colours/ "Staffordshire Bull Terrier colours"):** all black
 
 **Availability:** litter complete, puppies not available.
+
+<!--/BLOCCO:3-->
+
+
+
+<!--BLOCCO:4-->
 
 ## Why this litter is special
 
@@ -127,6 +148,12 @@ Bilquis is not just a brood bitch: she is an **Italian Show Champion (ENCI)**, p
 ### The sire: Black Jack di Casa Giacalone
 
 Black Jack is a young **black** male (born April 2025) with a top-level pedigree: his **father is Quash Marvelous Hagler de Stafflorence, 2023 World Champion in Geneva**, from the renowned **de Stafflorence** line. His **mother is Ultima di Casa Giacalone, Italian Junior Champion**, from the **di Casa Giacalone** and **Staffystar** kennels, rich in Italian and International Champions. Compact, typey structure, full scissor bite.
+
+<!--/BLOCCO:4-->
+
+
+
+<!--BLOCCO:5-->
 
 ## Genetic tests
 
@@ -205,8 +232,17 @@ Bilquis — Doppler echocardio
 
 <p style="margin-top:1.5rem"><strong>Litter pedigree:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" class="sbt-link" aria-label="View the full pedigree of the litter on SBTPedigree (opens in a new tab)">View on SBTPedigree →</a></p>
 
+<!--/BLOCCO:5-->
+
+
+
+<!--BLOCCO:6-->
+
 ## Get in touch
 
 This litter is complete. For information about the kennel, our breeding dogs or the laboratory certificates, feel free to write to us.
 
 <p style="margin-top:2rem"><a href="/wa/393924635584?text=Hi%20Paolo%2C%20I%20would%20like%20information%20about%20the%20kennel" class="btn btn-primary">Contact us on WhatsApp →</a></p>
+
+<!--/BLOCCO:6-->
+

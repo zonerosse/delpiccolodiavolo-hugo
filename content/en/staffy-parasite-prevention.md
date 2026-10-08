@@ -11,6 +11,7 @@ thumb: "/images/blog/icone/salute-parassiti-prevenzione.webp"
 description: "Parasite prevention for the Staffordshire Bull Terrier: fleas, ticks, worms, heartworm and leishmaniasis. When to treat, which products and which signs to watch."
 slug: "staffy-parasite-prevention"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -27,29 +28,35 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> ›
   <a href="/en/blog/" title="Blog">Blog</a> ›
   <span>Parasite Prevention</span>
   </nav>
-  
+
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>Parasite control in the Staffordshire Bull Terrier is predictable and almost entirely effective, as long as the calendar is kept. The flea you see on the dog is only about 5 per cent of an infestation; the rest lives in the house as eggs, larvae and pupae. The breed's short coat makes fleas and ticks easy to spot, but its skin is prone to allergy, so flea allergy dermatitis is common. Ticks carry babesiosis, ehrlichiosis, anaplasmosis and Lyme disease; sand flies and mosquitoes carry leishmaniasis and heartworm. Puppies are born with roundworm from the dam and are wormed every two weeks from two weeks of age until twelve weeks, then monthly until six months. Adults are treated every three months, more often if they scavenge or live with small children, with a faecal examination to check the schedule. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
-  
-  
+
+
+  <!--BLOCCO:2-->
   <h2>Why prevention beats treatment</h2>
   <p>Parasite control is one of the few areas of dog health where the correct approach is entirely predictable and almost entirely effective. Nearly everything that matters can be prevented with a calendar and a small monthly cost, and nearly every serious case seen by <a href="https://wsava.org/global-guidelines/" title="WSAVA global guidelines" target="_blank" rel="noopener" aria-label="WSAVA global guidelines (opens in a new tab)">vet</a>erinarians involves a dog whose prevention lapsed.</p>
   <p>For the Staffordshire Bull Terrier there is one breed-specific consideration worth stating early: the short, dense coat makes fleas and ticks easier to spot than in a long-coated breed, which is an advantage. But the same coat, combined with skin that is prone to allergic reaction, means that flea allergy dermatitis is disproportionately common and disproportionately miserable. A single flea bite can trigger weeks of scratching in a sensitised dog.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>Fleas</h2>
   <p>The flea you see on the dog represents about 5 per cent of the infestation. The remainder — eggs, larvae and pupae — is in the carpet, the bedding, the sofa and the cracks in the floor. This is the single most useful fact about fleas, because it explains why treating the dog alone repeatedly fails, and why an infestation appears to return a fortnight after it was solved.</p>
   <p>Signs to look for: scratching concentrated at the base of the tail and along the back, small scabs, and flea dirt, which looks like specks of black grit and turns rust-red on damp white paper. That test is definitive and takes 10 seconds.</p>
   <p>Treatment means treating every animal in the household on the same day, plus the environment. Beds, throws and blankets are washed at 60 degrees; vacuum thoroughly, under furniture, along skirting boards and in the cracks where larvae hide, every day while the infestation is active, emptying the bag outside straight away. Carpets and sofas are treated with steam, and heavy infestations need an environmental product with an insect growth regulator (IGR), used as the label says, airing the room well and keeping puppies and people out for the stated time. Repeat after 3 weeks to catch the generation that hatches from pupae, which are resistant to everything.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>Ticks</h2>
   <p>Ticks matter less for the bite than for what they transmit: babesiosis, ehrlichiosis, borreliosis and, in parts of southern Europe, hepatozoonosis. In Italy, babesiosis in particular can be rapidly life-threatening, and it is the reason we treat tick prevention as non-negotiable for dogs that walk anywhere near long grass.</p>
   <p>Check the dog after every walk in grass or woodland during the season, which in most of Italy now runs from March to November and in mild coastal areas effectively all year. Run your hands slowly against the coat, feeling for small lumps: ears inside and out, neck, armpits, groin, between the toes and around the anus.</p>
@@ -62,21 +69,29 @@ custom_content: |
   <li>The tick can be kept in a small jar of alcohol, if the vet wants to identify it.</li>
   <li>Note the date, and watch for fever, lethargy, lameness or dark urine over the following 3 weeks.</li>
   </ol>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>Intestinal worms</h2>
   <p>Roundworms, hookworms, whipworms and tapeworms are the common group. Puppies are effectively born with roundworm from the dam and must be wormed on a strict schedule: every 2 weeks from 2 weeks of age until 12 weeks, then monthly to 6 months. This is the breeder's responsibility for the first part and the owner's thereafter, and the dates should be written in the health record you receive.</p>
   <p>Adults are typically treated every 3 months, adjusted upwards for dogs that hunt, scavenge or live with small children. Tapeworm is transmitted by ingesting fleas, which is one more reason the two problems are managed together rather than separately.</p>
   <p>Signs of a burden: a dull coat, a pot-bellied appearance in puppies, weight loss despite good appetite, visible segments like grains of rice around the anus, and scooting, which is more often anal glands but is worth investigating.</p>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>Heartworm and leishmaniasis</h2>
   <p>These are the two that owners in southern Europe cannot afford to treat casually. Heartworm (Dirofilaria immitis), transmitted by mosquitoes, is endemic in the Po Valley and much of northern Italy, including our own area of the Po Delta, as well as around lakes and along the coasts. The adult worms live in the heart and pulmonary arteries, and untreated the disease is fatal.</p>
   <p>Prevention is a monthly treatment, tablets or spot-on, through the whole mosquito season, usually from April or May to November or December. A test comes first: at around six to seven months in a puppy, and always in a dog whose history is unknown, because giving a preventive to a dog that is already infected can be dangerous. The test is then repeated every spring, before starting again.</p>
   <p>Leishmaniasis, transmitted by sandflies, is endemic across the Mediterranean and expanding northwards. It is a serious, often lifelong disease. Prevention combines a repellent collar or spot-on with proven anti-feeding action, avoiding outdoor exposure at dusk and dawn during the season, and, where recommended by your veterinarian, vaccination. Any dog travelling to or from southern Italy should be protected before the journey rather than after. Documents, car, train and air travel: the practical rules are in the guide to <a href="/en/staffy-travel-transport/" title="Travelling with a Staffy">travelling with a Staffy</a>.</p>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:7-->
   <h2>A practical annual plan</h2>
   <p>Monthly, all year: a combined product covering fleas and ticks, chosen with your veterinarian, plus heartworm prevention through the mosquito season. Every 3 months: intestinal worming, or more often for at-risk dogs &mdash; and in puppies the schedule is checked against a <a href="/en/puppy-worming-faecal-tests/" title="Worming and faecal tests">faecal examination</a>. Weekly: a hands-on check of coat and skin, which takes 2 minutes and catches most problems early. Annually: a veterinary check that includes discussion of the local parasite picture, because it changes.</p>
   <p>One caution on products: never use a preparation formulated for cats on a dog or the reverse, and never use permethrin-based products in a household with cats. And be sceptical of natural alternatives such as garlic or essential oils. Garlic is toxic to dogs, several essential oils are also toxic, and none of them prevent babesiosis.</p>
+  <!--/BLOCCO:7-->
 
+  <!--BLOCCO:8-->
   <h2>The year, season by season</h2>
   <p>How protection against parasites changes through the year, season by season:</p>
 
@@ -92,7 +107,9 @@ custom_content: |
   </table>
 
   <p>A reminder on the phone calendar does more than any good intention.</p>
+  <!--/BLOCCO:8-->
 
+  <!--BLOCCO:9-->
   <h2>Choosing a product: three formats</h2>
   <p>The first treatment is chosen by the vet, for the puppy's exact age and current weight.</p>
 
@@ -108,10 +125,14 @@ custom_content: |
   </table>
 
   <p>Three rules without exceptions: never use a product for adult dogs on a small puppy; never swap products between dog and cat, because many dog products contain permethrin, which is toxic to cats even through contact with a freshly treated dog; and never combine products without asking the vet.</p>
+  <!--/BLOCCO:9-->
 
+  <!--BLOCCO:10-->
   <h2>When to call the vet</h2>
   <p><strong>Fleas</strong>: persistent, intense itching with compulsive scratching, scabs or bald patches, flea dirt in the coat, pale gums in a heavily infested puppy. <strong>Tick-borne disease</strong>: a temperature above 39.5 °C within three weeks of removing a tick, marked lethargy, loss of appetite, intermittent lameness or swollen joints, small red spots on the gums or belly. <strong>A reaction to a product</strong>: vomiting or diarrhoea within hours of application, tremors, heavy drooling, unsteadiness, or dermatitis where a spot-on was applied. Red or brown urine, very pale gums, difficulty breathing, collapse or seizures are an emergency: go straight to the nearest emergency clinic.</p>
+  <!--/BLOCCO:10-->
 
+  <!--BLOCCO:11-->
   <h2>Frequently asked questions</h2>
 
   <div class="faq-list">
@@ -171,11 +192,12 @@ custom_content: |
   <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Choosing a breeder">Advice before taking on a puppy</a></li>
   </ul>
   </div>
-  
+
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   </div>
-  
+  <!--/BLOCCO:11-->
+
   </article>
   </div>
 ---

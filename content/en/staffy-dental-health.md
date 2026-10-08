@@ -12,6 +12,7 @@ thumb: "/images/blog/icone/salute-denti-igiene.webp"
 description: "Complete guide to oral hygiene for Staffy: how to clean teeth, prevent tartar, choose the right products and recognize signs of dental problems."
 slug: "staffy-dental-health"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -28,74 +29,98 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>Teeth Cleaning</span><span>Tartar Prevention</span><span>Dental Snacks</span><span>Warning Signs</span><span>Professional Cleaning</span><span>Daily Care</span>
   <span>Teeth Cleaning</span><span>Tartar Prevention</span><span>Dental Snacks</span><span>Warning Signs</span><span>Professional Cleaning</span><span>Daily Care</span>
   </div>
   </div>
-  
+
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> ›
   <a href="/en/blog/" title="Blog">Blog</a> ›
   <span>Dental Health</span>
   </nav>
-  
+
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>Dental disease is the most commonly diagnosed condition in dogs, and the Staffordshire Bull Terrier needs particular care for a structural reason: forty-two teeth in a comparatively short jaw, crowded enough that plaque collects where the tongue cannot reach. Plaque hardens into tartar within about three days, which is why brushing is the only measure that genuinely works: daily is ideal, three times a week the realistic minimum, thirty seconds a side. Introduce it gradually from puppyhood; by seven months no milk teeth should remain. The breed's powerful jaw makes very hard chews dangerous: if you cannot dent it with a fingernail, it does not belong in the dog's mouth. A dog brushed regularly may need a professional clean every two or three years; one that has never been brushed may need it every year from middle age. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
-  
-  
+
+
+  <!--BLOCCO:2-->
   <h2>Why dental health matters more than owners think</h2>
   <p>Periodontal disease is the most common diagnosed condition in dogs, affecting the large majority by the age of three. In the Staffordshire Bull Terrier it deserves particular attention for a structural reason: the breed has a full set of forty-two teeth housed in a comparatively short jaw, which means crowding, and crowding means plaque accumulates in places a tongue cannot reach.</p>
   <p>The consequences go well beyond bad breath. Chronic dental infection releases bacteria into the bloodstream continuously, and the association with heart, kidney and liver disease is well established. A dog with advanced periodontal disease is a dog in constant low-grade pain that it cannot report, and owners routinely describe a completely different animal after a dental treatment they had been putting off.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>The breed's specific dental issues</h2>
   <p>Beyond crowding, three things are worth watching in this breed. Retained deciduous teeth, particularly the canines, are common: if a puppy tooth is still present when the adult tooth has emerged, it must be removed, because the two together trap debris and push the adult tooth out of alignment. By 7 months, no puppy teeth should remain.</p>
   <p>Malocclusion is the second. A correct scissor bite distributes wear evenly; an undershot jaw, which occurs in the breed, causes abnormal wear and localised gum trauma. It is a fault to be avoided in breeding, and in an existing dog it means closer monitoring rather than treatment.</p>
   <p>Third, and most under-appreciated: fractured teeth from inappropriate chews. This is an extremely powerful jaw in a dog with an unusually high pain threshold, and slab fractures of the upper carnassial teeth are the classic injury. The dog often shows no sign at all.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>What to give and what to avoid</h2>
   <p>The rule we give every family that takes one of our puppies is simple: if you cannot make a fingernail mark in it, and you would not want it dropped on your knee, do not give it to the dog. That excludes antlers, bones of any kind including the widely sold weight-bearing beef bones, nylon bones, hooves and stones.</p>
   <p>Appropriate options: rubber chews of the type that flex under pressure, dental chews with a proven abrasive action, and raw carrots for dogs whose diet accommodates them. Until the puppy has all its adult teeth, only soft chews, such as soft or medium Kongs, and no tug-of-war with rags, ropes or similar. None of these replaces brushing, and any product marketed as making brushing unnecessary is overstating its case.</p>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>Brushing: the only thing that genuinely works</h2>
   <p>Plaque mineralises into tartar within roughly 3 days. Mechanical removal before that happens is the only intervention that reliably prevents periodontal disease, and everything else is supplementary.</p>
   <p>Daily is ideal; 3 times a week is the realistic minimum that still makes a measurable difference. Use a toothpaste formulated for dogs, never human toothpaste, which contains fluoride and often xylitol and is toxic. A finger brush or a soft child's toothbrush both work; the brush matters less than the frequency.</p>
   <p>Introduce it gradually over a couple of weeks: first letting the dog lick the paste, then touching the outer surfaces of the canines only, then extending backwards. The outer surfaces are what matters, because the tongue keeps the inner surfaces relatively clean. 30 seconds per side, done consistently, beats 5 minutes done occasionally and abandoned.</p>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>Recognising a problem</h2>
   <p>Bad breath is the first sign and the one most often dismissed as normal. It is not normal. Others: yellow or brown deposits along the gumline, red or bleeding gums, chewing on one side only, dropping food, pawing at the mouth, and reluctance to accept a chew that was previously welcome.</p>
   <p>Because this breed tolerates discomfort well, absence of complaint means nothing. Lift the lip and look, once a week, and get into the habit while the dog is a puppy so it is unremarkable later.</p>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:7-->
   <h2>Professional cleaning</h2>
   <p>A <a href="https://wsava.org/global-guidelines/" title="WSAVA global guidelines" target="_blank" rel="noopener" aria-label="WSAVA global guidelines (opens in a new tab)">vet</a>erinary dental cleaning requires general anaesthesia, and this is the point where owners hesitate. The hesitation is understandable but usually misplaced: modern protocols with pre-anaesthetic bloods and monitoring are low risk in a healthy dog, and the alternative is years of untreated infection.</p>
   <p>So-called anaesthesia-free cleaning removes visible tartar from the crown while leaving the subgingival deposits that actually cause the disease. It makes the mouth look better and treats nothing.</p>
   <p>Frequency varies with the individual, but a dog whose teeth are brushed regularly may need professional cleaning every 2 or 3 years, while a dog that has never been brushed may need it annually from middle age.</p>
+  <!--/BLOCCO:7-->
 
+  <!--BLOCCO:8-->
   <h2>A realistic routine</h2>
   <p>Weekly: lift the lip and inspect both sides. 3 to 7 times a week: brush the outer surfaces, 30 seconds a side. Daily: an appropriate chew, chosen by the fingernail rule. Annually: a dental assessment at the routine veterinary check, and act on it rather than deferring.</p>
   <p>Done from puppyhood, this takes about 3 minutes a day and adds years of comfortable eating to a dog's life. Started at seven, it is damage limitation.</p>
+  <!--/BLOCCO:8-->
 
+  <!--BLOCCO:9-->
   <h2>Diet and its real role</h2>
   <p>The claim that dry food cleans teeth is largely a myth: most kibble shatters on contact without ever touching the gumline. Products with a specific dental action exist and are formulated with larger, fibrous pieces that the tooth sinks into rather than fracturing, and those do have measurable effect. Look for a recognised veterinary dental accreditation on the packaging rather than a marketing claim.</p>
   <p>Raw feeding, done properly, tends to produce visibly cleaner teeth, largely because of the mechanical action of appropriate raw meaty bones. It also carries risks — fractures from weight-bearing bones, obstruction, bacterial handling — and it should be discussed with a veterinarian rather than adopted from a forum. Whichever diet you choose, the effect on dental health is secondary to brushing.</p>
+  <!--/BLOCCO:9-->
 
+  <!--BLOCCO:10-->
   <h2>Teething, month by month</h2>
   <p>The 28 milk teeth erupt between three and six weeks; the change to the permanent set begins at three to five months and is complete at six or seven, with 42 teeth. During the change it is normal to see slightly red, swollen gums, more drooling, a strong urge to chew, some reluctance with hard food, and small teeth found around the house. To help, offer frozen toys, a Kong filled with water and frozen, soft rubber chews rather than hard ones, and wet food for a few days if the puppy refuses kibble; until all the adult teeth are in, no tug-of-war with rags, ropes or similar. See the vet if a milk tooth is still in place next to its permanent replacement after seven months, if permanent teeth come in crooked or crowded, or if you see heavy bleeding, facial swelling or a complete refusal to eat.</p>
+  <!--/BLOCCO:10-->
 
+  <!--BLOCCO:11-->
   <h2>Teaching brushing, from puppyhood</h2>
   <p><strong>Eight to twelve weeks: handling.</strong> For the first few days, touch the muzzle and lips gently while stroking the puppy, and reward at once, a few seconds three or four times a day. Then lift the upper lip for two or three seconds to show the front teeth, building up to five or ten. In the second week, rub the front teeth gently with damp gauze or a silicone finger brush; by the third and fourth weeks, extend to the premolars at the back, fifteen to twenty seconds a side.</p>
   <p><strong>Twelve to sixteen weeks: the toothbrush.</strong> A soft-bristled dog toothbrush, an enzymatic veterinary toothpaste flavoured with meat or chicken, never a human one, and high-value rewards.</p>
   <p><strong>From four months: full brushing</strong>, three to seven times a week, two or three minutes in all. Brush from the gum line towards the tip, spending most of the time on the premolars and molars at the back, where tartar builds first; the inner surfaces are optional if the dog tolerates them. End with a generous reward; no rinsing is needed. If the dog struggles, stop and try later; if the gums bleed, you are brushing too hard.</p>
+  <!--/BLOCCO:11-->
 
+  <!--BLOCCO:12-->
   <h2>The common problems</h2>
   <p><strong>Gingivitis</strong> shows as red, swollen gum margins that bleed when brushed, with moderately bad breath; caught early it reverses with better hygiene, and if it persists it needs a professional clean. <strong>Periodontitis</strong> is the advanced stage: receding gums, pockets, loose teeth, pus and severe pain, treated with deep cleaning, extraction of damaged teeth and medication. <strong>Fractured teeth</strong> come from objects that are too hard, knocks or over-rough tug games; if the pulp is exposed, the dog should be seen within 24 to 48 hours and fed soft food until then. <strong>Tartar</strong> starts as yellow-brown deposits at the gum line of the back teeth: mild tartar calls for more brushing, moderate or severe tartar for a professional clean.</p>
   <p>A professional clean needs <strong>general anaesthesia</strong>, because the part that matters, below the gum line, cannot be reached on an awake dog. It takes thirty to ninety minutes: ultrasonic scaling breaks up the tartar, hand instruments remove what remains, and polishing smooths the surface. Blood tests are done beforehand, above all in older dogs. In Italy a standard clean costs roughly 150 to 200 euros, and 250 to 400 or more with extractions.</p>
+  <!--/BLOCCO:12-->
 
+  <!--BLOCCO:13-->
   <h2>Frequently asked questions</h2>
 
   <div class="faq-list">
@@ -164,11 +189,12 @@ custom_content: |
   <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Choosing a breeder">Advice before taking on a puppy</a></li>
   </ul>
   </div>
-  
+
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   </div>
-  
+  <!--/BLOCCO:13-->
+
   </article>
   </div>
 ---

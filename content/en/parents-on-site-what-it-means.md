@@ -12,6 +12,7 @@ thumb: "/images/blog/icone/genitori-visibili-cosa-significa.webp"
 description: "Why the sire of a litter is almost never at the kennel, how to check a stud dog that lives a thousand kilometres away, and what to look for in the dam."
 slug: "parents-on-site-what-it-means"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -27,6 +28,7 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:1-->
 
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> &rsaquo;
@@ -40,6 +42,7 @@ custom_content: |
 
   <p>&ldquo;Both parents on site&rdquo; is one of the most common phrases in Staffordshire Bull Terrier puppy adverts, and it sounds like a guarantee of good practice. Taken literally, though, it describes something different from what it seems to promise: the dam is always there, because the puppies were born there, while the sire almost never is &mdash; and not out of secrecy. A breeding programme that looks ahead searches for the stud dog elsewhere, often abroad, because the dogs that meet the requirements of health testing, inbreeding coefficient and structural compatibility are few and far between. A stud living a thousand kilometres away, however, can be checked far more thoroughly than one seen for two minutes in a yard. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
+  <!--BLOCCO:2-->
   <h2>What it should say is &ldquo;dam on site&rdquo;</h2>
 
   <p>The dam is always there, because the puppies were born there. The sire almost never is, and not out of reticence: a serious breeding programme goes looking for the male outside.</p>
@@ -47,7 +50,9 @@ custom_content: |
   <p>When a mating is planned you do not choose the most convenient dog: you look for the one that corrects what the bitch lacks. You look at the genetic tests, at the theoretical inbreeding coefficient of the litter, at structural compatibility &mdash; build, head, movement. And the dogs that meet those requirements, across the breed internationally, <strong>can be counted</strong>. There are few of them, and they are far away.</p>
 
   <p>The truth no advert prints is this: to build something over the years, in nine cases out of ten you have to go outside. And going outside has a precise price, between stud fee, travel and hotel: it is set out <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/#costi-cucciolata" title="What a litter costs us, item by item">in what a litter costs us, item by item</a>.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>The stud at home: the arithmetic that does not add up</h2>
 
   <p>Take the luckiest case. A kennel has a genuinely good male at home: tested, titled, with a solid line behind him.</p>
@@ -57,7 +62,9 @@ custom_content: |
   <p>His daughters cannot be mated to him. Nor can his granddaughters, except by pushing the inbreeding coefficient past any reasonable threshold. Within two generations that male, who was the strength of the kennel, becomes the point at which the line closes.</p>
 
   <p><strong>A kennel that always shows the sire at home is a kennel that does not look outside.</strong> That is not a guarantee: it is the limit of settling for what you already own.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>So how do you check a stud a thousand kilometres away?</h2>
 
   <p>Better than you could ever check a dog seen for two minutes in a yard.</p>
@@ -73,7 +80,9 @@ custom_content: |
   <p>Four checks anyone can run from home, on a dog they will never see. Against &ldquo;I saw him, he looked nice&rdquo;.</p>
 
   <p>And there is a fifth, which cannot be done from home but which in this world works better than all the others: <strong>the checking is done by other breeders</strong>. In a breed where everybody knows everybody, a pedigree with a dog that does not belong in it, or an inflated title, is found out within weeks &mdash; because somebody has seen those dogs in the ring, and somebody else owns a son or a brother. Transparency here is not goodwill: it is that there is no alternative.</p>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>So what do you actually look at in the dam?</h2>
 
   <p>Here the visit matters a great deal, but not for the reasons people assume.</p>
@@ -85,7 +94,9 @@ custom_content: |
   <p><strong>Where they were born and where they are growing up.</strong> This may be the most important point of all, and it is not about the dam but about the place: a puppy raised indoors, among household noise and people, arrives in its new family already used to the life it will lead. One raised in a shed does not, however healthy its mother may be.</p>
 
   <p><strong>Who else is around.</strong> The breeder, the other adult dogs, how they look, how they behave. Those are the dogs that selection has produced over the years: they are the result, not the plan.</p>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>Two honest caveats</h2>
 
   <p><strong>A nursing bitch may not be in condition.</strong> A female raising eight puppies has given everything: dull coat, weight down, a tired look. That is normal and should be said, rather than glossed over. Judging a bitch in lactation as you would judge her in the ring makes no sense.</p>
@@ -97,7 +108,9 @@ custom_content: |
   <p>From that day until weaning we divided the whelping box in two: the puppies slept beside their mother, separated, and nursed every two or three hours under supervision.</p>
 
   <p>It is a hard thing to tell and you will not read it anywhere else. But anyone visiting a kennel should know that a dam kept apart from her puppies is not necessarily a sign of bad faith: sometimes it is the only right thing to do. The difference lies in one thing only &mdash; <strong>whether the breeder tells you, or tries to hide it</strong>.</p>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:7-->
   <h2>In short</h2>
 
   <p>&ldquo;Parents on site&rdquo; is a phrase, not a guarantee. What counts is:</p>
@@ -136,13 +149,16 @@ custom_content: |
   <li><a href="/en/litters-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier litters: planned and past">Staffordshire Bull Terrier litters: planned and past</a></li>
   </ul>
   </div>
-  
+  <!--/BLOCCO:7-->
+
   </article>
   </div>
 
+  <!--BLOCCO:8-->
   <section class="cta-section">
   <h2>Would you like to meet our dogs?</h2>
   <p>The Del Piccolo Diavolo kennel receives visitors by appointment in Ostellato, province of Ferrara. You see the mothers, the puppies and the house they grow up in.</p>
   <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20to%20meet%20your%20dogs" class="btn" title="Message us on WhatsApp" target="_blank" rel="noopener" aria-label="Message us on WhatsApp to arrange a visit (opens in a new tab)">Arrange a visit</a>
   </section>
+  <!--/BLOCCO:8-->
 ---

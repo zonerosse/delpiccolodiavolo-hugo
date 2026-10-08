@@ -12,6 +12,7 @@ thumb: "/images/blog/icone/genitori-visibili-cosa-significa.webp"
 description: "Perché il padre di una cucciolata quasi mai è visibile in allevamento, come si verifica un maschio che sta a mille chilometri e cosa guardare nella madre."
 slug: "genitori-visibili-cosa-significa"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -27,6 +28,7 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:1-->
 
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> &rsaquo;
@@ -40,6 +42,7 @@ custom_content: |
 
   <p>&laquo;Genitori visibili&raquo; &egrave; una delle formule pi&ugrave; ricorrenti negli annunci di cuccioli di Staffordshire Bull Terrier, e suona come una garanzia di serietà. Presa alla lettera per&ograve; descrive una cosa diversa da quella che sembra promettere: la madre c'&egrave; sempre, perch&eacute; i cuccioli sono nati l&igrave;, mentre il padre quasi mai &mdash; e non per reticenza. Un programma di allevamento che guarda avanti cerca lo stallone fuori, spesso all'estero, perch&eacute; i soggetti che rispondono ai requisiti di test, coefficiente di consanguineit&agrave; e compatibilit&agrave; strutturale sono pochi e distanti. Un maschio che sta a mille chilometri, per&ograve;, si verifica meglio di uno visto due minuti in un cortile, perché di lui restano test, pedigree e figli da guardare. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
+  <!--BLOCCO:2-->
   <h2>Quello che si dovrebbe leggere &egrave; &laquo;madre visibile&raquo;</h2>
 
   <p>La madre c'&egrave; sempre, perch&eacute; i cuccioli sono nati l&igrave;. Il padre quasi mai, e non per reticenza: perch&eacute; un programma di allevamento serio, il maschio, lo va a cercare fuori.</p>
@@ -47,7 +50,9 @@ custom_content: |
   <p>Quando si pianifica un accoppiamento non si sceglie il cane pi&ugrave; comodo: si cerca il soggetto che corregge quello che manca alla femmina. Si guardano i test genetici, il coefficiente di consanguineit&agrave; teorico della cucciolata, la compatibilit&agrave; fenotipica &mdash; struttura, testa, movimento. E i soggetti che rispondono a quei requisiti, nel panorama internazionale della razza, <strong>si contano</strong>. Sono pochi, e stanno a chilometri di distanza.</p>
 
   <p>La verit&agrave; che nessun annuncio scrive &egrave; questa: per costruire qualcosa negli anni, nel novanta per cento dei casi devi andare fuori. E andare fuori ha un prezzo preciso, fra diritti di monta, viaggio e albergo: lo trovi <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/#costi-cucciolata" title="Quanto costa una cucciolata, voce per voce">nei costi di una cucciolata, voce per voce</a>.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>Il maschio in casa: il conto che non torna</h2>
 
   <p>Mettiamo il caso pi&ugrave; fortunato. Un allevamento ha in casa un maschio davvero di livello: testato, titolato, con una linea solida alle spalle.</p>
@@ -57,7 +62,9 @@ custom_content: |
   <p>Le figlie nate da lui non si possono accoppiare con lui. Le nipoti nemmeno, se non a costo di far salire il coefficiente di consanguineit&agrave; oltre qualsiasi soglia ragionevole. Nel giro di due generazioni quel maschio, che era il punto di forza, diventa il punto in cui la linea si chiude.</p>
 
   <p><strong>Un allevamento che mostra sempre il padre in casa &egrave; un allevamento che non cerca fuori.</strong> Non &egrave; una garanzia: &egrave; il limite di chi si accontenta di quello che ha gi&agrave;.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>Allora un maschio a mille chilometri come si controlla?</h2>
 
   <p>Si controlla meglio di quanto si controllerebbe un cane visto due minuti in un cortile.</p>
@@ -73,7 +80,9 @@ custom_content: |
   <p>Quattro verifiche che chiunque pu&ograve; fare da casa, su un cane che non vedr&agrave; mai. Contro &laquo;l'ho visto, era bello&raquo;.</p>
 
   <p>E ce n'&egrave; una quinta, che non si pu&ograve; fare da casa ma che in questo ambiente funziona meglio di tutte: <strong>il controllo lo fanno gli altri allevatori</strong>. In una razza dove ci si conosce tutti, chi mette in un pedigree un cane che non c'entra, o gonfia un titolo, viene scoperto in poche settimane &mdash; perch&eacute; quei cani qualcuno li ha visti in ring, e qualcun altro ne ha il figlio o il fratello. La trasparenza qui non &egrave; buona volont&agrave;: &egrave; che non si pu&ograve; fare altrimenti.</p>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>E la madre allora, cosa si guarda davvero</h2>
 
   <p>Qui la visita conta eccome, ma non per le ragioni che si credono.</p>
@@ -85,7 +94,9 @@ custom_content: |
   <p><strong>Dove sono nati e dove stanno crescendo.</strong> Questo forse &egrave; il punto pi&ugrave; importante di tutti, e non riguarda la madre ma il posto: un cucciolo che cresce in casa, in mezzo ai rumori domestici e alle persone, arriva in famiglia gi&agrave; abituato alla vita che far&agrave;. Uno cresciuto in un capannone no, per quanto sana sia sua madre.</p>
 
   <p><strong>Chi c'&egrave; intorno.</strong> L'allevatore, gli altri cani adulti, come stanno, come si comportano. Quelli sono i cani che quella selezione ha prodotto negli anni: sono il risultato, non il progetto.</p>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>Due precisazioni oneste</h2>
 
   <p><strong>Una madre che allatta pu&ograve; non essere in forma.</strong> Una femmina che sta crescendo otto cuccioli ha dato tutto: pelo opaco, peso calato, aria stanca. &Egrave; normale e va detto, invece di far finta di niente. Giudicare una fattrice in lattazione come si giudicherebbe in esposizione non ha senso.</p>
@@ -97,7 +108,9 @@ custom_content: |
   <p>Da quel giorno e fino allo svezzamento abbiamo diviso in due la cassa parto: i cuccioli dormivano accanto alla madre, separati, e la poppata avveniva ogni due o tre ore sotto sorveglianza.</p>
 
   <p>&Egrave; una cosa che fa male da raccontare e che non si legge da nessuna parte. Ma chi visita un allevamento deve sapere che una madre separata dai cuccioli non &egrave; per forza un segnale di malafede: a volte &egrave; l'unica cosa giusta da fare. La differenza sta in una cosa sola &mdash; <strong>se l'allevatore te lo racconta o se cerca di nasconderlo</strong>.</p>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:7-->
   <h2>In sintesi</h2>
 
   <p>&laquo;Genitori visibili&raquo; &egrave; una formula, non una garanzia. Quello che conta &egrave;:</p>
@@ -128,13 +141,16 @@ custom_content: |
   <li><a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">Come nasce e cresce una cucciolata</a></li>
   </ul>
   </div>
+  <!--/BLOCCO:7-->
 
   </article>
   </div>
 
+  <!--BLOCCO:8-->
   <section class="cta-section">
   <h2>Vuoi conoscere i nostri cani?</h2>
   <p>L'allevamento Del Piccolo Diavolo riceve su appuntamento a Ostellato, in provincia di Ferrara. Si vedono le madri, i cuccioli e la casa in cui crescono.</p>
   <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20conoscere%20i%20vostri%20cani" class="btn" title="Scrivici su WhatsApp" target="_blank" rel="noopener" aria-label="Scrivici su WhatsApp per fissare una visita (si apre in una nuova scheda)">Fissa una visita</a>
   </section>
+  <!--/BLOCCO:8-->
 ---

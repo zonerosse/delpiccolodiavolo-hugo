@@ -19,6 +19,9 @@ Dieser Wurf wurde im Februar 2026 aus der Verpaarung von Red und Skilful-dogs No
 
 Wir freuen uns, die Geburt eines lang erwarteten Wurfes in der Zuchtstätte **Del Piccolo Diavolo** bekannt zu geben. Diese Kombination vereint die Kraft der Vangerbull-Linie mit der bewährten Zuchtqualität von Nora, die bereits Mutter von zwei Italienischen Champions ist.
 
+
+<!--BLOCCO:1-->
+
 ## Welpen-Video
 
 <video controls muted playsinline preload="none" poster="/images/video-cuccioli-red-nora-poster.webp" style="width:100%;max-width:480px;border-radius:12px;margin:1.5rem auto;display:block">
@@ -27,6 +30,12 @@ Ihr Browser unterstützt kein Video.
 </video>
 
 <p style="text-align:center;font-size:.85rem;color:#6b5d52;font-style:italic;margin:-.5rem auto 1.5rem;max-width:480px">Im Video sind die Welpen im Außengehege, wo sie ihre Spielstunden in der Sonne verbringen.</p>
+
+<!--/BLOCCO:1-->
+
+
+
+<!--BLOCCO:2-->
 
 ## Die Eltern
 
@@ -59,6 +68,12 @@ Ihr Browser unterstützt kein Video.
   </div>
 </div>
 
+<!--/BLOCCO:2-->
+
+
+
+<!--BLOCCO:3-->
+
 ## Der Wurf
 
 **Geburtsdatum:** 9. Februar 2026
@@ -67,6 +82,12 @@ Ihr Browser unterstützt kein Video.
 **[Farben](/de/staffordshire-bull-terrier-farben/ "Die Farben des Staffordshire Bull Terrier"):** gestromt und rot-weiß
 
 **Status:** Nicht verfügbar
+
+<!--/BLOCCO:3-->
+
+
+
+<!--BLOCCO:4-->
 
 ## Warum dieser Wurf besonders ist
 
@@ -82,6 +103,12 @@ Nora ist keine gewöhnliche Zuchthündin. Sie ist bereits **Mutter von zwei Ital
 - **Lothar Matthäus** — Italienischer Jugendchampion ENCI + Slowenischer Champion 🇸🇮, derzeit mit über 20 Ausstellungen aktiv
 
 Dies beweist ihre Fähigkeit, Qualität an ihre Nachkommen weiterzugeben.
+
+<!--/BLOCCO:4-->
+
+
+
+<!--BLOCCO:5-->
 
 ## Gentests
 
@@ -115,8 +142,17 @@ Nora (L2HGA + HC + DM)
 
 <p style="margin-top:1.5rem"><strong>Wurf-Stammbaum:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" class="sbt-link" aria-label="Vollständigen Stammbaum des Wurfes auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">Auf SBTPedigree ansehen →</a></p>
 
+<!--/BLOCCO:5-->
+
+
+
+<!--BLOCCO:6-->
+
 ## Kontakt
 
 Dieser Wurf ist vollständig. Für Informationen über die Zucht, unsere Zuchthunde oder die Laborzertifikate schreiben Sie uns gerne.
 
 <p style="margin-top:2rem"><a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20h%C3%A4tte%20gerne%20Informationen%20zur%20Zucht" class="btn btn-primary">Kontakt über WhatsApp →</a></p>
+
+<!--/BLOCCO:6-->
+

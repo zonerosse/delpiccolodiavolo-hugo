@@ -12,6 +12,7 @@ thumb: "/images/blog/icone/cuccioli-alimentazione-iniziale.webp"
 description: "Wie viel und wie oft ein Staffordshire Bull Terrier Welpe frisst: Mengen nach Alter, sicherer Futterwechsel und was niemals gegeben werden darf."
 slug: "welpen-erste-fuetterung"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -28,28 +29,30 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>Mahlzeitenfrequenz</span><span>Tagesportionen</span><span>Schrittweise Umstellung</span><span>Hydratation</span><span>Leckerlis & Kauartikel</span><span>Ergänzungen</span>
   <span>Mahlzeitenfrequenz</span><span>Tagesportionen</span><span>Schrittweise Umstellung</span><span>Hydratation</span><span>Leckerlis & Kauartikel</span><span>Ergänzungen</span>
   </div>
   </div>
-  
+
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/de/" title="Startseite">Startseite</a> ›
   <a href="/de/blog/" title="Blog">Blog</a> ›
   <a aria-label="Welpen — Blog-Kategorie" href="/de/blog/#welpen" title="Welpen">Welpen</a> ›
   <span>Erste Fütterung</span>
   </nav>
-  
+
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>Ein Staffordshire Bull Terrier Welpe sollte mindestens in der ersten Woche zu Hause genau das Futter bekommen, das er in der Zucht gefressen hat. Jede spätere Umstellung erfolgt über 7 bis 10 Tage, mit einem Viertel, dann der Hälfte, dann drei Vierteln des neuen Futters, und bei weicherem Kot geht man einen Schritt zurück. Bis 6 Monate bekommt der Welpe drei Mahlzeiten am Tag zu festen Zeiten, danach zwei, und dabei bleibt es das ganze Leben: eine einzige große Mahlzeit ist bei einer Rasse mit tiefem Brustkorb ein Risikofaktor für die Magendrehung. Die Menge richtet sich nach dem Körperzustand, nicht nach der Tabelle auf dem Sack, angepasst um jeweils 10 Prozent. Leckerli bleiben unter 10 Prozent der Tagesration. Durchfall über 24 Stunden oder mit Blut gehört noch am selben Tag zum Tierarzt. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
-  
-  
+
+
+  <!--BLOCCO:2-->
   <h2>Die erste Regel: nicht alles auf einmal ändern</h2>
   <p>Ein Welpe, der in ein neues Zuhause kommt, hat bereits Mutter, Wurfgeschwister und alles Vertraute verloren. Am selben Tag auch noch das Futter zu wechseln fügt Verdauungsprobleme hinzu, und Durchfall bei einem 8 Wochen alten Welpen ist keine Kleinigkeit.</p>
   <p>Füttern Sie mindestens eine Woche lang genau das, <a href="https://europeanpetfood.org/self-regulation/nutritional-guidelines/" title="FEDIAF-Ernährungsleitlinien für Allein- und Ergänzungsfuttermittel" target="_blank" rel="noopener" aria-label="FEDIAF-Ernährungsleitlinien für Allein- und Ergänzungsfuttermittel (wird in einem neuen Tab geöffnet)">was der Züchter gefüttert hat</a>. Wollen Sie danach wechseln, tun Sie es über 7 bis 10 Tage: 3 Tage ein Viertel neues Futter, 3 Tage die Hälfte, 3 Tage drei Viertel, dann vollständig. Wird der Kot weicher, gehen Sie einen Schritt zurück.</p>
@@ -66,28 +69,40 @@ custom_content: |
   </tbody>
   </table>
   <p>Wir geben jedem Welpen einen Vorrat seines gewohnten Futters und den genauen Fütterungsplan mit — genau aus diesem Grund.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>Wie oft und wie viel</h2>
   <p>Bis 6 Monate 3 Mahlzeiten täglich zu festen Zeiten. Ab 6 Monaten zwei, und 2 Mahlzeiten sollten lebenslang bleiben, statt auf eine zu reduzieren: eine einzige große Mahlzeit ist bei einer tiefbrüstigen Rasse ein Risikofaktor für die Magendrehung.</p>
   <p>Die Menge hängt vom Futter und vom Einzeltier ab; die Angabe auf der Packung ist ein Ausgangspunkt, keine Vorschrift. Der wirkliche Maßstab ist der Welpe selbst: die Rippen müssen mit flacher Hand leicht fühlbar sein, von oben muss eine Taille erkennbar sein. Passen Sie in Schritten von 10 Prozent an und beurteilen Sie nach einer Woche neu.</p>
   <p>Verteilen Sie die Mahlzeiten über den Tag und halten Sie die Zeiten konstant, was der Stubenreinheit ebenso hilft wie der Verdauung. Lassen Sie das Futter 15 bis 20 Minuten stehen und nehmen Sie es dann weg, statt den ganzen Tag einen vollen Napf anzubieten.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>Worauf es bei der Futterwahl ankommt</h2>
   <p>Ob trocken, nass oder roh gefüttert wird: die Anforderungen an einen wachsenden Staffordshire Bull Terrier sind dieselben. Das Futter muss für das Wachstum formuliert sein, nicht für erwachsene Hunde. Protein und Fett sollten überwiegend aus benannten tierischen Quellen stammen. Und das Verhältnis von Kalzium zu Phosphor zählt mehr, als die meisten Halter ahnen.</p>
   <p>Dieser letzte Punkt verdient Nachdruck. Zu viel Kalzium während des Wachstums ist schädlich statt nützlich und gehört zu den wenigen echten ernährungsbedingten Ursachen von Skelettproblemen. Deshalb dürfen einem vollwertigen Welpenfutter niemals Kalziumpräparate zugefüttert werden, und deshalb brauchen selbst zubereitete Rationen für Welpen eine fachliche Berechnung statt guter Absichten.</p>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>Gefährliche Lebensmittel</h2>
   <p>Schokolade, Xylit, Weintrauben und Rosinen, Zwiebeln, Knoblauch, Macadamianüsse, Alkohol und gekochte Knochen. Xylit, enthalten in zuckerfreiem Kaugummi und manchen Erdnussbuttern, ist dasjenige, mit dem Halter am wenigsten rechnen, und eines der gefährlichsten: eine kleine Menge verursacht einen dramatischen Blutzuckerabfall.</p>
   <p>Gekochte Knochen jeder Art splittern und können den Darm perforieren. Dazu gehört auch das Hähnchengerippe im Küchenmülleimer, weshalb dieser für einen Welpen unerreichbar sein muss.</p>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>Leckerchen und Training</h2>
   <p>Leckerchen sollten 10 Prozent der Tagesmenge nicht überschreiten, und am einfachsten gelingt das, indem Sie einen Teil der Tagesration fürs Training verwenden, statt zusätzlich zu geben. Ein Welpe, der für sein Futter arbeitet, bekommt Kopfarbeit und bleibt schlank.</p>
   <p>Geben Sie nichts vom Tisch, so überzeugend der Blick auch ist. Diese Rasse ist außerordentlich beharrlich und neigt stark zu Übergewicht; die Gewohnheit ist leichter nie zu beginnen als abzustellen.</p>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:7-->
   <h2>Häufige Verdauungsprobleme</h2>
   <p>Weicher Kot in den ersten Tagen ist meist Stress und legt sich. Anhaltender Durchfall über vierundzwanzig Stunden hinaus, oder Durchfall mit Blut, Mattigkeit oder Erbrechen, gehört noch am selben Tag zum Tierarzt: ein Welpe trocknet schnell aus, und die Parvovirose beginnt so.</p>
   <p>Ein Welpe, der zu schnell frisst, was in einem Wurf von acht üblich ist, profitiert von einem Antischlingnapf. Das ist vorbeugend sinnvoll, weil hastiges Fressen mit Luftschlucken zu den beeinflussbaren Risikofaktoren der Magendrehung gehört.</p>
+  <!--/BLOCCO:7-->
 
+  <!--BLOCCO:8-->
   <h2>Gewicht: der wichtigste Punkt</h2>
   <p>Ein übergewichtiger Welpe ist kein gesunder Welpe, und bei dieser Rasse verschwindet der Überschuss leicht unter der Muskulatur. Wachsende Gelenke tragen die Last ein Jahr lang, und der Schaden aus dieser Zeit bildet sich nicht zurück.</p>
   <p>Wiegen Sie den Welpen wöchentlich auf derselben Waage und notieren Sie es. Ziel ist gleichmäßiges, maßvolles Wachstum; schnelles Wachstum ist kein Erfolg. Lassen Sie im Zweifel bei jedem Impftermin den Ernährungszustand beurteilen — das dauert 10 Sekunden und nützt mehr als jede Tabelle.</p>
@@ -101,7 +116,7 @@ custom_content: |
   <li><a href="/de/staffy-parasitenvorbeugung/" title="Parasitenvorbeugung für Staffordshire Bull Terrier">Parasitenvorbeugung für Staffordshire Bull Terrier</a></li>
   </ul>
   </div>
-  
+
   <div class="related-articles">
   <h3>Mehr zum Thema</h3>
   <ul>
@@ -110,10 +125,10 @@ custom_content: |
   <li><a href="/de/staffy-sichere-bewegung/" title="Sichere Bewegung für Staffordshire Bull Terrier">Sichere Bewegung für Staffordshire Bull Terrier</a></li>
   </ul>
   </div>
-  
+
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
-  
+
   <p class="tags"><strong>Tags:</strong>
   <a aria-label="welpen — Blog-Kategorie" href="/de/blog/#welpen" title="Welpen-Artikel">welpen</a>
   <a aria-label="Ratgeber zum Staffordshire Bull Terrier" href="/de/blog/#welpen" title="Staffy-Artikel">staffordshire bull terrier</a>
@@ -121,7 +136,8 @@ custom_content: |
   <a aria-label="zucht — Blog-Kategorie" href="/de/blog/#welpen" title="Zucht-Artikel">zucht</a>
   </p>
   </div>
-  
+  <!--/BLOCCO:8-->
+
   </article>
   </div>
 ---

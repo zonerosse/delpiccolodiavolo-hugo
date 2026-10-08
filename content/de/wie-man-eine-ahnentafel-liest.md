@@ -12,6 +12,7 @@ thumb: "/images/blog/icone/come-si-legge-un-pedigree.webp"
 description: "Was eine ENCI-Ahnentafel wirklich zeigt, was SBTPedigree ergänzt und wie man mit dem Test Mating eine Verpaarung studiert, bevor man sie macht."
 slug: "wie-man-eine-ahnentafel-liest"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -27,6 +28,7 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:1-->
 
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/de/" title="Startseite">Startseite</a> &rsaquo;
@@ -37,12 +39,13 @@ custom_content: |
 
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>Eine Ahnentafel eines Staffordshire Bull Terrier zu lesen heißt, zwei verschiedene Werkzeuge zu benutzen. Die <strong>ENCI-Urkunde</strong> ist das offizielle Dokument: sie bescheinigt Eltern, Großeltern und Urgroßeltern und nennt die eingetragenen Titel und die hinterlegten Untersuchungen, zeigt aber weder die Gentests noch ein einziges Foto der Hunde. <strong>SBTPedigree</strong>, das internationale Archiv der Rasse, ergänzt, was fehlt: die Fotos der Vorfahren Generation für Generation, die hochgeladenen Gentests, die ausländischen Titel und vor allem die Nachzucht, also was dieser Hund hervorgebracht hat. Seine Test-Mating-Funktion berechnet den theoretischen Inzuchtkoeffizienten eines Wurfs und zeigt, auf welche Vorfahren er sich konzentriert: derselbe Hund kann einen Koeffizienten von 9 Prozent über acht Generationen und von 21 über die vollständige Ahnentafel haben. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
 
   <p>&bdquo;Er hat Papiere&ldquo; ist der Satz, der jede Diskussion beendet, und er bedeutet fast nichts. Die Ahnentafel sagt, <strong>von wem ein Hund abstammt</strong>, nicht, was er wert ist. Und vor allem: es gibt zwei verschiedene Dokumente mit zwei verschiedenen Zwecken, und wer nicht züchtet, kennt meist nur eines davon.</p>
 
+  <!--BLOCCO:2-->
   <h2>Die ENCI-Urkunde: das amtliche Dokument</h2>
 
   <p>Die Ahnentafel, die der ENCI für einen Staffordshire Bull Terrier ausstellt, ist das <strong>offizielle</strong> Dokument. Sie bescheinigt, wer die Eltern, Großeltern und Urgroßeltern dieses Hundes sind, und nennt die <strong>eingetragenen Titel</strong>: Italienischer Champion, anerkannte ausländische Championate und die gegebenenfalls hinterlegten amtlichen Untersuchungen.</p>
@@ -65,7 +68,9 @@ custom_content: |
   </ul>
 
   <p>Mit der ENCI-Urkunde in der Hand wissen Sie, dass der Hund der ist, der er zu sein vorgibt. Sie wissen nicht, wie er beschaffen ist, und Sie wissen nicht, was er weitergibt.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>SBTPedigree: wo man wirklich hinschaut</h2>
 
   <p><a href="https://sbtpedigree.com/" target="_blank" rel="noopener" aria-label="SBTPedigree, das Archiv der Rasse (wird in einem neuen Tab geöffnet)">SBTPedigree</a> ist ein internationales Archiv für den Staffordshire Bull Terrier, gespeist von Züchtern und Besitzern aus der halben Welt. Es ist kein offizielles Dokument, und genau das macht es nützlich: es enthält die Dinge, die die Urkunde nicht enthalten kann.</p>
@@ -79,7 +84,9 @@ custom_content: |
   <p><strong>Die Titel</strong>, auch die ausländischen, die auf der italienischen Urkunde nicht erscheinen.</p>
 
   <p><strong>Die Nachzucht</strong>, die SBTPedigree zeigt und die ENCI-Urkunde nicht: was dieser Hund hervorgebracht hat, in welchen Verpaarungen, mit welchen Ergebnissen. Es ist die Information, die am meisten wiegt und die Ihnen keine Urkunde gibt &mdash; ein Hund wird auch danach beurteilt, was er hinterlässt.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>Das Test Mating</h2>
 
   <p>Und dann gibt es die Funktion, die ich am meisten benutze und die außerhalb der Züchterwelt fast niemand kennt: das <strong>Test Mating</strong>, die Probeverpaarung.</p>
@@ -108,7 +115,9 @@ custom_content: |
   <p>Von den verdoppelten Vorfahren ist der dritte Punkt der, der wirklich zählt. Es reicht nicht zu wissen, <em>wie stark</em> man einengt: man muss wissen, <strong>auf wen</strong>. Vierzehnmal auf einen Hund zu verdoppeln heißt darauf zu wetten, dass dieser Hund es wert ist, gefestigt zu werden &mdash; und wenn man sich irrt, festigt man auch seine Fehler.</p>
 
   <p>Das ist der Grund, warum eine Verpaarung monatelang studiert wird. Man wählt einen Rüden nicht, weil er schön ist oder weil er gewonnen hat: man schaut, was passiert, wenn diese beiden Abstammungen aufeinandertreffen.</p>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>Wie man damit einen Züchter überprüft</h2>
 
   <p>Und hier wird die Sache für jemanden nützlich, der einen Welpen sucht, nicht nur für jemanden, der züchtet.</p>
@@ -120,7 +129,9 @@ custom_content: |
   <p><strong>Vergleichen Sie mit dem, was man Ihnen gesagt hat.</strong> Wenn beides nicht zusammenpasst, haben Sie Ihre Antwort, ohne diskutieren zu müssen.</p>
 
   <p>Und ein Detail, das man kennen sollte, um eine Zucht zu beurteilen: auf der ENCI-Website lässt sich mit der <strong>Mikrochipnummer</strong> auch die Zahl der Würfe einer Hündin abfragen. Damit prüft man das Tempo einer Zucht, ohne jemanden fragen zu müssen.</p>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>Unsere</h2>
 
   <p>Die Hunde von Del Piccolo Diavolo sind auf SBTPedigree eingetragen, und von jeder Hundeseite dieser Website führt ein direkter Link zu ihrer Seite dort. Auf den Hundeseiten finden Sie auch die Mikrochipnummer und die Zuchtbuchnummer, die beiden Schlüssel für die oben beschriebenen Prüfungen.</p>
@@ -148,6 +159,7 @@ custom_content: |
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>
+  <!--/BLOCCO:6-->
 
   </article>
   </div>

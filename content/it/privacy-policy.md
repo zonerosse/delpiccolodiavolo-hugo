@@ -7,6 +7,7 @@ translationKey: "privacy"
 description: "Informativa privacy dell'Allevamento Del Piccolo Diavolo a Ostellato (FE): quali dati trattiamo, perché, per quanto tempo e i diritti previsti dal GDPR."
 slug: "privacy-policy"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -19,19 +20,21 @@ custom_content: |
   <p class="hero-subtitle">Trattamento dei dati personali</p>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>Trasparenza</span><span>GDPR Compliant</span><span>No Cookie</span><span>Dati Protetti</span><span>Diritti Garantiti</span>
   <span>Trasparenza</span><span>GDPR Compliant</span><span>No Cookie</span><span>Dati Protetti</span><span>Diritti Garantiti</span>
   </div>
   </div>
-  
+
+  <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Privacy</span>
   <h2 class="section-title">Informativa sul Trattamento dei Dati Personali</h2>
-  
+
   <div class="legal-section">
   <h3>1. Titolare del Trattamento</h3>
   <p>Il Titolare del trattamento dei dati personali è:</p>
@@ -41,7 +44,7 @@ custom_content: |
   Email: <a href="mailto:zonerosse@gmail.com" title="Scrivici via email">zonerosse@gmail.com</a><br>
   Tel/WhatsApp: <a href="tel:+393924635584" title="Chiamaci">+39 392 4635584</a></p>
   </div>
-  
+
   <div class="legal-section">
   <h3>2. Tipologie di Dati Raccolti</h3>
   <p><strong>Importante:</strong> Questo sito web non utilizza cookie di tracciamento, cookie di profilazione o sistemi di analisi basati su cookie. Il sito non espone moduli pubblici: i dati arrivano se ci scrivi o ci telefoni, oppure tramite il modulo di contatto descritto al punto 9, che non è raggiungibile dai menu e il cui collegamento inviamo su richiesta.</p>
@@ -58,30 +61,30 @@ custom_content: |
   <li><strong>Altre informazioni:</strong> qualsiasi altra informazione che decidi di condividere con noi durante le comunicazioni relative all'interesse per i nostri cuccioli</li>
   </ul>
   </div>
-  
+
   <div class="legal-section">
   <h3>3. Finalità e Base Giuridica del Trattamento</h3>
   <p>I dati personali sono trattati per le seguenti finalità:</p>
-  
+
   <h4>a) Gestione delle richieste di informazioni</h4>
   <p><strong>Finalità:</strong> Rispondere alle richieste di informazioni sui nostri cuccioli, sulla razza Staffordshire Bull Terrier e sull'attività dell'allevamento.</p>
   <p><strong>Base giuridica:</strong> Esecuzione di misure precontrattuali adottate su richiesta dell'interessato (Art. 6, par. 1, lett. b GDPR).</p>
-  
+
   <h4>b) Affido dei cuccioli</h4>
   <p><strong>Finalità:</strong> Organizzare le visite in allevamento, procedere all'affido dei cuccioli.</p>
   <p><strong>Base giuridica:</strong> Esecuzione del contratto di affido (Art. 6, par. 1, lett. b GDPR).</p>
-  
+
   <h4>c) Assistenza dopo l'affido</h4>
   <p><strong>Finalità:</strong> Fornire supporto e assistenza ai proprietari dei nostri cuccioli, condividere aggiornamenti sulla salute dei riproduttori, comunicare informazioni rilevanti sulla razza.</p>
   <p><strong>Base giuridica:</strong> Legittimo interesse del titolare e consenso dell'interessato (Art. 6, par. 1, lett. a e f GDPR).</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>4. Modalità di Trattamento</h3>
   <p>I dati personali sono trattati con strumenti manuali ed elettronici, con logiche strettamente correlate alle finalità indicate e con l'adozione di misure di sicurezza adeguate a garantire la riservatezza e prevenire accessi non autorizzati.</p>
   <p>I canali di comunicazione utilizzati sono: Telefono, Email, WhatsApp.</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>5. Periodo di Conservazione</h3>
   <p>I dati personali sono conservati per il tempo necessario al perseguimento delle finalità indicate:</p>
@@ -91,7 +94,7 @@ custom_content: |
   <li><strong>Assistenza dopo l'affido:</strong> I dati vengono conservati fino a revoca del consenso da parte dell'interessato.</li>
   </ul>
   </div>
-  
+
   <div class="legal-section">
   <h3>6. Comunicazione e Diffusione dei Dati</h3>
   <p>I dati personali non saranno oggetto di diffusione. Potrebbero essere comunicati esclusivamente a:</p>
@@ -103,7 +106,7 @@ custom_content: |
   </ul>
   <p>I fornitori che ci ospitano e ci forniscono strumenti (Cloudflare, Google) sono società con sede anche fuori dall’Unione Europea: eventuali trasferimenti avvengono sulla base delle clausole contrattuali standard approvate dalla Commissione europea. Per gli affidi verso altri paesi dell'Unione valgono le comunicazioni descritte al punto 10.</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>7. Diritti dell'Interessato</h3>
   <p>In qualità di interessato, hai il diritto di:</p>
@@ -118,7 +121,7 @@ custom_content: |
   </ul>
   <p>Per esercitare questi diritti, contattaci a: <a href="mailto:zonerosse@gmail.com" title="Scrivici via email">zonerosse@gmail.com</a> o al numero <a href="tel:+393924635584" title="Chiamaci">+39 392 4635584</a>.</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>8. Diritto di Reclamo</h3>
   <p>Hai il diritto di proporre reclamo all'Autorità Garante per la Protezione dei Dati Personali se ritieni che il trattamento dei tuoi dati violi il GDPR.</p>
@@ -127,8 +130,8 @@ custom_content: |
   Tel: <a href="tel:+390669677001" title="Chiama il Garante Privacy">+39 06 696771</a><br>
   Sito: <a href="https://www.garanteprivacy.it" target="_blank" rel="noopener" title="Sito del Garante Privacy" aria-label="Sito del Garante Privacy (si apre in una nuova scheda)">www.garanteprivacy.it</a></p>
   </div>
-  
-  
+
+
   <div class="legal-section">
   <h3>9. Modulo di contatto</h3>
   <p>Esiste un modulo per raccogliere i dati di chi desidera essere avvisato quando è in arrivo una cucciolata. <strong>Non è pubblicato sul sito e non è raggiungibile dai menu:</strong> si trova all'indirizzo <code>/contatto/</code> e il collegamento viene inviato dal titolare, su richiesta, a chi ha già avuto un primo contatto con l'allevamento.</p>
@@ -169,19 +172,22 @@ custom_content: |
   <p><strong>Video YouTube.</strong> Alcune pagine del diario di allevamento contengono un video incorporato da YouTube. Usiamo il dominio <code>youtube-nocookie.com</code>: finché non premi <em>play</em>, YouTube non riceve identificatori e non scrive nulla sul tuo dispositivo. Se avvii il video, Google riceve il tuo indirizzo IP e può utilizzare tecnologie di archiviazione locale secondo la propria informativa (<a href="https://policies.google.com/privacy" target="_blank" rel="noopener" aria-label="policies.google.com/privacy (si apre in una nuova scheda)">policies.google.com/privacy</a>). Puoi vedere tutte le pagine del sito senza mai avviarlo.</p>
   <p>Il sito raccoglie statistiche di traffico aggregate tramite <strong>Cloudflare Web Analytics</strong>, che non installa cookie sul tuo dispositivo, non assegna identificatori e non ti segue fra siti diversi. Per questo motivo il sito non mostra alcun banner di consenso: non c’è nulla per cui chiederlo.</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>13. Modifiche alla Privacy Policy</h3>
   <p>Questa Privacy Policy può essere aggiornata periodicamente per riflettere modifiche normative o cambiamenti nelle nostre pratiche di trattamento dei dati.</p>
   <p class="last-updated"><em>Ultimo aggiornamento: settembre 2026</em></p>
   </div>
-  
+
   </div>
   </section>
-  
+  <!--/BLOCCO:2-->
+
+  <!--BLOCCO:3-->
   <section class="dark-section">
   <h2>Hai Domande sulla Privacy?</h2>
   <p>Contattaci per qualsiasi chiarimento sul trattamento dei tuoi dati personali.</p>
   <a href="/wa/393924635584" class="btn" title="Scrivici su WhatsApp">Scrivici su WhatsApp</a>
   </section>
+  <!--/BLOCCO:3-->
 ---

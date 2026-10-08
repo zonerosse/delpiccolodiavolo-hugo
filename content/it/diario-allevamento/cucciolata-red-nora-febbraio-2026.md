@@ -18,6 +18,9 @@ Cuccioli tigrati e rosso pezzato — <strong>Non disponibili</strong>
 
 Siamo felici di annunciare la nascita di una cucciolata molto attesa presso l'allevamento **Del Piccolo Diavolo**. Questa combinazione unisce la potenza della linea Vangerbull con la comprovata capacità riproduttiva di Nora, già madre di due Campioni Italiani.
 
+
+<!--BLOCCO:1-->
+
 ## Video dei cuccioli
 
 <video controls muted playsinline preload="none" poster="/images/video-cuccioli-red-nora-poster.webp" style="width:100%;max-width:480px;border-radius:12px;margin:1.5rem auto;display:block">
@@ -26,6 +29,12 @@ Il tuo browser non supporta il video.
 </video>
 
 <p style="text-align:center;font-size:.85rem;color:#6b5d52;font-style:italic;margin:-.5rem auto 1.5rem;max-width:480px">Nel video i cuccioli sono nel recinto esterno, dove passano le ore di gioco al sole.</p>
+
+<!--/BLOCCO:1-->
+
+
+
+<!--BLOCCO:2-->
 
 ## I genitori
 
@@ -58,6 +67,12 @@ Il tuo browser non supporta il video.
   </div>
 </div>
 
+<!--/BLOCCO:2-->
+
+
+
+<!--BLOCCO:3-->
+
 ## La cucciolata
 
 **Data di nascita:** 9 febbraio 2026
@@ -65,6 +80,12 @@ Il tuo browser non supporta il video.
 **Colori:** tigrato (brindle) e rosso pezzato (red & white)
 
 **Stato:** Non disponibili
+
+<!--/BLOCCO:3-->
+
+
+
+<!--BLOCCO:4-->
 
 ## Perché questa cucciolata è speciale
 
@@ -80,6 +101,12 @@ Nora non è una fattrice qualunque. È già **madre di due Campioni Italiani**:
 - **Lothar Matthäus** — Giovane Campione Italiano ENCI + Campione Sloveno 🇸🇮, attualmente in carriera con oltre 20 esposizioni
 
 Questo dimostra la sua capacità di trasmettere qualità ai figli.
+
+<!--/BLOCCO:4-->
+
+
+
+<!--BLOCCO:5-->
 
 ## Test genetici
 
@@ -113,8 +140,17 @@ Nora (L2HGA + HC + DM)
 
 <p style="margin-top:1.5rem"><strong>Pedigree della cucciolata:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" class="sbt-link" aria-label="Vedi il pedigree completo della cucciolata su SBTPedigree (si apre in una nuova scheda)">Vedi su SBTPedigree →</a></p>
 
+<!--/BLOCCO:5-->
+
+
+
+<!--BLOCCO:6-->
+
 ## Contatti
 
 Questa cucciolata è completa. Per informazioni sull'allevamento, sui nostri riproduttori o sui certificati di laboratorio, scrivici pure.
 
 <p style="margin-top:2rem"><a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20informazioni%20sull%27allevamento" class="btn btn-primary">Contattaci su WhatsApp →</a></p>
+
+<!--/BLOCCO:6-->
+

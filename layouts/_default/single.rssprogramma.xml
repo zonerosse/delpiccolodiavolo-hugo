@@ -13,7 +13,7 @@
     <description>{{ .Description }}</description>
     <language>{{ .Site.Language.Lang }}</language>
     <managingEditor>zonerosse@gmail.com (Paolo Boldrini)</managingEditor>
-    <lastBuildDate>{{ .Lastmod.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
+    <lastBuildDate>{{ (partial "pagine/lastmod.html" .).Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
     {{- with .OutputFormats.Get "RSSPROGRAMMA" }}
     <atom:link href="{{ .Permalink }}" rel="self" type="application/rss+xml" />
     {{- end }}

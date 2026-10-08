@@ -214,3 +214,27 @@ Before working on the site locally, **Fetch/Pull** in GitHub Desktop: the gestio
 - `robots.txt` disallows `/wa/` for every group; `verifica.py` treats `/wa/<digits>` as a valid internal link.
 - The JSON-LD in `partials/schema.html` keeps the real `https://wa.me/` URL (it is data, not a button).
 - New pages: write WhatsApp links as `/wa/393924635584?text=…` (same text-encoding as before).
+
+## Pages edited from the gestionale (Google → Pagine del sito), October 2026
+
+Paolo changes some parts of every page from the gestionale (Google → 🌐 Pagine del sito), in Italian only: Claude (the
+gestionale's /api/ai) translates into EN and DE, and "Pubblica tutte le modifiche" writes **`data/pagine.json`** in one
+commit (Paolo's choices: A in Google, B automatic translations, C2 publish all together). Never edit that file by hand.
+
+- `data/pagine.json` = `{"pagine": {"<translationKey>": {"it":{"title","desc","h1","ap"}, "en":{…}, "de":{…},
+  "spente":[n…], "link":[{"key":"<translationKey>","it","en","de"}], "mod":"YYYY-MM-DD"}}}`. Empty fields = today's text.
+- `layouts/partials/pagine/`: `mod.html` (the changes for a page, in its language), `desc.html` (description),
+  `lastmod.html` (newest of front matter lastmod and `mod`: sitemap, schema, "Aggiornato il", article:modified_time — always
+  use this partial instead of `.Lastmod`), `applica.html` (switched-off blocks, h1, opening paragraph, "Leggi anche" box
+  before the `cta-section`, and it ALWAYS strips the block markers), `apertura.html` (the opening paragraph = first `<p>` after
+  the h1, within 5000 characters, with at least 15 words), `da-chiave.html`. `applica.html` runs in index.html, single.html
+  (both branches), diario single/list, index.md, single.md and llms-full. The title override is in baseof.html.
+- **Blocks**: every page carries `<!--BLOCCO:n-->` … `<!--/BLOCCO:n-->` comments around the blocks that can be switched off,
+  with the same numbers in IT/EN/DE. Written by **`python3 tools/blocchi/segna.py --scrivi`** (idempotent; without
+  `--scrivi` it only reports). Pages whose blocks differ between languages are paired by hand in `MAPPE` in that script
+  (puppies, breeding programme, genetic tests, Bilquis diary: only paired blocks get a switch). **After writing or changing a
+  page, run `segna.py --scrivi`** (a page whose block count differs between languages is reported and left unnumbered).
+  Never put markers inside the GESTIONALE:INIZIO/FINE region; gestionale diary pages are skipped.
+- **`/pagine-indice.json`** (`layouts/index.pagine.json`, output format PAGINE, Italian home only): for every page today's
+  title/description/h1/opening/keyword (from `tools/controlli/parole-chiave.txt`) per language and its blocks (titles, and
+  flags h1/faq/kw/link used by the gestionale to warn). CORS for the gestionale in `index.headers`.

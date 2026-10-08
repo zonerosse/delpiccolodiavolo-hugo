@@ -1,0 +1,13 @@
+{{- /* Modifiche fatte dal gestionale (Google → Pagine del sito) per questa pagina, nella sua lingua.
+       File data/pagine.json, scritto dal gestionale con "Pubblica tutte le modifiche":
+         {"pagine": {"<translationKey>": {"it":{"title","desc","h1","ap"}, "en":{…}, "de":{…},
+                                         "spente":[3,7], "link":[{"key":"<translationKey>","it","en","de"}], "mod":"AAAA-MM-GG"}}}
+       Restituisce un dict con title, desc, h1, ap (vuoti = testo di oggi), spente, link, mod. Niente file = niente modifiche. */ -}}
+{{- $o := dict "spente" slice "link" slice "mod" "" -}}
+{{- $k := .Params.translationKey | default "" -}}
+{{- if $k -}}{{- with site.Data.pagine -}}{{- with .pagine -}}{{- with index . $k -}}
+  {{- $p := . -}}
+  {{- with index $p site.Language.Lang -}}{{- $o = merge $o . -}}{{- end -}}
+  {{- $o = merge $o (dict "spente" ($p.spente | default slice) "link" ($p.link | default slice) "mod" ($p.mod | default "")) -}}
+{{- end -}}{{- end -}}{{- end -}}{{- end -}}
+{{- return $o -}}

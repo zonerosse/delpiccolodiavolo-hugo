@@ -26,7 +26,7 @@
 {{ range where .Site.RegularPages "Params.noindex" "!=" true }}
 {{- $u := .RelPermalink -}}
 {{- if not (or (in $u "/chiedi-recensione") (in $u "404")) -}}
-{{- $c := .Params.custom_content | default .Content -}}
+{{- $c := partial "pagine/applica.html" (dict "p" . "c" (.Params.custom_content | default (string .Content))) -}}
 {{- $c = replaceRE `(?s)<script[^>]*>.*?</script>` "" $c -}}
 {{- $c = replaceRE `(?s)<style[^>]*>.*?</style>` "" $c -}}
 {{- $c = replaceRE `(?s)<svg[^>]*>.*?</svg>` "" $c -}}
@@ -54,7 +54,7 @@
 
 # {{ .Title }}
 URL: {{ .Permalink }}
-{{ with .Description }}{{ if eq $lang "de" }}Beschreibung{{ else if eq $lang "en" }}Description{{ else }}Descrizione{{ end }}: {{ . }}{{ end }}
+{{ with partial "pagine/desc.html" . }}{{ if eq $lang "de" }}Beschreibung{{ else if eq $lang "en" }}Description{{ else }}Descrizione{{ end }}: {{ . }}{{ end }}
 
 {{ $c | plainify | htmlUnescape | safeHTML }}
 

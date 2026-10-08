@@ -8,6 +8,7 @@ translationKey: "privacy"
 description: "Privacy policy of the Del Piccolo Diavolo kennel in Ostellato (FE), Italy: what personal data we process, why, for how long and your rights under the GDPR."
 slug: "privacy-policy"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -20,19 +21,21 @@ custom_content: |
   <p class="hero-subtitle">Personal data processing</p>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>Transparency</span><span>GDPR Compliant</span><span>No Cookies</span><span>Data Protected</span><span>Rights Guaranteed</span>
   <span>Transparency</span><span>GDPR Compliant</span><span>No Cookies</span><span>Data Protected</span><span>Rights Guaranteed</span>
   </div>
   </div>
-  
+
+  <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Privacy</span>
   <h2 class="section-title">Information on Personal Data Processing</h2>
-  
+
   <div class="legal-section">
   <h3>1. Data Controller</h3>
   <p>The Data Controller for personal data processing is:</p>
@@ -42,7 +45,7 @@ custom_content: |
   Email: <a href="mailto:zonerosse@gmail.com" title="Email us">zonerosse@gmail.com</a><br>
   Phone/WhatsApp: <a href="tel:+393924635584" title="Call us">+39 392 4635584</a></p>
   </div>
-  
+
   <div class="legal-section">
   <h3>2. Types of Data Collected</h3>
   <p><strong>Important:</strong> This website does not use tracking cookies, profiling cookies or cookie-based analytics systems. The site exposes no public form: data reaches us if you write or call, or through the contact form described in section 9, which is not reachable from the menus and whose link we send on request.</p>
@@ -59,30 +62,30 @@ custom_content: |
   <li><strong>Other information:</strong> any other information you choose to share with us during communications regarding your interest in our puppies</li>
   </ul>
   </div>
-  
+
   <div class="legal-section">
   <h3>3. Purpose and Legal Basis for Processing</h3>
   <p>Personal data is processed for the following purposes:</p>
-  
+
   <h4>a) Handling information requests</h4>
   <p><strong>Purpose:</strong> Responding to requests for information about our puppies, the Staffordshire Bull Terrier breed, and our kennel activities.</p>
   <p><strong>Legal basis:</strong> Performance of pre-contractual measures taken at the request of the data subject (Art. 6, para. 1, letter b GDPR).</p>
-  
+
   <h4>b) Placement of puppies</h4>
   <p><strong>Purpose:</strong> Organising visits to the kennel, proceeding with the placement of puppies.</p>
   <p><strong>Legal basis:</strong> Performance of the placement agreement (Art. 6, para. 1, letter b GDPR).</p>
-  
+
   <h4>c) Assistance after placement</h4>
   <p><strong>Purpose:</strong> Providing support and assistance to owners of our puppies, sharing updates on breeding dogs' health, communicating relevant information about the breed.</p>
   <p><strong>Legal basis:</strong> Legitimate interest of the controller and consent of the data subject (Art. 6, para. 1, letters a and f GDPR).</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>4. Processing Methods</h3>
   <p>Personal data is processed using manual and electronic means, with logic strictly related to the indicated purposes and with the adoption of adequate security measures to ensure confidentiality and prevent unauthorized access.</p>
   <p>Communication channels used: Phone, Email, WhatsApp.</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>5. Data Retention Period</h3>
   <p>Personal data is retained for the time necessary to achieve the indicated purposes:</p>
@@ -92,7 +95,7 @@ custom_content: |
   <li><strong>Assistance after placement:</strong> Data is retained until consent is withdrawn by the data subject.</li>
   </ul>
   </div>
-  
+
   <div class="legal-section">
   <h3>6. Data Communication and Disclosure</h3>
   <p>Personal data will not be disclosed. It may be communicated exclusively to:</p>
@@ -104,7 +107,7 @@ custom_content: |
     </ul>
   <p>The providers that host the site and supply our tools (Cloudflare, Google) are companies also based outside the European Union: any transfer takes place on the basis of the standard contractual clauses approved by the European Commission. For placements to other EU countries, the communications described in section 10 apply.</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>7. Data Subject Rights</h3>
   <p>As a data subject, you have the right to:</p>
@@ -119,7 +122,7 @@ custom_content: |
   </ul>
   <p>To exercise these rights, contact us at: <a href="mailto:zonerosse@gmail.com" title="Email us">zonerosse@gmail.com</a> or <a href="tel:+393924635584" title="Call us">+39 392 4635584</a>.</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>8. Right to Lodge a Complaint</h3>
   <p>You have the right to lodge a complaint with the Data Protection Authority if you believe that the processing of your data violates the GDPR.</p>
@@ -128,8 +131,8 @@ custom_content: |
   Phone: <a href="tel:+390669677001" title="Call Italian Privacy Authority">+39 06 696771</a><br>
   Website: <a href="https://www.garanteprivacy.it" target="_blank" rel="noopener" title="Italian Privacy Authority website" aria-label="Italian Privacy Authority website (opens in a new tab)">www.garanteprivacy.it</a></p>
   </div>
-  
-  
+
+
   <div class="legal-section">
   <h3>9. Contact Form</h3>
   <p>We use a form to collect the details of anyone who would like to be told when a litter is on the way. <strong>It is not published on this site and cannot be reached from the menus:</strong> it lives at <code>/contatto/</code> and the link is sent by the controller, on request, to people who have already been in touch with the kennel.</p>
@@ -170,19 +173,22 @@ custom_content: |
   <p>No technical cookies, profiling cookies, third-party cookies, or user tracking systems are used.</p>
   <p>The site collects aggregate traffic statistics through <strong>Cloudflare Web Analytics</strong>, which sets no cookies on your device, assigns no identifiers and does not follow you across different sites. For this reason the site shows no consent banner: there is nothing to ask consent for.</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>13. Changes to Privacy Policy</h3>
   <p>This Privacy Policy may be updated periodically to reflect regulatory changes or changes in our data processing practices.</p>
   <p class="last-updated"><em>Last updated: September 2026</em></p>
   </div>
-  
+
   </div>
   </section>
-  
+  <!--/BLOCCO:2-->
+
+  <!--BLOCCO:3-->
   <section class="dark-section">
   <h2>Questions About Privacy?</h2>
   <p>Contact us for any clarification regarding the processing of your personal data.</p>
   <a href="/wa/393924635584" class="btn" title="Write us on WhatsApp">Write on WhatsApp</a>
   </section>
+  <!--/BLOCCO:3-->
 ---

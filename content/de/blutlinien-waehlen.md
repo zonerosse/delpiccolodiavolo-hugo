@@ -12,6 +12,7 @@ thumb: "/images/blog/icone/standard-linee-di-sangue-orientarsi.webp"
 description: "Wie man für einen Welpen die Blutlinie des Staffordshire Bull Terrier wählt: was Sie vom Hund wollen, was Linien unterscheidet, was Sie fragen sollten."
 slug: "blutlinien-waehlen"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -28,58 +29,76 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/de/" title="Home">Home</a> ›
   <a href="/de/blog/" title="Blog">Blog</a> ›
   <span>Blutlinien wählen</span>
   </nav>
-  
+
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>Die Wahl einer Blutlinie beim Staffordshire Bull Terrier beginnt bei Ihnen, nicht bei der Ahnentafel: ob der Hund Begleiter, Ausstellungshund oder späterer Zuchthund werden soll, wie lebhaft Ihr Haushalt ist und wie viel Hund Sie tatsächlich führen wollen. Alle guten Linien entsprechen demselben FCI-Standard; unterschiedlich ist die Betonung, bei Knochen und Substanz, Kopfproportion, Trieb, Verträglichkeit mit anderen Hunden und darin, wie zuverlässig eine Linie ihren Typ vererbt. Englische Linien stehen meist für Ausgewogenheit und korrektes Gangwerk, irische für Kompaktheit und Substanz. Die Gesundheit kommt vor der Linie: Fragen Sie nach den Ergebnissen für L2HGA und HC mit Mikrochipnummer und nach dem Inzuchtkoeffizienten über fünf Generationen. Die Zucht Del Piccolo Diavolo in Ostellato in der Provinz Ferrara arbeitet mit der englischen Linie Elitebull und der irischen Linie Lackyle.</p>
 
   <p>Dies ist der praktische Ratgeber. Die Geschichte der sechs Gründerlinien, von Gentleman Jim, der M-Linie und der R-Linie steht in der <a href="/de/staffy-blutlinien-guide/" title="Geschichte der Staffy-Blutlinien">Geschichte der Blutlinien</a>.</p>
 
-  
-  
+
+
+  <!--BLOCCO:2-->
   <h2>Beginnen Sie mit einer ehrlichen Zieldefinition</h2>
   <p>Die Wahl einer Blutlinie hat keine allgemeingültig richtige Antwort. Es ist eine Frage über Sie: was Sie mit dem Hund vorhaben, wie viel Hund Sie tatsächlich im Haus wollen und was Sie zu managen bereit sind. Eine Linie, die hervorragende Ausstellungshunde bringt, kann für eine Familie in einer Wohnung ungeeignet sein, und eine Linie mit ruhigen, gemäßigten Familienhunden kann jemanden frustrieren, der ausstellen möchte.</p>
   <p>Bevor Sie Zwinger vergleichen, notieren Sie drei Dinge. Ob der Hund Begleiter, Ausstellungsanwärter oder künftiger Zuchthund sein soll. Ob Ihr Haushalt ruhig oder lebhaft ist und ob Kinder oder <a href="/de/staffy-andere-haustiere/" title="Staffordshire Bull Terrier mit anderen Haustieren">andere Tiere</a> da sind. Und wie viel Zeit Sie in einer schlechten Woche wirklich für Erziehung und <a href="/de/staffy-sichere-bewegung/" title="Sichere Bewegung für Staffordshire Bull Terrier">Bewegung</a> haben, nicht in einer guten.</p>
   <p>Fast jede Fehlpaarung zwischen Halter und Hund lässt sich darauf zurückführen, dass eine dieser drei Fragen nie gestellt wurde.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>Was sich zwischen Linien unterscheidet und was nicht</h2>
   <p>Alle Staffordshire Bull Terrier müssen demselben <a href="https://www.fci.be/Nomenclature/Standards/076g03-de.pdf" target="_blank" rel="noopener" aria-label="FCI-Standard Nr. 76, PDF (wird in einem neuen Tab geöffnet)">Standard</a> entsprechen, und die Unterschiede zwischen guten Linien sind Fragen der Betonung, nicht der Art. Tatsächlich variieren Knochenstärke und Substanz, Kopfproportion, Triebstärke und Reizschwelle, Verträglichkeit mit anderen Hunden und wie zuverlässig eine Linie ihren Typ über einen ganzen Wurf hinweg reproduziert.</p>
   <p>Was in keiner ernstzunehmenden Linie variieren darf, ist das Wesen gegenüber Menschen und die <a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA und HC">Gesundheitsuntersuchung</a> hinter der Verpaarung. Ein Züchter, der eine Linie als scharf beschreibt oder einen Hund entschuldigt, der mit Besuch schwierig ist, beschreibt einen Fehler, keine Eigenschaft.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>Englische und irische Linien in der Praxis</h2>
   <p>Englische Linien, unter denen Elitebull auf dem europäischen Festland zu den einflussreichsten zählt, stehen allgemein für ausgewogene Proportionen, gute Kopfqualität ohne Übertreibung und korrektes Gangwerk. Irische Linien wie Lackyle sind bekannt für Kompaktheit, kräftigen Knochen, auffällige Wurfkonstanz und ein offenes, robustes Wesen.</p>
   <p>Unser eigenes Programm verbindet beide bewusst, weil sie einander ergänzen statt zu konkurrieren: das Englische für Ausgewogenheit und Kopf, das Irische für Substanz und Konstanz. Das ist nicht die einzige gültige Strategie, und ein Züchter, der ausschließlich in einer Tradition arbeitet und sie genau kennt, kann bessere Hunde bringen als einer, der ohne Plan mischt.</p>
   <p>Die Frage lautet nicht, aus welchem Land die Hunde stammen, sondern ob der Züchter erklären kann, was jede Linie beiträgt und warum.</p>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>Ausstellungsbetonung und ihr Preis</h2>
   <p>Manche Linien wurden vorrangig durch Ringerfolg geformt, und das hat in dieser Rasse Folgen, die man kennen sollte, bevor man einen Welpen wählt. Wo Richter schwereren Knochen, breitere Fronten und kürzere Fänge belohnt haben, entstehen Hunde, die großartig fotografieren und bei Wärme Mühe haben.</p>
   <p>Wer einen Begleithund sucht, für den wiegt das schwerer als jeder Titel. Lassen Sie sich die Elterntiere in Bewegung zeigen, hören Sie ihre Atmung nach 5 Minuten Aktivität, und fragen Sie direkt, ob der Züchter die Atemqualität in seine Verpaarungen einbezieht. Die Antwort, und wie leicht sie kommt, sagt viel.</p>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>Den Züchter beurteilen, nicht die Ahnentafel</h2>
   <p>Eine Ahnentafel erzählt von Vorfahren. Der Züchter erzählt vom Welpen, den Sie tatsächlich bekommen. Diese Fragen bringen am meisten.</p>
   <p>Warum genau diese beiden Hunde? Wer ein Programm hat, antwortet mit dem, was jedes Elterntier einbringt, was verbessert werden sollte und welcher Kompromiss dafür akzeptiert wurde. Ohne Programm lautet die Antwort, dass beide schön sind.</p>
   <p>Was würden Sie an diesem Wurf ändern? Wer ehrlich ist, hat eine konkrete Antwort.</p>
   <p>Wo leben die Welpen? Welpen, die in der Küche zwischen Haushaltsgeräuschen aufwachsen, sind mit 8 Wochen <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das wirklich heißt">deutlich besser sozialisiert</a> als Welpen aus einem sauberen Außenzwinger, und der Unterschied bleibt.</p>
   <p>Was passiert, wenn es nicht funktioniert? Die richtige Antwort lautet, dass der Hund zum Züchter zurückkommt, in jedem Alter, aus jedem Grund, und dass es im Vermittlungsvertrag steht. Die vollständige Liste der Fragen und wie man die Antworten prüft, steht im Ratgeber <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Eine seriöse Zucht erkennen">eine seriöse Zucht erkennen</a>.</p>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:7-->
   <h2>Linienzucht und wo die Grenze liegt</h2>
   <p>Einen geschätzten Vorfahren in der Ahnentafel zu wiederholen festigt den Typ und ist ein legitimes Werkzeug jedes ernsthaften Programms. Zu weit getrieben kostet es Immunfunktion, Fruchtbarkeit und Lebenserwartung, und zwar für ein bis 2 Generationen unsichtbar.</p>
   <p>Fragen Sie nach dem Inzuchtkoeffizienten über 5 Generationen und danach, wie der Züchter seine Grenze bestimmt. Wer ihn nie berechnet hat, ist nicht zwangsläufig nachlässig; wer die Frage abtut, sagt etwas aus. Wie man eine ENCI-Ahnentafel praktisch liest und was SBTPedigree ergänzt, erklärt Schritt für Schritt der Ratgeber <a href="/de/wie-man-eine-ahnentafel-liest/" title="Wie man eine Ahnentafel liest">wie man eine Ahnentafel liest</a>.</p>
+  <!--/BLOCCO:7-->
 
+  <!--BLOCCO:8-->
   <h2>Worauf Sie bei den Welpen selbst achten</h2>
   <p>Mit 8 Wochen beurteilen Sie Tendenzen, keine Ergebnisse. Achten Sie auf Welpen, die sich von einer Überraschung schnell erholen, die nach kurzem Zögern auf einen Fremden zugehen statt zurückzuweichen, und die es einige Sekunden ohne Panik aushalten, auf dem Rücken gehalten zu werden.</p>
   <p>Wählen Sie nicht den forschesten Welpen, nur weil er als Erster zu Ihnen kommt — der häufigste Fehler. Das selbstsichere Mittelfeld eines Wurfes passt zur überwiegenden Mehrheit der Familien weit besser als beide Extreme, und ein guter Züchter lenkt Sie dorthin. Tatsächlich wählt ein guter Züchter den Welpen für Sie aus, statt Sie wählen zu lassen, und das sollte beruhigen statt zu ärgern.</p>
+  <!--/BLOCCO:8-->
 
+  <!--BLOCCO:9-->
   <h2>Warnzeichen beim Vergleich von Zwingern</h2>
   <p>Mehrere Würfe gleichzeitig verfügbar oder ständig Welpen vorrätig. Preise, die sich nach Fellfarbe richten. Gesundheitszeugnisse, die erst für nach dem Einzug versprochen werden. Welpen vor der achten Lebenswoche, in Italien ohnehin unzulässig. Seltene Farben als Verkaufsargument. Und ein Züchter, der Ihnen keine einzige Frage stellt: gerade diejenigen, die Sie ausfragen, nehmen den Hund zurück, wenn Sie es brauchen.</p>
+  <!--/BLOCCO:9-->
 
+  <!--BLOCCO:10-->
   <h2>Häufige Fragen</h2>
 
   <div class="faq-list">
@@ -130,11 +149,12 @@ custom_content: |
   <li><a href="/de/staffy-pitbull-amstaff-unterschied/" title="Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich">Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich</a></li>
   </ul>
   </div>
-  
+
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>
-  
+  <!--/BLOCCO:10-->
+
   </article>
   </div>
 ---

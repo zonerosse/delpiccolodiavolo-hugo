@@ -9,6 +9,7 @@ description: "Le recensioni Google delle famiglie che hanno scelto un cucciolo D
 slug: "recensioni"
 fonti_motivo: "Le recensioni riportate qui sono delle famiglie che hanno accolto un cucciolo dell'allevamento Del Piccolo Diavolo: la fonte è il profilo Google dell'allevamento, collegato da ogni singola recensione, e non esistono altre fonti esterne da citare."
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -26,6 +27,7 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:1-->
 
   <div class="features-bar">
   <div class="features-track">
@@ -35,6 +37,7 @@ custom_content: |
   </div>
 
   <!-- PERCHÉ LE NOSTRE RECENSIONI CONTANO -->
+  <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">La Nostra Reputazione</span>
@@ -49,8 +52,10 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:2-->
 
   <!-- RECENSIONI -->
+  <!--BLOCCO:3-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Testimonianze</span>
@@ -322,8 +327,10 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:3-->
 
   <!-- CTA BOTTONI -->
+  <!--BLOCCO:4-->
   <section class="section">
   <div class="section-inner" style="text-align:center">
   <span class="section-label">Hai adottato un nostro cucciolo?</span>
@@ -342,6 +349,7 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:4-->
 
   <section class="section">
   <div class="section-inner content-single">

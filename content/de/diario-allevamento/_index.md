@@ -16,6 +16,9 @@ Hier halten wir fest, was in der Zucht tatsächlich geschieht, Wurf für Wurf: w
 
 Es ist keine Anzeigenseite. Es ist unsere Art zu zeigen, wie wir arbeiten — für alle, die über einen Welpen nachdenken und uns noch nicht kennen.
 
+
+<!--BLOCCO:1-->
+
 ## Was in jedem Eintrag steht
 
 Jeder Wurf hat seine eigene Seite, und auf jeder stehen immer dieselben Dinge:
@@ -28,6 +31,12 @@ Jeder Wurf hat seine eigene Seite, und auf jeder stehen immer dieselben Dinge:
 
 Die Befunde unserer eigenen Zuchttiere lassen sich am Ende jedes Eintrags herunterladen. Bei fremden Deckrüden veröffentlichen wir das Dokument, wenn der Besitzer einverstanden ist; andernfalls geben wir die Angaben wieder, die ohnehin überprüfbar bleiben.
 
+<!--/BLOCCO:1-->
+
+
+
+<!--BLOCCO:2-->
+
 ## Auch alte Würfe bleiben hier
 
 Die Seiten verschwinden nicht, wenn die Welpen zu Hause sind. Sie bleiben mit ihrem Datum stehen, und das ist Absicht: so kann jeder nachzählen, wie viele Würfe wir tatsächlich im Jahr haben. Einen, gelegentlich zwei, manchmal auch keinen.
@@ -37,3 +46,6 @@ Würfe vor 2026 — Mai 2025 und Februar 2025 — sind in unserem <a href="/de/w
 Wenn Sie noch nicht wissen, worauf man bei einer Zucht achtet: unser <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie man eine seriöse Zucht erkennt">Ratgeber, wie man eine seriöse erkennt</a>, nennt acht Kriterien und wie man jedes überprüft — bei uns wie bei allen anderen.
 
 <p class="fonti">Quellen: Das Tagebuch verzeichnet Tatsachen aus der Zucht Del Piccolo Diavolo und nennt deshalb keine externen Quellen: Die unabhängige Prüfung ist das ENCI-Zuchtbuch, in dem sich die Zahl der Würfe jeder Hündin anhand ihres Mikrochips kontrollieren lässt.</p>
+
+<!--/BLOCCO:2-->
+

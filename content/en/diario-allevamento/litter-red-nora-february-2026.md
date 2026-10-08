@@ -19,6 +19,9 @@ This litter was born in February 2026 from the mating of Red and Skilful-dogs No
 
 We are delighted to announce the birth of a highly anticipated litter at **Del Piccolo Diavolo** kennel. This combination brings together the power of the Vangerbull line with the proven breeding quality of Nora, already mother of two Italian Champions.
 
+
+<!--BLOCCO:1-->
+
 ## Puppy Video
 
 <video controls muted playsinline preload="none" poster="/images/video-cuccioli-red-nora-poster.webp" style="width:100%;max-width:480px;border-radius:12px;margin:1.5rem auto;display:block">
@@ -27,6 +30,12 @@ Your browser does not support video.
 </video>
 
 <p style="text-align:center;font-size:.85rem;color:#6b5d52;font-style:italic;margin:-.5rem auto 1.5rem;max-width:480px">In the video the puppies are in the outdoor pen, where they spend their play hours in the sun.</p>
+
+<!--/BLOCCO:1-->
+
+
+
+<!--BLOCCO:2-->
 
 ## The Parents
 
@@ -59,6 +68,12 @@ Your browser does not support video.
   </div>
 </div>
 
+<!--/BLOCCO:2-->
+
+
+
+<!--BLOCCO:3-->
+
 ## The Litter
 
 **Date of birth:** February 9, 2026
@@ -66,6 +81,12 @@ Your browser does not support video.
 **[Colours](/en/staffordshire-bull-terrier-colours/ "Staffordshire Bull Terrier colours"):** brindle and red & white
 
 **Status:** Not available
+
+<!--/BLOCCO:3-->
+
+
+
+<!--BLOCCO:4-->
 
 ## Why This Litter Is Special
 
@@ -81,6 +102,12 @@ Nora is not just any brood bitch. She is already **mother of two Italian Champio
 - **Lothar Matthäus** — Italian Junior Champion ENCI + Slovenian Champion 🇸🇮, currently showing with over 20 exhibitions
 
 This demonstrates her ability to pass on quality to her offspring.
+
+<!--/BLOCCO:4-->
+
+
+
+<!--BLOCCO:5-->
 
 ## Genetic Testing
 
@@ -114,8 +141,17 @@ Nora (L2HGA + HC + DM)
 
 <p style="margin-top:1.5rem"><strong>Litter pedigree:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" class="sbt-link" aria-label="View the full pedigree of the litter on SBTPedigree (opens in a new tab)">View on SBTPedigree →</a></p>
 
+<!--/BLOCCO:5-->
+
+
+
+<!--BLOCCO:6-->
+
 ## Get in touch
 
 This litter is complete. For information about the kennel, our breeding dogs or the laboratory certificates, feel free to write to us.
 
 <p style="margin-top:2rem"><a href="/wa/393924635584?text=Hi%20Paolo%2C%20I%20would%20like%20information%20about%20the%20kennel" class="btn btn-primary">Contact us on WhatsApp →</a></p>
+
+<!--/BLOCCO:6-->
+

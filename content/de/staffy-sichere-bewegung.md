@@ -11,6 +11,7 @@ thumb: "/images/blog/icone/salute-esercizio-sicuro.webp"
 description: "Sichere Bewegung für den Staffordshire Bull Terrier: die 5-Minuten-Regel für Welpen, Aktivität für Erwachsene, Hitzschlag und Anzeichen von Überlastung."
 slug: "staffy-sichere-bewegung"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -27,18 +28,20 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/de/" title="Home">Home</a> ›
   <a href="/de/blog/" title="Blog">Blog</a> ›
   <span>Sichere Bewegung</span>
   </nav>
-  
+
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>Der Staffordshire Bull Terrier braucht jeden Tag Bewegung, aber kein endloses Rennen: Wie viel, hängt vom Hund ab, mit mindestens zwei Runden am Tag und ohne übermäßige Belastung, solange er jung ist. Für Welpen gilt die Regel von fünf Minuten geführtem Spaziergang je Lebensmonat, zweimal täglich, weil sich die Wachstumsfugen bei dieser Rasse zwischen dem zwölften und achtzehnten Monat schließen und wiederholte Stoßbelastung vorher Schäden hinterlässt, die sich erst Jahre später zeigen. Beim erwachsenen Hund ist die größte Gefahr die Hitze: Der kurze Fang macht das Hecheln weniger wirksam, und Hecheln ist die einzige Kühlung des Hundes. Gehen Sie in den kühlen Stunden, prüfen Sie den Asphalt fünf Sekunden mit dem Handrücken und lassen Sie den Hund nie im geparkten Auto. Ab etwa acht Jahren bleibt die Dauer, die Intensität sinkt. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
+  <!--BLOCCO:2-->
   <h2>Warum Bewegung für den Staffy so wichtig ist</h2>
   <p>Der <strong>Staffordshire Bull Terrier</strong> wurde historisch als Arbeitshund selektiert, mit kräftiger Muskulatur, Ausdauer und viel Energie. Dieses Erbe braucht ein passendes Ventil in täglicher körperlicher Aktivität.</p>
   <p>Regelmäßige, passende Bewegung bringt:</p>
@@ -53,7 +56,9 @@ custom_content: |
   <p class="callout-title">🏆 Unsere Erfahrung</p>
   <p>In mehr als zehn Jahren mit der Rasse haben wir gesehen, dass Staffies mit einer regelmäßigen Bewegungsroutine <strong>weniger Verhaltensprobleme haben, besser mit Stress umgehen</strong> und ein ruhigeres Familienleben führen. Ein müder Hund ist ein zufriedener Hund.</p>
   </div>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>Bewegung für Welpen: die Fünf-Minuten-Regel</h2>
   <p><strong>Staffordshire Bull Terrier Welpen</strong> stecken voller Energie, aber Knochen, Gelenke und Wachstumsfugen entwickeln sich noch. Zu viel oder falsche Bewegung kann bleibende Schäden verursachen.</p>
   <h3>Die goldene Regel</h3>
@@ -88,7 +93,9 @@ custom_content: |
   </div>
   <h3>Wann man die Bewegung steigert</h3>
   <p>Beim Staffy schließen sich die Wachstumsfugen zwischen <strong>12 und 18 Monaten</strong>. Erst danach kann man Intensität und Dauer der Bewegung schrittweise steigern. Eine Röntgenaufnahme beim <a href="https://wsava.org/global-guidelines/" title="WSAVA-Leitlinien" target="_blank" rel="noopener" aria-label="WSAVA-Leitlinien (wird in einem neuen Tab geöffnet)">Tierarzt</a> kann bestätigen, dass sie vollständig geschlossen sind.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>Bewegung für Erwachsene: wie viel und wie</h2>
   <p>Ein <strong>erwachsener Staffordshire Bull Terrier</strong> (über 18 Monate) braucht jeden Tag Bewegung, in mindestens 2 Ausgängen, aber <strong>es gibt keine ideale Minutenzahl für jeden Hund</strong>: sie hängt vom einzelnen Hund ab, weil manche sportlicher und andere ruhiger sind. Für alle gilt, übermäßige Belastung zu vermeiden, vor allem in jungen Jahren.</p>
   <h3>Empfohlene Aktivitäten</h3>
@@ -116,7 +123,9 @@ custom_content: |
   <p class="info-box-title">💡 Wie wichtig geistige Auslastung ist</p>
   <p>15 Minuten Kopfarbeit (Problemlösespiele, Training, Nasenarbeit) ermüden einen Hund so sehr wie ein Spaziergang von 30-40 Minuten. Kombinieren Sie immer körperliche und geistige Bewegung für einen ausgeglichenen, zufriedenen Staffy.</p>
   </div>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>Vorsicht bei Hitze: Hitzschlag vorbeugen</h2>
   <p>Der <strong>Staffordshire Bull Terrier</strong> hat einen <a href="/de/boas-staffordshire-bull-terrier-atmung/" title="BOAS und Atmung beim Staffordshire Bull Terrier">Fang, der kürzer ist als bei vielen Rassen</a> (er ist keine brachyzephale Rasse, doch in manchen Linien ist der Fang zu kurz), der ihn <strong>hitzeempfindlicher</strong> macht als Rassen mit langem Fang. Die Kühlung durch Hecheln ist weniger wirksam.</p>
   <h3>Die Risiken des Hitzschlags</h3>
@@ -161,7 +170,9 @@ custom_content: |
   <li><strong>Über 30 °C:</strong> Ausgänge auf das Nötigste beschränken</li>
   </ul>
   </div>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>Anzeichen von Überlastung: wann man aufhört</h2>
   <p>Der Staffy ist ein Hund, der <strong>sich nicht schont</strong>: er würde bis zur Erschöpfung spielen, um seinem Menschen zu gefallen. Es liegt an Ihnen, die Zeichen der Müdigkeit zu erkennen und aufzuhören, bevor es zu viel ist.</p>
   <h3>Zeichen während der Bewegung</h3>
@@ -181,7 +192,9 @@ custom_content: |
   <li><strong>Geschwollene Gelenke:</strong> warme oder geschwollene Gelenke</li>
   </ul>
   <p>Wenn Sie diese Zeichen bemerken, <strong>verringern Sie die Bewegung</strong> und gehen Sie zum Tierarzt, wenn sie länger als 24-48 Stunden anhalten.</p>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:7-->
   <h2>Aktivitäten, die man meiden oder einschränken sollte</h2>
   <div class="alert">
   <p class="alert-title">🚫 Immer meiden</p>
@@ -201,7 +214,9 @@ custom_content: |
   <li><strong>Frisbee auf hartem Boden:</strong> lieber auf Gras, das die Landungen abfedert</li>
   <li><strong>Agility vor 18 Monaten:</strong> warten, bis die Wachstumsfugen geschlossen sind</li>
   </ul>
+  <!--/BLOCCO:7-->
 
+  <!--BLOCCO:8-->
   <h2>Eine ausgewogene Routine aufbauen</h2>
   <p>Eine gut aufgebaute Routine sorgt dafür, dass Ihr Staffy die Bewegung bekommt, die er braucht, ohne Risiko.</p>
   <h3>Beispiel eines Tages - erwachsener Hund</h3>
@@ -233,18 +248,26 @@ custom_content: |
   <li>Anspruchsvolle Sportarten erst ab 18 Monaten</li>
   </ul>
   </div>
+  <!--/BLOCCO:8-->
 
+  <!--BLOCCO:9-->
   <h2>Kopfarbeit ist nicht optional</h2>
   <p>Ein Staffordshire Bull Terrier, der körperlich müde, geistig aber unterfordert ist, sucht sich seine eigene Beschäftigung, meist zu Lasten Ihrer Einrichtung. 10 Minuten Nasenarbeit, ein Futterspiel oder eine kurze Trainingseinheit mit etwas wirklich Neuem ermüden diese Rasse wirksamer als ein weiterer Kilometer Spaziergang.</p>
   <p>Die Tagesration im Gras zu verstreuen und den Hund suchen zu lassen, kostet keine Vorbereitung und wirkt erstaunlich gut.</p>
+  <!--/BLOCCO:9-->
 
+  <!--BLOCCO:10-->
   <h2>Anpassung an Alter und Verfassung</h2>
   <p>Ab etwa 8 Jahren bleibt die Gesamtdauer, die Intensität sinkt: häufigere, kürzere, ruhigere Gänge und Aufwärmzeit vor allem Anstrengenden. Hunde mit Hüft- oder Ellenbogendysplasie profitieren besonders vom Schwimmen und von einem stabilen Gewicht, der günstigsten und wirksamsten Gelenkbehandlung überhaupt.</p>
   <p>Zum Gewicht: diese Rasse trägt Überschuss so, dass er unter der Muskulatur leicht übersehen wird. Die Rippen müssen mit flacher Hand gut fühlbar sein, und von oben muss eine Taille sichtbar sein. Ein übergewichtiger Staffy verliert Jahre bequemer Bewegung, und der Verlust bleibt unsichtbar, bis er weit fortgeschritten ist.</p>
+  <!--/BLOCCO:10-->
 
+  <!--BLOCCO:11-->
   <h2>Hundesport</h2>
   <p>Mehrere Disziplinen passen zur Rasse, sobald die Wachstumsfugen geschlossen sind. Agility passt zu ihrem Körperbau und ihrem Antrieb, mit Sprüngen in voller Höhe erst ab 18 Monaten; vorher bleibt die Arbeit am Boden, mit Tunneln, niedrigen Kontaktzonen und Führtechnik. Obedience, Rally Obedience und Nasenarbeit befriedigen ebenso, bei viel geringerer Gelenkbelastung, und Canicross passt zu sportlichen Haltern mit einem erwachsenen, trainierten Hund bei kühlem Wetter. Beginnen Sie bei jeder Sportart mit einem Trainer, der zuerst Aufwärmen und Kondition aufbaut und erst dann Hindernisse, und denken Sie daran, dass intensive Belastung im Sommer draußen für diese Rasse ein ernstes Risiko ist.</p>
+  <!--/BLOCCO:11-->
 
+  <!--BLOCCO:12-->
   <h2>Häufige Fragen</h2>
 
   <div class="faq-list">
@@ -313,11 +336,12 @@ custom_content: |
   <li><a href="/de/welpen-erste-fuetterung/" title="Ernährung des Welpen in den ersten Monaten">Ernährung des Welpen in den ersten Monaten</a></li>
   </ul>
   </div>
-  
+
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>
-  
+  <!--/BLOCCO:12-->
+
   </article>
   </div>
 ---

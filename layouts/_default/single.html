@@ -1,14 +1,16 @@
 {{ define "main" }}
 
-{{- $agg := printf "%s %s" (cond (eq .Site.Language.Lang "de") "Aktualisiert am" (cond (eq .Site.Language.Lang "en") "Updated on" "Aggiornato il")) (cond (eq .Site.Language.Lang "en") (.Lastmod.Format "January 2, 2006") (partial "data-locale.html" .)) -}}
-{{- $iso := .Lastmod.Format "2006-01-02" -}}
+{{- $agg := printf "%s %s" (cond (eq .Site.Language.Lang "de") "Aktualisiert am" (cond (eq .Site.Language.Lang "en") "Updated on" "Aggiornato il")) (cond (eq .Site.Language.Lang "en") ((partial "pagine/lastmod.html" .).Format "January 2, 2006") (partial "data-locale.html" .)) -}}
+{{- $iso := (partial "pagine/lastmod.html" .).Format "2006-01-02" -}}
 {{- $meta := printf `<p class="pagina-meta" style="text-align:center;color:#7a6a58;font-size:.85rem;margin:1.5rem 0 0"><time datetime="%s">%s</time> · <a href="%s" rel="author" style="color:inherit;text-decoration:underline">Paolo Boldrini</a></p>` $iso $agg (cond (eq .Site.Language.Lang "de") "/de/ueber-uns/" (cond (eq .Site.Language.Lang "en") "/en/about-us/" "/chi-siamo/")) -}}
 
 {{ if trim (.Params.custom_content | default "") " \n\t\r" }}
   {{ $voto := .Site.Params.recensioniVoto | default "" }}
   {{ $votoLoc := cond (eq .Site.Language.Lang "en") $voto (replace $voto "." ",") }}
   {{ $tot := .Site.Params.recensioniTotale | default "" }}
-  {{ $c := replace .Params.custom_content "<!--CUCCIOLATA-->" (partial "ultima-cucciolata.html" .) }}
+  {{/* Modifiche del gestionale (blocchi spenti, h1, apertura, Leggi anche): vedi partials/pagine/applica.html */}}
+  {{ $c := partial "pagine/applica.html" (dict "p" . "c" .Params.custom_content) }}
+  {{ $c = replace $c "<!--CUCCIOLATA-->" (partial "ultima-cucciolata.html" .) }}
   {{ $c = replace $c "<!--REC-VOTO-->" $votoLoc }}
   {{ $c = replace $c "<!--REC-TOTALE-->" $tot }}
   {{ $c = replace $c "<!--CORRELATI-->" (partial "correlati.html" .) }}
@@ -38,7 +40,7 @@
   {{ if not $haTestata }}
   <div class="page-hero">
     {{ partial "breadcrumb.html" . }}
-    {{ if not $haH1 }}<h1>{{ .Title }}</h1>
+    {{ if not $haH1 }}<h1>{{ or (partial "pagine/mod.html" .).h1 .Title }}</h1>
     {{ with .Description }}<p>{{ . }}</p>{{ end }}{{ end }}
   </div>
   {{ end }}
@@ -49,7 +51,8 @@
   {{/* Anche gli articoli in Markdown possono usare i segnaposto dei
        correlati e degli articoli recenti: senza questa sostituzione il
        commento <!--CORRELATI--> resterebbe in chiaro nella pagina. */}}
-  {{- $testo := replace (string .Content) "<!--CORRELATI-->" (partial "correlati.html" .) -}}
+  {{- $testo := partial "pagine/applica.html" (dict "p" . "c" (string .Content)) -}}
+  {{- $testo = replace $testo "<!--CORRELATI-->" (partial "correlati.html" .) -}}
   {{- $testo = replace $testo "<!--RECENTI-->" (partial "recenti.html" .) -}}
   {{- $testo = partial "ticker-a11y.html" $testo -}}
   {{- $corpo := $testo | safeHTML -}}

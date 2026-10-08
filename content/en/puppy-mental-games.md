@@ -12,6 +12,7 @@ thumb: "/images/blog/icone/cuccioli-giochi-mentali.webp"
 description: "Mental games for Staffordshire Bull Terrier puppies: stimulating mind and self-control with sniffing games, puzzles and enrichment activities."
 slug: "puppy-mental-games"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -28,61 +29,77 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>Sniffing Games</span><span>Food Puzzles</span><span>Self-Control</span><span>Enrichment</span><span>Calming Activities</span><span>Age-Appropriate</span>
   <span>Sniffing Games</span><span>Food Puzzles</span><span>Self-Control</span><span>Enrichment</span><span>Calming Activities</span><span>Age-Appropriate</span>
   </div>
   </div>
-  
+
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> ›
   <a href="/en/blog/" title="Blog">Blog</a> ›
   <a aria-label="Puppies — blog category" href="/en/blog/#puppies" title="Puppies">Puppies</a> ›
   <span>Mental Games</span>
   </nav>
-  
+
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>Mental work tires a Staffordshire Bull Terrier puppy more than physical exercise does, and without any load on growing joints. Ten to fifteen minutes of genuine problem-solving leaves a puppy more tired than twice as long spent walking, which matters in a breed limited to about five minutes of walking per month of age until the growth plates close. The simplest change costs nothing: stop feeding from a bowl and use the daily ration for sniffing games, food puzzles and short training sessions. Nose work is the most valuable activity of all. A puppy that learns to try, fail and try again builds persistence and frustration tolerance; a bored one spends its energy on skirting boards and shoes. Avoid anything hard enough to break a tooth, and repetitive ball throwing that only winds the puppy up. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
-  
-  
+
+
+  <!--BLOCCO:2-->
   <h2>Why mental work matters as much as exercise</h2>
   <p>A Staffordshire Bull Terrier puppy that is physically tired but mentally idle is not a tired puppy. It is a puppy with energy it has no use for, which it will spend on your skirting boards, your shoes and your patience.</p>
   <p>10 to 15 minutes of genuine problem-solving tires a puppy more thoroughly than twice as long spent walking, and it does so without any load on growing joints. For a breed with a five-minute-per-month walking limit until the growth plates close, that is not a minor advantage: mental work is how you meet a puppy's needs without damaging it.</p>
   <p>There is a second benefit that matters later. A puppy that learns to try things, fail, and try again develops persistence and frustration tolerance. A puppy that has never had to solve anything gives up quickly and gets loud instead.</p>
   <p>Mental games are training too, and the same rules apply. The <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="AVSAB position statements (opens in a new tab)">American Veterinary Society of Animal Behavior</a> recommends reward-based methods for all training: you show the puppy what to do and reward it when it succeeds, rather than correcting it when it gets things wrong.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>Start with food</h2>
   <p>The simplest change costs nothing and works immediately: stop feeding from a bowl. A puppy's daily ration used as currency turns every meal into a training session and every mealtime into 15 minutes of occupation instead of ninety seconds.</p>
   <p>Scatter feeding in grass or on a snuffle mat makes the puppy use its nose, which is intrinsically calming. A portion frozen into a rubber toy with a little wet food occupies a puppy for 20 minutes and is invaluable when you need to work. Kibble hidden in a cardboard egg box, which the puppy may destroy in the process, costs nothing and provides real satisfaction.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>Nose work, the highest value activity</h2>
   <p>Scenting engages more of a dog's brain than anything else it does, and it is the single most effective way to tire this breed. It also requires no equipment and no space.</p>
   <p>Begin with a treat under one of three plastic cups, in full view, and let the puppy work it out. Progress to hiding treats around a room while the puppy waits in another, then to hiding them in the garden. Within a few weeks most puppies will search a whole room systematically, and a twenty-minute session leaves them genuinely satisfied.</p>
   <p>Name the behaviour once it is reliable — a simple cue like "find it" — and you have an activity you can use for the rest of the dog's life, in a hotel room, on a rainy day, or when the dog is convalescing.</p>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>Teaching things, as a game</h2>
   <p>Short training sessions of 3 to 5 minutes, several times a day, are far more effective than one long one and are excellent mental work in themselves. A puppy can learn sit, down, its name, a hand touch and the beginnings of a stay well before 4 months.</p>
   <p>Two exercises deserve special mention for this breed. The first is the hand touch: puppy touches its nose to your open palm, which becomes a way to move the dog without pulling and a recall in miniature. The second is a swap game: give the puppy something acceptable, offer something better, take the first, give it back. Done a hundred times in puppyhood, this is the most reliable prevention of resource guarding there is, and resource guarding is far easier to prevent than to treat.</p>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>Toys and what to avoid</h2>
   <p>Rotate toys rather than leaving them all out: five toys available at once become background furniture, while five toys rotated weekly stay interesting. Rubber toys that can be stuffed, puzzle feeders of increasing difficulty, snuffle mats and rope toys used under supervision all earn their place.</p>
   <p>Avoid two things. First, anything hard enough to fracture a tooth, judged by the fingernail test: if you cannot mark it with a nail, it does not go in the mouth. Second, repetitive ball throwing, which produces a state of arousal that looks like enjoyment and is closer to compulsion, and which is hard on shoulders and cruciate ligaments. A ball is a fine reward for a task, and a poor activity in itself.</p>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:7-->
   <h2>A realistic daily routine</h2>
   <p>Morning: breakfast scattered or in a puzzle feeder, 10 minutes. Midday: a three-minute training session, then a stuffed toy while you work. Afternoon: a nose work game, 10 to 15 minutes. Evening: dinner used for training, then something to chew while the household settles.</p>
   <p>That is under 40 minutes across a day, and it changes the behaviour of a young Staffordshire Bull Terrier more than any amount of additional walking. Owners who adopt it almost always report the same thing: the puppy sleeps.</p>
+  <!--/BLOCCO:7-->
 
+  <!--BLOCCO:8-->
   <h2>Common mistakes</h2>
   <p>Making the puzzle too hard at the start, so the puppy gives up and learns that trying does not pay. Always begin at a level the puppy solves in seconds, then raise it slowly.</p>
   <p>Working when the puppy is already overtired. A puppy that has been awake for 4 hours does not need stimulation, it needs sleep — and puppies of this age sleep 16 to 18 hours a day for good reason.</p>
   <p>Ending on a failure. Finish every session with something easy that the puppy gets right, so the last impression is success.</p>
   <p>And repeating the same game indefinitely. Novelty is a large part of what makes mental work tiring; a puzzle solved 50 times is no longer a puzzle.</p>
+  <!--/BLOCCO:8-->
 
+  <!--BLOCCO:9-->
   <h2>Frequently asked questions</h2>
   <p><strong>How long should a session be?</strong> 3 to 5 minutes for a young puppy, up to fifteen for nose work by 5 or 6 months. Several short sessions beat one long one.</p>
   <p><strong>My puppy destroys the puzzle instead of solving it.</strong> That is a Staffordshire Bull Terrier being a Staffordshire Bull Terrier. Use cardboard for the destructive phase, supervise, and choose sturdier puzzles as the puppy learns to work rather than dismantle.</p>
@@ -97,7 +114,7 @@ custom_content: |
   <li><a href="/en/puppy-first-walk/" title="A puppy&#x27;s first walk: when to start and how">A puppy's first walk: when to start and how</a></li>
   </ul>
   </div>
-  
+
   <div class="related-articles">
   <h3>More on this topic</h3>
   <ul>
@@ -105,10 +122,10 @@ custom_content: |
   <li><a href="/en/staffy-dental-health/" title="Dental health for the Staffordshire Bull Terrier">Dental health for the Staffordshire Bull Terrier</a></li>
   </ul>
   </div>
-  
+
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
-  
+
   <p class="tags"><strong>Tags:</strong>
   <a aria-label="puppies — blog category" href="/en/blog/#puppies" title="Puppy articles">puppies</a>
   <a aria-label="Staffordshire Bull Terrier guides" href="/en/blog/#puppies" title="Staffy articles">staffordshire bull terrier</a>
@@ -116,7 +133,8 @@ custom_content: |
   <a aria-label="enrichment — blog category" href="/en/blog/#puppies" title="Enrichment articles">enrichment</a>
   </p>
   </div>
-  
+  <!--/BLOCCO:9-->
+
   </article>
   </div>
 ---

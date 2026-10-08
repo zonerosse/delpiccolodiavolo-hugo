@@ -19,6 +19,7 @@ correlati:
     testo: "Ostellato (FE), su appuntamento"
 slug: ""
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <!--HEROFOTO-->
@@ -36,6 +37,7 @@ custom_content: |
   <p class="hero-trust">Test Genetici - Pedigree ENCI - Dal 2013</p>
   </div>
   </section>
+  <!--/BLOCCO:1-->
 
   <div class="features-bar">
   <div class="features-track">
@@ -58,8 +60,11 @@ custom_content: |
   </div>
   </div>
 
+  <!--BLOCCO:2-->
   <!--NOVITA-->
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">I nostri cuccioli</span>
@@ -74,8 +79,10 @@ custom_content: |
   <p style="text-align:center;margin-top:1.5rem"><a class="btn" href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">Come nascono e crescono</a></p>
   </div>
   </section>
+  <!--/BLOCCO:3-->
 
-  
+
+  <!--BLOCCO:4-->
   <section class="section">
   <div class="section-inner">
   <div style="max-width:760px;margin:0 auto;display:grid;grid-template-columns:88px 1fr;gap:1.2rem;align-items:center;background:#fff;border:1px solid #e6ddd4;border-radius:10px;padding:1rem 1.2rem">
@@ -88,7 +95,9 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <section class="section section-alt">
   <div class="section-inner content-single">
   <span class="section-label">In chiaro</span>
@@ -108,7 +117,7 @@ custom_content: |
 
   <p style="margin-top:2rem;padding-top:1.5rem;border-top:1px solid rgba(139,115,85,.2)">Chi c'&egrave; dietro tutto questo, e come dai Rottweiler si arriva agli Staffy: lo racconto in <a href="/chi-siamo/" title="Chi siamo">chi siamo</a>.</p>
 
-  
+
   <a class="rimando" href="/come-scegliere-allevamento-staffordshire-bull-terrier/">
   <img src="/images/blog/cucciolata-erba.avif" alt="Cuccioli di Staffordshire Bull Terrier con la madre" width="88" height="64" loading="lazy" decoding="async">
   <span>
@@ -118,7 +127,9 @@ custom_content: |
   </a>
   </div>
   </section>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <section class="section">
   <div class="section-inner">
   <h2 class="section-title">Una cucciolata l’anno, a volte nessuna</h2>
@@ -133,17 +144,19 @@ custom_content: |
 
   <p>Prima di affidare un cucciolo vogliamo conoscere la famiglia: una telefonata, qualche domanda, spesso una visita. E il rapporto non finisce lì — restiamo disponibili per consigli e aggiornamenti anche <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">a distanza di anni</a>, e ogni cane che abbiamo allevato torna da noi se un giorno non potesse più restare dov'è.</p>
 
-  
+
 
   </div>
   </div>
   </section>
+  <!--/BLOCCO:6-->
 
   <div class="review-card">
   <p class="review-text">&laquo;Circa otto mesi fa decisi di aver come compagno di avventure uno Staffy e mi misi a documentarmi per potermi affidare ad un allevamento il più affidabile possibile. […] Ora ho il mio piccolo diavolo grazie a questa splendida famiglia che non smetterò mai di ringraziare.&raquo;</p>
   <div class="reviewer"><span>Gianluca Ravera</span><span class="stars">★★★★★</span></div>
   <p style="margin-top:.6rem;font-size:.82rem"><a href="https://search.google.com/local/reviews?placeid=ChIJqV8xIv1rfkcRQK_6v1XiVNE" target="_blank" rel="noopener" title="Leggi la recensione originale su Google" style="color:#8b5a2b;font-weight:600" aria-label="Leggi la recensione su Google (si apre in una nuova scheda)">Leggi la recensione su Google &rarr;</a></p>
   </div>
+  <!--BLOCCO:7-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Verificabile</span>
@@ -210,7 +223,7 @@ custom_content: |
 
   <p style="margin-top:2rem;padding-top:1.5rem;border-top:1px solid rgba(139,115,85,.2)">Come nasce una cucciolata &mdash; la scelta dei due riproduttori, le otto settimane in casa, l'abbinamento con la famiglia &mdash; lo raccontiamo nel <a href="/programma-allevamento/" title="Programma di allevamento">programma di allevamento</a>, insieme allo storico delle cucciolate.</p>
 
-  
+
   <a class="rimando" href="/femmine-staffordshire-bull-terrier/">
   <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, fattrice Del Piccolo Diavolo" width="88" height="116" loading="lazy" decoding="async">
   <span>
@@ -220,7 +233,9 @@ custom_content: |
   </a>
   </div>
   </section>
+  <!--/BLOCCO:7-->
 
+  <!--BLOCCO:8-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Risultati in Esposizione</span>
@@ -261,7 +276,7 @@ custom_content: |
   <p style="font-size:0.9rem;color:#4a3f35;margin-bottom:1rem">Risultati ottenuti con cani allevati e cresciuti da noi, non acquistati già titolati.</p>
   <a href="/palmares-del-piccolo-diavolo/" class="btn btn-primary" title="Vedi tutti i risultati" style="min-height:44px;display:inline-flex;align-items:center">Vedi Tutti i Risultati</a>
   </div>
-  
+
   <a class="rimando" href="/cuccioli-staffordshire-bull-terrier/">
   <img src="/images/primo-piano-cucciolo.avif" alt="Cucciolo di Staffordshire Bull Terrier" width="88" height="83" loading="lazy" decoding="async">
   <span>
@@ -271,9 +286,13 @@ custom_content: |
   </a>
   </div>
   </section>
+  <!--/BLOCCO:8-->
 
+  <!--BLOCCO:9-->
   <!--CORRELATI-->
+  <!--/BLOCCO:9-->
 
+  <!--BLOCCO:10-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Domande Frequenti</span>
@@ -313,10 +332,13 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:10-->
 
+  <!--BLOCCO:11-->
     <section class="cta-section">
   <h2>Scrivici per conoscere i nostri Staffy di persona</h2>
   <p>Chiamaci per una chiacchierata senza impegno. Siamo qui per rispondere a tutte le tue domande.</p>
   <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20ti%20scrivo%20dal%20sito%20Del%20Piccolo%20Diavolo" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Scrivici su WhatsApp" aria-label="Contattaci su WhatsApp per informazioni">Scrivici su WhatsApp</a>
   </section>
+  <!--/BLOCCO:11-->
 ---

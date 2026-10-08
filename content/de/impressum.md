@@ -8,6 +8,7 @@ description: "Impressum, Haftungsausschluss und Nutzungsbedingungen der Website 
 slug: "impressum"
 fonti_motivo: "Eine Serviceseite mit den gesetzlich vorgeschriebenen Angaben: Sie enthält nichts, was eine externe Quelle bräuchte."
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -20,19 +21,21 @@ custom_content: |
   <p class="hero-subtitle">Nutzungsbedingungen der Website</p>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>Transparenz</span><span>Urheberrecht</span><span>Welpengarantien</span><span>ENCI Stammbaum</span><span>Gerichtsstand Ferrara</span>
   <span>Transparenz</span><span>Urheberrecht</span><span>Welpengarantien</span><span>ENCI Stammbaum</span><span>Gerichtsstand Ferrara</span>
   </div>
   </div>
-  
+
+  <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Impressum</span>
   <h2 class="section-title">Nutzungsbedingungen und Haftungsausschluss</h2>
-  
+
   <div class="legal-section">
   <h3>1. Eigentümer der Website</h3>
   <p>Diese Website ist Eigentum von:</p>
@@ -42,13 +45,13 @@ custom_content: |
   E-Mail: <a href="mailto:zonerosse@gmail.com" title="Schreiben Sie uns eine E-Mail">zonerosse@gmail.com</a><br>
   Telefon/WhatsApp: <a href="tel:+393924635584" title="Rufen Sie uns an">+39 392 4635584</a></p>
   </div>
-  
+
   <div class="legal-section">
   <h3>2. Urheberrecht und geistiges Eigentum</h3>
   <p>Alle Inhalte dieser Website, einschließlich Texte, Bilder, Fotografien, Logos, Grafiken und Design, sind urheberrechtlich geschützt und ausschließliches Eigentum der Zucht Del Piccolo Diavolo oder der jeweiligen Urheber.</p>
   <p>Die Vervielfältigung, Verbreitung, Veröffentlichung oder Nutzung jeglicher Inhalte ohne vorherige schriftliche Genehmigung des Inhabers ist untersagt.</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>3. Haftungsausschluss Welpen und Gesundheitsinformationen</h3>
   <p><strong>Allgemeine Informationen:</strong> Die Informationen auf dieser Website zur Rasse Staffordshire Bull Terrier, zu Gesundheit, Ernährung und Welpenpflege dienen ausschließlich der Information und ersetzen nicht den Rat eines qualifizierten Tierarztes.</p>
@@ -56,7 +59,7 @@ custom_content: |
   <p><strong>Eigenschaften der Welpen:</strong> Jeder Welpe ist einzigartig. Körperliche, charakterliche und verhaltensbezogene Eigenschaften können von Tier zu Tier variieren, auch innerhalb desselben Wurfs.</p>
   <p><strong>Gentests:</strong> Unsere Zuchttiere werden auf die wichtigsten Erkrankungen der Rasse genetisch getestet. Informationen zu den Tests sind auf Anfrage erhältlich und werden nach bestem Wissen bereitgestellt. Gentests verringern das Risiko von Erbkrankheiten, schließen es jedoch nicht vollständig aus.</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>4. Vermittlung der Welpen</h3>
   <p><strong>Art der Tätigkeit:</strong> Die Zucht Del Piccolo Diavolo ist eine Liebhaberzucht ohne Gewinnerzielungsabsicht.</p>
@@ -71,7 +74,7 @@ custom_content: |
   </ul>
   <p><strong>Übergabe:</strong> Welpen werden gemäß der geltenden italienischen Gesetzgebung frühestens im Alter von 60 Tagen übergeben. Die Übergabe erfolgt ausschließlich persönlich in der Zuchtstätte: wir versenden nicht und setzen keine Kuriere oder Transportunternehmen ein. Für Vermittlungen ins Ausland gelten zusätzliche gesundheits- und dokumentenrechtliche Anforderungen, darunter die Tollwutimpfung und das amtliche Gesundheitszeugnis, wodurch sich das Mindestalter entsprechend erhöht.</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>5. Haftungsbeschränkung</h3>
   <p>Die Zucht Del Piccolo Diavolo bemüht sich, genaue und aktuelle Informationen bereitzustellen. Sie kann jedoch die Vollständigkeit, Richtigkeit oder Aktualität aller Informationen auf der Website nicht garantieren.</p>
@@ -85,24 +88,24 @@ custom_content: |
   <p><strong>Verantwortung für den Hund nach der Übergabe:</strong> Ab dem Zeitpunkt der Übergabe des Welpen liegen Pflege, Haltung, Erziehung, Verwahrung und Beaufsichtigung des Hundes in der alleinigen Verantwortung des Eigentümers.</p>
   <p>Insbesondere darf der Hund in Anwesenheit von Kleinkindern niemals ohne Aufsicht eines Erwachsenen gelassen werden. Die Zucht Del Piccolo Diavolo übernimmt keine Haftung für Schäden an Personen, Tieren oder Sachen sowie für Verletzungen oder Unfälle, die nach der Übergabe an den Eigentümer durch den Hund verursacht werden oder dem Hund widerfahren.</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>6. Auswahl der Familien</h3>
   <p>Die Zucht behält sich das Recht vor, die Familien auszuwählen, denen sie ihre Welpen anvertraut, und dabei deren Eignung sowie die Lebensbedingungen zu beurteilen, die sie dem Hund bieten können.</p>
   <p>Wir behalten uns das Recht vor, einen Welpen nicht zu vermitteln, wenn wir der Auffassung sind, dass die Familie nicht geeignet ist oder die gebotenen Bedingungen dem Wohl des Tieres nicht entsprechen.</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>7. Änderungen dieses Impressums</h3>
   <p>Die Zucht Del Piccolo Diavolo behält sich das Recht vor, den Inhalt dieses Impressums jederzeit zu ändern. Änderungen werden mit dem Datum der Veröffentlichung auf der Website wirksam.</p>
   <p>Wir empfehlen, diese Seite regelmäßig zu konsultieren.</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>8. Anwendbares Recht und Gerichtsstand</h3>
   <p>Dieses Impressum unterliegt italienischem Recht. Für sämtliche Streitigkeiten ist ausschließlich das Gericht von Ferrara zuständig.</p>
   </div>
-  
+
   <div class="legal-section">
   <h3>9. Kontakt</h3>
   <p>Für Fragen zu diesem Impressum oder zur Ausübung der nach geltendem Recht vorgesehenen Rechte können Sie uns kontaktieren:</p>
@@ -110,13 +113,16 @@ custom_content: |
   Telefon/WhatsApp: <a href="tel:+393924635584" title="Rufen Sie uns an">+39 392 4635584</a></p>
   <p class="last-updated"><em>Letzte Aktualisierung: November 2025</em></p>
   </div>
-  
+
   </div>
   </section>
-  
+  <!--/BLOCCO:2-->
+
+  <!--BLOCCO:3-->
   <section class="dark-section">
   <h2>Haben Sie Fragen?</h2>
   <p>Kontaktieren Sie uns für Fragen zu den Nutzungsbedingungen oder zu unseren Garantien.</p>
   <a href="/wa/393924635584" class="btn btn-gold" title="Schreiben Sie uns auf WhatsApp">Auf WhatsApp Schreiben</a>
   </section>
+  <!--/BLOCCO:3-->
 ---

@@ -11,6 +11,7 @@ thumb: "/images/blog/icone/famiglia-anziani-rispetto-ritmi.webp"
 description: "Ist der Staffordshire Bull Terrier für ältere Menschen geeignet? Kraft, Bewegungsbedarf und Handhabung, ehrlich betrachtet, mit Alternativen im Zweifel."
 slug: "staffy-aeltere-besitzer"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -27,49 +28,65 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/de/" title="Home">Home</a> ›
   <a href="/de/blog/" title="Blog">Blog</a> ›
   <span>Staffy für ältere Besitzer</span>
   </nav>
-  
+
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>Ein Staffordshire Bull Terrier kann zu einem älteren Menschen passen, doch die Antwort hängt mehr von der Person und vom Hund ab als von der Rasse. Seine Größe, elf bis siebzehn Kilogramm, und sein kurzes Fell machen ihn leicht zu handhaben, und zwei oder drei Runden am Tag, deren Länge vom Hund abhängt, passen zu einem Alltag mit Morgen- und Nachmittagsrunde. Offen gesagt werden muss eines: die Kraft. Ein junger Staffy, der an der Leine zieht, kann einen älteren Menschen umreißen, und die Pubertät zwischen 8 und 18 Monaten fordert jeden. Für die meisten älteren Halter ist der richtige Hund ein Erwachsener von drei bis sechs Jahren, kein Welpe, mit einer schriftlichen Absprache mit der Familie oder der Zucht darüber, was geschieht, wenn der Hund nicht mehr gehalten werden kann. Ein Welpe bedeutet 12 bis 14 Jahre Verantwortung. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
-  
-  
+
+
+  <!--BLOCCO:2-->
   <h2>Ein ehrlicher Ausgangspunkt</h2>
   <p>Ob ein Staffordshire Bull Terrier zu einem älteren Menschen passt, lässt sich nicht pauschal beantworten, und wer es tut, ist unvorsichtig. Es hängt weit mehr von der konkreten Person und dem konkreten Hund ab als von der Rasse, und die ehrliche Fassung dieses Rats enthält ebenso viele Warnungen wie Empfehlungen.</p>
   <p>Mit Sicherheit sagen lässt sich, dass die Rasse für einen älteren Haushalt echte Vorzüge hat — und eine Eigenschaft, die offen angesprochen gehört, statt auf nassem Gehweg entdeckt zu werden.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>Was für die Rasse spricht</h2>
   <p>Zunächst Größe und Fell. Ein Hund von elf bis siebzehn Kilogramm lässt sich ins Auto heben, im Notfall eine Treppe hinauftragen und in einer Wohnung problemlos halten. Das kurze Fell braucht einmal wöchentlich einen Gumminoppen-Handschuh und sonst nichts: keine Termine beim Hundefriseur, keine Verfilzungen, keine Fahrten.</p>
   <p>Der Bewegungsbedarf ist mäßig und, entscheidend, flexibel. Zwei bis drei Gänge am Tag, deren Länge vom Hund abhängt, passen zu einem Tagesablauf mit Morgen- und Nachmittagsrunde weit besser als eine Rasse, die laufen muss. An einem schlechten Tag ersetzt Kopfarbeit in der Wohnung einen Spaziergang, ohne dass der Hund zerstörerisch wird.</p>
   <p>Und dann das Wesen, das eigentliche Argument. Diese Rasse bindet sich intensiv an ihre Menschen und sucht Körperkontakt. Für jemanden, der allein lebt, ist ein Hund, der von Raum zu Raum folgt und sich ans Bein legt, keine Nebensache, sondern der ganze Punkt. Die Routine aus Füttern, Gassigehen und Versorgen hat belegten Wert für Stimmung, Struktur und soziale Kontakte, und ein Hund, der einen zweimal täglich begeistert begrüßt, ist ein Grund aufzustehen.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>Der Punkt, der deutlich gesagt werden muss</h2>
   <p>Ein Staffordshire Bull Terrier ist für seine Größe außergewöhnlich kräftig. Ein Hund, der einer Katze nachsetzt oder einfach kräftig zu einem anderen Hund zieht, kann eine unsichere Person aus dem Gleichgewicht bringen. Bei einem älteren Menschen ist ein Sturz kein blauer Fleck, sondern möglicherweise ein Oberschenkelhalsbruch.</p>
   <p>Dieses Risiko ist beherrschbar, und die Mittel sind konkret. Ein gut sitzendes Y-Geschirr mit Brustring verändert einen ziehenden Hund grundlegend. Eine kurze <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Italienische Verordnung vom 6. August 2013" target="_blank" rel="noopener" aria-label="Italienische Verordnung vom 6. August 2013 (wird in einem neuen Tab geöffnet)">Leine</a> von anderthalb Metern, mit der Schlaufe ums Handgelenk statt in den Fingern, gibt Kontrolle. Eine Rollleine hat bei Gleichgewichtsproblemen in keiner Rasse etwas zu suchen. Und Leinenführigkeit muss richtig aufgebaut werden, am besten mit 2 oder 3 Stunden bei einem Trainer.</p>
   <p>Die andere Hälfte der Antwort ist die Wahl des richtigen Hundes. Ein ruhiger drei- bis vierjähriger Erwachsener mit bekanntem Wesen, vom Züchter oder aus der Rassenothilfe, ist für die meisten älteren Halter die deutlich bessere Lösung als ein Welpe. Das erste Lebensjahr ist körperlich fordernd, und die Pubertät zwischen 8 und 18 Monaten prüft jeden.</p>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>Praktische Vorkehrungen</h2>
   <p>Planen Sie die Tage ein, an denen Sie nicht gehen können. Eine Nachbarin, ein Familienmitglied oder ein bezahlter Hundeausführer, im Voraus organisiert, sorgt dafür, dass eine Krankheitswoche für den Hund keine Krise wird. Rutschfeste Matten dort, wo der Hund dreht und anläuft, schützen beide Seiten.</p>
   <p>Automatische Futterautomaten und Wasserbrunnen verringern das Bücken und Tragen. Eine Auffahrrampe fürs Auto schont Ihren Rücken und später die Gelenke des Hundes. Und das Gewicht des Hundes streng korrekt zu halten ist die wirksamste Einzelmaßnahme, um ihn führbar zu halten: zwei Kilo mehr auf einem Staffy bedeuten spürbar mehr Zug.</p>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>Die Frage, die niemand stellen mag</h2>
   <p>Ein Welpe bedeutet 12 bis 14 Jahre Verantwortung. Diese Rechnung verdient es, ehrlich gemacht zu werden, und das ist nicht makaber, sondern verantwortungsvoll.</p>
   <p>Fällt sie unbequem aus, lautet die Antwort nicht zwangsläufig nein. Sie lautet: ein erwachsener Hund von 5 oder 6 Jahren statt eines Welpen, und eine schriftliche Absprache mit der Familie oder dem Züchter darüber, was geschieht, wenn Sie den Hund nicht mehr halten können. Genau diese Klausel steht in unseren Verträgen, und wir meinen sie ernst: ein von uns gezüchteter Hund kommt zu uns zurück, statt in ein Tierheim zu gehen. Das vorher zu wissen, nimmt der Entscheidung die Angst.</p>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:7-->
   <h2>Für wen die Rasse nicht geeignet ist</h2>
   <p>Wer erhebliche Gleichgewichtsprobleme, Osteoporose oder verminderte Greifkraft hat, sollte eine kleinere und weniger kräftige Rasse wählen, so sehr ihm Staffordshire Bull Terrier auch gefallen. Ebenso, wer zwei Gänge täglich bei jedem Wetter nicht sicher leisten kann oder allein lebt und keine Rückfalllösung hat.</p>
   <p>Wir sagen das jeder Familie, die fragt, auch wenn es nicht das ist, was sie hören wollte: ein Hund, der mit 18 Monaten zurückgegeben wird, weil der Halter ihn nicht halten konnte, ist für alle ein Scheitern — und es war beim ersten Telefonat absehbar.</p>
+  <!--/BLOCCO:7-->
 
+  <!--BLOCCO:8-->
   <h2>Ein realistischer Tag</h2>
   <p>Ein Tag, der für viele ältere Halter funktioniert, sieht so aus: nach dem Aufstehen ein kurzer Gang von zehn bis fünfzehn Minuten, Frühstück, dann der Hauptspaziergang von vierzig bis sechzig Minuten am Vormittag; Ruhe zu Hause bis zum Mittag, während der Hund an einem gefüllten Kong kaut, solange Sie essen; eine Mittagsruhe, ein kurzer Gang von zehn bis fünfzehn Minuten und ein paar ruhige Nasen- oder Denkspiele zusammen; abends ein Spaziergang von zwanzig bis dreißig Minuten, Zeit auf dem Sofa und ein letzter Gang von fünf Minuten vor dem Schlafen. Zusammen ist das deutlich mehr als eine Stunde Gehen am Tag, gut verteilt, was Hund und Halter gleichermaßen guttut.</p>
+  <!--/BLOCCO:8-->
 
+  <!--BLOCCO:9-->
   <h2>Ausrüstung für sichere Spaziergänge</h2>
   <p>Ein Geschirr mit Brustring vorn, das das Ziehen bremst, mindert die Wucht eines plötzlichen Satzes; eine Leine mit Ruckdämpfer federt Stöße ab; eine Bauchgurtleine lässt beide Hände frei für Gehstock oder Geländer. Für Gänge im Dunkeln eine Stirnlampe und eine Warnweste. Nichts davon kostet viel, und zusammen macht es den Unterschied zwischen einem Spaziergang, der Freude macht, und einem, der ein Risiko ist.</p>
   <p>Was man braucht und was es kostet:</p>
@@ -86,11 +103,15 @@ custom_content: |
   <tr><td><strong>Reflektierende Weste</strong></td><td>Sichtbarkeit am Abend</td><td>10-20 Euro</td></tr>
   </tbody>
   </table>
+  <!--/BLOCCO:9-->
 
 
+  <!--BLOCCO:10-->
   <h2>Ein Plan für Notfälle</h2>
   <p>Legen Sie im Voraus fest, wer die Schlüssel hat und den Hund innerhalb weniger Stunden erreicht, wenn Sie krank werden, wohin der Hund kommt, zu Verwandten, zu einem vertrauten Hundesitter oder in eine schon erprobte Pension, und wer Ihnen Nachrichten schickt. Halten Sie eine Notfalltasche bereit: eine Woche des gewohnten Futters, aktuelle Medikamente mit schriftlicher Dosierung, Heimtierausweis und Mikrochipnummer, eine Ersatzleine und ein Ersatzgeschirr, eine vertraute Decke, die Kontakte von Tierarzt und Hundesitter und eine Notiz zu Tagesablauf und Gewohnheiten des Hundes. Nach einem Krankenhausaufenthalt gönnen Sie sich ein oder zwei Tage Ruhe, bevor Sie den Hund wieder übernehmen.</p>
+  <!--/BLOCCO:10-->
 
+  <!--BLOCCO:11-->
   <h2>Häufige Fragen</h2>
 
   <div class="faq-list">
@@ -159,11 +180,12 @@ custom_content: |
   <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Zucht wählen">Tipps, bevor ein Welpe einzieht</a></li>
   </ul>
   </div>
-  
+
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>
-  
+  <!--/BLOCCO:11-->
+
   </article>
   </div>
 ---

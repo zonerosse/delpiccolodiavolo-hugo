@@ -12,6 +12,7 @@ thumb: "/images/blog/icone/test-genetici-l2hga-hc-staffy.webp"
 description: "Gentests beim Staffordshire Bull Terrier: L2-HGA, erbliche Katarakt HC (Gen HSF4) und degenerative Myelopathie (Gen SOD1). Was sie sind und wie man sie liest."
 slug: "staffy-gentests-l2hga-hc"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -28,24 +29,28 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/de/" title="Home">Home</a> ›
   <a href="/de/blog/" title="Blog">Blog</a> ›
   <span>Gentests L2-HGA und HC</span>
   </nav>
-  
+
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>Der Staffordshire Bull Terrier ist eine grundsätzlich gesunde Rasse mit zwei schweren Erbkrankheiten, die sich durch DNA-Tests vollständig verhindern lassen. L2-HGA, die L-2-Hydroxyglutarazidurie, ist eine Stoffwechselkrankheit des Nervensystems, die meist zwischen sechs Monaten und einem Jahr auftritt. Der erbliche Katarakt, verursacht durch eine Mutation im Gen HSF4, zeigt sich zwischen vier Monaten und drei Jahren und kann zur Erblindung führen. Beide werden autosomal-rezessiv vererbt: Ein Träger wirkt sein Leben lang gesund, und zwei verpaarte Träger können kranke Welpen hervorbringen, gesund aussehende Eltern beweisen also nichts. Ein dritter Test, auf degenerative Myelopathie (Gen SOD1), betrifft eine Rückenmarkserkrankung bei Hunden über acht Jahren; auch sie wird rezessiv vererbt, allerdings mit unvollständiger Penetranz: nicht jeder Hund mit zwei Kopien erkrankt. Ein Befund zählt nur, wenn er die Mikrochipnummer des Hundes trägt. In der Zucht Del Piccolo Diavolo in Ostellato wird mit keinem Träger gezüchtet, und die Befunde sind veröffentlicht.</p>
 
-  
-  
+
+
+  <!--BLOCCO:2-->
   <h2>Warum Gentests nicht optional sind</h2>
   <p>Der Staffordshire Bull Terrier ist eine grundsätzlich gesunde Rasse, trägt aber zwei erbliche Erkrankungen, die schwerwiegend und zugleich vollständig vermeidbar sind: L2-HGA und die hereditäre Katarakt. Beide werden rezessiv vererbt. Das bedeutet, dass ein Hund die Mutation tragen, ein Leben lang völlig gesund bleiben und trotzdem betroffene Welpen zeugen kann, wenn er mit einem anderen Träger verpaart wird.</p>
   <p>Genau diesen Punkt übersehen viele Familien. Sichtbar gesunde Elterntiere beweisen nichts über die Welpen. Nur ein DNA-Test der Eltern zeigt, ob ein Wurf betroffene Hunde hervorbringen kann. Seit diese Tests verfügbar sind, sind beide Erkrankungen in der verantwortungsvollen Zucht praktisch verschwunden. Wenn heute ein betroffener Welpe geboren wird, ist das fast nie Pech, sondern die Folge einer Verpaarung ohne Test.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>L2-HGA: was es ist und wie es sich zeigt</h2>
   <p>Die L-2-Hydroxyglutarazidurie ist eine Stoffwechselerkrankung, verursacht durch eine Mutation im L2HGDH-Gen. Der betroffene Hund kann ein Molekül namens L-2-Hydroxyglutarsäure nicht korrekt abbauen. Es reichert sich in der Gehirn-Rückenmarks-Flüssigkeit an und schädigt fortschreitend das zentrale Nervensystem.</p>
   <p>Die Symptome zeigen sich meist zwischen dem sechsten Lebensmonat und dem ersten Lebensjahr, gelegentlich später. Besitzer berichten von Episoden mit Koordinationsverlust und Taumeln, Zittern, Muskelsteifheit nach Belastung oder Aufregung, Verhaltensänderungen und in vielen Fällen Krampfanfällen. Zwischen den Episoden wirkt der Hund fast normal, was die Diagnose verzögert und falsche Hoffnung weckt.</p>
@@ -62,7 +67,9 @@ custom_content: |
   <li>Belastungsintoleranz</li>
   </ul>
   <p>Die Erkrankung ist <strong>fortschreitend und unheilbar</strong>. Betroffene Hunde haben eine stark eingeschränkte Lebensqualität und werden häufig aus Tierschutzgründen eingeschläfert. Es gibt keine Behandlung, nur die symptomatische Kontrolle der Anfälle &mdash; und genau darum geht es: diese Krankheit ist vollständig vermeidbar, und kein Welpe sollte je mit ihr geboren werden.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>Hereditäre Katarakt (HC, Gen HSF4): was es ist und wie es sich zeigt</h2>
   <p>Die hereditäre Katarakt dieser Rasse, verursacht durch eine Mutation im HSF4-Gen, ist nicht der Altersstar, den man bei alten Hunden jeder Rasse sieht. Sie tritt früh auf, typischerweise zwischen dem vierten Lebensmonat und dem dritten Lebensjahr, betrifft beide Augen und schreitet fort.</p>
   <p>Die Linse trübt sich zunehmend ein, und der Hund verliert das Augenlicht, meist vollständig und oft vor seinem dritten Geburtstag. Eine Operation kann in ausgewählten Fällen brauchbares Sehvermögen wiederherstellen, ist aber teuer, nicht immer erfolgreich und erfordert einen Fachtierarzt für Augenheilkunde. Auch hier gilt: die Erkrankung ist durch einen Test vor der Verpaarung vollständig vermeidbar.</p>
@@ -76,15 +83,19 @@ custom_content: |
   <li>Vollständige Blindheit in fortgeschrittenen Fällen</li>
   </ul>
   <p>Anders als L2-HGA lässt sich die Katarakt mit guten Ergebnissen operieren, doch der Eingriff ist teuer und die Nachsorge aufwendig. Die Vorsorge durch Tests bleibt der bei Weitem bessere Weg.</p>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>Degenerative Myelopathie (DM, Gen SOD1): was sie ist und wie sie sich zeigt</h2>
-  
+
   <p>Die <strong>degenerative Myelopathie</strong> ist eine Erkrankung des Rückenmarks, die im höheren Alter auftritt, meist nach dem achten Lebensjahr. Sie beginnt mit einem unsicheren Gang der Hinterbeine und verschlechtert sich fortschreitend bis zur Lähmung, innerhalb von einigen Monaten bis zu etwa zwei Jahren. Eine Heilung gibt es nicht. Die wichtigste Mutation, im Exon 2 des Gens <strong>SOD1</strong>, wurde 2009 beschrieben und kommt bei vielen Rassen vor. Sie wird rezessiv vererbt: Das Risiko betrifft Hunde mit zwei Kopien, auch wenn nicht alle erkranken. Gerade weil sie so spät auftritt, kann ein Risikohund schon mehrere Würfe gehabt haben, bevor die ersten Anzeichen erscheinen: Nur der DNA-Test zeigt es rechtzeitig. Ein Ergebnis N/N, oder „Wildtyp homozygot“, bedeutet, dass der Hund die Mutation nicht trägt und sie nicht weitergeben kann.</p>
-  
+
   <p>Bei uns ist der SOD1-Test N/N, also frei, für unsere beiden aktiven Zuchthündinnen Bilquis und Croi Olc sowie für Nora: Die Befunde mit Mikrochipnummer stehen auf der <a href="/de/huendinnen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Hündinnen">Seite der Hündinnen</a>.</p>
-  
+
   <p class="fonti">Quellen: <a href="https://www.pnas.org/doi/10.1073/pnas.0812297106" target="_blank" rel="noopener" title="Awano et al., PNAS 2009" aria-label="Awano et al., PNAS 2009 (wird in einem neuen Tab geöffnet)">Awano et al., PNAS 2009</a>; <a href="https://vgl.ucdavis.edu/test/degenerative-myelopathy" target="_blank" rel="noopener" title="UC Davis Veterinary Genetics Laboratory" aria-label="UC Davis Veterinary Genetics Laboratory (wird in einem neuen Tab geöffnet)">UC Davis Veterinary Genetics Laboratory</a>; <a href="https://omia.org/OMIA001371/9615/" target="_blank" rel="noopener" title="OMIA 001371-9615" aria-label="OMIA, L-2-HGA beim Hund (wird in einem neuen Tab geöffnet)">OMIA, L-2-HGA beim Hund</a>; <a href="https://omia.org/OMIA001758/9615/" target="_blank" rel="noopener" title="OMIA 001758-9615" aria-label="OMIA, erblicher Katarakt HSF4 (wird in einem neuen Tab geöffnet)">OMIA, erblicher Katarakt HSF4</a> (Erbgang).</p>
-  
+  <!--/BLOCCO:5-->
+
+  <!--BLOCCO:6-->
   <h2>Wie die Tests funktionieren</h2>
   <p>Die Tests basieren auf DNA und sind unkompliziert. Ein Wangenabstrich oder eine kleine Blutprobe wird entnommen, idealerweise vom Tierarzt, der zugleich den Mikrochip des Hundes überprüft, damit die Probe eindeutig diesem Tier zugeordnet ist, und an ein akkreditiertes Labor geschickt. Das Ergebnis liegt nach 2 bis 4 Wochen vor und gilt lebenslang: die DNA verändert sich nicht, ein Hund wird einmal getestet und nie wieder.</p>
   <p>Die Kosten unterscheiden sich je nach Labor und Land, für beide Tests zusammen sind etwa 120 Euro für das Genpaket im Labor; rechnet man Blutentnahme, Versand und bei Zuchthündinnen den Test auf degenerative Myelopathie (SOD1) hinzu, sind es rund 400 Euro pro Hund realistisch. Verglichen mit den Kosten einer lebenslangen antikonvulsiven Behandlung oder einer Kataraktoperation ist das eine unbedeutende Summe. Deshalb betrachtet kein ernsthafter Züchter diese Ausgabe als freiwillig.</p>
@@ -97,6 +108,7 @@ custom_content: |
   </figure>
   <p>Die wichtigsten Labore für diese Tests sind der <strong>Animal Health Trust</strong> in Großbritannien, der beide Tests entwickelt hat und heute zum Kennel Club gehört; <strong>Laboklin</strong>, das deutsche Labor, das auch in Italien arbeitet; <strong>Optigen</strong> in den Vereinigten Staaten, spezialisiert auf Augenerkrankungen; und <strong>Embark</strong>, dessen breites Panel L2-HGA und HC einschließt.</p>
   <p>Die Probe ist ein Wangenabstrich oder eine Blutentnahme durch den Tierarzt; sie geht ans Labor, und das Zertifikat kommt mit der Mikrochipnummer des Hundes zurück. Diese Nummer verbindet das Ergebnis mit einem bestimmten Tier &mdash; ein Zertifikat ohne sie beweist nichts über den Hund, der vor Ihnen steht.</p>
+  <!--/BLOCCO:6-->
 
   <h2>Ergebnisse richtig lesen</h2>
   <p>Die Ergebnisse werden in festen Begriffen angegeben:</p>
@@ -132,10 +144,13 @@ custom_content: |
 
   <p>Die letzte Zeile ist der ganze Grund, warum es die Tests gibt: zwei gesunde Hunde, miteinander verpaart, bringen einen kranken Welpen von vier hervor.</p>
 
+  <!--BLOCCO:8-->
   <h2>Frei durch Abstammung</h2>
   <p>In Ahnentafeln findet sich oft der Vermerk, ein Hund sei "frei durch Abstammung" oder "hereditär frei". Das bedeutet, dass der Hund selbst nicht getestet wurde, beide Elterntiere aber getestet frei sind, wodurch es genetisch unmöglich ist, dass er die Mutation trägt.</p>
   <p>Das ist zulässig und wird von den Zuchtverbänden anerkannt, hängt aber vollständig von der Richtigkeit der Abstammung ab. Es gilt für eine Generation und fällt in sich zusammen, wenn eine Elternangabe falsch ist. Für einen Hund, der in der Zucht eingesetzt werden soll, ist ein direkter Test dennoch ratsam, damit er ein Zertifikat auf seinen eigenen Namen hat. Für einen Familienwelpen ist "frei durch Abstammung" bei zwei direkt getesteten Eltern völlig beruhigend.</p>
+  <!--/BLOCCO:8-->
 
+  <!--BLOCCO:7-->
   <h2>Was Sie den Züchter fragen sollten</h2>
   <figure class="article-image img-left">
   <img src="/images/cucciolo-rosso.webp" alt="Gesunder Staffordshire Bull Terrier Welpe" loading="lazy" decoding="async" width="280" height="320">
@@ -144,7 +159,9 @@ custom_content: |
   <p>Verlangen Sie die Laborzertifikate beider Elterntiere als Dokument, mit lesbaren Namen der Hunde, Mikrochipnummern und Laborangabe: Ein akkreditiertes Labor und ein Mikrochip, der zum Hund passt, machen einen Befund erst gültig. Ein seriöser Züchter schickt sie ohne Zögern und oft, bevor Sie fragen.</p>
   <p>Vorsicht ist geboten bei: der Formulierung "die Eltern sind gesund, wir hatten nie Probleme", die eine ganz andere Frage beantwortet; Zertifikaten, die Sie angeblich später erhalten; der Weigerung, Unterlagen zu zeigen, bevor der Welpe einzieht; Ergebnissen, die nur als Screenshot vorliegen; und der Behauptung, Tests seien überflüssig, "weil unsere Linien das nie hatten". Keine Linie ist von einer rezessiven Mutation ausgenommen, solange sie nicht getestet ist.</p>
   <p>Bei der Zucht Del Piccolo Diavolo sind die Zuchttiere getestet oder durch Abstammung frei, mit den Befunden der Eltern. Die Befunde mit Mikrochipnummer sind auf den Seiten der Hunde veröffentlicht.</p>
+  <!--/BLOCCO:7-->
 
+  <!--BLOCCO:9-->
   <h2>Über die beiden DNA-Tests hinaus</h2>
   <p>Neben L2-HGA und HC führt eine seriöse Zucht weitere Gesundheitskontrollen an ihren Zuchttieren durch.</p>
 
@@ -172,7 +189,9 @@ custom_content: |
   ✅ Registrierter Mikrochip<br>
   ✅ Vollständige Impfungen und Impfpass</p>
   </div>
+  <!--/BLOCCO:9-->
 
+  <!--BLOCCO:10-->
   <h2>Kosten der Vorsorge gegen Kosten der Krankheit</h2>
   <p>Die Tests kosten einmalig etwa 400 Euro pro Hund. Die Lebenszeitkosten eines an L2-HGA erkrankten Hundes gehen in die Tausende, und eine Kataraktoperation an einem Auge kostet ungefähr so viel wie der Welpe selbst. Die eigentliche Frage ist aber nicht das Geld. Sie lautet: eine Familie, die sich bewusst für eine gesunde Rasse und einen Welpen mit Papieren entschieden hat, sollte nie in diese Lage kommen, wenn ein Wangenabstrich und 3 Wochen Wartezeit es vollständig verhindert hätten.</p>
 
@@ -191,7 +210,9 @@ custom_content: |
   </table>
 
   <p>Das sind keine vergleichbaren Ausgaben. Achthundert Euro, einmal vor einer Verpaarung ausgegeben, stehen monatlichen Kosten gegenüber, die so lange dauern wie das Leben des Hundes.</p>
+  <!--/BLOCCO:10-->
 
+  <!--BLOCCO:11-->
   <h2>Häufige Fragen</h2>
 
   <div class="faq-item">
@@ -245,11 +266,12 @@ custom_content: |
   <li><a href="/de/welpen-erste-fuetterung/" title="Ernährung des Welpen in den ersten Monaten">Ernährung des Welpen in den ersten Monaten</a></li>
   </ul>
   </div>
-  
+
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>
-  
+  <!--/BLOCCO:11-->
+
   </article>
   </div>
 ---

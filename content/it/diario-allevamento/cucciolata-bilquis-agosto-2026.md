@@ -44,12 +44,18 @@ Questa cucciolata è nata ad agosto 2026 dall'accoppiamento fra Bilquis Goddess 
 
 All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente attesa: il **1° agosto 2026** la nostra **Bilquis Goddess Diabhal** — Campionessa Italiana di Bellezza ENCI e 4ª classificata al World Dog Show di Zagabria 2024 — è diventata mamma. Un accoppiamento pianificato con cura, che unisce il pedigree di **Bilquis Goddess Diabhal**, figlia di **Skilful-dogs Nora**, alle solide linee italiane del padre **Black Jack di Casa Giacalone**, figlio del **Campione del Mondo 2023** Quash Marvelous Hagler de Stafflorence.
 
+
+<!--BLOCCO:1-->
+
 ## I cuccioli appena nati
 
 <div style="display:flex;flex-wrap:wrap;gap:1rem;justify-content:center;margin:1.5rem 0">
 <img src="/images/cuccioli-bilquis-nati-1.webp" alt="Cuccioli Staffordshire Bull Terrier neri appena nati - Bilquis x Black Jack" width="435" height="480" loading="lazy" decoding="async" style="width:320px;max-width:100%;height:auto;border-radius:12px">
 <img src="/images/cuccioli-bilquis-nati-2.webp" alt="Bilquis con i suoi cuccioli Staffordshire Bull Terrier appena nati" width="468" height="480" loading="lazy" decoding="async" style="width:320px;max-width:100%;height:auto;border-radius:12px">
 </div>
+
+<!--/BLOCCO:1-->
+
 
 
 ## Come crescono, video per video
@@ -70,6 +76,9 @@ All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente a
 <p style="font-size:.9rem;line-height:1.7;margin:0">A cinquantacinque giorni le orecchie sono in piena fase di assestamento: salgono, scendono e cambiano posizione quasi ogni giorno, e l'orecchio a rosa definitivo di uno Staffordshire Bull Terrier adulto si vede solo mesi dopo. &Egrave; anche il periodo in cui i cuccioli cominciano a uscire nello spazio esterno nelle ore di sole e rientrano in casa a turno, due per volta.</p>
 </div>
 </div>
+
+
+<!--BLOCCO:2-->
 
 ## I genitori
 
@@ -105,6 +114,12 @@ All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente a
   </div>
 </div>
 
+<!--/BLOCCO:2-->
+
+
+
+<!--BLOCCO:3-->
+
 ## La cucciolata
 
 **Nati:** 1° agosto 2026
@@ -112,6 +127,12 @@ All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente a
 **Colore:** tutti neri
 
 **Disponibilità:** cucciolata completa, cuccioli non disponibili.
+
+<!--/BLOCCO:3-->
+
+
+
+<!--BLOCCO:4-->
 
 ## Perché questa cucciolata è speciale
 
@@ -122,6 +143,12 @@ Bilquis non è solo una fattrice: è una **Campionessa Italiana di Bellezza ENCI
 ### Il padre: Black Jack di Casa Giacalone
 
 Black Jack è un giovane maschio **nero** (nato aprile 2025) con un pedigree di primissimo livello: suo **padre è Quash Marvelous Hagler de Stafflorence, Campione del Mondo 2023 a Ginevra**, dalla blasonata linea **de Stafflorence**. Sua **madre è Ultima di Casa Giacalone, Giovane Campionessa Italiana**, dagli affissi **di Casa Giacalone** e **Staffystar**, ricchi di Campioni Italiani e Internazionali. Struttura compatta e tipica, dentatura completa a forbice.
+
+<!--/BLOCCO:4-->
+
+
+
+<!--BLOCCO:5-->
 
 ## Test genetici
 
@@ -200,9 +227,18 @@ Bilquis — Ecocardio Doppler
 
 <p style="margin-top:1.5rem"><strong>Pedigree della cucciolata:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" class="sbt-link" aria-label="Vedi il pedigree completo della cucciolata su SBTPedigree (si apre in una nuova scheda)">Vedi su SBTPedigree →</a></p>
 
+<!--/BLOCCO:5-->
+
+
+
+
+<!--BLOCCO:6-->
 
 ## Contatti
 
 Questa cucciolata è completa. Per informazioni sull'allevamento, sui nostri riproduttori o sui certificati di laboratorio, scrivici pure.
 
 <p style="margin-top:2rem"><a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20informazioni%20sull%27allevamento" class="btn btn-primary">Contattaci su WhatsApp →</a></p>
+
+<!--/BLOCCO:6-->
+

@@ -7,6 +7,7 @@ translationKey: "femmine"
 description: "Staffordshire Bull Terrier Hündinnen: Bilquis (Top Dog Junior 2023), Queen of California, Croi Olc, Divine, Kennedy, Derry, Cattleya. Gentests L2HGA, HC, DM-SOD1."
 slug: "huendinnen-staffordshire-bull-terrier"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -24,19 +25,21 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>Elitebull Linien</span><span>Lackyle Linien</span><span>L2HGA Frei</span><span>HC Frei</span><span>Italienische Champions</span><span>ENCI Stammbaum</span>
   <span>Elitebull Linien</span><span>Lackyle Linien</span><span>L2HGA Frei</span><span>HC Frei</span><span>Italienische Champions</span><span>ENCI Stammbaum</span>
   </div>
   </div>
-  
+
+  <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Unser Ansatz</span>
   <h2 class="section-title">Selektion und Pflege Unserer Hündinnen</h2>
-  
+
   <div class="intro-block">
   <p>Mit Sorgfalt und Verantwortung aufgezogen, werden unsere Hündinnen für <strong>Gesundheit</strong>, <strong>Rassetypizität</strong> und <strong>ausgeglichenes Temperament</strong> selektiert. Jede Verpaarung wird <a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)">auf Basis von Gentests</a> und Linienkompatibilität geplant.</p>
   <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Unsere Hündinnen sind getestet auf:</p>
@@ -47,7 +50,9 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:2-->
+
+  <!--BLOCCO:3-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Unsere Hündinnen</span>
@@ -57,7 +62,7 @@ custom_content: |
   <p><strong>Wie viele Würfe, und wie man es prüft.</strong> Unsere Hündinnen haben im Schnitt <strong>zwei Würfe</strong>. Man muss uns nicht glauben: unter jedem Namen steht die Mikrochipnummer, und damit lässt sich die Zahl der Würfe im <a href="https://www.enci.it/libro-genealogico/libro-genealogico-on-line" target="_blank" rel="noopener" title="ENCI-Zuchtbuch" aria-label="ENCI-Zuchtbuch (wird in einem neuen Tab geöffnet)">ENCI-Zuchtbuch</a> nachschlagen.</p>
   <p style="margin-bottom:0">Lebt ein Hund anderswo, steht unter seinem Namen der Name des Besitzers. Denn das gehört zu den Dingen, die man <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie man eine seriöse Zucht erkennt">immer prüfen sollte</a>, statt sie sich erzählen zu lassen.</p>
   </div>
-  
+
   <!-- BILQUIS - CHAMPIONESSE -->
   <article class="female-card female-featured">
   <div class="female-header">
@@ -86,7 +91,7 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   <!-- QUEEN OF CALIFORNIA -->
   <article class="female-card female-featured">
   <div class="female-header">
@@ -114,7 +119,7 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   <!-- CROI OLC -->
   <article class="female-card">
   <div class="female-header">
@@ -140,7 +145,7 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   <!-- DIVINE - ZUR ABGABE -->
   <article class="female-card">
   <div class="female-header">
@@ -164,7 +169,7 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   <!-- KENNEDY -->
   <article class="female-card">
   <div class="female-header">
@@ -189,7 +194,7 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   <!-- DERRY -->
   <article class="female-card">
   <div class="female-header">
@@ -215,7 +220,7 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   <!-- CATTLEYA -->
   <article class="female-card female-featured">
   <div class="female-header">
@@ -240,7 +245,7 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   <!-- NORA -->
   <article class="female-card">
   <div class="female-header">
@@ -268,14 +273,17 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   </div>
   </section>
-  
-    
+  <!--/BLOCCO:3-->
+
+
+  <!--BLOCCO:4-->
   <section class="cta-section">
   <h2>Möchten Sie Infos über unsere Hündinnen?</h2>
   <p>Rufen Sie uns an oder schreiben Sie uns auf WhatsApp für Informationen über unsere Zuchthündinnen.</p>
   <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20möchte%20Infos%20über%20Staffordshire%20Bull%20Terrier%20Hündinnen" class="btn" title="Schreiben Sie uns auf WhatsApp">Auf WhatsApp Schreiben</a>
   </section>
+  <!--/BLOCCO:4-->
 ---

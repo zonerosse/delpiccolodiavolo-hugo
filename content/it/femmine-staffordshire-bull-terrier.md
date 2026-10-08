@@ -8,6 +8,7 @@ translationKey: "femmine"
 description: "Le femmine Staffordshire Bull Terrier: Bilquis (Top Dog Junior 2023), Queen of California, Croi Olc, Divine, Kennedy, Derry, Cattleya. Test L2HGA, HC e DM-SOD1."
 slug: "femmine-staffordshire-bull-terrier"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -25,7 +26,8 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>Elitebull Lines</span>
@@ -44,12 +46,13 @@ custom_content: |
   <span>Ostellato FE</span>
   </div>
   </div>
-  
+
+  <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Il Nostro Approccio</span>
   <h2 class="section-title">Selezione e Cura delle Nostre Femmine</h2>
-  
+
   <div class="intro-block">
   <p>Le fattrici di Del Piccolo Diavolo sono otto Staffordshire Bull Terrier femmine, e per ognuna il sito pubblica il numero di microchip, il numero di libro genealogico ENCI, <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">i test genetici</a> e il collegamento alla scheda su SBTPedigree. Con il microchip chiunque può consultare sul libro genealogico ENCI quante cucciolate ha fatto una femmina: da noi la media è di due per cane, ben sotto il limite consentito dal regolamento. Alcune non vivono qui &mdash; una è in Germania con i suoi proprietari, un'altra è stata ceduta a una famiglia &mdash; e anche questo è scritto nella loro scheda, con il nome di chi le ha oggi. Le linee di provenienza sono inglesi e irlandesi, in particolare Elitebull e Lackyle, e i soggetti importati arrivano da Russia, Germania e Irlanda.</p>
 
@@ -62,7 +65,9 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:2-->
+
+  <!--BLOCCO:3-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Le Nostre Femmine</span>
@@ -72,7 +77,7 @@ custom_content: |
   <p><strong>Quante cucciolate, e come si controlla.</strong> Le nostre femmine fanno in media <strong>due cucciolate</strong> ciascuna. Non serve crederci sulla parola: sotto ogni nome c'&egrave; il numero di microchip, e con quello il numero di cucciolate si consulta sul <a href="https://www.enci.it/libro-genealogico/libro-genealogico-on-line" target="_blank" rel="noopener" title="Libro genealogico ENCI" aria-label="Libro genealogico ENCI (si apre in una nuova scheda)">libro genealogico ENCI</a>.</p>
   <p style="margin-bottom:0">Quando un cane vive altrove, sotto il suo nome trovi quello del proprietario. Perch&eacute; questo &egrave; il genere di cose che <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento serio">andrebbe sempre verificato</a>, non raccontato.</p>
   </div>
-  
+
   <!-- BILQUIS - CAMPIONESSA ITALIANA -->
   <article class="female-card female-featured">
   <div class="female-header">
@@ -101,7 +106,7 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
 
   <!-- QUEEN OF CALIFORNIA -->
   <article class="female-card female-featured">
@@ -156,7 +161,7 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   <!-- DIVINE - IN AFFIDO -->
   <article class="female-card">
   <div class="female-header">
@@ -180,7 +185,7 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   <!-- KENNEDY -->
   <article class="female-card">
   <div class="female-header">
@@ -205,7 +210,7 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   <!-- DERRY -->
   <article class="female-card">
   <div class="female-header">
@@ -231,7 +236,7 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   <!-- CATTLEYA -->
   <article class="female-card female-featured">
   <div class="female-header">
@@ -256,7 +261,7 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   <!-- NORA -->
   <article class="female-card">
   <div class="female-header">
@@ -284,14 +289,17 @@ custom_content: |
   </div>
   </div>
   </article>
-  
+
   </div>
   </section>
-  
-    
+  <!--/BLOCCO:3-->
+
+
+  <!--BLOCCO:4-->
   <section class="cta-section">
   <h2>Vuoi Info sulle Nostre Femmine?</h2>
   <p>Chiamaci o scrivici su WhatsApp per informazioni sulle nostre fattrici.</p>
   <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sulle%20femmine%20Staffordshire%20Bull%20Terrier" class="btn" title="Scrivici su WhatsApp per info femmine">Scrivici su WhatsApp</a>
   </section>
+  <!--/BLOCCO:4-->
 ---

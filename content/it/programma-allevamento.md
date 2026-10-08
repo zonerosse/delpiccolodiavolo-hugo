@@ -21,6 +21,7 @@ correlati:
     testo: "Un criterio di selezione spesso ignorato"
 slug: "programma-allevamento"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -38,6 +39,7 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:1-->
 
   <div class="features-bar">
   <div class="features-track">
@@ -58,7 +60,9 @@ custom_content: |
   </div>
   </div>
 
+  <!--BLOCCO:2-->
   <!--CUCCIOLATA-->
+  <!--/BLOCCO:2-->
 
   <!-- Citazione allevamento -->
   <section class="section">
@@ -91,7 +95,7 @@ custom_content: |
   </div>
 
 
-  
+
   <a class="rimando" href="/come-si-legge-un-pedigree/">
   <img src="/images/blog/pedigree-queen-hero.webp" alt="Queen of California in esposizione" width="88" height="59" loading="lazy" decoding="async">
   <span>
@@ -292,7 +296,9 @@ custom_content: |
   </div>
   </section>
 
+  <!--BLOCCO:3-->
   <!--CORRELATI-->
+  <!--/BLOCCO:3-->
 
   <section class="dark-section">
   <h2>Come si arriva a un cucciolo</h2>

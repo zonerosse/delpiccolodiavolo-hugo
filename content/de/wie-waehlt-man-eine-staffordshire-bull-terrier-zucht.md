@@ -13,6 +13,9 @@ date: 2026-01-18
 lastmod: 2026-09-30
 ---
 
+
+<!--BLOCCO:1-->
+
 <section class="hero">
 <div class="hero-visual">
 <div class="hero-image">
@@ -29,12 +32,18 @@ lastmod: 2026-09-30
 </div>
 </section>
 
+<!--/BLOCCO:1-->
+
+
 <nav class="breadcrumb" aria-label="Breadcrumb">
 <a href="/de/" title="Startseite">Startseite</a> &rsaquo;
 <a href="/de/blog/" title="Blog">Blog</a> &rsaquo;
 <a aria-label="Welpen &mdash; Blog-Kategorie" href="/de/blog/#welpen" title="Artikel &uuml;ber Welpen">Welpen</a> &rsaquo;
 <span>Wie man eine seri&ouml;se Zucht erkennt</span>
 </nav>
+
+
+<!--BLOCCO:2-->
 
 <section class="section">
 <div class="section-inner content-single">
@@ -171,8 +180,17 @@ lastmod: 2026-09-30
 </div>
 </section>
 
+<!--/BLOCCO:2-->
+
+
+
+<!--BLOCCO:3-->
+
 <section class="cta-section">
 <h2>M&ouml;chten Sie unsere Hunde kennenlernen?</h2>
 <p>Die Zucht Del Piccolo Diavolo empfängt nach Terminvereinbarung in Ostellato, Provinz Ferrara. Sie sehen die M&uuml;tter, die Welpen und das Haus, in dem sie aufwachsen.</p>
 <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20m%C3%B6chte%20Ihre%20Hunde%20kennenlernen" class="btn" title="Schreiben Sie uns auf WhatsApp" target="_blank" rel="noopener" aria-label="Schreiben Sie uns auf WhatsApp f&uuml;r einen Termin (wird in einem neuen Tab ge&ouml;ffnet)">Termin vereinbaren</a>
 </section>
+
+<!--/BLOCCO:3-->
+

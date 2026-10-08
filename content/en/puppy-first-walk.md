@@ -12,6 +12,7 @@ thumb: "/images/blog/icone/cuccioli-prima-passeggiata.webp"
 description: "First walk for your Staffordshire Bull Terrier puppy: when to start, how long to go out, the right equipment and how to build good walking habits from day one."
 slug: "puppy-first-walk"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -28,57 +29,73 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <div class="features-bar">
   <div class="features-track">
   <span>Right Timing</span><span>Equipment</span><span>Leash Introduction</span><span>Short Sessions</span><span>Positive Experiences</span><span>Common Mistakes</span>
   <span>Right Timing</span><span>Equipment</span><span>Leash Introduction</span><span>Short Sessions</span><span>Positive Experiences</span><span>Common Mistakes</span>
   </div>
   </div>
-  
+
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> ›
   <a href="/en/blog/" title="Blog">Blog</a> ›
   <a aria-label="Puppies — blog category" href="/en/blog/#puppies" title="Puppies">Puppies</a> ›
   <span>First Walk</span>
   </nav>
-  
+
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>A Staffordshire Bull Terrier puppy's first walks are measured in minutes, not distance. The usual guideline is about five minutes of formal walking per month of age, twice a day: fifteen minutes at three months, twenty at four. The limit exists because growth plates in this breed close between 12 and 18 months, and repeated impact before then causes damage that only shows years later. Waiting for the end of the vaccinations, at around 14 weeks with our protocol, is not the answer either, because by then the socialisation window, which runs from the third to the twelfth week, has already closed: controlled exposure should begin as soon as the puppy arrives, in clean, quiet places, away from other dogs' faeces. In the early weeks, what the puppy meets matters more than how far it goes: five calm minutes of sniffing are worth more than thirty on a tight lead. A guide by the Del Piccolo Diavolo kennel, Ostellato, Italy.</p>
 
-  
-  
+
+
+  <!--BLOCCO:2-->
   <h2>When to start, and the vaccination dilemma</h2>
   <p>The classic advice is to wait until the <a href="https://wsava.org/global-guidelines/vaccination-guidelines/" title="WSAVA global guidelines" target="_blank" rel="noopener" aria-label="WSAVA global guidelines (opens in a new tab)">vaccination</a> course is complete, at around 16 weeks; with the protocol we follow, protection comes earlier, at around 14 weeks. The classic advice is also, taken literally, harmful, because the socialisation window closes earlier, around the twelfth week. A puppy that sees nothing of the world until 16 weeks has missed the period in which novelty is accepted most easily, and behavioural problems arising from under-socialisation are a far more common cause of dogs being given up than infectious disease. What "socialised puppy" really means, and how to check it when you visit a breeder, is explained in <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it means">socialised puppies: what it means</a>.</p>
   <p>The sensible compromise, and the one most veterinary behaviour bodies now recommend, is controlled exposure from the moment the puppy arrives. Carry the puppy in your arms in the street. Let it watch traffic, bicycles, children, market stalls and other people's umbrellas from a safe height. Visit friends whose dogs are vaccinated and healthy. Avoid places where unknown dogs urinate, public parks and veterinary waiting-room floors, until protection is complete.</p>
   <p>Put simply: exposure to the world, yes, from day one. Exposure to unknown dogs' faeces, no, until the puppy is protected: with our protocol at around 14 weeks.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>Preparing before you go out</h2>
   <p>Work at home first. Let the puppy wear a flat collar and a Y-shaped harness indoors for a few minutes at a time, with something pleasant happening while it is on, until it stops noticing them. Attach a light lead and let it trail while you play. Only then attach the lead and walk 3 metres in the corridor.</p>
   <p>Choose a harness rather than a collar for walking. This breed pulls, and the pressure of a collar on the trachea of a growing puppy is avoidable. A well-fitted Y-front harness with the lead attached at the chest changes the geometry of pulling and makes the whole business easier for both of you.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>The first outing</h2>
   <p>Pick a quiet street, a quiet time, and plan for 5 minutes, not thirty. Let the puppy set the pace, including the long minutes spent sniffing a single railing. Sniffing is not wasted time: it is how the dog collects information, and it tires a puppy more effectively than movement.</p>
   <p>Do not be surprised if the puppy sits down and refuses to move. This is extremely common and it is not stubbornness — it is a small animal overwhelmed by an unprecedented amount of information. Crouch down, wait, offer a treat, and let it start again when it is ready. Dragging a frightened puppy forward teaches it that the lead means being forced, and that lesson is expensive to undo.</p>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>Duration and the growth plates</h2>
   <p>The five-minute rule applies: roughly 5 minutes of formal walking per month of age, twice a day. 3 months, 15 minutes; 4 months, 20. This is not caution for its own sake. Growth plates in this breed close between 12 and 18 months, and repetitive impact before then causes damage that only becomes visible years later as joint disease.</p>
   <p>Free play in a garden, where the puppy chooses when to stop, is different and can be more generous. What must be avoided is long walks on hard ground, jumping down from heights, repeated stairs and running alongside a bicycle.</p>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>What to expose the puppy to, deliberately</h2>
   <p>Make a list and work through it: different surfaces including metal grates, gravel, wet grass and slippery tiles; traffic noise from a distance that does not frighten; men with beards and hats, which many puppies find odd; umbrellas, wheelchairs, pushchairs and skateboards; and calm adult dogs of known temperament, which teach a puppy dog manners better than any number of chaotic puppy parties.</p>
   <p>Quality matters far more than quantity. One calm, positive encounter with a friendly adult dog is worth more than ten frantic ones, and a single frightening experience at this age can take months to overwrite.</p>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:7-->
   <h2>Reading fear, and what to do about it</h2>
   <p>A puppy that tucks its tail, flattens its ears, tries to retreat behind your legs, yawns repeatedly or refuses food it normally accepts is frightened, not naughty. The correct response is to increase distance from whatever caused it, wait for the puppy to relax, and then approach only as far as it remains comfortable.</p>
   <p>You cannot reinforce fear by comforting a frightened animal — that particular piece of folklore has caused a great deal of harm. Reassure the puppy, remove the pressure, and try again another day at a greater distance.</p>
+  <!--/BLOCCO:7-->
 
+  <!--BLOCCO:8-->
   <h2>Loose lead walking from the first day</h2>
   <p>This breed is strong, and a puppy that learns pulling works becomes an adult that drags you down the street. The rule is simple and hard: <strong>when the lead is tight, you stop</strong>. When it slackens, you move on. Nothing else is required, and no equipment substitutes for consistency.</p>
   <p>Reward the position you want rather than correcting the one you do not. A treat delivered at your left knee, repeatedly, teaches a puppy where the good things happen far faster than any amount of pulling back.</p>
+  <!--/BLOCCO:8-->
 
+  <!--BLOCCO:9-->
   <h2>Frequently asked questions</h2>
   <p><strong>My puppy sits down and refuses to walk. What do I do?</strong> Wait. Crouch at its level, stay relaxed, and let it decide to move. This resolves itself within a few outings if you never drag, and becomes a lasting problem if you do.</p>
   <p><strong>Collar or harness?</strong> Harness for walking, collar for identification. A Y-shaped harness that leaves the shoulders free, with a front attachment ring, is the best combination for a strong breed.</p>
@@ -94,17 +111,17 @@ custom_content: |
   <li><a href="/en/puppy-first-vaccinations/" title="Puppy first vaccinations: schedule and boosters">Puppy first vaccinations: schedule and boosters</a></li>
   </ul>
   </div>
-  
+
   <div class="related-articles">
   <h3>More on this topic</h3>
   <ul>
   <li><a href="/en/staffy-safe-exercise/" title="Safe Exercise for Staffordshire Bull Terrier">Safe Exercise for Staffordshire Bull Terrier</a></li>
   </ul>
   </div>
-  
+
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
-  
+
   <p class="tags"><strong>Tags:</strong>
   <a aria-label="puppies — blog category" href="/en/blog/#puppies" title="Puppy articles">puppies</a>
   <a aria-label="Staffordshire Bull Terrier guides" href="/en/blog/#puppies" title="Staffy articles">staffordshire bull terrier</a>
@@ -112,7 +129,8 @@ custom_content: |
   <a aria-label="leash training — blog category" href="/en/blog/#puppies" title="Training articles">leash training</a>
   </p>
   </div>
-  
+  <!--/BLOCCO:9-->
+
   </article>
   </div>
 ---

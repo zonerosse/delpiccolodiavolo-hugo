@@ -12,6 +12,7 @@ thumb: "/images/blog/icone/cuccioli-giochi-mentali.webp"
 description: "Denkspiele für Staffordshire Bull Terrier Welpen: Geist und Selbstkontrolle stimulieren mit Schnüffelspielen, Puzzles und Beschäftigungsaktivitäten."
 slug: "welpen-denkspiele"
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -28,53 +29,69 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:1-->
+
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/de/" title="Startseite">Startseite</a> ›
   <a href="/de/blog/" title="Blog">Blog</a> ›
   <a aria-label="Welpen — Blog-Kategorie" href="/de/blog/#welpen" title="Welpen">Welpen</a> ›
   <span>Denkspiele</span>
   </nav>
-  
+
   <div class="article-container">
   <article class="article-content">
-  
+
   <p>Kopfarbeit ermüdet einen Staffordshire Bull Terrier Welpen mehr als körperliche Bewegung, und das ohne jede Belastung für wachsende Gelenke. Zehn bis fünfzehn Minuten echtes Problemlösen machen einen Welpen müder als die doppelte Zeit im Spaziergang, und das zählt bei einer Rasse, die bis zum Schluss der Wachstumsfugen auf etwa fünf Minuten Spaziergang je Lebensmonat begrenzt ist. Die einfachste Umstellung kostet nichts: nicht mehr aus dem Napf füttern, sondern die Tagesration für Schnüffelspiele, Futterpuzzles und kurze Trainingseinheiten verwenden. Nasenarbeit ist die wertvollste Beschäftigung überhaupt. Ein Welpe, der lernt, etwas zu versuchen, zu scheitern und neu anzusetzen, entwickelt Ausdauer und Frustrationstoleranz; ein gelangweilter verbraucht seine Energie an Fußleisten und Schuhen. Meiden Sie alles, was hart genug ist, einen Zahn zu brechen, und wiederholtes Ballwerfen, das nur aufdreht. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
-  
-  
+
+
+  <!--BLOCCO:2-->
   <h2>Warum Kopfarbeit ebenso zählt wie Bewegung</h2>
   <p>Ein Staffordshire-Bull-Terrier-Welpe, der körperlich müde, geistig aber unbeschäftigt ist, ist kein müder Welpe. Er ist ein Welpe mit Energie ohne Verwendung, und er verwendet sie auf Ihre Fußleisten, Ihre Schuhe und Ihre Geduld.</p>
   <p>10 bis 15 Minuten echtes Problemlösen ermüden einen Welpen gründlicher als die doppelte Zeit im Spaziergang — und ohne jede Belastung wachsender Gelenke. Für eine Rasse mit der Fünf-Minuten-Regel bis zum Schluss der Wachstumsfugen ist das kein Nebenaspekt: Kopfarbeit ist der Weg, den Bedarf eines Welpen zu decken, ohne ihm zu schaden.</p>
   <p>Ein zweiter Nutzen zeigt sich später. Ein Welpe, der lernt, etwas zu versuchen, zu scheitern und erneut zu versuchen, entwickelt Ausdauer und Frustrationstoleranz. Ein Welpe, der nie etwas lösen musste, gibt schnell auf und wird stattdessen laut.</p>
   <p>Auch Denkspiele sind Training, und es gelten dieselben Regeln. Die <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="Positionspapiere der AVSAB (wird in einem neuen Tab geöffnet)">American Veterinary Society of Animal Behavior</a> empfiehlt belohnungsbasierte Methoden für jedes Training: Sie zeigen dem Welpen, was er tun soll, und belohnen ihn, wenn es gelingt, statt ihn zu korrigieren, wenn er sich irrt.</p>
+  <!--/BLOCCO:2-->
 
+  <!--BLOCCO:3-->
   <h2>Beginnen Sie beim Futter</h2>
   <p>Die einfachste Umstellung kostet nichts und wirkt sofort: hören Sie auf, aus dem Napf zu füttern. Die Tagesration als Währung verwandelt jede Mahlzeit in eine Trainingseinheit und jede Fütterung in 15 Minuten Beschäftigung statt neunzig Sekunden.</p>
   <p>Verstreutes Futter im Gras oder auf einer Schnüffelmatte lässt den Welpen die Nase einsetzen, was von sich aus beruhigt. Eine in einem Gummispielzeug eingefrorene Portion beschäftigt 20 Minuten und ist unbezahlbar, wenn Sie arbeiten müssen. Trockenfutter in einem Eierkarton, den der Welpe dabei zerlegen darf, kostet nichts und stiftet echte Zufriedenheit.</p>
+  <!--/BLOCCO:3-->
 
+  <!--BLOCCO:4-->
   <h2>Nasenarbeit, die wertvollste Beschäftigung</h2>
   <p>Suchen beansprucht mehr Gehirn als alles andere, was ein Hund tut, und ist die wirksamste Art, diese Rasse zu ermüden. Sie braucht weder Ausrüstung noch Platz.</p>
   <p>Beginnen Sie mit einem Leckerchen unter einem von drei Bechern, sichtbar versteckt, und lassen Sie den Welpen die Lösung finden. Steigern Sie zu Verstecken im Zimmer, während der Welpe wartet, und später im Garten. Nach wenigen Wochen durchsucht der Welpe systematisch einen ganzen Raum, und eine Zwanzigminuteneinheit macht ihn wirklich zufrieden.</p>
   <p>Benennen Sie das Verhalten, sobald es verlässlich ist — ein einfaches "Such" — und Sie haben eine Beschäftigung für das ganze Hundeleben, im Hotelzimmer, an einem Regentag oder in der Genesung.</p>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
   <h2>Lernen als Spiel</h2>
   <p>Kurze Trainingseinheiten von 3 bis 5 Minuten, mehrmals täglich, wirken weit besser als eine lange und sind selbst hervorragende Kopfarbeit. Ein Welpe lernt Sitz, Platz, seinen Namen, ein Handtouch und die Anfänge des Bleibens gut vor dem vierten Monat.</p>
   <p>Zwei Übungen verdienen für diese Rasse besondere Erwähnung. Erstens das Handtouch: der Welpe berührt mit der Nase Ihre offene Hand — daraus wird eine Möglichkeit, den Hund ohne Zug zu bewegen, und ein Rückruf im Kleinen. Zweitens das Tauschspiel: Sie geben etwas Erlaubtes, bieten etwas Besseres, nehmen das Erste, geben es zurück. Hundertfach im Welpenalter geübt, ist das die zuverlässigste Vorbeugung gegen Ressourcenverteidigung, die sich weit leichter verhindern als behandeln lässt.</p>
+  <!--/BLOCCO:5-->
 
+  <!--BLOCCO:6-->
   <h2>Spielzeug und was zu meiden ist</h2>
   <p>Wechseln Sie Spielzeug, statt alles auszulegen: fünf gleichzeitig verfügbare Spielsachen werden zur Einrichtung, fünf wöchentlich gewechselte bleiben interessant. Befüllbares Gummispielzeug, Futterpuzzles steigender Schwierigkeit, Schnüffelmatten und Seilspielzeug unter Aufsicht sind sinnvoll.</p>
   <p>Meiden Sie zweierlei. Erstens alles, was hart genug ist, einen Zahn zu brechen — Prüfung mit dem Fingernagel: was Sie nicht eindrücken können, gehört nicht ins Maul. Zweitens wiederholtes Ballwerfen, das einen Erregungszustand erzeugt, der wie Freude aussieht und näher an Zwang liegt, und der Schultern und Kreuzbändern zusetzt. Ein Ball ist eine gute Belohnung für eine Aufgabe und eine schlechte Beschäftigung an sich.</p>
+  <!--/BLOCCO:6-->
 
+  <!--BLOCCO:7-->
   <h2>Ein realistischer Tagesablauf</h2>
   <p>Morgens: Frühstück verstreut oder im Futterpuzzle, 10 Minuten. Mittags: 3 Minuten Training, danach ein befülltes Spielzeug, während Sie arbeiten. Nachmittags: ein Suchspiel, 10 bis 15 Minuten. Abends: das Abendessen fürs Training verwenden, danach etwas zum Kauen, während der Haushalt zur Ruhe kommt.</p>
   <p>Das sind keine 40 Minuten über den Tag verteilt, und es verändert das Verhalten eines jungen Staffordshire Bull Terrier stärker als jede zusätzliche Runde. Halter, die es übernehmen, berichten fast immer dasselbe: der Welpe schläft.</p>
+  <!--/BLOCCO:7-->
 
+  <!--BLOCCO:8-->
   <h2>Häufige Fehler</h2>
   <p>Das Rätsel zu Beginn zu schwer machen, sodass der Welpe aufgibt und lernt, dass Versuchen sich nicht lohnt. Fangen Sie immer auf einer Stufe an, die er in Sekunden löst.</p>
   <p>Arbeiten, wenn der Welpe bereits übermüdet ist. Ein Welpe, der 4 Stunden wach war, braucht keine Reize, sondern Schlaf — Welpen dieses Alters schlafen aus gutem Grund 16 bis 18 Stunden am Tag.</p>
   <p>Mit einem Misserfolg aufhören. Beenden Sie jede Einheit mit etwas Leichtem, das gelingt.</p>
+  <!--/BLOCCO:8-->
 
+  <!--BLOCCO:9-->
   <h2>Häufige Fragen</h2>
   <p><strong>Wie lange sollte eine Einheit dauern?</strong> 3 bis 5 Minuten beim jungen Welpen, bis zu 15 Minuten Nasenarbeit mit 5 oder 6 Monaten. Mehrere kurze Einheiten schlagen eine lange.</p>
   <p><strong>Mein Welpe zerlegt das Puzzle, statt es zu lösen.</strong> Das ist ein Staffordshire Bull Terrier, der ein Staffordshire Bull Terrier ist. Verwenden Sie in dieser Phase Karton, beaufsichtigen Sie, und steigen Sie auf stabilere Puzzles um, sobald der Welpe arbeitet statt zerlegt.</p>
@@ -90,7 +107,7 @@ custom_content: |
   <li><a href="/de/welpen-erster-spaziergang/" title="Der erste Spaziergang des Welpen: wann und wie">Der erste Spaziergang des Welpen: wann und wie</a></li>
   </ul>
   </div>
-  
+
   <div class="related-articles">
   <h3>Mehr zum Thema</h3>
   <ul>
@@ -98,11 +115,12 @@ custom_content: |
   <li><a href="/de/staffy-zahnpflege/" title="Zahnpflege und Mundhygiene für Staffordshire Bull Terrier">Zahnpflege und Mundhygiene für Staffordshire Bull Terrier</a></li>
   </ul>
   </div>
-  
+
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>
-  
+  <!--/BLOCCO:9-->
+
   </article>
   </div>
 ---

@@ -19,6 +19,7 @@ correlati:
 slug: "chi-siamo"
 fonti_motivo: "Questa pagina racconta in prima persona la storia e il lavoro dell'allevamento Del Piccolo Diavolo, e non cita fonti esterne perché i fatti riportati sono dell'allevamento stesso. Quelli verificabili lo sono sul sito: referti dei test genetici con il numero di microchip, pedigree ENCI, risultati in esposizione con i nomi dei giudici."
 custom_content: |
+  <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
@@ -36,7 +37,9 @@ custom_content: |
   </div>
   </div>
   </section>
+  <!--/BLOCCO:1-->
 
+  <!--BLOCCO:2-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">L'Allevatore</span>
@@ -48,13 +51,15 @@ custom_content: |
   </div>
   </div>
   </section>
-  
-    
+  <!--/BLOCCO:2-->
+
+
+  <!--BLOCCO:3-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Come È Nato</span>
   <h2 class="section-title">La Nostra Storia</h2>
-  
+
   <div class="story-block">
   <div class="story-text">
   <h3>Dal Crufts a Ostellato</h3>
@@ -63,7 +68,7 @@ custom_content: |
   </div>
   <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo — Staffordshire Bull Terrier" class="story-img" width="350" height="354" loading="lazy" decoding="async">
   </div>
-  
+
   <div class="content-block">
   <h3>Prima degli Staffy</h3>
   <p>Prima degli Staffordshire Bull Terrier ho allevato Rottweiler, e da quell'allevamento sono usciti un Campione Italiano e un Campione Europeo. Ho allevato canarini Gloster e li ho giudicati come giudice internazionale: valutare soggetti uno dopo l'altro, e dover spiegare perch&eacute; uno vale pi&ugrave; di un altro, &egrave; una scuola che con i cani serve pi&ugrave; di quanto sembri.</p>
@@ -87,7 +92,9 @@ custom_content: |
   </div>
   </div>
   </section>
-  
+  <!--/BLOCCO:3-->
+
+  <!--BLOCCO:4-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Selezione</span>
@@ -103,7 +110,9 @@ custom_content: |
 
   </div>
   </section>
+  <!--/BLOCCO:4-->
 
+  <!--BLOCCO:5-->
     <section class="section section-alt">
   <div class="section-inner content-single">
   <span class="section-label">Come lavoro</span>
@@ -115,9 +124,11 @@ custom_content: |
 
   </div>
   </section>
+  <!--/BLOCCO:5-->
 
-  
-  
+
+
+  <!--BLOCCO:6-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Affido</span>
@@ -129,13 +140,16 @@ custom_content: |
 
   <p>E dico sempre una cosa a chi prende un nostro cucciolo, che vale come impegno: <strong>se un giorno non riuscite pi&ugrave; a tenerlo, il cane torna qui</strong>. Non &egrave; una formula gentile, &egrave; il motivo per cui scelgo con calma a chi affidarlo. Dal 2013 non &egrave; mai servito: dove sono finiti quei cani, e che vita fanno oggi, lo racconto nelle <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">storie delle famiglie</a>.</p>
 
-  
+
   </div>
   </section>
+  <!--/BLOCCO:6-->
 
-  
-    
+
+
+  <!--BLOCCO:7-->
   <!--CORRELATI-->
+  <!--/BLOCCO:7-->
 
   <section class="section">
   <div class="section-inner content-single">
@@ -143,9 +157,11 @@ custom_content: |
   </div>
   </section>
 
+  <!--BLOCCO:8-->
   <section class="cta-section">
   <h2>Vuoi Conoscerci?</h2>
   <p>Vieni a trovarci a Ostellato (FE) o contattaci su WhatsApp</p>
   <a href="/wa/393924635584" class="btn" title="Scrivici su WhatsApp">Scrivici su WhatsApp</a>
   </section>
+  <!--/BLOCCO:8-->
 ---

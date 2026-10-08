@@ -42,12 +42,18 @@ Nicht verfügbar
 
 In der Zucht **Del Piccolo Diavolo** ist ein besonders erwarteter Wurf angekommen: am **1. August 2026** wurde unsere **Bilquis Goddess Diabhal** — Italienische Schönheitschampionin (ENCI) und 4. beim World Dog Show 2024 in Zagreb — Mutter geworden. Eine sorgfältig geplante Verpaarung, die den Stammbaum von **Bilquis Goddess Diabhal**, Tochter von **Skilful-dogs Nora**, mit den soliden italienischen Linien des Vaters **Black Jack di Casa Giacalone** vereint, Sohn des **Weltsiegers 2023** Quash Marvelous Hagler de Stafflorence.
 
+
+<!--BLOCCO:1-->
+
 ## Die neugeborenen Welpen
 
 <div style="display:flex;flex-wrap:wrap;gap:1rem;justify-content:center;margin:1.5rem 0">
 <img src="/images/cuccioli-bilquis-nati-1.webp" alt="Neugeborene schwarze Staffordshire Bull Terrier Welpen - Bilquis x Black Jack" width="435" height="480" loading="lazy" decoding="async" style="width:320px;max-width:100%;height:auto;border-radius:12px">
 <img src="/images/cuccioli-bilquis-nati-2.webp" alt="Bilquis mit ihren neugeborenen Staffordshire Bull Terrier Welpen" width="468" height="480" loading="lazy" decoding="async" style="width:320px;max-width:100%;height:auto;border-radius:12px">
 </div>
+
+<!--/BLOCCO:1-->
+
 
 
 ## Mit dreißig Tagen
@@ -75,6 +81,9 @@ Mit fünfundfünfzig Tagen sind die Ohren mitten in der Ausformung: Sie stellen 
 </div>
 
 <p style="font-size:.85rem;color:#7a6a58;text-align:center">Eine Hündin aus diesem Wurf mit fünfundfünfzig Tagen, die Ohren noch in Bewegung.</p>
+
+
+<!--BLOCCO:2-->
 
 ## Die Eltern
 
@@ -110,6 +119,12 @@ Mit fünfundfünfzig Tagen sind die Ohren mitten in der Ausformung: Sie stellen 
   </div>
 </div>
 
+<!--/BLOCCO:2-->
+
+
+
+<!--BLOCCO:3-->
+
 ## Der Wurf
 
 **Geboren:** 1. August 2026
@@ -117,6 +132,12 @@ Mit fünfundfünfzig Tagen sind die Ohren mitten in der Ausformung: Sie stellen 
 **[Farbe](/de/staffordshire-bull-terrier-farben/ "Die Farben des Staffordshire Bull Terrier"):** alle schwarz
 
 **Verfügbarkeit:** Wurf vollständig, Welpen nicht verfügbar.
+
+<!--/BLOCCO:3-->
+
+
+
+<!--BLOCCO:4-->
 
 ## Warum dieser Wurf besonders ist
 
@@ -127,6 +148,12 @@ Bilquis ist nicht nur eine Zuchthündin: Sie ist **Italienische Schönheitschamp
 ### Der Vater: Black Jack di Casa Giacalone
 
 Black Jack ist ein junger **schwarzer** Rüde (geboren April 2025) mit einem erstklassigen Stammbaum: sein **Vater ist Quash Marvelous Hagler de Stafflorence, Weltsieger 2023 in Genf**, aus der renommierten Linie **de Stafflorence**. Seine **Mutter ist Ultima di Casa Giacalone, Italienische Jugendchampionin**, aus den Zwingern **di Casa Giacalone** und **Staffystar**, reich an Italienischen und Internationalen Champions. Kompakte, typvolle Struktur, vollständiges Scherengebiss.
+
+<!--/BLOCCO:4-->
+
+
+
+<!--BLOCCO:5-->
 
 ## Gentests
 
@@ -205,8 +232,17 @@ Bilquis — Doppler-Echokardiographie
 
 <p style="margin-top:1.5rem"><strong>Stammbaum des Wurfs:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" class="sbt-link" aria-label="Vollständigen Stammbaum des Wurfes auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">Auf SBTPedigree ansehen →</a></p>
 
+<!--/BLOCCO:5-->
+
+
+
+<!--BLOCCO:6-->
+
 ## Kontakt
 
 Dieser Wurf ist vollständig. Für Informationen über die Zucht, unsere Zuchthunde oder die Laborzertifikate schreiben Sie uns gerne.
 
 <p style="margin-top:2rem"><a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20haette%20gerne%20Informationen%20zur%20Zucht" class="btn btn-primary">Kontaktieren Sie uns auf WhatsApp →</a></p>
+
+<!--/BLOCCO:6-->
+
