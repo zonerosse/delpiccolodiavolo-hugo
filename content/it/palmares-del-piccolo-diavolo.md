@@ -2,7 +2,7 @@
 title: "Palmares Staffordshire Bull Terrier"
 titleSeo: "Palmares: campioni italiani e internazionali dal 2013"
 date: 2026-01-04
-lastmod: 2026-09-30
+lastmod: 2026-10-08
 tipoPagina: "CollectionPage"
 translationKey: "palmares"
 description: "Risultati e titoli dei nostri Staffordshire Bull Terrier: Campioni Italiani, Giovani Campioni, Best of Breed. Allevamento Del Piccolo Diavolo, Emilia-Romagna."
@@ -353,6 +353,13 @@ custom_content: |
   <p>I risultati in esposizione confermano il nostro impegno: soggetti tipici, sani, con carattere equilibrato. Non compriamo cani già titolati: li alleviamo, li cresciamo, li portiamo in ring. Questa è la differenza. Di Bilquis ha scritto anche <a href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" target="_blank" rel="noopener" aria-label="Articolo di FerraraToday su Bilquis (si apre in una nuova scheda)">FerraraToday</a>, il 6 gennaio 2026.</p>
   <a href="/femmine-staffordshire-bull-terrier/" class="btn" title="Vedi le nostre femmine">Scopri i Nostri Cani</a>
   </section>
+
+  <div class="related-articles">
+  <h3>Articoli correlati</h3>
+  <ul>
+  <li><a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier con test verificabili">Cuccioli Staffordshire Bull Terrier con test verificabili</a></li>
+  </ul>
+  </div>
   
   <section class="cta-section">
   <h2>Vuoi un Cucciolo da Linee Vincenti?</h2>
