@@ -4,7 +4,7 @@ lastmod: 2026-10-08
 articolo: true
 titleSeo: "Bilquis × Black Jack litter, August 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
-description: "Born 1 August 2026: 8 Staffordshire Bull Terrier puppies from Bilquis Goddess Diabhal, Italian Champion ENCI, and Black Jack Di Casa Giacalone. Not available."
+description: "Born 1 August 2026: 8 Staffordshire Bull Terrier puppies from Bilquis Goddess Diabhal, Italian Champion ENCI, and Black Jack di Casa Giacalone. Not available."
 video:
   - id: "rm1fY0_P6I8"
     nome: "Staffordshire Bull Terrier puppy at 30 days"
@@ -24,7 +24,7 @@ annuncio: "August 2026 litter: 8 black puppies"
 stato: "completa"
 scheda:
   madre: "Bilquis Goddess Diabhal, Italian Champion ENCI, 4th at the World Dog Show"
-  padre: "Black Jack Di Casa Giacalone, black male born in April 2025"
+  padre: "Black Jack di Casa Giacalone, black male born in April 2025"
   maschi: 4
   femmine: 4
   colori: "black, and black brindle & white"
@@ -40,7 +40,7 @@ scheda:
 Not available
 </div>
 
-At the **Del Piccolo Diavolo** kennel, a particularly awaited litter has arrived: on **August 1, 2026** our **Bilquis Goddess Diabhal** — Italian Show Champion (ENCI) and 4th at the 2024 World Dog Show in Zagreb — became a mother. A carefully planned mating that combines the pedigree of **Bilquis Goddess Diabhal**, daughter of **Skilful-dogs Nora**, with the solid Italian lines of the sire **Black Jack Di Casa Giacalone**, son of the **2023 World Champion** Quash Marvelous Hagler de Stafflorence.
+At the **Del Piccolo Diavolo** kennel, a particularly awaited litter has arrived: on **August 1, 2026** our **Bilquis Goddess Diabhal** — Italian Show Champion (ENCI) and 4th at the 2024 World Dog Show in Zagreb — became a mother. A carefully planned mating that combines the pedigree of **Bilquis Goddess Diabhal**, daughter of **Skilful-dogs Nora**, with the solid Italian lines of the sire **Black Jack di Casa Giacalone**, son of the **2023 World Champion** Quash Marvelous Hagler de Stafflorence.
 
 ## The newborn puppies
 
@@ -80,16 +80,16 @@ At fifty-five days the ears are right in the middle of settling: they go up, dro
 
 <div class="pair">
   <div class="dog">
-    <span class="dog-name">Black Jack Di Casa Giacalone</span>
-    <img src="/images/jack1.jpg" alt="Black Jack Di Casa Giacalone - Black Staffordshire Bull Terrier stud" width="250" height="399" loading="lazy" decoding="async">
+    <span class="dog-name">Black Jack di Casa Giacalone</span>
+    <img src="/images/jack1.jpg" alt="Black Jack di Casa Giacalone - Black Staffordshire Bull Terrier stud" width="250" height="399" loading="lazy" decoding="async">
     <ul>
       <li>Colour: Black</li>
       <li>L2HGA: <strong>Free by parents</strong> (parents Clear)</li>
       <li>HC: <strong>Free by parents</strong> (parents Clear)</li>
       <li>Full scissor bite</li>
     </ul>
-    <p>🏆 <strong>Quash Marvelous Hagler de Stafflorence</strong> (2023 World Champion) × <strong>Ultima Di Casa Giacalone</strong> (Italian Junior Champion)</p>
-    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" aria-label="View the pedigree of Black Jack Di Casa Giacalone (opens in a new tab)">View pedigree on SBTPedigree →</a></p>
+    <p>🏆 <strong>Quash Marvelous Hagler de Stafflorence</strong> (2023 World Champion) × <strong>Ultima di Casa Giacalone</strong> (Italian Junior Champion)</p>
+    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" aria-label="View the pedigree of Black Jack di Casa Giacalone (opens in a new tab)">View pedigree on SBTPedigree →</a></p>
   </div>
 
   <div class="pair-x">×</div>
@@ -124,9 +124,9 @@ At fifty-five days the ears are right in the middle of settling: they go up, dro
 
 Bilquis is not just a brood bitch: she is an **Italian Show Champion (ENCI)**, placed **4th at the 2024 World Dog Show in Zagreb** in one of the toughest competitions in the world. And she carries a pedigree that speaks for itself: she is the daughter of **Skilful-dogs Nora**, already the mother of two Italian Champions (Bilquis herself and Lothar Matthäus). Type, structure and temperament passed down from generation to generation.
 
-### The sire: Black Jack Di Casa Giacalone
+### The sire: Black Jack di Casa Giacalone
 
-Black Jack is a young **black** male (born April 2025) with a top-level pedigree: his **father is Quash Marvelous Hagler de Stafflorence, 2023 World Champion in Geneva**, from the renowned **de Stafflorence** line. His **mother is Ultima Di Casa Giacalone, Italian Junior Champion**, from the **Di Casa Giacalone** and **Staffystar** kennels, rich in Italian and International Champions. Compact, typey structure, full scissor bite.
+Black Jack is a young **black** male (born April 2025) with a top-level pedigree: his **father is Quash Marvelous Hagler de Stafflorence, 2023 World Champion in Geneva**, from the renowned **de Stafflorence** line. His **mother is Ultima di Casa Giacalone, Italian Junior Champion**, from the **di Casa Giacalone** and **Staffystar** kennels, rich in Italian and International Champions. Compact, typey structure, full scissor bite.
 
 ## Genetic tests
 
@@ -159,7 +159,7 @@ The parents are tested for the main genetic conditions of the breed:
 
   <div style="background:#fff;border:1px solid #e2ddd6;border-radius:10px;padding:1.25rem">
     <span style="display:inline-block;background:#5c4a3a;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Dam</span><span style="display:inline-block;background:#8b7300;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px;margin-left:.35rem">★ Italian Junior Champion</span>
-    <p style="margin:.6rem 0 .3rem;font-weight:700">Ultima Di Casa Giacalone</p>
+    <p style="margin:.6rem 0 .3rem;font-weight:700">Ultima di Casa Giacalone</p>
     <p style="margin:0 0 .9rem;font-size:.82rem;color:#666;line-height:1.5">Female — microchip 380260044680718, pedigree LO2313633<br>EVG Molekularna Diagnostika (Maribor, Slovenia) — reference 2026-083880/01, 27/08/2026</p>
     <ul style="margin:0;padding-left:1.1rem;font-size:.92rem">
       <li>L2HGA (L2HGDH): <strong>Clear (WT/WT)</strong></li>

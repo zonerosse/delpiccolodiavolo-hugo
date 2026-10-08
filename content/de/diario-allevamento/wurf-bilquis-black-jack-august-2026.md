@@ -24,7 +24,7 @@ annuncio: "Wurf August 2026: 8 schwarze Welpen"
 stato: "completa"
 scheda:
   madre: "Bilquis Goddess Diabhal, Italienische Championin ENCI, 4. Platz bei der World Dog Show"
-  padre: "Black Jack Di Casa Giacalone, schwarzer Rüde, geboren im April 2025"
+  padre: "Black Jack di Casa Giacalone, schwarzer Rüde, geboren im April 2025"
   maschi: 4
   femmine: 4
   colori: "schwarz sowie schwarz gestromt mit Weiß"
@@ -40,7 +40,7 @@ scheda:
 Nicht verfügbar
 </div>
 
-In der Zucht **Del Piccolo Diavolo** ist ein besonders erwarteter Wurf angekommen: am **1. August 2026** wurde unsere **Bilquis Goddess Diabhal** — Italienische Schönheitschampionin (ENCI) und 4. beim World Dog Show 2024 in Zagreb — Mutter geworden. Eine sorgfältig geplante Verpaarung, die den Stammbaum von **Bilquis Goddess Diabhal**, Tochter von **Skilful-dogs Nora**, mit den soliden italienischen Linien des Vaters **Black Jack Di Casa Giacalone** vereint, Sohn des **Weltsiegers 2023** Quash Marvelous Hagler de Stafflorence.
+In der Zucht **Del Piccolo Diavolo** ist ein besonders erwarteter Wurf angekommen: am **1. August 2026** wurde unsere **Bilquis Goddess Diabhal** — Italienische Schönheitschampionin (ENCI) und 4. beim World Dog Show 2024 in Zagreb — Mutter geworden. Eine sorgfältig geplante Verpaarung, die den Stammbaum von **Bilquis Goddess Diabhal**, Tochter von **Skilful-dogs Nora**, mit den soliden italienischen Linien des Vaters **Black Jack di Casa Giacalone** vereint, Sohn des **Weltsiegers 2023** Quash Marvelous Hagler de Stafflorence.
 
 ## Die neugeborenen Welpen
 
@@ -80,16 +80,16 @@ Mit fünfundfünfzig Tagen sind die Ohren mitten in der Ausformung: Sie stellen 
 
 <div class="pair">
   <div class="dog">
-    <span class="dog-name">Black Jack Di Casa Giacalone</span>
-    <img src="/images/jack1.jpg" alt="Black Jack Di Casa Giacalone - Schwarzer Staffordshire Bull Terrier Deckrüde" width="250" height="399" loading="lazy" decoding="async">
+    <span class="dog-name">Black Jack di Casa Giacalone</span>
+    <img src="/images/jack1.jpg" alt="Black Jack di Casa Giacalone - Schwarzer Staffordshire Bull Terrier Deckrüde" width="250" height="399" loading="lazy" decoding="async">
     <ul>
       <li>Farbe: Schwarz</li>
       <li>L2HGA: <strong>Frei über die Eltern</strong> (Eltern frei)</li>
       <li>HC: <strong>Frei über die Eltern</strong> (Eltern frei)</li>
       <li>Vollständiges Scherengebiss</li>
     </ul>
-    <p>🏆 <strong>Quash Marvelous Hagler de Stafflorence</strong> (Weltsieger 2023) × <strong>Ultima Di Casa Giacalone</strong> (Italienische Jugendchampionin)</p>
-    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" aria-label="Stammbaum ansehen von Black Jack Di Casa Giacalone (wird in einem neuen Tab geöffnet)">Stammbaum auf SBTPedigree ansehen →</a></p>
+    <p>🏆 <strong>Quash Marvelous Hagler de Stafflorence</strong> (Weltsieger 2023) × <strong>Ultima di Casa Giacalone</strong> (Italienische Jugendchampionin)</p>
+    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" aria-label="Stammbaum ansehen von Black Jack di Casa Giacalone (wird in einem neuen Tab geöffnet)">Stammbaum auf SBTPedigree ansehen →</a></p>
   </div>
 
   <div class="pair-x">×</div>
@@ -124,9 +124,9 @@ Mit fünfundfünfzig Tagen sind die Ohren mitten in der Ausformung: Sie stellen 
 
 Bilquis ist nicht nur eine Zuchthündin: Sie ist **Italienische Schönheitschampionin (ENCI)**, wurde **4. beim World Dog Show 2024 in Zagreb** in einem der härtesten Wettbewerbe der Welt. Und sie trägt einen Stammbaum, der für sich spricht: Sie ist die Tochter von **Skilful-dogs Nora**, bereits Mutter von zwei Italienischen Champions (Bilquis selbst und Lothar Matthäus). Typ, Struktur und Wesen, die von Generation zu Generation weitergegeben werden.
 
-### Der Vater: Black Jack Di Casa Giacalone
+### Der Vater: Black Jack di Casa Giacalone
 
-Black Jack ist ein junger **schwarzer** Rüde (geboren April 2025) mit einem erstklassigen Stammbaum: sein **Vater ist Quash Marvelous Hagler de Stafflorence, Weltsieger 2023 in Genf**, aus der renommierten Linie **de Stafflorence**. Seine **Mutter ist Ultima Di Casa Giacalone, Italienische Jugendchampionin**, aus den Zwingern **Di Casa Giacalone** und **Staffystar**, reich an Italienischen und Internationalen Champions. Kompakte, typvolle Struktur, vollständiges Scherengebiss.
+Black Jack ist ein junger **schwarzer** Rüde (geboren April 2025) mit einem erstklassigen Stammbaum: sein **Vater ist Quash Marvelous Hagler de Stafflorence, Weltsieger 2023 in Genf**, aus der renommierten Linie **de Stafflorence**. Seine **Mutter ist Ultima di Casa Giacalone, Italienische Jugendchampionin**, aus den Zwingern **di Casa Giacalone** und **Staffystar**, reich an Italienischen und Internationalen Champions. Kompakte, typvolle Struktur, vollständiges Scherengebiss.
 
 ## Gentests
 
@@ -159,7 +159,7 @@ Die Eltern sind auf die wichtigsten genetischen Erkrankungen der Rasse getestet:
 
   <div style="background:#fff;border:1px solid #e2ddd6;border-radius:10px;padding:1.25rem">
     <span style="display:inline-block;background:#5c4a3a;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Mutter</span><span style="display:inline-block;background:#8b7300;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px;margin-left:.35rem">★ Italienische Jugendchampionin</span>
-    <p style="margin:.6rem 0 .3rem;font-weight:700">Ultima Di Casa Giacalone</p>
+    <p style="margin:.6rem 0 .3rem;font-weight:700">Ultima di Casa Giacalone</p>
     <p style="margin:0 0 .9rem;font-size:.82rem;color:#666;line-height:1.5">Hündin — Mikrochip 380260044680718, Ahnentafel LO2313633<br>EVG Molekularna Diagnostika (Maribor, Slowenien) — Referenz 2026-083880/01, 27.08.2026</p>
     <ul style="margin:0;padding-left:1.1rem;font-size:.92rem">
       <li>L2HGA (L2HGDH): <strong>frei (WT/WT)</strong></li>

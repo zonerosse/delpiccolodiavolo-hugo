@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Litters"
 titleSeo: "Upcoming Staffy litters: the selection programme"
 date: 2025-12-28
-lastmod: 2026-10-05
+lastmod: 2026-10-08
 tipoPagina: "CollectionPage"
 translationKey: "programma"
 description: "Staffordshire Bull Terrier litters at Del Piccolo Diavolo: planned and past pairings, the parents, their L2HGA and HC tests, and how we decide each mating."
@@ -102,15 +102,15 @@ custom_content: |
   <div class="pair-x">×</div>
   
   <div class="dog">
-  <span class="dog-name">Black Jack Di Casa Giacalone</span>
-  <img src="/images/jack1.jpg" alt="Black Jack Di Casa Giacalone - Black Staffordshire Bull Terrier stud" width="250" height="399" loading="lazy" decoding="async">
+  <span class="dog-name">Black Jack di Casa Giacalone</span>
+  <img src="/images/jack1.jpg" alt="Black Jack di Casa Giacalone - Black Staffordshire Bull Terrier stud" width="250" height="399" loading="lazy" decoding="async">
   <ul>
   <li>L2HGA &amp; HC free by parents (both parents clear)</li>
   <li>Completely scissor bite</li>
   <li>Son of the 2023 World Champion</li>
   </ul>
-  <p>Quash Marvelous Hagler de Stafflorence (World Champion 2023) × Ultima Di Casa Giacalone</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" title="View Black Jack's pedigree on SBTPedigree" aria-label="View the pedigree of Black Jack Di Casa Giacalone (opens in a new tab)">SBTPedigree</a></p>
+  <p>Quash Marvelous Hagler de Stafflorence (World Champion 2023) × Ultima di Casa Giacalone</p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" title="View Black Jack's pedigree on SBTPedigree" aria-label="View the pedigree of Black Jack di Casa Giacalone (opens in a new tab)">SBTPedigree</a></p>
   </div>
   </div>
   

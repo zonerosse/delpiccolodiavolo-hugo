@@ -2,7 +2,7 @@
 title: "Programma allevamento Staffordshire Bull Terrier"
 titleSeo: "Prossime cucciolate di Staffy: il programma di selezione"
 date: 2025-12-28
-lastmod: 2026-10-04
+lastmod: 2026-10-08
 tipoPagina: "CollectionPage"
 translationKey: "programma"
 description: "Programma di allevamento Staffordshire Bull Terrier: criteri di selezione, salute, test genetici e storico delle cucciolate passate e future."
@@ -136,15 +136,15 @@ custom_content: |
   <div class="pair-x">×</div>
 
   <div class="dog">
-  <span class="dog-name">Black Jack Di Casa Giacalone</span>
-  <img src="/images/jack1.jpg" alt="Black Jack Di Casa Giacalone - Riproduttore Staffordshire Bull Terrier nero" width="300" height="478" loading="lazy" decoding="async">
+  <span class="dog-name">Black Jack di Casa Giacalone</span>
+  <img src="/images/jack1.jpg" alt="Black Jack di Casa Giacalone - Riproduttore Staffordshire Bull Terrier nero" width="300" height="478" loading="lazy" decoding="async">
   <ul>
   <li>L2HGA e HC esente per discendenza (genitori esenti)</li>
   <li>Chiusura a forbice completa</li>
   <li>Figlio del Campione del Mondo 2023</li>
   </ul>
-  <p>Quash Marvelous Hagler de Stafflorence (Campione del Mondo 2023) × Ultima Di Casa Giacalone</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" title="Vedi pedigree Black Jack su SBTPedigree" aria-label="Vedi il pedigree di Black Jack Di Casa Giacalone (si apre in una nuova scheda)">SBTPedigree</a></p>
+  <p>Quash Marvelous Hagler de Stafflorence (Campione del Mondo 2023) × Ultima di Casa Giacalone</p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" title="Vedi pedigree Black Jack su SBTPedigree" aria-label="Vedi il pedigree di Black Jack di Casa Giacalone (si apre in una nuova scheda)">SBTPedigree</a></p>
   </div>
   </div>
 

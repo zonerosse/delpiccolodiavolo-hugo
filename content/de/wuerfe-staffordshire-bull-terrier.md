@@ -2,7 +2,7 @@
 title: "Würfe Staffordshire Bull Terrier"
 titleSeo: "Nächste Staffy-Würfe: das Selektionsprogramm"
 date: 2025-12-28
-lastmod: 2026-10-05
+lastmod: 2026-10-08
 tipoPagina: "CollectionPage"
 translationKey: "programma"
 description: "Staffordshire Bull Terrier Würfe mit ausgewählten Eltern, L2HGA/HC Gentests, ENCI-Stammbaum. Zuchtprogramm, Elitebull und Lackyle Linien. Ostellato (FE)."
@@ -102,15 +102,15 @@ custom_content: |
   <div class="pair-x">×</div>
   
   <div class="dog">
-  <span class="dog-name">Black Jack Di Casa Giacalone</span>
-  <img src="/images/jack1.jpg" alt="Black Jack Di Casa Giacalone - Schwarzer Staffordshire Bull Terrier Zuchtrüde" width="250" height="399" loading="lazy" decoding="async">
+  <span class="dog-name">Black Jack di Casa Giacalone</span>
+  <img src="/images/jack1.jpg" alt="Black Jack di Casa Giacalone - Schwarzer Staffordshire Bull Terrier Zuchtrüde" width="250" height="399" loading="lazy" decoding="async">
   <ul>
   <li>L2HGA und HC frei über die Eltern (beide Eltern frei)</li>
   <li>Vollständiges Scherengebiss</li>
   <li>Sohn des Weltsiegers 2023</li>
   </ul>
-  <p>Quash Marvelous Hagler de Stafflorence (Weltsieger 2023) × Ultima Di Casa Giacalone</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" title="Black Jack Stammbaum auf SBTPedigree ansehen" aria-label="Stammbaum ansehen von Black Jack Di Casa Giacalone (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
+  <p>Quash Marvelous Hagler de Stafflorence (Weltsieger 2023) × Ultima di Casa Giacalone</p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" title="Black Jack Stammbaum auf SBTPedigree ansehen" aria-label="Stammbaum ansehen von Black Jack di Casa Giacalone (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
   </div>
   </div>
   

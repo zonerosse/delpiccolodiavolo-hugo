@@ -24,7 +24,7 @@ annuncio: "Cucciolata di agosto 2026, cuccioli neri"
 stato: "completa"
 scheda:
   madre: "Bilquis Goddess Diabhal, Campionessa Italiana ENCI, 4ª al World Dog Show"
-  padre: "Black Jack Di Casa Giacalone, maschio nero nato ad aprile 2025"
+  padre: "Black Jack di Casa Giacalone, maschio nero nato ad aprile 2025"
   maschi: 4
   femmine: 4
   colori: "neri e tigrati neri con bianco"
@@ -42,7 +42,7 @@ Questa cucciolata è nata ad agosto 2026 dall'accoppiamento fra Bilquis Goddess 
 <strong>Non disponibili</strong>
 </div>
 
-All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente attesa: il **1° agosto 2026** la nostra **Bilquis Goddess Diabhal** — Campionessa Italiana di Bellezza ENCI e 4ª classificata al World Dog Show di Zagabria 2024 — è diventata mamma. Un accoppiamento pianificato con cura, che unisce il pedigree di **Bilquis Goddess Diabhal**, figlia di **Skilful-dogs Nora**, alle solide linee italiane del padre **Black Jack Di Casa Giacalone**, figlio del **Campione del Mondo 2023** Quash Marvelous Hagler de Stafflorence.
+All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente attesa: il **1° agosto 2026** la nostra **Bilquis Goddess Diabhal** — Campionessa Italiana di Bellezza ENCI e 4ª classificata al World Dog Show di Zagabria 2024 — è diventata mamma. Un accoppiamento pianificato con cura, che unisce il pedigree di **Bilquis Goddess Diabhal**, figlia di **Skilful-dogs Nora**, alle solide linee italiane del padre **Black Jack di Casa Giacalone**, figlio del **Campione del Mondo 2023** Quash Marvelous Hagler de Stafflorence.
 
 ## I cuccioli appena nati
 
@@ -75,16 +75,16 @@ All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente a
 
 <div class="pair">
   <div class="dog">
-    <span class="dog-name">Black Jack Di Casa Giacalone</span>
-    <img src="/images/jack1.jpg" alt="Black Jack Di Casa Giacalone - Riproduttore Staffordshire Bull Terrier nero" width="250" height="399" loading="lazy" decoding="async">
+    <span class="dog-name">Black Jack di Casa Giacalone</span>
+    <img src="/images/jack1.jpg" alt="Black Jack di Casa Giacalone - Riproduttore Staffordshire Bull Terrier nero" width="250" height="399" loading="lazy" decoding="async">
     <ul>
       <li>Colore: Nero</li>
       <li>L2HGA: <strong>Esente per discendenza</strong> (genitori esenti)</li>
       <li>HC: <strong>Esente per discendenza</strong> (genitori esenti)</li>
       <li>Dentatura completa a forbice</li>
     </ul>
-    <p>🏆 <strong>Quash Marvelous Hagler de Stafflorence</strong> (Campione del Mondo 2023) × <strong>Ultima Di Casa Giacalone</strong> (Giovane Campionessa Italiana)</p>
-    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" aria-label="Vedi il pedigree di Black Jack Di Casa Giacalone (si apre in una nuova scheda)">Vedi pedigree su SBTPedigree →</a></p>
+    <p>🏆 <strong>Quash Marvelous Hagler de Stafflorence</strong> (Campione del Mondo 2023) × <strong>Ultima di Casa Giacalone</strong> (Giovane Campionessa Italiana)</p>
+    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" aria-label="Vedi il pedigree di Black Jack di Casa Giacalone (si apre in una nuova scheda)">Vedi pedigree su SBTPedigree →</a></p>
   </div>
 
   <div class="pair-x">×</div>
@@ -119,9 +119,9 @@ All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente a
 
 Bilquis non è solo una fattrice: è una **Campionessa Italiana di Bellezza ENCI**, arrivata **4ª al World Dog Show di Zagabria 2024** in una delle competizioni più agguerrite al mondo. E porta un pedigree che parla da solo: è figlia di **Skilful-dogs Nora**, già madre di due Campioni Italiani (Bilquis stessa e Lothar Matthäus). Tipicità, struttura e carattere che si trasmettono di generazione in generazione.
 
-### Il padre: Black Jack Di Casa Giacalone
+### Il padre: Black Jack di Casa Giacalone
 
-Black Jack è un giovane maschio **nero** (nato aprile 2025) con un pedigree di primissimo livello: suo **padre è Quash Marvelous Hagler de Stafflorence, Campione del Mondo 2023 a Ginevra**, dalla blasonata linea **de Stafflorence**. Sua **madre è Ultima Di Casa Giacalone, Giovane Campionessa Italiana**, dagli affissi **Di Casa Giacalone** e **Staffystar**, ricchi di Campioni Italiani e Internazionali. Struttura compatta e tipica, dentatura completa a forbice.
+Black Jack è un giovane maschio **nero** (nato aprile 2025) con un pedigree di primissimo livello: suo **padre è Quash Marvelous Hagler de Stafflorence, Campione del Mondo 2023 a Ginevra**, dalla blasonata linea **de Stafflorence**. Sua **madre è Ultima di Casa Giacalone, Giovane Campionessa Italiana**, dagli affissi **di Casa Giacalone** e **Staffystar**, ricchi di Campioni Italiani e Internazionali. Struttura compatta e tipica, dentatura completa a forbice.
 
 ## Test genetici
 
@@ -154,7 +154,7 @@ I genitori sono testati per le principali patologie genetiche della razza:
 
   <div style="background:#fff;border:1px solid #e2ddd6;border-radius:10px;padding:1.25rem">
     <span style="display:inline-block;background:#5c4a3a;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Madre</span><span style="display:inline-block;background:#8b7300;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px;margin-left:.35rem">★ Giovane Campionessa Italiana</span>
-    <p style="margin:.6rem 0 .3rem;font-weight:700">Ultima Di Casa Giacalone</p>
+    <p style="margin:.6rem 0 .3rem;font-weight:700">Ultima di Casa Giacalone</p>
     <p style="margin:0 0 .9rem;font-size:.82rem;color:#666;line-height:1.5">Femmina — microchip 380260044680718, pedigree LO2313633<br>EVG Molekularna Diagnostika (Maribor, Slovenia) — riferimento 2026-083880/01, 27/08/2026</p>
     <ul style="margin:0;padding-left:1.1rem;font-size:.92rem">
       <li>L2HGA (L2HGDH): <strong>Esente (WT/WT)</strong></li>
