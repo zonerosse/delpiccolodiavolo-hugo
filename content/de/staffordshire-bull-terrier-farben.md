@@ -1,7 +1,7 @@
 ---
 title: "Farben des Staffordshire Bull Terrier: Schwarz, Gestromt, Blau und mehr"
 date: 2026-08-01
-lastmod: 2026-10-05
+lastmod: 2026-10-08
 titleSeo: "Farben des Staffordshire Bull Terrier: Schwarz, Gestromt"
 translationKey: "colori"
 articolo: true
@@ -119,7 +119,7 @@ custom_content: |
   </div>
   
   <div class="faq-item">
-  <h3 class="faq-question">Beeinflusst die Farbe den Preis des Welpen?</h3>
+  <h3 class="faq-question">Macht eine seltene Farbe den Welpen wertvoller?</h3>
   <div class="faq-answer">Sollte sie nicht &mdash; und wenn doch, sagt das etwas über den Züchter. Der Wert eines Welpen liegt in den Gentests der Elterntiere, in der Ahnentafel, in der Selektionsarbeit hinter der Verpaarung und in den ersten acht Wochen der Aufzucht: all das kostet unabhängig von der Fellfarbe dasselbe. Wer für einen <em>seltenen</em> Welpen mehr verlangt, verkauft ein Gefühl von Exklusivität und drängt im schlimmsten Fall Farben außerhalb des Standards. Die Frage an jeden, der einen Farbaufschlag verlangt, lautet: <strong>welche Tests haben die Elterntiere, und darf ich die Befunde mit Mikrochipnummer sehen?</strong></div>
   </div>
   

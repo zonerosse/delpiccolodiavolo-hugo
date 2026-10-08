@@ -9,8 +9,11 @@ export async function onRequestGet(context) {
   const num = seg.replace(/\D/g, "") || "393924635584";
   const to = "https://wa.me/" + num + u.search;
   const ua = request.headers.get("user-agent") || "";
-  // Pagina di controllo: /wa/393924635584?diag=1 mostra se la chiave c'è e cosa risponde il gestionale (conta un tocco di prova)
-  if (u.searchParams.get("diag") === "1") {
+  // Pagina di controllo: /wa/393924635584?diag=<parola WA_DIAG> mostra se la chiave c'è e cosa risponde il gestionale
+  // (conta un tocco di prova). Funziona solo se in Cloudflare c'è la variabile WA_DIAG e la parola è giusta:
+  // senza WA_DIAG la pagina di controllo è spenta e ?diag=… fa il solito salto a WhatsApp.
+  const diag = u.searchParams.get("diag");
+  if (env.WA_DIAG && diag === env.WA_DIAG) {
     const out = { chiave_WA_KEY_presente: !!env.WA_KEY, browser_preso_per_robot: BOT.test(ua) };
     try {
       const r = await fetch("https://gestionale.delpiccolodiavolo.it/api/public/walog", { method: "POST",

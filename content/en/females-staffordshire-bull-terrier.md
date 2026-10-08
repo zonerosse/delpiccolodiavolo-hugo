@@ -2,7 +2,7 @@
 title: "Female Staffordshire Bull Terriers"
 titleSeo: "Our female Staffies: microchips and pedigrees"
 date: 2025-12-28
-lastmod: 2026-09-30
+lastmod: 2026-10-08
 tipoPagina: "CollectionPage"
 translationKey: "femmine"
 description: "Our female Staffordshire Bull Terriers: Bilquis (Top Dog Junior 2023), Queen of California, Croi Olc, Divine, Kennedy, Derry, Cattleya. L2HGA, HC and DM-SOD1 tested."
@@ -104,7 +104,7 @@ custom_content: |
   <article class="female-card female-featured">
   <div class="female-header">
   <span class="stato-fattrice" style="display:inline-block;background:#eef2f7;color:#37475a;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;padding:.35rem .8rem;border-radius:4px;margin-bottom:.5rem">Bred by us — owned by Stefano Tevini</span>
-  <span class="female-badge">🏆 Italian Young Champion 2026</span>
+  <span class="female-badge">🏆 Italian Junior Champion 2026</span>
   <h3 class="female-name">JCH. Queen of California Aka Desy Del Piccolo Diavolo</h3>
   </div>
   <div class="female-content">
@@ -120,7 +120,7 @@ custom_content: |
   <p><strong>Dam:</strong> Lackyle Bean Croí Olc</p>
   <p><strong>Owner:</strong> Stefano Tevini</p>
   <p><strong>Handler:</strong> Vittoria Passerini</p>
-  <p><strong>Title:</strong> Italian Young Champion — Albarella (RO), 17 May 2026. Junior Class 1st Excellent, JCAC, JBOB, BOB. Best Staffy — Polesano Canine Group.</p>
+  <p><strong>Title:</strong> Italian Junior Champion — Albarella (RO), 17 May 2026. Junior Class 1st Excellent, JCAC, JBOB, BOB. Best Staffy — Polesano Canine Group.</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Character.</strong> Minnie's daughter, and her carbon copy: not only in build, but above all in the head. The same exuberance, the same constant demand for attention, the same belly up at the drop of a hat. Queen does not live with us, but we see her often and Manuela, her owner's wife, tells us every day how she is: when people say character is inherited, she is the proof we have in front of us.</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" title="View Queen of California pedigree on SBTPedigree" aria-label="View the full pedigree of the litter on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
   <!--ESPOSIZIONI:queen-->

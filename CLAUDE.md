@@ -206,6 +206,8 @@ Before working on the site locally, **Fetch/Pull** in GitHub Desktop: the gestio
   (Cloudflare Pages Function) logs the tap in the management app (`gestionale.delpiccolodiavolo.it/api/public/walog`,
   shared secret `WA_KEY` set in BOTH Cloudflare projects) and redirects (302) to `https://wa.me/<number>?text=…`.
   Only the source page path is sent (from the same-site Referer): no IP, no personal data; bots and link previews are skipped.
+- Diagnostic page: `/wa/393924635584?diag=<WA_DIAG>` shows whether `WA_KEY` is set and what the gestionale answers. It works only
+  when the Cloudflare variable `WA_DIAG` exists and the word matches; without it the page is off and `?diag=` just redirects.
 - `robots.txt` disallows `/wa/` for every group; `verifica.py` treats `/wa/<digits>` as a valid internal link.
 - The JSON-LD in `partials/schema.html` keeps the real `https://wa.me/` URL (it is data, not a button).
 - New pages: write WhatsApp links as `/wa/393924635584?text=…` (same text-encoding as before).

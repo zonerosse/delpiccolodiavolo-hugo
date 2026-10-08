@@ -1,4 +1,11 @@
-# {{ .Site.Title }}
+{{- /* Titolo come l'h1 della home (con la parola chiave), preceduto dal nome
+     dell'allevamento: "Del Piccolo Diavolo — Allevamento Staffordshire Bull Terrier". */ -}}
+{{- $titolo := .Site.Title -}}
+{{- with findRESubmatch `(?s)<h1 class="hero-title">(.*?)</h1>` (.Params.custom_content | default "") 1 -}}
+{{- $t := index (index . 0) 1 | replaceRE `<br\s*/?>` " " | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace -}}
+{{- with $t }}{{ $titolo = printf "%s — %s" $.Site.Title . }}{{ end -}}
+{{- end -}}
+# {{ $titolo }}
 {{ with .Description }}
 > {{ . }}
 {{ end }}

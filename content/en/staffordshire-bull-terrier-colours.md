@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Colours: Black, Brindle, Blue and More"
 date: 2026-08-01
-lastmod: 2026-10-05
+lastmod: 2026-10-08
 titleSeo: "Staffordshire Bull Terrier colours: black, brindle, blue"
 translationKey: "colori"
 articolo: true
@@ -119,7 +119,7 @@ custom_content: |
   </div>
   
   <div class="faq-item">
-  <h3 class="faq-question">Does colour affect the price of the puppy?</h3>
+  <h3 class="faq-question">Does a rare colour make the puppy worth more?</h3>
   <div class="faq-answer">It should not, and when it does it tells you something about the breeder. The value of a puppy lies in the parents' genetic tests, the pedigree, the selection work behind the mating and the first eight weeks of rearing &mdash; all of which cost the same whatever the coat. Anyone charging more for a <em>rare</em> puppy is selling a sense of exclusivity, and at worst is pushing colours outside the standard &mdash; extreme dilute, merle, black and tan &mdash; that have nothing to do with the breed. The question to ask anyone quoting a premium for colour is simple: <strong>what tests do the parents have, and may I see the reports with the microchip numbers?</strong></div>
   </div>
   

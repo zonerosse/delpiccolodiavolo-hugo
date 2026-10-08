@@ -2,9 +2,8 @@
 title: "Zucht-Tagebuch"
 titleSeo: "Zuchttagebuch: Würfe, Daten und Gentests"
 date: 2026-01-31
-lastmod: 2026-09-30
+lastmod: 2026-10-08
 tipoPagina: "CollectionPage"
-articolo: true
 translationKey: "diario-allevamento"
 description: "Aktualisierungen, Geburten und Neuigkeiten aus der Zucht Del Piccolo Diavolo. Verfolgen Sie das Wachstum unserer Staffordshire Bull Terrier Welpen."
 slug: "zucht-tagebuch"

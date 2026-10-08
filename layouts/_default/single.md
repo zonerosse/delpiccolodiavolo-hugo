@@ -1,5 +1,16 @@
 {{- /* Versione Markdown della pagina, per agenti e modelli AI. */ -}}
-# {{ .Title }}
+{{- /* Titolo: se la pagina ha un h1 suo (diverso dall'h1 "hero-title", che
+     ripete il titolo) si usa quello e lo si toglie dal testo, cosi' il file
+     ha un solo titolo # come la pagina HTML (es. Palmares). */ -}}
+{{- $grezzo := .Params.custom_content | default (string .Content) -}}
+{{- $grezzo = replaceRE `(?s)<h1 class="hero-title">.*?</h1>` "" $grezzo -}}
+{{- $titolo := .Title -}}
+{{- $suoH1 := false -}}
+{{- with findRESubmatch `(?s)<h1(?:\s[^>]*)?>(.*?)</h1>` $grezzo 1 -}}
+{{- $t := index (index . 0) 1 | replaceRE `<br\s*/?>` " " | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace -}}
+{{- if $t }}{{ $titolo = $t }}{{ $suoH1 = true }}{{ end -}}
+{{- end -}}
+# {{ $titolo }}
 {{ with .Description }}
 > {{ . }}
 {{ end }}
@@ -26,6 +37,7 @@
 {{- $c = replaceRE `(?s)<div class="[^"]*toc[^"]*"[^>]*>.*?</div>\s*</div>` "" $c -}}
 {{- $c = replaceRE `(?s)<(ul|div)[^>]*class="[^"]*(indice|sommario|jump|anchor)[^"]*"[^>]*>.*?</(ul|div)>` "" $c -}}
 {{- $c = replaceRE `(?s)<div class="[^"]*(toc|breadcrumb|nav)[^"]*"[^>]*>.*?</div>` "" $c -}}
+{{- if $suoH1 }}{{ $c = replaceRE `(?s)<h1(?:\s[^>]*)?>.*?</h1>` "" $c 1 }}{{ end -}}
 {{- $c = replaceRE `(?s)<h1[^>]*>(.*?)</h1>` "\n\n# $1\n" $c -}}
 {{- $c = replaceRE `(?s)<h2[^>]*>(.*?)</h2>` "\n\n## $1\n" $c -}}
 {{- $c = replaceRE `(?s)<h3[^>]*>(.*?)</h3>` "\n\n### $1\n" $c -}}

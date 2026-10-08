@@ -2,9 +2,8 @@
 title: "Diario Allevamento"
 titleSeo: "Diario dell'allevamento: cucciolate, date e test genetici"
 date: 2026-01-31
-lastmod: 2026-09-30
+lastmod: 2026-10-08
 tipoPagina: "CollectionPage"
-articolo: true
 translationKey: "diario-allevamento"
 description: "Il diario dell'allevamento Del Piccolo Diavolo: ogni cucciolata di Staffordshire Bull Terrier con data di nascita, genitori, test genetici e foto della crescita."
 slug: "diario-allevamento"

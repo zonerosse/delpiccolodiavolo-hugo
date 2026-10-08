@@ -1,7 +1,7 @@
 ---
 title: "I colori dello Staffordshire Bull Terrier: nero, tigrato, blu e altri"
 date: 2026-08-01
-lastmod: 2026-10-05
+lastmod: 2026-10-08
 titleSeo: "Colori dello Staffordshire Bull Terrier: nero, tigrato, blu"
 translationKey: "colori"
 articolo: true
@@ -118,7 +118,7 @@ custom_content: |
   </div>
   
   <div class="faq-item">
-  <h3 class="faq-question">Il colore influisce sul prezzo del cucciolo?</h3>
+  <h3 class="faq-question">Un colore raro rende il cucciolo più prezioso?</h3>
   <div class="faq-answer">Non dovrebbe, e quando succede &egrave; un segnale su chi hai davanti. Il valore di un cucciolo sta nei test genetici dei genitori, nel pedigree, nel lavoro di selezione dietro l'accoppiamento e nelle prime otto settimane di crescita: tutte cose che costano uguale a prescindere dal mantello. Chi fa pagare di pi&ugrave; un cucciolo perch&eacute; <em>raro</em> sta vendendo un'idea di esclusivit&agrave;, e nei casi peggiori sta spingendo colori fuori standard &mdash; blu diluito estremo, merle, nero focato &mdash; che con la razza non c'entrano. La domanda da fare a chiunque proponga un sovrapprezzo per il colore &egrave; semplice: <strong>quali test hanno i genitori, e posso vedere i referti con il microchip?</strong></div>
   </div>
   
