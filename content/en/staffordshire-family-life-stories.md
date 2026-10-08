@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terriers in family life: where our dogs are today"
 titleSeo: "Staffordshire Bull Terriers in family life: true stories"
 date: 2026-09-27
-lastmod: 2026-09-29
+lastmod: 2026-10-08
 translationKey: "storie-famiglie"
 articolo: true
 image: "/images/blog/storie-famiglie-hero.webp"
@@ -166,7 +166,7 @@ custom_content: |
   <li><a href="/en/about-us/" title="About us">About us: the story of the kennel</a></li>
   <li><a href="/en/reviews/" title="Reviews">Families' reviews on Google</a></li>
   <li><a href="/en/palmares/" title="Show results">Show results, with the judges' names</a></li>
-  <li><a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">How a litter is born and raised</a></li>
+  <li><a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">How Staffordshire Bull Terrier puppies are born and raised</a></li>
   </ul>
   </div>
   <!--/BLOCCO:15-->

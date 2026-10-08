@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Zucht"
 titleSeo: "Staffordshire Bull Terrier Züchter in Italien"
 date: 2025-12-28
-lastmod: 2026-10-05
+lastmod: 2026-10-08
 translationKey: "home"
 description: "Ethischer Staffordshire Bull Terrier Züchter seit 2013. ENCI-Ahnentafel, Gentest-Befunde und Mikrochips der Zuchttiere online veröffentlicht und überprüfbar."
 correlati:
@@ -77,7 +77,7 @@ custom_content: |
   <div class="gallery-item"><img src="/images/foto4.avif" alt="Staffordshire Bull Terrier Welpe im Arm, Nahaufnahme" loading="lazy" decoding="async" width="300" height="347"></div>
   </div>
 
-  <p style="text-align:center;margin-top:1.5rem"><a class="btn" href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Wie sie geboren werden und aufwachsen</a></p>
+  <p style="text-align:center;margin-top:1.5rem"><a class="btn" href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Wie Staffordshire Bull Terrier Welpen geboren werden und aufwachsen</a></p>
   </div>
   </section>
   <!--/BLOCCO:3-->
@@ -281,7 +281,7 @@ custom_content: |
   <a class="rimando" href="/de/welpen-staffordshire-bull-terrier/">
   <img src="/images/primo-piano-cucciolo.avif" alt="Staffordshire Bull Terrier Welpe" width="88" height="83" loading="lazy" decoding="async">
   <span>
-  <span class="ti">Wie ein Wurf entsteht und aufwächst</span>
+  <span class="ti">Wie Staffordshire Bull Terrier Welpen geboren werden und aufwachsen</span>
   <span class="de">Von der Läufigkeit bis zur Geburt, und was in den acht Wochen danach geschieht.</span>
   </span>
   </a>

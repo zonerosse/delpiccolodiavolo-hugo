@@ -2,7 +2,7 @@
 title: "\"Eltern vor Ort\": was das wirklich bedeutet"
 titleSeo: "\"Eltern vor Ort\": was das wirklich bedeutet"
 date: 2026-09-26
-lastmod: 2026-09-30
+lastmod: 2026-10-08
 translationKey: "genitori-visibili"
 articolo: true
 image: "/images/blog/genitori-visibili-hero.webp"
@@ -138,7 +138,7 @@ custom_content: |
   <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie man eine seriöse Zucht erkennt">Wie man eine seriöse Zucht erkennt</a></li>
   <li><a href="/de/staffy-gentests-l2hga-hc/" title="Gentests L2-HGA und HC">Gentests L2-HGA und HC: wie sie funktionieren</a></li>
   <li><a href="/de/staffy-blutlinien-guide/" title="Blutlinien des Staffordshire Bull Terrier">Die Blutlinien hinter der Rasse</a></li>
-  <li><a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Wie ein Wurf entsteht und aufwächst</a></li>
+  <li><a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Wie Staffordshire Bull Terrier Welpen geboren werden und aufwachsen</a></li>
   </ul>
   </div>
 

@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier in famiglia: dove sono oggi i nostri cani"
 titleSeo: "Staffordshire Bull Terrier in famiglia: storie vere"
 date: 2026-09-27
-lastmod: 2026-09-29
+lastmod: 2026-10-08
 translationKey: "storie-famiglie"
 articolo: true
 image: "/images/blog/storie-famiglie-hero.webp"
@@ -166,7 +166,7 @@ custom_content: |
   <li><a href="/chi-siamo/" title="Chi siamo">Chi siamo: la storia dell'allevamento</a></li>
   <li><a href="/recensioni/" title="Recensioni">Le recensioni delle famiglie su Google</a></li>
   <li><a href="/palmares-del-piccolo-diavolo/" title="Palmarès">Il palmarès, con i nomi dei giudici</a></li>
-  <li><a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">Come nasce e cresce una cucciolata</a></li>
+  <li><a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">Come nascono e crescono i cuccioli di Staffordshire Bull Terrier</a></li>
   </ul>
   </div>
   <!--/BLOCCO:15-->

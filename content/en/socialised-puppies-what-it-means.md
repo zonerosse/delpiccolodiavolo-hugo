@@ -2,7 +2,7 @@
 title: "\"Already socialised puppies\": what it really means"
 titleSeo: "Socialised puppies: what it really means"
 date: 2026-09-26
-lastmod: 2026-10-05
+lastmod: 2026-10-08
 translationKey: "socializzazione-affido"
 articolo: true
 image: "/images/blog/socializzazione-cortile-hero.webp"
@@ -164,7 +164,7 @@ custom_content: |
   <a class="rimando" href="/en/puppies-staffordshire-bull-terrier/">
   <img src="/images/primo-piano-cucciolo.avif" alt="Staffordshire Bull Terrier puppy" width="88" height="83" loading="lazy" decoding="async">
   <span>
-  <span class="ti">How a litter is born and raised</span>
+  <span class="ti">How Staffordshire Bull Terrier puppies are born and raised</span>
   <span class="de">From the season to the whelping, and what happens in the weeks that follow.</span>
   </span>
   </a>

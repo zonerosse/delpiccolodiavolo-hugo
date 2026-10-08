@@ -1,7 +1,7 @@
 ---
 title: "Allevamento Staffordshire Bull Terrier"
 date: 2025-12-28
-lastmod: 2026-10-05
+lastmod: 2026-10-08
 translationKey: "home"
 description: "Allevamento etico di Staffordshire Bull Terrier dal 2013. Pedigree ENCI, referti dei test genetici e microchip dei riproduttori pubblicati e verificabili."
 correlati:
@@ -76,7 +76,7 @@ custom_content: |
   <div class="gallery-item"><img src="/images/foto4.avif" alt="Cucciolo di Staffordshire Bull Terrier in braccio, primo piano" loading="lazy" decoding="async" width="300" height="347"></div>
   </div>
 
-  <p style="text-align:center;margin-top:1.5rem"><a class="btn" href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">Come nascono e crescono</a></p>
+  <p style="text-align:center;margin-top:1.5rem"><a class="btn" href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">Come nascono e crescono i cuccioli di Staffordshire Bull Terrier</a></p>
   </div>
   </section>
   <!--/BLOCCO:3-->
@@ -280,7 +280,7 @@ custom_content: |
   <a class="rimando" href="/cuccioli-staffordshire-bull-terrier/">
   <img src="/images/primo-piano-cucciolo.avif" alt="Cucciolo di Staffordshire Bull Terrier" width="88" height="83" loading="lazy" decoding="async">
   <span>
-  <span class="ti">Come nasce e cresce una cucciolata</span>
+  <span class="ti">Come nascono e crescono i cuccioli di Staffordshire Bull Terrier</span>
   <span class="de">Dal calore al parto, e cosa succede nelle otto settimane successive.</span>
   </span>
   </a>

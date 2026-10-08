@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Kennel"
 titleSeo: "Staffordshire Bull Terrier Breeder in Italy"
 date: 2025-12-28
-lastmod: 2026-10-05
+lastmod: 2026-10-08
 translationKey: "home"
 description: "Ethical Staffordshire Bull Terrier breeder since 2013. ENCI pedigree, genetic test reports and breeding stock microchips published online and verifiable."
 correlati:
@@ -77,7 +77,7 @@ custom_content: |
   <div class="gallery-item"><img src="/images/foto4.avif" alt="Staffordshire Bull Terrier puppy in arms, close up" loading="lazy" decoding="async" width="300" height="347"></div>
   </div>
 
-  <p style="text-align:center;margin-top:1.5rem"><a class="btn" href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">How they are born and raised</a></p>
+  <p style="text-align:center;margin-top:1.5rem"><a class="btn" href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">How Staffordshire Bull Terrier puppies are born and raised</a></p>
   </div>
   </section>
   <!--/BLOCCO:3-->
@@ -281,7 +281,7 @@ custom_content: |
   <a class="rimando" href="/en/puppies-staffordshire-bull-terrier/">
   <img src="/images/primo-piano-cucciolo.avif" alt="Staffordshire Bull Terrier puppy" width="88" height="83" loading="lazy" decoding="async">
   <span>
-  <span class="ti">How a litter is born and raised</span>
+  <span class="ti">How Staffordshire Bull Terrier puppies are born and raised</span>
   <span class="de">From the season to the whelping, and what happens in the eight weeks that follow.</span>
   </span>
   </a>

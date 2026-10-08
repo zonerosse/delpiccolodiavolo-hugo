@@ -2,7 +2,7 @@
 title: "Genitori visibili: cosa significa davvero"
 titleSeo: "Genitori visibili: cosa significa davvero"
 date: 2026-09-26
-lastmod: 2026-09-29
+lastmod: 2026-10-08
 translationKey: "genitori-visibili"
 articolo: true
 image: "/images/blog/genitori-visibili-hero.webp"
@@ -138,7 +138,7 @@ custom_content: |
   <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento serio">Come riconoscere un allevamento serio</a></li>
   <li><a href="/come-si-legge-un-pedigree/" title="Come si legge un pedigree">Come si legge un pedigree: ENCI e SBTPedigree</a></li>
   <li><a href="/programma-allevamento/" title="Programma di allevamento">Come programmiamo una cucciolata</a></li>
-  <li><a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">Come nasce e cresce una cucciolata</a></li>
+  <li><a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">Come nascono e crescono i cuccioli di Staffordshire Bull Terrier</a></li>
   </ul>
   </div>
   <!--/BLOCCO:7-->

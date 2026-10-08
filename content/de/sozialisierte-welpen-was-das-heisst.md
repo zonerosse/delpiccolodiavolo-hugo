@@ -2,7 +2,7 @@
 title: "\"Bereits sozialisierte Welpen\": was das heißt"
 titleSeo: "Sozialisierte Welpen: was das wirklich heißt"
 date: 2026-09-26
-lastmod: 2026-10-05
+lastmod: 2026-10-08
 translationKey: "socializzazione-affido"
 articolo: true
 image: "/images/blog/socializzazione-cortile-hero.webp"
@@ -164,7 +164,7 @@ custom_content: |
   <a class="rimando" href="/de/welpen-staffordshire-bull-terrier/">
   <img src="/images/primo-piano-cucciolo.avif" alt="Staffordshire Bull Terrier Welpe" width="88" height="83" loading="lazy" decoding="async">
   <span>
-  <span class="ti">Wie ein Wurf entsteht und aufwächst</span>
+  <span class="ti">Wie Staffordshire Bull Terrier Welpen geboren werden und aufwachsen</span>
   <span class="de">Von der Läufigkeit bis zur Geburt, und was in den Wochen danach geschieht.</span>
   </span>
   </a>
