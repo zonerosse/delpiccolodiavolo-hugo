@@ -215,7 +215,7 @@ custom_content: |
   <div>
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem">
   <h3>ENCI Junior Italian Champion</h3>
-  <p>Lothar won the Junior Italian Champion title with an impressive series of results in Junior Class. Now in Intermediate Class, he continues his show career collecting Excellent qualifications and CAC.</p>
+  <p><a href="/en/males-staffordshire-bull-terrier/" title="Our males">Lothar</a> won the Junior Italian Champion title with an impressive series of results in Junior Class. Now in Intermediate Class, he continues his show career collecting Excellent qualifications and CAC.</p>
   <p><strong>January 2026:</strong> new Slovenian Champion. An outstanding weekend at the international shows in Vrtojba, with 3 Excellent 1st, completing the Slovenian title.</p>
   </div>
   </div>
@@ -365,7 +365,6 @@ custom_content: |
   <h2>Want a Puppy from Winning Lines?</h2>
   <p>Our puppies are born from tested and titled parents. Contact us to learn about upcoming litters.</p>
 
-  <p>Titles are only part of it: what these dogs' lives look like today is told in <a href="/en/staffordshire-family-life-stories/" title="Family stories">the family stories</a>.</p>
   <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20am%20interested%20in%20champion%20line%20puppies" class="btn" title="Write us on WhatsApp">Write on WhatsApp</a>
   </section>
 ---

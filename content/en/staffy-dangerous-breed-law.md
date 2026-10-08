@@ -1,7 +1,7 @@
 ---
 title: "Is Staffordshire Bull Terrier Dangerous? Italian Law"
 date: 2025-11-18
-lastmod: 2026-10-05
+lastmod: 2026-10-08
 translationKey: "pericoloso"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -43,7 +43,7 @@ custom_content: |
   
   <h2>The myth of the dangerous breed</h2>
   <p>The idea that certain breeds are inherently dangerous has shaped legislation across Europe for 30 years, and the evidence for it has never been strong. Breed-specific legislation rests on the assumption that aggression is a fixed property of a breed rather than the outcome of genetics, upbringing, training, management and the specific situation in which a bite occurs.</p>
-  <p>Where such laws have been introduced and then studied, the results have been consistently disappointing. Bite statistics have not fallen in proportion, partly because breed identification by witnesses is unreliable, partly because the dogs involved in serious incidents are usually those kept in poor conditions by owners who ignore the law in any case. Several countries that pioneered breed lists have since repealed or narrowed them for exactly this reason.</p>
+  <p>Where such laws have been introduced and then studied, the results have been consistently disappointing. Bite statistics have not fallen in proportion, partly because breed identification by witnesses is unreliable, partly because the dogs involved in serious incidents are usually those kept in poor conditions by owners who ignore the law in any case. The Staffy, moreover, is often confused with the American Pit Bull Terrier and with <a href="/en/staffy-or-amstaff-which-breed-suits-you/" title="Staffy or Amstaff: the test">the American Staffordshire Terrier</a>: when a bull-type dog is involved in an incident, it gets called a "Pit Bull" or a "Staffy" whatever its breed. Several countries that pioneered breed lists have since repealed or narrowed them for exactly this reason.</p>
 
   <h2>What the data say: the Royal Veterinary College study</h2>
   <p>In 2020 the Royal Veterinary College in London published the first large study to test the breed's reputation against clinical records. Working within the <a href="https://www.rvc.ac.uk/vetcompass/" target="_blank" rel="noopener" aria-label="VetCompass, Royal Veterinary College (opens in a new tab)">VetCompass™</a> programme, the researchers reviewed the 2016 records of dogs under primary veterinary care in the United Kingdom: 1,304 Staffordshire Bull Terriers and 21,029 dogs of other breeds.</p>
@@ -56,7 +56,7 @@ custom_content: |
   <p>Individual municipalities can impose stricter local rules on specific areas such as parks or beaches, and a judge can order a behavioural assessment and mandatory training for a specific dog after an incident. Both of these are dog-specific, not breed-specific.</p>
 
   <h2>How Italy got here: from the 2006 list to the 2009 ordinance</h2>
-  <p>In December 2006 the then Minister of Health, Livia Turco, issued an ordinance on protecting public safety from dog attacks, with an annex listing <strong>17 breeds</strong> considered at risk, among them the Pit Bull, the Rottweiler, the Dogo Argentino, the Fila Brasileiro and the Tosa Inu. The Staffordshire Bull Terrier was not on that list; it ended up associated with it only in everyday language, through its resemblance to the Pit Bull.</p>
+  <p>In December 2006 the then Minister of Health, Livia Turco, issued an ordinance on protecting public safety from dog attacks, with an annex listing <strong>17 breeds</strong> considered at risk, among them the <a href="/en/staffy-pitbull-amstaff-difference/" title="Staffordshire Bull Terrier, Pit Bull and Amstaff compared">Pit Bull</a>, the Rottweiler, the Dogo Argentino, the Fila Brasileiro and the Tosa Inu. The Staffordshire Bull Terrier was not on that list; it ended up associated with it only in everyday language, through its resemblance to the Pit Bull.</p>
   <p>The list lasted barely two years. The ordinance signed on 3 March 2009 by the undersecretary Francesca Martini abolished it, stating that veterinary science does not allow the risk of greater aggressiveness to be established on the basis of a dog's breed or crosses. What that ordinance introduced still applies: a lead of at most one and a half metres in urban areas, a muzzle carried and fitted on request, a register of dogs that have bitten kept by the local health authorities, and the civil and criminal liability of the owner. Source: the <a href="https://www.salute.gov.it/portale/documentazione/p6_2_2_1.jsp?id=3031" target="_blank" rel="noopener" aria-label="Italian Ministry of Health, ordinance of 3 March 2009 (opens in a new tab)">Italian Ministry of Health, ordinance of 3 March 2009</a>.</p>
 
   <h2>The Lombardy proposal and the "save list"</h2>

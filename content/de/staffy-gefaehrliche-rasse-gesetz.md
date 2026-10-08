@@ -1,7 +1,7 @@
 ---
 title: "Ist der Staffordshire Bull Terrier gefährlich? Gesetzeslage"
 date: 2025-11-18
-lastmod: 2026-10-05
+lastmod: 2026-10-08
 translationKey: "pericoloso"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -43,7 +43,7 @@ custom_content: |
   
   <h2>Der Mythos der gefährlichen Rasse</h2>
   <p>Die Vorstellung, bestimmte Rassen seien von Natur aus gefährlich, prägt die Gesetzgebung in Europa seit 30 Jahren, und die Belege dafür waren nie überzeugend. Rassespezifische Gesetze beruhen auf der Annahme, Aggression sei eine feste Eigenschaft einer Rasse und nicht das Ergebnis von Genetik, Aufzucht, Erziehung, Haltung und der konkreten Situation, in der es zu einem Vorfall kommt.</p>
-  <p>Wo solche Gesetze eingeführt und anschließend untersucht wurden, fielen die Ergebnisse durchweg ernüchternd aus. Die Zahl der Beißvorfälle sank nicht entsprechend, unter anderem weil die Rassebestimmung durch Zeugen unzuverlässig ist und weil die Hunde in schweren Vorfällen meist von Haltern stammen, die sich ohnehin nicht an Vorschriften halten. Mehrere Länder, die Rasselisten früh eingeführt haben, haben sie deshalb wieder abgeschafft oder eingeschränkt.</p>
+  <p>Wo solche Gesetze eingeführt und anschließend untersucht wurden, fielen die Ergebnisse durchweg ernüchternd aus. Die Zahl der Beißvorfälle sank nicht entsprechend, unter anderem weil die Rassebestimmung durch Zeugen unzuverlässig ist und weil die Hunde in schweren Vorfällen meist von Haltern stammen, die sich ohnehin nicht an Vorschriften halten. Der Staffy wird zudem oft mit dem American Pit Bull Terrier und mit dem <a href="/de/staffy-oder-amstaff-welche-rasse-passt-zu-ihnen/" title="Staffy oder Amstaff: der Test">American Staffordshire Terrier</a> verwechselt: Ist ein Hund vom Bull-Typ in einen Vorfall verwickelt, heißt er „Pitbull“ oder „Staffy“, ganz gleich, welcher Rasse er angehört. Mehrere Länder, die Rasselisten früh eingeführt haben, haben sie deshalb wieder abgeschafft oder eingeschränkt.</p>
 
   <h2>Was die Daten sagen: die Studie des Royal Veterinary College</h2>
   <p>2020 veröffentlichte das Royal Veterinary College in London die erste große Studie, die den Ruf der Rasse an klinischen Daten überprüft hat. Im Rahmen des Programms <a href="https://www.rvc.ac.uk/vetcompass/" target="_blank" rel="noopener" aria-label="VetCompass, Royal Veterinary College (wird in einem neuen Tab geöffnet)">VetCompass™</a> wurden die Unterlagen des Jahres 2016 von Hunden in tierärztlicher Grundversorgung im Vereinigten Königreich ausgewertet: 1.304 Staffordshire Bull Terrier und 21.029 Hunde anderer Rassen.</p>

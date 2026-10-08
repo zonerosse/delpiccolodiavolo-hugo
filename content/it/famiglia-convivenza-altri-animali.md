@@ -494,14 +494,16 @@ custom_content: |
   <p>Convivenza armoniosa Staffordshire Bull Terrier con altri animali è POSSIBILE ma mai garantita né automatica. Richiede: valutazione temperamento onesta, preparazione ambiente minuziosa, protocolli graduali rispettati rigorosamente, supervisione intensa prolungata, accettazione limiti individuali, disponibilità intervento professionale. Quando funziona, arricchisce enormemente vita di tutti. Quando non funziona, gestione separazione o rehoming sono scelte responsabili. La chiave è realismo senza illusioni romantiche.</p>
   </div>
   
-  <div class="related">
+  <div class="related-articles">
   <h3>Articoli correlati</h3>
   <ul>
-  <li><a href="/famiglia-bambini-convivenza/" title="Bambini">Staffy e Bambini: Convivenza Sicura</a></li>
-  <li><a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli">Cuccioli di Staffordshire Bull Terrier</a></li>
-  <li><a href="/famiglia-anziani-rispetto-ritmi/" title="Anziani">Staffy e Anziani</a></li>
-  <li><a href="/cuccioli-socializzazione-in-casa/" title="Socializzazione">Socializzazione nei Primi Mesi</a></li>
-  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento">Consigli prima di prendere un cucciolo</a></li>
+  <li><a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Cuccioli socializzati: cosa vuol dire davvero">Cuccioli socializzati: cosa vuol dire davvero</a></li>
+  <li><a href="/famiglia-bambini-convivenza/" title="Staffy e Bambini: Convivenza Sicura">Staffy e Bambini: Convivenza Sicura</a></li>
+  <li><a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli di Staffordshire Bull Terrier">Cuccioli di Staffordshire Bull Terrier</a></li>
+  <li><a href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Staffordshire Bull Terrier: carattere e vita in famiglia">Staffordshire Bull Terrier: carattere e vita in famiglia</a></li>
+  <li><a href="/famiglia-anziani-rispetto-ritmi/" title="Staffy e Anziani">Staffy e Anziani</a></li>
+  <li><a href="/cuccioli-socializzazione-in-casa/" title="Socializzare il cucciolo in casa: la lista per la famiglia">Socializzare il cucciolo in casa: la lista per la famiglia</a></li>
+  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Consigli prima di prendere un cucciolo">Consigli prima di prendere un cucciolo</a></li>
   </ul>
   </div>
   
