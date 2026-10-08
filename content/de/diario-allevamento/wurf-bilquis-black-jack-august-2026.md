@@ -1,6 +1,6 @@
 ---
 title: "Wurf Bilquis × Black Jack (August 2026)"
-lastmod: 2026-09-30
+lastmod: 2026-10-08
 articolo: true
 titleSeo: "Wurf Bilquis × Black Jack, August 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
@@ -22,6 +22,17 @@ image: "/images/cuccioli-bilquis-nati-1.webp"
 image_alt: "Neugeborene schwarze Staffordshire Bull Terrier Welpen aus dem Wurf von Bilquis"
 annuncio: "Wurf August 2026: 8 schwarze Welpen"
 stato: "completa"
+scheda:
+  madre: "Bilquis Goddess Diabhal, Italienische Championin ENCI, 4. Platz bei der World Dog Show"
+  padre: "Black Jack Di Casa Giacalone, schwarzer Rüde, geboren im April 2025"
+  maschi: 4
+  femmine: 4
+  colori: "schwarz sowie schwarz gestromt mit Weiß"
+  foto:
+    - src: "/images/cuccioli-bilquis-nati-1.webp"
+      alt: "Neugeborene schwarze Staffordshire Bull Terrier Welpen, Wurf Bilquis × Black Jack"
+    - src: "/images/cuccioli-bilquis-nati-2.webp"
+      alt: "Bilquis mit ihren neugeborenen Staffordshire Bull Terrier Welpen"
 ---
 
 <div style="background:#c9a227;color:#1a1a1a;padding:1rem 1.5rem;border-radius:8px;margin-bottom:2rem;text-align:center">

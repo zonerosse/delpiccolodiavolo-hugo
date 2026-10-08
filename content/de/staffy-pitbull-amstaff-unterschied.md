@@ -1,7 +1,7 @@
 ---
 title: "Unterschied zwischen Staffordshire Bull Terrier, Pitbull und Amstaff"
 date: 2025-11-19
-lastmod: 2026-10-05
+lastmod: 2026-10-08
 titleSeo: "Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich"
 translationKey: "pitbull-amstaff"
 articolo: true
@@ -213,7 +213,7 @@ custom_content: |
   
   <div class="alert">
   <p class="alert-title">⚠️ Vorsicht bei „Pit Bulls“ ohne Ahnentafel</p>
-  <p>In Italien kann ein als „Pit Bull“ verkaufter Hund keine ENCI-Ahnentafel haben, weil die Rasse nicht anerkannt ist. Viele als „Pit Bull“ verkaufte Hunde sind in Wirklichkeit Mischlinge verschiedener Art. Wer einen Hund vom Bull-Typ mit Garantien sucht, sollte sich an <a href="/de/welpen-staffordshire-bull-terrier/">Staffys</a> oder Amstaffs aus ENCI-Zuchten halten.</p>
+  <p>In Italien kann ein als „Pit Bull“ verkaufter Hund keine ENCI-Ahnentafel haben, weil die Rasse nicht anerkannt ist. Viele als „Pit Bull“ verkaufte Hunde sind in Wirklichkeit Mischlinge verschiedener Art. Wer einen Hund vom Bull-Typ mit Garantien sucht, sollte sich an <a href="/de/welpen-staffordshire-bull-terrier/">Staffy-Welpen</a> oder Amstaffs aus ENCI-Zuchten halten.</p>
   </div>
   
   <h2>Welche Rasse wählen?</h2>

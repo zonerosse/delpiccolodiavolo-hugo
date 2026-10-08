@@ -2,7 +2,7 @@
 title: "Differenza tra Staffordshire Bull Terrier, Pitbull e Amstaff"
 titleSeo: "Staffy, Pitbull e Amstaff: come distinguerli"
 date: 2025-11-19
-lastmod: 2026-10-05
+lastmod: 2026-10-08
 translationKey: "pitbull-amstaff"
 articolo: true
 image: "/images/blog/differenza-razze-hero.webp"
@@ -221,7 +221,7 @@ custom_content: |
   
   <div class="alert">
   <p class="alert-title">⚠️ Attenzione ai "Pit Bull" senza Pedigree</p>
-  <p>In Italia, un cane venduto come "Pit Bull" non può avere pedigree ENCI perché la razza non è riconosciuta. Molti cani venduti come "Pit Bull" sono in realtà incroci di vario tipo. Se cerchi un cane di tipo "bull" con garanzie, orientati verso <a href="/cuccioli-staffordshire-bull-terrier/">Staffy</a> o Amstaff da allevatori ENCI.</p>
+  <p>In Italia, un cane venduto come "Pit Bull" non può avere pedigree ENCI perché la razza non è riconosciuta. Molti cani venduti come "Pit Bull" sono in realtà incroci di vario tipo. Se cerchi un cane di tipo "bull" con garanzie, orientati verso <a href="/cuccioli-staffordshire-bull-terrier/">cuccioli di Staffy</a> o Amstaff da allevatori ENCI.</p>
   </div>
   
   <h2>Quale Razza Scegliere?</h2>

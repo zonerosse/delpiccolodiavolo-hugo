@@ -64,7 +64,7 @@ custom_content: |
   
   <h2>Schwarz — elegant und immer aktuell</h2>
   <p>Volles Schwarz ist eine der beliebtesten und eindrucksvollsten Farben der Rasse: ein glattes, glänzendes und gleichmäßiges Fell, das die typische Muskulatur des Staffy hervorhebt. Es kann als volles Schwarz oder <strong>Schwarz mit Weiß</strong> auftreten (Abzeichen an Brust, Zehen, Fang).</p>
-  <p>Es ist eine Farbe, die dem Standard voll entspricht und sehr gefragt ist. Unser <a href="/de/welpen-staffordshire-bull-terrier/">aktueller Wurf</a> ist tatsächlich ein ganz schwarzer Wurf.</p>
+  <p>Es ist eine Farbe, die dem Standard voll entspricht und sehr gefragt ist. Die Farben jedes unserer Würfe stehen auf der Seite <a href="/de/welpen-staffordshire-bull-terrier/">Staffordshire Bull Terrier Welpen</a>.</p>
   
   <figure class="article-image">
   <img src="/images/cuccioli-bilquis-nati-2.webp" alt="Neugeborene schwarze Staffordshire Bull Terrier Welpen - Wurf Del Piccolo Diavolo" loading="lazy" decoding="async" width="468" height="480" style="height:auto">

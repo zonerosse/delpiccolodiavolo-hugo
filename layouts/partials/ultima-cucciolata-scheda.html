@@ -1,0 +1,120 @@
+{{- /* Sezione "L'ultima cucciolata" della pagina Cuccioli (IT/EN/DE), segnaposto
+     <!--ULTIMA-CUCCIOLATA-->, sostituito in single.html e single.md (ottobre 2026).
+
+     Pesca da sola la pagina più recente del diario (per data) nella lingua della
+     pagina e la mostra in testo vero, visibile a Google e alle IA: data di nascita,
+     stato (Disponibili / Non disponibili), madre, padre, numero di maschi e
+     femmine, colori, foto, link al diario e al programma.
+
+     I dati stanno nel front matter della pagina del diario, blocco `scheda:`
+       scheda:
+         madre: "…"            # testo libero nella lingua della pagina
+         padre: "…"
+         maschi: 4
+         femmine: 4
+         colori: "…"
+         foto:
+           - src: "/images/…"
+             alt: "…"
+     Ogni riga che manca semplicemente non compare (es. pagine scritte dal
+     gestionale senza `scheda:`): restano data, stato e la foto `image`.
+     Scelte di Paolo: niente prenotazioni, niente riquadro di contatto. */ -}}
+{{- $lang := .Site.Language.Lang -}}
+{{- $t := dict
+  "lab" "L'ultima cucciolata"
+  "h2" "L'ultima cucciolata di Staffordshire Bull Terrier dell'allevamento"
+  "nati" "Nati il"
+  "av" "Disponibili" "na" "Non disponibili"
+  "madre" "Madre" "padre" "Padre" "cuccioli" "Cuccioli" "ped" "Pedigree"
+  "m" "maschi" "f" "femmine" "e" "e"
+  "pedtxt" "ENCI, con i referti dei test dei genitori pubblicati"
+  "txtNa" "Tutti i cuccioli di questa cucciolata hanno già una famiglia. Nel diario restano le foto della crescita%s e i dati dei genitori. La prossima cucciolata compare qui appena nasce."
+  "txtAv" "I cuccioli di questa cucciolata sono disponibili. Nel diario trovi le foto della crescita%s e i dati dei genitori."
+  "video" ", i video"
+  "diario" "La cucciolata nel diario →"
+  "prog" "Le cucciolate in programma →"
+  "progUrl" "programma-allevamento/"
+-}}
+{{- if eq $lang "en" -}}
+{{- $t = dict
+  "lab" "Latest litter"
+  "h2" "Our latest Staffordshire Bull Terrier litter"
+  "nati" "Born"
+  "av" "Available" "na" "Not available"
+  "madre" "Dam" "padre" "Sire" "cuccioli" "Puppies" "ped" "Pedigree"
+  "m" "males" "f" "females" "e" "and"
+  "pedtxt" "ENCI, with the parents' test reports published"
+  "txtNa" "All the puppies from this litter already have their families. The diary keeps the growth photos%s and the parents' details. The next litter will appear here as soon as it is born."
+  "txtAv" "The puppies from this litter are available. In the diary you will find the growth photos%s and the parents' details."
+  "video" ", the videos"
+  "diario" "The litter in the diary →"
+  "prog" "Planned litters →"
+  "progUrl" "litters-staffordshire-bull-terrier/"
+-}}
+{{- else if eq $lang "de" -}}
+{{- $t = dict
+  "lab" "Neuester Wurf"
+  "h2" "Unser neuester Staffordshire Bull Terrier Wurf"
+  "nati" "Geboren am"
+  "av" "Verfügbar" "na" "Nicht verfügbar"
+  "madre" "Mutter" "padre" "Vater" "cuccioli" "Welpen" "ped" "Ahnentafel"
+  "m" "Rüden" "f" "Hündinnen" "e" "und"
+  "pedtxt" "ENCI, mit veröffentlichten Testbefunden der Eltern"
+  "txtNa" "Alle Welpen dieses Wurfs haben bereits ihre Familie. Im Tagebuch bleiben die Fotos vom Heranwachsen%s und die Daten der Eltern. Der nächste Wurf erscheint hier, sobald er geboren ist."
+  "txtAv" "Die Welpen dieses Wurfs sind verfügbar. Im Tagebuch finden Sie die Fotos vom Heranwachsen%s und die Daten der Eltern."
+  "video" ", die Videos"
+  "diario" "Der Wurf im Tagebuch →"
+  "prog" "Geplante Würfe →"
+  "progUrl" "wuerfe-staffordshire-bull-terrier/"
+-}}
+{{- end -}}
+{{- with .Site.GetPage "/diario-allevamento" -}}
+{{- range first 1 .RegularPages.ByDate.Reverse -}}
+{{- $s := .Params.scheda | default dict -}}
+{{- $disp := eq (.Params.stato | default "completa") "disponibile" -}}
+{{- /* Data: "1° agosto 2026" / "1 August 2026" / "1. August 2026" */ -}}
+{{- $g := .Date.Day -}}
+{{- $mese := .Date | time.Format "January" -}}
+{{- $data := printf "%d %s %d" $g $mese .Date.Year -}}
+{{- if eq $lang "it" }}{{ $data = printf "%s %s %d" (cond (eq $g 1) "1°" (string $g)) $mese .Date.Year }}{{ end -}}
+{{- if eq $lang "de" }}{{ $data = printf "%d. %s %d" $g $mese .Date.Year }}{{ end -}}
+{{- $foto := $s.foto -}}
+{{- if not $foto }}{{ with .Params.image }}{{ $foto = slice (dict "src" . "alt" ($.Params.image_alt | default "")) }}{{ end }}{{ end -}}
+{{- $video := cond (gt (len (.Params.video | default slice)) 0) (index $t "video") "" -}}
+<section class="section" style="background:linear-gradient(135deg,rgba(201,162,39,0.10),rgba(92,74,58,0.05));">
+<div class="section-inner">
+<span class="section-label">{{ index $t "lab" }}</span>
+<h2 class="section-title">{{ index $t "h2" }}</h2>
+<div style="max-width:900px;margin:0 auto;background:#fff;border:2px solid #c9a227;border-radius:18px;box-shadow:0 14px 45px rgba(0,0,0,0.12);padding:1.5rem;">
+{{- with $foto }}
+<div style="display:flex;flex-wrap:wrap;gap:1rem;margin-bottom:1.2rem;">
+{{- range . }}
+{{- $alt := .alt | default (index $t "h2") -}}
+{{- $cfg := dict "Width" 435 "Height" 480 -}}
+{{- $file := printf "static%s" .src -}}
+{{- if fileExists $file }}{{ $c := imageConfig $file }}{{ $cfg = dict "Width" $c.Width "Height" $c.Height }}{{ end }}
+<img src="{{ .src }}" alt="{{ $alt }}" width="{{ $cfg.Width }}" height="{{ $cfg.Height }}" loading="lazy" decoding="async" style="flex:1 1 240px;width:240px;min-width:0;max-width:100%;height:auto;border-radius:14px;object-fit:cover;">
+{{- end }}
+</div>
+{{- end }}
+<span style="display:inline-block;background:#c9a227;color:#1a1a1a;font-weight:700;font-size:0.85rem;padding:0.35rem 0.9rem;border-radius:20px;margin-bottom:0.9rem;">{{ index $t "nati" }} {{ $data }} · {{ cond $disp (index $t "av") (index $t "na") }}</span>
+{{- with $s.madre }}
+<p style="margin:0 0 0.45rem;"><strong>{{ index $t "madre" }}:</strong> {{ . }}</p>
+{{- end }}
+{{- with $s.padre }}
+<p style="margin:0 0 0.45rem;"><strong>{{ index $t "padre" }}:</strong> {{ . }}</p>
+{{- end }}
+{{- if or $s.maschi $s.femmine }}
+<p style="margin:0 0 0.45rem;"><strong>{{ index $t "cuccioli" }}:</strong> {{ $s.maschi | default 0 }} {{ index $t "m" }} {{ index $t "e" }} {{ $s.femmine | default 0 }} {{ index $t "f" }}{{ with $s.colori }}, {{ . }}{{ end }}</p>
+{{- end }}
+<p style="margin:0 0 1rem;"><strong>{{ index $t "ped" }}:</strong> {{ index $t "pedtxt" }}</p>
+<p style="margin:0 0 1.2rem;line-height:1.65;">{{ printf (cond $disp (index $t "txtAv") (index $t "txtNa")) $video }}</p>
+<div style="display:flex;flex-wrap:wrap;gap:0.7rem;">
+<a href="{{ .RelPermalink }}" class="btn btn-primary" title="{{ .Title }}">{{ index $t "diario" }}</a>
+<a href="{{ index $t "progUrl" | relLangURL }}" class="btn btn-ghost" title="{{ index $t "prog" | strings.TrimSuffix " →" }}">{{ index $t "prog" }}</a>
+</div>
+</div>
+</div>
+</section>
+{{- end -}}
+{{- end -}}

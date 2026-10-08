@@ -2,7 +2,7 @@
 title: "Cuccioli Staffordshire Bull Terrier"
 titleSeo: "Cuccioli Staffordshire Bull Terrier con test verificabili"
 date: 2025-12-28
-lastmod: 2026-09-30
+lastmod: 2026-10-08
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
 description: "Cuccioli Staffordshire Bull Terrier a Ostellato (FE). Pedigree ENCI, genitori testati L2HGA e HC con i referti pubblicati sul sito, verificabili da chiunque."
@@ -59,8 +59,6 @@ custom_content: |
   </div>
   </div>
 
-  <!--CUCCIOLATA-->
-
   <!-- Citazione allevamento -->
 
   <section class="section">
@@ -75,6 +73,8 @@ custom_content: |
   </div>
   </div>
   </section>
+
+  <!--ULTIMA-CUCCIOLATA-->
 
   <!--CUCCIOLATE-->
 

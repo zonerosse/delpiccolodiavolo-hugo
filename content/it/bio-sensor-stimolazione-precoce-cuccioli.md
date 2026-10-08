@@ -2,7 +2,7 @@
 title: "Bio Sensor: cosa dice davvero la ricerca"
 date: 2026-09-09
 titleSeo: "Bio Sensor e stimolazione precoce: cosa dice la ricerca"
-lastmod: 2026-09-30
+lastmod: 2026-10-08
 translationKey: "biosensor"
 articolo: true
 image: "/images/blog/neonati-hero.webp"
@@ -95,7 +95,7 @@ custom_content: |
 
   <p>Applicare cinque esercizi identici a otto cuccioli diversi, contando i secondi, vuol dire trattarli come se fossero intercambiabili. Non lo sono, come non lo sono i bambini.</p>
 
-  <p>Dal primo mese in avanti comincia la parte che conta di più: il passaggio al <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">box con sfogo esterno</a>, il rientro in casa a turno, e poi le persone, i rumori, gli altri cani. È lì che si costruisce il carattere di un cane adulto, e dopo non si recupera.</p>
+  <p>Dal primo mese in avanti comincia la parte che conta di più: il passaggio al box con sfogo esterno, il rientro in casa a turno, e poi le persone, i rumori, gli altri cani. È lì che si costruisce il carattere di un cane adulto, e dopo non si recupera. Come crescono i nostri lo racconta la pagina dei <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli di Staffordshire Bull Terrier</a>.</p>
 
   <h2>In sintesi</h2>
 

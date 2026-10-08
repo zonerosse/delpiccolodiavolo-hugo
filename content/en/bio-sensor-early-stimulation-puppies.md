@@ -2,7 +2,7 @@
 title: "Bio Sensor: what the research actually says"
 date: 2026-09-09
 titleSeo: "Bio Sensor and early stimulation: what research says"
-lastmod: 2026-09-30
+lastmod: 2026-10-08
 translationKey: "biosensor"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
@@ -95,7 +95,7 @@ custom_content: |
 
   <p>Applying five identical exercises to eight different puppies, counting the seconds, means treating them as interchangeable. They are not, any more than children are.</p>
 
-  <p>From the first month onwards the part that matters most begins: the move to the <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Puppies">pen with outdoor access</a>, coming back indoors in turns, and then the people, the noises, the other dogs. That is where an adult dog's character is built, and it cannot be recovered afterwards.</p>
+  <p>From the first month onwards the part that matters most begins: the move to the pen with outdoor access, coming back indoors in turns, and then the people, the noises, the other dogs. That is where an adult dog's character is built, and it cannot be recovered afterwards. How ours grow up is described on the <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Puppies">Staffordshire Bull Terrier puppies</a> page.</p>
 
   <h2>In short</h2>
 

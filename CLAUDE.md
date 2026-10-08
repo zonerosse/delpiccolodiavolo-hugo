@@ -76,6 +76,7 @@ Inside `custom_content`, HTML comment placeholders are string-replaced with part
 | `<!--NEWS-->` | yes | no | newest `diario-allevamento` post as a card (built inline in the template) |
 | `<!--HEROFOTO-->` | yes | no | `partials/hero-foto.html` |
 | `<!--CUCCIOLATA-->` | no | yes | `partials/ultima-cucciolata.html` |
+| `<!--ULTIMA-CUCCIOLATA-->` | no | yes | `partials/ultima-cucciolata-scheda.html` — the "latest litter" section of the Puppies page (IT/EN/DE), always on, real text for Google and AI (also in `single.md`) |
 | `<!--CORRELATI-->` | yes | yes | `partials/correlati.html`, driven by the `correlati:` front matter list |
 | `<!--RECENTI-->` | no | yes | `partials/recenti.html` |
 | `<!--GUIDE-->` | no | yes | `partials/guide-cucciolo.html`, group `cucciolo` (links to the practical puppy guides, found by `translationKey`, current page excluded) |
@@ -87,6 +88,8 @@ Inside `custom_content`, HTML comment placeholders are string-replaced with part
 ### Breeding diary drives the homepage
 
 `content/<lang>/diario-allevamento/` is the only real Hugo section, with its own `layouts/diario-allevamento/{list,single}.html`. The **newest post by date** is pulled into the home NEWS block and into `ultima-cucciolata.html`. Post front matter: `date`, `image`, `image_alt`, `annuncio` (overrides the title in cards), and `stato: disponibile|completa` (default `completa`) which switches the title and text of the contact block at the bottom of the post page.
+
+The newest post also feeds the "latest litter" section of the Puppies page (`<!--ULTIMA-CUCCIOLATA-->`, October 2026: Paolo wants the page to always show a real litter, so Google sees it as the puppies page). Its data come from the optional `scheda:` block of the post (`madre`, `padre`, `maschi`, `femmine`, `colori`, `foto: [{src, alt}]`), written in each language's file; missing lines are simply not shown, so diary pages written by the gestionale without `scheda:` still work (date, status, `image`). Fill `scheda:` in all three languages for every new hand-written litter post. The old `<!--CUCCIOLATA-->` box (switch `mostraUltimaCucciolata`) was removed from the Puppies pages and stays only on the breeding programme pages.
 
 ### Hero photo rotation and the weekly rebuild
 

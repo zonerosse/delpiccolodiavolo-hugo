@@ -182,7 +182,7 @@ custom_content: |
 
   <p>A hire car from Bologna or Venice is the simplest way. If you are staying over, tell us in advance and we will point you to farm stays and small hotels nearby — this is holiday country, and there is no shortage of good places to sleep.</p>
 
-  <p>If you are considering a puppy from abroad, read <a href="/en/puppies-staffordshire-bull-terrier/" title="Puppies — a puppy going abroad">how a placement abroad works</a> before you write: minimum age, documents, the export pedigree and how long it all takes. It answers most of what people ask us in their first message.</p>
+  <p>If you are considering a puppy from abroad, read <a href="/en/staffordshire-bull-terrier-puppy-abroad/" title="A puppy going abroad">how a placement abroad works</a> before you write: minimum age, documents, the export pedigree and how long it all takes. It answers most of what people ask us in their first message.</p>
   </div>
   </section>
 

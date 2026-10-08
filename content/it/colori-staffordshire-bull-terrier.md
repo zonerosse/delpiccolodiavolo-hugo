@@ -63,7 +63,7 @@ custom_content: |
   
   <h2>Nero — elegante e sempre attuale</h2>
   <p>Il nero pieno è uno dei colori più amati e scenografici della razza: un mantello raso, lucido e uniforme che mette in risalto la muscolatura tipica dello Staffy. Può presentarsi in nero pieno oppure <strong>nero con bianco</strong> (pezzature sul petto, sulle dita, sul muso).</p>
-  <p>È un colore perfettamente conforme allo standard e molto richiesto. Proprio a un cucciolata nera è dedicata la nostra <a href="/cuccioli-staffordshire-bull-terrier/">cucciolata attuale</a>.</p>
+  <p>È un colore perfettamente conforme allo standard e molto richiesto. I colori di ogni cucciolata dell'allevamento sono indicati nella pagina dei <a href="/cuccioli-staffordshire-bull-terrier/">cuccioli di Staffordshire Bull Terrier</a>.</p>
   
   <figure class="article-image">
   <img src="/images/cuccioli-bilquis-nati-2.webp" alt="Cuccioli Staffordshire Bull Terrier neri appena nati - cucciolata Del Piccolo Diavolo" loading="lazy" decoding="async" width="468" height="480" style="height:auto">

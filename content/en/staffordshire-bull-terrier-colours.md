@@ -64,7 +64,7 @@ custom_content: |
   
   <h2>Black — elegant and always in style</h2>
   <p>Solid black is one of the most loved and striking colours of the breed: a smooth, glossy, even coat that highlights the Staffy's typical musculature. It can appear as solid black or <strong>black with white</strong> (markings on the chest, toes, muzzle).</p>
-  <p>It is a colour that fully conforms to the standard and is much sought after. Our <a href="/en/puppies-staffordshire-bull-terrier/">current litter</a> is in fact an all-black litter.</p>
+  <p>It is a colour that fully conforms to the standard and is much sought after. The colours of each of our litters are listed on the <a href="/en/puppies-staffordshire-bull-terrier/">Staffordshire Bull Terrier puppies</a> page.</p>
   
   <figure class="article-image">
   <img src="/images/cuccioli-bilquis-nati-2.webp" alt="Newborn black Staffordshire Bull Terrier puppies - Del Piccolo Diavolo litter" loading="lazy" decoding="async" width="468" height="480" style="height:auto">

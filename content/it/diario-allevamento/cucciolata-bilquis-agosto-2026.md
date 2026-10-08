@@ -1,6 +1,6 @@
 ---
 title: "Cucciolata Bilquis × Black Jack (agosto 2026)"
-lastmod: 2026-09-30
+lastmod: 2026-10-08
 articolo: true
 titleSeo: "Cucciolata Bilquis × Black Jack, agosto 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
@@ -22,6 +22,17 @@ image: "/images/cuccioli-bilquis-nati-1.webp"
 image_alt: "Cuccioli di Staffordshire Bull Terrier neri della cucciolata di Bilquis"
 annuncio: "Cucciolata di agosto 2026, cuccioli neri"
 stato: "completa"
+scheda:
+  madre: "Bilquis Goddess Diabhal, Campionessa Italiana ENCI, 4ª al World Dog Show"
+  padre: "Black Jack Di Casa Giacalone, maschio nero nato ad aprile 2025"
+  maschi: 4
+  femmine: 4
+  colori: "neri e tigrati neri con bianco"
+  foto:
+    - src: "/images/cuccioli-bilquis-nati-1.webp"
+      alt: "Cuccioli di Staffordshire Bull Terrier neri appena nati, cucciolata Bilquis × Black Jack"
+    - src: "/images/cuccioli-bilquis-nati-2.webp"
+      alt: "Bilquis con i suoi cuccioli di Staffordshire Bull Terrier appena nati"
 ---
 
 Questa cucciolata è nata ad agosto 2026 dall'accoppiamento fra Bilquis Goddess Diabhal, Campionessa Italiana e quarta al World Dog Show, e Black Jack. Come per ogni cucciolata di Del Piccolo Diavolo, i dati restano pubblicati anche dopo che i cuccioli sono andati nelle loro famiglie: <strong>la data di nascita, i nomi dei due riproduttori e i loro test genetici</strong>. È voluto, perché è così che chiunque può contare quante cucciolate nascono davvero in un anno e confrontare il dato con il libro genealogico ENCI, partendo dal numero di microchip della madre. I cuccioli sono stati affidati dopo i 60 giorni previsti dalla legge, con microchip, prime vaccinazioni e pedigree ENCI.

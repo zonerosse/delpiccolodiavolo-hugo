@@ -1,6 +1,6 @@
 ---
 title: "Bilquis × Black Jack Litter (August 2026)"
-lastmod: 2026-09-30
+lastmod: 2026-10-08
 articolo: true
 titleSeo: "Bilquis × Black Jack litter, August 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
@@ -22,6 +22,17 @@ image: "/images/cuccioli-bilquis-nati-1.webp"
 image_alt: "Newborn black Staffordshire Bull Terrier puppies from Bilquis' litter"
 annuncio: "August 2026 litter: 8 black puppies"
 stato: "completa"
+scheda:
+  madre: "Bilquis Goddess Diabhal, Italian Champion ENCI, 4th at the World Dog Show"
+  padre: "Black Jack Di Casa Giacalone, black male born in April 2025"
+  maschi: 4
+  femmine: 4
+  colori: "black, and black brindle & white"
+  foto:
+    - src: "/images/cuccioli-bilquis-nati-1.webp"
+      alt: "Newborn black Staffordshire Bull Terrier puppies, Bilquis × Black Jack litter"
+    - src: "/images/cuccioli-bilquis-nati-2.webp"
+      alt: "Bilquis with her newborn Staffordshire Bull Terrier puppies"
 ---
 
 <div style="background:#c9a227;color:#1a1a1a;padding:1rem 1.5rem;border-radius:8px;margin-bottom:2rem;text-align:center">
