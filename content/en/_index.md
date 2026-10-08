@@ -77,7 +77,7 @@ custom_content: |
   <div class="gallery-item"><img src="/images/foto4.avif" alt="Staffordshire Bull Terrier puppy in arms, close up" loading="lazy" decoding="async" width="300" height="347"></div>
   </div>
 
-  <p style="text-align:center;margin-top:1.5rem"><a class="btn" href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">How Staffordshire Bull Terrier puppies are born and raised</a></p>
+  <p style="text-align:center;margin-top:1.5rem"><a class="btn" href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">How Staffy puppies are born and raised</a></p>
   </div>
   </section>
   <!--/BLOCCO:3-->
@@ -106,7 +106,7 @@ custom_content: |
 
   <p>Sometimes a kennel is easier to understand from what it does not do.</p>
 
-  <p>The Del Piccolo Diavolo kennel, in Ostellato in the province of Ferrara, Italy, does not have <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies</a> available all year round: one litter is born a year, occasionally two, in some years none. It does not ship dogs by courier or in an aircraft hold, and does not hand them over halfway: whoever takes a puppy comes to Ostellato and <a href="/en/parents-on-site-what-it-means/" title="&quot;Parents on site&quot;: what it really means">sees the mother</a> and the place where it grew up. Every puppy leaves with the ENCI pedigree certificate, which is not an extra and is not charged separately, after the 60 days required by Italian law. The breeding stock is tested for L2HGA and HC (HSF4 gene), the active brood bitches also for degenerative myelopathy (SOD1 gene), and the laboratory reports &mdash; with the dog's microchip number on them &mdash; are published on the site and can be downloaded without asking.</p>
+  <p>The Del Piccolo Diavolo kennel, in Ostellato in the province of Ferrara, Italy, does not have <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffy puppies</a> available all year round: one litter is born a year, occasionally two, in some years none. It does not ship dogs by courier or in an aircraft hold, and does not hand them over halfway: whoever takes a puppy comes to Ostellato and <a href="/en/parents-on-site-what-it-means/" title="&quot;Parents on site&quot;: what it really means">sees the mother</a> and the place where it grew up. Every puppy leaves with the ENCI pedigree certificate, which is not an extra and is not charged separately, after the 60 days required by Italian law. The breeding stock is tested for L2HGA and HC (HSF4 gene), the active brood bitches also for degenerative myelopathy (SOD1 gene), and the laboratory reports &mdash; with the dog's microchip number on them &mdash; are published on the site and can be downloaded without asking.</p>
 
   <p><strong>We do not have puppies all year round.</strong> One litter, occasionally two, sometimes none. If you write to us at a time when there are none, the answer is that there are none: we do not offer you an acquaintance's puppy and we do not rush you towards a future litter.</p>
 

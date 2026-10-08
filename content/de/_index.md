@@ -77,7 +77,7 @@ custom_content: |
   <div class="gallery-item"><img src="/images/foto4.avif" alt="Staffordshire Bull Terrier Welpe im Arm, Nahaufnahme" loading="lazy" decoding="async" width="300" height="347"></div>
   </div>
 
-  <p style="text-align:center;margin-top:1.5rem"><a class="btn" href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Wie Staffordshire Bull Terrier Welpen geboren werden und aufwachsen</a></p>
+  <p style="text-align:center;margin-top:1.5rem"><a class="btn" href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Wie Staffy-Welpen geboren werden und aufwachsen</a></p>
   </div>
   </section>
   <!--/BLOCCO:3-->
@@ -106,7 +106,7 @@ custom_content: |
 
   <p>Manchmal versteht man eine Zucht besser an dem, was sie nicht tut.</p>
 
-  <p>Die Zucht Del Piccolo Diavolo in Ostellato, Provinz Ferrara, Italien, hat nicht das ganze Jahr über <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Staffordshire Bull Terrier Welpen</a>: es wird ein Wurf im Jahr geboren, gelegentlich zwei, in manchen Jahren keiner. Sie versendet keine Hunde per Kurier oder im Frachtraum eines Flugzeugs und übergibt nicht auf halbem Weg: wer einen Welpen nimmt, kommt nach Ostellato und <a href="/de/eltern-vor-ort-was-das-bedeutet/" title="&quot;Eltern vor Ort&quot;: was das wirklich bedeutet">sieht die Mutter</a> und den Ort, an dem er aufgewachsen ist. Jeder Welpe geht mit der ENCI-Ahnentafel, die kein Extra ist und nicht gesondert berechnet wird, nach den 60 Tagen, die das italienische Gesetz vorschreibt. Die Zuchttiere sind auf L2HGA und HC (Gen HSF4) getestet, die aktiven Zuchthündinnen zusätzlich auf degenerative Myelopathie (Gen SOD1), und die Laborbefunde &mdash; mit der Mikrochipnummer des Hundes darauf &mdash; sind auf der Website veröffentlicht und können heruntergeladen werden, ohne dass man danach fragen muss.</p>
+  <p>Die Zucht Del Piccolo Diavolo in Ostellato, Provinz Ferrara, Italien, hat nicht das ganze Jahr über <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Staffy-Welpen</a>: es wird ein Wurf im Jahr geboren, gelegentlich zwei, in manchen Jahren keiner. Sie versendet keine Hunde per Kurier oder im Frachtraum eines Flugzeugs und übergibt nicht auf halbem Weg: wer einen Welpen nimmt, kommt nach Ostellato und <a href="/de/eltern-vor-ort-was-das-bedeutet/" title="&quot;Eltern vor Ort&quot;: was das wirklich bedeutet">sieht die Mutter</a> und den Ort, an dem er aufgewachsen ist. Jeder Welpe geht mit der ENCI-Ahnentafel, die kein Extra ist und nicht gesondert berechnet wird, nach den 60 Tagen, die das italienische Gesetz vorschreibt. Die Zuchttiere sind auf L2HGA und HC (Gen HSF4) getestet, die aktiven Zuchthündinnen zusätzlich auf degenerative Myelopathie (Gen SOD1), und die Laborbefunde &mdash; mit der Mikrochipnummer des Hundes darauf &mdash; sind auf der Website veröffentlicht und können heruntergeladen werden, ohne dass man danach fragen muss.</p>
 
   <p><strong>Wir haben nicht das ganze Jahr über Welpen.</strong> Ein Wurf, gelegentlich zwei, manchmal keiner. Wenn Sie uns zu einem Zeitpunkt schreiben, an dem es keine gibt, lautet die Antwort, dass es keine gibt: wir bieten Ihnen nicht den Welpen eines Bekannten an und drängen Sie nicht zu einem künftigen Wurf.</p>
 
