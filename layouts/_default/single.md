@@ -17,7 +17,7 @@
 {{- $c := .Params.custom_content | default "" -}}
 {{- if not $c }}{{ $c = .Content }}{{ end -}}
 {{- $c = replace $c "<!--CUCCIOLATE-->" (partial "cucciolate.html" (dict "p" .)) -}}
-{{- $c = replace $c "<!--ULTIMA-CUCCIOLATA-->" (partial "ultima-cucciolata-scheda.html" .) -}}
+{{- $c = replace $c "<!--ULTIMA-CUCCIOLATA-->" (cond (partial "ultima-cucciolata-doppia.html" .) "" (partial "ultima-cucciolata-scheda.html" .)) -}}
 {{- range $i, $m := (findRE `<!--ESPOSIZIONI(:[A-Za-z0-9_-]+)?-->` $c) -}}
 {{- $c = replace $c $m (partial "esposizioni.html" (dict "p" $ "k" (replaceRE `^<!--ESPOSIZIONI:?([A-Za-z0-9_-]*)-->$` "$1" $m) "first" false)) -}}
 {{- end -}}

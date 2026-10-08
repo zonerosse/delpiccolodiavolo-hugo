@@ -18,7 +18,10 @@
              alt: "…"
      Ogni riga che manca semplicemente non compare (es. pagine scritte dal
      gestionale senza `scheda:`): restano data, stato e la foto `image`.
-     Scelte di Paolo: niente prenotazioni, niente riquadro di contatto. */ -}}
+     Scelte di Paolo: niente prenotazioni, niente riquadro di contatto.
+     Se la stessa cucciolata è già fra le schede del gestionale (<!--CUCCIOLATE-->) la sezione
+     resta nascosta (ultima-cucciolata-doppia.html); lo script di cucciolate.html la mostra o la
+     nasconde di nuovo con i dati in automatico del gestionale. */ -}}
 {{- $lang := .Site.Language.Lang -}}
 {{- $t := dict
   "lab" "L'ultima cucciolata"
@@ -68,6 +71,7 @@
   "progUrl" "wuerfe-staffordshire-bull-terrier/"
 -}}
 {{- end -}}
+{{- $doppia := partial "ultima-cucciolata-doppia.html" . -}}
 {{- with .Site.GetPage "/diario-allevamento" -}}
 {{- range first 1 .RegularPages.ByDate.Reverse -}}
 {{- $s := .Params.scheda | default dict -}}
@@ -81,7 +85,7 @@
 {{- $foto := $s.foto -}}
 {{- if not $foto }}{{ with .Params.image }}{{ $foto = slice (dict "src" . "alt" ($.Params.image_alt | default "")) }}{{ end }}{{ end -}}
 {{- $video := cond (gt (len (.Params.video | default slice)) 0) (index $t "video") "" -}}
-<section class="section" style="background:linear-gradient(135deg,rgba(201,162,39,0.10),rgba(92,74,58,0.05));">
+<section class="section ultima-cu" data-date="{{ .Date.Format "2006-01-02" }}"{{ if $doppia }} hidden{{ end }} style="background:linear-gradient(135deg,rgba(201,162,39,0.10),rgba(92,74,58,0.05));">
 <div class="section-inner">
 <span class="section-label">{{ index $t "lab" }}</span>
 <h2 class="section-title">{{ index $t "h2" }}</h2>
