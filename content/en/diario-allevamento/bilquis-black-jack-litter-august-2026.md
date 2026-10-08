@@ -24,7 +24,7 @@ annuncio: "August 2026 litter: 8 black puppies"
 stato: "completa"
 scheda:
   madre: "Bilquis Goddess Diabhal, Italian Champion ENCI, 4th at the World Dog Show"
-  padre: "Black Jack di Casa Giacalone, black male born in April 2025"
+  padre: "Black Jack di Casa Giacalone"
   maschi: 4
   femmine: 4
   colori: "black, and black brindle & white"

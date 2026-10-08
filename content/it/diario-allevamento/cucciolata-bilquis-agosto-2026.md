@@ -24,7 +24,7 @@ annuncio: "Cucciolata di agosto 2026, cuccioli neri"
 stato: "completa"
 scheda:
   madre: "Bilquis Goddess Diabhal, Campionessa Italiana ENCI, 4ª al World Dog Show"
-  padre: "Black Jack di Casa Giacalone, maschio nero nato ad aprile 2025"
+  padre: "Black Jack di Casa Giacalone"
   maschi: 4
   femmine: 4
   colori: "neri e tigrati neri con bianco"

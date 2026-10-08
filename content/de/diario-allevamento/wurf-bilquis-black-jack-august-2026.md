@@ -24,7 +24,7 @@ annuncio: "Wurf August 2026: 8 schwarze Welpen"
 stato: "completa"
 scheda:
   madre: "Bilquis Goddess Diabhal, Italienische Championin ENCI, 4. Platz bei der World Dog Show"
-  padre: "Black Jack di Casa Giacalone, schwarzer Rüde, geboren im April 2025"
+  padre: "Black Jack di Casa Giacalone"
   maschi: 4
   femmine: 4
   colori: "schwarz sowie schwarz gestromt mit Weiß"
