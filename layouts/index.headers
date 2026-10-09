@@ -9,6 +9,26 @@
   X-Frame-Options: DENY
   Referrer-Policy: strict-origin-when-cross-origin
   Strict-Transport-Security: max-age=31536000; includeSubDomains
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=(), midi=(), browsing-topics=()
+  Content-Security-Policy-Report-Only: default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://gestionale.delpiccolodiavolo.it; font-src 'self'; media-src 'self'; connect-src 'self' https://gestionale.delpiccolodiavolo.it https://script.google.com https://script.googleusercontent.com https://cloudflareinsights.com; frame-src https://www.youtube-nocookie.com; form-action 'self' https://script.google.com https://script.googleusercontent.com; frame-ancestors 'none'; base-uri 'self'; object-src 'none'
+
+# PROTEZIONI DEL BROWSER (ottobre 2026)
+# Permissions-Policy: il sito non usa fotocamera, microfono, posizione,
+# pagamenti, USB e MIDI; li vieta a se stesso e a ogni riquadro esterno.
+# Content-Security-Policy = la "lista degli invitati": da dove il browser
+# puo' caricare codice, immagini, riquadri e dati. Per ora e' in prova
+# ("-Report-Only"): non blocca nulla, segnala solo nella console del browser
+# (F12 -> Console) cosa bloccherebbe. Quando non ci sono piu' segnalazioni si
+# toglie "-Report-Only" e diventa attiva.
+# Invitati (elenco ricavato dal codice del sito):
+#   static.cloudflareinsights.com / cloudflareinsights.com  statistiche Cloudflare Web Analytics
+#   gestionale.delpiccolodiavolo.it  cucciolate ed esposizioni (dati e foto), modulo contatto
+#   script.google.com / script.googleusercontent.com  modulo /contatto/ (Apps Script)
+#   www.youtube-nocookie.com  video del diario
+# Un servizio esterno nuovo (mappa, video da un altro sito, statistiche...)
+# va aggiunto qui, altrimenti con la lista attiva il browser lo blocca.
+# 'unsafe-inline' resta perche' il sito usa molti script e stili scritti
+# dentro le pagine (scelta voluta: niente file CSS esterni).
 
 /images/*
   Cache-Control: public, max-age=2592000

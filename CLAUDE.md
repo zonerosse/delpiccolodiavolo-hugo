@@ -204,6 +204,16 @@ Before working on the site locally, **Fetch/Pull** in GitHub Desktop: the gestio
   (`static/images/cucciolate/<dog-name>-staffordshire-bull-terrier.<ext>`,
   `static/images/diario/<slug>/cuccioli-staffordshire-bull-terrier-<dam>-<sire>-<n>.<ext>`).
 
+## Browser protections: Permissions-Policy and the guest list (CSP), October 2026
+- `layouts/index.headers` sends `Permissions-Policy` (camera, microphone, geolocation, payment, usb, midi, topics all off)
+  and `Content-Security-Policy-Report-Only`, the "guest list" of external hosts the browser may load from.
+- Report-only phase: nothing is blocked, violations only show in the browser console (F12 → Console). When pages show no
+  CSP warnings, rename the header to `Content-Security-Policy` (Paolo decides when).
+- Allowed guests: `static.cloudflareinsights.com` + `cloudflareinsights.com` (Web Analytics), `gestionale.delpiccolodiavolo.it`
+  (cucciolate/esposizioni data and photos, contact form), `script.google.com` + `script.googleusercontent.com` (contact form),
+  `www.youtube-nocookie.com` (diary videos). **Any new external service (map, video host, widget, font) must be added there**,
+  or the active policy will block it. `'unsafe-inline'` stays: the site relies on inline scripts and styles by design.
+
 ## WhatsApp buttons (October 2026)
 - Every WhatsApp link on the site points to `/wa/<number>?text=…`, never straight to `https://wa.me/`. `functions/wa/[[path]].js`
   (Cloudflare Pages Function) logs the tap in the management app (`gestionale.delpiccolodiavolo.it/api/public/walog`,
