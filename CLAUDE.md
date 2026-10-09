@@ -206,9 +206,9 @@ Before working on the site locally, **Fetch/Pull** in GitHub Desktop: the gestio
 
 ## Browser protections: Permissions-Policy and the guest list (CSP), October 2026
 - `layouts/index.headers` sends `Permissions-Policy` (camera, microphone, geolocation, payment, usb, midi, topics all off)
-  and `Content-Security-Policy-Report-Only`, the "guest list" of external hosts the browser may load from.
-- Report-only phase: nothing is blocked, violations only show in the browser console (F12 → Console). When pages show no
-  CSP warnings, rename the header to `Content-Security-Policy` (Paolo decides when).
+  and `Content-Security-Policy`, the "guest list" of external hosts the browser may load from.
+- Active since 09/10/2026, after a report-only test (Diary, Puppies, Palmarès clean in incognito; warnings in Paolo's normal
+  Chrome came from extensions, not the site). To go back to test mode, rename the header to `Content-Security-Policy-Report-Only`.
 - Allowed guests: `static.cloudflareinsights.com` + `cloudflareinsights.com` (Web Analytics), `gestionale.delpiccolodiavolo.it`
   (cucciolate/esposizioni data and photos, contact form), `script.google.com` + `script.googleusercontent.com` (contact form),
   `www.youtube-nocookie.com` (diary videos). **Any new external service (map, video host, widget, font) must be added there**,
