@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Blog - Articles & Guides"
 date: 2025-12-28
-lastmod: 2026-10-05
+lastmod: 2026-10-11
 tipoPagina: "CollectionPage"
 translationKey: "blog"
 description: "Guides on puppies, health, breed standard, bloodlines and daily life with the Staffordshire Bull Terrier, written by the Del Piccolo Diavolo kennel in Italy."
@@ -308,9 +308,19 @@ custom_content: |
   <section class="section" id="health" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Category</span>
-  <h2 class="section-title">Health and Wellness <span class="count">(5)</span></h2>
+  <h2 class="section-title">Health and Wellness <span class="count">(6)</span></h2>
 
   <div class="blog-grid">
+  <article class="blog-card">
+  <a href="/en/how-long-staffordshire-bull-terrier-lives/" title="Read: How long does a Staffordshire Bull Terrier live"><div class="blog-card-thumb"><img src="/images/blog/icone/quanto-vive-staffordshire-bull-terrier.webp" alt="How long does a Staffordshire Bull Terrier live" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">11 Oct 2026</span><span>•</span><span class="cat">Health</span></div>
+  <h3><a href="/en/how-long-staffordshire-bull-terrier-lives/" title="Read: How long does a Staffordshire Bull Terrier live">How Long Does a Staffordshire Bull Terrier Live?</a></h3>
+  <p>12-14 years on average, our own dogs aged 9, 10 and 12, and why weight matters most.</p>
+  <a class="read" href="/en/how-long-staffordshire-bull-terrier-lives/" title="Read full article" aria-label="Read the article: How Long Does a Staffordshire Bull Terrier Live?">Read<span class="sr-only">: How Long Does a Staffordshire Bull Terrier Live?</span> →</a>
+  </div>
+  </article>
+
   <article class="blog-card">
   <a href="/en/boas-staffordshire-bull-terrier-breathing/" title="Read: BOAS and Breathing"><div class="blog-card-thumb"><img src="/images/blog/icone/boas-staffordshire-bull-terrier-respirazione.webp" alt="BOAS Brachycephalic Syndrome Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">

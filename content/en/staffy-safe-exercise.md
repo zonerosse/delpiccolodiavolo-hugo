@@ -1,7 +1,7 @@
 ---
 title: "Safe Exercise for Staffordshire Bull Terrier"
 date: 2024-06-20
-lastmod: 2026-10-06
+lastmod: 2026-10-11
 translationKey: "esercizio"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -48,7 +48,7 @@ custom_content: |
   <p>The <strong>Staffordshire Bull Terrier</strong> was historically selected as a working dog, with powerful muscles, stamina and a great deal of energy. That genetic inheritance needs a proper outlet through daily physical activity.</p>
   <p>Regular, appropriate exercise gives:</p>
   <ul>
-  <li><strong>Physical health:</strong> it keeps the weight right, the muscles toned, the heart and lungs efficient</li>
+  <li><strong>Physical health:</strong> it keeps the weight right, the muscles toned, the heart and lungs efficient; and the right weight is <a href="/en/how-long-staffordshire-bull-terrier-lives/" title="How long does a Staffordshire Bull Terrier live">the strongest lever for a longer life</a></li>
   <li><strong>Mental balance:</strong> it prevents boredom, anxiety, destructive behaviour and hyperactivity</li>
   <li><strong>Socialisation:</strong> outings are chances to meet people and other dogs</li>
   <li><strong>The bond with the owner:</strong> active time together strengthens the relationship</li>

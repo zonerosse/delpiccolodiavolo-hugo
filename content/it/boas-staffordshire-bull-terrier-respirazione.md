@@ -1,7 +1,7 @@
 ---
 title: "BOAS nello Staffordshire Bull Terrier: Perché la Respirazione È Fondamentale"
 date: 2025-12-28
-lastmod: 2026-10-05
+lastmod: 2026-10-11
 titleSeo: "BOAS nello Staffordshire Bull Terrier: la respirazione"
 translationKey: "boas"
 articolo: true
@@ -168,7 +168,7 @@ custom_content: |
   <li><strong>Tolleranza all'esercizio</strong> – capacità di fare attività fisica senza difficoltà respiratorie</li>
   </ul>
 
-  <p>Non alleveremo mai da soggetti che mostrano segni di BOAS, indipendentemente da quanto siano belli o titolati. La salute viene prima dei premi.</p>
+  <p>Non alleveremo mai da soggetti che mostrano segni di BOAS, indipendentemente da quanto siano belli o titolati. La salute viene prima dei premi. Una respirazione corretta, del resto, non è solo benessere quotidiano: è uno dei fattori che allungano la vita, come vediamo nella guida su <a href="/quanto-vive-staffordshire-bull-terrier/" title="Quanto vive lo Staffordshire Bull Terrier">quanto vive lo Staffordshire Bull Terrier</a>.</p>
   </div>
   </div>
   </section>

@@ -2,7 +2,7 @@
 title: "Test Genetici L2-HGA, HC (HSF4) e DM (SOD1) Staffordshire Bull Terrier"
 titleSeo: "Test genetici Staffy: L2-HGA, HC (HSF4) e DM (SOD1)"
 date: 2025-11-20
-lastmod: 2026-10-05
+lastmod: 2026-10-11
 translationKey: "test-genetici"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -213,7 +213,7 @@ custom_content: |
   </tbody>
   </table>
 
-  <p>L'ultima riga è la ragione per cui i test servono: due cani sani, accoppiati fra loro, producono un cucciolo malato su quattro.</p>
+  <p>L'ultima riga è la ragione per cui i test servono: due cani sani, accoppiati fra loro, producono un cucciolo malato su quattro. Partire da genitori sani ed esenti è anche il primo motivo per cui un cane <a href="/quanto-vive-staffordshire-bull-terrier/" title="Quanto vive lo Staffordshire Bull Terrier">arriva a vivere a lungo</a>.</p>
 
   <p>Le due righe centrali meritano una precisazione, perché sono quelle su cui si discute. Tecnicamente non producono cuccioli malati, ed è il motivo per cui qualcuno le considera accettabili. Ma lasciano in circolazione cuccioli portatori che finiscono in famiglie, e che un domani potrebbero riprodursi con un altro portatore: il problema non viene risolto, viene spostato di una generazione e affidato a qualcun altro. <strong>Nell'allevamento Del Piccolo Diavolo i portatori non entrano in riproduzione</strong>, e l'unico accoppiamento che consideriamo è il primo della tabella.</p>
   <!--/BLOCCO:6-->

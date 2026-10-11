@@ -1,7 +1,7 @@
 ---
 title: "Esercizio Sicuro per Staffordshire Bull Terrier"
 date: 2024-06-20
-lastmod: 2026-10-06
+lastmod: 2026-10-11
 translationKey: "esercizio"
 articolo: true
 image: "/images/blog/esercizio-hero.webp"
@@ -58,7 +58,7 @@ custom_content: |
   <p>Un esercizio regolare e appropriato garantisce:</p>
 
   <ul>
-  <li><strong>Salute fisica:</strong> mantiene peso forma, muscoli tonici, cuore e polmoni efficienti</li>
+  <li><strong>Salute fisica:</strong> mantiene peso forma, muscoli tonici, cuore e polmoni efficienti; e il peso forma è <a href="/quanto-vive-staffordshire-bull-terrier/" title="Quanto vive lo Staffordshire Bull Terrier">la leva che allunga di più la vita</a></li>
   <li><strong>Equilibrio mentale:</strong> previene noia, ansia, comportamenti distruttivi e iperattività</li>
   <li><strong>Socializzazione:</strong> le uscite sono occasioni per incontrare persone e altri cani</li>
   <li><strong>Legame con il proprietario:</strong> il tempo attivo insieme rafforza la relazione</li>

@@ -2,7 +2,7 @@
 title: "Genetic Testing L2-HGA, HC (HSF4) and DM (SOD1) for Staffordshire Bull Terrier"
 titleSeo: "Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)"
 date: 2025-11-20
-lastmod: 2026-10-05
+lastmod: 2026-10-11
 translationKey: "test-genetici"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -149,7 +149,7 @@ custom_content: |
 
   <p>The two middle rows deserve a note, because they are the ones people argue about. Technically they produce no affected puppies, which is why some breeders consider them acceptable. But they leave carrier puppies in circulation, in families that may one day breed them with another carrier: the problem is not solved, it is moved one generation down and handed to someone else. <strong>At Del Piccolo Diavolo carriers are not bred</strong>, and the only mating we consider is the first row of the table.</p>
 
-  <p>The last row is the whole reason the tests exist: two healthy dogs, mated together, produce one sick puppy in four.</p>
+  <p>The last row is the whole reason the tests exist: two healthy dogs, mated together, produce one sick puppy in four. Starting from healthy, clear parents is also the first reason a dog <a href="/en/how-long-staffordshire-bull-terrier-lives/" title="How long does a Staffordshire Bull Terrier live">goes on to live a long life</a>.</p>
 
   <!--BLOCCO:8-->
   <h2>Testing by parentage</h2>

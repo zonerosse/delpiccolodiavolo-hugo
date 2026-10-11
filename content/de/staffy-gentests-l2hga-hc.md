@@ -2,7 +2,7 @@
 title: "Gentests L2-HGA, HC (HSF4) und DM (SOD1) für Staffordshire Bull Terrier"
 titleSeo: "Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)"
 date: 2025-11-20
-lastmod: 2026-10-05
+lastmod: 2026-10-11
 translationKey: "test-genetici"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -142,7 +142,7 @@ custom_content: |
 
   <p>Die beiden mittleren Zeilen verdienen eine Anmerkung, denn über sie wird gestritten. Technisch bringen sie keine kranken Welpen hervor, weshalb manche Züchter sie für vertretbar halten. Aber sie lassen Träger-Welpen in Umlauf, in Familien, die sie eines Tages mit einem anderen Träger verpaaren könnten: das Problem ist nicht gelöst, es wird eine Generation weitergereicht und jemand anderem überlassen. <strong>Bei Del Piccolo Diavolo wird mit Trägern nicht gezüchtet</strong>, und die einzige Verpaarung, die wir in Betracht ziehen, ist die erste Zeile der Tabelle.</p>
 
-  <p>Die letzte Zeile ist der ganze Grund, warum es die Tests gibt: zwei gesunde Hunde, miteinander verpaart, bringen einen kranken Welpen von vier hervor.</p>
+  <p>Die letzte Zeile ist der ganze Grund, warum es die Tests gibt: zwei gesunde Hunde, miteinander verpaart, bringen einen kranken Welpen von vier hervor. Von gesunden, freien Eltern auszugehen ist auch der erste Grund, warum ein Hund <a href="/de/wie-alt-wird-ein-staffordshire-bull-terrier/" title="Wie alt wird ein Staffordshire Bull Terrier">ein langes Leben erreicht</a>.</p>
 
   <!--BLOCCO:8-->
   <h2>Frei durch Abstammung</h2>

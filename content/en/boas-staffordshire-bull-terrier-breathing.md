@@ -1,7 +1,7 @@
 ---
 title: "BOAS in Staffordshire Bull Terriers: Why Breathing Matters"
 date: 2025-12-28
-lastmod: 2026-10-05
+lastmod: 2026-10-11
 titleSeo: "BOAS in the Staffordshire Bull Terrier: breathing"
 translationKey: "boas"
 articolo: true
@@ -168,7 +168,7 @@ custom_content: |
   <li><strong>Exercise tolerance</strong> – ability to be physically active without respiratory difficulties</li>
   </ul>
 
-  <p>We will never breed from dogs showing signs of BOAS, regardless of how beautiful or titled they are. Health comes before prizes.</p>
+  <p>We will never breed from dogs showing signs of BOAS, regardless of how beautiful or titled they are. Health comes before prizes. Good breathing, after all, is not just daily comfort: it is one of the factors that lengthen life, as we discuss in the guide on <a href="/en/how-long-staffordshire-bull-terrier-lives/" title="How long does a Staffordshire Bull Terrier live">how long a Staffordshire Bull Terrier lives</a>.</p>
   </div>
   </div>
   </section>

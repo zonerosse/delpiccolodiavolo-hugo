@@ -50,6 +50,7 @@ MAP={ # slug IT: (group, icon)
 'standard-tipicita-morfologia':('r','ruler'),
 'test-genetici-l2hga-hc-staffy':('s','dna'),
 'faq-sullo-staffordshire-bull-terrier':('k','message-circle-question'),
+'quanto-vive-staffordshire-bull-terrier':('s','calendar-heart'),
 }
 def b64f(p): return base64.b64encode(open(p,'rb').read()).decode()
 F='/tmp/f'

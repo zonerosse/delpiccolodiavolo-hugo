@@ -1,7 +1,7 @@
 ---
 title: "BOAS beim Staffordshire Bull Terrier: Warum die Atmung entscheidend ist"
 date: 2025-12-28
-lastmod: 2026-10-05
+lastmod: 2026-10-11
 titleSeo: "BOAS beim Staffordshire Bull Terrier: die Atmung"
 translationKey: "boas"
 articolo: true
@@ -168,7 +168,7 @@ custom_content: |
   <li><strong>Belastungstoleranz</strong> – Fähigkeit, körperlich aktiv zu sein ohne Atembeschwerden</li>
   </ul>
 
-  <p>Wir werden niemals von Hunden züchten, die Anzeichen von BOAS zeigen, unabhängig davon, wie schön oder tituliert sie sind. Gesundheit steht vor Preisen.</p>
+  <p>Wir werden niemals von Hunden züchten, die Anzeichen von BOAS zeigen, unabhängig davon, wie schön oder tituliert sie sind. Gesundheit steht vor Preisen. Eine korrekte Atmung ist im Übrigen nicht nur tägliches Wohlbefinden: sie ist einer der Faktoren, die das Leben verlängern, wie wir im Ratgeber dazu zeigen, <a href="/de/wie-alt-wird-ein-staffordshire-bull-terrier/" title="Wie alt wird ein Staffordshire Bull Terrier">wie alt ein Staffordshire Bull Terrier wird</a>.</p>
   </div>
   </div>
   </section>

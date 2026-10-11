@@ -1,7 +1,7 @@
 ---
 title: "Sichere Bewegung für Staffordshire Bull Terrier"
 date: 2024-06-20
-lastmod: 2026-10-06
+lastmod: 2026-10-11
 translationKey: "esercizio"
 articolo: true
 image: "/images/blog/salute-1.webp"
@@ -46,7 +46,7 @@ custom_content: |
   <p>Der <strong>Staffordshire Bull Terrier</strong> wurde historisch als Arbeitshund selektiert, mit kräftiger Muskulatur, Ausdauer und viel Energie. Dieses Erbe braucht ein passendes Ventil in täglicher körperlicher Aktivität.</p>
   <p>Regelmäßige, passende Bewegung bringt:</p>
   <ul>
-  <li><strong>Körperliche Gesundheit:</strong> sie hält das Gewicht, die Muskeln straff, Herz und Lunge leistungsfähig</li>
+  <li><strong>Körperliche Gesundheit:</strong> sie hält das Gewicht, die Muskeln straff, Herz und Lunge leistungsfähig; und das richtige Gewicht ist <a href="/de/wie-alt-wird-ein-staffordshire-bull-terrier/" title="Wie alt wird ein Staffordshire Bull Terrier">der stärkste Hebel für ein längeres Leben</a></li>
   <li><strong>Seelisches Gleichgewicht:</strong> sie beugt Langeweile, Angst, Zerstörungswut und Überdrehtheit vor</li>
   <li><strong>Sozialisierung:</strong> die Ausgänge sind Gelegenheiten, Menschen und andere Hunde zu treffen</li>
   <li><strong>Die Bindung zum Halter:</strong> gemeinsame aktive Zeit stärkt die Beziehung</li>
