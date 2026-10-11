@@ -129,7 +129,6 @@ custom_content: |
   </section>
   <!--/BLOCCO:5-->
 
-  <figure class="sezione-foto"><img src="/images/divine-cucciola-tre-mesi.avif" alt="Three-month-old Staffordshire Bull Terrier puppy" width="800" height="1089" loading="lazy" decoding="async"></figure>
   <!--BLOCCO:7-->
   <section class="section">
   <div class="section-inner content-single">
@@ -207,7 +206,6 @@ custom_content: |
   </section>
   <!--/BLOCCO:6-->
 
-  <figure class="sezione-foto"><img src="/images/red.avif" alt="Red Staffordshire Bull Terrier puppy" width="408" height="528" loading="lazy" decoding="async"></figure>
   <!--BLOCCO:10-->
   <section class="section section-alt">
   <div class="section-inner content-single">
