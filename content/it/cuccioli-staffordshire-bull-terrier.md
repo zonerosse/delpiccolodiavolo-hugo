@@ -5,7 +5,6 @@ date: 2025-12-28
 lastmod: 2026-10-11
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
-landing: true
 description: "Cuccioli Staffordshire Bull Terrier a Ostellato (FE). Pedigree ENCI, genitori testati L2HGA e HC con i referti pubblicati sul sito, verificabili da chiunque."
 correlati:
   - url: "/quanto-costa-cucciolo-staffordshire-bull-terrier/"

@@ -5,7 +5,6 @@ date: 2025-12-28
 lastmod: 2026-10-11
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
-landing: true
 description: "Staffordshire Bull Terrier Welpen in Ostellato (FE). ENCI-Ahnentafel, Eltern auf L2HGA und HC getestet, Befunde auf der Website veröffentlicht."
 correlati:
   - url: "/de/staffy-gentests-l2hga-hc/"

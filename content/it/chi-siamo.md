@@ -5,7 +5,6 @@ date: 2025-12-28
 lastmod: 2026-10-11
 tipoPagina: "ProfilePage"
 translationKey: "chi-siamo"
-landing: true
 description: "Chi c'è dietro l'allevamento Del Piccolo Diavolo di Ostellato (FE): Staffordshire Bull Terrier dal 2013, linee Elitebull e Lackyle, test e pedigree ENCI."
 correlati:
   - url: "/palmares-del-piccolo-diavolo/"

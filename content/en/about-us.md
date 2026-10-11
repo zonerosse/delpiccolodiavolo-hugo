@@ -4,7 +4,6 @@ date: 2025-12-28
 lastmod: 2026-10-11
 tipoPagina: "ProfilePage"
 translationKey: "chi-siamo"
-landing: true
 description: "Del Piccolo Diavolo, Staffordshire Bull Terrier kennel in Ostellato (Ferrara), Italy, since 2013: who breeds the dogs, how pairings are chosen, how to visit."
 correlati:
   - url: "/en/palmares/"

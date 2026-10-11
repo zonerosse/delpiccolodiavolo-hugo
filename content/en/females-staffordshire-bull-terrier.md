@@ -5,7 +5,6 @@ date: 2025-12-28
 lastmod: 2026-10-11
 tipoPagina: "CollectionPage"
 translationKey: "femmine"
-landing: true
 description: "Our female Staffordshire Bull Terriers: Bilquis (Top Dog Junior 2023), Queen of California, Croi Olc, Divine, Kennedy, Derry, Cattleya. L2HGA, HC and DM-SOD1 tested."
 slug: "females-staffordshire-bull-terrier"
 custom_content: |

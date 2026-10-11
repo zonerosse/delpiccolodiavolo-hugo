@@ -5,7 +5,6 @@ date: 2025-12-28
 lastmod: 2026-10-11
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
-landing: true
 description: "Le recensioni Google delle famiglie che hanno scelto un cucciolo Del Piccolo Diavolo: esperienze reali, prima e dopo l'affido, ognuna collegata all'originale."
 slug: "recensioni"
 fonti_motivo: "Le recensioni riportate qui sono delle famiglie che hanno accolto un cucciolo dell'allevamento Del Piccolo Diavolo: la fonte è il profilo Google dell'allevamento, collegato da ogni singola recensione, e non esistono altre fonti esterne da citare."
