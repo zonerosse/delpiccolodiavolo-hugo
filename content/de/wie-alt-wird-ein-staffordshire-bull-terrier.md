@@ -117,6 +117,29 @@ custom_content: |
   <!--BLOCCO:5-->
   <section class="section section-alt">
   <div class="section-inner">
+  <span class="section-label">Der alte Hund</span>
+  <h2 class="section-title">Was sich nach zehn Jahren ändert</h2>
+
+  <div class="content-block">
+  <p>Gut zu altern heißt nicht, nicht zu altern. Mit zwölf ist Nutella morgens ein wenig steif — nichts Schlimmes, sie wird nach den ersten Schritten locker — und sie hört weniger: um zu ihr durchzudringen, muss man die Stimme heben. Das sind die normalen Zeichen des Alters, keine Krankheiten, und mit etwas Umsicht nehmen sie der Lebensqualität nichts.</p>
+
+  <p>Ein paar Dinge, die wir tun und die etwas gegen das laufen, was man sonst liest:</p>
+
+  <ul>
+  <li><strong>Sie bleibt beim Futter für erwachsene Hunde.</strong> Das Etikett "Senior" zählt weniger, als man denkt: bei einem gesunden alten Hund macht das <strong>richtige Gewicht</strong> den Unterschied, nicht das Wort auf dem Sack. Ein Hund, der sich weniger bewegt, verbraucht weniger, also reduziert man eher die Portion ein wenig, statt zwangsläufig das Futter zu wechseln.</li>
+  <li><strong>Bewegung wird nicht gestrichen, sondern dosiert.</strong> Die Morgensteifigkeit bessert sich gerade dadurch, dass man in Bewegung bleibt, mit regelmäßigen Spaziergängen und ohne ruckartige Belastung; einen alten Hund ganz zu stoppen macht ihn steifer.</li>
+  <li><strong>Nachlassendes Gehör ist keine Tragödie.</strong> Der Hund gleicht es mit Sehen und Vibrationen aus: man gewöhnt sich daran, sich sehen zu lassen, bevor man ihn berührt, und eine Geste statt der Stimme zu verwenden. Er leidet nicht, er passt sich an.</li>
+  </ul>
+
+  <p>Und dann ist da das, was kein Tierarzt verschreibt: Nutella lebt mit den Katzen, und sie zu jagen und ihnen Paroli zu bieten hält sie wach, im Körper und im Kopf. Ein alter Hund, der noch einen Grund hat, sich zu bewegen, und etwas zu tun hat, altert langsamer als einer, der auf dem Sofa gelassen wird. Gesellschaft, Spiel und ein Grund aufzustehen gehören ebenso zur Langlebigkeit wie der Napf.</p>
+  </div>
+  </div>
+  </section>
+  <!--/BLOCCO:5-->
+
+  <!--BLOCCO:6-->
+  <section class="section section-alt">
+  <div class="section-inner">
   <span class="section-label">Häufige Fragen</span>
   <h2 class="section-title">Die Fragen, die uns zur Langlebigkeit gestellt werden</h2>
 
@@ -149,9 +172,9 @@ custom_content: |
   </div>
   </div>
   </section>
-  <!--/BLOCCO:5-->
+  <!--/BLOCCO:6-->
 
-  <!--BLOCCO:6-->
+  <!--BLOCCO:7-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Quellen</span>
@@ -166,13 +189,13 @@ custom_content: |
   </div>
   </div>
   </section>
-  <!--/BLOCCO:6-->
+  <!--/BLOCCO:7-->
 
-  <!--BLOCCO:7-->
+  <!--BLOCCO:8-->
   <section class="cta-section">
   <h2>Möchten Sie einen Hund, der Sie lange begleitet?</h2>
   <p>Sprechen wir über unsere Zuchthunde, ihr Alter und die Gesundheit der Linien, aus denen unsere Welpen stammen.</p>
   <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20habe%20den%20Artikel%20%C3%BCber%20Langlebigkeit%20gelesen%20und%20h%C3%A4tte%20gern%20Informationen" class="btn" title="Kontakt über WhatsApp">Schreiben Sie uns auf WhatsApp</a>
   </section>
-  <!--/BLOCCO:7-->
+  <!--/BLOCCO:8-->
 ---

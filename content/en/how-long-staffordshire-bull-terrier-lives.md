@@ -117,6 +117,29 @@ custom_content: |
   <!--BLOCCO:5-->
   <section class="section section-alt">
   <div class="section-inner">
+  <span class="section-label">The senior dog</span>
+  <h2 class="section-title">What changes after ten</h2>
+
+  <div class="content-block">
+  <p>Ageing well does not mean not ageing. At twelve, Nutella is a little stiff in the morning — nothing much, she loosens up after the first few steps — and she hears less: to get through to her you have to raise your voice. These are the normal signs of age, not illnesses, and with a little care they take nothing away from quality of life.</p>
+
+  <p>A couple of things we do, slightly against what you usually read:</p>
+
+  <ul>
+  <li><strong>She stays on adult kibble.</strong> The "senior" label matters less than people think: for a healthy old dog the thing that really makes the difference is the <strong>right weight</strong>, not the word on the bag. A dog that moves less burns less, so if anything you reduce the portion a little, rather than necessarily changing the food.</li>
+  <li><strong>Movement is not removed, it is measured.</strong> Morning stiffness improves precisely by keeping moving, with regular walks and no sudden efforts; stopping an old dog altogether makes it stiffer.</li>
+  <li><strong>Fading hearing is not a tragedy.</strong> The dog compensates with sight and vibration: you get used to letting it see you before you touch it, and to using a gesture instead of your voice. It does not suffer, it adapts.</li>
+  </ul>
+
+  <p>And then there is the thing no vet prescribes: Nutella lives with the cats, and chasing them and keeping up with them keeps her sharp in body and mind. An old dog that still has a reason to move and something to do ages more slowly than one left on the sofa. Company, play and a reason to get up are as much a part of longevity as the food bowl.</p>
+  </div>
+  </div>
+  </section>
+  <!--/BLOCCO:5-->
+
+  <!--BLOCCO:6-->
+  <section class="section section-alt">
+  <div class="section-inner">
   <span class="section-label">Frequently asked questions</span>
   <h2 class="section-title">The questions we get about longevity</h2>
 
@@ -149,9 +172,9 @@ custom_content: |
   </div>
   </div>
   </section>
-  <!--/BLOCCO:5-->
+  <!--/BLOCCO:6-->
 
-  <!--BLOCCO:6-->
+  <!--BLOCCO:7-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Sources</span>
@@ -166,13 +189,13 @@ custom_content: |
   </div>
   </div>
   </section>
-  <!--/BLOCCO:6-->
+  <!--/BLOCCO:7-->
 
-  <!--BLOCCO:7-->
+  <!--BLOCCO:8-->
   <section class="cta-section">
   <h2>Want a dog that will be with you for a long time?</h2>
   <p>Let's talk about our breeding dogs, their age, and the health of the lines our puppies come from.</p>
   <a href="/wa/393924635584?text=Hi%20Paolo%2C%20I%20read%20the%20article%20on%20longevity%20and%20I'd%20like%20some%20information" class="btn" title="Contact us on WhatsApp">Message us on WhatsApp</a>
   </section>
-  <!--/BLOCCO:7-->
+  <!--/BLOCCO:8-->
 ---

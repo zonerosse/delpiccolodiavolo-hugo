@@ -117,6 +117,29 @@ custom_content: |
   <!--BLOCCO:5-->
   <section class="section section-alt">
   <div class="section-inner">
+  <span class="section-label">Il cane anziano</span>
+  <h2 class="section-title">Cosa cambia dopo i dieci anni</h2>
+
+  <div class="content-block">
+  <p>Invecchiare bene non vuol dire non invecchiare. Nutella, a dodici anni, al mattino è un po' irrigidita — poca cosa, si scioglie dopo i primi passi — e sente meno: per farsi ascoltare bisogna alzare la voce. Sono i segni normali dell'età, non malattie, e con qualche accortezza non tolgono nulla alla qualità della vita.</p>
+
+  <p>Un paio di cose che facciamo, e che vanno un po' controcorrente rispetto a quello che si legge in giro:</p>
+
+  <ul>
+  <li><strong>Resta a crocchette per adulti.</strong> L'etichetta "senior" conta meno di quanto si creda: per un cane anziano in buona salute la cosa che fa davvero la differenza è il <strong>peso giusto</strong>, non la scritta sul sacco. Un cane che si muove di meno consuma di meno, quindi semmai si riduce un po' la porzione, non si cambia cibo per forza.</li>
+  <li><strong>Il movimento non si toglie, si dosa.</strong> La rigidità mattutina migliora proprio continuando a muoversi, con passeggiate regolari e senza strappi; fermare del tutto un cane anziano lo irrigidisce di più.</li>
+  <li><strong>L'udito che cala non è una tragedia.</strong> Il cane compensa con la vista e le vibrazioni: ci si abitua a farsi vedere prima di toccarlo e a usare qualche gesto al posto della voce. Non soffre, si adatta.</li>
+  </ul>
+
+  <p>E poi c'è la cosa che nessun veterinario prescrive: Nutella vive con i gatti, e rincorrerli e tenere loro testa la tiene sveglia nel corpo e nella testa. Un cane anziano che ha ancora un motivo per muoversi e qualcosa da fare invecchia più lentamente di uno lasciato sul divano. La compagnia, il gioco e una ragione per alzarsi sono parte della longevità quanto la ciotola.</p>
+  </div>
+  </div>
+  </section>
+  <!--/BLOCCO:5-->
+
+  <!--BLOCCO:6-->
+  <section class="section section-alt">
+  <div class="section-inner">
   <span class="section-label">Domande frequenti</span>
   <h2 class="section-title">Le domande che ci fanno sulla longevità</h2>
 
@@ -149,9 +172,9 @@ custom_content: |
   </div>
   </div>
   </section>
-  <!--/BLOCCO:5-->
+  <!--/BLOCCO:6-->
 
-  <!--BLOCCO:6-->
+  <!--BLOCCO:7-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Fonti</span>
@@ -166,13 +189,13 @@ custom_content: |
   </div>
   </div>
   </section>
-  <!--/BLOCCO:6-->
+  <!--/BLOCCO:7-->
 
-  <!--BLOCCO:7-->
+  <!--BLOCCO:8-->
   <section class="cta-section">
   <h2>Vuoi un cane che ti accompagni a lungo?</h2>
   <p>Parliamo dei nostri riproduttori, della loro età e della salute delle linee da cui nascono i cuccioli.</p>
   <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20ho%20letto%20l'articolo%20sulla%20longevit%C3%A0%20e%20vorrei%20qualche%20informazione" class="btn" title="Contattaci su WhatsApp">Scrivici su WhatsApp</a>
   </section>
-  <!--/BLOCCO:7-->
+  <!--/BLOCCO:8-->
 ---
