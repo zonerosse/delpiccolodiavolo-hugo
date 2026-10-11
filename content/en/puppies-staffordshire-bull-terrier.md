@@ -86,6 +86,7 @@ custom_content: |
   <!--CUCCIOLATE-->
   <!--/BLOCCO:4-->
 
+  <figure class="sezione-foto"><img src="/images/cuccioli-bilquis-nati-1.webp" alt="Staffordshire Bull Terrier puppies at Del Piccolo Diavolo" width="435" height="480" loading="lazy" decoding="async"></figure>
   <!--BLOCCO:5-->
   <section class="section section-alt">
   <div class="section-inner">
@@ -129,6 +130,7 @@ custom_content: |
   </section>
   <!--/BLOCCO:5-->
 
+  <figure class="sezione-foto"><img src="/images/primo-piano-cucciolo.avif" alt="Close-up of a Staffordshire Bull Terrier puppy" width="639" height="600" loading="lazy" decoding="async"></figure>
   <!--BLOCCO:7-->
   <section class="section">
   <div class="section-inner content-single">
@@ -143,6 +145,7 @@ custom_content: |
   </section>
   <!--/BLOCCO:7-->
 
+  <figure class="sezione-foto"><img src="/images/cuccioli-bilquis-nati-2.webp" alt="Newborn puppies in the whelping box" width="468" height="480" loading="lazy" decoding="async"></figure>
   <!--BLOCCO:6-->
   <section class="section section-alt">
   <div class="section-inner content-single">
@@ -206,6 +209,7 @@ custom_content: |
   </section>
   <!--/BLOCCO:6-->
 
+  <figure class="sezione-foto"><img src="/images/cucciolo-con-cavallo.avif" alt="Staffordshire Bull Terrier puppy" width="491" height="600" loading="lazy" decoding="async"></figure>
   <!--BLOCCO:10-->
   <section class="section section-alt">
   <div class="section-inner content-single">
