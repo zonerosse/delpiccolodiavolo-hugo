@@ -86,7 +86,6 @@ custom_content: |
   <!--CUCCIOLATE-->
   <!--/BLOCCO:4-->
 
-  <figure class="sezione-foto"><img src="/images/cuccioli-bilquis-nati-1.webp" alt="Staffordshire-Bull-Terrier-Welpen bei Del Piccolo Diavolo" width="435" height="480" loading="lazy" decoding="async"></figure>
   <!--BLOCCO:5-->
   <section class="section section-alt">
   <div class="section-inner">
@@ -130,7 +129,7 @@ custom_content: |
   </section>
   <!--/BLOCCO:5-->
 
-  <figure class="sezione-foto"><img src="/images/primo-piano-cucciolo.avif" alt="Nahaufnahme eines Staffordshire-Bull-Terrier-Welpen" width="639" height="600" loading="lazy" decoding="async"></figure>
+  <figure class="sezione-foto"><img src="/images/divine-cucciola-tre-mesi.avif" alt="Drei Monate alter Staffordshire-Bull-Terrier-Welpe" width="800" height="1089" loading="lazy" decoding="async"></figure>
   <!--BLOCCO:7-->
   <section class="section">
   <div class="section-inner content-single">
@@ -145,7 +144,6 @@ custom_content: |
   </section>
   <!--/BLOCCO:7-->
 
-  <figure class="sezione-foto"><img src="/images/cuccioli-bilquis-nati-2.webp" alt="Neugeborene Welpen in der Wurfkiste" width="468" height="480" loading="lazy" decoding="async"></figure>
   <!--BLOCCO:6-->
   <section class="section section-alt">
   <div class="section-inner content-single">
@@ -209,7 +207,7 @@ custom_content: |
   </section>
   <!--/BLOCCO:6-->
 
-  <figure class="sezione-foto"><img src="/images/cucciolo-con-cavallo.avif" alt="Staffordshire-Bull-Terrier-Welpe" width="491" height="600" loading="lazy" decoding="async"></figure>
+  <figure class="sezione-foto"><img src="/images/red.avif" alt="Roter Staffordshire-Bull-Terrier-Welpe" width="408" height="528" loading="lazy" decoding="async"></figure>
   <!--BLOCCO:10-->
   <section class="section section-alt">
   <div class="section-inner content-single">

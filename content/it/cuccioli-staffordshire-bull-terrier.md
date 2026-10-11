@@ -86,7 +86,6 @@ custom_content: |
   <!--CUCCIOLATE-->
   <!--/BLOCCO:4-->
 
-  <figure class="sezione-foto"><img src="/images/cuccioli-bilquis-nati-1.webp" alt="Cuccioli di Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo" width="435" height="480" loading="lazy" decoding="async"></figure>
   <!--BLOCCO:5-->
   <section class="section section-alt">
   <div class="section-inner">
@@ -111,7 +110,6 @@ custom_content: |
   </section>
   <!--/BLOCCO:5-->
 
-  <figure class="sezione-foto"><img src="/images/cuccioli-bilquis-nati-2.webp" alt="Cuccioli appena nati nella cassa parto" width="468" height="480" loading="lazy" decoding="async"></figure>
   <!--BLOCCO:6-->
   <section class="section section-alt">
   <div class="section-inner content-single">
@@ -175,7 +173,7 @@ custom_content: |
   </section>
   <!--/BLOCCO:6-->
 
-  <figure class="sezione-foto"><img src="/images/primo-piano-cucciolo.avif" alt="Cucciolo di Staffordshire Bull Terrier in primo piano" width="639" height="600" loading="lazy" decoding="async"></figure>
+  <figure class="sezione-foto"><img src="/images/divine-cucciola-tre-mesi.avif" alt="Cucciola di Staffordshire Bull Terrier di tre mesi" width="800" height="1089" loading="lazy" decoding="async"></figure>
   <!--BLOCCO:7-->
   <section class="section">
   <div class="section-inner">
@@ -305,7 +303,7 @@ custom_content: |
   </section>
   <!--/BLOCCO:9-->
 
-  <figure class="sezione-foto"><img src="/images/cucciolo-con-cavallo.avif" alt="Cucciolo di Staffordshire Bull Terrier" width="491" height="600" loading="lazy" decoding="async"></figure>
+  <figure class="sezione-foto"><img src="/images/red.avif" alt="Cucciolo rosso di Staffordshire Bull Terrier" width="408" height="528" loading="lazy" decoding="async"></figure>
   <!--BLOCCO:10-->
   <section class="section section-alt">
   <div class="section-inner content-single">
