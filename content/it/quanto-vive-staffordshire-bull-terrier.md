@@ -131,7 +131,7 @@ custom_content: |
   <li><strong>L'udito che cala non è una tragedia.</strong> Il cane compensa con la vista e le vibrazioni: ci si abitua a farsi vedere prima di toccarlo e a usare qualche gesto al posto della voce. Non soffre, si adatta.</li>
   </ul>
 
-  <p>E poi c'è la cosa che nessun veterinario prescrive: Nutella vive con i gatti, e rincorrerli e tenere loro testa la tiene sveglia nel corpo e nella testa. Un cane anziano che ha ancora un motivo per muoversi e qualcosa da fare invecchia più lentamente di uno lasciato sul divano. La compagnia, il gioco e una ragione per alzarsi sono parte della longevità quanto la ciotola.</p>
+  <p>E poi c'è la cosa che nessun veterinario prescrive: a dodici anni Nutella vede i gatti del vicino, abbaia e gli corre dietro — senza mai prenderli, ovviamente — e quella corsa la tiene sveglia nel corpo e nella testa. Un cane anziano che ha ancora un motivo per muoversi e qualcosa da fare invecchia più lentamente di uno lasciato sul divano: lo stimolo, il movimento e una ragione per alzarsi sono parte della longevità quanto la ciotola.</p>
   </div>
   </div>
   </section>

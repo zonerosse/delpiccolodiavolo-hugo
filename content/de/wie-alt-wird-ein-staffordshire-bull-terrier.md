@@ -131,7 +131,7 @@ custom_content: |
   <li><strong>Nachlassendes Gehör ist keine Tragödie.</strong> Der Hund gleicht es mit Sehen und Vibrationen aus: man gewöhnt sich daran, sich sehen zu lassen, bevor man ihn berührt, und eine Geste statt der Stimme zu verwenden. Er leidet nicht, er passt sich an.</li>
   </ul>
 
-  <p>Und dann ist da das, was kein Tierarzt verschreibt: Nutella lebt mit den Katzen, und sie zu jagen und ihnen Paroli zu bieten hält sie wach, im Körper und im Kopf. Ein alter Hund, der noch einen Grund hat, sich zu bewegen, und etwas zu tun hat, altert langsamer als einer, der auf dem Sofa gelassen wird. Gesellschaft, Spiel und ein Grund aufzustehen gehören ebenso zur Langlebigkeit wie der Napf.</p>
+  <p>Und dann ist da das, was kein Tierarzt verschreibt: mit zwölf sieht Nutella die Katzen des Nachbarn, bellt und läuft ihnen hinterher — ohne sie je zu fangen, versteht sich — und dieses Laufen hält sie wach, im Körper und im Kopf. Ein alter Hund, der noch einen Grund hat, sich zu bewegen, und etwas zu tun hat, altert langsamer als einer, der auf dem Sofa gelassen wird: Anreiz, Bewegung und ein Grund aufzustehen gehören ebenso zur Langlebigkeit wie der Napf.</p>
   </div>
   </div>
   </section>

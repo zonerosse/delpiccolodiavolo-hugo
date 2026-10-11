@@ -131,7 +131,7 @@ custom_content: |
   <li><strong>Fading hearing is not a tragedy.</strong> The dog compensates with sight and vibration: you get used to letting it see you before you touch it, and to using a gesture instead of your voice. It does not suffer, it adapts.</li>
   </ul>
 
-  <p>And then there is the thing no vet prescribes: Nutella lives with the cats, and chasing them and keeping up with them keeps her sharp in body and mind. An old dog that still has a reason to move and something to do ages more slowly than one left on the sofa. Company, play and a reason to get up are as much a part of longevity as the food bowl.</p>
+  <p>And then there is the thing no vet prescribes: at twelve, Nutella spots the neighbour's cats, barks and chases after them — never catching them, of course — and that running keeps her sharp in body and mind. An old dog that still has a reason to move and something to do ages more slowly than one left on the sofa: stimulation, movement and a reason to get up are as much a part of longevity as the food bowl.</p>
   </div>
   </div>
   </section>
