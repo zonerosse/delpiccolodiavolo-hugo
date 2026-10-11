@@ -82,7 +82,7 @@ custom_content: |
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Gut atmen</h3>
-  <p>Ein Hund, der schlecht atmet, altert schlecht. Der Staffordshire Bull Terrier ist keine brachyzephale Rasse, aber Linien mit zu kurzer Schnauze bringen Atemprobleme (<a href="/de/boas-staffordshire-bull-terrier-atmung/" title="BOAS beim Staffordshire Bull Terrier">BOAS</a>) mit sich, die Bewegung, Hitzetoleranz und auf Dauer die Lebensdauer einschränken. Ein Welpe, der aus Eltern ausgewählt wurde, die leise atmen und ohne Hecheln laufen, startet mit einem Vorteil, der ein Leben lang hält.</p>
+  <p>Ein Hund, der schlecht atmet, altert schlecht. <a href="/de/boas-staffordshire-bull-terrier-atmung/" title="BOAS beim Staffordshire Bull Terrier">BOAS</a> ist nicht nur eine Frage der kurzen Schnauze: es ist eine Reihe von Atemwegsanomalien — enge Nasenlöcher, ein zu langer und verdickter weicher Gaumen, ausgestülpte Kehlkopftaschen, eine enge Luftröhre — bei der die kurze Schnauze ein Risikofaktor ist, nicht die einzige Ursache. Der Staffordshire Bull Terrier ist keine brachyzephale Rasse, aber Linien, die auf eine zu kurze Schnauze gezüchtet werden, sind häufiger betroffen, und diese Schwierigkeiten schränken Bewegung, Hitzetoleranz und auf Dauer die Lebensdauer ein. Ein Welpe, der aus Eltern ausgewählt wurde, die leise atmen und ohne Hecheln laufen, startet mit einem Vorteil, der ein Leben lang hält.</p>
   </div>
   <div class="zigzag-image"></div>
   </div>

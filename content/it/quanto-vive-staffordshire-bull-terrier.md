@@ -82,7 +82,7 @@ custom_content: |
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Respirare bene</h3>
-  <p>Un cane che respira male invecchia male. Lo Staffordshire Bull Terrier non è una razza brachicefala, ma le linee con il muso troppo corto portano difficoltà respiratorie (<a href="/boas-staffordshire-bull-terrier-respirazione/" title="BOAS nello Staffordshire Bull Terrier">BOAS</a>) che limitano il movimento, la tolleranza al caldo e, alla lunga, la durata della vita. Un cucciolo scelto da genitori che respirano in silenzio e corrono senza affannarsi parte con un vantaggio che dura tutta la vita.</p>
+  <p>Un cane che respira male invecchia male. La <a href="/boas-staffordshire-bull-terrier-respirazione/" title="BOAS nello Staffordshire Bull Terrier">BOAS</a> non è solo una questione di muso corto: è un insieme di anomalie delle vie aeree — narici strette, palato molle troppo lungo e ispessito, sacculi laringei estroflessi, trachea stretta — in cui il muso corto è un fattore di rischio, non l'unica causa. Lo Staffordshire Bull Terrier non è una razza brachicefala, ma le linee selezionate per un muso troppo corto ne sono colpite più spesso, e quelle difficoltà limitano il movimento, la tolleranza al caldo e, alla lunga, la durata della vita. Un cucciolo scelto da genitori che respirano in silenzio e corrono senza affannarsi parte con un vantaggio che dura tutta la vita.</p>
   </div>
   <div class="zigzag-image"></div>
   </div>

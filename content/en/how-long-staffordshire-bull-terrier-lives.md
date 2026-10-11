@@ -82,7 +82,7 @@ custom_content: |
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Breathing well</h3>
-  <p>A dog that breathes badly ages badly. The Staffordshire Bull Terrier is not a brachycephalic breed, but lines with too short a muzzle bring breathing difficulties (<a href="/en/boas-staffordshire-bull-terrier-breathing/" title="BOAS in the Staffordshire Bull Terrier">BOAS</a>) that limit movement, heat tolerance and, over time, length of life. A puppy chosen from parents that breathe silently and run without gasping starts with an advantage that lasts a lifetime.</p>
+  <p>A dog that breathes badly ages badly. <a href="/en/boas-staffordshire-bull-terrier-breathing/" title="BOAS in the Staffordshire Bull Terrier">BOAS</a> is not simply a matter of a short muzzle: it is a set of airway abnormalities — narrow nostrils, an over-long and thickened soft palate, everted laryngeal saccules, a narrow trachea — in which a short muzzle is a risk factor, not the only cause. The Staffordshire Bull Terrier is not a brachycephalic breed, but lines bred for too short a muzzle are affected more often, and those difficulties limit movement, heat tolerance and, over time, length of life. A puppy chosen from parents that breathe silently and run without gasping starts with an advantage that lasts a lifetime.</p>
   </div>
   <div class="zigzag-image"></div>
   </div>
