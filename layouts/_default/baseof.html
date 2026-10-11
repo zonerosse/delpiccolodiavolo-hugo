@@ -142,7 +142,9 @@
 
   {{ partial "css.html" . }}
 </head>
-<body>
+{{- $tipoBody := "" -}}
+{{- if .Params.articolo }}{{ $tipoBody = "tipo-articolo" }}{{ else if .Params.landing }}{{ $tipoBody = "tipo-landing" }}{{ end -}}
+<body{{ with $tipoBody }} class="{{ . }}"{{ end }}>
 
 <a class="salta-contenuto" href="#contenuto">{{ i18n "salta_contenuto" }}</a>
 

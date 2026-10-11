@@ -2,8 +2,9 @@
 title: "Staffordshire Bull Terrier Zucht"
 titleSeo: "Staffordshire Bull Terrier Züchter in Italien"
 date: 2025-12-28
-lastmod: 2026-10-08
+lastmod: 2026-10-11
 translationKey: "home"
+landing: true
 description: "Ethischer Staffordshire Bull Terrier Züchter seit 2013. ENCI-Ahnentafel, Gentest-Befunde und Mikrochips der Zuchttiere online veröffentlicht und überprüfbar."
 correlati:
   - url: "/de/welpen-staffordshire-bull-terrier/"

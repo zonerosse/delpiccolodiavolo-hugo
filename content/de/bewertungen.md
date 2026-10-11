@@ -1,9 +1,10 @@
 ---
 title: "Staffordshire Bull Terrier Bewertungen"
 date: 2025-12-28
-lastmod: 2026-10-08
+lastmod: 2026-10-11
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
+landing: true
 description: "Die Google-Bewertungen der Familien, die einen Welpen von Del Piccolo Diavolo gewählt haben: echte Erfahrungen vor und nach der Abgabe, jede mit Link zum Original."
 slug: "bewertungen"
 fonti_motivo: "Die hier gezeigten Bewertungen stammen von Familien mit einem Welpen der Zucht Del Piccolo Diavolo: Ihre Quelle ist das Google-Profil der Zucht, auf das jede einzelne Bewertung verlinkt, und es gibt keine weiteren externen Quellen zu nennen."

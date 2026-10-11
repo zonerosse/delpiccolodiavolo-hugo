@@ -2,8 +2,9 @@
 title: "Staffordshire Bull Terrier Kennel"
 titleSeo: "Staffordshire Bull Terrier Breeder in Italy"
 date: 2025-12-28
-lastmod: 2026-10-08
+lastmod: 2026-10-11
 translationKey: "home"
+landing: true
 description: "Ethical Staffordshire Bull Terrier breeder since 2013. ENCI pedigree, genetic test reports and breeding stock microchips published online and verifiable."
 correlati:
   - url: "/en/puppies-staffordshire-bull-terrier/"
