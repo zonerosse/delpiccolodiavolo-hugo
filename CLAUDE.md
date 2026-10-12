@@ -223,6 +223,8 @@ Before working on the site locally, **Fetch/Pull** in GitHub Desktop: the gestio
   when the Cloudflare variable `WA_DIAG` exists and the word matches; without it the page is off and `?diag=` just redirects.
 - `robots.txt` disallows `/wa/` for every group; `verifica.py` treats `/wa/<digits>` as a valid internal link.
 - The JSON-LD in `partials/schema.html` keeps the real `https://wa.me/` URL (it is data, not a button).
+- 12/10/2026: browser prefetch/prerender requests are not counted; opens of `/wa/` from outside the site (no page of origin) are sent
+  with `src` (referrer host or in-app browser + phone/computer, never IP) and the gestionale counts them apart, not as taps.
 - New pages: write WhatsApp links as `/wa/393924635584?text=…` (same text-encoding as before).
 
 ## Pages edited from the gestionale (Google → Pagine del sito), October 2026

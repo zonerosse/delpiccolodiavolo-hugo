@@ -22,12 +22,22 @@ export async function onRequestGet(context) {
     } catch (e) { out.errore_collegamento = String(e && e.message || e); }
     return new Response(JSON.stringify(out, null, 2), { headers: { "content-type": "application/json; charset=utf-8", "cache-control": "no-store", "X-Robots-Tag": "noindex" } });
   }
-  if (env.WA_KEY && !BOT.test(ua)) {
-    let path = "";
-    try { const r = new URL(request.headers.get("referer") || ""); if (r.hostname.endsWith("delpiccolodiavolo.it")) path = r.pathname; } catch (e) {}
+  // Precaricamenti del browser (link «in anteprima», prefetch): non sono tocchi
+  const pre = /prefetch|prerender/i.test((request.headers.get("sec-purpose") || "") + " " + (request.headers.get("purpose") || ""));
+  if (env.WA_KEY && !BOT.test(ua) && !pre) {
+    let path = "", host = "";
+    try { const r = new URL(request.headers.get("referer") || ""); host = r.hostname.replace(/^www\./, ""); if (r.hostname.endsWith("delpiccolodiavolo.it")) path = r.pathname; } catch (e) {}
+    // 12/10/2026: chi apre il link da FUORI dal sito (path vuoto) non conta come tocco; il gestionale lo segna a parte con la
+    // provenienza (una parola: sito o app di partenza + telefono/computer), per capire chi lo apre. Mai IP o dati personali.
+    let src = "";
+    if (!path) {
+      const app = /Instagram/i.test(ua) ? "app instagram" : /FBAN|FBAV|FB_IAB/i.test(ua) ? "app facebook" : /GSA\//.test(ua) ? "app google" : "";
+      const da = host ? (/google\./.test(host) ? "google" : host.slice(0, 25)) : (app || "nessuna provenienza");
+      src = da + (/iPhone|iPad|Android|Mobile/i.test(ua) ? " telefono" : " computer");
+    }
     // il conteggio parte prima del salto a WhatsApp; context.waitUntil (non "staccato" dal contesto) lo lascia finire
     const invio = fetch("https://gestionale.delpiccolodiavolo.it/api/public/walog", { method: "POST",
-      headers: { "content-type": "application/json", "x-wa-key": env.WA_KEY }, body: JSON.stringify({ path }) }).catch(() => {});
+      headers: { "content-type": "application/json", "x-wa-key": env.WA_KEY }, body: JSON.stringify({ path, src }) }).catch(() => {});
     try { context.waitUntil(invio); } catch (e) { await invio; }
   }
   return new Response(null, { status: 302, headers: { Location: to, "Cache-Control": "no-store", "X-Robots-Tag": "noindex, nofollow" } });
