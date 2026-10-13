@@ -55,7 +55,7 @@ custom_content: |
   <!--BLOCCO:2-->
   <h2>Il calendario</h2>
 
-  <p>Le <a href="https://www.esccap.org/guidelines/gl1/" title="ESCCAP Guideline 01 — Worm Control in Dogs and Cats" target="_blank" rel="noopener" aria-label="Linee guida ESCCAP sul controllo dei vermi in cani e gatti (si apre in una nuova scheda)">linee guida europee ESCCAP</a> indicano uno schema preciso per i cuccioli:</p>
+  <p>Le <a href="https://www.esccap.org/guidelines/gl1/" title="ESCCAP Guideline 01 — Worm Control in Dogs and Cats" target="_blank" rel="noopener" aria-label="linee guida europee ESCCAP – Linee guida ESCCAP sul controllo dei vermi in cani e gatti (si apre in una nuova scheda)">linee guida europee ESCCAP</a> indicano uno schema preciso per i cuccioli:</p>
 
   <ul>
   <li><strong>Primo trattamento a 2 settimane di età.</strong></li>
@@ -103,7 +103,7 @@ custom_content: |
   <p>Il quadro descrive cuccioli con un intestino sano: nessun parassita, flora batterica equilibrata, digestione che funziona. Non è fortuna. È il risultato di un protocollo applicato dalla seconda settimana di vita e di un ambiente tenuto pulito.</p>
 
   <div class="callout">
-  <p><strong>📄 I referti completi:</strong> <a href="/docs/referti-feci-cucciolata-17-09-2026.pdf" title="Referti degli esami delle feci della cucciolata, 17 settembre 2026" target="_blank" rel="noopener" aria-label="Referti degli esami delle feci della cucciolata, 17 settembre 2026 (si apre in una nuova scheda)">scarica il PDF dei due esami</a> — tabella dei risultati, microfotografie e test antigenico per Giardia.</p>
+  <p><strong>📄 I referti completi:</strong> <a href="/docs/referti-feci-cucciolata-17-09-2026.pdf" title="Referti degli esami delle feci della cucciolata, 17 settembre 2026" target="_blank" rel="noopener" aria-label="scarica il PDF dei due esami – Referti degli esami delle feci della cucciolata, 17 settembre 2026 (si apre in una nuova scheda)">scarica il PDF dei due esami</a> — tabella dei risultati, microfotografie e test antigenico per Giardia.</p>
   </div>
   <!--/BLOCCO:4-->
 

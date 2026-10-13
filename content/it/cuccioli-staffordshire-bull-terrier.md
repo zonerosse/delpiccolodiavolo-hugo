@@ -331,7 +331,7 @@ custom_content: |
   <h2>Vuoi Saperne di Più?</h2>
   <p>Per conoscere il nostro metodo di lavoro e le cucciolate pianificate:</p>
   <a href="/programma-allevamento/" class="btn" style="min-height:44px;padding:1rem 1.8rem;margin-right:1rem;margin-bottom:1rem" title="Vedi il programma di selezione">Programma di Allevamento</a>
-  <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sui%20cuccioli%20di%20Staffordshire%20Bull%20Terrier" class="btn" style="min-height:44px;padding:1rem 1.8rem;margin-bottom:1rem" title="Scrivici su WhatsApp" aria-label="Contattaci su WhatsApp per informazioni sui cuccioli">Scrivici su WhatsApp</a>
+  <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sui%20cuccioli%20di%20Staffordshire%20Bull%20Terrier" class="btn" style="min-height:44px;padding:1rem 1.8rem;margin-bottom:1rem" title="Scrivici su WhatsApp" aria-label="Scrivici su WhatsApp – Contattaci su WhatsApp per informazioni sui cuccioli">Scrivici su WhatsApp</a>
   </section>
   <!--/BLOCCO:13-->
 ---

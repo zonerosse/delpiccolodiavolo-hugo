@@ -64,7 +64,7 @@ custom_content: |
   <h2>What socialisation actually means</h2>
   <p>It does not mean meeting as many dogs and people as possible. That is a common and damaging misreading. Socialisation means building the expectation that new things are unremarkable and that nothing bad happens.</p>
   <p>The measure of a good exposure is not that it happened but that the puppy stayed relaxed throughout. A puppy dragged into a busy market at 10 weeks and left overwhelmed has not been socialised to markets: it has learned that markets are frightening, and undoing that takes months.</p>
-  <p>Timing matters as much as quality. The <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="AVSAB position statement on puppy socialisation (opens in a new tab)">American Veterinary Society of Animal Behavior</a> points out that the sensitive period for socialisation falls in the first three months of life, and recommends that well-managed exposure begin before the vaccination course is complete: the behavioural cost of waiting is greater than the health risk of careful, controlled outings.</p>
+  <p>Timing matters as much as quality. The <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="American Veterinary Society of Animal Behavior – AVSAB position statement on puppy socialisation (opens in a new tab)">American Veterinary Society of Animal Behavior</a> points out that the sensitive period for socialisation falls in the first three months of life, and recommends that well-managed exposure begin before the vaccination course is complete: the behavioural cost of waiting is greater than the health risk of careful, controlled outings.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->

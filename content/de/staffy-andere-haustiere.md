@@ -73,7 +73,7 @@ custom_content: |
   <h3>Profil C - Geringe Verträglichkeit</h3>
   <ul>
   <li><strong>Merkmale:</strong> offene Aggression gegenüber anderen Hunden oder Tieren in der Vorgeschichte, fehlende oder traumatische Sozialisierung, starkes Ressourcenverteidigen, hoher, nicht steuerbarer Beutetrieb</li>
-  <li><strong>Typisches Verhalten:</strong> intensives Fixieren, Versteifen des Körpers, Vorschnellen und Zerren an der <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Verordnung vom 6. August 2013, Gazzetta Ufficiale" target="_blank" rel="noopener" aria-label="Verordnung vom 6. August 2013, Gazzetta Ufficiale (wird in einem neuen Tab geöffnet)">Leine</a>, aggressive Lautäußerungen, Beißen oder Angriffe</li>
+  <li><strong>Typisches Verhalten:</strong> intensives Fixieren, Versteifen des Körpers, Vorschnellen und Zerren an der <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Verordnung vom 6. August 2013, Gazzetta Ufficiale" target="_blank" rel="noopener" aria-label="Leine – Verordnung vom 6. August 2013, Gazzetta Ufficiale (wird in einem neuen Tab geöffnet)">Leine</a>, aggressive Lautäußerungen, Beißen oder Angriffe</li>
   <li><strong>Zusammenführungen:</strong> Dringend abzuraten. Vor jedem Versuch braucht es einen Verhaltensexperten</li>
   </ul>
 

@@ -74,7 +74,7 @@ custom_content: |
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Weight: the most powerful lever</h3>
-  <p>After genetics, this is the factor that matters most. The <a href="https://www.purina.ca/articles/dog/health/landmark-life-span-study-in-dogs" target="_blank" rel="noopener" aria-label="Purina — Landmark Life Span Study in Dogs (opens in a new tab)">Purina life span study</a>, which ran for fourteen years on pairs of identical dogs, found that those kept lean lived on average <strong>1.8 years longer</strong> than the siblings fed freely. On the Staffy, which is muscular and greedy, it is very easy to get this wrong: the rule is to feel the ribs with light pressure, without seeing them. An overweight dog is not "healthy because it eats well": it is a dog having months of life taken away.</p>
+  <p>After genetics, this is the factor that matters most. The <a href="https://www.purina.ca/articles/dog/health/landmark-life-span-study-in-dogs" target="_blank" rel="noopener" aria-label="Purina life span study – Purina — Landmark Life Span Study in Dogs (opens in a new tab)">Purina life span study</a>, which ran for fourteen years on pairs of identical dogs, found that those kept lean lived on average <strong>1.8 years longer</strong> than the siblings fed freely. On the Staffy, which is muscular and greedy, it is very easy to get this wrong: the rule is to feel the ribs with light pressure, without seeing them. An overweight dog is not "healthy because it eats well": it is a dog having months of life taken away.</p>
   </div>
   <div class="zigzag-image"></div>
   </div>
@@ -183,7 +183,7 @@ custom_content: |
   <div class="content-block">
   <ul>
   <li><a href="https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="The Kennel Club UK — Staffordshire Bull Terrier (opens in a new tab)">The Kennel Club (UK) — Staffordshire Bull Terrier</a></li>
-  <li><a href="https://www.purina.ca/articles/dog/health/landmark-life-span-study-in-dogs" target="_blank" rel="noopener" aria-label="Purina — Landmark Life Span Study in Dogs (opens in a new tab)">Purina — Landmark Life Span Study in Dogs (Kealy et al., 2002)</a></li>
+  <li><a href="https://www.purina.ca/articles/dog/health/landmark-life-span-study-in-dogs" target="_blank" rel="noopener" aria-label="Purina — Landmark Life Span Study in Dogs (Kealy et al., 2002) (opens in a new tab)">Purina — Landmark Life Span Study in Dogs (Kealy et al., 2002)</a></li>
   </ul>
   <p>The figures on our own dogs (Nutella and the other females, and Nutella's father) come from our direct breeding experience and can be verified at the kennel, with each dog's documents.</p>
   </div>

@@ -128,7 +128,7 @@ custom_content: |
   <p><strong>Garante per la Protezione dei Dati Personali</strong><br>
   Piazza Venezia, 11 - 00187 Roma<br>
   Tel: <a href="tel:+390669677001" title="Chiama il Garante Privacy">+39 06 696771</a><br>
-  Sito: <a href="https://www.garanteprivacy.it" target="_blank" rel="noopener" title="Sito del Garante Privacy" aria-label="Sito del Garante Privacy (si apre in una nuova scheda)">www.garanteprivacy.it</a></p>
+  Sito: <a href="https://www.garanteprivacy.it" target="_blank" rel="noopener" title="Sito del Garante Privacy" aria-label="www.garanteprivacy.it – Sito del Garante Privacy (si apre in una nuova scheda)">www.garanteprivacy.it</a></p>
   </div>
 
 

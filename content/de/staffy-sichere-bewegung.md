@@ -92,7 +92,7 @@ custom_content: |
   </ul>
   </div>
   <h3>Wann man die Bewegung steigert</h3>
-  <p>Beim Staffy schließen sich die Wachstumsfugen zwischen <strong>12 und 18 Monaten</strong>. Erst danach kann man Intensität und Dauer der Bewegung schrittweise steigern. Eine Röntgenaufnahme beim <a href="https://wsava.org/global-guidelines/" title="WSAVA-Leitlinien" target="_blank" rel="noopener" aria-label="WSAVA-Leitlinien (wird in einem neuen Tab geöffnet)">Tierarzt</a> kann bestätigen, dass sie vollständig geschlossen sind.</p>
+  <p>Beim Staffy schließen sich die Wachstumsfugen zwischen <strong>12 und 18 Monaten</strong>. Erst danach kann man Intensität und Dauer der Bewegung schrittweise steigern. Eine Röntgenaufnahme beim <a href="https://wsava.org/global-guidelines/" title="WSAVA-Leitlinien" target="_blank" rel="noopener" aria-label="Tierarzt – WSAVA-Leitlinien (wird in einem neuen Tab geöffnet)">Tierarzt</a> kann bestätigen, dass sie vollständig geschlossen sind.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->

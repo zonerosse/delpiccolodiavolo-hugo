@@ -148,7 +148,7 @@ Ein **Kaiserschnitt** kostet zwischen **500 und 800 €**, je nach Tag und Uhrze
 
 Die Entwurmungen werden mehrmals wiederholt, und die Kosten steigen mit der Zahl der Welpen. Dazu kommen die Kotuntersuchung im Labor, die ersten Impfungen, der Mikrochip und die tierärztlichen Kontrollen.
 
-Der Apothekenbeleg mit diesen drei Posten steht oben auf der Seite; <a href="/docs/scontrino-farmaci-cucciolata-22-09-2026.pdf" target="_blank" rel="noopener" aria-label="Vollständiger Beleg als PDF (wird in einem neuen Tab geöffnet)">der vollständige Beleg liegt als PDF vor</a>, mit abgedeckter Steuernummer.
+Der Apothekenbeleg mit diesen drei Posten steht oben auf der Seite; <a href="/docs/scontrino-farmaci-cucciolata-22-09-2026.pdf" target="_blank" rel="noopener" aria-label="der vollständige Beleg liegt als PDF vor (wird in einem neuen Tab geöffnet)">der vollständige Beleg liegt als PDF vor</a>, mit abgedeckter Steuernummer.
 
 ### Die Summe
 

@@ -49,7 +49,7 @@ Ihr Browser unterstützt kein Video.
       <li>Vollständiges Scherengebiss</li>
     </ul>
     <p>CH. Americano Toreator De Testaferro × Staffgold Girl Of Ice</p>
-    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=3372904" target="_blank" rel="noopener" aria-label="Stammbaum ansehen von Vangerbull Red Harricane (wird in einem neuen Tab geöffnet)">Stammbaum auf SBTPedigree ansehen →</a></p>
+    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=3372904" target="_blank" rel="noopener" aria-label="Stammbaum auf SBTPedigree ansehen – Stammbaum ansehen von Vangerbull Red Harricane (wird in einem neuen Tab geöffnet)">Stammbaum auf SBTPedigree ansehen →</a></p>
   </div>
 
   <div class="pair-x">×</div>
@@ -64,7 +64,7 @@ Ihr Browser unterstützt kein Video.
       <li>Vollständiges Scherengebiss</li>
     </ul>
     <p>Skilful-Dogs Jeghër × Skilful-Dogs Red Skin</p>
-    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" aria-label="Stammbaum ansehen von Skilful-dogs Nora (wird in einem neuen Tab geöffnet)">Stammbaum auf SBTPedigree ansehen →</a></p>
+    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" aria-label="Stammbaum auf SBTPedigree ansehen – Stammbaum ansehen von Skilful-dogs Nora (wird in einem neuen Tab geöffnet)">Stammbaum auf SBTPedigree ansehen →</a></p>
   </div>
 </div>
 

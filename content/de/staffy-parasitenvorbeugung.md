@@ -87,7 +87,7 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>Ein praktischer Jahresplan</h2>
-  <p>Monatlich, ganzjährig: ein Kombinationspräparat gegen Flöhe und Zecken, gemeinsam mit dem <a href="https://wsava.org/global-guidelines/" title="WSAVA-Leitlinien" target="_blank" rel="noopener" aria-label="WSAVA-Leitlinien (wird in einem neuen Tab geöffnet)">Tierarzt</a> gewählt, dazu Herzwurmprophylaxe während der Mückensaison. Vierteljährlich: Entwurmung, bei Risikohunden häufiger. Wöchentlich: eine Kontrolle von Fell und Haut mit der Hand, die 2 Minuten dauert und die meisten Probleme früh erkennt. Jährlich: eine tierärztliche Untersuchung samt Besprechung der örtlichen Parasitenlage, denn sie verändert sich.</p>
+  <p>Monatlich, ganzjährig: ein Kombinationspräparat gegen Flöhe und Zecken, gemeinsam mit dem <a href="https://wsava.org/global-guidelines/" title="WSAVA-Leitlinien" target="_blank" rel="noopener" aria-label="Tierarzt – WSAVA-Leitlinien (wird in einem neuen Tab geöffnet)">Tierarzt</a> gewählt, dazu Herzwurmprophylaxe während der Mückensaison. Vierteljährlich: Entwurmung, bei Risikohunden häufiger. Wöchentlich: eine Kontrolle von Fell und Haut mit der Hand, die 2 Minuten dauert und die meisten Probleme früh erkennt. Jährlich: eine tierärztliche Untersuchung samt Besprechung der örtlichen Parasitenlage, denn sie verändert sich.</p>
   <p>Ein Hinweis zu Präparaten: verwenden Sie nie ein Katzenpräparat beim Hund oder umgekehrt, und keine permethrinhaltigen Produkte in einem Haushalt mit Katzen. Und seien Sie skeptisch gegenüber natürlichen Alternativen wie Knoblauch oder ätherischen Ölen. Knoblauch ist für Hunde giftig, mehrere ätherische Öle ebenfalls, und keines davon verhindert eine Babesiose.</p>
   <!--/BLOCCO:7-->
 

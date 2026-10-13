@@ -98,7 +98,7 @@ At fifty-five days the ears are right in the middle of settling: they go up, dro
       <li>Full scissor bite</li>
     </ul>
     <p>🏆 <strong>Quash Marvelous Hagler de Stafflorence</strong> (2023 World Champion) × <strong>Ultima di Casa Giacalone</strong> (Italian Junior Champion)</p>
-    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" aria-label="View the pedigree of Black Jack di Casa Giacalone (opens in a new tab)">View pedigree on SBTPedigree →</a></p>
+    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" aria-label="View pedigree on SBTPedigree – View the pedigree of Black Jack di Casa Giacalone (opens in a new tab)">View pedigree on SBTPedigree →</a></p>
   </div>
 
   <div class="pair-x">×</div>
@@ -115,7 +115,7 @@ At fifty-five days the ears are right in the middle of settling: they go up, dro
     </ul>
     <p><strong>Ch. IT · JCh. IT · JCh. HR · Ch. BiH</strong> · BOS Bologna 2024 · Crufts Qualification 2025 · 4th World Dog Show Zagreb 2024</p>
     <p>Pablo Iuno Sospita Plata Plomo × Skilful-dogs Nora</p>
-    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" aria-label="View the pedigree of Bilquis Goddess Diabhal (opens in a new tab)">View pedigree on SBTPedigree →</a></p>
+    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" aria-label="View pedigree on SBTPedigree – View the pedigree of Bilquis Goddess Diabhal (opens in a new tab)">View pedigree on SBTPedigree →</a></p>
   </div>
 </div>
 
@@ -207,19 +207,19 @@ Verifiable Genetic Tests
 </h3>
 <p style="margin:0 0 1.5rem;font-size:1rem;color:#fff !important;font-weight:600">Full transparency: results verifiable on the SBTPedigree database and laboratory certificates downloadable below, including Black Jack's parents.</p>
 <div style="display:grid;gap:.75rem;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))">
-<a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Quash, Black Jack's sire — Genetic tests (PDF) (opens in a new tab)">
+<a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Quash — Genetic tests – Quash, Black Jack's sire — Genetic tests (PDF) (opens in a new tab)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Quash — Genetic tests
 </a>
-<a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima, Black Jack's dam — L2HGA test (PDF) (opens in a new tab)">
+<a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima — L2HGA – Ultima, Black Jack's dam — L2HGA test (PDF) (opens in a new tab)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Ultima — L2HGA
 </a>
-<a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima, Black Jack's dam — HC test (PDF) (opens in a new tab)">
+<a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima — HC – Ultima, Black Jack's dam — HC test (PDF) (opens in a new tab)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Ultima — HC
 </a>
-<a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Bilquis — L2HGA and HC test (PDF) (opens in a new tab)">
+<a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Bilquis — L2HGA &amp; HC – Bilquis — L2HGA and HC test (PDF) (opens in a new tab)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Bilquis — L2HGA &amp; HC
 </a>
@@ -230,7 +230,7 @@ Bilquis — Doppler echocardio
 </div>
 </div>
 
-<p style="margin-top:1.5rem"><strong>Litter pedigree:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" class="sbt-link" aria-label="View the full pedigree of the litter on SBTPedigree (opens in a new tab)">View on SBTPedigree →</a></p>
+<p style="margin-top:1.5rem"><strong>Litter pedigree:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" class="sbt-link" aria-label="View on SBTPedigree – View the full pedigree of the litter on SBTPedigree (opens in a new tab)">View on SBTPedigree →</a></p>
 
 <!--/BLOCCO:5-->
 

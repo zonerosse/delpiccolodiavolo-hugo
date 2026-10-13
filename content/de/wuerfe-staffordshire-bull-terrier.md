@@ -100,7 +100,7 @@ custom_content: |
   <li>Top Dog Junior Hündin 2023</li>
   </ul>
   <p>Skilful-dogs Nora × Pablo iuno sospita plata plomo</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Bilquis Stammbaum auf SBTPedigree ansehen" aria-label="Stammbaum ansehen von JCH. CH. Italiana Bilquis Goddess Diabhal (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Bilquis Stammbaum auf SBTPedigree ansehen" aria-label="SBTPedigree – Stammbaum ansehen von JCH. CH. Italiana Bilquis Goddess Diabhal (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
   </div>
 
   <div class="pair-x">×</div>
@@ -114,7 +114,7 @@ custom_content: |
   <li>Sohn des Weltsiegers 2023</li>
   </ul>
   <p>Quash Marvelous Hagler de Stafflorence (Weltsieger 2023) × Ultima di Casa Giacalone</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" title="Black Jack Stammbaum auf SBTPedigree ansehen" aria-label="Stammbaum ansehen von Black Jack di Casa Giacalone (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" title="Black Jack Stammbaum auf SBTPedigree ansehen" aria-label="SBTPedigree – Stammbaum ansehen von Black Jack di Casa Giacalone (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
   </div>
   </div>
 
@@ -147,7 +147,7 @@ custom_content: |
   <li>Vollständiges Scherengebiss</li>
   </ul>
   <p>CH. Americano Toreator De Testaferro x Staffgold Girl Of Ice</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=3372904" target="_blank" rel="noopener" title="Red Stammbaum auf SBTPedigree ansehen" aria-label="Stammbaum ansehen von Vangerbull Red Harricane (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=3372904" target="_blank" rel="noopener" title="Red Stammbaum auf SBTPedigree ansehen" aria-label="SBTPedigree – Stammbaum ansehen von Vangerbull Red Harricane (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
   </div>
 
   <div class="pair-x">×</div>
@@ -160,7 +160,7 @@ custom_content: |
   <li>Vollständiges Scherengebiss</li>
   </ul>
   <p>Skilful-Dogs Jeghër × Skilful-Dogs Red Skin</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="Nora Stammbaum auf SBTPedigree ansehen" aria-label="Stammbaum ansehen von Skilful-dogs Nora (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="Nora Stammbaum auf SBTPedigree ansehen" aria-label="SBTPedigree – Stammbaum ansehen von Skilful-dogs Nora (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
   </div>
   </div>
 
@@ -188,7 +188,7 @@ custom_content: |
   <li>Top Dog Junior Hündin 2023</li>
   </ul>
   <p>Skilful-dogs Nora × Pablo iuno sospita plata plomo</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Bilquis Stammbaum auf SBTPedigree ansehen" aria-label="Stammbaum ansehen von JCH. CH. Italiana Bilquis Goddess Diabhal (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Bilquis Stammbaum auf SBTPedigree ansehen" aria-label="SBTPedigree – Stammbaum ansehen von JCH. CH. Italiana Bilquis Goddess Diabhal (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
   </div>
 
   <div class="pair-x">×</div>
@@ -201,7 +201,7 @@ custom_content: |
   <li>Vollständiges Scherengebiss</li>
   </ul>
   <p>D' Spain Fuogo Negro Espartaco × Iunosospita Torvi</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4555572" target="_blank" rel="noopener" title="Luis Stammbaum auf SBTPedigree ansehen" aria-label="Stammbaum ansehen von Il lupo perde il pelo ma non il vizio – Luis (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4555572" target="_blank" rel="noopener" title="Luis Stammbaum auf SBTPedigree ansehen" aria-label="SBTPedigree – Stammbaum ansehen von Il lupo perde il pelo ma non il vizio – Luis (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
   </div>
   </div>
 
@@ -224,7 +224,7 @@ custom_content: |
   <li>Vollständiges Scherengebiss</li>
   </ul>
   <p>CH. Elitebulls Challenger × Elitebull Destiny</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4483601" target="_blank" rel="noopener" title="Prospect Stammbaum auf SBTPedigree ansehen" aria-label="Stammbaum ansehen von CH. Elitebull Prospect (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4483601" target="_blank" rel="noopener" title="Prospect Stammbaum auf SBTPedigree ansehen" aria-label="SBTPedigree – Stammbaum ansehen von CH. Elitebull Prospect (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
   </div>
 
   <div class="pair-x">×</div>
@@ -237,7 +237,7 @@ custom_content: |
   <li>Vollständiges Scherengebiss</li>
   </ul>
   <p>Lackyle Trodai Tine × CH. Lackyle Ogbhean an Diabhal</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="Bean Stammbaum auf SBTPedigree ansehen" aria-label="Stammbaum ansehen von Lackyle Bean Croí Olc (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="Bean Stammbaum auf SBTPedigree ansehen" aria-label="SBTPedigree – Stammbaum ansehen von Lackyle Bean Croí Olc (wird in einem neuen Tab geöffnet)">SBTPedigree</a></p>
   </div>
   </div>
 

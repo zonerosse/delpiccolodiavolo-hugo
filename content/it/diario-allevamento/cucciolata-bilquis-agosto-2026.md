@@ -93,7 +93,7 @@ All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente a
       <li>Dentatura completa a forbice</li>
     </ul>
     <p>🏆 <strong>Quash Marvelous Hagler de Stafflorence</strong> (Campione del Mondo 2023) × <strong>Ultima di Casa Giacalone</strong> (Giovane Campionessa Italiana)</p>
-    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" aria-label="Vedi il pedigree di Black Jack di Casa Giacalone (si apre in una nuova scheda)">Vedi pedigree su SBTPedigree →</a></p>
+    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" aria-label="Vedi pedigree su SBTPedigree – Vedi il pedigree di Black Jack di Casa Giacalone (si apre in una nuova scheda)">Vedi pedigree su SBTPedigree →</a></p>
   </div>
 
   <div class="pair-x">×</div>
@@ -110,7 +110,7 @@ All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente a
     </ul>
     <p><strong>Ch. IT · JCh. IT · JCh. HR · Ch. BiH</strong> · BOS Bologna 2024 · Qualifica Crufts 2025 · 4ª World Dog Show Zagabria 2024</p>
     <p>Pablo Iuno Sospita Plata Plomo × Skilful-dogs Nora</p>
-    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" aria-label="Vedi il pedigree di Bilquis Goddess Diabhal (si apre in una nuova scheda)">Vedi pedigree su SBTPedigree →</a></p>
+    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" aria-label="Vedi pedigree su SBTPedigree – Vedi il pedigree di Bilquis Goddess Diabhal (si apre in una nuova scheda)">Vedi pedigree su SBTPedigree →</a></p>
   </div>
 </div>
 
@@ -202,19 +202,19 @@ Test Genetici Verificabili
 </h3>
 <p style="margin:0 0 1.5rem;font-size:1rem;color:#fff !important;font-weight:600">Trasparenza totale: esiti verificabili sul database SBTPedigree e certificati di laboratorio scaricabili qui sotto, riproduttori e genitori di Black Jack compresi.</p>
 <div style="display:grid;gap:.75rem;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))">
-<a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Quash, padre di Black Jack — Test genetici (PDF) (si apre in una nuova scheda)">
+<a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Quash — Test genetici – Quash, padre di Black Jack — Test genetici (PDF) (si apre in una nuova scheda)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Quash — Test genetici
 </a>
-<a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima, madre di Black Jack — Test L2HGA (PDF) (si apre in una nuova scheda)">
+<a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima — L2HGA – Ultima, madre di Black Jack — Test L2HGA (PDF) (si apre in una nuova scheda)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Ultima — L2HGA
 </a>
-<a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima, madre di Black Jack — Test HC (PDF) (si apre in una nuova scheda)">
+<a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima — HC – Ultima, madre di Black Jack — Test HC (PDF) (si apre in una nuova scheda)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Ultima — HC
 </a>
-<a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Bilquis — Test L2HGA e HC (PDF) (si apre in una nuova scheda)">
+<a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Bilquis — L2HGA &amp; HC – Bilquis — Test L2HGA e HC (PDF) (si apre in una nuova scheda)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Bilquis — L2HGA &amp; HC
 </a>
@@ -225,7 +225,7 @@ Bilquis — Ecocardio Doppler
 </div>
 </div>
 
-<p style="margin-top:1.5rem"><strong>Pedigree della cucciolata:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" class="sbt-link" aria-label="Vedi il pedigree completo della cucciolata su SBTPedigree (si apre in una nuova scheda)">Vedi su SBTPedigree →</a></p>
+<p style="margin-top:1.5rem"><strong>Pedigree della cucciolata:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" class="sbt-link" aria-label="Vedi su SBTPedigree – Vedi il pedigree completo della cucciolata su SBTPedigree (si apre in una nuova scheda)">Vedi su SBTPedigree →</a></p>
 
 <!--/BLOCCO:5-->
 

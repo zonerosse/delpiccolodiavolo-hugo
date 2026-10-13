@@ -52,7 +52,7 @@ custom_content: |
   <h2 class="section-title">Una razza longeva per la sua taglia</h2>
 
   <div class="content-block">
-  <p>Nei cani vale una regola generale: più la taglia è piccola, più la vita è lunga. Lo Staffordshire Bull Terrier è un cane compatto e ben costruito, e si colloca nella fascia buona: il <a href="https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="The Kennel Club UK — Staffordshire Bull Terrier (si apre in una nuova scheda)">Kennel Club britannico</a> indica per la razza un'aspettativa di vita intorno ai 12-14 anni.</p>
+  <p>Nei cani vale una regola generale: più la taglia è piccola, più la vita è lunga. Lo Staffordshire Bull Terrier è un cane compatto e ben costruito, e si colloca nella fascia buona: il <a href="https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="Kennel Club britannico – The Kennel Club UK — Staffordshire Bull Terrier (si apre in una nuova scheda)">Kennel Club britannico</a> indica per la razza un'aspettativa di vita intorno ai 12-14 anni.</p>
 
   <p>È una media, non una garanzia. Significa che molti cani la superano e alcuni non la raggiungono, e la differenza quasi mai è il caso: è la somma di come il cane è stato selezionato e di come viene tenuto. La genetica fissa il punto di partenza; il peso, il movimento, la respirazione e le cure decidono quanto ci si avvicina — o quanto lo si supera.</p>
   </div>
@@ -74,7 +74,7 @@ custom_content: |
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Il peso: la leva più potente</h3>
-  <p>È il fattore che, dopo la genetica, incide di più. Lo <a href="https://www.purina.ca/articles/dog/health/landmark-life-span-study-in-dogs" target="_blank" rel="noopener" aria-label="Purina — studio sull'aspettativa di vita nei cani (si apre in una nuova scheda)">studio sull'aspettativa di vita di Purina</a>, durato quattordici anni su coppie di cani identici, ha trovato che quelli mantenuti magri sono vissuti in media <strong>1,8 anni in più</strong> dei fratelli nutriti a volontà. Sullo Staffy, che è muscoloso e goloso, è facilissimo sbagliare: la regola è sentire le costole premendo appena, senza vederle. Un cane in sovrappeso non è "in salute perché mangia bene": è un cane a cui si stanno togliendo mesi di vita.</p>
+  <p>È il fattore che, dopo la genetica, incide di più. Lo <a href="https://www.purina.ca/articles/dog/health/landmark-life-span-study-in-dogs" target="_blank" rel="noopener" aria-label="studio sull'aspettativa di vita di Purina – Purina — studio sull'aspettativa di vita nei cani (si apre in una nuova scheda)">studio sull'aspettativa di vita di Purina</a>, durato quattordici anni su coppie di cani identici, ha trovato che quelli mantenuti magri sono vissuti in media <strong>1,8 anni in più</strong> dei fratelli nutriti a volontà. Sullo Staffy, che è muscoloso e goloso, è facilissimo sbagliare: la regola è sentire le costole premendo appena, senza vederle. Un cane in sovrappeso non è "in salute perché mangia bene": è un cane a cui si stanno togliendo mesi di vita.</p>
   </div>
   <div class="zigzag-image"></div>
   </div>
@@ -183,7 +183,7 @@ custom_content: |
   <div class="content-block">
   <ul>
   <li><a href="https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="The Kennel Club UK — Staffordshire Bull Terrier (si apre in una nuova scheda)">The Kennel Club (UK) — Staffordshire Bull Terrier</a></li>
-  <li><a href="https://www.purina.ca/articles/dog/health/landmark-life-span-study-in-dogs" target="_blank" rel="noopener" aria-label="Purina — Landmark Life Span Study in Dogs (si apre in una nuova scheda)">Purina — Landmark Life Span Study in Dogs (Kealy et al., 2002)</a></li>
+  <li><a href="https://www.purina.ca/articles/dog/health/landmark-life-span-study-in-dogs" target="_blank" rel="noopener" aria-label="Purina — Landmark Life Span Study in Dogs (Kealy et al., 2002) (si apre in una nuova scheda)">Purina — Landmark Life Span Study in Dogs (Kealy et al., 2002)</a></li>
   </ul>
   <p>I dati sui nostri cani (Nutella e le altre femmine, il padre di Nutella) sono della nostra esperienza diretta di allevamento e si verificano in allevamento, con i documenti dei singoli soggetti.</p>
   </div>

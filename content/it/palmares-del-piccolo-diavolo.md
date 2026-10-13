@@ -217,7 +217,7 @@ custom_content: |
 
   </div>
 
-  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">20 esposizioni in Italia nel Libro genealogico ENCI, 19 chiuse al primo posto: <a href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Esposizioni di Bilquis nel Libro genealogico ENCI" aria-label="Esposizioni di Bilquis nel Libro genealogico ENCI (si apre in una nuova scheda)">la scheda ENCI dei risultati</a> (LOI LO22197469). Le esposizioni all'estero, World Dog Show compreso, su ENCI non sono registrate. Top Dog Junior 2023. Giovane Campionessa Italiana. Campionessa Italiana di Bellezza. Giovane Campionessa di Croazia. Campionessa di Bosnia ed Erzegovina. Qualifica Crufts 2025.</p>
+  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">20 esposizioni in Italia nel Libro genealogico ENCI, 19 chiuse al primo posto: <a href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Esposizioni di Bilquis nel Libro genealogico ENCI" aria-label="la scheda ENCI dei risultati – Esposizioni di Bilquis nel Libro genealogico ENCI (si apre in una nuova scheda)">la scheda ENCI dei risultati</a> (LOI LO22197469). Le esposizioni all'estero, World Dog Show compreso, su ENCI non sono registrate. Top Dog Junior 2023. Giovane Campionessa Italiana. Campionessa Italiana di Bellezza. Giovane Campionessa di Croazia. Campionessa di Bosnia ed Erzegovina. Qualifica Crufts 2025.</p>
 
   </div>
   </section>

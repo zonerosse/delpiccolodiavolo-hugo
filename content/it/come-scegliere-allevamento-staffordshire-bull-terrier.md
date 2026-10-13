@@ -73,7 +73,7 @@ lastmod: 2026-09-30
 
 <h2>3. Il pedigree, e chi c'è dentro</h2>
 
-<p>Il <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="Scheda di razza dello Staffordshire Bull Terrier, ENCI" target="_blank" rel="noopener" aria-label="Scheda di razza dello Staffordshire Bull Terrier, ENCI (si apre in una nuova scheda)">pedigree ENCI</a> è l'unico documento che certifica che quel cane è uno Staffordshire Bull Terrier, con genitori identificati. Non è un extra e non si paga a parte.</p>
+<p>Il <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="Scheda di razza dello Staffordshire Bull Terrier, ENCI" target="_blank" rel="noopener" aria-label="pedigree ENCI – Scheda di razza dello Staffordshire Bull Terrier, ENCI (si apre in una nuova scheda)">pedigree ENCI</a> è l'unico documento che certifica che quel cane è uno Staffordshire Bull Terrier, con genitori identificati. Non è un extra e non si paga a parte.</p>
 
 <p><strong>Come si verifica il pedigree.</strong> Il pedigree si controlla con il numero di libro genealogico. Ma c'è un passaggio in più che quasi nessuno fa: le genealogie della razza sono pubbliche su SBTPedigree, un database internazionale. Cerca i nonni e i bisnonni, guarda se esistono davvero, se hanno titoli, se compaiono in altri allevamenti. Un albero che si interrompe dopo due generazioni dice qualcosa.</p>
 
@@ -189,7 +189,7 @@ lastmod: 2026-09-30
 <section class="cta-section">
 <h2>Vuoi conoscere i nostri cani?</h2>
 <p>L'allevamento Del Piccolo Diavolo riceve su appuntamento a Ostellato, in provincia di Ferrara. Si vedono le madri, i cuccioli e la casa in cui crescono.</p>
-<a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20conoscere%20i%20vostri%20cani" class="btn" title="Scrivici su WhatsApp" target="_blank" rel="noopener" aria-label="Scrivici su WhatsApp per fissare una visita (si apre in una nuova scheda)">Fissa una visita</a>
+<a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20conoscere%20i%20vostri%20cani" class="btn" title="Scrivici su WhatsApp" target="_blank" rel="noopener" aria-label="Fissa una visita – Scrivici su WhatsApp per fissare una visita (si apre in una nuova scheda)">Fissa una visita</a>
 </section>
 
 <!--/BLOCCO:3-->

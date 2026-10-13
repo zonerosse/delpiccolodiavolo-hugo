@@ -55,7 +55,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Was Sozialisierung wirklich bedeutet</h2>
-  <p>Nicht, möglichst vielen Hunden und Menschen zu begegnen. Das ist ein verbreitetes und schädliches Missverständnis. <a href="https://wsava.org/global-guidelines/vaccination-guidelines/" title="WSAVA-Leitlinien" target="_blank" rel="noopener" aria-label="WSAVA-Leitlinien (wird in einem neuen Tab geöffnet)">Sozialisierung</a> heißt, die Erwartung aufzubauen, dass Neues unspektakulär ist und nichts Schlimmes passiert.</p>
+  <p>Nicht, möglichst vielen Hunden und Menschen zu begegnen. Das ist ein verbreitetes und schädliches Missverständnis. <a href="https://wsava.org/global-guidelines/vaccination-guidelines/" title="WSAVA-Leitlinien" target="_blank" rel="noopener" aria-label="Sozialisierung – WSAVA-Leitlinien (wird in einem neuen Tab geöffnet)">Sozialisierung</a> heißt, die Erwartung aufzubauen, dass Neues unspektakulär ist und nichts Schlimmes passiert.</p>
   <p>Der Maßstab einer guten Begegnung ist nicht, dass sie stattgefunden hat, sondern dass der Welpe durchgehend entspannt blieb. Ein Welpe, der mit 10 Wochen auf einen belebten Markt gezerrt und dort überfordert wurde, ist nicht an Märkte gewöhnt: er hat gelernt, dass Märkte beängstigend sind, und das rückgängig zu machen dauert Monate.</p>
   <!--/BLOCCO:3-->
 

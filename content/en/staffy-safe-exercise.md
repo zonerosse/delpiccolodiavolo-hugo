@@ -94,7 +94,7 @@ custom_content: |
   </ul>
   </div>
   <h3>When to increase exercise</h3>
-  <p>In the Staffy the growth plates close between <strong>12 and 18 months</strong>. Only after that can you gradually increase the intensity and duration of exercise. An X-ray from your <a href="https://wsava.org/global-guidelines/" title="WSAVA global guidelines" target="_blank" rel="noopener" aria-label="WSAVA global guidelines (opens in a new tab)">vet</a> can confirm that they have closed completely.</p>
+  <p>In the Staffy the growth plates close between <strong>12 and 18 months</strong>. Only after that can you gradually increase the intensity and duration of exercise. An X-ray from your <a href="https://wsava.org/global-guidelines/" title="WSAVA global guidelines" target="_blank" rel="noopener" aria-label="vet – WSAVA global guidelines (opens in a new tab)">vet</a> can confirm that they have closed completely.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->

@@ -338,7 +338,7 @@ custom_content: |
     <section class="cta-section">
   <h2>Scrivici per conoscere i nostri Staffy di persona</h2>
   <p>Chiamaci per una chiacchierata senza impegno. Siamo qui per rispondere a tutte le tue domande.</p>
-  <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20ti%20scrivo%20dal%20sito%20Del%20Piccolo%20Diavolo" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Scrivici su WhatsApp" aria-label="Contattaci su WhatsApp per informazioni">Scrivici su WhatsApp</a>
+  <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20ti%20scrivo%20dal%20sito%20Del%20Piccolo%20Diavolo" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Scrivici su WhatsApp" aria-label="Scrivici su WhatsApp – Contattaci su WhatsApp per informazioni">Scrivici su WhatsApp</a>
   </section>
   <!--/BLOCCO:11-->
 ---

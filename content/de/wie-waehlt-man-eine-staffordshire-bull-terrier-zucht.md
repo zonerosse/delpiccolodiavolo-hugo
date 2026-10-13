@@ -73,7 +73,7 @@ lastmod: 2026-09-30
 
 <h2>3. Die Ahnentafel und wer darin steht</h2>
 
-<p>Die <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="Rasseseite Staffordshire Bull Terrier, ENCI" target="_blank" rel="noopener" aria-label="Rasseseite Staffordshire Bull Terrier, ENCI (wird in einem neuen Tab geöffnet)">ENCI-Ahnentafel</a> ist das einzige Dokument, das bescheinigt, dass ein Hund ein Staffordshire Bull Terrier mit identifizierten Eltern ist. Sie ist kein Zusatz und wird nicht extra berechnet.</p>
+<p>Die <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="Rasseseite Staffordshire Bull Terrier, ENCI" target="_blank" rel="noopener" aria-label="ENCI-Ahnentafel – Rasseseite Staffordshire Bull Terrier, ENCI (wird in einem neuen Tab geöffnet)">ENCI-Ahnentafel</a> ist das einzige Dokument, das bescheinigt, dass ein Hund ein Staffordshire Bull Terrier mit identifizierten Eltern ist. Sie ist kein Zusatz und wird nicht extra berechnet.</p>
 
 <p><strong>Wie man es überprüft.</strong> Die Ahnentafel selbst prüft man über ihre Zuchtbuchnummer. Es gibt aber einen weiteren Schritt, den fast niemand geht: die Ahnentafeln der Rasse sind öffentlich auf SBTPedigree, einer internationalen Datenbank (wie man sie nutzt, steht in <a href="/de/wie-man-eine-ahnentafel-liest/" title="Wie man eine Ahnentafel liest">wie man eine Ahnentafel liest</a>). Suchen Sie Großeltern und Urgroßeltern, sehen Sie nach, ob es sie gibt, ob sie Titel haben, ob sie in anderen Zuchten auftauchen. Ein Stammbaum, der nach zwei Generationen abbricht, sagt etwas aus.</p>
 
@@ -189,7 +189,7 @@ lastmod: 2026-09-30
 <section class="cta-section">
 <h2>M&ouml;chten Sie unsere Hunde kennenlernen?</h2>
 <p>Die Zucht Del Piccolo Diavolo empfängt nach Terminvereinbarung in Ostellato, Provinz Ferrara. Sie sehen die M&uuml;tter, die Welpen und das Haus, in dem sie aufwachsen.</p>
-<a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20m%C3%B6chte%20Ihre%20Hunde%20kennenlernen" class="btn" title="Schreiben Sie uns auf WhatsApp" target="_blank" rel="noopener" aria-label="Schreiben Sie uns auf WhatsApp f&uuml;r einen Termin (wird in einem neuen Tab ge&ouml;ffnet)">Termin vereinbaren</a>
+<a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20m%C3%B6chte%20Ihre%20Hunde%20kennenlernen" class="btn" title="Schreiben Sie uns auf WhatsApp" target="_blank" rel="noopener" aria-label="Termin vereinbaren – Schreiben Sie uns auf WhatsApp für einen Termin (wird in einem neuen Tab geöffnet)">Termin vereinbaren</a>
 </section>
 
 <!--/BLOCCO:3-->

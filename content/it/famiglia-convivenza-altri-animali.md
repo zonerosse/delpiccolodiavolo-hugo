@@ -78,7 +78,7 @@ custom_content: |
   <h3>Profilo C - Compatibilità bassa</h3>
   <ul>
   <li><strong>Caratteristiche:</strong> precedenti di aggressività aperta verso altri cani o animali, socializzazione assente o traumatica, possessività grave sulle risorse, istinto predatorio alto e non gestibile</li>
-  <li><strong>Comportamento tipico:</strong> fissazione intensa, irrigidimento del corpo, scatti e tirate al <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Ordinanza del 6 agosto 2013, Gazzetta Ufficiale" target="_blank" rel="noopener" aria-label="Ordinanza del 6 agosto 2013, Gazzetta Ufficiale (si apre in una nuova scheda)">guinzaglio</a>, vocalizzi aggressivi, morsi o attacchi</li>
+  <li><strong>Comportamento tipico:</strong> fissazione intensa, irrigidimento del corpo, scatti e tirate al <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Ordinanza del 6 agosto 2013, Gazzetta Ufficiale" target="_blank" rel="noopener" aria-label="guinzaglio – Ordinanza del 6 agosto 2013, Gazzetta Ufficiale (si apre in una nuova scheda)">guinzaglio</a>, vocalizzi aggressivi, morsi o attacchi</li>
   <li><strong>Inserimenti:</strong> fortemente sconsigliati. Prima di qualsiasi tentativo serve un comportamentalista</li>
   </ul>
 

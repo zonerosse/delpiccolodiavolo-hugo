@@ -148,7 +148,7 @@ A **caesarean** costs between **€500 and €800**, depending on the day and th
 
 Worming is repeated several times, and the cost grows with the number of puppies. On top of this come the laboratory faecal test, the first vaccinations, the microchip and the veterinary check-ups.
 
-The pharmacy receipt with these three items is at the top of the page; <a href="/docs/scontrino-farmaci-cucciolata-22-09-2026.pdf" target="_blank" rel="noopener" aria-label="Full receipt as PDF (opens in a new tab)">the full receipt is available as a PDF</a>, with the tax code covered.
+The pharmacy receipt with these three items is at the top of the page; <a href="/docs/scontrino-farmaci-cucciolata-22-09-2026.pdf" target="_blank" rel="noopener" aria-label="the full receipt is available as a PDF (opens in a new tab)">the full receipt is available as a PDF</a>, with the tax code covered.
 
 ### The total
 

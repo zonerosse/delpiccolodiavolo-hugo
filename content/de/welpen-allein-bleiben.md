@@ -93,7 +93,7 @@ custom_content: |
   <p>Gewöhnlicher Protest sind wenige Minuten Jammern, das nachlässt. Trennungsstress sieht anders aus: Zerstörung konzentriert an Türen und Fenstern statt beliebigem Kauen, Urinieren oder Koten bei einem stubenreinen Hund, ununterbrochenes Bellen über die gesamte Abwesenheit, starker Speichelfluss und Futterverweigerung im Alleinsein.</p>
   <p>Eine Kamera oder ein mitlaufendes Telefon zeigt Ihnen, welcher der beiden Fälle vorliegt, und das lohnt sich, bevor man etwas schlussfolgert. Viele Hunde, die Halter für verzweifelt halten, schlafen 4 Minuten nach dem Zufallen der Tür.</p>
   <p>Handelt es sich um echten Stress, braucht die Lage eine Verhaltensfachperson und nicht mehr vom Selben. Strafe bei der Rückkehr verschlimmert es deutlich, weil der Hund Ihre Ankunft mit Konflikt verknüpft.</p>
-  <p>So sieht es auch die <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="Positionspapiere der AVSAB (wird in einem neuen Tab geöffnet)">American Veterinary Society of Animal Behavior</a>: Angst und Furcht brauchen einen Behandlungsplan aus Umgebungsmanagement und Verhaltensmodifikation, manchmal mit Medikamenten, und Strafe hat darin keinen Platz.</p>
+  <p>So sieht es auch die <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="American Veterinary Society of Animal Behavior – Positionspapiere der AVSAB (wird in einem neuen Tab geöffnet)">American Veterinary Society of Animal Behavior</a>: Angst und Furcht brauchen einen Behandlungsplan aus Umgebungsmanagement und Verhaltensmodifikation, manchmal mit Medikamenten, und Strafe hat darin keinen Platz.</p>
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->

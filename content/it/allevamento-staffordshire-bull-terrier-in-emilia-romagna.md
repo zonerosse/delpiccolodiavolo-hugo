@@ -82,7 +82,7 @@ custom_content: |
   </div>
   </div>
 
-  <a href="https://maps.app.goo.gl/XDzxryqkbSSWNYVB8" target="_blank" rel="noopener" class="map-link" title="Apri Google Maps per indicazioni stradali" aria-label="Apri Google Maps per indicazioni stradali (si apre in una nuova scheda)">
+  <a href="https://maps.app.goo.gl/XDzxryqkbSSWNYVB8" target="_blank" rel="noopener" class="map-link" title="Apri Google Maps per indicazioni stradali" aria-label="Apri Google Maps Via Amerigo Chierici, 12, 44020 Ostellato (FE) (si apre in una nuova scheda)">
   Apri Google Maps
   <span>Via Amerigo Chierici, 12, 44020 Ostellato (FE)</span>
   </a>

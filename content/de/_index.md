@@ -91,7 +91,7 @@ custom_content: |
   <div>
   <p style="font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:#8b5a2b;font-weight:700;margin:0 0 .25rem">In der Presse &middot; 6. Januar 2026</p>
   <h2 style="font-family:Georgia,'Times New Roman',serif;font-size:1.05rem;color:#5c4a3a;margin:0 0 .3rem;line-height:1.4">&bdquo;Von Ferrara aus die Welt erobern: Bilquis, die dreijährige Hündin, die Preise sammelt&ldquo;</h2>
-  <p style="margin:0;font-size:.88rem;color:#6b5d52"><strong>FerraraToday</strong> (auf Italienisch) &middot; <a href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" target="_blank" rel="noopener" title="Artikel auf FerraraToday lesen" aria-label="Artikel auf FerraraToday lesen (wird in einem neuen Tab geöffnet)">Artikel lesen &rarr;</a></p>
+  <p style="margin:0;font-size:.88rem;color:#6b5d52"><strong>FerraraToday</strong> (auf Italienisch) &middot; <a href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" target="_blank" rel="noopener" title="Artikel auf FerraraToday lesen" aria-label="Artikel lesen (wird in einem neuen Tab geöffnet)">Artikel lesen &rarr;</a></p>
   </div>
   </div>
   </div>
@@ -339,7 +339,7 @@ custom_content: |
     <section class="cta-section">
   <h2>Schreiben Sie uns, um unsere Staffys persönlich kennenzulernen</h2>
   <p>Schreiben Sie uns für ein unverbindliches Gespräch. Wir beantworten gerne alle Ihre Fragen.</p>
-  <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20schreibe%20von%20der%20Del%20Piccolo%20Diavolo%20Website" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Schreiben Sie uns auf WhatsApp" aria-label="Kontaktieren Sie uns auf WhatsApp">Auf WhatsApp schreiben</a>
+  <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20schreibe%20von%20der%20Del%20Piccolo%20Diavolo%20Website" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Schreiben Sie uns auf WhatsApp" aria-label="Auf WhatsApp schreiben – Kontaktieren Sie uns auf WhatsApp">Auf WhatsApp schreiben</a>
   </section>
   <!--/BLOCCO:11-->
 ---

@@ -178,7 +178,7 @@ custom_content: |
 
   </div>
 
-  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">20 Ausstellungen in Italien im ENCI-Zuchtbuch, 19 davon mit dem 1. Platz: <a href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Ausstellungsergebnisse von Bilquis im ENCI-Zuchtbuch" aria-label="Ausstellungsergebnisse von Bilquis im ENCI-Zuchtbuch (wird in einem neuen Tab geöffnet)">die ENCI-Ergebnisliste</a> (LOI LO22197469). Ausstellungen im Ausland, die World Dog Show eingeschlossen, erfasst die ENCI nicht. Top Dog Junior 2023. Italienische Jugendchampionin. Italienische Schönheitschampionin 2024. Kroatische Jugendchampionin. Championin von Bosnien und Herzegowina. Crufts-Qualifikation 2025.</p>
+  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">20 Ausstellungen in Italien im ENCI-Zuchtbuch, 19 davon mit dem 1. Platz: <a href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Ausstellungsergebnisse von Bilquis im ENCI-Zuchtbuch" aria-label="die ENCI-Ergebnisliste – Ausstellungsergebnisse von Bilquis im ENCI-Zuchtbuch (wird in einem neuen Tab geöffnet)">die ENCI-Ergebnisliste</a> (LOI LO22197469). Ausstellungen im Ausland, die World Dog Show eingeschlossen, erfasst die ENCI nicht. Top Dog Junior 2023. Italienische Jugendchampionin. Italienische Schönheitschampionin 2024. Kroatische Jugendchampionin. Championin von Bosnien und Herzegowina. Crufts-Qualifikation 2025.</p>
 
   </div>
   </section>

@@ -148,7 +148,7 @@ Un **cesareo** costa fra i **500 e gli 800 €**, e la cifra dipende dal giorno 
 
 Le sverminazioni si ripetono più volte, e il costo cresce con il numero dei cuccioli. A questo si aggiungono l'esame delle feci in laboratorio, le prime vaccinazioni, il microchip e le visite veterinarie di controllo.
 
-Lo scontrino della farmacia con queste tre voci è in cima alla pagina; <a href="/docs/scontrino-farmaci-cucciolata-22-09-2026.pdf" target="_blank" rel="noopener" aria-label="Scontrino completo in PDF (si apre in una nuova scheda)">quello completo è in PDF</a>, con il codice fiscale coperto.
+Lo scontrino della farmacia con queste tre voci è in cima alla pagina; <a href="/docs/scontrino-farmaci-cucciolata-22-09-2026.pdf" target="_blank" rel="noopener" aria-label="quello completo è in PDF (si apre in una nuova scheda)">quello completo è in PDF</a>, con il codice fiscale coperto.
 
 ### Il totale
 

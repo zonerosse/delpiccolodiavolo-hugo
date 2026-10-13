@@ -52,7 +52,7 @@ custom_content: |
 
   <!--BLOCCO:2-->
   <h2>Perché prevenire conviene più che curare</h2>
-  <p>La lotta ai parassiti è uno dei pochi campi della salute del cane in cui l'approccio giusto è del tutto prevedibile e quasi sempre efficace. Quasi tutto quello che conta si previene con un calendario e una piccola spesa al mese, e quasi tutti i casi gravi che vedono i <a href="https://wsava.org/global-guidelines/" title="Linee guida globali WSAVA" target="_blank" rel="noopener" aria-label="Linee guida globali WSAVA (si apre in una nuova scheda)">veterinari</a> riguardano un cane la cui prevenzione si era interrotta.</p>
+  <p>La lotta ai parassiti è uno dei pochi campi della salute del cane in cui l'approccio giusto è del tutto prevedibile e quasi sempre efficace. Quasi tutto quello che conta si previene con un calendario e una piccola spesa al mese, e quasi tutti i casi gravi che vedono i <a href="https://wsava.org/global-guidelines/" title="Linee guida globali WSAVA" target="_blank" rel="noopener" aria-label="veterinari – Linee guida globali WSAVA (si apre in una nuova scheda)">veterinari</a> riguardano un cane la cui prevenzione si era interrotta.</p>
   <p>Per lo Staffordshire Bull Terrier c'è una considerazione di razza da dire subito: il pelo corto e fitto rende pulci e zecche più facili da vedere che in una razza a pelo lungo, ed è un vantaggio. Ma lo stesso mantello, insieme a una pelle portata alle reazioni allergiche, fa sì che la dermatite allergica da pulci sia particolarmente frequente e particolarmente fastidiosa. In un cane sensibilizzato, una sola puntura di pulce può scatenare settimane di prurito.</p>
   <!--/BLOCCO:2-->
 

@@ -93,7 +93,7 @@ custom_content: |
   <p>Ordinary protest is a few minutes of whining that fades. Separation distress is different: destruction concentrated at doors and windows rather than random chewing, urination or defecation in a house-trained dog, continuous vocalisation for the whole absence, excessive salivation, and refusal to eat anything while alone.</p>
   <p>A camera or a phone left recording tells you which of the two you have, and it is worth doing before concluding anything. Many dogs that owners assume are distressed are asleep 4 minutes after the door closes.</p>
   <p>If it is genuine distress, the situation needs a behaviourist rather than more of the same. Punishment on return makes it substantially worse, because the dog associates your arrival with conflict and becomes more anxious about the whole cycle.</p>
-  <p>This is also the position of the <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="AVSAB position statements (opens in a new tab)">American Veterinary Society of Animal Behavior</a>: anxiety and fear need a treatment plan built on environmental management and behaviour modification, sometimes with medication, and punishment has no place in it.</p>
+  <p>This is also the position of the <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="American Veterinary Society of Animal Behavior – AVSAB position statements (opens in a new tab)">American Veterinary Society of Animal Behavior</a>: anxiety and fear need a treatment plan built on environmental management and behaviour modification, sometimes with medication, and punishment has no place in it.</p>
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->

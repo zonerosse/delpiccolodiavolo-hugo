@@ -22,8 +22,8 @@ custom_content: |
   <p class="hero-subtitle"><!--REC-TOTALE--> testimonianze verificate</p>
   <p class="hero-description">Le esperienze delle famiglie che hanno preso un nostro Staffordshire Bull Terrier, ognuna con il collegamento alla recensione originale su Google.</p>
   <div class="hero-actions">
-  <a href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" class="btn btn-primary" title="Leggi le recensioni su Google" aria-label="Leggi le recensioni su Google (si apre in una nuova scheda)">Leggi su Google</a>
-  <a href="https://g.page/r/CUCv-r9V4lTREAE/review" target="_blank" rel="noopener" class="btn btn-ghost" title="Lascia una recensione su Google" aria-label="Lascia una recensione su Google (si apre in una nuova scheda)">Lascia Recensione</a>
+  <a href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" class="btn btn-primary" title="Leggi le recensioni su Google" aria-label="Leggi su Google (si apre in una nuova scheda)">Leggi su Google</a>
+  <a href="https://g.page/r/CUCv-r9V4lTREAE/review" target="_blank" rel="noopener" class="btn btn-ghost" title="Lascia una recensione su Google" aria-label="Lascia Recensione (si apre in una nuova scheda)">Lascia Recensione</a>
   </div>
   </div>
   </section>
@@ -337,8 +337,8 @@ custom_content: |
   <h2 class="section-title">Condividi la Tua Esperienza</h2>
 
   <div style="display:flex;flex-wrap:wrap;gap:1rem;justify-content:center;margin-bottom:1.5rem">
-  <a href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" class="btn btn-primary" title="Leggi le recensioni su Google" style="min-height:44px;padding:1rem 1.8rem" aria-label="Leggi le recensioni su Google (si apre in una nuova scheda)">⭐ Leggi su Google</a>
-  <a href="https://g.page/r/CUCv-r9V4lTREAE/review" target="_blank" rel="noopener" class="btn btn-ghost" title="Lascia una recensione su Google" style="min-height:44px;padding:1rem 1.8rem" aria-label="Lascia una recensione su Google (si apre in una nuova scheda)">✍️ Lascia Recensione</a>
+  <a href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" class="btn btn-primary" title="Leggi le recensioni su Google" style="min-height:44px;padding:1rem 1.8rem" aria-label="Leggi su Google (si apre in una nuova scheda)">⭐ Leggi su Google</a>
+  <a href="https://g.page/r/CUCv-r9V4lTREAE/review" target="_blank" rel="noopener" class="btn btn-ghost" title="Lascia una recensione su Google" style="min-height:44px;padding:1rem 1.8rem" aria-label="Lascia Recensione (si apre in una nuova scheda)">✍️ Lascia Recensione</a>
   <a href="https://www.facebook.com/delpiccolodiavolo" target="_blank" rel="noopener" class="btn btn-primary" title="Seguici su Facebook" style="min-height:44px;padding:1rem 1.8rem" aria-label="Seguici su Facebook (si apre in una nuova scheda)">Facebook</a>
   <a href="https://www.youtube.com/@Staffordshiredelpiccolodiavolo" target="_blank" rel="noopener" class="btn btn-ghost" title="Guarda i nostri video su YouTube" style="min-height:44px;padding:1rem 1.8rem" aria-label="Guarda i nostri video su YouTube (si apre in una nuova scheda)">▶ YouTube</a>
   </div>

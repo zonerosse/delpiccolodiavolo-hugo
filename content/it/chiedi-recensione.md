@@ -22,7 +22,7 @@ custom_content: |
   </div>
 
   <div style="text-align:center;margin:2.5rem 0">
-  <a class="btn btn-primary" href="https://g.page/r/CUCv-r9V4lTREAE/review" target="_blank" rel="noopener" aria-label="Scrivi la recensione sulla scheda Google dell'allevamento (si apre in una nuova scheda)">Scrivi la recensione su Google</a>
+  <a class="btn btn-primary" href="https://g.page/r/CUCv-r9V4lTREAE/review" target="_blank" rel="noopener" aria-label="Scrivi la recensione su Google – Scrivi la recensione sulla scheda Google dell'allevamento (si apre in una nuova scheda)">Scrivi la recensione su Google</a>
   <p style="margin-top:.9rem;font-size:.85rem;color:#7a6a58;line-height:1.6">Write your review · Bewertung schreiben<br>Si apre la scheda Google dell'allevamento. Serve un account Google.</p>
   </div>
 

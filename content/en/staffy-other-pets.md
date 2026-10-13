@@ -74,7 +74,7 @@ custom_content: |
   <h3>Profile C - Low compatibility</h3>
   <ul>
   <li><strong>Characteristics:</strong> a history of open aggression towards other dogs or animals, absent or traumatic socialisation, severe resource guarding, a high prey drive that cannot be managed</li>
-  <li><strong>Typical behaviour:</strong> intense fixation, body stiffening, lunging and pulling on the <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Ordinance of 6 August 2013, Gazzetta Ufficiale" target="_blank" rel="noopener" aria-label="Ordinance of 6 August 2013, Gazzetta Ufficiale (opens in a new tab)">lead</a>, aggressive vocalisations, bites or attacks</li>
+  <li><strong>Typical behaviour:</strong> intense fixation, body stiffening, lunging and pulling on the <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Ordinance of 6 August 2013, Gazzetta Ufficiale" target="_blank" rel="noopener" aria-label="lead – Ordinance of 6 August 2013, Gazzetta Ufficiale (opens in a new tab)">lead</a>, aggressive vocalisations, bites or attacks</li>
   <li><strong>Introductions:</strong> Strongly discouraged. They require a behaviourist before any attempt</li>
   </ul>
 

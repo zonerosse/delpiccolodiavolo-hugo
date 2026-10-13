@@ -48,7 +48,7 @@ Il tuo browser non supporta il video.
       <li>Dentatura completa a forbice</li>
     </ul>
     <p>CH. Americano Toreator De Testaferro × Staffgold Girl Of Ice</p>
-    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=3372904" target="_blank" rel="noopener" aria-label="Vedi il pedigree di Vangerbull Red Harricane (si apre in una nuova scheda)">Vedi pedigree su SBTPedigree →</a></p>
+    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=3372904" target="_blank" rel="noopener" aria-label="Vedi pedigree su SBTPedigree – Vedi il pedigree di Vangerbull Red Harricane (si apre in una nuova scheda)">Vedi pedigree su SBTPedigree →</a></p>
   </div>
 
   <div class="pair-x">×</div>
@@ -63,7 +63,7 @@ Il tuo browser non supporta il video.
       <li>Dentatura completa a forbice</li>
     </ul>
     <p>Skilful-Dogs Jeghër × Skilful-Dogs Red Skin</p>
-    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" aria-label="Vedi il pedigree di Skilful-dogs Nora (si apre in una nuova scheda)">Vedi pedigree su SBTPedigree →</a></p>
+    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" aria-label="Vedi pedigree su SBTPedigree – Vedi il pedigree di Skilful-dogs Nora (si apre in una nuova scheda)">Vedi pedigree su SBTPedigree →</a></p>
   </div>
 </div>
 
@@ -138,7 +138,7 @@ Nora (L2HGA + HC + DM)
 </div>
 </div>
 
-<p style="margin-top:1.5rem"><strong>Pedigree della cucciolata:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" class="sbt-link" aria-label="Vedi il pedigree completo della cucciolata su SBTPedigree (si apre in una nuova scheda)">Vedi su SBTPedigree →</a></p>
+<p style="margin-top:1.5rem"><strong>Pedigree della cucciolata:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" class="sbt-link" aria-label="Vedi su SBTPedigree – Vedi il pedigree completo della cucciolata su SBTPedigree (si apre in una nuova scheda)">Vedi su SBTPedigree →</a></p>
 
 <!--/BLOCCO:5-->
 

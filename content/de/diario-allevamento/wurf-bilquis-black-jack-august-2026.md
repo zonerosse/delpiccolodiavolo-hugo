@@ -98,7 +98,7 @@ Mit fünfundfünfzig Tagen sind die Ohren mitten in der Ausformung: Sie stellen 
       <li>Vollständiges Scherengebiss</li>
     </ul>
     <p>🏆 <strong>Quash Marvelous Hagler de Stafflorence</strong> (Weltsieger 2023) × <strong>Ultima di Casa Giacalone</strong> (Italienische Jugendchampionin)</p>
-    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" aria-label="Stammbaum ansehen von Black Jack di Casa Giacalone (wird in einem neuen Tab geöffnet)">Stammbaum auf SBTPedigree ansehen →</a></p>
+    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" aria-label="Stammbaum auf SBTPedigree ansehen – Stammbaum ansehen von Black Jack di Casa Giacalone (wird in einem neuen Tab geöffnet)">Stammbaum auf SBTPedigree ansehen →</a></p>
   </div>
 
   <div class="pair-x">×</div>
@@ -115,7 +115,7 @@ Mit fünfundfünfzig Tagen sind die Ohren mitten in der Ausformung: Sie stellen 
     </ul>
     <p><strong>Ch. IT · JCh. IT · JCh. HR · Ch. BiH</strong> · BOS Bologna 2024 · Crufts-Qualifikation 2025 · 4. World Dog Show Zagreb 2024</p>
     <p>Pablo Iuno Sospita Plata Plomo × Skilful-dogs Nora</p>
-    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" aria-label="Stammbaum ansehen von Bilquis Goddess Diabhal (wird in einem neuen Tab geöffnet)">Stammbaum auf SBTPedigree ansehen →</a></p>
+    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" aria-label="Stammbaum auf SBTPedigree ansehen – Stammbaum ansehen von Bilquis Goddess Diabhal (wird in einem neuen Tab geöffnet)">Stammbaum auf SBTPedigree ansehen →</a></p>
   </div>
 </div>
 
@@ -207,19 +207,19 @@ Die Eltern sind auf die wichtigsten genetischen Erkrankungen der Rasse getestet:
 </h3>
 <p style="margin:0 0 1.5rem;font-size:1rem;color:#fff !important;font-weight:600">Volle Transparenz: Ergebnisse überprüfbar in der SBTPedigree-Datenbank, Laborzertifikate unten zum Download — die Eltern von Black Jack eingeschlossen.</p>
 <div style="display:grid;gap:.75rem;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))">
-<a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Quash, Vater von Black Jack — Gentests (PDF) (wird in einem neuen Tab geöffnet)">
+<a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Quash — Gentests – Quash, Vater von Black Jack — Gentests (PDF) (wird in einem neuen Tab geöffnet)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Quash — Gentests
 </a>
-<a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima, Mutter von Black Jack — L2HGA-Test (PDF) (wird in einem neuen Tab geöffnet)">
+<a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima — L2HGA – Ultima, Mutter von Black Jack — L2HGA-Test (PDF) (wird in einem neuen Tab geöffnet)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Ultima — L2HGA
 </a>
-<a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima, Mutter von Black Jack — HC-Test (PDF) (wird in einem neuen Tab geöffnet)">
+<a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima — HC – Ultima, Mutter von Black Jack — HC-Test (PDF) (wird in einem neuen Tab geöffnet)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Ultima — HC
 </a>
-<a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Bilquis — L2HGA- und HC-Test (PDF) (wird in einem neuen Tab geöffnet)">
+<a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Bilquis — L2HGA &amp; HC – Bilquis — L2HGA- und HC-Test (PDF) (wird in einem neuen Tab geöffnet)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Bilquis — L2HGA &amp; HC
 </a>

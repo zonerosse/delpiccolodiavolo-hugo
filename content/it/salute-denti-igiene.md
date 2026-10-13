@@ -83,7 +83,7 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>La pulizia professionale</h2>
-  <p>Una pulizia dentale dal <a href="https://wsava.org/global-guidelines/" title="Linee guida globali WSAVA" target="_blank" rel="noopener" aria-label="Linee guida globali WSAVA (si apre in una nuova scheda)">veterinario</a> richiede l'anestesia generale, ed è il punto in cui i proprietari esitano. L'esitazione si capisce, ma di solito è fuori luogo: i protocolli moderni, con esami del sangue prima e monitoraggio durante, sono a basso rischio in un cane sano, e l'alternativa sono anni di infezione non curata.</p>
+  <p>Una pulizia dentale dal <a href="https://wsava.org/global-guidelines/" title="Linee guida globali WSAVA" target="_blank" rel="noopener" aria-label="veterinario – Linee guida globali WSAVA (si apre in una nuova scheda)">veterinario</a> richiede l'anestesia generale, ed è il punto in cui i proprietari esitano. L'esitazione si capisce, ma di solito è fuori luogo: i protocolli moderni, con esami del sangue prima e monitoraggio durante, sono a basso rischio in un cane sano, e l'alternativa sono anni di infezione non curata.</p>
   <p>La cosiddetta pulizia senza anestesia toglie il tartaro visibile dalla corona e lascia i depositi sotto la gengiva, che sono quelli che causano davvero la malattia. La bocca sembra più bella e non si cura niente.</p>
   <p>La frequenza cambia da cane a cane: un cane a cui si spazzolano i denti con regolarità può aver bisogno di una pulizia professionale ogni due o tre anni, mentre uno a cui non sono mai stati spazzolati può averne bisogno ogni anno dalla mezza età.</p>
   <!--/BLOCCO:7-->

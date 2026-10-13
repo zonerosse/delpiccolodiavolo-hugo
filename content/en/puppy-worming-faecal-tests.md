@@ -55,7 +55,7 @@ custom_content: |
   <!--BLOCCO:2-->
   <h2>The schedule</h2>
 
-  <p>The <a href="https://www.esccap.org/guidelines/gl1/" title="ESCCAP Guideline 01 — Worm Control in Dogs and Cats" target="_blank" rel="noopener" aria-label="ESCCAP guidelines on worm control in dogs and cats (opens in a new tab)">European ESCCAP guidelines</a> set out a precise scheme for puppies:</p>
+  <p>The <a href="https://www.esccap.org/guidelines/gl1/" title="ESCCAP Guideline 01 — Worm Control in Dogs and Cats" target="_blank" rel="noopener" aria-label="European ESCCAP guidelines – ESCCAP guidelines on worm control in dogs and cats (opens in a new tab)">European ESCCAP guidelines</a> set out a precise scheme for puppies:</p>
 
   <ul>
   <li><strong>First treatment at 2 weeks of age.</strong></li>
@@ -103,7 +103,7 @@ custom_content: |
   <p>The picture is one of puppies with a healthy gut: no parasites, balanced flora, digestion working as it should. That is not luck. It is the result of a protocol applied from the second week of life and of an environment kept clean.</p>
 
   <div class="callout">
-  <p><strong>📄 The full reports:</strong> <a href="/docs/referti-feci-cucciolata-17-09-2026.pdf" title="Faecal test reports for the litter, 17 September 2026" target="_blank" rel="noopener" aria-label="Faecal test reports for the litter, 17 September 2026 (opens in a new tab)">download the PDF of both tests</a> — results table, microphotographs and the Giardia antigen test. The reports are in Italian.</p>
+  <p><strong>📄 The full reports:</strong> <a href="/docs/referti-feci-cucciolata-17-09-2026.pdf" title="Faecal test reports for the litter, 17 September 2026" target="_blank" rel="noopener" aria-label="download the PDF of both tests – Faecal test reports for the litter, 17 September 2026 (opens in a new tab)">download the PDF of both tests</a> — results table, microphotographs and the Giardia antigen test. The reports are in Italian.</p>
   </div>
   <!--/BLOCCO:4-->
 

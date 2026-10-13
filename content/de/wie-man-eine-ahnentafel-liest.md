@@ -101,7 +101,7 @@ custom_content: |
 
   <p>Und das ist keine Theorie: <strong>Queen of California, Italienische Jugendchampionin 2026, ist so entstanden.</strong> Ich habe diese Verpaarung studiert und genau diese Inzucht gesucht, auf diesen Hunden, weil ich sie für die anschließende Arbeit an den Elitebull-Linien brauchte. Sie ist kein Zufallshund: sie ist ein so gewollter Hund.</p>
 
-  <p>Die Zahlen sind öffentlich, auf <a href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" aria-label="Seite von Queen of California auf SBTPedigree (wird in einem neuen Tab geöffnet)">ihrer Seite auf SBTPedigree</a>:</p>
+  <p>Die Zahlen sind öffentlich, auf <a href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" aria-label="ihrer Seite auf SBTPedigree – Seite von Queen of California auf SBTPedigree (wird in einem neuen Tab geöffnet)">ihrer Seite auf SBTPedigree</a>:</p>
 
   <ul>
   <li><strong>COI 9,14 % über acht Generationen</strong> &mdash; am oberen Rand der Spanne, die ich mir setze, und so gewollt</li>

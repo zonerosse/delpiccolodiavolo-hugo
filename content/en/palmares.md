@@ -179,7 +179,7 @@ custom_content: |
 
   </div>
 
-  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">20 shows in Italy recorded in the ENCI stud book, 19 of them placed first: <a href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Bilquis show results in the ENCI stud book" aria-label="Bilquis show results in the ENCI stud book (opens in a new tab)">the ENCI results record</a> (LOI LO22197469). Shows abroad, the World Dog Show included, are not recorded by ENCI. Top Dog Junior 2023. Italian Junior Champion. Italian Beauty Champion 2024. Croatian Junior Champion. Bosnia and Herzegovina Champion. Crufts qualification 2025.</p>
+  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">20 shows in Italy recorded in the ENCI stud book, 19 of them placed first: <a href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Bilquis show results in the ENCI stud book" aria-label="the ENCI results record – Bilquis show results in the ENCI stud book (opens in a new tab)">the ENCI results record</a> (LOI LO22197469). Shows abroad, the World Dog Show included, are not recorded by ENCI. Top Dog Junior 2023. Italian Junior Champion. Italian Beauty Champion 2024. Croatian Junior Champion. Bosnia and Herzegovina Champion. Crufts qualification 2025.</p>
 
   </div>
   </section>

@@ -97,9 +97,9 @@ custom_content: |
   <p><strong>Dam:</strong> Skilful-dogs Nora</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Character.</strong> Gentle and soft with everyone, dogs and people included those she has never met. If you come to visit she greets you belly up asking to be stroked, and you will not shake her off until you leave. It is not only her own trait: the puppies from her first litter inherited the same character, and the families say so in the <a href="/en/reviews/" title="Reviews">reviews</a>.</p>
   <a class="doc-link" href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" title="Download Bilquis genetic tests" aria-label="Download Bilquis genetic tests (opens in a new tab)">📄 Genetic Tests</a>
-  <a class="doc-link" href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" title="Download Bilquis echocardiogram" aria-label="Download Bilquis echocardiogram (opens in a new tab)">📄 Doppler Echocardiogram</a>
-  <a class="doc-link" href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Download Bilquis show results from the ENCI stud book" aria-label="Download Bilquis show results from the ENCI stud book (opens in a new tab)">📄 ENCI show results</a>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="View Bilquis pedigree on SBTPedigree" aria-label="View Bilquis pedigree on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
+  <a class="doc-link" href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" title="Download Bilquis echocardiogram" aria-label="Doppler Echocardiogram – Download Bilquis echocardiogram (opens in a new tab)">📄 Doppler Echocardiogram</a>
+  <a class="doc-link" href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Download Bilquis show results from the ENCI stud book" aria-label="ENCI show results – Download Bilquis show results from the ENCI stud book (opens in a new tab)">📄 ENCI show results</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="View Bilquis pedigree on SBTPedigree" aria-label="View Full Pedigree – View Bilquis pedigree on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
   <!--ESPOSIZIONI:bilquis-->
   </div>
   </div>
@@ -127,7 +127,7 @@ custom_content: |
   <p><strong>Handler:</strong> Vittoria Passerini</p>
   <p><strong>Title:</strong> Italian Junior Champion — Albarella (RO), 17 May 2026. Junior Class 1st Excellent, JCAC, JBOB, BOB. Best Staffy — Polesano Canine Group.</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Character.</strong> Minnie's daughter, and her carbon copy: not only in build, but above all in the head. The same exuberance, the same constant demand for attention, the same belly up at the drop of a hat. Queen does not live with us, but we see her often and Manuela, her owner's wife, tells us every day how she is: when people say character is inherited, she is the proof we have in front of us.</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" title="View Queen of California pedigree on SBTPedigree" aria-label="View the full pedigree of the litter on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" title="View Queen of California pedigree on SBTPedigree" aria-label="View Full Pedigree – View the full pedigree of the litter on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
   <!--ESPOSIZIONI:queen-->
   </div>
   </div>
@@ -153,7 +153,7 @@ custom_content: |
   <p><strong>Dam:</strong> CH. Lackyle Ogbhean an Diabhal</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Character.</strong> Exuberant. She wrecks your legs jumping up for attention, then licks you until you are the one who gives in. She too goes belly up at the slightest excuse.</p>
   <a class="doc-link" href="/docs/Minnie-GF.pdf" target="_blank" rel="noopener" title="Download Croi Olc genetic tests" aria-label="Download Croi Olc genetic tests (opens in a new tab)">📄 Genetic Tests</a>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="View Croi Olc pedigree on SBTPedigree" aria-label="View Croi Olc pedigree on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="View Croi Olc pedigree on SBTPedigree" aria-label="View Full Pedigree – View Croi Olc pedigree on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
   <!--ESPOSIZIONI:croiolc-->
   </div>
   </div>
@@ -177,7 +177,7 @@ custom_content: |
   <p><strong>Sire:</strong> CH. Dangerous Smile Black Shadow</p>
   <p><strong>Dam:</strong> CH. Sonrisa Feliz Keely Lariel</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Character.</strong> She has fire in her, if you let her: never tired, a proper nuisance. Then my son turns up and she changes &mdash; she climbs into the armchair and plays with the ball, nosing it like a seal.</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1775592" target="_blank" rel="noopener" title="View Divine pedigree on SBTPedigree" aria-label="View Divine pedigree on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1775592" target="_blank" rel="noopener" title="View Divine pedigree on SBTPedigree" aria-label="View Full Pedigree – View Divine pedigree on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
   <!--ESPOSIZIONI:faiter-->
   </div>
   </div>
@@ -202,7 +202,7 @@ custom_content: |
   <p><strong>Sire:</strong> CH. Hell's Angel</p>
   <p><strong>Dam:</strong> CH. Mellowstaff by Great'n Glory</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Character.</strong> A proper German, she does not give an inch: always on the ball, with a peppery little temper. Yet respectful to the point of becoming my elderly parents' dog. She lives with them and goes along with everything: the walks, the yard, hanging out the washing, taking out the rubbish. And she would do it off the lead too, if we let her: she never moves a metre from my mother's feet.</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1054244" target="_blank" rel="noopener" title="View Kennedy pedigree on SBTPedigree" aria-label="View Kennedy pedigree on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1054244" target="_blank" rel="noopener" title="View Kennedy pedigree on SBTPedigree" aria-label="View Full Pedigree – View Kennedy pedigree on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
   <!--ESPOSIZIONI:jackie-->
   </div>
   </div>
@@ -228,7 +228,7 @@ custom_content: |
   <p><strong>Sire:</strong> CH. Kiraloebis Italian Gigalo (Top UK Staffordshire Bull Terrier 2012)</p>
   <p><strong>Dam:</strong> Lackyle Duilleog Daracha</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Character.</strong> The old lady of the house, the one in charge. She keeps an eye on everything and everyone and tries to look serious in every situation, then remembers she is a Staffy after all and cannot resist being fussed over. A nuisance who always wants to be the centre of attention. Her cushion is on the rug beside my bed.</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=789829" target="_blank" rel="noopener" title="View Derry pedigree on SBTPedigree" aria-label="View Derry pedigree on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=789829" target="_blank" rel="noopener" title="View Derry pedigree on SBTPedigree" aria-label="View Full Pedigree – View Derry pedigree on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
   <!--ESPOSIZIONI:nutella-->
   </div>
   </div>
@@ -253,7 +253,7 @@ custom_content: |
   <p><strong>Sire:</strong> THE Phenomenal AJ Styles Valconcaclan</p>
   <p><strong>Dam:</strong> Foyleoak Maiden Derry</p>
   <p><strong>Owner:</strong> Ricarda Mazzola Wagner</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4477342" target="_blank" rel="noopener" title="View Cattleya pedigree on SBTPedigree" aria-label="View Cattleya pedigree on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4477342" target="_blank" rel="noopener" title="View Cattleya pedigree on SBTPedigree" aria-label="View Full Pedigree – View Cattleya pedigree on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
   <!--ESPOSIZIONI:cattleya-->
   </div>
   </div>
@@ -281,7 +281,7 @@ custom_content: |
   <p><strong>Latest litter:</strong> <a href="/en/diario-allevamento/red-nora-litter-february-2026/" title="Red × Nora litter, February 2026">Red × Nora, 9 February 2026</a>: parents, tests, examinations and growth in the diary</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Character.</strong> We used to call her Yogi, after the bear: a bulldozer with no brakes, full of energy, and underneath it all a teddy bear for the armchair, the sofa, or the bed if you let her.</p>
   <a class="doc-link" href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" title="Download Nora genetic tests" aria-label="Download Nora genetic tests (opens in a new tab)">📄 Genetic Tests</a>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="View Nora pedigree on SBTPedigree" aria-label="View Nora pedigree on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="View Nora pedigree on SBTPedigree" aria-label="View Full Pedigree – View Nora pedigree on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
   <!--ESPOSIZIONI:nora-->
   </div>
   </div>

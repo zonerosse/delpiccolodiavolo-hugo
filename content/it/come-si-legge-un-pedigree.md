@@ -101,7 +101,7 @@ custom_content: |
 
   <p>E non &egrave; teoria: <strong>Queen of California, Giovane Campionessa Italiana 2026, &egrave; nata cos&igrave;.</strong> Ho studiato quell'accoppiamento cercando esattamente quella consanguineit&agrave;, su quei soggetti, perch&eacute; mi serviva per il lavoro successivo sulle linee Elitebull. Non &egrave; un cane capitato: &egrave; un cane voluto in quel modo.</p>
 
-  <p>I numeri sono pubblici, sulla <a href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" aria-label="Scheda di Queen of California su SBTPedigree (si apre in una nuova scheda)">sua pagina su SBTPedigree</a>:</p>
+  <p>I numeri sono pubblici, sulla <a href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" aria-label="sua pagina su SBTPedigree – Scheda di Queen of California su SBTPedigree (si apre in una nuova scheda)">sua pagina su SBTPedigree</a>:</p>
 
   <ul>
   <li><strong>COI 9,14% su otto generazioni</strong> &mdash; al limite alto della forbice che mi do, e voluto cos&igrave;</li>

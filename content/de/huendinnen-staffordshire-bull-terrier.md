@@ -84,9 +84,9 @@ custom_content: |
   <p><strong>Mutter:</strong> Skilful-dogs Nora</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Sanft und fein zu allen, Hunden wie Menschen, auch zu solchen, die sie nie gesehen hat. Wer uns besucht, wird von ihr mit dem Bauch nach oben empfangen und wird sie bis zum Abschied nicht mehr los. Das ist nicht nur ihr eigener Zug: die Welpen ihres ersten Wurfes haben dasselbe Wesen geerbt, und die Familien sagen es in den <a href="/de/bewertungen/" title="Bewertungen">Bewertungen</a>.</p>
   <a class="doc-link" href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" title="Gentests Bilquis herunterladen" aria-label="Gentests Bilquis herunterladen (wird in einem neuen Tab geöffnet)">📄 Gentests</a>
-  <a class="doc-link" href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" title="Echokardiogramm Bilquis herunterladen" aria-label="Echokardiogramm Bilquis herunterladen (wird in einem neuen Tab geöffnet)">📄 Echo-Doppler</a>
-  <a class="doc-link" href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Ausstellungsergebnisse von Bilquis aus dem ENCI-Zuchtbuch herunterladen" aria-label="Ausstellungsergebnisse von Bilquis aus dem ENCI-Zuchtbuch herunterladen (wird in einem neuen Tab geöffnet)">📄 ENCI-Ausstellungen</a>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Stammbaum Bilquis auf SBTPedigree" aria-label="Stammbaum Bilquis auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
+  <a class="doc-link" href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" title="Echokardiogramm Bilquis herunterladen" aria-label="Echo-Doppler – Echokardiogramm Bilquis herunterladen (wird in einem neuen Tab geöffnet)">📄 Echo-Doppler</a>
+  <a class="doc-link" href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Ausstellungsergebnisse von Bilquis aus dem ENCI-Zuchtbuch herunterladen" aria-label="ENCI-Ausstellungen – Ausstellungsergebnisse von Bilquis aus dem ENCI-Zuchtbuch herunterladen (wird in einem neuen Tab geöffnet)">📄 ENCI-Ausstellungen</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Stammbaum Bilquis auf SBTPedigree" aria-label="Vollständigen Stammbaum Sehen – Stammbaum Bilquis auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
   <!--ESPOSIZIONI:bilquis-->
   </div>
   </div>
@@ -114,7 +114,7 @@ custom_content: |
   <p><strong>Handler:</strong> Vittoria Passerini</p>
   <p><strong>Titel:</strong> Italienische Jugendchampionin — Albarella (RO), 17. Mai 2026. Jugendklasse V1, JCAC, JBOB, BOB. Bester Staffy — Kynologische Gruppe Polesano.</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Minnies Tochter und ihre Kopie: nicht nur im K&ouml;rperbau, vor allem im Kopf. Dieselbe &Uuml;berschw&auml;nglichkeit, dasselbe st&auml;ndige Verlangen nach Aufmerksamkeit, derselbe Bauch nach oben bei jeder Gelegenheit. Queen lebt nicht bei uns, aber wir sehen sie oft, und Manuela, die Frau des Besitzers, erz&auml;hlt uns jeden Tag, wie es ihr geht: Wenn es hei&szlig;t, das Wesen werde vererbt, ist sie der Beweis, den wir vor Augen haben.</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" title="Stammbaum Queen of California auf SBTPedigree" aria-label="Vollständigen Stammbaum des Wurfes auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" title="Stammbaum Queen of California auf SBTPedigree" aria-label="Vollständigen Stammbaum Sehen – Vollständigen Stammbaum des Wurfes auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
   <!--ESPOSIZIONI:queen-->
   </div>
   </div>
@@ -140,7 +140,7 @@ custom_content: |
   <p><strong>Mutter:</strong> CH. Lackyle Ogbhean an Diabhal</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> &Uuml;berschw&auml;nglich. Sie ruiniert einem die Beine, weil sie hochspringt, um Aufmerksamkeit zu bekommen, und leckt dann so lange, bis man selbst aufgibt. Auch sie liegt beim kleinsten Anlass mit dem Bauch nach oben.</p>
   <a class="doc-link" href="/docs/Minnie-GF.pdf" target="_blank" rel="noopener" title="Gentests Croi Olc herunterladen" aria-label="Gentests Croi Olc herunterladen (wird in einem neuen Tab geöffnet)">📄 Gentests</a>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="Stammbaum Croi Olc auf SBTPedigree" aria-label="Stammbaum Croi Olc auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="Stammbaum Croi Olc auf SBTPedigree" aria-label="Vollständigen Stammbaum Sehen – Stammbaum Croi Olc auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
   <!--ESPOSIZIONI:croiolc-->
   </div>
   </div>
@@ -164,7 +164,7 @@ custom_content: |
   <p><strong>Vater:</strong> CH. Dangerous Smile Black Shadow</p>
   <p><strong>Mutter:</strong> CH. Sonrisa Feliz Keely Lariel</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Sie hat Feuer, wenn man es zul&auml;sst: nie m&uuml;de, eine echte Nervens&auml;ge. Dann kommt mein Sohn, und sie verwandelt sich &mdash; sie klettert in den Sessel und spielt Ball, indem sie ihn mit der Nase st&ouml;&szlig;t, wie ein Seehund.</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1775592" target="_blank" rel="noopener" title="Stammbaum Divine auf SBTPedigree" aria-label="Stammbaum Divine auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1775592" target="_blank" rel="noopener" title="Stammbaum Divine auf SBTPedigree" aria-label="Vollständigen Stammbaum Sehen – Stammbaum Divine auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
   <!--ESPOSIZIONI:faiter-->
   </div>
   </div>
@@ -189,7 +189,7 @@ custom_content: |
   <p><strong>Vater:</strong> CH. Hell's Angel</p>
   <p><strong>Mutter:</strong> CH. Mellowstaff by Great'n Glory</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Als echte Deutsche gibt sie keinen Zentimeter nach: immer aufmerksam, mit ordentlich Pfeffer. Und doch so respektvoll, dass sie die Hündin meiner betagten Eltern geworden ist. Sie lebt bei ihnen und begleitet sie überall hin: bei den Spaziergängen, im Hof, beim Wäscheaufhängen, beim Müll hinausbringen. Und sie würde es auch ohne Leine tun, wenn wir es zuließen: von den Füßen meiner Mutter weicht sie keinen Meter.</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1054244" target="_blank" rel="noopener" title="Stammbaum Kennedy auf SBTPedigree" aria-label="Stammbaum Kennedy auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1054244" target="_blank" rel="noopener" title="Stammbaum Kennedy auf SBTPedigree" aria-label="Vollständigen Stammbaum Sehen – Stammbaum Kennedy auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
   <!--ESPOSIZIONI:jackie-->
   </div>
   </div>
@@ -215,7 +215,7 @@ custom_content: |
   <p><strong>Vater:</strong> CH. Kiraloebis Italian Gigalo (Top UK Staffordshire Bull Terrier 2012)</p>
   <p><strong>Mutter:</strong> Lackyle Duilleog Daracha</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Die alte Dame des Hauses, die Chefin. Sie kontrolliert alles und jeden und versucht, sich in jeder Lage Haltung zu geben &mdash; dann merkt sie, dass sie doch ein Staffy ist, und kann dem Schmusen nicht widerstehen. Eine Nervens&auml;ge, die immer im Mittelpunkt stehen will. Ihr Kissen liegt auf dem Teppich neben meinem Bett.</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=789829" target="_blank" rel="noopener" title="Stammbaum Derry auf SBTPedigree" aria-label="Stammbaum Derry auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=789829" target="_blank" rel="noopener" title="Stammbaum Derry auf SBTPedigree" aria-label="Vollständigen Stammbaum Sehen – Stammbaum Derry auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
   <!--ESPOSIZIONI:nutella-->
   </div>
   </div>
@@ -240,7 +240,7 @@ custom_content: |
   <p><strong>Vater:</strong> THE Phenomenal AJ Styles Valconcaclan</p>
   <p><strong>Mutter:</strong> Foyleoak Maiden Derry</p>
   <p><strong>Besitzerin:</strong> Ricarda Mazzola Wagner</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4477342" target="_blank" rel="noopener" title="Stammbaum Cattleya auf SBTPedigree" aria-label="Stammbaum Cattleya auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4477342" target="_blank" rel="noopener" title="Stammbaum Cattleya auf SBTPedigree" aria-label="Vollständigen Stammbaum Sehen – Stammbaum Cattleya auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
   <!--ESPOSIZIONI:cattleya-->
   </div>
   </div>
@@ -268,7 +268,7 @@ custom_content: |
   <p><strong>Letzter Wurf:</strong> <a href="/de/diario-allevamento/wurf-red-nora-februar-2026/" title="Wurf Red × Nora, Februar 2026">Red × Nora, 9. Februar 2026</a>: Eltern, Tests, Untersuchungen und Wachstum im Tagebuch</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Wir nannten sie Yoghi, wie den B&auml;ren: ein Bulldozer ohne Bremsen, voller Energie, und im Grunde ein Teddyb&auml;r f&uuml;r den Sessel, das Sofa oder das Bett, wenn man es zulie&szlig;.</p>
   <a class="doc-link" href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" title="Gentests Nora herunterladen" aria-label="Gentests Nora herunterladen (wird in einem neuen Tab geöffnet)">📄 Gentests</a>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="Stammbaum Nora auf SBTPedigree" aria-label="Stammbaum Nora auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="Stammbaum Nora auf SBTPedigree" aria-label="Vollständigen Stammbaum Sehen – Stammbaum Nora auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
   <!--ESPOSIZIONI:nora-->
   </div>
   </div>

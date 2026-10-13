@@ -55,7 +55,7 @@ custom_content: |
   <!--BLOCCO:2-->
   <h2>Der Zeitplan</h2>
 
-  <p>Die <a href="https://www.esccap.org/guidelines/gl1/" title="ESCCAP Guideline 01 — Worm Control in Dogs and Cats" target="_blank" rel="noopener" aria-label="ESCCAP-Leitlinien zur Wurmkontrolle bei Hund und Katze (öffnet in neuem Tab)">europäischen ESCCAP-Leitlinien</a> geben für Welpen ein klares Schema vor:</p>
+  <p>Die <a href="https://www.esccap.org/guidelines/gl1/" title="ESCCAP Guideline 01 — Worm Control in Dogs and Cats" target="_blank" rel="noopener" aria-label="europäischen ESCCAP-Leitlinien – ESCCAP-Leitlinien zur Wurmkontrolle bei Hund und Katze (öffnet in neuem Tab)">europäischen ESCCAP-Leitlinien</a> geben für Welpen ein klares Schema vor:</p>
 
   <ul>
   <li><strong>Erste Behandlung mit 2 Lebenswochen.</strong></li>
@@ -103,7 +103,7 @@ custom_content: |
   <p>Das Bild zeigt Welpen mit gesundem Darm: keine Parasiten, ausgeglichene Flora, funktionierende Verdauung. Das ist kein Glück, sondern das Ergebnis eines ab der zweiten Lebenswoche angewandten Protokolls und einer sauber gehaltenen Umgebung.</p>
 
   <div class="callout">
-  <p><strong>📄 Die vollständigen Befunde:</strong> <a href="/docs/referti-feci-cucciolata-17-09-2026.pdf" title="Befunde der Kotuntersuchung des Wurfs, 17. September 2026" target="_blank" rel="noopener" aria-label="Befunde der Kotuntersuchung des Wurfs, 17. September 2026 (wird in einem neuen Tab geöffnet)">PDF beider Untersuchungen herunterladen</a> — Ergebnistabelle, Mikroaufnahmen und Giardien-Antigentest. Die Befunde sind auf Italienisch.</p>
+  <p><strong>📄 Die vollständigen Befunde:</strong> <a href="/docs/referti-feci-cucciolata-17-09-2026.pdf" title="Befunde der Kotuntersuchung des Wurfs, 17. September 2026" target="_blank" rel="noopener" aria-label="PDF beider Untersuchungen herunterladen – Befunde der Kotuntersuchung des Wurfs, 17. September 2026 (wird in einem neuen Tab geöffnet)">PDF beider Untersuchungen herunterladen</a> — Ergebnistabelle, Mikroaufnahmen und Giardien-Antigentest. Die Befunde sind auf Italienisch.</p>
   </div>
   <!--/BLOCCO:4-->
 

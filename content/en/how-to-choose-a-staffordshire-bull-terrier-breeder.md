@@ -73,7 +73,7 @@ lastmod: 2026-10-05
 
 <h2>3. The pedigree, and who is inside it</h2>
 
-<p>The <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="Staffordshire Bull Terrier breed page, ENCI" target="_blank" rel="noopener" aria-label="Staffordshire Bull Terrier breed page, ENCI (opens in a new tab)">ENCI pedigree</a> is the only document certifying that a dog is a Staffordshire Bull Terrier with identified parents. It is not an extra and it is not charged separately.</p>
+<p>The <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="Staffordshire Bull Terrier breed page, ENCI" target="_blank" rel="noopener" aria-label="ENCI pedigree – Staffordshire Bull Terrier breed page, ENCI (opens in a new tab)">ENCI pedigree</a> is the only document certifying that a dog is a Staffordshire Bull Terrier with identified parents. It is not an extra and it is not charged separately.</p>
 
 <p><strong>How to verify.</strong> The pedigree itself is checked against its stud book number. But there is a further step almost nobody takes: the breed's genealogies are public on SBTPedigree, an international database (how to use it is in <a href="/en/how-to-read-a-pedigree/" title="How to read a pedigree">how to read a pedigree</a>). Look up the grandparents and great-grandparents, see whether they exist, whether they hold titles, whether they appear in other kennels. A tree that stops after two generations tells you something.</p>
 

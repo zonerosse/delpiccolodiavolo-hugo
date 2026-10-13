@@ -45,7 +45,7 @@ custom_content: |
   <!--BLOCCO:2-->
   <h2>La finestra: cosa dice l'etologia</h2>
 
-  <p>Su questo non c'&egrave; la mia opinione, c'&egrave; letteratura consolidata. Il <strong>periodo sensibile per la socializzazione</strong> del cane va grosso modo dalla terza alla dodicesima settimana di vita, con il momento centrale fra la quarta e l'ottava. Il riferimento classico sono gli studi di Scott e Fuller, pubblicati nel 1965; oggi la <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="Position statement AVSAB sulla socializzazione del cucciolo (si apre in una nuova scheda)">posizione dell’AVSAB sulla socializzazione</a> indica i primi tre mesi di vita come il periodo più importante, e raccomanda di non aspettare la fine delle vaccinazioni per cominciare.</p>
+  <p>Su questo non c'&egrave; la mia opinione, c'&egrave; letteratura consolidata. Il <strong>periodo sensibile per la socializzazione</strong> del cane va grosso modo dalla terza alla dodicesima settimana di vita, con il momento centrale fra la quarta e l'ottava. Il riferimento classico sono gli studi di Scott e Fuller, pubblicati nel 1965; oggi la <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="posizione dell’AVSAB sulla socializzazione – Position statement AVSAB sulla socializzazione del cucciolo (si apre in una nuova scheda)">posizione dell’AVSAB sulla socializzazione</a> indica i primi tre mesi di vita come il periodo più importante, e raccomanda di non aspettare la fine delle vaccinazioni per cominciare.</p>
 
   <p>In quelle settimane il cucciolo costruisce la categoria &laquo;normale&raquo;. Quello che incontra &mdash; persone, rumori, superfici, altri animali &mdash; ci entra dentro senza sforzo. Quello che non incontra rester&agrave; per sempre qualcosa da valutare, e da adulto lo valuter&agrave; con gli strumenti di un adulto: prudenza, allerta, a volte reattivit&agrave;.</p>
 
@@ -187,7 +187,7 @@ custom_content: |
   <section class="cta-section">
   <h2>Vuoi vedere dove crescono?</h2>
   <p>L'allevamento Del Piccolo Diavolo riceve su appuntamento a Ostellato, in provincia di Ferrara. Si vede la casa, il cortile e le madri.</p>
-  <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20vedere%20dove%20crescono%20i%20cuccioli" class="btn" title="Scrivici su WhatsApp" target="_blank" rel="noopener" aria-label="Scrivici su WhatsApp per fissare una visita (si apre in una nuova scheda)">Fissa una visita</a>
+  <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20vedere%20dove%20crescono%20i%20cuccioli" class="btn" title="Scrivici su WhatsApp" target="_blank" rel="noopener" aria-label="Fissa una visita – Scrivici su WhatsApp per fissare una visita (si apre in una nuova scheda)">Fissa una visita</a>
   </section>
   <!--/BLOCCO:11-->
 ---

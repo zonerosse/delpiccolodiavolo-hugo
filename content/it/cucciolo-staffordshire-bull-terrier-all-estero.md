@@ -62,7 +62,7 @@ custom_content: |
 
   <h2>Cosa lo accompagna</h2>
 
-  <p>I movimenti di cani fra paesi dell'Unione Europea seguono il <a href="https://food.ec.europa.eu/animals/movement-pets_en" target="_blank" rel="noopener" aria-label="Regolamento europeo sui movimenti degli animali da compagnia (si apre in una nuova scheda)">Regolamento UE 576/2013</a>, che stabilisce passaporto, microchip e antirabbica in regola. Non sono formalit&agrave; nostre: sono requisiti di legge, e senza il cane alla frontiera non passa.</p>
+  <p>I movimenti di cani fra paesi dell'Unione Europea seguono il <a href="https://food.ec.europa.eu/animals/movement-pets_en" target="_blank" rel="noopener" aria-label="Regolamento UE 576/2013 – Regolamento europeo sui movimenti degli animali da compagnia (si apre in una nuova scheda)">Regolamento UE 576/2013</a>, che stabilisce passaporto, microchip e antirabbica in regola. Non sono formalit&agrave; nostre: sono requisiti di legge, e senza il cane alla frontiera non passa.</p>
 
   <ul>
   <li><strong>Microchip</strong> conforme allo standard europeo, registrato</li>

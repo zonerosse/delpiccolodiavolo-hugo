@@ -101,7 +101,7 @@ custom_content: |
 
   <p>And it is not theory: <strong>Queen of California, Italian Junior Champion 2026, was born this way.</strong> I studied that pairing looking for exactly that inbreeding, on those dogs, because I needed it for the subsequent work on the Elitebull lines. She is not a dog that happened: she is a dog wanted that way.</p>
 
-  <p>The numbers are public, on <a href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" aria-label="Queen of California's page on SBTPedigree (opens in a new tab)">her page on SBTPedigree</a>:</p>
+  <p>The numbers are public, on <a href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" aria-label="her page on SBTPedigree – Queen of California's page on SBTPedigree (opens in a new tab)">her page on SBTPedigree</a>:</p>
 
   <ul>
   <li><strong>COI 9.14% over eight generations</strong> &mdash; at the upper limit of the range I allow myself, and wanted that way</li>
