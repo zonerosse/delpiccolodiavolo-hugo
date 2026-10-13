@@ -1,6 +1,6 @@
 ---
 title: "Allevamento Staffordshire Bull Terrier in Emilia-Romagna"
-lastmod: 2026-10-05
+lastmod: 2026-10-13
 tipoPagina: "ContactPage"
 titleSeo: "Allevamento Staffy in Emilia-Romagna: Ostellato (FE)"
 date: 2025-12-28
@@ -39,23 +39,6 @@ custom_content: |
   <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">L'Allevamento</span>
-  <h2 class="section-title">Un allevamento serio in Emilia-Romagna</h2>
-  <div class="intro-block" style="max-width:800px;text-align:left">
-  <p>L'allevamento Del Piccolo Diavolo si trova a Ostellato, in provincia di Ferrara, in Emilia-Romagna, e riceve esclusivamente su appuntamento. La visita serve a vedere i cani adulti, <a href="/genitori-visibili-cosa-significa/" title="Genitori visibili: cosa significa">la madre della cucciolata</a> e il posto dove i cuccioli crescono, e a controllare di persona pedigree e referti dei test genetici. Ostellato &egrave; raggiungibile in circa un'ora da Bologna e da Ravenna, in due da Verona e Padova, in tre da Milano e Firenze. I cuccioli non vengono spediti con corrieri n&eacute; consegnati a met&agrave; strada: chi ne prende uno viene qui. Per chi scrive dall'estero in inglese, tedesco o spagnolo c'&egrave; un secondo recapito telefonico dedicato.</p>
-
-  <p>Del Piccolo Diavolo è uno dei pochi <a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamenti di Staffordshire Bull Terrier</a> in Emilia-Romagna con un programma di selezione strutturato e documentato. Attivo dal 2013 a Ostellato, in provincia di Ferrara, lavoriamo esclusivamente con linee di sangue inglesi (Elitebull) e irlandesi (Lackyle), scelte per <a href="/standard-tipicita-morfologia/" title="Staffordshire Bull Terrier: Tipicità di Razza e Morfologia">tipicità</a>, salute e carattere.</p>
-  <p>Dal 2013 abbiamo prodotto 1 Campione Italiano, 3 Giovani Campioni Italiani e un 4° posto al World Dog Show e decine di soggetti inseriti con successo in famiglie di tutta Italia. Ogni riproduttore è testato per L2HGA e HC, e le fattrici anche per la mielopatia degenerativa (DM-SOD1): le tre principali patologie ereditarie della razza con un test del DNA.</p>
-  <p>Non siamo un allevamento commerciale: produciamo 1-2 cucciolate all'anno, seguite con attenzione dalla nascita all'affido. Chi sceglie Del Piccolo Diavolo non compra un cane: entra in una relazione che dura per tutta la vita dell'animale.</p>
-  <p>Per conoscere nel dettaglio il nostro metodo di lavoro, visita la pagina <a href="/chi-siamo/" title="Chi siamo - Allevamento Del Piccolo Diavolo">chi siamo</a>.</p>
-  </div>
-  </div>
-  </section>
-  <!--/BLOCCO:2-->
-
-  <!--BLOCCO:3-->
-  <section class="section section-alt">
-  <div class="section-inner">
   <span class="section-label">Contatti</span>
   <h2 class="section-title">Come Contattarci</h2>
 
@@ -86,6 +69,23 @@ custom_content: |
   Apri Google Maps
   <span>Via Amerigo Chierici, 12, 44020 Ostellato (FE)</span>
   </a>
+  </div>
+  </section>
+  <!--/BLOCCO:2-->
+
+  <!--BLOCCO:3-->
+  <section class="section section-alt">
+  <div class="section-inner">
+  <span class="section-label">L'Allevamento</span>
+  <h2 class="section-title">Un allevamento serio in Emilia-Romagna</h2>
+  <div class="intro-block" style="max-width:800px;text-align:left">
+  <p>L'allevamento Del Piccolo Diavolo si trova a Ostellato, in provincia di Ferrara, in Emilia-Romagna, e riceve esclusivamente su appuntamento. La visita serve a vedere i cani adulti, <a href="/genitori-visibili-cosa-significa/" title="Genitori visibili: cosa significa">la madre della cucciolata</a> e il posto dove i cuccioli crescono, e a controllare di persona pedigree e referti dei test genetici. Ostellato &egrave; raggiungibile in circa un'ora da Bologna e da Ravenna, in due da Verona e Padova, in tre da Milano e Firenze. I cuccioli non vengono spediti con corrieri n&eacute; consegnati a met&agrave; strada: chi ne prende uno viene qui. Per chi scrive dall'estero in inglese, tedesco o spagnolo c'&egrave; un secondo recapito telefonico dedicato.</p>
+
+  <p>Del Piccolo Diavolo è uno dei pochi <a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamenti di Staffordshire Bull Terrier</a> in Emilia-Romagna con un programma di selezione strutturato e documentato. Attivo dal 2013 a Ostellato, in provincia di Ferrara, lavoriamo esclusivamente con linee di sangue inglesi (Elitebull) e irlandesi (Lackyle), scelte per <a href="/standard-tipicita-morfologia/" title="Staffordshire Bull Terrier: Tipicità di Razza e Morfologia">tipicità</a>, salute e carattere.</p>
+  <p>Dal 2013 abbiamo prodotto 1 Campione Italiano, 3 Giovani Campioni Italiani e un 4° posto al World Dog Show e decine di soggetti inseriti con successo in famiglie di tutta Italia. Ogni riproduttore è testato per L2HGA e HC, e le fattrici anche per la mielopatia degenerativa (DM-SOD1): le tre principali patologie ereditarie della razza con un test del DNA.</p>
+  <p>Non siamo un allevamento commerciale: produciamo 1-2 cucciolate all'anno, seguite con attenzione dalla nascita all'affido. Chi sceglie Del Piccolo Diavolo non compra un cane: entra in una relazione che dura per tutta la vita dell'animale.</p>
+  <p>Per conoscere nel dettaglio il nostro metodo di lavoro, visita la pagina <a href="/chi-siamo/" title="Chi siamo - Allevamento Del Piccolo Diavolo">chi siamo</a>.</p>
+  </div>
   </div>
   </section>
   <!--/BLOCCO:3-->
