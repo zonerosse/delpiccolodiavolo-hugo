@@ -158,7 +158,8 @@
 /* Domande frequenti chiuse (scelta di Paolo, 13/10/2026): nell'HTML le risposte sono aperte (Google, IA,
    chi non ha JavaScript); qui si chiudono e si aprono toccando la domanda, anche con Invio o Spazio. */
 document.querySelectorAll('.faq-question').forEach(function(q){
-  var item=q.parentElement, h=q.querySelector('h3,h4,.faq-q');
+  /* la domanda puo' essere il titolo stesso (<h3 class="faq-question">, articoli) o contenerlo */
+  var item=q.parentElement, h=q.matches('h2,h3,h4') ? q : q.querySelector('h2,h3,h4,.faq-q');
   /* domanda che contiene un link: resta aperta (un bottone non puo' contenere un link) */
   if(!h || h.querySelector('a')) return;
   var btn=document.createElement('button'); btn.type='button'; btn.className='faq-btn'; btn.setAttribute('aria-expanded','false');
