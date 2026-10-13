@@ -187,7 +187,7 @@ letter-spacing:.03em;padding:.55rem 1.5rem;text-transform:uppercase}
 @media(max-width:480px){.rimando{grid-template-columns:64px 1fr;gap:.8rem}
 .rimando img{width:64px;height:64px}}@media (prefers-reduced-motion:reduce){.features-track{animation:none}}
 @media(max-width:767px){.tipo-articolo .hero{display:block;min-height:0;padding:62px 1.5rem 0;background:#faf8f5}.tipo-articolo .hero-visual{position:static;flex:none;width:76px;height:76px;min-height:0;margin:1.4rem 0 0;border-radius:18px;overflow:hidden}.tipo-articolo .hero-image{position:static;display:block;inset:auto}.tipo-articolo .hero-image img{width:76px;height:76px;max-height:none;object-fit:cover}.tipo-articolo .hero-content{display:block;padding:.9rem 0 1.25rem;background:transparent}.tipo-articolo .hero-title{font-size:2.15rem;line-height:1.12;margin-bottom:.5rem}.tipo-articolo .hero-actions{display:none}}
-@media(max-width:767px){/* hero foto grande con cornice (scelta B) — pagine con foto, non articoli */.hero-visual{position:static;height:auto;min-height:0;margin:12px;border-radius:18px;overflow:hidden}.hero-image{position:static;display:block;inset:auto}.hero-image img{display:block;width:100%;height:auto;max-height:none;object-fit:contain}}
+@media(max-width:767px){/* hero foto grande con cornice (scelta B) — pagine con foto, non articoli */.hero-visual{position:static;height:auto;min-height:0;margin:12px;border-radius:18px;overflow:hidden}.hero-image{position:static;display:block;inset:auto}/* 13/10/2026: foto intera ma piu' bassa (42% dello schermo), cosi' titolo e contenuto arrivano prima; contain = mai tagliata */.hero-image img{display:block;width:100%;height:42vh;max-height:none;object-fit:contain}}
 /* Accessibilita' (report EN 301 549 del 13/10/2026).
    9.1.4.4: le schede non usano piu' overflow:hidden, che con lo zoom al 200% tagliava il testo;
    gli angoli tondi restano arrotondando solo la parte alta (foto o barra della data).
@@ -203,3 +203,21 @@ iframe:focus-visible,video:focus-visible,table:focus-visible{outline:3px solid #
 /* WCAG 2.2.2: la barra scorrevole si ferma quando ci si passa sopra col mouse o la si raggiunge col Tab
    (ed e' gia' ferma per chi ha chiesto "riduci movimento" al sistema). A riposo non cambia nulla. */
 .features-bar:hover .features-track,.features-bar:focus-within .features-track{animation-play-state:paused}
+/* Home (13/10/2026, scelte di Paolo): sottotitoli a tendina e "Continua a leggere"; il testo resta tutto nella pagina */
+.tendina{background:#fff;border:1px solid #ece3d4;border-radius:10px;padding:.8rem 1rem;margin:0 0 .7rem}
+.tendina>summary{cursor:pointer;color:#5c4a3a}
+.tendina>summary h3{display:inline;font-size:1.05rem;margin:0}
+.tendina[open]>summary{margin-bottom:.7rem}
+.continua{margin:.4rem 0 0}
+.continua>summary{cursor:pointer;font-weight:700;color:#8b5a2b;margin:.2rem 0 .8rem}
+/* "In breve" e indice in cima agli articoli (13/10/2026) */
+.in-breve{background:#fff;border-left:4px solid #8b5a2b;border-radius:8px;padding:1rem 1.2rem;margin:0 0 1.2rem;box-shadow:0 2px 10px rgba(0,0,0,.05)}
+.in-breve-tit{margin:0 0 .5rem;font-weight:800;color:#5c4a3a;letter-spacing:.04em;text-transform:uppercase;font-size:.8rem}
+.in-breve ul{margin:0;padding-left:1.1rem;line-height:1.6}
+.in-breve li{margin:.2rem 0}
+.indice{background:#fff;border-radius:8px;padding:.8rem 1.2rem;margin:0 0 2rem;border:1px solid #ece3d4}
+.indice>summary{font-weight:800;color:#5c4a3a;cursor:pointer}
+.indice ol{margin:.6rem 0 0;padding-left:1.2rem;line-height:1.5}
+.indice li{margin:.25rem 0}
+.indice a{color:#8b5a2b}
+h2[id]{scroll-margin-top:90px}

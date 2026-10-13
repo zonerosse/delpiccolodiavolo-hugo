@@ -1,0 +1,63 @@
+{{- /*
+  inbreve.html — "In breve" e indice "In questa pagina" in cima agli articoli
+  (scelte A + E di Paolo, 13/10/2026: chi legge poco trova subito l'essenziale).
+
+  - In breve: front matter `in_breve:` (lista di 2-4 frasi, testo semplice;
+    **grassetto** ammesso). Se manca, il riquadro non esce.
+  - Indice: automatico negli articoli (articolo: true) con almeno 6 titoli h2
+    prima del riquadro finale (cta-section). Ai titoli senza id viene dato un id.
+  Il blocco va prima del primo paragrafo del testo, dopo il percorso (breadcrumb).
+  Dentro non ci sono <p>: il "primo paragrafo" (blocco citabile, apertura del
+  gestionale) resta quello di prima.
+
+  Uso: {{ $c = partial "inbreve.html" (dict "p" . "c" $c) }}
+*/ -}}
+{{- $p := .p -}}
+{{- $c := .c -}}
+{{- $lang := $p.Site.Language.Lang -}}
+{{- if $p.Params.articolo -}}
+  {{- /* zona dei titoli: fino al riquadro finale */ -}}
+  {{- $zona := index (split $c `<section class="cta-section"`) 0 -}}
+  {{- $h2 := findRE `<h2[^>]*>(?s:.*?)</h2>` $zona -}}
+  {{- $voci := slice -}}
+  {{- if ge (len $h2) 6 -}}
+    {{- range $h2 -}}
+      {{- $testo := . | replaceRE `<[^>]+>` "" | htmlUnescape | strings.TrimSpace -}}
+      {{- $id := "" -}}
+      {{- with findRESubmatch `\sid="([^"]+)"` . 1 }}{{ $id = index (index . 0) 1 }}{{ end -}}
+      {{- if not $id -}}
+        {{- $id = anchorize $testo -}}
+        {{- $c = replace $c . (replace . "<h2" (printf `<h2 id="%s"` $id) 1) 1 -}}
+      {{- end -}}
+      {{- $voci = $voci | append (dict "id" $id "t" $testo) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $breve := $p.Params.in_breve -}}
+  {{- if or $breve $voci -}}
+    {{- $box := "" -}}
+    {{- if $breve -}}
+      {{- $tit := cond (eq $lang "en") "At a glance" (cond (eq $lang "de") "Auf einen Blick" "In breve") -}}
+      {{- $li := "" -}}
+      {{- range $breve }}{{ $li = printf "%s<li>%s</li>" $li (. | markdownify) }}{{ end -}}
+      {{- $box = printf `<div class="in-breve"><div class="in-breve-tit">%s</div><ul>%s</ul></div>` $tit $li -}}
+    {{- end -}}
+    {{- if $voci -}}
+      {{- $tit := cond (eq $lang "en") "On this page" (cond (eq $lang "de") "Auf dieser Seite" "In questa pagina") -}}
+      {{- $li := "" -}}
+      {{- range $voci }}{{ $li = printf `%s<li><a href="#%s">%s</a></li>` $li .id (.t | htmlEscape) }}{{ end -}}
+      {{- $box = printf `%s<details class="indice" open><summary>%s</summary><ol>%s</ol></details>` $box $tit $li -}}
+    {{- end -}}
+    {{- /* punto di inserimento: primo <p> senza attributi dopo il percorso (o dopo l'h1) */ -}}
+    {{- $dopo := cond (in $c "</nav>") "</nav>" "</h1>" -}}
+    {{- $parti := split $c $dopo -}}
+    {{- if gt (len $parti) 1 -}}
+      {{- $resto := delimit (after 1 $parti) $dopo -}}
+      {{- if in $resto "<p>" -}}
+        {{- $pezzi := split $resto "<p>" -}}
+        {{- $resto = printf "%s%s<p>%s" (index $pezzi 0) $box (delimit (after 1 $pezzi) "<p>") -}}
+        {{- $c = printf "%s%s%s" (index $parti 0) $dopo $resto -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $c -}}
