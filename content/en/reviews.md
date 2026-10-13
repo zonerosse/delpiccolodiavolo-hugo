@@ -98,7 +98,9 @@ custom_content: |
   <p class="review-text">A 6-stars-out-of-5 kennel. They are professional and follow you step by step in everything, even after your furry friend gets home!! Highly recommended!!</p>
   <div class="review-meta">November 15, 2025 – Google</div>
   </article>
-
+  </div>
+  <details class="tutti"><summary>Show all reviews (28)</summary>
+  <div class="reviews-grid">
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Paola Bonora</span>
@@ -298,8 +300,8 @@ custom_content: |
   </article>
 
   <p>Reviews describe how the handover went; what happened afterwards, years later, is told in <a href="/en/staffordshire-family-life-stories/" title="Family stories">the stories of the dogs we have bred</a>.</p>
-
   </div>
+  </details>
   </div>
   </section>
   <!--/BLOCCO:2-->

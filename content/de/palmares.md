@@ -65,7 +65,9 @@ custom_content: |
   <span>Internationale Ausstellung, Ferrara (FE) - 17 März 2024</span>
   <span style="color:#8b5a2b;font-weight:600">CAC + CACIB</span>
   </div>
-
+  </div>
+  <details class="tutti"><summary>Alle Ergebnisse (16)</summary>
+  <div class="risultati-grid" style="display:grid;gap:0.75rem">
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
   <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, Ferrara (FE) - 16 März 2024</span>
@@ -137,8 +139,8 @@ custom_content: |
   <span>Rassespezialausstellung, Bologna (BO) - 18 Feb. 2023</span>
   <span style="color:#8b5a2b;font-weight:600">Babyklasse</span>
   </div>
-
   </div>
+  </details>
 
   <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">20 Ausstellungen in Italien im ENCI-Zuchtbuch, 19 davon mit dem 1. Platz: <a href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Ausstellungsergebnisse von Bilquis im ENCI-Zuchtbuch" aria-label="die ENCI-Ergebnisliste – Ausstellungsergebnisse von Bilquis im ENCI-Zuchtbuch (wird in einem neuen Tab geöffnet)">die ENCI-Ergebnisliste</a> (LOI LO22197469). Ausstellungen im Ausland, die World Dog Show eingeschlossen, erfasst die ENCI nicht. Top Dog Junior 2023. Italienische Jugendchampionin. Italienische Schönheitschampionin 2024. Kroatische Jugendchampionin. Championin von Bosnien und Herzegowina. Crufts-Qualifikation 2025.</p>
 
@@ -256,7 +258,9 @@ custom_content: |
   <span>Rassespezialausstellung, Bologna (BO) - 29 Nov. 2025</span>
   <span style="color:#8b5a2b;font-weight:600">Zwischenklasse</span>
   </div>
-
+  </div>
+  <details class="tutti"><summary>Alle Ergebnisse (13)</summary>
+  <div class="risultati-grid" style="display:grid;gap:0.75rem">
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
   <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Nationale Ausstellung, Monza (MB) - 20-21 Sep. 2025</span>
@@ -310,8 +314,8 @@ custom_content: |
   <span>Internationale Ausstellung, Riva del Garda (TN) - 8 März 2025</span>
   <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
   </div>
-
   </div>
+  </details>
 
   <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">21 Ausstellungen insgesamt. Italienischer Jugendchampion und Slowenischer Champion 🇸🇮. Handler: Sergio Patrucco.</p>
   </div>

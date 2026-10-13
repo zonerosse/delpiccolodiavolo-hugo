@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Puppies"
 titleSeo: "Staffordshire Bull Terrier Puppies, verifiable genetic tests"
 date: 2025-12-28
-lastmod: 2026-10-11
+lastmod: 2026-10-13
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
 description: "Staffordshire Bull Terrier puppies in Ostellato, Italy. ENCI pedigree, parents tested for L2HGA and HC with the certificates published on this site."
@@ -86,6 +86,26 @@ custom_content: |
   <!--CUCCIOLATE-->
   <!--/BLOCCO:4-->
 
+  <!--BLOCCO:8-->
+  <section class="section section-alt">
+  <div class="section-inner">
+  <span class="section-label">Reviews</span>
+  <h2 class="section-title">What People Say About Us</h2>
+
+  <div class="review-card">
+  <p class="review-text">"Paolo is a guarantee for this breed. Home-raised puppies, continuous support and great expertise. Our Staffy is perfect!"</p>
+  <div class="reviewer"><span>Cristian Ferroci</span><span class="stars">★★★★★</span></div>
+  </div>
+
+  <div class="review-card">
+  <p class="review-text">"Love at first sight exists... trust me. Professionalism, passion and balanced, healthy puppies. I recommend this kennel to everyone."</p>
+  <div class="reviewer"><span>Manu Nannetti</span><span class="stars">★★★★★</span></div>
+  </div>
+  </div>
+  </section>
+  <!--/BLOCCO:8-->
+
+
   <!--BLOCCO:5-->
   <section class="section section-alt">
   <div class="section-inner">
@@ -153,45 +173,45 @@ custom_content: |
 
   <p>Plenty gets said about what happens after the puppies are born. About what happens before, almost nothing &mdash; and yet that is where most of how a litter goes is decided.</p>
 
-  <h3>Before the season</h3>
+  <details class="tendina"><summary><h3>Before the season</h3></summary>
 
   <p>It starts at the vet, not at the stud dog. If the bitch is regular and I have the record of her previous seasons, I know roughly when the next one is due and the examination happens shortly before; otherwise we go as soon as the season is clearly under way.</p>
 
   <p>At that visit we take a <strong>vaginal swab for bacterial culture</strong>, to rule out organisms that would compromise the pregnancy, and worm her if needed.</p>
 
   <p>Then the <strong>progesterone testing</strong> begins. This is not a hobbyist's detail: the fertile window cannot be guessed from the day the season started, and getting it wrong by 48 hours means no puppies. Blood is drawn at intervals until the value peaks, and that is the day. Each test costs 40 euros and at least four are needed: this and every other expense is listed <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/#costi-cucciolata" title="What a litter costs us, item by item">in what a litter costs us, item by item</a>.</p>
-
-  <h3>The mating</h3>
+  </details>
+  <details class="tendina"><summary><h3>The mating</h3></summary>
 
   <p><strong><a href="/en/parents-on-site-what-it-means/" title="&quot;Parents on site&quot;: what it really means">I always travel to the stud</a></strong>, never the other way round: the male stays at home, the bitch moves.</p>
 
   <p>With a stud of real quality, the owner often uses a vet for <strong>artificial insemination</strong>, deposited intracervically. There are three reasons: avoiding the risk of transmissible disease, sparing the dog excessive effort, and being certain the mating actually happens. Because &mdash; and this is something people outside breeding do not picture &mdash; <strong>mating is not easy for every male</strong>. Much depends on the bitch: more than one makes it anything but simple.</p>
-
-  <h3>Pregnancy: two examinations, two different purposes</h3>
+  </details>
+  <details class="tendina"><summary><h3>Pregnancy: two examinations, two different purposes</h3></summary>
 
   <p><strong>The ultrasound scan, after at least 25 days.</strong> It tells us whether she is in whelp, and a capable vet will already give a rough idea of the number. But it remains an estimate.</p>
 
   <p><strong>The radiograph, five to seven days before whelping.</strong> This one gives the exact count, obtained by counting skulls and spines, which by then are calcified and visible.</p>
 
   <p>It is not a flourish: <strong>it is the information you need during the whelping</strong>, especially a natural one. You have to know how many puppies must come out, and that they all have, each with its placenta. Without that number you are going on instinct, and on instinct a retained puppy or a retained placenta is found out late.</p>
-
-  <h3>The whelping</h3>
+  </details>
+  <details class="tendina"><summary><h3>The whelping</h3></summary>
 
   <p>In the Staffordshire Bull Terrier a natural whelping is the norm: it is a hardy breed, and a caesarean here has been a rare exception. But when something goes wrong there is no improvising: I call my own vet, who judges case by case.</p>
 
   <p><strong>Oxytocin is used with great care and sparingly</strong>, and only when the vet decides so. It is not an accelerator to be given because the whelping is taking its time: if a puppy is obstructing, stronger contractions are the last thing needed, and the risk is uterine rupture.</p>
-
-  <h3>The first week</h3>
+  </details>
+  <details class="tendina"><summary><h3>The first week</h3></summary>
 
   <p>The puppies are born indoors, in the whelping box. And for a week <strong>I stop sleeping in my bed</strong>: I settle on the sofa, next to them.</p>
 
   <p>That is not sentiment, it is the riskiest part of all. In those days a puppy can be crushed by the mother turning over, or a bitch can be reluctant to nurse: these are things you hear before you see them &mdash; a different whimper, a sound that is not right. After the first week it eases.</p>
-
-  <h3>The day they can leave</h3>
+  </details>
+  <details class="tendina"><summary><h3>The day they can leave</h3></summary>
 
   <p>Vaccination and microchip are done by the vet, and that is what makes a puppy eligible to leave. Italian law sets the minimum at <strong>60 days</strong>; here they leave at around <strong>70</strong>, because those extra ten days are for them. For placements abroad the timing stretches further: that is covered on <a href="/en/staffordshire-bull-terrier-puppy-abroad/" title="A puppy going abroad">its own page</a>.</p>
-
-  <h3>What to ask a breeder</h3>
+  </details>
+  <details class="tendina"><summary><h3>What to ask a breeder</h3></summary>
 
   <p>If you are considering a litter, whoever is breeding it, these are the questions nobody can dodge:</p>
 
@@ -201,7 +221,7 @@ custom_content: |
   <li><strong>Where did the mother whelp, and who was there?</strong> The first week is when puppies are lost.</li>
   <li><strong>When do they leave?</strong> Under 60 days is against the law, and it is not a paperwork detail.</li>
   </ul>
-
+  </details>
   </div>
   </section>
   <!--/BLOCCO:6-->
@@ -280,25 +300,6 @@ custom_content: |
   </div>
   </section>
   <!--/BLOCCO:9-->
-
-  <!--BLOCCO:8-->
-  <section class="section section-alt">
-  <div class="section-inner">
-  <span class="section-label">Reviews</span>
-  <h2 class="section-title">What People Say About Us</h2>
-
-  <div class="review-card">
-  <p class="review-text">"Paolo is a guarantee for this breed. Home-raised puppies, continuous support and great expertise. Our Staffy is perfect!"</p>
-  <div class="reviewer"><span>Cristian Ferroci</span><span class="stars">★★★★★</span></div>
-  </div>
-
-  <div class="review-card">
-  <p class="review-text">"Love at first sight exists... trust me. Professionalism, passion and balanced, healthy puppies. I recommend this kennel to everyone."</p>
-  <div class="reviewer"><span>Manu Nannetti</span><span class="stars">★★★★★</span></div>
-  </div>
-  </div>
-  </section>
-  <!--/BLOCCO:8-->
 
   <!--BLOCCO:11-->
   <!--GUIDE-->

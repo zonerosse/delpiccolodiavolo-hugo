@@ -2,7 +2,7 @@
 title: "Welpen Staffordshire Bull Terrier"
 titleSeo: "Staffordshire Bull Terrier Welpen mit überprüfbaren Gentests"
 date: 2025-12-28
-lastmod: 2026-10-11
+lastmod: 2026-10-13
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
 description: "Staffordshire Bull Terrier Welpen in Ostellato (FE). ENCI-Ahnentafel, Eltern auf L2HGA und HC getestet, Befunde auf der Website veröffentlicht."
@@ -86,6 +86,26 @@ custom_content: |
   <!--CUCCIOLATE-->
   <!--/BLOCCO:4-->
 
+  <!--BLOCCO:8-->
+  <section class="section section-alt">
+  <div class="section-inner">
+  <span class="section-label">Bewertungen</span>
+  <h2 class="section-title">Was Man Über Uns Sagt</h2>
+
+  <div class="review-card">
+  <p class="review-text">"Paolo ist eine Garantie für diese Rasse. Welpen im Haus aufgezogen, kontinuierliche Unterstützung und große Kompetenz. Unser Staffy ist perfekt!"</p>
+  <div class="reviewer"><span>Cristian Ferroci</span><span class="stars">★★★★★</span></div>
+  </div>
+
+  <div class="review-card">
+  <p class="review-text">"Liebe auf den ersten Blick existiert... vertrauen Sie uns. Professionalität, Leidenschaft und ausgeglichene, gesunde Welpen. Ich empfehle diese Zucht jedem."</p>
+  <div class="reviewer"><span>Manu Nannetti</span><span class="stars">★★★★★</span></div>
+  </div>
+  </div>
+  </section>
+  <!--/BLOCCO:8-->
+
+
   <!--BLOCCO:5-->
   <section class="section section-alt">
   <div class="section-inner">
@@ -153,45 +173,45 @@ custom_content: |
 
   <p>&Uuml;ber das, was nach der Geburt passiert, wird viel geschrieben. &Uuml;ber das, was davor passiert, fast nie &mdash; und doch entscheidet sich dort der gr&ouml;&szlig;te Teil davon, wie ein Wurf verl&auml;uft.</p>
 
-  <h3>Vor der L&auml;ufigkeit</h3>
+  <details class="tendina"><summary><h3>Vor der L&auml;ufigkeit</h3></summary>
 
   <p>Der Weg beginnt beim Tierarzt, nicht beim R&uuml;den. Ist die H&uuml;ndin regelm&auml;&szlig;ig und habe ich die Daten der vorherigen L&auml;ufigkeiten, wei&szlig; ich ungef&auml;hr, wann die n&auml;chste kommt, und die Untersuchung findet kurz davor statt; andernfalls gehen wir, sobald die L&auml;ufigkeit deutlich eingesetzt hat.</p>
 
   <p>Dabei wird ein <strong>Vaginaltupfer mit bakteriologischer Kultur</strong> genommen, um Keime auszuschlie&szlig;en, die die Tr&auml;chtigkeit gef&auml;hrden w&uuml;rden, und bei Bedarf entwurmt.</p>
 
   <p>Dann beginnen die <strong>Progesteronbestimmungen</strong>. Das ist keine Spielerei: der fruchtbare Zeitpunkt l&auml;sst sich nicht am Tag des L&auml;ufigkeitsbeginns ablesen, und 48 Stunden daneben bedeuten keine Welpen. Es wird in Abst&auml;nden Blut genommen, bis der Wert seinen H&ouml;hepunkt erreicht &mdash; das ist der Tag. Jede Bestimmung kostet 40 Euro, und es braucht mindestens vier: diese und alle anderen Ausgaben stehen <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/#costi-cucciolata" title="Was uns ein Wurf kostet, Posten für Posten">in den Kosten eines Wurfs, Posten für Posten</a>.</p>
-
-  <h3>Der Deckakt</h3>
+  </details>
+  <details class="tendina"><summary><h3>Der Deckakt</h3></summary>
 
   <p><strong>Ich fahre immer zum R&uuml;den</strong>, nie umgekehrt: der R&uuml;de bleibt zu Hause, die H&uuml;ndin reist.</p>
 
   <p>Bei einem R&uuml;den von Format zieht der Besitzer h&auml;ufig einen Tierarzt f&uuml;r die <strong>instrumentelle Besamung</strong> hinzu, intrazervikal. Daf&uuml;r gibt es drei Gr&uuml;nde: das Risiko &uuml;bertragbarer Krankheiten vermeiden, den R&uuml;den nicht &uuml;berm&auml;&szlig;ig belasten, und sicher sein, dass der Deckakt zustande kommt. Denn &mdash; und das stellt sich niemand vor, der nicht z&uuml;chtet &mdash; <strong>nicht jedem R&uuml;den f&auml;llt das Decken leicht</strong>. Vieles h&auml;ngt von der H&uuml;ndin ab: mehr als eine macht es ihm alles andere als einfach.</p>
-
-  <h3>Die Tr&auml;chtigkeit: zwei Untersuchungen, zwei Zwecke</h3>
+  </details>
+  <details class="tendina"><summary><h3>Die Tr&auml;chtigkeit: zwei Untersuchungen, zwei Zwecke</h3></summary>
 
   <p><strong>Der Ultraschall, nach mindestens 25 Tagen.</strong> Er sagt, ob die H&uuml;ndin tr&auml;chtig ist, und ein guter Tierarzt gibt bereits einen ungef&auml;hren Hinweis auf die Zahl. Es bleibt aber eine Sch&auml;tzung.</p>
 
   <p><strong>Das R&ouml;ntgenbild, f&uuml;nf bis sieben Tage vor der Geburt.</strong> Dieses liefert die genaue Zahl, ermittelt durch Z&auml;hlen der Sch&auml;del und Wirbels&auml;ulen, die dann verkalkt und sichtbar sind.</p>
 
   <p>Das ist keine Spielerei: <strong>es ist die Information, die man w&auml;hrend der Geburt braucht</strong>, vor allem bei einer nat&uuml;rlichen. Man muss wissen, wie viele Welpen kommen m&uuml;ssen, und dass alle drau&szlig;en sind, jeder mit seiner Plazenta. Ohne diese Zahl geht man nach Gef&uuml;hl &mdash; und nach Gef&uuml;hl merkt man einen zur&uuml;ckgebliebenen Welpen oder eine zur&uuml;ckgehaltene Plazenta zu sp&auml;t.</p>
-
-  <h3>Die Geburt</h3>
+  </details>
+  <details class="tendina"><summary><h3>Die Geburt</h3></summary>
 
   <p>Beim Staffordshire Bull Terrier ist die nat&uuml;rliche Geburt die Regel: eine robuste Rasse, und der Kaiserschnitt war hier eine seltene Ausnahme. Wenn aber etwas nicht stimmt, wird nicht improvisiert: ich rufe meinen Tierarzt, der von Fall zu Fall entscheidet.</p>
 
   <p><strong>Oxytocin wird mit gro&szlig;er Vorsicht und sparsam eingesetzt</strong>, und nur wenn der Tierarzt es entscheidet. Es ist kein Beschleuniger, den man gibt, weil die Geburt lange dauert: steckt ein Welpe fest, sind st&auml;rkere Wehen das Letzte, was gebraucht wird &mdash; das Risiko ist ein Geb&auml;rmutterriss.</p>
-
-  <h3>Die erste Woche</h3>
+  </details>
+  <details class="tendina"><summary><h3>Die erste Woche</h3></summary>
 
   <p>Die Welpen kommen im Haus zur Welt, in der Wurfkiste. Und eine Woche lang <strong>schlafe ich nicht in meinem Bett</strong>: ich lege mich aufs Sofa, neben sie.</p>
 
   <p>Das ist keine R&uuml;hrseligkeit, es ist der riskanteste Teil &uuml;berhaupt. In diesen Tagen kann ein Welpe von der sich drehenden Mutter erdr&uuml;ckt werden, oder eine H&uuml;ndin will nicht s&auml;ugen: das h&ouml;rt man, bevor man es sieht &mdash; ein anderes Wimmern, ein Ger&auml;usch, das nicht stimmt. Nach der ersten Woche wird es leichter.</p>
-
-  <h3>Der Tag, an dem sie gehen d&uuml;rfen</h3>
+  </details>
+  <details class="tendina"><summary><h3>Der Tag, an dem sie gehen d&uuml;rfen</h3></summary>
 
   <p>Impfung und Mikrochip macht der Tierarzt, und damit darf ein Welpe die Zucht verlassen. Das italienische Gesetz schreibt mindestens <strong>60 Tage</strong> vor; bei mir gehen sie mit rund <strong>70</strong>, weil diese zehn Tage ihnen zugutekommen. F&uuml;r das Ausland verl&auml;ngern sich die Fristen weiter: davon handelt <a href="/de/staffordshire-bull-terrier-welpe-ins-ausland/" title="Ein Welpe, der ins Ausland geht">die eigene Seite</a>.</p>
-
-  <h3>Was man eine Zucht fragen sollte</h3>
+  </details>
+  <details class="tendina"><summary><h3>Was man eine Zucht fragen sollte</h3></summary>
 
   <p>Wer einen Wurf in Betracht zieht, gleich von wem, sollte diese Fragen stellen &mdash; ihnen kann niemand ausweichen:</p>
 
@@ -201,7 +221,7 @@ custom_content: |
   <li><strong>Wo hat die H&uuml;ndin geworfen, und wer war dabei?</strong> In der ersten Woche verliert man Welpen.</li>
   <li><strong>Wann verlassen sie die Zucht?</strong> Unter 60 Tagen ist gesetzwidrig, und das ist keine Formalie.</li>
   </ul>
-
+  </details>
   </div>
   </section>
   <!--/BLOCCO:6-->
@@ -280,25 +300,6 @@ custom_content: |
   </div>
   </section>
   <!--/BLOCCO:9-->
-
-  <!--BLOCCO:8-->
-  <section class="section section-alt">
-  <div class="section-inner">
-  <span class="section-label">Bewertungen</span>
-  <h2 class="section-title">Was Man Über Uns Sagt</h2>
-
-  <div class="review-card">
-  <p class="review-text">"Paolo ist eine Garantie für diese Rasse. Welpen im Haus aufgezogen, kontinuierliche Unterstützung und große Kompetenz. Unser Staffy ist perfekt!"</p>
-  <div class="reviewer"><span>Cristian Ferroci</span><span class="stars">★★★★★</span></div>
-  </div>
-
-  <div class="review-card">
-  <p class="review-text">"Liebe auf den ersten Blick existiert... vertrauen Sie uns. Professionalität, Leidenschaft und ausgeglichene, gesunde Welpen. Ich empfehle diese Zucht jedem."</p>
-  <div class="reviewer"><span>Manu Nannetti</span><span class="stars">★★★★★</span></div>
-  </div>
-  </div>
-  </section>
-  <!--/BLOCCO:8-->
 
   <!--BLOCCO:11-->
   <!--GUIDE-->

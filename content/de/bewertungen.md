@@ -109,7 +109,9 @@ custom_content: |
   <p class="review-text">Eine Zucht mit 6 von 5 Sternen. Sie sind professionell und begleiten dich Schritt für Schritt in allem, auch nachdem dein Fellknäuel zu Hause angekommen ist!! Sehr zu empfehlen!!</p>
   <div class="review-meta">15. November 2025 – Google</div>
   </article>
-
+  </div>
+  <details class="tutti"><summary>Alle Bewertungen zeigen (28)</summary>
+  <div class="reviews-grid">
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Paola Bonora</span>
@@ -309,8 +311,8 @@ custom_content: |
   </article>
 
   <p>Bewertungen beschreiben die Übergabe; was danach geschah, Jahre später, erzählen wir in den <a href="/de/staffordshire-in-der-familie-geschichten/" title="Familiengeschichten">Geschichten der Hunde, die wir gezüchtet haben</a>.</p>
-
   </div>
+  </details>
   </div>
   </section>
   <!--/BLOCCO:2-->

@@ -155,11 +155,20 @@
 {{ partial "footer.html" . }}
 
 <script>
+/* Domande frequenti chiuse (scelta di Paolo, 13/10/2026): nell'HTML le risposte sono aperte (Google, IA,
+   chi non ha JavaScript); qui si chiudono e si aprono toccando la domanda, anche con Invio o Spazio. */
 document.querySelectorAll('.faq-question').forEach(function(q){
-  q.addEventListener('click', function(){
-    this.parentElement.classList.toggle('active');
-  });
+  var item=q.parentElement, h=q.querySelector('h3,h4,.faq-q');
+  /* domanda che contiene un link: resta aperta (un bottone non puo' contenere un link) */
+  if(!h || h.querySelector('a')) return;
+  var btn=document.createElement('button'); btn.type='button'; btn.className='faq-btn'; btn.setAttribute('aria-expanded','false');
+  while(h.firstChild) btn.appendChild(h.firstChild);
+  h.appendChild(btn);
+  item.classList.remove('active');
+  q.addEventListener('click', function(){ var a=item.classList.toggle('active'); btn.setAttribute('aria-expanded', a ? 'true' : 'false'); });
 });
+/* Un link che porta a una domanda chiusa (#id) la apre */
+if(location.hash){ var t=document.getElementById(location.hash.slice(1)); var i=t&&t.closest&&t.closest('.faq-item'); if(i){ i.classList.add('active'); } }
 </script>
 
 </body>

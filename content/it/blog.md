@@ -2,7 +2,7 @@
 title: "Blog Staffordshire Bull Terrier"
 titleSeo: "Guide sullo Staffordshire Bull Terrier: salute e cuccioli"
 date: 2025-12-28
-lastmod: 2026-10-11
+lastmod: 2026-10-13
 tipoPagina: "CollectionPage"
 translationKey: "blog"
 description: "Articoli sullo Staffordshire Bull Terrier scritti dall'allevamento: cuccioli, salute e test genetici, standard e linee di sangue, famiglia e legge."
@@ -95,7 +95,9 @@ custom_content: |
   <a class="read" href="/cuccioli-socializzati-cosa-vuol-dire/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Cuccioli socializzati, cosa vuol dire davvero">Leggi<span class="sr-only">: Cuccioli socializzati, cosa vuol dire davvero</span> &rarr;</a>
   </div>
   </article>
-
+  </div>
+  <details class="tutti"><summary>Mostra tutti gli articoli (14)</summary>
+  <div class="blog-grid">
   <article class="blog-card">
   <a href="/genitori-visibili-cosa-significa/" title="Leggi: Genitori visibili, cosa significa davvero"><div class="blog-card-thumb"><img src="/images/blog/icone/genitori-visibili-cosa-significa.webp" alt="Femmina di Staffordshire Bull Terrier che allatta la cucciolata" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -205,8 +207,8 @@ custom_content: |
   <a class="read" href="/cuccioli-prima-passeggiata/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Prima passeggiata al guinzaglio">Leggi<span class="sr-only">: Prima passeggiata al guinzaglio</span> →</a>
   </div>
   </article>
-
   </div>
+  </details>
   </div>
   </section>
   <!--/BLOCCO:4-->
@@ -248,7 +250,9 @@ custom_content: |
   <a class="read" href="/staffordshire-bull-terrier-carattere/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Staffordshire Bull Terrier: Carattere e Temperamento">Leggi<span class="sr-only">: Staffordshire Bull Terrier: Carattere e Temperamento</span> →</a>
   </div>
   </article>
-
+  </div>
+  <details class="tutti"><summary>Mostra tutti gli articoli (8)</summary>
+  <div class="blog-grid">
   <article class="blog-card">
   <a href="/differenza-staffy-amstaff/" title="Leggi: Staffy o Amstaff, il test dell'allevatore"><div class="blog-card-thumb"><img src="/images/blog/icone/differenza-staffy-amstaff.webp" alt="Differenza tra Staffy e Amstaff" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -299,6 +303,7 @@ custom_content: |
   </div>
   </article>
   </div>
+  </details>
   </div>
   </section>
   <!--/BLOCCO:5-->
@@ -340,7 +345,9 @@ custom_content: |
   <a class="read" href="/test-genetici-l2hga-hc-staffy/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Test Genetici L2HGA e HC: Guida Completa">Leggi<span class="sr-only">: Test Genetici L2HGA e HC: Guida Completa</span> →</a>
   </div>
   </article>
-
+  </div>
+  <details class="tutti"><summary>Mostra tutti gli articoli (6)</summary>
+  <div class="blog-grid">
   <article class="blog-card">
   <a href="/salute-parassiti-prevenzione/" title="Leggi: Parassiti prevenzione e controllo"><div class="blog-card-thumb"><img src="/images/blog/icone/salute-parassiti-prevenzione.webp" alt="Cura e salute dello Staffordshire Bull Terrier: parassiti: prevenzione e controllo" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -371,6 +378,7 @@ custom_content: |
   </div>
   </article>
   </div>
+  </details>
   </div>
   </section>
   <!--/BLOCCO:6-->
@@ -412,7 +420,9 @@ custom_content: |
   <a class="read" href="/famiglia-bambini-convivenza/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Convivenza con bambini">Leggi<span class="sr-only">: Convivenza con bambini</span> →</a>
   </div>
   </article>
-
+  </div>
+  <details class="tutti"><summary>Mostra tutti gli articoli (7)</summary>
+  <div class="blog-grid">
   <article class="blog-card">
   <a href="/famiglia-anziani-rispetto-ritmi/" title="Leggi: Con persone anziane"><div class="blog-card-thumb"><img src="/images/blog/icone/famiglia-anziani-rispetto-ritmi.webp" alt="Staffordshire Bull Terrier in famiglia: con persone anziane" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -453,6 +463,7 @@ custom_content: |
   </div>
   </article>
   </div>
+  </details>
   </div>
   </section>
   <!--/BLOCCO:7-->

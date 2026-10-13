@@ -100,7 +100,9 @@ custom_content: |
   <p class="review-text">Padroni disponibili, accoglienti e molto informati.</p>
   <div class="review-meta">giugno 2026 – Google</div>
   </article>
-
+  </div>
+  <details class="tutti"><summary>Mostra tutte le recensioni (29)</summary>
+  <div class="reviews-grid">
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Antonio Mosca</span>
@@ -307,8 +309,8 @@ custom_content: |
   <p class="review-text">Siamo stati fortunati a trovare Paolo e la sua famiglia… ottimo allevamento a conduzione famigliare, bellissimi esemplari, ottimo carattere e gestione attenta.<br>Perla Nera è stupenda, caratterialmente bilanciata, educata e bellissima!<br>Si vede quando si lavora con passione e rispetto con gli animali.<br>Grazie Paolo</p>
   <div class="review-meta">dicembre 2025 – Google</div>
   </article>
-
   </div>
+  </details>
   </div>
   </section>
   <!--/BLOCCO:2-->

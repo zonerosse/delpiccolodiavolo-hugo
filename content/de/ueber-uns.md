@@ -1,7 +1,7 @@
 ---
 title: "Über uns – der Züchter hinter Del Piccolo Diavolo"
 date: 2025-12-28
-lastmod: 2026-10-11
+lastmod: 2026-10-13
 tipoPagina: "ProfilePage"
 translationKey: "chi-siamo"
 description: "Wer hinter der Zucht Del Piccolo Diavolo in Ostellato (FE) steht: Staffordshire Bull Terrier seit 2013, Linien Elitebull und Lackyle, Gentests und ENCI-Papiere."
@@ -140,11 +140,13 @@ custom_content: |
   <span class="section-label">Wie ich arbeite</span>
   <h2 class="section-title">Wie ich einen Rüden wähle, und was ich von Familien erwarte</h2>
   <p>Die Zuchthündinnen leben hier, und ich kenne sie, seit sie Welpen waren. Der Rüde kommt fast immer von außen: er ist die Entscheidung, die bei einem Wurf am meisten wiegt, und ich treffe sie, indem ich auf drei Dinge schaue.</p>
+  <details class="continua"><summary>Weiterlesen</summary>
   <p><strong>Was der Hündin fehlt.</strong> Eine Verpaarung zweier Staffordshire Bull Terrier soll nicht zwei schöne Hunde addieren, sondern etwas korrigieren und den Rest festigen. Hat eine Hündin einen hervorragenden Kopf und ein verbesserungsfähiges Gangwerk, suche ich einen Rüden, der im Gangwerk stark ist, nicht einen, der so schön ist wie sie.</p>
   <p><strong>Was hinter dem Rüden steht.</strong> Den Hund anzuschauen reicht nicht: <a href="/de/eltern-vor-ort-was-das-bedeutet/" title="&quot;Eltern vor Ort&quot;: was das wirklich bedeutet">ich schaue auf seinen Vater, seine Mutter</a>, seine Wurfgeschwister und darauf, was er hervorgebracht hat, wenn er schon Nachkommen hat. Ein Hund kann besser oder schlechter sein als seine Linie, und die zweite Generation zeigt es.</p>
   <p><strong>Was der Besitzer des Deckrüden vorweisen kann.</strong> Gentest-Befunde mit der Mikrochipnummer darauf, keine Versprechen. Ist ein Rüde nicht auf alles Nötige getestet oder nur durch Abstammung frei, weiß ich es vor der Verpaarung und schreibe es auf die Seite dieses Wurfs: wer liest, soll es so gut wissen wie ich.</p>
   <p>Bevor ein Hund in die Zucht geht, beobachte ich ihn monatelang: zu Hause, mit Fremden, mit anderen Hunden, mit Kindern. Ein Hund, der nicht selbstsicher ist, kommt nicht ins Programm, so schön er auch sein mag. Deshalb gibt es ein oder zwei Würfe im Jahr und in manchen Jahren keinen: kommt der richtige Moment nicht, wird in diesem Jahr nichts geboren.</p>
   <p>Von allen, die einen Welpen möchten, erwarte ich zuerst eines: einmal persönlich nach Ostellato zu kommen. Es ist der einzige Moment, in dem ich sehe, wie jemand mit einem echten Hund umgeht statt mit einem Foto, und in dem die Familie sieht, wo der Welpe aufgewachsen ist. Ich möchte über den Tag des Hundes sprechen: wie viele Stunden er allein ist, wer zu Hause ist, was im Sommer geschieht, wenn die Familie verreist. Alltägliche Fragen, und sie verhindern fast alle Probleme.</p>
+  </details>
   </div>
   </section>
   <!--/BLOCCO:6-->

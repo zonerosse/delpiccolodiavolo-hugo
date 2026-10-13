@@ -23,8 +23,9 @@ SEGNAPOSTO = r"<!--(?:ULTIMA-CUCCIOLATA|CUCCIOLATE|CUCCIOLATA|NOVITA|NEWS|ESPOSI
 # Pagine con i blocchi in ordine diverso fra le lingue (o uniti in uno solo): quali blocchi si corrispondono,
 # come posizione (1, 2, 3...) nell'elenco di ogni lingua, (it, en, de). Solo questi avranno l'interruttore.
 MAPPE = {
-    "cuccioli": [(1, 1, 1), (2, 2, 2), (3, 3, 3), (4, 4, 4), (5, 5, 5), (6, 7, 7), (7, 6, 6), (10, 11, 11), (11, 10, 10),
-                 (12, 8, 8), (13, 12, 12), (14, 13, 13), (15, 14, 14)],
+    # 13/10/2026: recensioni spostate subito dopo le cucciolate (posizione 5), i numeri dei blocchi restano gli stessi
+    "cuccioli": [(1, 1, 1), (2, 2, 2), (3, 3, 3), (4, 4, 4), (6, 6, 6), (7, 8, 8), (8, 7, 7), (5, 5, 5), (11, 11, 11),
+                 (12, 9, 9), (13, 12, 12), (14, 13, 13), (15, 14, 14)],
     "programma": [(1, 1, 1), (2, 2, 2), (6, 8, 8)],
     "test-genetici": [(1, 1, 1), (2, 2, 2), (3, 3, 3), (4, 4, 4), (5, 5, 5), (6, 6, 6), (7, 9, 9), (8, 8, 8), (9, 10, 10),
                       (10, 11, 11), (11, 12, 12)],

@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Blog - Artikel & Ratgeber"
 date: 2025-12-28
-lastmod: 2026-10-11
+lastmod: 2026-10-13
 tipoPagina: "CollectionPage"
 translationKey: "blog"
 description: "Ratgeber über Welpen, Gesundheit, Standard, Blutlinien und das Zusammenleben mit dem Staffordshire Bull Terrier, geschrieben von der Zucht Del Piccolo Diavolo."
@@ -98,7 +98,9 @@ custom_content: |
   <a class="read" href="/de/sozialisierte-welpen-was-das-heisst/" title="Vollständigen Artikel lesen" aria-label="Artikel lesen: Sozialisierte Welpen, was das wirklich heißt">Lesen<span class="sr-only">: Sozialisierte Welpen, was das wirklich heißt</span> &rarr;</a>
   </div>
   </article>
-
+  </div>
+  <details class="tutti"><summary>Alle Artikel zeigen (14)</summary>
+  <div class="blog-grid">
   <article class="blog-card">
   <a href="/de/eltern-vor-ort-was-das-bedeutet/" title="Lesen: Eltern vor Ort, was das wirklich bedeutet"><div class="blog-card-thumb"><img src="/images/blog/icone/genitori-visibili-cosa-significa.webp" alt="Staffordshire Bull Terrier Hündin säugt ihren Wurf" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -207,8 +209,8 @@ custom_content: |
   <a class="read" href="/de/welpen-erster-spaziergang/" title="Vollständigen Artikel lesen" aria-label="Artikel lesen: Erster Spaziergang an der Leine">Lesen<span class="sr-only">: Erster Spaziergang an der Leine</span> →</a>
   </div>
   </article>
-
   </div>
+  </details>
   </div>
   </section>
   <!--/BLOCCO:4-->
@@ -248,7 +250,9 @@ custom_content: |
   <a class="read" href="/de/staffordshire-bull-terrier-wesen/" aria-label="Artikel lesen: Das Wesen des Staffordshire Bull Terrier">Lesen<span class="sr-only">: Das Wesen des Staffordshire Bull Terrier</span> →</a>
   </div>
   </article>
-
+  </div>
+  <details class="tutti"><summary>Alle Artikel zeigen (8)</summary>
+  <div class="blog-grid">
   <article class="blog-card">
   <a href="/de/staffy-pitbull-amstaff-unterschied/" title="Lesen: Unterschied Staffy Pitbull Amstaff"><div class="blog-card-thumb"><img src="/images/blog/icone/differenza-staffy-pitbull-amstaff.webp" alt="Unterschied Staffy Pitbull Amstaff" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -299,6 +303,7 @@ custom_content: |
   </div>
   </article>
   </div>
+  </details>
   </div>
   </section>
   <!--/BLOCCO:5-->
@@ -340,7 +345,9 @@ custom_content: |
   <a class="read" href="/de/staffy-gentests-l2hga-hc/" title="Vollständigen Artikel lesen" aria-label="Artikel lesen: L2HGA und HC Gentests: Kompletter Ratgeber">Lesen<span class="sr-only">: L2HGA und HC Gentests: Kompletter Ratgeber</span> →</a>
   </div>
   </article>
-
+  </div>
+  <details class="tutti"><summary>Alle Artikel zeigen (6)</summary>
+  <div class="blog-grid">
   <article class="blog-card">
   <a href="/de/staffy-parasitenvorbeugung/" title="Lesen: Parasitenvorbeugung und -kontrolle"><div class="blog-card-thumb"><img src="/images/blog/icone/salute-parassiti-prevenzione.webp" alt="Gesundheitsvorsorge beim Staffordshire Bull Terrier: parasitenvorbeugung und -kontrolle" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -371,6 +378,7 @@ custom_content: |
   </div>
   </article>
   </div>
+  </details>
   </div>
   </section>
   <!--/BLOCCO:6-->
@@ -412,7 +420,9 @@ custom_content: |
   <a class="read" href="/de/staffy-aeltere-besitzer/" title="Vollständigen Artikel lesen" aria-label="Artikel lesen: Mit älteren Menschen: Rhythmen respektieren">Lesen<span class="sr-only">: Mit älteren Menschen: Rhythmen respektieren</span> →</a>
   </div>
   </article>
-
+  </div>
+  <details class="tutti"><summary>Alle Artikel zeigen (7)</summary>
+  <div class="blog-grid">
   <article class="blog-card">
   <a href="/de/staffy-andere-haustiere/" title="Lesen: Zusammenleben mit anderen Tieren"><div class="blog-card-thumb"><img src="/images/blog/icone/famiglia-convivenza-altri-animali.webp" alt="Staffordshire Bull Terrier in der Familie: zusammenleben mit anderen Tieren" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -453,6 +463,7 @@ custom_content: |
   </div>
   </article>
   </div>
+  </details>
   </div>
   </section>
   <!--/BLOCCO:7-->

@@ -2,7 +2,7 @@
 title: "Cuccioli Staffordshire Bull Terrier"
 titleSeo: "Cuccioli Staffordshire Bull Terrier con test verificabili"
 date: 2025-12-28
-lastmod: 2026-10-11
+lastmod: 2026-10-13
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
 description: "Cuccioli Staffordshire Bull Terrier a Ostellato (FE). Pedigree ENCI, genitori testati L2HGA e HC con i referti pubblicati sul sito, verificabili da chiunque."
@@ -86,6 +86,32 @@ custom_content: |
   <!--CUCCIOLATE-->
   <!--/BLOCCO:4-->
 
+  <!--BLOCCO:8-->
+  <section class="section section-alt">
+  <div class="section-inner">
+  <span class="section-label">Recensioni</span>
+  <h2 class="section-title">Cosa dicono le famiglie che hanno scelto Del Piccolo Diavolo</h2>
+
+  <div class="review-card">
+  <p class="review-text">"Paolo è una garanzia per questa razza. Cuccioli cresciuti in casa, supporto continuo e grande competenza. Il nostro Staffy è perfetto!"</p>
+  <div class="reviewer"><span>Cristian Ferroci</span><span class="stars">★★★★★</span></div>
+  </div>
+
+  <div class="review-card">
+  <p class="review-text">"L'amore a prima vista esiste… fidatevi. Professionalità, passione e cuccioli equilibrati e sani. Consiglio a tutti questo allevamento."</p>
+  <div class="reviewer"><span>Manu Nannetti</span><span class="stars">★★★★★</span></div>
+  </div>
+
+  <div style="text-align:center;margin-top:1rem">
+  <a href="/recensioni/" title="Leggi tutte le recensioni" class="btn btn-ghost">Leggi tutte le <!--REC-TOTALE--> recensioni →</a>
+  &nbsp;
+  <a href="/palmares-del-piccolo-diavolo/" title="Risultati in esposizione" class="btn btn-ghost">Vedi i risultati in esposizione →</a>
+  </div>
+  </div>
+  </section>
+  <!--/BLOCCO:8-->
+
+
   <!--BLOCCO:5-->
   <section class="section section-alt">
   <div class="section-inner">
@@ -102,9 +128,11 @@ custom_content: |
   <span class="de">Il metodo ENS, le prove che mancano, e cosa conta davvero nelle prime otto settimane.</span>
   </span>
   </a>
+  <details class="continua"><summary>Continua a leggere</summary>
   <p>Questa esposizione graduale e controllata cade nel periodo in cui un cucciolo costruisce la categoria &laquo;normale&raquo;: quello che incontra adesso non dovr&agrave; elaborarlo da adulto.</p>
   <p>In pratica significa manipolazione quotidiana, rumori domestici, persone di et&agrave; diverse che entrano ed escono, i cani adulti sotto controllo, il cortile con erba e terra e i rumori della strada che passa. Non &egrave; un protocollo: &egrave; il modo in cui vivono qui. E non basta &mdash; quando un cucciolo parte, met&agrave; della finestra sensibile &egrave; ancora davanti a lui, e la passer&agrave; con la sua famiglia. Cosa si pu&ograve; fare in allevamento e cosa no, lo spieghiamo nella guida su <a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Cuccioli socializzati: cosa vuol dire davvero">cosa vuol dire davvero &laquo;cuccioli socializzati&raquo;</a>.</p>
   <p>Approfondisci nel nostro <a href="/blog/" title="Blog Staffordshire Bull Terrier">blog sul Staffordshire Bull Terrier</a> con guide pratiche su socializzazione, alimentazione e salute.</p>
+  </details>
   </div>
   </div>
   </section>
@@ -120,45 +148,45 @@ custom_content: |
 
   <p>Di quello che succede dopo la nascita si parla molto. Di quello che succede prima, quasi mai &mdash; eppure &egrave; l&igrave; che si decide gran parte di come andr&agrave; una cucciolata.</p>
 
-  <h3>Prima del calore</h3>
+  <details class="tendina"><summary><h3>Prima del calore</h3></summary>
 
   <p>Il percorso di una cucciolata comincia dal veterinario, non dal maschio. Se la femmina &egrave; regolare e ho il calendario dei calori precedenti, so con buona approssimazione quando arriver&agrave; il prossimo e la visita la faccio poco prima; altrimenti si va appena il calore &egrave; conclamato.</p>
 
   <p>In quella visita si fa il <strong>tampone vaginale con esame colturale</strong>, per escludere batteri che comprometterebbero la gravidanza, e se serve una sverminazione.</p>
 
   <p>Individuato il calore, cominciano i <strong>dosaggi del progesterone</strong>. Non &egrave; un dettaglio da appassionati: il momento fertile non si indovina dal giorno del calore, e sbagliarlo di 48 ore significa non avere cuccioli. Si preleva a intervalli finch&eacute; il valore raggiunge il picco, e quello &egrave; il giorno. Ogni dosaggio costa 40 euro e ne servono almeno quattro: questa e le altre spese sono <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/#costi-cucciolata" title="Quanto costa una cucciolata, voce per voce">nei costi di una cucciolata, voce per voce</a>.</p>
-
-  <h3>L'accoppiamento</h3>
+  </details>
+  <details class="tendina"><summary><h3>L'accoppiamento</h3></summary>
 
   <p><strong>Sono sempre io che vado dal maschio</strong>, mai il contrario: il maschio resta a casa sua, si sposta la femmina.</p>
 
   <p>Quando <a href="/genitori-visibili-cosa-significa/" title="Genitori visibili: cosa significa">lo stallone scelto</a> &egrave; un maschio di livello, capita spesso che il proprietario si appoggi a un veterinario per l'<strong>inseminazione strumentale</strong>, con deposizione intracervicale. Le ragioni sono tre: evitare il rischio di malattie trasmissibili, non sottoporre il soggetto a sforzi eccessivi, e avere la certezza che l'accoppiamento avvenga. Perch&eacute; &mdash; e questa &egrave; una cosa che chi non alleva non immagina &mdash; <strong>non per tutti i maschi accoppiarsi &egrave; facile</strong>. Molto dipende dalla femmina: ce n'&egrave; pi&ugrave; d'una che non gliela rende semplice per niente.</p>
-
-  <h3>La gravidanza: due esami, due scopi diversi</h3>
+  </details>
+  <details class="tendina"><summary><h3>La gravidanza: due esami, due scopi diversi</h3></summary>
 
   <p><strong>L'ecografia, dopo almeno 25 giorni.</strong> Serve a sapere se la femmina &egrave; gravida, e un veterinario capace d&agrave; gi&agrave; un'indicazione di massima sul numero. Ma resta un'indicazione.</p>
 
   <p><strong>La radiografia, cinque o sette giorni prima del parto.</strong> Questa serve al numero esatto, che si ottiene contando i crani e le colonne vertebrali, a quel punto calcificati e visibili.</p>
 
   <p>Contare i crani con la radiografia non &egrave; un vezzo: <strong>&egrave; l'informazione che serve durante il parto</strong>, soprattutto se naturale. Bisogna sapere quanti cuccioli devono uscire, e che siano usciti tutti, ognuno con la sua placenta. Senza quel numero si va a sentimento, e a sentimento un cucciolo trattenuto o una placenta ritenuta si scoprono tardi.</p>
-
-  <h3>Il parto</h3>
+  </details>
+  <details class="tendina"><summary><h3>Il parto</h3></summary>
 
   <p>Nello Staffordshire Bull Terrier il parto naturale &egrave; la norma: &egrave; una razza rustica, e il cesareo qui &egrave; stato un'eccezione rara. Ma quando qualcosa non va non si improvvisa: chiamo il mio veterinario di fiducia, che valuta caso per caso.</p>
 
   <p><strong>L'ossitocina si usa con molta attenzione e con parsimonia</strong>, e solo quando &egrave; il veterinario a deciderlo. Non &egrave; un acceleratore da somministrare perch&eacute; il parto va per le lunghe: se c'&egrave; un cucciolo che ostruisce, contrazioni pi&ugrave; forti sono l'ultima cosa che serve, e il rischio &egrave; la rottura dell'utero.</p>
-
-  <h3>La prima settimana</h3>
+  </details>
+  <details class="tendina"><summary><h3>La prima settimana</h3></summary>
 
   <p>I cuccioli nascono in casa, nella cassa parto. E per una settimana <strong>smetto di dormire nel mio letto</strong>: mi sistemo sul divano, accanto a loro.</p>
 
   <p>La prima settimana dopo il parto non &egrave; tenerezza da raccontare: &egrave; la parte pi&ugrave; rischiosa di tutte. In quei giorni un cucciolo pu&ograve; finire schiacciato dalla madre che si gira, o una femmina pu&ograve; essere restia ad allattare: sono cose che si sentono prima di vederle, un mugolio diverso, un rumore che non torna. Dopo la prima settimana la situazione si alleggerisce.</p>
-
-  <h3>Il giorno in cui possono partire</h3>
+  </details>
+  <details class="tendina"><summary><h3>Il giorno in cui possono partire</h3></summary>
 
   <p>Vaccinazione e microchip li fa il veterinario, ed &egrave; quello che rende un cucciolo idoneo a lasciare l'allevamento. La legge italiana fissa il minimo a <strong>60 giorni</strong>; da me partono intorno ai <strong>70</strong>, perch&eacute; quella decina di giorni in pi&ugrave; serve a loro. Per l'estero i tempi si allungano ancora: ne parliamo nella <a href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Cucciolo all'estero">pagina dedicata</a>.</p>
-
-  <h3>Le domande da fare a un allevatore</h3>
+  </details>
+  <details class="tendina"><summary><h3>Le domande da fare a un allevatore</h3></summary>
 
   <p>Se stai valutando una cucciolata, chiunque la faccia, queste sono le domande che nessuno pu&ograve; eludere:</p>
 
@@ -168,7 +196,7 @@ custom_content: |
   <li><strong>Dove ha partorito la madre, e chi c'era?</strong> La prima settimana &egrave; quella in cui si perdono i cuccioli.</li>
   <li><strong>Quando lasciano l'allevamento?</strong> Sotto i 60 giorni &egrave; fuori legge, e non &egrave; un dettaglio burocratico.</li>
   </ul>
-
+  </details>
   </div>
   </section>
   <!--/BLOCCO:6-->
@@ -226,32 +254,6 @@ custom_content: |
   </div>
   </div>
   </section>
-
-  <!--BLOCCO:8-->
-  <section class="section section-alt">
-  <div class="section-inner">
-  <span class="section-label">Recensioni</span>
-  <h2 class="section-title">Cosa dicono le famiglie che hanno scelto Del Piccolo Diavolo</h2>
-
-  <div class="review-card">
-  <p class="review-text">"Paolo è una garanzia per questa razza. Cuccioli cresciuti in casa, supporto continuo e grande competenza. Il nostro Staffy è perfetto!"</p>
-  <div class="reviewer"><span>Cristian Ferroci</span><span class="stars">★★★★★</span></div>
-  </div>
-
-  <div class="review-card">
-  <p class="review-text">"L'amore a prima vista esiste… fidatevi. Professionalità, passione e cuccioli equilibrati e sani. Consiglio a tutti questo allevamento."</p>
-  <div class="reviewer"><span>Manu Nannetti</span><span class="stars">★★★★★</span></div>
-  </div>
-
-  <div style="text-align:center;margin-top:1rem">
-  <a href="/recensioni/" title="Leggi tutte le recensioni" class="btn btn-ghost">Leggi tutte le <!--REC-TOTALE--> recensioni →</a>
-  &nbsp;
-  <a href="/palmares-del-piccolo-diavolo/" title="Risultati in esposizione" class="btn btn-ghost">Vedi i risultati in esposizione →</a>
-  </div>
-  </div>
-  </section>
-  <!--/BLOCCO:8-->
-
 
   <!--BLOCCO:9-->
   <section class="section">

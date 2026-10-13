@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Blog - Articles & Guides"
 date: 2025-12-28
-lastmod: 2026-10-11
+lastmod: 2026-10-13
 tipoPagina: "CollectionPage"
 translationKey: "blog"
 description: "Guides on puppies, health, breed standard, bloodlines and daily life with the Staffordshire Bull Terrier, written by the Del Piccolo Diavolo kennel in Italy."
@@ -98,7 +98,9 @@ custom_content: |
   <a class="read" href="/en/socialised-puppies-what-it-means/" title="Read full article" aria-label="Read the article: Socialised puppies, what it really means">Read<span class="sr-only">: Socialised puppies, what it really means</span> &rarr;</a>
   </div>
   </article>
-
+  </div>
+  <details class="tutti"><summary>Show all articles (14)</summary>
+  <div class="blog-grid">
   <article class="blog-card">
   <a href="/en/parents-on-site-what-it-means/" title="Read: Parents on site, what it really means"><div class="blog-card-thumb"><img src="/images/blog/icone/genitori-visibili-cosa-significa.webp" alt="Staffordshire Bull Terrier bitch nursing her litter" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -207,8 +209,8 @@ custom_content: |
   <a class="read" href="/en/puppy-first-walk/" title="Read full article" aria-label="Read the article: First walk on leash">Read<span class="sr-only">: First walk on leash</span> →</a>
   </div>
   </article>
-
   </div>
+  </details>
   </div>
   </section>
   <!--/BLOCCO:4-->
@@ -248,7 +250,9 @@ custom_content: |
   <a class="read" href="/en/staffordshire-bull-terrier-temperament/" aria-label="Read the article: The Staffordshire Bull Terrier Temperament">Read<span class="sr-only">: The Staffordshire Bull Terrier Temperament</span> →</a>
   </div>
   </article>
-
+  </div>
+  <details class="tutti"><summary>Show all articles (8)</summary>
+  <div class="blog-grid">
   <article class="blog-card">
   <a href="/en/staffy-pitbull-amstaff-difference/" title="Read: Staffy Pitbull Amstaff difference"><div class="blog-card-thumb"><img src="/images/blog/icone/differenza-staffy-pitbull-amstaff.webp" alt="Staffy Pitbull Amstaff difference" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -299,6 +303,7 @@ custom_content: |
   </div>
   </article>
   </div>
+  </details>
   </div>
   </section>
   <!--/BLOCCO:5-->
@@ -340,7 +345,9 @@ custom_content: |
   <a class="read" href="/en/staffy-genetic-testing-l2hga-hc/" title="Read full article" aria-label="Read the article: L2HGA and HC Genetic Testing: Complete Guide">Read<span class="sr-only">: L2HGA and HC Genetic Testing: Complete Guide</span> →</a>
   </div>
   </article>
-
+  </div>
+  <details class="tutti"><summary>Show all articles (6)</summary>
+  <div class="blog-grid">
   <article class="blog-card">
   <a href="/en/staffy-parasite-prevention/" title="Read: Parasite prevention and control"><div class="blog-card-thumb"><img src="/images/blog/icone/salute-parassiti-prevenzione.webp" alt="Staffordshire Bull Terrier health care: parasite prevention and control" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -371,6 +378,7 @@ custom_content: |
   </div>
   </article>
   </div>
+  </details>
   </div>
   </section>
   <!--/BLOCCO:6-->
@@ -412,7 +420,9 @@ custom_content: |
   <a class="read" href="/en/staffy-elderly-owners/" title="Read full article" aria-label="Read the article: With elderly people: respecting rhythms">Read<span class="sr-only">: With elderly people: respecting rhythms</span> →</a>
   </div>
   </article>
-
+  </div>
+  <details class="tutti"><summary>Show all articles (7)</summary>
+  <div class="blog-grid">
   <article class="blog-card">
   <a href="/en/staffy-other-pets/" title="Read: Living with other animals"><div class="blog-card-thumb"><img src="/images/blog/icone/famiglia-convivenza-altri-animali.webp" alt="Staffordshire Bull Terrier with the family: living with other animals" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
@@ -453,6 +463,7 @@ custom_content: |
   </div>
   </article>
   </div>
+  </details>
   </div>
   </section>
   <!--/BLOCCO:7-->

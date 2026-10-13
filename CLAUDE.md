@@ -276,3 +276,10 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
   the final CTA, "Come si controlla" subsections as `.tendina`, long sections with "Continua a leggere" (`.continua`),
   puppy photos spread next to paragraphs; photos of dogs looking left are mirrored with `transform:scaleX(-1)` so they
   look towards the text (neuro web design, Paolo's rule).
+- Long pages (13/10/2026): FAQ answers are open in the HTML (Google, AI, no-JS) and closed by the script in `baseof.html`,
+  which wraps each question in a real `<button class="faq-btn">` (keyboard, aria-expanded); a question containing a link
+  stays open. Reviews page: 6 reviews visible, the rest in `<details class="tutti">`; Blog: 3 cards per category + "Mostra
+  tutti"; Palmarès: 4 results per dog + "Tutti i risultati"; long text sections (Cuccioli, Programma, Chi siamo) use
+  `.continua`/`.tendina`; on phones the two parents in litter cards sit side by side and galleries are 3 in a row.
+  Puppies page: reviews moved right after the litters (`MAPPE["cuccioli"]` in segna.py updated, block numbers unchanged).
+  Lines added inside `custom_content:` must keep the block's indentation, or the YAML block ends early.
