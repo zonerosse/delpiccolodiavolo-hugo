@@ -18,7 +18,7 @@
 #
 # Solo libreria standard: nessun pacchetto da installare.
 
-import os, re, sys, json, glob, shutil, tempfile, subprocess, collections
+import os, re, sys, json, glob, shutil, tempfile, subprocess, collections, unicodedata
 from html.parser import HTMLParser
 from urllib.parse import urlparse, unquote, urljoin
 
@@ -96,6 +96,27 @@ class Costruttore(HTMLParser):
 
 def albero(html):
     c = Costruttore(); c.feed(html); return c.radice
+
+# ------------------------------------------------ accessibilita' (WCAG 2.2 AA)
+# Regole nate dal report EN 301 549 del 13/10/2026 e dalla verifica completa
+# con axe-core 4.14 su tutte le pagine: quello che e' stato sistemato non deve
+# tornare. Il confronto del testo imita axe (label-content-name-mismatch):
+# minuscole, punteggiatura/simboli/emoji come spazi, parole intere.
+def a11y_norm(t):
+    t = unicodedata.normalize("NFKC", t).lower()
+    t = "".join(ch if ch.isalnum() else " " for ch in t)
+    return re.sub(r"\s+", " ", t).strip()
+
+def a11y_visibile(n):
+    """Testo che si vede dentro un link/bottone: senza .sr-only, senza script/style."""
+    out = []
+    def giro(x):
+        for f in x.figli:
+            if isinstance(f, str): out.append(f)
+            elif f.tag in ("script", "style") or "sr-only" in f.classi(): continue
+            else: giro(f)
+    giro(n)
+    return re.sub(r"\s+", " ", " ".join(out)).strip()
 
 class Bilancia(HTMLParser):
     """Controlla che ogni tag aperto sia chiuso, nell'ordine giusto."""
@@ -268,6 +289,37 @@ if r.returncode == 0:
     ]:
         registra(cod, "AVVISO", tit)
 
+    for cod, tit in [
+        ("a11y_nome", "Accessibilita' 2.5.3: aria-label che non contiene il testo visibile del link/bottone"),
+        ("a11y_lingua", "Accessibilita' 3.1.1: <html> senza attributo lang"),
+        ("a11y_tabella", "Accessibilita' 2.1.1: tabella senza tabindex=\"0\" (su telefono scorre e col Tab non si raggiunge)"),
+        ("a11y_griglia", "Accessibilita' 1.4.10: griglia minmax(NNNpx,...) senza min(): a 320 px la pagina scorre di lato"),
+        ("a11y_css", "Accessibilita': regola del foglio di stile tolta o tornata indietro (tagli, sottolineature, focus, barra)"),
+    ]:
+        registra(cod, "ERRORE", tit)
+
+    # Sorgenti: griglie che non si stringono sotto i 320 px (1.4.10)
+    for f in glob.glob("content/**/*.md", recursive=True) + glob.glob("layouts/**/*.html", recursive=True) + ["assets/css/main.css"]:
+        for m in re.finditer(r"minmax\(\s*(\d+)px\s*,", open(f, encoding="utf-8").read()):
+            if int(m.group(1)) >= 160:
+                segnala("a11y_griglia", "ERRORE", "", f.replace("\\", "/"), m.group(0) + "...) -> minmax(min(" + m.group(1) + "px,100%),1fr)")
+
+    # Foglio di stile: le correzioni di accessibilita' devono restare
+    css = open("assets/css/main.css", encoding="utf-8").read()
+    for sel in (".blog-card", ".diario-card", ".female-card,.male-card", ".faq-item"):
+        m = re.search(r"(?:^|})\s*" + re.escape(sel) + r"\{([^}]*)\}", css)
+        if m and "overflow:hidden" in m.group(1).replace(" ", ""):
+            segnala("a11y_css", "ERRORE", "", sel, "overflow:hidden taglia il testo con lo zoom al 200% (1.4.4)")
+    for dentro, perche in (
+        ('p a:not([class*="btn"])', "link dentro i paragrafi sottolineati (1.4.1)"),
+        ("iframe:focus-visible,video:focus-visible,table:focus-visible", "riquadro del focus su video e tabelle (2.4.7)"),
+        (".features-bar:hover .features-track", "barra scorrevole che si ferma col mouse/Tab (2.2.2)"),
+        ("prefers-reduced-motion", "barra ferma per chi chiede meno movimento (2.2.2)"),
+        ("max-width:min(350px,100%)", "foto .image-center che non escono dallo schermo (1.4.10)"),
+    ):
+        if dentro not in css:
+            segnala("a11y_css", "ERRORE", "", "assets/css/main.css", "manca: " + perche)
+
     NON_FONTI = re.compile(r"wa\.me|whatsapp|google\.[a-z.]+/maps|maps\.app|g\.page|goo\.gl|facebook\.|instagram\.|"
                            r"youtube\.|youtu\.be|tiktok\.|feedly\.|inoreader\.|linkedin\.|x\.com|twitter\.")
     statistiche = {}   # url -> dati per il confronto fra lingue
@@ -315,6 +367,9 @@ if r.returncode == 0:
         doc = albero(html)
         nodi = list(doc.tutti())
         head_meta = {n.attrs.get("name"): n.attrs.get("content", "") for n in nodi if n.tag == "meta" and n.attrs.get("name")}
+        h = next((n for n in nodi if n.tag == "html"), None)
+        if h is None or not h.attrs.get("lang"):
+            segnala("a11y_lingua", "ERRORE", "", url, "")
         noindex = "noindex" in head_meta.get("robots", "")
         titolo = next((n.testo() for n in nodi if n.tag == "title"), "")
 
@@ -357,6 +412,13 @@ if r.returncode == 0:
                         segnala("link", "ERRORE", "", url, u)
             if n.tag == "img" and "alt" not in n.attrs:
                 segnala("alt", "ERRORE", "", url, n.attrs.get("src", ""))
+            if n.tag in ("a", "button") and n.attrs.get("aria-label") is not None:
+                vis = a11y_norm(a11y_visibile(n))
+                if vis and f" {vis} " not in f" {a11y_norm(n.attrs['aria-label'])} ":  # parole intere, come axe
+                    segnala("a11y_nome", "ERRORE", "", url,
+                            f'vede "{a11y_visibile(n)[:40]}", sente "{n.attrs["aria-label"][:60]}"')
+            if n.tag == "table" and n.attrs.get("tabindex") != "0":
+                segnala("a11y_tabella", "ERRORE", "", url, (n.testo()[:50] or "tabella"))
             if n.tag == "a" and n.attrs.get("target") == "_blank":
                 if "noopener" not in n.attrs.get("rel", ""):
                     segnala("noopener", "ERRORE", "", url, n.attrs.get("href", ""))

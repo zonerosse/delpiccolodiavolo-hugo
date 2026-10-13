@@ -206,7 +206,7 @@ Die Eltern sind auf die wichtigsten genetischen Erkrankungen der Rasse getestet:
 Überprüfbare Gentests
 </h3>
 <p style="margin:0 0 1.5rem;font-size:1rem;color:#fff !important;font-weight:600">Volle Transparenz: Ergebnisse überprüfbar in der SBTPedigree-Datenbank, Laborzertifikate unten zum Download — die Eltern von Black Jack eingeschlossen.</p>
-<div style="display:grid;gap:.75rem;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))">
+<div style="display:grid;gap:.75rem;grid-template-columns:repeat(auto-fit,minmax(min(240px,100%),1fr))">
 <a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Quash — Gentests – Quash, Vater von Black Jack — Gentests (PDF) (wird in einem neuen Tab geöffnet)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Quash — Gentests

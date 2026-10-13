@@ -14,7 +14,7 @@
 .dropdown-trigger::after{content:'';display:inline-block;width:0;height:0;margin-left:5px;vertical-align:middle;border-left:4px solid transparent;border-right:4px solid transparent;border-top:5px solid currentColor}
 
 /* === CONTACT PAGE === */
-.contact-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1.5rem;margin:2rem 0}
+.contact-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(200px,100%),1fr));gap:1.5rem;margin:2rem 0}
 .contact-item{background:#fff;border:1px solid rgba(139,115,85,.1);border-radius:12px;padding:1.5rem;text-align:center}
 .contact-item svg{width:48px;height:48px;stroke:#8b5a2b;margin:0 auto 1rem}
 .contact-item h4{font-size:1rem;color:#5c4a3a;margin-bottom:.5rem}.contact-item h3{font-family:inherit;font-weight:600;font-size:1rem;color:#5c4a3a;margin-bottom:.5rem}

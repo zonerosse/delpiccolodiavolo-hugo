@@ -174,7 +174,7 @@ custom_content: |
 
   <p><strong>Tutti i riproduttori sono testati per L2HGA e HC (HSF4), o esenti per via parentale con i referti dei genitori; le fattrici anche per DM-SOD1.</strong> I referti, con il numero di microchip, sono pubblicati sulle schede dei cani.</p>
 
-  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem;margin:1.2rem 0 1rem">
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(220px,100%),1fr));gap:1rem;margin:1.2rem 0 1rem">
   <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
   <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">L2HGA</div>
   <div style="font-size:.85rem;color:#7a6448;margin-bottom:.5rem">Aciduria L-2-idrossiglutarica</div>

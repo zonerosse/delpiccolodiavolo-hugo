@@ -175,7 +175,7 @@ custom_content: |
 
   <p><strong>All breeding dogs are tested for L2HGA and HC (HSF4), or clear by parentage with their parents' reports; the brood bitches also for DM-SOD1.</strong> The reports, with the microchip number, are published on the dogs' pages.</p>
 
-  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem;margin:1.2rem 0 1rem">
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(220px,100%),1fr));gap:1rem;margin:1.2rem 0 1rem">
   <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
   <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">L2HGA</div>
   <div style="font-size:.85rem;color:#7a6448;margin-bottom:.5rem">L-2-hydroxyglutaric aciduria</div>

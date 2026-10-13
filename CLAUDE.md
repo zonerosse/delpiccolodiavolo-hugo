@@ -250,3 +250,16 @@ commit (Paolo's choices: A in Google, B automatic translations, C2 publish all t
 - **`/pagine-indice.json`** (`layouts/index.pagine.json`, output format PAGINE, Italian home only): for every page today's
   title/description/h1/opening/keyword (from `tools/controlli/parole-chiave.txt`) per language and its blocks (titles, and
   flags h1/faq/kw/link used by the gestionale to warn). CORS for the gestionale in `index.headers`.
+
+## Accessibility (WCAG 2.2 AA), October 2026
+After the EN 301 549 report of 13/10/2026 and a full axe-core 4.14 audit of all pages (PC, phone, 320 px), the fixes are
+guarded by `verifica.py` (codes `a11y_*`, all ERRORI):
+- `a11y_nome` (2.5.3): an `aria-label` on a link/button must contain its visible text as whole words (best: start with it,
+  then context and "(si apre in una nuova scheda)"). Same rule for the gestionale's pages.
+- `a11y_lingua` (3.1.1): `<html lang>` on every page.
+- `a11y_tabella` (2.1.1): every `<table>` has `tabindex="0"` (Markdown tables get it from `_default/_markup/render-table.html`).
+- `a11y_griglia` (1.4.10): grid columns written as `minmax(min(NNNpx,100%),1fr)`, never `minmax(NNNpx,1fr)`.
+- `a11y_css`: cards (blog, diary, females/males, FAQ) without `overflow:hidden` (text clipped at 200% zoom); links in
+  paragraphs underlined; focus ring on iframe/video/table; features bar pauses on hover/Tab and with reduced motion;
+  `.image-center img` max `min(350px,100%)`.
+The features bar keeps scrolling by Paolo's choice (13/10/2026).
