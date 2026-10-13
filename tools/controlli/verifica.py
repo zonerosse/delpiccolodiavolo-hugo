@@ -319,6 +319,13 @@ if r.returncode == 0:
     ):
         if dentro not in css:
             segnala("a11y_css", "ERRORE", "", "assets/css/main.css", "manca: " + perche)
+    # Domande frequenti chiuse da script: deve funzionare con tutti e due i modi di scriverle
+    # (<div class="faq-question"><h3>... e <h3 class="faq-question">...), altrimenti le risposte non si aprono piu'
+    base = open("layouts/_default/baseof.html", encoding="utf-8").read()
+    for dentro, perche in (("faq-btn", "bottone delle domande frequenti"),
+                           ("q.matches('h2,h3,h4')", "domande scritte come <h3 class=\"faq-question\"> (articoli)")):
+        if dentro not in base:
+            segnala("a11y_css", "ERRORE", "", "layouts/_default/baseof.html", "manca: " + perche)
 
     NON_FONTI = re.compile(r"wa\.me|whatsapp|google\.[a-z.]+/maps|maps\.app|g\.page|goo\.gl|facebook\.|instagram\.|"
                            r"youtube\.|youtu\.be|tiktok\.|feedly\.|inoreader\.|linkedin\.|x\.com|twitter\.")
