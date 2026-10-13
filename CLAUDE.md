@@ -263,3 +263,16 @@ guarded by `verifica.py` (codes `a11y_*`, all ERRORI):
   paragraphs underlined; focus ring on iframe/video/table; features bar pauses on hover/Tab and with reduced motion;
   `.image-center img` max `min(350px,100%)`.
 The features bar keeps scrolling by Paolo's choice (13/10/2026).
+
+## Layout choices for readers who skim (Paolo, 13/10/2026)
+- Showcase pages (Diario, Programma allevamento, Femmine, Maschi, Recensioni, Palmarès, IT/EN/DE): cards right under the
+  header, introductory text below the cards (choice C). Diario: order set in `layouts/diario-allevamento/list.html`.
+- `partials/guide-cucciolo.html`: max 4 guide cards (the guides after the current page, in rotation) + "Tutte le guide" (R2).
+- Phone header photo: whole photo, 42% of the screen height, `object-fit:contain` (never cropped).
+- Articles: `partials/inbreve.html` adds "In breve" (front matter `in_breve:`, 2-4 sentences, written from the article's
+  own text, same in IT/EN/DE) and a closed "In questa pagina" index (automatic, articles with 6+ h2). No `<p>` inside, so
+  the citable first paragraph is unchanged. New long articles: write `in_breve` in the three languages.
+- Home: three key numbers under the header (rating/total from hugo.toml), a review right after the puppies and one before
+  the final CTA, "Come si controlla" subsections as `.tendina`, long sections with "Continua a leggere" (`.continua`),
+  puppy photos spread next to paragraphs; photos of dogs looking left are mirrored with `transform:scaleX(-1)` so they
+  look towards the text (neuro web design, Paolo's rule).

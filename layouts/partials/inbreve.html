@@ -6,6 +6,7 @@
     **grassetto** ammesso). Se manca, il riquadro non esce.
   - Indice: automatico negli articoli (articolo: true) con almeno 6 titoli h2
     prima del riquadro finale (cta-section). Ai titoli senza id viene dato un id.
+  Indice chiuso: si apre toccando "In questa pagina" (scelta di Paolo).
   Il blocco va prima del primo paragrafo del testo, dopo il percorso (breadcrumb).
   Dentro non ci sono <p>: il "primo paragrafo" (blocco citabile, apertura del
   gestionale) resta quello di prima.
@@ -45,7 +46,7 @@
       {{- $tit := cond (eq $lang "en") "On this page" (cond (eq $lang "de") "Auf dieser Seite" "In questa pagina") -}}
       {{- $li := "" -}}
       {{- range $voci }}{{ $li = printf `%s<li><a href="#%s">%s</a></li>` $li .id (.t | htmlEscape) }}{{ end -}}
-      {{- $box = printf `%s<details class="indice" open><summary>%s</summary><ol>%s</ol></details>` $box $tit $li -}}
+      {{- $box = printf `%s<details class="indice"><summary>%s</summary><ol>%s</ol></details>` $box $tit $li -}}
     {{- end -}}
     {{- /* punto di inserimento: primo <p> senza attributi dopo il percorso (o dopo l'h1) */ -}}
     {{- $dopo := cond (in $c "</nav>") "</nav>" "</h1>" -}}
