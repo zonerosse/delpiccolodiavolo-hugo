@@ -75,7 +75,7 @@ custom_content: |
   <p>The approved text contains two changes that matter to anyone choosing a Staffy. First: <strong>the Staffordshire Bull Terrier is no longer on the list</strong>. Second: it <strong>excludes dogs registered in the stud books</strong>, that is, dogs with an ENCI pedigree, and prohibits breeding and rehoming non-pedigree dogs of the listed types, to stop backyard litters. Source: the <a href="https://www.anmvioggi.it/in-evidenza/77665-cani-in-save-list-il-testo-consolidato-della-plp-lombarda.html" target="_blank" rel="noopener" aria-label="consolidated text published by Anmvi Oggi – Anmvi Oggi, consolidated text of the Lombardy bill (opens in a new tab)">consolidated text published by Anmvi Oggi</a>.</p>
   <p>The list in the approved text, crosses included:</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th colspan="3">The 26 types in Annex A, text approved on 24 June 2025</th></tr>
   </thead>

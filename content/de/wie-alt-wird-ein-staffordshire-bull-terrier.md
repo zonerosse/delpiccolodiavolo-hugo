@@ -52,7 +52,7 @@ custom_content: |
   <h2 class="section-title">Eine für ihre Größe langlebige Rasse</h2>
 
   <div class="content-block">
-  <p>Bei Hunden gilt eine allgemeine Regel: je kleiner die Größe, desto länger das Leben. Der Staffordshire Bull Terrier ist ein kompakter, gut gebauter Hund und liegt im guten Bereich: der <a href="https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="britische Kennel Club – The Kennel Club UK — Staffordshire Bull Terrier (öffnet in einem neuen Tab)">britische Kennel Club</a> gibt für die Rasse eine Lebenserwartung von etwa 12 bis 14 Jahren an.</p>
+  <p>Bei Hunden gilt eine allgemeine Regel: je kleiner die Größe, desto länger das Leben. Der Staffordshire Bull Terrier ist ein kompakter, gut gebauter Hund und liegt im guten Bereich: der <a href="https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="britische Kennel Club – The Kennel Club (UK) — Staffordshire Bull Terrier (öffnet in einem neuen Tab)">britische Kennel Club</a> gibt für die Rasse eine Lebenserwartung von etwa 12 bis 14 Jahren an.</p>
 
   <p>Das ist ein Durchschnitt, keine Garantie. Viele Hunde übertreffen ihn, manche erreichen ihn nicht, und der Unterschied ist fast nie Zufall: er ist die Summe daraus, wie der Hund gezüchtet wurde und wie er gehalten wird. Die Genetik legt den Ausgangspunkt fest; Gewicht, Bewegung, Atmung und Pflege entscheiden, wie nah der Hund ihm kommt — oder wie weit er ihn übertrifft.</p>
   </div>
@@ -182,7 +182,7 @@ custom_content: |
 
   <div class="content-block">
   <ul>
-  <li><a href="https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="The Kennel Club UK — Staffordshire Bull Terrier (öffnet in einem neuen Tab)">The Kennel Club (UK) — Staffordshire Bull Terrier</a></li>
+  <li><a href="https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="The Kennel Club (UK) — Staffordshire Bull Terrier (öffnet in einem neuen Tab)">The Kennel Club (UK) — Staffordshire Bull Terrier</a></li>
   <li><a href="https://www.purina.ca/articles/dog/health/landmark-life-span-study-in-dogs" target="_blank" rel="noopener" aria-label="Purina — Landmark Life Span Study in Dogs (Kealy et al., 2002) (öffnet in einem neuen Tab)">Purina — Landmark Life Span Study in Dogs (Kealy et al., 2002)</a></li>
   </ul>
   <p>Die Angaben zu unseren Hunden (Nutella und die anderen Hündinnen sowie Nutellas Vater) stammen aus unserer direkten Zuchterfahrung und sind in der Zucht anhand der Unterlagen der einzelnen Hunde überprüfbar.</p>

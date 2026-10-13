@@ -16,7 +16,7 @@
 {{- if $ep }}
 <form id="formPrenota" method="POST" action="{{ $ep }}" style="display:grid;gap:.9rem">
 
-  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:.9rem">
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(280px,100%),1fr));gap:.9rem">
 
     <label style="display:block">
       <span style="display:block;font-weight:700;color:#5c4a3a;font-size:.9rem;margin-bottom:.1rem">Nome e cognome<span style="color:#8b5a2b" aria-hidden="true"> *</span></span>

@@ -104,7 +104,7 @@ custom_content: |
 
   <p>Here are the concrete physical differences between the three breeds. The table below sums up the main traits according to the official standards.</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr>
   <th>Trait</th>

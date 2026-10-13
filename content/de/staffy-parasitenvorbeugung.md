@@ -95,7 +95,7 @@ custom_content: |
   <h2>Das Jahr, Jahreszeit für Jahreszeit</h2>
   <p>Wie sich der Parasitenschutz im Lauf des Jahres ändert, Jahreszeit für Jahreszeit:</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Zeitraum</th><th>Risiko</th><th>Was zu tun ist</th></tr>
   </thead>
@@ -113,7 +113,7 @@ custom_content: |
   <h2>Ein Präparat wählen: drei Formen</h2>
   <p>Die erste Behandlung wählt der Tierarzt, passend zu genauem Alter und aktuellem Gewicht des Welpen.</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Form</th><th>Vorteile</th><th>Grenzen und Anwendung</th><th>Mindestalter</th></tr>
   </thead>

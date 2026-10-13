@@ -174,7 +174,7 @@ custom_content: |
 
   <p>I risultati del test genetico sono espressi con una terminologia standard:</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr>
   <th>Risultato</th>
@@ -201,7 +201,7 @@ custom_content: |
   </tbody>
   </table>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Accoppiamento</th><th>Cuccioli attesi</th><th>Cuccioli malati</th><th>Ammissibile</th></tr>
   </thead>
@@ -294,7 +294,7 @@ custom_content: |
 
   <p>Alcuni potrebbero chiedersi se tutti questi test siano davvero necessari. Facciamo un confronto economico.</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Voce</th><th>Chi la sostiene</th><th>Quando</th><th>Ordine di grandezza</th></tr>
   </thead>

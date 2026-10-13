@@ -244,7 +244,7 @@ custom_content: |
 
   <p style="margin-bottom:2rem">Die Selektion von Del Piccolo Diavolo hört nicht bei der Optik auf: die Ergebnisse unserer Staffys in italienischen und internationalen Ringen sind das Protokoll jahrelanger Arbeit an Gesundheit, Typ und Charakter.</p>
 
-  <div class="successi-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1.5rem;margin-bottom:2rem;align-items:stretch">
+  <div class="successi-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(280px,100%),1fr));gap:1.5rem;margin-bottom:2rem;align-items:stretch">
 
   <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center;display:flex;flex-direction:column;height:100%">
   <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Bilquis Goddess Diabhal</h3>

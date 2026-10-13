@@ -57,7 +57,7 @@ custom_content: |
   <p>A puppy arriving in a new home has already lost its mother, its littermates and everything familiar. Changing its food on the same day adds digestive upset to that list, and diarrhoea in an eight-week-old puppy is not a minor matter.</p>
   <p>Feed exactly what the breeder was feeding for at least the first week. If you want to change afterwards, do it over 7 to 10 days: 3 days at 1 quarter new food, 3 at half, 3 at 3 quarters, then complete. Any loosening of the stools means going back a step and moving more slowly.</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Days</th><th>Previous food</th><th>New food</th></tr>
   </thead>

@@ -87,7 +87,7 @@ custom_content: |
   <!--BLOCCO:4-->
   <h2>M-Line and R-Line side by side</h2>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Trait</th><th>M-Line (Brindle Mick)</th><th>R-Line (Ribchester Bob)</th></tr>
   </thead>

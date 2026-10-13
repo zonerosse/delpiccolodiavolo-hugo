@@ -95,7 +95,7 @@ custom_content: |
   <h2>The year, season by season</h2>
   <p>How protection against parasites changes through the year, season by season:</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Period</th><th>Risk</th><th>What to do</th></tr>
   </thead>
@@ -113,7 +113,7 @@ custom_content: |
   <h2>Choosing a product: three formats</h2>
   <p>The first treatment is chosen by the vet, for the puppy's exact age and current weight.</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Format</th><th>Advantages</th><th>Limits and how to use</th><th>Minimum age</th></tr>
   </thead>

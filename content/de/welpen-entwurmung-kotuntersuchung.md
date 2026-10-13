@@ -84,7 +84,7 @@ custom_content: |
 
   <p><strong>Morphologische Kotuntersuchung:</strong></p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Untersuchung</th><th>Ergebnis</th></tr>
   </thead>

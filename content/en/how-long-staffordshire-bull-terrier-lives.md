@@ -52,7 +52,7 @@ custom_content: |
   <h2 class="section-title">A long-lived breed for its size</h2>
 
   <div class="content-block">
-  <p>In dogs a general rule holds: the smaller the size, the longer the life. The Staffordshire Bull Terrier is a compact, well-built dog and sits in the good range: the <a href="https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="The Kennel Club UK — Staffordshire Bull Terrier (opens in a new tab)">Kennel Club (UK)</a> gives the breed a life expectancy of around 12 to 14 years.</p>
+  <p>In dogs a general rule holds: the smaller the size, the longer the life. The Staffordshire Bull Terrier is a compact, well-built dog and sits in the good range: the <a href="https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="The Kennel Club (UK) — Staffordshire Bull Terrier (opens in a new tab)">Kennel Club (UK)</a> gives the breed a life expectancy of around 12 to 14 years.</p>
 
   <p>That is an average, not a guarantee. It means many dogs live beyond it and some fall short, and the difference is almost never luck: it is the sum of how the dog was bred and how it is kept. Genetics sets the starting point; weight, movement, breathing and care decide how close the dog gets to it — or how far past it goes.</p>
   </div>
@@ -182,7 +182,7 @@ custom_content: |
 
   <div class="content-block">
   <ul>
-  <li><a href="https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="The Kennel Club UK — Staffordshire Bull Terrier (opens in a new tab)">The Kennel Club (UK) — Staffordshire Bull Terrier</a></li>
+  <li><a href="https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="The Kennel Club (UK) — Staffordshire Bull Terrier (opens in a new tab)">The Kennel Club (UK) — Staffordshire Bull Terrier</a></li>
   <li><a href="https://www.purina.ca/articles/dog/health/landmark-life-span-study-in-dogs" target="_blank" rel="noopener" aria-label="Purina — Landmark Life Span Study in Dogs (Kealy et al., 2002) (opens in a new tab)">Purina — Landmark Life Span Study in Dogs (Kealy et al., 2002)</a></li>
   </ul>
   <p>The figures on our own dogs (Nutella and the other females, and Nutella's father) come from our direct breeding experience and can be verified at the kennel, with each dog's documents.</p>

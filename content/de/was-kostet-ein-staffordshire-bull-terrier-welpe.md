@@ -59,7 +59,7 @@ Ein Teil dieses Preises hängt nicht von der Zucht ab: Die Eintragung eines Wurf
 
 Beim Kauf von einer verantwortungsvollen Zucht sind enthalten:
 
-<table>
+<table tabindex="0">
 <thead>
 <tr><th>Bereich</th><th>Was enthalten ist</th><th>Wie man es prüft</th></tr>
 </thead>
@@ -207,7 +207,7 @@ Der billig gekaufte Welpe kann leicht zum Hund werden, der Tausende an Tierarztk
 
 Der Preis eines Welpen bezahlt nicht nur Impfungen und Ahnentafel. Er bezahlt eine völlig andere Art zu züchten.
 
-<table>
+<table tabindex="0">
 <thead>
 <tr><th></th><th>Wer auf Menge züchtet</th><th>Wer selektiert</th></tr>
 </thead>
@@ -245,7 +245,7 @@ Der Preis eines Welpen bezahlt nicht nur Impfungen und Ahnentafel. Er bezahlt ei
 
 Einige Warnzeichen:
 
-<table>
+<table tabindex="0">
 <thead>
 <tr><th>Bereich</th><th>Warnzeichen</th></tr>
 </thead>

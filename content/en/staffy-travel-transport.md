@@ -51,7 +51,7 @@ custom_content: |
 
   <p>The three systems compared:</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>System</th><th>Pros</th><th>Cons</th><th>Best for</th></tr>
   </thead>

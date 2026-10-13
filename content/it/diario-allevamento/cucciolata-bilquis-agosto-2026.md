@@ -60,7 +60,7 @@ All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente a
 
 ## Come crescono, video per video
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:1.8rem;max-width:760px;margin:1.6rem auto 2.2rem">
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(300px,100%),1fr));gap:1.8rem;max-width:760px;margin:1.6rem auto 2.2rem">
 <div>
 <div style="position:relative;padding-bottom:152.2%;height:0;background:#e6ddd4;border-radius:14px;overflow:hidden;box-shadow:0 8px 25px rgba(0,0,0,.12)">
 <iframe src="https://www.youtube-nocookie.com/embed/rm1fY0_P6I8" title="Cucciola di Staffordshire Bull Terrier a 30 giorni" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe>
@@ -164,7 +164,7 @@ I genitori sono testati per le principali patologie genetiche della razza:
 
 ### I referti dei genitori di Black Jack
 
-<div style="display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));margin:1.5rem 0">
+<div style="display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(min(280px,100%),1fr));margin:1.5rem 0">
 
   <div style="background:#fff;border:1px solid #e2ddd6;border-radius:10px;padding:1.25rem">
     <span style="display:inline-block;background:#5c4a3a;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Padre</span><span style="display:inline-block;background:#8b7300;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px;margin-left:.35rem">★ Campione del Mondo 2023</span>

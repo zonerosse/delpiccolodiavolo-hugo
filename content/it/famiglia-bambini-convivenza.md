@@ -66,7 +66,7 @@ custom_content: |
   <h2>Regole per età del bambino</h2>
   <p>Le regole cambiano con l'età del bambino, e la fascia più delicata non è quella dei neonati:</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Età</th><th>Cosa può fare il bambino</th><th>Cosa fa l'adulto</th></tr>
   </thead>

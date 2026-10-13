@@ -113,7 +113,7 @@ custom_content: |
   <h2>Ergebnisse richtig lesen</h2>
   <p>Die Ergebnisse werden in festen Begriffen angegeben:</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Ergebnis</th><th>Bedeutung</th><th>Darf er in die Zucht?</th></tr>
   </thead>
@@ -128,7 +128,7 @@ custom_content: |
 
     <h3>Die Rechnung einer Verpaarung</h3>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Verpaarung</th><th>Erwartete Welpen</th><th>Betroffen</th><th>Vertretbar</th></tr>
   </thead>
@@ -195,7 +195,7 @@ custom_content: |
   <h2>Kosten der Vorsorge gegen Kosten der Krankheit</h2>
   <p>Die Tests kosten einmalig etwa 400 Euro pro Hund. Die Lebenszeitkosten eines an L2-HGA erkrankten Hundes gehen in die Tausende, und eine Kataraktoperation an einem Auge kostet ungefähr so viel wie der Welpe selbst. Die eigentliche Frage ist aber nicht das Geld. Sie lautet: eine Familie, die sich bewusst für eine gesunde Rasse und einen Welpen mit Papieren entschieden hat, sollte nie in diese Lage kommen, wenn ein Wangenabstrich und 3 Wochen Wartezeit es vollständig verhindert hätten.</p>
 
-    <table>
+    <table tabindex="0">
   <thead>
   <tr><th>Posten</th><th>Wer zahlt</th><th>Wann</th><th>Größenordnung</th></tr>
   </thead>

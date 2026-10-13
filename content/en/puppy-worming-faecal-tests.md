@@ -84,7 +84,7 @@ custom_content: |
 
   <p><strong>Faecal morphology examination:</strong></p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Test</th><th>Result</th></tr>
   </thead>

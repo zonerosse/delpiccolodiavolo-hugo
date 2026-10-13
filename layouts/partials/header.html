@@ -17,14 +17,14 @@
 </ul>
 <div class="nav-lang">
 {{ if eq .Site.Language.Lang "it" }}
-<a href="/en/" hreflang="en" lang="en" title="English" aria-label="Switch to English">EN</a>
-<a href="/de/" hreflang="de" lang="de" title="Deutsch" aria-label="Zur deutschen Version wechseln">DE</a>
+<a href="/en/" hreflang="en" lang="en" title="English" aria-label="EN, English">EN</a>
+<a href="/de/" hreflang="de" lang="de" title="Deutsch" aria-label="DE, Deutsch">DE</a>
 {{ else if eq .Site.Language.Lang "en" }}
-<a href="/" hreflang="it" lang="it" title="Italiano" aria-label="Passa alla versione italiana">IT</a>
-<a href="/de/" hreflang="de" lang="de" title="Deutsch" aria-label="Zur deutschen Version wechseln">DE</a>
+<a href="/" hreflang="it" lang="it" title="Italiano" aria-label="IT, Italiano">IT</a>
+<a href="/de/" hreflang="de" lang="de" title="Deutsch" aria-label="DE, Deutsch">DE</a>
 {{ else }}
-<a href="/" hreflang="it" lang="it" title="Italiano" aria-label="Passa alla versione italiana">IT</a>
-<a href="/en/" hreflang="en" lang="en" title="English" aria-label="Switch to English">EN</a>
+<a href="/" hreflang="it" lang="it" title="Italiano" aria-label="IT, Italiano">IT</a>
+<a href="/en/" hreflang="en" lang="en" title="English" aria-label="EN, English">EN</a>
 {{ end }}
 </div>
 <a href="/wa/{{ .Site.Params.whatsapp }}?text={{ T "whatsapp_text" | urlquery }}" class="nav-cta" title="WhatsApp" style="min-height:44px;padding:0.75rem 1.5rem;display:inline-flex;align-items:center;justify-content:center" aria-label="Contattaci su WhatsApp dal menu di navigazione">WhatsApp</a>

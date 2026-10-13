@@ -50,7 +50,7 @@ custom_content: |
 
   <p>Die drei Systeme im Vergleich:</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>System</th><th>Vorteile</th><th>Nachteile</th><th>Geeignet für</th></tr>
   </thead>

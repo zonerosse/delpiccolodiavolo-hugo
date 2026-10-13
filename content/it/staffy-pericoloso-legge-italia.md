@@ -80,7 +80,7 @@ custom_content: |
   <p>Il testo approvato contiene due cambiamenti che contano per chi sceglie uno Staffy. Il primo: <strong>lo Staffordshire Bull Terrier non è più nell'elenco</strong>. Il secondo: sono <strong>esclusi i cani iscritti ai libri genealogici</strong>, cioè con pedigree ENCI, mentre per i soggetti senza pedigree delle tipologie elencate la proposta vieta riproduzione e cessione, per fermare le cucciolate improvvisate. Fonte: il <a href="https://www.anmvioggi.it/in-evidenza/77665-cani-in-save-list-il-testo-consolidato-della-plp-lombarda.html" target="_blank" rel="noopener" aria-label="testo consolidato pubblicato da Anmvi Oggi – Anmvi Oggi, testo consolidato della proposta lombarda (si apre in una nuova scheda)">testo consolidato pubblicato da Anmvi Oggi</a>.</p>
   <p>L'elenco del testo approvato, con i relativi incroci:</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th colspan="3">Le 26 tipologie dell'Allegato A, testo approvato il 24 giugno 2025</th></tr>
   </thead>

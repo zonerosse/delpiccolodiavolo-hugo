@@ -105,7 +105,7 @@ custom_content: |
 
   <p>Vediamo ora le differenze fisiche concrete tra le tre razze. La tabella seguente riassume le caratteristiche principali secondo gli standard ufficiali.</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr>
   <th>Caratteristica</th>

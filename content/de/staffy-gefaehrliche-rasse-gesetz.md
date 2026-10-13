@@ -75,7 +75,7 @@ custom_content: |
   <p>Der verabschiedete Text enthält zwei Änderungen, die für jeden zählen, der einen Staffy wählt. Erstens: <strong>der Staffordshire Bull Terrier steht nicht mehr auf der Liste</strong>. Zweitens: er <strong>nimmt Hunde aus, die im Zuchtbuch eingetragen sind</strong>, also Hunde mit ENCI-Ahnentafel, und verbietet Zucht und Abgabe von Hunden der gelisteten Typen ohne Papiere, um Hinterhofwürfe zu verhindern. Quelle: der <a href="https://www.anmvioggi.it/in-evidenza/77665-cani-in-save-list-il-testo-consolidato-della-plp-lombarda.html" target="_blank" rel="noopener" aria-label="von Anmvi Oggi veröffentlichte konsolidierte Text – Anmvi Oggi, konsolidierter Text des lombardischen Entwurfs (wird in einem neuen Tab geöffnet)">von Anmvi Oggi veröffentlichte konsolidierte Text</a>.</p>
   <p>Die Liste des verabschiedeten Textes, einschließlich Mischlingen:</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th colspan="3">Die 26 Typen in Anhang A, am 24. Juni 2025 verabschiedeter Text</th></tr>
   </thead>

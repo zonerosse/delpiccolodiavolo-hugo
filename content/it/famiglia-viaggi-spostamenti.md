@@ -55,7 +55,7 @@ custom_content: |
   <p>La soluzione più sicura è un trasportino rigido testato agli urti e fissato nel bagagliaio, meglio se ancorato. Subito dopo viene un divisorio rigido per il bagagliaio. Una pettorina agganciata alla cintura è accettabile e molto meglio di niente, purché sia una vera pettorina da viaggio con l'imbottitura larga sul petto, non una pettorina da passeggio attaccata a una cinghia.</p>
   <p>I tre sistemi a confronto:</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Sistema</th><th>Pro</th><th>Contro</th><th>Ideale per</th></tr>
   </thead>

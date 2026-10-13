@@ -84,7 +84,7 @@ custom_content: |
 
   <p><strong>Esame morfologico delle feci:</strong></p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Ricerca</th><th>Esito</th></tr>
   </thead>

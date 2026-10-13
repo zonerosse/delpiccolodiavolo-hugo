@@ -60,7 +60,7 @@ custom_content: |
   <h2>Il calendario</h2>
   <p>Il protocollo che seguiamo noi è questo. La prima iniezione si fa fra le sei e le otto settimane, prima che il cucciolo lasci l'allevamento, e copre cimurro, epatite e parvovirosi. La seconda si fa a tre mesi, di solito aggiungendo la leptospirosi. Poi il richiamo dopo un anno, e da lì in avanti l'intervallo dipende dal vaccino e dalla valutazione del veterinario. Il veterinario di fiducia può avere un protocollo diverso, per esempio con una dose in più verso le sedici settimane: in quel caso vale il suo parere.</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Età</th><th>Cosa si fa</th><th>Da sapere</th></tr>
   </thead>

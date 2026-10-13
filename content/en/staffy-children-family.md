@@ -62,7 +62,7 @@ custom_content: |
   <h2>Age by age</h2>
   <p>The rules change with the child's age, and the most delicate stage is not infancy:</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Age</th><th>What the child can do</th><th>What the adult does</th></tr>
   </thead>

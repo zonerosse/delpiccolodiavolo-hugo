@@ -62,7 +62,7 @@ custom_content: |
   <h2>The schedule</h2>
   <p>This is the protocol we follow. The first injection is given at 6 to 8 weeks, before the puppy leaves the breeder, and covers distemper, hepatitis and parvovirus. The second is given at three months, usually adding leptospirosis. Then a booster one year later, and from there the interval depends on the vaccine and on your veterinarian's assessment. Your own vet may follow a different protocol, for example with an extra dose at around 16 weeks: in that case, the vet's advice applies.</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Age</th><th>What is done</th><th>Worth knowing</th></tr>
   </thead>

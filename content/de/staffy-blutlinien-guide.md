@@ -87,7 +87,7 @@ custom_content: |
   <!--BLOCCO:4-->
   <h2>M-Linie und R-Linie im Vergleich</h2>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Merkmal</th><th>M-Linie (Brindle Mick)</th><th>R-Linie (Ribchester Bob)</th></tr>
   </thead>

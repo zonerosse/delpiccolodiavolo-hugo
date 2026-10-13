@@ -89,7 +89,7 @@ custom_content: |
   <!--BLOCCO:4-->
   <h2>Linea M e linea R a confronto</h2>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Caratteristica</th><th>Linea M (Brindle Mick)</th><th>Linea R (Ribchester Bob)</th></tr>
   </thead>

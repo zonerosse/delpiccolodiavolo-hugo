@@ -55,7 +55,7 @@ custom_content: |
   <p>Un cucciolo che arriva in una casa nuova ha appena perso la madre, i fratelli e tutto quello che conosceva. Cambiargli anche il cibo lo stesso giorno aggiunge un disturbo digestivo alla lista, e la diarrea in un cucciolo di otto settimane non è una cosa da poco.</p>
   <p>Per almeno la prima settimana si dà esattamente quello che dava l'allevatore. Se dopo si vuole cambiare, lo si fa in sette-dieci giorni: tre giorni con un quarto di cibo nuovo, tre con metà, tre con tre quarti, poi tutto nuovo. Se le feci si ammorbidiscono si torna indietro di un passo e si procede più piano.</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Giorni</th><th>Alimento di prima</th><th>Alimento nuovo</th></tr>
   </thead>

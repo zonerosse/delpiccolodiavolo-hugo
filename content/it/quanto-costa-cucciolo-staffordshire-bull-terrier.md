@@ -59,7 +59,7 @@ Una parte di quel prezzo non dipende dall'allevatore: l'iscrizione di una cuccio
 
 Quando acquisti da un allevatore responsabile, il prezzo include:
 
-<table>
+<table tabindex="0">
 <thead>
 <tr><th>Ambito</th><th>Cosa comprende</th><th>Come si verifica</th></tr>
 </thead>
@@ -207,7 +207,7 @@ Il cucciolo pagato poco può facilmente diventare un cane da migliaia di euro di
 
 Il prezzo di un cucciolo non paga solo vaccinazioni e pedigree. Paga un modo completamente diverso di allevare.
 
-<table>
+<table tabindex="0">
 <thead>
 <tr><th></th><th>Chi fa numeri</th><th>Chi seleziona</th></tr>
 </thead>
@@ -245,7 +245,7 @@ Il prezzo di un cucciolo non paga solo vaccinazioni e pedigree. Paga un modo com
 
 Alcuni segnali d'allarme:
 
-<table>
+<table tabindex="0">
 <thead>
 <tr><th>Ambito</th><th>Segnali d'allarme</th></tr>
 </thead>

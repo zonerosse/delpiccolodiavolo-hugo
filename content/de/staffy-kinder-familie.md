@@ -61,7 +61,7 @@ custom_content: |
   <h2>Alter für Alter</h2>
   <p>Die Regeln ändern sich mit dem Alter des Kindes, und die heikelste Phase ist nicht das Säuglingsalter:</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Alter</th><th>Was das Kind tun kann</th><th>Was der Erwachsene tut</th></tr>
   </thead>

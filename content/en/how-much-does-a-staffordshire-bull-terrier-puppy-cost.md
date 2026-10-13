@@ -59,7 +59,7 @@ Part of that price does not depend on the breeder: registering a litter in the s
 
 When you buy from a responsible breeder, the price covers:
 
-<table>
+<table tabindex="0">
 <thead>
 <tr><th>Area</th><th>What it includes</th><th>How to check it</th></tr>
 </thead>
@@ -207,7 +207,7 @@ The puppy that cost little can easily become a dog that costs thousands in veter
 
 The price of a puppy does not just pay for vaccinations and a pedigree. It pays for an entirely different way of breeding.
 
-<table>
+<table tabindex="0">
 <thead>
 <tr><th></th><th>Breeding for numbers</th><th>Breeding for selection</th></tr>
 </thead>
@@ -245,7 +245,7 @@ The price of a puppy does not just pay for vaccinations and a pedigree. It pays 
 
 Some warning signs:
 
-<table>
+<table tabindex="0">
 <thead>
 <tr><th>Area</th><th>Warning signs</th></tr>
 </thead>

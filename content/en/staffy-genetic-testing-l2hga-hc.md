@@ -120,7 +120,7 @@ custom_content: |
   <h2>Reading the results</h2>
   <p>Results are expressed in standard terms:</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Result</th><th>Meaning</th><th>Can it be bred?</th></tr>
   </thead>
@@ -135,7 +135,7 @@ custom_content: |
 
     <h3>The arithmetic of a mating</h3>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Mating</th><th>Expected puppies</th><th>Affected</th><th>Acceptable</th></tr>
   </thead>
@@ -202,7 +202,7 @@ custom_content: |
   <h2>The cost of prevention against the cost of the disease</h2>
   <p>Testing costs around 400 euros per dog, once. The lifetime cost of an L2-HGA affected dog runs into thousands, and the cost of cataract surgery for one eye is comparable to the price of the puppy. But the arithmetic is not really the point. The point is that a family who chose a healthy breed and paid for a pedigree puppy should never be put in that position, when a swab and 3 weeks of waiting would have prevented it entirely.</p>
 
-    <table>
+    <table tabindex="0">
   <thead>
   <tr><th>Item</th><th>Who pays</th><th>When</th><th>Order of magnitude</th></tr>
   </thead>

@@ -97,7 +97,7 @@ custom_content: |
 
   <p>Hier die konkreten körperlichen Unterschiede zwischen den drei Rassen. Die Tabelle fasst die wichtigsten Merkmale nach den offiziellen Standards zusammen.</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr>
   <th>Merkmal</th>

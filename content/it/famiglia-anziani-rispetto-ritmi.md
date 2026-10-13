@@ -97,7 +97,7 @@ custom_content: |
   <p>Una pettorina anti-tiro con l'aggancio davanti riduce la forza di uno scatto improvviso; un guinzaglio con un tratto ammortizzato attenua gli strattoni; un guinzaglio mani libere portato in vita lascia entrambe le mani libere per il bastone o il corrimano. Per le uscite al buio, una torcia frontale e un gilet riflettente. Niente di tutto questo costa molto, e insieme fa la differenza fra una passeggiata che è un piacere e una che è un rischio.</p>
   <p>Cosa serve e quanto costa:</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Attrezzatura</th><th>Perché serve</th><th>Costo</th></tr>
   </thead>

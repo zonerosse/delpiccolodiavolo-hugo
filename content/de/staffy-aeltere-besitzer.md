@@ -91,7 +91,7 @@ custom_content: |
   <p>Ein Geschirr mit Brustring vorn, das das Ziehen bremst, mindert die Wucht eines plötzlichen Satzes; eine Leine mit Ruckdämpfer federt Stöße ab; eine Bauchgurtleine lässt beide Hände frei für Gehstock oder Geländer. Für Gänge im Dunkeln eine Stirnlampe und eine Warnweste. Nichts davon kostet viel, und zusammen macht es den Unterschied zwischen einem Spaziergang, der Freude macht, und einem, der ein Risiko ist.</p>
   <p>Was man braucht und was es kostet:</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Ausrüstung</th><th>Wozu sie dient</th><th>Kosten</th></tr>
   </thead>

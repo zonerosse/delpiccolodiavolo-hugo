@@ -102,7 +102,7 @@ custom_content: |
   <h2>L'anno, stagione per stagione</h2>
   <p>Come cambia la protezione dai parassiti nel corso dell'anno, stagione per stagione:</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Periodo</th><th>Rischio</th><th>Cosa fare</th></tr>
   </thead>
@@ -120,7 +120,7 @@ custom_content: |
   <h2>Scegliere il prodotto: tre formati</h2>
   <p>Il primo trattamento lo sceglie il veterinario, sull'età esatta e sul peso attuale del cucciolo.</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Formato</th><th>Vantaggi</th><th>Limiti e modo d'uso</th><th>Età minima</th></tr>
   </thead>

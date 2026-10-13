@@ -92,7 +92,7 @@ custom_content: |
   <p>A front-attachment, no-pull harness reduces the force of a sudden lunge; a lead with a shock-absorbing section softens jolts; a hands-free lead worn at the waist leaves both hands free for a walking stick or a handrail. For walks in the dark, a head torch and a reflective vest. None of it costs much, and together it makes the difference between a walk that is a pleasure and one that is a risk.</p>
   <p>What you need and what it costs:</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Equipment</th><th>Why it matters</th><th>Cost</th></tr>
   </thead>

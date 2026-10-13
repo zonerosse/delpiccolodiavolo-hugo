@@ -55,7 +55,7 @@ custom_content: |
   <h2>Der Impfplan</h2>
   <p>Dies ist das Protokoll, dem wir folgen. Die erste Injektion erfolgt mit 6 bis 8 Wochen, noch beim Züchter, und deckt Staupe, Hepatitis und Parvovirose ab. Die zweite erfolgt mit drei Monaten, meist ergänzt um Leptospirose. Dann die Auffrischung ein Jahr später; danach richtet sich der Abstand nach Impfstoff und tierärztlicher Einschätzung. Der eigene Tierarzt kann ein anderes Protokoll haben, zum Beispiel mit einer zusätzlichen Dosis um die 16. Woche: dann gilt sein Rat.</p>
 
-  <table>
+  <table tabindex="0">
   <thead>
   <tr><th>Alter</th><th>Was gemacht wird</th><th>Gut zu wissen</th></tr>
   </thead>
