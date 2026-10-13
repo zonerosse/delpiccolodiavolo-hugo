@@ -1,8 +1,12 @@
 ---
 title: "Ist der Staffordshire Bull Terrier gefährlich? Gesetzeslage"
 date: 2025-11-18
-lastmod: 2026-10-08
+lastmod: 2026-10-13
 translationKey: "pericoloso"
+in_breve:
+  - "In Italien **gilt der Staffy nicht als gefährliche Rasse**: die Liste wurde 2009 abgeschafft."
+  - "Es gelten **die Regeln für alle Hunde**: Leine, Maulkorb bei Bedarf, Verantwortung des Halters."
+  - "Es bleiben **örtliche Regeln** (Gemeinden, Wohnanlagen) und die **anderer Länder**, die man vor einer Reise prüft."
 articolo: true
 image: "/images/blog/hero-default.webp"
 og_image: "/images/og/schede/de/staffy-gefaehrliche-rasse-gesetz.jpg"

@@ -1,8 +1,12 @@
 ---
 title: "Sichere Bewegung für Staffordshire Bull Terrier"
 date: 2024-06-20
-lastmod: 2026-10-11
+lastmod: 2026-10-13
 translationKey: "esercizio"
+in_breve:
+  - "Der Staffy braucht **jeden Tag Bewegung**, aber das Maß ändert sich mit dem Alter."
+  - "**Als Welpe keine wiederholten Sprünge, Treppen oder erzwungenes Rennen**: die Wachstumsfugen schließen sich zwischen 12 und 18 Monaten."
+  - "Beim erwachsenen Hund ist **Hitze** das Hauptrisiko: im Sommer in den kühlen Stunden raus, immer mit Wasser."
 articolo: true
 image: "/images/blog/salute-1.webp"
 og_image: "/images/og/schede/de/staffy-sichere-bewegung.jpg"

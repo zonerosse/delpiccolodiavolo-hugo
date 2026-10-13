@@ -2,8 +2,12 @@
 title: "Staffy and Elderly Owners"
 date: 2024-05-28
 titleSeo: "Is a Staffordshire Bull Terrier right for older owners?"
-lastmod: 2026-10-05
+lastmod: 2026-10-13
 translationKey: "anziani"
+in_breve:
+  - "A Staffy can be a good companion for an older person, **under precise conditions**."
+  - "The right choice is almost always **not a puppy but an adult between 3 and 5 years old**."
+  - "We advise against it **with very limited mobility**, with no family who can step in, or with cognitive problems."
 articolo: true
 image: "/images/blog/famiglia-2.webp"
 og_image: "/images/og/schede/en/staffy-elderly-owners.jpg"

@@ -1,8 +1,12 @@
 ---
 title: "Parasite Prevention for Staffordshire Bull Terrier"
 date: 2025-01-20
-lastmod: 2026-10-05
+lastmod: 2026-10-13
 translationKey: "parassiti"
+in_breve:
+  - "Parasites are prevented **before you see them**: once you notice fleas, the infestation is already in the house."
+  - "**Fleas, ticks, sand flies and mosquitoes** carry different diseases, some of them serious."
+  - "Protection starts **when the vet advises it** and follows a seasonal calendar, house cleaning included."
 articolo: true
 image: "/images/blog/salute-1.webp"
 og_image: "/images/og/schede/en/staffy-parasite-prevention.jpg"

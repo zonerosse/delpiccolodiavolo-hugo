@@ -2,8 +2,12 @@
 title: "Cuccioli già socializzati: cosa vuol dire davvero"
 titleSeo: "Cuccioli socializzati: cosa vuol dire davvero"
 date: 2026-09-26
-lastmod: 2026-10-08
+lastmod: 2026-10-13
 translationKey: "socializzazione-affido"
+in_breve:
+  - "«Cuccioli socializzati» **non vuol dire nulla** finché non si dice con cosa."
+  - "Il periodo decisivo va **dalla 3ª alla 12ª settimana**: quando il cucciolo arriva a casa, metà del lavoro tocca alla famiglia."
+  - "Un allevatore serio dice anche **cosa non ha potuto fare**: traffico, bambini, altri animali, stare da solo."
 articolo: true
 image: "/images/blog/socializzazione-cortile-hero.webp"
 og_image: "/images/og/schede/it/cuccioli-socializzati-cosa-vuol-dire.jpg"

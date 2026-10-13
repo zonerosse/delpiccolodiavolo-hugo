@@ -1,8 +1,12 @@
 ---
 title: "Is Staffordshire Bull Terrier Dangerous? Italian Law"
 date: 2025-11-18
-lastmod: 2026-10-08
+lastmod: 2026-10-13
 translationKey: "pericoloso"
+in_breve:
+  - "In Italy **the Staffy is not a dangerous breed**: the list was abolished in 2009."
+  - "**The rules for every dog** apply: lead, muzzle when needed, owner responsibility."
+  - "There are still **local rules** (towns, apartment buildings) and those of **other countries**, to check before travelling."
 articolo: true
 image: "/images/blog/hero-default.webp"
 og_image: "/images/og/schede/en/staffy-dangerous-breed-law.jpg"

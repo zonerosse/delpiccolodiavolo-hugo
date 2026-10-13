@@ -1,8 +1,12 @@
 ---
 title: "Zahnpflege und Mundhygiene für Staffordshire Bull Terrier"
 date: 2024-06-18
-lastmod: 2026-10-06
+lastmod: 2026-10-13
 translationKey: "denti"
+in_breve:
+  - "Die Vorbeugung beginnt **im Welpenalter**, indem man ihn daran gewöhnt, sich ins Maul fassen zu lassen."
+  - "Das Einzige, was wirklich hilft, ist **3- bis 7-mal pro Woche Zähneputzen**, mit tierärztlicher Zahnpasta."
+  - "**Keine zu harten Kauartikel**: wenn sie beim Drücken mit dem Fingernagel nicht nachgeben, können sie Zähne brechen."
 articolo: true
 image: "/images/blog/salute-1.webp"
 og_image: "/images/og/schede/de/staffy-zahnpflege.jpg"

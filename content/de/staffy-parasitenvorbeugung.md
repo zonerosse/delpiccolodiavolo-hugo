@@ -1,8 +1,12 @@
 ---
 title: "Parasitenvorbeugung für Staffordshire Bull Terrier"
 date: 2025-01-20
-lastmod: 2026-10-05
+lastmod: 2026-10-13
 translationKey: "parassiti"
+in_breve:
+  - "Parasiten beugt man vor, **bevor man sie sieht**: wenn man Flöhe bemerkt, ist der Befall schon im Haus."
+  - "**Flöhe, Zecken, Sandmücken und Stechmücken** übertragen verschiedene, teils schwere Krankheiten."
+  - "Der Schutz beginnt, **wenn der Tierarzt ihn empfiehlt**, und folgt einem Jahreskalender, Hausreinigung inbegriffen."
 articolo: true
 image: "/images/blog/salute-1.webp"
 og_image: "/images/og/schede/de/staffy-parasitenvorbeugung.jpg"

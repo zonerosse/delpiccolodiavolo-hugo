@@ -1,8 +1,12 @@
 ---
 title: "Viaggiare con Staffordshire Bull Terrier: Auto, Treno, Hotel"
 date: 2024-04-07
-lastmod: 2026-10-05
+lastmod: 2026-10-13
 translationKey: "viaggi"
+in_breve:
+  - "Si preparano tre cose: **documenti, mezzo di trasporto e soste**."
+  - "Nell'UE servono **microchip, passaporto europeo e antirabbica**; per Regno Unito e paesi extra UE si controlla almeno due mesi prima."
+  - "In auto il sistema più sicuro è il **trasportino rigido**, con una sosta ogni due ore nei viaggi lunghi."
 articolo: true
 image: "/images/blog/famiglia-4.webp"
 og_image: "/images/og/schede/it/famiglia-viaggi-spostamenti.jpg"
@@ -47,7 +51,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>Viaggiare con uno Staffordshire Bull Terrier richiede di preparare tre cose: documenti, mezzo di trasporto e soste. Per andare in un altro paese dell'Unione Europea servono microchip registrato, passaporto europeo e antirabbica valida; per il Regno Unito e i paesi extra UE le regole cambiano e vanno verificate almeno due mesi prima della partenza. In auto il Codice della Strada, all'articolo 169, chiede che il cane non intralci chi guida, con multe da 87 a 345 euro: il trasportino rigido è il sistema più sicuro in caso di incidente, l'imbrago con cintura va bene per i tragitti brevi, il divisorio del bagagliaio non protegge. Nei viaggi lunghi si fa una sosta ogni due ore. Treni, traghetti, aerei e hotel hanno regole proprie su taglia e museruola, da controllare prima di prenotare. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
+  <p>Viaggiare con uno Staffordshire Bull Terrier richiede di preparare tre cose: documenti, mezzo di trasporto e soste. Per andare in un altro paese dell'Unione Europea servono microchip registrato, passaporto europeo e antirabbica valida; per il Regno Unito e i paesi extra UE le regole cambiano e vanno verificate almeno due mesi prima della partenza. In auto il Codice della Strada, all'articolo 169, chiede che il cane non intralci chi guida, con multe da 87 a 345 euro: il trasportino rigido è il sistema più sicuro in caso di incidente, subito dopo viene il divisorio rigido del bagagliaio, e l'imbrago con cintura va bene per i tragitti brevi. Nei viaggi lunghi si fa una sosta ogni due ore. Treni, traghetti, aerei e hotel hanno regole proprie su taglia e museruola, da controllare prima di prenotare. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
   <!--BLOCCO:2-->
   <h2>Viaggiare in auto</h2>
@@ -62,7 +66,7 @@ custom_content: |
   <tbody>
   <tr><td><strong>Trasportino rigido</strong></td><td>Massima sicurezza, contiene il cane in caso di incidente</td><td>Ingombrante, 80-150 euro</td><td>Viaggi lunghi, cuccioli</td></tr>
   <tr><td><strong>Pettorina da viaggio + cintura</strong></td><td>Economica, 25-40 euro, il cane vede fuori</td><td>Protezione inferiore</td><td>Tragitti brevi e medi</td></tr>
-  <tr><td><strong>Divisorio per il bagagliaio</strong></td><td>Libertà di movimento</td><td>Nessuna protezione in caso di incidente</td><td>Solo station wagon e SUV</td></tr>
+  <tr><td><strong>Divisorio per il bagagliaio</strong></td><td>Libertà di movimento</td><td>Protegge meno del trasportino</td><td>Solo station wagon e SUV</td></tr>
   </tbody>
   </table>
 

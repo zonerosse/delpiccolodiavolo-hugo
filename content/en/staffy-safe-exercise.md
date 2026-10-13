@@ -1,8 +1,12 @@
 ---
 title: "Safe Exercise for Staffordshire Bull Terrier"
 date: 2024-06-20
-lastmod: 2026-10-11
+lastmod: 2026-10-13
 translationKey: "esercizio"
+in_breve:
+  - "The Staffy needs **exercise every day**, but the amount changes with age."
+  - "**As a puppy, no repeated jumping, stairs or forced running**: the growth plates close between 12 and 18 months."
+  - "In adults the main risk is **heat**: in summer go out in the cool hours, with water always available."
 articolo: true
 image: "/images/blog/salute-1.webp"
 og_image: "/images/og/schede/en/staffy-safe-exercise.jpg"

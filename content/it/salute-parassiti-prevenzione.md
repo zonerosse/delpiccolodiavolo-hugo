@@ -1,9 +1,13 @@
 ---
 title: "Parassiti: Prevenzione e Controllo Staffordshire Bull Terrier"
 date: 2025-01-20
-lastmod: 2026-10-05
+lastmod: 2026-10-13
 titleSeo: "Parassiti nello Staffordshire Bull Terrier: prevenzione"
 translationKey: "parassiti"
+in_breve:
+  - "I parassiti si prevengono **prima di vederli**: quando si notano le pulci, l'infestazione è già in casa."
+  - "**Pulci, zecche, pappataci e zanzare** trasmettono malattie diverse, anche gravi."
+  - "La protezione parte **quando la consiglia il veterinario** e segue un calendario stagionale, pulizia della casa compresa."
 articolo: true
 image: "/images/blog/salute-3.webp"
 og_image: "/images/og/schede/it/salute-parassiti-prevenzione.jpg"

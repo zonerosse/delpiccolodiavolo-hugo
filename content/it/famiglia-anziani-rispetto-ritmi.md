@@ -1,8 +1,12 @@
 ---
 title: "Staffordshire Bull Terrier per Anziani: Guida Completa"
 date: 2024-05-28
-lastmod: 2026-10-05
+lastmod: 2026-10-13
 translationKey: "anziani"
+in_breve:
+  - "Lo Staffy può essere un buon compagno per una persona anziana, **a condizioni precise**."
+  - "Quasi sempre la scelta giusta **non è un cucciolo ma un adulto fra i 3 e i 5 anni**."
+  - "Lo sconsigliamo **con mobilità molto ridotta**, senza familiari che possano subentrare o con problemi cognitivi."
 articolo: true
 image: "/images/blog/famiglia-2.webp"
 og_image: "/images/og/schede/it/famiglia-anziani-rispetto-ritmi.jpg"

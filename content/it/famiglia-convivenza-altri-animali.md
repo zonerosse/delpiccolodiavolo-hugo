@@ -1,8 +1,12 @@
 ---
 title: "Staffy con Altri Animali: Guida Convivenza"
 date: 2024-06-18
-lastmod: 2026-10-08
+lastmod: 2026-10-13
 translationKey: "altri-animali"
+in_breve:
+  - "Lo Staffy è un terrier: la **reattività verso altri cani** esiste, soprattutto fra adulti dello stesso sesso. La socializzazione la riduce, non la cancella."
+  - "La convivenza si prepara **prima**: spazi separati, barriere, presentazioni per gradi, ciotole, giochi e cucce gestiti."
+  - "**Con un gatto servono settimane**; con conigli, roditori e uccelli la sorveglianza non si allenta mai."
 articolo: true
 image: "/images/blog/famiglia-3.webp"
 og_image: "/images/og/schede/it/famiglia-convivenza-altri-animali.jpg"

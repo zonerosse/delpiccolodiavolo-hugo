@@ -2,8 +2,12 @@
 title: "Staffordshire Bull Terrier Blutlinien Leitfaden"
 titleSeo: "Staffy-Blutlinien: die Geschichte der sechs Linien"
 date: 2025-11-08
-lastmod: 2026-10-05
+lastmod: 2026-10-13
 translationKey: "linee-sangue"
+in_breve:
+  - "Die Blutlinien des Staffy zählt man **ab 1935**, als der Kennel Club die Rasse anerkannte."
+  - "Von den sechs historischen Linien überleben heute vor allem **die M-Linie von Brindle Mick** und die R-Linie von Ribchester Bob."
+  - "Die Linie hilft, **den Stammbaum zu lesen, nicht den Hund zu beurteilen**: das tun Tests, Körperbau und Wesen."
 articolo: true
 image: "/images/blog/standard-1.webp"
 og_image: "/images/og/schede/de/staffy-blutlinien-guide.jpg"

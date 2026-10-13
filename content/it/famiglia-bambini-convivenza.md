@@ -1,8 +1,12 @@
 ---
 title: "Staffordshire Bull Terrier e Bambini: Convivenza Sicura"
 date: 2024-05-28
-lastmod: 2026-10-05
+lastmod: 2026-10-13
 translationKey: "bambini"
+in_breve:
+  - "**Nessun cane va lasciato solo con un bambino piccolo**, Staffy compreso."
+  - "Uno Staffy ben selezionato e socializzato **tollera bene rumori e goffaggini**, ma il carattere varia da cane a cane."
+  - "La sicurezza dipende dagli adulti: **presentazioni guidate, regole per età, un posto dove il cane si ritira**, e i segnali di stress letti in tempo."
 articolo: true
 image: "/images/blog/famiglia-1.webp"
 og_image: "/images/og/schede/it/famiglia-bambini-convivenza.jpg"

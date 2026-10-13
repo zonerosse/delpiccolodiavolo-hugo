@@ -1,8 +1,12 @@
 ---
 title: "Staffordshire Bull Terrier mit Kindern und Familie"
 date: 2024-05-28
-lastmod: 2026-10-05
+lastmod: 2026-10-13
 translationKey: "bambini"
+in_breve:
+  - "**Kein Hund darf mit einem kleinen Kind allein gelassen werden**, auch kein Staffy."
+  - "Ein gut gezüchteter, gut sozialisierter Staffy **verträgt Lärm und Ungeschicklichkeit gut**, aber das Wesen ist von Hund zu Hund verschieden."
+  - "Die Sicherheit hängt von den Erwachsenen ab: **begleitetes Kennenlernen, Regeln je nach Alter, ein Rückzugsort für den Hund**, und Stresssignale rechtzeitig erkannt."
 articolo: true
 image: "/images/blog/famiglia-1.jpg"
 og_image: "/images/og/schede/de/staffy-kinder-familie.jpg"

@@ -1,8 +1,12 @@
 ---
 title: "Reisen und Transport mit Staffordshire Bull Terrier"
 date: 2024-04-07
-lastmod: 2026-10-05
+lastmod: 2026-10-13
 translationKey: "viaggi"
+in_breve:
+  - "Drei Dinge werden vorbereitet: **Papiere, Transport und Pausen**."
+  - "In der EU braucht man **Mikrochip, EU-Heimtierausweis und Tollwutimpfung**; für Großbritannien und Länder außerhalb der EU mindestens zwei Monate vorher prüfen."
+  - "Im Auto ist die **feste Box** am sichersten, mit einer Pause alle zwei Stunden auf langen Fahrten."
 articolo: true
 image: "/images/blog/famiglia-4.jpg"
 og_image: "/images/og/schede/de/staffy-reisen-transport.jpg"
@@ -57,7 +61,7 @@ custom_content: |
   <tbody>
   <tr><td><strong>Feste Transportbox</strong></td><td>Höchste Sicherheit, hält den Hund bei einem Unfall</td><td>Sperrig, 80-150 Euro</td><td>Lange Reisen, Welpen</td></tr>
   <tr><td><strong>Reisegeschirr + Gurt</strong></td><td>Günstig, 25-40 Euro, der Hund sieht hinaus</td><td>Geringerer Schutz</td><td>Kurze und mittlere Strecken</td></tr>
-  <tr><td><strong>Trenngitter im Kofferraum</strong></td><td>Bewegungsfreiheit</td><td>Kein Schutz bei einem Unfall</td><td>Nur Kombi und SUV</td></tr>
+  <tr><td><strong>Trenngitter im Kofferraum</strong></td><td>Bewegungsfreiheit</td><td>Weniger Schutz als eine Box</td><td>Nur Kombi und SUV</td></tr>
   </tbody>
   </table>
   <p>Für diese Rasse gilt eine besonders ernste Warnung: <strong>lassen Sie den Hund niemals im geparkten Auto</strong> — nicht 5 Minuten, nicht bei geöffnetem Fenster, nicht im Schatten. Ein dichter, dunkel behaarter Hund mit kurzem Fang erreicht eine gefährliche Körpertemperatur weit schneller, als die meisten Halter glauben, und die Innentemperatur eines geparkten Autos steigt im italienischen Sommer binnen einer Viertelstunde um zwanzig Grad.</p>

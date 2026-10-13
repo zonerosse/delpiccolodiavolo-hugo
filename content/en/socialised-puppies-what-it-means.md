@@ -2,8 +2,12 @@
 title: "\"Already socialised puppies\": what it really means"
 titleSeo: "Socialised puppies: what it really means"
 date: 2026-09-26
-lastmod: 2026-10-08
+lastmod: 2026-10-13
 translationKey: "socializzazione-affido"
+in_breve:
+  - "\"Socialised puppies\" **means nothing** until someone says with what."
+  - "The decisive period runs **from week 3 to week 12**: when the puppy arrives home, half the work is up to the family."
+  - "A serious breeder also says **what he could not do**: traffic, children, other animals, being alone."
 articolo: true
 image: "/images/blog/socializzazione-cortile-hero.webp"
 og_image: "/images/og/schede/en/socialised-puppies-what-it-means.jpg"

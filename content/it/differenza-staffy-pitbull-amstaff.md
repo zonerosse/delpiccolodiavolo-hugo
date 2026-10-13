@@ -2,8 +2,12 @@
 title: "Differenza tra Staffordshire Bull Terrier, Pitbull e Amstaff"
 titleSeo: "Staffy, Pitbull e Amstaff: come distinguerli"
 date: 2025-11-19
-lastmod: 2026-10-08
+lastmod: 2026-10-13
 translationKey: "pitbull-amstaff"
+in_breve:
+  - "Hanno la stessa origine, ma **oggi sono tre razze diverse**."
+  - "Lo **Staffy è il più piccolo** (fino a 17 kg); l'Amstaff arriva a 32 kg; il Pit Bull non è riconosciuto dalla FCI."
+  - "**Un «Pit Bull» con pedigree ENCI non esiste**, e nessuna delle tre razze è vietata in Italia."
 articolo: true
 image: "/images/blog/differenza-razze-hero.webp"
 og_image: "/images/og/schede/it/differenza-staffy-pitbull-amstaff.jpg"

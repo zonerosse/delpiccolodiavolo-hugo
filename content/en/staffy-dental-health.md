@@ -1,9 +1,13 @@
 ---
 title: "Dental Health and Oral Hygiene for Staffordshire Bull Terrier"
 date: 2024-06-18
-lastmod: 2026-10-06
+lastmod: 2026-10-13
 titleSeo: "Dental health for the Staffordshire Bull Terrier"
 translationKey: "denti"
+in_breve:
+  - "Prevention starts **in puppyhood**, by getting him used to having his mouth handled."
+  - "The only thing that really works is **brushing the teeth 3 to 7 times a week**, with veterinary toothpaste."
+  - "**No chews that are too hard**: if they do not give when pressed with a fingernail, they can break teeth."
 articolo: true
 image: "/images/blog/salute-1.webp"
 og_image: "/images/og/schede/en/staffy-dental-health.jpg"

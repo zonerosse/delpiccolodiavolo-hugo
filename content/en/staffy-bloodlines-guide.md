@@ -2,8 +2,12 @@
 title: "Staffordshire Bull Terrier Bloodlines Guide"
 titleSeo: "Staffy bloodlines: the history of the six lines"
 date: 2025-11-08
-lastmod: 2026-10-05
+lastmod: 2026-10-13
 translationKey: "linee-sangue"
+in_breve:
+  - "Staffy bloodlines are counted **from 1935**, when the Kennel Club recognised the breed."
+  - "Of the six historic lines, mainly **the M line of Brindle Mick** and the R line of Ribchester Bob survive today."
+  - "A line helps **to read a pedigree, not to judge the dog**: that is what tests, structure and temperament are for."
 articolo: true
 image: "/images/blog/standard-1.webp"
 og_image: "/images/og/schede/en/staffy-bloodlines-guide.jpg"

@@ -1,9 +1,13 @@
 ---
 title: "Storia delle Linee di Sangue dello Staffordshire Bull Terrier"
 date: 2025-11-08
-lastmod: 2026-10-05
+lastmod: 2026-10-13
 titleSeo: "Storia delle linee di sangue dello Staffy"
 translationKey: "linee-sangue"
+in_breve:
+  - "Le linee di sangue dello Staffy si contano **dal 1935**, quando il Kennel Club riconobbe la razza."
+  - "Delle sei linee storiche oggi sopravvivono soprattutto **la M di Brindle Mick** e la R di Ribchester Bob."
+  - "La linea serve **a leggere il pedigree, non a giudicare il cane**: quello lo dicono test, struttura e carattere."
 articolo: true
 image: "/images/blog/linee-sangue-hero.webp"
 og_image: "/images/og/schede/it/linee-sangue-staffordshire-bull-terrier.jpg"

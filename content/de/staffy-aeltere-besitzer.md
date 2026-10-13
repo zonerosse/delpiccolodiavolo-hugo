@@ -1,8 +1,12 @@
 ---
 title: "Staffordshire Bull Terrier für ältere Besitzer"
 date: 2024-05-28
-lastmod: 2026-10-05
+lastmod: 2026-10-13
 translationKey: "anziani"
+in_breve:
+  - "Ein Staffy kann ein guter Begleiter für einen älteren Menschen sein, **unter klaren Bedingungen**."
+  - "Die richtige Wahl ist fast immer **kein Welpe, sondern ein erwachsener Hund zwischen 3 und 5 Jahren**."
+  - "Wir raten davon ab **bei stark eingeschränkter Beweglichkeit**, ohne Angehörige, die einspringen können, oder bei kognitiven Problemen."
 articolo: true
 image: "/images/blog/famiglia-3.jpg"
 og_image: "/images/og/schede/de/staffy-aeltere-besitzer.jpg"

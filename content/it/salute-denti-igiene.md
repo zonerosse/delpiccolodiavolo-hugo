@@ -1,8 +1,12 @@
 ---
 title: "Igiene Orale e Denti Staffordshire Bull Terrier"
 date: 2024-06-18
-lastmod: 2026-10-06
+lastmod: 2026-10-13
 translationKey: "denti"
+in_breve:
+  - "La prevenzione comincia **da cucciolo**, abituandolo a farsi toccare la bocca."
+  - "L'unica cosa che funziona davvero è **spazzolare i denti da 3 a 7 volte a settimana**, con dentifricio veterinario."
+  - "**Niente masticativi troppo duri**: se premendo con l'unghia non cedono, possono rompere i denti."
 articolo: true
 image: "/images/blog/salute-2.webp"
 og_image: "/images/og/schede/it/salute-denti-igiene.jpg"

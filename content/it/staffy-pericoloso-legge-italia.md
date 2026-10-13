@@ -1,8 +1,12 @@
 ---
 title: "Lo Staffy è Pericoloso? Verità e Legge Italiana"
 date: 2025-11-18
-lastmod: 2026-10-08
+lastmod: 2026-10-13
 translationKey: "pericoloso"
+in_breve:
+  - "In Italia **lo Staffy non è una razza pericolosa**: l'elenco è stato abolito nel 2009."
+  - "Valgono **le regole di tutti i cani**: guinzaglio, museruola al bisogno, responsabilità del proprietario."
+  - "Restano **regole locali** (comuni, condomini) e di **altri paesi**, da controllare prima di viaggiare."
 articolo: true
 image: "/images/blog/staffy-carattere-legge-hero.webp"
 og_image: "/images/og/schede/it/staffy-pericoloso-legge-italia.jpg"

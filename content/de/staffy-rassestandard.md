@@ -1,8 +1,12 @@
 ---
 title: "FCI Rassestandard Staffordshire Bull Terrier"
 date: 2025-02-12
-lastmod: 2026-10-05
+lastmod: 2026-10-13
 translationKey: "standard"
+in_breve:
+  - "Ein Staffy ist **typisch, wenn alles im Gleichgewicht ist**: Kopf, Proportionen, Brust, Knochen, Bewegung und Wesen."
+  - "**Typisch heißt nicht übertrieben**: ein zu kurzer Fang geht auf Kosten der Atmung und der Hitzeverträglichkeit."
+  - "Zuchthunde werden nach diesem Gleichgewicht ausgewählt, **noch vor den Titeln**."
 articolo: true
 image: "/images/blog/standard-tipicita-morfologia-hero.webp"
 og_image: "/images/og/schede/de/staffy-rassestandard.jpg"

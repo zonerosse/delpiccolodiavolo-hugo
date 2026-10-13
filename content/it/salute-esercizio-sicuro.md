@@ -1,8 +1,12 @@
 ---
 title: "Esercizio Sicuro per Staffordshire Bull Terrier"
 date: 2024-06-20
-lastmod: 2026-10-11
+lastmod: 2026-10-13
 translationKey: "esercizio"
+in_breve:
+  - "Lo Staffy ha bisogno di **esercizio ogni giorno**, ma la quantità cambia con l'età."
+  - "**Da cucciolo niente salti ripetuti, scale e corse forzate**: le cartilagini si chiudono fra i 12 e i 18 mesi."
+  - "Da adulto il rischio principale è il **caldo**: d'estate si esce nelle ore fresche, con acqua sempre a disposizione."
 articolo: true
 image: "/images/blog/esercizio-hero.webp"
 og_image: "/images/og/schede/it/salute-esercizio-sicuro.jpg"

@@ -2,8 +2,12 @@
 title: "Staffy and Children: Family Life"
 date: 2024-05-28
 titleSeo: "Staffordshire Bull Terrier with children: family life"
-lastmod: 2026-10-05
+lastmod: 2026-10-13
 translationKey: "bambini"
+in_breve:
+  - "**No dog should be left alone with a young child**, Staffies included."
+  - "A well-bred, well-socialised Staffy **copes well with noise and clumsiness**, but temperament varies from dog to dog."
+  - "Safety depends on the adults: **guided introductions, rules for each age, a place where the dog can retreat**, and stress signals read in time."
 articolo: true
 image: "/images/blog/famiglia-1.webp"
 og_image: "/images/og/schede/en/staffy-children-family.jpg"

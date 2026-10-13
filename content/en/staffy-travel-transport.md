@@ -2,8 +2,12 @@
 title: "Staffy Travel and Transport"
 date: 2024-04-07
 titleSeo: "Travelling with a Staffordshire Bull Terrier: car and train"
-lastmod: 2026-10-05
+lastmod: 2026-10-13
 translationKey: "viaggi"
+in_breve:
+  - "Three things are prepared: **documents, transport and stops**."
+  - "Within the EU you need a **microchip, an EU pet passport and a rabies vaccination**; for the UK and non-EU countries check at least two months ahead."
+  - "In the car the safest system is a **rigid crate**, with a stop every two hours on long journeys."
 articolo: true
 image: "/images/blog/famiglia-4.webp"
 og_image: "/images/og/schede/en/staffy-travel-transport.jpg"
@@ -58,7 +62,7 @@ custom_content: |
   <tbody>
   <tr><td><strong>Rigid crate</strong></td><td>Maximum safety, holds the dog in a crash</td><td>Bulky, 80-150 euros</td><td>Long journeys, puppies</td></tr>
   <tr><td><strong>Travel harness + seatbelt</strong></td><td>Inexpensive, 25-40 euros, the dog can see out</td><td>Less protection</td><td>Short and medium trips</td></tr>
-  <tr><td><strong>Boot divider</strong></td><td>Freedom of movement</td><td>No protection in a crash</td><td>Estate cars and SUVs only</td></tr>
+  <tr><td><strong>Boot divider</strong></td><td>Freedom of movement</td><td>Less protection than a crate</td><td>Estate cars and SUVs only</td></tr>
   </tbody>
   </table>
   <p>For this breed there is a specific and serious warning: <strong>never leave the dog in a parked car</strong>, not for 5 minutes, not with the windows open, not in the shade. A dense, dark-coated, short-muzzled dog reaches a dangerous body temperature far faster than most owners believe, and the temperature inside a parked car in Italian summer rises by twenty degrees within a quarter of an hour.</p>
