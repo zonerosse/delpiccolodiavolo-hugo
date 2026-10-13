@@ -2,7 +2,7 @@
 title: "Würfe Staffordshire Bull Terrier"
 titleSeo: "Nächste Staffy-Würfe: das Selektionsprogramm"
 date: 2025-12-28
-lastmod: 2026-10-08
+lastmod: 2026-10-13
 tipoPagina: "CollectionPage"
 translationKey: "programma"
 description: "Staffordshire Bull Terrier Würfe mit ausgewählten Eltern, L2HGA/HC Gentests, ENCI-Stammbaum. Zuchtprogramm, Elitebull und Lackyle Linien. Ostellato (FE)."
@@ -61,18 +61,6 @@ custom_content: |
   <!--CUCCIOLATA-->
   <!--/BLOCCO:2-->
 
-  <section class="section">
-  <div class="section-inner">
-  <span class="section-label">Unser Programm</span>
-  <h2 class="section-title">Zuchtprogramm</h2>
-
-  <div class="intro-block">
-  <p>In der Zucht Del Piccolo Diavolo wird jeder Wurf aus einer sorgfältigen Auswahl gesunder, ausgeglichener und standardkonformer Eltern geboren. Das Wurfprogramm garantiert Wohlbefinden, Charakter und Typizität der Rasse nach höchsten ethischen und gesundheitlichen Standards. Jeder hier geborene Wurf, mit Eltern, Tests, Untersuchungen und Fotos des Heranwachsens, steht im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Zuchttagebuch</a>.</p>
-  <p>Die Welpen wachsen in familiärer Umgebung auf, sozialisiert mit Menschen, Geräuschen und anderen Tieren für eine harmonische Entwicklung. Jeder Welpe wird nach tierärztlichen Kontrollen, Impfungen, Mikrochip und Registrierung übergeben.</p>
-  <p>Wir begleiten Sie bei der Wahl des geeigneten Welpen und stehen Ihnen auch nach der Adoption mit Rat und kontinuierlicher Unterstützung zur Seite.</p>
-  </div>
-  </div>
-  </section>
 
   <section class="section section-alt">
   <div class="section-inner">
@@ -244,6 +232,19 @@ custom_content: |
   <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4483601&DAM=4538599&generation=4&dogs_id=4547824" target="_blank" rel="noopener" title="Stammbaum Wurf Prospect x Bean ansehen" aria-label="Vollständigen Stammbaum des Wurfes vom 1. Februar 2025 auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">auf SBTPedigree ansehen</a></p>
   </article>
 
+  </div>
+  </section>
+
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">Unser Programm</span>
+  <h2 class="section-title">Zuchtprogramm</h2>
+
+  <div class="intro-block">
+  <p>In der Zucht Del Piccolo Diavolo wird jeder Wurf aus einer sorgfältigen Auswahl gesunder, ausgeglichener und standardkonformer Eltern geboren. Das Wurfprogramm garantiert Wohlbefinden, Charakter und Typizität der Rasse nach höchsten ethischen und gesundheitlichen Standards. Jeder hier geborene Wurf, mit Eltern, Tests, Untersuchungen und Fotos des Heranwachsens, steht im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Zuchttagebuch</a>.</p>
+  <p>Die Welpen wachsen in familiärer Umgebung auf, sozialisiert mit Menschen, Geräuschen und anderen Tieren für eine harmonische Entwicklung. Jeder Welpe wird nach tierärztlichen Kontrollen, Impfungen, Mikrochip und Registrierung übergeben.</p>
+  <p>Wir begleiten Sie bei der Wahl des geeigneten Welpen und stehen Ihnen auch nach der Adoption mit Rat und kontinuierlicher Unterstützung zur Seite.</p>
+  </div>
   </div>
   </section>
 

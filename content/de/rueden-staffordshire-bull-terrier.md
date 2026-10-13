@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Rüden"
 titleSeo: "Staffordshire Bull Terrier Rüden: Ahnentafel und Gentests"
 date: 2025-12-28
-lastmod: 2026-10-11
+lastmod: 2026-10-13
 tipoPagina: "CollectionPage"
 translationKey: "maschi"
 description: "Unsere Staffordshire Bull Terrier Rüden: Lothar (Slowenischer und Italienischer Jugendchampion), Braveheart und Papillon. Gentests L2HGA und HC (HSF4)."
@@ -35,29 +35,8 @@ custom_content: |
   </div>
   </div>
 
+
   <!--BLOCCO:2-->
-  <section class="section">
-  <div class="section-inner">
-  <span class="section-label">Unser Ansatz</span>
-  <h2 class="section-title">Ethik, Gesundheit und Verantwortungsvolle Selektion</h2>
-
-  <div class="intro-block">
-  <p>Del Piccolo Diavolo hält keine eigenen Deckrüden, und das ist eine Entscheidung. Für jede Verpaarung wird <a href="/de/eltern-vor-ort-was-das-bedeutet/" title="&quot;Eltern vor Ort&quot;: was das wirklich bedeutet">der Rüde außerhalb der Zucht gesucht</a>, in den englischen Elitebull- und irischen Lackyle-Linien, und so gewählt, dass er ausgleicht, was der Hündin fehlt: Hat eine Hündin einen ausgezeichneten Kopf und ein verbesserungsfähiges Gangwerk, braucht sie einen Rüden mit solidem Gangwerk, nicht einen, der genauso schön ist wie sie. Einen Rüden im Haus zu halten hieße, ihn einzusetzen, weil er da ist, und die Linien auf einen einzigen Hund zu verengen. Vor einer Verpaarung verlangen wir vom Besitzer die Befunde der Gentests mit der Mikrochipnummer darauf, keine Versprechen: Ist ein Rüde auf einige Erkrankungen getestet und nicht auf alle, wissen wir es vorher und schreiben es auf die Seite des jeweiligen Wurfs.</p>
-
-  <p>In unserer Zucht steht die <strong>genetische Gesundheit</strong> an erster Stelle. Jeder Deckrüde wird vor Aufnahme ins Zuchtprogramm vollständig untersucht.</p>
-  <p style="margin-top:1rem">Ein Deckrüde wiegt für die Zukunft einer Linie weit schwerer als eine Hündin: eine Hündin bringt in ihrem Leben 2 oder 3 Würfe, ein Rüde kann Vater von Dutzenden Welpen sein. Deshalb sind die Anforderungen an ihn höher, nicht niedriger.</p>
-  <p style="margin-top:1rem">Wir achten auf drei Dinge, in dieser Reihenfolge. Das <strong>Wesen</strong>: ein unsicherer oder reaktiver Hund kommt nicht ins Programm, so korrekt sein Körperbau auch sein mag, denn ein Wesensfehler vererbt sich über Generationen und zeigt sich in Familien, nicht im Ring. Die <strong>Atmung</strong>: ein Hund, der nach wenigen Minuten Trab Mühe hat oder bei der ersten Wärme leidet, hat ein Wohlbefindensproblem, unabhängig von der Zahl seiner Titel. Und <strong>Typ ohne Übertreibung</strong>: korrekter Kopf und solider Knochen, aber nie auf Kosten der Funktion.</p>
-  <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Unsere Rüden sind getestet auf:</p>
-  <p>✓ <strong>L2HGA</strong> — L-2-Hydroxyglutarazidurie<br>
-  ✓ <strong>HC</strong> — Hereditäre Katarakt<br>
-  ✓ <strong>Gebiss</strong> — Vollständiges Scherengebiss</p>
-  <p style="margin-top:1.2rem">Nur <strong>freie</strong> oder <strong>nicht betroffene</strong> Hunde werden eingesetzt, was gesunde Welpen und robuste Nachkommen garantiert.</p>
-  </div>
-  </div>
-  </section>
-  <!--/BLOCCO:2-->
-
-  <!--BLOCCO:3-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Unsere Rüden</span>
@@ -128,6 +107,28 @@ custom_content: |
   </div>
   </article>
 
+  </div>
+  </section>
+  <!--/BLOCCO:2-->
+
+  <!--BLOCCO:3-->
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">Unser Ansatz</span>
+  <h2 class="section-title">Ethik, Gesundheit und Verantwortungsvolle Selektion</h2>
+
+  <div class="intro-block">
+  <p>Del Piccolo Diavolo hält keine eigenen Deckrüden, und das ist eine Entscheidung. Für jede Verpaarung wird <a href="/de/eltern-vor-ort-was-das-bedeutet/" title="&quot;Eltern vor Ort&quot;: was das wirklich bedeutet">der Rüde außerhalb der Zucht gesucht</a>, in den englischen Elitebull- und irischen Lackyle-Linien, und so gewählt, dass er ausgleicht, was der Hündin fehlt: Hat eine Hündin einen ausgezeichneten Kopf und ein verbesserungsfähiges Gangwerk, braucht sie einen Rüden mit solidem Gangwerk, nicht einen, der genauso schön ist wie sie. Einen Rüden im Haus zu halten hieße, ihn einzusetzen, weil er da ist, und die Linien auf einen einzigen Hund zu verengen. Vor einer Verpaarung verlangen wir vom Besitzer die Befunde der Gentests mit der Mikrochipnummer darauf, keine Versprechen: Ist ein Rüde auf einige Erkrankungen getestet und nicht auf alle, wissen wir es vorher und schreiben es auf die Seite des jeweiligen Wurfs.</p>
+
+  <p>In unserer Zucht steht die <strong>genetische Gesundheit</strong> an erster Stelle. Jeder Deckrüde wird vor Aufnahme ins Zuchtprogramm vollständig untersucht.</p>
+  <p style="margin-top:1rem">Ein Deckrüde wiegt für die Zukunft einer Linie weit schwerer als eine Hündin: eine Hündin bringt in ihrem Leben 2 oder 3 Würfe, ein Rüde kann Vater von Dutzenden Welpen sein. Deshalb sind die Anforderungen an ihn höher, nicht niedriger.</p>
+  <p style="margin-top:1rem">Wir achten auf drei Dinge, in dieser Reihenfolge. Das <strong>Wesen</strong>: ein unsicherer oder reaktiver Hund kommt nicht ins Programm, so korrekt sein Körperbau auch sein mag, denn ein Wesensfehler vererbt sich über Generationen und zeigt sich in Familien, nicht im Ring. Die <strong>Atmung</strong>: ein Hund, der nach wenigen Minuten Trab Mühe hat oder bei der ersten Wärme leidet, hat ein Wohlbefindensproblem, unabhängig von der Zahl seiner Titel. Und <strong>Typ ohne Übertreibung</strong>: korrekter Kopf und solider Knochen, aber nie auf Kosten der Funktion.</p>
+  <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Unsere Rüden sind getestet auf:</p>
+  <p>✓ <strong>L2HGA</strong> — L-2-Hydroxyglutarazidurie<br>
+  ✓ <strong>HC</strong> — Hereditäre Katarakt<br>
+  ✓ <strong>Gebiss</strong> — Vollständiges Scherengebiss</p>
+  <p style="margin-top:1.2rem">Nur <strong>freie</strong> oder <strong>nicht betroffene</strong> Hunde werden eingesetzt, was gesunde Welpen und robuste Nachkommen garantiert.</p>
+  </div>
   </div>
   </section>
   <!--/BLOCCO:3-->

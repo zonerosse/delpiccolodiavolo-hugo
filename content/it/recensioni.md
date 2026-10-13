@@ -2,7 +2,7 @@
 title: "Recensioni Staffordshire Bull Terrier"
 titleSeo: "Recensioni Staffordshire Bull Terrier: <!--REC-TOTALE--> famiglie"
 date: 2025-12-28
-lastmod: 2026-10-11
+lastmod: 2026-10-13
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
 description: "Le recensioni Google delle famiglie che hanno scelto un cucciolo Del Piccolo Diavolo: esperienze reali, prima e dopo l'affido, ognuna collegata all'originale."
@@ -37,25 +37,9 @@ custom_content: |
   </div>
 
   <!-- PERCHÉ LE NOSTRE RECENSIONI CONTANO -->
-  <!--BLOCCO:2-->
-  <section class="section">
-  <div class="section-inner">
-  <span class="section-label">La Nostra Reputazione</span>
-  <h2 class="section-title">Perché Le Recensioni Contano</h2>
-
-  <p>Del Piccolo Diavolo ha una valutazione media di <!--REC-VOTO--> su <!--REC-TOTALE--> recensioni pubblicate sul profilo Google dell'allevamento, tutte verificabili all'origine: ogni recensione riportata su questa pagina porta il nome di chi l'ha scritta e il collegamento diretto all'originale su Google, dove chiunque pu&ograve; leggerla senza passare da noi. Sono famiglie che hanno preso un cucciolo di Staffordshire Bull Terrier a Ostellato, in provincia di Ferrara, fra il 2013 e oggi. Una recensione riportata su un sito senza collegamento alla fonte non &egrave; verificabile: potrebbe averla scritta chiunque, allevatore compreso. &Egrave; lo stesso principio dei referti dei test genetici, che qui vengono pubblicati con il numero di microchip del cane sopra. Le recensioni raccontano l'esperienza dell'affido; cosa sia successo dopo, a distanza di anni, lo raccontiamo nelle <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">storie dei cani che abbiamo allevato</a>.</p>
-  <div class="values-grid">
-  <div class="value-card"><h3>✓ Trasparenza</h3><p>Ogni recensione verificabile su Google</p></div>
-  <div class="value-card"><h3>⭐ <!--REC-VOTO-->/5</h3><p>Media costruita dal 2013</p></div>
-  <div class="value-card"><h3>📞 Supporto</h3><p>Assistenza per tutta la vita del cane</p></div>
-  <div class="value-card"><h3>🏆 Qualità</h3><p>Linee Elitebull e Lackyle certificate</p></div>
-  </div>
-  </div>
-  </section>
-  <!--/BLOCCO:2-->
 
   <!-- RECENSIONI -->
-  <!--BLOCCO:3-->
+  <!--BLOCCO:2-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Testimonianze</span>
@@ -324,6 +308,23 @@ custom_content: |
   <div class="review-meta">dicembre 2025 – Google</div>
   </article>
 
+  </div>
+  </div>
+  </section>
+  <!--/BLOCCO:2-->
+
+  <!--BLOCCO:3-->
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">La Nostra Reputazione</span>
+  <h2 class="section-title">Perché Le Recensioni Contano</h2>
+
+  <p>Del Piccolo Diavolo ha una valutazione media di <!--REC-VOTO--> su <!--REC-TOTALE--> recensioni pubblicate sul profilo Google dell'allevamento, tutte verificabili all'origine: ogni recensione riportata su questa pagina porta il nome di chi l'ha scritta e il collegamento diretto all'originale su Google, dove chiunque pu&ograve; leggerla senza passare da noi. Sono famiglie che hanno preso un cucciolo di Staffordshire Bull Terrier a Ostellato, in provincia di Ferrara, fra il 2013 e oggi. Una recensione riportata su un sito senza collegamento alla fonte non &egrave; verificabile: potrebbe averla scritta chiunque, allevatore compreso. &Egrave; lo stesso principio dei referti dei test genetici, che qui vengono pubblicati con il numero di microchip del cane sopra. Le recensioni raccontano l'esperienza dell'affido; cosa sia successo dopo, a distanza di anni, lo raccontiamo nelle <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">storie dei cani che abbiamo allevato</a>.</p>
+  <div class="values-grid">
+  <div class="value-card"><h3>✓ Trasparenza</h3><p>Ogni recensione verificabile su Google</p></div>
+  <div class="value-card"><h3>⭐ <!--REC-VOTO-->/5</h3><p>Media costruita dal 2013</p></div>
+  <div class="value-card"><h3>📞 Supporto</h3><p>Assistenza per tutta la vita del cane</p></div>
+  <div class="value-card"><h3>🏆 Qualità</h3><p>Linee Elitebull e Lackyle certificate</p></div>
   </div>
   </div>
   </section>

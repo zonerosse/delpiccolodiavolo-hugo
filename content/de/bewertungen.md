@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Bewertungen"
 date: 2025-12-28
-lastmod: 2026-10-11
+lastmod: 2026-10-13
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
 description: "Die Google-Bewertungen der Familien, die einen Welpen von Del Piccolo Diavolo gewählt haben: echte Erfahrungen vor und nach der Abgabe, jede mit Link zum Original."
@@ -36,25 +36,9 @@ custom_content: |
   </div>
 
   <!-- WARUM UNSERE BEWERTUNGEN ZÄHLEN -->
-  <!--BLOCCO:2-->
-  <section class="section">
-  <div class="section-inner">
-  <span class="section-label">Unser Ruf</span>
-  <h2 class="section-title">Warum Bewertungen Zählen</h2>
-
-  <p>Del Piccolo Diavolo hat eine durchschnittliche Bewertung von <!--REC-VOTO--> aus <!--REC-TOTALE--> Bewertungen im Google-Profil der Zucht, alle an der Quelle überprüfbar: Jede auf dieser Seite gezeigte Bewertung trägt den Namen der Person, die sie geschrieben hat, und einen direkten Link zum Original auf Google, wo jeder sie lesen kann, ohne über uns zu gehen. Es sind Familien, die zwischen 2013 und heute einen Staffordshire Bull Terrier Welpen aus Ostellato in der Provinz Ferrara übernommen haben. Eine Bewertung auf einer Website ohne Link zur Quelle ist nicht überprüfbar: Jeder könnte sie geschrieben haben, auch der Züchter. Es ist dasselbe Prinzip wie bei den Befunden der Gentests, die hier mit der Mikrochipnummer des Hundes veröffentlicht sind. Die Bewertungen erzählen von der Vermittlung; was danach geschah, Jahre später, erzählen die <a href="/de/staffordshire-in-der-familie-geschichten/" title="Geschichten aus den Familien">Geschichten der Hunde, die wir gezüchtet haben</a>.</p>
-  <div class="values-grid">
-  <div class="value-card"><h3>✓ Transparenz</h3><p>Jede Bewertung bei Google verifizierbar</p></div>
-  <div class="value-card"><h3>⭐ <!--REC-VOTO-->/5</h3><p>Durchschnitt aufgebaut seit 2013</p></div>
-  <div class="value-card"><h3>📞 Support</h3><p>Betreuung für das ganze Leben des Hundes</p></div>
-  <div class="value-card"><h3>🏆 Qualität</h3><p>Zertifizierte Elitebull und Lackyle Linien</p></div>
-  </div>
-  </div>
-  </section>
-  <!--/BLOCCO:2-->
 
   <!-- BEWERTUNGEN -->
-  <!--BLOCCO:3-->
+  <!--BLOCCO:2-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Testimonials</span>
@@ -326,6 +310,23 @@ custom_content: |
 
   <p>Bewertungen beschreiben die Übergabe; was danach geschah, Jahre später, erzählen wir in den <a href="/de/staffordshire-in-der-familie-geschichten/" title="Familiengeschichten">Geschichten der Hunde, die wir gezüchtet haben</a>.</p>
 
+  </div>
+  </div>
+  </section>
+  <!--/BLOCCO:2-->
+
+  <!--BLOCCO:3-->
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">Unser Ruf</span>
+  <h2 class="section-title">Warum Bewertungen Zählen</h2>
+
+  <p>Del Piccolo Diavolo hat eine durchschnittliche Bewertung von <!--REC-VOTO--> aus <!--REC-TOTALE--> Bewertungen im Google-Profil der Zucht, alle an der Quelle überprüfbar: Jede auf dieser Seite gezeigte Bewertung trägt den Namen der Person, die sie geschrieben hat, und einen direkten Link zum Original auf Google, wo jeder sie lesen kann, ohne über uns zu gehen. Es sind Familien, die zwischen 2013 und heute einen Staffordshire Bull Terrier Welpen aus Ostellato in der Provinz Ferrara übernommen haben. Eine Bewertung auf einer Website ohne Link zur Quelle ist nicht überprüfbar: Jeder könnte sie geschrieben haben, auch der Züchter. Es ist dasselbe Prinzip wie bei den Befunden der Gentests, die hier mit der Mikrochipnummer des Hundes veröffentlicht sind. Die Bewertungen erzählen von der Vermittlung; was danach geschah, Jahre später, erzählen die <a href="/de/staffordshire-in-der-familie-geschichten/" title="Geschichten aus den Familien">Geschichten der Hunde, die wir gezüchtet haben</a>.</p>
+  <div class="values-grid">
+  <div class="value-card"><h3>✓ Transparenz</h3><p>Jede Bewertung bei Google verifizierbar</p></div>
+  <div class="value-card"><h3>⭐ <!--REC-VOTO-->/5</h3><p>Durchschnitt aufgebaut seit 2013</p></div>
+  <div class="value-card"><h3>📞 Support</h3><p>Betreuung für das ganze Leben des Hundes</p></div>
+  <div class="value-card"><h3>🏆 Qualität</h3><p>Zertifizierte Elitebull und Lackyle Linien</p></div>
   </div>
   </div>
   </section>

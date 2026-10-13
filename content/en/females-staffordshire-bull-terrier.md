@@ -2,7 +2,7 @@
 title: "Female Staffordshire Bull Terriers"
 titleSeo: "Our female Staffies: microchips and pedigrees"
 date: 2025-12-28
-lastmod: 2026-10-11
+lastmod: 2026-10-13
 tipoPagina: "CollectionPage"
 translationKey: "femmine"
 description: "Our female Staffordshire Bull Terriers: Bilquis (Top Dog Junior 2023), Queen of California, Croi Olc, Divine, Kennedy, Derry, Cattleya. L2HGA, HC and DM-SOD1 tested."
@@ -47,25 +47,8 @@ custom_content: |
   </div>
   </div>
 
+
   <!--BLOCCO:2-->
-  <section class="section">
-  <div class="section-inner">
-  <span class="section-label">Our Approach</span>
-  <h2 class="section-title">Selection and Care of Our Females</h2>
-
-  <div class="intro-block">
-  <p>Raised with care and responsibility, our females are selected for <strong>health</strong>, <strong>breed typicality</strong> and <strong>balanced temperament</strong>. Every pairing is planned based on genetic testing and bloodline compatibility.</p>
-  <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Our females are tested for:</p>
-  <p>✓ <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)"><strong>L2HGA</strong> — L-2-Hydroxyglutaric Aciduria</a><br>
-  ✓ <strong>HC</strong> — Hereditary Cataracts<br>
-  ✓ <strong>DM-SOD1</strong> — Degenerative myelopathy<br>
-  ✓ <strong>Dentition</strong> — Complete scissor bite</p>
-  </div>
-  </div>
-  </section>
-  <!--/BLOCCO:2-->
-
-  <!--BLOCCO:3-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Our Females</span>
@@ -287,6 +270,24 @@ custom_content: |
   </div>
   </article>
 
+  </div>
+  </section>
+  <!--/BLOCCO:2-->
+
+  <!--BLOCCO:3-->
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">Our Approach</span>
+  <h2 class="section-title">Selection and Care of Our Females</h2>
+
+  <div class="intro-block">
+  <p>Raised with care and responsibility, our females are selected for <strong>health</strong>, <strong>breed typicality</strong> and <strong>balanced temperament</strong>. Every pairing is planned based on genetic testing and bloodline compatibility.</p>
+  <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Our females are tested for:</p>
+  <p>✓ <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)"><strong>L2HGA</strong> — L-2-Hydroxyglutaric Aciduria</a><br>
+  ✓ <strong>HC</strong> — Hereditary Cataracts<br>
+  ✓ <strong>DM-SOD1</strong> — Degenerative myelopathy<br>
+  ✓ <strong>Dentition</strong> — Complete scissor bite</p>
+  </div>
   </div>
   </section>
   <!--/BLOCCO:3-->

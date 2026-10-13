@@ -46,6 +46,16 @@
     {{- if ne .Permalink $p.Permalink }}{{ $pagine = $pagine | append . }}{{ end -}}
   {{- end -}}
 {{- end -}}
+{{- /* Scelta R2 di Paolo (13/10/2026): al massimo 4 schede, poi il link a tutte le guide (pagina Blog) */ -}}
+{{- /* Le 4 schede sono le guide che vengono DOPO la pagina corrente nell'elenco (a giro), cosi' ogni guida
+     continua a ricevere collegamenti da altre pagine e nessuna resta isolata. */ -}}
+{{- $tutte := len $pagine -}}
+{{- $pos := 0 -}}
+{{- range $i, $k := $chiavi }}{{ if eq $k $tk }}{{ $pos = $i }}{{ end }}{{ end -}}
+{{- $giro := slice -}}
+{{- range $pagine }}{{ $i := 0 }}{{ $kk := .Params.translationKey }}{{ range $j, $k := $chiavi }}{{ if eq $k $kk }}{{ $i = $j }}{{ end }}{{ end }}{{ if gt $i $pos }}{{ $giro = $giro | append . }}{{ end }}{{ end -}}
+{{- range $pagine }}{{ $i := 0 }}{{ $kk := .Params.translationKey }}{{ range $j, $k := $chiavi }}{{ if eq $k $kk }}{{ $i = $j }}{{ end }}{{ end }}{{ if le $i $pos }}{{ $giro = $giro | append . }}{{ end }}{{ end -}}
+{{- $pagine = first 4 $giro -}}
 {{- if $pagine }}
 <section class="section guide-cucciolo">
 <div class="section-inner">
@@ -59,6 +69,11 @@
   </a>
   {{- end }}
 </div>
+{{- if gt $tutte 4 }}
+{{- with $p.Site.GetPage "/blog" }}
+<p style="margin:1rem 0 0"><a href="{{ .RelPermalink }}" style="color:#8b5a2b;font-weight:700">{{ if eq $lang "en" }}All the guides{{ else if eq $lang "de" }}Alle Ratgeber{{ else }}Tutte le guide{{ end }} &rarr;</a></p>
+{{- end }}
+{{- end }}
 </div>
 </section>
 {{- end -}}

@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Litters"
 titleSeo: "Upcoming Staffy litters: the selection programme"
 date: 2025-12-28
-lastmod: 2026-10-08
+lastmod: 2026-10-13
 tipoPagina: "CollectionPage"
 translationKey: "programma"
 description: "Staffordshire Bull Terrier litters at Del Piccolo Diavolo: planned and past pairings, the parents, their L2HGA and HC tests, and how we decide each mating."
@@ -61,18 +61,6 @@ custom_content: |
   <!--CUCCIOLATA-->
   <!--/BLOCCO:2-->
 
-  <section class="section">
-  <div class="section-inner">
-  <span class="section-label">Our Program</span>
-  <h2 class="section-title">Litter Program</h2>
-
-  <div class="intro-block">
-  <p>At our kennel, every litter is born from careful selection of healthy, balanced, in-standard parents. Our litter program guarantees breed welfare, character and typicality, following the highest ethical and health standards. Every litter born here, with parents, tests, examinations and growth photos, is recorded in the <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a>.</p>
-  <p>Puppies grow up in a family environment, socialized with people, sounds and other animals to encourage harmonious development. Each puppy is placed after veterinary checks, vaccinations, microchip and registration.</p>
-  <p>We are available to help you choose the most suitable puppy and to follow you even after adoption, with advice and ongoing assistance.</p>
-  </div>
-  </div>
-  </section>
 
   <section class="section section-alt">
   <div class="section-inner">
@@ -244,6 +232,19 @@ custom_content: |
   <p class="pedigree-link">Litter pedigree: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4483601&DAM=4538599&generation=4&dogs_id=4547824" target="_blank" rel="noopener" title="View Prospect x Bean litter pedigree" aria-label="view on SBTPedigree – View the full pedigree of the 1 February 2025 litter on SBTPedigree (opens in a new tab)">view on SBTPedigree</a></p>
   </article>
 
+  </div>
+  </section>
+
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">Our Program</span>
+  <h2 class="section-title">Litter Program</h2>
+
+  <div class="intro-block">
+  <p>At our kennel, every litter is born from careful selection of healthy, balanced, in-standard parents. Our litter program guarantees breed welfare, character and typicality, following the highest ethical and health standards. Every litter born here, with parents, tests, examinations and growth photos, is recorded in the <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a>.</p>
+  <p>Puppies grow up in a family environment, socialized with people, sounds and other animals to encourage harmonious development. Each puppy is placed after veterinary checks, vaccinations, microchip and registration.</p>
+  <p>We are available to help you choose the most suitable puppy and to follow you even after adoption, with advice and ongoing assistance.</p>
+  </div>
   </div>
   </section>
 

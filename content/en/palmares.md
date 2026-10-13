@@ -2,7 +2,7 @@
 title: "Palmares - Our Show Results"
 titleSeo: "Palmares: Italian and international champions since 2013"
 date: 2026-01-04
-lastmod: 2026-10-08
+lastmod: 2026-10-13
 tipoPagina: "CollectionPage"
 translationKey: "palmares"
 description: "Results and titles of our Staffordshire Bull Terriers: Italian Champions, Junior Champions, Best of Breed. Del Piccolo Diavolo Kennel, Italy."
@@ -15,50 +15,12 @@ custom_content: |
   </section>
   <!--/BLOCCO:1-->
 
+
   <!--BLOCCO:2-->
-  <section class="section">
-  <div class="section-inner">
-  <span class="section-label">Our Results</span>
-  <h2 class="section-title">Champions Bred by Us</h2>
-
-  <div class="intro-block">
-  <p>Dogs bred by Del Piccolo Diavolo have so far won one Italian Champion title, three Italian Junior Champion titles &mdash; Bilquis, Lothar, who is also Slovenian Champion, and Queen of California &mdash; and the Junior Champion and Champion titles of San Marino, as well as a fourth place at the World Dog Show with Bilquis Goddess Diabhal, who has fourteen consecutive shows with Excellent first behind her. In May 2026 Queen of California won the Italian Junior Champion title at the National Show in Albarella. They are all dogs born and raised here, not bought already titled. Show results cannot be self-certified: show catalogues are public, and the judges who assessed these dogs have a name and a surname. Titles are only part of it, though: what life these dogs lead today is told in the <a href="/en/staffordshire-family-life-stories/" title="Family stories">family stories</a>.</p>
-  <p>Del Piccolo Diavolo's selection is based on three pillars: health, character and breed type. Show results are not an end in themselves, but confirmation that our breeding program produces dogs conforming to the breed standard. All dogs presented were born and raised in our kennel.</p>
-  </div>
-
-  <div class="palmares-summary" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1rem;margin:2rem 0;text-align:center">
-  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
-  <p style="font-size:2rem;font-weight:700;margin:0">1</p>
-  <p style="font-size:0.85rem;margin:0">Italian Champion</p>
-  </div>
-  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
-  <p style="font-size:2rem;font-weight:700;margin:0">3</p>
-  <p style="font-size:0.85rem;margin:0">Junior Champions</p>
-  </div>
-  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
-  <p style="font-size:2rem;font-weight:700;margin:0">1</p>
-  <p style="font-size:0.85rem;margin:0">San Marino Champion</p>
-  </div>
-  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
-  <p style="font-size:2rem;font-weight:700;margin:0">4th</p>
-  <p style="font-size:0.85rem;margin:0">World Dog Show</p>
-  </div>
-  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
-  <p style="font-size:2rem;font-weight:700;margin:0">100%</p>
-  <p style="font-size:0.85rem;margin:0">Excellent</p>
-  </div>
-  </div>
-
-  <p style="text-align:center;margin-top:1rem">Our puppies are born from these dogs. Visit the <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffy puppies</a> page to find out about the next litters.</p>
-  </div>
-  </section>
+  <!--ESPOSIZIONI-->
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
-  <!--ESPOSIZIONI-->
-  <!--/BLOCCO:3-->
-
-  <!--BLOCCO:4-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Italian Champion</span>
@@ -181,6 +143,45 @@ custom_content: |
 
   <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">20 shows in Italy recorded in the ENCI stud book, 19 of them placed first: <a href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Bilquis show results in the ENCI stud book" aria-label="the ENCI results record – Bilquis show results in the ENCI stud book (opens in a new tab)">the ENCI results record</a> (LOI LO22197469). Shows abroad, the World Dog Show included, are not recorded by ENCI. Top Dog Junior 2023. Italian Junior Champion. Italian Beauty Champion 2024. Croatian Junior Champion. Bosnia and Herzegovina Champion. Crufts qualification 2025.</p>
 
+  </div>
+  </section>
+  <!--/BLOCCO:3-->
+
+  <!--BLOCCO:4-->
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">Our Results</span>
+  <h2 class="section-title">Champions Bred by Us</h2>
+
+  <div class="intro-block">
+  <p>Dogs bred by Del Piccolo Diavolo have so far won one Italian Champion title, three Italian Junior Champion titles &mdash; Bilquis, Lothar, who is also Slovenian Champion, and Queen of California &mdash; and the Junior Champion and Champion titles of San Marino, as well as a fourth place at the World Dog Show with Bilquis Goddess Diabhal, who has fourteen consecutive shows with Excellent first behind her. In May 2026 Queen of California won the Italian Junior Champion title at the National Show in Albarella. They are all dogs born and raised here, not bought already titled. Show results cannot be self-certified: show catalogues are public, and the judges who assessed these dogs have a name and a surname. Titles are only part of it, though: what life these dogs lead today is told in the <a href="/en/staffordshire-family-life-stories/" title="Family stories">family stories</a>.</p>
+  <p>Del Piccolo Diavolo's selection is based on three pillars: health, character and breed type. Show results are not an end in themselves, but confirmation that our breeding program produces dogs conforming to the breed standard. All dogs presented were born and raised in our kennel.</p>
+  </div>
+
+  <div class="palmares-summary" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1rem;margin:2rem 0;text-align:center">
+  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
+  <p style="font-size:2rem;font-weight:700;margin:0">1</p>
+  <p style="font-size:0.85rem;margin:0">Italian Champion</p>
+  </div>
+  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
+  <p style="font-size:2rem;font-weight:700;margin:0">3</p>
+  <p style="font-size:0.85rem;margin:0">Junior Champions</p>
+  </div>
+  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
+  <p style="font-size:2rem;font-weight:700;margin:0">1</p>
+  <p style="font-size:0.85rem;margin:0">San Marino Champion</p>
+  </div>
+  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
+  <p style="font-size:2rem;font-weight:700;margin:0">4th</p>
+  <p style="font-size:0.85rem;margin:0">World Dog Show</p>
+  </div>
+  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
+  <p style="font-size:2rem;font-weight:700;margin:0">100%</p>
+  <p style="font-size:0.85rem;margin:0">Excellent</p>
+  </div>
+  </div>
+
+  <p style="text-align:center;margin-top:1rem">Our puppies are born from these dogs. Visit the <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffy puppies</a> page to find out about the next litters.</p>
   </div>
   </section>
   <!--/BLOCCO:4-->

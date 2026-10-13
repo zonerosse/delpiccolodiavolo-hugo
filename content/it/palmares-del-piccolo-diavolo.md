@@ -2,7 +2,7 @@
 title: "Palmares Staffordshire Bull Terrier"
 titleSeo: "Palmares: campioni italiani e internazionali dal 2013"
 date: 2026-01-04
-lastmod: 2026-10-08
+lastmod: 2026-10-13
 tipoPagina: "CollectionPage"
 translationKey: "palmares"
 description: "Risultati e titoli dei nostri Staffordshire Bull Terrier: Campioni Italiani, Giovani Campioni, Best of Breed. Allevamento Del Piccolo Diavolo, Emilia-Romagna."
@@ -17,50 +17,13 @@ custom_content: |
   </section>
   <!--/BLOCCO:1-->
 
+
   <!--BLOCCO:2-->
-  <section class="section">
-  <div class="section-inner">
-  <span class="section-label">I Nostri Risultati</span>
-  <h2 class="section-title">Campioni Allevati da Noi</h2>
-
-  <div class="intro-block">
-  <p>La selezione Del Piccolo Diavolo si basa su tre pilastri: salute, carattere e tipicità. I risultati ottenuti in esposizione non sono un fine, ma la conferma che il nostro lavoro di selezione produce soggetti conformi allo standard di razza. Tutti i cani presentati sono nati e cresciuti nel nostro allevamento.</p>
-  </div>
-
-  <div class="palmares-summary" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1rem;margin:2rem 0;text-align:center">
-  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
-  <p style="font-size:2rem;font-weight:700;margin:0">1</p>
-  <p style="font-size:0.85rem;margin:0">Campione Italiano</p>
-  </div>
-  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
-  <p style="font-size:2rem;font-weight:700;margin:0">3</p>
-  <p style="font-size:0.85rem;margin:0">Giovani Campioni</p>
-  </div>
-  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
-  <p style="font-size:2rem;font-weight:700;margin:0">1</p>
-  <p style="font-size:0.85rem;margin:0">Campionessa San Marino</p>
-  </div>
-  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
-  <p style="font-size:2rem;font-weight:700;margin:0">4°</p>
-  <p style="font-size:0.85rem;margin:0">World Dog Show</p>
-  </div>
-  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
-  <p style="font-size:2rem;font-weight:700;margin:0">100%</p>
-  <p style="font-size:0.85rem;margin:0">Eccellente</p>
-  </div>
-  </div>
-
-  <p style="text-align:center;margin-top:1rem">I nostri cuccioli nascono da questi soggetti. Visita la pagina <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli Staffy</a> per conoscere le prossime cucciolate.</p>
-  </div>
-  </section>
+  <!--ESPOSIZIONI-->
   <!--/BLOCCO:2-->
 
+
   <!--BLOCCO:3-->
-  <!--ESPOSIZIONI-->
-  <!--/BLOCCO:3-->
-
-
-  <!--BLOCCO:4-->
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Giovane Campionessa Italiana 2026</span>
@@ -94,9 +57,9 @@ custom_content: |
 
   </div>
   </section>
-  <!--/BLOCCO:4-->
+  <!--/BLOCCO:3-->
 
-  <!--BLOCCO:5-->
+  <!--BLOCCO:4-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Campionessa Italiana</span>
@@ -219,6 +182,44 @@ custom_content: |
 
   <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">20 esposizioni in Italia nel Libro genealogico ENCI, 19 chiuse al primo posto: <a href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Esposizioni di Bilquis nel Libro genealogico ENCI" aria-label="la scheda ENCI dei risultati – Esposizioni di Bilquis nel Libro genealogico ENCI (si apre in una nuova scheda)">la scheda ENCI dei risultati</a> (LOI LO22197469). Le esposizioni all'estero, World Dog Show compreso, su ENCI non sono registrate. Top Dog Junior 2023. Giovane Campionessa Italiana. Campionessa Italiana di Bellezza. Giovane Campionessa di Croazia. Campionessa di Bosnia ed Erzegovina. Qualifica Crufts 2025.</p>
 
+  </div>
+  </section>
+  <!--/BLOCCO:4-->
+
+  <!--BLOCCO:5-->
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">I Nostri Risultati</span>
+  <h2 class="section-title">Campioni Allevati da Noi</h2>
+
+  <div class="intro-block">
+  <p>La selezione Del Piccolo Diavolo si basa su tre pilastri: salute, carattere e tipicità. I risultati ottenuti in esposizione non sono un fine, ma la conferma che il nostro lavoro di selezione produce soggetti conformi allo standard di razza. Tutti i cani presentati sono nati e cresciuti nel nostro allevamento.</p>
+  </div>
+
+  <div class="palmares-summary" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1rem;margin:2rem 0;text-align:center">
+  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
+  <p style="font-size:2rem;font-weight:700;margin:0">1</p>
+  <p style="font-size:0.85rem;margin:0">Campione Italiano</p>
+  </div>
+  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
+  <p style="font-size:2rem;font-weight:700;margin:0">3</p>
+  <p style="font-size:0.85rem;margin:0">Giovani Campioni</p>
+  </div>
+  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
+  <p style="font-size:2rem;font-weight:700;margin:0">1</p>
+  <p style="font-size:0.85rem;margin:0">Campionessa San Marino</p>
+  </div>
+  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
+  <p style="font-size:2rem;font-weight:700;margin:0">4°</p>
+  <p style="font-size:0.85rem;margin:0">World Dog Show</p>
+  </div>
+  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
+  <p style="font-size:2rem;font-weight:700;margin:0">100%</p>
+  <p style="font-size:0.85rem;margin:0">Eccellente</p>
+  </div>
+  </div>
+
+  <p style="text-align:center;margin-top:1rem">I nostri cuccioli nascono da questi soggetti. Visita la pagina <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli Staffy</a> per conoscere le prossime cucciolate.</p>
   </div>
   </section>
   <!--/BLOCCO:5-->

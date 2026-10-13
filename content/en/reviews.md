@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Reviews"
 titleSeo: "Staffordshire Bull Terrier reviews from our families"
 date: 2025-12-28
-lastmod: 2026-10-11
+lastmod: 2026-10-13
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
 description: "Google reviews from families who took home a Staffordshire Bull Terrier from Del Piccolo Diavolo: real experiences, before the puppy arrived and years after."
@@ -36,24 +36,8 @@ custom_content: |
   </div>
   </div>
 
+
   <!--BLOCCO:2-->
-  <section class="section">
-  <div class="section-inner">
-  <span class="section-label">Our Reputation</span>
-  <h2 class="section-title">Why Reviews Matter</h2>
-
-  <p>Del Piccolo Diavolo has an average rating of <!--REC-VOTO--> from <!--REC-TOTALE--> reviews published on the kennel's Google profile, all verifiable at the source: every review shown on this page carries the name of the person who wrote it and a direct link to the original on Google, where anyone can read it without going through us. They are families who took a Staffordshire Bull Terrier puppy from Ostellato, in the province of Ferrara, between 2013 and today. A review shown on a website without a link to its source cannot be verified: anyone could have written it, the breeder included. It is the same principle as the genetic test reports, which are published here with the dog's microchip number on them. The reviews tell the story of the placement; what happened afterwards, years later, is told in the <a href="/en/staffordshire-family-life-stories/" title="Family stories">stories of the dogs we bred</a>.</p>
-  <div class="values-grid">
-  <div class="value-card"><h3>✓ Transparency</h3><p>Every review verifiable on Google</p></div>
-  <div class="value-card"><h3>⭐ <!--REC-VOTO-->/5</h3><p>Average built since 2013</p></div>
-  <div class="value-card"><h3>📞 Support</h3><p>Assistance for the dog's entire life</p></div>
-  <div class="value-card"><h3>🏆 Quality</h3><p>Certified Elitebull and Lackyle lines</p></div>
-  </div>
-  </div>
-  </section>
-  <!--/BLOCCO:2-->
-
-  <!--BLOCCO:3-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Testimonials</span>
@@ -315,6 +299,23 @@ custom_content: |
 
   <p>Reviews describe how the handover went; what happened afterwards, years later, is told in <a href="/en/staffordshire-family-life-stories/" title="Family stories">the stories of the dogs we have bred</a>.</p>
 
+  </div>
+  </div>
+  </section>
+  <!--/BLOCCO:2-->
+
+  <!--BLOCCO:3-->
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">Our Reputation</span>
+  <h2 class="section-title">Why Reviews Matter</h2>
+
+  <p>Del Piccolo Diavolo has an average rating of <!--REC-VOTO--> from <!--REC-TOTALE--> reviews published on the kennel's Google profile, all verifiable at the source: every review shown on this page carries the name of the person who wrote it and a direct link to the original on Google, where anyone can read it without going through us. They are families who took a Staffordshire Bull Terrier puppy from Ostellato, in the province of Ferrara, between 2013 and today. A review shown on a website without a link to its source cannot be verified: anyone could have written it, the breeder included. It is the same principle as the genetic test reports, which are published here with the dog's microchip number on them. The reviews tell the story of the placement; what happened afterwards, years later, is told in the <a href="/en/staffordshire-family-life-stories/" title="Family stories">stories of the dogs we bred</a>.</p>
+  <div class="values-grid">
+  <div class="value-card"><h3>✓ Transparency</h3><p>Every review verifiable on Google</p></div>
+  <div class="value-card"><h3>⭐ <!--REC-VOTO-->/5</h3><p>Average built since 2013</p></div>
+  <div class="value-card"><h3>📞 Support</h3><p>Assistance for the dog's entire life</p></div>
+  <div class="value-card"><h3>🏆 Quality</h3><p>Certified Elitebull and Lackyle lines</p></div>
   </div>
   </div>
   </section>

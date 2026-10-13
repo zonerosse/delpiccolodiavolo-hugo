@@ -2,7 +2,7 @@
 title: "Femmine Staffordshire Bull Terrier"
 titleSeo: "Femmine Staffordshire Bull Terrier: referti e pedigree ENCI"
 date: 2025-12-28
-lastmod: 2026-10-11
+lastmod: 2026-10-13
 tipoPagina: "CollectionPage"
 translationKey: "femmine"
 description: "Le femmine Staffordshire Bull Terrier: Bilquis (Top Dog Junior 2023), Queen of California, Croi Olc, Divine, Kennedy, Derry, Cattleya. Test L2HGA, HC e DM-SOD1."
@@ -47,27 +47,8 @@ custom_content: |
   </div>
   </div>
 
+
   <!--BLOCCO:2-->
-  <section class="section">
-  <div class="section-inner">
-  <span class="section-label">Il Nostro Approccio</span>
-  <h2 class="section-title">Selezione e Cura delle Nostre Femmine</h2>
-
-  <div class="intro-block">
-  <p>Le fattrici di Del Piccolo Diavolo sono otto Staffordshire Bull Terrier femmine, e per ognuna il sito pubblica il numero di microchip, il numero di libro genealogico ENCI, <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">i test genetici</a> e il collegamento alla scheda su SBTPedigree. Con il microchip chiunque può consultare sul libro genealogico ENCI quante cucciolate ha fatto una femmina: da noi la media è di due per cane, ben sotto il limite consentito dal regolamento. Alcune non vivono qui &mdash; una è in Germania con i suoi proprietari, un'altra è stata ceduta a una famiglia &mdash; e anche questo è scritto nella loro scheda, con il nome di chi le ha oggi. Le linee di provenienza sono inglesi e irlandesi, in particolare Elitebull e Lackyle, e i soggetti importati arrivano da Russia, Germania e Irlanda.</p>
-
-  <p>Cresciute con cura e responsabilità, le nostre femmine sono selezionate per <strong>salute</strong>, <strong>tipicità di razza</strong> e <strong>temperamento equilibrato</strong>. Ogni accoppiamento è pianificato sulla base dei test genetici e della compatibilità delle linee.</p>
-  <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Le nostre femmine sono testate per:</p>
-  <p>✓ <strong>L2HGA</strong> — Aciduria L-2-Idrossiglutarica<br>
-  ✓ <strong>HC</strong> — Cataratta Ereditaria<br>
-  ✓ <strong>DM-SOD1</strong> — Mielopatia degenerativa<br>
-  ✓ <strong>Dentatura</strong> — Chiusura a forbice completa</p>
-  </div>
-  </div>
-  </section>
-  <!--/BLOCCO:2-->
-
-  <!--BLOCCO:3-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Le Nostre Femmine</span>
@@ -290,6 +271,26 @@ custom_content: |
   </div>
   </article>
 
+  </div>
+  </section>
+  <!--/BLOCCO:2-->
+
+  <!--BLOCCO:3-->
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">Il Nostro Approccio</span>
+  <h2 class="section-title">Selezione e Cura delle Nostre Femmine</h2>
+
+  <div class="intro-block">
+  <p>Le fattrici di Del Piccolo Diavolo sono otto Staffordshire Bull Terrier femmine, e per ognuna il sito pubblica il numero di microchip, il numero di libro genealogico ENCI, <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">i test genetici</a> e il collegamento alla scheda su SBTPedigree. Con il microchip chiunque può consultare sul libro genealogico ENCI quante cucciolate ha fatto una femmina: da noi la media è di due per cane, ben sotto il limite consentito dal regolamento. Alcune non vivono qui &mdash; una è in Germania con i suoi proprietari, un'altra è stata ceduta a una famiglia &mdash; e anche questo è scritto nella loro scheda, con il nome di chi le ha oggi. Le linee di provenienza sono inglesi e irlandesi, in particolare Elitebull e Lackyle, e i soggetti importati arrivano da Russia, Germania e Irlanda.</p>
+
+  <p>Cresciute con cura e responsabilità, le nostre femmine sono selezionate per <strong>salute</strong>, <strong>tipicità di razza</strong> e <strong>temperamento equilibrato</strong>. Ogni accoppiamento è pianificato sulla base dei test genetici e della compatibilità delle linee.</p>
+  <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Le nostre femmine sono testate per:</p>
+  <p>✓ <strong>L2HGA</strong> — Aciduria L-2-Idrossiglutarica<br>
+  ✓ <strong>HC</strong> — Cataratta Ereditaria<br>
+  ✓ <strong>DM-SOD1</strong> — Mielopatia degenerativa<br>
+  ✓ <strong>Dentatura</strong> — Chiusura a forbice completa</p>
+  </div>
   </div>
   </section>
   <!--/BLOCCO:3-->
