@@ -25,8 +25,6 @@ stato: "completa"
 scheda:
   madre: "Bilquis Goddess Diabhal, Italienische Championin ENCI, 4. Platz bei der World Dog Show"
   padre: "Black Jack di Casa Giacalone"
-  maschi: 4
-  femmine: 4
   colori: "schwarz sowie schwarz gestromt mit Weiß"
   foto:
     - src: "/images/cuccioli-bilquis-nati-1.webp"

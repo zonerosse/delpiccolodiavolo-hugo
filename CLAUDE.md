@@ -283,3 +283,8 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
   `.continua`/`.tendina`; on phones the two parents in litter cards sit side by side and galleries are 3 in a row.
   Puppies page: reviews moved right after the litters (`MAPPE["cuccioli"]` in segna.py updated, block numbers unchanged).
   Lines added inside `custom_content:` must keep the block's indentation, or the YAML block ends early.
+
+## Niente numero di cuccioli sul sito (15/10/2026, Paolo)
+- "Non voglio spiattellare quanti cuccioli faccio": il sito non mostra mai quanti cuccioli, maschi o femmine sono nati.
+  Tolti da cucciolate.html (Hugo e JS), ultima-cucciolata-scheda.html (resta solo "Colori"), front matter scheda.maschi/femmine
+  dei diari Bilquis, riga vuota "Geborene Welpen" del diario Red Nora DE. Il gestionale non manda più n/m/f e non li scrive nei testi.

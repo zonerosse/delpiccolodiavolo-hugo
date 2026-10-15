@@ -78,7 +78,6 @@ Ihr Browser unterstützt kein Video.
 
 **Geburtsdatum:** 9. Februar 2026
 
-**Geborene Welpen:**
 **[Farben](/de/staffordshire-bull-terrier-farben/ "Die Farben des Staffordshire Bull Terrier"):** gestromt und rot-weiß
 
 **Status:** Nicht verfügbar

@@ -28,7 +28,7 @@
   "h2" "L'ultima cucciolata di Staffordshire Bull Terrier dell'allevamento"
   "nati" "Nati il"
   "av" "Disponibili" "na" "Non disponibili"
-  "madre" "Madre" "padre" "Padre" "cuccioli" "Cuccioli" "ped" "Pedigree"
+  "madre" "Madre" "padre" "Padre" "cuccioli" "Cuccioli" "colori" "Colori" "ped" "Pedigree"
   "m" "maschi" "f" "femmine" "e" "e"
   "pedtxt" "ENCI, con i referti dei test dei genitori pubblicati"
   "txtNa" "Tutti i cuccioli di questa cucciolata hanno già una famiglia. Nel diario restano le foto della crescita%s e i dati dei genitori. La prossima cucciolata compare qui appena nasce."
@@ -44,7 +44,7 @@
   "h2" "Our latest Staffordshire Bull Terrier litter"
   "nati" "Born"
   "av" "Available" "na" "Not available"
-  "madre" "Dam" "padre" "Sire" "cuccioli" "Puppies" "ped" "Pedigree"
+  "madre" "Dam" "padre" "Sire" "cuccioli" "Puppies" "colori" "Colours" "ped" "Pedigree"
   "m" "males" "f" "females" "e" "and"
   "pedtxt" "ENCI, with the parents' test reports published"
   "txtNa" "All the puppies from this litter already have their families. The diary keeps the growth photos%s and the parents' details. The next litter will appear here as soon as it is born."
@@ -60,7 +60,7 @@
   "h2" "Unser neuester Staffordshire Bull Terrier Wurf"
   "nati" "Geboren am"
   "av" "Verfügbar" "na" "Nicht verfügbar"
-  "madre" "Mutter" "padre" "Vater" "cuccioli" "Welpen" "ped" "Ahnentafel"
+  "madre" "Mutter" "padre" "Vater" "cuccioli" "Welpen" "colori" "Farben" "ped" "Ahnentafel"
   "m" "Rüden" "f" "Hündinnen" "e" "und"
   "pedtxt" "ENCI, mit veröffentlichten Testbefunden der Eltern"
   "txtNa" "Alle Welpen dieses Wurfs haben bereits ihre Familie. Im Tagebuch bleiben die Fotos vom Heranwachsen%s und die Daten der Eltern. Der nächste Wurf erscheint hier, sobald er geboren ist."
@@ -108,8 +108,9 @@
 {{- with $s.padre }}
 <p style="margin:0 0 0.45rem;"><strong>{{ index $t "padre" }}:</strong> {{ . }}</p>
 {{- end }}
-{{- if or $s.maschi $s.femmine }}
-<p style="margin:0 0 0.45rem;"><strong>{{ index $t "cuccioli" }}:</strong> {{ $s.maschi | default 0 }} {{ index $t "m" }} {{ index $t "e" }} {{ $s.femmine | default 0 }} {{ index $t "f" }}{{ with $s.colori }}, {{ . }}{{ end }}</p>
+{{- /* niente numero di cuccioli, maschi e femmine (Paolo, 15/10/2026: "non voglio spiattellare quanti cuccioli faccio"); restano i colori */ -}}
+{{- with $s.colori }}
+<p style="margin:0 0 0.45rem;"><strong>{{ index $t "colori" }}:</strong> {{ . }}</p>
 {{- end }}
 <p style="margin:0 0 1rem;"><strong>{{ index $t "ped" }}:</strong> {{ index $t "pedtxt" }}</p>
 <p style="margin:0 0 1.2rem;line-height:1.65;">{{ printf (cond $disp (index $t "txtAv") (index $t "txtNa")) $video }}</p>
