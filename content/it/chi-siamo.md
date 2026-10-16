@@ -1,5 +1,5 @@
 ---
-title: "Chi Siamo"
+title: "Chi siamo"
 titleSeo: "Chi siamo: allevatori di Staffordshire Bull Terrier dal 2013"
 date: 2025-12-28
 lastmod: 2026-10-13
@@ -60,7 +60,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Come È Nato</span>
-  <h2 class="section-title">La Nostra Storia</h2>
+  <h2 class="section-title">La nostra storia</h2>
 
   <div class="story-block">
   <div class="story-text">
@@ -124,7 +124,7 @@ custom_content: |
 
   <p>Ogni accoppiamento &egrave; pianificato: si studiano i pedigree, si valuta la compatibilit&agrave; genetica, si aspetta il momento giusto. Se quel momento non arriva, quell'anno non nasce niente.</p>
 
-  <p>Prima di usare uno Staffordshire Bull Terrier in riproduzione lo osservo per mesi: come sta in casa, con gli estranei, con gli altri cani, <a href="/famiglia-bambini-convivenza/" title="Staffordshire Bull Terrier e Bambini: Convivenza Sicura">con i bambini</a>. Un cane che non &egrave; sicuro di s&eacute; non entra nel programma, per bello che sia.</p>
+  <p>Prima di usare uno Staffordshire Bull Terrier in riproduzione lo osservo per mesi: come sta in casa, con gli estranei, con gli altri cani, <a href="/famiglia-bambini-convivenza/" title="Staffordshire Bull Terrier e bambini: convivenza sicura">con i bambini</a>. Un cane che non &egrave; sicuro di s&eacute; non entra nel programma, per bello che sia.</p>
 
   </div>
   </section>
@@ -163,7 +163,7 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <section class="cta-section">
-  <h2>Vuoi Conoscerci?</h2>
+  <h2>Vuoi conoscerci?</h2>
   <p>Vieni a trovarci a Ostellato (FE) o contattaci su WhatsApp</p>
   <a href="/wa/393924635584" class="btn" title="Scrivici su WhatsApp">Scrivici su WhatsApp</a>
   </section>

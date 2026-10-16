@@ -1,5 +1,5 @@
 ---
-title: "Staffy and Children: Family Life"
+title: "Staffy and children: family life"
 date: 2024-05-28
 titleSeo: "Staffordshire Bull Terrier with children: family life"
 lastmod: 2026-10-13
@@ -25,7 +25,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Family</span>
-  <h1 class="hero-title">Staffy and <em>Children</em></h1>
+  <h1 class="hero-title">Staffy and <em>children</em></h1>
   <p class="hero-subtitle">Safe interactions and lasting bonds</p>
   <div class="hero-meta">
   <span>📅 May 28, 2024</span>

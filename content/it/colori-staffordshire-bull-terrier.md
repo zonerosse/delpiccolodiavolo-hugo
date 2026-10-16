@@ -20,7 +20,7 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Standard e Linee di Sangue</span>
+  <span class="hero-eyebrow">Standard e linee di sangue</span>
   <h1 class="hero-title">I colori dello <em>Staffordshire Bull Terrier</em></h1>
   <p class="hero-subtitle">Nero, tigrato, fulvo, blu e pezzati: quali sono ammessi e cosa sapere</p>
   <div class="hero-meta">
@@ -110,7 +110,7 @@ custom_content: |
   <!--/BLOCCO:8-->
 
   <!--BLOCCO:9-->
-  <h2>Domande Frequenti</h2>
+  <h2>Domande frequenti</h2>
   <!--/BLOCCO:9-->
 
   <section class="faq">

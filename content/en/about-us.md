@@ -49,9 +49,9 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Our Values</span>
-  <h2 class="section-title">What Guides Us</h2>
+  <h2 class="section-title">What guides us</h2>
   <div class="values-grid">
-  <div class="value-card"><h3>🧬 Genetic Testing</h3><p>All breeding dogs tested for L2HGA and HC, or clear by parentage</p></div>
+  <div class="value-card"><h3>🧬 Genetic testing</h3><p>All breeding dogs tested for L2HGA and HC, or clear by parentage</p></div>
   <div class="value-card"><h3>🏠 Family Raised</h3><p>Puppies socialized in a home environment</p></div>
   <div class="value-card"><h3>📞 Support</h3><p>Assistance for the dog's entire life</p></div>
   <div class="value-card"><h3>🏆 Top Lines</h3><p>Elitebull (UK) and Lackyle (Ireland)</p></div>
@@ -64,7 +64,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">How It Began</span>
-  <h2 class="section-title">Our Story</h2>
+  <h2 class="section-title">Our story</h2>
 
   <div class="story-block" style="grid-template-columns:1fr">
   <div class="story-text">
@@ -91,21 +91,21 @@ custom_content: |
   <!--BLOCCO:4-->
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">Our Approach</span>
-  <h2 class="section-title">Breeding Philosophy</h2>
+  <span class="section-label">Our approach</span>
+  <h2 class="section-title">Breeding philosophy</h2>
 
   <div class="story-block">
   <div class="story-text">
-  <h3>Quality, Not Quantity</h3>
+  <h3>Quality, not quantity</h3>
   <p>1-2 litters per year. Every pairing is planned: we study pedigrees, evaluate genetic compatibility, wait for the right moment. Every litter born here, with parents, tests, examinations and growth photos, is recorded in the <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a>.</p>
-  <h3 style="margin-top:1.2rem">Character Selection</h3>
+  <h3 style="margin-top:1.2rem">Character selection</h3>
   <p>Before including a dog in our program, we observe it for months: behavior at home, with strangers, other dogs, children. It must be confident, balanced, sociable.</p>
   </div>
   <img src="/images/20250922175108-4a225f3e-sm--1-.webp" alt="Newborn Staffy puppies" class="story-img" width="247" height="288" loading="lazy" decoding="async">
   </div>
 
   <div class="checklist">
-  <h3>What You Receive With Our Puppy</h3>
+  <h3>What you receive with our puppy</h3>
   <ul>
   <li>ENCI Pedigree — FCI certificate recognized worldwide</li>
   <li>Microchip registered with canine registry</li>
@@ -175,7 +175,7 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <section class="cta-section">
-  <h2>Want to Meet Us?</h2>
+  <h2>Want to meet us?</h2>
   <p>Come visit us in Ostellato (FE) or contact us on WhatsApp</p>
   <a href="/wa/393924635584" class="btn" title="Write us on WhatsApp">Write Us on WhatsApp</a>
   </section>

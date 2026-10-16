@@ -2,7 +2,7 @@
 title: "Maschi Staffordshire Bull Terrier"
 titleSeo: "Maschi Staffordshire Bull Terrier: pedigree e test genetici"
 date: 2025-12-28
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "maschi"
 description: "I maschi Staffordshire Bull Terrier dell'allevamento: Lothar, Campione Sloveno e Giovane Campione Italiano, Braveheart e Papillon, con test L2HGA e HC."
@@ -89,7 +89,7 @@ custom_content: |
   <img src="/images/maschio-braveheart.webp" alt="Braveheart del Piccolo Diavolo — Staffordshire Bull Terrier" width="350" height="350" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
-  <p><strong>Test Genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>Test genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
   <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> Jackie Kennedy Great'n Glory</p>
   <p><strong>Madre:</strong> Alport The Sandman</p>
@@ -109,7 +109,7 @@ custom_content: |
   <img src="/images/maschio-papillon.webp" alt="Papillon del Piccolo Diavolo — Staffordshire Bull Terrier" width="350" height="438" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
-  <p><strong>Test Genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>Test genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
   <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> Jackie Kennedy Great'n Glory</p>
   <p><strong>Madre:</strong> Alport The Sandman</p>
@@ -127,7 +127,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Il Nostro Approccio</span>
-  <h2 class="section-title">Etica, Salute e Selezione Responsabile</h2>
+  <h2 class="section-title">Etica, salute e selezione responsabile</h2>
 
   <div class="intro-block">
   <p>Del Piccolo Diavolo non tiene maschi riproduttori di propriet&agrave;, ed &egrave; una scelta. Per ogni accoppiamento <a href="/genitori-visibili-cosa-significa/" title="Genitori visibili: cosa significa">lo stallone viene cercato fuori</a>, fra le linee inglesi Elitebull e irlandesi Lackyle, e scelto per correggere quello che manca alla femmina: se una fattrice ha una testa eccellente e un movimento migliorabile, serve un maschio solido sul movimento, non uno bello quanto lei. Tenere un maschio in casa significherebbe usarlo perch&eacute; c'&egrave;, e chiudere le linee su un solo soggetto. Prima di un accoppiamento chiediamo al proprietario i referti dei test genetici con il numero di microchip sopra, non promesse: se un maschio &egrave; testato per alcune patologie e non per tutte, lo sappiamo prima e lo scriviamo nella pagina di quella cucciolata.</p>
@@ -139,7 +139,7 @@ custom_content: |
   <p>✓ <strong>L2HGA</strong> — Aciduria L-2-Idrossiglutarica<br>
   ✓ <strong>HC</strong> — Cataratta Ereditaria<br>
   ✓ <strong>Dentatura</strong> — Chiusura a forbice completa</p>
-  <p style="margin-top:1.2rem">Solo soggetti <strong>esenti</strong> vengono utilizzati, garantendo cuccioli sani e una discendenza robusta.</p>
+  <p style="margin-top:1.2rem">Usiamo solo soggetti <strong>esenti</strong>: con due genitori esenti nessun cucciolo può nascere malato di queste malattie.</p>
   </div>
   </div>
   </section>
@@ -148,7 +148,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <section class="cta-section">
-  <h2>Vuoi Info sui Nostri Maschi?</h2>
+  <h2>Vuoi info sui nostri maschi?</h2>
   <p>Chiamaci o scrivici su WhatsApp per informazioni sui nostri riproduttori.</p>
   <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sui%20maschi%20Staffordshire%20Bull%20Terrier" class="btn" title="Scrivici su WhatsApp per info maschi">Scrivici su WhatsApp</a>
   </section>

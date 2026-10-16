@@ -1,5 +1,5 @@
 ---
-title: "Staffordshire Bull Terrier Reviews"
+title: "Staffordshire Bull Terrier reviews"
 titleSeo: "Staffordshire Bull Terrier reviews from our families"
 date: 2025-12-28
 lastmod: 2026-10-13
@@ -18,7 +18,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">⭐ <!--REC-VOTO-->/5 on Google</span>
-  <h1 class="hero-title">Our <br><em>Reviews</em></h1>
+  <h1 class="hero-title">Our <br><em>reviews</em></h1>
   <p class="hero-subtitle"><!--REC-TOTALE--> verified testimonials</p>
   <p class="hero-description">The experiences of the families who took one of our Staffordshire Bull Terriers, each with a link to the original review on Google.</p>
   <div class="hero-actions">
@@ -41,7 +41,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Testimonials</span>
-  <h2 class="section-title">What Owners Say</h2>
+  <h2 class="section-title">What owners say</h2>
 
   <div class="reviews-grid">
 
@@ -310,7 +310,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Our Reputation</span>
-  <h2 class="section-title">Why Reviews Matter</h2>
+  <h2 class="section-title">Why reviews matter</h2>
 
   <p>Del Piccolo Diavolo has an average rating of <!--REC-VOTO--> from <!--REC-TOTALE--> reviews published on the kennel's Google profile, all verifiable at the source: every review shown on this page carries the name of the person who wrote it and a direct link to the original on Google, where anyone can read it without going through us. They are families who took a Staffordshire Bull Terrier puppy from Ostellato, in the province of Ferrara, between 2013 and today. A review shown on a website without a link to its source cannot be verified: anyone could have written it, the breeder included. It is the same principle as the genetic test reports, which are published here with the dog's microchip number on them. The reviews tell the story of the placement; what happened afterwards, years later, is told in the <a href="/en/staffordshire-family-life-stories/" title="Family stories">stories of the dogs we bred</a>.</p>
   <div class="values-grid">
@@ -327,7 +327,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner" style="text-align:center">
   <span class="section-label">Adopted one of our puppies?</span>
-  <h2 class="section-title">Share Your Experience</h2>
+  <h2 class="section-title">Share your experience</h2>
 
   <div class="cta-buttons">
   <a href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" class="cta-btn" title="Read reviews on Google" aria-label="Read on Google (opens in a new tab)">

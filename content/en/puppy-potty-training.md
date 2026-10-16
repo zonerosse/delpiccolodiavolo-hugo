@@ -1,5 +1,5 @@
 ---
-title: "Puppies: Potty Training"
+title: "Puppies: potty training"
 date: 2025-05-22
 titleSeo: "Puppy potty training: method, timing and setbacks"
 lastmod: 2026-10-05
@@ -21,7 +21,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Puppies</span>
-  <h1 class="hero-title">Potty <em>Training</em></h1>
+  <h1 class="hero-title">Potty <em>training</em></h1>
   <p class="hero-subtitle">Routine, signals and accident management</p>
   <div class="hero-meta">
   <span>📅 May 22, 2025</span>

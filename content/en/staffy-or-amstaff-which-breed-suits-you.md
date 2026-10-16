@@ -1,6 +1,6 @@
 ---
-title: "Staffy or Amstaff, Which Suits You: the Breeder's Test"
-lastmod: 2026-10-05
+title: "Staffy or Amstaff, which suits you: the breeder's test"
+lastmod: 2026-10-17
 articolo: true
 image: "/images/blog/staffy-amstaff-hero.webp"
 og_image: "/images/og/schede/en/staffy-or-amstaff-which-breed-suits-you.jpg"
@@ -24,7 +24,7 @@ fonti_motivo: "This page sets out the test the Del Piccolo Diavolo kennel uses w
 </div>
 </div>
 <div class="hero-content">
-<span class="hero-eyebrow">Complete Guide</span>
+<span class="hero-eyebrow">Know the breed</span>
 <h1 class="hero-title">Staffy or Amstaff, which suits you: <em>the breeder's test</em></h1>
 <p class="hero-subtitle">You already know they are not the same dog. What remains are the seven questions we ask anyone who writes to us about a puppy</p>
   <div class="hero-meta">
@@ -106,7 +106,7 @@ fonti_motivo: "This page sets out the test the Del Piccolo Diavolo kennel uses w
 <!--BLOCCO:3-->
 
 <section class="dark-section">
-<h2>Would You Like to Meet Our Staffies?</h2>
+<h2>Would you like to meet our Staffies?</h2>
 <p>Come and visit the kennel and see the character of the Staffordshire Bull Terrier for yourself.</p>
 <a href="/wa/393924635584?text=Hi%20Paolo%2C%20I%27d%20like%20to%20visit%20the%20kennel" class="btn btn-light" title="Contact us on WhatsApp">Contact Us on WhatsApp</a>
 </section>

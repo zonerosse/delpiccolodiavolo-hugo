@@ -1,5 +1,5 @@
 ---
-title: "Igiene Orale e Denti Staffordshire Bull Terrier"
+title: "Igiene orale e denti Staffordshire Bull Terrier"
 date: 2024-06-18
 lastmod: 2026-10-13
 translationKey: "denti"
@@ -10,7 +10,7 @@ in_breve:
 articolo: true
 image: "/images/blog/salute-2.webp"
 og_image: "/images/og/schede/it/salute-denti-igiene.jpg"
-og_image_alt: "Igiene Orale e Denti Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
+og_image_alt: "Igiene orale e denti Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/salute-denti-igiene.webp"
 description: "Guida completa igiene orale Staffy: come spazzolare i denti, prevenire tartaro, scegliere snack dentali sicuri, gestire dentizione cuccioli e detartrasi."
 slug: "salute-denti-igiene"
@@ -23,8 +23,8 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Salute e Benessere</span>
-  <h1 class="hero-title">Igiene Orale e <em>Denti</em></h1>
+  <span class="hero-eyebrow">Salute e benessere</span>
+  <h1 class="hero-title">Igiene orale e <em>denti</em></h1>
   <p class="hero-subtitle">Spazzolatura, prevenzione tartaro e salute dentale</p>
   <div class="hero-meta">
   <span>📅 18 Giugno 2024</span>
@@ -44,8 +44,8 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a aria-label="Salute e Benessere — categoria del blog" href="/blog/#salute" title="Salute e Benessere">Salute e Benessere</a> ›
-  <span>Igiene Orale e Denti</span>
+  <a aria-label="Salute e benessere — categoria del blog" href="/blog/#salute" title="Salute e benessere">Salute e benessere</a> ›
+  <span>Igiene orale e denti</span>
   </nav>
 
   <div class="article-container">
@@ -123,7 +123,7 @@ custom_content: |
   <!--/BLOCCO:12-->
 
   <!--BLOCCO:13-->
-  <h2>Domande Frequenti</h2>
+  <h2>Domande frequenti</h2>
   <!--/BLOCCO:13-->
 
   <section class="faq">
@@ -163,8 +163,8 @@ custom_content: |
   <div class="related">
   <h3>Articoli correlati</h3>
   <ul>
-  <li><a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici">Test Genetici L2-HGA e HC</a></li>
-  <li><a href="/salute-parassiti-prevenzione/" title="Parassiti">Parassiti: Prevenzione e Controllo</a></li>
+  <li><a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici">Test genetici L2-HGA e HC</a></li>
+  <li><a href="/salute-parassiti-prevenzione/" title="Parassiti">Parassiti: Prevenzione e controllo</a></li>
   <li><a href="/cuccioli-alimentazione-iniziale/" title="Alimentazione">Alimentazione Iniziale del Cucciolo</a></li>
   <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento">Consigli prima di prendere un cucciolo</a></li>
   </ul>

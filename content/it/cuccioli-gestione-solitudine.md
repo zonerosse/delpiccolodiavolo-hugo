@@ -1,5 +1,5 @@
 ---
-title: "Cuccioli: Gestione della solitudine"
+title: "Cuccioli: gestione della solitudine"
 date: 2025-07-08
 titleSeo: "Insegnare al cucciolo a restare solo, senza stress"
 lastmod: 2026-10-05
@@ -21,7 +21,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Cuccioli</span>
-  <h1 class="hero-title">Gestione della <em>Solitudine</em></h1>
+  <h1 class="hero-title">Gestione della <em>solitudine</em></h1>
   <p class="hero-subtitle">Dai trenta secondi alle quattro ore, senza scene</p>
   <div class="hero-meta">
   <span>📅 8 Luglio 2025</span>

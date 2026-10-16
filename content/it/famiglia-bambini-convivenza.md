@@ -1,5 +1,5 @@
 ---
-title: "Staffordshire Bull Terrier e Bambini: Convivenza Sicura"
+title: "Staffordshire Bull Terrier e bambini: convivenza sicura"
 date: 2024-05-28
 lastmod: 2026-10-13
 translationKey: "bambini"
@@ -10,7 +10,7 @@ in_breve:
 articolo: true
 image: "/images/blog/famiglia-1.webp"
 og_image: "/images/og/schede/it/famiglia-bambini-convivenza.jpg"
-og_image_alt: "Staffordshire Bull Terrier e Bambini: Convivenza Sicura — Allevamento Del Piccolo Diavolo"
+og_image_alt: "Staffordshire Bull Terrier e bambini: convivenza sicura — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/famiglia-bambini-convivenza.webp"
 description: "Guida completa convivenza Staffy e bambini: regole per età, supervisione attiva, segnali stress, giochi sicuri, prevenzione incidenti e primo incontro."
 slug: "famiglia-bambini-convivenza"
@@ -23,8 +23,8 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Famiglia e Convivenza</span>
-  <h1 class="hero-title">Staffy e <em>Bambini</em></h1>
+  <span class="hero-eyebrow">Famiglia e convivenza</span>
+  <h1 class="hero-title">Staffy e <em>bambini</em></h1>
   <p class="hero-subtitle">Regole chiare, supervisione attiva, interazioni sicure</p>
   <div class="hero-meta">
   <span>📅 28 Maggio 2024</span>
@@ -44,7 +44,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a aria-label="Famiglia e Convivenza — categoria del blog" href="/blog/#famiglia" title="Famiglia">Famiglia e Convivenza</a> ›
+  <a aria-label="Famiglia e convivenza — categoria del blog" href="/blog/#famiglia" title="Famiglia">Famiglia e convivenza</a> ›
   <span>Bambini e Convivenza</span>
   </nav>
 
@@ -172,7 +172,7 @@ custom_content: |
   <!--/BLOCCO:13-->
 
   <!--BLOCCO:14-->
-  <h2>Domande Frequenti</h2>
+  <h2>Domande frequenti</h2>
   <!--/BLOCCO:14-->
 
   <section class="faq">
@@ -225,7 +225,7 @@ custom_content: |
   <h3>Articoli correlati</h3>
   <ul>
   <li><a href="/famiglia-anziani-rispetto-ritmi/" title="Staffy anziani">Staffy Anziano: Rispetto dei Ritmi</a></li>
-  <li><a href="/famiglia-convivenza-altri-animali/" title="Altri animali">Convivenza con Altri Animali</a></li>
+  <li><a href="/famiglia-convivenza-altri-animali/" title="Altri animali">Convivenza con altri animali</a></li>
   <li><a href="/cuccioli-socializzazione-in-casa/" title="Socializzazione">Socializzazione nei Primi Mesi</a></li>
   <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento">Consigli prima di prendere un cucciolo</a></li>
   </ul>

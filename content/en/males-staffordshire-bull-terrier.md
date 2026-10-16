@@ -2,7 +2,7 @@
 title: "Male Staffordshire Bull Terriers"
 titleSeo: "Male Staffordshire Bull Terriers: pedigree and health tests"
 date: 2025-12-28
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "maschi"
 description: "Our male Staffordshire Bull Terriers: Lothar (Slovenian and Italian Junior Champion), Braveheart and Papillon. L2HGA and HC (HSF4) certified genetic testing."
@@ -126,8 +126,8 @@ custom_content: |
   <!--BLOCCO:3-->
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">Our Approach</span>
-  <h2 class="section-title">Ethics, Health and Responsible Selection</h2>
+  <span class="section-label">Our approach</span>
+  <h2 class="section-title">Ethics, health and responsible selection</h2>
 
   <div class="intro-block">
   <p>Del Piccolo Diavolo does not keep stud dogs of its own, and that is a choice. For every mating <a href="/en/parents-on-site-what-it-means/" title="&quot;Parents on site&quot;: what it really means">the stud is sought outside the kennel</a>, among English Elitebull and Irish Lackyle lines, and chosen to correct what the female lacks: if a bitch has an excellent head and movement that could be better, what she needs is a male who is sound on movement, not one as handsome as she is. Keeping a male at home would mean using him because he is there, and closing the lines on a single dog. Before a mating we ask the owner for the genetic test reports with the microchip number on them, not promises: if a male is tested for some conditions and not for all, we know it beforehand and we write it on that litter's page.</p>
@@ -139,7 +139,7 @@ custom_content: |
   <p>✓ <strong>L2HGA</strong> — L-2-Hydroxyglutaric Aciduria<br>
   ✓ <strong>HC</strong> — Hereditary Cataracts<br>
   ✓ <strong>Dentition</strong> — Complete scissor bite</p>
-  <p style="margin-top:1.2rem">Only <strong>clear</strong> or <strong>unaffected</strong> dogs are used, ensuring healthy puppies and robust offspring.</p>
+  <p style="margin-top:1.2rem">We only use <strong>clear</strong> or <strong>unaffected</strong> dogs: with two clear parents, no puppy can be born affected by these diseases.</p>
   </div>
   </div>
   </section>
@@ -148,7 +148,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <section class="cta-section">
-  <h2>Want Info About Our Males?</h2>
+  <h2>Want info about our males?</h2>
   <p>Call us or write on WhatsApp for information about our stud dogs.</p>
   <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20the%20male%20Staffordshire%20Bull%20Terriers" class="btn" title="Write us on WhatsApp for male info">Write Us on WhatsApp</a>
   </section>

@@ -1,5 +1,5 @@
 ---
-title: "Esercizio Sicuro per Staffordshire Bull Terrier"
+title: "Esercizio sicuro per Staffordshire Bull Terrier"
 date: 2024-06-20
 lastmod: 2026-10-13
 translationKey: "esercizio"
@@ -10,7 +10,7 @@ in_breve:
 articolo: true
 image: "/images/blog/esercizio-hero.webp"
 og_image: "/images/og/schede/it/salute-esercizio-sicuro.jpg"
-og_image_alt: "Esercizio Sicuro per Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
+og_image_alt: "Esercizio sicuro per Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/salute-esercizio-sicuro.webp"
 description: "Esercizio fisico sicuro per lo Staffordshire Bull Terrier: la regola dei 5 minuti per i cuccioli, attività per adulti, colpo di calore e segnali di sovraccarico."
 slug: "salute-esercizio-sicuro"
@@ -23,8 +23,8 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Salute e Benessere</span>
-  <h1 class="hero-title">Esercizio <em>Sicuro</em></h1>
+  <span class="hero-eyebrow">Salute e benessere</span>
+  <h1 class="hero-title">Esercizio <em>sicuro</em></h1>
   <p class="hero-subtitle">Attività fisica per cuccioli e adulti senza rischi</p>
   <div class="hero-meta">
   <span>📅 20 Giugno 2024</span>
@@ -44,7 +44,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a aria-label="Salute e Benessere — categoria del blog" href="/blog/#salute" title="Salute e Benessere">Salute e Benessere</a> ›
+  <a aria-label="Salute e benessere — categoria del blog" href="/blog/#salute" title="Salute e benessere">Salute e benessere</a> ›
   <span>Esercizio Sicuro</span>
   </nav>
 
@@ -55,7 +55,7 @@ custom_content: |
 
 
   <!--BLOCCO:2-->
-  <h2>Perché l'Esercizio è Fondamentale per lo Staffy</h2>
+  <h2>Perché l'esercizio è fondamentale per lo Staffy</h2>
 
   <p>Lo <strong>Staffordshire Bull Terrier</strong> è stato selezionato storicamente come cane da lavoro, dotato di muscolatura potente, resistenza e grande energia. Questa eredità genetica richiede uno sfogo adeguato attraverso l'attività fisica quotidiana.</p>
 
@@ -76,7 +76,7 @@ custom_content: |
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
-  <h2>Esercizio per Cuccioli: La Regola dei 5 Minuti</h2>
+  <h2>Esercizio per cuccioli: la regola dei 5 minuti</h2>
 
   <p>I <strong>cuccioli di Staffordshire Bull Terrier</strong> sono pieni di energia, ma le loro ossa, articolazioni e cartilagini di accrescimento sono ancora in fase di sviluppo. Un esercizio eccessivo o inappropriato può causare danni permanenti.</p>
 
@@ -123,7 +123,7 @@ custom_content: |
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
-  <h2>Esercizio per Adulti: Quanto e Come</h2>
+  <h2>Esercizio per adulti: quanto e come</h2>
 
   <p>Uno <strong>Staffordshire Bull Terrier adulto</strong> (oltre 18 mesi) ha bisogno di movimento ogni giorno, in almeno 2 uscite, ma <strong>non esiste un minutaggio giusto per tutti</strong>: dipende dal soggetto, perché alcuni sono più atletici e altri più tranquilli. Quello che vale per tutti è evitare le sollecitazioni eccessive, soprattutto da giovani.</p>
 
@@ -160,7 +160,7 @@ custom_content: |
   <!--/BLOCCO:4-->
 
   <!--BLOCCO:5-->
-  <h2>Attenzione al Caldo: Prevenire il Colpo di Calore</h2>
+  <h2>Attenzione al caldo: prevenire il colpo di calore</h2>
 
   <p>Lo <strong>Staffordshire Bull Terrier</strong> ha una <a href="/boas-staffordshire-bull-terrier-respirazione/" title="BOAS e respirazione nello Staffordshire Bull Terrier">muso più corto di molte razze</a> (non è una razza brachicefala, ma in alcune linee il muso è troppo corto) che lo rende <strong>più sensibile al caldo</strong> rispetto a razze dal muso lungo. La termoregolazione attraverso l'ansimazione è meno efficiente.</p>
 
@@ -216,7 +216,7 @@ custom_content: |
   <!--/BLOCCO:5-->
 
   <!--BLOCCO:6-->
-  <h2>Segnali di Sovraccarico: Quando Fermarsi</h2>
+  <h2>Segnali di sovraccarico: quando fermarsi</h2>
 
   <p>Lo Staffy è un cane che <strong>non si risparmia</strong>: giocherebbe fino allo sfinimento pur di accontentare il proprietario. Sta a te riconoscere i segnali di stanchezza e fermarti prima che sia troppo.</p>
 
@@ -244,7 +244,7 @@ custom_content: |
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->
-  <h2>Attività da Evitare o Limitare</h2>
+  <h2>Attività da evitare o limitare</h2>
 
   <div class="alert">
   <p class="alert-title">🚫 Evita sempre</p>
@@ -269,11 +269,11 @@ custom_content: |
   <!--/BLOCCO:7-->
 
   <!--BLOCCO:8-->
-  <h2>Costruire una Routine Equilibrata</h2>
+  <h2>Costruire una routine equilibrata</h2>
 
   <p>Una routine ben strutturata garantisce che il tuo Staffy riceva l'esercizio necessario senza rischi.</p>
 
-  <h3>Esempio routine giornaliera - Adulto</h3>
+  <h3>Esempio routine giornaliera - adulto</h3>
 
   <ul>
   <li><strong>Mattina (7:00):</strong> Passeggiata 30-40 minuti con esplorazione libera</li>
@@ -282,7 +282,7 @@ custom_content: |
   <li><strong>Sera (20:00):</strong> Passeggiata rilassante 20-30 minuti</li>
   </ul>
 
-  <h3>Esempio routine - Cucciolo 4 mesi</h3>
+  <h3>Esempio routine - cucciolo 4 mesi</h3>
 
   <ul>
   <li><strong>Mattina:</strong> Passeggiata breve 15-20 minuti su erba</li>
@@ -326,7 +326,7 @@ custom_content: |
   <!--/BLOCCO:11-->
 
   <!--BLOCCO:12-->
-  <h2>Domande Frequenti</h2>
+  <h2>Domande frequenti</h2>
   <!--/BLOCCO:12-->
 
   <section class="faq">
@@ -366,9 +366,9 @@ custom_content: |
   <div class="related">
   <h3>Articoli correlati</h3>
   <ul>
-  <li><a href="/salute-denti-igiene/" title="Igiene orale">Igiene Orale e Denti</a></li>
-  <li><a href="/salute-parassiti-prevenzione/" title="Parassiti">Parassiti: Prevenzione e Controllo</a></li>
-  <li><a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici">Test Genetici L2-HGA e HC</a></li>
+  <li><a href="/salute-denti-igiene/" title="Igiene orale">Igiene orale e denti</a></li>
+  <li><a href="/salute-parassiti-prevenzione/" title="Parassiti">Parassiti: Prevenzione e controllo</a></li>
+  <li><a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici">Test genetici L2-HGA e HC</a></li>
   <li><a href="/cuccioli-alimentazione-iniziale/" title="Alimentazione">Alimentazione Iniziale del Cucciolo</a></li>
   </ul>
   </div>

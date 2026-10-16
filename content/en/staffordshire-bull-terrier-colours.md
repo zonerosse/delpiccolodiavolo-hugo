@@ -1,5 +1,5 @@
 ---
-title: "Staffordshire Bull Terrier Colours: Black, Brindle, Blue and More"
+title: "Staffordshire Bull Terrier colours: black, brindle, blue and more"
 date: 2026-08-01
 lastmod: 2026-10-08
 titleSeo: "Staffordshire Bull Terrier colours: black, brindle, blue"
@@ -20,8 +20,8 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Standard and Bloodlines</span>
-  <h1 class="hero-title">Staffordshire Bull Terrier <em>Colours</em></h1>
+  <span class="hero-eyebrow">Standard and bloodlines</span>
+  <h1 class="hero-title">Staffordshire Bull Terrier <em>colours</em></h1>
   <p class="hero-subtitle">Black, brindle, fawn, blue and pied: which are allowed and what to know</p>
   <div class="hero-meta">
   <span>📅 August 2026</span>
@@ -41,7 +41,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> ›
   <a href="/en/blog/" title="Blog">Blog</a> ›
-  <span>Staffordshire Bull Terrier Colours</span>
+  <span>Staffordshire Bull Terrier colours</span>
   </nav>
 
   <div class="article-container">
@@ -111,7 +111,7 @@ custom_content: |
   <!--/BLOCCO:8-->
 
   <!--BLOCCO:9-->
-  <h2>Frequently Asked Questions</h2>
+  <h2>Frequently asked questions</h2>
   <!--/BLOCCO:9-->
 
   <section class="faq">

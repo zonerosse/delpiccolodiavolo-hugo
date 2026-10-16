@@ -1,5 +1,5 @@
 ---
-title: "Storia delle Linee di Sangue dello Staffordshire Bull Terrier"
+title: "Storia delle linee di sangue dello Staffordshire Bull Terrier"
 date: 2025-11-08
 lastmod: 2026-10-13
 titleSeo: "Storia delle linee di sangue dello Staffy"
@@ -24,8 +24,8 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Standard e Linee di Sangue</span>
-  <h1 class="hero-title"><em>Storia</em> delle Linee di Sangue</h1>
+  <span class="hero-eyebrow">Standard e linee di sangue</span>
+  <h1 class="hero-title"><em>Storia</em> delle linee di sangue</h1>
   <p class="hero-subtitle">Genealogia e fondatori dello Staffordshire Bull Terrier</p>
   <div class="hero-meta">
   <span>📅 8 Novembre 2025</span>
@@ -148,7 +148,7 @@ custom_content: |
   <!--/BLOCCO:10-->
 
   <!--BLOCCO:11-->
-  <h2>Domande Frequenti</h2>
+  <h2>Domande frequenti</h2>
   <!--/BLOCCO:11-->
 
   <section class="faq">
@@ -159,7 +159,7 @@ custom_content: |
   </div>
 
   <div class="faq-item">
-  <h3 class="faq-question">Cos'è la Linea M e perché è così importante?</h3>
+  <h3 class="faq-question">Cos'è la linea M e perché è così importante?</h3>
   <div class="faq-answer">La Linea M &egrave; una delle linee maschili fondatrici della razza, ed &egrave; diventata la pi&ugrave; diffusa a livello internazionale: gran parte degli Staffordshire Bull Terrier moderni vi discende, anche quando il nome non compare nelle prime generazioni del pedigree. Su SBTPedigree la linea di discendenza maschile di un cane &egrave; indicata esplicitamente, e vederla non &egrave; un dettaglio da collezionisti: <strong>dice da dove viene la parte pi&ugrave; conservativa del patrimonio genetico</strong>, quella trasmessa di padre in figlio. La sua diffusione ha un rovescio: pi&ugrave; una linea &egrave; presente ovunque, pi&ugrave; &egrave; facile trovarsela raddoppiata in un accoppiamento senza essersene accorti. &Egrave; esattamente quello che la prova di accoppiamento serve a mostrare prima.</div>
   </div>
 

@@ -1,5 +1,5 @@
 ---
-title: "Il Temperamento dello Staffordshire Bull Terrier: Come Nasce"
+title: "Il temperamento dello Staffordshire Bull Terrier: come nasce"
 lastmod: 2026-10-05
 titleSeo: "Temperamento dello Staffy: come è stato selezionato"
 articolo: true
@@ -34,7 +34,7 @@ correlati:
 </div>
 <div class="hero-content">
 <span class="hero-eyebrow">Conosci la Razza</span>
-<h1 class="hero-title">Il Temperamento dello Staffordshire Bull Terrier: Come Nasce</h1>
+<h1 class="hero-title">Il temperamento dello Staffordshire Bull Terrier: come nasce</h1>
 <p class="hero-subtitle">Perché questo cane è fatto così, e cosa significa scegliere il carattere</p>
   <div class="hero-meta">
   <span>📅 18 Gennaio 2026</span>
@@ -124,7 +124,7 @@ correlati:
 <!--BLOCCO:3-->
 
 <section class="cta-section">
-<h2>Vuoi Conoscere i Nostri Staffy di Persona?</h2>
+<h2>Vuoi conoscere i nostri Staffy di persona?</h2>
 <p>Il modo migliore per capire il carattere di una linea è incontrare i cani adulti. Scrivici per fissare una visita.</p>
 <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20conoscere%20i%20vostri%20cani" class="btn" title="Scrivici su WhatsApp">Scrivici su WhatsApp</a>
 </section>

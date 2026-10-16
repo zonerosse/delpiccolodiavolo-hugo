@@ -1,5 +1,5 @@
 ---
-title: "Is Staffordshire Bull Terrier Dangerous? Italian Law"
+title: "Is Staffordshire Bull Terrier dangerous? Italian law"
 date: 2025-11-18
 lastmod: 2026-10-13
 translationKey: "pericoloso"
@@ -10,7 +10,7 @@ in_breve:
 articolo: true
 image: "/images/blog/hero-default.webp"
 og_image: "/images/og/schede/en/staffy-dangerous-breed-law.jpg"
-og_image_alt: "Is Staffordshire Bull Terrier Dangerous? Italian Law — Allevamento Del Piccolo Diavolo"
+og_image_alt: "Is Staffordshire Bull Terrier dangerous? Italian law — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/staffy-pericoloso-legge-italia.webp"
 description: "Is the Staffy dangerous? The VetCompass study, Italian law since 2009 and the Lombardy proposal: data and legislation instead of prejudice, country by country."
 slug: "staffy-dangerous-breed-law"
@@ -24,7 +24,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Legislation</span>
-  <h1 class="hero-title">Is the Staffy <em>Dangerous</em>?</h1>
+  <h1 class="hero-title">Is the Staffy <em>dangerous</em>?</h1>
   <p class="hero-subtitle">What the law says</p>
   <div class="hero-meta">
   <span>📅 November 25, 2025</span>
@@ -212,9 +212,9 @@ custom_content: |
   <li><a href="/en/staffy-bloodlines-guide/" title="Staffy bloodlines: the history of the six lines">Staffy bloodlines: the history of the six lines</a></li>
   <li><a href="/en/males-staffordshire-bull-terrier/" title="Male Staffordshire Bull Terriers: pedigree and health tests">Male Staffordshire Bull Terriers: pedigree and health tests</a></li>
   <li><a href="/en/females-staffordshire-bull-terrier/" title="Our female Staffies: microchips and pedigrees">Our female Staffies: microchips and pedigrees</a></li>
-  <li><a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Puppies, verifiable genetic tests">Staffordshire Bull Terrier Puppies, verifiable genetic tests</a></li>
+  <li><a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies, verifiable genetic tests">Staffordshire Bull Terrier puppies, verifiable genetic tests</a></li>
   <li><a href="/en/contact/" title="Contact – Staffordshire Bull Terrier Breeder">Contact – Staffordshire Bull Terrier Breeder</a></li>
-  <li><a href="/en/faq-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier FAQ - Frequently Asked Questions">Staffordshire Bull Terrier FAQ - Frequently Asked Questions</a></li>
+  <li><a href="/en/faq-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier FAQ - frequently asked questions">Staffordshire Bull Terrier FAQ - frequently asked questions</a></li>
   <li><a href="/en/reviews/" title="Staffordshire Bull Terrier reviews from our families">Staffordshire Bull Terrier reviews from our families</a></li>
   <li><a href="/en/staffordshire-bull-terrier-character-family-life/" title="Staffordshire Bull Terrier: character and family life">Staffordshire Bull Terrier: character and family life</a></li>
   </ul>

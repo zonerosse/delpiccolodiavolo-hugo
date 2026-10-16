@@ -1,5 +1,5 @@
 ---
-title: "Safe Exercise for Staffordshire Bull Terrier"
+title: "Safe exercise for Staffordshire Bull Terrier"
 date: 2024-06-20
 lastmod: 2026-10-13
 translationKey: "esercizio"
@@ -10,7 +10,7 @@ in_breve:
 articolo: true
 image: "/images/blog/salute-1.webp"
 og_image: "/images/og/schede/en/staffy-safe-exercise.jpg"
-og_image_alt: "Safe Exercise for Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
+og_image_alt: "Safe exercise for Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/salute-esercizio-sicuro.webp"
 description: "Safe exercise for the Staffordshire Bull Terrier: the five-minute rule for puppies, activity for adults, heatstroke prevention and the signs of overload."
 slug: "staffy-safe-exercise"
@@ -23,8 +23,8 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Health and Wellness</span>
-  <h1 class="hero-title">Safe <em>Exercise</em></h1>
+  <span class="hero-eyebrow">Health and wellness</span>
+  <h1 class="hero-title">Safe <em>exercise</em></h1>
   <p class="hero-subtitle">Activity guide for Staffordshire Bull Terrier</p>
   <div class="hero-meta">
   <span>📅 June 20, 2024</span>
@@ -337,7 +337,7 @@ custom_content: |
   <h3>More on this topic</h3>
   <ul>
   <li><a href="/en/staffy-dental-health/" title="Dental health for the Staffordshire Bull Terrier">Dental health for the Staffordshire Bull Terrier</a></li>
-  <li><a href="/en/staffy-parasite-prevention/" title="Parasite Prevention for Staffordshire Bull Terrier">Parasite Prevention for Staffordshire Bull Terrier</a></li>
+  <li><a href="/en/staffy-parasite-prevention/" title="Parasite prevention for Staffordshire Bull Terrier">Parasite prevention for Staffordshire Bull Terrier</a></li>
   <li><a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)">Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)</a></li>
   <li><a href="/en/puppy-initial-feeding/" title="Feeding a Staffordshire Bull Terrier puppy: first months">Feeding a Staffordshire Bull Terrier puppy: first months</a></li>
   </ul>

@@ -1,8 +1,8 @@
 ---
-title: "Genetic Testing L2-HGA, HC (HSF4) and DM (SOD1) for Staffordshire Bull Terrier"
+title: "Genetic testing L2-HGA, HC (HSF4) and DM (SOD1) for Staffordshire Bull Terrier"
 titleSeo: "Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)"
 date: 2025-11-20
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 translationKey: "test-genetici"
 in_breve:
   - "The Staffy has **three inherited diseases with a DNA test**: L2-HGA, hereditary cataract (HC) and degenerative myelopathy (DM)."
@@ -24,9 +24,9 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Health and Wellness</span>
-  <h1 class="hero-title">Genetic Testing <em>L2-HGA, HC and DM</em></h1>
-  <p class="hero-subtitle">Complete guide for Staffordshire Bull Terrier</p>
+  <span class="hero-eyebrow">Health and wellness</span>
+  <h1 class="hero-title">Genetic testing <em>L2-HGA, HC and DM</em></h1>
+  <p class="hero-subtitle">What they are, how to read the reports and what to ask the breeder</p>
   <div class="hero-meta">
   <span>📅 November 20, 2025</span>
   <span>⏱️ 15 min read</span>
@@ -45,7 +45,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> ›
   <a href="/en/blog/" title="Blog">Blog</a> ›
-  <span>Genetic Testing L2-HGA and HC</span>
+  <span>Genetic testing L2-HGA and HC</span>
   </nav>
 
   <div class="article-container">
@@ -58,7 +58,7 @@ custom_content: |
   <!--BLOCCO:2-->
   <h2>Why genetic testing is not optional</h2>
   <p>The Staffordshire Bull Terrier is a fundamentally healthy breed, but it carries two hereditary conditions that are both serious and entirely preventable: L2-HGA and hereditary cataract. Both are recessive, which means a dog can carry the mutation, show no sign of it for its whole life, and still produce affected puppies if mated to another carrier.</p>
-  <p>This is the crucial point that many families miss. A visibly healthy sire and dam prove nothing about the puppies. Only a DNA test on the parents tells you whether a litter can produce an affected dog, and since the tests have been available the two diseases have become, in responsible breeding, simply extinct. When an affected puppy is born today it is almost never bad luck: it is the consequence of a mating done without testing.</p>
+  <p>Many families miss this point. A visibly healthy sire and dam prove nothing about the puppies. Only a DNA test on the parents tells you whether a litter can produce an affected dog, and since the tests have been available the two diseases have become, in responsible breeding, simply extinct. When an affected puppy is born today it is almost never bad luck: it is the consequence of a mating done without testing.</p>
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->

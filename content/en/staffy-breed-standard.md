@@ -1,5 +1,5 @@
 ---
-title: "Staffy Breed Standard"
+title: "Staffy breed standard"
 date: 2025-02-12
 titleSeo: "Staffordshire Bull Terrier breed standard explained"
 lastmod: 2026-10-13
@@ -23,7 +23,7 @@ custom_content: |
   </div></div>
   <div class="hero-content">
   <span class="hero-eyebrow">Standard</span>
-  <h1 class="hero-title">Breed <em>Standard</em></h1>
+  <h1 class="hero-title">Breed <em>standard</em></h1>
   <p class="hero-subtitle">Type and morphology</p>
   <div class="hero-meta">
   <span>📅 February 12, 2025</span>

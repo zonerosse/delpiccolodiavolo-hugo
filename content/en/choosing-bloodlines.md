@@ -1,5 +1,5 @@
 ---
-title: "How to Choose Staffy Bloodlines"
+title: "How to choose Staffy bloodlines"
 date: 2025-03-05
 titleSeo: "Choosing Staffordshire Bull Terrier bloodlines"
 lastmod: 2026-10-05
@@ -21,7 +21,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Standards and Bloodlines</span>
-  <h1 class="hero-title">Choosing <em>Bloodlines</em></h1>
+  <h1 class="hero-title">Choosing <em>bloodlines</em></h1>
   <p class="hero-subtitle">Finding the right Staffy for you</p>
   <div class="hero-meta">
   <span>📅 March 5, 2025</span>

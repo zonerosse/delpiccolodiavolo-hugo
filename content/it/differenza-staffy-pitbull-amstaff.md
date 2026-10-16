@@ -2,7 +2,7 @@
 title: "Differenza tra Staffordshire Bull Terrier, Pitbull e Amstaff"
 titleSeo: "Staffy, Pitbull e Amstaff: come distinguerli"
 date: 2025-11-19
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 translationKey: "pitbull-amstaff"
 in_breve:
   - "Hanno la stessa origine, ma **oggi sono tre razze diverse**."
@@ -24,9 +24,9 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Standard e Linee di Sangue</span>
+  <span class="hero-eyebrow">Standard e linee di sangue</span>
   <h1 class="hero-title">Differenza tra <em>Staffy</em>, Pitbull e Amstaff</h1>
-  <p class="hero-subtitle">Guida completa per distinguere le tre razze</p>
+  <p class="hero-subtitle">Come distinguere le tre razze, a vista e sulla carta</p>
   <div class="hero-meta">
   <span>📅 19 Novembre 2025</span>
   <span>⏱️ 9 min lettura</span>
@@ -45,7 +45,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a aria-label="Standard e Linee — categoria del blog" href="/blog/#standard" title="Standard e Linee di Sangue">Standard e Linee</a> ›
+  <a aria-label="Standard e Linee — categoria del blog" href="/blog/#standard" title="Standard e linee di sangue">Standard e Linee</a> ›
   <span>Differenza Staffy, Pitbull, Amstaff</span>
   </nav>
 
@@ -56,7 +56,7 @@ custom_content: |
 
 
   <!--BLOCCO:2-->
-  <h2>Perché Si Confondono Queste Razze?</h2>
+  <h2>Perché si confondono queste razze?</h2>
 
   <p>La confusione tra <strong>Staffordshire Bull Terrier</strong>, <strong>American Pit Bull Terrier</strong> e <strong><a href="https://www.enci.it/media/2547/286.pdf" title="Standard FCI n. 286 dell’American Staffordshire Terrier, PDF ufficiale ENCI" target="_blank" rel="noopener" aria-label="Standard FCI n. 286 dell’American Staffordshire Terrier, PDF ufficiale ENCI (si apre in una nuova scheda)">American Staffordshire Terrier</a></strong> è estremamente comune, non solo tra i non addetti ai lavori ma anche nei media e talvolta nelle istituzioni. Questa confusione ha conseguenze concrete: leggi scritte male, pregiudizi ingiustificati e difficoltà per i proprietari.</p>
 
@@ -69,23 +69,23 @@ custom_content: |
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
-  <h2>Le Origini Storiche: Un Antenato Comune</h2>
+  <h2>Le origini storiche: un antenato comune</h2>
 
   <p>Per comprendere le differenze tra queste razze, è utile ripercorrere brevemente la loro storia comune e le successive divergenze.</p>
 
-  <h3>L'Inghilterra del XIX Secolo: I Bull and Terrier</h3>
+  <h3>L'Inghilterra del XIX secolo: i Bull and Terrier</h3>
 
   <p>Nel XIX secolo, in Inghilterra, erano popolari i combattimenti tra animali. I <strong>Bull and Terrier</strong> nacquero dall'incrocio tra Bulldog (forza, presa) e Terrier (agilità, tenacia). Questi cani venivano utilizzati per il "bull-baiting" (combattimenti con tori) e successivamente, dopo il divieto del 1835, per i combattimenti tra cani.</p>
 
   <p>Da questo ceppo comune si svilupparono diverse linee che avrebbero dato origine alle razze moderne.</p>
 
-  <h3>Lo Staffordshire Bull Terrier: La Razza Britannica</h3>
+  <h3>Lo Staffordshire Bull Terrier: la razza britannica</h3>
 
   <p>Lo <strong>Staffordshire Bull Terrier</strong> si sviluppò nella regione dello Staffordshire, in Inghilterra. Nel 1935 fu riconosciuto ufficialmente dal Kennel Club britannico. Lo standard fu redatto per preservare le caratteristiche dei cani tradizionali della working class inglese, ma con enfasi sul temperamento equilibrato e l'idoneità alla vita familiare.</p>
 
   <p>La FCI (Fédération Cynologique Internationale) riconosce lo Staffordshire Bull Terrier con lo <strong>standard n. 76</strong>, nel Gruppo 3 (Terrier), Sezione 3 (Terrier di tipo Bull).</p>
 
-  <h3>Le Razze Americane: Pit Bull e Amstaff</h3>
+  <h3>Le razze americane: Pit Bull e Amstaff</h3>
 
   <p>Nel XIX secolo, molti Bull and Terrier furono esportati in America dagli immigrati britannici. Negli Stati Uniti, questi cani si svilupparono in due direzioni distinte:</p>
 
@@ -105,7 +105,7 @@ custom_content: |
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
-  <h2>Confronto Fisico: La Tabella delle Differenze</h2>
+  <h2>Confronto fisico: la tabella delle differenze</h2>
 
   <p>Vediamo ora le differenze fisiche concrete tra le tre razze. La tabella seguente riassume le caratteristiche principali secondo gli standard ufficiali.</p>
 
@@ -188,7 +188,7 @@ custom_content: |
   </tbody>
   </table>
 
-  <h3>Come Distinguerli a Vista</h3>
+  <h3>Come distinguerli a vista</h3>
 
   <p><strong>Lo Staffordshire Bull Terrier</strong> è il più piccolo e compatto. Ha una testa larga e corta rispetto al corpo, con guance molto pronunciate. Il corpo è raccolto, muscoloso ma non esagerato. Peso massimo 17 kg. È l'unico con orecchie mai tagliate.</p>
 
@@ -198,7 +198,7 @@ custom_content: |
   <!--/BLOCCO:4-->
 
   <!--BLOCCO:5-->
-  <h2>Differenze Caratteriali e Temperamento</h2>
+  <h2>Differenze caratteriali e temperamento</h2>
 
   <h3>Staffordshire Bull Terrier</h3>
 
@@ -224,7 +224,7 @@ custom_content: |
   <!--/BLOCCO:5-->
 
   <!--BLOCCO:6-->
-  <h2>Situazione Legale e Riconoscimento</h2>
+  <h2>Situazione legale e riconoscimento</h2>
 
   <h3>In Italia</h3>
 
@@ -241,14 +241,14 @@ custom_content: |
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->
-  <h2>Quale Razza Scegliere?</h2>
+  <h2>Quale razza scegliere?</h2>
 
   <p>Questa pagina serve a distinguere le tre razze e a capire cosa dice la legge. Se hai già escluso il Pit Bull e devi scegliere fra <strong>Staffy e Amstaff</strong>, la guida dedicata mette in fila le domande concrete su spazio, esperienza e vita quotidiana: <a href="/differenza-staffy-amstaff/" title="Staffy o Amstaff: quale scegliere">quale delle due razze fa per te</a>.</p>
   <p>L'allevamento Del Piccolo Diavolo alleva solo lo Staffordshire Bull Terrier: una razza con standard FCI chiaro, test genetici per L2HGA e HC e una taglia adatta alla vita in casa.</p>
   <!--/BLOCCO:7-->
 
   <!--BLOCCO:8-->
-  <h2>Domande Frequenti</h2>
+  <h2>Domande frequenti</h2>
   <!--/BLOCCO:8-->
 
   <section class="faq">
@@ -275,7 +275,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3 class="faq-question">Queste razze sono vietate in Italia?</h3>
-  <div class="faq-answer">No. In Italia non esiste pi&ugrave; una lista di <a href="/staffy-pericoloso-legge-italia/" title="Lo Staffy è Pericoloso? Verità e Legge Italiana">razze pericolose</a> dal 2009, quando l'ordinanza del Ministero della Salute ha abolito l'elenco e spostato la responsabilit&agrave; dalla razza al proprietario. N&eacute; lo Staffordshire Bull Terrier n&eacute; l'American Staffordshire Terrier sono soggetti a divieti o obblighi particolari a livello nazionale. Restano possibili <strong>regolamenti locali</strong> pi&ugrave; restrittivi, decisi da singoli comuni o da regolamenti condominiali, e regole diverse in altri paesi europei che vanno verificate prima di viaggiare. Vale per tutti l'obbligo di guinzaglio nei luoghi pubblici, museruola al seguito da applicare su richiesta, e responsabilit&agrave; civile e penale del detentore per i danni causati.</div>
+  <div class="faq-answer">No. In Italia non esiste pi&ugrave; una lista di <a href="/staffy-pericoloso-legge-italia/" title="Lo Staffy è pericoloso? Verità e legge italiana">razze pericolose</a> dal 2009, quando l'ordinanza del Ministero della Salute ha abolito l'elenco e spostato la responsabilit&agrave; dalla razza al proprietario. N&eacute; lo Staffordshire Bull Terrier n&eacute; l'American Staffordshire Terrier sono soggetti a divieti o obblighi particolari a livello nazionale. Restano possibili <strong>regolamenti locali</strong> pi&ugrave; restrittivi, decisi da singoli comuni o da regolamenti condominiali, e regole diverse in altri paesi europei che vanno verificate prima di viaggiare. Vale per tutti l'obbligo di guinzaglio nei luoghi pubblici, museruola al seguito da applicare su richiesta, e responsabilit&agrave; civile e penale del detentore per i danni causati.</div>
   </div>
 
   <div class="faq-item">

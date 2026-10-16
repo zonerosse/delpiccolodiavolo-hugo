@@ -1,5 +1,5 @@
 ---
-title: "Staffy and Elderly Owners"
+title: "Staffy and elderly owners"
 date: 2024-05-28
 titleSeo: "Is a Staffordshire Bull Terrier right for older owners?"
 lastmod: 2026-10-13
@@ -25,7 +25,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Family</span>
-  <h1 class="hero-title">Staffy and <em>Elderly Owners</em></h1>
+  <h1 class="hero-title">Staffy and <em>elderly owners</em></h1>
   <p class="hero-subtitle">Respecting rhythms and companionship</p>
   <div class="hero-meta">
   <span>📅 May 28, 2024</span>
@@ -38,7 +38,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> ›
   <a href="/en/blog/" title="Blog">Blog</a> ›
-  <span>Staffy and Elderly Owners</span>
+  <span>Staffy and elderly owners</span>
   </nav>
 
   <div class="article-container">
@@ -181,7 +181,7 @@ custom_content: |
   <ul>
   <li><a href="/en/staffy-children-family/" title="Staffordshire Bull Terrier with children: family life">Staffordshire Bull Terrier with children: family life</a></li>
   <li><a href="/en/staffy-other-pets/" title="Staffordshire Bull Terrier with other pets at home">Staffordshire Bull Terrier with other pets at home</a></li>
-  <li><a href="/en/staffy-safe-exercise/" title="Safe Exercise for Staffordshire Bull Terrier">Safe Exercise for Staffordshire Bull Terrier</a></li>
+  <li><a href="/en/staffy-safe-exercise/" title="Safe exercise for Staffordshire Bull Terrier">Safe exercise for Staffordshire Bull Terrier</a></li>
   <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Choosing a breeder">Advice before taking on a puppy</a></li>
   </ul>
   </div>

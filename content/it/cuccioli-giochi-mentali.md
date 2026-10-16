@@ -1,5 +1,5 @@
 ---
-title: "Cuccioli: Giochi mentali"
+title: "Cuccioli: giochi mentali"
 date: 2025-08-03
 titleSeo: "Giochi mentali per cuccioli di Staffordshire Bull Terrier"
 lastmod: 2026-10-05
@@ -21,7 +21,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Cuccioli</span>
-  <h1 class="hero-title">Giochi <em>Mentali</em></h1>
+  <h1 class="hero-title">Giochi <em>mentali</em></h1>
   <p class="hero-subtitle">Cibo, naso e sessioni brevi: cosa stanca davvero un cucciolo</p>
   <div class="hero-meta">
   <span>📅 3 Agosto 2025</span>

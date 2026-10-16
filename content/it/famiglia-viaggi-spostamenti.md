@@ -1,5 +1,5 @@
 ---
-title: "Viaggiare con Staffordshire Bull Terrier: Auto, Treno, Hotel"
+title: "Viaggiare con Staffordshire Bull Terrier: auto, treno, hotel"
 date: 2024-04-07
 lastmod: 2026-10-13
 translationKey: "viaggi"
@@ -10,7 +10,7 @@ in_breve:
 articolo: true
 image: "/images/blog/famiglia-4.webp"
 og_image: "/images/og/schede/it/famiglia-viaggi-spostamenti.jpg"
-og_image_alt: "Viaggiare con Staffordshire Bull Terrier: Auto, Treno, Hotel — Allevamento Del Piccolo Diavolo"
+og_image_alt: "Viaggiare con Staffordshire Bull Terrier: auto, treno, hotel — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/famiglia-viaggi-spostamenti.webp"
 description: "Viaggi Staffy: trasportino omologato, documenti necessari, pause ogni 2h, hotel pet-friendly, treno con cane, gestione cuccioli e consigli pratici."
 slug: "famiglia-viaggi-spostamenti"
@@ -23,7 +23,7 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Famiglia e Convivenza</span>
+  <span class="hero-eyebrow">Famiglia e convivenza</span>
   <h1 class="hero-title">Viaggiare con lo <em>Staffy</em></h1>
   <p class="hero-subtitle">Auto, treno, hotel: guida pratica per spostamenti sicuri</p>
   <div class="hero-meta">
@@ -44,7 +44,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a aria-label="Famiglia e Convivenza — categoria del blog" href="/blog/#famiglia" title="Famiglia">Famiglia e Convivenza</a> ›
+  <a aria-label="Famiglia e convivenza — categoria del blog" href="/blog/#famiglia" title="Famiglia">Famiglia e convivenza</a> ›
   <span>Viaggi e Spostamenti</span>
   </nav>
 
@@ -113,7 +113,7 @@ custom_content: |
   <!--/BLOCCO:8-->
 
   <!--BLOCCO:9-->
-  <h2>Domande Frequenti</h2>
+  <h2>Domande frequenti</h2>
   <!--/BLOCCO:9-->
 
   <section class="faq">
@@ -153,7 +153,7 @@ custom_content: |
   <div class="related">
   <h3>Articoli correlati</h3>
   <ul>
-  <li><a href="/famiglia-convivenza-altri-animali/" title="Altri animali">Convivenza con Altri Animali</a></li>
+  <li><a href="/famiglia-convivenza-altri-animali/" title="Altri animali">Convivenza con altri animali</a></li>
   <li><a href="/famiglia-bambini-convivenza/" title="Bambini">Staffy e Bambini</a></li>
   <li><a href="/famiglia-anziani-rispetto-ritmi/" title="Anziani">Staffy e Anziani</a></li>
   <li><a href="/salute-esercizio-sicuro/" title="Esercizio">Esercizio Fisico Sicuro</a></li>

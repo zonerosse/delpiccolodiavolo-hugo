@@ -2,7 +2,7 @@
 title: "Blog Staffordshire Bull Terrier"
 titleSeo: "Guide sullo Staffordshire Bull Terrier: salute e cuccioli"
 date: 2025-12-28
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "blog"
 description: "Articoli sullo Staffordshire Bull Terrier scritti dall'allevamento: cuccioli, salute e test genetici, standard e linee di sangue, famiglia e legge."
@@ -42,16 +42,16 @@ custom_content: |
   <section class="section" id="legislazione">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
-  <h2 class="section-title">Razza e Legislazione <span class="count">(1)</span></h2>
+  <h2 class="section-title">Razza e legislazione <span class="count">(1)</span></h2>
 
   <div class="blog-grid">
   <article class="blog-card">
   <a href="/staffy-pericoloso-legge-italia/" title="Leggi: Lo Staffy è pericoloso?"><div class="blog-card-thumb"><img src="/images/blog/icone/staffy-pericoloso-legge-italia.webp" alt="Lo Staffordshire Bull Terrier è pericoloso?" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Nov 2025</span><span>•</span><span class="cat">Legislazione</span></div>
-  <h3><a href="/staffy-pericoloso-legge-italia/" title="Leggi: Lo Staffy è pericoloso?">Lo Staffordshire Bull Terrier è Pericoloso? La Verità e la Legge Italiana</a></h3>
+  <h3><a href="/staffy-pericoloso-legge-italia/" title="Leggi: Lo Staffy è pericoloso?">Lo Staffordshire Bull Terrier è pericoloso? La verità e la legge italiana</a></h3>
   <p>Dati scientifici, normativa italiana dal 2009 e proposta lombarda 2025 sul patentino.</p>
-  <a class="read" href="/staffy-pericoloso-legge-italia/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Lo Staffordshire Bull Terrier è Pericoloso? La Verità e la Legge Italiana">Leggi<span class="sr-only">: Lo Staffordshire Bull Terrier è Pericoloso? La Verità e la Legge Italiana</span> →</a>
+  <a class="read" href="/staffy-pericoloso-legge-italia/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Lo Staffordshire Bull Terrier è pericoloso? La verità e la legge italiana">Leggi<span class="sr-only">: Lo Staffordshire Bull Terrier è pericoloso? La verità e la legge italiana</span> →</a>
   </div>
   </article>
   </div>
@@ -122,9 +122,9 @@ custom_content: |
   <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Leggi: Quanto Costa un Cucciolo"><div class="blog-card-thumb"><img src="/images/blog/icone/quanto-costa-cucciolo-staffordshire-bull-terrier.webp" alt="Scontrino della farmacia con i farmaci veterinari di una cucciolata" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">25 Gen 2026</span><span>•</span><span class="cat">Cuccioli</span></div>
-  <h3><a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Leggi: Quanto Costa un Cucciolo">Quanto Costa un Cucciolo di Staffordshire Bull Terrier nel 2026</a></h3>
+  <h3><a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Leggi: Quanto Costa un Cucciolo">Quanto costa un cucciolo di Staffordshire Bull Terrier nel 2026</a></h3>
   <p>Cosa include davvero il prezzo di un cucciolo, e perché diffidare dai prezzi troppo bassi.</p>
-  <a class="read" href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Quanto Costa un Cucciolo di Staffordshire Bull Terrier nel 2026">Leggi<span class="sr-only">: Quanto Costa un Cucciolo di Staffordshire Bull Terrier nel 2026</span> →</a>
+  <a class="read" href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Quanto costa un cucciolo di Staffordshire Bull Terrier nel 2026">Leggi<span class="sr-only">: Quanto costa un cucciolo di Staffordshire Bull Terrier nel 2026</span> →</a>
   </div>
   </article>
 
@@ -218,7 +218,7 @@ custom_content: |
   <section class="section" id="standard">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
-  <h2 class="section-title">Standard e Linee di Sangue <span class="count">(8)</span></h2>
+  <h2 class="section-title">Standard e linee di sangue <span class="count">(8)</span></h2>
 
   <div class="blog-grid">
   <article class="blog-card">
@@ -245,9 +245,9 @@ custom_content: |
   <a href="/staffordshire-bull-terrier-carattere/" title="Leggi: Carattere e Temperamento"><div class="blog-card-thumb"><img src="/images/blog/icone/staffordshire-bull-terrier-carattere.webp" alt="Staffordshire Bull Terrier Carattere e Temperamento" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Gen 2026</span><span>•</span><span class="cat">Standard</span></div>
-  <h3><a href="/staffordshire-bull-terrier-carattere/" title="Leggi: Carattere e Temperamento">Staffordshire Bull Terrier: Carattere e Temperamento</a></h3>
+  <h3><a href="/staffordshire-bull-terrier-carattere/" title="Leggi: Carattere e Temperamento">Staffordshire Bull Terrier: carattere e temperamento</a></h3>
   <p>Il vero volto del "nanny dog" inglese, e perché il soprannome non sostituisce la sorveglianza.</p>
-  <a class="read" href="/staffordshire-bull-terrier-carattere/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Staffordshire Bull Terrier: Carattere e Temperamento">Leggi<span class="sr-only">: Staffordshire Bull Terrier: Carattere e Temperamento</span> →</a>
+  <a class="read" href="/staffordshire-bull-terrier-carattere/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Staffordshire Bull Terrier: carattere e temperamento">Leggi<span class="sr-only">: Staffordshire Bull Terrier: carattere e temperamento</span> →</a>
   </div>
   </article>
   </div>
@@ -268,7 +268,7 @@ custom_content: |
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">19 Nov 2025</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/differenza-staffy-pitbull-amstaff/" title="Leggi: Differenza Staffy Pitbull Amstaff">Differenza tra Staffordshire Bull Terrier, Pitbull e Amstaff</a></h3>
-  <p>Guida completa: origini, standard FCI, taglia, carattere e riconoscimento.</p>
+  <p>Origini, standard FCI, taglia, carattere e riconoscimento.</p>
   <a class="read" href="/differenza-staffy-pitbull-amstaff/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Differenza tra Staffordshire Bull Terrier, Pitbull e Amstaff">Leggi<span class="sr-only">: Differenza tra Staffordshire Bull Terrier, Pitbull e Amstaff</span> →</a>
   </div>
   </article>
@@ -313,16 +313,16 @@ custom_content: |
   <section class="section" id="salute" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
-  <h2 class="section-title">Salute e Benessere <span class="count">(6)</span></h2>
+  <h2 class="section-title">Salute e benessere <span class="count">(6)</span></h2>
 
   <div class="blog-grid">
   <article class="blog-card">
   <a href="/quanto-vive-staffordshire-bull-terrier/" title="Leggi: Quanto vive lo Staffordshire Bull Terrier"><div class="blog-card-thumb"><img src="/images/blog/icone/quanto-vive-staffordshire-bull-terrier.webp" alt="Quanto vive lo Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">11 Ott 2026</span><span>•</span><span class="cat">Salute</span></div>
-  <h3><a href="/quanto-vive-staffordshire-bull-terrier/" title="Leggi: Quanto vive lo Staffordshire Bull Terrier">Quanto Vive lo Staffordshire Bull Terrier</a></h3>
+  <h3><a href="/quanto-vive-staffordshire-bull-terrier/" title="Leggi: Quanto vive lo Staffordshire Bull Terrier">Quanto vive lo Staffordshire Bull Terrier</a></h3>
   <p>12-14 anni di media, i nostri cani di 9, 10 e 12 anni e perché il peso conta più di tutto.</p>
-  <a class="read" href="/quanto-vive-staffordshire-bull-terrier/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Quanto Vive lo Staffordshire Bull Terrier">Leggi<span class="sr-only">: Quanto Vive lo Staffordshire Bull Terrier</span> →</a>
+  <a class="read" href="/quanto-vive-staffordshire-bull-terrier/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Quanto vive lo Staffordshire Bull Terrier">Leggi<span class="sr-only">: Quanto vive lo Staffordshire Bull Terrier</span> →</a>
   </div>
   </article>
 
@@ -330,19 +330,19 @@ custom_content: |
   <a href="/boas-staffordshire-bull-terrier-respirazione/" title="Leggi: BOAS e Respirazione"><div class="blog-card-thumb"><img src="/images/blog/icone/boas-staffordshire-bull-terrier-respirazione.webp" alt="BOAS Sindrome Brachicefalica Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">28 Dic 2025</span><span>•</span><span class="cat">Salute</span></div>
-  <h3><a href="/boas-staffordshire-bull-terrier-respirazione/" title="Leggi: BOAS e Respirazione">BOAS: Perché la Respirazione Conta</a></h3>
+  <h3><a href="/boas-staffordshire-bull-terrier-respirazione/" title="Leggi: BOAS e Respirazione">BOAS: perché la respirazione conta</a></h3>
   <p>Sindrome brachicefalica: cos'è, sintomi, prevenzione e selezione responsabile.</p>
-  <a class="read" href="/boas-staffordshire-bull-terrier-respirazione/" title="Leggi articolo completo" aria-label="Leggi l'articolo: BOAS: Perché la Respirazione Conta">Leggi<span class="sr-only">: BOAS: Perché la Respirazione Conta</span> →</a>
+  <a class="read" href="/boas-staffordshire-bull-terrier-respirazione/" title="Leggi articolo completo" aria-label="Leggi l'articolo: BOAS: perché la respirazione conta">Leggi<span class="sr-only">: BOAS: perché la respirazione conta</span> →</a>
   </div>
   </article>
 
   <article class="blog-card">
-  <a href="/test-genetici-l2hga-hc-staffy/" title="Leggi: Test Genetici L2HGA e HC"><div class="blog-card-thumb"><img src="/images/blog/icone/test-genetici-l2hga-hc-staffy.webp" alt="Staffordshire Bull Terrier: test Genetici L2HGA e HC" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/test-genetici-l2hga-hc-staffy/" title="Leggi: Test genetici L2HGA e HC"><div class="blog-card-thumb"><img src="/images/blog/icone/test-genetici-l2hga-hc-staffy.webp" alt="Staffordshire Bull Terrier: test Genetici L2HGA e HC" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">20 Nov 2025</span><span>•</span><span class="cat">Salute</span></div>
-  <h3><a href="/test-genetici-l2hga-hc-staffy/" title="Leggi: Test Genetici L2HGA e HC">Test Genetici L2HGA e HC: Guida Completa</a></h3>
+  <h3><a href="/test-genetici-l2hga-hc-staffy/" title="Leggi: Test genetici L2HGA e HC">Test genetici L2HGA e HC: cosa sono e come si leggono</a></h3>
   <p>Cosa sono, come leggerli, dove farli e perché sono fondamentali.</p>
-  <a class="read" href="/test-genetici-l2hga-hc-staffy/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Test Genetici L2HGA e HC: Guida Completa">Leggi<span class="sr-only">: Test Genetici L2HGA e HC: Guida Completa</span> →</a>
+  <a class="read" href="/test-genetici-l2hga-hc-staffy/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Test genetici L2HGA e HC: cosa sono e come si leggono">Leggi<span class="sr-only">: Test genetici L2HGA e HC: cosa sono e come si leggono</span> →</a>
   </div>
   </article>
   </div>
@@ -388,7 +388,7 @@ custom_content: |
   <section class="section" id="famiglia">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
-  <h2 class="section-title">Famiglia e Convivenza <span class="count">(7)</span></h2>
+  <h2 class="section-title">Famiglia e convivenza <span class="count">(7)</span></h2>
 
   <div class="blog-grid">
   <article class="blog-card">
@@ -457,9 +457,9 @@ custom_content: |
   <a href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Leggi: Carattere e vita in famiglia"><div class="blog-card-thumb"><img src="/images/blog/icone/staffordshire-bull-terrier-carattere-vita-famiglia.webp" alt="Staffordshire Bull Terrier carattere e vita in famiglia" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">28 Apr 2026</span><span>•</span><span class="cat">Famiglia</span></div>
-  <h3><a href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Leggi: Carattere e vita in famiglia">Staffordshire Bull Terrier: Carattere, Vita in Famiglia e Cosa Aspettarsi</a></h3>
+  <h3><a href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Leggi: Carattere e vita in famiglia">Staffordshire Bull Terrier: carattere, vita in famiglia e cosa aspettarsi</a></h3>
   <p>Con la razza dal 2005. Pregi, difetti e cosa aspettarsi davvero da uno Staffy.</p>
-  <a class="read" href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Staffordshire Bull Terrier: Carattere, Vita in Famiglia e Cosa Aspettarsi">Leggi<span class="sr-only">: Staffordshire Bull Terrier: Carattere, Vita in Famiglia e Cosa Aspettarsi</span> →</a>
+  <a class="read" href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Staffordshire Bull Terrier: carattere, vita in famiglia e cosa aspettarsi">Leggi<span class="sr-only">: Staffordshire Bull Terrier: carattere, vita in famiglia e cosa aspettarsi</span> →</a>
   </div>
   </article>
   </div>
@@ -476,7 +476,7 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <section class="dark-section">
-  <h2>Hai Domande?</h2>
+  <h2>Hai domande?</h2>
   <p>Se hai dubbi su un argomento o vuoi suggerire un tema per il blog, contattaci.</p>
   <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20ho%20una%20domanda%20sul%20blog" class="btn btn-light" title="Scrivici su WhatsApp per domande sul blog">Scrivici su WhatsApp</a>
   </section>

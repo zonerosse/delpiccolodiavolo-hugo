@@ -488,3 +488,54 @@ Perché: Google e i motori generativi estraggono volentieri le tabelle per le
 domande di confronto e di calendario, ma una tabella che ripete male il testo
 è solo rumore.
 
+
+---
+
+## 17. Scrivere come una persona, non come un'IA
+
+Il sito deve suonare come un allevatore che spiega le cose a voce, non come un
+giornalista e nemmeno come un testo generato. Vale per le pagine nuove e per
+ogni paragrafo che si riscrive; le pagine già pubblicate si toccano solo
+quando lo decide Paolo, una alla volta.
+
+**Ritmo**
+- Frasi corte: la media deve stare sui 15 parole, non sui 23. Una frase oltre
+  le 30 parole va spezzata, salvo un elenco di dati.
+- Pochi incisi. Niente trattino lungo (—): si usano la virgola, il punto o le
+  parentesi. Vale anche per EN e DE.
+- Al massimo un "due punti" per paragrafo.
+
+**Formule da non usare** (sono la firma dei testi da IA)
+
+| Da non scrivere | Al posto di |
+|---|---|
+| "Non è X: è Y", "non è X, ma Y" usato come frase a effetto | Dire Y e basta |
+| davvero, onesto/onestamente, la verità è, il punto è, in pratica | Toglierle: la frase regge da sola |
+| Ecco perché, ecco come, ecco cosa | Per questo, così, si fa così |
+| fondamentale, cruciale, essenziale, garantire, garantisce | importante, serve, conta; un dato al posto della garanzia |
+| inoltre, in conclusione, in sintesi, non solo… ma anche | poi, alla fine, anche |
+| Guida completa, tutto quello che devi sapere | Dire di cosa parla la pagina |
+
+"Davvero" e "onesto" non sono vietati, ma una volta per pagina basta: nel
+2026 il sito ne aveva 114 e 28.
+
+**Titoli**
+- In italiano maiuscola solo alla prima parola e ai nomi propri: "Come
+  scegliere la linea di sangue", non "Come Scegliere la Linea di Sangue".
+  Lo stesso in inglese ("How to choose a healthy puppy"). In tedesco
+  maiuscole solo ai sostantivi, come vuole la grammatica.
+- Restano maiuscoli i nomi di cani, allevamenti, titoli di campionato,
+  enti (ENCI, FCI, Kennel Club), luoghi e la razza (Staffordshire Bull
+  Terrier, Staffy).
+
+**Cosa invece va tenuto**
+I dati concreti (giorni, referti, microchip, COI), la prima persona ("da noi",
+"su questo non c'è la mia opinione"), i difetti detti chiaramente. È questo
+che rende il sito credibile, e non lo produce nessuna IA da sola.
+
+Perché: Google non penalizza un testo perché è scritto con l'IA, ma premia
+l'esperienza diretta e punisce i testi tutti uguali. E chi legge si fida di
+più di chi parla semplice. L'analisi di ottobre 2026 ha trovato 272 trattini
+lunghi, 63 frasi "non è X: è Y" e una frase su cinque oltre le 30 parole.
+Le maiuscole cambiate da sole non spostano `lastmod` e non obbligano a
+toccare EN e DE: gli script le ignorano.

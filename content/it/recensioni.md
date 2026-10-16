@@ -43,7 +43,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Testimonianze</span>
-  <h2 class="section-title">Cosa Dicono i Proprietari</h2>
+  <h2 class="section-title">Cosa dicono i proprietari</h2>
 
   <div class="reviews-grid">
 
@@ -319,7 +319,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">La Nostra Reputazione</span>
-  <h2 class="section-title">Perché Le Recensioni Contano</h2>
+  <h2 class="section-title">Perché le recensioni contano</h2>
 
   <p>Del Piccolo Diavolo ha una valutazione media di <!--REC-VOTO--> su <!--REC-TOTALE--> recensioni pubblicate sul profilo Google dell'allevamento, tutte verificabili all'origine: ogni recensione riportata su questa pagina porta il nome di chi l'ha scritta e il collegamento diretto all'originale su Google, dove chiunque pu&ograve; leggerla senza passare da noi. Sono famiglie che hanno preso un cucciolo di Staffordshire Bull Terrier a Ostellato, in provincia di Ferrara, fra il 2013 e oggi. Una recensione riportata su un sito senza collegamento alla fonte non &egrave; verificabile: potrebbe averla scritta chiunque, allevatore compreso. &Egrave; lo stesso principio dei referti dei test genetici, che qui vengono pubblicati con il numero di microchip del cane sopra. Le recensioni raccontano l'esperienza dell'affido; cosa sia successo dopo, a distanza di anni, lo raccontiamo nelle <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">storie dei cani che abbiamo allevato</a>.</p>
   <div class="values-grid">
@@ -337,7 +337,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner" style="text-align:center">
   <span class="section-label">Hai adottato un nostro cucciolo?</span>
-  <h2 class="section-title">Condividi la Tua Esperienza</h2>
+  <h2 class="section-title">Condividi la tua esperienza</h2>
 
   <div style="display:flex;flex-wrap:wrap;gap:1rem;justify-content:center;margin-bottom:1.5rem">
   <a href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" class="btn btn-primary" title="Leggi le recensioni su Google" style="min-height:44px;padding:1rem 1.8rem" aria-label="Leggi su Google (si apre in una nuova scheda)">⭐ Leggi su Google</a>

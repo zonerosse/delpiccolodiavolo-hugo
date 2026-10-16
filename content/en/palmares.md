@@ -378,13 +378,13 @@ custom_content: |
   <div class="related-articles">
   <h3>More on this topic</h3>
   <ul>
-  <li><a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Puppies, verifiable genetic tests">Staffordshire Bull Terrier Puppies, verifiable genetic tests</a></li>
+  <li><a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies, verifiable genetic tests">Staffordshire Bull Terrier puppies, verifiable genetic tests</a></li>
   </ul>
   </div>
 
   <!--BLOCCO:9-->
   <section class="cta-section">
-  <h2>Want a Puppy from Winning Lines?</h2>
+  <h2>Want a puppy from winning lines?</h2>
   <p>Our puppies are born from tested and titled parents. Contact us to learn about upcoming litters.</p>
 
   <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20am%20interested%20in%20champion%20line%20puppies" class="btn" title="Write us on WhatsApp">Write on WhatsApp</a>

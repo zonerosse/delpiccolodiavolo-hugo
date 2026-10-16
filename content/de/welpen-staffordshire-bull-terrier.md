@@ -90,7 +90,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Bewertungen</span>
-  <h2 class="section-title">Was Man Über Uns Sagt</h2>
+  <h2 class="section-title">Was man über uns sagt</h2>
 
   <div class="review-card">
   <p class="review-text">"Paolo ist eine Garantie für diese Rasse. Welpen im Haus aufgezogen, kontinuierliche Unterstützung und große Kompetenz. Unser Staffy ist perfekt!"</p>
@@ -109,7 +109,7 @@ custom_content: |
   <!--BLOCCO:5-->
   <section class="section section-alt">
   <div class="section-inner">
-  <span class="section-label">Warum Uns Wählen</span>
+  <span class="section-label">Warum uns wählen</span>
   <h2 class="section-title">Unser Ansatz</h2>
 
   <div class="zigzag">

@@ -1,7 +1,7 @@
 ---
-title: "Staffordshire Bull Terrier Blog - Articles & Guides"
+title: "Staffordshire Bull Terrier blog - articles & guides"
 date: 2025-12-28
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "blog"
 description: "Guides on puppies, health, breed standard, bloodlines and daily life with the Staffordshire Bull Terrier, written by the Del Piccolo Diavolo kennel in Italy."
@@ -17,7 +17,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Resources & Guides</span>
-  <h1 class="hero-title">Our <br><em>Blog</em></h1>
+  <h1 class="hero-title">Our <br><em>blog</em></h1>
   <p class="hero-subtitle">Articles about puppies, health, standard and cohabitation</p>
   </div>
   </section>
@@ -45,16 +45,16 @@ custom_content: |
   <section class="section" id="legislation">
   <div class="section-inner">
   <span class="section-label">Category</span>
-  <h2 class="section-title">Breed and Legislation <span class="count">(1)</span></h2>
+  <h2 class="section-title">Breed and legislation <span class="count">(1)</span></h2>
 
   <div class="blog-grid">
   <article class="blog-card">
   <a href="/en/staffy-dangerous-breed-law/" title="Read: Is the Staffy dangerous?"><div class="blog-card-thumb"><img src="/images/blog/icone/staffy-pericoloso-legge-italia.webp" alt="Is the Staffordshire Bull Terrier dangerous?" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Nov 2025</span><span>•</span><span class="cat">Legislation</span></div>
-  <h3><a href="/en/staffy-dangerous-breed-law/" title="Read: Is the Staffy dangerous?">Is the Staffordshire Bull Terrier Dangerous? The Truth and the Law</a></h3>
+  <h3><a href="/en/staffy-dangerous-breed-law/" title="Read: Is the Staffy dangerous?">Is the Staffordshire Bull Terrier dangerous? The truth and the law</a></h3>
   <p>Scientific data, breed-specific legislation and what you need to know.</p>
-  <a class="read" href="/en/staffy-dangerous-breed-law/" title="Read full article" aria-label="Read the article: Is the Staffordshire Bull Terrier Dangerous? The Truth and the Law">Read<span class="sr-only">: Is the Staffordshire Bull Terrier Dangerous? The Truth and the Law</span> →</a>
+  <a class="read" href="/en/staffy-dangerous-breed-law/" title="Read full article" aria-label="Read the article: Is the Staffordshire Bull Terrier dangerous? The truth and the law">Read<span class="sr-only">: Is the Staffordshire Bull Terrier dangerous? The truth and the law</span> →</a>
   </div>
   </article>
   </div>
@@ -112,12 +112,12 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="Read: How Much Does a Staffordshire Bull Terrier Puppy Cost"><div class="blog-card-thumb"><img src="/images/blog/icone/quanto-costa-cucciolo-staffordshire-bull-terrier.webp" alt="Pharmacy receipt for the veterinary medicines of a litter" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="Read: How much does a Staffordshire Bull Terrier puppy cost"><div class="blog-card-thumb"><img src="/images/blog/icone/quanto-costa-cucciolo-staffordshire-bull-terrier.webp" alt="Pharmacy receipt for the veterinary medicines of a litter" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">25 Jan 2026</span><span>•</span><span class="cat">Puppies</span></div>
-  <h3><a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="Read: How Much Does a Staffordshire Bull Terrier Puppy Cost">How Much Does a Staffordshire Bull Terrier Puppy Cost</a></h3>
+  <h3><a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="Read: How much does a Staffordshire Bull Terrier puppy cost">How much does a Staffordshire Bull Terrier puppy cost</a></h3>
   <p>What the price really includes, and why bargain adverts are a warning sign.</p>
-  <a class="read" href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" aria-label="Read the article: How Much Does a Staffordshire Bull Terrier Puppy Cost">Read<span class="sr-only">: How Much Does a Staffordshire Bull Terrier Puppy Cost</span> →</a>
+  <a class="read" href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" aria-label="Read the article: How much does a Staffordshire Bull Terrier puppy cost">Read<span class="sr-only">: How much does a Staffordshire Bull Terrier puppy cost</span> →</a>
   </div>
   </article>
   <article class="blog-card">
@@ -220,7 +220,7 @@ custom_content: |
   <section class="section" id="standard">
   <div class="section-inner">
   <span class="section-label">Category</span>
-  <h2 class="section-title">Standard and Bloodlines <span class="count">(8)</span></h2>
+  <h2 class="section-title">Standard and bloodlines <span class="count">(8)</span></h2>
 
   <div class="blog-grid">
   <article class="blog-card">
@@ -242,12 +242,12 @@ custom_content: |
   </div>
   </article>
   <article class="blog-card">
-  <a href="/en/staffordshire-bull-terrier-temperament/" title="Read: The Staffordshire Bull Terrier Temperament"><div class="blog-card-thumb"><img src="/images/blog/icone/staffordshire-bull-terrier-carattere.webp" alt="Staffordshire Bull Terrier with the family: the temperament of the breed" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/en/staffordshire-bull-terrier-temperament/" title="Read: The Staffordshire Bull Terrier temperament"><div class="blog-card-thumb"><img src="/images/blog/icone/staffordshire-bull-terrier-carattere.webp" alt="Staffordshire Bull Terrier with the family: the temperament of the breed" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Jan 2026</span><span>•</span><span class="cat">Breed Standard</span></div>
-  <h3><a href="/en/staffordshire-bull-terrier-temperament/" title="Read: The Staffordshire Bull Terrier Temperament">The Staffordshire Bull Terrier Temperament</a></h3>
+  <h3><a href="/en/staffordshire-bull-terrier-temperament/" title="Read: The Staffordshire Bull Terrier temperament">The Staffordshire Bull Terrier temperament</a></h3>
   <p>How it was selected, what the standard says, and how to assess a puppy.</p>
-  <a class="read" href="/en/staffordshire-bull-terrier-temperament/" aria-label="Read the article: The Staffordshire Bull Terrier Temperament">Read<span class="sr-only">: The Staffordshire Bull Terrier Temperament</span> →</a>
+  <a class="read" href="/en/staffordshire-bull-terrier-temperament/" aria-label="Read the article: The Staffordshire Bull Terrier temperament">Read<span class="sr-only">: The Staffordshire Bull Terrier temperament</span> →</a>
   </div>
   </article>
   </div>
@@ -258,18 +258,18 @@ custom_content: |
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">19 Nov 2025</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/en/staffy-pitbull-amstaff-difference/" title="Read: Staffy Pitbull Amstaff difference">Difference between Staffordshire Bull Terrier, Pitbull and Amstaff</a></h3>
-  <p>Complete guide: origins, FCI standard, size, character and recognition.</p>
+  <p>Origins, FCI standard, size, character and recognition.</p>
   <a class="read" href="/en/staffy-pitbull-amstaff-difference/" title="Read full article" aria-label="Read the article: Difference between Staffordshire Bull Terrier, Pitbull and Amstaff">Read<span class="sr-only">: Difference between Staffordshire Bull Terrier, Pitbull and Amstaff</span> →</a>
   </div>
   </article>
 
   <article class="blog-card">
-  <a href="/en/staffy-bloodlines-guide/" title="Read: Staffy Bloodlines"><div class="blog-card-thumb"><img src="/images/blog/icone/linee-sangue-staffordshire-bull-terrier.webp" alt="Staffordshire Bull Terrier Bloodlines" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/en/staffy-bloodlines-guide/" title="Read: Staffy Bloodlines"><div class="blog-card-thumb"><img src="/images/blog/icone/linee-sangue-staffordshire-bull-terrier.webp" alt="Staffordshire Bull Terrier bloodlines" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">8 Nov 2025</span><span>•</span><span class="cat">Standard</span></div>
-  <h3><a href="/en/staffy-bloodlines-guide/" title="Read: Staffy Bloodlines">Staffordshire Bull Terrier Bloodlines</a></h3>
+  <h3><a href="/en/staffy-bloodlines-guide/" title="Read: Staffy Bloodlines">Staffordshire Bull Terrier bloodlines</a></h3>
   <p>History of the 6 founding lines and modern UK/Ireland kennels.</p>
-  <a class="read" href="/en/staffy-bloodlines-guide/" title="Read full article" aria-label="Read the article: Staffordshire Bull Terrier Bloodlines">Read<span class="sr-only">: Staffordshire Bull Terrier Bloodlines</span> →</a>
+  <a class="read" href="/en/staffy-bloodlines-guide/" title="Read full article" aria-label="Read the article: Staffordshire Bull Terrier bloodlines">Read<span class="sr-only">: Staffordshire Bull Terrier bloodlines</span> →</a>
   </div>
   </article>
 
@@ -297,9 +297,9 @@ custom_content: |
   <a href="/en/staffordshire-bull-terrier-colours/" title="Read: Staffordshire Bull Terrier colours"><div class="blog-card-thumb"><img src="/images/blog/icone/colori-staffordshire-bull-terrier.webp" alt="Staffordshire Bull Terrier colours" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">Aug 2026</span><span>•</span><span class="cat">Standard</span></div>
-  <h3><a href="/en/staffordshire-bull-terrier-colours/" title="Read: Staffordshire Bull Terrier colours">Staffordshire Bull Terrier Colours</a></h3>
+  <h3><a href="/en/staffordshire-bull-terrier-colours/" title="Read: Staffordshire Bull Terrier colours">Staffordshire Bull Terrier colours</a></h3>
   <p>Colours allowed by the standard: black, brindle, fawn, blue and pied.</p>
-  <a class="read" href="/en/staffordshire-bull-terrier-colours/" title="Read full article" aria-label="Read the article: Staffordshire Bull Terrier Colours">Read<span class="sr-only">: Staffordshire Bull Terrier Colours</span> →</a>
+  <a class="read" href="/en/staffordshire-bull-terrier-colours/" title="Read full article" aria-label="Read the article: Staffordshire Bull Terrier colours">Read<span class="sr-only">: Staffordshire Bull Terrier colours</span> →</a>
   </div>
   </article>
   </div>
@@ -313,16 +313,16 @@ custom_content: |
   <section class="section" id="health" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Category</span>
-  <h2 class="section-title">Health and Wellness <span class="count">(6)</span></h2>
+  <h2 class="section-title">Health and wellness <span class="count">(6)</span></h2>
 
   <div class="blog-grid">
   <article class="blog-card">
   <a href="/en/how-long-staffordshire-bull-terrier-lives/" title="Read: How long does a Staffordshire Bull Terrier live"><div class="blog-card-thumb"><img src="/images/blog/icone/quanto-vive-staffordshire-bull-terrier.webp" alt="How long does a Staffordshire Bull Terrier live" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">11 Oct 2026</span><span>•</span><span class="cat">Health</span></div>
-  <h3><a href="/en/how-long-staffordshire-bull-terrier-lives/" title="Read: How long does a Staffordshire Bull Terrier live">How Long Does a Staffordshire Bull Terrier Live?</a></h3>
+  <h3><a href="/en/how-long-staffordshire-bull-terrier-lives/" title="Read: How long does a Staffordshire Bull Terrier live">How long does a Staffordshire Bull Terrier live?</a></h3>
   <p>12-14 years on average, our own dogs aged 9, 10 and 12, and why weight matters most.</p>
-  <a class="read" href="/en/how-long-staffordshire-bull-terrier-lives/" title="Read full article" aria-label="Read the article: How Long Does a Staffordshire Bull Terrier Live?">Read<span class="sr-only">: How Long Does a Staffordshire Bull Terrier Live?</span> →</a>
+  <a class="read" href="/en/how-long-staffordshire-bull-terrier-lives/" title="Read full article" aria-label="Read the article: How long does a Staffordshire Bull Terrier live?">Read<span class="sr-only">: How long does a Staffordshire Bull Terrier live?</span> →</a>
   </div>
   </article>
 
@@ -330,19 +330,19 @@ custom_content: |
   <a href="/en/boas-staffordshire-bull-terrier-breathing/" title="Read: BOAS and Breathing"><div class="blog-card-thumb"><img src="/images/blog/icone/boas-staffordshire-bull-terrier-respirazione.webp" alt="BOAS Brachycephalic Syndrome Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">28 Dec 2025</span><span>•</span><span class="cat">Health</span></div>
-  <h3><a href="/en/boas-staffordshire-bull-terrier-breathing/" title="Read: BOAS and Breathing">BOAS: Why Breathing Matters</a></h3>
+  <h3><a href="/en/boas-staffordshire-bull-terrier-breathing/" title="Read: BOAS and Breathing">BOAS: why breathing matters</a></h3>
   <p>Brachycephalic syndrome: what it is, symptoms, prevention and responsible breeding.</p>
-  <a class="read" href="/en/boas-staffordshire-bull-terrier-breathing/" title="Read full article" aria-label="Read the article: BOAS: Why Breathing Matters">Read<span class="sr-only">: BOAS: Why Breathing Matters</span> →</a>
+  <a class="read" href="/en/boas-staffordshire-bull-terrier-breathing/" title="Read full article" aria-label="Read the article: BOAS: why breathing matters">Read<span class="sr-only">: BOAS: why breathing matters</span> →</a>
   </div>
   </article>
 
   <article class="blog-card">
-  <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Read: L2HGA and HC Genetic Testing"><div class="blog-card-thumb"><img src="/images/blog/icone/test-genetici-l2hga-hc-staffy.webp" alt="Staffordshire Bull Terrier: l2HGA and HC Genetic Testing" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Read: L2HGA and HC genetic testing"><div class="blog-card-thumb"><img src="/images/blog/icone/test-genetici-l2hga-hc-staffy.webp" alt="Staffordshire Bull Terrier: l2HGA and HC Genetic testing" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">20 Nov 2025</span><span>•</span><span class="cat">Health</span></div>
-  <h3><a href="/en/staffy-genetic-testing-l2hga-hc/" title="Read: L2HGA and HC Genetic Testing">L2HGA and HC Genetic Testing: Complete Guide</a></h3>
+  <h3><a href="/en/staffy-genetic-testing-l2hga-hc/" title="Read: L2HGA and HC genetic testing">L2HGA and HC genetic testing: what they are and how to read them</a></h3>
   <p>What they are, how to read them, where to do them and why they matter.</p>
-  <a class="read" href="/en/staffy-genetic-testing-l2hga-hc/" title="Read full article" aria-label="Read the article: L2HGA and HC Genetic Testing: Complete Guide">Read<span class="sr-only">: L2HGA and HC Genetic Testing: Complete Guide</span> →</a>
+  <a class="read" href="/en/staffy-genetic-testing-l2hga-hc/" title="Read full article" aria-label="Read the article: L2HGA and HC genetic testing: what they are and how to read them">Read<span class="sr-only">: L2HGA and HC genetic testing: what they are and how to read them</span> →</a>
   </div>
   </article>
   </div>
@@ -388,7 +388,7 @@ custom_content: |
   <section class="section" id="family">
   <div class="section-inner">
   <span class="section-label">Category</span>
-  <h2 class="section-title">Family and Cohabitation <span class="count">(7)</span></h2>
+  <h2 class="section-title">Family and cohabitation <span class="count">(7)</span></h2>
 
   <div class="blog-grid">
   <article class="blog-card">
@@ -447,9 +447,9 @@ custom_content: |
   <a href="/en/staffordshire-bull-terrier-character-family-life/" title="Read: Character and family life"><div class="blog-card-thumb"><img src="/images/blog/icone/staffordshire-bull-terrier-carattere-vita-famiglia.webp" alt="Staffordshire Bull Terrier character and family life" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">28 Apr 2026</span><span>•</span><span class="cat">Family</span></div>
-  <h3><a href="/en/staffordshire-bull-terrier-character-family-life/" title="Read: Character and family life">Staffordshire Bull Terrier: Character, Family Life and What to Expect</a></h3>
+  <h3><a href="/en/staffordshire-bull-terrier-character-family-life/" title="Read: Character and family life">Staffordshire Bull Terrier: character, family life and what to expect</a></h3>
   <p>With the breed since 2005. Pros, cons and what to really expect from a Staffy.</p>
-  <a class="read" href="/en/staffordshire-bull-terrier-character-family-life/" title="Read full article" aria-label="Read the article: Staffordshire Bull Terrier: Character, Family Life and What to Expect">Read<span class="sr-only">: Staffordshire Bull Terrier: Character, Family Life and What to Expect</span> →</a>
+  <a class="read" href="/en/staffordshire-bull-terrier-character-family-life/" title="Read full article" aria-label="Read the article: Staffordshire Bull Terrier: character, family life and what to expect">Read<span class="sr-only">: Staffordshire Bull Terrier: character, family life and what to expect</span> →</a>
   </div>
   </article>
 
@@ -476,7 +476,7 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <section class="dark-section">
-  <h2>Have Questions?</h2>
+  <h2>Have questions?</h2>
   <p>If you have doubts about a topic or want to suggest a theme for the blog, contact us.</p>
   <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20have%20a%20question%20about%20the%20blog" class="btn btn-light" title="Write us on WhatsApp for blog questions">Write us on WhatsApp</a>
   </section>

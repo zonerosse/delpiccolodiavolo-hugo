@@ -1,5 +1,5 @@
 ---
-title: "Cuccioli: Sverminazione ed Esami delle Feci"
+title: "Cuccioli: sverminazione ed esami delle feci"
 date: 2026-09-27
 titleSeo: "Sverminazione cuccioli: protocollo ed esami delle feci"
 lastmod: 2026-10-05
@@ -21,7 +21,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Cuccioli</span>
-  <h1 class="hero-title">Sverminazione dei <em>Cuccioli</em></h1>
+  <h1 class="hero-title">Sverminazione dei <em>cuccioli</em></h1>
   <p class="hero-subtitle">Protocollo, referti degli esami e terapia in corso</p>
   <div class="hero-meta">
   <span>📅 27 Settembre 2026</span>

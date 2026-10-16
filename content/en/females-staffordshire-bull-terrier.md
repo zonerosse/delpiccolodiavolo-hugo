@@ -277,8 +277,8 @@ custom_content: |
   <!--BLOCCO:3-->
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">Our Approach</span>
-  <h2 class="section-title">Selection and Care of Our Females</h2>
+  <span class="section-label">Our approach</span>
+  <h2 class="section-title">Selection and care of our females</h2>
 
   <div class="intro-block">
   <p>Raised with care and responsibility, our females are selected for <strong>health</strong>, <strong>breed typicality</strong> and <strong>balanced temperament</strong>. Every pairing is planned based on genetic testing and bloodline compatibility.</p>
@@ -295,7 +295,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <section class="cta-section">
-  <h2>Want Info About Our Females?</h2>
+  <h2>Want info about our females?</h2>
   <p>Call us or write on WhatsApp for information about our breeding females.</p>
   <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20the%20female%20Staffordshire%20Bull%20Terriers" class="btn" title="Write us on WhatsApp for female info">Write Us on WhatsApp</a>
   </section>

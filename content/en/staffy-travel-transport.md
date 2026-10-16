@@ -1,5 +1,5 @@
 ---
-title: "Staffy Travel and Transport"
+title: "Staffy travel and transport"
 date: 2024-04-07
 titleSeo: "Travelling with a Staffordshire Bull Terrier: car and train"
 lastmod: 2026-10-13
@@ -25,7 +25,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Family</span>
-  <h1 class="hero-title">Travel and <em>Transport</em></h1>
+  <h1 class="hero-title">Travel and <em>transport</em></h1>
   <p class="hero-subtitle">Stress-free journeys together</p>
   <div class="hero-meta">
   <span>📅 April 7, 2024</span>
@@ -83,7 +83,7 @@ custom_content: |
   <!--/BLOCCO:4-->
 
   <!--BLOCCO:5-->
-  <h2>Documents for European travel</h2>
+  <h2>Documents for european travel</h2>
   <p>Within the European Union, a dog needs a microchip, an EU pet <a href="https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/travelling-pet-within-eu_en" title="Travelling with a pet within the EU, European Commission" target="_blank" rel="noopener" aria-label="passport – Travelling with a pet within the EU, European Commission (opens in a new tab)">passport</a> issued by an authorised veterinarian, and a valid rabies vaccination administered after the microchip and at least 21 days before travel. That waiting period is the detail most often missed and it cannot be shortened.</p>
   <p>Some countries add requirements: tapeworm treatment administered by a veterinarian between twenty-four and 120 hours before entry is required for Ireland, Finland, Malta and Norway. And, importantly for this breed, several countries restrict or prohibit the Staffordshire Bull Terrier entirely — check the destination's breed legislation as carefully as its health requirements.</p>
   <p>For puppies going to live abroad, we prepare the passport, the vaccinations and the required treatments, and we tell families plainly when the destination country has restrictions: at the first conversation, not at handover.</p>
@@ -164,7 +164,7 @@ custom_content: |
   <li><a href="/en/staffy-other-pets/" title="Staffordshire Bull Terrier with other pets at home">Staffordshire Bull Terrier with other pets at home</a></li>
   <li><a href="/en/staffy-children-family/" title="Staffordshire Bull Terrier with children: family life">Staffordshire Bull Terrier with children: family life</a></li>
   <li><a href="/en/staffy-elderly-owners/" title="Is a Staffordshire Bull Terrier right for older owners?">Is a Staffordshire Bull Terrier right for older owners?</a></li>
-  <li><a href="/en/staffy-safe-exercise/" title="Safe Exercise for Staffordshire Bull Terrier">Safe Exercise for Staffordshire Bull Terrier</a></li>
+  <li><a href="/en/staffy-safe-exercise/" title="Safe exercise for Staffordshire Bull Terrier">Safe exercise for Staffordshire Bull Terrier</a></li>
   </ul>
   </div>
 

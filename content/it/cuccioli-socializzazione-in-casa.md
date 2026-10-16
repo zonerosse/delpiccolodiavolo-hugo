@@ -1,5 +1,5 @@
 ---
-title: "Socializzare il Cucciolo in Casa: la Lista per la Famiglia"
+title: "Socializzare il cucciolo in casa: la lista per la famiglia"
 date: 2025-03-18
 titleSeo: "Socializzare il cucciolo in casa: la lista per la famiglia"
 lastmod: 2026-10-05

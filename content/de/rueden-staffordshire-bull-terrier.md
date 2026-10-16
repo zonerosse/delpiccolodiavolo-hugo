@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Rüden"
 titleSeo: "Staffordshire Bull Terrier Rüden: Ahnentafel und Gentests"
 date: 2025-12-28
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "maschi"
 description: "Unsere Staffordshire Bull Terrier Rüden: Lothar (Slowenischer und Italienischer Jugendchampion), Braveheart und Papillon. Gentests L2HGA und HC (HSF4)."
@@ -115,7 +115,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Unser Ansatz</span>
-  <h2 class="section-title">Ethik, Gesundheit und Verantwortungsvolle Selektion</h2>
+  <h2 class="section-title">Ethik, Gesundheit und verantwortungsvolle Selektion</h2>
 
   <div class="intro-block">
   <p>Del Piccolo Diavolo hält keine eigenen Deckrüden, und das ist eine Entscheidung. Für jede Verpaarung wird <a href="/de/eltern-vor-ort-was-das-bedeutet/" title="&quot;Eltern vor Ort&quot;: was das wirklich bedeutet">der Rüde außerhalb der Zucht gesucht</a>, in den englischen Elitebull- und irischen Lackyle-Linien, und so gewählt, dass er ausgleicht, was der Hündin fehlt: Hat eine Hündin einen ausgezeichneten Kopf und ein verbesserungsfähiges Gangwerk, braucht sie einen Rüden mit solidem Gangwerk, nicht einen, der genauso schön ist wie sie. Einen Rüden im Haus zu halten hieße, ihn einzusetzen, weil er da ist, und die Linien auf einen einzigen Hund zu verengen. Vor einer Verpaarung verlangen wir vom Besitzer die Befunde der Gentests mit der Mikrochipnummer darauf, keine Versprechen: Ist ein Rüde auf einige Erkrankungen getestet und nicht auf alle, wissen wir es vorher und schreiben es auf die Seite des jeweiligen Wurfs.</p>
@@ -127,7 +127,7 @@ custom_content: |
   <p>✓ <strong>L2HGA</strong> — L-2-Hydroxyglutarazidurie<br>
   ✓ <strong>HC</strong> — Hereditäre Katarakt<br>
   ✓ <strong>Gebiss</strong> — Vollständiges Scherengebiss</p>
-  <p style="margin-top:1.2rem">Nur <strong>freie</strong> oder <strong>nicht betroffene</strong> Hunde werden eingesetzt, was gesunde Welpen und robuste Nachkommen garantiert.</p>
+  <p style="margin-top:1.2rem">Wir setzen nur <strong>freie</strong> oder <strong>nicht betroffene</strong> Hunde ein: Bei zwei freien Eltern kann kein Welpe an diesen Krankheiten erkrankt zur Welt kommen.</p>
   </div>
   </div>
   </section>

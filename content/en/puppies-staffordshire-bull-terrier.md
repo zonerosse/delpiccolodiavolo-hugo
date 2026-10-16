@@ -1,6 +1,6 @@
 ---
-title: "Staffordshire Bull Terrier Puppies"
-titleSeo: "Staffordshire Bull Terrier Puppies, verifiable genetic tests"
+title: "Staffordshire Bull Terrier puppies"
+titleSeo: "Staffordshire Bull Terrier puppies, verifiable genetic tests"
 date: 2025-12-28
 lastmod: 2026-10-13
 tipoPagina: "CollectionPage"
@@ -31,7 +31,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Del Piccolo Diavolo Kennel</span>
-  <h1 class="hero-title"><em>Staffordshire</em> <br>Bull Terrier <br>Puppies</h1>
+  <h1 class="hero-title"><em>Staffordshire</em> <br>Bull Terrier <br>puppies</h1>
   <p class="hero-subtitle">Elitebull and Lackyle Lines - Since 2013</p>
   <p class="hero-description">Del Piccolo Diavolo puppies are born in the house and stay there for the first month, then grow up between house and yard. We select for health, character and breed type, on English (Elitebull) and Irish (Lackyle) lines documented on SBTPedigree.</p>
   <div class="hero-actions">
@@ -67,7 +67,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Gallery</span>
-  <h2 class="section-title">Our Puppies</h2>
+  <h2 class="section-title">Our puppies</h2>
 
   <div class="gallery-grid">
   <div class="gallery-item"><img src="/images/primo-piano-cucciolo.avif" alt="Staffordshire Bull Terrier puppy" loading="lazy" decoding="async" width="300" height="282"></div>
@@ -90,7 +90,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Reviews</span>
-  <h2 class="section-title">What People Say About Us</h2>
+  <h2 class="section-title">What people say about us</h2>
 
   <div class="review-card">
   <p class="review-text">"Paolo is a guarantee for this breed. Home-raised puppies, continuous support and great expertise. Our Staffy is perfect!"</p>
@@ -110,14 +110,14 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Why Choose Us</span>
-  <h2 class="section-title">Our Approach</h2>
+  <h2 class="section-title">Our approach</h2>
 
   <div class="zigzag">
 
 
   <div class="zigzag-item">
   <div class="zigzag-text">
-  <h3>Temperament and Socialization</h3>
+  <h3>Temperament and socialization</h3>
   <p>Socialisation is the most important process in a puppy's first months. The puppies are born in the house, in the whelping box, and stay there for about a month: it is the phase in which the mother does everything and human contact matters more than anything else. Anyone who came to see them before thirty days saw them there. At around a month they move to a dedicated pen with access outdoors, for a practical reason anyone who has had a litter knows: at that age they make more mess than a lived-in house can take. From then on they come back inside in turns, two at a time and for a few hours, so that each one does its share of home life: family, household noise, other dogs and different people. Every litter born here, with parents, tests, examinations and growth photos, is told in the <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a>.</p>
 
     <a class="rimando" href="/en/bio-sensor-early-stimulation-puppies/">
@@ -137,7 +137,7 @@ custom_content: |
 
   <div class="zigzag-item">
   <div class="zigzag-text">
-  <h3>Family Life</h3>
+  <h3>Family life</h3>
   <p>The Staffy is known as the "nanny dog" for its patience with children. It's a dog that loves being with people, participating in daily life, being an integral part of the family. It's not a backyard dog: it's a life companion.</p>
   </div>
   <div class="zigzag-image">
@@ -259,7 +259,7 @@ custom_content: |
   <!--BLOCCO:9-->
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">Frequently Asked Questions</span>
+  <span class="section-label">Frequently asked questions</span>
   <h2 class="section-title">Puppy FAQ</h2>
 
   <div class="faq-item active">
@@ -330,7 +330,7 @@ custom_content: |
 
   <!--BLOCCO:13-->
   <section class="cta-section">
-  <h2>Want Info About Puppies?</h2>
+  <h2>Want info about puppies?</h2>
   <p>Call us or write on WhatsApp for information about available litters.</p>
   <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20Staffordshire%20Bull%20Terrier%20puppies" class="btn" title="Write us on WhatsApp for puppy info">Write Us on WhatsApp</a>
   </section>

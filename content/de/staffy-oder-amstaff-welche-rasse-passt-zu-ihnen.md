@@ -1,6 +1,6 @@
 ---
 title: "Staffy oder Amstaff, welcher passt zu Ihnen: der Test des Züchters"
-lastmod: 2026-10-05
+lastmod: 2026-10-17
 articolo: true
 image: "/images/blog/staffy-amstaff-hero.webp"
 og_image: "/images/og/schede/de/staffy-oder-amstaff-welche-rasse-passt-zu-ihnen.jpg"
@@ -24,7 +24,7 @@ fonti_motivo: "Diese Seite gibt den Test wieder, den die Zucht Del Piccolo Diavo
 </div>
 </div>
 <div class="hero-content">
-<span class="hero-eyebrow">Vollständiger Leitfaden</span>
+<span class="hero-eyebrow">Die Rasse kennen</span>
 <h1 class="hero-title">Staffy oder Amstaff, welcher passt zu Ihnen: <em>der Test des Züchters</em></h1>
 <p class="hero-subtitle">Dass es nicht derselbe Hund ist, wissen Sie bereits. Bleiben die sieben Fragen, die wir jedem stellen, der uns wegen eines Welpen schreibt</p>
   <div class="hero-meta">

@@ -33,7 +33,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Datenschutz</span>
-  <h2 class="section-title">Informationen zur Verarbeitung Personenbezogener Daten</h2>
+  <h2 class="section-title">Informationen zur Verarbeitung personenbezogener Daten</h2>
 
   <div class="legal-section">
   <h3>1. Verantwortlicher für die Datenverarbeitung</h3>

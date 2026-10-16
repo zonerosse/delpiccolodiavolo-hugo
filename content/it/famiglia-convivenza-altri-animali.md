@@ -1,5 +1,5 @@
 ---
-title: "Staffy con Altri Animali: Guida Convivenza"
+title: "Staffy con altri animali: guida convivenza"
 date: 2024-06-18
 lastmod: 2026-10-13
 translationKey: "altri-animali"
@@ -10,7 +10,7 @@ in_breve:
 articolo: true
 image: "/images/blog/famiglia-3.webp"
 og_image: "/images/og/schede/it/famiglia-convivenza-altri-animali.jpg"
-og_image_alt: "Staffy con Altri Animali: Guida Convivenza — Allevamento Del Piccolo Diavolo"
+og_image_alt: "Staffy con altri animali: guida convivenza — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/famiglia-convivenza-altri-animali.webp"
 description: "Convivenza Staffy con cani, gatti, piccoli animali: protocolli inserimento graduali, gestione risorse, segnali stress, problemi comuni e soluzioni pratiche."
 slug: "famiglia-convivenza-altri-animali"
@@ -23,8 +23,8 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Famiglia e Convivenza</span>
-  <h1 class="hero-title">Staffy e <em>Altri Animali</em></h1>
+  <span class="hero-eyebrow">Famiglia e convivenza</span>
+  <h1 class="hero-title">Staffy e <em>altri animali</em></h1>
   <p class="hero-subtitle">Inserimenti graduali, gestione risorse e protocolli sicuri</p>
   <div class="hero-meta">
   <span>📅 18 Giugno 2024</span>
@@ -44,8 +44,8 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a aria-label="Famiglia e Convivenza — categoria del blog" href="/blog/#famiglia" title="Famiglia">Famiglia e Convivenza</a> ›
-  <span>Convivenza Altri Animali</span>
+  <a aria-label="Famiglia e convivenza — categoria del blog" href="/blog/#famiglia" title="Famiglia">Famiglia e convivenza</a> ›
+  <span>Convivenza altri animali</span>
   </nav>
 
   <div class="article-container">
@@ -63,7 +63,7 @@ custom_content: |
   <h2>Valutare il carattere: la compatibilità con gli altri animali</h2>
   <p>Non tutti gli <strong>Staffordshire Bull Terrier</strong> hanno lo stesso grado di compatibilità con gli altri animali. Prima di tentare qualsiasi inserimento, una valutazione onesta del carattere del proprio cane è indispensabile, sia per la riuscita sia per la sicurezza.</p>
 
-  <h3>Profilo A - Compatibilità alta (Staffy ben socializzati)</h3>
+  <h3>Profilo A - compatibilità alta (Staffy ben socializzati)</h3>
   <ul>
   <li><strong>Caratteristiche:</strong> socializzazione precoce intensa (da cucciolo, fra le 8 e le 16 settimane, con molti cani diversi), esperienze sempre positive, nessun episodio di aggressività verso altri animali</li>
   <li><strong>Comportamento tipico:</strong> annusa con curiosità, si avvicina in curva (non frontalmente), accetta le correzioni degli altri cani, gioca con autocontrollo, si stacca facilmente</li>
@@ -71,7 +71,7 @@ custom_content: |
   <li><strong>Tempi dell'inserimento:</strong> in media 2-4 settimane per arrivare a una convivenza stabile</li>
   </ul>
 
-  <h3>Profilo B - Compatibilità media</h3>
+  <h3>Profilo B - compatibilità media</h3>
   <ul>
   <li><strong>Caratteristiche:</strong> socializzazione buona ma non ideale, qualche episodio di tensione gestito, una selettività iniziale (preferenze per razza, taglia o sesso), possibile possessività moderata sulle risorse</li>
   <li><strong>Comportamento tipico:</strong> rigido all'inizio, poi si rilassa; gioco vigoroso che può intimidire; fatica a staccarsi quando è molto eccitato</li>
@@ -79,7 +79,7 @@ custom_content: |
   <li><strong>Tempi dell'inserimento:</strong> 4-8 settimane, con possibili passi indietro da gestire</li>
   </ul>
 
-  <h3>Profilo C - Compatibilità bassa</h3>
+  <h3>Profilo C - compatibilità bassa</h3>
   <ul>
   <li><strong>Caratteristiche:</strong> precedenti di aggressività aperta verso altri cani o animali, socializzazione assente o traumatica, possessività grave sulle risorse, istinto predatorio alto e non gestibile</li>
   <li><strong>Comportamento tipico:</strong> fissazione intensa, irrigidimento del corpo, scatti e tirate al <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Ordinanza del 6 agosto 2013, Gazzetta Ufficiale" target="_blank" rel="noopener" aria-label="guinzaglio – Ordinanza del 6 agosto 2013, Gazzetta Ufficiale (si apre in una nuova scheda)">guinzaglio</a>, vocalizzi aggressivi, morsi o attacchi</li>
@@ -466,7 +466,7 @@ custom_content: |
   <!--/BLOCCO:10-->
 
   <!--BLOCCO:11-->
-  <h2>Domande Frequenti</h2>
+  <h2>Domande frequenti</h2>
   <!--/BLOCCO:11-->
 
   <section class="faq">

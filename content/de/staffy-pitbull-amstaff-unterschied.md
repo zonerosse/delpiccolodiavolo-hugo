@@ -1,7 +1,7 @@
 ---
 title: "Unterschied zwischen Staffordshire Bull Terrier, Pitbull und Amstaff"
 date: 2025-11-19
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 titleSeo: "Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich"
 translationKey: "pitbull-amstaff"
 in_breve:
@@ -26,7 +26,7 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Standards und Blutlinien</span>
   <h1 class="hero-title">Unterschied <em>Staffy</em>, Pitbull, Amstaff</h1>
-  <p class="hero-subtitle">Vollständiger Leitfaden zur Unterscheidung der drei Rassen</p>
+  <p class="hero-subtitle">Wie man die drei Rassen unterscheidet, mit bloßem Auge und auf dem Papier</p>
   <div class="hero-meta">
   <span>📅 19. November 2025</span>
   <span>⏱️ 9 Min. Lesezeit</span>

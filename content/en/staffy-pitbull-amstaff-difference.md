@@ -1,7 +1,7 @@
 ---
-title: "Difference Between Staffordshire Bull Terrier, Pitbull and Amstaff"
+title: "Difference between Staffordshire Bull Terrier, Pitbull and Amstaff"
 date: 2025-11-19
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 titleSeo: "Staffordshire Bull Terrier, Pitbull and Amstaff compared"
 translationKey: "pitbull-amstaff"
 in_breve:
@@ -25,8 +25,8 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Standards and Bloodlines</span>
-  <h1 class="hero-title">Difference Between <em>Staffy</em>, Pitbull and Amstaff</h1>
-  <p class="hero-subtitle">Complete guide to distinguish the three breeds</p>
+  <h1 class="hero-title">Difference between <em>Staffy</em>, Pitbull and Amstaff</h1>
+  <p class="hero-subtitle">How to tell the three breeds apart, by eye and on paper</p>
   <div class="hero-meta">
   <span>📅 November 19, 2025</span>
   <span>⏱️ 10 min read</span>
@@ -55,7 +55,7 @@ custom_content: |
 
 
   <!--BLOCCO:2-->
-  <h2>Why Are These Breeds Confused?</h2>
+  <h2>Why are these breeds confused?</h2>
 
   <p>The confusion between <strong>Staffordshire Bull Terrier</strong>, <strong>American Pit Bull Terrier</strong> and <strong><a href="https://www.enci.it/media/2547/286.pdf" title="FCI standard no. 286 for the American Staffordshire Terrier, official ENCI PDF" target="_blank" rel="noopener" aria-label="FCI standard no. 286 for the American Staffordshire Terrier, official ENCI PDF (opens in a new tab)">American Staffordshire Terrier</a></strong> is extremely common, not only among laypeople but also in the media and sometimes in institutions. This confusion has concrete consequences: poorly written laws, unjustified prejudice and difficulties for owners.</p>
 
@@ -68,7 +68,7 @@ custom_content: |
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
-  <h2>Historical Origins: A Common Ancestor</h2>
+  <h2>Historical origins: a common ancestor</h2>
 
   <p>To understand the differences between these breeds, it helps to go briefly through their shared history and the point where they diverged.</p>
 
@@ -78,13 +78,13 @@ custom_content: |
 
   <p>From this common stock came several lines that would give rise to the modern breeds.</p>
 
-  <h3>The Staffordshire Bull Terrier: the British Breed</h3>
+  <h3>The Staffordshire Bull Terrier: the British breed</h3>
 
   <p>The <strong>Staffordshire Bull Terrier</strong> developed in the Staffordshire region of England. In 1935 it was officially recognised by the British Kennel Club. The standard was written to preserve the traits of the traditional dogs of the English working class, with an emphasis on a balanced temperament and suitability for family life.</p>
 
   <p>The FCI (Fédération Cynologique Internationale) recognises the Staffordshire Bull Terrier under <strong>standard no. 76</strong>, in Group 3 (Terriers), Section 3 (Bull type Terriers).</p>
 
-  <h3>The American Breeds: Pit Bull and Amstaff</h3>
+  <h3>The American breeds: Pit Bull and Amstaff</h3>
 
   <p>In the 19th century many Bull and Terriers were taken to America by British immigrants. In the United States these dogs developed in two distinct directions:</p>
 
@@ -104,7 +104,7 @@ custom_content: |
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
-  <h2>Physical Comparison: the Table of Differences</h2>
+  <h2>Physical comparison: the table of differences</h2>
 
   <p>Here are the concrete physical differences between the three breeds. The table below sums up the main traits according to the official standards.</p>
 
@@ -187,7 +187,7 @@ custom_content: |
   </tbody>
   </table>
 
-  <h3>How to Tell Them Apart at a Glance</h3>
+  <h3>How to tell them apart at a glance</h3>
 
   <p><strong>The Staffordshire Bull Terrier</strong> is the smallest and most compact. Its head is broad and short in relation to the body, with very pronounced cheeks. The body is close-coupled, muscular but not exaggerated. Maximum weight 17 kg. It is the only one whose ears are never cropped.</p>
 
@@ -197,7 +197,7 @@ custom_content: |
   <!--/BLOCCO:4-->
 
   <!--BLOCCO:5-->
-  <h2>Differences in Character and Temperament</h2>
+  <h2>Differences in character and temperament</h2>
 
   <h3>Staffordshire Bull Terrier</h3>
 
@@ -223,7 +223,7 @@ custom_content: |
   <!--/BLOCCO:5-->
 
   <!--BLOCCO:6-->
-  <h2>Legal Status and Recognition</h2>
+  <h2>Legal status and recognition</h2>
 
   <h3>In Italy</h3>
 
@@ -240,14 +240,14 @@ custom_content: |
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->
-  <h2>Which Breed to Choose?</h2>
+  <h2>Which breed to choose?</h2>
 
   <p>This page is for telling the three breeds apart and understanding what the law says. If you have already ruled out the Pit Bull and need to choose between a <strong>Staffy and an Amstaff</strong>, the dedicated guide lines up the practical questions about space, experience and daily life: <a href="/en/staffy-or-amstaff-which-breed-suits-you/" title="Staffy or Amstaff: which one to choose">which of the two breeds suits you</a>.</p>
   <p>The Del Piccolo Diavolo kennel breeds only the Staffordshire Bull Terrier: a breed with a clear FCI standard, genetic tests for L2HGA and HC, and a size suited to life in the house.</p>
   <!--/BLOCCO:7-->
 
   <!--BLOCCO:8-->
-  <h2>Frequently Asked Questions</h2>
+  <h2>Frequently asked questions</h2>
   <!--/BLOCCO:8-->
 
   <section class="faq">

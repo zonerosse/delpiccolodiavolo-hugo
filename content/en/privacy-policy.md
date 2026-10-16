@@ -1,5 +1,5 @@
 ---
-title: "Privacy Policy – Del Piccolo Diavolo"
+title: "Privacy policy – Del Piccolo Diavolo"
 titleSeo: "Privacy Policy: how we handle your data"
 date: 2025-12-28
 lastmod: 2026-10-05
@@ -17,7 +17,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">GDPR Information</span>
-  <h1 class="hero-title">Privacy <br><em>Policy</em></h1>
+  <h1 class="hero-title">Privacy <br><em>policy</em></h1>
   <p class="hero-subtitle">Personal data processing</p>
   </div>
   </section>
@@ -34,10 +34,10 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Privacy</span>
-  <h2 class="section-title">Information on Personal Data Processing</h2>
+  <h2 class="section-title">Information on personal data processing</h2>
 
   <div class="legal-section">
-  <h3>1. Data Controller</h3>
+  <h3>1. Data controller</h3>
   <p>The Data Controller for personal data processing is:</p>
   <p><strong>Del Piccolo Diavolo Kennel</strong><br>
   Owner: Boldrini Paolo<br>
@@ -47,7 +47,7 @@ custom_content: |
   </div>
 
   <div class="legal-section">
-  <h3>2. Types of Data Collected</h3>
+  <h3>2. Types of data collected</h3>
   <p><strong>Important:</strong> This website does not use tracking cookies, profiling cookies or cookie-based analytics systems. The site exposes no public form: data reaches us if you write or call, or through the contact form described in section 9, which is not reachable from the menus and whose link we send on request.</p>
   <p>Personal data is collected ONLY when you voluntarily choose to contact us via:</p>
   <ul>
@@ -64,7 +64,7 @@ custom_content: |
   </div>
 
   <div class="legal-section">
-  <h3>3. Purpose and Legal Basis for Processing</h3>
+  <h3>3. Purpose and legal basis for processing</h3>
   <p>Personal data is processed for the following purposes:</p>
 
   <h4>a) Handling information requests</h4>
@@ -81,13 +81,13 @@ custom_content: |
   </div>
 
   <div class="legal-section">
-  <h3>4. Processing Methods</h3>
+  <h3>4. Processing methods</h3>
   <p>Personal data is processed using manual and electronic means, with logic strictly related to the indicated purposes and with the adoption of adequate security measures to ensure confidentiality and prevent unauthorized access.</p>
   <p>Communication channels used: Phone, Email, WhatsApp.</p>
   </div>
 
   <div class="legal-section">
-  <h3>5. Data Retention Period</h3>
+  <h3>5. Data retention period</h3>
   <p>Personal data is retained for the time necessary to achieve the indicated purposes:</p>
   <ul>
   <li><strong>Information requests:</strong> Data is retained for the time necessary to provide the requested response and for a subsequent period of 24 months, as for the contact form described in point 9.</li>
@@ -97,7 +97,7 @@ custom_content: |
   </div>
 
   <div class="legal-section">
-  <h3>6. Data Communication and Disclosure</h3>
+  <h3>6. Data communication and disclosure</h3>
   <p>Personal data will not be disclosed. It may be communicated exclusively to:</p>
   <ul>
   <li>Veterinarians or dog industry professionals, only if necessary for the puppy's health</li>
@@ -109,7 +109,7 @@ custom_content: |
   </div>
 
   <div class="legal-section">
-  <h3>7. Data Subject Rights</h3>
+  <h3>7. Data subject rights</h3>
   <p>As a data subject, you have the right to:</p>
   <ul>
   <li><strong>Access (Art. 15 GDPR):</strong> Obtain confirmation of the existence of your personal data and receive a copy</li>
@@ -124,7 +124,7 @@ custom_content: |
   </div>
 
   <div class="legal-section">
-  <h3>8. Right to Lodge a Complaint</h3>
+  <h3>8. Right to lodge a complaint</h3>
   <p>You have the right to lodge a complaint with the Data Protection Authority if you believe that the processing of your data violates the GDPR.</p>
   <p><strong>Garante per la Protezione dei Dati Personali</strong> (Italy)<br>
   Piazza Venezia, 11 - 00187 Rome<br>
@@ -134,7 +134,7 @@ custom_content: |
 
 
   <div class="legal-section">
-  <h3>9. Contact Form</h3>
+  <h3>9. Contact form</h3>
   <p>We use a form to collect the details of anyone who would like to be told when a litter is on the way. <strong>It is not published on this site and cannot be reached from the menus:</strong> it lives at <code>/contatto/</code> and the link is sent by the controller, on request, to people who have already been in touch with the kennel.</p>
   <p><strong>Data collected:</strong> full name, email address, phone number and country (required), town, and the information you choose to provide (sex preference, experience with dogs, where the dog will live and with whom).</p>
   <p><strong>Purpose:</strong> solely to handle your enquiry and to contact you about puppies. Your data is not used for newsletters, automated marketing or profiling.</p>
@@ -147,7 +147,7 @@ custom_content: |
   </div>
 
   <div class="legal-section">
-  <h3>10. Placements Outside Italy</h3>
+  <h3>10. Placements outside Italy</h3>
   <p>When a puppy goes to a family resident in another country, the health and registration procedure requires the new owner's details to be passed to third parties. Specifically:</p>
   <ul>
   <li>The <strong>local veterinary health authority</strong>, for the health certificate and registration in the European TRACES system, which is compulsory for movements of this kind</li>
@@ -159,7 +159,7 @@ custom_content: |
   </div>
 
   <div class="legal-section">
-  <h3>11. Breeding Dogs' Certificates Published on This Site</h3>
+  <h3>11. Breeding dogs' certificates published on this site</h3>
   <p>We publish the laboratory certificates of the dogs used in our breeding programme: genetic tests, cardiological examinations and similar documents. These carry the name of the dog's owner, who in some cases is not the controller of this website.</p>
   <p><strong>Why we publish them:</strong> to make our health claims verifiable, for our own dogs and for the parents of a litter. It is a choice, not an obligation.</p>
   <p><strong>Legal basis:</strong> for dogs we do not own, the explicit consent of the owner, obtained before publication (Art. 6.1.a GDPR).</p>
@@ -167,7 +167,7 @@ custom_content: |
   </div>
 
   <div class="legal-section">
-  <h3>12. Cookies and Tracking Technologies</h3>
+  <h3>12. Cookies and tracking technologies</h3>
   <p><strong>This website sets no cookies of its own.</strong></p>
   <p><strong>YouTube video.</strong> Some breeding-diary pages contain a video embedded from YouTube. We use the <code>youtube-nocookie.com</code> domain: until you press <em>play</em>, YouTube receives no identifiers and writes nothing to your device. If you start the video, Google receives your IP address and may use local storage technologies under its own policy (<a href="https://policies.google.com/privacy" target="_blank" rel="noopener" aria-label="policies.google.com/privacy (opens in a new tab)">policies.google.com/privacy</a>). You can browse every page of the site without ever starting it.</p>
   <p>No technical cookies, profiling cookies, third-party cookies, or user tracking systems are used.</p>
@@ -175,7 +175,7 @@ custom_content: |
   </div>
 
   <div class="legal-section">
-  <h3>13. Changes to Privacy Policy</h3>
+  <h3>13. Changes to privacy policy</h3>
   <p>This Privacy Policy may be updated periodically to reflect regulatory changes or changes in our data processing practices.</p>
   <p class="last-updated"><em>Last updated: September 2026</em></p>
   </div>
@@ -186,7 +186,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <section class="dark-section">
-  <h2>Questions About Privacy?</h2>
+  <h2>Questions about privacy?</h2>
   <p>Contact us for any clarification regarding the processing of your personal data.</p>
   <a href="/wa/393924635584" class="btn" title="Write us on WhatsApp">Write on WhatsApp</a>
   </section>

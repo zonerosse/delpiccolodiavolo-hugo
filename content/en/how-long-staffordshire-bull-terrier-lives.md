@@ -1,5 +1,5 @@
 ---
-title: "How Long Does a Staffordshire Bull Terrier Live?"
+title: "How long does a Staffordshire Bull Terrier live?"
 date: 2026-10-11
 lastmod: 2026-10-11
 titleSeo: "How long does a Staffordshire Bull Terrier live"
@@ -21,7 +21,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Health and Longevity</span>
-  <h1 class="hero-title">How Long Does a <em>Staffordshire Bull Terrier</em> Live?</h1>
+  <h1 class="hero-title">How long does a <em>Staffordshire Bull Terrier</em> live?</h1>
   <p class="hero-subtitle">12-14 years, and what really makes the difference</p>
   <div class="hero-meta">
   <span>📅 11 October 2026</span>

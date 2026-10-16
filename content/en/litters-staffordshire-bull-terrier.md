@@ -1,8 +1,8 @@
 ---
-title: "Staffordshire Bull Terrier Litters"
+title: "Staffordshire Bull Terrier litters"
 titleSeo: "Upcoming Staffy litters: the selection programme"
 date: 2025-12-28
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "programma"
 description: "Staffordshire Bull Terrier litters at Del Piccolo Diavolo: planned and past pairings, the parents, their L2HGA and HC tests, and how we decide each mating."
@@ -26,7 +26,7 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Litter Program</span>
+  <span class="hero-eyebrow">Litter program</span>
   <h1 class="hero-title">The selection programme <br><em>and upcoming litters</em></h1>
   <p class="hero-subtitle">Selection, health and breed type - Since 2013</p>
   <p class="hero-description">Planned pairings chosen for health, temperament and type. On this page you will find the selection programme and the history of our litters.</p>
@@ -65,7 +65,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Pairings</span>
-  <h2 class="section-title">Planned and Past Litters</h2>
+  <h2 class="section-title">Planned and past litters</h2>
 
   <!-- Litter: Bilquis × Black Jack - BORN, NOT AVAILABLE -->
   <!-- GESTIONALE:INIZIO -->
@@ -238,10 +238,10 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Our Program</span>
-  <h2 class="section-title">Litter Program</h2>
+  <h2 class="section-title">Litter program</h2>
 
   <div class="intro-block">
-  <p>At our kennel, every litter is born from careful selection of healthy, balanced, in-standard parents. Our litter program guarantees breed welfare, character and typicality, following the highest ethical and health standards. Every litter born here, with parents, tests, examinations and growth photos, is recorded in the <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a>.</p>
+  <p>At our kennel, every litter is born from careful selection of healthy, balanced, in-standard parents. Every litter born here, with parents, tests, examinations and growth photos, is recorded in the <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a>.</p>
   <p>Puppies grow up in a family environment, socialized with people, sounds and other animals to encourage harmonious development. Each puppy is placed after veterinary checks, vaccinations, microchip and registration.</p>
   <p>We are available to help you choose the most suitable puppy and to follow you even after adoption, with advice and ongoing assistance.</p>
   </div>
@@ -269,7 +269,7 @@ custom_content: |
 
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">Frequently Asked Questions</span>
+  <span class="section-label">Frequently asked questions</span>
   <h2 class="section-title">Litter FAQ</h2>
 
   <div class="faq-item">
@@ -299,7 +299,7 @@ custom_content: |
   </section>
 
   <section class="dark-section">
-  <h2>Welfare, Ethics and Responsibility</h2>
+  <h2>Welfare, ethics and responsibility</h2>
   <p>Since 2013 we have been breeding Staffordshire Bull Terriers with an ethical approach: few selected litters, attention to health, character and breed type. Each puppy is followed with care, from birth to joining the new family. Our mission is to preserve the authenticity of the breed through responsible and transparent selection.</p>
   </section>
 
@@ -308,7 +308,7 @@ custom_content: |
   <!--/BLOCCO:3-->
 
   <section class="cta-section">
-  <h2>Want Info About Litters?</h2>
+  <h2>Want info about litters?</h2>
   <p>Call us or write on WhatsApp for information about available and future litters.</p>
   <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20Staffordshire%20Bull%20Terrier%20litters" class="btn" title="Write us on WhatsApp for litter info">Write Us on WhatsApp</a>
   </section>

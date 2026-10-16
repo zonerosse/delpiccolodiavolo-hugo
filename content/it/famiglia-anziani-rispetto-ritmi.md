@@ -1,5 +1,5 @@
 ---
-title: "Staffordshire Bull Terrier per Anziani: Guida Completa"
+title: "Staffordshire Bull Terrier per anziani: guida completa"
 date: 2024-05-28
 lastmod: 2026-10-13
 translationKey: "anziani"
@@ -10,7 +10,7 @@ in_breve:
 articolo: true
 image: "/images/blog/famiglia-2.webp"
 og_image: "/images/og/schede/it/famiglia-anziani-rispetto-ritmi.jpg"
-og_image_alt: "Staffordshire Bull Terrier per Anziani: Guida Completa — Allevamento Del Piccolo Diavolo"
+og_image_alt: "Staffordshire Bull Terrier per anziani: guida completa — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/famiglia-anziani-rispetto-ritmi.webp"
 description: "Guida realistica Staffy per anziani: valutazione pre-adozione, routine sicure, gestione passeggiate, supporto familiare, costi reali e benefici comprovati."
 slug: "famiglia-anziani-rispetto-ritmi"
@@ -23,8 +23,8 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Famiglia e Convivenza</span>
-  <h1 class="hero-title">Staffy e <em>Anziani</em></h1>
+  <span class="hero-eyebrow">Famiglia e convivenza</span>
+  <h1 class="hero-title">Staffy e <em>anziani</em></h1>
   <p class="hero-subtitle">Convivenza realistica: routine, supporti e benefici comprovati</p>
   <div class="hero-meta">
   <span>📅 28 Maggio 2024</span>
@@ -44,7 +44,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a aria-label="Famiglia e Convivenza — categoria del blog" href="/blog/#famiglia" title="Famiglia">Famiglia e Convivenza</a> ›
+  <a aria-label="Famiglia e convivenza — categoria del blog" href="/blog/#famiglia" title="Famiglia">Famiglia e convivenza</a> ›
   <span>Anziani e Convivenza</span>
   </nav>
 
@@ -121,7 +121,7 @@ custom_content: |
   <!--/BLOCCO:10-->
 
   <!--BLOCCO:11-->
-  <h2>Domande Frequenti</h2>
+  <h2>Domande frequenti</h2>
   <!--/BLOCCO:11-->
 
   <section class="faq">
@@ -162,7 +162,7 @@ custom_content: |
   <h3>Articoli correlati</h3>
   <ul>
   <li><a href="/famiglia-bambini-convivenza/" title="Bambini">Staffy e Bambini: Convivenza Sicura</a></li>
-  <li><a href="/famiglia-convivenza-altri-animali/" title="Altri animali">Convivenza con Altri Animali</a></li>
+  <li><a href="/famiglia-convivenza-altri-animali/" title="Altri animali">Convivenza con altri animali</a></li>
   <li><a href="/salute-esercizio-sicuro/" title="Esercizio">Esercizio Fisico Sicuro</a></li>
   <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento">Consigli prima di prendere un cucciolo</a></li>
   </ul>

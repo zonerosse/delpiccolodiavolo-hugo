@@ -1,7 +1,7 @@
 ---
-title: "Staffordshire Bull Terrier FAQ - Frequently Asked Questions"
+title: "Staffordshire Bull Terrier FAQ - frequently asked questions"
 og_image: "/images/og/schede/en/faq-staffordshire-bull-terrier.jpg"
-og_image_alt: "Staffordshire Bull Terrier FAQ - Frequently Asked Questions — Allevamento Del Piccolo Diavolo"
+og_image_alt: "Staffordshire Bull Terrier FAQ - frequently asked questions — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/faq-sullo-staffordshire-bull-terrier.webp"
 date: 2025-12-28
 lastmod: 2026-10-08
@@ -18,7 +18,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">20 Questions & Answers</span>
-  <h1 class="hero-title">Frequently <br><em>Asked</em> <br>Questions</h1>
+  <h1 class="hero-title">Frequently <br><em>asked</em> <br>questions</h1>
   <p class="hero-subtitle">Everything you want to know about the Staffordshire Bull Terrier</p>
   </div>
   </section>
@@ -35,7 +35,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">FAQ</span>
-  <h2 class="section-title">Your Questions, Our Answers</h2>
+  <h2 class="section-title">Your questions, our answers</h2>
 
   <div class="faq-intro">
   <p>Welcome to the FAQ section of <strong>Del Piccolo Diavolo Kennel</strong>.</p>
@@ -49,7 +49,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is the Staffordshire Bull Terrier dangerous or aggressive?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">The Staffordshire Bull Terrier is not on any list of <a href="/en/staffy-dangerous-breed-law/" title="Is Staffordshire Bull Terrier Dangerous? Italian Law">dangerous breeds</a> in Italy: the list of at-risk breeds was abolished in 2009 by the Ministry of Health, which moved responsibility from the breed to the owner. It is a powerful dog for its size &mdash; 35.5-40.5 cm at the withers and 12.7-17 kg in males &mdash; and that is worth keeping in mind, but dangerousness is not a breed trait: it depends on how temperament is selected, on socialisation in the first weeks, and on how the dog is handled for the rest of its life. The trait genuinely worth knowing about is different: being a terrier, it can show reactivity towards other dogs, most often of the same sex in adulthood. Towards people the <a href="/en/staffy-breed-standard/" title="The Staffordshire Bull Terrier breed standard">breed standard</a> describes a reliable dog, and there the choice of breeding stock matters more than anything else.</div>
+  <div class="faq-answer">The Staffordshire Bull Terrier is not on any list of <a href="/en/staffy-dangerous-breed-law/" title="Is Staffordshire Bull Terrier dangerous? Italian law">dangerous breeds</a> in Italy: the list of at-risk breeds was abolished in 2009 by the Ministry of Health, which moved responsibility from the breed to the owner. It is a powerful dog for its size &mdash; 35.5-40.5 cm at the withers and 12.7-17 kg in males &mdash; and that is worth keeping in mind, but dangerousness is not a breed trait: it depends on how temperament is selected, on socialisation in the first weeks, and on how the dog is handled for the rest of its life. The trait genuinely worth knowing about is different: being a terrier, it can show reactivity towards other dogs, most often of the same sex in adulthood. Towards people the <a href="/en/staffy-breed-standard/" title="The Staffordshire Bull Terrier breed standard">breed standard</a> describes a reliable dog, and there the choice of breeding stock matters more than anything else.</div>
   </div>
 
   <div class="faq-item active">
@@ -283,7 +283,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <section class="dark-section">
-  <h2>Have More Questions?</h2>
+  <h2>Have more questions?</h2>
   <p>We're always available to answer any questions about the Staffordshire Bull Terrier.</p>
   <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20have%20a%20question%20about%20the%20Staffy" class="btn btn-light" title="Write us on WhatsApp for questions">Write Us on WhatsApp</a>
   </section>

@@ -16,7 +16,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Ostellato, Ferrara - Italy</span>
-  <h1 class="hero-title">Come <br><em>Visit Us</em></h1>
+  <h1 class="hero-title">Come <br><em>visit us</em></h1>
   <p class="hero-subtitle">In the heart of Northern Italy</p>
   <p class="hero-description">Strategic location easily reachable from Emilia Romagna, Veneto, Lombardy and Tuscany. Visits by appointment only.</p>
   <div class="hero-actions">
@@ -38,7 +38,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Contact</span>
-  <h2 class="section-title">How to Reach Us</h2>
+  <h2 class="section-title">How to reach us</h2>
 
   <div class="contact-grid">
   <div class="contact-item">
@@ -75,7 +75,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">The Kennel</span>
-  <h2 class="section-title">Where We Are</h2>
+  <h2 class="section-title">Where we are</h2>
 
   <div class="story-block" style="grid-template-columns:1fr">
   <div class="story-text">
@@ -89,7 +89,7 @@ custom_content: |
 
   <div class="story-block reverse">
   <div class="story-text">
-  <h3>Visits By Appointment Only</h3>
+  <h3>Visits by appointment only</h3>
   <p>To ensure the dogs' tranquility and dedicate you the necessary time, we receive exclusively by appointment.</p>
   <p>During your visit you will meet the parents, see the environment where puppies grow, view genetic test certificates and ask all the questions you want.</p>
   <p>Contact us via WhatsApp to schedule a meeting.</p>
@@ -103,7 +103,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Areas Served</span>
-  <h2 class="section-title">Where Breed Enthusiasts Come From</h2>
+  <h2 class="section-title">Where breed enthusiasts come from</h2>
   <p style="color:#4a3f35;margin-bottom:1.5rem">We welcome families from all over Northern and Central Italy, and — increasingly — from beyond the border. Here are the main cities from which we regularly receive visits:</p>
 
   <div class="zones-section">
@@ -201,7 +201,7 @@ custom_content: |
   <div class="story-block">
   <img src="/images/cucciolo-rosso.webp" alt="Staffordshire Bull Terrier puppy" class="story-img" width="350" height="400" loading="lazy" decoding="async">
   <div class="story-text">
-  <h3>Why Come in Person</h3>
+  <h3>Why come in person</h3>
   <p>A Staffordshire Bull Terrier will be with you for 12 to 15 years. That is a decision worth a journey.</p>
   <p>You will see how the puppies are raised, meet the parents, judge their temperament for yourself and see the house they live in. No photograph and no video call replaces standing in the room.</p>
   <p>It matters more, not less, when you live in another country: it is the one occasion you have to check in person everything you have read on a screen.</p>
@@ -214,7 +214,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Frequently Asked</span>
-  <h2 class="section-title">Before You Get in Touch</h2>
+  <h2 class="section-title">Before you get in touch</h2>
 
   <div class="faq-list">
   <div class="faq-item">
@@ -257,7 +257,7 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <section class="dark-section">
-  <h2>We're Waiting for You</h2>
+  <h2>We're waiting for you</h2>
   <p>Come meet our Staffordshire Bull Terriers and the environment where they grow. A visit is the first step toward an informed choice.</p>
   <a href="/wa/393924635584" class="btn" title="Arrange a visit on WhatsApp">Arrange on WhatsApp</a>
   </section>

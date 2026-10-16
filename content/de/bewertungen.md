@@ -42,7 +42,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Testimonials</span>
-  <h2 class="section-title">Was Die Besitzer Sagen</h2>
+  <h2 class="section-title">Was die Besitzer sagen</h2>
 
   <div class="reviews-grid">
 
@@ -321,7 +321,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Unser Ruf</span>
-  <h2 class="section-title">Warum Bewertungen Zählen</h2>
+  <h2 class="section-title">Warum Bewertungen zählen</h2>
 
   <p>Del Piccolo Diavolo hat eine durchschnittliche Bewertung von <!--REC-VOTO--> aus <!--REC-TOTALE--> Bewertungen im Google-Profil der Zucht, alle an der Quelle überprüfbar: Jede auf dieser Seite gezeigte Bewertung trägt den Namen der Person, die sie geschrieben hat, und einen direkten Link zum Original auf Google, wo jeder sie lesen kann, ohne über uns zu gehen. Es sind Familien, die zwischen 2013 und heute einen Staffordshire Bull Terrier Welpen aus Ostellato in der Provinz Ferrara übernommen haben. Eine Bewertung auf einer Website ohne Link zur Quelle ist nicht überprüfbar: Jeder könnte sie geschrieben haben, auch der Züchter. Es ist dasselbe Prinzip wie bei den Befunden der Gentests, die hier mit der Mikrochipnummer des Hundes veröffentlicht sind. Die Bewertungen erzählen von der Vermittlung; was danach geschah, Jahre später, erzählen die <a href="/de/staffordshire-in-der-familie-geschichten/" title="Geschichten aus den Familien">Geschichten der Hunde, die wir gezüchtet haben</a>.</p>
   <div class="values-grid">

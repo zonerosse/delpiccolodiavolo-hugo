@@ -49,7 +49,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Unsere Werte</span>
-  <h2 class="section-title">Was Uns Leitet</h2>
+  <h2 class="section-title">Was uns leitet</h2>
   <div class="values-grid">
   <div class="value-card"><h3>🧬 Gentests</h3><p>Alle Zuchthunde auf L2HGA und HC getestet</p></div>
   <div class="value-card"><h3>🏠 In der Familie</h3><p>Welpen in häuslicher Umgebung sozialisiert</p></div>
@@ -96,7 +96,7 @@ custom_content: |
 
   <div class="story-block">
   <div class="story-text">
-  <h3>Qualität, Nicht Quantität</h3>
+  <h3>Qualität, nicht Quantität</h3>
   <p>1-2 Würfe pro Jahr. Jede Verpaarung ist geplant: Wir studieren Stammbäume, bewerten genetische Kompatibilität, warten auf den richtigen Zeitpunkt. Jeder hier geborene Wurf, mit Eltern, Tests, Untersuchungen und Fotos des Heranwachsens, steht im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Zuchttagebuch</a>.</p>
   <h3 style="margin-top:1.2rem">Charakterselektion</h3>
   <p>Bevor ein Hund ins Zuchtprogramm aufgenommen wird, beobachten wir ihn monatelang: Verhalten zu Hause, mit Fremden, anderen Hunden, Kindern. Er muss sicher, ausgeglichen, gesellig sein.</p>

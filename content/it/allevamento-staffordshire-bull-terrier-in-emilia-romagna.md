@@ -40,7 +40,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Contatti</span>
-  <h2 class="section-title">Come Contattarci</h2>
+  <h2 class="section-title">Come contattarci</h2>
 
   <div class="contact-grid">
   <div class="contact-item">
@@ -81,7 +81,7 @@ custom_content: |
   <div class="intro-block" style="max-width:800px;text-align:left">
   <p>L'allevamento Del Piccolo Diavolo si trova a Ostellato, in provincia di Ferrara, in Emilia-Romagna, e riceve esclusivamente su appuntamento. La visita serve a vedere i cani adulti, <a href="/genitori-visibili-cosa-significa/" title="Genitori visibili: cosa significa">la madre della cucciolata</a> e il posto dove i cuccioli crescono, e a controllare di persona pedigree e referti dei test genetici. Ostellato &egrave; raggiungibile in circa un'ora da Bologna e da Ravenna, in due da Verona e Padova, in tre da Milano e Firenze. I cuccioli non vengono spediti con corrieri n&eacute; consegnati a met&agrave; strada: chi ne prende uno viene qui. Per chi scrive dall'estero in inglese, tedesco o spagnolo c'&egrave; un secondo recapito telefonico dedicato.</p>
 
-  <p>Del Piccolo Diavolo è uno dei pochi <a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamenti di Staffordshire Bull Terrier</a> in Emilia-Romagna con un programma di selezione strutturato e documentato. Attivo dal 2013 a Ostellato, in provincia di Ferrara, lavoriamo esclusivamente con linee di sangue inglesi (Elitebull) e irlandesi (Lackyle), scelte per <a href="/standard-tipicita-morfologia/" title="Staffordshire Bull Terrier: Tipicità di Razza e Morfologia">tipicità</a>, salute e carattere.</p>
+  <p>Del Piccolo Diavolo è uno dei pochi <a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamenti di Staffordshire Bull Terrier</a> in Emilia-Romagna con un programma di selezione strutturato e documentato. Attivo dal 2013 a Ostellato, in provincia di Ferrara, lavoriamo esclusivamente con linee di sangue inglesi (Elitebull) e irlandesi (Lackyle), scelte per <a href="/standard-tipicita-morfologia/" title="Staffordshire Bull Terrier: tipicità di razza e morfologia">tipicità</a>, salute e carattere.</p>
   <p>Dal 2013 abbiamo prodotto 1 Campione Italiano, 3 Giovani Campioni Italiani e un 4° posto al World Dog Show e decine di soggetti inseriti con successo in famiglie di tutta Italia. Ogni riproduttore è testato per L2HGA e HC, e le fattrici anche per la mielopatia degenerativa (DM-SOD1): le tre principali patologie ereditarie della razza con un test del DNA.</p>
   <p>Non siamo un allevamento commerciale: produciamo 1-2 cucciolate all'anno, seguite con attenzione dalla nascita all'affido. Chi sceglie Del Piccolo Diavolo non compra un cane: entra in una relazione che dura per tutta la vita dell'animale.</p>
   <p>Per conoscere nel dettaglio il nostro metodo di lavoro, visita la pagina <a href="/chi-siamo/" title="Chi siamo - Allevamento Del Piccolo Diavolo">chi siamo</a>.</p>
@@ -94,7 +94,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">L'Allevamento</span>
-  <h2 class="section-title">Dove Siamo</h2>
+  <h2 class="section-title">Dove siamo</h2>
 
   <div class="story-block" style="grid-template-columns:1fr">
   <div class="story-text">
@@ -108,7 +108,7 @@ custom_content: |
 
   <div class="story-block reverse">
   <div class="story-text">
-  <h3>Visite Solo su Appuntamento</h3>
+  <h3>Visite solo su appuntamento</h3>
   <p>Per garantire la tranquillità dei cani e dedicarvi il tempo necessario, riceviamo esclusivamente su appuntamento.</p>
   <p>Durante la visita potrete conoscere i genitori, vedere l'ambiente in cui crescono i cuccioli, visionare i certificati dei test genetici e fare tutte le domande che desiderate.</p>
   <p>Contattateci via WhatsApp per fissare un incontro.</p>
@@ -122,7 +122,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Zone Servite</span>
-  <h2 class="section-title">Da Dove Vengono gli Appassionati della Razza</h2>
+  <h2 class="section-title">Da dove vengono gli appassionati della razza</h2>
   <p style="color:#4a3f35;margin-bottom:1.5rem">Accogliamo famiglie da tutto il Nord e Centro Italia. Ecco le principali città da cui riceviamo visite regolarmente:</p>
 
   <div class="zones-section">
@@ -183,7 +183,7 @@ custom_content: |
   <div class="story-block">
   <img src="/images/cucciolo-rosso.webp" alt="Cucciolo Staffordshire Bull Terrier" class="story-img" width="350" height="400" loading="lazy" decoding="async">
   <div class="story-text">
-  <h3>Perché Venire di Persona</h3>
+  <h3>Perché venire di persona</h3>
   <p>Uno Staffordshire Bull Terrier vi accompagnerà per 12-15 anni. È una scelta importante che merita una visita di persona.</p>
   <p>Vedrete come crescono i cuccioli, conoscerete i genitori, valuterete il loro carattere e l'ambiente in cui vivono. Nessuna foto o video può sostituire l'incontro dal vivo.</p>
   <p>Se venite da lontano e volete fermarvi, possiamo consigliarvi agriturismi e B&B nelle vicinanze.</p>
@@ -195,8 +195,8 @@ custom_content: |
   <!--BLOCCO:6-->
   <section class="section section-alt">
   <div class="section-inner">
-  <span class="section-label">Domande Frequenti</span>
-  <h2 class="section-title">Prima di Contattarci</h2>
+  <span class="section-label">Domande frequenti</span>
+  <h2 class="section-title">Prima di contattarci</h2>
 
   <div class="faq-list">
   <div class="faq-item">
@@ -236,7 +236,7 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <section class="dark-section">
-  <h2>Ti Aspettiamo</h2>
+  <h2>Ti aspettiamo</h2>
   <p>Vieni a conoscere i nostri Staffordshire Bull Terrier e l'ambiente in cui crescono. La visita è il primo passo per una scelta consapevole.</p>
   <a href="/wa/393924635584" class="btn btn-gold" title="Concorda una visita su WhatsApp">Concorda su WhatsApp</a>
   </section>

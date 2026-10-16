@@ -1,5 +1,5 @@
 ---
-title: "Puppies: First Walk"
+title: "Puppies: first walk"
 date: 2025-09-17
 titleSeo: "A puppy's first walk: when to start and how"
 lastmod: 2026-10-06
@@ -21,7 +21,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Puppies</span>
-  <h1 class="hero-title">First <em>Walk</em></h1>
+  <h1 class="hero-title">First <em>walk</em></h1>
   <p class="hero-subtitle">Equipment and first rules</p>
   <div class="hero-meta">
   <span>📅 September 17, 2025</span>
@@ -115,7 +115,7 @@ custom_content: |
   <div class="related-articles">
   <h3>More on this topic</h3>
   <ul>
-  <li><a href="/en/staffy-safe-exercise/" title="Safe Exercise for Staffordshire Bull Terrier">Safe Exercise for Staffordshire Bull Terrier</a></li>
+  <li><a href="/en/staffy-safe-exercise/" title="Safe exercise for Staffordshire Bull Terrier">Safe exercise for Staffordshire Bull Terrier</a></li>
   </ul>
   </div>
 

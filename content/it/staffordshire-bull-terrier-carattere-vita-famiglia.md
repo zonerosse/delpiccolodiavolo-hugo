@@ -1,7 +1,7 @@
 ---
-title: "Staffordshire Bull Terrier: Carattere, Vita in Famiglia e Cosa Aspettarsi"
+title: "Staffordshire Bull Terrier: carattere, vita in famiglia e cosa aspettarsi"
 date: 2026-04-28
-lastmod: 2026-10-05
+lastmod: 2026-10-17
 titleSeo: "Staffordshire Bull Terrier: carattere e vita in famiglia"
 translationKey: "carattere-famiglia"
 articolo: true
@@ -20,8 +20,8 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Famiglia e Convivenza</span>
-  <h1 class="hero-title">Carattere e Vita in Famiglia con lo <em>Staffy</em></h1>
+  <span class="hero-eyebrow">Famiglia e convivenza</span>
+  <h1 class="hero-title">Carattere e vita in famiglia con lo <em>Staffy</em></h1>
   <p class="hero-subtitle">Con la razza dal 2005, allevatore dal 2013.</p>
   <div class="hero-meta">
   <span>📅 28 Aprile 2026</span>
@@ -41,7 +41,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a aria-label="Famiglia e Convivenza — categoria del blog" href="/blog/#famiglia" title="Famiglia">Famiglia e Convivenza</a> ›
+  <a aria-label="Famiglia e convivenza — categoria del blog" href="/blog/#famiglia" title="Famiglia">Famiglia e convivenza</a> ›
   <span>Carattere e Vita in Famiglia</span>
   </nav>
 
@@ -112,7 +112,7 @@ custom_content: |
   <!--BLOCCO:6-->
   <h2>In appartamento: funziona?</h2>
 
-  <p>Sì, funziona — con le giuste condizioni. Lo Staffy non è un cane da giardino: è un cane da divano. Preferisce stare dentro con la famiglia che fuori da solo. L'appartamento va benissimo se il proprietario è presente e attivo. Per una persona non più giovane cambia soprattutto l'età del cane da scegliere: ne parliamo nella guida su <a href="/famiglia-anziani-rispetto-ritmi/" title="Staffordshire Bull Terrier per Anziani: Guida Completa">Staffy e proprietari anziani</a>.</p>
+  <p>Sì, funziona — con le giuste condizioni. Lo Staffy non è un cane da giardino: è un cane da divano. Preferisce stare dentro con la famiglia che fuori da solo. L'appartamento va benissimo se il proprietario è presente e attivo. Per una persona non più giovane cambia soprattutto l'età del cane da scegliere: ne parliamo nella guida su <a href="/famiglia-anziani-rispetto-ritmi/" title="Staffordshire Bull Terrier per anziani: guida completa">Staffy e proprietari anziani</a>.</p>
 
   <p>Quello che non funziona è lasciare uno Staffy solo in appartamento 10 ore al giorno. Questo vale per quasi tutte le razze, ma per lo Staffy — che ha un attaccamento umano particolarmente forte — è ancora più problematico.</p>
   <!--/BLOCCO:6-->
@@ -141,8 +141,8 @@ custom_content: |
   <ul>
   <li><a href="/staffordshire-bull-terrier-carattere/" title="Temperamento e selezione">Da dove viene questo carattere: la selezione della razza</a></li>
   <li><a href="/famiglia-bambini-convivenza/" title="Bambini">Staffy e Bambini: Convivenza Sicura</a></li>
-  <li><a href="/famiglia-convivenza-altri-animali/" title="Altri animali">Convivenza con Altri Animali</a></li>
-  <li><a href="/famiglia-anziani-rispetto-ritmi/" title="Anziani">Staffy e Anziani: Guida Completa</a></li>
+  <li><a href="/famiglia-convivenza-altri-animali/" title="Altri animali">Convivenza con altri animali</a></li>
+  <li><a href="/famiglia-anziani-rispetto-ritmi/" title="Anziani">Staffy e proprietari anziani</a></li>
   <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere">Come Scegliere un Allevamento Serio</a></li>
   </ul>
   </div>

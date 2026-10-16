@@ -18,7 +18,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">20 Fragen & Antworten</span>
-  <h1 class="hero-title">Häufig <br><em>Gestellte</em> <br>Fragen</h1>
+  <h1 class="hero-title">Häufig <br><em>gestellte</em> <br>Fragen</h1>
   <p class="hero-subtitle">Alles, was Sie über den Staffordshire Bull Terrier wissen möchten</p>
   </div>
   </section>
@@ -35,7 +35,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">FAQ</span>
-  <h2 class="section-title">Ihre Fragen, Unsere Antworten</h2>
+  <h2 class="section-title">Ihre Fragen, unsere Antworten</h2>
 
   <div class="faq-intro">
   <p>Willkommen im FAQ-Bereich der <strong>Zucht Del Piccolo Diavolo</strong>.</p>

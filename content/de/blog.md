@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Blog - Artikel & Ratgeber"
 date: 2025-12-28
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "blog"
 description: "Ratgeber über Welpen, Gesundheit, Standard, Blutlinien und das Zusammenleben mit dem Staffordshire Bull Terrier, geschrieben von der Zucht Del Piccolo Diavolo."
@@ -258,7 +258,7 @@ custom_content: |
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">19 Nov 2025</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/de/staffy-pitbull-amstaff-unterschied/" title="Lesen: Unterschied Staffy Pitbull Amstaff">Unterschied zwischen Staffordshire Bull Terrier, Pitbull und Amstaff</a></h3>
-  <p>Kompletter Ratgeber: Ursprünge, FCI-Standard, Größe, Charakter und Anerkennung.</p>
+  <p>Ursprünge, FCI-Standard, Größe, Charakter und Anerkennung.</p>
   <a class="read" href="/de/staffy-pitbull-amstaff-unterschied/" title="Vollständigen Artikel lesen" aria-label="Artikel lesen: Unterschied zwischen Staffordshire Bull Terrier, Pitbull und Amstaff">Lesen<span class="sr-only">: Unterschied zwischen Staffordshire Bull Terrier, Pitbull und Amstaff</span> →</a>
   </div>
   </article>
@@ -340,9 +340,9 @@ custom_content: |
   <a href="/de/staffy-gentests-l2hga-hc/" title="Lesen: L2HGA und HC Gentests"><div class="blog-card-thumb"><img src="/images/blog/icone/test-genetici-l2hga-hc-staffy.webp" alt="Staffordshire Bull Terrier: l2HGA und HC Gentests" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">20 Nov 2025</span><span>•</span><span class="cat">Gesundheit</span></div>
-  <h3><a href="/de/staffy-gentests-l2hga-hc/" title="Lesen: L2HGA und HC Gentests">L2HGA und HC Gentests: Kompletter Ratgeber</a></h3>
+  <h3><a href="/de/staffy-gentests-l2hga-hc/" title="Lesen: L2HGA und HC Gentests">L2HGA- und HC-Gentests: was sie sind und wie man sie liest</a></h3>
   <p>Was sie sind, wie man sie liest, wo man sie macht und warum sie wichtig sind.</p>
-  <a class="read" href="/de/staffy-gentests-l2hga-hc/" title="Vollständigen Artikel lesen" aria-label="Artikel lesen: L2HGA und HC Gentests: Kompletter Ratgeber">Lesen<span class="sr-only">: L2HGA und HC Gentests: Kompletter Ratgeber</span> →</a>
+  <a class="read" href="/de/staffy-gentests-l2hga-hc/" title="Vollständigen Artikel lesen" aria-label="Artikel lesen: L2HGA- und HC-Gentests: was sie sind und wie man sie liest">Lesen<span class="sr-only">: L2HGA- und HC-Gentests: was sie sind und wie man sie liest</span> →</a>
   </div>
   </article>
   </div>
@@ -447,9 +447,9 @@ custom_content: |
   <a href="/de/staffordshire-bull-terrier-charakter-familienleben/" title="Lesen: Charakter und Familienleben"><div class="blog-card-thumb"><img src="/images/blog/icone/staffordshire-bull-terrier-carattere-vita-famiglia.webp" alt="Staffordshire Bull Terrier Charakter und Familienleben" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">28 Apr 2026</span><span>•</span><span class="cat">Familie</span></div>
-  <h3><a href="/de/staffordshire-bull-terrier-charakter-familienleben/" title="Lesen: Charakter und Familienleben">Staffordshire Bull Terrier: Charakter, Familienleben und Was Sie Erwarten Können</a></h3>
+  <h3><a href="/de/staffordshire-bull-terrier-charakter-familienleben/" title="Lesen: Charakter und Familienleben">Staffordshire Bull Terrier: Charakter, Familienleben und was Sie erwarten können</a></h3>
   <p>Mit der Rasse seit 2005. Vor- und Nachteile und was Sie wirklich von einem Staffy erwarten können.</p>
-  <a class="read" href="/de/staffordshire-bull-terrier-charakter-familienleben/" title="Vollständigen Artikel lesen" aria-label="Artikel lesen: Staffordshire Bull Terrier: Charakter, Familienleben und Was Sie Erwarten Können">Lesen<span class="sr-only">: Staffordshire Bull Terrier: Charakter, Familienleben und Was Sie Erwarten Können</span> →</a>
+  <a class="read" href="/de/staffordshire-bull-terrier-charakter-familienleben/" title="Vollständigen Artikel lesen" aria-label="Artikel lesen: Staffordshire Bull Terrier: Charakter, Familienleben und was Sie erwarten können">Lesen<span class="sr-only">: Staffordshire Bull Terrier: Charakter, Familienleben und was Sie erwarten können</span> →</a>
   </div>
   </article>
 

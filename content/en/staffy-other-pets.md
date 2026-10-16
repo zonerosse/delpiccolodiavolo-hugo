@@ -1,5 +1,5 @@
 ---
-title: "Staffy and Other Pets"
+title: "Staffy and other pets"
 date: 2024-06-18
 titleSeo: "Staffordshire Bull Terrier with other pets at home"
 lastmod: 2026-10-13
@@ -25,7 +25,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Family</span>
-  <h1 class="hero-title">Staffy and <em>Other Pets</em></h1>
+  <h1 class="hero-title">Staffy and <em>other pets</em></h1>
   <p class="hero-subtitle">Cohabitation tips and introductions</p>
   <div class="hero-meta">
   <span>📅 June 18, 2024</span>
@@ -38,7 +38,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> ›
   <a href="/en/blog/" title="Blog">Blog</a> ›
-  <span>Staffy and Other Pets</span>
+  <span>Staffy and other pets</span>
   </nav>
 
   <div class="article-container">
@@ -59,7 +59,7 @@ custom_content: |
 
   <p>Not every <strong>Staffordshire Bull Terrier</strong> has the same level of compatibility with other animals. Before attempting any introduction, an honest assessment of your own dog's temperament is essential for both success and safety.</p>
 
-  <h3>Profile A - High compatibility (well-socialised Staffies)</h3>
+  <h3>Profile A - high compatibility (well-socialised Staffies)</h3>
   <ul>
   <li><strong>Characteristics:</strong> intensive early socialisation (as a puppy, between 8 and 16 weeks, with many different dogs), consistently positive experiences, never any episode of aggression towards other animals</li>
   <li><strong>Typical behaviour:</strong> sniffs with curiosity, approaches in a curve (not head-on), accepts corrections from other dogs, plays with self-control, disengages easily</li>
@@ -67,7 +67,7 @@ custom_content: |
   <li><strong>Introduction timeline:</strong> on average 2-4 weeks to a stable household</li>
   </ul>
 
-  <h3>Profile B - Medium compatibility</h3>
+  <h3>Profile B - medium compatibility</h3>
   <ul>
   <li><strong>Characteristics:</strong> good but not ideal socialisation, a few episodes of tension that were managed, initial selectivity (preferences by breed, size or sex), possible moderate resource guarding</li>
   <li><strong>Typical behaviour:</strong> stiff at first, then relaxes; vigorous play that can intimidate; struggles to disengage when very excited</li>
@@ -75,7 +75,7 @@ custom_content: |
   <li><strong>Introduction timeline:</strong> 4-8 weeks, with possible setbacks to manage</li>
   </ul>
 
-  <h3>Profile C - Low compatibility</h3>
+  <h3>Profile C - low compatibility</h3>
   <ul>
   <li><strong>Characteristics:</strong> a history of open aggression towards other dogs or animals, absent or traumatic socialisation, severe resource guarding, a high prey drive that cannot be managed</li>
   <li><strong>Typical behaviour:</strong> intense fixation, body stiffening, lunging and pulling on the <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Ordinance of 6 August 2013, Gazzetta Ufficiale" target="_blank" rel="noopener" aria-label="lead – Ordinance of 6 August 2013, Gazzetta Ufficiale (opens in a new tab)">lead</a>, aggressive vocalisations, bites or attacks</li>

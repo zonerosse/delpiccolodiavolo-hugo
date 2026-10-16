@@ -1,7 +1,7 @@
 ---
-title: "Staffordshire Bull Terrier: Character, Family Life and What to Expect"
+title: "Staffordshire Bull Terrier: character, family life and what to expect"
 date: 2026-04-28
-lastmod: 2026-10-05
+lastmod: 2026-10-17
 titleSeo: "Staffordshire Bull Terrier: character and family life"
 translationKey: "carattere-famiglia"
 articolo: true
@@ -20,8 +20,8 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Family and Cohabitation</span>
-  <h1 class="hero-title">Staffy Character and <em>Family Life</em></h1>
+  <span class="hero-eyebrow">Family and cohabitation</span>
+  <h1 class="hero-title">Staffy character and <em>family life</em></h1>
   <p class="hero-subtitle">With the breed since 2005, breeding since 2013.</p>
   <div class="hero-meta">
   <span>📅 28 April 2026</span>
@@ -41,8 +41,8 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> ›
   <a href="/en/blog/" title="Blog">Blog</a> ›
-  <a aria-label="Family and Cohabitation — blog category" href="/en/blog/#family" title="Family">Family and Cohabitation</a> ›
-  <span>Character and Family Life</span>
+  <a aria-label="Family and cohabitation — blog category" href="/en/blog/#family" title="Family">Family and cohabitation</a> ›
+  <span>Character and Family life</span>
   </nav>
 
   <div class="article-container">
@@ -141,7 +141,7 @@ custom_content: |
   <ul>
   <li><a href="/en/staffy-children-family/" title="Children">Staffy and Children: Safe Cohabitation</a></li>
   <li><a href="/en/staffy-other-pets/" title="Other animals">Living with Other Animals</a></li>
-  <li><a href="/en/staffy-elderly-owners/" title="Elderly">Staffy and Elderly Owners: Complete Guide</a></li>
+  <li><a href="/en/staffy-elderly-owners/" title="Elderly">Staffy and elderly owners</a></li>
   <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Choosing a breeder">How to Choose a Serious Kennel</a></li>
   </ul>
   </div>

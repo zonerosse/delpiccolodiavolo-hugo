@@ -1,7 +1,7 @@
 ---
-title: "Dental Health and Oral Hygiene for Staffordshire Bull Terrier"
+title: "Dental health and oral hygiene for Staffordshire Bull Terrier"
 date: 2024-06-18
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 titleSeo: "Dental health for the Staffordshire Bull Terrier"
 translationKey: "denti"
 in_breve:
@@ -24,9 +24,9 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Health and Wellness</span>
-  <h1 class="hero-title">Dental Health and <em>Oral Hygiene</em></h1>
-  <p class="hero-subtitle">Complete guide for Staffordshire Bull Terrier</p>
+  <span class="hero-eyebrow">Health and wellness</span>
+  <h1 class="hero-title">Dental health and <em>oral hygiene</em></h1>
+  <p class="hero-subtitle">Brushing, tartar prevention and dental health</p>
   <div class="hero-meta">
   <span>📅 June 18, 2024</span>
   <span>⏱️ 11 min read</span>
@@ -188,7 +188,7 @@ custom_content: |
   <h3>More on this topic</h3>
   <ul>
   <li><a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)">Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)</a></li>
-  <li><a href="/en/staffy-parasite-prevention/" title="Parasite Prevention for Staffordshire Bull Terrier">Parasite Prevention for Staffordshire Bull Terrier</a></li>
+  <li><a href="/en/staffy-parasite-prevention/" title="Parasite prevention for Staffordshire Bull Terrier">Parasite prevention for Staffordshire Bull Terrier</a></li>
   <li><a href="/en/puppy-initial-feeding/" title="Feeding a Staffordshire Bull Terrier puppy: first months">Feeding a Staffordshire Bull Terrier puppy: first months</a></li>
   <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Choosing a breeder">Advice before taking on a puppy</a></li>
   </ul>

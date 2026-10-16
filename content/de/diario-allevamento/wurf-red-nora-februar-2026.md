@@ -1,6 +1,6 @@
 ---
 title: "Wurf Red × Nora (Februar 2026)"
-lastmod: 2026-09-30
+lastmod: 2026-10-15
 titleSeo: "Wurf Red und Nora, Februar 2026: Eltern und Gentests"
 articolo: true
 translationKey: "cucciolata-red-nora-febbraio-2026"

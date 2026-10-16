@@ -5,10 +5,12 @@
 #   python3 tools/lastmod/aggiorna.py          -> elenca le date da correggere
 #   python3 tools/lastmod/aggiorna.py --scrivi -> le corregge nei file
 # Le modifiche non ancora committate prendono la data di oggi.
+# Il confronto ignora maiuscole e minuscole: cambiare solo le maiuscole di un
+# titolo non e' una modifica del contenuto e non sposta la data (ottobre 2026).
 import subprocess,re,glob,sys,datetime
 def vis(s):
     lines=[l for l in s.splitlines() if not l.startswith(('lastmod:','date:','og_image','og_image_alt','thumb:'))]
-    t=re.sub(r'<[^>]*>','','\n'.join(lines)); return re.sub(r'\s+',' ',t).strip()
+    t=re.sub(r'<[^>]*>','','\n'.join(lines)); return re.sub(r'\s+',' ',t).strip().casefold()
 def git(*a): return subprocess.run(['git',*a],capture_output=True,text=True,encoding='utf8').stdout
 oggi=datetime.date.today().isoformat(); out=[]
 for f in sorted(glob.glob('content/**/*.md',recursive=True)):

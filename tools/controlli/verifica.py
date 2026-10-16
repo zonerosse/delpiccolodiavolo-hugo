@@ -776,6 +776,21 @@ def _git(*a):
     return subprocess.run(["git", *a], capture_output=True, text=True, encoding="utf-8").stdout.split()
 cambiati = set(x.replace("\\", "/") for x in _git("diff", "--name-only", "HEAD", "--", "content")) | \
            set(x.replace("\\", "/") for x in _git("ls-files", "--others", "--exclude-standard", "content"))
+# Se nel file italiano sono cambiate solo maiuscole/minuscole (o il markup, o
+# lastmod), non e' una modifica del contenuto: EN e DE non vanno toccate
+# (per esempio i titoli passati dalle Maiuscole All'Inglese alla forma
+# italiana, che in tedesco non ha equivalente). Ottobre 2026.
+def _vis(s):
+    righe = [l for l in s.splitlines() if not l.startswith(("lastmod:", "date:", "og_image", "thumb:"))]
+    t = re.sub(r"<[^>]*>", "", "\n".join(righe))
+    return re.sub(r"\s+", " ", t).strip().casefold()
+def _solo_maiuscole(f):
+    prima = subprocess.run(["git", "show", f"HEAD:{f}"], capture_output=True, text=True, encoding="utf-8").stdout
+    try:
+        ora = open(f, encoding="utf-8").read()
+    except OSError:
+        return False
+    return bool(prima) and _vis(prima) == _vis(ora)
 per_tk = collections.defaultdict(dict)
 for f, (fm, _) in pagine_src.items():
     if fm.get("translationKey") and not vero(fm.get("noindex")):
@@ -786,7 +801,7 @@ for k, lingue in per_tk.items():
     for l in ("en", "de"):
         if l not in lingue: continue
         f_l, lm_l = lingue[l]
-        if f_it in cambiati and f_l not in cambiati:
+        if f_it in cambiati and f_l not in cambiati and not _solo_maiuscole(f_it):
             segnala("sync", "ERRORE", "", f_l, f"cambiato {f_it}, questa no")
         if lm_it and lm_l and lm_it > lm_l:
             segnala("sync_data", "AVVISO", "", f_l, f"IT {lm_it}, {l.upper()} {lm_l}")

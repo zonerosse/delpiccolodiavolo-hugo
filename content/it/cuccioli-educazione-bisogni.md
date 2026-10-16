@@ -1,5 +1,5 @@
 ---
-title: "Cuccioli: Educazione ai bisogni"
+title: "Cuccioli: educazione ai bisogni"
 date: 2025-05-22
 titleSeo: "Educare il cucciolo ai bisogni: metodo e tempi reali"
 lastmod: 2026-10-05
@@ -21,7 +21,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Cuccioli</span>
-  <h1 class="hero-title">Educazione ai <em>Bisogni</em></h1>
+  <h1 class="hero-title">Educazione ai <em>bisogni</em></h1>
   <p class="hero-subtitle">Quanto ci vuole davvero, i cinque momenti e gli incidenti</p>
   <div class="hero-meta">
   <span>📅 22 Maggio 2025</span>

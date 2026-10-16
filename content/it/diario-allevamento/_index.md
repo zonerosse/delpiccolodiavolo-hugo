@@ -1,5 +1,5 @@
 ---
-title: "Diario Allevamento"
+title: "Diario allevamento"
 titleSeo: "Diario dell'allevamento: cucciolate, date e test genetici"
 date: 2026-01-31
 lastmod: 2026-10-08

@@ -1,5 +1,5 @@
 ---
-title: "Parassiti: Prevenzione e Controllo Staffordshire Bull Terrier"
+title: "Parassiti: prevenzione e controllo Staffordshire Bull Terrier"
 date: 2025-01-20
 lastmod: 2026-10-13
 titleSeo: "Parassiti nello Staffordshire Bull Terrier: prevenzione"
@@ -24,8 +24,8 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Salute e Benessere</span>
-  <h1 class="hero-title">Parassiti: <em>Prevenzione</em> e Controllo</h1>
+  <span class="hero-eyebrow">Salute e benessere</span>
+  <h1 class="hero-title">Parassiti: <em>prevenzione</em> e controllo</h1>
   <p class="hero-subtitle">Pulci, zecche e protocolli stagionali</p>
   <div class="hero-meta">
   <span>📅 20 Gennaio 2025</span>
@@ -45,7 +45,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a aria-label="Salute e Benessere — categoria del blog" href="/blog/#salute" title="Salute e Benessere">Salute e Benessere</a> ›
+  <a aria-label="Salute e benessere — categoria del blog" href="/blog/#salute" title="Salute e benessere">Salute e benessere</a> ›
   <span>Prevenzione Parassiti</span>
   </nav>
 
@@ -144,7 +144,7 @@ custom_content: |
   <!--/BLOCCO:10-->
 
   <!--BLOCCO:11-->
-  <h2>Domande Frequenti</h2>
+  <h2>Domande frequenti</h2>
   <!--/BLOCCO:11-->
 
   <section class="faq">
@@ -180,7 +180,7 @@ custom_content: |
   <div class="related">
   <h3>Articoli correlati</h3>
   <ul>
-  <li><a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici">Test Genetici L2-HGA e HC</a></li>
+  <li><a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici">Test genetici L2-HGA e HC</a></li>
   <li><a href="/cuccioli-prime-vaccinazioni/" title="Prime vaccinazioni">Prime Vaccinazioni del Cucciolo</a></li>
   <li><a href="/cuccioli-alimentazione-iniziale/" title="Alimentazione">Alimentazione Iniziale del Cucciolo</a></li>
   <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento">Consigli prima di prendere un cucciolo</a></li>

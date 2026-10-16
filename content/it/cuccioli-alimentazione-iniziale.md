@@ -1,5 +1,5 @@
 ---
-title: "Cuccioli: Alimentazione iniziale"
+title: "Cuccioli: alimentazione iniziale"
 date: 2025-04-15
 titleSeo: "Alimentazione del cucciolo Staffy nei primi mesi"
 lastmod: 2026-10-05
@@ -21,7 +21,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Cuccioli</span>
-  <h1 class="hero-title">Alimentazione <em>Iniziale</em></h1>
+  <h1 class="hero-title">Alimentazione <em>iniziale</em></h1>
   <p class="hero-subtitle">Quanto, quante volte al giorno, e cosa non dare mai</p>
   <div class="hero-meta">
   <span>📅 15 Aprile 2025</span>

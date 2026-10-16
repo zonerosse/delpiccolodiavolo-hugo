@@ -1,5 +1,5 @@
 ---
-title: "Socialising the Puppy at Home: the Family Checklist"
+title: "Socialising the puppy at home: the family checklist"
 date: 2025-03-18
 titleSeo: "Socialising the puppy at home: the family checklist"
 lastmod: 2026-10-05

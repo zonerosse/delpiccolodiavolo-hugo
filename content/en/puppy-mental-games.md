@@ -1,5 +1,5 @@
 ---
-title: "Puppies: Mental Games"
+title: "Puppies: mental games"
 date: 2025-08-03
 titleSeo: "Mental games for Staffordshire Bull Terrier puppies"
 lastmod: 2026-10-05
@@ -21,7 +21,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Puppies</span>
-  <h1 class="hero-title">Mental <em>Games</em></h1>
+  <h1 class="hero-title">Mental <em>games</em></h1>
   <p class="hero-subtitle">Stimulating mind and self-control</p>
   <div class="hero-meta">
   <span>📅 August 3, 2025</span>

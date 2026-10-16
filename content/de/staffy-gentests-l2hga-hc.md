@@ -2,7 +2,7 @@
 title: "Gentests L2-HGA, HC (HSF4) und DM (SOD1) für Staffordshire Bull Terrier"
 titleSeo: "Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)"
 date: 2025-11-20
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 translationKey: "test-genetici"
 in_breve:
   - "Der Staffy hat **drei Erbkrankheiten mit DNA-Test**: L2-HGA, erblichen Katarakt (HC) und degenerative Myelopathie (DM)."
@@ -26,7 +26,7 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Gesundheit und Wohlbefinden</span>
   <h1 class="hero-title">Gentests <em>L2-HGA, HC und DM</em></h1>
-  <p class="hero-subtitle">Vollständiger Leitfaden für Staffordshire Bull Terrier</p>
+  <p class="hero-subtitle">Was sie sind, wie man die Befunde liest und was man den Züchter fragt</p>
   <div class="hero-meta">
   <span>📅 20. November 2025</span>
   <span>⏱️ 14 Min. Lesezeit</span>

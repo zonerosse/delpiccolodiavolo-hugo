@@ -1,5 +1,5 @@
 ---
-title: "Legal Notice – Del Piccolo Diavolo"
+title: "Legal notice – Del Piccolo Diavolo"
 date: 2025-12-28
 lastmod: 2026-10-05
 tipoPagina: "WebPage"
@@ -17,7 +17,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Terms and Disclaimer</span>
-  <h1 class="hero-title">Legal <br><em>Notice</em></h1>
+  <h1 class="hero-title">Legal <br><em>notice</em></h1>
   <p class="hero-subtitle">Website terms of use</p>
   </div>
   </section>
@@ -34,10 +34,10 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Legal Notice</span>
-  <h2 class="section-title">Terms of Use and Disclaimer</h2>
+  <h2 class="section-title">Terms of use and disclaimer</h2>
 
   <div class="legal-section">
-  <h3>1. Website Ownership</h3>
+  <h3>1. Website ownership</h3>
   <p>This website is owned by:</p>
   <p><strong>Allevamento Del Piccolo Diavolo</strong><br>
   Owner: Boldrini Paolo<br>
@@ -47,21 +47,21 @@ custom_content: |
   </div>
 
   <div class="legal-section">
-  <h3>2. Copyright and Intellectual Property</h3>
+  <h3>2. Copyright and intellectual property</h3>
   <p>All content on this website, including texts, images, photographs, logos, graphics and design, is protected by copyright and is the exclusive property of Allevamento Del Piccolo Diavolo or of the respective authors.</p>
   <p>Reproduction, distribution, publication or use of any content without prior written authorisation from the owner is prohibited.</p>
   </div>
 
   <div class="legal-section">
-  <h3>3. Puppy and Health Information Disclaimer</h3>
+  <h3>3. Puppy and health information disclaimer</h3>
   <p><strong>General Information:</strong> The information on this website concerning the Staffordshire Bull Terrier breed, health, nutrition and puppy care is provided for informational purposes only and does not replace the advice of a qualified veterinarian.</p>
   <p><strong>Puppy Availability:</strong> Information on puppy availability is indicative and subject to change. For up-to-date information, please contact us directly.</p>
   <p><strong>Puppy Characteristics:</strong> Every puppy is unique. Physical, temperamental and behavioural characteristics may vary from one individual to another, even within the same litter.</p>
-  <p><strong>Genetic Testing:</strong> Our breeding dogs undergo genetic testing for the main conditions affecting the breed. Test information is available on request and is provided in good faith. Genetic testing reduces but does not entirely eliminate the risk of hereditary conditions.</p>
+  <p><strong>Genetic testing:</strong> Our breeding dogs undergo genetic testing for the main conditions affecting the breed. Test information is available on request and is provided in good faith. Genetic testing reduces but does not entirely eliminate the risk of hereditary conditions.</p>
   </div>
 
   <div class="legal-section">
-  <h3>4. Placement of Puppies</h3>
+  <h3>4. Placement of puppies</h3>
   <p><strong>Nature of the activity:</strong> the Del Piccolo Diavolo kennel is an amateur activity, not run for profit.</p>
   <p><strong>How a placement works:</strong> each puppy is placed after one or more introductory conversations with the family. The terms of the placement are agreed on a case-by-case basis.</p>
   <p><strong>Documents and care:</strong> all puppies are placed with:</p>
@@ -76,7 +76,7 @@ custom_content: |
   </div>
 
   <div class="legal-section">
-  <h3>5. Limitation of Liability</h3>
+  <h3>5. Limitation of liability</h3>
   <p>Allevamento Del Piccolo Diavolo undertakes to provide accurate and up-to-date information. However, it cannot guarantee the completeness, accuracy or currency of all information on the website.</p>
   <p>The owner is not liable for:</p>
   <ul>
@@ -90,19 +90,19 @@ custom_content: |
   </div>
 
   <div class="legal-section">
-  <h3>6. Choice of Families</h3>
+  <h3>6. Choice of families</h3>
   <p>The kennel reserves the right to choose the families its puppies are placed with, assessing their suitability and the living conditions they will be able to offer the dog.</p>
   <p>We reserve the right not to place a puppy where we consider that the family is not suitable or that the conditions offered are not appropriate for the animal's wellbeing.</p>
   </div>
 
   <div class="legal-section">
-  <h3>7. Changes to This Legal Notice</h3>
+  <h3>7. Changes to this legal notice</h3>
   <p>Allevamento Del Piccolo Diavolo reserves the right to amend the content of this legal notice at any time. Changes take effect from the date of publication on the website.</p>
   <p>We recommend consulting this page periodically to stay informed.</p>
   </div>
 
   <div class="legal-section">
-  <h3>8. Applicable Law and Jurisdiction</h3>
+  <h3>8. Applicable law and jurisdiction</h3>
   <p>This legal notice is governed by Italian law. The Court of Ferrara shall have exclusive jurisdiction over any dispute.</p>
   </div>
 
@@ -120,7 +120,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <section class="dark-section">
-  <h2>Any Questions?</h2>
+  <h2>Any questions?</h2>
   <p>Contact us for any clarification about the terms of use or our guarantees.</p>
   <a href="/wa/393924635584" class="btn btn-gold" title="Write us on WhatsApp">Write Us on WhatsApp</a>
   </section>

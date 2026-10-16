@@ -1,5 +1,5 @@
 ---
-title: "Staffordshire Bull Terrier: Tipicità di Razza e Morfologia"
+title: "Staffordshire Bull Terrier: tipicità di razza e morfologia"
 date: 2025-02-12
 lastmod: 2026-10-13
 translationKey: "standard"
@@ -10,7 +10,7 @@ in_breve:
 articolo: true
 image: "/images/blog/standard-1.webp"
 og_image: "/images/og/schede/it/standard-tipicita-morfologia.jpg"
-og_image_alt: "Staffordshire Bull Terrier: Tipicità di Razza e Morfologia — Allevamento Del Piccolo Diavolo"
+og_image_alt: "Staffordshire Bull Terrier: tipicità di razza e morfologia — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/standard-tipicita-morfologia.webp"
 description: "Lo standard FCI dello Staffordshire Bull Terrier spiegato: testa, proporzioni, ossatura, movimento, colori e carattere, i punti che fanno la differenza in expo."
 slug: "standard-tipicita-morfologia"
@@ -23,8 +23,8 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Standard e Linee di Sangue</span>
-  <h1 class="hero-title">Tipicità di <em>Razza</em> e Morfologia</h1>
+  <span class="hero-eyebrow">Standard e linee di sangue</span>
+  <h1 class="hero-title">Tipicità di <em>razza</em> e morfologia</h1>
   <p class="hero-subtitle">Punti chiave dello standard FCI e interpretazione pratica</p>
   <div class="hero-meta">
   <span>📅 12 Febbraio 2025</span>
@@ -45,7 +45,7 @@ custom_content: |
   <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
   <a aria-label="Standard e Linee — categoria del blog" href="/blog/#standard" title="Standard e Linee">Standard e Linee</a> ›
-  <span>Tipicità e Morfologia</span>
+  <span>Tipicità e morfologia</span>
   </nav>
 
   <div class="article-container">
@@ -114,7 +114,7 @@ custom_content: |
   <!--/BLOCCO:11-->
 
   <!--BLOCCO:12-->
-  <h2>Domande Frequenti</h2>
+  <h2>Domande frequenti</h2>
   <!--/BLOCCO:12-->
 
   <section class="faq">

@@ -1,5 +1,5 @@
 ---
-title: "Puppies: Initial Feeding"
+title: "Puppies: initial feeding"
 date: 2025-04-15
 titleSeo: "Feeding a Staffordshire Bull Terrier puppy: first months"
 lastmod: 2026-10-05
@@ -21,7 +21,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Puppies</span>
-  <h1 class="hero-title">Initial <em>Feeding</em></h1>
+  <h1 class="hero-title">Initial <em>feeding</em></h1>
   <p class="hero-subtitle">Portions, meal frequency and safe transition</p>
   <div class="hero-meta">
   <span>📅 April 15, 2025</span>
@@ -114,7 +114,7 @@ custom_content: |
   <li><a href="/en/puppy-home-socialization/" title="Socialising the puppy at home: the family checklist">Socialising the puppy at home: the family checklist</a></li>
   <li><a href="/en/puppy-first-vaccinations/" title="Puppy first vaccinations: schedule and boosters">Puppy first vaccinations: schedule and boosters</a></li>
   <li><a href="/en/puppy-potty-training/" title="Puppy potty training: method, timing and setbacks">Puppy potty training: method, timing and setbacks</a></li>
-  <li><a href="/en/staffy-parasite-prevention/" title="Parasite Prevention for Staffordshire Bull Terrier">Parasite Prevention for Staffordshire Bull Terrier</a></li>
+  <li><a href="/en/staffy-parasite-prevention/" title="Parasite prevention for Staffordshire Bull Terrier">Parasite prevention for Staffordshire Bull Terrier</a></li>
   </ul>
   </div>
 
@@ -123,7 +123,7 @@ custom_content: |
   <ul>
   <li><a href="/en/puppy-mental-games/" title="Mental games for Staffordshire Bull Terrier puppies">Mental games for Staffordshire Bull Terrier puppies</a></li>
   <li><a href="/en/puppy-worming-faecal-tests/" title="Puppy worming: protocol and faecal test results">Puppy worming: protocol and faecal test results</a></li>
-  <li><a href="/en/staffy-safe-exercise/" title="Safe Exercise for Staffordshire Bull Terrier">Safe Exercise for Staffordshire Bull Terrier</a></li>
+  <li><a href="/en/staffy-safe-exercise/" title="Safe exercise for Staffordshire Bull Terrier">Safe exercise for Staffordshire Bull Terrier</a></li>
   </ul>
   </div>
 

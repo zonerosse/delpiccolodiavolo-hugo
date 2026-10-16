@@ -2,7 +2,7 @@
 title: "Würfe Staffordshire Bull Terrier"
 titleSeo: "Nächste Staffy-Würfe: das Selektionsprogramm"
 date: 2025-12-28
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "programma"
 description: "Staffordshire Bull Terrier Würfe mit ausgewählten Eltern, L2HGA/HC Gentests, ENCI-Stammbaum. Zuchtprogramm, Elitebull und Lackyle Linien. Ostellato (FE)."
@@ -241,7 +241,7 @@ custom_content: |
   <h2 class="section-title">Zuchtprogramm</h2>
 
   <div class="intro-block">
-  <p>In der Zucht Del Piccolo Diavolo wird jeder Wurf aus einer sorgfältigen Auswahl gesunder, ausgeglichener und standardkonformer Eltern geboren. Das Wurfprogramm garantiert Wohlbefinden, Charakter und Typizität der Rasse nach höchsten ethischen und gesundheitlichen Standards. Jeder hier geborene Wurf, mit Eltern, Tests, Untersuchungen und Fotos des Heranwachsens, steht im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Zuchttagebuch</a>.</p>
+  <p>In der Zucht Del Piccolo Diavolo wird jeder Wurf aus einer sorgfältigen Auswahl gesunder, ausgeglichener und standardkonformer Eltern geboren. Jeder hier geborene Wurf, mit Eltern, Tests, Untersuchungen und Fotos des Heranwachsens, steht im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Zuchttagebuch</a>.</p>
   <p>Die Welpen wachsen in familiärer Umgebung auf, sozialisiert mit Menschen, Geräuschen und anderen Tieren für eine harmonische Entwicklung. Jeder Welpe wird nach tierärztlichen Kontrollen, Impfungen, Mikrochip und Registrierung übergeben.</p>
   <p>Wir begleiten Sie bei der Wahl des geeigneten Welpen und stehen Ihnen auch nach der Adoption mit Rat und kontinuierlicher Unterstützung zur Seite.</p>
   </div>

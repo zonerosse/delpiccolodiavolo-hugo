@@ -1,6 +1,6 @@
 ---
-title: "Staffy o Amstaff, Quale Fa per Te: il Test dell'Allevatore"
-lastmod: 2026-10-05
+title: "Staffy o Amstaff, quale fa per te: il test dell'allevatore"
+lastmod: 2026-10-17
 articolo: true
 translationKey: "differenza-staffy-amstaff"
 image: "/images/blog/staffy-amstaff-hero.webp"
@@ -24,7 +24,7 @@ fonti_motivo: "Questa pagina riporta il test che l'allevamento Del Piccolo Diavo
 </div>
 </div>
 <div class="hero-content">
-<span class="hero-eyebrow">Guida Completa</span>
+<span class="hero-eyebrow">Conoscere la razza</span>
 <h1 class="hero-title">Staffy o Amstaff, quale fa per te: <em>il test dell'allevatore</em></h1>
 <p class="hero-subtitle">Hai capito che non sono lo stesso cane. Ora restano le sette domande che facciamo a chi ci scrive per un cucciolo</p>
   <div class="hero-meta">
@@ -58,7 +58,7 @@ fonti_motivo: "Questa pagina riporta il test che l'allevamento Del Piccolo Diavo
 
 <h3>1. Chi vive in casa?</h3>
 
-<p>Con <a href="/famiglia-bambini-convivenza/" title="Staffordshire Bull Terrier e Bambini: Convivenza Sicura">bambini piccoli</a> la taglia conta ogni giorno: 15 kg che saltano addosso a un bambino di tre anni sono un urto, 30 kg sono una caduta. Per entrambe le razze vale la regola che non cambia: nessun cane, di nessuna razza, va lasciato solo con un bambino piccolo. Il soprannome "nanny dog" descrive la tolleranza dello Staffy, non una capacità di sorveglianza. Con bambini in casa, la risposta è quasi sempre lo Staffy.</p>
+<p>Con <a href="/famiglia-bambini-convivenza/" title="Staffordshire Bull Terrier e bambini: convivenza sicura">bambini piccoli</a> la taglia conta ogni giorno: 15 kg che saltano addosso a un bambino di tre anni sono un urto, 30 kg sono una caduta. Per entrambe le razze vale la regola che non cambia: nessun cane, di nessuna razza, va lasciato solo con un bambino piccolo. Il soprannome "nanny dog" descrive la tolleranza dello Staffy, non una capacità di sorveglianza. Con bambini in casa, la risposta è quasi sempre lo Staffy.</p>
 
 <h3>2. Quanti metri quadri, e a che piano?</h3>
 
@@ -106,7 +106,7 @@ fonti_motivo: "Questa pagina riporta il test che l'allevamento Del Piccolo Diavo
 <!--BLOCCO:3-->
 
 <section class="dark-section">
-<h2>Vuoi Conoscere i Nostri Staffy?</h2>
+<h2>Vuoi conoscere i nostri Staffy?</h2>
 <p>Vieni a trovarci in allevamento e scopri di persona il carattere unico dello Staffordshire Bull Terrier.</p>
 <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20visitare%20l%27allevamento" class="btn btn-light" title="Contattaci su WhatsApp">Contattaci su WhatsApp</a>
 </section>

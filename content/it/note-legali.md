@@ -1,5 +1,5 @@
 ---
-title: "Note Legali – Del Piccolo Diavolo"
+title: "Note legali – Del Piccolo Diavolo"
 date: 2025-12-28
 lastmod: 2026-10-05
 tipoPagina: "WebPage"
@@ -17,7 +17,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Termini e Disclaimer</span>
-  <h1 class="hero-title">Note <br><em>Legali</em></h1>
+  <h1 class="hero-title">Note <br><em>legali</em></h1>
   <p class="hero-subtitle">Termini di utilizzo del sito</p>
   </div>
   </section>
@@ -34,10 +34,10 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Note Legali</span>
-  <h2 class="section-title">Termini di Utilizzo e Disclaimer</h2>
+  <h2 class="section-title">Termini di utilizzo e disclaimer</h2>
 
   <div class="legal-section">
-  <h3>1. Proprietà del Sito</h3>
+  <h3>1. Proprietà del sito</h3>
   <p>Il presente sito web è di proprietà di:</p>
   <p><strong>Allevamento Del Piccolo Diavolo</strong><br>
   Titolare: Boldrini Paolo<br>
@@ -47,21 +47,21 @@ custom_content: |
   </div>
 
   <div class="legal-section">
-  <h3>2. Diritti d'Autore e Proprietà Intellettuale</h3>
+  <h3>2. Diritti d'autore e proprietà intellettuale</h3>
   <p>Tutti i contenuti presenti su questo sito, inclusi testi, immagini, fotografie, loghi, grafica e design, sono protetti da diritti d'autore e sono di proprietà esclusiva dell'Allevamento Del Piccolo Diavolo o dei rispettivi autori.</p>
   <p>È vietata la riproduzione, distribuzione, pubblicazione o utilizzo di qualsiasi contenuto senza previa autorizzazione scritta del titolare.</p>
   </div>
 
   <div class="legal-section">
-  <h3>3. Disclaimer Cuccioli e Informazioni Sanitarie</h3>
+  <h3>3. Disclaimer cuccioli e informazioni sanitarie</h3>
   <p><strong>Informazioni Generali:</strong> Le informazioni presenti su questo sito riguardanti la razza Staffordshire Bull Terrier, la salute, l'alimentazione e la cura dei cuccioli hanno scopo puramente informativo e non sostituiscono il parere di un veterinario qualificato.</p>
   <p><strong>Disponibilità Cuccioli:</strong> Le informazioni sulla disponibilità dei cuccioli sono indicative e possono variare. Per informazioni aggiornate in tempo reale, si prega di contattarci direttamente.</p>
   <p><strong>Caratteristiche dei Cuccioli:</strong> Ogni cucciolo è unico. Le caratteristiche fisiche, caratteriali e comportamentali possono variare da soggetto a soggetto, anche all'interno della stessa cucciolata.</p>
-  <p><strong>Test Genetici:</strong> I nostri riproduttori sono sottoposti a test genetici per le principali patologie della razza. Le informazioni sui test sono disponibili su richiesta e sono fornite in buona fede. I test genetici riducono ma non eliminano completamente il rischio di patologie ereditarie.</p>
+  <p><strong>Test genetici:</strong> I nostri riproduttori sono sottoposti a test genetici per le principali patologie della razza. Le informazioni sui test sono disponibili su richiesta e sono fornite in buona fede. I test genetici riducono ma non eliminano completamente il rischio di patologie ereditarie.</p>
   </div>
 
   <div class="legal-section">
-  <h3>4. Affido dei Cuccioli</h3>
+  <h3>4. Affido dei cuccioli</h3>
   <p><strong>Natura dell'attività:</strong> l'allevamento Del Piccolo Diavolo è un'attività amatoriale, non a fini di lucro.</p>
   <p><strong>Come avviene l'affido:</strong> ogni cucciolo viene affidato dopo uno o più colloqui conoscitivi con la famiglia. Le modalità dell'affido vengono concordate caso per caso.</p>
   <p><strong>Documenti e cure:</strong> tutti i cuccioli vengono affidati con:</p>
@@ -76,7 +76,7 @@ custom_content: |
   </div>
 
   <div class="legal-section">
-  <h3>5. Limitazioni di Responsabilità</h3>
+  <h3>5. Limitazioni di responsabilità</h3>
   <p>L'Allevamento Del Piccolo Diavolo si impegna a fornire informazioni accurate e aggiornate. Tuttavia, non può garantire la completezza, accuratezza o attualità di tutte le informazioni presenti sul sito.</p>
   <p>Il titolare non è responsabile per:</p>
   <ul>
@@ -90,19 +90,19 @@ custom_content: |
   </div>
 
   <div class="legal-section">
-  <h3>6. Scelta delle Famiglie</h3>
+  <h3>6. Scelta delle famiglie</h3>
   <p>L'allevamento si riserva il diritto di scegliere le famiglie a cui affidare i propri cuccioli, valutandone l'idoneità e le condizioni di vita che potranno offrire al cane.</p>
   <p>Ci riserviamo il diritto di non affidare un cucciolo qualora ritenessimo che la famiglia non sia adatta o che le condizioni offerte non siano idonee al benessere dell'animale.</p>
   </div>
 
   <div class="legal-section">
-  <h3>7. Modifiche alle Note Legali</h3>
+  <h3>7. Modifiche alle note legali</h3>
   <p>L'Allevamento Del Piccolo Diavolo si riserva il diritto di modificare in qualsiasi momento il contenuto di queste note legali. Le modifiche saranno effettive dalla data di pubblicazione sul sito.</p>
   <p>Si consiglia di consultare periodicamente questa pagina per rimanere aggiornati.</p>
   </div>
 
   <div class="legal-section">
-  <h3>8. Legge Applicabile e Foro Competente</h3>
+  <h3>8. Legge applicabile e foro competente</h3>
   <p>Le presenti note legali sono regolate dalla legge italiana. Per qualsiasi controversia è competente esclusivamente il Foro di Ferrara.</p>
   </div>
 
@@ -120,7 +120,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <section class="dark-section">
-  <h2>Hai Domande?</h2>
+  <h2>Hai domande?</h2>
   <p>Contattaci per qualsiasi chiarimento sui termini di utilizzo o sulle nostre garanzie.</p>
   <a href="/wa/393924635584" class="btn btn-gold" title="Scrivici su WhatsApp">Scrivici su WhatsApp</a>
   </section>

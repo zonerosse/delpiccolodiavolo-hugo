@@ -73,13 +73,13 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 380260044647848<br>
   <strong>LOI:</strong> LO22197469</p>
-  <p><strong>Test Genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>Test genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
   <p><strong>Mielopatia Degenerativa (SOD1):</strong> Esente, test del DNA</p>
   <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> Pablo iuno sospita plata plomo</p>
   <p><strong>Madre:</strong> Skilful-dogs Nora</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Dolce e delicata con chiunque, cani e persone comprese quelle che non ha mai visto. Se venite a trovarci vi riceve pancia all'aria in cerca di coccole, e non ve la togliete di torno fino ai saluti. Non &egrave; solo un tratto suo: i cuccioli della sua prima cucciolata hanno ereditato lo stesso carattere, e lo raccontano le famiglie nelle <a href="/recensioni/" title="Recensioni">recensioni</a>.</p>
-  <a class="doc-link" href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" title="Scarica test genetici Bilquis" aria-label="Scarica test genetici Bilquis (si apre in una nuova scheda)">📄 Test Genetici</a>
+  <a class="doc-link" href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" title="Scarica test genetici Bilquis" aria-label="Scarica test genetici Bilquis (si apre in una nuova scheda)">📄 Test genetici</a>
   <a class="doc-link" href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" title="Scarica ecocardio Bilquis" aria-label="Ecocardio Doppler – Scarica ecocardio Bilquis (si apre in una nuova scheda)">📄 Ecocardio Doppler</a>
   <a class="doc-link" href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Scarica le esposizioni di Bilquis dal Libro genealogico ENCI" aria-label="Esposizioni ENCI – Scarica le esposizioni di Bilquis dal Libro genealogico ENCI (si apre in una nuova scheda)">📄 Esposizioni ENCI</a>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Vedi pedigree Bilquis su SBTPedigree" aria-label="Vedi Pedigree Completo – Vedi pedigree Bilquis su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
@@ -103,7 +103,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 380260160642781<br>
   <strong>LOI:</strong> LO2549181</p>
-  <p><strong>Test Genetici:</strong> L2HGA e HC (HSF4) esente per discendenza (genitori esenti)</p>
+  <p><strong>Test genetici:</strong> L2HGA e HC (HSF4) esente per discendenza (genitori esenti)</p>
   <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> CH. Elitebull Prospect</p>
   <p><strong>Madre:</strong> Lackyle Bean Croí Olc</p>
@@ -130,13 +130,13 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 991003001293234<br>
   <strong>LOI:</strong> LO24144140</p>
-  <p><strong>Test Genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>Test genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
   <p><strong>Mielopatia Degenerativa (SOD1):</strong> Esente, test del DNA</p>
   <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> Lackyle Trodai Tine</p>
   <p><strong>Madre:</strong> CH. Lackyle Ogbhean an Diabhal</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Esuberante. Ti straccia le gambe saltandoti addosso per avere attenzioni, poi ti lecca finch&eacute; non sei tu a stancarti. Anche lei ha la pancia all'aria facile.</p>
-  <a class="doc-link" href="/docs/Minnie-GF.pdf" target="_blank" rel="noopener" title="Scarica test genetici Croi Olc" aria-label="Scarica test genetici Croi Olc (si apre in una nuova scheda)">📄 Test Genetici</a>
+  <a class="doc-link" href="/docs/Minnie-GF.pdf" target="_blank" rel="noopener" title="Scarica test genetici Croi Olc" aria-label="Scarica test genetici Croi Olc (si apre in una nuova scheda)">📄 Test genetici</a>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="Vedi pedigree Croi Olc su SBTPedigree" aria-label="Vedi Pedigree Completo – Vedi pedigree Croi Olc su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
   <!--ESPOSIZIONI:croiolc-->
   </div>
@@ -156,7 +156,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 643094100473511<br>
   <strong>LOI:</strong> LO19125788</p>
-  <p><strong>Test Genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>Test genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
   <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> CH. Dangerous Smile Black Shadow</p>
   <p><strong>Madre:</strong> CH. Sonrisa Feliz Keely Lariel</p>
@@ -180,7 +180,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 276098104987682<br>
   <strong>LOI:</strong> LO1610654</p>
-  <p><strong>Test Genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>Test genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
   <p><strong>PHPV:</strong> Esente</p>
   <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> CH. Hell's Angel</p>
@@ -207,7 +207,7 @@ custom_content: |
   <strong>LOI:</strong> LO1610667</p>
   <p><strong>HD:</strong> B</p>
   <p><strong>ED:</strong> A</p>
-  <p><strong>Test Genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>Test genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
   <p><strong>PHPV:</strong> Esente</p>
   <p><strong>Padre:</strong> CH. Kiraloebis Italian Gigalo (Top UK Staffordshire Bull Terrier 2012)</p>
   <p><strong>Madre:</strong> Lackyle Duilleog Daracha</p>
@@ -232,7 +232,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 380260044549631<br>
   <strong>LOI:</strong> LO2222029</p>
-  <p><strong>Test Genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>Test genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
   <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> THE Phenomenal AJ Styles Valconcaclan</p>
   <p><strong>Madre:</strong> Foyleoak Maiden Derry</p>
@@ -257,14 +257,14 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 380260004336944<br>
   <strong>LOI:</strong> LO2199721</p>
-  <p><strong>Test Genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>Test genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
   <p><strong>Mielopatia Degenerativa (SOD1):</strong> Esente, test del DNA</p>
   <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> Skilful-Dogs Jeghër</p>
   <p><strong>Madre:</strong> Skilful-Dogs Red Skin</p>
   <p><strong>Ultima cucciolata:</strong> <a href="/diario-allevamento/cucciolata-red-nora-febbraio-2026/" title="Cucciolata Red × Nora, febbraio 2026">Red × Nora, 9 febbraio 2026</a>: genitori, test, esami e crescita nel diario</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> La chiamavamo Yoghi, come l'orso: un bulldozer senza freni, piena di energie, e in fondo un orsacchiotto da poltrona, da divano, o da letto se glielo lasciavi fare.</p>
-  <a class="doc-link" href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" title="Scarica test genetici Nora" aria-label="Scarica test genetici Nora (si apre in una nuova scheda)">📄 Test Genetici</a>
+  <a class="doc-link" href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" title="Scarica test genetici Nora" aria-label="Scarica test genetici Nora (si apre in una nuova scheda)">📄 Test genetici</a>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="Vedi pedigree Nora su SBTPedigree" aria-label="Vedi Pedigree Completo – Vedi pedigree Nora su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
   <!--ESPOSIZIONI:nora-->
   </div>
@@ -279,7 +279,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Il Nostro Approccio</span>
-  <h2 class="section-title">Selezione e Cura delle Nostre Femmine</h2>
+  <h2 class="section-title">Selezione e cura delle nostre femmine</h2>
 
   <div class="intro-block">
   <p>Le fattrici di Del Piccolo Diavolo sono otto Staffordshire Bull Terrier femmine, e per ognuna il sito pubblica il numero di microchip, il numero di libro genealogico ENCI, <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">i test genetici</a> e il collegamento alla scheda su SBTPedigree. Con il microchip chiunque può consultare sul libro genealogico ENCI quante cucciolate ha fatto una femmina: da noi la media è di due per cane, ben sotto il limite consentito dal regolamento. Alcune non vivono qui &mdash; una è in Germania con i suoi proprietari, un'altra è stata ceduta a una famiglia &mdash; e anche questo è scritto nella loro scheda, con il nome di chi le ha oggi. Le linee di provenienza sono inglesi e irlandesi, in particolare Elitebull e Lackyle, e i soggetti importati arrivano da Russia, Germania e Irlanda.</p>
@@ -298,7 +298,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <section class="cta-section">
-  <h2>Vuoi Info sulle Nostre Femmine?</h2>
+  <h2>Vuoi info sulle nostre femmine?</h2>
   <p>Chiamaci o scrivici su WhatsApp per informazioni sulle nostre fattrici.</p>
   <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sulle%20femmine%20Staffordshire%20Bull%20Terrier" class="btn" title="Scrivici su WhatsApp per info femmine">Scrivici su WhatsApp</a>
   </section>

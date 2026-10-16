@@ -34,7 +34,7 @@ custom_content: |
   <a href="/allevamento-staffordshire-bull-terrier-in-emilia-romagna/" class="btn btn-ghost" title="Contattaci">Contattaci</a>
   <a href="/docs/guida-primi-mesi-cucciolo-staffy.pdf" class="btn btn-gold" title="Guida PDF gratuita: I primi mesi con il tuo cucciolo Staffy">Guida Cuccioli</a>
   </div>
-  <p class="hero-trust">Test Genetici - Pedigree ENCI - Dal 2013</p>
+  <p class="hero-trust">Test genetici - Pedigree ENCI - Dal 2013</p>
   </div>
   </section>
   <!--/BLOCCO:1-->
@@ -151,7 +151,7 @@ custom_content: |
   <div class="intro-block" style="text-align:left">
   <p><img src="/images/foto4.avif" alt="Cucciolo di Staffordshire Bull Terrier in braccio, primo piano" loading="lazy" decoding="async" width="300" height="347" style="display:block;width:60%;max-width:240px;height:auto;margin:.2rem auto 1rem;border-radius:12px;transform:scaleX(-1)">Del Piccolo Diavolo è un allevamento di Staffordshire Bull Terrier — lo Staffy, come lo chiamano gli appassionati — a <strong>Ostellato, in provincia di Ferrara</strong>, attivo dal <strong>2013</strong>. Paolo Boldrini segue la razza dal 2005 e alleva dal 2013: due date diverse che raccontano la stessa cosa, cioè che l'allevamento è nato dopo un lungo periodo di studio, non prima.</p>
   <details class="continua"><summary>Continua a leggere</summary>
-  <p>Facciamo <strong>una cucciolata l'anno, occasionalmente due, a volte nessuna</strong>, mai su richiesta. Tutti i riproduttori sono testati per <strong>L2HGA e HC (gene HSF4)</strong>, o esenti per via parentale con i referti dei genitori; le fattrici in attività anche per la <strong>mielopatia degenerativa (gene SOD1)</strong>, e i referti di laboratorio sono pubblicati sul sito: chiunque può scaricarli e leggere nome del cane e numero di microchip, senza chiederci niente. I cuccioli vengono affidati con <strong>pedigree ENCI</strong>, microchip e vaccinazioni in regola, dopo essere <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor e stimolazione precoce">nati e cresciuti in casa il primo mese</a>, e poi passati in un box dedicato con sfogo esterno, a contatto quotidiano con persone, rumori domestici e <a href="/famiglia-convivenza-altri-animali/" title="Staffy con Altri Animali: Guida Convivenza">altri animali</a>.</p>
+  <p>Facciamo <strong>una cucciolata l'anno, occasionalmente due, a volte nessuna</strong>, mai su richiesta. Tutti i riproduttori sono testati per <strong>L2HGA e HC (gene HSF4)</strong>, o esenti per via parentale con i referti dei genitori; le fattrici in attività anche per la <strong>mielopatia degenerativa (gene SOD1)</strong>, e i referti di laboratorio sono pubblicati sul sito: chiunque può scaricarli e leggere nome del cane e numero di microchip, senza chiederci niente. I cuccioli vengono affidati con <strong>pedigree ENCI</strong>, microchip e vaccinazioni in regola, dopo essere <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor e stimolazione precoce">nati e cresciuti in casa il primo mese</a>, e poi passati in un box dedicato con sfogo esterno, a contatto quotidiano con persone, rumori domestici e <a href="/famiglia-convivenza-altri-animali/" title="Staffy con altri animali: guida convivenza">altri animali</a>.</p>
 
   <p>Sul piano dei risultati in esposizione, i cani allevati qui hanno ottenuto <strong>1 titolo di Campione Italiano</strong>, <strong>3 Giovani Campioni Italiani</strong> — uno dei quali anche Campione Sloveno — e un soggetto Giovane Campione e Campione di San Marino, un <strong>4° posto al World Dog Show</strong> con Bilquis Goddess Diabhal, e a maggio 2026 il titolo di <strong>Giovane Campionessa Italiana</strong> per Queen of California. Lavoriamo con le linee di sangue inglesi e irlandesi, in particolare Elitebull e Lackyle.</p>
 
@@ -309,7 +309,7 @@ custom_content: |
   <!--BLOCCO:10-->
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">Domande Frequenti</span>
+  <span class="section-label">Domande frequenti</span>
   <h2 class="section-title">Domande frequenti sullo Staffordshire Bull Terrier</h2>
 
   <div class="faq-container">

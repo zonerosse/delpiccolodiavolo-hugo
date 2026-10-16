@@ -1,7 +1,7 @@
 ---
-title: "Parasite Prevention for Staffordshire Bull Terrier"
+title: "Parasite prevention for Staffordshire Bull Terrier"
 date: 2025-01-20
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 translationKey: "parassiti"
 in_breve:
   - "Parasites are prevented **before you see them**: once you notice fleas, the infestation is already in the house."
@@ -10,7 +10,7 @@ in_breve:
 articolo: true
 image: "/images/blog/salute-1.webp"
 og_image: "/images/og/schede/en/staffy-parasite-prevention.jpg"
-og_image_alt: "Parasite Prevention for Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
+og_image_alt: "Parasite prevention for Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/salute-parassiti-prevenzione.webp"
 description: "Parasite prevention for the Staffordshire Bull Terrier: fleas, ticks, worms, heartworm and leishmaniasis. When to treat, which products and which signs to watch."
 slug: "staffy-parasite-prevention"
@@ -23,9 +23,9 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Health and Wellness</span>
-  <h1 class="hero-title">Parasite <em>Prevention</em></h1>
-  <p class="hero-subtitle">Complete guide for Staffordshire Bull Terrier</p>
+  <span class="hero-eyebrow">Health and wellness</span>
+  <h1 class="hero-title">Parasite <em>prevention</em></h1>
+  <p class="hero-subtitle">Fleas, ticks and seasonal protection</p>
   <div class="hero-meta">
   <span>📅 January 20, 2025</span>
   <span>⏱️ 11 min read</span>

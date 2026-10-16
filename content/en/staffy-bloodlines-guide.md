@@ -1,5 +1,5 @@
 ---
-title: "Staffordshire Bull Terrier Bloodlines Guide"
+title: "Staffordshire Bull Terrier bloodlines guide"
 titleSeo: "Staffy bloodlines: the history of the six lines"
 date: 2025-11-08
 lastmod: 2026-10-13
@@ -25,7 +25,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Standards and Bloodlines</span>
-  <h1 class="hero-title">Bloodlines <em>Guide</em></h1>
+  <h1 class="hero-title">Bloodlines <em>guide</em></h1>
   <p class="hero-subtitle">English and Irish lines for Staffordshire Bull Terrier</p>
   <div class="hero-meta">
   <span>📅 November 26, 2025</span>

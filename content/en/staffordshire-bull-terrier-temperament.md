@@ -1,5 +1,5 @@
 ---
-title: "The Staffordshire Bull Terrier Temperament: Where It Comes From"
+title: "The Staffordshire Bull Terrier temperament: where it comes from"
 lastmod: 2026-10-05
 titleSeo: "Staffy temperament: how it was selected"
 articolo: true
@@ -34,7 +34,7 @@ correlati:
 </div>
 <div class="hero-content">
 <span class="hero-eyebrow">Know the Breed</span>
-<h1 class="hero-title">The Staffordshire Bull Terrier Temperament: Where It Comes From</h1>
+<h1 class="hero-title">The Staffordshire Bull Terrier temperament: where it comes from</h1>
 <p class="hero-subtitle">Why this dog is the way it is, and what it means to choose a character</p>
   <div class="hero-meta">
   <span>📅 January 18, 2026</span>
@@ -124,7 +124,7 @@ correlati:
 <!--BLOCCO:3-->
 
 <section class="cta-section">
-<h2>Would You Like to Meet Our Staffies in Person?</h2>
+<h2>Would you like to meet our Staffies in person?</h2>
 <p>The best way to understand the character of a line is to meet the adult dogs. Write to us to arrange a visit.</p>
 <a href="/wa/393924635584?text=Hi%20Paolo%2C%20I%27d%20like%20to%20meet%20your%20dogs" class="btn" title="Write to us on WhatsApp">Write to Us on WhatsApp</a>
 </section>

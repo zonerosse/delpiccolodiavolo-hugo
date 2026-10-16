@@ -1,5 +1,5 @@
 ---
-title: "Puppies: Managing Alone Time"
+title: "Puppies: managing alone time"
 date: 2025-07-08
 titleSeo: "Teaching a puppy to stay alone without stress"
 lastmod: 2026-10-05
@@ -21,7 +21,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Puppies</span>
-  <h1 class="hero-title">Managing <em>Alone Time</em></h1>
+  <h1 class="hero-title">Managing <em>alone time</em></h1>
   <p class="hero-subtitle">Gradual habituation and peaceful routines</p>
   <div class="hero-meta">
   <span>📅 July 8, 2025</span>
@@ -42,7 +42,7 @@ custom_content: |
   <a href="/en/" title="Home">Home</a> ›
   <a href="/en/blog/" title="Blog">Blog</a> ›
   <a aria-label="Puppies — blog category" href="/en/blog/#puppies" title="Puppies">Puppies</a> ›
-  <span>Managing Alone Time</span>
+  <span>Managing Alone time</span>
   </nav>
 
   <div class="article-container">

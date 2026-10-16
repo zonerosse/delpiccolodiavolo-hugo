@@ -1,5 +1,5 @@
 ---
-title: "Lo Staffy è Pericoloso? Verità e Legge Italiana"
+title: "Lo Staffy è pericoloso? Verità e legge italiana"
 date: 2025-11-18
 lastmod: 2026-10-13
 translationKey: "pericoloso"
@@ -10,7 +10,7 @@ in_breve:
 articolo: true
 image: "/images/blog/staffy-carattere-legge-hero.webp"
 og_image: "/images/og/schede/it/staffy-pericoloso-legge-italia.jpg"
-og_image_alt: "Lo Staffy è Pericoloso? Verità e Legge Italiana — Allevamento Del Piccolo Diavolo"
+og_image_alt: "Lo Staffy è pericoloso? Verità e legge italiana — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/staffy-pericoloso-legge-italia.webp"
 description: "Lo Staffy è davvero pericoloso? Analizziamo lo studio VetCompass 2020, la normativa italiana dal 2009 e la proposta lombarda 2025. Dati scientifici e fatti."
 slug: "staffy-pericoloso-legge-italia"
@@ -23,8 +23,8 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Razza e Legislazione</span>
-  <h1 class="hero-title">Lo Staffy è <em>Pericoloso?</em></h1>
+  <span class="hero-eyebrow">Razza e legislazione</span>
+  <h1 class="hero-title">Lo Staffy è <em>pericoloso?</em></h1>
   <p class="hero-subtitle">La Verità Scientifica e la Legge Italiana 2025</p>
   <div class="hero-meta">
   <span>📅 18 Novembre 2025</span>
@@ -156,7 +156,7 @@ custom_content: |
   <!--BLOCCO:13-->
   <section class="faq">
   <div class="faq-header">
-  <h2>Domande Frequenti sulla Pericolosità dello Staffy</h2>
+  <h2>Domande frequenti sulla pericolosità dello Staffy</h2>
   <p>Risposte basate su dati scientifici e normativa italiana</p>
   </div>
 

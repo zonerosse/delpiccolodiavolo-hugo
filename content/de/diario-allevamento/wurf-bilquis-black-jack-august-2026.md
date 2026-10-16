@@ -1,6 +1,6 @@
 ---
 title: "Wurf Bilquis × Black Jack (August 2026)"
-lastmod: 2026-10-08
+lastmod: 2026-10-15
 articolo: true
 titleSeo: "Wurf Bilquis × Black Jack, August 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"

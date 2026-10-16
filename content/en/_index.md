@@ -27,15 +27,15 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow"><a href="/en/reviews/" title="Read the reviews" style="color:inherit;text-decoration:none">⭐ <!--REC-VOTO--> on <!--REC-TOTALE--> reviews →</a></span>
-  <h1 class="hero-title">Staffordshire <br><em>Bull Terrier</em> <br>Breeder</h1>
+  <h1 class="hero-title">Staffordshire <br><em>Bull Terrier</em> <br>breeder</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo - Selection, health and character</p>
   <p class="hero-description">In Ostellato (Ferrara, Italy) since 2013. Breeding stock tested for L2HGA and HC (HSF4), or clear by parentage with their parents' reports; the brood bitches also for DM-SOD1, with the reports published and the microchip numbers in plain sight. 1 Italian Champion, 3 Italian Junior Champions, 4th at the World Dog Show.</p>
   <div class="hero-actions">
-  <a href="/en/puppies-staffordshire-bull-terrier/" class="btn btn-primary" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier Puppies</a>
+  <a href="/en/puppies-staffordshire-bull-terrier/" class="btn btn-primary" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies</a>
   <a href="/en/contact/" class="btn btn-ghost" title="Contact us">Contact Us</a>
   <a href="/docs/guide-first-months-staffy-puppy.pdf" class="btn btn-gold" title="Free PDF guide: The first months with your Staffy puppy">Puppy Guide</a>
   </div>
-  <p class="hero-trust">Genetic Testing - ENCI Pedigree - Since 2013</p>
+  <p class="hero-trust">Genetic testing - ENCI Pedigree - Since 2013</p>
   </div>
   </section>
   <!--/BLOCCO:1-->

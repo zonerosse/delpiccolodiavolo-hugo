@@ -1,5 +1,5 @@
 ---
-title: "Das Wesen des Staffordshire Bull Terrier: Woher es Kommt"
+title: "Das Wesen des Staffordshire Bull Terrier: woher es kommt"
 lastmod: 2026-10-05
 titleSeo: "Wesen des Staffy: wie es selektiert wurde"
 articolo: true
@@ -33,8 +33,8 @@ correlati:
 </div>
 </div>
 <div class="hero-content">
-<span class="hero-eyebrow">Die Rasse Kennenlernen</span>
-<h1 class="hero-title">Das Wesen des Staffordshire Bull Terrier: Woher es Kommt</h1>
+<span class="hero-eyebrow">Die Rasse kennenlernen</span>
+<h1 class="hero-title">Das Wesen des Staffordshire Bull Terrier: woher es kommt</h1>
 <p class="hero-subtitle">Warum dieser Hund so ist, wie er ist, und was es bedeutet, ein Wesen zu wählen</p>
   <div class="hero-meta">
   <span>📅 18. Januar 2026</span>

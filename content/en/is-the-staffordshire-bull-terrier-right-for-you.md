@@ -1,5 +1,5 @@
 ---
-title: "Staffordshire Bull Terrier: Is It the Right Dog for You? Pros and Cons"
+title: "Staffordshire Bull Terrier: is it the right dog for you? Pros and cons"
 date: 2026-08-01
 lastmod: 2026-10-05
 titleSeo: "Staffordshire Bull Terrier: is it the right dog for you?"
@@ -90,7 +90,7 @@ custom_content: |
   <p>This is the most important "con". The Staffy genuinely suffers if left alone for many hours: it can develop separation anxiety, bark, destroy things. <strong>If you are out of the house 10 hours a day and have no plan</strong>, this is not the right breed for you.</p>
 
   <h3>2. Lots of energy to burn</h3>
-  <p>When young it is a volcano. It needs <a href="/en/staffy-safe-exercise/" title="Safe Exercise for Staffordshire Bull Terrier">real daily exercise</a> (walks, play, running) and mental stimulation. A bored, under-stimulated Staffy puppy becomes a little demolisher.</p>
+  <p>When young it is a volcano. It needs <a href="/en/staffy-safe-exercise/" title="Safe exercise for Staffordshire Bull Terrier">real daily exercise</a> (walks, play, running) and mental stimulation. A bored, under-stimulated Staffy puppy becomes a little demolisher.</p>
 
   <h3>3. It may not get on with other dogs</h3>
   <p>It is very sweet with people, but towards <strong>other dogs</strong> (especially of the same sex) it can be assertive. With good socialisation as a puppy, cohabitation is possible, but it must be managed carefully: this is not a dog to let off the lead in the park at random.</p>
@@ -148,7 +148,7 @@ custom_content: |
   <!--/BLOCCO:7-->
 
   <!--BLOCCO:8-->
-  <h2>Frequently Asked Questions</h2>
+  <h2>Frequently asked questions</h2>
   <!--/BLOCCO:8-->
 
   <section class="faq">

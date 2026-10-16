@@ -1,5 +1,5 @@
 ---
-title: "Cuccioli: Prima passeggiata"
+title: "Cuccioli: prima passeggiata"
 date: 2025-09-17
 titleSeo: "La prima passeggiata del cucciolo: quando e come iniziare"
 lastmod: 2026-10-06
@@ -21,7 +21,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Cuccioli</span>
-  <h1 class="hero-title">Prima <em>Passeggiata</em></h1>
+  <h1 class="hero-title">Prima <em>passeggiata</em></h1>
   <p class="hero-subtitle">Quando cominciare, quanto durare, cosa far incontrare</p>
   <div class="hero-meta">
   <span>📅 17 Settembre 2025</span>

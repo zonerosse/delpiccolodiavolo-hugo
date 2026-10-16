@@ -152,7 +152,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Unsere Ergebnisse</span>
-  <h2 class="section-title">Von Uns Gezüchtete Champions</h2>
+  <h2 class="section-title">Von uns gezüchtete Champions</h2>
 
   <div class="intro-block">
   <p>Die von Del Piccolo Diavolo gezüchteten Hunde haben bisher einen Titel als Italienischer Champion, drei als Italienischer Jugendchampion &mdash; Bilquis, Lothar, der auch Slowenischer Champion ist, und Queen of California &mdash; sowie die Titel Jugendchampion und Champion von San Marino errungen, dazu einen vierten Platz auf der World Dog Show mit Bilquis Goddess Diabhal, die vierzehn aufeinanderfolgende Ausstellungen mit Vorzüglich 1 hinter sich hat. Im Mai 2026 holte Queen of California den Titel Italienische Jugendchampionin auf der Nationalen Ausstellung in Albarella. Es sind alles Hunde, die hier geboren und aufgewachsen sind, keine bereits betitelt gekauften. Ausstellungsergebnisse lassen sich nicht selbst bescheinigen: Die Kataloge der Veranstaltungen sind öffentlich, und die Richter, die diese Hunde bewertet haben, haben einen Vor- und Nachnamen. Titel sind aber nur ein Teil: Welches Leben diese Hunde heute führen, erzählen die <a href="/de/staffordshire-in-der-familie-geschichten/" title="Geschichten aus den Familien">Geschichten aus den Familien</a>.</p>
@@ -365,9 +365,9 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <section class="dark-section">
-  <h2>Selektion, die Man Sieht</h2>
+  <h2>Selektion, die man sieht</h2>
   <p>Ausstellungsergebnisse bestätigen unser Engagement: typische, gesunde Hunde mit ausgeglichenem Charakter. Wir kaufen keine bereits titulierten Hunde: wir züchten sie, ziehen sie auf, stellen sie aus. Das ist der Unterschied. Über Bilquis hat am 6. Januar 2026 auch das Ferrareser Nachrichtenportal <a href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" target="_blank" rel="noopener" aria-label="Artikel von FerraraToday über Bilquis (wird in einem neuen Tab geöffnet)">FerraraToday</a> berichtet.</p>
-  <a href="/de/huendinnen-staffordshire-bull-terrier/" class="btn" title="Unsere Hündinnen ansehen">Unsere Hunde Entdecken</a>
+  <a href="/de/huendinnen-staffordshire-bull-terrier/" class="btn" title="Unsere Hündinnen ansehen">Unsere Hunde entdecken</a>
   </section>
   <!--/BLOCCO:8-->
 

@@ -1,5 +1,5 @@
 ---
-title: "Puppies: First Vaccinations"
+title: "Puppies: first vaccinations"
 date: 2025-06-10
 titleSeo: "Puppy first vaccinations: schedule and boosters"
 lastmod: 2026-10-06
@@ -21,7 +21,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Puppies</span>
-  <h1 class="hero-title">First <em>Vaccinations</em></h1>
+  <h1 class="hero-title">First <em>vaccinations</em></h1>
   <p class="hero-subtitle">Schedule and practical tips</p>
   <div class="hero-meta">
   <span>📅 June 10, 2025</span>
@@ -119,7 +119,7 @@ custom_content: |
   <ul>
   <li><a href="/en/puppy-home-socialization/" title="Socialising the puppy at home: the family checklist">Socialising the puppy at home: the family checklist</a></li>
   <li><a href="/en/puppy-initial-feeding/" title="Feeding a Staffordshire Bull Terrier puppy: first months">Feeding a Staffordshire Bull Terrier puppy: first months</a></li>
-  <li><a href="/en/staffy-parasite-prevention/" title="Parasite Prevention for Staffordshire Bull Terrier">Parasite Prevention for Staffordshire Bull Terrier</a></li>
+  <li><a href="/en/staffy-parasite-prevention/" title="Parasite prevention for Staffordshire Bull Terrier">Parasite prevention for Staffordshire Bull Terrier</a></li>
   <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Choosing a breeder">How to recognise a serious Staffy breeder</a></li>
   </ul>
   </div>

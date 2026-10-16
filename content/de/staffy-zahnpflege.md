@@ -1,7 +1,7 @@
 ---
 title: "Zahnpflege und Mundhygiene für Staffordshire Bull Terrier"
 date: 2024-06-18
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 translationKey: "denti"
 in_breve:
   - "Die Vorbeugung beginnt **im Welpenalter**, indem man ihn daran gewöhnt, sich ins Maul fassen zu lassen."
@@ -25,7 +25,7 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Gesundheit und Wohlbefinden</span>
   <h1 class="hero-title">Zahnpflege und <em>Mundhygiene</em></h1>
-  <p class="hero-subtitle">Vollständiger Leitfaden für Staffordshire Bull Terrier</p>
+  <p class="hero-subtitle">Zähneputzen, Zahnsteinvorbeugung und Zahngesundheit</p>
   <div class="hero-meta">
   <span>📅 18. Juni 2024</span>
   <span>⏱️ 10 Min. Lesezeit</span>

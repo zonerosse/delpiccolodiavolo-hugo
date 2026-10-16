@@ -20,7 +20,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">28 Domande &amp; Risposte</span>
-  <h1 class="hero-title">Domande <br><em>Frequenti</em></h1>
+  <h1 class="hero-title">Domande <br><em>frequenti</em></h1>
   <p class="hero-subtitle">Tutto quello che vuoi sapere sullo Staffordshire Bull Terrier</p>
   </div>
   </section>
@@ -37,7 +37,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">FAQ</span>
-  <h2 class="section-title">Le Tue Domande, Le Nostre Risposte</h2>
+  <h2 class="section-title">Le tue domande, le nostre risposte</h2>
 
   <div class="faq-intro">
   <p>Benvenuto nella sezione FAQ dell'<strong><a href="/" title="Allevamento Staffordshire Bull Terrier">allevamento Staffordshire Bull Terrier Del Piccolo Diavolo</a></strong>.</p>
@@ -51,7 +51,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Lo Staffordshire Bull Terrier è pericoloso o aggressivo?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Lo Staffordshire Bull Terrier non rientra in nessuna lista di <a href="/staffy-pericoloso-legge-italia/" title="Lo Staffy è Pericoloso? Verità e Legge Italiana">razze pericolose</a> in Italia: l'elenco delle razze a rischio è stato abolito nel 2009 dall'ordinanza del Ministero della Salute, che ha spostato la responsabilità dalla razza al proprietario. È un cane potente per la sua taglia — 35,5-40,5 centimetri al garrese per 12,7-17 chili nel maschio — e questo va tenuto presente, ma la pericolosità non è una caratteristica di razza: dipende dalla selezione del carattere, dalla <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor e stimolazione precoce">socializzazione nelle prime settimane</a> e da come il cane viene gestito per tutta la vita. La componente su cui vale la pena informarsi, invece, esiste ed è un'altra: essendo un terrier, può mostrare reattività verso altri cani, soprattutto dello stesso sesso in età adulta. Verso le persone lo standard di razza descrive un cane affidabile, e su questo la selezione dei riproduttori pesa più di qualsiasi altra cosa.</div>
+  <div class="faq-answer">Lo Staffordshire Bull Terrier non rientra in nessuna lista di <a href="/staffy-pericoloso-legge-italia/" title="Lo Staffy è pericoloso? Verità e legge italiana">razze pericolose</a> in Italia: l'elenco delle razze a rischio è stato abolito nel 2009 dall'ordinanza del Ministero della Salute, che ha spostato la responsabilità dalla razza al proprietario. È un cane potente per la sua taglia — 35,5-40,5 centimetri al garrese per 12,7-17 chili nel maschio — e questo va tenuto presente, ma la pericolosità non è una caratteristica di razza: dipende dalla selezione del carattere, dalla <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor e stimolazione precoce">socializzazione nelle prime settimane</a> e da come il cane viene gestito per tutta la vita. La componente su cui vale la pena informarsi, invece, esiste ed è un'altra: essendo un terrier, può mostrare reattività verso altri cani, soprattutto dello stesso sesso in età adulta. Verso le persone lo standard di razza descrive un cane affidabile, e su questo la selezione dei riproduttori pesa più di qualsiasi altra cosa.</div>
   </div>
 
   <div class="faq-item active">
@@ -251,7 +251,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Lo Staffy e adatto come primo cane?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Pu&ograve; esserlo, a due condizioni. La prima &egrave; la disponibilit&agrave; di tempo: &egrave; un cane che vuole stare con le persone e che soffre le assenze lunghe, quindi chi passa dodici ore fuori casa dovrebbe pensarci due volte, a prescindere dall'esperienza. La seconda &egrave; l'onest&agrave; sul fatto che &egrave; un terrier: la reattivit&agrave; verso altri cani esiste, va gestita con la socializzazione precoce e non sparisce da sola. A favore giocano l'attaccamento alla famiglia, la tolleranza, il pelo che non richiede toelettatura e la facilit&agrave; con cui impara. Un primo cane fatto bene richiede comunque una scuola di base e un allevatore che resti disponibile dopo l'affido, non solo fino alla consegna. Per chi non è più giovane vale un discorso a parte, spiegato nella guida su <a href="/famiglia-anziani-rispetto-ritmi/" title="Staffordshire Bull Terrier per Anziani: Guida Completa">Staffy e proprietari anziani</a>.</div>
+  <div class="faq-answer">Pu&ograve; esserlo, a due condizioni. La prima &egrave; la disponibilit&agrave; di tempo: &egrave; un cane che vuole stare con le persone e che soffre le assenze lunghe, quindi chi passa dodici ore fuori casa dovrebbe pensarci due volte, a prescindere dall'esperienza. La seconda &egrave; l'onest&agrave; sul fatto che &egrave; un terrier: la reattivit&agrave; verso altri cani esiste, va gestita con la socializzazione precoce e non sparisce da sola. A favore giocano l'attaccamento alla famiglia, la tolleranza, il pelo che non richiede toelettatura e la facilit&agrave; con cui impara. Un primo cane fatto bene richiede comunque una scuola di base e un allevatore che resti disponibile dopo l'affido, non solo fino alla consegna. Per chi non è più giovane vale un discorso a parte, spiegato nella guida su <a href="/famiglia-anziani-rispetto-ritmi/" title="Staffordshire Bull Terrier per anziani: guida completa">Staffy e proprietari anziani</a>.</div>
   </div>
 
   <div class="faq-item active">
@@ -269,7 +269,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <section class="cta-section">
-  <h2>Hai Altre Domande?</h2>
+  <h2>Hai altre domande?</h2>
   <p>Siamo sempre disponibili per rispondere a qualsiasi dubbio sullo Staffordshire Bull Terrier.</p>
   <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20ho%20una%20domanda%20sullo%20Staffy" class="btn" title="Scrivici su WhatsApp per domande">Scrivici su WhatsApp</a>
   </section>

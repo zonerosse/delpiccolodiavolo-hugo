@@ -21,6 +21,10 @@ versions (same `translationKey`), with the same structure. Never deliver an
 Italian-only change. `verifica.py` enforces it: an Italian content file
 changed (uncommitted) without its EN and DE counterparts is an ERROR, and an
 Italian `lastmod` newer than EN/DE is a warning. Details in COME-SI-SCRIVE §0.
+A change that only alters capitalization (or markup) is not a content change:
+`verifica.py` and `tools/lastmod/aggiorna.py` compare visible text case-insensitively,
+so it neither moves `lastmod` nor requires touching EN/DE. Writing style (short
+sentences, no em dashes, no AI tics, sentence-case headings): COME-SI-SCRIVE §17.
 
 **Before delivering any file and at the start of any repo analysis, run
 `python3 tools/controlli/verifica.py`** (full clone, Hugo on PATH). ERRORI

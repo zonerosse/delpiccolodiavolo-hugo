@@ -1,5 +1,5 @@
 ---
-title: "Breeding Diary"
+title: "Breeding diary"
 titleSeo: "Breeding diary: litters, dates and genetic tests"
 date: 2026-01-31
 lastmod: 2026-10-08

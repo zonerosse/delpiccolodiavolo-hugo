@@ -34,7 +34,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> &rsaquo;
   <a href="/blog/" title="Blog">Blog</a> &rsaquo;
-  <a aria-label="Famiglia &mdash; categoria del blog" href="/blog/#famiglia" title="Articoli Famiglia e Convivenza">Famiglia</a> &rsaquo;
+  <a aria-label="Famiglia &mdash; categoria del blog" href="/blog/#famiglia" title="Articoli Famiglia e convivenza">Famiglia</a> &rsaquo;
   <span>Dove sono oggi i nostri cani</span>
   </nav>
 

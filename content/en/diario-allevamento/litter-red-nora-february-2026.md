@@ -109,7 +109,7 @@ This demonstrates her ability to pass on quality to her offspring.
 
 <!--BLOCCO:5-->
 
-## Genetic Testing
+## Genetic testing
 
 Both parents are tested **Clear** for the main genetic disorders of the breed:
 
@@ -124,7 +124,7 @@ All puppies are **genetically healthy** for L2HGA and HC (all Clear).
 <div style="background:linear-gradient(135deg,#5c4a3a 0%,#8b7355 100%);padding:2rem;border-radius:12px;margin:2rem 0;color:#fff">
 <h3 style="margin:0 0 1rem;font-size:1.1rem;font-family:inherit;font-weight:600;color:#fff;display:flex;align-items:center;gap:.5rem">
 <svg aria-hidden="true" focusable="false" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
-Verifiable Genetic Tests
+Verifiable genetic tests
 </h3>
 <p style="margin:0 0 1rem;font-size:1rem;color:#fff !important;font-weight:600">Full transparency: download the original laboratory certificates.</p>
 <div style="display:flex;flex-wrap:wrap;gap:1rem">

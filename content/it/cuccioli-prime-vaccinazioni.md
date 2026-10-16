@@ -1,5 +1,5 @@
 ---
-title: "Cuccioli: Prime Vaccinazioni"
+title: "Cuccioli: prime vaccinazioni"
 date: 2025-06-10
 titleSeo: "Prime vaccinazioni del cucciolo: calendario e richiami"
 lastmod: 2026-10-06
@@ -21,7 +21,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Cuccioli</span>
-  <h1 class="hero-title">Prime <em>Vaccinazioni</em></h1>
+  <h1 class="hero-title">Prime <em>vaccinazioni</em></h1>
   <p class="hero-subtitle">Calendario, richiami e cosa fare nel frattempo</p>
   <div class="hero-meta">
   <span>📅 10 Giugno 2025</span>
