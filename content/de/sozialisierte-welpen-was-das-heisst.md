@@ -2,7 +2,7 @@
 title: "\"Bereits sozialisierte Welpen\": was das heißt"
 titleSeo: "Sozialisierte Welpen: was das wirklich heißt"
 date: 2026-09-26
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 translationKey: "socializzazione-affido"
 in_breve:
   - "„Sozialisierte Welpen“ **heißt gar nichts**, solange niemand sagt, womit."
@@ -44,30 +44,30 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>&bdquo;Sozialisierte Welpen&ldquo; gehört zu den häufigsten Formulierungen in Anzeigen, und wie &bdquo;Eltern vor Ort&ldquo; bedeutet sie nichts, solange niemand sagt <strong>womit</strong>. Beim Hund reicht die sensible Phase der Sozialisierung von der dritten bis zur zwölften Lebenswoche: wenn ein Staffordshire Bull Terrier Welpe die Zucht verlässt, mit 60 bis 70 Tagen, sind fünf oder sechs dieser zehn Wochen vorbei. Die wichtigere Hälfte der Arbeit steht noch aus, und sie übernimmt die Familie. Eine seriöse Zucht sagt nicht nur, was sie getan hat, sondern auch, was sie <strong>nicht</strong> tun konnte &mdash; Verkehr, Kinder, wenn keine da sind, andere Tierarten, und das Alleinbleiben, das ein Welpe unter Geschwistern nie wirklich erlebt hat, auch nicht in einer guten Zucht. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
+  <p>&bdquo;Sozialisierte Welpen&ldquo; steht in fast jeder Anzeige. Wie &bdquo;Eltern vor Ort&ldquo; bedeutet es nichts, solange niemand sagt <strong>womit</strong>. Die Zeit, in der ein Hund lernt, was normal ist, reicht von der dritten bis zur zwölften Lebenswoche. Ein Staffordshire Bull Terrier Welpe verlässt die Zucht mit 60 bis 70 Tagen. Dann sind fünf oder sechs dieser zehn Wochen schon vorbei, und die wichtigere Hälfte der Arbeit übernimmt die Familie. Eine seriöse Zucht sagt, was sie getan hat, aber auch, was sie <strong>nicht</strong> tun konnte. Meist sind das Verkehr, Kinder, wenn keine da sind, andere Tierarten und das Alleinbleiben. Denn unter seinen Geschwistern ist ein Welpe nie allein, auch nicht in einer guten Zucht. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
   <!--BLOCCO:2-->
   <h2>Die Phase: was die Verhaltensforschung sagt</h2>
 
-  <p>Das ist keine Meinung, sondern gesicherte Literatur. Die <strong>sensible Phase der Sozialisierung</strong> reicht beim Hund etwa von der dritten bis zur zwölften Lebenswoche, mit dem Kern zwischen der vierten und der achten. Die klassische Grundlage sind die Arbeiten von Scott und Fuller aus dem Jahr 1965; heute nennt das <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="Positionspapier der AVSAB zur Welpensozialisierung (wird in einem neuen Tab geöffnet)">Positionspapier der AVSAB zur Welpensozialisierung</a> die ersten drei Lebensmonate als wichtigste Zeit und rät davon ab, mit dem Beginn bis zum Ende der Impfungen zu warten.</p>
+  <p>Das ist nicht meine Meinung, das sagen die Studien. Die <strong>sensible Phase der Sozialisierung</strong> reicht beim Hund etwa von der dritten bis zur zwölften Lebenswoche. Der Kern liegt zwischen der vierten und der achten. Die klassische Grundlage sind die Arbeiten von Scott und Fuller aus dem Jahr 1965. Heute nennt das <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="Positionspapier der AVSAB zur Welpensozialisierung (wird in einem neuen Tab geöffnet)">Positionspapier der AVSAB zur Welpensozialisierung</a> die ersten drei Monate als wichtigste Zeit. Und es rät, nicht bis zum Ende der Impfungen zu warten.</p>
 
-  <p>In diesen Wochen baut der Welpe die Kategorie &bdquo;normal&ldquo; auf. Was er trifft &mdash; Menschen, Geräusche, Untergründe, andere Tiere &mdash; geht mühelos hinein. Was er nicht trifft, bleibt für immer etwas, das bewertet werden muss, und als erwachsener Hund bewertet er es mit den Mitteln eines Erwachsenen: Vorsicht, Wachsamkeit, manchmal Reaktivität.</p>
+  <p>In diesen Wochen lernt der Welpe, was &bdquo;normal&ldquo; ist. Menschen, Geräusche, Untergründe, andere Tiere: Was er kennenlernt, nimmt er ohne Mühe an. Was er nicht kennenlernt, muss er als erwachsener Hund bewerten. Und ein Erwachsener bewertet mit Vorsicht, manchmal mit Wachsamkeit oder Reaktivität.</p>
 
-  <p>Die Folge ist eine Rechenaufgabe. Das italienische Gesetz verbietet die Abgabe vor <strong>sechzig Tagen</strong>: in diesem Alter hat der Welpe fünf der zehn entscheidenden Wochen in der Zucht verbracht, und die bessere Hälfte der Arbeit liegt noch vor ihm.</p>
+  <p>Die Rechnung ist einfach. Das italienische Gesetz verbietet die Abgabe vor <strong>sechzig Tagen</strong>. In diesem Alter hat der Welpe fünf der zehn wichtigen Wochen in der Zucht verbracht. Die Hälfte der Arbeit ist noch zu tun.</p>
 
-  <p>Jede weitere Woche verändert die Rechnung. Bei uns bleiben die Welpen bis <strong>siebzig Tage</strong> &mdash; zehn Tage mehr, was in der sensiblen Phase kein Detail ist: es ist ein Siebtel des nutzbaren Zeitraums, verbracht an einem Ort, an dem Neues in dosierten Portionen ankommt statt alles auf einmal am ersten Tag in einem fremden Haus.</p>
+  <p>Jede weitere Woche verändert die Rechnung. Bei uns bleiben die Welpen bis <strong>siebzig Tage</strong>, also zehn Tage länger. In der sensiblen Phase ist das ein Siebtel der nutzbaren Zeit. Und die verbringen sie an einem Ort, an dem Neues nach und nach kommt, nicht alles auf einmal am ersten Tag in einem fremden Haus.</p>
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
-  <h2>Was er vor der Abgabe wirklich kennengelernt haben kann</h2>
+  <h2>Was er vor der Abgabe kennengelernt haben kann</h2>
 
-  <p>Weit weniger, als das Wort &bdquo;sozialisiert&ldquo; vermuten lässt, und fast alles innerhalb eines engen Rahmens &mdash; der sich mit jeder weiteren Woche ein wenig erweitert.</p>
+  <p>Viel weniger, als das Wort &bdquo;sozialisiert&ldquo; vermuten lässt. Und fast alles in einem kleinen Rahmen, der mit jeder Woche etwas größer wird.</p>
 
-  <p>Er kann <strong>die Menschen des Hauses</strong> und einige Besucher kennengelernt haben. <strong>Haushaltsgeräusche</strong>: Fernseher, Radio, Staubsauger, Türklingel, Geschirrspüler. <strong>Verschiedene Untergründe</strong> unter den Pfoten &mdash; und hier macht es viel aus, ob die Zucht einen echten Hof hat oder nur einen Zwinger. <strong>Die anderen Hunde der Zucht</strong>, ausgeglichene erwachsene Tiere derselben Rasse. <strong>Das Angefasstwerden</strong>: hochgehoben, gedreht, an Pfoten und Ohren berührt.</p>
+  <p>Er kann <strong>die Menschen des Hauses</strong> und einige Besucher kennengelernt haben. <strong>Geräusche im Haus</strong>: Fernseher, Radio, Staubsauger, Türklingel, Geschirrspüler. <strong>Verschiedene Untergründe</strong> unter den Pfoten, und hier macht es viel aus, ob die Zucht einen echten Hof hat oder nur einen Zwinger. <strong>Die anderen Hunde der Zucht</strong>, ruhige erwachsene Tiere seiner Rasse. Und <strong>das Angefasstwerden</strong>: hochgehoben, gedreht, an Pfoten und Ohren berührt.</p>
 
-  <p>Und wenn die Zucht an einer Straße liegt statt abgeschieden auf dem Land: <strong>die Geräusche der Außenwelt aus der Ferne</strong> &mdash; Verkehr, Stimmen von Passanten, Kirchenglocken. Das ist nicht dasselbe wie eine Stadt an der Leine, aber viel mehr als Stille.</p>
+  <p>Liegt die Zucht an einer Straße und nicht abgeschieden auf dem Land, hat er auch <strong>die Geräusche von draußen aus der Ferne</strong> gehört: Verkehr, Passanten, Kirchenglocken. Das ist nicht dasselbe wie eine Stadt an der Leine. Aber es ist viel mehr als Stille.</p>
 
-  <p>Und es gibt einen Faktor, den kaum jemand nennt und der in dieser Phase mehr zählt als viele Reize: <strong>die Mutter</strong>. Eine ruhige Hündin in vertrauter Umgebung zieht stabilere Welpen groß. Eine gestresste zieht reaktivere groß, und dagegen hilft kein Protokoll.</p>
+  <p>Dann gibt es etwas, das kaum jemand nennt und das in dieser Zeit mehr zählt als viele Reize: <strong>die Mutter</strong>. Eine ruhige Hündin an einem vertrauten Ort zieht stabilere Welpen groß. Eine gestresste Hündin zieht reaktivere groß, und dagegen hilft kein Protokoll.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
@@ -75,92 +75,92 @@ custom_content: |
 
   <p>Das ist der Teil, den Anzeigen auslassen.</p>
 
-  <p><strong>Verkehr, Stadt, öffentliche Verkehrsmittel.</strong> Die Grundimmunisierung ist je nach Protokoll des Tierarztes etwa mit <strong>drei Monaten</strong> abgeschlossen, und bis dahin gehört ein Welpe nicht dorthin, wo fremde Hunde verkehren. Das ist eine gesundheitliche Vorsichtsmaßnahme und begrenzt zwangsläufig den Radius. Für Welpen, die ins Ausland gehen, kommt die Tollwutimpfung hinzu, die nicht vor der zwölften Woche möglich ist und erst einundzwanzig Tage später gilt.</p>
+  <p><strong>Verkehr, Stadt, öffentliche Verkehrsmittel.</strong> Die Grundimmunisierung ist je nach Protokoll des Tierarztes mit etwa <strong>drei Monaten</strong> abgeschlossen. Bis dahin gehört ein Welpe nicht dorthin, wo fremde Hunde unterwegs sind. Das ist eine Vorsichtsmaßnahme für die Gesundheit, und sie begrenzt, wohin er gehen kann. Welpen, die ins Ausland gehen, brauchen außerdem die Tollwutimpfung. Sie ist nicht vor der zwölften Woche möglich und gilt erst einundzwanzig Tage später.</p>
 
-  <p><strong>Kinder, wenn in der Zucht keine sind.</strong> Ein Welpe, der unter Erwachsenen aufwächst, hat Erwachsene gesehen. Kinder bewegen sich anders, klingen anders, sind anders groß: für einen Hund sind sie eine eigene Kategorie.</p>
+  <p><strong>Kinder, wenn in der Zucht keine sind.</strong> Ein Welpe, der unter Erwachsenen aufwächst, kennt Erwachsene. Kinder bewegen sich anders, klingen anders und sind kleiner. Für einen Hund sind sie etwas anderes.</p>
 
-  <p><strong>Hunde anderer Rassen und Größen.</strong> Sechs erwachsene Staffys zu kennen ist nicht dasselbe, wie eine Dogge zu kennen, einen Chihuahua, einen Hund, der anders kommuniziert.</p>
+  <p><strong>Hunde anderer Rassen und Größen.</strong> Sechs erwachsene Staffys zu kennen ist nicht dasselbe, wie eine Dogge, einen Chihuahua oder einen Hund zu kennen, der anders kommuniziert.</p>
 
-  <p><strong>Katzen, Pferde, Hühner</strong>, wenn keine da sind. <strong>Aufzug, Leine auf der Straße, der Tierarzt für eine echte Untersuchung</strong> &mdash; nicht die erste Impfung in der Zucht.</p>
+  <p><strong>Katzen, Pferde, Hühner</strong>, wenn keine da sind. <strong>Aufzug, Leine auf der Straße, ein echter Besuch beim Tierarzt</strong>, und das ist nicht die erste Impfung in der Zucht.</p>
 
-  <p>Das gilt auch für uns, und es gehört gesagt: <strong>andere Tiere gibt es hier nicht</strong>, abgesehen von einer Nachbarskatze, die gelegentlich über den Hof läuft. Ein Welpe, der von uns geht, hat nie ein Huhn oder ein Pferd gesehen, und wenn die neue Familie welche hat, wird diese Arbeit dort gemacht.</p>
+  <p>Das gilt auch für uns, und das muss man sagen: <strong>andere Tiere gibt es hier nicht</strong>. Höchstens läuft ab und zu eine Nachbarskatze über den Hof. Ein Welpe, der von uns geht, hat nie ein Huhn oder ein Pferd gesehen. Wenn die neue Familie welche hat, wird diese Arbeit dort gemacht.</p>
 
-  <p><strong>Alleinbleiben.</strong> Ein Welpe in der Zucht ist nie allein: da sind die Geschwister, die Mutter, die Menschen. Das Alleinsein wird danach gelernt, im neuen Zuhause, und es gehört zu dem, was am häufigsten schiefgeht.</p>
+  <p><strong>Alleinbleiben.</strong> In der Zucht ist ein Welpe nie allein: Da sind die Geschwister, die Mutter, die Menschen. Das Alleinsein lernt er später, im neuen Zuhause. Und es gehört zu den Dingen, die am häufigsten schiefgehen.</p>
   <!--/BLOCCO:4-->
 
   <!--BLOCCO:5-->
   <h2>Und der Bio Sensor?</h2>
 
-  <p>Sobald von Frühstimulation die Rede ist, fällt der Begriff <strong>Bio Sensor</strong> oder ENS: fünf Übungen von wenigen Sekunden, einmal täglich, vom dritten bis zum sechzehnten Lebenstag. In Wurfankündigungen wird er zitiert, als wäre er eine Garantie für Ausgeglichenheit.</p>
+  <p>Sobald es um Frühstimulation geht, fällt der Begriff <strong>Bio Sensor</strong> oder ENS. Das sind fünf Übungen von wenigen Sekunden, einmal am Tag, vom dritten bis zum sechzehnten Lebenstag. In Wurfankündigungen wird er zitiert, als würde er einen ausgeglichenen Hund garantieren.</p>
 
-  <p>Zwei Dinge lohnt es zu wissen. Erstens stammen diese Vorteile &mdash; Stresstoleranz, leistungsfähigeres Herz, höhere Krankheitsresistenz &mdash; aus einem Militärprogramm der Siebzigerjahre, nicht aus unabhängigen, von anderen Forschern überprüften Studien. Zweitens ist der Zeitraum, in dem er wirkt, die ersten sechzehn Tage, <strong>nicht die sensible Phase der Sozialisierung</strong>: die beginnt später, ab der dritten Woche.</p>
+  <p>Zwei Dinge sollte man wissen. Das erste betrifft die versprochenen Vorteile: mehr Stresstoleranz, ein leistungsfähigeres Herz, mehr Widerstand gegen Krankheiten. Sie stammen aus einem Militärprogramm der Siebzigerjahre, nicht aus unabhängigen Studien, die andere Forscher geprüft haben. Das zweite: Die ersten sechzehn Tage sind <strong>nicht die sensible Phase der Sozialisierung</strong>. Die beginnt später, ab der dritten Woche.</p>
 
-  <p>Das heißt nicht, dass ENS schadet. Es heißt, dass wer ihn als Grund dafür präsentiert, dass sein Welpe ausgeglichen sein wird, mehr verspricht, als man weiß. Ausführlich haben wir darüber im Beitrag <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor: was die Forschung wirklich sagt">was die Forschung wirklich über den Bio Sensor sagt</a> geschrieben.</p>
+  <p>Das heißt nicht, dass ENS schadet. Es heißt, dass mehr verspricht, als man weiß, wer ihn als Grund für einen ausgeglichenen Welpen nennt. Wir haben darüber im Beitrag <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor: was die Forschung wirklich sagt">was die Forschung wirklich über den Bio Sensor sagt</a> geschrieben.</p>
 
-  <p>Und daraus folgt praktisch etwas für diesen Artikel: <strong>eine Zucht, die nur von den ersten sechzehn Tagen erzählt, erzählt vom unwichtigsten Teil.</strong> Die Frage lautet, was ab der dritten Woche geschehen ist.</p>
+  <p>Für diesen Artikel folgt daraus etwas Praktisches. <strong>Eine Zucht, die nur von den ersten sechzehn Tagen erzählt, erzählt vom unwichtigsten Teil.</strong> Die Frage ist, was ab der dritten Woche passiert ist.</p>
   <!--/BLOCCO:5-->
 
   <!--BLOCCO:6-->
-  <h2>Was &bdquo;sozialisiert&ldquo; also wirklich bedeutet</h2>
+  <h2>Was &bdquo;sozialisiert&ldquo; also bedeutet</h2>
 
-  <p>Dass der Welpe <strong>begonnen</strong> ist, nicht fertig. Dass er eine Grundlage hat, auf der sich aufbauen lässt, statt eines leeren Blattes. Dass die Wochen in der Zucht &mdash; fünf oder sechs &mdash; nicht vergeudet wurden.</p>
+  <p>Es bedeutet, dass der Welpe <strong>angefangen</strong> hat, nicht fertig ist. Er hat eine Grundlage, auf der man aufbauen kann, kein leeres Blatt. Die Wochen in der Zucht, fünf oder sechs, waren nicht verschwendet.</p>
 
-  <p>Wenn eine Anzeige aber nur &bdquo;sozialisiert&ldquo; schreibt, gibt es genau eine Frage: <strong>womit, genau?</strong> Ein Züchter, der weiß, was er tut, antwortet mit einer Aufzählung, nicht mit einem Adjektiv. Und wenn die Aufzählung kurz ist, ist das auch in Ordnung &mdash; solange sie ausgesprochen wird.</p>
+  <p>Wenn eine Anzeige aber nur &bdquo;sozialisiert&ldquo; schreibt, gibt es eine einzige Frage: <strong>womit, genau?</strong> Ein Züchter, der weiß, was er tut, antwortet mit einer Aufzählung, nicht mit einem Adjektiv. Auch eine kurze Aufzählung ist in Ordnung, solange er sie nennt.</p>
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->
   <h2>Was wir tun, und was wir nicht tun</h2>
 
-  <p>Die Welpen der Zucht Del Piccolo Diavolo werden im Haus geboren und bleiben dort den ersten Monat, in der Wurfkiste, die nicht in einem stillen Zimmer steht: sie steht neben Fernseher und Radio, weil der Lärm eines bewohnten Hauses das Erste ist, woran sich ein Welpe gewöhnen muss.</p>
+  <p>Die Welpen der Zucht Del Piccolo Diavolo werden im Haus geboren und bleiben dort den ersten Monat, in der Wurfkiste. Die Kiste steht nicht in einem stillen Zimmer, sondern neben Fernseher und Radio. Der Lärm eines bewohnten Hauses ist das Erste, woran sich ein Welpe gewöhnen muss.</p>
 
-  <p>Mit etwa <strong>dreißig Tagen</strong> wechseln sie in den geschützten Welpenbereich: ein Raum, in dem sie sich sicher bewegen können, solange die Beine noch wenig tragen, und in dem das Absetzen beginnt.</p>
+  <p>Mit etwa <strong>dreißig Tagen</strong> ziehen sie in den geschützten Welpenbereich, der für sie gemacht ist. Dort bewegen sie sich sicher, solange die Beine noch wenig tragen, und das Absetzen beginnt.</p>
 
-  <p>Der entscheidende Schritt kommt mit etwa <strong>vierzig Tagen</strong>, wenn ich sie frei in den Hof lasse. Und der Hof ist kein Betonauslauf: es sind Gras, Erde, Pflanzen, Blumen &mdash; andere Untergründe und Gerüche bei jedem Schritt. Sie bleiben bei passendem Wetter den ganzen Tag draußen, mit Sonne, Wind und Schatten.</p>
+  <p>Der wichtigste Schritt kommt mit etwa <strong>vierzig Tagen</strong>, wenn ich sie frei in den Hof lasse. Das ist kein Betonauslauf. Es gibt Gras, Erde, Pflanzen und Blumen, mit anderen Untergründen und Gerüchen bei jedem Schritt. Bei passendem Wetter bleiben sie den ganzen Tag draußen, in Sonne, Wind und Schatten.</p>
 
-  <p>Am schwersten wiegt aber nicht, was im Hof ist, sondern was draußen vorbeikommt. Autos, Motorroller, Fahrräder, Menschen auf der Straße, Hupen, die Kirchenglocken. Ein Welpe, der mit vierzig Tagen die Glocken hört, während er im Gras spielt, wird diese Glocken sein Leben lang nicht mehr bemerken. Einer, der sie mit sechs Monaten zum ersten Mal in einer Stadt hört, muss sie verarbeiten.</p>
+  <p>Noch mehr zählt, was draußen am Hof vorbeikommt. Autos, Motorroller, Fahrräder, Menschen auf der Straße, Hupen, die Kirchenglocken. Hört ein Welpe die Glocken mit vierzig Tagen, während er im Gras spielt, achtet er sein Leben lang nicht mehr darauf. Hört er sie mit sechs Monaten zum ersten Mal in einer Stadt, muss er sich erst daran gewöhnen.</p>
 
-  <p>Im Hof treffen sie auch <strong>die erwachsenen Hunde</strong>, immer unter enger Aufsicht. Ich lasse sie nicht zusammen, weil &bdquo;sie sich kennen&ldquo;: ich lasse sie zusammen und schaue zu, und trenne sie, wenn es nötig ist.</p>
+  <p>Im Hof treffen sie auch <strong>die erwachsenen Hunde</strong>, immer unter enger Aufsicht. Ich lasse sie nicht zusammen, weil &bdquo;sie sich kennen&ldquo;. Ich lasse sie zusammen und schaue zu, und ich trenne sie, wenn es nötig ist.</p>
 
-  <p>Und der Hof ersetzt das Haus nicht. Zwischen <strong>vierzig und fünfzig Tagen</strong> kommen sie abwechselnd wieder herein, <strong>in Gruppen von zwei oder drei</strong>, für einige Stunden. Nicht alle zusammen: in kleiner Gruppe, damit jeder die Sache selbst erlebt, statt sie zu beobachten, während das Rudel als Schutzschild dient. Dort lernen sie den Rest &mdash; den laufenden Fernseher, Menschen, die kommen und gehen, den glatten Boden, die Küche.</p>
+  <p>Der Hof ersetzt aber nicht das Haus. Zwischen <strong>vierzig und fünfzig Tagen</strong> kommen sie abwechselnd wieder herein, <strong>in Gruppen von zwei oder drei</strong>, für einige Stunden. Nicht alle zusammen: In einer kleinen Gruppe erlebt jeder die Dinge selbst, statt hinter den anderen zuzuschauen. Im Haus lernen sie den Rest: den laufenden Fernseher, Menschen, die kommen und gehen, den glatten Boden, die Küche.</p>
 
-  <p><strong>Die Menschen, die vorbeikommen, sind fast alle neue Gesichter.</strong> Familien, die einen Welpen aufnehmen werden, kommen ihn während des Aufwachsens mehrfach besuchen, außer sie reisen von sehr weit an: für die Welpen bedeutet das andere Hände, andere Stimmen, andere Gangarten, über die Zeit wiederholt. Dabei kommt auch gelegentlich ein Kind mit, denn meine eigenen Kinder sind erwachsen und hier leben keine: wenn ein Paar eines mitbringt, ist mir das willkommen, und das sage ich auch.</p>
+  <p><strong>Die Menschen, die vorbeikommen, sind fast alle neue Gesichter.</strong> Familien, die einen Welpen aufnehmen, besuchen ihn mehrmals, während er wächst, außer sie wohnen zu weit weg. Für die Welpen heißt das andere Hände, Stimmen und Gangarten, immer wieder. Dabei kommt auch mal ein Kind mit. Meine eigenen Kinder sind erwachsen und hier leben keine Kinder: Wenn ein Paar eines mitbringt, ist mir das willkommen, und das sage ich auch.</p>
 
-  <p><strong>Der Tierarzt kommt zu uns.</strong> Bei großen Würfen immer, bei kleinen fahre ich manchmal hin &mdash; aber die Regel ist, dass er kommt: ungeimpfte Welpen in eine Praxis zu bringen, in der kranke Hunde verkehren, ist nicht ideal. Die Kehrseite: der Welpe erlebt vor der Abgabe keine Autofahrt, und die lernt er später.</p>
+  <p><strong>Der Tierarzt kommt zu uns.</strong> Bei großen Würfen immer, bei kleinen fahre ich manchmal selbst hin. Aber die Regel ist, dass er kommt. Ungeimpfte Welpen in eine Praxis zu bringen, in der kranke Hunde ein und aus gehen, ist keine gute Idee. Die Kehrseite ist, dass der Welpe vor der Abgabe nicht Auto fährt, und das lernt er später.</p>
 
-  <p>Was wir <strong>nicht</strong> tun: versprechen, dass die Arbeit bei der Abgabe fertig sei. Sie ist es nicht, weder mit sechzig noch mit siebzig Tagen. Wenn ein Welpe geht, liegen noch mehrere Wochen offener sensibler Phase vor ihm, und die verbringt er bei seiner Familie.</p>
+  <p>Was wir <strong>nicht</strong> tun: versprechen, dass die Arbeit bei der Abgabe fertig ist. Sie ist es nicht, weder mit sechzig noch mit siebzig Tagen. Wenn ein Welpe geht, bleibt die sensible Phase noch einige Wochen offen. Und die verbringt er bei seiner Familie.</p>
   <!--/BLOCCO:7-->
 
   <!--BLOCCO:8-->
-  <h2>Wer länger bleibt, wird wirklich sozialisiert</h2>
+  <h2>Wer länger bleibt, den sozialisiere ich selbst</h2>
 
-  <p>Es gibt eine Gruppe von Welpen mit einem anderen Weg: diejenigen, die aus irgendeinem Grund länger bleiben &mdash; oft die für das Ausland bestimmten, die auf die Tollwutimpfung warten müssen und nicht vor vier Monaten reisen.</p>
+  <p>Manche Welpen gehen einen anderen Weg: die, die länger hier bleiben. Oft sind es die, die ins Ausland gehen. Sie müssen auf die Tollwutimpfung warten und reisen nicht vor vier Monaten.</p>
 
-  <p>Diese Welpen <strong>sozialisiere ich selbst</strong>. Nach der zweiten Impfung nehme ich sie an der Leine mit ins Dorf, und zwar nicht allein: <strong>mit der Mutter daneben</strong>. Ein Welpe ist beim ersten Ausgang fast immer etwas zögerlich &mdash; die Straße ist weit, Geräusche kommen von überall, die Leine ist neu. Läuft aber seine Mutter vor ihm, die diese Straße kennt und sich nicht daran stört, folgt er ihr bereitwillig. Was die Mutter in drei Spaziergängen beibringt, bringt kein Protokoll bei.</p>
+  <p>Diese Welpen <strong>sozialisiere ich selbst</strong>. Nach der zweiten Impfung nehme ich sie an der Leine mit durchs Dorf. Und nicht allein, sondern <strong>mit der Mutter daneben</strong>. Beim ersten Ausgang ist ein Welpe fast immer etwas unsicher. Die Straße ist breit, Geräusche kommen von überall, die Leine ist neu. Läuft aber seine Mutter vor ihm, die diese Straße kennt und sich nicht daran stört, folgt er ihr gern. Was die Mutter in drei Spaziergängen beibringt, bringt kein Protokoll bei.</p>
 
-  <p>Deshalb geht ein Welpe, der bis vier Monate bleibt, mit einem Vorsprung: er hat die sensible Phase hier beendet, geführt von jemandem, der seine Sprache spricht.</p>
+  <p>Deshalb hat ein Welpe, der bis vier Monate bleibt, einen Vorsprung. Er hat die sensible Phase hier beendet, mit einer Begleitung, die seine Sprache spricht.</p>
   <!--/BLOCCO:8-->
 
   <!--BLOCCO:9-->
   <h2>Die ersten vier Wochen zu Hause: die entscheidenden</h2>
 
-  <p>Das ist der Teil, den der Züchter nicht steuert und der genauso schwer wiegt wie seiner.</p>
+  <p>Das ist der Teil, den der Züchter nicht in der Hand hat, und er wiegt genauso schwer wie seiner.</p>
 
-  <p><strong>Menge ist nicht Qualität.</strong> Zehn kurze, positive Erfahrungen sind mehr wert als eine lange, bei der sich der Welpe erschreckt. Erstarrt er, bleibt er stehen oder versucht er wegzugehen, funktioniert die Erfahrung nicht: Abstand vergrößern und morgen erneut versuchen.</p>
+  <p><strong>Menge ist nicht Qualität.</strong> Zehn kurze, schöne Erfahrungen sind mehr wert als eine lange, bei der sich der Welpe erschreckt. Erstarrt er, bleibt er stehen oder will er weg, dann funktioniert die Erfahrung nicht. Etwas mehr Abstand nehmen und am nächsten Tag noch einmal versuchen.</p>
 
-  <p><strong>Vor Abschluss der Grundimmunisierung lässt sich trotzdem viel machen.</strong> Man geht nicht in die Hundewiese, aber man kann den Welpen auf dem Arm an neue Orte tragen, ihn im Auto sitzen lassen, ihn zu Hause Menschen begegnen lassen, ihn über verschiedene Untergründe laufen und neue Geräusche hören lassen.</p>
+  <p><strong>Auch vor dem Ende der Impfungen kann man viel tun.</strong> Keine Hundewiese, aber man kann den Welpen auf dem Arm an neue Orte tragen. Man kann ihn im Auto sitzen lassen, zu Hause Menschen treffen lassen, über verschiedene Untergründe laufen und neue Geräusche hören lassen.</p>
 
-  <p><strong>Das Alleinbleiben wird ab dem ersten Tag geübt</strong>, mit sehr kurzen Abwesenheiten, nach und nach verlängert, ohne Theater beim Gehen und beim Wiederkommen.</p>
+  <p><strong>Alleinbleiben übt man ab dem ersten Tag</strong>, mit sehr kurzen Abwesenheiten, die nach und nach länger werden. Ohne Theater beim Gehen und beim Wiederkommen.</p>
 
-  <p><strong>Wenn etwas schiefläuft, holt man sich Hilfe.</strong> Ein Welpe, der mit vier Monaten Angst hat hinauszugehen, &bdquo;wächst da nicht heraus&ldquo;: das ist der Moment für fachliche Begleitung, nicht erst in einem Jahr.</p>
+  <p><strong>Wenn etwas schiefläuft, holt man sich Hilfe.</strong> Ein Welpe, der mit vier Monaten Angst hat hinauszugehen, &bdquo;wächst da nicht heraus&ldquo;. Dann ist der Moment, sich begleiten zu lassen, nicht erst in einem Jahr.</p>
   <!--/BLOCCO:9-->
 
   <!--BLOCCO:10-->
   <h2>Kurz gefasst</h2>
 
   <ul>
-  <li>Die Phase reicht von der <strong>dritten bis zur zwölften Woche</strong>; bei der Abgabe sind fünf oder sechs von zehn vorbei, je nachdem, wie lange der Welpe bleibt</li>
-  <li>In der Zucht lernt ein Welpe <strong>das Haus, die Menschen, die anderen Hunde seiner Rasse</strong> kennen: nicht die Stadt, nicht den Verkehr, oft keine Kinder</li>
-  <li>&bdquo;Sozialisiert&ldquo; ohne Aufzählung ist ein leeres Wort: <strong>fragen Sie womit</strong></li>
+  <li>Die Phase reicht von der <strong>dritten bis zur zwölften Woche</strong>. Bei der Abgabe sind fünf oder sechs von zehn vorbei, je nachdem, wie lange der Welpe bleibt</li>
+  <li>In der Zucht lernt ein Welpe <strong>das Haus, die Menschen, die anderen Hunde seiner Rasse</strong> kennen. Nicht die Stadt, nicht den Verkehr, oft keine Kinder</li>
+  <li>&bdquo;Sozialisiert&ldquo; ohne Aufzählung bedeutet nichts: <strong>Fragen Sie, womit</strong></li>
   <li>Die verbleibende Arbeit ist die schwerere Hälfte, und die macht die Familie</li>
   <li>Eine seriöse Zucht sagt auch, <strong>was sie nicht leisten konnte</strong></li>
   </ul>
