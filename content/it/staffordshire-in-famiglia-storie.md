@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier in famiglia: dove sono oggi i nostri cani"
 titleSeo: "Staffordshire Bull Terrier in famiglia: storie vere"
 date: 2026-09-27
-lastmod: 2026-10-08
+lastmod: 2026-10-17
 translationKey: "storie-famiglie"
 articolo: true
 image: "/images/blog/storie-famiglie-hero.webp"
@@ -50,7 +50,7 @@ custom_content: |
 
   <p>Oggi vive in poltrona, ed è esattamente quello che deve succedere a una femmina dopo la carriera.</p>
 
-  <p>Con Ricarda e la sua famiglia siamo diventati amici: ci si vede ora a casa loro, ora a casa nostra. Questa parte non si può programmare, e non era nei patti — ma succede spesso.</p>
+  <p>Con Ricarda e la sua famiglia siamo diventati amici: ci si vede ora a casa loro, ora a casa nostra. Questa parte non si può programmare, e non era nei patti, ma succede spesso.</p>
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
@@ -90,7 +90,7 @@ custom_content: |
 
   <p>Assan è figlio di Jackie e vive a Roma. È uno dei cani più belli che io abbia prodotto, ma non è per questo che merita una riga qui.</p>
 
-  <p>Roberta, la sua proprietaria, lo ama come un figlio. Letteralmente: <strong>lo ha portato al proprio matrimonio in veste di testimone.</strong> E insieme a sua madre — che ha una sorella di Assan — mi scrive e mi chiama ancora oggi per consigli e pareri.</p>
+  <p>Roberta, la sua proprietaria, lo ama come un figlio. Letteralmente: <strong>lo ha portato al proprio matrimonio in veste di testimone.</strong> E insieme a sua madre, che ha una sorella di Assan, mi scrive e mi chiama ancora oggi per consigli e pareri.</p>
 
   <p>Due cani della stessa cucciolata in due case della stessa famiglia, a distanza di anni. È il genere di conferma che nessun titolo può dare.</p>
   <!--/BLOCCO:7-->
@@ -148,7 +148,7 @@ custom_content: |
 
   <p>Non per elencare risultati: quelli sono nel <a href="/palmares-del-piccolo-diavolo/" title="palmarès">palmarès</a>, con i nomi dei giudici, e chiunque può controllarli.</p>
 
-  <p>Questa pagina esiste perché <strong>un allevamento si misura a dieci anni di distanza</strong>, non il giorno della consegna. Se i cani che hai prodotto stanno bene, vivono in famiglia, lavorano, invecchiano in poltrona, e i loro proprietari ti scrivono ancora — allora il lavoro ha funzionato.</p>
+  <p>Questa pagina esiste perché <strong>un allevamento si misura a dieci anni di distanza</strong>, non il giorno della consegna. Se i cani che hai prodotto stanno bene, vivono in famiglia, lavorano, invecchiano in poltrona, e i loro proprietari ti scrivono ancora, allora il lavoro ha funzionato.</p>
   <!--/BLOCCO:14-->
 
   <!--BLOCCO:15-->
@@ -158,7 +158,7 @@ custom_content: |
 
   <p>Dal 2013 a oggi <strong>non è mai servito</strong>. Nessun cucciolo, nessun cane adulto è mai tornato indietro.</p>
 
-  <p>Non lo scrivo come un merito, perché in buona parte non lo è: dipende anche dalle famiglie che sono venute, da quelle che hanno fatto trecento chilometri per vedere la madre prima di decidere, da quelle che hanno aspettato un anno perché quell'anno non era nata nessuna cucciolata. La promessa però resta in piedi, e il giorno in cui servisse la manterremmo.</p>
+  <p>Non lo scrivo come un merito, perché in buona parte non lo è: dipende anche dalle famiglie che sono venute, da quelle che hanno fatto trecento chilometri per vedere la madre prima di decidere, da quelle che sono tornate l'anno dopo, perché quell'anno non era nata nessuna cucciolata. La promessa però resta in piedi, e il giorno in cui servisse la manterremmo.</p>
 
   <div class="related-articles">
   <h3>Articoli correlati</h3>

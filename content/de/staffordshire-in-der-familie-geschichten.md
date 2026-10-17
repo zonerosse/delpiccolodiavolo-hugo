@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier in der Familie: wo unsere Hunde heute sind"
 titleSeo: "Staffordshire Bull Terrier in der Familie: wahre Geschichten"
 date: 2026-09-27
-lastmod: 2026-10-08
+lastmod: 2026-10-17
 translationKey: "storie-famiglie"
 articolo: true
 image: "/images/blog/storie-famiglie-hero.webp"
@@ -158,7 +158,7 @@ custom_content: |
 
   <p>Seit 2013 <strong>war das nie nötig</strong>. Kein Welpe und kein erwachsener Hund ist je zurückgekommen.</p>
 
-  <p>Ich schreibe das nicht als Verdienst, denn zum großen Teil ist es keiner: Es hängt auch von den Familien ab, die gekommen sind, von denen, die dreihundert Kilometer gefahren sind, um die Mutter zu sehen, bevor sie sich entschieden, von denen, die ein Jahr gewartet haben, weil in jenem Jahr kein Wurf geboren wurde. Das Versprechen gilt aber weiter, und an dem Tag, an dem es nötig wäre, würden wir es halten.</p>
+  <p>Ich schreibe das nicht als Verdienst, denn zum großen Teil ist es keiner: Es hängt auch von den Familien ab, die gekommen sind, von denen, die dreihundert Kilometer gefahren sind, um die Mutter zu sehen, bevor sie sich entschieden, von denen, die im Jahr darauf wiederkamen, weil in jenem Jahr kein Wurf geboren wurde. Das Versprechen gilt aber weiter, und an dem Tag, an dem es nötig wäre, würden wir es halten.</p>
 
   <div class="related-articles">
   <h3>Verwandte Artikel</h3>

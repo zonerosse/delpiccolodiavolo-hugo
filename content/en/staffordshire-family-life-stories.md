@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terriers in family life: where our dogs are today"
 titleSeo: "Staffordshire Bull Terriers in family life: true stories"
 date: 2026-09-27
-lastmod: 2026-10-08
+lastmod: 2026-10-17
 translationKey: "storie-famiglie"
 articolo: true
 image: "/images/blog/storie-famiglie-hero.webp"
@@ -158,7 +158,7 @@ custom_content: |
 
   <p>Since 2013 <strong>it has never been needed</strong>. No puppy and no adult dog has ever come back.</p>
 
-  <p>I do not write this as a merit, because for the most part it is not one: it also depends on the families who came, on those who drove three hundred kilometres to see the mother before deciding, on those who waited a year because that year no litter was born. The promise still stands, though, and on the day it was needed we would keep it.</p>
+  <p>I do not write this as a merit, because for the most part it is not one: it also depends on the families who came, on those who drove three hundred kilometres to see the mother before deciding, on those who came back the following year, because that year no litter was born. The promise still stands, though, and on the day it was needed we would keep it.</p>
 
   <div class="related-articles">
   <h3>Related articles</h3>
