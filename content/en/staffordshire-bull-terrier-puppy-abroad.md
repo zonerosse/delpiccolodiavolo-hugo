@@ -4,7 +4,7 @@ og_image: "/images/og/schede/en/staffordshire-bull-terrier-puppy-abroad.jpg"
 og_image_alt: "Staffy puppy abroad: timing and paperwork — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/cucciolo-staffordshire-bull-terrier-all-estero.webp"
 date: 2026-09-12
-lastmod: 2026-10-05
+lastmod: 2026-10-17
 articolo: true
 translationKey: "cucciolo-estero"
 description: "A puppy going to another European country leaves at four months, not two. Rabies vaccination, pet passport, TRACES certificate and ENCI export pedigree."
@@ -32,7 +32,7 @@ custom_content: |
   <span>📅 September 12, 2026</span>
   <span>⏱️ 5 min read</span>
   </div>
-  <p class="hero-description">A puppy going to a family in another European country leaves at around four months, not two. It needs the rabies vaccination, the pet passport, the TRACES health certificate and the ENCI export pedigree. Here is how it actually works.</p>
+  <p class="hero-description">A puppy going to a family in another European country leaves at around four months, not two. It needs the rabies vaccination, the pet passport, the TRACES health certificate and the ENCI export pedigree. Below, how it works.</p>
   <div class="hero-actions">
   <a class="btn btn-primary" href="/wa/393924635584" target="_blank" rel="noopener" aria-label="Write to me (opens in a new tab)">Write to me</a>
   <a class="btn btn-ghost" href="#contenuto">How it works</a>
@@ -49,15 +49,29 @@ custom_content: |
   <p>A Staffordshire Bull Terrier puppy going abroad does not leave at two months like one staying in Italy, and the reason is a health one. To leave the country it needs the rabies vaccination, which cannot be given before 12 weeks of age, and after the first dose another 21 days must pass before it is valid for travel. The arithmetic is simple: a puppy born today cannot travel before four months. On top of that come the European pet passport, a microchip registered with the national database and the official health certificate, under EU Regulation 576/2013. Anyone promising delivery abroad at two months either does not know the rules or is breaking them, and in both cases it is worth wondering what else they are not doing. Documents, car, train and plane: the practical rules are in the guide on <a href="/en/staffy-travel-transport/" title="Travelling with a Staffy">travelling with a Staffy</a>.</p>
 
 
-  <p>We receive enquiries from outside Italy, mostly from Eastern Europe. It is possible — we have done it before — but it works differently from a placement within Italy, and it is worth knowing that before falling for a photograph.</p>
+  <p>We receive enquiries from outside Italy, mostly from Eastern Europe. It is possible, and we have done it before, but it works differently from a placement within Italy, and it is worth knowing that before falling for a photograph.</p>
 
-    <h2>The puppy does not leave at eight weeks</h2>
+    <h2>The puppy does not leave at two months</h2>
 
-    <p>In Italy a puppy leaves its mother at 60 days. To leave the country, however, it needs the rabies vaccination, which <strong>cannot be given before 12 weeks</strong> of age. After the first dose another three weeks must pass before it counts for travel purposes. Documents, car, train and air travel: the practical rules are in the guide to <a href="/en/staffy-travel-transport/" title="Travelling with a Staffy">travelling with a Staffy</a>.</p>
+    <p>In Italy a puppy cannot leave its mother before 60 days. To leave the country, however, it needs the rabies vaccination, which <strong>cannot be given before 12 weeks</strong> of age. After the first dose another three weeks must pass before it counts for travel purposes. Documents, car, train and air travel: the practical rules are in the guide to <a href="/en/staffy-travel-transport/" title="Travelling with a Staffy">travelling with a Staffy</a>.</p>
 
     <p>The arithmetic is simple: a puppy going abroad leaves at <strong>around four months</strong>, not before. That is six or seven weeks more than an Italian placement, and the puppy spends them here with us.</p>
 
     <p>This is not red tape to be worked around: it is the time it takes. Anyone offering to send a two-month-old puppy to another country either does not know the rules or is breaking them, and in both cases it is worth asking what else they are not doing.</p>
+
+    <h2>First of all: where a Staffy cannot go</h2>
+
+    <p>In <strong>Germany</strong> there are two different rules, and it is worth not mixing them up.</p>
+
+    <ul>
+    <li><strong>Bringing a Staffy into Germany to live there is forbidden throughout the country.</strong> A federal law (§ 2 Hundeverbringungs- und -einfuhrbeschränkungsgesetz) says so. It applies in every state and names the Staffordshire Bull Terrier together with the Pit Bull, the Amstaff and the Bull Terrier. A permit from a state is not enough.</li>
+    <li><strong>There are three exceptions</strong>: service dogs (guide dogs, assistance dogs, rescue dogs); dogs that already live in Germany and are coming back from a trip; and people who live outside Germany and stay there with the dog for four weeks at most, on holiday for example.</li>
+    <li><strong>Keeping a Staffy that already lives in Germany</strong> follows the rules of each state instead: some require a permit or a temperament test, others do not.</li>
+    </ul>
+
+    <p>That is why a puppy going to a family who lives in Germany cannot leave, from us or from any other kennel, whichever state they live in.</p>
+
+    <p>In <strong>Austria</strong> and <strong>Switzerland</strong> there is no nationwide law like the German one: the rules change from one region to another, and in some Austrian states and some Swiss cantons the Staffy is on the lists, with a compulsory permit or course and sometimes stricter rules. Before writing to us, check what your state or canton requires. The rules of the various countries are on the page <a href="/en/staffy-dangerous-breed-law/" title="Is the Staffy dangerous? What the law says">Staffy and the law</a>.</p>
 
     <h2>What travels with the puppy</h2>
 
@@ -65,7 +79,7 @@ custom_content: |
     <li><strong>Microchip</strong> to the European standard, registered</li>
     <li><strong>European pet passport</strong>, completed by an authorised veterinarian</li>
     <li><strong>Valid rabies vaccination</strong>, with the dates recorded in the passport</li>
-    <li><strong>Export pedigree</strong> — the ENCI genealogical certificate carrying the stamp that makes it transcribable abroad</li>
+    <li><strong>Export pedigree</strong>: the ENCI genealogical certificate carrying the stamp that makes it transcribable abroad</li>
     <li><strong>TRACES health certificate</strong>, issued by the official veterinarian of the local health authority after a clinical examination of the puppy</li>
     </ul>
 
@@ -88,7 +102,7 @@ custom_content: |
 
     <p>This is why we ask you to talk to us early: the litter is registered in the puppies' first months, and if by then we know who you are, the document sets off down the right road.</p>
 
-    <p>One thing to expect: <strong>the export pedigree almost always arrives after the puppy.</strong> It is posted to the new owner's address and does not travel in the crate. The dog leaves perfectly in order — microchip, passport, vaccination and health certificate are what matter for entry — but registration with your own kennel club happens afterwards, with that sheet in hand.</p>
+    <p>One thing to expect: <strong>the export pedigree almost always arrives after the puppy.</strong> It is posted to the new owner's address and does not travel in the crate. The dog leaves perfectly in order, because microchip, passport, vaccination and health certificate are what matter for entry. Registration with your own kennel club happens afterwards, with that sheet in hand.</p>
 
     <h2>Who comes to collect</h2>
 
@@ -123,7 +137,7 @@ custom_content: |
   <!--BLOCCO:4-->
   <section class="cta-section">
   <h2>Questions about a placement abroad?</h2>
-  <p>Write to me in your own language — I will manage. If you would rather talk, my daughter Sara speaks English, German and Spanish: <strong>+39 377 689 6955</strong>.</p>
+  <p>Write to me in your own language: I will manage. If you would rather talk, my daughter Sara speaks English, German and Spanish: <strong>+39 377 689 6955</strong>.</p>
   <a class="btn btn-light" href="/wa/393924635584" target="_blank" rel="noopener" aria-label="Write on WhatsApp (opens in a new tab)">Write on WhatsApp</a>
   </section>
   <!--/BLOCCO:4-->

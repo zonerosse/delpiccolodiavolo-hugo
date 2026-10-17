@@ -4,7 +4,7 @@ og_image: "/images/og/schede/it/cucciolo-staffordshire-bull-terrier-all-estero.j
 og_image_alt: "Cucciolo Staffy all'estero: tempi e documenti — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/cucciolo-staffordshire-bull-terrier-all-estero.webp"
 date: 2026-09-12
-lastmod: 2026-10-05
+lastmod: 2026-10-17
 articolo: true
 translationKey: "cucciolo-estero"
 description: "Un cucciolo destinato a un altro paese europeo parte a quattro mesi, non a due. Antirabbica, passaporto, certificato TRACES ed export pedigree ENCI."
@@ -29,10 +29,10 @@ custom_content: |
   <h1 class="hero-title">Un cucciolo <em>Staffordshire Bull Terrier</em> che va all'estero</h1>
   <p class="hero-subtitle">Tempi, documenti, export pedigree</p>
   <div class="hero-meta">
-  <span>📅 12 Settembre 2026</span>
+  <span>📅 12 settembre 2026</span>
   <span>⏱️ 5 min lettura</span>
   </div>
-  <p class="hero-description">Un cucciolo destinato a una famiglia di un altro paese europeo parte intorno ai quattro mesi, non a due. Servono antirabbica, passaporto europeo, certificato sanitario TRACES ed export pedigree ENCI. Ecco come funziona davvero.</p>
+  <p class="hero-description">Un cucciolo destinato a una famiglia di un altro paese europeo parte intorno ai quattro mesi, non a due. Servono antirabbica, passaporto europeo, certificato sanitario TRACES ed export pedigree ENCI. Qui sotto, come funziona.</p>
   <div class="hero-actions">
   <a class="btn btn-primary" href="/wa/393924635584" target="_blank" rel="noopener" aria-label="Scrivimi (si apre in una nuova scheda)">Scrivimi</a>
   <a class="btn btn-ghost" href="#contenuto">Come funziona</a>
@@ -54,11 +54,25 @@ custom_content: |
 
   <h2>Il cucciolo non parte a due mesi</h2>
 
-  <p>In Italia un cucciolo lascia la madre a 60 giorni. Per uscire dal paese, invece, gli serve la vaccinazione antirabbica, che <strong>non si può fare prima delle 12 settimane</strong> di vita. Dopo la prima somministrazione bisogna aspettarne altre tre perché diventi valida ai fini dello spostamento.</p>
+  <p>In Italia un cucciolo non può lasciare la madre prima dei 60 giorni. Per uscire dal paese, invece, gli serve la vaccinazione antirabbica, che <strong>non si può fare prima delle 12 settimane</strong> di vita. Dopo la prima somministrazione bisogna aspettarne altre tre perché diventi valida ai fini dello spostamento.</p>
 
   <p>Il conto è presto fatto: un cucciolo destinato all'estero parte <strong>intorno ai quattro mesi</strong>, non prima. Sono sei o sette settimane in più rispetto a un affido italiano, che il cucciolo passa qui con noi.</p>
 
   <p>L'attesa per l'antirabbica non è un ostacolo burocratico da aggirare: è il tempo che serve. Chi propone di far partire un cucciolo di due mesi verso un altro paese o non conosce le regole o le sta violando, e in entrambi i casi vale la pena chiedersi cos'altro non stia facendo.</p>
+
+  <h2>Prima di tutto: dove lo Staffy non può andare</h2>
+
+  <p>In <strong>Germania</strong> ci sono due regole diverse, e conviene non confonderle.</p>
+
+  <ul>
+  <li><strong>Portare uno Staffy in Germania per viverci è vietato in tutto il paese.</strong> Lo dice una legge federale (§ 2 Hundeverbringungs- und -einfuhrbeschränkungsgesetz), che vale in ogni Land e nomina lo Staffordshire Bull Terrier insieme al Pit Bull, all'Amstaff e al Bull Terrier. Il permesso di un Land non basta.</li>
+  <li><strong>Le eccezioni sono tre</strong>: i cani di servizio (per ciechi, per persone con disabilità, da soccorso); i cani che vivono già in Germania e rientrano da un viaggio; chi abita fuori dalla Germania e ci resta con il cane al massimo quattro settimane, per esempio in vacanza.</li>
+  <li><strong>Tenere uno Staffy che vive già in Germania</strong> segue invece le regole del singolo Land: in alcuni serve un permesso o un test di carattere, in altri no.</li>
+  </ul>
+
+  <p>Per questo un cucciolo destinato a una famiglia che abita in Germania non può partire, da noi come da qualunque altro allevamento, in qualunque Land viva.</p>
+
+  <p>In <strong>Austria</strong> e in <strong>Svizzera</strong> non c'è una legge per tutto il paese come in Germania: le regole cambiano da una regione all'altra, e in alcuni Länder austriaci e in alcuni cantoni svizzeri lo Staffy è nelle liste, con un permesso o un corso obbligatori e a volte regole più severe. Prima di scriverci, controllate cosa chiede il vostro Land o il vostro cantone. Le regole dei vari paesi sono nella pagina <a href="/staffy-pericoloso-legge-italia/" title="Lo Staffy è pericoloso? Cosa dice la legge">Staffy e legge</a>.</p>
 
   <h2>Cosa lo accompagna</h2>
 
@@ -89,7 +103,7 @@ custom_content: |
 
   <p>Per questo vi chiediamo di parlarci presto: la denuncia di cucciolata si presenta entro i primi mesi di vita, e se a quel punto sappiamo già chi siete, il documento parte per la strada giusta.</p>
 
-  <p>Una cosa da mettere in conto: <strong>l'export pedigree arriva quasi sempre dopo il cucciolo.</strong> Viene spedito per posta all'indirizzo del nuovo proprietario e non viaggia nel trasportino. Il cane parte in regola lo stesso — microchip, passaporto, vaccinazione e certificato sanitario sono ciò che conta per l'ingresso — ma la registrazione presso il vostro ente cinofilo si fa dopo, con quel foglio in mano.</p>
+  <p>Una cosa da mettere in conto: <strong>l'export pedigree arriva quasi sempre dopo il cucciolo.</strong> Viene spedito per posta all'indirizzo del nuovo proprietario e non viaggia nel trasportino. Il cane parte in regola lo stesso, perché per l'ingresso contano microchip, passaporto, vaccinazione e certificato sanitario. La registrazione presso il vostro ente cinofilo si fa dopo, con quel foglio in mano.</p>
 
   <h2>Chi viene a prenderlo</h2>
 

@@ -4,7 +4,7 @@ og_image: "/images/og/schede/de/staffordshire-bull-terrier-welpe-ins-ausland.jpg
 og_image_alt: "Staffordshire Bull Terrier Welpe ins Ausland: so läuft es ab — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/cucciolo-staffordshire-bull-terrier-all-estero.webp"
 date: 2026-09-12
-lastmod: 2026-10-05
+lastmod: 2026-10-17
 articolo: true
 translationKey: "cucciolo-estero"
 description: "Ein Welpe für ein anderes europäisches Land reist mit vier Monaten, nicht mit zwei. Tollwutimpfung, Heimtierausweis, TRACES-Zeugnis und ENCI-Exportstammbaum."
@@ -32,7 +32,7 @@ custom_content: |
   <span>📅 12. September 2026</span>
   <span>⏱️ 5 Min. Lesezeit</span>
   </div>
-  <p class="hero-description">Ein Welpe für eine Familie in einem anderen europäischen Land reist mit etwa vier Monaten, nicht mit zwei. Nötig sind Tollwutimpfung, EU-Heimtierausweis, TRACES-Gesundheitszeugnis und ENCI-Exportstammbaum. So läuft es wirklich ab.</p>
+  <p class="hero-description">Ein Welpe für eine Familie in einem anderen europäischen Land reist mit etwa vier Monaten, nicht mit zwei. Nötig sind Tollwutimpfung, EU-Heimtierausweis, TRACES-Gesundheitszeugnis und ENCI-Exportstammbaum. Hier unten, wie es abläuft.</p>
   <div class="hero-actions">
   <a class="btn btn-primary" href="/wa/393924635584" target="_blank" rel="noopener" aria-label="Schreiben Sie mir (wird in einem neuen Tab geöffnet)">Schreiben Sie mir</a>
   <a class="btn btn-ghost" href="#contenuto">So funktioniert es</a>
@@ -49,15 +49,29 @@ custom_content: |
   <p>Ein Staffordshire Bull Terrier Welpe, der ins Ausland geht, reist nicht mit zwei Monaten wie einer, der in Italien bleibt, und der Grund ist ein gesundheitlicher. Um das Land zu verlassen, braucht er die Tollwutimpfung, die nicht vor der 12. Lebenswoche gegeben werden darf, und nach der ersten Dosis müssen weitere 21 Tage vergehen, bis sie für die Reise gültig ist. Die Rechnung ist einfach: Ein heute geborener Welpe kann nicht vor vier Monaten reisen. Dazu kommen der EU-Heimtierausweis, ein in der nationalen Datenbank registrierter Mikrochip und die amtliche Gesundheitsbescheinigung nach der EU-Verordnung 576/2013. Wer eine Übergabe im Ausland mit zwei Monaten verspricht, kennt die Regeln entweder nicht oder verstößt gegen sie, und in beiden Fällen sollte man sich fragen, was er sonst noch nicht tut. Papiere, Auto, Bahn und Flugzeug: Die praktischen Regeln stehen im Ratgeber <a href="/de/staffy-reisen-transport/" title="Reisen mit dem Staffy">Reisen mit dem Staffy</a>.</p>
 
 
-  <p>Wir erhalten Anfragen aus dem Ausland, vor allem aus Osteuropa. Es ist möglich — wir haben es schon getan — aber es läuft anders ab als eine Vermittlung innerhalb Italiens, und das sollte man wissen, bevor man sich in ein Foto verliebt. Papiere, Auto, Bahn und Flugzeug: die praktischen Regeln stehen im Ratgeber zum <a href="/de/staffy-reisen-transport/" title="Reisen mit dem Staffy">Reisen mit dem Staffy</a>.</p>
+  <p>Wir erhalten Anfragen aus dem Ausland, vor allem aus Osteuropa. Es ist möglich, und wir haben es schon getan, aber es läuft anders ab als eine Vermittlung innerhalb Italiens, und das sollte man wissen, bevor man sich in ein Foto verliebt. Papiere, Auto, Bahn und Flugzeug: die praktischen Regeln stehen im Ratgeber zum <a href="/de/staffy-reisen-transport/" title="Reisen mit dem Staffy">Reisen mit dem Staffy</a>.</p>
 
-    <h2>Der Welpe reist nicht mit acht Wochen</h2>
+    <h2>Der Welpe reist nicht mit zwei Monaten</h2>
 
-    <p>In Italien verlässt ein Welpe die Mutter mit 60 Tagen. Um das Land zu verlassen, braucht er jedoch die Tollwutimpfung, die <strong>nicht vor der 12. Lebenswoche</strong> verabreicht werden darf. Nach der ersten Impfung müssen weitere drei Wochen vergehen, bevor sie für die Verbringung gültig ist.</p>
+    <p>In Italien darf ein Welpe die Mutter nicht vor dem 60. Tag verlassen. Um das Land zu verlassen, braucht er jedoch die Tollwutimpfung, die <strong>nicht vor der 12. Lebenswoche</strong> verabreicht werden darf. Nach der ersten Impfung müssen weitere drei Wochen vergehen, bevor sie für die Verbringung gültig ist.</p>
 
-    <p>Die Rechnung ist schnell gemacht: ein Welpe, der ins Ausland geht, reist mit <strong>etwa vier Monaten</strong>, nicht früher. Das sind sechs oder sieben Wochen mehr als bei einer Vermittlung in Italien — Wochen, die der Welpe hier bei uns verbringt.</p>
+    <p>Die Rechnung ist schnell gemacht: ein Welpe, der ins Ausland geht, reist mit <strong>etwa vier Monaten</strong>, nicht früher. Das sind sechs oder sieben Wochen mehr als bei einer Vermittlung in Italien, Wochen, die der Welpe hier bei uns verbringt.</p>
 
-    <p>Das ist keine Bürokratie, die man umgehen sollte: es ist schlicht die Zeit, die es braucht. Wer anbietet, einen zwei Monate alten Welpen ins Ausland zu schicken, kennt die Regeln nicht oder bricht sie — und in beiden Fällen lohnt die Frage, was er sonst noch nicht tut.</p>
+    <p>Das ist keine Bürokratie, die man umgehen sollte: es ist schlicht die Zeit, die es braucht. Wer anbietet, einen zwei Monate alten Welpen ins Ausland zu schicken, kennt die Regeln nicht oder bricht sie, und in beiden Fällen lohnt die Frage, was er sonst noch nicht tut.</p>
+
+    <h2>Zuerst: wohin ein Staffy nicht darf</h2>
+
+    <p>In <strong>Deutschland</strong> gibt es zwei verschiedene Regeln, die man nicht verwechseln sollte.</p>
+
+    <ul>
+    <li><strong>Einen Staffy nach Deutschland zu bringen, um ihn dort zu halten, ist im ganzen Land verboten.</strong> Das steht in einem Bundesgesetz (§ 2 Hundeverbringungs- und -einfuhrbeschränkungsgesetz). Es gilt in jedem Bundesland und nennt den Staffordshire Bull Terrier zusammen mit Pit Bull, Amstaff und Bullterrier. Eine Erlaubnis des Bundeslandes reicht nicht.</li>
+    <li><strong>Es gibt drei Ausnahmen</strong>: Diensthunde (Blindenhunde, Behindertenbegleithunde, Rettungshunde); Hunde, die schon in Deutschland leben und von einer Reise zurückkommen; und Menschen, die nicht in Deutschland wohnen und sich dort mit dem Hund höchstens vier Wochen aufhalten, zum Beispiel im Urlaub.</li>
+    <li><strong>Die Haltung eines Staffy, der schon in Deutschland lebt,</strong> richtet sich dagegen nach den Regeln des jeweiligen Bundeslandes: In manchen braucht man eine Erlaubnis oder einen Wesenstest, in anderen nicht.</li>
+    </ul>
+
+    <p>Deshalb kann ein Welpe für eine Familie, die in Deutschland wohnt, nicht ausreisen, weder bei uns noch bei einer anderen Zucht, egal in welchem Bundesland sie lebt.</p>
+
+    <p>In <strong>Österreich</strong> und in der <strong>Schweiz</strong> gibt es kein landesweites Gesetz wie in Deutschland: Die Regeln ändern sich von Region zu Region, und in manchen österreichischen Bundesländern und Schweizer Kantonen steht der Staffy auf den Listen, mit Pflicht zu Bewilligung oder Kurs und manchmal strengeren Regeln. Bevor Sie uns schreiben, prüfen Sie, was Ihr Bundesland oder Ihr Kanton verlangt. Die Regeln der einzelnen Länder stehen auf der Seite <a href="/de/staffy-gefaehrliche-rasse-gesetz/" title="Ist der Staffy gefährlich? Was das Gesetz sagt">Staffy und Gesetz</a>.</p>
 
     <h2>Was den Welpen begleitet</h2>
 
@@ -65,7 +79,7 @@ custom_content: |
     <li><strong>Mikrochip</strong> nach europäischem Standard, registriert</li>
     <li><strong>EU-Heimtierausweis</strong>, ausgefüllt vom ermächtigten Tierarzt</li>
     <li><strong>Gültige Tollwutimpfung</strong>, mit den Daten im Ausweis</li>
-    <li><strong>Export-Ahnentafel</strong> — die ENCI-Ahnentafel mit dem Stempel, der sie im Ausland umschreibbar macht</li>
+    <li><strong>Export-Ahnentafel</strong>: die ENCI-Ahnentafel mit dem Stempel, der sie im Ausland umschreibbar macht</li>
     <li><strong>TRACES-Gesundheitszeugnis</strong>, ausgestellt vom amtlichen Tierarzt der Gesundheitsbehörde nach klinischer Untersuchung des Welpen</li>
     </ul>
 
@@ -88,7 +102,7 @@ custom_content: |
 
     <p>Deshalb bitten wir Sie, früh mit uns zu sprechen: Der Wurf wird in den ersten Lebensmonaten eingetragen, und wenn wir zu diesem Zeitpunkt schon wissen, wer Sie sind, nimmt das Dokument den richtigen Weg.</p>
 
-    <p>Eines sollten Sie einplanen: <strong>die Export-Ahnentafel kommt fast immer nach dem Welpen.</strong> Sie wird an die Adresse des neuen Besitzers geschickt und reist nicht in der Box mit. Der Hund reist trotzdem völlig ordnungsgemäß — Mikrochip, Ausweis, Impfung und Gesundheitszeugnis sind das, was für die Einreise zählt — aber die Eintragung bei Ihrem Zuchtverband erfolgt danach, mit diesem Blatt in der Hand.</p>
+    <p>Eines sollten Sie einplanen: <strong>die Export-Ahnentafel kommt fast immer nach dem Welpen.</strong> Sie wird an die Adresse des neuen Besitzers geschickt und reist nicht in der Box mit. Der Hund reist trotzdem völlig ordnungsgemäß, denn für die Einreise zählen Mikrochip, Ausweis, Impfung und Gesundheitszeugnis. Die Eintragung bei Ihrem Zuchtverband erfolgt danach, mit diesem Blatt in der Hand.</p>
 
     <h2>Wer ihn abholt</h2>
 
@@ -123,7 +137,7 @@ custom_content: |
   <!--BLOCCO:4-->
   <section class="cta-section">
   <h2>Fragen zur Vermittlung ins Ausland?</h2>
-  <p>Schreiben Sie mir ruhig in Ihrer Sprache — das bekomme ich hin. Wenn Sie lieber sprechen möchten: meine Tochter Sara spricht Englisch, Deutsch und Spanisch, <strong>+39 377 689 6955</strong>.</p>
+  <p>Schreiben Sie mir ruhig in Ihrer Sprache: Das bekomme ich hin. Wenn Sie lieber sprechen möchten: meine Tochter Sara spricht Englisch, Deutsch und Spanisch, <strong>+39 377 689 6955</strong>.</p>
   <a class="btn btn-light" href="/wa/393924635584" target="_blank" rel="noopener" aria-label="Auf WhatsApp schreiben (wird in einem neuen Tab geöffnet)">Auf WhatsApp schreiben</a>
   </section>
   <!--/BLOCCO:4-->
