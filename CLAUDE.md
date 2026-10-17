@@ -296,6 +296,10 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
   dei diari Bilquis, riga vuota "Geborene Welpen" del diario Red Nora DE. Il gestionale non manda più n/m/f e non li scrive nei testi.
 
 ## Stile "Notte" (17/10/2026, Paolo: scelta B)
+- 18/10/2026 (Paolo): colori «Blu notte, bianco e oro». Fondo blu (`--n-bg:#25354c`, `--n-bg2:#2c3f57`, `--n-card:#354a63`,
+  scuro `#1f2d42`), testo `#d6dde6`, oro `#f0cc86` al posto di oro e rame. Bottoni bianchi con scritta `#1f3a5f`; link oro in
+  grassetto con sottolineatura sottile (B). Niente marrone in link, bottoni e menu (anche al passaggio del mouse). Le regole in fondo
+  a `notte.css` prevalgono sui vecchi colori caffè e rame scritti più su.
 - Pagine vetrina scure (caffè, rame, oro): Home, Cuccioli, Chi siamo, Femmine, Maschi, Palmarès, Diario (elenco), Programma,
   Recensioni, Contatti, FAQ, Blog (elenco), in IT/EN/DE. Si accende con `notte: true` nel front matter (body `notte-pagina`, `assets/css/notte.css`
   caricato da `partials/css.html`). Gli articoli del Blog e le pagine del diario restano chiari.

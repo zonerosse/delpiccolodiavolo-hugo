@@ -1,7 +1,7 @@
 /* Stile "Notte" per le pagine vetrina (scelta di Paolo, 17/10/2026, opzione B).
    Si accende con notte: true nel front matter (body.notte-pagina). Gli articoli del Blog restano chiari.
    Molte schede hanno colori scritti nello style="": qui si ricoprono con !important. */
-body.notte-pagina{--n-bg:#17120f;--n-bg2:#211a15;--n-card:#2a211b;--n-cr:#f3e9dc;--n-mu:#c4b4a0;--n-cu:#c8894a;--n-go:#d9b26a;--n-ln:rgba(243,233,220,.13);background:var(--n-bg);color:var(--n-mu)}
+body.notte-pagina{--n-bg:#25354c;--n-bg2:#2c3f57;--n-card:#354a63;--n-cr:#f3e9dc;--n-mu:#d6dde6;--n-cu:#f0cc86;--n-go:#f0cc86;--n-ln:rgba(255,255,255,.13);background:var(--n-bg);color:var(--n-mu)}
 .notte-pagina main{background:var(--n-bg);color:var(--n-mu)}
 .notte-pagina main h1,.notte-pagina main h2,.notte-pagina main h3,.notte-pagina main h4{color:var(--n-cr)!important;font-weight:400}
 .notte-pagina main p,.notte-pagina main li,.notte-pagina main td,.notte-pagina main dd,.notte-pagina main dt,.notte-pagina main span,.notte-pagina main div{border-color:var(--n-ln)}
@@ -14,8 +14,8 @@ body.notte-pagina{--n-bg:#17120f;--n-bg2:#211a15;--n-card:#2a211b;--n-cr:#f3e9dc
 .notte-pagina main [style*="background:#eef2f7"]{background:#1f2630!important}.notte-pagina main [style*="color:#37475a"]{color:#b9c7d8!important}
 .notte-pagina main [style*="background:#e3f2e7"]{background:#1b2a20!important}.notte-pagina main [style*="color:#1b4d2e"]{color:#a9d3b4!important}
 .notte-pagina main [style*="border:1px solid #ece3d4"],.notte-pagina main [style*="border:1px solid rgba(139,115,85"],.notte-pagina main [style*="border-top:1px solid rgba(139,115,85"]{border-color:var(--n-ln)!important}
-.notte-pagina main [style*="background:#c9a227"]{background:var(--n-go)!important;color:#17120f!important}
-.notte-pagina main [style*="background:#c9a227"] *{color:#17120f!important}
+.notte-pagina main [style*="background:#c9a227"]{background:var(--n-go)!important;color:#25354c!important}
+.notte-pagina main [style*="background:#c9a227"] *{color:#25354c!important}
 /* testata */
 .notte-pagina .hero{background:var(--n-bg)}
 .notte-pagina .hero-content{background:transparent}
@@ -55,7 +55,7 @@ body.notte-pagina{--n-bg:#17120f;--n-bg2:#211a15;--n-card:#2a211b;--n-cr:#f3e9dc
 .notte-pagina .corr-card span{color:var(--n-mu)!important}
 .notte-pagina .corr-card span:last-child{color:var(--n-cu)!important}
 .notte-pagina table{color:var(--n-mu)}.notte-pagina th{color:var(--n-cr)}
-.notte-pagina .cta-section{background:radial-gradient(ellipse at 50% 0%,#5a3518 0%,var(--n-bg) 70%)}
+.notte-pagina .cta-section{background:radial-gradient(ellipse at 50% 0%,#3b5577 0%,var(--n-bg) 70%)}
 .notte-pagina .cta-section h2{color:var(--n-cr)!important}
 .notte-pagina .pagina-meta{background:var(--n-bg);color:var(--n-mu)}
 .notte-pagina .breadcrumb,.notte-pagina .breadcrumb a{color:var(--n-mu)}
@@ -85,7 +85,7 @@ body.notte-pagina{--n-bg:#17120f;--n-bg2:#211a15;--n-card:#2a211b;--n-cr:#f3e9dc
 .notte-pagina .diario-card,.notte-pagina .checklist{background:var(--n-card)!important;border-color:var(--n-ln)!important}
 .notte-pagina .diario-card *{border-color:var(--n-ln)}
 .notte-pagina .map-link span{color:var(--n-mu)}
-.notte-pagina main [style*="background:#c9a227"] [style*="background:#fff"]{background:#17120f!important;color:var(--n-go)!important}
+.notte-pagina main [style*="background:#c9a227"] [style*="background:#fff"]{background:#25354c!important;color:var(--n-go)!important}
 /* ===== Impaginazione delle pagine vetrina (Cuccioli per prima, 17/10/2026) ===== */
 .notte-pagina{font-size:1.02rem}
 .notte-pagina .section-inner{max-width:1080px}
@@ -110,7 +110,7 @@ body.notte-pagina{--n-bg:#17120f;--n-bg2:#211a15;--n-card:#2a211b;--n-cr:#f3e9dc
 .notte-pagina .n-vedi a{font-weight:700}
 /* foto */
 .notte-pagina .gallery-grid{grid-template-columns:2fr 1fr 1fr;gap:14px}
-.notte-pagina .gallery-item{aspect-ratio:auto;height:440px;border-radius:6px;background:#0f0b09}
+.notte-pagina .gallery-item{aspect-ratio:auto;height:440px;border-radius:6px;background:#1f2d42}
 /* recensioni affiancate, grandi */
 .notte-pagina .review-card{background:transparent!important;border:0!important;border-left:2px solid var(--n-cu)!important;border-radius:0;text-align:left;padding:.4rem 0 .4rem 1.8rem;margin:0 0 2.4rem}
 .notte-pagina .review-card .review-text{font-size:clamp(1.15rem,1.8vw,1.4rem);line-height:1.55}
@@ -186,7 +186,7 @@ body.notte-pagina{--n-bg:#17120f;--n-bg2:#211a15;--n-card:#2a211b;--n-cr:#f3e9dc
 .notte-pagina .n-press h2{font-size:1.25rem;line-height:1.4;margin:.4rem 0 .4rem}
 .notte-pagina .n-press p{margin:0;font-size:.9rem}
 .notte-pagina .n-cani{display:grid;grid-template-columns:repeat(4,1fr);gap:0;margin-top:2.6rem}
-.notte-pagina .n-cane{position:relative;overflow:hidden;background:#0f0b09}
+.notte-pagina .n-cane{position:relative;overflow:hidden;background:#1f2d42}
 .notte-pagina .n-cane img{width:100%;aspect-ratio:3/4;object-fit:cover;object-position:50% 25%;display:block;filter:grayscale(.3);transition:filter .6s,transform .8s}
 .notte-pagina .n-cane:hover img{filter:none;transform:scale(1.04)}
 .notte-pagina .n-cane div{padding:1.3rem 1.2rem 1.6rem}
@@ -220,9 +220,9 @@ body.notte-pagina{--n-bg:#17120f;--n-bg2:#211a15;--n-card:#2a211b;--n-cr:#f3e9dc
 .notte-pagina .review-card .review-text{font-family:inherit!important}.notte-pagina .n-tot p:first-child{font-family:inherit;font-size:1.02rem!important}
 /* «Nati e cresciuti»: foto alte con il momento scritto sopra (scelta C di Paolo, 17/10/2026) */
 .notte-pagina .n-foto3{display:grid;grid-template-columns:2fr 1fr 1fr;gap:14px;margin:2rem 0}
-.notte-pagina .n-foto3 figure{margin:0;position:relative;height:500px;overflow:hidden;border-radius:6px;background:#0f0b09}
+.notte-pagina .n-foto3 figure{margin:0;position:relative;height:500px;overflow:hidden;border-radius:6px;background:#1f2d42}
 .notte-pagina .n-foto3 img{width:100%;height:100%;object-fit:cover;display:block}
-.notte-pagina .n-foto3 figcaption{position:absolute;left:0;right:0;bottom:0;padding:4rem 1.2rem 1.2rem;background:linear-gradient(transparent,rgba(12,9,7,.94))}
+.notte-pagina .n-foto3 figcaption{position:absolute;left:0;right:0;bottom:0;padding:4rem 1.2rem 1.2rem;background:linear-gradient(transparent,rgba(22,32,46,.94))}
 .notte-pagina .n-foto3 .n-quando{display:block;letter-spacing:.2em;text-transform:uppercase;color:var(--n-go);font-weight:700;margin-bottom:.3rem}
 .notte-pagina .n-foto3 p{color:var(--n-cr)!important;margin:0}
 @media (max-width:860px){.notte-pagina .n-foto3{grid-template-columns:1fr}.notte-pagina .n-foto3 figure{height:380px}}
@@ -234,11 +234,11 @@ body.notte-pagina{font-size:18px}
 .notte-pagina .n-press h2{font-size:1.25rem!important}
 /* Piè di pagina delle pagine scure (scelta B di Paolo, 17/10/2026): scuro, su tre colonne sul computer */
 body.notte-pagina .pagina-meta{background:var(--n-bg)!important;padding:1.6rem 1rem!important;margin:0!important}
-body.notte-pagina .footer{background:#0f0b09;border-top:1px solid rgba(200,137,74,.45);color:var(--n-mu);padding:3.5rem 1.5rem 2.5rem}
+body.notte-pagina .footer{background:#1f2d42;border-top:1px solid rgba(240,204,134,.45);color:var(--n-mu);padding:3.5rem 1.5rem 2.5rem}
 body.notte-pagina .footer p{color:var(--n-mu)}
 body.notte-pagina .footer strong{color:var(--n-cr);font-family:Georgia,serif;font-weight:400;font-size:1.15rem}
 body.notte-pagina .footer a{color:var(--n-go)}
-body.notte-pagina .social-links a{background:transparent;border:1px solid rgba(200,137,74,.5)}
+body.notte-pagina .social-links a{background:transparent;border:1px solid rgba(240,204,134,.5)}
 body.notte-pagina .social-links svg{fill:var(--n-go)}
 body.notte-pagina .footer-links a{color:var(--n-cr)}
 @media(min-width:861px){
@@ -249,7 +249,7 @@ body.notte-pagina .footer>p:nth-of-type(3){grid-area:sbt}
 body.notte-pagina .social-links{grid-area:social;justify-content:flex-start;align-self:start;margin:0}
 body.notte-pagina .footer-links{grid-area:links;flex-direction:column;align-items:flex-start;gap:0;margin:0}
 body.notte-pagina .footer-links a{padding:.3rem 0!important}
-body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(243,233,220,.12);padding-top:1.4rem;margin-top:2rem!important}
+body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(255,255,255,.12);padding-top:1.4rem;margin-top:2rem!important}
 }
 .notte-pagina .hero-trust{color:var(--n-mu);font-size:.75rem!important;letter-spacing:.14em;margin:1.2rem 0 0}
 /* Femmine (scelta A di Paolo, 17/10/2026): schede a righe, senza riquadro, foto 4:5 a sinistra. Solo grafica. */
@@ -420,3 +420,20 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .notte-pagina .stato-fattrice{background:transparent!important;border:1px solid var(--n-ln)!important;color:var(--n-mu)!important}
 .notte-pagina .cta-section{background:var(--n-bg2)!important;border-top:1px solid var(--n-ln)}
 .notte-pagina main table thead{background:transparent!important}
+/* Tema Blu notte, bianco e oro (Paolo, 18/10/2026): niente marrone in link e bottoni */
+.notte-pagina .btn,.notte-pagina main .btn,.notte-pagina main .btn-primary,.notte-pagina .hero .btn,.notte-pagina .cta-section .btn,.notte-pagina .dark-section .btn,.notte-pagina .btn-gold,.notte-pagina .btn-light{background:#ffffff!important;color:#1f3a5f!important;border:0!important}
+.notte-pagina main .btn-ghost,.notte-pagina main .btn-outline{background:transparent!important;color:#ffffff!important;border:1.5px solid rgba(255,255,255,.7)!important}
+.notte-pagina .nav-cta{background:#1f3a5f!important;color:#ffffff!important}
+.notte-pagina .nav-links a.active,.notte-pagina .nav-links a[aria-current],.notte-pagina .nav-logo-text span{color:#1f3a5f!important}
+.notte-pagina .nav-lang a{border-color:#1f3a5f!important;color:#1f3a5f!important}
+/* link: oro, grassetto, sottolineatura sottile (scelta B) */
+.notte-pagina main a:not(.btn):not(.btn-primary):not(.btn-ghost):not(.nav-cta),.notte-pagina footer a,.notte-pagina .footer a,.notte-pagina .hero a:not(.btn){color:#f0cc86!important;font-weight:600;text-decoration:underline!important;text-decoration-thickness:1px!important;text-underline-offset:4px!important;text-decoration-color:rgba(240,204,134,.45)!important}
+.notte-pagina main a:not(.btn):not(.btn-primary):not(.btn-ghost):not(.nav-cta):hover,.notte-pagina footer a:hover,.notte-pagina .footer a:hover,.notte-pagina .hero a:not(.btn):hover{text-decoration-color:#f0cc86!important}
+/* link che sono schede o titoli (non dentro il testo): niente sottolineatura */
+.notte-pagina main a.blog-card-thumb,.notte-pagina main .blog-card h3 a,.notte-pagina main a.diario-card-image,.notte-pagina main .diario-card-title a,.notte-pagina main a.corr-card,.notte-pagina main a.n-vai,.notte-pagina .footer .social a,.notte-pagina main a:has(>img){text-decoration:none!important}
+/* Testata e menu: niente marrone al passaggio del mouse (18/10/2026) */
+.notte-pagina .nav-links>li>a:hover,.notte-pagina .nav-links>li>a.active,.notte-pagina .dropdown-trigger:hover,.notte-pagina .dropdown-trigger:focus{color:#1f3a5f!important}
+.notte-pagina .dropdown-menu a:hover{background:#eef2f7!important;color:#1f3a5f!important}
+.notte-pagina .nav-lang a:hover{background:#1f3a5f!important;color:#fff!important;border-color:#1f3a5f!important}
+.notte-pagina .nav-cta:hover{background:#25354c!important;color:#fff!important}
+.notte-pagina .mobile-menu a:hover,.notte-pagina .mobile-menu a.active{color:#1f3a5f!important}

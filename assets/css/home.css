@@ -1,7 +1,7 @@
 /* Home "Notte" (scelta di Paolo, 17/10/2026): fondo caffè scuro, dettagli rame e oro.
    Caricato solo sulla home da partials/css.html. Tutte le regole stanno sotto .notte. */
-.notte{--n-bg:#17120f;--n-bg2:#211a15;--n-cr:#f3e9dc;--n-mu:#c4b4a0;--n-cu:#c8894a;--n-go:#d9b26a;--n-ln:rgba(243,233,220,.13);background:var(--n-bg);color:var(--n-mu);font-size:1.02rem;line-height:1.75}
-body:has(.notte){background:#17120f}
+.notte{--n-bg:#25354c;--n-bg2:#2c3f57;--n-cr:#f3e9dc;--n-mu:#d6dde6;--n-cu:#f0cc86;--n-go:#f0cc86;--n-ln:rgba(255,255,255,.13);background:var(--n-bg);color:var(--n-mu);font-size:1.02rem;line-height:1.75}
+body:has(.notte){background:#25354c}
 .notte h1,.notte h2,.notte h3{font-family:Georgia,'Times New Roman',serif;font-weight:400;color:var(--n-cr)}
 .notte p{margin:0 0 1.1rem}
 .notte strong{color:var(--n-cr);font-weight:600}
@@ -18,8 +18,8 @@ body:has(.notte){background:#17120f}
 .n-vai:hover{gap:.9rem}
 .n-vedi{margin-top:2.4rem!important;padding-top:1.4rem;border-top:1px solid var(--n-ln);font-size:.95rem}
 .n-vedi a{font-weight:700}
-.n-btn{display:inline-flex;align-items:center;gap:.7rem;background:linear-gradient(135deg,#9c5f2c,#7f4a1f);color:#fff!important;text-decoration:none!important;padding:1.05rem 1.8rem;font-weight:700;letter-spacing:.03em;border-radius:999px;box-shadow:0 12px 30px rgba(200,137,74,.22);min-height:44px;transition:transform .25s,box-shadow .25s}
-.n-btn:hover{transform:translateY(-2px);box-shadow:0 16px 40px rgba(200,137,74,.38)}
+.n-btn{display:inline-flex;align-items:center;gap:.7rem;background:linear-gradient(135deg,#9c5f2c,#7f4a1f);color:#fff!important;text-decoration:none!important;padding:1.05rem 1.8rem;font-weight:700;letter-spacing:.03em;border-radius:999px;box-shadow:0 12px 30px rgba(240,204,134,.22);min-height:44px;transition:transform .25s,box-shadow .25s}
+.n-btn:hover{transform:translateY(-2px);box-shadow:0 16px 40px rgba(240,204,134,.38)}
 /* hero */
 .notte .hero{display:grid;grid-template-columns:1fr 1fr;min-height:min(92vh,860px);padding:62px 0 0;background:var(--n-bg)}
 .notte .hero-visual{position:relative;margin:0;border-radius:0;min-height:0;height:auto;overflow:hidden;width:auto}
@@ -34,7 +34,7 @@ body:has(.notte){background:#17120f}
 .notte .hero-subtitle{color:var(--n-go);border-bottom-color:var(--n-ln);font-size:1.05rem}
 .notte .hero-description{color:var(--n-mu);font-size:1rem;max-width:540px}
 .notte .hero-actions{display:flex}
-.notte .hero-actions .btn{background:linear-gradient(135deg,#9c5f2c,#7f4a1f);color:#fff;border-radius:999px;font-size:.78rem;padding:1.05rem 1.7rem;box-shadow:0 12px 30px rgba(200,137,74,.25)}
+.notte .hero-actions .btn{background:linear-gradient(135deg,#9c5f2c,#7f4a1f);color:#fff;border-radius:999px;font-size:.78rem;padding:1.05rem 1.7rem;box-shadow:0 12px 30px rgba(240,204,134,.25)}
 .notte .hero-guida{margin:1.1rem 0 0;font-size:.93rem}
 .notte .hero-guida a{color:var(--n-cr);text-decoration:underline;text-underline-offset:3px}
 .n-num{display:flex;gap:2.6rem;margin-top:2.6rem;padding-top:1.8rem;border-top:1px solid var(--n-ln);flex-wrap:wrap}
@@ -89,7 +89,7 @@ body:has(.notte){background:#17120f}
 .n-test em{font-style:normal;font-size:.8rem;color:var(--n-cr)}
 /* cani */
 .n-cani{display:grid;grid-template-columns:repeat(4,1fr);gap:0;margin-top:2.6rem}
-.n-cane{position:relative;overflow:hidden;background:#0f0b09}
+.n-cane{position:relative;overflow:hidden;background:#1f2d42}
 .n-cane img{width:100%;aspect-ratio:3/4;object-fit:cover;object-position:50% 25%;display:block;filter:grayscale(.3);transition:filter .6s,transform .8s}
 .n-cane:hover img{filter:none;transform:scale(1.04)}
 .n-cane div{padding:1.3rem 1.2rem 1.6rem}
@@ -113,7 +113,7 @@ body:has(.notte){background:#17120f}
 .n-faq h3{font-size:1.45rem;line-height:1.3;margin:0}
 .notte .n-faq .faq-answer{display:block;padding:0;font-size:1rem;line-height:1.75;color:var(--n-mu)}
 /* cta */
-.notte .cta-section{background:radial-gradient(ellipse at 50% 0%,#5a3518 0%,var(--n-bg) 70%);padding:8rem 1.5rem}
+.notte .cta-section{background:radial-gradient(ellipse at 50% 0%,#3b5577 0%,var(--n-bg) 70%);padding:8rem 1.5rem}
 .notte .cta-section h2{font-size:clamp(2rem,4.2vw,3.4rem);line-height:1.1;max-width:820px;margin:0 auto 1.2rem}
 .notte .cta-section p{color:var(--n-mu);max-width:620px;margin:0 auto 2.2rem}
 .notte .cta-section .btn{background:linear-gradient(135deg,#9c5f2c,#7f4a1f);color:#fff;border-radius:999px}
@@ -146,4 +146,4 @@ body:has(.notte){background:#17120f}
 .notte .n-orig{margin:.7rem 0 0}
 .notte .guide-correlate .corr-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important;column-gap:3rem!important}
 @media (max-width:860px){.notte .guide-correlate .corr-grid{grid-template-columns:1fr!important}}
-body:has(.notte) .pagina-meta,body:has(.notte) .pagina-meta *{color:#c4b4a0!important;background:#17120f}
+body:has(.notte) .pagina-meta,body:has(.notte) .pagina-meta *{color:#d6dde6!important;background:#25354c}
