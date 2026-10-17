@@ -23,9 +23,12 @@
   <a class="corr-card" href="{{ .url }}" style="display:block;background:#fff;border:1px solid #e2e8f0;border-radius:12px;padding:1rem 1.1rem;text-decoration:none;color:inherit;box-shadow:0 4px 14px rgba(0,0,0,.05)">
     <span style="display:block;color:#1f2d42;font-weight:700;font-size:1.02rem;line-height:1.3;margin-bottom:.3rem">{{ .titolo }}</span>
     {{- with .testo }}<span style="display:block;color:#2b3747;font-size:.9rem;line-height:1.5">{{ . }}</span>{{ end }}
+    {{- /* In Home niente «Leggi →»: il titolo basta (Paolo, 18/10/2026) */ -}}
+    {{- if not $.IsHome }}
     <span style="display:inline-block;margin-top:.5rem;color:#1f4f82;font-weight:700;font-size:.9rem">
       {{- if eq $lang "en" }}Read more &rarr;{{ else if eq $lang "de" }}Mehr lesen &rarr;{{ else }}Leggi &rarr;{{ end -}}
     </span>
+    {{- end }}
   </a>
   {{- end }}
 </div>
