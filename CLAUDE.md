@@ -321,3 +321,5 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
   - Diario (elenco): `.diario-card` a righe (foto a sinistra) e `.diario-intro` a righe solo con il CSS (h2 a sinistra).
   - Contatti: Paolo la vuole impaginata com'era; cambiano solo i colori (riquadri delle città `.zone-row` scuri).
   - Al telefono le righe `.n-storia` con la foto vanno una sotto l'altra.
+  - Foto in testata sempre intera, mai tagliata (scelta A): `object-fit:contain` su fondo scuro; al telefono alta il 62% dello
+    schermo. La foto di Bilquis in testata è `bilquis-campionessa-hero.avif` (800×976), non più `femmina-bilquis-hero.avif` (301×396, sgranata).

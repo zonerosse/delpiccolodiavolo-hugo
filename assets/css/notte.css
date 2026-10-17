@@ -342,3 +342,6 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .notte-pagina .zone-city{background:transparent!important;border:1px solid var(--n-ln)!important;color:var(--n-cr)!important}
 @media(max-width:767px){.notte-pagina .n-storia .n-passo{grid-template-columns:1fr;gap:.8rem}.notte-pagina .n-foto-cap{max-width:320px}}
 .notte-pagina main .risultato a{text-decoration:underline;text-underline-offset:2px}
+/* Foto in testata sempre intera, mai tagliata (Paolo, scelta A, 17/10/2026) */
+.notte-pagina .hero-image img{object-fit:contain!important;object-position:center!important}
+@media(max-width:767px){.notte-pagina .hero-visual{height:auto!important}.notte-pagina .hero-image{position:static!important}.notte-pagina .hero-image img{height:62vh!important;width:100%!important}}
