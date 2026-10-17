@@ -1,11 +1,11 @@
 ---
-title: "How to recognise a serious Staffordshire Bull Terrier breeder"
-titleSeo: "How to recognise a serious Staffy breeder"
+title: "How to recognise a Staffordshire Bull Terrier breeder who does things properly"
+titleSeo: "How to recognise a Staffy breeder who does things properly"
 articolo: true
 translationKey: "come-scegliere"
 image: "/images/blog/cucciolata-erba.avif"
 og_image: "/images/og/schede/en/how-to-choose-a-staffordshire-bull-terrier-breeder.jpg"
-og_image_alt: "How to recognise a serious Staffy breeder — Allevamento Del Piccolo Diavolo"
+og_image_alt: "How to recognise a Staffy breeder who does things properly — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier.webp"
 description: "Eight criteria for recognising a serious Staffordshire Bull Terrier breeder, each with the way to verify it. With our own documents as the worked example."
 slug: "how-to-choose-a-staffordshire-bull-terrier-breeder"
@@ -24,7 +24,7 @@ lastmod: 2026-10-17
 </div>
 <div class="hero-content">
 <span class="hero-eyebrow">Guide</span>
-<h1 class="hero-title">How to recognise a serious <em>Staffordshire Bull Terrier</em> breeder</h1>
+<h1 class="hero-title">How to recognise a <em>Staffordshire Bull Terrier</em> breeder who does things properly</h1>
 <p class="hero-subtitle">Eight criteria, and how to check each one instead of taking it on trust</p>
 <div class="hero-meta">
 <span>&#9201;&#65039; 8 min read</span>
@@ -39,7 +39,7 @@ lastmod: 2026-10-17
 <a href="/en/" title="Home">Home</a> &rsaquo;
 <a href="/en/blog/" title="Blog">Blog</a> &rsaquo;
 <a aria-label="Puppies &mdash; blog category" href="/en/blog/#puppies" title="Puppy articles">Puppies</a> &rsaquo;
-<span>How to recognise a serious breeder</span>
+<span>How to recognise a breeder who does things properly</span>
 </nav>
 
 

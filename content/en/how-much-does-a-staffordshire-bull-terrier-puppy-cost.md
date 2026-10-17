@@ -307,7 +307,7 @@ Choose with your head, not your wallet. If you want to see how we work, visit ou
 
 ---
 
-*See also: <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to choose a Staffordshire Bull Terrier breeder">how to choose a serious breeder</a>.*
+*See also: <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to choose a Staffordshire Bull Terrier breeder">how to choose a breeder who does things properly</a>.*
 
 *Want to know more about our puppies and upcoming litters? [Write to us on WhatsApp](/wa/393924635584?text=Hi%20Paolo%2C%20I%27d%20like%20information%20about%20your%20puppies): we will tell you how we work and answer your questions.*
 

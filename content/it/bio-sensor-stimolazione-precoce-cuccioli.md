@@ -117,7 +117,7 @@ custom_content: |
     <a class="rimando" href="/come-scegliere-allevamento-staffordshire-bull-terrier/">
   <img src="/images/blog/cucciolata-erba.avif" alt="Cuccioli di Staffordshire Bull Terrier con la madre" width="88" height="64" loading="lazy" decoding="async">
   <span>
-  <span class="ti">Come riconoscere un allevamento serio</span>
+  <span class="ti">Come riconoscere un allevamento che fa le cose per bene</span>
   <span class="de">Otto criteri e il modo di verificarli: sui documenti, non sulle parole.</span>
   </span>
   </a>
@@ -126,7 +126,7 @@ custom_content: |
   <h3>Articoli correlati</h3>
   <ul>
   <li><a href="/cuccioli-socializzazione-in-casa/" title="Socializzazione del cucciolo in casa">Socializzazione in casa: le prime settimane</a></li>
-  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento serio">Come riconoscere un allevamento serio</a></li>
+  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento che fa le cose per bene">Come riconoscere un allevamento che fa le cose per bene</a></li>
   <li><a href="/staffordshire-bull-terrier-carattere/" title="Temperamento dello Staffy">Il temperamento dello Staffy: come si seleziona</a></li>
   <li><a href="/cuccioli-prime-vaccinazioni/" title="Prime vaccinazioni cuccioli">Prime vaccinazioni: calendario e richiami</a></li>
   </ul>

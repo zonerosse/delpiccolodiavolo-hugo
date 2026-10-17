@@ -149,7 +149,7 @@ custom_content: |
   <div class="related-articles">
   <h3>Verwandte Artikel</h3>
   <ul>
-  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie man eine seriöse Zucht erkennt">Wie man eine seriöse Zucht erkennt</a></li>
+  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie man eine Zucht erkennt, die gut arbeitet">Wie man eine Zucht erkennt, die gut arbeitet</a></li>
   <li><a href="/de/staffy-blutlinien-guide/" title="Blutlinien des Staffordshire Bull Terrier">Die Blutlinien hinter der Rasse</a></li>
   <li><a href="/de/staffy-gentests-l2hga-hc/" title="Gentests L2-HGA und HC">Gentests L2-HGA und HC: wie sie funktionieren</a></li>
   <li><a href="/de/staffy-rassestandard/" title="Rassestandard">Der Rassestandard und die Typizität</a></li>

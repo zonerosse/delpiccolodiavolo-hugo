@@ -130,7 +130,7 @@ custom_content: |
 
   <div class="callout">
   <p class="callout-title">Unsere Sichtweise</p>
-  <p>In <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">unserer Zucht Del Piccolo Diavolo</a> werden die Welpen <strong>in der Familie</strong> geboren und aufgezogen, nicht im Zwinger: Das macht einen enormen Unterschied für die Ausgeglichenheit des erwachsenen Hundes. Ein Welpe, der von seinen ersten Tagen an gut sozialisiert wird (an Menschen, Geräusche, andere Tiere), wird zu einem ruhigen, gut führbaren Staffy. Wenn Sie entscheiden, dass es die richtige Rasse für Sie ist, ist der wichtigste nächste Schritt die Wahl <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Zucht wählen">einer seriösen Zucht</a>: Dort wird der Charakter Ihres zukünftigen Begleiters aufgebaut (oder ruiniert).</p>
+  <p>In <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">unserer Zucht Del Piccolo Diavolo</a> werden die Welpen <strong>in der Familie</strong> geboren und aufgezogen, nicht im Zwinger: Das macht einen enormen Unterschied für die Ausgeglichenheit des erwachsenen Hundes. Ein Welpe, der von seinen ersten Tagen an gut sozialisiert wird (an Menschen, Geräusche, andere Tiere), wird zu einem ruhigen, gut führbaren Staffy. Wenn Sie entscheiden, dass es die richtige Rasse für Sie ist, ist der wichtigste nächste Schritt die Wahl <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Zucht wählen">einer Zucht, die gut arbeitet</a>: Dort wird der Charakter Ihres zukünftigen Begleiters aufgebaut (oder ruiniert).</p>
   </div>
   <!--/BLOCCO:6-->
 

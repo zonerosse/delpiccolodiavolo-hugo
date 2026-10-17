@@ -78,7 +78,7 @@ custom_content: |
   <p>Why these two dogs? A breeder with a programme answers in terms of what each parent brings, what they hoped to improve and what compromise they accepted. Without one, the answer is that both parents are beautiful.</p>
   <p>What would you change about this litter? Anyone honest has an answer, and it is usually specific.</p>
   <p>Where do the puppies live? Puppies raised in a kitchen among household noise are meaningfully <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it really means">better socialised by the time they leave</a> than puppies raised in a clean outdoor kennel, and the difference persists.</p>
-  <p>What happens if it does not work out? The right answer is that the dog can come back to the breeder, at any age, for any reason, and that it is written in the placement agreement. The full list of questions to ask, and how to check the answers, is in the guide to <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious breeder">how to recognise a serious breeder</a>.</p>
+  <p>What happens if it does not work out? The right answer is that the dog can come back to the breeder, at any age, for any reason, and that it is written in the placement agreement. The full list of questions to ask, and how to check the answers, is in the guide to <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a breeder who does things properly">how to recognise a breeder who does things properly</a>.</p>
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->
@@ -144,7 +144,7 @@ custom_content: |
   <h3>More on this topic</h3>
   <ul>
   <li><a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)">Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)</a></li>
-  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious Staffy breeder">How to recognise a serious Staffy breeder</a></li>
+  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a Staffy breeder who does things properly">How to recognise a Staffy breeder who does things properly</a></li>
   <li><a href="/en/staffy-breed-standard/" title="Staffordshire Bull Terrier breed standard explained">Staffordshire Bull Terrier breed standard explained</a></li>
   <li><a href="/en/staffy-pitbull-amstaff-difference/" title="Staffordshire Bull Terrier, Pitbull and Amstaff compared">Staffordshire Bull Terrier, Pitbull and Amstaff compared</a></li>
   </ul>

@@ -40,7 +40,7 @@ custom_content: |
 
   <div class="intro-block" style="margin-bottom:2rem">
   <p><strong>Wie viele Würfe, und wie man es prüft.</strong> Unsere Hündinnen haben im Schnitt <strong>zwei Würfe</strong>. Man muss uns nicht glauben: unter jedem Namen steht die Mikrochipnummer, und damit lässt sich die Zahl der Würfe im <a href="https://www.enci.it/libro-genealogico/libro-genealogico-on-line" target="_blank" rel="noopener" title="ENCI-Zuchtbuch" aria-label="ENCI-Zuchtbuch (wird in einem neuen Tab geöffnet)">ENCI-Zuchtbuch</a> nachschlagen.</p>
-  <p style="margin-bottom:0">Lebt ein Hund anderswo, steht unter seinem Namen der Name des Besitzers. Denn das gehört zu den Dingen, die man <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie man eine seriöse Zucht erkennt">immer prüfen sollte</a>, statt sie sich erzählen zu lassen.</p>
+  <p style="margin-bottom:0">Lebt ein Hund anderswo, steht unter seinem Namen der Name des Besitzers. Denn das gehört zu den Dingen, die man <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie man eine Zucht erkennt, die gut arbeitet">immer prüfen sollte</a>, statt sie sich erzählen zu lassen.</p>
   </div>
 
   <!-- BILQUIS - CHAMPIONESSE -->

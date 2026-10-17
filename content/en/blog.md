@@ -38,7 +38,7 @@ custom_content: |
 
   <section class="section">
   <div class="section-inner content-single">
-  <p>This blog collects the guides we write about the Staffordshire Bull Terrier, divided by topic: breed and legislation, puppies, standard and bloodlines, health, family and living together. They are not articles written to fill the site: they come from the questions people really ask us, and where needed they also say the uncomfortable things &mdash; that tests have limits, that reactivity towards other dogs exists, that a popular method does not have the evidence it promises. Where we cite a figure, we give the source: ENCI, the UK Kennel Club, veterinary guidelines or published studies. <strong>The most read guides</strong> are the ones on how to recognise a serious breeder, on the L2-HGA and HC genetic tests and on how to read a pedigree.</p>
+  <p>This blog collects the guides we write about the Staffordshire Bull Terrier, divided by topic: breed and legislation, puppies, standard and bloodlines, health, family and living together. They are not articles written to fill the site: they come from the questions people really ask us, and where needed they also say the uncomfortable things &mdash; that tests have limits, that reactivity towards other dogs exists, that a popular method does not have the evidence it promises. Where we cite a figure, we give the source: ENCI, the UK Kennel Club, veterinary guidelines or published studies. <strong>The most read guides</strong> are the ones on how to recognise a breeder who does things properly, on the L2-HGA and HC genetic tests and on how to read a pedigree.</p>
   </div>
   </section>
 
@@ -121,12 +121,12 @@ custom_content: |
   </div>
   </article>
   <article class="blog-card">
-  <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Read: How to recognise a serious breeder"><div class="blog-card-thumb"><img alt="Staffordshire Bull Terrier puppies in the grass at a serious kennel" decoding="async" height="188" loading="lazy" src="/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier.webp" width="300"/></div></a>
+  <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Read: How to recognise a breeder who does things properly"><div class="blog-card-thumb"><img alt="Staffordshire Bull Terrier puppies in the grass at a serious kennel" decoding="async" height="188" loading="lazy" src="/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier.webp" width="300"/></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Jan 2026</span><span>•</span><span class="cat">Puppies</span></div>
-  <h3><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Read: How to recognise a serious breeder">How to recognise a serious breeder</a></h3>
+  <h3><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Read: How to recognise a breeder who does things properly">How to recognise a breeder who does things properly</a></h3>
   <p>Eight criteria and how to check each one, with our own documents as the example.</p>
-  <a aria-label="Read the article: How to recognise a serious breeder" class="read" href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/">Read<span class="sr-only">: How to recognise a serious breeder</span> →</a>
+  <a aria-label="Read the article: How to recognise a breeder who does things properly" class="read" href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/">Read<span class="sr-only">: How to recognise a breeder who does things properly</span> →</a>
   </div>
   </article>
   <article class="blog-card">

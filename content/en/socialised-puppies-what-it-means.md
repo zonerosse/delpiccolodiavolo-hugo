@@ -179,7 +179,7 @@ custom_content: |
   <li><a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor and early stimulation">Bio Sensor: what the research actually says</a></li>
   <li><a href="/en/parents-on-site-what-it-means/" title="Parents on site">&ldquo;Parents on site&rdquo;: what it really means</a></li>
   <li><a href="/en/puppy-home-socialization/" title="Puppy socialisation at home">Socialisation at home: the first weeks</a></li>
-  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious breeder">How to recognise a serious breeder</a></li>
+  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a breeder who does things properly">How to recognise a breeder who does things properly</a></li>
   </ul>
   </div>
   <!--/BLOCCO:10-->

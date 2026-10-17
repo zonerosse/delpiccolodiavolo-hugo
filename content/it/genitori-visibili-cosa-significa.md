@@ -135,7 +135,7 @@ custom_content: |
   <div class="related-articles">
   <h3>Articoli correlati</h3>
   <ul>
-  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento serio">Come riconoscere un allevamento serio</a></li>
+  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento che fa le cose per bene">Come riconoscere un allevamento che fa le cose per bene</a></li>
   <li><a href="/come-si-legge-un-pedigree/" title="Come si legge un pedigree">Come si legge un pedigree: ENCI e SBTPedigree</a></li>
   <li><a href="/programma-allevamento/" title="Programma di allevamento">Come programmiamo una cucciolata</a></li>
   <li><a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">Come nascono e crescono i cuccioli di Staffordshire Bull Terrier</a></li>

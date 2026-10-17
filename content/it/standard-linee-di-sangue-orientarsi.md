@@ -84,7 +84,7 @@ custom_content: |
   <p>Perché questi due cani? Un allevatore con un programma risponde in termini di cosa porta ciascun genitore, cosa sperava di migliorare e quale compromesso ha accettato. Senza programma, la risposta è che i genitori sono bellissimi.</p>
   <p>Cosa cambieresti di questa cucciolata? Chiunque sia onesto ha una risposta, e di solito è precisa.</p>
   <p>Dove vivono i cuccioli? I cuccioli cresciuti in casa, in mezzo ai rumori di tutti i giorni, quando partono sono <a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Cuccioli socializzati: cosa vuol dire davvero">molto più socializzati</a> di quelli cresciuti in un box pulito all'aperto, e la differenza resta.</p>
-  <p>Cosa succede se non funziona? La risposta giusta è che il cane può tornare all'allevatore, a qualsiasi età, per qualsiasi motivo, e che è scritto nel contratto di affido. L'elenco completo delle domande da fare, e come verificare le risposte, è nella guida su <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento serio">come riconoscere un allevamento serio</a>.</p>
+  <p>Cosa succede se non funziona? La risposta giusta è che il cane può tornare all'allevatore, a qualsiasi età, per qualsiasi motivo, e che è scritto nel contratto di affido. L'elenco completo delle domande da fare, e come verificare le risposte, è nella guida su <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento che fa le cose per bene">come riconoscere un allevamento che fa le cose per bene</a>.</p>
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->

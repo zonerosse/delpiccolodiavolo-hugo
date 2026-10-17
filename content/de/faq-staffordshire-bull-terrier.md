@@ -130,7 +130,7 @@ custom_content: |
 
   <div class="faq-item active">
   <div class="faq-question">
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Woran erkennt man eine seriöse Zucht?</h3>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Woran erkennt man eine Zucht, die gut arbeitet?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">An dem, was sich prüfen lässt, ohne jemandem vertrauen zu müssen. <strong>Gentest-Befunde</strong> zählen nur, wenn sie die Mikrochipnummer des Hundes tragen: ohne sie lässt sich das Dokument keinem bestimmten Tier zuordnen. <strong>Ahnentafeln</strong> lassen sich auf SBTPedigree prüfen, dem internationalen Archiv der Rasse. Die <strong>Zahl der Würfe einer Hündin</strong> kann man im ENCI-Zuchtbuch nachschlagen, ebenfalls über den Mikrochip. <strong>Ausstellungsergebnisse</strong> stehen in den öffentlichen Katalogen der Veranstaltungen, mit dem Namen des Richters. Eine Zucht, die nach Vereinbarung empfängt und Ihnen die Mutter und den Ort zeigt, an dem die Welpen aufwachsen, ist ein weiteres gutes Zeichen, ebenso die Einhaltung der Mindestfrist von 60 Tagen vor der Abgabe, die in Italien gesetzlich vorgeschrieben ist.

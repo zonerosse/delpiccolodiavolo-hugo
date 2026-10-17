@@ -98,7 +98,7 @@ custom_content: |
 
   <div class="n-percorso"><div class="n-passo"><h3>Wir haben nicht das ganze Jahr über Welpen.</h3><div><p>Ein Wurf, gelegentlich zwei, manchmal keiner. Wenn Sie uns zu einem Zeitpunkt schreiben, an dem es keine gibt, lautet die Antwort, dass es keine gibt: wir bieten Ihnen nicht den Welpen eines Bekannten an und drängen Sie nicht zu einem künftigen Wurf.</p></div></div><div class="n-passo"><h3>Wir versenden keine Hunde.</h3><div><p>Keiner unserer Welpen reist per Kurier: kein Frachtraum, keine Übergabe auf halbem Weg auf einem Parkplatz. Wer einen Welpen nimmt, kommt nach Ostellato. So sieht er die Mutter, das Haus und den Ort, an dem er aufgewachsen ist.</p></div></div><div class="n-passo"><h3>Wir behandeln die Ahnentafel nicht als Zubehör.</h3><div><p>Es gibt keinen Welpen „mit“ oder „ohne“: die ENCI-Ahnentafel begleitet jeden Hund und wird nicht gesondert berechnet.</p></div></div><div class="n-passo"><h3>Wir nehmen Fragen zur Zucht nicht übel.</h3><div><p>Im Gegenteil, sie sagen uns, wen wir vor uns haben. Wer nach den Tests fragt, nach den Eltern, danach, was passiert, wenn er den Hund in zwei Jahren nicht mehr halten kann, ist die Person, der wir gerne einen Welpen anvertrauen.</p></div></div></div>
   <p class="n-vedi">Wer hinter all dem steht, und wie man von Rottweilern zu Staffys kommt: das erzählen wir unter <a href="/de/ueber-uns/" title="Über uns">über uns</a>.</p>
-  <p class="n-vedi"><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/">Wie man eine seriöse Zucht erkennt</a>. Acht Kriterien und wie man sie prüft — bei uns wie bei allen anderen.</p>
+  <p class="n-vedi"><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/">Wie man eine Zucht erkennt, die gut arbeitet</a>. Acht Kriterien und wie man sie prüft — bei uns wie bei allen anderen.</p>
   </div>
   </section>
   <!--/BLOCCO:4-->
@@ -164,7 +164,7 @@ custom_content: |
   <div>
   <p>Das gilt auch umgekehrt. Wenn ein Welpe durch Abstammung frei von einer Krankheit ist, aber nicht von einer anderen, schreiben wir das. Wenn wir von einem fremden Deckrüden den Befund für zwei Erkrankungen haben und nicht für vier, schreiben wir das.</p>
   <p>Es ist der Teil, den niemand gerne erzählt, und es ist auch der Grund, warum der Rest Bestand hat: eine Zucht, die nur die schönen Dinge angibt, informiert nicht, sie wirbt.</p>
-  <p>Wenn Sie uns oder eine andere Zucht beurteilen, finden Sie im Ratgeber <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie man eine seriöse Zucht erkennt">wie man eine seriöse Zucht erkennt</a> die acht Kriterien und wie man sie prüft, bei uns wie bei allen anderen.</p>
+  <p>Wenn Sie uns oder eine andere Zucht beurteilen, finden Sie im Ratgeber <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie man eine Zucht erkennt, die gut arbeitet">wie man eine Zucht erkennt, die gut arbeitet</a> die acht Kriterien und wie man sie prüft, bei uns wie bei allen anderen.</p>
   <p>Wie ein Wurf entsteht, erzählen wir im <a href="/de/wuerfe-staffordshire-bull-terrier/" title="Zuchtprogramm">Zuchtprogramm</a>: die Wahl der beiden Elterntiere, die Wochen im Haus, die Zuordnung zur Familie. Dort steht auch die Geschichte der Würfe.</p>
   </div>
   </div>

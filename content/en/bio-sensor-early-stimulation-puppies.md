@@ -117,7 +117,7 @@ custom_content: |
     <a class="rimando" href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/">
   <img src="/images/blog/cucciolata-erba.avif" alt="Staffordshire Bull Terrier puppies with their mother" width="88" height="64" loading="lazy" decoding="async">
   <span>
-  <span class="ti">How to recognise a serious breeder</span>
+  <span class="ti">How to recognise a breeder who does things properly</span>
   <span class="de">Eight criteria and how to check each one: on documents, not on words.</span>
   </span>
   </a>
@@ -126,7 +126,7 @@ custom_content: |
   <h3>Related articles</h3>
   <ul>
   <li><a href="/en/puppy-home-socialization/" title="Socialising a puppy at home">Socialising a puppy at home: the first weeks</a></li>
-  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious breeder">How to recognise a serious breeder</a></li>
+  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a breeder who does things properly">How to recognise a breeder who does things properly</a></li>
   <li><a href="/en/staffordshire-bull-terrier-temperament/" title="Staffordshire Bull Terrier temperament">The Staffy temperament: how it is selected</a></li>
   <li><a href="/en/puppy-first-vaccinations/" title="Puppy first vaccinations">First vaccinations: schedule and boosters</a></li>
   </ul>

@@ -44,7 +44,7 @@ Le pagine non spariscono quando i cuccioli sono a casa loro. Restano con la loro
 
 Le cucciolate precedenti al 2026 — maggio 2025 e febbraio 2025 — sono raccontate nel <a href="/programma-allevamento/" title="Programma di allevamento">programma di allevamento</a>, insieme agli accoppiamenti e alle ragioni per cui li abbiamo scelti.
 
-Se non sai ancora cosa guardare in un allevamento, la <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento serio">guida su come riconoscerne uno serio</a> spiega gli otto criteri e come verificarli — su di noi come su chiunque altro.
+Se non sai ancora cosa guardare in un allevamento, la <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento che fa le cose per bene">guida su come riconoscerne uno che fa le cose per bene</a> spiega gli otto criteri e come verificarli — su di noi come su chiunque altro.
 
 <p class="fonti">Fonti: Il diario registra fatti dell'allevamento Del Piccolo Diavolo, e per questo non cita fonti esterne: la verifica indipendente è il libro genealogico ENCI, dove il numero di cucciolate di ogni fattrice si controlla a partire dal suo microchip.</p>
 

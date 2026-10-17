@@ -53,7 +53,7 @@ custom_content: |
 
   <div class="intro-block" style="margin-bottom:2rem">
   <p><strong>How many litters, and how to check.</strong> Our females have <strong>two litters</strong> each on average. You do not have to take our word for it: under every name there is the microchip number, and with that the number of litters can be looked up in the <a href="https://www.enci.it/libro-genealogico/libro-genealogico-on-line" target="_blank" rel="noopener" title="ENCI stud book" aria-label="ENCI stud book (opens in a new tab)">ENCI stud book</a>.</p>
-  <p style="margin-bottom:0">When a dog lives elsewhere, the owner's name is given under hers. Because this is the kind of thing that <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious breeder">should always be verified</a>, not simply told.</p>
+  <p style="margin-bottom:0">When a dog lives elsewhere, the owner's name is given under hers. Because this is the kind of thing that <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a breeder who does things properly">should always be verified</a>, not simply told.</p>
   </div>
 
   <!-- BILQUIS - ITALIAN CHAMPION -->

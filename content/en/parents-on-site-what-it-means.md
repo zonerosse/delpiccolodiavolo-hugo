@@ -135,7 +135,7 @@ custom_content: |
   <div class="related-articles">
   <h3>Related articles</h3>
   <ul>
-  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious breeder">How to recognise a serious breeder</a></li>
+  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a breeder who does things properly">How to recognise a breeder who does things properly</a></li>
   <li><a href="/en/staffy-genetic-testing-l2hga-hc/" title="L2-HGA and HC genetic testing">L2-HGA and HC genetic tests: how they work</a></li>
   <li><a href="/en/staffy-bloodlines-guide/" title="Staffordshire Bull Terrier bloodlines">The bloodlines behind the breed</a></li>
   <li><a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">How Staffordshire Bull Terrier puppies are born and raised</a></li>

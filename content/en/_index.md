@@ -98,7 +98,7 @@ custom_content: |
 
   <div class="n-percorso"><div class="n-passo"><h3>We do not have puppies all year round.</h3><div><p>One litter, occasionally two, sometimes none. If you write to us at a time when there are none, the answer is that there are none: we do not offer you an acquaintance's puppy and we do not rush you towards a future litter.</p></div></div><div class="n-passo"><h3>We do not ship dogs.</h3><div><p>None of our puppies travels by courier: no aircraft holds, no handovers halfway in a car park. Whoever takes a puppy comes to Ostellato. That way they see the mother, the house and the place where it grew up.</p></div></div><div class="n-passo"><h3>We do not treat the pedigree as an accessory.</h3><div><p>There is no such thing as a puppy “with” or “without”: the ENCI certificate goes with every dog and is not charged separately.</p></div></div><div class="n-passo"><h3>We do not take offence at questions about the kennel.</h3><div><p>On the contrary, they are what tell us who we are dealing with. Whoever asks about the tests, the parents, or what happens if in two years' time they can no longer keep the dog, is the person we would gladly entrust a puppy to.</p></div></div></div>
   <p class="n-vedi">Who is behind all this, and how one gets from Rottweilers to Staffies: the story is in <a href="/en/about-us/" title="About us">about us</a>.</p>
-  <p class="n-vedi"><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/">How to recognise a serious breeder</a>. Eight criteria and how to check each one, on us as much as on anyone else.</p>
+  <p class="n-vedi"><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/">How to recognise a breeder who does things properly</a>. Eight criteria and how to check each one, on us as much as on anyone else.</p>
   </div>
   </section>
   <!--/BLOCCO:4-->
@@ -164,7 +164,7 @@ custom_content: |
   <div>
   <p>It also works the other way round. When a puppy is clear by parentage for one disease but not for another, we say so. When for an outside stud we have the report for two conditions and not for four, we say so.</p>
   <p>It is the part nobody likes to tell, and it is also the reason the rest stands up: a kennel that only declares the good things is not giving information, it is advertising.</p>
-  <p>If you are assessing us, or another kennel, the guide on <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious breeder">how to recognise a serious breeder</a> lists the eight criteria and how to check them, on us as on anyone else.</p>
+  <p>If you are assessing us, or another kennel, the guide on <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a breeder who does things properly">how to recognise a breeder who does things properly</a> lists the eight criteria and how to check them, on us as on anyone else.</p>
   <p>How a litter comes about is told in the <a href="/en/litters-staffordshire-bull-terrier/" title="Breeding programme">breeding programme</a>: the choice of the two parents, the weeks in the house, the matching with the family. The history of the litters is there too.</p>
   </div>
   </div>

@@ -179,7 +179,7 @@ custom_content: |
   <li><a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor e stimolazione precoce">Bio Sensor: cosa dice davvero la ricerca</a></li>
   <li><a href="/genitori-visibili-cosa-significa/" title="Genitori visibili">Genitori visibili: cosa significa davvero</a></li>
   <li><a href="/cuccioli-socializzazione-in-casa/" title="Socializzazione del cucciolo in casa">Socializzazione in casa: le prime settimane</a></li>
-  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento serio">Come riconoscere un allevamento serio</a></li>
+  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento che fa le cose per bene">Come riconoscere un allevamento che fa le cose per bene</a></li>
   </ul>
   </div>
   <!--/BLOCCO:10-->

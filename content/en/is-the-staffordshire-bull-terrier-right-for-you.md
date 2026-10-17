@@ -130,7 +130,7 @@ custom_content: |
 
   <div class="callout">
   <p class="callout-title">Our point of view</p>
-  <p>At <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">our Del Piccolo Diavolo kennel</a> the puppies are born and raised <strong>in the family</strong>, not in kennels: this makes an enormous difference to the balance of the adult dog. A puppy well socialised from its first days (to people, noises, other animals) becomes a calm, manageable Staffy. If you decide it is the right breed for you, the most important next step is to choose <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Choosing a breeder">a serious kennel</a>: that is where the character of your future companion is built (or ruined).</p>
+  <p>At <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">our Del Piccolo Diavolo kennel</a> the puppies are born and raised <strong>in the family</strong>, not in kennels: this makes an enormous difference to the balance of the adult dog. A puppy well socialised from its first days (to people, noises, other animals) becomes a calm, manageable Staffy. If you decide it is the right breed for you, the most important next step is to choose <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Choosing a breeder">a kennel that does things properly</a>: that is where the character of your future companion is built (or ruined).</p>
   </div>
   <!--/BLOCCO:6-->
 

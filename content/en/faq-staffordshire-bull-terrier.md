@@ -111,7 +111,7 @@ custom_content: |
 
   <div class="faq-item active">
   <div class="faq-question">
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How to recognize a serious breeder?</h3>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How to recognise a breeder who does things properly?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">By what can be verified without having to trust anyone. <strong>Genetic test reports</strong> only count if they carry the dog's microchip number: without it the document cannot be linked to any particular animal. <strong>Pedigrees</strong> can be checked on SBTPedigree, the breed's international archive. The <strong>number of litters a bitch has had</strong> can be looked up in the ENCI stud book, again starting from the microchip. <strong>Show results</strong> appear in the public catalogues of the events, with the judge's name. A breeder who receives by appointment and shows you the mother and the place where the puppies grow up is another good sign, as is respecting the 60-day minimum before rehoming, which is a legal requirement in Italy.</div>

@@ -44,7 +44,7 @@ Die Seiten verschwinden nicht, wenn die Welpen zu Hause sind. Sie bleiben mit ih
 
 Würfe vor 2026 — Mai 2025 und Februar 2025 — sind in unserem <a href="/de/wuerfe-staffordshire-bull-terrier/" title="Zuchtprogramm">Zuchtprogramm</a> beschrieben, zusammen mit den Verpaarungen und den Gründen dafür.
 
-Wenn Sie noch nicht wissen, worauf man bei einer Zucht achtet: unser <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie man eine seriöse Zucht erkennt">Ratgeber, wie man eine seriöse erkennt</a>, nennt acht Kriterien und wie man jedes überprüft — bei uns wie bei allen anderen.
+Wenn Sie noch nicht wissen, worauf man bei einer Zucht achtet: unser <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie man eine Zucht erkennt, die gut arbeitet">Ratgeber, wie man eine erkennt, die gut arbeitet</a>, nennt acht Kriterien und wie man jedes überprüft — bei uns wie bei allen anderen.
 
 <p class="fonti">Quellen: Das Tagebuch verzeichnet Tatsachen aus der Zucht Del Piccolo Diavolo und nennt deshalb keine externen Quellen: Die unabhängige Prüfung ist das ENCI-Zuchtbuch, in dem sich die Zahl der Würfe jeder Hündin anhand ihres Mikrochips kontrollieren lässt.</p>
 

@@ -307,7 +307,7 @@ Entscheiden Sie mit dem Kopf, nicht mit dem Geldbeutel. Wenn Sie sehen möchten,
 
 ---
 
-*Lesen Sie auch: <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie wählt man eine Staffordshire Bull Terrier Zucht">wie man eine seriöse Zucht auswählt</a>.*
+*Lesen Sie auch: <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie wählt man eine Staffordshire Bull Terrier Zucht">wie man eine Zucht auswählt, die gut arbeitet</a>.*
 
 *Möchten Sie mehr über unsere Welpen und die nächsten Würfe erfahren? [Schreiben Sie uns auf WhatsApp](/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20h%C3%A4tte%20gerne%20Informationen%20%C3%BCber%20Ihre%20Welpen): wir erzählen Ihnen, wie wir arbeiten, und beantworten alle Ihre Fragen.*
 

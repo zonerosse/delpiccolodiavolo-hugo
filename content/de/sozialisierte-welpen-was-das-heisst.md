@@ -179,7 +179,7 @@ custom_content: |
   <li><a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor und Frühstimulation">Bio Sensor: was die Forschung wirklich sagt</a></li>
   <li><a href="/de/eltern-vor-ort-was-das-bedeutet/" title="Eltern vor Ort">&bdquo;Eltern vor Ort&ldquo;: was das wirklich bedeutet</a></li>
   <li><a href="/de/welpen-stubenreinheit/" title="Stubenreinheit beim Welpen">Stubenreinheit: Methode und echte Zeiten</a></li>
-  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie man eine seriöse Zucht erkennt">Wie man eine seriöse Zucht erkennt</a></li>
+  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie man eine Zucht erkennt, die gut arbeitet">Wie man eine Zucht erkennt, die gut arbeitet</a></li>
   </ul>
   </div>
 

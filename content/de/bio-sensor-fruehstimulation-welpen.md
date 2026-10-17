@@ -117,7 +117,7 @@ custom_content: |
     <a class="rimando" href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/">
   <img src="/images/blog/cucciolata-erba.avif" alt="Staffordshire Bull Terrier Welpen mit ihrer Mutter" width="88" height="64" loading="lazy" decoding="async">
   <span>
-  <span class="ti">Wie man eine seriöse Zucht erkennt</span>
+  <span class="ti">Wie man eine Zucht erkennt, die gut arbeitet</span>
   <span class="de">Acht Kriterien und wie man jedes prüft: an den Unterlagen, nicht an den Worten.</span>
   </span>
   </a>
@@ -126,7 +126,7 @@ custom_content: |
   <h3>Verwandte Artikel</h3>
   <ul>
   <li><a href="/de/welpen-sozialisierung-zuhause/" title="Sozialisierung des Welpen zu Hause">Sozialisierung zu Hause: die ersten Wochen</a></li>
-  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie man eine seriöse Zucht erkennt">Wie man eine seriöse Zucht erkennt</a></li>
+  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie man eine Zucht erkennt, die gut arbeitet">Wie man eine Zucht erkennt, die gut arbeitet</a></li>
   <li><a href="/de/staffordshire-bull-terrier-wesen/" title="Wesen des Staffordshire Bull Terrier">Das Wesen des Staffy: wie es selektiert wird</a></li>
   <li><a href="/de/welpen-erste-impfungen/" title="Erste Impfungen des Welpen">Erste Impfungen: Plan und Auffrischung</a></li>
   </ul>

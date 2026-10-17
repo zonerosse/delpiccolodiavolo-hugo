@@ -272,7 +272,7 @@ custom_content: |
   <h3>More on this topic</h3>
   <ul>
   <li><a href="/en/staffy-bloodlines-guide/" title="Staffy bloodlines: the history of the six lines">Staffy bloodlines: the history of the six lines</a></li>
-  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious Staffy breeder">How to recognise a serious Staffy breeder</a></li>
+  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a Staffy breeder who does things properly">How to recognise a Staffy breeder who does things properly</a></li>
   <li><a href="/en/puppy-first-vaccinations/" title="Puppy first vaccinations: schedule and boosters">Puppy first vaccinations: schedule and boosters</a></li>
   <li><a href="/en/puppy-initial-feeding/" title="Feeding a Staffordshire Bull Terrier puppy: first months">Feeding a Staffordshire Bull Terrier puppy: first months</a></li>
   </ul>

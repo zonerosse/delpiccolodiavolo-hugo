@@ -142,7 +142,7 @@ custom_content: |
   <li><a href="/en/staffy-children-family/" title="Children">Staffy and children: living together safely</a></li>
   <li><a href="/en/staffy-other-pets/" title="Other animals">Living with other animals</a></li>
   <li><a href="/en/staffy-elderly-owners/" title="Elderly">Staffy and elderly owners</a></li>
-  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Choosing a breeder">How to choose a serious kennel</a></li>
+  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Choosing a breeder">How to choose a kennel that does things properly</a></li>
   </ul>
   </div>
 

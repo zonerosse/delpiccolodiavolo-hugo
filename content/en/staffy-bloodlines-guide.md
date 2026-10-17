@@ -176,7 +176,7 @@ custom_content: |
   <li><a href="/en/staffy-pitbull-amstaff-difference/" title="Staffordshire Bull Terrier, Pitbull and Amstaff compared">Staffordshire Bull Terrier, Pitbull and Amstaff compared</a></li>
   <li><a href="/en/staffy-breed-standard/" title="Staffordshire Bull Terrier breed standard explained">Staffordshire Bull Terrier breed standard explained</a></li>
   <li><a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)">Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)</a></li>
-  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious Staffy breeder">How to recognise a serious Staffy breeder</a></li>
+  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a Staffy breeder who does things properly">How to recognise a Staffy breeder who does things properly</a></li>
   </ul>
   </div>
 

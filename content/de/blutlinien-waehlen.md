@@ -78,7 +78,7 @@ custom_content: |
   <p>Warum genau diese beiden Hunde? Wer ein Programm hat, antwortet mit dem, was jedes Elterntier einbringt, was verbessert werden sollte und welcher Kompromiss dafür akzeptiert wurde. Ohne Programm lautet die Antwort, dass beide schön sind.</p>
   <p>Was würden Sie an diesem Wurf ändern? Wer ehrlich ist, hat eine konkrete Antwort.</p>
   <p>Wo leben die Welpen? Welpen, die in der Küche zwischen Haushaltsgeräuschen aufwachsen, sind, wenn sie abgegeben werden, <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das wirklich heißt">deutlich besser sozialisiert</a> als Welpen aus einem sauberen Außenzwinger, und der Unterschied bleibt.</p>
-  <p>Was passiert, wenn es nicht funktioniert? Die richtige Antwort lautet, dass der Hund zum Züchter zurückkommen kann, in jedem Alter, aus jedem Grund, und dass es im Vermittlungsvertrag steht. Die vollständige Liste der Fragen und wie man die Antworten prüft, steht im Ratgeber <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Eine seriöse Zucht erkennen">eine seriöse Zucht erkennen</a>.</p>
+  <p>Was passiert, wenn es nicht funktioniert? Die richtige Antwort lautet, dass der Hund zum Züchter zurückkommen kann, in jedem Alter, aus jedem Grund, und dass es im Vermittlungsvertrag steht. Die vollständige Liste der Fragen und wie man die Antworten prüft, steht im Ratgeber <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Eine Zucht erkennen, die gut arbeitet">eine Zucht erkennen, die gut arbeitet</a>.</p>
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->
@@ -144,7 +144,7 @@ custom_content: |
   <h3>Mehr zum Thema</h3>
   <ul>
   <li><a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)">Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)</a></li>
-  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Seriöse Staffordshire Bull Terrier Zucht erkennen">Seriöse Staffordshire Bull Terrier Zucht erkennen</a></li>
+  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Staffordshire Bull Terrier Zucht erkennen, die gut arbeitet">Staffordshire Bull Terrier Zucht erkennen, die gut arbeitet</a></li>
   <li><a href="/de/staffy-rassestandard/" title="FCI Rassestandard Staffordshire Bull Terrier">FCI Rassestandard Staffordshire Bull Terrier</a></li>
   <li><a href="/de/staffy-pitbull-amstaff-unterschied/" title="Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich">Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich</a></li>
   </ul>

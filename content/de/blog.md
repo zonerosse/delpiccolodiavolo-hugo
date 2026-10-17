@@ -38,7 +38,7 @@ custom_content: |
 
   <section class="section">
   <div class="section-inner content-single">
-  <p>Dieser Blog sammelt die Ratgeber, die wir über den Staffordshire Bull Terrier schreiben, nach Themen geordnet: Rasse und Gesetz, Welpen, Standard und Blutlinien, Gesundheit, Familie und Zusammenleben. Es sind keine Artikel, die geschrieben wurden, um die Website zu füllen: Sie entstehen aus den Fragen, die uns wirklich gestellt werden, und wo nötig sagen sie auch das Unbequeme &mdash; dass Tests Grenzen haben, dass Reaktivität gegenüber anderen Hunden existiert, dass eine verbreitete Methode die Belege nicht hat, die sie verspricht. Wo wir eine Zahl nennen, geben wir die Quelle an: ENCI, britischer Kennel Club, tierärztliche Leitlinien oder veröffentlichte Studien. <strong>Die meistgelesenen Ratgeber</strong> sind die darüber, wie man eine seriöse Zucht erkennt, über die Gentests L2-HGA und HC und darüber, wie man eine Ahnentafel liest.</p>
+  <p>Dieser Blog sammelt die Ratgeber, die wir über den Staffordshire Bull Terrier schreiben, nach Themen geordnet: Rasse und Gesetz, Welpen, Standard und Blutlinien, Gesundheit, Familie und Zusammenleben. Es sind keine Artikel, die geschrieben wurden, um die Website zu füllen: Sie entstehen aus den Fragen, die uns wirklich gestellt werden, und wo nötig sagen sie auch das Unbequeme &mdash; dass Tests Grenzen haben, dass Reaktivität gegenüber anderen Hunden existiert, dass eine verbreitete Methode die Belege nicht hat, die sie verspricht. Wo wir eine Zahl nennen, geben wir die Quelle an: ENCI, britischer Kennel Club, tierärztliche Leitlinien oder veröffentlichte Studien. <strong>Die meistgelesenen Ratgeber</strong> sind die darüber, wie man eine Zucht erkennt, die gut arbeitet, über die Gentests L2-HGA und HC und darüber, wie man eine Ahnentafel liest.</p>
   </div>
   </section>
 
@@ -121,12 +121,12 @@ custom_content: |
   </div>
   </article>
   <article class="blog-card">
-  <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Lesen: Wie man eine seriöse Zucht erkennt"><div class="blog-card-thumb"><img alt="Staffordshire Bull Terrier Welpen im Gras einer seriösen Zucht" decoding="async" height="188" loading="lazy" src="/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier.webp" width="300"/></div></a>
+  <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Lesen: Wie man eine Zucht erkennt, die gut arbeitet"><div class="blog-card-thumb"><img alt="Staffordshire Bull Terrier Welpen im Gras einer seriösen Zucht" decoding="async" height="188" loading="lazy" src="/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier.webp" width="300"/></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Jan 2026</span><span>•</span><span class="cat">Welpen</span></div>
-  <h3><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Lesen: Wie man eine seriöse Zucht erkennt">Wie man eine seriöse Zucht erkennt</a></h3>
+  <h3><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Lesen: Wie man eine Zucht erkennt, die gut arbeitet">Wie man eine Zucht erkennt, die gut arbeitet</a></h3>
   <p>Acht Kriterien und wie man sie überprüft, mit unseren Unterlagen als Beispiel.</p>
-  <a aria-label="Artikel lesen: Wie man eine seriöse Zucht erkennt" class="read" href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/">Lesen<span class="sr-only">: Wie man eine seriöse Zucht erkennt</span> →</a>
+  <a aria-label="Artikel lesen: Wie man eine Zucht erkennt, die gut arbeitet" class="read" href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/">Lesen<span class="sr-only">: Wie man eine Zucht erkennt, die gut arbeitet</span> →</a>
   </div>
   </article>
   <article class="blog-card">

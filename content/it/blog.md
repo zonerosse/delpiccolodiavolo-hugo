@@ -33,7 +33,7 @@ custom_content: |
   </div>
 
   <!-- RAZZA E LEGISLAZIONE -->
-    <p>Questo blog raccoglie le guide che scriviamo sullo Staffordshire Bull Terrier, divise per argomento: razza e legislazione, cuccioli, standard e linee di sangue, salute, famiglia e convivenza. Non sono articoli scritti per riempire il sito: nascono dalle domande che ci fanno davvero, e dove serve dicono anche le cose scomode &mdash; che i test hanno dei limiti, che la reattivit&agrave; verso altri cani esiste, che un metodo diffuso non ha le prove che promette. Dove citiamo un dato, indichiamo la fonte: ENCI, Kennel Club britannico, linee guida veterinarie o studi pubblicati. <strong>Le guide pi&ugrave; lette</strong> sono quelle su come riconoscere un allevamento serio, sui test genetici L2-HGA e HC e su come si legge un pedigree.</p>
+    <p>Questo blog raccoglie le guide che scriviamo sullo Staffordshire Bull Terrier, divise per argomento: razza e legislazione, cuccioli, standard e linee di sangue, salute, famiglia e convivenza. Non sono articoli scritti per riempire il sito: nascono dalle domande che ci fanno davvero, e dove serve dicono anche le cose scomode &mdash; che i test hanno dei limiti, che la reattivit&agrave; verso altri cani esiste, che un metodo diffuso non ha le prove che promette. Dove citiamo un dato, indichiamo la fonte: ENCI, Kennel Club britannico, linee guida veterinarie o studi pubblicati. <strong>Le guide pi&ugrave; lette</strong> sono quelle su come riconoscere un allevamento che fa le cose per bene, sui test genetici L2-HGA e HC e su come si legge un pedigree.</p>
 
   <!--BLOCCO:2-->
   <!--RECENTI-->
@@ -109,12 +109,12 @@ custom_content: |
   </div>
   </article>
   <article class="blog-card">
-  <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi: Come riconoscere un allevamento serio"><div class="blog-card-thumb"><img alt="Come riconoscere un allevamento Staffordshire Bull Terrier serio" decoding="async" height="188" loading="lazy" src="/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier.webp" width="300"/></div></a>
+  <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi: Come riconoscere un allevamento che fa le cose per bene"><div class="blog-card-thumb"><img alt="Come riconoscere un allevamento Staffordshire Bull Terrier che fa le cose per bene" decoding="async" height="188" loading="lazy" src="/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier.webp" width="300"/></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Gen 2026</span><span>•</span><span class="cat">Cuccioli</span></div>
-  <h3><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi: Come riconoscere un allevamento serio">Come riconoscere un allevamento serio</a></h3>
+  <h3><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi: Come riconoscere un allevamento che fa le cose per bene">Come riconoscere un allevamento che fa le cose per bene</a></h3>
   <p>Otto criteri e il modo di verificarli, con i nostri documenti come esempio.</p>
-  <a aria-label="Leggi l'articolo: Come riconoscere un allevamento serio" class="read" href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi articolo completo">Leggi<span class="sr-only">: Come riconoscere un allevamento serio</span> →</a>
+  <a aria-label="Leggi l'articolo: Come riconoscere un allevamento che fa le cose per bene" class="read" href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi articolo completo">Leggi<span class="sr-only">: Come riconoscere un allevamento che fa le cose per bene</span> →</a>
   </div>
   </article>
   <article class="blog-card">

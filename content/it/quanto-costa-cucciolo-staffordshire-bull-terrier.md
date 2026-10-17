@@ -307,7 +307,7 @@ Scegli con la testa, non col portafoglio. Se vuoi vedere come lavoriamo, visita 
 
 ---
 
-*Leggi anche: <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento Staffordshire Bull Terrier">come scegliere un allevamento serio</a>.*
+*Leggi anche: <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento Staffordshire Bull Terrier">come scegliere un allevamento che fa le cose per bene</a>.*
 
 *Vuoi saperne di più sui nostri cuccioli e sulle prossime cucciolate? [Scrivici su WhatsApp](/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20informazioni%20sui%20cuccioli%20e%20sui%20prezzi): ti raccontiamo come lavoriamo e rispondiamo alle tue domande.*
 

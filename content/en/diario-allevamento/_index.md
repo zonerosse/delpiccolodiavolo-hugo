@@ -44,7 +44,7 @@ Pages do not disappear once the puppies are home. They stay, with their dates, a
 
 Litters before 2026 — May 2025 and February 2025 — are covered in our <a href="/en/litters-staffordshire-bull-terrier/" title="Breeding programme">breeding programme</a>, together with the pairings and the reasons behind them.
 
-If you are not yet sure what to look for in a kennel, our <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious breeder">guide to recognising a serious one</a> sets out eight criteria and how to check each — on us as much as on anyone else.
+If you are not yet sure what to look for in a kennel, our <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a breeder who does things properly">guide to recognising one that does things properly</a> sets out eight criteria and how to check each — on us as much as on anyone else.
 
 <p class="fonti">Sources: The diary records facts from the Del Piccolo Diavolo kennel, which is why it cites no external sources: the independent check is the ENCI stud book, where the number of litters of each bitch can be verified from her microchip.</p>
 

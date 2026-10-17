@@ -97,7 +97,7 @@ custom_content: |
 
   <div class="n-percorso"><div class="n-passo"><h3>Non abbiamo cuccioli tutto l'anno.</h3><div><p>Una cucciolata, occasionalmente due, a volte nessuna. Se ci scrivi in un momento in cui non ce ne sono, la risposta è che non ce ne sono: non ti proponiamo il cucciolo di un conoscente né ti mettiamo fretta su una cucciolata futura.</p></div></div><div class="n-passo"><h3>Non spediamo cani.</h3><div><p>Nessun nostro cucciolo viaggia con un corriere: niente stive, niente consegne a metà strada in un parcheggio. Chi prende un cucciolo viene a Ostellato. Così vede la madre, la casa e il posto dove è cresciuto.</p></div></div><div class="n-passo"><h3>Non trattiamo il pedigree come un accessorio.</h3><div><p>Non esiste un cucciolo «con» o «senza»: il certificato ENCI accompagna ogni cane e non si paga a parte.</p></div></div><div class="n-passo"><h3>Non ci offendiamo se fai domande sull'allevamento.</h3><div><p>Anzi, sono quelle a dirci chi abbiamo davanti. Chi chiede dei test, dei genitori, di cosa succede se fra due anni non riesce più a tenere il cane, è la persona a cui affideremmo volentieri un cucciolo.</p></div></div></div>
   <p class="n-vedi">Chi c'è dietro tutto questo, e come dai Rottweiler si arriva agli Staffy: lo racconto in <a href="/chi-siamo/" title="Chi siamo">chi siamo</a>.</p>
-  <p class="n-vedi"><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/">Come riconoscere un allevamento serio</a>. Otto criteri e il modo di verificarli, su di noi come su chiunque altro.</p>
+  <p class="n-vedi"><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/">Come riconoscere un allevamento che fa le cose per bene</a>. Otto criteri e il modo di verificarli, su di noi come su chiunque altro.</p>
   </div>
   </section>
   <!--/BLOCCO:4-->
@@ -163,7 +163,7 @@ custom_content: |
   <div>
   <p>Vale anche al contrario. Quando un cucciolo è esente per discendenza da una malattia ma non da un'altra, lo scriviamo. Quando di un riproduttore esterno abbiamo il referto per due patologie e non per quattro, lo scriviamo.</p>
   <p>È la parte che nessuno racconta volentieri, ed è anche la ragione per cui il resto sta in piedi: un allevamento che dichiara solo le cose belle non sta dando informazioni, sta facendo pubblicità.</p>
-  <p>Se stai valutando noi, o un altro allevamento, la guida su <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento serio">come riconoscere un allevamento serio</a> elenca gli otto criteri e come verificarli, su di noi come su chiunque altro.</p>
+  <p>Se stai valutando noi, o un altro allevamento, la guida su <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento che fa le cose per bene">come riconoscere un allevamento che fa le cose per bene</a> elenca gli otto criteri e come verificarli, su di noi come su chiunque altro.</p>
   <p>Come nasce una cucciolata lo raccontiamo nel <a href="/programma-allevamento/" title="Programma di allevamento">programma di allevamento</a>: la scelta dei due riproduttori, le settimane in casa, l'abbinamento con la famiglia. Lì c'è anche lo storico delle cucciolate.</p>
   </div>
   </div>
