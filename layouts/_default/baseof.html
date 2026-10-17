@@ -157,7 +157,8 @@
 <script>
 /* Domande frequenti chiuse (scelta di Paolo, 13/10/2026): nell'HTML le risposte sono aperte (Google, IA,
    chi non ha JavaScript); qui si chiudono e si aprono toccando la domanda, anche con Invio o Spazio. */
-document.querySelectorAll('.faq-question').forEach(function(q){
+/* Pagine Notte (es. FAQ, scelta A di Paolo 17/10/2026): domande a righe, tutte aperte, niente bottoni */
+if(!document.body.classList.contains('notte-pagina'))document.querySelectorAll('.faq-question').forEach(function(q){
   /* la domanda puo' essere il titolo stesso (<h3 class="faq-question">, articoli) o contenerlo */
   var item=q.parentElement, h=q.matches('h2,h3,h4') ? q : q.querySelector('h2,h3,h4,.faq-q');
   /* domanda che contiene un link: resta aperta (un bottone non puo' contenere un link) */

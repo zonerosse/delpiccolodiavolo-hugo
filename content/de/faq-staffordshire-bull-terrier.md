@@ -5,6 +5,7 @@ og_image_alt: "FAQ Staffordshire Bull Terrier - Häufig gestellte Fragen — All
 thumb: "/images/blog/icone/faq-sullo-staffordshire-bull-terrier.webp"
 date: 2025-12-28
 lastmod: 2026-10-17
+notte: true
 translationKey: "faq"
 description: "Antworten auf häufig gestellte Fragen über Staffordshire Bull Terrier: Charakter, Gesundheit, Welpen, Kosten, Ernährung, Training. Zucht Del Piccolo Diavolo."
 slug: "faq-staffordshire-bull-terrier"

@@ -295,7 +295,7 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
 
 ## Stile "Notte" (17/10/2026, Paolo: scelta B)
 - Pagine vetrina scure (caffè, rame, oro): Home, Cuccioli, Chi siamo, Femmine, Maschi, Palmarès, Diario (elenco), Programma,
-  Recensioni, Contatti, in IT/EN/DE. Si accende con `notte: true` nel front matter (body `notte-pagina`, `assets/css/notte.css`
+  Recensioni, Contatti, FAQ, in IT/EN/DE. Si accende con `notte: true` nel front matter (body `notte-pagina`, `assets/css/notte.css`
   caricato da `partials/css.html`). Gli articoli del Blog e le pagine del diario restano chiari.
 - Regola di Paolo: si cambiano solo impaginazione e grafica. Testi, titoli, descrizioni, link e JSON restano identici a quelli
   online; si toglie solo ciò che chiede lui (es. i bottoni, con la loro scritta). Prima di pubblicare: anteprima HTML, poi
@@ -321,5 +321,7 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
   - Diario (elenco): `.diario-card` a righe (foto a sinistra) e `.diario-intro` a righe solo con il CSS (h2 a sinistra).
   - Contatti: Paolo la vuole impaginata com'era; cambiano solo i colori (riquadri delle città `.zone-row` scuri).
   - Al telefono le righe `.n-storia` con la foto vanno una sotto l'altra.
+  - FAQ (scelta A): domande a righe, tutte aperte (CSS `.faq-container:not(.n-faqs)`); lo script di `baseof.html` non le
+    chiude sulle pagine Notte. Testata con icona (`img[alt=""]`): icona piccola e centrata, senza sfumatura.
   - Foto in testata sempre intera, mai tagliata (scelta A): `object-fit:contain` su fondo scuro; al telefono alta il 62% dello
     schermo. La foto di Bilquis in testata è `bilquis-campionessa-hero.avif` (800×976), non più `femmina-bilquis-hero.avif` (301×396, sgranata).

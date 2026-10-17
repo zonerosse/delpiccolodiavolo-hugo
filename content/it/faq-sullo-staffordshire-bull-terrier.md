@@ -6,6 +6,7 @@ thumb: "/images/blog/icone/faq-sullo-staffordshire-bull-terrier.webp"
 titleSeo: "FAQ Staffordshire Bull Terrier: le domande più frequenti"
 date: 2025-12-28
 lastmod: 2026-10-17
+notte: true
 translationKey: "faq"
 description: "Risposte alle domande più frequenti sullo Staffordshire Bull Terrier: carattere, salute, cuccioli ENCI, costi, alimentazione, addestramento."
 slug: "faq-sullo-staffordshire-bull-terrier"
