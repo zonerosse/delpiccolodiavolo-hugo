@@ -2,7 +2,7 @@
 title: "Come scegliere la linea di sangue di un cucciolo di Staffy"
 date: 2025-03-05
 titleSeo: "Come scegliere la linea di sangue di un cucciolo di Staffy"
-lastmod: 2026-10-05
+lastmod: 2026-10-17
 translationKey: "scelta-linee"
 articolo: true
 image: "/images/blog/standard-2.webp"
@@ -24,7 +24,7 @@ custom_content: |
   <h1 class="hero-title">Come scegliere la <em>linea di sangue</em></h1>
   <p class="hero-subtitle">per un cucciolo di Staffordshire Bull Terrier</p>
   <div class="hero-meta">
-  <span>📅 5 Marzo 2025</span>
+  <span>📅 5 marzo 2025</span>
   <span>⏱️ 8 min lettura</span>
   </div>
   </div>
@@ -33,16 +33,16 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Linee UK</span><span>Linee Irlandesi</span><span>Linee Continentali</span><span>Obiettivi Selezione</span><span>Test Genetici</span><span>Pedigree</span><span>Tipicità</span><span>Carattere</span>
-  <span>Linee UK</span><span>Linee Irlandesi</span><span>Linee Continentali</span><span>Obiettivi Selezione</span><span>Test Genetici</span><span>Pedigree</span><span>Tipicità</span><span>Carattere</span>
+  <span>Linee inglesi</span><span>Linee irlandesi</span><span>Linee continentali</span><span>Obiettivi della selezione</span><span>Test genetici</span><span>Pedigree</span><span>Tipicità</span><span>Carattere</span>
+  <span>Linee inglesi</span><span>Linee irlandesi</span><span>Linee continentali</span><span>Obiettivi della selezione</span><span>Test genetici</span><span>Pedigree</span><span>Tipicità</span><span>Carattere</span>
   </div>
   </div>
 
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a aria-label="Standard e Linee — categoria del blog" href="/blog/#standard" title="Standard e Linee">Standard e Linee</a> ›
-  <span>Come Orientarsi</span>
+  <a aria-label="Standard e linee — categoria del blog" href="/blog/#standard" title="Standard e linee">Standard e linee</a> ›
+  <span>Come orientarsi</span>
   </nav>
 
   <div class="article-container">
@@ -62,13 +62,13 @@ custom_content: |
   <!--BLOCCO:3-->
   <h2>Cosa cambia fra le linee, e cosa no</h2>
   <p>Tutti gli Staffordshire Bull Terrier devono rispondere allo stesso <a href="https://www.enci.it/media/2347/076.pdf" target="_blank" rel="noopener" aria-label="Standard FCI n. 76, PDF ufficiale ENCI (si apre in una nuova scheda)">standard</a>, e le differenze fra le linee buone sono questioni di accento, non di sostanza. Quello che cambia davvero sono ossatura e massa, proporzioni della testa, livello di motivazione e reattività, tolleranza verso gli altri cani, e quanto una linea riproduce con costanza il suo tipo in tutta la cucciolata.</p>
-  <p>Quello che non deve cambiare, in nessuna linea che valga la pena considerare, è il carattere verso le persone e i <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">test di salute</a> dietro l'accoppiamento. Un allevatore che descrive una linea come «tagliente», o che giustifica un cane difficile con gli ospiti, sta descrivendo un difetto, non una caratteristica.</p>
+  <p>Quello che non deve cambiare, in nessuna linea che valga la pena considerare, è il carattere verso le persone e i <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2HGA e HC">test di salute</a> dietro l'accoppiamento. Un allevatore che descrive una linea come «tagliente», o che giustifica un cane difficile con gli ospiti, sta descrivendo un difetto, non una caratteristica.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
   <h2>Le linee inglesi e irlandesi in pratica</h2>
   <p>Le linee inglesi, fra cui Elitebull è una delle più influenti nell'Europa continentale, sono associate in genere a proporzioni equilibrate, una buona qualità della testa senza esagerazioni e un movimento sano. Le linee irlandesi come Lackyle sono note per compattezza, ossatura forte, una notevole costanza dentro la cucciolata e un carattere estroverso e solido.</p>
-  <p>Il nostro programma le unisce di proposito, perché si completano invece di farsi concorrenza: l'inglese per l'equilibrio e la testa, l'irlandese per la sostanza e la costanza. Non è l'unica strategia valida, e un allevatore che lavora solo dentro una tradizione e la conosce a fondo può benissimo produrre cani migliori di uno che mescola senza un piano.</p>
+  <p>Non sono due mondi separati: Lackyle è arrivato prima, e i suoi cani storici si ritrovano nei pedigree di Elitebull. Il nostro programma le unisce di proposito, perché si completano invece di farsi concorrenza: l'inglese per l'equilibrio e la testa, l'irlandese per la sostanza e la costanza. Non è l'unica strategia valida, e un allevatore che lavora solo dentro una tradizione e la conosce a fondo può benissimo produrre cani migliori di uno che mescola senza un piano.</p>
   <p>La domanda da fare non è da quale paese vengono i cani. È se l'allevatore sa spiegare cosa porta ogni linea, e perché.</p>
   <!--/BLOCCO:4-->
 
@@ -83,25 +83,25 @@ custom_content: |
   <p>Il pedigree ti parla degli antenati. L'allevatore ti parla del cucciolo che porterai davvero a casa. Le domande che rivelano di più sono queste.</p>
   <p>Perché questi due cani? Un allevatore con un programma risponde in termini di cosa porta ciascun genitore, cosa sperava di migliorare e quale compromesso ha accettato. Senza programma, la risposta è che i genitori sono bellissimi.</p>
   <p>Cosa cambieresti di questa cucciolata? Chiunque sia onesto ha una risposta, e di solito è precisa.</p>
-  <p>Dove vivono i cuccioli? I cuccioli cresciuti in casa, in mezzo ai rumori di tutti i giorni, a otto settimane sono <a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Cuccioli socializzati: cosa vuol dire davvero">molto più socializzati</a> di quelli cresciuti in un box pulito all'aperto, e la differenza resta.</p>
-  <p>Cosa succede se non funziona? La risposta giusta è che il cane torna all'allevatore, a qualsiasi età, per qualsiasi motivo, e che è scritto nel contratto di affido. L'elenco completo delle domande da fare, e come verificare le risposte, è nella guida su <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento serio">come riconoscere un allevamento serio</a>.</p>
+  <p>Dove vivono i cuccioli? I cuccioli cresciuti in casa, in mezzo ai rumori di tutti i giorni, quando partono sono <a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Cuccioli socializzati: cosa vuol dire davvero">molto più socializzati</a> di quelli cresciuti in un box pulito all'aperto, e la differenza resta.</p>
+  <p>Cosa succede se non funziona? La risposta giusta è che il cane può tornare all'allevatore, a qualsiasi età, per qualsiasi motivo, e che è scritto nel contratto di affido. L'elenco completo delle domande da fare, e come verificare le risposte, è nella guida su <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento serio">come riconoscere un allevamento serio</a>.</p>
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->
   <h2>Il linebreeding, e quando è troppo</h2>
   <p>Ripetere un antenato apprezzato dentro un pedigree fissa il tipo, ed è uno strumento legittimo che usa ogni programma serio. Spinto troppo oltre costa in difese immunitarie, fertilità e longevità, e lo fa senza farsi vedere per una o due generazioni.</p>
-  <p>Chiedi il coefficiente di consanguineità su cinque generazioni, e chiedi come l'allevatore decide dov'è il limite. Un allevatore che non l'ha mai calcolato non è per forza superficiale, ma uno che liquida la domanda ti sta dicendo qualcosa. Come si legge materialmente un pedigree ENCI, e cosa aggiunge SBTPedigree, è spiegato passo per passo nella guida <a href="/come-si-legge-un-pedigree/" title="Come si legge un pedigree">come si legge un pedigree</a>.</p>
+  <p>Chiedi il coefficiente di consanguineità, su quante generazioni è calcolato, e come l'allevatore decide dov'è il limite. Un allevatore che non l'ha mai calcolato non è per forza superficiale, ma uno che liquida la domanda ti sta dicendo qualcosa. Come si legge materialmente un pedigree ENCI, e cosa aggiunge SBTPedigree, è spiegato passo per passo nella guida <a href="/come-si-legge-un-pedigree/" title="Come si legge un pedigree">come si legge un pedigree</a>.</p>
   <!--/BLOCCO:7-->
 
   <!--BLOCCO:8-->
   <h2>Cosa guardare nei cuccioli</h2>
-  <p>A otto settimane si valuta una tendenza, non un risultato. Cerca cuccioli che si riprendono in fretta da una sorpresa, che si avvicinano a un estraneo dopo un attimo di esitazione invece di ritirarsi, e che tollerano di essere tenuti a pancia in su per qualche secondo senza andare nel panico.</p>
+  <p>A due mesi si valuta una tendenza, non un risultato. Cerca cuccioli che si riprendono in fretta da una sorpresa, che si avvicinano a un estraneo dopo un attimo di esitazione invece di ritirarsi, e che tollerano di essere tenuti a pancia in su per qualche secondo senza andare nel panico.</p>
   <p>Non scegliere il cucciolo più sfacciato della cucciolata perché viene da te per primo: è l'errore più comune. La fascia sicura di sé ma non estrema va bene per la grande maggioranza delle case, molto più dei due estremi, e un buon allevatore ti ci porterà; anzi, un buon allevatore il cucciolo lo sceglie lui per te invece di lasciartelo scegliere, e questo dovrebbe rassicurarti, non infastidirti.</p>
   <!--/BLOCCO:8-->
 
   <!--BLOCCO:9-->
   <h2>I segnali d'allarme quando confronti gli allevamenti</h2>
-  <p>Diverse cucciolate disponibili insieme, o cuccioli sempre pronti. Prezzi che cambiano secondo il colore del mantello. Certificati di salute promessi per quando il cucciolo sarà già a casa. Cuccioli disponibili prima delle otto settimane, cosa vietata in Italia. Colori rari usati come argomento di vendita. E un allevatore che non ti fa nessuna domanda: quelli che ti fanno l'interrogatorio sono quelli che si riprenderanno il cane se ne avrai bisogno.</p>
+  <p>Diverse cucciolate disponibili insieme, o cuccioli sempre pronti. Prezzi che cambiano secondo il colore del mantello. Certificati di salute promessi per quando il cucciolo sarà già a casa. Cuccioli che lasciano la madre prima dei 60 giorni, cosa vietata in Italia. Colori rari usati come argomento di vendita. E un allevatore che non ti fa nessuna domanda: quelli che ti fanno l'interrogatorio sono quelli che si riprenderanno il cane se ne avrai bisogno.</p>
   <!--/BLOCCO:9-->
 
   <!--BLOCCO:10-->
@@ -135,7 +135,7 @@ custom_content: |
   <div class="related">
   <h3>Articoli correlati</h3>
   <ul>
-  <li><a href="/linee-sangue-staffordshire-bull-terrier/" title="Storia linee">Linee di Sangue: Storia e Genealogia</a></li>
+  <li><a href="/linee-sangue-staffordshire-bull-terrier/" title="Storia linee">Linee di sangue: storia e genealogia</a></li>
   <li><a href="/standard-tipicita-morfologia/" title="Standard FCI">Standard FCI: Tipicità e morfologia</a></li>
   <li><a href="/differenza-staffy-pitbull-amstaff/" title="Differenza razze">Differenza tra Staffy, Pitbull e Amstaff</a></li>
   <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento">Consigli prima di prendere un cucciolo</a></li>
@@ -143,7 +143,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
+  <a class="btn" href="/blog/" title="Torna al blog">&larr; Torna al blog</a>
 
   <p class="tags"><strong>Tag:</strong>
   <a aria-label="linee di sangue — categoria del blog" href="/blog/#standard" title="Articoli linee">linee di sangue</a>

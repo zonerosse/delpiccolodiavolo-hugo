@@ -2,7 +2,7 @@
 title: "How to choose Staffy bloodlines"
 date: 2025-03-05
 titleSeo: "Choosing Staffordshire Bull Terrier bloodlines"
-lastmod: 2026-10-05
+lastmod: 2026-10-17
 translationKey: "scelta-linee"
 articolo: true
 image: "/images/blog/standard-2.webp"
@@ -34,13 +34,13 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> ›
   <a href="/en/blog/" title="Blog">Blog</a> ›
-  <span>Choosing Bloodlines</span>
+  <span>Choosing bloodlines</span>
   </nav>
 
   <div class="article-container">
   <article class="article-content">
 
-  <p>Choosing a Staffordshire Bull Terrier bloodline starts with you, not with the pedigree: whether the dog will be a companion, a show prospect or a future breeding animal, how busy your household is, and how much dog you are prepared to manage. All good lines meet the same FCI standard; what differs is emphasis, in bone and substance, head proportion, drive, tolerance of other dogs and how consistently a line reproduces its type. English lines are generally associated with balance and sound movement, Irish lines with compactness and substance. Health comes before the line: ask for the L2HGA and HC results with the microchip numbers, and for the coefficient of inbreeding over five generations. The Del Piccolo Diavolo kennel in Ostellato, in the province of Ferrara, Italy, works with the English Elitebull and the Irish Lackyle lines.</p>
+  <p>Choosing a Staffordshire Bull Terrier bloodline starts with you, not with the pedigree: whether the dog will be a companion, a show prospect or a future breeding animal, how busy your household is, and how much dog you are prepared to manage. All good lines meet the same FCI standard; what differs is emphasis, in bone and substance, head proportion, drive, tolerance of other dogs and how consistently a line reproduces its type. English lines are generally associated with balance and sound movement, Irish lines with compactness and substance. Health comes before the line: ask for the L2HGA and HC results with the microchip numbers, and for the coefficient of inbreeding and how many generations it covers. The Del Piccolo Diavolo kennel in Ostellato, in the province of Ferrara, Italy, works with the English Elitebull and the Irish Lackyle lines.</p>
 
   <p>This is the practical guide. The history of the six founding lines, Gentleman Jim and the M-Line and R-Line is told in the <a href="/en/staffy-bloodlines-guide/" title="History of Staffy bloodlines">history of Staffy bloodlines</a>.</p>
 
@@ -56,13 +56,13 @@ custom_content: |
   <!--BLOCCO:3-->
   <h2>What differs between lines, and what does not</h2>
   <p>All Staffordshire Bull Terriers must meet the same <a href="https://www.fci.be/Nomenclature/Standards/076g03-en.pdf" target="_blank" rel="noopener" aria-label="FCI breed standard no. 76, PDF (opens in a new tab)">standard</a>, and the differences between good lines are matters of emphasis rather than kind. What genuinely varies is bone and substance, head proportion, the level of drive and reactivity, tolerance of other dogs, and how consistently a line reproduces its own type across a whole litter.</p>
-  <p>What should not vary, in any line worth considering, is temperament towards people and the <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA and HC">health testing</a> behind the mating. A breeder who describes a line as sharp, or explains away a dog that is difficult with visitors, is describing a fault rather than a characteristic.</p>
+  <p>What should not vary, in any line worth considering, is temperament towards people and the <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2HGA and HC">health testing</a> behind the mating. A breeder who describes a line as sharp, or explains away a dog that is difficult with visitors, is describing a fault rather than a characteristic.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
   <h2>English and Irish lines in practice</h2>
   <p>English lines, of which Elitebull is among the most influential in continental Europe, are generally associated with balanced proportion, good head quality without exaggeration and sound movement. Irish lines such as Lackyle are known for compactness, strong bone, notable consistency within litters and an outgoing, robust character.</p>
-  <p>Our own programme combines the two deliberately, because they complement each other rather than compete: the English contribution for balance and head, the Irish for substance and consistency. This is not the only valid strategy, and a breeder who works exclusively within one tradition and knows it deeply may well produce better dogs than one who mixes without a plan.</p>
+  <p>They are not two separate worlds: Lackyle came first, and its historic dogs appear in Elitebull pedigrees. Our own programme combines the two deliberately, because they complement each other rather than compete: the English contribution for balance and head, the Irish for substance and consistency. This is not the only valid strategy, and a breeder who works exclusively within one tradition and knows it deeply may well produce better dogs than one who mixes without a plan.</p>
   <p>The question to ask is not which country the dogs come from. It is whether the breeder can explain what each line contributes and why.</p>
   <!--/BLOCCO:4-->
 
@@ -77,25 +77,25 @@ custom_content: |
   <p>A pedigree tells you about ancestors. A breeder tells you about the puppy you will actually get. The questions that reveal most are these.</p>
   <p>Why these two dogs? A breeder with a programme answers in terms of what each parent brings, what they hoped to improve and what compromise they accepted. Without one, the answer is that both parents are beautiful.</p>
   <p>What would you change about this litter? Anyone honest has an answer, and it is usually specific.</p>
-  <p>Where do the puppies live? Puppies raised in a kitchen among household noise are meaningfully <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it really means">better socialised at 8 weeks</a> than puppies raised in a clean outdoor kennel, and the difference persists.</p>
-  <p>What happens if it does not work out? The right answer is that the dog comes back to the breeder, at any age, for any reason, and that it is written in the placement agreement. The full list of questions to ask, and how to check the answers, is in the guide to <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious breeder">how to recognise a serious breeder</a>.</p>
+  <p>Where do the puppies live? Puppies raised in a kitchen among household noise are meaningfully <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it really means">better socialised by the time they leave</a> than puppies raised in a clean outdoor kennel, and the difference persists.</p>
+  <p>What happens if it does not work out? The right answer is that the dog can come back to the breeder, at any age, for any reason, and that it is written in the placement agreement. The full list of questions to ask, and how to check the answers, is in the guide to <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious breeder">how to recognise a serious breeder</a>.</p>
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->
   <h2>Linebreeding and how much is too much</h2>
   <p>Repeating an admired ancestor within a pedigree fixes type, and it is a legitimate tool used by every serious programme. Pushed too far, it costs immune function, fertility and longevity, and it does so invisibly for a generation or two.</p>
-  <p>Ask for the coefficient of inbreeding over 5 generations, and ask how the breeder decides where the limit is. A breeder who has never calculated it is not necessarily careless, but a breeder who dismisses the question is telling you something. How to read an ENCI pedigree in practice, and what SBTPedigree adds, is explained step by step in the guide on <a href="/en/how-to-read-a-pedigree/" title="How to read a pedigree">how to read a pedigree</a>.</p>
+  <p>Ask for the coefficient of inbreeding, over how many generations it is calculated, and how the breeder decides where the limit is. A breeder who has never calculated it is not necessarily careless, but a breeder who dismisses the question is telling you something. How to read an ENCI pedigree in practice, and what SBTPedigree adds, is explained step by step in the guide on <a href="/en/how-to-read-a-pedigree/" title="How to read a pedigree">how to read a pedigree</a>.</p>
   <!--/BLOCCO:7-->
 
   <!--BLOCCO:8-->
   <h2>What to look for in the puppies themselves</h2>
-  <p>At 8 weeks you are assessing tendency rather than outcome. Look for puppies that recover quickly from a surprise, that approach a stranger after a moment of hesitation rather than retreating, and that tolerate being held on their back for a few seconds without panic.</p>
-  <p>Avoid choosing the boldest puppy in the litter because it comes to you first, which is the commonest mistake. The confident middle of a litter suits the vast majority of homes far better than either extreme, and a good breeder will steer you there — indeed, a good breeder chooses the puppy for you rather than letting you choose it, and that should be reassuring rather than annoying.</p>
+  <p>At two months you are assessing tendency rather than outcome. Look for puppies that recover quickly from a surprise, that approach a stranger after a moment of hesitation rather than retreating, and that tolerate being held on their back for a few seconds without panic.</p>
+  <p>Avoid choosing the boldest puppy in the litter because it comes to you first, which is the commonest mistake. The confident middle of a litter suits the vast majority of homes far better than either extreme, and a good breeder will steer you there; indeed, a good breeder chooses the puppy for you rather than letting you choose it, and that should be reassuring rather than annoying.</p>
   <!--/BLOCCO:8-->
 
   <!--BLOCCO:9-->
   <h2>Warning signs when comparing kennels</h2>
-  <p>Several litters available at once, or puppies always in stock. Prices that vary by coat colour. Health certificates promised for after the puppy goes home. Puppies available before 8 weeks, which is illegal in Italy. Rare colours advertised as a selling point. And a breeder who asks you no questions at all: the ones who interrogate you are the ones who will take the dog back if you need them to.</p>
+  <p>Several litters available at once, or puppies always in stock. Prices that vary by coat colour. Health certificates promised for after the puppy goes home. Puppies leaving their mother before 60 days, which is illegal in Italy. Rare colours advertised as a selling point. And a breeder who asks you no questions at all: the ones who interrogate you are the ones who will take the dog back if you need them to.</p>
   <!--/BLOCCO:9-->
 
   <!--BLOCCO:10-->
@@ -143,7 +143,7 @@ custom_content: |
   <div class="related-articles">
   <h3>More on this topic</h3>
   <ul>
-  <li><a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)">Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)</a></li>
+  <li><a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2HGA, HC (HSF4) and DM (SOD1)">Staffy genetic testing: L2HGA, HC (HSF4) and DM (SOD1)</a></li>
   <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious Staffy breeder">How to recognise a serious Staffy breeder</a></li>
   <li><a href="/en/staffy-breed-standard/" title="Staffordshire Bull Terrier breed standard explained">Staffordshire Bull Terrier breed standard explained</a></li>
   <li><a href="/en/staffy-pitbull-amstaff-difference/" title="Staffordshire Bull Terrier, Pitbull and Amstaff compared">Staffordshire Bull Terrier, Pitbull and Amstaff compared</a></li>
@@ -151,7 +151,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
+  <a class="btn" href="/en/blog/" title="Back to the blog">&larr; Back to the blog</a>
   </div>
   <!--/BLOCCO:10-->
 
