@@ -71,13 +71,13 @@ custom_content: |
   <p>Signs usually appear between six months and the first year of life, occasionally later. They include:</p>
   <ul>
   <li>Epileptic seizures, often the first thing an owner notices</li>
-  <li>Ataxia — loss of coordination</li>
+  <li>Ataxia (loss of coordination)</li>
   <li>Tremors, particularly when the dog is excited or under stress</li>
   <li>Muscle stiffness</li>
   <li>Difficulty learning, and changes in behaviour</li>
   <li>Exercise intolerance</li>
   </ul>
-  <p>The disease is <strong>progressive and incurable</strong>. Affected dogs have a badly compromised quality of life and are frequently euthanised on humane grounds. There is no treatment, only symptomatic management of the seizures — and that is the point: this is an entirely preventable condition, and no puppy should ever be born with it.</p>
+  <p>The disease is <strong>progressive and incurable</strong>. Affected dogs live badly, and in severe cases it ends in euthanasia. There is no cure: it can only be kept under control, with drugs for the seizures and treatment set by a veterinary neurologist. And that is the point: this is an entirely preventable condition, and no puppy should ever be born with it.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
@@ -88,7 +88,7 @@ custom_content: |
     <h3>The symptoms</h3>
   <p>Hereditary cataract in this breed develops young, from one or two years of age, unlike the senile cataract of old dogs. What you see is:</p>
   <ul>
-  <li>Visible clouding of the lens — the eye looks veiled or whitish</li>
+  <li>Visible clouding of the lens: the eye looks veiled or whitish</li>
   <li>Progressively failing sight</li>
   <li>The dog bumping into things, or hesitating in poor light</li>
   <li>Complete blindness in advanced cases</li>
@@ -101,7 +101,7 @@ custom_content: |
 
   <p><strong>Degenerative myelopathy</strong> is a disease of the spinal cord that appears late in life, usually after eight years of age. It starts with an unsteady gait in the hind legs and gets progressively worse until paralysis, over a few months to a couple of years. There is no cure. The main mutation, in exon 2 of the <strong>SOD1</strong> gene, was described in 2009 and is found in many breeds. It is inherited recessively: the risk concerns dogs that carry two copies, although not all of them fall ill. Precisely because it shows so late, an at-risk dog may already have had several litters before the first signs appear: a DNA test is the only way to know in time. An N/N result, or "wild type homozygous", means the dog does not carry the mutation and cannot pass it on.</p>
 
-  <p>Here the SOD1 test is N/N, meaning clear, for our two active breeding females, Bilquis and Croi Olc, and for Nora: the reports, with the microchip number, are on the <a href="/en/females-staffordshire-bull-terrier/" title="Female Staffordshire Bull Terriers">females page</a>.</p>
+  <p>Our dogs are clear of degenerative myelopathy too: the SOD1 test is N/N. The reports, with the microchip number, are on the <a href="/en/females-staffordshire-bull-terrier/" title="Female Staffordshire Bull Terriers">females page</a>.</p>
 
   <p class="fonti">Sources: <a href="https://www.pnas.org/doi/10.1073/pnas.0812297106" target="_blank" rel="noopener" title="Awano et al., PNAS 2009" aria-label="Awano et al., PNAS 2009 (opens in a new tab)">Awano et al., PNAS 2009</a>; <a href="https://vgl.ucdavis.edu/test/degenerative-myelopathy" target="_blank" rel="noopener" title="UC Davis Veterinary Genetics Laboratory" aria-label="UC Davis Veterinary Genetics Laboratory (opens in a new tab)">UC Davis Veterinary Genetics Laboratory</a>; <a href="https://omia.org/OMIA001371/9615/" target="_blank" rel="noopener" title="OMIA 001371-9615" aria-label="OMIA, L-2-HGA in the dog (opens in a new tab)">OMIA, L-2-HGA in the dog</a>; <a href="https://omia.org/OMIA001758/9615/" target="_blank" rel="noopener" title="OMIA 001758-9615" aria-label="OMIA, HSF4 hereditary cataract (opens in a new tab)">OMIA, HSF4 hereditary cataract</a> (mode of inheritance).</p>
   <!--/BLOCCO:5-->
@@ -109,16 +109,16 @@ custom_content: |
   <!--BLOCCO:6-->
   <h2>How the tests work</h2>
   <p>The tests are DNA based and straightforward. A cheek swab or a small blood sample is taken, ideally by the veterinarian who also verifies the dog's microchip so that the sample is unambiguously linked to that animal, and sent to an accredited laboratory. The result arrives within 2 to 4 weeks and is valid for life: the DNA does not change, so a dog is tested once and never again.</p>
-  <p>Costs vary by laboratory and country, but for both tests together expect something in the region of around 120 euros for the genetic panel at the laboratory, rising to roughly 400 per dog once you add the veterinary sampling, the shipping and, on brood bitches, the degenerative myelopathy (SOD1) test. Compared with the cost of a lifetime of anticonvulsants, or of cataract surgery, or of the grief of a family, it is a trivial figure. It is also the reason no serious breeder considers it a discretionary expense.</p>
+  <p>Costs vary by laboratory and country, but for both tests together expect something in the region of around 120 euros for the genetic panel at the laboratory, rising to roughly 400 per dog once you add the veterinary sampling, the shipping and the degenerative myelopathy (SOD1) test. Compared with the cost of a lifetime of anticonvulsants, or of cataract surgery, or of the grief of a family, it is a trivial figure. It is also the reason no serious breeder considers it a discretionary expense.</p>
 
     <h3>Where the testing is done</h3>
-  <p>The test for L2-HGA and hereditary cataract is recognised internationally: the <a href="https://www.thekennelclub.org.uk/health-and-dog-care/health/health-and-care/az-of-health-and-care-issues/dna-testing-schemes/" target="_blank" rel="noopener" title="Kennel Club DNA testing schemes" aria-label="UK Kennel Club – Kennel Club DNA testing schemes (opens in a new tab)">UK Kennel Club</a> includes it in its official schemes, which is why a report from an accredited laboratory is valid anywhere in Europe.</p>
+  <p>The test for L2-HGA and hereditary cataract is recognised internationally: the <a href="https://www.thekennelclub.org.uk/health-and-dog-care/health/health-and-care/az-of-health-and-care-issues/dna-testing-schemes/" target="_blank" rel="noopener" title="Kennel Club DNA testing schemes" aria-label="UK Kennel Club – Kennel Club DNA testing schemes (opens in a new tab)">UK Kennel Club</a> includes it in its official schemes for the Staffy, and a report from an accredited laboratory is valid all over Europe.</p>
   <figure class="article-image img-right">
   <img src="/images/Lothar-e-Arianna.webp" alt="Staffordshire Bull Terrier with healthy eyes" loading="lazy" decoding="async" width="280" height="350">
   <figcaption>A Staffy with healthy eyes</figcaption>
   </figure>
-  <p>The main laboratories carrying out these tests are the <strong>Animal Health Trust</strong> in the UK, which developed both of them and is now part of The Kennel Club; <strong>Laboklin</strong>, the German laboratory that also operates in Italy; <strong>Optigen</strong> in the United States, specialised in eye conditions; and <strong>Embark</strong>, whose broad panel includes L2-HGA and HC.</p>
-  <p>The sample is a cheek swab or a blood draw taken by a vet, sent to the laboratory, and the certificate comes back with the dog's microchip number on it. That number is what ties the result to a specific animal — a certificate without one proves nothing about the dog in front of you.</p>
+  <p>Laboratories that run these tests include <strong>Genefast</strong>, an Italian laboratory, which issued the reports for Bilquis, Nora and Minnie; <strong>Antagene</strong>, a French laboratory, which issued the report for Quash, Black Jack's sire; and <strong>Laboklin</strong>, a German laboratory widely used in Italy too.</p>
+  <p>The sample is a cheek swab or a blood draw taken by a vet, sent to the laboratory, and the certificate comes back with the dog's microchip number on it. That number is what ties the result to a specific animal: a certificate without one proves nothing about the dog in front of you.</p>
   <!--/BLOCCO:6-->
 
   <h2>Reading the results</h2>
@@ -146,7 +146,7 @@ custom_content: |
   <tbody>
   <tr><td>CLEAR × CLEAR</td><td>100% clear</td><td>0%</td><td>Yes</td></tr>
   <tr><td>CLEAR × CARRIER</td><td>50% clear, 50% carrier</td><td>0%</td><td>⚠️ No affected puppies, but half the litter stays carrier</td></tr>
-  <tr><td>CLEAR × AFFECTED</td><td>100% carrier</td><td>0%</td><td>❌ No — the whole litter is born carrier</td></tr>
+  <tr><td>CLEAR × AFFECTED</td><td>100% carrier</td><td>0%</td><td>❌ No, the whole litter is born carrier</td></tr>
   <tr><td>CARRIER × CARRIER</td><td>25% clear, 50% carrier</td><td><strong>25% affected</strong></td><td>No</td></tr>
   </tbody>
   </table>
@@ -212,7 +212,7 @@ custom_content: |
   </thead>
   <tbody>
   <tr><td>L2HGA + HC laboratory panel</td><td>Breeder</td><td>Once per dog</td><td>around €120 per dog</td></tr>
-  <tr><td>Sampling, shipping and the SOD1 test on brood bitches</td><td>Breeder</td><td>Once per dog</td><td>the rest of the outlay</td></tr>
+  <tr><td>Sampling, shipping and the SOD1 test</td><td>Breeder</td><td>Once per dog</td><td>the rest of the outlay</td></tr>
   <tr><td><strong>Total per dog</strong></td><td>Breeder</td><td>Once per dog</td><td><strong>around €400</strong></td></tr>
   <tr><td>Anti-epileptic drugs for a dog with L2-HGA</td><td>Family</td><td>For the dog's whole life</td><td>€200–400 a month</td></tr>
   <tr><td>Neurological appointments and daily management</td><td>Family</td><td>Recurring, often until early euthanasia</td><td>variable</td></tr>
@@ -220,7 +220,7 @@ custom_content: |
   </tbody>
   </table>
 
-  <p>These are not two comparable expenses. Eight hundred euros spent once before a mating sits opposite a monthly cost that lasts as long as the dog does.</p>
+  <p>These are not two comparable expenses. Four hundred euros per dog, spent once, sits opposite a monthly cost that lasts as long as the dog does.</p>
   <!--/BLOCCO:10-->
 
   <!--BLOCCO:11-->
@@ -233,17 +233,17 @@ custom_content: |
 
   <div class="faq-item">
   <h3>How much do the L2-HGA and HC tests cost?</h3>
-  <div class="faq-answer">The laboratory charges around 120 euros for the package covering L2-HGA and hereditary cataract, but the real cost to a breeder is higher: add the vet's sampling, shipping, and, on brood bitches, the degenerative myelopathy (SOD1) test. Around 400 euros per dog is realistic. That figure should be read correctly, though: it is a <strong>one-off</strong>, because DNA does not change and the report stands for the dog's entire breeding career. Spread across two or three litters it becomes a minor line in the cost of a puppy. A breeder who skips the tests is not saving on the litter: they are shifting a risk onto the families who take those puppies.</div>
+  <div class="faq-answer">The laboratory charges around 120 euros for the package covering L2-HGA and hereditary cataract, but the real cost to a breeder is higher: add the vet's sampling, shipping, and the degenerative myelopathy (SOD1) test. Around 400 euros per dog is realistic. That figure should be read correctly, though: it is a <strong>one-off</strong>, because DNA does not change and the report stands for the dog's entire breeding career. Spread across two or three litters it becomes a minor line in the cost of a puppy. A breeder who skips the tests is not saving on the litter: they are shifting a risk onto the families who take those puppies.</div>
   </div>
 
   <div class="faq-item">
   <h3>Does the test need repeating every year?</h3>
-  <div class="faq-answer">No, never. The test reads the dog's DNA, which does not change over its lifetime: a dog that came back clear at six months is still clear at ten years. The report is definitive and covers the whole breeding career. This applies to the genetic tests proper &mdash; L2-HGA, hereditary cataract and degenerative myelopathy &mdash; but not to the <strong>ECVO eye examination</strong>, which is not a DNA test but a clinical examination: it records the state of the eye at that moment, and the official certificate is valid for one year, so on a breeding dog it should be repeated every year. That is why a serious kennel relies on DNA tests, which are done once and never expire. One thing not to confuse with either is clearance by parentage, which is not a test performed on the dog but an inference from its parents.</div>
+  <div class="faq-answer">No, never. The test reads the dog's DNA, which does not change over its lifetime: a dog that came back clear at six months is still clear at ten years. The report is definitive and covers the whole breeding career. This applies to the genetic tests proper (L2-HGA, hereditary cataract and degenerative myelopathy), but not to the <strong>ECVO eye examination</strong>, which is not a DNA test but a clinical examination: it records the state of the eye at that moment, and the official certificate is valid for one year, so on a breeding dog it should be repeated every year. That is why a serious kennel relies on DNA tests, which are done once and never expire. One thing not to confuse with either is clearance by parentage, which is not a test performed on the dog but an inference from its parents.</div>
   </div>
 
   <div class="faq-item">
   <h3>Can I test a puppy I have just brought home?</h3>
-  <div class="faq-answer">Yes, the test can be done at any age, even at a few weeks, since a saliva swab or blood sample is enough. But if the puppy comes from a serious breeder it is not needed: you should already have both parents' reports, and from those the puppy's status follows. If both parents are clear, the puppy is clear by parentage and cannot be affected. Direct testing makes sense in three cases: if the parents' reports are missing or carry no microchip number, if the puppy will one day be bred &mdash; because clearance by parentage covers health but is not enough for planning a mating &mdash; or if symptoms appear that the vet wants to rule out.</div>
+  <div class="faq-answer">Yes, the test can be done at any age, even at a few weeks, since a saliva swab or blood sample is enough. But if the puppy comes from a serious breeder it is not needed: you should already have both parents' reports, and from those the puppy's status follows. If both parents are clear, the puppy is clear by parentage and cannot be affected. Direct testing makes sense in three cases: if the parents' reports are missing or carry no microchip number, if the puppy will one day be bred (because clearance by parentage covers health but is not enough for planning a mating), or if symptoms appear that the vet wants to rule out.</div>
   </div>
 
   <div class="faq-item">
@@ -258,13 +258,13 @@ custom_content: |
 
   <div class="faq-item">
   <h3>Do L2-HGA and HC exist only in the Staffy?</h3>
-  <div class="faq-answer">Not exclusively, but almost. L2-HGA has been identified and studied above all in the Staffordshire Bull Terrier, where the mutation was isolated and the test developed; sporadic cases have been described in other breeds, including the West Highland White Terrier. Juvenile hereditary cataract in the form linked to this mutation affects the Staffy and the Boston Terrier. The fact that these are breed conditions is not a sentence: it is the reason a specific test exists, which for many other hereditary diseases is not the case. A breed with two testable conditions and a breeder who tests for them is in a better position than a breed with ten known problems and no test available.
+  <div class="faq-answer">Not exclusively, but almost. L2-HGA has been identified and studied above all in the Staffordshire Bull Terrier, where the mutation was isolated and the test developed; sporadic cases have been described in other breeds, including the West Highland White Terrier. Juvenile hereditary cataract in the form linked to this mutation affects the Staffy and the Boston Terrier. The fact that these are breed conditions is not a sentence: it is the reason a specific test exists, which for many other hereditary diseases is not the case. A breed with few hereditary diseases, all of them testable, and a breeder who tests for them is in a better position than a breed with ten known problems and no test available.
   </div>
   </div>
 
   <div class="faq-item">
   <h3>Why do some breeders not test?</h3>
-  <div class="faq-answer">There are three reasons, and none of them holds up. The first is ignorance: some people do not know these conditions exist or that a test does, and this mostly concerns people who breed an occasional litter without following the breed. The second is saving money: 200 euros per dog looks like a lot to someone who sees a litter as income rather than a project, even though spread over several litters it becomes negligible. The third is the most uncomfortable: fear of the result. A beautiful dog that turns out to be a carrier can no longer be mated with another carrier, and someone who has already planned that mating would rather not know. In all three cases the risk is passed on to the families who will take the puppies.
+  <div class="faq-answer">There are three reasons, and none of them holds up. The first is ignorance: some people do not know these conditions exist or that a test does, and this mostly concerns people who breed an occasional litter without following the breed. The second is saving money: 400 euros per dog looks like a lot to someone who sees a litter as income rather than a project, even though spread over several litters it becomes negligible. The third is the most uncomfortable: fear of the result. A beautiful dog that turns out to be a carrier can no longer be mated with another carrier, and someone who has already planned that mating would rather not know. In all three cases the risk is passed on to the families who will take the puppies.
   </div>
   </div>
 

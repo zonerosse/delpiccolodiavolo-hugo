@@ -70,7 +70,7 @@ custom_content: |
   <li>Lernschwierigkeiten und Verhaltensänderungen</li>
   <li>Belastungsintoleranz</li>
   </ul>
-  <p>Die Erkrankung ist <strong>fortschreitend und unheilbar</strong>. Betroffene Hunde haben eine stark eingeschränkte Lebensqualität und werden häufig aus Tierschutzgründen eingeschläfert. Es gibt keine Behandlung, nur die symptomatische Kontrolle der Anfälle &mdash; und genau darum geht es: diese Krankheit ist vollständig vermeidbar, und kein Welpe sollte je mit ihr geboren werden.</p>
+  <p>Die Erkrankung ist <strong>fortschreitend und unheilbar</strong>. Betroffene Hunde leben schlecht, und in schweren Fällen endet es mit dem Einschläfern. Eine Heilung gibt es nicht: Man kann sie nur unter Kontrolle halten, mit Medikamenten gegen die Anfälle und einer Therapie durch einen tierärztlichen Neurologen. Und genau darum geht es: diese Krankheit ist vollständig vermeidbar, und kein Welpe sollte je mit ihr geboren werden.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
@@ -81,7 +81,7 @@ custom_content: |
     <h3>Die Symptome</h3>
   <p>Die hereditäre Katarakt dieser Rasse entwickelt sich früh, anders als der Altersstar alter Hunde. Zu sehen ist:</p>
   <ul>
-  <li>Eine sichtbare Trübung der Linse &mdash; das Auge wirkt verschleiert oder weißlich</li>
+  <li>Eine sichtbare Trübung der Linse: das Auge wirkt verschleiert oder weißlich</li>
   <li>Ein zunehmend schlechteres Sehvermögen</li>
   <li>Der Hund stößt gegen Gegenstände oder zögert bei schwachem Licht</li>
   <li>Vollständige Blindheit in fortgeschrittenen Fällen</li>
@@ -94,7 +94,7 @@ custom_content: |
 
   <p>Die <strong>degenerative Myelopathie</strong> ist eine Erkrankung des Rückenmarks, die im höheren Alter auftritt, meist nach dem achten Lebensjahr. Sie beginnt mit einem unsicheren Gang der Hinterbeine und verschlechtert sich fortschreitend bis zur Lähmung, innerhalb von einigen Monaten bis zu etwa zwei Jahren. Eine Heilung gibt es nicht. Die wichtigste Mutation, im Exon 2 des Gens <strong>SOD1</strong>, wurde 2009 beschrieben und kommt bei vielen Rassen vor. Sie wird rezessiv vererbt: Das Risiko betrifft Hunde mit zwei Kopien, auch wenn nicht alle erkranken. Gerade weil sie so spät auftritt, kann ein Risikohund schon mehrere Würfe gehabt haben, bevor die ersten Anzeichen erscheinen: Nur der DNA-Test zeigt es rechtzeitig. Ein Ergebnis N/N, oder „Wildtyp homozygot“, bedeutet, dass der Hund die Mutation nicht trägt und sie nicht weitergeben kann.</p>
 
-  <p>Bei uns ist der SOD1-Test N/N, also frei, für unsere beiden aktiven Zuchthündinnen Bilquis und Croi Olc sowie für Nora: Die Befunde mit Mikrochipnummer stehen auf der <a href="/de/huendinnen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Hündinnen">Seite der Hündinnen</a>.</p>
+  <p>Unsere Hunde sind auch frei von degenerativer Myelopathie: Der SOD1-Test ist N/N. Die Befunde mit Mikrochipnummer stehen auf der <a href="/de/huendinnen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Hündinnen">Seite der Hündinnen</a>.</p>
 
   <p class="fonti">Quellen: <a href="https://www.pnas.org/doi/10.1073/pnas.0812297106" target="_blank" rel="noopener" title="Awano et al., PNAS 2009" aria-label="Awano et al., PNAS 2009 (wird in einem neuen Tab geöffnet)">Awano et al., PNAS 2009</a>; <a href="https://vgl.ucdavis.edu/test/degenerative-myelopathy" target="_blank" rel="noopener" title="UC Davis Veterinary Genetics Laboratory" aria-label="UC Davis Veterinary Genetics Laboratory (wird in einem neuen Tab geöffnet)">UC Davis Veterinary Genetics Laboratory</a>; <a href="https://omia.org/OMIA001371/9615/" target="_blank" rel="noopener" title="OMIA 001371-9615" aria-label="OMIA, L-2-HGA beim Hund (wird in einem neuen Tab geöffnet)">OMIA, L-2-HGA beim Hund</a>; <a href="https://omia.org/OMIA001758/9615/" target="_blank" rel="noopener" title="OMIA 001758-9615" aria-label="OMIA, erblicher Katarakt HSF4 (wird in einem neuen Tab geöffnet)">OMIA, erblicher Katarakt HSF4</a> (Erbgang).</p>
   <!--/BLOCCO:5-->
@@ -102,16 +102,16 @@ custom_content: |
   <!--BLOCCO:6-->
   <h2>Wie die Tests funktionieren</h2>
   <p>Die Tests basieren auf DNA und sind unkompliziert. Ein Wangenabstrich oder eine kleine Blutprobe wird entnommen, idealerweise vom Tierarzt, der zugleich den Mikrochip des Hundes überprüft, damit die Probe eindeutig diesem Tier zugeordnet ist, und an ein akkreditiertes Labor geschickt. Das Ergebnis liegt nach 2 bis 4 Wochen vor und gilt lebenslang: die DNA verändert sich nicht, ein Hund wird einmal getestet und nie wieder.</p>
-  <p>Die Kosten unterscheiden sich je nach Labor und Land, für beide Tests zusammen sind etwa 120 Euro für das Genpaket im Labor; rechnet man Blutentnahme, Versand und bei Zuchthündinnen den Test auf degenerative Myelopathie (SOD1) hinzu, sind es rund 400 Euro pro Hund realistisch. Verglichen mit den Kosten einer lebenslangen antikonvulsiven Behandlung oder einer Kataraktoperation ist das eine unbedeutende Summe. Deshalb betrachtet kein ernsthafter Züchter diese Ausgabe als freiwillig.</p>
+  <p>Die Kosten unterscheiden sich je nach Labor und Land, für beide Tests zusammen sind etwa 120 Euro für das Genpaket im Labor; rechnet man Blutentnahme, Versand und den Test auf degenerative Myelopathie (SOD1) hinzu, sind es rund 400 Euro pro Hund realistisch. Verglichen mit den Kosten einer lebenslangen antikonvulsiven Behandlung oder einer Kataraktoperation ist das eine unbedeutende Summe. Deshalb betrachtet kein ernsthafter Züchter diese Ausgabe als freiwillig.</p>
 
     <h3>Wo getestet wird</h3>
-  <p>Der Test auf L2-HGA und erblichen Katarakt ist international anerkannt: Der britische <a href="https://www.thekennelclub.org.uk/health-and-dog-care/health/health-and-care/az-of-health-and-care-issues/dna-testing-schemes/" target="_blank" rel="noopener" title="Kennel Club DNA testing schemes" aria-label="Kennel Club, DNA-Testprogramme (wird in einem neuen Tab geöffnet)">Kennel Club</a> führt ihn in seinen offiziellen Programmen, und deshalb gilt ein Befund aus einem akkreditierten Labor überall in Europa.</p>
+  <p>Der Test auf L2-HGA und erblichen Katarakt ist international anerkannt: Der britische <a href="https://www.thekennelclub.org.uk/health-and-dog-care/health/health-and-care/az-of-health-and-care-issues/dna-testing-schemes/" target="_blank" rel="noopener" title="Kennel Club DNA testing schemes" aria-label="Kennel Club, DNA-Testprogramme (wird in einem neuen Tab geöffnet)">Kennel Club</a> führt ihn in seinen offiziellen Programmen für den Staffy, und ein Befund aus einem akkreditierten Labor gilt in ganz Europa.</p>
   <figure class="article-image img-right">
   <img src="/images/Lothar-e-Arianna.webp" alt="Staffordshire Bull Terrier mit gesunden Augen" loading="lazy" decoding="async" width="280" height="350">
   <figcaption>Ein Staffy mit gesunden Augen</figcaption>
   </figure>
-  <p>Die wichtigsten Labore für diese Tests sind der <strong>Animal Health Trust</strong> in Großbritannien, der beide Tests entwickelt hat und heute zum Kennel Club gehört; <strong>Laboklin</strong>, das deutsche Labor, das auch in Italien arbeitet; <strong>Optigen</strong> in den Vereinigten Staaten, spezialisiert auf Augenerkrankungen; und <strong>Embark</strong>, dessen breites Panel L2-HGA und HC einschließt.</p>
-  <p>Die Probe ist ein Wangenabstrich oder eine Blutentnahme durch den Tierarzt; sie geht ans Labor, und das Zertifikat kommt mit der Mikrochipnummer des Hundes zurück. Diese Nummer verbindet das Ergebnis mit einem bestimmten Tier &mdash; ein Zertifikat ohne sie beweist nichts über den Hund, der vor Ihnen steht.</p>
+  <p>Labore, die diese Tests machen, sind zum Beispiel <strong>Genefast</strong>, ein italienisches Labor, von dem die Befunde von Bilquis, Nora und Minnie stammen; <strong>Antagene</strong>, ein französisches Labor, von dem der Befund von Quash stammt, dem Vater von Black Jack; und <strong>Laboklin</strong>, ein deutsches Labor, das auch in Italien viel genutzt wird.</p>
+  <p>Die Probe ist ein Wangenabstrich oder eine Blutentnahme durch den Tierarzt; sie geht ans Labor, und das Zertifikat kommt mit der Mikrochipnummer des Hundes zurück. Diese Nummer verbindet das Ergebnis mit einem bestimmten Tier: Ein Zertifikat ohne sie beweist nichts über den Hund, der vor Ihnen steht.</p>
   <!--/BLOCCO:6-->
 
   <h2>Ergebnisse richtig lesen</h2>
@@ -139,7 +139,7 @@ custom_content: |
   <tbody>
   <tr><td>FREI × FREI</td><td>100% frei</td><td>0%</td><td>Ja</td></tr>
   <tr><td>FREI × TRÄGER</td><td>50% frei, 50% Träger</td><td>0%</td><td>⚠️ Keine kranken Welpen, aber der halbe Wurf bleibt Träger</td></tr>
-  <tr><td>FREI × BETROFFEN</td><td>100% Träger</td><td>0%</td><td>❌ Nein &mdash; der ganze Wurf ist Träger</td></tr>
+  <tr><td>FREI × BETROFFEN</td><td>100% Träger</td><td>0%</td><td>❌ Nein, der ganze Wurf ist Träger</td></tr>
   <tr><td>TRÄGER × TRÄGER</td><td>25% frei, 50% Träger</td><td><strong>25% betroffen</strong></td><td>Nein</td></tr>
   </tbody>
   </table>
@@ -205,7 +205,7 @@ custom_content: |
   </thead>
   <tbody>
   <tr><td>Laborpaket L2HGA + HC</td><td>Züchter</td><td>Einmal pro Hund</td><td>etwa 120 € pro Hund</td></tr>
-  <tr><td>Probenahme, Versand und SOD1-Test bei Zuchthündinnen</td><td>Züchter</td><td>Einmal pro Hund</td><td>der Rest der Ausgabe</td></tr>
+  <tr><td>Probenahme, Versand und SOD1-Test</td><td>Züchter</td><td>Einmal pro Hund</td><td>der Rest der Ausgabe</td></tr>
   <tr><td><strong>Summe pro Hund</strong></td><td>Züchter</td><td>Einmal pro Hund</td><td><strong>etwa 400 €</strong></td></tr>
   <tr><td>Antiepileptika für einen Hund mit L2-HGA</td><td>Familie</td><td>Das ganze Hundeleben</td><td>200–400 € im Monat</td></tr>
   <tr><td>Neurologische Termine und tägliche Betreuung</td><td>Familie</td><td>Wiederkehrend, oft bis zur frühen Einschläferung</td><td>unterschiedlich</td></tr>
@@ -213,7 +213,7 @@ custom_content: |
   </tbody>
   </table>
 
-  <p>Das sind keine vergleichbaren Ausgaben. Achthundert Euro, einmal vor einer Verpaarung ausgegeben, stehen monatlichen Kosten gegenüber, die so lange dauern wie das Leben des Hundes.</p>
+  <p>Das sind keine vergleichbaren Ausgaben. Vierhundert Euro pro Hund, einmal ausgegeben, stehen monatlichen Kosten gegenüber, die so lange dauern wie das Leben des Hundes.</p>
   <!--/BLOCCO:10-->
 
   <!--BLOCCO:11-->
@@ -226,17 +226,17 @@ custom_content: |
 
   <div class="faq-item">
   <h3>Wie viel kosten die Tests auf L2-HGA und HC?</h3>
-  <div class="faq-answer">Das Labor berechnet etwa 120 Euro für das Paket aus L2-HGA und hereditärer Katarakt, doch die tatsächlichen Kosten für einen Züchter liegen höher: hinzu kommen die Probenahme beim Tierarzt, der Versand und bei Zuchthündinnen der Test auf degenerative Myelopathie (SOD1). Rund 400 Euro pro Hund sind realistisch. Diese Zahl muss man aber richtig lesen: es sind <strong>einmalige</strong> Kosten, denn die DNA verändert sich nicht, und der Befund gilt für das ganze Zuchtleben des Hundes. Auf zwei oder drei Würfe verteilt, wird daraus ein kleiner Posten im Preis eines Welpen. Ein Züchter, der die Tests weglässt, spart nicht am Wurf: er verlagert ein Risiko auf die Familien, die diese Welpen nehmen.</div>
+  <div class="faq-answer">Das Labor berechnet etwa 120 Euro für das Paket aus L2-HGA und hereditärer Katarakt, doch die tatsächlichen Kosten für einen Züchter liegen höher: hinzu kommen die Probenahme beim Tierarzt, der Versand und der Test auf degenerative Myelopathie (SOD1). Rund 400 Euro pro Hund sind realistisch. Diese Zahl muss man aber richtig lesen: es sind <strong>einmalige</strong> Kosten, denn die DNA verändert sich nicht, und der Befund gilt für das ganze Zuchtleben des Hundes. Auf zwei oder drei Würfe verteilt, wird daraus ein kleiner Posten im Preis eines Welpen. Ein Züchter, der die Tests weglässt, spart nicht am Wurf: er verlagert ein Risiko auf die Familien, die diese Welpen nehmen.</div>
   </div>
 
   <div class="faq-item">
   <h3>Muss der Test jedes Jahr wiederholt werden?</h3>
-  <div class="faq-answer">Nein, nie. Der Test liest die DNA des Hundes, und die verändert sich im Laufe des Lebens nicht: ein Hund, der mit sechs Monaten frei war, ist es mit zehn Jahren noch. Der Befund ist endgültig und deckt das ganze Zuchtleben ab. Das gilt für die eigentlichen Gentests &mdash; L2-HGA, hereditäre Katarakt und degenerative Myelopathie &mdash;, nicht aber für die <strong>ECVO-Augenuntersuchung</strong>, die kein DNA-Test ist, sondern eine klinische Untersuchung: sie hält den Zustand des Auges in diesem Moment fest, und das offizielle Zeugnis gilt ein Jahr, bei einem Zuchthund sollte es also jährlich erneuert werden. Deshalb setzt eine seriöse Zucht auf DNA-Tests, die einmal gemacht werden und nie ablaufen. Nicht zu verwechseln ist beides mit der Freiheit durch Abstammung, die kein Test am Hund ist, sondern ein Schluss aus seinen Eltern.</div>
+  <div class="faq-answer">Nein, nie. Der Test liest die DNA des Hundes, und die verändert sich im Laufe des Lebens nicht: ein Hund, der mit sechs Monaten frei war, ist es mit zehn Jahren noch. Der Befund ist endgültig und deckt das ganze Zuchtleben ab. Das gilt für die eigentlichen Gentests (L2-HGA, hereditäre Katarakt und degenerative Myelopathie), nicht aber für die <strong>ECVO-Augenuntersuchung</strong>, die kein DNA-Test ist, sondern eine klinische Untersuchung: sie hält den Zustand des Auges in diesem Moment fest, und das offizielle Zeugnis gilt ein Jahr, bei einem Zuchthund sollte es also jährlich erneuert werden. Deshalb setzt eine seriöse Zucht auf DNA-Tests, die einmal gemacht werden und nie ablaufen. Nicht zu verwechseln ist beides mit der Freiheit durch Abstammung, die kein Test am Hund ist, sondern ein Schluss aus seinen Eltern.</div>
   </div>
 
   <div class="faq-item">
   <h3>Kann ich einen Welpen testen lassen, den ich gerade nach Hause geholt habe?</h3>
-  <div class="faq-answer">Ja, der Test ist in jedem Alter möglich, schon mit wenigen Wochen, denn ein Speichelabstrich oder eine Blutprobe genügt. Stammt der Welpe aber aus einer seriösen Zucht, ist er nicht nötig: Sie sollten die Befunde beider Eltern schon haben, und daraus ergibt sich der Status des Welpen. Sind beide Eltern frei, ist der Welpe frei durch Abstammung und kann nicht erkranken. Ein direkter Test ist in drei Fällen sinnvoll: wenn die Befunde der Eltern fehlen oder keine Mikrochipnummer tragen, wenn der Welpe eines Tages in die Zucht gehen soll &mdash; denn die Freiheit durch Abstammung sichert die Gesundheit, reicht aber nicht, um eine Verpaarung zu planen &mdash;, oder wenn Symptome auftreten, die der Tierarzt ausschließen will.</div>
+  <div class="faq-answer">Ja, der Test ist in jedem Alter möglich, schon mit wenigen Wochen, denn ein Speichelabstrich oder eine Blutprobe genügt. Stammt der Welpe aber aus einer seriösen Zucht, ist er nicht nötig: Sie sollten die Befunde beider Eltern schon haben, und daraus ergibt sich der Status des Welpen. Sind beide Eltern frei, ist der Welpe frei durch Abstammung und kann nicht erkranken. Ein direkter Test ist in drei Fällen sinnvoll: wenn die Befunde der Eltern fehlen oder keine Mikrochipnummer tragen, wenn der Welpe eines Tages in die Zucht gehen soll (denn die Freiheit durch Abstammung sichert die Gesundheit, reicht aber nicht, um eine Verpaarung zu planen), oder wenn Symptome auftreten, die der Tierarzt ausschließen will.</div>
   </div>
 
   <div class="faq-item">
@@ -251,13 +251,13 @@ custom_content: |
 
   <div class="faq-item">
   <h3>Gibt es L2-HGA und HC nur beim Staffy?</h3>
-  <div class="faq-answer">Nicht ausschließlich, aber fast. L2-HGA wurde vor allem beim Staffordshire Bull Terrier erkannt und untersucht, wo die Mutation isoliert und der Test entwickelt wurde; vereinzelte Fälle sind bei anderen Rassen beschrieben, darunter der West Highland White Terrier. Der juvenile erbliche Katarakt in der Form, die mit dieser Mutation verbunden ist, betrifft den Staffy und den Boston Terrier. Dass es sich um Rasseerkrankungen handelt, ist kein Urteil: Es ist der Grund, warum es einen spezifischen Test gibt, was bei vielen anderen Erbkrankheiten nicht der Fall ist. Eine Rasse mit zwei testbaren Erkrankungen und einer Zucht, die darauf testet, steht besser da als eine Rasse mit zehn bekannten Problemen und keinem verfügbaren Test.
+  <div class="faq-answer">Nicht ausschließlich, aber fast. L2-HGA wurde vor allem beim Staffordshire Bull Terrier erkannt und untersucht, wo die Mutation isoliert und der Test entwickelt wurde; vereinzelte Fälle sind bei anderen Rassen beschrieben, darunter der West Highland White Terrier. Der juvenile erbliche Katarakt in der Form, die mit dieser Mutation verbunden ist, betrifft den Staffy und den Boston Terrier. Dass es sich um Rasseerkrankungen handelt, ist kein Urteil: Es ist der Grund, warum es einen spezifischen Test gibt, was bei vielen anderen Erbkrankheiten nicht der Fall ist. Eine Rasse mit wenigen Erbkrankheiten, alle testbar, und einer Zucht, die darauf testet, steht besser da als eine Rasse mit zehn bekannten Problemen und keinem verfügbaren Test.
   </div>
   </div>
 
   <div class="faq-item">
   <h3>Warum testen manche Züchter nicht?</h3>
-  <div class="faq-answer">Es gibt drei Gründe, und keiner hält stand. Der erste ist Unwissen: Manche wissen nicht, dass diese Erkrankungen oder ein Test dafür existieren, und das betrifft vor allem Leute, die gelegentlich einen Wurf machen, ohne die Rasse zu verfolgen. Der zweite ist Sparen: 200 Euro pro Hund wirken viel für jemanden, der einen Wurf als Einnahme sieht und nicht als Projekt, obwohl sie auf mehrere Würfe verteilt kaum ins Gewicht fallen. Der dritte ist der unbequemste: Angst vor dem Ergebnis. Ein wunderschöner Hund, der sich als Träger herausstellt, darf nicht mehr mit einem anderen Träger verpaart werden, und wer diese Verpaarung schon geplant hat, will es lieber nicht wissen. In allen drei Fällen wird das Risiko auf die Familien abgewälzt, die die Welpen übernehmen.
+  <div class="faq-answer">Es gibt drei Gründe, und keiner hält stand. Der erste ist Unwissen: Manche wissen nicht, dass diese Erkrankungen oder ein Test dafür existieren, und das betrifft vor allem Leute, die gelegentlich einen Wurf machen, ohne die Rasse zu verfolgen. Der zweite ist Sparen: 400 Euro pro Hund wirken viel für jemanden, der einen Wurf als Einnahme sieht und nicht als Projekt, obwohl sie auf mehrere Würfe verteilt kaum ins Gewicht fallen. Der dritte ist der unbequemste: Angst vor dem Ergebnis. Ein wunderschöner Hund, der sich als Träger herausstellt, darf nicht mehr mit einem anderen Träger verpaart werden, und wer diese Verpaarung schon geplant hat, will es lieber nicht wissen. In allen drei Fällen wird das Risiko auf die Familien abgewälzt, die die Welpen übernehmen.
   </div>
   </div>
 
