@@ -10,7 +10,7 @@ thumb: "/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier
 description: "Acht Kriterien, um eine seriöse Staffordshire Bull Terrier Zucht zu erkennen, jedes mit der Art, es zu überprüfen. Mit unseren eigenen Unterlagen als Beispiel."
 slug: "wie-waehlt-man-eine-staffordshire-bull-terrier-zucht"
 date: 2026-01-18
-lastmod: 2026-09-30
+lastmod: 2026-10-17
 ---
 
 
@@ -49,11 +49,11 @@ lastmod: 2026-09-30
 <div class="section-inner content-single">
 
 
-<p>Um eine seriöse Staffordshire Bull Terrier Zucht zu erkennen, muss man niemandem vertrauen: man muss wissen, wo man nachsieht. Gentest-Befunde gelten nur, wenn sie die Mikrochipnummer des Hundes tragen, sonst lassen sie sich keinem Tier zuordnen. <a href="/de/wie-man-eine-ahnentafel-liest/" title="Ahnentafel lesen: was die ENCI zeigt und was nicht">Die Ahnen lassen sich auf SBTPedigree prüfen</a>, dem internationalen Archiv der Rasse. Wie viele Würfe eine Hündin hatte, steht im Zuchtbuch des ENCI, wiederum ausgehend vom Mikrochip. Ausstellungstitel stehen in öffentlichen Katalogen, mit dem Namen des Richters. Die Abgabe vor dem 60. Lebenstag ist in Italien gesetzlich verboten, und ins Ausland gehen Welpen später, weil sie die Tollwutimpfung brauchen. Acht Kriterien, jedes mit dem Weg, es zu prüfen: Sie gelten für die Zucht Del Piccolo Diavolo in Ostellato (Italien) genauso wie für jede andere.</p>
+<p>Um eine seriöse Staffordshire Bull Terrier Zucht zu erkennen, muss man niemandem vertrauen: man muss wissen, wo man nachsieht. Gentest-Befunde gelten nur, wenn sie die Mikrochipnummer des Hundes tragen, sonst lassen sie sich keinem Tier zuordnen. <a href="/de/wie-man-eine-ahnentafel-liest/" title="Ahnentafel lesen: was die ENCI zeigt und was nicht">Die Ahnen lassen sich auf SBTPedigree prüfen</a>, dem internationalen Archiv der Rasse. Wie viele Würfe eine Hündin hatte, steht im Zuchtbuch des ENCI, wiederum ausgehend vom Mikrochip. Ausstellungstitel stehen in öffentlichen Katalogen, mit dem Namen des Richters. Einen Welpen vor dem 60. Lebenstag von der Mutter zu trennen ist in Italien gesetzlich verboten, und ins Ausland gehen Welpen später, weil sie die Tollwutimpfung brauchen. Acht Kriterien, jedes mit dem Weg, es zu prüfen: Sie gelten für die Zucht Del Piccolo Diavolo in Ostellato (Italien) genauso wie für jede andere.</p>
 
-<p>Fast jede Zucht sagt dasselbe: getestete Hunde, Welpen im Haus aufgezogen, sorgfältige Selektion. Solche Aussagen kosten nichts, solange sie niemand prüft — und wer den ersten Welpen sucht, weiß selten, wo das Prüfen anfängt.</p>
+<p>Fast jede Zucht sagt dasselbe: getestete Hunde, Welpen im Haus aufgezogen, sorgfältige Selektion. Solche Aussagen kosten nichts, solange sie niemand prüft, und wer den ersten Welpen sucht, weiß selten, wo das Prüfen anfängt.</p>
 
-<p>Dieser Ratgeber ist umgekehrt aufgebaut. Zu jedem Kriterium steht, <strong>wie man es überprüft</strong>: was man fragt, wo man nachsieht, welches Dokument man verlangt. Und damit es nicht bei der Theorie bleibt, steht unter jedem Kriterium unser eigenes Dokument. Nehmen Sie uns als Übung und stellen Sie dieselben Fragen danach allen anderen.</p>
+<p>Dieser Ratgeber ist umgekehrt aufgebaut. Zu jedem Kriterium steht, <strong>wie man es überprüft</strong>: was man fragt, wo man nachsieht, welches Dokument man verlangt. Und unter jedem Kriterium steht unser eigenes Dokument. Nehmen Sie uns als Übung und stellen Sie dieselben Fragen danach allen anderen.</p>
 
 <h2>1. Die Gentests der Zuchttiere</h2>
 
@@ -61,7 +61,7 @@ lastmod: 2026-09-30
 
 <p><strong>Wie man es überprüft.</strong> "Sie sind getestet" genügt nicht. Verlangen Sie den Befund als PDF und prüfen Sie drei Dinge: den Namen des Labors, die Mikrochipnummer des Hundes und das Datum. Ein Befund ohne Mikrochip lässt sich keinem bestimmten Tier zuordnen. Kommt nur ein unscharfes Foto oder ein beschnittener Screenshot, bleiben Sie hartnäckig.</p>
 
-<p><strong>Unsere.</strong> Die Befunde unserer Zuchttiere stehen auf der Website, sie werden nicht auf Anfrage verschickt: <a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" aria-label="Gentest-Befund von Bilquis, PDF (wird in einem neuen Tab geöffnet)">Bilquis</a>, <a href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" aria-label="Gentest-Befund von Nora, PDF (wird in einem neuen Tab geöffnet)">Nora</a>, <a href="/docs/Minnie-GF.pdf" target="_blank" rel="noopener" aria-label="Gentest-Befund von Minnie, PDF (wird in einem neuen Tab geöffnet)">Minnie</a>. Bei fremden Hunden veröffentlichen wir den Befund, wenn der Besitzer einverstanden ist, wie bei <a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" aria-label="Gentest-Befund von Quash, PDF (wird in einem neuen Tab geöffnet)">Quash</a>, dem Vater von Black Jack; andernfalls geben wir die Angaben wieder — Labor, Referenznummer, Datum, Mikrochip und Ergebnisse.</p>
+<p><strong>Unsere.</strong> Die Befunde unserer Zuchttiere stehen auf der Website, sie werden nicht auf Anfrage verschickt: <a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" aria-label="Gentest-Befund von Bilquis, PDF (wird in einem neuen Tab geöffnet)">Bilquis</a>, <a href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" aria-label="Gentest-Befund von Nora, PDF (wird in einem neuen Tab geöffnet)">Nora</a>, <a href="/docs/Minnie-GF.pdf" target="_blank" rel="noopener" aria-label="Gentest-Befund von Minnie, PDF (wird in einem neuen Tab geöffnet)">Minnie</a>. Bei fremden Hunden veröffentlichen wir den Befund, wenn der Besitzer einverstanden ist, wie bei <a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" aria-label="Gentest-Befund von Quash, PDF (wird in einem neuen Tab geöffnet)">Quash</a>, dem Vater von Black Jack; andernfalls geben wir die Angaben wieder: Labor, Referenznummer, Datum, Mikrochip und Ergebnisse.</p>
 
 <h2>2. Frei über die Eltern oder einfach frei?</h2>
 
@@ -103,11 +103,11 @@ lastmod: 2026-09-30
 
 <p>Es gibt eine Formulierung, die viel benutzt wird und gut klingt: <strong>Vermittlung aus Liebe</strong>. Ein erwachsener Hund, der in eine Familie kommt, gratis oder fast. So gesagt klingt es gro&szlig;z&uuml;gig, und manchmal ist es das auch. Zwei Dinge lohnen aber den Blick.</p>
 
-<p><strong>Wer vermittelt wird.</strong> Fast immer H&uuml;ndinnen, und das ist kein Zufall. Eine Zucht h&auml;lt wenige R&uuml;den oder gar keine: man nutzt fremde Deckr&uuml;den, um die Linien nicht auf den einen Hund im Haus zu verengen, und weil ein R&uuml;de, den man beh&auml;lt, wirklich etwas taugen muss. Die H&uuml;ndinnen sind diejenigen, die produzieren &mdash; und damit die einzigen, die irgendwann aufh&ouml;ren.</p>
+<p><strong>Wer vermittelt wird.</strong> Fast immer H&uuml;ndinnen, und das ist kein Zufall. Eine Zucht h&auml;lt wenige R&uuml;den oder gar keine: man nutzt fremde Deckr&uuml;den, um die Linien nicht auf den einen Hund im Haus zu verengen, und weil ein R&uuml;de, den man beh&auml;lt, wirklich etwas taugen muss. Die H&uuml;ndinnen sind diejenigen, die produzieren, und damit die einzigen, die irgendwann aufh&ouml;ren.</p>
 
 <p><strong>Wann.</strong> Fast immer nach dem letzten erlaubten Wurf oder mit etwa sieben, acht Jahren: genau dann, wenn diese H&uuml;ndin aufh&ouml;rt zu produzieren. Nicht mit zwei, nicht mit vier. Genau dann.</p>
 
-<p><strong>Wie man es pr&uuml;ft, ohne jemanden zu fragen.</strong> Die Zahl der W&uuml;rfe einer H&uuml;ndin l&auml;sst sich im <a href="https://www.enci.it/libro-genealogico/libro-genealogico-on-line" target="_blank" rel="noopener" title="ENCI-Zuchtbuch" aria-label="ENCI-Zuchtbuch (wird in einem neuen Tab ge&ouml;ffnet)">ENCI-Zuchtbuch</a> nachschlagen: man braucht die Mikrochipnummer. Man muss also niemandem glauben &mdash; vorausgesetzt, der Mikrochip ist ver&ouml;ffentlicht.</p>
+<p><strong>Wie man es pr&uuml;ft, ohne jemanden zu fragen.</strong> Die Zahl der W&uuml;rfe einer H&uuml;ndin l&auml;sst sich im <a href="https://www.enci.it/libro-genealogico/libro-genealogico-on-line" target="_blank" rel="noopener" title="ENCI-Zuchtbuch" aria-label="ENCI-Zuchtbuch (wird in einem neuen Tab ge&ouml;ffnet)">ENCI-Zuchtbuch</a> nachschlagen: man braucht die Mikrochipnummer. Man muss also niemandem glauben, vorausgesetzt, der Mikrochip ist ver&ouml;ffentlicht.</p>
 
 <p>Und hier schlie&szlig;t sich das Kriterium von selbst: wer die Mikrochips seiner Zuchth&uuml;ndinnen nicht ver&ouml;ffentlicht, macht diese Pr&uuml;fung unm&ouml;glich. Es mag Gr&uuml;nde daf&uuml;r geben, aber das Ergebnis ist, dass man bei der Zahl der W&uuml;rfe nur sein Wort hat.</p>
 
@@ -121,7 +121,7 @@ lastmod: 2026-09-30
 
 <p>Ein Welpe geht mit ENCI-Ahnentafel, registriertem Mikrochip, Impfpass mit Impfungen und Daten sowie den Befunden der Eltern. Vor dem 60. Lebenstag darf er die Mutter nicht verlassen: das ist in Italien gesetzlich vorgeschrieben, keine Entscheidung des Züchters.</p>
 
-<p><strong>Wie man es überprüft.</strong> Verlangen Sie beim Besuch die Originale, keine Kopien und keine Zusagen. Prüfen Sie dann, ob die Mikrochipnummer im Impfpass mit der übereinstimmt, die Ihr eigener Tierarzt beim ersten Termin ausliest — ein Vergleich von dreißig Sekunden, den fast niemand macht.</p>
+<p><strong>Wie man es überprüft.</strong> Verlangen Sie beim Besuch die Originale, keine Kopien und keine Zusagen. Prüfen Sie dann, ob die Mikrochipnummer im Impfpass mit der übereinstimmt, die Ihr eigener Tierarzt beim ersten Termin ausliest: ein Vergleich von dreißig Sekunden, den fast niemand macht.</p>
 
 <h2>8. Die Fragen, die eine Zucht beantworten können muss</h2>
 
@@ -135,7 +135,9 @@ lastmod: 2026-09-30
 <li>Was passiert, wenn ich den Hund in zwei Jahren nicht mehr halten kann?</li>
 </ol>
 
-<p>Die letzte sagt am meisten aus. Wer wirklich züchtet, antwortet, dass der Hund zu ihm zurückkommt.</p>
+<p>Die letzte sagt am meisten aus. Wer wirklich züchtet, hat eine genaue Antwort, und meist steht sie im Vertrag: Der Hund kann immer zu ihm zurückkommen, und wenn er in eine andere Familie gehen soll, will der Züchter vorher wissen, wer das ist.</p>
+
+<p><strong>Unsere.</strong> In unserem Vertrag steht, dass der Hund in jedem Moment seines Lebens zu uns zurückkommen kann. Wenn eine Familie ihn an jemand anderen abgeben möchte, sagt sie es uns vorher und sagt uns, wer es ist, und der neue Halter unterschreibt dieselben Bedingungen.</p>
 
 <h2>Signale, die für sich allein genügen</h2>
 
@@ -160,7 +162,7 @@ lastmod: 2026-09-30
 
 <h2>Nehmen Sie uns als Übung</h2>
 
-<p>Alles oben Genannte lässt sich bei uns in einer halben Stunde überprüfen, ohne jemanden um Erlaubnis zu fragen: die Befunde stehen <a href="/de/huendinnen-staffordshire-bull-terrier/" title="Unsere Staffordshire Bull Terrier Hündinnen">auf den Seiten der Hunde</a>, die Ahnentafeln auf SBTPedigree, die Daten im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Tagebuch</a>. Finden Sie einen Widerspruch, schreiben Sie uns.</p>
+<p>Fast alle Kriterien oben lassen sich bei uns in einer halben Stunde überprüfen, ohne jemanden um Erlaubnis zu fragen: die Befunde stehen <a href="/de/huendinnen-staffordshire-bull-terrier/" title="Unsere Staffordshire Bull Terrier Hündinnen">auf den Seiten der Hunde</a>, die Ahnentafeln auf SBTPedigree, die Daten im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Tagebuch</a>. Für die Mutter und für die Fragen müssen Sie nach Ostellato kommen oder uns schreiben. Finden Sie etwas, das nicht stimmt, schreiben Sie uns.</p>
 
 <p>Nehmen Sie dann dieselbe Liste mit zu den anderen. Das ist die beste Verwendung für diese Seite.</p>
 

@@ -10,7 +10,7 @@ thumb: "/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier
 description: "Eight criteria for recognising a serious Staffordshire Bull Terrier breeder, each with the way to verify it. With our own documents as the worked example."
 slug: "how-to-choose-a-staffordshire-bull-terrier-breeder"
 date: 2026-01-18
-lastmod: 2026-10-05
+lastmod: 2026-10-17
 ---
 
 
@@ -49,11 +49,11 @@ lastmod: 2026-10-05
 <div class="section-inner content-single">
 
 
-<p>Recognising a serious Staffordshire Bull Terrier breeder does not require trusting anyone: it requires knowing where to look. Genetic test certificates are only valid if they carry the dog's microchip number, otherwise they cannot be tied to any animal. <a href="/en/how-to-read-a-pedigree/" title="How to read a pedigree: what ENCI shows and what it doesn't">Genealogies can be checked on SBTPedigree</a>, the breed's international archive. The number of litters a bitch has had is checked in the ENCI stud book, again starting from the microchip. Show titles appear in public catalogues, with the judge's name. Selling a puppy before 60 days of age is prohibited by Italian law, and puppies going abroad leave later because they need a rabies vaccination. Eight criteria, each with the way to check it: they apply to the Del Piccolo Diavolo kennel in Ostellato, Italy, as much as to any other.</p>
+<p>Recognising a serious Staffordshire Bull Terrier breeder does not require trusting anyone: it requires knowing where to look. Genetic test certificates are only valid if they carry the dog's microchip number, otherwise they cannot be tied to any animal. <a href="/en/how-to-read-a-pedigree/" title="How to read a pedigree: what ENCI shows and what it doesn't">Genealogies can be checked on SBTPedigree</a>, the breed's international archive. The number of litters a bitch has had is checked in the ENCI stud book, again starting from the microchip. Show titles appear in public catalogues, with the judge's name. Separating a puppy from its mother before 60 days of age is prohibited by Italian law, and puppies going abroad leave later because they need a rabies vaccination. Eight criteria, each with the way to check it: they apply to the Del Piccolo Diavolo kennel in Ostellato, Italy, as much as to any other.</p>
 
 <p>Nearly every kennel says the same things: tested dogs, puppies raised indoors, careful selection. Those claims cost nothing until somebody checks them, and a first-time owner rarely knows where to start checking.</p>
 
-<p>This guide is built the other way round. For each criterion you get <strong>how to verify it</strong> — what to ask, where to look, which document to insist on. And so you are not left with theory alone, under each criterion we put our own document: use us as the exercise, then put the same questions to anyone else.</p>
+<p>This guide is built the other way round. For each criterion you get <strong>how to verify it</strong>: what to ask, where to look, which document to insist on. And under each criterion we put our own document: use us as the exercise, then put the same questions to anyone else.</p>
 
 <h2>1. Genetic tests on the breeding dogs</h2>
 
@@ -61,7 +61,7 @@ lastmod: 2026-10-05
 
 <p><strong>How to verify.</strong> "They are tested" is not enough. Ask for the certificate as a PDF and check it carries three things: the laboratory's name, the dog's microchip number and the date. A certificate without a microchip cannot be tied to any particular animal. If what arrives is a blurred photo or a cropped screenshot, press for the document.</p>
 
-<p><strong>Ours.</strong> The certificates of our breeding dogs are published on the site, not sent on request: <a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" aria-label="Genetic test certificate for Bilquis, PDF (opens in a new tab)">Bilquis</a>, <a href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" aria-label="Genetic test certificate for Nora, PDF (opens in a new tab)">Nora</a>, <a href="/docs/Minnie-GF.pdf" target="_blank" rel="noopener" aria-label="Genetic test certificate for Minnie, PDF (opens in a new tab)">Minnie</a>. For dogs we do not own we publish the certificate when the owner agrees, as with <a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" aria-label="Genetic test certificate for Quash, PDF (opens in a new tab)">Quash</a>, Black Jack's sire; otherwise we report its details — laboratory, reference number, date, microchip and results.</p>
+<p><strong>Ours.</strong> The certificates of our breeding dogs are published on the site, not sent on request: <a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" aria-label="Genetic test certificate for Bilquis, PDF (opens in a new tab)">Bilquis</a>, <a href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" aria-label="Genetic test certificate for Nora, PDF (opens in a new tab)">Nora</a>, <a href="/docs/Minnie-GF.pdf" target="_blank" rel="noopener" aria-label="Genetic test certificate for Minnie, PDF (opens in a new tab)">Minnie</a>. For dogs we do not own we publish the certificate when the owner agrees, as with <a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" aria-label="Genetic test certificate for Quash, PDF (opens in a new tab)">Quash</a>, Black Jack's sire; otherwise we report its details: laboratory, reference number, date, microchip and results.</p>
 
 <h2>2. Clear by parentage, or simply clear?</h2>
 
@@ -103,11 +103,11 @@ lastmod: 2026-10-05
 
 <p>There is a phrase that gets used a lot, and it sounds good: <strong>rehoming from the heart</strong>. An adult dog placed with a family, free or nearly so. Put like that it sounds generous, and sometimes it genuinely is. But two things are worth looking at.</p>
 
-<p><strong>Who gets rehomed.</strong> Almost always females, and that is no accident. A kennel keeps few males or none: outside studs are used, both to avoid closing the lines around the one dog at home and because a male worth keeping has to be genuinely outstanding. Females are the ones who produce &mdash; and therefore the only ones who, at some point, stop.</p>
+<p><strong>Who gets rehomed.</strong> Almost always females, and that is no accident. A kennel keeps few males or none: outside studs are used, both to avoid closing the lines around the one dog at home and because a male worth keeping has to be genuinely outstanding. Females are the ones who produce, and therefore the only ones who, at some point, stop.</p>
 
 <p><strong>When.</strong> Almost always after the last permitted litter, or around seven or eight years of age: exactly when that female stops producing. Not at two, not at four. Right then.</p>
 
-<p><strong>How to check, without asking anyone.</strong> The number of litters a bitch has had can be looked up in the <a href="https://www.enci.it/libro-genealogico/libro-genealogico-on-line" target="_blank" rel="noopener" title="ENCI stud book" aria-label="ENCI stud book (opens in a new tab)">ENCI stud book</a>: you need the microchip number. You do not have to take anyone's word for it &mdash; provided the microchip is public.</p>
+<p><strong>How to check, without asking anyone.</strong> The number of litters a bitch has had can be looked up in the <a href="https://www.enci.it/libro-genealogico/libro-genealogico-on-line" target="_blank" rel="noopener" title="ENCI stud book" aria-label="ENCI stud book (opens in a new tab)">ENCI stud book</a>: you need the microchip number. You do not have to take anyone's word for it, provided the microchip is public.</p>
 
 <p>And this is where the criterion closes itself: a breeder who does not publish the microchips of their brood bitches makes that check impossible. They may have their reasons, but the result is that on the number of litters you have only their word.</p>
 
@@ -135,7 +135,9 @@ lastmod: 2026-10-05
 <li>What happens if in two years I can no longer keep the dog?</li>
 </ol>
 
-<p>The last one tells you the most. Anyone who truly breeds will answer that the dog comes back to them.</p>
+<p>The last one tells you the most. Anyone who truly breeds has a precise answer, usually written in the contract: the dog can always come back to them, and if it has to go to another family, they want to know who it is first.</p>
+
+<p><strong>Ours.</strong> Our contract says the dog can come back to us at any point in its life. If a family wants to pass it on to someone else, they tell us first and tell us who it is, and the new owner signs the same conditions.</p>
 
 <h2>Signals that settle it on their own</h2>
 
@@ -160,7 +162,7 @@ lastmod: 2026-10-05
 
 <h2>Use us as the exercise</h2>
 
-<p>Everything above can be verified on us in half an hour, without asking anyone's permission: the certificates are <a href="/en/females-staffordshire-bull-terrier/" title="Our Staffordshire Bull Terrier females">on the pages of our dogs</a>, the genealogies on SBTPedigree, the dates in the <a href="/en/diario-allevamento/" title="Breeding diary">diary</a>. If you find an inconsistency, tell us.</p>
+<p>Almost all the criteria above can be checked on us in half an hour, without asking anyone's permission: the certificates are <a href="/en/females-staffordshire-bull-terrier/" title="Our Staffordshire Bull Terrier females">on the pages of our dogs</a>, the genealogies on SBTPedigree, the dates in the <a href="/en/diario-allevamento/" title="Breeding diary">diary</a>. For the mother and for the questions, you need to come to Ostellato or write to us. If you find something that does not add up, tell us.</p>
 
 <p>Then take the same list to the others. That is the best use for this page.</p>
 

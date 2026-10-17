@@ -10,7 +10,7 @@ thumb: "/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier
 description: "Otto criteri per riconoscere un allevamento Staffordshire Bull Terrier serio, ognuno con il modo di verificarlo. Con i nostri documenti come esempio."
 slug: "come-scegliere-allevamento-staffordshire-bull-terrier"
 date: 2026-01-18
-lastmod: 2026-09-30
+lastmod: 2026-10-17
 ---
 
 
@@ -49,11 +49,11 @@ lastmod: 2026-09-30
 <div class="section-inner content-single">
 
 
-<p>Riconoscere un allevamento serio di Staffordshire Bull Terrier non richiede di fidarsi di nessuno: richiede di sapere dove guardare. I referti dei test genetici valgono solo se riportano il numero di microchip del cane, altrimenti non sono collegabili a nessun animale. <a href="/come-si-legge-un-pedigree/" title="Come si legge un pedigree">Le genealogie si consultano su SBTPedigree</a>, l'archivio internazionale della razza. Il numero di cucciolate di una femmina si controlla sul libro genealogico ENCI, sempre partendo dal microchip. I titoli in esposizione risultano dai cataloghi pubblici, con il nome del giudice. La cessione prima dei 60 giorni è vietata dalla legge italiana, e per l'estero i tempi si allungano perché serve l'antirabbica. Otto criteri, e per ognuno il modo di verificarlo: valgono sull'allevamento Del Piccolo Diavolo di Ostellato (FE) come su qualunque altro.</p>
+<p>Riconoscere un allevamento serio di Staffordshire Bull Terrier non richiede di fidarsi di nessuno: richiede di sapere dove guardare. I referti dei test genetici valgono solo se riportano il numero di microchip del cane, altrimenti non sono collegabili a nessun animale. <a href="/come-si-legge-un-pedigree/" title="Come si legge un pedigree">Le genealogie si consultano su SBTPedigree</a>, l'archivio internazionale della razza. Il numero di cucciolate di una femmina si controlla sul libro genealogico ENCI, sempre partendo dal microchip. I titoli in esposizione risultano dai cataloghi pubblici, con il nome del giudice. Separare un cucciolo dalla madre prima dei 60 giorni è vietato dalla legge italiana, e per l'estero i tempi si allungano perché serve l'antirabbica. Otto criteri, e per ognuno il modo di verificarlo: valgono sull'allevamento Del Piccolo Diavolo di Ostellato (FE) come su qualunque altro.</p>
 
 <p>Quasi tutti gli allevamenti dicono le stesse cose: cani testati, cuccioli cresciuti in casa, selezione attenta. Sono affermazioni gratuite finché nessuno le controlla, e chi cerca il primo cucciolo raramente sa da dove cominciare a controllare.</p>
 
-<p>Questa guida sugli allevamenti di Staffordshire Bull Terrier è fatta al contrario delle solite. Per ogni criterio trovi <strong>come si verifica</strong> — cosa chiedere, dove guardare, quale documento pretendere. E per non lasciarti solo con la teoria, sotto ogni criterio mettiamo il nostro documento: puoi usarci come esercizio e poi fare le stesse domande a chiunque altro.</p>
+<p>Questa guida sugli allevamenti di Staffordshire Bull Terrier è fatta al contrario delle solite. Per ogni criterio trovi <strong>come si verifica</strong>: cosa chiedere, dove guardare, quale documento pretendere. E sotto ogni criterio mettiamo il nostro documento: puoi usarci come esercizio e poi fare le stesse domande a chiunque altro.</p>
 
 <h2>1. I test genetici dei riproduttori</h2>
 
@@ -61,7 +61,7 @@ lastmod: 2026-09-30
 
 <p><strong>Come si verificano i test genetici.</strong> Non basta sentirsi dire "sono testati". Chiedi il referto in PDF e controlla che contenga tre cose: il nome del laboratorio, il numero di microchip del cane e la data. Un referto senza microchip non è collegabile a nessun animale in particolare. Se ti arriva una foto sgranata o uno screenshot ritagliato, insisti.</p>
 
-<p><strong>Il nostro.</strong> I referti dei riproduttori sono pubblicati sul sito, non inviati su richiesta: <a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" aria-label="Referto dei test genetici di Bilquis, PDF (si apre in una nuova scheda)">Bilquis</a>, <a href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" aria-label="Referto dei test genetici di Nora, PDF (si apre in una nuova scheda)">Nora</a>, <a href="/docs/Minnie-GF.pdf" target="_blank" rel="noopener" aria-label="Referto dei test genetici di Minnie, PDF (si apre in una nuova scheda)">Minnie</a>. Per i cani esterni pubblichiamo il referto quando il proprietario acconsente, come per <a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" aria-label="Referto dei test genetici di Quash, PDF (si apre in una nuova scheda)">Quash</a>, padre di Black Jack; altrimenti ne riportiamo i dati — laboratorio, numero, data, microchip ed esiti.</p>
+<p><strong>Il nostro.</strong> I referti dei riproduttori sono pubblicati sul sito, non inviati su richiesta: <a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" aria-label="Referto dei test genetici di Bilquis, PDF (si apre in una nuova scheda)">Bilquis</a>, <a href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" aria-label="Referto dei test genetici di Nora, PDF (si apre in una nuova scheda)">Nora</a>, <a href="/docs/Minnie-GF.pdf" target="_blank" rel="noopener" aria-label="Referto dei test genetici di Minnie, PDF (si apre in una nuova scheda)">Minnie</a>. Per i cani esterni pubblichiamo il referto quando il proprietario acconsente, come per <a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" aria-label="Referto dei test genetici di Quash, PDF (si apre in una nuova scheda)">Quash</a>, padre di Black Jack; altrimenti ne riportiamo i dati: laboratorio, numero, data, microchip ed esiti.</p>
 
 <h2>2. Esente per discendenza, o esente e basta?</h2>
 
@@ -107,7 +107,7 @@ lastmod: 2026-09-30
 
 <p><strong>Quando.</strong> Quasi sempre dopo l'ultima cucciolata consentita, o intorno ai sette-otto anni: esattamente nel momento in cui quella femmina smette di produrre. Non a due anni, non a quattro. Proprio l&igrave;.</p>
 
-<p><strong>Come si verifica, senza chiedere niente a nessuno.</strong> Il numero di cucciolate di una femmina si consulta sul <a href="https://www.enci.it/libro-genealogico/libro-genealogico-on-line" target="_blank" rel="noopener" title="Libro genealogico ENCI" aria-label="Libro genealogico ENCI (si apre in una nuova scheda)">libro genealogico ENCI</a>: serve il numero di microchip. Non devi fidarti di quello che ti dicono, puoi controllare &mdash; a patto che il microchip sia pubblico.</p>
+<p><strong>Come si verifica, senza chiedere niente a nessuno.</strong> Il numero di cucciolate di una femmina si consulta sul <a href="https://www.enci.it/libro-genealogico/libro-genealogico-on-line" target="_blank" rel="noopener" title="Libro genealogico ENCI" aria-label="Libro genealogico ENCI (si apre in una nuova scheda)">libro genealogico ENCI</a>: serve il numero di microchip. Non devi fidarti di quello che ti dicono, puoi controllare, a patto che il microchip sia pubblico.</p>
 
 <p>Ed &egrave; qui che il criterio sulle fattrici si chiude da solo: un allevamento che non pubblica i microchip delle proprie fattrici rende quel controllo impossibile. Pu&ograve; avere ragioni sue, ma il risultato &egrave; che sul numero di cucciolate hai soltanto la sua parola.</p>
 
@@ -135,7 +135,9 @@ lastmod: 2026-09-30
 <li>Cosa succede se fra due anni non riesco più a tenere il cane?</li>
 </ol>
 
-<p>L'ultima è la più rivelatrice. Chi alleva davvero risponde che il cane torna da lui.</p>
+<p>L'ultima è la più rivelatrice. Chi alleva davvero ha una risposta precisa, e di solito è scritta nel contratto: il cane può sempre tornare da lui, e se deve andare a un'altra famiglia, prima vuole sapere chi è.</p>
+
+<p><strong>Il nostro.</strong> Nel nostro contratto è scritto che il cane può tornare da noi in qualsiasi momento della sua vita. Se una famiglia vuole darlo a qualcun altro, prima ce lo dice e ci dice chi è, e chi lo prende firma le stesse condizioni.</p>
 
 <h2>I segnali che valgono da soli</h2>
 
@@ -160,7 +162,7 @@ lastmod: 2026-09-30
 
 <h2>Usaci come esercizio</h2>
 
-<p>Tutti e otto i criteri elencati qui sopra sono verificabili su Del Piccolo Diavolo in mezz'ora, senza chiedere niente a nessuno: i referti stanno <a href="/femmine-staffordshire-bull-terrier/" title="Le nostre femmine Staffordshire Bull Terrier">nelle pagine dei cani</a>, le genealogie su SBTPedigree, le date nel <a href="/diario-allevamento/" title="Diario dell'allevamento">diario</a>. Se trovi un'incongruenza, scrivicelo.</p>
+<p>Quasi tutti i criteri elencati qui sopra si verificano su Del Piccolo Diavolo in mezz'ora, senza chiedere niente a nessuno: i referti stanno <a href="/femmine-staffordshire-bull-terrier/" title="Le nostre femmine Staffordshire Bull Terrier">nelle pagine dei cani</a>, le genealogie su SBTPedigree, le date nel <a href="/diario-allevamento/" title="Diario dell'allevamento">diario</a>. Per la madre e per le domande, invece, devi venire a Ostellato o scriverci. Se trovi qualcosa che non torna, dimmelo.</p>
 
 <p>Poi prendi la stessa lista e provala con gli altri. È il modo migliore di usare questa pagina.</p>
 
