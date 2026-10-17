@@ -375,3 +375,4 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .notte-pagina .blog-card-body{padding:0!important}
 .notte-pagina .blog-card h3{font-size:1.25rem!important;margin:.3rem 0 .4rem!important}
 @media(max-width:600px){.notte-pagina .blog-card{grid-template-columns:72px 1fr;column-gap:1rem}.notte-pagina .blog-card-thumb,.notte-pagina .blog-card-thumb img{width:72px!important;height:72px!important}}
+.notte-pagina .faq-q a,.notte-pagina .n-faq h3 a{text-decoration:underline;text-underline-offset:2px}
