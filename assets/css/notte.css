@@ -336,3 +336,7 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 @media(max-width:767px){.notte-pagina .diario-card{grid-template-columns:1fr;grid-template-areas:"d" "i" "c";row-gap:1rem}
 .notte-pagina .diario-intro{display:block}.notte-pagina .diario-intro>h2+*{padding-top:0;border-top:0}.notte-pagina .diario-intro>h2{margin:2rem 0 1rem}}
 @media(min-width:768px){.notte-pagina .diario-intro{column-gap:0}.notte-pagina .diario-intro>h2~*:not(h2):not(.fonti){padding-left:3rem}.notte-pagina .diario-intro>h2~ul{padding-left:4.4rem}}
+/* Contatti: righe delle città con i colori Notte (17/10/2026) */
+.notte-pagina .zone-row{background:var(--n-card)!important;border:1px solid var(--n-ln)!important;box-shadow:none!important}
+.notte-pagina .zone-name{color:var(--n-go)!important}
+.notte-pagina .zone-city{background:transparent!important;border:1px solid var(--n-ln)!important;color:var(--n-cr)!important}
