@@ -4,7 +4,7 @@ lastmod: 2026-10-17
 articolo: true
 titleSeo: "Wurf Bilquis × Black Jack, August 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
-description: "Geboren am 1. August 2026: 8 Staffordshire Bull Terrier Welpen von Bilquis Goddess Diabhal, Italienische Championin ENCI, und Black Jack. Gentests der Eltern."
+description: "Geboren am 1. August 2026: Staffordshire Bull Terrier Welpen von Bilquis Goddess Diabhal, Italienische Championin ENCI, und Black Jack. Gentests der Eltern."
 video:
   - id: "rm1fY0_P6I8"
     nome: "Staffordshire Bull Terrier Welpe mit 30 Tagen"
