@@ -2,7 +2,7 @@
 title: "Puppies: mental games"
 date: 2025-08-03
 titleSeo: "Mental games for Staffordshire Bull Terrier puppies"
-lastmod: 2026-10-05
+lastmod: 2026-10-17
 translationKey: "giochi-mentali"
 articolo: true
 image: "/images/blog/cuccioli-3.webp"
@@ -33,8 +33,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Sniffing Games</span><span>Food Puzzles</span><span>Self-Control</span><span>Enrichment</span><span>Calming Activities</span><span>Age-Appropriate</span>
-  <span>Sniffing Games</span><span>Food Puzzles</span><span>Self-Control</span><span>Enrichment</span><span>Calming Activities</span><span>Age-Appropriate</span>
+  <span>Sniffing games</span><span>Food puzzles</span><span>Self-control</span><span>Enrichment</span><span>Calming activities</span><span>Age-appropriate</span>
+  <span>Sniffing games</span><span>Food puzzles</span><span>Self-control</span><span>Enrichment</span><span>Calming activities</span><span>Age-appropriate</span>
   </div>
   </div>
 
@@ -48,14 +48,14 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>Mental work tires a Staffordshire Bull Terrier puppy more than physical exercise does, and without any load on growing joints. Ten to fifteen minutes of genuine problem-solving leaves a puppy more tired than twice as long spent walking, which matters in a breed limited to about five minutes of walking per month of age until the growth plates close. The simplest change costs nothing: stop feeding from a bowl and use the daily ration for sniffing games, food puzzles and short training sessions. Nose work is the most valuable activity of all. A puppy that learns to try, fail and try again builds persistence and frustration tolerance; a bored one spends its energy on skirting boards and shoes. Avoid anything hard enough to break a tooth, and repetitive ball throwing that only winds the puppy up. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>Mental work tires a Staffordshire Bull Terrier puppy more than physical exercise does, and without any load on growing joints. Ten to fifteen minutes of games for the head tire a puppy more than a long walk, which matters in a breed limited to about five minutes of walking per month of age until the growth plates close. The simplest change costs nothing: stop feeding from a bowl and use the daily ration for sniffing games, food puzzles and short training sessions. Nose work is the most valuable activity of all. A puppy that learns to try, fail and try again builds persistence and frustration tolerance; a bored one spends its energy on skirting boards and shoes. Avoid anything hard enough to break a tooth, and repetitive ball throwing that only winds the puppy up. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
 
 
   <!--BLOCCO:2-->
   <h2>Why mental work matters as much as exercise</h2>
   <p>A Staffordshire Bull Terrier puppy that is physically tired but mentally idle is not a tired puppy. It is a puppy with energy it has no use for, which it will spend on your skirting boards, your shoes and your patience.</p>
-  <p>10 to 15 minutes of genuine problem-solving tires a puppy more thoroughly than twice as long spent walking, and it does so without any load on growing joints. For a breed with a five-minute-per-month walking limit until the growth plates close, that is not a minor advantage: mental work is how you meet a puppy's needs without damaging it.</p>
+  <p>10 to 15 minutes of games for the head tire a puppy more thoroughly than a long walk, and it does so without any load on growing joints. For a breed with a five-minute-per-month walking limit until the growth plates close, that is not a minor advantage: mental work is how you meet a puppy's needs without damaging it.</p>
   <p>There is a second benefit that matters later. A puppy that learns to try things, fail, and try again develops persistence and frustration tolerance. A puppy that has never had to solve anything gives up quickly and gets loud instead.</p>
   <p>Mental games are training too, and the same rules apply. The <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="American Veterinary Society of Animal Behavior – AVSAB position statements (opens in a new tab)">American Veterinary Society of Animal Behavior</a> recommends reward-based methods for all training: you show the puppy what to do and reward it when it succeeds, rather than correcting it when it gets things wrong.</p>
   <!--/BLOCCO:2-->
@@ -70,7 +70,7 @@ custom_content: |
   <h2>Nose work, the highest value activity</h2>
   <p>Scenting engages more of a dog's brain than anything else it does, and it is the single most effective way to tire this breed. It also requires no equipment and no space.</p>
   <p>Begin with a treat under one of three plastic cups, in full view, and let the puppy work it out. Progress to hiding treats around a room while the puppy waits in another, then to hiding them in the garden. Within a few weeks most puppies will search a whole room systematically, and a twenty-minute session leaves them genuinely satisfied.</p>
-  <p>Name the behaviour once it is reliable — a simple cue like "find it" — and you have an activity you can use for the rest of the dog's life, in a hotel room, on a rainy day, or when the dog is convalescing.</p>
+  <p>Name the behaviour once it is reliable, with a simple cue like "find it", and you have an activity you can use for the rest of the dog's life, in a hotel room, on a rainy day, or when the dog is convalescing.</p>
   <!--/BLOCCO:4-->
 
   <!--BLOCCO:5-->
@@ -81,7 +81,7 @@ custom_content: |
 
   <!--BLOCCO:6-->
   <h2>Toys and what to avoid</h2>
-  <p>Rotate toys rather than leaving them all out: five toys available at once become background furniture, while five toys rotated weekly stay interesting. Rubber toys that can be stuffed, puzzle feeders of increasing difficulty, snuffle mats and rope toys used under supervision all earn their place.</p>
+  <p>Rotate toys rather than leaving them all out: five toys available at once become background furniture, while five toys rotated weekly stay interesting. Rubber toys that can be stuffed, puzzle feeders of increasing difficulty, snuffle mats and rope toys used under supervision (but no tug games until the adult teeth are in) all earn their place.</p>
   <p>Avoid two things. First, anything hard enough to fracture a tooth, judged by the fingernail test: if you cannot mark it with a nail, it does not go in the mouth. Second, repetitive ball throwing, which produces a state of arousal that looks like enjoyment and is closer to compulsion, and which is hard on shoulders and cruciate ligaments. A ball is a fine reward for a task, and a poor activity in itself.</p>
   <!--/BLOCCO:6-->
 
@@ -94,7 +94,7 @@ custom_content: |
   <!--BLOCCO:8-->
   <h2>Common mistakes</h2>
   <p>Making the puzzle too hard at the start, so the puppy gives up and learns that trying does not pay. Always begin at a level the puppy solves in seconds, then raise it slowly.</p>
-  <p>Working when the puppy is already overtired. A puppy that has been awake for 4 hours does not need stimulation, it needs sleep — and puppies of this age sleep 16 to 18 hours a day for good reason.</p>
+  <p>Working when the puppy is already overtired. A puppy that has been awake for 4 hours does not need stimulation, it needs sleep. And puppies of this age sleep 16 to 18 hours a day for good reason.</p>
   <p>Ending on a failure. Finish every session with something easy that the puppy gets right, so the last impression is success.</p>
   <p>And repeating the same game indefinitely. Novelty is a large part of what makes mental work tiring; a puzzle solved 50 times is no longer a puzzle.</p>
   <!--/BLOCCO:8-->
@@ -124,7 +124,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
+  <a class="btn" href="/en/blog/" title="Back to the blog">&larr; Back to the blog</a>
 
   <p class="tags"><strong>Tags:</strong>
   <a aria-label="puppies — blog category" href="/en/blog/#puppies" title="Puppy articles">puppies</a>
