@@ -11,7 +11,7 @@ titleSeo: "Staffy o Amstaff, quale fa per te: il test dell'allevatore"
 description: "Sette domande su casa, bambini, esperienza, tempo e burocrazia, risposte di chi alleva Staffordshire Bull Terrier dal 2013. Per scegliere, non per distinguere."
 slug: "differenza-staffy-amstaff"
 date: 2026-01-18
-fonti_motivo: "Questa pagina riporta il test che l'allevamento Del Piccolo Diavolo usa con chi chiede un cucciolo: sono domande ed esperienza diretta dell'allevatore, non dati di letteratura. Le misure delle due razze vengono dagli standard FCI dello Staffordshire Bull Terrier e dell'American Staffordshire Terrier."
+fonti_motivo: "Questa pagina riporta il test che l'allevamento Del Piccolo Diavolo usa con chi chiede un cucciolo: sono domande ed esperienza diretta dell'allevatore, non dati di letteratura. Le altezze delle due razze, e il peso dello Staffy, vengono dagli standard FCI dello Staffordshire Bull Terrier e dell'American Staffordshire Terrier."
 ---
 
 
@@ -28,7 +28,7 @@ fonti_motivo: "Questa pagina riporta il test che l'allevamento Del Piccolo Diavo
 <h1 class="hero-title">Staffy o Amstaff, quale fa per te: <em>il test dell'allevatore</em></h1>
 <p class="hero-subtitle">Hai capito che non sono lo stesso cane. Ora restano le sette domande che facciamo a chi ci scrive per un cucciolo</p>
   <div class="hero-meta">
-  <span>📅 18 Gennaio 2026</span>
+  <span>📅 18 gennaio 2026</span>
   <span>⏱️ 4 min lettura</span>
   </div>
 </div>
@@ -49,7 +49,7 @@ fonti_motivo: "Questa pagina riporta il test che l'allevamento Del Piccolo Diavo
 
 <section class="section">
 <div class="section-inner content-single">
-<p>Staffordshire Bull Terrier e American Staffordshire Terrier sono due razze distinte, con standard FCI e libri genealogici separati: lo Staffy pesa 12,7-17 kg nel maschio per 35,5-40,5 cm al garrese, l'Amstaff 25-32 kg per 45,7-48,2 cm. Scegliere fra i due non è una questione di gusto sul muso: è una questione di casa, di chi ci vive e di quanto tempo c'è. Nell'allevamento Del Piccolo Diavolo, a Ostellato in provincia di Ferrara, a chi ci scrive per un cucciolo facciamo sette domande prima di parlare di cucciolate, perché la risposta a ciascuna esclude una delle due razze più spesso di quanto si pensi. Sono le stesse domande di questa pagina. Le risposte sullo Staffy vengono dai nostri cani; quelle sull'Amstaff da quello che abbiamo visto in ring e nelle case di chi lo tiene.</p>
+<p>Staffordshire Bull Terrier e American Staffordshire Terrier sono due razze distinte, con standard FCI e libri genealogici separati: lo Staffy pesa 12,7-17 kg nel maschio per 35,5-40,5 cm al garrese; l'Amstaff è alto 46-48 cm, e il suo standard non fissa un peso, che di solito sta fra 25 e 32 kg. Scegliere fra i due non è una questione di gusto sul muso: è una questione di casa, di chi ci vive e di quanto tempo c'è. Nell'allevamento Del Piccolo Diavolo, a Ostellato in provincia di Ferrara, a chi ci scrive per un cucciolo facciamo sette domande prima di parlare di cucciolate, perché la risposta a ciascuna esclude una delle due razze più spesso di quanto si pensi. Sono le stesse domande di questa pagina. Le risposte sullo Staffy vengono dai nostri cani; quelle sull'Amstaff da quello che abbiamo visto in ring e nelle case di chi lo tiene.</p>
 
 
 <p><strong>Se stai ancora cercando di capire come distinguerli</strong>, la guida che ti serve è un'altra: <a href="/differenza-staffy-pitbull-amstaff/" title="Come riconoscere le tre razze">Staffordshire Bull Terrier, Pitbull e Amstaff a confronto</a>, con la tabella delle misure e la situazione legale. Questa pagina parte dal passo dopo: sai già che sono razze diverse e devi decidere quale portare a casa.</p>
@@ -70,7 +70,7 @@ fonti_motivo: "Questa pagina riporta il test che l'allevamento Del Piccolo Diavo
 
 <h3>4. Quanto tempo, ogni giorno?</h3>
 
-<p>Entrambi chiedono almeno un'ora di movimento e di lavoro di testa, tutti i giorni. Lo Staffy resta giocherellone da adulto; l'Amstaff tende a posarsi dopo i due-tre anni. Se vuoi un cane che a sei anni sia ancora un clown, è lo Staffy; se preferisci un adulto più calmo, l'Amstaff.</p>
+<p>Entrambi chiedono movimento e lavoro di testa tutti i giorni, quanto dipende dal cane. Lo Staffy resta giocherellone da adulto; l'Amstaff tende a posarsi dopo i due-tre anni. Se vuoi un cane che a sei anni sia ancora un clown, è lo Staffy; se preferisci un adulto più calmo, l'Amstaff.</p>
 
 <h3>5. Ci sono già altri cani?</h3>
 
@@ -92,7 +92,7 @@ fonti_motivo: "Questa pagina riporta il test che l'allevamento Del Piccolo Diavo
 
 <h2>La mia esperienza come allevatore</h2>
 
-<p>Allevo Staffordshire Bull Terrier dal 2013 e ho scelto questa razza proprio per il suo equilibrio tra carattere, taglia e gestibilità. I nostri <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli Staffordshire Bull Terrier</a> crescono in famiglia, a contatto con bambini, e sviluppano quel carattere dolce e stabile che ha reso famosa la razza.</p>
+<p>Allevo Staffordshire Bull Terrier dal 2013 e ho scelto questa razza proprio per il suo equilibrio tra carattere, taglia e gestibilità. I nostri <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli Staffordshire Bull Terrier</a> crescono in casa con noi, fra le persone e i rumori di tutti i giorni.</p>
 
 <p>Se hai dubbi su quale razza scegliere, contattami: ti aiuterò a capire se lo Staffy è il cane giusto per te, e ti dirò anche quando non lo è.</p>
 
@@ -107,11 +107,11 @@ fonti_motivo: "Questa pagina riporta il test che l'allevamento Del Piccolo Diavo
 
 <section class="dark-section">
 <h2>Vuoi conoscere i nostri Staffy?</h2>
-<p>Vieni a trovarci in allevamento e scopri di persona il carattere unico dello Staffordshire Bull Terrier.</p>
+<p>Vieni a trovarci a Ostellato e conosci i nostri cani di persona.</p>
 <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20visitare%20l%27allevamento" class="btn btn-light" title="Contattaci su WhatsApp">Contattaci su WhatsApp</a>
 </section>
 
 <!--/BLOCCO:3-->
 
 
-<p class="fonti">Fonti: Questa pagina riporta il test che l'allevamento Del Piccolo Diavolo usa con chi chiede un cucciolo: sono domande ed esperienza diretta dell'allevatore, non dati di letteratura. Le misure delle due razze vengono dagli standard FCI dello <a href="https://www.fci.be/en/nomenclature/STAFFORDSHIRE-BULL-TERRIER-76.html" target="_blank" rel="noopener" title="Standard FCI n. 76" aria-label="Standard FCI n. 76, Staffordshire Bull Terrier (si apre in una nuova scheda)">Staffordshire Bull Terrier</a> e dell'<a href="https://www.fci.be/en/nomenclature/AMERICAN-STAFFORDSHIRE-TERRIER-286.html" target="_blank" rel="noopener" title="Standard FCI n. 286" aria-label="Standard FCI n. 286, American Staffordshire Terrier (si apre in una nuova scheda)">American Staffordshire Terrier</a>.</p>
+<p class="fonti">Fonti: Questa pagina riporta il test che l'allevamento Del Piccolo Diavolo usa con chi chiede un cucciolo: sono domande ed esperienza diretta dell'allevatore, non dati di letteratura. Le altezze delle due razze, e il peso dello Staffy, vengono dagli standard FCI dello <a href="https://www.fci.be/en/nomenclature/STAFFORDSHIRE-BULL-TERRIER-76.html" target="_blank" rel="noopener" title="Standard FCI n. 76" aria-label="Standard FCI n. 76, Staffordshire Bull Terrier (si apre in una nuova scheda)">Staffordshire Bull Terrier</a> e dell'<a href="https://www.fci.be/en/nomenclature/AMERICAN-STAFFORDSHIRE-TERRIER-286.html" target="_blank" rel="noopener" title="Standard FCI n. 286" aria-label="Standard FCI n. 286, American Staffordshire Terrier (si apre in una nuova scheda)">American Staffordshire Terrier</a>.</p>

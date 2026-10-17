@@ -11,7 +11,7 @@ translationKey: "differenza-staffy-amstaff"
 description: "Seven questions on home, children, experience, time and paperwork, from a Staffordshire Bull Terrier breeder since 2013. For choosing, not for telling apart."
 slug: "staffy-or-amstaff-which-breed-suits-you"
 date: 2026-01-18
-fonti_motivo: "This page sets out the test the Del Piccolo Diavolo kennel uses with people asking for a puppy: it is the breeder's own questions and direct experience, not data from the literature. The measurements of the two breeds come from the FCI standards of the Staffordshire Bull Terrier and the American Staffordshire Terrier."
+fonti_motivo: "This page sets out the test the Del Piccolo Diavolo kennel uses with people asking for a puppy: it is the breeder's own questions and direct experience, not data from the literature. The heights of the two breeds, and the Staffy's weight, come from the FCI standards of the Staffordshire Bull Terrier and the American Staffordshire Terrier."
 ---
 
 
@@ -49,7 +49,7 @@ fonti_motivo: "This page sets out the test the Del Piccolo Diavolo kennel uses w
 
 <section class="section">
 <div class="section-inner content-single">
-<p>The Staffordshire Bull Terrier and the American Staffordshire Terrier are two separate breeds, with their own FCI standards and stud books: a male Staffy weighs 12.7-17 kg at 35.5-40.5 cm at the withers, an Amstaff 25-32 kg at 45.7-48.2 cm. Choosing between them is not a matter of taste in heads: it is a matter of home, of who lives in it and of how much time there is. At the Del Piccolo Diavolo kennel, in Ostellato near Ferrara, Italy, we ask anyone who writes about a puppy seven questions before we talk about litters, because the answer to each one rules out one of the two breeds more often than people expect. They are the same seven questions on this page. The answers about the Staffy come from our own dogs; those about the Amstaff from what we have seen in the ring and in the homes of people who keep one.</p>
+<p>The Staffordshire Bull Terrier and the American Staffordshire Terrier are two separate breeds, with their own FCI standards and stud books: a male Staffy weighs 12.7-17 kg at 35.5-40.5 cm at the withers; an Amstaff stands 46-48 cm, with no weight in its standard (usually 25-32 kg). Choosing between them is not a matter of taste in heads: it is a matter of home, of who lives in it and of how much time there is. At the Del Piccolo Diavolo kennel, in Ostellato near Ferrara, Italy, we ask anyone who writes about a puppy seven questions before we talk about litters, because the answer to each one rules out one of the two breeds more often than people expect. They are the same seven questions on this page. The answers about the Staffy come from our own dogs; those about the Amstaff from what we have seen in the ring and in the homes of people who keep one.</p>
 
 
 <p><strong>If you are still trying to tell them apart</strong>, the guide you want is a different one: <a href="/en/staffy-pitbull-amstaff-difference/" title="How to recognise the three breeds">Staffordshire Bull Terrier, Pitbull and Amstaff compared</a>, with the measurements table and the legal position. This page starts one step later: you already know they are distinct breeds and you have to decide which one comes home with you.</p>
@@ -70,7 +70,7 @@ fonti_motivo: "This page sets out the test the Del Piccolo Diavolo kennel uses w
 
 <h3>4. How much time, every day?</h3>
 
-<p>Both need at least an hour of exercise and mental work, daily. The Staffy stays playful into adulthood; the Amstaff tends to settle after two or three years. If you want a dog that is still a clown at six, it is the Staffy; if you would rather have a calmer adult, the Amstaff.</p>
+<p>Both need exercise and mental work every day; how much depends on the dog. The Staffy stays playful into adulthood; the Amstaff tends to settle after two or three years. If you want a dog that is still a clown at six, it is the Staffy; if you would rather have a calmer adult, the Amstaff.</p>
 
 <h3>5. Are there already other dogs?</h3>
 
@@ -92,9 +92,9 @@ fonti_motivo: "This page sets out the test the Del Piccolo Diavolo kennel uses w
 
 <h2>My experience as a breeder</h2>
 
-<p>I have bred Staffordshire Bull Terriers since 2013, and I chose the breed precisely for its balance between character, size and manageability. Our <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies</a> grow up in the family, around children, and develop the steady, gentle character the breed is known for.</p>
+<p>I have bred Staffordshire Bull Terriers since 2013, and I chose the breed precisely for its balance between character, size and manageability. Our <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies</a> grow up in the house with us, among people and everyday noises.</p>
 
-<p>If you are unsure which breed to choose, get in touch: I will help you work out whether the Staffy is the right dog for you — including telling you when it is not.</p>
+<p>If you are unsure which breed to choose, get in touch: I will help you work out whether the Staffy is the right dog for you, and I will also tell you when it is not.</p>
 
 </div>
 </section>
@@ -107,11 +107,11 @@ fonti_motivo: "This page sets out the test the Del Piccolo Diavolo kennel uses w
 
 <section class="dark-section">
 <h2>Would you like to meet our Staffies?</h2>
-<p>Come and visit the kennel and see the character of the Staffordshire Bull Terrier for yourself.</p>
+<p>Come and see us in Ostellato and meet our dogs in person.</p>
 <a href="/wa/393924635584?text=Hi%20Paolo%2C%20I%27d%20like%20to%20visit%20the%20kennel" class="btn btn-light" title="Contact us on WhatsApp">Contact Us on WhatsApp</a>
 </section>
 
 <!--/BLOCCO:3-->
 
 
-<p class="fonti">Sources: This page sets out the test the Del Piccolo Diavolo kennel uses with people asking for a puppy: it is the breeder's own questions and direct experience, not data from the literature. The measurements of the two breeds come from the FCI standards of the <a href="https://www.fci.be/en/nomenclature/STAFFORDSHIRE-BULL-TERRIER-76.html" target="_blank" rel="noopener" title="FCI standard no. 76" aria-label="FCI standard no. 76, Staffordshire Bull Terrier (opens in a new tab)">Staffordshire Bull Terrier</a> and the <a href="https://www.fci.be/en/nomenclature/AMERICAN-STAFFORDSHIRE-TERRIER-286.html" target="_blank" rel="noopener" title="FCI standard no. 286" aria-label="FCI standard no. 286, American Staffordshire Terrier (opens in a new tab)">American Staffordshire Terrier</a>.</p>
+<p class="fonti">Sources: This page sets out the test the Del Piccolo Diavolo kennel uses with people asking for a puppy: it is the breeder's own questions and direct experience, not data from the literature. The heights of the two breeds, and the Staffy's weight, come from the FCI standards of the <a href="https://www.fci.be/en/nomenclature/STAFFORDSHIRE-BULL-TERRIER-76.html" target="_blank" rel="noopener" title="FCI standard no. 76" aria-label="FCI standard no. 76, Staffordshire Bull Terrier (opens in a new tab)">Staffordshire Bull Terrier</a> and the <a href="https://www.fci.be/en/nomenclature/AMERICAN-STAFFORDSHIRE-TERRIER-286.html" target="_blank" rel="noopener" title="FCI standard no. 286" aria-label="FCI standard no. 286, American Staffordshire Terrier (opens in a new tab)">American Staffordshire Terrier</a>.</p>
