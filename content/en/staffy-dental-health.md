@@ -13,7 +13,7 @@ image: "/images/blog/salute-1.webp"
 og_image: "/images/og/schede/en/staffy-dental-health.jpg"
 og_image_alt: "Dental health for the Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/salute-denti-igiene.webp"
-description: "Complete guide to oral hygiene for Staffy: how to clean teeth, prevent tartar, choose the right products and recognize signs of dental problems."
+description: "Oral hygiene for the Staffordshire Bull Terrier: how to brush the teeth, prevent tartar, choose safe chews and recognise the signs of dental problems."
 slug: "staffy-dental-health"
 custom_content: |
   <!--BLOCCO:1-->
@@ -37,8 +37,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Teeth Cleaning</span><span>Tartar Prevention</span><span>Dental Snacks</span><span>Warning Signs</span><span>Professional Cleaning</span><span>Daily Care</span>
-  <span>Teeth Cleaning</span><span>Tartar Prevention</span><span>Dental Snacks</span><span>Warning Signs</span><span>Professional Cleaning</span><span>Daily Care</span>
+  <span>Teeth cleaning</span><span>Tartar prevention</span><span>Dental snacks</span><span>Warning signs</span><span>Professional cleaning</span><span>Daily care</span>
+  <span>Teeth cleaning</span><span>Tartar prevention</span><span>Dental snacks</span><span>Warning signs</span><span>Professional cleaning</span><span>Daily care</span>
   </div>
   </div>
 
@@ -103,7 +103,7 @@ custom_content: |
   <!--BLOCCO:9-->
   <h2>Diet and its real role</h2>
   <p>The claim that dry food cleans teeth is largely a myth: most kibble shatters on contact without ever touching the gumline. Products with a specific dental action exist and are formulated with larger, fibrous pieces that the tooth sinks into rather than fracturing, and those do have measurable effect. Look for a recognised veterinary dental accreditation on the packaging rather than a marketing claim.</p>
-  <p>Raw feeding, done properly, tends to produce visibly cleaner teeth, largely because of the mechanical action of appropriate raw meaty bones. It also carries risks — fractures from weight-bearing bones, obstruction, bacterial handling — and it should be discussed with a veterinarian rather than adopted from a forum. Whichever diet you choose, the effect on dental health is secondary to brushing.</p>
+  <p>Raw feeding, done properly, tends to produce visibly cleaner teeth, largely because of the mechanical action of appropriate raw meaty bones. It also carries risks (fractures from weight-bearing bones, obstruction, bacterial handling), and it should be discussed with a veterinarian rather than adopted from a forum. Whichever diet you choose, the effect on dental health is secondary to brushing.</p>
   <!--/BLOCCO:9-->
 
   <!--BLOCCO:10-->
@@ -178,7 +178,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">My puppy's milk teeth are not falling out. Is that normal?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">No, and it should not be left. The change of teeth runs from four to seven months, and by then all the milk teeth should have gone. When a milk tooth stays beside the permanent one, which happens above all with the <strong>canines</strong>, it creates a narrow gap where food and plaque collect, encouraging malocclusion and early periodontal disease. The solution is extraction, often done at the same time as neutering or another planned anaesthetic, so as not to put the dog under twice. It is worth checking the puppy's mouth once a week in that period: if at seven months you see two canines side by side, it is time to talk to the vet.
+  <div class="faq-answer">No, and it should not be left. The change of teeth runs roughly from three-four to seven months, and by then all the milk teeth should have gone. When a milk tooth stays beside the permanent one, which happens above all with the <strong>canines</strong>, it creates a narrow gap where food and plaque collect, encouraging malocclusion and early periodontal disease. The solution is extraction, often done at the same time as neutering or another planned anaesthetic, so as not to put the dog under twice. It is worth checking the puppy's mouth once a week in that period: if at seven months you see two canines side by side, it is time to talk to the vet.
   </div>
   </div>
 
@@ -195,7 +195,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
+  <a class="btn" href="/en/blog/" title="Back to the blog">&larr; Back to the blog</a>
   </div>
   <!--/BLOCCO:13-->
 

@@ -1,7 +1,7 @@
 ---
 title: "Igiene orale e denti Staffordshire Bull Terrier"
 date: 2024-06-18
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 translationKey: "denti"
 in_breve:
   - "La prevenzione comincia **da cucciolo**, abituandolo a farsi toccare la bocca."
@@ -12,7 +12,7 @@ image: "/images/blog/salute-2.webp"
 og_image: "/images/og/schede/it/salute-denti-igiene.jpg"
 og_image_alt: "Igiene orale e denti Staffordshire Bull Terrier — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/salute-denti-igiene.webp"
-description: "Guida completa igiene orale Staffy: come spazzolare i denti, prevenire tartaro, scegliere snack dentali sicuri, gestire dentizione cuccioli e detartrasi."
+description: "Igiene orale dello Staffordshire Bull Terrier: come spazzolare i denti, prevenire il tartaro, scegliere masticativi sicuri, la dentizione e la detartrasi."
 slug: "salute-denti-igiene"
 custom_content: |
   <!--BLOCCO:1-->
@@ -27,7 +27,7 @@ custom_content: |
   <h1 class="hero-title">Igiene orale e <em>denti</em></h1>
   <p class="hero-subtitle">Spazzolatura, prevenzione tartaro e salute dentale</p>
   <div class="hero-meta">
-  <span>📅 18 Giugno 2024</span>
+  <span>📅 18 giugno 2024</span>
   <span>⏱️ 12 min lettura</span>
   </div>
   </div>
@@ -36,8 +36,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Spazzolatura</span><span>Prevenzione Tartaro</span><span>Detartrasi</span><span>Snack Dentali</span><span>Dentizione Cuccioli</span><span>Gengivite</span><span>Dentifrici Veterinari</span><span>Masticativi Sicuri</span>
-  <span>Spazzolatura</span><span>Prevenzione Tartaro</span><span>Detartrasi</span><span>Snack Dentali</span><span>Dentizione Cuccioli</span><span>Gengivite</span><span>Dentifrici Veterinari</span><span>Masticativi Sicuri</span>
+  <span>Spazzolatura</span><span>Prevenire il tartaro</span><span>Detartrasi</span><span>Snack dentali</span><span>Dentizione del cucciolo</span><span>Gengivite</span><span>Dentifrici veterinari</span><span>Masticativi sicuri</span>
+  <span>Spazzolatura</span><span>Prevenire il tartaro</span><span>Detartrasi</span><span>Snack dentali</span><span>Dentizione del cucciolo</span><span>Gengivite</span><span>Dentifrici veterinari</span><span>Masticativi sicuri</span>
   </div>
   </div>
 
@@ -135,17 +135,17 @@ custom_content: |
 
   <div class="faq-item">
   <h3 class="faq-question">Quanto spesso devo spazzolare i denti al mio Staffy?</h3>
-  <div class="faq-answer">L'ideale &egrave; tutti i giorni, la realt&agrave; praticabile &egrave; <strong>tre volte a settimana</strong>: sotto questa soglia la placca fa in tempo a mineralizzarsi in tartaro, e a quel punto lo spazzolino non basta pi&ugrave;. Meglio due minuti fatti spesso che dieci minuti una volta ogni tanto. Conviene inserirlo in un momento fisso della giornata, come dopo la passeggiata della sera, perch&eacute; la costanza dipende dall'abitudine di chi tiene lo spazzolino, non del cane. Lo Staffordshire Bull Terrier ha una mandibola larga e denti ben distanziati, il che aiuta, ma ha anche una masticazione potente che consuma gli incisivi: vale la pena controllare ogni tanto anche l'usura, non solo la placca.</div>
+  <div class="faq-answer">L'ideale &egrave; tutti i giorni, la realt&agrave; praticabile &egrave; <strong>tre volte a settimana</strong>: sotto questa soglia la placca fa in tempo a mineralizzarsi in tartaro, e a quel punto lo spazzolino non basta pi&ugrave;. Meglio due minuti fatti spesso che dieci minuti una volta ogni tanto. Conviene inserirlo in un momento fisso della giornata, come dopo la passeggiata della sera, perch&eacute; la costanza dipende dall'abitudine di chi tiene lo spazzolino, non del cane. Lo Staffordshire Bull Terrier ha quarantadue denti in una mascella relativamente corta, quindi piuttosto vicini, e ha anche una masticazione potente che consuma gli incisivi: vale la pena controllare ogni tanto anche l'usura, non solo la placca.</div>
   </div>
 
   <div class="faq-item">
   <h3 class="faq-question">Quali snack dentali sono sicuri per lo Staffy?</h3>
-  <div class="faq-answer">I prodotti con il marchio VOHC &mdash; il consiglio veterinario americano sulla salute orale &mdash; sono quelli con efficacia dimostrata, e si riconoscono dal logo sulla confezione. Quello che invece conviene evitare &egrave; tutta la categoria degli oggetti troppo duri: <strong>corna di cervo, ossa vere, zoccoli</strong>. Lo Staffy ha una forza di morso considerevole per la taglia, e la frattura del quarto premolare superiore &egrave; una delle diagnosi pi&ugrave; comuni nei cani che masticano oggetti rigidi. La regola pratica &egrave; l'unghia: se premendo con l'unghia l'oggetto non cede minimamente, &egrave; troppo duro. Gli snack dentali contano comunque come calorie, e in una razza che ingrassa facilmente vanno scalati dalla razione, non aggiunti.</div>
+  <div class="faq-answer">I prodotti con il marchio VOHC (il consiglio veterinario americano sulla salute orale) sono quelli con efficacia dimostrata, e si riconoscono dal logo sulla confezione. Quello che invece conviene evitare &egrave; tutta la categoria degli oggetti troppo duri: <strong>corna di cervo, ossa vere, zoccoli</strong>. Lo Staffy ha una forza di morso considerevole per la taglia, e la frattura del quarto premolare superiore &egrave; una delle diagnosi pi&ugrave; comuni nei cani che masticano oggetti rigidi. La regola pratica &egrave; l'unghia: se premendo con l'unghia l'oggetto non cede minimamente, &egrave; troppo duro. Gli snack dentali contano comunque come calorie, e in una razza che ingrassa facilmente vanno scalati dalla razione, non aggiunti.</div>
   </div>
 
   <div class="faq-item">
   <h3 class="faq-question">Quando è necessaria la detartrasi professionale?</h3>
-  <div class="faq-answer">Quando il tartaro &egrave; visibile e aderente, quando le gengive sono arrossate o sanguinano, o quando l'alito &egrave; forte nonostante l'igiene quotidiana. Di solito si parla di una volta ogni uno-tre anni, ma varia molto da cane a cane e la valutazione la fa il veterinario guardando la bocca, non l'et&agrave;. La detartrasi si esegue in <strong>anestesia generale</strong>, perch&eacute; la parte che conta &mdash; sotto il bordo gengivale &mdash; su un cane sveglio non si raggiunge. Per questo vanno evitate le cosiddette pulizie senza anestesia offerte fuori dagli ambulatori: tolgono il tartaro visibile, lasciano quello sotto la gengiva e danno la falsa impressione che sia tutto a posto. Prima dell'anestesia si fanno esami del sangue, soprattutto nei cani anziani.</div>
+  <div class="faq-answer">Quando il tartaro &egrave; visibile e aderente, quando le gengive sono arrossate o sanguinano, o quando l'alito &egrave; forte nonostante l'igiene quotidiana. Di solito si parla di una volta ogni uno-tre anni, ma varia molto da cane a cane e la valutazione la fa il veterinario guardando la bocca, non l'et&agrave;. La detartrasi si esegue in <strong>anestesia generale</strong>, perch&eacute; la parte che conta, sotto il bordo gengivale, su un cane sveglio non si raggiunge. Per questo vanno evitate le cosiddette pulizie senza anestesia offerte fuori dagli ambulatori: tolgono il tartaro visibile, lasciano quello sotto la gengiva e danno la falsa impressione che sia tutto a posto. Prima dell'anestesia si fanno esami del sangue, soprattutto nei cani anziani.</div>
   </div>
 
   <div class="faq-item">
@@ -155,7 +155,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3 class="faq-question">I denti da latte del cucciolo non cadono: è normale?</h3>
-  <div class="faq-answer">No, ed &egrave; una cosa da non lasciar correre. La permuta dei denti va dai quattro ai sette mesi, e a quel punto tutti i denti da latte dovrebbero essere caduti. Quando un deciduo resta accanto al definitivo &mdash; succede soprattutto con i <strong>canini</strong> &mdash; si crea uno spazio stretto dove si impattano cibo e placca, e si favoriscono malocclusioni e parodontite precoce. La soluzione &egrave; l'estrazione, che si fa spesso in contemporanea alla sterilizzazione o a un'altra anestesia programmata, per non addormentare il cane due volte. Vale la pena controllare la bocca del cucciolo una volta a settimana in quel periodo: se a sette mesi vedi due canini affiancati, &egrave; il momento di parlarne con il veterinario.</div>
+  <div class="faq-answer">No, ed &egrave; una cosa da non lasciar correre. La permuta dei denti va pi&ugrave; o meno dai tre-quattro ai sette mesi, e a quel punto tutti i denti da latte dovrebbero essere caduti. Quando un deciduo resta accanto al definitivo (succede soprattutto con i <strong>canini</strong>), si crea uno spazio stretto dove si impattano cibo e placca, e si favoriscono malocclusioni e parodontite precoce. La soluzione &egrave; l'estrazione, che si fa spesso in contemporanea alla sterilizzazione o a un'altra anestesia programmata, per non addormentare il cane due volte. Vale la pena controllare la bocca del cucciolo una volta a settimana in quel periodo: se a sette mesi vedi due canini affiancati, &egrave; il momento di parlarne con il veterinario.</div>
   </div>
 
   </section>
@@ -164,14 +164,14 @@ custom_content: |
   <h3>Articoli correlati</h3>
   <ul>
   <li><a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici">Test genetici L2-HGA e HC</a></li>
-  <li><a href="/salute-parassiti-prevenzione/" title="Parassiti">Parassiti: Prevenzione e controllo</a></li>
-  <li><a href="/cuccioli-alimentazione-iniziale/" title="Alimentazione">Alimentazione Iniziale del Cucciolo</a></li>
+  <li><a href="/salute-parassiti-prevenzione/" title="Parassiti">Parassiti: prevenzione e controllo</a></li>
+  <li><a href="/cuccioli-alimentazione-iniziale/" title="Alimentazione">Alimentazione iniziale del cucciolo</a></li>
   <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento">Consigli prima di prendere un cucciolo</a></li>
   </ul>
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
+  <a class="btn" href="/blog/" title="Torna al blog">&larr; Torna al blog</a>
 
   <p class="tags"><strong>Tag:</strong>
   <a aria-label="igiene orale — categoria del blog" href="/blog/#salute" title="Articoli igiene">igiene orale</a>

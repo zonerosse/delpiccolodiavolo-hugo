@@ -92,7 +92,7 @@ custom_content: |
 
   <!--BLOCCO:9-->
   <h2>Eine realistische Routine</h2>
-  <p>Wöchentlich: Lefze heben und beide Seiten ansehen. Drei- bis siebenmal die Woche: Außenflächen putzen, 30 Sekunden je Seite. Täglich: ein geeigneter Kauartikel, ausgewählt nach der Fingernagelregel. Jährlich: eine zahnärztliche Beurteilung beim Routinecheck — und danach handeln, statt zu verschieben.</p>
+  <p>Wöchentlich: Lefze heben und beide Seiten ansehen. Drei- bis siebenmal die Woche: Außenflächen putzen, 30 Sekunden je Seite. Täglich: ein geeigneter Kauartikel, ausgewählt nach der Fingernagelregel. Jährlich: eine zahnärztliche Beurteilung beim Routinecheck, und danach handeln, statt zu verschieben.</p>
   <p>Von Welpenalter an durchgeführt, kostet das etwa 3 Minuten täglich und schenkt dem Hund Jahre beschwerdefreien Fressens. Mit 7 Jahren begonnen, ist es Schadensbegrenzung.</p>
   <!--/BLOCCO:9-->
 
@@ -168,7 +168,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Die Milchzähne meines Welpen fallen nicht aus. Ist das normal?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Nein, und man sollte es nicht laufen lassen. Der Zahnwechsel dauert vom vierten bis zum siebten Monat, und dann sollten alle Milchzähne weg sein. Bleibt ein Milchzahn neben dem bleibenden stehen, was vor allem bei den <strong>Fangzähnen</strong> vorkommt, entsteht eine enge Lücke, in der sich Futter und Belag sammeln, was Fehlstellungen und frühe Parodontitis begünstigt. Die Lösung ist das Ziehen, oft zusammen mit einer Kastration oder einer anderen geplanten Narkose, damit der Hund nicht zweimal narkotisiert wird. Es lohnt sich, in dieser Zeit einmal pro Woche ins Maul zu schauen: sehen Sie mit sieben Monaten zwei Fangzähne nebeneinander, ist es Zeit, mit dem Tierarzt zu sprechen.
+  <div class="faq-answer">Nein, und man sollte es nicht laufen lassen. Der Zahnwechsel dauert ungefähr vom dritten oder vierten bis zum siebten Monat, und dann sollten alle Milchzähne weg sein. Bleibt ein Milchzahn neben dem bleibenden stehen, was vor allem bei den <strong>Fangzähnen</strong> vorkommt, entsteht eine enge Lücke, in der sich Futter und Belag sammeln, was Fehlstellungen und frühe Parodontitis begünstigt. Die Lösung ist das Ziehen, oft zusammen mit einer Kastration oder einer anderen geplanten Narkose, damit der Hund nicht zweimal narkotisiert wird. Es lohnt sich, in dieser Zeit einmal pro Woche ins Maul zu schauen: sehen Sie mit sieben Monaten zwei Fangzähne nebeneinander, ist es Zeit, mit dem Tierarzt zu sprechen.
   </div>
   </div>
 
