@@ -1,7 +1,7 @@
 ---
 title: "BOAS in Staffordshire Bull Terriers: why breathing matters"
 date: 2025-12-28
-lastmod: 2026-10-11
+lastmod: 2026-10-17
 titleSeo: "BOAS in the Staffordshire Bull Terrier: breathing"
 translationKey: "boas"
 articolo: true
@@ -20,17 +20,17 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Health & Selection</span>
+  <span class="hero-eyebrow">Health & selection</span>
   <h1 class="hero-title">BOAS in <br><em>Staffordshire</em> <br>Bull Terriers</h1>
   <p class="hero-subtitle">Why breathing matters</p>
   <div class="hero-meta">
   <span>📅 December 28, 2025</span>
   <span>⏱️ 5 min read</span>
   </div>
-  <p class="hero-description">Brachycephalic obstructive airway syndrome is a growing problem in many breeds. The Staffy shouldn't be affected, but poor breeding choices are changing that. Here's what you need to know.</p>
+  <p class="hero-description">Brachycephalic obstructive airway syndrome is a growing problem in many breeds. The Staffy shouldn't be affected, but poor breeding choices are changing that.</p>
   <div class="hero-actions">
-  <a href="/en/females-staffordshire-bull-terrier/" class="btn btn-primary" title="Our breeding dogs">Our Dogs</a>
-  <a href="/wa/393924635584" class="btn btn-ghost" title="Contact us">Contact Us</a>
+  <a href="/en/females-staffordshire-bull-terrier/" class="btn btn-primary" title="Our breeding dogs">Our dogs</a>
+  <a href="/wa/393924635584" class="btn btn-ghost" title="Contact us">Contact us</a>
   </div>
   </div>
   </section>
@@ -38,16 +38,16 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Responsible Breeding</span>
-  <span>Open Nostrils</span>
-  <span>Correct Muzzle</span>
-  <span>Free Breathing</span>
-  <span>Health First</span>
-  <span>Responsible Breeding</span>
-  <span>Open Nostrils</span>
-  <span>Correct Muzzle</span>
-  <span>Free Breathing</span>
-  <span>Health First</span>
+  <span>Responsible breeding</span>
+  <span>Open nostrils</span>
+  <span>Correct muzzle</span>
+  <span>Free breathing</span>
+  <span>Health</span>
+  <span>Responsible breeding</span>
+  <span>Open nostrils</span>
+  <span>Correct muzzle</span>
+  <span>Free breathing</span>
+  <span>Health</span>
   </div>
   </div>
 
@@ -55,7 +55,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">What is BOAS</span>
-  <p>The Staffordshire Bull Terrier is not a brachycephalic breed: its muzzle is shorter than in many breeds, but far from the pug or the English bulldog, and in most dogs breathing is normal; some lines, however, have muzzles that are too short. <strong>BOAS</strong> &mdash; brachycephalic obstructive airway syndrome &mdash; is therefore not a breed sentence but a risk to know about: the signs are marked snoring even when awake, noisy breathing at rest, intolerance of exertion and heat, and frequent regurgitation. A dog that pants heavily after a few minutes of play is not unfit: it needs to be seen by a vet. In breeding what matters is choosing dogs with open nostrils and an uncompressed nasal passage: a typical head must never work against function.</p>
+  <p>The Staffordshire Bull Terrier is not a brachycephalic breed: its muzzle is shorter than in many breeds, but far from the pug or the English bulldog, and in most dogs breathing is normal; some lines, however, have muzzles that are too short. <strong>BOAS</strong> (brachycephalic obstructive airway syndrome) is therefore not a breed sentence but a risk to know about: the signs are marked snoring even when awake, noisy breathing at rest, intolerance of exertion and heat, and frequent regurgitation. A dog that pants heavily after a few minutes of play is not unfit: it needs to be seen by a vet. In breeding what matters is choosing dogs with open nostrils and an uncompressed nasal passage: a typical head must never work against function.</p>
 
   <h2 class="section-title">Brachycephalic obstructive airway syndrome</h2>
 
@@ -65,10 +65,10 @@ custom_content: |
   <p>According to <a href="https://vcahospitals.com/know-your-pet/brachycephalic-airway-syndrome-in-dogs" target="_blank" rel="noopener" aria-label="VCA Animal Hospitals (opens in a new tab)">VCA Animal Hospitals</a>, the main abnormalities include:</p>
 
   <ul>
-  <li><strong>Stenotic nares</strong> – abnormally narrowed nostrils that restrict airflow</li>
-  <li><strong>Elongated soft palate</strong> – tissue that extends too far back into the throat, partially blocking the airway</li>
-  <li><strong>Everted laryngeal saccules</strong> – small pouches that get "sucked" into the airway</li>
-  <li><strong>Hypoplastic trachea</strong> – a windpipe with a smaller diameter than normal</li>
+  <li><strong>Stenotic nares</strong>: abnormally narrowed nostrils that restrict airflow</li>
+  <li><strong>Elongated soft palate</strong>: tissue that extends too far back into the throat, partially blocking the airway</li>
+  <li><strong>Everted laryngeal saccules</strong>: small pouches that get "sucked" into the airway</li>
+  <li><strong>Hypoplastic trachea</strong>: a windpipe with a smaller diameter than normal</li>
   </ul>
 
   <p>The <strong>soft palate</strong> issue is particularly insidious. As reported by <a href="https://www.cherrydownvets.co.uk/news/brachycephalic-obstructive-airway-syndrome/" target="_blank" rel="noopener" aria-label="Cherrydown Vets (opens in a new tab)">Cherrydown Vets</a>: "100% of Pugs, French Bulldogs and English Bulldogs have an elongated or overlong soft palate. The soft palate in these breeds is often very thickened, further obstructing the airway and increasing the effort required for air to pass into the lungs."</p>
@@ -80,7 +80,7 @@ custom_content: |
   <!--BLOCCO:3-->
   <section class="section section-alt">
   <div class="section-inner">
-  <span class="section-label">The Staffy's Position</span>
+  <span class="section-label">The Staffy's position</span>
   <h2 class="section-title">The Staffordshire Bull Terrier is not a brachycephalic breed</h2>
 
   <div class="zigzag">
@@ -88,7 +88,7 @@ custom_content: |
   <div class="zigzag-text">
   <h3>A spectrum, not a category</h3>
   <p>The <a href="https://www.thekennelclub.org.uk/health-and-dog-care/health/health-and-care/a-z-of-health-and-care-issues/brachycephalic-health-issues/" target="_blank" rel="noopener" aria-label="Kennel Club UK (opens in a new tab)">Kennel Club UK</a> clarifies: "Brachycephaly occurs across a spectrum, from breeds with almost entirely flat faces (sometimes termed 'extreme brachycephaly'), such as the Pug and Japanese Chin, through to <strong>less exaggerated brachycephalic breeds such as the Boxer and Staffordshire Bull Terrier</strong>."</p>
-  <p>The Kennel Club therefore places it at the least marked end of the spectrum, and our position is firmer: by standard the Staffy must have a muzzle long enough to breathe normally, and lines with muzzles that are too short are heading in the wrong direction.</p>
+  <p>The Kennel Club therefore counts it among brachycephalic breeds, at the mildest end of the spectrum. Our position is firmer: by standard the Staffy must have a muzzle long enough to breathe normally, and lines with muzzles that are too short are heading in the wrong direction.</p>
   </div>
   <div class="zigzag-image"></div>
   </div>
@@ -97,7 +97,6 @@ custom_content: |
   <div class="zigzag-text">
   <h3>The Stafford Knot's position</h3>
   <p><a href="https://thestaffordknot.com/brachycephalic-airway-syndrome/" target="_blank" rel="noopener" aria-label="The Stafford Knot (opens in a new tab)">The Stafford Knot</a>, one of the most authoritative resources on the breed, is categorical: "<strong>We absolutely do NOT want the Staffordshire Bull Terrier to continue down the path of the BAS affected breeds such as French Bulldog or Pug. We are NOT a brachycephalic breed and we don't wish to be in that category.</strong>"</p>
-  <p>This is a strong statement that all breeders should take seriously.</p>
   </div>
   <div class="zigzag-image"></div>
   </div>
@@ -118,7 +117,7 @@ custom_content: |
   <!--BLOCCO:4-->
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">The Problem</span>
+  <span class="section-label">The problem</span>
   <h2 class="section-title">Why many breeders ignore breathing</h2>
 
   <div class="content-block">
@@ -153,7 +152,7 @@ custom_content: |
   <!--BLOCCO:5-->
   <section class="section section-alt">
   <div class="section-inner">
-  <span class="section-label">Our Philosophy</span>
+  <span class="section-label">How we select</span>
   <h2 class="section-title">Why we prioritize breathing</h2>
 
   <div class="content-block">
@@ -162,10 +161,10 @@ custom_content: |
   <p>Every dog that enters our breeding program is evaluated for:</p>
 
   <ul>
-  <li><strong>Open nostrils</strong> – must allow adequate airflow</li>
-  <li><strong>Muzzle length</strong> – proportionate according to the standard, never exaggeratedly short</li>
-  <li><strong>Silent breathing</strong> – no abnormal sounds at rest or during moderate exertion</li>
-  <li><strong>Exercise tolerance</strong> – ability to be physically active without respiratory difficulties</li>
+  <li><strong>Open nostrils</strong>: must allow adequate airflow</li>
+  <li><strong>Muzzle length</strong>: proportionate according to the standard, never exaggeratedly short</li>
+  <li><strong>Silent breathing</strong>: no abnormal sounds at rest or during moderate exertion</li>
+  <li><strong>Exercise tolerance</strong>: ability to be physically active without respiratory difficulties</li>
   </ul>
 
   <p>We will never breed from dogs showing signs of BOAS, regardless of how beautiful or titled they are. Health comes before prizes. Good breathing, after all, is not just daily comfort: it is one of the factors that lengthen life, as we discuss in the guide on <a href="/en/how-long-staffordshire-bull-terrier-lives/" title="How long does a Staffordshire Bull Terrier live">how long a Staffordshire Bull Terrier lives</a>.</p>
@@ -177,12 +176,12 @@ custom_content: |
   <!--BLOCCO:6-->
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">For Future Owners</span>
+  <span class="section-label">For people choosing a puppy</span>
   <h2 class="section-title">How to choose a healthy puppy</h2>
 
   <div class="faq-item">
   <h3>Observe the parents</h3>
-  <p>When visiting a breeder, pay attention to the breathing of the breeding dogs. Do they breathe quietly? Can they exercise without gasping? Are their nostrils open or do they look "pinched"? If the parents have problems, the puppies will inherit them.</p>
+  <p>When visiting a breeder, pay attention to the breathing of the breeding dogs. Do they breathe quietly? Can they exercise without gasping? Are their nostrils open or do they look "pinched"? If the parents have problems, the puppies are likely to inherit them.</p>
   </div>
 
   <div class="faq-item">
@@ -206,7 +205,7 @@ custom_content: |
   <!--BLOCCO:7-->
   <section class="dark-section">
   <h2>Health is non-negotiable</h2>
-  <p>The Staffordshire Bull Terrier is a wonderful breed that deserves to breathe freely. As breeders, we have a responsibility to preserve their health, not to chase harmful aesthetic trends. Every breeding decision we make today will affect generations of dogs tomorrow.</p>
+  <p>As breeders, we have a responsibility to preserve their health, not to chase harmful aesthetic trends. Every breeding decision we make today will affect generations of dogs tomorrow.</p>
   </section>
   <!--/BLOCCO:7-->
 
@@ -236,7 +235,7 @@ custom_content: |
   <section class="cta-section">
   <h2>Questions about Staffy health?</h2>
   <p>Contact us to discuss our breeding philosophy and selection criteria.</p>
-  <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20read%20your%20article%20on%20BOAS%20and%20would%20like%20more%20information" class="btn" title="Contact us on WhatsApp">Message Us on WhatsApp</a>
+  <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20read%20your%20article%20on%20BOAS%20and%20would%20like%20more%20information" class="btn" title="Contact us on WhatsApp">Message us on WhatsApp</a>
   </section>
   <!--/BLOCCO:9-->
 ---
