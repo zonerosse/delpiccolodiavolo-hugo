@@ -2,14 +2,14 @@
 title: "Bio Sensor: what the research actually says"
 date: 2026-09-09
 titleSeo: "Bio Sensor and early stimulation: what research says"
-lastmod: 2026-10-08
+lastmod: 2026-10-17
 translationKey: "biosensor"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
 og_image: "/images/og/schede/en/bio-sensor-early-stimulation-puppies.jpg"
 og_image_alt: "Bio Sensor and early stimulation: what research says — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/bio-sensor-stimolazione-precoce-cuccioli.webp"
-description: "The Bio Sensor and ENS method on puppies: where it comes from, what it promises and how much studies have proven. And what really counts in the first eight weeks."
+description: "The Bio Sensor and ENS method on puppies: where it comes from, what it promises and how much studies have proven. And what really counts in the first weeks."
 slug: "bio-sensor-early-stimulation-puppies"
 custom_content: |
   <!--BLOCCO:1-->
@@ -50,7 +50,7 @@ custom_content: |
   <!--BLOCCO:2-->
   <h2>What Bio Sensor is</h2>
 
-  <p><strong>Bio Sensor</strong> was a United States army programme from the 1970s, later known as "Super Dog", designed to improve the performance of working dogs. In the popularised version &mdash; known as <strong>ENS</strong>, Early Neurological Stimulation &mdash; it consists of five exercises of three to five seconds each, once a day, <strong>from the third to the sixteenth day of life</strong>:</p>
+  <p><strong>Bio Sensor</strong> was a United States army programme from the 1970s, later known as "Super Dog", designed to improve the performance of working dogs. In the popularised version (known as <strong>ENS</strong>, Early Neurological Stimulation) it consists of five exercises of three to five seconds each, once a day, <strong>from the third to the sixteenth day of life</strong>:</p>
 
   <ol>
   <li>The puppy held head up</li>
@@ -82,7 +82,7 @@ custom_content: |
 
   <p>If you are looking for the factor that really shapes a puppy's character, it is not in the first sixteen days: it is in the weeks that follow.</p>
 
-  <p>The <strong>sensitive period for socialisation</strong> &mdash; roughly from the third to the twelfth week, with the core between the fourth and the eighth &mdash; is one of the best established findings in dog behaviour. Whatever a puppy meets in those weeks becomes part of its normal world; whatever it does not meet will remain, for life, something to be assessed.</p>
+  <p>The <strong>sensitive period for socialisation</strong>, roughly from the third to the twelfth week, with the core between the fourth and the eighth, is one of the best established findings in dog behaviour. Whatever a puppy meets in those weeks becomes part of its normal world; whatever it does not meet will remain, for life, something to be assessed.</p>
 
   <p>The <strong>quality of maternal care</strong> matters a great deal too: a settled mother, in an environment she knows, raises steadier puppies. One more reason to <a href="/en/parents-on-site-what-it-means/" title="&quot;Parents on site&quot;: what it really means">look at the mother when you visit a kennel</a>.</p>
   <!--/BLOCCO:4-->
@@ -92,17 +92,17 @@ custom_content: |
 
   <p>I follow no stopwatch protocol, and I do not write "Bio Sensor method" in our litter announcements. What I do is less impressive to describe, and I believe it is worth more.</p>
 
-  <p><strong>The whelping box is not in a silent room.</strong> It sits near a source of sound &mdash; the television, the radio &mdash; because the noise of a lived-in house is the first thing a puppy needs to get used to. This is not about stimulating them: it is about not isolating them.</p>
+  <p><strong>The whelping box is not in a silent room.</strong> It sits near a source of sound, the television or the radio, because the noise of a lived-in house is the first thing a puppy needs to get used to. This is not about stimulating them: it is about not isolating them.</p>
 
   <p><strong>I weigh them every day.</strong> That is how I check growth is steady, and it is the first warning when something is wrong: a puppy that stops gaining weight shows it there, not in the way it moves. But it is also the moment when each of them ends up in someone's hands, every day, without it being an exercise.</p>
 
-  <p><strong>Then there are the cuddles</strong>, mine and my children's, and the kisses &mdash; the part nobody writes about on a technical page, and the part the puppies actually get.</p>
+  <p><strong>Then there are the cuddles</strong>, mine and my children's, and the kisses. That is the part nobody writes about on a technical page, and the part the puppies actually get.</p>
 
   <p>And here lies the difference no protocol can hold: <strong>puppies are not all alike, and you can see it within days.</strong> One stays soft in your hands and falls asleep again; another tenses up, whimpers, ends up crying. Those are the only signals you have at that age, and they are enough.</p>
 
   <p>With the second one I go slowly: a few seconds, every day, without insisting when the tension rises, a little longer the next day. Until being held stops being something to endure. It is the more closed-off puppy that needs that work most, and it is exactly the one with whom counting seconds is useless: what counts is stopping when he tells you to.</p>
 
-  <p>Applying five identical exercises to eight different puppies, counting the seconds, means treating them as interchangeable. They are not, any more than children are.</p>
+  <p>Applying five identical exercises to puppies that are all different, counting the seconds, means treating them as interchangeable. They are not, any more than children are.</p>
 
   <p>From the first month onwards the part that matters most begins: the move to the pen with outdoor access, coming back indoors in turns, and then the people, the noises, the other dogs. That is where an adult dog's character is built, and it cannot be recovered afterwards. How ours grow up is described on the <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffy puppies</a> page.</p>
   <!--/BLOCCO:5-->
@@ -110,7 +110,7 @@ custom_content: |
   <!--BLOCCO:6-->
   <h2>In short</h2>
 
-  <p>If a breeder tells you they use ENS, that is not a fault: it is a detail worth what it is worth, which is little either way. If instead they present it as the reason their puppy will be balanced, the right question is a different one: <strong>where the puppies grow up, who they meet in the first eight weeks, and what condition the mother is in.</strong></p>
+  <p>If a breeder tells you they use ENS, that is not a fault: it is a detail worth what it is worth, which is little either way. If instead they present it as the reason their puppy will be balanced, the right question is a different one: <strong>where the puppies grow up, who they meet in the first weeks, and what condition the mother is in.</strong></p>
 
   <p>The answers to those three questions say far more than any acronym.</p>
 
