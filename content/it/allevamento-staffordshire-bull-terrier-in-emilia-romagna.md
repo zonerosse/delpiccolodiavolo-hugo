@@ -96,23 +96,18 @@ custom_content: |
   <span class="section-label">Dove siamo</span>
   <h2 class="section-title">Dove siamo</h2>
 
-  <div class="story-block" style="grid-template-columns:1fr">
+  <div class="story-block">
   <div class="story-text">
   <h3>Via Amerigo Chierici, 12, Ostellato (FE)</h3>
   <p>Siamo nel cuore del Parco del Delta del Po, a metà strada tra Ferrara e il mare Adriatico.</p>
   <p>Ferrara &egrave; a 25 minuti, Bologna e Ravenna a circa un'ora, Padova a un'ora e dieci.</p>
   <p>A 30 metri dal cancello c'&egrave; un ampio parcheggio asfaltato. Dentro c'&egrave; il cortile con l'erba dove crescono i cuccioli.</p>
-  </div>
-  <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo — Staffordshire Bull Terrier" class="story-img" width="350" height="354" loading="lazy" decoding="async">
-  </div>
-
-  <div class="story-block reverse">
-  <div class="story-text">
   <h3>Visite solo su appuntamento</h3>
   <p>Riceviamo solo su appuntamento, cos&igrave; i cani stanno tranquilli e abbiamo tutto il tempo per voi.</p>
   <p>Durante la visita potrete conoscere i genitori, vedere l'ambiente in cui crescono i cuccioli, visionare i certificati dei test genetici e fare tutte le domande che desiderate.</p>
   <p>Contattateci via WhatsApp per fissare un incontro.</p>
   </div>
+  <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo — Staffordshire Bull Terrier" class="story-img" width="350" height="354" loading="lazy" decoding="async">
   </div>
   </div>
   </section>

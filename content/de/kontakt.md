@@ -77,23 +77,18 @@ custom_content: |
   <span class="section-label">Die Zucht</span>
   <h2 class="section-title">Wo wir sind</h2>
 
-  <div class="story-block" style="grid-template-columns:1fr">
+  <div class="story-block">
   <div class="story-text">
   <h3>Via Amerigo Chierici, 12, Ostellato (FE)</h3>
   <p>Wir liegen mitten im Park des Po-Deltas, auf halbem Weg zwischen Ferrara und der Adria.</p>
   <p>Ferrara ist 25 Minuten entfernt, Bologna und Ravenna etwa eine Stunde, Padua eine Stunde und zehn Minuten.</p>
   <p>30 Meter vom Tor entfernt gibt es einen großen asphaltierten Parkplatz. Drinnen ist der Hof mit Gras, in dem die Welpen aufwachsen. Wer wir sind und wie wir arbeiten, steht auf der Seite <a href="/de/ueber-uns/" title="Über uns – der Züchter hinter Del Piccolo Diavolo">Über uns</a>; einen Überblick über die <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Staffordshire Bull Terrier Zucht Del Piccolo Diavolo</a> gibt die Startseite.</p>
-  </div>
-  <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo — Staffordshire Bull Terrier" class="story-img" width="350" height="354" loading="lazy" decoding="async">
-  </div>
-
-  <div class="story-block reverse">
-  <div class="story-text">
   <h3>Besuche nur nach Vereinbarung</h3>
   <p>Damit die Hunde ihre Ruhe haben und wir Ihnen die nötige Zeit widmen können, empfangen wir ausschließlich nach Vereinbarung.</p>
   <p>Beim Besuch lernen Sie die Eltern kennen, sehen die Umgebung, in der die Welpen aufwachsen, prüfen die Befunde der Gentests und stellen alle Fragen, die Sie haben.</p>
   <p>Schreiben Sie uns auf WhatsApp, um einen Termin zu vereinbaren.</p>
   </div>
+  <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo — Staffordshire Bull Terrier" class="story-img" width="350" height="354" loading="lazy" decoding="async">
   </div>
   </div>
   </section>
