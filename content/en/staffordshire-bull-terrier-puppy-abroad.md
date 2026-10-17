@@ -33,10 +33,6 @@ custom_content: |
   <span>⏱️ 5 min read</span>
   </div>
   <p class="hero-description">A puppy going to a family in another European country leaves at around four months, not two. It needs the rabies vaccination, the pet passport, the TRACES health certificate and the ENCI export pedigree. Below, how it works.</p>
-  <div class="hero-actions">
-  <a class="btn btn-primary" href="/wa/393924635584" target="_blank" rel="noopener" aria-label="Write to me (opens in a new tab)">Write to me</a>
-  <a class="btn btn-ghost" href="#contenuto">How it works</a>
-  </div>
   <p class="hero-trust">Since 2013 &middot; ENCI pedigree &middot; Italiano, English, Deutsch</p>
   </div>
   </section>

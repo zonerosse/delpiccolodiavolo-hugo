@@ -22,10 +22,6 @@ custom_content: |
   <h1 class="hero-title">Recensioni <br><em>delle famiglie</em> <br>Del Piccolo Diavolo</h1>
   <p class="hero-subtitle"><!--REC-TOTALE--> recensioni su Google</p>
   <p class="hero-description">Le esperienze delle famiglie che hanno preso un nostro Staffordshire Bull Terrier, copiate cos&igrave; come le hanno scritte su Google. Le trovi tutte, con nome e data, sul profilo Google dell'allevamento.</p>
-  <div class="hero-actions">
-  <a href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" class="btn btn-primary" title="Leggi le recensioni su Google" aria-label="Leggi su Google (si apre in una nuova scheda)">Leggi su Google</a>
-  <a href="https://g.page/r/CUCv-r9V4lTREAE/review" target="_blank" rel="noopener" class="btn btn-ghost" title="Lascia una recensione su Google" aria-label="Lascia una recensione (si apre in una nuova scheda)">Lascia una recensione</a>
-  </div>
   </div>
   </section>
   <!--/BLOCCO:1-->

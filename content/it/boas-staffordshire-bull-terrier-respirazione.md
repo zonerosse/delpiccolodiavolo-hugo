@@ -28,10 +28,6 @@ custom_content: |
   <span>⏱️ 6 min lettura</span>
   </div>
   <p class="hero-description">La sindrome brachicefalica ostruttiva è un problema crescente in molte razze. Lo Staffy non dovrebbe esserne colpito, ma la selezione sbagliata sta cambiando le cose.</p>
-  <div class="hero-actions">
-  <a href="/femmine-staffordshire-bull-terrier/" class="btn btn-primary" title="I nostri riproduttori">I nostri cani</a>
-  <a href="/wa/393924635584" class="btn btn-ghost" title="Contattaci">Contattaci</a>
-  </div>
   </div>
   </section>
   <!--/BLOCCO:1-->

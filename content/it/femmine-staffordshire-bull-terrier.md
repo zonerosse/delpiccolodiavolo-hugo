@@ -21,10 +21,6 @@ custom_content: |
   <h1 class="hero-title">Femmine <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">Test del DNA: esenti da L2-HGA e HC (HSF4)</p>
   <p class="hero-description">Per ogni femmina trovi microchip, libro genealogico ENCI, test genetici e pedigree, da controllare da solo. Le fattrici in attivit&agrave;, Bilquis e Croi Olc, sono esenti anche dalla mielopatia degenerativa (gene SOD1).</p>
-  <div class="hero-actions">
-  <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sulle%20femmine" class="btn btn-primary" title="Contattaci su WhatsApp">Contattaci</a>
-  <a href="/maschi-staffordshire-bull-terrier/" class="btn btn-ghost" title="Vedi i nostri maschi">Vedi i maschi</a>
-  </div>
   </div>
   </section>
   <!--/BLOCCO:1-->

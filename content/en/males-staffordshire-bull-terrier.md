@@ -21,10 +21,6 @@ custom_content: |
   <h1 class="hero-title">Male <br><em>Staffordshire</em> <br>Bull Terriers</h1>
   <p class="hero-subtitle">DNA tested, clear of L2-HGA, HC (HSF4) and DM-SOD1</p>
   <p class="hero-description">For each male you will find the genetic tests, sire, dam and pedigree on SBTPedigree, to check for yourself against the <a href="/en/staffy-breed-standard/" title="Staffordshire Bull Terrier breed standard">breed standard</a>.</p>
-  <div class="hero-actions">
-  <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20the%20males" class="btn btn-primary" title="Contact us on WhatsApp for male info">Contact Us</a>
-  <a href="/en/females-staffordshire-bull-terrier/" class="btn btn-ghost" title="See our females">See the females</a>
-  </div>
   </div>
   </section>
   <!--/BLOCCO:1-->

@@ -20,10 +20,6 @@ custom_content: |
   <h1 class="hero-title">Hündinnen <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">DNA-Test: frei von L2-HGA und HC (HSF4)</p>
   <p class="hero-description">Zu jeder Hündin finden Sie Mikrochip, ENCI-Zuchtbuchnummer, Gentests und Ahnentafel, zum Selbstprüfen, auch am <a href="/de/staffy-rassestandard/" title="Rassestandard des Staffordshire Bull Terrier">Rassestandard</a>. Unsere aktiven Zuchthündinnen Bilquis und Croi Olc sind außerdem frei von degenerativer Myelopathie (Gen SOD1).</p>
-  <div class="hero-actions">
-  <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20möchte%20Infos%20zu%20den%20Hündinnen" class="btn btn-primary" title="Kontaktieren Sie uns auf WhatsApp">Kontakt</a>
-  <a href="/de/rueden-staffordshire-bull-terrier/" class="btn btn-ghost" title="Unsere Rüden sehen">Die Rüden ansehen</a>
-  </div>
   </div>
   </section>
   <!--/BLOCCO:1-->

@@ -20,10 +20,6 @@ custom_content: |
   <h1 class="hero-title">Besuchen <br><em>Sie uns</em></h1>
   <p class="hero-subtitle">Ostellato, Provinz Ferrara, Italien</p>
   <p class="hero-description">Familien kommen aus ganz Italien und aus dem Ausland. Besuche nur nach Vereinbarung.</p>
-  <div class="hero-actions">
-  <a href="/wa/393924635584" class="btn btn-primary" title="Schreiben Sie uns auf WhatsApp">Kontakt</a>
-  <a href="tel:+393924635584" class="btn btn-ghost" title="Rufen Sie uns an">Anrufen</a>
-  </div>
   </div>
   </section>
   <!--/BLOCCO:1-->

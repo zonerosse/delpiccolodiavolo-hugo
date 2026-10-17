@@ -23,68 +23,73 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/femmina-bilquis-hero.avif" alt="Bilquis Goddess Diabhal, Italian Champion Staffordshire Bull Terrier - Del Piccolo Diavolo" width="301" height="396" fetchpriority="high" decoding="sync">
+  <img src="/images/bilquis-campionessa-hero.avif" alt="Bilquis Goddess Diabhal, Italian Champion Staffordshire Bull Terrier - Del Piccolo Diavolo" width="800" height="976" fetchpriority="high" decoding="sync">
   </div>
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Since 2013</span>
   <h1 class="hero-title">About us – <em>the breeder behind Del Piccolo Diavolo</em></h1>
-  <p class="hero-subtitle">Since 2013 in Ostellato, province of Ferrara</p>
-  <p class="hero-description">A family Staffordshire Bull Terrier kennel in Ostellato (FE), Italy. One litter a year, sometimes none, on English Elitebull and Irish Lackyle lines.</p>
-  <div class="hero-actions">
-  <a href="/wa/393924635584" class="btn btn-primary" title="Contact us on WhatsApp">Contact Us</a>
-  <a href="/en/reviews/" class="btn btn-ghost" title="Read reviews">Reviews</a>
-  </div>
+  <p class="hero-subtitle">Since 2013 in Ostellato, in the province of Ferrara, Italy</p>
+  <p class="hero-description">A family Staffordshire Bull Terrier kennel in Ostellato (Ferrara, Italy). One litter a year, sometimes none, on English Elitebull and Irish Lackyle lines.</p>
   </div>
   </section>
   <!--/BLOCCO:1-->
 
-  <div class="features-bar">
-  <div class="features-track">
-  <span>Since 2013</span><span>Elitebull Lines</span><span>Lackyle Lines</span><span>L2-HGA Clear</span><span>HC Clear</span><span>ENCI Pedigree</span><span>Ostellato FE</span>
-  <span>Since 2013</span><span>Elitebull Lines</span><span>Lackyle Lines</span><span>L2-HGA Clear</span><span>HC Clear</span><span>ENCI Pedigree</span><span>Ostellato FE</span>
-  </div>
-  </div>
-
   <!--BLOCCO:2-->
-  <section class="section">
+  <section class="section section-alt">
   <div class="section-inner">
-  <span class="section-label">Our values</span>
-  <h2 class="section-title">What guides us</h2>
-  <div class="values-grid">
-  <div class="value-card"><h3>🧬 Genetic testing</h3><p>All breeding dogs tested for L2-HGA and HC, or clear by parentage</p></div>
-  <div class="value-card"><h3>🏠 Family Raised</h3><p>Puppies socialized in a home environment</p></div>
-  <div class="value-card"><h3>📞 Support</h3><p>Assistance for the dog's entire life</p></div>
-  <div class="value-card"><h3>🏆 Top Lines</h3><p>Elitebull (UK) and Lackyle (Ireland)</p></div>
+  <span class="section-label">The breeder</span>
+  <h2 class="section-title">Who is behind Del Piccolo Diavolo</h2>
+  <p class="n-lead"><strong>Paolo Boldrini</strong> has bred Staffordshire Bull Terriers since 2013 in Ostellato, in the province of Ferrara, under the name Del Piccolo Diavolo. He has followed the breed since 2005, eight years before the first litter. Before that he bred Rottweilers, producing an Italian Champion and a European Champion, and he was an international judge of Gloster canaries. He has no ENCI kennel prefix: the dogs are registered in his name and come with regular ENCI pedigrees. The kennel takes its name from Lackyle Diabhal &Oacute;g, Irish for "the little devil", one of the dogs that made the history of the breed and that appears in the pedigrees of the lines he works with. There is one litter a year, occasionally two, and in some years none. Every litter born here, with parents, tests, examinations and growth photos, is told in the <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a>.</p>
+  <div class="n-2c">
+  <p>The kennel works with Elitebull (England) and Lackyle (Ireland) lines and <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Genetic tests L2-HGA and HC">tests all breeding dogs for L2-HGA and HC</a>, or confirms them clear by parentage with the parents' reports, and also for DM-SOD1. With <strong>Bilquis Goddess Diabhal</strong> it won the title of ENCI Italian Beauty Champion and a fourth place at the World Dog Show in Zagreb in 2024. All puppies are placed with an ENCI pedigree and the certificates of their parents' tests.</p>
+  <p>The facts, data and choices told on these pages are his: they come from what happens at the kennel. For questions about puppies, bloodlines or genetic tests: <a href="/en/contact/">contact me directly</a>.</p>
   </div>
   </div>
   </section>
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
-  <section class="section section-alt">
+  <section class="section">
   <div class="section-inner">
   <span class="section-label">How it began</span>
   <h2 class="section-title">Our story</h2>
 
-  <div class="story-block" style="grid-template-columns:1fr">
-  <div class="story-text">
+  <div class="n-percorso n-storia">
+  <div class="n-passo">
+  <div class="n-cap">
   <h3>From Crufts to Ostellato</h3>
-  <p>It all began in 2005, at Crufts. I was looking for a dog with strong but manageable character: the Staffy struck me as a &ldquo;miniature Rottweiler&rdquo;: powerful, determined and very affectionate.</p>
-  <p>Since then I've studied the standard, traveled to UK and Ireland, met experienced breeders.</p>
+  <img class="n-foto-cap" src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo, Staffordshire Bull Terrier" width="480" height="600" loading="lazy" decoding="async">
   </div>
-  <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo — Staffordshire Bull Terrier" class="story-img" width="350" height="354" loading="lazy" decoding="async">
+  <div>
+  <p>It all began in 2005, at Crufts. I was looking for a dog with a strong but manageable character: the Staffy struck me as a &laquo;miniature Rottweiler&raquo;: powerful, determined and very affectionate.</p>
+  <p>Since then I have studied the standard, travelled to the UK and Ireland, and got to know experienced breeders.</p>
   </div>
+  </div>
+  <div class="n-passo">
+  <div class="n-cap">
+  <h3>Before the Staffies</h3>
 
-  <div class="story-block reverse">
-  <div class="story-text">
+  </div>
+  <div>
+  <p>Before Staffordshire Bull Terriers I bred Rottweilers, and that kennel produced an Italian Champion and a European Champion. I bred Gloster canaries and judged them as an international judge: assessing one animal after another, and having to explain why one is worth more than another, is a school that serves with dogs more than it seems.</p>
+  <p>The eight years before the first litter went into studying the standard, travelling to England and Ireland and working out which lines I wanted to work with. The first Del Piccolo Diavolo litter was born in <strong>2013</strong>.</p>
+  </div>
+  </div>
+  <div class="n-passo">
+  <div class="n-cap">
   <h3>Why Elitebull and Lackyle</h3>
-  <p>They are not two opposing styles, and it is not Ireland against England: they are two kennels that made the history of the breed, one before the other.</p>
-  <p><strong>Lackyle</strong> came first, and its historic dogs are found today in pedigrees across half of Europe. <strong>Elitebull</strong> is the one that weighs now, and its pedigrees carry precisely those historic Lackyle dogs. Not two alternative lines, then: the second contains the first.</p>
-  <p>I work with them because they are documented and verifiable lines that produce predictably. That is what you need when a mating is planned rather than hoped for.</p>
-  <p>There is also a reason that is not technical. Those pedigrees carry <strong>Lackyle Diabhal Óg</strong>, Irish for the little devil, who to my mind remains one of the finest dogs of the modern era, together with everything he left behind him. <strong>Del Piccolo Diavolo</strong> is the translation of his name: the kennel is called that because of him.</p>
+  <img class="n-foto-cap" src="/images/queen-of-california-800w.webp" alt="Queen of California, daughter of CH. Elitebull Prospect and Lackyle Bean Croí Olc" width="800" height="533" loading="lazy" decoding="async">
+  </div>
+  <div>
+  <p>They are not two opposing styles, and it is not a matter of Ireland against England: they are two kennels that made the history of the breed, one before the other.</p>
+  <p>In the history of the breed <strong>Lackyle</strong> came first, and its historic dogs are found today in the pedigrees of half of Europe. <strong>Elitebull</strong> is the one that carries weight now, and its pedigrees contain precisely the historic Lackyle dogs. So not two alternative lines: the second carries the first inside it.</p>
+  <p>I work with them because they are documented and verifiable lines that breed predictably. That is what you need when you plan a mating instead of hoping.</p>
+  <p>Behind the choice of these lines there is also a reason that is not technical. In those pedigrees there is <strong>Lackyle Diabhal &Oacute;g</strong>, Irish for "the little devil", who for me remains one of the best dogs of the modern era, he and everything he left behind. <strong>Del Piccolo Diavolo</strong> is the translation of his name: the kennel is called that because of him.</p>
   </div>
   </div>
+  </div>
+  <p class="n-vedi"><a href="/en/females-staffordshire-bull-terrier/">The females that carry those lines</a>. Eight profiles with microchip, genetic tests and pedigree: from there you can trace the pedigrees and check everything.</p>
   </div>
   </section>
   <!--/BLOCCO:3-->
@@ -92,30 +97,15 @@ custom_content: |
   <!--BLOCCO:4-->
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">Our approach</span>
-  <h2 class="section-title">Breeding philosophy</h2>
+  <span class="section-label">Selection</span>
+  <h2 class="section-title">How I choose a male</h2>
 
-  <div class="story-block">
-  <div class="story-text">
-  <h3>Quality, not quantity</h3>
-  <p>1-2 litters per year. Every pairing is planned: we study pedigrees, evaluate genetic compatibility, wait for the right moment. Every litter born here, with parents, tests, examinations and growth photos, is recorded in the <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a>.</p>
-  <h3 style="margin-top:1.2rem">Character selection</h3>
-  <p>Before including a dog in our program, we observe it for months: behavior at home, with strangers, other dogs, children. It must be confident, balanced, sociable.</p>
-  </div>
-  <img src="/images/20250922175108-4a225f3e-sm--1-.webp" alt="Newborn Staffy puppies" class="story-img" width="247" height="288" loading="lazy" decoding="async">
-  </div>
+  <p>The females are here and I have known them since they were puppies. The male, almost always, comes from outside: it is the choice that weighs most on a litter, and I make it by looking at three things.</p>
 
-  <div class="checklist">
-  <h3>What you receive with our puppy</h3>
-  <ul>
-  <li>ENCI Pedigree — FCI certificate recognized worldwide</li>
-  <li>Microchip registered with canine registry</li>
-  <li>Health booklet with vaccinations and deworming</li>
-  <li>L2-HGA and HC genetic test certificates of parents</li>
-  <li>Placement agreement with guarantees</li>
-  <li>Puppy kit: food, blanket with mom's scent, toy</li>
-  <li>Our number — Support for the dog's entire life</li>
-  </ul>
+  <div class="n-tre">
+  <div><p><strong>What the female lacks.</strong> A mating between two Staffordshire Bull Terriers is not about adding up two beautiful dogs, it is about correcting something and fixing the rest. If a female has an excellent head and a movement that could be better, I look for a male that is sound in movement, not one as beautiful as she is.</p></div>
+  <div><p><strong>What is behind the male.</strong> Looking at the dog is not enough: <a href="/en/parents-on-site-what-it-means/" title="Parents on site: what it means">I look at the father, the mother</a>, the littermates, and what he has produced if he already has offspring. A dog can be better or worse than its own line, and in the second generation it shows.</p></div>
+  <div><p><strong>What the stud owner has in hand.</strong> Genetic test reports with the microchip number on them, not promises. If a male is not tested for everything that is needed, or is clear only by parentage, I know before the mating and I write it on the page of that litter: whoever reads it must be able to know it as well as I do.</p></div>
   </div>
   </div>
   </section>
@@ -123,14 +113,14 @@ custom_content: |
 
   <!--BLOCCO:5-->
   <section class="section section-alt">
-  <div class="section-inner">
-  <span class="section-label">The Breeder</span>
-  <h2 class="section-title">Who is behind Del Piccolo Diavolo</h2>
-  <div class="content-block">
-  <p><strong>Paolo Boldrini</strong> has been breeding Staffordshire Bull Terriers since 2013 in Ostellato, in the province of Ferrara, under the name Del Piccolo Diavolo. Before the Staffies he bred Rottweilers, taking an Italian Champion and a European Champion into the ring.</p>
-  <p>He works with Elitebull (England) and Lackyle (Ireland) bloodlines and <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)">tests every breeding dog for L2-HGA and HC</a>. Our dogs are also clear of DM-SOD1. With <strong>Bilquis Goddess Diabhal</strong> he won the ENCI Italian Beauty Champion title and placed fourth at the World Dog Show in Zagreb in 2024. Every puppy leaves with an ENCI pedigree and with the parents' test certificates.</p>
-  <p>The facts, data and choices described on these pages are his: they come from what happens at the kennel. For questions about puppies, bloodlines or genetic testing: <a href="/en/contact/">contact me directly</a>.</p>
-  </div>
+  <div class="section-inner content-single">
+  <span class="section-label">How I work</span>
+  <h2 class="section-title">One or two litters a year, sometimes none</h2>
+
+  <p>Every mating is planned: the pedigrees are studied, the genetic compatibility is assessed, the right moment is waited for. If that moment does not come, nothing is born that year.</p>
+
+  <p>Before using a Staffordshire Bull Terrier for breeding I watch it for months: how it is at home, with strangers, with other dogs, <a href="/en/staffy-children-family/" title="Staffordshire Bull Terrier and children: living together safely">with children</a>. A dog that is not sure of itself does not enter the programme, however beautiful it is.</p>
+
   </div>
   </section>
   <!--/BLOCCO:5-->
@@ -138,41 +128,28 @@ custom_content: |
   <!--BLOCCO:6-->
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">How I work</span>
-  <h2 class="section-title">How I choose a male, and what I ask of families</h2>
-  <p>The breeding females live here and I have known them since they were puppies. The male almost always comes from outside: it is the choice that weighs most on a litter, and I make it by looking at three things.</p>
-  <details class="continua"><summary>Continue reading</summary>
-  <p><strong>What the female lacks.</strong> A mating between two Staffordshire Bull Terriers is not about adding two beautiful dogs together; it is about correcting something and fixing the rest. If a female has an excellent head and movement that could be better, I look for a male who is strong on movement, not one who is as beautiful as she is.</p>
-  <p><strong>What lies behind the male.</strong> Looking at the dog is not enough: I look at his sire, his dam, his littermates and what he has produced if he already has offspring. A dog can be better or worse than his own line, and the second generation shows it.</p>
-  <p><strong>What the stud's owner can show.</strong> Genetic test reports with the microchip number on them, not promises. If a male is not tested for everything needed, or is clear only by parentage, I know it before the mating and I write it on that litter's page: anyone reading should know it as well as I do.</p>
-  <p>Before a dog is used for breeding I watch it for months: at home, with strangers, with other dogs, <a href="/en/staffy-children-family/" title="Staffordshire Bull Terrier with children: family life">with children</a>. A dog that is not sure of itself does not enter the programme, however handsome. That is why there are one or two litters a year, and some years none: if the right moment does not come, nothing is born that year.</p>
-  <p>Of anyone who wants a puppy I ask one thing first: to come to Ostellato in person, at least once. It is the only moment when I see how someone behaves with a real dog rather than a photograph, and when they see where the puppy grew up. I ask to talk about the dog's day: how many hours it will be alone, who is at home, what happens in summer when the family goes away. Ordinary questions, and they prevent almost every problem.</p>
-  </details>
+  <span class="section-label">Placement</span>
+  <h2 class="section-title">What I ask of those who take a puppy</h2>
+
+  <p>I ask those who want a puppy to come to Ostellato in person, at least once. It is the only moment in which I see how a person behaves with a real dog instead of a photo, and in which whoever comes sees where the puppy grew up.</p>
+
+  <p>I ask to talk about what the dog's day will be like: how many hours it stays alone, who is at home, what happens in summer when the family goes away. They are simple questions, and they prevent almost all the trouble.</p>
+
+  <p>And I always tell those who take one of our puppies one thing, which counts as a commitment: <strong>if one day you can no longer keep it, the dog comes back here</strong>. That is why I take my time choosing whom to place it with. Since 2013 it has never been needed: where those dogs ended up, and what life they lead today, I tell in the <a href="/en/staffordshire-family-life-stories/" title="Family stories">family stories</a>.</p>
+
   </div>
   </section>
   <!--/BLOCCO:6-->
+
+  <!--BLOCCO:7-->
+  <!--CORRELATI-->
+  <!--/BLOCCO:7-->
 
   <section class="section">
   <div class="section-inner content-single">
   <p class="fonti">Sources: This page tells the story and the work of the Del Piccolo Diavolo kennel in the first person, and cites no external sources because the facts it reports are the kennel's own. Those that can be verified are verifiable on the site: genetic test reports with the microchip number, ENCI pedigrees, show results with the judges' names.</p>
   </div>
   </section>
-
-
-  <!--BLOCCO:7-->
-  <!--CORRELATI-->
-  <!--/BLOCCO:7-->
-
-
-  <p>We tell every family the same thing: if one day you can no longer keep the dog, it comes back to us. Since 2013 it has never been needed. Where those dogs ended up is told in <a href="/en/staffordshire-family-life-stories/" title="Family stories">the family stories</a>.</p>
-
-
-  <div class="related-articles">
-  <h3>More on this topic</h3>
-  <ul>
-  <li><a href="/en/females-staffordshire-bull-terrier/" title="Our female Staffies: microchips and pedigrees">Our female Staffies: microchips and pedigrees</a></li>
-  </ul>
-  </div>
 
   <!--BLOCCO:8-->
   <section class="cta-section">

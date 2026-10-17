@@ -35,10 +35,6 @@ custom_content: |
   <h1 class="hero-title">Cuccioli <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">Linee Elitebull e Lackyle - Dal 2013</p>
   <p class="hero-description">I cuccioli dell'allevamento Del Piccolo Diavolo nascono in casa e ci restano il primo mese, poi crescono fra casa e cortile. Selezioniamo per salute, carattere e tipicità, su linee inglesi (Elitebull) e irlandesi (Lackyle) documentate su SBTPedigree.</p>
-  <div class="hero-actions">
-  <a href="/programma-allevamento/" class="btn btn-primary" title="Vedi il programma di selezione">Programma di selezione</a>
-  <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sui%20cuccioli" class="btn btn-ghost" title="Contattaci su WhatsApp">Contattaci</a>
-  </div>
   </div>
   </section>
   <!--/BLOCCO:1-->

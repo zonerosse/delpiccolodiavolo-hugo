@@ -28,10 +28,6 @@ custom_content: |
   <span>⏱️ 6 Min. Lesezeit</span>
   </div>
   <p class="hero-description">Die Rasse ist für ihre Größe langlebig. Doch der Durchschnitt ist kein Schicksal: nach der Genetik verlängert oder verkürzt das Gewicht das Leben mehr als alles andere.</p>
-  <div class="hero-actions">
-  <a href="/de/huendinnen-staffordshire-bull-terrier/" class="btn btn-primary" title="Unsere Zuchthunde">Unsere Hunde</a>
-  <a href="/wa/393924635584" class="btn btn-ghost" title="Kontakt">Kontakt</a>
-  </div>
   </div>
   </section>
   <!--/BLOCCO:1-->

@@ -22,10 +22,6 @@ custom_content: |
   <h1 class="hero-title">Allevamento <br><em>Staffordshire</em> <br>Bull Terrier <br>in Emilia-Romagna</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo – Dal 2013</p>
   <p class="hero-description">Allevamento di Staffordshire Bull Terrier a Ostellato (FE), in Emilia-Romagna, su linee inglesi e irlandesi. Si viene su appuntamento, da tutta Italia.</p>
-  <div class="hero-actions">
-  <a href="/wa/393924635584" class="btn btn-primary" title="Scrivici su WhatsApp">Scrivici</a>
-  <a href="tel:+393924635584" class="btn btn-ghost" title="Chiamaci">Chiama</a>
-  </div>
   </div>
   </section>
   <!--/BLOCCO:1-->

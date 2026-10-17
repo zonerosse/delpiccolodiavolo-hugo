@@ -35,10 +35,6 @@ custom_content: |
   <h1 class="hero-title"><em>Staffordshire</em> <br>Bull Terrier <br>puppies</h1>
   <p class="hero-subtitle">Elitebull and Lackyle Lines - Since 2013</p>
   <p class="hero-description">Del Piccolo Diavolo puppies are born in the house and stay there for the first month, then grow up between house and yard. We select for health, character and breed type, on English (Elitebull) and Irish (Lackyle) lines documented on SBTPedigree.</p>
-  <div class="hero-actions">
-  <a href="/en/litters-staffordshire-bull-terrier/" class="btn btn-primary" title="See available puppies">Available puppies</a>
-  <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20puppies" class="btn btn-ghost" title="Contact us on WhatsApp">Contact Us</a>
-  </div>
   </div>
   </section>
   <!--/BLOCCO:1-->

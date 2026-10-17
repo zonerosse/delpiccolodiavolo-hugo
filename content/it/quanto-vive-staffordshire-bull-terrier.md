@@ -28,10 +28,6 @@ custom_content: |
   <span>⏱️ 6 min lettura</span>
   </div>
   <p class="hero-description">La razza è longeva per la sua taglia. Ma la media non è un destino: dopo la genetica, il peso è la leva che allunga o accorcia la vita più di ogni altra.</p>
-  <div class="hero-actions">
-  <a href="/femmine-staffordshire-bull-terrier/" class="btn btn-primary" title="I nostri riproduttori">I nostri cani</a>
-  <a href="/wa/393924635584" class="btn btn-ghost" title="Contattaci">Contattaci</a>
-  </div>
   </div>
   </section>
   <!--/BLOCCO:1-->

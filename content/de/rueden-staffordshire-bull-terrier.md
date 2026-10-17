@@ -21,10 +21,6 @@ custom_content: |
   <h1 class="hero-title">Rüden <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">DNA getestet, frei von L2-HGA, HC (HSF4) und DM-SOD1</p>
   <p class="hero-description">Zu jedem Rüden finden Sie Gentests, Vater, Mutter und Ahnentafel auf SBTPedigree, zum Selbstprüfen, auch am <a href="/de/staffy-rassestandard/" title="Rassestandard des Staffordshire Bull Terrier">Rassestandard</a>.</p>
-  <div class="hero-actions">
-  <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20möchte%20Infos%20zu%20den%20Rüden" class="btn btn-primary" title="Kontaktieren Sie uns auf WhatsApp">Kontakt</a>
-  <a href="/de/huendinnen-staffordshire-bull-terrier/" class="btn btn-ghost" title="Unsere Hündinnen sehen">Die Hündinnen ansehen</a>
-  </div>
   </div>
   </section>
   <!--/BLOCCO:1-->

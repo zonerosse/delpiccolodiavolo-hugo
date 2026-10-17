@@ -299,7 +299,8 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
   caricato da `partials/css.html`). Gli articoli del Blog e le pagine del diario restano chiari.
 - Home: struttura propria dentro `<div class="notte">` (`assets/css/home.css`, solo sulla home): niente «Continua a leggere» né
   tendine, testi e link identici a prima; FAQ aperte come `.faq-item active n-faq` dentro `.faq-container` (schema FAQPage).
-- Pagine vetrina aperte una alla volta (Cuccioli il 17/10/2026): niente «Continua a leggere» né tendine; le tendine diventano
+- Niente bottoni nella testata (hero) di nessuna pagina tranne la Home (Paolo, 17/10/2026); i bottoni dentro la pagina e WhatsApp in fondo restano.
+- Pagine vetrina aperte una alla volta (Cuccioli e Chi siamo il 17/10/2026, Chi siamo EN/DE riscritte uguali all IT): niente «Continua a leggere» né tendine; le tendine diventano
   `.n-percorso > .n-passo` (titolo a sinistra, testo a destra, scelta B), i «rimando» una riga `.n-vedi`, le FAQ `.faq-item active n-faq`.
 - Contrasti: tutte le pagine Notte passano axe-core `color-contrast` (WCAG AA). Colori nuovi nel `style=""` delle pagine Notte
   vanno ricoperti in `notte.css`, altrimenti testo scuro su fondo scuro. Bottoni rame: `linear-gradient(135deg,#9c5f2c,#7f4a1f)`.

@@ -35,10 +35,6 @@ custom_content: |
   <h1 class="hero-title">Welpen <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">Elitebull und Lackyle Linien - Seit 2013</p>
   <p class="hero-description">Unsere Welpen kommen im Haus zur Welt und bleiben dort den ersten Monat, danach wachsen sie zwischen Haus und Hof auf. Wir selektieren auf Gesundheit, Charakter und Typ, mit englischen (Elitebull) und irischen (Lackyle) Linien, dokumentiert auf SBTPedigree.</p>
-  <div class="hero-actions">
-  <a href="/de/wuerfe-staffordshire-bull-terrier/" class="btn btn-primary" title="Verfügbare Welpen ansehen">Verfügbare Welpen</a>
-  <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20möchte%20Infos%20über%20Welpen" class="btn btn-ghost" title="Kontaktieren Sie uns auf WhatsApp">Kontakt</a>
-  </div>
   </div>
   </section>
   <!--/BLOCCO:1-->

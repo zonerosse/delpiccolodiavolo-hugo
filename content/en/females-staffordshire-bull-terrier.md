@@ -21,10 +21,6 @@ custom_content: |
   <h1 class="hero-title">Female <br><em>Staffordshire</em> <br>Bull Terriers</h1>
   <p class="hero-subtitle">DNA tested: clear of L2-HGA and HC (HSF4)</p>
   <p class="hero-description">For each female you will find the microchip, the ENCI studbook number, the genetic tests and the pedigree, to check for yourself, against the <a href="/en/staffy-breed-standard/" title="Staffordshire Bull Terrier breed standard">breed standard</a> too. Our active breeding females, Bilquis and Croi Olc, are also clear for degenerative myelopathy (SOD1 gene).</p>
-  <div class="hero-actions">
-  <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20the%20females" class="btn btn-primary" title="Contact us on WhatsApp">Contact Us</a>
-  <a href="/en/males-staffordshire-bull-terrier/" class="btn btn-ghost" title="See our males">See the males</a>
-  </div>
   </div>
   </section>
   <!--/BLOCCO:1-->

@@ -21,10 +21,6 @@ custom_content: |
   <h1 class="hero-title">Unsere <br><em>Bewertungen</em></h1>
   <p class="hero-subtitle"><!--REC-TOTALE--> Bewertungen bei Google</p>
   <p class="hero-description">Die Erfahrungen der Familien, die einen unserer Staffordshire Bull Terrier übernommen haben, so übernommen, wie sie sie bei Google geschrieben haben. Alle sind mit Name und Datum im Google-Profil der Zucht zu lesen.</p>
-  <div class="hero-actions">
-  <a href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" class="btn btn-primary" title="Bewertungen bei Google lesen" aria-label="Bewertungen bei Google lesen (wird in einem neuen Tab geöffnet)">Bei Google lesen</a>
-  <a href="https://g.page/r/CUCv-r9V4lTREAE/review" target="_blank" rel="noopener" class="btn btn-ghost" title="Bewertung hinterlassen" aria-label="Bewertung hinterlassen (wird in einem neuen Tab geöffnet)">Bewertung hinterlassen</a>
-  </div>
   </div>
   </section>
   <!--/BLOCCO:1-->

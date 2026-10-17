@@ -28,10 +28,6 @@ custom_content: |
   <span>⏱️ 5 min read</span>
   </div>
   <p class="hero-description">Brachycephalic obstructive airway syndrome is a growing problem in many breeds. The Staffy shouldn't be affected, but poor breeding choices are changing that.</p>
-  <div class="hero-actions">
-  <a href="/en/females-staffordshire-bull-terrier/" class="btn btn-primary" title="Our breeding dogs">Our dogs</a>
-  <a href="/wa/393924635584" class="btn btn-ghost" title="Contact us">Contact us</a>
-  </div>
   </div>
   </section>
   <!--/BLOCCO:1-->

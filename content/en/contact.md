@@ -20,10 +20,6 @@ custom_content: |
   <h1 class="hero-title">Come <br><em>visit us</em></h1>
   <p class="hero-subtitle">Ostellato, province of Ferrara, Italy</p>
   <p class="hero-description">Families come from all over Italy and from abroad. Visits by appointment only.</p>
-  <div class="hero-actions">
-  <a href="/wa/393924635584" class="btn btn-primary" title="Write us on WhatsApp">Contact Us</a>
-  <a href="tel:+393924635584" class="btn btn-ghost" title="Call us">Call</a>
-  </div>
   </div>
   </section>
   <!--/BLOCCO:1-->

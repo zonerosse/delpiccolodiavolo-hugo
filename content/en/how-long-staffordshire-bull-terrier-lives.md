@@ -28,10 +28,6 @@ custom_content: |
   <span>⏱️ 6 min read</span>
   </div>
   <p class="hero-description">The breed is long-lived for its size. But the average is not a fate: after genetics, weight is the lever that lengthens or shortens life more than anything else.</p>
-  <div class="hero-actions">
-  <a href="/en/females-staffordshire-bull-terrier/" class="btn btn-primary" title="Our breeding dogs">Our dogs</a>
-  <a href="/wa/393924635584" class="btn btn-ghost" title="Contact us">Contact us</a>
-  </div>
   </div>
   </section>
   <!--/BLOCCO:1-->

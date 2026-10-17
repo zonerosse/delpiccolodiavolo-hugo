@@ -21,10 +21,6 @@ custom_content: |
   <h1 class="hero-title">Maschi <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">Test del DNA: esenti da L2-HGA, HC (HSF4) e DM-SOD1</p>
   <p class="hero-description">Per ogni maschio trovi test genetici, padre, madre e pedigree su SBTPedigree, da controllare da solo.</p>
-  <div class="hero-actions">
-  <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sui%20maschi" class="btn btn-primary" title="Contattaci su WhatsApp per info maschi">Contattaci</a>
-  <a href="/femmine-staffordshire-bull-terrier/" class="btn btn-ghost" title="Vedi le nostre femmine">Vedi le femmine</a>
-  </div>
   </div>
   </section>
   <!--/BLOCCO:1-->

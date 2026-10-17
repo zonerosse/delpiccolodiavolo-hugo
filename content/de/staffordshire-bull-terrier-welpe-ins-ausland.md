@@ -33,10 +33,6 @@ custom_content: |
   <span>⏱️ 5 Min. Lesezeit</span>
   </div>
   <p class="hero-description">Ein Welpe für eine Familie in einem anderen europäischen Land reist mit etwa vier Monaten, nicht mit zwei. Nötig sind Tollwutimpfung, EU-Heimtierausweis, TRACES-Gesundheitszeugnis und ENCI-Exportstammbaum. Hier unten, wie es abläuft.</p>
-  <div class="hero-actions">
-  <a class="btn btn-primary" href="/wa/393924635584" target="_blank" rel="noopener" aria-label="Schreiben Sie mir (wird in einem neuen Tab geöffnet)">Schreiben Sie mir</a>
-  <a class="btn btn-ghost" href="#contenuto">So funktioniert es</a>
-  </div>
   <p class="hero-trust">Seit 2013 &middot; ENCI-Stammbaum &middot; Italiano, English, Deutsch</p>
   </div>
   </section>

@@ -33,10 +33,6 @@ custom_content: |
   <span>⏱️ 5 min lettura</span>
   </div>
   <p class="hero-description">Un cucciolo destinato a una famiglia di un altro paese europeo parte intorno ai quattro mesi, non a due. Servono antirabbica, passaporto europeo, certificato sanitario TRACES ed export pedigree ENCI. Qui sotto, come funziona.</p>
-  <div class="hero-actions">
-  <a class="btn btn-primary" href="/wa/393924635584" target="_blank" rel="noopener" aria-label="Scrivimi (si apre in una nuova scheda)">Scrivimi</a>
-  <a class="btn btn-ghost" href="#contenuto">Come funziona</a>
-  </div>
   <p class="hero-trust">Dal 2013 &middot; Pedigree ENCI &middot; Italiano, English, Deutsch</p>
   </div>
   </section>

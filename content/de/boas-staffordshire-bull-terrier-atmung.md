@@ -28,10 +28,6 @@ custom_content: |
   <span>⏱️ 5 Min. Lesezeit</span>
   </div>
   <p class="hero-description">Das brachyzephale obstruktive Atemwegssyndrom ist ein wachsendes Problem bei vielen Rassen. Der Staffy sollte nicht betroffen sein, aber falsche Zuchtentscheidungen ändern das.</p>
-  <div class="hero-actions">
-  <a href="/de/huendinnen-staffordshire-bull-terrier/" class="btn btn-primary" title="Unsere Zuchthunde">Unsere Hunde</a>
-  <a href="/wa/393924635584" class="btn btn-ghost" title="Kontaktieren Sie uns">Kontakt</a>
-  </div>
   </div>
   </section>
   <!--/BLOCCO:1-->

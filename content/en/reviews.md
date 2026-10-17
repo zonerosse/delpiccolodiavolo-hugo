@@ -22,10 +22,6 @@ custom_content: |
   <h1 class="hero-title">Our <br><em>reviews</em></h1>
   <p class="hero-subtitle"><!--REC-TOTALE--> reviews on Google</p>
   <p class="hero-description">The experiences of the families who took one of our Staffordshire Bull Terriers, copied just as they wrote them on Google. You can read them all, with name and date, on the kennel's Google profile.</p>
-  <div class="hero-actions">
-  <a href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" class="btn btn-primary" title="Read reviews on Google" aria-label="Read on Google (opens in a new tab)">Read on Google</a>
-  <a href="https://g.page/r/CUCv-r9V4lTREAE/review" target="_blank" rel="noopener" class="btn btn-ghost" title="Leave a review on Google" aria-label="Leave a review (opens in a new tab)">Leave a review</a>
-  </div>
   </div>
   </section>
   <!--/BLOCCO:1-->
