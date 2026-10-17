@@ -414,3 +414,9 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .tipo-articolo.notte-pagina main [style*="linear-gradient(135deg,#5c4a3a"] a{background:transparent!important;border:1px solid var(--n-ln)!important;color:var(--n-go)!important}
 .tipo-articolo.notte-pagina main [style*="linear-gradient(135deg,#5c4a3a"] a:hover{border-color:var(--n-go)!important}
 .tipo-articolo.notte-pagina main span[style*="background:#8b7300"],.tipo-articolo.notte-pagina main span[style*="background:#5c4a3a"]{background:transparent!important;border:1px solid var(--n-go);color:var(--n-go)!important}
+/* Niente fondi pieni senape, rame, verdi o blu nelle etichette: solo bordo (17/10/2026) */
+.notte-pagina main span[style*="background"][style*="border-radius"]:not(.btn){background:transparent!important;border:1px solid var(--n-go)!important;color:var(--n-go)!important}
+.notte-pagina .badge,.notte-pagina .female-badge,.notte-pagina .male-badge{background:transparent!important;border:1px solid var(--n-cu)!important;color:var(--n-go)!important}
+.notte-pagina .stato-fattrice{background:transparent!important;border:1px solid var(--n-ln)!important;color:var(--n-mu)!important}
+.notte-pagina .cta-section{background:var(--n-bg2)!important;border-top:1px solid var(--n-ln)}
+.notte-pagina main table thead{background:transparent!important}
