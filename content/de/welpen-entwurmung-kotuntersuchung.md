@@ -2,7 +2,7 @@
 title: "Welpen: Entwurmung und Kotuntersuchung"
 date: 2026-09-27
 titleSeo: "Entwurmung der Welpen: Plan und Kotuntersuchung"
-lastmod: 2026-10-05
+lastmod: 2026-10-17
 translationKey: "sverminazione"
 articolo: true
 image: "/images/blog/esame-feci-microscopio-hero.webp"
@@ -33,8 +33,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>ESCCAP-Plan</span><span>Kotuntersuchung</span><span>Giardien</span><span>Befunde Veröffentlicht</span><span>Laufende Behandlung</span>
-  <span>ESCCAP-Plan</span><span>Kotuntersuchung</span><span>Giardien</span><span>Befunde Veröffentlicht</span><span>Laufende Behandlung</span>
+  <span>ESCCAP-Plan</span><span>Kotuntersuchung</span><span>Giardien</span><span>Befunde veröffentlicht</span><span>Laufende Behandlung</span>
+  <span>ESCCAP-Plan</span><span>Kotuntersuchung</span><span>Giardien</span><span>Befunde veröffentlicht</span><span>Laufende Behandlung</span>
   </div>
   </div>
 
@@ -48,9 +48,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>Nahezu alle Welpen, auch die des Staffordshire Bull Terrier, kommen mit <a href="/de/staffy-parasitenvorbeugung/" title="Parasitenvorbeugung für Staffordshire Bull Terrier">Parasiten</a> zur Welt. Das ist kein Zeichen von Nachlässigkeit des Züchters: Larven von <em>Toxocara canis</em> bleiben über Jahre im Gewebe der Hündin eingekapselt, werden während der Trächtigkeit reaktiviert und gelangen über die Plazenta zu den Föten, später über die Milch zu den Neugeborenen. Eine entwurmte, vollkommen gesunde Hündin kann dennoch einen befallenen Wurf zur Welt bringen. Deshalb beginnt die Entwurmung schon ab der zweiten Lebenswoche und wird in regelmäßigen Abständen wiederholt, und deshalb genügt ein blindes Schema nicht: der einzige Weg zu wissen, was wirklich da ist, ist die Kotuntersuchung im Labor. Die Befunde des Wurfs vom August 2026 der Zucht Del Piccolo Diavolo sind hier vollständig veröffentlicht, positive Ergebnisse eingeschlossen, mit Name des Labors und Datum.</p>
+  <p>Nahezu alle Welpen, auch die des Staffordshire Bull Terrier, kommen mit <a href="/de/staffy-parasitenvorbeugung/" title="Parasitenvorbeugung für Staffordshire Bull Terrier">Parasiten</a> zur Welt. Das ist kein Zeichen von Nachlässigkeit des Züchters: Larven von <em>Toxocara canis</em> bleiben über Jahre im Gewebe der Hündin eingekapselt, werden während der Trächtigkeit reaktiviert und gelangen über die Plazenta zu den Föten, später über die Milch zu den Neugeborenen. Eine entwurmte, vollkommen gesunde Hündin kann dennoch einen befallenen Wurf zur Welt bringen. Deshalb beginnt die Entwurmung schon ab der zweiten Lebenswoche und wird in regelmäßigen Abständen wiederholt, und deshalb genügt ein blindes Schema nicht: der einzige Weg zu wissen, was wirklich da ist, ist die Kotuntersuchung im Labor. Die Befunde des Wurfs vom August 2026 der Zucht Del Piccolo Diavolo sind hier vollständig veröffentlicht, die rote Zeile eingeschlossen, mit Name des Labors und Datum.</p>
 
-  <p>Die Entwurmung ist deshalb nicht die Antwort auf ein aufgetretenes Problem, sondern ein von Anfang an geplanter Ablauf, der ohnehin stattfindet. Der Unterschied zwischen Zuchten liegt nicht darin, sie zu behaupten, sondern sie belegen zu können.</p>
+  <p>Die Entwurmung ist deshalb nicht die Antwort auf ein aufgetretenes Problem, sondern ein von Anfang an geplanter Ablauf, der ohnehin stattfindet. Der Unterschied zwischen Zuchten liegt darin, sie belegen zu können.</p>
 
   <!--BLOCCO:2-->
   <h2>Der Zeitplan</h2>
@@ -100,10 +100,10 @@ custom_content: |
   </tbody>
   </table>
 
-  <p>Das Bild zeigt Welpen mit gesundem Darm: keine Parasiten, ausgeglichene Flora, funktionierende Verdauung. Das ist kein Glück, sondern das Ergebnis eines ab der zweiten Lebenswoche angewandten Protokolls und einer sauber gehaltenen Umgebung.</p>
+  <p>Das Bild zeigt Welpen mit gesundem Darm: keine Parasiten, ausgeglichene Flora, funktionierende Verdauung. Das ist das Ergebnis eines ab der zweiten Lebenswoche angewandten Protokolls und einer sauber gehaltenen Umgebung.</p>
 
   <div class="callout">
-  <p><strong>📄 Die vollständigen Befunde:</strong> <a href="/docs/referti-feci-cucciolata-17-09-2026.pdf" title="Befunde der Kotuntersuchung des Wurfs, 17. September 2026" target="_blank" rel="noopener" aria-label="PDF beider Untersuchungen herunterladen – Befunde der Kotuntersuchung des Wurfs, 17. September 2026 (wird in einem neuen Tab geöffnet)">PDF beider Untersuchungen herunterladen</a> — Ergebnistabelle, Mikroaufnahmen und Giardien-Antigentest. Die Befunde sind auf Italienisch.</p>
+  <p><strong>📄 Die vollständigen Befunde:</strong> <a href="/docs/referti-feci-cucciolata-17-09-2026.pdf" title="Befunde der Kotuntersuchung des Wurfs, 17. September 2026" target="_blank" rel="noopener" aria-label="PDF beider Untersuchungen herunterladen – Befunde der Kotuntersuchung des Wurfs, 17. September 2026 (wird in einem neuen Tab geöffnet)">PDF beider Untersuchungen herunterladen</a>: Ergebnistabelle, Mikroaufnahmen und Giardien-Antigentest. Die Befunde sind auf Italienisch.</p>
   </div>
   <!--/BLOCCO:4-->
 
@@ -126,7 +126,7 @@ custom_content: |
 
   <p>Ein negativer Befund beendet das Programm nicht, er bestätigt es. Der Wurf schließt gerade eine Behandlung mit <strong>Fenbendazol über 6 aufeinanderfolgende Tage</strong> ab, gefolgt von einer Gabe <strong>Milbemycinoxim mit Praziquantel</strong> wenige Tage vor der ersten Impfung. Was eine solche Behandlung kostet, mit dem Apothekenbeleg, steht im Ratgeber <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/#costi-cucciolata" title="Was uns ein Wurf kostet, Posten für Posten">was uns ein Wurf kostet, Posten für Posten</a>.</p>
 
-  <p>Die beiden Präparate überschneiden sich nicht, sie ergänzen sich. Fenbendazol deckt Spul-, Haken- und Peitschenwürmer ab und wirkt gegen Giardien, weshalb es über mehrere Tage und nicht als Einzeldosis gegeben wird. Das zweite bringt Praziquantel ein, das einzige wirklich wirksame Mittel gegen Bandwürmer, <em>Dipylidium</em> eingeschlossen.</p>
+  <p>Die beiden Präparate überschneiden sich nicht, sie ergänzen sich. Fenbendazol deckt Spul-, Haken- und Peitschenwürmer ab und wirkt gegen Giardien, weshalb es über mehrere Tage und nicht als Einzeldosis gegeben wird. Das zweite bringt Praziquantel ein, das Standardmittel gegen Bandwürmer, <em>Dipylidium</em> eingeschlossen.</p>
 
   <p>Auch der Zeitpunkt der letzten Gabe hat einen Grund: kurz vor der Impfung zu entwurmen bedeutet, mit freiem Darm zum Termin zu erscheinen, denn ein erheblicher Parasitenbefall kann die Impfantwort abschwächen.</p>
 
@@ -140,7 +140,7 @@ custom_content: |
 
   <p>All das bleibt nicht in der Zucht. <strong>Sobald Untersuchungen durchgeführt und Behandlungen gegeben werden, senden wir den neuen Besitzern eine Kopie</strong>: Laborbefunde, verwendete Präparate, Dosierungen und das Datum jeder Gabe. Nicht am Ende als ein Paket zum Unterschreiben, sondern nach und nach, während es geschieht.</p>
 
-  <p>Das ist zuerst eine Frage der Korrektheit und erst dann eine der Transparenz. Wer auf einen Welpen wartet, hat ein Recht darauf zu wissen, wie er heranwächst und was er bekommt — in dem Moment, in dem er es bekommt. Und wenn der Welpe in seine neue Familie kommt, enthält das Impfbuch die vollständige Vorgeschichte, die der eigene Tierarzt lesen und fortführen kann, ohne etwas rekonstruieren zu müssen.</p>
+  <p>Das ist zuerst eine Frage der Korrektheit und erst dann eine der Transparenz. Wer einen Welpen aufnehmen wird, hat ein Recht darauf zu wissen, wie er heranwächst und was er bekommt, in dem Moment, in dem er es bekommt. Und wenn der Welpe in seine neue Familie kommt, enthält das Impfbuch die vollständige Vorgeschichte, die der eigene Tierarzt lesen und fortführen kann, ohne etwas rekonstruieren zu müssen.</p>
   <!--/BLOCCO:7-->
 
   <!--BLOCCO:8-->

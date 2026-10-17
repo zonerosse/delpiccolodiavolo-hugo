@@ -2,7 +2,7 @@
 title: "Cuccioli: sverminazione ed esami delle feci"
 date: 2026-09-27
 titleSeo: "Sverminazione cuccioli: protocollo ed esami delle feci"
-lastmod: 2026-10-05
+lastmod: 2026-10-17
 translationKey: "sverminazione"
 articolo: true
 image: "/images/blog/esame-feci-microscopio-hero.webp"
@@ -24,7 +24,7 @@ custom_content: |
   <h1 class="hero-title">Sverminazione dei <em>cuccioli</em></h1>
   <p class="hero-subtitle">Protocollo, referti degli esami e terapia in corso</p>
   <div class="hero-meta">
-  <span>📅 27 Settembre 2026</span>
+  <span>📅 27 settembre 2026</span>
   <span>⏱️ 6 min lettura</span>
   </div>
   </div>
@@ -33,8 +33,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Calendario ESCCAP</span><span>Esame delle Feci</span><span>Giardia</span><span>Referti Pubblicati</span><span>Terapia in Corso</span>
-  <span>Calendario ESCCAP</span><span>Esame delle Feci</span><span>Giardia</span><span>Referti Pubblicati</span><span>Terapia in Corso</span>
+  <span>Calendario ESCCAP</span><span>Esame delle feci</span><span>Giardia</span><span>Referti pubblicati</span><span>Terapia in corso</span>
+  <span>Calendario ESCCAP</span><span>Esame delle feci</span><span>Giardia</span><span>Referti pubblicati</span><span>Terapia in corso</span>
   </div>
   </div>
 
@@ -48,9 +48,9 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>Quasi tutti i cuccioli nascono con i parassiti, e quelli di Staffordshire Bull Terrier non fanno eccezione. Non è un segno di trascuratezza dell'allevatore: le larve di <em>Toxocara canis</em> restano incistate nei tessuti della madre anche per anni, si riattivano durante la gravidanza e passano ai feti attraverso la placenta, poi ai neonati con il latte. Una femmina sverminata e in perfetta salute può comunque mettere al mondo una cucciolata infestata. Per questo le sverminazioni cominciano già dalle due settimane di vita e si ripetono a intervalli regolari, e per questo un protocollo cieco non basta: l'unico modo per sapere cosa c'è davvero è l'esame delle feci in laboratorio. I referti della cucciolata di agosto 2026 dell'allevamento Del Piccolo Diavolo sono pubblicati qui sotto, positivi compresi, con il nome del laboratorio e la data.</p>
+  <p>Quasi tutti i cuccioli nascono con i parassiti, e quelli di Staffordshire Bull Terrier non fanno eccezione. Non è un segno di trascuratezza dell'allevatore: le larve di <em>Toxocara canis</em> restano incistate nei tessuti della madre anche per anni, si riattivano durante la gravidanza e passano ai feti attraverso la placenta, poi ai neonati con il latte. Una femmina sverminata e in perfetta salute può comunque mettere al mondo una cucciolata infestata. Per questo le sverminazioni cominciano già dalle due settimane di vita e si ripetono a intervalli regolari, e per questo un protocollo cieco non basta: l'unico modo per sapere cosa c'è davvero è l'esame delle feci in laboratorio. I referti della cucciolata di agosto 2026 dell'allevamento Del Piccolo Diavolo sono pubblicati qui sotto, riga in rosso compresa, con il nome del laboratorio e la data.</p>
 
-  <p>Per questo la sverminazione non è la soluzione a un problema che si è presentato: è una procedura programmata dal primo giorno, che si fa a prescindere. Quello che distingue un allevamento da un altro non è dichiarare di averla fatta, ma poterlo dimostrare.</p>
+  <p>Per questo la sverminazione non è la soluzione a un problema che si è presentato: è una procedura programmata dal primo giorno, che si fa a prescindere. Quello che distingue un allevamento da un altro è poter dimostrare di averla fatta.</p>
 
   <!--BLOCCO:2-->
   <h2>Il calendario</h2>
@@ -100,10 +100,10 @@ custom_content: |
   </tbody>
   </table>
 
-  <p>Il quadro descrive cuccioli con un intestino sano: nessun parassita, flora batterica equilibrata, digestione che funziona. Non è fortuna. È il risultato di un protocollo applicato dalla seconda settimana di vita e di un ambiente tenuto pulito.</p>
+  <p>Il quadro descrive cuccioli con un intestino sano: nessun parassita, flora batterica equilibrata, digestione che funziona. È il risultato di un protocollo applicato dalla seconda settimana di vita e di un ambiente tenuto pulito.</p>
 
   <div class="callout">
-  <p><strong>📄 I referti completi:</strong> <a href="/docs/referti-feci-cucciolata-17-09-2026.pdf" title="Referti degli esami delle feci della cucciolata, 17 settembre 2026" target="_blank" rel="noopener" aria-label="scarica il PDF dei due esami – Referti degli esami delle feci della cucciolata, 17 settembre 2026 (si apre in una nuova scheda)">scarica il PDF dei due esami</a> — tabella dei risultati, microfotografie e test antigenico per Giardia.</p>
+  <p><strong>📄 I referti completi:</strong> <a href="/docs/referti-feci-cucciolata-17-09-2026.pdf" title="Referti degli esami delle feci della cucciolata, 17 settembre 2026" target="_blank" rel="noopener" aria-label="scarica il PDF dei due esami – Referti degli esami delle feci della cucciolata, 17 settembre 2026 (si apre in una nuova scheda)">scarica il PDF dei due esami</a>: tabella dei risultati, microfotografie e test antigenico per Giardia.</p>
   </div>
   <!--/BLOCCO:4-->
 
@@ -126,7 +126,7 @@ custom_content: |
 
   <p>Un esame negativo non chiude il programma: lo conferma. La cucciolata sta completando un ciclo di <strong>fenbendazolo per 6 giorni consecutivi</strong>, seguito da un trattamento con <strong>milbemicina ossima e praziquantel</strong> qualche giorno prima della prima vaccinazione. Quanto costa un ciclo cos&igrave;, con lo scontrino della farmacia, &egrave; nella guida su <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/#costi-cucciolata" title="Quanto costa una cucciolata, voce per voce">quanto ci costa una cucciolata, voce per voce</a>.</p>
 
-  <p>I due prodotti non si sovrappongono, si completano. Il fenbendazolo copre ascaridi, anchilostomi, tricocefali e agisce sulla Giardia, ed è per questo che si somministra per giorni consecutivi e non in dose singola. Il secondo aggiunge il praziquantel, l'unica molecola realmente efficace contro le tenie, <em>Dipylidium</em> compreso.</p>
+  <p>I due prodotti non si sovrappongono, si completano. Il fenbendazolo copre ascaridi, anchilostomi, tricocefali e agisce sulla Giardia, ed è per questo che si somministra per giorni consecutivi e non in dose singola. Il secondo aggiunge il praziquantel, la molecola di riferimento contro le tenie, <em>Dipylidium</em> compreso.</p>
 
   <p>Anche la collocazione dell'ultimo trattamento ha una ragione precisa: darlo a ridosso della vaccinazione significa presentarsi all'appuntamento con un intestino libero, perché una carica parassitaria importante può ridurre la risposta immunitaria al vaccino.</p>
 
@@ -136,11 +136,11 @@ custom_content: |
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->
-  <h2>Quello che riceve chi aspetta un nostro cucciolo</h2>
+  <h2>Quello che riceve la famiglia di un nostro cucciolo</h2>
 
   <p>Tutto questo non resta in allevamento. <strong>Man mano che gli esami vengono eseguiti e le terapie somministrate, ne inviamo copia ai nuovi proprietari</strong>: referti di laboratorio, prodotti utilizzati, dosaggi e date di ogni somministrazione. Non alla fine, in un unico pacchetto da firmare, ma strada facendo, mentre le cose accadono.</p>
 
-  <p>È una questione di correttezza, prima ancora che di trasparenza. Chi aspetta un cucciolo ha diritto di sapere come sta crescendo e che cosa gli viene dato, nel momento in cui glielo si dà. E quando il cucciolo raggiunge la sua nuova famiglia, il libretto sanitario riporta lo storico completo, che il veterinario di fiducia potrà leggere e proseguire senza dover ricostruire nulla.</p>
+  <p>È una questione di correttezza, prima ancora che di trasparenza. Chi accoglierà un cucciolo ha diritto di sapere come sta crescendo e che cosa gli viene dato, nel momento in cui glielo si dà. E quando il cucciolo raggiunge la sua nuova famiglia, il libretto sanitario riporta lo storico completo, che il veterinario di fiducia potrà leggere e proseguire senza dover ricostruire nulla.</p>
   <!--/BLOCCO:7-->
 
   <!--BLOCCO:8-->
@@ -170,7 +170,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
+  <a class="btn" href="/blog/" title="Torna al blog">&larr; Torna al blog</a>
 
   <p class="tags"><strong>Tag:</strong>
   <a aria-label="Guide sullo Staffordshire Bull Terrier" href="/blog/#cuccioli" title="Articoli Staffy">staffordshire bull terrier</a>
