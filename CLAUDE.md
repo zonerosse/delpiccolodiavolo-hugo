@@ -60,7 +60,7 @@ After each push touching the site, `.github/workflows/indexnow.yml` waits until 
 
 Hugo writes `/sitemap.xml` twice in the same build (the multilingual sitemap index, then the Italian urlset, because Italian lives at the root); the Italian urlset wins, and robots.txt and the IndexNow workflow rely on it. Hugo only reports this with `--printPathWarnings`, so do not "fix" it by removing `"sitemap"` from the home outputs: that makes the index win. `verifica.py` (check `sitemap_forma`) fails if any language sitemap is missing, empty, an index, or lists another language.
 
-Markdown for AI agents: every page also builds as `index.md` (`layouts/_default/single.md`, `layouts/index.md`). On Cloudflare a URL Rewrite Transform Rule named "Markdown per agenti AI" serves it to clients sending `Accept: text/markdown`:
+Markdown for AI agents: every page also builds as `index.md` (`layouts/_default/single.md`, `layouts/index.md`, and for the Diary list `layouts/diario-allevamento/list.md`, output `section` in `hugo.toml`). On Cloudflare a URL Rewrite Transform Rule named "Markdown per agenti AI" serves it to clients sending `Accept: text/markdown`:
 expression `(http.request.headers["accept"][0] contains "text/markdown" and not ends_with(http.request.uri.path, ".md"))`, dynamic path `concat(http.request.uri.path, "index.md")`. `Vary: Accept` in `layouts/index.headers` keeps the cache from mixing the two. Check: `curl.exe -H "Accept: text/markdown" https://delpiccolodiavolo.it/colori-staffordshire-bull-terrier/` must start with `#`, not `<!DOCTYPE html>`.
 
 ## Architecture

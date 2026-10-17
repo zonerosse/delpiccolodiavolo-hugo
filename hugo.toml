@@ -147,6 +147,8 @@ enableRobotsTXT = true
 [outputs]
   home = ["HTML", "sitemap", "MARKDOWN", "LLMSTXT", "LLMSFULL", "HEADERS", "PAGINE"]
   page = ["HTML", "MARKDOWN"]
+  # sezione Diario: anche la versione Markdown dell'elenco (index.md) per agenti e modelli AI
+  section = ["HTML", "MARKDOWN"]
 
 # Feed RSS del programma di allevamento: una voce per ogni scheda cucciolata
 # della pagina (programma-allevamento/feed.xml, e le versioni EN e DE).
