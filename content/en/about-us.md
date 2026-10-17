@@ -29,11 +29,19 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Since 2013</span>
   <h1 class="hero-title">About us – <em>the breeder behind Del Piccolo Diavolo</em></h1>
-  <p class="hero-subtitle">Since 2013 in Ostellato, in the province of Ferrara, Italy</p>
-  <p class="hero-description">A family Staffordshire Bull Terrier kennel in Ostellato (Ferrara, Italy). One litter a year, sometimes none, on English Elitebull and Irish Lackyle lines.</p>
+  <p class="hero-subtitle">Since 2013 in Ostellato, province of Ferrara</p>
+  <p class="hero-description">A family Staffordshire Bull Terrier kennel in Ostellato (FE), Italy. One litter a year, sometimes none, on English Elitebull and Irish Lackyle lines.</p>
   </div>
   </section>
   <!--/BLOCCO:1-->
+
+  <div class="features-bar">
+  <div class="features-track">
+  <span>Since 2013</span><span>Elitebull Lines</span><span>Lackyle Lines</span><span>L2-HGA Clear</span><span>HC Clear</span><span>ENCI Pedigree</span><span>Ostellato FE</span>
+  <span>Since 2013</span><span>Elitebull Lines</span><span>Lackyle Lines</span><span>L2-HGA Clear</span><span>HC Clear</span><span>ENCI Pedigree</span><span>Ostellato FE</span>
+  </div>
+  </div>
+
 
   <!--BLOCCO:2-->
   <section class="section section-alt">
