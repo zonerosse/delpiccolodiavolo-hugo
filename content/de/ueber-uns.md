@@ -40,10 +40,10 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">Der Züchter</span>
   <h2 class="section-title">Wer hinter Del Piccolo Diavolo steht</h2>
-  <p class="n-lead"><strong>Paolo Boldrini</strong> züchtet seit 2013 Staffordshire Bull Terrier in Ostellato, in der Provinz Ferrara, unter dem Namen Del Piccolo Diavolo. Er verfolgt die Rasse seit 2005, acht Jahre vor dem ersten Wurf. Davor hat er Rottweiler gezüchtet, mit einem Italienischen Champion und einem Europa-Champion, und er war internationaler Richter für Gloster-Kanarien. Er hat keinen ENCI-Zwingernamen: Die Hunde sind auf seinen Namen eingetragen und erhalten reguläre ENCI-Ahnentafeln. Der Name der Zucht kommt von Lackyle Diabhal &Oacute;g, irisch für „der kleine Teufel“, einem der Hunde, die die Geschichte der Rasse geprägt haben und der in den Ahnentafeln der Linien steht, mit denen er arbeitet. Es gibt einen Wurf im Jahr, gelegentlich zwei, in manchen Jahren keinen. Jeder hier geborene Wurf, mit Eltern, Tests, Untersuchungen und Fotos vom Aufwachsen, wird im <a href="/de/diario-allevamento/" title="Zucht-Tagebuch">Zucht-Tagebuch</a> erzählt.</p>
-  <div class="n-2c">
-  <p>Die Zucht arbeitet mit Elitebull- (England) und Lackyle-Linien (Irland) und <a href="/de/staffy-gentests-l2hga-hc/" title="Gentests L2-HGA und HC">testet alle Zuchthunde auf L2-HGA und HC</a>, oder bestätigt sie über die Befunde der Eltern als erbfrei, und außerdem auf DM-SOD1. Mit <strong>Bilquis Goddess Diabhal</strong> hat sie den Titel Italienische Schönheitschampionin ENCI und einen vierten Platz auf der World Dog Show in Zagreb 2024 errungen. Alle Welpen werden mit ENCI-Ahnentafel und den Testzertifikaten der Eltern vermittelt.</p>
-  <p>Die Tatsachen, Daten und Entscheidungen auf diesen Seiten sind seine: Sie kommen aus dem, was in der Zucht geschieht. Für Fragen zu Welpen, Blutlinien oder Gentests: <a href="/de/kontakt/">schreiben Sie mir direkt</a>.</p>
+  <p><strong>Paolo Boldrini</strong> züchtet seit 2013 Staffordshire Bull Terrier in Ostellato, in der Provinz Ferrara, unter dem Namen Del Piccolo Diavolo. Er verfolgt die Rasse seit 2005, acht Jahre vor dem ersten Wurf. Davor hat er Rottweiler gezüchtet, mit einem Italienischen Champion und einem Europa-Champion, und er war internationaler Richter für Gloster-Kanarien. Er hat keinen ENCI-Zwingernamen: Die Hunde sind auf seinen Namen eingetragen und erhalten reguläre ENCI-Ahnentafeln. Der Name der Zucht kommt von Lackyle Diabhal &Oacute;g, irisch für „der kleine Teufel“, einem der Hunde, die die Geschichte der Rasse geprägt haben und der in den Ahnentafeln der Linien steht, mit denen er arbeitet. Es gibt einen Wurf im Jahr, gelegentlich zwei, in manchen Jahren keinen. Jeder hier geborene Wurf, mit Eltern, Tests, Untersuchungen und Fotos vom Aufwachsen, wird im <a href="/de/diario-allevamento/" title="Zucht-Tagebuch">Zucht-Tagebuch</a> erzählt.</p>
+  <div class="n-percorso">
+  <div class="n-passo"><h3>Linien, Tests und Ergebnisse</h3><div><p>Die Zucht arbeitet mit Elitebull- (England) und Lackyle-Linien (Irland) und <a href="/de/staffy-gentests-l2hga-hc/" title="Gentests L2-HGA und HC">testet alle Zuchthunde auf L2-HGA und HC</a>, oder bestätigt sie über die Befunde der Eltern als erbfrei, und außerdem auf DM-SOD1. Mit <strong>Bilquis Goddess Diabhal</strong> hat sie den Titel Italienische Schönheitschampionin ENCI und einen vierten Platz auf der World Dog Show in Zagreb 2024 errungen. Alle Welpen werden mit ENCI-Ahnentafel und den Testzertifikaten der Eltern vermittelt.</p></div></div>
+  <div class="n-passo"><h3>Für Fragen</h3><div><p>Die Tatsachen, Daten und Entscheidungen auf diesen Seiten sind seine: Sie kommen aus dem, was in der Zucht geschieht. Für Fragen zu Welpen, Blutlinien oder Gentests: <a href="/de/kontakt/">schreiben Sie mir direkt</a>.</p></div></div>
   </div>
   </div>
   </section>
@@ -55,39 +55,20 @@ custom_content: |
   <span class="section-label">Wie alles begann</span>
   <h2 class="section-title">Unsere Geschichte</h2>
 
-  <div class="n-percorso n-storia">
-  <div class="n-passo">
-  <div class="n-cap">
-  <h3>Von Crufts nach Ostellato</h3>
-  <img class="n-foto-cap" src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo, Staffordshire Bull Terrier" width="480" height="600" loading="lazy" decoding="async">
+  <div class="n-foto3">
+  <figure><img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo, gestromter Staffordshire Bull Terrier" loading="lazy" decoding="async" width="480" height="600"><figcaption>
+  <span class="n-quando">2005, Crufts</span>
+  <p>Alles beginnt 2005, auf der Crufts. Ich suchte einen Hund mit starkem, aber führbarem Charakter: Der Staffy kam mir wie ein &laquo;Rottweiler im Kleinformat&raquo; vor: kraftvoll, entschlossen und sehr anhänglich.</p></figcaption></figure>
+  <figure><img src="/images/queen-of-california-800w.webp" alt="Queen of California, Tochter von CH. Elitebull Prospect und Lackyle Bean Croí Olc" loading="lazy" decoding="async" width="800" height="533"><figcaption>
+  <span class="n-quando">Acht Jahre Studium</span>
+  <p>Seitdem habe ich den Standard studiert, bin nach Großbritannien und Irland gereist und habe erfahrene Züchter kennengelernt.</p></figcaption></figure>
+  <figure><img src="/images/cattleya-campionessa-800w.webp" alt="Cattleya Del Piccolo Diavolo at Valconcaclan, in Ostellato geborener Staffordshire Bull Terrier" loading="lazy" decoding="async" width="800" height="878"><figcaption>
+  <span class="n-quando">2013</span>
+  <p>Der erste Wurf von Del Piccolo Diavolo kam <strong>2013</strong> zur Welt.</p></figcaption></figure>
   </div>
-  <div>
-  <p>Alles beginnt 2005, auf der Crufts. Ich suchte einen Hund mit starkem, aber führbarem Charakter: Der Staffy kam mir wie ein &laquo;Rottweiler im Kleinformat&raquo; vor: kraftvoll, entschlossen und sehr anhänglich.</p>
-  <p>Seitdem habe ich den Standard studiert, bin nach Großbritannien und Irland gereist und habe erfahrene Züchter kennengelernt.</p>
-  </div>
-  </div>
-  <div class="n-passo">
-  <div class="n-cap">
-  <h3>Vor den Staffys</h3>
-
-  </div>
-  <div>
-  <p>Vor den Staffordshire Bull Terriern habe ich Rottweiler gezüchtet, und aus dieser Zucht sind ein Italienischer Champion und ein Europa-Champion hervorgegangen. Ich habe Gloster-Kanarien gezüchtet und sie als internationaler Richter bewertet: ein Tier nach dem anderen zu beurteilen und erklären zu müssen, warum eines mehr wert ist als ein anderes, ist eine Schule, die bei Hunden mehr nützt, als man denkt.</p>
-  <p>Die acht Jahre vor dem ersten Wurf dienten dazu, den Standard zu studieren, nach England und Irland zu reisen und herauszufinden, mit welchen Linien ich arbeiten wollte. Der erste Wurf von Del Piccolo Diavolo kam <strong>2013</strong> zur Welt.</p>
-  </div>
-  </div>
-  <div class="n-passo">
-  <div class="n-cap">
-  <h3>Warum Elitebull und Lackyle</h3>
-  <img class="n-foto-cap" src="/images/queen-of-california-800w.webp" alt="Queen of California, Tochter von CH. Elitebull Prospect und Lackyle Bean Croí Olc" width="800" height="533" loading="lazy" decoding="async">
-  </div>
-  <div>
-  <p>Es sind keine zwei gegensätzlichen Stile, und es ist keine Frage von Irland gegen England: Es sind zwei Zuchten, die die Geschichte der Rasse geprägt haben, die eine vor der anderen.</p>
-  <p>In der Geschichte der Rasse kam <strong>Lackyle</strong> zuerst, und seine historischen Hunde finden sich heute in den Ahnentafeln halb Europas. <strong>Elitebull</strong> ist die Zucht, die heute zählt, und in ihren Ahnentafeln stehen genau die historischen Lackyle-Hunde. Also keine zwei alternativen Linien: Die zweite trägt die erste in sich.</p>
-  <p>Ich arbeite mit ihnen, weil es dokumentierte und überprüfbare Linien sind, die vorhersehbar vererben. Genau das braucht man, wenn man eine Verpaarung plant, statt zu hoffen.</p>
-  <p>Hinter der Wahl dieser Linien steht auch ein Grund, der nicht technisch ist. In diesen Ahnentafeln steht <strong>Lackyle Diabhal &Oacute;g</strong>, irisch für „der kleine Teufel“, für mich einer der besten Hunde der modernen Zeit, er und alles, was er hinterlassen hat. <strong>Del Piccolo Diavolo</strong> ist die Übersetzung seines Namens: Die Zucht heißt seinetwegen so.</p>
-  </div>
-  </div>
+  <div class="n-percorso">
+  <div class="n-passo"><h3>Vor den Staffys</h3><div><p>Vor den Staffordshire Bull Terriern habe ich Rottweiler gezüchtet, und aus dieser Zucht sind ein Italienischer Champion und ein Europa-Champion hervorgegangen. Ich habe Gloster-Kanarien gezüchtet und sie als internationaler Richter bewertet: ein Tier nach dem anderen zu beurteilen und erklären zu müssen, warum eines mehr wert ist als ein anderes, ist eine Schule, die bei Hunden mehr nützt, als man denkt.</p><p>Die acht Jahre vor dem ersten Wurf dienten dazu, den Standard zu studieren, nach England und Irland zu reisen und herauszufinden, mit welchen Linien ich arbeiten wollte.</p></div></div>
+  <div class="n-passo"><h3>Warum Elitebull und Lackyle</h3><div><p>Es sind keine zwei gegensätzlichen Stile, und es ist keine Frage von Irland gegen England: Es sind zwei Zuchten, die die Geschichte der Rasse geprägt haben, die eine vor der anderen.</p><p>In der Geschichte der Rasse kam <strong>Lackyle</strong> zuerst, und seine historischen Hunde finden sich heute in den Ahnentafeln halb Europas. <strong>Elitebull</strong> ist die Zucht, die heute zählt, und in ihren Ahnentafeln stehen genau die historischen Lackyle-Hunde. Also keine zwei alternativen Linien: Die zweite trägt die erste in sich.</p><p>Ich arbeite mit ihnen, weil es dokumentierte und überprüfbare Linien sind, die vorhersehbar vererben. Genau das braucht man, wenn man eine Verpaarung plant, statt zu hoffen.</p><p>Hinter der Wahl dieser Linien steht auch ein Grund, der nicht technisch ist. In diesen Ahnentafeln steht <strong>Lackyle Diabhal &Oacute;g</strong>, irisch für „der kleine Teufel“, für mich einer der besten Hunde der modernen Zeit, er und alles, was er hinterlassen hat. <strong>Del Piccolo Diavolo</strong> ist die Übersetzung seines Namens: Die Zucht heißt seinetwegen so.</p></div></div>
   </div>
   <p class="n-vedi"><a href="/de/huendinnen-staffordshire-bull-terrier/">Die Hündinnen, die diese Linien tragen</a>. Acht Steckbriefe mit Mikrochip, Gentests und Ahnentafel: Von dort verfolgen Sie die Abstammung und prüfen alles.</p>
   </div>
@@ -102,10 +83,10 @@ custom_content: |
 
   <p>Die Hündinnen sind hier, und ich kenne sie, seit sie Welpen waren. Der Rüde kommt fast immer von außen: Es ist die Entscheidung, die bei einem Wurf am meisten zählt, und ich treffe sie, indem ich auf drei Dinge achte.</p>
 
-  <div class="n-tre">
-  <div><p><strong>Was der Hündin fehlt.</strong> Eine Verpaarung zweier Staffordshire Bull Terrier soll nicht zwei schöne Hunde addieren, sondern etwas korrigieren und den Rest festigen. Hat eine Hündin einen ausgezeichneten Kopf und ein verbesserungsfähiges Gangwerk, suche ich einen Rüden, der im Gangwerk solide ist, nicht einen, der so schön ist wie sie.</p></div>
-  <div><p><strong>Was hinter dem Rüden steht.</strong> Den Hund anzuschauen reicht nicht: <a href="/de/eltern-vor-ort-was-das-bedeutet/" title="Eltern vor Ort: was das bedeutet">Ich schaue mir Vater und Mutter an</a>, die Wurfgeschwister und, falls er schon Nachkommen hat, was er vererbt hat. Ein Hund kann besser oder schlechter sein als seine Linie, und in der zweiten Generation zeigt sich das.</p></div>
-  <div><p><strong>Was der Besitzer des Deckrüden in der Hand hat.</strong> Gentest-Befunde mit der Mikrochipnummer darauf, keine Versprechen. Ist ein Rüde nicht auf alles Nötige getestet oder nur über die Abstammung erbfrei, weiß ich das vor der Verpaarung und schreibe es auf die Seite dieses Wurfs: Wer sie liest, muss es genauso wissen können wie ich.</p></div>
+  <div class="n-percorso">
+  <div class="n-passo"><h3>Was der Hündin fehlt.</h3><div><p>Eine Verpaarung zweier Staffordshire Bull Terrier soll nicht zwei schöne Hunde addieren, sondern etwas korrigieren und den Rest festigen. Hat eine Hündin einen ausgezeichneten Kopf und ein verbesserungsfähiges Gangwerk, suche ich einen Rüden, der im Gangwerk solide ist, nicht einen, der so schön ist wie sie.</p></div></div>
+  <div class="n-passo"><h3>Was hinter dem Rüden steht.</h3><div><p>Den Hund anzuschauen reicht nicht: <a href="/de/eltern-vor-ort-was-das-bedeutet/" title="Eltern vor Ort: was das bedeutet">Ich schaue mir Vater und Mutter an</a>, die Wurfgeschwister und, falls er schon Nachkommen hat, was er vererbt hat. Ein Hund kann besser oder schlechter sein als seine Linie, und in der zweiten Generation zeigt sich das.</p></div></div>
+  <div class="n-passo"><h3>Was der Besitzer des Deckrüden in der Hand hat.</h3><div><p>Gentest-Befunde mit der Mikrochipnummer darauf, keine Versprechen. Ist ein Rüde nicht auf alles Nötige getestet oder nur über die Abstammung erbfrei, weiß ich das vor der Verpaarung und schreibe es auf die Seite dieses Wurfs: Wer sie liest, muss es genauso wissen können wie ich.</p></div></div>
   </div>
   </div>
   </section>

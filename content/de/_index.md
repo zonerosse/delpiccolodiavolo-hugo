@@ -72,9 +72,15 @@ custom_content: |
   <span class="section-label">Unsere Welpen</span>
   <h2 class="section-title">Hier geboren und aufgewachsen, in Ostellato</h2>
   <div class="n-foto3">
-  <figure><img alt="Bilquis Goddess Diabhal mit ihren neugeborenen Staffordshire Bull Terrier Welpen" decoding="async" height="480" loading="lazy" src="/images/cuccioli-bilquis-nati-1.webp" width="435"/><figcaption><span class="n-quando">Der erste Monat</span><p>Die Welpen kommen im Haus zur Welt und bleiben dort den ersten Monat.</p></figcaption></figure>
-  <figure><img alt="Schwarzer Staffordshire Bull Terrier Welpe, wenige Wochen alt" decoding="async" height="480" loading="lazy" src="/images/foto2.avif" width="368"/><figcaption><span class="n-quando">Ab dem zweiten Monat</span><p>Danach ziehen sie in einen Welpenbereich mit Hof, mitten unter Menschen und Alltagsgeräuschen.</p></figcaption></figure>
-  <figure><img alt="Nahaufnahme eines schwarzen Staffordshire Bull Terrier Welpen" decoding="async" height="600" loading="lazy" src="/images/primo-piano-cucciolo.avif" width="639"/><figcaption><span class="n-quando">Nach 60 Tagen</span><p>Sie gehen mit <strong>ENCI-Ahnentafel</strong>, Mikrochip und Impfungen.</p></figcaption></figure>
+  <figure><img alt="Bilquis Goddess Diabhal mit ihren neugeborenen Staffordshire Bull Terrier Welpen" decoding="async" height="480" loading="lazy" src="/images/cuccioli-bilquis-nati-1.webp" width="435"/><figcaption>
+  <span class="n-quando">Der erste Monat</span>
+  <p>Die Welpen kommen im Haus zur Welt und bleiben dort den ersten Monat.</p></figcaption></figure>
+  <figure><img alt="Schwarzer Staffordshire Bull Terrier Welpe, wenige Wochen alt" decoding="async" height="480" loading="lazy" src="/images/foto2.avif" width="368"/><figcaption>
+  <span class="n-quando">Ab dem zweiten Monat</span>
+  <p>Danach ziehen sie in einen Welpenbereich mit Hof, mitten unter Menschen und Alltagsgeräuschen.</p></figcaption></figure>
+  <figure><img alt="Nahaufnahme eines schwarzen Staffordshire Bull Terrier Welpen" decoding="async" height="600" loading="lazy" src="/images/primo-piano-cucciolo.avif" width="639"/><figcaption>
+  <span class="n-quando">Nach 60 Tagen</span>
+  <p>Sie gehen mit <strong>ENCI-Ahnentafel</strong>, Mikrochip und Impfungen.</p></figcaption></figure>
   </div>
   <p style="max-width:860px">Was sie vor der Abgabe gelernt haben können, und was nicht, erklären wir in <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das heißt">was „sozialisierte Welpen“ heißt</a>. Wunderübungen machen wir keine: Über den <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor und Frühstimulation: was die Forschung sagt">Bio Sensor</a> haben wir geschrieben, warum die Belege fehlen.</p>
   <a class="n-vai" href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Wie sie geboren werden und aufwachsen <span aria-hidden="true">→</span></a>

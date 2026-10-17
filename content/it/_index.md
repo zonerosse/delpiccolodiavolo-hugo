@@ -71,9 +71,15 @@ custom_content: |
   <span class="section-label">I nostri cuccioli</span>
   <h2 class="section-title">Nati e cresciuti qui, a Ostellato</h2>
   <div class="n-foto3">
-  <figure><img alt="Bilquis Goddess Diabhal con i suoi cuccioli di Staffordshire Bull Terrier appena nati" decoding="async" height="480" loading="lazy" src="/images/cuccioli-bilquis-nati-1.webp" width="435"/><figcaption><span class="n-quando">Il primo mese</span><p>I cuccioli nascono in casa e ci restano il primo mese.</p></figcaption></figure>
-  <figure><img alt="Cucciolo di Staffordshire Bull Terrier nero di poche settimane" decoding="async" height="480" loading="lazy" src="/images/foto2.avif" width="368"/><figcaption><span class="n-quando">Dal secondo mese</span><p>Poi passano in un box con il cortile, in mezzo alle persone e ai rumori di tutti i giorni.</p></figcaption></figure>
-  <figure><img alt="Primo piano di un cucciolo di Staffordshire Bull Terrier nero" decoding="async" height="600" loading="lazy" src="/images/primo-piano-cucciolo.avif" width="639"/><figcaption><span class="n-quando">Dopo i 60 giorni</span><p>Partono con <strong>pedigree ENCI</strong>, microchip e vaccinazioni.</p></figcaption></figure>
+  <figure><img alt="Bilquis Goddess Diabhal con i suoi cuccioli di Staffordshire Bull Terrier appena nati" decoding="async" height="480" loading="lazy" src="/images/cuccioli-bilquis-nati-1.webp" width="435"/><figcaption>
+  <span class="n-quando">Il primo mese</span>
+  <p>I cuccioli nascono in casa e ci restano il primo mese.</p></figcaption></figure>
+  <figure><img alt="Cucciolo di Staffordshire Bull Terrier nero di poche settimane" decoding="async" height="480" loading="lazy" src="/images/foto2.avif" width="368"/><figcaption>
+  <span class="n-quando">Dal secondo mese</span>
+  <p>Poi passano in un box con il cortile, in mezzo alle persone e ai rumori di tutti i giorni.</p></figcaption></figure>
+  <figure><img alt="Primo piano di un cucciolo di Staffordshire Bull Terrier nero" decoding="async" height="600" loading="lazy" src="/images/primo-piano-cucciolo.avif" width="639"/><figcaption>
+  <span class="n-quando">Dopo i 60 giorni</span>
+  <p>Partono con <strong>pedigree ENCI</strong>, microchip e vaccinazioni.</p></figcaption></figure>
   </div>
   <p style="max-width:860px">Cosa possono avere imparato prima di partire, e cosa no, lo spieghiamo in <a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Cuccioli socializzati: cosa vuol dire">cosa vuol dire cuccioli socializzati</a>. Esercizi miracolosi non ne facciamo: sul <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor e stimolazione precoce">Bio Sensor</a> abbiamo scritto perché le prove non ci sono.</p>
   <a class="n-vai" href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">Come nascono e crescono <span aria-hidden="true">→</span></a>

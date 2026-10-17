@@ -72,9 +72,15 @@ custom_content: |
   <span class="section-label">Our puppies</span>
   <h2 class="section-title">Born and raised here, in Ostellato</h2>
   <div class="n-foto3">
-  <figure><img alt="Bilquis Goddess Diabhal with her newborn Staffordshire Bull Terrier puppies" decoding="async" height="480" loading="lazy" src="/images/cuccioli-bilquis-nati-1.webp" width="435"/><figcaption><span class="n-quando">The first month</span><p>The puppies are born indoors and stay there for the first month.</p></figcaption></figure>
-  <figure><img alt="Black Staffordshire Bull Terrier puppy a few weeks old" decoding="async" height="480" loading="lazy" src="/images/foto2.avif" width="368"/><figcaption><span class="n-quando">From the second month</span><p>Then they move to a pen with the courtyard, among people and everyday noises.</p></figcaption></figure>
-  <figure><img alt="Close-up of a black Staffordshire Bull Terrier puppy" decoding="async" height="600" loading="lazy" src="/images/primo-piano-cucciolo.avif" width="639"/><figcaption><span class="n-quando">After 60 days</span><p>They leave with an <strong>ENCI pedigree</strong>, microchip and vaccinations.</p></figcaption></figure>
+  <figure><img alt="Bilquis Goddess Diabhal with her newborn Staffordshire Bull Terrier puppies" decoding="async" height="480" loading="lazy" src="/images/cuccioli-bilquis-nati-1.webp" width="435"/><figcaption>
+  <span class="n-quando">The first month</span>
+  <p>The puppies are born indoors and stay there for the first month.</p></figcaption></figure>
+  <figure><img alt="Black Staffordshire Bull Terrier puppy a few weeks old" decoding="async" height="480" loading="lazy" src="/images/foto2.avif" width="368"/><figcaption>
+  <span class="n-quando">From the second month</span>
+  <p>Then they move to a pen with the courtyard, among people and everyday noises.</p></figcaption></figure>
+  <figure><img alt="Close-up of a black Staffordshire Bull Terrier puppy" decoding="async" height="600" loading="lazy" src="/images/primo-piano-cucciolo.avif" width="639"/><figcaption>
+  <span class="n-quando">After 60 days</span>
+  <p>They leave with an <strong>ENCI pedigree</strong>, microchip and vaccinations.</p></figcaption></figure>
   </div>
   <p style="max-width:860px">What they can have learned before leaving, and what not, is explained in <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it means">what “socialised puppies” means</a>. We do no miracle exercises: on <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor and early stimulation: what research says">Bio Sensor</a> we have written why the evidence is not there.</p>
   <a class="n-vai" href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">How they are born and raised <span aria-hidden="true">→</span></a>
