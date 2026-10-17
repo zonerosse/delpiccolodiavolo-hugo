@@ -31,10 +31,8 @@ custom_content: |
   <p class="hero-description">A Ostellato (FE) dal 2013. Tutti i riproduttori sono testati per L2-HGA e HC (HSF4), o esenti per via parentale con i referti dei genitori. I nostri cani sono esenti anche da DM-SOD1. I referti sono pubblicati, con il microchip in chiaro. Cani allevati qui: 1 Campione Italiano, 3 Giovani Campioni Italiani, 4&deg; al World Dog Show.</p>
   <div class="hero-actions">
   <a href="/cuccioli-staffordshire-bull-terrier/" class="btn btn-primary" title="Cuccioli Staffordshire Bull Terrier disponibili">Cuccioli Staffordshire Bull Terrier</a>
-  <a href="/allevamento-staffordshire-bull-terrier-in-emilia-romagna/" class="btn btn-ghost" title="Contattaci">Contattaci</a>
-  <a href="/docs/guida-primi-mesi-cucciolo-staffy.pdf" class="btn btn-gold" title="Guida PDF gratuita: I primi mesi con il tuo cucciolo Staffy">Guida Cuccioli</a>
   </div>
-  <p class="hero-trust">Test genetici - Pedigree ENCI - Dal 2013</p>
+  <p style="margin:1rem 0 0;font-size:.95rem">Prima volta con uno Staffy? <a href="/docs/guida-primi-mesi-cucciolo-staffy.pdf" style="color:#8b5a2b;font-weight:600;text-decoration:underline">Scarica la guida ai primi mesi (PDF)</a></p>
   </div>
   </section>
   <!--/BLOCCO:1-->

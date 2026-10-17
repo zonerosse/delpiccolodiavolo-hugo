@@ -32,10 +32,8 @@ custom_content: |
   <p class="hero-description">In Ostellato (Ferrara, Italy) since 2013. All breeding dogs are tested for L2-HGA and HC (HSF4), or clear by parentage with their parents' reports. Our dogs are also clear of DM-SOD1. The reports are published, with the microchip numbers in plain sight. Dogs bred here: 1 Italian Champion, 3 Italian Junior Champions, 4th at the World Dog Show.</p>
   <div class="hero-actions">
   <a href="/en/puppies-staffordshire-bull-terrier/" class="btn btn-primary" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies</a>
-  <a href="/en/contact/" class="btn btn-ghost" title="Contact us">Contact Us</a>
-  <a href="/docs/guide-first-months-staffy-puppy.pdf" class="btn btn-gold" title="Free PDF guide: The first months with your Staffy puppy">Puppy Guide</a>
   </div>
-  <p class="hero-trust">Genetic testing - ENCI Pedigree - Since 2013</p>
+  <p style="margin:1rem 0 0;font-size:.95rem">First time with a Staffy? <a href="/docs/guide-first-months-staffy-puppy.pdf" style="color:#8b5a2b;font-weight:600;text-decoration:underline">Download the guide to the first months (PDF)</a></p>
   </div>
   </section>
   <!--/BLOCCO:1-->

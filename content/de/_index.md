@@ -32,10 +32,8 @@ custom_content: |
   <p class="hero-description">In Ostellato (Ferrara, Italien) seit 2013. Alle Zuchttiere sind auf L2-HGA und HC (HSF4) getestet oder durch Abstammung frei, mit den Befunden der Eltern. Unsere Hunde sind außerdem frei von DM-SOD1. Die Befunde sind veröffentlicht, mit der Mikrochipnummer im Klartext. Hier gezüchtete Hunde: 1 Italienischer Champion, 3 Italienische Jugendchampions, 4. bei der World Dog Show.</p>
   <div class="hero-actions">
   <a href="/de/welpen-staffordshire-bull-terrier/" class="btn btn-primary" title="Staffordshire Bull Terrier Welpen">Staffordshire Bull Terrier Welpen</a>
-  <a href="/de/kontakt/" class="btn btn-ghost" title="Kontaktieren Sie uns">Kontakt</a>
-  <a href="/docs/ratgeber-erste-monate-staffy-welpe.pdf" class="btn btn-gold" title="Kostenloser PDF-Ratgeber: Die ersten Monate mit Ihrem Staffy Welpen">Welpen-Ratgeber</a>
   </div>
-  <p class="hero-trust">Gentests - ENCI-Ahnentafel - Seit 2013</p>
+  <p style="margin:1rem 0 0;font-size:.95rem">Zum ersten Mal ein Staffy? <a href="/docs/ratgeber-erste-monate-staffy-welpe.pdf" style="color:#8b5a2b;font-weight:600;text-decoration:underline">Laden Sie den Ratgeber für die ersten Monate herunter (PDF)</a></p>
   </div>
   </section>
   <!--/BLOCCO:1-->
