@@ -123,15 +123,8 @@ custom_content: |
   <h3>Temperament and socialization</h3>
   <p>The puppies are born in the house, in the whelping box, and stay there for about a month. It is the phase in which the mother does almost everything and contact with people matters more than anything else. Anyone who came to see them before thirty days saw them there. At around a month they move to a dedicated pen with access outdoors, for a practical reason anyone who has had a litter knows: at that age they make more mess than a lived-in house can take. From then on they come back inside in turns, two or three at a time and for a few hours. That way each one gets its share of home life: the family, the noises, the other dogs, the people coming through. Every litter born here, with parents, tests, examinations and growth photos, is told in the <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a>.</p>
 
-    <a class="rimando" href="/en/bio-sensor-early-stimulation-puppies/">
-  <img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier puppies in their first days" width="88" height="100" loading="lazy" decoding="async">
-  <span>
-  <span class="ti">Bio Sensor: what the research actually says</span>
-  <span class="de">The ENS method, the evidence that is missing, and what counts in the first two months.</span>
-  </span>
-  </a>
-
   <p>They get handled every day, hear the noises of the house, see people of all ages, meet the adult dogs under supervision and hear the road going past the courtyard. We follow no protocol: it is simply how they live here. And it is not enough, because when a puppy leaves, half of the sensitive window is still ahead of it. What a kennel can and cannot do is explained in <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it means">what &ldquo;socialised puppies&rdquo; means</a>.</p>
+  <p class="n-vedi"><a href="/en/bio-sensor-early-stimulation-puppies/">Bio Sensor: what the research actually says</a>. The ENS method, the evidence that is missing, and what counts in the first two months.</p>
   </div>
   <div class="zigzag-image">
   <img src="/images/foto1.avif" alt="Socialized Staffordshire Bull Terrier puppies at home" loading="lazy" decoding="async" width="400" height="484">
@@ -176,46 +169,60 @@ custom_content: |
 
   <p>Plenty gets said about what happens after the puppies are born. About what happens before, almost nothing. And yet that is where most of how a litter goes is decided.</p>
 
-  <details class="tendina"><summary><h3>Before the season</h3></summary>
-
+  <div class="n-percorso">
+  <div class="n-passo">
+  <h3>Before the season</h3>
+  <div>
   <p>It starts at the vet, not at the stud dog. If the bitch is regular and I have the record of her previous seasons, I know roughly when the next one is due and the examination happens shortly before; otherwise we go as soon as the season is clearly under way.</p>
 
   <p>At that visit we take a <strong>vaginal swab for bacterial culture</strong>, to rule out organisms that would compromise the pregnancy, and worm her if needed.</p>
 
   <p>Then the <strong>progesterone testing</strong> begins. The fertile window cannot be guessed from the day the season started, and getting it wrong by 48 hours means no puppies. Blood is drawn at intervals until the value peaks, and that is the day. Each test costs 40 euros and at least four are needed: this and every other expense is listed <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/#costi-cucciolata" title="What a litter costs us, item by item">in what a litter costs us, item by item</a>.</p>
-  </details>
-  <details class="tendina"><summary><h3>The mating</h3></summary>
-
+  </div>
+  </div>
+  <div class="n-passo">
+  <h3>The mating</h3>
+  <div>
   <p><strong><a href="/en/parents-on-site-what-it-means/" title="&quot;Parents on site&quot;: what it really means">I always travel to the stud</a></strong>, never the other way round: the male stays at home, the bitch moves.</p>
 
   <p>With a stud of real quality, the owner often uses a vet for <strong>artificial insemination</strong>, deposited intracervically. There are three reasons: avoiding the risk of transmissible disease, sparing the dog excessive effort, and being certain the mating actually happens. Because <strong>mating is not easy for every male</strong>, and that is something people outside breeding do not picture. Much depends on the bitch: more than one makes it anything but simple.</p>
-  </details>
-  <details class="tendina"><summary><h3>Pregnancy: two examinations, two different purposes</h3></summary>
-
+  </div>
+  </div>
+  <div class="n-passo">
+  <h3>Pregnancy: two examinations, two different purposes</h3>
+  <div>
   <p><strong>The ultrasound scan, after at least 25 days.</strong> It tells us whether she is in whelp, and a capable vet will already give a rough idea of the number. But it remains an estimate.</p>
 
   <p><strong>The radiograph, five to seven days before whelping.</strong> This one gives the exact count, obtained by counting skulls and spines, which by then are calcified and visible.</p>
 
   <p>The number of puppies <strong>is the information you need during the whelping</strong>, especially a natural one. You have to know how many puppies must come out, and that they all have, each with its placenta. Without that number you are going on instinct, and on instinct a retained puppy or a retained placenta is found out late.</p>
-  </details>
-  <details class="tendina"><summary><h3>The whelping</h3></summary>
-
+  </div>
+  </div>
+  <div class="n-passo">
+  <h3>The whelping</h3>
+  <div>
   <p>In the Staffordshire Bull Terrier a natural whelping is the norm: it is a hardy breed, and a caesarean here has been a rare exception. But when something goes wrong there is no improvising: I call my own vet, who judges case by case.</p>
 
   <p><strong>Oxytocin is used with great care and sparingly</strong>, and only when the vet decides so. It is not an accelerator to be given because the whelping is taking its time: if a puppy is obstructing, stronger contractions are the last thing needed, and the risk is uterine rupture.</p>
-  </details>
-  <details class="tendina"><summary><h3>The first week</h3></summary>
-
+  </div>
+  </div>
+  <div class="n-passo">
+  <h3>The first week</h3>
+  <div>
   <p>The puppies are born indoors, in the whelping box. And for a week <strong>I stop sleeping in my bed</strong>: I settle on the sofa, next to them.</p>
 
   <p>The first week after the whelping is the riskiest part of all. In those days a puppy can be crushed by the mother turning over, or a bitch can be reluctant to nurse: these are things you hear before you see them, a different whimper, a sound that is not right. After the first week it eases.</p>
-  </details>
-  <details class="tendina"><summary><h3>The day they can leave</h3></summary>
-
+  </div>
+  </div>
+  <div class="n-passo">
+  <h3>The day they can leave</h3>
+  <div>
   <p>Vaccination and microchip are done by the vet, and that is what makes a puppy eligible to leave. Italian law sets the minimum at <strong>60 days</strong>; here they leave at around <strong>70</strong>, because those extra ten days are for them. For placements abroad the timing stretches further: that is covered on <a href="/en/staffordshire-bull-terrier-puppy-abroad/" title="A puppy going abroad">its own page</a>.</p>
-  </details>
-  <details class="tendina"><summary><h3>What to ask a breeder</h3></summary>
-
+  </div>
+  </div>
+  <div class="n-passo">
+  <h3>What to ask a breeder</h3>
+  <div>
   <p>If you are considering a litter, whoever is breeding it, these are the questions nobody can dodge:</p>
 
   <ul>
@@ -224,7 +231,9 @@ custom_content: |
   <li><strong>Where did the mother whelp, and who was there?</strong> The first week is when puppies are lost.</li>
   <li><strong>When do they leave?</strong> Under 60 days is against the law, and it is not a paperwork detail.</li>
   </ul>
-  </details>
+  </div>
+  </div>
+  </div>
   </div>
   </section>
   <!--/BLOCCO:6-->
@@ -265,35 +274,23 @@ custom_content: |
   <span class="section-label">Frequently asked questions</span>
   <h2 class="section-title">Puppy FAQ</h2>
 
-  <div class="faq-item active">
-  <div class="faq-question">
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">When can I take the puppy home?</h3>
-  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
-  </div>
+  <div class="faq-item active n-faq">
+  <h3>When can I take the puppy home?</h3>
   <div class="faq-answer">Not before <strong>60 days</strong>, which is a legal requirement in Italy rather than a breeder's choice: before that age a puppy still needs its mother and littermates to learn to moderate its bite and read other dogs' signals. In practice ours leave between 60 and 70 days, after the first vaccination, the microchip and at least one worming. For families abroad the timing is much longer: the rabies vaccination cannot be given before twelve weeks, and after it another twenty-one days must pass before it is valid for travel. Anyone promising a puppy at forty-five days either does not know the rules or is breaking them.</div>
   </div>
 
-  <div class="faq-item active">
-  <div class="faq-question">
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What is behind a puppy with an ENCI pedigree?</h3>
-  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
-  </div>
+  <div class="faq-item active n-faq">
+  <h3>What is behind a puppy with an ENCI pedigree?</h3>
   <div class="faq-answer">The ENCI pedigree is not a paid extra: it is the document that links the puppy to its parents, grandparents and great-grandparents, and that makes everything else verifiable. Without it you cannot trace who the breeding dogs really are, check their genetic tests, or look up how many litters the mother has had. Behind it are the registration of the litter in the stud book, at public rates that are the same for everyone, the mating report and the checks that go with it. <strong>There is no such thing as the same puppy with or without a pedigree</strong>: either the mating is properly registered, and then every puppy in the litter has one, or it is not, and then none does.</div>
   </div>
 
-  <div class="faq-item active">
-  <div class="faq-question">
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How much does a Staffordshire Bull Terrier puppy cost?</h3>
-  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
-  </div>
+  <div class="faq-item active n-faq">
+  <h3>How much does a Staffordshire Bull Terrier puppy cost?</h3>
   <div class="faq-answer">There is no price list, and what you pay reflects costs that exist before the puppy is born. The genetic tests on the two breeding dogs for L2-HGA and HC are paid once per dog and hold for their whole breeding life. Registering the litter in the ENCI stud book has public rates. On top of that come the veterinary visits during pregnancy, the ultrasound at around the twenty-fifth day, the X-ray before the whelping, the first vaccinations, the worming and the microchip. <strong>A very low price almost always means something is missing</strong>: the tests, the pedigree, or puppies separated from their mother before the 60 days the law requires. The full breakdown is in <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="How much does a Staffy puppy cost">what a puppy really costs</a>.</div>
   </div>
 
-  <div class="faq-item active">
-  <div class="faq-question">
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Can I visit the kennel before deciding?</h3>
-  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
-  </div>
+  <div class="faq-item active n-faq">
+  <h3>Can I visit the kennel before deciding?</h3>
   <div class="faq-answer">Yes, and it is the right way to get to know us. The Del Piccolo Diavolo kennel receives visitors by appointment in Ostellato, in the province of Ferrara, so that we can give you all the time you need without stressing the dogs. During the visit you see the adult dogs and the mother of the litter, the place where the puppies are born and grow up, and you check pedigrees and test reports in person. It is also when we ask you a few questions: how many hours the dog will be alone, who is at home, what happens in summer. It is not an interrogation; it is how we work out whether that puppy and that family fit. <strong>Anyone who takes a Del Piccolo Diavolo puppy comes here</strong>: we do not ship dogs.</div>
   </div>
 

@@ -123,19 +123,10 @@ custom_content: |
 
   <div class="intro-block">
   <p>I cuccioli nascono in casa, nella cassa parto, e ci restano circa un mese. &Egrave; la fase in cui la madre fa quasi tutto e il contatto con le persone conta pi&ugrave; di ogni altra cosa. Chi &egrave; venuto a vederli prima dei trenta giorni li ha visti l&igrave;. Verso il mese passano in un box con accesso all'esterno, per una ragione pratica che conosce chiunque abbia avuto una cucciolata: a quell'et&agrave; sporcano pi&ugrave; di quanto una casa abitata possa reggere. Da l&igrave; in avanti rientrano a turno, due o tre per volta e per qualche ora. Cos&igrave; ognuno vive la sua parte di casa: la famiglia, i rumori, gli altri cani, le persone che passano. Ogni cucciolata nata qui, con genitori, test, esami e foto della crescita, &egrave; raccontata nel <a href="/diario-allevamento/" title="Diario dell'allevamento">diario dell'allevamento</a>.</p>
-
-    <a class="rimando" href="/bio-sensor-stimolazione-precoce-cuccioli/">
-  <img src="/images/blog/cuccioli-1.webp" alt="Cuccioli di Staffordshire Bull Terrier nei primi giorni" width="88" height="100" loading="lazy" decoding="async">
-  <span>
-  <span class="ti">Bio Sensor: cosa dice davvero la ricerca</span>
-  <span class="de">Il metodo ENS, le prove che mancano, e cosa conta davvero nei primi due mesi.</span>
-  </span>
-  </a>
-  <details class="continua"><summary>Continua a leggere</summary>
   <p>Questa esposizione graduale e controllata cade nel periodo in cui un cucciolo costruisce la categoria &laquo;normale&raquo;: quello che incontra adesso non dovr&agrave; elaborarlo da adulto.</p>
   <p>Vuol dire essere presi in mano tutti i giorni, sentire i rumori di casa, vedere persone di ogni et&agrave; che entrano ed escono, incontrare i cani adulti sotto controllo, stare nel cortile con erba e terra e sentire la strada che passa. Non seguiamo un protocollo: &egrave; il modo in cui vivono qui. E non basta, perch&eacute; quando un cucciolo parte met&agrave; della finestra sensibile &egrave; ancora davanti a lui, e la passer&agrave; con la sua famiglia. Cosa si pu&ograve; fare in allevamento e cosa no, lo spieghiamo nella guida su <a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Cuccioli socializzati: cosa vuol dire">cosa vuol dire &laquo;cuccioli socializzati&raquo;</a>.</p>
   <p>Altre guide pratiche su socializzazione, alimentazione e salute sono nel nostro <a href="/blog/" title="Blog Staffordshire Bull Terrier">blog sullo Staffordshire Bull Terrier</a>.</p>
-  </details>
+  <p class="n-vedi"><a href="/bio-sensor-stimolazione-precoce-cuccioli/">Bio Sensor: cosa dice davvero la ricerca</a>. Il metodo ENS, le prove che mancano, e cosa conta davvero nei primi due mesi.</p>
   </div>
   </div>
   </section>
@@ -151,46 +142,60 @@ custom_content: |
 
   <p>Di quello che succede dopo la nascita si parla molto. Di quello che succede prima, quasi mai. Eppure &egrave; l&igrave; che si decide gran parte di come andr&agrave; una cucciolata.</p>
 
-  <details class="tendina"><summary><h3>Prima del calore</h3></summary>
-
+  <div class="n-percorso">
+  <div class="n-passo">
+  <h3>Prima del calore</h3>
+  <div>
   <p>Il percorso di una cucciolata comincia dal veterinario, non dal maschio. Se la femmina &egrave; regolare e ho il calendario dei calori precedenti, so con buona approssimazione quando arriver&agrave; il prossimo e la visita la faccio poco prima; altrimenti si va appena il calore &egrave; conclamato.</p>
 
   <p>In quella visita si fa il <strong>tampone vaginale con esame colturale</strong>, per escludere batteri che comprometterebbero la gravidanza, e se serve una sverminazione.</p>
 
   <p>Individuato il calore, cominciano i <strong>dosaggi del progesterone</strong>. Il momento fertile non si indovina dal giorno del calore, e sbagliarlo di 48 ore significa non avere cuccioli. Si preleva a intervalli finch&eacute; il valore raggiunge il picco, e quello &egrave; il giorno. Ogni dosaggio costa 40 euro e ne servono almeno quattro: questa e le altre spese sono <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/#costi-cucciolata" title="Quanto costa una cucciolata, voce per voce">nei costi di una cucciolata, voce per voce</a>.</p>
-  </details>
-  <details class="tendina"><summary><h3>L'accoppiamento</h3></summary>
-
+  </div>
+  </div>
+  <div class="n-passo">
+  <h3>L'accoppiamento</h3>
+  <div>
   <p><strong>Sono sempre io che vado dal maschio</strong>, mai il contrario: il maschio resta a casa sua, si sposta la femmina.</p>
 
   <p>Quando <a href="/genitori-visibili-cosa-significa/" title="Genitori visibili: cosa significa">lo stallone scelto</a> &egrave; un maschio di livello, capita spesso che il proprietario si appoggi a un veterinario per l'<strong>inseminazione strumentale</strong>, con deposizione intracervicale. Le ragioni sono tre: evitare il rischio di malattie trasmissibili, non sottoporre il soggetto a sforzi eccessivi, e avere la certezza che l'accoppiamento avvenga. Perch&eacute; <strong>non per tutti i maschi accoppiarsi &egrave; facile</strong>, ed &egrave; una cosa che chi non alleva non immagina. Molto dipende dalla femmina: ce n'&egrave; pi&ugrave; d'una che non gliela rende semplice per niente.</p>
-  </details>
-  <details class="tendina"><summary><h3>La gravidanza: due esami, due scopi diversi</h3></summary>
-
+  </div>
+  </div>
+  <div class="n-passo">
+  <h3>La gravidanza: due esami, due scopi diversi</h3>
+  <div>
   <p><strong>L'ecografia, dopo almeno 25 giorni.</strong> Serve a sapere se la femmina &egrave; gravida, e un veterinario capace d&agrave; gi&agrave; un'indicazione di massima sul numero. Ma resta un'indicazione.</p>
 
   <p><strong>La radiografia, cinque o sette giorni prima del parto.</strong> Questa serve al numero esatto, che si ottiene contando i crani e le colonne vertebrali, a quel punto calcificati e visibili.</p>
 
   <p>Il numero dei cuccioli <strong>&egrave; l'informazione che serve durante il parto</strong>, soprattutto se naturale. Bisogna sapere quanti cuccioli devono uscire, e che siano usciti tutti, ognuno con la sua placenta. Senza quel numero si va a sentimento, e a sentimento un cucciolo trattenuto o una placenta ritenuta si scoprono tardi.</p>
-  </details>
-  <details class="tendina"><summary><h3>Il parto</h3></summary>
-
+  </div>
+  </div>
+  <div class="n-passo">
+  <h3>Il parto</h3>
+  <div>
   <p>Nello Staffordshire Bull Terrier il parto naturale &egrave; la norma: &egrave; una razza rustica, e il cesareo qui &egrave; stato un'eccezione rara. Ma quando qualcosa non va non si improvvisa: chiamo il mio veterinario di fiducia, che valuta caso per caso.</p>
 
   <p><strong>L'ossitocina si usa con molta attenzione e con parsimonia</strong>, e solo quando &egrave; il veterinario a deciderlo. Non &egrave; un acceleratore da somministrare perch&eacute; il parto va per le lunghe: se c'&egrave; un cucciolo che ostruisce, contrazioni pi&ugrave; forti sono l'ultima cosa che serve, e il rischio &egrave; la rottura dell'utero.</p>
-  </details>
-  <details class="tendina"><summary><h3>La prima settimana</h3></summary>
-
+  </div>
+  </div>
+  <div class="n-passo">
+  <h3>La prima settimana</h3>
+  <div>
   <p>I cuccioli nascono in casa, nella cassa parto. E per una settimana <strong>smetto di dormire nel mio letto</strong>: mi sistemo sul divano, accanto a loro.</p>
 
   <p>La prima settimana dopo il parto &egrave; la parte pi&ugrave; rischiosa di tutte. In quei giorni un cucciolo pu&ograve; finire schiacciato dalla madre che si gira, o una femmina pu&ograve; essere restia ad allattare: sono cose che si sentono prima di vederle, un mugolio diverso, un rumore che non torna. Dopo la prima settimana la situazione si alleggerisce.</p>
-  </details>
-  <details class="tendina"><summary><h3>Il giorno in cui possono partire</h3></summary>
-
+  </div>
+  </div>
+  <div class="n-passo">
+  <h3>Il giorno in cui possono partire</h3>
+  <div>
   <p>Vaccinazione e microchip li fa il veterinario, ed &egrave; quello che rende un cucciolo idoneo a lasciare l'allevamento. La legge italiana fissa il minimo a <strong>60 giorni</strong>; da me partono intorno ai <strong>70</strong>, perch&eacute; quella decina di giorni in pi&ugrave; serve a loro. Per l'estero i tempi si allungano ancora: ne parliamo nella <a href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Cucciolo all'estero">pagina dedicata</a>.</p>
-  </details>
-  <details class="tendina"><summary><h3>Le domande da fare a un allevatore</h3></summary>
-
+  </div>
+  </div>
+  <div class="n-passo">
+  <h3>Le domande da fare a un allevatore</h3>
+  <div>
   <p>Se stai valutando una cucciolata, chiunque la faccia, queste sono le domande che nessuno pu&ograve; eludere:</p>
 
   <ul>
@@ -199,7 +204,9 @@ custom_content: |
   <li><strong>Dove ha partorito la madre, e chi c'era?</strong> La prima settimana &egrave; quella in cui si perdono i cuccioli.</li>
   <li><strong>Quando lasciano l'allevamento?</strong> Sotto i 60 giorni &egrave; fuori legge, e non &egrave; un dettaglio burocratico.</li>
   </ul>
-  </details>
+  </div>
+  </div>
+  </div>
   </div>
   </section>
   <!--/BLOCCO:6-->
@@ -266,35 +273,23 @@ custom_content: |
 
   <div class="faq-container">
 
-  <div class="faq-item active">
-  <div class="faq-question">
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quando posso portare a casa il cucciolo?</h3>
-  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
-  </div>
+  <div class="faq-item active n-faq">
+  <h3>Quando posso portare a casa il cucciolo?</h3>
   <div class="faq-answer">Non prima dei <strong>60 giorni</strong>, che &egrave; un obbligo di legge in Italia e non una scelta dell'allevatore: prima di quell'et&agrave; il cucciolo ha ancora bisogno della madre e dei fratelli per imparare a modulare il morso e a leggere i segnali degli altri cani. Nella pratica, all'allevamento Del Piccolo Diavolo partono fra i 60 e i 70 giorni, quando hanno fatto la prima vaccinazione, il microchip e almeno una sverminazione. Per l'estero i tempi si allungano parecchio: serve l'antirabbica, che non si pu&ograve; fare prima delle dodici settimane, e dopo la somministrazione vanno attesi altri ventun giorni perch&eacute; sia valida. Chi promette un cucciolo a quarantacinque giorni o non conosce le regole o le sta violando.</div>
   </div>
 
-  <div class="faq-item active">
-  <div class="faq-question">
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Cosa c'è dietro un cucciolo con pedigree ENCI?</h3>
-  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
-  </div>
+  <div class="faq-item active n-faq">
+  <h3>Cosa c'è dietro un cucciolo con pedigree ENCI?</h3>
   <div class="faq-answer">Il certificato genealogico ENCI non &egrave; un accessorio a pagamento: &egrave; il documento che collega quel cucciolo ai suoi genitori, nonni e bisnonni, e che rende verificabile tutto il resto. Senza pedigree non si pu&ograve; risalire a chi sono davvero i riproduttori, n&eacute; controllare i test genetici, n&eacute; consultare quante cucciolate ha fatto la madre. Dietro ci sono l'iscrizione della cucciolata al libro genealogico, con tariffe pubbliche uguali per tutti, la denuncia di monta e i controlli previsti. <strong>Non esiste un cucciolo con o senza pedigree</strong>: o l'accoppiamento &egrave; regolarmente registrato, e allora il certificato c'&egrave; per tutti i cuccioli, oppure non lo &egrave;, e allora manca per tutti.</div>
   </div>
 
-  <div class="faq-item active">
-  <div class="faq-question">
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quanto costa un cucciolo Staffordshire Bull Terrier?</h3>
-  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
-  </div>
+  <div class="faq-item active n-faq">
+  <h3>Quanto costa un cucciolo Staffordshire Bull Terrier?</h3>
   <div class="faq-answer">Non esiste un listino, e quello che si paga riflette costi che esistono prima che il cucciolo nasca. I test genetici dei due riproduttori per L2-HGA e HC si pagano una volta per cane e valgono per tutta la carriera riproduttiva. L'iscrizione della cucciolata al libro genealogico ENCI ha tariffe pubbliche. A queste si aggiungono le visite veterinarie durante la gravidanza, l'ecografia al venticinquesimo giorno, la radiografia prima del parto, le prime vaccinazioni, le sverminazioni e il microchip. <strong>Un prezzo molto basso quasi sempre significa che manca qualcosa</strong>: i test, il pedigree, o cuccioli separati dalla madre prima dei 60 giorni previsti dalla legge.</div>
   </div>
 
-  <div class="faq-item active">
-  <div class="faq-question">
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Posso visitare l'allevamento prima di decidere?</h3>
-  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
-  </div>
+  <div class="faq-item active n-faq">
+  <h3>Posso visitare l'allevamento prima di decidere?</h3>
   <div class="faq-answer">S&igrave;, ed &egrave; il modo giusto di conoscerci. L'allevamento Del Piccolo Diavolo riceve su appuntamento a Ostellato, in provincia di Ferrara, cos&igrave; da dedicare tutto il tempo necessario senza stressare i cani. Durante la visita si vedono i cani adulti e la madre della cucciolata, il posto dove i cuccioli nascono e crescono, e si controllano di persona pedigree e referti dei test. &Egrave; anche l'occasione in cui facciamo noi qualche domanda: quante ore rester&agrave; solo il cane, chi c'&egrave; in casa, cosa succede d'estate. Non &egrave; un interrogatorio, &egrave; il modo per capire se quel cucciolo e quella famiglia stanno bene insieme. <strong>Chi prende un nostro cucciolo viene comunque qui</strong>: non spediamo cani.</div>
   </div>
 

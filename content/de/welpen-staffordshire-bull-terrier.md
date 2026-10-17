@@ -123,15 +123,8 @@ custom_content: |
   <h3>Temperament und Sozialisierung</h3>
   <p>Die Welpen kommen im Haus zur Welt, in der Wurfkiste, und bleiben dort etwa einen Monat. Es ist die Zeit, in der die Mutter fast alles macht und der Kontakt mit Menschen mehr zählt als alles andere. Wer sie vor dem dreißigsten Tag besucht hat, hat sie dort gesehen. Mit etwa einem Monat ziehen sie in einen eigenen Auslauf mit Zugang nach draußen, aus einem praktischen Grund, den jeder kennt, der einen Wurf hatte: In diesem Alter machen sie mehr Schmutz, als ein bewohntes Haus verkraftet. Von da an kommen sie abwechselnd wieder ins Haus, zu zweit oder zu dritt und für einige Stunden. So bekommt jeder seinen Teil des Familienlebens: die Familie, die Geräusche, die anderen Hunde, die Menschen, die vorbeikommen. Jeder hier geborene Wurf, mit Eltern, Tests, Untersuchungen und Fotos vom Aufwachsen, steht im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Zuchttagebuch</a>.</p>
 
-    <a class="rimando" href="/de/bio-sensor-fruehstimulation-welpen/">
-  <img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier Welpen in den ersten Tagen" width="88" height="100" loading="lazy" decoding="async">
-  <span>
-  <span class="ti">Bio Sensor: was die Forschung wirklich sagt</span>
-  <span class="de">Die ENS-Methode, die fehlenden Belege und was in den ersten zwei Monaten zählt.</span>
-  </span>
-  </a>
-
   <p>Sie werden jeden Tag angefasst, hören die Geräusche des Hauses, sehen Menschen jeden Alters, treffen die erwachsenen Hunde unter Aufsicht und hören die Straße, die am Hof vorbeiführt. Wir folgen keinem Protokoll: So leben sie hier einfach. Und es reicht nicht, denn wenn ein Welpe geht, liegt die Hälfte der sensiblen Phase noch vor ihm. Was eine Zucht leisten kann und was nicht, erklären wir in <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das heißt">was &bdquo;sozialisierte Welpen&ldquo; heißt</a>.</p>
+  <p class="n-vedi"><a href="/de/bio-sensor-fruehstimulation-welpen/">Bio Sensor: was die Forschung wirklich sagt</a>. Die ENS-Methode, die fehlenden Belege und was in den ersten zwei Monaten zählt.</p>
   </div>
   <div class="zigzag-image">
   <img src="/images/foto1.avif" alt="Sozialisierte Staffordshire Bull Terrier Welpen zu Hause" loading="lazy" decoding="async" width="400" height="484">
@@ -176,46 +169,60 @@ custom_content: |
 
   <p>&Uuml;ber das, was nach der Geburt passiert, wird viel geschrieben. &Uuml;ber das, was davor passiert, fast nie. Und doch entscheidet sich dort der gr&ouml;&szlig;te Teil davon, wie ein Wurf verl&auml;uft.</p>
 
-  <details class="tendina"><summary><h3>Vor der L&auml;ufigkeit</h3></summary>
-
+  <div class="n-percorso">
+  <div class="n-passo">
+  <h3>Vor der L&auml;ufigkeit</h3>
+  <div>
   <p>Der Weg beginnt beim Tierarzt, nicht beim R&uuml;den. Ist die H&uuml;ndin regelm&auml;&szlig;ig und habe ich die Daten der vorherigen L&auml;ufigkeiten, wei&szlig; ich ungef&auml;hr, wann die n&auml;chste kommt, und die Untersuchung findet kurz davor statt; andernfalls gehen wir, sobald die L&auml;ufigkeit deutlich eingesetzt hat.</p>
 
   <p>Dabei wird ein <strong>Vaginaltupfer mit bakteriologischer Kultur</strong> genommen, um Keime auszuschlie&szlig;en, die die Tr&auml;chtigkeit gef&auml;hrden w&uuml;rden, und bei Bedarf entwurmt.</p>
 
   <p>Dann beginnen die <strong>Progesteronbestimmungen</strong>. Der fruchtbare Zeitpunkt l&auml;sst sich nicht am Tag des L&auml;ufigkeitsbeginns ablesen, und 48 Stunden daneben bedeuten keine Welpen. Es wird in Abst&auml;nden Blut genommen, bis der Wert seinen H&ouml;hepunkt erreicht, und das ist der Tag. Jede Bestimmung kostet 40 Euro, und es braucht mindestens vier: diese und alle anderen Ausgaben stehen <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/#costi-cucciolata" title="Was uns ein Wurf kostet, Posten für Posten">in den Kosten eines Wurfs, Posten für Posten</a>.</p>
-  </details>
-  <details class="tendina"><summary><h3>Der Deckakt</h3></summary>
-
+  </div>
+  </div>
+  <div class="n-passo">
+  <h3>Der Deckakt</h3>
+  <div>
   <p><strong>Ich fahre immer zum R&uuml;den</strong>, nie umgekehrt: der R&uuml;de bleibt zu Hause, die H&uuml;ndin reist.</p>
 
   <p>Bei einem R&uuml;den von Format zieht der Besitzer h&auml;ufig einen Tierarzt f&uuml;r die <strong>instrumentelle Besamung</strong> hinzu, intrazervikal. Daf&uuml;r gibt es drei Gr&uuml;nde: das Risiko &uuml;bertragbarer Krankheiten vermeiden, den R&uuml;den nicht &uuml;berm&auml;&szlig;ig belasten, und sicher sein, dass der Deckakt zustande kommt. Denn <strong>nicht jedem R&uuml;den f&auml;llt das Decken leicht</strong>, und das stellt sich niemand vor, der nicht z&uuml;chtet. Vieles h&auml;ngt von der H&uuml;ndin ab: mehr als eine macht es ihm alles andere als einfach.</p>
-  </details>
-  <details class="tendina"><summary><h3>Die Tr&auml;chtigkeit: zwei Untersuchungen, zwei Zwecke</h3></summary>
-
+  </div>
+  </div>
+  <div class="n-passo">
+  <h3>Die Tr&auml;chtigkeit: zwei Untersuchungen, zwei Zwecke</h3>
+  <div>
   <p><strong>Der Ultraschall, nach mindestens 25 Tagen.</strong> Er sagt, ob die H&uuml;ndin tr&auml;chtig ist, und ein guter Tierarzt gibt bereits einen ungef&auml;hren Hinweis auf die Zahl. Es bleibt aber eine Sch&auml;tzung.</p>
 
   <p><strong>Das R&ouml;ntgenbild, f&uuml;nf bis sieben Tage vor der Geburt.</strong> Dieses liefert die genaue Zahl, ermittelt durch Z&auml;hlen der Sch&auml;del und Wirbels&auml;ulen, die dann verkalkt und sichtbar sind.</p>
 
   <p>Die Zahl der Welpen <strong>ist die Information, die man w&auml;hrend der Geburt braucht</strong>, vor allem bei einer nat&uuml;rlichen. Man muss wissen, wie viele Welpen kommen m&uuml;ssen, und dass alle drau&szlig;en sind, jeder mit seiner Plazenta. Ohne diese Zahl geht man nach Gef&uuml;hl, und nach Gef&uuml;hl merkt man einen zur&uuml;ckgebliebenen Welpen oder eine zur&uuml;ckgehaltene Plazenta zu sp&auml;t.</p>
-  </details>
-  <details class="tendina"><summary><h3>Die Geburt</h3></summary>
-
+  </div>
+  </div>
+  <div class="n-passo">
+  <h3>Die Geburt</h3>
+  <div>
   <p>Beim Staffordshire Bull Terrier ist die nat&uuml;rliche Geburt die Regel: eine robuste Rasse, und der Kaiserschnitt war hier eine seltene Ausnahme. Wenn aber etwas nicht stimmt, wird nicht improvisiert: ich rufe meinen Tierarzt, der von Fall zu Fall entscheidet.</p>
 
   <p><strong>Oxytocin wird mit gro&szlig;er Vorsicht und sparsam eingesetzt</strong>, und nur wenn der Tierarzt es entscheidet. Es ist kein Beschleuniger, den man gibt, weil die Geburt lange dauert: steckt ein Welpe fest, sind st&auml;rkere Wehen das Letzte, was gebraucht wird, und das Risiko ist ein Geb&auml;rmutterriss.</p>
-  </details>
-  <details class="tendina"><summary><h3>Die erste Woche</h3></summary>
-
+  </div>
+  </div>
+  <div class="n-passo">
+  <h3>Die erste Woche</h3>
+  <div>
   <p>Die Welpen kommen im Haus zur Welt, in der Wurfkiste. Und eine Woche lang <strong>schlafe ich nicht in meinem Bett</strong>: ich lege mich aufs Sofa, neben sie.</p>
 
   <p>Die erste Woche nach der Geburt ist der riskanteste Teil &uuml;berhaupt. In diesen Tagen kann ein Welpe von der sich drehenden Mutter erdr&uuml;ckt werden, oder eine H&uuml;ndin will nicht s&auml;ugen: das h&ouml;rt man, bevor man es sieht: ein anderes Wimmern, ein Ger&auml;usch, das nicht stimmt. Nach der ersten Woche wird es leichter.</p>
-  </details>
-  <details class="tendina"><summary><h3>Der Tag, an dem sie gehen d&uuml;rfen</h3></summary>
-
+  </div>
+  </div>
+  <div class="n-passo">
+  <h3>Der Tag, an dem sie gehen d&uuml;rfen</h3>
+  <div>
   <p>Impfung und Mikrochip macht der Tierarzt, und damit darf ein Welpe die Zucht verlassen. Das italienische Gesetz schreibt mindestens <strong>60 Tage</strong> vor; bei mir gehen sie mit rund <strong>70</strong>, weil diese zehn Tage ihnen zugutekommen. F&uuml;r das Ausland verl&auml;ngern sich die Fristen weiter: davon handelt <a href="/de/staffordshire-bull-terrier-welpe-ins-ausland/" title="Ein Welpe, der ins Ausland geht">die eigene Seite</a>.</p>
-  </details>
-  <details class="tendina"><summary><h3>Was man eine Zucht fragen sollte</h3></summary>
-
+  </div>
+  </div>
+  <div class="n-passo">
+  <h3>Was man eine Zucht fragen sollte</h3>
+  <div>
   <p>Wer einen Wurf in Betracht zieht, gleich von wem, sollte diese Fragen stellen. Ihnen kann niemand ausweichen:</p>
 
   <ul>
@@ -224,7 +231,9 @@ custom_content: |
   <li><strong>Wo hat die H&uuml;ndin geworfen, und wer war dabei?</strong> In der ersten Woche verliert man Welpen.</li>
   <li><strong>Wann verlassen sie die Zucht?</strong> Unter 60 Tagen ist gesetzwidrig, und das ist keine Formalie.</li>
   </ul>
-  </details>
+  </div>
+  </div>
+  </div>
   </div>
   </section>
   <!--/BLOCCO:6-->
@@ -265,35 +274,23 @@ custom_content: |
   <span class="section-label">Häufige Fragen</span>
   <h2 class="section-title">FAQ zu Welpen</h2>
 
-  <div class="faq-item active">
-  <div class="faq-question">
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wann kann ich den Welpen nach Hause holen?</h3>
-  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
-  </div>
+  <div class="faq-item active n-faq">
+  <h3>Wann kann ich den Welpen nach Hause holen?</h3>
   <div class="faq-answer">Nicht vor <strong>60 Tagen</strong>, was in Italien gesetzlich vorgeschrieben und keine Entscheidung des Züchters ist: vorher braucht der Welpe noch Mutter und Geschwister, um seinen Biss zu dosieren und die Signale anderer Hunde zu lesen. In der Zucht Del Piccolo Diavolo gehen die Welpen zwischen 60 und 70 Tagen, nach der ersten Impfung, dem Mikrochip und mindestens einer Entwurmung. Für Familien im Ausland dauert es deutlich länger: die Tollwutimpfung ist nicht vor der zwölften Woche möglich, und danach müssen weitere einundzwanzig Tage vergehen, bis sie für die Reise gilt. Wer einen Welpen mit fünfundvierzig Tagen verspricht, kennt die Regeln nicht oder bricht sie.</div>
   </div>
 
-  <div class="faq-item active">
-  <div class="faq-question">
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was steckt hinter einem Welpen mit ENCI-Ahnentafel?</h3>
-  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
-  </div>
+  <div class="faq-item active n-faq">
+  <h3>Was steckt hinter einem Welpen mit ENCI-Ahnentafel?</h3>
   <div class="faq-answer">Die ENCI-Ahnentafel ist kein bezahltes Extra: sie ist das Dokument, das den Welpen mit seinen Eltern, Großeltern und Urgroßeltern verbindet und alles andere überprüfbar macht. Ohne sie lässt sich nicht nachvollziehen, wer die Zuchthunde wirklich sind, man kann ihre Gentests nicht prüfen und nicht nachsehen, wie viele Würfe die Mutter hatte. Dahinter stehen die Eintragung des Wurfs ins Zuchtbuch, zu öffentlichen, für alle gleichen Gebühren, die Deckmeldung und die zugehörigen Kontrollen. <strong>Denselben Welpen mit oder ohne Ahnentafel gibt es nicht</strong>: entweder ist die Verpaarung ordnungsgemäß eingetragen, dann hat jeder Welpe des Wurfs eine, oder sie ist es nicht, dann hat keiner eine.</div>
   </div>
 
-  <div class="faq-item active">
-  <div class="faq-question">
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was kostet ein Staffordshire Bull Terrier Welpe?</h3>
-  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
-  </div>
+  <div class="faq-item active n-faq">
+  <h3>Was kostet ein Staffordshire Bull Terrier Welpe?</h3>
   <div class="faq-answer">Eine Preisliste gibt es nicht, und was man zahlt, spiegelt Kosten wider, die entstehen, bevor der Welpe geboren wird. Die Gentests der beiden Zuchthunde auf L2-HGA und HC werden einmal pro Hund bezahlt und gelten für ihr ganzes Zuchtleben. Die Eintragung des Wurfs ins ENCI-Zuchtbuch hat öffentliche Gebühren. Dazu kommen Tierarztbesuche während der Trächtigkeit, der Ultraschall um den fünfundzwanzigsten Tag, das Röntgenbild vor der Geburt, die ersten Impfungen, die Entwurmungen und der Mikrochip. <strong>Ein sehr niedriger Preis bedeutet fast immer, dass etwas fehlt</strong>: die Tests, die Ahnentafel oder Welpen, die vor den gesetzlichen 60 Tagen von der Mutter getrennt wurden. Die ganze Aufstellung steht unter <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Was kostet ein Staffy-Welpe">was ein Welpe wirklich kostet</a>.</div>
   </div>
 
-  <div class="faq-item active">
-  <div class="faq-question">
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Kann ich die Zucht vor der Entscheidung besuchen?</h3>
-  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
-  </div>
+  <div class="faq-item active n-faq">
+  <h3>Kann ich die Zucht vor der Entscheidung besuchen?</h3>
   <div class="faq-answer">Ja, und das ist der richtige Weg, uns kennenzulernen. Die Zucht Del Piccolo Diavolo empfängt nach Vereinbarung in Ostellato in der Provinz Ferrara, damit wir Ihnen alle Zeit geben können, ohne die Hunde zu stressen. Beim Besuch sehen Sie die erwachsenen Hunde und die Mutter des Wurfs, den Ort, an dem die Welpen geboren werden und aufwachsen, und Sie prüfen Ahnentafeln und Befunde persönlich. Es ist auch der Moment, in dem wir Ihnen einige Fragen stellen: wie viele Stunden der Hund allein sein wird, wer zu Hause ist, was im Sommer geschieht. Das ist kein Verhör, sondern die Art, wie wir herausfinden, ob Welpe und Familie zusammenpassen. <strong>Wer einen Welpen der Zucht Del Piccolo Diavolo nimmt, kommt hierher</strong>: wir verschicken keine Hunde.</div>
   </div>
 
