@@ -28,7 +28,7 @@ custom_content: |
   <h1 class="hero-title">Differenza tra <em>Staffy</em>, Pitbull e Amstaff</h1>
   <p class="hero-subtitle">Come distinguere le tre razze, a vista e sulla carta</p>
   <div class="hero-meta">
-  <span>📅 19 Novembre 2025</span>
+  <span>📅 19 novembre 2025</span>
   <span>⏱️ 9 min lettura</span>
   </div>
   </div>
@@ -37,15 +37,15 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Origini Storiche</span><span>Standard FCI</span><span>Tabella Comparativa</span><span>Taglia e Peso</span><span>Temperamento</span><span>Riconoscimento ENCI</span><span>FAQ Complete</span>
-  <span>Origini Storiche</span><span>Standard FCI</span><span>Tabella Comparativa</span><span>Taglia e Peso</span><span>Temperamento</span><span>Riconoscimento ENCI</span><span>FAQ Complete</span>
+  <span>Origini storiche</span><span>Standard FCI</span><span>Tabella di confronto</span><span>Taglia e peso</span><span>Temperamento</span><span>Riconoscimento ENCI</span><span>Domande frequenti</span>
+  <span>Origini storiche</span><span>Standard FCI</span><span>Tabella di confronto</span><span>Taglia e peso</span><span>Temperamento</span><span>Riconoscimento ENCI</span><span>Domande frequenti</span>
   </div>
   </div>
 
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a aria-label="Standard e Linee — categoria del blog" href="/blog/#standard" title="Standard e linee di sangue">Standard e Linee</a> ›
+  <a aria-label="Standard e Linee — categoria del blog" href="/blog/#standard" title="Standard e linee di sangue">Standard e linee</a> ›
   <span>Differenza Staffy, Pitbull, Amstaff</span>
   </nav>
 
@@ -60,7 +60,7 @@ custom_content: |
 
   <p>La confusione tra <strong>Staffordshire Bull Terrier</strong>, <strong>American Pit Bull Terrier</strong> e <strong><a href="https://www.enci.it/media/2547/286.pdf" title="Standard FCI n. 286 dell’American Staffordshire Terrier, PDF ufficiale ENCI" target="_blank" rel="noopener" aria-label="Standard FCI n. 286 dell’American Staffordshire Terrier, PDF ufficiale ENCI (si apre in una nuova scheda)">American Staffordshire Terrier</a></strong> è estremamente comune, non solo tra i non addetti ai lavori ma anche nei media e talvolta nelle istituzioni. Questa confusione ha conseguenze concrete: leggi scritte male, pregiudizi ingiustificati e difficoltà per i proprietari.</p>
 
-  <p>Le ragioni di questa confusione sono molteplici. Tutte e tre le razze discendono dallo stesso ceppo: i "Bull and Terrier" dell'Inghilterra del XIX secolo, incroci tra Bulldog e vari Terrier. Condividono quindi un patrimonio genetico comune e alcune caratteristiche morfologiche simili: testa larga, mascella potente, corpo muscoloso.</p>
+  <p>Tutte e tre le razze discendono dallo stesso ceppo: i "Bull and Terrier" dell'Inghilterra del XIX secolo, incroci tra Bulldog e vari Terrier. Condividono quindi un patrimonio genetico comune e alcune caratteristiche morfologiche simili: testa larga, mascella potente, corpo muscoloso.</p>
 
 
   <p>I media tendono a utilizzare il termine generico "Pitbull" per indicare qualsiasi cane di tipo "bull", indipendentemente dalla razza effettiva. Quando un cane di tipo molossoide è coinvolto in un incidente, raramente viene identificata correttamente la razza, alimentando stereotipi generalizzati.</p>
@@ -99,7 +99,7 @@ custom_content: |
   <p><strong>American Staffordshire Terrier:</strong> Nel 1936, l'AKC (American Kennel Club) riconobbe una versione "da show" dei Pit Bull americani con il nome di "Staffordshire Terrier", poi rinominato "American Staffordshire Terrier" nel 1972 per distinguerlo dallo Staffy britannico. La FCI lo riconosce con lo <strong>standard n. 286</strong>.</p>
 
   <div class="callout">
-  <p class="callout-title">📜 Curiosità Storica</p>
+  <p class="callout-title">📜 Curiosità storica</p>
   <p>Nei primi anni, molti cani erano registrati contemporaneamente come APBT presso l'UKC e come American Staffordshire Terrier presso l'AKC. Le due razze condividono quindi un patrimonio genetico quasi identico, con la differenza che l'Amstaff è stato selezionato per le esposizioni mentre l'APBT per le "performance".</p>
   </div>
   <!--/BLOCCO:3-->
@@ -107,7 +107,7 @@ custom_content: |
   <!--BLOCCO:4-->
   <h2>Confronto fisico: la tabella delle differenze</h2>
 
-  <p>Vediamo ora le differenze fisiche concrete tra le tre razze. La tabella seguente riassume le caratteristiche principali secondo gli standard ufficiali.</p>
+  <p>Vediamo ora le differenze fisiche concrete tra le tre razze. La tabella seguente riassume le caratteristiche principali. Lo standard FCI dell'Amstaff non fissa un peso: quello in tabella è il peso abituale.</p>
 
   <table tabindex="0">
   <thead>
@@ -129,7 +129,7 @@ custom_content: |
   <td><strong>Altezza femmine</strong></td>
   <td>35,5 - 40,5 cm</td>
   <td>43 - 50 cm</td>
-  <td>43,1 - 48,2 cm</td>
+  <td>43 - 46 cm</td>
   </tr>
   <tr>
   <td><strong>Peso maschi</strong></td>
@@ -202,7 +202,7 @@ custom_content: |
 
   <h3>Staffordshire Bull Terrier</h3>
 
-  <p>Lo standard FCI descrive il temperamento dello Staffy come: "Tradizionalmente di temperamento intrepido e tenace. Altamente intelligente e affettuoso, specialmente con i bambini." Lo Staffy è noto per il suo forte attaccamento alla famiglia umana, tanto da essere soprannominato "nanny dog".</p>
+  <p>Lo standard FCI descrive lo Staffy così: "Tradizionalmente di indomito coraggio e tenacia. Molto intelligente e affettuoso, specialmente con i bambini." Lo Staffy è noto per il suo forte attaccamento alla famiglia umana, tanto da essere soprannominato "nanny dog".</p>
 
   <figure class="article-image img-left">
   <img src="/images/cucciolo-rosso.webp" alt="Cucciolo di Staffordshire Bull Terrier" loading="lazy" decoding="async" width="400" height="457">
@@ -215,10 +215,10 @@ custom_content: |
 
   <h3>American Staffordshire Terrier</h3>
 
-  <p>L'Amstaff, selezionato per le esposizioni, tende ad avere un temperamento leggermente più calmo rispetto all'APBT. Lo standard AKC lo descrive come "buono con i bambini, affidabile, degno di fiducia".</p>
+  <p>L'Amstaff, selezionato per le esposizioni, tende ad avere un temperamento leggermente più calmo rispetto all'APBT. </p>
 
   <div class="info-box">
-  <p class="info-box-title">🐕 Nota Importante sul Temperamento</p>
+  <p class="info-box-title">🐕 Una nota sul temperamento</p>
   <p>Il temperamento individuale dipende molto più dalla genetica specifica (linee di sangue), dalla socializzazione e dall'educazione che dalla razza in sé. La scelta dell'<a href="/chi-siamo/">allevatore</a> e l'impegno del proprietario sono fattori determinanti.</p>
   </div>
   <!--/BLOCCO:5-->
@@ -228,14 +228,14 @@ custom_content: |
 
   <h3>In Italia</h3>
 
-  <p><strong>Staffordshire Bull Terrier:</strong> Riconosciuto dall'ENCI. I cuccioli di allevatori registrati hanno pedigree ROI o LIBRO APERTO. Nessuna restrizione specifica.</p>
+  <p><strong>Staffordshire Bull Terrier:</strong> Riconosciuto dall'ENCI. I cuccioli nati da genitori iscritti hanno il pedigree ENCI (LOI, Libro Origini Italiano). Nessuna restrizione specifica.</p>
 
   <p><strong>American Staffordshire Terrier:</strong> Riconosciuto dall'ENCI. Stessa situazione dello Staffy.</p>
 
   <p><strong>American Pit Bull Terrier:</strong> <strong>Non riconosciuto</strong> dall'ENCI né dalla FCI. Non esiste pedigree ufficiale in Italia.</p>
 
   <div class="alert">
-  <p class="alert-title">⚠️ Attenzione ai "Pit Bull" senza Pedigree</p>
+  <p class="alert-title">⚠️ Attenzione ai "Pit Bull" senza pedigree</p>
   <p>In Italia, un cane venduto come "Pit Bull" non può avere pedigree ENCI perché la razza non è riconosciuta. Molti cani venduti come "Pit Bull" sono in realtà incroci di vario tipo. Se cerchi un cane di tipo "bull" con garanzie, orientati verso <a href="/cuccioli-staffordshire-bull-terrier/">cuccioli di Staffy</a> o Amstaff da allevatori ENCI.</p>
   </div>
   <!--/BLOCCO:6-->
@@ -260,7 +260,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3 class="faq-question">L'American Staffordshire Terrier e il Pit Bull sono la stessa razza?</h3>
-  <div class="faq-answer">Hanno origini comuni ma oggi sono due cose diverse, e la differenza &egrave; nel riconoscimento. L'<strong>American Staffordshire Terrier</strong> &egrave; una razza riconosciuta dalla FCI, con standard e libro genealogico: 45,7-48,2 centimetri per 25-32 chili nel maschio, muso pi&ugrave; lungo e struttura pi&ugrave; slanciata dello Staffy. L'<strong>American Pit Bull Terrier</strong> &egrave; riconosciuto da registri americani come UKC e ADBA, ma non dalla FCI e quindi nemmeno dall'ENCI. In Italia, in pratica, un cane venduto come Pit Bull &egrave; un cane senza pedigree riconosciuto, di ascendenza non verificabile. La distinzione non &egrave; formalismo: senza libro genealogico non si pu&ograve; risalire ai genitori, ai test genetici n&eacute; al numero di cucciolate.</div>
+  <div class="faq-answer">Hanno origini comuni ma oggi sono due cose diverse, e la differenza &egrave; nel riconoscimento. L'<strong>American Staffordshire Terrier</strong> &egrave; una razza riconosciuta dalla FCI, con standard e libro genealogico: 46-48 centimetri nel maschio, di solito fra 25 e 32 chili: pi&ugrave; alto dello Staffy e con il muso pi&ugrave; lungo. L'<strong>American Pit Bull Terrier</strong> &egrave; riconosciuto da registri americani come UKC e ADBA, ma non dalla FCI e quindi nemmeno dall'ENCI. In Italia, in pratica, un cane venduto come Pit Bull &egrave; un cane senza pedigree riconosciuto, di ascendenza non verificabile. La distinzione non &egrave; formalismo: senza libro genealogico non si pu&ograve; risalire ai genitori, ai test genetici n&eacute; al numero di cucciolate.</div>
   </div>
 
   <div class="faq-item">
@@ -270,7 +270,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3 class="faq-question">Quale delle tre razze è più adatta ai bambini?</h3>
-  <div class="faq-answer">La domanda va girata: <strong>nessuna razza &egrave; adatta ai bambini senza la supervisione di un adulto</strong>, e nessuna lo &egrave; a prescindere dal singolo cane. Detto questo, lo Staffordshire Bull Terrier &egrave; quello con la reputazione pi&ugrave; solida come cane di famiglia, ed &egrave; anche il pi&ugrave; piccolo dei tre, il che in casa conta: un cane da 15 chili che salta addosso &egrave; una cosa, uno da 30 &egrave; un'altra. Ma il fattore decisivo non &egrave; la razza: sono la selezione dei riproduttori, le prime otto settimane e le regole che la famiglia stabilisce. Un Amstaff ben selezionato e cresciuto bene &egrave; pi&ugrave; affidabile di uno Staffy nato per caso.</div>
+  <div class="faq-answer">La domanda va girata: <strong>nessuna razza &egrave; adatta ai bambini senza la supervisione di un adulto</strong>, e nessuna lo &egrave; a prescindere dal singolo cane. Detto questo, lo Staffordshire Bull Terrier &egrave; quello con la reputazione pi&ugrave; solida come cane di famiglia, ed &egrave; anche il pi&ugrave; piccolo dei tre, il che in casa conta: un cane da 15 chili che salta addosso &egrave; una cosa, uno da 30 &egrave; un'altra. Ma il fattore decisivo non &egrave; la razza: sono la selezione dei riproduttori, le prime settimane di vita e le regole che la famiglia stabilisce. Un Amstaff ben selezionato e cresciuto bene &egrave; pi&ugrave; affidabile di uno Staffy nato per caso.</div>
   </div>
 
   <div class="faq-item">
@@ -296,7 +296,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
+  <a class="btn" href="/blog/" title="Torna al blog">&larr; Torna al blog</a>
 
   <p class="tags"><strong>Tag:</strong>
   <a aria-label="Guide sullo Staffordshire Bull Terrier" href="/blog/#standard" title="Articoli standard">staffordshire bull terrier</a>

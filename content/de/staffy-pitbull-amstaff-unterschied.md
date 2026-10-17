@@ -99,7 +99,7 @@ custom_content: |
   <!--BLOCCO:4-->
   <h2>Körperlicher Vergleich: die Tabelle der Unterschiede</h2>
 
-  <p>Hier die konkreten körperlichen Unterschiede zwischen den drei Rassen. Die Tabelle fasst die wichtigsten Merkmale nach den offiziellen Standards zusammen.</p>
+  <p>Hier die konkreten körperlichen Unterschiede zwischen den drei Rassen. Die Tabelle fasst die wichtigsten Merkmale zusammen. Der FCI-Standard des Amstaff legt kein Gewicht fest: Der Wert in der Tabelle ist das übliche Gewicht.</p>
 
   <table tabindex="0">
   <thead>
@@ -121,7 +121,7 @@ custom_content: |
   <td><strong>Größe Hündinnen</strong></td>
   <td>35,5 - 40,5 cm</td>
   <td>43 - 50 cm</td>
-  <td>43,1 - 48,2 cm</td>
+  <td>43 - 46 cm</td>
   </tr>
   <tr>
   <td><strong>Gewicht Rüden</strong></td>
@@ -194,7 +194,7 @@ custom_content: |
 
   <h3>Staffordshire Bull Terrier</h3>
 
-  <p>Der FCI-Standard beschreibt das Wesen des Staffy als traditionell unerschrocken und zäh, hochintelligent und anhänglich, besonders gegenüber Kindern. Der Staffy ist für seine starke Bindung an seine Menschenfamilie bekannt, so sehr, dass er den Spitznamen „Nanny Dog“ trägt.</p>
+  <p>Der FCI-Standard beschreibt den Staffy als traditionell von unbezwingbarem Mut und Zähigkeit, hochintelligent und anhänglich, besonders gegenüber Kindern. Der Staffy ist für seine starke Bindung an seine Menschenfamilie bekannt, so sehr, dass er den Spitznamen „Nanny Dog“ trägt.</p>
 
   <figure class="article-image img-left">
   <img src="/images/cucciolo-rosso.webp" alt="Staffordshire Bull Terrier Welpe" loading="lazy" decoding="async" width="400" height="457">
@@ -207,10 +207,10 @@ custom_content: |
 
   <h3>American Staffordshire Terrier</h3>
 
-  <p>Der Amstaff, auf Ausstellungen hin selektiert, hat meist ein etwas ruhigeres Wesen als der APBT. Der AKC-Standard beschreibt ihn als gut mit Kindern, verlässlich und vertrauenswürdig.</p>
+  <p>Der Amstaff, auf Ausstellungen hin selektiert, hat meist ein etwas ruhigeres Wesen als der APBT.</p>
 
   <div class="info-box">
-  <p class="info-box-title">🐕 Wichtiger Hinweis zum Wesen</p>
+  <p class="info-box-title">🐕 Ein Hinweis zum Wesen</p>
   <p>Das Wesen eines einzelnen Hundes hängt weit mehr von seiner konkreten Genetik (Blutlinien), der Sozialisierung und der Erziehung ab als von der Rasse an sich. Die Wahl des <a href="/de/ueber-uns/">Züchters</a> und der Einsatz des Halters sind entscheidend.</p>
   </div>
   <!--/BLOCCO:5-->
@@ -220,7 +220,7 @@ custom_content: |
 
   <h3>In Italien</h3>
 
-  <p><strong>Staffordshire Bull Terrier:</strong> vom ENCI anerkannt. Welpen aus eingetragenen Zuchten haben eine Ahnentafel ROI oder LIBRO APERTO. Keine besonderen Einschränkungen.</p>
+  <p><strong>Staffordshire Bull Terrier:</strong> vom ENCI anerkannt. Welpen von eingetragenen Eltern haben eine ENCI-Ahnentafel (LOI, das italienische Zuchtbuch). Keine besonderen Einschränkungen.</p>
 
   <p><strong>American Staffordshire Terrier:</strong> vom ENCI anerkannt. Gleiche Lage wie beim Staffy.</p>
 
@@ -252,7 +252,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3 class="faq-question">Sind American Staffordshire Terrier und Pit Bull dieselbe Rasse?</h3>
-  <div class="faq-answer">Sie haben gemeinsame Wurzeln, sind heute aber zwei verschiedene Dinge, und der Unterschied liegt in der Anerkennung. Der <strong>American Staffordshire Terrier</strong> ist von der FCI anerkannt, mit Standard und Zuchtbuch: 45,7-48,2 cm und 25-32 kg beim Rüden, längerer Fang und schlankerer Bau als der Staffy. Der <strong>American Pit Bull Terrier</strong> wird von amerikanischen Registern wie UKC und ADBA anerkannt, aber nicht von der FCI und damit auch nicht vom ENCI. In Italien ist ein als Pit Bull verkaufter Hund praktisch ein Hund ohne anerkannte Ahnentafel und mit nicht überprüfbarer Abstammung. Das ist keine Formsache: Ohne Zuchtbuch lassen sich weder die Eltern noch die Gentests noch die Zahl der Würfe zurückverfolgen.</div>
+  <div class="faq-answer">Sie haben gemeinsame Wurzeln, sind heute aber zwei verschiedene Dinge, und der Unterschied liegt in der Anerkennung. Der <strong>American Staffordshire Terrier</strong> ist von der FCI anerkannt, mit Standard und Zuchtbuch: 46-48 cm beim Rüden, meist 25-32 kg: höher als der Staffy und mit längerem Fang. Der <strong>American Pit Bull Terrier</strong> wird von amerikanischen Registern wie UKC und ADBA anerkannt, aber nicht von der FCI und damit auch nicht vom ENCI. In Italien ist ein als Pit Bull verkaufter Hund praktisch ein Hund ohne anerkannte Ahnentafel und mit nicht überprüfbarer Abstammung. Das ist keine Formsache: Ohne Zuchtbuch lassen sich weder die Eltern noch die Gentests noch die Zahl der Würfe zurückverfolgen.</div>
   </div>
 
   <div class="faq-item">
@@ -262,7 +262,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3 class="faq-question">Welche der drei Rassen eignet sich am besten für Kinder?</h3>
-  <div class="faq-answer">Die Frage ist besser umgekehrt gestellt: <strong>Keine Rasse eignet sich ohne Aufsicht eines Erwachsenen für Kinder</strong>, und keine unabhängig vom einzelnen Hund. Davon abgesehen hat der Staffordshire Bull Terrier den gefestigtsten Ruf als Familienhund, und er ist auch der kleinste der drei, was im Haus zählt: Ein Hund von 15 Kilo, der hochspringt, ist das eine, einer von 30 das andere. Entscheidend ist aber nicht die Rasse, sondern die Auswahl der Elterntiere, die ersten acht Wochen und die Regeln, die die Familie aufstellt. Ein gut selektierter und gut aufgezogener Amstaff ist verlässlicher als ein zufällig entstandener Staffy.</div>
+  <div class="faq-answer">Die Frage ist besser umgekehrt gestellt: <strong>Keine Rasse eignet sich ohne Aufsicht eines Erwachsenen für Kinder</strong>, und keine unabhängig vom einzelnen Hund. Davon abgesehen hat der Staffordshire Bull Terrier den gefestigtsten Ruf als Familienhund, und er ist auch der kleinste der drei, was im Haus zählt: Ein Hund von 15 Kilo, der hochspringt, ist das eine, einer von 30 das andere. Entscheidend ist aber nicht die Rasse, sondern die Auswahl der Elterntiere, die ersten Lebenswochen und die Regeln, die die Familie aufstellt. Ein gut selektierter und gut aufgezogener Amstaff ist verlässlicher als ein zufällig entstandener Staffy.</div>
   </div>
 
   <div class="faq-item">

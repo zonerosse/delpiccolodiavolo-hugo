@@ -37,8 +37,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Historical Origins</span><span>FCI Standard</span><span>Comparison Table</span><span>Size and Weight</span><span>Temperament</span><span>Legal Recognition</span><span>Complete FAQ</span>
-  <span>Historical Origins</span><span>FCI Standard</span><span>Comparison Table</span><span>Size and Weight</span><span>Temperament</span><span>Legal Recognition</span><span>Complete FAQ</span>
+  <span>Historical origins</span><span>FCI standard</span><span>Comparison table</span><span>Size and weight</span><span>Temperament</span><span>Legal recognition</span><span>FAQ</span>
+  <span>Historical origins</span><span>FCI standard</span><span>Comparison table</span><span>Size and weight</span><span>Temperament</span><span>Legal recognition</span><span>FAQ</span>
   </div>
   </div>
 
@@ -59,7 +59,7 @@ custom_content: |
 
   <p>The confusion between <strong>Staffordshire Bull Terrier</strong>, <strong>American Pit Bull Terrier</strong> and <strong><a href="https://www.enci.it/media/2547/286.pdf" title="FCI standard no. 286 for the American Staffordshire Terrier, official ENCI PDF" target="_blank" rel="noopener" aria-label="FCI standard no. 286 for the American Staffordshire Terrier, official ENCI PDF (opens in a new tab)">American Staffordshire Terrier</a></strong> is extremely common, not only among laypeople but also in the media and sometimes in institutions. This confusion has concrete consequences: poorly written laws, unjustified prejudice and difficulties for owners.</p>
 
-  <p>There are several reasons for it. All three breeds descend from the same stock: the "Bull and Terrier" dogs of 19th-century England, crosses between Bulldogs and various Terriers. They therefore share a common genetic heritage and some similar physical traits: a broad head, a powerful jaw, a muscular body.</p>
+  <p>All three breeds descend from the same stock: the "Bull and Terrier" dogs of 19th-century England, crosses between Bulldogs and various Terriers. They therefore share a common genetic heritage and some similar physical traits: a broad head, a powerful jaw, a muscular body.</p>
 
 
   <p>The media tend to use the generic term "Pitbull" for any "bull" type dog, whatever its actual breed. When a molosser-type dog is involved in an incident, the breed is rarely identified correctly, which feeds generalised stereotypes.</p>
@@ -106,7 +106,7 @@ custom_content: |
   <!--BLOCCO:4-->
   <h2>Physical comparison: the table of differences</h2>
 
-  <p>Here are the concrete physical differences between the three breeds. The table below sums up the main traits according to the official standards.</p>
+  <p>Here are the concrete physical differences between the three breeds. The table below sums up the main traits. The Amstaff's FCI standard sets no weight: the figure in the table is the usual weight.</p>
 
   <table tabindex="0">
   <thead>
@@ -128,7 +128,7 @@ custom_content: |
   <td><strong>Height, females</strong></td>
   <td>35.5 - 40.5 cm</td>
   <td>43 - 50 cm</td>
-  <td>43.1 - 48.2 cm</td>
+  <td>43 - 46 cm</td>
   </tr>
   <tr>
   <td><strong>Weight, males</strong></td>
@@ -214,10 +214,10 @@ custom_content: |
 
   <h3>American Staffordshire Terrier</h3>
 
-  <p>The Amstaff, selected for the show ring, tends to have a slightly calmer temperament than the APBT. The AKC standard describes it as good with children, reliable and trustworthy.</p>
+  <p>The Amstaff, selected for the show ring, tends to have a slightly calmer temperament than the APBT.</p>
 
   <div class="info-box">
-  <p class="info-box-title">🐕 An Important Note on Temperament</p>
+  <p class="info-box-title">🐕 A note on temperament</p>
   <p>An individual dog's temperament depends far more on its specific genetics (bloodlines), socialisation and upbringing than on the breed itself. The choice of <a href="/en/about-us/">breeder</a> and the owner's commitment are decisive factors.</p>
   </div>
   <!--/BLOCCO:5-->
@@ -227,7 +227,7 @@ custom_content: |
 
   <h3>In Italy</h3>
 
-  <p><strong>Staffordshire Bull Terrier:</strong> recognised by the ENCI. Puppies from registered breeders have a ROI or LIBRO APERTO pedigree. No specific restrictions.</p>
+  <p><strong>Staffordshire Bull Terrier:</strong> recognised by the ENCI. Puppies born to registered parents have an ENCI pedigree (LOI, the Italian stud book). No specific restrictions.</p>
 
   <p><strong>American Staffordshire Terrier:</strong> recognised by the ENCI. Same situation as the Staffy.</p>
 
@@ -259,7 +259,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3 class="faq-question">Are American Staffordshire Terrier and Pit Bull the same breed?</h3>
-  <div class="faq-answer">They share origins but today they are different things, and the difference is recognition. The <strong>American Staffordshire Terrier</strong> is recognised by the FCI, with a standard and a stud book: 45.7-48.2 cm and 25-32 kg in males, a longer muzzle and a leaner build than the Staffy. The <strong>American Pit Bull Terrier</strong> is recognised by American registries such as UKC and ADBA, but not by the FCI and therefore not by the ENCI. In practice, in Italy a dog sold as a Pit Bull is a dog without a recognised pedigree and with unverifiable ancestry. The distinction is not a formality: without a stud book there is no way to trace the parents, the genetic tests or the number of litters.</div>
+  <div class="faq-answer">They share origins but today they are different things, and the difference is recognition. The <strong>American Staffordshire Terrier</strong> is recognised by the FCI, with a standard and a stud book: 46-48 cm in males, usually 25-32 kg: taller than the Staffy, with a longer muzzle. The <strong>American Pit Bull Terrier</strong> is recognised by American registries such as UKC and ADBA, but not by the FCI and therefore not by the ENCI. In practice, in Italy a dog sold as a Pit Bull is a dog without a recognised pedigree and with unverifiable ancestry. The distinction is not a formality: without a stud book there is no way to trace the parents, the genetic tests or the number of litters.</div>
   </div>
 
   <div class="faq-item">
@@ -269,7 +269,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3 class="faq-question">Which of the three breeds is most suitable for children?</h3>
-  <div class="faq-answer">The question is better turned around: <strong>no breed is suitable for children without adult supervision</strong>, and none is suitable regardless of the individual dog. That said, the Staffordshire Bull Terrier has the strongest reputation as a family dog, and it is also the smallest of the three, which matters indoors: a 15 kg dog jumping up is one thing, a 30 kg dog quite another. But the deciding factor is not the breed: it is the selection of the parents, the first eight weeks and the rules the family sets. A well-bred, well-raised Amstaff is more reliable than a Staffy bred by accident.</div>
+  <div class="faq-answer">The question is better turned around: <strong>no breed is suitable for children without adult supervision</strong>, and none is suitable regardless of the individual dog. That said, the Staffordshire Bull Terrier has the strongest reputation as a family dog, and it is also the smallest of the three, which matters indoors: a 15 kg dog jumping up is one thing, a 30 kg dog quite another. But the deciding factor is not the breed: it is the selection of the parents, the first weeks of life and the rules the family sets. A well-bred, well-raised Amstaff is more reliable than a Staffy bred by accident.</div>
   </div>
 
   <div class="faq-item">
@@ -295,7 +295,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
+  <a class="btn" href="/en/blog/" title="Back to the blog">&larr; Back to the blog</a>
   </div>
 
   </article>
