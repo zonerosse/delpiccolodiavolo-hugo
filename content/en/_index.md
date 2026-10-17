@@ -36,6 +36,7 @@ custom_content: |
   <a class="btn btn-primary" href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies</a>
   </div>
   <p class="hero-guida">First time with a Staffy? <a href="/docs/guide-first-months-staffy-puppy.pdf">Download the guide to the first months (PDF)</a></p>
+  <p class="hero-trust">Genetic testing - ENCI Pedigree - Since 2013</p>
   <div class="n-num numeri-chiave">
   <div><b>since 2013</b><span>Staffordshire Bull<br>Terrier breeder</span></div>
   <div><b>1</b><span>litter a year<br>on average</span></div>

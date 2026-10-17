@@ -36,6 +36,7 @@ custom_content: |
   <a class="btn btn-primary" href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Staffordshire Bull Terrier Welpen</a>
   </div>
   <p class="hero-guida">Zum ersten Mal ein Staffy? <a href="/docs/ratgeber-erste-monate-staffy-welpe.pdf">Laden Sie den Ratgeber für die ersten Monate herunter (PDF)</a></p>
+  <p class="hero-trust">Gentests - ENCI-Ahnentafel - Seit 2013</p>
   <div class="n-num numeri-chiave">
   <div><b>seit 2013</b><span>Zucht von Staffordshire<br>Bull Terriern</span></div>
   <div><b>1</b><span>Wurf im Jahr<br>im Schnitt</span></div>

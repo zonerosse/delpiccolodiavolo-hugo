@@ -35,6 +35,7 @@ custom_content: |
   <a class="btn btn-primary" href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier disponibili">Cuccioli Staffordshire Bull Terrier</a>
   </div>
   <p class="hero-guida">Prima volta con uno Staffy? <a href="/docs/guida-primi-mesi-cucciolo-staffy.pdf">Scarica la guida ai primi mesi (PDF)</a></p>
+  <p class="hero-trust">Test genetici - Pedigree ENCI - Dal 2013</p>
   <div class="n-num numeri-chiave">
   <div><b>dal 2013</b><span>allevamento di<br>Staffordshire Bull Terrier</span></div>
   <div><b>1</b><span>cucciolata l'anno<br>in media</span></div>

@@ -251,3 +251,4 @@ body.notte-pagina .footer-links{grid-area:links;flex-direction:column;align-item
 body.notte-pagina .footer-links a{padding:.3rem 0!important}
 body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(243,233,220,.12);padding-top:1.4rem;margin-top:2rem!important}
 }
+.notte-pagina .hero-trust{color:var(--n-mu);font-size:.75rem!important;letter-spacing:.14em;margin:1.2rem 0 0}
