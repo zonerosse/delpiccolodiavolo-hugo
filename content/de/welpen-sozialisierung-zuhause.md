@@ -2,7 +2,7 @@
 title: "Welpen zu Hause sozialisieren: die Liste für die Familie"
 date: 2025-03-18
 titleSeo: "Welpen zu Hause sozialisieren: die Liste für die Familie"
-lastmod: 2026-10-05
+lastmod: 2026-10-17
 translationKey: "socializzazione"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
@@ -41,7 +41,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>Die Sozialisierung eines Staffordshire Bull Terrier Welpen hängt an einem Fenster, das sich früh schließt. Von etwa der dritten bis zur zwölften Lebenswoche, mit dem Kern zwischen der vierten und der achten, nimmt das Gehirn eines Welpen Neues als normal hin. Was der Welpe in dieser Zeit kennenlernt, gehört zu seiner gewöhnlichen Welt; was er später trifft, muss er erst bewerten, und beim Bewerten entsteht Angst. Die acht Wochen in der Zucht sind die Hälfte dieses Fensters, deshalb ist so wichtig, wo ein Welpe aufwächst. Sozialisierung heißt nicht, möglichst viele Hunde und Menschen zu treffen. Sie heißt gewöhnliche Erfahrungen, verschiedene Untergründe, Haushaltsgeräusche, Menschen jeden Alters und ruhige erwachsene Hunde, kurz und positiv. Maßstab einer guten Erfahrung ist, dass der Welpe entspannt blieb, nicht bloß, dass sie stattfand. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
+  <p>Die Sozialisierung eines Staffordshire Bull Terrier Welpen hängt an einem Fenster, das sich früh schließt. Von etwa der dritten bis zur zwölften Lebenswoche, mit dem Kern zwischen der vierten und der achten, nimmt das Gehirn eines Welpen Neues als normal hin. Was der Welpe in dieser Zeit kennenlernt, gehört zu seiner gewöhnlichen Welt; was er später trifft, muss er erst bewerten, und beim Bewerten entsteht Angst. Die Wochen in der Zucht, mindestens neun oder zehn, sind ein großer Teil dieses Fensters, deshalb ist so wichtig, wo ein Welpe aufwächst. Sozialisierung heißt nicht, möglichst viele Hunde und Menschen zu treffen. Sie heißt gewöhnliche Erfahrungen, verschiedene Untergründe, Haushaltsgeräusche, Menschen jeden Alters und ruhige erwachsene Hunde, kurz und positiv. Maßstab einer guten Erfahrung ist, dass der Welpe entspannt blieb, nicht bloß, dass sie stattfand. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
   <p><strong>Dies ist die praktische Liste für die Familie</strong>, ab dem Tag, an dem der Welpe einzieht. Was er vorher, in der Zucht, kennengelernt haben kann, was nicht, und warum "bereits sozialisierter Welpe" für sich allein wenig bedeutet, steht im Artikel <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das wirklich heißt">Bereits sozialisierte Welpen: was das heißt</a>.</p>
 
@@ -49,14 +49,14 @@ custom_content: |
 
   <!--BLOCCO:2-->
   <h2>Das Fenster, das sich schließt</h2>
-  <p>Von etwa der dritten bis zur zwölften Lebenswoche, mit dem Kern zwischen der vierten und der achten, nimmt das Gehirn eines Welpen Neues als normal an. Was er in dieser Zeit kennenlernt, wird Teil seiner gewöhnlichen Welt; was danach kommt, muss bewertet werden — und bei der Bewertung entsteht Angst. Danach schließt sich das Fenster: Von da an wird Neues nicht mehr einfach angenommen, sondern geprüft.</p>
-  <p>Daraus folgt etwas Unbequemes, aber Nützliches: die 8 Wochen beim Züchter sind die Hälfte des gesamten Fensters, und es ist die Hälfte, die Sie nicht beeinflusst haben. Deshalb zählt der Ort der Aufzucht mehr als fast alles andere, und deshalb startet ein Welpe, der in der Küche zwischen Waschmaschine, Türklingel und Besuch aufwächst, spürbar besser als einer aus einem sauberen Außenzwinger.</p>
+  <p>Von etwa der dritten bis zur zwölften Lebenswoche, mit dem Kern zwischen der vierten und der achten, nimmt das Gehirn eines Welpen Neues als normal an. Was er in dieser Zeit kennenlernt, wird Teil seiner gewöhnlichen Welt; was danach kommt, muss bewertet werden, und bei der Bewertung entsteht Angst. Danach schließt sich das Fenster: Von da an wird Neues nicht mehr einfach angenommen, sondern geprüft.</p>
+  <p>Daraus folgt etwas Unbequemes, aber Nützliches: die Wochen beim Züchter, mindestens neun oder zehn, sind ein großer Teil des gesamten Fensters, und es ist der Teil, den Sie nicht beeinflusst haben. Deshalb zählt der Ort der Aufzucht mehr als fast alles andere, und deshalb startet ein Welpe, der in der Küche zwischen Waschmaschine, Türklingel und Besuch aufwächst, spürbar besser als einer aus einem sauberen Außenzwinger.</p>
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
   <h2>Was Sozialisierung wirklich bedeutet</h2>
   <p>Nicht, möglichst vielen Hunden und Menschen zu begegnen. Das ist ein verbreitetes und schädliches Missverständnis. <a href="https://wsava.org/global-guidelines/vaccination-guidelines/" title="WSAVA-Leitlinien" target="_blank" rel="noopener" aria-label="Sozialisierung – WSAVA-Leitlinien (wird in einem neuen Tab geöffnet)">Sozialisierung</a> heißt, die Erwartung aufzubauen, dass Neues unspektakulär ist und nichts Schlimmes passiert.</p>
-  <p>Der Maßstab einer guten Begegnung ist nicht, dass sie stattgefunden hat, sondern dass der Welpe durchgehend entspannt blieb. Ein Welpe, der mit 10 Wochen auf einen belebten Markt gezerrt und dort überfordert wurde, ist nicht an Märkte gewöhnt: er hat gelernt, dass Märkte beängstigend sind, und das rückgängig zu machen dauert Monate.</p>
+  <p>Eine Begegnung ist gut gelaufen, wenn der Welpe durchgehend entspannt blieb. Ein Welpe, der mit 10 Wochen auf einen belebten Markt gezerrt und dort überfordert wurde, ist nicht an Märkte gewöhnt: er hat gelernt, dass Märkte beängstigend sind, und das rückgängig zu machen dauert Monate.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
@@ -70,15 +70,15 @@ custom_content: |
   <!--BLOCCO:5-->
   <h2>Alleinbleiben lernen</h2>
   <p>Der am häufigsten übersehene Punkt und derjenige, der später am meisten Ärger macht. Eine Rasse, die sich so intensiv bindet, neigt zu Trennungsproblemen, und die Vorbeugung kostet nichts, wenn sie in der ersten Woche beginnt.</p>
-  <p>Beginnen Sie mit 30 Sekunden hinter einer Tür, während der Welpe mit etwas Gutem beschäftigt ist. Kehren Sie zurück, bevor er unruhig wird, nicht danach. Steigern Sie schrittweise: eine Minute, drei, zehn, dreißig. Variieren Sie den Aufbruch, damit das Aufnehmen der Schlüssel kein Signal wird. Machen Sie beim Gehen und Kommen kein Aufheben — genau das macht Ihre Abwesenheit zum Ereignis.</p>
+  <p>Beginnen Sie mit 30 Sekunden hinter einer Tür, während der Welpe mit etwas Gutem beschäftigt ist. Kehren Sie zurück, bevor er unruhig wird, nicht danach. Steigern Sie schrittweise: eine Minute, drei, zehn, dreißig. Variieren Sie den Aufbruch, damit das Aufnehmen der Schlüssel kein Signal wird. Machen Sie beim Gehen und Kommen kein Aufheben: Genau das macht Ihre Abwesenheit zum Ereignis.</p>
   <p>Die Falle liegt im Gegenteil dessen, was man erwartet: gerade der Welpe, der in den ersten Monaten nie allein war, weil immer jemand zu Hause ist, kommt mit 6 Monaten nicht zurecht, wenn sich die Umstände ändern.</p>
   <!--/BLOCCO:5-->
 
   <!--BLOCCO:6-->
   <h2>Beißhemmung und der Welpe, der in alles beißt</h2>
-  <p>Ein Staffordshire-Bull-Terrier-Welpe benutzt ständig das Maul. Das ist normal, entwicklungsbedingt und vorübergehend. Es ist zugleich die Phase, in der der Hund lernt, wie fest zu fest ist — eine Lektion, die vor dem erwachsenen Gebiss gelernt sein muss.</p>
+  <p>Ein Staffordshire-Bull-Terrier-Welpe benutzt ständig das Maul. Das ist normal, entwicklungsbedingt und vorübergehend. Es ist zugleich die Phase, in der der Hund lernt, wie fest zu fest ist, eine Lektion, die vor dem erwachsenen Gebiss gelernt sein muss.</p>
   <p>Die Methode ist konsequent und unspektakulär: berühren Zähne die Haut, endet das Spiel sofort und Sie wenden sich für 20 Sekunden ab. Kein Schreien, kein Schütteln, kein Zuhalten des Fangs. Danach auf ein passendes Spielzeug umlenken und weiterspielen. Von allen im Haushalt jedes Mal so gehandhabt, löst sich das binnen Wochen.</p>
-  <p>Was nicht passieren darf: eine Person erlaubt wildes Spiel mit den Händen, eine andere verbietet es. Uneinigkeit erzeugt einen erwachsenen Hund, der in der Aufregung ins Maul nimmt — bei dieser Rasse ein Problem, wie freundlich es auch gemeint ist.</p>
+  <p>Was nicht passieren darf: eine Person erlaubt wildes Spiel mit den Händen, eine andere verbietet es. Uneinigkeit erzeugt einen erwachsenen Hund, der in der Aufregung ins Maul nimmt, und bei dieser Rasse ist das ein Problem, wie freundlich es auch gemeint ist.</p>
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->
@@ -90,7 +90,7 @@ custom_content: |
   <!--BLOCCO:8-->
   <h2>Anzeichen, dass Sie zu schnell sind</h2>
   <p>Ein Welpe, der sonst genommenes Futter verweigert, wiederholt gähnt, sich zurückzieht, die Rute einklemmt oder erstarrt, ist über der Schwelle. Vergrößern Sie den Abstand, senken Sie die Intensität und betrachten Sie die Einheit als beendet.</p>
-  <p>Es gibt außerdem eine normale Angstphase zwischen der achten und elften Woche und oft eine zweite zwischen dem fünften und sechsten Monat, in der ein zuvor sicherer Welpe Vertrautes plötzlich bedrohlich findet. Das geht vorüber. Nehmen Sie in dieser Zeit Druck heraus und erzwingen Sie nichts — eine beängstigende Erfahrung in einer Angstphase hinterlässt überproportional lange Spuren.</p>
+  <p>Es gibt außerdem eine normale Angstphase zwischen der achten und elften Woche und oft eine zweite zwischen dem fünften und sechsten Monat, in der ein zuvor sicherer Welpe Vertrautes plötzlich bedrohlich findet. Das geht vorüber. Nehmen Sie in dieser Zeit Druck heraus und erzwingen Sie nichts: Eine beängstigende Erfahrung in einer Angstphase hinterlässt überproportional lange Spuren.</p>
   <!--/BLOCCO:8-->
 
   <!--BLOCCO:9-->

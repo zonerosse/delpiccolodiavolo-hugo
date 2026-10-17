@@ -2,7 +2,7 @@
 title: "Socialising the puppy at home: the family checklist"
 date: 2025-03-18
 titleSeo: "Socialising the puppy at home: the family checklist"
-lastmod: 2026-10-05
+lastmod: 2026-10-17
 translationKey: "socializzazione"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
@@ -33,8 +33,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Sound Exposure</span><span>Surface Training</span><span>Handling Practice</span><span>Household Objects</span><span>Visitor Protocol</span><span>Critical Period</span>
-  <span>Sound Exposure</span><span>Surface Training</span><span>Handling Practice</span><span>Household Objects</span><span>Visitor Protocol</span><span>Critical Period</span>
+  <span>Sound exposure</span><span>Surface training</span><span>Handling practice</span><span>Household objects</span><span>Visitor protocol</span><span>Critical period</span>
+  <span>Sound exposure</span><span>Surface training</span><span>Handling practice</span><span>Household objects</span><span>Visitor protocol</span><span>Critical period</span>
   </div>
   </div>
 
@@ -48,7 +48,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>Socialising a Staffordshire Bull Terrier puppy depends on a window that closes early. From roughly the third to the twelfth week of life, with the core between the fourth and the eighth, a puppy's brain accepts novelty as normal. What the puppy meets in that period becomes part of its ordinary world; what it meets later has to be evaluated, and evaluation is where fear enters. The eight weeks with the breeder are half of that window, which is why where a puppy is raised matters so much. Socialisation does not mean meeting as many dogs and people as possible. It means ordinary experiences, different surfaces, household noises, people of different ages and steady adult dogs, kept short and positive. The measure of a good exposure is that the puppy stayed relaxed throughout, not simply that it happened. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>Socialising a Staffordshire Bull Terrier puppy depends on a window that closes early. From roughly the third to the twelfth week of life, with the core between the fourth and the eighth, a puppy's brain accepts novelty as normal. What the puppy meets in that period becomes part of its ordinary world; what it meets later has to be evaluated, and evaluation is where fear enters. The weeks with the breeder are a large part of that window, which is why where a puppy is raised matters so much. Socialisation does not mean meeting as many dogs and people as possible. It means ordinary experiences, different surfaces, household noises, people of different ages and steady adult dogs, kept short and positive. The measure of a good exposure is that the puppy stayed relaxed throughout, not simply that it happened. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
   <p><strong>This is the practical checklist for the family</strong>, from the day the puppy comes home. What it can have met before, at the kennel, what it cannot, and why "already socialised puppy" means very little on its own is explained in <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it really means">Already socialised puppies: what it really means</a>.</p>
 
@@ -57,13 +57,13 @@ custom_content: |
   <!--BLOCCO:2-->
   <h2>The window that closes</h2>
   <p>From roughly the third to the twelfth week of life, with the core between the fourth and the eighth, a puppy's brain accepts novelty as normal. What it meets in that period becomes part of its ordinary world; what it meets afterwards has to be evaluated, and evaluation is where fear enters. After that the window closes: from then on, new things are no longer simply accepted but assessed.</p>
-  <p>The consequence is uncomfortable but useful: the 8 weeks a puppy spends with the breeder are half the entire window, and they are the half you did not control. This is why where a puppy is raised matters more than almost anything else, and why a puppy raised in a kitchen among washing machines, doorbells and visitors starts life meaningfully ahead of one raised in a clean outdoor kennel.</p>
+  <p>The consequence is uncomfortable but useful: the weeks a puppy spends with the breeder, at least nine or ten, are a large part of the entire window, and they are the part you did not control. This is why where a puppy is raised matters more than almost anything else, and why a puppy raised in a kitchen among washing machines, doorbells and visitors starts life meaningfully ahead of one raised in a clean outdoor kennel.</p>
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
   <h2>What socialisation actually means</h2>
   <p>It does not mean meeting as many dogs and people as possible. That is a common and damaging misreading. Socialisation means building the expectation that new things are unremarkable and that nothing bad happens.</p>
-  <p>The measure of a good exposure is not that it happened but that the puppy stayed relaxed throughout. A puppy dragged into a busy market at 10 weeks and left overwhelmed has not been socialised to markets: it has learned that markets are frightening, and undoing that takes months.</p>
+  <p>An exposure has gone well if the puppy stayed relaxed throughout. A puppy dragged into a busy market at 10 weeks and left overwhelmed has not been socialised to markets: it has learned that markets are frightening, and undoing that takes months.</p>
   <p>Timing matters as much as quality. The <a href="https://avsab.org/resources/position-statements/" target="_blank" rel="noopener" aria-label="American Veterinary Society of Animal Behavior – AVSAB position statement on puppy socialisation (opens in a new tab)">American Veterinary Society of Animal Behavior</a> points out that the sensitive period for socialisation falls in the first three months of life, and recommends that well-managed exposure begin before the vaccination course is complete: the behavioural cost of waiting is greater than the health risk of careful, controlled outings.</p>
   <!--/BLOCCO:3-->
 
@@ -98,7 +98,7 @@ custom_content: |
   <!--BLOCCO:8-->
   <h2>Signs you are going too fast</h2>
   <p>A puppy that refuses food it normally takes, that yawns repeatedly, that tries to retreat, that tucks its tail or that freezes, is over threshold. Increase distance, lower intensity, and consider the session over.</p>
-  <p>There is also a normal fear period around 8 to 11 weeks, and often a second between 5 and 6 months, in which a previously confident puppy suddenly finds familiar things alarming. This passes. During it, reduce the pressure and do not force exposures — a frightening experience during a fear period leaves a disproportionately lasting mark.</p>
+  <p>There is also a normal fear period around 8 to 11 weeks, and often a second between 5 and 6 months, in which a previously confident puppy suddenly finds familiar things alarming. This passes. During it, reduce the pressure and do not force exposures: a frightening experience during a fear period leaves a disproportionately lasting mark.</p>
   <!--/BLOCCO:8-->
 
   <!--BLOCCO:9-->
@@ -106,7 +106,7 @@ custom_content: |
   <p><strong>How many new things a day is right?</strong> Two or three, done calmly, beats ten done in a rush. Keep a written list and tick items off over 8 weeks rather than trying to cover everything in a fortnight.</p>
   <p><strong>My puppy is frightened of the vacuum cleaner.</strong> Start with it switched off in the room, rewarded. Then switched on in another room with the door closed. Then on, at a distance, for 10 seconds. Rushing this creates a dog that panics at appliances for life.</p>
   <p><strong>Is puppy class worthwhile?</strong> A well-run one, yes, particularly if it includes calm handling and structured exposure rather than 20 minutes of free-for-all play. Ask to observe a session before enrolling.</p>
-  <p><strong>What if I adopted an under-socialised adult?</strong> Progress is slower but real. The approach is the same — distance, patience, food — with the expectation of months rather than weeks, and usually with professional help.</p>
+  <p><strong>What if I adopted an under-socialised adult?</strong> Progress is slower but real. The approach is the same (distance, patience, food), with the expectation of months rather than weeks, and usually with professional help.</p>
 
   <div class="related-articles">
   <h3>Related articles</h3>
@@ -119,7 +119,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
+  <a class="btn" href="/en/blog/" title="Back to the blog">&larr; Back to the blog</a>
 
   <p class="tags"><strong>Tags:</strong>
   <a aria-label="puppies — blog category" href="/en/blog/#puppies" title="Puppy articles">puppies</a>

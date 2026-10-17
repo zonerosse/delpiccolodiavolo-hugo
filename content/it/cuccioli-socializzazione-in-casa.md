@@ -2,7 +2,7 @@
 title: "Socializzare il cucciolo in casa: la lista per la famiglia"
 date: 2025-03-18
 titleSeo: "Socializzare il cucciolo in casa: la lista per la famiglia"
-lastmod: 2026-10-05
+lastmod: 2026-10-17
 translationKey: "socializzazione"
 articolo: true
 image: "/images/blog/cucciolo-in-mano-hero.webp"
@@ -24,7 +24,7 @@ custom_content: |
   <h1 class="hero-title">Socializzare il cucciolo in casa: <em>la lista per la famiglia</em></h1>
   <p class="hero-subtitle">Superfici, rumori, mani addosso, ospiti e solitudine</p>
   <div class="hero-meta">
-  <span>📅 18 Marzo 2025</span>
+  <span>📅 18 marzo 2025</span>
   <span>⏱️ 7 min lettura</span>
   </div>
   </div>
@@ -33,8 +33,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>La Finestra che si Chiude</span><span>Superfici e Rumori</span><span>Manipolazioni</span><span>Stare da Soli</span><span>Inibizione del Morso</span><span>Altri Cani</span>
-  <span>La Finestra che si Chiude</span><span>Superfici e Rumori</span><span>Manipolazioni</span><span>Stare da Soli</span><span>Inibizione del Morso</span><span>Altri Cani</span>
+  <span>La finestra che si chiude</span><span>Superfici e rumori</span><span>Manipolazioni</span><span>Stare da soli</span><span>Inibizione del morso</span><span>Altri cani</span>
+  <span>La finestra che si chiude</span><span>Superfici e rumori</span><span>Manipolazioni</span><span>Stare da soli</span><span>Inibizione del morso</span><span>Altri cani</span>
   </div>
   </div>
 
@@ -55,13 +55,13 @@ custom_content: |
   <!--BLOCCO:2-->
   <h2>La finestra che si chiude</h2>
   <p>Dalla terza alla dodicesima settimana di vita circa, con il nucleo fra la quarta e l'ottava, il cervello di un cucciolo accetta la novità come normale. Quello che incontra in quel periodo diventa parte del suo mondo ordinario; quello che incontra dopo va valutato, e la valutazione è la porta da cui entra la paura. Poi la finestra si chiude: da lì in avanti le cose nuove non vengono più semplicemente accettate, vengono giudicate.</p>
-  <p>La conseguenza è scomoda ma utile: le otto settimane che un cucciolo passa in allevamento sono metà dell'intera finestra, ed è la metà che la famiglia non ha controllato. È il motivo per cui il posto in cui un cucciolo cresce conta più di quasi qualsiasi altra cosa, e per cui un cucciolo cresciuto in una cucina fra lavatrici, campanelli e ospiti parte con un vantaggio concreto rispetto a uno cresciuto in un box pulito all'aperto.</p>
+  <p>La conseguenza è scomoda ma utile: le settimane che un cucciolo passa in allevamento, almeno nove o dieci, sono gran parte dell'intera finestra, ed è la metà che la famiglia non ha controllato. È il motivo per cui il posto in cui un cucciolo cresce conta più di quasi qualsiasi altra cosa, e per cui un cucciolo cresciuto in una cucina fra lavatrici, campanelli e ospiti parte con un vantaggio concreto rispetto a uno cresciuto in un box pulito all'aperto.</p>
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
   <h2>Cosa vuol dire davvero socializzare</h2>
   <p>Non vuol dire incontrare il maggior numero possibile di cani e persone. È un fraintendimento comune e dannoso. Socializzare significa costruire l'aspettativa che le cose nuove siano poco interessanti e che non succeda niente di male.</p>
-  <p>La misura di una buona esposizione non è che sia avvenuta, ma che il cucciolo sia rimasto rilassato per tutto il tempo. Un cucciolo trascinato in un mercato affollato a dieci settimane e lasciato lì sopraffatto non è stato socializzato ai mercati: ha imparato che i mercati fanno paura, e disfare quella lezione richiede mesi.</p>
+  <p>Un'esposizione è andata bene se il cucciolo è rimasto rilassato per tutto il tempo. Un cucciolo trascinato in un mercato affollato a dieci settimane e lasciato lì sopraffatto non è stato socializzato ai mercati: ha imparato che i mercati fanno paura, e disfare quella lezione richiede mesi.</p>
   <p>I tempi contano quanto la qualità. Aspettare la fine delle vaccinazioni per cominciare vuol dire perdere buona parte di quelle settimane. La <a href="https://avsab.org/resources/position-statements/" title="Posizione AVSAB sulla socializzazione dei cuccioli" target="_blank" rel="noopener" aria-label="posizione dell'AVSAB sulla socializzazione – Posizione AVSAB sulla socializzazione dei cuccioli (si apre in una nuova scheda)">posizione dell'AVSAB sulla socializzazione</a> è esplicita: il periodo sensibile cade nei primi tre mesi di vita, e le esposizioni controllate vanno iniziate prima che il ciclo vaccinale sia completo, perché il rischio comportamentale di rimandare è più alto del rischio sanitario di uscite ben gestite. Come conciliare le due cose è nella guida alle <a href="/cuccioli-prime-vaccinazioni/" title="Prime vaccinazioni del cucciolo">prime vaccinazioni</a>.</p>
   <!--/BLOCCO:3-->
 
@@ -104,7 +104,7 @@ custom_content: |
   <p><strong>Quante cose nuove al giorno sono giuste?</strong> Due o tre, fatte con calma, battono dieci fatte di corsa. Si tiene una lista scritta e si spuntano le voci nell'arco di otto settimane, invece di cercare di coprire tutto in quindici giorni.</p>
   <p><strong>Il mio cucciolo ha paura dell'aspirapolvere.</strong> Si comincia con l'aspirapolvere spento nella stanza, con un premio. Poi acceso in un'altra stanza con la porta chiusa. Poi acceso, a distanza, per dieci secondi. Avere fretta qui crea un cane che va nel panico con gli elettrodomestici per tutta la vita.</p>
   <p><strong>Vale la pena fare una puppy class?</strong> Una ben condotta sì, soprattutto se comprende manipolazioni tranquille ed esposizioni strutturate invece di venti minuti di gioco libero. Si chiede di assistere a una lezione prima di iscriversi.</p>
-  <p><strong>E se ho adottato un adulto poco socializzato?</strong> Il progresso è più lento ma reale. L'approccio è lo stesso &mdash; distanza, pazienza, cibo &mdash; con l'aspettativa di mesi invece che settimane, e di solito con un aiuto professionale.</p>
+  <p><strong>E se ho adottato un adulto poco socializzato?</strong> Il progresso è più lento ma reale. L'approccio è lo stesso (distanza, pazienza, cibo), con l'aspettativa di mesi invece che settimane, e di solito con un aiuto professionale.</p>
 
   <div class="related-articles">
   <h3>Articoli correlati</h3>
@@ -117,7 +117,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
+  <a class="btn" href="/blog/" title="Torna al blog">&larr; Torna al blog</a>
   </div>
   <!--/BLOCCO:9-->
 
