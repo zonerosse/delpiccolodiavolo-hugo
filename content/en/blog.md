@@ -135,7 +135,7 @@ custom_content: |
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">8 Sep 2026</span><span>&bull;</span><span class="cat">Puppies</span></div>
   <h3><a href="/en/bio-sensor-early-stimulation-puppies/" title="Read: Bio Sensor, what the research says">Bio Sensor: what the research actually says</a></h3>
-  <p>The ENS method, the evidence that is missing, and what counts in the first eight weeks.</p>
+  <p>The ENS method, the evidence that is missing, and what counts in the first two months.</p>
   <a class="read" href="/en/bio-sensor-early-stimulation-puppies/" title="Read the full article" aria-label="Read the article: Bio Sensor, what the research actually says">Read<span class="sr-only">: Bio Sensor, what the research actually says</span> &rarr;</a>
   </div>
   </article>

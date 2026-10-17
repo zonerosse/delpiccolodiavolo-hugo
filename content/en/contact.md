@@ -244,7 +244,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3>How much does a puppy cost?</h3>
-  <p>We tell you directly, after a first conversation. What lies behind the figure is set out in <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="How much does a Staffordshire Bull Terrier puppy cost">this page</a>: <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="ENCI breed page" target="_blank" rel="noopener" aria-label="ENCI pedigree – ENCI breed page (opens in a new tab)">ENCI pedigree</a>, complete genetic testing on both parents, veterinary care and eight weeks of raising a litter indoors.</p>
+  <p>We tell you directly, after a first conversation. What lies behind the figure is set out in <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="How much does a Staffordshire Bull Terrier puppy cost">this page</a>: <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="ENCI breed page" target="_blank" rel="noopener" aria-label="ENCI pedigree – ENCI breed page (opens in a new tab)">ENCI pedigree</a>, complete genetic testing on both parents, veterinary care and two months of raising a litter indoors.</p>
   </div>
   </div>
 

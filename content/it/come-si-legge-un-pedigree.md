@@ -157,7 +157,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/blog/" title="Torna al blog">&larr; Torna al blog</a>
+  <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
   </div>
   <!--/BLOCCO:6-->
 

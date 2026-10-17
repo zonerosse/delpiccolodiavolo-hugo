@@ -136,7 +136,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3 class="faq-question">Quali test genetici sono obbligatori per un allevamento serio?</h3>
-  <div class="faq-answer">Obbligatori per legge non ce ne sono, e vale la pena dirlo chiaramente: chi non li fa non sta violando nessuna norma. Quello che esiste &egrave; uno standard di serietà condiviso, che per questa razza comprende <strong>L2HGA</strong>, <strong>cataratta ereditaria</strong> e <strong>mielopatia degenerativa</strong>, tutte con test del DNA. Il punto non &egrave; la presenza dei test ma la loro verificabilit&agrave;: un referto conta solo se riporta il numero di microchip del cane, il nome del laboratorio e la data. Senza il microchip non &egrave; collegabile a nessun animale in particolare. Su questo sito i referti dei riproduttori sono pubblicati e scaricabili, proprio perch&eacute; chiunque possa controllarli senza chiedere niente.</div>
+  <div class="faq-answer">Obbligatori per legge non ce ne sono, e vale la pena dirlo chiaramente: chi non li fa non sta violando nessuna norma. Quello che esiste &egrave; uno standard di serietà condiviso, che per questa razza comprende <strong>L2-HGA</strong>, <strong>cataratta ereditaria</strong> e <strong>mielopatia degenerativa</strong>, tutte con test del DNA. Il punto non &egrave; la presenza dei test ma la loro verificabilit&agrave;: un referto conta solo se riporta il numero di microchip del cane, il nome del laboratorio e la data. Senza il microchip non &egrave; collegabile a nessun animale in particolare. Su questo sito i referti dei riproduttori sono pubblicati e scaricabili, proprio perch&eacute; chiunque possa controllarli senza chiedere niente.</div>
   </div>
 
   </section>
@@ -146,13 +146,13 @@ custom_content: |
   <ul>
   <li><a href="/linee-sangue-staffordshire-bull-terrier/" title="Linee di sangue">Linee di sangue: storia e genealogia</a></li>
   <li><a href="/differenza-staffy-pitbull-amstaff/" title="Differenza razze">Differenza tra Staffy, Pitbull e Amstaff</a></li>
-  <li><a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici">Test genetici L2HGA e HC: guida completa</a></li>
+  <li><a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici">Test genetici L2-HGA e HC: guida completa</a></li>
   <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento">Consigli prima di prendere un cucciolo</a></li>
   </ul>
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/blog/" title="Torna al blog">&larr; Torna al blog</a>
+  <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
 
   <p class="tags"><strong>Tag:</strong>
   <a aria-label="standard fci — categoria del blog" href="/blog/#standard" title="Articoli standard">standard fci</a>

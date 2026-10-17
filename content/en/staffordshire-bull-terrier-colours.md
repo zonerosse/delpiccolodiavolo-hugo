@@ -103,7 +103,7 @@ custom_content: |
 
   <div class="callout">
   <p class="callout-title">How we choose</p>
-  <p>At <a href="/en/">our Del Piccolo Diavolo kennel</a> the choice of breeding dogs always starts from <strong>health and breed type</strong>, not from the "fashion" of a colour. We select colours that conform to the standard, with parents <a href="/en/staffy-genetic-testing-l2hga-hc/">tested for L2HGA and HC</a>, and we avoid risky diluted matings. A "rare" colour obtained at the expense of health is worth nothing.</p>
+  <p>At <a href="/en/">our Del Piccolo Diavolo kennel</a> the choice of breeding dogs always starts from <strong>health and breed type</strong>, not from the "fashion" of a colour. We select colours that conform to the standard, with parents <a href="/en/staffy-genetic-testing-l2hga-hc/">tested for L2-HGA and HC</a>, and we avoid risky diluted matings. A "rare" colour obtained at the expense of health is worth nothing.</p>
   </div>
   <!--/BLOCCO:7-->
 
@@ -163,7 +163,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/en/blog/" title="Back to the blog">&larr; Back to the blog</a>
+  <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
 
   <p class="tags"><strong>Tags:</strong>
   <a href="/en/blog/" title="Colour articles">staffordshire bull terrier colours</a>

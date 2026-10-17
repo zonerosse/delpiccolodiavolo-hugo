@@ -198,7 +198,7 @@ custom_content: |
   <li><a href="/de/wie-man-eine-ahnentafel-liest/" title="Ahnentafel lesen: was die ENCI zeigt und was nicht">Ahnentafel lesen: was die ENCI zeigt und was nicht</a></li>
   <li><a href="/de/staffy-pitbull-amstaff-unterschied/" title="Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich">Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich</a></li>
   <li><a href="/de/staffy-rassestandard/" title="FCI Rassestandard Staffordshire Bull Terrier">FCI Rassestandard Staffordshire Bull Terrier</a></li>
-  <li><a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2HGA, HC (HSF4) und DM (SOD1)">Staffy Gentests: L2HGA, HC (HSF4) und DM (SOD1)</a></li>
+  <li><a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)">Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)</a></li>
   <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Seriöse Staffordshire Bull Terrier Zucht erkennen">Seriöse Staffordshire Bull Terrier Zucht erkennen</a></li>
   </ul>
   </div>

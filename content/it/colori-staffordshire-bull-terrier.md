@@ -102,7 +102,7 @@ custom_content: |
 
   <div class="callout">
   <p class="callout-title">Come scegliamo noi</p>
-  <p>Nel <a href="/">nostro allevamento Del Piccolo Diavolo</a> la scelta dei riproduttori parte sempre dalla <strong>salute e dalla tipicità</strong>, non dalla "moda" di un colore. Selezioniamo colori conformi allo standard, con genitori <a href="/programma-allevamento/">testati per L2HGA e HC</a>, ed evitiamo gli accoppiamenti diluiti a rischio. Un colore "raro" ottenuto a scapito della salute non vale niente.</p>
+  <p>Nel <a href="/">nostro allevamento Del Piccolo Diavolo</a> la scelta dei riproduttori parte sempre dalla <strong>salute e dalla tipicità</strong>, non dalla "moda" di un colore. Selezioniamo colori conformi allo standard, con genitori <a href="/programma-allevamento/">testati per L2-HGA e HC</a>, ed evitiamo gli accoppiamenti diluiti a rischio. Un colore "raro" ottenuto a scapito della salute non vale niente.</p>
   </div>
   <!--/BLOCCO:7-->
 
@@ -155,7 +155,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/blog/" title="Torna al blog">&larr; Torna al blog</a>
+  <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
 
   <p class="tags"><strong>Tag:</strong>
   <a href="/blog/" title="Articoli colori">colori staffordshire bull terrier</a>

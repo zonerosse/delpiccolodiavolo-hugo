@@ -56,7 +56,7 @@ custom_content: |
   <!--BLOCCO:3-->
   <h2>Was sich zwischen Linien unterscheidet und was nicht</h2>
   <p>Alle Staffordshire Bull Terrier müssen demselben <a href="https://www.fci.be/Nomenclature/Standards/076g03-de.pdf" target="_blank" rel="noopener" aria-label="FCI-Standard Nr. 76, PDF (wird in einem neuen Tab geöffnet)">Standard</a> entsprechen, und die Unterschiede zwischen guten Linien sind Fragen der Betonung, nicht der Art. Tatsächlich variieren Knochenstärke und Substanz, Kopfproportion, Triebstärke und Reizschwelle, Verträglichkeit mit anderen Hunden und wie zuverlässig eine Linie ihren Typ über einen ganzen Wurf hinweg reproduziert.</p>
-  <p>Was in keiner ernstzunehmenden Linie variieren darf, ist das Wesen gegenüber Menschen und die <a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2HGA und HC">Gesundheitsuntersuchung</a> hinter der Verpaarung. Ein Züchter, der eine Linie als scharf beschreibt oder einen Hund entschuldigt, der mit Besuch schwierig ist, beschreibt einen Fehler, keine Eigenschaft.</p>
+  <p>Was in keiner ernstzunehmenden Linie variieren darf, ist das Wesen gegenüber Menschen und die <a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA und HC">Gesundheitsuntersuchung</a> hinter der Verpaarung. Ein Züchter, der eine Linie als scharf beschreibt oder einen Hund entschuldigt, der mit Besuch schwierig ist, beschreibt einen Fehler, keine Eigenschaft.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
@@ -143,7 +143,7 @@ custom_content: |
   <div class="related-articles">
   <h3>Mehr zum Thema</h3>
   <ul>
-  <li><a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2HGA, HC (HSF4) und DM (SOD1)">Staffy Gentests: L2HGA, HC (HSF4) und DM (SOD1)</a></li>
+  <li><a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)">Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)</a></li>
   <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Seriöse Staffordshire Bull Terrier Zucht erkennen">Seriöse Staffordshire Bull Terrier Zucht erkennen</a></li>
   <li><a href="/de/staffy-rassestandard/" title="FCI Rassestandard Staffordshire Bull Terrier">FCI Rassestandard Staffordshire Bull Terrier</a></li>
   <li><a href="/de/staffy-pitbull-amstaff-unterschied/" title="Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich">Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich</a></li>

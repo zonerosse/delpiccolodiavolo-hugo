@@ -133,7 +133,7 @@ custom_content: |
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">8 Set 2026</span><span>&bull;</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Leggi: Bio Sensor, cosa dice la ricerca">Bio Sensor: cosa dice davvero la ricerca</a></h3>
-  <p>Il metodo ENS, le prove che mancano, e cosa conta nelle prime otto settimane.</p>
+  <p>Il metodo ENS, le prove che mancano, e cosa conta nei primi due mesi.</p>
   <a class="read" href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Leggi articolo completo" aria-label="Leggi larticolo: Bio Sensor, cosa dice davvero la ricerca">Leggi<span class="sr-only">: Bio Sensor, cosa dice davvero la ricerca</span> &rarr;</a>
   </div>
   </article>

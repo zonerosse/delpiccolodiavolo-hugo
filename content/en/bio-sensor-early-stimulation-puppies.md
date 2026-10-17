@@ -133,7 +133,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/en/blog/" title="Back to the blog">&larr; Back to the blog</a>
+  <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   </div>
   <!--/BLOCCO:6-->
 

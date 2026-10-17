@@ -135,7 +135,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Which genetic tests should a serious breeder do?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">None are required by law, and it is worth saying clearly: a breeder who does not test is not breaking any rule. What exists is a shared standard of seriousness, which for this breed includes <strong>L2HGA</strong>, <strong>hereditary cataract</strong> and <strong>degenerative myelopathy</strong>, all with DNA tests. The point is not the existence of the tests but whether they can be checked: a report only counts if it carries the dog's microchip number, the name of the laboratory and the date. Without the microchip it cannot be linked to any particular animal. On this site the breeding dogs' reports are published and downloadable, precisely so that anyone can check them without having to ask.
+  <div class="faq-answer">None are required by law, and it is worth saying clearly: a breeder who does not test is not breaking any rule. What exists is a shared standard of seriousness, which for this breed includes <strong>L2-HGA</strong>, <strong>hereditary cataract</strong> and <strong>degenerative myelopathy</strong>, all with DNA tests. The point is not the existence of the tests but whether they can be checked: a report only counts if it carries the dog's microchip number, the name of the laboratory and the date. Without the microchip it cannot be linked to any particular animal. On this site the breeding dogs' reports are published and downloadable, precisely so that anyone can check them without having to ask.
   </div>
   </div>
 
@@ -147,12 +147,12 @@ custom_content: |
   <li><a href="/en/choosing-bloodlines/" title="Choosing Staffordshire Bull Terrier bloodlines">Choosing Staffordshire Bull Terrier bloodlines</a></li>
   <li><a href="/en/staffy-bloodlines-guide/" title="Staffy bloodlines: the history of the six lines">Staffy bloodlines: the history of the six lines</a></li>
   <li><a href="/en/staffy-pitbull-amstaff-difference/" title="Staffordshire Bull Terrier, Pitbull and Amstaff compared">Staffordshire Bull Terrier, Pitbull and Amstaff compared</a></li>
-  <li><a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2HGA, HC (HSF4) and DM (SOD1)">Staffy genetic testing: L2HGA, HC (HSF4) and DM (SOD1)</a></li>
+  <li><a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)">Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)</a></li>
   <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious Staffy breeder">How to recognise a serious Staffy breeder</a></li>
   </ul>
   </div>
 
-  <div class="article-footer"><a class="btn" href="/en/blog/">&larr; Back to the blog</a></div>
+  <div class="article-footer"><a class="btn" href="/en/blog/">&larr; Back to Blog</a></div>
   <!--/BLOCCO:12-->
   </article></div>
 ---

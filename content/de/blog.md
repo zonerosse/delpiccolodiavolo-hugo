@@ -135,7 +135,7 @@ custom_content: |
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">8 Sep 2026</span><span>&bull;</span><span class="cat">Welpen</span></div>
   <h3><a href="/de/bio-sensor-fruehstimulation-welpen/" title="Lesen: Bio Sensor, was die Forschung sagt">Bio Sensor: was die Forschung wirklich sagt</a></h3>
-  <p>Die ENS-Methode, die fehlenden Belege und was in den ersten acht Wochen zählt.</p>
+  <p>Die ENS-Methode, die fehlenden Belege und was in den ersten zwei Monaten zählt.</p>
   <a class="read" href="/de/bio-sensor-fruehstimulation-welpen/" title="Vollständigen Artikel lesen" aria-label="Artikel lesen: Bio Sensor, was die Forschung wirklich sagt">Lesen<span class="sr-only">: Bio Sensor, was die Forschung wirklich sagt</span> &rarr;</a>
   </div>
   </article>

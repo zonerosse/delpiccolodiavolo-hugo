@@ -244,7 +244,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3>Was kostet ein Welpe?</h3>
-  <p>Das sagen wir Ihnen direkt, nach einem ersten Gespräch. Was hinter der Zahl steht, erklärt <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Was kostet ein Staffordshire Bull Terrier Welpe">diese Seite</a>: <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="ENCI-Rasseseite" target="_blank" rel="noopener" aria-label="ENCI-Ahnentafel – ENCI-Rasseseite (wird in einem neuen Tab geöffnet)">ENCI-Ahnentafel</a>, vollständige Gentests beider Eltern, tierärztliche Betreuung und acht Wochen Aufzucht des Wurfs im Haus.</p>
+  <p>Das sagen wir Ihnen direkt, nach einem ersten Gespräch. Was hinter der Zahl steht, erklärt <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Was kostet ein Staffordshire Bull Terrier Welpe">diese Seite</a>: <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="ENCI-Rasseseite" target="_blank" rel="noopener" aria-label="ENCI-Ahnentafel – ENCI-Rasseseite (wird in einem neuen Tab geöffnet)">ENCI-Ahnentafel</a>, vollständige Gentests beider Eltern, tierärztliche Betreuung und zwei Monate Aufzucht des Wurfs im Haus.</p>
   </div>
   </div>
 

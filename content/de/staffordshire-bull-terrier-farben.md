@@ -103,7 +103,7 @@ custom_content: |
 
   <div class="callout">
   <p class="callout-title">Wie wir auswählen</p>
-  <p>In <a href="/de/">unserer Zucht Del Piccolo Diavolo</a> geht die Auswahl der Zuchthunde immer von <strong>Gesundheit und Rassetyp</strong> aus, nicht von der "Mode" einer Farbe. Wir wählen standardkonforme Farben mit Elterntieren, die <a href="/de/staffy-gentests-l2hga-hc/">auf L2HGA und HC getestet</a> sind, und vermeiden riskante verdünnte Verpaarungen. Eine "seltene" Farbe, die auf Kosten der Gesundheit erzielt wird, ist nichts wert.</p>
+  <p>In <a href="/de/">unserer Zucht Del Piccolo Diavolo</a> geht die Auswahl der Zuchthunde immer von <strong>Gesundheit und Rassetyp</strong> aus, nicht von der "Mode" einer Farbe. Wir wählen standardkonforme Farben mit Elterntieren, die <a href="/de/staffy-gentests-l2hga-hc/">auf L2-HGA und HC getestet</a> sind, und vermeiden riskante verdünnte Verpaarungen. Eine "seltene" Farbe, die auf Kosten der Gesundheit erzielt wird, ist nichts wert.</p>
   </div>
   <!--/BLOCCO:7-->
 

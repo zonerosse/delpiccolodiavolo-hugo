@@ -127,7 +127,7 @@ custom_content: |
   <img src="/images/blog/cuccioli-1.webp" alt="Cuccioli di Staffordshire Bull Terrier nei primi giorni" width="88" height="100" loading="lazy" decoding="async">
   <span>
   <span class="ti">Bio Sensor: cosa dice davvero la ricerca</span>
-  <span class="de">Il metodo ENS, le prove che mancano, e cosa conta davvero nelle prime otto settimane.</span>
+  <span class="de">Il metodo ENS, le prove che mancano, e cosa conta davvero nei primi due mesi.</span>
   </span>
   </a>
   <details class="continua"><summary>Continua a leggere</summary>

@@ -62,7 +62,7 @@ custom_content: |
   <!--BLOCCO:3-->
   <h2>Cosa cambia fra le linee, e cosa no</h2>
   <p>Tutti gli Staffordshire Bull Terrier devono rispondere allo stesso <a href="https://www.enci.it/media/2347/076.pdf" target="_blank" rel="noopener" aria-label="Standard FCI n. 76, PDF ufficiale ENCI (si apre in una nuova scheda)">standard</a>, e le differenze fra le linee buone sono questioni di accento, non di sostanza. Quello che cambia davvero sono ossatura e massa, proporzioni della testa, livello di motivazione e reattività, tolleranza verso gli altri cani, e quanto una linea riproduce con costanza il suo tipo in tutta la cucciolata.</p>
-  <p>Quello che non deve cambiare, in nessuna linea che valga la pena considerare, è il carattere verso le persone e i <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2HGA e HC">test di salute</a> dietro l'accoppiamento. Un allevatore che descrive una linea come «tagliente», o che giustifica un cane difficile con gli ospiti, sta descrivendo un difetto, non una caratteristica.</p>
+  <p>Quello che non deve cambiare, in nessuna linea che valga la pena considerare, è il carattere verso le persone e i <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">test di salute</a> dietro l'accoppiamento. Un allevatore che descrive una linea come «tagliente», o che giustifica un cane difficile con gli ospiti, sta descrivendo un difetto, non una caratteristica.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
@@ -143,7 +143,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/blog/" title="Torna al blog">&larr; Torna al blog</a>
+  <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
 
   <p class="tags"><strong>Tag:</strong>
   <a aria-label="linee di sangue — categoria del blog" href="/blog/#standard" title="Articoli linee">linee di sangue</a>

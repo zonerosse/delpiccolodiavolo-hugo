@@ -375,7 +375,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/blog/" title="Torna al blog">&larr; Torna al blog</a>
+  <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
 
   <p class="tags"><strong>Tag:</strong>
   <a aria-label="esercizio — categoria del blog" href="/blog/#salute" title="Articoli esercizio">esercizio</a>

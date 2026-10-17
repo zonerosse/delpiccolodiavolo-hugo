@@ -79,7 +79,7 @@ custom_content: |
   <p>The smooth coat needs very little care: a brush once a week and that's it. It sheds little compared with many breeds and needs no grooming.</p>
 
   <h3>5. Robust health (if well bred)</h3>
-  <p>It is a hardy, long-lived breed (12-14 years), provided it comes from <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2HGA and HC">breeding dogs tested</a> for the main hereditary conditions (L2HGA and HC). Here the choice of kennel makes all the difference.</p>
+  <p>It is a hardy, long-lived breed (12-14 years), provided it comes from <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA and HC">breeding dogs tested</a> for the main hereditary conditions (L2-HGA and HC). Here the choice of kennel makes all the difference.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
@@ -201,7 +201,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/en/blog/" title="Back to the blog">&larr; Back to the blog</a>
+  <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
 
   <p class="tags"><strong>Tags:</strong>
   <a aria-label="Staffordshire Bull Terrier guides" href="/en/blog/" title="Breed articles">staffordshire bull terrier</a>

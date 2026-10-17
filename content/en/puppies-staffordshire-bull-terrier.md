@@ -126,7 +126,7 @@ custom_content: |
   <img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier puppies in their first days" width="88" height="100" loading="lazy" decoding="async">
   <span>
   <span class="ti">Bio Sensor: what the research actually says</span>
-  <span class="de">The ENS method, the evidence that is missing, and what counts in the first eight weeks.</span>
+  <span class="de">The ENS method, the evidence that is missing, and what counts in the first two months.</span>
   </span>
   </a>
 

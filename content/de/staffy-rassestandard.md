@@ -140,7 +140,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Welche Gentests sind für eine seriöse Zucht Pflicht?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Gesetzlich vorgeschrieben ist keiner, und das sollte man klar sagen: Wer nicht testet, verstößt gegen keine Vorschrift. Was es gibt, ist ein gemeinsamer Maßstab an Seriosität, der bei dieser Rasse L2HGA, erblichen Katarakt und degenerative Myelopathie umfasst, alle mit DNA-Tests. Entscheidend ist nicht, dass Tests gemacht wurden, sondern dass sie überprüfbar sind: Ein Befund zählt nur, wenn er die Mikrochipnummer des Hundes, den Namen des Labors und das Datum trägt. Ohne Mikrochip lässt er sich keinem bestimmten Tier zuordnen. Auf dieser Website sind die Befunde der Zuchttiere veröffentlicht und herunterladbar, damit jeder sie prüfen kann, ohne uns fragen zu müssen.</div>
+  <div class="faq-answer">Gesetzlich vorgeschrieben ist keiner, und das sollte man klar sagen: Wer nicht testet, verstößt gegen keine Vorschrift. Was es gibt, ist ein gemeinsamer Maßstab an Seriosität, der bei dieser Rasse L2-HGA, erblichen Katarakt und degenerative Myelopathie umfasst, alle mit DNA-Tests. Entscheidend ist nicht, dass Tests gemacht wurden, sondern dass sie überprüfbar sind: Ein Befund zählt nur, wenn er die Mikrochipnummer des Hundes, den Namen des Labors und das Datum trägt. Ohne Mikrochip lässt er sich keinem bestimmten Tier zuordnen. Auf dieser Website sind die Befunde der Zuchttiere veröffentlicht und herunterladbar, damit jeder sie prüfen kann, ohne uns fragen zu müssen.</div>
   </div>
 
   </div>
@@ -155,7 +155,7 @@ custom_content: |
   <li><a href="/de/blutlinien-waehlen/" title="Staffordshire Bull Terrier Blutlinien richtig wählen">Staffordshire Bull Terrier Blutlinien richtig wählen</a></li>
   <li><a href="/de/staffy-blutlinien-guide/" title="Staffy-Blutlinien: die Geschichte der sechs Linien">Staffy-Blutlinien: die Geschichte der sechs Linien</a></li>
   <li><a href="/de/staffy-pitbull-amstaff-unterschied/" title="Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich">Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich</a></li>
-  <li><a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2HGA, HC (HSF4) und DM (SOD1)">Staffy Gentests: L2HGA, HC (HSF4) und DM (SOD1)</a></li>
+  <li><a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)">Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)</a></li>
   <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Seriöse Staffordshire Bull Terrier Zucht erkennen">Seriöse Staffordshire Bull Terrier Zucht erkennen</a></li>
   </ul>
   </div>

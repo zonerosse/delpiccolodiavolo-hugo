@@ -79,7 +79,7 @@ custom_content: |
   <p>Das glatte Fell braucht sehr wenig Pflege: einmal pro Woche bürsten und fertig. Es haart wenig im Vergleich zu vielen Rassen und braucht kein Trimmen.</p>
 
   <h3>5. Robuste Gesundheit (bei guter Zucht)</h3>
-  <p>Es ist eine urwüchsige, langlebige Rasse (12-14 Jahre), sofern sie von <a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2HGA und HC">getesteten Zuchthunden</a> auf die wichtigsten Erbkrankheiten (L2HGA und HC) stammt. Hier macht die Wahl der Zucht den ganzen Unterschied.</p>
+  <p>Es ist eine urwüchsige, langlebige Rasse (12-14 Jahre), sofern sie von <a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA und HC">getesteten Zuchthunden</a> auf die wichtigsten Erbkrankheiten (L2-HGA und HC) stammt. Hier macht die Wahl der Zucht den ganzen Unterschied.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->

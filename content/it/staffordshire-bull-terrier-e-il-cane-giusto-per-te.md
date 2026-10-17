@@ -78,7 +78,7 @@ custom_content: |
   <p>Il mantello raso richiede pochissime cure: una spazzolata a settimana e via. Perde poco pelo rispetto a molte razze e non ha bisogno di toelettatura. Quali colori ammette lo standard, e quali no, è spiegato nella guida ai <a href="/colori-staffordshire-bull-terrier/" title="I colori dello Staffordshire Bull Terrier">colori dello Staffordshire Bull Terrier</a>.</p>
 
   <h3>5. Salute robusta (se allevato bene)</h3>
-  <p>È una razza rustica e longeva (12-14 anni), a patto che provenga da <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2HGA e HC">riproduttori testati</a> per le patologie ereditarie principali (L2HGA e HC). Qui la scelta dell'allevamento fa tutta la differenza.</p>
+  <p>È una razza rustica e longeva (12-14 anni), a patto che provenga da <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">riproduttori testati</a> per le patologie ereditarie principali (L2-HGA e HC). Qui la scelta dell'allevamento fa tutta la differenza.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
@@ -194,7 +194,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/blog/" title="Torna al blog">&larr; Torna al blog</a>
+  <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
 
   <p class="tags"><strong>Tag:</strong>
   <a aria-label="Guide sullo Staffordshire Bull Terrier" href="/blog/" title="Articoli razza">staffordshire bull terrier</a>
