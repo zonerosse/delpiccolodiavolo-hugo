@@ -30,7 +30,7 @@ custom_content: |
   <span class="hero-eyebrow">Dal 2013</span>
   <h1 class="hero-title">Chi siamo – <em>l'allevatore dietro Del Piccolo Diavolo</em></h1>
   <p class="hero-subtitle">Dal 2013 a Ostellato, in provincia di Ferrara</p>
-  <p class="hero-description">Siamo un allevamento Staffordshire Bull Terrier a gestione familiare, con sede a Ostellato (FE). Selezioniamo soggetti sani, equilibrati e tipici con linee Elitebull e Lackyle.</p>
+  <p class="hero-description">Un allevamento di Staffordshire Bull Terrier in famiglia, a Ostellato (FE). Una cucciolata l'anno, a volte nessuna, su linee inglesi Elitebull e irlandesi Lackyle.</p>
   <div class="hero-actions">
   <a href="/wa/393924635584" class="btn btn-primary" title="Contattaci su WhatsApp">Contattaci</a>
   <a href="/recensioni/" class="btn btn-ghost" title="Leggi le recensioni">Recensioni</a>
@@ -42,13 +42,13 @@ custom_content: |
   <!--BLOCCO:2-->
   <section class="section section-alt">
   <div class="section-inner">
-  <span class="section-label">L'Allevatore</span>
+  <span class="section-label">L'allevatore</span>
   <h2 class="section-title">Chi c'è dietro Del Piccolo Diavolo</h2>
   <div class="content-block">
-  <p><strong>Paolo Boldrini</strong> alleva Staffordshire Bull Terrier dal 2013 a Ostellato, in provincia di Ferrara, con il nome Del Piccolo Diavolo. Segue la razza dal 2005, otto anni prima della prima cucciolata: l'allevamento &egrave; nato dopo un lungo periodo di studio, non prima. In precedenza ha allevato Rottweiler, producendo un Campione Italiano e un Campione Europeo, ed &egrave; stato giudice internazionale per canarini Gloster. Non ha affisso ENCI: i cani sono registrati a suo nome e rilasciano pedigree ENCI regolari. Il nome dell'allevamento viene da Lackyle Diabhal &Oacute;g, in irlandese il giovane diavolo, uno dei cani che hanno fatto la storia della razza e che compare nei pedigree delle linee su cui lavora. Le cucciolate sono una l'anno, occasionalmente due, in alcuni anni nessuna. Ogni cucciolata nata qui, con genitori, test, esami e foto della crescita, è raccontata nel <a href="/diario-allevamento/" title="Diario dell'allevamento">diario dell'allevamento</a>.</p>
+  <p><strong>Paolo Boldrini</strong> alleva Staffordshire Bull Terrier dal 2013 a Ostellato, in provincia di Ferrara, con il nome Del Piccolo Diavolo. Segue la razza dal 2005, otto anni prima della prima cucciolata. In precedenza ha allevato Rottweiler, producendo un Campione Italiano e un Campione Europeo, ed &egrave; stato giudice internazionale per canarini Gloster. Non ha affisso ENCI: i cani sono registrati a suo nome e rilasciano pedigree ENCI regolari. Il nome dell'allevamento viene da Lackyle Diabhal &Oacute;g, in irlandese il piccolo diavolo, uno dei cani che hanno fatto la storia della razza e che compare nei pedigree delle linee su cui lavora. Le cucciolate sono una l'anno, occasionalmente due, in alcuni anni nessuna. Ogni cucciolata nata qui, con genitori, test, esami e foto della crescita, è raccontata nel <a href="/diario-allevamento/" title="Diario dell'allevamento">diario dell'allevamento</a>.</p>
   <details class="continua"><summary>Continua a leggere</summary>
   <p>L'allevamento lavora su linee Elitebull (Inghilterra) e Lackyle (Irlanda) e <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">testa tutti i riproduttori per L2HGA e HC</a>, o li verifica esenti per via parentale con i referti dei genitori, e anche per DM-SOD1. Con <strong>Bilquis Goddess Diabhal</strong> ha conquistato il titolo di Campionessa Italiana di Bellezza ENCI e un quarto posto al World Dog Show di Zagabria nel 2024. Tutti i cuccioli sono affidati con pedigree ENCI e con i certificati dei test dei genitori.</p>
-  <p>Le pagine di questo sito sono scritte da lui, sulla base di quello che succede davvero in allevamento. Per domande sui cuccioli, sulle linee di sangue o sui test genetici: <a href="/allevamento-staffordshire-bull-terrier-in-emilia-romagna/">contattami direttamente</a>.</p>
+  <p>I fatti, i dati e le scelte raccontati in queste pagine sono suoi: vengono da quello che succede in allevamento. Per domande sui cuccioli, sulle linee di sangue o sui test genetici: <a href="/allevamento-staffordshire-bull-terrier-in-emilia-romagna/">contattami direttamente</a>.</p>
   </details>
   </div>
   </div>
@@ -59,13 +59,13 @@ custom_content: |
   <!--BLOCCO:3-->
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">Come È Nato</span>
+  <span class="section-label">Come è nato</span>
   <h2 class="section-title">La nostra storia</h2>
 
   <div class="story-block">
   <div class="story-text">
   <h3>Dal Crufts a Ostellato</h3>
-  <p>Tutto comincia nel 2005, al Crufts. Cercavo un cane con carattere forte ma gestibile: lo Staffy mi è apparso come un "Rottweiler in miniatura" – potente, determinato, incredibilmente affettuoso.</p>
+  <p>Tutto comincia nel 2005, al Crufts. Cercavo un cane con carattere forte ma gestibile: lo Staffy mi &egrave; sembrato un &laquo;Rottweiler in miniatura&raquo;: potente, determinato e molto affettuoso.</p>
   <p>Da allora ho studiato lo standard, viaggiato in UK e Irlanda, conosciuto allevatori esperti.</p>
   </div>
   <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo — Staffordshire Bull Terrier" class="story-img" width="350" height="354" loading="lazy" decoding="async">
@@ -76,13 +76,13 @@ custom_content: |
   <h3>Prima degli Staffy</h3>
   <p>Prima degli Staffordshire Bull Terrier ho allevato Rottweiler, e da quell'allevamento sono usciti un Campione Italiano e un Campione Europeo. Ho allevato canarini Gloster e li ho giudicati come giudice internazionale: valutare soggetti uno dopo l'altro, e dover spiegare perch&eacute; uno vale pi&ugrave; di un altro, &egrave; una scuola che con i cani serve pi&ugrave; di quanto sembri.</p>
 
-  <p>Fra l'incontro con la razza e la prima cucciolata sono passati otto anni: il tempo di studiare lo standard, viaggiare in Inghilterra e in Irlanda e capire con quali linee volevo lavorare. La prima cucciolata Del Piccolo Diavolo &egrave; nata nel <strong>2013</strong>.</p>
+  <p>Gli otto anni prima della prima cucciolata sono serviti a studiare lo standard, a viaggiare in Inghilterra e in Irlanda e a capire con quali linee volevo lavorare. La prima cucciolata Del Piccolo Diavolo &egrave; nata nel <strong>2013</strong>.</p>
 
   <h3>Perché Elitebull e Lackyle</h3>
   <p>Non sono due stili contrapposti, e non è una questione di Irlanda contro Inghilterra: sono due allevamenti che hanno fatto la storia della razza, uno prima e uno dopo.</p>
-  <p>Nella storia della razza <strong>Lackyle</strong> è arrivato per primo, e i suoi soggetti storici si ritrovano oggi nei pedigree di mezza Europa. <strong>Elitebull</strong> è quello che pesa adesso — e nei suoi pedigree ci sono proprio i cani iconici di Lackyle. Non due linee alternative, quindi: la seconda porta dentro la prima.</p>
+  <p>Nella storia della razza <strong>Lackyle</strong> è arrivato per primo, e i suoi soggetti storici si ritrovano oggi nei pedigree di mezza Europa. <strong>Elitebull</strong> &egrave; quello che pesa adesso, e nei suoi pedigree ci sono proprio i cani storici di Lackyle. Non due linee alternative, quindi: la seconda porta dentro la prima.</p>
   <p>Ci lavoro perché sono linee documentate e verificabili, che producono in modo prevedibile. È quello che serve quando un accoppiamento lo pianifichi, invece di sperare.</p>
-  <p>Dietro la scelta di queste linee c'è anche un motivo che non è tecnico. In quei pedigree c'è <strong>Lackyle Diabhal Óg</strong> — in irlandese, il giovane diavolo — che per me resta uno dei migliori cani dell'epoca moderna, lui e tutto quello che ha lasciato dietro di sé. <strong>Del Piccolo Diavolo</strong> è la traduzione del suo nome: l'allevamento si chiama così per lui.</p>
+  <p>Dietro la scelta di queste linee c'è anche un motivo che non è tecnico. In quei pedigree c'&egrave; <strong>Lackyle Diabhal &Oacute;g</strong>, in irlandese il piccolo diavolo, che per me resta uno dei migliori cani dell'epoca moderna, lui e tutto quello che ha lasciato dietro di sé. <strong>Del Piccolo Diavolo</strong> è la traduzione del suo nome: l'allevamento si chiama così per lui.</p>
 
   <a class="rimando" href="/femmine-staffordshire-bull-terrier/">
   <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, fattrice Del Piccolo Diavolo" width="88" height="116" loading="lazy" decoding="async">
@@ -138,11 +138,11 @@ custom_content: |
   <span class="section-label">Affido</span>
   <h2 class="section-title">Cosa chiedo a chi prende un cucciolo</h2>
 
-  <p>A chi vuole un cucciolo chiedo di venire di persona a Ostellato, almeno una volta. Non &egrave; una formalit&agrave;: &egrave; l'unico momento in cui vedo come una persona si comporta con un cane vero invece che con una foto, e in cui chi arriva vede dove il cucciolo &egrave; cresciuto.</p>
+  <p>A chi vuole un cucciolo chiedo di venire di persona a Ostellato, almeno una volta. &Egrave; l'unico momento in cui vedo come una persona si comporta con un cane vero invece che con una foto, e in cui chi arriva vede dove il cucciolo &egrave; cresciuto.</p>
 
   <p>Chiedo che si parli di come sar&agrave; la giornata del cane: quante ore resta solo, chi c'&egrave; in casa, cosa succede d'estate quando si parte. Sono domande banali, ed evitano quasi tutti i guai.</p>
 
-  <p>E dico sempre una cosa a chi prende un nostro cucciolo, che vale come impegno: <strong>se un giorno non riuscite pi&ugrave; a tenerlo, il cane torna qui</strong>. Non &egrave; una formula gentile, &egrave; il motivo per cui scelgo con calma a chi affidarlo. Dal 2013 non &egrave; mai servito: dove sono finiti quei cani, e che vita fanno oggi, lo racconto nelle <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">storie delle famiglie</a>.</p>
+  <p>E dico sempre una cosa a chi prende un nostro cucciolo, che vale come impegno: <strong>se un giorno non riuscite pi&ugrave; a tenerlo, il cane torna qui</strong>. Ed &egrave; il motivo per cui scelgo con calma a chi affidarlo. Dal 2013 non &egrave; mai servito: dove sono finiti quei cani, e che vita fanno oggi, lo racconto nelle <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">storie delle famiglie</a>.</p>
 
 
   </div>
@@ -164,7 +164,7 @@ custom_content: |
   <!--BLOCCO:8-->
   <section class="cta-section">
   <h2>Vuoi conoscerci?</h2>
-  <p>Vieni a trovarci a Ostellato (FE) o contattaci su WhatsApp</p>
+  <p>Scrivici su WhatsApp e fissiamo una visita a Ostellato, per vedere i cani, la casa e il cortile.</p>
   <a href="/wa/393924635584" class="btn" title="Scrivici su WhatsApp">Scrivici su WhatsApp</a>
   </section>
   <!--/BLOCCO:8-->

@@ -29,7 +29,7 @@ custom_content: |
   <span class="hero-eyebrow">Seit 2013</span>
   <h1 class="hero-title">Über uns – <em>der Züchter hinter Del Piccolo Diavolo</em></h1>
   <p class="hero-subtitle">Seit 2013 in Ostellato, Provinz Ferrara</p>
-  <p class="hero-description">Familienzucht in Ostellato (FE), Italien. Gesunde, ausgeglichene und typische Staffordshire Bull Terrier mit Elitebull und Lackyle Blutlinien.</p>
+  <p class="hero-description">Eine Staffordshire Bull Terrier Zucht in der Familie, in Ostellato (FE), Italien. Ein Wurf im Jahr, manchmal keiner, mit englischen Elitebull- und irischen Lackyle-Linien.</p>
   <div class="hero-actions">
   <a href="/wa/393924635584" class="btn btn-primary" title="Kontaktieren Sie uns">Kontakt</a>
   <a href="/de/bewertungen/" class="btn btn-ghost" title="Bewertungen lesen">Bewertungen</a>
@@ -63,13 +63,13 @@ custom_content: |
   <!--BLOCCO:3-->
   <section class="section section-alt">
   <div class="section-inner">
-  <span class="section-label">Wie Es Begann</span>
+  <span class="section-label">Wie es begann</span>
   <h2 class="section-title">Unsere Geschichte</h2>
 
   <div class="story-block" style="grid-template-columns:1fr">
   <div class="story-text">
   <h3>Von Crufts nach Ostellato</h3>
-  <p>Alles begann 2005 bei Crufts. Ich suchte einen Hund mit starkem aber handhabbarem Charakter: Der Staffy erschien mir wie ein "Mini-Rottweiler" — kraftvoll, entschlossen, unglaublich liebevoll.</p>
+  <p>Alles begann 2005 bei Crufts. Ich suchte einen Hund mit starkem aber handhabbarem Charakter: Der Staffy kam mir vor wie ein &bdquo;Mini-Rottweiler&ldquo;: kraftvoll, entschlossen und sehr liebevoll.</p>
   <p>Seitdem habe ich den Standard studiert, bin nach UK und Irland gereist und erfahrene Züchter kennengelernt.</p>
   </div>
   <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo — Staffordshire Bull Terrier" class="story-img" width="350" height="354" loading="lazy" decoding="async">
@@ -79,9 +79,9 @@ custom_content: |
   <div class="story-text">
   <h3>Warum Elitebull und Lackyle</h3>
   <p>Es sind keine zwei gegensätzlichen Stile, und es geht nicht um Irland gegen England: es sind zwei Zuchten, die die Geschichte der Rasse geschrieben haben, eine vor der anderen.</p>
-  <p><strong>Lackyle</strong> kam zuerst, und seine historischen Hunde finden sich heute in Ahnentafeln in halb Europa. <strong>Elitebull</strong> ist die Zucht, die heute zählt — und in ihren Ahnentafeln stehen genau jene ikonischen Lackyle-Hunde. Also keine zwei alternativen Linien: die zweite trägt die erste in sich.</p>
+  <p><strong>Lackyle</strong> kam zuerst, und seine historischen Hunde finden sich heute in Ahnentafeln in halb Europa. <strong>Elitebull</strong> ist die Zucht, die heute zählt, und in ihren Ahnentafeln stehen genau jene historischen Lackyle-Hunde. Also keine zwei alternativen Linien: die zweite trägt die erste in sich.</p>
   <p>Ich arbeite mit ihnen, weil es dokumentierte und überprüfbare Linien sind, die vorhersehbar vererben. Genau das braucht man, wenn eine Verpaarung geplant und nicht erhofft wird.</p>
-  <p>Es gibt auch einen Grund, der nicht technisch ist. In diesen Ahnentafeln steht <strong>Lackyle Diabhal Óg</strong> — irisch für den jungen Teufel — für mich einer der besten Hunde der modernen Zeit, samt allem, was er hinterlassen hat. <strong>Del Piccolo Diavolo</strong> ist die Übersetzung seines Namens: die Zucht heißt so wegen ihm.</p>
+  <p>Es gibt auch einen Grund, der nicht technisch ist. In diesen Ahnentafeln steht <strong>Lackyle Diabhal Óg</strong>, irisch für den kleinen Teufel, für mich einer der besten Hunde der modernen Zeit, samt allem, was er hinterlassen hat. <strong>Del Piccolo Diavolo</strong> ist die Übersetzung seines Namens: die Zucht heißt so wegen ihm.</p>
   </div>
   </div>
   </div>
@@ -128,7 +128,7 @@ custom_content: |
   <div class="content-block">
   <p><strong>Paolo Boldrini</strong> züchtet seit 2013 Staffordshire Bull Terrier in Ostellato in der Provinz Ferrara unter dem Namen Del Piccolo Diavolo. Vor den Staffies züchtete er Rottweiler und führte einen Italienischen Champion und einen Europachampion in den Ring.</p>
   <p>Er arbeitet mit den Blutlinien Elitebull (England) und Lackyle (Irland) und <a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)">testet alle Zuchttiere auf L2HGA und HC</a> oder prüft sie als frei durch Abstammung, mit den Befunden der Eltern. Unsere Hunde sind außerdem frei von DM-SOD1. Mit <strong>Bilquis Goddess Diabhal</strong> gewann er den Titel Italienische Schönheitschampionin ENCI und einen vierten Platz bei der World Dog Show in Zagreb 2024. Jeder Welpe erhält eine ENCI-Ahnentafel und die Testzertifikate der Eltern.</p>
-  <p>Die Seiten dieser Website schreibt er selbst, auf Grundlage dessen, was in der Zucht tatsächlich passiert. Für Fragen zu Welpen, Blutlinien oder Gentests: <a href="/de/kontakt/">schreiben Sie mir direkt</a>.</p>
+  <p>Die Fakten, Daten und Entscheidungen auf diesen Seiten sind seine: Sie stammen aus dem, was in der Zucht passiert. Für Fragen zu Welpen, Blutlinien oder Gentests: <a href="/de/kontakt/">schreiben Sie mir direkt</a>.</p>
   </div>
   </div>
   </section>
@@ -163,7 +163,7 @@ custom_content: |
   <!--/BLOCCO:7-->
 
 
-  <p>Wir sagen jeder Familie dasselbe: wenn Sie den Hund eines Tages nicht mehr halten können, kommt er zu uns zurück. Seit 2013 war es nie nötig &mdash; wo diese Hunde gelandet sind, erzählen wir in den <a href="/de/staffordshire-in-der-familie-geschichten/" title="Familiengeschichten">Familiengeschichten</a>.</p>
+  <p>Wir sagen jeder Familie dasselbe: wenn Sie den Hund eines Tages nicht mehr halten können, kommt er zu uns zurück. Seit 2013 war es nie nötig. Wo diese Hunde gelandet sind, erzählen wir in den <a href="/de/staffordshire-in-der-familie-geschichten/" title="Familiengeschichten">Familiengeschichten</a>.</p>
 
 
   <div class="related-articles">
@@ -176,8 +176,8 @@ custom_content: |
   <!--BLOCCO:8-->
   <section class="cta-section">
   <h2>Möchten Sie uns kennenlernen?</h2>
-  <p>Besuchen Sie uns in Ostellato (FE) oder kontaktieren Sie uns auf WhatsApp</p>
-  <a href="/wa/393924635584" class="btn" title="Auf WhatsApp schreiben">Auf WhatsApp Schreiben</a>
+  <p>Schreiben Sie uns auf WhatsApp, und wir vereinbaren einen Besuch in Ostellato: Sie sehen die Hunde, das Haus und den Hof.</p>
+  <a href="/wa/393924635584" class="btn" title="Auf WhatsApp schreiben">Auf WhatsApp schreiben</a>
   </section>
   <!--/BLOCCO:8-->
 ---

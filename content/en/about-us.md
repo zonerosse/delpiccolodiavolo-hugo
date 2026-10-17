@@ -29,7 +29,7 @@ custom_content: |
   <span class="hero-eyebrow">Since 2013</span>
   <h1 class="hero-title">About us – <em>the breeder behind Del Piccolo Diavolo</em></h1>
   <p class="hero-subtitle">Since 2013 in Ostellato, province of Ferrara</p>
-  <p class="hero-description">Family kennel in Ostellato (FE), Italy. Healthy, balanced and typical Staffordshire Bull Terriers with Elitebull and Lackyle bloodlines.</p>
+  <p class="hero-description">A family Staffordshire Bull Terrier kennel in Ostellato (FE), Italy. One litter a year, sometimes none, on English Elitebull and Irish Lackyle lines.</p>
   <div class="hero-actions">
   <a href="/wa/393924635584" class="btn btn-primary" title="Contact us on WhatsApp">Contact Us</a>
   <a href="/en/reviews/" class="btn btn-ghost" title="Read reviews">Reviews</a>
@@ -48,7 +48,7 @@ custom_content: |
   <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">Our Values</span>
+  <span class="section-label">Our values</span>
   <h2 class="section-title">What guides us</h2>
   <div class="values-grid">
   <div class="value-card"><h3>🧬 Genetic testing</h3><p>All breeding dogs tested for L2HGA and HC, or clear by parentage</p></div>
@@ -63,13 +63,13 @@ custom_content: |
   <!--BLOCCO:3-->
   <section class="section section-alt">
   <div class="section-inner">
-  <span class="section-label">How It Began</span>
+  <span class="section-label">How it began</span>
   <h2 class="section-title">Our story</h2>
 
   <div class="story-block" style="grid-template-columns:1fr">
   <div class="story-text">
   <h3>From Crufts to Ostellato</h3>
-  <p>It all began in 2005, at Crufts. I was looking for a dog with strong but manageable character: the Staffy appeared to me as a "miniature Rottweiler" — powerful, determined, incredibly affectionate.</p>
+  <p>It all began in 2005, at Crufts. I was looking for a dog with strong but manageable character: the Staffy struck me as a &ldquo;miniature Rottweiler&rdquo;: powerful, determined and very affectionate.</p>
   <p>Since then I've studied the standard, traveled to UK and Ireland, met experienced breeders.</p>
   </div>
   <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo — Staffordshire Bull Terrier" class="story-img" width="350" height="354" loading="lazy" decoding="async">
@@ -79,9 +79,9 @@ custom_content: |
   <div class="story-text">
   <h3>Why Elitebull and Lackyle</h3>
   <p>They are not two opposing styles, and it is not Ireland against England: they are two kennels that made the history of the breed, one before the other.</p>
-  <p><strong>Lackyle</strong> came first, and its historic dogs are found today in pedigrees across half of Europe. <strong>Elitebull</strong> is the one that weighs now — and its pedigrees carry precisely those iconic Lackyle dogs. Not two alternative lines, then: the second contains the first.</p>
+  <p><strong>Lackyle</strong> came first, and its historic dogs are found today in pedigrees across half of Europe. <strong>Elitebull</strong> is the one that weighs now, and its pedigrees carry precisely those historic Lackyle dogs. Not two alternative lines, then: the second contains the first.</p>
   <p>I work with them because they are documented and verifiable lines that produce predictably. That is what you need when a mating is planned rather than hoped for.</p>
-  <p>There is also a reason that is not technical. Those pedigrees carry <strong>Lackyle Diabhal Óg</strong> — Irish for the young devil — who to my mind remains one of the finest dogs of the modern era, together with everything he left behind him. <strong>Del Piccolo Diavolo</strong> is the translation of his name: the kennel is called that because of him.</p>
+  <p>There is also a reason that is not technical. Those pedigrees carry <strong>Lackyle Diabhal Óg</strong>, Irish for the little devil, who to my mind remains one of the finest dogs of the modern era, together with everything he left behind him. <strong>Del Piccolo Diavolo</strong> is the translation of his name: the kennel is called that because of him.</p>
   </div>
   </div>
   </div>
@@ -128,7 +128,7 @@ custom_content: |
   <div class="content-block">
   <p><strong>Paolo Boldrini</strong> has been breeding Staffordshire Bull Terriers since 2013 in Ostellato, in the province of Ferrara, under the name Del Piccolo Diavolo. Before the Staffies he bred Rottweilers, taking an Italian Champion and a European Champion into the ring.</p>
   <p>He works with Elitebull (England) and Lackyle (Ireland) bloodlines and <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)">tests every breeding dog for L2HGA and HC</a>. Our dogs are also clear of DM-SOD1. With <strong>Bilquis Goddess Diabhal</strong> he won the ENCI Italian Beauty Champion title and placed fourth at the World Dog Show in Zagreb in 2024. Every puppy leaves with an ENCI pedigree and with the parents' test certificates.</p>
-  <p>The pages on this site are written by him, based on what actually happens at the kennel. For questions about puppies, bloodlines or genetic testing: <a href="/en/contact/">contact me directly</a>.</p>
+  <p>The facts, data and choices described on these pages are his: they come from what happens at the kennel. For questions about puppies, bloodlines or genetic testing: <a href="/en/contact/">contact me directly</a>.</p>
   </div>
   </div>
   </section>
@@ -163,7 +163,7 @@ custom_content: |
   <!--/BLOCCO:7-->
 
 
-  <p>We tell every family the same thing: if one day you can no longer keep the dog, it comes back to us. Since 2013 it has never been needed &mdash; where those dogs ended up is told in <a href="/en/staffordshire-family-life-stories/" title="Family stories">the family stories</a>.</p>
+  <p>We tell every family the same thing: if one day you can no longer keep the dog, it comes back to us. Since 2013 it has never been needed. Where those dogs ended up is told in <a href="/en/staffordshire-family-life-stories/" title="Family stories">the family stories</a>.</p>
 
 
   <div class="related-articles">
@@ -176,8 +176,8 @@ custom_content: |
   <!--BLOCCO:8-->
   <section class="cta-section">
   <h2>Want to meet us?</h2>
-  <p>Come visit us in Ostellato (FE) or contact us on WhatsApp</p>
-  <a href="/wa/393924635584" class="btn" title="Write us on WhatsApp">Write Us on WhatsApp</a>
+  <p>Write to us on WhatsApp and we will arrange a visit to Ostellato, to see the dogs, the house and the courtyard.</p>
+  <a href="/wa/393924635584" class="btn" title="Write us on WhatsApp">Write to us on WhatsApp</a>
   </section>
   <!--/BLOCCO:8-->
 ---
