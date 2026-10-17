@@ -2,7 +2,7 @@
 title: "Puppies: managing alone time"
 date: 2025-07-08
 titleSeo: "Teaching a puppy to stay alone without stress"
-lastmod: 2026-10-05
+lastmod: 2026-10-17
 translationKey: "solitudine"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -33,8 +33,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Predictable Routines</span><span>Gradual Protocol</span><span>Anxiety Prevention</span><span>Environmental Enrichment</span><span>Chewing</span><span>Guided Independence</span>
-  <span>Predictable Routines</span><span>Gradual Protocol</span><span>Anxiety Prevention</span><span>Environmental Enrichment</span><span>Chewing</span><span>Guided Independence</span>
+  <span>Predictable routines</span><span>Gradual protocol</span><span>Anxiety prevention</span><span>Environmental enrichment</span><span>Chewing</span><span>Guided independence</span>
+  <span>Predictable routines</span><span>Gradual protocol</span><span>Anxiety prevention</span><span>Environmental enrichment</span><span>Chewing</span><span>Guided independence</span>
   </div>
   </div>
 
@@ -48,7 +48,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>The Staffordshire Bull Terrier was selected to want human company, and that makes being alone something a puppy has to be taught deliberately. It starts in the first week, with 30 seconds behind a closed door, then one minute, three, ten, twenty, forty, leaving and coming back without ceremony. A puppy of 8 to 12 weeks should not be alone for more than one or two hours, and by six months three to four; an adult that has been walked and has something to do can manage four to six hours. A routine of eight hours a day alone is not compatible with this breed. The warning sign is not mess but panic: continuous vocalising, salivation, destruction focused on doors and windows. That is separation distress, and it calls for a behaviourist, never for punishment. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>The Staffordshire Bull Terrier was selected to want human company, and that makes being alone something a puppy has to be taught deliberately. It starts in the first week, with 30 seconds behind a closed door, then one minute, three, ten, twenty, forty, leaving and coming back without ceremony. A puppy of two to three months should not be alone for more than one or two hours, and by six months three to four; an adult that has been walked and has something to do can manage four to six hours. A routine of eight hours a day alone is not compatible with this breed. The warning sign is not mess but panic: continuous vocalising, salivation, destruction focused on doors and windows. That is separation distress, and it calls for a behaviourist, never for punishment. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
 
 
@@ -71,7 +71,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Starting from the first days</h2>
-  <p>Begin with 30 seconds. Give the puppy something genuinely good — a stuffed rubber toy, a chew — go behind a door, and come back before it has finished and before it becomes distressed. Returning before the puppy is upset is the whole method: you are teaching that you always come back, not testing how long it lasts.</p>
+  <p>Begin with 30 seconds. Give the puppy something genuinely good (a stuffed rubber toy, a chew), go behind a door, and come back before it has finished and before it becomes distressed. Returning before the puppy is upset is the whole method: you are teaching that you always come back, not testing how long it lasts.</p>
   <p>Extend gradually: 1 minute, 3, 10, 20, forty. If a step produces distress, you moved too fast; go back two steps and rebuild. Progress is not linear and a bad week does not undo the work.</p>
   <p>Vary your behaviour so that departure cues lose meaning. Pick up the keys and sit down. Put on your coat and make coffee. A puppy that has seen those actions a hundred times without you leaving stops reading them as warnings.</p>
   <!--/BLOCCO:3-->
@@ -98,7 +98,7 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>How long is reasonable</h2>
-  <p>A puppy of 8 to 12 weeks should not be alone for more than 1 or 2 hours. By 6 months, 3 to four. An adult dog can manage 4 to 6 hours if it has been walked beforehand and has something to do, but a routine of 8 hours a day alone is not compatible with this breed, and we say so plainly to prospective owners.</p>
+  <p>A puppy of two to three months should not be alone for more than 1 or 2 hours. By 6 months, 3 to four. An adult dog can manage 4 to 6 hours if it has been walked beforehand and has something to do, but a routine of 8 hours a day alone is not compatible with this breed, and we say so plainly to prospective owners.</p>
   <p>Where the working day is long, the answer is a midday walker, a neighbour, or a dog daycare 2 or 3 times a week. It is an ordinary cost of owning this breed rather than an indulgence.</p>
 
   <div class="related-articles">
@@ -119,7 +119,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
+  <a class="btn" href="/en/blog/" title="Back to the blog">&larr; Back to the blog</a>
 
   <p class="tags"><strong>Tags:</strong>
   <a aria-label="puppies — blog category" href="/en/blog/#puppies" title="Puppy articles">puppies</a>

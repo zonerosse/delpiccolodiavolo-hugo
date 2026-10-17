@@ -2,7 +2,7 @@
 title: "Welpen: Allein Bleiben Lernen"
 date: 2025-07-08
 titleSeo: "Welpen lernen allein zu bleiben, ohne Stress"
-lastmod: 2026-10-05
+lastmod: 2026-10-17
 translationKey: "solitudine"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -33,8 +33,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Vorhersehbare Routinen</span><span>Schrittweises Protokoll</span><span>Angstprävention</span><span>Umweltanreicherung</span><span>Kauen</span><span>Geführte Unabhängigkeit</span>
-  <span>Vorhersehbare Routinen</span><span>Schrittweises Protokoll</span><span>Angstprävention</span><span>Umweltanreicherung</span><span>Kauen</span><span>Geführte Unabhängigkeit</span>
+  <span>Vorhersehbare Routinen</span><span>Schrittweises Vorgehen</span><span>Angst vorbeugen</span><span>Beschäftigung</span><span>Kauen</span><span>Begleitete Selbstständigkeit</span>
+  <span>Vorhersehbare Routinen</span><span>Schrittweises Vorgehen</span><span>Angst vorbeugen</span><span>Beschäftigung</span><span>Kauen</span><span>Begleitete Selbstständigkeit</span>
   </div>
   </div>
 
@@ -48,7 +48,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>Der Staffordshire Bull Terrier wurde auf die Nähe zum Menschen selektiert, und deshalb muss ein Welpe das Alleinbleiben bewusst lernen. Man beginnt in der ersten Woche mit 30 Sekunden hinter einer geschlossenen Tür, dann eine Minute, drei, zehn, zwanzig, vierzig, und geht und kommt ohne großes Aufheben. Ein Welpe von 8 bis 12 Wochen sollte nicht länger als ein bis zwei Stunden allein sein, mit sechs Monaten drei bis vier; ein erwachsener Hund, der vorher draußen war und etwas zu tun hat, schafft vier bis sechs Stunden. Acht Stunden täglich allein sind mit dieser Rasse nicht vereinbar. Das Warnsignal ist nicht Unordnung, sondern Panik: ununterbrochenes Bellen, Speicheln, Zerstörung an Türen und Fenstern. Das ist Trennungsstress, und er braucht eine Verhaltensfachperson, niemals Strafe. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
+  <p>Der Staffordshire Bull Terrier wurde auf die Nähe zum Menschen selektiert, und deshalb muss ein Welpe das Alleinbleiben bewusst lernen. Man beginnt in der ersten Woche mit 30 Sekunden hinter einer geschlossenen Tür, dann eine Minute, drei, zehn, zwanzig, vierzig, und geht und kommt ohne großes Aufheben. Ein Welpe von zwei bis drei Monaten sollte nicht länger als ein bis zwei Stunden allein sein, mit sechs Monaten drei bis vier; ein erwachsener Hund, der vorher draußen war und etwas zu tun hat, schafft vier bis sechs Stunden. Acht Stunden täglich allein sind mit dieser Rasse nicht vereinbar. Das Warnsignal ist nicht Unordnung, sondern Panik: ununterbrochenes Bellen, Speicheln, Zerstörung an Türen und Fenstern. Das ist Trennungsstress, und er braucht eine Verhaltensfachperson, niemals Strafe. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
 
 
@@ -71,7 +71,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Vom ersten Tag an</h2>
-  <p>Beginnen Sie mit 30 Sekunden. Geben Sie dem Welpen etwas wirklich Gutes — ein befülltes Gummispielzeug, einen Kauartikel —, gehen Sie hinter eine Tür und kommen Sie zurück, bevor er fertig ist und bevor er unruhig wird. Zurückzukommen, ehe der Welpe sich sorgt, ist die ganze Methode: Sie lehren, dass Sie immer wiederkommen, und testen nicht, wie lange er durchhält.</p>
+  <p>Beginnen Sie mit 30 Sekunden. Geben Sie dem Welpen etwas wirklich Gutes (ein befülltes Gummispielzeug, einen Kauartikel), gehen Sie hinter eine Tür und kommen Sie zurück, bevor er fertig ist und bevor er unruhig wird. Zurückzukommen, ehe der Welpe sich sorgt, ist die ganze Methode: Sie lehren, dass Sie immer wiederkommen, und testen nicht, wie lange er durchhält.</p>
   <p>Steigern Sie schrittweise: eine Minute, drei, zehn, zwanzig, vierzig. Führt ein Schritt zu Unruhe, waren Sie zu schnell; gehen Sie zwei Schritte zurück. Der Fortschritt verläuft nicht geradlinig, und eine schlechte Woche macht die Arbeit nicht zunichte.</p>
   <p>Variieren Sie Ihr Verhalten, damit Aufbruchsignale ihre Bedeutung verlieren. Schlüssel nehmen und sich hinsetzen. Jacke anziehen und Kaffee kochen. Ein Welpe, der das hundertmal ohne Ihr Weggehen erlebt hat, liest es nicht mehr als Warnung.</p>
   <!--/BLOCCO:3-->
@@ -98,7 +98,7 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>Wie lange ist zumutbar</h2>
-  <p>Ein Welpe von 8 bis 12 Wochen sollte nicht länger als ein bis 2 Stunden allein sein. Mit 6 Monaten drei bis vier. Ein erwachsener Hund schafft 4 bis 6 Stunden, wenn er vorher bewegt wurde und etwas zu tun hat — aber 8 Stunden täglich allein sind mit dieser Rasse nicht vereinbar, und das sagen wir Interessenten offen.</p>
+  <p>Ein Welpe von zwei bis drei Monaten sollte nicht länger als ein bis 2 Stunden allein sein. Mit 6 Monaten drei bis vier. Ein erwachsener Hund schafft 4 bis 6 Stunden, wenn er vorher bewegt wurde und etwas zu tun hat, aber 8 Stunden täglich allein sind mit dieser Rasse nicht vereinbar, und das sagen wir Interessenten offen.</p>
   <p>Wo der Arbeitstag lang ist, lautet die Lösung: eine Mittagsrunde durch eine bezahlte Betreuung, eine Nachbarin, oder zwei- bis dreimal wöchentlich eine Hundetagesstätte. Das sind gewöhnliche Kosten dieser Rasse und kein Luxus.</p>
 
   <div class="related-articles">
