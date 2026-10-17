@@ -2,7 +2,7 @@
 title: "Cuccioli: prime vaccinazioni"
 date: 2025-06-10
 titleSeo: "Prime vaccinazioni del cucciolo: calendario e richiami"
-lastmod: 2026-10-06
+lastmod: 2026-10-17
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/cuccioli-2.webp"
@@ -24,7 +24,7 @@ custom_content: |
   <h1 class="hero-title">Prime <em>vaccinazioni</em></h1>
   <p class="hero-subtitle">Calendario, richiami e cosa fare nel frattempo</p>
   <div class="hero-meta">
-  <span>📅 10 Giugno 2025</span>
+  <span>📅 10 giugno 2025</span>
   <span>⏱️ 6 min lettura</span>
   </div>
   </div>
@@ -33,8 +33,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Vaccini di Base</span><span>Calendario</span><span>Antirabbica e Viaggi</span><span>Dopo l'Iniezione</span><span>Sverminazioni</span><span>Libretto Sanitario</span>
-  <span>Vaccini di Base</span><span>Calendario</span><span>Antirabbica e Viaggi</span><span>Dopo l'Iniezione</span><span>Sverminazioni</span><span>Libretto Sanitario</span>
+  <span>Vaccini di base</span><span>Calendario</span><span>Antirabbica e viaggi</span><span>Dopo l'iniezione</span><span>Sverminazioni</span><span>Libretto sanitario</span>
+  <span>Vaccini di base</span><span>Calendario</span><span>Antirabbica e viaggi</span><span>Dopo l'iniezione</span><span>Sverminazioni</span><span>Libretto sanitario</span>
   </div>
   </div>
 
@@ -103,7 +103,7 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <h2>Sverminazioni e vaccini vanno insieme</h2>
-  <p>I due calendari corrono in parallelo e vengono spesso confusi &mdash; e la sverminazione funziona solo se il risultato si controlla con un <a href="/cuccioli-sverminazione-esami-feci/" title="Sverminazione ed esami delle feci">esame delle feci</a>. I cuccioli si sverminano ogni due settimane a partire dalle due settimane di vita, fino a due settimane dopo lo svezzamento, poi una volta al mese fino ai sei mesi e ogni tre mesi da adulti. La prima parte la fa l'allevatore, che dovrebbe consegnare le date per iscritto al momento del ritiro.</p>
+  <p>I due calendari corrono in parallelo e vengono spesso confusi. E la sverminazione funziona solo se il risultato si controlla con un <a href="/cuccioli-sverminazione-esami-feci/" title="Sverminazione ed esami delle feci">esame delle feci</a>. I cuccioli si sverminano ogni due settimane a partire dalle due settimane di vita, fino a due settimane dopo lo svezzamento, poi una volta al mese fino ai sei mesi e ogni tre mesi da adulti. La prima parte la fa l'allevatore, che dovrebbe consegnare le date per iscritto al momento del ritiro.</p>
   <p>Un cucciolo con una carica parassitaria importante risponde peggio al vaccino, ed è per questo che i veterinari di norma vogliono le sverminazioni in regola prima di iniettare.</p>
   <!--/BLOCCO:8-->
 
@@ -123,7 +123,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
+  <a class="btn" href="/blog/" title="Torna al blog">&larr; Torna al blog</a>
 
   <p class="tags"><strong>Tag:</strong>
   <a aria-label="Guide sullo Staffordshire Bull Terrier" href="/blog/#cuccioli" title="Articoli Staffy">staffordshire bull terrier</a>

@@ -2,7 +2,7 @@
 title: "Welpen: Erste Impfungen"
 date: 2025-06-10
 titleSeo: "Erste Impfungen des Welpen: Plan und Auffrischung"
-lastmod: 2026-10-06
+lastmod: 2026-10-17
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/salute.webp"
@@ -48,7 +48,7 @@ custom_content: |
   <!--BLOCCO:2-->
   <h2>Wovor die Impfungen tatsächlich schützen</h2>
   <p>Die <a href="https://wsava.org/global-guidelines/vaccination-guidelines/" title="WSAVA-Leitlinien zur Impfung von Hunden und Katzen, 2024" target="_blank" rel="noopener" aria-label="Kernimpfungen – WSAVA-Leitlinien zur Impfung von Hunden und Katzen, 2024 (wird in einem neuen Tab geöffnet)">Kernimpfungen</a> schützen vor vier Erkrankungen, die noch vor wenigen Jahrzehnten die häufigsten Todesursachen bei Welpen waren. Staupe greift Atemwege, Verdauung und Nervensystem an und verläuft häufig tödlich. Parvovirose verursacht schwere blutige Darmentzündung und tötet ungeimpfte Welpen binnen Tagen. Die ansteckende Leberentzündung schädigt Leber und Nieren. Leptospirose ist bakteriell, wird über den Urin von Ratten und Wildtieren in stehendem Wasser übertragen und ist auf den Menschen übertragbar.</p>
-  <p>Die Parvovirose verdient besondere Beachtung, weil sie monatelang in der Umwelt überlebt und gegen die meisten Haushaltsdesinfektionsmittel unempfindlich ist. Ein Garten, in dem ein infizierter Hund war, kann lange danach noch ansteckend sein — daher die Vorsicht, wo ein ungeimpfter Welpe seine Pfoten hinsetzt.</p>
+  <p>Die Parvovirose verdient besondere Beachtung, weil sie monatelang in der Umwelt überlebt und gegen die meisten Haushaltsdesinfektionsmittel unempfindlich ist. Ein Garten, in dem ein infizierter Hund war, kann lange danach noch ansteckend sein: daher die Vorsicht, wo ein ungeimpfter Welpe seine Pfoten hinsetzt.</p>
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
@@ -98,8 +98,8 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <h2>Entwurmung parallel zur Impfung</h2>
-  <p>Beide Pläne laufen nebeneinander und werden oft verwechselt &mdash; und die Entwurmung wirkt nur, wenn das Ergebnis mit einer <a href="/de/welpen-entwurmung-kotuntersuchung/" title="Entwurmung und Kotuntersuchung">Kotuntersuchung</a> überprüft wird. Welpen werden alle 2 Wochen ab der zweiten Lebenswoche bis zur zwölften entwurmt, danach monatlich bis zum sechsten Monat, als Erwachsene vierteljährlich. Der Züchter übernimmt den ersten Teil und sollte Ihnen die Daten schriftlich mitgeben.</p>
-  <p>Ein Welpe mit erheblichem Wurmbefall reagiert schwächer auf die Impfung — deshalb möchten Tierärzte die Entwurmung vor der Injektion aktuell haben.</p>
+  <p>Beide Pläne laufen nebeneinander und werden oft verwechselt. Und die Entwurmung wirkt nur, wenn das Ergebnis mit einer <a href="/de/welpen-entwurmung-kotuntersuchung/" title="Entwurmung und Kotuntersuchung">Kotuntersuchung</a> überprüft wird. Welpen werden alle 2 Wochen ab der zweiten Lebenswoche bis zur zwölften entwurmt, danach monatlich bis zum sechsten Monat, als Erwachsene vierteljährlich. Der Züchter übernimmt den ersten Teil und sollte Ihnen die Daten schriftlich mitgeben.</p>
+  <p>Ein Welpe mit erheblichem Wurmbefall reagiert schwächer auf die Impfung, deshalb möchten Tierärzte die Entwurmung vor der Injektion aktuell haben.</p>
   <!--/BLOCCO:8-->
 
   <!--BLOCCO:9-->

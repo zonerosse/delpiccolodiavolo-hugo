@@ -2,7 +2,7 @@
 title: "Puppies: first vaccinations"
 date: 2025-06-10
 titleSeo: "Puppy first vaccinations: schedule and boosters"
-lastmod: 2026-10-06
+lastmod: 2026-10-17
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/salute.webp"
@@ -33,8 +33,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Core Vaccines</span><span>Schedule</span><span>What to Expect</span><span>After Care</span><span>Common Questions</span><span>Record Keeping</span>
-  <span>Core Vaccines</span><span>Schedule</span><span>What to Expect</span><span>After Care</span><span>Common Questions</span><span>Record Keeping</span>
+  <span>Core vaccines</span><span>Schedule</span><span>What to expect</span><span>Aftercare</span><span>Common questions</span><span>Record keeping</span>
+  <span>Core vaccines</span><span>Schedule</span><span>What to expect</span><span>Aftercare</span><span>Common questions</span><span>Record keeping</span>
   </div>
   </div>
 
@@ -105,7 +105,7 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <h2>Worming alongside vaccination</h2>
-  <p>The two schedules run in parallel and are often confused &mdash; and worming only works if you check the result with a <a href="/en/puppy-worming-faecal-tests/" title="Worming and faecal tests">faecal test</a>. Puppies are wormed every 2 weeks from 2 weeks of age until 12 weeks, then monthly until 6 months, then every 3 months as adults. The breeder handles the first part and should give you the dates in writing when you collect the puppy.</p>
+  <p>The two schedules run in parallel and are often confused. And worming only works if you check the result with a <a href="/en/puppy-worming-faecal-tests/" title="Worming and faecal tests">faecal test</a>. Puppies are wormed every 2 weeks from 2 weeks of age until 12 weeks, then monthly until 6 months, then every 3 months as adults. The breeder handles the first part and should give you the dates in writing when you collect the puppy.</p>
   <p>A puppy with a significant worm burden mounts a weaker response to vaccination, which is why veterinarians normally want the worming up to date before injecting.</p>
   <!--/BLOCCO:8-->
 
@@ -133,7 +133,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
+  <a class="btn" href="/en/blog/" title="Back to the blog">&larr; Back to the blog</a>
 
   <p class="tags"><strong>Tags:</strong>
   <a aria-label="puppies — blog category" href="/en/blog/#puppies" title="Puppy articles">puppies</a>
