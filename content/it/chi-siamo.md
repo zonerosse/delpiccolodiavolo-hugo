@@ -58,7 +58,7 @@ custom_content: |
 
   <div class="n-foto3">
   <figure><img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo, Staffordshire Bull Terrier tigrato" loading="lazy" decoding="async" width="480" height="600"><figcaption>
-  <span class="n-quando">2005, Crufts</span>
+  <span class="n-quando">Dal Crufts a Ostellato</span>
   <p>Tutto comincia nel 2005, al Crufts. Cercavo un cane con carattere forte ma gestibile: lo Staffy mi &egrave; sembrato un &laquo;Rottweiler in miniatura&raquo;: potente, determinato e molto affettuoso.</p></figcaption></figure>
   <figure><img src="/images/queen-of-california-800w.webp" alt="Queen of California, figlia di CH. Elitebull Prospect e Lackyle Bean Croí Olc" loading="lazy" decoding="async" width="800" height="533"><figcaption>
   <span class="n-quando">Otto anni di studio</span>

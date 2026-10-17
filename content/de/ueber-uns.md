@@ -57,7 +57,7 @@ custom_content: |
 
   <div class="n-foto3">
   <figure><img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo, gestromter Staffordshire Bull Terrier" loading="lazy" decoding="async" width="480" height="600"><figcaption>
-  <span class="n-quando">2005, Crufts</span>
+  <span class="n-quando">Von Crufts nach Ostellato</span>
   <p>Alles beginnt 2005, auf der Crufts. Ich suchte einen Hund mit starkem, aber führbarem Charakter: Der Staffy kam mir wie ein &laquo;Rottweiler im Kleinformat&raquo; vor: kraftvoll, entschlossen und sehr anhänglich.</p></figcaption></figure>
   <figure><img src="/images/queen-of-california-800w.webp" alt="Queen of California, Tochter von CH. Elitebull Prospect und Lackyle Bean Croí Olc" loading="lazy" decoding="async" width="800" height="533"><figcaption>
   <span class="n-quando">Acht Jahre Studium</span>

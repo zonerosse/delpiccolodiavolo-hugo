@@ -29,7 +29,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow"><a href="/en/reviews/" style="color:inherit;text-decoration:none" title="Read the reviews">⭐ <!--REC-VOTO--> on <!--REC-TOTALE--> reviews →</a></span>
-  <h1 class="hero-title">Staffordshire <br/><em>Bull Terrier</em> <br/>breeder</h1>
+  <h1 class="hero-title">Staffordshire <br><em>Bull Terrier</em> <br>breeder</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo - Selection, health and character</p>
   <p class="hero-description">In Ostellato (Ferrara, Italy) since 2013. All breeding dogs are tested for L2-HGA and HC (HSF4), or clear by parentage with their parents' reports. Our dogs are also clear of DM-SOD1. The reports are published, with the microchip numbers in plain sight. Dogs bred here: 1 Italian Champion, 3 Italian Junior Champions, 4th at the World Dog Show.</p>
   <div class="hero-actions">
@@ -37,9 +37,9 @@ custom_content: |
   </div>
   <p class="hero-guida">First time with a Staffy? <a href="/docs/guide-first-months-staffy-puppy.pdf">Download the guide to the first months (PDF)</a></p>
   <div class="n-num numeri-chiave">
-  <div><b>since 2013</b><span>Staffordshire Bull<br/>Terrier breeder</span></div>
-  <div><b>1</b><span>litter a year<br/>on average</span></div>
-  <div><b><!--REC-VOTO--> <i aria-hidden="true">★</i></b><span>from <!--REC-TOTALE--> Google<br/>reviews</span></div>
+  <div><b>since 2013</b><span>Staffordshire Bull<br>Terrier breeder</span></div>
+  <div><b>1</b><span>litter a year<br>on average</span></div>
+  <div><b><!--REC-VOTO--> <i aria-hidden="true">★</i></b><span>from <!--REC-TOTALE--> Google<br>reviews</span></div>
   </div></div>
   </section>
   <!--/BLOCCO:1-->
@@ -97,6 +97,7 @@ custom_content: |
 
   <div class="n-percorso"><div class="n-passo"><h3>We do not have puppies all year round.</h3><div><p>One litter, occasionally two, sometimes none. If you write to us at a time when there are none, the answer is that there are none: we do not offer you an acquaintance's puppy and we do not rush you towards a future litter.</p></div></div><div class="n-passo"><h3>We do not ship dogs.</h3><div><p>None of our puppies travels by courier: no aircraft holds, no handovers halfway in a car park. Whoever takes a puppy comes to Ostellato. That way they see the mother, the house and the place where it grew up.</p></div></div><div class="n-passo"><h3>We do not treat the pedigree as an accessory.</h3><div><p>There is no such thing as a puppy “with” or “without”: the ENCI certificate goes with every dog and is not charged separately.</p></div></div><div class="n-passo"><h3>We do not take offence at questions about the kennel.</h3><div><p>On the contrary, they are what tell us who we are dealing with. Whoever asks about the tests, the parents, or what happens if in two years' time they can no longer keep the dog, is the person we would gladly entrust a puppy to.</p></div></div></div>
   <p class="n-vedi">Who is behind all this, and how one gets from Rottweilers to Staffies: the story is in <a href="/en/about-us/" title="About us">about us</a>.</p>
+  <p class="n-vedi"><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/">How to recognise a serious breeder</a>. Eight criteria and how to check each one, on us as much as on anyone else.</p>
   </div>
   </section>
   <!--/BLOCCO:4-->

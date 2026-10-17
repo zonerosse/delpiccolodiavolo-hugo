@@ -29,7 +29,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow"><a href="/de/bewertungen/" style="color:inherit;text-decoration:none" title="Bewertungen lesen">⭐ <!--REC-VOTO--> bei <!--REC-TOTALE--> Bewertungen →</a></span>
-  <h1 class="hero-title">Staffordshire <br/><em>Bull Terrier</em> <br/>Züchter</h1>
+  <h1 class="hero-title">Staffordshire <br><em>Bull Terrier</em> <br>Züchter</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo - Selektion, Gesundheit und Charakter</p>
   <p class="hero-description">In Ostellato (Ferrara, Italien) seit 2013. Alle Zuchttiere sind auf L2-HGA und HC (HSF4) getestet oder durch Abstammung frei, mit den Befunden der Eltern. Unsere Hunde sind außerdem frei von DM-SOD1. Die Befunde sind veröffentlicht, mit der Mikrochipnummer im Klartext. Hier gezüchtete Hunde: 1 Italienischer Champion, 3 Italienische Jugendchampions, 4. bei der World Dog Show.</p>
   <div class="hero-actions">
@@ -37,9 +37,9 @@ custom_content: |
   </div>
   <p class="hero-guida">Zum ersten Mal ein Staffy? <a href="/docs/ratgeber-erste-monate-staffy-welpe.pdf">Laden Sie den Ratgeber für die ersten Monate herunter (PDF)</a></p>
   <div class="n-num numeri-chiave">
-  <div><b>seit 2013</b><span>Zucht von Staffordshire<br/>Bull Terriern</span></div>
-  <div><b>1</b><span>Wurf im Jahr<br/>im Schnitt</span></div>
-  <div><b><!--REC-VOTO--> <i aria-hidden="true">★</i></b><span>aus <!--REC-TOTALE--> Google-<br/>Bewertungen</span></div>
+  <div><b>seit 2013</b><span>Zucht von Staffordshire<br>Bull Terriern</span></div>
+  <div><b>1</b><span>Wurf im Jahr<br>im Schnitt</span></div>
+  <div><b><!--REC-VOTO--> <i aria-hidden="true">★</i></b><span>aus <!--REC-TOTALE--> Google-<br>Bewertungen</span></div>
   </div></div>
   </section>
   <!--/BLOCCO:1-->
@@ -97,6 +97,7 @@ custom_content: |
 
   <div class="n-percorso"><div class="n-passo"><h3>Wir haben nicht das ganze Jahr über Welpen.</h3><div><p>Ein Wurf, gelegentlich zwei, manchmal keiner. Wenn Sie uns zu einem Zeitpunkt schreiben, an dem es keine gibt, lautet die Antwort, dass es keine gibt: wir bieten Ihnen nicht den Welpen eines Bekannten an und drängen Sie nicht zu einem künftigen Wurf.</p></div></div><div class="n-passo"><h3>Wir versenden keine Hunde.</h3><div><p>Keiner unserer Welpen reist per Kurier: kein Frachtraum, keine Übergabe auf halbem Weg auf einem Parkplatz. Wer einen Welpen nimmt, kommt nach Ostellato. So sieht er die Mutter, das Haus und den Ort, an dem er aufgewachsen ist.</p></div></div><div class="n-passo"><h3>Wir behandeln die Ahnentafel nicht als Zubehör.</h3><div><p>Es gibt keinen Welpen „mit“ oder „ohne“: die ENCI-Ahnentafel begleitet jeden Hund und wird nicht gesondert berechnet.</p></div></div><div class="n-passo"><h3>Wir nehmen Fragen zur Zucht nicht übel.</h3><div><p>Im Gegenteil, sie sagen uns, wen wir vor uns haben. Wer nach den Tests fragt, nach den Eltern, danach, was passiert, wenn er den Hund in zwei Jahren nicht mehr halten kann, ist die Person, der wir gerne einen Welpen anvertrauen.</p></div></div></div>
   <p class="n-vedi">Wer hinter all dem steht, und wie man von Rottweilern zu Staffys kommt: das erzählen wir unter <a href="/de/ueber-uns/" title="Über uns">über uns</a>.</p>
+  <p class="n-vedi"><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/">Wie man eine seriöse Zucht erkennt</a>. Acht Kriterien und wie man sie prüft — bei uns wie bei allen anderen.</p>
   </div>
   </section>
   <!--/BLOCCO:4-->

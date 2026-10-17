@@ -28,7 +28,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow"><a href="/recensioni/" style="color:inherit;text-decoration:none" title="Leggi le recensioni">⭐ <!--REC-VOTO--> su <!--REC-TOTALE--> recensioni →</a></span>
-  <h1 class="hero-title">Allevamento <br/><em>Staffordshire</em> <br/>Bull Terrier</h1>
+  <h1 class="hero-title">Allevamento <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo - Selezione, salute e carattere</p>
   <p class="hero-description">A Ostellato (FE) dal 2013. Tutti i riproduttori sono testati per L2-HGA e HC (HSF4), o esenti per via parentale con i referti dei genitori. I nostri cani sono esenti anche da DM-SOD1. I referti sono pubblicati, con il microchip in chiaro. Cani allevati qui: 1 Campione Italiano, 3 Giovani Campioni Italiani, 4° al World Dog Show.</p>
   <div class="hero-actions">
@@ -36,9 +36,9 @@ custom_content: |
   </div>
   <p class="hero-guida">Prima volta con uno Staffy? <a href="/docs/guida-primi-mesi-cucciolo-staffy.pdf">Scarica la guida ai primi mesi (PDF)</a></p>
   <div class="n-num numeri-chiave">
-  <div><b>dal 2013</b><span>allevamento di<br/>Staffordshire Bull Terrier</span></div>
-  <div><b>1</b><span>cucciolata l'anno<br/>in media</span></div>
-  <div><b><!--REC-VOTO--> <i aria-hidden="true">★</i></b><span>su <!--REC-TOTALE--> recensioni<br/>Google</span></div>
+  <div><b>dal 2013</b><span>allevamento di<br>Staffordshire Bull Terrier</span></div>
+  <div><b>1</b><span>cucciolata l'anno<br>in media</span></div>
+  <div><b><!--REC-VOTO--> <i aria-hidden="true">★</i></b><span>su <!--REC-TOTALE--> recensioni<br>Google</span></div>
   </div></div>
   </section>
   <!--/BLOCCO:1-->
@@ -96,6 +96,7 @@ custom_content: |
 
   <div class="n-percorso"><div class="n-passo"><h3>Non abbiamo cuccioli tutto l'anno.</h3><div><p>Una cucciolata, occasionalmente due, a volte nessuna. Se ci scrivi in un momento in cui non ce ne sono, la risposta è che non ce ne sono: non ti proponiamo il cucciolo di un conoscente né ti mettiamo fretta su una cucciolata futura.</p></div></div><div class="n-passo"><h3>Non spediamo cani.</h3><div><p>Nessun nostro cucciolo viaggia con un corriere: niente stive, niente consegne a metà strada in un parcheggio. Chi prende un cucciolo viene a Ostellato. Così vede la madre, la casa e il posto dove è cresciuto.</p></div></div><div class="n-passo"><h3>Non trattiamo il pedigree come un accessorio.</h3><div><p>Non esiste un cucciolo «con» o «senza»: il certificato ENCI accompagna ogni cane e non si paga a parte.</p></div></div><div class="n-passo"><h3>Non ci offendiamo se fai domande sull'allevamento.</h3><div><p>Anzi, sono quelle a dirci chi abbiamo davanti. Chi chiede dei test, dei genitori, di cosa succede se fra due anni non riesce più a tenere il cane, è la persona a cui affideremmo volentieri un cucciolo.</p></div></div></div>
   <p class="n-vedi">Chi c'è dietro tutto questo, e come dai Rottweiler si arriva agli Staffy: lo racconto in <a href="/chi-siamo/" title="Chi siamo">chi siamo</a>.</p>
+  <p class="n-vedi"><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/">Come riconoscere un allevamento serio</a>. Otto criteri e il modo di verificarli, su di noi come su chiunque altro.</p>
   </div>
   </section>
   <!--/BLOCCO:4-->

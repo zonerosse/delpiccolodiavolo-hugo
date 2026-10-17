@@ -57,7 +57,7 @@ custom_content: |
 
   <div class="n-foto3">
   <figure><img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo, brindle Staffordshire Bull Terrier" loading="lazy" decoding="async" width="480" height="600"><figcaption>
-  <span class="n-quando">2005, Crufts</span>
+  <span class="n-quando">From Crufts to Ostellato</span>
   <p>It all began in 2005, at Crufts. I was looking for a dog with a strong but manageable character: the Staffy struck me as a &laquo;miniature Rottweiler&raquo;: powerful, determined and very affectionate.</p></figcaption></figure>
   <figure><img src="/images/queen-of-california-800w.webp" alt="Queen of California, daughter of CH. Elitebull Prospect and Lackyle Bean Croí Olc" loading="lazy" decoding="async" width="800" height="533"><figcaption>
   <span class="n-quando">Eight years of study</span>
