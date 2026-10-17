@@ -2,7 +2,7 @@
 title: "Cuccioli: prima passeggiata"
 date: 2025-09-17
 titleSeo: "La prima passeggiata del cucciolo: quando e come iniziare"
-lastmod: 2026-10-06
+lastmod: 2026-10-17
 translationKey: "passeggiata"
 articolo: true
 image: "/images/blog/cuccioli-7.webp"
@@ -24,7 +24,7 @@ custom_content: |
   <h1 class="hero-title">Prima <em>passeggiata</em></h1>
   <p class="hero-subtitle">Quando cominciare, quanto durare, cosa far incontrare</p>
   <div class="hero-meta">
-  <span>📅 17 Settembre 2025</span>
+  <span>📅 17 settembre 2025</span>
   <span>⏱️ 6 min lettura</span>
   </div>
   </div>
@@ -33,8 +33,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Vaccini e Socializzazione</span><span>Pettorina a Y</span><span>La Prima Uscita</span><span>Cartilagini di Accrescimento</span><span>Leggere la Paura</span><span>Guinzaglio Morbido</span>
-  <span>Vaccini e Socializzazione</span><span>Pettorina a Y</span><span>La Prima Uscita</span><span>Cartilagini di Accrescimento</span><span>Leggere la Paura</span><span>Guinzaglio Morbido</span>
+  <span>Vaccini e socializzazione</span><span>Pettorina a Y</span><span>La prima uscita</span><span>Cartilagini di accrescimento</span><span>Leggere la paura</span><span>Guinzaglio morbido</span>
+  <span>Vaccini e socializzazione</span><span>Pettorina a Y</span><span>La prima uscita</span><span>Cartilagini di accrescimento</span><span>Leggere la paura</span><span>Guinzaglio morbido</span>
   </div>
   </div>
 
@@ -52,7 +52,7 @@ custom_content: |
 
   <!--BLOCCO:2-->
   <h2>Quando cominciare, e il dilemma dei vaccini</h2>
-  <p>Il consiglio classico è aspettare che il ciclo di <a href="/cuccioli-prime-vaccinazioni/" title="Prime vaccinazioni del cucciolo">vaccinazioni</a> sia completo, intorno alle sedici settimane, secondo le <a href="https://wsava.org/global-guidelines/vaccination-guidelines/" title="Linee guida WSAVA sulla vaccinazione di cani e gatti, edizione 2024" target="_blank" rel="noopener" aria-label="Linee guida WSAVA sulla vaccinazione di cani e gatti, edizione 2024 (si apre in una nuova scheda)">linee guida WSAVA</a>; con il protocollo che seguiamo noi la protezione arriva prima, verso le quattordici settimane. Il consiglio classico, preso alla lettera, è anche dannoso, perché il periodo sensibile della socializzazione si chiude prima, intorno alla dodicesima settimana. Un cucciolo che non vede niente del mondo fino a sedici settimane ha perso il periodo in cui le novità si accettano più facilmente, e i problemi di comportamento da mancata socializzazione sono una causa di cessione molto più frequente delle malattie infettive. Cosa vuol dire davvero «cucciolo socializzato», e come verificarlo quando si visita un allevamento, è spiegato in <a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Cuccioli socializzati: cosa vuol dire">cuccioli socializzati: cosa vuol dire davvero</a>.</p>
+  <p>Il consiglio classico è aspettare che il ciclo di <a href="/cuccioli-prime-vaccinazioni/" title="Prime vaccinazioni del cucciolo">vaccinazioni</a> sia completo, intorno alle sedici settimane, secondo le <a href="https://wsava.org/global-guidelines/vaccination-guidelines/" title="Linee guida WSAVA sulla vaccinazione di cani e gatti, edizione 2024" target="_blank" rel="noopener" aria-label="Linee guida WSAVA sulla vaccinazione di cani e gatti, edizione 2024 (si apre in una nuova scheda)">linee guida WSAVA</a>; con il protocollo che seguiamo noi la protezione arriva prima, verso le quattordici settimane. Il consiglio classico, preso alla lettera, è anche dannoso, perché il periodo sensibile della socializzazione si chiude prima, intorno alla dodicesima settimana. Un cucciolo che non vede niente del mondo fino a sedici settimane ha perso il periodo in cui le novità si accettano più facilmente, e i problemi di comportamento da mancata socializzazione sono una causa di abbandono molto più frequente delle malattie infettive. Cosa vuol dire davvero «cucciolo socializzato», e come verificarlo quando si visita un allevamento, è spiegato in <a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Cuccioli socializzati: cosa vuol dire">cuccioli socializzati: cosa vuol dire davvero</a>.</p>
   <p>Il compromesso sensato, quello che oggi raccomanda la maggior parte degli enti di medicina comportamentale, è l'esposizione controllata dal momento in cui il cucciolo arriva. Lo si porta in braccio per strada. Lo si lascia guardare il traffico, le biciclette, i bambini, le bancarelle e gli ombrelli degli altri da un'altezza sicura. Si va a trovare amici con cani vaccinati e sani. Si evitano, finché la protezione non è completa, i posti dove urinano cani sconosciuti, i parchi pubblici e il pavimento della sala d'attesa del veterinario.</p>
   <p>Detto in breve: esposizione al mondo sì, dal primo giorno. Esposizione alle feci di cani sconosciuti no, finché non è protetto: con il nostro protocollo verso le quattordici settimane.</p>
   <!--/BLOCCO:2-->
@@ -84,7 +84,7 @@ custom_content: |
   <!--BLOCCO:7-->
   <h2>Leggere la paura, e cosa fare</h2>
   <p>Un cucciolo che tiene la coda fra le zampe, appiattisce le orecchie, cerca di ritirarsi dietro le tue gambe, sbadiglia ripetutamente o rifiuta un cibo che di solito accetta ha paura, non è capriccioso. La risposta corretta è aumentare la distanza da quello che l'ha causata, aspettare che il cucciolo si rilassi, e poi riavvicinarsi solo fin dove resta a suo agio.</p>
-  <p>Non si può rinforzare la paura consolando un animale spaventato: quella particolare leggenda ha fatto parecchi danni. Si rassicura il cucciolo, si toglie la pressione, e si riprova un altro giorno da più lontano.</p>
+  <p>Consolare un cucciolo spaventato non rinforza la paura: è una credenza sbagliata che ha fatto parecchi danni. Si rassicura il cucciolo, si toglie la pressione, e si riprova un altro giorno da più lontano.</p>
   <!--/BLOCCO:7-->
 
   <!--BLOCCO:8-->
@@ -97,7 +97,7 @@ custom_content: |
   <h2>Domande frequenti</h2>
   <p><strong>Il mio cucciolo si siede e si rifiuta di camminare. Cosa faccio?</strong> Aspetta. Abbassati alla sua altezza, resta rilassato, e lascia che decida lui di muoversi. Si risolve da solo nel giro di poche uscite se non lo trascini mai, e diventa un problema duraturo se lo fai.</p>
   <p><strong>Collare o pettorina?</strong> Pettorina per camminare, collare per la medaglietta. Una pettorina a Y che lascia libere le spalle, con l'anello di aggancio sul petto, è la combinazione migliore per una razza forte.</p>
-  <p><strong>Il mio cucciolo può incontrare altri cani per strada?</strong> Solo adulti calmi, sani e vaccinati, i cui proprietari si possono interpellare prima. Un incontro non controllato con un cane reattivo a quattro mesi può far arretrare un cucciolo di un anno.</p>
+  <p><strong>Il mio cucciolo può incontrare altri cani per strada?</strong> Solo adulti calmi, sani e vaccinati, i cui proprietari si possono interpellare prima. Un incontro non controllato con un cane reattivo a quattro mesi può costare a un cucciolo un anno di lavoro per rimediare.</p>
   <p><strong>Quando si può fare una passeggiata vera?</strong> Si aumenta gradualmente e ci si aspettano passeggiate di lunghezza piena dai diciotto mesi circa, quando le cartilagini di accrescimento si sono chiuse. Fino ad allora la pazienza è un investimento sulle articolazioni del cane.</p>
 
   <div class="related-articles">
@@ -111,7 +111,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
+  <a class="btn" href="/blog/" title="Torna al blog">&larr; Torna al blog</a>
 
   <p class="tags"><strong>Tag:</strong>
   <a aria-label="cuccioli — categoria del blog" href="/blog/#cuccioli" title="Articoli cuccioli">cuccioli</a>

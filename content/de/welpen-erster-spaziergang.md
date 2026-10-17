@@ -2,7 +2,7 @@
 title: "Welpen: Erster Spaziergang"
 date: 2025-09-17
 titleSeo: "Der erste Spaziergang des Welpen: wann und wie"
-lastmod: 2026-10-06
+lastmod: 2026-10-17
 translationKey: "passeggiata"
 articolo: true
 image: "/images/blog/cuccioli-5.webp"
@@ -47,7 +47,7 @@ custom_content: |
 
   <!--BLOCCO:2-->
   <h2>Wann anfangen — und das Impfdilemma</h2>
-  <p>Der klassische Rat lautet, bis zum Abschluss der Grundimmunisierung um die sechzehnte Lebenswoche zu warten; mit dem Protokoll, dem wir folgen, setzt der Schutz früher ein, etwa mit 14 Wochen. Wörtlich befolgt ist dieser Rat schädlich, denn das Sozialisierungsfenster schließt sich schon früher, um die zwölfte Woche. Ein Welpe, der bis dahin nichts von der Welt sieht, hat die Phase verpasst, in der Neues am leichtesten angenommen wird — und Verhaltensprobleme aus mangelnder Sozialisierung sind ein weit häufigerer Abgabegrund als Infektionskrankheiten. Was „sozialisierter Welpe“ wirklich bedeutet und wie man es beim Besuch einer Zucht prüft, erklärt <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das heißt">sozialisierte Welpen: was das heißt</a>.</p>
+  <p>Der klassische Rat lautet, bis zum Abschluss der Grundimmunisierung um die sechzehnte Lebenswoche zu warten; mit dem Protokoll, dem wir folgen, setzt der Schutz früher ein, etwa mit 14 Wochen. Wörtlich befolgt ist dieser Rat schädlich, denn das Sozialisierungsfenster schließt sich schon früher, um die zwölfte Woche. Ein Welpe, der bis dahin nichts von der Welt sieht, hat die Phase verpasst, in der Neues am leichtesten angenommen wird. Und Verhaltensprobleme aus mangelnder Sozialisierung sind ein weit häufigerer Grund, einen Hund wegzugeben, als Infektionskrankheiten. Was „sozialisierter Welpe“ wirklich bedeutet und wie man es beim Besuch einer Zucht prüft, erklärt <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das heißt">sozialisierte Welpen: was das heißt</a>.</p>
   <p>Der sinnvolle Kompromiss, den heute die meisten verhaltensmedizinischen Fachgesellschaften empfehlen, ist kontrollierte Exposition ab dem Einzug. Tragen Sie den Welpen auf dem Arm durch die Straße. Lassen Sie ihn Verkehr, Fahrräder, Kinder, Marktstände und fremde Regenschirme aus sicherer Höhe beobachten. Besuchen Sie Bekannte mit geimpften, gesunden Hunden. Meiden Sie, bis der Welpe geschützt ist (mit unserem Protokoll etwa mit 14 Wochen), Orte, an denen unbekannte Hunde markieren, öffentliche Parks und den Boden im Wartezimmer der <a href="https://wsava.org/global-guidelines/vaccination-guidelines/" title="WSAVA-Leitlinien" target="_blank" rel="noopener" aria-label="Tierarzt – WSAVA-Leitlinien (wird in einem neuen Tab geöffnet)">Tierarzt</a>praxis.</p>
   <p>Kurz gesagt: Kontakt mit der Welt ja, ab dem ersten Tag. Kontakt mit dem Kot unbekannter Hunde nein, bis die Immunisierung steht.</p>
   <!--/BLOCCO:2-->
@@ -79,7 +79,7 @@ custom_content: |
   <!--BLOCCO:7-->
   <h2>Angst erkennen und richtig reagieren</h2>
   <p>Ein Welpe, der die Rute einklemmt, die Ohren anlegt, sich hinter Ihre Beine zurückzieht, wiederholt gähnt oder Futter verweigert, das er sonst nimmt, hat Angst und ist nicht ungezogen. Richtig ist, den Abstand zum Auslöser zu vergrößern, zu warten, bis der Welpe sich entspannt, und sich nur so weit anzunähern, wie er ruhig bleibt.</p>
-  <p>Angst lässt sich durch Trost nicht verstärken — diese verbreitete Vorstellung hat viel Schaden angerichtet. Beruhigen Sie den Welpen, nehmen Sie den Druck weg und versuchen Sie es an einem anderen Tag aus größerer Entfernung erneut.</p>
+  <p>Einen verängstigten Welpen zu trösten verstärkt die Angst nicht: Die gegenteilige Vorstellung ist falsch und hat viel Schaden angerichtet. Beruhigen Sie den Welpen, nehmen Sie den Druck weg und versuchen Sie es an einem anderen Tag aus größerer Entfernung erneut.</p>
   <!--/BLOCCO:7-->
 
   <!--BLOCCO:8-->
@@ -92,7 +92,7 @@ custom_content: |
   <h2>Häufige Fragen</h2>
   <p><strong>Mein Welpe setzt sich hin und geht nicht weiter.</strong> Warten. Gehen Sie in die Hocke, bleiben Sie entspannt und lassen Sie ihn selbst losgehen. Das legt sich nach wenigen Gängen, wenn Sie nie ziehen, und bleibt bestehen, wenn Sie es tun.</p>
   <p><strong>Halsband oder Geschirr?</strong> Geschirr zum Führen, Halsband zur Kennzeichnung. Ein Y-Geschirr, das die Schulter frei lässt, mit Brustring, ist für eine kräftige Rasse die beste Kombination.</p>
-  <p><strong>Darf mein Welpe fremde Hunde treffen?</strong> Nur ruhige, gesunde, geimpfte Erwachsene, deren Halter Sie vorher fragen können. Eine unkontrollierte Begegnung mit einem reaktiven Hund kann einen Welpen um ein Jahr zurückwerfen.</p>
+  <p><strong>Darf mein Welpe fremde Hunde treffen?</strong> Nur ruhige, gesunde, geimpfte Erwachsene, deren Halter Sie vorher fragen können. Eine unkontrollierte Begegnung mit einem reaktiven Hund kann einen Welpen ein Jahr Arbeit kosten, um es wieder gutzumachen.</p>
   <p><strong>Ab wann sind richtige Spaziergänge möglich?</strong> Steigern Sie langsam und rechnen Sie mit voller Länge ab etwa 18 Monaten, wenn die Wachstumsfugen geschlossen sind.</p>
 
   <div class="related-articles">

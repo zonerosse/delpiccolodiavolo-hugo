@@ -2,7 +2,7 @@
 title: "Puppies: first walk"
 date: 2025-09-17
 titleSeo: "A puppy's first walk: when to start and how"
-lastmod: 2026-10-06
+lastmod: 2026-10-17
 translationKey: "passeggiata"
 articolo: true
 image: "/images/blog/cuccioli-5.webp"
@@ -33,8 +33,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Right Timing</span><span>Equipment</span><span>Leash Introduction</span><span>Short Sessions</span><span>Positive Experiences</span><span>Common Mistakes</span>
-  <span>Right Timing</span><span>Equipment</span><span>Leash Introduction</span><span>Short Sessions</span><span>Positive Experiences</span><span>Common Mistakes</span>
+  <span>Right timing</span><span>Equipment</span><span>Leash introduction</span><span>Short sessions</span><span>Positive experiences</span><span>Common mistakes</span>
+  <span>Right timing</span><span>Equipment</span><span>Leash introduction</span><span>Short sessions</span><span>Positive experiences</span><span>Common mistakes</span>
   </div>
   </div>
 
@@ -68,7 +68,7 @@ custom_content: |
   <!--BLOCCO:4-->
   <h2>The first outing</h2>
   <p>Pick a quiet street, a quiet time, and plan for 5 minutes, not thirty. Let the puppy set the pace, including the long minutes spent sniffing a single railing. Sniffing is not wasted time: it is how the dog collects information, and it tires a puppy more effectively than movement.</p>
-  <p>Do not be surprised if the puppy sits down and refuses to move. This is extremely common and it is not stubbornness — it is a small animal overwhelmed by an unprecedented amount of information. Crouch down, wait, offer a treat, and let it start again when it is ready. Dragging a frightened puppy forward teaches it that the lead means being forced, and that lesson is expensive to undo.</p>
+  <p>Do not be surprised if the puppy sits down and refuses to move. This is extremely common and it is not stubbornness: it is a small animal overwhelmed by an unprecedented amount of information. Crouch down, wait, offer a treat, and let it start again when it is ready. Dragging a frightened puppy forward teaches it that the lead means being forced, and that lesson is expensive to undo.</p>
   <!--/BLOCCO:4-->
 
   <!--BLOCCO:5-->
@@ -86,7 +86,7 @@ custom_content: |
   <!--BLOCCO:7-->
   <h2>Reading fear, and what to do about it</h2>
   <p>A puppy that tucks its tail, flattens its ears, tries to retreat behind your legs, yawns repeatedly or refuses food it normally accepts is frightened, not naughty. The correct response is to increase distance from whatever caused it, wait for the puppy to relax, and then approach only as far as it remains comfortable.</p>
-  <p>You cannot reinforce fear by comforting a frightened animal — that particular piece of folklore has caused a great deal of harm. Reassure the puppy, remove the pressure, and try again another day at a greater distance.</p>
+  <p>Comforting a frightened puppy does not reinforce fear: the belief that it does is wrong, and it has caused a great deal of harm. Reassure the puppy, remove the pressure, and try again another day at a greater distance.</p>
   <!--/BLOCCO:7-->
 
   <!--BLOCCO:8-->
@@ -99,7 +99,7 @@ custom_content: |
   <h2>Frequently asked questions</h2>
   <p><strong>My puppy sits down and refuses to walk. What do I do?</strong> Wait. Crouch at its level, stay relaxed, and let it decide to move. This resolves itself within a few outings if you never drag, and becomes a lasting problem if you do.</p>
   <p><strong>Collar or harness?</strong> Harness for walking, collar for identification. A Y-shaped harness that leaves the shoulders free, with a front attachment ring, is the best combination for a strong breed.</p>
-  <p><strong>Can my puppy meet other dogs in the street?</strong> Only calm, healthy, vaccinated adults whose owners you can ask first. An uncontrolled encounter with a reactive dog at 4 months can set a puppy back for a year.</p>
+  <p><strong>Can my puppy meet other dogs in the street?</strong> Only calm, healthy, vaccinated adults whose owners you can ask first. An uncontrolled encounter with a reactive dog at 4 months can cost a puppy a year of work to undo.</p>
   <p><strong>When can we go for proper walks?</strong> Build gradually and expect full-length walks from around 18 months, when the growth plates have closed. Until then, patience is an investment in the dog's joints.</p>
 
   <div class="related-articles">
@@ -120,7 +120,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
+  <a class="btn" href="/en/blog/" title="Back to the blog">&larr; Back to the blog</a>
 
   <p class="tags"><strong>Tags:</strong>
   <a aria-label="puppies — blog category" href="/en/blog/#puppies" title="Puppy articles">puppies</a>
