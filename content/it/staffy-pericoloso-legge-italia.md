@@ -1,7 +1,7 @@
 ---
 title: "Lo Staffy è pericoloso? Verità e legge italiana"
 date: 2025-11-18
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 translationKey: "pericoloso"
 in_breve:
   - "In Italia **lo Staffy non è una razza pericolosa**: l'elenco è stato abolito nel 2009."
@@ -25,9 +25,9 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Razza e legislazione</span>
   <h1 class="hero-title">Lo Staffy è <em>pericoloso?</em></h1>
-  <p class="hero-subtitle">La Verità Scientifica e la Legge Italiana 2025</p>
+  <p class="hero-subtitle">Cosa dicono i dati e la legge italiana</p>
   <div class="hero-meta">
-  <span>📅 18 Novembre 2025</span>
+  <span>📅 18 novembre 2025</span>
   <span>⏱️ 13 min lettura</span>
   </div>
   </div>
@@ -36,15 +36,15 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Studio VetCompass 2020</span><span>Ordinanza Martini 2009</span><span>Save List Lombardia</span><span>Dati Scientifici</span><span>Nessuna Lista Nera</span>
-  <span>Studio VetCompass 2020</span><span>Ordinanza Martini 2009</span><span>Save List Lombardia</span><span>Dati Scientifici</span><span>Nessuna Lista Nera</span>
+  <span>Studio VetCompass 2020</span><span>Ordinanza Martini 2009</span><span>Save list Lombardia</span><span>Dati scientifici</span><span>Nessuna lista nera</span>
+  <span>Studio VetCompass 2020</span><span>Ordinanza Martini 2009</span><span>Save list Lombardia</span><span>Dati scientifici</span><span>Nessuna lista nera</span>
   </div>
   </div>
 
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <span>Staffy Pericoloso? La Verità</span>
+  <span>Lo Staffy è pericoloso?</span>
   </nav>
 
   <div class="article-container">
@@ -108,12 +108,12 @@ custom_content: |
   <img src="/images/cucciolo-rosso.webp" alt="Cucciolo di Staffordshire Bull Terrier rosso" loading="lazy" decoding="async" width="260" height="297">
   <figcaption>Cucciolo di Staffordshire Bull Terrier</figcaption>
   </figure>
-  <p>Nel <strong>Regno Unito</strong> il Dangerous Dogs Act del 1991 vieta quattro tipologie: il Pit Bull Terrier, il Tosa giapponese, il Dogo Argentino e il Fila Brasileiro. Lo Staffordshire Bull Terrier non è fra queste ed è una delle razze più diffuse del paese. In <strong>Germania</strong> la legge federale limita l'importazione di alcune razze, mentre i singoli Länder hanno liste proprie, e in alcuni lo Staffordshire Bull Terrier è soggetto a obblighi. In <strong>Francia</strong> i cani sono divisi in due categorie, e uno Staffordshire Bull Terrier con pedigree francese LOF non rientra in nessuna delle due. In <strong>Irlanda</strong> la razza è nella lista dei cani che in pubblico devono portare la museruola ed essere tenuti al guinzaglio corto da una persona con più di sedici anni.</p>
+  <p>Nel <strong>Regno Unito</strong> il Dangerous Dogs Act del 1991 vieta quattro tipologie: il Pit Bull Terrier, il Tosa giapponese, il Dogo Argentino e il Fila Brasileiro. Lo Staffordshire Bull Terrier non è fra queste ed è una delle razze più diffuse del paese. In <strong>Germania</strong> una legge federale del 2001 vieta di portare nel paese, per tenerli lì, quattro razze e i loro incroci: Pit Bull Terrier, American Staffordshire Terrier, Bull Terrier e anche lo Staffordshire Bull Terrier. In più i singoli Länder hanno liste proprie, con obblighi per chi un cane di queste razze lo ha già. In <strong>Francia</strong> i cani sono divisi in due categorie, e uno Staffordshire Bull Terrier con pedigree francese LOF non rientra in nessuna delle due. In <strong>Irlanda</strong> la razza è nella lista dei cani che in pubblico devono portare la museruola ed essere tenuti al guinzaglio corto da una persona con più di sedici anni.</p>
   <!--/BLOCCO:7-->
 
   <!--BLOCCO:8-->
   <h2>Fuori dall'Italia, in pratica</h2>
-  <p>Per chi legge dall'estero il quadro cambia molto, e conta se si pensa di viaggiare o trasferirsi con il cane. Alcuni Länder tedeschi inseriscono lo Staffordshire Bull Terrier nelle loro categorie, con obblighi che vanno dal test caratteriale al permesso per il detentore. La Danimarca vieta tredici razze, fra cui <a href="/differenza-staffy-amstaff/" title="Staffy o Amstaff, quale fa per te: il test dell'allevatore">l'American Staffordshire Terrier</a> e il Pit Bull Terrier, ma non lo Staffordshire Bull Terrier; un cane che somiglia a una tipologia vietata può comunque dover dimostrare la propria razza, ed è un motivo in più per viaggiare con il pedigree. L'Irlanda chiede museruola e guinzaglio corto in pubblico per una lista di tipologie. Il Regno Unito, paese d'origine della razza, non la limita in nessun modo.</p>
+  <p>Per chi legge dall'estero il quadro cambia molto, e conta se si pensa di viaggiare o trasferirsi con il cane. In Germania la razza non si può portare per viverci, e alcuni Länder la mettono nelle loro categorie, con obblighi che vanno dal test caratteriale al permesso per il detentore. La Danimarca vieta tredici razze, fra cui <a href="/differenza-staffy-amstaff/" title="Staffy o Amstaff, quale fa per te: il test dell'allevatore">l'American Staffordshire Terrier</a> e il Pit Bull Terrier, ma non lo Staffordshire Bull Terrier; un cane che somiglia a una tipologia vietata può comunque dover dimostrare la propria razza, ed è un motivo in più per viaggiare con il pedigree. L'Irlanda chiede museruola e guinzaglio corto in pubblico per una lista di tipologie. Il Regno Unito, paese d'origine della razza, non la limita in nessun modo.</p>
   <p>Chi deve spostare uno Staffordshire Bull Terrier oltre confine dovrebbe controllare direttamente le regole attuali del paese di destinazione invece di fidarsi di informazioni di seconda mano, perché queste liste cambiano. Noi lo facciamo sempre per ogni cucciolo che va all'estero, e diciamo chiaramente alle famiglie se la destinazione ha restrizioni.</p>
   <!--/BLOCCO:8-->
 
@@ -126,7 +126,7 @@ custom_content: |
 
   <!--BLOCCO:10-->
   <h2>Il mito del «nanny dog»: cosa vuol dire e cosa no</h2>
-  <p>Probabilmente hai sentito chiamare lo Staffordshire Bull Terrier «nanny dog». Il soprannome è nato nel Novecento, quando le famiglie operaie inglesi notarono quanto questi cani fossero pazienti e legati alla casa con i bambini. Non vuol dire che la razza sia stata creata per badare ai bambini: descrive la tolleranza e l'attaccamento alla famiglia, che è ciò che la rende adatta alla vita in casa.</p>
+  <p>Probabilmente hai sentito chiamare lo Staffordshire Bull Terrier «nanny dog». Il soprannome viene dalla fama di cane paziente con i bambini, che è scritta anche nello standard: «affettuoso, specialmente con i bambini». Non vuol dire che la razza sia stata creata per badare ai bambini: descrive la tolleranza e l'attaccamento alla famiglia, che è ciò che la rende adatta alla vita in casa.</p>
 
   <figure class="article-image img-right">
   <img src="/images/Lothar-e-Arianna.webp" alt="Lothar Del Piccolo Diavolo, Staffordshire Bull Terrier, con la sua handler" loading="lazy" decoding="async" width="260" height="325">
@@ -179,7 +179,7 @@ custom_content: |
   <div class="faq-item">
   <h3 class="faq-question">Lo Staffy è adatto alle famiglie con bambini?</h3>
   <div class="faq-answer">
-  <p>Prima la cosa che vale per ogni razza: <strong>nessun cane va lasciato solo con un bambino piccolo</strong>, e la supervisione di un adulto non &egrave; un'opzione. Detto questo, lo Staffordshire Bull Terrier &egrave; un cane costruito per <a href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Carattere e vita in famiglia">stare in famiglia</a>: lo standard di razza lo descrive affidabile con le persone, e il soprannome inglese di nanny dog nasce dalla tolleranza che mostra verso i bambini. Ma il soprannome descrive un carattere, non attribuisce una capacit&agrave; di sorveglianza: nessun cane sorveglia un bambino. Quello che fa la differenza &egrave; la selezione dei riproduttori, le prime otto settimane, e le regole che la famiglia stabilisce in casa &mdash; una zona dove il cane non viene disturbato, interazioni brevi, e un adulto sempre presente. Nell'allevamento Del Piccolo Diavolo i <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli di Staffordshire Bull Terrier</a> crescono in casa e poi in cortile, fra persone di età diverse.</p>
+  <p>Prima la cosa che vale per ogni razza: <strong>nessun cane va lasciato solo con un bambino piccolo</strong>, e la supervisione di un adulto non &egrave; un'opzione. Detto questo, lo Staffordshire Bull Terrier &egrave; un cane costruito per <a href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Carattere e vita in famiglia">stare in famiglia</a>: lo standard di razza lo descrive affidabile con le persone, e il soprannome inglese di nanny dog nasce dalla tolleranza che mostra verso i bambini. Ma il soprannome descrive un carattere, non attribuisce una capacit&agrave; di sorveglianza: nessun cane sorveglia un bambino. Quello che fa la differenza &egrave; la selezione dei riproduttori, le prime settimane di vita e le regole che la famiglia stabilisce in casa: una zona dove il cane non viene disturbato, interazioni brevi, un adulto sempre presente. Nell'allevamento Del Piccolo Diavolo i <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli di Staffordshire Bull Terrier</a> crescono in casa e poi in cortile, fra persone di età diverse.</p>
   </div>
   </div>
 
@@ -191,7 +191,7 @@ custom_content: |
   <div class="faq-item">
   <h3 class="faq-question">Lo Staffordshire Bull Terrier è vietato in qualche Paese?</h3>
   <div class="faq-answer">
-  <p>In nessun paese europeo importante lo Staffordshire Bull Terrier &egrave; vietato in quanto tale, ma le regole variano parecchio e vanno verificate prima di viaggiare o trasferirsi. Nel Regno Unito, dove la razza &egrave; nata, &egrave; perfettamente legale e fra le pi&ugrave; diffuse. In alcuni cantoni svizzeri, in Danimarca e in certe regioni di Francia e Germania esistono invece restrizioni che riguardano i cani di tipo bull, con obblighi che vanno dalla museruola al permesso preventivo: in qualche caso lo Staffy vi rientra per somiglianza morfologica pi&ugrave; che per razza. Chi si sposta con il cane dovrebbe controllare la normativa del paese di destinazione e portare con s&eacute; il pedigree, che &egrave; il documento che certifica di quale razza si tratta.</p>
+  <p>S&igrave;, in Germania: una legge federale vieta di portarvi uno Staffordshire Bull Terrier per tenerlo l&igrave;, con poche eccezioni, e i Länder hanno regole proprie. Altrove le regole cambiano molto. Nel Regno Unito, dove la razza &egrave; nata, &egrave; perfettamente legale e fra le pi&ugrave; diffuse. In Irlanda in pubblico deve portare la museruola ed essere tenuto al guinzaglio corto. In alcuni cantoni svizzeri ci sono obblighi o permessi. In Danimarca non è fra le razze vietate, e in Francia, con il pedigree, non rientra nelle categorie. Chi si sposta con il cane dovrebbe controllare la normativa del paese di destinazione e portare con s&eacute; il pedigree, che &egrave; il documento che certifica di quale razza si tratta.</p>
   </div>
   </div>
   </section>
@@ -213,7 +213,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
+  <a class="btn" href="/blog/" title="Torna al blog">&larr; Torna al blog</a>
 
   <p class="tags"><strong>Tag:</strong>
   <a aria-label="Guide sullo Staffordshire Bull Terrier" href="/blog/" title="Articoli Staffy">staffordshire bull terrier</a>

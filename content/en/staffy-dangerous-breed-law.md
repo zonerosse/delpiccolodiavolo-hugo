@@ -1,7 +1,7 @@
 ---
 title: "Is Staffordshire Bull Terrier dangerous? Italian law"
 date: 2025-11-18
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 translationKey: "pericoloso"
 in_breve:
   - "In Italy **the Staffy is not a dangerous breed**: the list was abolished in 2009."
@@ -103,12 +103,12 @@ custom_content: |
   <img src="/images/cucciolo-rosso.webp" alt="Red Staffordshire Bull Terrier puppy" loading="lazy" decoding="async" width="260" height="297">
   <figcaption>Staffordshire Bull Terrier puppy</figcaption>
   </figure>
-  <p>In the <strong>United Kingdom</strong> the Dangerous Dogs Act 1991 prohibits four types: the Pit Bull Terrier, the Japanese Tosa, the Dogo Argentino and the Fila Brasileiro. The Staffordshire Bull Terrier is not among them and is one of the most popular breeds in the country. In <strong>Germany</strong> federal law restricts the import of some breeds, while the individual states keep their own lists, and in some of them the Staffordshire Bull Terrier is subject to requirements. In <strong>France</strong> dogs are classified in two categories, and a Staffordshire Bull Terrier with a French LOF pedigree falls into neither. In <strong>Ireland</strong> the breed is on the list of dogs that must be muzzled and kept on a short lead in public by a person over sixteen.</p>
+  <p>In the <strong>United Kingdom</strong> the Dangerous Dogs Act 1991 prohibits four types: the Pit Bull Terrier, the Japanese Tosa, the Dogo Argentino and the Fila Brasileiro. The Staffordshire Bull Terrier is not among them and is one of the most popular breeds in the country. In <strong>Germany</strong> a federal law of 2001 forbids bringing four breeds and their crosses into the country to keep them there: the Pit Bull Terrier, the American Staffordshire Terrier, the Bull Terrier and the Staffordshire Bull Terrier too. On top of that the individual states keep their own lists, with requirements for people who already own such a dog. In <strong>France</strong> dogs are classified in two categories, and a Staffordshire Bull Terrier with a French LOF pedigree falls into neither. In <strong>Ireland</strong> the breed is on the list of dogs that must be muzzled and kept on a short lead in public by a person over sixteen.</p>
   <!--/BLOCCO:7-->
 
   <!--BLOCCO:8-->
   <h2>The situation elsewhere in Europe</h2>
-  <p>If you are reading this from outside Italy, the picture varies considerably and it matters if you intend to travel or relocate with your dog. Some German federal states include the Staffordshire Bull Terrier in their category lists, with requirements ranging from a temperament test to keeper permits. Denmark prohibits thirteen breeds, including <a href="/en/staffy-or-amstaff-which-breed-suits-you/" title="Staffy or Amstaff, which suits you: the breeder's test">the American Staffordshire Terrier</a> and the Pit Bull Terrier, but not the Staffordshire Bull Terrier; a dog that resembles a prohibited type may still have to prove its breed, which is one more reason to travel with the pedigree. Ireland requires muzzle and short lead in public for a list of types. The United Kingdom, the breed's country of origin, does not restrict it at all.</p>
+  <p>If you are reading this from outside Italy, the picture varies considerably and it matters if you intend to travel or relocate with your dog. In Germany the breed cannot be brought in to live there, and some federal states include it in their category lists, with requirements ranging from a temperament test to keeper permits. Denmark prohibits thirteen breeds, including <a href="/en/staffy-or-amstaff-which-breed-suits-you/" title="Staffy or Amstaff, which suits you: the breeder's test">the American Staffordshire Terrier</a> and the Pit Bull Terrier, but not the Staffordshire Bull Terrier; a dog that resembles a prohibited type may still have to prove its breed, which is one more reason to travel with the pedigree. Ireland requires muzzle and short lead in public for a list of types. The United Kingdom, the breed's country of origin, does not restrict it at all.</p>
   <p>Anyone planning to move a Staffordshire Bull Terrier across borders should check the destination's current rules directly rather than rely on second-hand information, because these lists change. We do this as a matter of course for every puppy that goes abroad, and we say so plainly to families when the destination has restrictions.</p>
   <!--/BLOCCO:8-->
 
@@ -120,7 +120,7 @@ custom_content: |
   <!--/BLOCCO:9-->
   <!--BLOCCO:10-->
   <h2>The "nanny dog" myth: what it means and what it does not</h2>
-  <p>You have probably heard the Staffordshire Bull Terrier called a "nanny dog". The nickname was born in the twentieth century, when working-class English families noticed how patient and attached to the household these dogs were with children. It does not mean the breed was designed to look after children: it describes tolerance and attachment to the human family, which is what makes the breed well suited to family life.</p>
+  <p>You have probably heard the Staffordshire Bull Terrier called a "nanny dog". The nickname comes from the breed's reputation for patience with children, which is written into the standard too: "affectionate, especially with children". It does not mean the breed was designed to look after children: it describes tolerance and attachment to the human family, which is what makes the breed well suited to family life.</p>
 
   <figure class="article-image img-right">
   <img src="/images/Lothar-e-Arianna.webp" alt="Lothar Del Piccolo Diavolo, Staffordshire Bull Terrier, with his handler" loading="lazy" decoding="async" width="260" height="325">
@@ -182,7 +182,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is the Staffy suitable for families with children?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">First, what applies to every breed: <strong>no dog should be left alone with a young child</strong>, and adult supervision is not optional. That said, the Staffordshire Bull Terrier is a dog built for <a href="/en/staffordshire-bull-terrier-character-family-life/" title="Character and family life">family life</a>: the breed standard describes it as reliable with people, and the English nickname "nanny dog" comes from the tolerance it shows towards children. But the nickname describes a temperament, it does not grant a capacity for supervision: no dog supervises a child. What makes the difference is the selection of the breeding dogs, the first eight weeks, and the rules the family sets at home: an area where the dog is not disturbed, short interactions, and an adult always present. At the Del Piccolo Diavolo kennel the <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies</a> grow up in the house and then in the yard, among people of different ages.</div>
+  <div class="faq-answer">First, what applies to every breed: <strong>no dog should be left alone with a young child</strong>, and adult supervision is not optional. That said, the Staffordshire Bull Terrier is a dog built for <a href="/en/staffordshire-bull-terrier-character-family-life/" title="Character and family life">family life</a>: the breed standard describes it as reliable with people, and the English nickname "nanny dog" comes from the tolerance it shows towards children. But the nickname describes a temperament, it does not grant a capacity for supervision: no dog supervises a child. What makes the difference is the selection of the breeding dogs, the first weeks of life and the rules the family sets at home: an area where the dog is not disturbed, short interactions, and an adult always present. At the Del Piccolo Diavolo kennel the <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies</a> grow up in the house and then in the yard, among people of different ages.</div>
   </div>
 
   <div class="faq-item active">
@@ -199,7 +199,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is the Staffordshire Bull Terrier banned in any country?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">In no major European country is the Staffordshire Bull Terrier banned as such, but the rules vary a great deal and should be checked before travelling or moving. In the United Kingdom, where the breed was born, it is entirely legal and one of the most common. Denmark bans thirteen breeds, including the American Staffordshire Terrier but not the Staffy. In some German states and in Ireland, on the other hand, there are requirements that concern the breed, ranging from a muzzle to prior authorisation, and elsewhere a dog may be checked because it resembles a restricted type. Anyone travelling with their dog should check the rules of the destination country and carry the pedigree, which is the document that certifies the breed.
+  <div class="faq-answer">Yes, in Germany: a federal law forbids bringing a Staffordshire Bull Terrier into the country to keep it there, with few exceptions, and the federal states have their own rules. Elsewhere the rules vary a great deal and should be checked before travelling or moving. In the United Kingdom, where the breed was born, it is entirely legal and one of the most common. Denmark bans thirteen breeds, including the American Staffordshire Terrier but not the Staffy. In Ireland, on the other hand, there are requirements that concern the breed, ranging from a muzzle to prior authorisation, and elsewhere a dog may be checked because it resembles a restricted type. Anyone travelling with their dog should check the rules of the destination country and carry the pedigree, which is the document that certifies the breed.
   </div>
   </div>
 
@@ -221,7 +221,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
+  <a class="btn" href="/en/blog/" title="Back to the blog">&larr; Back to the blog</a>
   </div>
   <!--/BLOCCO:13-->
 
