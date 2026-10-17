@@ -7,7 +7,9 @@
 import re,html,base64,io,os,glob,json
 from PIL import Image
 R=os.path.abspath(os.path.join(os.path.dirname(__file__),'..','..'))
-GROUPS={'s':('#27403a','#4f7566'),'c':('#6b3f1d','#b7793a'),'f':('#4a2c26','#9a5840'),'r':('#211d1a','#5c4a3a'),'k':('#211d1a','#5c4a3a')}
+# 18/10/2026 (Paolo, scelta A): tutte le icone nello stesso blu, fondo azzurrino; la categoria si legge nella scritta
+GROUPS={k:('#1f3a5f','#3b6a9e') for k in ('s','c','f','r','k')}
+FONDO='#eaf0f7'; TESTO='#1f2d42'; CATEGORIA='#1f4f82'
 LABEL={'s':{'it':'Salute e benessere','en':'Health and wellbeing','de':'Gesundheit und Wohlbefinden'},
  'c':{'it':'Cuccioli','en':'Puppies','de':'Welpen'},
  'f':{'it':'Famiglia e convivenza','en':'Family life','de':'Familie und Zusammenleben'},
@@ -65,11 +67,11 @@ def card(label,title,g,ic):
     t=html.escape(title).replace('-','&#8209;')
     return f"""<!DOCTYPE html><html><head><meta charset="utf-8"><style>{fonts}
 *{{box-sizing:border-box}}html,body{{margin:0}}
-.card{{width:1200px;height:630px;position:relative;overflow:hidden;background:#f5ebe0;font-family:G,Georgia,serif}}
+.card{{width:1200px;height:630px;position:relative;overflow:hidden;background:{FONDO};font-family:G,Georgia,serif}}
 .txt{{position:absolute;top:0;bottom:0;left:0;right:420px;padding:64px 72px;display:flex;flex-direction:column}}
-.cat{{font-family:I,sans-serif;font-size:26px;margin:0 0 22px;color:{b_}}}
-h2{{font-weight:normal;font-size:64px;line-height:1.12;margin:0;color:#4a3f35}}
-.foot{{margin-top:auto;display:flex;align-items:center;gap:20px;font-size:28px;line-height:1.25;color:#4a3f35;padding-top:24px}}.foot img{{width:76px}}
+.cat{{font-family:I,sans-serif;font-size:26px;margin:0 0 22px;color:{CATEGORIA}}}
+h2{{font-weight:normal;font-size:64px;line-height:1.12;margin:0;color:{TESTO}}}
+.foot{{margin-top:auto;display:flex;align-items:center;gap:20px;font-size:28px;line-height:1.25;color:{TESTO};padding-top:24px}}.foot img{{width:76px}}
 .foot small{{font-family:I,sans-serif;font-size:21px;opacity:.85}}
 .icy{{position:absolute;right:80px;top:50%;transform:translateY(-50%);width:320px;height:320px;border-radius:50%;display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,{a},{b_})}}
 </style></head><body><div class="card"><div class="icy">{icon(ic)}</div><div class="txt"><p class="cat">{html.escape(label)}</p><h2 id="t">{t}</h2><div class="foot"><img src="{logo}" alt=""><span>Allevamento Del Piccolo Diavolo<br><small>Staffordshire Bull Terrier, Ostellato (FE)</small></span></div></div></div></body></html>"""
@@ -118,7 +120,7 @@ def icona_riquadro(g,ic,W,H,circle):
     a,b_=GROUPS[g]
     svg=icon(ic).replace('width="210"',f'width="{int(circle*0.62)}"').replace('height="210"',f'height="{int(circle*0.62)}"')
     return (f'<!DOCTYPE html><html><head><meta charset="utf-8"><style>html,body{{margin:0}}</style></head><body>'
-            f'<div style="width:{W}px;height:{H}px;background:#f5ebe0;display:flex;align-items:center;justify-content:center">'
+            f'<div style="width:{W}px;height:{H}px;background:{FONDO};display:flex;align-items:center;justify-content:center">'
             f'<div style="width:{circle}px;height:{circle}px;border-radius:50%;background:linear-gradient(135deg,{a},{b_});display:flex;align-items:center;justify-content:center">{svg}</div></div></body></html>')
 import sys
 if '--icone' in sys.argv:
