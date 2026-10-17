@@ -4,6 +4,7 @@ titleSeo: "Femmine Staffordshire Bull Terrier: referti e pedigree ENCI"
 date: 2025-12-28
 lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
+notte: true
 translationKey: "femmine"
 description: "Le femmine Staffordshire Bull Terrier: Bilquis (Top Dog Junior 2023), Queen of California, Croi Olc, Divine, Kennedy, Derry, Cattleya. Test L2-HGA, HC e DM-SOD1."
 slug: "femmine-staffordshire-bull-terrier"

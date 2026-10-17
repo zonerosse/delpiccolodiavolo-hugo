@@ -3,6 +3,7 @@ title: "Staffy breeder in Emilia-Romagna, Italy: Ostellato (FE)"
 date: 2025-12-28
 lastmod: 2026-10-17
 tipoPagina: "ContactPage"
+notte: true
 translationKey: "contatti"
 description: "Contact Del Piccolo Diavolo kennel in Ostellato (FE), Italy. Visits by appointment, WhatsApp, phone. Reachable from Ferrara, Bologna, Milan, Venice, Florence."
 slug: "contact"

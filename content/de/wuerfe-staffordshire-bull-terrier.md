@@ -4,6 +4,7 @@ titleSeo: "Nächste Staffy-Würfe: das Selektionsprogramm"
 date: 2025-12-28
 lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
+notte: true
 translationKey: "programma"
 description: "Staffordshire Bull Terrier Würfe mit ausgewählten Eltern, L2-HGA/HC Gentests, ENCI-Stammbaum. Zuchtprogramm, Elitebull und Lackyle Linien. Ostellato (FE)."
 correlati:

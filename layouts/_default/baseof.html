@@ -142,7 +142,7 @@
 
   {{ partial "css.html" . }}
 </head>
-<body{{ if .Params.articolo }} class="tipo-articolo"{{ end }}>
+<body{{ if .Params.articolo }} class="tipo-articolo"{{ else if .Params.notte }} class="notte-pagina"{{ end }}>
 
 <a class="salta-contenuto" href="#contenuto">{{ i18n "salta_contenuto" }}</a>
 

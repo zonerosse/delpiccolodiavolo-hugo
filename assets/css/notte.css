@@ -1,0 +1,88 @@
+/* Stile "Notte" per le pagine vetrina (scelta di Paolo, 17/10/2026, opzione B).
+   Si accende con notte: true nel front matter (body.notte-pagina). Gli articoli del Blog restano chiari.
+   Molte schede hanno colori scritti nello style="": qui si ricoprono con !important. */
+body.notte-pagina{--n-bg:#17120f;--n-bg2:#211a15;--n-card:#2a211b;--n-cr:#f3e9dc;--n-mu:#c4b4a0;--n-cu:#c8894a;--n-go:#d9b26a;--n-ln:rgba(243,233,220,.13);background:var(--n-bg);color:var(--n-mu)}
+.notte-pagina main{background:var(--n-bg);color:var(--n-mu)}
+.notte-pagina main h1,.notte-pagina main h2,.notte-pagina main h3,.notte-pagina main h4{color:var(--n-cr)!important;font-weight:400}
+.notte-pagina main p,.notte-pagina main li,.notte-pagina main td,.notte-pagina main dd,.notte-pagina main dt,.notte-pagina main span,.notte-pagina main div{border-color:var(--n-ln)}
+.notte-pagina main strong,.notte-pagina main b{color:var(--n-cr)}
+.notte-pagina main a{color:var(--n-go)}
+.notte-pagina main [style*="color:#3d2f22"],.notte-pagina main [style*="color:#5c4a3a"],.notte-pagina main [style*="color:#3a2f1a"],.notte-pagina main [style*="color:#1a1a1a"],.notte-pagina main [style*="color: #5c4a3a"]{color:var(--n-cr)!important}
+.notte-pagina main [style*="color:#4a3f35"],.notte-pagina main [style*="color:#7a6a58"],.notte-pagina main [style*="color:#6b5d52"],.notte-pagina main [style*="color:#7a6448"]{color:var(--n-mu)!important}
+.notte-pagina main [style*="color:#8b5a2b"],.notte-pagina main [style*="color:#7d620e"]{color:var(--n-go)!important}
+.notte-pagina main [style*="background:#fff"],.notte-pagina main [style*="background: #fff"],.notte-pagina main [style*="background:#faf8f5"],.notte-pagina main [style*="background:#efe9e0"],.notte-pagina main [style*="background:#d8cfc2"],.notte-pagina main [style*="background:linear-gradient(135deg,rgba(201,162,39"]{background:var(--n-card)!important}
+.notte-pagina main [style*="background:#eef2f7"]{background:#1f2630!important}.notte-pagina main [style*="color:#37475a"]{color:#b9c7d8!important}
+.notte-pagina main [style*="background:#e3f2e7"]{background:#1b2a20!important}.notte-pagina main [style*="color:#1b4d2e"]{color:#a9d3b4!important}
+.notte-pagina main [style*="border:1px solid #ece3d4"],.notte-pagina main [style*="border:1px solid rgba(139,115,85"],.notte-pagina main [style*="border-top:1px solid rgba(139,115,85"]{border-color:var(--n-ln)!important}
+.notte-pagina main [style*="background:#c9a227"]{background:var(--n-go)!important;color:#17120f!important}
+.notte-pagina main [style*="background:#c9a227"] *{color:#17120f!important}
+/* testata */
+.notte-pagina .hero{background:var(--n-bg)}
+.notte-pagina .hero-content{background:transparent}
+.notte-pagina .hero-eyebrow{color:var(--n-cu)}
+.notte-pagina .hero-title{color:var(--n-cr)!important}.notte-pagina .hero-title em{color:var(--n-cu)}
+.notte-pagina .hero-subtitle{color:var(--n-go);border-bottom-color:var(--n-ln)}
+.notte-pagina .hero-description{color:var(--n-mu)}
+.notte-pagina .features-bar{background:var(--n-bg);border-top:1px solid var(--n-ln);border-bottom:1px solid var(--n-ln)}
+.notte-pagina .features-track span{color:var(--n-go)}
+/* sezioni */
+.notte-pagina .section{background:var(--n-bg)}
+.notte-pagina .section-alt,.notte-pagina .dark-section{background:var(--n-bg2)}
+.notte-pagina .section-label{color:var(--n-cu);letter-spacing:.22em}
+.notte-pagina .section-title{font-family:Georgia,'Times New Roman',serif;color:var(--n-cr)!important}
+.notte-pagina .intro-block,.notte-pagina .content-block,.notte-pagina .value-card,.notte-pagina .story-block{background:var(--n-card);color:var(--n-mu);border-color:var(--n-ln)}
+.notte-pagina .story-block{background:transparent}
+/* bottoni */
+.notte-pagina main .btn,.notte-pagina main .btn-primary{background:linear-gradient(135deg,#9c5f2c,#7f4a1f);color:#fff!important;border-radius:999px;border:0}
+.notte-pagina main .btn-ghost{background:transparent;color:var(--n-cr)!important;border:1px solid var(--n-cu);border-radius:999px}
+/* schede dei cani, cucciolate, recensioni */
+.notte-pagina .female-card,.notte-pagina .male-card,.notte-pagina .litter-card,.notte-pagina .review-card,.notte-pagina .dog,.notte-pagina .gallery-item,.notte-pagina .contact-item,.notte-pagina .espo{background:var(--n-card)!important;border-color:var(--n-ln)!important;color:var(--n-mu)}
+.notte-pagina .female-featured{border-color:var(--n-cu)!important;box-shadow:0 0 0 1px var(--n-cu)}
+.notte-pagina .female-name,.notte-pagina .male-name,.notte-pagina .dog-name,.notte-pagina .litter-title,.notte-pagina .review-name{color:var(--n-go)!important;font-family:Georgia,serif}
+.notte-pagina .review-text{color:var(--n-cr);font-family:Georgia,serif;font-style:italic}
+.notte-pagina .stars,.notte-pagina .review-stars{color:var(--n-go)}
+.notte-pagina .badge,.notte-pagina .female-badge{background:#8f5524!important;color:#fff!important}
+/* tendine, continua, domande */
+.notte-pagina details.tendina,.notte-pagina details.continua{border-color:var(--n-ln)}
+.notte-pagina details summary{color:var(--n-go)}
+.notte-pagina .faq-item{background:var(--n-card);border-color:var(--n-ln)}
+.notte-pagina .faq-question{color:var(--n-cr)}
+.notte-pagina .faq-answer{color:var(--n-mu)}
+.notte-pagina .rimando{background:var(--n-card)!important;border-color:var(--n-ln)!important}
+.notte-pagina .rimando .ti{color:var(--n-cr)}.notte-pagina .rimando .de{color:var(--n-mu)}
+.notte-pagina .corr-card{background:var(--n-card)!important;border-color:var(--n-ln)!important;box-shadow:none!important}
+.notte-pagina .corr-card span:first-child{color:var(--n-cr)!important}
+.notte-pagina .corr-card span{color:var(--n-mu)!important}
+.notte-pagina .corr-card span:last-child{color:var(--n-cu)!important}
+.notte-pagina table{color:var(--n-mu)}.notte-pagina th{color:var(--n-cr)}
+.notte-pagina .cta-section{background:radial-gradient(ellipse at 50% 0%,#5a3518 0%,var(--n-bg) 70%)}
+.notte-pagina .cta-section h2{color:var(--n-cr)!important}
+.notte-pagina .pagina-meta{background:var(--n-bg);color:var(--n-mu)}
+.notte-pagina .breadcrumb,.notte-pagina .breadcrumb a{color:var(--n-mu)}
+.notte-pagina main img{border-color:var(--n-ln)}
+.notte-pagina main p,.notte-pagina main li,.notte-pagina main figcaption,.notte-pagina main small,.notte-pagina main td,.notte-pagina main dd{color:var(--n-mu)}
+.notte-pagina .content-block,.notte-pagina .section-alt .content-block,.notte-pagina .intro-block,.notte-pagina .tendina,.notte-pagina .litter-dog,.notte-pagina .litter-card{background:var(--n-card);border-color:var(--n-ln)}
+.notte-pagina .tendina summary,.notte-pagina .tendina summary h3{color:var(--n-cr)!important}
+.notte-pagina .story-img{box-shadow:0 10px 30px rgba(0,0,0,.4)}
+.notte-pagina .litter-header{border-bottom-color:var(--n-ln)}
+/* contrasti (controllo axe, 17/10/2026) */
+.notte-pagina main a{color:var(--n-go)!important}
+.notte-pagina main .btn,.notte-pagina main .btn-primary,.notte-pagina main .n-btn{color:#fff!important}
+.notte-pagina main .btn-ghost{color:var(--n-cr)!important}
+.notte-pagina .page-hero{background:var(--n-bg)}
+.notte-pagina .page-hero p{color:var(--n-mu)}
+.notte-pagina .reviewer,.notte-pagina .reviewer span,.notte-pagina .review-name{color:var(--n-cr)}
+.notte-pagina .reviewer .stars{color:var(--n-go)}
+.notte-pagina .faq-item p,.notte-pagina .faq-list .faq-item p{color:var(--n-mu)}
+.notte-pagina .faq-list .faq-item{background:var(--n-card);border-color:var(--n-ln)}
+.notte-pagina .tutti>summary{background:var(--n-card);border-color:var(--n-ln);color:var(--n-go)}
+.notte-pagina .risultato{background:var(--n-card)}
+.notte-pagina .map-link{background:var(--n-card);color:var(--n-go)!important}
+.notte-pagina main [style*="background:#5c4a3a"],.notte-pagina main [style*="background:#3d2f22"]{background:var(--n-card)!important}
+.notte-pagina main [style*="background:#5c4a3a"] *,.notte-pagina main [style*="background:#3d2f22"] *{color:var(--n-mu)}
+.notte-pagina .pagina-meta,.notte-pagina .pagina-meta *{color:var(--n-mu)!important}
+.notte-pagina .breadcrumb,.notte-pagina .breadcrumb a,.notte-pagina .breadcrumb .current{color:var(--n-mu)!important}
+.notte-pagina .diario-card,.notte-pagina .checklist{background:var(--n-card)!important;border-color:var(--n-ln)!important}
+.notte-pagina .diario-card *{border-color:var(--n-ln)}
+.notte-pagina .map-link span{color:var(--n-mu)}
+.notte-pagina main [style*="background:#c9a227"] [style*="background:#fff"]{background:#17120f!important;color:var(--n-go)!important}

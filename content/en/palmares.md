@@ -4,6 +4,7 @@ titleSeo: "Palmares: Italian and international champions since 2013"
 date: 2026-01-04
 lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
+notte: true
 translationKey: "palmares"
 description: "Results and titles of our Staffordshire Bull Terriers: Italian Champions, Junior Champions, Best of Breed. Del Piccolo Diavolo Kennel, Italy."
 slug: "palmares"

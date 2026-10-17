@@ -4,6 +4,7 @@ titleSeo: "Upcoming Staffy litters: the selection programme"
 date: 2025-12-28
 lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
+notte: true
 translationKey: "programma"
 description: "Staffordshire Bull Terrier litters at Del Piccolo Diavolo: planned and past pairings, the parents, their L2-HGA and HC tests, and how we decide each mating."
 correlati:

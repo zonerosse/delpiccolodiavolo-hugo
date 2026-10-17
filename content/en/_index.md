@@ -20,21 +20,26 @@ correlati:
     testo: "Ostellato (Ferrara), Italy, by appointment"
 slug: ""
 custom_content: |
+  <div class="notte">
   <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
   <!--HEROFOTO-->
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow"><a href="/en/reviews/" title="Read the reviews" style="color:inherit;text-decoration:none">⭐ <!--REC-VOTO--> on <!--REC-TOTALE--> reviews →</a></span>
-  <h1 class="hero-title">Staffordshire <br><em>Bull Terrier</em> <br>breeder</h1>
+  <span class="hero-eyebrow"><a href="/en/reviews/" style="color:inherit;text-decoration:none" title="Read the reviews">⭐ <!--REC-VOTO--> on <!--REC-TOTALE--> reviews →</a></span>
+  <h1 class="hero-title">Staffordshire <br/><em>Bull Terrier</em> <br/>breeder</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo - Selection, health and character</p>
   <p class="hero-description">In Ostellato (Ferrara, Italy) since 2013. All breeding dogs are tested for L2-HGA and HC (HSF4), or clear by parentage with their parents' reports. Our dogs are also clear of DM-SOD1. The reports are published, with the microchip numbers in plain sight. Dogs bred here: 1 Italian Champion, 3 Italian Junior Champions, 4th at the World Dog Show.</p>
   <div class="hero-actions">
-  <a href="/en/puppies-staffordshire-bull-terrier/" class="btn btn-primary" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies</a>
+  <a class="btn btn-primary" href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies</a>
   </div>
-  <p style="margin:1rem 0 0;font-size:.95rem">First time with a Staffy? <a href="/docs/guide-first-months-staffy-puppy.pdf" style="color:#8b5a2b;font-weight:600;text-decoration:underline">Download the guide to the first months (PDF)</a></p>
-  </div>
+  <p class="hero-guida">First time with a Staffy? <a href="/docs/guide-first-months-staffy-puppy.pdf">Download the guide to the first months (PDF)</a></p>
+  <div class="n-num numeri-chiave">
+  <div><b>since 2013</b><span>Staffordshire Bull<br/>Terrier breeder</span></div>
+  <div><b>1</b><span>litter a year<br/>on average</span></div>
+  <div><b><!--REC-VOTO--> <i aria-hidden="true">★</i></b><span>from <!--REC-TOTALE--> Google<br/>reviews</span></div>
+  </div></div>
   </section>
   <!--/BLOCCO:1-->
 
@@ -59,51 +64,48 @@ custom_content: |
   </div>
   </div>
 
-  <section class="section numeri-chiave" style="padding:1.6rem 1.2rem;background:#fff">
-  <div class="section-inner" style="display:grid;grid-template-columns:repeat(3,1fr);gap:.6rem;text-align:center;max-width:820px">
-  <div><div style="font-family:Georgia,serif;font-size:clamp(1.6rem,6vw,2.6rem);font-weight:700;color:#8b5a2b;line-height:1">since 2013</div><div style="font-size:.8rem;color:#4a3f35;margin-top:.35rem;line-height:1.3">Staffordshire Bull<br>Terrier breeder</div></div>
-  <div><div style="font-family:Georgia,serif;font-size:clamp(1.6rem,6vw,2.6rem);font-weight:700;color:#8b5a2b;line-height:1">1</div><div style="font-size:.8rem;color:#4a3f35;margin-top:.35rem;line-height:1.3">litter a year<br>on average</div></div>
-  <div><div style="font-family:Georgia,serif;font-size:clamp(1.6rem,6vw,2.6rem);font-weight:700;color:#8b5a2b;line-height:1"><!--REC-VOTO--> <span aria-hidden="true">★</span></div><div style="font-size:.8rem;color:#4a3f35;margin-top:.35rem;line-height:1.3">from <!--REC-TOTALE--> Google<br>reviews</div></div>
-  </div>
-  </section>
-
   <!--BLOCCO:2-->
   <!--NOVITA-->
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
-  <section class="section">
-  <div class="section-inner">
-  <span class="section-label">Our puppies</span>
-  <h2 class="section-title">Born and raised here, in Ostellato</h2>
-
-  <div style="max-width:300px;margin:0 auto"><img src="/images/foto2.avif" alt="Black Staffordshire Bull Terrier puppy a few weeks old" loading="lazy" decoding="async" width="300" height="391" style="width:100%;height:auto;border-radius:12px"></div>
-
-  <p style="text-align:center;margin-top:1.5rem"><a class="btn" href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">How they are born and raised</a></p>
+  <section class="n-s">
+  <div class="n-w">
+  <span class="n-kick">Our puppies</span>
+  <h2>Born and raised here, in Ostellato</h2>
+  <ol class="n-tappe">
+  <li><span class="n-quando">The first month</span><p>The puppies are born indoors and stay there for the first month.</p></li>
+  <li><span class="n-quando">From the second month</span><p>Then they move to a pen with the courtyard, among people and everyday noises.</p></li>
+  <li><span class="n-quando">After 60 days</span><p>They leave with an <strong>ENCI pedigree</strong>, microchip and vaccinations.</p></li>
+  </ol>
+  <div class="n-gal">
+  <img src="/images/cuccioli-bilquis-nati-1.webp" alt="Bilquis Goddess Diabhal with her newborn Staffordshire Bull Terrier puppies" loading="lazy" decoding="async" width="435" height="480">
+  <img src="/images/foto2.avif" alt="Black Staffordshire Bull Terrier puppy a few weeks old" loading="lazy" decoding="async" width="368" height="480">
+  <img src="/images/primo-piano-cucciolo.avif" alt="Close-up of a black Staffordshire Bull Terrier puppy" loading="lazy" decoding="async" width="639" height="600">
+  </div>
+  <p style="max-width:860px">What they can have learned before leaving, and what not, is explained in <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it means">what “socialised puppies” means</a>. We do no miracle exercises: on <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor and early stimulation: what research says">Bio Sensor</a> we have written why the evidence is not there.</p>
+  <a class="n-vai" href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">How they are born and raised <span aria-hidden="true">→</span></a>
   </div>
   </section>
   <!--/BLOCCO:3-->
 
-  <section class="section" style="padding-top:0">
-  <div class="section-inner" style="max-width:640px">
-  <div class="review-card">
-  <p class="review-text">&laquo;About eight months ago I decided I wanted a Staffy as my companion in adventures, and I started reading up so I could turn to the most reliable kennel possible. […] Now I have my own little devil, thanks to this wonderful family I will never stop thanking.&raquo;</p>
-  <div class="reviewer"><span>Gianluca Ravera</span><span class="stars">★★★★★</span></div>
-  <p style="margin-top:.6rem;font-size:.82rem"><a href="https://search.google.com/local/reviews?placeid=ChIJqV8xIv1rfkcRQK_6v1XiVNE" target="_blank" rel="noopener" title="Read the original review on Google" style="color:#8b5a2b;font-weight:600" aria-label="Read the review on Google (opens in a new tab)">Read the review on Google &rarr;</a></p>
-  </div>
+  <section class="n-s n-s2">
+  <div class="n-w n-cit">
+  <blockquote>About eight months ago I decided I wanted a Staffy as my companion in adventures, and I started reading up so I could turn to the most reliable kennel possible. […] Now I have my own little devil, thanks to this wonderful family I will never stop thanking.</blockquote>
+  <p class="n-chi">Gianluca Ravera · <span class="n-stelle">★★★★★</span></p>
+  <p class="n-orig"><a aria-label="Read the review on Google (opens in a new tab)" href="https://search.google.com/local/reviews?placeid=ChIJqV8xIv1rfkcRQK_6v1XiVNE" rel="noopener" target="_blank" title="Read the original review on Google">Read the review on Google →</a></p>
   </div>
   </section>
 
-
   <!--BLOCCO:4-->
-  <section class="section">
-  <div class="section-inner">
-  <div style="max-width:760px;margin:0 auto;display:grid;grid-template-columns:88px 1fr;gap:1.2rem;align-items:center;background:#fff;border:1px solid #e6ddd4;border-radius:10px;padding:1rem 1.2rem">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Italian Champion, brood bitch of Del Piccolo Diavolo, Staffordshire Bull Terrier breeder" width="88" height="116" loading="lazy" decoding="async" style="width:88px;height:88px;object-fit:cover;border-radius:8px">
+  <section class="n-s n-s2" style="padding-top:0">
+  <div class="n-w">
+  <div class="n-press">
+  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Italian Champion, brood bitch of Del Piccolo Diavolo, Staffordshire Bull Terrier breeder" loading="lazy" decoding="async" width="301" height="396">
   <div>
-  <p style="font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:#8b5a2b;font-weight:700;margin:0 0 .25rem">In the press &middot; 6 January 2026</p>
-  <h2 style="font-family:Georgia,'Times New Roman',serif;font-size:1.05rem;color:#5c4a3a;margin:0 0 .3rem;line-height:1.4">&ldquo;From Ferrara to conquer the world: Bilquis, the 3-year-old bitch collecting prizes&rdquo;</h2>
-  <p style="margin:0;font-size:.88rem;color:#6b5d52"><strong>FerraraToday</strong> (in Italian) &middot; <a href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" target="_blank" rel="noopener" title="Read the article on FerraraToday" aria-label="Read the article on FerraraToday (opens in a new tab)">read the article &rarr;</a></p>
+  <small>In the press · 6 January 2026</small>
+  <h2>“From Ferrara to conquer the world: Bilquis, the 3-year-old bitch collecting prizes”</h2>
+  <p><strong>FerraraToday</strong> (in Italian) · <a aria-label="Read the article on FerraraToday (opens in a new tab)" href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" rel="noopener" target="_blank" title="Read the article on FerraraToday">read the article →</a></p>
   </div>
   </div>
   </div>
@@ -111,194 +113,132 @@ custom_content: |
   <!--/BLOCCO:4-->
 
   <!--BLOCCO:5-->
-  <section class="section section-alt">
-  <div class="section-inner content-single">
-  <span class="section-label">In plain terms</span>
-  <h2 class="section-title">What we do not do</h2>
-
-  <p><img src="/images/foto1.avif" alt="Black Staffordshire Bull Terrier puppy held in a hand" loading="lazy" decoding="async" width="300" height="363" style="display:block;width:60%;max-width:240px;height:auto;margin:.2rem auto 1rem;border-radius:12px;transform:scaleX(-1)">Sometimes a kennel is easier to understand from what it does not do.</p>
-  <details class="continua"><summary>Continue reading</summary>
-  <p>The Del Piccolo Diavolo kennel is in Ostellato, in the province of Ferrara, Italy. Here <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies</a> are born only a few times, leave with the ENCI pedigree after the 60 days required by law, and are collected only from here, where you <a href="/en/parents-on-site-what-it-means/" title="&quot;Parents on site&quot;: what it really means">see the mother</a>. These are the four things we do not do.</p>
-
-  <p><strong>We do not have puppies all year round.</strong> One litter, occasionally two, sometimes none. If you write to us at a time when there are none, the answer is that there are none: we do not offer you an acquaintance's puppy and we do not rush you towards a future litter.</p>
-
-  <p><strong>We do not ship dogs.</strong> None of our puppies travels by courier: no aircraft holds, no handovers halfway in a car park. Whoever takes a puppy comes to Ostellato. That way they see the mother, the house and the place where it grew up.</p>
-
-  <p><strong>We do not treat the pedigree as an accessory.</strong> There is no such thing as a puppy &ldquo;with&rdquo; or &ldquo;without&rdquo;: the ENCI certificate goes with every dog and is not charged separately.</p>
-
-  <p><strong>We do not take offence at questions about the kennel.</strong> On the contrary, they are what tell us who we are dealing with. Whoever asks about the tests, the parents, or what happens if in two years' time they can no longer keep the dog, is the person we would gladly entrust a puppy to.</p>
-
-  <p style="margin-top:2rem;padding-top:1.5rem;border-top:1px solid rgba(139,115,85,.2)">Who is behind all this, and how one gets from Rottweilers to Staffies: the story is in <a href="/en/about-us/" title="About us">about us</a>.</p>
-  </details>
-
-
-  <a class="rimando" href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/">
-  <img src="/images/blog/cucciolata-erba.avif" alt="Staffordshire Bull Terrier puppies with their mother" width="88" height="64" loading="lazy" decoding="async">
-  <span>
-  <span class="ti">How to recognise a serious breeder</span>
-  <span class="de">Eight criteria and how to check each one, on us as much as on anyone else.</span>
-  </span>
-  </a>
+  <section class="n-s">
+  <div class="n-w n-dd">
+  <div>
+  <span class="n-kick">In plain terms</span>
+  <h2>What we do not do</h2>
+  <p class="n-lead">Sometimes a kennel is easier to understand from what it does not do.</p>
+  <p>The Del Piccolo Diavolo kennel is in Ostellato, in the province of Ferrara, Italy. Here <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies</a> are born only a few times, leave with the ENCI pedigree after the 60 days required by law, and are collected only from here, where you <a href="/en/parents-on-site-what-it-means/" title='"Parents on site": what it really means'>see the mother</a>. These are the four things we do not do.</p>
+  <img class="n-foto" src="/images/foto1.avif" alt="Black Staffordshire Bull Terrier puppy held in a hand" loading="lazy" decoding="async" width="397" height="480">
+  </div>
+  <div>
+  <ul class="n-li">
+  <li><span class="n-ic" aria-hidden="true">✕</span><p><strong>We do not have puppies all year round.</strong> One litter, occasionally two, sometimes none. If you write to us at a time when there are none, the answer is that there are none: we do not offer you an acquaintance's puppy and we do not rush you towards a future litter.</p></li>
+  <li><span class="n-ic" aria-hidden="true">✕</span><p><strong>We do not ship dogs.</strong> None of our puppies travels by courier: no aircraft holds, no handovers halfway in a car park. Whoever takes a puppy comes to Ostellato. That way they see the mother, the house and the place where it grew up.</p></li>
+  <li><span class="n-ic" aria-hidden="true">✕</span><p><strong>We do not treat the pedigree as an accessory.</strong> There is no such thing as a puppy “with” or “without”: the ENCI certificate goes with every dog and is not charged separately.</p></li>
+  <li><span class="n-ic" aria-hidden="true">✕</span><p><strong>We do not take offence at questions about the kennel.</strong> On the contrary, they are what tell us who we are dealing with. Whoever asks about the tests, the parents, or what happens if in two years' time they can no longer keep the dog, is the person we would gladly entrust a puppy to.</p></li>
+  </ul>
+  <p class="n-vedi">Who is behind all this, and how one gets from Rottweilers to Staffies: the story is in <a href="/en/about-us/" title="About us">about us</a>.</p>
+  </div>
   </div>
   </section>
   <!--/BLOCCO:5-->
 
   <!--BLOCCO:6-->
-  <section class="section">
-  <div class="section-inner">
-  <h2 class="section-title">One litter a year, sometimes none</h2>
-  <div class="intro-block" style="text-align:left">
-  <p><img src="/images/foto4.avif" alt="Staffordshire Bull Terrier puppy in arms, close up" loading="lazy" decoding="async" width="300" height="347" style="display:block;width:60%;max-width:240px;height:auto;margin:.2rem auto 1rem;border-radius:12px;transform:scaleX(-1)">Del Piccolo Diavolo is a Staffordshire Bull Terrier kennel, the Staffy to its enthusiasts, in <strong>Ostellato, in the province of Ferrara, Italy</strong>, active since <strong>2013</strong>. Paolo Boldrini has followed the breed since 2005. He spent eight years studying it before breeding a litter.</p>
-  <details class="continua"><summary>Continue reading</summary>
+  <section class="n-s n-s2">
+  <div class="n-w">
+  <span class="n-kick">How we work</span>
+  <h2>One litter a year, sometimes none</h2>
+  <p class="n-lead">Del Piccolo Diavolo is a Staffordshire Bull Terrier kennel, the Staffy to its enthusiasts, in <strong>Ostellato, in the province of Ferrara, Italy</strong>, active since <strong>2013</strong>. Paolo Boldrini has followed the breed since 2005. He spent eight years studying it before breeding a litter.</p>
+  <div class="n-lav">
+  <div>
   <p>We have <strong>one litter a year, occasionally two, sometimes none</strong>, never on request. All breeding dogs are tested for <strong>L2-HGA and HC (HSF4 gene)</strong>, or clear by parentage with their parents' reports. Our dogs are also clear of <strong>degenerative myelopathy (SOD1 gene)</strong>. The reports are published on the site, with the dog's name and microchip number.</p>
-
-  <p>The puppies are born indoors and stay there for the first month. Then they move to a pen with the courtyard, among people and everyday noises. They leave with an <strong>ENCI pedigree</strong>, microchip and vaccinations. What they can have learned before leaving, and what not, is explained in <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it means">what &ldquo;socialised puppies&rdquo; means</a>. We do no miracle exercises: on <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor and early stimulation: what research says">Bio Sensor</a> we have written why the evidence is not there.</p>
-
-  <p>At shows, the dogs bred here have won <strong>1 Italian Champion title</strong> and <strong>3 Italian Junior Champion titles</strong>, one of them also Slovenian Champion. Then a Junior Champion and Champion of San Marino, and a <strong>4th place at the World Dog Show</strong> with Bilquis Goddess Diabhal. In May 2026 Queen of California became <strong>Italian Junior Champion</strong>. We work with English and Irish bloodlines, mainly Elitebull and Lackyle.</p>
-
   <p>We choose breeding dogs on three criteria, in this order: <strong>a steady <a href="/en/staffordshire-bull-terrier-temperament/" title="Staffy temperament: how it was selected">temperament</a></strong>, <strong>no hereditary disease</strong> and <strong><a href="/en/staffy-breed-standard/" title="The Staffordshire Bull Terrier breed standard">fitting the standard</a></strong>. Temperament comes first because a family takes it home for twelve years. It is also the hardest thing to correct: conformation can be fixed in two or three generations, a fault of character cannot.</p>
-
+  <p>At shows, the dogs bred here have won <strong>1 Italian Champion title</strong> and <strong>3 Italian Junior Champion titles</strong>, one of them also Slovenian Champion. Then a Junior Champion and Champion of San Marino, and a <strong>4th place at the World Dog Show</strong> with Bilquis Goddess Diabhal. In May 2026 Queen of California became <strong>Italian Junior Champion</strong>. We work with English and Irish bloodlines, mainly Elitebull and Lackyle.</p>
   <p>Before placing a puppy we want to know the family: a phone call, a few questions, often a visit. And the relationship does not end there. We are available for advice and news <a href="/en/staffordshire-family-life-stories/" title="Staffordshire Bull Terriers in family life: true stories">even years later</a>. And every dog born here comes back to us, if one day it could no longer stay where it is.</p>
-  </details>
-
-
-
+  </div>
+  <img src="/images/foto4.avif" alt="Staffordshire Bull Terrier puppy in arms, close up" loading="lazy" decoding="async" width="415" height="480">
   </div>
   </div>
   </section>
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->
-    <section class="section">
-  <div class="section-inner">
-  <span class="section-label">Verifiable</span>
-  <h2 class="section-title">How to check what we write</h2>
-
-  <p style="max-width:760px;margin:0 0 1.2rem;color:#5c4a3a;line-height:1.8">Every kennel writes that it selects for health. It is a sentence that costs nothing, and indeed everyone writes it. The difference lies in what can be checked without having to believe anyone.</p>
-
+  <section class="n-s">
+  <div class="n-w">
+  <span class="n-kick">Verifiable</span>
+  <h2>How to check what we write</h2>
+  <p class="n-lead">Every kennel writes that it selects for health. It is a sentence that costs nothing, and indeed everyone writes it. The difference lies in what can be checked without having to believe anyone.</p>
+  <div class="n-2c" style="margin-top:2rem">
   <p>What a Staffordshire Bull Terrier kennel says can be checked in four ways, all from the outside and without asking the breeder anything. The <strong>genetic test reports</strong> only count if they show the dog's microchip. The <strong>pedigrees</strong> are on SBTPedigree, the breed's international archive, with grandparents, great-grandparents and littermates (<a href="/en/how-to-read-a-pedigree/" title="How to read a pedigree">how to read a pedigree</a> explains what to look for). The <strong>number of litters a bitch has had</strong> is checked in the ENCI studbook, again through the microchip. The <strong>show titles</strong> are in the public catalogues, with the judge's name. Del Piccolo Diavolo publishes all four, microchip numbers included.</p>
-
-  <p>On this site the reports of the breeding dogs are published, not &ldquo;available on request&rdquo;. Anyone can download them. Every sheet shows the dog's microchip, the laboratory, the report number and the date.</p>
-
+  <p>On this site the reports of the breeding dogs are published, not “available on request”. Anyone can download them. Every sheet shows the dog's microchip, the laboratory, the report number and the date.</p>
   <p><strong>It is the microchip that makes a report verifiable.</strong> Without it, the sheet could be about any dog. With the microchip in plain sight, anyone can compare it with the papers of the dog in front of them, or ask the laboratory to confirm it.</p>
-
-  <details class="tendina"><summary><h3>Which tests we do, and what they are</h3></summary>
-
+  </div>
+  <div class="n-righe">
+  <div class="n-riga">
+  <h3>Which tests we do, and what they are</h3>
+  <div>
   <p><strong>All breeding dogs are tested for L2-HGA and HC (HSF4), or clear by parentage with their parents' reports. Our dogs are also clear of DM-SOD1.</strong> The reports, with the microchip number, are published on the dogs' pages.</p>
-
-  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(220px,100%),1fr));gap:1rem;margin:1.2rem 0 1rem">
-  <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
-  <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">L2-HGA</div>
-  <div style="font-size:.85rem;color:#7a6448;margin-bottom:.5rem">L-2-hydroxyglutaric aciduria</div>
-  <p style="margin:0;font-size:.95rem;line-height:1.6">A neurological disease that usually appears in the first years of life: tremors, unsteady gait, seizures. There is no cure.</p>
-  <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Clear: all breeding dogs</div>
+  <div class="n-test">
+  <div><b>L2-HGA</b><small>L-2-hydroxyglutaric aciduria</small><p>A neurological disease that usually appears in the first years of life: tremors, unsteady gait, seizures. There is no cure.</p><em>Clear: all breeding dogs</em></div>
+  <div><b>HC (HSF4 gene)</b><small>Hereditary cataract</small><p>The lens of the eye turns cloudy at a young age, often within the first two or three years, leading to blindness.</p><em>Clear: all breeding dogs</em></div>
+  <div><b>DM-SOD1</b><small>Degenerative myelopathy</small><p>A disease of the spinal cord that appears after eight years of age and slowly leads to paralysis of the hind legs. There is no cure.</p><em>Clear: our dogs</em></div>
   </div>
-  <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
-  <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">HC (HSF4 gene)</div>
-  <div style="font-size:.85rem;color:#7a6448;margin-bottom:.5rem">Hereditary cataract</div>
-  <p style="margin:0;font-size:.95rem;line-height:1.6">The lens of the eye turns cloudy at a young age, often within the first two or three years, leading to blindness.</p>
-  <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Clear: all breeding dogs</div>
-  </div>
-  <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
-  <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">DM-SOD1</div>
-  <div style="font-size:.85rem;color:#7a6448;margin-bottom:.5rem">Degenerative myelopathy</div>
-  <p style="margin:0;font-size:.95rem;line-height:1.6">A disease of the spinal cord that appears after eight years of age and slowly leads to paralysis of the hind legs. There is no cure.</p>
-  <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Clear: our dogs</div>
-  </div>
-  </div>
-
   <p>All three are recessive diseases. They are found with a DNA test that is done once and lasts a lifetime. Two clear parents cannot have affected puppies. How to read the reports is explained in the <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Genetic testing L2-HGA, HC and DM">genetic testing guide</a>.</p>
-  </details>
-
-  <details class="tendina"><summary><h3>What can be checked, and where</h3></summary>
-
-  <p><strong>The pedigrees.</strong> The Del Piccolo Diavolo dogs are registered on <a href="https://sbtpedigree.com/details?id=35858" target="_blank" rel="noopener" aria-label="Del Piccolo Diavolo on SBTPedigree (opens in a new tab)">SBTPedigree</a>, the breed's international database, with all the dogs and the litters. From there you trace the grandparents, the great-grandparents and the littermates. You see who the dogs behind a name are, and also what is missing.</p>
-
+  </div>
+  </div>
+  <div class="n-riga">
+  <h3>What can be checked, and where</h3>
+  <div>
+  <p><strong>The pedigrees.</strong> The Del Piccolo Diavolo dogs are registered on <a aria-label="Del Piccolo Diavolo on SBTPedigree (opens in a new tab)" href="https://sbtpedigree.com/details?id=35858" rel="noopener" target="_blank">SBTPedigree</a>, the breed's international database, with all the dogs and the litters. From there you trace the grandparents, the great-grandparents and the littermates. You see who the dogs behind a name are, and also what is missing.</p>
   <p><strong>The pedigree certificates.</strong> Every puppy leaves with the ENCI pedigree certificate, which is checked by its studbook number.</p>
-
-  <p><strong>The show results.</strong> The titles are not self-certified: the show catalogues are public, and the judges who assessed our dogs have a first name and a surname. They are collected in the <a href="/en/palmares/" title="Palmares">palmar&egrave;s</a>.</p>
-
+  <p><strong>The show results.</strong> The titles are not self-certified: the show catalogues are public, and the judges who assessed our dogs have a first name and a surname. They are collected in the <a href="/en/palmares/" title="Palmares">palmarès</a>.</p>
   <p><strong>The dates.</strong> Every litter has its date of birth: the most recent in the <a href="/en/diario-allevamento/" title="Breeding diary">diary</a>, those of earlier years in the <a href="/en/litters-staffordshire-bull-terrier/" title="Breeding programme">breeding programme</a>. None disappears once the puppies are in their new homes, and that is deliberate: this way anyone can count how many litters we have in a year.</p>
-  </details>
-
-  <details class="tendina"><summary><h3>Two rules without exceptions</h3></summary>
-
+  <p class="n-vedi"><a href="/en/females-staffordshire-bull-terrier/">Our females, one by one</a>. Microchip, genetic tests and pedigree: from there you verify ancestry and litters.</p>
+  </div>
+  </div>
+  <div class="n-riga">
+  <h3>Two rules without exceptions</h3>
+  <div>
   <p><strong>We do not mate two Staffordshire Bull Terriers because they are beautiful.</strong> Every mating comes from a reason we can explain: what we are trying to fix and what we are trying to correct. If the answer were "they are two nice dogs", there would be no programme behind it.</p>
-
   <p><strong>We do not place puppies before 60 days</strong>, which is a legal requirement and not a choice of ours. For families abroad the timing is longer still, because the rabies vaccination and the <a href="/en/staffordshire-bull-terrier-puppy-abroad/" title="A puppy going abroad">official health certificate</a> are needed.</p>
-  </details>
-
-  <details class="tendina"><summary><h3>Including what we cannot claim</h3></summary>
-
+  </div>
+  </div>
+  <div class="n-riga">
+  <h3>Including what we cannot claim</h3>
+  <div>
   <p>It also works the other way round. When a puppy is clear by parentage for one disease but not for another, we say so. When for an outside stud we have the report for two conditions and not for four, we say so.</p>
-
   <p>It is the part nobody likes to tell, and it is also the reason the rest stands up: a kennel that only declares the good things is not giving information, it is advertising.</p>
-
   <p>If you are assessing us, or another kennel, the guide on <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious breeder">how to recognise a serious breeder</a> lists the eight criteria and how to check them, on us as on anyone else.</p>
-
-  <p style="margin-top:2rem;padding-top:1.5rem;border-top:1px solid rgba(139,115,85,.2)">How a litter comes about is told in the <a href="/en/litters-staffordshire-bull-terrier/" title="Breeding programme">breeding programme</a>: the choice of the two parents, the weeks in the house, the matching with the family. The history of the litters is there too.</p>
-  </details>
-
-  <a class="rimando" href="/en/females-staffordshire-bull-terrier/">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Del Piccolo Diavolo brood bitch" width="88" height="116" loading="lazy" decoding="async">
-  <span>
-  <span class="ti">Our females, one by one</span>
-  <span class="de">Microchip, genetic tests and pedigree: from there you verify ancestry and litters.</span>
-  </span>
-  </a>
+  <p>How a litter comes about is told in the <a href="/en/litters-staffordshire-bull-terrier/" title="Breeding programme">breeding programme</a>: the choice of the two parents, the weeks in the house, the matching with the family. The history of the litters is there too.</p>
+  </div>
+  </div>
+  </div>
   </div>
   </section>
   <!--/BLOCCO:7-->
 
   <!--BLOCCO:8-->
-  <section class="section section-alt">
-  <div class="section-inner">
-  <span class="section-label">Show results</span>
-  <h2 class="section-title">What the judges say about the dogs we breed</h2>
-
-  <p style="margin-bottom:2rem">These are the results of our Staffies in Italian and international rings. We do not award them: the judges do, and they are written in the public catalogues.</p>
-
-  <div class="successi-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(280px,100%),1fr));gap:1.5rem;margin-bottom:2rem;align-items:stretch">
-
-  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center;display:flex;flex-direction:column;height:100%">
-  <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Bilquis Goddess Diabhal</h3>
-  <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Italian Champion - 4th at the World Dog Show</p>
-  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Record: 14 consecutive shows graded Excellent 1st. Italian Champion in Intermediate Class. 4th at the World Dog Show. Top Dog Junior 2023.</p>
+  <section class="n-s n-s2">
+  <div class="n-w">
+  <span class="n-kick">Show results</span>
+  <h2>What the judges say about the dogs we breed</h2>
+  <p style="max-width:760px">These are the results of our Staffies in Italian and international rings. We do not award them: the judges do, and they are written in the public catalogues.</p>
+  <div class="n-cani">
+  <div class="n-cane"><img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Staffordshire Bull Terrier from the Del Piccolo Diavolo kennel" loading="lazy" decoding="async" width="301" height="396"><div>
+  <h3>Bilquis Goddess Diabhal</h3>
+  <p class="n-tit">Italian Champion - 4th at the World Dog Show</p>
+  <p>Record: 14 consecutive shows graded Excellent 1st. Italian Champion in Intermediate Class. 4th at the World Dog Show. Top Dog Junior 2023.</p></div></div>
+  <div class="n-cane"><img src="/images/Lothar.webp" alt="Lothar Matthäus, Staffordshire Bull Terrier from the Del Piccolo Diavolo kennel" loading="lazy" decoding="async" width="480" height="485"><div>
+  <h3>Lothar Matthäus</h3>
+  <p class="n-tit">Italian Junior Champion and Slovenian Champion</p>
+  <p>Multiple JCAC and Junior BOB at national and international shows. Excellent 1st at every event. Son of English champions.</p></div></div>
+  <div class="n-cane"><img src="/images/queen-of-california-800w.webp" alt="Queen of California, Staffordshire Bull Terrier from the Del Piccolo Diavolo kennel" loading="lazy" decoding="async" width="800" height="533"><div>
+  <h3>Queen of California</h3>
+  <p class="n-tit">Italian Junior Champion ENCI 2026</p>
+  <p>17 May 2026, National Show in Albarella: Excellent 1st, JCAC, JBOB and BOB. Best Staffordshire Bull Terrier of the Gruppo Cinofilo Polesano. Daughter of CH. Elitebull Prospect × Lackyle Bean Croí Olc.</p></div></div>
+  <div class="n-cane"><img src="/images/cattleya-campionessa-800w.webp" alt="Cattleya Del Piccolo Diavolo at Valconcaclan, Staffordshire Bull Terrier from the Del Piccolo Diavolo kennel" loading="lazy" decoding="async" width="800" height="878"><div>
+  <h3>Cattleya Del Piccolo Diavolo at Valconcaclan</h3>
+  <p class="n-tit">Junior Champion and Champion of San Marino</p>
+  <p>Junior Champion of San Marino in 2023, Champion of San Marino in 2024. Born and raised by us, now owned by Ricarda Mazzola Wagner (Valconcaclan). L2-HGA and HC (HSF4) clear, complete scissor bite.</p></div></div>
   </div>
-
-  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center;display:flex;flex-direction:column;height:100%">
-  <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Lothar Matthäus</h3>
-  <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Italian Junior Champion and Slovenian Champion</p>
-  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Multiple JCAC and Junior BOB at national and international shows. Excellent 1st at every event. Son of English champions.</p>
+  <div class="n-tot">
+  <p><strong>1 Italian Champion - 3 Italian Junior Champions - 1 San Marino Champion - 4th at the World Dog Show</strong></p>
+  <p>Results achieved with dogs bred and raised by us, not bought already titled.</p>
+  <a href="/en/palmares/" class="n-btn" title="See all results">See all results</a>
+  <p class="n-vedi" style="text-align:left"><a href="/en/puppies-staffordshire-bull-terrier/">How a litter is born and raised</a>. From the season to the whelping, and what happens in the weeks that follow.</p>
   </div>
-
-  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center;display:flex;flex-direction:column;height:100%">
-  <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Queen of California</h3>
-  <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Italian Junior Champion ENCI 2026</p>
-  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">17 May 2026, National Show in Albarella: Excellent 1st, JCAC, JBOB and BOB. Best Staffordshire Bull Terrier of the Gruppo Cinofilo Polesano. Daughter of CH. Elitebull Prospect × Lackyle Bean Croí Olc.</p>
-  </div>
-
-  <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center;display:flex;flex-direction:column;height:100%">
-  <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Cattleya Del Piccolo Diavolo at Valconcaclan</h3>
-  <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Junior Champion and Champion of San Marino</p>
-  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Junior Champion of San Marino in 2023, Champion of San Marino in 2024. Born and raised by us, now owned by Ricarda Mazzola Wagner (Valconcaclan). L2-HGA and HC (HSF4) clear, complete scissor bite.</p>
-  </div>
-
-  </div>
-
-  <div style="text-align:center;padding:1.5rem;background:#fff;border-radius:12px;border:1px solid rgba(139,115,85,0.15)">
-  <p style="font-size:1.1rem;color:#5c4a3a;margin-bottom:0.5rem"><strong>1 Italian Champion - 3 Italian Junior Champions - 1 San Marino Champion - 4th at the World Dog Show</strong></p>
-  <p style="font-size:0.9rem;color:#4a3f35;margin-bottom:1rem">Results achieved with dogs bred and raised by us, not bought already titled.</p>
-  <a href="/en/palmares/" class="btn btn-primary" title="See all results" style="min-height:44px;display:inline-flex;align-items:center">See all results</a>
-  </div>
-
-  <a class="rimando" href="/en/puppies-staffordshire-bull-terrier/">
-  <img src="/images/primo-piano-cucciolo.avif" alt="Staffordshire Bull Terrier puppy" width="88" height="83" loading="lazy" decoding="async">
-  <span>
-  <span class="ti">How a litter is born and raised</span>
-  <span class="de">From the season to the whelping, and what happens in the weeks that follow.</span>
-  </span>
-  </a>
   </div>
   </section>
   <!--/BLOCCO:8-->
@@ -308,62 +248,43 @@ custom_content: |
   <!--/BLOCCO:9-->
 
   <!--BLOCCO:10-->
-  <section class="section">
-  <div class="section-inner">
-  <span class="section-label">Frequently asked questions</span>
-  <h2 class="section-title">FAQ about the Staffordshire Bull Terrier</h2>
-
-  <div class="faq-container">
-
-  <div class="faq-item active">
-  <div class="faq-question" >
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How much does a Staffordshire Bull Terrier with ENCI pedigree cost?</h3>
-  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
-  </div>
+  <section class="n-s">
+  <div class="n-w">
+  <span class="n-kick">Frequently asked questions</span>
+  <h2>FAQ about the Staffordshire Bull Terrier</h2>
+  <div class="faq-container n-faqs">
+  <div class="faq-item active n-faq">
+  <h3>How much does a Staffordshire Bull Terrier with ENCI pedigree cost?</h3>
   <div class="faq-answer">There is no price list: what you pay reflects costs that exist before the puppies are born. The genetic tests of the breeding stock for L2-HGA and HC, the registration of the litter in the ENCI studbook at public rates, the veterinary visits during pregnancy, the ultrasound and the X-ray before whelping, the first vaccinations, the worming and the microchip. <strong>A very low price almost always means something is missing</strong>: the tests, the pedigree, or puppies separated from their mother before the 60 days required by Italian law. Every puppy leaves with vaccinations, microchip, worming, the certificates of the parents' tests and the Del Piccolo Diavolo kennel's support for the whole of the dog's life. The details are in the guide to the <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="Price of a Staffordshire Bull Terrier puppy">price of a Staffordshire Bull Terrier puppy</a>.</div>
   </div>
-
-  <div class="faq-item active">
-  <div class="faq-question" >
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What genetic tests do you do on the breeding stock?</h3>
-  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
-  </div>
+  <div class="faq-item active n-faq">
+  <h3>What genetic tests do you do on the breeding stock?</h3>
   <div class="faq-answer">All Del Piccolo Diavolo breeding dogs are tested for <strong>L2-HGA</strong>, L-2-hydroxyglutaric aciduria, a neurological disease, and for <strong>HC</strong>, juvenile hereditary cataract (HSF4 gene), or are clear by parentage, with their parents' reports. Our dogs are also clear of <strong>degenerative myelopathy</strong> (SOD1 gene), a disease of the spinal cord that appears after eight years of age. They are all DNA tests, and all three diseases are recessive: two clear parents cannot produce affected puppies. Carriers of L2-HGA and HC are not bred. The laboratory reports are published on this site and can be downloaded, with the <strong>dog's microchip number in plain sight</strong>: that number is what makes the document verifiable, because without it it could not be linked to any particular animal.</div>
   </div>
-
-  <div class="faq-item active">
-  <div class="faq-question" >
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How many litters does the kennel have each year?</h3>
-  <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
-  </div>
+  <div class="faq-item active n-faq">
+  <h3>How many litters does the kennel have each year?</h3>
   <div class="faq-answer">One a year, occasionally two, and in some years none: the Del Piccolo Diavolo kennel does not breed litters to order and does not keep a bitch in continuous production. Every mating is planned months ahead, starting from the genetic tests of both parents and the theoretical inbreeding coefficient of the puppies. The pace can be checked without asking us anything: every litter stays published in the <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a> with its date of birth, and the number of litters each bitch has had can be checked in the ENCI stud book starting from her microchip.</div>
   </div>
-
-
   </div>
-
-  <div style="text-align:center;margin-top:1.5rem">
-  <a href="/en/faq-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="See all FAQ">See all frequently asked questions</a>
-  </div>
+  <p style="margin-top:2.4rem"><a href="/en/faq-staffordshire-bull-terrier/" class="n-vai" title="See all FAQ">See all frequently asked questions <span aria-hidden="true">→</span></a></p>
   </div>
   </section>
   <!--/BLOCCO:10-->
 
-  <section class="section">
-  <div class="section-inner" style="max-width:640px">
-  <div class="review-card">
-  <p class="review-text">&laquo;Dogs selected with care, gentle and affectionate in temperament, compact and powerful!&raquo;</p>
-  <div class="reviewer"><span>Simone Gatti</span><span class="stars">★★★★★</span></div>
-  <p style="margin-top:.6rem;font-size:.82rem;color:#6b5d52">4 September 2026 – Google</p>
-  </div>
+  <section class="n-s n-s2">
+  <div class="n-w n-cit">
+  <blockquote>Dogs selected with care, gentle and affectionate in temperament, compact and powerful!</blockquote>
+  <p class="n-chi">Simone Gatti · <span class="n-stelle">★★★★★</span></p>
+  <p class="n-orig">4 September 2026 – Google</p>
   </div>
   </section>
 
   <!--BLOCCO:11-->
-    <section class="cta-section">
+  <section class="cta-section">
   <h2>Get in touch to meet our Staffies in person</h2>
   <p>Write to us on WhatsApp and we will arrange a visit to Ostellato, to see the dogs, the house and the courtyard.</p>
   <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20write%20from%20the%20Del%20Piccolo%20Diavolo%20website" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Write to us on WhatsApp" aria-label="Write on WhatsApp – Contact us on WhatsApp for information">Write on WhatsApp</a>
   </section>
   <!--/BLOCCO:11-->
+  </div>
 ---

@@ -15,12 +15,12 @@
 {{- if eq $lang "en" }}{{ $titolo = "Guides for those looking for a kennel in Italy" }}{{ end -}}
 {{- if eq $lang "de" }}{{ $titolo = "Ratgeber für die Suche nach einer Zucht in Italien" }}{{ end -}}
 {{- with .Params.correlati }}
-<section class="section">
+<section class="section guide-correlate">
 <div class="section-inner">
 <h2 class="section-title" style="font-size:1.5rem;margin-bottom:1.2rem">{{ $titolo }}</h2>
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(240px,100%),1fr));gap:1rem">
+<div class="corr-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(240px,100%),1fr));gap:1rem">
   {{- range . }}
-  <a href="{{ .url }}" style="display:block;background:#fff;border:1px solid #ece3d4;border-radius:12px;padding:1rem 1.1rem;text-decoration:none;color:inherit;box-shadow:0 4px 14px rgba(0,0,0,.05)">
+  <a class="corr-card" href="{{ .url }}" style="display:block;background:#fff;border:1px solid #ece3d4;border-radius:12px;padding:1rem 1.1rem;text-decoration:none;color:inherit;box-shadow:0 4px 14px rgba(0,0,0,.05)">
     <span style="display:block;color:#5c4a3a;font-weight:700;font-size:1.02rem;line-height:1.3;margin-bottom:.3rem">{{ .titolo }}</span>
     {{- with .testo }}<span style="display:block;color:#4a3f35;font-size:.9rem;line-height:1.5">{{ . }}</span>{{ end }}
     <span style="display:inline-block;margin-top:.5rem;color:#8b5a2b;font-weight:700;font-size:.9rem">

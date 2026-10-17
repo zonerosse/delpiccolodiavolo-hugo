@@ -4,6 +4,7 @@ titleSeo: "Staffordshire Bull Terrier Rüden: Ahnentafel und Gentests"
 date: 2025-12-28
 lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
+notte: true
 translationKey: "maschi"
 description: "Unsere Staffordshire Bull Terrier Rüden: Lothar (Slowenischer und Italienischer Jugendchampion), Braveheart und Papillon. Gentests L2-HGA, HC (HSF4) und DM-SOD1."
 slug: "rueden-staffordshire-bull-terrier"

@@ -292,3 +292,12 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
 - "Non voglio spiattellare quanti cuccioli faccio": il sito non mostra mai quanti cuccioli, maschi o femmine sono nati.
   Tolti da cucciolate.html (Hugo e JS), ultima-cucciolata-scheda.html (resta solo "Colori"), front matter scheda.maschi/femmine
   dei diari Bilquis, riga vuota "Geborene Welpen" del diario Red Nora DE. Il gestionale non manda più n/m/f e non li scrive nei testi.
+
+## Stile "Notte" (17/10/2026, Paolo: scelta B)
+- Pagine vetrina scure (caffè, rame, oro): Home, Cuccioli, Chi siamo, Femmine, Maschi, Palmarès, Diario (elenco), Programma,
+  Recensioni, Contatti, in IT/EN/DE. Si accende con `notte: true` nel front matter (body `notte-pagina`, `assets/css/notte.css`
+  caricato da `partials/css.html`). Gli articoli del Blog e le pagine del diario restano chiari.
+- Home: struttura propria dentro `<div class="notte">` (`assets/css/home.css`, solo sulla home): niente «Continua a leggere» né
+  tendine, testi e link identici a prima; FAQ aperte come `.faq-item active n-faq` dentro `.faq-container` (schema FAQPage).
+- Contrasti: tutte le pagine Notte passano axe-core `color-contrast` (WCAG AA). Colori nuovi nel `style=""` delle pagine Notte
+  vanno ricoperti in `notte.css`, altrimenti testo scuro su fondo scuro. Bottoni rame: `linear-gradient(135deg,#9c5f2c,#7f4a1f)`.

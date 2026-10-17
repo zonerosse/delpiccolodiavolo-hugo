@@ -3,3 +3,9 @@
 {{- else -}}
 {{ errorf "Il foglio di stile assets/css/main.css non esiste: la pagina uscirebbe senza CSS." }}
 {{- end -}}
+{{- if .IsHome -}}{{- with resources.Get "css/home.css" -}}
+<style>{{ (. | minify).Content | safeCSS }}</style>
+{{- end -}}{{- end -}}
+{{- if .Params.notte -}}{{- with resources.Get "css/notte.css" -}}
+<style>{{ (. | minify).Content | safeCSS }}</style>
+{{- end -}}{{- end -}}

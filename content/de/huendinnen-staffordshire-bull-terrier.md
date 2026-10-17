@@ -3,6 +3,7 @@ title: "Staffordshire Bull Terrier Hündinnen"
 date: 2025-12-28
 lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
+notte: true
 translationKey: "femmine"
 description: "Staffordshire Bull Terrier Hündinnen: Bilquis (Top Dog Junior 2023), Queen of California, Croi Olc, Divine, Kennedy, Derry, Cattleya. Gentests L2-HGA, HC, DM-SOD1."
 slug: "huendinnen-staffordshire-bull-terrier"
