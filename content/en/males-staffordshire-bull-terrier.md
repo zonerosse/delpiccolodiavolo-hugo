@@ -130,17 +130,19 @@ custom_content: |
   <span class="section-label">Our approach</span>
   <h2 class="section-title">Ethics, health and responsible selection</h2>
 
-  <div class="intro-block">
+  <div>
   <p>At the moment Del Piccolo Diavolo has no stud dogs of its own. The three males on this page were born here and live with the families that took them as puppies. For every mating <a href="/en/parents-on-site-what-it-means/" title="&quot;Parents on site&quot;: what it really means">the stud is sought outside the kennel</a>, among English Elitebull and Irish Lackyle lines, and chosen to correct what the female lacks: if a bitch has an excellent head and movement that could be better, what she needs is a male who is sound on movement, not one as handsome as she is. Before a mating we ask the owner for the genetic test reports with the microchip number on them, not promises: if a male is tested for some conditions and not for all, we know it beforehand and we write it on that litter's page.</p>
-
-    <p style="margin-top:1rem">A stud dog weighs far more on the future of a line than a bitch does: a female produces 2 or 3 litters in her lifetime, a male can father dozens of puppies. That is why the bar for admission is higher, not lower.</p>
-  <p style="margin-top:1rem">We look at three things, in this order. <strong>Temperament</strong>: an insecure or reactive dog does not enter the programme, however correct its conformation, because a temperament fault propagates for generations and shows itself in family homes, not in the ring. <strong>Breathing</strong>: a dog that struggles after a few minutes of trotting, or suffers in the first warm weather, has a welfare problem regardless of how many titles sit in its pedigree. And <strong>type without exaggeration</strong>: a correct head and solid bone, but never at the expense of function.</p>
-  <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Our males are tested for:</p>
-  <p>✓ <strong>L2-HGA</strong> — L-2-Hydroxyglutaric Aciduria<br>
+  <p>A stud dog weighs far more on the future of a line than a bitch does: a female produces 2 or 3 litters in her lifetime, a male can father dozens of puppies. That is why the bar for admission is higher, not lower.</p>
+  <p>We look at three things, in this order.</p>
+  <div class="n-percorso">
+  <div class="n-passo"><h3>Temperament</h3><div><p>an insecure or reactive dog does not enter the programme, however correct its conformation, because a temperament fault propagates for generations and shows itself in family homes, not in the ring.</p></div></div>
+  <div class="n-passo"><h3>Breathing</h3><div><p>a dog that struggles after a few minutes of trotting, or suffers in the first warm weather, has a welfare problem regardless of how many titles sit in its pedigree.</p></div></div>
+  <div class="n-passo"><h3>And type without exaggeration</h3><div><p>a correct head and solid bone, but never at the expense of function.</p></div></div>
+  <div class="n-passo"><h3>Our males are tested for:</h3><div><p>✓ <strong>L2-HGA</strong> — L-2-Hydroxyglutaric Aciduria<br>
   ✓ <strong>HC</strong> — Hereditary Cataracts<br>
   ✓ <strong>DM-SOD1</strong> — Degenerative myelopathy<br>
-  ✓ <strong>Dentition</strong> — Complete scissor bite</p>
-  <p style="margin-top:1.2rem">We only use <strong>clear</strong> or <strong>unaffected</strong> dogs: with two clear parents, no puppy can be born affected by these diseases.</p>
+  ✓ <strong>Dentition</strong> — Complete scissor bite</p><p>We only use <strong>clear</strong> or <strong>unaffected</strong> dogs: with two clear parents, no puppy can be born affected by these diseases.</p></div></div>
+  </div>
   </div>
   </div>
   </section>

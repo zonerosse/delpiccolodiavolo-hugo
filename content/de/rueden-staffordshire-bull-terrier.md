@@ -116,16 +116,19 @@ custom_content: |
   <span class="section-label">Unser Ansatz</span>
   <h2 class="section-title">Ethik, Gesundheit und verantwortungsvolle Selektion</h2>
 
-  <div class="intro-block">
+  <div>
   <p>Im Moment hat Del Piccolo Diavolo keine eigenen Deckrüden. Die drei Rüden auf dieser Seite sind hier geboren und leben bei den Familien, die sie als Welpen aufgenommen haben. Für jede Verpaarung wird <a href="/de/eltern-vor-ort-was-das-bedeutet/" title="&quot;Eltern vor Ort&quot;: was das wirklich bedeutet">der Rüde außerhalb der Zucht gesucht</a>, in den englischen Elitebull- und irischen Lackyle-Linien, und so gewählt, dass er ausgleicht, was der Hündin fehlt: Hat eine Hündin einen ausgezeichneten Kopf und ein verbesserungsfähiges Gangwerk, braucht sie einen Rüden mit solidem Gangwerk, nicht einen, der genauso schön ist wie sie. Vor einer Verpaarung verlangen wir vom Besitzer die Befunde der Gentests mit der Mikrochipnummer darauf, keine Versprechen: Ist ein Rüde auf einige Erkrankungen getestet und nicht auf alle, wissen wir es vorher und schreiben es auf die Seite des jeweiligen Wurfs.</p>
-  <p style="margin-top:1rem">Ein Deckrüde wiegt für die Zukunft einer Linie weit schwerer als eine Hündin: eine Hündin bringt in ihrem Leben 2 oder 3 Würfe, ein Rüde kann Vater von Dutzenden Welpen sein. Deshalb sind die Anforderungen an ihn höher, nicht niedriger.</p>
-  <p style="margin-top:1rem">Wir achten auf drei Dinge, in dieser Reihenfolge. Das <strong>Wesen</strong>: ein unsicherer oder reaktiver Hund kommt nicht ins Programm, so korrekt sein Körperbau auch sein mag, denn ein Wesensfehler vererbt sich über Generationen und zeigt sich in Familien, nicht im Ring. Die <strong>Atmung</strong>: ein Hund, der nach wenigen Minuten Trab Mühe hat oder bei der ersten Wärme leidet, hat ein Wohlbefindensproblem, unabhängig von der Zahl seiner Titel. Und <strong>Typ ohne Übertreibung</strong>: korrekter Kopf und solider Knochen, aber nie auf Kosten der Funktion.</p>
-  <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Unsere Rüden sind getestet auf:</p>
-  <p>✓ <strong>L2-HGA</strong> — L-2-Hydroxyglutarazidurie<br>
+  <p>Ein Deckrüde wiegt für die Zukunft einer Linie weit schwerer als eine Hündin: eine Hündin bringt in ihrem Leben 2 oder 3 Würfe, ein Rüde kann Vater von Dutzenden Welpen sein. Deshalb sind die Anforderungen an ihn höher, nicht niedriger.</p>
+  <p>Wir achten auf drei Dinge, in dieser Reihenfolge.</p>
+  <div class="n-percorso">
+  <div class="n-passo"><h3>Das Wesen</h3><div><p>ein unsicherer oder reaktiver Hund kommt nicht ins Programm, so korrekt sein Körperbau auch sein mag, denn ein Wesensfehler vererbt sich über Generationen und zeigt sich in Familien, nicht im Ring.</p></div></div>
+  <div class="n-passo"><h3>Die Atmung</h3><div><p>ein Hund, der nach wenigen Minuten Trab Mühe hat oder bei der ersten Wärme leidet, hat ein Wohlbefindensproblem, unabhängig von der Zahl seiner Titel.</p></div></div>
+  <div class="n-passo"><h3>Und Typ ohne Übertreibung</h3><div><p>korrekter Kopf und solider Knochen, aber nie auf Kosten der Funktion.</p></div></div>
+  <div class="n-passo"><h3>Unsere Rüden sind getestet auf:</h3><div><p>✓ <strong>L2-HGA</strong> — L-2-Hydroxyglutarazidurie<br>
   ✓ <strong>HC</strong> — Hereditäre Katarakt<br>
   ✓ <strong>DM-SOD1</strong> — Degenerative Myelopathie<br>
-  ✓ <strong>Gebiss</strong> — Vollständiges Scherengebiss</p>
-  <p style="margin-top:1.2rem">Wir setzen nur <strong>freie</strong> oder <strong>nicht betroffene</strong> Hunde ein: Bei zwei freien Eltern kann kein Welpe an diesen Krankheiten erkrankt zur Welt kommen.</p>
+  ✓ <strong>Gebiss</strong> — Vollständiges Scherengebiss</p><p>Wir setzen nur <strong>freie</strong> oder <strong>nicht betroffene</strong> Hunde ein: Bei zwei freien Eltern kann kein Welpe an diesen Krankheiten erkrankt zur Welt kommen.</p></div></div>
+  </div>
   </div>
   </div>
   </section>

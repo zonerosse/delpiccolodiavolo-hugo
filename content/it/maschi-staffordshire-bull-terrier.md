@@ -130,17 +130,19 @@ custom_content: |
   <span class="section-label">Il nostro approccio</span>
   <h2 class="section-title">Etica, salute e selezione responsabile</h2>
 
-  <div class="intro-block">
+  <div>
   <p>Al momento Del Piccolo Diavolo non ha maschi riproduttori di propriet&agrave;. I tre maschi di questa pagina sono nati qui e vivono con le famiglie che li hanno presi da cuccioli. Per ogni accoppiamento <a href="/genitori-visibili-cosa-significa/" title="Genitori visibili: cosa significa">lo stallone viene cercato fuori</a>, fra le linee inglesi Elitebull e irlandesi Lackyle, e scelto per correggere quello che manca alla femmina: se una fattrice ha una testa eccellente e un movimento migliorabile, serve un maschio solido sul movimento, non uno bello quanto lei. Prima di un accoppiamento chiediamo al proprietario i referti dei test genetici con il numero di microchip sopra, non promesse: se un maschio &egrave; testato per alcune patologie e non per tutte, lo sappiamo prima e lo scriviamo nella pagina di quella cucciolata.</p>
-
-  <p style="margin-top:1rem">Un maschio riproduttore pesa molto più di una femmina sul futuro di una linea: una femmina produce 2 o 3 cucciolate in tutta la vita, un maschio può essere padre di decine di cuccioli. Per questo il criterio di ammissione è più severo, non più permissivo.</p>
-  <p style="margin-top:1rem">Guardiamo tre cose, in quest'ordine. Il <strong>carattere</strong>: un soggetto insicuro o reattivo non entra nel programma, per quanto sia corretto nella morfologia, perché un difetto caratteriale si propaga per generazioni e si manifesta nelle case delle famiglie. La <strong>respirazione</strong>: un cane che fatica dopo pochi minuti di trotto o soffre al primo caldo ha un problema di benessere, indipendentemente da quanti titoli abbia. E la <strong>tipicità senza esagerazioni</strong>: testa corretta e ossatura solida, ma non a scapito della funzionalità.</p>
-  <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">I nostri maschi sono testati per:</p>
-  <p>✓ <strong>L2-HGA</strong> — Aciduria L-2-Idrossiglutarica<br>
+  <p>Un maschio riproduttore pesa molto più di una femmina sul futuro di una linea: una femmina produce 2 o 3 cucciolate in tutta la vita, un maschio può essere padre di decine di cuccioli. Per questo il criterio di ammissione è più severo, non più permissivo.</p>
+  <p>Guardiamo tre cose, in quest'ordine.</p>
+  <div class="n-percorso">
+  <div class="n-passo"><h3>Il carattere</h3><div><p>un soggetto insicuro o reattivo non entra nel programma, per quanto sia corretto nella morfologia, perché un difetto caratteriale si propaga per generazioni e si manifesta nelle case delle famiglie.</p></div></div>
+  <div class="n-passo"><h3>La respirazione</h3><div><p>un cane che fatica dopo pochi minuti di trotto o soffre al primo caldo ha un problema di benessere, indipendentemente da quanti titoli abbia.</p></div></div>
+  <div class="n-passo"><h3>E la tipicità senza esagerazioni</h3><div><p>testa corretta e ossatura solida, ma non a scapito della funzionalità.</p></div></div>
+  <div class="n-passo"><h3>I nostri maschi sono testati per:</h3><div><p>✓ <strong>L2-HGA</strong> — Aciduria L-2-Idrossiglutarica<br>
   ✓ <strong>HC</strong> — Cataratta Ereditaria<br>
   ✓ <strong>DM-SOD1</strong> — Mielopatia degenerativa<br>
-  ✓ <strong>Dentatura</strong> — Chiusura a forbice completa</p>
-  <p style="margin-top:1.2rem">Usiamo solo soggetti <strong>esenti</strong>: con due genitori esenti nessun cucciolo può nascere malato di queste malattie.</p>
+  ✓ <strong>Dentatura</strong> — Chiusura a forbice completa</p><p>Usiamo solo soggetti <strong>esenti</strong>: con due genitori esenti nessun cucciolo può nascere malato di queste malattie.</p></div></div>
+  </div>
   </div>
   </div>
   </section>
