@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier: tipicità di razza e morfologia"
 date: 2025-02-12
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 translationKey: "standard"
 in_breve:
   - "Uno Staffy è **tipico quando tutto è in equilibrio**: testa, proporzioni, torace, ossatura, movimento e carattere."
@@ -27,7 +27,7 @@ custom_content: |
   <h1 class="hero-title">Tipicità di <em>razza</em> e morfologia</h1>
   <p class="hero-subtitle">Punti chiave dello standard FCI e interpretazione pratica</p>
   <div class="hero-meta">
-  <span>📅 12 Febbraio 2025</span>
+  <span>📅 12 febbraio 2025</span>
   <span>⏱️ 9 min lettura</span>
   </div>
   </div>
@@ -36,22 +36,22 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Standard FCI n. 76</span><span>Testa e Proporzioni</span><span>Torace e Movimento</span><span>Mantello e Colori</span><span>Carattere</span><span>Linee di Sangue</span><span>Valutazione Ring</span>
-  <span>Standard FCI n. 76</span><span>Testa e Proporzioni</span><span>Torace e Movimento</span><span>Mantello e Colori</span><span>Carattere</span><span>Linee di Sangue</span><span>Valutazione Ring</span>
+  <span>Standard FCI n. 76</span><span>Testa e proporzioni</span><span>Torace e movimento</span><span>Mantello e colori</span><span>Carattere</span><span>Linee di sangue</span><span>Valutazione in ring</span>
+  <span>Standard FCI n. 76</span><span>Testa e proporzioni</span><span>Torace e movimento</span><span>Mantello e colori</span><span>Carattere</span><span>Linee di sangue</span><span>Valutazione in ring</span>
   </div>
   </div>
 
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
-  <a aria-label="Standard e Linee — categoria del blog" href="/blog/#standard" title="Standard e Linee">Standard e Linee</a> ›
+  <a aria-label="Standard e linee — categoria del blog" href="/blog/#standard" title="Standard e linee">Standard e linee</a> ›
   <span>Tipicità e morfologia</span>
   </nav>
 
   <div class="article-container">
   <article class="article-content">
 
-  <p>Uno Staffordshire Bull Terrier è tipico quando testa, proporzioni, torace, ossatura, muscolatura e movimento stanno in equilibrio fra loro e con il carattere descritto dallo standard FCI n. 76. La testa è corta, con cranio ampio, stop marcato, muso corto ma non eccessivo, mascelle forti e chiusura a forbice; gli occhi sono rotondi e preferibilmente scuri, le orecchie a rosa o semierette, né grandi né pesanti. Il corpo è raccolto, con torace ampio e profondo, e il movimento deve essere libero e potente, con una spinta evidente dal posteriore. La tipicità però non è l'esagerazione di un singolo punto: una testa spinta o un muso troppo corto penalizzano <a href="/boas-staffordshire-bull-terrier-respirazione/" title="BOAS e respirazione nello Staffordshire Bull Terrier">respirazione e termoregolazione</a>, e in esposizione il giudice valuta l'insieme. È su questo equilibrio che si scelgono i riproduttori, prima ancora che sui titoli. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
+  <p>Uno Staffordshire Bull Terrier è tipico quando testa, proporzioni, torace, ossatura, muscolatura e movimento stanno in equilibrio fra loro e con il carattere descritto dallo standard FCI n. 76. La testa è corta, con cranio profondo e ampio, stop marcato, muso corto ma non eccessivo, mascelle forti e chiusura a forbice; gli occhi sono rotondi e preferibilmente scuri, le orecchie a rosa o semierette, né grandi né pesanti. Il corpo è raccolto, con torace ampio e profondo, e il movimento deve essere libero e potente, con una spinta evidente dal posteriore. La tipicità però non è l'esagerazione di un singolo punto: una testa spinta o un muso troppo corto penalizzano <a href="/boas-staffordshire-bull-terrier-respirazione/" title="BOAS e respirazione nello Staffordshire Bull Terrier">respirazione e termoregolazione</a>, e in esposizione il giudice valuta l'insieme. È su questo equilibrio che si scelgono i riproduttori, prima ancora che sui titoli. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
   <!--BLOCCO:2-->
   <h2>A cosa serve lo standard</h2>
@@ -62,14 +62,14 @@ custom_content: |
   <!--BLOCCO:3-->
   <h2>Aspetto generale e proporzioni</h2>
   <p>Lo Staffordshire Bull Terrier deve essere a pelo raso, ben proporzionato, di grande forza per la sua taglia, attivo e agile. L'altezza al garrese desiderata è fra 35,5 e 40,5 centimetri, legata al peso: i maschi pesano fra 12,7 e 17 chili, le femmine fra 11 e 15,4.</p>
-  <p>La proporzione che conta di più viene spesso trascurata: il cane deve essere appena più lungo che alto, raccolto, con la linea superiore orizzontale. Un cane quadrato o alto sugli arti perde la sagoma tipica della razza; un cane lungo e basso ha perso l'agilità che lo standard chiede. L'equilibrio fra sostanza e mobilità è tutto, ed è la prima cosa che un buon giudice valuta dall'altra parte del ring.</p>
+  <p>Lo standard non dà le proporzioni in numeri, ma la proporzione che conta di più viene spesso trascurata: il cane tipico è appena più lungo che alto, raccolto, con la linea superiore orizzontale. Un cane quadrato o alto sugli arti perde la sagoma tipica della razza; un cane lungo e basso ha perso l'agilità che lo standard chiede. L'equilibrio fra sostanza e mobilità è tutto, ed è la prima cosa che un buon giudice valuta dall'altra parte del ring.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
   <h2>Testa ed espressione</h2>
-  <p>La testa è il tratto più riconoscibile della razza e, purtroppo, quello più soggetto alle mode. Lo standard chiede un cranio corto e profondo, una testa larga, muscoli delle guance molto pronunciati, uno stop marcato e un <strong>muso corto</strong>. La parola «corto» qui pesa, e pesa anche il fatto che non ci sia nessuna parola che voglia dire «assente».</p>
+  <p>La testa è il tratto più riconoscibile della razza e, purtroppo, quello più soggetto alle mode. Lo standard chiede una testa corta, un cranio profondo e ampio, muscoli delle guance molto pronunciati, uno stop marcato e un <strong>muso corto</strong>. La parola «corto» qui pesa, e pesa anche il fatto che non ci sia nessuna parola che voglia dire «assente».</p>
   <p>Uno Staffordshire Bull Terrier corretto ha un muso corto rispetto al cranio ma ben presente, con narici ben sviluppate e una lunghezza sufficiente a contenere una dentatura completa e ben allineata. La tendenza di alcune linee da esposizione verso musi sempre più corti e più larghi produce teste che in foto fanno colpo e cani che ansimano all'ombra. Non è quello che descrive lo standard, e le conseguenze sono spiegate nella guida sulla <a href="/boas-staffordshire-bull-terrier-respirazione/" title="BOAS e respirazione nello Staffordshire Bull Terrier">respirazione dello Staffy</a>.</p>
-  <p>Gli occhi sono preferibilmente scuri, rotondi, di media grandezza, posizionati per guardare dritto davanti. Gli orecchi sono a rosa o semieretti; orecchi del tutto cadenti o del tutto eretti sono difetti. La bocca deve avere una chiusura a forbice: gli incisivi superiori chiudono stretti su quelli inferiori, con una dentatura completa. Prognatismo e enognatismo sono difetti gravi.</p>
+  <p>Gli occhi sono preferibilmente scuri, rotondi, di media grandezza, posizionati per guardare dritto davanti. Gli orecchi sono a rosa o semieretti; orecchi del tutto cadenti o del tutto eretti sono difetti. La bocca deve avere una chiusura a forbice: gli incisivi superiori chiudono stretti su quelli inferiori, con una dentatura completa. Prognatismo ed enognatismo sono difetti, e pesano perché toccano la funzione.</p>
   <!--/BLOCCO:4-->
 
   <!--BLOCCO:5-->
@@ -93,13 +93,13 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <h2>I difetti, e come pesarli</h2>
-  <p>Lo standard dice che qualsiasi scostamento da quanto descritto va considerato un difetto, e che la gravità del difetto deve essere in proporzione esatta alla sua entità e ai suoi effetti sulla salute e sul benessere del cane. Quest'ultima frase è la più importante di tutto il documento, ed è quella ignorata più spesso.</p>
+  <p>Lo standard dice che qualsiasi scostamento da quanto descritto va considerato un difetto, e che la gravità del difetto deve essere in proporzione alla sua gravità e ai suoi effetti sulla salute e sul benessere del cane. Quest'ultima frase è la più importante di tutto il documento, ed è quella ignorata più spesso.</p>
   <p>Letto così, un occhio un po' chiaro è una questione estetica. Un muso così corto che il cane si surriscalda, una bocca così prognata che i denti non si incontrano, o un anteriore così largo che i gomiti non passano accanto alla gabbia toracica sono difetti che toccano il benessere. Un giudice, e un allevatore, non dovrebbero trattarli allo stesso modo.</p>
   <!--/BLOCCO:8-->
 
   <!--BLOCCO:9-->
   <h2>Cosa vuol dire quando guardi una cucciolata</h2>
-  <p>A otto settimane non si giudica il potenziale da esposizione, e un allevatore che ti garantisce un campione sta tirando a indovinare. Quello che puoi valutare sono i genitori: proporzioni, dentatura, movimento e, soprattutto, come respirano dopo un po' di attività. Chiedi di vedere muovere entrambi i genitori, non solo fermi. Se puoi, chiedi di vederli in una giornata calda.</p>
+  <p>A due mesi non si giudica il potenziale da esposizione, e un allevatore che ti garantisce un campione sta tirando a indovinare. Quello che puoi valutare sono i genitori: proporzioni, dentatura, movimento e, soprattutto, come respirano dopo un po' di attività. Chiedi di vedere muovere entrambi i genitori, non solo fermi. Se puoi, chiedi di vederli in una giornata calda.</p>
   <p>Un cucciolo nato da due genitori tipici, sani e a loro agio nel proprio corpo ha molte più probabilità di diventare come loro. È tutto quello che lo standard cerca di proteggere. Come orientarsi fra le linee quando si sceglie è spiegato nella guida su <a href="/standard-linee-di-sangue-orientarsi/" title="Come scegliere la linea di sangue">come scegliere la linea di sangue di un cucciolo</a>.</p>
   <!--/BLOCCO:9-->
 
@@ -121,7 +121,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3 class="faq-question">Quali sono le caratteristiche tipiche della testa dello Staffy?</h3>
-  <div class="faq-answer">La testa &egrave; l'elemento pi&ugrave; caratterizzante della razza, e lo standard la descrive con precisione: <strong>cranio corto e largo</strong>, guance con muscolatura molto evidente, <strong>stop pronunciato</strong>, muso corto &mdash; circa un terzo della lunghezza totale della testa &mdash; e chiusura a forbice completa, con i canini che si incastrano correttamente. Le orecchie sono a rosa o semi-erette, mai pendenti n&eacute; tagliate. Gli occhi sono rotondi, di dimensione media e possibilmente scuri, con rime palpebrali scure. Quello che si valuta non &egrave; la potenza in s&eacute; ma l'equilibrio: una testa esageratamente larga o un muso troppo raccorciato non sono pi&ugrave; tipicit&agrave;, sono un difetto che porta problemi respiratori e dentali.</div>
+  <div class="faq-answer">La testa &egrave; l'elemento pi&ugrave; caratterizzante della razza, e lo standard la descrive con precisione: <strong>testa corta, cranio profondo e ampio</strong>, guance con muscolatura molto evidente, <strong>stop marcato</strong>, muso corto e chiusura a forbice perfetta, regolare e completa, con denti larghi. Le orecchie sono a rosa o semierette, n&eacute; grandi n&eacute; pesanti; cadenti o a punta sono altamente indesiderabili. Gli occhi sono rotondi, di dimensione media e possibilmente scuri, con rime palpebrali scure. Quello che si valuta non &egrave; la potenza in s&eacute; ma l'equilibrio: una testa esageratamente larga o un muso troppo raccorciato non sono pi&ugrave; tipicit&agrave;, sono un difetto che porta problemi respiratori e dentali.</div>
   </div>
 
   <div class="faq-item">
@@ -131,12 +131,12 @@ custom_content: |
 
   <div class="faq-item">
   <h3 class="faq-question">Qual è il peso ideale secondo lo standard?</h3>
-  <div class="faq-answer">Lo standard indica <strong>12,7-17 chili per i maschi</strong> e <strong>11-15,4 chili per le femmine</strong>, con un'altezza al garrese fra i 35,5 e i 40,5 centimetri in entrambi i sessi. Il rapporto fra altezza e peso deve restare in proporzione: &egrave; un cane definito grande in un corpo piccolo, ma la compattezza non significa pesantezza. Nella pratica quotidiana conta pi&ugrave; la condizione del numero: le costole devono essere palpabili senza premere, e vista dall'alto la vita deve essere riconoscibile. Lo Staffordshire Bull Terrier &egrave; goloso e ingrassa con facilit&agrave;, e il sovrappeso &egrave; il problema di salute pi&ugrave; comune della razza dopo i tre anni, con conseguenze su articolazioni, cuore e tolleranza al caldo.</div>
+  <div class="faq-answer">Lo standard indica <strong>12,7-17 chili per i maschi</strong> e <strong>11-15,4 chili per le femmine</strong>, con un'altezza al garrese fra i 35,5 e i 40,5 centimetri in entrambi i sessi. Il rapporto fra altezza e peso deve restare in proporzione: &egrave; un cane definito grande in un corpo piccolo, ma la compattezza non significa pesantezza. Nella pratica quotidiana conta pi&ugrave; la condizione del numero: le costole devono essere palpabili senza premere, e vista dall'alto la vita deve essere riconoscibile. Lo Staffordshire Bull Terrier &egrave; goloso e ingrassa con facilit&agrave;, e il sovrappeso &egrave; uno dei problemi di salute pi&ugrave; comuni della razza dopo i tre anni, con conseguenze su articolazioni, cuore e tolleranza al caldo.</div>
   </div>
 
   <div class="faq-item">
   <h3 class="faq-question">Quali test genetici sono obbligatori per un allevamento serio?</h3>
-  <div class="faq-answer">Obbligatori per legge non ce ne sono, e vale la pena dirlo chiaramente: chi non li fa non sta violando nessuna norma. Quello che esiste &egrave; uno standard di serietà condiviso, che per questa razza comprende <strong>L2-HGA</strong>, <strong>cataratta ereditaria</strong> e <strong>mielopatia degenerativa</strong>, tutte con test del DNA. Il punto non &egrave; la presenza dei test ma la loro verificabilit&agrave;: un referto conta solo se riporta il numero di microchip del cane, il nome del laboratorio e la data. Senza il microchip non &egrave; collegabile a nessun animale in particolare. Su questo sito i referti dei riproduttori sono pubblicati e scaricabili, proprio perch&eacute; chiunque possa controllarli senza chiedere niente.</div>
+  <div class="faq-answer">Obbligatori per legge non ce ne sono, e vale la pena dirlo chiaramente: chi non li fa non sta violando nessuna norma. Quello che esiste &egrave; uno standard di serietà condiviso, che per questa razza comprende <strong>L2HGA</strong>, <strong>cataratta ereditaria</strong> e <strong>mielopatia degenerativa</strong>, tutte con test del DNA. Il punto non &egrave; la presenza dei test ma la loro verificabilit&agrave;: un referto conta solo se riporta il numero di microchip del cane, il nome del laboratorio e la data. Senza il microchip non &egrave; collegabile a nessun animale in particolare. Su questo sito i referti dei riproduttori sono pubblicati e scaricabili, proprio perch&eacute; chiunque possa controllarli senza chiedere niente.</div>
   </div>
 
   </section>
@@ -144,15 +144,15 @@ custom_content: |
   <div class="related">
   <h3>Articoli correlati</h3>
   <ul>
-  <li><a href="/linee-sangue-staffordshire-bull-terrier/" title="Linee di sangue">Linee di Sangue: Storia e Genealogia</a></li>
+  <li><a href="/linee-sangue-staffordshire-bull-terrier/" title="Linee di sangue">Linee di sangue: storia e genealogia</a></li>
   <li><a href="/differenza-staffy-pitbull-amstaff/" title="Differenza razze">Differenza tra Staffy, Pitbull e Amstaff</a></li>
-  <li><a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici">Test genetici L2-HGA e HC: guida completa</a></li>
+  <li><a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici">Test genetici L2HGA e HC: guida completa</a></li>
   <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento">Consigli prima di prendere un cucciolo</a></li>
   </ul>
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
+  <a class="btn" href="/blog/" title="Torna al blog">&larr; Torna al blog</a>
 
   <p class="tags"><strong>Tag:</strong>
   <a aria-label="standard fci — categoria del blog" href="/blog/#standard" title="Articoli standard">standard fci</a>

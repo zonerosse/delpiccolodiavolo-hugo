@@ -1,7 +1,7 @@
 ---
 title: "FCI Rassestandard Staffordshire Bull Terrier"
 date: 2025-02-12
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 translationKey: "standard"
 in_breve:
   - "Ein Staffy ist **typisch, wenn alles im Gleichgewicht ist**: Kopf, Proportionen, Brust, Knochen, Bewegung und Wesen."
@@ -56,20 +56,20 @@ custom_content: |
   <!--BLOCCO:3-->
   <h2>Erscheinungsbild und Proportionen</h2>
   <p>Der Staffordshire Bull Terrier soll kurzhaarig, gut ausbalanciert, von großer Kraft für seine Größe sowie aktiv und wendig sein. Die erwünschte Widerristhöhe liegt zwischen 35,5 und 40,5 Zentimetern, im Verhältnis zum Gewicht: Rüden wiegen zwischen 12,7 und 17 Kilogramm, Hündinnen zwischen 11 und 15,4.</p>
-  <p>Die wichtigste Proportion wird oft übersehen: der Hund soll geringfügig länger als hoch sein, kurz gekoppelt, mit gerader oberer Linie. Ein quadratischer oder hochläufiger Hund verliert die charakteristische Silhouette; ein langer, niedriger Hund hat die geforderte Wendigkeit eingebüßt. Das Gleichgewicht zwischen Substanz und Beweglichkeit ist der eigentliche Punkt.</p>
+  <p>Der Standard nennt keine Proportionen in Zahlen, doch die wichtigste Proportion wird oft übersehen: der typische Hund ist geringfügig länger als hoch, kurz gekoppelt, mit gerader oberer Linie. Ein quadratischer oder hochläufiger Hund verliert die charakteristische Silhouette; ein langer, niedriger Hund hat die geforderte Wendigkeit eingebüßt. Das Gleichgewicht zwischen Substanz und Beweglichkeit ist der eigentliche Punkt.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
   <h2>Kopf und Ausdruck</h2>
-  <p>Der Kopf ist das auffälligste Merkmal der Rasse und leider dasjenige, das der Mode am stärksten unterliegt. Der Standard verlangt einen kurzen, tiefen Schädel, einen breiten Kopf, sehr ausgeprägte Wangenmuskulatur, einen deutlichen Stopp und einen <strong>kurzen Vorgesichtsschädel</strong>. Das Wort kurz leistet hier wichtige Arbeit, und ebenso das Fehlen jedes Wortes, das nicht vorhanden bedeutet.</p>
+  <p>Der Kopf ist das auffälligste Merkmal der Rasse und leider dasjenige, das der Mode am stärksten unterliegt. Der Standard verlangt einen kurzen Kopf, einen tiefen, breiten Schädel, sehr ausgeprägte Wangenmuskulatur, einen deutlichen Stopp und einen <strong>kurzen Vorgesichtsschädel</strong>. Das Wort kurz leistet hier wichtige Arbeit, und ebenso das Fehlen jedes Wortes, das nicht vorhanden bedeutet.</p>
   <p>Ein korrekter Staffordshire Bull Terrier hat einen im Verhältnis zum Schädel kurzen, aber deutlich vorhandenen Fang, mit gut entwickelten Nasenlöchern und ausreichend Länge für ein vollständiges, korrekt gestelltes Gebiss. Die Tendenz mancher Ausstellungslinien zu immer kürzeren, immer breiteren Fängen erzeugt Köpfe, die auf Fotos beeindrucken, und Hunde, die im Schatten hecheln. Das beschreibt der Standard nicht, und die Folgen erklärt der Ratgeber zur <a href="/de/boas-staffordshire-bull-terrier-atmung/" title="BOAS und Atmung beim Staffordshire Bull Terrier">Atmung des Staffy</a>.</p>
-  <p>Die Augen sind vorzugsweise dunkel, rund, mittelgroß und geradeaus blickend. Die Ohren sind Rosen- oder Halbstehohren; vollständig hängende oder vollständig stehende Ohren sind Fehler. Das Gebiss muss ein Scherengebiss sein, mit vollständigem Zahnbestand. Vor- und Rückbiss sind schwere Fehler.</p>
+  <p>Die Augen sind vorzugsweise dunkel, rund, mittelgroß und geradeaus blickend. Die Ohren sind Rosen- oder Halbstehohren; vollständig hängende oder vollständig stehende Ohren sind Fehler. Das Gebiss muss ein Scherengebiss sein, mit vollständigem Zahnbestand. Vor- und Rückbiss sind Fehler, und sie wiegen, weil sie die Funktion betreffen.</p>
   <!--/BLOCCO:4-->
 
   <!--BLOCCO:5-->
   <h2>Körper, Vorhand und Hinterhand</h2>
   <p>Der Körper ist kurz gekoppelt mit gerader Rückenlinie, breiter Front, tiefer Brust und gut gewölbten Rippen. Die Brust vermittelt Kapazität, ohne tonnenförmig zu werden, und die Unterlinie zeigt eine mäßige Aufziehung.</p>
-  <p>Die Vorderläufe sind gerade und gut beknocht, weit auseinander gestellt, die Pfoten nur leicht nach außen gedreht. Gebogene oder deutlich nach außen gedrehte Läufe sind Fehler und keine Rassemerkmale — ein verbreiteter Irrtum. Die Hinterhand ist gut bemuskelt mit gut gewinkelten Knien und tief angesetzten Sprunggelenken, und genau hier sind viele sonst gute Hunde am schwächsten, weil hintere Winkelung leicht verloren geht und schwer zurückzugewinnen ist.</p>
+  <p>Die Vorderläufe sind gerade und gut beknocht, weit auseinander gestellt, die Pfoten nur leicht nach außen gedreht. Gebogene oder deutlich nach außen gedrehte Läufe sind Fehler und keine Rassemerkmale: ein verbreiteter Irrtum. Die Hinterhand ist gut bemuskelt mit gut gewinkelten Knien und tief angesetzten Sprunggelenken, und genau hier sind viele sonst gute Hunde am schwächsten, weil hintere Winkelung leicht verloren geht und schwer zurückzugewinnen ist.</p>
   <p>Die Rute ist mittellang, tief angesetzt, sich verjüngend, eher tief getragen und niemals über dem Rücken eingerollt.</p>
   <!--/BLOCCO:5-->
 
@@ -87,13 +87,13 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <h2>Fehler und ihre Gewichtung</h2>
-  <p>Der Standard hält fest, dass jede Abweichung als Fehler zu betrachten ist und dass die Schwere des Fehlers in genauem Verhältnis zu seinem Ausmaß und seiner Auswirkung auf Gesundheit und Wohlbefinden des Hundes stehen soll. Dieser letzte Satz ist der wichtigste des gesamten Dokuments — und der am häufigsten übergangene.</p>
+  <p>Der Standard hält fest, dass jede Abweichung als Fehler zu betrachten ist und dass die Schwere des Fehlers im Verhältnis zu seiner Schwere und seiner Auswirkung auf Gesundheit und Wohlbefinden des Hundes stehen soll. Dieser letzte Satz ist der wichtigste des gesamten Dokuments, und der am häufigsten übergangene.</p>
   <p>So gelesen ist ein etwas helles Auge eine kosmetische Frage. Ein so kurzer Fang, dass der Hund überhitzt, ein so starker Vorbiss, dass Zähne nicht aufeinandertreffen, oder eine so breite Front, dass die Ellenbogen den Brustkorb nicht freibekommen, sind Wohlbefindensfehler. Ein Richter, und ein Züchter, sollten sie nicht gleichsetzen.</p>
   <!--/BLOCCO:8-->
 
   <!--BLOCCO:9-->
   <h2>Was das bei der Betrachtung eines Wurfes bedeutet</h2>
-  <p>Mit 8 Wochen beurteilen Sie kein Ausstellungspotenzial, und wer Ihnen einen Champion garantiert, rät. Beurteilen können Sie die Eltern: Proportionen, Gebiss, Bewegung und vor allem die Atmung nach Belastung. Bitten Sie darum, beide Elterntiere in Bewegung zu sehen, nicht nur im Stand — und wenn möglich an einem warmen Tag.</p>
+  <p>Mit zwei Monaten beurteilen Sie kein Ausstellungspotenzial, und wer Ihnen einen Champion garantiert, rät. Beurteilen können Sie die Eltern: Proportionen, Gebiss, Bewegung und vor allem die Atmung nach Belastung. Bitten Sie darum, beide Elterntiere in Bewegung zu sehen, nicht nur im Stand, und wenn möglich an einem warmen Tag.</p>
   <p>Ein Welpe aus zwei typvollen, gesunden Eltern, die sich in ihrem eigenen Körper wohlfühlen, wird mit weit größerer Wahrscheinlichkeit ebenso. Genau das will der Standard schützen. Wie man sich bei der Wahl zwischen den Linien zurechtfindet, erklärt der Ratgeber <a href="/de/blutlinien-waehlen/" title="Staffy Blutlinien wählen">Blutlinien wählen</a>.</p>
   <!--/BLOCCO:9-->
 
@@ -116,7 +116,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was sind die typischen Merkmale des Staffy-Kopfes?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Der Kopf ist das charakteristischste Merkmal der Rasse, und der Standard beschreibt ihn genau: ein <strong>kurzer, breiter Schädel</strong>, sehr ausgeprägte Backenmuskulatur, ein <strong>deutlicher Stop</strong>, ein kurzer Fang &mdash; etwa ein Drittel der gesamten Kopflänge &mdash; und ein vollständiges Scherengebiss, bei dem die Eckzähne richtig ineinandergreifen. Die Ohren sind Rosen- oder Halbstehohren, nie hängend und nie kupiert. Die Augen sind rund, mittelgroß und möglichst dunkel, mit dunklen Lidrändern. Bewertet wird nicht die Kraft an sich, sondern das Gleichgewicht: Ein übertrieben breiter Kopf oder ein zu stark verkürzter Fang sind kein Typ mehr, sondern ein Fehler, der Atem- und <a href="/de/staffy-zahnpflege/" title="Zahnpflege und Mundhygiene für Staffordshire Bull Terrier">Zahnprobleme</a> mit sich bringt.</div>
+  <div class="faq-answer">Der Kopf ist das charakteristischste Merkmal der Rasse, und der Standard beschreibt ihn genau: ein <strong>kurzer Kopf mit tiefem, breitem Schädel</strong>, sehr ausgeprägte Backenmuskulatur, ein <strong>deutlicher Stop</strong>, ein kurzer Fang und ein perfektes, regelmäßiges und vollständiges Scherengebiss mit großen Zähnen. Die Ohren sind Rosen- oder Halbstehohren, weder groß noch schwer; hängende oder Stehohren sind höchst unerwünscht. Die Augen sind rund, mittelgroß und möglichst dunkel, mit dunklen Lidrändern. Bewertet wird nicht die Kraft an sich, sondern das Gleichgewicht: Ein übertrieben breiter Kopf oder ein zu stark verkürzter Fang sind kein Typ mehr, sondern ein Fehler, der Atem- und <a href="/de/staffy-zahnpflege/" title="Zahnpflege und Mundhygiene für Staffordshire Bull Terrier">Zahnprobleme</a> mit sich bringt.</div>
   </div>
 
   <div class="faq-item active">
@@ -132,7 +132,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was ist das ideale Gewicht nach dem Standard?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Der Standard nennt <strong>12,7 bis 17 Kilogramm für Rüden</strong> und <strong>11 bis 15,4 Kilogramm für Hündinnen</strong>, bei einer Widerristhöhe von 35,5 bis 40,5 Zentimetern in beiden Geschlechtern. Gewicht und Größe müssen im Verhältnis stehen: ein großer Hund in einem kleinen Körper, aber Kompaktheit heißt nicht Schwere. Im Alltag zählt die Kondition mehr als die Zahl: Die Rippen müssen ohne Druck fühlbar sein, und von oben muss die Taille erkennbar sein. Der Staffordshire Bull Terrier ist verfressen und nimmt leicht zu, und Übergewicht ist nach dem dritten Lebensjahr das häufigste Gesundheitsproblem der Rasse, mit Folgen für Gelenke, Herz und Hitzetoleranz.</div>
+  <div class="faq-answer">Der Standard nennt <strong>12,7 bis 17 Kilogramm für Rüden</strong> und <strong>11 bis 15,4 Kilogramm für Hündinnen</strong>, bei einer Widerristhöhe von 35,5 bis 40,5 Zentimetern in beiden Geschlechtern. Gewicht und Größe müssen im Verhältnis stehen: ein großer Hund in einem kleinen Körper, aber Kompaktheit heißt nicht Schwere. Im Alltag zählt die Kondition mehr als die Zahl: Die Rippen müssen ohne Druck fühlbar sein, und von oben muss die Taille erkennbar sein. Der Staffordshire Bull Terrier ist verfressen und nimmt leicht zu, und Übergewicht ist nach dem dritten Lebensjahr eines der häufigsten Gesundheitsprobleme der Rasse, mit Folgen für Gelenke, Herz und Hitzetoleranz.</div>
   </div>
 
   <div class="faq-item active">
@@ -140,7 +140,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Welche Gentests sind für eine seriöse Zucht Pflicht?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Gesetzlich vorgeschrieben ist keiner, und das sollte man klar sagen: Wer nicht testet, verstößt gegen keine Vorschrift. Was es gibt, ist ein gemeinsamer Maßstab an Seriosität, der bei dieser Rasse L2-HGA, erblichen Katarakt und degenerative Myelopathie umfasst, alle mit DNA-Tests. Entscheidend ist nicht, dass Tests gemacht wurden, sondern dass sie überprüfbar sind: Ein Befund zählt nur, wenn er die Mikrochipnummer des Hundes, den Namen des Labors und das Datum trägt. Ohne Mikrochip lässt er sich keinem bestimmten Tier zuordnen. Auf dieser Website sind die Befunde der Zuchttiere veröffentlicht und herunterladbar, damit jeder sie prüfen kann, ohne uns fragen zu müssen.</div>
+  <div class="faq-answer">Gesetzlich vorgeschrieben ist keiner, und das sollte man klar sagen: Wer nicht testet, verstößt gegen keine Vorschrift. Was es gibt, ist ein gemeinsamer Maßstab an Seriosität, der bei dieser Rasse L2HGA, erblichen Katarakt und degenerative Myelopathie umfasst, alle mit DNA-Tests. Entscheidend ist nicht, dass Tests gemacht wurden, sondern dass sie überprüfbar sind: Ein Befund zählt nur, wenn er die Mikrochipnummer des Hundes, den Namen des Labors und das Datum trägt. Ohne Mikrochip lässt er sich keinem bestimmten Tier zuordnen. Auf dieser Website sind die Befunde der Zuchttiere veröffentlicht und herunterladbar, damit jeder sie prüfen kann, ohne uns fragen zu müssen.</div>
   </div>
 
   </div>
@@ -155,7 +155,7 @@ custom_content: |
   <li><a href="/de/blutlinien-waehlen/" title="Staffordshire Bull Terrier Blutlinien richtig wählen">Staffordshire Bull Terrier Blutlinien richtig wählen</a></li>
   <li><a href="/de/staffy-blutlinien-guide/" title="Staffy-Blutlinien: die Geschichte der sechs Linien">Staffy-Blutlinien: die Geschichte der sechs Linien</a></li>
   <li><a href="/de/staffy-pitbull-amstaff-unterschied/" title="Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich">Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich</a></li>
-  <li><a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)">Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)</a></li>
+  <li><a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2HGA, HC (HSF4) und DM (SOD1)">Staffy Gentests: L2HGA, HC (HSF4) und DM (SOD1)</a></li>
   <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Seriöse Staffordshire Bull Terrier Zucht erkennen">Seriöse Staffordshire Bull Terrier Zucht erkennen</a></li>
   </ul>
   </div>
