@@ -2,7 +2,7 @@
 title: "Cuccioli: educazione ai bisogni"
 date: 2025-05-22
 titleSeo: "Educare il cucciolo ai bisogni: metodo e tempi reali"
-lastmod: 2026-10-05
+lastmod: 2026-10-17
 translationKey: "bisogni"
 articolo: true
 image: "/images/blog/cucciolo-ritratto-hero.webp"
@@ -24,7 +24,7 @@ custom_content: |
   <h1 class="hero-title">Educazione ai <em>bisogni</em></h1>
   <p class="hero-subtitle">Quanto ci vuole davvero, i cinque momenti e gli incidenti</p>
   <div class="hero-meta">
-  <span>📅 22 Maggio 2025</span>
+  <span>📅 22 maggio 2025</span>
   <span>⏱️ 5 min lettura</span>
   </div>
   </div>
@@ -33,8 +33,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Tempi Reali</span><span>I Cinque Momenti</span><span>Cosa Fare Fuori</span><span>Incidenti in Casa</span><span>Le Notti</span><span>Traversine</span>
-  <span>Tempi Reali</span><span>I Cinque Momenti</span><span>Cosa Fare Fuori</span><span>Incidenti in Casa</span><span>Le Notti</span><span>Traversine</span>
+  <span>Tempi reali</span><span>I cinque momenti</span><span>Cosa fare fuori</span><span>Incidenti in casa</span><span>Le notti</span><span>Traversine</span>
+  <span>Tempi reali</span><span>I cinque momenti</span><span>Cosa fare fuori</span><span>Incidenti in casa</span><span>Le notti</span><span>Traversine</span>
   </div>
   </div>
 
@@ -48,12 +48,12 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>Insegnare i bisogni a un cucciolo di Staffordshire Bull Terrier è una questione di tempi e di prevedibilità, non di punizioni. Un cucciolo di otto settimane non trattiene la vescica per più di una o due ore; una regola pratica è <strong>circa un'ora per ogni mese di età, più una</strong>, e meno quando è sveglio e attivo. Va portato fuori nei momenti prevedibili &mdash; appena sveglio, dopo il pasto, dopo il gioco e prima di dormire &mdash; e premiato fuori, subito dopo che ha finito, non quando rientra in casa. Le punizioni per gli incidenti non funzionano: il cucciolo non collega la reazione a qualcosa fatto minuti prima, impara che farla davanti a te è pericoloso e comincia a nascondersi dietro il divano. Si pulisce con un detergente enzimatico, mai con l'ammoniaca. La maggior parte dei cuccioli è affidabile di giorno a quattro mesi e asciutta di notte fra i quattro e i sei.</p>
+  <p>Insegnare i bisogni a un cucciolo di Staffordshire Bull Terrier è una questione di tempi e di prevedibilità, non di punizioni. Un cucciolo di due mesi, da sveglio, non trattiene la vescica per più di una o due ore; una regola pratica, che vale soprattutto quando dorme, è <strong>circa un'ora per ogni mese di età, più una</strong>. Va portato fuori nei momenti prevedibili (appena sveglio, dopo il pasto, dopo il gioco e prima di dormire) e premiato fuori, subito dopo che ha finito, non quando rientra in casa. Le punizioni per gli incidenti non funzionano: il cucciolo non collega la reazione a qualcosa fatto minuti prima, impara che farla davanti a te è pericoloso e comincia a nascondersi dietro il divano. Si pulisce con un detergente enzimatico, mai con l'ammoniaca. La maggior parte dei cuccioli è affidabile di giorno a quattro mesi e asciutta di notte fra i quattro e i sei.</p>
 
   <!--BLOCCO:2-->
   <h2>Quanto ci vuole davvero</h2>
-  <p>L'educazione ai bisogni non è una questione di intelligenza e non si può accelerare, perché dipende dallo sviluppo fisico. Un cucciolo di otto settimane non trattiene la vescica per più di una o due ore, e il controllo completo non arriva prima dei quattro-sei mesi. La maggior parte dei cuccioli è affidabile di giorno a quattro mesi e stabilmente asciutta di notte fra i quattro e i sei.</p>
-  <p>Una regola pratica: un cucciolo regge circa un'ora per ogni mese di età, più una. Un cucciolo di tre mesi arriva quindi a quattro ore al massimo, e a molto meno quando è sveglio e in attività.</p>
+  <p>L'educazione ai bisogni non è una questione di intelligenza e non si può accelerare, perché dipende dallo sviluppo fisico. Un cucciolo di due mesi, da sveglio, non trattiene la vescica per più di una o due ore, e il controllo completo non arriva prima dei quattro-sei mesi. La maggior parte dei cuccioli è affidabile di giorno a quattro mesi e stabilmente asciutta di notte fra i quattro e i sei.</p>
+  <p>Una regola pratica, che vale soprattutto quando dorme: un cucciolo regge circa un'ora per ogni mese di età, più una. Un cucciolo di tre mesi arriva quindi a quattro ore al massimo, e a molto meno quando è sveglio e in attività.</p>
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
@@ -65,7 +65,7 @@ custom_content: |
   <!--BLOCCO:4-->
   <h2>Cosa fare fuori</h2>
   <p>Si sceglie un posto e si va sempre in quello. L'odore residuo stimola il comportamento, e la costanza accorcia il processo in modo considerevole.</p>
-  <p>Si aspetta in silenzio, senza incoraggiare né giocare, perché un cucciolo intrattenuto si dimentica perché è uscito. Quando fa, il premio arriva subito e con entusiasmo &mdash; entro due secondi, non una volta rientrati in casa, che insegna un'associazione completamente sbagliata.</p>
+  <p>Si aspetta in silenzio, senza incoraggiare né giocare, perché un cucciolo intrattenuto si dimentica perché è uscito. Quando fa, il premio arriva subito e con entusiasmo, entro due secondi, non una volta rientrati in casa, che insegna un'associazione completamente sbagliata.</p>
   <p>Si aggiunge una parola detta a bassa voce mentre il cucciolo sta facendo, sempre la stessa. Nel giro di qualche settimana la maggior parte dei cuccioli ci risponde, ed è preziosa sotto la pioggia, prima di un viaggio in auto o in un posto sconosciuto.</p>
   <!--/BLOCCO:4-->
 
@@ -80,13 +80,13 @@ custom_content: |
   <!--BLOCCO:6-->
   <h2>Le notti</h2>
   <p>Nelle prime settimane la cuccia o il kennel stanno dove si dorme. Un cucciolo che ti sente si tranquillizza prima, e tu lo senti quando ha bisogno di uscire. L'acqua si toglie un'ora prima di andare a letto, ma non si limita mai durante il giorno.</p>
-  <p>Fra le otto e le dieci settimane ci si aspettano una o due uscite per notte, che di solito diventano una entro le dodici settimane e nessuna entro i quattro mesi. Le uscite notturne devono essere noiose: niente parole, niente gioco, niente luce se si riesce. Fuori, aspettare, di nuovo a letto.</p>
+  <p>Nelle prime settimane a casa ci si aspettano una o due uscite per notte, che di solito diventano una entro le dodici settimane e nessuna entro i quattro mesi. Le uscite notturne devono essere noiose: niente parole, niente gioco, niente luce se si riesce. Fuori, aspettare, di nuovo a letto.</p>
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->
   <h2>Traversine: il verdetto onesto</h2>
   <p>Risolvono un problema al proprietario e ne creano uno al cucciolo. Una traversina insegna che sporcare in casa su una superficie morbida e assorbente va bene, e anche un tappeto è una superficie morbida e assorbente. I cuccioli educati sulla traversina in genere impiegano più tempo a diventare affidabili fuori, perché prima devono disimparare l'abitudine di casa.</p>
-  <p>Hanno un senso in presenza di vincoli veri &mdash; un quinto piano senza ascensore con le scale in comune, un proprietario con problemi di mobilità, un cucciolo di otto settimane in una notte in cui scendere è impossibile. Usate per comodità, costano settimane.</p>
+  <p>Hanno un senso in presenza di vincoli veri: un quinto piano senza ascensore con le scale in comune, un proprietario con problemi di mobilità, un cucciolo appena arrivato in una notte in cui scendere è impossibile. Usate per comodità, costano settimane.</p>
   <!--/BLOCCO:7-->
 
   <!--BLOCCO:8-->
@@ -113,7 +113,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
+  <a class="btn" href="/blog/" title="Torna al blog">&larr; Torna al blog</a>
 
   <p class="tags"><strong>Tag:</strong>
   <a aria-label="cuccioli — categoria del blog" href="/blog/#cuccioli" title="Articoli cuccioli">cuccioli</a>

@@ -2,7 +2,7 @@
 title: "Puppies: potty training"
 date: 2025-05-22
 titleSeo: "Puppy potty training: method, timing and setbacks"
-lastmod: 2026-10-05
+lastmod: 2026-10-17
 translationKey: "bisogni"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -33,8 +33,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Outing Routine</span><span>Warning Signs</span><span>Positive Reinforcement</span><span>Accident Management</span><span>Potty Pads</span><span>Weekly Progression</span>
-  <span>Outing Routine</span><span>Warning Signs</span><span>Positive Reinforcement</span><span>Accident Management</span><span>Potty Pads</span><span>Weekly Progression</span>
+  <span>Outing routine</span><span>Warning signs</span><span>Positive reinforcement</span><span>Accident management</span><span>Potty pads</span><span>Weekly progression</span>
+  <span>Outing routine</span><span>Warning signs</span><span>Positive reinforcement</span><span>Accident management</span><span>Potty pads</span><span>Weekly progression</span>
   </div>
   </div>
 
@@ -48,14 +48,14 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>House training a Staffordshire Bull Terrier puppy depends on physical development, not intelligence, so it cannot be rushed. A puppy of 8 weeks cannot hold its bladder for more than one or two hours; a useful rule of thumb is about one hour per month of age plus one, and less while the puppy is awake and active. Take it out at the predictable moments, after waking, after eating, after play and before sleep, and reward it outside, straight after it has finished. Never punish accidents: the puppy does not connect your reaction with something it did minutes earlier, it learns that going in front of you is dangerous and starts hiding behind the sofa instead. Clean with an enzymatic cleaner, never with ammonia. Most puppies are reliable by day at four months and dry overnight between four and six. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>House training a Staffordshire Bull Terrier puppy depends on physical development, not intelligence, so it cannot be rushed. A puppy of two months, while awake, cannot hold its bladder for more than one or two hours; a useful rule of thumb, mostly for when it sleeps, is about one hour per month of age plus one. Take it out at the predictable moments, after waking, after eating, after play and before sleep, and reward it outside, straight after it has finished. Never punish accidents: the puppy does not connect your reaction with something it did minutes earlier, it learns that going in front of you is dangerous and starts hiding behind the sofa instead. Clean with an enzymatic cleaner, never with ammonia. Most puppies are reliable by day at four months and dry overnight between four and six. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
 
 
   <!--BLOCCO:2-->
   <h2>How long it really takes</h2>
-  <p>House training is not a matter of intelligence and it cannot be rushed, because it depends on physical development. A puppy of 8 weeks cannot hold its bladder for more than 1 to 2 hours, and full control does not arrive until 4 to 6 months. Most puppies are reliable during the day by 4 months and reliably dry overnight between four and six.</p>
-  <p>A useful rule of thumb: a puppy can hold on for roughly 1 hour per month of age, plus one. A three-month-old puppy therefore manages about 4 hours at best, and considerably less when awake and active.</p>
+  <p>House training is not a matter of intelligence and it cannot be rushed, because it depends on physical development. A puppy of two months, while awake, cannot hold its bladder for more than 1 to 2 hours, and full control does not arrive until 4 to 6 months. Most puppies are reliable during the day by 4 months and reliably dry overnight between four and six.</p>
+  <p>A useful rule of thumb, mostly for when it sleeps: a puppy can hold on for roughly 1 hour per month of age, plus one. A three-month-old puppy therefore manages about 4 hours at best, and considerably less when awake and active.</p>
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
@@ -67,7 +67,7 @@ custom_content: |
   <!--BLOCCO:4-->
   <h2>What to do outside</h2>
   <p>Choose one spot and always go to it. The residual scent prompts the behaviour, and consistency shortens the process considerably.</p>
-  <p>Wait in silence rather than encouraging or playing, because a puppy that is entertained forgets why it came out. When it performs, reward immediately and enthusiastically — within 2 seconds, not once you are back indoors, which teaches the wrong association entirely.</p>
+  <p>Wait in silence rather than encouraging or playing, because a puppy that is entertained forgets why it came out. When it performs, reward immediately and enthusiastically, within 2 seconds, not once you are back indoors, which teaches the wrong association entirely.</p>
   <p>Add a quiet verbal cue while the puppy is in the act, always the same word. Within a few weeks most puppies will respond to it, which is invaluable in the rain, before a car journey, or in an unfamiliar place.</p>
   <!--/BLOCCO:4-->
 
@@ -82,13 +82,13 @@ custom_content: |
   <!--BLOCCO:6-->
   <h2>Nights</h2>
   <p>Put the crate or bed where you sleep for the first weeks. A puppy that can hear you settles faster, and you hear it when it needs to go out. Remove water an hour before bed but never restrict water during the day.</p>
-  <p>Expect one or two outings during the night at 8 to 10 weeks, usually reducing to one by 12 weeks and none by 4 months. Keep night outings boring: no talking, no play, no light if you can manage it. Out, wait, back to bed.</p>
+  <p>Expect one or two outings during the night in the first weeks at home, usually reducing to one by 12 weeks and none by 4 months. Keep night outings boring: no talking, no play, no light if you can manage it. Out, wait, back to bed.</p>
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->
   <h2>Puppy pads: the honest verdict</h2>
   <p>They solve a problem for the owner and create one for the puppy. A pad teaches that relieving oneself indoors on a soft absorbent surface is acceptable, and a rug is also a soft absorbent surface. Puppies trained on pads generally take longer to become reliable outdoors, because they must first unlearn the indoor habit.</p>
-  <p>They have a place in genuine constraints — a fifth-floor flat with no lift and a shared stairwell, an owner with mobility limits, an eight-week-old puppy on a night when going down is impossible. Used as a convenience, they cost weeks.</p>
+  <p>They have a place in genuine constraints: a fifth-floor flat with no lift and a shared stairwell, an owner with mobility limits, a newly arrived puppy on a night when going down is impossible. Used as a convenience, they cost weeks.</p>
   <!--/BLOCCO:7-->
 
   <!--BLOCCO:8-->
@@ -115,7 +115,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
+  <a class="btn" href="/en/blog/" title="Back to the blog">&larr; Back to the blog</a>
 
   <p class="tags"><strong>Tags:</strong>
   <a aria-label="puppies — blog category" href="/en/blog/#puppies" title="Puppy articles">puppies</a>

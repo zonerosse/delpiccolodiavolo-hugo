@@ -2,7 +2,7 @@
 title: "Welpen: Stubenreinheit"
 date: 2025-05-22
 titleSeo: "Welpen stubenrein machen: Methode und Zeitrahmen"
-lastmod: 2026-10-05
+lastmod: 2026-10-17
 translationKey: "bisogni"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -33,8 +33,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Ausgangsroutine</span><span>Warnsignale</span><span>Positive Verstärkung</span><span>Unfallmanagement</span><span>Welpenunterlagen</span><span>Wöchentlicher Fortschritt</span>
-  <span>Ausgangsroutine</span><span>Warnsignale</span><span>Positive Verstärkung</span><span>Unfallmanagement</span><span>Welpenunterlagen</span><span>Wöchentlicher Fortschritt</span>
+  <span>Ausgangsroutine</span><span>Warnsignale</span><span>Positive Verstärkung</span><span>Missgeschicke</span><span>Welpenunterlagen</span><span>Fortschritt Woche für Woche</span>
+  <span>Ausgangsroutine</span><span>Warnsignale</span><span>Positive Verstärkung</span><span>Missgeschicke</span><span>Welpenunterlagen</span><span>Fortschritt Woche für Woche</span>
   </div>
   </div>
 
@@ -48,14 +48,14 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>Die Stubenreinheit eines Staffordshire Bull Terrier Welpen hängt von der körperlichen Entwicklung ab, nicht von der Intelligenz, und lässt sich deshalb nicht beschleunigen. Ein Welpe von 8 Wochen kann die Blase höchstens ein bis zwei Stunden halten; als Faustregel gilt etwa eine Stunde je Lebensmonat plus eins, und weniger, solange er wach und aktiv ist. Bringen Sie ihn in den vorhersehbaren Momenten hinaus, nach dem Aufwachen, nach dem Fressen, nach dem Spielen und vor dem Schlafen, und belohnen Sie ihn draußen, gleich wenn er fertig ist. Strafen Sie Missgeschicke nie: Der Welpe verbindet Ihre Reaktion nicht mit etwas von vor Minuten, er lernt nur, dass es gefährlich ist, sich vor Ihnen zu lösen, und geht hinter das Sofa. Reinigen Sie mit Enzymreiniger, nie mit Ammoniak. Tagsüber sind die meisten Welpen mit vier Monaten zuverlässig, nachts zwischen vier und sechs. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
+  <p>Die Stubenreinheit eines Staffordshire Bull Terrier Welpen hängt von der körperlichen Entwicklung ab, nicht von der Intelligenz, und lässt sich deshalb nicht beschleunigen. Ein Welpe von zwei Monaten kann die Blase im Wachzustand höchstens ein bis zwei Stunden halten; als Faustregel, vor allem im Schlaf, gilt etwa eine Stunde je Lebensmonat plus eins. Bringen Sie ihn in den vorhersehbaren Momenten hinaus, nach dem Aufwachen, nach dem Fressen, nach dem Spielen und vor dem Schlafen, und belohnen Sie ihn draußen, gleich wenn er fertig ist. Strafen Sie Missgeschicke nie: Der Welpe verbindet Ihre Reaktion nicht mit etwas von vor Minuten, er lernt nur, dass es gefährlich ist, sich vor Ihnen zu lösen, und geht hinter das Sofa. Reinigen Sie mit Enzymreiniger, nie mit Ammoniak. Tagsüber sind die meisten Welpen mit vier Monaten zuverlässig, nachts zwischen vier und sechs. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
 
 
   <!--BLOCCO:2-->
   <h2>Wie lange es wirklich dauert</h2>
-  <p>Stubenreinheit ist keine Frage der Intelligenz und lässt sich nicht beschleunigen, weil sie von der körperlichen Entwicklung abhängt. Ein Welpe von 8 Wochen kann die Blase nicht länger als ein bis 2 Stunden halten, und volle Kontrolle entsteht erst mit 4 bis 6 Monaten. Die meisten Welpen sind tagsüber mit 4 Monaten zuverlässig und nachts zwischen 4 und 6 Monaten trocken.</p>
-  <p>Eine brauchbare Faustregel: ein Welpe hält etwa eine Stunde je Lebensmonat plus eine. Ein dreimonatiger Welpe schafft also bestenfalls 4 Stunden, wach und aktiv deutlich weniger.</p>
+  <p>Stubenreinheit ist keine Frage der Intelligenz und lässt sich nicht beschleunigen, weil sie von der körperlichen Entwicklung abhängt. Ein Welpe von zwei Monaten kann die Blase im Wachzustand nicht länger als ein bis 2 Stunden halten, und volle Kontrolle entsteht erst mit 4 bis 6 Monaten. Die meisten Welpen sind tagsüber mit 4 Monaten zuverlässig und nachts zwischen 4 und 6 Monaten trocken.</p>
+  <p>Eine brauchbare Faustregel, vor allem im Schlaf: ein Welpe hält etwa eine Stunde je Lebensmonat plus eine. Ein dreimonatiger Welpe schafft also bestenfalls 4 Stunden, wach und aktiv deutlich weniger.</p>
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
@@ -67,7 +67,7 @@ custom_content: |
   <!--BLOCCO:4-->
   <h2>Was draußen zu tun ist</h2>
   <p>Wählen Sie eine Stelle und gehen Sie immer dorthin. Der verbliebene Geruch löst das Verhalten aus, und Beständigkeit verkürzt den Prozess erheblich.</p>
-  <p>Warten Sie schweigend, statt zu ermuntern oder zu spielen, denn ein unterhaltener Welpe vergisst, weshalb er draußen ist. Belohnen Sie sofort und deutlich, sobald er sich löst — innerhalb von 2 Sekunden, nicht erst drinnen, was eine völlig falsche Verknüpfung schafft.</p>
+  <p>Warten Sie schweigend, statt zu ermuntern oder zu spielen, denn ein unterhaltener Welpe vergisst, weshalb er draußen ist. Belohnen Sie sofort und deutlich, sobald er sich löst, innerhalb von 2 Sekunden, nicht erst drinnen, was eine völlig falsche Verknüpfung schafft.</p>
   <p>Sagen Sie währenddessen leise immer dasselbe Wort. Nach wenigen Wochen reagieren die meisten Welpen darauf, was im Regen, vor einer Autofahrt oder an fremden Orten unbezahlbar ist.</p>
   <!--/BLOCCO:4-->
 
@@ -82,13 +82,13 @@ custom_content: |
   <!--BLOCCO:6-->
   <h2>Nächte</h2>
   <p>Stellen Sie Box oder Bett in den ersten Wochen in Ihr Schlafzimmer. Ein Welpe, der Sie hört, beruhigt sich schneller, und Sie hören, wenn er hinaus muss. Nehmen Sie das Wasser eine Stunde vor dem Schlafen weg, aber schränken Sie es tagsüber nie ein.</p>
-  <p>Rechnen Sie mit ein bis zwei nächtlichen Gängen mit 8 bis 10 Wochen, meist nur noch einem mit 12 Wochen und keinem mehr mit 4 Monaten. Halten Sie diese Gänge langweilig: nicht sprechen, nicht spielen, möglichst kein Licht. Raus, warten, zurück ins Bett.</p>
+  <p>Rechnen Sie in den ersten Wochen zu Hause mit ein bis zwei nächtlichen Gängen, meist nur noch einem mit 12 Wochen und keinem mehr mit 4 Monaten. Halten Sie diese Gänge langweilig: nicht sprechen, nicht spielen, möglichst kein Licht. Raus, warten, zurück ins Bett.</p>
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->
   <h2>Welpenunterlagen: die ehrliche Einschätzung</h2>
-  <p>Sie lösen ein Problem des Halters und schaffen eines für den Welpen. Eine Unterlage lehrt, dass das Lösen drinnen auf weichem saugendem Untergrund in Ordnung ist — und ein Teppich ist ebenfalls weich und saugend. Auf Unterlagen erzogene Welpen brauchen in der Regel länger, bis sie draußen zuverlässig sind, weil sie erst umlernen müssen.</p>
-  <p>Ihren Platz haben sie bei echten Zwängen: vierter Stock ohne Aufzug, eingeschränkte Mobilität des Halters, ein 8 Wochen alter Welpe in einer Nacht, in der das Hinuntergehen unmöglich ist. Als Bequemlichkeit verwendet kosten sie Wochen.</p>
+  <p>Sie lösen ein Problem des Halters und schaffen eines für den Welpen. Eine Unterlage lehrt, dass das Lösen drinnen auf weichem saugendem Untergrund in Ordnung ist, und ein Teppich ist ebenfalls weich und saugend. Auf Unterlagen erzogene Welpen brauchen in der Regel länger, bis sie draußen zuverlässig sind, weil sie erst umlernen müssen.</p>
+  <p>Ihren Platz haben sie bei echten Zwängen: vierter Stock ohne Aufzug, eingeschränkte Mobilität des Halters, ein gerade eingezogener Welpe in einer Nacht, in der das Hinuntergehen unmöglich ist. Als Bequemlichkeit verwendet kosten sie Wochen.</p>
   <!--/BLOCCO:7-->
 
   <!--BLOCCO:8-->
