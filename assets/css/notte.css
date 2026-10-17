@@ -252,3 +252,13 @@ body.notte-pagina .footer-links a{padding:.3rem 0!important}
 body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(243,233,220,.12);padding-top:1.4rem;margin-top:2rem!important}
 }
 .notte-pagina .hero-trust{color:var(--n-mu);font-size:.75rem!important;letter-spacing:.14em;margin:1.2rem 0 0}
+/* Femmine (scelta A di Paolo, 17/10/2026): schede a righe, senza riquadro, foto 4:5 a sinistra. Solo grafica. */
+.notte-pagina .female-card{background:transparent!important;border:0!important;box-shadow:none!important;border-radius:0;border-top:1px solid var(--n-ln)!important;margin:0;padding:2.6rem 0}
+.notte-pagina .female-featured::before{display:none}
+.notte-pagina .female-header{padding:0 0 1.2rem;border:0}
+.notte-pagina .female-name{font-size:1.6rem!important;line-height:1.25}
+.notte-pagina .female-content{padding:0;gap:3rem;grid-template-columns:1fr 1.5fr}
+.notte-pagina .female-info p{margin:0 0 .55rem}
+.notte-pagina .female-image img{aspect-ratio:4/5;object-fit:cover;width:100%;height:auto}
+.notte-pagina .section-inner:has(.female-card) .intro-block{background:transparent;border:0;padding:0;columns:1}
+@media(max-width:860px){.notte-pagina .female-content{grid-template-columns:1fr;text-align:left}.notte-pagina .female-image{max-width:none}}
