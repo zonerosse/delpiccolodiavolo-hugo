@@ -71,7 +71,7 @@ Each language has its own `contentDir` (`content/it`, `content/en`, `content/de`
 
 ### `custom_content`: pages are HTML in front matter, not Markdown
 
-The dominant pattern (137 of 161 content files): the page body is empty and all markup lives in a `custom_content:` YAML block-scalar in the front matter, rendered through `safeHTML` by `layouts/index.html` / `layouts/_default/single.html`. Only pages *without* `custom_content` fall through to the standard Markdown path (breadcrumb + `.Content` + WhatsApp CTA). A Markdown article that starts its body with its own `<section class="hero">` followed by `<nav class="breadcrumb">` gets no generic page-hero: `single.html` prints everything up to the first `</nav>` full width and puts the rest inside `.article-content`. The four articles still written in Markdown (price guide, choosing a breeder, temperament, Staffy vs Amstaff, in three languages) all follow this pattern. Goldmark has `unsafe = true`, so inline HTML in Markdown bodies also renders.
+The dominant pattern (140 of 164 content files): the page body is empty and all markup lives in a `custom_content:` YAML block-scalar in the front matter, rendered through `safeHTML` by `layouts/index.html` / `layouts/_default/single.html`. Only pages *without* `custom_content` fall through to the standard Markdown path (breadcrumb + `.Content` + WhatsApp CTA). A Markdown article that starts its body with its own `<section class="hero">` followed by `<nav class="breadcrumb">` gets no generic page-hero: `single.html` prints everything up to the first `</nav>` full width and puts the rest inside `.article-content`. The four articles still written in Markdown (price guide, choosing a breeder, temperament, Staffy vs Amstaff, in three languages) all follow this pattern. Goldmark has `unsafe = true`, so inline HTML in Markdown bodies also renders.
 
 Inside `custom_content`, HTML comment placeholders are string-replaced with partials before the output is marked safe. **Which placeholders work depends on the template**:
 
@@ -282,9 +282,9 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
   look towards the text (neuro web design, Paolo's rule).
 - Long pages (13/10/2026): FAQ answers are open in the HTML (Google, AI, no-JS) and closed by the script in `baseof.html`,
   which wraps each question in a real `<button class="faq-btn">` (keyboard, aria-expanded); a question containing a link
-  stays open. Reviews page: 6 reviews visible, the rest in `<details class="tutti">`; Blog: 3 cards per category + "Mostra
-  tutti"; Palmarès: 4 results per dog + "Tutti i risultati"; long text sections (Cuccioli, Programma, Chi siamo) use
-  `.continua`/`.tendina`; on phones the two parents in litter cards sit side by side and galleries are 3 in a row.
+  stays open. Blog: 3 cards per category + "Mostra tutti"; on phones the two parents in litter cards sit side by side and
+  galleries are 3 in a row. (17/10/2026: on the Notte pages `.continua`, `.tendina` and `<details class="tutti">` were removed,
+  everything is open: see "Stile Notte" below.)
   Puppies page: reviews moved right after the litters (`MAPPE["cuccioli"]` in segna.py updated, block numbers unchanged).
   Lines added inside `custom_content:` must keep the block's indentation, or the YAML block ends early.
 
@@ -297,10 +297,12 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
 - Pagine vetrina scure (caffè, rame, oro): Home, Cuccioli, Chi siamo, Femmine, Maschi, Palmarès, Diario (elenco), Programma,
   Recensioni, Contatti, in IT/EN/DE. Si accende con `notte: true` nel front matter (body `notte-pagina`, `assets/css/notte.css`
   caricato da `partials/css.html`). Gli articoli del Blog e le pagine del diario restano chiari.
-- Home: struttura propria dentro `<div class="notte">` (`assets/css/home.css`, solo sulla home): niente «Continua a leggere» né
-  tendine, testi e link identici a prima; FAQ aperte come `.faq-item active n-faq` dentro `.faq-container` (schema FAQPage).
+- Regola di Paolo: si cambiano solo impaginazione e grafica. Testi, titoli, descrizioni, link e JSON restano identici a quelli
+  online; si toglie solo ciò che chiede lui (es. i bottoni, con la loro scritta). Prima di pubblicare: anteprima HTML, poi
+  confronto parola per parola con la versione online.
+- Home: `assets/css/home.css` (caricato solo sulla home); FAQ aperte come `.faq-item active n-faq` dentro `.faq-container` (schema FAQPage).
 - Niente bottoni nella testata (hero) di nessuna pagina tranne la Home (Paolo, 17/10/2026); i bottoni dentro la pagina e WhatsApp in fondo restano.
-- Pagine vetrina aperte una alla volta (Cuccioli e Chi siamo il 17/10/2026, Chi siamo EN/DE riscritte uguali all IT): niente «Continua a leggere» né tendine; le tendine diventano
+- Pagine vetrina aperte una alla volta (17/10/2026; Chi siamo EN/DE tengono il loro testo di prima, impaginato a righe): niente «Continua a leggere» né tendine; le tendine diventano
   `.n-percorso > .n-passo` (titolo a sinistra, testo a destra, scelta B), i «rimando» una riga `.n-vedi`, le FAQ `.faq-item active n-faq`.
 - Home e Cuccioli (17/10/2026, scelte di Paolo): la Home usa `notte: true` come le altre (niente più `<div class="notte">`);
   «Nati e cresciuti» = `.n-foto3` (foto alte con il momento scritto sopra, C); le altre sezioni a righe `.n-percorso > .n-passo`;
@@ -308,3 +310,14 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
   niente paragrafi più grandi degli altri. Piè di pagina scuro su tre colonne (B) solo sulle pagine Notte.
 - Contrasti: tutte le pagine Notte passano axe-core `color-contrast` (WCAG AA). Colori nuovi nel `style=""` delle pagine Notte
   vanno ricoperti in `notte.css`, altrimenti testo scuro su fondo scuro. Bottoni rame: `linear-gradient(135deg,#9c5f2c,#7f4a1f)`.
+- Pagine rifatte a righe il 17/10/2026 (scelte di Paolo, una alla volta):
+  - Femmine A e Maschi: schede dei cani a righe; in Maschi «Etica, salute e selezione» a righe con i titoli in grassetto.
+  - Palmarès: cani a righe (foto 4:5 a sinistra), risultati `.risultato` in elenco tutti visibili (niente «Tutti i risultati»);
+    in IT il testo della testata `.page-hero` a righe (frase a sinistra, paragrafo a destra).
+  - Programma: schede delle cucciolate uguali a Cuccioli; sezioni di testo a righe con l'h2 a sinistra (`.n-passo > h2`);
+    fascia scura `.n-righe-scure`; FAQ EN/DE `.n-faq`. La zona GESTIONALE non si tocca.
+  - Recensioni: `.reviews-grid .review-card` a righe (nome, stelle, data a sinistra; testo a destra), tutte visibili;
+    i quattro `.value-card` diventano righe.
+  - Diario (elenco): `.diario-card` a righe (foto a sinistra) e `.diario-intro` a righe solo con il CSS (h2 a sinistra).
+  - Contatti: Paolo la vuole impaginata com'era; cambiano solo i colori (riquadri delle città `.zone-row` scuri).
+  - Al telefono le righe `.n-storia` con la foto vanno una sotto l'altra.

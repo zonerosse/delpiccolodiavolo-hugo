@@ -20,7 +20,7 @@ slug: "bilquis-black-jack-litter-august-2026"
 date: 2026-08-01
 image: "/images/cuccioli-bilquis-nati-1.webp"
 image_alt: "Newborn black Staffordshire Bull Terrier puppies from Bilquis' litter"
-annuncio: "August 2026 litter: 8 black puppies"
+annuncio: "August 2026 litter: black puppies"
 stato: "completa"
 scheda:
   madre: "Bilquis Goddess Diabhal, Italian Champion ENCI, 4th at the World Dog Show"

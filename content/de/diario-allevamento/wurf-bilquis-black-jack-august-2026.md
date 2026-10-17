@@ -20,7 +20,7 @@ slug: "wurf-bilquis-black-jack-august-2026"
 date: 2026-08-01
 image: "/images/cuccioli-bilquis-nati-1.webp"
 image_alt: "Neugeborene schwarze Staffordshire Bull Terrier Welpen aus dem Wurf von Bilquis"
-annuncio: "Wurf August 2026: 8 schwarze Welpen"
+annuncio: "Wurf August 2026: schwarze Welpen"
 stato: "completa"
 scheda:
   madre: "Bilquis Goddess Diabhal, Italienische Championin ENCI, 4. Platz bei der World Dog Show"
