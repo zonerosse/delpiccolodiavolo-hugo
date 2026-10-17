@@ -137,7 +137,7 @@ Delivery notes (`LEGGIMI-*`) are not kept in the repo: current rules live only i
 ## Share cards (og:image) for articles
 
 Every article (IT/EN/DE) has its own 1200x630 share card in `static/images/og/schede/<lang>/<slug>.jpg`: title, category label, a Lucide icon matching the topic inside a circle with the category gradient, kennel name. Set via `og_image` / `og_image_alt` in front matter. Photos were dropped on purpose: Paolo does not want photos that do not match the topic.
-Colours (18/10/2026, Paolo's choice B): light blue background `#eaf0f7`, title `#1f2d42`, category label `#1f4f82`, one blue per category: health `#1d4a55→#3f8090`, puppies `#1f3a5f→#3b6a9e`, family `#2c2f63→#5a60a8`, standard/bloodlines and "know the breed" `#152238→#2f4a70`. Same colours for the blog icons (`--icone`).
+Colours (18/10/2026, Paolo's choice A): every category uses the same blue circle `#1f3a5f→#3b6a9e` on a light blue background `#eaf0f7`, title `#1f2d42`, category label `#1f4f82` (the category is told by the label, not the colour). Same colours for the blog icons (`--icone`).
 New article = add its slug, category and icon to `MAP` in `tools/schede-og/genera.py`, generate the cards for the three languages and set the front matter. Institutional pages (home, about, puppies, females, males, reviews, contact) keep `og-default.jpg`.
 
 ## lastmod: who updates it

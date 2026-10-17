@@ -7,8 +7,8 @@
 import re,html,base64,io,os,glob,json
 from PIL import Image
 R=os.path.abspath(os.path.join(os.path.dirname(__file__),'..','..'))
-# 18/10/2026 (Paolo, scelta B): fondo azzurrino e un blu per categoria (salute verde acqua, cuccioli blu, famiglia indaco, standard e razza blu notte)
-GROUPS={'s':('#1d4a55','#3f8090'),'c':('#1f3a5f','#3b6a9e'),'f':('#2c2f63','#5a60a8'),'r':('#152238','#2f4a70'),'k':('#152238','#2f4a70')}
+# 18/10/2026 (Paolo, scelta A): tutte le icone nello stesso blu, fondo azzurrino; la categoria si legge nella scritta
+GROUPS={k:('#1f3a5f','#3b6a9e') for k in ('s','c','f','r','k')}
 FONDO='#eaf0f7'; TESTO='#1f2d42'; CATEGORIA='#1f4f82'
 LABEL={'s':{'it':'Salute e benessere','en':'Health and wellbeing','de':'Gesundheit und Wohlbefinden'},
  'c':{'it':'Cuccioli','en':'Puppies','de':'Welpen'},
