@@ -2,12 +2,12 @@
 title: "Recensioni Staffordshire Bull Terrier"
 titleSeo: "Recensioni Staffordshire Bull Terrier: <!--REC-TOTALE--> famiglie"
 date: 2025-12-28
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
-description: "Le recensioni Google delle famiglie che hanno scelto un cucciolo Del Piccolo Diavolo: esperienze reali, prima e dopo l'affido, ognuna collegata all'originale."
+description: "Le recensioni Google delle famiglie che hanno scelto un cucciolo Del Piccolo Diavolo: esperienze reali, prima e dopo l'affido, tutte sul profilo Google."
 slug: "recensioni"
-fonti_motivo: "Le recensioni riportate qui sono delle famiglie che hanno accolto un cucciolo dell'allevamento Del Piccolo Diavolo: la fonte è il profilo Google dell'allevamento, collegato da ogni singola recensione, e non esistono altre fonti esterne da citare."
+fonti_motivo: "Le recensioni riportate qui sono delle famiglie che hanno accolto un cucciolo dell'allevamento Del Piccolo Diavolo: la fonte è il profilo Google dell'allevamento, dove si leggono tutte, e non esistono altre fonti esterne da citare."
 custom_content: |
   <!--BLOCCO:1-->
   <section class="hero">
@@ -19,11 +19,11 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">⭐ <!--REC-VOTO-->/5 su Google</span>
   <h1 class="hero-title">Recensioni <br><em>delle famiglie</em> <br>Del Piccolo Diavolo</h1>
-  <p class="hero-subtitle"><!--REC-TOTALE--> testimonianze verificate</p>
-  <p class="hero-description">Le esperienze delle famiglie che hanno preso un nostro Staffordshire Bull Terrier, ognuna con il collegamento alla recensione originale su Google.</p>
+  <p class="hero-subtitle"><!--REC-TOTALE--> recensioni su Google</p>
+  <p class="hero-description">Le esperienze delle famiglie che hanno preso un nostro Staffordshire Bull Terrier, copiate cos&igrave; come le hanno scritte su Google. Le trovi tutte, con nome e data, sul profilo Google dell'allevamento.</p>
   <div class="hero-actions">
   <a href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" class="btn btn-primary" title="Leggi le recensioni su Google" aria-label="Leggi su Google (si apre in una nuova scheda)">Leggi su Google</a>
-  <a href="https://g.page/r/CUCv-r9V4lTREAE/review" target="_blank" rel="noopener" class="btn btn-ghost" title="Lascia una recensione su Google" aria-label="Lascia Recensione (si apre in una nuova scheda)">Lascia Recensione</a>
+  <a href="https://g.page/r/CUCv-r9V4lTREAE/review" target="_blank" rel="noopener" class="btn btn-ghost" title="Lascia una recensione su Google" aria-label="Lascia una recensione (si apre in una nuova scheda)">Lascia una recensione</a>
   </div>
   </div>
   </section>
@@ -31,8 +31,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Dal 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Recensioni</span><span>100% Verificate</span><span>Supporto a Vita</span><span>Famiglie Soddisfatte</span>
-  <span>Dal 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Recensioni</span><span>100% Verificate</span><span>Supporto a Vita</span><span>Famiglie Soddisfatte</span>
+  <span>Dal 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> recensioni</span><span>Tutte su Google</span><span>Presenti anche dopo l'affido</span>
+  <span>Dal 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> recensioni</span><span>Tutte su Google</span><span>Presenti anche dopo l'affido</span>
   </div>
   </div>
 
@@ -101,7 +101,7 @@ custom_content: |
   <div class="review-meta">giugno 2026 – Google</div>
   </article>
   </div>
-  <details class="tutti"><summary>Mostra tutte le recensioni (29)</summary>
+  <details class="tutti"><summary>Mostra le altre 23 recensioni</summary>
   <div class="reviews-grid">
   <article class="review-card">
   <div class="review-header">
@@ -318,15 +318,15 @@ custom_content: |
   <!--BLOCCO:3-->
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">La Nostra Reputazione</span>
+  <span class="section-label">La nostra reputazione</span>
   <h2 class="section-title">Perché le recensioni contano</h2>
 
-  <p>Del Piccolo Diavolo ha una valutazione media di <!--REC-VOTO--> su <!--REC-TOTALE--> recensioni pubblicate sul profilo Google dell'allevamento, tutte verificabili all'origine: ogni recensione riportata su questa pagina porta il nome di chi l'ha scritta e il collegamento diretto all'originale su Google, dove chiunque pu&ograve; leggerla senza passare da noi. Sono famiglie che hanno preso un cucciolo di Staffordshire Bull Terrier a Ostellato, in provincia di Ferrara, fra il 2013 e oggi. Una recensione riportata su un sito senza collegamento alla fonte non &egrave; verificabile: potrebbe averla scritta chiunque, allevatore compreso. &Egrave; lo stesso principio dei referti dei test genetici, che qui vengono pubblicati con il numero di microchip del cane sopra. Le recensioni raccontano l'esperienza dell'affido; cosa sia successo dopo, a distanza di anni, lo raccontiamo nelle <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">storie dei cani che abbiamo allevato</a>.</p>
+  <p>Del Piccolo Diavolo ha una valutazione media di <!--REC-VOTO--> su <!--REC-TOTALE--> recensioni pubblicate sul profilo Google dell'allevamento, e le recensioni di questa pagina sono copiate da l&igrave;, con il nome di chi le ha scritte e la data. Chiunque pu&ograve; andare a leggerle sul profilo, senza passare da noi, e nemmeno l'allevatore pu&ograve; cambiarle. Le hanno scritte soprattutto famiglie che hanno preso un cucciolo di Staffordshire Bull Terrier a Ostellato, in provincia di Ferrara, e qualche persona che &egrave; venuta a trovarci e ha conosciuto i cani. &Egrave; lo stesso principio dei referti dei test genetici, che qui vengono pubblicati con il numero di microchip del cane sopra. Le recensioni raccontano l'esperienza dell'affido; cosa sia successo dopo, a distanza di anni, lo raccontiamo nelle <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">storie dei cani che abbiamo allevato</a>.</p>
   <div class="values-grid">
-  <div class="value-card"><h3>✓ Trasparenza</h3><p>Ogni recensione verificabile su Google</p></div>
-  <div class="value-card"><h3>⭐ <!--REC-VOTO-->/5</h3><p>Media costruita dal 2013</p></div>
-  <div class="value-card"><h3>📞 Supporto</h3><p>Assistenza per tutta la vita del cane</p></div>
-  <div class="value-card"><h3>🏆 Qualità</h3><p>Linee Elitebull e Lackyle certificate</p></div>
+  <div class="value-card"><h3>✓ Su Google</h3><p>Ogni recensione si legge sul profilo dell'allevamento</p></div>
+  <div class="value-card"><h3>⭐ <!--REC-VOTO-->/5</h3><p>Il voto medio su Google</p></div>
+  <div class="value-card"><h3>📞 Anche dopo</h3><p>Ci trovi per tutta la vita del cane</p></div>
+  <div class="value-card"><h3>🏆 Le linee</h3><p>Elitebull (inglese) e Lackyle (irlandese)</p></div>
   </div>
   </div>
   </section>
@@ -336,19 +336,19 @@ custom_content: |
   <!--BLOCCO:4-->
   <section class="section">
   <div class="section-inner" style="text-align:center">
-  <span class="section-label">Hai adottato un nostro cucciolo?</span>
+  <span class="section-label">Hai un nostro cane?</span>
   <h2 class="section-title">Condividi la tua esperienza</h2>
 
   <div style="display:flex;flex-wrap:wrap;gap:1rem;justify-content:center;margin-bottom:1.5rem">
   <a href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" class="btn btn-primary" title="Leggi le recensioni su Google" style="min-height:44px;padding:1rem 1.8rem" aria-label="Leggi su Google (si apre in una nuova scheda)">⭐ Leggi su Google</a>
-  <a href="https://g.page/r/CUCv-r9V4lTREAE/review" target="_blank" rel="noopener" class="btn btn-ghost" title="Lascia una recensione su Google" style="min-height:44px;padding:1rem 1.8rem" aria-label="Lascia Recensione (si apre in una nuova scheda)">✍️ Lascia Recensione</a>
+  <a href="https://g.page/r/CUCv-r9V4lTREAE/review" target="_blank" rel="noopener" class="btn btn-ghost" title="Lascia una recensione su Google" style="min-height:44px;padding:1rem 1.8rem" aria-label="Lascia una recensione (si apre in una nuova scheda)">✍️ Lascia una recensione</a>
   <a href="https://www.facebook.com/delpiccolodiavolo" target="_blank" rel="noopener" class="btn btn-primary" title="Seguici su Facebook" style="min-height:44px;padding:1rem 1.8rem" aria-label="Seguici su Facebook (si apre in una nuova scheda)">Facebook</a>
   <a href="https://www.youtube.com/@Staffordshiredelpiccolodiavolo" target="_blank" rel="noopener" class="btn btn-ghost" title="Guarda i nostri video su YouTube" style="min-height:44px;padding:1rem 1.8rem" aria-label="Guarda i nostri video su YouTube (si apre in una nuova scheda)">▶ YouTube</a>
   </div>
 
   <div class="links-box">
   <p>Scopri le nostre <a href="/programma-allevamento/" title="Cucciolate programmate">cucciolate</a> e i <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli Staffy</a>.</p>
-  <p>Conosci i nostri <a href="/maschi-staffordshire-bull-terrier/" title="Maschi Staffordshire Bull Terrier">maschi campioni</a> e le <a href="/femmine-staffordshire-bull-terrier/" title="Femmine Staffordshire Bull Terrier">fattrici selezionate</a>.</p>
+  <p>Conosci i nostri <a href="/maschi-staffordshire-bull-terrier/" title="Maschi Staffordshire Bull Terrier">maschi</a> e le nostre <a href="/femmine-staffordshire-bull-terrier/" title="Femmine Staffordshire Bull Terrier">femmine</a>.</p>
   </div>
   </div>
   </section>
@@ -356,7 +356,7 @@ custom_content: |
 
   <section class="section">
   <div class="section-inner content-single">
-  <p class="fonti">Fonti: Le recensioni riportate qui sono delle famiglie che hanno accolto un cucciolo dell'allevamento Del Piccolo Diavolo: la fonte è il profilo Google dell'allevamento, collegato da ogni singola recensione, e non esistono altre fonti esterne da citare.</p>
+  <p class="fonti">Fonti: Le recensioni riportate qui sono delle famiglie che hanno accolto un cucciolo dell'allevamento Del Piccolo Diavolo: la fonte è il profilo Google dell'allevamento, dove si leggono tutte, e non esistono altre fonti esterne da citare.</p>
   </div>
   </section>
 ---

@@ -1,12 +1,12 @@
 ---
 title: "Staffordshire Bull Terrier Bewertungen"
 date: 2025-12-28
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
-description: "Die Google-Bewertungen der Familien, die einen Welpen von Del Piccolo Diavolo gewählt haben: echte Erfahrungen vor und nach der Abgabe, jede mit Link zum Original."
+description: "Die Google-Bewertungen der Familien, die einen Welpen von Del Piccolo Diavolo gewählt haben: echte Erfahrungen vor und nach der Abgabe, alle im Google-Profil."
 slug: "bewertungen"
-fonti_motivo: "Die hier gezeigten Bewertungen stammen von Familien mit einem Welpen der Zucht Del Piccolo Diavolo: Ihre Quelle ist das Google-Profil der Zucht, auf das jede einzelne Bewertung verlinkt, und es gibt keine weiteren externen Quellen zu nennen."
+fonti_motivo: "Die hier gezeigten Bewertungen stammen von Familien mit einem Welpen der Zucht Del Piccolo Diavolo: Ihre Quelle ist das Google-Profil der Zucht, wo alle zu lesen sind, und es gibt keine weiteren externen Quellen zu nennen."
 custom_content: |
   <!--BLOCCO:1-->
   <section class="hero">
@@ -18,11 +18,11 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">⭐ <!--REC-VOTO-->/5 bei Google</span>
   <h1 class="hero-title">Unsere <br><em>Bewertungen</em></h1>
-  <p class="hero-subtitle">36 verifizierte Testimonials</p>
-  <p class="hero-description">Die Erfahrungen der Familien, die einen unserer Staffordshire Bull Terrier übernommen haben, jede mit dem Link zur Originalbewertung auf Google.</p>
+  <p class="hero-subtitle"><!--REC-TOTALE--> Bewertungen bei Google</p>
+  <p class="hero-description">Die Erfahrungen der Familien, die einen unserer Staffordshire Bull Terrier übernommen haben, so übernommen, wie sie sie bei Google geschrieben haben. Alle sind mit Name und Datum im Google-Profil der Zucht zu lesen.</p>
   <div class="hero-actions">
-  <a href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" class="btn btn-primary" title="Bewertungen bei Google lesen" aria-label="Bewertungen bei Google lesen (wird in einem neuen Tab geöffnet)">Bei Google Lesen</a>
-  <a href="https://g.page/r/CUCv-r9V4lTREAE/review" target="_blank" rel="noopener" class="btn btn-ghost" title="Bewertung hinterlassen" aria-label="Bewertung hinterlassen (wird in einem neuen Tab geöffnet)">Bewertung Hinterlassen</a>
+  <a href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" class="btn btn-primary" title="Bewertungen bei Google lesen" aria-label="Bewertungen bei Google lesen (wird in einem neuen Tab geöffnet)">Bei Google lesen</a>
+  <a href="https://g.page/r/CUCv-r9V4lTREAE/review" target="_blank" rel="noopener" class="btn btn-ghost" title="Bewertung hinterlassen" aria-label="Bewertung hinterlassen (wird in einem neuen Tab geöffnet)">Bewertung hinterlassen</a>
   </div>
   </div>
   </section>
@@ -30,8 +30,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Seit 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Bewertungen</span><span>100% Verifiziert</span><span>Lebenslanger Support</span><span>Zufriedene Familien</span>
-  <span>Seit 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Bewertungen</span><span>100% Verifiziert</span><span>Lebenslanger Support</span><span>Zufriedene Familien</span>
+  <span>Seit 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Bewertungen</span><span>Alle bei Google</span><span>Auch nach der Übergabe da</span>
+  <span>Seit 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Bewertungen</span><span>Alle bei Google</span><span>Auch nach der Übergabe da</span>
   </div>
   </div>
 
@@ -48,21 +48,20 @@ custom_content: |
 
   <article class="review-card">
   <div class="review-header">
+  <span class="review-name">Matteo Vigan&ograve;</span>
+  <span class="review-stars">★★★★★</span>
+  </div>
+  <p class="review-text">Ich habe einen ihrer Hunde gekauft, und das Gleichgewicht und der Charakter, die sie auszeichnen, sind unglaublich. Ich konnte eine große Aufmerksamkeit für die Gesundheit der Hunde feststellen. Wirklich eine sehr gute Zuchtauswahl.</p>
+  <div class="review-meta">20. September 2026 – Google</div>
+  </article>
+
+  <article class="review-card">
+  <div class="review-header">
   <span class="review-name">Gianluca Ravera</span>
   <span class="review-stars">★★★★★</span>
   </div>
   <p class="review-text">Vor etwa acht Monaten beschloss ich, einen Staffy als Begleiter zu nehmen, und begann mich einzulesen, um mich der zuverlässigsten Zucht anvertrauen zu können. Zufällig stieß ich auf diese Zucht, und nach dem ersten Kontakt beeindruckten mich ihre Kompetenz, Freundlichkeit und Professionalität. Jetzt habe ich meinen kleinen Teufel, dank dieser wunderbaren Familie, der ich nie genug danken kann.</p>
   <div class="review-meta">4. September 2026 – Google</div>
-  <div class="related-articles">
-  <h3>Mehr zum Thema</h3>
-  <ul>
-  <li><a href="/de/wuerfe-staffordshire-bull-terrier/" title="Würfe Staffordshire Bull Terrier: geplant und bisherige">Würfe Staffordshire Bull Terrier: geplant und bisherige</a></li>
-  <li><a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen mit überprüfbaren Gentests">Staffy-Welpen mit überprüfbaren Gentests</a></li>
-  <li><a href="/de/rueden-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Rüden: Ahnentafel und Gentests">Staffordshire Bull Terrier Rüden: Ahnentafel und Gentests</a></li>
-  <li><a href="/de/huendinnen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Hündinnen">Staffordshire Bull Terrier Hündinnen</a></li>
-  </ul>
-  </div>
-
   </article>
 
   <article class="review-card">
@@ -101,6 +100,9 @@ custom_content: |
   <div class="review-meta">Juni 2026 – Google</div>
   </article>
 
+  </div>
+  <details class="tutti"><summary>Die anderen 23 Bewertungen zeigen</summary>
+  <div class="reviews-grid">
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Antonio Mosca</span>
@@ -109,9 +111,7 @@ custom_content: |
   <p class="review-text">Eine Zucht mit 6 von 5 Sternen. Sie sind professionell und begleiten dich Schritt für Schritt in allem, auch nachdem dein Fellknäuel zu Hause angekommen ist!! Sehr zu empfehlen!!</p>
   <div class="review-meta">15. November 2025 – Google</div>
   </article>
-  </div>
-  <details class="tutti"><summary>Alle Bewertungen zeigen (28)</summary>
-  <div class="reviews-grid">
+
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Paola Bonora</span>
@@ -323,12 +323,12 @@ custom_content: |
   <span class="section-label">Unser Ruf</span>
   <h2 class="section-title">Warum Bewertungen zählen</h2>
 
-  <p>Del Piccolo Diavolo hat eine durchschnittliche Bewertung von <!--REC-VOTO--> aus <!--REC-TOTALE--> Bewertungen im Google-Profil der Zucht, alle an der Quelle überprüfbar: Jede auf dieser Seite gezeigte Bewertung trägt den Namen der Person, die sie geschrieben hat, und einen direkten Link zum Original auf Google, wo jeder sie lesen kann, ohne über uns zu gehen. Es sind Familien, die zwischen 2013 und heute einen Staffordshire Bull Terrier Welpen aus Ostellato in der Provinz Ferrara übernommen haben. Eine Bewertung auf einer Website ohne Link zur Quelle ist nicht überprüfbar: Jeder könnte sie geschrieben haben, auch der Züchter. Es ist dasselbe Prinzip wie bei den Befunden der Gentests, die hier mit der Mikrochipnummer des Hundes veröffentlicht sind. Die Bewertungen erzählen von der Vermittlung; was danach geschah, Jahre später, erzählen die <a href="/de/staffordshire-in-der-familie-geschichten/" title="Geschichten aus den Familien">Geschichten der Hunde, die wir gezüchtet haben</a>.</p>
+  <p>Del Piccolo Diavolo hat eine durchschnittliche Bewertung von <!--REC-VOTO--> aus <!--REC-TOTALE--> Bewertungen im Google-Profil der Zucht, und die Bewertungen auf dieser Seite sind von dort übernommen, mit dem Namen der Person, die sie geschrieben hat, und dem Datum. Jeder kann sie im Profil lesen, ohne über uns zu gehen, und nicht einmal der Züchter kann sie ändern. Geschrieben haben sie vor allem Familien, die einen Staffordshire Bull Terrier Welpen aus Ostellato in der Provinz Ferrara übernommen haben, und einige Menschen, die uns besucht und die Hunde kennengelernt haben. Es ist dasselbe Prinzip wie bei den Befunden der Gentests, die hier mit der Mikrochipnummer des Hundes veröffentlicht sind. Die Bewertungen erzählen von der Vermittlung; was danach geschah, Jahre später, erzählen die <a href="/de/staffordshire-in-der-familie-geschichten/" title="Geschichten aus den Familien">Geschichten der Hunde, die wir gezüchtet haben</a>.</p>
   <div class="values-grid">
-  <div class="value-card"><h3>✓ Transparenz</h3><p>Jede Bewertung bei Google verifizierbar</p></div>
-  <div class="value-card"><h3>⭐ <!--REC-VOTO-->/5</h3><p>Durchschnitt aufgebaut seit 2013</p></div>
-  <div class="value-card"><h3>📞 Support</h3><p>Betreuung für das ganze Leben des Hundes</p></div>
-  <div class="value-card"><h3>🏆 Qualität</h3><p>Zertifizierte Elitebull und Lackyle Linien</p></div>
+  <div class="value-card"><h3>✓ Bei Google</h3><p>Jede Bewertung ist im Profil der Zucht zu lesen</p></div>
+  <div class="value-card"><h3>⭐ <!--REC-VOTO-->/5</h3><p>Die Durchschnittsbewertung bei Google</p></div>
+  <div class="value-card"><h3>📞 Auch danach</h3><p>Sie erreichen uns das ganze Hundeleben lang</p></div>
+  <div class="value-card"><h3>🏆 Die Linien</h3><p>Elitebull (englisch) und Lackyle (irisch)</p></div>
   </div>
   </div>
   </section>
@@ -337,7 +337,7 @@ custom_content: |
   <!-- CTA -->
   <section class="section">
   <div class="section-inner content-single">
-  <p class="fonti">Quellen: Die hier gezeigten Bewertungen stammen von Familien mit einem Welpen der Zucht Del Piccolo Diavolo: Ihre Quelle ist das Google-Profil der Zucht, auf das jede einzelne Bewertung verlinkt, und es gibt keine weiteren externen Quellen zu nennen.</p>
+  <p class="fonti">Quellen: Die hier gezeigten Bewertungen stammen von Familien mit einem Welpen der Zucht Del Piccolo Diavolo: Ihre Quelle ist das Google-Profil der Zucht, wo alle zu lesen sind, und es gibt keine weiteren externen Quellen zu nennen.</p>
   </div>
   </section>
 
@@ -345,7 +345,7 @@ custom_content: |
   <section class="dark-section">
   <h2>Möchten Sie uns kennenlernen?</h2>
   <p>Kontaktieren Sie uns unverbindlich für Informationen über unsere Welpen.</p>
-  <a href="/wa/393924635584" class="btn btn-light" title="Auf WhatsApp schreiben">Auf WhatsApp Schreiben</a>
+  <a href="/wa/393924635584" class="btn btn-light" title="Auf WhatsApp schreiben">Auf WhatsApp schreiben</a>
   </section>
   <!--/BLOCCO:4-->
 ---

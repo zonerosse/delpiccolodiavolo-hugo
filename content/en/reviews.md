@@ -2,12 +2,12 @@
 title: "Staffordshire Bull Terrier reviews"
 titleSeo: "Staffordshire Bull Terrier reviews from our families"
 date: 2025-12-28
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "recensioni"
 description: "Google reviews from families who took home a Staffordshire Bull Terrier from Del Piccolo Diavolo: real experiences, before the puppy arrived and years after."
 slug: "reviews"
-fonti_motivo: "The reviews shown here come from families who have taken a puppy from the Del Piccolo Diavolo kennel: their source is the kennel's Google profile, linked from every single review, and there are no other external sources to cite."
+fonti_motivo: "The reviews shown here come from families who have taken a puppy from the Del Piccolo Diavolo kennel: their source is the kennel's Google profile, where they can all be read, and there are no other external sources to cite."
 custom_content: |
   <!--BLOCCO:1-->
   <section class="hero">
@@ -19,11 +19,11 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">⭐ <!--REC-VOTO-->/5 on Google</span>
   <h1 class="hero-title">Our <br><em>reviews</em></h1>
-  <p class="hero-subtitle"><!--REC-TOTALE--> verified testimonials</p>
-  <p class="hero-description">The experiences of the families who took one of our Staffordshire Bull Terriers, each with a link to the original review on Google.</p>
+  <p class="hero-subtitle"><!--REC-TOTALE--> reviews on Google</p>
+  <p class="hero-description">The experiences of the families who took one of our Staffordshire Bull Terriers, copied just as they wrote them on Google. You can read them all, with name and date, on the kennel's Google profile.</p>
   <div class="hero-actions">
   <a href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" class="btn btn-primary" title="Read reviews on Google" aria-label="Read on Google (opens in a new tab)">Read on Google</a>
-  <a href="https://g.page/r/CUCv-r9V4lTREAE/review" target="_blank" rel="noopener" class="btn btn-ghost" title="Leave a review on Google" aria-label="Leave Review (opens in a new tab)">Leave Review</a>
+  <a href="https://g.page/r/CUCv-r9V4lTREAE/review" target="_blank" rel="noopener" class="btn btn-ghost" title="Leave a review on Google" aria-label="Leave a review (opens in a new tab)">Leave a review</a>
   </div>
   </div>
   </section>
@@ -31,8 +31,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Since 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Reviews</span><span>100% Verified</span><span>Lifetime Support</span><span>Satisfied Families</span>
-  <span>Since 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> Reviews</span><span>100% Verified</span><span>Lifetime Support</span><span>Satisfied Families</span>
+  <span>Since 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> reviews</span><span>All on Google</span><span>There after the handover too</span>
+  <span>Since 2013</span><span><!--REC-VOTO-->★ Google</span><span><!--REC-TOTALE--> reviews</span><span>All on Google</span><span>There after the handover too</span>
   </div>
   </div>
 
@@ -44,6 +44,15 @@ custom_content: |
   <h2 class="section-title">What owners say</h2>
 
   <div class="reviews-grid">
+
+  <article class="review-card">
+  <div class="review-header">
+  <span class="review-name">Matteo Vigan&ograve;</span>
+  <span class="review-stars">★★★★★</span>
+  </div>
+  <p class="review-text">I bought one of their dogs and the balance and character that set her apart are incredible. I could see a strong attention to the dogs' health. A truly excellent job of selection.</p>
+  <div class="review-meta">September 20, 2026 – Google</div>
+  </article>
 
   <article class="review-card">
   <div class="review-header">
@@ -90,6 +99,9 @@ custom_content: |
   <div class="review-meta">June 2026 – Google</div>
   </article>
 
+  </div>
+  <details class="tutti"><summary>Show the other 23 reviews</summary>
+  <div class="reviews-grid">
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Antonio Mosca</span>
@@ -98,9 +110,7 @@ custom_content: |
   <p class="review-text">A 6-stars-out-of-5 kennel. They are professional and follow you step by step in everything, even after your furry friend gets home!! Highly recommended!!</p>
   <div class="review-meta">November 15, 2025 – Google</div>
   </article>
-  </div>
-  <details class="tutti"><summary>Show all reviews (28)</summary>
-  <div class="reviews-grid">
+
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Paola Bonora</span>
@@ -309,15 +319,15 @@ custom_content: |
   <!--BLOCCO:3-->
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">Our Reputation</span>
+  <span class="section-label">Our reputation</span>
   <h2 class="section-title">Why reviews matter</h2>
 
-  <p>Del Piccolo Diavolo has an average rating of <!--REC-VOTO--> from <!--REC-TOTALE--> reviews published on the kennel's Google profile, all verifiable at the source: every review shown on this page carries the name of the person who wrote it and a direct link to the original on Google, where anyone can read it without going through us. They are families who took a Staffordshire Bull Terrier puppy from Ostellato, in the province of Ferrara, between 2013 and today. A review shown on a website without a link to its source cannot be verified: anyone could have written it, the breeder included. It is the same principle as the genetic test reports, which are published here with the dog's microchip number on them. The reviews tell the story of the placement; what happened afterwards, years later, is told in the <a href="/en/staffordshire-family-life-stories/" title="Family stories">stories of the dogs we bred</a>.</p>
+  <p>Del Piccolo Diavolo has an average rating of <!--REC-VOTO--> from <!--REC-TOTALE--> reviews published on the kennel's Google profile, and the reviews on this page are copied from there, with the name of the person who wrote them and the date. Anyone can go and read them on the profile without going through us, and not even the breeder can change them. Most were written by families who took a Staffordshire Bull Terrier puppy from Ostellato, in the province of Ferrara, and a few by people who came to visit us and met the dogs. It is the same principle as the genetic test reports, which are published here with the dog's microchip number on them. The reviews tell the story of the placement; what happened afterwards, years later, is told in the <a href="/en/staffordshire-family-life-stories/" title="Family stories">stories of the dogs we bred</a>.</p>
   <div class="values-grid">
-  <div class="value-card"><h3>✓ Transparency</h3><p>Every review verifiable on Google</p></div>
-  <div class="value-card"><h3>⭐ <!--REC-VOTO-->/5</h3><p>Average built since 2013</p></div>
-  <div class="value-card"><h3>📞 Support</h3><p>Assistance for the dog's entire life</p></div>
-  <div class="value-card"><h3>🏆 Quality</h3><p>Certified Elitebull and Lackyle lines</p></div>
+  <div class="value-card"><h3>✓ On Google</h3><p>Every review can be read on the kennel's profile</p></div>
+  <div class="value-card"><h3>⭐ <!--REC-VOTO-->/5</h3><p>The average rating on Google</p></div>
+  <div class="value-card"><h3>📞 Afterwards too</h3><p>You can reach us for the dog's whole life</p></div>
+  <div class="value-card"><h3>🏆 The lines</h3><p>Elitebull (English) and Lackyle (Irish)</p></div>
   </div>
   </div>
   </section>
@@ -326,7 +336,7 @@ custom_content: |
   <!--BLOCCO:4-->
   <section class="section">
   <div class="section-inner" style="text-align:center">
-  <span class="section-label">Adopted one of our puppies?</span>
+  <span class="section-label">Do you have one of our dogs?</span>
   <h2 class="section-title">Share your experience</h2>
 
   <div class="cta-buttons">
@@ -334,15 +344,15 @@ custom_content: |
   <svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="currentColor"><path d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/><path d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"/><path d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z"/><path d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/></svg>
   Read on Google
   </a>
-  <a href="https://g.page/r/CUCv-r9V4lTREAE/review" target="_blank" rel="noopener" class="cta-btn cta-btn-ghost" title="Leave a review on Google" aria-label="Leave Review (opens in a new tab)">
+  <a href="https://g.page/r/CUCv-r9V4lTREAE/review" target="_blank" rel="noopener" class="cta-btn cta-btn-ghost" title="Leave a review on Google" aria-label="Leave a review (opens in a new tab)">
   <svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-  Leave Review
+  Leave a review
   </a>
   </div>
 
   <div class="links-box">
   <p>Discover our <a href="/en/litters-staffordshire-bull-terrier/" title="Planned litters">litters</a> and <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffy puppies</a>.</p>
-  <p>Meet our <a href="/en/males-staffordshire-bull-terrier/" title="Male Staffordshire Bull Terriers">champion males</a> and <a href="/en/females-staffordshire-bull-terrier/" title="Female Staffordshire Bull Terriers">selected females</a>.</p>
+  <p>Meet our <a href="/en/males-staffordshire-bull-terrier/" title="Male Staffordshire Bull Terriers">males</a> and our <a href="/en/females-staffordshire-bull-terrier/" title="Female Staffordshire Bull Terriers">females</a>.</p>
   </div>
   </div>
   </section>
@@ -351,7 +361,7 @@ custom_content: |
 
   <section class="section">
   <div class="section-inner content-single">
-  <p class="fonti">Sources: The reviews shown here come from families who have taken a puppy from the Del Piccolo Diavolo kennel: their source is the kennel's Google profile, linked from every single review, and there are no other external sources to cite.</p>
+  <p class="fonti">Sources: The reviews shown here come from families who have taken a puppy from the Del Piccolo Diavolo kennel: their source is the kennel's Google profile, where they can all be read, and there are no other external sources to cite.</p>
   </div>
   </section>
 ---
