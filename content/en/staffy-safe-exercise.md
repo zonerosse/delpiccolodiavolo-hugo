@@ -1,7 +1,7 @@
 ---
 title: "Safe exercise for Staffordshire Bull Terrier"
 date: 2024-06-20
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 translationKey: "esercizio"
 in_breve:
   - "The Staffy needs **exercise every day**, but the amount changes with age."
@@ -37,7 +37,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> ›
   <a href="/en/blog/" title="Blog">Blog</a> ›
-  <span>Safe Exercise</span>
+  <span>Safe exercise</span>
   </nav>
 
   <div class="article-container">
@@ -60,7 +60,7 @@ custom_content: |
   </ul>
   <div class="callout">
   <p class="callout-title">🏆 Our experience</p>
-  <p>In more than ten years with the breed we have seen that Staffies with a regular exercise routine show <strong>fewer behaviour problems, better stress management</strong> and a calmer family life. A tired dog is a happy dog.</p>
+  <p>In more than ten years with the breed we have seen that Staffies with a regular exercise routine show <strong>fewer behaviour problems, better stress management</strong> and a calmer family life.</p>
   </div>
   <!--/BLOCCO:2-->
 
@@ -88,7 +88,7 @@ custom_content: |
   <div class="alert">
   <p class="alert-title">⚠️ Activities to avoid with puppies</p>
   <ul>
-  <li><strong>Repeated jumping:</strong> off the sofa, stairs, obstacles - too much stress on hips and elbows</li>
+  <li><strong>Repeated jumping:</strong> off the sofa, stairs, obstacles: too much stress on hips and elbows</li>
   <li><strong>Long runs:</strong> never jogging or cycling with a puppy under 12 months</li>
   <li><strong>Stairs:</strong> for the first 8-9 months the puppy is carried, both up and down</li>
   <li><strong>Tug-of-war:</strong> none, with rags, ropes or similar, until all the adult teeth are in: it damages growing teeth and neck</li>
@@ -127,7 +127,7 @@ custom_content: |
   </ul>
   <div class="info-box">
   <p class="info-box-title">💡 The importance of mental stimulation</p>
-  <p>15 minutes of mental work (problem-solving games, training, scent work) tire a dog as much as a 30-40 minute walk. Always combine physical and mental exercise for a balanced, contented Staffy.</p>
+  <p>A few minutes of mental work (food games, training, scent work) tire a dog more than a long walk. Always combine physical and mental exercise for a balanced, contented Staffy.</p>
   </div>
   <!--/BLOCCO:4-->
 
@@ -160,7 +160,7 @@ custom_content: |
   </div>
   <h3>Summer rules for exercise</h3>
   <ul>
-  <li><strong>Timing:</strong> go out only in the cool hours - before 8:00 and after 20:00</li>
+  <li><strong>Timing:</strong> go out only in the cool hours, before 8:00 and after 20:00</li>
   <li><strong>Tarmac test:</strong> rest the back of your hand on the tarmac for 5 seconds. If it burns you, it burns the pads too</li>
   <li><strong>Always water:</strong> carry a bottle and a folding bowl, offer a drink often</li>
   <li><strong>Shade:</strong> avoid direct sun, choose tree-lined routes</li>
@@ -207,7 +207,7 @@ custom_content: |
   <ul>
   <li><strong>Exercise straight after meals:</strong> wait at least 1-2 hours (risk of gastric torsion)</li>
   <li><strong>Running on hot tarmac:</strong> burnt pads</li>
-  <li><strong>Repeated jumps from a height:</strong> stress on the joints, risk of dysplasia</li>
+  <li><strong>Repeated jumps from a height:</strong> too much load on the joints</li>
   <li><strong>Intense exercise in the heat:</strong> heatstroke</li>
   <li><strong>Jogging or cycling with puppies:</strong> permanent joint damage</li>
   <li><strong>Swimming in dangerous water:</strong> currents, toxic algae, water that is too cold</li>
@@ -225,14 +225,15 @@ custom_content: |
   <!--BLOCCO:8-->
   <h2>Building a balanced routine</h2>
   <p>A well-structured routine makes sure your Staffy gets the exercise it needs without risk.</p>
-  <h3>Example daily routine - adult</h3>
+  <h3>An example day, adult</h3>
   <ul>
-  <li><strong>Morning (7:00):</strong> a 30-40 minute walk with free exploration</li>
-  <li><strong>Midday:</strong> a mental game at home (Kong, puzzle) - 15 minutes</li>
-  <li><strong>Afternoon (17:00):</strong> an active play session (fetch, tug) - 20 minutes</li>
-  <li><strong>Evening (20:00):</strong> a relaxing 20-30 minute walk</li>
+  <li><strong>Morning:</strong> a walk with free exploration</li>
+  <li><strong>Midday:</strong> a food game at home (Kong, puzzle)</li>
+  <li><strong>Afternoon:</strong> active play (fetch, tug)</li>
+  <li><strong>Evening:</strong> a quiet walk</li>
   </ul>
-  <h3>Example routine - puppy of 4 months</h3>
+  <p>How long each outing lasts depends on the dog.</p>
+  <h3>An example day, puppy of 4 months</h3>
   <ul>
   <li><strong>Morning:</strong> a short 15-20 minute walk on grass</li>
   <li><strong>Several times a day:</strong> free play in the garden (it regulates itself)</li>
@@ -240,7 +241,7 @@ custom_content: |
   <li><strong>Evening:</strong> a short 15-20 minute walk</li>
   </ul>
   <div class="checklist">
-  <p class="checklist-title">Safe exercise checklist</p>
+  <p class="checklist-title">In short</p>
   <ul>
   <li>Respect the 5 minutes per month rule for puppies</li>
   <li>At least 2 outings a day for adults</li>
@@ -282,7 +283,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How much exercise does an adult Staffy need?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">There is no ideal number of minutes for every dog: it depends on the individual. What counts is at least two outings a day, with at least one of them allows sniffing and free movement rather than a loop of the block on a short lead. The Staffordshire Bull Terrier is explosive rather than built for endurance: it performs on short, intense efforts, not on hours of continuous running. The part almost everyone underestimates is mental work: <strong>half an hour of scent work tires a dog as much as an hour of running</strong>, and it puts no load on the joints. A dog that does not get enough outlet does not become destructive out of spite but out of boredom, and the symptoms are always the same: it chews, digs and never settles. After seven or eight years the need falls, but consistency matters even more.
+  <div class="faq-answer">There is no ideal number of minutes for every dog: it depends on the individual. What counts is at least two outings a day, with at least one of them allows sniffing and free movement rather than a loop of the block on a short lead. The Staffordshire Bull Terrier is explosive rather than built for endurance: it performs on short, intense efforts, not on hours of continuous running. The part almost everyone underestimates is mental work: <strong>a little scent work tires a dog more than a lot of running</strong>, and it puts no load on the joints. A dog that does not get enough outlet does not become destructive out of spite but out of boredom, and the symptoms are always the same: it chews, digs and never settles. After seven or eight years the need falls, but consistency matters even more.
   </div>
   </div>
 
@@ -300,7 +301,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Does the Staffy suffer from heat more than other breeds?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Yes, more than a long-muzzled dog, although less than brachycephalic breeds such as the pug or the English bulldog. A dog cools itself almost only by panting, and a shortened muzzle makes that exchange less efficient: above 25 degrees the margin shrinks quickly. The practical rule is to go out in the cool hours, always carry water and reduce the intensity, not only the duration. <strong>Never leave the dog in a car</strong>, not even for a few minutes and not even with the windows ajar: the inside passes forty degrees within a quarter of an hour. The signs of heatstroke are laboured panting that will not settle, dark red gums and staggering: it is a veterinary emergency, and while you wait the dog should be wetted with cool water, never iced.
+  <div class="faq-answer">Yes, more than a long-muzzled dog, although less than brachycephalic breeds such as the pug or the English bulldog. A dog cools itself almost only by panting, and a muzzle shorter than in many breeds makes that exchange less efficient: above 25 degrees the margin shrinks quickly. The practical rule is to go out in the cool hours, always carry water and reduce the intensity, not only the duration. <strong>Never leave the dog in a car</strong>, not even for a few minutes and not even with the windows ajar: the inside passes forty degrees within a quarter of an hour. The signs of heatstroke are laboured panting that will not settle, dark red gums and staggering: it is a veterinary emergency, and while you wait the dog should be wetted with cool water, never iced.
   </div>
   </div>
 
@@ -327,7 +328,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Can a Staffy swim?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Some can, many swim badly, and a few not at all. The build does not help: a wide, heavy chest, relatively short legs, dense muscle and little fat, all of which reduce buoyancy. Add the shortened muzzle, which in water means holding the head higher to breathe, and you have a dog that tires quickly. Swimming is still an excellent low-impact exercise, useful for overweight dogs or in rehabilitation: it simply has to be done with a <strong>life jacket</strong>, in calm water, with an easy way in and out and always under supervision. Never throw a dog into the water to see whether it copes, and rinse it after the sea or a pool, because salt and chlorine irritate the skin.
+  <div class="faq-answer">Some can, many swim badly, and a few not at all. The build does not help: a wide, heavy chest, relatively short legs, dense muscle and little fat, all of which reduce buoyancy. Add the muzzle, shorter than in many breeds, which in water means holding the head higher to breathe, and you have a dog that tires quickly. Swimming is still an excellent low-impact exercise, useful for overweight dogs or in rehabilitation: it simply has to be done with a <strong>life jacket</strong>, in calm water, with an easy way in and out and always under supervision. Never throw a dog into the water to see whether it copes, and rinse it after the sea or a pool, because salt and chlorine irritate the skin.
   </div>
   </div>
 
@@ -344,7 +345,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
+  <a class="btn" href="/en/blog/" title="Back to the blog">&larr; Back to the blog</a>
   </div>
   <!--/BLOCCO:12-->
 

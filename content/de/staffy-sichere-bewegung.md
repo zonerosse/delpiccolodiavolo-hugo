@@ -1,7 +1,7 @@
 ---
 title: "Sichere Bewegung für Staffordshire Bull Terrier"
 date: 2024-06-20
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 translationKey: "esercizio"
 in_breve:
   - "Der Staffy braucht **jeden Tag Bewegung**, aber das Maß ändert sich mit dem Alter."
@@ -58,7 +58,7 @@ custom_content: |
   </ul>
   <div class="callout">
   <p class="callout-title">🏆 Unsere Erfahrung</p>
-  <p>In mehr als zehn Jahren mit der Rasse haben wir gesehen, dass Staffies mit einer regelmäßigen Bewegungsroutine <strong>weniger Verhaltensprobleme haben, besser mit Stress umgehen</strong> und ein ruhigeres Familienleben führen. Ein müder Hund ist ein zufriedener Hund.</p>
+  <p>In mehr als zehn Jahren mit der Rasse haben wir gesehen, dass Staffies mit einer regelmäßigen Bewegungsroutine <strong>weniger Verhaltensprobleme haben, besser mit Stress umgehen</strong> und ein ruhigeres Familienleben führen.</p>
   </div>
   <!--/BLOCCO:2-->
 
@@ -86,7 +86,7 @@ custom_content: |
   <div class="alert">
   <p class="alert-title">⚠️ Was man mit Welpen vermeiden sollte</p>
   <ul>
-  <li><strong>Wiederholtes Springen:</strong> vom Sofa, Treppen, Hindernisse - zu viel Belastung für Hüften und Ellenbogen</li>
+  <li><strong>Wiederholtes Springen:</strong> vom Sofa, Treppen, Hindernisse: zu viel Belastung für Hüften und Ellenbogen</li>
   <li><strong>Lange Läufe:</strong> nie Joggen oder Radfahren mit einem Welpen unter 12 Monaten</li>
   <li><strong>Treppen:</strong> in den ersten 8-9 Monaten wird der Welpe getragen, hinauf wie hinunter</li>
   <li><strong>Zerrspiele:</strong> keine, mit Lappen, Seilen oder Ähnlichem, bis alle bleibenden Zähne da sind: sie schädigen wachsende Zähne und den Hals</li>
@@ -125,7 +125,7 @@ custom_content: |
   </ul>
   <div class="info-box">
   <p class="info-box-title">💡 Wie wichtig geistige Auslastung ist</p>
-  <p>15 Minuten Kopfarbeit (Problemlösespiele, Training, Nasenarbeit) ermüden einen Hund so sehr wie ein Spaziergang von 30-40 Minuten. Kombinieren Sie immer körperliche und geistige Bewegung für einen ausgeglichenen, zufriedenen Staffy.</p>
+  <p>Ein paar Minuten Kopfarbeit (Futterspiele, Training, Nasenarbeit) ermüden einen Hund mehr als ein langer Spaziergang. Kombinieren Sie immer körperliche und geistige Bewegung für einen ausgeglichenen, zufriedenen Staffy.</p>
   </div>
   <!--/BLOCCO:4-->
 
@@ -158,7 +158,7 @@ custom_content: |
   </div>
   <h3>Sommerregeln für die Bewegung</h3>
   <ul>
-  <li><strong>Uhrzeit:</strong> nur in den kühlen Stunden hinaus - vor 8 Uhr und nach 20 Uhr</li>
+  <li><strong>Uhrzeit:</strong> nur in den kühlen Stunden hinaus, vor 8 Uhr und nach 20 Uhr</li>
   <li><strong>Asphalttest:</strong> den Handrücken 5 Sekunden auf den Asphalt legen. Wenn er Sie verbrennt, verbrennt er auch die Ballen</li>
   <li><strong>Immer Wasser:</strong> eine Flasche und einen Faltnapf mitnehmen und oft zu trinken anbieten</li>
   <li><strong>Schatten:</strong> direkte Sonne meiden, Wege mit Bäumen wählen</li>
@@ -205,7 +205,7 @@ custom_content: |
   <ul>
   <li><strong>Bewegung direkt nach dem Fressen:</strong> mindestens 1-2 Stunden warten (Risiko einer Magendrehung)</li>
   <li><strong>Laufen auf heißem Asphalt:</strong> verbrannte Ballen</li>
-  <li><strong>Wiederholte Sprünge aus der Höhe:</strong> Belastung für die Gelenke, Dysplasierisiko</li>
+  <li><strong>Wiederholte Sprünge aus der Höhe:</strong> zu viel Belastung für die Gelenke</li>
   <li><strong>Intensive Bewegung bei Hitze:</strong> Hitzschlag</li>
   <li><strong>Joggen oder Radfahren mit Welpen:</strong> bleibende Gelenkschäden</li>
   <li><strong>Schwimmen in gefährlichem Wasser:</strong> Strömung, giftige Algen, zu kaltes Wasser</li>
@@ -223,14 +223,15 @@ custom_content: |
   <!--BLOCCO:8-->
   <h2>Eine ausgewogene Routine aufbauen</h2>
   <p>Eine gut aufgebaute Routine sorgt dafür, dass Ihr Staffy die Bewegung bekommt, die er braucht, ohne Risiko.</p>
-  <h3>Beispiel eines Tages - erwachsener Hund</h3>
+  <h3>Beispiel eines Tages, erwachsener Hund</h3>
   <ul>
-  <li><strong>Morgens (7 Uhr):</strong> ein Spaziergang von 30-40 Minuten mit freier Erkundung</li>
-  <li><strong>Mittags:</strong> ein Denkspiel im Haus (Kong, Puzzle) - 15 Minuten</li>
-  <li><strong>Nachmittags (17 Uhr):</strong> eine Einheit aktives Spiel (Apportieren, Zerren) - 20 Minuten</li>
-  <li><strong>Abends (20 Uhr):</strong> ein entspannter Spaziergang von 20-30 Minuten</li>
+  <li><strong>Morgens:</strong> ein Spaziergang mit freier Erkundung</li>
+  <li><strong>Mittags:</strong> ein Futterspiel im Haus (Kong, Puzzle)</li>
+  <li><strong>Nachmittags:</strong> aktives Spiel (Apportieren, Zerren)</li>
+  <li><strong>Abends:</strong> ein ruhiger Spaziergang</li>
   </ul>
-  <h3>Beispiel - Welpe mit 4 Monaten</h3>
+  <p>Wie lange jeder Ausgang dauert, hängt vom Hund ab.</p>
+  <h3>Beispiel eines Tages, Welpe mit 4 Monaten</h3>
   <ul>
   <li><strong>Morgens:</strong> ein kurzer Spaziergang von 15-20 Minuten auf Gras</li>
   <li><strong>Mehrmals am Tag:</strong> freies Spiel im Garten (er teilt sich selbst ein)</li>
@@ -238,7 +239,7 @@ custom_content: |
   <li><strong>Abends:</strong> ein kurzer Spaziergang von 15-20 Minuten</li>
   </ul>
   <div class="checklist">
-  <p class="checklist-title">Checkliste für sichere Bewegung</p>
+  <p class="checklist-title">Kurz gesagt</p>
   <ul>
   <li>Bei Welpen die Regel von 5 Minuten pro Monat einhalten</li>
   <li>Mindestens 2 Ausgänge am Tag für Erwachsene</li>
@@ -280,7 +281,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie viel Bewegung braucht ein erwachsener Staffy?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Eine ideale Minutenzahl für jeden Hund gibt es nicht: sie hängt vom einzelnen Hund ab. Wichtig sind mindestens zwei Gänge am Tag, von denen mindestens einer Schnüffeln und freie Bewegung erlaubt und nicht nur eine Runde um den Block an kurzer Leine ist. Der Staffordshire Bull Terrier ist ein Sprinter, kein Ausdauerläufer: Er leistet viel bei kurzen, intensiven Anstrengungen, nicht bei stundenlangem Laufen. Was fast alle unterschätzen, ist die Kopfarbeit: <strong>eine halbe Stunde Nasenarbeit ermüdet einen Hund so sehr wie eine Stunde Laufen</strong>, ohne die Gelenke zu belasten. Ein Hund, der nicht genug ausgelastet wird, wird nicht aus Trotz zerstörerisch, sondern aus Langeweile, und die Anzeichen sind immer dieselben: er kaut, gräbt und kommt nie zur Ruhe. Ab sieben oder acht Jahren sinkt der Bedarf, doch die Regelmäßigkeit zählt dann noch mehr.
+  <div class="faq-answer">Eine ideale Minutenzahl für jeden Hund gibt es nicht: sie hängt vom einzelnen Hund ab. Wichtig sind mindestens zwei Gänge am Tag, von denen mindestens einer Schnüffeln und freie Bewegung erlaubt und nicht nur eine Runde um den Block an kurzer Leine ist. Der Staffordshire Bull Terrier ist ein Sprinter, kein Ausdauerläufer: Er leistet viel bei kurzen, intensiven Anstrengungen, nicht bei stundenlangem Laufen. Was fast alle unterschätzen, ist die Kopfarbeit: <strong>ein wenig Nasenarbeit ermüdet einen Hund mehr als viel Laufen</strong>, ohne die Gelenke zu belasten. Ein Hund, der nicht genug ausgelastet wird, wird nicht aus Trotz zerstörerisch, sondern aus Langeweile, und die Anzeichen sind immer dieselben: er kaut, gräbt und kommt nie zur Ruhe. Ab sieben oder acht Jahren sinkt der Bedarf, doch die Regelmäßigkeit zählt dann noch mehr.
   </div>
   </div>
 
@@ -298,7 +299,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Leidet der Staffy stärker unter Hitze als andere Rassen?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Ja, stärker als ein Hund mit langem Fang, wenn auch weniger als brachyzephale Rassen wie Mops oder Englische Bulldogge. Ein Hund kühlt sich fast nur durch Hecheln, und ein verkürzter Fang macht diesen Austausch weniger wirksam: über 25 Grad wird der Spielraum schnell kleiner. Die praktische Regel: in den kühlen Stunden hinausgehen, immer Wasser dabeihaben und die Intensität verringern, nicht nur die Dauer. <strong>Lassen Sie den Hund nie im Auto</strong>, auch nicht für ein paar Minuten und nicht bei einem Spalt offenem Fenster: der Innenraum überschreitet in einer Viertelstunde vierzig Grad. Anzeichen eines Hitzschlags sind angestrengtes Hecheln, das sich nicht beruhigt, dunkelrotes Zahnfleisch und Taumeln: ein tierärztlicher Notfall, und bis dahin wird der Hund mit kühlem, niemals eiskaltem Wasser nass gemacht.
+  <div class="faq-answer">Ja, stärker als ein Hund mit langem Fang, wenn auch weniger als brachyzephale Rassen wie Mops oder Englische Bulldogge. Ein Hund kühlt sich fast nur durch Hecheln, und ein Fang, der kürzer ist als bei vielen Rassen, macht diesen Austausch weniger wirksam: über 25 Grad wird der Spielraum schnell kleiner. Die praktische Regel: in den kühlen Stunden hinausgehen, immer Wasser dabeihaben und die Intensität verringern, nicht nur die Dauer. <strong>Lassen Sie den Hund nie im Auto</strong>, auch nicht für ein paar Minuten und nicht bei einem Spalt offenem Fenster: der Innenraum überschreitet in einer Viertelstunde vierzig Grad. Anzeichen eines Hitzschlags sind angestrengtes Hecheln, das sich nicht beruhigt, dunkelrotes Zahnfleisch und Taumeln: ein tierärztlicher Notfall, und bis dahin wird der Hund mit kühlem, niemals eiskaltem Wasser nass gemacht.
   </div>
   </div>
 
@@ -325,7 +326,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Kann ein Staffy schwimmen?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Manche ja, viele schlecht und einige gar nicht. Der Körperbau hilft nicht: breiter, schwerer Brustkorb, verhältnismäßig kurze Läufe, dichte Muskulatur und wenig Fett, alles Dinge, die den Auftrieb verringern. Dazu kommt der verkürzte Fang, der im Wasser bedeutet, den Kopf höher halten zu müssen, um zu atmen, und so ermüdet der Hund schnell. Schwimmen bleibt dennoch eine hervorragende, gelenkschonende Bewegung, nützlich bei Übergewicht oder in der Reha: nur eben mit <strong>Schwimmweste</strong>, in ruhigem Wasser, mit leichtem Ein- und Ausstieg und immer unter Aufsicht. Werfen Sie nie einen Hund ins Wasser, um zu sehen, ob er zurechtkommt, und spülen Sie ihn nach Meer oder Pool ab, weil Salz und Chlor die Haut reizen.
+  <div class="faq-answer">Manche ja, viele schlecht und einige gar nicht. Der Körperbau hilft nicht: breiter, schwerer Brustkorb, verhältnismäßig kurze Läufe, dichte Muskulatur und wenig Fett, alles Dinge, die den Auftrieb verringern. Dazu kommt der Fang, kürzer als bei vielen Rassen, der im Wasser bedeutet, den Kopf höher halten zu müssen, um zu atmen, und so ermüdet der Hund schnell. Schwimmen bleibt dennoch eine hervorragende, gelenkschonende Bewegung, nützlich bei Übergewicht oder in der Reha: nur eben mit <strong>Schwimmweste</strong>, in ruhigem Wasser, mit leichtem Ein- und Ausstieg und immer unter Aufsicht. Werfen Sie nie einen Hund ins Wasser, um zu sehen, ob er zurechtkommt, und spülen Sie ihn nach Meer oder Pool ab, weil Salz und Chlor die Haut reizen.
   </div>
   </div>
 
