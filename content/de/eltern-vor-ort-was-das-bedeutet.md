@@ -2,14 +2,14 @@
 title: "\"Eltern vor Ort\": was das wirklich bedeutet"
 titleSeo: "\"Eltern vor Ort\": was das wirklich bedeutet"
 date: 2026-09-26
-lastmod: 2026-10-08
+lastmod: 2026-10-17
 translationKey: "genitori-visibili"
 articolo: true
 image: "/images/blog/genitori-visibili-hero.webp"
 og_image: "/images/og/schede/de/eltern-vor-ort-was-das-bedeutet.jpg"
 og_image_alt: "\"Eltern vor Ort\": was das wirklich bedeutet — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/genitori-visibili-cosa-significa.webp"
-description: "Warum der Vater eines Wurfs fast nie in der Zucht zu sehen ist, wie man einen Deckrüden aus der Ferne überprüft und worauf man bei der Mutter achten sollte."
+description: "Warum der Vater eines Wurfs oft nicht in der Zucht zu sehen ist, wie man einen Deckrüden aus der Ferne überprüft und worauf man bei der Mutter achten sollte."
 slug: "eltern-vor-ort-was-das-bedeutet"
 custom_content: |
   <!--BLOCCO:1-->
@@ -22,7 +22,7 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Welpen</span>
   <h1 class="hero-title">&bdquo;Eltern vor Ort&ldquo;: <em>was das wirklich</em> bedeutet</h1>
-  <p class="hero-subtitle">Warum der Vater fast nie da ist, und worauf man stattdessen bei der Mutter achtet</p>
+  <p class="hero-subtitle">Warum der Vater oft nicht da ist, und worauf man stattdessen bei der Mutter achtet</p>
   <div class="hero-meta">
   <span>&#9201;&#65039; 6 Min. Lesezeit</span>
   </div>
@@ -40,16 +40,16 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>&bdquo;Beide Elterntiere vor Ort&ldquo; gehört zu den häufigsten Formulierungen in Welpenanzeigen für den Staffordshire Bull Terrier, und sie klingt nach einer Garantie für Seriosität. Wörtlich genommen beschreibt sie jedoch etwas anderes, als sie zu versprechen scheint: die Mutter ist immer da, weil die Welpen dort geboren wurden, der Vater fast nie &mdash; und das nicht aus Verschwiegenheit. Ein Zuchtprogramm, das nach vorn denkt, sucht den Deckrüden auswärts, oft im Ausland, weil die Hunde, die den Anforderungen an Gentests, Inzuchtkoeffizient und strukturelle Passung genügen, selten und weit entfernt sind. Ein Rüde tausend Kilometer entfernt lässt sich allerdings gründlicher prüfen als einer, den man zwei Minuten lang im Hof gesehen hat, denn von ihm gibt es Tests, Ahnentafel und Nachkommen. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
+  <p>&bdquo;Beide Elterntiere vor Ort&ldquo; gehört zu den häufigsten Formulierungen in Welpenanzeigen für den Staffordshire Bull Terrier, und sie klingt nach einer Garantie für Seriosität. Wörtlich genommen beschreibt sie jedoch etwas anderes, als sie zu versprechen scheint: die Mutter ist immer da, weil die Welpen dort geboren wurden, der Vater oft nicht, und das nicht aus Verschwiegenheit. Ein Zuchtprogramm, das nach vorn denkt, sucht den Deckrüden auswärts, oft im Ausland, weil die Hunde, die den Anforderungen an Gentests, Inzuchtkoeffizient und strukturelle Passung genügen, selten und weit entfernt sind. Ein Rüde tausend Kilometer entfernt lässt sich allerdings gründlicher prüfen als einer, den man zwei Minuten lang im Hof gesehen hat, denn von ihm gibt es Tests, Ahnentafel und Nachkommen. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
   <!--BLOCCO:2-->
   <h2>Richtig hieße es &bdquo;Mutter vor Ort&ldquo;</h2>
 
-  <p>Die Mutter ist immer da, weil die Welpen dort geboren wurden. Der Vater fast nie, und das nicht aus Zurückhaltung: ein ernsthaftes Zuchtprogramm sucht den Rüden draußen.</p>
+  <p>Die Mutter ist immer da, weil die Welpen dort geboren wurden. Der Vater oft nicht, und das nicht aus Zurückhaltung: ein ernsthaftes Zuchtprogramm sucht den Rüden draußen.</p>
 
-  <p>Bei der Planung einer Verpaarung wählt man nicht den bequemsten Hund, sondern den, der ausgleicht, was der Hündin fehlt. Man prüft die Gentests, den theoretischen Inzuchtkoeffizienten des Wurfs, die strukturelle Passung &mdash; Bau, Kopf, Bewegung. Und die Hunde, die diesen Anforderungen international genügen, <strong>kann man zählen</strong>. Es sind wenige, und sie leben weit weg.</p>
+  <p>Bei der Planung einer Verpaarung wählt man nicht den bequemsten Hund, sondern den, der ausgleicht, was der Hündin fehlt. Man prüft die Gentests, den theoretischen Inzuchtkoeffizienten des Wurfs, die strukturelle Passung: Bau, Kopf, Bewegung. Und die Hunde, die diesen Anforderungen international genügen, <strong>kann man zählen</strong>. Es sind wenige, und sie leben weit weg.</p>
 
-  <p>Die Wahrheit, die keine Anzeige schreibt, lautet: um über Jahre etwas aufzubauen, muss man in neun von zehn Fällen nach außen gehen. Und nach außen zu gehen hat einen genauen Preis, zwischen Decktaxe, Reise und Hotel: er steht <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/#costi-cucciolata" title="Was uns ein Wurf kostet, Posten für Posten">in den Kosten eines Wurfs, Posten für Posten</a>.</p>
+  <p>Die Wahrheit, die keine Anzeige schreibt, lautet: um über Jahre etwas aufzubauen, muss man meistens nach außen gehen. Und nach außen zu gehen hat einen genauen Preis, zwischen Decktaxe, Reise und Hotel: er steht <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/#costi-cucciolata" title="Was uns ein Wurf kostet, Posten für Posten">in den Kosten eines Wurfs, Posten für Posten</a>.</p>
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
@@ -71,7 +71,7 @@ custom_content: |
 
   <p><strong>Auf Ausstellungen.</strong> Wer die Rasse verfolgt, hat die guten Rüden live im Ring gesehen, von einem Richter vor allen beurteilt.</p>
 
-  <p><strong>Auf <a href="https://sbtpedigree.com/" target="_blank" rel="noopener" aria-label="SBTPedigree, internationales Archiv der Rasse (wird in einem neuen Tab geöffnet)">SBTPedigree</a></strong>, dem internationalen Archiv der Rasse, wo zu einem Hund Fotos stehen &mdash; und damit ein genaues Bild seines Baus, auch ohne ihn je gesehen zu haben &mdash; dazu Titel, Gentests, die Nachkommen mit ihren eigenen Tests und Titeln sowie der Name des Besitzers.</p>
+  <p><strong>Auf <a href="https://sbtpedigree.com/" target="_blank" rel="noopener" aria-label="SBTPedigree, internationales Archiv der Rasse (wird in einem neuen Tab geöffnet)">SBTPedigree</a></strong>, dem internationalen Archiv der Rasse, wo zu einem Hund Fotos stehen (und damit ein genaues Bild seines Baus, auch ohne ihn je gesehen zu haben), dazu Titel, Gentests, die Nachkommen mit ihren eigenen Tests und Titeln sowie der Name des Besitzers.</p>
 
   <p><strong>Mit der Probeverpaarung</strong> desselben Archivs, die den theoretischen Inzuchtkoeffizienten des Wurfs berechnet und zeigt, auf welche Ahnen er sich konzentriert.</p>
 
@@ -79,7 +79,7 @@ custom_content: |
 
   <p>Vier Prüfungen, die jeder von zu Hause aus durchführen kann, an einem Hund, den er nie sehen wird. Gegen &bdquo;ich habe ihn gesehen, er war schön&ldquo;.</p>
 
-  <p>Und es gibt eine fünfte, die sich nicht von zu Hause erledigen lässt, in dieser Welt aber besser funktioniert als alle anderen: <strong>die Kontrolle übernehmen die anderen Züchter</strong>. In einer Rasse, in der sich alle kennen, fliegt eine Ahnentafel mit einem Hund, der nicht hineingehört, oder ein aufgeblasener Titel binnen Wochen auf &mdash; weil jemand diese Hunde im Ring gesehen hat und jemand anders einen Sohn oder Bruder besitzt. Transparenz ist hier kein guter Wille: es geht schlicht nicht anders.</p>
+  <p>Und es gibt eine fünfte, die sich nicht von zu Hause erledigen lässt, in dieser Welt aber besser funktioniert als alle anderen: <strong>die Kontrolle übernehmen die anderen Züchter</strong>. In einer Rasse, in der sich alle kennen, fliegt eine Ahnentafel mit einem Hund, der nicht hineingehört, oder ein aufgeblasener Titel binnen Wochen auf, weil jemand diese Hunde im Ring gesehen hat und jemand anders einen Sohn oder Bruder besitzt. Transparenz ist hier kein guter Wille: es geht schlicht nicht anders.</p>
   <!--/BLOCCO:4-->
 
   <!--BLOCCO:5-->
@@ -91,7 +91,7 @@ custom_content: |
 
   <p><strong>Wie sie mit ihren Welpen umgeht.</strong> Ob sie sie gelassen führt, sie loslässt, wenn es nötig ist, und sie wieder zu sich ruft.</p>
 
-  <p><strong>Wo sie geboren wurden und wo sie aufwachsen.</strong> Das ist vielleicht der wichtigste Punkt überhaupt, und er betrifft nicht die Mutter, sondern den Ort: ein Welpe, der im Haus aufwächst, zwischen Haushaltsgeräuschen und Menschen, kommt an die Familie gewöhnt in sein neues Zuhause. Einer, der in einer Halle aufwächst, nicht &mdash; so gesund seine Mutter auch sein mag.</p>
+  <p><strong>Wo sie geboren wurden und wo sie aufwachsen.</strong> Das ist vielleicht der wichtigste Punkt überhaupt, und er betrifft nicht die Mutter, sondern den Ort: ein Welpe, der im Haus aufwächst, zwischen Haushaltsgeräuschen und Menschen, kommt an die Familie gewöhnt in sein neues Zuhause. Einer, der in einer Halle aufwächst, nicht, so gesund seine Mutter auch sein mag.</p>
 
   <p><strong>Wer sonst da ist.</strong> Der Züchter, die anderen erwachsenen Hunde, wie sie aussehen und wie sie sich verhalten. Das sind die Hunde, die diese Selektion über Jahre hervorgebracht hat: sie sind das Ergebnis, nicht der Plan.</p>
   <!--/BLOCCO:5-->
@@ -99,15 +99,15 @@ custom_content: |
   <!--BLOCCO:6-->
   <h2>Zwei ehrliche Anmerkungen</h2>
 
-  <p><strong>Eine säugende Hündin ist vielleicht nicht in Form.</strong> Eine Hündin, die acht Welpen großzieht, hat alles gegeben: stumpfes Fell, weniger Gewicht, müder Ausdruck. Das ist normal und gehört gesagt, statt beschönigt zu werden. Eine Hündin in der Laktation wie im Ring zu beurteilen, ergibt keinen Sinn.</p>
+  <p><strong>Eine säugende Hündin ist vielleicht nicht in Form.</strong> Eine Hündin, die einen Wurf großzieht, hat alles gegeben: stumpfes Fell, weniger Gewicht, müder Ausdruck. Das ist normal und gehört gesagt, statt beschönigt zu werden. Eine Hündin in der Laktation wie im Ring zu beurteilen, ergibt keinen Sinn.</p>
 
-  <p><strong>Und manchmal kann die Mutter nicht frei bei den Welpen bleiben.</strong> Eine unserer Hündinnen hat per Notkaiserschnitt geworfen und beim Tierarzt gesäugt, kaum aus der Narkose erwacht. Zu Hause &mdash; vierzig Minuten Fahrt &mdash; begann sie anzuschwellen, mit Quaddeln am ganzen Körper: eine allergische Reaktion auf ein Medikament. Weitere vierzig Minuten zurück zum Tierarzt, Kortison, und wieder nach Hause.</p>
+  <p><strong>Und manchmal kann die Mutter nicht frei bei den Welpen bleiben.</strong> Eine unserer Hündinnen hat per Notkaiserschnitt geworfen und beim Tierarzt gesäugt, kaum aus der Narkose erwacht. Zu Hause, nach vierzig Minuten Fahrt, begann sie anzuschwellen, mit Quaddeln am ganzen Körper: eine allergische Reaktion auf ein Medikament. Weitere vierzig Minuten zurück zum Tierarzt, Kortison, und wieder nach Hause.</p>
 
   <p>Dann geschah es. Während die Welpen tranken, begann sie sie zu lecken, dann zu knabbern. Ich war einen Moment weg, und als ich zurückkam, waren zwei tot.</p>
 
   <p>Von diesem Tag an bis zum Absetzen haben wir die Wurfkiste geteilt: die Welpen schliefen getrennt neben der Mutter, und gesäugt wurde alle zwei bis drei Stunden unter Aufsicht.</p>
 
-  <p>Das erzählt sich schwer und steht nirgendwo sonst. Aber wer eine Zucht besucht, sollte wissen, dass eine von ihren Welpen getrennte Mutter nicht zwangsläufig ein Zeichen von Unehrlichkeit ist: manchmal ist es das einzig Richtige. Der Unterschied liegt allein in einem Punkt &mdash; <strong>ob der Züchter es erzählt oder zu verbergen versucht</strong>.</p>
+  <p>Das erzählt sich schwer und steht nirgendwo sonst. Aber wer eine Zucht besucht, sollte wissen, dass eine von ihren Welpen getrennte Mutter nicht zwangsläufig ein Zeichen von Unehrlichkeit ist: manchmal ist es das einzig Richtige. Der Unterschied liegt allein in einem Punkt: <strong>ob der Züchter es erzählt oder zu verbergen versucht</strong>.</p>
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->
@@ -118,7 +118,7 @@ custom_content: |
   <ul>
   <li><strong>die Mutter</strong>, beurteilt nach dem Wesen und nicht nach der augenblicklichen Kondition</li>
   <li><strong>der Ort</strong>, an dem die Welpen geboren werden und aufwachsen</li>
-  <li><strong>der Vater</strong>, der fast immer weit weg ist &mdash; und der über Unterlagen geprüft wird, nicht mit den Augen</li>
+  <li><strong>der Vater</strong>, der oft weit weg ist und der über Unterlagen geprüft wird, nicht mit den Augen</li>
   <li><strong>der Züchter</strong>, der auf eine unbequeme Frage antwortet, statt sie zu umgehen</li>
   </ul>
 

@@ -2,14 +2,14 @@
 title: "\"Parents on site\": what it really means"
 titleSeo: "\"Parents on site\": what it really means"
 date: 2026-09-26
-lastmod: 2026-10-08
+lastmod: 2026-10-17
 translationKey: "genitori-visibili"
 articolo: true
 image: "/images/blog/genitori-visibili-hero.webp"
 og_image: "/images/og/schede/en/parents-on-site-what-it-means.jpg"
 og_image_alt: "\"Parents on site\": what it really means — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/genitori-visibili-cosa-significa.webp"
-description: "Why the sire of a litter is almost never at the kennel, how to check a stud dog that lives a thousand kilometres away, and what to look for in the dam."
+description: "Why the sire of a litter is often not at the kennel, how to check a stud dog that lives a thousand kilometres away, and what to look for in the dam."
 slug: "parents-on-site-what-it-means"
 custom_content: |
   <!--BLOCCO:1-->
@@ -22,7 +22,7 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Puppies</span>
   <h1 class="hero-title">&ldquo;Parents on site&rdquo;: <em>what it really</em> means</h1>
-  <p class="hero-subtitle">Why the sire is almost never there, and what to look for in the dam instead</p>
+  <p class="hero-subtitle">Why the sire is often not there, and what to look for in the dam instead</p>
   <div class="hero-meta">
   <span>&#9201;&#65039; 6 min read</span>
   </div>
@@ -40,16 +40,16 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>&ldquo;Both parents on site&rdquo; is one of the most common phrases in Staffordshire Bull Terrier puppy adverts, and it sounds like a guarantee of good practice. Taken literally, though, it describes something different from what it seems to promise: the dam is always there, because the puppies were born there, while the sire almost never is &mdash; and not out of secrecy. A breeding programme that looks ahead searches for the stud dog elsewhere, often abroad, because the dogs that meet the requirements of health testing, inbreeding coefficient and structural compatibility are few and far between. A stud living a thousand kilometres away, however, can be checked far more thoroughly than one seen for two minutes in a yard. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>&ldquo;Both parents on site&rdquo; is one of the most common phrases in Staffordshire Bull Terrier puppy adverts, and it sounds like a guarantee of good practice. Taken literally, though, it describes something different from what it seems to promise: the dam is always there, because the puppies were born there, while the sire often is not, and not out of secrecy. A breeding programme that looks ahead searches for the stud dog elsewhere, often abroad, because the dogs that meet the requirements of health testing, inbreeding coefficient and structural compatibility are few and far between. A stud living a thousand kilometres away, however, can be checked far more thoroughly than one seen for two minutes in a yard. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
   <!--BLOCCO:2-->
   <h2>What it should say is &ldquo;dam on site&rdquo;</h2>
 
-  <p>The dam is always there, because the puppies were born there. The sire almost never is, and not out of reticence: a serious breeding programme goes looking for the male outside.</p>
+  <p>The dam is always there, because the puppies were born there. The sire often is not, and not out of reticence: a serious breeding programme goes looking for the male outside.</p>
 
-  <p>When a mating is planned you do not choose the most convenient dog: you look for the one that corrects what the bitch lacks. You look at the genetic tests, at the theoretical inbreeding coefficient of the litter, at structural compatibility &mdash; build, head, movement. And the dogs that meet those requirements, across the breed internationally, <strong>can be counted</strong>. There are few of them, and they are far away.</p>
+  <p>When a mating is planned you do not choose the most convenient dog: you look for the one that corrects what the bitch lacks. You look at the genetic tests, at the theoretical inbreeding coefficient of the litter, at structural compatibility: build, head, movement. And the dogs that meet those requirements, across the breed internationally, <strong>can be counted</strong>. There are few of them, and they are far away.</p>
 
-  <p>The truth no advert prints is this: to build something over the years, in nine cases out of ten you have to go outside. And going outside has a precise price, between stud fee, travel and hotel: it is set out <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/#costi-cucciolata" title="What a litter costs us, item by item">in what a litter costs us, item by item</a>.</p>
+  <p>The truth no advert prints is this: to build something over the years, more often than not you have to go outside. And going outside has a precise price, between stud fee, travel and hotel: it is set out <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/#costi-cucciolata" title="What a litter costs us, item by item">in what a litter costs us, item by item</a>.</p>
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
@@ -71,7 +71,7 @@ custom_content: |
 
   <p><strong>At shows.</strong> Anyone who follows the breed has seen the good males in person, in the ring, assessed by a judge in front of everybody.</p>
 
-  <p><strong>On <a href="https://sbtpedigree.com/" target="_blank" rel="noopener" aria-label="SBTPedigree, the breed's international archive (opens in a new tab)">SBTPedigree</a></strong>, the breed's international archive, where a dog's entry carries photographs &mdash; so you get a precise idea of how he is built even without having seen him &mdash; along with titles, genetic tests, his offspring with their own tests and titles, and the owner's name.</p>
+  <p><strong>On <a href="https://sbtpedigree.com/" target="_blank" rel="noopener" aria-label="SBTPedigree, the breed's international archive (opens in a new tab)">SBTPedigree</a></strong>, the breed's international archive, where a dog's entry carries photographs (so you get a precise idea of how he is built even without having seen him), along with titles, genetic tests, his offspring with their own tests and titles, and the owner's name.</p>
 
   <p><strong>With the test mating tool</strong> on the same archive, which calculates the theoretical inbreeding coefficient of the litter and shows which ancestors it concentrates on.</p>
 
@@ -79,7 +79,7 @@ custom_content: |
 
   <p>Four checks anyone can run from home, on a dog they will never see. Against &ldquo;I saw him, he looked nice&rdquo;.</p>
 
-  <p>And there is a fifth, which cannot be done from home but which in this world works better than all the others: <strong>the checking is done by other breeders</strong>. In a breed where everybody knows everybody, a pedigree with a dog that does not belong in it, or an inflated title, is found out within weeks &mdash; because somebody has seen those dogs in the ring, and somebody else owns a son or a brother. Transparency here is not goodwill: it is that there is no alternative.</p>
+  <p>And there is a fifth, which cannot be done from home but which in this world works better than all the others: <strong>the checking is done by other breeders</strong>. In a breed where everybody knows everybody, a pedigree with a dog that does not belong in it, or an inflated title, is found out within weeks, because somebody has seen those dogs in the ring, and somebody else owns a son or a brother. Transparency here is not goodwill: it is that there is no alternative.</p>
   <!--/BLOCCO:4-->
 
   <!--BLOCCO:5-->
@@ -99,15 +99,15 @@ custom_content: |
   <!--BLOCCO:6-->
   <h2>Two honest caveats</h2>
 
-  <p><strong>A nursing bitch may not be in condition.</strong> A female raising eight puppies has given everything: dull coat, weight down, a tired look. That is normal and should be said, rather than glossed over. Judging a bitch in lactation as you would judge her in the ring makes no sense.</p>
+  <p><strong>A nursing bitch may not be in condition.</strong> A female raising a litter has given everything: dull coat, weight down, a tired look. That is normal and should be said, rather than glossed over. Judging a bitch in lactation as you would judge her in the ring makes no sense.</p>
 
-  <p><strong>And sometimes the dam cannot be left loose with her puppies.</strong> One of our bitches whelped by emergency caesarean and nursed at the vet's, just as she came round from the anaesthetic. Back home &mdash; forty minutes of driving &mdash; she began to swell, with hives all over her body: an allergic reaction to a drug. Another forty minutes back to the vet, corticosteroids, and home again.</p>
+  <p><strong>And sometimes the dam cannot be left loose with her puppies.</strong> One of our bitches whelped by emergency caesarean and nursed at the vet's, just as she came round from the anaesthetic. Back home, after forty minutes of driving, she began to swell, with hives all over her body: an allergic reaction to a drug. Another forty minutes back to the vet, corticosteroids, and home again.</p>
 
   <p>That is when it happened. While the puppies were suckling she started licking them, then mouthing them. I stepped away for a moment, and when I came back two were dead.</p>
 
   <p>From that day until weaning we divided the whelping box in two: the puppies slept beside their mother, separated, and nursed every two or three hours under supervision.</p>
 
-  <p>It is a hard thing to tell and you will not read it anywhere else. But anyone visiting a kennel should know that a dam kept apart from her puppies is not necessarily a sign of bad faith: sometimes it is the only right thing to do. The difference lies in one thing only &mdash; <strong>whether the breeder tells you, or tries to hide it</strong>.</p>
+  <p>It is a hard thing to tell and you will not read it anywhere else. But anyone visiting a kennel should know that a dam kept apart from her puppies is not necessarily a sign of bad faith: sometimes it is the only right thing to do. The difference lies in one thing only: <strong>whether the breeder tells you, or tries to hide it</strong>.</p>
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->
@@ -118,7 +118,7 @@ custom_content: |
   <ul>
   <li><strong>the dam</strong>, judged on temperament and not on the condition she happens to be in</li>
   <li><strong>the place</strong> where the puppies are born and raised</li>
-  <li><strong>the sire</strong>, who is almost always far away &mdash; and who is checked on documents, not by eye</li>
+  <li><strong>the sire</strong>, who is often far away and who is checked on documents, not by eye</li>
   <li><strong>the breeder</strong>, who answers an awkward question instead of talking around it</li>
   </ul>
 

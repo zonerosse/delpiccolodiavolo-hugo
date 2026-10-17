@@ -2,14 +2,14 @@
 title: "Genitori visibili: cosa significa davvero"
 titleSeo: "Genitori visibili: cosa significa davvero"
 date: 2026-09-26
-lastmod: 2026-10-08
+lastmod: 2026-10-17
 translationKey: "genitori-visibili"
 articolo: true
 image: "/images/blog/genitori-visibili-hero.webp"
 og_image: "/images/og/schede/it/genitori-visibili-cosa-significa.jpg"
 og_image_alt: "Genitori visibili: cosa significa davvero — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/genitori-visibili-cosa-significa.webp"
-description: "Perché il padre di una cucciolata quasi mai è visibile in allevamento, come si verifica un maschio che sta a mille chilometri e cosa guardare nella madre."
+description: "Perché il padre di una cucciolata spesso non è in allevamento, come si verifica un maschio che sta a mille chilometri e cosa guardare nella madre."
 slug: "genitori-visibili-cosa-significa"
 custom_content: |
   <!--BLOCCO:1-->
@@ -22,7 +22,7 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Cuccioli</span>
   <h1 class="hero-title">&laquo;Genitori visibili&raquo;: <em>cosa significa</em> davvero</h1>
-  <p class="hero-subtitle">Perch&eacute; il padre quasi mai &egrave; l&igrave;, e cosa guardare invece nella madre</p>
+  <p class="hero-subtitle">Perch&eacute; il padre spesso non &egrave; l&igrave;, e cosa guardare invece nella madre</p>
   <div class="hero-meta">
   <span>&#9201;&#65039; 6 min lettura</span>
   </div>
@@ -40,16 +40,16 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>&laquo;Genitori visibili&raquo; &egrave; una delle formule pi&ugrave; ricorrenti negli annunci di cuccioli di Staffordshire Bull Terrier, e suona come una garanzia di serietà. Presa alla lettera per&ograve; descrive una cosa diversa da quella che sembra promettere: la madre c'&egrave; sempre, perch&eacute; i cuccioli sono nati l&igrave;, mentre il padre quasi mai &mdash; e non per reticenza. Un programma di allevamento che guarda avanti cerca lo stallone fuori, spesso all'estero, perch&eacute; i soggetti che rispondono ai requisiti di test, coefficiente di consanguineit&agrave; e compatibilit&agrave; strutturale sono pochi e distanti. Un maschio che sta a mille chilometri, per&ograve;, si verifica meglio di uno visto due minuti in un cortile, perché di lui restano test, pedigree e figli da guardare. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
+  <p>&laquo;Genitori visibili&raquo; &egrave; una delle formule pi&ugrave; ricorrenti negli annunci di cuccioli di Staffordshire Bull Terrier, e suona come una garanzia di serietà. Presa alla lettera per&ograve; descrive una cosa diversa da quella che sembra promettere: la madre c'&egrave; sempre, perch&eacute; i cuccioli sono nati l&igrave;, mentre il padre spesso no, e non per reticenza. Un programma di allevamento che guarda avanti cerca lo stallone fuori, spesso all'estero, perch&eacute; i soggetti che rispondono ai requisiti di test, coefficiente di consanguineit&agrave; e compatibilit&agrave; strutturale sono pochi e distanti. Un maschio che sta a mille chilometri, per&ograve;, si verifica meglio di uno visto due minuti in un cortile, perché di lui restano test, pedigree e figli da guardare. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
   <!--BLOCCO:2-->
   <h2>Quello che si dovrebbe leggere &egrave; &laquo;madre visibile&raquo;</h2>
 
-  <p>La madre c'&egrave; sempre, perch&eacute; i cuccioli sono nati l&igrave;. Il padre quasi mai, e non per reticenza: perch&eacute; un programma di allevamento serio, il maschio, lo va a cercare fuori.</p>
+  <p>La madre c'&egrave; sempre, perch&eacute; i cuccioli sono nati l&igrave;. Il padre spesso no, e non per reticenza: perch&eacute; un programma di allevamento serio, il maschio, lo va a cercare fuori.</p>
 
-  <p>Quando si pianifica un accoppiamento non si sceglie il cane pi&ugrave; comodo: si cerca il soggetto che corregge quello che manca alla femmina. Si guardano i test genetici, il coefficiente di consanguineit&agrave; teorico della cucciolata, la compatibilit&agrave; fenotipica &mdash; struttura, testa, movimento. E i soggetti che rispondono a quei requisiti, nel panorama internazionale della razza, <strong>si contano</strong>. Sono pochi, e stanno a chilometri di distanza.</p>
+  <p>Quando si pianifica un accoppiamento non si sceglie il cane pi&ugrave; comodo: si cerca il soggetto che corregge quello che manca alla femmina. Si guardano i test genetici, il coefficiente di consanguineit&agrave; teorico della cucciolata, la compatibilit&agrave; fenotipica: struttura, testa, movimento. E i soggetti che rispondono a quei requisiti, nel panorama internazionale della razza, <strong>si contano</strong>. Sono pochi, e stanno a chilometri di distanza.</p>
 
-  <p>La verit&agrave; che nessun annuncio scrive &egrave; questa: per costruire qualcosa negli anni, nel novanta per cento dei casi devi andare fuori. E andare fuori ha un prezzo preciso, fra diritti di monta, viaggio e albergo: lo trovi <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/#costi-cucciolata" title="Quanto costa una cucciolata, voce per voce">nei costi di una cucciolata, voce per voce</a>.</p>
+  <p>La verit&agrave; che nessun annuncio scrive &egrave; questa: per costruire qualcosa negli anni, il pi&ugrave; delle volte devi andare fuori. E andare fuori ha un prezzo preciso, fra diritti di monta, viaggio e albergo: lo trovi <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/#costi-cucciolata" title="Quanto costa una cucciolata, voce per voce">nei costi di una cucciolata, voce per voce</a>.</p>
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
@@ -71,7 +71,7 @@ custom_content: |
 
   <p><strong>Alle esposizioni.</strong> Chi segue la razza i maschi di livello li ha visti dal vivo, in ring, valutati da un giudice davanti a tutti.</p>
 
-  <p><strong>Su <a href="https://sbtpedigree.com/" target="_blank" rel="noopener" aria-label="SBTPedigree, archivio internazionale della razza (si apre in una nuova scheda)">SBTPedigree</a></strong>, l'archivio internazionale della razza, dove di un soggetto trovi le fotografie &mdash; e quindi un'idea precisa di com'&egrave; fatto, anche senza averlo mai visto &mdash; i titoli conquistati, i test genetici, la discendenza con i test e i titoli dei figli, e il nome del proprietario.</p>
+  <p><strong>Su <a href="https://sbtpedigree.com/" target="_blank" rel="noopener" aria-label="SBTPedigree, archivio internazionale della razza (si apre in una nuova scheda)">SBTPedigree</a></strong>, l'archivio internazionale della razza, dove di un soggetto trovi le fotografie (e quindi un'idea precisa di com'&egrave; fatto, anche senza averlo mai visto), i titoli conquistati, i test genetici, la discendenza con i test e i titoli dei figli, e il nome del proprietario.</p>
 
   <p><strong>Con la prova di accoppiamento</strong> dello stesso archivio, che calcola il coefficiente di consanguineit&agrave; teorico della cucciolata e mostra su quali antenati si concentra. Come si legge, lo spieghiamo nella guida su <a href="/come-si-legge-un-pedigree/" title="Come si legge un pedigree">come si legge un pedigree</a>.</p>
 
@@ -79,7 +79,7 @@ custom_content: |
 
   <p>Quattro verifiche che chiunque pu&ograve; fare da casa, su un cane che non vedr&agrave; mai. Contro &laquo;l'ho visto, era bello&raquo;.</p>
 
-  <p>E ce n'&egrave; una quinta, che non si pu&ograve; fare da casa ma che in questo ambiente funziona meglio di tutte: <strong>il controllo lo fanno gli altri allevatori</strong>. In una razza dove ci si conosce tutti, chi mette in un pedigree un cane che non c'entra, o gonfia un titolo, viene scoperto in poche settimane &mdash; perch&eacute; quei cani qualcuno li ha visti in ring, e qualcun altro ne ha il figlio o il fratello. La trasparenza qui non &egrave; buona volont&agrave;: &egrave; che non si pu&ograve; fare altrimenti.</p>
+  <p>E ce n'&egrave; una quinta, che non si pu&ograve; fare da casa ma che in questo ambiente funziona meglio di tutte: <strong>il controllo lo fanno gli altri allevatori</strong>. In una razza dove ci si conosce tutti, chi mette in un pedigree un cane che non c'entra, o gonfia un titolo, viene scoperto in poche settimane, perch&eacute; quei cani qualcuno li ha visti in ring, e qualcun altro ne ha il figlio o il fratello. La trasparenza qui non &egrave; buona volont&agrave;: &egrave; che non si pu&ograve; fare altrimenti.</p>
   <!--/BLOCCO:4-->
 
   <!--BLOCCO:5-->
@@ -99,15 +99,15 @@ custom_content: |
   <!--BLOCCO:6-->
   <h2>Due precisazioni oneste</h2>
 
-  <p><strong>Una madre che allatta pu&ograve; non essere in forma.</strong> Una femmina che sta crescendo otto cuccioli ha dato tutto: pelo opaco, peso calato, aria stanca. &Egrave; normale e va detto, invece di far finta di niente. Giudicare una fattrice in lattazione come si giudicherebbe in esposizione non ha senso.</p>
+  <p><strong>Una madre che allatta pu&ograve; non essere in forma.</strong> Una femmina che sta crescendo una cucciolata ha dato tutto: pelo opaco, peso calato, aria stanca. &Egrave; normale e va detto, invece di far finta di niente. Giudicare una fattrice in lattazione come si giudicherebbe in esposizione non ha senso.</p>
 
-  <p><strong>E qualche volta la madre non pu&ograve; stare libera con i cuccioli.</strong> Una delle nostre femmine ha partorito con un cesareo d'urgenza, e ha allattato dal veterinario appena sveglia dall'anestesia. Tornati a casa &mdash; quaranta minuti di strada &mdash; ha cominciato a gonfiarsi, con ponfi su tutto il corpo: reazione allergica a un farmaco. Altri quaranta minuti per tornare dal veterinario, cortisone, e di nuovo a casa.</p>
+  <p><strong>E qualche volta la madre non pu&ograve; stare libera con i cuccioli.</strong> Una delle nostre femmine ha partorito con un cesareo d'urgenza, e ha allattato dal veterinario appena sveglia dall'anestesia. Tornati a casa, dopo quaranta minuti di strada, ha cominciato a gonfiarsi, con ponfi su tutto il corpo: reazione allergica a un farmaco. Altri quaranta minuti per tornare dal veterinario, cortisone, e di nuovo a casa.</p>
 
   <p>&Egrave; l&igrave; che &egrave; successo. Mentre i cuccioli succhiavano, ha iniziato a leccarli, poi a mordicchiarli. Il tempo di allontanarmi un momento, e ne aveva uccisi due.</p>
 
   <p>Da quel giorno e fino allo svezzamento abbiamo diviso in due la cassa parto: i cuccioli dormivano accanto alla madre, separati, e la poppata avveniva ogni due o tre ore sotto sorveglianza.</p>
 
-  <p>&Egrave; una cosa che fa male da raccontare e che non si legge da nessuna parte. Ma chi visita un allevamento deve sapere che una madre separata dai cuccioli non &egrave; per forza un segnale di malafede: a volte &egrave; l'unica cosa giusta da fare. La differenza sta in una cosa sola &mdash; <strong>se l'allevatore te lo racconta o se cerca di nasconderlo</strong>.</p>
+  <p>&Egrave; una cosa che fa male da raccontare e che non si legge da nessuna parte. Ma chi visita un allevamento deve sapere che una madre separata dai cuccioli non &egrave; per forza un segnale di malafede: a volte &egrave; l'unica cosa giusta da fare. La differenza sta in una cosa sola: <strong>se l'allevatore te lo racconta o se cerca di nasconderlo</strong>.</p>
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->
@@ -118,7 +118,7 @@ custom_content: |
   <ul>
   <li><strong>la madre</strong>, guardata per il carattere e non per la forma del momento</li>
   <li><strong>il posto</strong> dove i cuccioli nascono e crescono</li>
-  <li><strong>il padre</strong>, che quasi sempre &egrave; lontano &mdash; e che si verifica sui documenti, non con gli occhi</li>
+  <li><strong>il padre</strong>, che spesso &egrave; lontano e che si verifica sui documenti, non con gli occhi</li>
   <li><strong>l'allevatore</strong>, che a una domanda scomoda risponde invece di aggirarla</li>
   </ul>
 

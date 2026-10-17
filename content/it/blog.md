@@ -103,7 +103,7 @@ custom_content: |
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">26 Set 2026</span><span>&bull;</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/genitori-visibili-cosa-significa/" title="Leggi: Genitori visibili, cosa significa davvero">Genitori visibili: cosa significa davvero</a></h3>
-  <p>Perch&eacute; il padre quasi mai &egrave; in allevamento, e cosa guardare invece nella madre.</p>
+  <p>Perch&eacute; il padre spesso non &egrave; in allevamento, e cosa guardare invece nella madre.</p>
   <a class="read" href="/genitori-visibili-cosa-significa/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Genitori visibili, cosa significa davvero">Leggi<span class="sr-only">: Genitori visibili, cosa significa davvero</span> &rarr;</a>
   </div>
   </article>

@@ -106,7 +106,7 @@ custom_content: |
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">26 Sep 2026</span><span>&bull;</span><span class="cat">Welpen</span></div>
   <h3><a href="/de/eltern-vor-ort-was-das-bedeutet/" title="Lesen: Eltern vor Ort, was das wirklich bedeutet">&bdquo;Eltern vor Ort&ldquo;: was das wirklich bedeutet</a></h3>
-  <p>Warum der Vater fast nie in der Zucht ist, und worauf man stattdessen bei der Mutter achtet.</p>
+  <p>Warum der Vater oft nicht in der Zucht ist, und worauf man stattdessen bei der Mutter achtet.</p>
   <a class="read" href="/de/eltern-vor-ort-was-das-bedeutet/" title="Vollständigen Artikel lesen" aria-label="Artikel lesen: Eltern vor Ort, was das wirklich bedeutet">Lesen<span class="sr-only">: Eltern vor Ort, was das wirklich bedeutet</span> &rarr;</a>
   </div>
   </article>

@@ -106,7 +106,7 @@ custom_content: |
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">26 Sep 2026</span><span>&bull;</span><span class="cat">Puppies</span></div>
   <h3><a href="/en/parents-on-site-what-it-means/" title="Read: Parents on site, what it really means">&ldquo;Parents on site&rdquo;: what it really means</a></h3>
-  <p>Why the sire is almost never at the kennel, and what to look for in the dam instead.</p>
+  <p>Why the sire is often not at the kennel, and what to look for in the dam instead.</p>
   <a class="read" href="/en/parents-on-site-what-it-means/" title="Read full article" aria-label="Read the article: Parents on site, what it really means">Read<span class="sr-only">: Parents on site, what it really means</span> &rarr;</a>
   </div>
   </article>
