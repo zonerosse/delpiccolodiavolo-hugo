@@ -174,3 +174,80 @@ body.notte-pagina{--n-bg:#17120f;--n-bg2:#211a15;--n-card:#2a211b;--n-cr:#f3e9dc
 }
 .notte-pagina .hero-guida{margin:.4rem 0 0;font-size:1rem}
 .notte-pagina .hero-guida a{color:var(--n-go)!important;font-weight:600;text-decoration:underline;text-underline-offset:3px}
+
+/* pezzi della Home riusati sulle pagine Notte (Home come Cuccioli B, 17/10/2026) */
+.notte-pagina .n-num{display:flex;gap:2.6rem;margin-top:2.6rem;padding-top:1.8rem;border-top:1px solid var(--n-ln);flex-wrap:wrap}
+.notte-pagina .n-num b{display:block;font-family:Georgia,serif;font-weight:400;font-size:2.2rem;color:var(--n-cr);line-height:1}
+.notte-pagina .n-num span{font-size:.8rem;line-height:1.3;display:block;margin-top:.3rem}
+.notte-pagina .n-num i{font-style:normal;color:var(--n-go);font-size:1.3rem}
+.notte-pagina .n-press{display:grid;grid-template-columns:88px 1fr;gap:1.6rem;align-items:center;max-width:900px;margin:0 auto;padding:1.4rem 1.8rem;border:1px solid var(--n-ln);border-radius:10px}
+.notte-pagina .n-press img{width:88px;height:88px;object-fit:cover;border-radius:50%}
+.notte-pagina .n-press small{font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--n-go);font-weight:700}
+.notte-pagina .n-press h2{font-size:1.25rem;line-height:1.4;margin:.4rem 0 .4rem}
+.notte-pagina .n-press p{margin:0;font-size:.9rem}
+.notte-pagina .n-cani{display:grid;grid-template-columns:repeat(4,1fr);gap:0;margin-top:2.6rem}
+.notte-pagina .n-cane{position:relative;overflow:hidden;background:#0f0b09}
+.notte-pagina .n-cane img{width:100%;aspect-ratio:3/4;object-fit:cover;object-position:50% 25%;display:block;filter:grayscale(.3);transition:filter .6s,transform .8s}
+.notte-pagina .n-cane:hover img{filter:none;transform:scale(1.04)}
+.notte-pagina .n-cane div{padding:1.3rem 1.2rem 1.6rem}
+.notte-pagina .n-cane h3{font-size:1.25rem;color:var(--n-go);margin:0 0 .3rem}
+.notte-pagina .n-cane .n-tit{color:var(--n-cr);font-weight:600;font-size:.92rem;margin:0 0 .5rem}
+.notte-pagina .n-cane p{font-size:.86rem;line-height:1.6;margin:0}
+.notte-pagina .n-tot{text-align:center;max-width:900px;margin:3rem auto 0}
+.notte-pagina .n-tot p:first-child{font-family:Georgia,serif;color:var(--n-cr);font-size:1.25rem}
+.notte-pagina .n-test{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;margin:1.4rem 0}
+.notte-pagina .n-test div{border:1px solid var(--n-ln);border-radius:10px;padding:1.2rem}
+.notte-pagina .n-test b{display:block;color:var(--n-cu);letter-spacing:.05em}
+.notte-pagina .n-test small{display:block;color:var(--n-go);font-size:.82rem;margin-bottom:.6rem}
+.notte-pagina .n-test p{font-size:.92rem;line-height:1.6;margin:0 0 .7rem}
+.notte-pagina .n-test em{font-style:normal;font-size:.8rem;color:var(--n-cr)}
+@media (max-width:860px){
+.notte-pagina .n-num{gap:1.4rem}.n-num b{font-size:1.8rem}
+.notte-pagina .n-press{grid-template-columns:64px 1fr;gap:1rem;padding:1.2rem}.n-press img{width:64px;height:64px}
+.notte-pagina .n-test{grid-template-columns:1fr}
+.notte-pagina .n-cani{grid-template-columns:1fr}.n-cane img{aspect-ratio:4/3}
+.notte-pagina .n-cane div{padding:1rem .8rem 1.2rem}.n-cane h3{font-size:1.05rem}
+}
+/* Testo tutto della stessa grandezza (Paolo: niente testi di grandezze diverse) */
+.notte-pagina main p,.notte-pagina main li,.notte-pagina main .faq-answer,.notte-pagina .n-2c p{font-size:1.02rem!important;line-height:1.75!important;font-family:inherit}
+.notte-pagina .n-lead,.notte-pagina .intro-block p:first-child{font-family:inherit!important;font-size:1.02rem!important;color:var(--n-mu)!important;column-span:none}
+.notte-pagina .review-card .review-text{font-size:1.02rem!important}
+.notte-pagina .hero-description,.notte-pagina .hero-guida{font-size:1.02rem!important}
+.notte-pagina .n-num span,.notte-pagina .n-press small,.notte-pagina .section-label,.notte-pagina .n-quando{font-size:.75rem!important}
+.notte-pagina .n-press h2{font-size:1.15rem!important}
+.notte-pagina .n-cane h3{font-size:1.15rem}
+.notte-pagina .hero .n-num b{font-size:2rem}
+.notte-pagina .review-card .review-text{font-family:inherit!important}.notte-pagina .n-tot p:first-child{font-family:inherit;font-size:1.02rem!important}
+/* «Nati e cresciuti»: foto alte con il momento scritto sopra (scelta C di Paolo, 17/10/2026) */
+.notte-pagina .n-foto3{display:grid;grid-template-columns:2fr 1fr 1fr;gap:14px;margin:2rem 0}
+.notte-pagina .n-foto3 figure{margin:0;position:relative;height:500px;overflow:hidden;border-radius:6px;background:#0f0b09}
+.notte-pagina .n-foto3 img{width:100%;height:100%;object-fit:cover;display:block}
+.notte-pagina .n-foto3 figcaption{position:absolute;left:0;right:0;bottom:0;padding:4rem 1.2rem 1.2rem;background:linear-gradient(transparent,rgba(12,9,7,.94))}
+.notte-pagina .n-foto3 .n-quando{display:block;letter-spacing:.2em;text-transform:uppercase;color:var(--n-go);font-weight:700;margin-bottom:.3rem}
+.notte-pagina .n-foto3 p{color:var(--n-cr)!important;margin:0}
+@media (max-width:860px){.notte-pagina .n-foto3{grid-template-columns:1fr}.notte-pagina .n-foto3 figure{height:380px}}
+/* Grandezze (scelta C di Paolo, 17/10/2026): testo 18 px ovunque, titoli contenuti */
+body.notte-pagina{font-size:18px}
+.notte-pagina main p,.notte-pagina main li,.notte-pagina main .faq-answer,.notte-pagina .n-2c p,.notte-pagina .review-card .review-text,.notte-pagina .n-tot p:first-child,.notte-pagina .hero-description,.notte-pagina .hero-guida,.notte-pagina .n-lead,.notte-pagina .intro-block p:first-child{font-size:1.125rem!important}
+.notte-pagina main .section-title,.notte-pagina main .section h2:not(.n-press h2){font-size:clamp(1.5rem,2.3vw,1.85rem)!important;line-height:1.2}
+.notte-pagina main h3,.notte-pagina .n-passo h3,.notte-pagina .n-faq h3,.notte-pagina .n-cane h3{font-size:1.25rem!important;line-height:1.35}
+.notte-pagina .n-press h2{font-size:1.25rem!important}
+/* Piè di pagina delle pagine scure (scelta B di Paolo, 17/10/2026): scuro, su tre colonne sul computer */
+body.notte-pagina .pagina-meta{background:var(--n-bg)!important;padding:1.6rem 1rem!important;margin:0!important}
+body.notte-pagina .footer{background:#0f0b09;border-top:1px solid rgba(200,137,74,.45);color:var(--n-mu);padding:3.5rem 1.5rem 2.5rem}
+body.notte-pagina .footer p{color:var(--n-mu)}
+body.notte-pagina .footer strong{color:var(--n-cr);font-family:Georgia,serif;font-weight:400;font-size:1.15rem}
+body.notte-pagina .footer a{color:var(--n-go)}
+body.notte-pagina .social-links a{background:transparent;border:1px solid rgba(200,137,74,.5)}
+body.notte-pagina .social-links svg{fill:var(--n-go)}
+body.notte-pagina .footer-links a{color:var(--n-cr)}
+@media(min-width:861px){
+body.notte-pagina .footer{display:grid;grid-template-columns:1.4fr 1fr 1fr;grid-template-areas:"nome social links" "ind social links" "sbt social links" "copy copy copy";text-align:left;column-gap:3rem;padding:3.5rem max(1.5rem,calc((100% - 1080px)/2)) 2rem}
+body.notte-pagina .footer>p:nth-of-type(1){grid-area:nome}
+body.notte-pagina .footer>p:nth-of-type(2){grid-area:ind}
+body.notte-pagina .footer>p:nth-of-type(3){grid-area:sbt}
+body.notte-pagina .social-links{grid-area:social;justify-content:flex-start;align-self:start;margin:0}
+body.notte-pagina .footer-links{grid-area:links;flex-direction:column;align-items:flex-start;gap:0;margin:0}
+body.notte-pagina .footer-links a{padding:.3rem 0!important}
+body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(243,233,220,.12);padding-top:1.4rem;margin-top:2rem!important}
+}

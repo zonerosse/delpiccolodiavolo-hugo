@@ -2,6 +2,7 @@
 title: "Allevamento Staffordshire Bull Terrier"
 date: 2025-12-28
 lastmod: 2026-10-17
+notte: true
 translationKey: "home"
 description: "Allevamento etico di Staffordshire Bull Terrier dal 2013. Pedigree ENCI, referti dei test genetici e microchip dei riproduttori pubblicati e verificabili."
 correlati:
@@ -19,7 +20,7 @@ correlati:
     testo: "Ostellato (FE), su appuntamento"
 slug: ""
 custom_content: |
-  <div class="notte">
+
   <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
@@ -41,7 +42,6 @@ custom_content: |
   </div></div>
   </section>
   <!--/BLOCCO:1-->
-
   <div class="features-bar">
   <div class="features-track">
   <span>Elitebull Lines</span>
@@ -62,110 +62,66 @@ custom_content: |
   <span>Ostellato FE</span>
   </div>
   </div>
-
   <!--BLOCCO:2-->
   <!--NOVITA-->
   <!--/BLOCCO:2-->
-
   <!--BLOCCO:3-->
-  <section class="n-s">
-  <div class="n-w">
-  <span class="n-kick">I nostri cuccioli</span>
-  <h2>Nati e cresciuti qui, a Ostellato</h2>
-  <ol class="n-tappe">
-  <li><span class="n-quando">Il primo mese</span><p>I cuccioli nascono in casa e ci restano il primo mese.</p></li>
-  <li><span class="n-quando">Dal secondo mese</span><p>Poi passano in un box con il cortile, in mezzo alle persone e ai rumori di tutti i giorni.</p></li>
-  <li><span class="n-quando">Dopo i 60 giorni</span><p>Partono con <strong>pedigree ENCI</strong>, microchip e vaccinazioni.</p></li>
-  </ol>
-  <div class="n-gal">
-  <img src="/images/cuccioli-bilquis-nati-1.webp" alt="Bilquis Goddess Diabhal con i suoi cuccioli di Staffordshire Bull Terrier appena nati" loading="lazy" decoding="async" width="435" height="480">
-  <img src="/images/foto2.avif" alt="Cucciolo di Staffordshire Bull Terrier nero di poche settimane" loading="lazy" decoding="async" width="368" height="480">
-  <img src="/images/primo-piano-cucciolo.avif" alt="Primo piano di un cucciolo di Staffordshire Bull Terrier nero" loading="lazy" decoding="async" width="639" height="600">
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">I nostri cuccioli</span>
+  <h2 class="section-title">Nati e cresciuti qui, a Ostellato</h2>
+  <div class="n-foto3">
+  <figure><img alt="Bilquis Goddess Diabhal con i suoi cuccioli di Staffordshire Bull Terrier appena nati" decoding="async" height="480" loading="lazy" src="/images/cuccioli-bilquis-nati-1.webp" width="435"/><figcaption><span class="n-quando">Il primo mese</span><p>I cuccioli nascono in casa e ci restano il primo mese.</p></figcaption></figure>
+  <figure><img alt="Cucciolo di Staffordshire Bull Terrier nero di poche settimane" decoding="async" height="480" loading="lazy" src="/images/foto2.avif" width="368"/><figcaption><span class="n-quando">Dal secondo mese</span><p>Poi passano in un box con il cortile, in mezzo alle persone e ai rumori di tutti i giorni.</p></figcaption></figure>
+  <figure><img alt="Primo piano di un cucciolo di Staffordshire Bull Terrier nero" decoding="async" height="600" loading="lazy" src="/images/primo-piano-cucciolo.avif" width="639"/><figcaption><span class="n-quando">Dopo i 60 giorni</span><p>Partono con <strong>pedigree ENCI</strong>, microchip e vaccinazioni.</p></figcaption></figure>
   </div>
   <p style="max-width:860px">Cosa possono avere imparato prima di partire, e cosa no, lo spieghiamo in <a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Cuccioli socializzati: cosa vuol dire">cosa vuol dire cuccioli socializzati</a>. Esercizi miracolosi non ne facciamo: sul <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor e stimolazione precoce">Bio Sensor</a> abbiamo scritto perché le prove non ci sono.</p>
   <a class="n-vai" href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">Come nascono e crescono <span aria-hidden="true">→</span></a>
   </div>
   </section>
   <!--/BLOCCO:3-->
-
-  <section class="n-s n-s2">
-  <div class="n-w n-cit">
-  <blockquote>Circa otto mesi fa decisi di aver come compagno di avventure uno Staffy e mi misi a documentarmi per potermi affidare ad un allevamento il più affidabile possibile. […] Ora ho il mio piccolo diavolo grazie a questa splendida famiglia che non smetterò mai di ringraziare.</blockquote>
-  <p class="n-chi">Gianluca Ravera · <span class="n-stelle">★★★★★</span></p>
-  <p class="n-orig"><a aria-label="Leggi la recensione su Google (si apre in una nuova scheda)" href="https://search.google.com/local/reviews?placeid=ChIJqV8xIv1rfkcRQK_6v1XiVNE" rel="noopener" target="_blank" title="Leggi la recensione originale su Google">Leggi la recensione su Google →</a></p>
-  </div>
-  </section>
-
   <!--BLOCCO:4-->
-  <section class="n-s n-s2" style="padding-top:0">
-  <div class="n-w">
-  <div class="n-press">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Campionessa Italiana, fattrice dell'allevamento Staffordshire Bull Terrier Del Piccolo Diavolo" loading="lazy" decoding="async" width="301" height="396">
-  <div>
-  <small>Ne hanno parlato · 6 gennaio 2026</small>
-  <h2>“Da Ferrara alla conquista del mondo: Bilquis, la cagnolina di 3 anni che fa incetta di premi”</h2>
-  <p><strong>FerraraToday</strong> · <a aria-label="Leggi l'articolo su FerraraToday (si apre in una nuova scheda)" href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" rel="noopener" target="_blank" title="Leggi l'articolo su FerraraToday">leggi l'articolo →</a></p>
-  </div>
-  </div>
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">In chiaro</span>
+  <h2 class="section-title">Cosa non facciamo</h2>
+  <p>A volte si capisce meglio un allevamento da quello che non fa.</p>
+  <p>L'allevamento Del Piccolo Diavolo è a Ostellato, in provincia di Ferrara. Qui i <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli di Staffordshire Bull Terrier</a> nascono poche volte, escono con il pedigree ENCI dopo i 60 giorni di legge e partono solo da qui. Queste sono le quattro cose che non facciamo.</p>
+
+  <div class="n-percorso"><div class="n-passo"><h3>Non abbiamo cuccioli tutto l'anno.</h3><div><p>Una cucciolata, occasionalmente due, a volte nessuna. Se ci scrivi in un momento in cui non ce ne sono, la risposta è che non ce ne sono: non ti proponiamo il cucciolo di un conoscente né ti mettiamo fretta su una cucciolata futura.</p></div></div><div class="n-passo"><h3>Non spediamo cani.</h3><div><p>Nessun nostro cucciolo viaggia con un corriere: niente stive, niente consegne a metà strada in un parcheggio. Chi prende un cucciolo viene a Ostellato. Così vede la madre, la casa e il posto dove è cresciuto.</p></div></div><div class="n-passo"><h3>Non trattiamo il pedigree come un accessorio.</h3><div><p>Non esiste un cucciolo «con» o «senza»: il certificato ENCI accompagna ogni cane e non si paga a parte.</p></div></div><div class="n-passo"><h3>Non ci offendiamo se fai domande sull'allevamento.</h3><div><p>Anzi, sono quelle a dirci chi abbiamo davanti. Chi chiede dei test, dei genitori, di cosa succede se fra due anni non riesce più a tenere il cane, è la persona a cui affideremmo volentieri un cucciolo.</p></div></div></div>
+  <p class="n-vedi">Chi c'è dietro tutto questo, e come dai Rottweiler si arriva agli Staffy: lo racconto in <a href="/chi-siamo/" title="Chi siamo">chi siamo</a>.</p>
   </div>
   </section>
   <!--/BLOCCO:4-->
-
   <!--BLOCCO:5-->
-  <section class="n-s">
-  <div class="n-w n-dd">
-  <div>
-  <span class="n-kick">In chiaro</span>
-  <h2>Cosa non facciamo</h2>
-  <p class="n-lead">A volte si capisce meglio un allevamento da quello che non fa.</p>
-  <p>L'allevamento Del Piccolo Diavolo è a Ostellato, in provincia di Ferrara. Qui i <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli di Staffordshire Bull Terrier</a> nascono poche volte, escono con il pedigree ENCI dopo i 60 giorni di legge e partono solo da qui. Queste sono le quattro cose che non facciamo.</p>
-  <img class="n-foto" src="/images/foto1.avif" alt="Cucciolo di Staffordshire Bull Terrier nero tenuto in mano" loading="lazy" decoding="async" width="397" height="480">
+  <section class="section section-alt">
+  <div class="section-inner">
+  <span class="section-label">Come lavoriamo</span>
+  <h2 class="section-title">Una cucciolata l’anno, a volte nessuna</h2>
+  <p>Del Piccolo Diavolo è un allevamento di Staffordshire Bull Terrier, lo Staffy per gli appassionati, a <strong>Ostellato, in provincia di Ferrara</strong>, attivo dal <strong>2013</strong>. Paolo Boldrini segue la razza dal 2005. Prima di far nascere una cucciolata ha passato otto anni a studiarla.</p>
+  <div class="n-percorso">
+  <div class="n-passo"><h3>Quante cucciolate, quali test</h3><div><p>Facciamo <strong>una cucciolata l'anno, occasionalmente due, a volte nessuna</strong>, mai su richiesta. Tutti i riproduttori sono testati per <strong>L2-HGA e HC (gene HSF4)</strong>, o esenti per via parentale con i referti dei genitori. I nostri cani sono esenti anche dalla <strong>mielopatia degenerativa (gene SOD1)</strong>. I referti sono pubblicati sul sito, con il nome e il microchip del cane.</p></div></div>
+  <div class="n-passo"><h3>Come scegliamo i riproduttori</h3><div><p>Scegliamo i riproduttori con tre criteri, in quest'ordine: <strong>carattere equilibrato</strong>, <strong>nessuna malattia ereditaria</strong> e <strong><a href="/standard-tipicita-morfologia/" title="Standard, tipicità e morfologia">aderenza allo standard</a></strong>. Il carattere viene prima perché una famiglia se lo porta in casa per dodici anni. Ed è anche la cosa più difficile da correggere: la morfologia si sistema in due o tre generazioni, un difetto di carattere no.</p></div></div>
+  <div class="n-passo"><h3>In esposizione</h3><div><p>In esposizione, i cani allevati qui hanno ottenuto <strong>1 titolo di Campione Italiano</strong> e <strong>3 di Giovane Campione Italiano</strong>, uno dei quali anche Campione Sloveno. Poi un Giovane Campione e Campione di San Marino, e un <strong>4° posto al World Dog Show</strong> con Bilquis Goddess Diabhal. A maggio 2026 Queen of California è diventata <strong>Giovane Campionessa Italiana</strong>. Lavoriamo con linee di sangue inglesi e irlandesi, soprattutto Elitebull e Lackyle.</p></div></div>
+  <div class="n-passo"><h3>Dopo l'affido</h3><div><p>Prima di affidare un cucciolo vogliamo conoscere la famiglia: una telefonata, qualche domanda, spesso una visita. E il rapporto non finisce lì. Restiamo a disposizione per consigli e notizie anche <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">a distanza di anni</a>. E ogni cane nato da noi torna qui, se un giorno non potesse più restare dov'è.</p></div></div>
   </div>
-  <div>
-  <ul class="n-li">
-  <li><span class="n-ic" aria-hidden="true">✕</span><p><strong>Non abbiamo cuccioli tutto l'anno.</strong> Una cucciolata, occasionalmente due, a volte nessuna. Se ci scrivi in un momento in cui non ce ne sono, la risposta è che non ce ne sono: non ti proponiamo il cucciolo di un conoscente né ti mettiamo fretta su una cucciolata futura.</p></li>
-  <li><span class="n-ic" aria-hidden="true">✕</span><p><strong>Non spediamo cani.</strong> Nessun nostro cucciolo viaggia con un corriere: niente stive, niente consegne a metà strada in un parcheggio. Chi prende un cucciolo viene a Ostellato. Così vede la madre, la casa e il posto dove è cresciuto.</p></li>
-  <li><span class="n-ic" aria-hidden="true">✕</span><p><strong>Non trattiamo il pedigree come un accessorio.</strong> Non esiste un cucciolo «con» o «senza»: il certificato ENCI accompagna ogni cane e non si paga a parte.</p></li>
-  <li><span class="n-ic" aria-hidden="true">✕</span><p><strong>Non ci offendiamo se fai domande sull'allevamento.</strong> Anzi, sono quelle a dirci chi abbiamo davanti. Chi chiede dei test, dei genitori, di cosa succede se fra due anni non riesce più a tenere il cane, è la persona a cui affideremmo volentieri un cucciolo.</p></li>
-  </ul>
-  <p class="n-vedi">Chi c'è dietro tutto questo, e come dai Rottweiler si arriva agli Staffy: lo racconto in <a href="/chi-siamo/" title="Chi siamo">chi siamo</a>.</p>
-  </div>
+
   </div>
   </section>
   <!--/BLOCCO:5-->
-
   <!--BLOCCO:6-->
-  <section class="n-s n-s2">
-  <div class="n-w">
-  <span class="n-kick">Come lavoriamo</span>
-  <h2>Una cucciolata l’anno, a volte nessuna</h2>
-  <p class="n-lead">Del Piccolo Diavolo è un allevamento di Staffordshire Bull Terrier, lo Staffy per gli appassionati, a <strong>Ostellato, in provincia di Ferrara</strong>, attivo dal <strong>2013</strong>. Paolo Boldrini segue la razza dal 2005. Prima di far nascere una cucciolata ha passato otto anni a studiarla.</p>
-  <div class="n-lav">
-  <div>
-  <p>Facciamo <strong>una cucciolata l'anno, occasionalmente due, a volte nessuna</strong>, mai su richiesta. Tutti i riproduttori sono testati per <strong>L2-HGA e HC (gene HSF4)</strong>, o esenti per via parentale con i referti dei genitori. I nostri cani sono esenti anche dalla <strong>mielopatia degenerativa (gene SOD1)</strong>. I referti sono pubblicati sul sito, con il nome e il microchip del cane.</p>
-  <p>Scegliamo i riproduttori con tre criteri, in quest'ordine: <strong>carattere equilibrato</strong>, <strong>nessuna malattia ereditaria</strong> e <strong><a href="/standard-tipicita-morfologia/" title="Standard, tipicità e morfologia">aderenza allo standard</a></strong>. Il carattere viene prima perché una famiglia se lo porta in casa per dodici anni. Ed è anche la cosa più difficile da correggere: la morfologia si sistema in due o tre generazioni, un difetto di carattere no.</p>
-  <p>In esposizione, i cani allevati qui hanno ottenuto <strong>1 titolo di Campione Italiano</strong> e <strong>3 di Giovane Campione Italiano</strong>, uno dei quali anche Campione Sloveno. Poi un Giovane Campione e Campione di San Marino, e un <strong>4° posto al World Dog Show</strong> con Bilquis Goddess Diabhal. A maggio 2026 Queen of California è diventata <strong>Giovane Campionessa Italiana</strong>. Lavoriamo con linee di sangue inglesi e irlandesi, soprattutto Elitebull e Lackyle.</p>
-  <p>Prima di affidare un cucciolo vogliamo conoscere la famiglia: una telefonata, qualche domanda, spesso una visita. E il rapporto non finisce lì. Restiamo a disposizione per consigli e notizie anche <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">a distanza di anni</a>. E ogni cane nato da noi torna qui, se un giorno non potesse più restare dov'è.</p>
-  </div>
-  <img src="/images/foto4.avif" alt="Cucciolo di Staffordshire Bull Terrier in braccio, primo piano" loading="lazy" decoding="async" width="415" height="480">
-  </div>
-  </div>
-  </section>
-  <!--/BLOCCO:6-->
-
-  <!--BLOCCO:7-->
-  <section class="n-s">
-  <div class="n-w">
-  <span class="n-kick">Verificabile</span>
-  <h2>Come si controlla quello che scriviamo</h2>
-  <p class="n-lead">Ogni allevamento scrive di selezionare per la salute. È una frase che non costa niente, e infatti la scrivono tutti. La differenza sta in cosa si può controllare senza dover credere a nessuno.</p>
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">Verificabile</span>
+  <h2 class="section-title">Come si controlla quello che scriviamo</h2>
+  <p>Ogni allevamento scrive di selezionare per la salute. È una frase che non costa niente, e infatti la scrivono tutti. La differenza sta in cosa si può controllare senza dover credere a nessuno.</p>
   <div class="n-2c" style="margin-top:2rem">
   <p>Quello che dice un allevamento di Staffordshire Bull Terrier si può controllare in quattro modi, tutti da fuori e senza chiedere niente all'allevatore. I <strong>referti dei test genetici</strong> valgono solo se c'è scritto il microchip del cane. Le <strong>genealogie</strong> si vedono su SBTPedigree, l'archivio internazionale della razza, con nonni, bisnonni e fratelli di cucciolata (cosa guardare lo spiega <a href="/come-si-legge-un-pedigree/" title="Come si legge un pedigree">come si legge un pedigree</a>). Il <strong>numero di cucciolate di una femmina</strong> si controlla sul libro genealogico ENCI, sempre con il microchip. I <strong>titoli in esposizione</strong> stanno nei cataloghi pubblici, con il nome del giudice. Del Piccolo Diavolo pubblica tutti e quattro questi dati, microchip compresi.</p>
   <p>Su questo sito i referti dei riproduttori sono pubblicati, non «disponibili su richiesta». Chiunque può scaricarli. Su ogni foglio ci sono il microchip del cane, il laboratorio, il numero del referto e la data.</p>
   <p><strong>È il microchip a rendere verificabile un referto.</strong> Senza, il foglio potrebbe riguardare qualsiasi cane. Con il microchip in chiaro, chiunque può confrontarlo con il libretto del cane che ha davanti, o chiedere conferma al laboratorio.</p>
   </div>
-  <div class="n-righe">
-  <div class="n-riga">
+  <div class="n-percorso">
+  <div class="n-passo">
   <h3>Quali test facciamo, e cosa sono</h3>
   <div>
   <p><strong>Tutti i riproduttori sono testati per L2-HGA e HC (HSF4), o esenti per via parentale con i referti dei genitori. I nostri cani sono esenti anche da DM-SOD1.</strong> I referti, con il numero di microchip, sono pubblicati sulle schede dei cani.</p>
@@ -177,7 +133,7 @@ custom_content: |
   <p>Sono tutte e tre malattie recessive. Si accertano con un test del DNA, che si fa una volta e vale per tutta la vita. Due genitori esenti non possono avere cuccioli malati. Come si leggono i referti lo spieghiamo nella <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA, HC e DM">guida ai test genetici</a>.</p>
   </div>
   </div>
-  <div class="n-riga">
+  <div class="n-passo">
   <h3>Cosa si può controllare, e dove</h3>
   <div>
   <p><strong>Le genealogie.</strong> I cani di Del Piccolo Diavolo sono registrati su <a aria-label="Del Piccolo Diavolo su SBTPedigree (si apre in una nuova scheda)" href="https://sbtpedigree.com/details?id=35858" rel="noopener" target="_blank">SBTPedigree</a>, il database internazionale della razza, con tutti i soggetti e le cucciolate. Da lì si risale ai nonni, ai bisnonni e ai fratelli di cucciolata. Si vede chi sono i cani dietro un nome, e anche cosa manca.</p>
@@ -187,14 +143,14 @@ custom_content: |
   <p class="n-vedi"><a href="/femmine-staffordshire-bull-terrier/">Le nostre femmine, una per una</a>. Microchip, test genetici e pedigree: da lì verifichi genealogie e cucciolate.</p>
   </div>
   </div>
-  <div class="n-riga">
+  <div class="n-passo">
   <h3>Due regole senza eccezioni</h3>
   <div>
   <p><strong>Non accoppiamo due Staffordshire Bull Terrier perché sono belli.</strong> Ogni accoppiamento nasce da una ragione che sappiamo spiegare: cosa stiamo cercando di fissare e cosa stiamo cercando di correggere. Se la risposta fosse "sono due bei cani", non ci sarebbe un programma dietro.</p>
   <p><strong>Non affidiamo prima dei 60 giorni</strong>, che è un obbligo di legge e non una nostra scelta. Per l'estero i tempi si allungano ancora, perché servono l'antirabbica e il <a href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Cucciolo all'estero">certificato sanitario ufficiale</a>.</p>
   </div>
   </div>
-  <div class="n-riga">
+  <div class="n-passo">
   <h3>Anche quello che non possiamo dichiarare</h3>
   <div>
   <p>Vale anche al contrario. Quando un cucciolo è esente per discendenza da una malattia ma non da un'altra, lo scriviamo. Quando di un riproduttore esterno abbiamo il referto per due patologie e non per quattro, lo scriviamo.</p>
@@ -206,28 +162,27 @@ custom_content: |
   </div>
   </div>
   </section>
-  <!--/BLOCCO:7-->
-
-  <!--BLOCCO:8-->
-  <section class="n-s n-s2">
-  <div class="n-w">
-  <span class="n-kick">Risultati in esposizione</span>
-  <h2>Cosa dicono i giudici dei cani che alleviamo</h2>
+  <!--/BLOCCO:6-->
+  <!--BLOCCO:7-->
+  <section class="section section-alt">
+  <div class="section-inner">
+  <span class="section-label">Risultati in esposizione</span>
+  <h2 class="section-title">Cosa dicono i giudici dei cani che alleviamo</h2>
   <p style="max-width:760px">Questi sono i risultati dei nostri Staffy sui ring italiani e internazionali. Non li diamo noi: li danno i giudici, e sono scritti nei cataloghi pubblici.</p>
   <div class="n-cani">
-  <div class="n-cane"><img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo" loading="lazy" decoding="async" width="301" height="396"><div>
+  <div class="n-cane"><img alt="Bilquis Goddess Diabhal, Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo" decoding="async" height="396" loading="lazy" src="/images/femmina-bilquis.webp" width="301"/><div>
   <h3>Bilquis Goddess Diabhal</h3>
   <p class="n-tit">Campionessa Italiana - 4° ai Mondiali</p>
   <p>Record: 14 esposizioni consecutive Eccellente 1°. Campionessa Italiana in Classe Intermedia. 4° classificata al World Dog Show. Top Dog Junior 2023.</p></div></div>
-  <div class="n-cane"><img src="/images/Lothar.webp" alt="Lothar Matthäus, Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo" loading="lazy" decoding="async" width="480" height="485"><div>
+  <div class="n-cane"><img alt="Lothar Matthäus, Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo" decoding="async" height="485" loading="lazy" src="/images/Lothar.webp" width="480"/><div>
   <h3>Lothar Matthäus</h3>
   <p class="n-tit">Giovane Campione Italiano e Campione Sloveno</p>
   <p>Multipli JCAC e BOB Giovani in esposizioni nazionali e internazionali. Eccellente 1° in tutte le manifestazioni. Figlio di campioni inglesi.</p></div></div>
-  <div class="n-cane"><img src="/images/queen-of-california-800w.webp" alt="Queen of California, Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo" loading="lazy" decoding="async" width="800" height="533"><div>
+  <div class="n-cane"><img alt="Queen of California, Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo" decoding="async" height="533" loading="lazy" src="/images/queen-of-california-800w.webp" width="800"/><div>
   <h3>Queen of California</h3>
   <p class="n-tit">Giovane Campionessa Italiana ENCI 2026</p>
   <p>17 maggio 2026, Esposizione Nazionale di Albarella: 1° Eccellente, JCAC, JBOB e BOB. Miglior Staffordshire Bull Terrier per il Gruppo Cinofilo Polesano. Figlia di CH. Elitebull Prospect × Lackyle Bean Croí Olc.</p></div></div>
-  <div class="n-cane"><img src="/images/cattleya-campionessa-800w.webp" alt="Cattleya Del Piccolo Diavolo at Valconcaclan, Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo" loading="lazy" decoding="async" width="800" height="878"><div>
+  <div class="n-cane"><img alt="Cattleya Del Piccolo Diavolo at Valconcaclan, Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo" decoding="async" height="878" loading="lazy" src="/images/cattleya-campionessa-800w.webp" width="800"/><div>
   <h3>Cattleya Del Piccolo Diavolo at Valconcaclan</h3>
   <p class="n-tit">Giovane Campionessa e Campionessa di San Marino</p>
   <p>Giovane Campionessa di San Marino nel 2023, Campionessa di San Marino nel 2024. Nata e allevata da noi, oggi di proprietà di Ricarda Mazzola Wagner (Valconcaclan). L2-HGA e HC (HSF4) esente, dentatura completa a forbice.</p></div></div>
@@ -235,22 +190,37 @@ custom_content: |
   <div class="n-tot">
   <p><strong>1 Campione Italiano - 3 Giovani Campioni Italiani - 1 Campionessa di San Marino - 4° al World Dog Show</strong></p>
   <p>Risultati ottenuti con cani allevati e cresciuti da noi, non acquistati già titolati.</p>
-  <a href="/palmares-del-piccolo-diavolo/" class="n-btn" title="Vedi tutti i risultati">Vedi tutti i risultati</a>
+  <a class="btn btn-primary" href="/palmares-del-piccolo-diavolo/" title="Vedi tutti i risultati">Vedi tutti i risultati</a>
   <p class="n-vedi" style="text-align:left"><a href="/cuccioli-staffordshire-bull-terrier/">Come nasce e cresce una cucciolata</a>. Dal calore al parto, e cosa succede nelle settimane successive.</p>
   </div>
   </div>
   </section>
+  <!--/BLOCCO:7-->
+  <section class="section section-alt">
+  <div class="section-inner"><div class="review-card"><p class="review-text">«Circa otto mesi fa decisi di aver come compagno di avventure uno Staffy e mi misi a documentarmi per potermi affidare ad un allevamento il più affidabile possibile. […] Ora ho il mio piccolo diavolo grazie a questa splendida famiglia che non smetterò mai di ringraziare.»</p><div class="reviewer"><span>Gianluca Ravera</span><span class="stars">★★★★★</span></div><p class="n-orig"><a aria-label="Leggi la recensione su Google (si apre in una nuova scheda)" href="https://search.google.com/local/reviews?placeid=ChIJqV8xIv1rfkcRQK_6v1XiVNE" rel="noopener" target="_blank" title="Leggi la recensione originale su Google">Leggi la recensione su Google →</a></p></div></div>
+  </section>
+  <!--BLOCCO:8-->
+  <section class="section section-alt" style="padding-top:0">
+  <div class="section-inner">
+  <div class="n-press">
+  <img alt="Bilquis Goddess Diabhal, Campionessa Italiana, fattrice dell'allevamento Staffordshire Bull Terrier Del Piccolo Diavolo" decoding="async" height="396" loading="lazy" src="/images/femmina-bilquis.webp" width="301"/>
+  <div>
+  <small>Ne hanno parlato · 6 gennaio 2026</small>
+  <h2>“Da Ferrara alla conquista del mondo: Bilquis, la cagnolina di 3 anni che fa incetta di premi”</h2>
+  <p><strong>FerraraToday</strong> · <a aria-label="Leggi l'articolo su FerraraToday (si apre in una nuova scheda)" href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" rel="noopener" target="_blank" title="Leggi l'articolo su FerraraToday">leggi l'articolo →</a></p>
+  </div>
+  </div>
+  </div>
+  </section>
   <!--/BLOCCO:8-->
-
   <!--BLOCCO:9-->
   <!--CORRELATI-->
   <!--/BLOCCO:9-->
-
   <!--BLOCCO:10-->
-  <section class="n-s">
-  <div class="n-w">
-  <span class="n-kick">Domande frequenti</span>
-  <h2>Domande frequenti sullo Staffordshire Bull Terrier</h2>
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">Domande frequenti</span>
+  <h2 class="section-title">Domande frequenti sullo Staffordshire Bull Terrier</h2>
   <div class="faq-container n-faqs">
   <div class="faq-item active n-faq">
   <h3>Quanto costa uno Staffordshire con pedigree ENCI?</h3>
@@ -265,25 +235,18 @@ custom_content: |
   <div class="faq-answer">Una l'anno, occasionalmente due, e in alcuni anni nessuna: l'allevamento Del Piccolo Diavolo non fa cucciolate su richiesta e non tiene una fattrice in produzione continua. Ogni accoppiamento si programma con mesi di anticipo, partendo dai test genetici dei due riproduttori e dal coefficiente di consanguineità teorico dei cuccioli. Il ritmo si può verificare senza chiedere niente a noi: ogni cucciolata resta pubblicata nel <a href="/diario-allevamento/" title="Diario dell'allevamento">diario dell'allevamento</a> con la data di nascita, e il numero di cucciolate di ogni fattrice si controlla sul libro genealogico ENCI partendo dal suo microchip.</div>
   </div>
   </div>
-  <p style="margin-top:2.4rem"><a href="/faq-sullo-staffordshire-bull-terrier/" class="n-vai" title="Vedi tutte le FAQ">Vedi tutte le domande frequenti <span aria-hidden="true">→</span></a></p>
+  <p style="margin-top:2.4rem"><a class="n-vai" href="/faq-sullo-staffordshire-bull-terrier/" title="Vedi tutte le FAQ">Vedi tutte le domande frequenti <span aria-hidden="true">→</span></a></p>
   </div>
   </section>
   <!--/BLOCCO:10-->
-
-  <section class="n-s n-s2">
-  <div class="n-w n-cit">
-  <blockquote>Cani selezionati con cura di carattere docile e affettuoso, compatti e possenti!</blockquote>
-  <p class="n-chi">Simone Gatti · <span class="n-stelle">★★★★★</span></p>
-  <p class="n-orig">4 settembre 2026 – Google</p>
-  </div>
+  <section class="section section-alt">
+  <div class="section-inner"><div class="review-card"><p class="review-text">«Cani selezionati con cura di carattere docile e affettuoso, compatti e possenti!»</p><div class="reviewer"><span>Simone Gatti</span><span class="stars">★★★★★</span></div><p class="n-orig">4 settembre 2026 – Google</p></div></div>
   </section>
-
   <!--BLOCCO:11-->
   <section class="cta-section">
   <h2>Scrivici per conoscere i nostri Staffy di persona</h2>
   <p>Scrivici su WhatsApp e fissiamo una visita a Ostellato, per vedere i cani, la casa e il cortile.</p>
-  <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20ti%20scrivo%20dal%20sito%20Del%20Piccolo%20Diavolo" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Scrivici su WhatsApp" aria-label="Scrivici su WhatsApp – Contattaci su WhatsApp per informazioni">Scrivici su WhatsApp</a>
+  <a aria-label="Scrivici su WhatsApp – Contattaci su WhatsApp per informazioni" class="btn" href="/wa/393924635584?text=Ciao%20Paolo%2C%20ti%20scrivo%20dal%20sito%20Del%20Piccolo%20Diavolo" style="min-height:44px;padding:1rem 1.8rem" title="Scrivici su WhatsApp">Scrivici su WhatsApp</a>
   </section>
   <!--/BLOCCO:11-->
-  </div>
 ---

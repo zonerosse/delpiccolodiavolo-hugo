@@ -302,5 +302,9 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
 - Niente bottoni nella testata (hero) di nessuna pagina tranne la Home (Paolo, 17/10/2026); i bottoni dentro la pagina e WhatsApp in fondo restano.
 - Pagine vetrina aperte una alla volta (Cuccioli e Chi siamo il 17/10/2026, Chi siamo EN/DE riscritte uguali all IT): niente «Continua a leggere» né tendine; le tendine diventano
   `.n-percorso > .n-passo` (titolo a sinistra, testo a destra, scelta B), i «rimando» una riga `.n-vedi`, le FAQ `.faq-item active n-faq`.
+- Home e Cuccioli (17/10/2026, scelte di Paolo): la Home usa `notte: true` come le altre (niente più `<div class="notte">`);
+  «Nati e cresciuti» = `.n-foto3` (foto alte con il momento scritto sopra, C); le altre sezioni a righe `.n-percorso > .n-passo`;
+  recensione e FerraraToday dopo i risultati dei cani. Testo 18 px ovunque e titoli contenuti (scala C, fine di `notte.css`):
+  niente paragrafi più grandi degli altri. Piè di pagina scuro su tre colonne (B) solo sulle pagine Notte.
 - Contrasti: tutte le pagine Notte passano axe-core `color-contrast` (WCAG AA). Colori nuovi nel `style=""` delle pagine Notte
   vanno ricoperti in `notte.css`, altrimenti testo scuro su fondo scuro. Bottoni rame: `linear-gradient(135deg,#9c5f2c,#7f4a1f)`.

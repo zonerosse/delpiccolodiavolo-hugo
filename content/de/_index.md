@@ -3,6 +3,7 @@ title: "Staffordshire Bull Terrier Zucht"
 titleSeo: "Staffordshire Bull Terrier Züchter in Italien"
 date: 2025-12-28
 lastmod: 2026-10-17
+notte: true
 translationKey: "home"
 description: "Ethischer Staffordshire Bull Terrier Züchter seit 2013. ENCI-Ahnentafel, Gentest-Befunde und Mikrochips der Zuchttiere online veröffentlicht und überprüfbar."
 correlati:
@@ -20,7 +21,7 @@ correlati:
     testo: "Ostellato (Ferrara), Italien, nach Vereinbarung"
 slug: ""
 custom_content: |
-  <div class="notte">
+
   <!--BLOCCO:1-->
   <section class="hero">
   <div class="hero-visual">
@@ -42,7 +43,6 @@ custom_content: |
   </div></div>
   </section>
   <!--/BLOCCO:1-->
-
   <div class="features-bar">
   <div class="features-track">
   <span>Elitebull Lines</span>
@@ -63,110 +63,66 @@ custom_content: |
   <span>Ostellato FE</span>
   </div>
   </div>
-
   <!--BLOCCO:2-->
   <!--NOVITA-->
   <!--/BLOCCO:2-->
-
   <!--BLOCCO:3-->
-  <section class="n-s">
-  <div class="n-w">
-  <span class="n-kick">Unsere Welpen</span>
-  <h2>Hier geboren und aufgewachsen, in Ostellato</h2>
-  <ol class="n-tappe">
-  <li><span class="n-quando">Der erste Monat</span><p>Die Welpen kommen im Haus zur Welt und bleiben dort den ersten Monat.</p></li>
-  <li><span class="n-quando">Ab dem zweiten Monat</span><p>Danach ziehen sie in einen Welpenbereich mit Hof, mitten unter Menschen und Alltagsgeräuschen.</p></li>
-  <li><span class="n-quando">Nach 60 Tagen</span><p>Sie gehen mit <strong>ENCI-Ahnentafel</strong>, Mikrochip und Impfungen.</p></li>
-  </ol>
-  <div class="n-gal">
-  <img src="/images/cuccioli-bilquis-nati-1.webp" alt="Bilquis Goddess Diabhal mit ihren neugeborenen Staffordshire Bull Terrier Welpen" loading="lazy" decoding="async" width="435" height="480">
-  <img src="/images/foto2.avif" alt="Schwarzer Staffordshire Bull Terrier Welpe, wenige Wochen alt" loading="lazy" decoding="async" width="368" height="480">
-  <img src="/images/primo-piano-cucciolo.avif" alt="Nahaufnahme eines schwarzen Staffordshire Bull Terrier Welpen" loading="lazy" decoding="async" width="639" height="600">
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">Unsere Welpen</span>
+  <h2 class="section-title">Hier geboren und aufgewachsen, in Ostellato</h2>
+  <div class="n-foto3">
+  <figure><img alt="Bilquis Goddess Diabhal mit ihren neugeborenen Staffordshire Bull Terrier Welpen" decoding="async" height="480" loading="lazy" src="/images/cuccioli-bilquis-nati-1.webp" width="435"/><figcaption><span class="n-quando">Der erste Monat</span><p>Die Welpen kommen im Haus zur Welt und bleiben dort den ersten Monat.</p></figcaption></figure>
+  <figure><img alt="Schwarzer Staffordshire Bull Terrier Welpe, wenige Wochen alt" decoding="async" height="480" loading="lazy" src="/images/foto2.avif" width="368"/><figcaption><span class="n-quando">Ab dem zweiten Monat</span><p>Danach ziehen sie in einen Welpenbereich mit Hof, mitten unter Menschen und Alltagsgeräuschen.</p></figcaption></figure>
+  <figure><img alt="Nahaufnahme eines schwarzen Staffordshire Bull Terrier Welpen" decoding="async" height="600" loading="lazy" src="/images/primo-piano-cucciolo.avif" width="639"/><figcaption><span class="n-quando">Nach 60 Tagen</span><p>Sie gehen mit <strong>ENCI-Ahnentafel</strong>, Mikrochip und Impfungen.</p></figcaption></figure>
   </div>
   <p style="max-width:860px">Was sie vor der Abgabe gelernt haben können, und was nicht, erklären wir in <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das heißt">was „sozialisierte Welpen“ heißt</a>. Wunderübungen machen wir keine: Über den <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor und Frühstimulation: was die Forschung sagt">Bio Sensor</a> haben wir geschrieben, warum die Belege fehlen.</p>
   <a class="n-vai" href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Wie sie geboren werden und aufwachsen <span aria-hidden="true">→</span></a>
   </div>
   </section>
   <!--/BLOCCO:3-->
-
-  <section class="n-s n-s2">
-  <div class="n-w n-cit">
-  <blockquote>Vor etwa acht Monaten beschloss ich, einen Staffy als Begleiter zu nehmen, und begann mich einzulesen, um mich der zuverlässigsten Zucht anvertrauen zu können. […] Jetzt habe ich meinen kleinen Teufel, dank dieser wunderbaren Familie, der ich nie genug danken kann.</blockquote>
-  <p class="n-chi">Gianluca Ravera · <span class="n-stelle">★★★★★</span></p>
-  <p class="n-orig"><a aria-label="Bewertung auf Google lesen (wird in einem neuen Tab geöffnet)" href="https://search.google.com/local/reviews?placeid=ChIJqV8xIv1rfkcRQK_6v1XiVNE" rel="noopener" target="_blank" title="Originalbewertung auf Google lesen">Bewertung auf Google lesen →</a></p>
-  </div>
-  </section>
-
   <!--BLOCCO:4-->
-  <section class="n-s n-s2" style="padding-top:0">
-  <div class="n-w">
-  <div class="n-press">
-  <img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Italienische Championin, Zuchthündin von Del Piccolo Diavolo, Staffordshire Bull Terrier Züchter" loading="lazy" decoding="async" width="301" height="396">
-  <div>
-  <small>In der Presse · 6. Januar 2026</small>
-  <h2>„Von Ferrara aus die Welt erobern: Bilquis, die dreijährige Hündin, die Preise sammelt“</h2>
-  <p><strong>FerraraToday</strong> (auf Italienisch) · <a aria-label="Artikel lesen (wird in einem neuen Tab geöffnet)" href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" rel="noopener" target="_blank" title="Artikel auf FerraraToday lesen">Artikel lesen →</a></p>
-  </div>
-  </div>
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">Im Klartext</span>
+  <h2 class="section-title">Was wir nicht tun</h2>
+  <p>Manchmal versteht man eine Zucht besser an dem, was sie nicht tut.</p>
+  <p>Die Zucht Del Piccolo Diavolo liegt in Ostellato, Provinz Ferrara, Italien. Hier kommen <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Staffordshire Bull Terrier Welpen</a> nur selten zur Welt, gehen mit der ENCI-Ahnentafel nach den gesetzlichen 60 Tagen und werden nur hier abgeholt, wo man <a href="/de/eltern-vor-ort-was-das-bedeutet/" title='"Eltern vor Ort": was das wirklich bedeutet'>die Mutter sieht</a>. Das sind die vier Dinge, die wir nicht tun.</p>
+
+  <div class="n-percorso"><div class="n-passo"><h3>Wir haben nicht das ganze Jahr über Welpen.</h3><div><p>Ein Wurf, gelegentlich zwei, manchmal keiner. Wenn Sie uns zu einem Zeitpunkt schreiben, an dem es keine gibt, lautet die Antwort, dass es keine gibt: wir bieten Ihnen nicht den Welpen eines Bekannten an und drängen Sie nicht zu einem künftigen Wurf.</p></div></div><div class="n-passo"><h3>Wir versenden keine Hunde.</h3><div><p>Keiner unserer Welpen reist per Kurier: kein Frachtraum, keine Übergabe auf halbem Weg auf einem Parkplatz. Wer einen Welpen nimmt, kommt nach Ostellato. So sieht er die Mutter, das Haus und den Ort, an dem er aufgewachsen ist.</p></div></div><div class="n-passo"><h3>Wir behandeln die Ahnentafel nicht als Zubehör.</h3><div><p>Es gibt keinen Welpen „mit“ oder „ohne“: die ENCI-Ahnentafel begleitet jeden Hund und wird nicht gesondert berechnet.</p></div></div><div class="n-passo"><h3>Wir nehmen Fragen zur Zucht nicht übel.</h3><div><p>Im Gegenteil, sie sagen uns, wen wir vor uns haben. Wer nach den Tests fragt, nach den Eltern, danach, was passiert, wenn er den Hund in zwei Jahren nicht mehr halten kann, ist die Person, der wir gerne einen Welpen anvertrauen.</p></div></div></div>
+  <p class="n-vedi">Wer hinter all dem steht, und wie man von Rottweilern zu Staffys kommt: das erzählen wir unter <a href="/de/ueber-uns/" title="Über uns">über uns</a>.</p>
   </div>
   </section>
   <!--/BLOCCO:4-->
-
   <!--BLOCCO:5-->
-  <section class="n-s">
-  <div class="n-w n-dd">
-  <div>
-  <span class="n-kick">Im Klartext</span>
-  <h2>Was wir nicht tun</h2>
-  <p class="n-lead">Manchmal versteht man eine Zucht besser an dem, was sie nicht tut.</p>
-  <p>Die Zucht Del Piccolo Diavolo liegt in Ostellato, Provinz Ferrara, Italien. Hier kommen <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Staffordshire Bull Terrier Welpen</a> nur selten zur Welt, gehen mit der ENCI-Ahnentafel nach den gesetzlichen 60 Tagen und werden nur hier abgeholt, wo man <a href="/de/eltern-vor-ort-was-das-bedeutet/" title='"Eltern vor Ort": was das wirklich bedeutet'>die Mutter sieht</a>. Das sind die vier Dinge, die wir nicht tun.</p>
-  <img class="n-foto" src="/images/foto1.avif" alt="Schwarzer Staffordshire Bull Terrier Welpe auf der Hand" loading="lazy" decoding="async" width="397" height="480">
+  <section class="section section-alt">
+  <div class="section-inner">
+  <span class="section-label">Wie wir arbeiten</span>
+  <h2 class="section-title">Ein Wurf im Jahr, manchmal auch keiner</h2>
+  <p>Del Piccolo Diavolo ist eine Staffordshire Bull Terrier Zucht, der Staffy für seine Liebhaber, in <strong>Ostellato, Provinz Ferrara, Italien</strong>, aktiv seit <strong>2013</strong>. Paolo Boldrini beschäftigt sich seit 2005 mit der Rasse. Bevor er einen Wurf züchtete, hat er sie acht Jahre lang studiert.</p>
+  <div class="n-percorso">
+  <div class="n-passo"><h3>Wie viele Würfe, welche Tests</h3><div><p>Wir haben <strong>einen Wurf im Jahr, gelegentlich zwei, manchmal keinen</strong>, nie auf Bestellung. Alle Zuchttiere sind auf <strong>L2-HGA und HC (Gen HSF4)</strong> getestet oder durch Abstammung frei, mit den Befunden der Eltern. Unsere Hunde sind außerdem frei von <strong>degenerativer Myelopathie (Gen SOD1)</strong>. Die Befunde sind auf der Website veröffentlicht, mit dem Namen und dem Mikrochip des Hundes.</p></div></div>
+  <div class="n-passo"><h3>Wie wir die Zuchthunde wählen</h3><div><p>Wir wählen die Zuchttiere nach drei Kriterien, in dieser Reihenfolge: <strong>ausgeglichenes <a href="/de/staffordshire-bull-terrier-wesen/" title="Wesen des Staffy: wie es selektiert wurde">Wesen</a></strong>, <strong>keine Erbkrankheiten</strong> und <strong><a href="/de/staffy-rassestandard/" title="Der Rassestandard des Staffordshire Bull Terrier">Übereinstimmung mit dem Standard</a></strong>. Das Wesen kommt zuerst, weil eine Familie es zwölf Jahre lang zu Hause hat. Und es ist am schwersten zu korrigieren: Die Anatomie lässt sich in zwei oder drei Generationen in Ordnung bringen, ein Wesensfehler nicht.</p></div></div>
+  <div class="n-passo"><h3>Auf Ausstellungen</h3><div><p>Bei Ausstellungen haben die hier gezüchteten Hunde <strong>1 Titel Italienischer Champion</strong> und <strong>3 Titel Italienischer Jugendchampion</strong> errungen, einer davon auch Slowenischer Champion. Dazu eine Jugendchampionin und Championin von San Marino und ein <strong>4. Platz bei der World Dog Show</strong> mit Bilquis Goddess Diabhal. Im Mai 2026 wurde Queen of California <strong>Italienische Jugendchampionin</strong>. Wir arbeiten mit englischen und irischen Blutlinien, vor allem Elitebull und Lackyle.</p></div></div>
+  <div class="n-passo"><h3>Nach der Vermittlung</h3><div><p>Bevor wir einen Welpen abgeben, wollen wir die Familie kennenlernen: ein Telefonat, ein paar Fragen, oft ein Besuch. Und damit endet die Beziehung nicht. Wir sind für Rat und Neuigkeiten <a href="/de/staffordshire-in-der-familie-geschichten/" title="Staffordshire Bull Terrier in der Familie: wahre Geschichten">auch nach Jahren</a> erreichbar. Und jeder Hund, der hier geboren ist, kommt zu uns zurück, falls er eines Tages nicht mehr dort bleiben könnte, wo er ist.</p></div></div>
   </div>
-  <div>
-  <ul class="n-li">
-  <li><span class="n-ic" aria-hidden="true">✕</span><p><strong>Wir haben nicht das ganze Jahr über Welpen.</strong> Ein Wurf, gelegentlich zwei, manchmal keiner. Wenn Sie uns zu einem Zeitpunkt schreiben, an dem es keine gibt, lautet die Antwort, dass es keine gibt: wir bieten Ihnen nicht den Welpen eines Bekannten an und drängen Sie nicht zu einem künftigen Wurf.</p></li>
-  <li><span class="n-ic" aria-hidden="true">✕</span><p><strong>Wir versenden keine Hunde.</strong> Keiner unserer Welpen reist per Kurier: kein Frachtraum, keine Übergabe auf halbem Weg auf einem Parkplatz. Wer einen Welpen nimmt, kommt nach Ostellato. So sieht er die Mutter, das Haus und den Ort, an dem er aufgewachsen ist.</p></li>
-  <li><span class="n-ic" aria-hidden="true">✕</span><p><strong>Wir behandeln die Ahnentafel nicht als Zubehör.</strong> Es gibt keinen Welpen „mit“ oder „ohne“: die ENCI-Ahnentafel begleitet jeden Hund und wird nicht gesondert berechnet.</p></li>
-  <li><span class="n-ic" aria-hidden="true">✕</span><p><strong>Wir nehmen Fragen zur Zucht nicht übel.</strong> Im Gegenteil, sie sagen uns, wen wir vor uns haben. Wer nach den Tests fragt, nach den Eltern, danach, was passiert, wenn er den Hund in zwei Jahren nicht mehr halten kann, ist die Person, der wir gerne einen Welpen anvertrauen.</p></li>
-  </ul>
-  <p class="n-vedi">Wer hinter all dem steht, und wie man von Rottweilern zu Staffys kommt: das erzählen wir unter <a href="/de/ueber-uns/" title="Über uns">über uns</a>.</p>
-  </div>
+
   </div>
   </section>
   <!--/BLOCCO:5-->
-
   <!--BLOCCO:6-->
-  <section class="n-s n-s2">
-  <div class="n-w">
-  <span class="n-kick">Wie wir arbeiten</span>
-  <h2>Ein Wurf im Jahr, manchmal auch keiner</h2>
-  <p class="n-lead">Del Piccolo Diavolo ist eine Staffordshire Bull Terrier Zucht, der Staffy für seine Liebhaber, in <strong>Ostellato, Provinz Ferrara, Italien</strong>, aktiv seit <strong>2013</strong>. Paolo Boldrini beschäftigt sich seit 2005 mit der Rasse. Bevor er einen Wurf züchtete, hat er sie acht Jahre lang studiert.</p>
-  <div class="n-lav">
-  <div>
-  <p>Wir haben <strong>einen Wurf im Jahr, gelegentlich zwei, manchmal keinen</strong>, nie auf Bestellung. Alle Zuchttiere sind auf <strong>L2-HGA und HC (Gen HSF4)</strong> getestet oder durch Abstammung frei, mit den Befunden der Eltern. Unsere Hunde sind außerdem frei von <strong>degenerativer Myelopathie (Gen SOD1)</strong>. Die Befunde sind auf der Website veröffentlicht, mit dem Namen und dem Mikrochip des Hundes.</p>
-  <p>Wir wählen die Zuchttiere nach drei Kriterien, in dieser Reihenfolge: <strong>ausgeglichenes <a href="/de/staffordshire-bull-terrier-wesen/" title="Wesen des Staffy: wie es selektiert wurde">Wesen</a></strong>, <strong>keine Erbkrankheiten</strong> und <strong><a href="/de/staffy-rassestandard/" title="Der Rassestandard des Staffordshire Bull Terrier">Übereinstimmung mit dem Standard</a></strong>. Das Wesen kommt zuerst, weil eine Familie es zwölf Jahre lang zu Hause hat. Und es ist am schwersten zu korrigieren: Die Anatomie lässt sich in zwei oder drei Generationen in Ordnung bringen, ein Wesensfehler nicht.</p>
-  <p>Bei Ausstellungen haben die hier gezüchteten Hunde <strong>1 Titel Italienischer Champion</strong> und <strong>3 Titel Italienischer Jugendchampion</strong> errungen, einer davon auch Slowenischer Champion. Dazu eine Jugendchampionin und Championin von San Marino und ein <strong>4. Platz bei der World Dog Show</strong> mit Bilquis Goddess Diabhal. Im Mai 2026 wurde Queen of California <strong>Italienische Jugendchampionin</strong>. Wir arbeiten mit englischen und irischen Blutlinien, vor allem Elitebull und Lackyle.</p>
-  <p>Bevor wir einen Welpen abgeben, wollen wir die Familie kennenlernen: ein Telefonat, ein paar Fragen, oft ein Besuch. Und damit endet die Beziehung nicht. Wir sind für Rat und Neuigkeiten <a href="/de/staffordshire-in-der-familie-geschichten/" title="Staffordshire Bull Terrier in der Familie: wahre Geschichten">auch nach Jahren</a> erreichbar. Und jeder Hund, der hier geboren ist, kommt zu uns zurück, falls er eines Tages nicht mehr dort bleiben könnte, wo er ist.</p>
-  </div>
-  <img src="/images/foto4.avif" alt="Staffordshire Bull Terrier Welpe im Arm, Nahaufnahme" loading="lazy" decoding="async" width="415" height="480">
-  </div>
-  </div>
-  </section>
-  <!--/BLOCCO:6-->
-
-  <!--BLOCCO:7-->
-  <section class="n-s">
-  <div class="n-w">
-  <span class="n-kick">Überprüfbar</span>
-  <h2>Wie man prüft, was wir schreiben</h2>
-  <p class="n-lead">Jede Zucht schreibt, dass sie auf Gesundheit selektiert. Der Satz kostet nichts, und deshalb schreiben ihn alle. Der Unterschied liegt darin, was man prüfen kann, ohne jemandem glauben zu müssen.</p>
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">Überprüfbar</span>
+  <h2 class="section-title">Wie man prüft, was wir schreiben</h2>
+  <p>Jede Zucht schreibt, dass sie auf Gesundheit selektiert. Der Satz kostet nichts, und deshalb schreiben ihn alle. Der Unterschied liegt darin, was man prüfen kann, ohne jemandem glauben zu müssen.</p>
   <div class="n-2c" style="margin-top:2rem">
   <p>Was eine Staffordshire Bull Terrier Zucht sagt, lässt sich auf vier Wegen prüfen, alle von außen und ohne den Züchter etwas zu fragen. Die <strong>Befunde der Gentests</strong> zählen nur, wenn der Mikrochip des Hundes darauf steht. Die <strong>Abstammung</strong> steht auf SBTPedigree, dem internationalen Archiv der Rasse, mit Großeltern, Urgroßeltern und Wurfgeschwistern (worauf man achtet, erklärt <a href="/de/wie-man-eine-ahnentafel-liest/" title="Wie man eine Ahnentafel liest">wie man eine Ahnentafel liest</a>). Die <strong>Zahl der Würfe einer Hündin</strong> prüft man im ENCI-Zuchtbuch, wieder über den Mikrochip. Die <strong>Ausstellungstitel</strong> stehen in den öffentlichen Katalogen, mit dem Namen des Richters. Del Piccolo Diavolo veröffentlicht alle vier Angaben, Mikrochipnummern eingeschlossen.</p>
   <p>Auf dieser Website sind die Befunde der Zuchttiere veröffentlicht, nicht „auf Anfrage erhältlich“. Jeder kann sie herunterladen. Auf jedem Blatt stehen der Mikrochip des Hundes, das Labor, die Befundnummer und das Datum.</p>
   <p><strong>Erst der Mikrochip macht einen Befund überprüfbar.</strong> Ohne ihn könnte das Blatt jeden beliebigen Hund betreffen. Mit dem Mikrochip im Klartext kann jeder es mit den Papieren des Hundes vergleichen, den er vor sich hat, oder beim Labor nachfragen.</p>
   </div>
-  <div class="n-righe">
-  <div class="n-riga">
+  <div class="n-percorso">
+  <div class="n-passo">
   <h3>Welche Tests wir machen, und was sie bedeuten</h3>
   <div>
   <p><strong>Alle Zuchttiere sind auf L2-HGA und HC (HSF4) getestet oder durch Abstammung frei, mit den Befunden der Eltern. Unsere Hunde sind außerdem frei von DM-SOD1.</strong> Die Befunde mit Mikrochipnummer sind auf den Seiten der Hunde veröffentlicht.</p>
@@ -178,7 +134,7 @@ custom_content: |
   <p>Alle drei sind rezessive Erkrankungen. Sie werden mit einem DNA-Test festgestellt, der einmal gemacht wird und ein Leben lang gilt. Zwei freie Elterntiere können keine erkrankten Welpen haben. Wie man die Befunde liest, erklärt unser <a href="/de/staffy-gentests-l2hga-hc/" title="Gentests L2-HGA, HC und DM">Ratgeber zu den Gentests</a>.</p>
   </div>
   </div>
-  <div class="n-riga">
+  <div class="n-passo">
   <h3>Was man prüfen kann, und wo</h3>
   <div>
   <p><strong>Die Abstammung.</strong> Die Hunde von Del Piccolo Diavolo sind auf <a aria-label="Del Piccolo Diavolo auf SBTPedigree (wird in einem neuen Tab geöffnet)" href="https://sbtpedigree.com/details?id=35858" rel="noopener" target="_blank">SBTPedigree</a> eingetragen, der internationalen Datenbank der Rasse, mit allen Hunden und Würfen. Von dort aus verfolgt man Großeltern, Urgroßeltern und Wurfgeschwister zurück: man sieht, wer die Hunde hinter einem Namen sind, und auch, was fehlt.</p>
@@ -188,14 +144,14 @@ custom_content: |
   <p class="n-vedi"><a href="/de/huendinnen-staffordshire-bull-terrier/">Unsere Hündinnen, eine nach der anderen</a>. Mikrochip, Gentests und Ahnentafel: von dort aus prüfen Sie Abstammung und Würfe.</p>
   </div>
   </div>
-  <div class="n-riga">
+  <div class="n-passo">
   <h3>Zwei Regeln ohne Ausnahme</h3>
   <div>
   <p><strong>Wir verpaaren nicht zwei Staffordshire Bull Terrier, weil sie schön sind.</strong> Jede Verpaarung hat einen Grund, den wir erklären können: was wir festigen und was wir korrigieren wollen. Wäre die Antwort „es sind zwei schöne Hunde“, stünde kein Programm dahinter.</p>
   <p><strong>Wir geben nicht vor 60 Tagen ab</strong>, das ist eine gesetzliche Vorschrift und keine Entscheidung von uns. Für Familien im Ausland verlängert sich die Zeit noch, weil die Tollwutimpfung und das <a href="/de/staffordshire-bull-terrier-welpe-ins-ausland/" title="Ein Welpe geht ins Ausland">amtliche Gesundheitszeugnis</a> nötig sind.</p>
   </div>
   </div>
-  <div class="n-riga">
+  <div class="n-passo">
   <h3>Auch das, was wir nicht behaupten können</h3>
   <div>
   <p>Das gilt auch umgekehrt. Wenn ein Welpe durch Abstammung frei von einer Krankheit ist, aber nicht von einer anderen, schreiben wir das. Wenn wir von einem fremden Deckrüden den Befund für zwei Erkrankungen haben und nicht für vier, schreiben wir das.</p>
@@ -207,28 +163,27 @@ custom_content: |
   </div>
   </div>
   </section>
-  <!--/BLOCCO:7-->
-
-  <!--BLOCCO:8-->
-  <section class="n-s n-s2">
-  <div class="n-w">
-  <span class="n-kick">Ausstellungserfolge</span>
-  <h2>Was die Richter über unsere Hunde sagen</h2>
+  <!--/BLOCCO:6-->
+  <!--BLOCCO:7-->
+  <section class="section section-alt">
+  <div class="section-inner">
+  <span class="section-label">Ausstellungserfolge</span>
+  <h2 class="section-title">Was die Richter über unsere Hunde sagen</h2>
   <p style="max-width:760px">Das sind die Ergebnisse unserer Staffys in italienischen und internationalen Ringen. Wir vergeben sie nicht: Das tun die Richter, und sie stehen in den öffentlichen Katalogen.</p>
   <div class="n-cani">
-  <div class="n-cane"><img src="/images/femmina-bilquis.webp" alt="Bilquis Goddess Diabhal, Staffordshire Bull Terrier aus der Zucht Del Piccolo Diavolo" loading="lazy" decoding="async" width="301" height="396"><div>
+  <div class="n-cane"><img alt="Bilquis Goddess Diabhal, Staffordshire Bull Terrier aus der Zucht Del Piccolo Diavolo" decoding="async" height="396" loading="lazy" src="/images/femmina-bilquis.webp" width="301"/><div>
   <h3>Bilquis Goddess Diabhal</h3>
   <p class="n-tit">Italienische Championin - 4. bei der World Dog Show</p>
   <p>Rekord: 14 aufeinanderfolgende Ausstellungen mit Vorzüglich 1. Italienische Championin in der Zwischenklasse. 4. bei der World Dog Show. Top Dog Junior 2023.</p></div></div>
-  <div class="n-cane"><img src="/images/Lothar.webp" alt="Lothar Matthäus, Staffordshire Bull Terrier aus der Zucht Del Piccolo Diavolo" loading="lazy" decoding="async" width="480" height="485"><div>
+  <div class="n-cane"><img alt="Lothar Matthäus, Staffordshire Bull Terrier aus der Zucht Del Piccolo Diavolo" decoding="async" height="485" loading="lazy" src="/images/Lothar.webp" width="480"/><div>
   <h3>Lothar Matthäus</h3>
   <p class="n-tit">Italienischer Jugendchampion und Slowenischer Champion</p>
   <p>Mehrfache JCAC und Junior BOB auf nationalen und internationalen Ausstellungen. Vorzüglich 1. bei allen Veranstaltungen. Sohn englischer Champions.</p></div></div>
-  <div class="n-cane"><img src="/images/queen-of-california-800w.webp" alt="Queen of California, Staffordshire Bull Terrier aus der Zucht Del Piccolo Diavolo" loading="lazy" decoding="async" width="800" height="533"><div>
+  <div class="n-cane"><img alt="Queen of California, Staffordshire Bull Terrier aus der Zucht Del Piccolo Diavolo" decoding="async" height="533" loading="lazy" src="/images/queen-of-california-800w.webp" width="800"/><div>
   <h3>Queen of California</h3>
   <p class="n-tit">Italienische Jugendchampionin ENCI 2026</p>
   <p>17. Mai 2026, Nationale Ausstellung in Albarella: Vorzüglich 1., JCAC, JBOB und BOB. Bester Staffordshire Bull Terrier des Gruppo Cinofilo Polesano. Tochter von CH. Elitebull Prospect × Lackyle Bean Croí Olc.</p></div></div>
-  <div class="n-cane"><img src="/images/cattleya-campionessa-800w.webp" alt="Cattleya Del Piccolo Diavolo at Valconcaclan, Staffordshire Bull Terrier aus der Zucht Del Piccolo Diavolo" loading="lazy" decoding="async" width="800" height="878"><div>
+  <div class="n-cane"><img alt="Cattleya Del Piccolo Diavolo at Valconcaclan, Staffordshire Bull Terrier aus der Zucht Del Piccolo Diavolo" decoding="async" height="878" loading="lazy" src="/images/cattleya-campionessa-800w.webp" width="800"/><div>
   <h3>Cattleya Del Piccolo Diavolo at Valconcaclan</h3>
   <p class="n-tit">Jugendchampionin und Championin von San Marino</p>
   <p>Jugendchampionin von San Marino 2023, Championin von San Marino 2024. Bei uns geboren und aufgezogen, heute im Besitz von Ricarda Mazzola Wagner (Valconcaclan). L2-HGA und HC (HSF4) frei, vollständiges Scherengebiss.</p></div></div>
@@ -236,22 +191,37 @@ custom_content: |
   <div class="n-tot">
   <p><strong>1 Italienischer Champion - 3 Italienische Jugendchampions - 1 Championin von San Marino - 4. bei der World Dog Show</strong></p>
   <p>Ergebnisse mit von uns gezüchteten und aufgezogenen Hunden, nicht bereits mit Titeln gekauft.</p>
-  <a href="/de/palmares/" class="n-btn" title="Alle Ergebnisse ansehen">Alle Ergebnisse ansehen</a>
+  <a class="btn btn-primary" href="/de/palmares/" title="Alle Ergebnisse ansehen">Alle Ergebnisse ansehen</a>
   <p class="n-vedi" style="text-align:left"><a href="/de/welpen-staffordshire-bull-terrier/">Wie ein Wurf entsteht und aufwächst</a>. Von der Läufigkeit bis zur Geburt, und was in den Wochen danach geschieht.</p>
   </div>
   </div>
   </section>
+  <!--/BLOCCO:7-->
+  <section class="section section-alt">
+  <div class="section-inner"><div class="review-card"><p class="review-text">«Vor etwa acht Monaten beschloss ich, einen Staffy als Begleiter zu nehmen, und begann mich einzulesen, um mich der zuverlässigsten Zucht anvertrauen zu können. […] Jetzt habe ich meinen kleinen Teufel, dank dieser wunderbaren Familie, der ich nie genug danken kann.»</p><div class="reviewer"><span>Gianluca Ravera</span><span class="stars">★★★★★</span></div><p class="n-orig"><a aria-label="Bewertung auf Google lesen (wird in einem neuen Tab geöffnet)" href="https://search.google.com/local/reviews?placeid=ChIJqV8xIv1rfkcRQK_6v1XiVNE" rel="noopener" target="_blank" title="Originalbewertung auf Google lesen">Bewertung auf Google lesen →</a></p></div></div>
+  </section>
+  <!--BLOCCO:8-->
+  <section class="section section-alt" style="padding-top:0">
+  <div class="section-inner">
+  <div class="n-press">
+  <img alt="Bilquis Goddess Diabhal, Italienische Championin, Zuchthündin von Del Piccolo Diavolo, Staffordshire Bull Terrier Züchter" decoding="async" height="396" loading="lazy" src="/images/femmina-bilquis.webp" width="301"/>
+  <div>
+  <small>In der Presse · 6. Januar 2026</small>
+  <h2>„Von Ferrara aus die Welt erobern: Bilquis, die dreijährige Hündin, die Preise sammelt“</h2>
+  <p><strong>FerraraToday</strong> (auf Italienisch) · <a aria-label="Artikel lesen (wird in einem neuen Tab geöffnet)" href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" rel="noopener" target="_blank" title="Artikel auf FerraraToday lesen">Artikel lesen →</a></p>
+  </div>
+  </div>
+  </div>
+  </section>
   <!--/BLOCCO:8-->
-
   <!--BLOCCO:9-->
   <!--CORRELATI-->
   <!--/BLOCCO:9-->
-
   <!--BLOCCO:10-->
-  <section class="n-s">
-  <div class="n-w">
-  <span class="n-kick">Häufig gestellte Fragen</span>
-  <h2>Häufige Fragen zum Staffordshire Bull Terrier</h2>
+  <section class="section">
+  <div class="section-inner">
+  <span class="section-label">Häufig gestellte Fragen</span>
+  <h2 class="section-title">Häufige Fragen zum Staffordshire Bull Terrier</h2>
   <div class="faq-container n-faqs">
   <div class="faq-item active n-faq">
   <h3>Was kostet ein Staffordshire Bull Terrier mit ENCI-Ahnentafel?</h3>
@@ -266,25 +236,18 @@ custom_content: |
   <div class="faq-answer">Einen im Jahr, gelegentlich zwei, in manchen Jahren keinen: Die Zucht Del Piccolo Diavolo macht keine Würfe auf Bestellung und hält keine Hündin in Dauerproduktion. Jede Verpaarung wird Monate im Voraus geplant, ausgehend von den Gentests beider Elterntiere und dem theoretischen Inzuchtkoeffizienten der Welpen. Den Rhythmus kann jeder prüfen, ohne uns zu fragen: Jeder Wurf bleibt mit Geburtsdatum im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Zuchttagebuch</a> veröffentlicht, und die Zahl der Würfe jeder Hündin lässt sich im ENCI-Zuchtbuch anhand ihres Mikrochips kontrollieren. Wie eine Verpaarung geplant wird, von den Tests bis zur Geburt, steht auf der Seite zum <a href="/de/wuerfe-staffordshire-bull-terrier/" title="Zuchtprogramm">Zuchtprogramm</a>.</div>
   </div>
   </div>
-  <p style="margin-top:2.4rem"><a href="/de/faq-staffordshire-bull-terrier/" class="n-vai" title="Alle FAQ ansehen">Alle häufigen Fragen ansehen <span aria-hidden="true">→</span></a></p>
+  <p style="margin-top:2.4rem"><a class="n-vai" href="/de/faq-staffordshire-bull-terrier/" title="Alle FAQ ansehen">Alle häufigen Fragen ansehen <span aria-hidden="true">→</span></a></p>
   </div>
   </section>
   <!--/BLOCCO:10-->
-
-  <section class="n-s n-s2">
-  <div class="n-w n-cit">
-  <blockquote>Sorgfältig selektierte Hunde mit sanftem und anhänglichem Wesen, kompakt und kraftvoll!</blockquote>
-  <p class="n-chi">Simone Gatti · <span class="n-stelle">★★★★★</span></p>
-  <p class="n-orig">4. September 2026 – Google</p>
-  </div>
+  <section class="section section-alt">
+  <div class="section-inner"><div class="review-card"><p class="review-text">«Sorgfältig selektierte Hunde mit sanftem und anhänglichem Wesen, kompakt und kraftvoll!»</p><div class="reviewer"><span>Simone Gatti</span><span class="stars">★★★★★</span></div><p class="n-orig">4. September 2026 – Google</p></div></div>
   </section>
-
   <!--BLOCCO:11-->
   <section class="cta-section">
   <h2>Schreiben Sie uns, um unsere Staffys persönlich kennenzulernen</h2>
   <p>Schreiben Sie uns auf WhatsApp, und wir vereinbaren einen Besuch in Ostellato: Sie sehen die Hunde, das Haus und den Hof.</p>
-  <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20schreibe%20von%20der%20Del%20Piccolo%20Diavolo%20Website" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Schreiben Sie uns auf WhatsApp" aria-label="Auf WhatsApp schreiben – Kontaktieren Sie uns auf WhatsApp">Auf WhatsApp schreiben</a>
+  <a aria-label="Auf WhatsApp schreiben – Kontaktieren Sie uns auf WhatsApp" class="btn" href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20schreibe%20von%20der%20Del%20Piccolo%20Diavolo%20Website" style="min-height:44px;padding:1rem 1.8rem" title="Schreiben Sie uns auf WhatsApp">Auf WhatsApp schreiben</a>
   </section>
   <!--/BLOCCO:11-->
-  </div>
 ---
