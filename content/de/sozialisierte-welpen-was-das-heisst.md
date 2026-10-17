@@ -83,7 +83,7 @@ custom_content: |
 
   <p><strong>Katzen, Pferde, Hühner</strong>, wenn keine da sind. <strong>Aufzug, Leine auf der Straße, ein echter Besuch beim Tierarzt</strong>, und das ist nicht die erste Impfung in der Zucht.</p>
 
-  <p>Das gilt auch für uns, und das muss man sagen: <strong>andere Tiere gibt es hier nicht</strong>. Höchstens läuft ab und zu eine Nachbarskatze über den Hof. Ein Welpe, der von uns geht, hat nie ein Huhn oder ein Pferd gesehen. Wenn die neue Familie welche hat, wird diese Arbeit dort gemacht.</p>
+  <p>Das gilt auch für uns, und das muss man sagen: <strong>andere Tiere gibt es hier nicht</strong>. Höchstens läuft ab und zu eine Nachbarskatze über den Hof. Ein Welpe, der von uns geht, hat nie ein Huhn oder ein Pferd gesehen. Wenn die neue Familie welche hat, <a href="/de/staffy-andere-haustiere/" title="Staffordshire Bull Terrier mit anderen Haustieren">wird diese Arbeit dort gemacht</a>.</p>
 
   <p><strong>Alleinbleiben.</strong> In der Zucht ist ein Welpe nie allein: Da sind die Geschwister, die Mutter, die Menschen. Das Alleinsein lernt er später, im neuen Zuhause. Und es gehört zu den Dingen, die am häufigsten schiefgehen.</p>
   <!--/BLOCCO:4-->

@@ -83,7 +83,7 @@ custom_content: |
 
   <p><strong>Gatti, cavalli, galline</strong>, se non ci sono. <strong>L'ascensore, il guinzaglio in strada, una visita vera dal veterinario</strong>, che non &egrave; la prima vaccinazione fatta in allevamento.</p>
 
-  <p>Vale anche per noi, ed &egrave; giusto dirlo: <strong>qui altri animali non ce ne sono</strong>. Al massimo passa dal cortile qualche gatto dei vicini. Un cucciolo che esce da noi non ha mai visto una gallina o un cavallo. Se la nuova famiglia ne ha, quel lavoro va fatto l&igrave;.</p>
+  <p>Vale anche per noi, ed &egrave; giusto dirlo: <strong>qui altri animali non ce ne sono</strong>. Al massimo passa dal cortile qualche gatto dei vicini. Un cucciolo che esce da noi non ha mai visto una gallina o un cavallo. Se la nuova famiglia ne ha, <a href="/famiglia-convivenza-altri-animali/" title="Staffy con altri animali: guida convivenza">quel lavoro va fatto l&igrave;</a>.</p>
 
   <p><strong>Restare da solo.</strong> In allevamento un cucciolo non &egrave; mai solo: ci sono i fratelli, la madre, le persone. Stare da solo lo impara dopo, nella casa nuova. Ed &egrave; una delle cose che pi&ugrave; spesso vanno storte.</p>
   <!--/BLOCCO:4-->

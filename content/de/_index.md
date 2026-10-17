@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Zucht"
 titleSeo: "Staffordshire Bull Terrier Züchter in Italien"
 date: 2025-12-28
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 translationKey: "home"
 description: "Ethischer Staffordshire Bull Terrier Züchter seit 2013. ENCI-Ahnentafel, Gentest-Befunde und Mikrochips der Zuchttiere online veröffentlicht und überprüfbar."
 correlati:
@@ -29,7 +29,7 @@ custom_content: |
   <span class="hero-eyebrow"><a href="/de/bewertungen/" title="Bewertungen lesen" style="color:inherit;text-decoration:none">⭐ <!--REC-VOTO--> bei <!--REC-TOTALE--> Bewertungen →</a></span>
   <h1 class="hero-title">Staffordshire <br><em>Bull Terrier</em> <br>Züchter</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo - Selektion, Gesundheit und Charakter</p>
-  <p class="hero-description">In Ostellato (Ferrara, Italien) seit 2013. Zuchttiere auf L2HGA und HC (HSF4) getestet oder durch Abstammung frei, mit den Befunden der Eltern; die Zuchthündinnen zusätzlich auf DM-SOD1, mit veröffentlichten Befunden und Mikrochipnummern im Klartext. 1 Italienischer Champion, 3 Italienische Jugendchampions, 4. bei der World Dog Show.</p>
+  <p class="hero-description">In Ostellato (Ferrara, Italien) seit 2013. Alle Zuchttiere sind auf L2HGA und HC (HSF4) getestet oder durch Abstammung frei, mit den Befunden der Eltern. Unsere Hunde sind außerdem frei von DM-SOD1. Die Befunde sind veröffentlicht, mit der Mikrochipnummer im Klartext. Hier gezüchtete Hunde: 1 Italienischer Champion, 3 Italienische Jugendchampions, 4. bei der World Dog Show.</p>
   <div class="hero-actions">
   <a href="/de/welpen-staffordshire-bull-terrier/" class="btn btn-primary" title="Staffordshire Bull Terrier Welpen">Staffordshire Bull Terrier Welpen</a>
   <a href="/de/kontakt/" class="btn btn-ghost" title="Kontaktieren Sie uns">Kontakt</a>
@@ -120,13 +120,13 @@ custom_content: |
 
   <p><img src="/images/foto1.avif" alt="Schwarzer Staffordshire Bull Terrier Welpe auf der Hand" loading="lazy" decoding="async" width="300" height="363" style="display:block;width:60%;max-width:240px;height:auto;margin:.2rem auto 1rem;border-radius:12px;transform:scaleX(-1)">Manchmal versteht man eine Zucht besser an dem, was sie nicht tut.</p>
   <details class="continua"><summary>Weiterlesen</summary>
-  <p>Die Zucht Del Piccolo Diavolo in Ostellato, Provinz Ferrara, Italien, hat nicht das ganze Jahr über <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Staffordshire Bull Terrier Welpen</a>: es wird ein Wurf im Jahr geboren, gelegentlich zwei, in manchen Jahren keiner. Sie versendet keine Hunde per Kurier oder im Frachtraum eines Flugzeugs und übergibt nicht auf halbem Weg: wer einen Welpen nimmt, kommt nach Ostellato und <a href="/de/eltern-vor-ort-was-das-bedeutet/" title="&quot;Eltern vor Ort&quot;: was das wirklich bedeutet">sieht die Mutter</a> und den Ort, an dem er aufgewachsen ist. Jeder Welpe geht mit der ENCI-Ahnentafel, die kein Extra ist und nicht gesondert berechnet wird, nach den 60 Tagen, die das italienische Gesetz vorschreibt. Die Zuchttiere sind auf L2HGA und HC (Gen HSF4) getestet, die aktiven Zuchthündinnen zusätzlich auf degenerative Myelopathie (Gen SOD1), und die Laborbefunde &mdash; mit der Mikrochipnummer des Hundes darauf &mdash; sind auf der Website veröffentlicht und können heruntergeladen werden, ohne dass man danach fragen muss.</p>
+  <p>Die Zucht Del Piccolo Diavolo liegt in Ostellato, Provinz Ferrara, Italien. Hier kommen <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Staffordshire Bull Terrier Welpen</a> nur selten zur Welt, gehen mit der ENCI-Ahnentafel nach den gesetzlichen 60 Tagen und werden nur hier abgeholt, wo man <a href="/de/eltern-vor-ort-was-das-bedeutet/" title="&quot;Eltern vor Ort&quot;: was das wirklich bedeutet">die Mutter sieht</a>. Das sind die vier Dinge, die wir nicht tun.</p>
 
   <p><strong>Wir haben nicht das ganze Jahr über Welpen.</strong> Ein Wurf, gelegentlich zwei, manchmal keiner. Wenn Sie uns zu einem Zeitpunkt schreiben, an dem es keine gibt, lautet die Antwort, dass es keine gibt: wir bieten Ihnen nicht den Welpen eines Bekannten an und drängen Sie nicht zu einem künftigen Wurf.</p>
 
-  <p><strong>Wir versenden keine Hunde.</strong> Kein Welpe von Del Piccolo Diavolo reist per Kurier: kein Frachtraum, keine Übergabe auf halbem Weg auf einem Parkplatz. Wer einen Welpen der Zucht Del Piccolo Diavolo nimmt, kommt nach Ostellato und sieht dabei die Mutter, das Haus und den Ort, an dem er aufgewachsen ist.</p>
+  <p><strong>Wir versenden keine Hunde.</strong> Keiner unserer Welpen reist per Kurier: kein Frachtraum, keine Übergabe auf halbem Weg auf einem Parkplatz. Wer einen Welpen nimmt, kommt nach Ostellato. So sieht er die Mutter, das Haus und den Ort, an dem er aufgewachsen ist.</p>
 
-  <p><strong>Wir behandeln die Ahnentafel nicht als Zubehör.</strong> Es gibt keinen Welpen &bdquo;mit&ldquo; oder &bdquo;ohne&ldquo;: die ENCI-Ahnentafel begleitet jeden Hund.</p>
+  <p><strong>Wir behandeln die Ahnentafel nicht als Zubehör.</strong> Es gibt keinen Welpen &bdquo;mit&ldquo; oder &bdquo;ohne&ldquo;: die ENCI-Ahnentafel begleitet jeden Hund und wird nicht gesondert berechnet.</p>
 
   <p><strong>Wir nehmen Fragen zur Zucht nicht übel.</strong> Im Gegenteil, sie sagen uns, wen wir vor uns haben. Wer nach den Tests fragt, nach den Eltern, danach, was passiert, wenn er den Hund in zwei Jahren nicht mehr halten kann, ist die Person, der wir gerne einen Welpen anvertrauen.</p>
 
@@ -150,15 +150,17 @@ custom_content: |
   <div class="section-inner">
   <h2 class="section-title">Ein Wurf im Jahr, manchmal auch keiner</h2>
   <div class="intro-block" style="text-align:left">
-  <p><img src="/images/foto4.avif" alt="Staffordshire Bull Terrier Welpe im Arm, Nahaufnahme" loading="lazy" decoding="async" width="300" height="347" style="display:block;width:60%;max-width:240px;height:auto;margin:.2rem auto 1rem;border-radius:12px;transform:scaleX(-1)">Del Piccolo Diavolo ist eine Staffordshire Bull Terrier Zucht &mdash; der Staffy, wie ihn seine Liebhaber nennen &mdash; in <strong>Ostellato, Provinz Ferrara, Italien</strong>, aktiv seit <strong>2013</strong>. Paolo Boldrini beschäftigt sich seit 2005 mit der Rasse und züchtet seit 2013: zwei verschiedene Jahreszahlen, die dasselbe erzählen, nämlich dass die Zucht nach einer langen Zeit des Studiums entstanden ist, nicht davor.</p>
+  <p><img src="/images/foto4.avif" alt="Staffordshire Bull Terrier Welpe im Arm, Nahaufnahme" loading="lazy" decoding="async" width="300" height="347" style="display:block;width:60%;max-width:240px;height:auto;margin:.2rem auto 1rem;border-radius:12px;transform:scaleX(-1)">Del Piccolo Diavolo ist eine Staffordshire Bull Terrier Zucht, der Staffy für seine Liebhaber, in <strong>Ostellato, Provinz Ferrara, Italien</strong>, aktiv seit <strong>2013</strong>. Paolo Boldrini beschäftigt sich seit 2005 mit der Rasse. Bevor er einen Wurf züchtete, hat er sie acht Jahre lang studiert.</p>
   <details class="continua"><summary>Weiterlesen</summary>
-  <p>Wir haben <strong>einen Wurf im Jahr, gelegentlich zwei, manchmal keinen</strong>, nie auf Bestellung. Alle Zuchttiere sind auf <strong>L2HGA und HC (Gen HSF4)</strong> getestet oder durch Abstammung frei, mit den Befunden der Eltern; die aktiven Zuchthündinnen zusätzlich auf <strong>degenerative Myelopathie (Gen SOD1)</strong>, und die Laborbefunde sind auf der Website veröffentlicht: jeder kann sie herunterladen und den Namen des Hundes und die Mikrochipnummer lesen, ohne uns etwas fragen zu müssen. Die Welpen werden mit <strong>ENCI-Ahnentafel</strong>, Mikrochip und ordnungsgemäßen Impfungen abgegeben, nachdem sie <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor und Frühstimulation: was die Forschung sagt">im Haus geboren wurden und dort den ersten Monat verbracht haben</a>, danach in einem eigenen Zwinger mit Auslauf, in täglichem Kontakt mit Menschen, Haushaltsgeräuschen und <a href="/de/staffy-andere-haustiere/" title="Staffordshire Bull Terrier mit anderen Haustieren">anderen Tieren</a>.</p>
+  <p>Wir haben <strong>einen Wurf im Jahr, gelegentlich zwei, manchmal keinen</strong>, nie auf Bestellung. Alle Zuchttiere sind auf <strong>L2HGA und HC (Gen HSF4)</strong> getestet oder durch Abstammung frei, mit den Befunden der Eltern. Unsere Hunde sind außerdem frei von <strong>degenerativer Myelopathie (Gen SOD1)</strong>. Die Befunde sind auf der Website veröffentlicht, mit dem Namen und dem Mikrochip des Hundes.</p>
 
-  <p>Was die Ausstellungsergebnisse betrifft, haben die hier gezüchteten Hunde <strong>1 Titel Italienischer Champion</strong>, <strong>3 Italienische Jugendchampions</strong> &mdash; einer davon auch Slowenischer Champion &mdash;, eine Jugendchampionin und Championin von San Marino, einen <strong>4. Platz bei der World Dog Show</strong> mit Bilquis Goddess Diabhal und im Mai 2026 den Titel <strong>Italienische Jugendchampionin</strong> für Queen of California errungen. Wir arbeiten mit englischen und irischen Blutlinien, insbesondere Elitebull und Lackyle.</p>
+  <p>Die Welpen kommen im Haus zur Welt und bleiben dort den ersten Monat. Danach ziehen sie in einen Welpenbereich mit Hof, mitten unter Menschen und Alltagsgeräuschen. Sie gehen mit <strong>ENCI-Ahnentafel</strong>, Mikrochip und Impfungen. Was sie vor der Abgabe gelernt haben können, und was nicht, erklären wir in <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das heißt">was &bdquo;sozialisierte Welpen&ldquo; heißt</a>. Wunderübungen machen wir keine: Über den <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor und Frühstimulation: was die Forschung sagt">Bio Sensor</a> haben wir geschrieben, warum die Belege fehlen.</p>
 
-  <p>Die Auswahl der Zuchttiere folgt drei Kriterien, in dieser Reihenfolge: <strong>ausgeglichenes <a href="/de/staffordshire-bull-terrier-wesen/" title="Wesen des Staffy: wie es selektiert wurde">Wesen</a></strong>, <strong>Freiheit von Erbkrankheiten</strong> und <strong><a href="/de/staffy-rassestandard/" title="Der Rassestandard des Staffordshire Bull Terrier">Übereinstimmung mit dem Standard</a></strong>. Das Wesen kommt zuerst, weil es das ist, was eine Familie zwölf Jahre lang zu Hause hat, und weil es am schwersten zu korrigieren ist: die Anatomie lässt sich in zwei oder drei Generationen in Ordnung bringen, ein Wesensfehler nicht.</p>
+  <p>Bei Ausstellungen haben die hier gezüchteten Hunde <strong>1 Titel Italienischer Champion</strong> und <strong>3 Titel Italienischer Jugendchampion</strong> errungen, einer davon auch Slowenischer Champion. Dazu eine Jugendchampionin und Championin von San Marino und ein <strong>4. Platz bei der World Dog Show</strong> mit Bilquis Goddess Diabhal. Im Mai 2026 wurde Queen of California <strong>Italienische Jugendchampionin</strong>. Wir arbeiten mit englischen und irischen Blutlinien, vor allem Elitebull und Lackyle.</p>
 
-  <p>Bevor wir einen Welpen abgeben, wollen wir die Familie kennenlernen: ein Telefonat, ein paar Fragen, oft ein Besuch. Und damit endet die Beziehung nicht &mdash; wir bleiben für Rat und Austausch <a href="/de/staffordshire-in-der-familie-geschichten/" title="Staffordshire Bull Terrier in der Familie: wahre Geschichten">auch nach Jahren</a> erreichbar, und jeder Hund, den wir gezüchtet haben, kommt zu uns zurück, falls er eines Tages nicht mehr dort bleiben könnte, wo er ist.</p>
+  <p>Wir wählen die Zuchttiere nach drei Kriterien, in dieser Reihenfolge: <strong>ausgeglichenes <a href="/de/staffordshire-bull-terrier-wesen/" title="Wesen des Staffy: wie es selektiert wurde">Wesen</a></strong>, <strong>keine Erbkrankheiten</strong> und <strong><a href="/de/staffy-rassestandard/" title="Der Rassestandard des Staffordshire Bull Terrier">Übereinstimmung mit dem Standard</a></strong>. Das Wesen kommt zuerst, weil eine Familie es zwölf Jahre lang zu Hause hat. Und es ist am schwersten zu korrigieren: Die Anatomie lässt sich in zwei oder drei Generationen in Ordnung bringen, ein Wesensfehler nicht.</p>
+
+  <p>Bevor wir einen Welpen abgeben, wollen wir die Familie kennenlernen: ein Telefonat, ein paar Fragen, oft ein Besuch. Und damit endet die Beziehung nicht. Wir sind für Rat und Neuigkeiten <a href="/de/staffordshire-in-der-familie-geschichten/" title="Staffordshire Bull Terrier in der Familie: wahre Geschichten">auch nach Jahren</a> erreichbar. Und jeder Hund, der hier geboren ist, kommt zu uns zurück, falls er eines Tages nicht mehr dort bleiben könnte, wo er ist.</p>
   </details>
 
 
@@ -176,15 +178,15 @@ custom_content: |
 
   <p style="max-width:760px;margin:0 0 1.2rem;color:#5c4a3a;line-height:1.8">Jede Zucht schreibt, dass sie auf Gesundheit selektiert. Der Satz kostet nichts, und deshalb schreiben ihn alle. Der Unterschied liegt darin, was man prüfen kann, ohne jemandem glauben zu müssen.</p>
 
-  <p>Die Angaben einer Staffordshire Bull Terrier Zucht lassen sich auf vier Wegen überprüfen, alle von außen und ohne den Züchter etwas zu fragen. Die <strong>Befunde der Gentests</strong> sind nur etwas wert, wenn sie die Mikrochipnummer des Hundes tragen: ohne diese Nummer lässt sich das Dokument keinem bestimmten Tier zuordnen. Die <strong>Abstammung</strong> schlägt man auf SBTPedigree nach, dem internationalen Archiv der Rasse, wo man Großeltern, Urgroßeltern und Wurfgeschwister zurückverfolgt (worauf man dabei achtet, erklärt <a href="/de/wie-man-eine-ahnentafel-liest/" title="Wie man eine Ahnentafel liest">wie man eine Ahnentafel liest</a>). Die <strong>Zahl der Würfe einer Hündin</strong> prüft man im ENCI-Zuchtbuch, wieder über den Mikrochip. Die <strong>Ausstellungstitel</strong> stehen in den öffentlichen Katalogen der Veranstaltungen, mit dem Namen des Richters, der sie vergeben hat. Del Piccolo Diavolo veröffentlicht alle vier Angaben, Mikrochipnummern eingeschlossen.</p>
+  <p>Was eine Staffordshire Bull Terrier Zucht sagt, lässt sich auf vier Wegen prüfen, alle von außen und ohne den Züchter etwas zu fragen. Die <strong>Befunde der Gentests</strong> zählen nur, wenn der Mikrochip des Hundes darauf steht. Die <strong>Abstammung</strong> steht auf SBTPedigree, dem internationalen Archiv der Rasse, mit Großeltern, Urgroßeltern und Wurfgeschwistern (worauf man achtet, erklärt <a href="/de/wie-man-eine-ahnentafel-liest/" title="Wie man eine Ahnentafel liest">wie man eine Ahnentafel liest</a>). Die <strong>Zahl der Würfe einer Hündin</strong> prüft man im ENCI-Zuchtbuch, wieder über den Mikrochip. Die <strong>Ausstellungstitel</strong> stehen in den öffentlichen Katalogen, mit dem Namen des Richters. Del Piccolo Diavolo veröffentlicht alle vier Angaben, Mikrochipnummern eingeschlossen.</p>
 
-  <p>Auf dieser Website sind die Gentest-Befunde der Zuchttiere nicht &bdquo;auf Anfrage erhältlich&ldquo;: sie sind veröffentlicht. Jeder kann sie herunterladen, und auf jedem Blatt steht die Mikrochipnummer des Hundes, auf den es sich bezieht, zusammen mit dem Namen des Labors, der Befundnummer und dem Datum.</p>
+  <p>Auf dieser Website sind die Befunde der Zuchttiere veröffentlicht, nicht &bdquo;auf Anfrage erhältlich&ldquo;. Jeder kann sie herunterladen. Auf jedem Blatt stehen der Mikrochip des Hundes, das Labor, die Befundnummer und das Datum.</p>
 
-  <p><strong>Es ist die Mikrochipnummer, die einen Gentest-Befund überprüfbar macht.</strong> Ein Befund ohne Mikrochip lässt sich keinem bestimmten Tier zuordnen: er könnte jeden beliebigen Hund betreffen. Mit dem Mikrochip im Klartext kann ihn dagegen jeder mit den Papieren des Hundes vergleichen, den er vor sich hat, oder beim ausstellenden Labor eine Bestätigung einholen.</p>
+  <p><strong>Erst der Mikrochip macht einen Befund überprüfbar.</strong> Ohne ihn könnte das Blatt jeden beliebigen Hund betreffen. Mit dem Mikrochip im Klartext kann jeder es mit den Papieren des Hundes vergleichen, den er vor sich hat, oder beim Labor nachfragen.</p>
 
   <details class="tendina"><summary><h3>Welche Tests wir machen, und was sie bedeuten</h3></summary>
 
-  <p><strong>Alle Zuchttiere sind auf L2HGA und HC (HSF4) getestet oder durch Abstammung frei, mit den Befunden der Eltern; die Zuchthündinnen zusätzlich auf DM-SOD1.</strong> Die Befunde mit Mikrochipnummer sind auf den Seiten der Hunde veröffentlicht.</p>
+  <p><strong>Alle Zuchttiere sind auf L2HGA und HC (HSF4) getestet oder durch Abstammung frei, mit den Befunden der Eltern. Unsere Hunde sind außerdem frei von DM-SOD1.</strong> Die Befunde mit Mikrochipnummer sind auf den Seiten der Hunde veröffentlicht.</p>
 
   <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(220px,100%),1fr));gap:1rem;margin:1.2rem 0 1rem">
   <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
@@ -203,25 +205,25 @@ custom_content: |
   <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">DM-SOD1</div>
   <div style="font-size:.85rem;color:#7a6448;margin-bottom:.5rem">Degenerative Myelopathie</div>
   <p style="margin:0;font-size:.95rem;line-height:1.6">Eine Erkrankung des Rückenmarks, die nach dem achten Lebensjahr auftritt und langsam zur Lähmung der Hinterbeine führt. Eine Heilung gibt es nicht.</p>
-  <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Getestet: die Zuchthündinnen</div>
+  <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Frei: unsere Hunde</div>
   </div>
   </div>
 
-  <p>Alle drei sind rezessive Erkrankungen und werden mit einem DNA-Test festgestellt, der einmal gemacht wird und ein Leben lang gilt: zwei freie Elterntiere können keine erkrankten Welpen hervorbringen. Wie man die Befunde liest, erklärt unser <a href="/de/staffy-gentests-l2hga-hc/" title="Gentests L2-HGA, HC und DM">Ratgeber zu den Gentests</a>.</p>
+  <p>Alle drei sind rezessive Erkrankungen. Sie werden mit einem DNA-Test festgestellt, der einmal gemacht wird und ein Leben lang gilt. Zwei freie Elterntiere können keine erkrankten Welpen haben. Wie man die Befunde liest, erklärt unser <a href="/de/staffy-gentests-l2hga-hc/" title="Gentests L2-HGA, HC und DM">Ratgeber zu den Gentests</a>.</p>
   </details>
 
   <details class="tendina"><summary><h3>Was man prüfen kann, und wo</h3></summary>
 
-  <p><strong>Die Abstammung.</strong> Die Hunde von Del Piccolo Diavolo sind auf <a href="https://sbtpedigree.com/details?id=35858" target="_blank" rel="noopener" aria-label="Del Piccolo Diavolo auf SBTPedigree (wird in einem neuen Tab geöffnet)">SBTPedigree</a> eingetragen, der internationalen Datenbank der Rasse, mit allen Hunden und Würfen. Von dort aus verfolgt man Großeltern, Urgroßeltern und Wurfgeschwister zurück: man sieht, wer die Hunde hinter einem Namen wirklich sind, und man sieht auch, was fehlt.</p>
+  <p><strong>Die Abstammung.</strong> Die Hunde von Del Piccolo Diavolo sind auf <a href="https://sbtpedigree.com/details?id=35858" target="_blank" rel="noopener" aria-label="Del Piccolo Diavolo auf SBTPedigree (wird in einem neuen Tab geöffnet)">SBTPedigree</a> eingetragen, der internationalen Datenbank der Rasse, mit allen Hunden und Würfen. Von dort aus verfolgt man Großeltern, Urgroßeltern und Wurfgeschwister zurück: man sieht, wer die Hunde hinter einem Namen sind, und auch, was fehlt.</p>
 
-  <p><strong>Die Ahnentafeln.</strong> Jeder Welpe geht mit der ENCI-Ahnentafel, die sich über die Zuchtbuchnummer prüfen lässt. Sie ist kein Extra und wird nicht gesondert berechnet.</p>
+  <p><strong>Die Ahnentafeln.</strong> Jeder Welpe geht mit der ENCI-Ahnentafel, die sich über die Zuchtbuchnummer prüfen lässt.</p>
 
   <p><strong>Die Ausstellungsergebnisse.</strong> Die Titel sind nicht selbst bescheinigt: die Ausstellungskataloge sind öffentlich, und die Richter, die unsere Hunde bewertet haben, haben einen Vor- und einen Nachnamen. Gesammelt sind sie im <a href="/de/palmares/" title="Palmares">Palmar&egrave;s</a>.</p>
 
-  <p><strong>Die Daten.</strong> Jeder Wurf hat sein Geburtsdatum: die jüngsten im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Tagebuch</a>, die der früheren Jahre im <a href="/de/wuerfe-staffordshire-bull-terrier/" title="Zuchtprogramm">Zuchtprogramm</a>. Keiner verschwindet, sobald die Welpen in ihren neuen Familien sind, und das ist gewollt: so kann jeder nachzählen, wie viele Würfe wir in einem Jahr wirklich haben.</p>
+  <p><strong>Die Daten.</strong> Jeder Wurf hat sein Geburtsdatum: die jüngsten im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Tagebuch</a>, die der früheren Jahre im <a href="/de/wuerfe-staffordshire-bull-terrier/" title="Zuchtprogramm">Zuchtprogramm</a>. Keiner verschwindet, sobald die Welpen in ihren neuen Familien sind, und das ist gewollt: So kann jeder nachzählen, wie viele Würfe wir in einem Jahr haben.</p>
   </details>
 
-  <details class="tendina"><summary><h3>Zwei Regeln, von denen wir nicht abweichen</h3></summary>
+  <details class="tendina"><summary><h3>Zwei Regeln ohne Ausnahme</h3></summary>
 
   <p><strong>Wir verpaaren nicht zwei Staffordshire Bull Terrier, weil sie schön sind.</strong> Jede Verpaarung hat einen Grund, den wir erklären können: was wir festigen und was wir korrigieren wollen. Wäre die Antwort &bdquo;es sind zwei schöne Hunde&ldquo;, stünde kein Programm dahinter.</p>
 
@@ -230,13 +232,13 @@ custom_content: |
 
   <details class="tendina"><summary><h3>Auch das, was wir nicht behaupten können</h3></summary>
 
-  <p>Überprüfbarkeit gilt in beide Richtungen. Wenn ein Welpe durch Abstammung frei von einer Krankheit ist, aber nicht von einer anderen, schreiben wir das. Wenn wir von einem fremden Deckrüden den Befund für zwei Erkrankungen haben und nicht für vier, schreiben wir das.</p>
+  <p>Das gilt auch umgekehrt. Wenn ein Welpe durch Abstammung frei von einer Krankheit ist, aber nicht von einer anderen, schreiben wir das. Wenn wir von einem fremden Deckrüden den Befund für zwei Erkrankungen haben und nicht für vier, schreiben wir das.</p>
 
   <p>Es ist der Teil, den niemand gerne erzählt, und es ist auch der Grund, warum der Rest Bestand hat: eine Zucht, die nur die schönen Dinge angibt, informiert nicht, sie wirbt.</p>
 
   <p>Wenn Sie uns oder eine andere Zucht beurteilen, finden Sie im Ratgeber <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie man eine seriöse Zucht erkennt">wie man eine seriöse Zucht erkennt</a> die acht Kriterien und wie man sie prüft, bei uns wie bei allen anderen.</p>
 
-  <p style="margin-top:2rem;padding-top:1.5rem;border-top:1px solid rgba(139,115,85,.2)">Wie ein Wurf entsteht &mdash; die Wahl der beiden Elterntiere, die acht Wochen im Haus, die Zuordnung zur Familie &mdash; erzählen wir im <a href="/de/wuerfe-staffordshire-bull-terrier/" title="Zuchtprogramm">Zuchtprogramm</a>, zusammen mit der Geschichte der Würfe.</p>
+  <p style="margin-top:2rem;padding-top:1.5rem;border-top:1px solid rgba(139,115,85,.2)">Wie ein Wurf entsteht, erzählen wir im <a href="/de/wuerfe-staffordshire-bull-terrier/" title="Zuchtprogramm">Zuchtprogramm</a>: die Wahl der beiden Elterntiere, die Wochen im Haus, die Zuordnung zur Familie. Dort steht auch die Geschichte der Würfe.</p>
   </details>
 
   <a class="rimando" href="/de/huendinnen-staffordshire-bull-terrier/">
@@ -256,7 +258,7 @@ custom_content: |
   <span class="section-label">Ausstellungserfolge</span>
   <h2 class="section-title">Was die Richter über unsere Hunde sagen</h2>
 
-  <p style="margin-bottom:2rem">Die Selektion von Del Piccolo Diavolo hört nicht bei der Optik auf: die Ergebnisse unserer Staffys in italienischen und internationalen Ringen sind das Protokoll jahrelanger Arbeit an Gesundheit, Typ und Charakter.</p>
+  <p style="margin-bottom:2rem">Das sind die Ergebnisse unserer Staffys in italienischen und internationalen Ringen. Wir vergeben sie nicht: Das tun die Richter, und sie stehen in den öffentlichen Katalogen.</p>
 
   <div class="successi-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(280px,100%),1fr));gap:1.5rem;margin-bottom:2rem;align-items:stretch">
 
@@ -289,14 +291,14 @@ custom_content: |
   <div style="text-align:center;padding:1.5rem;background:#fff;border-radius:12px;border:1px solid rgba(139,115,85,0.15)">
   <p style="font-size:1.1rem;color:#5c4a3a;margin-bottom:0.5rem"><strong>1 Italienischer Champion - 3 Italienische Jugendchampions - 1 Championin von San Marino - 4. bei der World Dog Show</strong></p>
   <p style="font-size:0.9rem;color:#4a3f35;margin-bottom:1rem">Ergebnisse mit von uns gezüchteten und aufgezogenen Hunden, nicht bereits mit Titeln gekauft.</p>
-  <a href="/de/palmares/" class="btn btn-primary" title="Alle Ergebnisse ansehen" style="min-height:44px;display:inline-flex;align-items:center">Alle Ergebnisse Ansehen</a>
+  <a href="/de/palmares/" class="btn btn-primary" title="Alle Ergebnisse ansehen" style="min-height:44px;display:inline-flex;align-items:center">Alle Ergebnisse ansehen</a>
   </div>
 
   <a class="rimando" href="/de/welpen-staffordshire-bull-terrier/">
   <img src="/images/primo-piano-cucciolo.avif" alt="Staffordshire Bull Terrier Welpe" width="88" height="83" loading="lazy" decoding="async">
   <span>
   <span class="ti">Wie ein Wurf entsteht und aufwächst</span>
-  <span class="de">Von der Läufigkeit bis zur Geburt, und was in den acht Wochen danach geschieht.</span>
+  <span class="de">Von der Läufigkeit bis zur Geburt, und was in den Wochen danach geschieht.</span>
   </span>
   </a>
   </div>
@@ -328,7 +330,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Welche Gentests führen Sie bei den Zuchttieren durch?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Alle Zuchttiere von Del Piccolo Diavolo werden auf <strong>L2-HGA</strong>, die L-2-Hydroxyglutarazidurie, eine neurologische Erkrankung, und auf <strong>HC</strong>, den juvenilen erblichen Katarakt (Gen HSF4), getestet oder sind durch Abstammung frei, mit den Befunden der Eltern. Die aktiven Zuchthündinnen zusätzlich auf <strong>degenerative Myelopathie</strong> (Gen SOD1), eine Erkrankung des Rückenmarks, die nach dem achten Lebensjahr auftritt. Alle sind DNA-Tests, und alle drei Krankheiten werden rezessiv vererbt: zwei freie Elterntiere können keine erkrankten Welpen hervorbringen. Träger von L2-HGA und HC werden nicht zur Zucht eingesetzt. Die Laborbefunde sind auf dieser Website veröffentlicht und können heruntergeladen werden, mit der <strong>Mikrochipnummer des Hundes im Klartext</strong>: erst diese Nummer macht das Dokument überprüfbar, denn ohne sie ließe es sich keinem bestimmten Tier zuordnen.</div>
+  <div class="faq-answer">Alle Zuchttiere von Del Piccolo Diavolo werden auf <strong>L2-HGA</strong>, die L-2-Hydroxyglutarazidurie, eine neurologische Erkrankung, und auf <strong>HC</strong>, den juvenilen erblichen Katarakt (Gen HSF4), getestet oder sind durch Abstammung frei, mit den Befunden der Eltern. Unsere Hunde sind außerdem frei von <strong>degenerativer Myelopathie</strong> (Gen SOD1), einer Erkrankung des Rückenmarks, die nach dem achten Lebensjahr auftritt. Alle sind DNA-Tests, und alle drei Krankheiten werden rezessiv vererbt: zwei freie Elterntiere können keine erkrankten Welpen hervorbringen. Träger von L2-HGA und HC werden nicht zur Zucht eingesetzt. Die Laborbefunde sind auf dieser Website veröffentlicht und können heruntergeladen werden, mit der <strong>Mikrochipnummer des Hundes im Klartext</strong>: erst diese Nummer macht das Dokument überprüfbar, denn ohne sie ließe es sich keinem bestimmten Tier zuordnen.</div>
   </div>
 
   <div class="faq-item active">
@@ -362,7 +364,7 @@ custom_content: |
   <!--BLOCCO:11-->
     <section class="cta-section">
   <h2>Schreiben Sie uns, um unsere Staffys persönlich kennenzulernen</h2>
-  <p>Schreiben Sie uns für ein unverbindliches Gespräch. Wir beantworten gerne alle Ihre Fragen.</p>
+  <p>Schreiben Sie uns auf WhatsApp, und wir vereinbaren einen Besuch in Ostellato: Sie sehen die Hunde, das Haus und den Hof.</p>
   <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20schreibe%20von%20der%20Del%20Piccolo%20Diavolo%20Website" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Schreiben Sie uns auf WhatsApp" aria-label="Auf WhatsApp schreiben – Kontaktieren Sie uns auf WhatsApp">Auf WhatsApp schreiben</a>
   </section>
   <!--/BLOCCO:11-->

@@ -1,7 +1,7 @@
 ---
 title: "Storia delle linee di sangue dello Staffordshire Bull Terrier"
 date: 2025-11-08
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 titleSeo: "Storia delle linee di sangue dello Staffy"
 translationKey: "linee-sangue"
 in_breve:
@@ -78,7 +78,7 @@ custom_content: |
 
   <h3>Il primo campione: Gentleman Jim</h3>
   <p>Un nome sta sopra tutti. <strong>Gentleman Jim</strong>, nato il 25 maggio 1937 e allevato da Jack Dunn, era figlio di Brindle Mick, il fondatore della linea M. Nel 1939 diventò il <strong>primo campione maschio</strong> della razza, e praticamente ogni Staffordshire Bull Terrier moderno lo ha da qualche parte nel pedigree, spesso più volte.</p>
-  <p>Questa presenza ovunque ha un costo. Un solo cane che ricompare in quasi ogni pedigree restringe il patrimonio genetico di tutta la razza, ed è uno dei motivi per cui qui ogni riproduttore è testato per L2HGA e HC, o esente per via parentale con i referti dei genitori, e le nostre fattrici anche per DM-SOD1.</p>
+  <p>Questa presenza ovunque ha un costo. Un solo cane che ricompare in quasi ogni pedigree restringe il patrimonio genetico di tutta la razza, ed è uno dei motivi per cui qui ogni riproduttore è testato per L2HGA e HC, o esente per via parentale con i referti dei genitori, e i nostri cani sono esenti anche da DM-SOD1.</p>
 
   <h3>La linea M, la più diffusa</h3>
   <p>La linea M, da Brindle Mick, è oggi di gran lunga la più diffusa: nel <a href="https://thestaffordknot.com/the-original-lines-explained/" target="_blank" rel="noopener" aria-label="database di The Stafford Knot – The Stafford Knot, le linee originali (si apre in una nuova scheda)">database di The Stafford Knot</a> circa 32.500 maschi discendono da lei in linea maschile, contro circa 6.750 della linea R, mentre le altre quattro linee contano poche decine di soggetti. I suoi nomi più noti sono lo stesso Gentleman Jim, <strong>Cross Guns Johnson</strong>, fratello pieno di Brindle Mick e quindi zio di Gentleman Jim, miglior di razza al primo Crufts a cui la razza partecipò, e <strong>Fearless Red of Bandits</strong> (1944), figlio di Gentleman Jim, spesso descritto come l'essenza del vero Stafford. La linea è associata a teste imponenti, corporature sostanziose e muscolatura pesante.</p>

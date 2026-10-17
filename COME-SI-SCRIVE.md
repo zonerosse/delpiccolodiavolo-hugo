@@ -57,8 +57,11 @@ dato che la rende controllabile.
 
 ## 2. Tono
 
-**Non tirarsela.** Niente aperture con l'elenco dei titoli. I risultati
-emergono dai fatti, alla fine, non dall'inizio.
+**Non tirarsela.** Vale per il tono: niente autoelogi, niente frasi su
+quanto siamo bravi o appassionati. I **titoli dei cani** invece sono un fatto
+verificabile (cataloghi, giudici) e si scrivono anche in apertura, per esempio
+sotto il titolo della home: Paolo, ottobre 2026, «il non tirarsela non c'entra
+con il dire i titoli dei cani».
 
 **Dire anche quello che non torna.** Il Bio Sensor non ha le prove che
 promette. Il "nanny dog" è un soprannome, non una garanzia. Una fattrice in

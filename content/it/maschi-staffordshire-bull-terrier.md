@@ -5,7 +5,7 @@ date: 2025-12-28
 lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "maschi"
-description: "I maschi Staffordshire Bull Terrier dell'allevamento: Lothar, Campione Sloveno e Giovane Campione Italiano, Braveheart e Papillon, con test L2HGA e HC."
+description: "I maschi Staffordshire Bull Terrier dell'allevamento: Lothar, Campione Sloveno e Giovane Campione Italiano, Braveheart e Papillon, con test L2HGA, HC e DM."
 slug: "maschi-staffordshire-bull-terrier"
 custom_content: |
   <!--BLOCCO:1-->
@@ -18,7 +18,7 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Riproduttori Selezionati</span>
   <h1 class="hero-title">Maschi <br><em>Staffordshire</em> <br>Bull Terrier</h1>
-  <p class="hero-subtitle">DNA tested, esenti da L2HGA e HC (HSF4)</p>
+  <p class="hero-subtitle">Test del DNA: esenti da L2HGA, HC (HSF4) e DM-SOD1</p>
   <p class="hero-description">I nostri maschi riproduttori sono selezionati per salute, carattere e tipicità. Tutti testati geneticamente e conformi allo standard di razza.</p>
   <div class="hero-actions">
   <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sui%20maschi" class="btn btn-primary" title="Contattaci su WhatsApp per info maschi">Contattaci</a>
@@ -66,7 +66,7 @@ custom_content: |
   <img src="/images/lothar-matthaus-tyson-locandina.avif" alt="CH SLO J.CH ITA Lothar Matthäus del Piccolo Diavolo detto Tyson, maschio Staffordshire Bull Terrier tigrato allevato da Del Piccolo Diavolo" width="900" height="1228" loading="lazy" decoding="async" srcset="/images/lothar-matthaus-tyson-locandina-400w.avif 400w, /images/lothar-matthaus-tyson-locandina-800w.avif 800w, /images/lothar-matthaus-tyson-locandina.avif 900w" sizes="(max-width: 900px) 100vw, 900px">
   </div>
   <div class="male-info">
-  <p><strong>Test genetici:</strong> L2HGA esente · HC esente · HSF4 · OCD esente</p>
+  <p><strong>Test genetici:</strong> L2HGA esente · HC (HSF4) esente · DM-SOD1 esente · OCD esente</p>
   <p><strong>Displasia:</strong> anche HD B · gomiti ED 0</p>
   <p><strong>Dentatura:</strong> completa, chiusura a forbice</p>
   <p><strong>Padre:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford" style="color:#8b5a2b;font-weight:700;text-decoration:underline;text-underline-offset:3px" aria-label="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford (si apre in una nuova scheda)">Bullbrothers Hott as Hell &#8599;</a> «HEAT» &mdash; Multi Campione Internazionale, qualificato Crufts, allevamento TheReds Stafford</p>
@@ -89,7 +89,7 @@ custom_content: |
   <img src="/images/maschio-braveheart.webp" alt="Braveheart del Piccolo Diavolo — Staffordshire Bull Terrier" width="350" height="350" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
-  <p><strong>Test genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>Test genetici:</strong> L2HGA, HC (HSF4) e DM-SOD1 esente, test del DNA</p>
   <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> Jackie Kennedy Great'n Glory</p>
   <p><strong>Madre:</strong> Alport The Sandman</p>
@@ -109,7 +109,7 @@ custom_content: |
   <img src="/images/maschio-papillon.webp" alt="Papillon del Piccolo Diavolo — Staffordshire Bull Terrier" width="350" height="438" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
-  <p><strong>Test genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>Test genetici:</strong> L2HGA, HC (HSF4) e DM-SOD1 esente, test del DNA</p>
   <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> Jackie Kennedy Great'n Glory</p>
   <p><strong>Madre:</strong> Alport The Sandman</p>
@@ -138,6 +138,7 @@ custom_content: |
   <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">I nostri maschi sono testati per:</p>
   <p>✓ <strong>L2HGA</strong> — Aciduria L-2-Idrossiglutarica<br>
   ✓ <strong>HC</strong> — Cataratta Ereditaria<br>
+  ✓ <strong>DM-SOD1</strong> — Mielopatia degenerativa<br>
   ✓ <strong>Dentatura</strong> — Chiusura a forbice completa</p>
   <p style="margin-top:1.2rem">Usiamo solo soggetti <strong>esenti</strong>: con due genitori esenti nessun cucciolo può nascere malato di queste malattie.</p>
   </div>

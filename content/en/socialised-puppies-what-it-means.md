@@ -83,7 +83,7 @@ custom_content: |
 
   <p><strong>Cats, horses, poultry</strong>, if there are none. <strong>Lifts, the lead in the street, a real visit to the vet</strong>, which is not the first vaccination given at the kennel.</p>
 
-  <p>This applies to us too, and it is right to say so: <strong>there are no other animals here</strong>. At most a neighbour's cat crosses the courtyard now and then. A puppy leaving us has never seen a hen or a horse. If the new family has them, that work is done there.</p>
+  <p>This applies to us too, and it is right to say so: <strong>there are no other animals here</strong>. At most a neighbour's cat crosses the courtyard now and then. A puppy leaving us has never seen a hen or a horse. If the new family has them, <a href="/en/staffy-other-pets/" title="Staffordshire Bull Terrier with other pets at home">that work is done there</a>.</p>
 
   <p><strong>Being left alone.</strong> At a kennel a puppy is never alone: there are its littermates, its mother, the people. Being alone is learned later, in the new home. And it is one of the things that most often goes wrong.</p>
   <!--/BLOCCO:4-->

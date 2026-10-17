@@ -32,3 +32,7 @@ commercio | /staffordshire-in-famiglia-storie/    # i clienti della palestra di 
 commercio | /en/staffordshire-family-life-stories/    # come sopra
 commercio | /de/staffordshire-in-der-familie-geschichten/    # come sopra
 commercio | /famiglia-viaggi-spostamenti/    # prenotare l'albergo per le vacanze con il cane
+sync | content/en/contact.md    # la pagina IT corrispondente e' la landing Emilia-Romagna, con testo proprio che EN e DE non hanno (scelta di Paolo, ottobre 2026)
+sync | content/de/kontakt.md    # come sopra
+sync_data | content/en/contact.md    # come sopra: la data italiana cambia con la landing
+sync_data | content/de/kontakt.md    # come sopra

@@ -2,7 +2,7 @@
 title: "Programma allevamento Staffordshire Bull Terrier"
 titleSeo: "Prossime cucciolate di Staffy: il programma di selezione"
 date: 2025-12-28
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "programma"
 description: "Programma di allevamento Staffordshire Bull Terrier: criteri di selezione, salute, test genetici e storico delle cucciolate passate e future."
@@ -15,7 +15,7 @@ correlati:
     testo: "Morfologia e criteri di valutazione"
   - url: "/test-genetici-l2hga-hc-staffy/"
     titolo: "Test genetici"
-    testo: "L2-HGA e HC sui riproduttori, DM-SOD1 sulle fattrici"
+    testo: "L2-HGA e HC sui riproduttori, DM-SOD1 sui nostri cani"
   - url: "/boas-staffordshire-bull-terrier-respirazione/"
     titolo: "BOAS e respirazione"
     testo: "Un criterio di selezione spesso ignorato"
@@ -285,7 +285,7 @@ custom_content: |
   <span class="section-label">Salute</span>
   <h2>Cosa testiamo prima di ogni accoppiamento</h2>
 
-  <p>Nessun riproduttore entra nel programma senza i test per <strong>L2HGA</strong> e <strong>HC</strong>, le due malattie genetiche della razza; le fattrici sono testate anche per la <strong>mielopatia degenerativa (DM-SOD1)</strong>. I referti sono pubblicati sulle pagine dei cani, con il numero di microchip in chiaro.</p>
+  <p>Nessun riproduttore entra nel programma senza i test per <strong>L2HGA</strong> e <strong>HC</strong>, le due malattie genetiche della razza. I nostri cani sono esenti anche dalla <strong>mielopatia degenerativa (DM-SOD1)</strong>. I referti sono pubblicati sulle pagine dei cani, con il numero di microchip in chiaro.</p>
 
   <p>Come funzionano quei test, cosa significano gli esiti e perch&eacute; due portatori sani non vanno mai accoppiati fra loro: lo spieghiamo nella <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">pagina dedicata ai test genetici</a>.</p>
 

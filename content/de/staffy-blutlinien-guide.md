@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Blutlinien Leitfaden"
 titleSeo: "Staffy-Blutlinien: die Geschichte der sechs Linien"
 date: 2025-11-08
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 translationKey: "linee-sangue"
 in_breve:
   - "Die Blutlinien des Staffy zählt man **ab 1935**, als der Kennel Club die Rasse anerkannte."
@@ -76,7 +76,7 @@ custom_content: |
   <h3>Der erste Champion: Gentleman Jim</h3>
   <p>Ein Name überragt alle anderen. <strong>Gentleman Jim</strong>, geboren am 25. Mai 1937 und gezüchtet von Jack Dunn, war ein Sohn von Brindle Mick, dem Gründer der M-Linie. 1939 wurde er der <strong>erste männliche Champion</strong> der Rasse, und praktisch jeder heutige Staffordshire Bull Terrier trägt ihn irgendwo in seiner Ahnentafel, oft mehrfach.</p>
 
-  <p>Diese Allgegenwart hat ihren Preis. Ein einzelner Hund, der in fast jeder Ahnentafel wiederholt auftaucht, verengt den Genpool der ganzen Rasse, und das ist ein Grund, warum jeder Zuchthund bei uns auf L2HGA und HC getestet oder durch Abstammung frei ist, mit den Befunden seiner Eltern, und unsere Zuchthündinnen zusätzlich auf DM-SOD1 getestet sind.</p>
+  <p>Diese Allgegenwart hat ihren Preis. Ein einzelner Hund, der in fast jeder Ahnentafel wiederholt auftaucht, verengt den Genpool der ganzen Rasse, und das ist ein Grund, warum jeder Zuchthund bei uns auf L2HGA und HC getestet oder durch Abstammung frei ist, mit den Befunden seiner Eltern. Unsere Hunde sind außerdem frei von DM-SOD1.</p>
 
   <h3>M-Linie, die verbreitete</h3>
   <p>Die M-Linie von Brindle Mick ist heute mit Abstand die verbreitetste: In der <a href="https://thestaffordknot.com/the-original-lines-explained/" target="_blank" rel="noopener" aria-label="Datenbank von The Stafford Knot – The Stafford Knot, die ursprünglichen Linien (wird in einem neuen Tab geöffnet)">Datenbank von The Stafford Knot</a> stammen etwa 32.500 Rüden in männlicher Linie von ihr ab, gegenüber etwa 6.750 bei der R-Linie, während die anderen vier Linien nur einige Dutzend Hunde zählen. Zu ihren bekanntesten Namen gehören Gentleman Jim selbst, <strong>Cross Guns Johnson</strong> (Vollbruder von Brindle Mick und damit Onkel von Gentleman Jim, Best of Breed bei der ersten Crufts, an der die Rasse teilnahm) und <strong>Fearless Red of Bandits</strong> (1944), ein Sohn von Gentleman Jim, der oft als Inbegriff des echten Stafford beschrieben wird. Die Linie wird mit eindrucksvollen Köpfen, kräftigem Körperbau und schwerer Bemuskelung verbunden.</p>
