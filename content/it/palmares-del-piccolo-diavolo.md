@@ -112,8 +112,7 @@ custom_content: |
   <span style="color:#8b5a2b;font-weight:600">CAC + CACIB</span>
   </div>
   </div>
-  <details class="tutti"><summary>Tutti i risultati (16)</summary>
-  <div class="risultati-grid" style="display:grid;gap:0.75rem">
+    <div class="risultati-grid" style="display:grid;gap:0.75rem">
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
   <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
   <span>Expo Internazionale Ferrara (FE) - 16 mar 2024</span>
@@ -186,7 +185,6 @@ custom_content: |
   <span style="color:#8b5a2b;font-weight:600">Classe Baby</span>
   </div>
   </div>
-  </details>
 
   <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">20 esposizioni in Italia nel Libro genealogico ENCI, 19 chiuse al primo posto: <a href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Esposizioni di Bilquis nel Libro genealogico ENCI" aria-label="la scheda ENCI dei risultati – Esposizioni di Bilquis nel Libro genealogico ENCI (si apre in una nuova scheda)">la scheda ENCI dei risultati</a> (LOI LO22197469). Le esposizioni all'estero, World Dog Show compreso, su ENCI non sono registrate. Top Dog Junior 2023. Giovane Campionessa Italiana. Campionessa Italiana di Bellezza. Giovane Campionessa di Croazia. Campionessa di Bosnia ed Erzegovina. Qualifica Crufts 2025.</p>
 
@@ -307,8 +305,7 @@ custom_content: |
   <span style="color:#8b5a2b;font-weight:600">Classe Intermedia</span>
   </div>
   </div>
-  <details class="tutti"><summary>Tutti i risultati (13)</summary>
-  <div class="risultati-grid" style="display:grid;gap:0.75rem">
+    <div class="risultati-grid" style="display:grid;gap:0.75rem">
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
   <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1°</span>
   <span>Expo Nazionale Monza (MB) - 20-21 set 2025</span>
@@ -363,7 +360,6 @@ custom_content: |
   <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
   </div>
   </div>
-  </details>
 
   <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">21 esposizioni totali. Giovane Campione Italiano + Campione Sloveno 🇸🇮. Handler: Sergio Patrucco.</p>
 

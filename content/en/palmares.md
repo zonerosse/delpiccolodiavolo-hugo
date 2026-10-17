@@ -68,8 +68,7 @@ custom_content: |
   <span style="color:#8b5a2b;font-weight:600">CAC + CACIB</span>
   </div>
   </div>
-  <details class="tutti"><summary>All results (16)</summary>
-  <div class="risultati-grid" style="display:grid;gap:0.75rem">
+    <div class="risultati-grid" style="display:grid;gap:0.75rem">
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
   <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
   <span>International Show, Ferrara (FE) - 16 Mar 2024</span>
@@ -142,7 +141,6 @@ custom_content: |
   <span style="color:#8b5a2b;font-weight:600">Baby Class</span>
   </div>
   </div>
-  </details>
 
   <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">20 shows in Italy recorded in the ENCI stud book, 19 of them placed first: <a href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Bilquis show results in the ENCI stud book" aria-label="the ENCI results record – Bilquis show results in the ENCI stud book (opens in a new tab)">the ENCI results record</a> (LOI LO22197469). Shows abroad, the World Dog Show included, are not recorded by ENCI. Top Dog Junior 2023. Italian Junior Champion. Italian Beauty Champion 2024. Croatian Junior Champion. Bosnia and Herzegovina Champion. Crufts qualification 2025.</p>
 
@@ -264,8 +262,7 @@ custom_content: |
   <span style="color:#8b5a2b;font-weight:600">Intermediate Class</span>
   </div>
   </div>
-  <details class="tutti"><summary>All results (13)</summary>
-  <div class="risultati-grid" style="display:grid;gap:0.75rem">
+    <div class="risultati-grid" style="display:grid;gap:0.75rem">
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
   <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">EXC 1</span>
   <span>National Show, Monza (MB) - 20-21 Sep 2025</span>
@@ -320,7 +317,6 @@ custom_content: |
   <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
   </div>
   </div>
-  </details>
 
   <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">21 shows in total. Italian Junior Champion and Slovenian Champion 🇸🇮. Handler: Sergio Patrucco.</p>
 

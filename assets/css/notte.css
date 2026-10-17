@@ -76,7 +76,7 @@ body.notte-pagina{--n-bg:#17120f;--n-bg2:#211a15;--n-card:#2a211b;--n-cr:#f3e9dc
 .notte-pagina .faq-item p,.notte-pagina .faq-list .faq-item p{color:var(--n-mu)}
 .notte-pagina .faq-list .faq-item{background:var(--n-card);border-color:var(--n-ln)}
 .notte-pagina .tutti>summary{background:var(--n-card);border-color:var(--n-ln);color:var(--n-go)}
-.notte-pagina .risultato{background:var(--n-card)}
+.notte-pagina main .risultato{background:var(--n-card)}
 .notte-pagina .map-link{background:var(--n-card);color:var(--n-go)!important}
 .notte-pagina main [style*="background:#5c4a3a"],.notte-pagina main [style*="background:#3d2f22"]{background:var(--n-card)!important}
 .notte-pagina main [style*="background:#5c4a3a"] *,.notte-pagina main [style*="background:#3d2f22"] *{color:var(--n-mu)}
@@ -276,3 +276,31 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 /* Niente testo su due colonne (Paolo, 17/10/2026): una colonna come la Home */
 .notte-pagina .intro-block,.notte-pagina .n-2c,.notte-pagina .section-inner:has(.female-card) .intro-block{columns:auto!important;column-count:1!important;background:transparent;border:0;padding:0}
 .notte-pagina .intro-block p:first-child{column-span:none}
+/* Palmarès (17/10/2026): ogni cane a righe come Femmine (foto a sinistra, titoli a destra), risultati in elenco. Solo grafica. */
+.notte-pagina .page-hero{padding:8rem 1.5rem 3rem;text-align:left;max-width:1080px;margin:0 auto}
+.notte-pagina .page-hero h1{font-family:Georgia,serif;font-weight:400;font-size:clamp(2rem,4vw,3rem);line-height:1.15;margin-bottom:1.4rem}
+.notte-pagina .section-inner>div[style*="flex-direction:column"]{display:grid!important;grid-template-columns:1fr 1.5fr;gap:3rem!important;align-items:start}
+.notte-pagina .section-inner>div[style*="flex-direction:column"] .image-center{margin:0}
+.notte-pagina .section-inner>div[style*="flex-direction:column"] .image-center img{width:100%!important;max-width:none!important;aspect-ratio:4/5;object-fit:cover;height:auto}
+.notte-pagina .content-block[style*="border-left"]{background:transparent!important;border-left:2px solid var(--n-cu)!important;border-radius:0;padding:0 0 0 1.5rem!important;margin:0 0 2rem!important}
+.notte-pagina .risultati-grid{gap:0!important;border-top:1px solid var(--n-ln)}
+.notte-pagina main .risultato{background:transparent!important;border-radius:0!important;border-bottom:1px solid var(--n-ln);padding:.9rem 0!important;display:grid!important;grid-template-columns:7rem 1fr auto;gap:1rem!important;color:var(--n-mu)!important}
+.notte-pagina main .risultato *{color:var(--n-mu)!important}
+.notte-pagina main .risultato span:first-child{background:transparent!important;color:var(--n-go)!important;border:1px solid var(--n-cu);text-align:center;align-self:center}
+.notte-pagina main .risultato span:last-child{color:var(--n-cr)!important;text-align:right}
+.notte-pagina main .risultato strong{color:var(--n-cr)!important}
+.notte-pagina .palmares-summary>div{background:transparent!important;border:1px solid var(--n-ln)}
+.notte-pagina .palmares-summary>div p:first-child{font-family:Georgia,serif;font-weight:400!important;font-size:2.2rem!important;color:var(--n-cr)!important}
+.notte-pagina .palmares-summary>div p:last-child{font-size:.85rem!important}
+@media(max-width:860px){
+.notte-pagina .section-inner>div[style*="flex-direction:column"]{grid-template-columns:1fr}
+.notte-pagina main .risultato{grid-template-columns:5.5rem 1fr}.notte-pagina .risultato span:last-child{grid-column:2;text-align:left}
+}
+.notte-pagina .page-hero p{max-width:none;margin-left:0;margin-right:0;text-align:left}
+/* Palmarès: testo iniziale a righe (sottotitolo a sinistra, testo a destra), stesse parole */
+.notte-pagina .page-hero:has(> p:nth-of-type(2)){display:grid;grid-template-columns:1fr 2fr;column-gap:3rem;align-items:start}
+.notte-pagina .page-hero:has(> p:nth-of-type(2)) h1{grid-column:1/-1}
+.notte-pagina .page-hero:has(> p:nth-of-type(2)) p:nth-of-type(1){grid-column:2;grid-row:2;margin:0}
+.notte-pagina .page-hero:has(> p:nth-of-type(2)) p:nth-of-type(2){grid-column:1;grid-row:2;margin:0;padding-top:1.4rem;border-top:1px solid var(--n-ln);font-family:Georgia,serif;font-size:1.25rem!important;line-height:1.35;color:var(--n-cr)!important}
+.notte-pagina .page-hero:has(> p:nth-of-type(2)) p:nth-of-type(1){padding-top:1.4rem;border-top:1px solid var(--n-ln)}
+@media(max-width:860px){.notte-pagina .page-hero:has(> p:nth-of-type(2)){grid-template-columns:1fr}.notte-pagina .page-hero:has(> p:nth-of-type(2)) p:nth-of-type(1){grid-column:1;grid-row:3;border:0;padding-top:.6rem}.notte-pagina .page-hero:has(> p:nth-of-type(2)) p:nth-of-type(2){grid-row:2}}
