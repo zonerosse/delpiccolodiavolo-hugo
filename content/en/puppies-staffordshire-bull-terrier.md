@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier puppies"
 titleSeo: "Staffordshire Bull Terrier puppies, verifiable genetic tests"
 date: 2025-12-28
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
 description: "Staffordshire Bull Terrier puppies in Ostellato, Italy. ENCI pedigree, parents tested for L2HGA and HC with the certificates published on this site."
@@ -35,7 +35,7 @@ custom_content: |
   <p class="hero-subtitle">Elitebull and Lackyle Lines - Since 2013</p>
   <p class="hero-description">Del Piccolo Diavolo puppies are born in the house and stay there for the first month, then grow up between house and yard. We select for health, character and breed type, on English (Elitebull) and Irish (Lackyle) lines documented on SBTPedigree.</p>
   <div class="hero-actions">
-  <a href="/en/litters-staffordshire-bull-terrier/" class="btn btn-primary" title="See available puppies">Available Puppies</a>
+  <a href="/en/litters-staffordshire-bull-terrier/" class="btn btn-primary" title="See available puppies">Available puppies</a>
   <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20puppies" class="btn btn-ghost" title="Contact us on WhatsApp">Contact Us</a>
   </div>
   </div>
@@ -48,6 +48,7 @@ custom_content: |
   <span>Lackyle Lines</span>
   <span>L2HGA Clear</span>
   <span>HC Clear</span>
+  <span>DM-SOD1 Clear</span>
   <span>Italian Champions</span>
   <span>ENCI Pedigree</span>
   <span>Ostellato FE</span>
@@ -55,6 +56,7 @@ custom_content: |
   <span>Lackyle Lines</span>
   <span>L2HGA Clear</span>
   <span>HC Clear</span>
+  <span>DM-SOD1 Clear</span>
   <span>Italian Champions</span>
   <span>ENCI Pedigree</span>
   <span>Ostellato FE</span>
@@ -66,7 +68,7 @@ custom_content: |
   <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">Gallery</span>
+  <span class="section-label">Photos</span>
   <h2 class="section-title">Our puppies</h2>
 
   <div class="gallery-grid">
@@ -109,7 +111,7 @@ custom_content: |
   <!--BLOCCO:5-->
   <section class="section section-alt">
   <div class="section-inner">
-  <span class="section-label">Why Choose Us</span>
+  <span class="section-label">How they grow</span>
   <h2 class="section-title">Our approach</h2>
 
   <div class="zigzag">
@@ -118,7 +120,7 @@ custom_content: |
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Temperament and socialization</h3>
-  <p>Socialisation is the most important process in a puppy's first months. The puppies are born in the house, in the whelping box, and stay there for about a month: it is the phase in which the mother does everything and human contact matters more than anything else. Anyone who came to see them before thirty days saw them there. At around a month they move to a dedicated pen with access outdoors, for a practical reason anyone who has had a litter knows: at that age they make more mess than a lived-in house can take. From then on they come back inside in turns, two at a time and for a few hours, so that each one does its share of home life: family, household noise, other dogs and different people. Every litter born here, with parents, tests, examinations and growth photos, is told in the <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a>.</p>
+  <p>The puppies are born in the house, in the whelping box, and stay there for about a month. It is the phase in which the mother does almost everything and contact with people matters more than anything else. Anyone who came to see them before thirty days saw them there. At around a month they move to a dedicated pen with access outdoors, for a practical reason anyone who has had a litter knows: at that age they make more mess than a lived-in house can take. From then on they come back inside in turns, two or three at a time and for a few hours. That way each one gets its share of home life: the family, the noises, the other dogs, the people coming through. Every litter born here, with parents, tests, examinations and growth photos, is told in the <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a>.</p>
 
     <a class="rimando" href="/en/bio-sensor-early-stimulation-puppies/">
   <img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier puppies in their first days" width="88" height="100" loading="lazy" decoding="async">
@@ -128,7 +130,7 @@ custom_content: |
   </span>
   </a>
 
-  <p>They learn to recognize household sounds, different people, other animals. This early socialization is essential to develop a confident and calm temperament.</p>
+  <p>They get handled every day, hear the noises of the house, see people of all ages, meet the adult dogs under supervision and hear the road going past the courtyard. We follow no protocol: it is simply how they live here. And it is not enough, because when a puppy leaves, half of the sensitive window is still ahead of it. What a kennel can and cannot do is explained in <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it means">what &ldquo;socialised puppies&rdquo; means</a>.</p>
   </div>
   <div class="zigzag-image">
   <img src="/images/foto1.avif" alt="Socialized Staffordshire Bull Terrier puppies at home" loading="lazy" decoding="async" width="400" height="484">
@@ -155,7 +157,7 @@ custom_content: |
   <span class="section-label">Temperament</span>
   <h2 class="section-title">Character and temperament of the Staffordshire Bull Terrier</h2>
 
-  <p>Temperament does not happen by chance: it depends on the breeding dogs chosen and on the first weeks. Our puppies grow up around people of different ages, household noise and other dogs, which is why they arrive in their families already used to life in a home.</p>
+  <p>Temperament does not happen by chance: it depends on the breeding dogs chosen and on the first weeks. Our puppies grow up around people of different ages, household noise and other dogs. That is why they arrive in their families already used to life in a home.</p>
 
   <p>How a character is selected, what we look for in the breeding dogs and what to expect from an adult: we explain it on the page about the <a href="/en/staffordshire-bull-terrier-temperament/" title="Staffordshire Bull Terrier temperament">Staffy's temperament</a>; how it translates at home, with children, other animals and in a flat, is in <a href="/en/staffordshire-bull-terrier-character-family-life/" title="Character and family life">character and family life</a>.</p>
 
@@ -169,9 +171,9 @@ custom_content: |
   <span class="section-label">Before they are born</span>
   <h2 class="section-title">From the season to the whelping: how a litter comes about</h2>
 
-  <p>A Staffordshire Bull Terrier litter at Del Piccolo Diavolo begins long before the birth. It starts with the pre-season check and progesterone testing to find the right moment for the mating, the pregnancy is confirmed by ultrasound at around the twenty-fifth day, and the puppies are counted with an X-ray five to seven days before the birth. The puppies are born in the house and stay there for the first month, in the whelping box, then move to a pen with outdoor access and come back inside in turns, two at a time. They go to their families after the 60 days required by Italian law, with microchip, first vaccinations, <a href="/en/puppy-worming-faecal-tests/" title="Worming and faecal tests">worming with faecal tests</a> and an ENCI pedigree. The parents are tested for L2HGA and HC, the mothers also for DM-SOD1, and the reports are published on the site with the microchip number in full.</p>
+  <p>A Staffordshire Bull Terrier litter at Del Piccolo Diavolo begins long before the birth. It starts with the pre-season check and progesterone testing to find the right moment for the mating, the pregnancy is confirmed by ultrasound at around the twenty-fifth day, and the puppies are counted with an X-ray five to seven days before the birth. The puppies are born in the house and stay there for the first month, in the whelping box. Then they move to a pen with outdoor access and come back inside in turns, two or three at a time. They go to their families after the 60 days required by Italian law, with microchip, first vaccinations, <a href="/en/puppy-worming-faecal-tests/" title="Worming and faecal tests">worming with faecal tests</a> and an ENCI pedigree. The parents are tested for L2HGA and HC, the mothers also for DM-SOD1, and the reports are published on the site with the microchip number in full.</p>
 
-  <p>Plenty gets said about what happens after the puppies are born. About what happens before, almost nothing &mdash; and yet that is where most of how a litter goes is decided.</p>
+  <p>Plenty gets said about what happens after the puppies are born. About what happens before, almost nothing. And yet that is where most of how a litter goes is decided.</p>
 
   <details class="tendina"><summary><h3>Before the season</h3></summary>
 
@@ -179,13 +181,13 @@ custom_content: |
 
   <p>At that visit we take a <strong>vaginal swab for bacterial culture</strong>, to rule out organisms that would compromise the pregnancy, and worm her if needed.</p>
 
-  <p>Then the <strong>progesterone testing</strong> begins. This is not a hobbyist's detail: the fertile window cannot be guessed from the day the season started, and getting it wrong by 48 hours means no puppies. Blood is drawn at intervals until the value peaks, and that is the day. Each test costs 40 euros and at least four are needed: this and every other expense is listed <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/#costi-cucciolata" title="What a litter costs us, item by item">in what a litter costs us, item by item</a>.</p>
+  <p>Then the <strong>progesterone testing</strong> begins. The fertile window cannot be guessed from the day the season started, and getting it wrong by 48 hours means no puppies. Blood is drawn at intervals until the value peaks, and that is the day. Each test costs 40 euros and at least four are needed: this and every other expense is listed <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/#costi-cucciolata" title="What a litter costs us, item by item">in what a litter costs us, item by item</a>.</p>
   </details>
   <details class="tendina"><summary><h3>The mating</h3></summary>
 
   <p><strong><a href="/en/parents-on-site-what-it-means/" title="&quot;Parents on site&quot;: what it really means">I always travel to the stud</a></strong>, never the other way round: the male stays at home, the bitch moves.</p>
 
-  <p>With a stud of real quality, the owner often uses a vet for <strong>artificial insemination</strong>, deposited intracervically. There are three reasons: avoiding the risk of transmissible disease, sparing the dog excessive effort, and being certain the mating actually happens. Because &mdash; and this is something people outside breeding do not picture &mdash; <strong>mating is not easy for every male</strong>. Much depends on the bitch: more than one makes it anything but simple.</p>
+  <p>With a stud of real quality, the owner often uses a vet for <strong>artificial insemination</strong>, deposited intracervically. There are three reasons: avoiding the risk of transmissible disease, sparing the dog excessive effort, and being certain the mating actually happens. Because <strong>mating is not easy for every male</strong>, and that is something people outside breeding do not picture. Much depends on the bitch: more than one makes it anything but simple.</p>
   </details>
   <details class="tendina"><summary><h3>Pregnancy: two examinations, two different purposes</h3></summary>
 
@@ -193,7 +195,7 @@ custom_content: |
 
   <p><strong>The radiograph, five to seven days before whelping.</strong> This one gives the exact count, obtained by counting skulls and spines, which by then are calcified and visible.</p>
 
-  <p>It is not a flourish: <strong>it is the information you need during the whelping</strong>, especially a natural one. You have to know how many puppies must come out, and that they all have, each with its placenta. Without that number you are going on instinct, and on instinct a retained puppy or a retained placenta is found out late.</p>
+  <p>The number of puppies <strong>is the information you need during the whelping</strong>, especially a natural one. You have to know how many puppies must come out, and that they all have, each with its placenta. Without that number you are going on instinct, and on instinct a retained puppy or a retained placenta is found out late.</p>
   </details>
   <details class="tendina"><summary><h3>The whelping</h3></summary>
 
@@ -205,7 +207,7 @@ custom_content: |
 
   <p>The puppies are born indoors, in the whelping box. And for a week <strong>I stop sleeping in my bed</strong>: I settle on the sofa, next to them.</p>
 
-  <p>That is not sentiment, it is the riskiest part of all. In those days a puppy can be crushed by the mother turning over, or a bitch can be reluctant to nurse: these are things you hear before you see them &mdash; a different whimper, a sound that is not right. After the first week it eases.</p>
+  <p>The first week after the whelping is the riskiest part of all. In those days a puppy can be crushed by the mother turning over, or a bitch can be reluctant to nurse: these are things you hear before you see them, a different whimper, a sound that is not right. After the first week it eases.</p>
   </details>
   <details class="tendina"><summary><h3>The day they can leave</h3></summary>
 
@@ -331,8 +333,8 @@ custom_content: |
   <!--BLOCCO:13-->
   <section class="cta-section">
   <h2>Want info about puppies?</h2>
-  <p>Call us or write on WhatsApp for information about available litters.</p>
-  <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20Staffordshire%20Bull%20Terrier%20puppies" class="btn" title="Write us on WhatsApp for puppy info">Write Us on WhatsApp</a>
+  <p>Write to us on WhatsApp to ask about the litters, or to arrange a visit to Ostellato.</p>
+  <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20Staffordshire%20Bull%20Terrier%20puppies" class="btn" title="Write us on WhatsApp for puppy info">Write to us on WhatsApp</a>
   </section>
   <!--/BLOCCO:13-->
 ---

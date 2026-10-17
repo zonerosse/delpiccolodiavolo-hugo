@@ -2,7 +2,7 @@
 title: "Cuccioli Staffordshire Bull Terrier"
 titleSeo: "Cuccioli Staffordshire Bull Terrier con test verificabili"
 date: 2025-12-28
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
 description: "Cuccioli Staffordshire Bull Terrier a Ostellato (FE). Pedigree ENCI, genitori testati L2HGA e HC con i referti pubblicati sul sito, verificabili da chiunque."
@@ -35,7 +35,7 @@ custom_content: |
   <p class="hero-subtitle">Linee Elitebull e Lackyle - Dal 2013</p>
   <p class="hero-description">I cuccioli dell'allevamento Del Piccolo Diavolo nascono in casa e ci restano il primo mese, poi crescono fra casa e cortile. Selezioniamo per salute, carattere e tipicità, su linee inglesi (Elitebull) e irlandesi (Lackyle) documentate su SBTPedigree.</p>
   <div class="hero-actions">
-  <a href="/programma-allevamento/" class="btn btn-primary" title="Vedi il programma di selezione">Programma Selezione</a>
+  <a href="/programma-allevamento/" class="btn btn-primary" title="Vedi il programma di selezione">Programma di selezione</a>
   <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sui%20cuccioli" class="btn btn-ghost" title="Contattaci su WhatsApp">Contattaci</a>
   </div>
   </div>
@@ -48,6 +48,7 @@ custom_content: |
   <span>Lackyle Lines</span>
   <span>L2HGA esente</span>
   <span>HC esente</span>
+  <span>DM-SOD1 esente</span>
   <span>Campioni Italiani</span>
   <span>Pedigree ENCI</span>
   <span>Ostellato FE</span>
@@ -55,6 +56,7 @@ custom_content: |
   <span>Lackyle Lines</span>
   <span>L2HGA esente</span>
   <span>HC esente</span>
+  <span>DM-SOD1 esente</span>
   <span>Campioni Italiani</span>
   <span>Pedigree ENCI</span>
   <span>Ostellato FE</span>
@@ -66,7 +68,7 @@ custom_content: |
   <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">Gallery</span>
+  <span class="section-label">Foto</span>
   <h2 class="section-title">Cuccioli di Staffordshire Bull Terrier allevati in famiglia</h2>
 
   <div class="gallery-grid">
@@ -115,11 +117,11 @@ custom_content: |
   <!--BLOCCO:5-->
   <section class="section section-alt">
   <div class="section-inner">
-  <span class="section-label">Come Crescono</span>
+  <span class="section-label">Come crescono</span>
   <h2 class="section-title">Come crescono i cuccioli nel nostro allevamento</h2>
 
   <div class="intro-block">
-  <p>La socializzazione è il processo più importante nei primi mesi di vita di un cucciolo. I cuccioli nascono in casa, nella cassa parto, e ci restano circa un mese: &egrave; la fase in cui la madre fa tutto e il contatto umano conta pi&ugrave; di ogni altra cosa. Chi &egrave; venuto a vederli prima dei trenta giorni li ha visti l&igrave;. Verso il mese passano in un box dedicato con accesso all'esterno, per una ragione pratica che chiunque abbia avuto una cucciolata conosce: a quell'et&agrave; sporcano in una misura che una casa abitata non regge. Da l&igrave; in avanti tornano dentro a turno, due per volta e per qualche ora, cos&igrave; che ognuno faccia la sua parte di casa: famiglia, rumori domestici, altri cani e persone diverse. Ogni cucciolata nata qui, con genitori, test, esami e foto della crescita, è raccontata nel <a href="/diario-allevamento/" title="Diario dell'allevamento">diario dell'allevamento</a>.</p>
+  <p>I cuccioli nascono in casa, nella cassa parto, e ci restano circa un mese. &Egrave; la fase in cui la madre fa quasi tutto e il contatto con le persone conta pi&ugrave; di ogni altra cosa. Chi &egrave; venuto a vederli prima dei trenta giorni li ha visti l&igrave;. Verso il mese passano in un box con accesso all'esterno, per una ragione pratica che conosce chiunque abbia avuto una cucciolata: a quell'et&agrave; sporcano pi&ugrave; di quanto una casa abitata possa reggere. Da l&igrave; in avanti rientrano a turno, due o tre per volta e per qualche ora. Cos&igrave; ognuno vive la sua parte di casa: la famiglia, i rumori, gli altri cani, le persone che passano. Ogni cucciolata nata qui, con genitori, test, esami e foto della crescita, &egrave; raccontata nel <a href="/diario-allevamento/" title="Diario dell'allevamento">diario dell'allevamento</a>.</p>
 
     <a class="rimando" href="/bio-sensor-stimolazione-precoce-cuccioli/">
   <img src="/images/blog/cuccioli-1.webp" alt="Cuccioli di Staffordshire Bull Terrier nei primi giorni" width="88" height="100" loading="lazy" decoding="async">
@@ -130,8 +132,8 @@ custom_content: |
   </a>
   <details class="continua"><summary>Continua a leggere</summary>
   <p>Questa esposizione graduale e controllata cade nel periodo in cui un cucciolo costruisce la categoria &laquo;normale&raquo;: quello che incontra adesso non dovr&agrave; elaborarlo da adulto.</p>
-  <p>In pratica significa manipolazione quotidiana, rumori domestici, persone di et&agrave; diverse che entrano ed escono, i cani adulti sotto controllo, il cortile con erba e terra e i rumori della strada che passa. Non &egrave; un protocollo: &egrave; il modo in cui vivono qui. E non basta &mdash; quando un cucciolo parte, met&agrave; della finestra sensibile &egrave; ancora davanti a lui, e la passer&agrave; con la sua famiglia. Cosa si pu&ograve; fare in allevamento e cosa no, lo spieghiamo nella guida su <a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Cuccioli socializzati: cosa vuol dire davvero">cosa vuol dire davvero &laquo;cuccioli socializzati&raquo;</a>.</p>
-  <p>Approfondisci nel nostro <a href="/blog/" title="Blog Staffordshire Bull Terrier">blog sul Staffordshire Bull Terrier</a> con guide pratiche su socializzazione, alimentazione e salute.</p>
+  <p>Vuol dire essere presi in mano tutti i giorni, sentire i rumori di casa, vedere persone di ogni et&agrave; che entrano ed escono, incontrare i cani adulti sotto controllo, stare nel cortile con erba e terra e sentire la strada che passa. Non seguiamo un protocollo: &egrave; il modo in cui vivono qui. E non basta, perch&eacute; quando un cucciolo parte met&agrave; della finestra sensibile &egrave; ancora davanti a lui, e la passer&agrave; con la sua famiglia. Cosa si pu&ograve; fare in allevamento e cosa no, lo spieghiamo nella guida su <a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Cuccioli socializzati: cosa vuol dire">cosa vuol dire &laquo;cuccioli socializzati&raquo;</a>.</p>
+  <p>Altre guide pratiche su socializzazione, alimentazione e salute sono nel nostro <a href="/blog/" title="Blog Staffordshire Bull Terrier">blog sullo Staffordshire Bull Terrier</a>.</p>
   </details>
   </div>
   </div>
@@ -144,9 +146,9 @@ custom_content: |
   <span class="section-label">Prima che nascano</span>
   <h2 class="section-title">Dal calore al parto: come nasce una cucciolata</h2>
 
-  <p>Una cucciolata di Staffordshire Bull Terrier a Del Piccolo Diavolo comincia molto prima del parto. Si parte dalla visita pre-calore e dal dosaggio del progesterone per individuare il momento dell'accoppiamento, si conferma la gravidanza con l'ecografia intorno al venticinquesimo giorno e si contano i cuccioli con una radiografia cinque-sette giorni prima del parto. I cuccioli nascono in casa e ci restano il primo mese, nella cassa parto, poi passano a un box con sfogo esterno e rientrano in casa a turno, due per volta. L'affido avviene dopo i 60 giorni previsti dalla legge italiana, con microchip, prime vaccinazioni, <a href="/cuccioli-sverminazione-esami-feci/" title="Sverminazione ed esami delle feci">sverminazioni con esame delle feci</a> e pedigree ENCI. I genitori sono testati per L2HGA e HC, le madri anche per DM-SOD1, e i referti sono pubblicati sul sito con il numero di microchip in chiaro.</p>
+  <p>Una cucciolata di Staffordshire Bull Terrier a Del Piccolo Diavolo comincia molto prima del parto. Si parte dalla visita pre-calore e dal dosaggio del progesterone per individuare il momento dell'accoppiamento, si conferma la gravidanza con l'ecografia intorno al venticinquesimo giorno e si contano i cuccioli con una radiografia cinque-sette giorni prima del parto. I cuccioli nascono in casa e ci restano il primo mese, nella cassa parto. Poi passano a un box con sfogo esterno e rientrano in casa a turno, due o tre per volta. L'affido avviene dopo i 60 giorni previsti dalla legge italiana, con microchip, prime vaccinazioni, <a href="/cuccioli-sverminazione-esami-feci/" title="Sverminazione ed esami delle feci">sverminazioni con esame delle feci</a> e pedigree ENCI. I genitori sono testati per L2HGA e HC, le madri anche per DM-SOD1, e i referti sono pubblicati sul sito con il numero di microchip in chiaro.</p>
 
-  <p>Di quello che succede dopo la nascita si parla molto. Di quello che succede prima, quasi mai &mdash; eppure &egrave; l&igrave; che si decide gran parte di come andr&agrave; una cucciolata.</p>
+  <p>Di quello che succede dopo la nascita si parla molto. Di quello che succede prima, quasi mai. Eppure &egrave; l&igrave; che si decide gran parte di come andr&agrave; una cucciolata.</p>
 
   <details class="tendina"><summary><h3>Prima del calore</h3></summary>
 
@@ -154,13 +156,13 @@ custom_content: |
 
   <p>In quella visita si fa il <strong>tampone vaginale con esame colturale</strong>, per escludere batteri che comprometterebbero la gravidanza, e se serve una sverminazione.</p>
 
-  <p>Individuato il calore, cominciano i <strong>dosaggi del progesterone</strong>. Non &egrave; un dettaglio da appassionati: il momento fertile non si indovina dal giorno del calore, e sbagliarlo di 48 ore significa non avere cuccioli. Si preleva a intervalli finch&eacute; il valore raggiunge il picco, e quello &egrave; il giorno. Ogni dosaggio costa 40 euro e ne servono almeno quattro: questa e le altre spese sono <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/#costi-cucciolata" title="Quanto costa una cucciolata, voce per voce">nei costi di una cucciolata, voce per voce</a>.</p>
+  <p>Individuato il calore, cominciano i <strong>dosaggi del progesterone</strong>. Il momento fertile non si indovina dal giorno del calore, e sbagliarlo di 48 ore significa non avere cuccioli. Si preleva a intervalli finch&eacute; il valore raggiunge il picco, e quello &egrave; il giorno. Ogni dosaggio costa 40 euro e ne servono almeno quattro: questa e le altre spese sono <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/#costi-cucciolata" title="Quanto costa una cucciolata, voce per voce">nei costi di una cucciolata, voce per voce</a>.</p>
   </details>
   <details class="tendina"><summary><h3>L'accoppiamento</h3></summary>
 
   <p><strong>Sono sempre io che vado dal maschio</strong>, mai il contrario: il maschio resta a casa sua, si sposta la femmina.</p>
 
-  <p>Quando <a href="/genitori-visibili-cosa-significa/" title="Genitori visibili: cosa significa">lo stallone scelto</a> &egrave; un maschio di livello, capita spesso che il proprietario si appoggi a un veterinario per l'<strong>inseminazione strumentale</strong>, con deposizione intracervicale. Le ragioni sono tre: evitare il rischio di malattie trasmissibili, non sottoporre il soggetto a sforzi eccessivi, e avere la certezza che l'accoppiamento avvenga. Perch&eacute; &mdash; e questa &egrave; una cosa che chi non alleva non immagina &mdash; <strong>non per tutti i maschi accoppiarsi &egrave; facile</strong>. Molto dipende dalla femmina: ce n'&egrave; pi&ugrave; d'una che non gliela rende semplice per niente.</p>
+  <p>Quando <a href="/genitori-visibili-cosa-significa/" title="Genitori visibili: cosa significa">lo stallone scelto</a> &egrave; un maschio di livello, capita spesso che il proprietario si appoggi a un veterinario per l'<strong>inseminazione strumentale</strong>, con deposizione intracervicale. Le ragioni sono tre: evitare il rischio di malattie trasmissibili, non sottoporre il soggetto a sforzi eccessivi, e avere la certezza che l'accoppiamento avvenga. Perch&eacute; <strong>non per tutti i maschi accoppiarsi &egrave; facile</strong>, ed &egrave; una cosa che chi non alleva non immagina. Molto dipende dalla femmina: ce n'&egrave; pi&ugrave; d'una che non gliela rende semplice per niente.</p>
   </details>
   <details class="tendina"><summary><h3>La gravidanza: due esami, due scopi diversi</h3></summary>
 
@@ -168,7 +170,7 @@ custom_content: |
 
   <p><strong>La radiografia, cinque o sette giorni prima del parto.</strong> Questa serve al numero esatto, che si ottiene contando i crani e le colonne vertebrali, a quel punto calcificati e visibili.</p>
 
-  <p>Contare i crani con la radiografia non &egrave; un vezzo: <strong>&egrave; l'informazione che serve durante il parto</strong>, soprattutto se naturale. Bisogna sapere quanti cuccioli devono uscire, e che siano usciti tutti, ognuno con la sua placenta. Senza quel numero si va a sentimento, e a sentimento un cucciolo trattenuto o una placenta ritenuta si scoprono tardi.</p>
+  <p>Il numero dei cuccioli <strong>&egrave; l'informazione che serve durante il parto</strong>, soprattutto se naturale. Bisogna sapere quanti cuccioli devono uscire, e che siano usciti tutti, ognuno con la sua placenta. Senza quel numero si va a sentimento, e a sentimento un cucciolo trattenuto o una placenta ritenuta si scoprono tardi.</p>
   </details>
   <details class="tendina"><summary><h3>Il parto</h3></summary>
 
@@ -180,7 +182,7 @@ custom_content: |
 
   <p>I cuccioli nascono in casa, nella cassa parto. E per una settimana <strong>smetto di dormire nel mio letto</strong>: mi sistemo sul divano, accanto a loro.</p>
 
-  <p>La prima settimana dopo il parto non &egrave; tenerezza da raccontare: &egrave; la parte pi&ugrave; rischiosa di tutte. In quei giorni un cucciolo pu&ograve; finire schiacciato dalla madre che si gira, o una femmina pu&ograve; essere restia ad allattare: sono cose che si sentono prima di vederle, un mugolio diverso, un rumore che non torna. Dopo la prima settimana la situazione si alleggerisce.</p>
+  <p>La prima settimana dopo il parto &egrave; la parte pi&ugrave; rischiosa di tutte. In quei giorni un cucciolo pu&ograve; finire schiacciato dalla madre che si gira, o una femmina pu&ograve; essere restia ad allattare: sono cose che si sentono prima di vederle, un mugolio diverso, un rumore che non torna. Dopo la prima settimana la situazione si alleggerisce.</p>
   </details>
   <details class="tendina"><summary><h3>Il giorno in cui possono partire</h3></summary>
 
@@ -207,7 +209,7 @@ custom_content: |
   <span class="section-label">Carattere</span>
   <h2 class="section-title">Carattere e temperamento dello Staffordshire Bull Terrier</h2>
 
-  <p>Il temperamento non arriva per caso: dipende dai riproduttori che si scelgono e dalle prime settimane. I nostri cuccioli crescono a contatto con persone di et&agrave; diverse, rumori domestici e altri cani, ed &egrave; il motivo per cui arrivano in famiglia gi&agrave; abituati alla vita di casa.</p>
+  <p>Il temperamento non arriva per caso: dipende dai riproduttori che si scelgono e dalle prime settimane. I nostri cuccioli crescono fra persone di et&agrave; diverse, rumori di casa e altri cani. Per questo arrivano in famiglia gi&agrave; abituati alla vita di casa.</p>
 
   <p>Come si seleziona un carattere, cosa guardiamo nei riproduttori e cosa aspettarsi da un adulto: lo spieghiamo nella pagina sul <a href="/staffordshire-bull-terrier-carattere/" title="Temperamento dello Staffordshire Bull Terrier">temperamento dello Staffy</a>; come si traduce in casa, con bambini, altri animali e appartamento, &egrave; in <a href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Carattere e vita in famiglia">carattere e vita in famiglia</a>.</p>
 
@@ -217,7 +219,7 @@ custom_content: |
 
   <section class="section section-alt">
   <div class="section-inner">
-  <span class="section-label">Linee di Sangue</span>
+  <span class="section-label">Linee di sangue</span>
   <h2 class="section-title">Linee di sangue: Elitebull e Lackyle</h2>
 
   <p>Lavoriamo su linee inglesi <strong>Elitebull</strong> e irlandesi <strong>Lackyle</strong>: le prime portano sostanza e testa, le seconde movimento e carattere. Ogni accoppiamento nasce dall'incrocio fra quello che una femmina d&agrave; e quello che le manca.</p>
@@ -233,7 +235,7 @@ custom_content: |
   <h2 class="section-title">Cosa include l'affido</h2>
 
   <div class="content-block">
-  <h3>Cosa riceve chi adotta un nostro cucciolo</h3>
+  <h3>Cosa riceve chi accoglie un nostro cucciolo</h3>
   <p>Ogni cucciolo lascia il nostro allevamento a 60 giorni minimo, con la prima vaccinazione, sverminato, con microchip e iscritto all'anagrafe canina. Viene consegnato con:</p>
   <ul style="list-style:disc;padding-left:2rem;margin-top:1rem">
   <li>Pedigree ENCI certificato</li>
@@ -242,15 +244,15 @@ custom_content: |
   <li>Test genetici dei genitori (L2HGA, HC; DM-SOD1 per la madre)</li>
   <li>Documentazione fotografica della crescita</li>
   <li>Guida all'alimentazione e alle cure</li>
-  <li>Supporto post-adozione continuativo</li>
+  <li>Il nostro aiuto anche dopo l'affido, per tutta la vita del cane</li>
   </ul>
   <p style="margin-top:1rem">Per sapere nel dettaglio cosa c'è dietro un cucciolo e come riconoscere un allevatore serio, leggi <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p>
   </div>
 
   <div class="content-block">
-  <h3>Il supporto continua dopo l'adozione</h3>
-  <p>Non ti lasciamo solo dopo l'affidamento. Siamo disponibili per consigli sull'alimentazione, sull'educazione, sulla gestione quotidiana del cucciolo. Molte famiglie ci contattano anche dopo anni per aggiornarci sulla crescita del loro Staffy.</p>
-  <p>Questa relazione continuativa è per noi fonte di grande soddisfazione e ci permette di monitorare i risultati del nostro lavoro di selezione.</p>
+  <h3>Dopo l'affido</h3>
+  <p>Non ti lasciamo solo dopo l'affido. Ci puoi chiedere consigli su alimentazione, educazione e vita di tutti i giorni. Molte famiglie ci scrivono anche dopo anni per raccontarci come cresce il loro Staffy.</p>
+  <p>Per noi &egrave; anche il modo di vedere come vengono da adulti i cani che abbiamo fatto nascere, e di capire se la selezione sta andando nella direzione giusta.</p>
   </div>
   </div>
   </section>
@@ -331,8 +333,8 @@ custom_content: |
   <!--BLOCCO:13-->
   <section class="cta-section">
   <h2>Vuoi saperne di più?</h2>
-  <p>Per conoscere il nostro metodo di lavoro e le cucciolate pianificate:</p>
-  <a href="/programma-allevamento/" class="btn" style="min-height:44px;padding:1rem 1.8rem;margin-right:1rem;margin-bottom:1rem" title="Vedi il programma di selezione">Programma di Allevamento</a>
+  <p>Come lavoriamo e quali cucciolate sono in programma:</p>
+  <a href="/programma-allevamento/" class="btn" style="min-height:44px;padding:1rem 1.8rem;margin-right:1rem;margin-bottom:1rem" title="Vedi il programma di selezione">Programma di allevamento</a>
   <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sui%20cuccioli%20di%20Staffordshire%20Bull%20Terrier" class="btn" style="min-height:44px;padding:1rem 1.8rem;margin-bottom:1rem" title="Scrivici su WhatsApp" aria-label="Scrivici su WhatsApp – Contattaci su WhatsApp per informazioni sui cuccioli">Scrivici su WhatsApp</a>
   </section>
   <!--/BLOCCO:13-->

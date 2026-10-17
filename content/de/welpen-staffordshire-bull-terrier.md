@@ -2,7 +2,7 @@
 title: "Welpen Staffordshire Bull Terrier"
 titleSeo: "Staffordshire Bull Terrier Welpen mit überprüfbaren Gentests"
 date: 2025-12-28
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
 description: "Staffordshire Bull Terrier Welpen in Ostellato (FE). ENCI-Ahnentafel, Eltern auf L2HGA und HC getestet, Befunde auf der Website veröffentlicht."
@@ -48,6 +48,7 @@ custom_content: |
   <span>Lackyle Lines</span>
   <span>L2HGA frei</span>
   <span>HC frei</span>
+  <span>DM-SOD1 frei</span>
   <span>Italienische Champions</span>
   <span>ENCI Stammbaum</span>
   <span>Ostellato FE</span>
@@ -55,6 +56,7 @@ custom_content: |
   <span>Lackyle Lines</span>
   <span>L2HGA frei</span>
   <span>HC frei</span>
+  <span>DM-SOD1 frei</span>
   <span>Italienische Champions</span>
   <span>ENCI Stammbaum</span>
   <span>Ostellato FE</span>
@@ -66,7 +68,7 @@ custom_content: |
   <!--BLOCCO:2-->
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">Galerie</span>
+  <span class="section-label">Fotos</span>
   <h2 class="section-title">Unsere Welpen</h2>
 
   <div class="gallery-grid">
@@ -109,7 +111,7 @@ custom_content: |
   <!--BLOCCO:5-->
   <section class="section section-alt">
   <div class="section-inner">
-  <span class="section-label">Warum uns wählen</span>
+  <span class="section-label">Wie sie aufwachsen</span>
   <h2 class="section-title">Unser Ansatz</h2>
 
   <div class="zigzag">
@@ -118,7 +120,7 @@ custom_content: |
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Temperament und Sozialisierung</h3>
-  <p>Die Sozialisierung ist der wichtigste Vorgang in den ersten Lebensmonaten eines Welpen. Die Welpen kommen im Haus zur Welt, in der Wurfkiste, und bleiben dort etwa einen Monat: Es ist die Zeit, in der die Mutter alles macht und der menschliche Kontakt mehr zählt als alles andere. Wer sie vor dem dreißigsten Tag besucht hat, hat sie dort gesehen. Mit etwa einem Monat ziehen sie in einen eigenen Auslauf mit Zugang nach draußen, aus einem praktischen Grund, den jeder kennt, der einen Wurf hatte: In diesem Alter machen sie mehr Schmutz, als ein bewohntes Haus verkraftet. Von da an kommen sie abwechselnd wieder ins Haus, zu zweit und für einige Stunden, damit jeder seinen Teil des Familienlebens bekommt: Familie, Haushaltsgeräusche, andere Hunde und verschiedene Menschen. Jeder hier geborene Wurf, mit Eltern, Tests, Untersuchungen und Fotos vom Aufwachsen, steht im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Zuchttagebuch</a>.</p>
+  <p>Die Welpen kommen im Haus zur Welt, in der Wurfkiste, und bleiben dort etwa einen Monat. Es ist die Zeit, in der die Mutter fast alles macht und der Kontakt mit Menschen mehr zählt als alles andere. Wer sie vor dem dreißigsten Tag besucht hat, hat sie dort gesehen. Mit etwa einem Monat ziehen sie in einen eigenen Auslauf mit Zugang nach draußen, aus einem praktischen Grund, den jeder kennt, der einen Wurf hatte: In diesem Alter machen sie mehr Schmutz, als ein bewohntes Haus verkraftet. Von da an kommen sie abwechselnd wieder ins Haus, zu zweit oder zu dritt und für einige Stunden. So bekommt jeder seinen Teil des Familienlebens: die Familie, die Geräusche, die anderen Hunde, die Menschen, die vorbeikommen. Jeder hier geborene Wurf, mit Eltern, Tests, Untersuchungen und Fotos vom Aufwachsen, steht im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Zuchttagebuch</a>.</p>
 
     <a class="rimando" href="/de/bio-sensor-fruehstimulation-welpen/">
   <img src="/images/blog/cuccioli-1.webp" alt="Staffordshire Bull Terrier Welpen in den ersten Tagen" width="88" height="100" loading="lazy" decoding="async">
@@ -128,7 +130,7 @@ custom_content: |
   </span>
   </a>
 
-  <p>Sie lernen Haushaltsgeräusche, verschiedene Menschen und andere Tiere kennen. Diese frühe Sozialisierung ist grundlegend für die Entwicklung eines sicheren und ruhigen Temperaments.</p>
+  <p>Sie werden jeden Tag angefasst, hören die Geräusche des Hauses, sehen Menschen jeden Alters, treffen die erwachsenen Hunde unter Aufsicht und hören die Straße, die am Hof vorbeiführt. Wir folgen keinem Protokoll: So leben sie hier einfach. Und es reicht nicht, denn wenn ein Welpe geht, liegt die Hälfte der sensiblen Phase noch vor ihm. Was eine Zucht leisten kann und was nicht, erklären wir in <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das heißt">was &bdquo;sozialisierte Welpen&ldquo; heißt</a>.</p>
   </div>
   <div class="zigzag-image">
   <img src="/images/foto1.avif" alt="Sozialisierte Staffordshire Bull Terrier Welpen zu Hause" loading="lazy" decoding="async" width="400" height="484">
@@ -155,7 +157,7 @@ custom_content: |
   <span class="section-label">Wesen</span>
   <h2 class="section-title">Charakter und Wesen des Staffordshire Bull Terrier</h2>
 
-  <p>Das Wesen entsteht nicht zufällig: Es hängt von den gewählten Zuchttieren und von den ersten Wochen ab. Unsere Welpen wachsen mit Menschen jeden Alters, Haushaltsgeräuschen und anderen Hunden auf, und deshalb kommen sie schon an das Leben im Haus gewöhnt in ihre Familien.</p>
+  <p>Das Wesen entsteht nicht zufällig: Es hängt von den gewählten Zuchttieren und von den ersten Wochen ab. Unsere Welpen wachsen mit Menschen jeden Alters, Haushaltsgeräuschen und anderen Hunden auf. Deshalb kommen sie schon an das Leben im Haus gewöhnt in ihre Familien.</p>
 
   <p>Wie ein Charakter selektiert wird, worauf wir bei den Zuchttieren achten und was man von einem erwachsenen Hund erwarten kann, erklären wir auf der Seite über das <a href="/de/staffordshire-bull-terrier-wesen/" title="Das Wesen des Staffordshire Bull Terrier">Wesen des Staffy</a>; wie sich das zu Hause zeigt, mit Kindern, anderen Tieren und in der Wohnung, steht unter <a href="/de/staffordshire-bull-terrier-charakter-familienleben/" title="Charakter und Familienleben">Charakter und Familienleben</a>.</p>
 
@@ -169,9 +171,9 @@ custom_content: |
   <span class="section-label">Bevor sie geboren werden</span>
   <h2 class="section-title">Von der L&auml;ufigkeit bis zur Geburt: wie ein Wurf entsteht</h2>
 
-  <p>Ein Wurf Staffordshire Bull Terrier bei Del Piccolo Diavolo beginnt lange vor der Geburt. Am Anfang stehen die Untersuchung vor der Läufigkeit und die Progesteronmessung, um den richtigen Zeitpunkt für die Verpaarung zu finden; die Trächtigkeit wird um den fünfundzwanzigsten Tag per Ultraschall bestätigt, und die Welpen werden fünf bis sieben Tage vor der Geburt mit einem Röntgenbild gezählt. Die Welpen kommen im Haus zur Welt und bleiben den ersten Monat dort, in der Wurfkiste, dann ziehen sie in einen Auslauf mit Zugang nach draußen und kommen abwechselnd, zu zweit, wieder ins Haus. Sie gehen nach den 60 Tagen, die das italienische Gesetz vorschreibt, in ihre Familien, mit Mikrochip, ersten Impfungen, <a href="/de/welpen-entwurmung-kotuntersuchung/" title="Entwurmung und Kotuntersuchung">Entwurmung mit Kotuntersuchung</a> und ENCI-Ahnentafel. Die Eltern sind auf L2HGA und HC getestet, die Mütter auch auf DM-SOD1, und die Befunde sind mit vollständiger Mikrochipnummer auf der Website veröffentlicht.</p>
+  <p>Ein Wurf Staffordshire Bull Terrier bei Del Piccolo Diavolo beginnt lange vor der Geburt. Am Anfang stehen die Untersuchung vor der Läufigkeit und die Progesteronmessung, um den richtigen Zeitpunkt für die Verpaarung zu finden; die Trächtigkeit wird um den fünfundzwanzigsten Tag per Ultraschall bestätigt, und die Welpen werden fünf bis sieben Tage vor der Geburt mit einem Röntgenbild gezählt. Die Welpen kommen im Haus zur Welt und bleiben den ersten Monat dort, in der Wurfkiste. Dann ziehen sie in einen Auslauf mit Zugang nach draußen und kommen abwechselnd, zu zweit oder zu dritt, wieder ins Haus. Sie gehen nach den 60 Tagen, die das italienische Gesetz vorschreibt, in ihre Familien, mit Mikrochip, ersten Impfungen, <a href="/de/welpen-entwurmung-kotuntersuchung/" title="Entwurmung und Kotuntersuchung">Entwurmung mit Kotuntersuchung</a> und ENCI-Ahnentafel. Die Eltern sind auf L2HGA und HC getestet, die Mütter auch auf DM-SOD1, und die Befunde sind mit vollständiger Mikrochipnummer auf der Website veröffentlicht.</p>
 
-  <p>&Uuml;ber das, was nach der Geburt passiert, wird viel geschrieben. &Uuml;ber das, was davor passiert, fast nie &mdash; und doch entscheidet sich dort der gr&ouml;&szlig;te Teil davon, wie ein Wurf verl&auml;uft.</p>
+  <p>&Uuml;ber das, was nach der Geburt passiert, wird viel geschrieben. &Uuml;ber das, was davor passiert, fast nie. Und doch entscheidet sich dort der gr&ouml;&szlig;te Teil davon, wie ein Wurf verl&auml;uft.</p>
 
   <details class="tendina"><summary><h3>Vor der L&auml;ufigkeit</h3></summary>
 
@@ -179,13 +181,13 @@ custom_content: |
 
   <p>Dabei wird ein <strong>Vaginaltupfer mit bakteriologischer Kultur</strong> genommen, um Keime auszuschlie&szlig;en, die die Tr&auml;chtigkeit gef&auml;hrden w&uuml;rden, und bei Bedarf entwurmt.</p>
 
-  <p>Dann beginnen die <strong>Progesteronbestimmungen</strong>. Das ist keine Spielerei: der fruchtbare Zeitpunkt l&auml;sst sich nicht am Tag des L&auml;ufigkeitsbeginns ablesen, und 48 Stunden daneben bedeuten keine Welpen. Es wird in Abst&auml;nden Blut genommen, bis der Wert seinen H&ouml;hepunkt erreicht &mdash; das ist der Tag. Jede Bestimmung kostet 40 Euro, und es braucht mindestens vier: diese und alle anderen Ausgaben stehen <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/#costi-cucciolata" title="Was uns ein Wurf kostet, Posten für Posten">in den Kosten eines Wurfs, Posten für Posten</a>.</p>
+  <p>Dann beginnen die <strong>Progesteronbestimmungen</strong>. Der fruchtbare Zeitpunkt l&auml;sst sich nicht am Tag des L&auml;ufigkeitsbeginns ablesen, und 48 Stunden daneben bedeuten keine Welpen. Es wird in Abst&auml;nden Blut genommen, bis der Wert seinen H&ouml;hepunkt erreicht, und das ist der Tag. Jede Bestimmung kostet 40 Euro, und es braucht mindestens vier: diese und alle anderen Ausgaben stehen <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/#costi-cucciolata" title="Was uns ein Wurf kostet, Posten für Posten">in den Kosten eines Wurfs, Posten für Posten</a>.</p>
   </details>
   <details class="tendina"><summary><h3>Der Deckakt</h3></summary>
 
   <p><strong>Ich fahre immer zum R&uuml;den</strong>, nie umgekehrt: der R&uuml;de bleibt zu Hause, die H&uuml;ndin reist.</p>
 
-  <p>Bei einem R&uuml;den von Format zieht der Besitzer h&auml;ufig einen Tierarzt f&uuml;r die <strong>instrumentelle Besamung</strong> hinzu, intrazervikal. Daf&uuml;r gibt es drei Gr&uuml;nde: das Risiko &uuml;bertragbarer Krankheiten vermeiden, den R&uuml;den nicht &uuml;berm&auml;&szlig;ig belasten, und sicher sein, dass der Deckakt zustande kommt. Denn &mdash; und das stellt sich niemand vor, der nicht z&uuml;chtet &mdash; <strong>nicht jedem R&uuml;den f&auml;llt das Decken leicht</strong>. Vieles h&auml;ngt von der H&uuml;ndin ab: mehr als eine macht es ihm alles andere als einfach.</p>
+  <p>Bei einem R&uuml;den von Format zieht der Besitzer h&auml;ufig einen Tierarzt f&uuml;r die <strong>instrumentelle Besamung</strong> hinzu, intrazervikal. Daf&uuml;r gibt es drei Gr&uuml;nde: das Risiko &uuml;bertragbarer Krankheiten vermeiden, den R&uuml;den nicht &uuml;berm&auml;&szlig;ig belasten, und sicher sein, dass der Deckakt zustande kommt. Denn <strong>nicht jedem R&uuml;den f&auml;llt das Decken leicht</strong>, und das stellt sich niemand vor, der nicht z&uuml;chtet. Vieles h&auml;ngt von der H&uuml;ndin ab: mehr als eine macht es ihm alles andere als einfach.</p>
   </details>
   <details class="tendina"><summary><h3>Die Tr&auml;chtigkeit: zwei Untersuchungen, zwei Zwecke</h3></summary>
 
@@ -193,19 +195,19 @@ custom_content: |
 
   <p><strong>Das R&ouml;ntgenbild, f&uuml;nf bis sieben Tage vor der Geburt.</strong> Dieses liefert die genaue Zahl, ermittelt durch Z&auml;hlen der Sch&auml;del und Wirbels&auml;ulen, die dann verkalkt und sichtbar sind.</p>
 
-  <p>Das ist keine Spielerei: <strong>es ist die Information, die man w&auml;hrend der Geburt braucht</strong>, vor allem bei einer nat&uuml;rlichen. Man muss wissen, wie viele Welpen kommen m&uuml;ssen, und dass alle drau&szlig;en sind, jeder mit seiner Plazenta. Ohne diese Zahl geht man nach Gef&uuml;hl &mdash; und nach Gef&uuml;hl merkt man einen zur&uuml;ckgebliebenen Welpen oder eine zur&uuml;ckgehaltene Plazenta zu sp&auml;t.</p>
+  <p>Die Zahl der Welpen <strong>ist die Information, die man w&auml;hrend der Geburt braucht</strong>, vor allem bei einer nat&uuml;rlichen. Man muss wissen, wie viele Welpen kommen m&uuml;ssen, und dass alle drau&szlig;en sind, jeder mit seiner Plazenta. Ohne diese Zahl geht man nach Gef&uuml;hl, und nach Gef&uuml;hl merkt man einen zur&uuml;ckgebliebenen Welpen oder eine zur&uuml;ckgehaltene Plazenta zu sp&auml;t.</p>
   </details>
   <details class="tendina"><summary><h3>Die Geburt</h3></summary>
 
   <p>Beim Staffordshire Bull Terrier ist die nat&uuml;rliche Geburt die Regel: eine robuste Rasse, und der Kaiserschnitt war hier eine seltene Ausnahme. Wenn aber etwas nicht stimmt, wird nicht improvisiert: ich rufe meinen Tierarzt, der von Fall zu Fall entscheidet.</p>
 
-  <p><strong>Oxytocin wird mit gro&szlig;er Vorsicht und sparsam eingesetzt</strong>, und nur wenn der Tierarzt es entscheidet. Es ist kein Beschleuniger, den man gibt, weil die Geburt lange dauert: steckt ein Welpe fest, sind st&auml;rkere Wehen das Letzte, was gebraucht wird &mdash; das Risiko ist ein Geb&auml;rmutterriss.</p>
+  <p><strong>Oxytocin wird mit gro&szlig;er Vorsicht und sparsam eingesetzt</strong>, und nur wenn der Tierarzt es entscheidet. Es ist kein Beschleuniger, den man gibt, weil die Geburt lange dauert: steckt ein Welpe fest, sind st&auml;rkere Wehen das Letzte, was gebraucht wird, und das Risiko ist ein Geb&auml;rmutterriss.</p>
   </details>
   <details class="tendina"><summary><h3>Die erste Woche</h3></summary>
 
   <p>Die Welpen kommen im Haus zur Welt, in der Wurfkiste. Und eine Woche lang <strong>schlafe ich nicht in meinem Bett</strong>: ich lege mich aufs Sofa, neben sie.</p>
 
-  <p>Das ist keine R&uuml;hrseligkeit, es ist der riskanteste Teil &uuml;berhaupt. In diesen Tagen kann ein Welpe von der sich drehenden Mutter erdr&uuml;ckt werden, oder eine H&uuml;ndin will nicht s&auml;ugen: das h&ouml;rt man, bevor man es sieht &mdash; ein anderes Wimmern, ein Ger&auml;usch, das nicht stimmt. Nach der ersten Woche wird es leichter.</p>
+  <p>Die erste Woche nach der Geburt ist der riskanteste Teil &uuml;berhaupt. In diesen Tagen kann ein Welpe von der sich drehenden Mutter erdr&uuml;ckt werden, oder eine H&uuml;ndin will nicht s&auml;ugen: das h&ouml;rt man, bevor man es sieht: ein anderes Wimmern, ein Ger&auml;usch, das nicht stimmt. Nach der ersten Woche wird es leichter.</p>
   </details>
   <details class="tendina"><summary><h3>Der Tag, an dem sie gehen d&uuml;rfen</h3></summary>
 
@@ -213,7 +215,7 @@ custom_content: |
   </details>
   <details class="tendina"><summary><h3>Was man eine Zucht fragen sollte</h3></summary>
 
-  <p>Wer einen Wurf in Betracht zieht, gleich von wem, sollte diese Fragen stellen &mdash; ihnen kann niemand ausweichen:</p>
+  <p>Wer einen Wurf in Betracht zieht, gleich von wem, sollte diese Fragen stellen. Ihnen kann niemand ausweichen:</p>
 
   <ul>
   <li><strong>Wurde Progesteron bestimmt?</strong> Lautet die Antwort "wir haben sie am zehnten Tag zum R&uuml;den gebracht", war es Gl&uuml;ckssache.</li>
@@ -331,8 +333,8 @@ custom_content: |
   <!--BLOCCO:13-->
   <section class="cta-section">
   <h2>Möchten Sie Infos zu Welpen?</h2>
-  <p>Rufen Sie uns an oder schreiben Sie uns auf WhatsApp für Informationen über verfügbare Würfe.</p>
-  <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20möchte%20Infos%20über%20Staffordshire%20Bull%20Terrier%20Welpen" class="btn" title="Schreiben Sie uns auf WhatsApp für Welpen-Infos">Auf WhatsApp Schreiben</a>
+  <p>Schreiben Sie uns auf WhatsApp, um nach den Würfen zu fragen oder einen Besuch in Ostellato zu vereinbaren.</p>
+  <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20möchte%20Infos%20über%20Staffordshire%20Bull%20Terrier%20Welpen" class="btn" title="Schreiben Sie uns auf WhatsApp für Welpen-Infos">Auf WhatsApp schreiben</a>
   </section>
   <!--/BLOCCO:13-->
 ---
