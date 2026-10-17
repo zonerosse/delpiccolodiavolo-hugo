@@ -33,24 +33,20 @@ custom_content: |
   </div>
   </div>
 
-
   <!--BLOCCO:2-->
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Testimonials</span>
   <h2 class="section-title">What owners say</h2>
-
   <div class="reviews-grid">
-
   <article class="review-card">
   <div class="review-header">
-  <span class="review-name">Matteo Vigan&ograve;</span>
+  <span class="review-name">Matteo Viganò</span>
   <span class="review-stars">★★★★★</span>
   </div>
   <p class="review-text">I bought one of their dogs and the balance and character that set her apart are incredible. I could see a strong attention to the dogs' health. A truly excellent job of selection.</p>
   <div class="review-meta">September 20, 2026 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Gianluca Ravera</span>
@@ -59,7 +55,6 @@ custom_content: |
   <p class="review-text">About eight months ago I decided I wanted a Staffy as my companion in adventures, and I started reading up so I could turn to the most reliable kennel possible. I came across this kennel by chance, and after contacting them I was struck by their competence, kindness and professionalism. Now I have my own little devil, thanks to this wonderful family I will never stop thanking.</p>
   <div class="review-meta">September 4, 2026 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Simone Gatti</span>
@@ -68,7 +63,6 @@ custom_content: |
   <p class="review-text">Dogs selected with care, gentle and affectionate in temperament, compact and powerful!</p>
   <div class="review-meta">September 4, 2026 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Daniela Michelangeli</span>
@@ -77,7 +71,6 @@ custom_content: |
   <p class="review-text">An extremely helpful and very competent breeder, and the dogs are truly perfect.</p>
   <div class="review-meta">September 2, 2026 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Stefano Bellagamba</span>
@@ -86,7 +79,6 @@ custom_content: |
   <p class="review-text">A serious kennel: the dogs are bred and raised indoors. I visited a few days ago — the owners are serious, helpful people who breed with the best selection of the breed.</p>
   <div class="review-meta">August 2026 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Valentina Martinis</span>
@@ -95,9 +87,8 @@ custom_content: |
   <p class="review-text">Helpful, welcoming and very well-informed owners.</p>
   <div class="review-meta">June 2026 – Google</div>
   </article>
-
   </div>
-  <details class="tutti"><summary>Show the other 23 reviews</summary>
+
   <div class="reviews-grid">
   <article class="review-card">
   <div class="review-header">
@@ -107,7 +98,6 @@ custom_content: |
   <p class="review-text">A 6-stars-out-of-5 kennel. They are professional and follow you step by step in everything, even after your furry friend gets home!! Highly recommended!!</p>
   <div class="review-meta">November 15, 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Paola Bonora</span>
@@ -116,25 +106,22 @@ custom_content: |
   <p class="review-text">The kennel and everything around it are perfectly in tune. Maximum cleanliness. Friendliness. Professionalism at the highest level. Total availability. 5 stars are few... they deserve many more. Thanks to Paolo and Daniela. Two people who have made their kennel a true passion, putting heart and dedication into it. MANY COMPLIMENTS. KEEP IT UP.</p>
   <div class="review-meta">November 13, 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Franco Cavalieri</span>
   <span class="review-stars">★★★★★</span>
   </div>
-  <p class="review-text">Staffordshire Bull Terrier kennel &laquo;Il Piccolo Diavolo&raquo;.<br>Few words: professionalism and heart at the highest level. The dogs are extremely balanced because they are surrounded by affection and love. Paolo, well done.<br>Highly recommended.<br>Franco</p>
+  <p class="review-text">Staffordshire Bull Terrier kennel «Il Piccolo Diavolo».<br/>Few words: professionalism and heart at the highest level. The dogs are extremely balanced because they are surrounded by affection and love. Paolo, well done.<br/>Highly recommended.<br/>Franco</p>
   <div class="review-meta">November 12, 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Eliana Buono</span>
   <span class="review-stars">★★★★★</span>
   </div>
-  <p class="review-text">A positive experience, full of emotion!<br>As always, taking on an animal is something that needs time, patience and dedication.<br>Paolo was very open and helpful. He is a breeder who stands out for the care and attention he gives his dogs. He runs this kennel with great passion, professionalism and dedication, putting the wellbeing of his animals first.<br>Our Morfeo, son of the legendary Billy (the little dog who, the first time, welcomed us belly-up ready for cuddles), is wonderful and never stops surprising us.<br>I sincerely recommend this kennel: if you are looking for authenticity, professionalism, dogs of real pedigree and love for animals, this is the right place!</p>
+  <p class="review-text">A positive experience, full of emotion!<br/>As always, taking on an animal is something that needs time, patience and dedication.<br/>Paolo was very open and helpful. He is a breeder who stands out for the care and attention he gives his dogs. He runs this kennel with great passion, professionalism and dedication, putting the wellbeing of his animals first.<br/>Our Morfeo, son of the legendary Billy (the little dog who, the first time, welcomed us belly-up ready for cuddles), is wonderful and never stops surprising us.<br/>I sincerely recommend this kennel: if you are looking for authenticity, professionalism, dogs of real pedigree and love for animals, this is the right place!</p>
   <div class="review-meta">November 12, 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Massimiliano Di Falco</span>
@@ -143,25 +130,22 @@ custom_content: |
   <p class="review-text">A breeder of considerable experience, friendly and always available, truly passionate about the field and the breed. The puppies are very well cared for and live in large, well-kept spaces. As for the breed itself I can only use the word EXTRAORDINARY, both physically and in temperament, undoubtedly thanks to Paolo and his wife, who do an exceptional job.</p>
   <div class="review-meta">November 11, 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Jenny Gondolini</span>
   <span class="review-stars">★★★★★</span>
   </div>
-  <p class="review-text">Paolo is extremely kind and extremely competent.<br>The kennel is kept in excellent condition; you can see the great passion of both him and his family.<br>A guarantee, both for the attention given to the thousand questions asked and for the kindness and helpfulness shown.<br>Thank you</p>
+  <p class="review-text">Paolo is extremely kind and extremely competent.<br/>The kennel is kept in excellent condition; you can see the great passion of both him and his family.<br/>A guarantee, both for the attention given to the thousand questions asked and for the kindness and helpfulness shown.<br/>Thank you</p>
   <div class="review-meta">November 11, 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Maurizio Folegatti</span>
   <span class="review-stars">★★★★★</span>
   </div>
-  <p class="review-text">Competence, professionalism and real love<br>Puppies very well looked after, healthy and socialised.<br>I recommend this kennel to anyone looking for a calm, well-balanced life companion raised with competence, dedication and a lot of love.<br>Well done</p>
+  <p class="review-text">Competence, professionalism and real love<br/>Puppies very well looked after, healthy and socialised.<br/>I recommend this kennel to anyone looking for a calm, well-balanced life companion raised with competence, dedication and a lot of love.<br/>Well done</p>
   <div class="review-meta">November 10, 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Giorgia Carone</span>
@@ -170,7 +154,6 @@ custom_content: |
   <p class="review-text">Pursuit of perfection and passion for this spectacular breed. A great combination that, united with education, availability and kindness, makes this kennel a 5 star!</p>
   <div class="review-meta">October 15, 2024 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Manu Nannetti</span>
@@ -179,7 +162,6 @@ custom_content: |
   <p class="review-text">The website and Paolo's kennel immediately impressed us. He, his wife and his staff accompanied us with professionalism, experience and kindness. Love at first sight exists... trust me.</p>
   <div class="review-meta">September 20, 2024 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Monica Nanetti</span>
@@ -188,7 +170,6 @@ custom_content: |
   <p class="review-text">Sol Claressa arrived in November 2022. Affectionate, playful, cheerful and very smart. Loves running like a sprinter and fills our days with her energy. Thank you Paolo!</p>
   <div class="review-meta">November 15, 2022 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Paolo Patrucco</span>
@@ -197,7 +178,6 @@ custom_content: |
   <p class="review-text">I recommend this kennel to everyone. Paolo's professionalism is reflected in the dog's character: balanced and extraordinary, the foundation for a true Staffy.</p>
   <div class="review-meta">December 1, 2024 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Cristian Ferroci</span>
@@ -206,7 +186,6 @@ custom_content: |
   <p class="review-text">Paolo is a guarantee for this breed. Well-deserved 5 stars.</p>
   <div class="review-meta">August 10, 2024 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Maria Chiara Miglio</span>
@@ -215,7 +194,6 @@ custom_content: |
   <p class="review-text">Paolo and Daniela are extraordinary breeders! Always available and attentive at every stage of a puppy's life. Their dogs are wonderfully balanced and joyful, as well as beautiful. A kennel I highly recommend for competence and kindness.</p>
   <div class="review-meta">December 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Emanuele Passerini</span>
@@ -224,7 +202,6 @@ custom_content: |
   <p class="review-text">I had the chance to meet Paolo and his splendid dogs. I was struck by his passion and competence — he breeds beautiful, balanced dogs!</p>
   <div class="review-meta">December 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Donatella Fortini</span>
@@ -233,7 +210,6 @@ custom_content: |
   <p class="review-text">Paolo is a breeder with strong ethics and a great, sincere passion. He helps you along the way with your wonderful creature. This gentleman is a guarantee.</p>
   <div class="review-meta">December 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Emanuele Ghirardelli</span>
@@ -242,7 +218,6 @@ custom_content: |
   <p class="review-text">I met Paolo, an extremely helpful person and very knowledgeable about his own kennel! The dogs are very beautiful… highly recommended!</p>
   <div class="review-meta">December 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Andrea Fattori</span>
@@ -251,7 +226,6 @@ custom_content: |
   <p class="review-text">Competent, always available even in the months afterwards and, above all, great selection work. Thank you very much</p>
   <div class="review-meta">December 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Marco Guariento</span>
@@ -260,7 +234,6 @@ custom_content: |
   <p class="review-text">Beautiful dogs!! Friendly and very competent people.</p>
   <div class="review-meta">December 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">ilmaresciallo 01</span>
@@ -269,7 +242,6 @@ custom_content: |
   <p class="review-text">Really very beautiful dogs, and kind, very knowledgeable owners</p>
   <div class="review-meta">December 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Luca Ruffoni</span>
@@ -278,7 +250,6 @@ custom_content: |
   <p class="review-text">Spectacular</p>
   <div class="review-meta">December 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Fabio Lusardi</span>
@@ -287,7 +258,6 @@ custom_content: |
   <p class="review-text">Beautiful dogs and great owners!</p>
   <div class="review-meta">2023 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Paolo Veronese</span>
@@ -296,19 +266,17 @@ custom_content: |
   <p class="review-text">Excellent</p>
   <div class="review-meta">2020 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Fabio Negretti</span>
   <span class="review-stars">★★★★★</span>
   </div>
-  <p class="review-text">We were lucky to find Paolo and his family… an excellent family-run kennel, beautiful dogs, excellent temperament and attentive management.<br>Perla Nera is stunning, balanced in character, well-mannered and beautiful!<br>You can tell when someone works with passion and respect for animals.<br>Thank you Paolo</p>
+  <p class="review-text">We were lucky to find Paolo and his family… an excellent family-run kennel, beautiful dogs, excellent temperament and attentive management.<br/>Perla Nera is stunning, balanced in character, well-mannered and beautiful!<br/>You can tell when someone works with passion and respect for animals.<br/>Thank you Paolo</p>
   <div class="review-meta">December 2025 – Google</div>
   </article>
-
   <p>Reviews describe how the handover went; what happened afterwards, years later, is told in <a href="/en/staffordshire-family-life-stories/" title="Family stories">the stories of the dogs we have bred</a>.</p>
   </div>
-  </details>
+
   </div>
   </section>
   <!--/BLOCCO:2-->
@@ -317,15 +285,8 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Our reputation</span>
-  <h2 class="section-title">Why reviews matter</h2>
+  <div class="n-percorso"><div class="n-passo"><h2 class="section-title">Why reviews matter</h2><div><p>Del Piccolo Diavolo has an average rating of <!--REC-VOTO--> from <!--REC-TOTALE--> reviews published on the kennel's Google profile, and the reviews on this page are copied from there, with the name of the person who wrote them and the date. Anyone can go and read them on the profile without going through us, and not even the breeder can change them. Most were written by families who took a Staffordshire Bull Terrier puppy from Ostellato, in the province of Ferrara, and a few by people who came to visit us and met the dogs. It is the same principle as the genetic test reports, which are published here with the dog's microchip number on them. The reviews tell the story of the placement; what happened afterwards, years later, is told in the <a href="/en/staffordshire-family-life-stories/" title="Family stories">stories of the dogs we bred</a>.</p></div></div><div class="n-passo"><h3>✓ On Google</h3><div><p>Every review can be read on the kennel's profile</p></div></div><div class="n-passo"><h3>⭐ <!--REC-VOTO-->/5</h3><div><p>The average rating on Google</p></div></div><div class="n-passo"><h3>📞 Afterwards too</h3><div><p>You can reach us for the dog's whole life</p></div></div><div class="n-passo"><h3>🏆 The lines</h3><div><p>Elitebull (English) and Lackyle (Irish)</p></div></div></div>
 
-  <p>Del Piccolo Diavolo has an average rating of <!--REC-VOTO--> from <!--REC-TOTALE--> reviews published on the kennel's Google profile, and the reviews on this page are copied from there, with the name of the person who wrote them and the date. Anyone can go and read them on the profile without going through us, and not even the breeder can change them. Most were written by families who took a Staffordshire Bull Terrier puppy from Ostellato, in the province of Ferrara, and a few by people who came to visit us and met the dogs. It is the same principle as the genetic test reports, which are published here with the dog's microchip number on them. The reviews tell the story of the placement; what happened afterwards, years later, is told in the <a href="/en/staffordshire-family-life-stories/" title="Family stories">stories of the dogs we bred</a>.</p>
-  <div class="values-grid">
-  <div class="value-card"><h3>✓ On Google</h3><p>Every review can be read on the kennel's profile</p></div>
-  <div class="value-card"><h3>⭐ <!--REC-VOTO-->/5</h3><p>The average rating on Google</p></div>
-  <div class="value-card"><h3>📞 Afterwards too</h3><p>You can reach us for the dog's whole life</p></div>
-  <div class="value-card"><h3>🏆 The lines</h3><p>Elitebull (English) and Lackyle (Irish)</p></div>
-  </div>
   </div>
   </section>
   <!--/BLOCCO:3-->
@@ -354,7 +315,6 @@ custom_content: |
   </div>
   </section>
   <!--/BLOCCO:4-->
-
 
   <section class="section">
   <div class="section-inner content-single">

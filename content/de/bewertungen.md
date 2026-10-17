@@ -40,18 +40,15 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">Testimonials</span>
   <h2 class="section-title">Was die Besitzer sagen</h2>
-
   <div class="reviews-grid">
-
   <article class="review-card">
   <div class="review-header">
-  <span class="review-name">Matteo Vigan&ograve;</span>
+  <span class="review-name">Matteo Viganò</span>
   <span class="review-stars">★★★★★</span>
   </div>
   <p class="review-text">Ich habe einen ihrer Hunde gekauft, und das Gleichgewicht und der Charakter, die sie auszeichnen, sind unglaublich. Ich konnte eine große Aufmerksamkeit für die Gesundheit der Hunde feststellen. Wirklich eine sehr gute Zuchtauswahl.</p>
   <div class="review-meta">20. September 2026 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Gianluca Ravera</span>
@@ -60,7 +57,6 @@ custom_content: |
   <p class="review-text">Vor etwa acht Monaten beschloss ich, einen Staffy als Begleiter zu nehmen, und begann mich einzulesen, um mich der zuverlässigsten Zucht anvertrauen zu können. Zufällig stieß ich auf diese Zucht, und nach dem ersten Kontakt beeindruckten mich ihre Kompetenz, Freundlichkeit und Professionalität. Jetzt habe ich meinen kleinen Teufel, dank dieser wunderbaren Familie, der ich nie genug danken kann.</p>
   <div class="review-meta">4. September 2026 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Simone Gatti</span>
@@ -69,7 +65,6 @@ custom_content: |
   <p class="review-text">Sorgfältig selektierte Hunde mit sanftem und anhänglichem Wesen, kompakt und kraftvoll!</p>
   <div class="review-meta">4. September 2026 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Daniela Michelangeli</span>
@@ -78,7 +73,6 @@ custom_content: |
   <p class="review-text">Ein äußerst hilfsbereiter und sehr kompetenter Züchter, und die Hunde sind wirklich perfekt.</p>
   <div class="review-meta">2. September 2026 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Stefano Bellagamba</span>
@@ -87,7 +81,6 @@ custom_content: |
   <p class="review-text">Eine seriöse Zucht: die Hunde werden im Haus geboren und aufgezogen. Ich habe die Zucht vor wenigen Tagen besucht — die Besitzer sind seriöse, hilfsbereite Menschen, die die Rasse bestmöglich selektieren.</p>
   <div class="review-meta">August 2026 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Valentina Martinis</span>
@@ -96,9 +89,8 @@ custom_content: |
   <p class="review-text">Hilfsbereite, herzliche und sehr gut informierte Besitzer.</p>
   <div class="review-meta">Juni 2026 – Google</div>
   </article>
-
   </div>
-  <details class="tutti"><summary>Die anderen 23 Bewertungen zeigen</summary>
+
   <div class="reviews-grid">
   <article class="review-card">
   <div class="review-header">
@@ -108,7 +100,6 @@ custom_content: |
   <p class="review-text">Eine Zucht mit 6 von 5 Sternen. Sie sind professionell und begleiten dich Schritt für Schritt in allem, auch nachdem dein Fellknäuel zu Hause angekommen ist!! Sehr zu empfehlen!!</p>
   <div class="review-meta">15. November 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Paola Bonora</span>
@@ -117,25 +108,22 @@ custom_content: |
   <p class="review-text">Die Zucht und alles drumherum sind vollkommen im Einklang. Höchste Sauberkeit. Herzlichkeit. Professionalität auf höchstem Niveau. Volle Erreichbarkeit. 5 Sterne sind wenig... sie verdienen viel mehr. Danke an Paolo und Daniela. Zwei Menschen, die aus ihrer Zucht eine echte Leidenschaft gemacht haben, mit Herz und Hingabe. HERZLICHE GLÜCKWÜNSCHE. MACHT WEITER SO.</p>
   <div class="review-meta">13. November 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Franco Cavalieri</span>
   <span class="review-stars">★★★★★</span>
   </div>
-  <p class="review-text">Staffordshire Bull Terrier Zucht &laquo;Il Piccolo Diavolo&raquo;.<br>Wenige Worte: Professionalität und Herz auf höchstem Niveau. Die Hunde sind äußerst ausgeglichen, weil sie von Zuneigung und Liebe umgeben sind. Paolo, Kompliment.<br>Sehr zu empfehlen.<br>Franco</p>
+  <p class="review-text">Staffordshire Bull Terrier Zucht «Il Piccolo Diavolo».<br/>Wenige Worte: Professionalität und Herz auf höchstem Niveau. Die Hunde sind äußerst ausgeglichen, weil sie von Zuneigung und Liebe umgeben sind. Paolo, Kompliment.<br/>Sehr zu empfehlen.<br/>Franco</p>
   <div class="review-meta">12. November 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Eliana Buono</span>
   <span class="review-stars">★★★★★</span>
   </div>
-  <p class="review-text">Eine positive und sehr bewegende Erfahrung!<br>Wie immer braucht die Aufnahme eines Tieres Zeit, Geduld und Hingabe.<br>Paolo war sehr offen und hilfsbereit. Er ist ein Züchter, der sich durch die Sorgfalt und Aufmerksamkeit für seine Hunde auszeichnet. Er führt diese Zucht mit großer Leidenschaft, Professionalität und Hingabe und stellt das Wohl seiner Tiere an erste Stelle.<br>Unser Morfeo, Sohn der legendären Billy (der Hündin, die uns beim ersten Mal mit dem Bauch nach oben empfing, bereit für Streicheleinheiten), ist wunderbar und überrascht uns immer wieder.<br>Ich empfehle diese Zucht aufrichtig: Wer Echtheit, Professionalität, Hunde aus guter Abstammung und Tierliebe sucht, ist hier richtig!</p>
+  <p class="review-text">Eine positive und sehr bewegende Erfahrung!<br/>Wie immer braucht die Aufnahme eines Tieres Zeit, Geduld und Hingabe.<br/>Paolo war sehr offen und hilfsbereit. Er ist ein Züchter, der sich durch die Sorgfalt und Aufmerksamkeit für seine Hunde auszeichnet. Er führt diese Zucht mit großer Leidenschaft, Professionalität und Hingabe und stellt das Wohl seiner Tiere an erste Stelle.<br/>Unser Morfeo, Sohn der legendären Billy (der Hündin, die uns beim ersten Mal mit dem Bauch nach oben empfing, bereit für Streicheleinheiten), ist wunderbar und überrascht uns immer wieder.<br/>Ich empfehle diese Zucht aufrichtig: Wer Echtheit, Professionalität, Hunde aus guter Abstammung und Tierliebe sucht, ist hier richtig!</p>
   <div class="review-meta">12. November 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Massimiliano Di Falco</span>
@@ -144,25 +132,22 @@ custom_content: |
   <p class="review-text">Ein Züchter mit beachtlicher Erfahrung, freundlich und immer erreichbar, wirklich begeistert von diesem Bereich und von der Rasse. Die Welpen werden sehr gut versorgt und leben in großen, gepflegten Räumen. Zur Rasse selbst kann ich nur das Wort AUSSERGEWÖHNLICH verwenden, körperlich wie im Wesen, zweifellos das Verdienst von Paolo und seiner Frau, die eine außergewöhnliche Arbeit leisten.</p>
   <div class="review-meta">11. November 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Jenny Gondolini</span>
   <span class="review-stars">★★★★★</span>
   </div>
-  <p class="review-text">Paolo ist überaus freundlich und äußerst kompetent.<br>Die Zucht ist in ausgezeichnetem Zustand; man merkt die große Leidenschaft von ihm und seiner Familie.<br>Eine Garantie, sowohl für die Aufmerksamkeit bei tausend Fragen als auch für die gezeigte Freundlichkeit und Hilfsbereitschaft.<br>Danke</p>
+  <p class="review-text">Paolo ist überaus freundlich und äußerst kompetent.<br/>Die Zucht ist in ausgezeichnetem Zustand; man merkt die große Leidenschaft von ihm und seiner Familie.<br/>Eine Garantie, sowohl für die Aufmerksamkeit bei tausend Fragen als auch für die gezeigte Freundlichkeit und Hilfsbereitschaft.<br/>Danke</p>
   <div class="review-meta">11. November 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Maurizio Folegatti</span>
   <span class="review-stars">★★★★★</span>
   </div>
-  <p class="review-text">Kompetenz, Professionalität und echte Liebe<br>Sehr gut versorgte Welpen, gesund und sozialisiert.<br>Ich empfehle diese Zucht jedem, der einen ruhigen, ausgeglichenen Lebensbegleiter sucht, aufgezogen mit Kompetenz, Hingabe und viel Liebe.<br>Kompliment</p>
+  <p class="review-text">Kompetenz, Professionalität und echte Liebe<br/>Sehr gut versorgte Welpen, gesund und sozialisiert.<br/>Ich empfehle diese Zucht jedem, der einen ruhigen, ausgeglichenen Lebensbegleiter sucht, aufgezogen mit Kompetenz, Hingabe und viel Liebe.<br/>Kompliment</p>
   <div class="review-meta">10. November 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Giorgia Carone</span>
@@ -171,7 +156,6 @@ custom_content: |
   <p class="review-text">Streben nach Perfektion und Leidenschaft für diese spektakuläre Rasse. Eine hervorragende Kombination, die zusammen mit Bildung, Verfügbarkeit und Freundlichkeit diese Zucht zu einem 5-Sterne-Betrieb macht!</p>
   <div class="review-meta">15. Oktober 2024 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Manu Nannetti</span>
@@ -180,7 +164,6 @@ custom_content: |
   <p class="review-text">Die Website und Paolos Zucht haben uns sofort beeindruckt. Er, seine Frau und seine Kinder haben uns mit Professionalität, Erfahrung und Freundlichkeit begleitet. Liebe auf den ersten Blick existiert... vertrauen Sie uns.</p>
   <div class="review-meta">20. September 2024 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Monica Nanetti</span>
@@ -189,7 +172,6 @@ custom_content: |
   <p class="review-text">Sol Claressa kam im November 2022. Liebevoll, verspielt, fröhlich und sehr aufgeweckt. Sie liebt es wie eine Sprinterin zu laufen und füllt unsere Tage mit ihrer Energie. Danke Paolo!</p>
   <div class="review-meta">15. November 2022 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Paolo Patrucco</span>
@@ -198,7 +180,6 @@ custom_content: |
   <p class="review-text">Ich empfehle diese Zucht jedem. Paolos Professionalität habe ich im Charakter des Hundes wiedergefunden: ausgeglichen und außergewöhnlich, die Basis für einen echten Staffy.</p>
   <div class="review-meta">1. Dezember 2024 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Cristian Ferroci</span>
@@ -207,7 +188,6 @@ custom_content: |
   <p class="review-text">Paolo ist eine Garantie für diese Rasse. Wohlverdiente 5 Sterne.</p>
   <div class="review-meta">10. August 2024 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Maria Chiara Miglio</span>
@@ -216,7 +196,6 @@ custom_content: |
   <p class="review-text">Paolo und Daniela sind außergewöhnliche Züchter! Immer erreichbar und aufmerksam in jeder Lebensphase des Welpen. Ihre Hunde sind äußerst ausgeglichen und fröhlich und dazu wunderschön. Eine Zucht, die ich für Kompetenz und Freundlichkeit sehr empfehle.</p>
   <div class="review-meta">Dezember 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Emanuele Passerini</span>
@@ -225,7 +204,6 @@ custom_content: |
   <p class="review-text">Ich hatte die Gelegenheit, Paolo und seine wunderbaren Hunde kennenzulernen. Seine Leidenschaft und Kompetenz haben mich beeindruckt — er züchtet schöne und ausgeglichene Hunde!</p>
   <div class="review-meta">Dezember 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Donatella Fortini</span>
@@ -234,7 +212,6 @@ custom_content: |
   <p class="review-text">Paolo ist ein Züchter mit starker Ethik und großer, aufrichtiger Leidenschaft. Er begleitet dich auf dem Weg mit deinem wunderbaren Geschöpf. Dieser Mann ist eine Garantie.</p>
   <div class="review-meta">Dezember 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Emanuele Ghirardelli</span>
@@ -243,7 +220,6 @@ custom_content: |
   <p class="review-text">Ich habe Paolo kennengelernt, ein überaus hilfsbereiter Mensch und sehr bewandert in seiner eigenen Zucht! Die Hunde sind sehr schön… sehr zu empfehlen!</p>
   <div class="review-meta">Dezember 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Andrea Fattori</span>
@@ -252,7 +228,6 @@ custom_content: |
   <p class="review-text">Kompetent, auch in den Monaten danach immer erreichbar und vor allem großartige Selektionsarbeit. Vielen Dank</p>
   <div class="review-meta">Dezember 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Marco Guariento</span>
@@ -261,7 +236,6 @@ custom_content: |
   <p class="review-text">Wunderschöne Hunde!! Freundliche und sehr kompetente Menschen.</p>
   <div class="review-meta">Dezember 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">ilmaresciallo 01</span>
@@ -270,7 +244,6 @@ custom_content: |
   <p class="review-text">Wirklich sehr schöne Hunde und freundliche, sehr kundige Besitzer</p>
   <div class="review-meta">Dezember 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Luca Ruffoni</span>
@@ -279,7 +252,6 @@ custom_content: |
   <p class="review-text">Spektakulär</p>
   <div class="review-meta">Dezember 2025 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Fabio Lusardi</span>
@@ -288,7 +260,6 @@ custom_content: |
   <p class="review-text">Wunderschöne Hunde und großartige Besitzer!</p>
   <div class="review-meta">2023 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Paolo Veronese</span>
@@ -297,19 +268,17 @@ custom_content: |
   <p class="review-text">Ausgezeichnet</p>
   <div class="review-meta">2020 – Google</div>
   </article>
-
   <article class="review-card">
   <div class="review-header">
   <span class="review-name">Fabio Negretti</span>
   <span class="review-stars">★★★★★</span>
   </div>
-  <p class="review-text">Wir hatten Glück, Paolo und seine Familie zu finden… eine ausgezeichnete familiengeführte Zucht, wunderschöne Hunde, hervorragendes Wesen und aufmerksame Führung.<br>Perla Nera ist großartig, im Wesen ausgeglichen, gut erzogen und wunderschön!<br>Man merkt, wenn jemand mit Leidenschaft und Respekt für Tiere arbeitet.<br>Danke Paolo</p>
+  <p class="review-text">Wir hatten Glück, Paolo und seine Familie zu finden… eine ausgezeichnete familiengeführte Zucht, wunderschöne Hunde, hervorragendes Wesen und aufmerksame Führung.<br/>Perla Nera ist großartig, im Wesen ausgeglichen, gut erzogen und wunderschön!<br/>Man merkt, wenn jemand mit Leidenschaft und Respekt für Tiere arbeitet.<br/>Danke Paolo</p>
   <div class="review-meta">Dezember 2025 – Google</div>
   </article>
-
   <p>Bewertungen beschreiben die Übergabe; was danach geschah, Jahre später, erzählen wir in den <a href="/de/staffordshire-in-der-familie-geschichten/" title="Familiengeschichten">Geschichten der Hunde, die wir gezüchtet haben</a>.</p>
   </div>
-  </details>
+
   </div>
   </section>
   <!--/BLOCCO:2-->
@@ -318,15 +287,8 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Unser Ruf</span>
-  <h2 class="section-title">Warum Bewertungen zählen</h2>
+  <div class="n-percorso"><div class="n-passo"><h2 class="section-title">Warum Bewertungen zählen</h2><div><p>Del Piccolo Diavolo hat eine durchschnittliche Bewertung von <!--REC-VOTO--> aus <!--REC-TOTALE--> Bewertungen im Google-Profil der Zucht, und die Bewertungen auf dieser Seite sind von dort übernommen, mit dem Namen der Person, die sie geschrieben hat, und dem Datum. Jeder kann sie im Profil lesen, ohne über uns zu gehen, und nicht einmal der Züchter kann sie ändern. Geschrieben haben sie vor allem Familien, die einen Staffordshire Bull Terrier Welpen aus Ostellato in der Provinz Ferrara übernommen haben, und einige Menschen, die uns besucht und die Hunde kennengelernt haben. Es ist dasselbe Prinzip wie bei den Befunden der Gentests, die hier mit der Mikrochipnummer des Hundes veröffentlicht sind. Die Bewertungen erzählen von der Vermittlung; was danach geschah, Jahre später, erzählen die <a href="/de/staffordshire-in-der-familie-geschichten/" title="Geschichten aus den Familien">Geschichten der Hunde, die wir gezüchtet haben</a>.</p></div></div><div class="n-passo"><h3>✓ Bei Google</h3><div><p>Jede Bewertung ist im Profil der Zucht zu lesen</p></div></div><div class="n-passo"><h3>⭐ <!--REC-VOTO-->/5</h3><div><p>Die Durchschnittsbewertung bei Google</p></div></div><div class="n-passo"><h3>📞 Auch danach</h3><div><p>Sie erreichen uns das ganze Hundeleben lang</p></div></div><div class="n-passo"><h3>🏆 Die Linien</h3><div><p>Elitebull (englisch) und Lackyle (irisch)</p></div></div></div>
 
-  <p>Del Piccolo Diavolo hat eine durchschnittliche Bewertung von <!--REC-VOTO--> aus <!--REC-TOTALE--> Bewertungen im Google-Profil der Zucht, und die Bewertungen auf dieser Seite sind von dort übernommen, mit dem Namen der Person, die sie geschrieben hat, und dem Datum. Jeder kann sie im Profil lesen, ohne über uns zu gehen, und nicht einmal der Züchter kann sie ändern. Geschrieben haben sie vor allem Familien, die einen Staffordshire Bull Terrier Welpen aus Ostellato in der Provinz Ferrara übernommen haben, und einige Menschen, die uns besucht und die Hunde kennengelernt haben. Es ist dasselbe Prinzip wie bei den Befunden der Gentests, die hier mit der Mikrochipnummer des Hundes veröffentlicht sind. Die Bewertungen erzählen von der Vermittlung; was danach geschah, Jahre später, erzählen die <a href="/de/staffordshire-in-der-familie-geschichten/" title="Geschichten aus den Familien">Geschichten der Hunde, die wir gezüchtet haben</a>.</p>
-  <div class="values-grid">
-  <div class="value-card"><h3>✓ Bei Google</h3><p>Jede Bewertung ist im Profil der Zucht zu lesen</p></div>
-  <div class="value-card"><h3>⭐ <!--REC-VOTO-->/5</h3><p>Die Durchschnittsbewertung bei Google</p></div>
-  <div class="value-card"><h3>📞 Auch danach</h3><p>Sie erreichen uns das ganze Hundeleben lang</p></div>
-  <div class="value-card"><h3>🏆 Die Linien</h3><p>Elitebull (englisch) und Lackyle (irisch)</p></div>
-  </div>
   </div>
   </section>
   <!--/BLOCCO:3-->

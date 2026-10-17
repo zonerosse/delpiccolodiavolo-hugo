@@ -311,3 +311,12 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .notte-pagina .dark-section .n-righe-scure p{font-style:normal;max-width:none;text-align:left}
 .notte-pagina .dark-section .n-righe-scure .n-percorso{margin-top:0}
 .notte-pagina .dark-section .n-righe-scure p+p{margin-top:1rem}
+/* Recensioni a righe: nome, stelle e data a sinistra, testo a destra (17/10/2026) */
+.notte-pagina .reviews-grid{display:block}
+.notte-pagina .reviews-grid .review-card{display:grid;grid-template-columns:1fr 2fr;grid-template-areas:"h t" "m t";column-gap:3rem;row-gap:.35rem;align-content:start;padding:2rem 0!important;margin:0!important;border:0!important;border-top:1px solid var(--n-ln)!important}
+.notte-pagina .reviews-grid .review-header{grid-area:h;display:flex;flex-direction:column;align-items:flex-start;gap:.3rem;margin:0;padding:0;border:0}
+.notte-pagina .reviews-grid .review-text{grid-area:t;margin:0}
+.notte-pagina .reviews-grid .review-meta{grid-area:m;margin:0}
+.notte-pagina .reviews-grid .review-name{font-size:1.25rem}
+@media(max-width:767px){.notte-pagina .reviews-grid .review-card{grid-template-columns:1fr;grid-template-areas:"h" "t" "m";row-gap:.7rem}}
+.notte-pagina .reviews-grid .review-card{grid-template-rows:auto 1fr}.notte-pagina .reviews-grid .review-header{justify-content:flex-start}.notte-pagina .reviews-grid .review-meta{align-self:start}
