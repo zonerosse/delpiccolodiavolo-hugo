@@ -16,13 +16,13 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Riproduttori Selezionati</span>
+  <span class="hero-eyebrow">I nostri maschi</span>
   <h1 class="hero-title">Maschi <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">Test del DNA: esenti da L2HGA, HC (HSF4) e DM-SOD1</p>
-  <p class="hero-description">I nostri maschi riproduttori sono selezionati per salute, carattere e tipicità. Tutti testati geneticamente e conformi allo standard di razza.</p>
+  <p class="hero-description">Per ogni maschio trovi test genetici, padre, madre e pedigree su SBTPedigree, da controllare da solo.</p>
   <div class="hero-actions">
   <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sui%20maschi" class="btn btn-primary" title="Contattaci su WhatsApp per info maschi">Contattaci</a>
-  <a href="/femmine-staffordshire-bull-terrier/" class="btn btn-ghost" title="Vedi le nostre femmine">Vedi Femmine</a>
+  <a href="/femmine-staffordshire-bull-terrier/" class="btn btn-ghost" title="Vedi le nostre femmine">Vedi le femmine</a>
   </div>
   </div>
   </section>
@@ -34,6 +34,7 @@ custom_content: |
   <span>Lackyle Lines</span>
   <span>L2HGA esente</span>
   <span>HC esente</span>
+  <span>DM-SOD1 esente</span>
   <span>Campioni Italiani</span>
   <span>Pedigree ENCI</span>
   <span>Ostellato FE</span>
@@ -41,6 +42,7 @@ custom_content: |
   <span>Lackyle Lines</span>
   <span>L2HGA esente</span>
   <span>HC esente</span>
+  <span>DM-SOD1 esente</span>
   <span>Campioni Italiani</span>
   <span>Pedigree ENCI</span>
   <span>Ostellato FE</span>
@@ -51,8 +53,8 @@ custom_content: |
   <!--BLOCCO:2-->
   <section class="section section-alt">
   <div class="section-inner">
-  <span class="section-label">I Nostri Maschi</span>
-  <h2 class="section-title">Maschi Riproduttori</h2>
+  <span class="section-label">I nostri maschi</span>
+  <h2 class="section-title">Maschi riproduttori</h2>
 
   <!-- LOTHAR -->
   <article class="male-card male-featured">
@@ -69,10 +71,10 @@ custom_content: |
   <p><strong>Test genetici:</strong> L2HGA esente · HC (HSF4) esente · DM-SOD1 esente · OCD esente</p>
   <p><strong>Displasia:</strong> anche HD B · gomiti ED 0</p>
   <p><strong>Dentatura:</strong> completa, chiusura a forbice</p>
-  <p><strong>Padre:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford" style="color:#8b5a2b;font-weight:700;text-decoration:underline;text-underline-offset:3px" aria-label="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford (si apre in una nuova scheda)">Bullbrothers Hott as Hell &#8599;</a> «HEAT» &mdash; Multi Campione Internazionale, qualificato Crufts, allevamento TheReds Stafford</p>
+  <p><strong>Padre:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford" style="color:#8b5a2b;font-weight:700;text-decoration:underline;text-underline-offset:3px" aria-label="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford (si apre in una nuova scheda)">Bullbrothers Hott as Hell &#8599;</a> «HEAT», Multi Campione Internazionale, qualificato Crufts, allevamento TheReds Stafford</p>
   <p><strong>Madre:</strong> Skilful-dogs Nora</p>
   <p><strong>Proprietario:</strong> Sergio Patrucco</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4554911" target="_blank" rel="noopener" title="Vedi pedigree Lothar su SBTPedigree" aria-label="Vedi Pedigree Completo – Vedi pedigree Lothar su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4554911" target="_blank" rel="noopener" title="Vedi pedigree Lothar su SBTPedigree" aria-label="Vedi pedigree completo – Vedi pedigree Lothar su SBTPedigree (si apre in una nuova scheda)">Vedi pedigree completo →</a>
   <!--ESPOSIZIONI:lothar-->
   </div>
   </div>
@@ -91,9 +93,10 @@ custom_content: |
   <div class="male-info">
   <p><strong>Test genetici:</strong> L2HGA, HC (HSF4) e DM-SOD1 esente, test del DNA</p>
   <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
-  <p><strong>Padre:</strong> Jackie Kennedy Great'n Glory</p>
-  <p><strong>Madre:</strong> Alport The Sandman</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2632698" target="_blank" rel="noopener" title="Vedi pedigree Braveheart su SBTPedigree" aria-label="Vedi Pedigree Completo – Vedi pedigree Braveheart su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
+  <p><strong>Padre:</strong> Alport The Sandman</p>
+  <p><strong>Madre:</strong> Jackie Kennedy Great'n Glory</p>
+  <p><strong>Vive:</strong> a Roma, con la famiglia che lo ha preso da cucciolo</p>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2632698" target="_blank" rel="noopener" title="Vedi pedigree Braveheart su SBTPedigree" aria-label="Vedi pedigree completo – Vedi pedigree Braveheart su SBTPedigree (si apre in una nuova scheda)">Vedi pedigree completo →</a>
   <!--ESPOSIZIONI:braveheart-->
   </div>
   </div>
@@ -111,9 +114,10 @@ custom_content: |
   <div class="male-info">
   <p><strong>Test genetici:</strong> L2HGA, HC (HSF4) e DM-SOD1 esente, test del DNA</p>
   <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
-  <p><strong>Padre:</strong> Jackie Kennedy Great'n Glory</p>
-  <p><strong>Madre:</strong> Alport The Sandman</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2609040" target="_blank" rel="noopener" title="Vedi pedigree Papillon su SBTPedigree" aria-label="Vedi Pedigree Completo – Vedi pedigree Papillon su SBTPedigree (si apre in una nuova scheda)">Vedi Pedigree Completo →</a>
+  <p><strong>Padre:</strong> Alport The Sandman</p>
+  <p><strong>Madre:</strong> Jackie Kennedy Great'n Glory</p>
+  <p><strong>Vive:</strong> a Parma, con la famiglia che lo ha preso da cucciolo</p>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2609040" target="_blank" rel="noopener" title="Vedi pedigree Papillon su SBTPedigree" aria-label="Vedi pedigree completo – Vedi pedigree Papillon su SBTPedigree (si apre in una nuova scheda)">Vedi pedigree completo →</a>
   <!--ESPOSIZIONI:papillon-->
   </div>
   </div>
@@ -126,13 +130,12 @@ custom_content: |
   <!--BLOCCO:3-->
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">Il Nostro Approccio</span>
+  <span class="section-label">Il nostro approccio</span>
   <h2 class="section-title">Etica, salute e selezione responsabile</h2>
 
   <div class="intro-block">
-  <p>Del Piccolo Diavolo non tiene maschi riproduttori di propriet&agrave;, ed &egrave; una scelta. Per ogni accoppiamento <a href="/genitori-visibili-cosa-significa/" title="Genitori visibili: cosa significa">lo stallone viene cercato fuori</a>, fra le linee inglesi Elitebull e irlandesi Lackyle, e scelto per correggere quello che manca alla femmina: se una fattrice ha una testa eccellente e un movimento migliorabile, serve un maschio solido sul movimento, non uno bello quanto lei. Tenere un maschio in casa significherebbe usarlo perch&eacute; c'&egrave;, e chiudere le linee su un solo soggetto. Prima di un accoppiamento chiediamo al proprietario i referti dei test genetici con il numero di microchip sopra, non promesse: se un maschio &egrave; testato per alcune patologie e non per tutte, lo sappiamo prima e lo scriviamo nella pagina di quella cucciolata.</p>
+  <p>Al momento Del Piccolo Diavolo non ha maschi riproduttori di propriet&agrave;. I tre maschi di questa pagina sono nati qui e vivono con le famiglie che li hanno presi da cuccioli. Per ogni accoppiamento <a href="/genitori-visibili-cosa-significa/" title="Genitori visibili: cosa significa">lo stallone viene cercato fuori</a>, fra le linee inglesi Elitebull e irlandesi Lackyle, e scelto per correggere quello che manca alla femmina: se una fattrice ha una testa eccellente e un movimento migliorabile, serve un maschio solido sul movimento, non uno bello quanto lei. Prima di un accoppiamento chiediamo al proprietario i referti dei test genetici con il numero di microchip sopra, non promesse: se un maschio &egrave; testato per alcune patologie e non per tutte, lo sappiamo prima e lo scriviamo nella pagina di quella cucciolata.</p>
 
-  <p>Nel nostro allevamento la <strong>salute genetica</strong> viene prima di tutto. Ogni maschio riproduttore è sottoposto a screening completo prima di entrare nel programma.</p>
   <p style="margin-top:1rem">Un maschio riproduttore pesa molto più di una femmina sul futuro di una linea: una femmina produce 2 o 3 cucciolate in tutta la vita, un maschio può essere padre di decine di cuccioli. Per questo il criterio di ammissione è più severo, non più permissivo.</p>
   <p style="margin-top:1rem">Guardiamo tre cose, in quest'ordine. Il <strong>carattere</strong>: un soggetto insicuro o reattivo non entra nel programma, per quanto sia corretto nella morfologia, perché un difetto caratteriale si propaga per generazioni e si manifesta nelle case delle famiglie. La <strong>respirazione</strong>: un cane che fatica dopo pochi minuti di trotto o soffre al primo caldo ha un problema di benessere, indipendentemente da quanti titoli abbia. E la <strong>tipicità senza esagerazioni</strong>: testa corretta e ossatura solida, ma non a scapito della funzionalità.</p>
   <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">I nostri maschi sono testati per:</p>
@@ -150,7 +153,7 @@ custom_content: |
   <!--BLOCCO:4-->
   <section class="cta-section">
   <h2>Vuoi info sui nostri maschi?</h2>
-  <p>Chiamaci o scrivici su WhatsApp per informazioni sui nostri riproduttori.</p>
+  <p>Scrivici su WhatsApp per sapere dei nostri maschi e delle prossime cucciolate.</p>
   <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sui%20maschi%20Staffordshire%20Bull%20Terrier" class="btn" title="Scrivici su WhatsApp per info maschi">Scrivici su WhatsApp</a>
   </section>
   <!--/BLOCCO:4-->

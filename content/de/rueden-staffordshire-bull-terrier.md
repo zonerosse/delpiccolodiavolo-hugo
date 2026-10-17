@@ -16,13 +16,13 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Ausgewählte Deckrüden</span>
+  <span class="hero-eyebrow">Unsere Rüden</span>
   <h1 class="hero-title">Rüden <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">DNA getestet, frei von L2HGA, HC (HSF4) und DM-SOD1</p>
-  <p class="hero-description">Unsere Deckrüden werden nach Gesundheit, Charakter und Rassetypizität ausgewählt. Alle genetisch getestet und konform mit dem <a href="/de/staffy-rassestandard/" title="Rassestandard des Staffordshire Bull Terrier">Rassestandard</a>.</p>
+  <p class="hero-description">Zu jedem Rüden finden Sie Gentests, Vater, Mutter und Ahnentafel auf SBTPedigree, zum Selbstprüfen, auch am <a href="/de/staffy-rassestandard/" title="Rassestandard des Staffordshire Bull Terrier">Rassestandard</a>.</p>
   <div class="hero-actions">
   <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20möchte%20Infos%20zu%20den%20Rüden" class="btn btn-primary" title="Kontaktieren Sie uns auf WhatsApp">Kontakt</a>
-  <a href="/de/huendinnen-staffordshire-bull-terrier/" class="btn btn-ghost" title="Unsere Hündinnen sehen">Hündinnen Sehen</a>
+  <a href="/de/huendinnen-staffordshire-bull-terrier/" class="btn btn-ghost" title="Unsere Hündinnen sehen">Die Hündinnen ansehen</a>
   </div>
   </div>
   </section>
@@ -30,8 +30,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Elitebull Linien</span><span>Lackyle Linien</span><span>L2HGA Frei</span><span>HC Frei</span><span>Italienische Champions</span><span>ENCI Stammbaum</span>
-  <span>Elitebull Linien</span><span>Lackyle Linien</span><span>L2HGA Frei</span><span>HC Frei</span><span>Italienische Champions</span><span>ENCI Stammbaum</span>
+  <span>Elitebull Linien</span><span>Lackyle Linien</span><span>L2HGA frei</span><span>HC frei</span><span>DM-SOD1 frei</span><span>Italienische Champions</span><span>ENCI Stammbaum</span>
+  <span>Elitebull Linien</span><span>Lackyle Linien</span><span>L2HGA frei</span><span>HC frei</span><span>DM-SOD1 frei</span><span>Italienische Champions</span><span>ENCI Stammbaum</span>
   </div>
   </div>
 
@@ -57,10 +57,10 @@ custom_content: |
   <p><strong>Gentests:</strong> L2HGA frei · HC (HSF4) frei · DM-SOD1 frei · OCD frei</p>
   <p><strong>HD/ED:</strong> Hüften HD B · Ellenbogen ED 0</p>
   <p><strong>Gebiss:</strong> vollständig, Scherengebiss</p>
-  <p><strong>Vater:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford" style="color:#8b5a2b;font-weight:700;text-decoration:underline;text-underline-offset:3px" aria-label="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford (wird in einem neuen Tab geöffnet)">Bullbrothers Hott as Hell &#8599;</a> «HEAT» &mdash; Multi-Internationaler Champion, Crufts-qualifiziert, Zucht TheReds Stafford</p>
+  <p><strong>Vater:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford" style="color:#8b5a2b;font-weight:700;text-decoration:underline;text-underline-offset:3px" aria-label="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford (wird in einem neuen Tab geöffnet)">Bullbrothers Hott as Hell &#8599;</a> «HEAT», Multi-Internationaler Champion, Crufts-qualifiziert, Zucht TheReds Stafford</p>
   <p><strong>Mutter:</strong> Skilful-dogs Nora</p>
   <p><strong>Besitzer:</strong> Sergio Patrucco</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4554911" target="_blank" rel="noopener" title="Stammbaum Lothar auf SBTPedigree" aria-label="Vollständigen Stammbaum Sehen – Stammbaum Lothar auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4554911" target="_blank" rel="noopener" title="Stammbaum Lothar auf SBTPedigree" aria-label="Vollständigen Stammbaum sehen – Stammbaum Lothar auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum sehen →</a>
   <!--ESPOSIZIONI:lothar-->
   </div>
   </div>
@@ -79,9 +79,10 @@ custom_content: |
   <div class="male-info">
   <p><strong>Gentests:</strong> L2HGA, HC (HSF4) & DM-SOD1 frei per DNA</p>
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
-  <p><strong>Vater:</strong> Jackie Kennedy Great'n Glory</p>
-  <p><strong>Mutter:</strong> Alport The Sandman</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2632698" target="_blank" rel="noopener" title="Stammbaum Braveheart auf SBTPedigree" aria-label="Vollständigen Stammbaum Sehen – Stammbaum Braveheart auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
+  <p><strong>Vater:</strong> Alport The Sandman</p>
+  <p><strong>Mutter:</strong> Jackie Kennedy Great'n Glory</p>
+  <p><strong>Lebt:</strong> in Rom, bei der Familie, die ihn als Welpen aufgenommen hat</p>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2632698" target="_blank" rel="noopener" title="Stammbaum Braveheart auf SBTPedigree" aria-label="Vollständigen Stammbaum sehen – Stammbaum Braveheart auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum sehen →</a>
   <!--ESPOSIZIONI:braveheart-->
   </div>
   </div>
@@ -99,9 +100,10 @@ custom_content: |
   <div class="male-info">
   <p><strong>Gentests:</strong> L2HGA, HC (HSF4) & DM-SOD1 frei per DNA</p>
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
-  <p><strong>Vater:</strong> Jackie Kennedy Great'n Glory</p>
-  <p><strong>Mutter:</strong> Alport The Sandman</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2609040" target="_blank" rel="noopener" title="Stammbaum Papillon auf SBTPedigree" aria-label="Vollständigen Stammbaum Sehen – Stammbaum Papillon auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
+  <p><strong>Vater:</strong> Alport The Sandman</p>
+  <p><strong>Mutter:</strong> Jackie Kennedy Great'n Glory</p>
+  <p><strong>Lebt:</strong> in Parma, bei der Familie, die ihn als Welpen aufgenommen hat</p>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2609040" target="_blank" rel="noopener" title="Stammbaum Papillon auf SBTPedigree" aria-label="Vollständigen Stammbaum sehen – Stammbaum Papillon auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum sehen →</a>
   <!--ESPOSIZIONI:papillon-->
   </div>
   </div>
@@ -118,9 +120,7 @@ custom_content: |
   <h2 class="section-title">Ethik, Gesundheit und verantwortungsvolle Selektion</h2>
 
   <div class="intro-block">
-  <p>Del Piccolo Diavolo hält keine eigenen Deckrüden, und das ist eine Entscheidung. Für jede Verpaarung wird <a href="/de/eltern-vor-ort-was-das-bedeutet/" title="&quot;Eltern vor Ort&quot;: was das wirklich bedeutet">der Rüde außerhalb der Zucht gesucht</a>, in den englischen Elitebull- und irischen Lackyle-Linien, und so gewählt, dass er ausgleicht, was der Hündin fehlt: Hat eine Hündin einen ausgezeichneten Kopf und ein verbesserungsfähiges Gangwerk, braucht sie einen Rüden mit solidem Gangwerk, nicht einen, der genauso schön ist wie sie. Einen Rüden im Haus zu halten hieße, ihn einzusetzen, weil er da ist, und die Linien auf einen einzigen Hund zu verengen. Vor einer Verpaarung verlangen wir vom Besitzer die Befunde der Gentests mit der Mikrochipnummer darauf, keine Versprechen: Ist ein Rüde auf einige Erkrankungen getestet und nicht auf alle, wissen wir es vorher und schreiben es auf die Seite des jeweiligen Wurfs.</p>
-
-  <p>In unserer Zucht steht die <strong>genetische Gesundheit</strong> an erster Stelle. Jeder Deckrüde wird vor Aufnahme ins Zuchtprogramm vollständig untersucht.</p>
+  <p>Im Moment hat Del Piccolo Diavolo keine eigenen Deckrüden. Die drei Rüden auf dieser Seite sind hier geboren und leben bei den Familien, die sie als Welpen aufgenommen haben. Für jede Verpaarung wird <a href="/de/eltern-vor-ort-was-das-bedeutet/" title="&quot;Eltern vor Ort&quot;: was das wirklich bedeutet">der Rüde außerhalb der Zucht gesucht</a>, in den englischen Elitebull- und irischen Lackyle-Linien, und so gewählt, dass er ausgleicht, was der Hündin fehlt: Hat eine Hündin einen ausgezeichneten Kopf und ein verbesserungsfähiges Gangwerk, braucht sie einen Rüden mit solidem Gangwerk, nicht einen, der genauso schön ist wie sie. Vor einer Verpaarung verlangen wir vom Besitzer die Befunde der Gentests mit der Mikrochipnummer darauf, keine Versprechen: Ist ein Rüde auf einige Erkrankungen getestet und nicht auf alle, wissen wir es vorher und schreiben es auf die Seite des jeweiligen Wurfs.</p>
   <p style="margin-top:1rem">Ein Deckrüde wiegt für die Zukunft einer Linie weit schwerer als eine Hündin: eine Hündin bringt in ihrem Leben 2 oder 3 Würfe, ein Rüde kann Vater von Dutzenden Welpen sein. Deshalb sind die Anforderungen an ihn höher, nicht niedriger.</p>
   <p style="margin-top:1rem">Wir achten auf drei Dinge, in dieser Reihenfolge. Das <strong>Wesen</strong>: ein unsicherer oder reaktiver Hund kommt nicht ins Programm, so korrekt sein Körperbau auch sein mag, denn ein Wesensfehler vererbt sich über Generationen und zeigt sich in Familien, nicht im Ring. Die <strong>Atmung</strong>: ein Hund, der nach wenigen Minuten Trab Mühe hat oder bei der ersten Wärme leidet, hat ein Wohlbefindensproblem, unabhängig von der Zahl seiner Titel. Und <strong>Typ ohne Übertreibung</strong>: korrekter Kopf und solider Knochen, aber nie auf Kosten der Funktion.</p>
   <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Unsere Rüden sind getestet auf:</p>
@@ -138,7 +138,7 @@ custom_content: |
   <!--BLOCCO:4-->
   <section class="cta-section">
   <h2>Möchten Sie Infos über unsere Rüden?</h2>
-  <p>Rufen Sie uns an oder schreiben Sie uns auf WhatsApp für Informationen über unsere Deckrüden.</p>
+  <p>Schreiben Sie uns auf WhatsApp, um von unseren Rüden und den nächsten Würfen zu erfahren.</p>
   <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20möchte%20Infos%20über%20Staffordshire%20Bull%20Terrier%20Rüden" class="btn" title="Schreiben Sie uns auf WhatsApp">Auf WhatsApp Schreiben</a>
   </section>
   <!--/BLOCCO:4-->
