@@ -1,7 +1,7 @@
 ---
 title: "Palmares - Unsere Ausstellungserfolge"
 date: 2026-01-04
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "palmares"
 description: "Ergebnisse und Titel unserer Staffordshire Bull Terrier: Italienische Champions, Jugendchampions, Best of Breed. Del Piccolo Diavolo Zucht, Italien."
@@ -32,7 +32,7 @@ custom_content: |
   <div>
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
   <h3>ENCI Italienische Schönheitschampionin</h3>
-  <p><strong>4. Platz bei der World Dog Show</strong> - Ein Weltklasse-Ergebnis, auf das wir stolz sind.</p>
+  <p><strong>4. Platz bei der World Dog Show</strong>, Zagreb, April 2024.</p>
   <p><strong>Historischer Rekord:</strong> 14 aufeinanderfolgende Ausstellungen mit Vorzüglich 1. Platz. Italienischer Champion-Titel noch in der Zwischenklasse erreicht, ein Ergebnis, das nur wenige Staffordshire Bull Terrier in Italien vorweisen können.</p>
   </div>
   </div>
@@ -155,8 +155,8 @@ custom_content: |
   <h2 class="section-title">Von uns gezüchtete Champions</h2>
 
   <div class="intro-block">
-  <p>Die von Del Piccolo Diavolo gezüchteten Hunde haben bisher einen Titel als Italienischer Champion, drei als Italienischer Jugendchampion &mdash; Bilquis, Lothar, der auch Slowenischer Champion ist, und Queen of California &mdash; sowie die Titel Jugendchampion und Champion von San Marino errungen, dazu einen vierten Platz auf der World Dog Show mit Bilquis Goddess Diabhal, die vierzehn aufeinanderfolgende Ausstellungen mit Vorzüglich 1 hinter sich hat. Im Mai 2026 holte Queen of California den Titel Italienische Jugendchampionin auf der Nationalen Ausstellung in Albarella. Es sind alles Hunde, die hier geboren und aufgewachsen sind, keine bereits betitelt gekauften. Ausstellungsergebnisse lassen sich nicht selbst bescheinigen: Die Kataloge der Veranstaltungen sind öffentlich, und die Richter, die diese Hunde bewertet haben, haben einen Vor- und Nachnamen. Titel sind aber nur ein Teil: Welches Leben diese Hunde heute führen, erzählen die <a href="/de/staffordshire-in-der-familie-geschichten/" title="Geschichten aus den Familien">Geschichten aus den Familien</a>.</p>
-  <p>Die Selektion von Del Piccolo Diavolo basiert auf drei Säulen: Gesundheit, Charakter und Rassetyp. Ausstellungsergebnisse sind kein Selbstzweck, sondern Bestätigung, dass unsere Zuchtarbeit standardkonforme Hunde hervorbringt. Alle vorgestellten Hunde wurden in unserer Zucht geboren und aufgezogen.</p>
+  <p>Die von Del Piccolo Diavolo gezüchteten Hunde haben bisher einen Titel als Italienischer Champion, drei als Italienischer Jugendchampion (Bilquis, Lothar, der auch Slowenischer Champion ist, und Queen of California) sowie die Titel Jugendchampion und Champion von San Marino errungen, dazu einen vierten Platz auf der World Dog Show mit Bilquis Goddess Diabhal, die vierzehn aufeinanderfolgende Ausstellungen mit Vorzüglich 1 hinter sich hat. Im Mai 2026 holte Queen of California den Titel Italienische Jugendchampionin auf der Nationalen Ausstellung in Albarella. Es sind alles Hunde, die hier geboren und aufgewachsen sind, keine bereits betitelt gekauften. Ausstellungsergebnisse lassen sich nicht selbst bescheinigen: Die Kataloge der Veranstaltungen sind öffentlich, und die Richter, die diese Hunde bewertet haben, haben einen Vor- und Nachnamen. Titel sind aber nur ein Teil: Welches Leben diese Hunde heute führen, erzählen die <a href="/de/staffordshire-in-der-familie-geschichten/" title="Geschichten aus den Familien">Geschichten aus den Familien</a>.</p>
+  <p>Wir selektieren auf Charakter, Gesundheit und Rassetyp, in dieser Reihenfolge. Ausstellungen sind nicht das Ziel: Sie zeigen, wie ein Richter, der nicht der Züchter ist, die Hunde sieht, die bei uns geboren werden. Alle Hunde auf dieser Seite sind hier geboren und aufgewachsen.</p>
   </div>
 
   <div class="palmares-summary" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1rem;margin:2rem 0;text-align:center">
@@ -177,8 +177,8 @@ custom_content: |
   <p style="font-size:0.85rem;margin:0">World Dog Show</p>
   </div>
   <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
-  <p style="font-size:2rem;font-weight:700;margin:0">100%</p>
-  <p style="font-size:0.85rem;margin:0">Vorzüglich</p>
+  <p style="font-size:2rem;font-weight:700;margin:0">19 von 20</p>
+  <p style="font-size:0.85rem;margin:0">erste Plätze von Bilquis (ENCI)</p>
   </div>
   </div>
 
@@ -228,8 +228,8 @@ custom_content: |
   <div>
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem">
   <h3>ENCI Italienischer Jugendchampion</h3>
-  <p><a href="/de/rueden-staffordshire-bull-terrier/" title="Unsere Rüden">Lothar</a> hat den Titel des Italienischen Jugendchampions mit einer beeindruckenden Serie von Ergebnissen in der Jugendklasse gewonnen. Jetzt in der Zwischenklasse, setzt er seine Ausstellungskarriere fort.</p>
-  <p><strong>Januar 2026:</strong> neuer Slowenischer Champion. Ein außergewöhnliches Wochenende auf den internationalen Ausstellungen in Vrtojba mit 3 × Vorzüglich 1, womit der slowenische Titel vollständig ist.</p>
+  <p><a href="/de/rueden-staffordshire-bull-terrier/" title="Unsere Rüden">Lothar</a> hat den Titel des Italienischen Jugendchampions mit einer Serie von ersten Plätzen in der Jugendklasse gewonnen. Danach ging es in der Zwischenklasse weiter, in Italien und in Slowenien.</p>
+  <p><strong>Januar 2026:</strong> Slowenischer Champion. Auf den internationalen Ausstellungen in Vrtojba, an einem Wochenende, dreimal Vorzüglich 1 und damit der Titel komplett.</p>
 
   <h3 style="margin-top:2rem;margin-bottom:1rem">Vollständige Ergebnisse</h3>
 
@@ -341,7 +341,7 @@ custom_content: |
   <div>
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
   <h3>Italienische Jugendchampionin 2026</h3>
-  <p>In Albarella (RO), am 17. Mai 2026, gewann Queen in der Jugendklasse Vorzüglich 1. mit JCAC, JBOB und BOB, ausgezeichnet als Bester Staffordshire Bull Terrier der kynologischen Gruppe Polesano — Titel Italienische Jugendchampionin. Ein Versprechen, das unsere Selektion bestätigt.</p>
+  <p>In Albarella (RO), am 17. Mai 2026, gewann Queen in der Jugendklasse Vorzüglich 1. mit JCAC, JBOB und BOB, ausgezeichnet als Bester Staffordshire Bull Terrier der kynologischen Gruppe Polesano — Titel Italienische Jugendchampionin.</p>
   </div>
   </div>
   </div>
@@ -366,7 +366,7 @@ custom_content: |
   <!--BLOCCO:8-->
   <section class="dark-section">
   <h2>Selektion, die man sieht</h2>
-  <p>Ausstellungsergebnisse bestätigen unser Engagement: typische, gesunde Hunde mit ausgeglichenem Charakter. Wir kaufen keine bereits titulierten Hunde: wir züchten sie, ziehen sie auf, stellen sie aus. Das ist der Unterschied. Über Bilquis hat am 6. Januar 2026 auch das Ferrareser Nachrichtenportal <a href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" target="_blank" rel="noopener" aria-label="Artikel von FerraraToday über Bilquis (wird in einem neuen Tab geöffnet)">FerraraToday</a> berichtet.</p>
+  <p>Wir kaufen keine Hunde, die schon Titel haben: Sie werden bei uns geboren, wachsen hier auf und wir führen sie in den Ring. Über Bilquis hat am 6. Januar 2026 auch das Ferrareser Nachrichtenportal <a href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" target="_blank" rel="noopener" aria-label="Artikel von FerraraToday über Bilquis (wird in einem neuen Tab geöffnet)">FerraraToday</a> berichtet.</p>
   <a href="/de/huendinnen-staffordshire-bull-terrier/" class="btn" title="Unsere Hündinnen ansehen">Unsere Hunde entdecken</a>
   </section>
   <!--/BLOCCO:8-->
@@ -381,9 +381,9 @@ custom_content: |
   <!--BLOCCO:9-->
   <section class="cta-section">
   <h2>Möchten Sie einen Welpen aus Siegerlinien?</h2>
-  <p>Unsere Welpen werden von getesteten und titulierten Eltern geboren. Kontaktieren Sie uns für Informationen über kommende Würfe.</p>
+  <p>Unsere Welpen stammen von getesteten Eltern, und die Hunde auf dieser Seite sind ihre Eltern oder Großeltern. Schreiben Sie uns auf WhatsApp, um von den nächsten Würfen zu erfahren.</p>
 
-  <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20interessiere%20mich%20fur%20Welpen%20aus%20Championlinien" class="btn" title="Schreiben Sie uns auf WhatsApp">Auf WhatsApp Schreiben</a>
+  <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20interessiere%20mich%20fur%20Welpen%20aus%20Championlinien" class="btn" title="Schreiben Sie uns auf WhatsApp">Auf WhatsApp schreiben</a>
   </section>
   <!--/BLOCCO:9-->
 ---

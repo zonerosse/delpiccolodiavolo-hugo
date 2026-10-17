@@ -2,7 +2,7 @@
 title: "Palmares Staffordshire Bull Terrier"
 titleSeo: "Palmares: campioni italiani e internazionali dal 2013"
 date: 2026-01-04
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "palmares"
 description: "Risultati e titoli dei nostri Staffordshire Bull Terrier: Campioni Italiani, Giovani Campioni, Best of Breed. Allevamento Del Piccolo Diavolo, Emilia-Romagna."
@@ -11,7 +11,7 @@ custom_content: |
   <!--BLOCCO:1-->
   <section class="page-hero">
   <h1>Palmares Staffordshire Bull Terrier — Del Piccolo Diavolo</h1>
-  <p>I cani allevati da Del Piccolo Diavolo hanno ottenuto finora un titolo di Campione Italiano, tre di Giovane Campione Italiano &mdash; Bilquis, Lothar, che è anche Campione Sloveno, e Queen of California &mdash; e i titoli di Giovane Campionessa e Campionessa di San Marino, oltre a un quarto posto al World Dog Show con Bilquis Goddess Diabhal, che ha alle spalle quattordici esposizioni consecutive con Eccellente primo. Nel maggio 2026 Queen of California ha conquistato il titolo di Giovane Campionessa Italiana all'Esposizione Nazionale di Albarella. Sono tutti cani nati e cresciuti qui, non acquistati già titolati. I risultati in esposizione non sono autocertificabili: i cataloghi delle manifestazioni sono pubblici e i giudici che hanno valutato questi cani hanno un nome e un cognome. I titoli per&ograve; sono solo una parte: che vita facciano oggi questi cani lo raccontiamo nelle <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">storie delle famiglie</a>.</p>
+  <p>I cani allevati da Del Piccolo Diavolo hanno ottenuto finora un titolo di Campione Italiano, tre di Giovane Campione Italiano (Bilquis, Lothar, che &egrave; anche Campione Sloveno, e Queen of California) e i titoli di Giovane Campionessa e Campionessa di San Marino, oltre a un quarto posto al World Dog Show con Bilquis Goddess Diabhal, che ha alle spalle quattordici esposizioni consecutive con Eccellente primo. Nel maggio 2026 Queen of California ha conquistato il titolo di Giovane Campionessa Italiana all'Esposizione Nazionale di Albarella. Sono tutti cani nati e cresciuti qui, non acquistati già titolati. I risultati in esposizione non sono autocertificabili: i cataloghi delle manifestazioni sono pubblici e i giudici che hanno valutato questi cani hanno un nome e un cognome. I titoli per&ograve; sono solo una parte: che vita facciano oggi questi cani lo raccontiamo nelle <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">storie delle famiglie</a>.</p>
 
   <p>I risultati dei nostri Staffordshire Bull Terrier sui ring italiani e internazionali</p>
   </section>
@@ -72,13 +72,13 @@ custom_content: |
   <div>
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
   <h3>Campionessa Italiana di Bellezza ENCI</h3>
-  <p><strong>4° classificata al World Dog Show</strong> - Un risultato di livello mondiale che ci riempie di orgoglio.</p>
+  <p><strong>4° classificata al World Dog Show</strong>, Zagabria, aprile 2024.</p>
   <p><strong>Record storico:</strong> 14 esposizioni consecutive con qualifica Eccellente 1° classificata. Titolo di Campionessa Italiana ottenuto ancora in Classe Intermedia, un risultato che pochi Staffordshire Bull Terrier possono vantare in Italia.</p>
   </div>
   </div>
   </div>
 
-  <h3 style="margin-top:2rem;margin-bottom:1rem">Risultati Completi</h3>
+  <h3 style="margin-top:2rem;margin-bottom:1rem">Risultati completi</h3>
 
   <div class="risultati-grid" style="display:grid;gap:0.75rem">
 
@@ -191,11 +191,11 @@ custom_content: |
   <!--BLOCCO:5-->
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">I Nostri Risultati</span>
-  <h2 class="section-title">Campioni Allevati da Noi</h2>
+  <span class="section-label">I nostri risultati</span>
+  <h2 class="section-title">Campioni allevati da noi</h2>
 
   <div class="intro-block">
-  <p>La selezione Del Piccolo Diavolo si basa su tre pilastri: salute, carattere e tipicità. I risultati ottenuti in esposizione non sono un fine, ma la conferma che il nostro lavoro di selezione produce soggetti conformi allo standard di razza. Tutti i cani presentati sono nati e cresciuti nel nostro allevamento.</p>
+  <p>Selezioniamo per carattere, salute e tipicit&agrave;, in quest'ordine. Le esposizioni non sono il fine: dicono come un giudice, che non &egrave; l'allevatore, vede i cani che facciamo nascere. Tutti i cani di questa pagina sono nati e cresciuti qui.</p>
   </div>
 
   <div class="palmares-summary" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1rem;margin:2rem 0;text-align:center">
@@ -216,8 +216,8 @@ custom_content: |
   <p style="font-size:0.85rem;margin:0">World Dog Show</p>
   </div>
   <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
-  <p style="font-size:2rem;font-weight:700;margin:0">100%</p>
-  <p style="font-size:0.85rem;margin:0">Eccellente</p>
+  <p style="font-size:2rem;font-weight:700;margin:0">19 su 20</p>
+  <p style="font-size:0.85rem;margin:0">primi posti di Bilquis (ENCI)</p>
   </div>
   </div>
 
@@ -267,13 +267,13 @@ custom_content: |
   <div>
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
   <h3>Giovane Campione Italiano ENCI + Campione Sloveno 🇸🇮</h3>
-  <p><a href="/maschi-staffordshire-bull-terrier/" title="I nostri maschi">Lothar</a> ha conquistato il titolo di Giovane Campione Italiano con una serie impressionante di risultati in Classe Giovani. Ora in Classe Intermedia, continua a collezionare successi nei ring di tutta Europa.</p>
-  <p><strong>Gennaio 2026:</strong> Nuovo Campione Sloveno. Weekend straordinario alle esposizioni internazionali di Vrtojba con 3 Eccellente 1°, completando il titolo sloveno.</p>
+  <p><a href="/maschi-staffordshire-bull-terrier/" title="I nostri maschi">Lothar</a> ha conquistato il titolo di Giovane Campione Italiano con una serie di primi posti in Classe Giovani. Poi ha continuato in Classe Intermedia, in Italia e in Slovenia.</p>
+  <p><strong>Gennaio 2026:</strong> Campione Sloveno. Alle esposizioni internazionali di Vrtojba, in un fine settimana, tre volte Eccellente 1° e il titolo completato.</p>
   </div>
   </div>
   </div>
 
-  <h3 style="margin-top:2rem;margin-bottom:1rem">Risultati Completi</h3>
+  <h3 style="margin-top:2rem;margin-bottom:1rem">Risultati completi</h3>
 
   <div class="risultati-grid" style="display:grid;gap:0.75rem">
 
@@ -369,9 +369,9 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <section class="dark-section">
-  <h2>Selezione che si Vede</h2>
-  <p>I risultati in esposizione confermano il nostro impegno: soggetti tipici, sani, con carattere equilibrato. Non compriamo cani già titolati: li alleviamo, li cresciamo, li portiamo in ring. Questa è la differenza. Di Bilquis ha scritto anche <a href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" target="_blank" rel="noopener" aria-label="Articolo di FerraraToday su Bilquis (si apre in una nuova scheda)">FerraraToday</a>, il 6 gennaio 2026.</p>
-  <a href="/femmine-staffordshire-bull-terrier/" class="btn" title="Vedi le nostre femmine">Scopri i Nostri Cani</a>
+  <h2>Selezione che si vede</h2>
+  <p>Non compriamo cani gi&agrave; titolati: li facciamo nascere, li cresciamo e li portiamo in ring. Di Bilquis ha scritto anche <a href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" target="_blank" rel="noopener" aria-label="Articolo di FerraraToday su Bilquis (si apre in una nuova scheda)">FerraraToday</a>, il 6 gennaio 2026.</p>
+  <a href="/femmine-staffordshire-bull-terrier/" class="btn" title="Vedi le nostre femmine">Scopri i nostri cani</a>
   </section>
   <!--/BLOCCO:8-->
 
@@ -385,7 +385,7 @@ custom_content: |
   <!--BLOCCO:9-->
   <section class="cta-section">
   <h2>Vuoi un cucciolo da linee vincenti?</h2>
-  <p>I nostri cuccioli nascono da genitori testati e titolati. Contattaci per conoscere le prossime cucciolate.</p>
+  <p>I nostri cuccioli nascono da genitori testati, e i cani di questa pagina sono i loro genitori o i loro nonni. Scrivici su WhatsApp per sapere delle prossime cucciolate.</p>
   <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20sono%20interessato%20ai%20cuccioli%20da%20linee%20campioni" class="btn" title="Scrivici su WhatsApp">Scrivici su WhatsApp</a>
   </section>
   <!--/BLOCCO:9-->
