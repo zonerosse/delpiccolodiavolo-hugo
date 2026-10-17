@@ -1,7 +1,7 @@
 ---
 title: "Kontakt – Staffordshire Bull Terrier Zucht"
 date: 2025-12-28
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 tipoPagina: "ContactPage"
 translationKey: "contatti"
 description: "Kontakt zur Zucht Del Piccolo Diavolo in Ostellato (Ferrara), Emilia-Romagna: Staffordshire Bull Terrier, Besuche nach Vereinbarung, erreichbar per WhatsApp."
@@ -17,8 +17,8 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Ostellato, Ferrara - Italien</span>
   <h1 class="hero-title">Besuchen <br><em>Sie uns</em></h1>
-  <p class="hero-subtitle">Im Herzen Norditaliens</p>
-  <p class="hero-description">Gut erreichbar aus der Emilia-Romagna, Venetien, der Lombardei und der Toskana. Besuche nur nach Vereinbarung.</p>
+  <p class="hero-subtitle">Ostellato, Provinz Ferrara, Italien</p>
+  <p class="hero-description">Familien kommen aus ganz Italien und aus dem Ausland. Besuche nur nach Vereinbarung.</p>
   <div class="hero-actions">
   <a href="/wa/393924635584" class="btn btn-primary" title="Schreiben Sie uns auf WhatsApp">Kontakt</a>
   <a href="tel:+393924635584" class="btn btn-ghost" title="Rufen Sie uns an">Anrufen</a>
@@ -29,8 +29,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Seit 2013</span><span>Ostellato (FE)</span><span>Nur nach Vereinbarung</span><span>WhatsApp aktiv</span><span>Eigener Parkplatz</span>
-  <span>Seit 2013</span><span>Ostellato (FE)</span><span>Nur nach Vereinbarung</span><span>WhatsApp aktiv</span><span>Eigener Parkplatz</span>
+  <span>Seit 2013</span><span>Ostellato (FE)</span><span>Nur nach Vereinbarung</span><span>WhatsApp aktiv</span><span>Parkplatz 30 Meter entfernt</span>
+  <span>Seit 2013</span><span>Ostellato (FE)</span><span>Nur nach Vereinbarung</span><span>WhatsApp aktiv</span><span>Parkplatz 30 Meter entfernt</span>
   </div>
   </div>
 
@@ -81,8 +81,8 @@ custom_content: |
   <div class="story-text">
   <h3>Via Amerigo Chierici, 12, Ostellato (FE)</h3>
   <p>Wir liegen mitten im Park des Po-Deltas, auf halbem Weg zwischen Ferrara und der Adria.</p>
-  <p>Von ganz Norditalien aus gut zu erreichen: 25 Minuten von Ferrara, eine Stunde von Bologna, Padua und Ravenna.</p>
-  <p>Die Zucht hat einen eigenen Parkplatz und große Grünflächen, auf denen unsere Staffys frei aufwachsen. Wer wir sind und wie wir arbeiten, steht auf der Seite <a href="/de/ueber-uns/" title="Über uns – der Züchter hinter Del Piccolo Diavolo">Über uns</a>; einen Überblick über die <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Staffordshire Bull Terrier Zucht Del Piccolo Diavolo</a> gibt die Startseite.</p>
+  <p>Ferrara ist 25 Minuten entfernt, Bologna und Ravenna etwa eine Stunde, Padua eine Stunde und zehn Minuten.</p>
+  <p>30 Meter vom Tor entfernt gibt es einen großen asphaltierten Parkplatz. Drinnen ist der Hof mit Gras, in dem die Welpen aufwachsen. Wer wir sind und wie wir arbeiten, steht auf der Seite <a href="/de/ueber-uns/" title="Über uns – der Züchter hinter Del Piccolo Diavolo">Über uns</a>; einen Überblick über die <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Staffordshire Bull Terrier Zucht Del Piccolo Diavolo</a> gibt die Startseite.</p>
   </div>
   <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo — Staffordshire Bull Terrier" class="story-img" width="350" height="354" loading="lazy" decoding="async">
   </div>
@@ -102,13 +102,13 @@ custom_content: |
   <!--BLOCCO:4-->
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">Einzugsgebiet</span>
+  <span class="section-label">Woher die Familien kommen</span>
   <h2 class="section-title">Woher die Liebhaber der Rasse kommen</h2>
-  <p style="color:#4a3f35;margin-bottom:1.5rem">Zu uns kommen Familien aus ganz Nord- und Mittelitalien und, immer häufiger, auch von jenseits der Grenze. Aus diesen Städten erhalten wir regelmäßig Besuch:</p>
+  <p style="color:#4a3f35;margin-bottom:1.5rem">Zu uns kommen Familien aus ganz Italien, bis aus Neapel und Lecce, und immer häufiger aus dem Ausland. Das sind die nächsten Städte, mit der Fahrzeit im Auto:</p>
 
   <div class="zones-section">
   <div class="zone-row">
-  <span class="zone-name">Emilia Romagna</span>
+  <span class="zone-name">Emilia-Romagna</span>
   <div class="zone-cities">
   <span class="zone-city">Ferrara 25 min</span>
   <span class="zone-city">Bologna 1h</span>
@@ -202,7 +202,7 @@ custom_content: |
   <img src="/images/cucciolo-rosso.webp" alt="Staffordshire Bull Terrier Welpe" class="story-img" width="350" height="400" loading="lazy" decoding="async">
   <div class="story-text">
   <h3>Warum persönlich kommen</h3>
-  <p>Ein Staffordshire Bull Terrier begleitet Sie zwölf bis fünfzehn Jahre. Diese Entscheidung ist eine Reise wert.</p>
+  <p>Ein Staffordshire Bull Terrier lebt im Durchschnitt zwölf bis vierzehn Jahre. Diese Entscheidung ist eine Reise wert.</p>
   <p>Sie sehen, wie die Welpen aufwachsen, lernen die Eltern kennen, beurteilen ihr Wesen selbst und sehen das Haus, in dem sie leben. Kein Foto und kein Videoanruf ersetzt es, im selben Raum zu stehen.</p>
   <p>Das gilt umso mehr, wenn Sie in einem anderen Land leben: Es ist die einzige Gelegenheit, alles persönlich zu prüfen, was Sie auf einem Bildschirm gelesen haben.</p>
   </div>
@@ -258,7 +258,7 @@ custom_content: |
   <!--BLOCCO:7-->
   <section class="dark-section">
   <h2>Wir erwarten Sie</h2>
-  <p>Lernen Sie unsere Staffordshire Bull Terrier und die Umgebung kennen, in der sie aufwachsen. Ein Besuch ist der erste Schritt zu einer informierten Entscheidung.</p>
+  <p>Schreiben Sie uns auf WhatsApp, und wir vereinbaren einen Besuch in Ostellato: Sie sehen die Hunde, das Haus und den Hof.</p>
   <a href="/wa/393924635584" class="btn" title="Einen Besuch auf WhatsApp vereinbaren">Auf WhatsApp vereinbaren</a>
   </section>
   <!--/BLOCCO:7-->

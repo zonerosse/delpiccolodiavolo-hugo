@@ -20,7 +20,7 @@ custom_content: |
   <span class="hero-eyebrow">Ostellato, Ferrara</span>
   <h1 class="hero-title">Allevamento <br><em>Staffordshire</em> <br>Bull Terrier <br>in Emilia-Romagna</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo – Dal 2013</p>
-  <p class="hero-description">Selezioniamo Staffordshire Bull Terrier da linee inglesi e irlandesi nel cuore dell'Emilia-Romagna, a Ostellato (FE). Raggiungibile da tutto il Nord e Centro Italia.</p>
+  <p class="hero-description">Allevamento di Staffordshire Bull Terrier a Ostellato (FE), in Emilia-Romagna, su linee inglesi e irlandesi. Si viene su appuntamento, da tutta Italia.</p>
   <div class="hero-actions">
   <a href="/wa/393924635584" class="btn btn-primary" title="Scrivici su WhatsApp">Scrivici</a>
   <a href="tel:+393924635584" class="btn btn-ghost" title="Chiamaci">Chiama</a>
@@ -31,8 +31,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Dal 2013</span><span>Ostellato (FE)</span><span>Solo su Appuntamento</span><span>WhatsApp Attivo</span><span>Parcheggio Privato</span>
-  <span>Dal 2013</span><span>Ostellato (FE)</span><span>Solo su Appuntamento</span><span>WhatsApp Attivo</span><span>Parcheggio Privato</span>
+  <span>Dal 2013</span><span>Ostellato (FE)</span><span>Solo su appuntamento</span><span>WhatsApp attivo</span><span>Parcheggio a 30 metri</span>
+  <span>Dal 2013</span><span>Ostellato (FE)</span><span>Solo su appuntamento</span><span>WhatsApp attivo</span><span>Parcheggio a 30 metri</span>
   </div>
   </div>
 
@@ -76,14 +76,14 @@ custom_content: |
   <!--BLOCCO:3-->
   <section class="section section-alt">
   <div class="section-inner">
-  <span class="section-label">L'Allevamento</span>
+  <span class="section-label">L'allevamento</span>
   <h2 class="section-title">Un allevamento serio in Emilia-Romagna</h2>
   <div class="intro-block" style="max-width:800px;text-align:left">
-  <p>L'allevamento Del Piccolo Diavolo si trova a Ostellato, in provincia di Ferrara, in Emilia-Romagna, e riceve esclusivamente su appuntamento. La visita serve a vedere i cani adulti, <a href="/genitori-visibili-cosa-significa/" title="Genitori visibili: cosa significa">la madre della cucciolata</a> e il posto dove i cuccioli crescono, e a controllare di persona pedigree e referti dei test genetici. Ostellato &egrave; raggiungibile in circa un'ora da Bologna e da Ravenna, in due da Verona e Padova, in tre da Milano e Firenze. I cuccioli non vengono spediti con corrieri n&eacute; consegnati a met&agrave; strada: chi ne prende uno viene qui. Per chi scrive dall'estero in inglese, tedesco o spagnolo c'&egrave; un secondo recapito telefonico dedicato.</p>
+  <p>L'allevamento Del Piccolo Diavolo si trova a Ostellato, in provincia di Ferrara, in Emilia-Romagna, e riceve esclusivamente su appuntamento. La visita serve a vedere i cani adulti, <a href="/genitori-visibili-cosa-significa/" title="Genitori visibili: cosa significa">la madre della cucciolata</a> e il posto dove i cuccioli crescono, e a controllare di persona pedigree e referti dei test genetici. Ostellato &egrave; a circa un'ora da Bologna e da Ravenna, a meno di un'ora e mezza da Padova e Verona, a due ore e mezza da Milano. I cuccioli non vengono spediti con corrieri n&eacute; consegnati a met&agrave; strada: chi ne prende uno viene qui. Per chi scrive dall'estero c'&egrave; mia figlia Sara, che parla inglese, tedesco e spagnolo: <strong>+39 377 689 6955</strong>.</p>
 
-  <p>Del Piccolo Diavolo è uno dei pochi <a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamenti di Staffordshire Bull Terrier</a> in Emilia-Romagna con un programma di selezione strutturato e documentato. Attivo dal 2013 a Ostellato, in provincia di Ferrara, lavoriamo esclusivamente con linee di sangue inglesi (Elitebull) e irlandesi (Lackyle), scelte per <a href="/standard-tipicita-morfologia/" title="Staffordshire Bull Terrier: tipicità di razza e morfologia">tipicità</a>, salute e carattere.</p>
-  <p>Dal 2013 abbiamo prodotto 1 Campione Italiano, 3 Giovani Campioni Italiani e un 4° posto al World Dog Show e decine di soggetti inseriti con successo in famiglie di tutta Italia. Ogni riproduttore è testato per L2HGA e HC, e i nostri cani sono esenti anche dalla mielopatia degenerativa (DM-SOD1): le tre principali patologie ereditarie della razza con un test del DNA.</p>
-  <p>Non siamo un allevamento commerciale: produciamo 1-2 cucciolate all'anno, seguite con attenzione dalla nascita all'affido. Chi sceglie Del Piccolo Diavolo non compra un cane: entra in una relazione che dura per tutta la vita dell'animale.</p>
+  <p>Del Piccolo Diavolo &egrave; un <a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento di Staffordshire Bull Terrier</a> attivo dal 2013 a Ostellato, in provincia di Ferrara. Lavoriamo con linee di sangue inglesi (Elitebull) e irlandesi (Lackyle), scelte per <a href="/standard-tipicita-morfologia/" title="Staffordshire Bull Terrier: tipicità di razza e morfologia">tipicit&agrave;</a>, salute e carattere.</p>
+  <p>I cani allevati qui hanno ottenuto 1 titolo di Campione Italiano, 3 di Giovane Campione Italiano e un 4&deg; posto al World Dog Show. Ogni riproduttore &egrave; testato per L2HGA e HC, e i nostri cani sono esenti anche dalla mielopatia degenerativa (DM-SOD1): sono le tre malattie ereditarie della razza che hanno un test del DNA.</p>
+  <p>Facciamo una cucciolata l'anno, occasionalmente due, a volte nessuna. Ogni cucciolo lo seguiamo dalla nascita all'affido, e anche dopo, per tutta la vita del cane.</p>
   <p>Per conoscere nel dettaglio il nostro metodo di lavoro, visita la pagina <a href="/chi-siamo/" title="Chi siamo - Allevamento Del Piccolo Diavolo">chi siamo</a>.</p>
   </div>
   </div>
@@ -93,15 +93,15 @@ custom_content: |
   <!--BLOCCO:4-->
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">L'Allevamento</span>
+  <span class="section-label">Dove siamo</span>
   <h2 class="section-title">Dove siamo</h2>
 
   <div class="story-block" style="grid-template-columns:1fr">
   <div class="story-text">
   <h3>Via Amerigo Chierici, 12, Ostellato (FE)</h3>
   <p>Siamo nel cuore del Parco del Delta del Po, a metà strada tra Ferrara e il mare Adriatico.</p>
-  <p>Una posizione strategica che ci rende facilmente raggiungibili da tutto il Nord Italia: a 25 minuti da Ferrara, 1 ora da Bologna, Padova e Ravenna.</p>
-  <p>L'allevamento dispone di parcheggio privato e ampi spazi verdi dove i nostri Staffy crescono in libertà.</p>
+  <p>Ferrara &egrave; a 25 minuti, Bologna e Ravenna a circa un'ora, Padova a un'ora e dieci.</p>
+  <p>A 30 metri dal cancello c'&egrave; un ampio parcheggio asfaltato. Dentro c'&egrave; il cortile con l'erba dove crescono i cuccioli.</p>
   </div>
   <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo — Staffordshire Bull Terrier" class="story-img" width="350" height="354" loading="lazy" decoding="async">
   </div>
@@ -109,7 +109,7 @@ custom_content: |
   <div class="story-block reverse">
   <div class="story-text">
   <h3>Visite solo su appuntamento</h3>
-  <p>Per garantire la tranquillità dei cani e dedicarvi il tempo necessario, riceviamo esclusivamente su appuntamento.</p>
+  <p>Riceviamo solo su appuntamento, cos&igrave; i cani stanno tranquilli e abbiamo tutto il tempo per voi.</p>
   <p>Durante la visita potrete conoscere i genitori, vedere l'ambiente in cui crescono i cuccioli, visionare i certificati dei test genetici e fare tutte le domande che desiderate.</p>
   <p>Contattateci via WhatsApp per fissare un incontro.</p>
   </div>
@@ -121,13 +121,13 @@ custom_content: |
   <!--BLOCCO:5-->
   <section class="section section-alt">
   <div class="section-inner">
-  <span class="section-label">Zone Servite</span>
+  <span class="section-label">Da dove si viene</span>
   <h2 class="section-title">Da dove vengono gli appassionati della razza</h2>
-  <p style="color:#4a3f35;margin-bottom:1.5rem">Accogliamo famiglie da tutto il Nord e Centro Italia. Ecco le principali città da cui riceviamo visite regolarmente:</p>
+  <p style="color:#4a3f35;margin-bottom:1.5rem">Vengono famiglie da tutta Italia, anche da Napoli e da Lecce. Queste sono le citt&agrave; pi&ugrave; vicine, con il tempo di viaggio in auto:</p>
 
   <div class="zones-section">
   <div class="zone-row">
-  <span class="zone-name">Emilia Romagna</span>
+  <span class="zone-name">Emilia-Romagna</span>
   <div class="zone-cities">
   <span class="zone-city">Ferrara 25 min</span>
   <span class="zone-city">Bologna 1h</span>
@@ -184,7 +184,7 @@ custom_content: |
   <img src="/images/cucciolo-rosso.webp" alt="Cucciolo Staffordshire Bull Terrier" class="story-img" width="350" height="400" loading="lazy" decoding="async">
   <div class="story-text">
   <h3>Perché venire di persona</h3>
-  <p>Uno Staffordshire Bull Terrier vi accompagnerà per 12-15 anni. È una scelta importante che merita una visita di persona.</p>
+  <p>Uno Staffordshire Bull Terrier vive in media 12-14 anni. &Egrave; una scelta che merita una visita di persona.</p>
   <p>Vedrete come crescono i cuccioli, conoscerete i genitori, valuterete il loro carattere e l'ambiente in cui vivono. Nessuna foto o video può sostituire l'incontro dal vivo.</p>
   <p>Se venite da lontano e volete fermarvi, possiamo consigliarvi agriturismi e B&B nelle vicinanze.</p>
   </div>
@@ -206,12 +206,12 @@ custom_content: |
 
   <div class="faq-item">
   <h3>Vale la pena venire da Milano o Firenze?</h3>
-  <p>Assolutamente sì. Molte famiglie da Lombardia e Toscana ci raggiungono in 2-2,5 ore, visitano l'allevamento e tornano in giornata. È un investimento importante, merita una visita.</p>
+  <p>S&igrave;. Molte famiglie dalla Lombardia e dalla Toscana arrivano in due ore, due ore e mezza, vedono l'allevamento e tornano a casa in giornata. Un cane resta con voi per molti anni: vale qualche ora di viaggio.</p>
   </div>
 
   <div class="faq-item">
   <h3>Consegnate i cuccioli a domicilio?</h3>
-  <p>Preferiamo che veniate a conoscere l'allevamento. Per chi ha difficoltà logistiche, possiamo valutare insieme la soluzione migliore.</p>
+  <p>No. Chi prende un cucciolo viene a Ostellato: cos&igrave; vede la madre, la casa e il posto dove &egrave; cresciuto. Non spediamo cani e non li consegnamo a met&agrave; strada.</p>
   </div>
 
   <div class="faq-item">
@@ -237,7 +237,7 @@ custom_content: |
   <!--BLOCCO:7-->
   <section class="dark-section">
   <h2>Ti aspettiamo</h2>
-  <p>Vieni a conoscere i nostri Staffordshire Bull Terrier e l'ambiente in cui crescono. La visita è il primo passo per una scelta consapevole.</p>
+  <p>Scrivici su WhatsApp e fissiamo una visita a Ostellato, per vedere i cani, la casa e il cortile.</p>
   <a href="/wa/393924635584" class="btn btn-gold" title="Concorda una visita su WhatsApp">Concorda su WhatsApp</a>
   </section>
   <!--/BLOCCO:7-->

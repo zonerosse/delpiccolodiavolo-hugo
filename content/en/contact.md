@@ -1,7 +1,7 @@
 ---
 title: "Staffy breeder in Emilia-Romagna, Italy: Ostellato (FE)"
 date: 2025-12-28
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 tipoPagina: "ContactPage"
 translationKey: "contatti"
 description: "Contact Del Piccolo Diavolo kennel in Ostellato (FE), Italy. Visits by appointment, WhatsApp, phone. Reachable from Ferrara, Bologna, Milan, Venice, Florence."
@@ -17,8 +17,8 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Ostellato, Ferrara - Italy</span>
   <h1 class="hero-title">Come <br><em>visit us</em></h1>
-  <p class="hero-subtitle">In the heart of Northern Italy</p>
-  <p class="hero-description">Strategic location easily reachable from Emilia Romagna, Veneto, Lombardy and Tuscany. Visits by appointment only.</p>
+  <p class="hero-subtitle">Ostellato, province of Ferrara, Italy</p>
+  <p class="hero-description">Families come from all over Italy and from abroad. Visits by appointment only.</p>
   <div class="hero-actions">
   <a href="/wa/393924635584" class="btn btn-primary" title="Write us on WhatsApp">Contact Us</a>
   <a href="tel:+393924635584" class="btn btn-ghost" title="Call us">Call</a>
@@ -29,8 +29,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Since 2013</span><span>Ostellato (FE)</span><span>By Appointment Only</span><span>WhatsApp Active</span><span>Private Parking</span>
-  <span>Since 2013</span><span>Ostellato (FE)</span><span>By Appointment Only</span><span>WhatsApp Active</span><span>Private Parking</span>
+  <span>Since 2013</span><span>Ostellato (FE)</span><span>By appointment only</span><span>WhatsApp active</span><span>Parking 30 metres away</span>
+  <span>Since 2013</span><span>Ostellato (FE)</span><span>By appointment only</span><span>WhatsApp active</span><span>Parking 30 metres away</span>
   </div>
   </div>
 
@@ -74,15 +74,15 @@ custom_content: |
   <!--BLOCCO:3-->
   <section class="section section-alt">
   <div class="section-inner">
-  <span class="section-label">The Kennel</span>
+  <span class="section-label">The kennel</span>
   <h2 class="section-title">Where we are</h2>
 
   <div class="story-block" style="grid-template-columns:1fr">
   <div class="story-text">
   <h3>Via Amerigo Chierici, 12, Ostellato (FE)</h3>
   <p>We are in the heart of the Po Delta Park, halfway between Ferrara and the Adriatic Sea.</p>
-  <p>A strategic location that makes us easily reachable from all of Northern Italy: 25 minutes from Ferrara, 1 hour from Bologna, Padua and Ravenna.</p>
-  <p>The kennel has private parking and large green spaces where our Staffies grow up freely. Who we are and how we work is on the <a href="/en/about-us/" title="About us – the breeder behind Del Piccolo Diavolo">About us</a> page; the home page gives an overview of <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo, Staffordshire Bull Terrier breeder</a>.</p>
+  <p>Ferrara is 25 minutes away, Bologna and Ravenna about an hour, Padua an hour and ten minutes.</p>
+  <p>There is a large tarmac car park 30 metres from the gate. Inside is the grassy courtyard where the puppies grow up. Who we are and how we work is on the <a href="/en/about-us/" title="About us – the breeder behind Del Piccolo Diavolo">About us</a> page; the home page gives an overview of <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo, Staffordshire Bull Terrier breeder</a>.</p>
   </div>
   <img src="/images/Lothar.webp" alt="Lothar Del Piccolo Diavolo — Staffordshire Bull Terrier" class="story-img" width="350" height="354" loading="lazy" decoding="async">
   </div>
@@ -102,13 +102,13 @@ custom_content: |
   <!--BLOCCO:4-->
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">Areas Served</span>
+  <span class="section-label">Where families come from</span>
   <h2 class="section-title">Where breed enthusiasts come from</h2>
-  <p style="color:#4a3f35;margin-bottom:1.5rem">We welcome families from all over Northern and Central Italy, and — increasingly — from beyond the border. Here are the main cities from which we regularly receive visits:</p>
+  <p style="color:#4a3f35;margin-bottom:1.5rem">Families come from all over Italy, as far as Naples and Lecce, and more and more often from abroad. These are the nearest cities, with the driving time:</p>
 
   <div class="zones-section">
   <div class="zone-row">
-  <span class="zone-name">Emilia Romagna</span>
+  <span class="zone-name">Emilia-Romagna</span>
   <div class="zone-cities">
   <span class="zone-city">Ferrara 25 min</span>
   <span class="zone-city">Bologna 1h</span>
@@ -202,7 +202,7 @@ custom_content: |
   <img src="/images/cucciolo-rosso.webp" alt="Staffordshire Bull Terrier puppy" class="story-img" width="350" height="400" loading="lazy" decoding="async">
   <div class="story-text">
   <h3>Why come in person</h3>
-  <p>A Staffordshire Bull Terrier will be with you for 12 to 15 years. That is a decision worth a journey.</p>
+  <p>A Staffordshire Bull Terrier lives 12 to 14 years on average. That is a decision worth a journey.</p>
   <p>You will see how the puppies are raised, meet the parents, judge their temperament for yourself and see the house they live in. No photograph and no video call replaces standing in the room.</p>
   <p>It matters more, not less, when you live in another country: it is the one occasion you have to check in person everything you have read on a screen.</p>
   </div>
@@ -213,7 +213,7 @@ custom_content: |
   <!--BLOCCO:6-->
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">Frequently Asked</span>
+  <span class="section-label">Frequently asked</span>
   <h2 class="section-title">Before you get in touch</h2>
 
   <div class="faq-list">
@@ -258,7 +258,7 @@ custom_content: |
   <!--BLOCCO:7-->
   <section class="dark-section">
   <h2>We're waiting for you</h2>
-  <p>Come meet our Staffordshire Bull Terriers and the environment where they grow. A visit is the first step toward an informed choice.</p>
+  <p>Write to us on WhatsApp and we will arrange a visit to Ostellato, to see the dogs, the house and the courtyard.</p>
   <a href="/wa/393924635584" class="btn" title="Arrange a visit on WhatsApp">Arrange on WhatsApp</a>
   </section>
   <!--/BLOCCO:7-->
