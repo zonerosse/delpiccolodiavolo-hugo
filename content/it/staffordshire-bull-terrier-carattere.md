@@ -1,6 +1,6 @@
 ---
 title: "Il temperamento dello Staffordshire Bull Terrier: come nasce"
-lastmod: 2026-10-05
+lastmod: 2026-10-17
 titleSeo: "Temperamento dello Staffy: come è stato selezionato"
 articolo: true
 translationKey: "carattere"
@@ -33,11 +33,11 @@ correlati:
 </div>
 </div>
 <div class="hero-content">
-<span class="hero-eyebrow">Conosci la Razza</span>
+<span class="hero-eyebrow">Conosci la razza</span>
 <h1 class="hero-title">Il temperamento dello Staffordshire Bull Terrier: come nasce</h1>
 <p class="hero-subtitle">Perché questo cane è fatto così, e cosa significa scegliere il carattere</p>
   <div class="hero-meta">
-  <span>📅 18 Gennaio 2026</span>
+  <span>📅 18 gennaio 2026</span>
   <span>⏱️ 5 min lettura</span>
   </div>
 </div>
@@ -80,7 +80,7 @@ correlati:
 
 <p>La stessa selezione che ha prodotto l'affidabilità verso le persone ha conservato un'altra qualità: la <strong>tenacia</strong>. Un cane che affrontava un lavoro difficile senza tirarsi indietro era un cane che veniva riprodotto.</p>
 
-<p>Oggi quella tenacia si manifesta in forme pacifiche — nel gioco, nell'insistenza con cui ti segue in casa, nella determinazione con cui affronta un puzzle alimentare — ma esiste anche in una versione da gestire: la tolleranza verso altri cani non è garantita, soprattutto fra soggetti dello stesso sesso dopo la maturità sociale.</p>
+<p>Oggi quella tenacia si vede in forme pacifiche: nel gioco, nell'insistenza con cui ti segue in casa, nella determinazione con cui affronta un gioco per il cibo. Ma esiste anche in una versione da gestire: la tolleranza verso altri cani non è garantita, soprattutto fra soggetti dello stesso sesso dopo la maturità sociale.</p>
 
 <p>È una caratteristica prevedibile, non un difetto nascosto. E va detta prima di prendere il cucciolo: chi cerca un cane da portare al parco a giocare con chiunque deve saperlo in anticipo.</p>
 
@@ -94,21 +94,21 @@ correlati:
 
 <h2>Come si valuta il temperamento in un cucciolo</h2>
 
-<p>A 8 settimane non si legge il carattere adulto, ma si osservano tendenze. Tre elementi sono più indicativi di altri.</p>
+<p>A due mesi non si legge il carattere adulto, ma si vedono delle tendenze. Tre elementi sono più indicativi di altri.</p>
 
-<p><strong>La ripresa dopo una sorpresa.</strong> Fai cadere un oggetto a distanza: quasi tutti i cuccioli si fermano. Conta cosa succede dopo — un cucciolo equilibrato torna a esplorare entro pochi secondi, uno insicuro resta bloccato o si allontana.</p>
+<p><strong>La ripresa dopo una sorpresa.</strong> Fai cadere un oggetto a distanza: quasi tutti i cuccioli si fermano. Conta cosa succede dopo: un cucciolo equilibrato torna a esplorare entro pochi secondi, uno insicuro resta bloccato o si allontana.</p>
 
 <p><strong>L'approccio a uno sconosciuto.</strong> Un momento di esitazione è normale e sano. Quello che si vuole vedere è che dopo l'esitazione il cucciolo si avvicini. Chi non si avvicina affatto, e chi si lancia addosso senza alcuna valutazione, stanno ai due estremi.</p>
 
-<p><strong>La tolleranza alla manipolazione.</strong> Tenuto sulla schiena per qualche secondo, un cucciolo equilibrato si agita brevemente e poi si rilassa. Panico o rigidità totale sono segnali da considerare.</p>
+<p><strong>La tolleranza alla manipolazione.</strong> Preso in braccio e tenuto fermo per qualche secondo, un cucciolo equilibrato si agita un momento e poi si rilassa. Panico o rigidità totale sono segnali da considerare.</p>
 
 <p>L'errore più comune di chi sceglie è prendere il cucciolo più intraprendente, quello che arriva per primo. Nella maggior parte delle famiglie funziona meglio il centro sicuro della cucciolata, non gli estremi. Un buon allevatore lo sa e propone lui l'abbinamento: se lo fa, è un segno di serietà, non un'imposizione.</p>
 
 <h2>Quanto pesa l'allevatore rispetto alla razza</h2>
 
-<p>La razza definisce un intervallo, l'allevatore decide dove ti collochi dentro quell'intervallo. Due Staffordshire Bull Terrier con <a href="/come-si-legge-un-pedigree/" title="Come si legge un pedigree">pedigree simili sulla carta</a> possono avere temperamenti sensibilmente diversi, a seconda di cosa è stato selezionato e di come sono state passate le prime 8 settimane.</p>
+<p>La razza definisce un intervallo, l'allevatore decide dove ti collochi dentro quell'intervallo. Due Staffordshire Bull Terrier con <a href="/come-si-legge-un-pedigree/" title="Come si legge un pedigree">pedigree simili sulla carta</a> possono avere temperamenti sensibilmente diversi, a seconda di cosa è stato selezionato e di come sono state passate le prime settimane.</p>
 
-<p>Quelle settimane, per inciso, sono metà della finestra di socializzazione: ciò che il cucciolo incontra dal terzo giorno di vita fino all'affidamento entra a far parte del suo mondo normale. Un cucciolo cresciuto in cucina, fra rumori domestici e visitatori, arriva a casa tua con un vantaggio che poi non si recupera.</p>
+<p>Il periodo in cui un cucciolo impara cosa è normale va più o meno dalla terza alla dodicesima settimana, e gran parte la passa ancora in allevamento: ciò che incontra fino all'affido entra a far parte del suo mondo normale. Un cucciolo cresciuto in cucina, fra rumori domestici e visitatori, arriva a casa tua con un vantaggio che poi non si recupera.</p>
 
 <p>È il motivo per cui, quando valuti un allevamento, le domande sul carattere contano quanto quelle sui <a href="/test-genetici-l2hga-hc-staffy/">test genetici</a>.</p>
 

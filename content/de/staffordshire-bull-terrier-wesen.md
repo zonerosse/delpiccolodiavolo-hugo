@@ -1,6 +1,6 @@
 ---
 title: "Das Wesen des Staffordshire Bull Terrier: woher es kommt"
-lastmod: 2026-10-05
+lastmod: 2026-10-17
 titleSeo: "Wesen des Staffy: wie es selektiert wurde"
 articolo: true
 translationKey: "carattere"
@@ -62,9 +62,9 @@ correlati:
 
 <h2>Ein Wesen, das gebaut wurde, nicht zufällig entstand</h2>
 
-<p>Der Staffordshire Bull Terrier entstand in der ersten Hälfte des 19. Jahrhunderts in den englischen Midlands, aus Kreuzungen zwischen den Bulldoggen jener Zeit und einheimischen Terriern. Der Zusammenhang, in dem diese Hunde eingesetzt wurden, ist nicht der Teil, den man gern erzählt — aber es ist der Teil, der ihr Wesen geformt hat, und ihn zu übergehen heißt, die Rasse nicht zu verstehen.</p>
+<p>Der Staffordshire Bull Terrier entstand in der ersten Hälfte des 19. Jahrhunderts in den englischen Midlands, aus Kreuzungen zwischen den Bulldoggen jener Zeit und einheimischen Terriern. Der Zusammenhang, in dem diese Hunde eingesetzt wurden, ist nicht der Teil, den man gern erzählt, aber es ist der Teil, der ihr Wesen geformt hat, und ihn zu übergehen heißt, die Rasse nicht zu verstehen.</p>
 
-<p>Diese Hunde lebten im Haus, oft in kleinen und vollen Wohnungen, und wurden ständig angefasst: getrennt, hochgehoben, mit bloßen Händen versorgt, auch wenn sie erregt oder verletzt waren. Unter diesen Bedingungen war ein Hund, der die geringste Aggression gegenüber einem Menschen zeigte, eine unmittelbare Gefahr für die Familie — und er wurde ohne Diskussion aus der Zucht genommen.</p>
+<p>Diese Hunde lebten im Haus, oft in kleinen und vollen Wohnungen, und wurden ständig angefasst: getrennt, hochgehoben, mit bloßen Händen versorgt, auch wenn sie erregt oder verletzt waren. Unter diesen Bedingungen war ein Hund, der die geringste Aggression gegenüber einem Menschen zeigte, eine unmittelbare Gefahr für die Familie, und er wurde ohne Diskussion aus der Zucht genommen.</p>
 
 <p>Über Generationen wiederholt, brachte diese Selektion etwas hervor, das in der Hundewelt selten ist: <strong>eine Rasse, bei der Zuverlässigkeit gegenüber dem Menschen kein Erziehungsziel ist, sondern eine genetische Ausgangslage</strong>. Das heißt nicht, dass jeder Staffy perfekt zur Welt kommt. Es heißt, dass die Veranlagung tief verankert ist.</p>
 
@@ -74,13 +74,13 @@ correlati:
 
 <p>Der letzte Ausdruck verdient Aufmerksamkeit, denn er ist beinahe einzigartig. Nur wenige Rassestandards verwenden ein Wort wie "zuverlässig" für das Verhältnis zum Menschen: die meisten sprechen von Wachsamkeit, Zurückhaltung gegenüber Fremden, Schutztrieb. Hier wird Zuverlässigkeit als grundlegendes Merkmal benannt.</p>
 
-<p>Der <a href="https://www.enci.it/media/2347/076.pdf" title="FCI-Standard Nr. 76, offizielles ENCI-PDF" target="_blank" rel="noopener" aria-label="FCI-Standard Nr. 76, offizielles ENCI-PDF (wird in einem neuen Tab geöffnet)">Standard</a> ergänzt <em>highly intelligent and affectionate especially with children</em>: sehr intelligent und anhänglich, besonders gegenüber Kindern. Aus dieser Formulierung stammt der Beiname "nanny dog", ein Ausdruck, mit dem man vorsichtig umgehen sollte — den Alltag behandeln wir ausführlich im <a href="/de/staffordshire-bull-terrier-charakter-familienleben/">Beitrag über das Familienleben</a>.</p>
+<p>Der <a href="https://www.enci.it/media/2347/076.pdf" title="FCI-Standard Nr. 76, offizielles ENCI-PDF" target="_blank" rel="noopener" aria-label="FCI-Standard Nr. 76, offizielles ENCI-PDF (wird in einem neuen Tab geöffnet)">Standard</a> ergänzt <em>highly intelligent and affectionate especially with children</em>: sehr intelligent und anhänglich, besonders gegenüber Kindern. Aus dieser Formulierung stammt der Beiname "nanny dog", ein Ausdruck, mit dem man vorsichtig umgehen sollte. Den Alltag behandeln wir ausführlich im <a href="/de/staffordshire-bull-terrier-charakter-familienleben/">Beitrag über das Familienleben</a>.</p>
 
 <h2>Die Kehrseite: die Zähigkeit</h2>
 
 <p>Dieselbe Selektion, die Zuverlässigkeit gegenüber Menschen hervorbrachte, hat eine weitere Eigenschaft bewahrt: die <strong>Zähigkeit</strong>. Ein Hund, der eine schwere Aufgabe anging, ohne zurückzuweichen, war ein Hund, der weitergezüchtet wurde.</p>
 
-<p>Heute zeigt sich diese Zähigkeit in völlig friedlichen Formen — im Spiel, in der Beharrlichkeit, mit der er Ihnen durch die Wohnung folgt, in der Entschlossenheit vor einem Futterpuzzle. Es gibt aber auch eine Ausprägung, die geführt werden muss: die Verträglichkeit mit anderen Hunden ist nicht selbstverständlich, besonders zwischen gleichgeschlechtlichen Tieren nach der sozialen Reife.</p>
+<p>Heute zeigt sich diese Zähigkeit in völlig friedlichen Formen: im Spiel, in der Beharrlichkeit, mit der er Ihnen durch die Wohnung folgt, in der Entschlossenheit vor einem Futterspiel. Es gibt aber auch eine Ausprägung, die geführt werden muss: die Verträglichkeit mit anderen Hunden ist nicht selbstverständlich, besonders zwischen gleichgeschlechtlichen Tieren nach der sozialen Reife.</p>
 
 <p>Das ist eine vorhersehbare Eigenschaft, kein verborgener Mangel. Und sie gehört gesagt, bevor der Welpe einzieht, nicht danach: wer einen Hund sucht, den er im Park mit allen frei laufen lassen kann, sollte das vorher wissen.</p>
 
@@ -94,21 +94,21 @@ correlati:
 
 <h2>Wie man Wesen beim Welpen beurteilt</h2>
 
-<p>Mit acht Wochen liest man kein erwachsenes Wesen ab, aber man erkennt Tendenzen. Drei Dinge sind aussagekräftiger als alles andere.</p>
+<p>Mit zwei Monaten liest man kein erwachsenes Wesen ab, aber man erkennt Tendenzen. Drei Dinge sind aussagekräftiger als alles andere.</p>
 
-<p><strong>Die Erholung nach einem Schreck.</strong> Lassen Sie in einiger Entfernung einen Gegenstand fallen: fast jeder Welpe zuckt zusammen. Entscheidend ist, was danach kommt — ein ausgeglichener Welpe erkundet binnen Sekunden weiter, ein unsicherer bleibt erstarrt oder zieht sich zurück.</p>
+<p><strong>Die Erholung nach einem Schreck.</strong> Lassen Sie in einiger Entfernung einen Gegenstand fallen: fast jeder Welpe zuckt zusammen. Entscheidend ist, was danach kommt: Ein ausgeglichener Welpe erkundet binnen Sekunden weiter, ein unsicherer bleibt erstarrt oder zieht sich zurück.</p>
 
 <p><strong>Die Annäherung an einen Fremden.</strong> Ein Moment des Zögerns ist normal und gesund. Man will sehen, dass der Welpe nach dem Zögern näher kommt. Wer sich gar nicht nähert und wer sich ohne jede Einschätzung sofort hineinwirft, stehen an den beiden Extremen.</p>
 
-<p><strong>Die Toleranz beim Anfassen.</strong> Einige Sekunden auf dem Rücken gehalten, zappelt ein ausgeglichener Welpe kurz und entspannt sich dann. Panik oder völlige Starre sind Signale, die man beachten sollte.</p>
+<p><strong>Die Toleranz beim Anfassen.</strong> Hochgehoben und einige Sekunden festgehalten, zappelt ein ausgeglichener Welpe kurz und entspannt sich dann. Panik oder völlige Starre sind Signale, die man beachten sollte.</p>
 
 <p>Der häufigste Fehler beim Aussuchen ist, den forschesten Welpen zu nehmen, den, der als Erster kommt. Für die meisten Familien passt die sichere Mitte des Wurfs besser als die Extreme. Eine gute Zucht weiß das und schlägt die Zuordnung selbst vor: wenn sie es tut, ist das ein Zeichen von Ernsthaftigkeit, keine Bevormundung.</p>
 
 <h2>Wie viel die Zucht gegenüber der Rasse wiegt</h2>
 
-<p>Die Rasse steckt einen Rahmen ab, die Zucht entscheidet, wo innerhalb dieses Rahmens Sie landen. Zwei Staffordshire Bull Terrier mit <a href="/de/wie-man-eine-ahnentafel-liest/" title="Ahnentafel lesen: was die ENCI zeigt und was nicht">auf dem Papier vergleichbaren Ahnentafeln</a> können deutlich unterschiedliche Wesen haben, je nachdem, worauf selektiert wurde und wie die ersten acht Wochen verliefen.</p>
+<p>Die Rasse steckt einen Rahmen ab, die Zucht entscheidet, wo innerhalb dieses Rahmens Sie landen. Zwei Staffordshire Bull Terrier mit <a href="/de/wie-man-eine-ahnentafel-liest/" title="Ahnentafel lesen: was die ENCI zeigt und was nicht">auf dem Papier vergleichbaren Ahnentafeln</a> können deutlich unterschiedliche Wesen haben, je nachdem, worauf selektiert wurde und wie die ersten Wochen verliefen.</p>
 
-<p>Diese Wochen sind übrigens die Hälfte des Sozialisierungsfensters: was ein Welpe zwischen dem dritten Lebenstag und der Abgabe kennenlernt, wird Teil seiner normalen Welt. Ein Welpe, der in der Küche aufgewachsen ist, zwischen Haushaltsgeräuschen und Besuch, kommt mit einem Vorsprung zu Ihnen, der sich später nicht mehr aufholen lässt.</p>
+<p>Die Zeit, in der ein Welpe lernt, was normal ist, reicht ungefähr von der dritten bis zur zwölften Woche, und einen großen Teil davon verbringt er noch in der Zucht: Was er bis zum Auszug kennenlernt, wird Teil seiner normalen Welt. Ein Welpe, der in der Küche aufgewachsen ist, zwischen Haushaltsgeräuschen und Besuch, kommt mit einem Vorsprung zu Ihnen, der sich später nicht mehr aufholen lässt.</p>
 
 <p>Deshalb zählen bei der Beurteilung einer Zucht die Fragen zum Wesen ebenso viel wie die zu den <a href="/de/staffy-gentests-l2hga-hc/">Gentests</a>.</p>
 
