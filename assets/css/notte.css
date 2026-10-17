@@ -320,3 +320,19 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .notte-pagina .reviews-grid .review-name{font-size:1.25rem}
 @media(max-width:767px){.notte-pagina .reviews-grid .review-card{grid-template-columns:1fr;grid-template-areas:"h" "t" "m";row-gap:.7rem}}
 .notte-pagina .reviews-grid .review-card{grid-template-rows:auto 1fr}.notte-pagina .reviews-grid .review-header{justify-content:flex-start}.notte-pagina .reviews-grid .review-meta{align-self:start}
+/* Diario (elenco) a righe: foto a sinistra, data e testo a destra; testo del diario a righe (17/10/2026) */
+.notte-pagina .diario-grid{display:block}
+.notte-pagina .diario-card{display:grid;grid-template-columns:1fr 1.5fr;grid-template-areas:"i d" "i c";grid-template-rows:auto 1fr;column-gap:3rem;padding:2.2rem 0;background:transparent!important;border:0;border-top:1px solid var(--n-ln)!important;border-radius:0;box-shadow:none;transform:none!important}
+.notte-pagina .diario-card .diario-card-image{grid-area:i;border-radius:6px;aspect-ratio:4/3}
+.notte-pagina .diario-card .diario-data-top{grid-area:d;display:block;background:none!important;padding:0!important;margin:0 0 .6rem;color:var(--n-cu)!important;font-size:.8rem;letter-spacing:.14em;text-transform:uppercase;font-weight:700}
+.notte-pagina .diario-card .diario-card-content{grid-area:c;padding:0}
+.notte-pagina .diario-card .diario-card-title{font-size:1.45rem!important}
+.notte-pagina .diario-intro{max-width:none!important;display:grid;grid-template-columns:1fr 2fr;column-gap:3rem;color:var(--n-mu)!important}
+.notte-pagina .diario-intro>*{grid-column:2;margin-top:0}
+.notte-pagina .diario-intro>h2{grid-column:1;font-family:Georgia,serif;font-size:1.25rem!important;line-height:1.35;margin:0;padding-top:2.2rem;border-top:1px solid var(--n-ln)}
+.notte-pagina .diario-intro>h2+*{padding-top:2.2rem;border-top:1px solid var(--n-ln)}
+.notte-pagina .diario-intro>:not(h2~*):not(h2),.notte-pagina .diario-intro>.fonti{grid-column:1/-1}
+.notte-pagina .diario-intro>p.fonti{margin-top:2.2rem;padding-top:2.2rem;border-top:1px solid var(--n-ln)}
+@media(max-width:767px){.notte-pagina .diario-card{grid-template-columns:1fr;grid-template-areas:"d" "i" "c";row-gap:1rem}
+.notte-pagina .diario-intro{display:block}.notte-pagina .diario-intro>h2+*{padding-top:0;border-top:0}.notte-pagina .diario-intro>h2{margin:2rem 0 1rem}}
+@media(min-width:768px){.notte-pagina .diario-intro{column-gap:0}.notte-pagina .diario-intro>h2~*:not(h2):not(.fonti){padding-left:3rem}.notte-pagina .diario-intro>h2~ul{padding-left:4.4rem}}
