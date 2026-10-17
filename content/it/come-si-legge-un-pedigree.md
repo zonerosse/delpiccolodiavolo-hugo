@@ -2,7 +2,7 @@
 title: "Come si legge un pedigree: ENCI e SBTPedigree"
 titleSeo: "Come si legge un pedigree: cosa dice l'ENCI e cosa no"
 date: 2026-09-09
-lastmod: 2026-09-29
+lastmod: 2026-10-17
 translationKey: "leggere-pedigree"
 articolo: true
 image: "/images/blog/pedigree-queen-hero.webp"
@@ -63,7 +63,7 @@ custom_content: |
   <p>Non contiene nemmeno:</p>
 
   <ul>
-  <li><strong>i test genetici</strong> &mdash; L2HGA, HC e DM-SOD1 non compaiono</li>
+  <li><strong>i test genetici</strong>: L2HGA, HC e DM-SOD1 non compaiono</li>
   <li><strong>cosa hanno prodotto</strong> quei soggetti nelle loro cucciolate</li>
   </ul>
 
@@ -77,13 +77,13 @@ custom_content: |
 
   <p><strong>Le fotografie degli antenati</strong>, generazione dopo generazione, fin dove arriva l'archivio. &Egrave; la differenza fra leggere un nome e vedere il cane: capisci che testa aveva, che struttura, come era costruito.</p>
 
-  <p>Sulla scheda SBTPedigree di Queen of California, una nostra fattrice, non leggi soltanto che <a href="/genitori-visibili-cosa-significa/" title="Genitori visibili: cosa significa">il padre</a> &egrave; Elitebull Prospect: lo vedi, e vedi anche suo padre, e il padre di suo padre. Quattro generazioni di fotografie, una accanto all'altra. Quello che il certificato ENCI non potr&agrave; mai darti.</p>
+  <p>Sulla scheda SBTPedigree di Queen of California, nata da noi, non leggi soltanto che <a href="/genitori-visibili-cosa-significa/" title="Genitori visibili: cosa significa">il padre</a> &egrave; Elitebull Prospect: lo vedi, e vedi anche suo padre, e il padre di suo padre. Quattro generazioni di fotografie, una accanto all'altra. Quello che il certificato ENCI non potr&agrave; mai darti.</p>
 
   <p><strong>I test genetici</strong>, quando chi ha inserito il soggetto li ha caricati.</p>
 
   <p><strong>I titoli</strong>, anche quelli esteri che sul certificato italiano non compaiono.</p>
 
-  <p><strong>La discendenza</strong>, che SBTPedigree mostra e il certificato ENCI no: cosa ha prodotto quel cane, in quali accoppiamenti, con quali risultati. &Egrave; l'informazione che pesa di pi&ugrave; e che nessun certificato ti d&agrave; &mdash; un soggetto si giudica anche da quello che lascia.</p>
+  <p><strong>La discendenza</strong>, che SBTPedigree mostra e il certificato ENCI no: cosa ha prodotto quel cane, in quali accoppiamenti, con quali risultati. &Egrave; l'informazione che pesa di pi&ugrave; e che nessun certificato ti d&agrave;: un soggetto si giudica anche da quello che lascia.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
@@ -104,15 +104,15 @@ custom_content: |
   <p>I numeri sono pubblici, sulla <a href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" aria-label="sua pagina su SBTPedigree – Scheda di Queen of California su SBTPedigree (si apre in una nuova scheda)">sua pagina su SBTPedigree</a>:</p>
 
   <ul>
-  <li><strong>COI 9,14% su otto generazioni</strong> &mdash; al limite alto della forbice che mi do, e voluto cos&igrave;</li>
+  <li><strong>COI 9,14% su otto generazioni</strong>: al limite alto della forbice che mi do, e voluto cos&igrave;</li>
   <li><strong>COI 21,526% sul pedigree completo</strong>, che il sito calcola su settanta generazioni</li>
   <li><strong>Parentela media 13,84%</strong>, e la classificazione che il sito assegna da solo: <em>widespread, line-bred</em></li>
   <li>Gli antenati su cui si concentra: <strong>Eastaff Tally's Man</strong> (14 volte in otto generazioni), <strong>Judael Both Barrels At Nozac</strong> e <strong>Wyrefare Prince Naseem</strong> (10 volte ciascuno)</li>
   </ul>
 
-  <p><strong>Due coefficienti di consanguineit&agrave; diversi per lo stesso cane, e nessuno dei due &egrave; sbagliato.</strong> Il coefficiente dipende da quante generazioni conti: pi&ugrave; indietro vai, pi&ugrave; antenati comuni trovi, pi&ugrave; il numero sale. Chi cita un COI senza dire su quante generazioni l'ha calcolato sta dicendo mezza cosa &mdash; ed &egrave; un modo elegante per farlo sembrare pi&ugrave; basso di quello che &egrave;.</p>
+  <p><strong>Due coefficienti di consanguineit&agrave; diversi per lo stesso cane, e nessuno dei due &egrave; sbagliato.</strong> Il coefficiente dipende da quante generazioni conti: pi&ugrave; indietro vai, pi&ugrave; antenati comuni trovi, pi&ugrave; il numero sale. Chi cita un COI senza dire su quante generazioni l'ha calcolato sta dicendo mezza cosa, ed &egrave; un modo elegante per farlo sembrare pi&ugrave; basso di quello che &egrave;.</p>
 
-  <p>Degli antenati raddoppiati, il terzo punto &egrave; quello che conta davvero. Non basta sapere <em>quanto</em> si stringe: bisogna sapere <strong>su chi</strong>. Raddoppiare quattordici volte su un soggetto significa scommettere che quel cane valga la pena di essere fissato &mdash; e se ci si sbaglia, si fissano anche i suoi difetti.</p>
+  <p>Degli antenati raddoppiati, il terzo punto &egrave; quello che conta davvero. Non basta sapere <em>quanto</em> si stringe: bisogna sapere <strong>su chi</strong>. Raddoppiare quattordici volte su un soggetto significa scommettere che quel cane valga la pena di essere fissato. E se ci si sbaglia, si fissano anche i suoi difetti.</p>
 
   <p>&Egrave; il motivo per cui un accoppiamento si studia per mesi. Non si sceglie un maschio perch&eacute; &egrave; bello o perch&eacute; ha vinto: si guarda cosa succede quando quelle due genealogie si incontrano.</p>
   <!--/BLOCCO:4-->
@@ -157,7 +157,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
+  <a class="btn" href="/blog/" title="Torna al blog">&larr; Torna al blog</a>
   </div>
   <!--/BLOCCO:6-->
 

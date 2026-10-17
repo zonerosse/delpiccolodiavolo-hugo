@@ -2,7 +2,7 @@
 title: "How to read a pedigree: ENCI and SBTPedigree"
 titleSeo: "How to read a pedigree: what ENCI shows and what it doesn't"
 date: 2026-09-09
-lastmod: 2026-09-29
+lastmod: 2026-10-17
 translationKey: "leggere-pedigree"
 articolo: true
 image: "/images/blog/pedigree-queen-hero.webp"
@@ -63,7 +63,7 @@ custom_content: |
   <p>Nor does it contain:</p>
 
   <ul>
-  <li><strong>the genetic tests</strong> &mdash; L2HGA, HC and DM-SOD1 do not appear</li>
+  <li><strong>the genetic tests</strong>: L2HGA, HC and DM-SOD1 do not appear</li>
   <li><strong>what those dogs produced</strong> in their litters</li>
   </ul>
 
@@ -77,13 +77,13 @@ custom_content: |
 
   <p><strong>The photographs of the ancestors</strong>, generation after generation, as far back as the archive goes. It is the difference between reading a name and seeing the dog: you understand what head it had, what structure, how it was built.</p>
 
-  <p>On the SBTPedigree page of Queen of California, one of our brood bitches, you do not just read that her sire is Elitebull Prospect: you see him, and you see his sire, and his sire's sire. Four generations of photographs, side by side. Something the ENCI certificate will never be able to give you.</p>
+  <p>On the SBTPedigree page of Queen of California, born here, you do not just read that her sire is Elitebull Prospect: you see him, and you see his sire, and his sire's sire. Four generations of photographs, side by side. Something the ENCI certificate will never be able to give you.</p>
 
   <p><strong>The genetic tests</strong>, when whoever entered the dog has uploaded them.</p>
 
   <p><strong>The titles</strong>, including the foreign ones that do not appear on the Italian certificate.</p>
 
-  <p><strong>The progeny</strong>, which SBTPedigree shows and the ENCI certificate does not: what that dog has produced, in which pairings, with what results. It is the information that weighs most and that no certificate gives you &mdash; a dog is also judged by what it leaves behind.</p>
+  <p><strong>The progeny</strong>, which SBTPedigree shows and the ENCI certificate does not: what that dog has produced, in which pairings, with what results. It is the information that weighs most and that no certificate gives you: a dog is also judged by what it leaves behind.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
@@ -104,15 +104,15 @@ custom_content: |
   <p>The numbers are public, on <a href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" aria-label="her page on SBTPedigree – Queen of California's page on SBTPedigree (opens in a new tab)">her page on SBTPedigree</a>:</p>
 
   <ul>
-  <li><strong>COI 9.14% over eight generations</strong> &mdash; at the upper limit of the range I allow myself, and wanted that way</li>
+  <li><strong>COI 9.14% over eight generations</strong>: at the upper limit of the range I allow myself, and wanted that way</li>
   <li><strong>COI 21.526% over the full pedigree</strong>, which the site calculates over seventy generations</li>
   <li><strong>Average relatedness 13.84%</strong>, and the classification the site assigns on its own: <em>widespread, line-bred</em></li>
   <li>The ancestors it concentrates on: <strong>Eastaff Tally's Man</strong> (14 times in eight generations), <strong>Judael Both Barrels At Nozac</strong> and <strong>Wyrefare Prince Naseem</strong> (10 times each)</li>
   </ul>
 
-  <p><strong>Two different coefficients of inbreeding for the same dog, and neither is wrong.</strong> The coefficient depends on how many generations you count: the further back you go, the more common ancestors you find, the higher the number climbs. Anyone quoting a COI without saying over how many generations it was calculated is telling half the story &mdash; and it is an elegant way of making it look lower than it is.</p>
+  <p><strong>Two different coefficients of inbreeding for the same dog, and neither is wrong.</strong> The coefficient depends on how many generations you count: the further back you go, the more common ancestors you find, the higher the number climbs. Anyone quoting a COI without saying over how many generations it was calculated is telling half the story, and it is an elegant way of making it look lower than it is.</p>
 
-  <p>Of the doubled-up ancestors, the third point is the one that really matters. It is not enough to know <em>how much</em> you tighten: you need to know <strong>on whom</strong>. Doubling up fourteen times on one dog means betting that that dog is worth fixing &mdash; and if you are wrong, you fix its faults too.</p>
+  <p>Of the doubled-up ancestors, the third point is the one that really matters. It is not enough to know <em>how much</em> you tighten: you need to know <strong>on whom</strong>. Doubling up fourteen times on one dog means betting that that dog is worth fixing. And if you are wrong, you fix its faults too.</p>
 
   <p>That is why a pairing is studied for months. You do not choose a male because he is handsome or because he has won: you look at what happens when those two genealogies meet.</p>
   <!--/BLOCCO:4-->
@@ -157,7 +157,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
+  <a class="btn" href="/en/blog/" title="Back to the blog">&larr; Back to the blog</a>
   </div>
   <!--/BLOCCO:6-->
 

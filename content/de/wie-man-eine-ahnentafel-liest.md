@@ -2,7 +2,7 @@
 title: "Wie man eine Ahnentafel liest: ENCI und SBTPedigree"
 titleSeo: "Ahnentafel lesen: was die ENCI zeigt und was nicht"
 date: 2026-09-09
-lastmod: 2026-09-29
+lastmod: 2026-10-17
 translationKey: "leggere-pedigree"
 articolo: true
 image: "/images/blog/pedigree-queen-hero.webp"
@@ -63,7 +63,7 @@ custom_content: |
   <p>Sie enthält auch nicht:</p>
 
   <ul>
-  <li><strong>die Gentests</strong> &mdash; L2HGA, HC und DM-SOD1 erscheinen nicht</li>
+  <li><strong>die Gentests</strong>: L2HGA, HC und DM-SOD1 erscheinen nicht</li>
   <li><strong>was diese Hunde</strong> in ihren Würfen hervorgebracht haben</li>
   </ul>
 
@@ -77,13 +77,13 @@ custom_content: |
 
   <p><strong>Die Fotos der Vorfahren</strong>, Generation für Generation, so weit das Archiv zurückreicht. Das ist der Unterschied zwischen einem Namen und dem Hund: Sie verstehen, welchen Kopf er hatte, welche Struktur, wie er gebaut war.</p>
 
-  <p>Auf der SBTPedigree-Seite von Queen of California, einer unserer Zuchthündinnen, lesen Sie nicht nur, dass ihr Vater Elitebull Prospect ist: Sie sehen ihn, und Sie sehen seinen Vater und den Vater seines Vaters. Vier Generationen Fotos, nebeneinander. Das kann Ihnen die ENCI-Urkunde nie geben.</p>
+  <p>Auf der SBTPedigree-Seite von Queen of California, die bei uns geboren ist, lesen Sie nicht nur, dass ihr Vater Elitebull Prospect ist: Sie sehen ihn, und Sie sehen seinen Vater und den Vater seines Vaters. Vier Generationen Fotos, nebeneinander. Das kann Ihnen die ENCI-Urkunde nie geben.</p>
 
   <p><strong>Die Gentests</strong>, wenn derjenige, der den Hund eingetragen hat, sie hochgeladen hat.</p>
 
   <p><strong>Die Titel</strong>, auch die ausländischen, die auf der italienischen Urkunde nicht erscheinen.</p>
 
-  <p><strong>Die Nachzucht</strong>, die SBTPedigree zeigt und die ENCI-Urkunde nicht: was dieser Hund hervorgebracht hat, in welchen Verpaarungen, mit welchen Ergebnissen. Es ist die Information, die am meisten wiegt und die Ihnen keine Urkunde gibt &mdash; ein Hund wird auch danach beurteilt, was er hinterlässt.</p>
+  <p><strong>Die Nachzucht</strong>, die SBTPedigree zeigt und die ENCI-Urkunde nicht: was dieser Hund hervorgebracht hat, in welchen Verpaarungen, mit welchen Ergebnissen. Es ist die Information, die am meisten wiegt und die Ihnen keine Urkunde gibt: ein Hund wird auch danach beurteilt, was er hinterlässt.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
@@ -104,15 +104,15 @@ custom_content: |
   <p>Die Zahlen sind öffentlich, auf <a href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" aria-label="ihrer Seite auf SBTPedigree – Seite von Queen of California auf SBTPedigree (wird in einem neuen Tab geöffnet)">ihrer Seite auf SBTPedigree</a>:</p>
 
   <ul>
-  <li><strong>COI 9,14 % über acht Generationen</strong> &mdash; am oberen Rand der Spanne, die ich mir setze, und so gewollt</li>
+  <li><strong>COI 9,14 % über acht Generationen</strong>: am oberen Rand der Spanne, die ich mir setze, und so gewollt</li>
   <li><strong>COI 21,526 % über die vollständige Ahnentafel</strong>, die die Seite über siebzig Generationen berechnet</li>
   <li><strong>Mittlere Verwandtschaft 13,84 %</strong>, und die Einstufung, die die Seite von selbst vergibt: <em>widespread, line-bred</em></li>
   <li>Die Vorfahren, auf die sie sich konzentriert: <strong>Eastaff Tally's Man</strong> (14-mal in acht Generationen), <strong>Judael Both Barrels At Nozac</strong> und <strong>Wyrefare Prince Naseem</strong> (je 10-mal)</li>
   </ul>
 
-  <p><strong>Zwei verschiedene Inzuchtkoeffizienten für denselben Hund, und keiner davon ist falsch.</strong> Der Koeffizient hängt davon ab, wie viele Generationen man zählt: je weiter man zurückgeht, desto mehr gemeinsame Vorfahren findet man, desto höher steigt die Zahl. Wer einen COI nennt, ohne zu sagen, über wie viele Generationen er berechnet wurde, erzählt die halbe Geschichte &mdash; und es ist eine elegante Art, ihn niedriger aussehen zu lassen, als er ist.</p>
+  <p><strong>Zwei verschiedene Inzuchtkoeffizienten für denselben Hund, und keiner davon ist falsch.</strong> Der Koeffizient hängt davon ab, wie viele Generationen man zählt: je weiter man zurückgeht, desto mehr gemeinsame Vorfahren findet man, desto höher steigt die Zahl. Wer einen COI nennt, ohne zu sagen, über wie viele Generationen er berechnet wurde, erzählt die halbe Geschichte, und es ist eine elegante Art, ihn niedriger aussehen zu lassen, als er ist.</p>
 
-  <p>Von den verdoppelten Vorfahren ist der dritte Punkt der, der wirklich zählt. Es reicht nicht zu wissen, <em>wie stark</em> man einengt: man muss wissen, <strong>auf wen</strong>. Vierzehnmal auf einen Hund zu verdoppeln heißt darauf zu wetten, dass dieser Hund es wert ist, gefestigt zu werden &mdash; und wenn man sich irrt, festigt man auch seine Fehler.</p>
+  <p>Von den verdoppelten Vorfahren ist der dritte Punkt der, der wirklich zählt. Es reicht nicht zu wissen, <em>wie stark</em> man einengt: man muss wissen, <strong>auf wen</strong>. Vierzehnmal auf einen Hund zu verdoppeln heißt darauf zu wetten, dass dieser Hund es wert ist, gefestigt zu werden. Und wenn man sich irrt, festigt man auch seine Fehler.</p>
 
   <p>Das ist der Grund, warum eine Verpaarung monatelang studiert wird. Man wählt einen Rüden nicht, weil er schön ist oder weil er gewonnen hat: man schaut, was passiert, wenn diese beiden Abstammungen aufeinandertreffen.</p>
   <!--/BLOCCO:4-->
