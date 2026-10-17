@@ -1,7 +1,7 @@
 ---
 title: "Wie alt wird ein Staffordshire Bull Terrier?"
 date: 2026-10-11
-lastmod: 2026-10-11
+lastmod: 2026-10-17
 titleSeo: "Wie alt wird ein Staffordshire Bull Terrier"
 translationKey: "longevita"
 articolo: true
@@ -47,14 +47,14 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Der Durchschnitt</span>
-  <p>Der Staffordshire Bull Terrier wird im Schnitt <strong>12 bis 14 Jahre</strong> alt, ein langes Leben für einen muskulösen Hund mittlerer bis kleiner Größe. In der <a href="/de/">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>, ist Nutella 12 Jahre alt und hatte nie ein Gesundheitsproblem, zwei weitere Hündinnen sind 10 und 9, und Nutellas Vater — bei einem Züchter in Nordirland geboren — wurde 17 und begleitete seinen Züchter bis zuletzt auf Spaziergängen durch den Wald. Nach der Genetik ist der wichtigste Faktor kein Wundermittel, sondern das Gewicht: eine vierzehn Jahre lange Studie zeigte, dass schlank gehaltene Hunde im Schnitt fast zwei Jahre länger leben. Ein Hund, der gut atmet, sich bewegt und nicht dick wird, altert besser.</p>
+  <p>Der Staffordshire Bull Terrier wird im Schnitt <strong>12 bis 14 Jahre</strong> alt, ein langes Leben für einen muskulösen Hund mittlerer bis kleiner Größe. In der <a href="/de/">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>, ist Nutella 12 Jahre alt und hatte nie ein Gesundheitsproblem, zwei weitere Hündinnen sind 10 und 9, und Nutellas Vater, bei einem Züchter in Nordirland geboren, wurde 17 und begleitete seinen Züchter bis zuletzt auf Spaziergängen durch den Wald. Nach der Genetik ist der wichtigste Faktor kein Wundermittel, sondern das Gewicht: eine vierzehn Jahre lange Studie zeigte, dass schlank gehaltene Hunde im Schnitt fast zwei Jahre länger leben. Ein Hund, der gut atmet, sich bewegt und nicht dick wird, altert besser.</p>
 
   <h2 class="section-title">Eine für ihre Größe langlebige Rasse</h2>
 
   <div class="content-block">
-  <p>Bei Hunden gilt eine allgemeine Regel: je kleiner die Größe, desto länger das Leben. Der Staffordshire Bull Terrier ist ein kompakter, gut gebauter Hund und liegt im guten Bereich: der <a href="https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="britische Kennel Club – The Kennel Club (UK) — Staffordshire Bull Terrier (öffnet in einem neuen Tab)">britische Kennel Club</a> gibt für die Rasse eine Lebenserwartung von etwa 12 bis 14 Jahren an.</p>
+  <p>Bei Hunden gilt eine allgemeine Regel: je kleiner die Größe, desto länger das Leben. Der Staffordshire Bull Terrier ist ein kompakter, gut gebauter Hund und liegt im guten Bereich: der <a href="https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="britische Kennel Club – The Kennel Club (UK), Staffordshire Bull Terrier (öffnet in einem neuen Tab)">britische Kennel Club</a> gibt für die Rasse eine Lebenserwartung von etwa 12 bis 14 Jahren an.</p>
 
-  <p>Das ist ein Durchschnitt, keine Garantie. Viele Hunde übertreffen ihn, manche erreichen ihn nicht, und der Unterschied ist fast nie Zufall: er ist die Summe daraus, wie der Hund gezüchtet wurde und wie er gehalten wird. Die Genetik legt den Ausgangspunkt fest; Gewicht, Bewegung, Atmung und Pflege entscheiden, wie nah der Hund ihm kommt — oder wie weit er ihn übertrifft.</p>
+  <p>Das ist ein Durchschnitt, keine Garantie. Viele Hunde übertreffen ihn, manche erreichen ihn nicht, und der Unterschied ist fast nie Zufall: er ist die Summe daraus, wie der Hund gezüchtet wurde und wie er gehalten wird. Die Genetik legt den Ausgangspunkt fest; Gewicht, Bewegung, Atmung und Pflege entscheiden, wie nah der Hund ihm kommt, oder wie weit er ihn übertrifft.</p>
   </div>
   </div>
   </section>
@@ -64,17 +64,17 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Was den Unterschied macht</span>
-  <h2 class="section-title">Drei Dinge, die das Leben verlängern (und eines, das es verkürzt)</h2>
+  <h2 class="section-title">Drei Dinge, die das Leben verlängern</h2>
 
   <div class="content-block">
-  <p>Nach der Genetik — die sich nach der Geburt des Welpen nicht mehr ändern lässt — bleiben drei Hebel, an denen man wirklich ansetzen kann, und ein Fehler, der die häufigste und am meisten unterschätzte Ursache für einen frühen Tod ist.</p>
+  <p>Die Genetik lässt sich nach der Geburt des Welpen nicht mehr ändern. Es bleiben drei Dinge, an denen man wirklich ansetzen kann.</p>
   </div>
 
   <div class="zigzag">
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Das Gewicht: der stärkste Hebel</h3>
-  <p>Nach der Genetik ist dies der Faktor, der am meisten zählt. Die <a href="https://www.purina.ca/articles/dog/health/landmark-life-span-study-in-dogs" target="_blank" rel="noopener" aria-label="Lebenserwartungsstudie von Purina – Purina — Landmark Life Span Study in Dogs (öffnet in einem neuen Tab)">Lebenserwartungsstudie von Purina</a>, die vierzehn Jahre lang an Paaren identischer Hunde lief, fand heraus, dass schlank gehaltene Hunde im Schnitt <strong>1,8 Jahre länger</strong> lebten als die frei gefütterten Wurfgeschwister. Beim Staffy, der muskulös und verfressen ist, ist es sehr leicht, hier falsch zu liegen: die Regel ist, die Rippen mit leichtem Druck zu fühlen, ohne sie zu sehen. Ein übergewichtiger Hund ist nicht "gesund, weil er gut frisst": es ist ein Hund, dem Lebensmonate genommen werden.</p>
+  <p>Nach der Genetik ist dies der Faktor, der am meisten zählt. Die <a href="https://www.purina.ca/articles/dog/health/landmark-life-span-study-in-dogs" target="_blank" rel="noopener" aria-label="Lebenserwartungsstudie von Purina – Purina, Landmark Life Span Study in Dogs (öffnet in einem neuen Tab)">Lebenserwartungsstudie von Purina</a>, die vierzehn Jahre lang an Paaren von Labrador-Wurfgeschwistern lief, fand heraus, dass schlank gehaltene Hunde im Schnitt <strong>1,8 Jahre länger</strong> lebten als die frei gefütterten Wurfgeschwister. Beim Staffy, der muskulös und verfressen ist, ist es sehr leicht, hier falsch zu liegen: die Regel ist, die Rippen mit flacher Hand zu fühlen, ohne zu drücken und ohne sie zu sehen. Ein übergewichtiger Hund ist nicht "gesund, weil er gut frisst": es ist ein Hund, dem Lebensmonate genommen werden.</p>
   </div>
   <div class="zigzag-image"></div>
   </div>
@@ -82,7 +82,7 @@ custom_content: |
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Gut atmen</h3>
-  <p>Ein Hund, der schlecht atmet, altert schlecht. <a href="/de/boas-staffordshire-bull-terrier-atmung/" title="BOAS beim Staffordshire Bull Terrier">BOAS</a> ist nicht nur eine Frage der kurzen Schnauze: es ist eine Reihe von Atemwegsanomalien — enge Nasenlöcher, ein zu langer und verdickter weicher Gaumen, ausgestülpte Kehlkopftaschen, eine enge Luftröhre — bei der die kurze Schnauze ein Risikofaktor ist, nicht die einzige Ursache. Der Staffordshire Bull Terrier ist keine brachyzephale Rasse, aber Linien, die auf eine zu kurze Schnauze gezüchtet werden, sind häufiger betroffen, und diese Schwierigkeiten schränken Bewegung, Hitzetoleranz und auf Dauer die Lebensdauer ein. Ein Welpe, der aus Eltern ausgewählt wurde, die leise atmen und ohne Hecheln laufen, startet mit einem Vorteil, der ein Leben lang hält.</p>
+  <p>Ein Hund, der schlecht atmet, altert schlecht. <a href="/de/boas-staffordshire-bull-terrier-atmung/" title="BOAS beim Staffordshire Bull Terrier">BOAS</a> ist nicht nur eine Frage der kurzen Schnauze: es ist eine Reihe von Atemwegsanomalien (enge Nasenlöcher, ein zu langer und verdickter weicher Gaumen, ausgestülpte Kehlkopftaschen, eine enge Luftröhre), bei der die kurze Schnauze ein Risikofaktor ist, nicht die einzige Ursache. Der Staffordshire Bull Terrier ist keine brachyzephale Rasse, aber Linien, die auf eine zu kurze Schnauze gezüchtet werden, sind häufiger betroffen, und diese Schwierigkeiten schränken Bewegung, Hitzetoleranz und auf Dauer die Lebensdauer ein. Ein Welpe, der aus Eltern ausgewählt wurde, die leise atmen und ohne Hecheln laufen, startet mit einem Vorteil, der ein Leben lang hält.</p>
   </div>
   <div class="zigzag-image"></div>
   </div>
@@ -108,7 +108,7 @@ custom_content: |
   <div class="content-block">
   <p>Durchschnitte liest man besser an echten Hunden ab. <strong>Nutella</strong> ist 12, hatte nie ein Gesundheitsproblem, hat zwei Würfe aufgezogen und wurde während des zweiten Wurfs kastriert. Ihr <strong>Vater</strong>, von einem Züchter in Nordirland gezogen, starb mit <strong>17</strong>: bis zuletzt ging er mit ihm durch den Wald. In unserer Gruppe gibt es zwei weitere Hündinnen, <strong>10 und 9 Jahre</strong> alt, ebenfalls ohne jedes Gesundheitsproblem.</p>
 
-  <p>Wir erzählen das nicht aus Stolz, sondern weil Langlebigkeit keine abstrakte Zahl ist: sie ist ein Merkmal, das in den Blutlinien liegt. Ein Hund, dessen Groß- und Elterntiere gesund über zwölf wurden, startet mit einem Vorteil. Es ist eine der nützlichsten Fragen an einen Züchter — <strong>wie alt wurden die Großeltern dieses Welpen, und woran sind sie gestorben</strong> — und fast niemand stellt sie.</p>
+  <p>Wir erzählen das, weil Langlebigkeit keine abstrakte Zahl ist: Sie liegt zum Teil in den Blutlinien. Ein Hund, dessen Groß- und Elterntiere gesund über zwölf wurden, startet mit einem Vorteil. Es ist eine der nützlichsten Fragen an einen Züchter, und fast niemand stellt sie: <strong>wie alt wurden die Großeltern dieses Welpen, und woran sind sie gestorben</strong>.</p>
   </div>
   </div>
   </section>
@@ -121,7 +121,7 @@ custom_content: |
   <h2 class="section-title">Was sich nach zehn Jahren ändert</h2>
 
   <div class="content-block">
-  <p>Gut zu altern heißt nicht, nicht zu altern. Mit zwölf ist Nutella morgens ein wenig steif — nichts Schlimmes, sie wird nach den ersten Schritten locker — und sie hört weniger: um zu ihr durchzudringen, muss man die Stimme heben. Das sind die normalen Zeichen des Alters, keine Krankheiten, und mit etwas Umsicht nehmen sie der Lebensqualität nichts.</p>
+  <p>Gut zu altern heißt nicht, nicht zu altern. Mit zwölf ist Nutella morgens ein wenig steif (nichts Schlimmes, sie wird nach den ersten Schritten locker) und sie hört weniger: um zu ihr durchzudringen, muss man die Stimme heben. Das sind die normalen Zeichen des Alters, keine Krankheiten, und mit etwas Umsicht nehmen sie der Lebensqualität nichts.</p>
 
   <p>Ein paar Dinge, die wir tun und die etwas gegen das laufen, was man sonst liest:</p>
 
@@ -131,7 +131,7 @@ custom_content: |
   <li><strong>Nachlassendes Gehör ist keine Tragödie.</strong> Der Hund gleicht es mit Sehen und Vibrationen aus: man gewöhnt sich daran, sich sehen zu lassen, bevor man ihn berührt, und eine Geste statt der Stimme zu verwenden. Er leidet nicht, er passt sich an.</li>
   </ul>
 
-  <p>Und dann ist da das, was kein Tierarzt verschreibt: mit zwölf sieht Nutella die Katzen des Nachbarn, bellt und läuft ihnen hinterher — ohne sie je zu fangen, versteht sich — und dieses Laufen hält sie wach, im Körper und im Kopf. Ein alter Hund, der noch einen Grund hat, sich zu bewegen, und etwas zu tun hat, altert langsamer als einer, der auf dem Sofa gelassen wird: Anreiz, Bewegung und ein Grund aufzustehen gehören ebenso zur Langlebigkeit wie der Napf.</p>
+  <p>Und dann ist da das, was kein Tierarzt verschreibt: mit zwölf sieht Nutella die Katzen des Nachbarn, bellt und läuft ihnen hinterher, ohne sie je zu fangen, versteht sich. Und dieses Laufen hält sie wach, im Körper und im Kopf. Ein alter Hund, der noch einen Grund hat, sich zu bewegen, und etwas zu tun hat, altert langsamer als einer, der auf dem Sofa gelassen wird: Anreiz, Bewegung und ein Grund aufzustehen gehören ebenso zur Langlebigkeit wie der Napf.</p>
   </div>
   </div>
   </section>
@@ -153,21 +153,21 @@ custom_content: |
   <div class="faq-item">
   <h3 class="faq-q">Welcher war der langlebigste Hund, den Sie hatten?</h3>
   <div class="faq-answer">
-  <p>Der Vater unserer Nutella, in Nordirland geboren, wurde siebzehn und ging bis zuletzt mit seinem Züchter durch den Wald. Nutella ist heute zwölf und bei bester Gesundheit, und wir haben zwei weitere Hündinnen von zehn und neun Jahren ohne jedes Problem. Wir erwähnen es, weil es die wichtigste Angabe bei der Welpenwahl ist: Langlebigkeit wird vererbt. Nach Alter und Gesundheit von Groß- und Urgroßeltern zu fragen sagt mehr als viele Zertifikate, denn es zeigt, ob die Hunde dieser Linie gut alt werden, oder ob sich eine Geschichte von Problemen wiederholt.</p>
+  <p>Der Vater unserer Nutella, in Nordirland geboren, wurde siebzehn und ging bis zuletzt mit seinem Züchter durch den Wald. Nutella ist heute zwölf und bei bester Gesundheit, und wir haben zwei weitere Hündinnen von zehn und neun Jahren ohne jedes Problem. Wir erwähnen es, weil es die wichtigste Angabe bei der Welpenwahl ist: Langlebigkeit wird zum Teil vererbt. Nach Alter und Gesundheit von Groß- und Urgroßeltern zu fragen sagt mehr als viele Zertifikate, denn es zeigt, ob die Hunde dieser Linie gut alt werden, oder ob sich eine Geschichte von Problemen wiederholt.</p>
   </div>
   </div>
 
   <div class="faq-item">
   <h3 class="faq-q">Was kann ich tun, damit mein Staffy länger lebt?</h3>
   <div class="faq-answer">
-  <p>Ihn schlank zu halten ist das Wirksamste überhaupt: du solltest die Rippen mit flacher Hand ohne Drücken fühlen und von oben eine Taille sehen. Ein Drittel der verlorenen Jahre bei Familienhunden geht auf Übergewicht zurück. Dann: regelmäßige, altersgerechte Bewegung, saubere Zähne gegen die chronische Entzündung, die Herz und Nieren zermürbt, ein Tierarztcheck einmal im Jahr bis sieben oder acht und danach zweimal im Jahr. Und als Welpe das Wachstum nicht mit zu viel Futter oder zu viel Belastung auf noch weiche Gelenke erzwingen: ein langsam aufgebauter Hund hält länger als einer, der in Eile gewachsen ist.</p>
+  <p>Ihn schlank zu halten ist das Wirksamste überhaupt: du solltest die Rippen mit flacher Hand ohne Drücken fühlen und von oben eine Taille sehen. Dann: regelmäßige, altersgerechte Bewegung, saubere Zähne gegen die chronische Entzündung, die Herz und Nieren zermürbt, ein Tierarztcheck einmal im Jahr bis sieben oder acht und danach zweimal im Jahr. Und als Welpe das Wachstum nicht mit zu viel Futter oder zu viel Belastung auf noch weiche Gelenke erzwingen: ein langsam aufgebauter Hund hält länger als einer, der in Eile gewachsen ist.</p>
   </div>
   </div>
 
   <div class="faq-item">
   <h3 class="faq-q">Hängt die Langlebigkeit von der Zucht ab?</h3>
   <div class="faq-answer">
-  <p>Sie hängt zuallererst davon ab. Ein Hund aus Eltern, die auf die Erbkrankheiten der Rasse getestet sind — <a href="/de/staffy-gentests-l2hga-hc/" title="Gentests L2-HGA und HC">L2-HGA und erblicher Katarakt</a> —, mit begrenztem Inzuchtgrad und guter Atmung, bringt die Voraussetzungen mit, alt zu werden. Umgekehrt wird ein Hund, der eine genetische Krankheit trägt oder wegen einer zu kurzen Schnauze schlecht atmet, kaum vierzehn werden, so gut man ihn auch hält. Deshalb lautet die erste Frage nicht "wie alt wird die Rasse", sondern "wie alt werden die Hunde dieser Linie, und wie geht es ihnen im Alter": wie man einen Züchter erkennt, der darauf antwortet, erklärt der Ratgeber dazu, <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie wählt man eine Staffordshire-Bull-Terrier-Zucht">wie man eine Zucht wählt</a>.</p>
+  <p>Sie hängt zuallererst davon ab. Ein Hund aus Eltern, die auf die Erbkrankheiten der Rasse getestet sind (<a href="/de/staffy-gentests-l2hga-hc/" title="Gentests L2-HGA und HC">L2-HGA, erblicher Katarakt und degenerative Myelopathie</a>), mit begrenztem Inzuchtgrad und guter Atmung, bringt die Voraussetzungen mit, alt zu werden. Umgekehrt wird ein Hund, der eine genetische Krankheit trägt oder wegen einer zu kurzen Schnauze schlecht atmet, kaum vierzehn werden, so gut man ihn auch hält. Deshalb lautet die erste Frage nicht "wie alt wird die Rasse", sondern "wie alt werden die Hunde dieser Linie, und wie geht es ihnen im Alter": wie man einen Züchter erkennt, der darauf antwortet, erklärt der Ratgeber dazu, <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie wählt man eine Staffordshire-Bull-Terrier-Zucht">wie man eine Zucht wählt</a>.</p>
   </div>
   </div>
   </div>
@@ -182,8 +182,8 @@ custom_content: |
 
   <div class="content-block">
   <ul>
-  <li><a href="https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="The Kennel Club (UK) — Staffordshire Bull Terrier (öffnet in einem neuen Tab)">The Kennel Club (UK) — Staffordshire Bull Terrier</a></li>
-  <li><a href="https://www.purina.ca/articles/dog/health/landmark-life-span-study-in-dogs" target="_blank" rel="noopener" aria-label="Purina — Landmark Life Span Study in Dogs (Kealy et al., 2002) (öffnet in einem neuen Tab)">Purina — Landmark Life Span Study in Dogs (Kealy et al., 2002)</a></li>
+  <li><a href="https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="The Kennel Club (UK), Staffordshire Bull Terrier (öffnet in einem neuen Tab)">The Kennel Club (UK), Staffordshire Bull Terrier</a></li>
+  <li><a href="https://www.purina.ca/articles/dog/health/landmark-life-span-study-in-dogs" target="_blank" rel="noopener" aria-label="Purina, Landmark Life Span Study in Dogs (Kealy et al., 2002) (öffnet in einem neuen Tab)">Purina, Landmark Life Span Study in Dogs (Kealy et al., 2002)</a></li>
   </ul>
   <p>Die Angaben zu unseren Hunden (Nutella und die anderen Hündinnen sowie Nutellas Vater) stammen aus unserer direkten Zuchterfahrung und sind in der Zucht anhand der Unterlagen der einzelnen Hunde überprüfbar.</p>
   </div>

@@ -1,7 +1,7 @@
 ---
 title: "Quanto vive lo Staffordshire Bull Terrier"
 date: 2026-10-11
-lastmod: 2026-10-11
+lastmod: 2026-10-17
 titleSeo: "Quanto vive lo Staffordshire Bull Terrier"
 translationKey: "longevita"
 articolo: true
@@ -20,16 +20,16 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Salute e Longevità</span>
+  <span class="hero-eyebrow">Salute e longevità</span>
   <h1 class="hero-title">Quanto vive lo <em>Staffordshire Bull Terrier</em></h1>
   <p class="hero-subtitle">12-14 anni, e cosa fa davvero la differenza</p>
   <div class="hero-meta">
-  <span>📅 11 Ottobre 2026</span>
+  <span>📅 11 ottobre 2026</span>
   <span>⏱️ 6 min lettura</span>
   </div>
   <p class="hero-description">La razza è longeva per la sua taglia. Ma la media non è un destino: dopo la genetica, il peso è la leva che allunga o accorcia la vita più di ogni altra.</p>
   <div class="hero-actions">
-  <a href="/femmine-staffordshire-bull-terrier/" class="btn btn-primary" title="I nostri riproduttori">I Nostri Soggetti</a>
+  <a href="/femmine-staffordshire-bull-terrier/" class="btn btn-primary" title="I nostri riproduttori">I nostri cani</a>
   <a href="/wa/393924635584" class="btn btn-ghost" title="Contattaci">Contattaci</a>
   </div>
   </div>
@@ -38,8 +38,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>12-14 Anni</span><span>La Genetica Prima</span><span>Il Peso Conta</span><span>Respirare Bene</span><span>Invecchiare in Salute</span><span>I Nostri Cani</span>
-  <span>12-14 Anni</span><span>La Genetica Prima</span><span>Il Peso Conta</span><span>Respirare Bene</span><span>Invecchiare in Salute</span><span>I Nostri Cani</span>
+  <span>12-14 anni</span><span>Prima la genetica</span><span>Il peso conta</span><span>Respirare bene</span><span>Invecchiare in salute</span><span>I nostri cani</span>
+  <span>12-14 anni</span><span>Prima la genetica</span><span>Il peso conta</span><span>Respirare bene</span><span>Invecchiare in salute</span><span>I nostri cani</span>
   </div>
   </div>
 
@@ -47,14 +47,14 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">La media</span>
-  <p>Lo Staffordshire Bull Terrier vive in media <strong>12-14 anni</strong>, una longevità alta per un cane di taglia media-piccola e muscoloso. All'<a href="/">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier a Ostellato (FE)</a>, Nutella ha 12 anni e non ha mai avuto un problema di salute, altre due femmine ne hanno 10 e 9, e il padre di Nutella — nato in Irlanda del Nord — è arrivato a 17 anni ancora in grado di seguire il suo allevatore nel bosco. Dopo la genetica, il fattore che incide di più non è una cura miracolosa ma il peso: uno studio durato quattordici anni ha mostrato che i cani mantenuti magri vivono in media quasi due anni in più. Un cane che respira bene, si muove e non ingrassa invecchia meglio.</p>
+  <p>Lo Staffordshire Bull Terrier vive in media <strong>12-14 anni</strong>, una longevità alta per un cane di taglia media-piccola e muscoloso. All'<a href="/">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier a Ostellato (FE)</a>, Nutella ha 12 anni e non ha mai avuto un problema di salute, altre due femmine ne hanno 10 e 9, e il padre di Nutella, nato in Irlanda del Nord, è arrivato a 17 anni ancora in grado di seguire il suo allevatore nel bosco. Dopo la genetica, il fattore che incide di più non è una cura miracolosa ma il peso: uno studio durato quattordici anni ha mostrato che i cani mantenuti magri vivono in media quasi due anni in più. Un cane che respira bene, si muove e non ingrassa invecchia meglio.</p>
 
   <h2 class="section-title">Una razza longeva per la sua taglia</h2>
 
   <div class="content-block">
   <p>Nei cani vale una regola generale: più la taglia è piccola, più la vita è lunga. Lo Staffordshire Bull Terrier è un cane compatto e ben costruito, e si colloca nella fascia buona: il <a href="https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="Kennel Club britannico – The Kennel Club (UK) — Staffordshire Bull Terrier (si apre in una nuova scheda)">Kennel Club britannico</a> indica per la razza un'aspettativa di vita intorno ai 12-14 anni.</p>
 
-  <p>È una media, non una garanzia. Significa che molti cani la superano e alcuni non la raggiungono, e la differenza quasi mai è il caso: è la somma di come il cane è stato selezionato e di come viene tenuto. La genetica fissa il punto di partenza; il peso, il movimento, la respirazione e le cure decidono quanto ci si avvicina — o quanto lo si supera.</p>
+  <p>È una media, non una garanzia. Significa che molti cani la superano e alcuni non la raggiungono, e la differenza quasi mai è il caso: è la somma di come il cane è stato selezionato e di come viene tenuto. La genetica fissa il punto di partenza; il peso, il movimento, la respirazione e le cure decidono quanto ci si avvicina, o quanto la si supera.</p>
   </div>
   </div>
   </section>
@@ -64,17 +64,17 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Cosa fa la differenza</span>
-  <h2 class="section-title">Tre cose che allungano la vita (e una che la accorcia)</h2>
+  <h2 class="section-title">Tre cose che allungano la vita</h2>
 
   <div class="content-block">
-  <p>Dopo la genetica — che non si cambia dopo che il cucciolo è nato — restano tre leve su cui si può agire davvero, e un errore che è la causa di morte precoce più diffusa e più sottovalutata.</p>
+  <p>La genetica non si cambia dopo che il cucciolo è nato. Restano tre cose su cui si può agire davvero.</p>
   </div>
 
   <div class="zigzag">
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Il peso: la leva più potente</h3>
-  <p>È il fattore che, dopo la genetica, incide di più. Lo <a href="https://www.purina.ca/articles/dog/health/landmark-life-span-study-in-dogs" target="_blank" rel="noopener" aria-label="studio sull'aspettativa di vita di Purina – Purina — studio sull'aspettativa di vita nei cani (si apre in una nuova scheda)">studio sull'aspettativa di vita di Purina</a>, durato quattordici anni su coppie di cani identici, ha trovato che quelli mantenuti magri sono vissuti in media <strong>1,8 anni in più</strong> dei fratelli nutriti a volontà. Sullo Staffy, che è muscoloso e goloso, è facilissimo sbagliare: la regola è sentire le costole premendo appena, senza vederle. Un cane in sovrappeso non è "in salute perché mangia bene": è un cane a cui si stanno togliendo mesi di vita.</p>
+  <p>È il fattore che, dopo la genetica, incide di più. Lo <a href="https://www.purina.ca/articles/dog/health/landmark-life-span-study-in-dogs" target="_blank" rel="noopener" aria-label="studio sull'aspettativa di vita di Purina – Purina — studio sull'aspettativa di vita nei cani (si apre in una nuova scheda)">studio sull'aspettativa di vita di Purina</a>, durato quattordici anni su coppie di Labrador della stessa cucciolata, ha trovato che quelli mantenuti magri sono vissuti in media <strong>1,8 anni in più</strong> dei fratelli nutriti a volontà. Sullo Staffy, che è muscoloso e goloso, è facilissimo sbagliare: la regola è sentire le costole appoggiando la mano, senza premere e senza vederle. Un cane in sovrappeso non è "in salute perché mangia bene": è un cane a cui si stanno togliendo mesi di vita.</p>
   </div>
   <div class="zigzag-image"></div>
   </div>
@@ -82,7 +82,7 @@ custom_content: |
   <div class="zigzag-item">
   <div class="zigzag-text">
   <h3>Respirare bene</h3>
-  <p>Un cane che respira male invecchia male. La <a href="/boas-staffordshire-bull-terrier-respirazione/" title="BOAS nello Staffordshire Bull Terrier">BOAS</a> non è solo una questione di muso corto: è un insieme di anomalie delle vie aeree — narici strette, palato molle troppo lungo e ispessito, sacculi laringei estroflessi, trachea stretta — in cui il muso corto è un fattore di rischio, non l'unica causa. Lo Staffordshire Bull Terrier non è una razza brachicefala, ma le linee selezionate per un muso troppo corto ne sono colpite più spesso, e quelle difficoltà limitano il movimento, la tolleranza al caldo e, alla lunga, la durata della vita. Un cucciolo scelto da genitori che respirano in silenzio e corrono senza affannarsi parte con un vantaggio che dura tutta la vita.</p>
+  <p>Un cane che respira male invecchia male. La <a href="/boas-staffordshire-bull-terrier-respirazione/" title="BOAS nello Staffordshire Bull Terrier">BOAS</a> non è solo una questione di muso corto: è un insieme di anomalie delle vie aeree (narici strette, palato molle troppo lungo e ispessito, sacculi laringei estroflessi, trachea stretta) in cui il muso corto è un fattore di rischio, non l'unica causa. Lo Staffordshire Bull Terrier non è una razza brachicefala, ma le linee selezionate per un muso troppo corto ne sono colpite più spesso, e quelle difficoltà limitano il movimento, la tolleranza al caldo e, alla lunga, la durata della vita. Un cucciolo scelto da genitori che respirano in silenzio e corrono senza affannarsi parte con un vantaggio che dura tutta la vita.</p>
   </div>
   <div class="zigzag-image"></div>
   </div>
@@ -108,7 +108,7 @@ custom_content: |
   <div class="content-block">
   <p>Le medie si leggono meglio sui cani veri. <strong>Nutella</strong> ha 12 anni, non ha mai avuto un problema di salute, ha cresciuto due cucciolate ed è stata sterilizzata durante il secondo parto. Suo <strong>padre</strong>, nato da un allevatore dell'Irlanda del Nord, è morto a <strong>17 anni</strong>: fino alla fine andava a camminare nel bosco insieme a lui. Nel nostro gruppo ci sono altre due femmine, di <strong>10 e 9 anni</strong>, anche loro senza alcun problema di salute.</p>
 
-  <p>Non lo raccontiamo per vanto, ma perché la longevità non è un numero astratto: è una caratteristica che corre nelle linee di sangue. Un cane i cui nonni e genitori hanno superato i dodici anni in salute parte avvantaggiato. È una delle domande più utili da fare a un allevatore — <strong>quanti anni hanno vissuto i nonni di questo cucciolo, e di cosa sono morti</strong> — e quasi nessuno la fa.</p>
+  <p>Lo raccontiamo perché la longevità non è un numero astratto: in parte corre nelle linee di sangue. Un cane i cui nonni e genitori hanno superato i dodici anni in salute parte avvantaggiato. È una delle domande più utili da fare a un allevatore, e quasi nessuno la fa: <strong>quanti anni hanno vissuto i nonni di questo cucciolo, e di cosa sono morti</strong>.</p>
   </div>
   </div>
   </section>
@@ -121,7 +121,7 @@ custom_content: |
   <h2 class="section-title">Cosa cambia dopo i dieci anni</h2>
 
   <div class="content-block">
-  <p>Invecchiare bene non vuol dire non invecchiare. Nutella, a dodici anni, al mattino è un po' irrigidita — poca cosa, si scioglie dopo i primi passi — e sente meno: per farsi ascoltare bisogna alzare la voce. Sono i segni normali dell'età, non malattie, e con qualche accortezza non tolgono nulla alla qualità della vita.</p>
+  <p>Invecchiare bene non vuol dire non invecchiare. Nutella, a dodici anni, al mattino è un po' irrigidita (poca cosa, si scioglie dopo i primi passi) e sente meno: per farsi ascoltare bisogna alzare la voce. Sono i segni normali dell'età, non malattie, e con qualche accortezza non tolgono nulla alla qualità della vita.</p>
 
   <p>Un paio di cose che facciamo, e che vanno un po' controcorrente rispetto a quello che si legge in giro:</p>
 
@@ -131,7 +131,7 @@ custom_content: |
   <li><strong>L'udito che cala non è una tragedia.</strong> Il cane compensa con la vista e le vibrazioni: ci si abitua a farsi vedere prima di toccarlo e a usare qualche gesto al posto della voce. Non soffre, si adatta.</li>
   </ul>
 
-  <p>E poi c'è la cosa che nessun veterinario prescrive: a dodici anni Nutella vede i gatti del vicino, abbaia e gli corre dietro — senza mai prenderli, ovviamente — e quella corsa la tiene sveglia nel corpo e nella testa. Un cane anziano che ha ancora un motivo per muoversi e qualcosa da fare invecchia più lentamente di uno lasciato sul divano: lo stimolo, il movimento e una ragione per alzarsi sono parte della longevità quanto la ciotola.</p>
+  <p>E poi c'è la cosa che nessun veterinario prescrive: a dodici anni Nutella vede i gatti del vicino, abbaia e gli corre dietro, senza mai prenderli, ovviamente. E quella corsa la tiene sveglia nel corpo e nella testa. Un cane anziano che ha ancora un motivo per muoversi e qualcosa da fare invecchia più lentamente di uno lasciato sul divano: lo stimolo, il movimento e una ragione per alzarsi sono parte della longevità quanto la ciotola.</p>
   </div>
   </div>
   </section>
@@ -153,21 +153,21 @@ custom_content: |
   <div class="faq-item">
   <h3 class="faq-q">Qual è il cane più longevo che avete avuto?</h3>
   <div class="faq-answer">
-  <p>Il padre della nostra Nutella, nato in Irlanda del Nord, è arrivato a diciassette anni, e fino all'ultimo accompagnava il suo allevatore nelle passeggiate nel bosco. Nutella oggi ha dodici anni ed è in piena salute, e abbiamo altre due femmine di dieci e nove anni senza alcun problema. Lo diciamo perché è il dato che conta di più quando si sceglie un cucciolo: la longevità è ereditaria. Chiedere l'età e lo stato di salute di nonni e bisnonni dice più di tanti certificati, perché mostra se in quella linea i cani arrivano vecchi e bene, o se c'è una storia di problemi che si ripete.</p>
+  <p>Il padre della nostra Nutella, nato in Irlanda del Nord, è arrivato a diciassette anni, e fino all'ultimo accompagnava il suo allevatore nelle passeggiate nel bosco. Nutella oggi ha dodici anni ed è in piena salute, e abbiamo altre due femmine di dieci e nove anni senza alcun problema. Lo diciamo perché è il dato che conta di più quando si sceglie un cucciolo: la longevità, in parte, si eredita. Chiedere l'età e lo stato di salute di nonni e bisnonni dice più di tanti certificati, perché mostra se in quella linea i cani arrivano vecchi e bene, o se c'è una storia di problemi che si ripete.</p>
   </div>
   </div>
 
   <div class="faq-item">
   <h3 class="faq-q">Cosa posso fare per far vivere più a lungo il mio Staffy?</h3>
   <div class="faq-answer">
-  <p>Tenerlo magro è la cosa singola più efficace: devi sentire le costole appoggiando la mano senza premere, e vedere la vita dall'alto. Un terzo degli anni persi nei cani di famiglia se ne va in sovrappeso. Poi: movimento regolare e adatto all'età, denti puliti per evitare l'infiammazione cronica che logora cuore e reni, controlli veterinari una volta l'anno fino ai sette-otto anni e due volte l'anno dopo. Infine, da cuccioli, non forzare la crescita con troppo cibo o troppa attività sulle articolazioni ancora tenere: un cane costruito con calma dura di più di uno cresciuto in fretta.</p>
+  <p>Tenerlo magro è la cosa singola più efficace: devi sentire le costole appoggiando la mano senza premere, e vedere la vita dall'alto. Poi: movimento regolare e adatto all'età, denti puliti per evitare l'infiammazione cronica che logora cuore e reni, controlli veterinari una volta l'anno fino ai sette-otto anni e due volte l'anno dopo. Infine, da cuccioli, non forzare la crescita con troppo cibo o troppa attività sulle articolazioni ancora tenere: un cane costruito con calma dura di più di uno cresciuto in fretta.</p>
   </div>
   </div>
 
   <div class="faq-item">
   <h3 class="faq-q">La longevità dipende dall'allevamento?</h3>
   <div class="faq-answer">
-  <p>Dipende prima di tutto da lì. Un cane che nasce da genitori testati per le malattie ereditarie della razza — <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">L2-HGA e cataratta ereditaria</a> — con una consanguineità contenuta e una buona respirazione parte con i presupposti per arrivare vecchio. Al contrario, un cane che porta una malattia genetica, o che respira male perché selezionato per un muso troppo corto, difficilmente vedrà i quattordici anni per quanto bene lo si tenga. Per questo la prima domanda non è "quanto vive la razza", ma "quanto vivono i cani di questa linea, e come stanno da vecchi": come riconoscere un allevamento che risponde a questa domanda è spiegato nella guida su <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento di Staffordshire Bull Terrier">come scegliere l'allevamento</a>.</p>
+  <p>Dipende prima di tutto da lì. Un cane che nasce da genitori testati per le malattie ereditarie della razza (<a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">L2-HGA, cataratta ereditaria e mielopatia degenerativa</a>), con una consanguineità contenuta e una buona respirazione parte con i presupposti per arrivare vecchio. Al contrario, un cane che porta una malattia genetica, o che respira male perché selezionato per un muso troppo corto, difficilmente vedrà i quattordici anni per quanto bene lo si tenga. Per questo la prima domanda non è "quanto vive la razza", ma "quanto vivono i cani di questa linea, e come stanno da vecchi": come riconoscere un allevamento che risponde a questa domanda è spiegato nella guida su <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento di Staffordshire Bull Terrier">come scegliere l'allevamento</a>.</p>
   </div>
   </div>
   </div>
@@ -182,8 +182,8 @@ custom_content: |
 
   <div class="content-block">
   <ul>
-  <li><a href="https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="The Kennel Club (UK) — Staffordshire Bull Terrier (si apre in una nuova scheda)">The Kennel Club (UK) — Staffordshire Bull Terrier</a></li>
-  <li><a href="https://www.purina.ca/articles/dog/health/landmark-life-span-study-in-dogs" target="_blank" rel="noopener" aria-label="Purina — Landmark Life Span Study in Dogs (Kealy et al., 2002) (si apre in una nuova scheda)">Purina — Landmark Life Span Study in Dogs (Kealy et al., 2002)</a></li>
+  <li><a href="https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="The Kennel Club (UK), Staffordshire Bull Terrier (si apre in una nuova scheda)">The Kennel Club (UK), Staffordshire Bull Terrier</a></li>
+  <li><a href="https://www.purina.ca/articles/dog/health/landmark-life-span-study-in-dogs" target="_blank" rel="noopener" aria-label="Purina, Landmark Life Span Study in Dogs (Kealy et al., 2002) (si apre in una nuova scheda)">Purina, Landmark Life Span Study in Dogs (Kealy et al., 2002)</a></li>
   </ul>
   <p>I dati sui nostri cani (Nutella e le altre femmine, il padre di Nutella) sono della nostra esperienza diretta di allevamento e si verificano in allevamento, con i documenti dei singoli soggetti.</p>
   </div>
