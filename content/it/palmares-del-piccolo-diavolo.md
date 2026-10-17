@@ -35,6 +35,11 @@ custom_content: |
   </div>
   <div>
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
+  <h3>CACIB all'Esposizione Internazionale di Treviso</h3>
+  <p><strong>17 ottobre 2026: Esposizione Internazionale di Treviso, a Santa Lucia di Piave (TV)</strong></p>
+  <p>Classe Intermedia: 1° Eccellente, CAC, CACIB e BOS, cioè miglior soggetto del sesso opposto al miglior di razza. Giudice: Guido Schaffer (Germania).</p>
+  </div>
+  <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
   <h3>Giovane Campionessa Italiana ENCI 2026</h3>
   <p><strong>17 maggio 2026 — Esposizione Nazionale di Albarella (RO)</strong></p>
   <p>Classe Giovani: 1° Eccellente, JCAC, JBOB, BOB. Premiata dal Gruppo Cinofilo Polesano come <strong>miglior Staffordshire Bull Terrier</strong>. Con questo risultato conquista il titolo di Giovane Campionessa Italiana.</p>

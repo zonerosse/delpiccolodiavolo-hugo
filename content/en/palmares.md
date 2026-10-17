@@ -344,6 +344,11 @@ custom_content: |
   </div>
   <div>
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
+  <h3>CACIB at the Treviso International Show</h3>
+  <p><strong>17 October 2026: Treviso International Show, at Santa Lucia di Piave (TV)</strong></p>
+  <p>Intermediate Class: Excellent 1st, CAC, CACIB and BOS, that is best of the opposite sex to the Best of Breed. Judge: Guido Schaffer (Germany).</p>
+  </div>
+  <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
   <h3>Italian Junior Champion 2026</h3>
   <p>In Albarella (RO), on 17 May 2026, Queen won Excellent 1st in the Junior Class with JCAC, JBOB and BOB, awarded Best Staffordshire Bull Terrier by the Polesano Canine Group — Italian Junior Champion title.</p>
   </div>

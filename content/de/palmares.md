@@ -340,6 +340,11 @@ custom_content: |
   </div>
   <div>
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
+  <h3>CACIB auf der Internationalen Ausstellung Treviso</h3>
+  <p><strong>17. Oktober 2026: Internationale Ausstellung Treviso, in Santa Lucia di Piave (TV)</strong></p>
+  <p>Zwischenklasse: Vorzüglich 1., CAC, CACIB und BOS, also bestes Tier des anderen Geschlechts zum Besten der Rasse. Richter: Guido Schaffer (Deutschland).</p>
+  </div>
+  <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
   <h3>Italienische Jugendchampionin 2026</h3>
   <p>In Albarella (RO), am 17. Mai 2026, gewann Queen in der Jugendklasse Vorzüglich 1. mit JCAC, JBOB und BOB, ausgezeichnet als Bester Staffordshire Bull Terrier der kynologischen Gruppe Polesano — Titel Italienische Jugendchampionin.</p>
   </div>
