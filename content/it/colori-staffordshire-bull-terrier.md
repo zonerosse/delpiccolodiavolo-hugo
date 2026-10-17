@@ -1,7 +1,7 @@
 ---
 title: "I colori dello Staffordshire Bull Terrier: nero, tigrato, blu e altri"
 date: 2026-08-01
-lastmod: 2026-10-08
+lastmod: 2026-10-17
 titleSeo: "Colori dello Staffordshire Bull Terrier: nero, tigrato, blu"
 translationKey: "colori"
 articolo: true
@@ -33,21 +33,22 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Standard FCI</span><span>Nero</span><span>Tigrato</span><span>Fulvo e Rosso</span><span>Blu Diluito</span><span>Bianco e Pezzati</span><span>Salute</span><span>FAQ</span>
-  <span>Standard FCI</span><span>Nero</span><span>Tigrato</span><span>Fulvo e Rosso</span><span>Blu Diluito</span><span>Bianco e Pezzati</span><span>Salute</span><span>FAQ</span>
+  <span>Standard FCI</span><span>Nero</span><span>Tigrato</span><span>Fulvo e rosso</span><span>Blu diluito</span><span>Bianco e pezzati</span><span>Salute</span><span>FAQ</span>
+  <span>Standard FCI</span><span>Nero</span><span>Tigrato</span><span>Fulvo e rosso</span><span>Blu diluito</span><span>Bianco e pezzati</span><span>Salute</span><span>FAQ</span>
   </div>
   </div>
 
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
+  <a aria-label="Standard e linee di sangue &mdash; categoria del blog" href="/blog/#standard" title="Articoli su standard e linee">Standard e linee</a> ›
   <span>I colori dello Staffordshire Bull Terrier</span>
   </nav>
 
   <div class="article-container">
   <article class="article-content">
 
-  <p>Lo standard FCI n. 76 dello Staffordshire Bull Terrier ammette cinque colori, rosso, fulvo, bianco, nero e blu, ciascuno con o senza bianco, più qualsiasi tonalità di tigrato, anch'essa con o senza bianco. Il nero focato (black and tan) e il fegato (liver) non sono vietati, ma lo standard li definisce altamente indesiderabili: in esposizione vengono penalizzati, mentre come compagno il cane non vale meno degli altri. Il tigrato va dal chiaro al black brindle, così carico da sembrare nero; il nero può essere pieno o con pezzature bianche su petto, dita e muso. Il blu è un caso a parte: lo standard lo ammette, ma è un colore diluito legato a possibili problemi di pelle, e un allevatore attento lo tratta con cautela. Nell'allevamento Del Piccolo Diavolo, a Ostellato in provincia di Ferrara, la cucciolata di agosto 2026 fra Bilquis e Black Jack ha dato cuccioli neri.</p>
+  <p>Lo standard FCI n. 76 dello Staffordshire Bull Terrier ammette cinque colori, rosso, fulvo, bianco, nero e blu, ciascuno con o senza bianco, più qualsiasi tonalità di tigrato, anch'essa con o senza bianco. Il nero focato (black and tan) e il fegato (liver) sono colori non desiderati: lo standard li definisce altamente indesiderabili e in esposizione vengono penalizzati, anche se come compagno il cane non vale meno degli altri. Il tigrato va dal chiaro al black brindle, così carico da sembrare nero; il nero può essere pieno o con pezzature bianche su petto, dita e muso. Il blu è ammesso come il nero, ma molti allevatori non lo allevano: è un colore diluito e può dare problemi di pelo e di pelle. Nell'allevamento Del Piccolo Diavolo, a Ostellato in provincia di Ferrara, la cucciolata di agosto 2026 fra Bilquis e Black Jack ha dato cuccioli neri e tigrati neri con bianco.</p>
 
 
   <!--BLOCCO:2-->
@@ -62,51 +63,52 @@ custom_content: |
   <li>Ognuno di questi <strong>con o senza bianco</strong></li>
   <li>Qualsiasi tonalità di <strong>tigrato (brindle)</strong>, con o senza bianco</li>
   </ul>
-  <p>Lo standard indica anche due colori <strong>altamente indesiderabili</strong>: il <strong>nero focato</strong> (black and tan, cioè nero con focature marroni) e il colore <strong>fegato</strong> (liver). Non sono vietati: un cane di questi colori in esposizione viene penalizzato, ma come compagno può essere ottimo quanto gli altri.</p>
+  <p>Lo standard indica anche due colori <strong>altamente indesiderabili</strong>: il <strong>nero focato</strong> (black and tan, cioè nero con focature marroni) e il colore <strong>fegato</strong> (liver). Non sono colori desiderati: in esposizione un cane così viene penalizzato, e un allevamento che segue lo standard non lo usa in riproduzione. Come compagno, però, vale quanto gli altri.</p>
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
-  <h2>Nero — elegante e sempre attuale</h2>
-  <p>Il nero pieno è uno dei colori più amati e scenografici della razza: un mantello raso, lucido e uniforme che mette in risalto la muscolatura tipica dello Staffy. Può presentarsi in nero pieno oppure <strong>nero con bianco</strong> (pezzature sul petto, sulle dita, sul muso).</p>
-  <p>È un colore perfettamente conforme allo standard e molto richiesto. I colori di ogni cucciolata dell'allevamento sono indicati nella pagina dei <a href="/cuccioli-staffordshire-bull-terrier/">cuccioli di Staffordshire Bull Terrier</a>.</p>
+  <h2>Il nero</h2>
+  <p>Il nero è un mantello raso, lucido e uniforme, che mette in risalto la muscolatura dello Staffy. Può presentarsi in nero pieno oppure <strong>nero con bianco</strong> (pezzature sul petto, sulle dita, sul muso).</p>
+  <p>È un colore conforme allo standard. I colori di ogni cucciolata dell'allevamento sono indicati nella pagina dei <a href="/cuccioli-staffordshire-bull-terrier/">cuccioli di Staffordshire Bull Terrier</a>.</p>
 
   <figure class="article-image">
   <img src="/images/cuccioli-bilquis-nati-2.webp" alt="Cuccioli Staffordshire Bull Terrier neri appena nati - cucciolata Del Piccolo Diavolo" loading="lazy" decoding="async" width="468" height="480" style="height:auto">
-  <figcaption>I nostri cuccioli neri della cucciolata di Bilquis × Black Jack (agosto 2026).</figcaption>
+  <figcaption>Cuccioli neri della cucciolata di Bilquis × Black Jack (agosto 2026).</figcaption>
   </figure>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
-  <h2>Tigrato (brindle) — il classico intramontabile</h2>
-  <p>Il tigrato è forse il colore più iconico dello Staffordshire Bull Terrier: un fondo fulvo o rossastro attraversato da striature scure, in infinite tonalità. Lo standard ammette <strong>qualsiasi sfumatura di tigrato</strong>, dal chiaro al molto scuro (il cosiddetto "black brindle", così carico da sembrare quasi nero).</p>
-  <p>Può essere tigrato pieno o <strong>tigrato e bianco</strong> (con pezzature). È un colore ricco di fascino e profondamente legato alla storia della razza.</p>
+  <h2>Il tigrato (brindle)</h2>
+  <p>Il tigrato è un fondo fulvo o rossastro attraversato da striature scure, in infinite tonalità. Lo standard ammette <strong>qualsiasi sfumatura di tigrato</strong>, dal chiaro al molto scuro (il cosiddetto "black brindle", così carico da sembrare quasi nero).</p>
+  <p>Può essere tigrato pieno o <strong>tigrato e bianco</strong> (con pezzature). È un colore legato alla storia della razza.</p>
   <!--/BLOCCO:4-->
 
   <!--BLOCCO:5-->
-  <h2>Fulvo e rosso — dal miele al ramato</h2>
-  <p>Il <strong>fulvo</strong> (fawn) copre le tonalità dal crema/miele al beige dorato, mentre il <strong>rosso</strong> (red) va dal ramato all'intenso mattone. Entrambi sono ammessi con o senza bianco. Sono colori caldi e luminosi, molto apprezzati. Spesso questi soggetti hanno la maschera facciale più scura.</p>
+  <h2>Il fulvo e il rosso</h2>
+  <p>Il <strong>fulvo</strong> (fawn) copre le tonalità dal crema/miele al beige dorato, mentre il <strong>rosso</strong> (red) va dal ramato all'intenso mattone. Entrambi sono ammessi con o senza bianco. Spesso questi soggetti hanno la maschera facciale più scura.</p>
   <!--/BLOCCO:5-->
 
   <!--BLOCCO:6-->
   <h2>Bianco e pezzati (pied)</h2>
-  <p>Il <strong>bianco</strong> è ammesso, così come tutte le combinazioni <strong>colore + bianco</strong>. I soggetti a prevalenza bianca con macchie colorate vengono spesso chiamati <strong>pied</strong> (pezzati). Sono conformi allo standard e possono essere molto scenografici.</p>
+  <p>Il <strong>bianco</strong> è ammesso, così come tutte le combinazioni <strong>colore + bianco</strong>. I soggetti a prevalenza bianca con macchie colorate vengono spesso chiamati <strong>pied</strong> (pezzati). Sono conformi allo standard.</p>
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->
   <h2>Il caso del blu: bellezza e cautela</h2>
-  <p>Il <strong>blu</strong> è un grigio-ardesia che nasce da un gene di <strong>diluizione</strong> del nero. È presente nello standard, quindi è un colore ammesso. Tuttavia, va conosciuto per quello che è, con onestà.</p>
-  <p>Il gene diluito che produce il blu è associato, in una parte dei soggetti, alla <strong>alopecia da diluizione del colore</strong> (CDA), una condizione della pelle che può causare perdita di pelo e dermatiti. Non tutti i cani blu ne soffrono, ma il rischio esiste ed è legato proprio alla diluizione.</p>
-  <p>Per questo motivo gli <strong>allevatori seri trattano il blu con grande cautela</strong> ed evitano gli accoppiamenti tra due soggetti diluiti (blu × blu), considerati problematici sotto il profilo della salute. Diffida di chi promuove il blu come "colore raro e pregiato" a caro prezzo, ignorando gli aspetti sanitari: la salute viene prima dell'estetica.</p>
+  <p>Il <strong>blu</strong> è un grigio-ardesia che nasce da un gene di <strong>diluizione</strong> del nero. Lo standard lo ammette come il nero, il rosso o il tigrato. Molti allevatori però non lo allevano, perché il colore diluito pu&ograve; dare problemi di pelo e di pelle.</p>
+  <p>Un cane nasce blu quando eredita da entrambi i genitori una variante del gene MLPH. Come spiega il laboratorio <a href="https://laboklin.com/fr/?p=1510203" title="Laboklin, la diluizione del colore e la CDA" target="_blank" rel="noopener" aria-label="Laboklin, laboratorio di genetica veterinaria, sulla diluizione del colore (si apre in una nuova scheda)">Laboklin</a>, questa variante cambia il modo in cui il pigmento arriva al pelo: il pigmento si ammassa e il pelo diventa fragile. In una parte dei cani diluiti questo porta all'<strong>alopecia da diluizione del colore</strong> (CDA): il pelo si dirada, di solito sul dorso e sui fianchi, e la pelle pu&ograve; infiammarsi. Nello Staffy &egrave; stato <a href="https://rsdjournal.org/rsd/article/view/13486" title="Color dilution alopecia in a blue Staffordshire Bull Terrier bitch" target="_blank" rel="noopener" aria-label="descritto nel 2021, articolo su una femmina di Staffy blu con alopecia da diluizione (si apre in una nuova scheda)">descritto nel 2021</a> il caso di una femmina blu che ha cominciato a perdere il pelo a sei mesi.</p>
+  <p>Non tutti i cani blu si ammalano. Il test genetico dice se un cane &egrave; diluito, ma non se svilupper&agrave; la malattia: la conferma arriva solo con una biopsia della pelle.</p>
+  <p>Per questo chi alleva il blu lo fa <strong>con cautela</strong> ed evita gli accoppiamenti tra due soggetti diluiti (blu × blu), considerati problematici sotto il profilo della salute. Diffida di chi promuove il blu come "colore raro e pregiato" a caro prezzo, ignorando gli aspetti sanitari: la salute viene prima dell'estetica.</p>
 
   <div class="callout">
-  <p class="callout-title">🏆 Il nostro approccio ai colori</p>
-  <p>Nel <a href="/">nostro allevamento Del Piccolo Diavolo</a> la scelta dei riproduttori parte sempre dalla <strong>salute e dalla tipicità</strong>, non dalla "moda" di un colore. Selezioniamo colori conformi allo standard, con genitori <a href="/programma-allevamento/">testati per L2-HGA e HC</a>, ed evitiamo gli accoppiamenti diluiti a rischio. Un bel colore su un cane sano e tipico vale infinitamente più di un colore "raro" ottenuto a scapito del benessere.</p>
+  <p class="callout-title">Come scegliamo noi</p>
+  <p>Nel <a href="/">nostro allevamento Del Piccolo Diavolo</a> la scelta dei riproduttori parte sempre dalla <strong>salute e dalla tipicità</strong>, non dalla "moda" di un colore. Selezioniamo colori conformi allo standard, con genitori <a href="/programma-allevamento/">testati per L2HGA e HC</a>, ed evitiamo gli accoppiamenti diluiti a rischio. Un colore "raro" ottenuto a scapito della salute non vale niente.</p>
   </div>
   <!--/BLOCCO:7-->
 
   <!--BLOCCO:8-->
   <h2>Il colore influenza il carattere?</h2>
-  <p>No: è un mito da sfatare. Il <strong>colore del mantello non ha alcuna relazione con il <a href="/staffordshire-bull-terrier-carattere/" title="Temperamento dello Staffy: come è stato selezionato">temperamento</a></strong> dello Staffordshire Bull Terrier. Un cane nero, tigrato o fulvo può essere ugualmente dolce ed equilibrato. Il carattere dipende dalla genetica dei genitori, dalla socializzazione e da come il cucciolo viene allevato — non dalla tinta del pelo.</p>
+  <p>No: è un mito da sfatare. Il <strong>colore del mantello non ha alcuna relazione con il <a href="/staffordshire-bull-terrier-carattere/" title="Temperamento dello Staffy: come è stato selezionato">temperamento</a></strong> dello Staffordshire Bull Terrier. Un cane nero, tigrato o fulvo può essere ugualmente dolce ed equilibrato. Il carattere dipende dalla genetica dei genitori, dalla socializzazione e da come il cucciolo viene allevato, non dalla tinta del pelo.</p>
   <!--/BLOCCO:8-->
 
   <!--BLOCCO:9-->
@@ -122,7 +124,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3 class="faq-question">Il nero focato (black and tan) è ammesso?</h3>
-  <div class="faq-answer">Non è escluso, ma lo standard FCI lo definisce, insieme al fegato, <strong>altamente indesiderabile</strong>, e la ragione non &egrave; estetica: quelle colorazioni sono storicamente associate a incroci con altre razze, quindi la loro presenza mette in dubbio la purezza della linea. Un cucciolo nero focato pu&ograve; comunque nascere da due genitori con pedigree, perch&eacute; il gene pu&ograve; restare nascosto per generazioni, e in quel caso non &egrave; un cane meno sano n&eacute; meno amabile: semplicemente <strong>in esposizione viene penalizzato, e un allevamento che seleziona secondo lo standard non lo usa in riproduzione</strong>. Un allevamento serio lo dichiara apertamente invece di venderlo come colore raro a prezzo maggiorato, che &egrave; esattamente quello che succede in giro.</div>
+  <div class="faq-answer">&Egrave; un colore non desiderato: lo standard FCI lo definisce, insieme al fegato, <strong>altamente indesiderabile</strong>, e la ragione non &egrave; estetica: quelle colorazioni sono storicamente associate a incroci con altre razze, quindi la loro presenza mette in dubbio la purezza della linea. Un cucciolo nero focato pu&ograve; comunque nascere da due genitori con pedigree, perch&eacute; il gene pu&ograve; restare nascosto per generazioni, e in quel caso non &egrave; un cane meno sano n&eacute; meno amabile: semplicemente <strong>in esposizione viene penalizzato, e un allevamento che seleziona secondo lo standard non lo usa in riproduzione</strong>. Un allevamento serio lo dichiara apertamente invece di venderlo come colore raro a prezzo maggiorato, che &egrave; esattamente quello che succede in giro.</div>
   </div>
 
   <div class="faq-item">
@@ -137,7 +139,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3 class="faq-question">Un colore raro rende il cucciolo più prezioso?</h3>
-  <div class="faq-answer">Non dovrebbe, e quando succede &egrave; un segnale su chi hai davanti. Il valore di un cucciolo sta nei test genetici dei genitori, nel pedigree, nel lavoro di selezione dietro l'accoppiamento e nelle prime otto settimane di crescita: tutte cose che costano uguale a prescindere dal mantello. Chi fa pagare di pi&ugrave; un cucciolo perch&eacute; <em>raro</em> sta vendendo un'idea di esclusivit&agrave;, e nei casi peggiori sta spingendo colori fuori standard &mdash; blu diluito estremo, merle, nero focato &mdash; che con la razza non c'entrano. La domanda da fare a chiunque proponga un sovrapprezzo per il colore &egrave; semplice: <strong>quali test hanno i genitori, e posso vedere i referti con il microchip?</strong></div>
+  <div class="faq-answer">Non dovrebbe, e quando succede &egrave; un segnale su chi hai davanti. Il valore di un cucciolo sta nei test genetici dei genitori, nel pedigree, nel lavoro di selezione dietro l'accoppiamento e nei primi due mesi di crescita: tutte cose che costano uguale a prescindere dal mantello. Chi fa pagare di pi&ugrave; un cucciolo perch&eacute; <em>raro</em> sta vendendo un'idea di esclusivit&agrave;, e nei casi peggiori sta spingendo colori che lo standard non vuole, come il nero focato, o che con la razza non c'entrano, come il merle. La domanda da fare a chiunque proponga un sovrapprezzo per il colore &egrave; semplice: <strong>quali test hanno i genitori, e posso vedere i referti con il microchip?</strong></div>
   </div>
 
   </section>
@@ -153,7 +155,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
+  <a class="btn" href="/blog/" title="Torna al blog">&larr; Torna al blog</a>
 
   <p class="tags"><strong>Tag:</strong>
   <a href="/blog/" title="Articoli colori">colori staffordshire bull terrier</a>
