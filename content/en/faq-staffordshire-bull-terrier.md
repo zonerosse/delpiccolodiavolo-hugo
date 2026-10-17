@@ -17,9 +17,9 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">20 Questions & Answers</span>
+  <span class="hero-eyebrow">27 questions and answers</span>
   <h1 class="hero-title">Frequently <br><em>asked</em> <br>questions</h1>
-  <p class="hero-subtitle">Everything you want to know about the Staffordshire Bull Terrier</p>
+  <p class="hero-subtitle">A breeder's answers, with data you can check</p>
   </div>
   </section>
   <!--/BLOCCO:1-->
@@ -38,7 +38,7 @@ custom_content: |
   <h2 class="section-title">Your questions, our answers</h2>
 
   <div class="faq-intro">
-  <p>Welcome to the FAQ section of <strong>Del Piccolo Diavolo Kennel</strong>.</p>
+  <p>These are the questions families ask us most often, with the answers of the <strong>Del Piccolo Diavolo kennel</strong>.</p>
   <p>If you have questions not found here, <a href="/wa/393924635584" title="Contact us on WhatsApp">contact us on WhatsApp</a>.</p>
   </div>
 
@@ -49,7 +49,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is the Staffordshire Bull Terrier dangerous or aggressive?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">The Staffordshire Bull Terrier is not on any list of <a href="/en/staffy-dangerous-breed-law/" title="Is Staffordshire Bull Terrier dangerous? Italian law">dangerous breeds</a> in Italy: the list of at-risk breeds was abolished in 2009 by the Ministry of Health, which moved responsibility from the breed to the owner. It is a powerful dog for its size &mdash; 35.5-40.5 cm at the withers and 12.7-17 kg in males &mdash; and that is worth keeping in mind, but dangerousness is not a breed trait: it depends on how temperament is selected, on socialisation in the first weeks, and on how the dog is handled for the rest of its life. The trait genuinely worth knowing about is different: being a terrier, it can show reactivity towards other dogs, most often of the same sex in adulthood. Towards people the <a href="/en/staffy-breed-standard/" title="The Staffordshire Bull Terrier breed standard">breed standard</a> describes a reliable dog, and there the choice of breeding stock matters more than anything else.</div>
+  <div class="faq-answer">The Staffordshire Bull Terrier is not on any list of <a href="/en/staffy-dangerous-breed-law/" title="Is Staffordshire Bull Terrier dangerous? Italian law">dangerous breeds</a> in Italy: the list of at-risk breeds was abolished in 2009 by the Ministry of Health, which moved responsibility from the breed to the owner. It is a powerful dog for its size (35.5-40.5 cm at the withers and 12.7-17 kg in males) and that is worth keeping in mind, but dangerousness is not a breed trait: it depends on how temperament is selected, on socialisation in the first weeks, and on how the dog is handled for the rest of its life. The trait genuinely worth knowing about is different: being a terrier, it can show reactivity towards other dogs, most often of the same sex in adulthood. Towards people the <a href="/en/staffy-breed-standard/" title="The Staffordshire Bull Terrier breed standard">breed standard</a> describes a reliable dog, and there the choice of breeding stock matters more than anything else.</div>
   </div>
 
   <div class="faq-item active">
@@ -57,7 +57,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is the Staffordshire Bull Terrier suitable for children?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">First, something that applies to every breed: <strong>no dog should be left alone with <a href="/en/staffy-children-family/" title="Staffordshire Bull Terrier with children: family life">a small child</a></strong>. The nickname "nanny dog" describes the Staffy's tolerance, not an ability to supervise: an adult present is not optional. That said, this is a dog built to live in a family, and <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor and early stimulation: what research says">how it grows up in the first weeks</a> matters enormously &mdash; Del Piccolo Diavolo puppies are among people of all ages from the start. What makes the difference is the selection of the parents, those first eight weeks, and the rules the family sets at home: a place where the dog is never disturbed, short interactions, and an adult always in the room.</div>
+  <div class="faq-answer">First, something that applies to every breed: <strong>no dog should be left alone with <a href="/en/staffy-children-family/" title="Staffordshire Bull Terrier with children: family life">a small child</a></strong>. The nickname "nanny dog" describes the Staffy's tolerance, not an ability to supervise: an adult present is not optional. That said, this is a dog built to live in a family, and <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor and early stimulation: what research says">how it grows up in the first weeks</a> matters enormously: Del Piccolo Diavolo puppies are among people of all ages from the start. What makes the difference is the selection of the parents, those first weeks, and the rules the family sets at home: a place where the dog is never disturbed, short interactions, and an adult always in the room.</div>
   </div>
 
   <div class="faq-item active">
@@ -81,7 +81,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">At what age can I take the puppy home?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer"><a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffy puppies</a> are placed after 60 days of age: that is the minimum Italian law allows, and here they usually stay until 70. For families adopting from another European country the timing is different: the puppy leaves at around four months, because the rabies vaccination, the pet passport and the TRACES certificate are all needed (<a href="/en/staffordshire-bull-terrier-puppy-abroad/">how a placement abroad works</a>). This period is essential: in the first 8 weeks the puppy learns from the mother the basics of canine communication and self-control. Placing earlier is illegal and harmful.</div>
+  <div class="faq-answer"><a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffy puppies</a> are placed after 60 days of age: that is the minimum Italian law allows, and here they usually stay until 70. For families living in another European country the timing is different: the puppy leaves at around four months, because the rabies vaccination, the pet passport and the TRACES certificate are all needed (<a href="/en/staffordshire-bull-terrier-puppy-abroad/">how a placement abroad works</a>). The weeks with the mother and littermates count: that is where the puppy learns the basics of dog communication and how to control its bite. Separating it earlier is against the law, and it does the puppy harm.</div>
   </div>
 
   <div class="faq-item active">
@@ -89,7 +89,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Does the Staffy get along with other dogs?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">It depends on the individual, and it needs saying plainly: this is a terrier, and the breed carries a degree of reactivity towards other dogs that socialisation reduces but does not erase &mdash; most often between dogs of the same sex, in adulthood. Early socialisation is still the best foundation. Del Piccolo Diavolo puppies grow up in contact with other balanced adult dogs, learning proper communication. With early and continuous socialization, the Staffy is sociable and playful. Many of our Staffies live happily with other dogs.</div>
+  <div class="faq-answer">It depends on the individual, and it needs saying plainly: this is a terrier, and the breed carries a degree of reactivity towards other dogs that socialisation reduces but does not erase, most often between dogs of the same sex, in adulthood. Early socialisation is still the best foundation. Del Piccolo Diavolo puppies grow up in contact with other balanced adult dogs, learning proper communication. With early and continuous socialization, the Staffy is sociable and playful. Many of our Staffies live happily with other dogs.</div>
   </div>
 
   <div class="faq-item active">
@@ -105,7 +105,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How long does a Staffordshire Bull Terrier live?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Twelve to fourteen years, which is a good life expectancy for a medium-sized dog and among the best in the molosser group. The breed is robust, without the <a href="/en/boas-staffordshire-bull-terrier-breathing/" title="BOAS and breathing in the Staffordshire Bull Terrier">respiratory problems of brachycephalic breeds</a> and without the joint conditions typical of large breeds. The three hereditary diseases with a DNA test &mdash; L2-HGA, hereditary cataract and degenerative myelopathy &mdash; are all recessive and are prevented by testing the parents: two clear dogs cannot produce affected puppies. After genetics, the single factor that most affects lifespan is <strong>weight</strong>: an overweight Staffy ages earlier, with joints that wear out and less tolerance to heat. Twelve years is also the commitment you take on when you choose a puppy.</div>
+  <div class="faq-answer">Twelve to fourteen years, which is a good life expectancy for a medium-sized dog and among the best in the molosser group. The breed is robust, without the <a href="/en/boas-staffordshire-bull-terrier-breathing/" title="BOAS and breathing in the Staffordshire Bull Terrier">respiratory problems of brachycephalic breeds</a> and without the joint conditions typical of large breeds. The three hereditary diseases with a DNA test (L2-HGA, hereditary cataract and degenerative myelopathy) are all recessive and are prevented by testing the parents: two clear dogs cannot produce affected puppies. After genetics, the single factor that most affects lifespan is <strong>weight</strong>: an overweight Staffy ages earlier, with joints that wear out and less tolerance to heat. Twelve years is also the commitment you take on when you choose a puppy.</div>
   </div>
 
   <div class="faq-item active">
@@ -137,7 +137,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Does the Staffy need a lot of exercise?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">It needs regular exercise, not extreme exercise. Two walks a day of thirty to forty minutes cover an adult's needs, provided at least one allows sniffing and free movement rather than a march on a tight lead. The Staffordshire Bull Terrier is explosive rather than built for endurance: it performs on short intense efforts, not hours of running. The part most people underestimate is mental work: <strong>half an hour of scent games tires a dog as much as an hour of running</strong>, without loading the joints. For puppies the usual rule is five minutes per month of age per walk, because growth plates close between twelve and eighteen months. How the same needs fit the routine of an older owner is in <a href="/en/staffy-elderly-owners/" title="Staffies for elderly owners">Staffies for elderly owners</a>.</div>
+  <div class="faq-answer">It needs regular exercise, not extreme exercise. For an adult there is no fixed number of minutes: it depends on the dog. It needs outings every day, with at least one that allows sniffing and free movement rather than a march on a tight lead, and without excessive effort, especially when young. The Staffordshire Bull Terrier is explosive rather than built for endurance: it performs on short intense efforts, not hours of running. The part most people underestimate is mental work: <strong>half an hour of scent games tires a dog as much as an hour of running</strong>, without loading the joints. For puppies the usual rule is five minutes per month of age per walk, because growth plates close between twelve and eighteen months. How the same needs fit the routine of an older owner is in <a href="/en/staffy-elderly-owners/" title="Staffies for elderly owners">Staffies for elderly owners</a>.</div>
   </div>
 
   <div class="faq-item active">
@@ -153,7 +153,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is it difficult to train a Staffy?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">It is an intelligent dog, strongly oriented towards people, which makes training easier than in many breeds &mdash; but it also carries a typically terrier streak of stubbornness. It responds very well to positive reinforcement and very badly to coercive methods, which at best shut it down and at worst create problems that were not there before. Basic commands come quickly. The two things worth working on from day one are the recall, because a terrier that sets off after something stops hearing you, and impulse control, because this is a dog that gets excited easily. <strong>Consistency beats duration</strong>: five minutes every day beat an hour on Sunday.</div>
+  <div class="faq-answer">It is an intelligent dog, strongly oriented towards people, which makes training easier than in many breeds, but it also carries a typically terrier streak of stubbornness. It responds very well to positive reinforcement and very badly to coercive methods, which at best shut it down and at worst create problems that were not there before. Basic commands come quickly. The two things worth working on from day one are the recall, because a terrier that sets off after something stops hearing you, and impulse control, because this is a dog that gets excited easily. <strong>Consistency beats duration</strong>: five minutes every day beat an hour on Sunday.</div>
   </div>
 
   <div class="faq-item active">
@@ -169,7 +169,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What is the typical Staffy character?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">The breed standard describes a dog that is bold, tenacious and reliable with people, and what strikes owners most is the attachment: this is a dog that wants to be wherever you are. It stays playful into adulthood, is often comical, and with children it is tolerant &mdash; always with an adult supervising, as with any breed. The other side of that attachment is that it copes with loneliness less well than many dogs. Towards other dogs it must be said plainly that it is a terrier: <strong>reactivity can appear, most often between dogs of the same sex in adulthood</strong>, and early socialisation reduces it but does not erase it.</div>
+  <div class="faq-answer">The breed standard describes a dog that is bold, tenacious and reliable with people, and what strikes owners most is the attachment: this is a dog that wants to be wherever you are. It stays playful into adulthood, is often comical, and with children it is tolerant, always with an adult supervising, as with any breed. The other side of that attachment is that it copes with loneliness less well than many dogs. Towards other dogs it must be said plainly that it is a terrier: <strong>reactivity can appear, most often between dogs of the same sex in adulthood</strong>, and early socialisation reduces it but does not erase it.</div>
   </div>
 
   <div class="faq-item active">
@@ -177,7 +177,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Does the Staffy bark a lot?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">No, it is one of the quieter breeds in its group, which matters a great deal in a block of flats. It is not a watchdog and does not bark out of habit: it signals something new at the door and then stops. When a Staffy does bark a lot, the problem is usually not the breed but the situation &mdash; boredom, too little exercise, or long periods alone. In that last case barking can be a symptom of <strong>separation anxiety</strong>, which is a recognised disorder and not misbehaviour, and is treated with a gradual programme and professional help. Telling off a dog that barks from anxiety makes the anxiety worse.</div>
+  <div class="faq-answer">No, it is one of the quieter breeds in its group, which matters a great deal in a block of flats. It is not a watchdog and does not bark out of habit: it signals something new at the door and then stops. When a Staffy does bark a lot, the problem is usually not the breed but the situation: boredom, too little exercise, or long periods alone. In that last case barking can be a symptom of <strong>separation anxiety</strong>, which is a recognised disorder and not misbehaviour, and is treated with a gradual programme and professional help. Telling off a dog that barks from anxiety makes the anxiety worse.</div>
   </div>
 
   <div class="faq-item active">
@@ -193,7 +193,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Does the Staffy suffer from heat or cold?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Yes, to both, and for the same reason: the coat is short with no undercoat, so it does not insulate. In winter, below about five degrees, a coat is worth having for long walks, especially for puppies and older dogs. Summer is the more serious issue, because the shortened muzzle makes panting &mdash; the dog's only real cooling system &mdash; less efficient than in a long-muzzled breed. Above 25 degrees walk in the cool hours, reduce intensity and carry water. <strong>Never leave the dog in a car</strong>, not even briefly and not even with windows ajar: heatstroke is a veterinary emergency.</div>
+  <div class="faq-answer">Yes, to both, and for the same reason: the coat is short with no undercoat, so it does not insulate. In winter, below about five degrees, a coat is worth having for long walks, especially for puppies and older dogs. Summer is the more serious issue, because the shortened muzzle makes panting (the dog's only real cooling system) less efficient than in a long-muzzled breed. Above 25 degrees walk in the cool hours, reduce intensity and carry water. <strong>Never leave the dog in a car</strong>, not even briefly and not even with windows ajar: heatstroke is a veterinary emergency.</div>
   </div>
 
   <div class="faq-item active">
@@ -201,7 +201,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How much does it cost to maintain a Staffy per year?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Around 200 to 300 euros a year for routine costs: good-quality food, annual veterinary check-ups and boosters, monthly parasite treatment and equipment. Grooming is not needed at all, since the short coat requires nothing beyond a weekly brush &mdash; in other breeds that is a substantial line. Two things sit outside that figure. Third-party liability insurance, a few tens of euros, which is worth having in any case. And <strong>unexpected costs</strong>: an investigation, an operation, a long course of treatment. Nobody can predict them, but over twelve to fourteen years they arrive, and it is honest to budget for them before taking a puppy rather than after.</div>
+  <div class="faq-answer">Around 200 to 300 euros a year for routine costs: good-quality food, annual veterinary check-ups and boosters, monthly parasite treatment and equipment. Grooming is not needed at all, since the short coat requires nothing beyond a weekly brush. In other breeds that is a substantial line. Two things sit outside that figure. Third-party liability insurance, a few tens of euros, which is worth having in any case. And <strong>unexpected costs</strong>: an investigation, an operation, a long course of treatment. Nobody can predict them, but over twelve to fourteen years they arrive, and it is honest to budget for them before taking a puppy rather than after.</div>
   </div>
 
   </div>
@@ -220,7 +220,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is it worth travelling to Ostellato for a puppy?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">It is a decision for the family making the journey, but one fact helps: Ostellato is about an hour from Bologna and Ravenna, two from Verona and Padua, two and a half from Milan and three from Florence, and Bologna airport is within reach for families coming from abroad. Many families make that trip, and nearly all of them come back at least a second time. The point is not the distance itself but what you come to see: the mother of the litter, the place where the puppies grow up, the adult dogs those lines have produced, and the documents in the original rather than as copies. A dog stays with a family for twelve years: a day's travel to choose well is a reasonable investment. Anyone who cannot come simply does not take a puppy from the Del Piccolo Diavolo kennel: we do not ship.
+  <div class="faq-answer">It is a decision for the family making the journey, but one fact helps: Ostellato is about an hour from Bologna and Ravenna, under an hour and a half from Verona and Padua, two and a half from Milan and under two from Florence, and Bologna airport is within reach for families coming from abroad. Many families make that trip, and nearly all of them come back at least a second time. The point is not the distance itself but what you come to see: the mother of the litter, the place where the puppies grow up, the adult dogs those lines have produced, and the documents in the original rather than as copies. A dog stays with a family for twelve years: a day's travel to choose well is a reasonable investment. Anyone who cannot come simply does not take a puppy from the Del Piccolo Diavolo kennel: we do not ship.
   </div>
   </div>
     <div class="faq-item active">
@@ -228,7 +228,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What does it mean that the puppies are socialised?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">It means that in the weeks when the puppy's brain is most receptive &mdash; the sensitive period runs roughly from the third to the twelfth week &mdash; it meets as many ordinary things as possible. Del Piccolo Diavolo puppies are born in the house and stay there for the first month, near the television and household noise, not in a silent room. Then they move to a pen with an outdoor run and come back into the house in turns, two at a time, so that each one gets its share of family life, people of different ages and other dogs. Whatever a puppy meets in those weeks becomes part of its normal world; whatever it does not meet will remain, for life, something to be assessed. Socialisation does not end when the puppy leaves: it continues with its new family.
+  <div class="faq-answer">It means that in the weeks when the puppy's brain is most receptive (the sensitive period runs roughly from the third to the twelfth week) it meets as many ordinary things as possible. Del Piccolo Diavolo puppies are born in the house and stay there for the first month, near the television and household noise, not in a silent room. Then they move to a pen with an outdoor run and come back into the house in turns, two or three at a time, so that each one gets its share of family life, people of different ages and other dogs. Whatever a puppy meets in those weeks becomes part of its normal world; whatever it does not meet will remain, for life, something to be assessed. Socialisation does not end when the puppy leaves: it continues with its new family.
   </div>
   </div>
     <div class="faq-item active">
@@ -236,7 +236,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Do you provide support after the puppy goes home?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Yes, with no expiry date. The Del Piccolo Diavolo kennel remains available for advice on feeding, growth, training and management, even years later: people who took a puppy in 2015 still write today, and that is exactly as it should be. There is, however, a commitment worth more than advice, and it is the one we tell everyone before the puppy leaves: <strong>if one day you can no longer keep the dog, it comes back here</strong>. This is not a courtesy phrase; it is why we choose calmly who takes a puppy. A dog we have bred does not end up in a shelter or pass between strangers: if the situation changes, for whatever reason, we find the solution. Since 2013 it has never been needed, and where those dogs ended up is told in the <a href="/en/staffordshire-family-life-stories/" title="Family stories">family stories</a>.
+  <div class="faq-answer">Yes, with no expiry date. The Del Piccolo Diavolo kennel remains available for advice on feeding, growth, training and management, even years later: people who took a puppy in 2015 still write today, and that is exactly as it should be. There is, however, a commitment worth more than advice, and it is the one we tell everyone before the puppy leaves: <strong>if one day you can no longer keep the dog, it comes back here</strong>. And that is why we choose calmly who takes a puppy. A dog we have bred does not end up in a shelter or pass between strangers: if the situation changes, for whatever reason, we find the solution. Since 2013 it has never been needed, and where those dogs ended up is told in the <a href="/en/staffordshire-family-life-stories/" title="Family stories">family stories</a>.
   </div>
   </div>
     <div class="faq-item active">
@@ -260,7 +260,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Which bloodlines do you work with?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">The Del Piccolo Diavolo kennel works with two historic lines of the breed, British and Irish: <strong>Elitebull</strong> and <strong>Lackyle</strong>. They are not two opposing styles: Lackyle came first and its historic dogs now appear in pedigrees across half of Europe, while Elitebull is the kennel that carries weight today &mdash; and those very dogs are in its pedigrees. The second line, in other words, contains the first. The choice is not aesthetic: these are documented lines, verifiable on SBTPedigree, that breed predictably, which is what you need when a mating is planned rather than hoped for. The kennel's own name comes from Lackyle Diabhal &Oacute;g, Irish for the little devil. What changes from one line to another for someone looking for a puppy is in <a href="/en/choosing-bloodlines/" title="Choosing bloodlines">choosing bloodlines</a>.
+  <div class="faq-answer">The Del Piccolo Diavolo kennel works with two historic lines of the breed, one English and one Irish: <strong>Elitebull</strong> and <strong>Lackyle</strong>. They are not two opposing styles: Lackyle came first and its historic dogs now appear in pedigrees across half of Europe, while Elitebull is the kennel that carries weight today, and those very dogs are in its pedigrees. The second line, in other words, contains the first. The choice is not aesthetic: these are documented lines, verifiable on SBTPedigree, that breed predictably, which is what you need when a mating is planned rather than hoped for. The kennel's own name comes from Lackyle Diabhal &Oacute;g, Irish for the little devil. What changes from one line to another for someone looking for a puppy is in <a href="/en/choosing-bloodlines/" title="Choosing bloodlines">choosing bloodlines</a>.
   </div>
   </div>
   </section>
@@ -284,7 +284,7 @@ custom_content: |
   <!--BLOCCO:3-->
   <section class="dark-section">
   <h2>Have more questions?</h2>
-  <p>We're always available to answer any questions about the Staffordshire Bull Terrier.</p>
+  <p>Write to me on WhatsApp and I will answer you myself.</p>
   <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20have%20a%20question%20about%20the%20Staffy" class="btn btn-light" title="Write us on WhatsApp for questions">Write Us on WhatsApp</a>
   </section>
   <!--/BLOCCO:3-->

@@ -17,9 +17,9 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">20 Fragen & Antworten</span>
+  <span class="hero-eyebrow">27 Fragen und Antworten</span>
   <h1 class="hero-title">Häufig <br><em>gestellte</em> <br>Fragen</h1>
-  <p class="hero-subtitle">Alles, was Sie über den Staffordshire Bull Terrier wissen möchten</p>
+  <p class="hero-subtitle">Die Antworten eines Züchters, mit Angaben, die man prüfen kann</p>
   </div>
   </section>
   <!--/BLOCCO:1-->
@@ -38,7 +38,7 @@ custom_content: |
   <h2 class="section-title">Ihre Fragen, unsere Antworten</h2>
 
   <div class="faq-intro">
-  <p>Willkommen im FAQ-Bereich der <strong>Zucht Del Piccolo Diavolo</strong>.</p>
+  <p>Das sind die Fragen, die uns Familien am häufigsten stellen, mit den Antworten der <strong>Zucht Del Piccolo Diavolo</strong>.</p>
   <p>Wenn Sie Fragen haben, die hier nicht beantwortet werden, <a href="/wa/393924635584" title="Kontaktieren Sie uns auf WhatsApp">kontaktieren Sie uns auf WhatsApp</a>.</p>
   </div>
 
@@ -81,7 +81,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Mit welchem Alter kann ich den Welpen nach Hause bringen?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer"><a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Staffy-Welpen</a> werden nach 60 Tagen übergeben: das ist das gesetzliche Minimum in Italien, in der Zucht Del Piccolo Diavolo bleiben sie in der Regel bis 70 Tage. Für Familien aus einem anderen europäischen Land gelten andere Fristen: der Welpe reist mit etwa vier Monaten, denn Tollwutimpfung, Heimtierausweis und TRACES-Zeugnis werden benötigt (<a href="/de/staffordshire-bull-terrier-welpe-ins-ausland/">wie eine Vermittlung ins Ausland abläuft</a>). Diese Zeit ist grundlegend: In den ersten 8 Wochen lernt der Welpe von der Mutter die Grundlagen der Hundekommunikation und Selbstkontrolle. Frühere Übergabe ist illegal und schädlich.</div>
+  <div class="faq-answer"><a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Staffy-Welpen</a> werden nach 60 Tagen übergeben: das ist das gesetzliche Minimum in Italien, in der Zucht Del Piccolo Diavolo bleiben sie in der Regel bis 70 Tage. Für Familien aus einem anderen europäischen Land gelten andere Fristen: der Welpe reist mit etwa vier Monaten, denn Tollwutimpfung, Heimtierausweis und TRACES-Zeugnis werden benötigt (<a href="/de/staffordshire-bull-terrier-welpe-ins-ausland/">wie eine Vermittlung ins Ausland abläuft</a>). Die Wochen mit Mutter und Geschwistern zählen: Dort lernt der Welpe die Grundlagen der Verständigung unter Hunden und wie er seinen Biss kontrolliert. Eine frühere Trennung ist gesetzlich verboten und schadet ihm.</div>
   </div>
 
   <div class="faq-item active">
@@ -89,7 +89,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Versteht sich der Staffy mit anderen Hunden?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Das hängt vom einzelnen Hund ab, und das gehört klar gesagt: es ist ein Terrier, und in der Rasse gibt es eine Reaktivität gegenüber Artgenossen, die Sozialisierung mindert, aber nicht auslöscht &mdash; meist zwischen Hunden desselben Geschlechts, im Erwachsenenalter. Frühe Sozialisierung bleibt die beste Grundlage. Die Welpen der Zucht Del Piccolo Diavolo wachsen in Kontakt mit anderen ausgeglichenen erwachsenen Hunden auf und lernen die richtige Kommunikation. Mit früher und kontinuierlicher Sozialisierung ist der Staffy gesellig und verspielt. Viele unserer Staffys leben glücklich mit anderen Hunden.</div>
+  <div class="faq-answer">Das hängt vom einzelnen Hund ab, und das gehört klar gesagt: es ist ein Terrier, und in der Rasse gibt es eine Reaktivität gegenüber Artgenossen, die Sozialisierung mindert, aber nicht auslöscht, meist zwischen Hunden desselben Geschlechts, im Erwachsenenalter. Frühe Sozialisierung bleibt die beste Grundlage. Die Welpen der Zucht Del Piccolo Diavolo wachsen in Kontakt mit anderen ausgeglichenen erwachsenen Hunden auf und lernen die richtige Kommunikation. Mit früher und kontinuierlicher Sozialisierung ist der Staffy gesellig und verspielt. Viele unserer Staffys leben glücklich mit anderen Hunden.</div>
   </div>
 
   <div class="faq-item active">
@@ -105,7 +105,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie lange lebt ein Staffordshire Bull Terrier?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Zwölf bis vierzehn Jahre, was für einen mittelgroßen Hund eine gute Lebenserwartung ist und zu den besten in der Gruppe der Molosser zählt. Die Rasse ist robust, ohne die <a href="/de/boas-staffordshire-bull-terrier-atmung/" title="BOAS und Atmung beim Staffordshire Bull Terrier">Atemprobleme brachyzephaler Rassen</a> und ohne die Gelenkerkrankungen großer Rassen. Die drei Erbkrankheiten mit DNA-Test &mdash; L2-HGA, erblicher Katarakt und degenerative Myelopathie &mdash; werden alle rezessiv vererbt und durch Tests der Elterntiere vermieden. Nach der Genetik beeinflusst nichts die Lebensdauer so stark wie das <strong>Gewicht</strong>: ein übergewichtiger Staffy altert früher, mit stärker belasteten Gelenken und geringerer Hitzetoleranz. Zwölf Jahre sind auch der Zeitraum, für den man sich mit einem Welpen bindet.</div>
+  <div class="faq-answer">Zwölf bis vierzehn Jahre, was für einen mittelgroßen Hund eine gute Lebenserwartung ist und zu den besten in der Gruppe der Molosser zählt. Die Rasse ist robust, ohne die <a href="/de/boas-staffordshire-bull-terrier-atmung/" title="BOAS und Atmung beim Staffordshire Bull Terrier">Atemprobleme brachyzephaler Rassen</a> und ohne die Gelenkerkrankungen großer Rassen. Die drei Erbkrankheiten mit DNA-Test (L2-HGA, erblicher Katarakt und degenerative Myelopathie) werden alle rezessiv vererbt und durch Tests der Elterntiere vermieden. Nach der Genetik beeinflusst nichts die Lebensdauer so stark wie das <strong>Gewicht</strong>: ein übergewichtiger Staffy altert früher, mit stärker belasteten Gelenken und geringerer Hitzetoleranz. Zwölf Jahre sind auch der Zeitraum, für den man sich mit einem Welpen bindet.</div>
   </div>
 
   <div class="faq-item active">
@@ -113,7 +113,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie viel Bewegung braucht ein Staffy?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Regelmäßige Bewegung, keine extreme. Zwei Spaziergänge täglich von dreißig bis vierzig Minuten decken den Bedarf eines erwachsenen Hundes, sofern mindestens einer davon Schnüffeln und freie Bewegung erlaubt. Der Staffordshire Bull Terrier ist ein explosiver Hund, kein Ausdauerläufer: er leistet auf kurzen, intensiven Einheiten. Unterschätzt wird meist die geistige Arbeit: <strong>eine halbe Stunde Nasenarbeit ermüdet so sehr wie eine Stunde Laufen</strong>, ohne die Gelenke zu belasten. Beim Welpen gilt die Regel von fünf Minuten pro Lebensmonat je Spaziergang, weil sich die Wachstumsfugen erst zwischen dem zwölften und achtzehnten Monat schließen.</div>
+  <div class="faq-answer">Regelmäßige Bewegung, keine extreme. Für einen erwachsenen Hund gibt es keine feste Minutenzahl: Das hängt vom Hund ab. Er braucht jeden Tag Ausgänge, mindestens einer davon mit Schnüffeln und freier Bewegung, und ohne übermäßige Belastung, vor allem in jungen Jahren. Der Staffordshire Bull Terrier ist ein explosiver Hund, kein Ausdauerläufer: er leistet auf kurzen, intensiven Einheiten. Unterschätzt wird meist die geistige Arbeit: <strong>eine halbe Stunde Nasenarbeit ermüdet so sehr wie eine Stunde Laufen</strong>, ohne die Gelenke zu belasten. Beim Welpen gilt die Regel von fünf Minuten pro Lebensmonat je Spaziergang, weil sich die Wachstumsfugen erst zwischen dem zwölften und achtzehnten Monat schließen.</div>
   </div>
 
   <div class="faq-item active">
@@ -121,7 +121,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Ist der Staffy leicht zu erziehen?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Er ist intelligent und stark auf Menschen bezogen, was die Erziehung einfacher macht als bei vielen Rassen &mdash; er bringt aber auch die typische Sturheit eines Terriers mit. Auf positive Verstärkung reagiert er hervorragend, auf Zwangsmethoden sehr schlecht: diese blockieren ihn bestenfalls und schaffen schlimmstenfalls Probleme, die vorher nicht da waren. Die Grundkommandos sitzen schnell. Woran sich von Anfang an zu arbeiten lohnt, sind der Rückruf &mdash; ein Terrier, der einem Reiz hinterherläuft, hört nichts mehr &mdash; und die Impulskontrolle. <strong>Beständigkeit schlägt Dauer</strong>: fünf Minuten täglich bringen mehr als eine Stunde am Sonntag.</div>
+  <div class="faq-answer">Er ist intelligent und stark auf Menschen bezogen, was die Erziehung einfacher macht als bei vielen Rassen, er bringt aber auch die typische Sturheit eines Terriers mit. Auf positive Verstärkung reagiert er hervorragend, auf Zwangsmethoden sehr schlecht: diese blockieren ihn bestenfalls und schaffen schlimmstenfalls Probleme, die vorher nicht da waren. Die Grundkommandos sitzen schnell. Woran sich von Anfang an zu arbeiten lohnt, sind der Rückruf (ein Terrier, der einem Reiz hinterherläuft, hört nichts mehr) und die Impulskontrolle. <strong>Beständigkeit schlägt Dauer</strong>: fünf Minuten täglich bringen mehr als eine Stunde am Sonntag.</div>
   </div>
 
   </div>
@@ -172,7 +172,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Welchen Charakter hat der Staffy typischerweise?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Der Rassestandard beschreibt einen mutigen, zähen und gegenüber Menschen zuverlässigen Hund, und was die Halter am meisten beeindruckt, ist die Bindung: ein Hund, der dort sein will, wo Sie sind. Er bleibt bis ins Erwachsenenalter verspielt, ist oft komisch, und mit Kindern ist er tolerant &mdash; immer unter Aufsicht eines Erwachsenen, wie bei jeder Rasse. Die Kehrseite dieser Bindung ist, dass er das Alleinsein schlechter verträgt als viele Hunde. Gegenüber anderen Hunden muss man klar sagen, dass er ein Terrier ist: <strong>Reaktivität kann auftreten, am häufigsten zwischen erwachsenen Hunden gleichen Geschlechts</strong>, und frühe Sozialisierung verringert sie, löscht sie aber nicht aus.
+  <div class="faq-answer">Der Rassestandard beschreibt einen mutigen, zähen und gegenüber Menschen zuverlässigen Hund, und was die Halter am meisten beeindruckt, ist die Bindung: ein Hund, der dort sein will, wo Sie sind. Er bleibt bis ins Erwachsenenalter verspielt, ist oft komisch, und mit Kindern ist er tolerant, immer unter Aufsicht eines Erwachsenen, wie bei jeder Rasse. Die Kehrseite dieser Bindung ist, dass er das Alleinsein schlechter verträgt als viele Hunde. Gegenüber anderen Hunden muss man klar sagen, dass er ein Terrier ist: <strong>Reaktivität kann auftreten, am häufigsten zwischen erwachsenen Hunden gleichen Geschlechts</strong>, und frühe Sozialisierung verringert sie, löscht sie aber nicht aus.
   </div>
   </div>
     <div class="faq-item active">
@@ -180,7 +180,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Bellt der Staffy viel?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Nein, er gehört zu den ruhigeren Rassen seiner Gruppe, was im Mehrfamilienhaus viel ausmacht. Er ist kein Wachhund und bellt nicht aus Gewohnheit: er meldet etwas Neues an der Tür und hört dann auf. Wenn ein Staffy viel bellt, liegt das Problem meist nicht in der Rasse, sondern in der Situation &mdash; Langeweile, zu wenig Bewegung oder lange Zeiten allein. Im letzten Fall kann Bellen ein Zeichen von <strong>Trennungsangst</strong> sein, einer anerkannten Störung und keinem Fehlverhalten, die mit einem schrittweisen Programm und fachlicher Hilfe behandelt wird. Einen Hund zu schimpfen, der aus Angst bellt, verstärkt die Angst.
+  <div class="faq-answer">Nein, er gehört zu den ruhigeren Rassen seiner Gruppe, was im Mehrfamilienhaus viel ausmacht. Er ist kein Wachhund und bellt nicht aus Gewohnheit: er meldet etwas Neues an der Tür und hört dann auf. Wenn ein Staffy viel bellt, liegt das Problem meist nicht in der Rasse, sondern in der Situation: Langeweile, zu wenig Bewegung oder lange Zeiten allein. Im letzten Fall kann Bellen ein Zeichen von <strong>Trennungsangst</strong> sein, einer anerkannten Störung und keinem Fehlverhalten, die mit einem schrittweisen Programm und fachlicher Hilfe behandelt wird. Einen Hund zu schimpfen, der aus Angst bellt, verstärkt die Angst.
   </div>
   </div>
     <div class="faq-item active">
@@ -196,7 +196,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Leidet der Staffy unter Hitze oder Kälte?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Unter beidem, und aus demselben Grund: das Fell ist kurz und ohne Unterwolle, es isoliert also nicht. Im Winter, unter etwa fünf Grad, lohnt sich ein Mantel für lange Spaziergänge, vor allem bei Welpen und älteren Hunden. Der Sommer ist das ernstere Thema, weil der kürzere Fang das Hecheln &mdash; die einzige echte Kühlung des Hundes &mdash; weniger wirksam macht als bei einer Rasse mit langem Fang. Über 25 Grad gehen Sie in den kühlen Stunden, verringern die Intensität und nehmen Wasser mit. <strong>Lassen Sie den Hund nie im Auto</strong>, auch nicht kurz und nicht bei einem Spalt offenem Fenster: ein Hitzschlag ist ein tierärztlicher Notfall.
+  <div class="faq-answer">Unter beidem, und aus demselben Grund: das Fell ist kurz und ohne Unterwolle, es isoliert also nicht. Im Winter, unter etwa fünf Grad, lohnt sich ein Mantel für lange Spaziergänge, vor allem bei Welpen und älteren Hunden. Der Sommer ist das ernstere Thema, weil der kürzere Fang das Hecheln (die einzige echte Kühlung des Hundes) weniger wirksam macht als bei einer Rasse mit langem Fang. Über 25 Grad gehen Sie in den kühlen Stunden, verringern die Intensität und nehmen Wasser mit. <strong>Lassen Sie den Hund nie im Auto</strong>, auch nicht kurz und nicht bei einem Spalt offenem Fenster: ein Hitzschlag ist ein tierärztlicher Notfall.
   </div>
   </div>
     <div class="faq-item active">
@@ -204,7 +204,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie viel kostet ein Staffy im Jahr?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Etwa 200 bis 300 Euro im Jahr für die laufenden Kosten: gutes Futter, jährliche tierärztliche Kontrollen und Auffrischungen, monatliche Parasitenvorbeugung und Ausstattung. Fellpflege fällt ganz weg, denn das kurze Fell braucht nichts außer einer wöchentlichen Bürste &mdash; bei anderen Rassen ist das ein großer Posten. Zwei Dinge liegen außerhalb dieser Zahl. Die Haftpflichtversicherung, einige Dutzend Euro, die sich in jedem Fall lohnt. Und <strong>unerwartete Kosten</strong>: eine Untersuchung, eine Operation, eine lange Behandlung. Niemand kann sie vorhersagen, aber in zwölf bis vierzehn Jahren kommen sie, und es ist ehrlich, sie einzuplanen, bevor man einen Welpen nimmt, nicht danach.
+  <div class="faq-answer">Etwa 200 bis 300 Euro im Jahr für die laufenden Kosten: gutes Futter, jährliche tierärztliche Kontrollen und Auffrischungen, monatliche Parasitenvorbeugung und Ausstattung. Fellpflege fällt ganz weg, denn das kurze Fell braucht nichts außer einer wöchentlichen Bürste. Bei anderen Rassen ist das ein großer Posten. Zwei Dinge liegen außerhalb dieser Zahl. Die Haftpflichtversicherung, einige Dutzend Euro, die sich in jedem Fall lohnt. Und <strong>unerwartete Kosten</strong>: eine Untersuchung, eine Operation, eine lange Behandlung. Niemand kann sie vorhersagen, aber in zwölf bis vierzehn Jahren kommen sie, und es ist ehrlich, sie einzuplanen, bevor man einen Welpen nimmt, nicht danach.
   </div>
   </div>
     <div class="faq-item active">
@@ -220,7 +220,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Lohnt sich die Reise nach Ostellato für einen Welpen?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Das entscheidet, wer die Reise macht, aber eine Angabe hilft: Ostellato liegt etwa eine Stunde von Bologna und Ravenna entfernt, zwei von Verona und Padua, zweieinhalb von Mailand und drei von Florenz, und der Flughafen Bologna ist für Familien aus dem Ausland gut erreichbar. Viele Familien machen diese Reise, und fast alle kommen mindestens ein zweites Mal. Es geht nicht um die Entfernung an sich, sondern darum, was man sieht: die Mutter des Wurfs, den Ort, an dem die Welpen aufwachsen, die erwachsenen Hunde, die diese Linien hervorgebracht haben, und die Dokumente im Original statt als Kopie. Ein Hund bleibt zwölf Jahre in der Familie: ein Tag im Auto, um gut zu wählen, ist eine vernünftige Investition. Wer nicht kommen kann, bekommt keinen Welpen der Zucht Del Piccolo Diavolo: wir verschicken nicht.
+  <div class="faq-answer">Das entscheidet, wer die Reise macht, aber eine Angabe hilft: Ostellato liegt etwa eine Stunde von Bologna und Ravenna entfernt, weniger als anderthalb Stunden von Verona und Padua, zweieinhalb von Mailand und weniger als zwei von Florenz, und der Flughafen Bologna ist für Familien aus dem Ausland gut erreichbar. Viele Familien machen diese Reise, und fast alle kommen mindestens ein zweites Mal. Es geht nicht um die Entfernung an sich, sondern darum, was man sieht: die Mutter des Wurfs, den Ort, an dem die Welpen aufwachsen, die erwachsenen Hunde, die diese Linien hervorgebracht haben, und die Dokumente im Original statt als Kopie. Ein Hund bleibt zwölf Jahre in der Familie: ein Tag im Auto, um gut zu wählen, ist eine vernünftige Investition. Wer nicht kommen kann, bekommt keinen Welpen der Zucht Del Piccolo Diavolo: wir verschicken nicht.
   </div>
   </div>
     <div class="faq-item active">
@@ -228,7 +228,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was bedeutet es, dass die Welpen sozialisiert sind?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Es bedeutet, dass der Welpe in den Wochen, in denen sein Gehirn am aufnahmefähigsten ist &mdash; die sensible Phase reicht etwa von der dritten bis zur zwölften Woche &mdash; so viele gewöhnliche Dinge wie möglich kennenlernt. Die Welpen der Zucht Del Piccolo Diavolo werden im Haus geboren und <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor und Frühstimulation: was die Forschung sagt">bleiben dort den ersten Monat</a>, in der Nähe von Fernseher und Haushaltsgeräuschen, nicht in einem stillen Raum. Dann ziehen sie in einen Auslauf mit Außenbereich und kommen abwechselnd, zu zweit, wieder ins Haus, damit jeder seinen Teil Familienleben, Menschen verschiedenen Alters und andere Hunde bekommt. Was ein Welpe in diesen Wochen erlebt, gehört zu seiner normalen Welt; was er nicht erlebt, bleibt für immer etwas, das er erst prüfen muss. Die Sozialisierung endet nicht mit der Abgabe: sie geht in der neuen Familie weiter.
+  <div class="faq-answer">Es bedeutet, dass der Welpe in den Wochen, in denen sein Gehirn am aufnahmefähigsten ist (die sensible Phase reicht etwa von der dritten bis zur zwölften Woche) so viele gewöhnliche Dinge wie möglich kennenlernt. Die Welpen der Zucht Del Piccolo Diavolo werden im Haus geboren und <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor und Frühstimulation: was die Forschung sagt">bleiben dort den ersten Monat</a>, in der Nähe von Fernseher und Haushaltsgeräuschen, nicht in einem stillen Raum. Dann ziehen sie in einen Auslauf mit Außenbereich und kommen abwechselnd, zu zweit oder zu dritt, wieder ins Haus, damit jeder seinen Teil Familienleben, Menschen verschiedenen Alters und andere Hunde bekommt. Was ein Welpe in diesen Wochen erlebt, gehört zu seiner normalen Welt; was er nicht erlebt, bleibt für immer etwas, das er erst prüfen muss. Die Sozialisierung endet nicht mit der Abgabe: sie geht in der neuen Familie weiter.
   </div>
   </div>
     <div class="faq-item active">
@@ -236,7 +236,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Bieten Sie Unterstützung, nachdem der Welpe nach Hause gegangen ist?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Ja, und ohne Ablaufdatum. Die Zucht Del Piccolo Diavolo bleibt für Rat zu Ernährung, Wachstum, Erziehung und Haltung erreichbar, auch nach Jahren: wer 2015 einen Welpen genommen hat, schreibt heute noch, und das ist genau richtig so. Es gibt aber eine Zusage, die mehr wert ist als jeder Rat, und wir sagen sie allen vor der Abgabe: <strong>wenn Sie den Hund eines Tages nicht mehr halten können, kommt er hierher zurück</strong>. Das ist keine Höflichkeitsformel, sondern der Grund, warum wir in Ruhe entscheiden, wem wir einen Welpen anvertrauen. Ein Hund aus unserer Zucht landet weder im Tierheim noch geht er durch fremde Hände: ändert sich die Lage, aus welchem Grund auch immer, finden wir die Lösung. Seit 2013 war das nie nötig, und wo diese Hunde gelandet sind, erzählen die <a href="/de/staffordshire-in-der-familie-geschichten/" title="Geschichten der Familien">Geschichten der Familien</a>.
+  <div class="faq-answer">Ja, und ohne Ablaufdatum. Die Zucht Del Piccolo Diavolo bleibt für Rat zu Ernährung, Wachstum, Erziehung und Haltung erreichbar, auch nach Jahren: wer 2015 einen Welpen genommen hat, schreibt heute noch, und das ist genau richtig so. Es gibt aber eine Zusage, die mehr wert ist als jeder Rat, und wir sagen sie allen vor der Abgabe: <strong>wenn Sie den Hund eines Tages nicht mehr halten können, kommt er hierher zurück</strong>. Und das ist der Grund, warum wir in Ruhe entscheiden, wem wir einen Welpen anvertrauen. Ein Hund aus unserer Zucht landet weder im Tierheim noch geht er durch fremde Hände: ändert sich die Lage, aus welchem Grund auch immer, finden wir die Lösung. Seit 2013 war das nie nötig, und wo diese Hunde gelandet sind, erzählen die <a href="/de/staffordshire-in-der-familie-geschichten/" title="Geschichten der Familien">Geschichten der Familien</a>.
   </div>
   </div>
     <div class="faq-item active">
@@ -260,7 +260,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Mit welchen Blutlinien arbeiten Sie?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Die Zucht Del Piccolo Diavolo arbeitet mit zwei historischen Linien der Rasse, einer britischen und einer irischen: <strong>Elitebull</strong> und <strong>Lackyle</strong>. Es sind keine gegensätzlichen Stile: Lackyle war zuerst da, und seine historischen Hunde stehen heute in Ahnentafeln in halb Europa, während Elitebull die Zucht ist, die heute zählt &mdash; und genau diese Hunde stehen in ihren Ahnentafeln. Die zweite Linie enthält also die erste. Die Wahl ist nicht ästhetisch: es sind dokumentierte, auf SBTPedigree überprüfbare Linien, die vorhersehbar vererben, und das braucht man, wenn eine Verpaarung geplant und nicht erhofft wird. Der Name der Zucht selbst stammt von Lackyle Diabhal &Oacute;g, irisch für der kleine Teufel. Was sich von einer Linie zur anderen für jemanden ändert, der einen Welpen sucht, steht im Ratgeber <a href="/de/blutlinien-waehlen/" title="Blutlinien wählen">Blutlinien wählen</a>.
+  <div class="faq-answer">Die Zucht Del Piccolo Diavolo arbeitet mit zwei historischen Linien der Rasse, einer englischen und einer irischen: <strong>Elitebull</strong> und <strong>Lackyle</strong>. Es sind keine gegensätzlichen Stile: Lackyle war zuerst da, und seine historischen Hunde stehen heute in Ahnentafeln in halb Europa, während Elitebull die Zucht ist, die heute zählt, und genau diese Hunde stehen in ihren Ahnentafeln. Die zweite Linie enthält also die erste. Die Wahl ist nicht ästhetisch: es sind dokumentierte, auf SBTPedigree überprüfbare Linien, die vorhersehbar vererben, und das braucht man, wenn eine Verpaarung geplant und nicht erhofft wird. Der Name der Zucht selbst stammt von Lackyle Diabhal &Oacute;g, irisch für der kleine Teufel. Was sich von einer Linie zur anderen für jemanden ändert, der einen Welpen sucht, steht im Ratgeber <a href="/de/blutlinien-waehlen/" title="Blutlinien wählen">Blutlinien wählen</a>.
   </div>
   </div>
   </section>
@@ -283,7 +283,7 @@ custom_content: |
   <!--BLOCCO:3-->
   <section class="dark-section">
   <h2>Haben Sie weitere Fragen?</h2>
-  <p>Wir sind immer bereit, alle Fragen zum Staffordshire Bull Terrier zu beantworten.</p>
+  <p>Schreiben Sie mir auf WhatsApp, ich antworte selbst.</p>
   <a href="/wa/393924635584" class="btn btn-gold" title="Auf WhatsApp schreiben">Auf WhatsApp Schreiben</a>
   </section>
   <!--/BLOCCO:3-->
