@@ -59,12 +59,12 @@ At the **Del Piccolo Diavolo** kennel, a particularly awaited litter has arrived
 On 31 August the puppies turned one month old. Their eyes have been open for weeks, their legs hold them up, and the period begins in which a puppy learns what is normal and what is frightening: voices, hands picking him up, the sounds of the house.
 
 <div style="max-width:340px;margin:1.75rem auto;border-radius:14px;overflow:hidden;box-shadow:0 8px 25px rgba(0,0,0,.12)">
-<div style="position:relative;padding-bottom:152.2%;height:0;background:#e6ddd4">
+<div style="position:relative;padding-bottom:152.2%;height:0;background:#dde5ef">
 <iframe src="https://www.youtube-nocookie.com/embed/rm1fY0_P6I8" title="Staffordshire Bull Terrier puppy at 30 days – Bilquis × Black Jack litter" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe>
 </div>
 </div>
 
-<p style="font-size:.85rem;color:#7a6a58;text-align:center">A puppy from this litter at thirty days, in the house.</p>
+<p style="font-size:.85rem;color:#4a5768;text-align:center">A puppy from this litter at thirty days, in the house.</p>
 
 The puppies grow up indoors with us. Italian law forbids placing a puppy before sixty days: here they stay with their mother up to seventy.
 
@@ -73,12 +73,12 @@ The puppies grow up indoors with us. Italian law forbids placing a puppy before 
 At fifty-five days the ears are right in the middle of settling: they go up, drop and change position almost every day, and the final rose ear of an adult Staffordshire Bull Terrier only shows months later. It is also the period when the puppies start going out into the outdoor area in the sunny hours, coming back into the house in turns, two at a time.
 
 <div style="max-width:340px;margin:1.75rem auto;border-radius:14px;overflow:hidden;box-shadow:0 8px 25px rgba(0,0,0,.12)">
-<div style="position:relative;padding-bottom:152.2%;height:0;background:#e6ddd4">
+<div style="position:relative;padding-bottom:152.2%;height:0;background:#dde5ef">
 <iframe src="https://www.youtube-nocookie.com/embed/cVyPQbi2I1A" title="Staffordshire Bull Terrier puppy at 55 days – Bilquis × Black Jack litter" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe>
 </div>
 </div>
 
-<p style="font-size:.85rem;color:#7a6a58;text-align:center">A female from this litter at fifty-five days, ears still settling.</p>
+<p style="font-size:.85rem;color:#4a5768;text-align:center">A female from this litter at fifty-five days, ears still settling.</p>
 
 
 <!--BLOCCO:2-->
@@ -169,8 +169,8 @@ The parents are tested for the main genetic conditions of the breed:
 
 <div style="display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(min(280px,100%),1fr));margin:1.5rem 0">
 
-  <div style="background:#fff;border:1px solid #e2ddd6;border-radius:10px;padding:1.25rem">
-    <span style="display:inline-block;background:#5c4a3a;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Sire</span><span style="display:inline-block;background:#8b7300;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px;margin-left:.35rem">★ World Champion 2023</span>
+  <div style="background:#fff;border:1px solid #dfe5ec;border-radius:10px;padding:1.25rem">
+    <span style="display:inline-block;background:#1f2d42;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Sire</span><span style="display:inline-block;background:#8b7300;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px;margin-left:.35rem">★ World Champion 2023</span>
     <p style="margin:.6rem 0 .3rem;font-weight:700">Quash Marvelous Hagler de Stafflorence</p>
     <p style="margin:0 0 .9rem;font-size:.82rem;color:#666;line-height:1.5">Male, born 26/02/2021 — microchip 380260160176743<br>Antagene (La Tour de Salvagny, France) — report A00046270, validated 08/09/2023</p>
     <ul style="margin:0;padding-left:1.1rem;font-size:.92rem">
@@ -179,49 +179,49 @@ The parents are tested for the main genetic conditions of the breed:
       <li>Hyperuricosuria (SLC2A9): <strong>Clear (N/N)</strong></li>
       <li>MDR1: <strong>Clear (N/N)</strong></li>
     </ul>
-    <p style="margin:.9rem 0 0"><a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b" aria-label="Antagene certificate (PDF) (opens in a new tab)">Antagene certificate (PDF) →</a></p>
+    <p style="margin:.9rem 0 0"><a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#1f4f82" aria-label="Antagene certificate (PDF) (opens in a new tab)">Antagene certificate (PDF) →</a></p>
   </div>
 
-  <div style="background:#fff;border:1px solid #e2ddd6;border-radius:10px;padding:1.25rem">
-    <span style="display:inline-block;background:#5c4a3a;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Dam</span><span style="display:inline-block;background:#8b7300;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px;margin-left:.35rem">★ Italian Junior Champion</span>
+  <div style="background:#fff;border:1px solid #dfe5ec;border-radius:10px;padding:1.25rem">
+    <span style="display:inline-block;background:#1f2d42;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Dam</span><span style="display:inline-block;background:#8b7300;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px;margin-left:.35rem">★ Italian Junior Champion</span>
     <p style="margin:.6rem 0 .3rem;font-weight:700">Ultima di Casa Giacalone</p>
     <p style="margin:0 0 .9rem;font-size:.82rem;color:#666;line-height:1.5">Female — microchip 380260044680718, pedigree LO2313633<br>EVG Molekularna Diagnostika (Maribor, Slovenia) — reference 2026-083880/01, 27/08/2026</p>
     <ul style="margin:0;padding-left:1.1rem;font-size:.92rem">
       <li>L2-HGA (L2HGDH): <strong>Clear (WT/WT)</strong></li>
       <li>HC (HSF4): <strong>Clear (WT/WT)</strong></li>
     </ul>
-    <p style="margin:.9rem 0 0"><a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b" aria-label="L2-HGA certificate (PDF) (opens in a new tab)">L2-HGA certificate (PDF) →</a></p>
-    <p style="margin:.35rem 0 0"><a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b" aria-label="HC certificate (PDF) (opens in a new tab)">HC certificate (PDF) →</a></p>
+    <p style="margin:.9rem 0 0"><a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#1f4f82" aria-label="L2-HGA certificate (PDF) (opens in a new tab)">L2-HGA certificate (PDF) →</a></p>
+    <p style="margin:.35rem 0 0"><a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#1f4f82" aria-label="HC certificate (PDF) (opens in a new tab)">HC certificate (PDF) →</a></p>
   </div>
 
 </div>
 
-<p style="font-size:.9rem;color:#555;border-left:3px solid #5c4a3a;padding-left:1rem;margin:1.5rem 0">Both parents are normal homozygous for L2-HGA and hereditary cataract: neither carries the defective allele, so Black Jack cannot have inherited it. Hyperuricosuria and MDR1 are tested on the sire only, so for those two the offspring cannot be declared clear by parentage.</p>
+<p style="font-size:.9rem;color:#555;border-left:3px solid #1f2d42;padding-left:1rem;margin:1.5rem 0">Both parents are normal homozygous for L2-HGA and hereditary cataract: neither carries the defective allele, so Black Jack cannot have inherited it. Hyperuricosuria and MDR1 are tested on the sire only, so for those two the offspring cannot be declared clear by parentage.</p>
 
-<div style="background:linear-gradient(135deg,#5c4a3a 0%,#8b7355 100%);padding:2rem;border-radius:12px;margin:2rem 0;color:#fff">
+<div style="background:linear-gradient(135deg,#1f2d42 0%,#4a6382 100%);padding:2rem;border-radius:12px;margin:2rem 0;color:#fff">
 <h3 style="margin:0 0 1rem;font-size:1.1rem;font-family:inherit;font-weight:600;color:#fff;display:flex;align-items:center;gap:.5rem">
 <svg aria-hidden="true" focusable="false" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
 Verifiable genetic tests
 </h3>
 <p style="margin:0 0 1.5rem;font-size:1rem;color:#fff !important;font-weight:600">Full transparency: results verifiable on the SBTPedigree database and laboratory certificates downloadable below, including Black Jack's parents.</p>
 <div style="display:grid;gap:.75rem;grid-template-columns:repeat(auto-fit,minmax(min(240px,100%),1fr))">
-<a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Quash — Genetic tests – Quash, Black Jack's sire — Genetic tests (PDF) (opens in a new tab)">
+<a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="background:#fff;color:#1f2d42;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Quash — Genetic tests – Quash, Black Jack's sire — Genetic tests (PDF) (opens in a new tab)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Quash — Genetic tests
 </a>
-<a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima — L2-HGA – Ultima, Black Jack's dam — L2-HGA test (PDF) (opens in a new tab)">
+<a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="background:#fff;color:#1f2d42;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima — L2-HGA – Ultima, Black Jack's dam — L2-HGA test (PDF) (opens in a new tab)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Ultima — L2-HGA
 </a>
-<a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima — HC – Ultima, Black Jack's dam — HC test (PDF) (opens in a new tab)">
+<a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="background:#fff;color:#1f2d42;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima — HC – Ultima, Black Jack's dam — HC test (PDF) (opens in a new tab)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Ultima — HC
 </a>
-<a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Bilquis — L2-HGA &amp; HC – Bilquis — L2-HGA and HC test (PDF) (opens in a new tab)">
+<a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" style="background:#fff;color:#1f2d42;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Bilquis — L2-HGA &amp; HC – Bilquis — L2-HGA and HC test (PDF) (opens in a new tab)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Bilquis — L2-HGA &amp; HC
 </a>
-<a href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Bilquis — Doppler echocardio (PDF) (opens in a new tab)">
+<a href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" style="background:#fff;color:#1f2d42;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Bilquis — Doppler echocardio (PDF) (opens in a new tab)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Bilquis — Doppler echocardio
 </a>

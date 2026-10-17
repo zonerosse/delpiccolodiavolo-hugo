@@ -110,7 +110,7 @@ custom_content: |
   </div>
   </div>
 
-  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Accoppiamento programmato per unire la morfologia da Campionessa di Bilquis (Campionessa Italiana, 4ª al World Dog Show 2024) alle linee di Black Jack, figlio del Campione del Mondo 2023 Quash Marvelous Hagler de Stafflorence. Nati il 1° agosto 2026, cuccioli neri. Cucciolata completa: non disponibili.</p>
+  <p style="margin-top:1rem;font-size:.9rem;color:#1f2d42;line-height:1.6">Accoppiamento programmato per unire la morfologia da Campionessa di Bilquis (Campionessa Italiana, 4ª al World Dog Show 2024) alle linee di Black Jack, figlio del Campione del Mondo 2023 Quash Marvelous Hagler de Stafflorence. Nati il 1° agosto 2026, cuccioli neri. Cucciolata completa: non disponibili.</p>
 
   <p class="pedigree-link">Pedigree della cucciolata: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" title="Vedi pedigree cucciolata Bilquis x Black Jack" aria-label="vedi su SBTPedigree – Vedi il pedigree completo della cucciolata del 1° agosto 2026 su SBTPedigree (si apre in una nuova scheda)">vedi su SBTPedigree</a></p>
   </article>
@@ -148,7 +148,7 @@ custom_content: |
   </div>
   </div>
 
-  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Questo accoppiamento è stato pianificato per consolidare le caratteristiche della linea Vangerbull, mantenendo l'eccellente temperamento familiare di Skilful-Dogs. L'obiettivo è produrre soggetti con testa potente, ossatura robusta e movimento corretto.</p>
+  <p style="margin-top:1rem;font-size:.9rem;color:#1f2d42;line-height:1.6">Questo accoppiamento è stato pianificato per consolidare le caratteristiche della linea Vangerbull, mantenendo l'eccellente temperamento familiare di Skilful-Dogs. L'obiettivo è produrre soggetti con testa potente, ossatura robusta e movimento corretto.</p>
 
   <p class="pedigree-link">Pedigree della cucciolata: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" title="Vedi pedigree cucciolata Red x Nora" aria-label="vedi su SBTPedigree – Vedi il pedigree completo della cucciolata del 9 febbraio 2026 su SBTPedigree (si apre in una nuova scheda)">vedi su SBTPedigree</a></p>
   <p class="pedigree-link">Diario della cucciolata: <a href="/diario-allevamento/cucciolata-red-nora-febbraio-2026/" title="Cucciolata Red × Nora nel diario">genitori, test, esami e crescita</a></p>
@@ -189,7 +189,7 @@ custom_content: |
   </div>
   </div>
 
-  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Accoppiamento pianificato per unire la morfologia eccellente di Bilquis (Campionessa Italiana, 4° al World Dog Show) con la potenza e il carattere di Luis. Obiettivo: soggetti da esposizione con temperamento equilibrato.</p>
+  <p style="margin-top:1rem;font-size:.9rem;color:#1f2d42;line-height:1.6">Accoppiamento pianificato per unire la morfologia eccellente di Bilquis (Campionessa Italiana, 4° al World Dog Show) con la potenza e il carattere di Luis. Obiettivo: soggetti da esposizione con temperamento equilibrato.</p>
 
   <p class="pedigree-link">Pedigree della cucciolata: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4555572&DAM=4496127&generation=4&dogs_id=4555573" target="_blank" rel="noopener" title="Vedi pedigree cucciolata Bilquis x Luis" aria-label="vedi su SBTPedigree – Vedi il pedigree completo della cucciolata del 2 maggio 2025 su SBTPedigree (si apre in una nuova scheda)">vedi su SBTPedigree</a></p>
   </article>
@@ -227,7 +227,7 @@ custom_content: |
   </div>
   </div>
 
-  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Accoppiamento fra le due linee su cui lavoriamo, Elitebull e Lackyle. Nei pedigree di Elitebull ci sono gi&agrave; i cani storici di Lackyle: questo accoppiamento li riunisce. Obiettivo: soggetti adatti sia alla famiglia sia all'esposizione.</p>
+  <p style="margin-top:1rem;font-size:.9rem;color:#1f2d42;line-height:1.6">Accoppiamento fra le due linee su cui lavoriamo, Elitebull e Lackyle. Nei pedigree di Elitebull ci sono gi&agrave; i cani storici di Lackyle: questo accoppiamento li riunisce. Obiettivo: soggetti adatti sia alla famiglia sia all'esposizione.</p>
 
   <p class="pedigree-link">Pedigree della cucciolata: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4483601&DAM=4538599&generation=4&dogs_id=4547824" target="_blank" rel="noopener" title="Vedi pedigree cucciolata Prospect x Bean" aria-label="vedi su SBTPedigree – Vedi il pedigree completo della cucciolata del 1° febbraio 2025 su SBTPedigree (si apre in una nuova scheda)">vedi su SBTPedigree</a></p>
   </article>
@@ -238,15 +238,15 @@ custom_content: |
   <!-- Citazione allevamento -->
   <section class="section">
   <div class="section-inner">
-  <blockquote style="background:#3d2f22;border-radius:8px;padding:2.5rem 3rem;text-align:center;position:relative;margin:0 auto;max-width:780px">
+  <blockquote style="background:#1f2d42;border-radius:8px;padding:2.5rem 3rem;text-align:center;position:relative;margin:0 auto;max-width:780px">
   <span style="position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,transparent,#c9a227,transparent);display:block"></span>
   <span style="position:absolute;bottom:0;left:0;right:0;height:3px;background:linear-gradient(90deg,transparent,#c9a227,transparent);display:block"></span>
-  <p style="font-family:Georgia,'Times New Roman',serif;font-size:1.3rem;font-style:italic;color:#f5ede0;line-height:1.8;margin:0">
+  <p style="font-family:Georgia,'Times New Roman',serif;font-size:1.3rem;font-style:italic;color:#eef2f7;line-height:1.8;margin:0">
   &laquo;Poche cucciolate l'anno, scelte una per una.<br>
   Prima ci si conosce. Il resto viene dopo.&raquo;</p>
-  <p style="font-size:.95rem;color:#f5ede0;line-height:1.7;margin:1rem 0 0">Ogni cucciolata nata qui, con genitori, test, esami e foto della crescita, &egrave; raccontata nel <a href="/diario-allevamento/" title="Diario dell'allevamento" style="color:#e0b77a;text-decoration:underline">diario dell'allevamento</a>.</p>
+  <p style="font-size:.95rem;color:#eef2f7;line-height:1.7;margin:1rem 0 0">Ogni cucciolata nata qui, con genitori, test, esami e foto della crescita, &egrave; raccontata nel <a href="/diario-allevamento/" title="Diario dell'allevamento" style="color:#e0b77a;text-decoration:underline">diario dell'allevamento</a>.</p>
   <span style="display:block;width:40px;height:1px;background:#c9a227;margin:1rem auto 0"></span>
-  <footer style="margin-top:0.75rem;font-size:0.75rem;color:#d9bb94;letter-spacing:0.2em;text-transform:uppercase;font-weight:700;font-style:normal">Del Piccolo Diavolo · Dal 2013</footer>
+  <footer style="margin-top:0.75rem;font-size:0.75rem;color:#c9d6e6;letter-spacing:0.2em;text-transform:uppercase;font-weight:700;font-style:normal">Del Piccolo Diavolo · Dal 2013</footer>
   </blockquote>
   </div>
   </section>

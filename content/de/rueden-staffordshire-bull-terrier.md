@@ -44,7 +44,7 @@ custom_content: |
   <div class="male-header">
   <span class="male-badge">🏆 Slowenischer Champion · Italienischer Jugendchampion</span>
   <h3 class="male-name">CH. SLO · J.CH. ITA Lothar Matthäus del Piccolo Diavolo</h3>
-  <p style="margin:.3rem 0 0;color:#7a6a58;font-size:.95rem">Gerufen <strong>Tyson</strong></p>
+  <p style="margin:.3rem 0 0;color:#4a5768;font-size:.95rem">Gerufen <strong>Tyson</strong></p>
   </div>
   <div class="male-content">
   <div class="male-image">
@@ -54,7 +54,7 @@ custom_content: |
   <p><strong>Gentests:</strong> L2-HGA frei · HC (HSF4) frei · DM-SOD1 frei · OCD frei</p>
   <p><strong>HD/ED:</strong> Hüften HD B · Ellenbogen ED 0</p>
   <p><strong>Gebiss:</strong> vollständig, Scherengebiss</p>
-  <p><strong>Vater:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford" style="color:#8b5a2b;font-weight:700;text-decoration:underline;text-underline-offset:3px" aria-label="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford (wird in einem neuen Tab geöffnet)">Bullbrothers Hott as Hell &#8599;</a> «HEAT», Multi-Internationaler Champion, Crufts-qualifiziert, Zucht TheReds Stafford</p>
+  <p><strong>Vater:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford" style="color:#1f4f82;font-weight:700;text-decoration:underline;text-underline-offset:3px" aria-label="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford (wird in einem neuen Tab geöffnet)">Bullbrothers Hott as Hell &#8599;</a> «HEAT», Multi-Internationaler Champion, Crufts-qualifiziert, Zucht TheReds Stafford</p>
   <p><strong>Mutter:</strong> Skilful-dogs Nora</p>
   <p><strong>Besitzer:</strong> Sergio Patrucco</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4554911" target="_blank" rel="noopener" title="Stammbaum Lothar auf SBTPedigree" aria-label="Vollständigen Stammbaum sehen – Stammbaum Lothar auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum sehen →</a>

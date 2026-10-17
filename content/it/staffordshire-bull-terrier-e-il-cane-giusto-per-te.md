@@ -67,8 +67,8 @@ custom_content: |
 
   <div style="background:#fff8e1;border-left:5px solid #f4b400;border-radius:8px;padding:1rem 1.3rem;margin:1.5rem 0">
   <p style="margin:0 0 .4rem;font-weight:700;color:#7a5c00;display:flex;align-items:center;gap:.5rem">⚠️ Supervisione sempre</p>
-  <p style="margin:0 0 .5rem;color:#5c4a3a;line-height:1.6">Per quanto affidabile e dolce, <strong>nessun cane va mai lasciato solo con bambini piccoli senza la supervisione di un adulto</strong>. Vale per lo Staffordshire Bull Terrier come per qualsiasi razza: è una regola di sicurezza fondamentale, nell'interesse sia del bambino sia del cane.</p>
-  <p style="margin:0;color:#5c4a3a;line-height:1.6">Dal momento dell'affido, la gestione e la sorveglianza del cane sono responsabilità del proprietario: <strong>l'allevamento non si assume alcuna responsabilità</strong> per comportamenti o incidenti derivanti da una gestione non conforme a queste indicazioni.</p>
+  <p style="margin:0 0 .5rem;color:#1f2d42;line-height:1.6">Per quanto affidabile e dolce, <strong>nessun cane va mai lasciato solo con bambini piccoli senza la supervisione di un adulto</strong>. Vale per lo Staffordshire Bull Terrier come per qualsiasi razza: è una regola di sicurezza fondamentale, nell'interesse sia del bambino sia del cane.</p>
+  <p style="margin:0;color:#1f2d42;line-height:1.6">Dal momento dell'affido, la gestione e la sorveglianza del cane sono responsabilità del proprietario: <strong>l'allevamento non si assume alcuna responsabilità</strong> per comportamenti o incidenti derivanti da una gestione non conforme a queste indicazioni.</p>
   </div>
 
   <h3>3. Taglia ideale per la vita moderna</h3>

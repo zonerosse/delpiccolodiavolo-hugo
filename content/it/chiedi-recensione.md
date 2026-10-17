@@ -17,13 +17,13 @@ custom_content: |
 
   <div class="intro-block">
   <p><strong>Italiano.</strong> Se il tuo Staffy sta bene e ti trovi bene con lui, scriverlo su Google aiuta la prossima famiglia a capire con chi ha a che fare. Ci vuole un minuto e resta lì per chiunque cerchi un allevamento serio.</p>
-  <p style="margin-top:.8rem;font-size:.9rem;color:#6b5d52"><strong>English.</strong> If your Staffy is doing well, writing it on Google helps the next family. It takes a minute.<br>
+  <p style="margin-top:.8rem;font-size:.9rem;color:#4a5768"><strong>English.</strong> If your Staffy is doing well, writing it on Google helps the next family. It takes a minute.<br>
   <strong>Deutsch.</strong> Wenn es Ihrem Staffy gut geht, hilft eine Bewertung auf Google der nächsten Familie. Es dauert eine Minute.</p>
   </div>
 
   <div style="text-align:center;margin:2.5rem 0">
   <a class="btn btn-primary" href="https://g.page/r/CUCv-r9V4lTREAE/review" target="_blank" rel="noopener" aria-label="Scrivi la recensione su Google – Scrivi la recensione sulla scheda Google dell'allevamento (si apre in una nuova scheda)">Scrivi la recensione su Google</a>
-  <p style="margin-top:.9rem;font-size:.85rem;color:#7a6a58;line-height:1.6">Write your review · Bewertung schreiben<br>Si apre la scheda Google dell'allevamento. Serve un account Google.</p>
+  <p style="margin-top:.9rem;font-size:.85rem;color:#4a5768;line-height:1.6">Write your review · Bewertung schreiben<br>Si apre la scheda Google dell'allevamento. Serve un account Google.</p>
   </div>
 
   </div>
@@ -32,7 +32,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <h2 class="section-title" style="text-align:center">Non sai cosa scrivere?</h2>
-  <p style="text-align:center;color:#6b5d52;font-size:.95rem;margin-bottom:1.75rem">Due righe bastano. Se vuoi una traccia, rispondi a una di queste.</p>
+  <p style="text-align:center;color:#4a5768;font-size:.95rem;margin-bottom:1.75rem">Due righe bastano. Se vuoi una traccia, rispondi a una di queste.</p>
   <div class="checklist">
   <ul>
   <li>Cosa cercavi quando mi hai scritto la prima volta</li>
@@ -71,8 +71,8 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner content-single">
   <h2 class="section-title">Se preferisci dirmelo a voce</h2>
-  <p style="font-size:.95rem;line-height:1.8">Se qualcosa non è andato come speravi, o se hai un dubbio sul cane, scrivimi su <a href="/wa/393924635584" target="_blank" rel="noopener" aria-label="Scrivimi su WhatsApp (si apre in una nuova scheda)" style="color:#8b5a2b;font-weight:600">WhatsApp</a> invece che su Google. Mi interessa di più quello, e a un problema si rimedia solo se me lo dici.</p>
-  <p style="font-size:.95rem;line-height:1.8;margin-top:1rem">Vuoi prima vedere cosa hanno scritto gli altri? Sono tutte sulla <a href="/recensioni/" style="color:#8b5a2b;font-weight:600">pagina recensioni</a>.</p>
+  <p style="font-size:.95rem;line-height:1.8">Se qualcosa non è andato come speravi, o se hai un dubbio sul cane, scrivimi su <a href="/wa/393924635584" target="_blank" rel="noopener" aria-label="Scrivimi su WhatsApp (si apre in una nuova scheda)" style="color:#1f4f82;font-weight:600">WhatsApp</a> invece che su Google. Mi interessa di più quello, e a un problema si rimedia solo se me lo dici.</p>
+  <p style="font-size:.95rem;line-height:1.8;margin-top:1rem">Vuoi prima vedere cosa hanno scritto gli altri? Sono tutte sulla <a href="/recensioni/" style="color:#1f4f82;font-weight:600">pagina recensioni</a>.</p>
   </div>
   </section>
 

@@ -75,7 +75,7 @@ custom_content: |
   <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> Pablo iuno sospita plata plomo</p>
   <p><strong>Madre:</strong> Skilful-dogs Nora</p>
-    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Dolce e delicata con chiunque, cani e persone comprese quelle che non ha mai visto. Se venite a trovarci vi riceve pancia all'aria in cerca di coccole, e non ve la togliete di torno fino ai saluti. Non &egrave; solo un tratto suo: i cuccioli della sua prima cucciolata hanno ereditato lo stesso carattere, e lo raccontano le famiglie nelle <a href="/recensioni/" title="Recensioni">recensioni</a>.</p>
+    <p style="border-top:1px solid rgba(31,58,95,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Dolce e delicata con chiunque, cani e persone comprese quelle che non ha mai visto. Se venite a trovarci vi riceve pancia all'aria in cerca di coccole, e non ve la togliete di torno fino ai saluti. Non &egrave; solo un tratto suo: i cuccioli della sua prima cucciolata hanno ereditato lo stesso carattere, e lo raccontano le famiglie nelle <a href="/recensioni/" title="Recensioni">recensioni</a>.</p>
   <a class="doc-link" href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" title="Scarica test genetici Bilquis" aria-label="Scarica test genetici Bilquis (si apre in una nuova scheda)">📄 Test genetici</a>
   <a class="doc-link" href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" title="Scarica ecocardio Bilquis" aria-label="Ecocardio Doppler – Scarica ecocardio Bilquis (si apre in una nuova scheda)">📄 Ecocardio Doppler</a>
   <a class="doc-link" href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Scarica le esposizioni di Bilquis dal Libro genealogico ENCI" aria-label="Esposizioni ENCI – Scarica le esposizioni di Bilquis dal Libro genealogico ENCI (si apre in una nuova scheda)">📄 Esposizioni ENCI</a>
@@ -107,7 +107,7 @@ custom_content: |
   <p><strong>Proprietario:</strong> Stefano Tevini</p>
   <p><strong>Handler:</strong> Vittoria Passerini</p>
   <p><strong>Titolo:</strong> Giovane Campionessa Italiana — Albarella (RO), 17 maggio 2026. Cl. Giovani 1° Ecc, JCAC, JBOB, BOB. Miglior Staffy — Gruppo Cinofilo Polesano.</p>
-    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Figlia di Minnie, e la sua fotocopia: non solo nella struttura, ma soprattutto nella testa. La stessa esuberanza, la stessa richiesta continua di attenzioni, la stessa pancia all'aria facile. Queen non vive con noi, ma la vediamo spesso e Manuela, la moglie del proprietario, ci racconta ogni giorno come sta: quando si dice che il carattere si eredita, &egrave; lei la prova che abbiamo sotto gli occhi.</p>
+    <p style="border-top:1px solid rgba(31,58,95,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Figlia di Minnie, e la sua fotocopia: non solo nella struttura, ma soprattutto nella testa. La stessa esuberanza, la stessa richiesta continua di attenzioni, la stessa pancia all'aria facile. Queen non vive con noi, ma la vediamo spesso e Manuela, la moglie del proprietario, ci racconta ogni giorno come sta: quando si dice che il carattere si eredita, &egrave; lei la prova che abbiamo sotto gli occhi.</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" title="Vedi pedigree Queen of California su SBTPedigree" aria-label="Vedi pedigree completo – Vedi il pedigree completo della cucciolata su SBTPedigree (si apre in una nuova scheda)">Vedi pedigree completo →</a>
   <!--ESPOSIZIONI:queen-->
   </div>
@@ -132,7 +132,7 @@ custom_content: |
   <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> Lackyle Trodai Tine</p>
   <p><strong>Madre:</strong> CH. Lackyle Ogbhean an Diabhal</p>
-    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Esuberante. Ti straccia le gambe saltandoti addosso per avere attenzioni, poi ti lecca finch&eacute; non sei tu a stancarti. Anche lei ha la pancia all'aria facile.</p>
+    <p style="border-top:1px solid rgba(31,58,95,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Esuberante. Ti straccia le gambe saltandoti addosso per avere attenzioni, poi ti lecca finch&eacute; non sei tu a stancarti. Anche lei ha la pancia all'aria facile.</p>
   <a class="doc-link" href="/docs/Minnie-GF.pdf" target="_blank" rel="noopener" title="Scarica test genetici Croi Olc" aria-label="Scarica test genetici Croi Olc (si apre in una nuova scheda)">📄 Test genetici</a>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="Vedi pedigree Croi Olc su SBTPedigree" aria-label="Vedi pedigree completo – Vedi pedigree Croi Olc su SBTPedigree (si apre in una nuova scheda)">Vedi pedigree completo →</a>
   <!--ESPOSIZIONI:croiolc-->
@@ -143,7 +143,7 @@ custom_content: |
   <!-- DIVINE - IN AFFIDO -->
   <article class="female-card">
   <div class="female-header">
-  <span class="stato-fattrice" style="display:inline-block;background:#efe9e0;color:#5c4a3a;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;padding:.35rem .8rem;border-radius:4px;margin-bottom:.5rem">Sterilizzata — non più fattrice</span>
+  <span class="stato-fattrice" style="display:inline-block;background:#eef2f7;color:#1f2d42;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;padding:.35rem .8rem;border-radius:4px;margin-bottom:.5rem">Sterilizzata — non più fattrice</span>
   <h3 class="female-name">Faiter Divine at Diabhal Staff</h3>
   </div>
   <div class="female-content">
@@ -157,7 +157,7 @@ custom_content: |
   <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> CH. Dangerous Smile Black Shadow</p>
   <p><strong>Madre:</strong> CH. Sonrisa Feliz Keely Lariel</p>
-    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Ha il fuoco addosso, se glielo permetti: mai stanca, una rompiscatole vera. Poi arriva mio figlio e si trasforma: sale in poltrona e gioca a palla colpendola con il muso, come una foca.</p>
+    <p style="border-top:1px solid rgba(31,58,95,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Ha il fuoco addosso, se glielo permetti: mai stanca, una rompiscatole vera. Poi arriva mio figlio e si trasforma: sale in poltrona e gioca a palla colpendola con il muso, come una foca.</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1775592" target="_blank" rel="noopener" title="Vedi pedigree Divine su SBTPedigree" aria-label="Vedi pedigree completo – Vedi pedigree Divine su SBTPedigree (si apre in una nuova scheda)">Vedi pedigree completo →</a>
   <!--ESPOSIZIONI:faiter-->
   </div>
@@ -167,7 +167,7 @@ custom_content: |
   <!-- KENNEDY -->
   <article class="female-card">
   <div class="female-header">
-  <span class="stato-fattrice" style="display:inline-block;background:#efe9e0;color:#5c4a3a;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;padding:.35rem .8rem;border-radius:4px;margin-bottom:.5rem">Sterilizzata — non più fattrice</span>
+  <span class="stato-fattrice" style="display:inline-block;background:#eef2f7;color:#1f2d42;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;padding:.35rem .8rem;border-radius:4px;margin-bottom:.5rem">Sterilizzata — non più fattrice</span>
   <h3 class="female-name">Jackie Kennedy Great'n Glory</h3>
   </div>
   <div class="female-content">
@@ -182,7 +182,7 @@ custom_content: |
   <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> CH. Hell's Angel</p>
   <p><strong>Madre:</strong> CH. Mellowstaff by Great'n Glory</p>
-    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Da vera tedesca non cede di un centimetro: sempre sul pezzo, con un caratterino tutto pepe. Ma rispettosa al punto da essere diventata la cagnolina dei miei genitori, che sono anziani. Vive con loro e li accompagna in ogni cosa: le passeggiate, il cortile, stendere i panni, portare fuori l'immondizia. E lo farebbe anche senza guinzaglio, se glielo lasciassimo fare: dai piedi di mia madre non si sposta di un metro.</p>
+    <p style="border-top:1px solid rgba(31,58,95,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> Da vera tedesca non cede di un centimetro: sempre sul pezzo, con un caratterino tutto pepe. Ma rispettosa al punto da essere diventata la cagnolina dei miei genitori, che sono anziani. Vive con loro e li accompagna in ogni cosa: le passeggiate, il cortile, stendere i panni, portare fuori l'immondizia. E lo farebbe anche senza guinzaglio, se glielo lasciassimo fare: dai piedi di mia madre non si sposta di un metro.</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1054244" target="_blank" rel="noopener" title="Vedi pedigree Kennedy su SBTPedigree" aria-label="Vedi pedigree completo – Vedi pedigree Kennedy su SBTPedigree (si apre in una nuova scheda)">Vedi pedigree completo →</a>
   <!--ESPOSIZIONI:jackie-->
   </div>
@@ -192,7 +192,7 @@ custom_content: |
   <!-- DERRY -->
   <article class="female-card">
   <div class="female-header">
-  <span class="stato-fattrice" style="display:inline-block;background:#efe9e0;color:#5c4a3a;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;padding:.35rem .8rem;border-radius:4px;margin-bottom:.5rem">Sterilizzata — non più fattrice</span>
+  <span class="stato-fattrice" style="display:inline-block;background:#eef2f7;color:#1f2d42;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;padding:.35rem .8rem;border-radius:4px;margin-bottom:.5rem">Sterilizzata — non più fattrice</span>
   <h3 class="female-name">Foyleoak Maiden Derry</h3>
   </div>
   <div class="female-content">
@@ -208,7 +208,7 @@ custom_content: |
   <p><strong>PHPV:</strong> Esente</p>
   <p><strong>Padre:</strong> CH. Kiraloebis Italian Gigalo (Top UK Staffordshire Bull Terrier 2012)</p>
   <p><strong>Madre:</strong> Lackyle Duilleog Daracha</p>
-    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> La vecchietta di casa, la capobranco. Controlla tutto e tutti e cerca di darsi un tono in ogni situazione, poi si rende conto di essere tutto sommato uno Staffy e non pu&ograve; fare a meno di farsi coccolare. Una rompiscatole che vuole sempre stare al centro dell'attenzione. Il suo cuscino sta sul tappeto di fianco al mio letto.</p>
+    <p style="border-top:1px solid rgba(31,58,95,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> La vecchietta di casa, la capobranco. Controlla tutto e tutti e cerca di darsi un tono in ogni situazione, poi si rende conto di essere tutto sommato uno Staffy e non pu&ograve; fare a meno di farsi coccolare. Una rompiscatole che vuole sempre stare al centro dell'attenzione. Il suo cuscino sta sul tappeto di fianco al mio letto.</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=789829" target="_blank" rel="noopener" title="Vedi pedigree Derry su SBTPedigree" aria-label="Vedi pedigree completo – Vedi pedigree Derry su SBTPedigree (si apre in una nuova scheda)">Vedi pedigree completo →</a>
   <!--ESPOSIZIONI:nutella-->
   </div>
@@ -260,7 +260,7 @@ custom_content: |
   <p><strong>Padre:</strong> Skilful-Dogs Jeghër</p>
   <p><strong>Madre:</strong> Skilful-Dogs Red Skin</p>
   <p><strong>Ultima cucciolata:</strong> <a href="/diario-allevamento/cucciolata-red-nora-febbraio-2026/" title="Cucciolata Red × Nora, febbraio 2026">Red × Nora, 9 febbraio 2026</a>: genitori, test, esami e crescita nel diario</p>
-    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> La chiamavamo Yoghi, come l'orso: un bulldozer senza freni, piena di energie, e in fondo un orsacchiotto da poltrona, da divano, o da letto se glielo lasciavi fare.</p>
+    <p style="border-top:1px solid rgba(31,58,95,.15);padding-top:.75rem;margin-top:.75rem"><strong>Carattere.</strong> La chiamavamo Yoghi, come l'orso: un bulldozer senza freni, piena di energie, e in fondo un orsacchiotto da poltrona, da divano, o da letto se glielo lasciavi fare.</p>
   <a class="doc-link" href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" title="Scarica test genetici Nora" aria-label="Scarica test genetici Nora (si apre in una nuova scheda)">📄 Test genetici</a>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="Vedi pedigree Nora su SBTPedigree" aria-label="Vedi pedigree completo – Vedi pedigree Nora su SBTPedigree (si apre in una nuova scheda)">Vedi pedigree completo →</a>
   <!--ESPOSIZIONI:nora-->
@@ -282,7 +282,7 @@ custom_content: |
   <p>In questa pagina ci sono otto femmine di Staffordshire Bull Terrier: due fattrici in attivit&agrave;, Bilquis e Croi Olc, tre che non fanno pi&ugrave; cucciolate e tre che vivono altrove. Per ognuna il sito pubblica il numero di microchip, il numero di libro genealogico ENCI, <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">i test genetici</a> e il collegamento alla scheda su SBTPedigree. Con il microchip chiunque può consultare sul libro genealogico ENCI quante cucciolate ha fatto una femmina: da noi la media è di due per cane, ben sotto il limite consentito dal regolamento. Queen e Cattleya sono nate qui e sono andate via da cucciole: oggi Queen vive a Bologna e Cattleya a Rimini. Nora l'ho regalata a un carissimo amico di Verona che si era innamorato di lei. Nella scheda di ognuna c'&egrave; il nome di chi la tiene oggi. Le linee di provenienza sono inglesi e irlandesi, in particolare Elitebull e Lackyle, e i soggetti importati arrivano da Russia, Germania e Irlanda.</p>
 
   <p>Le scegliamo per <strong>salute</strong>, <strong>tipicit&agrave;</strong> e <strong>carattere equilibrato</strong>. Ogni accoppiamento parte dai test genetici e da come si combinano le linee dei due cani.</p>
-  <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Le nostre femmine sono testate per:</p>
+  <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#1f2d42">Le nostre femmine sono testate per:</p>
   <p>✓ <strong>L2-HGA</strong> — Aciduria L-2-Idrossiglutarica<br>
   ✓ <strong>HC</strong> — Cataratta Ereditaria<br>
   ✓ <strong>DM-SOD1</strong> — Mielopatia degenerativa<br>

@@ -28,7 +28,7 @@ Siamo felici di annunciare la nascita di una cucciolata molto attesa presso l'al
 Il tuo browser non supporta il video.
 </video>
 
-<p style="text-align:center;font-size:.85rem;color:#6b5d52;font-style:italic;margin:-.5rem auto 1.5rem;max-width:480px">Nel video i cuccioli sono nel recinto esterno, dove passano le ore di gioco al sole.</p>
+<p style="text-align:center;font-size:.85rem;color:#4a5768;font-style:italic;margin:-.5rem auto 1.5rem;max-width:480px">Nel video i cuccioli sono nel recinto esterno, dove passano le ore di gioco al sole.</p>
 
 <!--/BLOCCO:1-->
 
@@ -120,18 +120,18 @@ Entrambi i genitori sono testati **esenti** per le principali patologie genetich
 
 I cuccioli sono **geneticamente sani** per L2-HGA e HC (tutti esenti).
 
-<div style="background:linear-gradient(135deg,#5c4a3a 0%,#8b7355 100%);padding:2rem;border-radius:12px;margin:2rem 0;color:#fff">
+<div style="background:linear-gradient(135deg,#1f2d42 0%,#4a6382 100%);padding:2rem;border-radius:12px;margin:2rem 0;color:#fff">
 <h3 style="margin:0 0 1rem;font-size:1.1rem;font-family:inherit;font-weight:600;color:#fff;display:flex;align-items:center;gap:.5rem">
 <svg aria-hidden="true" focusable="false" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
 Test genetici verificabili
 </h3>
 <p style="margin:0 0 1rem;font-size:1rem;color:#fff !important;font-weight:600">Trasparenza totale: scarica i certificati originali dei laboratori.</p>
 <div style="display:flex;flex-wrap:wrap;gap:1rem">
-<a href="/docs/test-genetici-red.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem" aria-label="Red (L2-HGA + HC) (si apre in una nuova scheda)">
+<a href="/docs/test-genetici-red.pdf" target="_blank" rel="noopener" style="background:#fff;color:#1f2d42;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem" aria-label="Red (L2-HGA + HC) (si apre in una nuova scheda)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Red (L2-HGA + HC)
 </a>
-<a href="/docs/test-genetici-nora.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem" aria-label="Nora (L2-HGA + HC + DM) (si apre in una nuova scheda)">
+<a href="/docs/test-genetici-nora.pdf" target="_blank" rel="noopener" style="background:#fff;color:#1f2d42;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem" aria-label="Nora (L2-HGA + HC + DM) (si apre in una nuova scheda)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Nora (L2-HGA + HC + DM)
 </a>

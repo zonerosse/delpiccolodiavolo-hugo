@@ -60,14 +60,14 @@ All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente a
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(300px,100%),1fr));gap:1.8rem;max-width:760px;margin:1.6rem auto 2.2rem">
 <div>
-<div style="position:relative;padding-bottom:152.2%;height:0;background:#e6ddd4;border-radius:14px;overflow:hidden;box-shadow:0 8px 25px rgba(0,0,0,.12)">
+<div style="position:relative;padding-bottom:152.2%;height:0;background:#dde5ef;border-radius:14px;overflow:hidden;box-shadow:0 8px 25px rgba(0,0,0,.12)">
 <iframe src="https://www.youtube-nocookie.com/embed/rm1fY0_P6I8" title="Cucciola di Staffordshire Bull Terrier a 30 giorni" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe>
 </div>
 <h3 style="margin:1rem 0 .45rem;font-size:1.05rem">A trenta giorni</h3>
 <p style="font-size:.9rem;line-height:1.7;margin:0">Il 31 agosto i cuccioli hanno compiuto un mese. Gli occhi sono aperti da settimane, le zampe reggono, e comincia il periodo in cui un cucciolo impara cos'&egrave; normale e cosa fa paura: le voci, le mani che lo prendono in braccio, i rumori della casa. Crescono dentro casa, e la legge vieta l'affido prima dei sessanta giorni: qui restano con la madre fino a settanta.</p>
 </div>
 <div>
-<div style="position:relative;padding-bottom:152.2%;height:0;background:#e6ddd4;border-radius:14px;overflow:hidden;box-shadow:0 8px 25px rgba(0,0,0,.12)">
+<div style="position:relative;padding-bottom:152.2%;height:0;background:#dde5ef;border-radius:14px;overflow:hidden;box-shadow:0 8px 25px rgba(0,0,0,.12)">
 <iframe src="https://www.youtube-nocookie.com/embed/cVyPQbi2I1A" title="Cucciola di Staffordshire Bull Terrier a 55 giorni" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe>
 </div>
 <h3 style="margin:1rem 0 .45rem;font-size:1.05rem">A cinquantacinque giorni</h3>
@@ -164,8 +164,8 @@ I genitori sono testati per le principali patologie genetiche della razza:
 
 <div style="display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(min(280px,100%),1fr));margin:1.5rem 0">
 
-  <div style="background:#fff;border:1px solid #e2ddd6;border-radius:10px;padding:1.25rem">
-    <span style="display:inline-block;background:#5c4a3a;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Padre</span><span style="display:inline-block;background:#8b7300;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px;margin-left:.35rem">★ Campione del Mondo 2023</span>
+  <div style="background:#fff;border:1px solid #dfe5ec;border-radius:10px;padding:1.25rem">
+    <span style="display:inline-block;background:#1f2d42;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Padre</span><span style="display:inline-block;background:#8b7300;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px;margin-left:.35rem">★ Campione del Mondo 2023</span>
     <p style="margin:.6rem 0 .3rem;font-weight:700">Quash Marvelous Hagler de Stafflorence</p>
     <p style="margin:0 0 .9rem;font-size:.82rem;color:#666;line-height:1.5">Maschio, nato il 26/02/2021 — microchip 380260160176743<br>Antagene (La Tour de Salvagny, Francia) — referto A00046270, validato l'08/09/2023</p>
     <ul style="margin:0;padding-left:1.1rem;font-size:.92rem">
@@ -174,49 +174,49 @@ I genitori sono testati per le principali patologie genetiche della razza:
       <li>Iperuricosuria (SLC2A9): <strong>Esente (N/N)</strong></li>
       <li>MDR1: <strong>Esente (N/N)</strong></li>
     </ul>
-    <p style="margin:.9rem 0 0"><a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b" aria-label="Referto Antagene (PDF) (si apre in una nuova scheda)">Referto Antagene (PDF) →</a></p>
+    <p style="margin:.9rem 0 0"><a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#1f4f82" aria-label="Referto Antagene (PDF) (si apre in una nuova scheda)">Referto Antagene (PDF) →</a></p>
   </div>
 
-  <div style="background:#fff;border:1px solid #e2ddd6;border-radius:10px;padding:1.25rem">
-    <span style="display:inline-block;background:#5c4a3a;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Madre</span><span style="display:inline-block;background:#8b7300;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px;margin-left:.35rem">★ Giovane Campionessa Italiana</span>
+  <div style="background:#fff;border:1px solid #dfe5ec;border-radius:10px;padding:1.25rem">
+    <span style="display:inline-block;background:#1f2d42;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Madre</span><span style="display:inline-block;background:#8b7300;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px;margin-left:.35rem">★ Giovane Campionessa Italiana</span>
     <p style="margin:.6rem 0 .3rem;font-weight:700">Ultima di Casa Giacalone</p>
     <p style="margin:0 0 .9rem;font-size:.82rem;color:#666;line-height:1.5">Femmina — microchip 380260044680718, pedigree LO2313633<br>EVG Molekularna Diagnostika (Maribor, Slovenia) — riferimento 2026-083880/01, 27/08/2026</p>
     <ul style="margin:0;padding-left:1.1rem;font-size:.92rem">
       <li>L2-HGA (L2HGDH): <strong>Esente (WT/WT)</strong></li>
       <li>HC (HSF4): <strong>Esente (WT/WT)</strong></li>
     </ul>
-    <p style="margin:.9rem 0 0"><a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b" aria-label="Referto L2-HGA (PDF) (si apre in una nuova scheda)">Referto L2-HGA (PDF) →</a></p>
-    <p style="margin:.35rem 0 0"><a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b" aria-label="Referto HC (PDF) (si apre in una nuova scheda)">Referto HC (PDF) →</a></p>
+    <p style="margin:.9rem 0 0"><a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#1f4f82" aria-label="Referto L2-HGA (PDF) (si apre in una nuova scheda)">Referto L2-HGA (PDF) →</a></p>
+    <p style="margin:.35rem 0 0"><a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#1f4f82" aria-label="Referto HC (PDF) (si apre in una nuova scheda)">Referto HC (PDF) →</a></p>
   </div>
 
 </div>
 
-<p style="font-size:.9rem;color:#555;border-left:3px solid #5c4a3a;padding-left:1rem;margin:1.5rem 0">Entrambi i genitori sono omozigoti normali per L2-HGA e cataratta ereditaria: nessuno dei due possiede l'allele difettoso, quindi Black Jack non può averlo ereditato. Iperuricosuria e MDR1 sono testati sul solo padre e per questi due il figlio non è dichiarabile esente per discendenza.</p>
+<p style="font-size:.9rem;color:#555;border-left:3px solid #1f2d42;padding-left:1rem;margin:1.5rem 0">Entrambi i genitori sono omozigoti normali per L2-HGA e cataratta ereditaria: nessuno dei due possiede l'allele difettoso, quindi Black Jack non può averlo ereditato. Iperuricosuria e MDR1 sono testati sul solo padre e per questi due il figlio non è dichiarabile esente per discendenza.</p>
 
-<div style="background:linear-gradient(135deg,#5c4a3a 0%,#8b7355 100%);padding:2rem;border-radius:12px;margin:2rem 0;color:#fff">
+<div style="background:linear-gradient(135deg,#1f2d42 0%,#4a6382 100%);padding:2rem;border-radius:12px;margin:2rem 0;color:#fff">
 <h3 style="margin:0 0 1rem;font-size:1.1rem;font-family:inherit;font-weight:600;color:#fff;display:flex;align-items:center;gap:.5rem">
 <svg aria-hidden="true" focusable="false" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
 Test genetici verificabili
 </h3>
 <p style="margin:0 0 1.5rem;font-size:1rem;color:#fff !important;font-weight:600">Trasparenza totale: esiti verificabili sul database SBTPedigree e certificati di laboratorio scaricabili qui sotto, riproduttori e genitori di Black Jack compresi.</p>
 <div style="display:grid;gap:.75rem;grid-template-columns:repeat(auto-fit,minmax(min(240px,100%),1fr))">
-<a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Quash — Test genetici – Quash, padre di Black Jack — Test genetici (PDF) (si apre in una nuova scheda)">
+<a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="background:#fff;color:#1f2d42;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Quash — Test genetici – Quash, padre di Black Jack — Test genetici (PDF) (si apre in una nuova scheda)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Quash — Test genetici
 </a>
-<a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima — L2-HGA – Ultima, madre di Black Jack — Test L2-HGA (PDF) (si apre in una nuova scheda)">
+<a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="background:#fff;color:#1f2d42;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima — L2-HGA – Ultima, madre di Black Jack — Test L2-HGA (PDF) (si apre in una nuova scheda)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Ultima — L2-HGA
 </a>
-<a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima — HC – Ultima, madre di Black Jack — Test HC (PDF) (si apre in una nuova scheda)">
+<a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="background:#fff;color:#1f2d42;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima — HC – Ultima, madre di Black Jack — Test HC (PDF) (si apre in una nuova scheda)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Ultima — HC
 </a>
-<a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Bilquis — L2-HGA &amp; HC – Bilquis — Test L2-HGA e HC (PDF) (si apre in una nuova scheda)">
+<a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" style="background:#fff;color:#1f2d42;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Bilquis — L2-HGA &amp; HC – Bilquis — Test L2-HGA e HC (PDF) (si apre in una nuova scheda)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Bilquis — L2-HGA &amp; HC
 </a>
-<a href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Bilquis — Ecocardio Doppler (PDF) (si apre in una nuova scheda)">
+<a href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" style="background:#fff;color:#1f2d42;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Bilquis — Ecocardio Doppler (PDF) (si apre in una nuova scheda)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Bilquis — Ecocardio Doppler
 </a>

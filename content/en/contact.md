@@ -96,7 +96,7 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">Where families come from</span>
   <h2 class="section-title">Where breed enthusiasts come from</h2>
-  <p style="color:#4a3f35;margin-bottom:1.5rem">Families come from all over Italy, as far as Naples and Lecce, and more and more often from abroad. These are the nearest cities, with the driving time:</p>
+  <p style="color:#2b3747;margin-bottom:1.5rem">Families come from all over Italy, as far as Naples and Lecce, and more and more often from abroad. These are the nearest cities, with the driving time:</p>
 
   <div class="zones-section">
   <div class="zone-row">
@@ -146,7 +146,7 @@ custom_content: |
   </div>
   </div>
 
-  <p style="text-align:center;color:#4a3f35;margin-top:1.5rem;font-size:.9rem">Many families from Milan, Florence and Venice reach us comfortably in a day trip.</p>
+  <p style="text-align:center;color:#2b3747;margin-top:1.5rem;font-size:.9rem">Many families from Milan, Florence and Venice reach us comfortably in a day trip.</p>
   </div>
   </section>
   <!--/BLOCCO:4-->

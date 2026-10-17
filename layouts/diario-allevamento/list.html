@@ -31,11 +31,11 @@
     </div>
 
     {{ if eq (len .Pages) 0 }}
-    <p style="text-align: center; color: #6b5d52;">Nessun aggiornamento ancora. Torna presto.</p>
+    <p style="text-align: center; color: #4a5768;">Nessun aggiornamento ancora. Torna presto.</p>
     {{ end }}
 
     {{/* Scelta C di Paolo (13/10/2026): prima le schede delle cucciolate, poi il testo del diario */}}
-    {{ with partial "pagine/applica.html" (dict "p" . "c" (string .Content)) | safeHTML }}<div class="diario-intro" style="max-width:760px;margin:3rem auto 0;line-height:1.8;color:#4a3f35">{{ . }}</div>{{ end }}
+    {{ with partial "pagine/applica.html" (dict "p" . "c" (string .Content)) | safeHTML }}<div class="diario-intro" style="max-width:760px;margin:3rem auto 0;line-height:1.8;color:#2b3747">{{ . }}</div>{{ end }}
   </div>
 </section>
 

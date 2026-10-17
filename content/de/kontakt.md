@@ -96,7 +96,7 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">Woher die Familien kommen</span>
   <h2 class="section-title">Woher die Liebhaber der Rasse kommen</h2>
-  <p style="color:#4a3f35;margin-bottom:1.5rem">Zu uns kommen Familien aus ganz Italien, bis aus Neapel und Lecce, und immer häufiger aus dem Ausland. Das sind die nächsten Städte, mit der Fahrzeit im Auto:</p>
+  <p style="color:#2b3747;margin-bottom:1.5rem">Zu uns kommen Familien aus ganz Italien, bis aus Neapel und Lecce, und immer häufiger aus dem Ausland. Das sind die nächsten Städte, mit der Fahrzeit im Auto:</p>
 
   <div class="zones-section">
   <div class="zone-row">
@@ -146,7 +146,7 @@ custom_content: |
   </div>
   </div>
 
-  <p style="text-align:center;color:#4a3f35;margin-top:1.5rem;font-size:.9rem">Viele Familien aus Mailand, Florenz und Venedig kommen bequem als Tagesausflug.</p>
+  <p style="text-align:center;color:#2b3747;margin-top:1.5rem;font-size:.9rem">Viele Familien aus Mailand, Florenz und Venedig kommen bequem als Tagesausflug.</p>
   </div>
   </section>
   <!--/BLOCCO:4-->

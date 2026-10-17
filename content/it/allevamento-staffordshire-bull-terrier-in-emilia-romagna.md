@@ -115,7 +115,7 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">Da dove si viene</span>
   <h2 class="section-title">Da dove vengono gli appassionati della razza</h2>
-  <p style="color:#4a3f35;margin-bottom:1.5rem">Vengono famiglie da tutta Italia, anche da Napoli e da Lecce. Queste sono le citt&agrave; pi&ugrave; vicine, con il tempo di viaggio in auto:</p>
+  <p style="color:#2b3747;margin-bottom:1.5rem">Vengono famiglie da tutta Italia, anche da Napoli e da Lecce. Queste sono le citt&agrave; pi&ugrave; vicine, con il tempo di viaggio in auto:</p>
 
   <div class="zones-section">
   <div class="zone-row">
@@ -165,7 +165,7 @@ custom_content: |
   </div>
   </div>
 
-  <p style="text-align:center;color:#4a3f35;margin-top:1.5rem;font-size:.9rem">Molti appassionati da Milano, Firenze e Venezia ci raggiungono comodamente in giornata.</p>
+  <p style="text-align:center;color:#2b3747;margin-top:1.5rem;font-size:.9rem">Molti appassionati da Milano, Firenze e Venezia ci raggiungono comodamente in giornata.</p>
   </div>
   </section>
   <!--/BLOCCO:5-->

@@ -62,7 +62,7 @@ custom_content: |
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> Pablo iuno sospita plata plomo</p>
   <p><strong>Mutter:</strong> Skilful-dogs Nora</p>
-    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Sanft und fein zu allen, Hunden wie Menschen, auch zu solchen, die sie nie gesehen hat. Wer uns besucht, wird von ihr mit dem Bauch nach oben empfangen und wird sie bis zum Abschied nicht mehr los. Das ist nicht nur ihr eigener Zug: die Welpen ihres ersten Wurfes haben dasselbe Wesen geerbt, und die Familien sagen es in den <a href="/de/bewertungen/" title="Bewertungen">Bewertungen</a>.</p>
+    <p style="border-top:1px solid rgba(31,58,95,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Sanft und fein zu allen, Hunden wie Menschen, auch zu solchen, die sie nie gesehen hat. Wer uns besucht, wird von ihr mit dem Bauch nach oben empfangen und wird sie bis zum Abschied nicht mehr los. Das ist nicht nur ihr eigener Zug: die Welpen ihres ersten Wurfes haben dasselbe Wesen geerbt, und die Familien sagen es in den <a href="/de/bewertungen/" title="Bewertungen">Bewertungen</a>.</p>
   <a class="doc-link" href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" title="Gentests Bilquis herunterladen" aria-label="Gentests Bilquis herunterladen (wird in einem neuen Tab geöffnet)">📄 Gentests</a>
   <a class="doc-link" href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" title="Echokardiogramm Bilquis herunterladen" aria-label="Echo-Doppler – Echokardiogramm Bilquis herunterladen (wird in einem neuen Tab geöffnet)">📄 Echo-Doppler</a>
   <a class="doc-link" href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Ausstellungsergebnisse von Bilquis aus dem ENCI-Zuchtbuch herunterladen" aria-label="ENCI-Ausstellungen – Ausstellungsergebnisse von Bilquis aus dem ENCI-Zuchtbuch herunterladen (wird in einem neuen Tab geöffnet)">📄 ENCI-Ausstellungen</a>
@@ -93,7 +93,7 @@ custom_content: |
   <p><strong>Besitzer:</strong> Stefano Tevini</p>
   <p><strong>Handler:</strong> Vittoria Passerini</p>
   <p><strong>Titel:</strong> Italienische Jugendchampionin — Albarella (RO), 17. Mai 2026. Jugendklasse V1, JCAC, JBOB, BOB. Bester Staffy — Kynologische Gruppe Polesano.</p>
-    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Minnies Tochter und ihre Kopie: nicht nur im K&ouml;rperbau, vor allem im Kopf. Dieselbe &Uuml;berschw&auml;nglichkeit, dasselbe st&auml;ndige Verlangen nach Aufmerksamkeit, derselbe Bauch nach oben bei jeder Gelegenheit. Queen lebt nicht bei uns, aber wir sehen sie oft, und Manuela, die Frau des Besitzers, erz&auml;hlt uns jeden Tag, wie es ihr geht: Wenn es hei&szlig;t, das Wesen werde vererbt, ist sie der Beweis, den wir vor Augen haben.</p>
+    <p style="border-top:1px solid rgba(31,58,95,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Minnies Tochter und ihre Kopie: nicht nur im K&ouml;rperbau, vor allem im Kopf. Dieselbe &Uuml;berschw&auml;nglichkeit, dasselbe st&auml;ndige Verlangen nach Aufmerksamkeit, derselbe Bauch nach oben bei jeder Gelegenheit. Queen lebt nicht bei uns, aber wir sehen sie oft, und Manuela, die Frau des Besitzers, erz&auml;hlt uns jeden Tag, wie es ihr geht: Wenn es hei&szlig;t, das Wesen werde vererbt, ist sie der Beweis, den wir vor Augen haben.</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" title="Stammbaum Queen of California auf SBTPedigree" aria-label="Vollständigen Stammbaum sehen – Vollständigen Stammbaum des Wurfes auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum sehen →</a>
   <!--ESPOSIZIONI:queen-->
   </div>
@@ -118,7 +118,7 @@ custom_content: |
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> Lackyle Trodai Tine</p>
   <p><strong>Mutter:</strong> CH. Lackyle Ogbhean an Diabhal</p>
-    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> &Uuml;berschw&auml;nglich. Sie ruiniert einem die Beine, weil sie hochspringt, um Aufmerksamkeit zu bekommen, und leckt dann so lange, bis man selbst aufgibt. Auch sie liegt beim kleinsten Anlass mit dem Bauch nach oben.</p>
+    <p style="border-top:1px solid rgba(31,58,95,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> &Uuml;berschw&auml;nglich. Sie ruiniert einem die Beine, weil sie hochspringt, um Aufmerksamkeit zu bekommen, und leckt dann so lange, bis man selbst aufgibt. Auch sie liegt beim kleinsten Anlass mit dem Bauch nach oben.</p>
   <a class="doc-link" href="/docs/Minnie-GF.pdf" target="_blank" rel="noopener" title="Gentests Croi Olc herunterladen" aria-label="Gentests Croi Olc herunterladen (wird in einem neuen Tab geöffnet)">📄 Gentests</a>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="Stammbaum Croi Olc auf SBTPedigree" aria-label="Vollständigen Stammbaum sehen – Stammbaum Croi Olc auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum sehen →</a>
   <!--ESPOSIZIONI:croiolc-->
@@ -129,7 +129,7 @@ custom_content: |
   <!-- DIVINE - ZUR ABGABE -->
   <article class="female-card">
   <div class="female-header">
-  <span class="stato-fattrice" style="display:inline-block;background:#efe9e0;color:#5c4a3a;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;padding:.35rem .8rem;border-radius:4px;margin-bottom:.5rem">Kastriert — nicht mehr in der Zucht</span>
+  <span class="stato-fattrice" style="display:inline-block;background:#eef2f7;color:#1f2d42;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;padding:.35rem .8rem;border-radius:4px;margin-bottom:.5rem">Kastriert — nicht mehr in der Zucht</span>
   <h3 class="female-name">Faiter Divine at Diabhal Staff</h3>
   </div>
   <div class="female-content">
@@ -143,7 +143,7 @@ custom_content: |
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> CH. Dangerous Smile Black Shadow</p>
   <p><strong>Mutter:</strong> CH. Sonrisa Feliz Keely Lariel</p>
-    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Sie hat Feuer, wenn man es zul&auml;sst: nie m&uuml;de, eine echte Nervens&auml;ge. Dann kommt mein Sohn, und sie verwandelt sich: Sie klettert in den Sessel und spielt Ball, indem sie ihn mit der Nase st&ouml;&szlig;t, wie ein Seehund.</p>
+    <p style="border-top:1px solid rgba(31,58,95,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Sie hat Feuer, wenn man es zul&auml;sst: nie m&uuml;de, eine echte Nervens&auml;ge. Dann kommt mein Sohn, und sie verwandelt sich: Sie klettert in den Sessel und spielt Ball, indem sie ihn mit der Nase st&ouml;&szlig;t, wie ein Seehund.</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1775592" target="_blank" rel="noopener" title="Stammbaum Divine auf SBTPedigree" aria-label="Vollständigen Stammbaum sehen – Stammbaum Divine auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum sehen →</a>
   <!--ESPOSIZIONI:faiter-->
   </div>
@@ -153,7 +153,7 @@ custom_content: |
   <!-- KENNEDY -->
   <article class="female-card">
   <div class="female-header">
-  <span class="stato-fattrice" style="display:inline-block;background:#efe9e0;color:#5c4a3a;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;padding:.35rem .8rem;border-radius:4px;margin-bottom:.5rem">Kastriert — nicht mehr in der Zucht</span>
+  <span class="stato-fattrice" style="display:inline-block;background:#eef2f7;color:#1f2d42;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;padding:.35rem .8rem;border-radius:4px;margin-bottom:.5rem">Kastriert — nicht mehr in der Zucht</span>
   <h3 class="female-name">Jackie Kennedy Great'n Glory</h3>
   </div>
   <div class="female-content">
@@ -168,7 +168,7 @@ custom_content: |
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> CH. Hell's Angel</p>
   <p><strong>Mutter:</strong> CH. Mellowstaff by Great'n Glory</p>
-    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Als echte Deutsche gibt sie keinen Zentimeter nach: immer aufmerksam, mit ordentlich Pfeffer. Und doch so respektvoll, dass sie die Hündin meiner betagten Eltern geworden ist. Sie lebt bei ihnen und begleitet sie überall hin: bei den Spaziergängen, im Hof, beim Wäscheaufhängen, beim Müll hinausbringen. Und sie würde es auch ohne Leine tun, wenn wir es zuließen: von den Füßen meiner Mutter weicht sie keinen Meter.</p>
+    <p style="border-top:1px solid rgba(31,58,95,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Als echte Deutsche gibt sie keinen Zentimeter nach: immer aufmerksam, mit ordentlich Pfeffer. Und doch so respektvoll, dass sie die Hündin meiner betagten Eltern geworden ist. Sie lebt bei ihnen und begleitet sie überall hin: bei den Spaziergängen, im Hof, beim Wäscheaufhängen, beim Müll hinausbringen. Und sie würde es auch ohne Leine tun, wenn wir es zuließen: von den Füßen meiner Mutter weicht sie keinen Meter.</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1054244" target="_blank" rel="noopener" title="Stammbaum Kennedy auf SBTPedigree" aria-label="Vollständigen Stammbaum sehen – Stammbaum Kennedy auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum sehen →</a>
   <!--ESPOSIZIONI:jackie-->
   </div>
@@ -178,7 +178,7 @@ custom_content: |
   <!-- DERRY -->
   <article class="female-card">
   <div class="female-header">
-  <span class="stato-fattrice" style="display:inline-block;background:#efe9e0;color:#5c4a3a;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;padding:.35rem .8rem;border-radius:4px;margin-bottom:.5rem">Kastriert — nicht mehr in der Zucht</span>
+  <span class="stato-fattrice" style="display:inline-block;background:#eef2f7;color:#1f2d42;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;padding:.35rem .8rem;border-radius:4px;margin-bottom:.5rem">Kastriert — nicht mehr in der Zucht</span>
   <h3 class="female-name">Foyleoak Maiden Derry</h3>
   </div>
   <div class="female-content">
@@ -194,7 +194,7 @@ custom_content: |
   <p><strong>PHPV:</strong> Nicht betroffen</p>
   <p><strong>Vater:</strong> CH. Kiraloebis Italian Gigalo (Top UK Staffordshire Bull Terrier 2012)</p>
   <p><strong>Mutter:</strong> Lackyle Duilleog Daracha</p>
-    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Die alte Dame des Hauses, die Chefin. Sie kontrolliert alles und jeden und versucht, sich in jeder Lage Haltung zu geben &mdash; dann merkt sie, dass sie doch ein Staffy ist, und kann dem Schmusen nicht widerstehen. Eine Nervens&auml;ge, die immer im Mittelpunkt stehen will. Ihr Kissen liegt auf dem Teppich neben meinem Bett.</p>
+    <p style="border-top:1px solid rgba(31,58,95,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Die alte Dame des Hauses, die Chefin. Sie kontrolliert alles und jeden und versucht, sich in jeder Lage Haltung zu geben &mdash; dann merkt sie, dass sie doch ein Staffy ist, und kann dem Schmusen nicht widerstehen. Eine Nervens&auml;ge, die immer im Mittelpunkt stehen will. Ihr Kissen liegt auf dem Teppich neben meinem Bett.</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=789829" target="_blank" rel="noopener" title="Stammbaum Derry auf SBTPedigree" aria-label="Vollständigen Stammbaum sehen – Stammbaum Derry auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum sehen →</a>
   <!--ESPOSIZIONI:nutella-->
   </div>
@@ -246,7 +246,7 @@ custom_content: |
   <p><strong>Vater:</strong> Skilful-Dogs Jeghër</p>
   <p><strong>Mutter:</strong> Skilful-Dogs Red Skin</p>
   <p><strong>Letzter Wurf:</strong> <a href="/de/diario-allevamento/wurf-red-nora-februar-2026/" title="Wurf Red × Nora, Februar 2026">Red × Nora, 9. Februar 2026</a>: Eltern, Tests, Untersuchungen und Wachstum im Tagebuch</p>
-    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Wir nannten sie Yoghi, wie den B&auml;ren: ein Bulldozer ohne Bremsen, voller Energie, und im Grunde ein Teddyb&auml;r f&uuml;r den Sessel, das Sofa oder das Bett, wenn man es zulie&szlig;.</p>
+    <p style="border-top:1px solid rgba(31,58,95,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Wir nannten sie Yoghi, wie den B&auml;ren: ein Bulldozer ohne Bremsen, voller Energie, und im Grunde ein Teddyb&auml;r f&uuml;r den Sessel, das Sofa oder das Bett, wenn man es zulie&szlig;.</p>
   <a class="doc-link" href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" title="Gentests Nora herunterladen" aria-label="Gentests Nora herunterladen (wird in einem neuen Tab geöffnet)">📄 Gentests</a>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="Stammbaum Nora auf SBTPedigree" aria-label="Vollständigen Stammbaum sehen – Stammbaum Nora auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum sehen →</a>
   <!--ESPOSIZIONI:nora-->
@@ -267,7 +267,7 @@ custom_content: |
   <div class="intro-block">
   <p>Auf dieser Seite stehen acht Staffordshire Bull Terrier Hündinnen: zwei aktive Zuchthündinnen, Bilquis und Croi Olc, drei, die keine Würfe mehr haben, und drei, die anderswo leben. Queen und Cattleya sind hier geboren und als Welpen gegangen: Heute lebt Queen in Bologna und Cattleya in Rimini. Nora habe ich einem sehr guten Freund in Verona geschenkt, der sich in sie verliebt hatte. Auf jeder Karte steht der Name dessen, bei dem sie heute lebt.</p>
   <p>Wir wählen sie nach <strong>Gesundheit</strong>, <strong>Rassetypizität</strong> und <strong>ausgeglichenem Wesen</strong>. Jede Verpaarung wird <a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)">auf Basis von Gentests</a> und Linienkompatibilität geplant.</p>
-  <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Unsere Hündinnen sind getestet auf:</p>
+  <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#1f2d42">Unsere Hündinnen sind getestet auf:</p>
   <p>✓ <strong>L2-HGA</strong> — L-2-Hydroxyglutarazidurie<br>
   ✓ <strong>HC</strong> — Hereditäre Katarakt<br>
   ✓ <strong>DM-SOD1</strong> — Degenerative Myelopathie<br>

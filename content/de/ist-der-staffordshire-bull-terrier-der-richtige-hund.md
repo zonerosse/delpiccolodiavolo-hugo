@@ -68,8 +68,8 @@ custom_content: |
 
   <div style="background:#fff8e1;border-left:5px solid #f4b400;border-radius:8px;padding:1rem 1.3rem;margin:1.5rem 0">
   <p style="margin:0 0 .4rem;font-weight:700;color:#7a5c00;display:flex;align-items:center;gap:.5rem">⚠️ Immer beaufsichtigen</p>
-  <p style="margin:0 0 .5rem;color:#5c4a3a;line-height:1.6">So zuverlässig und sanft er auch ist: <strong>Kein Hund sollte jemals ohne Aufsicht eines Erwachsenen mit kleinen Kindern allein gelassen werden</strong>. Das gilt für den Staffordshire Bull Terrier wie für jede Rasse: Es ist eine grundlegende Sicherheitsregel, im Interesse sowohl des Kindes als auch des Hundes.</p>
-  <p style="margin:0;color:#5c4a3a;line-height:1.6">Ab dem Zeitpunkt der Übergabe liegen die Führung und Beaufsichtigung des Hundes in der Verantwortung des Besitzers: <strong>Die Zucht übernimmt keine Haftung</strong> für Verhalten oder Unfälle, die aus einer Führung entstehen, die diesen Hinweisen nicht entspricht.</p>
+  <p style="margin:0 0 .5rem;color:#1f2d42;line-height:1.6">So zuverlässig und sanft er auch ist: <strong>Kein Hund sollte jemals ohne Aufsicht eines Erwachsenen mit kleinen Kindern allein gelassen werden</strong>. Das gilt für den Staffordshire Bull Terrier wie für jede Rasse: Es ist eine grundlegende Sicherheitsregel, im Interesse sowohl des Kindes als auch des Hundes.</p>
+  <p style="margin:0;color:#1f2d42;line-height:1.6">Ab dem Zeitpunkt der Übergabe liegen die Führung und Beaufsichtigung des Hundes in der Verantwortung des Besitzers: <strong>Die Zucht übernimmt keine Haftung</strong> für Verhalten oder Unfälle, die aus einer Führung entstehen, die diesen Hinweisen nicht entspricht.</p>
   </div>
 
   <h3>3. Ideale Größe für das moderne Leben</h3>

@@ -59,12 +59,12 @@ In der Zucht **Del Piccolo Diavolo** ist ein besonders erwarteter Wurf angekomme
 Am 31. August sind die Welpen einen Monat alt geworden. Die Augen sind seit Wochen offen, die Beine tragen, und es beginnt die Zeit, in der ein Welpe lernt, was normal ist und was Angst macht: Stimmen, Hände, die ihn hochheben, die Geräusche des Hauses.
 
 <div style="max-width:340px;margin:1.75rem auto;border-radius:14px;overflow:hidden;box-shadow:0 8px 25px rgba(0,0,0,.12)">
-<div style="position:relative;padding-bottom:152.2%;height:0;background:#e6ddd4">
+<div style="position:relative;padding-bottom:152.2%;height:0;background:#dde5ef">
 <iframe src="https://www.youtube-nocookie.com/embed/rm1fY0_P6I8" title="Staffordshire Bull Terrier Welpe mit 30 Tagen – Wurf Bilquis × Black Jack" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe>
 </div>
 </div>
 
-<p style="font-size:.85rem;color:#7a6a58;text-align:center">Eine Welpin aus diesem Wurf mit dreißig Tagen, im Haus.</p>
+<p style="font-size:.85rem;color:#4a5768;text-align:center">Eine Welpin aus diesem Wurf mit dreißig Tagen, im Haus.</p>
 
 Die Welpen wachsen bei uns im Haus auf. Das italienische Recht verbietet die Abgabe vor sechzig Tagen: hier bleiben sie bis zu siebzig Tage bei der Mutter.
 
@@ -73,12 +73,12 @@ Die Welpen wachsen bei uns im Haus auf. Das italienische Recht verbietet die Abg
 Mit fünfundfünfzig Tagen sind die Ohren mitten in der Ausformung: Sie stellen sich auf, fallen wieder und ändern fast täglich ihre Stellung, und das endgültige Rosenohr eines erwachsenen Staffordshire Bull Terrier zeigt sich erst Monate später. Es ist auch die Zeit, in der die Welpen in den sonnigen Stunden in den Außenbereich gehen und abwechselnd, zu zweit, ins Haus zurückkommen.
 
 <div style="max-width:340px;margin:1.75rem auto;border-radius:14px;overflow:hidden;box-shadow:0 8px 25px rgba(0,0,0,.12)">
-<div style="position:relative;padding-bottom:152.2%;height:0;background:#e6ddd4">
+<div style="position:relative;padding-bottom:152.2%;height:0;background:#dde5ef">
 <iframe src="https://www.youtube-nocookie.com/embed/cVyPQbi2I1A" title="Staffordshire Bull Terrier Welpe mit 55 Tagen – Wurf Bilquis × Black Jack" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe>
 </div>
 </div>
 
-<p style="font-size:.85rem;color:#7a6a58;text-align:center">Eine Hündin aus diesem Wurf mit fünfundfünfzig Tagen, die Ohren noch in Bewegung.</p>
+<p style="font-size:.85rem;color:#4a5768;text-align:center">Eine Hündin aus diesem Wurf mit fünfundfünfzig Tagen, die Ohren noch in Bewegung.</p>
 
 
 <!--BLOCCO:2-->
@@ -169,8 +169,8 @@ Die Eltern sind auf die wichtigsten genetischen Erkrankungen der Rasse getestet:
 
 <div style="display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(min(280px,100%),1fr));margin:1.5rem 0">
 
-  <div style="background:#fff;border:1px solid #e2ddd6;border-radius:10px;padding:1.25rem">
-    <span style="display:inline-block;background:#5c4a3a;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Vater</span><span style="display:inline-block;background:#8b7300;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px;margin-left:.35rem">★ Weltsieger 2023</span>
+  <div style="background:#fff;border:1px solid #dfe5ec;border-radius:10px;padding:1.25rem">
+    <span style="display:inline-block;background:#1f2d42;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Vater</span><span style="display:inline-block;background:#8b7300;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px;margin-left:.35rem">★ Weltsieger 2023</span>
     <p style="margin:.6rem 0 .3rem;font-weight:700">Quash Marvelous Hagler de Stafflorence</p>
     <p style="margin:0 0 .9rem;font-size:.82rem;color:#666;line-height:1.5">Rüde, geboren am 26.02.2021 — Mikrochip 380260160176743<br>Antagene (La Tour de Salvagny, Frankreich) — Befund A00046270, validiert am 08.09.2023</p>
     <ul style="margin:0;padding-left:1.1rem;font-size:.92rem">
@@ -179,49 +179,49 @@ Die Eltern sind auf die wichtigsten genetischen Erkrankungen der Rasse getestet:
       <li>Hyperurikosurie (SLC2A9): <strong>frei (N/N)</strong></li>
       <li>MDR1: <strong>frei (N/N)</strong></li>
     </ul>
-    <p style="margin:.9rem 0 0"><a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b" aria-label="Antagene-Befund (PDF) (wird in einem neuen Tab geöffnet)">Antagene-Befund (PDF) →</a></p>
+    <p style="margin:.9rem 0 0"><a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#1f4f82" aria-label="Antagene-Befund (PDF) (wird in einem neuen Tab geöffnet)">Antagene-Befund (PDF) →</a></p>
   </div>
 
-  <div style="background:#fff;border:1px solid #e2ddd6;border-radius:10px;padding:1.25rem">
-    <span style="display:inline-block;background:#5c4a3a;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Mutter</span><span style="display:inline-block;background:#8b7300;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px;margin-left:.35rem">★ Italienische Jugendchampionin</span>
+  <div style="background:#fff;border:1px solid #dfe5ec;border-radius:10px;padding:1.25rem">
+    <span style="display:inline-block;background:#1f2d42;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px">Mutter</span><span style="display:inline-block;background:#8b7300;color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:.2rem .55rem;border-radius:3px;margin-left:.35rem">★ Italienische Jugendchampionin</span>
     <p style="margin:.6rem 0 .3rem;font-weight:700">Ultima di Casa Giacalone</p>
     <p style="margin:0 0 .9rem;font-size:.82rem;color:#666;line-height:1.5">Hündin — Mikrochip 380260044680718, Ahnentafel LO2313633<br>EVG Molekularna Diagnostika (Maribor, Slowenien) — Referenz 2026-083880/01, 27.08.2026</p>
     <ul style="margin:0;padding-left:1.1rem;font-size:.92rem">
       <li>L2-HGA (L2HGDH): <strong>frei (WT/WT)</strong></li>
       <li>HC (HSF4): <strong>frei (WT/WT)</strong></li>
     </ul>
-    <p style="margin:.9rem 0 0"><a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b" aria-label="L2-HGA-Befund (PDF) (wird in einem neuen Tab geöffnet)">L2-HGA-Befund (PDF) →</a></p>
-    <p style="margin:.35rem 0 0"><a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b" aria-label="HC-Befund (PDF) (wird in einem neuen Tab geöffnet)">HC-Befund (PDF) →</a></p>
+    <p style="margin:.9rem 0 0"><a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#1f4f82" aria-label="L2-HGA-Befund (PDF) (wird in einem neuen Tab geöffnet)">L2-HGA-Befund (PDF) →</a></p>
+    <p style="margin:.35rem 0 0"><a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#1f4f82" aria-label="HC-Befund (PDF) (wird in einem neuen Tab geöffnet)">HC-Befund (PDF) →</a></p>
   </div>
 
 </div>
 
-<p style="font-size:.9rem;color:#555;border-left:3px solid #5c4a3a;padding-left:1rem;margin:1.5rem 0">Beide Elterntiere sind für L2-HGA und erbliche Katarakt homozygot normal: keines von beiden trägt das defekte Allel, Black Jack kann es also nicht geerbt haben. Hyperurikosurie und MDR1 sind nur beim Vater getestet; für diese beiden kann der Nachkomme nicht als frei über die Eltern gelten.</p>
+<p style="font-size:.9rem;color:#555;border-left:3px solid #1f2d42;padding-left:1rem;margin:1.5rem 0">Beide Elterntiere sind für L2-HGA und erbliche Katarakt homozygot normal: keines von beiden trägt das defekte Allel, Black Jack kann es also nicht geerbt haben. Hyperurikosurie und MDR1 sind nur beim Vater getestet; für diese beiden kann der Nachkomme nicht als frei über die Eltern gelten.</p>
 
-<div style="background:linear-gradient(135deg,#5c4a3a 0%,#8b7355 100%);padding:2rem;border-radius:12px;margin:2rem 0;color:#fff">
+<div style="background:linear-gradient(135deg,#1f2d42 0%,#4a6382 100%);padding:2rem;border-radius:12px;margin:2rem 0;color:#fff">
 <h3 style="margin:0 0 1rem;font-size:1.1rem;font-family:inherit;font-weight:600;color:#fff;display:flex;align-items:center;gap:.5rem">
 <svg aria-hidden="true" focusable="false" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
 Überprüfbare Gentests
 </h3>
 <p style="margin:0 0 1.5rem;font-size:1rem;color:#fff !important;font-weight:600">Volle Transparenz: Ergebnisse überprüfbar in der SBTPedigree-Datenbank, Laborzertifikate unten zum Download — die Eltern von Black Jack eingeschlossen.</p>
 <div style="display:grid;gap:.75rem;grid-template-columns:repeat(auto-fit,minmax(min(240px,100%),1fr))">
-<a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Quash — Gentests – Quash, Vater von Black Jack — Gentests (PDF) (wird in einem neuen Tab geöffnet)">
+<a href="/docs/quash-antagene.pdf" target="_blank" rel="noopener" style="background:#fff;color:#1f2d42;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Quash — Gentests – Quash, Vater von Black Jack — Gentests (PDF) (wird in einem neuen Tab geöffnet)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Quash — Gentests
 </a>
-<a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima — L2-HGA – Ultima, Mutter von Black Jack — L2-HGA-Test (PDF) (wird in einem neuen Tab geöffnet)">
+<a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="background:#fff;color:#1f2d42;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima — L2-HGA – Ultima, Mutter von Black Jack — L2-HGA-Test (PDF) (wird in einem neuen Tab geöffnet)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Ultima — L2-HGA
 </a>
-<a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima — HC – Ultima, Mutter von Black Jack — HC-Test (PDF) (wird in einem neuen Tab geöffnet)">
+<a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="background:#fff;color:#1f2d42;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima — HC – Ultima, Mutter von Black Jack — HC-Test (PDF) (wird in einem neuen Tab geöffnet)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Ultima — HC
 </a>
-<a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Bilquis — L2-HGA &amp; HC – Bilquis — L2-HGA- und HC-Test (PDF) (wird in einem neuen Tab geöffnet)">
+<a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" style="background:#fff;color:#1f2d42;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Bilquis — L2-HGA &amp; HC – Bilquis — L2-HGA- und HC-Test (PDF) (wird in einem neuen Tab geöffnet)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Bilquis — L2-HGA &amp; HC
 </a>
-<a href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Bilquis — Doppler-Echokardiographie (PDF) (wird in einem neuen Tab geöffnet)">
+<a href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" style="background:#fff;color:#1f2d42;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Bilquis — Doppler-Echokardiographie (PDF) (wird in einem neuen Tab geöffnet)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Bilquis — Doppler-Echokardiographie
 </a>

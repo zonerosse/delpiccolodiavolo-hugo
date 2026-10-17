@@ -59,7 +59,7 @@ custom_content: |
 
   </div>
 
-  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">Giovane Campionessa Italiana. Miglior Staffy — Gruppo Cinofilo Polesano. Handler: Vittoria Passerini. Proprietario: Stefano Tevini.</p>
+  <p style="margin-top:1.5rem;font-style:italic;color:#4a5768">Giovane Campionessa Italiana. Miglior Staffy — Gruppo Cinofilo Polesano. Handler: Vittoria Passerini. Proprietario: Stefano Tevini.</p>
 
   </div>
   </section>
@@ -95,98 +95,98 @@ custom_content: |
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
   <span>Raduno Nazionale Bologna (BO) - 15 feb 2025</span>
-  <span style="color:#8b5a2b;font-weight:600">Classe Campioni</span>
+  <span style="color:#1f4f82;font-weight:600">Classe Campioni</span>
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
   <span>Expo Nazionale Firenze (FI) - 13 apr 2024</span>
-  <span style="color:#8b5a2b;font-weight:600">CAC</span>
+  <span style="color:#1f4f82;font-weight:600">CAC</span>
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
   <span>Expo Internazionale Ferrara (FE) - 17 mar 2024</span>
-  <span style="color:#8b5a2b;font-weight:600">CAC + CACIB</span>
+  <span style="color:#1f4f82;font-weight:600">CAC + CACIB</span>
   </div>
   </div>
     <div class="risultati-grid" style="display:grid;gap:0.75rem">
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
   <span>Expo Internazionale Ferrara (FE) - 16 mar 2024</span>
-  <span style="color:#8b5a2b;font-weight:600">CAC</span>
+  <span style="color:#1f4f82;font-weight:600">CAC</span>
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
   <span>Expo Internazionale Cagliari (CA) - 25 feb 2024</span>
-  <span style="color:#8b5a2b;font-weight:600">CAC + CACIB</span>
+  <span style="color:#1f4f82;font-weight:600">CAC + CACIB</span>
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
   <span>Expo Internazionale Bologna (BO) - 15-18 feb 2024</span>
-  <span style="color:#8b5a2b;font-weight:600">4x CAC + 4x CACIB + BOS il 17 feb (<a href="/docs/bilquis-bos-bologna-17-02-2024.pdf" target="_blank" rel="noopener" title="Risultati ENCI del 17 febbraio 2024, BOS di Bilquis" aria-label="Risultati ENCI del 17 febbraio 2024, BOS di Bilquis (si apre in una nuova scheda)">risultati ENCI</a>)</span>
+  <span style="color:#1f4f82;font-weight:600">4x CAC + 4x CACIB + BOS il 17 feb (<a href="/docs/bilquis-bos-bologna-17-02-2024.pdf" target="_blank" rel="noopener" title="Risultati ENCI del 17 febbraio 2024, BOS di Bilquis" aria-label="Risultati ENCI del 17 febbraio 2024, BOS di Bilquis (si apre in una nuova scheda)">risultati ENCI</a>)</span>
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
   <span>Expo Internazionale Busto Arsizio (VA) - 14 gen 2024</span>
-  <span style="color:#8b5a2b;font-weight:600">CAC + CACIB</span>
+  <span style="color:#1f4f82;font-weight:600">CAC + CACIB</span>
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
   <span>Raduno Nazionale Bologna (BO) - 16-17 dic 2023</span>
-  <span style="color:#8b5a2b;font-weight:600">JCAC</span>
+  <span style="color:#1f4f82;font-weight:600">JCAC</span>
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
   <span>Expo Internazionale Busto Arsizio (VA) - 3-4 nov 2023</span>
-  <span style="color:#8b5a2b;font-weight:600">2x JCAC + 2x JCACIB</span>
+  <span style="color:#1f4f82;font-weight:600">2x JCAC + 2x JCACIB</span>
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
   <span>Expo Internazionale Montesilvano (PE) - 22 ott 2023</span>
-  <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
+  <span style="color:#1f4f82;font-weight:600">JCAC + JCACIB</span>
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#d8cfc2;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 2a</span>
+  <span style="background:#d3dbe5;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 2a</span>
   <span>Expo Internazionale Montesilvano (PE) - 21 ott 2023</span>
-  <span style="color:#8b5a2b;font-weight:600">R.JCAC</span>
+  <span style="color:#1f4f82;font-weight:600">R.JCAC</span>
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
   <span>Expo Internazionale Bastia Umbra (PG) - 8 ott 2023</span>
-  <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
+  <span style="color:#1f4f82;font-weight:600">JCAC + JCACIB</span>
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
   <span>Expo Internazionale L'Aquila (AQ) - 6 ago 2023</span>
-  <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
+  <span style="color:#1f4f82;font-weight:600">JCAC + JCACIB</span>
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1a</span>
   <span>Expo Internazionale Narni (TR) - 24-25 giu 2023</span>
-  <span style="color:#8b5a2b;font-weight:600">2x JCAC + 2x JCACIB</span>
+  <span style="color:#1f4f82;font-weight:600">2x JCAC + 2x JCACIB</span>
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">M.P. 1a</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">M.P. 1a</span>
   <span>Raduno Nazionale Bologna (BO) - 18 feb 2023</span>
-  <span style="color:#8b5a2b;font-weight:600">Classe Baby</span>
+  <span style="color:#1f4f82;font-weight:600">Classe Baby</span>
   </div>
   </div>
 
-  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">20 esposizioni in Italia nel Libro genealogico ENCI, 19 chiuse al primo posto: <a href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Esposizioni di Bilquis nel Libro genealogico ENCI" aria-label="la scheda ENCI dei risultati – Esposizioni di Bilquis nel Libro genealogico ENCI (si apre in una nuova scheda)">la scheda ENCI dei risultati</a> (LOI LO22197469). Le esposizioni all'estero, World Dog Show compreso, su ENCI non sono registrate. Top Dog Junior 2023. Giovane Campionessa Italiana. Campionessa Italiana di Bellezza. Giovane Campionessa di Croazia. Campionessa di Bosnia ed Erzegovina. Qualifica Crufts 2025.</p>
+  <p style="margin-top:1.5rem;font-style:italic;color:#4a5768">20 esposizioni in Italia nel Libro genealogico ENCI, 19 chiuse al primo posto: <a href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Esposizioni di Bilquis nel Libro genealogico ENCI" aria-label="la scheda ENCI dei risultati – Esposizioni di Bilquis nel Libro genealogico ENCI (si apre in una nuova scheda)">la scheda ENCI dei risultati</a> (LOI LO22197469). Le esposizioni all'estero, World Dog Show compreso, su ENCI non sono registrate. Top Dog Junior 2023. Giovane Campionessa Italiana. Campionessa Italiana di Bellezza. Giovane Campionessa di Croazia. Campionessa di Bosnia ed Erzegovina. Qualifica Crufts 2025.</p>
 
   </div>
   </section>
@@ -203,23 +203,23 @@ custom_content: |
   </div>
 
   <div class="palmares-summary" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1rem;margin:2rem 0;text-align:center">
-  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
+  <div style="background:#1f2d42;color:#fff;padding:1.5rem;border-radius:12px">
   <p style="font-size:2rem;font-weight:700;margin:0">1</p>
   <p style="font-size:0.85rem;margin:0">Campione Italiano</p>
   </div>
-  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
+  <div style="background:#1f2d42;color:#fff;padding:1.5rem;border-radius:12px">
   <p style="font-size:2rem;font-weight:700;margin:0">3</p>
   <p style="font-size:0.85rem;margin:0">Giovani Campioni</p>
   </div>
-  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
+  <div style="background:#1f2d42;color:#fff;padding:1.5rem;border-radius:12px">
   <p style="font-size:2rem;font-weight:700;margin:0">1</p>
   <p style="font-size:0.85rem;margin:0">Campionessa San Marino</p>
   </div>
-  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
+  <div style="background:#1f2d42;color:#fff;padding:1.5rem;border-radius:12px">
   <p style="font-size:2rem;font-weight:700;margin:0">4°</p>
   <p style="font-size:0.85rem;margin:0">World Dog Show</p>
   </div>
-  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
+  <div style="background:#1f2d42;color:#fff;padding:1.5rem;border-radius:12px">
   <p style="font-size:2rem;font-weight:700;margin:0">19 su 20</p>
   <p style="font-size:0.85rem;margin:0">primi posti di Bilquis (ENCI)</p>
   </div>
@@ -266,7 +266,7 @@ custom_content: |
   </div>
   <div class="image-center" style="margin-top:1rem">
   <img src="/images/lothar-matthaus-tyson-locandina.avif" alt="CH SLO J.CH ITA Lothar Matthäus del Piccolo Diavolo detto Tyson, Staffordshire Bull Terrier tigrato allevato da Del Piccolo Diavolo" loading="lazy" decoding="async" width="900" height="1228" style="border-radius:12px;max-width:340px;width:100%" srcset="/images/lothar-matthaus-tyson-locandina-400w.avif 400w, /images/lothar-matthaus-tyson-locandina-800w.avif 800w, /images/lothar-matthaus-tyson-locandina.avif 900w" sizes="(max-width: 900px) 100vw, 900px">
-  <p style="margin:.5rem 0 0;font-size:.85rem;color:#7a6a58;text-align:center">Locandina di Lothar «Tyson» — CH SLO, J.CH ITA</p>
+  <p style="margin:.5rem 0 0;font-size:.85rem;color:#4a5768;text-align:center">Locandina di Lothar «Tyson» — CH SLO, J.CH ITA</p>
   </div>
   <div>
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
@@ -299,69 +299,69 @@ custom_content: |
   <span style="font-weight:600">CAC + R.CACIB</span>
   </div>
 
-  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1°</span>
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#f6f8fb;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1°</span>
   <span>Raduno Nazionale Bologna (BO) - 29 nov 2025</span>
-  <span style="color:#8b5a2b;font-weight:600">Classe Intermedia</span>
+  <span style="color:#1f4f82;font-weight:600">Classe Intermedia</span>
   </div>
   </div>
     <div class="risultati-grid" style="display:grid;gap:0.75rem">
-  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1°</span>
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#f6f8fb;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1°</span>
   <span>Expo Nazionale Monza (MB) - 20-21 set 2025</span>
-  <span style="color:#8b5a2b;font-weight:600">CAC</span>
+  <span style="color:#1f4f82;font-weight:600">CAC</span>
   </div>
 
-  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1°</span>
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#f6f8fb;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1°</span>
   <span>Expo Internazionale Mondovi (CN) - 31 ago 2025</span>
-  <span style="color:#8b5a2b;font-weight:600">CAC + R.CACIB</span>
+  <span style="color:#1f4f82;font-weight:600">CAC + R.CACIB</span>
   </div>
 
-  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1°</span>
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#f6f8fb;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1°</span>
   <span>Raduno Nazionale Carrara (MS) - 7 giu 2025</span>
-  <span style="color:#8b5a2b;font-weight:600">JCAC</span>
+  <span style="color:#1f4f82;font-weight:600">JCAC</span>
   </div>
 
-  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1°</span>
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#f6f8fb;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1°</span>
   <span>Expo Nazionale Livorno (LI) - 17 mag 2025</span>
-  <span style="color:#8b5a2b;font-weight:600">JCAC</span>
+  <span style="color:#1f4f82;font-weight:600">JCAC</span>
   </div>
 
-  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1°</span>
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#f6f8fb;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1°</span>
   <span>Expo Nazionale Seveso (MB) - 11 mag 2025</span>
-  <span style="color:#8b5a2b;font-weight:600">JCAC</span>
+  <span style="color:#1f4f82;font-weight:600">JCAC</span>
   </div>
 
-  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1°</span>
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#f6f8fb;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1°</span>
   <span>Expo Nazionale Livraga (LO) - 3-4 mag 2025</span>
-  <span style="color:#8b5a2b;font-weight:600">JCAC</span>
+  <span style="color:#1f4f82;font-weight:600">JCAC</span>
   </div>
 
-  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1°</span>
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#f6f8fb;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1°</span>
   <span>Expo Nazionale Borgo d'Ale (VC) - 13 apr 2025</span>
-  <span style="color:#8b5a2b;font-weight:600">JCAC</span>
+  <span style="color:#1f4f82;font-weight:600">JCAC</span>
   </div>
 
-  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1°</span>
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#f6f8fb;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1°</span>
   <span>Expo Internazionale Montichiari (BS) - 6 apr 2025</span>
-  <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
+  <span style="color:#1f4f82;font-weight:600">JCAC + JCACIB</span>
   </div>
 
-  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1°</span>
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#f6f8fb;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">ECC 1°</span>
   <span>Expo Internazionale Riva del Garda (TN) - 8 mar 2025</span>
-  <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
+  <span style="color:#1f4f82;font-weight:600">JCAC + JCACIB</span>
   </div>
   </div>
 
-  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">21 esposizioni totali. Giovane Campione Italiano + Campione Sloveno 🇸🇮. Handler: Sergio Patrucco.</p>
+  <p style="margin-top:1.5rem;font-style:italic;color:#4a5768">21 esposizioni totali. Giovane Campione Italiano + Campione Sloveno 🇸🇮. Handler: Sergio Patrucco.</p>
 
   </div>
   </section>

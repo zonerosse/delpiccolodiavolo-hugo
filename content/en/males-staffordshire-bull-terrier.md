@@ -58,7 +58,7 @@ custom_content: |
   <div class="male-header">
   <span class="male-badge">🏆 Slovenian Champion · Italian Junior Champion</span>
   <h3 class="male-name">CH. SLO · J.CH. ITA Lothar Matthäus del Piccolo Diavolo</h3>
-  <p style="margin:.3rem 0 0;color:#7a6a58;font-size:.95rem">Known as <strong>Tyson</strong></p>
+  <p style="margin:.3rem 0 0;color:#4a5768;font-size:.95rem">Known as <strong>Tyson</strong></p>
   </div>
   <div class="male-content">
   <div class="male-image">
@@ -68,7 +68,7 @@ custom_content: |
   <p><strong>Genetic tests:</strong> L2-HGA clear · HC (HSF4) clear · DM-SOD1 clear · OCD clear</p>
   <p><strong>Hips and elbows:</strong> HD B · ED 0</p>
   <p><strong>Dentition:</strong> complete, scissor bite</p>
-  <p><strong>Sire:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares show results, TheReds Stafford" style="color:#8b5a2b;font-weight:700;text-decoration:underline;text-underline-offset:3px" aria-label="Bullbrothers Hott as Hell (HEAT) - palmares show results, TheReds Stafford (opens in a new tab)">Bullbrothers Hott as Hell &#8599;</a> «HEAT», Multi International Champion, Crufts qualified, TheReds Stafford kennel</p>
+  <p><strong>Sire:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares show results, TheReds Stafford" style="color:#1f4f82;font-weight:700;text-decoration:underline;text-underline-offset:3px" aria-label="Bullbrothers Hott as Hell (HEAT) - palmares show results, TheReds Stafford (opens in a new tab)">Bullbrothers Hott as Hell &#8599;</a> «HEAT», Multi International Champion, Crufts qualified, TheReds Stafford kennel</p>
   <p><strong>Dam:</strong> Skilful-dogs Nora</p>
   <p><strong>Owner:</strong> Sergio Patrucco</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4554911" target="_blank" rel="noopener" title="View Lothar pedigree on SBTPedigree" aria-label="View full pedigree – View Lothar pedigree on SBTPedigree (opens in a new tab)">View full pedigree →</a>

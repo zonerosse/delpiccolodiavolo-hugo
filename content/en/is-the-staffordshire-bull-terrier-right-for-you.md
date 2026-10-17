@@ -68,8 +68,8 @@ custom_content: |
 
   <div style="background:#fff8e1;border-left:5px solid #f4b400;border-radius:8px;padding:1rem 1.3rem;margin:1.5rem 0">
   <p style="margin:0 0 .4rem;font-weight:700;color:#7a5c00;display:flex;align-items:center;gap:.5rem">⚠️ Always supervise</p>
-  <p style="margin:0 0 .5rem;color:#5c4a3a;line-height:1.6">However reliable and gentle, <strong>no dog should ever be left alone with young children without an adult's supervision</strong>. This applies to the Staffordshire Bull Terrier as to any breed: it is a fundamental safety rule, in the interest of both the child and the dog.</p>
-  <p style="margin:0;color:#5c4a3a;line-height:1.6">From the moment of placement, the management and supervision of the dog are the owner's responsibility: <strong>the kennel accepts no liability</strong> for behaviour or accidents resulting from management that does not follow these guidelines.</p>
+  <p style="margin:0 0 .5rem;color:#1f2d42;line-height:1.6">However reliable and gentle, <strong>no dog should ever be left alone with young children without an adult's supervision</strong>. This applies to the Staffordshire Bull Terrier as to any breed: it is a fundamental safety rule, in the interest of both the child and the dog.</p>
+  <p style="margin:0;color:#1f2d42;line-height:1.6">From the moment of placement, the management and supervision of the dog are the owner's responsibility: <strong>the kennel accepts no liability</strong> for behaviour or accidents resulting from management that does not follow these guidelines.</p>
   </div>
 
   <h3>3. An ideal size for modern life</h3>

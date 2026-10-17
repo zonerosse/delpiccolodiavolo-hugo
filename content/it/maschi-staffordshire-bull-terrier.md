@@ -58,7 +58,7 @@ custom_content: |
   <div class="male-header">
   <span class="male-badge">🏆 Campione Sloveno · Giovane Campione Italiano</span>
   <h3 class="male-name">CH. SLO · J.CH. ITA Lothar Matthäus del Piccolo Diavolo</h3>
-  <p style="margin:.3rem 0 0;color:#7a6a58;font-size:.95rem">Chiamato <strong>Tyson</strong></p>
+  <p style="margin:.3rem 0 0;color:#4a5768;font-size:.95rem">Chiamato <strong>Tyson</strong></p>
   </div>
   <div class="male-content">
   <div class="male-image">
@@ -68,7 +68,7 @@ custom_content: |
   <p><strong>Test genetici:</strong> L2-HGA esente · HC (HSF4) esente · DM-SOD1 esente · OCD esente</p>
   <p><strong>Displasia:</strong> anche HD B · gomiti ED 0</p>
   <p><strong>Dentatura:</strong> completa, chiusura a forbice</p>
-  <p><strong>Padre:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford" style="color:#8b5a2b;font-weight:700;text-decoration:underline;text-underline-offset:3px" aria-label="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford (si apre in una nuova scheda)">Bullbrothers Hott as Hell &#8599;</a> «HEAT», Multi Campione Internazionale, qualificato Crufts, allevamento TheReds Stafford</p>
+  <p><strong>Padre:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford" style="color:#1f4f82;font-weight:700;text-decoration:underline;text-underline-offset:3px" aria-label="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford (si apre in una nuova scheda)">Bullbrothers Hott as Hell &#8599;</a> «HEAT», Multi Campione Internazionale, qualificato Crufts, allevamento TheReds Stafford</p>
   <p><strong>Madre:</strong> Skilful-dogs Nora</p>
   <p><strong>Proprietario:</strong> Sergio Patrucco</p>
   <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4554911" target="_blank" rel="noopener" title="Vedi pedigree Lothar su SBTPedigree" aria-label="Vedi pedigree completo – Vedi pedigree Lothar su SBTPedigree (si apre in una nuova scheda)">Vedi pedigree completo →</a>

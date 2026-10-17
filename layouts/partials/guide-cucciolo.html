@@ -60,18 +60,18 @@
 <section class="section guide-cucciolo">
 <div class="section-inner">
 <h2 class="section-title" style="font-size:1.5rem;margin-bottom:.5rem">{{ $titolo }}</h2>
-<p style="color:#4a3f35;font-size:.95rem;line-height:1.6;margin:0 0 1.2rem">{{ $intro }}</p>
+<p style="color:#2b3747;font-size:.95rem;line-height:1.6;margin:0 0 1.2rem">{{ $intro }}</p>
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(220px,100%),1fr));gap:.9rem">
   {{- range $pagine }}
-  <a href="{{ .RelPermalink }}" style="display:block;background:#fff;border:1px solid #ece3d4;border-radius:12px;padding:.9rem 1.05rem;text-decoration:none;color:inherit;box-shadow:0 4px 14px rgba(0,0,0,.05)">
-    <span style="display:block;color:#5c4a3a;font-weight:700;font-size:1rem;line-height:1.3">{{ .Title }}</span>
-    <span style="display:inline-block;margin-top:.45rem;color:#8b5a2b;font-weight:700;font-size:.88rem">{{ if eq $lang "en" }}Read &rarr;{{ else if eq $lang "de" }}Lesen &rarr;{{ else }}Leggi &rarr;{{ end }}</span>
+  <a href="{{ .RelPermalink }}" style="display:block;background:#fff;border:1px solid #e2e8f0;border-radius:12px;padding:.9rem 1.05rem;text-decoration:none;color:inherit;box-shadow:0 4px 14px rgba(0,0,0,.05)">
+    <span style="display:block;color:#1f2d42;font-weight:700;font-size:1rem;line-height:1.3">{{ .Title }}</span>
+    <span style="display:inline-block;margin-top:.45rem;color:#1f4f82;font-weight:700;font-size:.88rem">{{ if eq $lang "en" }}Read &rarr;{{ else if eq $lang "de" }}Lesen &rarr;{{ else }}Leggi &rarr;{{ end }}</span>
   </a>
   {{- end }}
 </div>
 {{- if gt $tutte 4 }}
 {{- with $p.Site.GetPage "/blog" }}
-<p style="margin:1rem 0 0"><a href="{{ .RelPermalink }}" style="color:#8b5a2b;font-weight:700">{{ if eq $lang "en" }}All the guides{{ else if eq $lang "de" }}Alle Ratgeber{{ else }}Tutte le guide{{ end }} &rarr;</a></p>
+<p style="margin:1rem 0 0"><a href="{{ .RelPermalink }}" style="color:#1f4f82;font-weight:700">{{ if eq $lang "en" }}All the guides{{ else if eq $lang "de" }}Alle Ratgeber{{ else }}Tutte le guide{{ end }} &rarr;</a></p>
 {{- end }}
 {{- end }}
 </div>

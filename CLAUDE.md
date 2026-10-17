@@ -300,6 +300,10 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
   scuro `#1f2d42`), testo `#d6dde6`, oro `#f0cc86` al posto di oro e rame. Bottoni bianchi con scritta `#1f3a5f`; link oro in
   grassetto con sottolineatura sottile (B). Niente marrone in link, bottoni e menu (anche al passaggio del mouse). Le regole in fondo
   a `notte.css` prevalgono sui vecchi colori caffè e rame scritti più su.
+- 18/10/2026 (Paolo, scelta B): le pagine chiare (articoli del Blog, Privacy, Note legali, contatto) restano chiare ma senza
+  marrone: titoli `#1f2d42`, link e bottoni `#1f4f82`, fondi azzurrini (`#f6f8fb`, `#eaf0f7`), piè di pagina blu. Fatto sostituendo
+  i colori in `main.css`, nei layout e negli `style=""` dei contenuti (mappa in un solo passaggio; zona GESTIONALE e pagine
+  `gestionale: true` escluse). Nuove pagine: non usare più i marroni `#8b5a2b`, `#5c4a3a`, `#4a3f35`, `#6b5d52`, `#3d2f22`.
 - Pagine vetrina scure (caffè, rame, oro): Home, Cuccioli, Chi siamo, Femmine, Maschi, Palmarès, Diario (elenco), Programma,
   Recensioni, Contatti, FAQ, Blog (elenco), in IT/EN/DE. Si accende con `notte: true` nel front matter (body `notte-pagina`, `assets/css/notte.css`
   caricato da `partials/css.html`). Gli articoli del Blog e le pagine del diario restano chiari.

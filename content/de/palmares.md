@@ -50,98 +50,98 @@ custom_content: |
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Rassespezialausstellung, Bologna (BO) - 15 Feb. 2025</span>
-  <span style="color:#8b5a2b;font-weight:600">Championklasse</span>
+  <span style="color:#1f4f82;font-weight:600">Championklasse</span>
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Nationale Ausstellung, Firenze (FI) - 13 Apr. 2024</span>
-  <span style="color:#8b5a2b;font-weight:600">CAC</span>
+  <span style="color:#1f4f82;font-weight:600">CAC</span>
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, Ferrara (FE) - 17 März 2024</span>
-  <span style="color:#8b5a2b;font-weight:600">CAC + CACIB</span>
+  <span style="color:#1f4f82;font-weight:600">CAC + CACIB</span>
   </div>
   </div>
     <div class="risultati-grid" style="display:grid;gap:0.75rem">
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, Ferrara (FE) - 16 März 2024</span>
-  <span style="color:#8b5a2b;font-weight:600">CAC</span>
+  <span style="color:#1f4f82;font-weight:600">CAC</span>
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, Cagliari (CA) - 25 Feb. 2024</span>
-  <span style="color:#8b5a2b;font-weight:600">CAC + CACIB</span>
+  <span style="color:#1f4f82;font-weight:600">CAC + CACIB</span>
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, Bologna (BO) - 15-18 Feb. 2024</span>
-  <span style="color:#8b5a2b;font-weight:600">4x CAC + 4x CACIB + BOS am 17. Feb. (<a href="/docs/bilquis-bos-bologna-17-02-2024.pdf" target="_blank" rel="noopener" title="ENCI-Ergebnisse vom 17. Februar 2024, BOS von Bilquis" aria-label="ENCI-Ergebnisse vom 17. Februar 2024, BOS von Bilquis (wird in einem neuen Tab geöffnet)">ENCI-Ergebnisse</a>)</span>
+  <span style="color:#1f4f82;font-weight:600">4x CAC + 4x CACIB + BOS am 17. Feb. (<a href="/docs/bilquis-bos-bologna-17-02-2024.pdf" target="_blank" rel="noopener" title="ENCI-Ergebnisse vom 17. Februar 2024, BOS von Bilquis" aria-label="ENCI-Ergebnisse vom 17. Februar 2024, BOS von Bilquis (wird in einem neuen Tab geöffnet)">ENCI-Ergebnisse</a>)</span>
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, Busto Arsizio (VA) - 14 Jan. 2024</span>
-  <span style="color:#8b5a2b;font-weight:600">CAC + CACIB</span>
+  <span style="color:#1f4f82;font-weight:600">CAC + CACIB</span>
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Rassespezialausstellung, Bologna (BO) - 16-17 Dez. 2023</span>
-  <span style="color:#8b5a2b;font-weight:600">JCAC</span>
+  <span style="color:#1f4f82;font-weight:600">JCAC</span>
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, Busto Arsizio (VA) - 3-4 Nov. 2023</span>
-  <span style="color:#8b5a2b;font-weight:600">2x JCAC + 2x JCACIB</span>
+  <span style="color:#1f4f82;font-weight:600">2x JCAC + 2x JCACIB</span>
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, Montesilvano (PE) - 22 Okt. 2023</span>
-  <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
+  <span style="color:#1f4f82;font-weight:600">JCAC + JCACIB</span>
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#d8cfc2;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 2</span>
+  <span style="background:#d3dbe5;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 2</span>
   <span>Internationale Ausstellung, Montesilvano (PE) - 21 Okt. 2023</span>
-  <span style="color:#8b5a2b;font-weight:600">R.JCAC</span>
+  <span style="color:#1f4f82;font-weight:600">R.JCAC</span>
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, Bastia Umbra (PG) - 8 Okt. 2023</span>
-  <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
+  <span style="color:#1f4f82;font-weight:600">JCAC + JCACIB</span>
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, L'Aquila (AQ) - 6 Aug. 2023</span>
-  <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
+  <span style="color:#1f4f82;font-weight:600">JCAC + JCACIB</span>
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, Narni (TR) - 24-25 Juni 2023</span>
-  <span style="color:#8b5a2b;font-weight:600">2x JCAC + 2x JCACIB</span>
+  <span style="color:#1f4f82;font-weight:600">2x JCAC + 2x JCACIB</span>
   </div>
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">VV 1</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">VV 1</span>
   <span>Rassespezialausstellung, Bologna (BO) - 18 Feb. 2023</span>
-  <span style="color:#8b5a2b;font-weight:600">Babyklasse</span>
+  <span style="color:#1f4f82;font-weight:600">Babyklasse</span>
   </div>
   </div>
 
-  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">20 Ausstellungen in Italien im ENCI-Zuchtbuch, 19 davon mit dem 1. Platz: <a href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Ausstellungsergebnisse von Bilquis im ENCI-Zuchtbuch" aria-label="die ENCI-Ergebnisliste – Ausstellungsergebnisse von Bilquis im ENCI-Zuchtbuch (wird in einem neuen Tab geöffnet)">die ENCI-Ergebnisliste</a> (LOI LO22197469). Ausstellungen im Ausland, die World Dog Show eingeschlossen, erfasst die ENCI nicht. Top Dog Junior 2023. Italienische Jugendchampionin. Italienische Schönheitschampionin 2024. Kroatische Jugendchampionin. Championin von Bosnien und Herzegowina. Crufts-Qualifikation 2025.</p>
+  <p style="margin-top:1.5rem;font-style:italic;color:#4a5768">20 Ausstellungen in Italien im ENCI-Zuchtbuch, 19 davon mit dem 1. Platz: <a href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Ausstellungsergebnisse von Bilquis im ENCI-Zuchtbuch" aria-label="die ENCI-Ergebnisliste – Ausstellungsergebnisse von Bilquis im ENCI-Zuchtbuch (wird in einem neuen Tab geöffnet)">die ENCI-Ergebnisliste</a> (LOI LO22197469). Ausstellungen im Ausland, die World Dog Show eingeschlossen, erfasst die ENCI nicht. Top Dog Junior 2023. Italienische Jugendchampionin. Italienische Schönheitschampionin 2024. Kroatische Jugendchampionin. Championin von Bosnien und Herzegowina. Crufts-Qualifikation 2025.</p>
 
   </div>
   </section>
@@ -159,23 +159,23 @@ custom_content: |
   </div>
 
   <div class="palmares-summary" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1rem;margin:2rem 0;text-align:center">
-  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
+  <div style="background:#1f2d42;color:#fff;padding:1.5rem;border-radius:12px">
   <p style="font-size:2rem;font-weight:700;margin:0">1</p>
   <p style="font-size:0.85rem;margin:0">Italienischer Champion</p>
   </div>
-  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
+  <div style="background:#1f2d42;color:#fff;padding:1.5rem;border-radius:12px">
   <p style="font-size:2rem;font-weight:700;margin:0">3</p>
   <p style="font-size:0.85rem;margin:0">Jugendchampions</p>
   </div>
-  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
+  <div style="background:#1f2d42;color:#fff;padding:1.5rem;border-radius:12px">
   <p style="font-size:2rem;font-weight:700;margin:0">1</p>
   <p style="font-size:0.85rem;margin:0">Championin San Marino</p>
   </div>
-  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
+  <div style="background:#1f2d42;color:#fff;padding:1.5rem;border-radius:12px">
   <p style="font-size:2rem;font-weight:700;margin:0">4.</p>
   <p style="font-size:0.85rem;margin:0">World Dog Show</p>
   </div>
-  <div style="background:#5c4a3a;color:#fff;padding:1.5rem;border-radius:12px">
+  <div style="background:#1f2d42;color:#fff;padding:1.5rem;border-radius:12px">
   <p style="font-size:2rem;font-weight:700;margin:0">19 von 20</p>
   <p style="font-size:0.85rem;margin:0">erste Plätze von Bilquis (ENCI)</p>
   </div>
@@ -222,7 +222,7 @@ custom_content: |
   </div>
   <div class="image-center" style="margin-top:1rem">
   <img src="/images/lothar-matthaus-tyson-locandina.avif" alt="CH SLO J.CH ITA Lothar Matthäus del Piccolo Diavolo, gerufen Tyson, gestromter Staffordshire Bull Terrier aus der Zucht Del Piccolo Diavolo" loading="lazy" decoding="async" width="900" height="1228" style="border-radius:12px;max-width:340px;width:100%" srcset="/images/lothar-matthaus-tyson-locandina-400w.avif 400w, /images/lothar-matthaus-tyson-locandina-800w.avif 800w, /images/lothar-matthaus-tyson-locandina.avif 900w" sizes="(max-width: 900px) 100vw, 900px">
-  <p style="margin:.5rem 0 0;font-size:.85rem;color:#7a6a58;text-align:center">Lothar «Tyson» — Slowenischer Champion, Italienischer Jugendchampion</p>
+  <p style="margin:.5rem 0 0;font-size:.85rem;color:#4a5768;text-align:center">Lothar «Tyson» — Slowenischer Champion, Italienischer Jugendchampion</p>
   </div>
   <div>
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem">
@@ -252,69 +252,69 @@ custom_content: |
   <span style="font-weight:600">CAC + Res. CACIB</span>
   </div>
 
-  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#f6f8fb;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Rassespezialausstellung, Bologna (BO) - 29 Nov. 2025</span>
-  <span style="color:#8b5a2b;font-weight:600">Zwischenklasse</span>
+  <span style="color:#1f4f82;font-weight:600">Zwischenklasse</span>
   </div>
   </div>
     <div class="risultati-grid" style="display:grid;gap:0.75rem">
-  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#f6f8fb;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Nationale Ausstellung, Monza (MB) - 20-21 Sep. 2025</span>
-  <span style="color:#8b5a2b;font-weight:600">CAC</span>
+  <span style="color:#1f4f82;font-weight:600">CAC</span>
   </div>
 
-  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#f6f8fb;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, Mondovi (CN) - 31 Aug. 2025</span>
-  <span style="color:#8b5a2b;font-weight:600">CAC + Res. CACIB</span>
+  <span style="color:#1f4f82;font-weight:600">CAC + Res. CACIB</span>
   </div>
 
-  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#f6f8fb;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Rassespezialausstellung, Carrara (MS) - 7 Juni 2025</span>
-  <span style="color:#8b5a2b;font-weight:600">JCAC</span>
+  <span style="color:#1f4f82;font-weight:600">JCAC</span>
   </div>
 
-  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#f6f8fb;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Nationale Ausstellung, Livorno (LI) - 17 Mai 2025</span>
-  <span style="color:#8b5a2b;font-weight:600">JCAC</span>
+  <span style="color:#1f4f82;font-weight:600">JCAC</span>
   </div>
 
-  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#f6f8fb;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Nationale Ausstellung, Seveso (MB) - 11 Mai 2025</span>
-  <span style="color:#8b5a2b;font-weight:600">JCAC</span>
+  <span style="color:#1f4f82;font-weight:600">JCAC</span>
   </div>
 
-  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#f6f8fb;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Nationale Ausstellung, Livraga (LO) - 3-4 Mai 2025</span>
-  <span style="color:#8b5a2b;font-weight:600">JCAC</span>
+  <span style="color:#1f4f82;font-weight:600">JCAC</span>
   </div>
 
-  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#f6f8fb;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Nationale Ausstellung, Borgo d'Ale (VC) - 13 Apr. 2025</span>
-  <span style="color:#8b5a2b;font-weight:600">JCAC</span>
+  <span style="color:#1f4f82;font-weight:600">JCAC</span>
   </div>
 
-  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#f6f8fb;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, Montichiari (BS) - 6 Apr. 2025</span>
-  <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
+  <span style="color:#1f4f82;font-weight:600">JCAC + JCACIB</span>
   </div>
 
-  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#faf8f5;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#f6f8fb;border-radius:8px;align-items:center">
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">V 1</span>
   <span>Internationale Ausstellung, Riva del Garda (TN) - 8 März 2025</span>
-  <span style="color:#8b5a2b;font-weight:600">JCAC + JCACIB</span>
+  <span style="color:#1f4f82;font-weight:600">JCAC + JCACIB</span>
   </div>
   </div>
 
-  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">21 Ausstellungen insgesamt. Italienischer Jugendchampion und Slowenischer Champion 🇸🇮. Handler: Sergio Patrucco.</p>
+  <p style="margin-top:1.5rem;font-style:italic;color:#4a5768">21 Ausstellungen insgesamt. Italienischer Jugendchampion und Slowenischer Champion 🇸🇮. Handler: Sergio Patrucco.</p>
   </div>
   </div>
   </div>
@@ -351,15 +351,15 @@ custom_content: |
   <div class="risultati-grid" style="display:grid;gap:0.75rem;margin-top:1.5rem">
 
   <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#fff;border-radius:8px;align-items:center">
-  <span style="background:#c9a227;color:#3d2f22;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">JUG. 1.</span>
+  <span style="background:#c9a227;color:#1f2d42;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">JUG. 1.</span>
   <span>Nationale Ausstellung Albarella (RO) - 17. Mai 2026</span>
-  <span style="color:#8b5a2b;font-weight:600">JCAC · JBOB · BOB</span>
+  <span style="color:#1f4f82;font-weight:600">JCAC · JBOB · BOB</span>
   </div>
 
   </div>
 
   <p>Tochter von CH. Elitebull Prospect × Lackyle Bean Croí Olc, aus dem Wurf vom 1. Februar 2025. Besitzer: Stefano Tevini. Handlerin: Vittoria Passerini, in ihrem zehnten Ausstellungsjahr, das 2016 genau in Albarella begann, im Junior Handling mit sieben Jahren.</p>
-  <p style="margin-top:1.5rem;font-style:italic;color:#6b5d52">Vater: CH. Elitebull Prospect. Mutter: Lackyle Bean Croí Olc. Besitzer: Stefano Tevini. Handler: Vittoria Passerini.</p>
+  <p style="margin-top:1.5rem;font-style:italic;color:#4a5768">Vater: CH. Elitebull Prospect. Mutter: Lackyle Bean Croí Olc. Besitzer: Stefano Tevini. Handler: Vittoria Passerini.</p>
 
   </div>
   </section>
