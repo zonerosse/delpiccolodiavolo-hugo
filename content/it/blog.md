@@ -4,6 +4,7 @@ titleSeo: "Guide sullo Staffordshire Bull Terrier: salute e cuccioli"
 date: 2025-12-28
 lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
+notte: true
 translationKey: "blog"
 description: "Articoli sullo Staffordshire Bull Terrier scritti dall'allevamento: cuccioli, salute e test genetici, standard e linee di sangue, famiglia e legge."
 slug: "blog"
@@ -96,119 +97,109 @@ custom_content: |
   </div>
   </article>
   </div>
-  <details class="tutti"><summary>Mostra tutti gli articoli (14)</summary>
+
   <div class="blog-grid">
   <article class="blog-card">
-  <a href="/genitori-visibili-cosa-significa/" title="Leggi: Genitori visibili, cosa significa davvero"><div class="blog-card-thumb"><img src="/images/blog/icone/genitori-visibili-cosa-significa.webp" alt="Femmina di Staffordshire Bull Terrier che allatta la cucciolata" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/genitori-visibili-cosa-significa/" title="Leggi: Genitori visibili, cosa significa davvero"><div class="blog-card-thumb"><img alt="Femmina di Staffordshire Bull Terrier che allatta la cucciolata" decoding="async" height="188" loading="lazy" src="/images/blog/icone/genitori-visibili-cosa-significa.webp" width="300"/></div></a>
   <div class="blog-card-body">
-  <div class="blog-card-meta"><span class="date">26 Set 2026</span><span>&bull;</span><span class="cat">Cuccioli</span></div>
+  <div class="blog-card-meta"><span class="date">26 Set 2026</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/genitori-visibili-cosa-significa/" title="Leggi: Genitori visibili, cosa significa davvero">Genitori visibili: cosa significa davvero</a></h3>
-  <p>Perch&eacute; il padre spesso non &egrave; in allevamento, e cosa guardare invece nella madre.</p>
-  <a class="read" href="/genitori-visibili-cosa-significa/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Genitori visibili, cosa significa davvero">Leggi<span class="sr-only">: Genitori visibili, cosa significa davvero</span> &rarr;</a>
+  <p>Perché il padre spesso non è in allevamento, e cosa guardare invece nella madre.</p>
+  <a aria-label="Leggi l'articolo: Genitori visibili, cosa significa davvero" class="read" href="/genitori-visibili-cosa-significa/" title="Leggi articolo completo">Leggi<span class="sr-only">: Genitori visibili, cosa significa davvero</span> →</a>
   </div>
   </article>
-
   <article class="blog-card">
-  <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi: Come riconoscere un allevamento serio"><div class="blog-card-thumb"><img src="/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier.webp" alt="Come riconoscere un allevamento Staffordshire Bull Terrier serio" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi: Come riconoscere un allevamento serio"><div class="blog-card-thumb"><img alt="Come riconoscere un allevamento Staffordshire Bull Terrier serio" decoding="async" height="188" loading="lazy" src="/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier.webp" width="300"/></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Gen 2026</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi: Come riconoscere un allevamento serio">Come riconoscere un allevamento serio</a></h3>
   <p>Otto criteri e il modo di verificarli, con i nostri documenti come esempio.</p>
-  <a class="read" href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Come riconoscere un allevamento serio">Leggi<span class="sr-only">: Come riconoscere un allevamento serio</span> →</a>
+  <a aria-label="Leggi l'articolo: Come riconoscere un allevamento serio" class="read" href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Leggi articolo completo">Leggi<span class="sr-only">: Come riconoscere un allevamento serio</span> →</a>
   </div>
   </article>
-
   <article class="blog-card">
-  <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Leggi: Quanto Costa un Cucciolo"><div class="blog-card-thumb"><img src="/images/blog/icone/quanto-costa-cucciolo-staffordshire-bull-terrier.webp" alt="Scontrino della farmacia con i farmaci veterinari di una cucciolata" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Leggi: Quanto Costa un Cucciolo"><div class="blog-card-thumb"><img alt="Scontrino della farmacia con i farmaci veterinari di una cucciolata" decoding="async" height="188" loading="lazy" src="/images/blog/icone/quanto-costa-cucciolo-staffordshire-bull-terrier.webp" width="300"/></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">25 Gen 2026</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Leggi: Quanto Costa un Cucciolo">Quanto costa un cucciolo di Staffordshire Bull Terrier nel 2026</a></h3>
   <p>Cosa include davvero il prezzo di un cucciolo, e perché diffidare dai prezzi troppo bassi.</p>
-  <a class="read" href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Quanto costa un cucciolo di Staffordshire Bull Terrier nel 2026">Leggi<span class="sr-only">: Quanto costa un cucciolo di Staffordshire Bull Terrier nel 2026</span> →</a>
+  <a aria-label="Leggi l'articolo: Quanto costa un cucciolo di Staffordshire Bull Terrier nel 2026" class="read" href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Leggi articolo completo">Leggi<span class="sr-only">: Quanto costa un cucciolo di Staffordshire Bull Terrier nel 2026</span> →</a>
   </div>
   </article>
-
   <article class="blog-card">
-  <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Leggi: Bio Sensor, cosa dice la ricerca"><div class="blog-card-thumb"><img src="/images/blog/icone/bio-sensor-stimolazione-precoce-cuccioli.webp" alt="Cuccioli di Staffordshire Bull Terrier nei primi giorni di vita" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Leggi: Bio Sensor, cosa dice la ricerca"><div class="blog-card-thumb"><img alt="Cuccioli di Staffordshire Bull Terrier nei primi giorni di vita" decoding="async" height="188" loading="lazy" src="/images/blog/icone/bio-sensor-stimolazione-precoce-cuccioli.webp" width="300"/></div></a>
   <div class="blog-card-body">
-  <div class="blog-card-meta"><span class="date">8 Set 2026</span><span>&bull;</span><span class="cat">Cuccioli</span></div>
+  <div class="blog-card-meta"><span class="date">8 Set 2026</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Leggi: Bio Sensor, cosa dice la ricerca">Bio Sensor: cosa dice davvero la ricerca</a></h3>
   <p>Il metodo ENS, le prove che mancano, e cosa conta nei primi due mesi.</p>
-  <a class="read" href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Leggi articolo completo" aria-label="Leggi larticolo: Bio Sensor, cosa dice davvero la ricerca">Leggi<span class="sr-only">: Bio Sensor, cosa dice davvero la ricerca</span> &rarr;</a>
+  <a aria-label="Leggi larticolo: Bio Sensor, cosa dice davvero la ricerca" class="read" href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Leggi articolo completo">Leggi<span class="sr-only">: Bio Sensor, cosa dice davvero la ricerca</span> →</a>
   </div>
   </article>
-
   <article class="blog-card">
-  <a href="/cuccioli-socializzazione-in-casa/" title="Leggi: Socializzare il cucciolo in casa"><div class="blog-card-thumb"><img src="/images/blog/icone/cuccioli-socializzazione-in-casa.webp" alt="Cuccioli di Staffordshire Bull Terrier: socializzazione in casa" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/cuccioli-socializzazione-in-casa/" title="Leggi: Socializzare il cucciolo in casa"><div class="blog-card-thumb"><img alt="Cuccioli di Staffordshire Bull Terrier: socializzazione in casa" decoding="async" height="188" loading="lazy" src="/images/blog/icone/cuccioli-socializzazione-in-casa.webp" width="300"/></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Mar 2025</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cuccioli-socializzazione-in-casa/" title="Leggi: Socializzare il cucciolo in casa">Socializzare il cucciolo in casa: la lista per la famiglia</a></h3>
   <p>Prime esperienze positive e gestione quotidiana.</p>
-  <a class="read" href="/cuccioli-socializzazione-in-casa/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Socializzare il cucciolo in casa">Leggi<span class="sr-only">: Socializzare il cucciolo in casa</span> →</a>
+  <a aria-label="Leggi l'articolo: Socializzare il cucciolo in casa" class="read" href="/cuccioli-socializzazione-in-casa/" title="Leggi articolo completo">Leggi<span class="sr-only">: Socializzare il cucciolo in casa</span> →</a>
   </div>
   </article>
-
   <article class="blog-card">
-  <a href="/cuccioli-prime-vaccinazioni/" title="Leggi: Prime vaccinazioni"><div class="blog-card-thumb"><img src="/images/blog/icone/cuccioli-prime-vaccinazioni.webp" alt="Cuccioli di Staffordshire Bull Terrier: prime vaccinazioni" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/cuccioli-prime-vaccinazioni/" title="Leggi: Prime vaccinazioni"><div class="blog-card-thumb"><img alt="Cuccioli di Staffordshire Bull Terrier: prime vaccinazioni" decoding="async" height="188" loading="lazy" src="/images/blog/icone/cuccioli-prime-vaccinazioni.webp" width="300"/></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">10 Giu 2025</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cuccioli-prime-vaccinazioni/" title="Leggi: Prime vaccinazioni">Prime vaccinazioni</a></h3>
   <p>Calendario e consigli pratici per iniziare bene.</p>
-  <a class="read" href="/cuccioli-prime-vaccinazioni/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Prime vaccinazioni">Leggi<span class="sr-only">: Prime vaccinazioni</span> →</a>
+  <a aria-label="Leggi l'articolo: Prime vaccinazioni" class="read" href="/cuccioli-prime-vaccinazioni/" title="Leggi articolo completo">Leggi<span class="sr-only">: Prime vaccinazioni</span> →</a>
   </div>
   </article>
-
   <article class="blog-card">
-  <a href="/cuccioli-alimentazione-iniziale/" title="Leggi: Alimentazione iniziale"><div class="blog-card-thumb"><img src="/images/blog/icone/cuccioli-alimentazione-iniziale.webp" alt="Cuccioli di Staffordshire Bull Terrier: alimentazione iniziale" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/cuccioli-alimentazione-iniziale/" title="Leggi: Alimentazione iniziale"><div class="blog-card-thumb"><img alt="Cuccioli di Staffordshire Bull Terrier: alimentazione iniziale" decoding="async" height="188" loading="lazy" src="/images/blog/icone/cuccioli-alimentazione-iniziale.webp" width="300"/></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">15 Apr 2025</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cuccioli-alimentazione-iniziale/" title="Leggi: Alimentazione iniziale">Alimentazione iniziale</a></h3>
   <p>Frequenza pasti, transizioni e qualità del cibo.</p>
-  <a class="read" href="/cuccioli-alimentazione-iniziale/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Alimentazione iniziale">Leggi<span class="sr-only">: Alimentazione iniziale</span> →</a>
+  <a aria-label="Leggi l'articolo: Alimentazione iniziale" class="read" href="/cuccioli-alimentazione-iniziale/" title="Leggi articolo completo">Leggi<span class="sr-only">: Alimentazione iniziale</span> →</a>
   </div>
   </article>
-
   <article class="blog-card">
-  <a href="/cuccioli-educazione-bisogni/" title="Leggi: Educazione ai bisogni"><div class="blog-card-thumb"><img src="/images/blog/icone/cuccioli-educazione-bisogni.webp" alt="Cuccioli di Staffordshire Bull Terrier: educazione ai bisogni" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/cuccioli-educazione-bisogni/" title="Leggi: Educazione ai bisogni"><div class="blog-card-thumb"><img alt="Cuccioli di Staffordshire Bull Terrier: educazione ai bisogni" decoding="async" height="188" loading="lazy" src="/images/blog/icone/cuccioli-educazione-bisogni.webp" width="300"/></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">22 Mag 2025</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cuccioli-educazione-bisogni/" title="Leggi: Educazione ai bisogni">Educazione ai bisogni</a></h3>
   <p>Routine, rinforzo positivo e segnali.</p>
-  <a class="read" href="/cuccioli-educazione-bisogni/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Educazione ai bisogni">Leggi<span class="sr-only">: Educazione ai bisogni</span> →</a>
+  <a aria-label="Leggi l'articolo: Educazione ai bisogni" class="read" href="/cuccioli-educazione-bisogni/" title="Leggi articolo completo">Leggi<span class="sr-only">: Educazione ai bisogni</span> →</a>
   </div>
   </article>
-
   <article class="blog-card">
-  <a href="/cuccioli-gestione-solitudine/" title="Leggi: Gestione della solitudine"><div class="blog-card-thumb"><img src="/images/blog/icone/cuccioli-gestione-solitudine.webp" alt="Cuccioli di Staffordshire Bull Terrier: gestione della solitudine" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/cuccioli-gestione-solitudine/" title="Leggi: Gestione della solitudine"><div class="blog-card-thumb"><img alt="Cuccioli di Staffordshire Bull Terrier: gestione della solitudine" decoding="async" height="188" loading="lazy" src="/images/blog/icone/cuccioli-gestione-solitudine.webp" width="300"/></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">8 Lug 2025</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cuccioli-gestione-solitudine/" title="Leggi: Gestione della solitudine">Gestione della solitudine</a></h3>
   <p>Prevenire ansia e abitudini scorrette.</p>
-  <a class="read" href="/cuccioli-gestione-solitudine/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Gestione della solitudine">Leggi<span class="sr-only">: Gestione della solitudine</span> →</a>
+  <a aria-label="Leggi l'articolo: Gestione della solitudine" class="read" href="/cuccioli-gestione-solitudine/" title="Leggi articolo completo">Leggi<span class="sr-only">: Gestione della solitudine</span> →</a>
   </div>
   </article>
-
   <article class="blog-card">
-  <a href="/cuccioli-giochi-mentali/" title="Leggi: Giochi mentali per cuccioli"><div class="blog-card-thumb"><img src="/images/blog/icone/cuccioli-giochi-mentali.webp" alt="Cuccioli di Staffordshire Bull Terrier: giochi mentali per cuccioli" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/cuccioli-giochi-mentali/" title="Leggi: Giochi mentali per cuccioli"><div class="blog-card-thumb"><img alt="Cuccioli di Staffordshire Bull Terrier: giochi mentali per cuccioli" decoding="async" height="188" loading="lazy" src="/images/blog/icone/cuccioli-giochi-mentali.webp" width="300"/></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">3 Ago 2025</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cuccioli-giochi-mentali/" title="Leggi: Giochi mentali per cuccioli">Giochi mentali per cuccioli</a></h3>
   <p>Stimolare mente e autocontrollo in sicurezza.</p>
-  <a class="read" href="/cuccioli-giochi-mentali/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Giochi mentali per cuccioli">Leggi<span class="sr-only">: Giochi mentali per cuccioli</span> →</a>
+  <a aria-label="Leggi l'articolo: Giochi mentali per cuccioli" class="read" href="/cuccioli-giochi-mentali/" title="Leggi articolo completo">Leggi<span class="sr-only">: Giochi mentali per cuccioli</span> →</a>
   </div>
   </article>
-
   <article class="blog-card">
-  <a href="/cuccioli-prima-passeggiata/" title="Leggi: Prima passeggiata al guinzaglio"><div class="blog-card-thumb"><img src="/images/blog/icone/cuccioli-prima-passeggiata.webp" alt="Cuccioli di Staffordshire Bull Terrier: prima passeggiata al guinzaglio" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/cuccioli-prima-passeggiata/" title="Leggi: Prima passeggiata al guinzaglio"><div class="blog-card-thumb"><img alt="Cuccioli di Staffordshire Bull Terrier: prima passeggiata al guinzaglio" decoding="async" height="188" loading="lazy" src="/images/blog/icone/cuccioli-prima-passeggiata.webp" width="300"/></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">17 Set 2025</span><span>•</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/cuccioli-prima-passeggiata/" title="Leggi: Prima passeggiata al guinzaglio">Prima passeggiata al guinzaglio</a></h3>
   <p>Attrezzatura, tempi e prime regole.</p>
-  <a class="read" href="/cuccioli-prima-passeggiata/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Prima passeggiata al guinzaglio">Leggi<span class="sr-only">: Prima passeggiata al guinzaglio</span> →</a>
+  <a aria-label="Leggi l'articolo: Prima passeggiata al guinzaglio" class="read" href="/cuccioli-prima-passeggiata/" title="Leggi articolo completo">Leggi<span class="sr-only">: Prima passeggiata al guinzaglio</span> →</a>
   </div>
   </article>
   </div>
-  </details>
+
   </div>
   </section>
   <!--/BLOCCO:4-->
@@ -251,59 +242,55 @@ custom_content: |
   </div>
   </article>
   </div>
-  <details class="tutti"><summary>Mostra tutti gli articoli (8)</summary>
+
   <div class="blog-grid">
   <article class="blog-card">
-  <a href="/differenza-staffy-amstaff/" title="Leggi: Staffy o Amstaff, il test dell'allevatore"><div class="blog-card-thumb"><img src="/images/blog/icone/differenza-staffy-amstaff.webp" alt="Differenza tra Staffy e Amstaff" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/differenza-staffy-amstaff/" title="Leggi: Staffy o Amstaff, il test dell'allevatore"><div class="blog-card-thumb"><img alt="Differenza tra Staffy e Amstaff" decoding="async" height="188" loading="lazy" src="/images/blog/icone/differenza-staffy-amstaff.webp" width="300"/></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Gen 2026</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/differenza-staffy-amstaff/" title="Leggi: Staffy o Amstaff, il test dell'allevatore">Staffy o Amstaff: il test dell'allevatore</a></h3>
   <p>Sette domande su casa, bambini, esperienza e tempo per scegliere fra le due razze.</p>
-  <a class="read" href="/differenza-staffy-amstaff/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Staffy o Amstaff: il test dell'allevatore">Leggi<span class="sr-only">: Staffy o Amstaff: il test dell'allevatore</span> →</a>
+  <a aria-label="Leggi l'articolo: Staffy o Amstaff: il test dell'allevatore" class="read" href="/differenza-staffy-amstaff/" title="Leggi articolo completo">Leggi<span class="sr-only">: Staffy o Amstaff: il test dell'allevatore</span> →</a>
   </div>
   </article>
-
   <article class="blog-card">
-  <a href="/differenza-staffy-pitbull-amstaff/" title="Leggi: Differenza Staffy Pitbull Amstaff"><div class="blog-card-thumb"><img src="/images/blog/icone/differenza-staffy-pitbull-amstaff.webp" alt="Differenza Staffy Pitbull Amstaff" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/differenza-staffy-pitbull-amstaff/" title="Leggi: Differenza Staffy Pitbull Amstaff"><div class="blog-card-thumb"><img alt="Differenza Staffy Pitbull Amstaff" decoding="async" height="188" loading="lazy" src="/images/blog/icone/differenza-staffy-pitbull-amstaff.webp" width="300"/></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">19 Nov 2025</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/differenza-staffy-pitbull-amstaff/" title="Leggi: Differenza Staffy Pitbull Amstaff">Differenza tra Staffordshire Bull Terrier, Pitbull e Amstaff</a></h3>
   <p>Origini, standard FCI, taglia, carattere e riconoscimento.</p>
-  <a class="read" href="/differenza-staffy-pitbull-amstaff/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Differenza tra Staffordshire Bull Terrier, Pitbull e Amstaff">Leggi<span class="sr-only">: Differenza tra Staffordshire Bull Terrier, Pitbull e Amstaff</span> →</a>
+  <a aria-label="Leggi l'articolo: Differenza tra Staffordshire Bull Terrier, Pitbull e Amstaff" class="read" href="/differenza-staffy-pitbull-amstaff/" title="Leggi articolo completo">Leggi<span class="sr-only">: Differenza tra Staffordshire Bull Terrier, Pitbull e Amstaff</span> →</a>
   </div>
   </article>
-
   <article class="blog-card">
-  <a href="/linee-sangue-staffordshire-bull-terrier/" title="Leggi: Linee di Sangue Staffy"><div class="blog-card-thumb"><img src="/images/blog/icone/linee-sangue-staffordshire-bull-terrier.webp" alt="Linee di Sangue Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/linee-sangue-staffordshire-bull-terrier/" title="Leggi: Linee di Sangue Staffy"><div class="blog-card-thumb"><img alt="Linee di Sangue Staffordshire Bull Terrier" decoding="async" height="188" loading="lazy" src="/images/blog/icone/linee-sangue-staffordshire-bull-terrier.webp" width="300"/></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">8 Nov 2025</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/linee-sangue-staffordshire-bull-terrier/" title="Leggi: Storia delle linee di sangue">Storia delle linee di sangue dello Staffy</a></h3>
   <p>Storia delle 6 linee fondatrici e allevamenti moderni UK/Irlanda.</p>
-  <a class="read" href="/linee-sangue-staffordshire-bull-terrier/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Linee di Sangue Staffordshire Bull Terrier">Leggi<span class="sr-only">: Linee di Sangue Staffordshire Bull Terrier</span> →</a>
+  <a aria-label="Leggi l'articolo: Linee di Sangue Staffordshire Bull Terrier" class="read" href="/linee-sangue-staffordshire-bull-terrier/" title="Leggi articolo completo">Leggi<span class="sr-only">: Linee di Sangue Staffordshire Bull Terrier</span> →</a>
   </div>
   </article>
-
   <article class="blog-card">
-  <a href="/standard-tipicita-morfologia/" title="Leggi: Tipicità di razza e morfologia"><div class="blog-card-thumb"><img src="/images/blog/icone/standard-tipicita-morfologia.webp" alt="Standard dello Staffordshire Bull Terrier: tipicità di razza e morfologia" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/standard-tipicita-morfologia/" title="Leggi: Tipicità di razza e morfologia"><div class="blog-card-thumb"><img alt="Standard dello Staffordshire Bull Terrier: tipicità di razza e morfologia" decoding="async" height="188" loading="lazy" src="/images/blog/icone/standard-tipicita-morfologia.webp" width="300"/></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">12 Feb 2025</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/standard-tipicita-morfologia/" title="Leggi: Tipicità di razza e morfologia">Tipicità di razza e morfologia</a></h3>
   <p>Punti chiave dello standard e interpretazione.</p>
-  <a class="read" href="/standard-tipicita-morfologia/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Tipicità di razza e morfologia">Leggi<span class="sr-only">: Tipicità di razza e morfologia</span> →</a>
+  <a aria-label="Leggi l'articolo: Tipicità di razza e morfologia" class="read" href="/standard-tipicita-morfologia/" title="Leggi articolo completo">Leggi<span class="sr-only">: Tipicità di razza e morfologia</span> →</a>
   </div>
   </article>
-
   <article class="blog-card">
-  <a href="/standard-linee-di-sangue-orientarsi/" title="Leggi: Linee di sangue come orientarsi"><div class="blog-card-thumb"><img src="/images/blog/icone/standard-linee-di-sangue-orientarsi.webp" alt="Standard dello Staffordshire Bull Terrier: linee di sangue: come orientarsi" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/standard-linee-di-sangue-orientarsi/" title="Leggi: Linee di sangue come orientarsi"><div class="blog-card-thumb"><img alt="Standard dello Staffordshire Bull Terrier: linee di sangue: come orientarsi" decoding="async" height="188" loading="lazy" src="/images/blog/icone/standard-linee-di-sangue-orientarsi.webp" width="300"/></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">5 Mar 2025</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/standard-linee-di-sangue-orientarsi/" title="Leggi: Come scegliere la linea di sangue">Come scegliere la linea di sangue di un cucciolo</a></h3>
   <p>Scelta consapevole tra genealogie e obiettivi.</p>
-  <a class="read" href="/standard-linee-di-sangue-orientarsi/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Linee di sangue: come orientarsi">Leggi<span class="sr-only">: Linee di sangue: come orientarsi</span> →</a>
+  <a aria-label="Leggi l'articolo: Linee di sangue: come orientarsi" class="read" href="/standard-linee-di-sangue-orientarsi/" title="Leggi articolo completo">Leggi<span class="sr-only">: Linee di sangue: come orientarsi</span> →</a>
   </div>
   </article>
   </div>
-  </details>
+
   </div>
   </section>
   <!--/BLOCCO:5-->
@@ -346,39 +333,37 @@ custom_content: |
   </div>
   </article>
   </div>
-  <details class="tutti"><summary>Mostra tutti gli articoli (6)</summary>
+
   <div class="blog-grid">
   <article class="blog-card">
-  <a href="/salute-parassiti-prevenzione/" title="Leggi: Parassiti prevenzione e controllo"><div class="blog-card-thumb"><img src="/images/blog/icone/salute-parassiti-prevenzione.webp" alt="Cura e salute dello Staffordshire Bull Terrier: parassiti: prevenzione e controllo" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/salute-parassiti-prevenzione/" title="Leggi: Parassiti prevenzione e controllo"><div class="blog-card-thumb"><img alt="Cura e salute dello Staffordshire Bull Terrier: parassiti: prevenzione e controllo" decoding="async" height="188" loading="lazy" src="/images/blog/icone/salute-parassiti-prevenzione.webp" width="300"/></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">20 Gen 2025</span><span>•</span><span class="cat">Salute</span></div>
   <h3><a href="/salute-parassiti-prevenzione/" title="Leggi: Parassiti prevenzione e controllo">Parassiti: prevenzione e controllo</a></h3>
   <p>Pulci, zecche e protocolli stagionali.</p>
-  <a class="read" href="/salute-parassiti-prevenzione/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Parassiti: prevenzione e controllo">Leggi<span class="sr-only">: Parassiti: prevenzione e controllo</span> →</a>
+  <a aria-label="Leggi l'articolo: Parassiti: prevenzione e controllo" class="read" href="/salute-parassiti-prevenzione/" title="Leggi articolo completo">Leggi<span class="sr-only">: Parassiti: prevenzione e controllo</span> →</a>
   </div>
   </article>
-
   <article class="blog-card">
-  <a href="/salute-denti-igiene/" title="Leggi: Igiene orale e denti"><div class="blog-card-thumb"><img src="/images/blog/icone/salute-denti-igiene.webp" alt="Cura e salute dello Staffordshire Bull Terrier: igiene orale e denti" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/salute-denti-igiene/" title="Leggi: Igiene orale e denti"><div class="blog-card-thumb"><img alt="Cura e salute dello Staffordshire Bull Terrier: igiene orale e denti" decoding="async" height="188" loading="lazy" src="/images/blog/icone/salute-denti-igiene.webp" width="300"/></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">14 Apr 2025</span><span>•</span><span class="cat">Salute</span></div>
   <h3><a href="/salute-denti-igiene/" title="Leggi: Igiene orale e denti">Igiene orale e denti</a></h3>
   <p>Pulizia, masticazione e prevenzione tartaro.</p>
-  <a class="read" href="/salute-denti-igiene/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Igiene orale e denti">Leggi<span class="sr-only">: Igiene orale e denti</span> →</a>
+  <a aria-label="Leggi l'articolo: Igiene orale e denti" class="read" href="/salute-denti-igiene/" title="Leggi articolo completo">Leggi<span class="sr-only">: Igiene orale e denti</span> →</a>
   </div>
   </article>
-
   <article class="blog-card">
-  <a href="/salute-esercizio-sicuro/" title="Leggi: Esercizio fisico in sicurezza"><div class="blog-card-thumb"><img src="/images/blog/icone/salute-esercizio-sicuro.webp" alt="Cura e salute dello Staffordshire Bull Terrier: esercizio fisico in sicurezza" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/salute-esercizio-sicuro/" title="Leggi: Esercizio fisico in sicurezza"><div class="blog-card-thumb"><img alt="Cura e salute dello Staffordshire Bull Terrier: esercizio fisico in sicurezza" decoding="async" height="188" loading="lazy" src="/images/blog/icone/salute-esercizio-sicuro.webp" width="300"/></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">28 Giu 2025</span><span>•</span><span class="cat">Salute</span></div>
   <h3><a href="/salute-esercizio-sicuro/" title="Leggi: Esercizio fisico in sicurezza">Esercizio fisico in sicurezza</a></h3>
   <p>Carichi adeguati per età e stagione.</p>
-  <a class="read" href="/salute-esercizio-sicuro/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Esercizio fisico in sicurezza">Leggi<span class="sr-only">: Esercizio fisico in sicurezza</span> →</a>
+  <a aria-label="Leggi l'articolo: Esercizio fisico in sicurezza" class="read" href="/salute-esercizio-sicuro/" title="Leggi articolo completo">Leggi<span class="sr-only">: Esercizio fisico in sicurezza</span> →</a>
   </div>
   </article>
   </div>
-  </details>
+
   </div>
   </section>
   <!--/BLOCCO:6-->
@@ -421,49 +406,46 @@ custom_content: |
   </div>
   </article>
   </div>
-  <details class="tutti"><summary>Mostra tutti gli articoli (7)</summary>
+
   <div class="blog-grid">
   <article class="blog-card">
-  <a href="/famiglia-anziani-rispetto-ritmi/" title="Leggi: Con persone anziane"><div class="blog-card-thumb"><img src="/images/blog/icone/famiglia-anziani-rispetto-ritmi.webp" alt="Staffordshire Bull Terrier in famiglia: con persone anziane" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/famiglia-anziani-rispetto-ritmi/" title="Leggi: Con persone anziane"><div class="blog-card-thumb"><img alt="Staffordshire Bull Terrier in famiglia: con persone anziane" decoding="async" height="188" loading="lazy" src="/images/blog/icone/famiglia-anziani-rispetto-ritmi.webp" width="300"/></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">19 Mag 2025</span><span>•</span><span class="cat">Famiglia</span></div>
   <h3><a href="/famiglia-anziani-rispetto-ritmi/" title="Leggi: Con persone anziane">Con persone anziane: rispetto dei ritmi</a></h3>
   <p>Routine tranquille e supporti utili.</p>
-  <a class="read" href="/famiglia-anziani-rispetto-ritmi/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Con persone anziane: rispetto dei ritmi">Leggi<span class="sr-only">: Con persone anziane: rispetto dei ritmi</span> →</a>
+  <a aria-label="Leggi l'articolo: Con persone anziane: rispetto dei ritmi" class="read" href="/famiglia-anziani-rispetto-ritmi/" title="Leggi articolo completo">Leggi<span class="sr-only">: Con persone anziane: rispetto dei ritmi</span> →</a>
   </div>
   </article>
-
   <article class="blog-card">
-  <a href="/famiglia-convivenza-altri-animali/" title="Leggi: Convivenza con altri animali"><div class="blog-card-thumb"><img src="/images/blog/icone/famiglia-convivenza-altri-animali.webp" alt="Staffordshire Bull Terrier in famiglia: convivenza con altri animali" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/famiglia-convivenza-altri-animali/" title="Leggi: Convivenza con altri animali"><div class="blog-card-thumb"><img alt="Staffordshire Bull Terrier in famiglia: convivenza con altri animali" decoding="async" height="188" loading="lazy" src="/images/blog/icone/famiglia-convivenza-altri-animali.webp" width="300"/></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">11 Ago 2025</span><span>•</span><span class="cat">Famiglia</span></div>
   <h3><a href="/famiglia-convivenza-altri-animali/" title="Leggi: Convivenza con altri animali">Convivenza con altri animali</a></h3>
   <p>Inserimenti graduali e gestione degli spazi.</p>
-  <a class="read" href="/famiglia-convivenza-altri-animali/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Convivenza con altri animali">Leggi<span class="sr-only">: Convivenza con altri animali</span> →</a>
+  <a aria-label="Leggi l'articolo: Convivenza con altri animali" class="read" href="/famiglia-convivenza-altri-animali/" title="Leggi articolo completo">Leggi<span class="sr-only">: Convivenza con altri animali</span> →</a>
   </div>
   </article>
-
   <article class="blog-card">
-  <a href="/famiglia-viaggi-spostamenti/" title="Leggi: Viaggi e spostamenti"><div class="blog-card-thumb"><img src="/images/blog/icone/famiglia-viaggi-spostamenti.webp" alt="Staffordshire Bull Terrier in famiglia: viaggi e spostamenti" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/famiglia-viaggi-spostamenti/" title="Leggi: Viaggi e spostamenti"><div class="blog-card-thumb"><img alt="Staffordshire Bull Terrier in famiglia: viaggi e spostamenti" decoding="async" height="188" loading="lazy" src="/images/blog/icone/famiglia-viaggi-spostamenti.webp" width="300"/></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">2 Nov 2025</span><span>•</span><span class="cat">Famiglia</span></div>
   <h3><a href="/famiglia-viaggi-spostamenti/" title="Leggi: Viaggi e spostamenti">Viaggi e spostamenti</a></h3>
   <p>Auto, treno e pernottamenti sereni.</p>
-  <a class="read" href="/famiglia-viaggi-spostamenti/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Viaggi e spostamenti">Leggi<span class="sr-only">: Viaggi e spostamenti</span> →</a>
+  <a aria-label="Leggi l'articolo: Viaggi e spostamenti" class="read" href="/famiglia-viaggi-spostamenti/" title="Leggi articolo completo">Leggi<span class="sr-only">: Viaggi e spostamenti</span> →</a>
   </div>
   </article>
-
   <article class="blog-card">
-  <a href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Leggi: Carattere e vita in famiglia"><div class="blog-card-thumb"><img src="/images/blog/icone/staffordshire-bull-terrier-carattere-vita-famiglia.webp" alt="Staffordshire Bull Terrier carattere e vita in famiglia" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Leggi: Carattere e vita in famiglia"><div class="blog-card-thumb"><img alt="Staffordshire Bull Terrier carattere e vita in famiglia" decoding="async" height="188" loading="lazy" src="/images/blog/icone/staffordshire-bull-terrier-carattere-vita-famiglia.webp" width="300"/></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">28 Apr 2026</span><span>•</span><span class="cat">Famiglia</span></div>
   <h3><a href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Leggi: Carattere e vita in famiglia">Staffordshire Bull Terrier: carattere, vita in famiglia e cosa aspettarsi</a></h3>
   <p>Con la razza dal 2005. Pregi, difetti e cosa aspettarsi davvero da uno Staffy.</p>
-  <a class="read" href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Leggi articolo completo" aria-label="Leggi l'articolo: Staffordshire Bull Terrier: carattere, vita in famiglia e cosa aspettarsi">Leggi<span class="sr-only">: Staffordshire Bull Terrier: carattere, vita in famiglia e cosa aspettarsi</span> →</a>
+  <a aria-label="Leggi l'articolo: Staffordshire Bull Terrier: carattere, vita in famiglia e cosa aspettarsi" class="read" href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Leggi articolo completo">Leggi<span class="sr-only">: Staffordshire Bull Terrier: carattere, vita in famiglia e cosa aspettarsi</span> →</a>
   </div>
   </article>
   </div>
-  </details>
+
   </div>
   </section>
   <!--/BLOCCO:7-->

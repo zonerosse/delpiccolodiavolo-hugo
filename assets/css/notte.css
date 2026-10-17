@@ -357,3 +357,21 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .notte-pagina .faq-container:not(.n-faqs) .faq-q{display:block!important;font-family:Georgia,serif;font-weight:400!important;font-size:1.25rem!important;line-height:1.35;color:var(--n-cr)}
 .notte-pagina .faq-container:not(.n-faqs) .faq-answer{display:block!important;max-height:none!important;padding:0!important;margin:0;opacity:1!important}
 @media(max-width:767px){.notte-pagina .faq-container:not(.n-faqs) .faq-item{grid-template-columns:1fr;row-gap:.9rem}}
+/* Blog in stile Notte (17/10/2026) */
+.notte-pagina main>p:not([class]){max-width:1080px;margin:3rem auto 0;padding:0 1.5rem}
+.notte-pagina .blog-card{background:var(--n-card)!important;border:1px solid var(--n-ln)!important;box-shadow:none!important;overflow:hidden}
+.notte-pagina .blog-card-body{padding:1rem 1.2rem 1.3rem!important}
+.notte-pagina .blog-card h3,.notte-pagina .blog-card h3 a{color:var(--n-cr)!important;font-family:Georgia,serif}
+.notte-pagina .blog-card p{color:var(--n-mu)!important;margin:.4rem 0 .8rem!important}
+.notte-pagina .blog-card-meta,.notte-pagina .blog-card-meta span{color:var(--n-cu)!important;font-size:.85rem}
+.notte-pagina .blog-card .read{color:var(--n-go)!important;font-weight:700}
+.notte-pagina .blog-card:hover{transform:none}
+.notte-pagina .blog-card h3{margin:.3rem 0 .4rem!important;padding:0!important}
+/* Blog a righe: icona a sinistra, data, titolo e testo a destra; tutti gli articoli visibili */
+.notte-pagina .blog-grid{display:block!important;margin-top:1.5rem}
+.notte-pagina .blog-card{display:grid!important;grid-template-columns:120px 1fr;column-gap:2rem;align-items:start;background:transparent!important;border:0!important;border-top:1px solid var(--n-ln)!important;border-radius:0!important;padding:1.6rem 0!important}
+.notte-pagina .blog-card-thumb{width:120px;height:120px!important;border-radius:12px;overflow:hidden}
+.notte-pagina .blog-card-thumb img{width:120px!important;height:120px!important;object-fit:cover}
+.notte-pagina .blog-card-body{padding:0!important}
+.notte-pagina .blog-card h3{font-size:1.25rem!important;margin:.3rem 0 .4rem!important}
+@media(max-width:600px){.notte-pagina .blog-card{grid-template-columns:72px 1fr;column-gap:1rem}.notte-pagina .blog-card-thumb,.notte-pagina .blog-card-thumb img{width:72px!important;height:72px!important}}
