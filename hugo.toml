@@ -166,41 +166,15 @@ enableRobotsTXT = true
     path = "{/programma-allevamento,/litters-staffordshire-bull-terrier,/wuerfe-staffordshire-bull-terrier}"
 
 # ---------------------------------------------------------------
-# FOTO HERO A ROTAZIONE
-# La foto della home cambia da sola in base al periodo.
+# FOTO HERO DELLA HOME
+# 17/10/2026, Paolo: niente piu' rotazione, resta solo la foto di Divine (alta definizione).
+# Con un solo blocco la foto non cambia mai. Per tornare alla rotazione basta aggiungere altri blocchi.
+# La foto della home cambierebbe da sola in base al periodo.
 # rotazione = "settimane" (predefinito) | "giorni" | "mesi"
 # Per aggiungere una foto: copia un blocco [[params.hero.foto]]
 # ---------------------------------------------------------------
 [params.hero]
   rotazione = "settimane"
-
-  [[params.hero.foto]]
-    file = "/images/bilquis-campionessa-hero.avif"
-    w = 800
-    h = 976
-    alt = "JCH CH Bilquis Goddess Diabhal, Campionessa Italiana Staffordshire Bull Terrier, in posa sul ring di esposizione"
-    title = "Bilquis Goddess Diabhal — Campionessa Italiana"
-    didascalia = "Bilquis Goddess Diabhal — Campionessa Italiana ENCI, 4ª al World Dog Show 2024"
-    altEn = "JCH CH Bilquis Goddess Diabhal, Italian Champion Staffordshire Bull Terrier, stacked in the show ring"
-    titleEn = "Bilquis Goddess Diabhal — Italian Champion"
-    didascaliaEn = "Bilquis Goddess Diabhal — Italian Champion ENCI, 4th at the World Dog Show 2024"
-    altDe = "JCH CH Bilquis Goddess Diabhal, Italienische Championin Staffordshire Bull Terrier, im Ausstellungsring aufgestellt"
-    titleDe = "Bilquis Goddess Diabhal — Italienische Championin"
-    didascaliaDe = "Bilquis Goddess Diabhal — Italienische Championin ENCI, 4. bei der World Dog Show 2024"
-
-  [[params.hero.foto]]
-    file = "/images/lothar-matthaus-esposizione.avif"
-    w = 620
-    h = 983
-    alt = "JCH Lothar Matthäus del Piccolo Diavolo, Staffordshire Bull Terrier tigrato in posa da esposizione"
-    title = "Lothar Matthäus del Piccolo Diavolo — Giovane Campione Italiano"
-    didascalia = "Lothar Matthäus — Giovane Campione Italiano, figlio di Bullbrothers Hott as Hell"
-    altEn = "JCH Lothar Matthäus del Piccolo Diavolo, brindle Staffordshire Bull Terrier stacked for the show ring"
-    titleEn = "Lothar Matthäus del Piccolo Diavolo — Italian Junior Champion"
-    didascaliaEn = "Lothar Matthäus — Italian Junior Champion, son of Bullbrothers Hott as Hell"
-    altDe = "JCH Lothar Matthäus del Piccolo Diavolo, gestromter Staffordshire Bull Terrier in Ausstellungspose"
-    titleDe = "Lothar Matthäus del Piccolo Diavolo — Italienischer Jugendchampion"
-    didascaliaDe = "Lothar Matthäus — Italienischer Jugendchampion, Sohn von Bullbrothers Hott as Hell"
 
   [[params.hero.foto]]
     file = "/images/divine-cucciola-tre-mesi.avif"

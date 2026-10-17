@@ -97,6 +97,8 @@ The newest post also feeds the "latest litter" section of the Puppies page (`<!-
 
 ### Hero photo rotation and the weekly rebuild
 
+17/10/2026 (Paolo): rotation switched off. Only one `[[params.hero.foto]]` is left (Divine, `divine-cucciola-tre-mesi.avif`), so the Home photo never changes; add blocks back to restart the rotation.
+
 `layouts/partials/hero-foto.html` picks one entry from the `[[params.hero.foto]]` array in `hugo.toml` using `now` (`rotazione = "settimane" | "giorni" | "mesi"`). Selection happens **at build time**, so the photo only changes when the site is rebuilt — that is what `.github/workflows/ricostruzione-settimanale.yml` is for: every Monday it POSTs to a Cloudflare Pages deploy hook (repo secret `CLOUDFLARE_DEPLOY_HOOK`). Each photo entry carries `alt`/`title`/`didascalia` plus `altEn`/`altDe` etc. variants; missing translations fall back to the Italian.
 
 ### CSS
