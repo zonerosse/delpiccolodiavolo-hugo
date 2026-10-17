@@ -1,7 +1,7 @@
 ---
 title: "Reisen und Transport mit Staffordshire Bull Terrier"
 date: 2024-04-07
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 translationKey: "viaggi"
 in_breve:
   - "Drei Dinge werden vorbereitet: **Papiere, Transport und Pausen**."
@@ -37,7 +37,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/de/" title="Home">Home</a> ›
   <a href="/de/blog/" title="Blog">Blog</a> ›
-  <span>Reisen mit Staffy</span>
+  <span>Reisen mit dem Staffy</span>
   </nav>
 
   <div class="article-container">
@@ -64,12 +64,12 @@ custom_content: |
   <tr><td><strong>Trenngitter im Kofferraum</strong></td><td>Bewegungsfreiheit</td><td>Weniger Schutz als eine Box</td><td>Nur Kombi und SUV</td></tr>
   </tbody>
   </table>
-  <p>Für diese Rasse gilt eine besonders ernste Warnung: <strong>lassen Sie den Hund niemals im geparkten Auto</strong> — nicht 5 Minuten, nicht bei geöffnetem Fenster, nicht im Schatten. Ein dichter, dunkel behaarter Hund mit kurzem Fang erreicht eine gefährliche Körpertemperatur weit schneller, als die meisten Halter glauben, und die Innentemperatur eines geparkten Autos steigt im italienischen Sommer binnen einer Viertelstunde um zwanzig Grad.</p>
+  <p>Für diese Rasse gilt eine besonders ernste Warnung: <strong>lassen Sie den Hund niemals im geparkten Auto</strong>, nicht 5 Minuten, nicht bei geöffnetem Fenster, nicht im Schatten. Ein kompakter, muskulöser Hund, besonders mit dunklem Fell, erreicht eine gefährliche Körpertemperatur weit schneller, als die meisten Halter glauben, und die Innentemperatur eines geparkten Autos steigt im italienischen Sommer binnen einer Viertelstunde um zwanzig Grad.</p>
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
   <h2>Reiseübelkeit vorbeugen und behandeln</h2>
-  <p>Reisekrankheit ist bei Welpen häufig und bessert sich meist mit dem Alter. Sie wird durch Angst verstärkt, und die Verknüpfung mit Erbrechen wird schnell gelernt — die ersten Fahrten wiegen deshalb besonders schwer.</p>
+  <p>Reisekrankheit ist bei Welpen häufig und bessert sich meist mit dem Alter. Sie wird durch Angst verstärkt, und die Verknüpfung mit Erbrechen wird schnell gelernt: Die ersten Fahrten wiegen deshalb besonders schwer.</p>
   <p>Fahren Sie mit leerem Magen oder mit einer sehr kleinen Mahlzeit 3 Stunden vorher. Positionieren Sie den Hund so, dass er nach vorn schaut und den Horizont sieht; deshalb funktioniert eine Box im Kofferraum mit Blick durch die Rücksitze besser als der Fußraum. Halten Sie den Innenraum kühl und ruhig, lüften Sie, statt die Klimaanlage aufzudrehen, und halten Sie alle 2 Stunden an.</p>
   <p>Bauen Sie Toleranz gezielt auf: erst im stehenden Auto mit ausgeschaltetem Motor sitzen und belohnen, dann eine Zweiminutenfahrt, die an einem angenehmen Ort endet, dann 5 Minuten. Ziel ist, dass die meisten Fahrten in einem Park enden und nicht beim Tierarzt.</p>
   <!--/BLOCCO:3-->
@@ -78,19 +78,19 @@ custom_content: |
   <h2>Flugreisen</h2>
   <p>Hier zählt die Rasse enorm, und hier kursieren besonders viele Fehlinformationen. Viele Fluggesellschaften stufen den Staffordshire Bull Terrier <a href="/de/boas-staffordshire-bull-terrier-atmung/" title="BOAS und Atmung beim Staffordshire Bull Terrier">als brachyzephal</a> oder als <a href="/de/staffy-gefaehrliche-rasse-gesetz/" title="Ist der Staffordshire Bull Terrier gefährlich? Gesetzeslage">Listenhund</a> ein und befördern ihn nicht im Frachtraum, in mehreren Fällen ganzjährig nicht. Andere verhängen Sommersperren für alle kurznasigen Rassen wegen des erhöhten Risikos für Atemnot und Todesfälle im Frachtraum.</p>
   <p>Praktisch heißt das: prüfen Sie die aktuelle Politik der konkreten Fluggesellschaft vor der Buchung, nicht danach. Liegt der Hund samt Transportbox unter der Kabinengrenze, ist die Kabine weit sicherer als der Frachtraum. Buchen Sie den frühesten oder spätesten Flug, wählen Sie Direktverbindungen und verwenden Sie eine IATA-konforme Box, in der der Hund seit Wochen zu Hause schläft.</p>
-  <p>Sedierung ist bei Flugreisen kontraindiziert und bei den meisten Fluggesellschaften untersagt. Beruhigungsmittel dämpfen Atmung und Wärmeregulation — genau die falsche Wirkung bei einer Rasse mit ohnehin beanspruchten Atemwegen in der Höhe.</p>
+  <p>Sedierung ist bei Flugreisen kontraindiziert und bei den meisten Fluggesellschaften untersagt. Beruhigungsmittel dämpfen Atmung und Wärmeregulation, genau die falsche Wirkung im Frachtraum, in der Höhe, bei Stress und Hitze.</p>
   <!--/BLOCCO:4-->
 
   <!--BLOCCO:5-->
   <h2>Dokumente für Reisen in Europa</h2>
   <p>Innerhalb der Europäischen Union braucht ein Hund einen Mikrochip, einen EU-<a href="https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/travelling-pet-within-eu_en" title="Reisen mit Heimtieren innerhalb der EU, Europäische Kommission" target="_blank" rel="noopener" aria-label="Heimtierausweis – Reisen mit Heimtieren innerhalb der EU, Europäische Kommission (wird in einem neuen Tab geöffnet)">Heimtierausweis</a> von einem ermächtigten Tierarzt und eine gültige Tollwutimpfung, die nach dem Chippen und mindestens einundzwanzig Tage vor der Reise erfolgt sein muss. Diese Wartefrist wird am häufigsten übersehen und lässt sich nicht verkürzen.</p>
-  <p>Manche Länder verlangen mehr: eine tierärztlich verabreichte Bandwurmbehandlung zwischen vierundzwanzig und hundertzwanzig Stunden vor der Einreise gilt für Irland, Finnland, Malta und Norwegen. Und für diese Rasse besonders wichtig: mehrere Länder beschränken oder verbieten den Staffordshire Bull Terrier — prüfen Sie die Rassegesetzgebung des Ziellandes ebenso sorgfältig wie die Gesundheitsvorschriften.</p>
+  <p>Manche Länder verlangen mehr: eine tierärztlich verabreichte Bandwurmbehandlung zwischen vierundzwanzig und hundertzwanzig Stunden vor der Einreise gilt für Irland, Finnland, Malta und Norwegen. Und für diese Rasse besonders wichtig: Manche Länder beschränken ihn: In Deutschland zum Beispiel darf ein Staffy nicht eingeführt werden, um dort zu leben, ein Urlaub von bis zu vier Wochen ist dagegen erlaubt. Prüfen Sie die Rassegesetzgebung des Ziellandes ebenso sorgfältig wie die Gesundheitsvorschriften; sie steht auf der Seite <a href="/de/staffy-gefaehrliche-rasse-gesetz/" title="Ist der Staffy gefährlich? Was das Gesetz sagt">Staffy und Gesetz</a>.</p>
   <p>Für Welpen, die im Ausland leben werden, bereiten wir Heimtierausweis, Impfungen und erforderliche Behandlungen vor und weisen die Familien offen auf Beschränkungen im Zielland hin: beim ersten Gespräch, nicht bei der Übergabe.</p>
   <!--/BLOCCO:5-->
 
   <!--BLOCCO:6-->
   <h2>Bahn, Fähre und öffentlicher Verkehr</h2>
-  <p>In Italien reisen Hunde bei Trenitalia und Italo mit mitgeführtem Maulkorb und an der Leine, mit einer Fahrkarte für mittlere und große Hunde, in den meisten Klassen. Fährgesellschaften handhaben es sehr unterschiedlich: manche erlauben Hunde in der Kabine, andere verweisen sie in Zwinger an Deck, was im Sommer für diese Rasse ein echtes Wohlbefindensproblem ist. Fragen Sie bei der Buchung ausdrücklich nach klimatisierten Zwingern oder tierfreundlichen Kabinen.</p>
+  <p>In Italien reisen mittlere und große Hunde bei Trenitalia und Italo an der Leine und mit Maulkorb während der ganzen Fahrt, mit eigener Fahrkarte; bei Italo nur in bestimmten Bereichen des Zuges, also bei der Buchung nachfragen. Fährgesellschaften handhaben es sehr unterschiedlich: manche erlauben Hunde in der Kabine, andere verweisen sie in Zwinger an Deck, was im Sommer für diese Rasse ein echtes Wohlbefindensproblem ist. Fragen Sie bei der Buchung ausdrücklich nach klimatisierten Zwingern oder tierfreundlichen Kabinen.</p>
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->
@@ -102,7 +102,7 @@ custom_content: |
   <!--BLOCCO:8-->
   <h2>Eine Checkliste vor jeder langen Reise</h2>
   <p>Heimtierausweis und Impfnachweis bei den eigenen Papieren. Die Mikrochipnummer zusätzlich an anderer Stelle notiert. Genug vom gewohnten Futter für die ganze Reise plus 2 Tage. Wasser und ein Faltnapf in Reichweite, nicht im Kofferraum. Das eigene Bett des Hundes. Ein aktuelles Foto auf dem Handy, wichtig, wenn der Hund im Ausland verloren geht. Die Adresse einer Tierarztpraxis am Ziel. Und für Sommerreisen eine Kühlmatte und ein Plan, wo der Hund um die Mittagszeit sein wird.</p>
-  <p>Beurteilen Sie die Reise schließlich nach dem Hund, nicht nach der Route. Vierzehn Stunden Autofahrt im August mit einem Hund mit kurzem Fang sind eine schlechte Idee, egal wie gut Sie ausgerüstet sind. Die Strecke auf 2 Tage zu verteilen oder nachts zu fahren ist kein Luxus: bei dieser Rasse ist es der Unterschied zwischen Urlaub und Notfall.</p>
+  <p>Beurteilen Sie die Reise schließlich nach dem Hund, nicht nach der Route. Vierzehn Stunden Autofahrt im August mit einem muskulösen Hund, der unter Hitze leidet, sind eine schlechte Idee, egal wie gut Sie ausgerüstet sind. Die Strecke auf 2 Tage zu verteilen oder nachts zu fahren ist kein Luxus: bei dieser Rasse ist es der Unterschied zwischen Urlaub und Notfall.</p>
   <!--/BLOCCO:8-->
 
   <!--BLOCCO:9-->
@@ -123,7 +123,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Kann ein Staffy fliegen?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Technisch ja, aber es muss ernsthaft abgewogen werden, weil die Rasse einen verkürzten Fang hat. Mehrere Fluggesellschaften beschränken oder verbieten brachyzephale Hunde im Frachtraum, gerade wegen des Atemrisikos durch Stress und Temperatur: die Regeln wechseln von Gesellschaft zu Gesellschaft und müssen auf deren eigener Website geprüft werden, nicht im Reisebüro erfragt. In der Kabine dürfen nur Hunde bis etwa acht bis zehn Kilo reisen, ein erwachsener Staffy fällt also fast nie darunter. Die praktische Folge ist einfach: für diese Rasse <strong>bleibt das Auto das beste Verkehrsmittel</strong>, mit Pausen alle zwei bis drei Stunden. Für die Welpen der Zucht Del Piccolo Diavolo stellt sich die Frage nicht: wir verschicken keine Hunde und schicken sie nicht in den Frachtraum; wer einen nimmt, holt ihn ab.
+  <div class="faq-answer">Technisch ja, aber es muss ernsthaft abgewogen werden. Der Staffy ist keine brachyzephale Rasse, doch viele Fluggesellschaften behandeln ihn so und beschränken oder verbieten ihn im Frachtraum, gerade wegen des Atemrisikos durch Stress und Temperatur: die Regeln wechseln von Gesellschaft zu Gesellschaft und müssen auf deren eigener Website geprüft werden, nicht im Reisebüro erfragt. In der Kabine dürfen nur Hunde bis etwa acht bis zehn Kilo reisen, ein erwachsener Staffy fällt also fast nie darunter. Die praktische Folge ist einfach: für diese Rasse <strong>bleibt das Auto das beste Verkehrsmittel</strong>, mit Pausen alle zwei bis drei Stunden. Für die Welpen der Zucht Del Piccolo Diavolo stellt sich die Frage nicht: wir verschicken keine Hunde und schicken sie nicht in den Frachtraum; wer einen nimmt, holt ihn ab.
   </div>
   </div>
 
@@ -132,7 +132,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie regle ich die Pausen auf der Reise?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Eine Pause alle <strong>zwei bis drei Stunden</strong> für einen Erwachsenen, alle anderthalb Stunden für einen Welpen, immer an der Leine, auch in eingezäunten Bereichen: ein orientierungsloser Hund auf einem Autobahnrastplatz ist die Situation, in der die meisten Hunde verloren gehen. Füttern Sie am besten in den drei bis vier Stunden vor der Abfahrt nicht, Wasser dagegen bei jeder Pause, wenig und oft. Nützlich sind eine saugfähige Unterlage für den Kofferraum und ein paar Beutel mehr. Auf sehr langen Fahrten legen Sie die erste Pause früh ein, innerhalb der ersten Stunde: sie zeigt, wie es dem Hund geht, und löst die anfängliche Anspannung. Zu Hause angekommen, geht ein Hund, der sich viele Stunden nicht lösen konnte, hinaus, bevor das Gepäck ausgeladen wird.
+  <div class="faq-answer">Eine Pause alle <strong>zwei Stunden</strong> für einen Erwachsenen, alle anderthalb Stunden für einen Welpen, immer an der Leine, auch in eingezäunten Bereichen: ein orientierungsloser Hund auf einem Autobahnrastplatz ist die Situation, in der die meisten Hunde verloren gehen. Füttern Sie am besten in den drei bis vier Stunden vor der Abfahrt nicht, Wasser dagegen bei jeder Pause, wenig und oft. Nützlich sind eine saugfähige Unterlage für den Kofferraum und ein paar Beutel mehr. Auf sehr langen Fahrten legen Sie die erste Pause früh ein, innerhalb der ersten Stunde: sie zeigt, wie es dem Hund geht, und löst die anfängliche Anspannung. Zu Hause angekommen, geht ein Hund, der sich viele Stunden nicht lösen konnte, hinaus, bevor das Gepäck ausgeladen wird.
   </div>
   </div>
 

@@ -2,7 +2,7 @@
 title: "Staffy travel and transport"
 date: 2024-04-07
 titleSeo: "Travelling with a Staffordshire Bull Terrier: car and train"
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 translationKey: "viaggi"
 in_breve:
   - "Three things are prepared: **documents, transport and stops**."
@@ -38,7 +38,7 @@ custom_content: |
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/en/" title="Home">Home</a> ›
   <a href="/en/blog/" title="Blog">Blog</a> ›
-  <span>Travel and Transport</span>
+  <span>Travel and transport</span>
   </nav>
 
   <div class="article-container">
@@ -65,7 +65,7 @@ custom_content: |
   <tr><td><strong>Boot divider</strong></td><td>Freedom of movement</td><td>Less protection than a crate</td><td>Estate cars and SUVs only</td></tr>
   </tbody>
   </table>
-  <p>For this breed there is a specific and serious warning: <strong>never leave the dog in a parked car</strong>, not for 5 minutes, not with the windows open, not in the shade. A dense, dark-coated, short-muzzled dog reaches a dangerous body temperature far faster than most owners believe, and the temperature inside a parked car in Italian summer rises by twenty degrees within a quarter of an hour.</p>
+  <p>For this breed there is a specific and serious warning: <strong>never leave the dog in a parked car</strong>, not for 5 minutes, not with the windows open, not in the shade. A dense, muscular dog, especially one with a dark coat, reaches a dangerous body temperature far faster than most owners believe, and the temperature inside a parked car in Italian summer rises by twenty degrees within a quarter of an hour.</p>
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
@@ -77,21 +77,21 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>Air travel</h2>
-  <p>This is where breed matters enormously, and where a great deal of misinformation circulates. Many airlines classify the Staffordshire Bull Terrier as <a href="/en/boas-staffordshire-bull-terrier-breathing/" title="BOAS and breathing in the Staffordshire Bull Terrier">brachycephalic or as a restricted breed</a>, and refuse to carry it in the hold — in several cases, at any time of year. Others impose summer embargoes on all snub-nosed breeds because of the elevated risk of respiratory distress and death in cargo.</p>
+  <p>This is where breed matters enormously, and where a great deal of misinformation circulates. Many airlines classify the Staffordshire Bull Terrier as <a href="/en/boas-staffordshire-bull-terrier-breathing/" title="BOAS and breathing in the Staffordshire Bull Terrier">brachycephalic or as a restricted breed</a>, and refuse to carry it in the hold, in several cases at any time of year. Others impose summer embargoes on all snub-nosed breeds because of the elevated risk of respiratory distress and death in cargo.</p>
   <p>The practical consequences: check the specific airline's current policy before booking anything, not after. Where the dog is under the cabin weight limit including carrier, cabin travel is far safer than the hold. Book the earliest or latest flight to avoid heat, choose direct flights, and use an IATA-compliant carrier that the dog has been sleeping in at home for weeks beforehand.</p>
-  <p>Sedation is contraindicated for air travel and most airlines prohibit it. Sedatives depress respiration and thermoregulation, which is precisely the wrong effect in a breed with a compromised airway at altitude.</p>
+  <p>Sedation is contraindicated for air travel and most airlines prohibit it. Sedatives depress respiration and thermoregulation, which is precisely the wrong effect in the hold, at altitude, with stress and heat.</p>
   <!--/BLOCCO:4-->
 
   <!--BLOCCO:5-->
   <h2>Documents for european travel</h2>
   <p>Within the European Union, a dog needs a microchip, an EU pet <a href="https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/travelling-pet-within-eu_en" title="Travelling with a pet within the EU, European Commission" target="_blank" rel="noopener" aria-label="passport – Travelling with a pet within the EU, European Commission (opens in a new tab)">passport</a> issued by an authorised veterinarian, and a valid rabies vaccination administered after the microchip and at least 21 days before travel. That waiting period is the detail most often missed and it cannot be shortened.</p>
-  <p>Some countries add requirements: tapeworm treatment administered by a veterinarian between twenty-four and 120 hours before entry is required for Ireland, Finland, Malta and Norway. And, importantly for this breed, several countries restrict or prohibit the Staffordshire Bull Terrier entirely — check the destination's breed legislation as carefully as its health requirements.</p>
+  <p>Some countries add requirements: tapeworm treatment administered by a veterinarian between twenty-four and 120 hours before entry is required for Ireland, Finland, Malta and Norway. And, importantly for this breed, some countries restrict it: in Germany, for example, a Staffy cannot be brought in to live there, while a holiday of up to four weeks is allowed. Check the destination's breed legislation as carefully as its health requirements; it is on the page <a href="/en/staffy-dangerous-breed-law/" title="Is the Staffy dangerous? What the law says">Staffy and the law</a>.</p>
   <p>For puppies going to live abroad, we prepare the passport, the vaccinations and the required treatments, and we tell families plainly when the destination country has restrictions: at the first conversation, not at handover.</p>
   <!--/BLOCCO:5-->
 
   <!--BLOCCO:6-->
   <h2>Trains, ferries and public transport</h2>
-  <p>In Italy, dogs travel on Trenitalia and Italo services with a muzzle available and a lead, on a ticket for medium and large dogs, in most classes. Ferry operators vary widely: some allow dogs in cabins, others confine them to kennels on deck, which in summer is a genuine welfare concern for this breed. Ask specifically about air-conditioned kennels or pet-friendly cabins when booking.</p>
+  <p>In Italy, medium and large dogs travel on Trenitalia and Italo services on a lead and muzzled for the whole journey, with their own ticket; on Italo only in some parts of the train, so check when booking. Ferry operators vary widely: some allow dogs in cabins, others confine them to kennels on deck, which in summer is a genuine welfare concern for this breed. Ask specifically about air-conditioned kennels or pet-friendly cabins when booking.</p>
   <p>Urban public transport rules are set locally and change, so check the operator rather than assuming.</p>
   <!--/BLOCCO:6-->
 
@@ -104,7 +104,7 @@ custom_content: |
   <!--BLOCCO:8-->
   <h2>A checklist before any long journey</h2>
   <p>Passport and vaccination record with your own documents. Microchip number written somewhere separate. Enough of the usual food for the whole trip plus 2 days. Water and a collapsible bowl within reach, not in the boot. The dog's own bed. A recent photograph on your phone, which matters if the dog is lost abroad. The address of a veterinary practice at the destination. And, for summer travel, a cooling mat and a plan for where the dog will be at midday.</p>
-  <p>Finally, judge the journey by the dog rather than the itinerary. A fourteen-hour drive in August with a short-muzzled dog is a bad idea however well equipped you are. Splitting it across 2 days, or travelling overnight, is not an indulgence: for this breed it is the difference between a holiday and an emergency.</p>
+  <p>Finally, judge the journey by the dog rather than the itinerary. A fourteen-hour drive in August with a muscular dog that suffers in the heat is a bad idea however well equipped you are. Splitting it across 2 days, or travelling overnight, is not an indulgence: for this breed it is the difference between a holiday and an emergency.</p>
   <!--/BLOCCO:8-->
 
   <!--BLOCCO:9-->
@@ -125,7 +125,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Can a Staffy travel by air?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Technically yes, but it needs serious thought because the breed has a shortened muzzle. Several airlines restrict or ban brachycephalic dogs in the hold, precisely because of the breathing risk linked to stress and temperature: the rules change from carrier to carrier and must be checked on the airline's own website, not asked at a travel agency. Only dogs under about eight to ten kilos can travel in the cabin, so an adult Staffy almost never qualifies. The practical consequence is simple: for this breed <strong>the car remains the best way to travel</strong>, with stops every two to three hours. For Del Piccolo Diavolo puppies the question does not arise: we do not ship dogs or send them in the hold; whoever takes one comes to collect it.
+  <div class="faq-answer">Technically yes, but it needs serious thought. The Staffy is not a brachycephalic breed, but many airlines treat it as one and restrict or ban it in the hold, precisely because of the breathing risk linked to stress and temperature: the rules change from carrier to carrier and must be checked on the airline's own website, not asked at a travel agency. Only dogs under about eight to ten kilos can travel in the cabin, so an adult Staffy almost never qualifies. The practical consequence is simple: for this breed <strong>the car remains the best way to travel</strong>, with stops every two to three hours. For Del Piccolo Diavolo puppies the question does not arise: we do not ship dogs or send them in the hold; whoever takes one comes to collect it.
   </div>
   </div>
 
@@ -134,7 +134,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How do I manage toilet breaks on a journey?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">A stop every <strong>two to three hours</strong> for an adult, every hour and a half for a puppy, always on the lead even in fenced areas: a disoriented dog at a motorway service area is the situation in which more dogs are lost than any other. It is best not to feed in the three or four hours before departure, while water should be offered at every stop, a little and often. An absorbent sheet for the boot and a few extra bags are useful. On a very long journey, make the first stop early, within the first hour: it lets you check how the dog is doing and breaks the initial tension. On arriving home, a dog that has not relieved itself for many hours goes out before the luggage is even unloaded.
+  <div class="faq-answer">A stop every <strong>two hours</strong> for an adult, every hour and a half for a puppy, always on the lead even in fenced areas: a disoriented dog at a motorway service area is the situation in which more dogs are lost than any other. It is best not to feed in the three or four hours before departure, while water should be offered at every stop, a little and often. An absorbent sheet for the boot and a few extra bags are useful. On a very long journey, make the first stop early, within the first hour: it lets you check how the dog is doing and breaks the initial tension. On arriving home, a dog that has not relieved itself for many hours goes out before the luggage is even unloaded.
   </div>
   </div>
 
@@ -169,7 +169,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
+  <a class="btn" href="/en/blog/" title="Back to the blog">&larr; Back to the blog</a>
   </div>
   <!--/BLOCCO:9-->
 
