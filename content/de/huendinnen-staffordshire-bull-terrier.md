@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Hündinnen"
 date: 2025-12-28
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "femmine"
 description: "Staffordshire Bull Terrier Hündinnen: Bilquis (Top Dog Junior 2023), Queen of California, Croi Olc, Divine, Kennedy, Derry, Cattleya. Gentests L2HGA, HC, DM-SOD1."
@@ -15,13 +15,13 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Ausgewählte Zuchthündinnen</span>
+  <span class="hero-eyebrow">Unsere Hündinnen</span>
   <h1 class="hero-title">Hündinnen <br><em>Staffordshire</em> <br>Bull Terrier</h1>
-  <p class="hero-subtitle">DNA getestet, frei von L2HGA und HC (HSF4)</p>
-  <p class="hero-description">Unsere Zuchthündinnen werden nach Gesundheit, Charakter und Rassetypizität ausgewählt. Alle genetisch getestet und konform mit dem <a href="/de/staffy-rassestandard/" title="Rassestandard des Staffordshire Bull Terrier">Rassestandard</a>. Unsere aktiven Zuchthündinnen Bilquis und Croi Olc sind außerdem frei von degenerativer Myelopathie (Gen SOD1).</p>
+  <p class="hero-subtitle">DNA-Test: frei von L2HGA und HC (HSF4)</p>
+  <p class="hero-description">Zu jeder Hündin finden Sie Mikrochip, ENCI-Zuchtbuchnummer, Gentests und Ahnentafel, zum Selbstprüfen, auch am <a href="/de/staffy-rassestandard/" title="Rassestandard des Staffordshire Bull Terrier">Rassestandard</a>. Unsere aktiven Zuchthündinnen Bilquis und Croi Olc sind außerdem frei von degenerativer Myelopathie (Gen SOD1).</p>
   <div class="hero-actions">
   <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20möchte%20Infos%20zu%20den%20Hündinnen" class="btn btn-primary" title="Kontaktieren Sie uns auf WhatsApp">Kontakt</a>
-  <a href="/de/rueden-staffordshire-bull-terrier/" class="btn btn-ghost" title="Unsere Rüden sehen">Rüden Sehen</a>
+  <a href="/de/rueden-staffordshire-bull-terrier/" class="btn btn-ghost" title="Unsere Rüden sehen">Die Rüden ansehen</a>
   </div>
   </div>
   </section>
@@ -69,7 +69,7 @@ custom_content: |
   <a class="doc-link" href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" title="Gentests Bilquis herunterladen" aria-label="Gentests Bilquis herunterladen (wird in einem neuen Tab geöffnet)">📄 Gentests</a>
   <a class="doc-link" href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" title="Echokardiogramm Bilquis herunterladen" aria-label="Echo-Doppler – Echokardiogramm Bilquis herunterladen (wird in einem neuen Tab geöffnet)">📄 Echo-Doppler</a>
   <a class="doc-link" href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Ausstellungsergebnisse von Bilquis aus dem ENCI-Zuchtbuch herunterladen" aria-label="ENCI-Ausstellungen – Ausstellungsergebnisse von Bilquis aus dem ENCI-Zuchtbuch herunterladen (wird in einem neuen Tab geöffnet)">📄 ENCI-Ausstellungen</a>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Stammbaum Bilquis auf SBTPedigree" aria-label="Vollständigen Stammbaum Sehen – Stammbaum Bilquis auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Stammbaum Bilquis auf SBTPedigree" aria-label="Vollständigen Stammbaum sehen – Stammbaum Bilquis auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum sehen →</a>
   <!--ESPOSIZIONI:bilquis-->
   </div>
   </div>
@@ -97,7 +97,7 @@ custom_content: |
   <p><strong>Handler:</strong> Vittoria Passerini</p>
   <p><strong>Titel:</strong> Italienische Jugendchampionin — Albarella (RO), 17. Mai 2026. Jugendklasse V1, JCAC, JBOB, BOB. Bester Staffy — Kynologische Gruppe Polesano.</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Minnies Tochter und ihre Kopie: nicht nur im K&ouml;rperbau, vor allem im Kopf. Dieselbe &Uuml;berschw&auml;nglichkeit, dasselbe st&auml;ndige Verlangen nach Aufmerksamkeit, derselbe Bauch nach oben bei jeder Gelegenheit. Queen lebt nicht bei uns, aber wir sehen sie oft, und Manuela, die Frau des Besitzers, erz&auml;hlt uns jeden Tag, wie es ihr geht: Wenn es hei&szlig;t, das Wesen werde vererbt, ist sie der Beweis, den wir vor Augen haben.</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" title="Stammbaum Queen of California auf SBTPedigree" aria-label="Vollständigen Stammbaum Sehen – Vollständigen Stammbaum des Wurfes auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" title="Stammbaum Queen of California auf SBTPedigree" aria-label="Vollständigen Stammbaum sehen – Vollständigen Stammbaum des Wurfes auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum sehen →</a>
   <!--ESPOSIZIONI:queen-->
   </div>
   </div>
@@ -123,7 +123,7 @@ custom_content: |
   <p><strong>Mutter:</strong> CH. Lackyle Ogbhean an Diabhal</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> &Uuml;berschw&auml;nglich. Sie ruiniert einem die Beine, weil sie hochspringt, um Aufmerksamkeit zu bekommen, und leckt dann so lange, bis man selbst aufgibt. Auch sie liegt beim kleinsten Anlass mit dem Bauch nach oben.</p>
   <a class="doc-link" href="/docs/Minnie-GF.pdf" target="_blank" rel="noopener" title="Gentests Croi Olc herunterladen" aria-label="Gentests Croi Olc herunterladen (wird in einem neuen Tab geöffnet)">📄 Gentests</a>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="Stammbaum Croi Olc auf SBTPedigree" aria-label="Vollständigen Stammbaum Sehen – Stammbaum Croi Olc auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="Stammbaum Croi Olc auf SBTPedigree" aria-label="Vollständigen Stammbaum sehen – Stammbaum Croi Olc auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum sehen →</a>
   <!--ESPOSIZIONI:croiolc-->
   </div>
   </div>
@@ -146,8 +146,8 @@ custom_content: |
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> CH. Dangerous Smile Black Shadow</p>
   <p><strong>Mutter:</strong> CH. Sonrisa Feliz Keely Lariel</p>
-    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Sie hat Feuer, wenn man es zul&auml;sst: nie m&uuml;de, eine echte Nervens&auml;ge. Dann kommt mein Sohn, und sie verwandelt sich &mdash; sie klettert in den Sessel und spielt Ball, indem sie ihn mit der Nase st&ouml;&szlig;t, wie ein Seehund.</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1775592" target="_blank" rel="noopener" title="Stammbaum Divine auf SBTPedigree" aria-label="Vollständigen Stammbaum Sehen – Stammbaum Divine auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
+    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Sie hat Feuer, wenn man es zul&auml;sst: nie m&uuml;de, eine echte Nervens&auml;ge. Dann kommt mein Sohn, und sie verwandelt sich: Sie klettert in den Sessel und spielt Ball, indem sie ihn mit der Nase st&ouml;&szlig;t, wie ein Seehund.</p>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1775592" target="_blank" rel="noopener" title="Stammbaum Divine auf SBTPedigree" aria-label="Vollständigen Stammbaum sehen – Stammbaum Divine auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum sehen →</a>
   <!--ESPOSIZIONI:faiter-->
   </div>
   </div>
@@ -172,7 +172,7 @@ custom_content: |
   <p><strong>Vater:</strong> CH. Hell's Angel</p>
   <p><strong>Mutter:</strong> CH. Mellowstaff by Great'n Glory</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Als echte Deutsche gibt sie keinen Zentimeter nach: immer aufmerksam, mit ordentlich Pfeffer. Und doch so respektvoll, dass sie die Hündin meiner betagten Eltern geworden ist. Sie lebt bei ihnen und begleitet sie überall hin: bei den Spaziergängen, im Hof, beim Wäscheaufhängen, beim Müll hinausbringen. Und sie würde es auch ohne Leine tun, wenn wir es zuließen: von den Füßen meiner Mutter weicht sie keinen Meter.</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1054244" target="_blank" rel="noopener" title="Stammbaum Kennedy auf SBTPedigree" aria-label="Vollständigen Stammbaum Sehen – Stammbaum Kennedy auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1054244" target="_blank" rel="noopener" title="Stammbaum Kennedy auf SBTPedigree" aria-label="Vollständigen Stammbaum sehen – Stammbaum Kennedy auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum sehen →</a>
   <!--ESPOSIZIONI:jackie-->
   </div>
   </div>
@@ -198,7 +198,7 @@ custom_content: |
   <p><strong>Vater:</strong> CH. Kiraloebis Italian Gigalo (Top UK Staffordshire Bull Terrier 2012)</p>
   <p><strong>Mutter:</strong> Lackyle Duilleog Daracha</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Die alte Dame des Hauses, die Chefin. Sie kontrolliert alles und jeden und versucht, sich in jeder Lage Haltung zu geben &mdash; dann merkt sie, dass sie doch ein Staffy ist, und kann dem Schmusen nicht widerstehen. Eine Nervens&auml;ge, die immer im Mittelpunkt stehen will. Ihr Kissen liegt auf dem Teppich neben meinem Bett.</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=789829" target="_blank" rel="noopener" title="Stammbaum Derry auf SBTPedigree" aria-label="Vollständigen Stammbaum Sehen – Stammbaum Derry auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=789829" target="_blank" rel="noopener" title="Stammbaum Derry auf SBTPedigree" aria-label="Vollständigen Stammbaum sehen – Stammbaum Derry auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum sehen →</a>
   <!--ESPOSIZIONI:nutella-->
   </div>
   </div>
@@ -223,7 +223,7 @@ custom_content: |
   <p><strong>Vater:</strong> THE Phenomenal AJ Styles Valconcaclan</p>
   <p><strong>Mutter:</strong> Foyleoak Maiden Derry</p>
   <p><strong>Besitzerin:</strong> Ricarda Mazzola Wagner</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4477342" target="_blank" rel="noopener" title="Stammbaum Cattleya auf SBTPedigree" aria-label="Vollständigen Stammbaum Sehen – Stammbaum Cattleya auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4477342" target="_blank" rel="noopener" title="Stammbaum Cattleya auf SBTPedigree" aria-label="Vollständigen Stammbaum sehen – Stammbaum Cattleya auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum sehen →</a>
   <!--ESPOSIZIONI:cattleya-->
   </div>
   </div>
@@ -251,7 +251,7 @@ custom_content: |
   <p><strong>Letzter Wurf:</strong> <a href="/de/diario-allevamento/wurf-red-nora-februar-2026/" title="Wurf Red × Nora, Februar 2026">Red × Nora, 9. Februar 2026</a>: Eltern, Tests, Untersuchungen und Wachstum im Tagebuch</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Wesen.</strong> Wir nannten sie Yoghi, wie den B&auml;ren: ein Bulldozer ohne Bremsen, voller Energie, und im Grunde ein Teddyb&auml;r f&uuml;r den Sessel, das Sofa oder das Bett, wenn man es zulie&szlig;.</p>
   <a class="doc-link" href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" title="Gentests Nora herunterladen" aria-label="Gentests Nora herunterladen (wird in einem neuen Tab geöffnet)">📄 Gentests</a>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="Stammbaum Nora auf SBTPedigree" aria-label="Vollständigen Stammbaum Sehen – Stammbaum Nora auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum Sehen →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="Stammbaum Nora auf SBTPedigree" aria-label="Vollständigen Stammbaum sehen – Stammbaum Nora auf SBTPedigree (wird in einem neuen Tab geöffnet)">Vollständigen Stammbaum sehen →</a>
   <!--ESPOSIZIONI:nora-->
   </div>
   </div>
@@ -265,10 +265,11 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Unser Ansatz</span>
-  <h2 class="section-title">Selektion und Pflege Unserer Hündinnen</h2>
+  <h2 class="section-title">Selektion und Pflege unserer Hündinnen</h2>
 
   <div class="intro-block">
-  <p>Mit Sorgfalt und Verantwortung aufgezogen, werden unsere Hündinnen für <strong>Gesundheit</strong>, <strong>Rassetypizität</strong> und <strong>ausgeglichenes Temperament</strong> selektiert. Jede Verpaarung wird <a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)">auf Basis von Gentests</a> und Linienkompatibilität geplant.</p>
+  <p>Auf dieser Seite stehen acht Staffordshire Bull Terrier Hündinnen: zwei aktive Zuchthündinnen, Bilquis und Croi Olc, drei, die keine Würfe mehr haben, und drei, die anderswo leben. Queen und Cattleya sind hier geboren und als Welpen gegangen: Heute lebt Queen in Bologna und Cattleya in Rimini. Nora habe ich einem sehr guten Freund in Verona geschenkt, der sich in sie verliebt hatte. Auf jeder Karte steht der Name dessen, bei dem sie heute lebt.</p>
+  <p>Wir wählen sie nach <strong>Gesundheit</strong>, <strong>Rassetypizität</strong> und <strong>ausgeglichenem Wesen</strong>. Jede Verpaarung wird <a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)">auf Basis von Gentests</a> und Linienkompatibilität geplant.</p>
   <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Unsere Hündinnen sind getestet auf:</p>
   <p>✓ <strong>L2HGA</strong> — L-2-Hydroxyglutarazidurie<br>
   ✓ <strong>HC</strong> — Hereditäre Katarakt<br>
@@ -283,7 +284,7 @@ custom_content: |
   <!--BLOCCO:4-->
   <section class="cta-section">
   <h2>Möchten Sie Infos über unsere Hündinnen?</h2>
-  <p>Rufen Sie uns an oder schreiben Sie uns auf WhatsApp für Informationen über unsere Zuchthündinnen.</p>
+  <p>Schreiben Sie uns auf WhatsApp, und wir vereinbaren einen Besuch in Ostellato: Die Hündinnen, die hier leben, lernen Sie persönlich kennen.</p>
   <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20möchte%20Infos%20über%20Staffordshire%20Bull%20Terrier%20Hündinnen" class="btn" title="Schreiben Sie uns auf WhatsApp">Auf WhatsApp Schreiben</a>
   </section>
   <!--/BLOCCO:4-->

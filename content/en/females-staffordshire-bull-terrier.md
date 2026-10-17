@@ -2,7 +2,7 @@
 title: "Female Staffordshire Bull Terriers"
 titleSeo: "Our female Staffies: microchips and pedigrees"
 date: 2025-12-28
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "femmine"
 description: "Our female Staffordshire Bull Terriers: Bilquis (Top Dog Junior 2023), Queen of California, Croi Olc, Divine, Kennedy, Derry, Cattleya. L2HGA, HC and DM-SOD1 tested."
@@ -16,13 +16,13 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Selected Breeding Females</span>
+  <span class="hero-eyebrow">Our females</span>
   <h1 class="hero-title">Female <br><em>Staffordshire</em> <br>Bull Terriers</h1>
-  <p class="hero-subtitle">DNA tested, L2HGA and HC (HSF4) clear</p>
-  <p class="hero-description">Our breeding females are selected for health, character and breed type. All genetically tested and conforming to the <a href="/en/staffy-breed-standard/" title="Staffordshire Bull Terrier breed standard">breed standard</a>. Our active breeding females, Bilquis and Croi Olc, are also clear for degenerative myelopathy (SOD1 gene).</p>
+  <p class="hero-subtitle">DNA tested: clear of L2HGA and HC (HSF4)</p>
+  <p class="hero-description">For each female you will find the microchip, the ENCI studbook number, the genetic tests and the pedigree, to check for yourself, against the <a href="/en/staffy-breed-standard/" title="Staffordshire Bull Terrier breed standard">breed standard</a> too. Our active breeding females, Bilquis and Croi Olc, are also clear for degenerative myelopathy (SOD1 gene).</p>
   <div class="hero-actions">
   <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20the%20females" class="btn btn-primary" title="Contact us on WhatsApp">Contact Us</a>
-  <a href="/en/males-staffordshire-bull-terrier/" class="btn btn-ghost" title="See our males">See Males</a>
+  <a href="/en/males-staffordshire-bull-terrier/" class="btn btn-ghost" title="See our males">See the males</a>
   </div>
   </div>
   </section>
@@ -51,8 +51,8 @@ custom_content: |
   <!--BLOCCO:2-->
   <section class="section section-alt">
   <div class="section-inner">
-  <span class="section-label">Our Females</span>
-  <h2 class="section-title">Breeding Females</h2>
+  <span class="section-label">Our females</span>
+  <h2 class="section-title">Breeding females</h2>
 
   <div class="intro-block" style="margin-bottom:2rem">
   <p><strong>How many litters, and how to check.</strong> Our females have <strong>two litters</strong> each on average. You do not have to take our word for it: under every name there is the microchip number, and with that the number of litters can be looked up in the <a href="https://www.enci.it/libro-genealogico/libro-genealogico-on-line" target="_blank" rel="noopener" title="ENCI stud book" aria-label="ENCI stud book (opens in a new tab)">ENCI stud book</a>.</p>
@@ -74,7 +74,7 @@ custom_content: |
   <p><strong>Microchip:</strong> 380260044647848<br>
   <strong>LOI:</strong> LO22197469</p>
   <p><strong>Genetic Tests:</strong> L2HGA & HC (HSF4) clear by DNA</p>
-  <p><strong>Degenerative Myelopathy (SOD1):</strong> Clear by DNA</p>
+  <p><strong>Degenerative myelopathy (SOD1):</strong> Clear by DNA</p>
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> Pablo iuno sospita plata plomo</p>
   <p><strong>Dam:</strong> Skilful-dogs Nora</p>
@@ -82,7 +82,7 @@ custom_content: |
   <a class="doc-link" href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" title="Download Bilquis genetic tests" aria-label="Download Bilquis genetic tests (opens in a new tab)">📄 Genetic Tests</a>
   <a class="doc-link" href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" title="Download Bilquis echocardiogram" aria-label="Doppler Echocardiogram – Download Bilquis echocardiogram (opens in a new tab)">📄 Doppler Echocardiogram</a>
   <a class="doc-link" href="/docs/bilquis-esposizioni-enci.pdf" target="_blank" rel="noopener" title="Download Bilquis show results from the ENCI stud book" aria-label="ENCI show results – Download Bilquis show results from the ENCI stud book (opens in a new tab)">📄 ENCI show results</a>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="View Bilquis pedigree on SBTPedigree" aria-label="View Full Pedigree – View Bilquis pedigree on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="View Bilquis pedigree on SBTPedigree" aria-label="View full pedigree – View Bilquis pedigree on SBTPedigree (opens in a new tab)">View full pedigree →</a>
   <!--ESPOSIZIONI:bilquis-->
   </div>
   </div>
@@ -110,7 +110,7 @@ custom_content: |
   <p><strong>Handler:</strong> Vittoria Passerini</p>
   <p><strong>Title:</strong> Italian Junior Champion — Albarella (RO), 17 May 2026. Junior Class 1st Excellent, JCAC, JBOB, BOB. Best Staffy — Polesano Canine Group.</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Character.</strong> Minnie's daughter, and her carbon copy: not only in build, but above all in the head. The same exuberance, the same constant demand for attention, the same belly up at the drop of a hat. Queen does not live with us, but we see her often and Manuela, her owner's wife, tells us every day how she is: when people say character is inherited, she is the proof we have in front of us.</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" title="View Queen of California pedigree on SBTPedigree" aria-label="View Full Pedigree – View the full pedigree of the litter on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" title="View Queen of California pedigree on SBTPedigree" aria-label="View full pedigree – View the full pedigree of the litter on SBTPedigree (opens in a new tab)">View full pedigree →</a>
   <!--ESPOSIZIONI:queen-->
   </div>
   </div>
@@ -130,13 +130,13 @@ custom_content: |
   <p><strong>Microchip:</strong> 991003001293234<br>
   <strong>LOI:</strong> LO24144140</p>
   <p><strong>Genetic Tests:</strong> L2HGA & HC (HSF4) clear by DNA</p>
-  <p><strong>Degenerative Myelopathy (SOD1):</strong> Clear by DNA</p>
+  <p><strong>Degenerative myelopathy (SOD1):</strong> Clear by DNA</p>
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> Lackyle Trodai Tine</p>
   <p><strong>Dam:</strong> CH. Lackyle Ogbhean an Diabhal</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Character.</strong> Exuberant. She wrecks your legs jumping up for attention, then licks you until you are the one who gives in. She too goes belly up at the slightest excuse.</p>
   <a class="doc-link" href="/docs/Minnie-GF.pdf" target="_blank" rel="noopener" title="Download Croi Olc genetic tests" aria-label="Download Croi Olc genetic tests (opens in a new tab)">📄 Genetic Tests</a>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="View Croi Olc pedigree on SBTPedigree" aria-label="View Full Pedigree – View Croi Olc pedigree on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="View Croi Olc pedigree on SBTPedigree" aria-label="View full pedigree – View Croi Olc pedigree on SBTPedigree (opens in a new tab)">View full pedigree →</a>
   <!--ESPOSIZIONI:croiolc-->
   </div>
   </div>
@@ -159,8 +159,8 @@ custom_content: |
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> CH. Dangerous Smile Black Shadow</p>
   <p><strong>Dam:</strong> CH. Sonrisa Feliz Keely Lariel</p>
-    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Character.</strong> She has fire in her, if you let her: never tired, a proper nuisance. Then my son turns up and she changes &mdash; she climbs into the armchair and plays with the ball, nosing it like a seal.</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1775592" target="_blank" rel="noopener" title="View Divine pedigree on SBTPedigree" aria-label="View Full Pedigree – View Divine pedigree on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
+    <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Character.</strong> She has fire in her, if you let her: never tired, a proper nuisance. Then my son turns up and she changes: she climbs into the armchair and plays with the ball, nosing it like a seal.</p>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1775592" target="_blank" rel="noopener" title="View Divine pedigree on SBTPedigree" aria-label="View full pedigree – View Divine pedigree on SBTPedigree (opens in a new tab)">View full pedigree →</a>
   <!--ESPOSIZIONI:faiter-->
   </div>
   </div>
@@ -185,7 +185,7 @@ custom_content: |
   <p><strong>Sire:</strong> CH. Hell's Angel</p>
   <p><strong>Dam:</strong> CH. Mellowstaff by Great'n Glory</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Character.</strong> A proper German, she does not give an inch: always on the ball, with a peppery little temper. Yet respectful to the point of becoming my elderly parents' dog. She lives with them and goes along with everything: the walks, the yard, hanging out the washing, taking out the rubbish. And she would do it off the lead too, if we let her: she never moves a metre from my mother's feet.</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1054244" target="_blank" rel="noopener" title="View Kennedy pedigree on SBTPedigree" aria-label="View Full Pedigree – View Kennedy pedigree on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=1054244" target="_blank" rel="noopener" title="View Kennedy pedigree on SBTPedigree" aria-label="View full pedigree – View Kennedy pedigree on SBTPedigree (opens in a new tab)">View full pedigree →</a>
   <!--ESPOSIZIONI:jackie-->
   </div>
   </div>
@@ -211,7 +211,7 @@ custom_content: |
   <p><strong>Sire:</strong> CH. Kiraloebis Italian Gigalo (Top UK Staffordshire Bull Terrier 2012)</p>
   <p><strong>Dam:</strong> Lackyle Duilleog Daracha</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Character.</strong> The old lady of the house, the one in charge. She keeps an eye on everything and everyone and tries to look serious in every situation, then remembers she is a Staffy after all and cannot resist being fussed over. A nuisance who always wants to be the centre of attention. Her cushion is on the rug beside my bed.</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=789829" target="_blank" rel="noopener" title="View Derry pedigree on SBTPedigree" aria-label="View Full Pedigree – View Derry pedigree on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=789829" target="_blank" rel="noopener" title="View Derry pedigree on SBTPedigree" aria-label="View full pedigree – View Derry pedigree on SBTPedigree (opens in a new tab)">View full pedigree →</a>
   <!--ESPOSIZIONI:nutella-->
   </div>
   </div>
@@ -236,7 +236,7 @@ custom_content: |
   <p><strong>Sire:</strong> THE Phenomenal AJ Styles Valconcaclan</p>
   <p><strong>Dam:</strong> Foyleoak Maiden Derry</p>
   <p><strong>Owner:</strong> Ricarda Mazzola Wagner</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4477342" target="_blank" rel="noopener" title="View Cattleya pedigree on SBTPedigree" aria-label="View Full Pedigree – View Cattleya pedigree on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4477342" target="_blank" rel="noopener" title="View Cattleya pedigree on SBTPedigree" aria-label="View full pedigree – View Cattleya pedigree on SBTPedigree (opens in a new tab)">View full pedigree →</a>
   <!--ESPOSIZIONI:cattleya-->
   </div>
   </div>
@@ -257,14 +257,14 @@ custom_content: |
   <p><strong>Microchip:</strong> 380260004336944<br>
   <strong>LOI:</strong> LO2199721</p>
   <p><strong>Genetic Tests:</strong> L2HGA & HC (HSF4) clear by DNA</p>
-  <p><strong>Degenerative Myelopathy (SOD1):</strong> Clear by DNA</p>
+  <p><strong>Degenerative myelopathy (SOD1):</strong> Clear by DNA</p>
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> Skilful-Dogs Jeghër</p>
   <p><strong>Dam:</strong> Skilful-Dogs Red Skin</p>
   <p><strong>Latest litter:</strong> <a href="/en/diario-allevamento/red-nora-litter-february-2026/" title="Red × Nora litter, February 2026">Red × Nora, 9 February 2026</a>: parents, tests, examinations and growth in the diary</p>
     <p style="border-top:1px solid rgba(139,115,85,.15);padding-top:.75rem;margin-top:.75rem"><strong>Character.</strong> We used to call her Yogi, after the bear: a bulldozer with no brakes, full of energy, and underneath it all a teddy bear for the armchair, the sofa, or the bed if you let her.</p>
   <a class="doc-link" href="/docs/Nora-Genefast.pdf" target="_blank" rel="noopener" title="Download Nora genetic tests" aria-label="Download Nora genetic tests (opens in a new tab)">📄 Genetic Tests</a>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="View Nora pedigree on SBTPedigree" aria-label="View Full Pedigree – View Nora pedigree on SBTPedigree (opens in a new tab)">View Full Pedigree →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="View Nora pedigree on SBTPedigree" aria-label="View full pedigree – View Nora pedigree on SBTPedigree (opens in a new tab)">View full pedigree →</a>
   <!--ESPOSIZIONI:nora-->
   </div>
   </div>
@@ -281,7 +281,8 @@ custom_content: |
   <h2 class="section-title">Selection and care of our females</h2>
 
   <div class="intro-block">
-  <p>Raised with care and responsibility, our females are selected for <strong>health</strong>, <strong>breed typicality</strong> and <strong>balanced temperament</strong>. Every pairing is planned based on genetic testing and bloodline compatibility.</p>
+  <p>There are eight Staffordshire Bull Terrier females on this page: two active brood bitches, Bilquis and Croi Olc, three that no longer have litters and three that live elsewhere. Queen and Cattleya were born here and left as puppies: today Queen lives in Bologna and Cattleya in Rimini. Nora I gave as a gift to a very dear friend in Verona who had fallen in love with her. Each card gives the name of the person who has her today.</p>
+  <p>We choose them for <strong>health</strong>, <strong>breed type</strong> and <strong>a steady temperament</strong>. Every mating starts from the genetic tests and from how the two dogs' lines fit together.</p>
   <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Our females are tested for:</p>
   <p>✓ <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)"><strong>L2HGA</strong> — L-2-Hydroxyglutaric Aciduria</a><br>
   ✓ <strong>HC</strong> — Hereditary Cataracts<br>
@@ -296,7 +297,7 @@ custom_content: |
   <!--BLOCCO:4-->
   <section class="cta-section">
   <h2>Want info about our females?</h2>
-  <p>Call us or write on WhatsApp for information about our breeding females.</p>
+  <p>Write to us on WhatsApp and we will arrange a visit to Ostellato: you can meet the females that live here in person.</p>
   <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20the%20female%20Staffordshire%20Bull%20Terriers" class="btn" title="Write us on WhatsApp for female info">Write Us on WhatsApp</a>
   </section>
   <!--/BLOCCO:4-->
