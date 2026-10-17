@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier mit Kindern und Familie"
 date: 2024-05-28
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 translationKey: "bambini"
 in_breve:
   - "**Kein Hund darf mit einem kleinen Kind allein gelassen werden**, auch kein Staffy."
@@ -43,13 +43,13 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>Kein Hund irgendeiner Rasse darf mit einem kleinen Kind allein bleiben, und der Staffordshire Bull Terrier ist keine Ausnahme. Sein Beiname Nanny Dog beschreibt eine echte Toleranz, keine Fähigkeit zur Aufsicht. Diese Toleranz kommt aus der Art, wie die Rasse selektiert wurde: im ständigen engen Umgang mit Menschen, wobei jeder Hund, der Aggression gegen eine Person zeigte, aus der Zucht genommen wurde. Ein gut gezüchteter, gut sozialisierter Staffy sucht die Nähe von Menschen, verträgt Anfassen und Lärm bemerkenswert gut und begegnet der Ungeschicklichkeit eines Kindes meist mit Geduld. Das Wesen ist trotzdem von Hund zu Hund verschieden, und die frühe Sozialisierung zählt so viel wie die Genetik. Praktisch hängt die Sicherheit von den Erwachsenen ab: begleitete Begegnungen, Regeln je nach Alter des Kindes, ein Rückzugsort für den Hund und das Erkennen von Stresssignalen, bevor daraus ein Knurren wird. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
+  <p>Kein Hund irgendeiner Rasse darf mit einem kleinen Kind allein bleiben, und der Staffordshire Bull Terrier ist keine Ausnahme. Sein Beiname Nanny Dog, der mit dem Satz des Standards zusammenhängt, er sei besonders zu Kindern liebevoll, beschreibt eine echte Toleranz, keine Fähigkeit zur Aufsicht. Ein gut gezüchteter, gut sozialisierter Staffy sucht die Nähe von Menschen, verträgt Anfassen und Lärm bemerkenswert gut und begegnet der Ungeschicklichkeit eines Kindes meist mit Geduld. Das Wesen ist trotzdem von Hund zu Hund verschieden, und die frühe Sozialisierung zählt so viel wie die Genetik. Praktisch hängt die Sicherheit von den Erwachsenen ab: begleitete Begegnungen, Regeln je nach Alter des Kindes, ein Rückzugsort für den Hund und das Erkennen von Stresssignalen, bevor daraus ein Knurren wird. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
 
 
   <!--BLOCCO:2-->
   <h2>Woher der Ruf kommt</h2>
-  <p>Der Staffordshire Bull Terrier ist eine der wenigen Rassen, deren Standard beim Kennel Club ausdrücklich von vollkommener Zuverlässigkeit spricht, und die einzige, die verbreitet den inoffiziellen Namen Kindermädchen-Hund trägt. Dieser Ruf ist kein Marketing: er stammt aus der Art der Selektion, in ständigem engen Umgang, bei der jeder Hund mit Aggression gegen Menschen ohne Diskussion aus der Zucht genommen wurde.</p>
+  <p>Der Staffordshire Bull Terrier ist eine der wenigen Rassen, deren Standard beim Kennel Club ausdrücklich von vollkommener Zuverlässigkeit spricht, und daher kommt der inoffizielle Name Kindermädchen-Hund. Dieser Ruf ist kein Marketing: er stammt aus der Art der Selektion, in ständigem engen Umgang, bei der jeder Hund mit Aggression gegen Menschen ohne Diskussion aus der Zucht genommen wurde.</p>
   <p>Das Ergebnis ist ein Hund, der die Nähe von Menschen aktiv sucht, Anfassen und Lärm bemerkenswert gut verträgt und auf die Ungeschicklichkeit eines Kindes typischerweise mit Geduld statt mit Ausweichen reagiert.</p>
   <!--/BLOCCO:2-->
 
@@ -86,14 +86,14 @@ custom_content: |
 
   <!--BLOCCO:6-->
   <h2>Warnzeichen, die man ernst nehmen muss</h2>
-  <p>Ein Hund, der über Futter oder Spielzeug erstarrt, wenn ein Kind näher kommt. Ein Hund, der den Raum verlässt, sobald die Kinder hereinkommen. Ein Hund, der zu knurren begonnen hat — oder schlimmer, der nach einer Zurechtweisung aufgehört hat zu knurren. Steifheit, harter Blick, sichtbares Weiß im Auge, plötzlich geschlossenes Maul.</p>
+  <p>Ein Hund, der über Futter oder Spielzeug erstarrt, wenn ein Kind näher kommt. Ein Hund, der den Raum verlässt, sobald die Kinder hereinkommen. Ein Hund, der zu knurren begonnen hat, oder schlimmer, der nach einer Zurechtweisung aufgehört hat zu knurren. Steifheit, harter Blick, sichtbares Weiß im Auge, plötzlich geschlossenes Maul.</p>
   <p>Nichts davon bedeutet, dass Sie einen gefährlichen Hund haben. Es bedeutet, dass die Situation jetzt angepasst werden muss, mit fachlicher Hilfe, und nicht nach einem Vorfall. Ein Knurren ist eine Information, und wer es bestraft, entfernt die Warnung, nicht das Gefühl.</p>
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->
   <h2>Was Familien wirklich gewinnen</h2>
-  <p>Alle Vorsicht beiseite: dies ist eine der besten Familienrassen überhaupt. Die Hunde sind robust genug für einen lebhaften Haushalt, klein genug für eine Wohnung, anhänglich bis zur Komik, und sie binden sich häufig gerade an die Kinder statt an einen einzelnen Erwachsenen.</p>
-  <p>Kinder, die mit einem Hund aufwachsen, lernen Verlässlichkeit, <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Italienische Verordnung vom 6. August 2013 zum Schutz der öffentlichen Sicherheit" target="_blank" rel="noopener" aria-label="Verantwort – Italienische Verordnung vom 6. August 2013 zum Schutz der öffentlichen Sicherheit (wird in einem neuen Tab geöffnet)">Verantwort</a>ung und eine Form von Einfühlung, die sich schwer anders vermitteln lässt. Nach über einem Jahrzehnt Welpenvermittlung wissen wir: die Familien, bei denen es am besten läuft, sind nicht die mit dem größten Garten, sondern die, die den Hund im Haus wollten, mitten im Geschehen — genau dort, wo diese Rasse sein will.</p>
+  <p>Alle Vorsicht beiseite: in einer Familie fühlt sich diese Rasse sehr wohl. Die Hunde sind robust genug für einen lebhaften Haushalt, klein genug für eine Wohnung, anhänglich bis zur Komik, und sie binden sich häufig gerade an die Kinder statt an einen einzelnen Erwachsenen.</p>
+  <p>Kinder, die mit einem Hund aufwachsen, lernen Verlässlichkeit, <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Italienische Verordnung vom 6. August 2013 zum Schutz der öffentlichen Sicherheit" target="_blank" rel="noopener" aria-label="Verantwort – Italienische Verordnung vom 6. August 2013 zum Schutz der öffentlichen Sicherheit (wird in einem neuen Tab geöffnet)">Verantwort</a>ung und eine Form von Einfühlung, die sich schwer anders vermitteln lässt. Nach über einem Jahrzehnt Welpenvermittlung wissen wir: die Familien, bei denen es am besten läuft, sind nicht die mit dem größten Garten, sondern die, die den Hund im Haus wollten, mitten im Geschehen, genau dort, wo diese Rasse sein will.</p>
   <!--/BLOCCO:7-->
 
   <!--BLOCCO:8-->
@@ -162,7 +162,7 @@ custom_content: |
 
   <div class="callout">
   <p class="callout-title">💡 Begleitung nach der Abgabe, ohne Ablaufdatum</p>
-  <p>Eine Familie, die einen Welpen von uns nimmt, bleibt nach der Übergabe nicht allein. Das ganze Hundeleben lang sind wir für Rat zum Zusammenleben mit Kindern, zur Erziehung und zum Alltag erreichbar, auch nach Jahren. Und wenn sich die Umstände eines Tages ändern und der Hund nicht bleiben kann, kommt er hierher zurück.</p>
+  <p>Eine Familie, die einen Welpen von uns nimmt, bleibt nach der Übergabe nicht allein. Das ganze Hundeleben lang sind wir für Rat zum Zusammenleben mit Kindern, zur Erziehung und zum Alltag erreichbar, auch nach Jahren. Und wenn sich die Umstände eines Tages ändern und der Hund nicht bleiben kann, kann er immer hierher zurückkommen.</p>
   </div>
   <!--/BLOCCO:13-->
 
@@ -184,7 +184,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Welpe oder erwachsener Hund bei Kindern von zwei bis fünf Jahren?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer"><strong>Mit einem Welpen</strong> wachsen sie zusammen auf, die Bindung ist stark, und Sie sozialisieren ihn gezielt auf Ihre Kinder. Der Nachteil: er braucht intensive Betreuung, Erziehung und Sauberkeitstraining, während Sie schon kleine Kinder betreuen, und für viele Familien ist das zu viel. <strong>Ein erwachsener Hund ab zwei Jahren</strong> bringt Selbstbeherrschung, eine Grunderziehung und Vorhersehbarkeit mit; der Nachteil ist, dass seine Vorgeschichte Auslöser enthalten kann, die niemand kennt. Unser Rat: bei Kindern unter vier Jahren ernsthaft über einen Erwachsenen mit bekanntem Wesen nachdenken. Bei Kindern ab fünf und erfahrenen Eltern ist ein Welpe gut machbar.
+  <div class="faq-answer"><strong>Ein Welpe</strong> wächst mit den Kindern auf und gewöhnt sich gerade an sie. Der Nachteil: er macht viel Arbeit, Erziehung und Sauberkeit, während Sie schon kleine Kinder großziehen, und für viele Familien ist das zu viel. <strong>Ein erwachsener Hund</strong> ab zwei Jahren hat schon etwas Selbstbeherrschung und eine Grunderziehung, und man weiß, wie er sich verhält. Das Risiko ist, dass in seiner Vorgeschichte etwas steckt, das Sie nicht kennen und das ihn reagieren lässt. Unser Rat: bei Kindern unter sechs Jahren, dem heikelsten Alter, ernsthaft über einen Erwachsenen mit bekanntem Wesen nachdenken. Bei älteren Kindern und Eltern, die schon Hunde hatten, geht auch ein Welpe.
   </div>
   </div>
 
@@ -229,7 +229,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Der Staffy ist zu stürmisch und springt an. Wie beruhige ich ihn?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Kurzfristig steuert man die Umgebung: im Haus eine Leine, wenn die Kinder da sind, damit Sie den Sprung unterbrechen können, bevor er beginnt. Belohnt werden vier Pfoten am Boden, mit einem Leckerli jedes Mal, wenn der Hund die Position hält, und <strong>vor jeder Begegnung ist Sitz Pflicht</strong>: setzt er sich nicht, dreht das Kind sich weg, und das Spiel beginnt nicht. Wegschieben oder laut werden hilft nicht, denn für einen aufgeregten Hund ist auch das Aufmerksamkeit. Langfristig ist die Ursache fast immer nicht verbrauchte Energie: dreißig bis sechzig Minuten Bewegung vor den kritischen Momenten ändern das Bild, und Nasenarbeit ermüdet mehr als Laufen. Der Staffy ist kompakt, aber schwer: ein Sprung, der einen Erwachsenen stört, wirft ein vierjähriges Kind um.
+  <div class="faq-answer">Kurzfristig steuert man die Umgebung: im Haus eine Leine, wenn die Kinder da sind, damit Sie den Sprung unterbrechen können, bevor er beginnt. Belohnt werden vier Pfoten am Boden, mit einem Leckerli jedes Mal, wenn der Hund die Position hält, und <strong>vor jeder Begegnung ist Sitz Pflicht</strong>: setzt er sich nicht, dreht das Kind sich weg, und das Spiel beginnt nicht. Wegschieben oder laut werden hilft nicht, denn für einen aufgeregten Hund ist auch das Aufmerksamkeit. Langfristig ist die Ursache fast immer nicht verbrauchte Energie: ein guter Spaziergang vor den kritischen Momenten ändert das Bild, und Nasenarbeit ermüdet mehr als Laufen. Der Staffy ist kompakt, aber schwer: ein Sprung, der einen Erwachsenen stört, wirft ein vierjähriges Kind um.
   </div>
   </div>
 
@@ -238,7 +238,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Ab welchem Alter darf ein Kind den Hund allein ausführen?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Nicht vor vierzehn, und das ist keine Frage der Reife, sondern der Physik und der rechtlichen Verantwortung. Ein erwachsener Staffordshire Bull Terrier wiegt zwischen 12 und 17 Kilo und zieht viel stärker, als seine Größe vermuten lässt: läuft er einer Katze hinterher, hält ihn ein Zehnjähriges nicht, so geschickt es auch ist. Und bei einem Vorfall liegt die Verantwortung trotzdem bei einem Erwachsenen, denn das Gesetz verlangt, in Italien wie in den meisten Ländern, dass wer den Hund führt, ihn auch beherrschen kann. Vor diesem Alter kann das Kind die Leine neben einem Erwachsenen halten, der eine zweite hält, eine hervorragende Übung für beide. Auch der Hund zählt: einer, der auf andere Hunde reagiert, wird einem Jugendlichen nicht einmal mit sechzehn überlassen.
+  <div class="faq-answer">Nicht vor vierzehn, und das ist keine Frage der Reife, sondern der Physik und der rechtlichen Verantwortung. Ein erwachsener Staffordshire Bull Terrier wiegt zwischen 11 und 17 Kilo und zieht viel stärker, als seine Größe vermuten lässt: läuft er einer Katze hinterher, hält ihn ein Zehnjähriges nicht, so geschickt es auch ist. Und bei einem Vorfall liegt die Verantwortung trotzdem bei einem Erwachsenen, denn das Gesetz verlangt, in Italien wie in den meisten Ländern, dass wer den Hund führt, ihn auch beherrschen kann. Vor diesem Alter kann das Kind die Leine neben einem Erwachsenen halten, der eine zweite hält, eine hervorragende Übung für beide. Auch der Hund zählt: einer, der auf andere Hunde reagiert, wird einem Jugendlichen nicht einmal mit sechzehn überlassen.
   </div>
   </div>
 
