@@ -2,7 +2,7 @@
 title: "Welpen: Erste Fütterung"
 date: 2025-04-15
 titleSeo: "Ernährung des Welpen in den ersten Monaten"
-lastmod: 2026-10-05
+lastmod: 2026-10-17
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -54,7 +54,7 @@ custom_content: |
 
   <!--BLOCCO:2-->
   <h2>Die erste Regel: nicht alles auf einmal ändern</h2>
-  <p>Ein Welpe, der in ein neues Zuhause kommt, hat bereits Mutter, Wurfgeschwister und alles Vertraute verloren. Am selben Tag auch noch das Futter zu wechseln fügt Verdauungsprobleme hinzu, und Durchfall bei einem 8 Wochen alten Welpen ist keine Kleinigkeit.</p>
+  <p>Ein Welpe, der in ein neues Zuhause kommt, hat bereits Mutter, Wurfgeschwister und alles Vertraute verloren. Am selben Tag auch noch das Futter zu wechseln fügt Verdauungsprobleme hinzu, und Durchfall bei einem zwei Monate alten Welpen ist keine Kleinigkeit.</p>
   <p>Füttern Sie mindestens eine Woche lang genau das, <a href="https://europeanpetfood.org/self-regulation/nutritional-guidelines/" title="FEDIAF-Ernährungsleitlinien für Allein- und Ergänzungsfuttermittel" target="_blank" rel="noopener" aria-label="was der Züchter gefüttert hat – FEDIAF-Ernährungsleitlinien für Allein- und Ergänzungsfuttermittel (wird in einem neuen Tab geöffnet)">was der Züchter gefüttert hat</a>. Wollen Sie danach wechseln, tun Sie es über 7 bis 10 Tage: 3 Tage ein Viertel neues Futter, 3 Tage die Hälfte, 3 Tage drei Viertel, dann vollständig. Wird der Kot weicher, gehen Sie einen Schritt zurück.</p>
 
   <table tabindex="0">
@@ -99,13 +99,13 @@ custom_content: |
   <!--BLOCCO:7-->
   <h2>Häufige Verdauungsprobleme</h2>
   <p>Weicher Kot in den ersten Tagen ist meist Stress und legt sich. Anhaltender Durchfall über vierundzwanzig Stunden hinaus, oder Durchfall mit Blut, Mattigkeit oder Erbrechen, gehört noch am selben Tag zum Tierarzt: ein Welpe trocknet schnell aus, und die Parvovirose beginnt so.</p>
-  <p>Ein Welpe, der zu schnell frisst, was in einem Wurf von acht üblich ist, profitiert von einem Antischlingnapf. Das ist vorbeugend sinnvoll, weil hastiges Fressen mit Luftschlucken zu den beeinflussbaren Risikofaktoren der Magendrehung gehört.</p>
+  <p>Ein Welpe, der zu schnell frisst, was in einem großen Wurf üblich ist, profitiert von einem Antischlingnapf. Das ist vorbeugend sinnvoll, weil hastiges Fressen mit Luftschlucken zu den beeinflussbaren Risikofaktoren der Magendrehung gehört.</p>
   <!--/BLOCCO:7-->
 
   <!--BLOCCO:8-->
   <h2>Gewicht: der wichtigste Punkt</h2>
   <p>Ein übergewichtiger Welpe ist kein gesunder Welpe, und bei dieser Rasse verschwindet der Überschuss leicht unter der Muskulatur. Wachsende Gelenke tragen die Last ein Jahr lang, und der Schaden aus dieser Zeit bildet sich nicht zurück.</p>
-  <p>Wiegen Sie den Welpen wöchentlich auf derselben Waage und notieren Sie es. Ziel ist gleichmäßiges, maßvolles Wachstum; schnelles Wachstum ist kein Erfolg. Lassen Sie im Zweifel bei jedem Impftermin den Ernährungszustand beurteilen — das dauert 10 Sekunden und nützt mehr als jede Tabelle.</p>
+  <p>Wiegen Sie den Welpen wöchentlich auf derselben Waage und notieren Sie es. Ziel ist gleichmäßiges, maßvolles Wachstum; schnelles Wachstum ist kein Erfolg. Lassen Sie im Zweifel bei jedem Impftermin den Ernährungszustand beurteilen: Das dauert 10 Sekunden und nützt mehr als jede Tabelle.</p>
 
   <div class="related-articles">
   <h3>Verwandte Artikel</h3>

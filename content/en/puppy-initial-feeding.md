@@ -2,7 +2,7 @@
 title: "Puppies: initial feeding"
 date: 2025-04-15
 titleSeo: "Feeding a Staffordshire Bull Terrier puppy: first months"
-lastmod: 2026-10-05
+lastmod: 2026-10-17
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -33,8 +33,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Meal Frequency</span><span>Daily Portions</span><span>Gradual Transition</span><span>Hydration</span><span>Treats & Chews</span><span>Supplements</span>
-  <span>Meal Frequency</span><span>Daily Portions</span><span>Gradual Transition</span><span>Hydration</span><span>Treats & Chews</span><span>Supplements</span>
+  <span>Meal frequency</span><span>Daily portions</span><span>Gradual transition</span><span>Hydration</span><span>Treats & chews</span><span>Supplements</span>
+  <span>Meal frequency</span><span>Daily portions</span><span>Gradual transition</span><span>Hydration</span><span>Treats & chews</span><span>Supplements</span>
   </div>
   </div>
 
@@ -54,7 +54,7 @@ custom_content: |
 
   <!--BLOCCO:2-->
   <h2>The first rule: do not change anything at once</h2>
-  <p>A puppy arriving in a new home has already lost its mother, its littermates and everything familiar. Changing its food on the same day adds digestive upset to that list, and diarrhoea in an eight-week-old puppy is not a minor matter.</p>
+  <p>A puppy arriving in a new home has already lost its mother, its littermates and everything familiar. Changing its food on the same day adds digestive upset to that list, and diarrhoea in a two-month-old puppy is not a minor matter.</p>
   <p>Feed exactly what the breeder was feeding for at least the first week. If you want to change afterwards, do it over 7 to 10 days: 3 days at 1 quarter new food, 3 at half, 3 at 3 quarters, then complete. Any loosening of the stools means going back a step and moving more slowly.</p>
 
   <table tabindex="0">
@@ -99,7 +99,7 @@ custom_content: |
   <!--BLOCCO:7-->
   <h2>Common digestive problems</h2>
   <p>Soft stools in the first days are usually stress, and they resolve. Persistent diarrhoea beyond 24 hours, or any diarrhoea with blood, lethargy or vomiting, needs a veterinarian the same day: a puppy dehydrates quickly and parvovirus begins this way.</p>
-  <p>A puppy that eats too fast, which is common in a litter of eight, benefits from a slow-feeder bowl. This is worth doing routinely rather than waiting for a problem, because rapid eating with air swallowing is one of the manageable risk factors for bloat.</p>
+  <p>A puppy that eats too fast, which is common in a large litter, benefits from a slow-feeder bowl. This is worth doing routinely rather than waiting for a problem, because rapid eating with air swallowing is one of the manageable risk factors for bloat.</p>
   <p>Coprophagia, eating faeces, is common in puppies, usually transient, and best addressed by removing the opportunity rather than by scolding.</p>
   <!--/BLOCCO:7-->
 
@@ -128,7 +128,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
+  <a class="btn" href="/en/blog/" title="Back to the blog">&larr; Back to the blog</a>
 
   <p class="tags"><strong>Tags:</strong>
   <a aria-label="puppies — blog category" href="/en/blog/#puppies" title="Puppy articles">puppies</a>

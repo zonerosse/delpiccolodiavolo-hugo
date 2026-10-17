@@ -2,7 +2,7 @@
 title: "Cuccioli: alimentazione iniziale"
 date: 2025-04-15
 titleSeo: "Alimentazione del cucciolo Staffy nei primi mesi"
-lastmod: 2026-10-05
+lastmod: 2026-10-17
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/cuccioli-4.webp"
@@ -24,7 +24,7 @@ custom_content: |
   <h1 class="hero-title">Alimentazione <em>iniziale</em></h1>
   <p class="hero-subtitle">Quanto, quante volte al giorno, e cosa non dare mai</p>
   <div class="hero-meta">
-  <span>📅 15 Aprile 2025</span>
+  <span>📅 15 aprile 2025</span>
   <span>⏱️ 5 min lettura</span>
   </div>
   </div>
@@ -33,8 +33,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Non Cambiare Tutto Subito</span><span>Quanto e Quante Volte</span><span>Scegliere l'Alimento</span><span>Cibi Pericolosi</span><span>Premi e Addestramento</span><span>Peso</span>
-  <span>Non Cambiare Tutto Subito</span><span>Quanto e Quante Volte</span><span>Scegliere l'Alimento</span><span>Cibi Pericolosi</span><span>Premi e Addestramento</span><span>Peso</span>
+  <span>Non cambiare tutto subito</span><span>Quanto e quante volte</span><span>Scegliere l'alimento</span><span>Cibi pericolosi</span><span>Premi e addestramento</span><span>Peso</span>
+  <span>Non cambiare tutto subito</span><span>Quanto e quante volte</span><span>Scegliere l'alimento</span><span>Cibi pericolosi</span><span>Premi e addestramento</span><span>Peso</span>
   </div>
   </div>
 
@@ -52,7 +52,7 @@ custom_content: |
 
   <!--BLOCCO:2-->
   <h2>La prima regola: non cambiare tutto subito</h2>
-  <p>Un cucciolo che arriva in una casa nuova ha appena perso la madre, i fratelli e tutto quello che conosceva. Cambiargli anche il cibo lo stesso giorno aggiunge un disturbo digestivo alla lista, e la diarrea in un cucciolo di otto settimane non è una cosa da poco.</p>
+  <p>Un cucciolo che arriva in una casa nuova ha appena perso la madre, i fratelli e tutto quello che conosceva. Cambiargli anche il cibo lo stesso giorno aggiunge un disturbo digestivo alla lista, e la diarrea in un cucciolo di due mesi non è una cosa da poco.</p>
   <p>Per almeno la prima settimana si dà esattamente quello che dava l'allevatore. Se dopo si vuole cambiare, lo si fa in sette-dieci giorni: tre giorni con un quarto di cibo nuovo, tre con metà, tre con tre quarti, poi tutto nuovo. Se le feci si ammorbidiscono si torna indietro di un passo e si procede più piano.</p>
 
   <table tabindex="0">
@@ -97,7 +97,7 @@ custom_content: |
   <!--BLOCCO:7-->
   <h2>Problemi digestivi comuni</h2>
   <p>Le feci molli nei primi giorni sono quasi sempre stress, e passano. Una diarrea che dura oltre le ventiquattro ore, o con sangue, letargia o vomito, richiede il veterinario lo stesso giorno: un cucciolo si disidrata in fretta e la parvovirosi comincia così. Quasi tutti i cuccioli nascono con parassiti intestinali, e per questo la sverminazione va verificata con un <a href="/cuccioli-sverminazione-esami-feci/" title="Sverminazione ed esami delle feci">esame delle feci</a>, non data per fatta.</p>
-  <p>Un cucciolo che mangia troppo in fretta, cosa comune in una cucciolata di otto, si giova di una ciotola antivoracità. Vale la pena usarla di routine invece di aspettare un problema, perché mangiare velocemente ingoiando aria è uno dei fattori di rischio gestibili per la dilatazione gastrica.</p>
+  <p>Un cucciolo che mangia troppo in fretta, cosa comune in una cucciolata numerosa, si giova di una ciotola antivoracità. Vale la pena usarla di routine invece di aspettare un problema, perché mangiare velocemente ingoiando aria è uno dei fattori di rischio gestibili per la dilatazione gastrica.</p>
   <p>La coprofagia, mangiare le feci, è frequente nei cuccioli, di solito passeggera, e si affronta meglio togliendo l'occasione che sgridando.</p>
   <!--/BLOCCO:7-->
 
@@ -117,7 +117,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
+  <a class="btn" href="/blog/" title="Torna al blog">&larr; Torna al blog</a>
 
   <p class="tags"><strong>Tag:</strong>
   <a aria-label="cuccioli — categoria del blog" href="/blog/#cuccioli" title="Articoli cuccioli">cuccioli</a>
