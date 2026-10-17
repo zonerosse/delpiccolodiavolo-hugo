@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier mit anderen Haustieren"
 date: 2024-06-18
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 translationKey: "altri-animali"
 in_breve:
   - "Der Staffy ist ein Terrier: **Reaktivität gegenüber anderen Hunden** gibt es, vor allem zwischen erwachsenen Hunden gleichen Geschlechts. Sozialisierung verringert sie, beseitigt sie aber nicht."
@@ -60,7 +60,7 @@ custom_content: |
 
   <h3>Profil A - Hohe Verträglichkeit (gut sozialisierte Staffys)</h3>
   <ul>
-  <li><strong>Merkmale:</strong> intensive frühe Sozialisierung (als Welpe zwischen der 8. und 16. Woche mit vielen verschiedenen Hunden), durchgehend positive Erfahrungen, nie ein aggressiver Vorfall gegenüber anderen Tieren</li>
+  <li><strong>Merkmale:</strong> intensive frühe Sozialisierung (als Welpe zwischen der dritten und der zwölften Woche mit vielen verschiedenen Hunden), durchgehend positive Erfahrungen, nie ein aggressiver Vorfall gegenüber anderen Tieren</li>
   <li><strong>Typisches Verhalten:</strong> schnuppert neugierig, nähert sich im Bogen (nicht frontal), nimmt Korrekturen anderer Hunde an, spielt mit Selbstkontrolle, löst sich leicht</li>
   <li><strong>Mögliche Zusammenführungen:</strong> andere Hunde (gleich groß oder größer), Katzen (mit schrittweisem Vorgehen), eventuell kleine Tiere unter Aufsicht</li>
   <li><strong>Zeitrahmen:</strong> im Schnitt 2-4 Wochen bis zu einem stabilen Zusammenleben</li>
@@ -155,22 +155,22 @@ custom_content: |
 
   <p>Die Zusammenführung zweier Hunde braucht ein langsames und methodisches Vorgehen. Wer drängt, riskiert Auseinandersetzungen, die die Beziehung dauerhaft belasten.</p>
 
-  <h3>PHASE 1: Geruchsaustausch (Tag 1-3)</h3>
+  <h3>Phase 1: Geruchsaustausch (Tag 1-3)</h3>
 
   <p><strong>Tag 1-2: Decken oder Matten tauschen</strong> - Hund A schläft auf Decke X, Hund B auf Decke Y. Nach 24 Stunden die Decken tauschen. Jeder Hund beschnuppert den Geruch des anderen in Ruhe in seinem eigenen Bereich. Reaktionen beobachten: entspannte Neugier = in Ordnung, Anspannung oder Knurren = problematisches Wesen.</p>
 
-  <p><strong>Tag 2-3: Räume tauschen</strong> - Hund A geht lange spazieren (60+ Minuten). In dieser Zeit erkundet Hund B frei Haus und Garten von Hund A, schnuppert und markiert leicht. Dann umgekehrt. Gegenseitige Gewöhnung an den Geruch vor dem ersten Sichtkontakt.</p>
+  <p><strong>Tag 2-3: Räume tauschen</strong> - Hund A geht lange spazieren. In dieser Zeit erkundet Hund B frei Haus und Garten von Hund A, schnuppert und markiert leicht. Dann umgekehrt. Gegenseitige Gewöhnung an den Geruch vor dem ersten Sichtkontakt.</p>
 
   <p><strong>Tag 3: Begegnung durch eine Barriere</strong> - Ein Gitter teilt den Raum. Die beiden Hunde auf gegenüberliegenden Seiten, 3-4 m Abstand. Sie sehen sich, haben aber keinen Kontakt. Großzügige Belohnung, wenn sie sich ignorieren oder ruhige Neugier zeigen. Einheiten von 5-10 Minuten, 3-4 Mal am Tag.</p>
 
-  <h3>PHASE 2: Erste direkte Begegnung draußen (Tag 4-7)</h3>
+  <h3>Phase 2: Erste direkte Begegnung draußen (Tag 4-7)</h3>
 
   <p><strong>Ideale Bedingungen:</strong></p>
   <ul>
   <li><strong>Ort:</strong> ein neutraler Park oder ein Feld (nie Haus oder Garten des ansässigen Hundes, das ist verteidigtes Revier)</li>
   <li><strong>Personen:</strong> 2 Erwachsene, jeder führt einen Hund</li>
   <li><strong>Ausrüstung:</strong> lange Leinen von 3-5 m, Geschirre (keine Halsbänder), Leckerlibeutel</li>
-  <li><strong>Vorbereitung:</strong> beide Hunde vorher 30 Minuten ausgelastet (müde Hunde reagieren weniger)</li>
+  <li><strong>Vorbereitung:</strong> beide Hunde vorher ausgelastet (müde Hunde reagieren weniger)</li>
   </ul>
 
   <p><strong>Ablauf der ersten Begegnung:</strong></p>
@@ -186,7 +186,7 @@ custom_content: |
   <p>Versteifter Körper, gesträubtes Fell, hoch getragene, unbewegte Rute, Knurren, aggressives Bellen, Vorschnellen. Zeigt einer davon etwas = unterbrechen, Abstand vergrößern und am nächsten Tag zum vorigen Schritt zurückkehren.</p>
   </div>
 
-  <h3>PHASE 3: Kontrollierte Begegnungen im Haus (Tag 8-21)</h3>
+  <h3>Phase 3: Kontrollierte Begegnungen im Haus (Tag 8-21)</h3>
 
   <p>Erst nach 3-5 positiven Begegnungen draußen mit Begegnungen im Haus beginnen:</p>
 
@@ -196,7 +196,7 @@ custom_content: |
   <li><strong>Tag 15-21:</strong> Leinen abnehmen, wenn gegenseitiger Respekt, kein Verteidigen und leichtes Lösen da sind. Die Gitter bleiben als optionale Barrieren</li>
   </ul>
 
-  <h3>PHASE 4: Freiheit unter Aufsicht (Woche 4-8)</h3>
+  <h3>Phase 4: Freiheit unter Aufsicht (Woche 4-8)</h3>
 
   <ul>
   <li><strong>Woche 4-5:</strong> fast vollständige Freiheit im Haus. Aufsicht vorhanden, aber weniger intensiv. Nachts noch getrennt</li>
@@ -205,7 +205,7 @@ custom_content: |
   </ul>
 
   <div class="callout">
-  <p class="callout-title">🏆 Wie lange eine Zusammenführung wirklich dauert</p>
+  <p class="callout-title">Wie lange eine Zusammenführung wirklich dauert</p>
   <p>Mit einem ausgeglichenen ansässigen Hund und einem schrittweisen Vorgehen reichen meist einige Wochen. Fehlt das eine oder das andere, dauert es Monate, und in manchen Fällen klappt das Zusammenleben nicht und die Hunde müssen für immer getrennt bleiben. Am meisten zählen die frühe Sozialisierung des Staffys, das Einhalten der Zeiten und das Wesen des Hundes, der schon im Haus lebt. Was „sozialisierter Welpe“ wirklich heißt und wie man es beim Besuch einer Zucht prüft, steht unter <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das heißt">sozialisierte Welpen: was das heißt</a>.</p>
   </div>
   <!--/BLOCCO:5-->
@@ -224,19 +224,19 @@ custom_content: |
 
   <h3>Die Phasen im Einzelnen</h3>
 
-  <p><strong>PHASE 1: Vollständige Trennung mit Geruchsaustausch (Woche 1-2)</strong></p>
+  <p><strong>Phase 1: Vollständige Trennung mit Geruchsaustausch (Woche 1-2)</strong></p>
   <ul>
   <li><strong>Woche 1:</strong> Die Katze hat Schlafzimmer und Bad (Türen zu, Katzenklappe in der Tür). Der Staffy den Rest des Hauses. Täglich Decken tauschen. Die Katze mit einem Tuch streicheln und das Tuch beim Staffy lassen (belohnen, wenn er entspannt ist)</li>
   <li><strong>Woche 2:</strong> Der Staffy geht 2 Stunden in den Garten oder spazieren. Die Katze erkundet frei das Haus und markiert ihr Revier. Dann umgekehrt. 3-4 Mal pro Woche wiederholen</li>
   </ul>
 
-  <p><strong>PHASE 2: Sichtkontakt durch Barrieren (Woche 3-6)</strong></p>
+  <p><strong>Phase 2: Sichtkontakt durch Barrieren (Woche 3-6)</strong></p>
   <ul>
   <li><strong>Woche 3-4:</strong> die Katze in ihrem sicheren Raum. Ein Gitter lässt sie sich sehen, kein Kontakt. Der Staffy an der Leine, schrittweise näher geführt. Ruhiges Schauen = Belohnung. Aufregung oder Vorschnellen = mehr Abstand. Einheiten von 5-10 Minuten, 3-4 Mal am Tag</li>
   <li><strong>Woche 5-6:</strong> den Staffy nach und nach bis auf 1 m ans Gitter heranführen. Die Katze muss Fluchtwege in der Höhe haben. Belohnen: 2 Sekunden schauen und dann wegsehen, ruhig in die Luft schnuppern, entspannt sitzen</li>
   </ul>
 
-  <p><strong>PHASE 3: Erste Kontakte im selben Raum (Woche 7-10)</strong></p>
+  <p><strong>Phase 3: Erste Kontakte im selben Raum (Woche 7-10)</strong></p>
 
   <div class="alert">
   <p class="alert-title">⚠️ Entscheidende Regeln für die ersten direkten Kontakte zwischen Hund und Katze</p>
@@ -256,7 +256,7 @@ custom_content: |
   <li><strong>Woche 8-10:</strong> die Dauer bis auf 30 Minuten steigern. Staffy immer an 5-m-Leine. Sind beide entspannt (die Katze putzt sich, der Staffy legt sich hin und ignoriert sie) = ausgezeichnete Fortschritte</li>
   </ol>
 
-  <p><strong>PHASE 4: Freiheit unter Aufsicht (Woche 11-16+)</strong></p>
+  <p><strong>Phase 4: Freiheit unter Aufsicht (Woche 11-16+)</strong></p>
   <ul>
   <li><strong>Woche 11-12:</strong> Freiheit für den Staffy (ohne Leine) in einem großen Raum versuchen. Volle Aufsicht. Bereit zu unterbrechen, wenn er jagt</li>
   <li><strong>Woche 13-16:</strong> tagsüber Freiheit im Haus unter Aufsicht. Nachts weiterhin Pflicht zur Trennung</li>
@@ -275,11 +275,11 @@ custom_content: |
   <!--BLOCCO:7-->
   <h2>Zusammenleben mit kleinen Tieren: Kaninchen, Frettchen, Vögel, Nager</h2>
 
-  <p>Das Zusammenleben eines Staffys mit Tieren unter 5 kg ist immer hochriskant. Der Jagdtrieb gegenüber kleiner, schneller Beute ist bei den meisten Staffys stark.</p>
+  <p>Das Zusammenleben eines Staffys mit Tieren unter 5 kg ist immer hochriskant. Der Jagdtrieb gegenüber kleiner, schneller Beute ist bei vielen Staffys stark.</p>
 
   <h3>Wann das Zusammenleben möglich ist (aber nie garantiert)</h3>
   <ul>
-  <li>Der Staffy ist mit diesen Tieren als Welpe aufgewachsen (ständige positive Erfahrung zwischen der 8. und 16. Woche)</li>
+  <li>Der Staffy ist mit diesen Tieren als Welpe aufgewachsen (ständige positive Erfahrung zwischen der dritten und der zwölften Woche)</li>
   <li>Nachweislich geringer Beutetrieb (ignoriert kleine Tiere draußen vollständig)</li>
   <li>Allgemein ruhiges Wesen, ausgezeichnete Selbstkontrolle, reagiert immer auf den Rückruf</li>
   <li>Bereitschaft zu dauerhafter räumlicher Trennung (getrennte Räume, Kontakte nur unter Aufsicht)</li>
@@ -403,7 +403,7 @@ custom_content: |
   </ul>
   </div>
 
-  <p><strong>Bei 5 oder mehr negativen Antworten:</strong> Das Zusammenleben verursacht Dauerstress. Einen Verhaltensexperten hinzuziehen, um zu klären, ob es beherrschbar ist oder ob Trennung oder eine neue Familie nötig sind.</p>
+  <p><strong>Bei zwei oder mehr negativen Antworten:</strong> Das Zusammenleben verursacht Dauerstress. Einen Verhaltensexperten hinzuziehen, um zu klären, ob es beherrschbar ist oder ob Trennung oder eine neue Familie nötig sind.</p>
   <!--/BLOCCO:9-->
 
   <!--BLOCCO:10-->
@@ -417,7 +417,7 @@ custom_content: |
   <li><strong>Barrieren wieder aufbauen:</strong> vollständige Trennung für 1-2 Wochen</li>
   <li><strong>Neu beginnen:</strong> zur vorigen Phase zurückkehren</li>
   <li><strong>Intensives „Aus“-Training:</strong> 10 Minuten am Tag Übungen zur Selbstkontrolle</li>
-  <li><strong>Mehr Bewegung:</strong> die Auslastung um 30 % erhöhen (ein müder Hund reagiert weniger)</li>
+  <li><strong>Mehr Bewegung:</strong> mehr Auslastung (ein müder Hund reagiert weniger)</li>
   </ul>
 
   <p><strong>Langfristige Lösungen:</strong></p>
@@ -496,7 +496,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Besser einen Staffy-Welpen zum vorhandenen Tier oder umgekehrt?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Ein Welpe von acht bis sechzehn Wochen, der zu einem vorhandenen erwachsenen Hund oder einer Katze kommt, ist meist die einfachste Kombination, sofern das vorhandene Tier tolerant ist: der Welpe lernt die sozialen Regeln von ihm. Bedenken Sie aber, dass die Energie zwischen sechs und achtzehn Monaten sehr hoch wird und ein älteres Tier stressen kann. Ein gut sozialisierter erwachsener Staffy mit einem neuen Welpen ist machbar, doch der Welpe bleibt verletzlich gegenüber zu rauem Spiel. Ideal sind zwei junge Erwachsene von zwei bis fünf Jahren mit ähnlicher Energie. Ein erwachsener Staffy, der zu einer vorhandenen Katze zieht, ist die Kombination, die am häufigsten fachliche Hilfe braucht.
+  <div class="faq-answer">Ein Welpe von zwei bis vier Monaten, der zu einem vorhandenen erwachsenen Hund oder einer Katze kommt, ist meist die einfachste Kombination, sofern das vorhandene Tier tolerant ist: der Welpe lernt die sozialen Regeln von ihm. Bedenken Sie aber, dass die Energie zwischen acht und achtzehn Monaten sehr hoch wird und ein älteres Tier stressen kann. Ein gut sozialisierter erwachsener Staffy mit einem neuen Welpen ist machbar, doch der Welpe bleibt verletzlich gegenüber zu rauem Spiel. Ideal sind zwei junge Erwachsene von zwei bis fünf Jahren mit ähnlicher Energie. Ein erwachsener Staffy, der zu einer vorhandenen Katze zieht, ist die Kombination, die am häufigsten fachliche Hilfe braucht.
   </div>
   </div>
 

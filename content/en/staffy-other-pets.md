@@ -2,7 +2,7 @@
 title: "Staffy and other pets"
 date: 2024-06-18
 titleSeo: "Staffordshire Bull Terrier with other pets at home"
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 translationKey: "altri-animali"
 in_breve:
   - "The Staffy is a terrier: **reactivity towards other dogs** is real, especially between adults of the same sex. Socialisation reduces it, it does not erase it."
@@ -61,7 +61,7 @@ custom_content: |
 
   <h3>Profile A - high compatibility (well-socialised Staffies)</h3>
   <ul>
-  <li><strong>Characteristics:</strong> intensive early socialisation (as a puppy, between 8 and 16 weeks, with many different dogs), consistently positive experiences, never any episode of aggression towards other animals</li>
+  <li><strong>Characteristics:</strong> intensive early socialisation (as a puppy, between the third and the twelfth week, with many different dogs), consistently positive experiences, never any episode of aggression towards other animals</li>
   <li><strong>Typical behaviour:</strong> sniffs with curiosity, approaches in a curve (not head-on), accepts corrections from other dogs, plays with self-control, disengages easily</li>
   <li><strong>Feasible introductions:</strong> other dogs (same size or larger), cats (with a gradual protocol), possibly small animals under supervision</li>
   <li><strong>Introduction timeline:</strong> on average 2-4 weeks to a stable household</li>
@@ -156,22 +156,22 @@ custom_content: |
 
   <p>An introduction between dogs needs a slow and methodical progression. Rushing means risking fights that can damage the relationship for good.</p>
 
-  <h3>PHASE 1: Scent exchange (days 1-3)</h3>
+  <h3>Phase 1: Scent exchange (days 1-3)</h3>
 
   <p><strong>Days 1-2: swapping blankets or mats</strong> - dog A sleeps on blanket X, dog B on blanket Y. After 24 hours, swap the blankets. Each dog sniffs the other's scent calmly in its own area. Watch the reactions: relaxed curiosity = OK, tension or growling = a problematic temperament.</p>
 
-  <p><strong>Days 2-3: swapping spaces</strong> - dog A goes for a long walk (60+ minutes). Meanwhile dog B freely explores dog A's house and garden, sniffs and lightly marks. Then the other way round. Mutual scent familiarity before any visual contact.</p>
+  <p><strong>Days 2-3: swapping spaces</strong> - dog A goes for a long walk. Meanwhile dog B freely explores dog A's house and garden, sniffs and lightly marks. Then the other way round. Mutual scent familiarity before any visual contact.</p>
 
   <p><strong>Day 3: meeting through a barrier</strong> - a gate divides the room. The two dogs are on opposite sides, 3-4 m apart. They can see each other but have no contact. Generous rewards if they ignore each other or show calm curiosity. Sessions of 5-10 minutes, repeated 3-4 times a day.</p>
 
-  <h3>PHASE 2: First direct meeting outdoors (days 4-7)</h3>
+  <h3>Phase 2: First direct meeting outdoors (days 4-7)</h3>
 
   <p><strong>Ideal setting:</strong></p>
   <ul>
   <li><strong>Place:</strong> a neutral park or field (never the resident dog's house or garden, which is defended territory)</li>
   <li><strong>People:</strong> 2 adults, one handling each dog</li>
   <li><strong>Equipment:</strong> long lines of 3-5 m, harnesses (not collars), a treat pouch</li>
-  <li><strong>Preparation:</strong> both dogs exercised for 30 minutes before (tired dogs are less reactive)</li>
+  <li><strong>Preparation:</strong> both dogs exercised beforehand (tired dogs are less reactive)</li>
   </ul>
 
   <p><strong>Sequence of the first meeting:</strong></p>
@@ -187,7 +187,7 @@ custom_content: |
   <p>Body stiffening, raised hackles, a high motionless tail, growling, aggressive barking, lunging. If either dog shows them = interrupt, increase the distance and go back to the previous step the next day.</p>
   </div>
 
-  <h3>PHASE 3: Controlled meetings at home (days 8-21)</h3>
+  <h3>Phase 3: Controlled meetings at home (days 8-21)</h3>
 
   <p>Only after 3-5 positive meetings outdoors should you start meetings at home:</p>
 
@@ -197,7 +197,7 @@ custom_content: |
   <li><strong>Days 15-21:</strong> remove the lines if there is mutual respect, no guarding and easy disengagement. The gates stay as optional barriers</li>
   </ul>
 
-  <h3>PHASE 4: Supervised freedom (weeks 4-8)</h3>
+  <h3>Phase 4: Supervised freedom (weeks 4-8)</h3>
 
   <ul>
   <li><strong>Weeks 4-5:</strong> almost complete freedom in the house. Supervision present but less intense. Still separated at night</li>
@@ -206,7 +206,7 @@ custom_content: |
   </ul>
 
   <div class="callout">
-  <p class="callout-title">🏆 The real timing of an introduction</p>
+  <p class="callout-title">The real timing of an introduction</p>
   <p>With a balanced resident dog and a gradual protocol, a few weeks are usually enough. When one or the other is missing it takes months, and in some cases living together does not work and the dogs have to be kept apart for good. What counts most is the Staffy's early socialisation, respecting the timing, and the temperament of the dog already in the house. What "socialised puppy" really means, and how to check it when you visit a breeder, is explained in <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it really means">socialised puppies: what it really means</a>.</p>
   </div>
   <!--/BLOCCO:5-->
@@ -225,19 +225,19 @@ custom_content: |
 
   <h3>The phases in detail</h3>
 
-  <p><strong>PHASE 1: Total separation with scent exchange (weeks 1-2)</strong></p>
+  <p><strong>Phase 1: Total separation with scent exchange (weeks 1-2)</strong></p>
   <ul>
   <li><strong>Week 1:</strong> the cat has a bedroom and bathroom (doors closed, cat flap in the door). The Staffy has the rest of the house. Swap blankets daily. Stroke the cat with a cloth and leave the cloth with the Staffy (reward it if relaxed)</li>
   <li><strong>Week 2:</strong> the Staffy goes into the garden or for a walk for 2 hours. The cat explores the house freely and marks territory. Then the other way round. Repeat 3-4 times a week</li>
   </ul>
 
-  <p><strong>PHASE 2: Visual contact through barriers (weeks 3-6)</strong></p>
+  <p><strong>Phase 2: Visual contact through barriers (weeks 3-6)</strong></p>
   <ul>
   <li><strong>Weeks 3-4:</strong> the cat in its safe room. A gate lets them see each other with no contact. The Staffy on a lead, brought closer gradually. Calm looking = rewards. Excitement or lunging = more distance. Sessions of 5-10 minutes, 3-4 times a day</li>
   <li><strong>Weeks 5-6:</strong> progressively bring the Staffy closer to the gate, down to 1 m. The cat must have vertical escape routes. Reward: looking for 2 seconds and then looking away, sniffing the air calmly, sitting relaxed</li>
   </ul>
 
-  <p><strong>PHASE 3: First contact in the same room (weeks 7-10)</strong></p>
+  <p><strong>Phase 3: First contact in the same room (weeks 7-10)</strong></p>
 
   <div class="alert">
   <p class="alert-title">⚠️ Critical rules for the first direct dog-cat contact</p>
@@ -257,7 +257,7 @@ custom_content: |
   <li><strong>Weeks 8-10:</strong> increase the duration up to 30 minutes. Staffy always on a 5 m line. If both are relaxed (the cat grooms, the Staffy lies down and ignores it) = excellent progress</li>
   </ol>
 
-  <p><strong>PHASE 4: Supervised freedom (weeks 11-16+)</strong></p>
+  <p><strong>Phase 4: Supervised freedom (weeks 11-16+)</strong></p>
   <ul>
   <li><strong>Weeks 11-12:</strong> try freedom for the Staffy (lead off) in a large room. Full supervision. Ready to interrupt if it chases</li>
   <li><strong>Weeks 13-16:</strong> freedom in the house during the day under supervision. Separation at night still compulsory</li>
@@ -276,11 +276,11 @@ custom_content: |
   <!--BLOCCO:7-->
   <h2>Living with small animals: rabbits, ferrets, birds, rodents</h2>
 
-  <p>A Staffy living with animals under 5 kg is always high-risk. The predatory instinct towards small, fast prey is strong in most Staffies.</p>
+  <p>A Staffy living with animals under 5 kg is always high-risk. The predatory instinct towards small, fast prey is strong in many Staffies.</p>
 
   <h3>When living together is possible (but never guaranteed)</h3>
   <ul>
-  <li>The Staffy grew up with these animals from puppyhood (constant positive exposure between 8 and 16 weeks)</li>
+  <li>The Staffy grew up with these animals from puppyhood (constant positive exposure between the third and the twelfth week)</li>
   <li>A documented low prey drive (completely ignores small animals outdoors)</li>
   <li>A generally calm temperament, excellent self-control, always responds to recall</li>
   <li>Willingness to keep permanent physical separation (separate rooms, contact only under supervision)</li>
@@ -404,7 +404,7 @@ custom_content: |
   </ul>
   </div>
 
-  <p><strong>If 5 or more answers are negative:</strong> living together is causing chronic stress. Consult a behaviourist to assess whether it can be managed or whether separation or rehoming is needed.</p>
+  <p><strong>If two or more answers are negative:</strong> living together is causing chronic stress. Consult a behaviourist to assess whether it can be managed or whether separation or rehoming is needed.</p>
   <!--/BLOCCO:9-->
 
   <!--BLOCCO:10-->
@@ -418,7 +418,7 @@ custom_content: |
   <li><strong>Barriers back in place:</strong> total separation for 1-2 weeks</li>
   <li><strong>Restart the protocol:</strong> go back to the previous phase</li>
   <li><strong>Intensive "leave it" training:</strong> 10 minutes a day of self-control exercises</li>
-  <li><strong>Physical activity:</strong> increase exercise by 30% (a tired dog is less reactive)</li>
+  <li><strong>Physical activity:</strong> more exercise (a tired dog is less reactive)</li>
   </ul>
 
   <p><strong>Long-term solutions:</strong></p>
@@ -497,7 +497,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Is it better to bring a Staffy puppy to a resident animal, or the reverse?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">A puppy of eight to sixteen weeks joining a resident adult dog or cat is usually the easiest combination, provided the resident is tolerant: the puppy learns the social rules from it. Bear in mind, though, that between six and eighteen months the puppy's energy becomes very high and can stress an older animal. A well-socialised adult Staffy with a new puppy is feasible, but the puppy remains vulnerable to play that is too rough. The ideal is two young adults of two to five years with compatible energy. An adult Staffy joining a household with a resident cat is the combination that most often needs professional help.
+  <div class="faq-answer">A puppy of two to four months joining a resident adult dog or cat is usually the easiest combination, provided the resident is tolerant: the puppy learns the social rules from it. Bear in mind, though, that between eight and eighteen months the puppy's energy becomes very high and can stress an older animal. A well-socialised adult Staffy with a new puppy is feasible, but the puppy remains vulnerable to play that is too rough. The ideal is two young adults of two to five years with compatible energy. An adult Staffy joining a household with a resident cat is the combination that most often needs professional help.
   </div>
   </div>
 
@@ -553,7 +553,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
+  <a class="btn" href="/en/blog/" title="Back to the blog">&larr; Back to the blog</a>
   </div>
   <!--/BLOCCO:11-->
 
