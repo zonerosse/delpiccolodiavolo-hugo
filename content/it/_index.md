@@ -28,7 +28,7 @@ custom_content: |
   <span class="hero-eyebrow"><a href="/recensioni/" title="Leggi le recensioni" style="color:inherit;text-decoration:none">⭐ <!--REC-VOTO--> su <!--REC-TOTALE--> recensioni →</a></span>
   <h1 class="hero-title">Allevamento <br><em>Staffordshire</em> <br>Bull Terrier</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo - Selezione, salute e carattere</p>
-  <p class="hero-description">A Ostellato (FE) dal 2013. Tutti i riproduttori sono testati per L2HGA e HC (HSF4), o esenti per via parentale con i referti dei genitori. I nostri cani sono esenti anche da DM-SOD1. I referti sono pubblicati, con il microchip in chiaro. Cani allevati qui: 1 Campione Italiano, 3 Giovani Campioni Italiani, 4&deg; al World Dog Show.</p>
+  <p class="hero-description">A Ostellato (FE) dal 2013. Tutti i riproduttori sono testati per L2-HGA e HC (HSF4), o esenti per via parentale con i referti dei genitori. I nostri cani sono esenti anche da DM-SOD1. I referti sono pubblicati, con il microchip in chiaro. Cani allevati qui: 1 Campione Italiano, 3 Giovani Campioni Italiani, 4&deg; al World Dog Show.</p>
   <div class="hero-actions">
   <a href="/cuccioli-staffordshire-bull-terrier/" class="btn btn-primary" title="Cuccioli Staffordshire Bull Terrier disponibili">Cuccioli Staffordshire Bull Terrier</a>
   <a href="/allevamento-staffordshire-bull-terrier-in-emilia-romagna/" class="btn btn-ghost" title="Contattaci">Contattaci</a>
@@ -43,7 +43,7 @@ custom_content: |
   <div class="features-track">
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA esente</span>
+  <span>L2-HGA esente</span>
   <span>HC (HSF4) esente</span>
   <span>DM-SOD1 esente</span>
   <span>Campioni Italiani</span>
@@ -51,7 +51,7 @@ custom_content: |
   <span>Ostellato FE</span>
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA esente</span>
+  <span>L2-HGA esente</span>
   <span>HC (HSF4) esente</span>
   <span>DM-SOD1 esente</span>
   <span>Campioni Italiani</span>
@@ -151,7 +151,7 @@ custom_content: |
   <div class="intro-block" style="text-align:left">
   <p><img src="/images/foto4.avif" alt="Cucciolo di Staffordshire Bull Terrier in braccio, primo piano" loading="lazy" decoding="async" width="300" height="347" style="display:block;width:60%;max-width:240px;height:auto;margin:.2rem auto 1rem;border-radius:12px;transform:scaleX(-1)">Del Piccolo Diavolo è un allevamento di Staffordshire Bull Terrier, lo Staffy per gli appassionati, a <strong>Ostellato, in provincia di Ferrara</strong>, attivo dal <strong>2013</strong>. Paolo Boldrini segue la razza dal 2005. Prima di far nascere una cucciolata ha passato otto anni a studiarla.</p>
   <details class="continua"><summary>Continua a leggere</summary>
-  <p>Facciamo <strong>una cucciolata l'anno, occasionalmente due, a volte nessuna</strong>, mai su richiesta. Tutti i riproduttori sono testati per <strong>L2HGA e HC (gene HSF4)</strong>, o esenti per via parentale con i referti dei genitori. I nostri cani sono esenti anche dalla <strong>mielopatia degenerativa (gene SOD1)</strong>. I referti sono pubblicati sul sito, con il nome e il microchip del cane.</p>
+  <p>Facciamo <strong>una cucciolata l'anno, occasionalmente due, a volte nessuna</strong>, mai su richiesta. Tutti i riproduttori sono testati per <strong>L2-HGA e HC (gene HSF4)</strong>, o esenti per via parentale con i referti dei genitori. I nostri cani sono esenti anche dalla <strong>mielopatia degenerativa (gene SOD1)</strong>. I referti sono pubblicati sul sito, con il nome e il microchip del cane.</p>
 
   <p>I cuccioli nascono in casa e ci restano il primo mese. Poi passano in un box con il cortile, in mezzo alle persone e ai rumori di tutti i giorni. Partono con <strong>pedigree ENCI</strong>, microchip e vaccinazioni. Cosa possono avere imparato prima di partire, e cosa no, lo spieghiamo in <a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Cuccioli socializzati: cosa vuol dire">cosa vuol dire cuccioli socializzati</a>. Esercizi miracolosi non ne facciamo: sul <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor e stimolazione precoce">Bio Sensor</a> abbiamo scritto perché le prove non ci sono.</p>
 
@@ -185,11 +185,11 @@ custom_content: |
 
   <details class="tendina"><summary><h3>Quali test facciamo, e cosa sono</h3></summary>
 
-  <p><strong>Tutti i riproduttori sono testati per L2HGA e HC (HSF4), o esenti per via parentale con i referti dei genitori. I nostri cani sono esenti anche da DM-SOD1.</strong> I referti, con il numero di microchip, sono pubblicati sulle schede dei cani.</p>
+  <p><strong>Tutti i riproduttori sono testati per L2-HGA e HC (HSF4), o esenti per via parentale con i referti dei genitori. I nostri cani sono esenti anche da DM-SOD1.</strong> I referti, con il numero di microchip, sono pubblicati sulle schede dei cani.</p>
 
   <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(220px,100%),1fr));gap:1rem;margin:1.2rem 0 1rem">
   <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
-  <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">L2HGA</div>
+  <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">L2-HGA</div>
   <div style="font-size:.85rem;color:#7a6448;margin-bottom:.5rem">Aciduria L-2-idrossiglutarica</div>
   <p style="margin:0;font-size:.95rem;line-height:1.6">Malattia neurologica che compare di solito nei primi anni di vita: tremori, andatura incerta, crisi epilettiche. Non esiste una cura.</p>
   <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Esenti: tutti i riproduttori</div>
@@ -282,7 +282,7 @@ custom_content: |
   <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center;display:flex;flex-direction:column;height:100%">
   <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Cattleya Del Piccolo Diavolo at Valconcaclan</h3>
   <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Giovane Campionessa e Campionessa di San Marino</p>
-  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Giovane Campionessa di San Marino nel 2023, Campionessa di San Marino nel 2024. Nata e allevata da noi, oggi di proprietà di Ricarda Mazzola Wagner (Valconcaclan). L2HGA e HC (HSF4) esente, dentatura completa a forbice.</p>
+  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Giovane Campionessa di San Marino nel 2023, Campionessa di San Marino nel 2024. Nata e allevata da noi, oggi di proprietà di Ricarda Mazzola Wagner (Valconcaclan). L2-HGA e HC (HSF4) esente, dentatura completa a forbice.</p>
   </div>
 
   </div>
@@ -321,7 +321,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Quanto costa uno Staffordshire con pedigree ENCI?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Non esiste un listino: quello che si paga riflette costi che esistono prima della nascita dei cuccioli. I test genetici dei riproduttori per L2HGA e HC, l'iscrizione della cucciolata al libro genealogico ENCI con tariffe pubbliche, le visite veterinarie in gravidanza, l'ecografia e la radiografia prima del parto, le prime vaccinazioni, le sverminazioni e il microchip. <strong>Un prezzo molto basso quasi sempre significa che manca qualcosa</strong>: i test, il pedigree, o cuccioli separati dalla madre prima dei 60 giorni previsti dalla legge. Ogni cucciolo parte con vaccinazioni, microchip, sverminazioni, certificati dei test dei genitori e il supporto dell'allevamento Del Piccolo Diavolo per tutta la vita del cane. Il dettaglio è nella guida sul <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Prezzo di un cucciolo di Staffordshire Bull Terrier">prezzo di un cucciolo di Staffordshire Bull Terrier</a>.</div>
+  <div class="faq-answer">Non esiste un listino: quello che si paga riflette costi che esistono prima della nascita dei cuccioli. I test genetici dei riproduttori per L2-HGA e HC, l'iscrizione della cucciolata al libro genealogico ENCI con tariffe pubbliche, le visite veterinarie in gravidanza, l'ecografia e la radiografia prima del parto, le prime vaccinazioni, le sverminazioni e il microchip. <strong>Un prezzo molto basso quasi sempre significa che manca qualcosa</strong>: i test, il pedigree, o cuccioli separati dalla madre prima dei 60 giorni previsti dalla legge. Ogni cucciolo parte con vaccinazioni, microchip, sverminazioni, certificati dei test dei genitori e il supporto dell'allevamento Del Piccolo Diavolo per tutta la vita del cane. Il dettaglio è nella guida sul <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Prezzo di un cucciolo di Staffordshire Bull Terrier">prezzo di un cucciolo di Staffordshire Bull Terrier</a>.</div>
   </div>
 
   <div class="faq-item active">

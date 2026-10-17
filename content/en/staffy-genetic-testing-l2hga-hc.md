@@ -211,7 +211,7 @@ custom_content: |
   <tr><th>Item</th><th>Who pays</th><th>When</th><th>Order of magnitude</th></tr>
   </thead>
   <tbody>
-  <tr><td>L2HGA + HC laboratory panel</td><td>Breeder</td><td>Once per dog</td><td>around €120 per dog</td></tr>
+  <tr><td>L2-HGA + HC laboratory panel</td><td>Breeder</td><td>Once per dog</td><td>around €120 per dog</td></tr>
   <tr><td>Sampling, shipping and the SOD1 test</td><td>Breeder</td><td>Once per dog</td><td>the rest of the outlay</td></tr>
   <tr><td><strong>Total per dog</strong></td><td>Breeder</td><td>Once per dog</td><td><strong>around €400</strong></td></tr>
   <tr><td>Anti-epileptic drugs for a dog with L2-HGA</td><td>Family</td><td>For the dog's whole life</td><td>€200–400 a month</td></tr>

@@ -76,7 +76,7 @@ custom_content: |
   <h3>The first champion: Gentleman Jim</h3>
   <p>One name stands above the rest. <strong>Gentleman Jim</strong>, born on 25 May 1936 and bred by Jack Dunn, was a son of Brindle Mick, the founder of the M-Line. He became the breed's <strong>first male champion</strong> in 1939, and practically every modern Staffordshire Bull Terrier carries him somewhere in its pedigree, often several times over.</p>
 
-  <p>That ubiquity has a cost. A single dog appearing repeatedly in almost every pedigree narrows the gene pool of the whole breed, which is one reason every breeding dog here is tested for L2HGA and HC, or clear by parentage with its parents' reports. Our dogs are also clear of DM-SOD1.</p>
+  <p>That ubiquity has a cost. A single dog appearing repeatedly in almost every pedigree narrows the gene pool of the whole breed, which is one reason every breeding dog here is tested for L2-HGA and HC, or clear by parentage with its parents' reports. Our dogs are also clear of DM-SOD1.</p>
 
   <h3>M-Line, the widespread one</h3>
   <p>The M-Line, from Brindle Mick, is today by far the most widespread: in the <a href="https://thestaffordknot.com/the-original-lines-explained/" target="_blank" rel="noopener" aria-label="The Stafford Knot database – The Stafford Knot, the original lines explained (opens in a new tab)">The Stafford Knot database</a> about 32,500 males descend from it in male line, against about 6,750 for the R-Line, while the other four lines count a hundred at most. Its best-known names include Gentleman Jim himself and <strong>Cross Guns Johnson</strong>, full brother of Brindle Mick and so Gentleman Jim's uncle, Best of Breed at the first Crufts the breed attended.</p>

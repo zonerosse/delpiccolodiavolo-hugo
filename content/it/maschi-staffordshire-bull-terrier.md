@@ -5,7 +5,7 @@ date: 2025-12-28
 lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "maschi"
-description: "I maschi Staffordshire Bull Terrier dell'allevamento: Lothar, Campione Sloveno e Giovane Campione Italiano, Braveheart e Papillon, con test L2HGA, HC e DM."
+description: "I maschi Staffordshire Bull Terrier dell'allevamento: Lothar, Campione Sloveno e Giovane Campione Italiano, Braveheart e Papillon, con test L2-HGA, HC e DM."
 slug: "maschi-staffordshire-bull-terrier"
 custom_content: |
   <!--BLOCCO:1-->
@@ -18,7 +18,7 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">I nostri maschi</span>
   <h1 class="hero-title">Maschi <br><em>Staffordshire</em> <br>Bull Terrier</h1>
-  <p class="hero-subtitle">Test del DNA: esenti da L2HGA, HC (HSF4) e DM-SOD1</p>
+  <p class="hero-subtitle">Test del DNA: esenti da L2-HGA, HC (HSF4) e DM-SOD1</p>
   <p class="hero-description">Per ogni maschio trovi test genetici, padre, madre e pedigree su SBTPedigree, da controllare da solo.</p>
   <div class="hero-actions">
   <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sui%20maschi" class="btn btn-primary" title="Contattaci su WhatsApp per info maschi">Contattaci</a>
@@ -32,7 +32,7 @@ custom_content: |
   <div class="features-track">
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA esente</span>
+  <span>L2-HGA esente</span>
   <span>HC esente</span>
   <span>DM-SOD1 esente</span>
   <span>Campioni Italiani</span>
@@ -40,7 +40,7 @@ custom_content: |
   <span>Ostellato FE</span>
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA esente</span>
+  <span>L2-HGA esente</span>
   <span>HC esente</span>
   <span>DM-SOD1 esente</span>
   <span>Campioni Italiani</span>
@@ -68,7 +68,7 @@ custom_content: |
   <img src="/images/lothar-matthaus-tyson-locandina.avif" alt="CH SLO J.CH ITA Lothar Matthäus del Piccolo Diavolo detto Tyson, maschio Staffordshire Bull Terrier tigrato allevato da Del Piccolo Diavolo" width="900" height="1228" loading="lazy" decoding="async" srcset="/images/lothar-matthaus-tyson-locandina-400w.avif 400w, /images/lothar-matthaus-tyson-locandina-800w.avif 800w, /images/lothar-matthaus-tyson-locandina.avif 900w" sizes="(max-width: 900px) 100vw, 900px">
   </div>
   <div class="male-info">
-  <p><strong>Test genetici:</strong> L2HGA esente · HC (HSF4) esente · DM-SOD1 esente · OCD esente</p>
+  <p><strong>Test genetici:</strong> L2-HGA esente · HC (HSF4) esente · DM-SOD1 esente · OCD esente</p>
   <p><strong>Displasia:</strong> anche HD B · gomiti ED 0</p>
   <p><strong>Dentatura:</strong> completa, chiusura a forbice</p>
   <p><strong>Padre:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford" style="color:#8b5a2b;font-weight:700;text-decoration:underline;text-underline-offset:3px" aria-label="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford (si apre in una nuova scheda)">Bullbrothers Hott as Hell &#8599;</a> «HEAT», Multi Campione Internazionale, qualificato Crufts, allevamento TheReds Stafford</p>
@@ -91,7 +91,7 @@ custom_content: |
   <img src="/images/maschio-braveheart.webp" alt="Braveheart del Piccolo Diavolo — Staffordshire Bull Terrier" width="350" height="350" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
-  <p><strong>Test genetici:</strong> L2HGA, HC (HSF4) e DM-SOD1 esente, test del DNA</p>
+  <p><strong>Test genetici:</strong> L2-HGA, HC (HSF4) e DM-SOD1 esente, test del DNA</p>
   <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> Alport The Sandman</p>
   <p><strong>Madre:</strong> Jackie Kennedy Great'n Glory</p>
@@ -112,7 +112,7 @@ custom_content: |
   <img src="/images/maschio-papillon.webp" alt="Papillon del Piccolo Diavolo — Staffordshire Bull Terrier" width="350" height="438" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
-  <p><strong>Test genetici:</strong> L2HGA, HC (HSF4) e DM-SOD1 esente, test del DNA</p>
+  <p><strong>Test genetici:</strong> L2-HGA, HC (HSF4) e DM-SOD1 esente, test del DNA</p>
   <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> Alport The Sandman</p>
   <p><strong>Madre:</strong> Jackie Kennedy Great'n Glory</p>
@@ -139,7 +139,7 @@ custom_content: |
   <p style="margin-top:1rem">Un maschio riproduttore pesa molto più di una femmina sul futuro di una linea: una femmina produce 2 o 3 cucciolate in tutta la vita, un maschio può essere padre di decine di cuccioli. Per questo il criterio di ammissione è più severo, non più permissivo.</p>
   <p style="margin-top:1rem">Guardiamo tre cose, in quest'ordine. Il <strong>carattere</strong>: un soggetto insicuro o reattivo non entra nel programma, per quanto sia corretto nella morfologia, perché un difetto caratteriale si propaga per generazioni e si manifesta nelle case delle famiglie. La <strong>respirazione</strong>: un cane che fatica dopo pochi minuti di trotto o soffre al primo caldo ha un problema di benessere, indipendentemente da quanti titoli abbia. E la <strong>tipicità senza esagerazioni</strong>: testa corretta e ossatura solida, ma non a scapito della funzionalità.</p>
   <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">I nostri maschi sono testati per:</p>
-  <p>✓ <strong>L2HGA</strong> — Aciduria L-2-Idrossiglutarica<br>
+  <p>✓ <strong>L2-HGA</strong> — Aciduria L-2-Idrossiglutarica<br>
   ✓ <strong>HC</strong> — Cataratta Ereditaria<br>
   ✓ <strong>DM-SOD1</strong> — Mielopatia degenerativa<br>
   ✓ <strong>Dentatura</strong> — Chiusura a forbice completa</p>

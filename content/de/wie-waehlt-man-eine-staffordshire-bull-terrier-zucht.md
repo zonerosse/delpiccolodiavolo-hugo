@@ -57,7 +57,7 @@ lastmod: 2026-10-17
 
 <h2>1. Die Gentests der Zuchttiere</h2>
 
-<p>Der Staffordshire Bull Terrier hat zwei bekannte Erbkrankheiten: <strong>L2HGA</strong>, eine neurologische Erkrankung, und <strong>HC</strong>, den erblichen Katarakt, der zur Erblindung führt. Beide werden autosomal rezessiv vererbt: zwei gesunde Anlageträger können erkrankte Welpen bekommen.</p>
+<p>Der Staffordshire Bull Terrier hat zwei bekannte Erbkrankheiten: <strong>L2-HGA</strong>, eine neurologische Erkrankung, und <strong>HC</strong>, den erblichen Katarakt, der zur Erblindung führt. Beide werden autosomal rezessiv vererbt: zwei gesunde Anlageträger können erkrankte Welpen bekommen.</p>
 
 <p><strong>Wie man es überprüft.</strong> "Sie sind getestet" genügt nicht. Verlangen Sie den Befund als PDF und prüfen Sie drei Dinge: den Namen des Labors, die Mikrochipnummer des Hundes und das Datum. Ein Befund ohne Mikrochip lässt sich keinem bestimmten Tier zuordnen. Kommt nur ein unscharfes Foto oder ein beschnittener Screenshot, bleiben Sie hartnäckig.</p>
 
@@ -69,7 +69,7 @@ lastmod: 2026-10-17
 
 <p><strong>Wie man es überprüft.</strong> Legen Sie beide Befunde nebeneinander und vergleichen Sie Krankheit für Krankheit. Wo ein Elternteil fehlt, fehlt die Garantie.</p>
 
-<p><strong>Unsere.</strong> Auf der Seite des <a href="/de/diario-allevamento/wurf-bilquis-black-jack-august-2026/" title="Wurf Bilquis, August 2026">Wurfes vom August 2026</a> steht genau das: die Welpen sind über die Eltern frei von L2HGA und erblichem Katarakt, und sie sind es nicht für Hyperurikosurie und MDR1, weil wir dafür nur den Befund des Vaters haben.</p>
+<p><strong>Unsere.</strong> Auf der Seite des <a href="/de/diario-allevamento/wurf-bilquis-black-jack-august-2026/" title="Wurf Bilquis, August 2026">Wurfes vom August 2026</a> steht genau das: die Welpen sind über die Eltern frei von L2-HGA und erblichem Katarakt, und sie sind es nicht für Hyperurikosurie und MDR1, weil wir dafür nur den Befund des Vaters haben.</p>
 
 <h2>3. Die Ahnentafel und wer darin steht</h2>
 
@@ -170,7 +170,7 @@ lastmod: 2026-10-17
 <div class="related-articles">
 <h3>Verwandte Artikel</h3>
 <ul>
-<li><a href="/de/staffy-gentests-l2hga-hc/" title="Gentests L2HGA und HC">Gentests L2-HGA und HC: wie sie funktionieren</a></li>
+<li><a href="/de/staffy-gentests-l2hga-hc/" title="Gentests L2-HGA und HC">Gentests L2-HGA und HC: wie sie funktionieren</a></li>
 <li><a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Was ein Welpe kostet">Was ein Welpe kostet und was hinter dem Preis steht</a></li>
 <li><a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor: was die Forschung sagt">Bio Sensor: was die Forschung wirklich sagt</a></li>
 <li><a href="/de/huendinnen-staffordshire-bull-terrier/" title="Unsere H&uuml;ndinnen">Unsere H&uuml;ndinnen, mit Mikrochip und Ahnentafel</a></li>

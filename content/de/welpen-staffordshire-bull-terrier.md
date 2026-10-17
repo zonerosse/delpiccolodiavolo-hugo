@@ -5,7 +5,7 @@ date: 2025-12-28
 lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
-description: "Staffordshire Bull Terrier Welpen in Ostellato (FE). ENCI-Ahnentafel, Eltern auf L2HGA und HC getestet, Befunde auf der Website veröffentlicht."
+description: "Staffordshire Bull Terrier Welpen in Ostellato (FE). ENCI-Ahnentafel, Eltern auf L2-HGA und HC getestet, Befunde auf der Website veröffentlicht."
 correlati:
   - url: "/de/staffy-gentests-l2hga-hc/"
     titolo: "Gentests: L2-HGA und HC"
@@ -46,7 +46,7 @@ custom_content: |
   <div class="features-track">
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA frei</span>
+  <span>L2-HGA frei</span>
   <span>HC frei</span>
   <span>DM-SOD1 frei</span>
   <span>Italienische Champions</span>
@@ -54,7 +54,7 @@ custom_content: |
   <span>Ostellato FE</span>
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA frei</span>
+  <span>L2-HGA frei</span>
   <span>HC frei</span>
   <span>DM-SOD1 frei</span>
   <span>Italienische Champions</span>
@@ -171,7 +171,7 @@ custom_content: |
   <span class="section-label">Bevor sie geboren werden</span>
   <h2 class="section-title">Von der L&auml;ufigkeit bis zur Geburt: wie ein Wurf entsteht</h2>
 
-  <p>Ein Wurf Staffordshire Bull Terrier bei Del Piccolo Diavolo beginnt lange vor der Geburt. Am Anfang stehen die Untersuchung vor der Läufigkeit und die Progesteronmessung, um den richtigen Zeitpunkt für die Verpaarung zu finden; die Trächtigkeit wird um den fünfundzwanzigsten Tag per Ultraschall bestätigt, und die Welpen werden fünf bis sieben Tage vor der Geburt mit einem Röntgenbild gezählt. Die Welpen kommen im Haus zur Welt und bleiben den ersten Monat dort, in der Wurfkiste. Dann ziehen sie in einen Auslauf mit Zugang nach draußen und kommen abwechselnd, zu zweit oder zu dritt, wieder ins Haus. Sie gehen nach den 60 Tagen, die das italienische Gesetz vorschreibt, in ihre Familien, mit Mikrochip, ersten Impfungen, <a href="/de/welpen-entwurmung-kotuntersuchung/" title="Entwurmung und Kotuntersuchung">Entwurmung mit Kotuntersuchung</a> und ENCI-Ahnentafel. Die Eltern sind auf L2HGA und HC getestet, die Mütter auch auf DM-SOD1, und die Befunde sind mit vollständiger Mikrochipnummer auf der Website veröffentlicht.</p>
+  <p>Ein Wurf Staffordshire Bull Terrier bei Del Piccolo Diavolo beginnt lange vor der Geburt. Am Anfang stehen die Untersuchung vor der Läufigkeit und die Progesteronmessung, um den richtigen Zeitpunkt für die Verpaarung zu finden; die Trächtigkeit wird um den fünfundzwanzigsten Tag per Ultraschall bestätigt, und die Welpen werden fünf bis sieben Tage vor der Geburt mit einem Röntgenbild gezählt. Die Welpen kommen im Haus zur Welt und bleiben den ersten Monat dort, in der Wurfkiste. Dann ziehen sie in einen Auslauf mit Zugang nach draußen und kommen abwechselnd, zu zweit oder zu dritt, wieder ins Haus. Sie gehen nach den 60 Tagen, die das italienische Gesetz vorschreibt, in ihre Familien, mit Mikrochip, ersten Impfungen, <a href="/de/welpen-entwurmung-kotuntersuchung/" title="Entwurmung und Kotuntersuchung">Entwurmung mit Kotuntersuchung</a> und ENCI-Ahnentafel. Die Eltern sind auf L2-HGA und HC getestet, die Mütter auch auf DM-SOD1, und die Befunde sind mit vollständiger Mikrochipnummer auf der Website veröffentlicht.</p>
 
   <p>&Uuml;ber das, was nach der Geburt passiert, wird viel geschrieben. &Uuml;ber das, was davor passiert, fast nie. Und doch entscheidet sich dort der gr&ouml;&szlig;te Teil davon, wie ein Wurf verl&auml;uft.</p>
 
@@ -250,7 +250,7 @@ custom_content: |
   <li>der ENCI-Ahnentafel;</li>
   <li>dem Heimtierausweis mit Impf- und Entwurmungsdaten;</li>
   <li>dem Mikrochip-Nachweis;</li>
-  <li>den Gentest-Befunden der Eltern, L2HGA und HC, dazu DM-SOD1 der Mutter;</li>
+  <li>den Gentest-Befunden der Eltern, L2-HGA und HC, dazu DM-SOD1 der Mutter;</li>
   <li>Fotos seines Heranwachsens;</li>
   <li>unserem <a href="/docs/ratgeber-erste-monate-staffy-welpe.pdf" title="Ratgeber für die ersten Monate mit einem Staffy-Welpen">Ratgeber für die ersten Monate</a>, zu Fütterung und Pflege.</li>
   </ul>
@@ -285,7 +285,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was kostet ein Staffordshire Bull Terrier Welpe?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Eine Preisliste gibt es nicht, und was man zahlt, spiegelt Kosten wider, die entstehen, bevor der Welpe geboren wird. Die Gentests der beiden Zuchthunde auf L2HGA und HC werden einmal pro Hund bezahlt und gelten für ihr ganzes Zuchtleben. Die Eintragung des Wurfs ins ENCI-Zuchtbuch hat öffentliche Gebühren. Dazu kommen Tierarztbesuche während der Trächtigkeit, der Ultraschall um den fünfundzwanzigsten Tag, das Röntgenbild vor der Geburt, die ersten Impfungen, die Entwurmungen und der Mikrochip. <strong>Ein sehr niedriger Preis bedeutet fast immer, dass etwas fehlt</strong>: die Tests, die Ahnentafel oder Welpen, die vor den gesetzlichen 60 Tagen von der Mutter getrennt wurden. Die ganze Aufstellung steht unter <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Was kostet ein Staffy-Welpe">was ein Welpe wirklich kostet</a>.</div>
+  <div class="faq-answer">Eine Preisliste gibt es nicht, und was man zahlt, spiegelt Kosten wider, die entstehen, bevor der Welpe geboren wird. Die Gentests der beiden Zuchthunde auf L2-HGA und HC werden einmal pro Hund bezahlt und gelten für ihr ganzes Zuchtleben. Die Eintragung des Wurfs ins ENCI-Zuchtbuch hat öffentliche Gebühren. Dazu kommen Tierarztbesuche während der Trächtigkeit, der Ultraschall um den fünfundzwanzigsten Tag, das Röntgenbild vor der Geburt, die ersten Impfungen, die Entwurmungen und der Mikrochip. <strong>Ein sehr niedriger Preis bedeutet fast immer, dass etwas fehlt</strong>: die Tests, die Ahnentafel oder Welpen, die vor den gesetzlichen 60 Tagen von der Mutter getrennt wurden. Die ganze Aufstellung steht unter <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Was kostet ein Staffy-Welpe">was ein Welpe wirklich kostet</a>.</div>
   </div>
 
   <div class="faq-item active">

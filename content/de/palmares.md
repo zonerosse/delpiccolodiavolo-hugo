@@ -202,7 +202,7 @@ custom_content: |
   <h3>Jugendchampionin und San Marino Championin</h3>
   <p><strong>JCH San Marino 2023</strong> - Jugendchampionin gewonnen 2023.</p>
   <p><strong>CH San Marino 2024</strong> - San Marino Championin gewonnen 2024.</p>
-  <p>Bei uns geboren und aufgezogen, jetzt im Besitz von Ricarda Mazzola Wagner (Valconcaclan). Gentests L2HGA und HC (HSF4) frei, vollständiges Scherengebiss.</p>
+  <p>Bei uns geboren und aufgezogen, jetzt im Besitz von Ricarda Mazzola Wagner (Valconcaclan). Gentests L2-HGA und HC (HSF4) frei, vollständiges Scherengebiss.</p>
   </div>
   </div>
   </div>

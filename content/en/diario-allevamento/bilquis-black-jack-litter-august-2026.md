@@ -1,6 +1,6 @@
 ---
 title: "Bilquis × Black Jack Litter (August 2026)"
-lastmod: 2026-10-15
+lastmod: 2026-10-17
 articolo: true
 titleSeo: "Bilquis × Black Jack litter, August 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
@@ -91,7 +91,7 @@ At fifty-five days the ears are right in the middle of settling: they go up, dro
     <img src="/images/jack1.jpg" alt="Black Jack di Casa Giacalone - Black Staffordshire Bull Terrier stud" width="250" height="399" loading="lazy" decoding="async">
     <ul>
       <li>Colour: Black</li>
-      <li>L2HGA: <strong>Free by parents</strong> (parents Clear)</li>
+      <li>L2-HGA: <strong>Free by parents</strong> (parents Clear)</li>
       <li>HC: <strong>Free by parents</strong> (parents Clear)</li>
       <li>Full scissor bite</li>
     </ul>
@@ -107,7 +107,7 @@ At fifty-five days the ears are right in the middle of settling: they go up, dro
     <img src="/images/ffbilly-compressa--1---1-.webp" alt="Bilquis Goddess Diabhal - Italian Champion Staffordshire Bull Terrier" width="250" height="333" loading="lazy" decoding="async">
     <ul>
       <li>Colour: Black brindle and white</li>
-      <li>L2HGA: Clear (N/N)</li>
+      <li>L2-HGA: Clear (N/N)</li>
       <li>HC: Clear (N/N)</li>
       <li>Full scissor bite</li>
     </ul>
@@ -159,11 +159,11 @@ The parents are tested for the main genetic conditions of the breed:
 
 | Test | Black Jack | Bilquis |
 |------|-----|------|
-| L2HGA (L-2-hydroxyglutaric aciduria) | Free by parents* | Clear (N/N) |
+| L2-HGA (L-2-hydroxyglutaric aciduria) | Free by parents* | Clear (N/N) |
 | HC (Hereditary Cataract) | Free by parents* | Clear (N/N) |
 | Bite | Full scissor | Full scissor |
 
-<p style="font-size:.9rem;color:#666"><em>* Clear by parentage: both of Black Jack's parents are tested Clear for L2HGA and HC, so the offspring cannot be genetically affected. The certificates are detailed below. Black Jack is a young male: individual official tests are scheduled.</em></p>
+<p style="font-size:.9rem;color:#666"><em>* Clear by parentage: both of Black Jack's parents are tested Clear for L2-HGA and HC, so the offspring cannot be genetically affected. The certificates are detailed below. Black Jack is a young male: individual official tests are scheduled.</em></p>
 
 ### Black Jack's parents: the certificates
 
@@ -174,7 +174,7 @@ The parents are tested for the main genetic conditions of the breed:
     <p style="margin:.6rem 0 .3rem;font-weight:700">Quash Marvelous Hagler de Stafflorence</p>
     <p style="margin:0 0 .9rem;font-size:.82rem;color:#666;line-height:1.5">Male, born 26/02/2021 — microchip 380260160176743<br>Antagene (La Tour de Salvagny, France) — report A00046270, validated 08/09/2023</p>
     <ul style="margin:0;padding-left:1.1rem;font-size:.92rem">
-      <li>L2HGA (L2HGDH): <strong>Clear (N/N)</strong></li>
+      <li>L2-HGA (L2HGDH): <strong>Clear (N/N)</strong></li>
       <li>HC (HSF4): <strong>Clear (N/N)</strong></li>
       <li>Hyperuricosuria (SLC2A9): <strong>Clear (N/N)</strong></li>
       <li>MDR1: <strong>Clear (N/N)</strong></li>
@@ -187,16 +187,16 @@ The parents are tested for the main genetic conditions of the breed:
     <p style="margin:.6rem 0 .3rem;font-weight:700">Ultima di Casa Giacalone</p>
     <p style="margin:0 0 .9rem;font-size:.82rem;color:#666;line-height:1.5">Female — microchip 380260044680718, pedigree LO2313633<br>EVG Molekularna Diagnostika (Maribor, Slovenia) — reference 2026-083880/01, 27/08/2026</p>
     <ul style="margin:0;padding-left:1.1rem;font-size:.92rem">
-      <li>L2HGA (L2HGDH): <strong>Clear (WT/WT)</strong></li>
+      <li>L2-HGA (L2HGDH): <strong>Clear (WT/WT)</strong></li>
       <li>HC (HSF4): <strong>Clear (WT/WT)</strong></li>
     </ul>
-    <p style="margin:.9rem 0 0"><a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b" aria-label="L2HGA certificate (PDF) (opens in a new tab)">L2HGA certificate (PDF) →</a></p>
+    <p style="margin:.9rem 0 0"><a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b" aria-label="L2-HGA certificate (PDF) (opens in a new tab)">L2-HGA certificate (PDF) →</a></p>
     <p style="margin:.35rem 0 0"><a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b" aria-label="HC certificate (PDF) (opens in a new tab)">HC certificate (PDF) →</a></p>
   </div>
 
 </div>
 
-<p style="font-size:.9rem;color:#555;border-left:3px solid #5c4a3a;padding-left:1rem;margin:1.5rem 0">Both parents are normal homozygous for L2HGA and hereditary cataract: neither carries the defective allele, so Black Jack cannot have inherited it. Hyperuricosuria and MDR1 are tested on the sire only, so for those two the offspring cannot be declared clear by parentage.</p>
+<p style="font-size:.9rem;color:#555;border-left:3px solid #5c4a3a;padding-left:1rem;margin:1.5rem 0">Both parents are normal homozygous for L2-HGA and hereditary cataract: neither carries the defective allele, so Black Jack cannot have inherited it. Hyperuricosuria and MDR1 are tested on the sire only, so for those two the offspring cannot be declared clear by parentage.</p>
 
 <div style="background:linear-gradient(135deg,#5c4a3a 0%,#8b7355 100%);padding:2rem;border-radius:12px;margin:2rem 0;color:#fff">
 <h3 style="margin:0 0 1rem;font-size:1.1rem;font-family:inherit;font-weight:600;color:#fff;display:flex;align-items:center;gap:.5rem">
@@ -209,17 +209,17 @@ Verifiable genetic tests
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Quash — Genetic tests
 </a>
-<a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima — L2HGA – Ultima, Black Jack's dam — L2HGA test (PDF) (opens in a new tab)">
+<a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima — L2-HGA – Ultima, Black Jack's dam — L2-HGA test (PDF) (opens in a new tab)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
-Ultima — L2HGA
+Ultima — L2-HGA
 </a>
 <a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima — HC – Ultima, Black Jack's dam — HC test (PDF) (opens in a new tab)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Ultima — HC
 </a>
-<a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Bilquis — L2HGA &amp; HC – Bilquis — L2HGA and HC test (PDF) (opens in a new tab)">
+<a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Bilquis — L2-HGA &amp; HC – Bilquis — L2-HGA and HC test (PDF) (opens in a new tab)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
-Bilquis — L2HGA &amp; HC
+Bilquis — L2-HGA &amp; HC
 </a>
 <a href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Bilquis — Doppler echocardio (PDF) (opens in a new tab)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>

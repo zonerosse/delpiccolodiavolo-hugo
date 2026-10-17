@@ -5,7 +5,7 @@ date: 2025-12-28
 lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "femmine"
-description: "Le femmine Staffordshire Bull Terrier: Bilquis (Top Dog Junior 2023), Queen of California, Croi Olc, Divine, Kennedy, Derry, Cattleya. Test L2HGA, HC e DM-SOD1."
+description: "Le femmine Staffordshire Bull Terrier: Bilquis (Top Dog Junior 2023), Queen of California, Croi Olc, Divine, Kennedy, Derry, Cattleya. Test L2-HGA, HC e DM-SOD1."
 slug: "femmine-staffordshire-bull-terrier"
 custom_content: |
   <!--BLOCCO:1-->
@@ -18,7 +18,7 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Le nostre femmine</span>
   <h1 class="hero-title">Femmine <br><em>Staffordshire</em> <br>Bull Terrier</h1>
-  <p class="hero-subtitle">Test del DNA: esenti da L2HGA e HC (HSF4)</p>
+  <p class="hero-subtitle">Test del DNA: esenti da L2-HGA e HC (HSF4)</p>
   <p class="hero-description">Per ogni femmina trovi microchip, libro genealogico ENCI, test genetici e pedigree, da controllare da solo. Le fattrici in attivit&agrave;, Bilquis e Croi Olc, sono esenti anche dalla mielopatia degenerativa (gene SOD1).</p>
   <div class="hero-actions">
   <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sulle%20femmine" class="btn btn-primary" title="Contattaci su WhatsApp">Contattaci</a>
@@ -32,14 +32,14 @@ custom_content: |
   <div class="features-track">
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA esente</span>
+  <span>L2-HGA esente</span>
   <span>HC esente</span>
   <span>Campioni Italiani</span>
   <span>Pedigree ENCI</span>
   <span>Ostellato FE</span>
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA esente</span>
+  <span>L2-HGA esente</span>
   <span>HC esente</span>
   <span>Campioni Italiani</span>
   <span>Pedigree ENCI</span>
@@ -73,7 +73,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 380260044647848<br>
   <strong>LOI:</strong> LO22197469</p>
-  <p><strong>Test genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>Test genetici:</strong> L2-HGA e HC (HSF4) esente, test del DNA</p>
   <p><strong>Mielopatia degenerativa (SOD1):</strong> Esente, test del DNA</p>
   <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> Pablo iuno sospita plata plomo</p>
@@ -103,7 +103,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 380260160642781<br>
   <strong>LOI:</strong> LO2549181</p>
-  <p><strong>Test genetici:</strong> L2HGA e HC (HSF4) esente per discendenza (genitori esenti)</p>
+  <p><strong>Test genetici:</strong> L2-HGA e HC (HSF4) esente per discendenza (genitori esenti)</p>
   <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> CH. Elitebull Prospect</p>
   <p><strong>Madre:</strong> Lackyle Bean Croí Olc</p>
@@ -130,7 +130,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 991003001293234<br>
   <strong>LOI:</strong> LO24144140</p>
-  <p><strong>Test genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>Test genetici:</strong> L2-HGA e HC (HSF4) esente, test del DNA</p>
   <p><strong>Mielopatia degenerativa (SOD1):</strong> Esente, test del DNA</p>
   <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> Lackyle Trodai Tine</p>
@@ -156,7 +156,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 643094100473511<br>
   <strong>LOI:</strong> LO19125788</p>
-  <p><strong>Test genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>Test genetici:</strong> L2-HGA e HC (HSF4) esente, test del DNA</p>
   <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> CH. Dangerous Smile Black Shadow</p>
   <p><strong>Madre:</strong> CH. Sonrisa Feliz Keely Lariel</p>
@@ -180,7 +180,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 276098104987682<br>
   <strong>LOI:</strong> LO1610654</p>
-  <p><strong>Test genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>Test genetici:</strong> L2-HGA e HC (HSF4) esente, test del DNA</p>
   <p><strong>PHPV:</strong> Esente</p>
   <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> CH. Hell's Angel</p>
@@ -207,7 +207,7 @@ custom_content: |
   <strong>LOI:</strong> LO1610667</p>
   <p><strong>HD:</strong> B</p>
   <p><strong>ED:</strong> A</p>
-  <p><strong>Test genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>Test genetici:</strong> L2-HGA e HC (HSF4) esente, test del DNA</p>
   <p><strong>PHPV:</strong> Esente</p>
   <p><strong>Padre:</strong> CH. Kiraloebis Italian Gigalo (Top UK Staffordshire Bull Terrier 2012)</p>
   <p><strong>Madre:</strong> Lackyle Duilleog Daracha</p>
@@ -232,7 +232,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 380260044549631<br>
   <strong>LOI:</strong> LO2222029</p>
-  <p><strong>Test genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>Test genetici:</strong> L2-HGA e HC (HSF4) esente, test del DNA</p>
   <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> THE Phenomenal AJ Styles Valconcaclan</p>
   <p><strong>Madre:</strong> Foyleoak Maiden Derry</p>
@@ -257,7 +257,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 380260004336944<br>
   <strong>LOI:</strong> LO2199721</p>
-  <p><strong>Test genetici:</strong> L2HGA e HC (HSF4) esente, test del DNA</p>
+  <p><strong>Test genetici:</strong> L2-HGA e HC (HSF4) esente, test del DNA</p>
   <p><strong>Mielopatia degenerativa (SOD1):</strong> Esente, test del DNA</p>
   <p><strong>Dentatura:</strong> Chiusura a forbice completa</p>
   <p><strong>Padre:</strong> Skilful-Dogs Jeghër</p>
@@ -286,7 +286,7 @@ custom_content: |
 
   <p>Le scegliamo per <strong>salute</strong>, <strong>tipicit&agrave;</strong> e <strong>carattere equilibrato</strong>. Ogni accoppiamento parte dai test genetici e da come si combinano le linee dei due cani.</p>
   <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Le nostre femmine sono testate per:</p>
-  <p>✓ <strong>L2HGA</strong> — Aciduria L-2-Idrossiglutarica<br>
+  <p>✓ <strong>L2-HGA</strong> — Aciduria L-2-Idrossiglutarica<br>
   ✓ <strong>HC</strong> — Cataratta Ereditaria<br>
   ✓ <strong>DM-SOD1</strong> — Mielopatia degenerativa<br>
   ✓ <strong>Dentatura</strong> — Chiusura a forbice completa</p>

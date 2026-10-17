@@ -45,7 +45,7 @@ custom_content: |
   <div class="features-track">
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA esente</span>
+  <span>L2-HGA esente</span>
   <span>HC esente</span>
   <span>DM-SOD1 esente</span>
   <span>Campioni Italiani</span>
@@ -53,7 +53,7 @@ custom_content: |
   <span>Ostellato FE</span>
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA esente</span>
+  <span>L2-HGA esente</span>
   <span>HC esente</span>
   <span>DM-SOD1 esente</span>
   <span>Campioni Italiani</span>
@@ -89,7 +89,7 @@ custom_content: |
   <span class="dog-name">JCH. CH. Italiana Bilquis Goddess Diabhal</span>
   <img src="/images/ffbilly-compressa--1---1-.webp" alt="Bilquis Goddess Diabhal - Campionessa Italiana Staffordshire Bull Terrier" width="301" height="396" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA e HC esente, test del DNA</li>
+  <li>L2-HGA e HC esente, test del DNA</li>
   <li>Chiusura a forbice completa</li>
   <li>Qualified for CRUFTS 2024/25</li>
   <li>Top Dog Junior female 2023</li>
@@ -104,7 +104,7 @@ custom_content: |
   <span class="dog-name">Black Jack di Casa Giacalone</span>
   <img src="/images/jack1.jpg" alt="Black Jack di Casa Giacalone - Riproduttore Staffordshire Bull Terrier nero" width="300" height="478" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA e HC esente per discendenza (genitori esenti)</li>
+  <li>L2-HGA e HC esente per discendenza (genitori esenti)</li>
   <li>Chiusura a forbice completa</li>
   <li>Figlio del Campione del Mondo 2023</li>
   </ul>
@@ -130,7 +130,7 @@ custom_content: |
   <span class="dog-name">Vangerbull Red Harricane</span>
   <img src="/images/red.avif" alt="Vangerbull Red Harricane - Riproduttore Staffordshire Bull Terrier" width="225" height="291" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA e HC esente, test del DNA</li>
+  <li>L2-HGA e HC esente, test del DNA</li>
   <li>Chiusura a forbice completa</li>
   </ul>
   <p>CH. Americano Toreator De Testaferro x Staffgold Girl Of Ice</p>
@@ -143,7 +143,7 @@ custom_content: |
   <span class="dog-name">Skilful-dogs Nora</span>
   <img src="/images/nora-femmina-staffordshire-bull-terrier.avif" alt="Skilful-dogs Nora - Riproduttrice Staffordshire Bull Terrier" width="300" height="446" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA e HC esente, test del DNA</li>
+  <li>L2-HGA e HC esente, test del DNA</li>
   <li>Chiusura a forbice completa</li>
   </ul>
   <p>Skilful-Dogs Jeghër × Skilful-Dogs Red Skin</p>
@@ -169,7 +169,7 @@ custom_content: |
   <span class="dog-name">JCH. CH. Italiana Bilquis Goddess Diabhal</span>
   <img src="/images/ffbilly-compressa--1---1-.webp" alt="Bilquis Goddess Diabhal - Campionessa Italiana Staffordshire Bull Terrier" width="301" height="396" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA e HC esente, test del DNA</li>
+  <li>L2-HGA e HC esente, test del DNA</li>
   <li>Chiusura a forbice completa</li>
   <li>Qualified for CRUFTS 2024/25</li>
   <li>Top Dog Junior female 2023</li>
@@ -184,7 +184,7 @@ custom_content: |
   <span class="dog-name">Il lupo perde il pelo ma non il vizio – Luis</span>
   <img src="/images/luis2.webp" alt="Luis - Maschio Staffordshire Bull Terrier riproduttore" width="300" height="447" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA e HC esente, test del DNA</li>
+  <li>L2-HGA e HC esente, test del DNA</li>
   <li>Chiusura a forbice completa</li>
   </ul>
   <p>D' Spain Fuogo Negro Espartaco × Iunosospita Torvi</p>
@@ -209,7 +209,7 @@ custom_content: |
   <span class="dog-name">CH. Elitebull Prospect</span>
   <img src="/images/george--1---1-.webp" alt="Elitebull Prospect - Riproduttore Staffordshire Bull Terrier" width="225" height="320" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA e HC esente, test del DNA</li>
+  <li>L2-HGA e HC esente, test del DNA</li>
   <li>Chiusura a forbice completa</li>
   </ul>
   <p>CH. Elitebulls Challenger × Elitebull Destiny</p>
@@ -222,7 +222,7 @@ custom_content: |
   <span class="dog-name">Lackyle Bean Croí Olc</span>
   <img src="/images/minnie3.webp" alt="Lackyle Bean Croí Olc - Riproduttrice Staffordshire Bull Terrier" width="225" height="320" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA e HC esente, test del DNA</li>
+  <li>L2-HGA e HC esente, test del DNA</li>
   <li>Chiusura a forbice completa</li>
   </ul>
   <p>Lackyle Trodai Tine × CH. Lackyle Ogbhean an Diabhal</p>
@@ -260,7 +260,7 @@ custom_content: |
   <h2 class="section-title">Come selezioniamo i riproduttori</h2>
 
   <div class="intro-block">
-  <p>Un accoppiamento a Del Piccolo Diavolo si programma con mesi di anticipo e segue sempre lo stesso percorso. Si parte dai test genetici dei due riproduttori per L2HGA e HC, e per la fattrice anche per DM-SOD1, poi si studiano i pedigree su SBTPedigree con la funzione di prova di accoppiamento, che mostra il coefficiente di consanguineità teorico dei cuccioli e su quali antenati si concentra. La forbice entro cui ci muoviamo va dal 6 al 9 per cento: sotto si perde la possibilità di fissare un carattere, sopra si stringe troppo. Il maschio arriva quasi sempre da fuori, scelto per correggere quello che manca alla femmina e non per sommare due cani belli. Il risultato è una cucciolata l'anno, occasionalmente due, in alcuni anni nessuna: se il momento giusto non arriva, quell'anno non nasce niente.</p>
+  <p>Un accoppiamento a Del Piccolo Diavolo si programma con mesi di anticipo e segue sempre lo stesso percorso. Si parte dai test genetici dei due riproduttori per L2-HGA e HC, e per la fattrice anche per DM-SOD1, poi si studiano i pedigree su SBTPedigree con la funzione di prova di accoppiamento, che mostra il coefficiente di consanguineità teorico dei cuccioli e su quali antenati si concentra. La forbice entro cui ci muoviamo va dal 6 al 9 per cento: sotto si perde la possibilità di fissare un carattere, sopra si stringe troppo. Il maschio arriva quasi sempre da fuori, scelto per correggere quello che manca alla femmina e non per sommare due cani belli. Il risultato è una cucciolata l'anno, occasionalmente due, in alcuni anni nessuna: se il momento giusto non arriva, quell'anno non nasce niente.</p>
 
   <details class="continua"><summary>Continua a leggere</summary>
   <p>Lavoriamo su linee inglesi (Elitebull) e irlandesi (Lackyle), verificabili su SBTPedigree, con riproduttori che hanno dato prova di s&eacute; in esposizione e hanno i test genetici.</p>
@@ -286,7 +286,7 @@ custom_content: |
   <span class="section-label">Salute</span>
   <h2>Cosa testiamo prima di ogni accoppiamento</h2>
 
-  <p>Nessun riproduttore entra nel programma senza i test per <strong>L2HGA</strong> e <strong>HC</strong>, le due malattie genetiche della razza. I nostri cani sono esenti anche dalla <strong>mielopatia degenerativa (DM-SOD1)</strong>. I referti sono pubblicati sulle pagine dei cani, con il numero di microchip in chiaro.</p>
+  <p>Nessun riproduttore entra nel programma senza i test per <strong>L2-HGA</strong> e <strong>HC</strong>, le due malattie genetiche della razza. I nostri cani sono esenti anche dalla <strong>mielopatia degenerativa (DM-SOD1)</strong>. I referti sono pubblicati sulle pagine dei cani, con il numero di microchip in chiaro.</p>
 
   <p>Come funzionano quei test, cosa significano gli esiti e perch&eacute; due portatori sani non vanno mai accoppiati fra loro: lo spieghiamo nella <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">pagina dedicata ai test genetici</a>.</p>
 

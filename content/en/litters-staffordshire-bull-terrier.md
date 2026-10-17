@@ -5,7 +5,7 @@ date: 2025-12-28
 lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "programma"
-description: "Staffordshire Bull Terrier litters at Del Piccolo Diavolo: planned and past pairings, the parents, their L2HGA and HC tests, and how we decide each mating."
+description: "Staffordshire Bull Terrier litters at Del Piccolo Diavolo: planned and past pairings, the parents, their L2-HGA and HC tests, and how we decide each mating."
 correlati:
   - url: "/en/staffy-bloodlines-guide/"
     titolo: "Bloodlines: English and Irish"
@@ -42,7 +42,7 @@ custom_content: |
   <div class="features-track">
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA Clear</span>
+  <span>L2-HGA Clear</span>
   <span>HC Clear</span>
   <span>DM-SOD1 Clear</span>
   <span>Italian Champions</span>
@@ -50,7 +50,7 @@ custom_content: |
   <span>Ostellato FE</span>
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA Clear</span>
+  <span>L2-HGA Clear</span>
   <span>HC Clear</span>
   <span>DM-SOD1 Clear</span>
   <span>Italian Champions</span>
@@ -84,7 +84,7 @@ custom_content: |
   <span class="dog-name">JCH. CH. Italiana Bilquis Goddess Diabhal</span>
   <img src="/images/ffbilly-compressa--1---1-.webp" alt="Bilquis Goddess Diabhal - Italian Champion Staffordshire Bull Terrier" width="301" height="396" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA &amp; HC clear by DNA</li>
+  <li>L2-HGA &amp; HC clear by DNA</li>
   <li>Completely scissor bite</li>
   <li>Qualified for CRUFTS 2024/25</li>
   <li>Top Dog Junior female 2023</li>
@@ -99,7 +99,7 @@ custom_content: |
   <span class="dog-name">Black Jack di Casa Giacalone</span>
   <img src="/images/jack1.jpg" alt="Black Jack di Casa Giacalone - Black Staffordshire Bull Terrier stud" width="250" height="399" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA &amp; HC free by parents (both parents clear)</li>
+  <li>L2-HGA &amp; HC free by parents (both parents clear)</li>
   <li>Completely scissor bite</li>
   <li>Son of the 2023 World Champion</li>
   </ul>
@@ -133,7 +133,7 @@ custom_content: |
   <span class="dog-name">Vangerbull Red Harricane</span>
   <img src="/images/red.avif" alt="Vangerbull Red Harricane - Staffordshire Bull Terrier stud" width="225" height="291" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA & HC clear by DNA</li>
+  <li>L2-HGA & HC clear by DNA</li>
   <li>Completely scissor bite</li>
   </ul>
   <p>CH. Americano Toreator De Testaferro x Staffgold Girl Of Ice</p>
@@ -146,7 +146,7 @@ custom_content: |
   <span class="dog-name">Skilful-dogs Nora</span>
   <img src="/images/nora-femmina-staffordshire-bull-terrier.avif" alt="Skilful-dogs Nora - Staffordshire Bull Terrier breeding female" width="300" height="446" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA & HC clear by DNA</li>
+  <li>L2-HGA & HC clear by DNA</li>
   <li>Completely scissor bite</li>
   </ul>
   <p>Skilful-Dogs Jeghër × Skilful-Dogs Red Skin</p>
@@ -172,7 +172,7 @@ custom_content: |
   <span class="dog-name">JCH. CH. Italiana Bilquis Goddess Diabhal</span>
   <img src="/images/ffbilly-compressa--1---1-.webp" alt="Bilquis Goddess Diabhal - Italian Champion Staffordshire Bull Terrier" width="301" height="396" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA & HC clear by DNA</li>
+  <li>L2-HGA & HC clear by DNA</li>
   <li>Completely scissor bite</li>
   <li>Qualified for CRUFTS 2024/25</li>
   <li>Top Dog Junior female 2023</li>
@@ -187,7 +187,7 @@ custom_content: |
   <span class="dog-name">Il lupo perde il pelo ma non il vizio – Luis</span>
   <img src="/images/luis2.webp" alt="Luis - Staffordshire Bull Terrier stud dog" width="300" height="447" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA & HC clear by DNA</li>
+  <li>L2-HGA & HC clear by DNA</li>
   <li>Completely scissor bite</li>
   </ul>
   <p>D' Spain Fuogo Negro Espartaco × Iunosospita Torvi</p>
@@ -210,7 +210,7 @@ custom_content: |
   <span class="dog-name">CH. Elitebull Prospect</span>
   <img src="/images/george--1---1-.webp" alt="Elitebull Prospect - Staffordshire Bull Terrier stud" width="225" height="320" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA & HC clear by DNA</li>
+  <li>L2-HGA & HC clear by DNA</li>
   <li>Completely scissor bite</li>
   </ul>
   <p>CH. Elitebulls Challenger × Elitebull Destiny</p>
@@ -223,7 +223,7 @@ custom_content: |
   <span class="dog-name">Lackyle Bean Croí Olc</span>
   <img src="/images/minnie3.webp" alt="Lackyle Bean Croí Olc - Staffordshire Bull Terrier breeding female" width="225" height="320" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA & HC clear by DNA</li>
+  <li>L2-HGA & HC clear by DNA</li>
   <li>Completely scissor bite</li>
   </ul>
   <p>Lackyle Trodai Tine × CH. Lackyle Ogbhean an Diabhal</p>
@@ -254,9 +254,9 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">Method</span>
   <h2 class="section-title">How a mating is planned</h2>
-  <p>A mating at Del Piccolo Diavolo is planned months ahead and always follows the same path. It starts with the genetic tests of both breeding dogs for L2HGA and HC, and for the female also DM-SOD1; then the pedigrees are studied on SBTPedigree with its test-mating function, which shows the theoretical coefficient of inbreeding of the puppies and which ancestors it concentrates on. We work within a range of 6 to 9 per cent: below it you lose the chance to fix a character, above it you tighten too much. The male almost always comes from outside, chosen to correct what the female lacks rather than to add two beautiful dogs together. The result is one litter a year, occasionally two, and in some years none.</p>
+  <p>A mating at Del Piccolo Diavolo is planned months ahead and always follows the same path. It starts with the genetic tests of both breeding dogs for L2-HGA and HC, and for the female also DM-SOD1; then the pedigrees are studied on SBTPedigree with its test-mating function, which shows the theoretical coefficient of inbreeding of the puppies and which ancestors it concentrates on. We work within a range of 6 to 9 per cent: below it you lose the chance to fix a character, above it you tighten too much. The male almost always comes from outside, chosen to correct what the female lacks rather than to add two beautiful dogs together. The result is one litter a year, occasionally two, and in some years none.</p>
   <details class="continua"><summary>Continue reading</summary>
-  <p><strong>What we test before every mating.</strong> No breeding dog enters the programme without the tests for L2HGA and HC, the two genetic diseases of the breed. Our dogs are also clear of degenerative myelopathy (DM-SOD1). The reports are published on the dogs' pages with the microchip number in plain view, and how those tests work is explained in the <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Genetic testing L2-HGA and HC">genetic testing guide</a>.</p>
+  <p><strong>What we test before every mating.</strong> No breeding dog enters the programme without the tests for L2-HGA and HC, the two genetic diseases of the breed. Our dogs are also clear of degenerative myelopathy (DM-SOD1). The reports are published on the dogs' pages with the microchip number in plain view, and how those tests work is explained in the <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Genetic testing L2-HGA and HC">genetic testing guide</a>.</p>
   <p><strong>How you get to a puppy.</strong> The programme is open: for every mating we say who the parents are, which tests they have and why we chose them. Anyone who wants to go further can ask about the results of earlier matings and see the dogs in person. What comes with a puppy is on the <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies page</a>; if you live outside Italy, the timing and documents are on the page about <a href="/en/staffordshire-bull-terrier-puppy-abroad/" title="A puppy going abroad">a puppy going abroad</a>.</p>
   </details>
   <a class="rimando" href="/en/how-to-read-a-pedigree/">
@@ -286,12 +286,12 @@ custom_content: |
 
   <div class="faq-item">
   <h3>What guarantees do you offer on puppies?</h3>
-  <p>Each puppy is delivered with certified ENCI pedigree, microchip, health booklet, first vaccinations and deworming. Parents are tested for L2HGA and HC. The Del Piccolo Diavolo kennel stays available for the whole of the dog's life.</p>
+  <p>Each puppy is delivered with certified ENCI pedigree, microchip, health booklet, first vaccinations and deworming. Parents are tested for L2-HGA and HC. The Del Piccolo Diavolo kennel stays available for the whole of the dog's life.</p>
   </div>
 
   <div class="faq-item">
   <h3>What lies behind one of your litters?</h3>
-  <p>A pairing planned months ahead, breeding dogs tested for L2HGA and HC or clear by parentage, an ENCI pedigree and puppies raised at home. Write to us and we will tell you about the dogs and the litters to come.</p>
+  <p>A pairing planned months ahead, breeding dogs tested for L2-HGA and HC or clear by parentage, an ENCI pedigree and puppies raised at home. Write to us and we will tell you about the dogs and the litters to come.</p>
   </div>
 
   <div style="text-align:center;margin-top:1.5rem">

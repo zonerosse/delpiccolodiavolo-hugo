@@ -63,7 +63,7 @@ custom_content: |
   <p>Sie enthält auch nicht:</p>
 
   <ul>
-  <li><strong>die Gentests</strong>: L2HGA, HC und DM-SOD1 erscheinen nicht</li>
+  <li><strong>die Gentests</strong>: L2-HGA, HC und DM-SOD1 erscheinen nicht</li>
   <li><strong>was diese Hunde</strong> in ihren Würfen hervorgebracht haben</li>
   </ul>
 
@@ -151,7 +151,7 @@ custom_content: |
   <ul>
   <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie man eine seriöse Zucht erkennt">Wie man eine seriöse Zucht erkennt</a></li>
   <li><a href="/de/staffy-blutlinien-guide/" title="Blutlinien des Staffordshire Bull Terrier">Die Blutlinien hinter der Rasse</a></li>
-  <li><a href="/de/staffy-gentests-l2hga-hc/" title="Gentests L2HGA und HC">Gentests L2-HGA und HC: wie sie funktionieren</a></li>
+  <li><a href="/de/staffy-gentests-l2hga-hc/" title="Gentests L2-HGA und HC">Gentests L2-HGA und HC: wie sie funktionieren</a></li>
   <li><a href="/de/staffy-rassestandard/" title="Rassestandard">Der Rassestandard und die Typizität</a></li>
   </ul>
   </div>

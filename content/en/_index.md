@@ -29,7 +29,7 @@ custom_content: |
   <span class="hero-eyebrow"><a href="/en/reviews/" title="Read the reviews" style="color:inherit;text-decoration:none">⭐ <!--REC-VOTO--> on <!--REC-TOTALE--> reviews →</a></span>
   <h1 class="hero-title">Staffordshire <br><em>Bull Terrier</em> <br>breeder</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo - Selection, health and character</p>
-  <p class="hero-description">In Ostellato (Ferrara, Italy) since 2013. All breeding dogs are tested for L2HGA and HC (HSF4), or clear by parentage with their parents' reports. Our dogs are also clear of DM-SOD1. The reports are published, with the microchip numbers in plain sight. Dogs bred here: 1 Italian Champion, 3 Italian Junior Champions, 4th at the World Dog Show.</p>
+  <p class="hero-description">In Ostellato (Ferrara, Italy) since 2013. All breeding dogs are tested for L2-HGA and HC (HSF4), or clear by parentage with their parents' reports. Our dogs are also clear of DM-SOD1. The reports are published, with the microchip numbers in plain sight. Dogs bred here: 1 Italian Champion, 3 Italian Junior Champions, 4th at the World Dog Show.</p>
   <div class="hero-actions">
   <a href="/en/puppies-staffordshire-bull-terrier/" class="btn btn-primary" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies</a>
   <a href="/en/contact/" class="btn btn-ghost" title="Contact us">Contact Us</a>
@@ -44,7 +44,7 @@ custom_content: |
   <div class="features-track">
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA Clear</span>
+  <span>L2-HGA Clear</span>
   <span>HC (HSF4) Clear</span>
   <span>DM-SOD1 Clear</span>
   <span>Italian Champions</span>
@@ -52,7 +52,7 @@ custom_content: |
   <span>Ostellato FE</span>
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA Clear</span>
+  <span>L2-HGA Clear</span>
   <span>HC (HSF4) Clear</span>
   <span>DM-SOD1 Clear</span>
   <span>Italian Champions</span>
@@ -152,7 +152,7 @@ custom_content: |
   <div class="intro-block" style="text-align:left">
   <p><img src="/images/foto4.avif" alt="Staffordshire Bull Terrier puppy in arms, close up" loading="lazy" decoding="async" width="300" height="347" style="display:block;width:60%;max-width:240px;height:auto;margin:.2rem auto 1rem;border-radius:12px;transform:scaleX(-1)">Del Piccolo Diavolo is a Staffordshire Bull Terrier kennel, the Staffy to its enthusiasts, in <strong>Ostellato, in the province of Ferrara, Italy</strong>, active since <strong>2013</strong>. Paolo Boldrini has followed the breed since 2005. He spent eight years studying it before breeding a litter.</p>
   <details class="continua"><summary>Continue reading</summary>
-  <p>We have <strong>one litter a year, occasionally two, sometimes none</strong>, never on request. All breeding dogs are tested for <strong>L2HGA and HC (HSF4 gene)</strong>, or clear by parentage with their parents' reports. Our dogs are also clear of <strong>degenerative myelopathy (SOD1 gene)</strong>. The reports are published on the site, with the dog's name and microchip number.</p>
+  <p>We have <strong>one litter a year, occasionally two, sometimes none</strong>, never on request. All breeding dogs are tested for <strong>L2-HGA and HC (HSF4 gene)</strong>, or clear by parentage with their parents' reports. Our dogs are also clear of <strong>degenerative myelopathy (SOD1 gene)</strong>. The reports are published on the site, with the dog's name and microchip number.</p>
 
   <p>The puppies are born indoors and stay there for the first month. Then they move to a pen with the courtyard, among people and everyday noises. They leave with an <strong>ENCI pedigree</strong>, microchip and vaccinations. What they can have learned before leaving, and what not, is explained in <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it means">what &ldquo;socialised puppies&rdquo; means</a>. We do no miracle exercises: on <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor and early stimulation: what research says">Bio Sensor</a> we have written why the evidence is not there.</p>
 
@@ -186,11 +186,11 @@ custom_content: |
 
   <details class="tendina"><summary><h3>Which tests we do, and what they are</h3></summary>
 
-  <p><strong>All breeding dogs are tested for L2HGA and HC (HSF4), or clear by parentage with their parents' reports. Our dogs are also clear of DM-SOD1.</strong> The reports, with the microchip number, are published on the dogs' pages.</p>
+  <p><strong>All breeding dogs are tested for L2-HGA and HC (HSF4), or clear by parentage with their parents' reports. Our dogs are also clear of DM-SOD1.</strong> The reports, with the microchip number, are published on the dogs' pages.</p>
 
   <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(220px,100%),1fr));gap:1rem;margin:1.2rem 0 1rem">
   <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
-  <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">L2HGA</div>
+  <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">L2-HGA</div>
   <div style="font-size:.85rem;color:#7a6448;margin-bottom:.5rem">L-2-hydroxyglutaric aciduria</div>
   <p style="margin:0;font-size:.95rem;line-height:1.6">A neurological disease that usually appears in the first years of life: tremors, unsteady gait, seizures. There is no cure.</p>
   <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Clear: all breeding dogs</div>
@@ -283,7 +283,7 @@ custom_content: |
   <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center;display:flex;flex-direction:column;height:100%">
   <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Cattleya Del Piccolo Diavolo at Valconcaclan</h3>
   <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Junior Champion and Champion of San Marino</p>
-  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Junior Champion of San Marino in 2023, Champion of San Marino in 2024. Born and raised by us, now owned by Ricarda Mazzola Wagner (Valconcaclan). L2HGA and HC (HSF4) clear, complete scissor bite.</p>
+  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Junior Champion of San Marino in 2023, Champion of San Marino in 2024. Born and raised by us, now owned by Ricarda Mazzola Wagner (Valconcaclan). L2-HGA and HC (HSF4) clear, complete scissor bite.</p>
   </div>
 
   </div>
@@ -322,7 +322,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How much does a Staffordshire Bull Terrier with ENCI pedigree cost?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">There is no price list: what you pay reflects costs that exist before the puppies are born. The genetic tests of the breeding stock for L2HGA and HC, the registration of the litter in the ENCI studbook at public rates, the veterinary visits during pregnancy, the ultrasound and the X-ray before whelping, the first vaccinations, the worming and the microchip. <strong>A very low price almost always means something is missing</strong>: the tests, the pedigree, or puppies separated from their mother before the 60 days required by Italian law. Every puppy leaves with vaccinations, microchip, worming, the certificates of the parents' tests and the Del Piccolo Diavolo kennel's support for the whole of the dog's life. The details are in the guide to the <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="Price of a Staffordshire Bull Terrier puppy">price of a Staffordshire Bull Terrier puppy</a>.</div>
+  <div class="faq-answer">There is no price list: what you pay reflects costs that exist before the puppies are born. The genetic tests of the breeding stock for L2-HGA and HC, the registration of the litter in the ENCI studbook at public rates, the veterinary visits during pregnancy, the ultrasound and the X-ray before whelping, the first vaccinations, the worming and the microchip. <strong>A very low price almost always means something is missing</strong>: the tests, the pedigree, or puppies separated from their mother before the 60 days required by Italian law. Every puppy leaves with vaccinations, microchip, worming, the certificates of the parents' tests and the Del Piccolo Diavolo kennel's support for the whole of the dog's life. The details are in the guide to the <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="Price of a Staffordshire Bull Terrier puppy">price of a Staffordshire Bull Terrier puppy</a>.</div>
   </div>
 
   <div class="faq-item active">

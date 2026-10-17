@@ -1,6 +1,6 @@
 ---
 title: "Wurf Bilquis × Black Jack (August 2026)"
-lastmod: 2026-10-15
+lastmod: 2026-10-17
 articolo: true
 titleSeo: "Wurf Bilquis × Black Jack, August 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
@@ -91,7 +91,7 @@ Mit fünfundfünfzig Tagen sind die Ohren mitten in der Ausformung: Sie stellen 
     <img src="/images/jack1.jpg" alt="Black Jack di Casa Giacalone - Schwarzer Staffordshire Bull Terrier Deckrüde" width="250" height="399" loading="lazy" decoding="async">
     <ul>
       <li>Farbe: Schwarz</li>
-      <li>L2HGA: <strong>Frei über die Eltern</strong> (Eltern frei)</li>
+      <li>L2-HGA: <strong>Frei über die Eltern</strong> (Eltern frei)</li>
       <li>HC: <strong>Frei über die Eltern</strong> (Eltern frei)</li>
       <li>Vollständiges Scherengebiss</li>
     </ul>
@@ -107,7 +107,7 @@ Mit fünfundfünfzig Tagen sind die Ohren mitten in der Ausformung: Sie stellen 
     <img src="/images/ffbilly-compressa--1---1-.webp" alt="Bilquis Goddess Diabhal - Italienische Championin Staffordshire Bull Terrier" width="250" height="333" loading="lazy" decoding="async">
     <ul>
       <li>Farbe: Schwarz gestromt und weiß</li>
-      <li>L2HGA: frei (N/N)</li>
+      <li>L2-HGA: frei (N/N)</li>
       <li>HC: frei (N/N)</li>
       <li>Vollständiges Scherengebiss</li>
     </ul>
@@ -159,11 +159,11 @@ Die Eltern sind auf die wichtigsten genetischen Erkrankungen der Rasse getestet:
 
 | Test | Black Jack | Bilquis |
 |------|-----|------|
-| L2HGA (L-2-Hydroxyglutarazidurie) | Frei über die Eltern* | frei (N/N) |
+| L2-HGA (L-2-Hydroxyglutarazidurie) | Frei über die Eltern* | frei (N/N) |
 | HC (Erbliche Katarakt) | Frei über die Eltern* | frei (N/N) |
 | Gebiss | Vollständiges Scherengebiss | Vollständiges Scherengebiss |
 
-<p style="font-size:.9rem;color:#666"><em>* Frei über die Eltern: beide Eltern von Black Jack sind für L2HGA und HC frei getestet, daher können die Nachkommen genetisch nicht betroffen sein. Die Befunde sind unten aufgeführt. Black Jack ist ein junger Rüde: individuelle offizielle Tests sind geplant.</em></p>
+<p style="font-size:.9rem;color:#666"><em>* Frei über die Eltern: beide Eltern von Black Jack sind für L2-HGA und HC frei getestet, daher können die Nachkommen genetisch nicht betroffen sein. Die Befunde sind unten aufgeführt. Black Jack ist ein junger Rüde: individuelle offizielle Tests sind geplant.</em></p>
 
 ### Die Befunde der Eltern von Black Jack
 
@@ -174,7 +174,7 @@ Die Eltern sind auf die wichtigsten genetischen Erkrankungen der Rasse getestet:
     <p style="margin:.6rem 0 .3rem;font-weight:700">Quash Marvelous Hagler de Stafflorence</p>
     <p style="margin:0 0 .9rem;font-size:.82rem;color:#666;line-height:1.5">Rüde, geboren am 26.02.2021 — Mikrochip 380260160176743<br>Antagene (La Tour de Salvagny, Frankreich) — Befund A00046270, validiert am 08.09.2023</p>
     <ul style="margin:0;padding-left:1.1rem;font-size:.92rem">
-      <li>L2HGA (L2HGDH): <strong>frei (N/N)</strong></li>
+      <li>L2-HGA (L2HGDH): <strong>frei (N/N)</strong></li>
       <li>HC (HSF4): <strong>frei (N/N)</strong></li>
       <li>Hyperurikosurie (SLC2A9): <strong>frei (N/N)</strong></li>
       <li>MDR1: <strong>frei (N/N)</strong></li>
@@ -187,16 +187,16 @@ Die Eltern sind auf die wichtigsten genetischen Erkrankungen der Rasse getestet:
     <p style="margin:.6rem 0 .3rem;font-weight:700">Ultima di Casa Giacalone</p>
     <p style="margin:0 0 .9rem;font-size:.82rem;color:#666;line-height:1.5">Hündin — Mikrochip 380260044680718, Ahnentafel LO2313633<br>EVG Molekularna Diagnostika (Maribor, Slowenien) — Referenz 2026-083880/01, 27.08.2026</p>
     <ul style="margin:0;padding-left:1.1rem;font-size:.92rem">
-      <li>L2HGA (L2HGDH): <strong>frei (WT/WT)</strong></li>
+      <li>L2-HGA (L2HGDH): <strong>frei (WT/WT)</strong></li>
       <li>HC (HSF4): <strong>frei (WT/WT)</strong></li>
     </ul>
-    <p style="margin:.9rem 0 0"><a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b" aria-label="L2HGA-Befund (PDF) (wird in einem neuen Tab geöffnet)">L2HGA-Befund (PDF) →</a></p>
+    <p style="margin:.9rem 0 0"><a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b" aria-label="L2-HGA-Befund (PDF) (wird in einem neuen Tab geöffnet)">L2-HGA-Befund (PDF) →</a></p>
     <p style="margin:.35rem 0 0"><a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="font-size:.85rem;font-weight:600;color:#8b5a2b" aria-label="HC-Befund (PDF) (wird in einem neuen Tab geöffnet)">HC-Befund (PDF) →</a></p>
   </div>
 
 </div>
 
-<p style="font-size:.9rem;color:#555;border-left:3px solid #5c4a3a;padding-left:1rem;margin:1.5rem 0">Beide Elterntiere sind für L2HGA und erbliche Katarakt homozygot normal: keines von beiden trägt das defekte Allel, Black Jack kann es also nicht geerbt haben. Hyperurikosurie und MDR1 sind nur beim Vater getestet; für diese beiden kann der Nachkomme nicht als frei über die Eltern gelten.</p>
+<p style="font-size:.9rem;color:#555;border-left:3px solid #5c4a3a;padding-left:1rem;margin:1.5rem 0">Beide Elterntiere sind für L2-HGA und erbliche Katarakt homozygot normal: keines von beiden trägt das defekte Allel, Black Jack kann es also nicht geerbt haben. Hyperurikosurie und MDR1 sind nur beim Vater getestet; für diese beiden kann der Nachkomme nicht als frei über die Eltern gelten.</p>
 
 <div style="background:linear-gradient(135deg,#5c4a3a 0%,#8b7355 100%);padding:2rem;border-radius:12px;margin:2rem 0;color:#fff">
 <h3 style="margin:0 0 1rem;font-size:1.1rem;font-family:inherit;font-weight:600;color:#fff;display:flex;align-items:center;gap:.5rem">
@@ -209,17 +209,17 @@ Die Eltern sind auf die wichtigsten genetischen Erkrankungen der Rasse getestet:
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Quash — Gentests
 </a>
-<a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima — L2HGA – Ultima, Mutter von Black Jack — L2HGA-Test (PDF) (wird in einem neuen Tab geöffnet)">
+<a href="/docs/ultima-evg-l2hga.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima — L2-HGA – Ultima, Mutter von Black Jack — L2-HGA-Test (PDF) (wird in einem neuen Tab geöffnet)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
-Ultima — L2HGA
+Ultima — L2-HGA
 </a>
 <a href="/docs/ultima-evg-hc.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Ultima — HC – Ultima, Mutter von Black Jack — HC-Test (PDF) (wird in einem neuen Tab geöffnet)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
 Ultima — HC
 </a>
-<a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Bilquis — L2HGA &amp; HC – Bilquis — L2HGA- und HC-Test (PDF) (wird in einem neuen Tab geöffnet)">
+<a href="/docs/Genefast-Billy.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Bilquis — L2-HGA &amp; HC – Bilquis — L2-HGA- und HC-Test (PDF) (wird in einem neuen Tab geöffnet)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
-Bilquis — L2HGA &amp; HC
+Bilquis — L2-HGA &amp; HC
 </a>
 <a href="/docs/Boldrini-Billy-cardio210125.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1rem;border-radius:8px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:.5rem;font-size:.94rem" aria-label="Bilquis — Doppler-Echokardiographie (PDF) (wird in einem neuen Tab geöffnet)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>

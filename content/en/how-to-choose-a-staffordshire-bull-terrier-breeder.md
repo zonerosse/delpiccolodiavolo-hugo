@@ -57,7 +57,7 @@ lastmod: 2026-10-17
 
 <h2>1. Genetic tests on the breeding dogs</h2>
 
-<p>The Staffordshire Bull Terrier has two known inherited diseases: <strong>L2HGA</strong>, a neurological condition, and <strong>HC</strong>, hereditary cataract leading to blindness. Both are autosomal recessive: two healthy carriers can produce affected puppies.</p>
+<p>The Staffordshire Bull Terrier has two known inherited diseases: <strong>L2-HGA</strong>, a neurological condition, and <strong>HC</strong>, hereditary cataract leading to blindness. Both are autosomal recessive: two healthy carriers can produce affected puppies.</p>
 
 <p><strong>How to verify.</strong> "They are tested" is not enough. Ask for the certificate as a PDF and check it carries three things: the laboratory's name, the dog's microchip number and the date. A certificate without a microchip cannot be tied to any particular animal. If what arrives is a blurred photo or a cropped screenshot, press for the document.</p>
 
@@ -69,7 +69,7 @@ lastmod: 2026-10-17
 
 <p><strong>How to verify.</strong> Put the two certificates side by side and compare condition by condition. Where a parent is missing, the guarantee is missing.</p>
 
-<p><strong>Ours.</strong> On the page for the <a href="/en/diario-allevamento/bilquis-black-jack-litter-august-2026/" title="Bilquis litter, August 2026">August 2026 litter</a> we say exactly this: the puppies are clear by parentage for L2HGA and hereditary cataract, and they are not for hyperuricosuria and MDR1, because for those two we hold the sire's certificate only.</p>
+<p><strong>Ours.</strong> On the page for the <a href="/en/diario-allevamento/bilquis-black-jack-litter-august-2026/" title="Bilquis litter, August 2026">August 2026 litter</a> we say exactly this: the puppies are clear by parentage for L2-HGA and hereditary cataract, and they are not for hyperuricosuria and MDR1, because for those two we hold the sire's certificate only.</p>
 
 <h2>3. The pedigree, and who is inside it</h2>
 
@@ -170,7 +170,7 @@ lastmod: 2026-10-17
 <div class="related-articles">
 <h3>Related articles</h3>
 <ul>
-<li><a href="/en/staffy-genetic-testing-l2hga-hc/" title="L2HGA and HC genetic testing">L2-HGA and HC genetic tests: how they work</a></li>
+<li><a href="/en/staffy-genetic-testing-l2hga-hc/" title="L2-HGA and HC genetic testing">L2-HGA and HC genetic tests: how they work</a></li>
 <li><a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="How much a puppy costs">What a puppy costs, and what lies behind the price</a></li>
 <li><a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor: what the research says">Bio Sensor: what the research actually says</a></li>
 <li><a href="/en/females-staffordshire-bull-terrier/" title="Our females">Our females, with microchips and pedigrees</a></li>

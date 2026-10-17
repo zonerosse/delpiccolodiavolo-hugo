@@ -5,7 +5,7 @@ date: 2025-12-28
 lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "maschi"
-description: "Our male Staffordshire Bull Terriers: Lothar (Slovenian and Italian Junior Champion), Braveheart and Papillon. L2HGA, HC (HSF4) and DM-SOD1 genetic testing."
+description: "Our male Staffordshire Bull Terriers: Lothar (Slovenian and Italian Junior Champion), Braveheart and Papillon. L2-HGA, HC (HSF4) and DM-SOD1 genetic testing."
 slug: "males-staffordshire-bull-terrier"
 custom_content: |
   <!--BLOCCO:1-->
@@ -18,7 +18,7 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Our males</span>
   <h1 class="hero-title">Male <br><em>Staffordshire</em> <br>Bull Terriers</h1>
-  <p class="hero-subtitle">DNA tested, clear of L2HGA, HC (HSF4) and DM-SOD1</p>
+  <p class="hero-subtitle">DNA tested, clear of L2-HGA, HC (HSF4) and DM-SOD1</p>
   <p class="hero-description">For each male you will find the genetic tests, sire, dam and pedigree on SBTPedigree, to check for yourself against the <a href="/en/staffy-breed-standard/" title="Staffordshire Bull Terrier breed standard">breed standard</a>.</p>
   <div class="hero-actions">
   <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20the%20males" class="btn btn-primary" title="Contact us on WhatsApp for male info">Contact Us</a>
@@ -32,7 +32,7 @@ custom_content: |
   <div class="features-track">
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA Clear</span>
+  <span>L2-HGA Clear</span>
   <span>HC Clear</span>
   <span>DM-SOD1 Clear</span>
   <span>Italian Champions</span>
@@ -40,7 +40,7 @@ custom_content: |
   <span>Ostellato FE</span>
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA Clear</span>
+  <span>L2-HGA Clear</span>
   <span>HC Clear</span>
   <span>DM-SOD1 Clear</span>
   <span>Italian Champions</span>
@@ -68,7 +68,7 @@ custom_content: |
   <img src="/images/lothar-matthaus-tyson-locandina.avif" alt="CH SLO J.CH ITA Lothar Matthäus del Piccolo Diavolo, known as Tyson, brindle Staffordshire Bull Terrier male bred by Del Piccolo Diavolo" width="900" height="1228" loading="lazy" decoding="async" srcset="/images/lothar-matthaus-tyson-locandina-400w.avif 400w, /images/lothar-matthaus-tyson-locandina-800w.avif 800w, /images/lothar-matthaus-tyson-locandina.avif 900w" sizes="(max-width: 900px) 100vw, 900px">
   </div>
   <div class="male-info">
-  <p><strong>Genetic tests:</strong> L2HGA clear · HC (HSF4) clear · DM-SOD1 clear · OCD clear</p>
+  <p><strong>Genetic tests:</strong> L2-HGA clear · HC (HSF4) clear · DM-SOD1 clear · OCD clear</p>
   <p><strong>Hips and elbows:</strong> HD B · ED 0</p>
   <p><strong>Dentition:</strong> complete, scissor bite</p>
   <p><strong>Sire:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares show results, TheReds Stafford" style="color:#8b5a2b;font-weight:700;text-decoration:underline;text-underline-offset:3px" aria-label="Bullbrothers Hott as Hell (HEAT) - palmares show results, TheReds Stafford (opens in a new tab)">Bullbrothers Hott as Hell &#8599;</a> «HEAT», Multi International Champion, Crufts qualified, TheReds Stafford kennel</p>
@@ -91,7 +91,7 @@ custom_content: |
   <img src="/images/maschio-braveheart.webp" alt="Braveheart del Piccolo Diavolo — Staffordshire Bull Terrier" width="350" height="350" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
-  <p><strong>Genetic Tests:</strong> L2HGA, HC (HSF4) & DM-SOD1 clear by DNA</p>
+  <p><strong>Genetic Tests:</strong> L2-HGA, HC (HSF4) & DM-SOD1 clear by DNA</p>
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> Alport The Sandman</p>
   <p><strong>Dam:</strong> Jackie Kennedy Great'n Glory</p>
@@ -112,7 +112,7 @@ custom_content: |
   <img src="/images/maschio-papillon.webp" alt="Papillon del Piccolo Diavolo — Staffordshire Bull Terrier" width="350" height="438" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
-  <p><strong>Genetic Tests:</strong> L2HGA, HC (HSF4) & DM-SOD1 clear by DNA</p>
+  <p><strong>Genetic Tests:</strong> L2-HGA, HC (HSF4) & DM-SOD1 clear by DNA</p>
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> Alport The Sandman</p>
   <p><strong>Dam:</strong> Jackie Kennedy Great'n Glory</p>
@@ -139,7 +139,7 @@ custom_content: |
     <p style="margin-top:1rem">A stud dog weighs far more on the future of a line than a bitch does: a female produces 2 or 3 litters in her lifetime, a male can father dozens of puppies. That is why the bar for admission is higher, not lower.</p>
   <p style="margin-top:1rem">We look at three things, in this order. <strong>Temperament</strong>: an insecure or reactive dog does not enter the programme, however correct its conformation, because a temperament fault propagates for generations and shows itself in family homes, not in the ring. <strong>Breathing</strong>: a dog that struggles after a few minutes of trotting, or suffers in the first warm weather, has a welfare problem regardless of how many titles sit in its pedigree. And <strong>type without exaggeration</strong>: a correct head and solid bone, but never at the expense of function.</p>
   <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Our males are tested for:</p>
-  <p>✓ <strong>L2HGA</strong> — L-2-Hydroxyglutaric Aciduria<br>
+  <p>✓ <strong>L2-HGA</strong> — L-2-Hydroxyglutaric Aciduria<br>
   ✓ <strong>HC</strong> — Hereditary Cataracts<br>
   ✓ <strong>DM-SOD1</strong> — Degenerative myelopathy<br>
   ✓ <strong>Dentition</strong> — Complete scissor bite</p>

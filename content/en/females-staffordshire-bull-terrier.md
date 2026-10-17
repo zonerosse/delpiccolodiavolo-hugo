@@ -5,7 +5,7 @@ date: 2025-12-28
 lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "femmine"
-description: "Our female Staffordshire Bull Terriers: Bilquis (Top Dog Junior 2023), Queen of California, Croi Olc, Divine, Kennedy, Derry, Cattleya. L2HGA, HC and DM-SOD1 tested."
+description: "Female Staffordshire Bull Terriers: Bilquis (Top Dog Junior 2023), Queen of California, Croi Olc, Divine, Kennedy, Derry, Cattleya. L2-HGA, HC and DM-SOD1 tested."
 slug: "females-staffordshire-bull-terrier"
 custom_content: |
   <!--BLOCCO:1-->
@@ -18,7 +18,7 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Our females</span>
   <h1 class="hero-title">Female <br><em>Staffordshire</em> <br>Bull Terriers</h1>
-  <p class="hero-subtitle">DNA tested: clear of L2HGA and HC (HSF4)</p>
+  <p class="hero-subtitle">DNA tested: clear of L2-HGA and HC (HSF4)</p>
   <p class="hero-description">For each female you will find the microchip, the ENCI studbook number, the genetic tests and the pedigree, to check for yourself, against the <a href="/en/staffy-breed-standard/" title="Staffordshire Bull Terrier breed standard">breed standard</a> too. Our active breeding females, Bilquis and Croi Olc, are also clear for degenerative myelopathy (SOD1 gene).</p>
   <div class="hero-actions">
   <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20the%20females" class="btn btn-primary" title="Contact us on WhatsApp">Contact Us</a>
@@ -32,14 +32,14 @@ custom_content: |
   <div class="features-track">
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA Clear</span>
+  <span>L2-HGA Clear</span>
   <span>HC Clear</span>
   <span>Italian Champions</span>
   <span>ENCI Pedigree</span>
   <span>Ostellato FE</span>
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA Clear</span>
+  <span>L2-HGA Clear</span>
   <span>HC Clear</span>
   <span>Italian Champions</span>
   <span>ENCI Pedigree</span>
@@ -73,7 +73,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 380260044647848<br>
   <strong>LOI:</strong> LO22197469</p>
-  <p><strong>Genetic Tests:</strong> L2HGA & HC (HSF4) clear by DNA</p>
+  <p><strong>Genetic Tests:</strong> L2-HGA & HC (HSF4) clear by DNA</p>
   <p><strong>Degenerative myelopathy (SOD1):</strong> Clear by DNA</p>
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> Pablo iuno sospita plata plomo</p>
@@ -102,7 +102,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 380260160642781<br>
   <strong>LOI:</strong> LO2549181</p>
-  <p><strong>Genetic Tests:</strong> L2HGA & HC (HSF4) clear by Parents</p>
+  <p><strong>Genetic Tests:</strong> L2-HGA & HC (HSF4) clear by Parents</p>
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> CH. Elitebull Prospect</p>
   <p><strong>Dam:</strong> Lackyle Bean Croí Olc</p>
@@ -129,7 +129,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 991003001293234<br>
   <strong>LOI:</strong> LO24144140</p>
-  <p><strong>Genetic Tests:</strong> L2HGA & HC (HSF4) clear by DNA</p>
+  <p><strong>Genetic Tests:</strong> L2-HGA & HC (HSF4) clear by DNA</p>
   <p><strong>Degenerative myelopathy (SOD1):</strong> Clear by DNA</p>
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> Lackyle Trodai Tine</p>
@@ -155,7 +155,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 643094100473511<br>
   <strong>LOI:</strong> LO19125788</p>
-  <p><strong>Genetic Tests:</strong> L2HGA & HC (HSF4) clear by DNA</p>
+  <p><strong>Genetic Tests:</strong> L2-HGA & HC (HSF4) clear by DNA</p>
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> CH. Dangerous Smile Black Shadow</p>
   <p><strong>Dam:</strong> CH. Sonrisa Feliz Keely Lariel</p>
@@ -179,7 +179,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 276098104987682<br>
   <strong>LOI:</strong> LO1610654</p>
-  <p><strong>Genetic Tests:</strong> L2HGA & HC (HSF4) clear by DNA</p>
+  <p><strong>Genetic Tests:</strong> L2-HGA & HC (HSF4) clear by DNA</p>
   <p><strong>PHPV:</strong> Unaffected</p>
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> CH. Hell's Angel</p>
@@ -206,7 +206,7 @@ custom_content: |
   <strong>LOI:</strong> LO1610667</p>
   <p><strong>HD:</strong> B</p>
   <p><strong>ED:</strong> A</p>
-  <p><strong>Genetic Tests:</strong> L2HGA & HC (HSF4) clear by DNA</p>
+  <p><strong>Genetic Tests:</strong> L2-HGA & HC (HSF4) clear by DNA</p>
   <p><strong>PHPV:</strong> Unaffected</p>
   <p><strong>Sire:</strong> CH. Kiraloebis Italian Gigalo (Top UK Staffordshire Bull Terrier 2012)</p>
   <p><strong>Dam:</strong> Lackyle Duilleog Daracha</p>
@@ -231,7 +231,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 380260044549631<br>
   <strong>LOI:</strong> LO2222029</p>
-  <p><strong>Genetic Tests:</strong> L2HGA & HC (HSF4) clear by DNA</p>
+  <p><strong>Genetic Tests:</strong> L2-HGA & HC (HSF4) clear by DNA</p>
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> THE Phenomenal AJ Styles Valconcaclan</p>
   <p><strong>Dam:</strong> Foyleoak Maiden Derry</p>
@@ -256,7 +256,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Microchip:</strong> 380260004336944<br>
   <strong>LOI:</strong> LO2199721</p>
-  <p><strong>Genetic Tests:</strong> L2HGA & HC (HSF4) clear by DNA</p>
+  <p><strong>Genetic Tests:</strong> L2-HGA & HC (HSF4) clear by DNA</p>
   <p><strong>Degenerative myelopathy (SOD1):</strong> Clear by DNA</p>
   <p><strong>Dentition:</strong> Completely scissor bite</p>
   <p><strong>Sire:</strong> Skilful-Dogs Jeghër</p>
@@ -284,7 +284,7 @@ custom_content: |
   <p>There are eight Staffordshire Bull Terrier females on this page: two active brood bitches, Bilquis and Croi Olc, three that no longer have litters and three that live elsewhere. Queen and Cattleya were born here and left as puppies: today Queen lives in Bologna and Cattleya in Rimini. Nora I gave as a gift to a very dear friend in Verona who had fallen in love with her. Each card gives the name of the person who has her today.</p>
   <p>We choose them for <strong>health</strong>, <strong>breed type</strong> and <strong>a steady temperament</strong>. Every mating starts from the genetic tests and from how the two dogs' lines fit together.</p>
   <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Our females are tested for:</p>
-  <p>✓ <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)"><strong>L2HGA</strong> — L-2-Hydroxyglutaric Aciduria</a><br>
+  <p>✓ <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)"><strong>L2-HGA</strong> — L-2-Hydroxyglutaric Aciduria</a><br>
   ✓ <strong>HC</strong> — Hereditary Cataracts<br>
   ✓ <strong>DM-SOD1</strong> — Degenerative myelopathy<br>
   ✓ <strong>Dentition</strong> — Complete scissor bite</p>

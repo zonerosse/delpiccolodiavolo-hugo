@@ -204,7 +204,7 @@ custom_content: |
   <tr><th>Posten</th><th>Wer zahlt</th><th>Wann</th><th>Größenordnung</th></tr>
   </thead>
   <tbody>
-  <tr><td>Laborpaket L2HGA + HC</td><td>Züchter</td><td>Einmal pro Hund</td><td>etwa 120 € pro Hund</td></tr>
+  <tr><td>Laborpaket L2-HGA + HC</td><td>Züchter</td><td>Einmal pro Hund</td><td>etwa 120 € pro Hund</td></tr>
   <tr><td>Probenahme, Versand und SOD1-Test</td><td>Züchter</td><td>Einmal pro Hund</td><td>der Rest der Ausgabe</td></tr>
   <tr><td><strong>Summe pro Hund</strong></td><td>Züchter</td><td>Einmal pro Hund</td><td><strong>etwa 400 €</strong></td></tr>
   <tr><td>Antiepileptika für einen Hund mit L2-HGA</td><td>Familie</td><td>Das ganze Hundeleben</td><td>200–400 € im Monat</td></tr>

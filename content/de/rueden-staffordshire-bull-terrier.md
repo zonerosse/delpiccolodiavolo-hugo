@@ -5,7 +5,7 @@ date: 2025-12-28
 lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "maschi"
-description: "Unsere Staffordshire Bull Terrier Rüden: Lothar (Slowenischer und Italienischer Jugendchampion), Braveheart und Papillon. Gentests L2HGA, HC (HSF4) und DM-SOD1."
+description: "Unsere Staffordshire Bull Terrier Rüden: Lothar (Slowenischer und Italienischer Jugendchampion), Braveheart und Papillon. Gentests L2-HGA, HC (HSF4) und DM-SOD1."
 slug: "rueden-staffordshire-bull-terrier"
 custom_content: |
   <!--BLOCCO:1-->
@@ -18,7 +18,7 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Unsere Rüden</span>
   <h1 class="hero-title">Rüden <br><em>Staffordshire</em> <br>Bull Terrier</h1>
-  <p class="hero-subtitle">DNA getestet, frei von L2HGA, HC (HSF4) und DM-SOD1</p>
+  <p class="hero-subtitle">DNA getestet, frei von L2-HGA, HC (HSF4) und DM-SOD1</p>
   <p class="hero-description">Zu jedem Rüden finden Sie Gentests, Vater, Mutter und Ahnentafel auf SBTPedigree, zum Selbstprüfen, auch am <a href="/de/staffy-rassestandard/" title="Rassestandard des Staffordshire Bull Terrier">Rassestandard</a>.</p>
   <div class="hero-actions">
   <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20möchte%20Infos%20zu%20den%20Rüden" class="btn btn-primary" title="Kontaktieren Sie uns auf WhatsApp">Kontakt</a>
@@ -30,8 +30,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Elitebull Linien</span><span>Lackyle Linien</span><span>L2HGA frei</span><span>HC frei</span><span>DM-SOD1 frei</span><span>Italienische Champions</span><span>ENCI Stammbaum</span>
-  <span>Elitebull Linien</span><span>Lackyle Linien</span><span>L2HGA frei</span><span>HC frei</span><span>DM-SOD1 frei</span><span>Italienische Champions</span><span>ENCI Stammbaum</span>
+  <span>Elitebull Linien</span><span>Lackyle Linien</span><span>L2-HGA frei</span><span>HC frei</span><span>DM-SOD1 frei</span><span>Italienische Champions</span><span>ENCI Stammbaum</span>
+  <span>Elitebull Linien</span><span>Lackyle Linien</span><span>L2-HGA frei</span><span>HC frei</span><span>DM-SOD1 frei</span><span>Italienische Champions</span><span>ENCI Stammbaum</span>
   </div>
   </div>
 
@@ -54,7 +54,7 @@ custom_content: |
   <img src="/images/lothar-matthaus-tyson-locandina.avif" alt="CH SLO J.CH ITA Lothar Matthäus del Piccolo Diavolo, gerufen Tyson, gestromter Staffordshire Bull Terrier Rüde aus der Zucht Del Piccolo Diavolo" width="900" height="1228" loading="lazy" decoding="async" srcset="/images/lothar-matthaus-tyson-locandina-400w.avif 400w, /images/lothar-matthaus-tyson-locandina-800w.avif 800w, /images/lothar-matthaus-tyson-locandina.avif 900w" sizes="(max-width: 900px) 100vw, 900px">
   </div>
   <div class="male-info">
-  <p><strong>Gentests:</strong> L2HGA frei · HC (HSF4) frei · DM-SOD1 frei · OCD frei</p>
+  <p><strong>Gentests:</strong> L2-HGA frei · HC (HSF4) frei · DM-SOD1 frei · OCD frei</p>
   <p><strong>HD/ED:</strong> Hüften HD B · Ellenbogen ED 0</p>
   <p><strong>Gebiss:</strong> vollständig, Scherengebiss</p>
   <p><strong>Vater:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford" style="color:#8b5a2b;font-weight:700;text-decoration:underline;text-underline-offset:3px" aria-label="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford (wird in einem neuen Tab geöffnet)">Bullbrothers Hott as Hell &#8599;</a> «HEAT», Multi-Internationaler Champion, Crufts-qualifiziert, Zucht TheReds Stafford</p>
@@ -77,7 +77,7 @@ custom_content: |
   <img src="/images/maschio-braveheart.webp" alt="Braveheart del Piccolo Diavolo — Staffordshire Bull Terrier" width="350" height="350" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
-  <p><strong>Gentests:</strong> L2HGA, HC (HSF4) & DM-SOD1 frei per DNA</p>
+  <p><strong>Gentests:</strong> L2-HGA, HC (HSF4) & DM-SOD1 frei per DNA</p>
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> Alport The Sandman</p>
   <p><strong>Mutter:</strong> Jackie Kennedy Great'n Glory</p>
@@ -98,7 +98,7 @@ custom_content: |
   <img src="/images/maschio-papillon.webp" alt="Papillon del Piccolo Diavolo — Staffordshire Bull Terrier" width="350" height="438" loading="lazy" decoding="async">
   </div>
   <div class="male-info">
-  <p><strong>Gentests:</strong> L2HGA, HC (HSF4) & DM-SOD1 frei per DNA</p>
+  <p><strong>Gentests:</strong> L2-HGA, HC (HSF4) & DM-SOD1 frei per DNA</p>
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> Alport The Sandman</p>
   <p><strong>Mutter:</strong> Jackie Kennedy Great'n Glory</p>
@@ -124,7 +124,7 @@ custom_content: |
   <p style="margin-top:1rem">Ein Deckrüde wiegt für die Zukunft einer Linie weit schwerer als eine Hündin: eine Hündin bringt in ihrem Leben 2 oder 3 Würfe, ein Rüde kann Vater von Dutzenden Welpen sein. Deshalb sind die Anforderungen an ihn höher, nicht niedriger.</p>
   <p style="margin-top:1rem">Wir achten auf drei Dinge, in dieser Reihenfolge. Das <strong>Wesen</strong>: ein unsicherer oder reaktiver Hund kommt nicht ins Programm, so korrekt sein Körperbau auch sein mag, denn ein Wesensfehler vererbt sich über Generationen und zeigt sich in Familien, nicht im Ring. Die <strong>Atmung</strong>: ein Hund, der nach wenigen Minuten Trab Mühe hat oder bei der ersten Wärme leidet, hat ein Wohlbefindensproblem, unabhängig von der Zahl seiner Titel. Und <strong>Typ ohne Übertreibung</strong>: korrekter Kopf und solider Knochen, aber nie auf Kosten der Funktion.</p>
   <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Unsere Rüden sind getestet auf:</p>
-  <p>✓ <strong>L2HGA</strong> — L-2-Hydroxyglutarazidurie<br>
+  <p>✓ <strong>L2-HGA</strong> — L-2-Hydroxyglutarazidurie<br>
   ✓ <strong>HC</strong> — Hereditäre Katarakt<br>
   ✓ <strong>DM-SOD1</strong> — Degenerative Myelopathie<br>
   ✓ <strong>Gebiss</strong> — Vollständiges Scherengebiss</p>

@@ -63,7 +63,7 @@ custom_content: |
   <p>Nor does it contain:</p>
 
   <ul>
-  <li><strong>the genetic tests</strong>: L2HGA, HC and DM-SOD1 do not appear</li>
+  <li><strong>the genetic tests</strong>: L2-HGA, HC and DM-SOD1 do not appear</li>
   <li><strong>what those dogs produced</strong> in their litters</li>
   </ul>
 
@@ -151,7 +151,7 @@ custom_content: |
   <ul>
   <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious breeder">How to recognise a serious breeder</a></li>
   <li><a href="/en/staffy-bloodlines-guide/" title="Staffordshire Bull Terrier bloodlines">The bloodlines behind the breed</a></li>
-  <li><a href="/en/staffy-genetic-testing-l2hga-hc/" title="Genetic testing L2HGA and HC">L2-HGA and HC genetic tests: how they work</a></li>
+  <li><a href="/en/staffy-genetic-testing-l2hga-hc/" title="Genetic testing L2-HGA and HC">L2-HGA and HC genetic tests: how they work</a></li>
   <li><a href="/en/staffy-breed-standard/" title="Breed standard">The breed standard and type</a></li>
   </ul>
   </div>

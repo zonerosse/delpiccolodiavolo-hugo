@@ -5,7 +5,7 @@ date: 2025-12-28
 lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "cuccioli"
-description: "Staffordshire Bull Terrier puppies in Ostellato, Italy. ENCI pedigree, parents tested for L2HGA and HC with the certificates published on this site."
+description: "Staffordshire Bull Terrier puppies in Ostellato, Italy. ENCI pedigree, parents tested for L2-HGA and HC with the certificates published on this site."
 correlati:
   - url: "/en/staffy-genetic-testing-l2hga-hc/"
     titolo: "Genetic testing: L2-HGA and HC"
@@ -46,7 +46,7 @@ custom_content: |
   <div class="features-track">
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA Clear</span>
+  <span>L2-HGA Clear</span>
   <span>HC Clear</span>
   <span>DM-SOD1 Clear</span>
   <span>Italian Champions</span>
@@ -54,7 +54,7 @@ custom_content: |
   <span>Ostellato FE</span>
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA Clear</span>
+  <span>L2-HGA Clear</span>
   <span>HC Clear</span>
   <span>DM-SOD1 Clear</span>
   <span>Italian Champions</span>
@@ -171,7 +171,7 @@ custom_content: |
   <span class="section-label">Before they are born</span>
   <h2 class="section-title">From the season to the whelping: how a litter comes about</h2>
 
-  <p>A Staffordshire Bull Terrier litter at Del Piccolo Diavolo begins long before the birth. It starts with the pre-season check and progesterone testing to find the right moment for the mating, the pregnancy is confirmed by ultrasound at around the twenty-fifth day, and the puppies are counted with an X-ray five to seven days before the birth. The puppies are born in the house and stay there for the first month, in the whelping box. Then they move to a pen with outdoor access and come back inside in turns, two or three at a time. They go to their families after the 60 days required by Italian law, with microchip, first vaccinations, <a href="/en/puppy-worming-faecal-tests/" title="Worming and faecal tests">worming with faecal tests</a> and an ENCI pedigree. The parents are tested for L2HGA and HC, the mothers also for DM-SOD1, and the reports are published on the site with the microchip number in full.</p>
+  <p>A Staffordshire Bull Terrier litter at Del Piccolo Diavolo begins long before the birth. It starts with the pre-season check and progesterone testing to find the right moment for the mating, the pregnancy is confirmed by ultrasound at around the twenty-fifth day, and the puppies are counted with an X-ray five to seven days before the birth. The puppies are born in the house and stay there for the first month, in the whelping box. Then they move to a pen with outdoor access and come back inside in turns, two or three at a time. They go to their families after the 60 days required by Italian law, with microchip, first vaccinations, <a href="/en/puppy-worming-faecal-tests/" title="Worming and faecal tests">worming with faecal tests</a> and an ENCI pedigree. The parents are tested for L2-HGA and HC, the mothers also for DM-SOD1, and the reports are published on the site with the microchip number in full.</p>
 
   <p>Plenty gets said about what happens after the puppies are born. About what happens before, almost nothing. And yet that is where most of how a litter goes is decided.</p>
 
@@ -250,7 +250,7 @@ custom_content: |
   <li>the ENCI pedigree;</li>
   <li>the health record with vaccinations and worming dates;</li>
   <li>the microchip certificate;</li>
-  <li>the parents' genetic test reports, L2HGA and HC, plus DM-SOD1 for the mother;</li>
+  <li>the parents' genetic test reports, L2-HGA and HC, plus DM-SOD1 for the mother;</li>
   <li>photographs of its growth;</li>
   <li>our <a href="/docs/guide-first-months-staffy-puppy.pdf" title="Guide to the first months with a Staffy puppy">guide to the first months</a>, on feeding and care.</li>
   </ul>
@@ -285,7 +285,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">How much does a Staffordshire Bull Terrier puppy cost?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">There is no price list, and what you pay reflects costs that exist before the puppy is born. The genetic tests on the two breeding dogs for L2HGA and HC are paid once per dog and hold for their whole breeding life. Registering the litter in the ENCI stud book has public rates. On top of that come the veterinary visits during pregnancy, the ultrasound at around the twenty-fifth day, the X-ray before the whelping, the first vaccinations, the worming and the microchip. <strong>A very low price almost always means something is missing</strong>: the tests, the pedigree, or puppies separated from their mother before the 60 days the law requires. The full breakdown is in <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="How much does a Staffy puppy cost">what a puppy really costs</a>.</div>
+  <div class="faq-answer">There is no price list, and what you pay reflects costs that exist before the puppy is born. The genetic tests on the two breeding dogs for L2-HGA and HC are paid once per dog and hold for their whole breeding life. Registering the litter in the ENCI stud book has public rates. On top of that come the veterinary visits during pregnancy, the ultrasound at around the twenty-fifth day, the X-ray before the whelping, the first vaccinations, the worming and the microchip. <strong>A very low price almost always means something is missing</strong>: the tests, the pedigree, or puppies separated from their mother before the 60 days the law requires. The full breakdown is in <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="How much does a Staffy puppy cost">what a puppy really costs</a>.</div>
   </div>
 
   <div class="faq-item active">

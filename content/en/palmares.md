@@ -203,7 +203,7 @@ custom_content: |
   <h3>Junior Champion and San Marino Champion</h3>
   <p><strong>JCH San Marino 2023</strong> - Junior Champion won in 2023.</p>
   <p><strong>CH San Marino 2024</strong> - San Marino Champion won in 2024.</p>
-  <p>Born and bred by us, now owned by Ricarda Mazzola Wagner (Valconcaclan). Genetic tests L2HGA and HC (HSF4) clear, complete scissor bite.</p>
+  <p>Born and bred by us, now owned by Ricarda Mazzola Wagner (Valconcaclan). Genetic tests L2-HGA and HC (HSF4) clear, complete scissor bite.</p>
   </div>
   </div>
   </div>

@@ -42,7 +42,7 @@ slug: "quanto-costa-cucciolo-staffordshire-bull-terrier"
 <span>Quanto costa un cucciolo</span>
 </nav>
 
-Il prezzo di un cucciolo di Staffordshire Bull Terrier con pedigree ENCI non è un listino: è la somma di costi che esistono prima che il cucciolo nasca. I test genetici dei due riproduttori per L2HGA e HC si pagano una volta per cane e valgono per tutta la carriera riproduttiva. L'iscrizione della cucciolata al libro genealogico ENCI ha tariffe pubbliche, uguali per tutti. A queste si aggiungono le visite veterinarie durante la gravidanza, l'ecografia al venticinquesimo giorno, la radiografia prima del parto, le prime vaccinazioni, le sverminazioni e il microchip. All'allevamento Del Piccolo Diavolo, a Ostellato, una cucciolata di sei cuccioli costa circa 2.000 euro prima di vaccinazioni e microchip, e oltre 4.000 con uno stallone all'estero e un cesareo. Un prezzo molto basso quasi sempre significa che manca qualcosa: i test, il pedigree, o cuccioli separati dalla madre prima dei 60 giorni previsti dalla legge italiana.
+Il prezzo di un cucciolo di Staffordshire Bull Terrier con pedigree ENCI non è un listino: è la somma di costi che esistono prima che il cucciolo nasca. I test genetici dei due riproduttori per L2-HGA e HC si pagano una volta per cane e valgono per tutta la carriera riproduttiva. L'iscrizione della cucciolata al libro genealogico ENCI ha tariffe pubbliche, uguali per tutti. A queste si aggiungono le visite veterinarie durante la gravidanza, l'ecografia al venticinquesimo giorno, la radiografia prima del parto, le prime vaccinazioni, le sverminazioni e il microchip. All'allevamento Del Piccolo Diavolo, a Ostellato, una cucciolata di sei cuccioli costa circa 2.000 euro prima di vaccinazioni e microchip, e oltre 4.000 con uno stallone all'estero e un cesareo. Un prezzo molto basso quasi sempre significa che manca qualcosa: i test, il pedigree, o cuccioli separati dalla madre prima dei 60 giorni previsti dalla legge italiana.
 
 La risposta breve: **non esiste un listino, ed è giusto così**. Quello che puoi valutare è cosa c’è dentro il prezzo, quando acquisti da un allevatore serio con pedigree ENCI, test genetici e tutte le garanzie.
 
@@ -76,7 +76,7 @@ Quando acquisti da un allevatore responsabile, il prezzo include:
 </tr>
 <tr>
 <td><strong>Genetica dei genitori</strong></td>
-<td>Test del DNA per L2HGA e HC su entrambi i riproduttori, o esenzione per via parentale con i referti dei loro genitori</td>
+<td>Test del DNA per L2-HGA e HC su entrambi i riproduttori, o esenzione per via parentale con i referti dei loro genitori</td>
 <td>Referto di laboratorio con il microchip del cane, o dei suoi genitori</td>
 </tr>
 <tr>
@@ -188,7 +188,7 @@ Una cucciolata fatta come si deve, lo abbiamo visto sopra voce per voce, costa c
 
 Un cucciolo da cagnaro può sembrare sano a 2 mesi. I problemi emergono dopo:
 
-- **L2HGA**: malattia neurologica che di solito si manifesta fra i 6 mesi e l'anno di vita. Non esiste una cura: si può solo tenere sotto controllo con una terapia del neurologo veterinario.
+- **L2-HGA**: malattia neurologica che di solito si manifesta fra i 6 mesi e l'anno di vita. Non esiste una cura: si può solo tenere sotto controllo con una terapia del neurologo veterinario.
 - **Cataratta ereditaria (HC)**: cecità progressiva
 - **Problemi comportamentali**: cani non socializzati che sviluppano paure, aggressività, ansia da separazione
 - **Difetti fisici**: displasia, problemi respiratori, conformazione non corretta

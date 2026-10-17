@@ -57,7 +57,7 @@ lastmod: 2026-10-17
 
 <h2>1. I test genetici dei riproduttori</h2>
 
-<p>Lo Staffordshire Bull Terrier ha due malattie genetiche note e trasmissibili: <strong>L2HGA</strong>, una malattia neurologica, e <strong>HC</strong>, la cataratta ereditaria che porta alla cecità. Entrambe si trasmettono in modo autosomico recessivo: due genitori portatori sani possono generare cuccioli malati.</p>
+<p>Lo Staffordshire Bull Terrier ha due malattie genetiche note e trasmissibili: <strong>L2-HGA</strong>, una malattia neurologica, e <strong>HC</strong>, la cataratta ereditaria che porta alla cecità. Entrambe si trasmettono in modo autosomico recessivo: due genitori portatori sani possono generare cuccioli malati.</p>
 
 <p><strong>Come si verificano i test genetici.</strong> Non basta sentirsi dire "sono testati". Chiedi il referto in PDF e controlla che contenga tre cose: il nome del laboratorio, il numero di microchip del cane e la data. Un referto senza microchip non è collegabile a nessun animale in particolare. Se ti arriva una foto sgranata o uno screenshot ritagliato, insisti.</p>
 
@@ -69,7 +69,7 @@ lastmod: 2026-10-17
 
 <p><strong>Come si verifica l'esenzione per discendenza.</strong> Metti in fila i due referti e confronta patologia per patologia. Dove manca un genitore, manca la garanzia.</p>
 
-<p><strong>Il nostro.</strong> Nella pagina della <a href="/diario-allevamento/cucciolata-bilquis-agosto-2026/" title="Cucciolata Bilquis, agosto 2026">cucciolata di agosto 2026</a> scriviamo esattamente questo: i cuccioli sono esenti per discendenza da L2HGA e cataratta ereditaria, e non lo sono per iperuricosuria e MDR1, perché di quelle due abbiamo il referto del solo padre.</p>
+<p><strong>Il nostro.</strong> Nella pagina della <a href="/diario-allevamento/cucciolata-bilquis-agosto-2026/" title="Cucciolata Bilquis, agosto 2026">cucciolata di agosto 2026</a> scriviamo esattamente questo: i cuccioli sono esenti per discendenza da L2-HGA e cataratta ereditaria, e non lo sono per iperuricosuria e MDR1, perché di quelle due abbiamo il referto del solo padre.</p>
 
 <h2>3. Il pedigree, e chi c'è dentro</h2>
 
@@ -170,7 +170,7 @@ lastmod: 2026-10-17
 <div class="related-articles">
 <h3>Articoli correlati</h3>
 <ul>
-<li><a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2HGA e HC">Test genetici L2-HGA e HC: come funzionano</a></li>
+<li><a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">Test genetici L2-HGA e HC: come funzionano</a></li>
 <li><a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo">Quanto costa un cucciolo, e cosa c'&egrave; dietro il prezzo</a></li>
 <li><a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor: cosa dice la ricerca">Bio Sensor: cosa dice davvero la ricerca</a></li>
 <li><a href="/femmine-staffordshire-bull-terrier/" title="Le nostre femmine">Le nostre femmine, con microchip e pedigree</a></li>

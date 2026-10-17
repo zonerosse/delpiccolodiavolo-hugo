@@ -29,7 +29,7 @@ custom_content: |
   <span class="hero-eyebrow"><a href="/de/bewertungen/" title="Bewertungen lesen" style="color:inherit;text-decoration:none">⭐ <!--REC-VOTO--> bei <!--REC-TOTALE--> Bewertungen →</a></span>
   <h1 class="hero-title">Staffordshire <br><em>Bull Terrier</em> <br>Züchter</h1>
   <p class="hero-subtitle">Del Piccolo Diavolo - Selektion, Gesundheit und Charakter</p>
-  <p class="hero-description">In Ostellato (Ferrara, Italien) seit 2013. Alle Zuchttiere sind auf L2HGA und HC (HSF4) getestet oder durch Abstammung frei, mit den Befunden der Eltern. Unsere Hunde sind außerdem frei von DM-SOD1. Die Befunde sind veröffentlicht, mit der Mikrochipnummer im Klartext. Hier gezüchtete Hunde: 1 Italienischer Champion, 3 Italienische Jugendchampions, 4. bei der World Dog Show.</p>
+  <p class="hero-description">In Ostellato (Ferrara, Italien) seit 2013. Alle Zuchttiere sind auf L2-HGA und HC (HSF4) getestet oder durch Abstammung frei, mit den Befunden der Eltern. Unsere Hunde sind außerdem frei von DM-SOD1. Die Befunde sind veröffentlicht, mit der Mikrochipnummer im Klartext. Hier gezüchtete Hunde: 1 Italienischer Champion, 3 Italienische Jugendchampions, 4. bei der World Dog Show.</p>
   <div class="hero-actions">
   <a href="/de/welpen-staffordshire-bull-terrier/" class="btn btn-primary" title="Staffordshire Bull Terrier Welpen">Staffordshire Bull Terrier Welpen</a>
   <a href="/de/kontakt/" class="btn btn-ghost" title="Kontaktieren Sie uns">Kontakt</a>
@@ -44,7 +44,7 @@ custom_content: |
   <div class="features-track">
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA frei</span>
+  <span>L2-HGA frei</span>
   <span>HC (HSF4) frei</span>
   <span>DM-SOD1 frei</span>
   <span>Italienische Champions</span>
@@ -52,7 +52,7 @@ custom_content: |
   <span>Ostellato FE</span>
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA frei</span>
+  <span>L2-HGA frei</span>
   <span>HC (HSF4) frei</span>
   <span>DM-SOD1 frei</span>
   <span>Italienische Champions</span>
@@ -152,7 +152,7 @@ custom_content: |
   <div class="intro-block" style="text-align:left">
   <p><img src="/images/foto4.avif" alt="Staffordshire Bull Terrier Welpe im Arm, Nahaufnahme" loading="lazy" decoding="async" width="300" height="347" style="display:block;width:60%;max-width:240px;height:auto;margin:.2rem auto 1rem;border-radius:12px;transform:scaleX(-1)">Del Piccolo Diavolo ist eine Staffordshire Bull Terrier Zucht, der Staffy für seine Liebhaber, in <strong>Ostellato, Provinz Ferrara, Italien</strong>, aktiv seit <strong>2013</strong>. Paolo Boldrini beschäftigt sich seit 2005 mit der Rasse. Bevor er einen Wurf züchtete, hat er sie acht Jahre lang studiert.</p>
   <details class="continua"><summary>Weiterlesen</summary>
-  <p>Wir haben <strong>einen Wurf im Jahr, gelegentlich zwei, manchmal keinen</strong>, nie auf Bestellung. Alle Zuchttiere sind auf <strong>L2HGA und HC (Gen HSF4)</strong> getestet oder durch Abstammung frei, mit den Befunden der Eltern. Unsere Hunde sind außerdem frei von <strong>degenerativer Myelopathie (Gen SOD1)</strong>. Die Befunde sind auf der Website veröffentlicht, mit dem Namen und dem Mikrochip des Hundes.</p>
+  <p>Wir haben <strong>einen Wurf im Jahr, gelegentlich zwei, manchmal keinen</strong>, nie auf Bestellung. Alle Zuchttiere sind auf <strong>L2-HGA und HC (Gen HSF4)</strong> getestet oder durch Abstammung frei, mit den Befunden der Eltern. Unsere Hunde sind außerdem frei von <strong>degenerativer Myelopathie (Gen SOD1)</strong>. Die Befunde sind auf der Website veröffentlicht, mit dem Namen und dem Mikrochip des Hundes.</p>
 
   <p>Die Welpen kommen im Haus zur Welt und bleiben dort den ersten Monat. Danach ziehen sie in einen Welpenbereich mit Hof, mitten unter Menschen und Alltagsgeräuschen. Sie gehen mit <strong>ENCI-Ahnentafel</strong>, Mikrochip und Impfungen. Was sie vor der Abgabe gelernt haben können, und was nicht, erklären wir in <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das heißt">was &bdquo;sozialisierte Welpen&ldquo; heißt</a>. Wunderübungen machen wir keine: Über den <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor und Frühstimulation: was die Forschung sagt">Bio Sensor</a> haben wir geschrieben, warum die Belege fehlen.</p>
 
@@ -186,11 +186,11 @@ custom_content: |
 
   <details class="tendina"><summary><h3>Welche Tests wir machen, und was sie bedeuten</h3></summary>
 
-  <p><strong>Alle Zuchttiere sind auf L2HGA und HC (HSF4) getestet oder durch Abstammung frei, mit den Befunden der Eltern. Unsere Hunde sind außerdem frei von DM-SOD1.</strong> Die Befunde mit Mikrochipnummer sind auf den Seiten der Hunde veröffentlicht.</p>
+  <p><strong>Alle Zuchttiere sind auf L2-HGA und HC (HSF4) getestet oder durch Abstammung frei, mit den Befunden der Eltern. Unsere Hunde sind außerdem frei von DM-SOD1.</strong> Die Befunde mit Mikrochipnummer sind auf den Seiten der Hunde veröffentlicht.</p>
 
   <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(220px,100%),1fr));gap:1rem;margin:1.2rem 0 1rem">
   <div style="background:#fff;border:1px solid rgba(139,115,85,.25);border-radius:14px;padding:1.1rem 1.2rem">
-  <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">L2HGA</div>
+  <div style="font-weight:700;color:#8b5a2b;letter-spacing:.04em">L2-HGA</div>
   <div style="font-size:.85rem;color:#7a6448;margin-bottom:.5rem">L-2-Hydroxyglutarazidurie</div>
   <p style="margin:0;font-size:.95rem;line-height:1.6">Eine neurologische Erkrankung, die meist in den ersten Lebensjahren auftritt: Zittern, unsicherer Gang, epileptische Anfälle. Eine Heilung gibt es nicht.</p>
   <div style="margin-top:.7rem;font-size:.8rem;color:#5c4a3a">Frei: alle Zuchttiere</div>
@@ -283,7 +283,7 @@ custom_content: |
   <div class="successo-card" style="background:#fff;border:2px solid #c9a227;border-radius:12px;padding:1.5rem;text-align:center;display:flex;flex-direction:column;height:100%">
   <h3 style="color:#5c4a3a;font-size:1.1rem;margin-bottom:0.5rem">Cattleya Del Piccolo Diavolo at Valconcaclan</h3>
   <p style="color:#5c4a3a;font-weight:700;font-size:1rem;margin-bottom:0.75rem">Jugendchampionin und Championin von San Marino</p>
-  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Jugendchampionin von San Marino 2023, Championin von San Marino 2024. Bei uns geboren und aufgezogen, heute im Besitz von Ricarda Mazzola Wagner (Valconcaclan). L2HGA und HC (HSF4) frei, vollständiges Scherengebiss.</p>
+  <p style="font-size:0.9rem;color:#4a3f35;line-height:1.6">Jugendchampionin von San Marino 2023, Championin von San Marino 2024. Bei uns geboren und aufgezogen, heute im Besitz von Ricarda Mazzola Wagner (Valconcaclan). L2-HGA und HC (HSF4) frei, vollständiges Scherengebiss.</p>
   </div>
 
   </div>
@@ -322,7 +322,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was kostet ein Staffordshire Bull Terrier mit ENCI-Ahnentafel?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Es gibt keine Preisliste: was man bezahlt, spiegelt Kosten wider, die schon vor der Geburt der Welpen entstehen. Die Gentests der Zuchttiere auf L2HGA und HC, die Eintragung des Wurfs ins ENCI-Zuchtbuch zu öffentlichen Gebühren, die tierärztlichen Untersuchungen in der Trächtigkeit, der Ultraschall und das Röntgenbild vor der Geburt, die ersten Impfungen, die Entwurmungen und der Mikrochip. <strong>Ein sehr niedriger Preis bedeutet fast immer, dass etwas fehlt</strong>: die Tests, die Ahnentafel, oder Welpen, die vor den vom italienischen Gesetz vorgeschriebenen 60 Tagen von der Mutter getrennt wurden. Jeder Welpe geht mit Impfungen, Mikrochip, Entwurmungen, den Testbescheinigungen der Eltern und der Unterstützung der Zucht Del Piccolo Diavolo für das ganze Leben des Hundes. Die Einzelheiten stehen im Ratgeber zum <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Preis eines Staffordshire Bull Terrier Welpen">Preis eines Staffordshire Bull Terrier Welpen</a>.</div>
+  <div class="faq-answer">Es gibt keine Preisliste: was man bezahlt, spiegelt Kosten wider, die schon vor der Geburt der Welpen entstehen. Die Gentests der Zuchttiere auf L2-HGA und HC, die Eintragung des Wurfs ins ENCI-Zuchtbuch zu öffentlichen Gebühren, die tierärztlichen Untersuchungen in der Trächtigkeit, der Ultraschall und das Röntgenbild vor der Geburt, die ersten Impfungen, die Entwurmungen und der Mikrochip. <strong>Ein sehr niedriger Preis bedeutet fast immer, dass etwas fehlt</strong>: die Tests, die Ahnentafel, oder Welpen, die vor den vom italienischen Gesetz vorgeschriebenen 60 Tagen von der Mutter getrennt wurden. Jeder Welpe geht mit Impfungen, Mikrochip, Entwurmungen, den Testbescheinigungen der Eltern und der Unterstützung der Zucht Del Piccolo Diavolo für das ganze Leben des Hundes. Die Einzelheiten stehen im Ratgeber zum <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Preis eines Staffordshire Bull Terrier Welpen">Preis eines Staffordshire Bull Terrier Welpen</a>.</div>
   </div>
 
   <div class="faq-item active">

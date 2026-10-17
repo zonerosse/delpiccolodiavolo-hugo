@@ -171,7 +171,7 @@ custom_content: |
   <li><strong>Laboklin</strong>: laboratorio tedesco, molto usato anche in Italia</li>
   </ul>
 
-  <p>Il pacchetto genetico che comprende L2HGA e HC costa circa 120€ per cane in laboratorio. A quella cifra vanno però aggiunti il prelievo dal veterinario, la spedizione del campione e il test della mielopatia degenerativa (SOD1): fra tutto si arriva a circa 400€ per cane. Un investimento minimo rispetto alle sofferenze e ai costi veterinari di un cane malato.</p>
+  <p>Il pacchetto genetico che comprende L2-HGA e HC costa circa 120€ per cane in laboratorio. A quella cifra vanno però aggiunti il prelievo dal veterinario, la spedizione del campione e il test della mielopatia degenerativa (SOD1): fra tutto si arriva a circa 400€ per cane. Un investimento minimo rispetto alle sofferenze e ai costi veterinari di un cane malato.</p>
 
   <h3>Interpretare i risultati</h3>
 
@@ -303,7 +303,7 @@ custom_content: |
   </thead>
   <tbody>
   <tr>
-  <td>Pacchetto L2HGA + HC in laboratorio</td><td>Allevatore</td><td>Una volta per cane</td><td>circa 120 € a cane</td>
+  <td>Pacchetto L2-HGA + HC in laboratorio</td><td>Allevatore</td><td>Una volta per cane</td><td>circa 120 € a cane</td>
   </tr>
   <tr>
   <td>Prelievo, spedizione e test SOD1</td><td>Allevatore</td><td>Una volta per cane</td><td>il resto della spesa</td>

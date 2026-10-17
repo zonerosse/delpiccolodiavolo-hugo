@@ -244,7 +244,7 @@ custom_content: |
   <h2>Quale razza scegliere?</h2>
 
   <p>Questa pagina serve a distinguere le tre razze e a capire cosa dice la legge. Se hai già escluso il Pit Bull e devi scegliere fra <strong>Staffy e Amstaff</strong>, la guida dedicata mette in fila le domande concrete su spazio, esperienza e vita quotidiana: <a href="/differenza-staffy-amstaff/" title="Staffy o Amstaff: quale scegliere">quale delle due razze fa per te</a>.</p>
-  <p>L'allevamento Del Piccolo Diavolo alleva solo lo Staffordshire Bull Terrier: una razza con standard FCI chiaro, test genetici per L2HGA e HC e una taglia adatta alla vita in casa.</p>
+  <p>L'allevamento Del Piccolo Diavolo alleva solo lo Staffordshire Bull Terrier: una razza con standard FCI chiaro, test genetici per L2-HGA e HC e una taglia adatta alla vita in casa.</p>
   <!--/BLOCCO:7-->
 
   <!--BLOCCO:8-->

@@ -1,6 +1,6 @@
 ---
 title: "Wurf Red × Nora (Februar 2026)"
-lastmod: 2026-10-15
+lastmod: 2026-10-17
 titleSeo: "Wurf Red und Nora, Februar 2026: Eltern und Gentests"
 articolo: true
 translationKey: "cucciolata-red-nora-febbraio-2026"
@@ -44,7 +44,7 @@ Ihr Browser unterstützt kein Video.
     <span class="dog-name">Vangerbull Red Harricane</span>
     <img src="/images/red.avif" alt="Vangerbull Red Harricane - Staffordshire Bull Terrier Deckrüde" width="250" height="324" loading="lazy" decoding="async">
     <ul>
-      <li>L2HGA: frei (N/N)</li>
+      <li>L2-HGA: frei (N/N)</li>
       <li>HC: frei (N/N)</li>
       <li>Vollständiges Scherengebiss</li>
     </ul>
@@ -58,7 +58,7 @@ Ihr Browser unterstützt kein Video.
     <span class="dog-name">Skilful-dogs Nora</span>
     <img src="/images/nora-femmina-staffordshire-bull-terrier.avif" alt="Skilful-dogs Nora - Staffordshire Bull Terrier Zuchthündin" width="250" height="372" loading="lazy" decoding="async">
     <ul>
-      <li>L2HGA: frei (N/N)</li>
+      <li>L2-HGA: frei (N/N)</li>
       <li>HC: frei (N/N)</li>
       <li>DM: frei</li>
       <li>Vollständiges Scherengebiss</li>
@@ -115,11 +115,11 @@ Beide Eltern sind **frei** getestet für die wichtigsten genetischen Erkrankunge
 
 | Test | Red | Nora |
 |------|-----|------|
-| L2HGA (L-2-Hydroxyglutarsäure-Azidurie) | N/N frei | N/N frei |
+| L2-HGA (L-2-Hydroxyglutarsäure-Azidurie) | N/N frei | N/N frei |
 | HC (Hereditäre Katarakt) | N/N frei | N/N frei |
 | Gebiss | Vollständiges Scherengebiss | Vollständiges Scherengebiss |
 
-Alle Welpen sind **genetisch gesund** für L2HGA und HC (alle frei).
+Alle Welpen sind **genetisch gesund** für L2-HGA und HC (alle frei).
 
 <div style="background:linear-gradient(135deg,#5c4a3a 0%,#8b7355 100%);padding:2rem;border-radius:12px;margin:2rem 0;color:#fff">
 <h3 style="margin:0 0 1rem;font-size:1.1rem;font-family:inherit;font-weight:600;color:#fff;display:flex;align-items:center;gap:.5rem">
@@ -128,13 +128,13 @@ Alle Welpen sind **genetisch gesund** für L2HGA und HC (alle frei).
 </h3>
 <p style="margin:0 0 1rem;font-size:1rem;color:#fff !important;font-weight:600">Volle Transparenz: Laden Sie die Original-Laborzertifikate herunter.</p>
 <div style="display:flex;flex-wrap:wrap;gap:1rem">
-<a href="/docs/test-genetici-red.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem" aria-label="Red (L2HGA + HC) (wird in einem neuen Tab geöffnet)">
+<a href="/docs/test-genetici-red.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem" aria-label="Red (L2-HGA + HC) (wird in einem neuen Tab geöffnet)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
-Red (L2HGA + HC)
+Red (L2-HGA + HC)
 </a>
-<a href="/docs/test-genetici-nora.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem" aria-label="Nora (L2HGA + HC + DM) (wird in einem neuen Tab geöffnet)">
+<a href="/docs/test-genetici-nora.pdf" target="_blank" rel="noopener" style="background:#fff;color:#5c4a3a;padding:.75rem 1.25rem;border-radius:8px;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:.5rem" aria-label="Nora (L2-HGA + HC + DM) (wird in einem neuen Tab geöffnet)">
 <svg aria-hidden="true" focusable="false" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
-Nora (L2HGA + HC + DM)
+Nora (L2-HGA + HC + DM)
 </a>
 </div>
 </div>

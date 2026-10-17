@@ -42,7 +42,7 @@ date: 2026-01-25
 <span>Was ein Welpe kostet</span>
 </nav>
 
-Der Preis eines Staffordshire Bull Terrier Welpen mit ENCI-Ahnentafel ist kein Listenpreis: Er ist die Summe von Kosten, die entstehen, bevor der Welpe geboren wird. Die Gentests der beiden Zuchthunde auf L2HGA und HC werden einmal pro Hund bezahlt und gelten für das ganze Zuchtleben. Die Eintragung des Wurfs ins ENCI-Zuchtbuch hat öffentliche Gebühren, für alle gleich. Dazu kommen die tierärztlichen Kontrollen während der Trächtigkeit, der Ultraschall um den fünfundzwanzigsten Tag, das Röntgenbild vor der Geburt, die ersten Impfungen, die Entwurmungen und der Mikrochip. In der Zucht Del Piccolo Diavolo in Ostellato, Italien, kostet ein Wurf mit sechs Welpen rund 2.000 Euro vor Impfungen und Mikrochip, und über 4.000 mit einem Deckrüden im Ausland und einem Kaiserschnitt. Ein sehr niedriger Preis bedeutet fast immer, dass etwas fehlt: die Tests, die Ahnentafel oder Welpen, die vor den gesetzlich vorgeschriebenen 60 Tagen von der Mutter getrennt wurden.
+Der Preis eines Staffordshire Bull Terrier Welpen mit ENCI-Ahnentafel ist kein Listenpreis: Er ist die Summe von Kosten, die entstehen, bevor der Welpe geboren wird. Die Gentests der beiden Zuchthunde auf L2-HGA und HC werden einmal pro Hund bezahlt und gelten für das ganze Zuchtleben. Die Eintragung des Wurfs ins ENCI-Zuchtbuch hat öffentliche Gebühren, für alle gleich. Dazu kommen die tierärztlichen Kontrollen während der Trächtigkeit, der Ultraschall um den fünfundzwanzigsten Tag, das Röntgenbild vor der Geburt, die ersten Impfungen, die Entwurmungen und der Mikrochip. In der Zucht Del Piccolo Diavolo in Ostellato, Italien, kostet ein Wurf mit sechs Welpen rund 2.000 Euro vor Impfungen und Mikrochip, und über 4.000 mit einem Deckrüden im Ausland und einem Kaiserschnitt. Ein sehr niedriger Preis bedeutet fast immer, dass etwas fehlt: die Tests, die Ahnentafel oder Welpen, die vor den gesetzlich vorgeschriebenen 60 Tagen von der Mutter getrennt wurden.
 
 Die kurze Antwort: **es gibt keine Preisliste, und das ist auch richtig so**. Beurteilen lässt sich, was im Preis steckt, wenn Sie bei einer seriösen Zucht mit ENCI-Ahnentafel, Gentests und vollständigen Garantien kaufen.
 
@@ -76,7 +76,7 @@ Beim Kauf von einer verantwortungsvollen Zucht sind enthalten:
 </tr>
 <tr>
 <td><strong>Genetik der Eltern</strong></td>
-<td>DNA-Tests auf L2HGA und HC bei beiden Zuchttieren, oder frei durch Abstammung mit den Befunden ihrer Eltern</td>
+<td>DNA-Tests auf L2-HGA und HC bei beiden Zuchttieren, oder frei durch Abstammung mit den Befunden ihrer Eltern</td>
 <td>Laborbefund mit der Mikrochipnummer des Hundes oder seiner Eltern</td>
 </tr>
 <tr>
@@ -188,7 +188,7 @@ Ein ordentlich geplanter Wurf kostet, wie oben Posten für Posten gezeigt, rund 
 
 Ein Welpe vom Vermehrer kann mit 8 Wochen gesund wirken. Die Probleme zeigen sich danach:
 
-- **L2HGA**: eine neurologische Erkrankung, die meist zwischen 6 Monaten und einem Jahr auftritt. Es gibt keine Heilung: Man kann sie nur mit einer Therapie durch einen tierärztlichen Neurologen unter Kontrolle halten.
+- **L2-HGA**: eine neurologische Erkrankung, die meist zwischen 6 Monaten und einem Jahr auftritt. Es gibt keine Heilung: Man kann sie nur mit einer Therapie durch einen tierärztlichen Neurologen unter Kontrolle halten.
 - **Erbliche Katarakt (HC)**: fortschreitende Erblindung
 - **Verhaltensprobleme**: unsozialisierte Hunde, die Ängste, Aggression und Trennungsangst entwickeln
 - **Körperliche Mängel**: Dysplasie, Atemprobleme, unkorrekte Anatomie

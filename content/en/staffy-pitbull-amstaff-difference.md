@@ -243,7 +243,7 @@ custom_content: |
   <h2>Which breed to choose?</h2>
 
   <p>This page is for telling the three breeds apart and understanding what the law says. If you have already ruled out the Pit Bull and need to choose between a <strong>Staffy and an Amstaff</strong>, the dedicated guide lines up the practical questions about space, experience and daily life: <a href="/en/staffy-or-amstaff-which-breed-suits-you/" title="Staffy or Amstaff: which one to choose">which of the two breeds suits you</a>.</p>
-  <p>The Del Piccolo Diavolo kennel breeds only the Staffordshire Bull Terrier: a breed with a clear FCI standard, genetic tests for L2HGA and HC, and a size suited to life in the house.</p>
+  <p>The Del Piccolo Diavolo kennel breeds only the Staffordshire Bull Terrier: a breed with a clear FCI standard, genetic tests for L2-HGA and HC, and a size suited to life in the house.</p>
   <!--/BLOCCO:7-->
 
   <!--BLOCCO:8-->

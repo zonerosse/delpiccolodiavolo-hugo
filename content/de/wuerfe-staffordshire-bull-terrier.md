@@ -5,7 +5,7 @@ date: 2025-12-28
 lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "programma"
-description: "Staffordshire Bull Terrier Würfe mit ausgewählten Eltern, L2HGA/HC Gentests, ENCI-Stammbaum. Zuchtprogramm, Elitebull und Lackyle Linien. Ostellato (FE)."
+description: "Staffordshire Bull Terrier Würfe mit ausgewählten Eltern, L2-HGA/HC Gentests, ENCI-Stammbaum. Zuchtprogramm, Elitebull und Lackyle Linien. Ostellato (FE)."
 correlati:
   - url: "/de/staffy-blutlinien-guide/"
     titolo: "Blutlinien: England und Irland"
@@ -42,7 +42,7 @@ custom_content: |
   <div class="features-track">
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA frei</span>
+  <span>L2-HGA frei</span>
   <span>HC frei</span>
   <span>DM-SOD1 frei</span>
   <span>Italienische Champions</span>
@@ -50,7 +50,7 @@ custom_content: |
   <span>Ostellato FE</span>
   <span>Elitebull Lines</span>
   <span>Lackyle Lines</span>
-  <span>L2HGA frei</span>
+  <span>L2-HGA frei</span>
   <span>HC frei</span>
   <span>DM-SOD1 frei</span>
   <span>Italienische Champions</span>
@@ -84,7 +84,7 @@ custom_content: |
   <span class="dog-name">JCH. CH. Italiana Bilquis Goddess Diabhal</span>
   <img src="/images/ffbilly-compressa--1---1-.webp" alt="Bilquis Goddess Diabhal - Italienische Championin Staffordshire Bull Terrier" width="301" height="396" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA und HC frei (DNA-Test)</li>
+  <li>L2-HGA und HC frei (DNA-Test)</li>
   <li>Vollständiges Scherengebiss</li>
   <li>Qualifiziert für CRUFTS 2024/25</li>
   <li>Top Dog Junior Hündin 2023</li>
@@ -99,7 +99,7 @@ custom_content: |
   <span class="dog-name">Black Jack di Casa Giacalone</span>
   <img src="/images/jack1.jpg" alt="Black Jack di Casa Giacalone - Schwarzer Staffordshire Bull Terrier Zuchtrüde" width="250" height="399" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA und HC frei über die Eltern (beide Eltern frei)</li>
+  <li>L2-HGA und HC frei über die Eltern (beide Eltern frei)</li>
   <li>Vollständiges Scherengebiss</li>
   <li>Sohn des Weltsiegers 2023</li>
   </ul>
@@ -133,7 +133,7 @@ custom_content: |
   <span class="dog-name">Vangerbull Red Harricane</span>
   <img src="/images/red.avif" alt="Vangerbull Red Harricane - Staffordshire Bull Terrier Zuchtrüde" width="225" height="291" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA und HC frei (DNA-Test)</li>
+  <li>L2-HGA und HC frei (DNA-Test)</li>
   <li>Vollständiges Scherengebiss</li>
   </ul>
   <p>CH. Americano Toreator De Testaferro x Staffgold Girl Of Ice</p>
@@ -146,7 +146,7 @@ custom_content: |
   <span class="dog-name">Skilful-dogs Nora</span>
   <img src="/images/nora-femmina-staffordshire-bull-terrier.avif" alt="Skilful-dogs Nora - Staffordshire Bull Terrier Zuchthündin" width="300" height="446" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA und HC frei (DNA-Test)</li>
+  <li>L2-HGA und HC frei (DNA-Test)</li>
   <li>Vollständiges Scherengebiss</li>
   </ul>
   <p>Skilful-Dogs Jeghër × Skilful-Dogs Red Skin</p>
@@ -172,7 +172,7 @@ custom_content: |
   <span class="dog-name">JCH. CH. Italiana Bilquis Goddess Diabhal</span>
   <img src="/images/ffbilly-compressa--1---1-.webp" alt="Bilquis Goddess Diabhal - Italienische Championin Staffordshire Bull Terrier" width="301" height="396" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA und HC frei (DNA-Test)</li>
+  <li>L2-HGA und HC frei (DNA-Test)</li>
   <li>Vollständiges Scherengebiss</li>
   <li>Qualifiziert für CRUFTS 2024/25</li>
   <li>Top Dog Junior Hündin 2023</li>
@@ -187,7 +187,7 @@ custom_content: |
   <span class="dog-name">Il lupo perde il pelo ma non il vizio – Luis</span>
   <img src="/images/luis2.webp" alt="Luis - Staffordshire Bull Terrier Zuchtrüde" width="300" height="447" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA und HC frei (DNA-Test)</li>
+  <li>L2-HGA und HC frei (DNA-Test)</li>
   <li>Vollständiges Scherengebiss</li>
   </ul>
   <p>D' Spain Fuogo Negro Espartaco × Iunosospita Torvi</p>
@@ -210,7 +210,7 @@ custom_content: |
   <span class="dog-name">CH. Elitebull Prospect</span>
   <img src="/images/george--1---1-.webp" alt="Elitebull Prospect - Staffordshire Bull Terrier Zuchtrüde" width="225" height="320" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA und HC frei (DNA-Test)</li>
+  <li>L2-HGA und HC frei (DNA-Test)</li>
   <li>Vollständiges Scherengebiss</li>
   </ul>
   <p>CH. Elitebulls Challenger × Elitebull Destiny</p>
@@ -223,7 +223,7 @@ custom_content: |
   <span class="dog-name">Lackyle Bean Croí Olc</span>
   <img src="/images/minnie3.webp" alt="Lackyle Bean Croí Olc - Staffordshire Bull Terrier Zuchthündin" width="225" height="320" loading="lazy" decoding="async">
   <ul>
-  <li>L2HGA und HC frei (DNA-Test)</li>
+  <li>L2-HGA und HC frei (DNA-Test)</li>
   <li>Vollständiges Scherengebiss</li>
   </ul>
   <p>Lackyle Trodai Tine × CH. Lackyle Ogbhean an Diabhal</p>
@@ -254,9 +254,9 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">Methode</span>
   <h2 class="section-title">Wie eine Verpaarung geplant wird</h2>
-  <p>Eine Verpaarung bei Del Piccolo Diavolo wird Monate im Voraus geplant und folgt immer demselben Weg. Am Anfang stehen die Gentests beider Zuchthunde auf L2HGA und HC, bei der Hündin zusätzlich DM-SOD1; dann werden die Ahnentafeln auf SBTPedigree mit der Testverpaarung untersucht, die den theoretischen Inzuchtkoeffizienten der Welpen zeigt und auf welche Vorfahren er sich konzentriert. Wir arbeiten in einem Bereich von 6 bis 9 Prozent: darunter verliert man die Möglichkeit, einen Charakter zu festigen, darüber verengt man zu stark. Der Rüde kommt fast immer von außen, gewählt, um zu korrigieren, was der Hündin fehlt, nicht um zwei schöne Hunde zu addieren. Das Ergebnis ist ein Wurf im Jahr, gelegentlich zwei, und in manchen Jahren keiner.</p>
+  <p>Eine Verpaarung bei Del Piccolo Diavolo wird Monate im Voraus geplant und folgt immer demselben Weg. Am Anfang stehen die Gentests beider Zuchthunde auf L2-HGA und HC, bei der Hündin zusätzlich DM-SOD1; dann werden die Ahnentafeln auf SBTPedigree mit der Testverpaarung untersucht, die den theoretischen Inzuchtkoeffizienten der Welpen zeigt und auf welche Vorfahren er sich konzentriert. Wir arbeiten in einem Bereich von 6 bis 9 Prozent: darunter verliert man die Möglichkeit, einen Charakter zu festigen, darüber verengt man zu stark. Der Rüde kommt fast immer von außen, gewählt, um zu korrigieren, was der Hündin fehlt, nicht um zwei schöne Hunde zu addieren. Das Ergebnis ist ein Wurf im Jahr, gelegentlich zwei, und in manchen Jahren keiner.</p>
   <details class="continua"><summary>Weiterlesen</summary>
-  <p><strong>Was wir vor jeder Verpaarung testen.</strong> Kein Zuchthund kommt ohne die Tests auf L2HGA und HC ins Programm, die beiden Erbkrankheiten der Rasse. Unsere Hunde sind außerdem frei von degenerativer Myelopathie (DM-SOD1). Die Befunde sind auf den Seiten der Hunde veröffentlicht, mit sichtbarer Mikrochipnummer, und wie diese Tests funktionieren, erklärt der <a href="/de/staffy-gentests-l2hga-hc/" title="Gentests L2-HGA und HC">Ratgeber zu den Gentests</a>.</p>
+  <p><strong>Was wir vor jeder Verpaarung testen.</strong> Kein Zuchthund kommt ohne die Tests auf L2-HGA und HC ins Programm, die beiden Erbkrankheiten der Rasse. Unsere Hunde sind außerdem frei von degenerativer Myelopathie (DM-SOD1). Die Befunde sind auf den Seiten der Hunde veröffentlicht, mit sichtbarer Mikrochipnummer, und wie diese Tests funktionieren, erklärt der <a href="/de/staffy-gentests-l2hga-hc/" title="Gentests L2-HGA und HC">Ratgeber zu den Gentests</a>.</p>
   <p><strong>Wie man zu einem Welpen kommt.</strong> Das Programm ist offen: zu jeder Verpaarung sagen wir, wer die Eltern sind, welche Tests sie haben und warum wir sie gewählt haben. Wer mehr wissen will, kann nach den Ergebnissen früherer Verpaarungen fragen und die Hunde persönlich sehen. Was ein Welpe mitbekommt, steht auf der <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Seite der Staffordshire Bull Terrier Welpen</a>; wer außerhalb Italiens lebt, findet Fristen und Papiere unter <a href="/de/staffordshire-bull-terrier-welpe-ins-ausland/" title="Ein Welpe ins Ausland">ein Welpe ins Ausland</a>.</p>
   </details>
   <a class="rimando" href="/de/wie-man-eine-ahnentafel-liest/">
@@ -286,12 +286,12 @@ custom_content: |
 
   <div class="faq-item">
   <h3>Welche Garantien bieten Sie für die Welpen?</h3>
-  <p>Jeder Welpe wird mit zertifiziertem ENCI-Stammbaum, Mikrochip, Gesundheitsheft, ersten Impfungen und Entwurmungen übergeben. Die Eltern sind auf L2HGA und HC getestet. Die Zucht Del Piccolo Diavolo bleibt das ganze Hundeleben lang erreichbar.</p>
+  <p>Jeder Welpe wird mit zertifiziertem ENCI-Stammbaum, Mikrochip, Gesundheitsheft, ersten Impfungen und Entwurmungen übergeben. Die Eltern sind auf L2-HGA und HC getestet. Die Zucht Del Piccolo Diavolo bleibt das ganze Hundeleben lang erreichbar.</p>
   </div>
 
   <div class="faq-item">
   <h3>Was steckt hinter einem Ihrer Würfe?</h3>
-  <p>Eine Monate im Voraus geplante Verpaarung, auf L2HGA und HC getestete Zuchttiere, ein ENCI-Stammbaum und Welpen, die im Haus aufwachsen. Schreiben Sie uns, wir erzählen Ihnen von den Hunden und den kommenden Würfen.</p>
+  <p>Eine Monate im Voraus geplante Verpaarung, auf L2-HGA und HC getestete Zuchttiere, ein ENCI-Stammbaum und Welpen, die im Haus aufwachsen. Schreiben Sie uns, wir erzählen Ihnen von den Hunden und den kommenden Würfen.</p>
   </div>
 
   <div style="text-align:center;margin-top:1.5rem">

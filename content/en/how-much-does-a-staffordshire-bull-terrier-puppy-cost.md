@@ -42,7 +42,7 @@ date: 2026-01-25
 <span>What a puppy costs</span>
 </nav>
 
-The price of a Staffordshire Bull Terrier puppy with an ENCI pedigree is not a list price: it is the sum of costs that exist before the puppy is born. Genetic tests on the two breeding dogs for L2HGA and HC are paid once per dog and hold for the whole of their breeding career. Registering the litter in the ENCI stud book has public fees, the same for everyone. On top of these come the vet checks during pregnancy, the ultrasound around day twenty-five, the X-ray before whelping, the first vaccinations, worming and the microchip. At the Del Piccolo Diavolo kennel in Ostellato, Italy, a litter of six puppies costs about 2,000 euros before vaccinations and microchips, and over 4,000 with a stud dog abroad and a caesarean. A very low price almost always means something is missing: the tests, the pedigree, or puppies separated from their mother before the 60 days required by Italian law.
+The price of a Staffordshire Bull Terrier puppy with an ENCI pedigree is not a list price: it is the sum of costs that exist before the puppy is born. Genetic tests on the two breeding dogs for L2-HGA and HC are paid once per dog and hold for the whole of their breeding career. Registering the litter in the ENCI stud book has public fees, the same for everyone. On top of these come the vet checks during pregnancy, the ultrasound around day twenty-five, the X-ray before whelping, the first vaccinations, worming and the microchip. At the Del Piccolo Diavolo kennel in Ostellato, Italy, a litter of six puppies costs about 2,000 euros before vaccinations and microchips, and over 4,000 with a stud dog abroad and a caesarean. A very low price almost always means something is missing: the tests, the pedigree, or puppies separated from their mother before the 60 days required by Italian law.
 
 The short answer: **there is no price list, and that is as it should be**. What you can assess is what sits inside the price when you buy from a serious breeder with an ENCI pedigree, genetic testing and full guarantees.
 
@@ -76,7 +76,7 @@ When you buy from a responsible breeder, the price covers:
 </tr>
 <tr>
 <td><strong>Parents' genetics</strong></td>
-<td>DNA tests for L2HGA and HC on both breeding dogs, or clear by parentage with their parents' reports</td>
+<td>DNA tests for L2-HGA and HC on both breeding dogs, or clear by parentage with their parents' reports</td>
 <td>Laboratory report with the dog's microchip number, or its parents'</td>
 </tr>
 <tr>
@@ -188,7 +188,7 @@ A litter done properly, as we saw above item by item, costs about 2,000 euros: w
 
 A dealer's puppy can look healthy at 8 weeks. The problems surface afterwards:
 
-- **L2HGA**: a neurological disease that usually appears between 6 months and a year of age. There is no cure: it can only be kept under control with treatment from a veterinary neurologist.
+- **L2-HGA**: a neurological disease that usually appears between 6 months and a year of age. There is no cure: it can only be kept under control with treatment from a veterinary neurologist.
 - **Hereditary cataract (HC)**: progressive blindness
 - **Behavioural problems**: unsocialised dogs that develop fears, aggression, separation anxiety
 - **Physical defects**: dysplasia, breathing problems, incorrect conformation

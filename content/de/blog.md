@@ -337,12 +337,12 @@ custom_content: |
   </article>
 
   <article class="blog-card">
-  <a href="/de/staffy-gentests-l2hga-hc/" title="Lesen: L2HGA und HC Gentests"><div class="blog-card-thumb"><img src="/images/blog/icone/test-genetici-l2hga-hc-staffy.webp" alt="Staffordshire Bull Terrier: l2HGA und HC Gentests" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <a href="/de/staffy-gentests-l2hga-hc/" title="Lesen: L2-HGA und HC Gentests"><div class="blog-card-thumb"><img src="/images/blog/icone/test-genetici-l2hga-hc-staffy.webp" alt="Staffordshire Bull Terrier: l2HGA und HC Gentests" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">20 Nov 2025</span><span>•</span><span class="cat">Gesundheit</span></div>
-  <h3><a href="/de/staffy-gentests-l2hga-hc/" title="Lesen: L2HGA und HC Gentests">L2HGA- und HC-Gentests: was sie sind und wie man sie liest</a></h3>
+  <h3><a href="/de/staffy-gentests-l2hga-hc/" title="Lesen: L2-HGA und HC Gentests">L2-HGA- und HC-Gentests: was sie sind und wie man sie liest</a></h3>
   <p>Was sie sind, wie man sie liest, wo man sie macht und warum sie wichtig sind.</p>
-  <a class="read" href="/de/staffy-gentests-l2hga-hc/" title="Vollständigen Artikel lesen" aria-label="Artikel lesen: L2HGA- und HC-Gentests: was sie sind und wie man sie liest">Lesen<span class="sr-only">: L2HGA- und HC-Gentests: was sie sind und wie man sie liest</span> →</a>
+  <a class="read" href="/de/staffy-gentests-l2hga-hc/" title="Vollständigen Artikel lesen" aria-label="Artikel lesen: L2-HGA- und HC-Gentests: was sie sind und wie man sie liest">Lesen<span class="sr-only">: L2-HGA- und HC-Gentests: was sie sind und wie man sie liest</span> →</a>
   </div>
   </article>
   </div>

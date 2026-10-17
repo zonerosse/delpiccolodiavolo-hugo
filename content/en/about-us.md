@@ -40,8 +40,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Since 2013</span><span>Elitebull Lines</span><span>Lackyle Lines</span><span>L2HGA Clear</span><span>HC Clear</span><span>ENCI Pedigree</span><span>Ostellato FE</span>
-  <span>Since 2013</span><span>Elitebull Lines</span><span>Lackyle Lines</span><span>L2HGA Clear</span><span>HC Clear</span><span>ENCI Pedigree</span><span>Ostellato FE</span>
+  <span>Since 2013</span><span>Elitebull Lines</span><span>Lackyle Lines</span><span>L2-HGA Clear</span><span>HC Clear</span><span>ENCI Pedigree</span><span>Ostellato FE</span>
+  <span>Since 2013</span><span>Elitebull Lines</span><span>Lackyle Lines</span><span>L2-HGA Clear</span><span>HC Clear</span><span>ENCI Pedigree</span><span>Ostellato FE</span>
   </div>
   </div>
 
@@ -51,7 +51,7 @@ custom_content: |
   <span class="section-label">Our values</span>
   <h2 class="section-title">What guides us</h2>
   <div class="values-grid">
-  <div class="value-card"><h3>🧬 Genetic testing</h3><p>All breeding dogs tested for L2HGA and HC, or clear by parentage</p></div>
+  <div class="value-card"><h3>🧬 Genetic testing</h3><p>All breeding dogs tested for L2-HGA and HC, or clear by parentage</p></div>
   <div class="value-card"><h3>🏠 Family Raised</h3><p>Puppies socialized in a home environment</p></div>
   <div class="value-card"><h3>📞 Support</h3><p>Assistance for the dog's entire life</p></div>
   <div class="value-card"><h3>🏆 Top Lines</h3><p>Elitebull (UK) and Lackyle (Ireland)</p></div>
@@ -110,7 +110,7 @@ custom_content: |
   <li>ENCI Pedigree — FCI certificate recognized worldwide</li>
   <li>Microchip registered with canine registry</li>
   <li>Health booklet with vaccinations and deworming</li>
-  <li>L2HGA and HC genetic test certificates of parents</li>
+  <li>L2-HGA and HC genetic test certificates of parents</li>
   <li>Placement agreement with guarantees</li>
   <li>Puppy kit: food, blanket with mom's scent, toy</li>
   <li>Our number — Support for the dog's entire life</li>
@@ -127,7 +127,7 @@ custom_content: |
   <h2 class="section-title">Who is behind Del Piccolo Diavolo</h2>
   <div class="content-block">
   <p><strong>Paolo Boldrini</strong> has been breeding Staffordshire Bull Terriers since 2013 in Ostellato, in the province of Ferrara, under the name Del Piccolo Diavolo. Before the Staffies he bred Rottweilers, taking an Italian Champion and a European Champion into the ring.</p>
-  <p>He works with Elitebull (England) and Lackyle (Ireland) bloodlines and <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)">tests every breeding dog for L2HGA and HC</a>. Our dogs are also clear of DM-SOD1. With <strong>Bilquis Goddess Diabhal</strong> he won the ENCI Italian Beauty Champion title and placed fourth at the World Dog Show in Zagreb in 2024. Every puppy leaves with an ENCI pedigree and with the parents' test certificates.</p>
+  <p>He works with Elitebull (England) and Lackyle (Ireland) bloodlines and <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)">tests every breeding dog for L2-HGA and HC</a>. Our dogs are also clear of DM-SOD1. With <strong>Bilquis Goddess Diabhal</strong> he won the ENCI Italian Beauty Champion title and placed fourth at the World Dog Show in Zagreb in 2024. Every puppy leaves with an ENCI pedigree and with the parents' test certificates.</p>
   <p>The facts, data and choices described on these pages are his: they come from what happens at the kennel. For questions about puppies, bloodlines or genetic testing: <a href="/en/contact/">contact me directly</a>.</p>
   </div>
   </div>

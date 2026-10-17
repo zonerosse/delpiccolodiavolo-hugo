@@ -4,7 +4,7 @@ date: 2025-12-28
 lastmod: 2026-10-17
 tipoPagina: "CollectionPage"
 translationKey: "femmine"
-description: "Staffordshire Bull Terrier Hündinnen: Bilquis (Top Dog Junior 2023), Queen of California, Croi Olc, Divine, Kennedy, Derry, Cattleya. Gentests L2HGA, HC, DM-SOD1."
+description: "Staffordshire Bull Terrier Hündinnen: Bilquis (Top Dog Junior 2023), Queen of California, Croi Olc, Divine, Kennedy, Derry, Cattleya. Gentests L2-HGA, HC, DM-SOD1."
 slug: "huendinnen-staffordshire-bull-terrier"
 custom_content: |
   <!--BLOCCO:1-->
@@ -17,7 +17,7 @@ custom_content: |
   <div class="hero-content">
   <span class="hero-eyebrow">Unsere Hündinnen</span>
   <h1 class="hero-title">Hündinnen <br><em>Staffordshire</em> <br>Bull Terrier</h1>
-  <p class="hero-subtitle">DNA-Test: frei von L2HGA und HC (HSF4)</p>
+  <p class="hero-subtitle">DNA-Test: frei von L2-HGA und HC (HSF4)</p>
   <p class="hero-description">Zu jeder Hündin finden Sie Mikrochip, ENCI-Zuchtbuchnummer, Gentests und Ahnentafel, zum Selbstprüfen, auch am <a href="/de/staffy-rassestandard/" title="Rassestandard des Staffordshire Bull Terrier">Rassestandard</a>. Unsere aktiven Zuchthündinnen Bilquis und Croi Olc sind außerdem frei von degenerativer Myelopathie (Gen SOD1).</p>
   <div class="hero-actions">
   <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20möchte%20Infos%20zu%20den%20Hündinnen" class="btn btn-primary" title="Kontaktieren Sie uns auf WhatsApp">Kontakt</a>
@@ -29,8 +29,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Elitebull Linien</span><span>Lackyle Linien</span><span>L2HGA Frei</span><span>HC Frei</span><span>Italienische Champions</span><span>ENCI Stammbaum</span>
-  <span>Elitebull Linien</span><span>Lackyle Linien</span><span>L2HGA Frei</span><span>HC Frei</span><span>Italienische Champions</span><span>ENCI Stammbaum</span>
+  <span>Elitebull Linien</span><span>Lackyle Linien</span><span>L2-HGA Frei</span><span>HC Frei</span><span>Italienische Champions</span><span>ENCI Stammbaum</span>
+  <span>Elitebull Linien</span><span>Lackyle Linien</span><span>L2-HGA Frei</span><span>HC Frei</span><span>Italienische Champions</span><span>ENCI Stammbaum</span>
   </div>
   </div>
 
@@ -60,7 +60,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Mikrochip:</strong> 380260044647848<br>
   <strong>LOI:</strong> LO22197469</p>
-  <p><strong>Gentests:</strong> L2HGA & HC (HSF4) frei per DNA</p>
+  <p><strong>Gentests:</strong> L2-HGA & HC (HSF4) frei per DNA</p>
   <p><strong>Degenerative Myelopathie (SOD1):</strong> Frei per DNA</p>
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> Pablo iuno sospita plata plomo</p>
@@ -89,7 +89,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Mikrochip:</strong> 380260160642781<br>
   <strong>LOI:</strong> LO2549181</p>
-  <p><strong>Gentests:</strong> L2HGA & HC (HSF4) frei über Eltern</p>
+  <p><strong>Gentests:</strong> L2-HGA & HC (HSF4) frei über Eltern</p>
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> CH. Elitebull Prospect</p>
   <p><strong>Mutter:</strong> Lackyle Bean Croí Olc</p>
@@ -116,7 +116,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Mikrochip:</strong> 991003001293234<br>
   <strong>LOI:</strong> LO24144140</p>
-  <p><strong>Gentests:</strong> L2HGA & HC (HSF4) frei per DNA</p>
+  <p><strong>Gentests:</strong> L2-HGA & HC (HSF4) frei per DNA</p>
   <p><strong>Degenerative Myelopathie (SOD1):</strong> Frei per DNA</p>
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> Lackyle Trodai Tine</p>
@@ -142,7 +142,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Mikrochip:</strong> 643094100473511<br>
   <strong>LOI:</strong> LO19125788</p>
-  <p><strong>Gentests:</strong> L2HGA & HC (HSF4) frei per DNA</p>
+  <p><strong>Gentests:</strong> L2-HGA & HC (HSF4) frei per DNA</p>
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> CH. Dangerous Smile Black Shadow</p>
   <p><strong>Mutter:</strong> CH. Sonrisa Feliz Keely Lariel</p>
@@ -166,7 +166,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Mikrochip:</strong> 276098104987682<br>
   <strong>LOI:</strong> LO1610654</p>
-  <p><strong>Gentests:</strong> L2HGA & HC (HSF4) frei per DNA</p>
+  <p><strong>Gentests:</strong> L2-HGA & HC (HSF4) frei per DNA</p>
   <p><strong>PHPV:</strong> Nicht betroffen</p>
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> CH. Hell's Angel</p>
@@ -193,7 +193,7 @@ custom_content: |
   <strong>LOI:</strong> LO1610667</p>
   <p><strong>HD:</strong> B</p>
   <p><strong>ED:</strong> A</p>
-  <p><strong>Gentests:</strong> L2HGA & HC (HSF4) frei per DNA</p>
+  <p><strong>Gentests:</strong> L2-HGA & HC (HSF4) frei per DNA</p>
   <p><strong>PHPV:</strong> Nicht betroffen</p>
   <p><strong>Vater:</strong> CH. Kiraloebis Italian Gigalo (Top UK Staffordshire Bull Terrier 2012)</p>
   <p><strong>Mutter:</strong> Lackyle Duilleog Daracha</p>
@@ -218,7 +218,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Mikrochip:</strong> 380260044549631<br>
   <strong>LOI:</strong> LO2222029</p>
-  <p><strong>Gentests:</strong> L2HGA & HC (HSF4) frei per DNA</p>
+  <p><strong>Gentests:</strong> L2-HGA & HC (HSF4) frei per DNA</p>
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> THE Phenomenal AJ Styles Valconcaclan</p>
   <p><strong>Mutter:</strong> Foyleoak Maiden Derry</p>
@@ -243,7 +243,7 @@ custom_content: |
   <div class="female-info">
   <p><strong>Mikrochip:</strong> 380260004336944<br>
   <strong>LOI:</strong> LO2199721</p>
-  <p><strong>Gentests:</strong> L2HGA & HC (HSF4) frei per DNA</p>
+  <p><strong>Gentests:</strong> L2-HGA & HC (HSF4) frei per DNA</p>
   <p><strong>Degenerative Myelopathie (SOD1):</strong> Frei per DNA</p>
   <p><strong>Gebiss:</strong> Vollständiges Scherengebiss</p>
   <p><strong>Vater:</strong> Skilful-Dogs Jeghër</p>
@@ -271,7 +271,7 @@ custom_content: |
   <p>Auf dieser Seite stehen acht Staffordshire Bull Terrier Hündinnen: zwei aktive Zuchthündinnen, Bilquis und Croi Olc, drei, die keine Würfe mehr haben, und drei, die anderswo leben. Queen und Cattleya sind hier geboren und als Welpen gegangen: Heute lebt Queen in Bologna und Cattleya in Rimini. Nora habe ich einem sehr guten Freund in Verona geschenkt, der sich in sie verliebt hatte. Auf jeder Karte steht der Name dessen, bei dem sie heute lebt.</p>
   <p>Wir wählen sie nach <strong>Gesundheit</strong>, <strong>Rassetypizität</strong> und <strong>ausgeglichenem Wesen</strong>. Jede Verpaarung wird <a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)">auf Basis von Gentests</a> und Linienkompatibilität geplant.</p>
   <p style="margin-top:1.2rem;margin-bottom:.8rem;font-weight:600;color:#5c4a3a">Unsere Hündinnen sind getestet auf:</p>
-  <p>✓ <strong>L2HGA</strong> — L-2-Hydroxyglutarazidurie<br>
+  <p>✓ <strong>L2-HGA</strong> — L-2-Hydroxyglutarazidurie<br>
   ✓ <strong>HC</strong> — Hereditäre Katarakt<br>
   ✓ <strong>DM-SOD1</strong> — Degenerative Myelopathie<br>
   ✓ <strong>Gebiss</strong> — Vollständiges Scherengebiss</p>

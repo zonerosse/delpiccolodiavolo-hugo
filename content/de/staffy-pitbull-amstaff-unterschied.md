@@ -236,7 +236,7 @@ custom_content: |
   <h2>Welche Rasse wählen?</h2>
 
   <p>Diese Seite dient dazu, die drei Rassen zu unterscheiden und zu verstehen, was das Gesetz sagt. Wer den Pit Bull schon ausgeschlossen hat und zwischen <strong>Staffy und Amstaff</strong> wählen muss, findet im eigenen Ratgeber die konkreten Fragen zu Platz, Erfahrung und Alltag: <a href="/de/staffy-oder-amstaff-welche-rasse-passt-zu-ihnen/" title="Staffy oder Amstaff: welche Rasse wählen">welche der beiden Rassen zu Ihnen passt</a>.</p>
-  <p>Die Zucht Del Piccolo Diavolo züchtet nur den Staffordshire Bull Terrier: eine Rasse mit klarem FCI-Standard, Gentests auf L2HGA und HC und einer Größe, die zum Leben im Haus passt.</p>
+  <p>Die Zucht Del Piccolo Diavolo züchtet nur den Staffordshire Bull Terrier: eine Rasse mit klarem FCI-Standard, Gentests auf L2-HGA und HC und einer Größe, die zum Leben im Haus passt.</p>
   <!--/BLOCCO:7-->
 
   <!--BLOCCO:8-->
