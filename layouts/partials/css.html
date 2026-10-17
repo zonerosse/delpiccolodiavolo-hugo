@@ -6,6 +6,6 @@
 {{- if .IsHome -}}{{- with resources.Get "css/home.css" -}}
 <style>{{ (. | minify).Content | safeCSS }}</style>
 {{- end -}}{{- end -}}
-{{- if .Params.notte -}}{{- with resources.Get "css/notte.css" -}}
+{{- if or .Params.notte (and .IsPage (eq .Section "diario-allevamento")) -}}{{- with resources.Get "css/notte.css" -}}
 <style>{{ (. | minify).Content | safeCSS }}</style>
 {{- end -}}{{- end -}}

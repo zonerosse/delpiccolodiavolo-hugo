@@ -3,7 +3,7 @@
 <div class="page-hero">
   {{ partial "breadcrumb.html" . }}
   <time class="diario-date-hero" datetime="{{ .Date.Format "2006-01-02" }}">
-    {{ .Date.Format "2 January 2006" }}
+    {{ .Date | time.Format ":date_long" }}
   </time>
   <h1>{{ or (partial "pagine/mod.html" .).h1 .Title }}</h1>
   {{ with partial "pagine/desc.html" . }}<p>{{ . }}</p>{{ end }}
@@ -50,7 +50,7 @@
 <nav class="diario-nav">
   {{ with .PrevInSection }}
   <a href="{{ .Permalink }}" class="diario-nav-link diario-nav-prev">
-    <span class="diario-nav-label">← Precedente</span>
+    <span class="diario-nav-label">← {{ cond (eq $lang "en") "Previous" (cond (eq $lang "de") "Vorheriger" "Precedente") }}</span>
     <span class="diario-nav-title">{{ .Title }}</span>
   </a>
   {{ else }}
@@ -58,12 +58,12 @@
   {{ end }}
 
   <a href="{{ .Parent.Permalink }}" class="diario-nav-link diario-nav-back">
-    Tutti gli aggiornamenti
+    {{ cond (eq $lang "en") "All updates" (cond (eq $lang "de") "Alle Neuigkeiten" "Tutti gli aggiornamenti") }}
   </a>
 
   {{ with .NextInSection }}
   <a href="{{ .Permalink }}" class="diario-nav-link diario-nav-next">
-    <span class="diario-nav-label">Successivo →</span>
+    <span class="diario-nav-label">{{ cond (eq $lang "en") "Next" (cond (eq $lang "de") "Nächster" "Successivo") }} →</span>
     <span class="diario-nav-title">{{ .Title }}</span>
   </a>
   {{ else }}

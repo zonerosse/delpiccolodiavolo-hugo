@@ -376,3 +376,41 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .notte-pagina .blog-card h3{font-size:1.25rem!important;margin:.3rem 0 .4rem!important}
 @media(max-width:600px){.notte-pagina .blog-card{grid-template-columns:72px 1fr;column-gap:1rem}.notte-pagina .blog-card-thumb,.notte-pagina .blog-card-thumb img{width:72px!important;height:72px!important}}
 .notte-pagina .faq-q a,.notte-pagina .n-faq h3 a{text-decoration:underline;text-underline-offset:2px}
+/* Pagine delle singole cucciolate del Diario in stile Notte (17/10/2026) */
+.notte-pagina .diario-date-hero{color:var(--n-cu)!important;letter-spacing:.08em}
+.notte-pagina main div[style*="background:#fdfaf4"]{background:var(--n-card)!important;border-color:var(--n-ln)!important;border-left-color:var(--n-go)!important}
+.notte-pagina main div[style*="background:#fdfaf4"] p{color:var(--n-mu)!important}
+.notte-pagina main div[style*="background:#fdfaf4"] p:first-child{color:var(--n-cr)!important}
+.notte-pagina main div[style*="background:#fdfaf4"] a{color:var(--n-go)!important;border-color:var(--n-go)!important}
+.notte-pagina main table{background:transparent!important;border-color:var(--n-ln)!important}
+.notte-pagina main table th{background:var(--n-card)!important;color:var(--n-go)!important}
+.notte-pagina main table td,.notte-pagina main table tr{background:transparent!important;color:var(--n-cr)!important;border-color:var(--n-ln)!important}
+.notte-pagina main table tr:nth-child(even) td{background:rgba(255,255,255,.03)!important}
+.notte-pagina main [style*="color:#666"],.notte-pagina main [style*="color:#555"],.notte-pagina main [style*="color:#6b5c4a"]{color:var(--n-mu)!important}
+.notte-pagina main em[style*="color:#666"],.notte-pagina main p>em{color:var(--n-mu)}
+.notte-pagina .article-content em{color:var(--n-mu)}
+.notte-pagina .diario-nav{border-color:var(--n-ln)!important}
+.notte-pagina .diario-nav-label{color:var(--n-cu)!important}
+.notte-pagina .diario-nav-title,.notte-pagina .diario-nav-back{color:var(--n-cr)!important}
+.notte-pagina .diario-nav-link:hover{background:var(--n-card)!important}
+.notte-pagina .article-content [style*="background:#e6ddd4"]{background:var(--n-card)!important}
+/* Pagine delle singole cucciolate a righe: titolo h2 a sinistra, contenuto a destra (17/10/2026) */
+.tipo-articolo.notte-pagina .article-content{max-width:1080px!important;margin-left:auto;margin-right:auto;padding-left:1.5rem!important;padding-right:1.5rem!important}
+.tipo-articolo.notte-pagina main>div[style*="max-width:820px"]{max-width:1032px!important}
+@media(min-width:768px){
+.tipo-articolo.notte-pagina .article-content{display:grid;grid-template-columns:1fr 2.2fr;column-gap:3rem}
+.tipo-articolo.notte-pagina .article-content>*{grid-column:2;min-width:0}
+.tipo-articolo.notte-pagina .article-content>h2{grid-column:1;position:relative;margin:0!important;padding-top:2.2rem;font-family:Georgia,serif;font-size:1.25rem!important;line-height:1.35}
+.tipo-articolo.notte-pagina .article-content>h2:before{content:"";position:absolute;left:0;top:0;width:calc(320% + 3rem);border-top:1px solid var(--n-ln)}
+.tipo-articolo.notte-pagina .article-content>h2+*{margin-top:2.2rem!important}
+.tipo-articolo.notte-pagina .article-content>:not(h2~*):not(h2){grid-column:1/-1}
+.tipo-articolo.notte-pagina .article-content>div[style*="repeat(auto-fit"]{grid-template-columns:repeat(2,minmax(0,1fr))!important}
+}
+/* Cucciolate del Diario: niente fondi senape o marroni, solo scuro, oro e rame come le altre pagine (17/10/2026) */
+.tipo-articolo.notte-pagina main [style*="background:#c9a227"]{background:transparent!important;border:1px solid var(--n-go)!important;color:var(--n-cr)!important}
+.tipo-articolo.notte-pagina main [style*="background:#c9a227"] *{color:var(--n-cr)!important}
+.tipo-articolo.notte-pagina main [style*="background:#c9a227"] strong:first-child,.tipo-articolo.notte-pagina main [style*="background:#c9a227"]>:first-child{color:var(--n-go)!important}
+.tipo-articolo.notte-pagina main [style*="linear-gradient(135deg,#5c4a3a"]{background:var(--n-card)!important;border:1px solid var(--n-ln)!important;border-top:2px solid var(--n-cu)!important}
+.tipo-articolo.notte-pagina main [style*="linear-gradient(135deg,#5c4a3a"] a{background:transparent!important;border:1px solid var(--n-ln)!important;color:var(--n-go)!important}
+.tipo-articolo.notte-pagina main [style*="linear-gradient(135deg,#5c4a3a"] a:hover{border-color:var(--n-go)!important}
+.tipo-articolo.notte-pagina main span[style*="background:#8b7300"],.tipo-articolo.notte-pagina main span[style*="background:#5c4a3a"]{background:transparent!important;border:1px solid var(--n-go);color:var(--n-go)!important}

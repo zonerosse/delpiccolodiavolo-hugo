@@ -327,5 +327,8 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
     chiude sulle pagine Notte. Testata con icona (`img[alt=""]`): icona piccola e centrata, senza sfumatura.
   - Blog (scelta A): articoli a righe (icona 120 px a sinistra, data, titolo e testo a destra), tutti visibili (niente
     «Mostra tutti gli articoli»). In «Ultimi articoli» (`partials/recenti.html`) la data è nella lingua della pagina.
+  - Pagine delle singole cucciolate del Diario: sempre Notte (anche quelle del gestionale, senza front matter: `baseof.html` e
+    `css.html` guardano la sezione `diario-allevamento`), body `tipo-articolo notte-pagina`. A righe solo con il CSS (h2 a sinistra,
+    contenuto a destra). Niente fondi senape o marroni: riquadri scuri con bordo oro o rame. Data e navigazione nella lingua della pagina.
   - Foto in testata sempre intera, mai tagliata (scelta A): `object-fit:contain` su fondo scuro; al telefono alta il 62% dello
     schermo. La foto di Bilquis in testata è `bilquis-campionessa-hero.avif` (800×976), non più `femmina-bilquis-hero.avif` (301×396, sgranata).

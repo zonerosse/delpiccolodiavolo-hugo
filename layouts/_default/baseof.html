@@ -142,7 +142,10 @@
 
   {{ partial "css.html" . }}
 </head>
-<body{{ if .Params.articolo }} class="tipo-articolo"{{ else if .Params.notte }} class="notte-pagina"{{ end }}>
+{{- /* Pagine Notte: quelle con notte: true e le pagine delle singole cucciolate del Diario (17/10/2026) */ -}}
+{{- $notte := or .Params.notte (and .IsPage (eq .Section "diario-allevamento")) -}}
+{{- $classi := slice -}}{{- if .Params.articolo }}{{ $classi = $classi | append "tipo-articolo" }}{{ end -}}{{- if $notte }}{{ $classi = $classi | append "notte-pagina" }}{{ end -}}
+<body{{ with $classi }} class="{{ delimit . " " }}"{{ end }}>
 
 <a class="salta-contenuto" href="#contenuto">{{ i18n "salta_contenuto" }}</a>
 
