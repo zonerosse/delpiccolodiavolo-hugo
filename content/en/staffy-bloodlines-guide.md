@@ -44,7 +44,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>Staffordshire Bull Terrier bloodlines are counted from 1935, when the Kennel Club recognised the breed; before that, the Bull and Terriers of Staffordshire were working dogs without traceable pedigrees. In 1943 the breed historian H. N. Beilby published the first thorough study of the breed's genetics and identified six distinct male lines. Lines are traced through the male descent, as is standard practice in dog breeding, so a dog belongs to the line of its paternal great-grandfather even when other lines appear through the females. Today the M-Line and the R-Line dominate the modern breed. A bloodline is not a sub-breed or a brand: it is the result of generations of decisions about which dogs were kept and mated. Knowing a dog's line helps you read its pedigree; the dog itself is judged by its tests, structure and temperament. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>Staffordshire Bull Terrier bloodlines are counted from 1935, when the Kennel Club recognised the breed; before that, the Bull and Terriers of Staffordshire were working dogs without traceable pedigrees. In the 1940s the breed historian H. N. Beilby published the first thorough study of the breed's genetics, with data up to 1943, and identified six distinct male lines. Lines are traced through the male descent, as is standard practice in dog breeding, so a dog belongs to the line of the founder it descends from sire to sire, even when other lines appear through the females. Today the M-Line and the R-Line dominate the modern breed. Knowing a dog's line helps you read its pedigree; the dog itself is judged by its tests, structure and temperament. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
   <p>This page tells the history of the lines and the dogs that founded them. If you are choosing a puppy and want to know how to find your way among today's lines, there is a practical guide: <a href="/en/choosing-bloodlines/" title="Choosing Staffy bloodlines">how to choose a bloodline</a>.</p>
 
@@ -58,65 +58,53 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Where the lines come from</h2>
-  <p>The recorded history of Staffordshire Bull Terrier bloodlines begins on <strong>25 May 1935</strong>, when the Kennel Club recognised the breed. Before that date the "Bull and Terriers" of Staffordshire were working dogs with no traceable pedigrees. The first official breed show followed on 17 August 1935, at the Cradley Heath Conservative Club in South Staffordshire, and systematic record-keeping started there.</p>
+  <p>The recorded history of Staffordshire Bull Terrier bloodlines begins in <strong>1935</strong>, when the Kennel Club recognised the breed. Before that the "Bull and Terriers" of Staffordshire were working dogs with no traceable pedigrees. In June of that year the breed club was founded at Cradley Heath, in Staffordshire, and systematic record-keeping started there.</p>
 
-  <p>In 1943 the breed historian H. N. Beilby published the first thorough study of the breed's genetics and identified <strong>six distinct male lines</strong>:</p>
+  <p>In his study, with data up to 1943, the breed historian H. N. Beilby identified <strong>six distinct male lines</strong>:</p>
 
   <ul>
-  <li><strong>J-Line</strong> — founded by Fearless Joe, about 300 registrations by 1943</li>
-  <li><strong>M-Line</strong> — founded by Brindle Mick, about 300 registrations by 1943</li>
-  <li><strong>L-Line</strong> — founded by Game Lad, about 120 registrations</li>
-  <li><strong>B-Line</strong> — founded by Rum Bottle, associated with the Westall strain, about 100 registrations</li>
-  <li><strong>R-Line</strong> — founded by Ribchester Bob, recognised in 1946</li>
-  <li><strong>C-Line</strong> — founded through Cinderbank Beauty via Togo, recognised in 1946</li>
+  <li><strong>J-Line</strong>: founded by Fearless Joe, about 300 registrations by 1943</li>
+  <li><strong>M-Line</strong>: founded by Brindle Mick, about 300 registrations by 1943</li>
+  <li><strong>L-Line</strong>: founded by Game Lad, about 120 registrations</li>
+  <li><strong>B-Line</strong>: founded by Rum Bottle, associated with the Westall strain, about 100 registrations</li>
+  <li><strong>R-Line</strong>: founded by Ribchester Bob, recognised in 1946</li>
+  <li><strong>C-Line</strong>: founded through Cinderbank Beauty via Togo, recognised in 1946</li>
   </ul>
 
-  <p>Lines are traced through the male descent, which is standard practice in dog breeding. A dog belongs to the line of its paternal great-grandfather even when other lines appear in the pedigree through the females.</p>
+  <p>Lines are traced through the male descent, which is standard practice in dog breeding. A dog belongs to the line of the founder it descends from sire to sire, even when other lines appear in the pedigree through the females.</p>
 
   <h3>The first champion: Gentleman Jim</h3>
-  <p>One name stands above the rest. <strong>Gentleman Jim</strong>, born on 25 May 1937 and bred by Jack Dunn, was a son of Brindle Mick, the founder of the M-Line. He became the breed's <strong>first male champion</strong> in 1939, and practically every modern Staffordshire Bull Terrier carries him somewhere in its pedigree — often several times over.</p>
+  <p>One name stands above the rest. <strong>Gentleman Jim</strong>, born on 25 May 1936 and bred by Jack Dunn, was a son of Brindle Mick, the founder of the M-Line. He became the breed's <strong>first male champion</strong> in 1939, and practically every modern Staffordshire Bull Terrier carries him somewhere in its pedigree, often several times over.</p>
 
   <p>That ubiquity has a cost. A single dog appearing repeatedly in almost every pedigree narrows the gene pool of the whole breed, which is one reason every breeding dog here is tested for L2HGA and HC, or clear by parentage with its parents' reports. Our dogs are also clear of DM-SOD1.</p>
 
   <h3>M-Line, the widespread one</h3>
-  <p>The M-Line, from Brindle Mick, is today by far the most widespread: in the <a href="https://thestaffordknot.com/the-original-lines-explained/" target="_blank" rel="noopener" aria-label="The Stafford Knot database – The Stafford Knot, the original lines explained (opens in a new tab)">The Stafford Knot database</a> about 32,500 males descend from it in male line, against about 6,750 for the R-Line, while the other four lines count a few dozen dogs. Its best-known names include Gentleman Jim himself, <strong>Cross Guns Johnson</strong> — full brother of Brindle Mick, and so Gentleman Jim's uncle, Best of Breed at the first Crufts the breed attended — and <strong>Fearless Red of Bandits</strong> (1944), a son of Gentleman Jim often described as the essence of the true Stafford. The line is associated with imposing heads, substantial frames and heavy muscling.</p>
+  <p>The M-Line, from Brindle Mick, is today by far the most widespread: in the <a href="https://thestaffordknot.com/the-original-lines-explained/" target="_blank" rel="noopener" aria-label="The Stafford Knot database – The Stafford Knot, the original lines explained (opens in a new tab)">The Stafford Knot database</a> about 32,500 males descend from it in male line, against about 6,750 for the R-Line, while the other four lines count a hundred at most. Its best-known names include Gentleman Jim himself and <strong>Cross Guns Johnson</strong>, full brother of Brindle Mick and so Gentleman Jim's uncle, Best of Breed at the first Crufts the breed attended.</p>
 
   <h3>R-Line, the survivor</h3>
-  <p>The R-Line was founded by <strong>Ribchester Bob</strong>, born around 1931. It is known for freer movement, a more compact but athletic build, an even temperament with notable trainability, and good longevity. Today about one male in six descends from it in male line, and it is valued by European kennels looking to widen their base.</p>
+  <p>The R-Line was founded by <strong>Ribchester Bob</strong>, born around 1931. Today about one male in six descends from it in male line, and it is valued by European kennels looking to widen their base.</p>
 
-  <h3>The lines that died out</h3>
-  <p>Three of the six original lines faded. The <strong>L-Line</strong> (Game Lad) was the smallest of the major lines and was hit hard by the two world wars; the <strong>B-Line</strong> (Rum Bottle), tied to the Westall family, disappeared during the 1950s; the <strong>C-Line</strong> (Cinderbank Beauty), the most recent of the six, never established a lasting presence. Of the J-Line only a handful of dogs remain.</p>
+  <h3>The lines that almost died out</h3>
+  <p>The other four original lines have almost disappeared. About a hundred and twenty males of the <strong>J-Line</strong> (Fearless Joe) remain in the database; the <strong>L-Line</strong> (Game Lad), the <strong>B-Line</strong> (Rum Bottle, the "Westall strain") and the <strong>C-Line</strong> (Cinderbank Beauty, the most recent of the six) have twenty or fewer each.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
   <h2>M-Line and R-Line side by side</h2>
 
-  <table tabindex="0">
-  <thead>
-  <tr><th>Trait</th><th>M-Line (Brindle Mick)</th><th>R-Line (Ribchester Bob)</th></tr>
-  </thead>
-  <tbody>
-  <tr><td><strong>Head</strong></td><td>Broader and more massive, pronounced stop</td><td>Cleaner and better proportioned, moderate stop</td></tr>
-  <tr><td><strong>Body</strong></td><td>More substantial, wide chest, heavy bone</td><td>More compact and balanced, medium bone</td></tr>
-  <tr><td><strong>Movement</strong></td><td>Powerful drive, less agile</td><td>Freer and more agile, efficient ground cover</td></tr>
-  <tr><td><strong>Temperament</strong></td><td>Confident, dominant, strong personality</td><td>Even, trainable, versatile</td></tr>
-  <tr><td><strong>Where it excels today</strong></td><td>Conformation showing</td><td>Agility, obedience, family life</td></tr>
-  <tr><td><strong>Males in male line (The Stafford Knot database)</strong></td><td>About 82%</td><td>About 17%</td></tr>
-  </tbody>
-  </table>
+  <p>In The Stafford Knot database about 82% of males descend from the M-Line sire to sire, about 17% from the R-Line. You often read that the M-Line gives more massive heads and show dogs, and the R-Line more agile, trainable dogs. Take those descriptions with a pinch of salt: a line is followed only from sire to sire, and after ninety years of matings an M-Line dog also has a great many ancestors from other lines in its pedigree. A puppy's type is told by its parents and grandparents, not by the letter of its line.</p>
 
-  <p>Neither is better than the other. Knowing which one sits behind a litter simply tells you what to expect from the puppy in front of you.</p>
+  <p>Neither is better than the other. Knowing which one sits behind a litter is a fact of the pedigree, not a prediction about the puppy in front of you.</p>
   <!--/BLOCCO:4-->
 
   <!--BLOCCO:5-->
   <h2>The English lines</h2>
   <p>The breed was made in England, and English breeding remains the reference point for type. The most influential kennels have prioritised correct proportion, a broad and well-filled head without exaggeration, sound movement and, above all, the reliable temperament written into the standard.</p>
-  <p>Lines such as Elitebull have been particularly influential in continental Europe, and they are the foundation of our own programme. What we look for there is substance without coarseness: a dog that is unmistakably a Staffordshire Bull Terrier at a glance, but that can still trot for an hour and breathe normally at the end of it.</p>
+  <p>Lines such as Elitebull have been particularly influential in continental Europe, and they are the foundation of our own programme. What we look for there is substance without coarseness: a dog that is unmistakably a Staffordshire Bull Terrier at a glance, but that can still trot for a long time and breathe normally at the end of it.</p>
   <!--/BLOCCO:5-->
 
   <!--BLOCCO:6-->
   <h2>The Irish lines</h2>
-  <p>Irish breeding has a distinct flavour and an excellent reputation. Kennels such as Lackyle are known for compact, athletic, extremely typey dogs with strong bone and a notably outgoing character. Irish lines have historically placed heavy emphasis on soundness and on producing dogs that hold their type consistently across a litter rather than producing one exceptional puppy among eight ordinary ones.</p>
+  <p>Irish breeding has a distinct flavour and an excellent reputation. Kennels such as Lackyle are known for compact, athletic, extremely typey dogs with strong bone and a notably outgoing character. Irish lines have historically placed heavy emphasis on soundness and on producing dogs that hold their type consistently across a litter rather than producing one exceptional puppy in an ordinary litter.</p>
   <p>Combining English and Irish lines is a common and productive strategy, and it is the basis of our own selection. The two traditions complement each other: the English for balance and head quality, the Irish for compactness, bone and consistency.</p>
   <!--/BLOCCO:6-->
 
@@ -135,8 +123,8 @@ custom_content: |
   <!--BLOCCO:9-->
   <h2>Linebreeding, inbreeding and coefficients</h2>
   <p>Linebreeding, the deliberate repetition of an admired ancestor within a pedigree, is a legitimate tool for fixing type. Pushed too far it becomes inbreeding, and the cost is paid in immune function, fertility and vigour rather than in appearance, which is precisely why it is easy to ignore.</p>
-  <p>The coefficient of inbreeding (COI) measures how closely related the parents are, and it is always read together with the number of generations it is calculated over. Over five generations, as a reference: up to 5% is a good value, pointing to different lines; between 6 and 10% is acceptable but needs attention; between 11 and 15% is worrying and raises the risk of genetic problems; above 15% is high.</p>
-  <p>A practical rule we apply: we want to see the coefficient of inbreeding over 5 generations kept low, and we will not repeat a close doubling simply because a particular ancestor was fashionable. Type gained at the expense of vitality is a bad trade, and it is one the family discovers years later.</p>
+  <p>The coefficient of inbreeding (COI) measures how closely related the parents are, and it is always read together with the number of generations it is calculated over: the same dog can have a COI of 9 per cent over eight generations and 21 over the full pedigree.</p>
+  <p>The range we work within is 6 to 9 per cent: below it you lose the ability to fix a temperament, above it you are tightening too much. And we will not repeat a close doubling simply because a particular ancestor was fashionable. Type gained at the expense of vitality is a bad trade, and it is one the family discovers years later.</p>
   <!--/BLOCCO:9-->
 
   <!--BLOCCO:10-->
@@ -150,7 +138,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3>How many original bloodlines did the Staffordshire Bull Terrier have?</h3>
-  <div class="faq-answer">When the breed was officially recognised by the British Kennel Club in 1935, the founding gene pool traced back to a limited number of stems, traditionally described as <strong>six male lines</strong>, each identified by a letter. Every pedigree Staffordshire Bull Terrier alive today descends from those stems in varying degrees. Not all fared equally: some all but died out, others spread enormously because certain dogs produced heavily and were used everywhere. It shows clearly on SBTPedigree when you follow a tree back eight or ten generations &mdash; the same names reappear from several branches, which is why the coefficient of inbreeding rises the further back you count.</div>
+  <div class="faq-answer">When the breed was officially recognised by the British Kennel Club in 1935, the founding gene pool traced back to a limited number of stems, traditionally described as <strong>six male lines</strong>, each identified by a letter. Every pedigree Staffordshire Bull Terrier alive today descends from those stems in varying degrees. Not all fared equally: some all but died out, others spread enormously because certain dogs produced heavily and were used everywhere. It shows clearly on SBTPedigree when you follow a tree back eight or ten generations: the same names reappear from several branches, which is why the coefficient of inbreeding rises the further back you count.</div>
   </div>
 
   <div class="faq-item">
@@ -165,7 +153,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3>What is the difference between the Irish and the English lines?</h3>
-  <div class="faq-answer">Less than is usually claimed. Descriptions that assign fixed traits by nationality &mdash; the English like this, the Irish like that &mdash; are simplifications: within each tradition there are very different kennels, and the lines have been crossing for decades. What can honestly be said is that certain historic kennels left a recognisable stamp on type, and that people who select learn to recognise it by looking at dogs rather than at flags. The Del Piccolo Diavolo kennel works with <strong>Elitebull</strong>, English, and <strong>Lackyle</strong>, Irish &mdash; and these are not opposites, because Lackyle's historic dogs appear inside Elitebull pedigrees.</div>
+  <div class="faq-answer">Less than is usually claimed. Descriptions that assign fixed traits by nationality (the English like this, the Irish like that) are simplifications: within each tradition there are very different kennels, and the lines have been crossing for decades. What can honestly be said is that certain historic kennels left a recognisable stamp on type, and that people who select learn to recognise it by looking at dogs rather than at flags. The Del Piccolo Diavolo kennel works with <strong>Elitebull</strong>, English, and <strong>Lackyle</strong>, Irish, and these are not opposites, because Lackyle's historic dogs appear inside Elitebull pedigrees.</div>
   </div>
 
   <div class="faq-item">
@@ -187,13 +175,13 @@ custom_content: |
   <li><a href="/en/how-to-read-a-pedigree/" title="How to read a pedigree: what ENCI shows and what it doesn&#x27;t">How to read a pedigree: what ENCI shows and what it doesn't</a></li>
   <li><a href="/en/staffy-pitbull-amstaff-difference/" title="Staffordshire Bull Terrier, Pitbull and Amstaff compared">Staffordshire Bull Terrier, Pitbull and Amstaff compared</a></li>
   <li><a href="/en/staffy-breed-standard/" title="Staffordshire Bull Terrier breed standard explained">Staffordshire Bull Terrier breed standard explained</a></li>
-  <li><a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)">Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)</a></li>
+  <li><a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2HGA, HC (HSF4) and DM (SOD1)">Staffy genetic testing: L2HGA, HC (HSF4) and DM (SOD1)</a></li>
   <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a serious Staffy breeder">How to recognise a serious Staffy breeder</a></li>
   </ul>
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
+  <a class="btn" href="/en/blog/" title="Back to the blog">&larr; Back to the blog</a>
   </div>
   <!--/BLOCCO:11-->
 

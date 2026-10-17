@@ -58,65 +58,53 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Woher die Linien kommen</h2>
-  <p>Die dokumentierte Geschichte der Blutlinien des Staffordshire Bull Terrier beginnt am <strong>25. Mai 1935</strong>, als der Kennel Club die Rasse anerkannte. Vorher waren die „Bull and Terrier“ aus Staffordshire Arbeitshunde ohne nachvollziehbare Ahnentafeln. Die erste offizielle Rasseausstellung folgte am 17. August 1935 im Cradley Heath Conservative Club in South Staffordshire, und dort begann die systematische Aufzeichnung.</p>
+  <p>Die dokumentierte Geschichte der Blutlinien des Staffordshire Bull Terrier beginnt <strong>1935</strong>, als der Kennel Club die Rasse anerkannte. Vorher waren die „Bull and Terrier“ aus Staffordshire Arbeitshunde ohne nachvollziehbare Ahnentafeln. Im Juni jenes Jahres wurde in Cradley Heath, in Staffordshire, der Rasseklub gegründet, und dort begann die systematische Aufzeichnung.</p>
 
-  <p>1943 veröffentlichte der Rassehistoriker H. N. Beilby die erste gründliche Untersuchung zur Genetik der Rasse und bestimmte <strong>sechs verschiedene männliche Linien</strong>:</p>
+  <p>In seiner Untersuchung, mit Daten bis 1943, bestimmte der Rassehistoriker H. N. Beilby <strong>sechs verschiedene männliche Linien</strong>:</p>
 
   <ul>
-  <li><strong>J-Linie</strong> — gegründet von Fearless Joe, bis 1943 etwa 300 Eintragungen</li>
-  <li><strong>M-Linie</strong> — gegründet von Brindle Mick, bis 1943 etwa 300 Eintragungen</li>
-  <li><strong>L-Linie</strong> — gegründet von Game Lad, etwa 120 Eintragungen</li>
-  <li><strong>B-Linie</strong> — gegründet von Rum Bottle, verbunden mit der Westall-Zucht, etwa 100 Eintragungen</li>
-  <li><strong>R-Linie</strong> — gegründet von Ribchester Bob, anerkannt 1946</li>
-  <li><strong>C-Linie</strong> — gegründet über Cinderbank Beauty und Togo, anerkannt 1946</li>
+  <li><strong>J-Linie</strong>: gegründet von Fearless Joe, bis 1943 etwa 300 Eintragungen</li>
+  <li><strong>M-Linie</strong>: gegründet von Brindle Mick, bis 1943 etwa 300 Eintragungen</li>
+  <li><strong>L-Linie</strong>: gegründet von Game Lad, etwa 120 Eintragungen</li>
+  <li><strong>B-Linie</strong>: gegründet von Rum Bottle, verbunden mit der Westall-Zucht, etwa 100 Eintragungen</li>
+  <li><strong>R-Linie</strong>: gegründet von Ribchester Bob, anerkannt 1946</li>
+  <li><strong>C-Linie</strong>: gegründet über Cinderbank Beauty und Togo, anerkannt 1946</li>
   </ul>
 
-  <p>Linien werden über die männliche Abstammung verfolgt, wie in der Hundezucht üblich. Ein Hund gehört zur Linie seines Urgroßvaters väterlicherseits, auch wenn über die Hündinnen andere Linien in der Ahnentafel stehen.</p>
+  <p>Linien werden über die männliche Abstammung verfolgt, wie in der Hundezucht üblich. Ein Hund gehört zur Linie des Gründers, von dem er von Vater zu Vater abstammt, auch wenn über die Hündinnen andere Linien in der Ahnentafel stehen.</p>
 
   <h3>Der erste Champion: Gentleman Jim</h3>
-  <p>Ein Name überragt alle anderen. <strong>Gentleman Jim</strong>, geboren am 25. Mai 1937 und gezüchtet von Jack Dunn, war ein Sohn von Brindle Mick, dem Gründer der M-Linie. 1939 wurde er der <strong>erste männliche Champion</strong> der Rasse, und praktisch jeder heutige Staffordshire Bull Terrier trägt ihn irgendwo in seiner Ahnentafel, oft mehrfach.</p>
+  <p>Ein Name überragt alle anderen. <strong>Gentleman Jim</strong>, geboren am 25. Mai 1936 und gezüchtet von Jack Dunn, war ein Sohn von Brindle Mick, dem Gründer der M-Linie. 1939 wurde er der <strong>erste männliche Champion</strong> der Rasse, und praktisch jeder heutige Staffordshire Bull Terrier trägt ihn irgendwo in seiner Ahnentafel, oft mehrfach.</p>
 
   <p>Diese Allgegenwart hat ihren Preis. Ein einzelner Hund, der in fast jeder Ahnentafel wiederholt auftaucht, verengt den Genpool der ganzen Rasse, und das ist ein Grund, warum jeder Zuchthund bei uns auf L2HGA und HC getestet oder durch Abstammung frei ist, mit den Befunden seiner Eltern. Unsere Hunde sind außerdem frei von DM-SOD1.</p>
 
   <h3>M-Linie, die verbreitete</h3>
-  <p>Die M-Linie von Brindle Mick ist heute mit Abstand die verbreitetste: In der <a href="https://thestaffordknot.com/the-original-lines-explained/" target="_blank" rel="noopener" aria-label="Datenbank von The Stafford Knot – The Stafford Knot, die ursprünglichen Linien (wird in einem neuen Tab geöffnet)">Datenbank von The Stafford Knot</a> stammen etwa 32.500 Rüden in männlicher Linie von ihr ab, gegenüber etwa 6.750 bei der R-Linie, während die anderen vier Linien nur einige Dutzend Hunde zählen. Zu ihren bekanntesten Namen gehören Gentleman Jim selbst, <strong>Cross Guns Johnson</strong> (Vollbruder von Brindle Mick und damit Onkel von Gentleman Jim, Best of Breed bei der ersten Crufts, an der die Rasse teilnahm) und <strong>Fearless Red of Bandits</strong> (1944), ein Sohn von Gentleman Jim, der oft als Inbegriff des echten Stafford beschrieben wird. Die Linie wird mit eindrucksvollen Köpfen, kräftigem Körperbau und schwerer Bemuskelung verbunden.</p>
+  <p>Die M-Linie von Brindle Mick ist heute mit Abstand die verbreitetste: In der <a href="https://thestaffordknot.com/the-original-lines-explained/" target="_blank" rel="noopener" aria-label="Datenbank von The Stafford Knot – The Stafford Knot, die ursprünglichen Linien (wird in einem neuen Tab geöffnet)">Datenbank von The Stafford Knot</a> stammen etwa 32.500 Rüden in männlicher Linie von ihr ab, gegenüber etwa 6.750 bei der R-Linie, während die anderen vier Linien höchstens hundert zählen. Zu ihren bekanntesten Namen gehören Gentleman Jim selbst und <strong>Cross Guns Johnson</strong>, Vollbruder von Brindle Mick und damit Onkel von Gentleman Jim, Best of Breed bei der ersten Crufts, an der die Rasse teilnahm.</p>
 
   <h3>R-Linie, die Überlebende</h3>
-  <p>Die R-Linie wurde von <strong>Ribchester Bob</strong> gegründet, geboren um 1931. Sie ist bekannt für freieres Gangwerk, einen kompakteren, aber athletischen Körperbau, ein ausgeglichenes Wesen mit bemerkenswerter Erziehbarkeit und gute Langlebigkeit. Heute stammt etwa jeder sechste Rüde in männlicher Linie von ihr ab, und sie wird von europäischen Zuchten geschätzt, die ihre Basis verbreitern wollen.</p>
+  <p>Die R-Linie wurde von <strong>Ribchester Bob</strong> gegründet, geboren um 1931. Heute stammt etwa jeder sechste Rüde in männlicher Linie von ihr ab, und sie wird von europäischen Zuchten geschätzt, die ihre Basis verbreitern wollen.</p>
 
-  <h3>Die ausgestorbenen Linien</h3>
-  <p>Drei der sechs ursprünglichen Linien sind verblasst. Die <strong>L-Linie</strong> (Game Lad) war die kleinste der großen Linien und wurde von den beiden Weltkriegen hart getroffen; die <strong>B-Linie</strong> (Rum Bottle), mit der Familie Westall verbunden, verschwand in den 1950er-Jahren; die <strong>C-Linie</strong> (Cinderbank Beauty), die jüngste der sechs, konnte sich nie dauerhaft durchsetzen. Von der J-Linie sind nur noch wenige Hunde übrig.</p>
+  <h3>Die fast ausgestorbenen Linien</h3>
+  <p>Die anderen vier ursprünglichen Linien sind fast verschwunden. Von der <strong>J-Linie</strong> (Fearless Joe) sind in der Datenbank noch etwa hundertzwanzig Rüden übrig; von der <strong>L-Linie</strong> (Game Lad), der <strong>B-Linie</strong> (Rum Bottle, der „Westall-Stamm“) und der <strong>C-Linie</strong> (Cinderbank Beauty, der jüngsten der sechs) jeweils zwanzig oder weniger.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
   <h2>M-Linie und R-Linie im Vergleich</h2>
 
-  <table tabindex="0">
-  <thead>
-  <tr><th>Merkmal</th><th>M-Linie (Brindle Mick)</th><th>R-Linie (Ribchester Bob)</th></tr>
-  </thead>
-  <tbody>
-  <tr><td><strong>Kopf</strong></td><td>Breiter und massiver, ausgeprägter Stop</td><td>Klarer und besser proportioniert, mäßiger Stop</td></tr>
-  <tr><td><strong>Körper</strong></td><td>Kräftiger, breite Brust, schwere Knochen</td><td>Kompakter und ausgewogener, mittlere Knochen</td></tr>
-  <tr><td><strong>Gangwerk</strong></td><td>Kraftvoller Schub, weniger wendig</td><td>Freier und wendiger, raumgreifend</td></tr>
-  <tr><td><strong>Wesen</strong></td><td>Selbstbewusst, dominant, starke Persönlichkeit</td><td>Ausgeglichen, erziehbar, vielseitig</td></tr>
-  <tr><td><strong>Wo sie heute glänzt</strong></td><td>Ausstellungen</td><td>Agility, Obedience, Familienleben</td></tr>
-  <tr><td><strong>Rüden in männlicher Linie (Datenbank The Stafford Knot)</strong></td><td>Etwa 82 %</td><td>Etwa 17 %</td></tr>
-  </tbody>
-  </table>
+  <p>In der Datenbank von The Stafford Knot stammen etwa 82 % der Rüden von Vater zu Vater von der M-Linie ab, etwa 17 % von der R-Linie. Oft liest man, die M-Linie bringe massivere Köpfe und Ausstellungshunde, die R-Linie wendigere, erziehbare Hunde. Solche Beschreibungen sind mit Vorsicht zu genießen: Eine Linie wird nur von Vater zu Vater verfolgt, und nach neunzig Jahren Verpaarungen hat ein Hund der M-Linie auch sehr viele Vorfahren anderer Linien in der Ahnentafel. Den Typ eines Welpen zeigen seine Eltern und Großeltern, nicht der Buchstabe seiner Linie.</p>
 
-  <p>Keine ist besser als die andere. Zu wissen, welche hinter einem Wurf steht, sagt Ihnen einfach, was Sie von dem Welpen vor sich erwarten können.</p>
+  <p>Keine ist besser als die andere. Zu wissen, welche hinter einem Wurf steht, ist eine Angabe der Ahnentafel, keine Vorhersage über den Welpen vor Ihnen.</p>
   <!--/BLOCCO:4-->
 
   <!--BLOCCO:5-->
   <h2>Die englischen Linien</h2>
   <p>Die Rasse entstand in England, und die englische Zucht bleibt der Maßstab für den Typ. Die einflussreichsten Zwinger haben korrekte Proportionen, einen breiten, gut gefüllten Kopf ohne Übertreibung, korrektes Gangwerk und vor allem das im <a href="https://www.fci.be/Nomenclature/Standards/076g03-de.pdf" target="_blank" rel="noopener" aria-label="FCI-Standard Nr. 76, PDF (wird in einem neuen Tab geöffnet)">Standard</a> verankerte zuverlässige Wesen in den Vordergrund gestellt.</p>
-  <p>Linien wie Elitebull waren auf dem europäischen Festland besonders prägend und bilden die Grundlage unseres eigenen Programms. Was wir dort suchen, ist Substanz ohne Grobheit: ein Hund, der auf den ersten Blick unverkennbar ein Staffordshire Bull Terrier ist und trotzdem eine Stunde traben und danach normal atmen kann.</p>
+  <p>Linien wie Elitebull waren auf dem europäischen Festland besonders prägend und bilden die Grundlage unseres eigenen Programms. Was wir dort suchen, ist Substanz ohne Grobheit: ein Hund, der auf den ersten Blick unverkennbar ein Staffordshire Bull Terrier ist und trotzdem lange traben und danach normal atmen kann.</p>
   <!--/BLOCCO:5-->
 
   <!--BLOCCO:6-->
   <h2>Die irischen Linien</h2>
-  <p>Die irische Zucht hat eine eigene Handschrift und einen ausgezeichneten Ruf. Zwinger wie Lackyle sind bekannt für kompakte, athletische, ausgesprochen typvolle Hunde mit kräftigem Knochen und auffallend offenem Wesen. Irische Linien legten historisch großen Wert auf Gesundheit und darauf, den Typ über einen ganzen Wurf hinweg zu halten, statt einen herausragenden Welpen unter acht durchschnittlichen zu erzeugen.</p>
+  <p>Die irische Zucht hat eine eigene Handschrift und einen ausgezeichneten Ruf. Zwinger wie Lackyle sind bekannt für kompakte, athletische, ausgesprochen typvolle Hunde mit kräftigem Knochen und auffallend offenem Wesen. Irische Linien legten historisch großen Wert auf Gesundheit und darauf, den Typ über einen ganzen Wurf hinweg zu halten, statt einen herausragenden Welpen in einem gewöhnlichen Wurf zu erzeugen.</p>
   <p>Englische und irische Linien zu verbinden ist eine bewährte Strategie und die Basis unserer Selektion: das Englische für Ausgewogenheit und Kopfqualität, das Irische für Kompaktheit, Knochen und Konstanz.</p>
   <!--/BLOCCO:6-->
 
@@ -134,9 +122,9 @@ custom_content: |
 
   <!--BLOCCO:9-->
   <h2>Linienzucht, Inzucht und Koeffizienten</h2>
-  <p>Linienzucht, also die bewusste Wiederholung eines geschätzten Vorfahren in der Ahnentafel, ist ein legitimes Werkzeug zur Festigung des Typs. Zu weit getrieben wird sie zur Inzucht, und der Preis wird bei Immunfunktion, Fruchtbarkeit und Vitalität gezahlt, nicht beim Aussehen — weshalb er leicht zu übersehen ist.</p>
-  <p>Der Inzuchtkoeffizient (COI) misst, wie eng die Eltern verwandt sind, und wird immer zusammen mit der Zahl der Generationen gelesen, über die er berechnet ist. Über fünf Generationen als Richtwert: bis 5 % ist ein guter Wert, der auf verschiedene Linien hinweist; zwischen 6 und 10 % ist vertretbar, braucht aber Aufmerksamkeit; zwischen 11 und 15 % ist bedenklich und erhöht das Risiko genetischer Probleme; über 15 % ist hoch.</p>
-  <p>Eine Regel, die wir anwenden: der Inzuchtkoeffizient über 5 Generationen soll niedrig bleiben, und wir wiederholen keine enge Verdopplung nur deshalb, weil ein bestimmter Vorfahre gerade in Mode ist. Typ auf Kosten der Vitalität ist ein schlechtes Geschäft, und es zeigt sich erst Jahre später bei der Familie.</p>
+  <p>Linienzucht, also die bewusste Wiederholung eines geschätzten Vorfahren in der Ahnentafel, ist ein legitimes Werkzeug zur Festigung des Typs. Zu weit getrieben wird sie zur Inzucht, und der Preis wird bei Immunfunktion, Fruchtbarkeit und Vitalität gezahlt, nicht beim Aussehen, weshalb er leicht zu übersehen ist.</p>
+  <p>Der Inzuchtkoeffizient (COI) misst, wie eng die Eltern verwandt sind, und wird immer zusammen mit der Zahl der Generationen gelesen, über die er berechnet ist: derselbe Hund kann über acht Generationen einen COI von 9 Prozent haben und über die ganze Ahnentafel von 21.</p>
+  <p>Die Spanne, in der wir uns bewegen, liegt zwischen 6 und 9 Prozent: darunter verliert man die Möglichkeit, ein Wesen zu festigen, darüber wird es zu eng. Und wir wiederholen keine enge Verdopplung nur deshalb, weil ein bestimmter Vorfahre gerade in Mode ist. Typ auf Kosten der Vitalität ist ein schlechtes Geschäft, und es zeigt sich erst Jahre später bei der Familie.</p>
   <!--/BLOCCO:9-->
 
   <!--BLOCCO:10-->
@@ -154,7 +142,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Wie viele ursprüngliche Blutlinien hatte der Staffordshire Bull Terrier?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Als der britische Kennel Club die Rasse 1935 offiziell anerkannte, ging der Gründer-Genpool auf eine begrenzte Zahl von Stämmen zurück, traditionell beschrieben als <strong>sechs männliche Linien</strong>, jede mit einem Buchstaben bezeichnet. Jeder heute lebende Staffordshire Bull Terrier mit Ahnentafel stammt in unterschiedlichem Maß von diesen Stämmen ab. Nicht allen erging es gleich: manche starben fast aus, andere verbreiteten sich enorm, weil bestimmte Hunde viel produzierten und überall eingesetzt wurden. Auf SBTPedigree sieht man das deutlich, wenn man einen Stammbaum acht oder zehn Generationen zurückverfolgt &mdash; dieselben Namen tauchen über mehrere Zweige wieder auf, und deshalb steigt der Inzuchtkoeffizient, je weiter man zurückzählt.
+  <div class="faq-answer">Als der britische Kennel Club die Rasse 1935 offiziell anerkannte, ging der Gründer-Genpool auf eine begrenzte Zahl von Stämmen zurück, traditionell beschrieben als <strong>sechs männliche Linien</strong>, jede mit einem Buchstaben bezeichnet. Jeder heute lebende Staffordshire Bull Terrier mit Ahnentafel stammt in unterschiedlichem Maß von diesen Stämmen ab. Nicht allen erging es gleich: manche starben fast aus, andere verbreiteten sich enorm, weil bestimmte Hunde viel produzierten und überall eingesetzt wurden. Auf SBTPedigree sieht man das deutlich, wenn man einen Stammbaum acht oder zehn Generationen zurückverfolgt: dieselben Namen tauchen über mehrere Zweige wieder auf, und deshalb steigt der Inzuchtkoeffizient, je weiter man zurückzählt.
   </div>
   </div>
 
@@ -181,7 +169,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Was ist der Unterschied zwischen irischen und englischen Linien?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Weniger, als gewöhnlich behauptet wird. Beschreibungen, die feste Merkmale nach Nationalität zuordnen &mdash; die Engländer so, die Iren anders &mdash;, sind Vereinfachungen: in jeder Tradition gibt es sehr unterschiedliche Zuchten, und die Linien kreuzen sich seit Jahrzehnten. Ehrlich sagen lässt sich, dass bestimmte historische Zuchten dem Typ einen erkennbaren Stempel aufgedrückt haben und dass, wer selektiert, ihn am Hund erkennen lernt, nicht an der Flagge. Die Zucht Del Piccolo Diavolo arbeitet mit <strong>Elitebull</strong>, englisch, und <strong>Lackyle</strong>, irisch &mdash; und das sind keine Gegensätze, denn die historischen Hunde von Lackyle stehen in den Ahnentafeln von Elitebull.
+  <div class="faq-answer">Weniger, als gewöhnlich behauptet wird. Beschreibungen, die feste Merkmale nach Nationalität zuordnen (die Engländer so, die Iren anders), sind Vereinfachungen: in jeder Tradition gibt es sehr unterschiedliche Zuchten, und die Linien kreuzen sich seit Jahrzehnten. Ehrlich sagen lässt sich, dass bestimmte historische Zuchten dem Typ einen erkennbaren Stempel aufgedrückt haben und dass, wer selektiert, ihn am Hund erkennen lernt, nicht an der Flagge. Die Zucht Del Piccolo Diavolo arbeitet mit <strong>Elitebull</strong>, englisch, und <strong>Lackyle</strong>, irisch, und das sind keine Gegensätze, denn die historischen Hunde von Lackyle stehen in den Ahnentafeln von Elitebull.
   </div>
   </div>
 
@@ -210,7 +198,7 @@ custom_content: |
   <li><a href="/de/wie-man-eine-ahnentafel-liest/" title="Ahnentafel lesen: was die ENCI zeigt und was nicht">Ahnentafel lesen: was die ENCI zeigt und was nicht</a></li>
   <li><a href="/de/staffy-pitbull-amstaff-unterschied/" title="Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich">Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich</a></li>
   <li><a href="/de/staffy-rassestandard/" title="FCI Rassestandard Staffordshire Bull Terrier">FCI Rassestandard Staffordshire Bull Terrier</a></li>
-  <li><a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)">Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)</a></li>
+  <li><a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2HGA, HC (HSF4) und DM (SOD1)">Staffy Gentests: L2HGA, HC (HSF4) und DM (SOD1)</a></li>
   <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Seriöse Staffordshire Bull Terrier Zucht erkennen">Seriöse Staffordshire Bull Terrier Zucht erkennen</a></li>
   </ul>
   </div>
