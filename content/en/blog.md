@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier blog - articles & guides"
 date: 2025-12-28
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 tipoPagina: "CollectionPage"
 notte: true
 translationKey: "blog"
@@ -55,7 +55,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">18 Nov 2025</span><span>•</span><span class="cat">Legislation</span></div>
   <h3><a href="/en/staffy-dangerous-breed-law/" title="Read: Is the Staffy dangerous?">Is the Staffordshire Bull Terrier dangerous? The truth and the law</a></h3>
   <p>Scientific data, breed-specific legislation and what you need to know.</p>
-  <a class="read" href="/en/staffy-dangerous-breed-law/" title="Read full article" aria-label="Read the article: Is the Staffordshire Bull Terrier dangerous? The truth and the law">Read<span class="sr-only">: Is the Staffordshire Bull Terrier dangerous? The truth and the law</span> →</a>
   </div>
   </article>
   </div>
@@ -77,7 +76,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">27 Sep 2026</span><span>&bull;</span><span class="cat">Puppies</span></div>
   <h3><a href="/en/puppy-worming-faecal-tests/" title="Read: Worming and faecal tests">Worming: protocol and faecal test results</a></h3>
   <p>The schedule, the litter's lab reports published in full and the treatment under way.</p>
-  <a class="read" href="/en/puppy-worming-faecal-tests/" title="Read full article" aria-label="Read the article: Worming and faecal tests">Read<span class="sr-only">: Worming and faecal tests</span> &rarr;</a>
   </div>
   </article>
 
@@ -87,7 +85,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">12 Sep 2026</span><span>&bull;</span><span class="cat">Puppies</span></div>
   <h3><a href="/en/staffordshire-bull-terrier-puppy-abroad/" title="Read: A puppy going abroad">A puppy going abroad: timing and paperwork</a></h3>
   <p>Why it leaves at around four months, what goes with it and how the ENCI export pedigree works.</p>
-  <a class="read" href="/en/staffordshire-bull-terrier-puppy-abroad/" title="Read full article" aria-label="Read the article: A puppy going abroad">Read<span class="sr-only">: A puppy going abroad</span> &rarr;</a>
   </div>
   </article>
   <article class="blog-card">
@@ -96,7 +93,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">26 Sep 2026</span><span>&bull;</span><span class="cat">Puppies</span></div>
   <h3><a href="/en/socialised-puppies-what-it-means/" title="Read: Socialised puppies, what it really means">&ldquo;Already socialised&rdquo;: what it really means</a></h3>
   <p>The sensitive window, what a puppy meets at the kennel and what it does not.</p>
-  <a class="read" href="/en/socialised-puppies-what-it-means/" title="Read full article" aria-label="Read the article: Socialised puppies, what it really means">Read<span class="sr-only">: Socialised puppies, what it really means</span> &rarr;</a>
   </div>
   </article>
   </div>
@@ -108,7 +104,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">26 Sep 2026</span><span>•</span><span class="cat">Puppies</span></div>
   <h3><a href="/en/parents-on-site-what-it-means/" title="Read: Parents on site, what it really means">“Parents on site”: what it really means</a></h3>
   <p>Why the sire is often not at the kennel, and what to look for in the dam instead.</p>
-  <a aria-label="Read the article: Parents on site, what it really means" class="read" href="/en/parents-on-site-what-it-means/" title="Read full article">Read<span class="sr-only">: Parents on site, what it really means</span> →</a>
   </div>
   </article>
   <article class="blog-card">
@@ -117,7 +112,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">25 Jan 2026</span><span>•</span><span class="cat">Puppies</span></div>
   <h3><a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="Read: How much does a Staffordshire Bull Terrier puppy cost">How much does a Staffordshire Bull Terrier puppy cost</a></h3>
   <p>What the price really includes, and why bargain adverts are a warning sign.</p>
-  <a aria-label="Read the article: How much does a Staffordshire Bull Terrier puppy cost" class="read" href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/">Read<span class="sr-only">: How much does a Staffordshire Bull Terrier puppy cost</span> →</a>
   </div>
   </article>
   <article class="blog-card">
@@ -126,7 +120,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">18 Jan 2026</span><span>•</span><span class="cat">Puppies</span></div>
   <h3><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Read: How to recognise a breeder who does things properly">How to recognise a breeder who does things properly</a></h3>
   <p>Eight criteria and how to check each one, with our own documents as the example.</p>
-  <a aria-label="Read the article: How to recognise a breeder who does things properly" class="read" href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/">Read<span class="sr-only">: How to recognise a breeder who does things properly</span> →</a>
   </div>
   </article>
   <article class="blog-card">
@@ -135,7 +128,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">8 Sep 2026</span><span>•</span><span class="cat">Puppies</span></div>
   <h3><a href="/en/bio-sensor-early-stimulation-puppies/" title="Read: Bio Sensor, what the research says">Bio Sensor: what the research actually says</a></h3>
   <p>The ENS method, the evidence that is missing, and what counts in the first two months.</p>
-  <a aria-label="Read the article: Bio Sensor, what the research actually says" class="read" href="/en/bio-sensor-early-stimulation-puppies/" title="Read the full article">Read<span class="sr-only">: Bio Sensor, what the research actually says</span> →</a>
   </div>
   </article>
   <article class="blog-card">
@@ -144,7 +136,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">18 Mar 2025</span><span>•</span><span class="cat">Puppies</span></div>
   <h3><a href="/en/puppy-home-socialization/" title="Read: Socialising the puppy at home">Socialising the puppy at home: the family checklist</a></h3>
   <p>First positive experiences and daily management.</p>
-  <a aria-label="Read the article: Socialising the puppy at home" class="read" href="/en/puppy-home-socialization/" title="Read full article">Read<span class="sr-only">: Socialising the puppy at home</span> →</a>
   </div>
   </article>
   <article class="blog-card">
@@ -153,7 +144,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">10 Jun 2025</span><span>•</span><span class="cat">Puppies</span></div>
   <h3><a href="/en/puppy-first-vaccinations/" title="Read: First vaccinations">First vaccinations</a></h3>
   <p>Schedule and practical tips to start well.</p>
-  <a aria-label="Read the article: First vaccinations" class="read" href="/en/puppy-first-vaccinations/" title="Read full article">Read<span class="sr-only">: First vaccinations</span> →</a>
   </div>
   </article>
   <article class="blog-card">
@@ -162,7 +152,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">15 Apr 2025</span><span>•</span><span class="cat">Puppies</span></div>
   <h3><a href="/en/puppy-initial-feeding/" title="Read: Initial feeding">Initial feeding</a></h3>
   <p>Meal frequency, transitions and food quality.</p>
-  <a aria-label="Read the article: Initial feeding" class="read" href="/en/puppy-initial-feeding/" title="Read full article">Read<span class="sr-only">: Initial feeding</span> →</a>
   </div>
   </article>
   <article class="blog-card">
@@ -171,7 +160,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">22 May 2025</span><span>•</span><span class="cat">Puppies</span></div>
   <h3><a href="/en/puppy-potty-training/" title="Read: Potty training">Potty training</a></h3>
   <p>Routine, positive reinforcement and signals.</p>
-  <a aria-label="Read the article: Potty training" class="read" href="/en/puppy-potty-training/" title="Read full article">Read<span class="sr-only">: Potty training</span> →</a>
   </div>
   </article>
   <article class="blog-card">
@@ -180,7 +168,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">8 Jul 2025</span><span>•</span><span class="cat">Puppies</span></div>
   <h3><a href="/en/puppy-alone-time/" title="Read: Managing alone time">Managing alone time</a></h3>
   <p>Preventing anxiety and bad habits.</p>
-  <a aria-label="Read the article: Managing alone time" class="read" href="/en/puppy-alone-time/" title="Read full article">Read<span class="sr-only">: Managing alone time</span> →</a>
   </div>
   </article>
   <article class="blog-card">
@@ -189,7 +176,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">3 Aug 2025</span><span>•</span><span class="cat">Puppies</span></div>
   <h3><a href="/en/puppy-mental-games/" title="Read: Mental games for puppies">Mental games for puppies</a></h3>
   <p>Stimulating mind and self-control safely.</p>
-  <a aria-label="Read the article: Mental games for puppies" class="read" href="/en/puppy-mental-games/" title="Read full article">Read<span class="sr-only">: Mental games for puppies</span> →</a>
   </div>
   </article>
   <article class="blog-card">
@@ -198,7 +184,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">17 Sep 2025</span><span>•</span><span class="cat">Puppies</span></div>
   <h3><a href="/en/puppy-first-walk/" title="Read: First walk on leash">First walk on leash</a></h3>
   <p>Equipment, timing and first rules.</p>
-  <a aria-label="Read the article: First walk on leash" class="read" href="/en/puppy-first-walk/" title="Read full article">Read<span class="sr-only">: First walk on leash</span> →</a>
   </div>
   </article>
   </div>
@@ -221,7 +206,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">9 Sep 2026</span><span>&bull;</span><span class="cat">Breed Standard</span></div>
   <h3><a href="/en/how-to-read-a-pedigree/" title="Read: How to read a pedigree">How to read a pedigree</a></h3>
   <p>What the ENCI certificate says, what SBTPedigree adds, and how a pairing is studied.</p>
-  <a class="read" href="/en/how-to-read-a-pedigree/" aria-label="Read the article: How to read a pedigree">Read<span class="sr-only">: How to read a pedigree</span> &rarr;</a>
   </div>
   </article>
   <article class="blog-card">
@@ -230,7 +214,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">18 Jan 2026</span><span>•</span><span class="cat">Breed Standard</span></div>
   <h3><a href="/en/staffy-or-amstaff-which-breed-suits-you/" title="Read: Staffy or Amstaff, the breeder's test">Staffy or Amstaff: the breeder's test</a></h3>
   <p>17 kg against 30, flat or garden: the questions to ask before choosing.</p>
-  <a class="read" href="/en/staffy-or-amstaff-which-breed-suits-you/" aria-label="Read the article: Staffy or Amstaff: the breeder's test">Read<span class="sr-only">: Staffy or Amstaff: the breeder's test</span> →</a>
   </div>
   </article>
   <article class="blog-card">
@@ -239,7 +222,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">18 Jan 2026</span><span>•</span><span class="cat">Breed Standard</span></div>
   <h3><a href="/en/staffordshire-bull-terrier-temperament/" title="Read: The Staffordshire Bull Terrier temperament">The Staffordshire Bull Terrier temperament</a></h3>
   <p>How it was selected, what the standard says, and how to assess a puppy.</p>
-  <a class="read" href="/en/staffordshire-bull-terrier-temperament/" aria-label="Read the article: The Staffordshire Bull Terrier temperament">Read<span class="sr-only">: The Staffordshire Bull Terrier temperament</span> →</a>
   </div>
   </article>
   </div>
@@ -251,7 +233,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">19 Nov 2025</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/en/staffy-pitbull-amstaff-difference/" title="Read: Staffy Pitbull Amstaff difference">Difference between Staffordshire Bull Terrier, Pitbull and Amstaff</a></h3>
   <p>Origins, FCI standard, size, character and recognition.</p>
-  <a aria-label="Read the article: Difference between Staffordshire Bull Terrier, Pitbull and Amstaff" class="read" href="/en/staffy-pitbull-amstaff-difference/" title="Read full article">Read<span class="sr-only">: Difference between Staffordshire Bull Terrier, Pitbull and Amstaff</span> →</a>
   </div>
   </article>
   <article class="blog-card">
@@ -260,7 +241,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">8 Nov 2025</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/en/staffy-bloodlines-guide/" title="Read: Staffy Bloodlines">Staffordshire Bull Terrier bloodlines</a></h3>
   <p>History of the 6 founding lines and modern UK/Ireland kennels.</p>
-  <a aria-label="Read the article: Staffordshire Bull Terrier bloodlines" class="read" href="/en/staffy-bloodlines-guide/" title="Read full article">Read<span class="sr-only">: Staffordshire Bull Terrier bloodlines</span> →</a>
   </div>
   </article>
   <article class="blog-card">
@@ -269,7 +249,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">12 Feb 2025</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/en/staffy-breed-standard/" title="Read: Breed type and morphology">Breed type and morphology</a></h3>
   <p>Key points of the standard and interpretation.</p>
-  <a aria-label="Read the article: Breed type and morphology" class="read" href="/en/staffy-breed-standard/" title="Read full article">Read<span class="sr-only">: Breed type and morphology</span> →</a>
   </div>
   </article>
   <article class="blog-card">
@@ -278,7 +257,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">5 Mar 2025</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/en/choosing-bloodlines/" title="Read: How to navigate bloodlines">Bloodlines: how to navigate</a></h3>
   <p>Informed choice between genealogies and goals.</p>
-  <a aria-label="Read the article: Bloodlines: how to navigate" class="read" href="/en/choosing-bloodlines/" title="Read full article">Read<span class="sr-only">: Bloodlines: how to navigate</span> →</a>
   </div>
   </article>
   <article class="blog-card">
@@ -287,7 +265,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">Aug 2026</span><span>•</span><span class="cat">Standard</span></div>
   <h3><a href="/en/staffordshire-bull-terrier-colours/" title="Read: Staffordshire Bull Terrier colours">Staffordshire Bull Terrier colours</a></h3>
   <p>Colours allowed by the standard: black, brindle, fawn, blue and pied.</p>
-  <a aria-label="Read the article: Staffordshire Bull Terrier colours" class="read" href="/en/staffordshire-bull-terrier-colours/" title="Read full article">Read<span class="sr-only">: Staffordshire Bull Terrier colours</span> →</a>
   </div>
   </article>
   </div>
@@ -310,7 +287,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">11 Oct 2026</span><span>•</span><span class="cat">Health</span></div>
   <h3><a href="/en/how-long-staffordshire-bull-terrier-lives/" title="Read: How long does a Staffordshire Bull Terrier live">How long does a Staffordshire Bull Terrier live?</a></h3>
   <p>12-14 years on average, our own dogs aged 9, 10 and 12, and why weight matters most.</p>
-  <a class="read" href="/en/how-long-staffordshire-bull-terrier-lives/" title="Read full article" aria-label="Read the article: How long does a Staffordshire Bull Terrier live?">Read<span class="sr-only">: How long does a Staffordshire Bull Terrier live?</span> →</a>
   </div>
   </article>
 
@@ -320,7 +296,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">28 Dec 2025</span><span>•</span><span class="cat">Health</span></div>
   <h3><a href="/en/boas-staffordshire-bull-terrier-breathing/" title="Read: BOAS and Breathing">BOAS: why breathing matters</a></h3>
   <p>Brachycephalic syndrome: what it is, symptoms, prevention and responsible breeding.</p>
-  <a class="read" href="/en/boas-staffordshire-bull-terrier-breathing/" title="Read full article" aria-label="Read the article: BOAS: why breathing matters">Read<span class="sr-only">: BOAS: why breathing matters</span> →</a>
   </div>
   </article>
 
@@ -330,7 +305,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">20 Nov 2025</span><span>•</span><span class="cat">Health</span></div>
   <h3><a href="/en/staffy-genetic-testing-l2hga-hc/" title="Read: L2-HGA and HC genetic testing">L2-HGA and HC genetic testing: what they are and how to read them</a></h3>
   <p>What they are, how to read them, where to do them and why they matter.</p>
-  <a class="read" href="/en/staffy-genetic-testing-l2hga-hc/" title="Read full article" aria-label="Read the article: L2-HGA and HC genetic testing: what they are and how to read them">Read<span class="sr-only">: L2-HGA and HC genetic testing: what they are and how to read them</span> →</a>
   </div>
   </article>
   </div>
@@ -342,7 +316,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">20 Jan 2025</span><span>•</span><span class="cat">Health</span></div>
   <h3><a href="/en/staffy-parasite-prevention/" title="Read: Parasite prevention and control">Parasites: prevention and control</a></h3>
   <p>Fleas, ticks and seasonal protocols.</p>
-  <a aria-label="Read the article: Parasites: prevention and control" class="read" href="/en/staffy-parasite-prevention/" title="Read full article">Read<span class="sr-only">: Parasites: prevention and control</span> →</a>
   </div>
   </article>
   <article class="blog-card">
@@ -351,7 +324,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">14 Apr 2025</span><span>•</span><span class="cat">Health</span></div>
   <h3><a href="/en/staffy-dental-health/" title="Read: Oral hygiene and teeth">Oral hygiene and teeth</a></h3>
   <p>Cleaning, chewing and tartar prevention.</p>
-  <a aria-label="Read the article: Oral hygiene and teeth" class="read" href="/en/staffy-dental-health/" title="Read full article">Read<span class="sr-only">: Oral hygiene and teeth</span> →</a>
   </div>
   </article>
   <article class="blog-card">
@@ -360,7 +332,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">28 Jun 2025</span><span>•</span><span class="cat">Health</span></div>
   <h3><a href="/en/staffy-safe-exercise/" title="Read: Safe exercise">Safe exercise</a></h3>
   <p>Appropriate loads for age and season.</p>
-  <a aria-label="Read the article: Safe exercise" class="read" href="/en/staffy-safe-exercise/" title="Read full article">Read<span class="sr-only">: Safe exercise</span> →</a>
   </div>
   </article>
   </div>
@@ -383,7 +354,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">27 Sep 2026</span><span>&bull;</span><span class="cat">Family</span></div>
   <h3><a href="/en/staffordshire-family-life-stories/" title="Read: Staffordshire Bull Terriers in family life: where our dogs are today">Staffordshire Bull Terriers in family life: where our dogs are today</a></h3>
   <p>Ten dogs born here, years after they went home: with families, at work, in the show ring.</p>
-  <a class="read" href="/en/staffordshire-family-life-stories/" title="Read full article" aria-label="Read the article: Staffordshire Bull Terriers in family life: where our dogs are today">Read<span class="sr-only">: Staffordshire Bull Terriers in family life: where our dogs are today</span> &rarr;</a>
   </div>
   </article>
 
@@ -393,7 +363,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">7 Feb 2025</span><span>•</span><span class="cat">Family</span></div>
   <h3><a href="/en/staffy-children-family/" title="Read: Living with children">Living with children</a></h3>
   <p>Clear rules and safe interactions.</p>
-  <a class="read" href="/en/staffy-children-family/" title="Read full article" aria-label="Read the article: Living with children">Read<span class="sr-only">: Living with children</span> →</a>
   </div>
   </article>
 
@@ -403,7 +372,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">19 May 2025</span><span>•</span><span class="cat">Family</span></div>
   <h3><a href="/en/staffy-elderly-owners/" title="Read: With elderly people">With elderly people: respecting rhythms</a></h3>
   <p>Quiet routines and useful support.</p>
-  <a class="read" href="/en/staffy-elderly-owners/" title="Read full article" aria-label="Read the article: With elderly people: respecting rhythms">Read<span class="sr-only">: With elderly people: respecting rhythms</span> →</a>
   </div>
   </article>
   </div>
@@ -415,7 +383,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">11 Aug 2025</span><span>•</span><span class="cat">Family</span></div>
   <h3><a href="/en/staffy-other-pets/" title="Read: Living with other animals">Living with other animals</a></h3>
   <p>Gradual introductions and space management.</p>
-  <a aria-label="Read the article: Living with other animals" class="read" href="/en/staffy-other-pets/" title="Read full article">Read<span class="sr-only">: Living with other animals</span> →</a>
   </div>
   </article>
   <article class="blog-card">
@@ -424,7 +391,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">2 Nov 2025</span><span>•</span><span class="cat">Family</span></div>
   <h3><a href="/en/staffy-travel-transport/" title="Read: Travel and transport">Travel and transport</a></h3>
   <p>Car, train and peaceful overnight stays.</p>
-  <a aria-label="Read the article: Travel and transport" class="read" href="/en/staffy-travel-transport/" title="Read full article">Read<span class="sr-only">: Travel and transport</span> →</a>
   </div>
   </article>
   <article class="blog-card">
@@ -433,7 +399,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">28 Apr 2026</span><span>•</span><span class="cat">Family</span></div>
   <h3><a href="/en/staffordshire-bull-terrier-character-family-life/" title="Read: Character and family life">Staffordshire Bull Terrier: character, family life and what to expect</a></h3>
   <p>With the breed since 2005. Pros, cons and what to really expect from a Staffy.</p>
-  <a aria-label="Read the article: Staffordshire Bull Terrier: character, family life and what to expect" class="read" href="/en/staffordshire-bull-terrier-character-family-life/" title="Read full article">Read<span class="sr-only">: Staffordshire Bull Terrier: character, family life and what to expect</span> →</a>
   </div>
   </article>
   <article class="blog-card">
@@ -442,7 +407,6 @@ custom_content: |
   <div class="blog-card-meta"><span class="date">Aug 2026</span><span>•</span><span class="cat">Family</span></div>
   <h3><a href="/en/is-the-staffordshire-bull-terrier-right-for-you/" title="Read: Is the Staffy right for you?">Is the Staffordshire Bull Terrier right for you?</a></h3>
   <p>Honest pros and cons of the breed and who it really suits.</p>
-  <a aria-label="Read the article: Is the Staffordshire Bull Terrier right for you?" class="read" href="/en/is-the-staffordshire-bull-terrier-right-for-you/" title="Read full article">Read<span class="sr-only">: Is the Staffordshire Bull Terrier right for you?</span> →</a>
   </div>
   </article>
   </div>

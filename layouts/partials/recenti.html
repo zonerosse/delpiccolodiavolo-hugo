@@ -36,7 +36,6 @@
   <div class="blog-card-meta"><span class="date">{{ .Date | time.Format ":date_long" }}</span></div>
   <h3><a href="{{ .RelPermalink }}" title="{{ $leggi }}: {{ .Title }}">{{ .Title }}</a></h3>
   {{ with .Description }}<p>{{ . }}</p>{{ end }}
-  <a class="read" href="{{ .RelPermalink }}" aria-label="{{ $leggi }}: {{ .Title }}">{{ $leggi }}<span class="sr-only">: {{ .Title }}</span> &rarr;</a>
   </div>
   </article>
 {{ end }}
