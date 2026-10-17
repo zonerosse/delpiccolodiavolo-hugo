@@ -11,7 +11,7 @@ slug: "breeding-diary"
 fonti_motivo: "The diary records facts from the Del Piccolo Diavolo kennel, which is why it cites no external sources: the independent check is the ENCI stud book, where the number of litters of each bitch can be verified from her microchip."
 ---
 
-The Del Piccolo Diavolo diary lists every litter born in Ostellato, with the date of birth, the names of the two parents, their genetic tests and the number of puppies. No litter disappears from the site once the puppies have gone home, and that is deliberate: it is how anyone can count how many are really born in a year, and check the figure against the ENCI stud book starting from the mother's microchip. The average is one litter a year, occasionally two, in some years none. Every entry gives the genetic tests of both parents and the link to their page on SBTPedigree, from which you can trace grandparents and great-grandparents.
+The Del Piccolo Diavolo diary lists every litter born in Ostellato, with the date of birth, the names of the two parents and their genetic tests. No litter disappears from the site once the puppies have gone home, and that is deliberate: it is how anyone can count how many are really born in a year, and check the figure against the ENCI stud book starting from the mother's microchip. The average is one litter a year, occasionally two, in some years none. Every entry gives the genetic tests of both parents and the link to their page on SBTPedigree, from which you can trace grandparents and great-grandparents.
 
 This is where we record what actually happens at the kennel, litter by litter: who the parents are and why we chose them, which tests they have, how the puppies grow through their first weeks.
 
