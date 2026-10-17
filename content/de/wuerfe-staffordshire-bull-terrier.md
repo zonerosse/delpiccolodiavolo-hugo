@@ -61,7 +61,6 @@ custom_content: |
   <!--CUCCIOLATA-->
   <!--/BLOCCO:2-->
 
-
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Verpaarungen</span>
@@ -236,72 +235,42 @@ custom_content: |
   </section>
 
   <section class="section">
-  <div class="section-inner">
-  <span class="section-label">Unser Programm</span>
-  <h2 class="section-title">Zuchtprogramm</h2>
-
-  <div class="intro-block">
-  <p>Wir arbeiten mit englischen (Elitebull) und irischen (Lackyle) Linien, nachprüfbar auf SBTPedigree, mit Zuchttieren, die sich auf Ausstellungen bewährt haben und ihre Gentests haben. Vor der Schönheit kommt der Charakter: Ein unsicherer Hund, oder einer, der sich in der Familie nicht wohlfühlt, kommt nicht ins Programm, so schön er auch ist. Jeder hier geborene Wurf, mit Eltern, Tests, Untersuchungen und Fotos des Heranwachsens, steht im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Zuchttagebuch</a>.</p>
-  <p>Die Welpen wachsen in Haus und Hof auf, unter Menschen und Alltagsgeräuschen. Was sie vor der Abgabe lernen können und was nicht, erklären wir in <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das heißt">was &bdquo;sozialisierte Welpen&ldquo; heißt</a>. Jeder Welpe geht nach den tierärztlichen Kontrollen, mit Impfungen, Mikrochip und Registrierung.</p>
-  <p>Wir helfen Ihnen, den passenden Welpen zu wählen, und sind auch nach der Abgabe für Sie da.</p>
-  </div>
-  </div>
+  <div class="section-inner"><span class="section-label">Unser Programm</span><div class="n-percorso"><div class="n-passo"><h2 class="section-title">Zuchtprogramm</h2><div><p>Wir arbeiten mit englischen (Elitebull) und irischen (Lackyle) Linien, nachprüfbar auf SBTPedigree, mit Zuchttieren, die sich auf Ausstellungen bewährt haben und ihre Gentests haben. Vor der Schönheit kommt der Charakter: Ein unsicherer Hund, oder einer, der sich in der Familie nicht wohlfühlt, kommt nicht ins Programm, so schön er auch ist. Jeder hier geborene Wurf, mit Eltern, Tests, Untersuchungen und Fotos des Heranwachsens, steht im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Zuchttagebuch</a>.</p><p>Die Welpen wachsen in Haus und Hof auf, unter Menschen und Alltagsgeräuschen. Was sie vor der Abgabe lernen können und was nicht, erklären wir in <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das heißt">was „sozialisierte Welpen“ heißt</a>. Jeder Welpe geht nach den tierärztlichen Kontrollen, mit Impfungen, Mikrochip und Registrierung.</p><p>Wir helfen Ihnen, den passenden Welpen zu wählen, und sind auch nach der Abgabe für Sie da.</p></div></div></div></div>
   </section>
 
   <section class="section section-alt">
-  <div class="section-inner">
-  <span class="section-label">Methode</span>
-  <h2 class="section-title">Wie eine Verpaarung geplant wird</h2>
-  <p>Eine Verpaarung bei Del Piccolo Diavolo wird Monate im Voraus geplant und folgt immer demselben Weg. Am Anfang stehen die Gentests beider Zuchthunde auf L2-HGA und HC, bei der Hündin zusätzlich DM-SOD1; dann werden die Ahnentafeln auf SBTPedigree mit der Testverpaarung untersucht, die den theoretischen Inzuchtkoeffizienten der Welpen zeigt und auf welche Vorfahren er sich konzentriert. Wir arbeiten in einem Bereich von 6 bis 9 Prozent: darunter verliert man die Möglichkeit, einen Charakter zu festigen, darüber verengt man zu stark. Der Rüde kommt fast immer von außen, gewählt, um zu korrigieren, was der Hündin fehlt, nicht um zwei schöne Hunde zu addieren. Das Ergebnis ist ein Wurf im Jahr, gelegentlich zwei, und in manchen Jahren keiner.</p>
-  <details class="continua"><summary>Weiterlesen</summary>
-  <p><strong>Was wir vor jeder Verpaarung testen.</strong> Kein Zuchthund kommt ohne die Tests auf L2-HGA und HC ins Programm, die beiden Erbkrankheiten der Rasse. Unsere Hunde sind außerdem frei von degenerativer Myelopathie (DM-SOD1). Die Befunde sind auf den Seiten der Hunde veröffentlicht, mit sichtbarer Mikrochipnummer, und wie diese Tests funktionieren, erklärt der <a href="/de/staffy-gentests-l2hga-hc/" title="Gentests L2-HGA und HC">Ratgeber zu den Gentests</a>.</p>
-  <p><strong>Wie man zu einem Welpen kommt.</strong> Das Programm ist offen: zu jeder Verpaarung sagen wir, wer die Eltern sind, welche Tests sie haben und warum wir sie gewählt haben. Wer mehr wissen will, kann nach den Ergebnissen früherer Verpaarungen fragen und die Hunde persönlich sehen. Was ein Welpe mitbekommt, steht auf der <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Seite der Staffordshire Bull Terrier Welpen</a>; wer außerhalb Italiens lebt, findet Fristen und Papiere unter <a href="/de/staffordshire-bull-terrier-welpe-ins-ausland/" title="Ein Welpe ins Ausland">ein Welpe ins Ausland</a>.</p>
-  </details>
-  <a class="rimando" href="/de/wie-man-eine-ahnentafel-liest/">
-  <img src="/images/blog/pedigree-queen-hero.webp" alt="Queen of California auf einer Ausstellung" width="88" height="59" loading="lazy" decoding="async">
-  <span>
-  <span class="ti">Wie wir eine Verpaarung prüfen, bevor wir sie machen</span>
-  <span class="de">Die Testverpaarung, der Koeffizient und auf welche Vorfahren sich die Inzucht bezieht: mit Queens Zahlen.</span>
-  </span>
-  </a>
-  </div>
+  <div class="section-inner"><span class="section-label">Methode</span><div class="n-percorso"><div class="n-passo"><h2 class="section-title">Wie eine Verpaarung geplant wird</h2><div><p>Eine Verpaarung bei Del Piccolo Diavolo wird Monate im Voraus geplant und folgt immer demselben Weg. Am Anfang stehen die Gentests beider Zuchthunde auf L2-HGA und HC, bei der Hündin zusätzlich DM-SOD1; dann werden die Ahnentafeln auf SBTPedigree mit der Testverpaarung untersucht, die den theoretischen Inzuchtkoeffizienten der Welpen zeigt und auf welche Vorfahren er sich konzentriert. Wir arbeiten in einem Bereich von 6 bis 9 Prozent: darunter verliert man die Möglichkeit, einen Charakter zu festigen, darüber verengt man zu stark. Der Rüde kommt fast immer von außen, gewählt, um zu korrigieren, was der Hündin fehlt, nicht um zwei schöne Hunde zu addieren. Das Ergebnis ist ein Wurf im Jahr, gelegentlich zwei, und in manchen Jahren keiner.</p><p><strong>Was wir vor jeder Verpaarung testen.</strong> Kein Zuchthund kommt ohne die Tests auf L2-HGA und HC ins Programm, die beiden Erbkrankheiten der Rasse. Unsere Hunde sind außerdem frei von degenerativer Myelopathie (DM-SOD1). Die Befunde sind auf den Seiten der Hunde veröffentlicht, mit sichtbarer Mikrochipnummer, und wie diese Tests funktionieren, erklärt der <a href="/de/staffy-gentests-l2hga-hc/" title="Gentests L2-HGA und HC">Ratgeber zu den Gentests</a>.</p><p><strong>Wie man zu einem Welpen kommt.</strong> Das Programm ist offen: zu jeder Verpaarung sagen wir, wer die Eltern sind, welche Tests sie haben und warum wir sie gewählt haben. Wer mehr wissen will, kann nach den Ergebnissen früherer Verpaarungen fragen und die Hunde persönlich sehen. Was ein Welpe mitbekommt, steht auf der <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Seite der Staffordshire Bull Terrier Welpen</a>; wer außerhalb Italiens lebt, findet Fristen und Papiere unter <a href="/de/staffordshire-bull-terrier-welpe-ins-ausland/" title="Ein Welpe ins Ausland">ein Welpe ins Ausland</a>.</p></div></div></div><p class="n-vedi"><a href="/de/wie-man-eine-ahnentafel-liest/">Wie wir eine Verpaarung prüfen, bevor wir sie machen</a>. Die Testverpaarung, der Koeffizient und auf welche Vorfahren sich die Inzucht bezieht: mit Queens Zahlen.</p></div>
   </section>
 
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Häufige Fragen</span>
   <h2 class="section-title">FAQ zu Würfen</h2>
-
-  <div class="faq-item">
+  <div class="faq-item n-faq">
   <h3>Wie lerne ich Ihre Hunde kennen?</h3>
   <p>Schreiben Sie uns per WhatsApp oder rufen Sie an. Zuerst wird gesprochen — über die Rasse, über Ihren Haushalt, über die Hunde hinter einem Wurf. Familien, die einen Wurf begleiten, halten wir mit Fotos und Videos auf dem Laufenden.</p>
   </div>
-
-  <div class="faq-item">
+  <div class="faq-item n-faq">
   <h3>Wann kann ich die Welpen besuchen?</h3>
   <p>Besuche sind nach Terminvereinbarung ab der dritten Lebenswoche der Welpen möglich. Sie können die Eltern kennenlernen und die Umgebung sehen, in der sie aufwachsen. Wir empfehlen, den Besuch im Voraus zu buchen.</p>
   </div>
-
-  <div class="faq-item">
+  <div class="faq-item n-faq">
   <h3>Welche Garantien bieten Sie für die Welpen?</h3>
   <p>Jeder Welpe wird mit zertifiziertem ENCI-Stammbaum, Mikrochip, Gesundheitsheft, ersten Impfungen und Entwurmungen übergeben. Die Eltern sind auf L2-HGA und HC getestet. Die Zucht Del Piccolo Diavolo bleibt das ganze Hundeleben lang erreichbar.</p>
   </div>
-
-  <div class="faq-item">
+  <div class="faq-item n-faq">
   <h3>Was steckt hinter einem Ihrer Würfe?</h3>
   <p>Eine Monate im Voraus geplante Verpaarung, auf L2-HGA und HC getestete Zuchttiere, ein ENCI-Stammbaum und Welpen, die im Haus aufwachsen. Schreiben Sie uns, wir erzählen Ihnen von den Hunden und den kommenden Würfen.</p>
   </div>
-
   <div style="text-align:center;margin-top:1.5rem">
-  <a href="/de/faq-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="Alle FAQ ansehen">Alle häufigen Fragen ansehen</a>
+  <a class="btn btn-primary" href="/de/faq-staffordshire-bull-terrier/" style="min-height:44px;padding:1rem 1.8rem" title="Alle FAQ ansehen">Alle häufigen Fragen ansehen</a>
   </div>
   </div>
   </section>
 
   <section class="dark-section">
-  <h2>Jeder Wurf bleibt auf dieser Seite</h2>
-  <p>Die Würfe stehen weiter oben, der jüngste zuerst. Keiner verschwindet, sobald die Welpen in ihren Familien sind, und das ist gewollt: So kann jeder nachzählen, wie viele Würfe wir in einem Jahr haben, und die Daten im ENCI-Zuchtbuch prüfen. Seit 2013 züchten wir Staffordshire Bull Terrier so: ein Wurf im Jahr, gelegentlich zwei, manchmal keiner.</p>
-  </section>
+
+  <div class="n-righe-scure"><div class="n-percorso"><div class="n-passo"><h2>Jeder Wurf bleibt auf dieser Seite</h2><div><p>Die Würfe stehen weiter oben, der jüngste zuerst. Keiner verschwindet, sobald die Welpen in ihren Familien sind, und das ist gewollt: So kann jeder nachzählen, wie viele Würfe wir in einem Jahr haben, und die Daten im ENCI-Zuchtbuch prüfen. Seit 2013 züchten wir Staffordshire Bull Terrier so: ein Wurf im Jahr, gelegentlich zwei, manchmal keiner.</p></div></div></div></div></section>
 
   <!--BLOCCO:3-->
   <!--CORRELATI-->

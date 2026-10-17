@@ -64,7 +64,6 @@ custom_content: |
   <!--CUCCIOLATA-->
   <!--/BLOCCO:2-->
 
-
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Accoppiamenti</span>
@@ -253,48 +252,11 @@ custom_content: |
   </section>
 
   <section class="section">
-  <div class="section-inner">
-  <span class="section-label">Il nostro programma</span>
-  <h2 class="section-title">Come selezioniamo i riproduttori</h2>
-
-  <div class="intro-block">
-  <p>Un accoppiamento a Del Piccolo Diavolo si programma con mesi di anticipo e segue sempre lo stesso percorso. Si parte dai test genetici dei due riproduttori per L2-HGA e HC, e per la fattrice anche per DM-SOD1, poi si studiano i pedigree su SBTPedigree con la funzione di prova di accoppiamento, che mostra il coefficiente di consanguineità teorico dei cuccioli e su quali antenati si concentra. La forbice entro cui ci muoviamo va dal 6 al 9 per cento: sotto si perde la possibilità di fissare un carattere, sopra si stringe troppo. Il maschio arriva quasi sempre da fuori, scelto per correggere quello che manca alla femmina e non per sommare due cani belli. Il risultato è una cucciolata l'anno, occasionalmente due, in alcuni anni nessuna: se il momento giusto non arriva, quell'anno non nasce niente.</p>
-
-  <details class="continua"><summary>Continua a leggere</summary>
-  <p>Lavoriamo su linee inglesi (Elitebull) e irlandesi (Lackyle), verificabili su SBTPedigree, con riproduttori che hanno dato prova di s&eacute; in esposizione e hanno i test genetici.</p>
-  <p>Prima della bellezza guardiamo il carattere. Un cane insicuro o che non sta bene in famiglia non entra nel programma, per bello che sia.</p>
-  <p>Per sapere cosa include ogni affido e quanto costa un cucciolo, leggi la nostra guida su <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p>
-  </details>
-  </div>
-
-
-
-  <a class="rimando" href="/come-si-legge-un-pedigree/">
-  <img src="/images/blog/pedigree-queen-hero.webp" alt="Queen of California in esposizione" width="88" height="59" loading="lazy" decoding="async">
-  <span>
-  <span class="ti">Come studio un accoppiamento prima di farlo</span>
-  <span class="de">Il test mating, il coefficiente e su quali antenati si va in consanguineit&agrave;: con i numeri di Queen.</span>
-  </span>
-  </a>
-  </div>
+  <div class="section-inner"><span class="section-label">Il nostro programma</span><div class="n-percorso"><div class="n-passo"><h2 class="section-title">Come selezioniamo i riproduttori</h2><div><p>Un accoppiamento a Del Piccolo Diavolo si programma con mesi di anticipo e segue sempre lo stesso percorso. Si parte dai test genetici dei due riproduttori per L2-HGA e HC, e per la fattrice anche per DM-SOD1, poi si studiano i pedigree su SBTPedigree con la funzione di prova di accoppiamento, che mostra il coefficiente di consanguineità teorico dei cuccioli e su quali antenati si concentra. La forbice entro cui ci muoviamo va dal 6 al 9 per cento: sotto si perde la possibilità di fissare un carattere, sopra si stringe troppo. Il maschio arriva quasi sempre da fuori, scelto per correggere quello che manca alla femmina e non per sommare due cani belli. Il risultato è una cucciolata l'anno, occasionalmente due, in alcuni anni nessuna: se il momento giusto non arriva, quell'anno non nasce niente.</p><p>Lavoriamo su linee inglesi (Elitebull) e irlandesi (Lackyle), verificabili su SBTPedigree, con riproduttori che hanno dato prova di sé in esposizione e hanno i test genetici.</p><p>Prima della bellezza guardiamo il carattere. Un cane insicuro o che non sta bene in famiglia non entra nel programma, per bello che sia.</p><p>Per sapere cosa include ogni affido e quanto costa un cucciolo, leggi la nostra guida su <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p></div></div></div><p class="n-vedi"><a href="/come-si-legge-un-pedigree/">Come studio un accoppiamento prima di farlo</a>. Il test mating, il coefficiente e su quali antenati si va in consanguineità: con i numeri di Queen.</p></div>
   </section>
 
   <section class="section">
-  <div class="section-inner">
-  <span class="section-label">Salute</span>
-  <h2>Cosa testiamo prima di ogni accoppiamento</h2>
-
-  <p>Nessun riproduttore entra nel programma senza i test per <strong>L2-HGA</strong> e <strong>HC</strong>, le due malattie genetiche della razza. I nostri cani sono esenti anche dalla <strong>mielopatia degenerativa (DM-SOD1)</strong>. I referti sono pubblicati sulle pagine dei cani, con il numero di microchip in chiaro.</p>
-
-  <p>Come funzionano quei test, cosa significano gli esiti e perch&eacute; due portatori sani non vanno mai accoppiati fra loro: lo spieghiamo nella <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">pagina dedicata ai test genetici</a>.</p>
-
-  <h2 class="section-title">Cucciolate programmate e passate</h2>
-
-  <div class="intro-block">
-  <p>Le cucciolate sono pi&ugrave; in alto, dalla pi&ugrave; recente. Nessuna sparisce quando i cuccioli sono a casa loro, ed &egrave; voluto: cos&igrave; chiunque pu&ograve; contare quante ne facciamo in un anno, e controllare le date sul libro genealogico ENCI.</p>
-  <p>Dal 2013 alleviamo Staffordshire Bull Terrier cos&igrave;: una cucciolata l'anno, occasionalmente due, a volte nessuna. Ogni cane lo seguiamo dalla nascita all'arrivo nella nuova famiglia, e anche dopo.</p>
-  </div>
-  </div>
+  <div class="section-inner"><span class="section-label">Salute</span><div class="n-percorso"><div class="n-passo"><h2>Cosa testiamo prima di ogni accoppiamento</h2><div><p>Nessun riproduttore entra nel programma senza i test per <strong>L2-HGA</strong> e <strong>HC</strong>, le due malattie genetiche della razza. I nostri cani sono esenti anche dalla <strong>mielopatia degenerativa (DM-SOD1)</strong>. I referti sono pubblicati sulle pagine dei cani, con il numero di microchip in chiaro.</p><p>Come funzionano quei test, cosa significano gli esiti e perché due portatori sani non vanno mai accoppiati fra loro: lo spieghiamo nella <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">pagina dedicata ai test genetici</a>.</p></div></div><div class="n-passo"><h2 class="section-title">Cucciolate programmate e passate</h2><div><p>Le cucciolate sono più in alto, dalla più recente. Nessuna sparisce quando i cuccioli sono a casa loro, ed è voluto: così chiunque può contare quante ne facciamo in un anno, e controllare le date sul libro genealogico ENCI.</p><p>Dal 2013 alleviamo Staffordshire Bull Terrier così: una cucciolata l'anno, occasionalmente due, a volte nessuna. Ogni cane lo seguiamo dalla nascita all'arrivo nella nuova famiglia, e anche dopo.</p></div></div></div></div>
   </section>
 
   <!--BLOCCO:3-->
@@ -302,14 +264,6 @@ custom_content: |
   <!--/BLOCCO:3-->
 
   <section class="dark-section">
-  <h2>Come si arriva a un cucciolo</h2>
 
-  <p>Il programma &egrave; aperto: di ogni accoppiamento diciamo chi sono i genitori, che test hanno e perch&eacute; li abbiamo scelti. Chi vuole approfondire pu&ograve; chiedere i risultati degli accoppiamenti precedenti e vedere i cani di persona.</p>
-
-  <p>Cosa accompagna il cucciolo e come funziona l'affido sta nella <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">pagina dei cuccioli di Staffordshire Bull Terrier</a>; se abiti fuori dall'Italia, i tempi e i documenti sono <a href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Cucciolo all'estero">in questa pagina</a>.</p>
-
-  <h2>Vuoi saperne di pi&ugrave;?</h2>
-  <p>Scrivici su WhatsApp: ti raccontiamo le prossime cucciolate e, se vuoi, fissiamo una visita a Ostellato.</p>
-  <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sul%20programma%20di%20allevamento" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Informazioni sul programma" aria-label="Scrivici su WhatsApp – Contattaci per informazioni sul programma di allevamento">Scrivici su WhatsApp</a>
-  </section>
+  <div class="n-righe-scure"><div class="n-percorso"><div class="n-passo"><h2>Come si arriva a un cucciolo</h2><div><p>Il programma è aperto: di ogni accoppiamento diciamo chi sono i genitori, che test hanno e perché li abbiamo scelti. Chi vuole approfondire può chiedere i risultati degli accoppiamenti precedenti e vedere i cani di persona.</p><p>Cosa accompagna il cucciolo e come funziona l'affido sta nella <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">pagina dei cuccioli di Staffordshire Bull Terrier</a>; se abiti fuori dall'Italia, i tempi e i documenti sono <a href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Cucciolo all'estero">in questa pagina</a>.</p></div></div></div></div><h2>Vuoi saperne di più?</h2><p>Scrivici su WhatsApp: ti raccontiamo le prossime cucciolate e, se vuoi, fissiamo una visita a Ostellato.</p><a aria-label="Scrivici su WhatsApp – Contattaci per informazioni sul programma di allevamento" class="btn" href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sul%20programma%20di%20allevamento" style="min-height:44px;padding:1rem 1.8rem" title="Informazioni sul programma">Scrivici su WhatsApp</a></section>
 ---

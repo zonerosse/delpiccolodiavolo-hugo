@@ -304,3 +304,10 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .notte-pagina .page-hero:has(> p:nth-of-type(2)) p:nth-of-type(2){grid-column:1;grid-row:2;margin:0;padding-top:1.4rem;border-top:1px solid var(--n-ln);font-family:Georgia,serif;font-size:1.25rem!important;line-height:1.35;color:var(--n-cr)!important}
 .notte-pagina .page-hero:has(> p:nth-of-type(2)) p:nth-of-type(1){padding-top:1.4rem;border-top:1px solid var(--n-ln)}
 @media(max-width:860px){.notte-pagina .page-hero:has(> p:nth-of-type(2)){grid-template-columns:1fr}.notte-pagina .page-hero:has(> p:nth-of-type(2)) p:nth-of-type(1){grid-column:1;grid-row:3;border:0;padding-top:.6rem}.notte-pagina .page-hero:has(> p:nth-of-type(2)) p:nth-of-type(2){grid-row:2}}
+/* Programma: titoli h2 nelle righe, righe nella fascia scura (17/10/2026) */
+.notte-pagina .n-passo>h2{font-family:Georgia,serif;font-size:1.25rem!important;line-height:1.35;margin:0!important;text-align:left}
+.notte-pagina .n-passo>div>p:last-child{margin-bottom:0}
+.notte-pagina .dark-section .n-righe-scure{max-width:1080px;margin:0 auto 2.5rem;text-align:left}
+.notte-pagina .dark-section .n-righe-scure p{font-style:normal;max-width:none;text-align:left}
+.notte-pagina .dark-section .n-righe-scure .n-percorso{margin-top:0}
+.notte-pagina .dark-section .n-righe-scure p+p{margin-top:1rem}

@@ -61,7 +61,6 @@ custom_content: |
   <!--CUCCIOLATA-->
   <!--/BLOCCO:2-->
 
-
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Pairings</span>
@@ -236,72 +235,42 @@ custom_content: |
   </section>
 
   <section class="section">
-  <div class="section-inner">
-  <span class="section-label">Our programme</span>
-  <h2 class="section-title">Litter programme</h2>
-
-  <div class="intro-block">
-  <p>We work with English (Elitebull) and Irish (Lackyle) lines, verifiable on SBTPedigree, with breeding dogs that have proved themselves at shows and have their genetic tests. Before looks we look at character: an insecure dog, or one that is not at ease in a family, does not enter the programme, however handsome. Every litter born here, with parents, tests, examinations and growth photos, is recorded in the <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a>.</p>
-  <p>The puppies grow up in the house and the courtyard, among people and everyday noises. What they can and cannot learn before leaving is explained in <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it means">what &ldquo;socialised puppies&rdquo; means</a>. Each puppy leaves after the vet checks, with vaccinations, microchip and registration.</p>
-  <p>We help you choose the puppy that suits you, and we are there for advice after the placement too.</p>
-  </div>
-  </div>
+  <div class="section-inner"><span class="section-label">Our programme</span><div class="n-percorso"><div class="n-passo"><h2 class="section-title">Litter programme</h2><div><p>We work with English (Elitebull) and Irish (Lackyle) lines, verifiable on SBTPedigree, with breeding dogs that have proved themselves at shows and have their genetic tests. Before looks we look at character: an insecure dog, or one that is not at ease in a family, does not enter the programme, however handsome. Every litter born here, with parents, tests, examinations and growth photos, is recorded in the <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a>.</p><p>The puppies grow up in the house and the courtyard, among people and everyday noises. What they can and cannot learn before leaving is explained in <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it means">what “socialised puppies” means</a>. Each puppy leaves after the vet checks, with vaccinations, microchip and registration.</p><p>We help you choose the puppy that suits you, and we are there for advice after the placement too.</p></div></div></div></div>
   </section>
 
   <section class="section section-alt">
-  <div class="section-inner">
-  <span class="section-label">Method</span>
-  <h2 class="section-title">How a mating is planned</h2>
-  <p>A mating at Del Piccolo Diavolo is planned months ahead and always follows the same path. It starts with the genetic tests of both breeding dogs for L2-HGA and HC, and for the female also DM-SOD1; then the pedigrees are studied on SBTPedigree with its test-mating function, which shows the theoretical coefficient of inbreeding of the puppies and which ancestors it concentrates on. We work within a range of 6 to 9 per cent: below it you lose the chance to fix a character, above it you tighten too much. The male almost always comes from outside, chosen to correct what the female lacks rather than to add two beautiful dogs together. The result is one litter a year, occasionally two, and in some years none.</p>
-  <details class="continua"><summary>Continue reading</summary>
-  <p><strong>What we test before every mating.</strong> No breeding dog enters the programme without the tests for L2-HGA and HC, the two genetic diseases of the breed. Our dogs are also clear of degenerative myelopathy (DM-SOD1). The reports are published on the dogs' pages with the microchip number in plain view, and how those tests work is explained in the <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Genetic testing L2-HGA and HC">genetic testing guide</a>.</p>
-  <p><strong>How you get to a puppy.</strong> The programme is open: for every mating we say who the parents are, which tests they have and why we chose them. Anyone who wants to go further can ask about the results of earlier matings and see the dogs in person. What comes with a puppy is on the <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies page</a>; if you live outside Italy, the timing and documents are on the page about <a href="/en/staffordshire-bull-terrier-puppy-abroad/" title="A puppy going abroad">a puppy going abroad</a>.</p>
-  </details>
-  <a class="rimando" href="/en/how-to-read-a-pedigree/">
-  <img src="/images/blog/pedigree-queen-hero.webp" alt="Queen of California at a show" width="88" height="59" loading="lazy" decoding="async">
-  <span>
-  <span class="ti">How we study a mating before doing it</span>
-  <span class="de">The test mating, the coefficient and which ancestors are doubled up: with Queen's numbers.</span>
-  </span>
-  </a>
-  </div>
+  <div class="section-inner"><span class="section-label">Method</span><div class="n-percorso"><div class="n-passo"><h2 class="section-title">How a mating is planned</h2><div><p>A mating at Del Piccolo Diavolo is planned months ahead and always follows the same path. It starts with the genetic tests of both breeding dogs for L2-HGA and HC, and for the female also DM-SOD1; then the pedigrees are studied on SBTPedigree with its test-mating function, which shows the theoretical coefficient of inbreeding of the puppies and which ancestors it concentrates on. We work within a range of 6 to 9 per cent: below it you lose the chance to fix a character, above it you tighten too much. The male almost always comes from outside, chosen to correct what the female lacks rather than to add two beautiful dogs together. The result is one litter a year, occasionally two, and in some years none.</p><p><strong>What we test before every mating.</strong> No breeding dog enters the programme without the tests for L2-HGA and HC, the two genetic diseases of the breed. Our dogs are also clear of degenerative myelopathy (DM-SOD1). The reports are published on the dogs' pages with the microchip number in plain view, and how those tests work is explained in the <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Genetic testing L2-HGA and HC">genetic testing guide</a>.</p><p><strong>How you get to a puppy.</strong> The programme is open: for every mating we say who the parents are, which tests they have and why we chose them. Anyone who wants to go further can ask about the results of earlier matings and see the dogs in person. What comes with a puppy is on the <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies page</a>; if you live outside Italy, the timing and documents are on the page about <a href="/en/staffordshire-bull-terrier-puppy-abroad/" title="A puppy going abroad">a puppy going abroad</a>.</p></div></div></div><p class="n-vedi"><a href="/en/how-to-read-a-pedigree/">How we study a mating before doing it</a>. The test mating, the coefficient and which ancestors are doubled up: with Queen's numbers.</p></div>
   </section>
 
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Frequently asked questions</span>
   <h2 class="section-title">Litter FAQ</h2>
-
-  <div class="faq-item">
+  <div class="faq-item n-faq">
   <h3>How do I get to know your dogs?</h3>
   <p>Write to us on WhatsApp or call. We talk first — about the breed, about your household, about the dogs behind a litter — and we keep the families who follow a litter updated with photos and videos as the puppies grow.</p>
   </div>
-
-  <div class="faq-item">
+  <div class="faq-item n-faq">
   <h3>When can I visit the puppies?</h3>
   <p>Visits are possible by appointment after the third week of the puppies' life. You will be able to meet the parents and see the environment where they grow up. We recommend booking your visit in advance.</p>
   </div>
-
-  <div class="faq-item">
+  <div class="faq-item n-faq">
   <h3>What guarantees do you offer on puppies?</h3>
   <p>Each puppy is delivered with certified ENCI pedigree, microchip, health booklet, first vaccinations and deworming. Parents are tested for L2-HGA and HC. The Del Piccolo Diavolo kennel stays available for the whole of the dog's life.</p>
   </div>
-
-  <div class="faq-item">
+  <div class="faq-item n-faq">
   <h3>What lies behind one of your litters?</h3>
   <p>A pairing planned months ahead, breeding dogs tested for L2-HGA and HC or clear by parentage, an ENCI pedigree and puppies raised at home. Write to us and we will tell you about the dogs and the litters to come.</p>
   </div>
-
   <div style="text-align:center;margin-top:1.5rem">
-  <a href="/en/faq-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="See all FAQ">See all frequently asked questions</a>
+  <a class="btn btn-primary" href="/en/faq-staffordshire-bull-terrier/" style="min-height:44px;padding:1rem 1.8rem" title="See all FAQ">See all frequently asked questions</a>
   </div>
   </div>
   </section>
 
   <section class="dark-section">
-  <h2>Every litter stays on this page</h2>
-  <p>The litters are higher up, the most recent first. None disappears once the puppies are in their homes, and that is on purpose: anyone can count how many we have in a year, and check the dates in the ENCI studbook. Since 2013 we have bred Staffordshire Bull Terriers this way: one litter a year, occasionally two, sometimes none.</p>
-  </section>
+
+  <div class="n-righe-scure"><div class="n-percorso"><div class="n-passo"><h2>Every litter stays on this page</h2><div><p>The litters are higher up, the most recent first. None disappears once the puppies are in their homes, and that is on purpose: anyone can count how many we have in a year, and check the dates in the ENCI studbook. Since 2013 we have bred Staffordshire Bull Terriers this way: one litter a year, occasionally two, sometimes none.</p></div></div></div></div></section>
 
   <!--BLOCCO:3-->
   <!--CORRELATI-->
