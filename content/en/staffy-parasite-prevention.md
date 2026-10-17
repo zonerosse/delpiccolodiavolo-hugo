@@ -43,7 +43,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>Parasite control in the Staffordshire Bull Terrier is predictable and almost entirely effective, as long as the calendar is kept. The flea you see on the dog is only about 5 per cent of an infestation; the rest lives in the house as eggs, larvae and pupae. The breed's short coat makes fleas and ticks easy to spot, but its skin is prone to allergy, so flea allergy dermatitis is common. Ticks carry babesiosis, ehrlichiosis, anaplasmosis and Lyme disease; sand flies and mosquitoes carry leishmaniasis and heartworm. Puppies are born with roundworm from the dam and are wormed every two weeks from two weeks of age until twelve weeks, then monthly until six months. Adults are treated every three months, more often if they scavenge or live with small children, with a faecal examination to check the schedule. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>Parasite control in the Staffordshire Bull Terrier is predictable and almost entirely effective, as long as the calendar is kept. The flea you see on the dog is only about 5 per cent of an infestation; the rest lives in the house as eggs, larvae and pupae. The breed's short coat makes fleas and ticks easy to spot, but its skin is prone to allergy, so flea allergy dermatitis is common. Ticks carry babesiosis, ehrlichiosis, anaplasmosis and Lyme disease; sand flies and mosquitoes carry leishmaniasis and heartworm. Puppies are born with roundworm from the dam and are wormed every two weeks from two weeks of age until two weeks after weaning, then monthly until six months. Adults are treated every three months, more often if they scavenge or live with small children, with a faecal examination to check the schedule. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
 
 
@@ -55,7 +55,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Fleas</h2>
-  <p>The flea you see on the dog represents about 5 per cent of the infestation. The remainder — eggs, larvae and pupae — is in the carpet, the bedding, the sofa and the cracks in the floor. This is the single most useful fact about fleas, because it explains why treating the dog alone repeatedly fails, and why an infestation appears to return a fortnight after it was solved.</p>
+  <p>The flea you see on the dog represents about 5 per cent of the infestation. The remainder (eggs, larvae and pupae) is in the carpet, the bedding, the sofa and the cracks in the floor. This is the single most useful fact about fleas, because it explains why treating the dog alone repeatedly fails, and why an infestation appears to return a fortnight after it was solved.</p>
   <p>Signs to look for: scratching concentrated at the base of the tail and along the back, small scabs, and flea dirt, which looks like specks of black grit and turns rust-red on damp white paper. That test is definitive and takes 10 seconds.</p>
   <p>Treatment means treating every animal in the household on the same day, plus the environment. Beds, throws and blankets are washed at 60 degrees; vacuum thoroughly, under furniture, along skirting boards and in the cracks where larvae hide, every day while the infestation is active, emptying the bag outside straight away. Carpets and sofas are treated with steam, and heavy infestations need an environmental product with an insect growth regulator (IGR), used as the label says, airing the room well and keeping puppies and people out for the stated time. Repeat after 3 weeks to catch the generation that hatches from pupae, which are resistant to everything.</p>
   <!--/BLOCCO:3-->
@@ -77,7 +77,7 @@ custom_content: |
 
   <!--BLOCCO:5-->
   <h2>Intestinal worms</h2>
-  <p>Roundworms, hookworms, whipworms and tapeworms are the common group. Puppies are effectively born with roundworm from the dam and must be wormed on a strict schedule: every 2 weeks from 2 weeks of age until 12 weeks, then monthly to 6 months. This is the breeder's responsibility for the first part and the owner's thereafter, and the dates should be written in the health record you receive.</p>
+  <p>Roundworms, hookworms, whipworms and tapeworms are the common group. Puppies are effectively born with roundworm from the dam and must be wormed on a strict schedule: every 2 weeks from 2 weeks of age until 2 weeks after weaning, then monthly to 6 months. This is the breeder's responsibility for the first part and the owner's thereafter, and the dates should be written in the health record you receive.</p>
   <p>Adults are typically treated every 3 months, adjusted upwards for dogs that hunt, scavenge or live with small children. Tapeworm is transmitted by ingesting fleas, which is one more reason the two problems are managed together rather than separately.</p>
   <p>Signs of a burden: a dull coat, a pot-bellied appearance in puppies, weight loss despite good appetite, visible segments like grains of rice around the anus, and scooting, which is more often anal glands but is worth investigating.</p>
   <!--/BLOCCO:5-->
@@ -85,13 +85,13 @@ custom_content: |
   <!--BLOCCO:6-->
   <h2>Heartworm and leishmaniasis</h2>
   <p>These are the two that owners in southern Europe cannot afford to treat casually. Heartworm (Dirofilaria immitis), transmitted by mosquitoes, is endemic in the Po Valley and much of northern Italy, including our own area of the Po Delta, as well as around lakes and along the coasts. The adult worms live in the heart and pulmonary arteries, and untreated the disease is fatal.</p>
-  <p>Prevention is a monthly treatment, tablets or spot-on, through the whole mosquito season, usually from April or May to November or December. A test comes first: at around six to seven months in a puppy, and always in a dog whose history is unknown, because giving a preventive to a dog that is already infected can be dangerous. The test is then repeated every spring, before starting again.</p>
+  <p>Prevention is a monthly treatment, tablets or spot-on, through the whole mosquito season, usually from April or May to November or December. In a puppy, prevention starts early, when the vet says so, and the test is done from seven months on. In an adult dog whose history is unknown, the test comes first, because giving a preventive to a dog that is already infected can be dangerous. The test is then repeated every spring, before starting again.</p>
   <p>Leishmaniasis, transmitted by sandflies, is endemic across the Mediterranean and expanding northwards. It is a serious, often lifelong disease. Prevention combines a repellent collar or spot-on with proven anti-feeding action, avoiding outdoor exposure at dusk and dawn during the season, and, where recommended by your veterinarian, vaccination. Any dog travelling to or from southern Italy should be protected before the journey rather than after. Documents, car, train and air travel: the practical rules are in the guide to <a href="/en/staffy-travel-transport/" title="Travelling with a Staffy">travelling with a Staffy</a>.</p>
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->
   <h2>A practical annual plan</h2>
-  <p>Monthly, all year: a combined product covering fleas and ticks, chosen with your veterinarian, plus heartworm prevention through the mosquito season. Every 3 months: intestinal worming, or more often for at-risk dogs &mdash; and in puppies the schedule is checked against a <a href="/en/puppy-worming-faecal-tests/" title="Worming and faecal tests">faecal examination</a>. Weekly: a hands-on check of coat and skin, which takes 2 minutes and catches most problems early. Annually: a veterinary check that includes discussion of the local parasite picture, because it changes.</p>
+  <p>Monthly: a combined product covering fleas and ticks, chosen with your veterinarian (in winter, decide with them whether to continue), plus heartworm prevention through the mosquito season. Every 3 months: intestinal worming, or more often for at-risk dogs, and in puppies the schedule is checked against a <a href="/en/puppy-worming-faecal-tests/" title="Worming and faecal tests">faecal examination</a>. Weekly: a hands-on check of coat and skin, which takes 2 minutes and catches most problems early. Annually: a veterinary check that includes discussion of the local parasite picture, because it changes.</p>
   <p>One caution on products: never use a preparation formulated for cats on a dog or the reverse, and never use permethrin-based products in a household with cats. And be sceptical of natural alternatives such as garlic or essential oils. Garlic is toxic to dogs, several essential oils are also toxic, and none of them prevent babesiosis.</p>
   <!--/BLOCCO:7-->
 
@@ -145,7 +145,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">When should parasite prevention start in a puppy?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Worming starts very early, from two weeks of age, because many puppies are born carrying worms passed on by the mother: it is repeated every two weeks until twelve weeks and then monthly until six months. For external parasites, fleas and ticks, treatment usually starts <strong>from eight weeks</strong>, but the product depends on weight and age, and some active ingredients have precise limits below a certain threshold. The rule is that the vet chooses the first treatment, not the supermarket shelf. A puppy from a serious breeder should arrive with a health record listing the dates of every worming, and ideally the <strong>report of a faecal examination</strong>: from there you carry on without interruption, because a gap of a few weeks is enough to restart an infestation.
+  <div class="faq-answer">Worming starts very early, from two weeks of age, because many puppies are born carrying worms passed on by the mother: it is repeated every two weeks until two weeks after weaning and then monthly until six months. For external parasites, fleas and ticks, treatment usually starts <strong>from eight weeks</strong>, but the product depends on weight and age, and some active ingredients have precise limits below a certain threshold. The rule is that the vet chooses the first treatment, not the supermarket shelf. A puppy from a serious breeder should arrive with a health record listing the dates of every worming, and ideally the <strong>report of a faecal examination</strong>: from there you carry on without interruption, because a gap of a few weeks is enough to restart an infestation.
   </div>
   </div>
 
@@ -198,7 +198,7 @@ custom_content: |
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
+  <a class="btn" href="/en/blog/" title="Back to the blog">&larr; Back to the blog</a>
   </div>
   <!--/BLOCCO:11-->
 

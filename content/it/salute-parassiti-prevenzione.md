@@ -1,7 +1,7 @@
 ---
 title: "Parassiti: prevenzione e controllo Staffordshire Bull Terrier"
 date: 2025-01-20
-lastmod: 2026-10-13
+lastmod: 2026-10-17
 titleSeo: "Parassiti nello Staffordshire Bull Terrier: prevenzione"
 translationKey: "parassiti"
 in_breve:
@@ -28,7 +28,7 @@ custom_content: |
   <h1 class="hero-title">Parassiti: <em>prevenzione</em> e controllo</h1>
   <p class="hero-subtitle">Pulci, zecche e protocolli stagionali</p>
   <div class="hero-meta">
-  <span>📅 20 Gennaio 2025</span>
+  <span>📅 20 gennaio 2025</span>
   <span>⏱️ 11 min lettura</span>
   </div>
   </div>
@@ -37,8 +37,8 @@ custom_content: |
 
   <div class="features-bar">
   <div class="features-track">
-  <span>Pulci</span><span>Zecche</span><span>Filaria</span><span>Protocolli Stagionali</span><span>Spot-on</span><span>Compresse Orali</span><span>Collari</span><span>Rimozione Zecche</span><span>Controllo Ambiente</span>
-  <span>Pulci</span><span>Zecche</span><span>Filaria</span><span>Protocolli Stagionali</span><span>Spot-on</span><span>Compresse Orali</span><span>Collari</span><span>Rimozione Zecche</span><span>Controllo Ambiente</span>
+  <span>Pulci</span><span>Zecche</span><span>Filaria</span><span>Calendario stagionale</span><span>Spot-on</span><span>Compresse</span><span>Collari</span><span>Togliere le zecche</span><span>Pulizia della casa</span>
+  <span>Pulci</span><span>Zecche</span><span>Filaria</span><span>Calendario stagionale</span><span>Spot-on</span><span>Compresse</span><span>Collari</span><span>Togliere le zecche</span><span>Pulizia della casa</span>
   </div>
   </div>
 
@@ -46,7 +46,7 @@ custom_content: |
   <a href="/" title="Home">Home</a> ›
   <a href="/blog/" title="Blog">Blog</a> ›
   <a aria-label="Salute e benessere — categoria del blog" href="/blog/#salute" title="Salute e benessere">Salute e benessere</a> ›
-  <span>Prevenzione Parassiti</span>
+  <span>Prevenzione dei parassiti</span>
   </nav>
 
   <div class="article-container">
@@ -84,7 +84,7 @@ custom_content: |
 
   <!--BLOCCO:5-->
   <h2>Vermi intestinali</h2>
-  <p>Ascaridi, anchilostomi, tricocefali e tenie sono il gruppo più comune. I cuccioli di fatto nascono con gli ascaridi passati dalla madre e vanno sverminati con un calendario rigido: ogni due settimane dalle due alle dodici settimane di età, poi ogni mese fino ai sei mesi. La prima parte è compito dell'allevatore, il resto del proprietario, e le date devono essere scritte sul libretto sanitario che ricevi.</p>
+  <p>Ascaridi, anchilostomi, tricocefali e tenie sono il gruppo più comune. I cuccioli di fatto nascono con gli ascaridi passati dalla madre e vanno sverminati con un calendario rigido: ogni due settimane a partire dalle due settimane di età, fino a due settimane dopo lo svezzamento, poi ogni mese fino ai sei mesi. La prima parte è compito dell'allevatore, il resto del proprietario, e le date devono essere scritte sul libretto sanitario che ricevi.</p>
   <p>Gli adulti di solito si trattano ogni tre mesi, più spesso per i cani che cacciano, mangiano quello che trovano o vivono con bambini piccoli. La tenia si prende ingerendo le pulci: un motivo in più per gestire i due problemi insieme e non separatamente.</p>
   <p>I segni di un'infestazione: pelo opaco, pancia gonfia nei cuccioli, dimagrimento nonostante il buon appetito, segmenti simili a chicchi di riso attorno all'ano, e il cane che si trascina sul sedere, che più spesso dipende dalle ghiandole anali ma va comunque controllato.</p>
   <!--/BLOCCO:5-->
@@ -92,13 +92,13 @@ custom_content: |
   <!--BLOCCO:6-->
   <h2>Filaria e leishmaniosi</h2>
   <p>Sono le due che chi vive nel Sud Europa non può permettersi di prendere alla leggera. La filaria (Dirofilaria immitis), trasmessa dalle zanzare, è endemica in Pianura Padana e in gran parte del Nord Italia, compresa la nostra zona del delta del Po, oltre che nelle zone lacustri e lungo le coste. I vermi adulti vivono nel cuore e nelle arterie polmonari, e senza cura la malattia è mortale.</p>
-  <p>La prevenzione è un trattamento mensile, in compresse o spot-on, per tutta la stagione delle zanzare, di solito da aprile-maggio a novembre-dicembre. Prima di cominciare serve un test: verso i sei-sette mesi nel cucciolo, e sempre in un cane di cui non si conosce la storia, perché dare il preventivo a un cane già infestato può essere pericoloso. Poi il test si ripete ogni primavera, prima di ricominciare.</p>
+  <p>La prevenzione è un trattamento mensile, in compresse o spot-on, per tutta la stagione delle zanzare, di solito da aprile-maggio a novembre-dicembre. Nel cucciolo la prevenzione comincia presto, quando lo dice il veterinario, e il test si fa dai sette mesi in poi. In un cane adulto di cui non si conosce la storia, invece, il test va fatto prima di cominciare, perché dare il preventivo a un cane già infestato può essere pericoloso. Poi il test si ripete ogni primavera, prima di ricominciare.</p>
   <p>La leishmaniosi, trasmessa dai pappataci, è endemica in tutto il Mediterraneo e si sta spostando verso nord. È una malattia seria, spesso per tutta la vita. La prevenzione unisce un collare o uno spot-on repellente con un'azione anti-puntura dimostrata, evitare l'esposizione all'aperto all'alba e al tramonto durante la stagione e, se il veterinario lo consiglia, il vaccino. Un cane che va al Sud o che ne arriva va protetto prima del viaggio, non dopo. Documenti, auto, treno e aereo: le regole pratiche sono nella guida su <a href="/famiglia-viaggi-spostamenti/" title="Viaggiare con lo Staffy">come viaggiare con lo Staffy</a>.</p>
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->
   <h2>Un piano pratico per l'anno</h2>
-  <p>Ogni mese, tutto l'anno: un prodotto combinato contro pulci e zecche, scelto con il veterinario, più la prevenzione della filaria durante la stagione delle zanzare. Ogni tre mesi: la sverminazione, o più spesso per i cani a rischio, e nei cuccioli il calendario si verifica con un <a href="/cuccioli-sverminazione-esami-feci/" title="Sverminazione ed esame delle feci">esame delle feci</a>. Ogni settimana: un controllo con le mani di pelo e pelle, che richiede due minuti e intercetta presto la maggior parte dei problemi. Ogni anno: una visita che comprenda anche la situazione dei parassiti nella propria zona, perché cambia.</p>
+  <p>Ogni mese: un prodotto combinato contro pulci e zecche, scelto con il veterinario (in inverno si decide con lui se continuare), più la prevenzione della filaria durante la stagione delle zanzare. Ogni tre mesi: la sverminazione, o più spesso per i cani a rischio, e nei cuccioli il calendario si verifica con un <a href="/cuccioli-sverminazione-esami-feci/" title="Sverminazione ed esame delle feci">esame delle feci</a>. Ogni settimana: un controllo con le mani di pelo e pelle, che richiede due minuti e intercetta presto la maggior parte dei problemi. Ogni anno: una visita che comprenda anche la situazione dei parassiti nella propria zona, perché cambia.</p>
   <p>Una cautela sui prodotti: mai usare su un cane un prodotto fatto per il gatto, o il contrario, e mai prodotti a base di permetrina in una casa con gatti. E diffidare delle alternative naturali come l'aglio o gli oli essenziali: l'aglio è tossico per il cane, anche diversi oli essenziali lo sono, e nessuno di loro previene la babesiosi.</p>
   <!--/BLOCCO:7-->
 
@@ -151,7 +151,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3 class="faq-question">Quando iniziare la prevenzione antiparassitaria nei cuccioli?</h3>
-  <div class="faq-answer">Le sverminazioni cominciano molto presto, gi&agrave; dalle due settimane di vita, perch&eacute; molti cuccioli nascono con vermi trasmessi dalla madre: si ripetono ogni due settimane fino allo svezzamento e poi mensilmente fino ai sei mesi. Per i parassiti esterni &mdash; pulci e zecche &mdash; si parte di solito <strong>dalle otto settimane</strong>, ma il prodotto dipende dal peso e dall'et&agrave;, e alcuni principi attivi hanno limiti precisi sotto una certa soglia. La regola &egrave; che il primo trattamento lo decide il veterinario, non lo scaffale del supermercato. Un cucciolo che arriva da un allevamento serio dovrebbe gi&agrave; avere il libretto con le date delle sverminazioni fatte, e possibilmente il <a href="/cuccioli-sverminazione-esami-feci/" title="Sverminazione ed esami delle feci">referto dell'esame delle feci</a>: da l&igrave; si prosegue senza interrompere, perch&eacute; un buco di qualche settimana &egrave; sufficiente a far ripartire un'infestazione.</div>
+  <div class="faq-answer">Le sverminazioni cominciano molto presto, gi&agrave; dalle due settimane di vita, perch&eacute; molti cuccioli nascono con vermi trasmessi dalla madre: si ripetono ogni due settimane fino allo svezzamento e poi mensilmente fino ai sei mesi. Per i parassiti esterni, pulci e zecche, si parte di solito <strong>dalle otto settimane</strong>, ma il prodotto dipende dal peso e dall'et&agrave;, e alcuni principi attivi hanno limiti precisi sotto una certa soglia. La regola &egrave; che il primo trattamento lo decide il veterinario, non lo scaffale del supermercato. Un cucciolo che arriva da un allevamento serio dovrebbe gi&agrave; avere il libretto con le date delle sverminazioni fatte, e possibilmente il <a href="/cuccioli-sverminazione-esami-feci/" title="Sverminazione ed esami delle feci">referto dell'esame delle feci</a>: da l&igrave; si prosegue senza interrompere, perch&eacute; un buco di qualche settimana &egrave; sufficiente a far ripartire un'infestazione.</div>
   </div>
 
   <div class="faq-item">
@@ -161,7 +161,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3 class="faq-question">Quali sono i migliori antiparassitari per cuccioli?</h3>
-  <div class="faq-answer">Non esiste il migliore in assoluto: esiste quello giusto per quel cucciolo, e dipende da et&agrave;, peso, zona geografica e abitudini. Le grandi famiglie sono tre: gli <strong>spot-on</strong>, semplici e adatti a chi non deve trattare frequentemente; le <strong>compresse masticabili</strong>, che non si perdono con il bagno e sono comode per chi fa attivit&agrave; all'aperto; e i <strong>collari</strong>, che coprono periodi lunghi. In zone dove c'&egrave; la leishmaniosi servono prodotti con azione repellente contro i flebotomi, che non tutti gli antiparassitari hanno. Vanno evitati i prodotti per gatti &mdash; alcuni sono tossici per il cane e viceversa &mdash; e i rimedi naturali senza efficacia dimostrata, che danno l'illusione della protezione mentre il cane resta scoperto.</div>
+  <div class="faq-answer">Non esiste il migliore in assoluto: esiste quello giusto per quel cucciolo, e dipende da et&agrave;, peso, zona geografica e abitudini. Le grandi famiglie sono tre: gli <strong>spot-on</strong>, semplici e adatti a chi non deve trattare frequentemente; le <strong>compresse masticabili</strong>, che non si perdono con il bagno e sono comode per chi fa attivit&agrave; all'aperto; e i <strong>collari</strong>, che coprono periodi lunghi. In zone dove c'&egrave; la leishmaniosi servono prodotti con azione repellente contro i flebotomi, che non tutti gli antiparassitari hanno. Vanno evitati i prodotti per gatti, che hanno dosi e principi attivi diversi, e i rimedi naturali senza efficacia dimostrata, che danno l'illusione della protezione mentre il cane resta scoperto.</div>
   </div>
 
   <div class="faq-item">
@@ -181,14 +181,14 @@ custom_content: |
   <h3>Articoli correlati</h3>
   <ul>
   <li><a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici">Test genetici L2-HGA e HC</a></li>
-  <li><a href="/cuccioli-prime-vaccinazioni/" title="Prime vaccinazioni">Prime Vaccinazioni del Cucciolo</a></li>
-  <li><a href="/cuccioli-alimentazione-iniziale/" title="Alimentazione">Alimentazione Iniziale del Cucciolo</a></li>
+  <li><a href="/cuccioli-prime-vaccinazioni/" title="Prime vaccinazioni">Prime vaccinazioni del cucciolo</a></li>
+  <li><a href="/cuccioli-alimentazione-iniziale/" title="Alimentazione">Alimentazione iniziale del cucciolo</a></li>
   <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento">Consigli prima di prendere un cucciolo</a></li>
   </ul>
   </div>
 
   <div class="article-footer">
-  <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
+  <a class="btn" href="/blog/" title="Torna al blog">&larr; Torna al blog</a>
 
   <p class="tags"><strong>Tag:</strong>
   <a aria-label="parassiti — categoria del blog" href="/blog/#salute" title="Articoli parassiti">parassiti</a>
