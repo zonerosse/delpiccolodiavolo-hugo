@@ -9,7 +9,7 @@ image: "/images/cucciolo-con-cavallo.avif"
 og_image: "/images/og/schede/de/staffordshire-bull-terrier-charakter-familienleben.jpg"
 og_image_alt: "Staffordshire Bull Terrier: Charakter und Familienleben — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/staffordshire-bull-terrier-carattere-vita-famiglia.webp"
-description: "Das Leben mit einem Staffordshire Bull Terrier: Kinder, andere Tiere, Wohnung und Energie, ehrlich erzählt von der Zucht Del Piccolo Diavolo, ENCI-Züchter seit 2013."
+description: "Das Leben mit einem Staffordshire Bull Terrier: Kinder, andere Tiere, Wohnung und Energie, ehrlich erzählt von der Zucht Del Piccolo Diavolo in Ostellato, seit 2013."
 slug: "staffordshire-bull-terrier-charakter-familienleben"
 custom_content: |
   <!--BLOCCO:1-->
@@ -48,36 +48,36 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>Der Staffordshire Bull Terrier hat ein körperliches Bedürfnis nach menschlicher Nähe und zugleich eine äußerst starke Persönlichkeit: entschlossen, stur und voller Energie. So beschreibt ihn Paolo Boldrini, der seit 2005 in der Rasse ist, seit 2013 mit der Zucht Del Piccolo Diavolo in Ostellato bei Ferrara züchtet und mehr als hundert Staffies aufgezogen und vermittelt hat. Mit Kindern zeigt die Rasse eine echte Geduld, der Grund, warum die Engländer sie Nanny Dog nennen, doch kein Hund darf mit einem kleinen Kind allein bleiben. Gegenüber anderen Hunden gibt es Reaktivität, vor allem zwischen erwachsenen Tieren gleichen Geschlechts, und die Sozialisierung verringert sie, ohne sie zu beseitigen. In der Wohnung lebt er gut, wenn sein Mensch da ist und täglich mit ihm hinausgeht; zehn Stunden am Tag allein, nicht. Er ist kein Hund für Menschen, die einen einfachen suchen.</p>
+  <p>Der Staffordshire Bull Terrier hat ein körperliches Bedürfnis nach menschlicher Nähe und zugleich eine äußerst starke Persönlichkeit: entschlossen, stur und voller Energie. So beschreibt ihn Paolo Boldrini, der seit 2005 in der Rasse ist, seit 2013 mit der Zucht Del Piccolo Diavolo in Ostellato bei Ferrara züchtet. Mit Kindern zeigt die Rasse eine echte Geduld, von der ihr Beiname Nanny Dog kommt, doch kein Hund darf mit einem kleinen Kind allein bleiben. Gegenüber anderen Hunden gibt es Reaktivität, vor allem zwischen erwachsenen Tieren gleichen Geschlechts, und die Sozialisierung verringert sie, ohne sie zu beseitigen. In der Wohnung lebt er gut, wenn sein Mensch da ist und täglich mit ihm hinausgeht; zehn Stunden am Tag allein, nicht. Er ist kein Hund für Menschen, die einen einfachen suchen.</p>
 
 
 
   <!--BLOCCO:2-->
   <h2>Der Charakter des Staffordshire Bull Terriers, ohne Beschönigung</h2>
 
-  <p>Meinen ersten Staffordshire Bull Terrier habe ich 2005 auf der Crufts kennengelernt. In der Rasse seit 2005, Zucht seit 2013: seitdem habe ich über hundert gezüchtet, aufgezogen und vermittelt. Ich kenne diese Rasse so, wie es kein allgemeiner Artikel wiedergeben kann.</p>
+  <p>Meinen ersten Staffordshire Bull Terrier habe ich 2005 auf der Crufts kennengelernt. Seitdem bin ich bei der Rasse geblieben, und seit 2013 züchte ich sie.</p>
 
-  <p>Der Staffy ist der liebevollste Hund, den es gibt. Das ist keine Rhetorik — es ist etwas, das jeder, der jemals mit einem Staffordshire Bull Terrier gelebt hat, sofort bestätigen wird. Dieser Hund hat ein körperliches Bedürfnis nach menschlichem Kontakt — er möchte bei Ihnen bleiben, mit Ihnen schlafen, Ihnen in jeden Raum folgen.</p>
+  <p>Der Staffy ist der liebevollste Hund, den ich kenne, und wer mit einem Staffordshire Bull Terrier gelebt hat, weiß das. Dieser Hund hat ein körperliches Bedürfnis nach menschlichem Kontakt: er möchte bei Ihnen bleiben, mit Ihnen schlafen, Ihnen in jeden Raum folgen.</p>
 
   <p>Aber es gibt eine zweite Seite: Der Staffy ist auch ein Hund mit einer sehr starken Persönlichkeit. Er ist entschlossen, stur, voller Energie. Er ist kein passiver Hund, der sich damit zufriedengibt, in einer Ecke zu existieren. Er möchte mitmachen, spielen, an allem beteiligt sein, was Sie tun.</p>
 
-  <p>Die Kombination — extreme Zuneigung plus starker Charakter — macht den Staffy einzigartig. Und auch das, was ihn für diejenigen ungeeignet macht, die im falschen Sinne einen "einfachen" Hund suchen.</p>
+  <p>Die Kombination aus extremer Zuneigung und starkem Charakter macht den Staffy einzigartig. Und auch das, was ihn für diejenigen ungeeignet macht, die im falschen Sinne einen "einfachen" Hund suchen.</p>
   <p>Der <a href="https://www.fci.be/Nomenclature/Standards/076g03-de.pdf" target="_blank" rel="noopener" aria-label="FCI-Rassestandard – FCI-Standard Nr. 76, PDF (wird in einem neuen Tab geöffnet)">FCI-Rassestandard</a> nennt beide Seiten in wenigen Zeilen: unbeugsamen Mut und Zähigkeit auf der einen, hohe Intelligenz und Anhänglichkeit, besonders gegenüber Kindern, auf der anderen.</p>
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
   <h2>Mit Kindern: der "Nanny Dog" ist kein Mythos</h2>
 
-  <p>In England nennt man ihn seit Jahrhunderten "Nanny Dog". Das ist kein Marketing — es ist eine echte, genetisch selektierte Eigenschaft. Der gut gezüchtete Staffordshire Bull Terrier hat eine Geduld mit Kindern, die nur wenige andere Rassen aufweisen können.</p>
+  <p>Man nennt ihn "Nanny Dog". Woher der Beiname kommt, weiß niemand sicher, aber er ist kein Marketing: er beschreibt eine echte, genetisch selektierte Eigenschaft. Der gut gezüchtete Staffordshire Bull Terrier hat eine Geduld mit Kindern, die nur wenige andere Rassen aufweisen können.</p>
 
   <figure class="article-image img-right">
   <img src="/images/cucciolo-con-cavallo.avif" alt="Staffordshire Bull Terrier Welpe Del Piccolo Diavolo" loading="lazy" decoding="async" width="260" height="318">
   <figcaption>Del Piccolo Diavolo</figcaption>
   </figure>
 
-  <p>Ich habe meine Staffies beobachtet, wie sie kleine Kinder tolerierten, die an Ohren zogen, auf sie sprangen oder sie beim Schlafen störten. Nicht weil sie passiv waren — weil sie ausgeglichen waren. Das ist ein enormer Unterschied.</p>
+  <p>Ich habe meine Staffies beobachtet, wie sie kleine Kinder tolerierten, die an Ohren zogen, auf sie sprangen oder sie beim Schlafen störten. Nicht weil sie passiv waren, sondern weil sie ausgeglichen waren. Das ist ein enormer Unterschied.</p>
 
-  <p>Das gesagt: Kein Hund ist unfehlbar. Aufsicht ist immer notwendig, besonders bei sehr kleinen Kindern. Der Staffy beißt nicht aus Aggressivität, kann aber durch seine Lebhaftigkeit und körperliche Stärke unbeabsichtigt Schaden anrichten.</p>
+  <p>Das gesagt: Kein Hund ist unfehlbar. Aufsicht ist immer notwendig, besonders bei sehr kleinen Kindern. Der Staffy ist kein aggressiver Hund gegenüber Menschen, kann aber durch seine Lebhaftigkeit und körperliche Stärke unbeabsichtigt Schaden anrichten.</p>
 
   <div class="alert">
   <p class="alert-title">⚠️ Aufsicht immer erforderlich</p>
@@ -88,9 +88,9 @@ custom_content: |
   <!--BLOCCO:4-->
   <h2>Mit anderen Hunden: Sozialisation ist alles</h2>
 
-  <p>Das ist der Punkt, an dem ich ehrlich sein muss. Der Staffordshire Bull Terrier hat einen historischen Hintergrund als Kampfhund — das lässt sich nicht ignorieren. Bei einigen Individuen, besonders bei nicht kastrierten Rüden, kann Intoleranz gegenüber anderen Hunden desselben Geschlechts auftreten.</p>
+  <p>Das ist der Punkt, an dem ich ehrlich sein muss. Der Staffordshire Bull Terrier hat einen historischen Hintergrund als Kampfhund, und das lässt sich nicht ignorieren. Bei einigen Individuen, besonders bei nicht kastrierten Rüden, kann Intoleranz gegenüber anderen Hunden desselben Geschlechts auftreten.</p>
 
-  <p>Die gute Nachricht: Mit früher und kontinuierlicher Sozialisation lebt die überwiegende Mehrheit der Staffies glücklich mit anderen Hunden zusammen. Alle meine leben problemlos in der Gruppe. Aber es erfordert konsequente Arbeit, besonders in den ersten Lebensmonaten. Was „sozialisierter Welpe“ wirklich bedeutet und wie man es beim Besuch einer Zucht prüft, erklärt <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das heißt">sozialisierte Welpen: was das heißt</a>.</p>
+  <p>Frühe und kontinuierliche Sozialisation verringert das Problem deutlich, und die meisten Staffies leben gut mit anderen Hunden zusammen, aber das ist eine Tendenz, keine Regel, und man beurteilt es Hund für Hund. Alle meine leben problemlos in der Gruppe. Aber es erfordert konsequente Arbeit, besonders in den ersten Lebensmonaten. Was „sozialisierter Welpe“ wirklich bedeutet und wie man es beim Besuch einer Zucht prüft, erklärt <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das heißt">sozialisierte Welpen: was das heißt</a>.</p>
 
   <p>Wenn ich gefragt werde "Kann ich ihn mit einem anderen Hund halten?" lautet meine Antwort immer gleich: Es hängt vom Individuum, der Charakterselektion und davon ab, wie viel Sie in die Sozialisation investieren. Es ist keine einfache Antwort, weil die Realität es nicht ist.</p>
   <!--/BLOCCO:4-->
@@ -98,15 +98,15 @@ custom_content: |
   <!--BLOCCO:5-->
   <h2>Energie und Bewegung: wie viel wird wirklich gebraucht</h2>
 
-  <p>Der Staffy ist ein athletischer Hund mit beträchtlicher Energie — aber er ist kein Border Collie. Er muss nicht stundenlang laufen, um ausgeglichen zu sein. Er braucht regelmäßige körperliche Aktivität, geistige Stimulation und vor allem menschliche Interaktion.</p>
+  <p>Der Staffy ist ein athletischer Hund mit beträchtlicher Energie, aber er ist kein Border Collie. Er muss nicht stundenlang laufen, um ausgeglichen zu sein. Er braucht regelmäßige körperliche Aktivität, geistige Stimulation und vor allem menschliche Interaktion.</p>
 
-  <p>Was einen Staffy am meisten zermürbt, ist nicht der Mangel an körperlicher Bewegung: Es ist Langeweile. Ein Hund, der den ganzen Tag allein ohne Anregungen zu Hause bleibt, wird destruktiv — nicht aus Bosheit, sondern aus Frustration.</p>
+  <p>Was einen Staffy am meisten zermürbt, ist nicht der Mangel an körperlicher Bewegung: Es ist Langeweile. Ein Hund, der den ganzen Tag allein ohne Anregungen zu Hause bleibt, wird destruktiv, nicht aus Bosheit, sondern aus Frustration.</p>
 
   <div class="info-box">
   <p class="info-box-title">📋 Was braucht ein erwachsener Staffy?</p>
-  <p><strong>Spaziergänge:</strong> 2 pro Tag, je 30-40 Minuten</p>
+  <p><strong>Spaziergänge:</strong> 2 pro Tag, so lang, wie es der Hund braucht</p>
   <p><strong>Spiel:</strong> tägliche aktive Interaktionseinheiten</p>
-  <p><strong>Menschliche Präsenz:</strong> wesentlich — leidet unter langer Einsamkeit</p>
+  <p><strong>Menschliche Präsenz:</strong> wesentlich, leidet unter langer Einsamkeit</p>
   <p><strong>Geistige Stimulation:</strong> Intelligenzspiele, Kommandos, abwechslungsreiche Aktivitäten</p>
   </div>
   <!--/BLOCCO:5-->
@@ -114,9 +114,9 @@ custom_content: |
   <!--BLOCCO:6-->
   <h2>In einer Wohnung: funktioniert das?</h2>
 
-  <p>Ja, es funktioniert — unter den richtigen Bedingungen. Der Staffy ist kein Gartenhund: Er ist ein Sofahund. Er bleibt lieber drinnen bei der Familie als draußen allein. Eine Wohnung ist perfekt geeignet, wenn der Besitzer anwesend und aktiv ist. Für einen älteren Menschen ändert sich vor allem das Alter des Hundes, den man wählt, wie der Ratgeber <a href="/de/staffy-aeltere-besitzer/" title="Staffordshire Bull Terrier für ältere Besitzer">Staffy und ältere Besitzer</a> erklärt.</p>
+  <p>Ja, es funktioniert, unter den richtigen Bedingungen. Der Staffy ist kein Gartenhund: Er ist ein Sofahund. Er bleibt lieber drinnen bei der Familie als draußen allein. Eine Wohnung ist perfekt geeignet, wenn der Besitzer anwesend und aktiv ist. Für einen älteren Menschen ändert sich vor allem das Alter des Hundes, den man wählt, wie der Ratgeber <a href="/de/staffy-aeltere-besitzer/" title="Staffordshire Bull Terrier für ältere Besitzer">Staffy und ältere Besitzer</a> erklärt.</p>
 
-  <p>Was nicht funktioniert, ist einen Staffy 10 Stunden täglich allein in einer Wohnung zu lassen. Das gilt für fast alle Rassen, aber für den Staffy — der eine besonders starke Bindung an Menschen hat — ist es noch problematischer.</p>
+  <p>Was nicht funktioniert, ist einen Staffy 10 Stunden täglich allein in einer Wohnung zu lassen. Das gilt für fast alle Rassen, aber für den Staffy, der eine besonders starke Bindung an Menschen hat, ist es noch problematischer.</p>
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->
@@ -134,7 +134,7 @@ custom_content: |
   <!--BLOCCO:9-->
   <h2>Versteht sich der Staffy mit Katzen?</h2>
 
-  <p>Das hängt vom einzelnen Hund ab und davon, wie er aufgewachsen ist &mdash; und es gehört gesagt, dass er ein Terrier ist: der Jagdtrieb gegenüber kleinen, sich bewegenden Tieren existiert und wird durch Erziehung nicht gelöscht. Ein im Haus mit Katzen aufgewachsener Welpe lebt oft bestens mit ihnen, weil die Katze in den richtigen Wochen Teil seiner normalen Welt wird. Ein erwachsener Hund, der nie eine gesehen hat, braucht eine schrittweise Zusammenführung mit Geruchstausch, Begegnungen auf Distanz und <strong>jederzeit verfügbaren Fluchtwegen nach oben</strong>. Bis das Zusammenleben gefestigt ist, bleiben sie nicht allein.</p>
+  <p>Das hängt vom einzelnen Hund ab und davon, wie er aufgewachsen ist, und es gehört gesagt, dass er ein Terrier ist: der Jagdtrieb gegenüber kleinen, sich bewegenden Tieren existiert und wird durch Erziehung nicht gelöscht. Ein im Haus mit Katzen aufgewachsener Welpe lebt oft bestens mit ihnen, weil die Katze in den richtigen Wochen Teil seiner normalen Welt wird. Ein erwachsener Hund, der nie eine gesehen hat, braucht eine schrittweise Zusammenführung mit Geruchstausch, Begegnungen auf Distanz und <strong>jederzeit verfügbaren Fluchtwegen nach oben</strong>. Bis das Zusammenleben gefestigt ist, bleiben sie nicht allein.</p>
 
   <div class="related">
   <h3>Verwandte Artikel</h3>
