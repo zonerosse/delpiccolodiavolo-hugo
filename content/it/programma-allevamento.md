@@ -29,7 +29,7 @@ custom_content: |
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Programma Allevamento</span>
+  <span class="hero-eyebrow">Programma di allevamento</span>
   <h1 class="hero-title">Il programma <em>di selezione</em> <br>e le prossime cucciolate</h1>
   <p class="hero-subtitle">Selezione, salute e tipicità - Dal 2013</p>
   <p class="hero-description">Accoppiamenti pianificati secondo criteri di salute, carattere e tipicità. In questa pagina trovi il programma di selezione e lo storico delle cucciolate.</p>
@@ -47,6 +47,7 @@ custom_content: |
   <span>Lackyle Lines</span>
   <span>L2HGA esente</span>
   <span>HC esente</span>
+  <span>DM-SOD1 esente</span>
   <span>Campioni Italiani</span>
   <span>Pedigree ENCI</span>
   <span>Ostellato FE</span>
@@ -54,6 +55,7 @@ custom_content: |
   <span>Lackyle Lines</span>
   <span>L2HGA esente</span>
   <span>HC esente</span>
+  <span>DM-SOD1 esente</span>
   <span>Campioni Italiani</span>
   <span>Pedigree ENCI</span>
   <span>Ostellato FE</span>
@@ -70,7 +72,7 @@ custom_content: |
   <span class="section-label">Accoppiamenti</span>
   <h2 class="section-title">Criteri di selezione dei riproduttori</h2>
 
-  <p style="text-align:center;margin-bottom:2rem">Ogni accoppiamento è studiato per consolidare le caratteristiche morfologiche desiderate, migliorare il temperamento e preservare la salute genetica. Gli obiettivi vengono definiti analizzando pedigree, risultati espositivi e test genetici di entrambi i genitori.</p>
+  <p style="text-align:center;margin-bottom:2rem">Ogni accoppiamento ha un obiettivo: cosa fissare e cosa correggere. Lo decidiamo guardando pedigree, risultati in esposizione e test genetici dei due genitori.</p>
 
   <!-- Cucciolata: Bilquis × Black Jack - NATA -->
   <!-- GESTIONALE:INIZIO -->
@@ -228,7 +230,7 @@ custom_content: |
   </div>
   </div>
 
-  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Accoppiamento tra linee Elitebull e Lackyle per combinare la potenza inglese con l'eleganza irlandese. Obiettivo: soggetti versatili, adatti sia alla famiglia che all'esposizione.</p>
+  <p style="margin-top:1rem;font-size:.9rem;color:#5c4a3a;line-height:1.6">Accoppiamento fra le due linee su cui lavoriamo, Elitebull e Lackyle. Nei pedigree di Elitebull ci sono gi&agrave; i cani storici di Lackyle: questo accoppiamento li riunisce. Obiettivo: soggetti adatti sia alla famiglia sia all'esposizione.</p>
 
   <p class="pedigree-link">Pedigree della cucciolata: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4483601&DAM=4538599&generation=4&dogs_id=4547824" target="_blank" rel="noopener" title="Vedi pedigree cucciolata Prospect x Bean" aria-label="vedi su SBTPedigree – Vedi il pedigree completo della cucciolata del 1° febbraio 2025 su SBTPedigree (si apre in una nuova scheda)">vedi su SBTPedigree</a></p>
   </article>
@@ -243,9 +245,9 @@ custom_content: |
   <span style="position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,transparent,#c9a227,transparent);display:block"></span>
   <span style="position:absolute;bottom:0;left:0;right:0;height:3px;background:linear-gradient(90deg,transparent,#c9a227,transparent);display:block"></span>
   <p style="font-family:Georgia,'Times New Roman',serif;font-size:1.3rem;font-style:italic;color:#f5ede0;line-height:1.8;margin:0">
-  "Poche cucciolate l'anno, scelte una per una.<br>
-  Prima ci si conosce. Il resto viene dopo."
-   Ogni cucciolata nata qui, con genitori, test, esami e foto della crescita, è raccontata nel <a href="/diario-allevamento/" title="Diario dell'allevamento" style="color:#e0b77a;text-decoration:underline">diario dell'allevamento</a>.</p>
+  &laquo;Poche cucciolate l'anno, scelte una per una.<br>
+  Prima ci si conosce. Il resto viene dopo.&raquo;</p>
+  <p style="font-size:.95rem;color:#f5ede0;line-height:1.7;margin:1rem 0 0">Ogni cucciolata nata qui, con genitori, test, esami e foto della crescita, &egrave; raccontata nel <a href="/diario-allevamento/" title="Diario dell'allevamento" style="color:#e0b77a;text-decoration:underline">diario dell'allevamento</a>.</p>
   <span style="display:block;width:40px;height:1px;background:#c9a227;margin:1rem auto 0"></span>
   <footer style="margin-top:0.75rem;font-size:0.75rem;color:#d9bb94;letter-spacing:0.2em;text-transform:uppercase;font-weight:700;font-style:normal">Del Piccolo Diavolo · Dal 2013</footer>
   </blockquote>
@@ -254,16 +256,15 @@ custom_content: |
 
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">Il Nostro Programma</span>
+  <span class="section-label">Il nostro programma</span>
   <h2 class="section-title">Come selezioniamo i riproduttori</h2>
 
   <div class="intro-block">
   <p>Un accoppiamento a Del Piccolo Diavolo si programma con mesi di anticipo e segue sempre lo stesso percorso. Si parte dai test genetici dei due riproduttori per L2HGA e HC, e per la fattrice anche per DM-SOD1, poi si studiano i pedigree su SBTPedigree con la funzione di prova di accoppiamento, che mostra il coefficiente di consanguineità teorico dei cuccioli e su quali antenati si concentra. La forbice entro cui ci muoviamo va dal 6 al 9 per cento: sotto si perde la possibilità di fissare un carattere, sopra si stringe troppo. Il maschio arriva quasi sempre da fuori, scelto per correggere quello che manca alla femmina e non per sommare due cani belli. Il risultato è una cucciolata l'anno, occasionalmente due, in alcuni anni nessuna: se il momento giusto non arriva, quell'anno non nasce niente.</p>
 
   <details class="continua"><summary>Continua a leggere</summary>
-  <p>Il nostro programma di allevamento si basa sulla selezione attenta di riproduttori sani, equilibrati e conformi allo standard. Ogni soggetto viene valutato per morfologia, carattere e salute genetica prima di entrare nel programma riproduttivo.</p>
-  <p>Lavoriamo su linee inglesi (Elitebull) e irlandesi (Lackyle), verificabili su SBTPedigree, selezionando riproduttori che abbiano dimostrato qualità in esposizione e che possiedano i test genetici per L2HGA e HC.</p>
-  <p>La selezione non si limita all'aspetto estetico: il temperamento equilibrato, la socievolezza e la capacità di adattarsi alla vita familiare sono criteri fondamentali nella scelta dei nostri riproduttori.</p>
+  <p>Lavoriamo su linee inglesi (Elitebull) e irlandesi (Lackyle), verificabili su SBTPedigree, con riproduttori che hanno dato prova di s&eacute; in esposizione e hanno i test genetici.</p>
+  <p>Prima della bellezza guardiamo il carattere. Un cane insicuro o che non sta bene in famiglia non entra nel programma, per bello che sia.</p>
   <p>Per sapere cosa include ogni affido e quanto costa un cucciolo, leggi la nostra guida su <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p>
   </details>
   </div>
@@ -292,9 +293,8 @@ custom_content: |
   <h2 class="section-title">Cucciolate programmate e passate</h2>
 
   <div class="intro-block">
-  <p>Dal 2013 alleviamo Staffordshire Bull Terrier con un approccio etico: poche cucciolate selezionate, massima attenzione a salute, carattere e tipicità. Ogni cucciolata nasce da una pianificazione accurata, con obiettivi chiari di miglioramento della razza.</p>
-  <p>Non cerchiamo la quantità ma la qualità: preferiamo produrre pochi soggetti eccellenti piuttosto che molti soggetti mediocri. Questo ci permette di seguire ogni cane con la massima cura, dalla nascita all'inserimento nella nuova famiglia.</p>
-  <p>La nostra missione è preservare l'autenticità dello Staffordshire Bull Terrier attraverso una selezione responsabile e trasparente, rispettando lo standard di razza e il benessere degli animali.</p>
+  <p>Le cucciolate sono pi&ugrave; in alto, dalla pi&ugrave; recente. Nessuna sparisce quando i cuccioli sono a casa loro, ed &egrave; voluto: cos&igrave; chiunque pu&ograve; contare quante ne facciamo in un anno, e controllare le date sul libro genealogico ENCI.</p>
+  <p>Dal 2013 alleviamo Staffordshire Bull Terrier cos&igrave;: una cucciolata l'anno, occasionalmente due, a volte nessuna. Ogni cane lo seguiamo dalla nascita all'arrivo nella nuova famiglia, e anche dopo.</p>
   </div>
   </div>
   </section>
@@ -310,8 +310,8 @@ custom_content: |
 
   <p>Cosa accompagna il cucciolo e come funziona l'affido sta nella <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">pagina dei cuccioli di Staffordshire Bull Terrier</a>; se abiti fuori dall'Italia, i tempi e i documenti sono <a href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Cucciolo all'estero">in questa pagina</a>.</p>
 
-  <h2>Domande frequenti sulle cucciolate</h2>
-  <p>Per conoscere in dettaglio il nostro metodo di selezione e gli accoppiamenti pianificati, contattaci.</p>
+  <h2>Vuoi saperne di pi&ugrave;?</h2>
+  <p>Scrivici su WhatsApp: ti raccontiamo le prossime cucciolate e, se vuoi, fissiamo una visita a Ostellato.</p>
   <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20vorrei%20info%20sul%20programma%20di%20allevamento" class="btn" style="min-height:44px;padding:1rem 1.8rem" title="Informazioni sul programma" aria-label="Scrivici su WhatsApp – Contattaci per informazioni sul programma di allevamento">Scrivici su WhatsApp</a>
   </section>
 ---

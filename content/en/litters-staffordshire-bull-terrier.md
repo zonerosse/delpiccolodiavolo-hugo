@@ -44,6 +44,7 @@ custom_content: |
   <span>Lackyle Lines</span>
   <span>L2HGA Clear</span>
   <span>HC Clear</span>
+  <span>DM-SOD1 Clear</span>
   <span>Italian Champions</span>
   <span>ENCI Pedigree</span>
   <span>Ostellato FE</span>
@@ -51,6 +52,7 @@ custom_content: |
   <span>Lackyle Lines</span>
   <span>L2HGA Clear</span>
   <span>HC Clear</span>
+  <span>DM-SOD1 Clear</span>
   <span>Italian Champions</span>
   <span>ENCI Pedigree</span>
   <span>Ostellato FE</span>
@@ -158,7 +160,7 @@ custom_content: |
   <p class="pedigree-link">Litter diary: <a href="/en/diario-allevamento/red-nora-litter-february-2026/" title="Red × Nora litter in the diary">parents, tests, examinations and growth</a></p>
   </article>
 
-  <!-- Litter 2: Bilquis × Luis - SOLD OUT -->
+  <!-- Litter 2: Bilquis × Luis - NOT AVAILABLE -->
   <article class="litter-card" id="cucciolata-2025-05-02" data-nascita="2025-05-02">
   <div class="litter-header">
   <h3 class="litter-title">Litter born 02/05/2025</h3>
@@ -196,7 +198,7 @@ custom_content: |
   <p class="pedigree-link">Litter pedigree: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4555572&DAM=4496127&generation=4&dogs_id=4555573" target="_blank" rel="noopener" title="View Bilquis x Luis litter pedigree" aria-label="view on SBTPedigree – View the full pedigree of the 2 May 2025 litter on SBTPedigree (opens in a new tab)">view on SBTPedigree</a></p>
   </article>
 
-  <!-- Litter 3: Prospect × Bean - SOLD OUT -->
+  <!-- Litter 3: Prospect × Bean - NOT AVAILABLE -->
   <article class="litter-card" id="cucciolata-2025-02-01" data-nascita="2025-02-01">
   <div class="litter-header">
   <h3 class="litter-title">Puppies born 01/02/2025</h3>
@@ -237,13 +239,13 @@ custom_content: |
 
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">Our Program</span>
-  <h2 class="section-title">Litter program</h2>
+  <span class="section-label">Our programme</span>
+  <h2 class="section-title">Litter programme</h2>
 
   <div class="intro-block">
-  <p>At our kennel, every litter is born from careful selection of healthy, balanced, in-standard parents. Every litter born here, with parents, tests, examinations and growth photos, is recorded in the <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a>.</p>
-  <p>Puppies grow up in a family environment, socialized with people, sounds and other animals to encourage harmonious development. Each puppy is placed after veterinary checks, vaccinations, microchip and registration.</p>
-  <p>We are available to help you choose the most suitable puppy and to follow you even after adoption, with advice and ongoing assistance.</p>
+  <p>We work with English (Elitebull) and Irish (Lackyle) lines, verifiable on SBTPedigree, with breeding dogs that have proved themselves at shows and have their genetic tests. Before looks we look at character: an insecure dog, or one that is not at ease in a family, does not enter the programme, however handsome. Every litter born here, with parents, tests, examinations and growth photos, is recorded in the <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a>.</p>
+  <p>The puppies grow up in the house and the courtyard, among people and everyday noises. What they can and cannot learn before leaving is explained in <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it means">what &ldquo;socialised puppies&rdquo; means</a>. Each puppy leaves after the vet checks, with vaccinations, microchip and registration.</p>
+  <p>We help you choose the puppy that suits you, and we are there for advice after the placement too.</p>
   </div>
   </div>
   </section>
@@ -299,8 +301,8 @@ custom_content: |
   </section>
 
   <section class="dark-section">
-  <h2>Welfare, ethics and responsibility</h2>
-  <p>Since 2013 we have been breeding Staffordshire Bull Terriers with an ethical approach: few selected litters, attention to health, character and breed type. Each puppy is followed with care, from birth to joining the new family. Our mission is to preserve the authenticity of the breed through responsible and transparent selection.</p>
+  <h2>Every litter stays on this page</h2>
+  <p>The litters are higher up, the most recent first. None disappears once the puppies are in their homes, and that is on purpose: anyone can count how many we have in a year, and check the dates in the ENCI studbook. Since 2013 we have bred Staffordshire Bull Terriers this way: one litter a year, occasionally two, sometimes none.</p>
   </section>
 
   <!--BLOCCO:3-->
@@ -309,7 +311,7 @@ custom_content: |
 
   <section class="cta-section">
   <h2>Want info about litters?</h2>
-  <p>Call us or write on WhatsApp for information about available and future litters.</p>
-  <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20Staffordshire%20Bull%20Terrier%20litters" class="btn" title="Write us on WhatsApp for litter info">Write Us on WhatsApp</a>
+  <p>Write to us on WhatsApp: we will tell you about the next litters and, if you like, arrange a visit to Ostellato.</p>
+  <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20would%20like%20info%20about%20Staffordshire%20Bull%20Terrier%20litters" class="btn" title="Write us on WhatsApp for litter info">Write to us on WhatsApp</a>
   </section>
 ---

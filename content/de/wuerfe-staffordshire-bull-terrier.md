@@ -44,6 +44,7 @@ custom_content: |
   <span>Lackyle Lines</span>
   <span>L2HGA frei</span>
   <span>HC frei</span>
+  <span>DM-SOD1 frei</span>
   <span>Italienische Champions</span>
   <span>ENCI Stammbaum</span>
   <span>Ostellato FE</span>
@@ -51,6 +52,7 @@ custom_content: |
   <span>Lackyle Lines</span>
   <span>L2HGA frei</span>
   <span>HC frei</span>
+  <span>DM-SOD1 frei</span>
   <span>Italienische Champions</span>
   <span>ENCI Stammbaum</span>
   <span>Ostellato FE</span>
@@ -65,7 +67,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Verpaarungen</span>
-  <h2 class="section-title">Geplante und Vergangene Würfe</h2>
+  <h2 class="section-title">Geplante und vergangene Würfe</h2>
 
   <!-- Wurf: Bilquis × Black Jack - GEBOREN, NICHT VERFÜGBAR -->
   <!-- GESTIONALE:INIZIO -->
@@ -158,7 +160,7 @@ custom_content: |
   <p class="pedigree-link">Tagebuch des Wurfs: <a href="/de/diario-allevamento/wurf-red-nora-februar-2026/" title="Wurf Red × Nora im Tagebuch">Eltern, Tests, Untersuchungen und Wachstum</a></p>
   </article>
 
-  <!-- Wurf 2: Bilquis × Luis - AUSVERKAUFT -->
+  <!-- Wurf 2: Bilquis × Luis - NICHT VERFÜGBAR -->
   <article class="litter-card" id="cucciolata-2025-05-02" data-nascita="2025-05-02">
   <div class="litter-header">
   <h3 class="litter-title">Wurf geboren am 02.05.2025</h3>
@@ -196,7 +198,7 @@ custom_content: |
   <p class="pedigree-link">Wurf-Stammbaum: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4555572&DAM=4496127&generation=4&dogs_id=4555573" target="_blank" rel="noopener" title="Stammbaum Wurf Bilquis x Luis ansehen" aria-label="Vollständigen Stammbaum des Wurfes vom 2. Mai 2025 auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">auf SBTPedigree ansehen</a></p>
   </article>
 
-  <!-- Wurf 3: Prospect × Bean - AUSVERKAUFT -->
+  <!-- Wurf 3: Prospect × Bean - NICHT VERFÜGBAR -->
   <article class="litter-card" id="cucciolata-2025-02-01" data-nascita="2025-02-01">
   <div class="litter-header">
   <h3 class="litter-title">Welpen geboren am 01.02.2025</h3>
@@ -241,9 +243,9 @@ custom_content: |
   <h2 class="section-title">Zuchtprogramm</h2>
 
   <div class="intro-block">
-  <p>In der Zucht Del Piccolo Diavolo wird jeder Wurf aus einer sorgfältigen Auswahl gesunder, ausgeglichener und standardkonformer Eltern geboren. Jeder hier geborene Wurf, mit Eltern, Tests, Untersuchungen und Fotos des Heranwachsens, steht im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Zuchttagebuch</a>.</p>
-  <p>Die Welpen wachsen in familiärer Umgebung auf, sozialisiert mit Menschen, Geräuschen und anderen Tieren für eine harmonische Entwicklung. Jeder Welpe wird nach tierärztlichen Kontrollen, Impfungen, Mikrochip und Registrierung übergeben.</p>
-  <p>Wir begleiten Sie bei der Wahl des geeigneten Welpen und stehen Ihnen auch nach der Adoption mit Rat und kontinuierlicher Unterstützung zur Seite.</p>
+  <p>Wir arbeiten mit englischen (Elitebull) und irischen (Lackyle) Linien, nachprüfbar auf SBTPedigree, mit Zuchttieren, die sich auf Ausstellungen bewährt haben und ihre Gentests haben. Vor der Schönheit kommt der Charakter: Ein unsicherer Hund, oder einer, der sich in der Familie nicht wohlfühlt, kommt nicht ins Programm, so schön er auch ist. Jeder hier geborene Wurf, mit Eltern, Tests, Untersuchungen und Fotos des Heranwachsens, steht im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Zuchttagebuch</a>.</p>
+  <p>Die Welpen wachsen in Haus und Hof auf, unter Menschen und Alltagsgeräuschen. Was sie vor der Abgabe lernen können und was nicht, erklären wir in <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das heißt">was &bdquo;sozialisierte Welpen&ldquo; heißt</a>. Jeder Welpe geht nach den tierärztlichen Kontrollen, mit Impfungen, Mikrochip und Registrierung.</p>
+  <p>Wir helfen Ihnen, den passenden Welpen zu wählen, und sind auch nach der Abgabe für Sie da.</p>
   </div>
   </div>
   </section>
@@ -299,8 +301,8 @@ custom_content: |
   </section>
 
   <section class="dark-section">
-  <h2>Wohlbefinden, Ethik und Verantwortung</h2>
-  <p>Seit 2013 züchten wir Staffordshire Bull Terrier mit einem ethischen Ansatz: wenige ausgewählte Würfe, Aufmerksamkeit für Gesundheit, Charakter und Typizität. Jeder Welpe wird sorgfältig betreut, von der Geburt bis zum Einzug in die neue Familie. Unsere Mission ist es, die Authentizität der Rasse durch verantwortungsvolle und transparente Selektion zu bewahren.</p>
+  <h2>Jeder Wurf bleibt auf dieser Seite</h2>
+  <p>Die Würfe stehen weiter oben, der jüngste zuerst. Keiner verschwindet, sobald die Welpen in ihren Familien sind, und das ist gewollt: So kann jeder nachzählen, wie viele Würfe wir in einem Jahr haben, und die Daten im ENCI-Zuchtbuch prüfen. Seit 2013 züchten wir Staffordshire Bull Terrier so: ein Wurf im Jahr, gelegentlich zwei, manchmal keiner.</p>
   </section>
 
   <!--BLOCCO:3-->
@@ -309,7 +311,7 @@ custom_content: |
 
   <section class="cta-section">
   <h2>Möchten Sie Infos zu Würfen?</h2>
-  <p>Rufen Sie uns an oder schreiben Sie uns auf WhatsApp für Informationen über verfügbare und zukünftige Würfe.</p>
-  <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20möchte%20Infos%20über%20Staffordshire%20Bull%20Terrier%20Würfe" class="btn" title="Schreiben Sie uns auf WhatsApp für Wurf-Infos">Auf WhatsApp Schreiben</a>
+  <p>Schreiben Sie uns auf WhatsApp: Wir erzählen Ihnen von den nächsten Würfen und vereinbaren, wenn Sie möchten, einen Besuch in Ostellato.</p>
+  <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20möchte%20Infos%20über%20Staffordshire%20Bull%20Terrier%20Würfe" class="btn" title="Schreiben Sie uns auf WhatsApp für Wurf-Infos">Auf WhatsApp schreiben</a>
   </section>
 ---
