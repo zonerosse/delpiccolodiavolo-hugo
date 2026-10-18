@@ -1,8 +1,8 @@
 ---
-title: "How much should a dog eat: kibble calculator"
+title: "How much should a dog eat: kibble calculator with artificial intelligence"
 date: 2026-10-18
 lastmod: 2026-10-18
-titleSeo: "How much should I feed my dog? Dog food calculator"
+titleSeo: "How much should I feed my dog? AI dog food calculator"
 translationKey: "calcolatore-crocchette"
 tags:
   - "how much to feed a dog"
@@ -11,17 +11,19 @@ tags:
   - "grams of kibble per day"
   - "puppy feeding"
   - "dog food calories"
-json_ld: '{"@context": "https://schema.org", "@type": "WebApplication", "name": "Kibble calculator", "url": "https://delpiccolodiavolo.it/en/dog-food-calculator/", "description": "Works out the grams of kibble per day for a dog from age, weight, size, activity and the calories of the food.", "applicationCategory": "LifestyleApplication", "operatingSystem": "Any", "browserRequirements": "Requires JavaScript", "inLanguage": "en", "isAccessibleForFree": true, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "EUR"}, "featureList": ["Grams of kibble per day", "Table by age from puppy to senior", "Calories of 34 common foods", "Calories worked out from the bag''s analytical constituents", "Reading a photo of the bag"], "publisher": {"@id": "https://delpiccolodiavolo.it/#organization"}}'
+  - "AI dog food calculator"
+  - "kibble calories from a photo of the bag"
+json_ld: '{"@context": "https://schema.org", "@type": "WebApplication", "name": "Kibble calculator", "url": "https://delpiccolodiavolo.it/en/dog-food-calculator/", "description": "Works out the grams of kibble per day for a dog from age, weight, size, activity and the calories of the food.", "applicationCategory": "LifestyleApplication", "operatingSystem": "Any", "browserRequirements": "Requires JavaScript", "inLanguage": "en", "isAccessibleForFree": true, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "EUR"}, "featureList": ["Grams of kibble per day", "Table by age from puppy to senior", "Calories of 34 common foods", "Calories worked out from the bag''s analytical constituents", "Reading the photo of the bag with artificial intelligence"], "publisher": {"@id": "https://delpiccolodiavolo.it/#organization"}}'
 in_breve:
   - "The calculator gives the grams of kibble per day from age, weight, activity and the food's calories."
-  - "The calories of 34 common foods are already in the list; any other can be typed in or worked out from the bag."
+  - "The calories of 34 common foods are already in the list; for any other, artificial intelligence reads them from a photo of the bag, or you type them in."
   - "The figure is a starting point: check it on the dog every two weeks."
 articolo: true
 image: "/images/blog/icone/calcolatore-crocchette-cane.webp"
 og_image: "/images/og/schede/en/dog-food-calculator.jpg"
-og_image_alt: "How much should I feed my dog? Dog food calculator — Del Piccolo Diavolo kennel"
+og_image_alt: "How much should I feed my dog? AI dog food calculator — Del Piccolo Diavolo kennel"
 thumb: "/images/blog/icone/calcolatore-crocchette-cane.webp"
-description: "How much should you feed your dog? The calculator gives grams of kibble per day by age, weight, size and activity, with the calories of 34 common foods."
+description: "How much should you feed your dog? Grams of kibble per day by age, weight and activity. 34 foods in the list; for any other, AI reads the photo of the bag."
 slug: "dog-food-calculator"
 custom_content: |
   <!--BLOCCO:1-->
@@ -94,7 +96,7 @@ custom_content: |
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
-  <h2>The calories of the kibble</h2>
+  <h2>The calories of the kibble, also from a photo of the bag with artificial intelligence</h2>
   <p>Calories are the figure most often missing. In Europe the bag must show the analytical constituents, not the energy, and many brands leave it out. The list below gives 34 common foods, in the medium-breed version, with figures collected in October 2026 from manufacturers' and shops' pages. Recipes change: if the bag shows a different number, the bag wins.</p>
   <table id="pappa-db" tabindex="0">
   <thead>
@@ -174,6 +176,13 @@ custom_content: |
   <h3 class="faq-q">What changes when you switch to another brand of kibble?</h3>
   <div class="faq-answer">
   <p>The ration has to be worked out again, because two foods can give very different energy for the same grams. In the calculator's list they range from 340 to 444 kcal per 100 grams: moving from the first to the second without changing the portion means giving about 30% more calories. Choose the new food in the calculator, read the new portion, and make the change over seven to ten days by mixing the two foods, as explained in the guide to a puppy's first feeding. After two weeks, check the dog's ribs and adjust by 10% if needed.</p>
+  </div>
+  </div>
+
+  <div class="faq-item">
+  <h3 class="faq-q">How does the artificial intelligence read the photo of the bag?</h3>
+  <div class="faq-answer">
+  <p>Tap «Photograph the bag · AI» and take a sharp photo of the back of the bag, where the analytical constituents are printed; if the text is split, two photos are fine. The photo is read by an artificial intelligence, Anthropic's Claude: if the bag states the energy, it takes that figure; otherwise it reads protein, fat, fibre, ash and moisture and works out the kcal with the modified Atwater formula explained above. If it finds no figures, it searches the web for the calories from the name of the food. The photo is not kept. Check the result before adding it to the list; there is a daily limit of readings, 3 per person, set to keep costs down.</p>
   </div>
   </div>
   <!--/BLOCCO:5-->

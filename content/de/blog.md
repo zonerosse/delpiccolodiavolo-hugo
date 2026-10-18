@@ -75,7 +75,7 @@ custom_content: |
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18. Okt 2026</span><span>&bull;</span><span class="cat">Welpen</span></div>
   <h3><a href="/de/futterrechner-hund/" title="Lesen: Futterrechner">Wie viel Futter braucht ein Hund: Futterrechner für Trockenfutter</a></h3>
-  <p>Gramm am Tag nach Alter, Gewicht und Bewegung, mit den Kalorien von 34 Futtersorten.</p>
+  <p>Gramm am Tag nach Alter, Gewicht und Bewegung, mit den Kalorien von 34 Futtersorten; andere liest die KI vom Packungsfoto.</p>
   </div>
   </article>
   <article class="blog-card">

@@ -75,7 +75,7 @@ custom_content: |
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Oct 2026</span><span>&bull;</span><span class="cat">Puppies</span></div>
   <h3><a href="/en/dog-food-calculator/" title="Read: Kibble calculator">How much should a dog eat: kibble calculator</a></h3>
-  <p>Grams a day by age, weight and activity, with the calories of 34 foods.</p>
+  <p>Grams a day by age, weight and activity, with the calories of 34 foods; for any other, AI reads the photo of the bag.</p>
   </div>
   </article>
   <article class="blog-card">

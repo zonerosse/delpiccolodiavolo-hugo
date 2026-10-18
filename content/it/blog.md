@@ -72,7 +72,7 @@ custom_content: |
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Ott 2026</span><span>&bull;</span><span class="cat">Cuccioli</span></div>
   <h3><a href="/calcolatore-crocchette-cane/" title="Leggi: Calcolatore delle crocchette">Quanto deve mangiare un cane: calcolatore delle crocchette</a></h3>
-  <p>Grammi al giorno per età, peso e movimento, con le calorie di 34 crocchette.</p>
+  <p>Grammi al giorno per età, peso e movimento, con le calorie di 34 crocchette; le altre le legge l'IA dalla foto del sacco.</p>
   </div>
   </article>
   <article class="blog-card">

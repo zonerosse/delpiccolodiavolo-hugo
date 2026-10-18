@@ -1,8 +1,8 @@
 ---
-title: "Wie viel Futter braucht ein Hund: Futterrechner für Trockenfutter"
+title: "Wie viel Futter braucht ein Hund: Futterrechner mit künstlicher Intelligenz"
 date: 2026-10-18
 lastmod: 2026-10-18
-titleSeo: "Wie viel Futter braucht mein Hund? Futterrechner"
+titleSeo: "Wie viel Futter braucht mein Hund? Futterrechner mit KI"
 translationKey: "calcolatore-crocchette"
 tags:
   - "wie viel Futter braucht ein Hund"
@@ -11,17 +11,19 @@ tags:
   - "Gramm Trockenfutter pro Tag"
   - "Welpenfütterung"
   - "Kalorien Hundefutter"
-json_ld: '{"@context": "https://schema.org", "@type": "WebApplication", "name": "Futterrechner", "url": "https://delpiccolodiavolo.it/de/futterrechner-hund/", "description": "Berechnet die Gramm Trockenfutter pro Tag für einen Hund nach Alter, Gewicht, Größe, Bewegung und Kalorien des Futters.", "applicationCategory": "LifestyleApplication", "operatingSystem": "Any", "browserRequirements": "Requires JavaScript", "inLanguage": "de", "isAccessibleForFree": true, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "EUR"}, "featureList": ["Gramm Trockenfutter pro Tag", "Tabelle nach Alter vom Welpen bis zum Senior", "Kalorien von 34 gängigen Futtersorten", "Kalorien aus den analytischen Bestandteilen der Packung", "Lesen eines Fotos der Packung"], "publisher": {"@id": "https://delpiccolodiavolo.it/#organization"}}'
+  - "Futterrechner mit KI"
+  - "Kalorien vom Foto der Packung"
+json_ld: '{"@context": "https://schema.org", "@type": "WebApplication", "name": "Futterrechner", "url": "https://delpiccolodiavolo.it/de/futterrechner-hund/", "description": "Berechnet die Gramm Trockenfutter pro Tag für einen Hund nach Alter, Gewicht, Größe, Bewegung und Kalorien des Futters.", "applicationCategory": "LifestyleApplication", "operatingSystem": "Any", "browserRequirements": "Requires JavaScript", "inLanguage": "de", "isAccessibleForFree": true, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "EUR"}, "featureList": ["Gramm Trockenfutter pro Tag", "Tabelle nach Alter vom Welpen bis zum Senior", "Kalorien von 34 gängigen Futtersorten", "Kalorien aus den analytischen Bestandteilen der Packung", "Lesen des Packungsfotos mit künstlicher Intelligenz"], "publisher": {"@id": "https://delpiccolodiavolo.it/#organization"}}'
 in_breve:
   - "Der Rechner gibt die Gramm Trockenfutter pro Tag aus Alter, Gewicht, Bewegung und Kalorien des Futters an."
-  - "Die Kalorien von 34 gängigen Futtern stehen schon in der Liste; andere gibt man selbst ein oder berechnet sie aus der Packung."
+  - "Die Kalorien von 34 gängigen Futtern stehen schon in der Liste; bei anderen liest eine künstliche Intelligenz sie vom Foto der Packung, oder man gibt sie selbst ein."
   - "Die Zahl ist ein Ausgangspunkt: man prüft sie alle zwei Wochen am Hund."
 articolo: true
 image: "/images/blog/icone/calcolatore-crocchette-cane.webp"
 og_image: "/images/og/schede/de/futterrechner-hund.jpg"
-og_image_alt: "Wie viel Futter braucht mein Hund? Futterrechner — Zucht Del Piccolo Diavolo"
+og_image_alt: "Wie viel Futter braucht mein Hund? Futterrechner mit KI — Zucht Del Piccolo Diavolo"
 thumb: "/images/blog/icone/calcolatore-crocchette-cane.webp"
-description: "Wie viel Futter braucht ein Hund? Der Rechner gibt die Gramm Trockenfutter pro Tag nach Alter, Gewicht, Größe und Bewegung an, mit 34 gängigen Futtern."
+description: "Wie viel Futter braucht ein Hund? Gramm Trockenfutter pro Tag nach Alter, Gewicht und Bewegung. 34 Futter in der Liste; andere liest die KI vom Packungsfoto."
 slug: "futterrechner-hund"
 custom_content: |
   <!--BLOCCO:1-->
@@ -94,7 +96,7 @@ custom_content: |
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
-  <h2>Die Kalorien des Futters</h2>
+  <h2>Die Kalorien des Futters, auch vom Foto der Packung mit künstlicher Intelligenz</h2>
   <p>Die Kalorien sind die Angabe, die am häufigsten fehlt. In Europa muss die Packung die analytischen Bestandteile angeben, nicht die Energie, und viele Marken lassen sie weg. Die Liste unten nennt 34 gängige Futtersorten in der Version für mittelgroße Rassen, mit Werten, die im Oktober 2026 auf den Seiten der Hersteller und der Händler gesammelt wurden. Rezepturen ändern sich: steht auf der Packung eine andere Zahl, gilt die Packung.</p>
   <table id="pappa-db" tabindex="0">
   <thead>
@@ -174,6 +176,13 @@ custom_content: |
   <h3 class="faq-q">Was ändert sich beim Wechsel auf eine andere Futtermarke?</h3>
   <div class="faq-answer">
   <p>Die Ration muss neu berechnet werden, weil zwei Futter bei gleicher Grammzahl sehr unterschiedlich viel Energie liefern können. In der Liste des Rechners reichen sie von 340 bis 444 kcal pro 100 Gramm: wer vom ersten zum zweiten wechselt, ohne die Menge zu ändern, gibt etwa 30 % mehr Kalorien. Man wählt das neue Futter im Rechner, liest die neue Menge ab und stellt über sieben bis zehn Tage um, indem man beide Futter mischt, wie im Ratgeber zur ersten Fütterung beschrieben. Nach zwei Wochen prüft man die Rippen und passt um 10 % an, wenn nötig.</p>
+  </div>
+  </div>
+
+  <div class="faq-item">
+  <h3 class="faq-q">Wie liest die künstliche Intelligenz das Foto der Packung?</h3>
+  <div class="faq-answer">
+  <p>Man tippt auf «Packung fotografieren · KI» und macht ein scharfes Foto der Rückseite, wo die analytischen Bestandteile stehen; ist der Text geteilt, gehen auch zwei Fotos. Das Foto liest eine künstliche Intelligenz, Claude von Anthropic: steht die Energie auf der Packung, übernimmt sie diesen Wert; sonst liest sie Protein, Fett, Rohfaser, Rohasche und Feuchtigkeit und berechnet die kcal mit der oben erklärten modifizierten Atwater-Formel. Findet sie keine Zahlen, sucht sie die Kalorien anhand des Futternamens im Internet. Das Foto wird nicht gespeichert. Das Ergebnis prüft man, bevor man es zur Liste hinzufügt; es gibt ein tägliches Limit von 3 Lesungen pro Person, um die Kosten zu begrenzen.</p>
   </div>
   </div>
   <!--/BLOCCO:5-->

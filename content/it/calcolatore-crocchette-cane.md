@@ -1,8 +1,8 @@
 ---
-title: "Quanto deve mangiare un cane: calcolatore delle crocchette"
+title: "Quanto deve mangiare un cane: calcolatore crocchette con intelligenza artificiale"
 date: 2026-10-18
 lastmod: 2026-10-18
-titleSeo: "Quanto deve mangiare un cane: calcolatore crocchette"
+titleSeo: "Quanto deve mangiare un cane: calcolatore crocchette IA"
 translationKey: "calcolatore-crocchette"
 tags:
   - "quanto deve mangiare un cane"
@@ -11,17 +11,19 @@ tags:
   - "razione giornaliera del cane"
   - "alimentazione del cucciolo"
   - "calorie delle crocchette"
-json_ld: '{"@context": "https://schema.org", "@type": "WebApplication", "name": "Calcolatore delle crocchette", "url": "https://delpiccolodiavolo.it/calcolatore-crocchette-cane/", "description": "Calcola i grammi di crocchette al giorno per un cane in base a età, peso, taglia, movimento e calorie dell''alimento.", "applicationCategory": "LifestyleApplication", "operatingSystem": "Any", "browserRequirements": "Requires JavaScript", "inLanguage": "it", "isAccessibleForFree": true, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "EUR"}, "featureList": ["Grammi di crocchette al giorno", "Tabella per età dal cucciolo all''anziano", "Calorie di 34 crocchette diffuse", "Calcolo delle calorie dai componenti analitici del sacco", "Lettura della foto del sacco"], "publisher": {"@id": "https://delpiccolodiavolo.it/#organization"}}'
+  - "calcolatore crocchette con intelligenza artificiale"
+  - "foto del sacco delle crocchette"
+json_ld: '{"@context": "https://schema.org", "@type": "WebApplication", "name": "Calcolatore delle crocchette", "url": "https://delpiccolodiavolo.it/calcolatore-crocchette-cane/", "description": "Calcola i grammi di crocchette al giorno per un cane in base a età, peso, taglia, movimento e calorie dell''alimento; le calorie si possono leggere con l''intelligenza artificiale dalla foto del sacco.", "applicationCategory": "LifestyleApplication", "operatingSystem": "Any", "browserRequirements": "Requires JavaScript", "inLanguage": "it", "isAccessibleForFree": true, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "EUR"}, "featureList": ["Grammi di crocchette al giorno", "Tabella per età dal cucciolo all''anziano", "Calorie di 34 crocchette diffuse", "Calcolo delle calorie dai componenti analitici del sacco", "Lettura della foto del sacco con intelligenza artificiale"], "publisher": {"@id": "https://delpiccolodiavolo.it/#organization"}}'
 in_breve:
   - "Il calcolatore dà i grammi di crocchette al giorno partendo da età, peso, movimento e calorie dell'alimento."
-  - "Le calorie di 34 crocchette diffuse sono già nell'elenco; le altre si scrivono a mano o si calcolano dal sacco."
+  - "Le calorie di 34 crocchette diffuse sono già nell'elenco; per le altre un'intelligenza artificiale le legge dalla foto del sacco, oppure si scrivono a mano."
   - "Il numero è un punto di partenza: si controlla sul cane ogni due settimane."
 articolo: true
 image: "/images/blog/icone/calcolatore-crocchette-cane.webp"
 og_image: "/images/og/schede/it/calcolatore-crocchette-cane.jpg"
-og_image_alt: "Quanto deve mangiare un cane: calcolatore crocchette — Allevamento Del Piccolo Diavolo"
+og_image_alt: "Quanto deve mangiare un cane: calcolatore crocchette IA — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/calcolatore-crocchette-cane.webp"
-description: "Quanto deve mangiare un cane? Il calcolatore dà i grammi di crocchette al giorno per età, peso, taglia e movimento, con le kcal di 34 crocchette diffuse."
+description: "Quanto deve mangiare un cane? Grammi di crocchette al giorno per età, peso e movimento. 34 crocchette in elenco; le altre le legge l'IA dalla foto del sacco."
 slug: "calcolatore-crocchette-cane"
 custom_content: |
   <!--BLOCCO:1-->
@@ -94,7 +96,7 @@ custom_content: |
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
-  <h2>Le calorie delle crocchette</h2>
+  <h2>Le calorie delle crocchette, anche dalla foto del sacco con l'intelligenza artificiale</h2>
   <p>Le calorie sono il dato che manca più spesso. In Europa il sacco deve riportare i componenti analitici, non l'energia, e molte marche non la scrivono. L'elenco qui sotto riporta 34 crocchette diffuse, nella versione per taglia media, con i valori raccolti a ottobre 2026 dalle pagine dei produttori e dei negozi. Le ricette cambiano: se il sacco riporta un numero diverso, vale il sacco.</p>
   <table id="pappa-db" tabindex="0">
   <thead>
@@ -174,6 +176,13 @@ custom_content: |
   <h3 class="faq-q">Cosa cambia se si passa a un'altra marca di crocchette?</h3>
   <div class="faq-answer">
   <p>La razione va ricalcolata, perché a parità di grammi due crocchette possono dare un'energia molto diversa. Nell'elenco del calcolatore si va da 340 a 444 kcal per 100 grammi: passare dalla prima alla seconda senza cambiare la dose significa dare circa il 30% di calorie in più. Si sceglie la nuova crocchetta nel calcolatore, si legge la nuova dose, e il passaggio si fa in sette-dieci giorni mescolando i due alimenti, come spiegato nella guida all'alimentazione iniziale. Dopo due settimane si controlla il cane sulle costole e si corregge del 10% se serve.</p>
+  </div>
+  </div>
+
+  <div class="faq-item">
+  <h3 class="faq-q">Come fa l'intelligenza artificiale a leggere la foto del sacco?</h3>
+  <div class="faq-answer">
+  <p>Si tocca «Fotografa il sacco · IA» e si scatta una foto nitida del retro del sacco, dove sono stampati i componenti analitici; se il testo è diviso, vanno bene anche due foto. La foto la legge un'intelligenza artificiale, Claude di Anthropic: se sul sacco è scritta l'energia, prende quel valore; altrimenti legge proteina, grassi, fibra, ceneri e umidità e calcola le kcal con la formula di Atwater modificata spiegata qui sopra. Se non trova i numeri, cerca in internet le calorie partendo dal nome delle crocchette. La foto non viene conservata. Il risultato va controllato prima di aggiungerlo all'elenco, e c'è un limite di letture al giorno, 3 per persona, impostato per contenere i costi.</p>
   </div>
   </div>
   <!--/BLOCCO:5-->
