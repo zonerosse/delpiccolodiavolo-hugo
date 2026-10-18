@@ -1,7 +1,7 @@
 ---
 title: "Safe exercise for Staffordshire Bull Terrier"
 date: 2024-06-20
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "esercizio"
 in_breve:
   - "The Staffy needs **exercise every day**, but the amount changes with age."
@@ -266,7 +266,7 @@ custom_content: |
   <!--BLOCCO:10-->
   <h2>Adapting exercise to age and condition</h2>
   <p>From about eight years old the duration stays and the intensity drops: more frequent, shorter, calmer outings, and a warm-up before anything strenuous. Dogs with hip or elbow dysplasia benefit particularly from swimming and from a stable weight, which is the cheapest and most effective joint treatment there is.</p>
-  <p>On weight: this breed carries extra kilos in a way that is easily missed under the muscle. The ribs should be easy to feel with a flat hand, and a waist should be visible from above. An overweight Staffy loses years of comfortable movement, and the loss stays invisible until it is well advanced.</p>
+  <p>On weight: this breed carries extra kilos in a way that is easily missed under the muscle. The ribs should be easy to feel with a flat hand, and a waist should be visible from above. How much to feed for the amount of exercise is worked out by the <a href="/en/dog-food-calculator/" title="Kibble calculator">kibble calculator</a>. An overweight Staffy loses years of comfortable movement, and the loss stays invisible until it is well advanced.</p>
   <!--/BLOCCO:10-->
 
   <!--BLOCCO:11-->

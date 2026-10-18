@@ -1,7 +1,7 @@
 ---
 title: "Sichere Bewegung für Staffordshire Bull Terrier"
 date: 2024-06-20
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "esercizio"
 in_breve:
   - "Der Staffy braucht **jeden Tag Bewegung**, aber das Maß ändert sich mit dem Alter."
@@ -264,7 +264,7 @@ custom_content: |
   <!--BLOCCO:10-->
   <h2>Anpassung an Alter und Verfassung</h2>
   <p>Ab etwa 8 Jahren bleibt die Gesamtdauer, die Intensität sinkt: häufigere, kürzere, ruhigere Gänge und Aufwärmzeit vor allem Anstrengenden. Hunde mit Hüft- oder Ellenbogendysplasie profitieren besonders vom Schwimmen und von einem stabilen Gewicht, der günstigsten und wirksamsten Gelenkbehandlung überhaupt.</p>
-  <p>Zum Gewicht: diese Rasse trägt Überschuss so, dass er unter der Muskulatur leicht übersehen wird. Die Rippen müssen mit flacher Hand gut fühlbar sein, und von oben muss eine Taille sichtbar sein. Ein übergewichtiger Staffy verliert Jahre bequemer Bewegung, und der Verlust bleibt unsichtbar, bis er weit fortgeschritten ist.</p>
+  <p>Zum Gewicht: diese Rasse trägt Überschuss so, dass er unter der Muskulatur leicht übersehen wird. Die Rippen müssen mit flacher Hand gut fühlbar sein, und von oben muss eine Taille sichtbar sein. Wie viel Futter zur Bewegung passt, rechnet der <a href="/de/futterrechner-hund/" title="Futterrechner">Futterrechner</a> aus. Ein übergewichtiger Staffy verliert Jahre bequemer Bewegung, und der Verlust bleibt unsichtbar, bis er weit fortgeschritten ist.</p>
   <!--/BLOCCO:10-->
 
   <!--BLOCCO:11-->

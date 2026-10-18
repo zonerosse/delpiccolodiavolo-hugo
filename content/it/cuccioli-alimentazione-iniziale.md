@@ -2,7 +2,7 @@
 title: "Cuccioli: alimentazione iniziale"
 date: 2025-04-15
 titleSeo: "Alimentazione del cucciolo Staffy nei primi mesi"
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/cuccioli-4.webp"
@@ -72,7 +72,7 @@ custom_content: |
   <!--BLOCCO:3-->
   <h2>Quante volte e quanto</h2>
   <p>Fino ai sei mesi, tre pasti al giorno a orari regolari. Dai sei mesi in avanti due, e i due pasti al giorno vanno mantenuti per tutta la vita invece di scendere a uno: un solo pasto abbondante, in una razza con il torace profondo, è un fattore di rischio per la torsione dello stomaco.</p>
-  <p>La quantità dipende dall'alimento e dal soggetto, e il numero sulla confezione è un punto di partenza, non un'istruzione. La misura vera è il cucciolo: le costole si devono sentire facilmente con la mano piatta, e da sopra si deve vedere la vita. Si aggiusta del dieci per cento per volta e si rivaluta dopo una settimana.</p>
+  <p>La quantità dipende dall'alimento e dal soggetto, e il numero sulla confezione è un punto di partenza, non un'istruzione. Per un primo numero c'è il <a href="/calcolatore-crocchette-cane/" title="Calcolatore delle crocchette">calcolatore delle crocchette</a>, che parte da età, peso e calorie dell'alimento. La misura vera è il cucciolo: le costole si devono sentire facilmente con la mano piatta, e da sopra si deve vedere la vita. Si aggiusta del dieci per cento per volta e si rivaluta dopo una settimana.</p>
   <p>I pasti vanno distribuiti nella giornata a orari costanti, che aiutano l'educazione ai bisogni quanto la digestione. La ciotola si lascia giù quindici-venti minuti e poi si toglie, invece di restare a disposizione tutto il giorno.</p>
   <!--/BLOCCO:3-->
 

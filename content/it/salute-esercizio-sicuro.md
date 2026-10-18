@@ -1,7 +1,7 @@
 ---
 title: "Esercizio sicuro per Staffordshire Bull Terrier"
 date: 2024-06-20
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "esercizio"
 in_breve:
   - "Lo Staffy ha bisogno di **esercizio ogni giorno**, ma la quantità cambia con l'età."
@@ -318,7 +318,7 @@ custom_content: |
   <!--BLOCCO:10-->
   <h2>Adattare il movimento all'età e alla condizione</h2>
   <p>Da circa otto anni la durata resta, l'intensità cala: uscite più frequenti, più brevi e più tranquille, e un riscaldamento prima di qualsiasi sforzo. I cani con displasia dell'anca o del gomito traggono un beneficio particolare dal nuoto e da un peso stabile, che è la cura per le articolazioni più economica ed efficace che esista.</p>
-  <p>Sul peso: questa razza porta i chili in più in un modo che sotto la muscolatura passa facilmente inosservato. Le costole devono sentirsi bene con la mano piatta, e da sopra si deve vedere la vita. Uno Staffy sovrappeso perde anni di movimento comodo, e la perdita resta invisibile finché non è molto avanzata.</p>
+  <p>Sul peso: questa razza porta i chili in più in un modo che sotto la muscolatura passa facilmente inosservato. Le costole devono sentirsi bene con la mano piatta, e da sopra si deve vedere la vita. Quanto mangiare in base al movimento lo dice il <a href="/calcolatore-crocchette-cane/" title="Calcolatore delle crocchette">calcolatore delle crocchette</a>. Uno Staffy sovrappeso perde anni di movimento comodo, e la perdita resta invisibile finché non è molto avanzata.</p>
   <!--/BLOCCO:10-->
 
   <!--BLOCCO:11-->

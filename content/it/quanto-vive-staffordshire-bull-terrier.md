@@ -1,7 +1,7 @@
 ---
 title: "Quanto vive lo Staffordshire Bull Terrier"
 date: 2026-10-11
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 titleSeo: "Quanto vive lo Staffordshire Bull Terrier"
 translationKey: "longevita"
 articolo: true
@@ -156,7 +156,7 @@ custom_content: |
   <div class="faq-item">
   <h3 class="faq-q">Cosa posso fare per far vivere più a lungo il mio Staffy?</h3>
   <div class="faq-answer">
-  <p>Tenerlo magro è la cosa singola più efficace: devi sentire le costole appoggiando la mano senza premere, e vedere la vita dall'alto. Poi: movimento regolare e adatto all'età, denti puliti per evitare l'infiammazione cronica che logora cuore e reni, controlli veterinari una volta l'anno fino ai sette-otto anni e due volte l'anno dopo. Infine, da cuccioli, non forzare la crescita con troppo cibo o troppa attività sulle articolazioni ancora tenere: un cane costruito con calma dura di più di uno cresciuto in fretta.</p>
+  <p>Tenerlo magro è la cosa singola più efficace: devi sentire le costole appoggiando la mano senza premere, e vedere la vita dall'alto; per la razione giusta c'è il <a href="/calcolatore-crocchette-cane/" title="Calcolatore delle crocchette">calcolatore delle crocchette</a>. Poi: movimento regolare e adatto all'età, denti puliti per evitare l'infiammazione cronica che logora cuore e reni, controlli veterinari una volta l'anno fino ai sette-otto anni e due volte l'anno dopo. Infine, da cuccioli, non forzare la crescita con troppo cibo o troppa attività sulle articolazioni ancora tenere: un cane costruito con calma dura di più di uno cresciuto in fretta.</p>
   </div>
   </div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How long does a Staffordshire Bull Terrier live?"
 date: 2026-10-11
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 titleSeo: "How long does a Staffordshire Bull Terrier live"
 translationKey: "longevita"
 articolo: true
@@ -156,7 +156,7 @@ custom_content: |
   <div class="faq-item">
   <h3 class="faq-q">What can I do to help my Staffy live longer?</h3>
   <div class="faq-answer">
-  <p>Keeping it lean is the single most effective thing: you should feel the ribs with a flat hand without pressing, and see a waist from above. Then: regular, age-appropriate movement, clean teeth to avoid the chronic inflammation that wears out heart and kidneys, a veterinary check once a year up to seven or eight and twice a year after that. Finally, as a puppy, do not force growth with too much food or too much strain on still-soft joints: a dog built slowly lasts longer than one grown in a hurry.</p>
+  <p>Keeping it lean is the single most effective thing: you should feel the ribs with a flat hand without pressing, and see a waist from above; for the right ration there is the <a href="/en/dog-food-calculator/" title="Kibble calculator">kibble calculator</a>. Then: regular, age-appropriate movement, clean teeth to avoid the chronic inflammation that wears out heart and kidneys, a veterinary check once a year up to seven or eight and twice a year after that. Finally, as a puppy, do not force growth with too much food or too much strain on still-soft joints: a dog built slowly lasts longer than one grown in a hurry.</p>
   </div>
   </div>
 

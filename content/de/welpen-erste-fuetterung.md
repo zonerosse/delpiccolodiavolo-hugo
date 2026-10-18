@@ -2,7 +2,7 @@
 title: "Welpen: Erste Fütterung"
 date: 2025-04-15
 titleSeo: "Ernährung des Welpen in den ersten Monaten"
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -74,7 +74,7 @@ custom_content: |
   <!--BLOCCO:3-->
   <h2>Wie oft und wie viel</h2>
   <p>Bis 6 Monate 3 Mahlzeiten täglich zu festen Zeiten. Ab 6 Monaten zwei, und 2 Mahlzeiten sollten lebenslang bleiben, statt auf eine zu reduzieren: eine einzige große Mahlzeit ist bei einer tiefbrüstigen Rasse ein Risikofaktor für die Magendrehung.</p>
-  <p>Die Menge hängt vom Futter und vom Einzeltier ab; die Angabe auf der Packung ist ein Ausgangspunkt, keine Vorschrift. Der wirkliche Maßstab ist der Welpe selbst: die Rippen müssen mit flacher Hand leicht fühlbar sein, von oben muss eine Taille erkennbar sein. Passen Sie in Schritten von 10 Prozent an und beurteilen Sie nach einer Woche neu.</p>
+  <p>Die Menge hängt vom Futter und vom Einzeltier ab; die Angabe auf der Packung ist ein Ausgangspunkt, keine Vorschrift. Für eine erste Zahl gibt es den <a href="/de/futterrechner-hund/" title="Futterrechner">Futterrechner</a>, der von Alter, Gewicht und Kalorien des Futters ausgeht. Der wirkliche Maßstab ist der Welpe selbst: die Rippen müssen mit flacher Hand leicht fühlbar sein, von oben muss eine Taille erkennbar sein. Passen Sie in Schritten von 10 Prozent an und beurteilen Sie nach einer Woche neu.</p>
   <p>Verteilen Sie die Mahlzeiten über den Tag und halten Sie die Zeiten konstant, was der Stubenreinheit ebenso hilft wie der Verdauung. Lassen Sie das Futter 15 bis 20 Minuten stehen und nehmen Sie es dann weg, statt den ganzen Tag einen vollen Napf anzubieten.</p>
   <!--/BLOCCO:3-->
 

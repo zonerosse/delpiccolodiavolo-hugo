@@ -2,7 +2,7 @@
 title: "Puppies: initial feeding"
 date: 2025-04-15
 titleSeo: "Feeding a Staffordshire Bull Terrier puppy: first months"
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -74,7 +74,7 @@ custom_content: |
   <!--BLOCCO:3-->
   <h2>How often and how much</h2>
   <p>Until 6 months, 3 meals a day at regular times. From 6 months onwards, 2, and 2 meals a day should continue for life rather than reducing to one: a single large meal in a deep-chested breed is a risk factor for gastric torsion.</p>
-  <p>Quantity depends on the food and on the individual, and the number on the packet is a starting point rather than an instruction. The real measure is the puppy itself: you should be able to feel the ribs easily with a flat hand, and see a waist from above. Adjust by 10 per cent at a time and reassess after a week.</p>
+  <p>Quantity depends on the food and on the individual, and the number on the packet is a starting point rather than an instruction. For a first figure there is the <a href="/en/dog-food-calculator/" title="Kibble calculator">kibble calculator</a>, which starts from age, weight and the calories of the food. The real measure is the puppy itself: you should be able to feel the ribs easily with a flat hand, and see a waist from above. Adjust by 10 per cent at a time and reassess after a week.</p>
   <p>Space the meals through the day and keep the times consistent, which helps house training as much as digestion. Leave the food down for 15 or 20 minutes and then remove it, rather than leaving a bowl available all day.</p>
   <!--/BLOCCO:3-->
 

@@ -1,7 +1,7 @@
 ---
 title: "Wie alt wird ein Staffordshire Bull Terrier?"
 date: 2026-10-11
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 titleSeo: "Wie alt wird ein Staffordshire Bull Terrier"
 translationKey: "longevita"
 articolo: true
@@ -156,7 +156,7 @@ custom_content: |
   <div class="faq-item">
   <h3 class="faq-q">Was kann ich tun, damit mein Staffy länger lebt?</h3>
   <div class="faq-answer">
-  <p>Ihn schlank zu halten ist das Wirksamste überhaupt: du solltest die Rippen mit flacher Hand ohne Drücken fühlen und von oben eine Taille sehen. Dann: regelmäßige, altersgerechte Bewegung, saubere Zähne gegen die chronische Entzündung, die Herz und Nieren zermürbt, ein Tierarztcheck einmal im Jahr bis sieben oder acht und danach zweimal im Jahr. Und als Welpe das Wachstum nicht mit zu viel Futter oder zu viel Belastung auf noch weiche Gelenke erzwingen: ein langsam aufgebauter Hund hält länger als einer, der in Eile gewachsen ist.</p>
+  <p>Ihn schlank zu halten ist das Wirksamste überhaupt: du solltest die Rippen mit flacher Hand ohne Drücken fühlen und von oben eine Taille sehen; für die richtige Ration gibt es den <a href="/de/futterrechner-hund/" title="Futterrechner">Futterrechner</a>. Dann: regelmäßige, altersgerechte Bewegung, saubere Zähne gegen die chronische Entzündung, die Herz und Nieren zermürbt, ein Tierarztcheck einmal im Jahr bis sieben oder acht und danach zweimal im Jahr. Und als Welpe das Wachstum nicht mit zu viel Futter oder zu viel Belastung auf noch weiche Gelenke erzwingen: ein langsam aufgebauter Hund hält länger als einer, der in Eile gewachsen ist.</p>
   </div>
   </div>
 
