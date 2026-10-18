@@ -1,6 +1,6 @@
 ---
 title: "Was kostet ein Staffordshire Bull Terrier Welpe 2026"
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 articolo: true
 image: "/images/blog/scontrino-farmaci-cucciolata.webp"
 og_image: "/images/og/schede/de/was-kostet-ein-staffordshire-bull-terrier-welpe.jpg"
@@ -44,7 +44,7 @@ date: 2026-01-25
 
 Der Preis eines Staffordshire Bull Terrier Welpen mit ENCI-Ahnentafel ist kein Listenpreis: Er ist die Summe von Kosten, die entstehen, bevor der Welpe geboren wird. Die Gentests der beiden Zuchthunde auf L2-HGA und HC werden einmal pro Hund bezahlt und gelten für das ganze Zuchtleben. Die Eintragung des Wurfs ins ENCI-Zuchtbuch hat öffentliche Gebühren, für alle gleich. Dazu kommen die tierärztlichen Kontrollen während der Trächtigkeit, der Ultraschall um den fünfundzwanzigsten Tag, das Röntgenbild vor der Geburt, die ersten Impfungen, die Entwurmungen und der Mikrochip. In der Zucht Del Piccolo Diavolo in Ostellato, Italien, kostet ein Wurf mit sechs Welpen rund 2.000 Euro vor Impfungen und Mikrochip, und über 4.000 mit einem Deckrüden im Ausland und einem Kaiserschnitt. Ein sehr niedriger Preis bedeutet fast immer, dass etwas fehlt: die Tests, die Ahnentafel oder Welpen, die vor den gesetzlich vorgeschriebenen 60 Tagen von der Mutter getrennt wurden.
 
-Die kurze Antwort: **es gibt keine Preisliste, und das ist auch richtig so**. Beurteilen lässt sich, was im Preis steckt, wenn Sie bei einer seriösen Zucht mit ENCI-Ahnentafel, Gentests und vollständigen Garantien kaufen.
+Die kurze Antwort: **es gibt keine Preisliste, und das ist auch richtig so**. Beurteilen lässt sich, was im Preis steckt, wenn Sie bei einer Zucht, die gut arbeitet, mit ENCI-Ahnentafel, Gentests und vollständigen Garantien kaufen.
 
 Wenn Ihnen Staffordshire Bull Terrier Welpen für wenige hundert Euro angeboten werden, halten Sie inne und fragen Sie sich, was fehlt. Fast immer zahlen Sie das, was Sie jetzt sparen, später beim Tierarzt.
 
@@ -87,7 +87,7 @@ Beim Kauf von einer verantwortungsvollen Zucht sind enthalten:
 </tbody>
 </table>
 
-Nichts davon ist optional. Es ist das Minimum, das eine seriöse Zucht garantieren muss.
+Nichts davon ist optional. Es ist das Minimum, das eine Zucht, die gut arbeitet, garantieren muss.
 
 <!--/BLOCCO:2-->
 
@@ -277,9 +277,9 @@ Wenn auch nur eines dieser Zeichen vorliegt: gehen Sie.
 
 <!--BLOCCO:7-->
 
-## Was eine seriöse Zucht tatsächlich wert ist
+## Was eine Zucht, die gut arbeitet, tatsächlich wert ist
 
-Bei einer seriösen Zucht bekommen Sie außer dem Welpen:
+Bei einer Zucht, die gut arbeitet, bekommen Sie außer dem Welpen:
 
 **Erfahrung mit der Rasse.** Jahre der Selektion, des Studiums von Ahnentafeln, der Kenntnis von Blutlinien. Das Wissen, Wesen zusammenzuführen und vorherzusehen, wie Welpen sich entwickeln.
 

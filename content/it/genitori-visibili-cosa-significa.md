@@ -45,7 +45,7 @@ custom_content: |
   <!--BLOCCO:2-->
   <h2>Quello che si dovrebbe leggere &egrave; &laquo;madre visibile&raquo;</h2>
 
-  <p>La madre c'&egrave; sempre, perch&eacute; i cuccioli sono nati l&igrave;. Il padre spesso no, e non per reticenza: perch&eacute; un programma di allevamento serio, il maschio, lo va a cercare fuori.</p>
+  <p>La madre c'&egrave; sempre, perch&eacute; i cuccioli sono nati l&igrave;. Il padre spesso no, e non per reticenza: perch&eacute; un programma di allevamento fatto per bene, il maschio, lo va a cercare fuori.</p>
 
   <p>Quando si pianifica un accoppiamento non si sceglie il cane pi&ugrave; comodo: si cerca il soggetto che corregge quello che manca alla femmina. Si guardano i test genetici, il coefficiente di consanguineit&agrave; teorico della cucciolata, la compatibilit&agrave; fenotipica: struttura, testa, movimento. E i soggetti che rispondono a quei requisiti, nel panorama internazionale della razza, <strong>si contano</strong>. Sono pochi, e stanno a chilometri di distanza.</p>
 

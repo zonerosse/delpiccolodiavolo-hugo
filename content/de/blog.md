@@ -115,7 +115,7 @@ custom_content: |
   </div>
   </article>
   <article class="blog-card">
-  <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Lesen: Wie man eine Zucht erkennt, die gut arbeitet"><div class="blog-card-thumb"><img alt="Staffordshire Bull Terrier Welpen im Gras einer seriösen Zucht" decoding="async" height="188" loading="lazy" src="/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier.webp" width="300"/></div></a>
+  <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Lesen: Wie man eine Zucht erkennt, die gut arbeitet"><div class="blog-card-thumb"><img alt="Staffordshire Bull Terrier Welpen im Gras einer Zucht, die gut arbeitet" decoding="async" height="188" loading="lazy" src="/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier.webp" width="300"/></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Jan 2026</span><span>•</span><span class="cat">Welpen</span></div>
   <h3><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Lesen: Wie man eine Zucht erkennt, die gut arbeitet">Wie man eine Zucht erkennt, die gut arbeitet</a></h3>

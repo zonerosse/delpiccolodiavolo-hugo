@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier colours: black, brindle, blue and more"
 date: 2026-08-01
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 titleSeo: "Staffordshire Bull Terrier colours: black, brindle, blue"
 translationKey: "colori"
 articolo: true
@@ -125,7 +125,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3 class="faq-question">Is black and tan permitted?</h3>
-  <div class="faq-answer">It is a colour that is not wanted: the FCI standard calls it, together with liver, <strong>highly undesirable</strong>, and the reason is not aesthetic: those colours are historically associated with crosses to other breeds, so their presence casts doubt on the purity of the line. A black and tan puppy can still be born to two pedigree parents, because the gene can stay hidden for generations, and such a dog is no less healthy and no less affectionate: it is simply <strong>penalised in the show ring, and a kennel that breeds to the standard does not use it for breeding</strong>. A serious breeder says so openly instead of selling it as a rare colour at a premium, which is exactly what happens elsewhere.</div>
+  <div class="faq-answer">It is a colour that is not wanted: the FCI standard calls it, together with liver, <strong>highly undesirable</strong>, and the reason is not aesthetic: those colours are historically associated with crosses to other breeds, so their presence casts doubt on the purity of the line. A black and tan puppy can still be born to two pedigree parents, because the gene can stay hidden for generations, and such a dog is no less healthy and no less affectionate: it is simply <strong>penalised in the show ring, and a kennel that breeds to the standard does not use it for breeding</strong>. A breeder who does things properly says so openly instead of selling it as a rare colour at a premium, which is exactly what happens elsewhere.</div>
   </div>
 
   <div class="faq-item">

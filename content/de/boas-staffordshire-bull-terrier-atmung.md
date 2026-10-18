@@ -1,7 +1,7 @@
 ---
 title: "BOAS beim Staffordshire Bull Terrier: warum die Atmung zählt"
 date: 2025-12-28
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 titleSeo: "BOAS beim Staffordshire Bull Terrier: die Atmung"
 translationKey: "boas"
 articolo: true
@@ -192,7 +192,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3>Überprüfen Sie die Umgebung</h3>
-  <p>Welpen, die in heißen, schlecht belüfteten Umgebungen aufgezogen werden, könnten Atemprobleme verbergen. Ein seriöser Züchter wird Ihnen zeigen, wo die Hunde leben und wie er ihr Wohlergehen handhabt.</p>
+  <p>Welpen, die in heißen, schlecht belüfteten Umgebungen aufgezogen werden, könnten Atemprobleme verbergen. Ein Züchter, der gut arbeitet, wird Ihnen zeigen, wo die Hunde leben und wie er ihr Wohlergehen handhabt.</p>
   </div>
   </div>
   </section>

@@ -115,7 +115,7 @@ custom_content: |
   </div>
   </article>
   <article class="blog-card">
-  <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Read: How to recognise a breeder who does things properly"><div class="blog-card-thumb"><img alt="Staffordshire Bull Terrier puppies in the grass at a serious kennel" decoding="async" height="188" loading="lazy" src="/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier.webp" width="300"/></div></a>
+  <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Read: How to recognise a breeder who does things properly"><div class="blog-card-thumb"><img alt="Staffordshire Bull Terrier puppies in the grass at a kennel that does things properly" decoding="async" height="188" loading="lazy" src="/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier.webp" width="300"/></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Jan 2026</span><span>•</span><span class="cat">Puppies</span></div>
   <h3><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Read: How to recognise a breeder who does things properly">How to recognise a breeder who does things properly</a></h3>

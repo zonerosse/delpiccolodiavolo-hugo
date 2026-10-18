@@ -45,7 +45,7 @@ custom_content: |
   <!--BLOCCO:2-->
   <h2>Richtig hieße es &bdquo;Mutter vor Ort&ldquo;</h2>
 
-  <p>Die Mutter ist immer da, weil die Welpen dort geboren wurden. Der Vater oft nicht, und das nicht aus Zurückhaltung: ein ernsthaftes Zuchtprogramm sucht den Rüden draußen.</p>
+  <p>Die Mutter ist immer da, weil die Welpen dort geboren wurden. Der Vater oft nicht, und das nicht aus Zurückhaltung: ein gut geführtes Zuchtprogramm sucht den Rüden draußen.</p>
 
   <p>Bei der Planung einer Verpaarung wählt man nicht den bequemsten Hund, sondern den, der ausgleicht, was der Hündin fehlt. Man prüft die Gentests, den theoretischen Inzuchtkoeffizienten des Wurfs, die strukturelle Passung: Bau, Kopf, Bewegung. Und die Hunde, die diesen Anforderungen international genügen, <strong>kann man zählen</strong>. Es sind wenige, und sie leben weit weg.</p>
 

@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier: è il cane giusto per te? Pro e contro"
 date: 2026-08-01
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 titleSeo: "Staffordshire Bull Terrier: è il cane giusto per te?"
 translationKey: "cane-giusto"
 articolo: true
@@ -140,7 +140,7 @@ custom_content: |
   <li><strong>Compagnia:</strong> non più di 4-6 ore da solo in modo continuativo, meno da cucciolo</li>
   <li><strong>Educazione:</strong> costanza quotidiana i primi mesi; consigliato un corso di base</li>
   <li><strong>Cure del pelo:</strong> minime (una spazzolata a settimana)</li>
-  <li><strong>Costo del cucciolo:</strong> da un allevamento serio con pedigree ENCI e test genetici: <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Prezzo di un cucciolo di Staffordshire Bull Terrier">ecco cosa comprende il prezzo di un cucciolo di Staffy</a></li>
+  <li><strong>Costo del cucciolo:</strong> da un allevamento che fa le cose per bene, con pedigree ENCI e test genetici: <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Prezzo di un cucciolo di Staffordshire Bull Terrier">ecco cosa comprende il prezzo di un cucciolo di Staffy</a></li>
   <li><strong>Mantenimento:</strong> cibo di qualità, veterinario, antiparassitari; la razza non ha esigenze particolari oltre la norma</li>
   </ul>
   <!--/BLOCCO:7-->

@@ -7,7 +7,7 @@ image: "/images/blog/cucciolata-erba.avif"
 og_image: "/images/og/schede/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht.jpg"
 og_image_alt: "Eine Staffy-Zucht erkennen, die gut arbeitet — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier.webp"
-description: "Acht Kriterien, um eine seriöse Staffordshire Bull Terrier Zucht zu erkennen, jedes mit der Art, es zu überprüfen. Mit unseren eigenen Unterlagen als Beispiel."
+description: "Acht Kriterien, um eine Staffordshire Bull Terrier Zucht zu erkennen, die gut arbeitet, und wie man jedes prüft. Mit unseren eigenen Unterlagen als Beispiel."
 slug: "wie-waehlt-man-eine-staffordshire-bull-terrier-zucht"
 date: 2026-01-18
 lastmod: 2026-10-18
@@ -49,7 +49,7 @@ lastmod: 2026-10-18
 <div class="section-inner content-single">
 
 
-<p>Um eine seriöse Staffordshire Bull Terrier Zucht zu erkennen, muss man niemandem vertrauen: man muss wissen, wo man nachsieht. Gentest-Befunde gelten nur, wenn sie die Mikrochipnummer des Hundes tragen, sonst lassen sie sich keinem Tier zuordnen. <a href="/de/wie-man-eine-ahnentafel-liest/" title="Ahnentafel lesen: was die ENCI zeigt und was nicht">Die Ahnen lassen sich auf SBTPedigree prüfen</a>, dem internationalen Archiv der Rasse. Wie viele Würfe eine Hündin hatte, steht im Zuchtbuch des ENCI, wiederum ausgehend vom Mikrochip. Ausstellungstitel stehen in öffentlichen Katalogen, mit dem Namen des Richters. Einen Welpen vor dem 60. Lebenstag von der Mutter zu trennen ist in Italien gesetzlich verboten, und ins Ausland gehen Welpen später, weil sie die Tollwutimpfung brauchen. Acht Kriterien, jedes mit dem Weg, es zu prüfen: Sie gelten für die Zucht Del Piccolo Diavolo in Ostellato (Italien) genauso wie für jede andere.</p>
+<p>Um eine Staffordshire Bull Terrier Zucht zu erkennen, die gut arbeitet, muss man niemandem vertrauen: man muss wissen, wo man nachsieht. Gentest-Befunde gelten nur, wenn sie die Mikrochipnummer des Hundes tragen, sonst lassen sie sich keinem Tier zuordnen. <a href="/de/wie-man-eine-ahnentafel-liest/" title="Ahnentafel lesen: was die ENCI zeigt und was nicht">Die Ahnen lassen sich auf SBTPedigree prüfen</a>, dem internationalen Archiv der Rasse. Wie viele Würfe eine Hündin hatte, steht im Zuchtbuch des ENCI, wiederum ausgehend vom Mikrochip. Ausstellungstitel stehen in öffentlichen Katalogen, mit dem Namen des Richters. Einen Welpen vor dem 60. Lebenstag von der Mutter zu trennen ist in Italien gesetzlich verboten, und ins Ausland gehen Welpen später, weil sie die Tollwutimpfung brauchen. Acht Kriterien, jedes mit dem Weg, es zu prüfen: Sie gelten für die Zucht Del Piccolo Diavolo in Ostellato (Italien) genauso wie für jede andere.</p>
 
 <p>Fast jede Zucht sagt dasselbe: getestete Hunde, Welpen im Haus aufgezogen, sorgfältige Selektion. Solche Aussagen kosten nichts, solange sie niemand prüft, und wer den ersten Welpen sucht, weiß selten, wo das Prüfen anfängt.</p>
 

@@ -45,7 +45,7 @@ custom_content: |
   <!--BLOCCO:2-->
   <h2>What it should say is &ldquo;dam on site&rdquo;</h2>
 
-  <p>The dam is always there, because the puppies were born there. The sire often is not, and not out of reticence: a serious breeding programme goes looking for the male outside.</p>
+  <p>The dam is always there, because the puppies were born there. The sire often is not, and not out of reticence: a breeding programme done properly goes looking for the male outside.</p>
 
   <p>When a mating is planned you do not choose the most convenient dog: you look for the one that corrects what the bitch lacks. You look at the genetic tests, at the theoretical inbreeding coefficient of the litter, at structural compatibility: build, head, movement. And the dogs that meet those requirements, across the breed internationally, <strong>can be counted</strong>. There are few of them, and they are far away.</p>
 

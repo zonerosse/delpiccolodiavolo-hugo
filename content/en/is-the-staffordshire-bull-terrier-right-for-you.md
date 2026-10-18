@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier: is it the right dog for you? Pros and cons"
 date: 2026-08-01
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 titleSeo: "Staffordshire Bull Terrier: is it the right dog for you?"
 translationKey: "cane-giusto"
 articolo: true
@@ -142,7 +142,7 @@ custom_content: |
   <li><strong>Company:</strong> no more than 4-6 hours alone at a stretch, less as a puppy</li>
   <li><strong>Training:</strong> daily consistency in the first months; a basic course is recommended</li>
   <li><strong>Coat care:</strong> minimal (a brush once a week)</li>
-  <li><strong>Puppy cost:</strong> from a serious kennel with ENCI pedigree and genetic tests: <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="Price of a Staffordshire Bull Terrier puppy">here is what the price of a Staffy puppy includes</a></li>
+  <li><strong>Puppy cost:</strong> from a kennel that does things properly, with ENCI pedigree and genetic tests: <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="Price of a Staffordshire Bull Terrier puppy">here is what the price of a Staffy puppy includes</a></li>
   <li><strong>Upkeep:</strong> quality food, vet, parasite control; the breed has no particular needs beyond the norm</li>
   </ul>
   <!--/BLOCCO:7-->

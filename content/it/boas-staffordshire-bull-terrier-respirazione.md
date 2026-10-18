@@ -1,7 +1,7 @@
 ---
 title: "BOAS nello Staffordshire Bull Terrier: perché la respirazione conta"
 date: 2025-12-28
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 titleSeo: "BOAS nello Staffordshire Bull Terrier: la respirazione"
 translationKey: "boas"
 articolo: true
@@ -192,7 +192,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3>Verifica l'ambiente</h3>
-  <p>I cuccioli cresciuti in ambienti caldi e poco ventilati potrebbero nascondere problemi respiratori. Un allevatore serio ti mostrerà dove vivono i cani e come gestisce il loro benessere.</p>
+  <p>I cuccioli cresciuti in ambienti caldi e poco ventilati potrebbero nascondere problemi respiratori. Un allevatore che fa le cose per bene ti mostrerà dove vivono i cani e come gestisce il loro benessere.</p>
   </div>
   </div>
   </section>

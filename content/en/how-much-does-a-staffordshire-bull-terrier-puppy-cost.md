@@ -1,6 +1,6 @@
 ---
 title: "How much does a Staffordshire Bull Terrier puppy cost in 2026"
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 articolo: true
 image: "/images/blog/scontrino-farmaci-cucciolata.webp"
 og_image: "/images/og/schede/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost.jpg"
@@ -44,7 +44,7 @@ date: 2026-01-25
 
 The price of a Staffordshire Bull Terrier puppy with an ENCI pedigree is not a list price: it is the sum of costs that exist before the puppy is born. Genetic tests on the two breeding dogs for L2-HGA and HC are paid once per dog and hold for the whole of their breeding career. Registering the litter in the ENCI stud book has public fees, the same for everyone. On top of these come the vet checks during pregnancy, the ultrasound around day twenty-five, the X-ray before whelping, the first vaccinations, worming and the microchip. At the Del Piccolo Diavolo kennel in Ostellato, Italy, a litter of six puppies costs about 2,000 euros before vaccinations and microchips, and over 4,000 with a stud dog abroad and a caesarean. A very low price almost always means something is missing: the tests, the pedigree, or puppies separated from their mother before the 60 days required by Italian law.
 
-The short answer: **there is no price list, and that is as it should be**. What you can assess is what sits inside the price when you buy from a serious breeder with an ENCI pedigree, genetic testing and full guarantees.
+The short answer: **there is no price list, and that is as it should be**. What you can assess is what sits inside the price when you buy from a breeder who does things properly, with an ENCI pedigree, genetic testing and full guarantees.
 
 If you come across Staffordshire Bull Terrier puppies advertised for a few hundred euros, stop and ask yourself what is missing. Almost always, what you save now you pay later, at the vet.
 
@@ -87,7 +87,7 @@ When you buy from a responsible breeder, the price covers:
 </tbody>
 </table>
 
-None of this is optional. It is the minimum a serious breeder has to guarantee.
+None of this is optional. It is the minimum a breeder who does things properly has to guarantee.
 
 <!--/BLOCCO:2-->
 
@@ -277,9 +277,9 @@ If even one of these signs is present, walk away.
 
 <!--BLOCCO:7-->
 
-## What a serious breeder is actually worth
+## What a breeder who does things properly is actually worth
 
-From a serious breeder, besides the puppy, you get:
+From a breeder who does things properly, besides the puppy, you get:
 
 **Experience in the breed.** Years of selection, of studying pedigrees, of knowing the bloodlines. Knowing how to match temperaments and anticipate how puppies will grow.
 

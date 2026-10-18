@@ -2,7 +2,7 @@
 title: "Cuccioli Staffordshire Bull Terrier"
 titleSeo: "Cuccioli Staffordshire Bull Terrier con test verificabili"
 date: 2025-12-28
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 tipoPagina: "CollectionPage"
 notte: true
 translationKey: "cuccioli"
@@ -250,7 +250,7 @@ custom_content: |
   <li>Guida all'alimentazione e alle cure</li>
   <li>Il nostro aiuto anche dopo l'affido, per tutta la vita del cane</li>
   </ul>
-  <p style="margin-top:1rem">Per sapere nel dettaglio cosa c'è dietro un cucciolo e come riconoscere un allevatore serio, leggi <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p>
+  <p style="margin-top:1rem">Per sapere nel dettaglio cosa c'è dietro un cucciolo e come riconoscere un allevatore che fa le cose per bene, leggi <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/" title="Quanto costa un cucciolo Staffordshire Bull Terrier">quanto costa un cucciolo Staffordshire Bull Terrier</a>.</p>
   </div>
 
   <div class="content-block">

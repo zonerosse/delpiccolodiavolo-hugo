@@ -7,7 +7,7 @@ translationKey: "socializzazione-affido"
 in_breve:
   - "«Cuccioli socializzati» **non vuol dire nulla** finché non si dice con cosa."
   - "Il periodo decisivo va **dalla 3ª alla 12ª settimana**: quando il cucciolo arriva a casa, metà del lavoro tocca alla famiglia."
-  - "Un allevatore serio dice anche **cosa non ha potuto fare**: traffico, bambini, altri animali, stare da solo."
+  - "Un allevatore che fa le cose per bene dice anche **cosa non ha potuto fare**: traffico, bambini, altri animali, stare da solo."
 articolo: true
 image: "/images/blog/socializzazione-cortile-hero.webp"
 og_image: "/images/og/schede/it/cuccioli-socializzati-cosa-vuol-dire.jpg"
@@ -44,7 +44,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>&laquo;Cuccioli socializzati&raquo; si legge in quasi tutti gli annunci. Come &laquo;genitori visibili&raquo;, non vuol dire nulla finch&eacute; non si dice <strong>con cosa</strong>. Il periodo in cui un cane impara cosa &egrave; normale va dalla terza alla dodicesima settimana di vita. Un cucciolo di Staffordshire Bull Terrier lascia l'allevamento fra i 60 e i 70 giorni, e a quel punto ne ha passate in casa cinque o sei su dieci. La met&agrave; pi&ugrave; importante del lavoro la far&agrave; la sua famiglia. Un allevatore serio dice cosa ha fatto, ma anche cosa non ha potuto fare. Di solito sono il traffico, i bambini se in allevamento non ce ne sono, gli altri animali e lo stare da solo, perch&eacute; in mezzo ai fratelli un cucciolo solo non ci sta mai. Guida a cura di Del Piccolo Diavolo, <a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento di Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
+  <p>&laquo;Cuccioli socializzati&raquo; si legge in quasi tutti gli annunci. Come &laquo;genitori visibili&raquo;, non vuol dire nulla finch&eacute; non si dice <strong>con cosa</strong>. Il periodo in cui un cane impara cosa &egrave; normale va dalla terza alla dodicesima settimana di vita. Un cucciolo di Staffordshire Bull Terrier lascia l'allevamento fra i 60 e i 70 giorni, e a quel punto ne ha passate in casa cinque o sei su dieci. La met&agrave; pi&ugrave; importante del lavoro la far&agrave; la sua famiglia. Un allevatore che fa le cose per bene dice cosa ha fatto, ma anche cosa non ha potuto fare. Di solito sono il traffico, i bambini se in allevamento non ce ne sono, gli altri animali e lo stare da solo, perch&eacute; in mezzo ai fratelli un cucciolo solo non ci sta mai. Guida a cura di Del Piccolo Diavolo, <a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento di Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
   <!--BLOCCO:2-->
   <h2>La finestra: cosa dice l'etologia</h2>
@@ -162,7 +162,7 @@ custom_content: |
   <li>In allevamento un cucciolo incontra <strong>la casa, le persone, gli altri cani della razza</strong>. Non la citt&agrave;, non il traffico, spesso non i bambini</li>
   <li>&laquo;Socializzato&raquo; senza un elenco non vuol dire niente: <strong>chiedi con cosa</strong></li>
   <li>Il lavoro che resta &egrave; quello che pesa di pi&ugrave;, e lo fa la famiglia</li>
-  <li>Un allevatore serio ti dice <strong>anche cosa non ha potuto fare</strong></li>
+  <li>Un allevatore che fa le cose per bene ti dice <strong>anche cosa non ha potuto fare</strong></li>
   </ul>
 
   <a class="rimando" href="/cuccioli-staffordshire-bull-terrier/">

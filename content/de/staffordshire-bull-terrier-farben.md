@@ -1,7 +1,7 @@
 ---
 title: "Farben des Staffordshire Bull Terrier: Schwarz, Gestromt, Blau und mehr"
 date: 2026-08-01
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 titleSeo: "Farben des Staffordshire Bull Terrier: Schwarz, Gestromt"
 translationKey: "colori"
 articolo: true
@@ -125,7 +125,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3 class="faq-question">Ist Black and Tan erlaubt?</h3>
-  <div class="faq-answer">Es ist eine unerwünschte Farbe: Der FCI-Standard nennt es, zusammen mit Leberfarben, <strong>höchst unerwünscht</strong>, und der Grund ist nicht ästhetisch: diese Farben sind historisch mit Einkreuzungen anderer Rassen verbunden, ihr Auftreten stellt also die Reinheit der Linie infrage. Ein solcher Welpe kann dennoch aus zwei Elterntieren mit Ahnentafel fallen, weil das Gen über Generationen verborgen bleiben kann, und er ist dann nicht weniger gesund und nicht weniger liebenswert: er <strong>wird im Ausstellungsring bestraft, und eine Zucht, die nach dem Standard selektiert, setzt ihn nicht in der Zucht ein</strong>. Eine seriöse Zucht sagt das offen, statt ihn als seltene Farbe teurer zu verkaufen.</div>
+  <div class="faq-answer">Es ist eine unerwünschte Farbe: Der FCI-Standard nennt es, zusammen mit Leberfarben, <strong>höchst unerwünscht</strong>, und der Grund ist nicht ästhetisch: diese Farben sind historisch mit Einkreuzungen anderer Rassen verbunden, ihr Auftreten stellt also die Reinheit der Linie infrage. Ein solcher Welpe kann dennoch aus zwei Elterntieren mit Ahnentafel fallen, weil das Gen über Generationen verborgen bleiben kann, und er ist dann nicht weniger gesund und nicht weniger liebenswert: er <strong>wird im Ausstellungsring bestraft, und eine Zucht, die nach dem Standard selektiert, setzt ihn nicht in der Zucht ein</strong>. Eine Zucht, die gut arbeitet, sagt das offen, statt ihn als seltene Farbe teurer zu verkaufen.</div>
   </div>
 
   <div class="faq-item">

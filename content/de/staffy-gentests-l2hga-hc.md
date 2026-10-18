@@ -2,7 +2,7 @@
 title: "Gentests L2-HGA, HC (HSF4) und DM (SOD1) für Staffordshire Bull Terrier"
 titleSeo: "Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)"
 date: 2025-11-20
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "test-genetici"
 in_breve:
   - "Der Staffy hat **drei Erbkrankheiten mit DNA-Test**: L2-HGA, erblichen Katarakt (HC) und degenerative Myelopathie (DM)."
@@ -102,7 +102,7 @@ custom_content: |
   <!--BLOCCO:6-->
   <h2>Wie die Tests funktionieren</h2>
   <p>Die Tests basieren auf DNA und sind unkompliziert. Ein Wangenabstrich oder eine kleine Blutprobe wird entnommen, idealerweise vom Tierarzt, der zugleich den Mikrochip des Hundes überprüft, damit die Probe eindeutig diesem Tier zugeordnet ist, und an ein akkreditiertes Labor geschickt. Das Ergebnis liegt nach 2 bis 4 Wochen vor und gilt lebenslang: die DNA verändert sich nicht, ein Hund wird einmal getestet und nie wieder.</p>
-  <p>Die Kosten unterscheiden sich je nach Labor und Land, für beide Tests zusammen sind etwa 120 Euro für das Genpaket im Labor; rechnet man Blutentnahme, Versand und den Test auf degenerative Myelopathie (SOD1) hinzu, sind es rund 400 Euro pro Hund realistisch. Verglichen mit den Kosten einer lebenslangen antikonvulsiven Behandlung oder einer Kataraktoperation ist das eine unbedeutende Summe. Deshalb betrachtet kein ernsthafter Züchter diese Ausgabe als freiwillig.</p>
+  <p>Die Kosten unterscheiden sich je nach Labor und Land, für beide Tests zusammen sind etwa 120 Euro für das Genpaket im Labor; rechnet man Blutentnahme, Versand und den Test auf degenerative Myelopathie (SOD1) hinzu, sind es rund 400 Euro pro Hund realistisch. Verglichen mit den Kosten einer lebenslangen antikonvulsiven Behandlung oder einer Kataraktoperation ist das eine unbedeutende Summe. Deshalb betrachtet kein Züchter, der gut arbeitet, diese Ausgabe als freiwillig.</p>
 
     <h3>Wo getestet wird</h3>
   <p>Der Test auf L2-HGA und erblichen Katarakt ist international anerkannt: Der britische <a href="https://www.thekennelclub.org.uk/health-and-dog-care/health/health-and-care/az-of-health-and-care-issues/dna-testing-schemes/" target="_blank" rel="noopener" title="Kennel Club DNA testing schemes" aria-label="Kennel Club, DNA-Testprogramme (wird in einem neuen Tab geöffnet)">Kennel Club</a> führt ihn in seinen offiziellen Programmen für den Staffy, und ein Befund aus einem akkreditierten Labor gilt in ganz Europa.</p>
@@ -160,14 +160,14 @@ custom_content: |
   <img src="/images/cucciolo-rosso.webp" alt="Gesunder Staffordshire Bull Terrier Welpe" loading="lazy" decoding="async" width="280" height="320">
   <figcaption>Ein gesunder Welpe von getesteten Eltern</figcaption>
   </figure>
-  <p>Verlangen Sie die Laborzertifikate beider Elterntiere als Dokument, mit lesbaren Namen der Hunde, Mikrochipnummern und Laborangabe: Ein akkreditiertes Labor und ein Mikrochip, der zum Hund passt, machen einen Befund erst gültig. Ein seriöser Züchter schickt sie ohne Zögern und oft, bevor Sie fragen.</p>
+  <p>Verlangen Sie die Laborzertifikate beider Elterntiere als Dokument, mit lesbaren Namen der Hunde, Mikrochipnummern und Laborangabe: Ein akkreditiertes Labor und ein Mikrochip, der zum Hund passt, machen einen Befund erst gültig. Ein Züchter, der gut arbeitet, schickt sie ohne Zögern und oft, bevor Sie fragen.</p>
   <p>Vorsicht ist geboten bei: der Formulierung "die Eltern sind gesund, wir hatten nie Probleme", die eine ganz andere Frage beantwortet; Zertifikaten, die Sie angeblich später erhalten; der Weigerung, Unterlagen zu zeigen, bevor der Welpe einzieht; Ergebnissen, die nur als Screenshot vorliegen; und der Behauptung, Tests seien überflüssig, "weil unsere Linien das nie hatten". Keine Linie ist von einer rezessiven Mutation ausgenommen, solange sie nicht getestet ist.</p>
   <p>Bei der Zucht Del Piccolo Diavolo sind die Zuchttiere getestet oder durch Abstammung frei, mit den Befunden der Eltern. Die Befunde mit Mikrochipnummer sind auf den Seiten der Hunde veröffentlicht.</p>
   <!--/BLOCCO:7-->
 
   <!--BLOCCO:9-->
   <h2>Über die beiden DNA-Tests hinaus</h2>
-  <p>Neben L2-HGA und HC führt eine seriöse Zucht weitere Gesundheitskontrollen an ihren Zuchttieren durch.</p>
+  <p>Neben L2-HGA und HC führt eine Zucht, die gut arbeitet, weitere Gesundheitskontrollen an ihren Zuchttieren durch.</p>
 
   <h3>Augenuntersuchung (ECVO)</h3>
   <p>Die <strong>ECVO</strong>-Augenuntersuchung (European College of Veterinary Ophthalmologists) ist eine klinische Kontrolle durch einen zertifizierten tierärztlichen Augenspezialisten. Anders als der HC-Gentest, der die Veranlagung erkennt, prüft die ECVO-Untersuchung den aktuellen Zustand der Augen.</p>
@@ -183,7 +183,7 @@ custom_content: |
   <p>Zunehmend wird auch die Atemqualität beurteilt. Der Staffordshire Bull Terrier ist keine brachyzephale Rasse, doch die Tendenz zu immer kürzeren Fängen in manchen Ausstellungslinien hat Folgen: Ein Hund, der bei Wärme oder nach mäßiger Bewegung Mühe hat, hat ein Wohlergehensproblem, wie gut er im Stand auch aussieht. Mehr dazu im Ratgeber zur <a href="/de/boas-staffordshire-bull-terrier-atmung/" title="BOAS und Atmung beim Staffordshire Bull Terrier">Atmung des Staffy</a>.</p>
 
   <div class="blue-box">
-  <p class="blue-box-title">📋 Gesundheits-Checkliste einer seriösen Zucht</p>
+  <p class="blue-box-title">📋 Gesundheits-Checkliste einer Zucht, die gut arbeitet</p>
   <p>✅ DNA-Test L2-HGA, beide Eltern frei<br>
   ✅ DNA-Test HC, beide Eltern frei<br>
   ✅ ECVO-Augenuntersuchung (jährlich empfohlen)<br>
@@ -231,12 +231,12 @@ custom_content: |
 
   <div class="faq-item">
   <h3>Muss der Test jedes Jahr wiederholt werden?</h3>
-  <div class="faq-answer">Nein, nie. Der Test liest die DNA des Hundes, und die verändert sich im Laufe des Lebens nicht: ein Hund, der mit sechs Monaten frei war, ist es mit zehn Jahren noch. Der Befund ist endgültig und deckt das ganze Zuchtleben ab. Das gilt für die eigentlichen Gentests (L2-HGA, hereditäre Katarakt und degenerative Myelopathie), nicht aber für die <strong>ECVO-Augenuntersuchung</strong>, die kein DNA-Test ist, sondern eine klinische Untersuchung: sie hält den Zustand des Auges in diesem Moment fest, und das offizielle Zeugnis gilt ein Jahr, bei einem Zuchthund sollte es also jährlich erneuert werden. Deshalb setzt eine seriöse Zucht auf DNA-Tests, die einmal gemacht werden und nie ablaufen. Nicht zu verwechseln ist beides mit der Freiheit durch Abstammung, die kein Test am Hund ist, sondern ein Schluss aus seinen Eltern.</div>
+  <div class="faq-answer">Nein, nie. Der Test liest die DNA des Hundes, und die verändert sich im Laufe des Lebens nicht: ein Hund, der mit sechs Monaten frei war, ist es mit zehn Jahren noch. Der Befund ist endgültig und deckt das ganze Zuchtleben ab. Das gilt für die eigentlichen Gentests (L2-HGA, hereditäre Katarakt und degenerative Myelopathie), nicht aber für die <strong>ECVO-Augenuntersuchung</strong>, die kein DNA-Test ist, sondern eine klinische Untersuchung: sie hält den Zustand des Auges in diesem Moment fest, und das offizielle Zeugnis gilt ein Jahr, bei einem Zuchthund sollte es also jährlich erneuert werden. Deshalb setzt eine Zucht, die gut arbeitet, auf DNA-Tests, die einmal gemacht werden und nie ablaufen. Nicht zu verwechseln ist beides mit der Freiheit durch Abstammung, die kein Test am Hund ist, sondern ein Schluss aus seinen Eltern.</div>
   </div>
 
   <div class="faq-item">
   <h3>Kann ich einen Welpen testen lassen, den ich gerade nach Hause geholt habe?</h3>
-  <div class="faq-answer">Ja, der Test ist in jedem Alter möglich, schon mit wenigen Wochen, denn ein Speichelabstrich oder eine Blutprobe genügt. Stammt der Welpe aber aus einer seriösen Zucht, ist er nicht nötig: Sie sollten die Befunde beider Eltern schon haben, und daraus ergibt sich der Status des Welpen. Sind beide Eltern frei, ist der Welpe frei durch Abstammung und kann nicht erkranken. Ein direkter Test ist in drei Fällen sinnvoll: wenn die Befunde der Eltern fehlen oder keine Mikrochipnummer tragen, wenn der Welpe eines Tages in die Zucht gehen soll (denn die Freiheit durch Abstammung sichert die Gesundheit, reicht aber nicht, um eine Verpaarung zu planen), oder wenn Symptome auftreten, die der Tierarzt ausschließen will.</div>
+  <div class="faq-answer">Ja, der Test ist in jedem Alter möglich, schon mit wenigen Wochen, denn ein Speichelabstrich oder eine Blutprobe genügt. Stammt der Welpe aber aus einer Zucht, die gut arbeitet, ist er nicht nötig: Sie sollten die Befunde beider Eltern schon haben, und daraus ergibt sich der Status des Welpen. Sind beide Eltern frei, ist der Welpe frei durch Abstammung und kann nicht erkranken. Ein direkter Test ist in drei Fällen sinnvoll: wenn die Befunde der Eltern fehlen oder keine Mikrochipnummer tragen, wenn der Welpe eines Tages in die Zucht gehen soll (denn die Freiheit durch Abstammung sichert die Gesundheit, reicht aber nicht, um eine Verpaarung zu planen), oder wenn Symptome auftreten, die der Tierarzt ausschließen will.</div>
   </div>
 
   <div class="faq-item">

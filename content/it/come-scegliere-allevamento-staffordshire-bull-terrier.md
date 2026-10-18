@@ -7,7 +7,7 @@ image: "/images/blog/cucciolata-erba.avif"
 og_image: "/images/og/schede/it/come-scegliere-allevamento-staffordshire-bull-terrier.jpg"
 og_image_alt: "Riconoscere un allevamento di Staffy che fa le cose per bene — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier.webp"
-description: "Otto criteri per riconoscere un allevamento Staffordshire Bull Terrier serio, ognuno con il modo di verificarlo. Con i nostri documenti come esempio."
+description: "Otto criteri per riconoscere un allevamento di Staffordshire Bull Terrier che fa le cose per bene, e come verificarli. Con i nostri documenti come esempio."
 slug: "come-scegliere-allevamento-staffordshire-bull-terrier"
 date: 2026-01-18
 lastmod: 2026-10-18
@@ -49,7 +49,7 @@ lastmod: 2026-10-18
 <div class="section-inner content-single">
 
 
-<p>Riconoscere un allevamento serio di Staffordshire Bull Terrier non richiede di fidarsi di nessuno: richiede di sapere dove guardare. I referti dei test genetici valgono solo se riportano il numero di microchip del cane, altrimenti non sono collegabili a nessun animale. <a href="/come-si-legge-un-pedigree/" title="Come si legge un pedigree">Le genealogie si consultano su SBTPedigree</a>, l'archivio internazionale della razza. Il numero di cucciolate di una femmina si controlla sul libro genealogico ENCI, sempre partendo dal microchip. I titoli in esposizione risultano dai cataloghi pubblici, con il nome del giudice. Separare un cucciolo dalla madre prima dei 60 giorni è vietato dalla legge italiana, e per l'estero i tempi si allungano perché serve l'antirabbica. Otto criteri, e per ognuno il modo di verificarlo: valgono sull'allevamento Del Piccolo Diavolo di Ostellato (FE) come su qualunque altro.</p>
+<p>Riconoscere un allevamento di Staffordshire Bull Terrier che fa le cose per bene non richiede di fidarsi di nessuno: richiede di sapere dove guardare. I referti dei test genetici valgono solo se riportano il numero di microchip del cane, altrimenti non sono collegabili a nessun animale. <a href="/come-si-legge-un-pedigree/" title="Come si legge un pedigree">Le genealogie si consultano su SBTPedigree</a>, l'archivio internazionale della razza. Il numero di cucciolate di una femmina si controlla sul libro genealogico ENCI, sempre partendo dal microchip. I titoli in esposizione risultano dai cataloghi pubblici, con il nome del giudice. Separare un cucciolo dalla madre prima dei 60 giorni è vietato dalla legge italiana, e per l'estero i tempi si allungano perché serve l'antirabbica. Otto criteri, e per ognuno il modo di verificarlo: valgono sull'allevamento Del Piccolo Diavolo di Ostellato (FE) come su qualunque altro.</p>
 
 <p>Quasi tutti gli allevamenti dicono le stesse cose: cani testati, cuccioli cresciuti in casa, selezione attenta. Sono affermazioni gratuite finché nessuno le controlla, e chi cerca il primo cucciolo raramente sa da dove cominciare a controllare.</p>
 

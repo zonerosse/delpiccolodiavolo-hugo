@@ -2,7 +2,7 @@
 title: "Test genetici L2-HGA, HC (HSF4) e DM (SOD1) Staffordshire Bull Terrier"
 titleSeo: "Test genetici Staffy: L2-HGA, HC (HSF4) e DM (SOD1)"
 date: 2025-11-20
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "test-genetici"
 in_breve:
   - "Lo Staffy ha **tre malattie ereditarie con un test del DNA**: L2-HGA, cataratta ereditaria (HC) e mielopatia degenerativa (DM)."
@@ -65,7 +65,7 @@ custom_content: |
 
   <p>Questo significa che <strong>nessun cucciolo dovrebbe più nascere malato</strong> di L2-HGA o HC, a patto che l'allevatore faccia i test e pianifichi gli accoppiamenti correttamente. Purtroppo, non tutti gli allevatori (e tantomeno i "cagnari" improvvisati) seguono queste pratiche.</p>
 
-  <p>Per questo chi cerca un cucciolo di Staffy deve sapere cosa chiedere e come leggere i risultati dei test genetici. Una famiglia informata riconosce subito un allevatore serio da chi fa nascere cuccioli senza controlli.</p>
+  <p>Per questo chi cerca un cucciolo di Staffy deve sapere cosa chiedere e come leggere i risultati dei test genetici. Una famiglia informata riconosce subito un allevatore che fa le cose per bene da chi fa nascere cuccioli senza controlli.</p>
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
@@ -231,7 +231,7 @@ custom_content: |
   <figcaption>Cucciolo sano da genitori testati</figcaption>
   </figure>
 
-  <p>Chiedi i certificati di laboratorio di entrambi i genitori, come documenti, con il nome dei cani, il numero di microchip e il nome del laboratorio leggibili: sono il laboratorio accreditato e il microchip che corrisponde al cane a rendere valido un referto. Un allevatore serio li manda senza esitare, e spesso prima che tu li chieda.</p>
+  <p>Chiedi i certificati di laboratorio di entrambi i genitori, come documenti, con il nome dei cani, il numero di microchip e il nome del laboratorio leggibili: sono il laboratorio accreditato e il microchip che corrisponde al cane a rendere valido un referto. Un allevatore che fa le cose per bene li manda senza esitare, e spesso prima che tu li chieda.</p>
 
   <p>Diffida della frase «i genitori sono sani, non hanno mai avuto problemi», che risponde a un'altra domanda; dei certificati che arriveranno «dopo»; del rifiuto di mostrarli prima di prendere il cucciolo; dei risultati mostrati solo come screenshot o messaggio; e dell'idea che il test non serva «perché le nostre linee non l'hanno mai avuto». Nessuna linea è esente da una mutazione recessiva finché non viene testata.</p>
 
@@ -259,7 +259,7 @@ custom_content: |
   <!--BLOCCO:9-->
   <h2>Altri test e controlli sanitari</h2>
 
-  <p>Oltre a L2-HGA e HC, un allevamento serio effettua altri controlli sanitari sui riproduttori.</p>
+  <p>Oltre a L2-HGA e HC, un allevamento che fa le cose per bene effettua altri controlli sanitari sui riproduttori.</p>
 
   <h3>Controlli oculistici (ECVO)</h3>
 
@@ -346,12 +346,12 @@ custom_content: |
 
   <div class="faq-item">
   <h3 class="faq-question">Il test genetico va ripetuto ogni anno?</h3>
-  <div class="faq-answer">No, mai. Il test analizza il DNA del cane, che non cambia nel corso della vita: un soggetto risultato CLEAR a sei mesi sar&agrave; CLEAR anche a dieci anni. Il referto &egrave; definitivo e vale per tutta la carriera riproduttiva. Questo vale per le analisi genetiche vere e proprie (L2-HGA, cataratta ereditaria e mielopatia degenerativa), ma non per l'<strong>esame oculistico ECVO</strong>, che non &egrave; un test del DNA ma una visita clinica: fotografa lo stato dell'occhio in quel momento, e il certificato ufficiale vale un anno, per cui su un soggetto in riproduzione andrebbe ripetuto ogni anno. &Egrave; il motivo per cui un allevamento serio punta sui test del DNA, che si fanno una volta e non scadono. Un'altra cosa da non confondere &egrave; l'esenzione per discendenza: quella non &egrave; un test fatto sul cane, ma una deduzione dai genitori, e ha limiti che vale la pena conoscere.</div>
+  <div class="faq-answer">No, mai. Il test analizza il DNA del cane, che non cambia nel corso della vita: un soggetto risultato CLEAR a sei mesi sar&agrave; CLEAR anche a dieci anni. Il referto &egrave; definitivo e vale per tutta la carriera riproduttiva. Questo vale per le analisi genetiche vere e proprie (L2-HGA, cataratta ereditaria e mielopatia degenerativa), ma non per l'<strong>esame oculistico ECVO</strong>, che non &egrave; un test del DNA ma una visita clinica: fotografa lo stato dell'occhio in quel momento, e il certificato ufficiale vale un anno, per cui su un soggetto in riproduzione andrebbe ripetuto ogni anno. &Egrave; il motivo per cui un allevamento che fa le cose per bene punta sui test del DNA, che si fanno una volta e non scadono. Un'altra cosa da non confondere &egrave; l'esenzione per discendenza: quella non &egrave; un test fatto sul cane, ma una deduzione dai genitori, e ha limiti che vale la pena conoscere.</div>
   </div>
 
   <div class="faq-item">
   <h3 class="faq-question">Posso fare il test al mio cucciolo appena arrivato a casa?</h3>
-  <div class="faq-answer">S&igrave;, il test si pu&ograve; fare a qualsiasi et&agrave;, anche a poche settimane, perch&eacute; basta un tampone salivare o un prelievo di sangue. Ma se il cucciolo arriva da un allevamento serio non serve: dovresti gi&agrave; avere i referti dei due genitori, e da quelli si deduce la sua condizione. Se entrambi sono esenti, il cucciolo &egrave; esente per discendenza e non pu&ograve; essere malato. Il test diretto ha senso in tre casi: se i referti dei genitori mancano o non riportano il numero di microchip, se il cucciolo dovr&agrave; essere usato in riproduzione (perch&eacute; l'esenzione per discendenza vale per la salute ma non basta per programmare un accoppiamento &mdash; oppure se compaiono sintomi che il veterinario vuole escludere.</div>
+  <div class="faq-answer">S&igrave;, il test si pu&ograve; fare a qualsiasi et&agrave;, anche a poche settimane, perch&eacute; basta un tampone salivare o un prelievo di sangue. Ma se il cucciolo arriva da un allevamento che fa le cose per bene non serve: dovresti gi&agrave; avere i referti dei due genitori, e da quelli si deduce la sua condizione. Se entrambi sono esenti, il cucciolo &egrave; esente per discendenza e non pu&ograve; essere malato. Il test diretto ha senso in tre casi: se i referti dei genitori mancano o non riportano il numero di microchip, se il cucciolo dovr&agrave; essere usato in riproduzione (perch&eacute; l'esenzione per discendenza vale per la salute ma non basta per programmare un accoppiamento &mdash; oppure se compaiono sintomi che il veterinario vuole escludere.</div>
   </div>
 
   <div class="faq-item">

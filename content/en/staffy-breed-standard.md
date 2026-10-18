@@ -2,7 +2,7 @@
 title: "Staffy breed standard"
 date: 2025-02-12
 titleSeo: "Staffordshire Bull Terrier breed standard explained"
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "standard"
 in_breve:
   - "A Staffy is **typical when everything is in balance**: head, proportions, chest, bone, movement and temperament."
@@ -117,7 +117,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Which colours does the FCI standard allow?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">The standard allows <strong>red, fawn, white, black and blue</strong>, or any of these colours with white, plus any shade of <strong>brindle</strong> and brindle with white. It describes <strong>black and tan</strong> and <strong>liver</strong> as highly undesirable, colours generally attributed to outside blood, so their appearance raises doubts about a line. Merle does not exist in the breed: if it appears, it points to another breed in the background. A puppy of these colours is no less healthy or affectionate, but it is penalised in the show ring and a kennel that breeds to the standard does not breed from it, and a serious breeder says so openly instead of selling it as rare. The blue is permitted but is a dilute colour linked to possible skin problems, and careful breeders treat it with caution.
+  <div class="faq-answer">The standard allows <strong>red, fawn, white, black and blue</strong>, or any of these colours with white, plus any shade of <strong>brindle</strong> and brindle with white. It describes <strong>black and tan</strong> and <strong>liver</strong> as highly undesirable, colours generally attributed to outside blood, so their appearance raises doubts about a line. Merle does not exist in the breed: if it appears, it points to another breed in the background. A puppy of these colours is no less healthy or affectionate, but it is penalised in the show ring and a kennel that breeds to the standard does not breed from it, and a breeder who does things properly says so openly instead of selling it as rare. The blue is permitted but is a dilute colour linked to possible skin problems, and careful breeders treat it with caution.
   </div>
   </div>
 
@@ -132,7 +132,7 @@ custom_content: |
 
   <div class="faq-item active">
   <div class="faq-question">
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Which genetic tests should a serious breeder do?</h3>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Which genetic tests should a breeder who does things properly do?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">None are required by law, and it is worth saying clearly: a breeder who does not test is not breaking any rule. What exists is a shared standard of seriousness, which for this breed includes <strong>L2-HGA</strong>, <strong>hereditary cataract</strong> and <strong>degenerative myelopathy</strong>, all with DNA tests. The point is not the existence of the tests but whether they can be checked: a report only counts if it carries the dog's microchip number, the name of the laboratory and the date. Without the microchip it cannot be linked to any particular animal. On this site the breeding dogs' reports are published and downloadable, precisely so that anyone can check them without having to ask.

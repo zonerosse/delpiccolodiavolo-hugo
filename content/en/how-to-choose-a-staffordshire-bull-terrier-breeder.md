@@ -7,7 +7,7 @@ image: "/images/blog/cucciolata-erba.avif"
 og_image: "/images/og/schede/en/how-to-choose-a-staffordshire-bull-terrier-breeder.jpg"
 og_image_alt: "Recognising a Staffy breeder who does things properly — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier.webp"
-description: "Eight criteria for recognising a serious Staffordshire Bull Terrier breeder, each with the way to verify it. With our own documents as the worked example."
+description: "Eight criteria for recognising a Staffordshire Bull Terrier breeder who does things properly, and how to verify each. With our own documents as the worked example."
 slug: "how-to-choose-a-staffordshire-bull-terrier-breeder"
 date: 2026-01-18
 lastmod: 2026-10-18
@@ -49,7 +49,7 @@ lastmod: 2026-10-18
 <div class="section-inner content-single">
 
 
-<p>Recognising a serious Staffordshire Bull Terrier breeder does not require trusting anyone: it requires knowing where to look. Genetic test certificates are only valid if they carry the dog's microchip number, otherwise they cannot be tied to any animal. <a href="/en/how-to-read-a-pedigree/" title="How to read a pedigree: what ENCI shows and what it doesn't">Genealogies can be checked on SBTPedigree</a>, the breed's international archive. The number of litters a bitch has had is checked in the ENCI stud book, again starting from the microchip. Show titles appear in public catalogues, with the judge's name. Separating a puppy from its mother before 60 days of age is prohibited by Italian law, and puppies going abroad leave later because they need a rabies vaccination. Eight criteria, each with the way to check it: they apply to the Del Piccolo Diavolo kennel in Ostellato, Italy, as much as to any other.</p>
+<p>Recognising a Staffordshire Bull Terrier breeder who does things properly does not require trusting anyone: it requires knowing where to look. Genetic test certificates are only valid if they carry the dog's microchip number, otherwise they cannot be tied to any animal. <a href="/en/how-to-read-a-pedigree/" title="How to read a pedigree: what ENCI shows and what it doesn't">Genealogies can be checked on SBTPedigree</a>, the breed's international archive. The number of litters a bitch has had is checked in the ENCI stud book, again starting from the microchip. Show titles appear in public catalogues, with the judge's name. Separating a puppy from its mother before 60 days of age is prohibited by Italian law, and puppies going abroad leave later because they need a rabies vaccination. Eight criteria, each with the way to check it: they apply to the Del Piccolo Diavolo kennel in Ostellato, Italy, as much as to any other.</p>
 
 <p>Nearly every kennel says the same things: tested dogs, puppies raised indoors, careful selection. Those claims cost nothing until somebody checks them, and a first-time owner rarely knows where to start checking.</p>
 

@@ -2,7 +2,7 @@
 title: "Genetic testing L2-HGA, HC (HSF4) and DM (SOD1) for Staffordshire Bull Terrier"
 titleSeo: "Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)"
 date: 2025-11-20
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "test-genetici"
 in_breve:
   - "The Staffy has **three inherited diseases with a DNA test**: L2-HGA, hereditary cataract (HC) and degenerative myelopathy (DM)."
@@ -109,7 +109,7 @@ custom_content: |
   <!--BLOCCO:6-->
   <h2>How the tests work</h2>
   <p>The tests are DNA based and straightforward. A cheek swab or a small blood sample is taken, ideally by the veterinarian who also verifies the dog's microchip so that the sample is unambiguously linked to that animal, and sent to an accredited laboratory. The result arrives within 2 to 4 weeks and is valid for life: the DNA does not change, so a dog is tested once and never again.</p>
-  <p>Costs vary by laboratory and country, but for both tests together expect something in the region of around 120 euros for the genetic panel at the laboratory, rising to roughly 400 per dog once you add the veterinary sampling, the shipping and the degenerative myelopathy (SOD1) test. Compared with the cost of a lifetime of anticonvulsants, or of cataract surgery, or of the grief of a family, it is a trivial figure. It is also the reason no serious breeder considers it a discretionary expense.</p>
+  <p>Costs vary by laboratory and country, but for both tests together expect something in the region of around 120 euros for the genetic panel at the laboratory, rising to roughly 400 per dog once you add the veterinary sampling, the shipping and the degenerative myelopathy (SOD1) test. Compared with the cost of a lifetime of anticonvulsants, or of cataract surgery, or of the grief of a family, it is a trivial figure. It is also the reason no breeder who does things properly considers it a discretionary expense.</p>
 
     <h3>Where the testing is done</h3>
   <p>The test for L2-HGA and hereditary cataract is recognised internationally: the <a href="https://www.thekennelclub.org.uk/health-and-dog-care/health/health-and-care/az-of-health-and-care-issues/dna-testing-schemes/" target="_blank" rel="noopener" title="Kennel Club DNA testing schemes" aria-label="UK Kennel Club – Kennel Club DNA testing schemes (opens in a new tab)">UK Kennel Club</a> includes it in its official schemes for the Staffy, and a report from an accredited laboratory is valid all over Europe.</p>
@@ -167,14 +167,14 @@ custom_content: |
   <img src="/images/cucciolo-rosso.webp" alt="Healthy Staffordshire Bull Terrier puppy" loading="lazy" decoding="async" width="280" height="320">
   <figcaption>A healthy puppy from tested parents</figcaption>
   </figure>
-  <p>Ask for the laboratory certificates of both parents, as documents, with the dogs' names, microchip numbers and the laboratory's name legible: an accredited laboratory and a microchip that matches the dog are what make a report valid. A serious breeder sends them without hesitation and often before you ask.</p>
+  <p>Ask for the laboratory certificates of both parents, as documents, with the dogs' names, microchip numbers and the laboratory's name legible: an accredited laboratory and a microchip that matches the dog are what make a report valid. A breeder who does things properly sends them without hesitation and often before you ask.</p>
   <p>Be wary of any of the following: the phrase "the parents are healthy, they have never had problems", which addresses a different question entirely; certificates you are told you will receive later; a refusal to show the certificates before the puppy goes home; results shown only as a screenshot or a message; and the claim that testing is unnecessary "because our lines have never had it". No line is exempt from a recessive mutation until it is tested.</p>
   <p>At Del Piccolo Diavolo the breeding dogs are tested, or clear by parentage with their parents' reports. The reports, with the microchip number, are published on the dogs' pages.</p>
   <!--/BLOCCO:7-->
 
   <!--BLOCCO:9-->
   <h2>Beyond the two DNA tests</h2>
-  <p>Besides L2-HGA and HC, a serious kennel carries out other health checks on its breeding dogs.</p>
+  <p>Besides L2-HGA and HC, a kennel that does things properly carries out other health checks on its breeding dogs.</p>
 
   <h3>Eye examinations (ECVO)</h3>
   <p>The <strong>ECVO</strong> eye examination (European College of Veterinary Ophthalmologists) is a clinical check carried out by a certified veterinary ophthalmologist. Unlike the HC genetic test, which detects the predisposition, the ECVO examination checks the current state of the dog's eyes.</p>
@@ -190,7 +190,7 @@ custom_content: |
   <p>Increasingly, breathing quality is being assessed as well. The Staffordshire Bull Terrier is not a brachycephalic breed, but the tendency towards ever shorter muzzles in some show lines has consequences, and a dog that struggles in warm weather or after moderate exercise has a welfare problem regardless of how it looks standing still. More on this in the guide to <a href="/en/boas-staffordshire-bull-terrier-breathing/" title="BOAS and breathing in the Staffordshire Bull Terrier">breathing in the Staffy</a>.</p>
 
   <div class="blue-box">
-  <p class="blue-box-title">📋 Health checklist for a serious breeder</p>
+  <p class="blue-box-title">📋 Health checklist for a breeder who does things properly</p>
   <p>✅ L2-HGA DNA test, both parents CLEAR<br>
   ✅ HC DNA test, both parents CLEAR<br>
   ✅ ECVO eye examination (annual, recommended)<br>
@@ -238,12 +238,12 @@ custom_content: |
 
   <div class="faq-item">
   <h3>Does the test need repeating every year?</h3>
-  <div class="faq-answer">No, never. The test reads the dog's DNA, which does not change over its lifetime: a dog that came back clear at six months is still clear at ten years. The report is definitive and covers the whole breeding career. This applies to the genetic tests proper (L2-HGA, hereditary cataract and degenerative myelopathy), but not to the <strong>ECVO eye examination</strong>, which is not a DNA test but a clinical examination: it records the state of the eye at that moment, and the official certificate is valid for one year, so on a breeding dog it should be repeated every year. That is why a serious kennel relies on DNA tests, which are done once and never expire. One thing not to confuse with either is clearance by parentage, which is not a test performed on the dog but an inference from its parents.</div>
+  <div class="faq-answer">No, never. The test reads the dog's DNA, which does not change over its lifetime: a dog that came back clear at six months is still clear at ten years. The report is definitive and covers the whole breeding career. This applies to the genetic tests proper (L2-HGA, hereditary cataract and degenerative myelopathy), but not to the <strong>ECVO eye examination</strong>, which is not a DNA test but a clinical examination: it records the state of the eye at that moment, and the official certificate is valid for one year, so on a breeding dog it should be repeated every year. That is why a kennel that does things properly relies on DNA tests, which are done once and never expire. One thing not to confuse with either is clearance by parentage, which is not a test performed on the dog but an inference from its parents.</div>
   </div>
 
   <div class="faq-item">
   <h3>Can I test a puppy I have just brought home?</h3>
-  <div class="faq-answer">Yes, the test can be done at any age, even at a few weeks, since a saliva swab or blood sample is enough. But if the puppy comes from a serious breeder it is not needed: you should already have both parents' reports, and from those the puppy's status follows. If both parents are clear, the puppy is clear by parentage and cannot be affected. Direct testing makes sense in three cases: if the parents' reports are missing or carry no microchip number, if the puppy will one day be bred (because clearance by parentage covers health but is not enough for planning a mating), or if symptoms appear that the vet wants to rule out.</div>
+  <div class="faq-answer">Yes, the test can be done at any age, even at a few weeks, since a saliva swab or blood sample is enough. But if the puppy comes from a breeder who does things properly it is not needed: you should already have both parents' reports, and from those the puppy's status follows. If both parents are clear, the puppy is clear by parentage and cannot be affected. Direct testing makes sense in three cases: if the parents' reports are missing or carry no microchip number, if the puppy will one day be bred (because clearance by parentage covers health but is not enough for planning a mating), or if symptoms appear that the vet wants to rule out.</div>
   </div>
 
   <div class="faq-item">

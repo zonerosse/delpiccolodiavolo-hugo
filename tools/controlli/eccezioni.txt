@@ -36,3 +36,7 @@ sync | content/en/contact.md    # la pagina IT corrispondente e' la landing Emil
 sync | content/de/kontakt.md    # come sopra
 sync_data | content/en/contact.md    # come sopra: la data italiana cambia con la landing
 sync_data | content/de/kontakt.md    # come sopra
+# 18/10/2026: in italiano «allevamento serio» → «che fa le cose per bene»; in queste traduzioni la parola non c'era, nulla da cambiare
+sync_data | content/en/faq-staffordshire-bull-terrier.md
+sync_data | content/de/faq-staffordshire-bull-terrier.md
+sync_data | content/en/puppies-staffordshire-bull-terrier.md

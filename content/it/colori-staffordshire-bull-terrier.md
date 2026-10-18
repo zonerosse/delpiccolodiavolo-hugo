@@ -1,7 +1,7 @@
 ---
 title: "I colori dello Staffordshire Bull Terrier: nero, tigrato, blu e altri"
 date: 2026-08-01
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 titleSeo: "Colori dello Staffordshire Bull Terrier: nero, tigrato, blu"
 translationKey: "colori"
 articolo: true
@@ -124,7 +124,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3 class="faq-question">Il nero focato (black and tan) è ammesso?</h3>
-  <div class="faq-answer">&Egrave; un colore non desiderato: lo standard FCI lo definisce, insieme al fegato, <strong>altamente indesiderabile</strong>, e la ragione non &egrave; estetica: quelle colorazioni sono storicamente associate a incroci con altre razze, quindi la loro presenza mette in dubbio la purezza della linea. Un cucciolo nero focato pu&ograve; comunque nascere da due genitori con pedigree, perch&eacute; il gene pu&ograve; restare nascosto per generazioni, e in quel caso non &egrave; un cane meno sano n&eacute; meno amabile: semplicemente <strong>in esposizione viene penalizzato, e un allevamento che seleziona secondo lo standard non lo usa in riproduzione</strong>. Un allevamento serio lo dichiara apertamente invece di venderlo come colore raro a prezzo maggiorato, che &egrave; esattamente quello che succede in giro.</div>
+  <div class="faq-answer">&Egrave; un colore non desiderato: lo standard FCI lo definisce, insieme al fegato, <strong>altamente indesiderabile</strong>, e la ragione non &egrave; estetica: quelle colorazioni sono storicamente associate a incroci con altre razze, quindi la loro presenza mette in dubbio la purezza della linea. Un cucciolo nero focato pu&ograve; comunque nascere da due genitori con pedigree, perch&eacute; il gene pu&ograve; restare nascosto per generazioni, e in quel caso non &egrave; un cane meno sano n&eacute; meno amabile: semplicemente <strong>in esposizione viene penalizzato, e un allevamento che seleziona secondo lo standard non lo usa in riproduzione</strong>. Un allevamento che fa le cose per bene lo dichiara apertamente invece di venderlo come colore raro a prezzo maggiorato, che &egrave; esattamente quello che succede in giro.</div>
   </div>
 
   <div class="faq-item">

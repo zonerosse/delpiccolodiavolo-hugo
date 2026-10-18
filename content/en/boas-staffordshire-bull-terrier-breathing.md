@@ -1,7 +1,7 @@
 ---
 title: "BOAS in Staffordshire Bull Terriers: why breathing matters"
 date: 2025-12-28
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 titleSeo: "BOAS in the Staffordshire Bull Terrier: breathing"
 translationKey: "boas"
 articolo: true
@@ -192,7 +192,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3>Check the environment</h3>
-  <p>Puppies raised in hot, poorly ventilated environments might hide respiratory problems. A serious breeder will show you where the dogs live and how they manage their welfare.</p>
+  <p>Puppies raised in hot, poorly ventilated environments might hide respiratory problems. A breeder who does things properly will show you where the dogs live and how they manage their welfare.</p>
   </div>
   </div>
   </section>

@@ -1,7 +1,7 @@
 ---
 title: "Quanto costa un cucciolo di Staffordshire Bull Terrier nel 2026"
 date: 2026-01-25
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 articolo: true
 translationKey: "quanto-costa"
 image: "/images/blog/scontrino-farmaci-cucciolata.webp"
@@ -44,7 +44,7 @@ slug: "quanto-costa-cucciolo-staffordshire-bull-terrier"
 
 Il prezzo di un cucciolo di Staffordshire Bull Terrier con pedigree ENCI non è un listino: è la somma di costi che esistono prima che il cucciolo nasca. I test genetici dei due riproduttori per L2-HGA e HC si pagano una volta per cane e valgono per tutta la carriera riproduttiva. L'iscrizione della cucciolata al libro genealogico ENCI ha tariffe pubbliche, uguali per tutti. A queste si aggiungono le visite veterinarie durante la gravidanza, l'ecografia al venticinquesimo giorno, la radiografia prima del parto, le prime vaccinazioni, le sverminazioni e il microchip. All'allevamento Del Piccolo Diavolo, a Ostellato, una cucciolata di sei cuccioli costa circa 2.000 euro prima di vaccinazioni e microchip, e oltre 4.000 con uno stallone all'estero e un cesareo. Un prezzo molto basso quasi sempre significa che manca qualcosa: i test, il pedigree, o cuccioli separati dalla madre prima dei 60 giorni previsti dalla legge italiana.
 
-La risposta breve: **non esiste un listino, ed è giusto così**. Quello che puoi valutare è cosa c’è dentro il prezzo, quando acquisti da un allevatore serio con pedigree ENCI, test genetici e tutte le garanzie.
+La risposta breve: **non esiste un listino, ed è giusto così**. Quello che puoi valutare è cosa c’è dentro il prezzo, quando acquisti da un allevatore che fa le cose per bene, con pedigree ENCI, test genetici e tutte le garanzie.
 
 Se trovi cuccioli di Staffordshire Bull Terrier a poche centinaia di euro, fermati e chiediti cosa manca. Quasi sempre quello che risparmi adesso lo paghi dopo, dal veterinario.
 
@@ -87,7 +87,7 @@ Quando acquisti da un allevatore responsabile, il prezzo include:
 </tbody>
 </table>
 
-Questi non sono optional. Sono il minimo che un allevatore serio deve garantire.
+Questi non sono optional. Sono il minimo che deve garantire un allevatore che fa le cose per bene.
 
 <!--/BLOCCO:2-->
 
@@ -277,9 +277,9 @@ Se anche solo uno di questi segnali è presente: scappa.
 
 <!--BLOCCO:7-->
 
-## Il vero valore di un allevatore serio
+## Il vero valore di un allevatore che fa le cose per bene
 
-Da un allevatore serio, oltre al cucciolo, trovi:
+Da un allevatore che fa le cose per bene, oltre al cucciolo, trovi:
 
 **Esperienza nella razza.** Anni di selezione, studio dei pedigree, conoscenza delle linee di sangue. Sapere abbinare i caratteri, prevedere come cresceranno i cuccioli.
 

@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier: Ist er der richtige Hund für Sie? Vor- und Nachteile"
 date: 2026-08-01
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 titleSeo: "Staffordshire Bull Terrier: der richtige Hund für Sie?"
 translationKey: "cane-giusto"
 articolo: true
@@ -142,7 +142,7 @@ custom_content: |
   <li><strong>Gesellschaft:</strong> nicht mehr als 4-6 Stunden am Stück allein, weniger als Welpe</li>
   <li><strong>Erziehung:</strong> tägliche Beständigkeit in den ersten Monaten; ein Grundkurs wird empfohlen</li>
   <li><strong>Fellpflege:</strong> minimal (einmal pro Woche bürsten)</li>
-  <li><strong>Welpenkosten:</strong> aus einer seriösen Zucht mit ENCI-Ahnentafel und Gentests: <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Preis eines Staffordshire Bull Terrier Welpen">das steckt im Preis eines Staffy-Welpen</a></li>
+  <li><strong>Welpenkosten:</strong> aus einer Zucht, die gut arbeitet, mit ENCI-Ahnentafel und Gentests: <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Preis eines Staffordshire Bull Terrier Welpen">das steckt im Preis eines Staffy-Welpen</a></li>
   <li><strong>Unterhalt:</strong> hochwertiges Futter, Tierarzt, Parasitenschutz; die Rasse hat keine besonderen Bedürfnisse über die Norm hinaus</li>
   </ul>
   <!--/BLOCCO:7-->

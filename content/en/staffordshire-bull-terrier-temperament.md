@@ -17,7 +17,7 @@ correlati:
     testo: "Children, other animals, flat living: what it is like to live with a Staffy"
   - url: "/en/how-to-choose-a-staffordshire-bull-terrier-breeder/"
     titolo: "How to choose the breeder"
-    testo: "What to ask, and which signs indicate a serious kennel"
+    testo: "What to ask, and which signs indicate a kennel that does things properly"
   - url: "/en/staffy-bloodlines-guide/"
     titolo: "The bloodlines"
     testo: "English and Irish lines: what changes in temperament"

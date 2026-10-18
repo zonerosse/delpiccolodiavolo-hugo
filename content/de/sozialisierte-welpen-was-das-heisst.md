@@ -7,7 +7,7 @@ translationKey: "socializzazione-affido"
 in_breve:
   - "„Sozialisierte Welpen“ **heißt gar nichts**, solange niemand sagt, womit."
   - "Die entscheidende Zeit reicht **von der 3. bis zur 12. Woche**: wenn der Welpe nach Hause kommt, liegt die Hälfte der Arbeit bei der Familie."
-  - "Ein seriöser Züchter sagt auch, **was er nicht tun konnte**: Verkehr, Kinder, andere Tiere, Alleinsein."
+  - "Ein Züchter, der gut arbeitet, sagt auch, **was er nicht tun konnte**: Verkehr, Kinder, andere Tiere, Alleinsein."
 articolo: true
 image: "/images/blog/socializzazione-cortile-hero.webp"
 og_image: "/images/og/schede/de/sozialisierte-welpen-was-das-heisst.jpg"
@@ -44,7 +44,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>&bdquo;Sozialisierte Welpen&ldquo; steht in fast jeder Anzeige. Wie &bdquo;Eltern vor Ort&ldquo; bedeutet es nichts, solange niemand sagt <strong>womit</strong>. Die Zeit, in der ein Hund lernt, was normal ist, reicht von der dritten bis zur zwölften Lebenswoche. Ein Staffordshire Bull Terrier Welpe verlässt die Zucht mit 60 bis 70 Tagen. Dann sind fünf oder sechs dieser zehn Wochen schon vorbei, und die wichtigere Hälfte der Arbeit übernimmt die Familie. Eine seriöse Zucht sagt, was sie getan hat, aber auch, was sie <strong>nicht</strong> tun konnte. Meist sind das Verkehr, Kinder, wenn keine da sind, andere Tierarten und das Alleinbleiben. Denn unter seinen Geschwistern ist ein Welpe nie allein, auch nicht in einer guten Zucht. Ein Ratgeber von Del Piccolo Diavolo, <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Staffordshire Bull Terrier Züchter</a> in Ostellato (Ferrara, Italien) seit dem Jahr 2013.</p>
+  <p>&bdquo;Sozialisierte Welpen&ldquo; steht in fast jeder Anzeige. Wie &bdquo;Eltern vor Ort&ldquo; bedeutet es nichts, solange niemand sagt <strong>womit</strong>. Die Zeit, in der ein Hund lernt, was normal ist, reicht von der dritten bis zur zwölften Lebenswoche. Ein Staffordshire Bull Terrier Welpe verlässt die Zucht mit 60 bis 70 Tagen. Dann sind fünf oder sechs dieser zehn Wochen schon vorbei, und die wichtigere Hälfte der Arbeit übernimmt die Familie. Eine Zucht, die gut arbeitet, sagt, was sie getan hat, aber auch, was sie <strong>nicht</strong> tun konnte. Meist sind das Verkehr, Kinder, wenn keine da sind, andere Tierarten und das Alleinbleiben. Denn unter seinen Geschwistern ist ein Welpe nie allein, auch nicht in einer guten Zucht. Ein Ratgeber von Del Piccolo Diavolo, <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Staffordshire Bull Terrier Züchter</a> in Ostellato (Ferrara, Italien) seit dem Jahr 2013.</p>
 
   <!--BLOCCO:2-->
   <h2>Die Phase: was die Verhaltensforschung sagt</h2>
@@ -162,7 +162,7 @@ custom_content: |
   <li>In der Zucht lernt ein Welpe <strong>das Haus, die Menschen, die anderen Hunde seiner Rasse</strong> kennen. Nicht die Stadt, nicht den Verkehr, oft keine Kinder</li>
   <li>&bdquo;Sozialisiert&ldquo; ohne Aufzählung bedeutet nichts: <strong>Fragen Sie, womit</strong></li>
   <li>Die verbleibende Arbeit ist die schwerere Hälfte, und die macht die Familie</li>
-  <li>Eine seriöse Zucht sagt auch, <strong>was sie nicht leisten konnte</strong></li>
+  <li>Eine Zucht, die gut arbeitet, sagt auch, <strong>was sie nicht leisten konnte</strong></li>
   </ul>
 
   <a class="rimando" href="/de/welpen-staffordshire-bull-terrier/">

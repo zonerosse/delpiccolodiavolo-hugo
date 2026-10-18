@@ -7,7 +7,7 @@ translationKey: "socializzazione-affido"
 in_breve:
   - "\"Socialised puppies\" **means nothing** until someone says with what."
   - "The decisive period runs **from week 3 to week 12**: when the puppy arrives home, half the work is up to the family."
-  - "A serious breeder also says **what he could not do**: traffic, children, other animals, being alone."
+  - "A breeder who does things properly also says **what he could not do**: traffic, children, other animals, being alone."
 articolo: true
 image: "/images/blog/socializzazione-cortile-hero.webp"
 og_image: "/images/og/schede/en/socialised-puppies-what-it-means.jpg"
@@ -44,7 +44,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>&ldquo;Socialised puppies&rdquo; turns up in almost every advert. Like &ldquo;parents on site&rdquo;, it means nothing until somebody says <strong>with what</strong>. The period when a dog learns what is normal runs from the third to the twelfth week of life. A Staffordshire Bull Terrier puppy leaves the kennel at 60 to 70 days, as Italian law and good practice allow. By then five or six of those ten weeks are gone, and the more important half of the work will be done by the family. A serious breeder tells you what they did, but also what they could not do. Usually that means traffic, children if there are none at the kennel, other species and being left alone, because among its littermates a puppy is never on its own. A guide by Del Piccolo Diavolo, a <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Staffordshire Bull Terrier breeder</a> in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>&ldquo;Socialised puppies&rdquo; turns up in almost every advert. Like &ldquo;parents on site&rdquo;, it means nothing until somebody says <strong>with what</strong>. The period when a dog learns what is normal runs from the third to the twelfth week of life. A Staffordshire Bull Terrier puppy leaves the kennel at 60 to 70 days, as Italian law and good practice allow. By then five or six of those ten weeks are gone, and the more important half of the work will be done by the family. A breeder who does things properly tells you what they did, but also what they could not do. Usually that means traffic, children if there are none at the kennel, other species and being left alone, because among its littermates a puppy is never on its own. A guide by Del Piccolo Diavolo, a <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Staffordshire Bull Terrier breeder</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
   <!--BLOCCO:2-->
   <h2>The window: what ethology says</h2>
@@ -162,7 +162,7 @@ custom_content: |
   <li>At a kennel a puppy meets <strong>the house, the people, the other dogs of its breed</strong>. Not the town, not traffic, often not children</li>
   <li>&ldquo;Socialised&rdquo; without a list means nothing: <strong>ask with what</strong></li>
   <li>The work that remains is the heavier half, and the family does it</li>
-  <li>A serious breeder also tells you <strong>what they could not do</strong></li>
+  <li>A breeder who does things properly also tells you <strong>what they could not do</strong></li>
   </ul>
 
   <a class="rimando" href="/en/puppies-staffordshire-bull-terrier/">

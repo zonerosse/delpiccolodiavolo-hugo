@@ -1,7 +1,7 @@
 ---
 title: "FCI Rassestandard Staffordshire Bull Terrier"
 date: 2025-02-12
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "standard"
 in_breve:
   - "Ein Staffy ist **typisch, wenn alles im Gleichgewicht ist**: Kopf, Proportionen, Brust, Knochen, Bewegung und Wesen."
@@ -124,7 +124,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Welche Farben erlaubt der FCI-Standard?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">Der Standard erlaubt <strong>Rot, Falb, Weiß, Schwarz und Blau</strong> oder jede dieser Farben mit Weiß, dazu alle Schattierungen von Gestromt und Gestromt mit Weiß. Schwarz mit Loh und Leberfarbe gelten als höchst unerwünscht: nicht aus ästhetischen Gründen, sondern weil sie historisch mit Einkreuzungen anderer Rassen verbunden sind, sodass ihr Auftreten die Reinheit der Linie in Frage stellt. Merle gibt es in der Rasse nicht: Taucht es auf, weist es auf fremdes Blut hin. Ein Welpe in diesen Farben ist weder weniger gesund noch weniger anhänglich, wird aber im Ausstellungsring bestraft, und eine Zucht, die nach dem Standard selektiert, setzt ihn nicht ein, und eine seriöse Zucht sagt das offen, statt ihn als Rarität zu verkaufen.</div>
+  <div class="faq-answer">Der Standard erlaubt <strong>Rot, Falb, Weiß, Schwarz und Blau</strong> oder jede dieser Farben mit Weiß, dazu alle Schattierungen von Gestromt und Gestromt mit Weiß. Schwarz mit Loh und Leberfarbe gelten als höchst unerwünscht: nicht aus ästhetischen Gründen, sondern weil sie historisch mit Einkreuzungen anderer Rassen verbunden sind, sodass ihr Auftreten die Reinheit der Linie in Frage stellt. Merle gibt es in der Rasse nicht: Taucht es auf, weist es auf fremdes Blut hin. Ein Welpe in diesen Farben ist weder weniger gesund noch weniger anhänglich, wird aber im Ausstellungsring bestraft, und eine Zucht, die nach dem Standard selektiert, setzt ihn nicht ein, und eine Zucht, die gut arbeitet, sagt das offen, statt ihn als Rarität zu verkaufen.</div>
   </div>
 
   <div class="faq-item active">
@@ -137,7 +137,7 @@ custom_content: |
 
   <div class="faq-item active">
   <div class="faq-question">
-  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Welche Gentests sind für eine seriöse Zucht Pflicht?</h3>
+  <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Welche Gentests sind für eine Zucht, die gut arbeitet, Pflicht?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
   <div class="faq-answer">Gesetzlich vorgeschrieben ist keiner, und das sollte man klar sagen: Wer nicht testet, verstößt gegen keine Vorschrift. Was es gibt, ist ein gemeinsamer Maßstab an Seriosität, der bei dieser Rasse L2-HGA, erblichen Katarakt und degenerative Myelopathie umfasst, alle mit DNA-Tests. Entscheidend ist nicht, dass Tests gemacht wurden, sondern dass sie überprüfbar sind: Ein Befund zählt nur, wenn er die Mikrochipnummer des Hundes, den Namen des Labors und das Datum trägt. Ohne Mikrochip lässt er sich keinem bestimmten Tier zuordnen. Auf dieser Website sind die Befunde der Zuchttiere veröffentlicht und herunterladbar, damit jeder sie prüfen kann, ohne uns fragen zu müssen.</div>

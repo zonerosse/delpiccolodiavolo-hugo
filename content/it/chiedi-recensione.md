@@ -1,7 +1,7 @@
 ---
 title: "Lascia una recensione – Del Piccolo Diavolo"
 date: 2025-12-28
-lastmod: 2026-09-03
+lastmod: 2026-10-18
 noindex: true
 tipoPagina: "WebPage"
 description: "Se ti trovi bene con il tuo Staffy, scriverlo su Google aiuta la prossima famiglia."
@@ -16,7 +16,7 @@ custom_content: |
   <div class="section-inner content-single">
 
   <div class="intro-block">
-  <p><strong>Italiano.</strong> Se il tuo Staffy sta bene e ti trovi bene con lui, scriverlo su Google aiuta la prossima famiglia a capire con chi ha a che fare. Ci vuole un minuto e resta lì per chiunque cerchi un allevamento serio.</p>
+  <p><strong>Italiano.</strong> Se il tuo Staffy sta bene e ti trovi bene con lui, scriverlo su Google aiuta la prossima famiglia a capire con chi ha a che fare. Ci vuole un minuto e resta lì per chiunque cerchi un allevamento che fa le cose per bene.</p>
   <p style="margin-top:.8rem;font-size:.9rem;color:#4a5768"><strong>English.</strong> If your Staffy is doing well, writing it on Google helps the next family. It takes a minute.<br>
   <strong>Deutsch.</strong> Wenn es Ihrem Staffy gut geht, hilft eine Bewertung auf Google der nächsten Familie. Es dauert eine Minute.</p>
   </div>

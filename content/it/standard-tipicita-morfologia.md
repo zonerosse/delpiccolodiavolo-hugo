@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier: tipicità di razza e morfologia"
 date: 2025-02-12
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "standard"
 in_breve:
   - "Uno Staffy è **tipico quando tutto è in equilibrio**: testa, proporzioni, torace, ossatura, movimento e carattere."
@@ -126,7 +126,7 @@ custom_content: |
 
   <div class="faq-item">
   <h3 class="faq-question">Quali colori sono ammessi nello standard FCI?</h3>
-  <div class="faq-answer">Lo standard ammette <strong>rosso, fulvo, bianco, nero e blu</strong>, o qualsiasi di queste tinte con il bianco, oltre a tutte le sfumature di <strong>tigrato</strong> e al tigrato con bianco. Il <strong>nero focato</strong> e il <strong>fegato</strong> sono invece definiti altamente indesiderabili: non per questioni estetiche, ma perch&eacute; storicamente associati a incroci con altre razze, quindi la loro presenza mette in dubbio la purezza della linea. Non esiste nella razza il <em>merle</em>: se compare, indica sangue esterno. Un cucciolo di questi colori non &egrave; meno sano n&eacute; meno affettuoso, ma in esposizione viene penalizzato e un allevamento che seleziona secondo lo standard non lo usa in riproduzione, e un allevamento serio lo dichiara invece di venderlo come raro.</div>
+  <div class="faq-answer">Lo standard ammette <strong>rosso, fulvo, bianco, nero e blu</strong>, o qualsiasi di queste tinte con il bianco, oltre a tutte le sfumature di <strong>tigrato</strong> e al tigrato con bianco. Il <strong>nero focato</strong> e il <strong>fegato</strong> sono invece definiti altamente indesiderabili: non per questioni estetiche, ma perch&eacute; storicamente associati a incroci con altre razze, quindi la loro presenza mette in dubbio la purezza della linea. Non esiste nella razza il <em>merle</em>: se compare, indica sangue esterno. Un cucciolo di questi colori non &egrave; meno sano n&eacute; meno affettuoso, ma in esposizione viene penalizzato e un allevamento che seleziona secondo lo standard non lo usa in riproduzione, e un allevamento che fa le cose per bene lo dichiara invece di venderlo come raro.</div>
   </div>
 
   <div class="faq-item">
@@ -135,7 +135,7 @@ custom_content: |
   </div>
 
   <div class="faq-item">
-  <h3 class="faq-question">Quali test genetici sono obbligatori per un allevamento serio?</h3>
+  <h3 class="faq-question">Quali test genetici sono obbligatori per un allevamento che fa le cose per bene?</h3>
   <div class="faq-answer">Obbligatori per legge non ce ne sono, e vale la pena dirlo chiaramente: chi non li fa non sta violando nessuna norma. Quello che esiste &egrave; uno standard di serietà condiviso, che per questa razza comprende <strong>L2-HGA</strong>, <strong>cataratta ereditaria</strong> e <strong>mielopatia degenerativa</strong>, tutte con test del DNA. Il punto non &egrave; la presenza dei test ma la loro verificabilit&agrave;: un referto conta solo se riporta il numero di microchip del cane, il nome del laboratorio e la data. Senza il microchip non &egrave; collegabile a nessun animale in particolare. Su questo sito i referti dei riproduttori sono pubblicati e scaricabili, proprio perch&eacute; chiunque possa controllarli senza chiedere niente.</div>
   </div>
 
