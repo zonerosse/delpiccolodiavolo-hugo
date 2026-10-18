@@ -144,7 +144,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>Wie viele Mahlzeiten am Tag</h2>
-  <p>Bis drei Monate vier Mahlzeiten, von drei bis sechs Monaten drei, ab sechs Monaten zwei, und bei zweien bleibt es ein Leben lang. Eine einzige große Mahlzeit am Tag ist bei einem Hund mit tiefem Brustkorb nicht ratsam, weil sie das Risiko einer Magendrehung erhöht. Der Rechner schlägt die passende Zahl für das Alter vor und teilt die Ration auf die gewählten Mahlzeiten auf.</p>
+  <p>Bis sechs Monate drei Mahlzeiten am Tag, ab sechs Monaten zwei, und bei zweien bleibt es ein Leben lang. Eine einzige große Mahlzeit am Tag ist bei einem Hund mit tiefem Brustkorb nicht ratsam, weil sie das Risiko einer Magendrehung erhöht. Der Rechner schlägt die passende Zahl für das Alter vor und teilt die Ration auf die gewählten Mahlzeiten auf.</p>
   <!--/BLOCCO:4-->
 
   <!--BLOCCO:5-->

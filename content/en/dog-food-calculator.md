@@ -144,7 +144,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>How many meals a day</h2>
-  <p>Up to three months four meals, from three to six months three, from six months two, and two stay for life. A single large meal a day is not advised in a deep-chested dog, because it raises the risk of stomach dilatation and torsion. The calculator suggests the right number for the age and splits the ration over the meals you choose.</p>
+  <p>Up to six months three meals a day, from six months two, and two stay for life. A single large meal a day is not advised in a deep-chested dog, because it raises the risk of stomach dilatation and torsion. The calculator suggests the right number for the age and splits the ration over the meals you choose.</p>
   <!--/BLOCCO:4-->
 
   <!--BLOCCO:5-->

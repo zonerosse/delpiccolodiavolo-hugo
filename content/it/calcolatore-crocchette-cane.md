@@ -144,7 +144,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>Quanti pasti al giorno</h2>
-  <p>Fino a tre mesi quattro pasti, da tre a sei mesi tre, dai sei mesi due, e due restano per tutta la vita. Un solo pasto abbondante al giorno è sconsigliato in un cane dal torace profondo, perché aumenta il rischio di dilatazione e torsione dello stomaco. Il calcolatore propone il numero adatto all'età e divide la razione per i pasti scelti.</p>
+  <p>Fino ai sei mesi tre pasti al giorno, dai sei mesi due, e due restano per tutta la vita. Un solo pasto abbondante al giorno è sconsigliato in un cane dal torace profondo, perché aumenta il rischio di dilatazione e torsione dello stomaco. Il calcolatore propone il numero adatto all'età e divide la razione per i pasti scelti.</p>
   <!--/BLOCCO:4-->
 
   <!--BLOCCO:5-->
