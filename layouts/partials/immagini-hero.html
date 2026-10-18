@@ -1,24 +1,19 @@
 {{- /* Foto in testata: aggiunge srcset e sizes, così il telefono scarica la versione da 480 o 640 px invece di quella grande
      (Paolo, 18/10/2026). Le versioni piccole e data/varianti.json li crea tools/immagini/varianti.py.
      Al telefono la foto è alta il 62% dello schermo (pagine Notte) o il 42% (pagine chiare), intera: la larghezza mostrata
-     è quindi altezza × proporzione della foto. Al computer occupa metà pagina. */ -}}
+     è quindi altezza × proporzione della foto. Al computer occupa metà pagina (calcolo in immagini-hero-set.html). */ -}}
 {{- $c := .c -}}
 {{- $p := .p -}}
 {{- $vh := cond (or $p.Params.notte (and $p.IsPage (eq $p.Section "diario-allevamento"))) 62 42 -}}
 {{- range findRE `class="hero-image">\s*<img [^>]*>` $c -}}
   {{- $m := . -}}
-  {{- if not (strings.Contains $m "srcset") -}}
-    {{- with findRESubmatch `src="(/images/[^"]+)"` $m 1 -}}
+  {{- /* srcset scritto a mano nella pagina (es. Cuccioli): si sostituisce con quello calcolato, se la foto ha le versioni. */ -}}
+  {{- $pulita := replaceRE ` (srcset|sizes)="[^"]*"` "" $m -}}
+  {{- with findRESubmatch ` src="(/images/[^"]+)"` $pulita 1 -}}
       {{- $src := index (index . 0) 1 -}}
-      {{- with index site.Data.varianti $src -}}
-        {{- $ext := path.Ext $src -}}
-        {{- $base := strings.TrimSuffix $ext $src -}}
-        {{- $r := div (float .w) (float .h) -}}
-        {{- $set := printf "%s-480w%s 480w, %s-640w%s 640w, %s %dw" $base $ext $base $ext $src (int .w) -}}
-        {{- $sizes := printf "(max-width: 767px) min(100vw, calc(%dvh * %.3f)), 50vw" $vh $r -}}
-        {{- $c = replace $c $m (replace $m "<img " (printf `<img srcset="%s" sizes="%s" ` $set $sizes)) -}}
+      {{- with partial "immagini-hero-set.html" (dict "src" $src "vh" $vh) -}}
+        {{- $c = replace $c $m (replace $pulita "<img " (printf `<img srcset="%s" sizes="%s" ` .set .sizes)) -}}
       {{- end -}}
-    {{- end -}}
   {{- end -}}
 {{- end -}}
 {{- return $c -}}

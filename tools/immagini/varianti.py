@@ -1,4 +1,4 @@
-# Crea le versioni piccole (480 e 640 px di larghezza) delle foto in testata (hero), per i telefoni.
+# Crea le versioni piccole (480, 640 e 680 px di larghezza) delle foto in testata (hero), per i telefoni.
 # Le foto originali non si toccano. Il sito le usa da solo con srcset (layouts/partials/immagini-hero.html).
 # Uso: hugo, poi python3 tools/immagini/varianti.py  (legge le testate dal sito compilato in public/).
 import re,glob,os
@@ -17,7 +17,7 @@ for s in sorted(src):
     if W<700: continue
     base,ext=os.path.splitext(p)
     mappa[s]={'w':W,'h':H}
-    for w in (480,640):
+    for w in (480,640,680):
         out=f'{base}-{w}w{ext}'
         if os.path.exists(out): continue
         h=round(H*w/W); r=im.convert('RGBA' if im.mode in ('RGBA','LA','P') else 'RGB').resize((w,h),Image.LANCZOS)

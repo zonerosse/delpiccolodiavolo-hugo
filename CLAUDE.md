@@ -101,7 +101,7 @@ The newest post also feeds the "latest litter" section of the Puppies page (`<!-
 
 `layouts/partials/hero-foto.html` picks one entry from the `[[params.hero.foto]]` array in `hugo.toml` using `now` (`rotazione = "settimane" | "giorni" | "mesi"`). Selection happens **at build time**, so the photo only changes when the site is rebuilt — that is what `.github/workflows/ricostruzione-settimanale.yml` is for: every Monday it POSTs to a Cloudflare Pages deploy hook (repo secret `CLOUDFLARE_DEPLOY_HOOK`). Each photo entry carries `alt`/`title`/`didascalia` plus `altEn`/`altDe` etc. variants; missing translations fall back to the Italian.
 
-Header photos get smaller copies for phones (18/10/2026, Lighthouse): `python3 tools/immagini/varianti.py` (after `hugo`) writes `-480w`/`-640w` next to every header photo at least 700 px wide and lists them in `data/varianti.json`; `partials/immagini-hero.html` then adds `srcset`/`sizes` to the `.hero-image img` (and `baseof.html` to the preload). **Run it after adding a new header photo.** The menu logo has `alt=""` (the name is written next to it).
+Header photos get smaller copies for phones (18/10/2026, Lighthouse): `python3 tools/immagini/varianti.py` (after `hugo`) writes `-480w`/`-640w`/`-680w` next to every header photo at least 700 px wide and lists them in `data/varianti.json`; `partials/immagini-hero.html` then adds `srcset`/`sizes` (computed in `partials/immagini-hero-set.html`, also used by the preload in `baseof.html`) to the `.hero-image img`, replacing any srcset written by hand in the page. **Run it after adding a new header photo.** The menu logo has `alt=""` (the name is written next to it).
 
 ### CSS
 

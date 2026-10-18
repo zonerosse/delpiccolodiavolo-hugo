@@ -1,0 +1,17 @@
+{{- /* srcset e sizes di una foto in testata (usato da immagini-hero.html e dal preload in baseof.html).
+     Versioni: 480, 640 e 680 px (create da tools/immagini/varianti.py) più l'originale.
+     Telefono: la foto è alta vh% dello schermo, intera, quindi larga altezza × proporzione (al massimo tutto lo schermo).
+     Computer: metà pagina, ma mai più larga di altezza dello schermo × proporzione (la foto è intera, non tagliata). */ -}}
+{{- $src := .src -}}
+{{- $out := dict -}}
+{{- with index site.Data.varianti $src -}}
+  {{- $ext := path.Ext $src -}}
+  {{- $base := strings.TrimSuffix $ext $src -}}
+  {{- $r := div (float .w) (float .h) -}}
+  {{- $set := slice -}}
+  {{- range slice 480 640 680 -}}{{- $set = $set | append (printf "%s-%dw%s %dw" $base . $ext .) -}}{{- end -}}
+  {{- $set = $set | append (printf "%s %dw" $src (int .w)) -}}
+  {{- $sizes := printf "(max-width: 767px) min(100vw, calc(%dvh * %.3f)), min(50vw, calc(100vh * %.3f))" $.vh $r $r -}}
+  {{- $out = dict "set" (delimit $set ", ") "sizes" $sizes -}}
+{{- end -}}
+{{- return $out -}}
