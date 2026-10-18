@@ -75,6 +75,7 @@ custom_content: |
   <li><strong>Grams per day</strong> = energy per day ÷ (kcal per 100 g ÷ 100)</li>
   <li><strong>Kcal from the bag</strong>, when not printed = 3.5 × protein + 8.5 × fat + 3.5 × carbohydrates, where carbohydrates = 100 − protein − fat − fibre − ash − moisture (moisture 10% if missing)</li>
   <li><strong>Weight at each age</strong> = adult weight × share: 25% at 2 months, 38% at 3, 50% at 4, 62% at 5, 72% at 6, 80% at 7, 86% at 8, 90% at 9, 93% at 10, 96% at 11, 98% at 12, for a medium-sized dog; growth ends around 10 months in small breeds, 15 in large and 20 in giant breeds</li>
+  <li><strong>Protein</strong> = protein % ÷ kcal per 100 g × 1000, in grams per 1000 kcal; FEDIAF minimums: 62.5 up to 14 weeks, 50 during growth, 45 for adults (52.1 if neutered or calm)</li>
   </ul>
   <p>The sum has three steps. First the resting energy, what the dog needs at rest: 70 × weight in kg<sup>0.75</sup>. Then it is multiplied by the age factor and by the activity factor. Finally it is divided by the calories of the kibble, given in kcal per 100 grams.</p>
   <table tabindex="0">
@@ -93,6 +94,7 @@ custom_content: |
   <p>Activity moves the result like this: calm × 0.85, normal × 1, very active × 1.25, working or sport × 1.6. Up to four months activity counts for little, because almost all the energy goes into growth.</p>
   <p>An example. An adult dog of 15 kg, normal activity, not neutered: 70 × 15<sup>0.75</sup> is about 533 kcal; times 1.8 it becomes 960 kcal a day. With kibble at 390 kcal per 100 g that is about 245 grams a day.</p>
   <p>For the table by age the calculator estimates the puppy's weight as a share of the adult weight: a quarter at two months, half at four, three quarters around six months, nearly all of it at one year. That is the growth of a medium-sized dog. Small breeds finish earlier, around ten months; large breeds grow until about fifteen months and giant breeds until twenty, and the calculator stretches the table accordingly.</p>
+  <p>Protein does not change the amount: the ration is worked out from energy, because a dog eats to cover its calories. It does change the choice of kibble. The calculator counts the grams of protein per 1000 kcal and compares them with the minimums of the European FEDIAF guidelines: a puppy up to 14 weeks needs at least 62.5, then 50 until growth ends, an adult 45. Adult kibble given to a puppy can cover the calories and still leave it short of protein: in that case the calculator says so.</p>
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->

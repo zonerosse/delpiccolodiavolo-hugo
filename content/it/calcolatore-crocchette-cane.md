@@ -75,6 +75,7 @@ custom_content: |
   <li><strong>Grammi al giorno</strong> = energia al giorno ÷ (kcal per 100 g ÷ 100)</li>
   <li><strong>Kcal dal sacco</strong>, se non sono scritte = 3,5 × proteina + 8,5 × grassi + 3,5 × carboidrati, con carboidrati = 100 − proteina − grassi − fibra − ceneri − umidità (umidità 10% se manca)</li>
   <li><strong>Peso a ogni età</strong> = peso da adulto × quota: 25% a 2 mesi, 38% a 3, 50% a 4, 62% a 5, 72% a 6, 80% a 7, 86% a 8, 90% a 9, 93% a 10, 96% a 11, 98% a 12, per la taglia media; la crescita finisce verso i 10 mesi nelle taglie piccole, i 15 nelle grandi e i 20 nelle giganti</li>
+  <li><strong>Proteine</strong> = proteina % ÷ kcal per 100 g × 1000, in grammi ogni 1000 kcal; minimi FEDIAF: 62,5 fino a 14 settimane, 50 nella crescita, 45 nell'adulto (52,1 se sterilizzato o tranquillo)</li>
   </ul>
   <p>Il conto ha tre passaggi. Prima l'energia di base, cioè quello che serve al cane a riposo: 70 × peso in kg<sup>0,75</sup>. Poi la si moltiplica per il fattore dell'età e per quello del movimento. Infine si divide per le calorie delle crocchette, espresse in kcal per 100 grammi.</p>
   <table tabindex="0">
@@ -93,6 +94,7 @@ custom_content: |
   <p>Il movimento sposta il risultato così: tranquillo × 0,85, normale × 1, molto attivo × 1,25, lavoro o sport × 1,6. Fino ai quattro mesi il movimento conta poco, perché quasi tutta l'energia va nella crescita.</p>
   <p>Un esempio. Un cane adulto di 15 kg, movimento normale, non sterilizzato: 70 × 15<sup>0,75</sup> fa circa 533 kcal; per 1,8 diventano 960 kcal al giorno. Con crocchette da 390 kcal per 100 g sono circa 245 grammi al giorno.</p>
   <p>Per la tabella delle età il calcolatore stima il peso del cucciolo come parte del peso da adulto: un quarto a due mesi, la metà a quattro, tre quarti verso i sei mesi, quasi tutto a un anno. È la crescita di un cane di taglia media. Nelle taglie piccole finisce prima, verso i dieci mesi; nelle grandi dura fino a circa quindici mesi e nelle giganti fino a venti, e il calcolatore allunga la tabella di conseguenza.</p>
+  <p>Le proteine non cambiano la quantità: la razione si calcola sull'energia, perché il cane mangia per coprire le calorie. Cambiano invece la scelta delle crocchette. Il calcolatore conta i grammi di proteine ogni 1000 kcal e li confronta con i minimi delle linee guida europee FEDIAF: un cucciolo fino a 14 settimane ne vuole almeno 62,5, poi 50 fino alla fine della crescita, un adulto 45. Crocchette per adulti date a un cucciolo possono coprire le calorie e lasciarlo corto di proteine: in quel caso il calcolatore lo segnala.</p>
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->

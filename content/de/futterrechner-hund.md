@@ -75,6 +75,7 @@ custom_content: |
   <li><strong>Gramm pro Tag</strong> = Energie pro Tag ÷ (kcal pro 100 g ÷ 100)</li>
   <li><strong>kcal aus der Packung</strong>, wenn sie fehlen = 3,5 × Protein + 8,5 × Fett + 3,5 × Kohlenhydrate, mit Kohlenhydrate = 100 − Protein − Fett − Rohfaser − Rohasche − Feuchtigkeit (Feuchtigkeit 10 %, wenn sie fehlt)</li>
   <li><strong>Gewicht in jedem Alter</strong> = Erwachsenengewicht × Anteil: 25 % mit 2 Monaten, 38 % mit 3, 50 % mit 4, 62 % mit 5, 72 % mit 6, 80 % mit 7, 86 % mit 8, 90 % mit 9, 93 % mit 10, 96 % mit 11, 98 % mit 12, bei mittelgroßen Hunden; das Wachstum endet bei kleinen Rassen um 10 Monate, bei großen um 15 und bei Riesenrassen um 20</li>
+  <li><strong>Protein</strong> = Protein % ÷ kcal pro 100 g × 1000, in Gramm pro 1000 kcal; FEDIAF-Mindestwerte: 62,5 bis 14 Wochen, 50 im Wachstum, 45 beim Erwachsenen (52,1 bei kastrierten oder ruhigen Hunden)</li>
   </ul>
   <p>Die Rechnung hat drei Schritte. Zuerst der Ruhebedarf, also was der Hund in Ruhe braucht: 70 × Gewicht in kg<sup>0,75</sup>. Dann wird er mit dem Faktor für das Alter und dem für die Bewegung multipliziert. Zum Schluss teilt man durch die Kalorien des Futters, angegeben in kcal pro 100 Gramm.</p>
   <table tabindex="0">
@@ -93,6 +94,7 @@ custom_content: |
   <p>Die Bewegung verschiebt das Ergebnis so: ruhig × 0,85, normal × 1, sehr aktiv × 1,25, Arbeit oder Sport × 1,6. Bis zum vierten Monat zählt die Bewegung wenig, weil fast die ganze Energie ins Wachstum geht.</p>
   <p>Ein Beispiel. Ein erwachsener Hund mit 15 kg, normale Bewegung, nicht kastriert: 70 × 15<sup>0,75</sup> ergibt etwa 533 kcal; mal 1,8 werden daraus 960 kcal am Tag. Mit einem Futter von 390 kcal pro 100 g sind das etwa 245 Gramm am Tag.</p>
   <p>Für die Tabelle nach Alter schätzt der Rechner das Gewicht des Welpen als Anteil des Erwachsenengewichts: ein Viertel mit zwei Monaten, die Hälfte mit vier, drei Viertel um sechs Monate, fast alles mit einem Jahr. Das ist das Wachstum eines mittelgroßen Hundes. Kleine Rassen sind früher fertig, um zehn Monate; große wachsen bis etwa fünfzehn Monate und Riesenrassen bis zwanzig, und der Rechner verlängert die Tabelle entsprechend.</p>
+  <p>Protein ändert die Menge nicht: die Ration wird aus der Energie berechnet, denn ein Hund frisst, um seine Kalorien zu decken. Es ändert aber die Wahl des Futters. Der Rechner zählt die Gramm Protein pro 1000 kcal und vergleicht sie mit den Mindestwerten der europäischen FEDIAF-Leitlinien: ein Welpe bis 14 Wochen braucht mindestens 62,5, danach 50 bis zum Ende des Wachstums, ein Erwachsener 45. Erwachsenenfutter für einen Welpen kann die Kalorien decken und trotzdem zu wenig Protein liefern: dann meldet es der Rechner.</p>
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->

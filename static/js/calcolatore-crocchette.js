@@ -32,6 +32,15 @@ var TX={
   th:["Alter","Gewicht ca.","Gramm am Tag","Mahlzeiten"],mo:" Monate",adultR:"Erwachsen",senior:"Senior (ab 8 Jahren)",wk:" Wochen",yr1:" Jahr",yrN:" Jahre",
   src:{p:"✓ Angabe des Herstellers",c:"✓ aus der Analyse berechnet",m:"✓ von Ihnen eingegeben",f:"✓ vom Foto der Packung gelesen"},bad:"kcal pro 100 g liegen meist zwischen 300 und 500: bitte prüfen.",need3:"Mindestens Protein, Fett und Asche werden gebraucht."}
 }[L]||null;if(!TX)return;
+var PRT={it:["Proteine: "," g al giorno · "," g ogni 1000 kcal","✓ sopra il minimo FEDIAF per l'età (",")","⚠️ sotto il minimo FEDIAF per l'età ("," g ogni 1000 kcal): scegli crocchette più ricche di proteine"],
+ en:["Protein: "," g a day · "," g per 1000 kcal","✓ above the FEDIAF minimum for the age (",")","⚠️ below the FEDIAF minimum for the age ("," g per 1000 kcal): choose a kibble richer in protein"],
+ de:["Protein: "," g am Tag · "," g pro 1000 kcal","✓ über dem FEDIAF-Minimum für das Alter (",")","⚠️ unter dem FEDIAF-Minimum für das Alter ("," g pro 1000 kcal): ein proteinreicheres Futter wählen"]}[L]||[];
+/* proteine (18/10/2026, Paolo): la quantità resta calcolata sull'energia; le proteine si controllano in grammi ogni 1000 kcal
+   contro i minimi FEDIAF: 62,5 fino a 14 settimane, 50 nella crescita, adulto 45 (52,1 se sterilizzato o tranquillo) */
+function protHtml(f,g,m,pup,ster,act){if(!f||!f.c||f.c[0]==null||!f.kcal)return"";var dd=function(x){return L==="en"?String(x):String(x).replace(".",",")};
+ var day=Math.round(g*f.c[0]/100),per=Math.round(f.c[0]/f.kcal*1000*10)/10,min=m<3.25?62.5:pup?50:(ster||act<=.85?52.1:45),ok=per>=min;
+ return PRT[0]+day+PRT[1]+dd(Math.round(per))+PRT[2]+'<br>'+(ok?PRT[3]+dd(min)+PRT[4]:'<b class="pp-low">'+PRT[5]+dd(min)+PRT[6]+'</b>')}
+
 var CM={it:{t:"Componenti analitici",n:["Proteina","Grassi","Fibra","Ceneri","Umidità"],cb:"Carboidrati (calcolati)",no:"Componenti analitici non disponibili per queste crocchette.",est:"umidità non scritta: 10%"},
  en:{t:"Analytical constituents",n:["Protein","Fat","Fibre","Ash","Moisture"],cb:"Carbohydrates (calculated)",no:"Analytical constituents not available for this kibble.",est:"moisture not stated: 10%"},
  de:{t:"Analytische Bestandteile",n:["Rohprotein","Fettgehalt","Rohfaser","Rohasche","Feuchtigkeit"],cb:"Kohlenhydrate (berechnet)",no:"Analytische Bestandteile für dieses Futter nicht verfügbar.",est:"Feuchtigkeit nicht angegeben: 10 %"}}[L]||{};
@@ -84,7 +93,7 @@ function build(){var brands=[];DB.forEach(function(f){if(brands.indexOf(f.brand)
  '<label style="margin-top:14px">'+TX.food+'<select id="pp-food"><option value="">'+TX.pick+'</option>'+(MY.length?'<optgroup label="'+esc(TX.mine)+'">'+MY.map(opt).join("")+'</optgroup>':'')+brands.map(function(b){return '<optgroup label="'+esc(b)+'">'+DB.filter(function(f){return f.brand===b}).map(opt).join("")+'</optgroup>'}).join("")+'</select><span class="pp-ok" id="pp-src"></span></label><div class="pp-cmp" id="pp-cmp" hidden></div>'+
  '<div class="pp-oth"><b>'+TX.other+'</b><span class="pp-ai">'+TX.ai+'</span><div class="pp-g2"><button type="button" class="pp-c" data-x="foto">'+TX.foto+'</button><button type="button" class="pp-c" data-x="man">'+TX.man+'</button><button type="button" class="pp-c" data-x="comp">'+TX.comp+'</button></div><p class="pp-ok" style="color:#4a5768">'+TX.fotoH+'</p><div id="pp-add" hidden></div></div>'+
  '<span class="pp-l">'+TX.meals+'</span><div class="pp-ch" id="pp-meals"></div><span class="pp-ok" id="pp-ms"></span></div>'+
- '<div class="pp-res" aria-live="polite"><span class="pp-kc" id="pp-kc"></span><b id="pp-g">—</b><span id="pp-gs"></span></div>'+
+ '<div class="pp-res" aria-live="polite"><span class="pp-kc" id="pp-kc"></span><b id="pp-g">—</b><span id="pp-gs"></span><span class="pp-pr" id="pp-pr"></span></div>'+
  '<div class="pp-tb"><table tabindex="0"><thead><tr><th>'+TX.th[0]+'</th><th>'+TX.th[1]+'</th><th class="n">'+TX.th[2]+'</th><th class="n">'+TX.th[3]+'</th></tr></thead><tbody id="pp-tb"></tbody></table></div>'+
  '<div class="pp-end"><button type="button" class="pp-c" data-x="print">'+TX.print+'</button><button type="button" class="pp-c" data-x="reset">'+TX.reset+'</button></div>';
  draw()}
@@ -94,8 +103,8 @@ function draw(){var m=ageM(),f=food(S.food),ad=num(S.adult),pup=m!=null&&m<Math.
  [].forEach.call(box.querySelectorAll(".pp-s"),function(b){b.classList.toggle("on",Math.round(+b.getAttribute("data-sz")*(S.sex==="f"?.9:1))===ad)});$("pp-src").textContent=f?(TX.src[f.src]||""):"";var cm=$("pp-"+"cmp");if(cm){cm.hidden=!f;cm.innerHTML=f?cmpHtml(f.c):""}
  $("pp-meals").innerHTML=[1,2,3,4,5].map(function(n){return '<button type="button" class="pp-c'+(n===ml?' on':'')+'" data-k="meals" data-v="'+n+'">'+n+(n===sg?'<small>'+TX.sug+'</small>':'')+'</button>'}).join("");
  $("pp-ms").textContent=m==null?"":sg===4?TX.m4:sg===3?TX.m3:TX.m2;
- $("pp-kc").textContent="";if(!f||!kg||m==null||(pup&&!ad)){$("pp-g").textContent="—";$("pp-gs").textContent=!f?TX.need.food:!kg||(pup&&!ad)?TX.need.kg:TX.need.birth;$("pp-tb").innerHTML="";return}
- var g=grams(kg,m<96?Math.min(eq(m,ad),Math.max(m,12)):m,ster,act,f.kcal);var bc=+S.bcs||0;g=g*(bc===-1?1.1:bc===1?.9:1);$("pp-kc").textContent=TX.kc+Math.round(g*f.kcal/100/10)*10+" kcal";$("pp-g").textContent=Math.round(g/5)*5+TX.perday;$("pp-gs").textContent=ml+(ml===1?TX.meal1:TX.mealN)+TX.about+Math.round(g/ml)+" g"+(bc?" · "+TX.bcsN[String(bc)]:"");
+ $("pp-kc").textContent="";$("pp-"+"pr").innerHTML="";if(!f||!kg||m==null||(pup&&!ad)){$("pp-g").textContent="—";$("pp-gs").textContent=!f?TX.need.food:!kg||(pup&&!ad)?TX.need.kg:TX.need.birth;$("pp-tb").innerHTML="";return}
+ var g=grams(kg,m<96?Math.min(eq(m,ad),Math.max(m,12)):m,ster,act,f.kcal);var bc=+S.bcs||0;g=g*(bc===-1?1.1:bc===1?.9:1);$("pp-kc").textContent=TX.kc+Math.round(g*f.kcal/100/10)*10+" kcal";$("pp-g").textContent=Math.round(g/5)*5+TX.perday;$("pp-gs").textContent=ml+(ml===1?TX.meal1:TX.mealN)+TX.about+Math.round(g/ml)+" g"+(bc?" · "+TX.bcsN[String(bc)]:"");$("pp-"+"pr").innerHTML=protHtml(f,g,m,pup,ster,act);
  var R=[],x,F=fine(ad);for(x=2;x<=6;x+=.5)R.push(x);for(x=7;x<=Math.max(12,F);x++)if(x<=12||x===15||x===18||x===F)R.push(x);
  var rows=R.map(function(v){return[v,dec(v)+TX.mo,ad*frac(eq(v,ad))]});rows.push([Math.max(18,F+3),TX.adultR,ad],[96,TX.senior,ad]);
  $("pp-tb").innerHTML=rows.map(function(r,i){var nx=rows[i+1],now=m>=r[0]-.25&&(!nx||m<nx[0]-.25),me=r[0]<96?Math.min(eq(r[0],ad),Math.max(r[0],12)):r[0];return '<tr'+(now?' class="now"':'')+'><td>'+r[1]+'</td><td>'+dec(r[2].toFixed(1))+' kg</td><td class="n">'+Math.round(grams(r[2],me,ster,act,f.kcal)/5)*5+' g</td><td class="n">'+sug(r[0])+'</td></tr>'}).join("")}
