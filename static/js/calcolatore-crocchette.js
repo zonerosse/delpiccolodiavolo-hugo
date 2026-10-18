@@ -32,6 +32,12 @@ var TX={
   th:["Alter","Gewicht ca.","Gramm am Tag","Mahlzeiten"],mo:" Monate",adultR:"Erwachsen",senior:"Senior (ab 8 Jahren)",wk:" Wochen",yr1:" Jahr",yrN:" Jahre",
   src:{p:"✓ Angabe des Herstellers",c:"✓ aus der Analyse berechnet",m:"✓ von Ihnen eingegeben",f:"✓ vom Foto der Packung gelesen"},bad:"kcal pro 100 g liegen meist zwischen 300 und 500: bitte prüfen.",need3:"Mindestens Protein, Fett und Asche werden gebraucht."}
 }[L]||null;if(!TX)return;
+var CM={it:{t:"Componenti analitici",n:["Proteina","Grassi","Fibra","Ceneri","Umidità"],cb:"Carboidrati (calcolati)",no:"Componenti analitici non disponibili per queste crocchette.",est:"umidità non scritta: 10%"},
+ en:{t:"Analytical constituents",n:["Protein","Fat","Fibre","Ash","Moisture"],cb:"Carbohydrates (calculated)",no:"Analytical constituents not available for this kibble.",est:"moisture not stated: 10%"},
+ de:{t:"Analytische Bestandteile",n:["Rohprotein","Fettgehalt","Rohfaser","Rohasche","Feuchtigkeit"],cb:"Kohlenhydrate (berechnet)",no:"Analytische Bestandteile für dieses Futter nicht verfügbar.",est:"Feuchtigkeit nicht angegeben: 10 %"}}[L]||{};
+function cmpHtml(c){if(!c||c.length<4||c[0]==null||c[1]==null)return '<span class="pp-cmpn">'+CM.no+'</span>';var d=function(x){return(L==="en"?String(x):String(x).replace(".",","))+"%"},u=c[4]==null?10:c[4],cb=Math.max(0,Math.round((100-c[0]-c[1]-(c[2]||0)-(c[3]||0)-u)*10)/10);
+ return '<b>'+CM.t+'</b><span>'+[0,1,2,3,4].filter(function(i){return c[i]!=null}).map(function(i){return CM.n[i]+' <b>'+d(c[i])+'</b>'}).join(' · ')+(c[3]!=null?' · '+CM.cb+' <b>'+d(cb)+'</b>'+(c[4]==null?' <small>('+CM.est+')</small>':''):'')+'</span>'}
+
 var SH={it:{u:"✓ aggiunta da un utente e controllata",go:"Controllo i dati per metterla nell'elenco di tutti…",ok:"✓ Controllata: ora è nell'elenco per tutti.",no:"Resta solo nel tuo elenco: non sono riuscito a confermare questi dati con quelli del produttore.",lim:"Resta nel tuo elenco: per oggi i controlli per l'elenco comune sono finiti."},
  en:{u:"✓ added by a user and checked",go:"Checking the data to add it to everyone's list…",ok:"✓ Checked: it is now in the list for everyone.",no:"It stays only in your list: I could not confirm these figures with the manufacturer's.",lim:"It stays in your list: today's checks for the shared list are used up."},
  de:{u:"✓ von einem Nutzer hinzugefügt und geprüft",go:"Ich prüfe die Angaben für die gemeinsame Liste…",ok:"✓ Geprüft: jetzt steht es für alle in der Liste.",no:"Es bleibt nur in Ihrer Liste: die Angaben ließen sich nicht mit denen des Herstellers bestätigen.",lim:"Es bleibt in Ihrer Liste: die Prüfungen für die gemeinsame Liste sind für heute aufgebraucht."}}[L]||{};TX.src.u=SH.u;
@@ -41,13 +47,13 @@ function num(v){return parseFloat(String(v==null?"":v).replace(",","."))||0}
 function dec(x){return(L==="en"?String(x):String(x).replace(".",","))}
 /* elenco dalla tabella della pagina */
 var DB=[];var t=document.getElementById("pappa-db");
-if(t)[].forEach.call(t.querySelectorAll("tbody tr"),function(r,i){var c=r.querySelectorAll("td");if(c.length>=3)DB.push({id:"db"+i,brand:c[0].textContent.trim(),name:c[1].textContent.trim(),kcal:num(c[2].textContent),src:r.getAttribute("data-src")||"p"})});
+if(t)[].forEach.call(t.querySelectorAll("tbody tr"),function(r,i){var c=r.querySelectorAll("td");if(c.length>=3)DB.push({id:"db"+i,brand:c[0].textContent.trim(),name:c[1].textContent.trim(),kcal:num(c[2].textContent),src:r.getAttribute("data-src")||"p",c:(r.getAttribute("data-c")||"").split(",").map(function(x){return x===""?null:+x})})});
 var MY=[];try{MY=JSON.parse(localStorage.getItem("pappaMie")||"[]")||[]}catch(e){MY=[]}
 var API_C="https://gestionale.delpiccolodiavolo.it/api/public/crocchette";
 function addU(U){var seen={};DB.forEach(function(f){seen[(f.brand+" "+f.name).toLowerCase()]=1});(U||[]).forEach(function(x){if(L!=="it"&&x.en)x.name=x.en;var k=(x.brand+" "+x.name).toLowerCase();if(!seen[k]){seen[k]=1;DB.push(x)}});DB.sort(function(a,b){return(a.brand+" "+a.name).toLowerCase()<(b.brand+" "+b.name).toLowerCase()?-1:1})}
 function share(it,cp){var m=$("pp-"+"src");if(m)m.textContent=SH.go;var done=function(t){var e=$("pp-"+"src");if(e)e.textContent=t};
  fetch(API_C,{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({brand:it.brand,name:it.name,kcal:it.kcal,how:it.src,comp:cp})}).then(function(r){return r.json()}).then(function(j){
-  if(j.status==="ok"&&j.item){MY=MY.filter(function(f){return f.id!==it.id});addU([j.item]);if(S.food===it.id)S.food=j.item.id;keep();build();done(SH.ok)}else done(j.status==="no"?SH.no:SH.lim)}).catch(function(){done(SH.lim)})}
+  if(j.status==="ok"&&j.item){if(!j.item.c&&it.c)j.item.c=it.c;MY=MY.filter(function(f){return f.id!==it.id});addU([j.item]);if(S.food===it.id)S.food=j.item.id;keep();build();done(SH.ok)}else done(j.status==="no"?SH.no:SH.lim)}).catch(function(){done(SH.lim)})}
 var S={sex:"m",bcs:0,mode:"age",age:"",birth:"",kg:"",adult:"",food:"",act:1,ster:0,meals:0};try{var o=JSON.parse(localStorage.getItem("pappaStato")||"{}");for(var k in o)S[k]=o[k]}catch(e){}
 function keep(){try{localStorage.setItem("pappaStato",JSON.stringify(S));localStorage.setItem("pappaMie",JSON.stringify(MY))}catch(e){}}
 function foods(){return MY.concat(DB)}function food(id){var F=foods();for(var i=0;i<F.length;i++)if(F[i].id===id)return F[i];return null}
@@ -75,7 +81,7 @@ function build(){var brands=[];DB.forEach(function(f){if(brands.indexOf(f.brand)
  '<label id="pp-todayL" hidden style="margin-top:10px">'+TX.wToday+'<input id="pp-kg" inputmode="decimal" value="'+esc(S.kg)+'"></label>'+
  '<span class="pp-l">'+TX.bcsL+'</span><p class="pp-ok" style="color:#4a5768;margin:2px 0 6px">'+TX.bcsH+'</p><div class="pp-bcs">'+[-1,0,1].map(function(v,i){return '<button type="button" class="pp-b'+(+S.bcs===v?' on':'')+'" data-k="bcs" data-v="'+v+'">'+DOGS[i]+'<b>'+TX.bcs[i][0]+'</b><small>'+TX.bcs[i][1]+'</small></button>'}).join("")+'</div></div>'+
  '<div class="pp-p">'+H(3)+'<span class="pp-l" style="margin-top:0">'+TX.act+'</span>'+chips("act",[[.85,TX.acts[0]],[1,TX.acts[1]],[1.25,TX.acts[2]],[1.6,TX.acts[3]]])+
- '<label style="margin-top:14px">'+TX.food+'<select id="pp-food"><option value="">'+TX.pick+'</option>'+(MY.length?'<optgroup label="'+esc(TX.mine)+'">'+MY.map(opt).join("")+'</optgroup>':'')+brands.map(function(b){return '<optgroup label="'+esc(b)+'">'+DB.filter(function(f){return f.brand===b}).map(opt).join("")+'</optgroup>'}).join("")+'</select><span class="pp-ok" id="pp-src"></span></label>'+
+ '<label style="margin-top:14px">'+TX.food+'<select id="pp-food"><option value="">'+TX.pick+'</option>'+(MY.length?'<optgroup label="'+esc(TX.mine)+'">'+MY.map(opt).join("")+'</optgroup>':'')+brands.map(function(b){return '<optgroup label="'+esc(b)+'">'+DB.filter(function(f){return f.brand===b}).map(opt).join("")+'</optgroup>'}).join("")+'</select><span class="pp-ok" id="pp-src"></span></label><div class="pp-cmp" id="pp-cmp" hidden></div>'+
  '<div class="pp-oth"><b>'+TX.other+'</b><span class="pp-ai">'+TX.ai+'</span><div class="pp-g2"><button type="button" class="pp-c" data-x="foto">'+TX.foto+'</button><button type="button" class="pp-c" data-x="man">'+TX.man+'</button><button type="button" class="pp-c" data-x="comp">'+TX.comp+'</button></div><p class="pp-ok" style="color:#4a5768">'+TX.fotoH+'</p><div id="pp-add" hidden></div></div>'+
  '<span class="pp-l">'+TX.meals+'</span><div class="pp-ch" id="pp-meals"></div><span class="pp-ok" id="pp-ms"></span></div>'+
  '<div class="pp-res" aria-live="polite"><span class="pp-kc" id="pp-kc"></span><b id="pp-g">—</b><span id="pp-gs"></span></div>'+
@@ -85,7 +91,7 @@ function build(){var brands=[];DB.forEach(function(f){if(brands.indexOf(f.brand)
 function $(id){return document.getElementById(id)}
 function draw(){var m=ageM(),f=food(S.food),ad=num(S.adult),pup=m!=null&&m<Math.max(18,fine(ad)+3),kg=pup?(num(S.kg)||ad*frac(eq(m,ad))):ad,ster=+S.ster===1,act=+S.act||1,sg=m!=null?sug(m):2,ml=+S.meals||sg;
  $("pp-agetx").textContent=S.mode==="date"&&m!=null?TX.age+": "+ageTxt(m):"";$("pp-wl").firstChild.nodeValue=pup?TX.wPup:TX.wAdult;$("pp-todayL").hidden=!pup;$("pp-kg").placeholder=pup&&ad?TX.est+dec((ad*frac(eq(m,ad))).toFixed(1))+" kg":"";
- [].forEach.call(box.querySelectorAll(".pp-s"),function(b){b.classList.toggle("on",Math.round(+b.getAttribute("data-sz")*(S.sex==="f"?.9:1))===ad)});$("pp-src").textContent=f?(TX.src[f.src]||""):"";
+ [].forEach.call(box.querySelectorAll(".pp-s"),function(b){b.classList.toggle("on",Math.round(+b.getAttribute("data-sz")*(S.sex==="f"?.9:1))===ad)});$("pp-src").textContent=f?(TX.src[f.src]||""):"";var cm=$("pp-"+"cmp");if(cm){cm.hidden=!f;cm.innerHTML=f?cmpHtml(f.c):""}
  $("pp-meals").innerHTML=[1,2,3,4,5].map(function(n){return '<button type="button" class="pp-c'+(n===ml?' on':'')+'" data-k="meals" data-v="'+n+'">'+n+(n===sg?'<small>'+TX.sug+'</small>':'')+'</button>'}).join("");
  $("pp-ms").textContent=m==null?"":sg===4?TX.m4:sg===3?TX.m3:TX.m2;
  $("pp-kc").textContent="";if(!f||!kg||m==null||(pup&&!ad)){$("pp-g").textContent="—";$("pp-gs").textContent=!f?TX.need.food:!kg||(pup&&!ad)?TX.need.kg:TX.need.birth;$("pp-tb").innerHTML="";return}
@@ -102,7 +108,7 @@ var API="https://gestionale.delpiccolodiavolo.it/api/public/sacco";
 function shrink(f){return new Promise(function(ok){var r=new FileReader();r.onload=function(){var im=new Image();im.onload=function(){var k=Math.min(1,1600/Math.max(im.width,im.height)),c=document.createElement("canvas");c.width=Math.round(im.width*k);c.height=Math.round(im.height*k);c.getContext("2d").drawImage(im,0,0,c.width,c.height);ok(c.toDataURL("image/jpeg",.85))};im.onerror=function(){ok(null)};im.src=r.result};r.onerror=function(){ok(null)};r.readAsDataURL(f)})}
 function foto(b){var i=document.createElement("input");i.type="file";i.accept="image/*";i.multiple=true;i.onchange=function(){var fs=[].slice.call(i.files,0,2);if(!fs.length)return;var lab=b.innerHTML;b.disabled=true;b.innerHTML=TX.reading;
   Promise.all(fs.map(shrink)).then(function(parts){parts=parts.filter(Boolean);return fetch(API,{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({parts:parts})})}).then(function(r){return r.json()}).then(function(j){
-    b.disabled=false;b.innerHTML=lab;addForm("man");if(!j.ok){$("pp-err").textContent=j.limit?TX.limit:TX.fail;return}
+    b.disabled=false;b.innerHTML=lab;addForm(j&&j.ok&&j.p!=null&&j.f!=null?"comp":"man");if(j&&j.ok&&j.p!=null)["p","f","fi","a","u"].forEach(function(q){var e=$("pp-"+q);if(e&&j[q]!=null)e.value=L==="en"?j[q]:String(j[q]).replace(".",",")});if(!j.ok){$("pp-err").textContent=j.limit?TX.limit:TX.fail;return}
     $("pp-n").value=((j.brand||"")+" "+(j.name||"")).trim();if(j.kcal)$("pp-k").value=j.kcal;$("pp-add").setAttribute("data-foto","1");
     var m=$("pp-err");m.style.color="#2e6b34";m.textContent=j.kcal?TX.how[j.how]||"":TX.how.none;if(!j.kcal)m.style.color=""
   }).catch(function(){b.disabled=false;b.innerHTML=lab;addForm("man");$("pp-err").textContent=TX.limit})};i.click()}
@@ -115,7 +121,7 @@ box.addEventListener("click",function(e){var b=e.target.closest("button");if(!b|
  if(x==="calc"){var v=function(id){var s=$(id).value.trim();return s===""?null:num(s)},p=v("pp-p"),f=v("pp-f"),a=v("pp-a");if(p==null||f==null||a==null){$("pp-err").textContent=TX.need3;return}
    var u=v("pp-u");$("pp-k").value=Math.round(3.5*p+8.5*f+3.5*Math.max(0,100-p-f-(v("pp-fi")||0)-a-(u==null?10:u)));b.setAttribute("data-c","1");return}
  if(x==="save"){var n=$("pp-n").value.trim(),kc=Math.round(num($("pp-k").value));if(!(kc>200&&kc<700)){$("pp-err").textContent=TX.bad;return}
-   var cb=box.querySelector('[data-x="calc"][data-c="1"]');var it={id:"my"+Date.now().toString(36),brand:"",name:n||"—",kcal:kc,src:$("pp-add").getAttribute("data-foto")?"f":cb?"c":"m"};var cp={};["p","f","fi","a","u"].forEach(function(q){var e=$("pp-"+q);if(e&&e.value.trim()!=="")cp[q]=num(e.value)});MY.unshift(it);S.food=it.id;keep();build();share(it,cp)}});
+   var cb=box.querySelector('[data-x="calc"][data-c="1"]');var it={id:"my"+Date.now().toString(36),brand:"",name:n||"—",kcal:kc,src:$("pp-add").getAttribute("data-foto")?"f":cb?"c":"m"};var cp={};["p","f","fi","a","u"].forEach(function(q){var e=$("pp-"+q);if(e&&e.value.trim()!=="")cp[q]=num(e.value)});if(cp.p!=null&&cp.f!=null)it.c=[cp.p,cp.f,cp.fi==null?null:cp.fi,cp.a==null?null:cp.a,cp.u==null?null:cp.u];MY.unshift(it);S.food=it.id;keep();build();share(it,cp)}});
 box.addEventListener("input",function(e){var id=e.target.id;if(id==="pp-birth"||id==="pp-kg"||id==="pp-adult"){S[id.slice(3)]=e.target.value.trim();keep();draw()}});
 box.addEventListener("change",function(e){if(e.target.id==="pp-age"){S.age=e.target.value;keep();draw()}});
 box.addEventListener("change",function(e){if(e.target.id==="pp-food"){S.food=e.target.value;keep();draw()}});

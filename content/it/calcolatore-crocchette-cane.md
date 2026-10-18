@@ -103,40 +103,40 @@ custom_content: |
   <tr><th>Marca</th><th>Crocchette</th><th>kcal per 100 g</th><th>Valore</th></tr>
   </thead>
   <tbody>
-  <tr data-src="p"><td>Acana</td><td>Adult Dog Recipe</td><td>351</td><td>produttore</td></tr>
-  <tr data-src="c"><td>Acana</td><td>Puppy Recipe</td><td>366</td><td>calcolato</td></tr>
-  <tr data-src="p"><td>Advance</td><td>Medium Puppy Protect pollo</td><td>428</td><td>produttore</td></tr>
-  <tr data-src="p"><td>Almo Nature Holistic</td><td>Medium Adult pollo e riso</td><td>379</td><td>produttore</td></tr>
-  <tr data-src="p"><td>Brit Care</td><td>Adult Medium Breed agnello e riso</td><td>381</td><td>produttore</td></tr>
-  <tr data-src="p"><td>Brit Care</td><td>Puppy agnello e riso</td><td>400</td><td>produttore</td></tr>
-  <tr data-src="p"><td>Eukanuba</td><td>Adult Medium Breed</td><td>406</td><td>produttore</td></tr>
-  <tr data-src="c"><td>Exclusion Mediterraneo</td><td>Adult Medium pollo</td><td>373</td><td>calcolato</td></tr>
-  <tr data-src="c"><td>Exclusion Mediterraneo</td><td>Puppy Medium pollo</td><td>389</td><td>calcolato</td></tr>
-  <tr data-src="p"><td>Farmina N&amp;D Ancestral Grain</td><td>Adult Medium/Maxi pollo e melograno</td><td>389</td><td>produttore</td></tr>
-  <tr data-src="p"><td>Farmina N&amp;D Ancestral Grain</td><td>Puppy Medium/Maxi pollo e melograno</td><td>444</td><td>produttore</td></tr>
-  <tr data-src="p"><td>Farmina N&amp;D Pumpkin</td><td>Puppy Medium/Maxi agnello e zucca</td><td>414</td><td>produttore</td></tr>
-  <tr data-src="p"><td>Gemon</td><td>Medium Adult pollo e riso</td><td>399</td><td>produttore</td></tr>
-  <tr data-src="c"><td>Hill's Science Plan</td><td>Adult Medium pollo</td><td>374</td><td>calcolato</td></tr>
-  <tr data-src="p"><td>Hill's Science Plan</td><td>Puppy Medium pollo</td><td>385</td><td>produttore</td></tr>
-  <tr data-src="p"><td>Josera</td><td>Festival</td><td>382</td><td>produttore</td></tr>
-  <tr data-src="p"><td>Josera</td><td>JosiDog Adult Sensitive</td><td>374</td><td>produttore</td></tr>
-  <tr data-src="p"><td>Josera</td><td>YoungStar</td><td>373</td><td>produttore</td></tr>
-  <tr data-src="p"><td>Monge</td><td>Medium Adult pollo</td><td>400</td><td>produttore</td></tr>
-  <tr data-src="p"><td>Monge</td><td>Medium Puppy &amp; Junior pollo</td><td>420</td><td>produttore</td></tr>
-  <tr data-src="c"><td>Natural Trainer</td><td>Puppy &amp; Junior Medium pollo</td><td>380</td><td>calcolato</td></tr>
-  <tr data-src="p"><td>Orijen</td><td>Original</td><td>394</td><td>produttore</td></tr>
-  <tr data-src="p"><td>Orijen</td><td>Puppy</td><td>400</td><td>produttore</td></tr>
-  <tr data-src="c"><td>Purina One</td><td>Medium/Maxi Adult pollo</td><td>365</td><td>calcolato</td></tr>
-  <tr data-src="p"><td>Purina Pro Plan</td><td>Medium Adult pollo</td><td>390</td><td>produttore</td></tr>
-  <tr data-src="p"><td>Purina Pro Plan</td><td>Medium Puppy pollo</td><td>405</td><td>produttore</td></tr>
-  <tr data-src="p"><td>Royal Canin</td><td>Medium Adult</td><td>388</td><td>produttore</td></tr>
-  <tr data-src="p"><td>Royal Canin</td><td>Medium Puppy</td><td>410</td><td>produttore</td></tr>
-  <tr data-src="c"><td>Royal Canin</td><td>Medium Sterilised</td><td>340</td><td>calcolato</td></tr>
-  <tr data-src="c"><td>Schesir</td><td>Medium Puppy pollo</td><td>387</td><td>calcolato</td></tr>
-  <tr data-src="p"><td>Special Dog Excellence</td><td>Maxi Adult pollo</td><td>420</td><td>produttore</td></tr>
-  <tr data-src="p"><td>Taste of the Wild</td><td>High Prairie Adult</td><td>372</td><td>produttore</td></tr>
-  <tr data-src="p"><td>Taste of the Wild</td><td>High Prairie Puppy</td><td>366</td><td>produttore</td></tr>
-  <tr data-src="p"><td>Wolf of Wilderness</td><td>Adult Oak Woods cinghiale</td><td>369</td><td>produttore</td></tr>
+  <tr data-c="29,17,5,7,12" data-src="p"><td>Acana</td><td>Adult Dog Recipe</td><td>351</td><td>produttore</td></tr>
+  <tr data-c="33,20,5,7,12" data-src="c"><td>Acana</td><td>Puppy Recipe</td><td>366</td><td>calcolato</td></tr>
+  <tr data-c="32,23,2,6.5," data-src="p"><td>Advance</td><td>Medium Puppy Protect pollo</td><td>428</td><td>produttore</td></tr>
+  <tr data-c="25,15,2.5,8.5,9" data-src="p"><td>Almo Nature Holistic</td><td>Medium Adult pollo e riso</td><td>379</td><td>produttore</td></tr>
+  <tr data-c="26,16,2.5,7.2,10" data-src="p"><td>Brit Care</td><td>Adult Medium Breed agnello e riso</td><td>381</td><td>produttore</td></tr>
+  <tr data-c="32,18,1.5,7.7,10" data-src="p"><td>Brit Care</td><td>Puppy agnello e riso</td><td>400</td><td>produttore</td></tr>
+  <tr data-c="27,15,2.4,6.5," data-src="p"><td>Eukanuba</td><td>Adult Medium Breed</td><td>406</td><td>produttore</td></tr>
+  <tr data-c="25,16,2.3,6,8" data-src="c"><td>Exclusion Mediterraneo</td><td>Adult Medium pollo</td><td>373</td><td>calcolato</td></tr>
+  <tr data-c="28,20,2.3,7,8" data-src="c"><td>Exclusion Mediterraneo</td><td>Puppy Medium pollo</td><td>389</td><td>calcolato</td></tr>
+  <tr data-c="30,18,2.9,6.8,9" data-src="p"><td>Farmina N&amp;D Ancestral Grain</td><td>Adult Medium/Maxi pollo e melograno</td><td>389</td><td>produttore</td></tr>
+  <tr data-c="30,20,2.5,8,9" data-src="p"><td>Farmina N&amp;D Ancestral Grain</td><td>Puppy Medium/Maxi pollo e melograno</td><td>444</td><td>produttore</td></tr>
+  <tr data-c="30,20,2.5,8.1,9" data-src="p"><td>Farmina N&amp;D Pumpkin</td><td>Puppy Medium/Maxi agnello e zucca</td><td>414</td><td>produttore</td></tr>
+  <tr data-c="25,14,2.5,8," data-src="p"><td>Gemon</td><td>Medium Adult pollo e riso</td><td>399</td><td>produttore</td></tr>
+  <tr data-c="21.5,14.9,1.5,4.6," data-src="c"><td>Hill's Science Plan</td><td>Adult Medium pollo</td><td>374</td><td>calcolato</td></tr>
+  <tr data-c="27.4,17.9,1.7,7.7," data-src="p"><td>Hill's Science Plan</td><td>Puppy Medium pollo</td><td>385</td><td>produttore</td></tr>
+  <tr data-c="26,16,2.5,6.7," data-src="p"><td>Josera</td><td>Festival</td><td>382</td><td>produttore</td></tr>
+  <tr data-c="25,13,2.2,6.3," data-src="p"><td>Josera</td><td>JosiDog Adult Sensitive</td><td>374</td><td>produttore</td></tr>
+  <tr data-c="25,13,2,7.2," data-src="p"><td>Josera</td><td>YoungStar</td><td>373</td><td>produttore</td></tr>
+  <tr data-c="26,14,2.2,6.5," data-src="p"><td>Monge</td><td>Medium Adult pollo</td><td>400</td><td>produttore</td></tr>
+  <tr data-c="29,18,2,7.5," data-src="p"><td>Monge</td><td>Medium Puppy &amp; Junior pollo</td><td>420</td><td>produttore</td></tr>
+  <tr data-c="30,18,2,7," data-src="c"><td>Natural Trainer</td><td>Puppy &amp; Junior Medium pollo</td><td>380</td><td>calcolato</td></tr>
+  <tr data-c="38,18,5,9,12" data-src="p"><td>Orijen</td><td>Original</td><td>394</td><td>produttore</td></tr>
+  <tr data-c="38,20,5,8,12" data-src="p"><td>Orijen</td><td>Puppy</td><td>400</td><td>produttore</td></tr>
+  <tr data-c="28,16,2,6.5," data-src="c"><td>Purina One</td><td>Medium/Maxi Adult pollo</td><td>365</td><td>calcolato</td></tr>
+  <tr data-c="26,16,2.5,7.5," data-src="p"><td>Purina Pro Plan</td><td>Medium Adult pollo</td><td>390</td><td>produttore</td></tr>
+  <tr data-c="30,19,2,7.5," data-src="p"><td>Purina Pro Plan</td><td>Medium Puppy pollo</td><td>405</td><td>produttore</td></tr>
+  <tr data-c="25,14,1.6,6.2," data-src="p"><td>Royal Canin</td><td>Medium Adult</td><td>388</td><td>produttore</td></tr>
+  <tr data-c="32,20,1.7,8.2," data-src="p"><td>Royal Canin</td><td>Medium Puppy</td><td>410</td><td>produttore</td></tr>
+  <tr data-c="28,13,6.4,4.9," data-src="c"><td>Royal Canin</td><td>Medium Sterilised</td><td>340</td><td>calcolato</td></tr>
+  <tr data-c="30,20,2.5,6.5,9" data-src="c"><td>Schesir</td><td>Medium Puppy pollo</td><td>387</td><td>calcolato</td></tr>
+  <tr data-c="28,17,1.9,6.3," data-src="p"><td>Special Dog Excellence</td><td>Maxi Adult pollo</td><td>420</td><td>produttore</td></tr>
+  <tr data-c="32,18,3,9.2,10" data-src="p"><td>Taste of the Wild</td><td>High Prairie Adult</td><td>372</td><td>produttore</td></tr>
+  <tr data-c="27,15,5,7.3,10" data-src="p"><td>Taste of the Wild</td><td>High Prairie Puppy</td><td>366</td><td>produttore</td></tr>
+  <tr data-c="25.5,14,2.8,8," data-src="p"><td>Wolf of Wilderness</td><td>Adult Oak Woods cinghiale</td><td>369</td><td>produttore</td></tr>
   </tbody>
   </table>
   <p>Quando l'energia non è scritta, si calcola dai cinque componenti analitici del sacco, con la formula di Atwater modificata che usano le linee guida europee:</p>
