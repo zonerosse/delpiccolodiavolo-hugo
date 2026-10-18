@@ -1,9 +1,17 @@
 ---
-title: "Wie viel frisst Ihr Hund: Futterrechner für Trockenfutter"
+title: "Wie viel Futter braucht ein Hund: Futterrechner für Trockenfutter"
 date: 2026-10-18
 lastmod: 2026-10-18
 titleSeo: "Wie viel Futter braucht mein Hund? Futterrechner"
 translationKey: "calcolatore-crocchette"
+tags:
+  - "wie viel Futter braucht ein Hund"
+  - "Futterrechner Hund"
+  - "Futtermenge Hund"
+  - "Gramm Trockenfutter pro Tag"
+  - "Welpenfütterung"
+  - "Kalorien Hundefutter"
+json_ld: '{"@context": "https://schema.org", "@type": "WebApplication", "name": "Futterrechner", "url": "https://delpiccolodiavolo.it/de/futterrechner-hund/", "description": "Berechnet die Gramm Trockenfutter pro Tag für einen Hund nach Alter, Gewicht, Größe, Bewegung und Kalorien des Futters.", "applicationCategory": "LifestyleApplication", "operatingSystem": "Any", "browserRequirements": "Requires JavaScript", "inLanguage": "de", "isAccessibleForFree": true, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "EUR"}, "featureList": ["Gramm Trockenfutter pro Tag", "Tabelle nach Alter vom Welpen bis zum Senior", "Kalorien von 34 gängigen Futtersorten", "Kalorien aus den analytischen Bestandteilen der Packung", "Lesen eines Fotos der Packung"], "publisher": {"@id": "https://delpiccolodiavolo.it/#organization"}}'
 in_breve:
   - "Der Rechner gibt die Gramm Trockenfutter pro Tag aus Alter, Gewicht, Bewegung und Kalorien des Futters an."
   - "Die Kalorien von 34 gängigen Futtern stehen schon in der Liste; andere gibt man selbst ein oder berechnet sie aus der Packung."
@@ -13,7 +21,7 @@ image: "/images/blog/icone/calcolatore-crocchette-cane.webp"
 og_image: "/images/og/schede/de/futterrechner-hund.jpg"
 og_image_alt: "Wie viel Futter braucht mein Hund? Futterrechner — Zucht Del Piccolo Diavolo"
 thumb: "/images/blog/icone/calcolatore-crocchette-cane.webp"
-description: "Berechnen Sie die Gramm Trockenfutter pro Tag nach Alter, Gewicht und Bewegung, mit den Kalorien von 34 gängigen Futtern und der Formel der Tierärzte."
+description: "Wie viel Futter braucht ein Hund? Der Rechner gibt die Gramm Trockenfutter pro Tag nach Alter, Gewicht, Größe und Bewegung an, mit 34 gängigen Futtern."
 slug: "futterrechner-hund"
 custom_content: |
   <!--BLOCCO:1-->
@@ -25,7 +33,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Welpen</span>
-  <h1 class="hero-title">Wie viel frisst <em>Ihr Hund</em></h1>
+  <h1 class="hero-title">Wie viel Futter braucht <em>Ihr Hund</em></h1>
   <p class="hero-subtitle">Gramm Trockenfutter am Tag, vom Welpen bis zum Senior</p>
   <div class="hero-meta">
   <span>📅 18. Oktober 2026</span>
@@ -55,7 +63,7 @@ custom_content: |
   <div id="pappa" class="pp"><noscript>Der Rechner braucht JavaScript. Ohne lässt sich die Rechnung mit der Formel und den Tabellen unten von Hand machen.</noscript></div>
   <script src="/js/calcolatore-crocchette.js" defer></script>
 
-  <p>Der Rechner oben sagt, wie viel Gramm Trockenfutter ein Hund am Tag bekommt, vom zwei Monate alten Welpen bis zum Senior. Er geht vom Ruhebedarf aus, den Tierärzte verwenden, 70 mal das Gewicht in Kilo hoch 0,75, und multipliziert ihn mit einem Faktor, der vom Alter abhängt: 3 bis zum dritten Monat, 2 mit sechs Monaten, 1,6 bis 1,8 beim Erwachsenen. Dann teilt er das Ergebnis durch die Kalorien des Futters. Für 34 in Europa verbreitete Futtersorten stehen die Kalorien schon in der Liste; für alle anderen gibt man sie selbst ein, berechnet sie aus den analytischen Bestandteilen auf der Packung oder lässt ein Foto der Packung lesen. Die Zahl, die herauskommt, ist ein Ausgangspunkt, den man alle zwei Wochen am Hund prüft. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Zucht Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
+  <p>Wie viel Futter braucht ein Hund? Der Rechner oben sagt, wie viel Gramm Trockenfutter ein Hund am Tag bekommt, vom zwei Monate alten Welpen bis zum Senior. Er geht vom Ruhebedarf aus, den Tierärzte verwenden, 70 mal das Gewicht in Kilo hoch 0,75, und multipliziert ihn mit einem Faktor, der vom Alter abhängt: 3 bis zum dritten Monat, 2 mit sechs Monaten, 1,6 bis 1,8 beim Erwachsenen. Dann teilt er das Ergebnis durch die Kalorien des Futters. Für 34 in Europa verbreitete Futtersorten stehen die Kalorien schon in der Liste; für alle anderen gibt man sie selbst ein, berechnet sie aus den analytischen Bestandteilen auf der Packung oder lässt ein Foto der Packung lesen. Die Zahl, die herauskommt, ist ein Ausgangspunkt, den man alle zwei Wochen am Hund prüft. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Zucht Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
   <!--BLOCCO:2-->
   <h2>Die Formeln der Berechnung</h2>
@@ -140,6 +148,37 @@ custom_content: |
   <!--/BLOCCO:4-->
 
   <!--BLOCCO:5-->
+  <h2>Fragen dazu, wie viel ein Hund fressen soll</h2>
+  <div class="faq-item">
+  <h3 class="faq-q">Wie viel Gramm Trockenfutter braucht ein Hund mit 10 kg?</h3>
+  <div class="faq-answer">
+  <p>Ein erwachsener Hund mit 10 kg, nicht kastriert und mit normaler Bewegung, braucht etwa 710 kcal am Tag: 70 mal 10 hoch 0,75 ergibt 394 kcal Ruhebedarf, und mal 1,8 werden daraus 710. Mit einem Futter von 380 kcal pro 100 Gramm sind das etwa 185 Gramm am Tag, auf zwei Mahlzeiten verteilt. Ist der Hund kastriert, sinkt der Faktor auf 1,6 und die Ration auf etwa 165 Gramm. Mit einem gehaltvolleren Futter von 420 kcal passt dieselbe Energie in 170 Gramm: deshalb muss die Zahl mit dem Futter berechnet werden, das man wirklich gibt.</p>
+  </div>
+  </div>
+
+  <div class="faq-item">
+  <h3 class="faq-q">Wie viel frisst ein Welpe im Vergleich zu einem erwachsenen Hund?</h3>
+  <div class="faq-answer">
+  <p>Im Verhältnis zum Gewicht viel mehr. Bis zum dritten Monat verbraucht ein Welpe etwa das Dreifache seines Ruhebedarfs, ein Erwachsener dagegen das 1,6- bis 1,8-Fache, weil fast alles ins Wachstum geht. Ein mittelgroßer Welpe, der mit zweieinhalb Monaten 5 kg wiegt, frisst so viel wie ein erwachsener Hund mit 10 kg. Von drei bis sechs Monaten sinkt der Faktor gegen 2, und um das erste Jahr erreicht er den des Erwachsenen; bei großen und Riesenrassen dauert das länger, bis fünfzehn und zwanzig Monate. Auch die Mahlzeiten ändern sich: in den ersten Monaten kleiner und häufiger.</p>
+  </div>
+  </div>
+
+  <div class="faq-item">
+  <h3 class="faq-q">Sind die Mengenangaben auf der Futterpackung zuverlässig?</h3>
+  <div class="faq-answer">
+  <p>Sie sind ein vernünftiger Ausgangspunkt, aber der Hersteller muss eine Menge angeben, die zu vielen verschiedenen Hunden passt, und nennt meist eine breite Spanne für jedes Gewicht. Ein kastrierter Hund, der im Haus lebt und zweimal am Tag spazieren geht, liegt eher am unteren Ende der Spanne oder sogar darunter. Das Problem ist, dass ein kleiner Überschuss nicht sofort sichtbar wird: er sammelt sich Tag für Tag an, und unter der Muskulatur eines kräftigen Hundes bleibt er lange unbemerkt. Deshalb prüft man die Ration alle zwei Wochen am Hund, mit der Hand auf den Rippen, und passt sie um jeweils 10 % an.</p>
+  </div>
+  </div>
+
+  <div class="faq-item">
+  <h3 class="faq-q">Was ändert sich beim Wechsel auf eine andere Futtermarke?</h3>
+  <div class="faq-answer">
+  <p>Die Ration muss neu berechnet werden, weil zwei Futter bei gleicher Grammzahl sehr unterschiedlich viel Energie liefern können. In der Liste des Rechners reichen sie von 340 bis 444 kcal pro 100 Gramm: wer vom ersten zum zweiten wechselt, ohne die Menge zu ändern, gibt etwa 30 % mehr Kalorien. Man wählt das neue Futter im Rechner, liest die neue Menge ab und stellt über sieben bis zehn Tage um, indem man beide Futter mischt, wie im Ratgeber zur ersten Fütterung beschrieben. Nach zwei Wochen prüft man die Rippen und passt um 10 % an, wenn nötig.</p>
+  </div>
+  </div>
+  <!--/BLOCCO:5-->
+
+  <!--BLOCCO:6-->
   <h2>Die Zahl prüft man am Hund</h2>
   <p>Keine Formel kennt den Hund, der vor Ihnen steht. Die Rippen sollen sich mit flacher Hand ohne Druck fühlen lassen, und von oben soll man eine Taille sehen. Sind die Rippen nicht mehr zu fühlen, kürzt man die Ration um 10 %; sieht man sie, erhöht man sie um 10 %. Ein Welpe wird einmal pro Woche gewogen, immer auf derselben Waage.</p>
   <p>Leckerli gehören zur Gesamtmenge: sie sollten unter 10 % der Tageskalorien bleiben, und am einfachsten nimmt man einen Teil der Ration für das Training.</p>
@@ -172,16 +211,16 @@ custom_content: |
   <div class="article-footer">
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
   </div>
-  <!--/BLOCCO:5-->
+  <!--/BLOCCO:6-->
 
   </article>
   </div>
 
-  <!--BLOCCO:6-->
+  <!--BLOCCO:7-->
   <section class="cta-section">
   <h2>Unsicher bei der Ration Ihres Hundes?</h2>
   <p>Schreiben Sie uns: wir sagen Ihnen, wie wir sie bei unseren Hunden anpassen, vom Welpen bis zum Erwachsenen.</p>
   <a href="/wa/393924635584?text=Hallo%20Paolo%2C%20ich%20habe%20den%20Futterrechner%20benutzt%20und%20h%C3%A4tte%20eine%20Frage" class="btn" title="Kontaktieren Sie uns auf WhatsApp">Schreiben Sie uns auf WhatsApp</a>
   </section>
-  <!--/BLOCCO:6-->
+  <!--/BLOCCO:7-->
 ---

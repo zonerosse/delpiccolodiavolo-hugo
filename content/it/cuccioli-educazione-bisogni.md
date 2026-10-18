@@ -2,7 +2,7 @@
 title: "Cuccioli: educazione ai bisogni"
 date: 2025-05-22
 titleSeo: "Educare il cucciolo ai bisogni: metodo e tempi reali"
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "bisogni"
 articolo: true
 image: "/images/blog/cucciolo-ritratto-hero.webp"
@@ -108,6 +108,7 @@ custom_content: |
   <li><a href="/cuccioli-socializzazione-in-casa/" title="Socializzazione in casa">Socializzare il cucciolo in casa: la lista per la famiglia</a></li>
   <li><a href="/cuccioli-prima-passeggiata/" title="Prima passeggiata">La prima passeggiata: quando e come iniziare</a></li>
   <li><a href="/cuccioli-alimentazione-iniziale/" title="Alimentazione iniziale">Alimentazione iniziale: quanto, quante volte e cosa non dare</a></li>
+  <li><a href="/calcolatore-crocchette-cane/" title="Calcolatore delle crocchette">Quanto deve mangiare un cane: il calcolatore delle crocchette</a></li>
   <li><a href="/cuccioli-gestione-solitudine/" title="Gestione solitudine">Insegnare al cucciolo a restare solo, senza stress</a></li>
   </ul>
   </div>

@@ -344,3 +344,13 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
     `style` di fondo): solo bordo oro o rame. Fascia finale `.cta-section` scura e uniforme, senza alone marrone.
   - Foto in testata sempre intera, mai tagliata (scelta A): `object-fit:contain` su fondo scuro; al telefono alta il 62% dello
     schermo. La foto di Bilquis in testata è `bilquis-campionessa-hero.avif` (800×976), non più `femmina-bilquis-hero.avif` (301×396, sgranata).
+
+## Calcolatore delle crocchette (18/10/2026, Paolo)
+- Pagine `calcolatore-crocchette-cane` / `dog-food-calculator` / `futterrechner-hund` (translationKey `calcolatore-crocchette`).
+  Il calcolatore è `static/js/calcolatore-crocchette.js` (testi IT/EN/DE dentro lo script), stile `.pp*` in fondo a `main.css`.
+  L'elenco delle crocchette è la tabella `#pappa-db` della pagina (una sola fonte: lo script la legge); per aggiungerne una si
+  aggiunge una riga nelle tre lingue (`data-src="p"` produttore, `"c"` calcolato dai componenti).
+- Età da elenco (o data di nascita), peso a occhio o per taglia (piccola, media, grande, gigante); la crescita finisce a 10/12/15/20 mesi
+  secondo la taglia. 📷 foto del sacco: `https://gestionale.delpiccolodiavolo.it/api/public/sacco` (limite 30 letture al giorno,
+  3 per visitatore, scritto sulla pagina). Le crocchette aggiunte dal visitatore restano nel suo browser (localStorage).
+- SEO: `titleSeo` «Quanto deve mangiare un cane…», `tags` (keywords dell'Article), `json_ld` WebApplication, 4 FAQ (FAQPage).

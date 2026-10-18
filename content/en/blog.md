@@ -74,7 +74,7 @@ custom_content: |
   <a href="/en/dog-food-calculator/" title="Read: Kibble calculator"><div class="blog-card-thumb"><img src="/images/blog/icone/calcolatore-crocchette-cane.webp" alt="Kibble calculator for dogs" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18 Oct 2026</span><span>&bull;</span><span class="cat">Puppies</span></div>
-  <h3><a href="/en/dog-food-calculator/" title="Read: Kibble calculator">How much should your dog eat: kibble calculator</a></h3>
+  <h3><a href="/en/dog-food-calculator/" title="Read: Kibble calculator">How much should a dog eat: kibble calculator</a></h3>
   <p>Grams a day by age, weight and activity, with the calories of 34 foods.</p>
   </div>
   </article>

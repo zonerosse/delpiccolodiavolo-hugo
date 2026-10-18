@@ -110,6 +110,7 @@ custom_content: |
   <li><a href="/en/puppy-home-socialization/" title="Socialising the puppy at home: the family checklist">Socialising the puppy at home: the family checklist</a></li>
   <li><a href="/en/puppy-first-walk/" title="A puppy&#x27;s first walk: when to start and how">A puppy's first walk: when to start and how</a></li>
   <li><a href="/en/puppy-initial-feeding/" title="Feeding a Staffordshire Bull Terrier puppy: first months">Feeding a Staffordshire Bull Terrier puppy: first months</a></li>
+  <li><a href="/en/dog-food-calculator/" title="Kibble calculator">How much should a dog eat: the kibble calculator</a></li>
   <li><a href="/en/puppy-alone-time/" title="Teaching a puppy to stay alone without stress">Teaching a puppy to stay alone without stress</a></li>
   </ul>
   </div>

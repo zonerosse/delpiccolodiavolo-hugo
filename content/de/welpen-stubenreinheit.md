@@ -109,6 +109,7 @@ custom_content: |
   <li><a href="/de/welpen-sozialisierung-zuhause/" title="Welpen zu Hause sozialisieren: die Liste für die Familie">Welpen zu Hause sozialisieren: die Liste für die Familie</a></li>
   <li><a href="/de/welpen-erster-spaziergang/" title="Der erste Spaziergang des Welpen: wann und wie">Der erste Spaziergang des Welpen: wann und wie</a></li>
   <li><a href="/de/welpen-erste-fuetterung/" title="Ernährung des Welpen in den ersten Monaten">Ernährung des Welpen in den ersten Monaten</a></li>
+  <li><a href="/de/futterrechner-hund/" title="Futterrechner">Wie viel Futter braucht ein Hund: der Futterrechner</a></li>
   <li><a href="/de/welpen-allein-bleiben/" title="Welpen lernen allein zu bleiben, ohne Stress">Welpen lernen allein zu bleiben, ohne Stress</a></li>
   </ul>
   </div>

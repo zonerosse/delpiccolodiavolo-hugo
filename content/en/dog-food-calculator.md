@@ -1,9 +1,17 @@
 ---
-title: "How much should your dog eat: kibble calculator"
+title: "How much should a dog eat: kibble calculator"
 date: 2026-10-18
 lastmod: 2026-10-18
-titleSeo: "How much should my dog eat? Kibble calculator"
+titleSeo: "How much should I feed my dog? Dog food calculator"
 translationKey: "calcolatore-crocchette"
+tags:
+  - "how much to feed a dog"
+  - "dog food calculator"
+  - "kibble calculator"
+  - "grams of kibble per day"
+  - "puppy feeding"
+  - "dog food calories"
+json_ld: '{"@context": "https://schema.org", "@type": "WebApplication", "name": "Kibble calculator", "url": "https://delpiccolodiavolo.it/en/dog-food-calculator/", "description": "Works out the grams of kibble per day for a dog from age, weight, size, activity and the calories of the food.", "applicationCategory": "LifestyleApplication", "operatingSystem": "Any", "browserRequirements": "Requires JavaScript", "inLanguage": "en", "isAccessibleForFree": true, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "EUR"}, "featureList": ["Grams of kibble per day", "Table by age from puppy to senior", "Calories of 34 common foods", "Calories worked out from the bag''s analytical constituents", "Reading a photo of the bag"], "publisher": {"@id": "https://delpiccolodiavolo.it/#organization"}}'
 in_breve:
   - "The calculator gives the grams of kibble per day from age, weight, activity and the food's calories."
   - "The calories of 34 common foods are already in the list; any other can be typed in or worked out from the bag."
@@ -11,9 +19,9 @@ in_breve:
 articolo: true
 image: "/images/blog/icone/calcolatore-crocchette-cane.webp"
 og_image: "/images/og/schede/en/dog-food-calculator.jpg"
-og_image_alt: "How much should my dog eat? Kibble calculator — Del Piccolo Diavolo kennel"
+og_image_alt: "How much should I feed my dog? Dog food calculator — Del Piccolo Diavolo kennel"
 thumb: "/images/blog/icone/calcolatore-crocchette-cane.webp"
-description: "Work out the grams of kibble per day from your dog's age, weight and activity, with the calories of 34 common foods and the formula vets use."
+description: "How much should you feed your dog? The calculator gives grams of kibble per day by age, weight, size and activity, with the calories of 34 common foods."
 slug: "dog-food-calculator"
 custom_content: |
   <!--BLOCCO:1-->
@@ -55,7 +63,7 @@ custom_content: |
   <div id="pappa" class="pp"><noscript>The calculator needs JavaScript. Without it, you can do the sums by hand with the formula and tables below.</noscript></div>
   <script src="/js/calcolatore-crocchette.js" defer></script>
 
-  <p>The calculator above tells you how many grams of kibble to give a dog each day, from a two-month-old puppy to a senior. It starts from the resting energy vets use, 70 times the weight in kilos raised to 0.75, and multiplies it by a factor that depends on age: 3 up to three months, 2 at six months, 1.6 to 1.8 in the adult. It then divides the result by the calories of the kibble. For 34 foods sold widely in Europe the calories are already in the list; any other can be typed in, worked out from the analytical constituents printed on the bag, or read from a photo of the bag. The figure you get is a starting point, to be checked on the dog every two weeks. A guide by the <a href="/en/" title="Del Piccolo Diavolo Staffordshire Bull Terrier kennel">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>How much should a dog eat? The calculator above tells you how many grams of kibble to give a dog each day, from a two-month-old puppy to a senior. It starts from the resting energy vets use, 70 times the weight in kilos raised to 0.75, and multiplies it by a factor that depends on age: 3 up to three months, 2 at six months, 1.6 to 1.8 in the adult. It then divides the result by the calories of the kibble. For 34 foods sold widely in Europe the calories are already in the list; any other can be typed in, worked out from the analytical constituents printed on the bag, or read from a photo of the bag. The figure you get is a starting point, to be checked on the dog every two weeks. A guide by the <a href="/en/" title="Del Piccolo Diavolo Staffordshire Bull Terrier kennel">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
   <!--BLOCCO:2-->
   <h2>The formulas behind the calculation</h2>
@@ -140,6 +148,37 @@ custom_content: |
   <!--/BLOCCO:4-->
 
   <!--BLOCCO:5-->
+  <h2>Questions on how much a dog should eat</h2>
+  <div class="faq-item">
+  <h3 class="faq-q">How many grams of kibble does a 10 kg dog need?</h3>
+  <div class="faq-answer">
+  <p>An adult dog of 10 kg, not neutered and with normal activity, needs about 710 kcal a day: 70 times 10 raised to 0.75 gives 394 kcal of resting energy, and times 1.8 that becomes 710. With kibble at 380 kcal per 100 grams that is about 185 grams a day, split into two meals. If the dog is neutered the factor drops to 1.6 and the ration to about 165 grams. With richer kibble, at 420 kcal, the same energy fits into 170 grams: that is why the figure has to be worked out on the food you actually use.</p>
+  </div>
+  </div>
+
+  <div class="faq-item">
+  <h3 class="faq-q">How much should a puppy eat compared with an adult dog?</h3>
+  <div class="faq-answer">
+  <p>Far more, in proportion to its weight. Up to three months a puppy uses about three times its resting energy, against 1.6 to 1.8 times for an adult, because almost all of it goes into growth. A medium-sized puppy weighing 5 kg at two and a half months eats as much as an adult dog of 10 kg. From three to six months the factor falls towards 2 and around one year it reaches the adult one; in large and giant breeds this takes longer, up to fifteen and twenty months. Meals change too: smaller and more frequent in the first months.</p>
+  </div>
+  </div>
+
+  <div class="faq-item">
+  <h3 class="faq-q">Are the portions printed on the kibble bag reliable?</h3>
+  <div class="faq-answer">
+  <p>They are a reasonable starting point, but the manufacturer has to print a portion that suits many different dogs, and usually gives a wide range for each weight. A neutered dog that lives indoors and has two walks a day tends to sit at the low end of the range or even below it. The trouble is that a small excess does not show at once: it builds up day after day, and under the muscle of a sturdy dog it goes unnoticed for a long time. That is why the ration is checked on the dog, with a hand on the ribs, every two weeks, and adjusted by 10% at a time.</p>
+  </div>
+  </div>
+
+  <div class="faq-item">
+  <h3 class="faq-q">What changes when you switch to another brand of kibble?</h3>
+  <div class="faq-answer">
+  <p>The ration has to be worked out again, because two foods can give very different energy for the same grams. In the calculator's list they range from 340 to 444 kcal per 100 grams: moving from the first to the second without changing the portion means giving about 30% more calories. Choose the new food in the calculator, read the new portion, and make the change over seven to ten days by mixing the two foods, as explained in the guide to a puppy's first feeding. After two weeks, check the dog's ribs and adjust by 10% if needed.</p>
+  </div>
+  </div>
+  <!--/BLOCCO:5-->
+
+  <!--BLOCCO:6-->
   <h2>Check the figure on the dog</h2>
   <p>No formula knows the dog in front of you. The ribs should be felt with a flat hand without pressing, and from above you should see a waist. If the ribs can no longer be felt, cut the ration by 10%; if they show, raise it by 10%. A puppy is weighed once a week, on the same scales.</p>
   <p>Treats are part of the total: they should stay under 10% of the day's calories, and the easiest way is to use part of the ration for training.</p>
@@ -172,16 +211,16 @@ custom_content: |
   <div class="article-footer">
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
   </div>
-  <!--/BLOCCO:5-->
+  <!--/BLOCCO:6-->
 
   </article>
   </div>
 
-  <!--BLOCCO:6-->
+  <!--BLOCCO:7-->
   <section class="cta-section">
   <h2>Not sure about your dog's ration?</h2>
   <p>Write to us: we will tell you how we adjust it with our own dogs, from puppy to adult.</p>
   <a href="/wa/393924635584?text=Hello%20Paolo%2C%20I%20used%20the%20kibble%20calculator%20and%20I%20have%20a%20question" class="btn" title="Contact us on WhatsApp">Write to us on WhatsApp</a>
   </section>
-  <!--/BLOCCO:6-->
+  <!--/BLOCCO:7-->
 ---

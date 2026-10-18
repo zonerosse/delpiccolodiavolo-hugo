@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier puppies"
 titleSeo: "Staffordshire Bull Terrier puppies, verifiable genetic tests"
 date: 2025-12-28
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 tipoPagina: "CollectionPage"
 notte: true
 translationKey: "cuccioli"
@@ -260,7 +260,7 @@ custom_content: |
   <li>photographs of its growth;</li>
   <li>our <a href="/docs/guide-first-months-staffy-puppy.pdf" title="Guide to the first months with a Staffy puppy">guide to the first months</a>, on feeding and care.</li>
   </ul>
-  <p>And support does not end at the handover. We remain available for advice on feeding, training and day-to-day life for as long as the dog lives, and many families still write to us years later. If one day circumstances change and the dog cannot stay, it comes back here.</p>
+  <p>And support does not end at the handover. We remain available for advice on feeding, training and day-to-day life for as long as the dog lives (for portions there is also our <a href="/en/dog-food-calculator/" title="Kibble calculator">kibble calculator</a>), and many families still write to us years later. If one day circumstances change and the dog cannot stay, it comes back here.</p>
   </div>
   </section>
 

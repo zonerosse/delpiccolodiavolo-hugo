@@ -260,7 +260,7 @@ custom_content: |
   <li>Fotos seines Heranwachsens;</li>
   <li>unserem <a href="/docs/ratgeber-erste-monate-staffy-welpe.pdf" title="Ratgeber für die ersten Monate mit einem Staffy-Welpen">Ratgeber für die ersten Monate</a>, zu Fütterung und Pflege.</li>
   </ul>
-  <p>Und die Begleitung endet nicht mit der Übergabe. Wir bleiben das ganze Hundeleben lang für Rat zu Fütterung, Erziehung und Alltag erreichbar, und viele Familien schreiben uns noch nach Jahren. Wenn sich die Umstände eines Tages ändern und der Hund nicht bleiben kann, kommt er hierher zurück.</p>
+  <p>Und die Begleitung endet nicht mit der Übergabe. Wir bleiben das ganze Hundeleben lang für Rat zu Fütterung, Erziehung und Alltag erreichbar (für die Futtermenge gibt es auch unseren <a href="/de/futterrechner-hund/" title="Futterrechner">Futterrechner</a>), und viele Familien schreiben uns noch nach Jahren. Wenn sich die Umstände eines Tages ändern und der Hund nicht bleiben kann, kommt er hierher zurück.</p>
   </div>
   </section>
 

@@ -74,7 +74,7 @@ custom_content: |
   <a href="/de/futterrechner-hund/" title="Lesen: Futterrechner"><div class="blog-card-thumb"><img src="/images/blog/icone/calcolatore-crocchette-cane.webp" alt="Futterrechner für Hunde" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">
   <div class="blog-card-meta"><span class="date">18. Okt 2026</span><span>&bull;</span><span class="cat">Welpen</span></div>
-  <h3><a href="/de/futterrechner-hund/" title="Lesen: Futterrechner">Wie viel frisst Ihr Hund: Futterrechner für Trockenfutter</a></h3>
+  <h3><a href="/de/futterrechner-hund/" title="Lesen: Futterrechner">Wie viel Futter braucht ein Hund: Futterrechner für Trockenfutter</a></h3>
   <p>Gramm am Tag nach Alter, Gewicht und Bewegung, mit den Kalorien von 34 Futtersorten.</p>
   </div>
   </article>

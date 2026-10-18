@@ -4,7 +4,7 @@ og_image: "/images/og/schede/en/faq-staffordshire-bull-terrier.jpg"
 og_image_alt: "Staffordshire Bull Terrier FAQ - frequently asked questions — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/faq-sullo-staffordshire-bull-terrier.webp"
 date: 2025-12-28
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 notte: true
 translationKey: "faq"
 description: "Staffordshire Bull Terrier FAQ from a breeder: temperament, children and other dogs, health tests, lifespan, cost and how to choose a breeder."
@@ -122,7 +122,7 @@ custom_content: |
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What nutrition does the Staffy need?</h3>
   <span class="faq-toggle"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
   </div>
-  <div class="faq-answer">The Staffordshire Bull Terrier is a muscular and greedy dog, and that combination leads easily to excess weight. A sound diet means good-quality kibble with protein around 26-30 per cent, or a home-cooked or raw diet balanced by a veterinary nutritionist: what matters is not the formula but consistency and quantity. Ideal weight is 14-16 kg for males and 11-14 kg for females, and it is checked with your hands before the scales: ribs should be easy to feel without pressing. Puppies eat three times a day until six months, then twice. Treats between meals are the most common cause of overweight in this breed, far more than the brand of food.</div>
+  <div class="faq-answer">The Staffordshire Bull Terrier is a muscular and greedy dog, and that combination leads easily to excess weight. A sound diet means good-quality kibble with protein around 26-30 per cent, or a home-cooked or raw diet balanced by a veterinary nutritionist: what matters is not the formula but consistency and quantity, which you can work out with the <a href="/en/dog-food-calculator/" title="Kibble calculator">kibble calculator</a>. Ideal weight is 14-16 kg for males and 11-14 kg for females, and it is checked with your hands before the scales: ribs should be easy to feel without pressing. Puppies eat three times a day until six months, then twice. Treats between meals are the most common cause of overweight in this breed, far more than the brand of food.</div>
   </div>
 
   <div class="faq-item active">

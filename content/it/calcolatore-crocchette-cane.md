@@ -1,9 +1,17 @@
 ---
-title: "Quanto mangia il tuo cane: calcolatore delle crocchette"
+title: "Quanto deve mangiare un cane: calcolatore delle crocchette"
 date: 2026-10-18
 lastmod: 2026-10-18
-titleSeo: "Quanto mangia il cane: calcolatore delle crocchette"
+titleSeo: "Quanto deve mangiare un cane: calcolatore crocchette"
 translationKey: "calcolatore-crocchette"
+tags:
+  - "quanto deve mangiare un cane"
+  - "calcolatore crocchette"
+  - "quante crocchette al giorno"
+  - "razione giornaliera del cane"
+  - "alimentazione del cucciolo"
+  - "calorie delle crocchette"
+json_ld: '{"@context": "https://schema.org", "@type": "WebApplication", "name": "Calcolatore delle crocchette", "url": "https://delpiccolodiavolo.it/calcolatore-crocchette-cane/", "description": "Calcola i grammi di crocchette al giorno per un cane in base a età, peso, taglia, movimento e calorie dell''alimento.", "applicationCategory": "LifestyleApplication", "operatingSystem": "Any", "browserRequirements": "Requires JavaScript", "inLanguage": "it", "isAccessibleForFree": true, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "EUR"}, "featureList": ["Grammi di crocchette al giorno", "Tabella per età dal cucciolo all''anziano", "Calorie di 34 crocchette diffuse", "Calcolo delle calorie dai componenti analitici del sacco", "Lettura della foto del sacco"], "publisher": {"@id": "https://delpiccolodiavolo.it/#organization"}}'
 in_breve:
   - "Il calcolatore dà i grammi di crocchette al giorno partendo da età, peso, movimento e calorie dell'alimento."
   - "Le calorie di 34 crocchette diffuse sono già nell'elenco; le altre si scrivono a mano o si calcolano dal sacco."
@@ -11,9 +19,9 @@ in_breve:
 articolo: true
 image: "/images/blog/icone/calcolatore-crocchette-cane.webp"
 og_image: "/images/og/schede/it/calcolatore-crocchette-cane.jpg"
-og_image_alt: "Quanto mangia il cane: calcolatore delle crocchette — Allevamento Del Piccolo Diavolo"
+og_image_alt: "Quanto deve mangiare un cane: calcolatore crocchette — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/calcolatore-crocchette-cane.webp"
-description: "Calcola i grammi di crocchette al giorno per età, peso e movimento del cane, con le calorie di 34 crocchette diffuse e la formula usata dai veterinari."
+description: "Quanto deve mangiare un cane? Il calcolatore dà i grammi di crocchette al giorno per età, peso, taglia e movimento, con le kcal di 34 crocchette diffuse."
 slug: "calcolatore-crocchette-cane"
 custom_content: |
   <!--BLOCCO:1-->
@@ -25,7 +33,7 @@ custom_content: |
   </div>
   <div class="hero-content">
   <span class="hero-eyebrow">Cuccioli</span>
-  <h1 class="hero-title">Quanto mangia <em>il tuo cane</em></h1>
+  <h1 class="hero-title">Quanto deve mangiare <em>il tuo cane</em></h1>
   <p class="hero-subtitle">Grammi di crocchette al giorno, dal cucciolo all'anziano</p>
   <div class="hero-meta">
   <span>📅 18 ottobre 2026</span>
@@ -55,7 +63,7 @@ custom_content: |
   <div id="pappa" class="pp"><noscript>Il calcolatore ha bisogno di JavaScript. Senza, si può fare il conto a mano con la formula e le tabelle qui sotto.</noscript></div>
   <script src="/js/calcolatore-crocchette.js" defer></script>
 
-  <p>Il calcolatore qui sopra dice quanti grammi di crocchette dare ogni giorno a un cane, dal cucciolo di due mesi all'anziano. Parte dall'energia di base usata dai veterinari, 70 moltiplicato per il peso in chili elevato a 0,75, e la moltiplica per un fattore che dipende dall'età: 3 fino ai tre mesi, 2 a sei mesi, da 1,6 a 1,8 nell'adulto. Poi divide il risultato per le calorie delle crocchette. Per 34 crocchette diffuse in Italia le calorie sono già nell'elenco; per tutte le altre si scrivono a mano, si calcolano dai componenti analitici stampati sul sacco o si legge la foto del sacco. Il numero che esce è un punto di partenza, da controllare sul cane ogni due settimane. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
+  <p>Quanto deve mangiare un cane? Il calcolatore qui sopra dice quanti grammi di crocchette dare ogni giorno a un cane, dal cucciolo di due mesi all'anziano. Parte dall'energia di base usata dai veterinari, 70 moltiplicato per il peso in chili elevato a 0,75, e la moltiplica per un fattore che dipende dall'età: 3 fino ai tre mesi, 2 a sei mesi, da 1,6 a 1,8 nell'adulto. Poi divide il risultato per le calorie delle crocchette. Per 34 crocchette diffuse in Italia le calorie sono già nell'elenco; per tutte le altre si scrivono a mano, si calcolano dai componenti analitici stampati sul sacco o si legge la foto del sacco. Il numero che esce è un punto di partenza, da controllare sul cane ogni due settimane. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
   <!--BLOCCO:2-->
   <h2>Le formule del calcolo</h2>
@@ -140,6 +148,37 @@ custom_content: |
   <!--/BLOCCO:4-->
 
   <!--BLOCCO:5-->
+  <h2>Domande su quanto deve mangiare un cane</h2>
+  <div class="faq-item">
+  <h3 class="faq-q">Quanti grammi di crocchette deve mangiare un cane di 10 kg?</h3>
+  <div class="faq-answer">
+  <p>Un cane adulto di 10 kg, non sterilizzato e con movimento normale, ha bisogno di circa 710 kcal al giorno: 70 per 10 elevato a 0,75 fa 394 kcal di energia a riposo, e per 1,8 si arriva a 710. Con crocchette da 380 kcal per 100 grammi sono circa 185 grammi al giorno, divisi in due pasti. Se il cane è sterilizzato il fattore scende a 1,6 e la razione a circa 165 grammi. Con crocchette più ricche, da 420 kcal, la stessa energia sta in 170 grammi: per questo il numero va calcolato sull'alimento che si usa davvero.</p>
+  </div>
+  </div>
+
+  <div class="faq-item">
+  <h3 class="faq-q">Quanto deve mangiare un cucciolo rispetto a un cane adulto?</h3>
+  <div class="faq-answer">
+  <p>In proporzione al peso, molto di più. Fino ai tre mesi un cucciolo consuma circa tre volte la sua energia a riposo, contro 1,6-1,8 volte di un adulto, perché quasi tutto va nella crescita. Un cucciolo di taglia media che a due mesi e mezzo pesa 5 kg mangia infatti quanto un cane adulto di 10 kg. Da tre a sei mesi il fattore scende verso 2 e intorno all'anno arriva a quello dell'adulto; nelle taglie grandi e giganti questo passaggio dura di più, fino a quindici e venti mesi. Anche i pasti cambiano: più piccoli e più frequenti nei primi mesi.</p>
+  </div>
+  </div>
+
+  <div class="faq-item">
+  <h3 class="faq-q">Le dosi scritte sul sacco delle crocchette sono affidabili?</h3>
+  <div class="faq-answer">
+  <p>Sono un punto di partenza ragionevole, ma il produttore deve scrivere una dose che vada bene a molti cani diversi, e di solito dà una forchetta ampia per ogni peso. Un cane sterilizzato, che vive in casa e fa due passeggiate al giorno, tende a stare nella parte bassa della forchetta o anche sotto. Il guaio è che un piccolo eccesso non si vede subito: si accumula giorno dopo giorno, e sotto i muscoli di un cane robusto passa inosservato a lungo. Per questo la razione si verifica sul cane, con la mano sulle costole, ogni due settimane, e si corregge del 10% alla volta.</p>
+  </div>
+  </div>
+
+  <div class="faq-item">
+  <h3 class="faq-q">Cosa cambia se si passa a un'altra marca di crocchette?</h3>
+  <div class="faq-answer">
+  <p>La razione va ricalcolata, perché a parità di grammi due crocchette possono dare un'energia molto diversa. Nell'elenco del calcolatore si va da 340 a 444 kcal per 100 grammi: passare dalla prima alla seconda senza cambiare la dose significa dare circa il 30% di calorie in più. Si sceglie la nuova crocchetta nel calcolatore, si legge la nuova dose, e il passaggio si fa in sette-dieci giorni mescolando i due alimenti, come spiegato nella guida all'alimentazione iniziale. Dopo due settimane si controlla il cane sulle costole e si corregge del 10% se serve.</p>
+  </div>
+  </div>
+  <!--/BLOCCO:5-->
+
+  <!--BLOCCO:6-->
   <h2>Il numero si controlla sul cane</h2>
   <p>Nessuna formula conosce il cane che ha davanti. Le costole si devono sentire con la mano piatta senza premere, e guardando dall'alto si deve vedere la vita. Se le costole non si sentono più, si cala la razione del 10%; se si vedono, la si aumenta del 10%. Il cucciolo si pesa una volta alla settimana, sulla stessa bilancia.</p>
   <p>I premi fanno parte del totale: non dovrebbero superare il 10% delle calorie del giorno, e il modo più semplice è usare una parte della razione per l'addestramento.</p>
@@ -172,16 +211,16 @@ custom_content: |
   <div class="article-footer">
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
   </div>
-  <!--/BLOCCO:5-->
+  <!--/BLOCCO:6-->
 
   </article>
   </div>
 
-  <!--BLOCCO:6-->
+  <!--BLOCCO:7-->
   <section class="cta-section">
   <h2>Hai un dubbio sulla razione del tuo cane?</h2>
   <p>Scrivici: ti diciamo come la regoliamo con i nostri cani, dal cucciolo all'adulto.</p>
   <a href="/wa/393924635584?text=Ciao%20Paolo%2C%20ho%20usato%20il%20calcolatore%20delle%20crocchette%20e%20avrei%20una%20domanda" class="btn" title="Contattaci su WhatsApp">Scrivici su WhatsApp</a>
   </section>
-  <!--/BLOCCO:6-->
+  <!--/BLOCCO:7-->
 ---

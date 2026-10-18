@@ -255,7 +255,7 @@ custom_content: |
 
   <div class="content-block">
   <h3>Dopo l'affido</h3>
-  <p>Non ti lasciamo solo dopo l'affido. Ci puoi chiedere consigli su alimentazione, educazione e vita di tutti i giorni. Molte famiglie ci scrivono anche dopo anni per raccontarci come cresce il loro Staffy.</p>
+  <p>Non ti lasciamo solo dopo l'affido. Ci puoi chiedere consigli su alimentazione, educazione e vita di tutti i giorni; per le dosi c'è anche il nostro <a href="/calcolatore-crocchette-cane/" title="Calcolatore delle crocchette">calcolatore delle crocchette</a>. Molte famiglie ci scrivono anche dopo anni per raccontarci come cresce il loro Staffy.</p>
   <p>Per noi &egrave; anche il modo di vedere come vengono da adulti i cani che abbiamo fatto nascere, e di capire se la selezione sta andando nella direzione giusta.</p>
   </div>
   </div>
