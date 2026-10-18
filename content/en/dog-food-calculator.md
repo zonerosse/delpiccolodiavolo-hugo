@@ -63,7 +63,7 @@ custom_content: |
   <article class="article-content">
 
   <div id="pappa" class="pp"><noscript>The calculator needs JavaScript. Without it, you can do the sums by hand with the formula and tables below.</noscript></div>
-  <script src="/js/calcolatore-crocchette.js?v=20261018-2345" defer></script>
+  <script src="/js/calcolatore-crocchette.js?v=20261018-2340b" defer></script>
 
   <p>How much should a dog eat? The calculator above tells you how many grams of kibble to give a dog each day, from a two-month-old puppy to a senior. It starts from the resting energy vets use, 70 times the weight in kilos raised to 0.75, and multiplies it by a factor that depends on age: 3 up to three months, 2 at six months, 1.6 to 1.8 in the adult. It then divides the result by the calories of the kibble. For 34 foods sold widely in Europe the calories are already in the list; any other can be typed in, worked out from the analytical constituents printed on the bag, or read from a photo of the bag. The figure you get is a starting point, to be checked on the dog every two weeks. A guide by the <a href="/en/" title="Del Piccolo Diavolo Staffordshire Bull Terrier kennel">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
