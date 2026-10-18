@@ -55,7 +55,7 @@ custom_content: |
   <div id="pappa" class="pp"><noscript>Il calcolatore ha bisogno di JavaScript. Senza, si può fare il conto a mano con la formula e le tabelle qui sotto.</noscript></div>
   <script src="/js/calcolatore-crocchette.js" defer></script>
 
-  <p>Il calcolatore qui sopra dice quanti grammi di crocchette dare ogni giorno a un cane, dal cucciolo di due mesi all'anziano. Parte dall'energia di base usata dai veterinari, 70 moltiplicato per il peso in chili elevato a 0,75, e la moltiplica per un fattore che dipende dall'età: 3 fino ai tre mesi, 2 a sei mesi, da 1,6 a 1,8 nell'adulto. Poi divide il risultato per le calorie delle crocchette. Per 34 crocchette diffuse in Italia le calorie sono già nell'elenco; per tutte le altre si scrivono a mano o si calcolano dai componenti analitici stampati sul sacco. Il numero che esce è un punto di partenza, da controllare sul cane ogni due settimane. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
+  <p>Il calcolatore qui sopra dice quanti grammi di crocchette dare ogni giorno a un cane, dal cucciolo di due mesi all'anziano. Parte dall'energia di base usata dai veterinari, 70 moltiplicato per il peso in chili elevato a 0,75, e la moltiplica per un fattore che dipende dall'età: 3 fino ai tre mesi, 2 a sei mesi, da 1,6 a 1,8 nell'adulto. Poi divide il risultato per le calorie delle crocchette. Per 34 crocchette diffuse in Italia le calorie sono già nell'elenco; per tutte le altre si scrivono a mano, si calcolano dai componenti analitici stampati sul sacco o si legge la foto del sacco. Il numero che esce è un punto di partenza, da controllare sul cane ogni due settimane. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
   <!--BLOCCO:2-->
   <h2>Le formule del calcolo</h2>
@@ -131,7 +131,7 @@ custom_content: |
   </table>
   <p>Quando l'energia non è scritta, si calcola dai cinque componenti analitici del sacco, con la formula di Atwater modificata che usano le linee guida europee:</p>
   <p><strong>kcal per 100 g = 3,5 × proteina + 8,5 × grassi + 3,5 × carboidrati<br>carboidrati = 100 − proteina − grassi − fibra − ceneri − umidità</strong></p>
-  <p>Un esempio: proteina 25, grassi 16, fibra 2,3, ceneri 6, umidità 8. I carboidrati sono 42,7, e 3,5 × 25 + 8,5 × 16 + 3,5 × 42,7 fa 373 kcal per 100 g. È il modo in cui sono calcolati i valori segnati come «calcolato» nell'elenco.</p>
+  <p>Un esempio: proteina 25, grassi 16, fibra 2,3, ceneri 6, umidità 8. I carboidrati sono 42,7, e 3,5 × 25 + 8,5 × 16 + 3,5 × 42,7 fa 373 kcal per 100 g. È il modo in cui sono calcolati i valori segnati come «calcolato» nell'elenco. Con 📷 «Fotografa il sacco» i valori li legge dalla foto un'intelligenza artificiale; c'è un limite di letture al giorno, impostato per contenere i costi: se non funziona, il limite di oggi è stato raggiunto.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->

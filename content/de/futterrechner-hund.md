@@ -55,7 +55,7 @@ custom_content: |
   <div id="pappa" class="pp"><noscript>Der Rechner braucht JavaScript. Ohne lässt sich die Rechnung mit der Formel und den Tabellen unten von Hand machen.</noscript></div>
   <script src="/js/calcolatore-crocchette.js" defer></script>
 
-  <p>Der Rechner oben sagt, wie viel Gramm Trockenfutter ein Hund am Tag bekommt, vom zwei Monate alten Welpen bis zum Senior. Er geht vom Ruhebedarf aus, den Tierärzte verwenden, 70 mal das Gewicht in Kilo hoch 0,75, und multipliziert ihn mit einem Faktor, der vom Alter abhängt: 3 bis zum dritten Monat, 2 mit sechs Monaten, 1,6 bis 1,8 beim Erwachsenen. Dann teilt er das Ergebnis durch die Kalorien des Futters. Für 34 in Europa verbreitete Futtersorten stehen die Kalorien schon in der Liste; für alle anderen gibt man sie selbst ein oder berechnet sie aus den analytischen Bestandteilen auf der Packung. Die Zahl, die herauskommt, ist ein Ausgangspunkt, den man alle zwei Wochen am Hund prüft. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Zucht Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
+  <p>Der Rechner oben sagt, wie viel Gramm Trockenfutter ein Hund am Tag bekommt, vom zwei Monate alten Welpen bis zum Senior. Er geht vom Ruhebedarf aus, den Tierärzte verwenden, 70 mal das Gewicht in Kilo hoch 0,75, und multipliziert ihn mit einem Faktor, der vom Alter abhängt: 3 bis zum dritten Monat, 2 mit sechs Monaten, 1,6 bis 1,8 beim Erwachsenen. Dann teilt er das Ergebnis durch die Kalorien des Futters. Für 34 in Europa verbreitete Futtersorten stehen die Kalorien schon in der Liste; für alle anderen gibt man sie selbst ein, berechnet sie aus den analytischen Bestandteilen auf der Packung oder lässt ein Foto der Packung lesen. Die Zahl, die herauskommt, ist ein Ausgangspunkt, den man alle zwei Wochen am Hund prüft. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Zucht Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
   <!--BLOCCO:2-->
   <h2>Die Formeln der Berechnung</h2>
@@ -131,7 +131,7 @@ custom_content: |
   </table>
   <p>Steht die Energie nicht auf der Packung, berechnet man sie aus den fünf analytischen Bestandteilen, mit der modifizierten Atwater-Formel der europäischen Leitlinien:</p>
   <p><strong>kcal pro 100 g = 3,5 × Protein + 8,5 × Fett + 3,5 × Kohlenhydrate<br>Kohlenhydrate = 100 − Protein − Fett − Rohfaser − Rohasche − Feuchtigkeit</strong></p>
-  <p>Ein Beispiel: Protein 25, Fett 16, Rohfaser 2,3, Rohasche 6, Feuchtigkeit 8. Die Kohlenhydrate sind 42,7, und 3,5 × 25 + 8,5 × 16 + 3,5 × 42,7 ergibt 373 kcal pro 100 g. So sind die Werte berechnet, die in der Liste mit «berechnet» markiert sind.</p>
+  <p>Ein Beispiel: Protein 25, Fett 16, Rohfaser 2,3, Rohasche 6, Feuchtigkeit 8. Die Kohlenhydrate sind 42,7, und 3,5 × 25 + 8,5 × 16 + 3,5 × 42,7 ergibt 373 kcal pro 100 g. So sind die Werte berechnet, die in der Liste mit «berechnet» markiert sind. Mit 📷 «Packung fotografieren» liest eine künstliche Intelligenz die Werte vom Foto; dafür gibt es ein tägliches Limit, um die Kosten zu begrenzen: funktioniert es nicht, ist das Limit für heute erreicht.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
