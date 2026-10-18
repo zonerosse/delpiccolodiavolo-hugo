@@ -79,7 +79,7 @@ function draw(){var m=ageM(),f=food(S.food),ad=num(S.adult),pup=m!=null&&m<Math.
  [].forEach.call(box.querySelectorAll(".pp-s"),function(b){b.classList.toggle("on",Math.round(+b.getAttribute("data-sz")*(S.sex==="f"?.9:1))===ad)});$("pp-src").textContent=f?(TX.src[f.src]||""):"";
  $("pp-meals").innerHTML=[1,2,3,4,5].map(function(n){return '<button type="button" class="pp-c'+(n===ml?' on':'')+'" data-k="meals" data-v="'+n+'">'+n+(n===sg?'<small>'+TX.sug+'</small>':'')+'</button>'}).join("");
  $("pp-ms").textContent=m==null?"":sg===4?TX.m4:sg===3?TX.m3:TX.m2;
- $("pp-kc").textContent="";if(!f||!kg||m==null){$("pp-g").textContent="—";$("pp-gs").textContent=!f?TX.need.food:!kg?TX.need.kg:TX.need.birth;$("pp-tb").innerHTML="";return}
+ $("pp-kc").textContent="";if(!f||!kg||m==null||(pup&&!ad)){$("pp-g").textContent="—";$("pp-gs").textContent=!f?TX.need.food:!kg||(pup&&!ad)?TX.need.kg:TX.need.birth;$("pp-tb").innerHTML="";return}
  var g=grams(kg,m<96?Math.min(eq(m,ad),Math.max(m,12)):m,ster,act,f.kcal);var bc=+S.bcs||0;g=g*(bc===-1?1.1:bc===1?.9:1);$("pp-kc").textContent=TX.kc+Math.round(g*f.kcal/100/10)*10+" kcal";$("pp-g").textContent=Math.round(g/5)*5+TX.perday;$("pp-gs").textContent=ml+(ml===1?TX.meal1:TX.mealN)+TX.about+Math.round(g/ml)+" g"+(bc?" · "+TX.bcsN[String(bc)]:"");
  var R=[],x,F=fine(ad);for(x=2;x<=6;x+=.5)R.push(x);for(x=7;x<=Math.max(12,F);x++)if(x<=12||x===15||x===18||x===F)R.push(x);
  var rows=R.map(function(v){return[v,dec(v)+TX.mo,ad*frac(eq(v,ad))]});rows.push([Math.max(18,F+3),TX.adultR,ad],[96,TX.senior,ad]);
