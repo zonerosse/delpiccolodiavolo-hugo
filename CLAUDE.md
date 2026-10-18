@@ -353,4 +353,7 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
 - Età da elenco (o data di nascita), peso a occhio o per taglia (piccola, media, grande, gigante); la crescita finisce a 10/12/15/20 mesi
   secondo la taglia. 📷 foto del sacco: `https://gestionale.delpiccolodiavolo.it/api/public/sacco` (limite 30 letture al giorno,
   3 per visitatore, scritto sulla pagina). Le crocchette aggiunte dal visitatore restano nel suo browser (localStorage).
+- Elenco comune (18/10/2026, Paolo): le crocchette aggiunte dai visitatori vanno a `https://gestionale.delpiccolodiavolo.it/api/public/crocchette`
+  (POST); Claude le controlla e, se i dati tornano, entrano nell'elenco per tutti (GET della stessa API, aggiunte dallo script all'elenco
+  della pagina). Non sono nella tabella `#pappa-db` (Google non le vede): per metterne una nel testo vero, si aggiunge la riga a mano.
 - SEO: `titleSeo` «Quanto deve mangiare un cane…», `tags` (keywords dell'Article), `json_ld` WebApplication, 4 FAQ (FAQPage).
