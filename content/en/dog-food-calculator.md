@@ -112,10 +112,10 @@ custom_content: |
   <tr data-c="26,16,2.5,7.2,10" data-src="p"><td>Brit Care</td><td>Adult Medium Breed lamb and rice</td><td>381</td><td>manufacturer</td></tr>
   <tr data-c="32,18,1.5,7.7,10" data-src="p"><td>Brit Care</td><td>Puppy lamb and rice</td><td>400</td><td>manufacturer</td></tr>
   <tr data-c="27,15,2.4,6.5," data-src="p"><td>Eukanuba</td><td>Adult Medium Breed</td><td>406</td><td>manufacturer</td></tr>
-  <tr data-c="25,16,2.3,6,8" data-src="c"><td>Exclusion Mediterraneo</td><td>Adult Medium chicken</td><td>373</td><td>worked out</td></tr>
+  <tr data-c="25,16,2.3,6,8" data-src="p"><td>Exclusion Mediterraneo</td><td>Adult Medium chicken</td><td>357</td><td>manufacturer</td></tr>
   <tr data-c="28,20,2.3,7,8" data-src="c"><td>Exclusion Mediterraneo</td><td>Puppy Medium chicken</td><td>389</td><td>worked out</td></tr>
-  <tr data-c="30,18,2.9,6.8,9" data-src="p"><td>Farmina N&amp;D Ancestral Grain</td><td>Adult Medium/Maxi chicken and pomegranate</td><td>389</td><td>manufacturer</td></tr>
-  <tr data-c="30,20,2.5,8,9" data-src="p"><td>Farmina N&amp;D Ancestral Grain</td><td>Puppy Medium/Maxi chicken and pomegranate</td><td>444</td><td>manufacturer</td></tr>
+  <tr data-c="30,18,2.9,6.8,9" data-src="p"><td>Farmina N&amp;D Ancestral Grain</td><td>Adult Medium/Maxi chicken and pomegranate</td><td>400</td><td>manufacturer</td></tr>
+  <tr data-c="30,20,2.5,8,9" data-src="p"><td>Farmina N&amp;D Ancestral Grain</td><td>Puppy Medium/Maxi chicken and pomegranate</td><td>418</td><td>manufacturer</td></tr>
   <tr data-c="30,20,2.5,8.1,9" data-src="p"><td>Farmina N&amp;D Pumpkin</td><td>Puppy Medium/Maxi lamb and pumpkin</td><td>414</td><td>manufacturer</td></tr>
   <tr data-c="25,14,2.5,8," data-src="p"><td>Gemon</td><td>Medium Adult chicken and rice</td><td>399</td><td>manufacturer</td></tr>
   <tr data-c="21.5,14.9,1.5,4.6," data-src="c"><td>Hill's Science Plan</td><td>Adult Medium chicken</td><td>374</td><td>worked out</td></tr>
@@ -133,7 +133,7 @@ custom_content: |
   <tr data-c="30,19,2,7.5," data-src="p"><td>Purina Pro Plan</td><td>Medium Puppy chicken</td><td>405</td><td>manufacturer</td></tr>
   <tr data-c="25,14,1.6,6.2," data-src="p"><td>Royal Canin</td><td>Medium Adult</td><td>388</td><td>manufacturer</td></tr>
   <tr data-c="32,20,1.7,8.2," data-src="p"><td>Royal Canin</td><td>Medium Puppy</td><td>410</td><td>manufacturer</td></tr>
-  <tr data-c="28,13,6.4,4.9," data-src="c"><td>Royal Canin</td><td>Medium Sterilised</td><td>340</td><td>worked out</td></tr>
+  <tr data-c="28,13,6.4,4.9," data-src="p"><td>Royal Canin</td><td>Medium Sterilised</td><td>348</td><td>manufacturer</td></tr>
   <tr data-c="30,20,2.5,6.5,9" data-src="c"><td>Schesir</td><td>Medium Puppy chicken</td><td>387</td><td>worked out</td></tr>
   <tr data-c="28,17,1.9,6.3," data-src="p"><td>Special Dog Excellence</td><td>Maxi Adult chicken</td><td>420</td><td>manufacturer</td></tr>
   <tr data-c="32,18,3,9.2,10" data-src="p"><td>Taste of the Wild</td><td>High Prairie Adult</td><td>372</td><td>manufacturer</td></tr>
@@ -177,7 +177,7 @@ custom_content: |
   <div class="faq-item">
   <h3 class="faq-q">What changes when you switch to another brand of kibble?</h3>
   <div class="faq-answer">
-  <p>The ration has to be worked out again, because two foods can give very different energy for the same grams. In the calculator's list they range from 340 to 444 kcal per 100 grams: moving from the first to the second without changing the portion means giving about 30% more calories. Choose the new food in the calculator, read the new portion, and make the change over seven to ten days by mixing the two foods, as explained in the guide to a puppy's first feeding. After two weeks, check the dog's ribs and adjust by 10% if needed.</p>
+  <p>The ration has to be worked out again, because two foods can give very different energy for the same grams. In the calculator's list they range from 351 to 428 kcal per 100 grams: moving from the first to the second without changing the portion means giving about 20% more calories. Choose the new food in the calculator, read the new portion, and make the change over seven to ten days by mixing the two foods, as explained in the guide to a puppy's first feeding. After two weeks, check the dog's ribs and adjust by 10% if needed.</p>
   </div>
   </div>
 
