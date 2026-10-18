@@ -27,7 +27,12 @@
 # Un servizio esterno nuovo (mappa, video da un altro sito, statistiche...)
 # va aggiunto qui, altrimenti con la lista attiva il browser lo blocca.
 # 'unsafe-inline' resta perche' il sito usa molti script e stili scritti
-# dentro le pagine (scelta voluta: niente file CSS esterni).
+# dentro le pagine. Il CSS principale invece sta in /css/ (18/10/2026, scelta C di Paolo).
+
+# Fogli di stile: il nome contiene l'impronta del contenuto (sito.min.<sha256>.css),
+# quindi a ogni modifica cambia nome e si puo' tenere in cache un anno.
+/css/*
+  Cache-Control: public, max-age=31536000, immutable
 
 /images/*
   Cache-Control: public, max-age=2592000
@@ -35,8 +40,8 @@
 /videos/*
   Cache-Control: public, max-age=2592000
 
-# NOTA SULLA CACHE. Nessun file di questo sito ha l'impronta nel nome
-# (niente main.a3f9c2.css): un PDF sostituito si chiama come prima. Quindi
+# NOTA SULLA CACHE. A parte i fogli di stile in /css/, nessun file di questo sito
+# ha l'impronta nel nome: un PDF sostituito si chiama come prima. Quindi
 # niente "immutable" e niente cache di un anno, altrimenti chi ha gia'
 # scaricato un referto se lo tiene finche' non scade, e il purge di
 # Cloudflare non lo raggiunge: quello svuota l'edge, non i browser.

@@ -3,24 +3,27 @@
    Molte schede hanno colori scritti nello style="": qui si ricoprono con !important. */
 body.notte-pagina{--n-bg:#25354c;--n-bg2:#2c3f57;--n-card:#354a63;--n-cr:#f3e9dc;--n-mu:#d6dde6;--n-cu:#f0cc86;--n-go:#f0cc86;--n-ln:rgba(255,255,255,.13);background:var(--n-bg);color:var(--n-mu)}
 .notte-pagina main{background:var(--n-bg);color:var(--n-mu)}
-.notte-pagina main h1,.notte-pagina main h2,.notte-pagina main h3,.notte-pagina main h4{color:var(--n-cr)!important;font-weight:400}
-.notte-pagina main p,.notte-pagina main li,.notte-pagina main td,.notte-pagina main dd,.notte-pagina main dt,.notte-pagina main span,.notte-pagina main div{border-color:var(--n-ln)}
+.notte-pagina main h1,.notte-pagina main h2,.notte-pagina main h3{color:var(--n-cr)!important;font-weight:400}
+.notte-pagina main p,.notte-pagina main li,.notte-pagina main td,.notte-pagina main span,.notte-pagina main div{border-color:var(--n-ln)}
 .notte-pagina main strong,.notte-pagina main b{color:var(--n-cr)}
 .notte-pagina main a{color:var(--n-go)}
-.notte-pagina main [style*="color:#1f2d42"],.notte-pagina main [style*="color:#1f2d42"],.notte-pagina main [style*="color:#3a2f1a"],.notte-pagina main [style*="color:#1a1a1a"],.notte-pagina main [style*="color: #1f2d42"]{color:var(--n-cr)!important}
-.notte-pagina main [style*="color:#2b3747"],.notte-pagina main [style*="color:#4a5768"],.notte-pagina main [style*="color:#4a5768"],.notte-pagina main [style*="color:#7a6448"]{color:var(--n-mu)!important}
+.notte-pagina main [style*="color:#1f2d42"],.notte-pagina main [style*="color:#1f2d42"],.notte-pagina main [style*="color:#3a2f1a"],.notte-pagina main [style*="color:#1a1a1a"]{color:var(--n-cr)!important}
+.notte-pagina main [style*="color:#2b3747"],.notte-pagina main [style*="color:#4a5768"],.notte-pagina main [style*="color:#4a5768"]{color:var(--n-mu)!important}
 .notte-pagina main [style*="color:#1f4f82"],.notte-pagina main [style*="color:#7d620e"]{color:var(--n-go)!important}
-.notte-pagina main [style*="background:#fff"],.notte-pagina main [style*="background: #fff"],.notte-pagina main [style*="background:#f6f8fb"],.notte-pagina main [style*="background:#eef2f7"],.notte-pagina main [style*="background:#d3dbe5"],.notte-pagina main [style*="background:linear-gradient(135deg,rgba(201,162,39"]{background:var(--n-card)!important}
-.notte-pagina main [style*="background:#eef2f7"]{background:#1f2630!important}.notte-pagina main [style*="color:#37475a"]{color:#b9c7d8!important}
-.notte-pagina main [style*="background:#e3f2e7"]{background:#1b2a20!important}.notte-pagina main [style*="color:#1b4d2e"]{color:#a9d3b4!important}
-.notte-pagina main [style*="border:1px solid #e2e8f0"],.notte-pagina main [style*="border:1px solid rgba(31,58,95"],.notte-pagina main [style*="border-top:1px solid rgba(31,58,95"]{border-color:var(--n-ln)!important}
+.notte-pagina main [style*="background:#fff"],.notte-pagina main [style*="background:#f6f8fb"],.notte-pagina main [style*="background:#eef2f7"],.notte-pagina main [style*="background:#d3dbe5"],.notte-pagina main [style*="background:linear-gradient(135deg,rgba(201,162,39"]{background:var(--n-card)!important}
+.notte-pagina main [style*="background:#eef2f7"]{background:#1f2630!important}
+.notte-pagina main [style*="color:#37475a"]{color:#b9c7d8!important}
+.notte-pagina main [style*="background:#e3f2e7"]{background:#1b2a20!important}
+.notte-pagina main [style*="color:#1b4d2e"]{color:#a9d3b4!important}
+.notte-pagina main [style*="border:1px solid #e2e8f0"],.notte-pagina main [style*="border-top:1px solid rgba(31,58,95"]{border-color:var(--n-ln)!important}
 .notte-pagina main [style*="background:#c9a227"]{background:var(--n-go)!important;color:#25354c!important}
 .notte-pagina main [style*="background:#c9a227"] *{color:#25354c!important}
 /* testata */
 .notte-pagina .hero{background:var(--n-bg)}
 .notte-pagina .hero-content{background:transparent}
 .notte-pagina .hero-eyebrow{color:var(--n-cu)}
-.notte-pagina .hero-title{color:var(--n-cr)!important}.notte-pagina .hero-title em{color:var(--n-cu)}
+.notte-pagina .hero-title{color:var(--n-cr)!important}
+.notte-pagina .hero-title em{color:var(--n-cu)}
 .notte-pagina .hero-subtitle{color:var(--n-go);border-bottom-color:var(--n-ln)}
 .notte-pagina .hero-description{color:var(--n-mu)}
 .notte-pagina .features-bar{background:var(--n-bg);border-top:1px solid var(--n-ln);border-bottom:1px solid var(--n-ln)}
@@ -29,8 +32,8 @@ body.notte-pagina{--n-bg:#25354c;--n-bg2:#2c3f57;--n-card:#354a63;--n-cr:#f3e9dc
 .notte-pagina .section{background:var(--n-bg)}
 .notte-pagina .section-alt,.notte-pagina .dark-section{background:var(--n-bg2)}
 .notte-pagina .section-label{color:var(--n-cu);letter-spacing:.22em}
-.notte-pagina .section-title{font-family:Georgia,'Times New Roman',serif;color:var(--n-cr)!important}
-.notte-pagina .intro-block,.notte-pagina .content-block,.notte-pagina .value-card,.notte-pagina .story-block{background:var(--n-card);color:var(--n-mu);border-color:var(--n-ln)}
+.notte-pagina .section-title{font-family:Georgia,"Times New Roman",serif;color:var(--n-cr)!important}
+.notte-pagina .intro-block,.notte-pagina .content-block,.notte-pagina .story-block{background:var(--n-card);color:var(--n-mu);border-color:var(--n-ln)}
 .notte-pagina .story-block{background:transparent}
 /* bottoni */
 .notte-pagina main .btn,.notte-pagina main .btn-primary{background:linear-gradient(135deg,#9c5f2c,#7f4a1f);color:#fff!important;border-radius:999px;border:0}
@@ -43,31 +46,27 @@ body.notte-pagina{--n-bg:#25354c;--n-bg2:#2c3f57;--n-card:#354a63;--n-cr:#f3e9dc
 .notte-pagina .stars,.notte-pagina .review-stars{color:var(--n-go)}
 .notte-pagina .badge,.notte-pagina .female-badge{background:#8f5524!important;color:#fff!important}
 /* tendine, continua, domande */
-.notte-pagina details.tendina,.notte-pagina details.continua{border-color:var(--n-ln)}
-.notte-pagina details summary{color:var(--n-go)}
 .notte-pagina .faq-item{background:var(--n-card);border-color:var(--n-ln)}
 .notte-pagina .faq-question{color:var(--n-cr)}
 .notte-pagina .faq-answer{color:var(--n-mu)}
-.notte-pagina .rimando{background:var(--n-card)!important;border-color:var(--n-ln)!important}
-.notte-pagina .rimando .ti{color:var(--n-cr)}.notte-pagina .rimando .de{color:var(--n-mu)}
 .notte-pagina .corr-card{background:var(--n-card)!important;border-color:var(--n-ln)!important;box-shadow:none!important}
 .notte-pagina .corr-card span:first-child{color:var(--n-cr)!important}
 .notte-pagina .corr-card span{color:var(--n-mu)!important}
 .notte-pagina .corr-card span:last-child{color:var(--n-cu)!important}
-.notte-pagina table{color:var(--n-mu)}.notte-pagina th{color:var(--n-cr)}
+.notte-pagina table{color:var(--n-mu)}
+.notte-pagina th{color:var(--n-cr)}
 .notte-pagina .cta-section{background:radial-gradient(ellipse at 50% 0%,#3b5577 0%,var(--n-bg) 70%)}
 .notte-pagina .cta-section h2{color:var(--n-cr)!important}
 .notte-pagina .pagina-meta{background:var(--n-bg);color:var(--n-mu)}
 .notte-pagina .breadcrumb,.notte-pagina .breadcrumb a{color:var(--n-mu)}
 .notte-pagina main img{border-color:var(--n-ln)}
-.notte-pagina main p,.notte-pagina main li,.notte-pagina main figcaption,.notte-pagina main small,.notte-pagina main td,.notte-pagina main dd{color:var(--n-mu)}
-.notte-pagina .content-block,.notte-pagina .section-alt .content-block,.notte-pagina .intro-block,.notte-pagina .tendina,.notte-pagina .litter-dog,.notte-pagina .litter-card{background:var(--n-card);border-color:var(--n-ln)}
-.notte-pagina .tendina summary,.notte-pagina .tendina summary h3{color:var(--n-cr)!important}
+.notte-pagina main p,.notte-pagina main li,.notte-pagina main figcaption,.notte-pagina main small,.notte-pagina main td{color:var(--n-mu)}
+.notte-pagina .content-block,.notte-pagina .section-alt .content-block,.notte-pagina .intro-block,.notte-pagina .litter-card{background:var(--n-card);border-color:var(--n-ln)}
 .notte-pagina .story-img{box-shadow:0 10px 30px rgba(0,0,0,.4)}
 .notte-pagina .litter-header{border-bottom-color:var(--n-ln)}
 /* contrasti (controllo axe, 17/10/2026) */
 .notte-pagina main a{color:var(--n-go)!important}
-.notte-pagina main .btn,.notte-pagina main .btn-primary,.notte-pagina main .n-btn{color:#fff!important}
+.notte-pagina main .btn,.notte-pagina main .btn-primary{color:#fff!important}
 .notte-pagina main .btn-ghost{color:var(--n-cr)!important}
 .notte-pagina .page-hero{background:var(--n-bg)}
 .notte-pagina .page-hero p{color:var(--n-mu)}
@@ -75,14 +74,13 @@ body.notte-pagina{--n-bg:#25354c;--n-bg2:#2c3f57;--n-card:#354a63;--n-cr:#f3e9dc
 .notte-pagina .reviewer .stars{color:var(--n-go)}
 .notte-pagina .faq-item p,.notte-pagina .faq-list .faq-item p{color:var(--n-mu)}
 .notte-pagina .faq-list .faq-item{background:var(--n-card);border-color:var(--n-ln)}
-.notte-pagina .tutti>summary{background:var(--n-card);border-color:var(--n-ln);color:var(--n-go)}
 .notte-pagina main .risultato{background:var(--n-card)}
 .notte-pagina .map-link{background:var(--n-card);color:var(--n-go)!important}
 .notte-pagina main [style*="background:#1f2d42"],.notte-pagina main [style*="background:#1f2d42"]{background:var(--n-card)!important}
 .notte-pagina main [style*="background:#1f2d42"] *,.notte-pagina main [style*="background:#1f2d42"] *{color:var(--n-mu)}
 .notte-pagina .pagina-meta,.notte-pagina .pagina-meta *{color:var(--n-mu)!important}
 .notte-pagina .breadcrumb,.notte-pagina .breadcrumb a,.notte-pagina .breadcrumb .current{color:var(--n-mu)!important}
-.notte-pagina .diario-card,.notte-pagina .checklist{background:var(--n-card)!important;border-color:var(--n-ln)!important}
+.notte-pagina .diario-card{background:var(--n-card)!important;border-color:var(--n-ln)!important}
 .notte-pagina .diario-card *{border-color:var(--n-ln)}
 .notte-pagina .map-link span{color:var(--n-mu)}
 .notte-pagina main [style*="background:#c9a227"] [style*="background:#fff"]{background:#25354c!important;color:var(--n-go)!important}
@@ -138,43 +136,34 @@ body.notte-pagina{--n-bg:#25354c;--n-bg2:#2c3f57;--n-card:#354a63;--n-cr:#f3e9dc
 /* zigzag (EN/DE) */
 .notte-pagina .zigzag-item{gap:3.5rem}
 .notte-pagina .fonti{font-size:.85rem;color:var(--n-mu)}
-@media (max-width:860px){
- .notte-pagina .section{padding-top:3.8rem;padding-bottom:3.8rem}
- .notte-pagina .hero{grid-template-columns:1fr;min-height:0}
- .notte-pagina .hero-visual{height:420px}
- .notte-pagina .hero-visual:after{background:linear-gradient(transparent 55%,var(--n-bg))}
- .notte-pagina .hero-content{padding:.5rem 1.25rem 3rem}
- .notte-pagina .intro-block{columns:1}
- .notte-pagina .gallery-grid{grid-template-columns:1fr 1fr}
- .notte-pagina .gallery-item{height:200px}.notte-pagina .gallery-item:first-child{grid-column:span 2;height:280px}
- .notte-pagina .n-passo{grid-template-columns:1fr;gap:.8rem}
- .notte-pagina .content-block ul{grid-template-columns:1fr}
- .notte-pagina .n-faq{grid-template-columns:1fr;gap:.9rem}
- .notte-pagina .guide-cucciolo .section-inner>div,.notte-pagina .guide-correlate .corr-grid{grid-template-columns:1fr!important}
-}
+@media (max-width:860px){.notte-pagina .section{padding-top:3.8rem;padding-bottom:3.8rem}
+.notte-pagina .hero{grid-template-columns:1fr;min-height:0}
+.notte-pagina .hero-visual{height:420px}
+.notte-pagina .hero-visual:after{background:linear-gradient(transparent 55%,var(--n-bg))}
+.notte-pagina .hero-content{padding:.5rem 1.25rem 3rem}
+.notte-pagina .intro-block{columns:1}
+.notte-pagina .gallery-grid{grid-template-columns:1fr 1fr}
+.notte-pagina .gallery-item{height:200px}
+.notte-pagina .gallery-item:first-child{grid-column:span 2;height:280px}
+.notte-pagina .n-passo{grid-template-columns:1fr;gap:.8rem}
+.notte-pagina .content-block ul{grid-template-columns:1fr}
+.notte-pagina .n-faq{grid-template-columns:1fr;gap:.9rem}
+.notte-pagina .guide-cucciolo .section-inner>div,.notte-pagina .guide-correlate .corr-grid{grid-template-columns:1fr!important}}
 .notte-pagina main .section p{margin:0 0 1rem}
 .notte-pagina main .corr-card{background:transparent!important}
 .notte-pagina .review-card:before,.notte-pagina .review-card:after{display:none}
 .notte-pagina .content-block h3{font-family:Georgia,serif;font-size:1.4rem;margin-bottom:1rem}
 /* testo d'apertura grande e due colonne (come la Home) */
-.notte-pagina .n-lead{font-family:Georgia,'Times New Roman',serif;font-size:clamp(1.2rem,2vw,1.45rem)!important;line-height:1.6!important;color:var(--n-cr)!important;max-width:920px}
-.notte-pagina .n-2c{columns:2;column-gap:3.5rem;margin-top:1.6rem}.notte-pagina .n-2c p{break-inside:avoid}
+.notte-pagina .n-2c{columns:2;column-gap:3.5rem;margin-top:1.6rem}
+.notte-pagina .n-2c p{break-inside:avoid}
 /* tre criteri affiancati */
-.notte-pagina .n-tre{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:2.6rem;margin-top:2.6rem;counter-reset:tre}
-.notte-pagina .n-tre>div{border-top:1px solid var(--n-cu);padding-top:1.4rem;position:relative}
-.notte-pagina .n-tre>div:before{counter-increment:tre;content:counter(tre);display:block;font-family:Georgia,serif;font-size:2.6rem;line-height:1;color:var(--n-cu);margin-bottom:.8rem}
-.notte-pagina .n-tre strong{display:block;font-family:Georgia,serif;font-weight:400;font-size:1.3rem;line-height:1.3;margin-bottom:.5rem}
 /* storia: capitoli. A = righe (titolo e foto a sinistra) */
 .notte-pagina .n-storia .n-passo{grid-template-columns:1fr 2fr;align-items:start}
 .notte-pagina .n-foto-cap{width:100%;max-width:320px;aspect-ratio:4/5;object-fit:cover;border-radius:6px;margin-top:1.4rem;display:block}
-@media (max-width:860px){
- .notte-pagina .n-2c{columns:1}
- .notte-pagina .n-tre{grid-template-columns:1fr;gap:1.8rem}
- .notte-pagina .n-foto-cap{max-width:none}
-}
+@media (max-width:860px){.notte-pagina .n-2c{columns:1}
+.notte-pagina .n-foto-cap{max-width:none}}
 .notte-pagina .hero-guida{margin:.4rem 0 0;font-size:1rem}
 .notte-pagina .hero-guida a{color:var(--n-go)!important;font-weight:600;text-decoration:underline;text-underline-offset:3px}
-
 /* pezzi della Home riusati sulle pagine Notte (Home come Cuccioli B, 17/10/2026) */
 .notte-pagina .n-num{display:flex;gap:2.6rem;margin-top:2.6rem;padding-top:1.8rem;border-top:1px solid var(--n-ln);flex-wrap:wrap}
 .notte-pagina .n-num b{display:block;font-family:Georgia,serif;font-weight:400;font-size:2.2rem;color:var(--n-cr);line-height:1}
@@ -201,23 +190,26 @@ body.notte-pagina{--n-bg:#25354c;--n-bg2:#2c3f57;--n-card:#354a63;--n-cr:#f3e9dc
 .notte-pagina .n-test small{display:block;color:var(--n-go);font-size:.82rem;margin-bottom:.6rem}
 .notte-pagina .n-test p{font-size:.92rem;line-height:1.6;margin:0 0 .7rem}
 .notte-pagina .n-test em{font-style:normal;font-size:.8rem;color:var(--n-cr)}
-@media (max-width:860px){
-.notte-pagina .n-num{gap:1.4rem}.n-num b{font-size:1.8rem}
-.notte-pagina .n-press{grid-template-columns:64px 1fr;gap:1rem;padding:1.2rem}.n-press img{width:64px;height:64px}
+@media (max-width:860px){.notte-pagina .n-num{gap:1.4rem}
+.n-num b{font-size:1.8rem}
+.notte-pagina .n-press{grid-template-columns:64px 1fr;gap:1rem;padding:1.2rem}
+.n-press img{width:64px;height:64px}
 .notte-pagina .n-test{grid-template-columns:1fr}
-.notte-pagina .n-cani{grid-template-columns:1fr}.n-cane img{aspect-ratio:4/3}
-.notte-pagina .n-cane div{padding:1rem .8rem 1.2rem}.n-cane h3{font-size:1.05rem}
-}
+.notte-pagina .n-cani{grid-template-columns:1fr}
+.n-cane img{aspect-ratio:4/3}
+.notte-pagina .n-cane div{padding:1rem .8rem 1.2rem}
+.n-cane h3{font-size:1.05rem}}
 /* Testo tutto della stessa grandezza (Paolo: niente testi di grandezze diverse) */
 .notte-pagina main p,.notte-pagina main li,.notte-pagina main .faq-answer,.notte-pagina .n-2c p{font-size:1.02rem!important;line-height:1.75!important;font-family:inherit}
-.notte-pagina .n-lead,.notte-pagina .intro-block p:first-child{font-family:inherit!important;font-size:1.02rem!important;color:var(--n-mu)!important;column-span:none}
+.notte-pagina .intro-block p:first-child{font-family:inherit!important;font-size:1.02rem!important;color:var(--n-mu)!important;column-span:none}
 .notte-pagina .review-card .review-text{font-size:1.02rem!important}
 .notte-pagina .hero-description,.notte-pagina .hero-guida{font-size:1.02rem!important}
 .notte-pagina .n-num span,.notte-pagina .n-press small,.notte-pagina .section-label,.notte-pagina .n-quando{font-size:.75rem!important}
 .notte-pagina .n-press h2{font-size:1.15rem!important}
 .notte-pagina .n-cane h3{font-size:1.15rem}
 .notte-pagina .hero .n-num b{font-size:2rem}
-.notte-pagina .review-card .review-text{font-family:inherit!important}.notte-pagina .n-tot p:first-child{font-family:inherit;font-size:1.02rem!important}
+.notte-pagina .review-card .review-text{font-family:inherit!important}
+.notte-pagina .n-tot p:first-child{font-family:inherit;font-size:1.02rem!important}
 /* «Nati e cresciuti»: foto alte con il momento scritto sopra (scelta C di Paolo, 17/10/2026) */
 .notte-pagina .n-foto3{display:grid;grid-template-columns:2fr 1fr 1fr;gap:14px;margin:2rem 0}
 .notte-pagina .n-foto3 figure{margin:0;position:relative;height:500px;overflow:hidden;border-radius:6px;background:#1f2d42}
@@ -225,10 +217,11 @@ body.notte-pagina{--n-bg:#25354c;--n-bg2:#2c3f57;--n-card:#354a63;--n-cr:#f3e9dc
 .notte-pagina .n-foto3 figcaption{position:absolute;left:0;right:0;bottom:0;padding:4rem 1.2rem 1.2rem;background:linear-gradient(transparent,rgba(22,32,46,.94))}
 .notte-pagina .n-foto3 .n-quando{display:block;letter-spacing:.2em;text-transform:uppercase;color:var(--n-go);font-weight:700;margin-bottom:.3rem}
 .notte-pagina .n-foto3 p{color:var(--n-cr)!important;margin:0}
-@media (max-width:860px){.notte-pagina .n-foto3{grid-template-columns:1fr}.notte-pagina .n-foto3 figure{height:380px}}
+@media (max-width:860px){.notte-pagina .n-foto3{grid-template-columns:1fr}
+.notte-pagina .n-foto3 figure{height:380px}}
 /* Grandezze (scelta C di Paolo, 17/10/2026): testo 18 px ovunque, titoli contenuti */
 body.notte-pagina{font-size:18px}
-.notte-pagina main p,.notte-pagina main li,.notte-pagina main .faq-answer,.notte-pagina .n-2c p,.notte-pagina .review-card .review-text,.notte-pagina .n-tot p:first-child,.notte-pagina .hero-description,.notte-pagina .hero-guida,.notte-pagina .n-lead,.notte-pagina .intro-block p:first-child{font-size:1.125rem!important}
+.notte-pagina main p,.notte-pagina main li,.notte-pagina main .faq-answer,.notte-pagina .n-2c p,.notte-pagina .review-card .review-text,.notte-pagina .n-tot p:first-child,.notte-pagina .hero-description,.notte-pagina .hero-guida,.notte-pagina .intro-block p:first-child{font-size:1.125rem!important}
 .notte-pagina main .section-title,.notte-pagina main .section h2:not(.n-press h2){font-size:clamp(1.5rem,2.3vw,1.85rem)!important;line-height:1.2}
 .notte-pagina main h3,.notte-pagina .n-passo h3,.notte-pagina .n-faq h3,.notte-pagina .n-cane h3{font-size:1.25rem!important;line-height:1.35}
 .notte-pagina .n-press h2{font-size:1.25rem!important}
@@ -241,16 +234,14 @@ body.notte-pagina .footer a{color:var(--n-go)}
 body.notte-pagina .social-links a{background:transparent;border:1px solid rgba(240,204,134,.5)}
 body.notte-pagina .social-links svg{fill:var(--n-go)}
 body.notte-pagina .footer-links a{color:var(--n-cr)}
-@media(min-width:861px){
-body.notte-pagina .footer{display:grid;grid-template-columns:1.4fr 1fr 1fr;grid-template-areas:"nome social links" "ind social links" "sbt social links" "copy copy copy";text-align:left;column-gap:3rem;padding:3.5rem max(1.5rem,calc((100% - 1080px)/2)) 2rem}
+@media (min-width:861px){body.notte-pagina .footer{display:grid;grid-template-columns:1.4fr 1fr 1fr;grid-template-areas:"nome social links" "ind social links" "sbt social links" "copy copy copy";text-align:left;column-gap:3rem;padding:3.5rem max(1.5rem,calc((100% - 1080px)/2)) 2rem}
 body.notte-pagina .footer>p:nth-of-type(1){grid-area:nome}
 body.notte-pagina .footer>p:nth-of-type(2){grid-area:ind}
 body.notte-pagina .footer>p:nth-of-type(3){grid-area:sbt}
 body.notte-pagina .social-links{grid-area:social;justify-content:flex-start;align-self:start;margin:0}
 body.notte-pagina .footer-links{grid-area:links;flex-direction:column;align-items:flex-start;gap:0;margin:0}
 body.notte-pagina .footer-links a{padding:.3rem 0!important}
-body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(255,255,255,.12);padding-top:1.4rem;margin-top:2rem!important}
-}
+body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(255,255,255,.12);padding-top:1.4rem;margin-top:2rem!important}}
 .notte-pagina .hero-trust{color:var(--n-mu);font-size:.75rem!important;letter-spacing:.14em;margin:1.2rem 0 0}
 /* Femmine (scelta A di Paolo, 17/10/2026): schede a righe, senza riquadro, foto 4:5 a sinistra. Solo grafica. */
 .notte-pagina .female-card{background:transparent!important;border:0!important;box-shadow:none!important;border-radius:0;border-top:1px solid var(--n-ln)!important;margin:0;padding:2.6rem 0}
@@ -261,8 +252,8 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .notte-pagina .female-info p{margin:0 0 .55rem}
 .notte-pagina .female-image img{aspect-ratio:4/5;object-fit:cover;width:100%;height:auto}
 .notte-pagina .section-inner:has(.female-card) .intro-block{background:transparent;border:0;padding:0;columns:1}
-@media(max-width:860px){.notte-pagina .female-content{grid-template-columns:1fr;text-align:left}.notte-pagina .female-image{max-width:none}}
-
+@media (max-width:860px){.notte-pagina .female-content{grid-template-columns:1fr;text-align:left}
+.notte-pagina .female-image{max-width:none}}
 /* Maschi come Femmine (17/10/2026) */
 .notte-pagina .male-card{background:transparent!important;border:0!important;box-shadow:none!important;border-radius:0;border-top:1px solid var(--n-ln)!important;margin:0;padding:2.6rem 0}
 .notte-pagina .male-featured::before{display:none}
@@ -271,8 +262,8 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .notte-pagina .male-content{padding:0;gap:3rem;grid-template-columns:1fr 1.5fr}
 .notte-pagina .male-info p{margin:0 0 .55rem}
 .notte-pagina .male-image img{aspect-ratio:4/5;object-fit:cover;width:100%;height:auto}
-.notte-pagina .section-inner:has(.male-card) .intro-block{background:transparent;border:0;padding:0;columns:1}
-@media(max-width:860px){.notte-pagina .male-content{grid-template-columns:1fr;text-align:left}.notte-pagina .male-image{max-width:none}}
+@media (max-width:860px){.notte-pagina .male-content{grid-template-columns:1fr;text-align:left}
+.notte-pagina .male-image{max-width:none}}
 /* Niente testo su due colonne (Paolo, 17/10/2026): una colonna come la Home */
 .notte-pagina .intro-block,.notte-pagina .n-2c,.notte-pagina .section-inner:has(.female-card) .intro-block{columns:auto!important;column-count:1!important;background:transparent;border:0;padding:0}
 .notte-pagina .intro-block p:first-child{column-span:none}
@@ -292,10 +283,9 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .notte-pagina .palmares-summary>div{background:transparent!important;border:1px solid var(--n-ln)}
 .notte-pagina .palmares-summary>div p:first-child{font-family:Georgia,serif;font-weight:400!important;font-size:2.2rem!important;color:var(--n-cr)!important}
 .notte-pagina .palmares-summary>div p:last-child{font-size:.85rem!important}
-@media(max-width:860px){
-.notte-pagina .section-inner>div[style*="flex-direction:column"]{grid-template-columns:1fr}
-.notte-pagina main .risultato{grid-template-columns:5.5rem 1fr}.notte-pagina .risultato span:last-child{grid-column:2;text-align:left}
-}
+@media (max-width:860px){.notte-pagina .section-inner>div[style*="flex-direction:column"]{grid-template-columns:1fr}
+.notte-pagina main .risultato{grid-template-columns:5.5rem 1fr}
+.notte-pagina .risultato span:last-child{grid-column:2;text-align:left}}
 .notte-pagina .page-hero p{max-width:none;margin-left:0;margin-right:0;text-align:left}
 /* Palmarès: testo iniziale a righe (sottotitolo a sinistra, testo a destra), stesse parole */
 .notte-pagina .page-hero:has(> p:nth-of-type(2)){display:grid;grid-template-columns:1fr 2fr;column-gap:3rem;align-items:start}
@@ -303,7 +293,9 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .notte-pagina .page-hero:has(> p:nth-of-type(2)) p:nth-of-type(1){grid-column:2;grid-row:2;margin:0}
 .notte-pagina .page-hero:has(> p:nth-of-type(2)) p:nth-of-type(2){grid-column:1;grid-row:2;margin:0;padding-top:1.4rem;border-top:1px solid var(--n-ln);font-family:Georgia,serif;font-size:1.25rem!important;line-height:1.35;color:var(--n-cr)!important}
 .notte-pagina .page-hero:has(> p:nth-of-type(2)) p:nth-of-type(1){padding-top:1.4rem;border-top:1px solid var(--n-ln)}
-@media(max-width:860px){.notte-pagina .page-hero:has(> p:nth-of-type(2)){grid-template-columns:1fr}.notte-pagina .page-hero:has(> p:nth-of-type(2)) p:nth-of-type(1){grid-column:1;grid-row:3;border:0;padding-top:.6rem}.notte-pagina .page-hero:has(> p:nth-of-type(2)) p:nth-of-type(2){grid-row:2}}
+@media (max-width:860px){.notte-pagina .page-hero:has(> p:nth-of-type(2)){grid-template-columns:1fr}
+.notte-pagina .page-hero:has(> p:nth-of-type(2)) p:nth-of-type(1){grid-column:1;grid-row:3;border:0;padding-top:.6rem}
+.notte-pagina .page-hero:has(> p:nth-of-type(2)) p:nth-of-type(2){grid-row:2}}
 /* Programma: titoli h2 nelle righe, righe nella fascia scura (17/10/2026) */
 .notte-pagina .n-passo>h2{font-family:Georgia,serif;font-size:1.25rem!important;line-height:1.35;margin:0!important;text-align:left}
 .notte-pagina .n-passo>div>p:last-child{margin-bottom:0}
@@ -318,8 +310,10 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .notte-pagina .reviews-grid .review-text{grid-area:t;margin:0}
 .notte-pagina .reviews-grid .review-meta{grid-area:m;margin:0}
 .notte-pagina .reviews-grid .review-name{font-size:1.25rem}
-@media(max-width:767px){.notte-pagina .reviews-grid .review-card{grid-template-columns:1fr;grid-template-areas:"h" "t" "m";row-gap:.7rem}}
-.notte-pagina .reviews-grid .review-card{grid-template-rows:auto 1fr}.notte-pagina .reviews-grid .review-header{justify-content:flex-start}.notte-pagina .reviews-grid .review-meta{align-self:start}
+@media (max-width:767px){.notte-pagina .reviews-grid .review-card{grid-template-columns:1fr;grid-template-areas:"h" "t" "m";row-gap:.7rem}}
+.notte-pagina .reviews-grid .review-card{grid-template-rows:auto 1fr}
+.notte-pagina .reviews-grid .review-header{justify-content:flex-start}
+.notte-pagina .reviews-grid .review-meta{align-self:start}
 /* Diario (elenco) a righe: foto a sinistra, data e testo a destra; testo del diario a righe (17/10/2026) */
 .notte-pagina .diario-grid{display:block}
 .notte-pagina .diario-card{display:grid;grid-template-columns:1fr 1.5fr;grid-template-areas:"i d" "i c";grid-template-rows:auto 1fr;column-gap:3rem;padding:2.2rem 0;background:transparent!important;border:0;border-top:1px solid var(--n-ln)!important;border-radius:0;box-shadow:none;transform:none!important}
@@ -333,30 +327,37 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .notte-pagina .diario-intro>h2+*{padding-top:2.2rem;border-top:1px solid var(--n-ln)}
 .notte-pagina .diario-intro>:not(h2~*):not(h2),.notte-pagina .diario-intro>.fonti{grid-column:1/-1}
 .notte-pagina .diario-intro>p.fonti{margin-top:2.2rem;padding-top:2.2rem;border-top:1px solid var(--n-ln)}
-@media(max-width:767px){.notte-pagina .diario-card{grid-template-columns:1fr;grid-template-areas:"d" "i" "c";row-gap:1rem}
-.notte-pagina .diario-intro{display:block}.notte-pagina .diario-intro>h2+*{padding-top:0;border-top:0}.notte-pagina .diario-intro>h2{margin:2rem 0 1rem}}
-@media(min-width:768px){.notte-pagina .diario-intro{column-gap:0}.notte-pagina .diario-intro>h2~*:not(h2):not(.fonti){padding-left:3rem}.notte-pagina .diario-intro>h2~ul{padding-left:4.4rem}}
+@media (max-width:767px){.notte-pagina .diario-card{grid-template-columns:1fr;grid-template-areas:"d" "i" "c";row-gap:1rem}
+.notte-pagina .diario-intro{display:block}
+.notte-pagina .diario-intro>h2+*{padding-top:0;border-top:0}
+.notte-pagina .diario-intro>h2{margin:2rem 0 1rem}}
+@media (min-width:768px){.notte-pagina .diario-intro{column-gap:0}
+.notte-pagina .diario-intro>h2~*:not(h2):not(.fonti){padding-left:3rem}
+.notte-pagina .diario-intro>h2~ul{padding-left:4.4rem}}
 /* Contatti: righe delle città con i colori Notte (17/10/2026) */
 .notte-pagina .zone-row{background:var(--n-card)!important;border:1px solid var(--n-ln)!important;box-shadow:none!important}
 .notte-pagina .zone-name{color:var(--n-go)!important}
 .notte-pagina .zone-city{background:transparent!important;border:1px solid var(--n-ln)!important;color:var(--n-cr)!important}
-@media(max-width:767px){.notte-pagina .n-storia .n-passo{grid-template-columns:1fr;gap:.8rem}.notte-pagina .n-foto-cap{max-width:320px}}
+@media (max-width:767px){.notte-pagina .n-storia .n-passo{grid-template-columns:1fr;gap:.8rem}
+.notte-pagina .n-foto-cap{max-width:320px}}
 .notte-pagina main .risultato a{text-decoration:underline;text-underline-offset:2px}
 /* Foto in testata sempre intera, mai tagliata (Paolo, scelta A, 17/10/2026) */
 .notte-pagina .hero-image img{object-fit:contain!important;object-position:center!important}
-@media(max-width:767px){.notte-pagina .hero-visual{height:auto!important}.notte-pagina .hero-image{position:static!important}.notte-pagina .hero-image img{height:62vh!important;width:100%!important}}
+@media (max-width:767px){.notte-pagina .hero-visual{height:auto!important}
+.notte-pagina .hero-image{position:static!important}
+.notte-pagina .hero-image img{height:62vh!important;width:100%!important}}
 /* Testata con icona (FAQ): icona piccola e centrata, senza sfumatura (17/10/2026) */
 .notte-pagina .hero-image img[alt=""]{width:min(340px,70%)!important;height:auto!important;border-radius:24px;margin:auto}
 .notte-pagina .hero-image:has(img[alt=""]){display:flex;align-items:center;justify-content:center}
 .notte-pagina .hero-visual:has(img[alt=""]):after{display:none}
-@media(max-width:767px){.notte-pagina .hero-image img[alt=""]{width:min(260px,70%)!important;margin:1.5rem auto}}
+@media (max-width:767px){.notte-pagina .hero-image img[alt=""]{width:min(260px,70%)!important;margin:1.5rem auto}}
 /* FAQ a righe aperte (domanda a sinistra, risposta a destra) */
 .notte-pagina .faq-container:not(.n-faqs) .faq-item{display:grid;grid-template-columns:1fr 1.7fr;column-gap:3rem;padding:2.2rem 0!important;margin:0!important;background:transparent!important;border:0!important;border-top:1px solid var(--n-ln)!important;border-radius:0!important;box-shadow:none!important}
 .notte-pagina .faq-container:not(.n-faqs) .faq-question{display:block;padding:0!important;background:none!important;cursor:default}
 .notte-pagina .faq-container:not(.n-faqs) .faq-toggle{display:none}
 .notte-pagina .faq-container:not(.n-faqs) .faq-q{display:block!important;font-family:Georgia,serif;font-weight:400!important;font-size:1.25rem!important;line-height:1.35;color:var(--n-cr)}
 .notte-pagina .faq-container:not(.n-faqs) .faq-answer{display:block!important;max-height:none!important;padding:0!important;margin:0;opacity:1!important}
-@media(max-width:767px){.notte-pagina .faq-container:not(.n-faqs) .faq-item{grid-template-columns:1fr;row-gap:.9rem}}
+@media (max-width:767px){.notte-pagina .faq-container:not(.n-faqs) .faq-item{grid-template-columns:1fr;row-gap:.9rem}}
 /* Blog in stile Notte (17/10/2026) */
 .notte-pagina main>p:not([class]){max-width:1080px;margin:3rem auto 0;padding:0 1.5rem}
 .notte-pagina .blog-card{background:var(--n-card)!important;border:1px solid var(--n-ln)!important;box-shadow:none!important;overflow:hidden}
@@ -364,7 +365,6 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .notte-pagina .blog-card h3,.notte-pagina .blog-card h3 a{color:var(--n-cr)!important;font-family:Georgia,serif}
 .notte-pagina .blog-card p{color:var(--n-mu)!important;margin:.4rem 0 .8rem!important}
 .notte-pagina .blog-card-meta,.notte-pagina .blog-card-meta span{color:var(--n-cu)!important;font-size:.85rem}
-.notte-pagina .blog-card .read{color:var(--n-go)!important;font-weight:700}
 .notte-pagina .blog-card:hover{transform:none}
 .notte-pagina .blog-card h3{margin:.3rem 0 .4rem!important;padding:0!important}
 /* Blog a righe: icona a sinistra, data, titolo e testo a destra; tutti gli articoli visibili */
@@ -374,8 +374,9 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .notte-pagina .blog-card-thumb img{width:120px!important;height:120px!important;object-fit:cover}
 .notte-pagina .blog-card-body{padding:0!important}
 .notte-pagina .blog-card h3{font-size:1.25rem!important;margin:.3rem 0 .4rem!important}
-@media(max-width:600px){.notte-pagina .blog-card{grid-template-columns:72px 1fr;column-gap:1rem}.notte-pagina .blog-card-thumb,.notte-pagina .blog-card-thumb img{width:72px!important;height:72px!important}}
-.notte-pagina .faq-q a,.notte-pagina .n-faq h3 a{text-decoration:underline;text-underline-offset:2px}
+@media (max-width:600px){.notte-pagina .blog-card{grid-template-columns:72px 1fr;column-gap:1rem}
+.notte-pagina .blog-card-thumb,.notte-pagina .blog-card-thumb img{width:72px!important;height:72px!important}}
+.notte-pagina .faq-q a{text-decoration:underline;text-underline-offset:2px}
 /* Pagine delle singole cucciolate del Diario in stile Notte (17/10/2026) */
 .notte-pagina .diario-date-hero{color:var(--n-cu)!important;letter-spacing:.08em}
 .notte-pagina main div[style*="background:#f8fafc"]{background:var(--n-card)!important;border-color:var(--n-ln)!important;border-left-color:var(--n-go)!important}
@@ -387,7 +388,7 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .notte-pagina main table td,.notte-pagina main table tr{background:transparent!important;color:var(--n-cr)!important;border-color:var(--n-ln)!important}
 .notte-pagina main table tr:nth-child(even) td{background:rgba(255,255,255,.03)!important}
 .notte-pagina main [style*="color:#666"],.notte-pagina main [style*="color:#555"],.notte-pagina main [style*="color:#4a5768"]{color:var(--n-mu)!important}
-.notte-pagina main em[style*="color:#666"],.notte-pagina main p>em{color:var(--n-mu)}
+.notte-pagina main p>em{color:var(--n-mu)}
 .notte-pagina .article-content em{color:var(--n-mu)}
 .notte-pagina .diario-nav{border-color:var(--n-ln)!important}
 .notte-pagina .diario-nav-label{color:var(--n-cu)!important}
@@ -397,15 +398,13 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 /* Pagine delle singole cucciolate a righe: titolo h2 a sinistra, contenuto a destra (17/10/2026) */
 .tipo-articolo.notte-pagina .article-content{max-width:1080px!important;margin-left:auto;margin-right:auto;padding-left:1.5rem!important;padding-right:1.5rem!important}
 .tipo-articolo.notte-pagina main>div[style*="max-width:820px"]{max-width:1032px!important}
-@media(min-width:768px){
-.tipo-articolo.notte-pagina .article-content{display:grid;grid-template-columns:1fr 2.2fr;column-gap:3rem}
+@media (min-width:768px){.tipo-articolo.notte-pagina .article-content{display:grid;grid-template-columns:1fr 2.2fr;column-gap:3rem}
 .tipo-articolo.notte-pagina .article-content>*{grid-column:2;min-width:0}
 .tipo-articolo.notte-pagina .article-content>h2{grid-column:1;position:relative;margin:0!important;padding-top:2.2rem;font-family:Georgia,serif;font-size:1.25rem!important;line-height:1.35}
 .tipo-articolo.notte-pagina .article-content>h2:before{content:"";position:absolute;left:0;top:0;width:calc(320% + 3rem);border-top:1px solid var(--n-ln)}
 .tipo-articolo.notte-pagina .article-content>h2+*{margin-top:2.2rem!important}
 .tipo-articolo.notte-pagina .article-content>:not(h2~*):not(h2){grid-column:1/-1}
-.tipo-articolo.notte-pagina .article-content>div[style*="repeat(auto-fit"]{grid-template-columns:repeat(2,minmax(0,1fr))!important}
-}
+.tipo-articolo.notte-pagina .article-content>div[style*="repeat(auto-fit"]{grid-template-columns:repeat(2,minmax(0,1fr))!important}}
 /* Cucciolate del Diario: niente fondi senape o marroni, solo scuro, oro e rame come le altre pagine (17/10/2026) */
 .tipo-articolo.notte-pagina main [style*="background:#c9a227"]{background:transparent!important;border:1px solid var(--n-go)!important;color:var(--n-cr)!important}
 .tipo-articolo.notte-pagina main [style*="background:#c9a227"] *{color:var(--n-cr)!important}
@@ -422,15 +421,15 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .notte-pagina main table thead{background:transparent!important}
 /* Tema Blu notte, bianco e oro (Paolo, 18/10/2026): niente marrone in link e bottoni */
 .notte-pagina .btn,.notte-pagina main .btn,.notte-pagina main .btn-primary,.notte-pagina .hero .btn,.notte-pagina .cta-section .btn,.notte-pagina .dark-section .btn,.notte-pagina .btn-gold,.notte-pagina .btn-light{background:#ffffff!important;color:#1f3a5f!important;border:0!important}
-.notte-pagina main .btn-ghost,.notte-pagina main .btn-outline{background:transparent!important;color:#ffffff!important;border:1.5px solid rgba(255,255,255,.7)!important}
+.notte-pagina main .btn-ghost{background:transparent!important;color:#ffffff!important;border:1.5px solid rgba(255,255,255,.7)!important}
 .notte-pagina .nav-cta{background:#1f3a5f!important;color:#ffffff!important}
-.notte-pagina .nav-links a.active,.notte-pagina .nav-links a[aria-current],.notte-pagina .nav-logo-text span{color:#1f3a5f!important}
+.notte-pagina .nav-links a.active,.notte-pagina .nav-logo-text span{color:#1f3a5f!important}
 .notte-pagina .nav-lang a{border-color:#1f3a5f!important;color:#1f3a5f!important}
 /* link: oro, grassetto, sottolineatura sottile (scelta B) */
 .notte-pagina main a:not(.btn):not(.btn-primary):not(.btn-ghost):not(.nav-cta),.notte-pagina footer a,.notte-pagina .footer a,.notte-pagina .hero a:not(.btn){color:#f0cc86!important;font-weight:600;text-decoration:underline!important;text-decoration-thickness:1px!important;text-underline-offset:4px!important;text-decoration-color:rgba(240,204,134,.45)!important}
 .notte-pagina main a:not(.btn):not(.btn-primary):not(.btn-ghost):not(.nav-cta):hover,.notte-pagina footer a:hover,.notte-pagina .footer a:hover,.notte-pagina .hero a:not(.btn):hover{text-decoration-color:#f0cc86!important}
 /* link che sono schede o titoli (non dentro il testo): niente sottolineatura */
-.notte-pagina main a.blog-card-thumb,.notte-pagina main .blog-card h3 a,.notte-pagina main a.diario-card-image,.notte-pagina main .diario-card-title a,.notte-pagina main a.corr-card,.notte-pagina main a.n-vai,.notte-pagina .footer .social a,.notte-pagina main a:has(>img){text-decoration:none!important}
+.notte-pagina main .blog-card h3 a,.notte-pagina main a.diario-card-image,.notte-pagina main .diario-card-title a,.notte-pagina main a.corr-card,.notte-pagina main a.n-vai,.notte-pagina main a:has(>img){text-decoration:none!important}
 /* Testata e menu: niente marrone al passaggio del mouse (18/10/2026) */
 .notte-pagina .nav-links>li>a:hover,.notte-pagina .nav-links>li>a.active,.notte-pagina .dropdown-trigger:hover,.notte-pagina .dropdown-trigger:focus{color:#1f3a5f!important}
 .notte-pagina .dropdown-menu a:hover{background:#eef2f7!important;color:#1f3a5f!important}

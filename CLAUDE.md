@@ -103,7 +103,7 @@ The newest post also feeds the "latest litter" section of the Puppies page (`<!-
 
 ### CSS
 
-One file, `assets/css/main.css` (already minified in-repo, single long line), inlined into every page's `<head>` via `partials/css.html` through Hugo Pipes. There is no external stylesheet request and no build step for CSS. Component-level styling is otherwise **inline `style=""` attributes** inside partials and `custom_content` — that is deliberate, not an oversight.
+`assets/css/main.css` (single long line), plus `home.css` (Home) and `notte.css` (Notte pages). Since 18/10/2026 (Paolo, choice C) `partials/css.html` joins them into one external file per page type (`/css/sito.min.<sha256>.css` for light pages, `sito-notte…` for Notte pages, `sito-home…` for the Home: main+home+notte), minified and fingerprinted, loaded with `<link rel="stylesheet" integrity>`; `/css/*` is cached one year (`immutable`) in `index.headers`, safe because the name changes with the content. Rules for components no longer on the site were removed the same day (checked with screenshots of all 164 pages before and after). Component-level styling is otherwise **inline `style=""` attributes** inside partials and `custom_content` — that is deliberate, not an oversight.
 
 ### Translations: three mechanisms coexist
 
