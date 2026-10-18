@@ -34,6 +34,11 @@
 /css/*
   Cache-Control: public, max-age=31536000, immutable
 
+# Script (18/10/2026): il calcolatore cambia spesso e il nome non ha impronta: il browser ricontrolla
+# ogni volta (con ETag risponde 304 se non e' cambiato). Nella pagina c'e' anche ?v= da cambiare a ogni modifica.
+/js/*
+  Cache-Control: public, max-age=0, must-revalidate
+
 /images/*
   Cache-Control: public, max-age=2592000
 

@@ -354,6 +354,7 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
   secondo la taglia. 📷 foto del sacco: `https://gestionale.delpiccolodiavolo.it/api/public/sacco` (limite 30 letture al giorno,
   3 per visitatore, scritto sulla pagina). Le crocchette aggiunte dal visitatore restano nel suo browser (localStorage).
 - Componenti analitici (18/10/2026): ogni riga di `#pappa-db` ha `data-c="proteina,grassi,fibra,ceneri,umidità"` (vuoto = non pubblicato), uguale nelle tre lingue; lo script li mostra sotto la scelta delle crocchette.
+- **Dopo ogni modifica a `static/js/calcolatore-crocchette.js` cambiare `?v=` nel tag `<script>` delle tre pagine** (18/10/2026: Paolo vedeva la versione vecchia dalla cache). `/js/*` ha `max-age=0, must-revalidate` in `index.headers`.
 - Elenco comune (18/10/2026, Paolo): le crocchette aggiunte dai visitatori vanno a `https://gestionale.delpiccolodiavolo.it/api/public/crocchette`
   (POST); Claude le controlla e, se i dati tornano, entrano nell'elenco per tutti (GET della stessa API, aggiunte dallo script all'elenco
   della pagina). Non sono nella tabella `#pappa-db` (Google non le vede): per metterne una nel testo vero, si aggiunge la riga a mano.
