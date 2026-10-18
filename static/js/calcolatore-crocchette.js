@@ -43,7 +43,7 @@ function srDraw(){var out=$("pp-"+"sr");if(!out)return;var w=srNorm(SQ).split(" 
  if(!w.length&&!SA){out.innerHTML="";return}
  var L2=foods().filter(function(f){var t=srNorm(f.brand+" "+f.name+" "+(f.en||""));return w.every(function(x){return t.indexOf(x)>=0})&&srAge(f,SA)});
  if(!L2.length){out.innerHTML='<p class="pp-ok" style="color:#a12a22">'+SR.none+'</p>';return}
- var show=L2.slice(0,8);out.innerHTML='<p class="pp-ok" style="color:#4a5768;margin:6px 0 4px">'+L2.length+SR.n+'</p>'+show.map(function(f){return '<button type="button" class="pp-sri'+(f.id===S.food?' on':'')+'" data-pick="'+esc(f.id)+'"><b>'+esc(f.brand)+'</b> '+esc(typeof tr==="function"?tr(f.name):f.name)+' <small>'+f.kcal+' kcal</small></button>'}).join("")+(L2.length>8?'<p class="pp-ok" style="color:#4a5768">+'+(L2.length-8)+' '+SR.more+'</p>':'')}
+ var show=L2;out.innerHTML='<p class="pp-ok" style="color:#4a5768;margin:6px 0 4px">'+L2.length+SR.n+'</p><div class="pp-srl">'+show.map(function(f){return '<button type="button" class="pp-sri'+(f.id===S.food?' on':'')+'" data-pick="'+esc(f.id)+'"><b>'+esc(f.brand)+'</b> '+esc(typeof tr==="function"?tr(f.name):f.name)+' <small>'+f.kcal+' kcal</small></button>'}).join("")+'</div>'}
 
 var PRT={it:["Proteine: "," g al giorno · "," g ogni 1000 kcal","✓ sopra il minimo FEDIAF per l'età (",")","⚠️ sotto il minimo FEDIAF per l'età ("," g ogni 1000 kcal): scegli crocchette più ricche di proteine"],
  en:["Protein: "," g a day · "," g per 1000 kcal","✓ above the FEDIAF minimum for the age (",")","⚠️ below the FEDIAF minimum for the age ("," g per 1000 kcal): choose a kibble richer in protein"],
