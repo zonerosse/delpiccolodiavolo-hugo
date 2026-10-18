@@ -35,7 +35,7 @@ custom_content: |
   <div class="hero-actions">
   <a class="btn btn-primary" href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Staffordshire Bull Terrier Welpen</a>
   </div>
-  <p class="hero-guida">Zum ersten Mal ein Staffy? <a href="/docs/ratgeber-erste-monate-staffy-welpe.pdf">Laden Sie den Ratgeber für die ersten Monate herunter (PDF)</a></p>
+  <p class="hero-guida">Zum ersten Mal ein Staffy? <a href="/docs/ratgeber-erste-monate-staffy-welpe.pdf" title="Laden Sie den Ratgeber für die ersten Monate herunter (PDF)">Laden Sie den Ratgeber für die ersten Monate herunter (PDF)</a></p>
   <p class="hero-trust">Gentests - ENCI-Ahnentafel - Seit 2013</p>
   <div class="n-num numeri-chiave">
   <div><b>seit 2013</b><span>Zucht von Staffordshire<br>Bull Terriern</span></div>
@@ -98,7 +98,7 @@ custom_content: |
 
   <div class="n-percorso"><div class="n-passo"><h3>Wir haben nicht das ganze Jahr über Welpen.</h3><div><p>Ein Wurf, gelegentlich zwei, manchmal keiner. Wenn Sie uns zu einem Zeitpunkt schreiben, an dem es keine gibt, lautet die Antwort, dass es keine gibt: wir bieten Ihnen nicht den Welpen eines Bekannten an und drängen Sie nicht zu einem künftigen Wurf.</p></div></div><div class="n-passo"><h3>Wir versenden keine Hunde.</h3><div><p>Keiner unserer Welpen reist per Kurier: kein Frachtraum, keine Übergabe auf halbem Weg auf einem Parkplatz. Wer einen Welpen nimmt, kommt nach Ostellato. So sieht er die Mutter, das Haus und den Ort, an dem er aufgewachsen ist.</p></div></div><div class="n-passo"><h3>Wir behandeln die Ahnentafel nicht als Zubehör.</h3><div><p>Es gibt keinen Welpen „mit“ oder „ohne“: die ENCI-Ahnentafel begleitet jeden Hund und wird nicht gesondert berechnet.</p></div></div><div class="n-passo"><h3>Wir nehmen Fragen zur Zucht nicht übel.</h3><div><p>Im Gegenteil, sie sagen uns, wen wir vor uns haben. Wer nach den Tests fragt, nach den Eltern, danach, was passiert, wenn er den Hund in zwei Jahren nicht mehr halten kann, ist die Person, der wir gerne einen Welpen anvertrauen.</p></div></div></div>
   <p class="n-vedi">Wer hinter all dem steht, und wie man von Rottweilern zu Staffys kommt: das erzählen wir unter <a href="/de/ueber-uns/" title="Über uns">über uns</a>.</p>
-  <p class="n-vedi"><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/">Wie man eine Zucht erkennt, die gut arbeitet</a>. Acht Kriterien und wie man sie prüft — bei uns wie bei allen anderen.</p>
+  <p class="n-vedi"><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie man eine Zucht erkennt, die gut arbeitet">Wie man eine Zucht erkennt, die gut arbeitet</a>. Acht Kriterien und wie man sie prüft — bei uns wie bei allen anderen.</p>
   </div>
   </section>
   <!--/BLOCCO:4-->
@@ -145,11 +145,11 @@ custom_content: |
   <div class="n-passo">
   <h3>Was man prüfen kann, und wo</h3>
   <div>
-  <p><strong>Die Abstammung.</strong> Die Hunde von Del Piccolo Diavolo sind auf <a aria-label="Del Piccolo Diavolo auf SBTPedigree (wird in einem neuen Tab geöffnet)" href="https://sbtpedigree.com/details?id=35858" rel="noopener" target="_blank">SBTPedigree</a> eingetragen, der internationalen Datenbank der Rasse, mit allen Hunden und Würfen. Von dort aus verfolgt man Großeltern, Urgroßeltern und Wurfgeschwister zurück: man sieht, wer die Hunde hinter einem Namen sind, und auch, was fehlt.</p>
+  <p><strong>Die Abstammung.</strong> Die Hunde von Del Piccolo Diavolo sind auf <a aria-label="Del Piccolo Diavolo auf SBTPedigree (wird in einem neuen Tab geöffnet)" href="https://sbtpedigree.com/details?id=35858" rel="noopener" target="_blank" title="SBTPedigree">SBTPedigree</a> eingetragen, der internationalen Datenbank der Rasse, mit allen Hunden und Würfen. Von dort aus verfolgt man Großeltern, Urgroßeltern und Wurfgeschwister zurück: man sieht, wer die Hunde hinter einem Namen sind, und auch, was fehlt.</p>
   <p><strong>Die Ahnentafeln.</strong> Jeder Welpe geht mit der ENCI-Ahnentafel, die sich über die Zuchtbuchnummer prüfen lässt.</p>
   <p><strong>Die Ausstellungsergebnisse.</strong> Die Titel sind nicht selbst bescheinigt: die Ausstellungskataloge sind öffentlich, und die Richter, die unsere Hunde bewertet haben, haben einen Vor- und einen Nachnamen. Gesammelt sind sie im <a href="/de/palmares/" title="Palmares">Palmarès</a>.</p>
   <p><strong>Die Daten.</strong> Jeder Wurf hat sein Geburtsdatum: die jüngsten im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Tagebuch</a>, die der früheren Jahre im <a href="/de/wuerfe-staffordshire-bull-terrier/" title="Zuchtprogramm">Zuchtprogramm</a>. Keiner verschwindet, sobald die Welpen in ihren neuen Familien sind, und das ist gewollt: So kann jeder nachzählen, wie viele Würfe wir in einem Jahr haben.</p>
-  <p class="n-vedi"><a href="/de/huendinnen-staffordshire-bull-terrier/">Unsere Hündinnen, eine nach der anderen</a>. Mikrochip, Gentests und Ahnentafel: von dort aus prüfen Sie Abstammung und Würfe.</p>
+  <p class="n-vedi"><a href="/de/huendinnen-staffordshire-bull-terrier/" title="Unsere Hündinnen, eine nach der anderen">Unsere Hündinnen, eine nach der anderen</a>. Mikrochip, Gentests und Ahnentafel: von dort aus prüfen Sie Abstammung und Würfe.</p>
   </div>
   </div>
   <div class="n-passo">
@@ -200,7 +200,7 @@ custom_content: |
   <p><strong>1 Italienischer Champion - 3 Italienische Jugendchampions - 1 Championin von San Marino - 4. bei der World Dog Show</strong></p>
   <p>Ergebnisse mit von uns gezüchteten und aufgezogenen Hunden, nicht bereits mit Titeln gekauft.</p>
   <a class="btn btn-primary" href="/de/palmares/" title="Alle Ergebnisse ansehen">Alle Ergebnisse ansehen</a>
-  <p class="n-vedi" style="text-align:left"><a href="/de/welpen-staffordshire-bull-terrier/">Wie ein Wurf entsteht und aufwächst</a>. Von der Läufigkeit bis zur Geburt, und was in den Wochen danach geschieht.</p>
+  <p class="n-vedi" style="text-align:left"><a href="/de/welpen-staffordshire-bull-terrier/" title="Wie ein Wurf entsteht und aufwächst">Wie ein Wurf entsteht und aufwächst</a>. Von der Läufigkeit bis zur Geburt, und was in den Wochen danach geschieht.</p>
   </div>
   </div>
   </section>

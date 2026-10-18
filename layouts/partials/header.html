@@ -55,8 +55,8 @@
 <a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "reviews/" (cond (eq .Site.Language.Lang "de") "bewertungen/" "recensioni/")) "") | relLangURL }}" title="{{ T "recensioni" }}">{{ T "recensioni" }}</a>
 <a href="{{ (printf "%s%s" (cond (eq .Site.Language.Lang "en") "contact/" (cond (eq .Site.Language.Lang "de") "kontakt/" "allevamento-staffordshire-bull-terrier-in-emilia-romagna/")) "") | relLangURL }}" title="{{ T "contatti" }}">{{ T "contatti" }}</a>
 <div style="margin-top: 1rem; display: flex; gap: 1rem;">
-<a href="/" hreflang="it" lang="it" style="font-size: .9rem; {{ if eq .Site.Language.Lang "it" }}font-weight: bold; color: #1f4f82;{{ end }}">Italiano</a>
-<a href="/en/" hreflang="en" lang="en" style="font-size: .9rem; {{ if eq .Site.Language.Lang "en" }}font-weight: bold; color: #1f4f82;{{ end }}">English</a>
-<a href="/de/" hreflang="de" lang="de" style="font-size: .9rem; {{ if eq .Site.Language.Lang "de" }}font-weight: bold; color: #1f4f82;{{ end }}">Deutsch</a>
+<a href="/" hreflang="it" lang="it" title="Italiano" style="font-size: .9rem; {{ if eq .Site.Language.Lang "it" }}font-weight: bold; color: #1f4f82;{{ end }}">Italiano</a>
+<a href="/en/" hreflang="en" lang="en" title="English" style="font-size: .9rem; {{ if eq .Site.Language.Lang "en" }}font-weight: bold; color: #1f4f82;{{ end }}">English</a>
+<a href="/de/" hreflang="de" lang="de" title="Deutsch" style="font-size: .9rem; {{ if eq .Site.Language.Lang "de" }}font-weight: bold; color: #1f4f82;{{ end }}">Deutsch</a>
 </div>
 </div>

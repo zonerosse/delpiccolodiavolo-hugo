@@ -2,7 +2,7 @@
 
 {{- $agg := printf "%s %s" (cond (eq .Site.Language.Lang "de") "Aktualisiert am" (cond (eq .Site.Language.Lang "en") "Updated on" "Aggiornato il")) (cond (eq .Site.Language.Lang "en") ((partial "pagine/lastmod.html" .).Format "January 2, 2006") (partial "data-locale.html" .)) -}}
 {{- $iso := (partial "pagine/lastmod.html" .).Format "2006-01-02" -}}
-{{- $meta := printf `<p class="pagina-meta" style="text-align:center;color:#4a5768;font-size:.85rem;margin:1.5rem 0 0"><time datetime="%s">%s</time> · <a href="%s" rel="author" style="color:inherit;text-decoration:underline">Paolo Boldrini</a></p>` $iso $agg (cond (eq .Site.Language.Lang "de") "/de/ueber-uns/" (cond (eq .Site.Language.Lang "en") "/en/about-us/" "/chi-siamo/")) -}}
+{{- $meta := printf `<p class="pagina-meta" style="text-align:center;color:#4a5768;font-size:.85rem;margin:1.5rem 0 0"><time datetime="%s">%s</time> · <a href="%s" rel="author" title="Paolo Boldrini" style="color:inherit;text-decoration:underline">Paolo Boldrini</a></p>` $iso $agg (cond (eq .Site.Language.Lang "de") "/de/ueber-uns/" (cond (eq .Site.Language.Lang "en") "/en/about-us/" "/chi-siamo/")) -}}
 
 {{ if trim (.Params.custom_content | default "") " \n\t\r" }}
   {{ $voto := .Site.Params.recensioniVoto | default "" }}

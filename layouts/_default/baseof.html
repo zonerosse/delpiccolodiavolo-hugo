@@ -147,7 +147,7 @@
 {{- $classi := slice -}}{{- if .Params.articolo }}{{ $classi = $classi | append "tipo-articolo" }}{{ end -}}{{- if $notte }}{{ $classi = $classi | append "notte-pagina" }}{{ end -}}
 <body{{ with $classi }} class="{{ delimit . " " }}"{{ end }}>
 
-<a class="salta-contenuto" href="#contenuto">{{ i18n "salta_contenuto" }}</a>
+<a class="salta-contenuto" href="#contenuto" title="{{ i18n "salta_contenuto" }}">{{ i18n "salta_contenuto" }}</a>
 
 {{ partial "header.html" . }}
 
