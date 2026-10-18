@@ -9,4 +9,7 @@
 {{- if .IsHome }}{{ with resources.Get "css/home.css" }}{{ $parti = $parti | append . }}{{ end }}{{ $nome = "css/sito-home.css" }}{{ end -}}
 {{- if $notte }}{{ with resources.Get "css/notte.css" }}{{ $parti = $parti | append . }}{{ end }}{{ if not .IsHome }}{{ $nome = "css/sito-notte.css" }}{{ end }}{{ end -}}
 {{- $css := $parti | resources.Concat $nome | minify | fingerprint "sha256" -}}
+{{- /* Preload dello stesso file (Paolo, 18/10/2026, scelta B): Cloudflare Pages trasforma i <link rel="preload"> della pagina
+     in Early Hints (risposta 103), così il browser comincia a scaricare lo stile mentre aspetta ancora la pagina. */}}
+<link rel="preload" as="style" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
 <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
