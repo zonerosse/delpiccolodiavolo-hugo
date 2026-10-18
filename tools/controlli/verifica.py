@@ -518,8 +518,11 @@ if r.returncode == 0:
         for n in nodi:
             # alt="" su un'immagine e' la marcatura corretta delle immagini
             # decorative (icone di testata degli articoli): non si segnala.
+            # Anche il logo del menu ha alt="": accanto c'e' gia' il nome scritto
+            # (Lighthouse image-redundant-alt, 18/10/2026).
             # Si segnala solo l'alt vuoto su foto vere fuori da /images/blog/icone/.
-            if n.tag == "img" and n.attrs.get("alt", None) == "" and "/images/blog/icone/" not in n.attrs.get("src", ""):
+            if n.tag == "img" and n.attrs.get("alt", None) == "" and "/images/blog/icone/" not in n.attrs.get("src", "") \
+                    and n.attrs.get("src", "") != "/images/logo.webp":
                 segnala("alt_vuoto", "AVVISO", "", url, n.attrs.get("src", ""))
             if n.tag == "svg" and n.attrs.get("aria-hidden") != "true" and not n.attrs.get("aria-label") \
                     and not any(x.tag == "title" for x in n.tutti()):

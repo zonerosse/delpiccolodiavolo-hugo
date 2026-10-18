@@ -22,6 +22,7 @@
   {{ $c = replace $c "<!--NOVITA-->" (partial "novita-home.html" .) }}
   {{/* La seconda copia delle voci nella barra scorrevole viene nascosta ai
        lettori di schermo e ai parser (vedi ticker-a11y.html). */}}
+  {{ $c = partial "immagini-hero.html" (dict "c" $c "p" .) }}
   {{ partial "ticker-a11y.html" $c | safeHTML }}
   {{- $lbl := cond (eq $lang "de") "Aktualisiert am" (cond (eq $lang "en") "Updated on" "Aggiornato il") -}}
   {{- $dt := cond (eq $lang "en") ((partial "pagine/lastmod.html" .).Format "January 2, 2006") (partial "data-locale.html" .) -}}

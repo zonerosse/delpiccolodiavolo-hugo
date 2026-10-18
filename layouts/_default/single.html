@@ -28,6 +28,7 @@
   {{ end }}
   {{/* La seconda copia delle voci nella barra scorrevole viene nascosta ai
        lettori di schermo e ai parser (vedi ticker-a11y.html). */}}
+  {{ $c = partial "immagini-hero.html" (dict "c" $c "p" .) }}
   {{ partial "ticker-a11y.html" $c | safeHTML }}
   {{/* Le guide pratiche si collegano fra loro da sole (vedi guide-cucciolo.html). */}}
   {{ partial "guide-cucciolo.html" (dict "pagina" . "gruppo" "auto") }}
@@ -57,6 +58,7 @@
   {{- $testo = partial "inbreve.html" (dict "p" . "c" $testo) -}}
   {{- $testo = replace $testo "<!--CORRELATI-->" (partial "correlati.html" .) -}}
   {{- $testo = replace $testo "<!--RECENTI-->" (partial "recenti.html" .) -}}
+  {{- $testo = partial "immagini-hero.html" (dict "c" $testo "p" .) -}}
   {{- $testo = partial "ticker-a11y.html" $testo -}}
   {{- $corpo := $testo | safeHTML -}}
   {{ if $haTestata }}

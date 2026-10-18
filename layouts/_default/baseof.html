@@ -36,7 +36,12 @@
        cosi' preload e immagine mostrata non divergono mai. */}}
   {{ if or .IsHome .Params.hero_image }}
   {{ $heroLcp := .Params.hero_image | default (partial "hero-corrente.html" .) }}
-  <link rel="preload" as="image" href="{{ $heroLcp }}" type="image/{{ if strings.HasSuffix $heroLcp ".webp" }}webp{{ else if strings.HasSuffix $heroLcp ".jpg" }}jpeg{{ else }}avif{{ end }}" fetchpriority="high">
+  {{- $pre := "" -}}
+  {{- $heroLcp = string $heroLcp -}}{{- with index site.Data.varianti $heroLcp -}}{{- $ext := path.Ext $heroLcp -}}{{- $base := strings.TrimSuffix $ext $heroLcp -}}
+  {{- $vh := cond (or $.Params.notte (and $.IsPage (eq $.Section "diario-allevamento"))) 62 42 -}}
+  {{- $pre = printf ` imagesrcset="%s-480w%s 480w, %s-640w%s 640w, %s %dw" imagesizes="(max-width: 767px) min(100vw, calc(%dvh * %.3f)), 50vw"` $base $ext $base $ext $heroLcp (int .w) $vh (div (float .w) (float .h)) -}}
+  {{- end }}
+  <link rel="preload" as="image" href="{{ $heroLcp }}"{{ $pre | safeHTMLAttr }} type="image/{{ if strings.HasSuffix $heroLcp ".webp" }}webp{{ else if strings.HasSuffix $heroLcp ".jpg" }}jpeg{{ else }}avif{{ end }}" fetchpriority="high">
   {{ end }}
 
   {{/* Favicons - Google richiede minimo 48x48 per i risultati di ricerca */}}
