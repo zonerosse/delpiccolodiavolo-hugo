@@ -2,7 +2,7 @@
 title: "Puppies: managing alone time"
 date: 2025-07-08
 titleSeo: "Teaching a puppy to stay alone without stress"
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "solitudine"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -48,7 +48,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>The Staffordshire Bull Terrier was selected to want human company, and that makes being alone something a puppy has to be taught deliberately. It starts in the first week, with 30 seconds behind a closed door, then one minute, three, ten, twenty, forty, leaving and coming back without ceremony. A puppy of two to three months should not be alone for more than one or two hours, and by six months three to four; an adult that has been walked and has something to do can manage four to six hours. A routine of eight hours a day alone is not compatible with this breed. The warning sign is not mess but panic: continuous vocalising, salivation, destruction focused on doors and windows. That is separation distress, and it calls for a behaviourist, never for punishment. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>The Staffordshire Bull Terrier was selected to want human company, and that makes being alone something a puppy has to be taught deliberately. It starts in the first week, with 30 seconds behind a closed door, then one minute, three, ten, twenty, forty, leaving and coming back without ceremony. A puppy of two to three months should not be alone for more than one or two hours, and by six months three to four; an adult that has been walked and has something to do can manage four to six hours. A routine of eight hours a day alone is not compatible with this breed. The warning sign is not mess but panic: continuous vocalising, salivation, destruction focused on doors and windows. That is separation distress, and it calls for a behaviourist, never for punishment. A guide by Del Piccolo Diavolo, a <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Staffy breeder</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
 
 

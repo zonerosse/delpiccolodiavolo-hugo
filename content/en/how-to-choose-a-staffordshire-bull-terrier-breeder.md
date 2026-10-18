@@ -93,7 +93,7 @@ lastmod: 2026-10-18
 
 <p><strong>How to verify.</strong> Ask to see her in the house, not in photographs, and watch how she reacts to the breeder. If the mother "is at the vet" or "is staying with a friend", the visit loses most of its point. Refuse motorway handovers and shipping: those are the methods of trade, not of breeding.</p>
 
-<p><strong>Ours.</strong> The Del Piccolo Diavolo kennel receives visitors by appointment in Ostellato, in the province of Ferrara. You see the mothers, the puppies and the house they grow up in.</p>
+<p><strong>Ours.</strong> The Del Piccolo Diavolo kennel receives visitors by appointment in Ostellato, in the province of Ferrara. You see the mothers, the <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">puppies</a> and the house they grow up in.</p>
 
 <h2>6. What happens to the mother afterwards</h2>
 

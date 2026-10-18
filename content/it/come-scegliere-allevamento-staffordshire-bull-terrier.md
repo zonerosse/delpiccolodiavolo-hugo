@@ -93,7 +93,7 @@ lastmod: 2026-10-18
 
 <p><strong>Come si verifica lo stato della madre.</strong> Chiedi di vederla in casa, non in foto, e osserva come reagisce all'allevatore. Se la madre "è dal veterinario" o "è a casa di un'amica", la visita perde gran parte del suo senso. Rifiuta la consegna in autogrill e la spedizione: sono modalità da commercio, non da allevamento.</p>
 
-<p><strong>Il nostro.</strong> L'allevamento Del Piccolo Diavolo riceve su appuntamento a Ostellato, in provincia di Ferrara. Si vedono le madri, i cuccioli e la casa in cui crescono.</p>
+<p><strong>Il nostro.</strong> L'allevamento Del Piccolo Diavolo riceve su appuntamento a Ostellato, in provincia di Ferrara. Si vedono le madri, i <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli</a> e la casa in cui crescono.</p>
 
 <h2>6. Cosa succede alla madre, dopo</h2>
 

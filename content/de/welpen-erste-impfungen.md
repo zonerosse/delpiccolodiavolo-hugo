@@ -2,7 +2,7 @@
 title: "Welpen: Erste Impfungen"
 date: 2025-06-10
 titleSeo: "Erste Impfungen des Welpen: Plan und Auffrischung"
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/salute.webp"
@@ -41,7 +41,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>Das Impfprotokoll, dem wir bei unseren Staffordshire Bull Terrier Welpen folgen, ist einfach: der erste Kombinationsimpfstoff mit 6 bis 8 Wochen, noch in der Zucht, eine zweite Dosis mit drei Monaten, dann die Auffrischung ein Jahr später, sofern der eigene Tierarzt nichts anderes rät. Manche Tierärzte geben lieber eine weitere Dosis um die 16. Woche: dann folgt man dem Tierarzt, der die Gegend und den Hund kennt. Der Schutz setzt ein bis zwei Wochen nach der letzten Spritze ein, nicht im Moment der Injektion. Die Dosen liegen auseinander, weil mütterliche Antikörper den Welpen anfangs schützen, den Impfstoff aber stören. Die Tollwutimpfung ist ab 12 Wochen möglich, für Reisen ins Ausland Pflicht und gilt erst 21 Tage später. Bis der Welpe geschützt ist, meidet man Orte mit hohem Risiko, aber nicht die Sozialisierung. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
+  <p>Das Impfprotokoll, dem wir bei unseren Staffordshire Bull Terrier Welpen folgen, ist einfach: der erste Kombinationsimpfstoff mit 6 bis 8 Wochen, noch in der Zucht, eine zweite Dosis mit drei Monaten, dann die Auffrischung ein Jahr später, sofern der eigene Tierarzt nichts anderes rät. Manche Tierärzte geben lieber eine weitere Dosis um die 16. Woche: dann folgt man dem Tierarzt, der die Gegend und den Hund kennt. Der Schutz setzt ein bis zwei Wochen nach der letzten Spritze ein, nicht im Moment der Injektion. Die Dosen liegen auseinander, weil mütterliche Antikörper den Welpen anfangs schützen, den Impfstoff aber stören. Die Tollwutimpfung ist ab 12 Wochen möglich, für Reisen ins Ausland Pflicht und gilt erst 21 Tage später. Bis der Welpe geschützt ist, meidet man Orte mit hohem Risiko, aber nicht die Sozialisierung. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Staffordshire Bull Terrier Zucht</a> Del Piccolo Diavolo, seit 2013 in Ostellato (Ferrara, Italien).</p>
 
 
 

@@ -2,7 +2,7 @@
 title: "\"Already socialised puppies\": what it really means"
 titleSeo: "Socialised puppies: what it really means"
 date: 2026-09-26
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "socializzazione-affido"
 in_breve:
   - "\"Socialised puppies\" **means nothing** until someone says with what."
@@ -44,7 +44,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>&ldquo;Socialised puppies&rdquo; turns up in almost every advert. Like &ldquo;parents on site&rdquo;, it means nothing until somebody says <strong>with what</strong>. The period when a dog learns what is normal runs from the third to the twelfth week of life. A Staffordshire Bull Terrier puppy leaves the kennel at 60 to 70 days, as Italian law and good practice allow. By then five or six of those ten weeks are gone, and the more important half of the work will be done by the family. A serious breeder tells you what they did, but also what they could not do. Usually that means traffic, children if there are none at the kennel, other species and being left alone, because among its littermates a puppy is never on its own. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>&ldquo;Socialised puppies&rdquo; turns up in almost every advert. Like &ldquo;parents on site&rdquo;, it means nothing until somebody says <strong>with what</strong>. The period when a dog learns what is normal runs from the third to the twelfth week of life. A Staffordshire Bull Terrier puppy leaves the kennel at 60 to 70 days, as Italian law and good practice allow. By then five or six of those ten weeks are gone, and the more important half of the work will be done by the family. A serious breeder tells you what they did, but also what they could not do. Usually that means traffic, children if there are none at the kennel, other species and being left alone, because among its littermates a puppy is never on its own. A guide by Del Piccolo Diavolo, a <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Staffordshire Bull Terrier breeder</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
   <!--BLOCCO:2-->
   <h2>The window: what ethology says</h2>

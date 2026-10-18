@@ -1,6 +1,6 @@
 ---
 title: "Das Wesen des Staffordshire Bull Terrier: woher es kommt"
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 titleSeo: "Wesen des Staffy: wie es selektiert wurde"
 articolo: true
 translationKey: "carattere"
@@ -58,7 +58,7 @@ correlati:
 
 <section class="section">
 <div class="section-inner content-single">
-<p>Das Wesen des Staffordshire Bull Terrier ist kein Zufall: Es ist das Ergebnis gezielter Selektion und <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor und Frühstimulation: was die Forschung sagt">der ersten Lebenswochen</a>. Der Rassestandard beschreibt einen <strong>mutigen, zähen und gegenüber Menschen zuverlässigen</strong> Hund, und bei diesem letzten Punkt wiegt die Auswahl der Zuchttiere mehr als jede spätere Erziehung. Nachfragen sollte man bei etwas anderem: Als Terrier kann er gegenüber Artgenossen reaktiv sein, vor allem zwischen erwachsenen Hunden gleichen Geschlechts, und <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das wirklich heißt">frühe Sozialisierung</a> verringert das, beseitigt es aber nicht. Das Wesen beurteilt man an den Eltern und Wurfgeschwistern, nicht an einem einzelnen Welpen mit drei Wochen. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
+<p>Das Wesen des Staffordshire Bull Terrier ist kein Zufall: Es ist das Ergebnis gezielter Selektion und <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor und Frühstimulation: was die Forschung sagt">der ersten Lebenswochen</a>. Der Rassestandard beschreibt einen <strong>mutigen, zähen und gegenüber Menschen zuverlässigen</strong> Hund, und bei diesem letzten Punkt wiegt die Auswahl der Zuchttiere mehr als jede spätere Erziehung. Nachfragen sollte man bei etwas anderem: Als Terrier kann er gegenüber Artgenossen reaktiv sein, vor allem zwischen erwachsenen Hunden gleichen Geschlechts, und <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das wirklich heißt">frühe Sozialisierung</a> verringert das, beseitigt es aber nicht. Das Wesen beurteilt man an den Eltern und Wurfgeschwistern, nicht an einem einzelnen Welpen mit drei Wochen. Ein Ratgeber von Del Piccolo Diavolo, <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Staffordshire Bull Terrier Züchter</a> in Ostellato (Ferrara, Italien) seit dem Jahr 2013.</p>
 
 <h2>Ein Wesen, das gebaut wurde, nicht zufällig entstand</h2>
 

@@ -2,7 +2,7 @@
 title: "Puppies: potty training"
 date: 2025-05-22
 titleSeo: "Puppy potty training: method, timing and setbacks"
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "bisogni"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -48,7 +48,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>House training a Staffordshire Bull Terrier puppy depends on physical development, not intelligence, so it cannot be rushed. A puppy of two months, while awake, cannot hold its bladder for more than one or two hours; a useful rule of thumb, mostly for when it sleeps, is about one hour per month of age plus one. Take it out at the predictable moments, after waking, after eating, after play and before sleep, and reward it outside, straight after it has finished. Never punish accidents: the puppy does not connect your reaction with something it did minutes earlier, it learns that going in front of you is dangerous and starts hiding behind the sofa instead. Clean with an enzymatic cleaner, never with ammonia. Most puppies are reliable by day at four months and dry overnight between four and six. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>House training a Staffordshire Bull Terrier puppy depends on physical development, not intelligence, so it cannot be rushed. A puppy of two months, while awake, cannot hold its bladder for more than one or two hours; a useful rule of thumb, mostly for when it sleeps, is about one hour per month of age plus one. Take it out at the predictable moments, after waking, after eating, after play and before sleep, and reward it outside, straight after it has finished. Never punish accidents: the puppy does not connect your reaction with something it did minutes earlier, it learns that going in front of you is dangerous and starts hiding behind the sofa instead. Clean with an enzymatic cleaner, never with ammonia. Most puppies are reliable by day at four months and dry overnight between four and six. A guide by Del Piccolo Diavolo, a <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Staffy breeder</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
 
 

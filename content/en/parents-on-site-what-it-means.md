@@ -2,7 +2,7 @@
 title: "\"Parents on site\": what it really means"
 titleSeo: "\"Parents on site\": what it really means"
 date: 2026-09-26
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "genitori-visibili"
 articolo: true
 image: "/images/blog/genitori-visibili-hero.webp"
@@ -40,7 +40,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>&ldquo;Both parents on site&rdquo; is one of the most common phrases in Staffordshire Bull Terrier puppy adverts, and it sounds like a guarantee of good practice. Taken literally, though, it describes something different from what it seems to promise: the dam is always there, because the puppies were born there, while the sire often is not, and not out of secrecy. A breeding programme that looks ahead searches for the stud dog elsewhere, often abroad, because the dogs that meet the requirements of health testing, inbreeding coefficient and structural compatibility are few and far between. A stud living a thousand kilometres away, however, can be checked far more thoroughly than one seen for two minutes in a yard. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>&ldquo;Both parents on site&rdquo; is one of the most common phrases in Staffordshire Bull Terrier puppy adverts, and it sounds like a guarantee of good practice. Taken literally, though, it describes something different from what it seems to promise: the dam is always there, because the puppies were born there, while the sire often is not, and not out of secrecy. A breeding programme that looks ahead searches for the stud dog elsewhere, often abroad, because the dogs that meet the requirements of health testing, inbreeding coefficient and structural compatibility are few and far between. A stud living a thousand kilometres away, however, can be checked far more thoroughly than one seen for two minutes in a yard. A guide by Del Piccolo Diavolo, a <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Staffordshire Bull Terrier breeder</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
   <!--BLOCCO:2-->
   <h2>What it should say is &ldquo;dam on site&rdquo;</h2>

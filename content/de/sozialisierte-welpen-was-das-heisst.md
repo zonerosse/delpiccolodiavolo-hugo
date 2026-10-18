@@ -2,7 +2,7 @@
 title: "\"Bereits sozialisierte Welpen\": was das heißt"
 titleSeo: "Sozialisierte Welpen: was das wirklich heißt"
 date: 2026-09-26
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "socializzazione-affido"
 in_breve:
   - "„Sozialisierte Welpen“ **heißt gar nichts**, solange niemand sagt, womit."
@@ -44,7 +44,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>&bdquo;Sozialisierte Welpen&ldquo; steht in fast jeder Anzeige. Wie &bdquo;Eltern vor Ort&ldquo; bedeutet es nichts, solange niemand sagt <strong>womit</strong>. Die Zeit, in der ein Hund lernt, was normal ist, reicht von der dritten bis zur zwölften Lebenswoche. Ein Staffordshire Bull Terrier Welpe verlässt die Zucht mit 60 bis 70 Tagen. Dann sind fünf oder sechs dieser zehn Wochen schon vorbei, und die wichtigere Hälfte der Arbeit übernimmt die Familie. Eine seriöse Zucht sagt, was sie getan hat, aber auch, was sie <strong>nicht</strong> tun konnte. Meist sind das Verkehr, Kinder, wenn keine da sind, andere Tierarten und das Alleinbleiben. Denn unter seinen Geschwistern ist ein Welpe nie allein, auch nicht in einer guten Zucht. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
+  <p>&bdquo;Sozialisierte Welpen&ldquo; steht in fast jeder Anzeige. Wie &bdquo;Eltern vor Ort&ldquo; bedeutet es nichts, solange niemand sagt <strong>womit</strong>. Die Zeit, in der ein Hund lernt, was normal ist, reicht von der dritten bis zur zwölften Lebenswoche. Ein Staffordshire Bull Terrier Welpe verlässt die Zucht mit 60 bis 70 Tagen. Dann sind fünf oder sechs dieser zehn Wochen schon vorbei, und die wichtigere Hälfte der Arbeit übernimmt die Familie. Eine seriöse Zucht sagt, was sie getan hat, aber auch, was sie <strong>nicht</strong> tun konnte. Meist sind das Verkehr, Kinder, wenn keine da sind, andere Tierarten und das Alleinbleiben. Denn unter seinen Geschwistern ist ein Welpe nie allein, auch nicht in einer guten Zucht. Ein Ratgeber von Del Piccolo Diavolo, <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Staffordshire Bull Terrier Züchter</a> in Ostellato (Ferrara, Italien) seit dem Jahr 2013.</p>
 
   <!--BLOCCO:2-->
   <h2>Die Phase: was die Verhaltensforschung sagt</h2>

@@ -1,7 +1,7 @@
 ---
 title: "Staffy con altri animali: guida convivenza"
 date: 2024-06-18
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "altri-animali"
 in_breve:
   - "Lo Staffy è un terrier: la **reattività verso altri cani** esiste, soprattutto fra adulti dello stesso sesso. La socializzazione la riduce, non la cancella."
@@ -51,7 +51,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>Lo Staffordshire Bull Terrier è un terrier, e la reattività verso gli altri cani esiste, soprattutto fra soggetti dello stesso sesso in età adulta. La socializzazione la riduce, non la cancella: un cane che sta bene al parco può rifiutare un coinquilino, perché in casa l'altro non se ne va più. Per questo la convivenza con altri cani, gatti o piccoli animali si prepara prima di cominciare. Si valuta onestamente il proprio cane, si organizza la casa con spazi separati e barriere, si fanno le presentazioni per gradi e si gestiscono ciotole, giochi e cucce, che sono il punto da cui nasce la maggior parte dei conflitti. Con un gatto servono settimane, non giorni. Con conigli, roditori e uccelli la supervisione non si allenta mai, anche quando il cane sembra indifferente. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
+  <p>Lo Staffordshire Bull Terrier è un terrier, e la reattività verso gli altri cani esiste, soprattutto fra soggetti dello stesso sesso in età adulta. La socializzazione la riduce, non la cancella: un cane che sta bene al parco può rifiutare un coinquilino, perché in casa l'altro non se ne va più. Per questo la convivenza con altri cani, gatti o piccoli animali si prepara prima di cominciare. Si valuta onestamente il proprio cane, si organizza la casa con spazi separati e barriere, si fanno le presentazioni per gradi e si gestiscono ciotole, giochi e cucce, che sono il punto da cui nasce la maggior parte dei conflitti. Con un gatto servono settimane, non giorni. Con conigli, roditori e uccelli la supervisione non si allenta mai, anche quando il cane sembra indifferente. Guida a cura di Del Piccolo Diavolo, <a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento di Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
   <!--BLOCCO:2-->
   <h2>Le tendenze della razza: cosa vuol dire davvero l'eredità da terrier</h2>

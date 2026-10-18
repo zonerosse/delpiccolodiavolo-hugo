@@ -2,7 +2,7 @@
 title: "Cuccioli: prime vaccinazioni"
 date: 2025-06-10
 titleSeo: "Prime vaccinazioni del cucciolo: calendario e richiami"
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/cuccioli-2.webp"
@@ -48,7 +48,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>Il protocollo vaccinale che seguiamo per i cuccioli di Staffordshire Bull Terrier è semplice: la prima polivalente fra le sei e le otto settimane, ancora in allevamento, una seconda dose a tre mesi, poi il richiamo dopo un anno, salvo diverso parere del veterinario di fiducia. Alcuni veterinari preferiscono aggiungere una dose verso le sedici settimane: in quel caso si segue il veterinario, che conosce la zona e il cane. La protezione arriva una o due settimane dopo l'ultima iniezione, non nel momento dell'ago. Le dosi sono distanziate perché gli anticorpi materni proteggono il cucciolo nelle prime settimane ma interferiscono con il vaccino. L'antirabbica si somministra non prima delle dodici settimane, è obbligatoria per portare il cane all'estero e diventa valida solo ventun giorni dopo. Fino alla protezione si evitano le aree ad alto rischio, <strong>ma non la socializzazione</strong>. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
+  <p>Il protocollo vaccinale che seguiamo per i cuccioli di Staffordshire Bull Terrier è semplice: la prima polivalente fra le sei e le otto settimane, ancora in allevamento, una seconda dose a tre mesi, poi il richiamo dopo un anno, salvo diverso parere del veterinario di fiducia. Alcuni veterinari preferiscono aggiungere una dose verso le sedici settimane: in quel caso si segue il veterinario, che conosce la zona e il cane. La protezione arriva una o due settimane dopo l'ultima iniezione, non nel momento dell'ago. Le dosi sono distanziate perché gli anticorpi materni proteggono il cucciolo nelle prime settimane ma interferiscono con il vaccino. L'antirabbica si somministra non prima delle dodici settimane, è obbligatoria per portare il cane all'estero e diventa valida solo ventun giorni dopo. Fino alla protezione si evitano le aree ad alto rischio, <strong>ma non la socializzazione</strong>. Guida a cura di Del Piccolo Diavolo, <a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento di Staffy</a> a Ostellato (FE) dal 2013.</p>
 
   <!--BLOCCO:2-->
   <h2>Cosa proteggono davvero i vaccini</h2>

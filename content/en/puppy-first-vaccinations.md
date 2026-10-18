@@ -2,7 +2,7 @@
 title: "Puppies: first vaccinations"
 date: 2025-06-10
 titleSeo: "Puppy first vaccinations: schedule and boosters"
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/salute.webp"
@@ -48,7 +48,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>The vaccination protocol we follow for Staffordshire Bull Terrier puppies is simple: the first combined vaccine at 6 to 8 weeks, still at the breeder's, a second dose at three months, then a booster one year later, unless your own veterinarian advises otherwise. Some vets prefer to add a dose at around 16 weeks: in that case, follow the vet, who knows the area and the dog. Protection comes one to two weeks after the last injection, not at the moment of the needle. The doses are spaced because maternal antibodies protect the puppy early on but interfere with the vaccine. Rabies vaccination can be given from 12 weeks, is compulsory for travel abroad and becomes valid only 21 days later. Until the puppy is protected, avoid high-risk places, but do not stop socialisation. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>The vaccination protocol we follow for Staffordshire Bull Terrier puppies is simple: the first combined vaccine at 6 to 8 weeks, still at the breeder's, a second dose at three months, then a booster one year later, unless your own veterinarian advises otherwise. Some vets prefer to add a dose at around 16 weeks: in that case, follow the vet, who knows the area and the dog. Protection comes one to two weeks after the last injection, not at the moment of the needle. The doses are spaced because maternal antibodies protect the puppy early on but interfere with the vaccine. Rabies vaccination can be given from 12 weeks, is compulsory for travel abroad and becomes valid only 21 days later. Until the puppy is protected, avoid high-risk places, but do not stop socialisation. A guide by Del Piccolo Diavolo, a <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Staffy breeder</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
 
 

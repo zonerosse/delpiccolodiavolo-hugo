@@ -2,7 +2,7 @@
 title: "Puppies: mental games"
 date: 2025-08-03
 titleSeo: "Mental games for Staffordshire Bull Terrier puppies"
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "giochi-mentali"
 articolo: true
 image: "/images/blog/cuccioli-3.webp"
@@ -48,7 +48,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>Mental work tires a Staffordshire Bull Terrier puppy more than physical exercise does, and without any load on growing joints. Ten to fifteen minutes of games for the head tire a puppy more than a long walk, which matters in a breed limited to about five minutes of walking per month of age until the growth plates close. The simplest change costs nothing: stop feeding from a bowl and use the daily ration for sniffing games, food puzzles and short training sessions. Nose work is the most valuable activity of all. A puppy that learns to try, fail and try again builds persistence and frustration tolerance; a bored one spends its energy on skirting boards and shoes. Avoid anything hard enough to break a tooth, and repetitive ball throwing that only winds the puppy up. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>Mental work tires a Staffordshire Bull Terrier puppy more than physical exercise does, and without any load on growing joints. Ten to fifteen minutes of games for the head tire a puppy more than a long walk, which matters in a breed limited to about five minutes of walking per month of age until the growth plates close. The simplest change costs nothing: stop feeding from a bowl and use the daily ration for sniffing games, food puzzles and short training sessions. Nose work is the most valuable activity of all. A puppy that learns to try, fail and try again builds persistence and frustration tolerance; a bored one spends its energy on skirting boards and shoes. Avoid anything hard enough to break a tooth, and repetitive ball throwing that only winds the puppy up. A guide by Del Piccolo Diavolo, a <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Staffy breeder</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Il temperamento dello Staffordshire Bull Terrier: come nasce"
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 titleSeo: "Temperamento dello Staffy: come è stato selezionato"
 articolo: true
 translationKey: "carattere"
@@ -58,7 +58,7 @@ correlati:
 
 <section class="section">
 <div class="section-inner content-single">
-<p>Il temperamento dello Staffordshire Bull Terrier non è un caso: è il risultato di una selezione precisa e delle <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor e stimolazione precoce">prime settimane di vita</a>. Lo standard di razza descrive un cane <strong>coraggioso, tenace e affidabile con le persone</strong>, e su quest'ultimo punto la selezione dei riproduttori pesa più di qualsiasi addestramento successivo. La componente su cui vale la pena informarsi è un'altra: essendo un terrier, può mostrare reattività verso i propri simili, soprattutto fra cani dello stesso sesso in età adulta, e la socializzazione precoce la riduce ma non la cancella. Un carattere si valuta guardando i genitori e i fratelli di cucciolata, non il singolo cucciolo a tre settimane. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
+<p>Il temperamento dello Staffordshire Bull Terrier non è un caso: è il risultato di una selezione precisa e delle <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor e stimolazione precoce">prime settimane di vita</a>. Lo standard di razza descrive un cane <strong>coraggioso, tenace e affidabile con le persone</strong>, e su quest'ultimo punto la selezione dei riproduttori pesa più di qualsiasi addestramento successivo. La componente su cui vale la pena informarsi è un'altra: essendo un terrier, può mostrare reattività verso i propri simili, soprattutto fra cani dello stesso sesso in età adulta, e la socializzazione precoce la riduce ma non la cancella. Un carattere si valuta guardando i genitori e i fratelli di cucciolata, non il singolo cucciolo a tre settimane. Guida a cura di Del Piccolo Diavolo, <a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento di Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
 <h2>Un carattere costruito, non ereditato per caso</h2>
 

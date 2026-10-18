@@ -2,7 +2,7 @@
 title: "\"Eltern vor Ort\": was das wirklich bedeutet"
 titleSeo: "\"Eltern vor Ort\": was das wirklich bedeutet"
 date: 2026-09-26
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "genitori-visibili"
 articolo: true
 image: "/images/blog/genitori-visibili-hero.webp"
@@ -40,7 +40,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>&bdquo;Beide Elterntiere vor Ort&ldquo; gehört zu den häufigsten Formulierungen in Welpenanzeigen für den Staffordshire Bull Terrier, und sie klingt nach einer Garantie für Seriosität. Wörtlich genommen beschreibt sie jedoch etwas anderes, als sie zu versprechen scheint: die Mutter ist immer da, weil die Welpen dort geboren wurden, der Vater oft nicht, und das nicht aus Verschwiegenheit. Ein Zuchtprogramm, das nach vorn denkt, sucht den Deckrüden auswärts, oft im Ausland, weil die Hunde, die den Anforderungen an Gentests, Inzuchtkoeffizient und strukturelle Passung genügen, selten und weit entfernt sind. Ein Rüde tausend Kilometer entfernt lässt sich allerdings gründlicher prüfen als einer, den man zwei Minuten lang im Hof gesehen hat, denn von ihm gibt es Tests, Ahnentafel und Nachkommen. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
+  <p>&bdquo;Beide Elterntiere vor Ort&ldquo; gehört zu den häufigsten Formulierungen in Welpenanzeigen für den Staffordshire Bull Terrier, und sie klingt nach einer Garantie für Seriosität. Wörtlich genommen beschreibt sie jedoch etwas anderes, als sie zu versprechen scheint: die Mutter ist immer da, weil die Welpen dort geboren wurden, der Vater oft nicht, und das nicht aus Verschwiegenheit. Ein Zuchtprogramm, das nach vorn denkt, sucht den Deckrüden auswärts, oft im Ausland, weil die Hunde, die den Anforderungen an Gentests, Inzuchtkoeffizient und strukturelle Passung genügen, selten und weit entfernt sind. Ein Rüde tausend Kilometer entfernt lässt sich allerdings gründlicher prüfen als einer, den man zwei Minuten lang im Hof gesehen hat, denn von ihm gibt es Tests, Ahnentafel und Nachkommen. Ein Ratgeber von Del Piccolo Diavolo, <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Staffordshire Bull Terrier Züchter</a> in Ostellato (Ferrara, Italien) seit dem Jahr 2013.</p>
 
   <!--BLOCCO:2-->
   <h2>Richtig hieße es &bdquo;Mutter vor Ort&ldquo;</h2>

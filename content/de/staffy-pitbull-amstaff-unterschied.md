@@ -1,7 +1,7 @@
 ---
 title: "Unterschied zwischen Staffordshire Bull Terrier, Pitbull und Amstaff"
 date: 2025-11-19
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 titleSeo: "Staffordshire Bull Terrier, Pitbull und Amstaff im Vergleich"
 translationKey: "pitbull-amstaff"
 in_breve:
@@ -44,7 +44,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>Staffordshire Bull Terrier, American Staffordshire Terrier und American Pit Bull Terrier stammen vom selben Schlag ab, den Bull and Terriers des England im 19. Jahrhundert, sind heute aber drei verschiedene Rassen. Der Staffordshire Bull Terrier ist der kleinste, mit höchstens 17 kg, und von der FCI mit dem Standard Nr. 76 anerkannt. Der American Staffordshire Terrier ist größer und schwerer, bis 32 kg bei Rüden, und von der FCI mit dem Standard Nr. 286 anerkannt. Der American Pit Bull Terrier, dessen Gewicht stark zwischen 15 und 27 kg schwankt, wird von den amerikanischen Registern UKC und ADBA geführt, aber nicht von der FCI: Deshalb kann der ENCI in Italien für ihn keine Ahnentafel ausstellen, und einen „Pit Bull“ mit ENCI-Ahnentafel gibt es nicht. Keine der drei Rassen ist in Italien verboten. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
+  <p>Staffordshire Bull Terrier, American Staffordshire Terrier und American Pit Bull Terrier stammen vom selben Schlag ab, den Bull and Terriers des England im 19. Jahrhundert, sind heute aber drei verschiedene Rassen. Der Staffordshire Bull Terrier ist der kleinste, mit höchstens 17 kg, und von der FCI mit dem Standard Nr. 76 anerkannt. Der American Staffordshire Terrier ist größer und schwerer, bis 32 kg bei Rüden, und von der FCI mit dem Standard Nr. 286 anerkannt. Der American Pit Bull Terrier, dessen Gewicht stark zwischen 15 und 27 kg schwankt, wird von den amerikanischen Registern UKC und ADBA geführt, aber nicht von der FCI: Deshalb kann der ENCI in Italien für ihn keine Ahnentafel ausstellen, und einen „Pit Bull“ mit ENCI-Ahnentafel gibt es nicht. Keine der drei Rassen ist in Italien verboten. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Staffordshire Bull Terrier Zucht</a> Del Piccolo Diavolo, seit 2013 in Ostellato (Ferrara, Italien).</p>
 
 
   <!--BLOCCO:2-->

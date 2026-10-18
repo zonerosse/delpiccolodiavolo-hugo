@@ -2,7 +2,7 @@
 title: "Welpen: Allein Bleiben Lernen"
 date: 2025-07-08
 titleSeo: "Welpen lernen allein zu bleiben, ohne Stress"
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "solitudine"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -48,7 +48,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>Der Staffordshire Bull Terrier wurde auf die Nähe zum Menschen selektiert, und deshalb muss ein Welpe das Alleinbleiben bewusst lernen. Man beginnt in der ersten Woche mit 30 Sekunden hinter einer geschlossenen Tür, dann eine Minute, drei, zehn, zwanzig, vierzig, und geht und kommt ohne großes Aufheben. Ein Welpe von zwei bis drei Monaten sollte nicht länger als ein bis zwei Stunden allein sein, mit sechs Monaten drei bis vier; ein erwachsener Hund, der vorher draußen war und etwas zu tun hat, schafft vier bis sechs Stunden. Acht Stunden täglich allein sind mit dieser Rasse nicht vereinbar. Das Warnsignal ist nicht Unordnung, sondern Panik: ununterbrochenes Bellen, Speicheln, Zerstörung an Türen und Fenstern. Das ist Trennungsstress, und er braucht eine Verhaltensfachperson, niemals Strafe. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
+  <p>Der Staffordshire Bull Terrier wurde auf die Nähe zum Menschen selektiert, und deshalb muss ein Welpe das Alleinbleiben bewusst lernen. Man beginnt in der ersten Woche mit 30 Sekunden hinter einer geschlossenen Tür, dann eine Minute, drei, zehn, zwanzig, vierzig, und geht und kommt ohne großes Aufheben. Ein Welpe von zwei bis drei Monaten sollte nicht länger als ein bis zwei Stunden allein sein, mit sechs Monaten drei bis vier; ein erwachsener Hund, der vorher draußen war und etwas zu tun hat, schafft vier bis sechs Stunden. Acht Stunden täglich allein sind mit dieser Rasse nicht vereinbar. Das Warnsignal ist nicht Unordnung, sondern Panik: ununterbrochenes Bellen, Speicheln, Zerstörung an Türen und Fenstern. Das ist Trennungsstress, und er braucht eine Verhaltensfachperson, niemals Strafe. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Staffordshire Bull Terrier Zucht</a> Del Piccolo Diavolo, seit 2013 in Ostellato (Ferrara, Italien).</p>
 
 
 

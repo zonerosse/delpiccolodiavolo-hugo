@@ -93,7 +93,7 @@ lastmod: 2026-10-18
 
 <p><strong>Wie man es überprüft.</strong> Bitten Sie darum, sie im Haus zu sehen, nicht auf Fotos, und achten Sie darauf, wie sie auf den Züchter reagiert. Ist die Mutter "beim Tierarzt" oder "bei einer Freundin", verliert der Besuch das meiste von seinem Sinn. Lehnen Sie Übergaben an der Autobahn und den Versand ab: das sind Methoden des Handels, nicht der Zucht.</p>
 
-<p><strong>Unsere.</strong> Die Zucht Del Piccolo Diavolo empfängt nach Terminvereinbarung in Ostellato, Provinz Ferrara. Sie sehen die Mütter, die Welpen und das Haus, in dem sie aufwachsen.</p>
+<p><strong>Unsere.</strong> Die Zucht Del Piccolo Diavolo empfängt nach Terminvereinbarung in Ostellato, Provinz Ferrara. Sie sehen die Mütter, die <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Welpen</a> und das Haus, in dem sie aufwachsen.</p>
 
 <h2>6. Was danach mit der Mutter geschieht</h2>
 

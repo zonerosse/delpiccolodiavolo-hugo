@@ -2,7 +2,7 @@
 title: "Cuccioli: gestione della solitudine"
 date: 2025-07-08
 titleSeo: "Insegnare al cucciolo a restare solo, senza stress"
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "solitudine"
 articolo: true
 image: "/images/blog/neonati-2-hero.webp"
@@ -48,7 +48,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>Lo Staffordshire Bull Terrier è stato selezionato per volere la compagnia delle persone, quindi la solitudine va insegnata invece che data per scontata. Si comincia dalla prima settimana con <strong>assenze brevissime</strong> (trenta secondi dietro una porta chiusa, poi un minuto, tre, dieci, venti, quaranta), uscendo e rientrando senza cerimonie. Un cucciolo di due-tre mesi non dovrebbe restare solo più di una o due ore, a sei mesi tre o quattro; un adulto che ha fatto la sua passeggiata e ha qualcosa da fare arriva a quattro-sei. Una routine di otto ore al giorno da solo non è compatibile con questa razza. Il segnale che qualcosa non va non è il disordine ma il panico: vocalizzi continui, salivazione, distruzione concentrata su porte e finestre. In quel caso si tratta di ansia da separazione, che richiede un comportamentalista e mai una punizione. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
+  <p>Lo Staffordshire Bull Terrier è stato selezionato per volere la compagnia delle persone, quindi la solitudine va insegnata invece che data per scontata. Si comincia dalla prima settimana con <strong>assenze brevissime</strong> (trenta secondi dietro una porta chiusa, poi un minuto, tre, dieci, venti, quaranta), uscendo e rientrando senza cerimonie. Un cucciolo di due-tre mesi non dovrebbe restare solo più di una o due ore, a sei mesi tre o quattro; un adulto che ha fatto la sua passeggiata e ha qualcosa da fare arriva a quattro-sei. Una routine di otto ore al giorno da solo non è compatibile con questa razza. Il segnale che qualcosa non va non è il disordine ma il panico: vocalizzi continui, salivazione, distruzione concentrata su porte e finestre. In quel caso si tratta di ansia da separazione, che richiede un comportamentalista e mai una punizione. Guida a cura di Del Piccolo Diavolo, <a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento di Staffy</a> a Ostellato (FE) dal 2013.</p>
 
   <!--BLOCCO:2-->
   <h2>Perché in questa razza va insegnata apposta</h2>

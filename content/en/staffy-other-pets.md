@@ -2,7 +2,7 @@
 title: "Staffy and other pets"
 date: 2024-06-18
 titleSeo: "Staffordshire Bull Terrier with other pets at home"
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "altri-animali"
 in_breve:
   - "The Staffy is a terrier: **reactivity towards other dogs** is real, especially between adults of the same sex. Socialisation reduces it, it does not erase it."
@@ -44,7 +44,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>The Staffordshire Bull Terrier is a terrier, and reactivity towards other dogs exists, especially between individuals of the same sex once they reach social maturity, between 18 months and three years. Socialisation reduces it but does not remove it: a dog that is fine at the park may refuse a housemate, because at home the other dog never leaves. The breed also keeps a residual prey drive towards small, fast-moving animals. Living with another dog, a cat or small pets is therefore prepared before it starts: assess your own dog honestly, set up the house with separate spaces and barriers, introduce the animals step by step, and manage bowls, toys and beds, where most conflicts actually begin. With a cat it takes weeks, not days. With rabbits, rodents and birds, supervision never relaxes. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>The Staffordshire Bull Terrier is a terrier, and reactivity towards other dogs exists, especially between individuals of the same sex once they reach social maturity, between 18 months and three years. Socialisation reduces it but does not remove it: a dog that is fine at the park may refuse a housemate, because at home the other dog never leaves. The breed also keeps a residual prey drive towards small, fast-moving animals. Living with another dog, a cat or small pets is therefore prepared before it starts: assess your own dog honestly, set up the house with separate spaces and barriers, introduce the animals step by step, and manage bowls, toys and beds, where most conflicts actually begin. With a cat it takes weeks, not days. With rabbits, rodents and birds, supervision never relaxes. A guide by Del Piccolo Diavolo, a <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Staffordshire Bull Terrier breeder</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
 
 

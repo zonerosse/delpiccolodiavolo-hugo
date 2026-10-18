@@ -1,7 +1,7 @@
 ---
 title: "Parasite prevention for Staffordshire Bull Terrier"
 date: 2025-01-20
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "parassiti"
 in_breve:
   - "Parasites are prevented **before you see them**: once you notice fleas, the infestation is already in the house."
@@ -43,7 +43,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>Parasite control in the Staffordshire Bull Terrier is predictable and almost entirely effective, as long as the calendar is kept. The flea you see on the dog is only about 5 per cent of an infestation; the rest lives in the house as eggs, larvae and pupae. The breed's short coat makes fleas and ticks easy to spot, but its skin is prone to allergy, so flea allergy dermatitis is common. Ticks carry babesiosis, ehrlichiosis, anaplasmosis and Lyme disease; sand flies and mosquitoes carry leishmaniasis and heartworm. Puppies are born with roundworm from the dam and are wormed every two weeks from two weeks of age until two weeks after weaning, then monthly until six months. Adults are treated every three months, more often if they scavenge or live with small children, with a faecal examination to check the schedule. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>Parasite control in the Staffordshire Bull Terrier is predictable and almost entirely effective, as long as the calendar is kept. The flea you see on the dog is only about 5 per cent of an infestation; the rest lives in the house as eggs, larvae and pupae. The breed's short coat makes fleas and ticks easy to spot, but its skin is prone to allergy, so flea allergy dermatitis is common. Ticks carry babesiosis, ehrlichiosis, anaplasmosis and Lyme disease; sand flies and mosquitoes carry leishmaniasis and heartworm. Puppies are born with roundworm from the dam and are wormed every two weeks from two weeks of age until two weeks after weaning, then monthly until six months. Adults are treated every three months, more often if they scavenge or live with small children, with a faecal examination to check the schedule. A guide by Del Piccolo Diavolo, a <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Staffy breeder</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
 
 

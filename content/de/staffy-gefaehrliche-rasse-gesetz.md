@@ -1,7 +1,7 @@
 ---
 title: "Ist der Staffordshire Bull Terrier gefährlich? Gesetzeslage"
 date: 2025-11-18
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "pericoloso"
 in_breve:
   - "In Italien **gilt der Staffy nicht als gefährliche Rasse**: die Liste wurde 2009 abgeschafft."
@@ -43,7 +43,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>In Italien steht der Staffordshire Bull Terrier auf keiner Liste gefährlicher Rassen: Die Liste wurde 2009 mit einer Verordnung des Gesundheitsministeriums abgeschafft, die die Verantwortung von der Rasse auf den Halter verlagert hat. Landesweit ist keine Rasse verboten oder besonderen Pflichten unterworfen, und die Regeln gelten für jeden Hund: an öffentlichen Orten eine Leine von höchstens anderthalb Metern, ein Maulkorb, der mitgeführt und bei Bedarf angelegt wird, Mikrochip, Registrierung und die volle zivilrechtliche Haftung des Halters. Örtliche Regeln für Parks oder Strände, Mietverträge und manche Fluggesellschaften können strenger sein, und andere europäische Länder regeln es anders. Eine Studie des Royal Veterinary College von 2020 mit 1.304 Staffordshire Bull Terriern und 21.029 anderen Hunden fand keinen signifikanten Unterschied bei der Aggression. Den Ruf der Rasse machen ihre Halter, Hund für Hund. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
+  <p>In Italien steht der Staffordshire Bull Terrier auf keiner Liste gefährlicher Rassen: Die Liste wurde 2009 mit einer Verordnung des Gesundheitsministeriums abgeschafft, die die Verantwortung von der Rasse auf den Halter verlagert hat. Landesweit ist keine Rasse verboten oder besonderen Pflichten unterworfen, und die Regeln gelten für jeden Hund: an öffentlichen Orten eine Leine von höchstens anderthalb Metern, ein Maulkorb, der mitgeführt und bei Bedarf angelegt wird, Mikrochip, Registrierung und die volle zivilrechtliche Haftung des Halters. Örtliche Regeln für Parks oder Strände, Mietverträge und manche Fluggesellschaften können strenger sein, und andere europäische Länder regeln es anders. Eine Studie des Royal Veterinary College von 2020 mit 1.304 Staffordshire Bull Terriern und 21.029 anderen Hunden fand keinen signifikanten Unterschied bei der Aggression. Den Ruf der Rasse machen ihre Halter, Hund für Hund. Ein Ratgeber von Del Piccolo Diavolo, <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Staffordshire Bull Terrier Züchter</a> in Ostellato (Ferrara, Italien) seit dem Jahr 2013.</p>
 
 
 

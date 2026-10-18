@@ -1,6 +1,6 @@
 ---
 title: "The Staffordshire Bull Terrier temperament: where it comes from"
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 titleSeo: "Staffy temperament: how it was selected"
 articolo: true
 translationKey: "carattere"
@@ -58,7 +58,7 @@ correlati:
 
 <section class="section">
 <div class="section-inner content-single">
-<p>The temperament of the Staffordshire Bull Terrier is no accident: it is the result of deliberate selection and of <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor and early stimulation: what research says">the first weeks of life</a>. The breed standard describes a dog that is <strong>bold, tenacious and reliable with people</strong>, and on that last point the choice of breeding dogs weighs more than any later training. The trait worth asking about is a different one: as a terrier, it can be reactive towards other dogs, especially between adults of the same sex, and <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it really means">early socialisation</a> reduces this without removing it. Temperament is judged by looking at the parents and littermates, not at a single puppy at three weeks. A guide by the <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
+<p>The temperament of the Staffordshire Bull Terrier is no accident: it is the result of deliberate selection and of <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor and early stimulation: what research says">the first weeks of life</a>. The breed standard describes a dog that is <strong>bold, tenacious and reliable with people</strong>, and on that last point the choice of breeding dogs weighs more than any later training. The trait worth asking about is a different one: as a terrier, it can be reactive towards other dogs, especially between adults of the same sex, and <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it really means">early socialisation</a> reduces this without removing it. Temperament is judged by looking at the parents and littermates, not at a single puppy at three weeks. A guide by Del Piccolo Diavolo, a <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Staffordshire Bull Terrier breeder</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
 <h2>A character that was built, not inherited by chance</h2>
 

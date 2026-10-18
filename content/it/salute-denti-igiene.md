@@ -1,7 +1,7 @@
 ---
 title: "Igiene orale e denti Staffordshire Bull Terrier"
 date: 2024-06-18
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "denti"
 in_breve:
   - "La prevenzione comincia **da cucciolo**, abituandolo a farsi toccare la bocca."
@@ -51,7 +51,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>Nello Staffordshire Bull Terrier la prevenzione dentale comincia da cucciolo: abituarlo a farsi toccare la bocca fra le 8 e le 16 settimane rende l'adulto collaborativo. I 28 denti da latte lasciano il posto ai 42 definitivi verso i sei-sette mesi, e da lì la placca non rimossa diventa tartaro, poi gengivite e parodontite, con dolore e perdita dei denti. L'unica cosa che funziona davvero è la spazzolatura, da tre a sette volte a settimana, con un dentifricio enzimatico veterinario, mai quello per persone. La mandibola potente della razza rende pericolosi i masticativi troppo duri: se premendo con l'unghia l'oggetto non cede, è troppo duro, e la frattura del quarto premolare superiore è la diagnosi più comune. Controlli veterinari periodici e detartrasi quando serve completano la routine. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
+  <p>Nello Staffordshire Bull Terrier la prevenzione dentale comincia da cucciolo: abituarlo a farsi toccare la bocca fra le 8 e le 16 settimane rende l'adulto collaborativo. I 28 denti da latte lasciano il posto ai 42 definitivi verso i sei-sette mesi, e da lì la placca non rimossa diventa tartaro, poi gengivite e parodontite, con dolore e perdita dei denti. L'unica cosa che funziona davvero è la spazzolatura, da tre a sette volte a settimana, con un dentifricio enzimatico veterinario, mai quello per persone. La mandibola potente della razza rende pericolosi i masticativi troppo duri: se premendo con l'unghia l'oggetto non cede, è troppo duro, e la frattura del quarto premolare superiore è la diagnosi più comune. Controlli veterinari periodici e detartrasi quando serve completano la routine. Guida a cura di Del Piccolo Diavolo, <a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento di Staffy</a> a Ostellato (FE) dal 2013.</p>
 
   <!--BLOCCO:2-->
   <h2>Perché i denti contano più di quanto si pensi</h2>

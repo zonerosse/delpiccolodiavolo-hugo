@@ -2,7 +2,7 @@
 title: "Cuccioli già socializzati: cosa vuol dire davvero"
 titleSeo: "Cuccioli socializzati: cosa vuol dire davvero"
 date: 2026-09-26
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "socializzazione-affido"
 in_breve:
   - "«Cuccioli socializzati» **non vuol dire nulla** finché non si dice con cosa."
@@ -44,7 +44,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>&laquo;Cuccioli socializzati&raquo; si legge in quasi tutti gli annunci. Come &laquo;genitori visibili&raquo;, non vuol dire nulla finch&eacute; non si dice <strong>con cosa</strong>. Il periodo in cui un cane impara cosa &egrave; normale va dalla terza alla dodicesima settimana di vita. Un cucciolo di Staffordshire Bull Terrier lascia l'allevamento fra i 60 e i 70 giorni, e a quel punto ne ha passate in casa cinque o sei su dieci. La met&agrave; pi&ugrave; importante del lavoro la far&agrave; la sua famiglia. Un allevatore serio dice cosa ha fatto, ma anche cosa non ha potuto fare. Di solito sono il traffico, i bambini se in allevamento non ce ne sono, gli altri animali e lo stare da solo, perch&eacute; in mezzo ai fratelli un cucciolo solo non ci sta mai. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
+  <p>&laquo;Cuccioli socializzati&raquo; si legge in quasi tutti gli annunci. Come &laquo;genitori visibili&raquo;, non vuol dire nulla finch&eacute; non si dice <strong>con cosa</strong>. Il periodo in cui un cane impara cosa &egrave; normale va dalla terza alla dodicesima settimana di vita. Un cucciolo di Staffordshire Bull Terrier lascia l'allevamento fra i 60 e i 70 giorni, e a quel punto ne ha passate in casa cinque o sei su dieci. La met&agrave; pi&ugrave; importante del lavoro la far&agrave; la sua famiglia. Un allevatore serio dice cosa ha fatto, ma anche cosa non ha potuto fare. Di solito sono il traffico, i bambini se in allevamento non ce ne sono, gli altri animali e lo stare da solo, perch&eacute; in mezzo ai fratelli un cucciolo solo non ci sta mai. Guida a cura di Del Piccolo Diavolo, <a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento di Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
   <!--BLOCCO:2-->
   <h2>La finestra: cosa dice l'etologia</h2>

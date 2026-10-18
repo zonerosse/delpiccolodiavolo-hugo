@@ -1,7 +1,7 @@
 ---
 title: "Parasitenvorbeugung für Staffordshire Bull Terrier"
 date: 2025-01-20
-lastmod: 2026-10-17
+lastmod: 2026-10-18
 translationKey: "parassiti"
 in_breve:
   - "Parasiten beugt man vor, **bevor man sie sieht**: wenn man Flöhe bemerkt, ist der Befall schon im Haus."
@@ -43,7 +43,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>Parasitenvorbeugung beim Staffordshire Bull Terrier ist planbar und fast vollständig wirksam, solange der Kalender eingehalten wird. Der Floh, den man am Hund sieht, ist nur etwa 5 Prozent eines Befalls; der Rest lebt als Eier, Larven und Puppen in der Wohnung. Das kurze Fell der Rasse macht Flöhe und Zecken leicht erkennbar, doch ihre Haut neigt zu Allergien, deshalb ist die Flohspeichelallergie häufig. Zecken übertragen Babesiose, Ehrlichiose, Anaplasmose und Borreliose; Sandmücken und Stechmücken übertragen Leishmaniose und Herzwurm. Welpen bekommen Spulwürmer schon von der Mutter und werden ab der zweiten Lebenswoche alle zwei Wochen bis zwei Wochen nach dem Absetzen entwurmt, dann monatlich bis zum sechsten Monat. Erwachsene Hunde werden alle drei Monate behandelt, häufiger, wenn sie Unrat fressen oder mit kleinen Kindern leben, und eine Kotuntersuchung prüft den Plan. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
+  <p>Parasitenvorbeugung beim Staffordshire Bull Terrier ist planbar und fast vollständig wirksam, solange der Kalender eingehalten wird. Der Floh, den man am Hund sieht, ist nur etwa 5 Prozent eines Befalls; der Rest lebt als Eier, Larven und Puppen in der Wohnung. Das kurze Fell der Rasse macht Flöhe und Zecken leicht erkennbar, doch ihre Haut neigt zu Allergien, deshalb ist die Flohspeichelallergie häufig. Zecken übertragen Babesiose, Ehrlichiose, Anaplasmose und Borreliose; Sandmücken und Stechmücken übertragen Leishmaniose und Herzwurm. Welpen bekommen Spulwürmer schon von der Mutter und werden ab der zweiten Lebenswoche alle zwei Wochen bis zwei Wochen nach dem Absetzen entwurmt, dann monatlich bis zum sechsten Monat. Erwachsene Hunde werden alle drei Monate behandelt, häufiger, wenn sie Unrat fressen oder mit kleinen Kindern leben, und eine Kotuntersuchung prüft den Plan. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Staffordshire Bull Terrier Zucht</a> Del Piccolo Diavolo, seit 2013 in Ostellato (Ferrara, Italien).</p>
 
 
 
