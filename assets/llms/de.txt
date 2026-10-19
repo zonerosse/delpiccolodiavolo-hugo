@@ -27,6 +27,7 @@ Nützliche Informationen zu dieser Website:
 <!--DIARIO-GESTIONALE-->
   - [Wurf Bilquis × Black Jack (August 2026)](https://delpiccolodiavolo.it/de/diario-allevamento/wurf-bilquis-black-jack-august-2026/): Eltern, Gentests, Untersuchungen und Heranwachsen der Welpen.
   - [Wurf Red × Nora (Februar 2026)](https://delpiccolodiavolo.it/de/diario-allevamento/wurf-red-nora-februar-2026/): Eltern, Gentests, Untersuchungen und Heranwachsen der Welpen.
+- [Futterrechner](https://delpiccolodiavolo.it/de/futterrechner-hund/): Gramm am Tag nach Alter, Gewicht und Bewegung, mit den Kalorien von 34 Futtersorten, der Formel, um sie aus der Packung zu berechnen, und einer künstlichen Intelligenz, die das Foto der Packung liest.
 
 ## Welpen und Kosten
 
@@ -52,7 +53,6 @@ Nützliche Informationen zu dieser Website:
 ## Welpenaufzucht und Pflege
 
 - [Erste Fütterung](https://delpiccolodiavolo.it/de/welpen-erste-fuetterung/): was und wie viel in den ersten Monaten.
-- [Futterrechner](https://delpiccolodiavolo.it/de/futterrechner-hund/): Gramm am Tag nach Alter, Gewicht und Bewegung, mit den Kalorien von 34 Futtersorten, der Formel, um sie aus der Packung zu berechnen, und einer künstlichen Intelligenz, die das Foto der Packung liest.
 - [Erste Impfungen](https://delpiccolodiavolo.it/de/welpen-erste-impfungen/): Impfplan und praktische Tipps.
 - [Bio Sensor: was die Forschung wirklich sagt](https://delpiccolodiavolo.it/de/bio-sensor-fruehstimulation-welpen/): die ENS-Methode, die fehlenden Belege und was in den ersten acht Wochen wirklich zählt.
 - [Welpen zu Hause sozialisieren: die Liste für die Familie](https://delpiccolodiavolo.it/de/welpen-sozialisierung-zuhause/): praktische Liste von Böden, Geräuschen, Anfassen, Besuch und Näpfen für die ersten Wochen zu Hause.

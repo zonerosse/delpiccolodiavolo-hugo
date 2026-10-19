@@ -436,3 +436,46 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .notte-pagina .nav-lang a:hover{background:#1f3a5f!important;color:#fff!important;border-color:#1f3a5f!important}
 .notte-pagina .nav-cta:hover{background:#25354c!important;color:#fff!important}
 .notte-pagina .mobile-menu a:hover,.notte-pagina .mobile-menu a.active{color:#1f3a5f!important}
+
+/* Calcolatore delle crocchette come pagina Notte (19/10/2026, Paolo: «stile sito, non blog») */
+.notte-pagina .pp{background:var(--n-bg2,#2c3f57);color:#d6dde6;border:1px solid #4a6080;box-shadow:0 14px 32px rgba(0,0,0,.25)}
+.notte-pagina .pp label,.notte-pagina .pp .pp-l,.notte-pagina .pp-sz span,.notte-pagina .pp small,.notte-pagina .pp-cmp small,.notte-pagina .pp-cmpn,.notte-pagina .pp-cmp>b,.notte-pagina .pp p{color:#c3ccd8}
+.notte-pagina .pp input,.notte-pagina .pp select{background:#1f2d42;border-color:#4a6080;color:#fff;box-shadow:none}
+.notte-pagina .pp input::placeholder{color:#9fadbf}
+.notte-pagina .pp .pp-h{color:#fff!important;border-left-color:#f0cc86;font-weight:600}
+.notte-pagina .pp .pp-h i{background:#f0cc86;color:#1f2d42}
+.notte-pagina .pp-c,.notte-pagina .pp-b{color:#1f2d42}
+.notte-pagina .pp-c small,.notte-pagina .pp-b small{color:#2e6b34}
+.notte-pagina .pp-b small{color:#4a5768}
+.notte-pagina .pp-c.on{background:#f0cc86;color:#1f2d42;box-shadow:0 3px 0 #b8955a,0 6px 14px rgba(0,0,0,.3)}
+.notte-pagina .pp-c.on small{color:#1f2d42}
+.notte-pagina .pp-b.on{box-shadow:0 0 0 3px #f0cc86,0 6px 14px rgba(0,0,0,.3)}
+.notte-pagina .pp-oth{background:#354a63}
+.notte-pagina .pp-cmp{background:#1f2d42;border-color:#4a6080;color:#d6dde6}
+.notte-pagina .pp-res{background:#1f2d42;border:1px solid #f0cc86;box-shadow:none}
+.notte-pagina .pp-res b{color:#fff}
+.notte-pagina .pp-res span{color:#d6dde6}
+.notte-pagina .pp-tb{border-color:#4a6080}
+.notte-pagina .pp-tb th{background:#354a63;color:#d6dde6}
+.notte-pagina .pp-tb td{border-top-color:#4a6080;color:#d6dde6}
+.notte-pagina .pp-tb tr.now td{background:#f0cc86;color:#1f2d42}
+.notte-pagina .pp-lnk{color:#f0cc86}
+.notte-pagina .pp-ok{color:#9fd8a8}
+.notte-pagina .pp-err{color:#ffb4a8}
+.notte-pagina .pp-p{border-bottom-color:#4a6080}
+.notte-pagina .pp-find{background:#fff!important;color:#1f3a5f!important}
+.notte-pagina .pp-sri{background:#1f2d42;border-color:#4a6080;color:#d6dde6}
+.notte-pagina .pp-sri.on,.notte-pagina .pp-sri:hover{background:#354a63;border-color:#f0cc86}
+.notte-pagina .pp-srl{background:#25354c;border-color:#4a6080}
+.notte-pagina .pp input:focus-visible,.notte-pagina .pp select:focus-visible,.notte-pagina .pp-c:focus-visible,.notte-pagina .pp-b:focus-visible{outline-color:#f0cc86}
+.notte-pagina .in-breve{background:var(--n-card,#354a63);border-left-color:#f0cc86;box-shadow:none}
+.notte-pagina .in-breve-tit{color:#f0cc86}
+.notte-pagina .in-breve li{color:#d6dde6}
+.notte-pagina .pp-b b{color:#1f2d42!important}
+.notte-pagina main .pp-tb tr.now td{background:#f0cc86!important;color:#1f2d42!important}
+.notte-pagina main .pp-tb table{display:table;width:100%!important;max-width:none}
+@media print{.notte-pagina .pp,.notte-pagina .pp *{color:#1f2d42!important;background:#fff!important;border-color:#c9d2de!important;box-shadow:none!important}}
+.notte-pagina .rimando{background:var(--n-card,#354a63);border-color:#4a6080}
+.notte-pagina .rimando:hover{background:#3d5470;border-color:#f0cc86}
+.notte-pagina .rimando .ti{color:#f0cc86}
+.notte-pagina .rimando .de{color:#d6dde6}

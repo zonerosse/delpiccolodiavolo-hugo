@@ -1,7 +1,7 @@
 ---
 title: "Quanto deve mangiare un cane: calcolatore crocchette con intelligenza artificiale"
 date: 2026-10-18
-lastmod: 2026-10-18
+lastmod: 2026-10-19
 titleSeo: "Quanto deve mangiare un cane: calcolatore crocchette IA"
 translationKey: "calcolatore-crocchette"
 tags:
@@ -18,7 +18,7 @@ in_breve:
   - "Il calcolatore dà i grammi di crocchette al giorno partendo da età, peso, movimento e calorie dell'alimento."
   - "Le calorie di 34 crocchette diffuse sono già nell'elenco; per le altre un'intelligenza artificiale le legge dalla foto del sacco, oppure si scrivono a mano."
   - "Il numero è un punto di partenza: si controlla sul cane ogni due settimane."
-articolo: true
+notte: true
 image: "/images/blog/icone/calcolatore-crocchette-cane.webp"
 og_image: "/images/og/schede/it/calcolatore-crocchette-cane.jpg"
 og_image_alt: "Quanto deve mangiare un cane: calcolatore crocchette IA — Allevamento Del Piccolo Diavolo"
@@ -30,17 +30,13 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/icone/hero-calcolatore-crocchette-cane.webp" alt="" width="800" height="600" fetchpriority="high">
+  <img src="/images/blog/cucciolo-ritratto-hero.webp" alt="Cucciolo di Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo" width="760" height="760" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Cuccioli</span>
+  <span class="hero-eyebrow">Allevamento Del Piccolo Diavolo</span>
   <h1 class="hero-title">Quanto deve mangiare <em>il tuo cane</em></h1>
   <p class="hero-subtitle">Grammi di crocchette al giorno, dal cucciolo all'anziano</p>
-  <div class="hero-meta">
-  <span>📅 18 ottobre 2026</span>
-  <span>⏱️ 4 min lettura</span>
-  </div>
   </div>
   </section>
   <!--/BLOCCO:1-->
@@ -54,8 +50,6 @@ custom_content: |
 
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/" title="Home">Home</a> ›
-  <a href="/blog/" title="Blog">Blog</a> ›
-  <a aria-label="Cuccioli — categoria del blog" href="/blog/#cuccioli" title="Cuccioli">Cuccioli</a> ›
   <span>Calcolatore delle crocchette</span>
   </nav>
 
@@ -153,38 +147,40 @@ custom_content: |
 
   <!--BLOCCO:5-->
   <h2>Domande su quanto deve mangiare un cane</h2>
-  <div class="faq-item">
+  <div class="faq-container">
+  <div class="faq-item active n-faq">
   <h3 class="faq-q">Quanti grammi di crocchette deve mangiare un cane di 10 kg?</h3>
   <div class="faq-answer">
   <p>Un cane adulto di 10 kg, non sterilizzato e con movimento normale, ha bisogno di circa 710 kcal al giorno: 70 per 10 elevato a 0,75 fa 394 kcal di energia a riposo, e per 1,8 si arriva a 710. Con crocchette da 380 kcal per 100 grammi sono circa 185 grammi al giorno, divisi in due pasti. Se il cane è sterilizzato il fattore scende a 1,6 e la razione a circa 165 grammi. Con crocchette più ricche, da 420 kcal, la stessa energia sta in 170 grammi: per questo il numero va calcolato sull'alimento che si usa davvero.</p>
   </div>
   </div>
 
-  <div class="faq-item">
+  <div class="faq-item active n-faq">
   <h3 class="faq-q">Quanto deve mangiare un cucciolo rispetto a un cane adulto?</h3>
   <div class="faq-answer">
   <p>In proporzione al peso, molto di più. Fino ai tre mesi un cucciolo consuma circa tre volte la sua energia a riposo, contro 1,6-1,8 volte di un adulto, perché quasi tutto va nella crescita. Un cucciolo di taglia media che a due mesi e mezzo pesa 5 kg mangia infatti quanto un cane adulto di 10 kg. Da tre a sei mesi il fattore scende verso 2 e intorno all'anno arriva a quello dell'adulto; nelle taglie grandi e giganti questo passaggio dura di più, fino a quindici e venti mesi. Anche i pasti cambiano: più piccoli e più frequenti nei primi mesi.</p>
   </div>
   </div>
 
-  <div class="faq-item">
+  <div class="faq-item active n-faq">
   <h3 class="faq-q">Le dosi scritte sul sacco delle crocchette sono affidabili?</h3>
   <div class="faq-answer">
   <p>Sono un punto di partenza ragionevole, ma il produttore deve scrivere una dose che vada bene a molti cani diversi, e di solito dà una forchetta ampia per ogni peso. Un cane sterilizzato, che vive in casa e fa due passeggiate al giorno, tende a stare nella parte bassa della forchetta o anche sotto. Il guaio è che un piccolo eccesso non si vede subito: si accumula giorno dopo giorno, e sotto i muscoli di un cane robusto passa inosservato a lungo. Per questo la razione si verifica sul cane, con la mano sulle costole, ogni due settimane, e si corregge del 10% alla volta.</p>
   </div>
   </div>
 
-  <div class="faq-item">
+  <div class="faq-item active n-faq">
   <h3 class="faq-q">Cosa cambia se si passa a un'altra marca di crocchette?</h3>
   <div class="faq-answer">
   <p>La razione va ricalcolata, perché a parità di grammi due crocchette possono dare un'energia molto diversa. Nell'elenco del calcolatore si va da 351 a 428 kcal per 100 grammi: passare dalla prima alla seconda senza cambiare la dose significa dare circa il 20% di calorie in più. Si sceglie la nuova crocchetta nel calcolatore, si legge la nuova dose, e il passaggio si fa in sette-dieci giorni mescolando i due alimenti, come spiegato nella guida all'alimentazione iniziale. Dopo due settimane si controlla il cane sulle costole e si corregge del 10% se serve.</p>
   </div>
   </div>
 
-  <div class="faq-item">
+  <div class="faq-item active n-faq">
   <h3 class="faq-q">Come fa l'intelligenza artificiale a leggere la foto del sacco?</h3>
   <div class="faq-answer">
   <p>Si tocca «Fotografa il sacco · IA» e si scatta una foto nitida del retro del sacco, dove sono stampati i componenti analitici; se il testo è diviso, vanno bene anche due foto. La foto la legge un'intelligenza artificiale, Claude di Anthropic: se sul sacco è scritta l'energia, prende quel valore; altrimenti legge proteina, grassi, fibra, ceneri e umidità e calcola le kcal con la formula di Atwater modificata spiegata qui sopra. Se non trova i numeri, cerca in internet le calorie partendo dal nome delle crocchette. La foto non viene conservata. Il risultato va controllato prima di aggiungerlo all'elenco, e c'è un limite di letture al giorno, 3 per persona, impostato per contenere i costi.</p>
+  </div>
   </div>
   </div>
   <!--/BLOCCO:5-->
@@ -218,12 +214,7 @@ custom_content: |
   <li><a href="https://wsava.org/global-guidelines/global-nutrition-guidelines/" target="_blank" rel="noopener" aria-label="WSAVA, Global Nutrition Guidelines (si apre in una nuova scheda)">WSAVA, Global Nutrition Guidelines</a></li>
   <li><a href="https://www.nationalacademies.org/publications/10668" target="_blank" rel="noopener" aria-label="National Research Council, Nutrient Requirements of Dogs and Cats (2006) (si apre in una nuova scheda)">National Research Council, Nutrient Requirements of Dogs and Cats (2006)</a></li>
   </ul>
-
-  <div class="article-footer">
-  <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
-  </div>
   <!--/BLOCCO:6-->
-
   </article>
   </div>
 

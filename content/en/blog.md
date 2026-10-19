@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier blog - articles & guides"
 date: 2025-12-28
-lastmod: 2026-10-18
+lastmod: 2026-10-19
 tipoPagina: "CollectionPage"
 notte: true
 translationKey: "blog"
@@ -70,14 +70,6 @@ custom_content: |
   <h2 class="section-title">Puppies <span class="count">(15)</span></h2>
 
   <div class="blog-grid">
-  <article class="blog-card">
-  <a href="/en/dog-food-calculator/" title="Read: Kibble calculator"><div class="blog-card-thumb"><img src="/images/blog/icone/calcolatore-crocchette-cane.webp" alt="Kibble calculator for dogs" loading="lazy" decoding="async" width="300" height="188"></div></a>
-  <div class="blog-card-body">
-  <div class="blog-card-meta"><span class="date">18 Oct 2026</span><span>&bull;</span><span class="cat">Puppies</span></div>
-  <h3><a href="/en/dog-food-calculator/" title="Read: Kibble calculator">How much should a dog eat: kibble calculator</a></h3>
-  <p>Grams a day by age, weight and activity, with the calories of 34 foods; for any other, AI reads the photo of the bag.</p>
-  </div>
-  </article>
   <article class="blog-card">
   <a href="/en/puppy-worming-faecal-tests/" title="Read: Worming and faecal tests"><div class="blog-card-thumb"><img src="/images/blog/icone/cuccioli-sverminazione-esami-feci.webp" alt="Worming Staffordshire Bull Terrier puppies" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">

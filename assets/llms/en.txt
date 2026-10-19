@@ -27,6 +27,7 @@ Useful information about this site:
 <!--DIARIO-GESTIONALE-->
   - [Bilquis × Black Jack litter (August 2026)](https://delpiccolodiavolo.it/en/diario-allevamento/bilquis-black-jack-litter-august-2026/): parents, genetic tests, examinations and the puppies' growth.
   - [Red × Nora litter (February 2026)](https://delpiccolodiavolo.it/en/diario-allevamento/red-nora-litter-february-2026/): parents, genetic tests, examinations and the puppies' growth.
+- [Kibble calculator](https://delpiccolodiavolo.it/en/dog-food-calculator/): grams a day by age, weight and activity, with the calories of 34 foods, the formula to work them out from the bag and an artificial intelligence that reads a photo of the bag.
 
 ## Puppies and costs
 
@@ -52,7 +53,6 @@ Useful information about this site:
 ## Puppy care and development
 
 - [Initial feeding](https://delpiccolodiavolo.it/en/puppy-initial-feeding/): what and how much to feed in the first months.
-- [Kibble calculator](https://delpiccolodiavolo.it/en/dog-food-calculator/): grams a day by age, weight and activity, with the calories of 34 foods, the formula to work them out from the bag and an artificial intelligence that reads a photo of the bag.
 - [First vaccinations](https://delpiccolodiavolo.it/en/puppy-first-vaccinations/): vaccination schedule and practical advice.
 - [Bio Sensor: what the research actually says](https://delpiccolodiavolo.it/en/bio-sensor-early-stimulation-puppies/): the ENS method, the missing evidence and what really counts in the first eight weeks.
 - [Socialising the puppy at home: the family checklist](https://delpiccolodiavolo.it/en/puppy-home-socialization/): practical checklist of surfaces, noises, handling, visitors and bowls for the first weeks at home.

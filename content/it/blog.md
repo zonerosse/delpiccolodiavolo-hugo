@@ -2,7 +2,7 @@
 title: "Blog Staffordshire Bull Terrier"
 titleSeo: "Guide sullo Staffordshire Bull Terrier: salute e cuccioli"
 date: 2025-12-28
-lastmod: 2026-10-18
+lastmod: 2026-10-19
 tipoPagina: "CollectionPage"
 notte: true
 translationKey: "blog"
@@ -67,14 +67,6 @@ custom_content: |
   <h2 class="section-title">Cuccioli <span class="count">(15)</span></h2>
 
   <div class="blog-grid">
-  <article class="blog-card">
-  <a href="/calcolatore-crocchette-cane/" title="Leggi: Calcolatore delle crocchette"><div class="blog-card-thumb"><img src="/images/blog/icone/calcolatore-crocchette-cane.webp" alt="Calcolatore delle crocchette per cani" loading="lazy" decoding="async" width="300" height="188"></div></a>
-  <div class="blog-card-body">
-  <div class="blog-card-meta"><span class="date">18 Ott 2026</span><span>&bull;</span><span class="cat">Cuccioli</span></div>
-  <h3><a href="/calcolatore-crocchette-cane/" title="Leggi: Calcolatore delle crocchette">Quanto deve mangiare un cane: calcolatore delle crocchette</a></h3>
-  <p>Grammi al giorno per età, peso e movimento, con le calorie di 34 crocchette; le altre le legge l'IA dalla foto del sacco.</p>
-  </div>
-  </article>
   <article class="blog-card">
   <a href="/cuccioli-sverminazione-esami-feci/" title="Leggi: Sverminazione ed esami delle feci"><div class="blog-card-thumb"><img src="/images/blog/icone/cuccioli-sverminazione-esami-feci.webp" alt="Sverminazione dei cuccioli di Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">

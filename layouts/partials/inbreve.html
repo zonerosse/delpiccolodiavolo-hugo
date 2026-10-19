@@ -16,7 +16,7 @@
 {{- $p := .p -}}
 {{- $c := .c -}}
 {{- $lang := $p.Site.Language.Lang -}}
-{{- if $p.Params.articolo -}}
+{{- if or $p.Params.articolo $p.Params.in_breve -}}
   {{- /* zona dei titoli: fino al riquadro finale */ -}}
   {{- $zona := index (split $c `<section class="cta-section"`) 0 -}}
   {{- $h2 := findRE `<h2[^>]*>(?s:.*?)</h2>` $zona -}}

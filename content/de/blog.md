@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Blog - Artikel & Ratgeber"
 date: 2025-12-28
-lastmod: 2026-10-18
+lastmod: 2026-10-19
 tipoPagina: "CollectionPage"
 notte: true
 translationKey: "blog"
@@ -70,14 +70,6 @@ custom_content: |
   <h2 class="section-title">Welpen <span class="count">(15)</span></h2>
 
   <div class="blog-grid">
-  <article class="blog-card">
-  <a href="/de/futterrechner-hund/" title="Lesen: Futterrechner"><div class="blog-card-thumb"><img src="/images/blog/icone/calcolatore-crocchette-cane.webp" alt="Futterrechner für Hunde" loading="lazy" decoding="async" width="300" height="188"></div></a>
-  <div class="blog-card-body">
-  <div class="blog-card-meta"><span class="date">18. Okt 2026</span><span>&bull;</span><span class="cat">Welpen</span></div>
-  <h3><a href="/de/futterrechner-hund/" title="Lesen: Futterrechner">Wie viel Futter braucht ein Hund: Futterrechner für Trockenfutter</a></h3>
-  <p>Gramm am Tag nach Alter, Gewicht und Bewegung, mit den Kalorien von 34 Futtersorten; andere liest die KI vom Packungsfoto.</p>
-  </div>
-  </article>
   <article class="blog-card">
   <a href="/de/welpen-entwurmung-kotuntersuchung/" title="Lesen: Entwurmung und Kotuntersuchung"><div class="blog-card-thumb"><img src="/images/blog/icone/cuccioli-sverminazione-esami-feci.webp" alt="Entwurmung von Staffordshire Bull Terrier Welpen" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">

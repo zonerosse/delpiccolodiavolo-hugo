@@ -1,7 +1,7 @@
 ---
 title: "Wie viel Futter braucht ein Hund: Futterrechner mit künstlicher Intelligenz"
 date: 2026-10-18
-lastmod: 2026-10-18
+lastmod: 2026-10-19
 titleSeo: "Wie viel Futter braucht mein Hund? Futterrechner mit KI"
 translationKey: "calcolatore-crocchette"
 tags:
@@ -18,7 +18,7 @@ in_breve:
   - "Der Rechner gibt die Gramm Trockenfutter pro Tag aus Alter, Gewicht, Bewegung und Kalorien des Futters an."
   - "Die Kalorien von 34 gängigen Futtern stehen schon in der Liste; bei anderen liest eine künstliche Intelligenz sie vom Foto der Packung, oder man gibt sie selbst ein."
   - "Die Zahl ist ein Ausgangspunkt: man prüft sie alle zwei Wochen am Hund."
-articolo: true
+notte: true
 image: "/images/blog/icone/calcolatore-crocchette-cane.webp"
 og_image: "/images/og/schede/de/futterrechner-hund.jpg"
 og_image_alt: "Wie viel Futter braucht mein Hund? Futterrechner mit KI — Zucht Del Piccolo Diavolo"
@@ -30,17 +30,13 @@ custom_content: |
   <section class="hero">
   <div class="hero-visual">
   <div class="hero-image">
-  <img src="/images/blog/icone/hero-calcolatore-crocchette-cane.webp" alt="" width="800" height="600" fetchpriority="high">
+  <img src="/images/blog/cucciolo-ritratto-hero.webp" alt="Staffordshire-Bullterrier-Welpe aus der Zucht Del Piccolo Diavolo" width="760" height="760" fetchpriority="high">
   </div>
   </div>
   <div class="hero-content">
-  <span class="hero-eyebrow">Welpen</span>
+  <span class="hero-eyebrow">Allevamento Del Piccolo Diavolo</span>
   <h1 class="hero-title">Wie viel Futter braucht <em>Ihr Hund</em></h1>
   <p class="hero-subtitle">Gramm Trockenfutter am Tag, vom Welpen bis zum Senior</p>
-  <div class="hero-meta">
-  <span>📅 18. Oktober 2026</span>
-  <span>⏱️ 4 Min. Lesezeit</span>
-  </div>
   </div>
   </section>
   <!--/BLOCCO:1-->
@@ -54,8 +50,6 @@ custom_content: |
 
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/de/" title="Startseite">Startseite</a> ›
-  <a href="/de/blog/" title="Blog">Blog</a> ›
-  <a aria-label="Welpen — Blog-Kategorie" href="/de/blog/#welpen" title="Welpen">Welpen</a> ›
   <span>Futterrechner</span>
   </nav>
 
@@ -153,38 +147,40 @@ custom_content: |
 
   <!--BLOCCO:5-->
   <h2>Fragen dazu, wie viel ein Hund fressen soll</h2>
-  <div class="faq-item">
+  <div class="faq-container">
+  <div class="faq-item active n-faq">
   <h3 class="faq-q">Wie viel Gramm Trockenfutter braucht ein Hund mit 10 kg?</h3>
   <div class="faq-answer">
   <p>Ein erwachsener Hund mit 10 kg, nicht kastriert und mit normaler Bewegung, braucht etwa 710 kcal am Tag: 70 mal 10 hoch 0,75 ergibt 394 kcal Ruhebedarf, und mal 1,8 werden daraus 710. Mit einem Futter von 380 kcal pro 100 Gramm sind das etwa 185 Gramm am Tag, auf zwei Mahlzeiten verteilt. Ist der Hund kastriert, sinkt der Faktor auf 1,6 und die Ration auf etwa 165 Gramm. Mit einem gehaltvolleren Futter von 420 kcal passt dieselbe Energie in 170 Gramm: deshalb muss die Zahl mit dem Futter berechnet werden, das man wirklich gibt.</p>
   </div>
   </div>
 
-  <div class="faq-item">
+  <div class="faq-item active n-faq">
   <h3 class="faq-q">Wie viel frisst ein Welpe im Vergleich zu einem erwachsenen Hund?</h3>
   <div class="faq-answer">
   <p>Im Verhältnis zum Gewicht viel mehr. Bis zum dritten Monat verbraucht ein Welpe etwa das Dreifache seines Ruhebedarfs, ein Erwachsener dagegen das 1,6- bis 1,8-Fache, weil fast alles ins Wachstum geht. Ein mittelgroßer Welpe, der mit zweieinhalb Monaten 5 kg wiegt, frisst so viel wie ein erwachsener Hund mit 10 kg. Von drei bis sechs Monaten sinkt der Faktor gegen 2, und um das erste Jahr erreicht er den des Erwachsenen; bei großen und Riesenrassen dauert das länger, bis fünfzehn und zwanzig Monate. Auch die Mahlzeiten ändern sich: in den ersten Monaten kleiner und häufiger.</p>
   </div>
   </div>
 
-  <div class="faq-item">
+  <div class="faq-item active n-faq">
   <h3 class="faq-q">Sind die Mengenangaben auf der Futterpackung zuverlässig?</h3>
   <div class="faq-answer">
   <p>Sie sind ein vernünftiger Ausgangspunkt, aber der Hersteller muss eine Menge angeben, die zu vielen verschiedenen Hunden passt, und nennt meist eine breite Spanne für jedes Gewicht. Ein kastrierter Hund, der im Haus lebt und zweimal am Tag spazieren geht, liegt eher am unteren Ende der Spanne oder sogar darunter. Das Problem ist, dass ein kleiner Überschuss nicht sofort sichtbar wird: er sammelt sich Tag für Tag an, und unter der Muskulatur eines kräftigen Hundes bleibt er lange unbemerkt. Deshalb prüft man die Ration alle zwei Wochen am Hund, mit der Hand auf den Rippen, und passt sie um jeweils 10 % an.</p>
   </div>
   </div>
 
-  <div class="faq-item">
+  <div class="faq-item active n-faq">
   <h3 class="faq-q">Was ändert sich beim Wechsel auf eine andere Futtermarke?</h3>
   <div class="faq-answer">
   <p>Die Ration muss neu berechnet werden, weil zwei Futter bei gleicher Grammzahl sehr unterschiedlich viel Energie liefern können. In der Liste des Rechners reichen sie von 351 bis 428 kcal pro 100 Gramm: wer vom ersten zum zweiten wechselt, ohne die Menge zu ändern, gibt etwa 20 % mehr Kalorien. Man wählt das neue Futter im Rechner, liest die neue Menge ab und stellt über sieben bis zehn Tage um, indem man beide Futter mischt, wie im Ratgeber zur ersten Fütterung beschrieben. Nach zwei Wochen prüft man die Rippen und passt um 10 % an, wenn nötig.</p>
   </div>
   </div>
 
-  <div class="faq-item">
+  <div class="faq-item active n-faq">
   <h3 class="faq-q">Wie liest die künstliche Intelligenz das Foto der Packung?</h3>
   <div class="faq-answer">
   <p>Man tippt auf «Packung fotografieren · KI» und macht ein scharfes Foto der Rückseite, wo die analytischen Bestandteile stehen; ist der Text geteilt, gehen auch zwei Fotos. Das Foto liest eine künstliche Intelligenz, Claude von Anthropic: steht die Energie auf der Packung, übernimmt sie diesen Wert; sonst liest sie Protein, Fett, Rohfaser, Rohasche und Feuchtigkeit und berechnet die kcal mit der oben erklärten modifizierten Atwater-Formel. Findet sie keine Zahlen, sucht sie die Kalorien anhand des Futternamens im Internet. Das Foto wird nicht gespeichert. Das Ergebnis prüft man, bevor man es zur Liste hinzufügt; es gibt ein tägliches Limit von 3 Lesungen pro Person, um die Kosten zu begrenzen.</p>
+  </div>
   </div>
   </div>
   <!--/BLOCCO:5-->
@@ -218,12 +214,7 @@ custom_content: |
   <li><a href="https://wsava.org/global-guidelines/global-nutrition-guidelines/" target="_blank" rel="noopener" aria-label="WSAVA, Global Nutrition Guidelines (öffnet in einem neuen Tab)">WSAVA, Global Nutrition Guidelines</a></li>
   <li><a href="https://www.nationalacademies.org/publications/10668" target="_blank" rel="noopener" aria-label="National Research Council, Nutrient Requirements of Dogs and Cats (2006) (öffnet in einem neuen Tab)">National Research Council, Nutrient Requirements of Dogs and Cats (2006)</a></li>
   </ul>
-
-  <div class="article-footer">
-  <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
-  </div>
   <!--/BLOCCO:6-->
-
   </article>
   </div>
 
