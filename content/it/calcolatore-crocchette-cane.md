@@ -63,7 +63,7 @@ custom_content: |
   <article class="article-content">
 
   <div id="pappa" class="pp"><noscript>Il calcolatore ha bisogno di JavaScript. Senza, si può fare il conto a mano con la formula e le tabelle qui sotto.</noscript></div>
-  <script src="/js/calcolatore-crocchette.js?v=20261019-0100" defer></script>
+  <script src="/js/calcolatore-crocchette.js?v=20261019-0930" defer></script>
 
   <p>Quanto deve mangiare un cane? Il calcolatore qui sopra dice quanti grammi di crocchette dare ogni giorno a un cane, dal cucciolo di due mesi all'anziano. Parte dall'energia di base usata dai veterinari, 70 moltiplicato per il peso in chili elevato a 0,75, e la moltiplica per un fattore che dipende dall'età: 3 fino ai tre mesi, 2 a sei mesi, da 1,6 a 1,8 nell'adulto. Poi divide il risultato per le calorie delle crocchette. Per 34 crocchette diffuse in Italia le calorie sono già nell'elenco; per tutte le altre si scrivono a mano, si calcolano dai componenti analitici stampati sul sacco o si legge la foto del sacco. Il numero che esce è un punto di partenza, da controllare sul cane ogni due settimane. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
