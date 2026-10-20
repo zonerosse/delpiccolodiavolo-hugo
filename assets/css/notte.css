@@ -536,3 +536,11 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .notte-pagina main .pp-nuovo .pp-tb td:first-child{white-space:normal}
 .pp-nuovo :focus-visible{outline:3px solid #f0cc86;outline-offset:2px}
 @media print{.pp-nuovo .pp-grid{display:block}.pp-nuovo .pp-form,.pp-nuovo .pp-bar,.pp-nuovo .pp-end,.pp-nuovo .pp-pasti{display:none!important}.pp.pp-nuovo{width:auto;margin:0!important}.pp-nuovo .pp-res{border:0}}
+
+/* Riquadri con foto (.n-foto3, Home e Chi siamo): 20/10/2026, Paolo «Foto tagliate». Foto sempre intera (contain su fondo scuro,
+   come le testate) e scritta sotto la foto, non sopra. */
+.notte-pagina .n-foto3{grid-template-columns:repeat(3,minmax(0,1fr));align-items:stretch}
+.notte-pagina .n-foto3 figure{height:auto;display:flex;flex-direction:column;background:var(--n-card,#354a63);border:1px solid var(--n-ln,#4a6080);border-radius:10px}
+.notte-pagina .n-foto3 img{height:340px;width:100%;object-fit:contain;background:#1f2d42;flex:none}
+.notte-pagina .n-foto3 figcaption{position:static;background:none;padding:1rem 1.1rem 1.2rem}
+@media (max-width:860px){.notte-pagina .n-foto3{grid-template-columns:minmax(0,1fr)}.notte-pagina .n-foto3 figure{height:auto}.notte-pagina .n-foto3 img{height:auto;max-height:62vh}}

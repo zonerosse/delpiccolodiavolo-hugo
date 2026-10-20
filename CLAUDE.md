@@ -349,6 +349,7 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
     contenuto a destra). Niente fondi senape o marroni: riquadri scuri con bordo oro o rame. Data e navigazione nella lingua della pagina.
   - Niente fondi pieni senape, rame, verdi o blu nelle etichette (badge, female-badge, stato-fattrice, etichette con
     `style` di fondo): solo bordo oro o rame. Fascia finale `.cta-section` scura e uniforme, senza alone marrone.
+  - Riquadri con foto `.n-foto3` (Home «Nati e cresciuti», Chi siamo), 20/10/2026: foto sempre intera (`contain` su fondo scuro, 340 px) e scritta sotto la foto, non sopra (regole in fondo a `notte.css`).
   - Foto in testata sempre intera, mai tagliata (scelta A): `object-fit:contain` su fondo scuro; al telefono alta il 62% dello
     schermo. La foto di Bilquis in testata è `bilquis-campionessa-hero.avif` (800×976), non più `femmina-bilquis-hero.avif` (301×396, sgranata).
 
