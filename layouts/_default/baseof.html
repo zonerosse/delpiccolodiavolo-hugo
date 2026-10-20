@@ -2,6 +2,10 @@
 <html lang="{{ .Site.Language.Lang }}">
 <head>
   <meta charset="UTF-8">
+  {{/* Foto che non arrivano (20/10/2026, Paolo in 5G: la foto della Home restava rotta). Se una foto
+       del sito non si carica, la richiede da sola fino a 3 volte (dopo 1, 2 e 3 secondi). Sta in
+       cima alla head, così è attiva prima che il browser chieda la prima foto. */}}
+  <script>document.addEventListener("error",function(e){var i=e.target;if(!i||i.tagName!=="IMG")return;var n=+(i.dataset.rip||0);if(n>=3)return;var s=i.getAttribute("src")||"";if(s.indexOf("/")!==0&&s.indexOf(location.origin)!==0)return;i.dataset.rip=n+1;setTimeout(function(){var q=function(u){return u.replace(/([?&])rip=\d+/,"").replace(/(\.[a-z0-9]+)(\?|$)/i,"$1?rip="+(n+1)+(u.indexOf("?")>0?"&":""))};var ss=i.getAttribute("srcset");if(ss)i.setAttribute("srcset",ss.split(",").map(function(x){x=x.trim().split(/\s+/);x[0]=q(x[0]);return x.join(" ")}).join(", "));i.src=q(s)},1000*(n+1))},true);</script>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
