@@ -212,6 +212,13 @@ Before working on the site locally, **Fetch/Pull** in GitHub Desktop: the gestio
   (`static/images/cucciolate/<dog-name>-staffordshire-bull-terrier.<ext>`,
   `static/images/diario/<slug>/cuccioli-staffordshire-bull-terrier-<dam>-<sire>-<n>.<ext>`).
 
+## Photos that fail to arrive (20/10/2026)
+- Paolo on 5G saw the Home stay white or without the header photo. Measured from his Chrome: the site answered in 0.1 s on a fresh
+  connection, but every request on the open HTTP/3 (QUIC) connection hung. Paolo switched off HTTP/3 in Cloudflare (Speed →
+  Impostazioni → Ottimizzazione protocolli → HTTP/3 off). Leave it off.
+- `baseof.html` has a tiny inline script at the top of `<head>`: if a site image fails, it asks for it again up to 3 times
+  (after 1, 2, 3 s), adding `?rip=n` to `src` and to each `srcset` entry.
+
 ## Browser protections: Permissions-Policy and the guest list (CSP), October 2026
 - `layouts/index.headers` sends `Permissions-Policy` (camera, microphone, geolocation, payment, usb, midi, topics all off)
   and `Content-Security-Policy`, the "guest list" of external hosts the browser may load from.
