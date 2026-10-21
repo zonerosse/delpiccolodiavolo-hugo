@@ -27,12 +27,8 @@
 # Un servizio esterno nuovo (mappa, video da un altro sito, statistiche...)
 # va aggiunto qui, altrimenti con la lista attiva il browser lo blocca.
 # 'unsafe-inline' resta perche' il sito usa molti script e stili scritti
-# dentro le pagine. Il CSS principale invece sta in /css/ (18/10/2026, scelta C di Paolo).
-
-# Fogli di stile: il nome contiene l'impronta del contenuto (sito.min.<sha256>.css),
-# quindi a ogni modifica cambia nome e si puo' tenere in cache un anno.
-/css/*
-  Cache-Control: public, max-age=31536000, immutable
+# dentro le pagine. Anche il CSS principale e' di nuovo dentro le pagine (21/10/2026, scelta A di Paolo:
+# in un file a parte, con la connessione che si inceppa, la pagina restava bianca).
 
 # Script (18/10/2026): il calcolatore cambia spesso e il nome non ha impronta: il browser ricontrolla
 # ogni volta (con ETag risponde 304 se non e' cambiato). Nella pagina c'e' anche ?v= da cambiare a ogni modifica.
@@ -45,7 +41,7 @@
 /videos/*
   Cache-Control: public, max-age=2592000
 
-# NOTA SULLA CACHE. A parte i fogli di stile in /css/, nessun file di questo sito
+# NOTA SULLA CACHE. Nessun file di questo sito
 # ha l'impronta nel nome: un PDF sostituito si chiama come prima. Quindi
 # niente "immutable" e niente cache di un anno, altrimenti chi ha gia'
 # scaricato un referto se lo tiene finche' non scade, e il purge di
@@ -101,8 +97,5 @@
 /fonts/*
   Cache-Control: public, max-age=2592000
 
-/*.css
-  Cache-Control: public, max-age=2592000
-
-/*.js
-  Cache-Control: public, max-age=2592000
+# (21/10/2026) Tolte le regole /*.css e /*.js: si sommavano a quella di /js/* e il calcolatore riceveva
+# due Cache-Control insieme (max-age=0 e max-age=2592000), con il rischio di tenere lo script vecchio per 30 giorni.

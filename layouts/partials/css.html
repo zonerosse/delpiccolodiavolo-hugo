@@ -1,6 +1,8 @@
-{{- /* Fogli di stile in un file a parte (Paolo, 18/10/2026, scelta C): il browser lo scarica una volta e lo tiene
-     in memoria per tutte le pagine. Tre pacchetti: pagine chiare (main), pagine Notte (main+notte), Home (main+home+notte).
-     Il nome contiene l'impronta del contenuto (fingerprint): cambiando il CSS cambia il nome, quindi la cache lunga è sicura. */ -}}
+{{- /* Fogli di stile DENTRO la pagina (Paolo, 21/10/2026, scelta A). Dal 18/10 erano in un file a parte (/css/…):
+     con una connessione che si inceppa (Iliad, 20 e 21/10) il file non arrivava e la pagina restava tutta bianca,
+     e con l'impronta (integrity) e gli Early Hints il browser lo scaricava due volte. Così basta la pagina sola per
+     vederla. Tre pacchetti come prima: pagine chiare (main), pagine Notte (main+notte), Home (main+home+notte).
+     Il CSS non contiene url(): dentro la pagina i percorsi restano giusti. */ -}}
 {{- $main := resources.Get "css/main.css" -}}
 {{- if not $main }}{{ errorf "Il foglio di stile assets/css/main.css non esiste: la pagina uscirebbe senza CSS." }}{{ end -}}
 {{- $parti := slice $main -}}
@@ -8,8 +10,5 @@
 {{- $notte := or .Params.notte (and .IsPage (eq .Section "diario-allevamento")) -}}
 {{- if .IsHome }}{{ with resources.Get "css/home.css" }}{{ $parti = $parti | append . }}{{ end }}{{ $nome = "css/sito-home.css" }}{{ end -}}
 {{- if $notte }}{{ with resources.Get "css/notte.css" }}{{ $parti = $parti | append . }}{{ end }}{{ if not .IsHome }}{{ $nome = "css/sito-notte.css" }}{{ end }}{{ end -}}
-{{- $css := $parti | resources.Concat $nome | minify | fingerprint "sha256" -}}
-{{- /* Preload dello stesso file (Paolo, 18/10/2026, scelta B): Cloudflare Pages trasforma i <link rel="preload"> della pagina
-     in Early Hints (risposta 103), così il browser comincia a scaricare lo stile mentre aspetta ancora la pagina. */}}
-<link rel="preload" as="style" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
-<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+{{- $css := $parti | resources.Concat $nome | minify -}}
+<style>{{ $css.Content | safeCSS }}</style>
