@@ -112,6 +112,14 @@ custom_content: |
   </table>
   <p>We often see two other mistakes in families' questions. Cooked bones must never be given, because they splinter. And raw bones, though safer, can still cause constipation, broken teeth or bowel blockages, as WSAVA points out.</p>
 
+    <a class="rimando" href="/en/barf-calculator/">
+  <img src="/images/blog/icone/calcolatore-barf.webp" alt="" width="88" height="64" loading="lazy" decoding="async">
+  <span>
+  <span class="ti">BARF calculator</span>
+  <span class="de">How much meat, bone and offal a day, with a nutrient check and the sources of the calculations.</span>
+  </span>
+  </a>
+
     <a class="rimando" href="/en/dog-food-calculator/">
   <img src="/images/blog/icone/calcolatore-crocchette-cane.webp" alt="" width="88" height="64" loading="lazy" decoding="async">
   <span>
@@ -151,6 +159,7 @@ custom_content: |
   <ul>
   <li><a href="/en/puppy-initial-feeding/" title="Puppy initial feeding">Feeding a puppy in the first months</a></li>
   <li><a href="/en/dog-food-calculator/" title="Dog food calculator">Dog food calculator</a></li>
+  <li><a href="/en/barf-calculator/" title="BARF calculator">BARF calculator</a></li>
   <li><a href="/en/staffy-dental-health/" title="Dental health">Dental health and oral hygiene</a></li>
   <li><a href="/en/staffy-safe-exercise/" title="Safe exercise">Safe exercise</a></li>
   </ul>

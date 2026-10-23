@@ -1,7 +1,7 @@
 ---
 title: "Quanto deve mangiare un cane: calcolatore crocchette con intelligenza artificiale"
 date: 2026-10-18
-lastmod: 2026-10-19
+lastmod: 2026-10-23
 titleSeo: "Quanto deve mangiare un cane: calcolatore crocchette IA"
 translationKey: "calcolatore-crocchette"
 tags:
@@ -202,6 +202,7 @@ custom_content: |
   <h3>Articoli correlati</h3>
   <ul>
   <li><a href="/cuccioli-alimentazione-iniziale/" title="Alimentazione iniziale">Alimentazione iniziale: quanto e quante volte al giorno</a></li>
+  <li><a href="/calcolatore-barf/" title="Calcolatore BARF">Calcolatore BARF</a></li>
   <li><a href="/salute-esercizio-sicuro/" title="Esercizio sicuro">Esercizio sicuro: quanto e come muovere lo Staffy</a></li>
   <li><a href="/quanto-vive-staffordshire-bull-terrier/" title="Quanto vive">Quanto vive lo Staffordshire Bull Terrier</a></li>
   <li><a href="/cuccioli-prima-passeggiata/" title="Prima passeggiata">La prima passeggiata del cucciolo</a></li>

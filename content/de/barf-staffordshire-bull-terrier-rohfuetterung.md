@@ -112,6 +112,14 @@ custom_content: |
   </table>
   <p>Zwei weitere Fehler sehen wir oft in den Fragen der Familien. Gekochte Knochen dürfen nie gegeben werden, weil sie splittern. Und rohe Knochen sind zwar sicherer, können aber trotzdem Verstopfung, abgebrochene Zähne oder einen Darmverschluss verursachen, wie die WSAVA betont.</p>
 
+    <a class="rimando" href="/de/barf-rechner/">
+  <img src="/images/blog/icone/calcolatore-barf.webp" alt="" width="88" height="64" loading="lazy" decoding="async">
+  <span>
+  <span class="ti">BARF-Rechner</span>
+  <span class="de">Wie viel Fleisch, Knochen und Innereien pro Tag, mit Nährstoffprüfung und den Quellen der Berechnung.</span>
+  </span>
+  </a>
+
     <a class="rimando" href="/de/futterrechner-hund/">
   <img src="/images/blog/icone/calcolatore-crocchette-cane.webp" alt="" width="88" height="64" loading="lazy" decoding="async">
   <span>
@@ -151,6 +159,7 @@ custom_content: |
   <ul>
   <li><a href="/de/welpen-erste-fuetterung/" title="Erste Fütterung des Welpen">Ernährung des Welpen in den ersten Monaten</a></li>
   <li><a href="/de/futterrechner-hund/" title="Futterrechner">Futterrechner für Hunde</a></li>
+  <li><a href="/de/barf-rechner/" title="BARF-Rechner">BARF-Rechner</a></li>
   <li><a href="/de/staffy-zahnpflege/" title="Zahnpflege">Zahnpflege und Mundhygiene</a></li>
   <li><a href="/de/staffy-sichere-bewegung/" title="Sichere Bewegung">Sichere Bewegung</a></li>
   </ul>

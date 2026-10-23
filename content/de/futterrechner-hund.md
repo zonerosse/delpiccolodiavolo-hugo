@@ -1,7 +1,7 @@
 ---
 title: "Wie viel Futter braucht ein Hund: Futterrechner mit künstlicher Intelligenz"
 date: 2026-10-18
-lastmod: 2026-10-19
+lastmod: 2026-10-23
 titleSeo: "Wie viel Futter braucht mein Hund? Futterrechner mit KI"
 translationKey: "calcolatore-crocchette"
 tags:
@@ -202,6 +202,7 @@ custom_content: |
   <h3>Verwandte Artikel</h3>
   <ul>
   <li><a href="/de/welpen-erste-fuetterung/" title="Erste Fütterung">Erste Fütterung: wie viel und wie oft</a></li>
+  <li><a href="/de/barf-rechner/" title="BARF-Rechner">BARF-Rechner</a></li>
   <li><a href="/de/staffy-sichere-bewegung/" title="Sichere Bewegung">Sichere Bewegung: wie viel und wie man einen Staffy bewegt</a></li>
   <li><a href="/de/wie-alt-wird-ein-staffordshire-bull-terrier/" title="Wie alt">Wie alt wird ein Staffordshire Bull Terrier?</a></li>
   <li><a href="/de/welpen-erster-spaziergang/" title="Erster Spaziergang">Der erste Spaziergang des Welpen</a></li>

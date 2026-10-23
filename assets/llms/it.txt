@@ -35,6 +35,7 @@ Informazioni utili su questo sito:
   - [Cucciolata Red × Nora (febbraio 2026)](https://delpiccolodiavolo.it/diario-allevamento/cucciolata-red-nora-febbraio-2026/): genitori, test genetici, esami e crescita dei cuccioli.
 - [Contatti e sede in Emilia-Romagna](https://delpiccolodiavolo.it/allevamento-staffordshire-bull-terrier-in-emilia-romagna/): dove si trova l'allevamento, zone servite e come fissare una visita.
 - [Calcolatore delle crocchette](https://delpiccolodiavolo.it/calcolatore-crocchette-cane/): grammi al giorno per età, peso e movimento, con le calorie di 34 crocchette, la formula per calcolarle dal sacco e la lettura della foto del sacco con l'intelligenza artificiale.
+- [Calcolatore BARF](https://delpiccolodiavolo.it/calcolatore-barf/): grammi al giorno di carne, trippa, frattaglie, ossa carnose, verdure e frutta per età, peso, movimento, gravidanza e allattamento, con il controllo di 12 nutrienti sui valori FEDIAF e le fonti dei calcoli.
 
 ## Cuccioli e costi
 

@@ -112,6 +112,14 @@ custom_content: |
   </table>
   <p>Altri due errori li vediamo spesso nelle domande delle famiglie. Le ossa cotte non vanno mai date, perché si scheggiano. E le ossa crude, anche se più sicure, possono comunque causare stitichezza, denti rotti o blocchi intestinali, come ricorda la WSAVA.</p>
 
+    <a class="rimando" href="/calcolatore-barf/">
+  <img src="/images/blog/icone/calcolatore-barf.webp" alt="" width="88" height="64" loading="lazy" decoding="async">
+  <span>
+  <span class="ti">Calcolatore BARF</span>
+  <span class="de">Quanta carne, ossa e frattaglie al giorno, con il controllo dei nutrienti e le fonti dei calcoli.</span>
+  </span>
+  </a>
+
     <a class="rimando" href="/calcolatore-crocchette-cane/">
   <img src="/images/blog/icone/calcolatore-crocchette-cane.webp" alt="" width="88" height="64" loading="lazy" decoding="async">
   <span>
@@ -151,6 +159,7 @@ custom_content: |
   <ul>
   <li><a href="/cuccioli-alimentazione-iniziale/" title="Alimentazione iniziale">Alimentazione iniziale del cucciolo</a></li>
   <li><a href="/calcolatore-crocchette-cane/" title="Calcolatore delle crocchette">Calcolatore delle crocchette</a></li>
+  <li><a href="/calcolatore-barf/" title="Calcolatore BARF">Calcolatore BARF</a></li>
   <li><a href="/salute-denti-igiene/" title="Igiene orale e denti">Igiene orale e denti</a></li>
   <li><a href="/salute-esercizio-sicuro/" title="Esercizio sicuro">Esercizio sicuro</a></li>
   </ul>

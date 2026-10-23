@@ -1,7 +1,7 @@
 ---
 title: "How much should a dog eat: kibble calculator with artificial intelligence"
 date: 2026-10-18
-lastmod: 2026-10-19
+lastmod: 2026-10-23
 titleSeo: "How much should I feed my dog? AI dog food calculator"
 translationKey: "calcolatore-crocchette"
 tags:
@@ -202,6 +202,7 @@ custom_content: |
   <h3>Related articles</h3>
   <ul>
   <li><a href="/en/puppy-initial-feeding/" title="Initial feeding">Initial feeding: how much and how often</a></li>
+  <li><a href="/en/barf-calculator/" title="BARF calculator">BARF calculator</a></li>
   <li><a href="/en/staffy-safe-exercise/" title="Safe exercise">Safe exercise: how much and how to move a Staffy</a></li>
   <li><a href="/en/how-long-staffordshire-bull-terrier-lives/" title="How long they live">How long does a Staffordshire Bull Terrier live?</a></li>
   <li><a href="/en/puppy-first-walk/" title="First walk">A puppy's first walk</a></li>

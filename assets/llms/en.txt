@@ -29,6 +29,7 @@ Useful information about this site:
   - [Bilquis × Black Jack litter (August 2026)](https://delpiccolodiavolo.it/en/diario-allevamento/bilquis-black-jack-litter-august-2026/): parents, genetic tests, examinations and the puppies' growth.
   - [Red × Nora litter (February 2026)](https://delpiccolodiavolo.it/en/diario-allevamento/red-nora-litter-february-2026/): parents, genetic tests, examinations and the puppies' growth.
 - [Kibble calculator](https://delpiccolodiavolo.it/en/dog-food-calculator/): grams a day by age, weight and activity, with the calories of 34 foods, the formula to work them out from the bag and an artificial intelligence that reads a photo of the bag.
+- [BARF calculator](https://delpiccolodiavolo.it/en/barf-calculator/): daily grams of meat, tripe, offal, raw meaty bones, vegetables and fruit by age, weight, activity, pregnancy and nursing, with a check of 12 nutrients against FEDIAF values and the sources of the calculations.
 
 ## Puppies and costs
 
