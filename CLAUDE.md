@@ -411,3 +411,8 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
   manganese → `f.a`) e sotto i nutrienti compare «Vitamine e minerali aggiunti» (`addHtml`, testi `AD`): aggiunti ogni 1000 kcal contro il
   minimo FEDIAF («coperto» / «più le materie prime», mai «manca»: il sacco scrive solo la parte aggiunta) e per kg contro il massimo di legge
   UE («troppo»). Le crocchette proposte all'elenco comune si salvano subito come «attesa» e il gestionale le ricontrolla da solo.
+- 23/10/2026 (Paolo, anteprime 16-17): etichette del produttore nell'elenco. Ogni riga di `#pappa-db` ha `data-a` (calcio e fosforo in %,
+  additivi per kg come elemento: `ca:1.1;ph:0.91;va:16000;vd:1600;ve:600;zn:146;cu:14.1;fe:37.5;se:0.4;mn:49.4`) e `data-au` (pagina della fonte),
+  uguali nelle tre lingue; il catalogo del gestionale ha `a`/`au` per 334 crocchette (cercate da Claude il 23/10/2026). Per le crocchette senza
+  etichetta lo script la chiede a `https://gestionale.delpiccolodiavolo.it/api/public/etichetta` (Claude cerca in internet una volta, poi vale per
+  tutti; `pappaEt` nel browser). Anziano sterilizzato 1,3; nel cucciolo sterilizzato una frase spiega che conta la crescita.
