@@ -367,7 +367,7 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
   (POST); Claude le controlla e, se i dati tornano, entrano nell'elenco per tutti (GET della stessa API, aggiunte dallo script all'elenco
   della pagina). Non sono nella tabella `#pappa-db` (Google non le vede): per metterne una nel testo vero, si aggiunge la riga a mano.
 - SEO: `titleSeo` «Quanto deve mangiare un cane…», `tags` (keywords dell'Article), `json_ld` WebApplication, 4 FAQ (FAQPage).
-- 19/10/2026 (Paolo): pagina a sé, non più articolo del Blog. Niente `articolo: true` (niente scheda nel Blog, né «Ultimi articoli», né Blog nel percorso), `notte: true` (grafica del sito; i colori scuri del calcolatore sono in fondo a `notte.css`, la stampa resta chiara), testata con la foto `cucciolo-ritratto-hero.webp`, FAQ `.faq-item active n-faq`. Nel menu: voce «Calcolatore crocchette» sotto «Cuccioli» (chiave i18n `calcolatore`, desktop e telefono). In llms.txt fra le pagine principali. «In breve» compare anche fuori dagli articoli se c'è `in_breve:`.
+- 19/10/2026 (Paolo): pagina a sé, non più articolo del Blog. Niente `articolo: true` (niente scheda nel Blog, né «Ultimi articoli», né Blog nel percorso), `notte: true` (grafica del sito; i colori scuri del calcolatore sono in fondo a `notte.css`, la stampa resta chiara), testata con la foto `cucciolo-ritratto-hero.webp`, FAQ `.faq-item active n-faq`. Nel menu: voce «Calcolatore crocchette» nella voce «Calcolatori» (23/10/2026; prima sotto «Cuccioli»; chiave i18n `calcolatore`, desktop e telefono). In llms.txt fra le pagine principali. «In breve» compare anche fuori dagli articoli se c'è `in_breve:`.
 - 20/10/2026 (Paolo): nuovo aspetto, tutto in una pagina senza «Avanti», colori 2 (riquadri bianchi sulla pagina blu; regole `.pp-nuovo` in fondo a `notte.css`, quelle scure del 19/10 tolte). Cinque riquadri: 1 Età (tendine Mesi 2–11 e Anni 1–7, tasto «Anziano 8+», oppure data di nascita col calendario; sterilizzato solo da adulto), 2 Peso (cuccioli: peso previsto da adulto + peso di oggi facoltativo; adulti: peso di oggi), 3 forma vista dall'alto, 4 movimento (icone a linea), 5 crocchette (ricerca + elenco sempre visibile, la scelta in cima) con il riquadro in risalto «Non trovi le tue crocchette?»: «Fotografa il sacco» (API sacco) e «Scrivi la descrizione» (ricerca per nome, API crocchette), più «scrivo io kcal o componenti». Risultato a destra fisso sul computer, barra in basso sul telefono (solo mentre il calcolatore è sullo schermo); tabella per età in un riquadro sotto. Il motore di calcolo è quello di prima.
 - 23/10/2026 (Paolo, anteprima-05): nel riquadro 1 sempre ♂ Maschio / ♀ Femmina (`S.sex`, `data-sx`) e Sterilizzato/a (prima solo da adulto); con Femmina le taglie danno il peso da adulto ×0,9 (`szKg`). Riquadro 3 con le figure del cane visto dall'alto (`DOGS`, copia di `FD_DOGS` del gestionale; regole `.pp-dog`, `.pp-fig` in fondo a `notte.css`). Tasto «Scrivi la marca delle tue crocchette». Crocchette aggiunte e non confermate ma plausibili: elenco per tutti con `src:"n"` («dati scritti da un utente, non controllati»), vedi CLAUDE.md del gestionale.
 
@@ -385,3 +385,22 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
   (etichetta «Ultima notizia · data», testo fino a ~300 caratteri, bottone «Leggi tutte le notizie» → `/notizie/#post-<id>`).
   Stile scelto (B senza contorno): scheda blu `--n-card` senza bordo, foto intera a sinistra, bottone bianco `.btn`; regole `.ng-*`
   in fondo a `notte.css`.
+
+## Calcolatore BARF e voce «Calcolatori» (23/10/2026, Paolo: anteprime 09-12 approvate)
+- Pagine `calcolatore-barf` / `barf-calculator` / `barf-rechner` (translationKey `calcolatore-barf`, `notte: true`, testata con
+  `hero-barf-staffordshire-bull-terrier.webp`). Script `static/js/calcolatore-barf.js` (testi IT/EN/DE, 34 alimenti USDA SR28 e figure
+  del cane dentro lo script; **dopo ogni modifica cambiare `?v=` nelle tre pagine**). Stile `.bf-*` in fondo a `notte.css`.
+- Motore: calorie 70×peso^0,75 × fattori (come le crocchette); cuccioli, gravidanza (dalla 5ª settimana) e allattamento con le equazioni
+  NRC 2006; ciotola 80/20 (carne .40, trippa .16, fegato .04, altre frattaglie .08, ossa .12, verdure .15, frutta .05), «Non ce l'ho»
+  rinormalizza le quote; controllo di 12 nutrienti sui minimi e massimi FEDIAF 2021 per 1000 kcal; aggiunte di guscio d'uovo, olio di
+  fegato di merluzzo, olio di salmone; iodio, fosforo, zinco, rame, vitamina E «da concordare con il veterinario». Maiale escluso (Aujeszky).
+- Nel risultato ogni alimento ha grammi e kcal; togliendo un alimento povero di calorie i grammi scendono e le kcal restano (frase spiegata).
+- «Prima di cominciare» = `<details class="bf-info bf-prima">` chiuso che lampeggia (animazione `bf-lamp`) finché non si apre
+  (classe `letto`); niente memoria nel browser: a ogni visita lampeggia di nuovo (scelta di Paolo); con «riduci movimento» solo evidenziato.
+  Dopo il calcolatore: «Dopo il calcolo» e «Esonero di responsabilità» (testo vero nella pagina).
+- «Altro…» in ogni tendina degli alimenti: il visitatore scrive l'alimento, `POST https://gestionale.delpiccolodiavolo.it/api/public/alimento`
+  (Claude, valori medi per 100 g crudi; rifiuta maiale, cibi tossici, ossa cotte), l'alimento entra nell'elenco con «(stima IA)» e resta
+  nel browser (localStorage `barfAltro`). Limiti e cache nel gestionale (vedi il suo CLAUDE.md).
+- Menu: voce a sé «Calcolatori» (i18n `calcolatori`, fra Blog e FAQ) con i due calcolatori; al passaggio del cursore `.dd-tip` (icona e
+  due righe, i18n `calcolatoreTip`, `calcolatoreBarfTip`, `calcolatoreBarf`); sul telefono le due righe sono scritte sotto (`.dd-sub`).
+  Desktop e `.mobile-menu` sono copie separate in `header.html`. Fra 768 e 1400 px lo spazio fra le voci è 1rem perché il menu stia su una riga.
