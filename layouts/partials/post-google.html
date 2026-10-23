@@ -1,5 +1,5 @@
 {{- /*
-  post-google.html — pagina «Novità» (23/10/2026, Paolo: scelte 1A pagina visibile a Google e 2A voce nel menu).
+  post-google.html — pagina «Notizie» (prima «Novità») (23/10/2026, Paolo: scelte 1A pagina visibile a Google e 2A voce nel menu).
   I post pubblicati sul profilo Google dal gestionale arrivano qui da soli: il gestionale scrive data/postgoogle.json
   (testo it/en/de, data, foto in static/images/novita-google/, link «Scopri di più») e le foto, con un commit su main.
   Mai a mano. Uso: (partial "post-google.html" (dict "p" . "md" false))
@@ -10,7 +10,7 @@
 {{- $items := slice -}}{{- with $d }}{{ with .items }}{{ $items = sort . "date" "desc" }}{{ end }}{{ end -}}
 {{- $mesi := dict "it" (slice "gennaio" "febbraio" "marzo" "aprile" "maggio" "giugno" "luglio" "agosto" "settembre" "ottobre" "novembre" "dicembre") "en" (slice "January" "February" "March" "April" "May" "June" "July" "August" "September" "October" "November" "December") "de" (slice "Januar" "Februar" "März" "April" "Mai" "Juni" "Juli" "August" "September" "Oktober" "November" "Dezember") -}}
 {{- $piu := cond (eq $lang "en") "Find out more" (cond (eq $lang "de") "Mehr erfahren" "Scopri di più") -}}
-{{- $vuoto := cond (eq $lang "en") "The first news will appear here soon." (cond (eq $lang "de") "Die ersten Neuigkeiten erscheinen hier bald." "Le prime novità arriveranno qui a breve.") -}}
+{{- $vuoto := cond (eq $lang "en") "The first news will appear here soon." (cond (eq $lang "de") "Die ersten Neuigkeiten erscheinen hier bald." "Le prime notizie arriveranno qui a breve.") -}}
 {{- /* le pagine del sito in tutte le lingue, per portare il link del post alla pagina nella lingua di chi legge */ -}}
 {{- $out := "" -}}
 {{- range $items -}}

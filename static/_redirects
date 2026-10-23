@@ -11,6 +11,8 @@
 # alcun errore. Le regole nuove vanno aggiunte QUI SOPRA, fra le statiche.
 
 # ---------- STATICHE: aggiungi qui ----------
+/novita/ /notizie/ 301
+/novita /notizie/ 301
 /about-us /en/about-us/ 301
 /males-staffordshire-bull-terrier /en/males-staffordshire-bull-terrier/ 301
 /females-staffordshire-bull-terrier /en/females-staffordshire-bull-terrier/ 301
