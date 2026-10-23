@@ -64,7 +64,7 @@ custom_content: |
   </details>
 
   <div id="barf"><noscript>The calculator needs JavaScript. Without it, you can do the sums by hand with the formulas below.</noscript></div>
-  <script src="/js/calcolatore-barf.js?v=20261023-2000" defer></script>
+  <script src="/js/calcolatore-barf.js?v=20261023-2300" defer></script>
 
   <div class="bf-info bf-dopo">
   <!--BLOCCO:2-->
@@ -86,7 +86,7 @@ custom_content: |
   <!--BLOCCO:3-->
   <h2>The formulas</h2>
   <ul>
-  <li><strong>Adult</strong> = 70 × weight<sup>0.75</sup> × 1.8 (entire), 1.6 (neutered) or 1.4 (senior) × activity: 0.85 calm, 1 normal, 1.25 very active, 1.6 sport or work</li>
+  <li><strong>Adult</strong> = 70 × weight<sup>0.75</sup> × 1.8 (entire), 1.6 (neutered), 1.4 (senior) or 1.3 (neutered senior) × activity: 0.85 calm, 1 normal, 1.25 very active, 1.6 sport or work</li>
   <li><strong>Shape seen from above</strong>: +10% if thin, −10% if overweight</li>
   <li><strong>Puppy</strong> = 130 × weight<sup>0.75</sup> × 3.2 × (e<sup>−0.87 × p</sup> − 0.1), with p = today's weight ÷ expected adult weight; without today's weight, it is estimated from the age</li>
   <li><strong>Pregnancy</strong>, from week five = 132 × weight<sup>0.75</sup> + 26 × weight</li>
