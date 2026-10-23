@@ -407,3 +407,7 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
 - 23/10/2026 (Paolo, anteprima-13): sotto i grammi la tabella «Nutrienti ogni 1000 kcal» (`protHtml`, testi `NT`): proteine e grassi dai
   componenti analitici, calcio, fosforo e Ca:P solo se scritti (caselle `pp-ca`, `pp-ph` del modulo «Ho il sacco…» o foto del sacco, che ora
   restituisce `ca`/`ph`), minimi e massimi FEDIAF per età; stato ok / al limite / manca / troppo in rosso; riga sulle vitamine («completo»).
+- 23/10/2026 (Paolo, anteprima-15): la foto del sacco legge anche gli additivi per kg (vitamine A, D3, E; zinco, rame, iodio, ferro, selenio,
+  manganese → `f.a`) e sotto i nutrienti compare «Vitamine e minerali aggiunti» (`addHtml`, testi `AD`): aggiunti ogni 1000 kcal contro il
+  minimo FEDIAF («coperto» / «più le materie prime», mai «manca»: il sacco scrive solo la parte aggiunta) e per kg contro il massimo di legge
+  UE («troppo»). Le crocchette proposte all'elenco comune si salvano subito come «attesa» e il gestionale le ricontrolla da solo.
