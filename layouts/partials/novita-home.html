@@ -12,6 +12,7 @@
   {{- $p := index (sort . "date" "desc") 0 -}}
   {{- $t := index $p $lang | default $p.it -}}
   {{- $alt := "" -}}{{- with $p.alt }}{{ $alt = index . $lang | default .it | default "" }}{{ end -}}
+  {{- if not $alt }}{{ $alt = cond (eq $lang "en") "Photo from the Del Piccolo Diavolo kennel" (cond (eq $lang "de") "Foto aus der Zucht Del Piccolo Diavolo" "Foto dell'allevamento Del Piccolo Diavolo") }}{{ end -}}
   {{- $mesi := dict "it" (slice "gennaio" "febbraio" "marzo" "aprile" "maggio" "giugno" "luglio" "agosto" "settembre" "ottobre" "novembre" "dicembre") "en" (slice "January" "February" "March" "April" "May" "June" "July" "August" "September" "October" "November" "December") "de" (slice "Januar" "Februar" "März" "April" "Mai" "Juni" "Juli" "August" "September" "Oktober" "November" "Dezember") -}}
   {{- $dt := time $p.date -}}{{- $m := index (index $mesi $lang) (sub (int ($dt.Format "1")) 1) -}}
   {{- $data := cond (eq $lang "en") (printf "%s %s, %s" $m ($dt.Format "2") ($dt.Format "2006")) (cond (eq $lang "de") (printf "%s. %s %s" ($dt.Format "2") $m ($dt.Format "2006")) (printf "%s %s %s" ($dt.Format "2") $m ($dt.Format "2006"))) -}}

@@ -16,6 +16,7 @@
 {{- range $items -}}
   {{- $t := index . $lang | default .it -}}
   {{- $alt := "" -}}{{- with .alt }}{{ $alt = index . $lang | default .it | default "" }}{{ end -}}
+  {{- if not $alt }}{{ $alt = cond (eq $lang "en") "Photo from the Del Piccolo Diavolo kennel" (cond (eq $lang "de") "Foto aus der Zucht Del Piccolo Diavolo" "Foto dell'allevamento Del Piccolo Diavolo") }}{{ end -}}
   {{- $dt := time .date -}}
   {{- $data := "" -}}
   {{- $m := index (index $mesi $lang) (sub (int ($dt.Format "1")) 1) -}}
