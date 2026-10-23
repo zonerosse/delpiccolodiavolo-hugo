@@ -64,7 +64,7 @@ custom_content: |
   </details>
 
   <div id="barf"><noscript>Der Rechner braucht JavaScript. Ohne lässt sich die Rechnung mit den Formeln unten von Hand machen.</noscript></div>
-  <script src="/js/calcolatore-barf.js?v=20261023-1900" defer></script>
+  <script src="/js/calcolatore-barf.js?v=20261023-2000" defer></script>
 
   <div class="bf-info bf-dopo">
   <!--BLOCCO:2-->

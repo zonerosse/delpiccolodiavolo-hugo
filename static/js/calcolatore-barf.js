@@ -42,6 +42,7 @@ de:{eta:["Welpe (unter 12 Monaten)","Erwachsen","Senior 8+"],m:"♂ Rüde",f:"�
  vet:"Mit dem Tierarzt abzusprechen",miss:"es fehlen etwa ",perDay:" pro Tag",io:"Jod",ioH:" (meist mit Algen: µg pro Gramm auf dem Etikett lesen)",ph:"Phosphor",phH:" (der Anteil fleischiger Knochen lässt sich erhöhen: den Tierarzt fragen, wie)",zn:"Zink",cu:"Kupfer",ve:"Vitamin E",veH:" (mit Fischöl braucht es mehr)",
  nut:"Nährstoffe pro 1000 kcal, mit den Zugaben",inb:"im Napf",min:"Minimum",rows:["Eiweiß","Fett","Kalzium","Phosphor","Kalzium : Phosphor","Zink","Kupfer","Jod","Vitamin A","Vitamin D","Vitamin E","Omega-3 EPA+DHA"],
  ok:"ok",lim:"knapp",ko:"fehlt",hi:"zu viel",av:"Eine Schätzung auf Basis von Durchschnittswerten: kein verschriebener Futterplan. Von einem Ernährungstierarzt prüfen lassen."}}[L];
+var IU={it:"UI",en:"IU",de:"IE"}[L];
 var SHARE={carne:.40,trippa:.16,fegato:.04,organi:.08,ossa:.12,verdure:.15,frutta:.05};
 var ACTF=[.85,1,1.25,1.6];
 var STD={a95:{p:52.1,f:13.75,ca:1.45,ph:1.16,zn:20.8,cu:2.08,io:.30,va:1754,vd:159,ve:10.4},a110:{p:45,f:13.75,ca:1.25,ph:1,zn:18,cu:1.8,io:.26,va:1515,vd:138,ve:9},
@@ -63,7 +64,7 @@ function ch(id,opts,on){return '<div class="bf-ch" id="'+id+'">'+opts.map(functi
 function blk(n,inner){return '<div class="bf-blk"><h2 class="bf-h">'+n+'. '+T.b[n-1]+'</h2>'+inner+'</div>'}
 box.classList.add("bf");
 box.innerHTML='<div class="bf-grid"><div>'+
- blk(1,ch("bf-eta",[["pup",T.eta[0]],["ad",T.eta[1]],["old",T.eta[2]]],"ad")+ch("bf-sx",[["m",T.m],["f",T.f]],"m")+ch("bf-st",[["0",T.noSt],["1",T.siSt]],"0")+
+ blk(1,ch("bf-eta",[["pup",T.eta[0]],["ad",T.eta[1]],["old",T.eta[2]]],S.eta)+ch("bf-sx",[["m",T.m],["f",T.f]],S.sx)+ch("bf-st",[["0",T.noSt],["1",T.siSt]],String(S.st))+
   '<div id="bf-fem" hidden><span class="bf-l">'+T.mom+'</span>'+ch("bf-rep",[["no",T.rep[0]],["gr",T.rep[1]],["lat",T.rep[2]]],"no")+
   '<div id="bf-latd" class="bf-row" hidden><label class="bf-l">'+T.np+'<select id="bf-np">'+[1,2,3,4,5,6,7,8,9,10,11,12].map(function(n){return '<option'+(n===6?' selected':'')+'>'+n+'</option>'}).join("")+'</select></label><label class="bf-l">'+T.wk+'<select id="bf-wk">'+T.wkn.map(function(w,i){return '<option value="'+(i+1)+'"'+(i===3?' selected':'')+'>'+w+'</option>'}).join("")+'</select></label></div></div>')+
  blk(2,'<div id="bf-peso"></div>')+
@@ -103,10 +104,10 @@ function draw(){var r=$("bf-res"),N=need();if(!N){r.innerHTML='<p>'+T.noW+'</p>'
  if(P.ph<R.ph*.9)vet.push(T.ph+': '+T.miss+'<b>'+Math.round((R.ph-P.ph)*k*1000)+' mg</b>'+T.perDay+T.phH);
  if(P.zn<R.zn*.9)vet.push(T.zn+': '+T.miss+'<b>'+dec((R.zn-P.zn)*k,1)+' mg</b>'+T.perDay);
  if(P.cu<R.cu*.9)vet.push(T.cu+': '+T.miss+'<b>'+dec((R.cu-P.cu)*k,2)+' mg</b>'+T.perDay);
- if(P.ve<R.ve*.9)vet.push(T.ve+': '+T.miss+'<b>'+dec((R.ve-P.ve)*k,1)+' UI</b>'+T.perDay+T.veH);
+ if(P.ve<R.ve*.9)vet.push(T.ve+': '+T.miss+'<b>'+dec((R.ve-P.ve)*k,1)+' '+IU+'</b>'+T.perDay+T.veH);
  var g2=(N.kc-add.kc)/dens,T2=tot(g2);T2.ca+=add.ca*1000;T2.vd+=add.vd;T2.va+=add.va;T2.o3+=add.o3/1.49*1.49;var P2=per(T2,N.kc);P2.o3=per(tot(g2),N.kc).o3+add.o3/k;
  function st(v,min,max){if(max!=null&&v>max)return'<span class="bf-st bf-ko">'+T.hi+'</span>';if(min==null||v>=min)return'<span class="bf-st bf-ok">'+T.ok+'</span>';if(v>=min*.9)return'<span class="bf-st bf-lim">'+T.lim+'</span>';return'<span class="bf-st bf-ko">'+T.ko+'</span>'}
- var rows=[[P2.p,"g",R.p],[P2.f,"g",R.f],[P2.ca,"g",R.ca,caMax],[P2.ph,"g",R.ph,big?4:null],[P2.ca/P2.ph,"",1,rMax],[P2.zn,"mg",R.zn],[P2.cu,"mg",R.cu],[P2.io,"mg",R.io],[P2.va,"UI",R.va,100000],[P2.vd,"UI",R.vd,800],[P2.ve,"UI",R.ve],[P2.o3,"g",R.o3||null]];
+ var rows=[[P2.p,"g",R.p],[P2.f,"g",R.f],[P2.ca,"g",R.ca,caMax],[P2.ph,"g",R.ph,big?4:null],[P2.ca/P2.ph,"",1,rMax],[P2.zn,"mg",R.zn],[P2.cu,"mg",R.cu],[P2.io,"mg",R.io],[P2.va,IU,R.va,100000],[P2.vd,IU,R.vd,800],[P2.ve,IU,R.ve],[P2.o3,"g",R.o3||null]];
  var tb=rows.map(function(x,i){var v=x[0],d=v>=100?Math.round(v):v>=10?dec(v,1):dec(v,2),mi=x[2]==null?"–":(x[2]>=100?Math.round(x[2]):dec(x[2]));return '<tr><td>'+T.rows[i]+'</td><td class="bf-r">'+d+' '+x[1]+'</td><td class="bf-r">'+mi+'</td><td class="bf-r">'+st(v,x[2],x[3])+'</td></tr>'}).join("");
  var ml=N.pup||S.rep==='lat'?3:2,comp=Object.keys(SH).map(function(c){var gg=g2*SH[c];return '<tr><td>'+nm(S.ing[c])+'</td><td class="bf-r">'+Math.round(gg/5)*5+' g</td><td class="bf-r bf-k">'+Math.round(gg*D.F[S.ing[c]].kcal/100)+' kcal</td></tr>'}).join(""),
   manca=Object.keys(SHARE).filter(function(c){return!S.ing[c]}).map(function(c){return L==='de'?T.cat[c]:T.cat[c].toLowerCase()});
