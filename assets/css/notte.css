@@ -563,3 +563,17 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .notte-pagina .pg-hero h1 em{color:var(--n-go,#f0cc86)}
 .notte-pagina main .pg-hero p{max-width:680px;margin:0 0 .6rem}
 @media(max-width:720px){.notte-pagina .pg-hero{padding-top:90px}}
+
+/* Home: riquadro «Novità» della cucciolata / ultima notizia dal profilo Google (23/10/2026, stile Notte) */
+.notte-pagina .ng-sez{padding-top:2.2rem;padding-bottom:2.2rem}
+.notte-pagina .ng-home{max-width:960px;margin:0 auto;display:grid;grid-template-columns:minmax(0,240px) minmax(0,1fr);gap:2rem;align-items:center}
+.notte-pagina .ng-home:not(:has(.ng-foto)){grid-template-columns:minmax(0,1fr)}
+.notte-pagina .ng-foto{background:#1f2d42;border-radius:10px;display:flex;align-items:center;justify-content:center;height:260px;overflow:hidden}
+.notte-pagina .ng-foto img{max-width:100%;max-height:260px;width:auto;height:auto;object-fit:contain;display:block}
+.notte-pagina main .ng-home .ng-eti{margin:0 0 .6rem;font-size:.75rem!important;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:#f0cc86!important}
+.notte-pagina main .ng-home .ng-eti span{opacity:.6;margin:0 .3em}
+.notte-pagina main .ng-home h2{font-family:Georgia,serif;font-weight:400;color:#fff!important;font-size:clamp(1.5rem,3vw,2rem)!important;line-height:1.2;margin:0 0 .6rem}
+.notte-pagina main .ng-home .ng-txt{margin:0 0 1.1rem;color:#d6dde6!important;line-height:1.6}
+/* Scheda blu un po' più chiara del fondo, senza contorno, bottone bianco del sito (scelta B di Paolo, 23/10/2026) */
+.notte-pagina .ng-home{background:var(--n-card,#354a63);border-radius:14px;padding:1.4rem}
+@media(max-width:720px){.notte-pagina .ng-home{grid-template-columns:minmax(0,1fr);gap:1.1rem}.notte-pagina .ng-foto{height:auto;max-height:62vh}.notte-pagina .ng-foto img{max-height:62vh}}

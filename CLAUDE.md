@@ -379,3 +379,8 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
   quando Paolo apre, pubblica o elimina un post su Google). Mai modificarli a mano. `lastmod` della pagina = `updated` del file
   (`partials/pagine/lastmod.html`).
 - Menu: voce `T "novita"` dopo il Diario, desktop e telefono. llms.txt: riga dopo `<!--DIARIO-GESTIONALE-->`.
+- Home (23/10/2026, Paolo): lo stesso riquadro di `<!--NOVITA-->` (`partials/novita-home.html`) mostra la cucciolata se
+  `data/novita.json` ha `show:true` («Novità in Home» del gestionale), altrimenti l'ultimo post di `data/postgoogle.json`
+  (etichetta «Ultima notizia · data», testo fino a ~300 caratteri, bottone «Leggi tutte le notizie» → `/notizie/#post-<id>`).
+  Stile scelto (B senza contorno): scheda blu `--n-card` senza bordo, foto intera a sinistra, bottone bianco `.btn`; regole `.ng-*`
+  in fondo a `notte.css`.

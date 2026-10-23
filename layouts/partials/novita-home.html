@@ -1,22 +1,36 @@
-{{- /* Novità in Home (riquadro dorato subito dopo la foto grande), ottobre 2026.
-       La scrive il gestionale in data/novita.json con "🌐 Pubblica sul sito": interruttore "Novità in Home" nella
-       Scheda della cucciolata. show=false (o file assente) → niente riquadro. Testi in it/en/de già pronti nel file;
-       url = pagina del Diario o scheda nel Programma. Stesso stile di ultima-cucciolata.html. */ -}}
+{{- /* Riquadro in Home subito dopo la foto grande (ottobre 2026), nello stile Notte (23/10/2026).
+       Precedenze (Paolo, 23/10/2026): se nel gestionale è accesa «Novità in Home» di una cucciolata (data/novita.json,
+       show=true) si vede quella; se è spenta, al suo posto l'ultimo post del profilo Google (data/postgoogle.json, scritto
+       dal gestionale con /api/sitepost). Stesso riquadro, stesso posto. Nessuno dei due → niente. */ -}}
+{{- $lang := site.Language.Lang -}}
+{{- $r := dict -}}
 {{- with site.Data.novita -}}{{- if .show -}}
-{{- $n := . -}}{{- $L := index $n site.Language.Lang | default (index $n "it") -}}
-{{- with $L -}}
-<section class="section" style="background:linear-gradient(135deg,rgba(201,162,39,0.10),rgba(92,74,58,0.05));">
+  {{- $n := . -}}{{- $L := index . $lang | default (index . "it") -}}
+  {{- with $L -}}{{- $r = dict "eti" .badge "tit" .title "txt" .desc "url" .url "cta" .cta "img" ($n.img | default "") "alt" .alt "data" "" "iso" "" -}}{{- end -}}
+{{- end -}}{{- end -}}
+{{- if not $r -}}{{- with site.Data.postgoogle -}}{{- with .items -}}
+  {{- $p := index (sort . "date" "desc") 0 -}}
+  {{- $t := index $p $lang | default $p.it -}}
+  {{- $alt := "" -}}{{- with $p.alt }}{{ $alt = index . $lang | default .it | default "" }}{{ end -}}
+  {{- $mesi := dict "it" (slice "gennaio" "febbraio" "marzo" "aprile" "maggio" "giugno" "luglio" "agosto" "settembre" "ottobre" "novembre" "dicembre") "en" (slice "January" "February" "March" "April" "May" "June" "July" "August" "September" "October" "November" "December") "de" (slice "Januar" "Februar" "März" "April" "Mai" "Juni" "Juli" "August" "September" "Oktober" "November" "Dezember") -}}
+  {{- $dt := time $p.date -}}{{- $m := index (index $mesi $lang) (sub (int ($dt.Format "1")) 1) -}}
+  {{- $data := cond (eq $lang "en") (printf "%s %s, %s" $m ($dt.Format "2") ($dt.Format "2006")) (cond (eq $lang "de") (printf "%s. %s %s" ($dt.Format "2") $m ($dt.Format "2006")) (printf "%s %s %s" ($dt.Format "2") $m ($dt.Format "2006"))) -}}
+  {{- $breve := $t -}}{{- if gt (len $t) 320 }}{{ $breve = printf "%s…" (truncate 300 "" $t) }}{{ end -}}
+  {{- $pag := cond (eq $lang "en") "news/" (cond (eq $lang "de") "neuigkeiten/" "notizie/") -}}
+  {{- $r = dict "eti" (cond (eq $lang "en") "Latest news" (cond (eq $lang "de") "Neueste Nachricht" "Ultima notizia")) "tit" "" "txt" $breve "url" (printf "%s#post-%s" $pag $p.id | relLangURL) "cta" (cond (eq $lang "en") "Read all the news" (cond (eq $lang "de") "Alle Neuigkeiten lesen" "Leggi tutte le notizie")) "img" ($p.img | default "") "alt" $alt "data" $data "iso" ($dt.Format "2006-01-02") -}}
+{{- end -}}{{- end -}}{{- end -}}
+{{- with $r -}}
+<section class="section ng-sez">
 <div class="section-inner">
-<div style="max-width:900px;margin:0 auto;display:flex;flex-wrap:wrap;align-items:center;gap:1.8rem;background:#fff;border:2px solid #c9a227;border-radius:18px;box-shadow:0 14px 45px rgba(0,0,0,0.12);padding:1.5rem;">
-{{ with $n.img }}<img src="{{ . }}" alt="{{ $L.alt }}" width="435" height="480" loading="lazy" decoding="async" style="width:260px;max-width:100%;height:auto;border-radius:14px;flex-shrink:0;">{{ end }}
-<div style="flex:1;min-width:260px;">
-<span style="display:inline-block;background:#c9a227;color:#1a1a1a;font-weight:700;text-transform:uppercase;letter-spacing:0.05em;font-size:0.8rem;padding:0.35rem 0.9rem;border-radius:20px;margin-bottom:0.7rem;">{{ .badge }}</span>
-<h2 style="margin:0.2rem 0 0.5rem;color:#1f2d42;font-size:1.6rem;line-height:1.25;">{{ .title }}</h2>
-<p style="margin:0 0 1.1rem;color:#2b3747;line-height:1.6;">{{ .desc }}</p>
-<a href="{{ .url }}" class="btn btn-primary" title="{{ .cta }}">{{ .cta }}</a>
+<div class="ng-home">
+{{ with .img }}<div class="ng-foto"><img src="{{ . }}" alt="{{ $r.alt }}" loading="lazy" decoding="async"></div>{{ end }}
+<div class="ng-testo">
+<p class="ng-eti">{{ .eti }}{{ with .data }} <span>·</span> <time datetime="{{ $r.iso }}">{{ . }}</time>{{ end }}</p>
+{{ with .tit }}<h2>{{ . }}</h2>{{ end }}
+<p class="ng-txt">{{ replace (.txt | htmlEscape) "\n" "<br>" | safeHTML }}</p>
+<a href="{{ .url }}" class="ng-cta btn btn-primary">{{ .cta }}</a>
 </div>
 </div>
 </div>
 </section>
 {{- end -}}
-{{- end -}}{{- end -}}
