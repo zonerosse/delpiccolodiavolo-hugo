@@ -653,3 +653,16 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 @media(min-width:1200px){.nav-links>li>a,.nav-links .dropdown-trigger{white-space:nowrap}}
 .dropdown-menu .dd-tip img{width:88px}
 .mobile-dropdown .dd-sub{max-width:250px;margin:2px auto 0;text-align:center;font-family:system-ui,-apple-system,"Segoe UI",sans-serif}
+/* Calcolatore crocchette: controllo dei nutrienti (23/10/2026) */
+.pp-nuovo .pp-nut{text-align:left;margin-top:10px;display:flex;flex-direction:column;gap:6px}
+.notte-pagina main .pp-nuovo .pp-nut>b{font-size:.78rem;letter-spacing:.1em;text-transform:uppercase;color:#1f4f82}
+.notte-pagina main .pp-nuovo .pp-nut>span{font-size:.84rem;line-height:1.45;color:#4a5768}
+.notte-pagina main .pp-nuovo .pp-nut>span.pp-low{color:#a3361f;font-weight:700}
+.pp-nuovo .pp-ntw{overflow-x:auto;max-width:100%}
+.notte-pagina main .pp-nuovo .pp-nut table{display:table;width:100%!important;max-width:none;margin:0;border:0!important;border-collapse:collapse;background:#fff!important;font-size:.86rem;box-shadow:none}
+.notte-pagina main .pp-nuovo .pp-nut td,.notte-pagina main .pp-nuovo .pp-nut th{padding:5px 4px;border:0;border-bottom:1px solid #e6ebf1!important;background:#fff!important;color:#1f2d42!important;text-align:left;min-width:0;width:auto;white-space:normal}
+.notte-pagina main .pp-nuovo .pp-nut th{font-size:.72rem;color:#4a5768!important}
+.notte-pagina main .pp-nuovo .pp-nut .pp-n{text-align:right;white-space:nowrap}
+.notte-pagina main .pp-nuovo .pp-nut th.pp-n{white-space:normal}
+.notte-pagina main .pp-nuovo .pp-st{font-size:.75rem;font-weight:700;white-space:nowrap}
+.notte-pagina main .pp-nuovo .pp-okk{color:#2e6b34!important}.notte-pagina main .pp-nuovo .pp-lim{color:#8a5a12!important}.notte-pagina main .pp-nuovo .pp-ko{color:#a3361f!important}
