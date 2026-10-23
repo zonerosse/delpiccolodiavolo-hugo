@@ -18,6 +18,7 @@
 {{- if not $c }}{{ $c = .Content }}{{ end -}}
 {{- $c = partial "pagine/applica.html" (dict "p" . "c" (string $c)) -}}
 {{- $c = replace $c "<!--CUCCIOLATE-->" (partial "cucciolate.html" (dict "p" .)) -}}
+{{- if in $c "<!--POST-GOOGLE-->" }}{{ $c = replace $c "<!--POST-GOOGLE-->" (partial "post-google.html" (dict "p" . "md" true)) }}{{ end -}}
 {{- $c = replace $c "<!--ULTIMA-CUCCIOLATA-->" (cond (partial "ultima-cucciolata-doppia.html" .) "" (partial "ultima-cucciolata-scheda.html" .)) -}}
 {{- range $i, $m := (findRE `<!--ESPOSIZIONI(:[A-Za-z0-9_-]+)?-->` $c) -}}
 {{- $c = replace $c $m (partial "esposizioni.html" (dict "p" $ "k" (replaceRE `^<!--ESPOSIZIONI:?([A-Za-z0-9_-]*)-->$` "$1" $m) "first" false)) -}}

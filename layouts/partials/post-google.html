@@ -1,0 +1,39 @@
+{{- /*
+  post-google.html — pagina «Novità» (23/10/2026, Paolo: scelte 1A pagina visibile a Google e 2A voce nel menu).
+  I post pubblicati sul profilo Google dal gestionale arrivano qui da soli: il gestionale scrive data/postgoogle.json
+  (testo it/en/de, data, foto in static/images/novita-google/, link «Scopri di più») e le foto, con un commit su main.
+  Mai a mano. Uso: (partial "post-google.html" (dict "p" . "md" false))
+*/ -}}
+{{- $p := .p -}}{{- $md := .md -}}
+{{- $lang := $p.Site.Language.Lang -}}
+{{- $d := site.Data.postgoogle -}}
+{{- $items := slice -}}{{- with $d }}{{ with .items }}{{ $items = sort . "date" "desc" }}{{ end }}{{ end -}}
+{{- $mesi := dict "it" (slice "gennaio" "febbraio" "marzo" "aprile" "maggio" "giugno" "luglio" "agosto" "settembre" "ottobre" "novembre" "dicembre") "en" (slice "January" "February" "March" "April" "May" "June" "July" "August" "September" "October" "November" "December") "de" (slice "Januar" "Februar" "März" "April" "Mai" "Juni" "Juli" "August" "September" "Oktober" "November" "Dezember") -}}
+{{- $piu := cond (eq $lang "en") "Find out more" (cond (eq $lang "de") "Mehr erfahren" "Scopri di più") -}}
+{{- $vuoto := cond (eq $lang "en") "The first news will appear here soon." (cond (eq $lang "de") "Die ersten Neuigkeiten erscheinen hier bald." "Le prime novità arriveranno qui a breve.") -}}
+{{- /* le pagine del sito in tutte le lingue, per portare il link del post alla pagina nella lingua di chi legge */ -}}
+{{- $out := "" -}}
+{{- range $items -}}
+  {{- $t := index . $lang | default .it -}}
+  {{- $alt := "" -}}{{- with .alt }}{{ $alt = index . $lang | default .it | default "" }}{{ end -}}
+  {{- $dt := time .date -}}
+  {{- $data := "" -}}
+  {{- $m := index (index $mesi $lang) (sub (int ($dt.Format "1")) 1) -}}
+  {{- if eq $lang "en" }}{{ $data = printf "%s %s, %s" $m ($dt.Format "2") ($dt.Format "2006") }}{{ else if eq $lang "de" }}{{ $data = printf "%s. %s %s" ($dt.Format "2") $m ($dt.Format "2006") }}{{ else }}{{ $data = printf "%s %s %s" ($dt.Format "2") $m ($dt.Format "2006") }}{{ end -}}
+  {{- $url := "" -}}
+  {{- with .url -}}
+    {{- $path := replaceRE `^https://delpiccolodiavolo\.it` "" . -}}{{- $url = $path -}}
+    {{- range site.Sites -}}{{- range .RegularPages -}}{{- if eq .RelPermalink $path -}}{{- range .AllTranslations -}}{{- if eq .Language.Lang $lang -}}{{- $url = .RelPermalink -}}{{- end -}}{{- end -}}{{- end -}}{{- end -}}{{- end -}}
+  {{- end -}}
+  {{- if $md -}}
+    {{- $out = printf "%s\n### %s\n\n%s\n%s\n" $out $data $t (cond (ne $url "") (printf "\n[%s](%s)\n" $piu ($url | absURL)) "") -}}
+  {{- else -}}
+    {{- $img := "" -}}
+    {{- with .img }}{{ $img = printf `<div class="pg-foto"><img src="%s" alt="%s" loading="lazy" decoding="async"></div>` . ($alt | htmlEscape) }}{{ end -}}
+    {{- $lnk := "" -}}{{- with $url }}{{ $lnk = printf `<a class="pg-piu" href="%s">%s →</a>` . $piu }}{{ end -}}
+    {{- $out = printf `%s<article class="pg-post%s" id="post-%s">%s<div class="pg-testo"><time datetime="%s">%s</time><p>%s</p>%s</div></article>` $out (cond (eq $img "") " pg-solo" "") .id $img ($dt.Format "2006-01-02") $data ((replace ($t | htmlEscape) "\n" "<br>") ) $lnk -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $items -}}{{- $out = cond $md (printf "\n%s\n" $vuoto) (printf `<p class="pg-vuoto">%s</p>` $vuoto) -}}{{- end -}}
+{{- if not $md }}{{ $out = printf `<div class="pg-elenco">%s</div>` $out }}{{ end -}}
+{{- return $out -}}

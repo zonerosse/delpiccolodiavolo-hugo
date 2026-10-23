@@ -544,3 +544,22 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .notte-pagina .n-foto3 img{height:340px;width:100%;object-fit:contain;background:#1f2d42;flex:none}
 .notte-pagina .n-foto3 figcaption{position:static;background:none;padding:1rem 1.1rem 1.2rem}
 @media (max-width:860px){.notte-pagina .n-foto3{grid-template-columns:minmax(0,1fr)}.notte-pagina .n-foto3 figure{height:auto}.notte-pagina .n-foto3 img{height:auto;max-height:62vh}}
+
+/* Pagina Novità: i post del profilo Google arrivati dal gestionale (23/10/2026, Paolo: anteprima 01, scelte 1A e 2A) */
+.notte-pagina .pg-wrap{max-width:1040px;margin:0 auto;padding:10px 1.5rem 60px}
+.notte-pagina .pg-post{display:grid;grid-template-columns:minmax(0,320px) minmax(0,1fr);gap:26px;padding:26px 0;border-top:1px solid var(--n-ln,#4a6080)}
+.notte-pagina .pg-post.pg-solo{grid-template-columns:minmax(0,1fr)}
+.notte-pagina .pg-foto{background:#1f2d42;border-radius:10px;overflow:hidden;height:260px;display:flex;align-items:center;justify-content:center}
+.notte-pagina .pg-foto img{max-width:100%;max-height:100%;width:auto;height:auto;object-fit:contain;display:block}
+.notte-pagina .pg-testo time{display:block;font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;color:var(--n-go,#f0cc86);font-weight:700;margin-bottom:.3rem}
+.notte-pagina main .pg-testo p{margin:0 0 .6rem}
+.notte-pagina .pg-piu{font-weight:700}
+.notte-pagina main .pg-vuoto{padding:26px 0;border-top:1px solid var(--n-ln,#4a6080);margin:0}
+.notte-pagina .pg-fine{border-top:1px solid var(--n-ln,#4a6080);padding-top:24px;text-align:center}
+@media(max-width:720px){.notte-pagina .pg-post{grid-template-columns:minmax(0,1fr);gap:12px}.notte-pagina .pg-foto{height:auto;max-height:62vh}.notte-pagina .pg-foto img{max-height:62vh}}
+.notte-pagina .pg-hero{max-width:1040px;margin:0 auto;padding:110px 1.5rem 18px}
+.notte-pagina .pg-hero .hero-eyebrow{display:block;font-size:.75rem;letter-spacing:.2em;text-transform:uppercase;color:var(--n-go,#f0cc86);font-weight:700}
+.notte-pagina main .pg-hero h1{font-family:Georgia,serif;font-weight:400;font-size:clamp(2rem,5vw,3rem)!important;color:#fff!important;margin:.3rem 0 .8rem;line-height:1.15}
+.notte-pagina .pg-hero h1 em{color:var(--n-go,#f0cc86)}
+.notte-pagina main .pg-hero p{max-width:680px;margin:0 0 .6rem}
+@media(max-width:720px){.notte-pagina .pg-hero{padding-top:90px}}

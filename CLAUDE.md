@@ -369,3 +369,13 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
 - SEO: `titleSeo` «Quanto deve mangiare un cane…», `tags` (keywords dell'Article), `json_ld` WebApplication, 4 FAQ (FAQPage).
 - 19/10/2026 (Paolo): pagina a sé, non più articolo del Blog. Niente `articolo: true` (niente scheda nel Blog, né «Ultimi articoli», né Blog nel percorso), `notte: true` (grafica del sito; i colori scuri del calcolatore sono in fondo a `notte.css`, la stampa resta chiara), testata con la foto `cucciolo-ritratto-hero.webp`, FAQ `.faq-item active n-faq`. Nel menu: voce «Calcolatore crocchette» sotto «Cuccioli» (chiave i18n `calcolatore`, desktop e telefono). In llms.txt fra le pagine principali. «In breve» compare anche fuori dagli articoli se c'è `in_breve:`.
 - 20/10/2026 (Paolo): nuovo aspetto, tutto in una pagina senza «Avanti», colori 2 (riquadri bianchi sulla pagina blu; regole `.pp-nuovo` in fondo a `notte.css`, quelle scure del 19/10 tolte). Cinque riquadri: 1 Età (tendine Mesi 2–11 e Anni 1–7, tasto «Anziano 8+», oppure data di nascita col calendario; sterilizzato solo da adulto), 2 Peso (cuccioli: peso previsto da adulto + peso di oggi facoltativo; adulti: peso di oggi), 3 forma vista dall'alto, 4 movimento (icone a linea), 5 crocchette (ricerca + elenco sempre visibile, la scelta in cima) con il riquadro in risalto «Non trovi le tue crocchette?»: «Fotografa il sacco» (API sacco) e «Scrivi la descrizione» (ricerca per nome, API crocchette), più «scrivo io kcal o componenti». Risultato a destra fisso sul computer, barra in basso sul telefono (solo mentre il calcolatore è sullo schermo); tabella per età in un riquadro sotto. Il motore di calcolo è quello di prima.
+
+## Novità: i post del profilo Google (23/10/2026, Paolo: pagina visibile a Google, voce nel menu dopo «Diario Allevamento»)
+- Pagine `content/it/novita.md` (`/novita/`), `content/en/news.md` (`/en/news/`), `content/de/neuigkeiten.md` (`/de/neuigkeiten/`),
+  translationKey `novita-google`, `notte: true`, `postgoogle: true`. Segnaposto `<!--POST-GOOGLE-->` → `partials/post-google.html`
+  (sostituito in `single.html` e `single.md`): post dal più recente, data nella lingua della pagina, foto intera, testo
+  tradotto, «Scopri di più» portato alla stessa pagina nella lingua del lettore (via translationKey). Nessun post → frase vuota.
+- Dati: `data/postgoogle.json` + foto in `static/images/novita-google/`, **scritti solo dal gestionale** (`/api/sitepost`, da solo
+  quando Paolo apre, pubblica o elimina un post su Google). Mai modificarli a mano. `lastmod` della pagina = `updated` del file
+  (`partials/pagine/lastmod.html`).
+- Menu: voce `T "novita"` dopo il Diario, desktop e telefono. llms.txt: riga dopo `<!--DIARIO-GESTIONALE-->`.

@@ -2,4 +2,6 @@
 {{- $lm := .Lastmod -}}
 {{- $m := partial "pagine/mod.html" . -}}
 {{- with $m.mod -}}{{- $t := time . -}}{{- if or $lm.IsZero ($t.After $lm) -}}{{- $lm = $t -}}{{- end -}}{{- end -}}
+{{- /* pagina Novità: anche la data dell'ultimo post arrivato dal gestionale (data/postgoogle.json) */ -}}
+{{- if .Params.postgoogle -}}{{- with site.Data.postgoogle -}}{{- with .updated -}}{{- $t := time . -}}{{- if or $lm.IsZero ($t.After $lm) -}}{{- $lm = $t -}}{{- end -}}{{- end -}}{{- end -}}{{- end -}}
 {{- return $lm -}}
