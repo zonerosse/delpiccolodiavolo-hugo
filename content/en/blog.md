@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier blog - articles & guides"
 date: 2025-12-28
-lastmod: 2026-10-19
+lastmod: 2026-10-23
 tipoPagina: "CollectionPage"
 notte: true
 translationKey: "blog"
@@ -278,9 +278,18 @@ custom_content: |
   <section class="section" id="health" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Category</span>
-  <h2 class="section-title">Health and wellness <span class="count">(6)</span></h2>
+  <h2 class="section-title">Health and wellness <span class="count">(7)</span></h2>
 
   <div class="blog-grid">
+  <article class="blog-card">
+  <a href="/en/barf-raw-feeding-staffordshire-bull-terrier/" title="Read: BARF, when we use it and when we don't"><div class="blog-card-thumb"><img src="/images/blog/icone/barf-staffordshire-bull-terrier.webp" alt="BARF for the Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">23 Oct 2026</span><span>•</span><span class="cat">Health</span></div>
+  <h3><a href="/en/barf-raw-feeding-staffordshire-bull-terrier/" title="Read: BARF, when we use it and when we don't">BARF: when we use it and when we don't</a></h3>
+  <p>Why kibble stays the basis, when we feed raw, the risks and the most common mistakes.</p>
+  </div>
+  </article>
+
   <article class="blog-card">
   <a href="/en/how-long-staffordshire-bull-terrier-lives/" title="Read: How long does a Staffordshire Bull Terrier live"><div class="blog-card-thumb"><img src="/images/blog/icone/quanto-vive-staffordshire-bull-terrier.webp" alt="How long does a Staffordshire Bull Terrier live" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">

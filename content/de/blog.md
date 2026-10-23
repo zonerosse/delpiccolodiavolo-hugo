@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Blog - Artikel & Ratgeber"
 date: 2025-12-28
-lastmod: 2026-10-19
+lastmod: 2026-10-23
 tipoPagina: "CollectionPage"
 notte: true
 translationKey: "blog"
@@ -278,9 +278,18 @@ custom_content: |
   <section class="section" id="gesundheit" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Kategorie</span>
-  <h2 class="section-title">Gesundheit und Wohlbefinden <span class="count">(6)</span></h2>
+  <h2 class="section-title">Gesundheit und Wohlbefinden <span class="count">(7)</span></h2>
 
   <div class="blog-grid">
+  <article class="blog-card">
+  <a href="/de/barf-staffordshire-bull-terrier-rohfuetterung/" title="Lesen: BARF, wann wir es nutzen und wann nicht"><div class="blog-card-thumb"><img src="/images/blog/icone/barf-staffordshire-bull-terrier.webp" alt="BARF für den Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">23. Okt. 2026</span><span>•</span><span class="cat">Gesundheit</span></div>
+  <h3><a href="/de/barf-staffordshire-bull-terrier-rohfuetterung/" title="Lesen: BARF, wann wir es nutzen und wann nicht">BARF: wann wir es nutzen und wann nicht</a></h3>
+  <p>Warum Trockenfutter die Grundlage bleibt, wann wir roh füttern, die Risiken und die häufigsten Fehler.</p>
+  </div>
+  </article>
+
   <article class="blog-card">
   <a href="/de/wie-alt-wird-ein-staffordshire-bull-terrier/" title="Lesen: Wie alt wird ein Staffordshire Bull Terrier"><div class="blog-card-thumb"><img src="/images/blog/icone/quanto-vive-staffordshire-bull-terrier.webp" alt="Wie alt wird ein Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">

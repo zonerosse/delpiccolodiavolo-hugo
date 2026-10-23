@@ -54,6 +54,7 @@ MAP={ # slug IT: (group, icon)
 'faq-sullo-staffordshire-bull-terrier':('k','message-circle-question'),
 'quanto-vive-staffordshire-bull-terrier':('s','calendar-heart'),
 'calcolatore-crocchette-cane':('c','calculator'),
+'barf-staffordshire-bull-terrier':('s','beef'),
 }
 def b64f(p): return base64.b64encode(open(p,'rb').read()).decode()
 F='/tmp/f'

@@ -2,7 +2,7 @@
 title: "Blog Staffordshire Bull Terrier"
 titleSeo: "Guide sullo Staffordshire Bull Terrier: salute e cuccioli"
 date: 2025-12-28
-lastmod: 2026-10-19
+lastmod: 2026-10-23
 tipoPagina: "CollectionPage"
 notte: true
 translationKey: "blog"
@@ -277,9 +277,18 @@ custom_content: |
   <section class="section" id="salute" style="background:#fff">
   <div class="section-inner">
   <span class="section-label">Categoria</span>
-  <h2 class="section-title">Salute e benessere <span class="count">(6)</span></h2>
+  <h2 class="section-title">Salute e benessere <span class="count">(7)</span></h2>
 
   <div class="blog-grid">
+  <article class="blog-card">
+  <a href="/barf-staffordshire-bull-terrier/" title="Leggi: BARF, quando lo usiamo e quando no"><div class="blog-card-thumb"><img src="/images/blog/icone/barf-staffordshire-bull-terrier.webp" alt="BARF per lo Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
+  <div class="blog-card-body">
+  <div class="blog-card-meta"><span class="date">23 Ott 2026</span><span>•</span><span class="cat">Salute</span></div>
+  <h3><a href="/barf-staffordshire-bull-terrier/" title="Leggi: BARF, quando lo usiamo e quando no">BARF: quando lo usiamo e quando no</a></h3>
+  <p>Perché la base restano le crocchette, quando usiamo il crudo, i rischi e gli errori più comuni.</p>
+  </div>
+  </article>
+
   <article class="blog-card">
   <a href="/quanto-vive-staffordshire-bull-terrier/" title="Leggi: Quanto vive lo Staffordshire Bull Terrier"><div class="blog-card-thumb"><img src="/images/blog/icone/quanto-vive-staffordshire-bull-terrier.webp" alt="Quanto vive lo Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="188"></div></a>
   <div class="blog-card-body">

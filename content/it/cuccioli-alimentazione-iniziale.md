@@ -78,7 +78,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>Cosa conta nella scelta dell'alimento</h2>
-  <p>Crocchette, umido o crudo: le esigenze di uno Staffordshire Bull Terrier in crescita sono le stesse. L'alimento deve essere formulato per la crescita, non per il mantenimento dell'adulto. Proteine e grassi devono venire soprattutto da fonti animali dichiarate, non da sottoprodotti generici. E il rapporto fra calcio e fosforo conta più di quanto la maggior parte dei proprietari immagini.</p>
+  <p>Crocchette, umido o <a href="/barf-staffordshire-bull-terrier/" title="BARF: quando lo usiamo e quando no">crudo</a>: le esigenze di uno Staffordshire Bull Terrier in crescita sono le stesse. L'alimento deve essere formulato per la crescita, non per il mantenimento dell'adulto. Proteine e grassi devono venire soprattutto da fonti animali dichiarate, non da sottoprodotti generici. E il rapporto fra calcio e fosforo conta più di quanto la maggior parte dei proprietari immagini.</p>
   <p>Quest'ultimo punto merita di essere sottolineato. Il calcio in eccesso durante la crescita fa male, non bene, ed è una delle poche cause davvero alimentari di problemi scheletrici. È il motivo per cui a un <a href="https://europeanpetfood.org/self-regulation/nutritional-guidelines/" title="Linee guida nutrizionali FEDIAF" target="_blank" rel="noopener" aria-label="alimento completo per cuccioli – Linee guida nutrizionali FEDIAF (si apre in una nuova scheda)">alimento completo per cuccioli</a> non vanno mai aggiunti integratori di calcio, e per cui una dieta casalinga per un cucciolo in crescita va formulata da un nutrizionista veterinario, non dalle buone intenzioni.</p>
   <!--/BLOCCO:4-->
 
