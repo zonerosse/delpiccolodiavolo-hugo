@@ -57,7 +57,7 @@ custom_content: |
   <article class="article-content">
 
   <div id="pappa" class="pp"><noscript>The calculator needs JavaScript. Without it, you can do the sums by hand with the formula and tables below.</noscript></div>
-  <script src="/js/calcolatore-crocchette.js?v=20261023-2300" defer></script>
+  <script src="/js/calcolatore-crocchette.js?v=20261023-2400" defer></script>
 
   <p>How much should a dog eat? The calculator above tells you how many grams of kibble to give a dog each day, from a two-month-old puppy to a senior. It starts from the resting energy vets use, 70 times the weight in kilos raised to 0.75, and multiplies it by a factor that depends on age: 3 up to three months, 2 at six months, 1.6 to 1.8 in the adult. It then divides the result by the calories of the kibble. For 34 foods sold widely in Europe the calories are already in the list; any other can be typed in, worked out from the analytical constituents printed on the bag, or read from a photo of the bag. The figure you get is a starting point, to be checked on the dog every two weeks. A guide by the <a href="/en/" title="Del Piccolo Diavolo Staffordshire Bull Terrier kennel">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
@@ -100,40 +100,40 @@ custom_content: |
   <tr><th>Brand</th><th>Kibble</th><th>kcal per 100 g</th><th>Figure</th></tr>
   </thead>
   <tbody>
-  <tr data-c="29,17,5,7,12" data-src="p"><td>Acana</td><td>Adult Dog Recipe</td><td>351</td><td>manufacturer</td></tr>
-  <tr data-c="33,20,5,7,12" data-src="c"><td>Acana</td><td>Puppy Recipe</td><td>366</td><td>worked out</td></tr>
-  <tr data-c="32,23,2,6.5," data-src="p"><td>Advance</td><td>Medium Puppy Protect chicken</td><td>428</td><td>manufacturer</td></tr>
-  <tr data-c="25,15,2.5,8.5,9" data-src="p"><td>Almo Nature Holistic</td><td>Medium Adult chicken and rice</td><td>379</td><td>manufacturer</td></tr>
-  <tr data-c="26,16,2.5,7.2,10" data-src="p"><td>Brit Care</td><td>Adult Medium Breed lamb and rice</td><td>381</td><td>manufacturer</td></tr>
-  <tr data-c="32,18,1.5,7.7,10" data-src="p"><td>Brit Care</td><td>Puppy lamb and rice</td><td>400</td><td>manufacturer</td></tr>
-  <tr data-c="27,15,2.4,6.5," data-src="p"><td>Eukanuba</td><td>Adult Medium Breed</td><td>406</td><td>manufacturer</td></tr>
-  <tr data-c="25,16,2.3,6,8" data-src="p"><td>Exclusion Mediterraneo</td><td>Adult Medium chicken</td><td>357</td><td>manufacturer</td></tr>
-  <tr data-c="28,20,2.3,7,8" data-src="c"><td>Exclusion Mediterraneo</td><td>Puppy Medium chicken</td><td>389</td><td>worked out</td></tr>
-  <tr data-c="30,18,2.9,6.8,9" data-src="p"><td>Farmina N&amp;D Ancestral Grain</td><td>Adult Medium/Maxi chicken and pomegranate</td><td>400</td><td>manufacturer</td></tr>
-  <tr data-c="30,20,2.5,8,9" data-src="p"><td>Farmina N&amp;D Ancestral Grain</td><td>Puppy Medium/Maxi chicken and pomegranate</td><td>418</td><td>manufacturer</td></tr>
-  <tr data-c="30,20,2.5,8.1,9" data-src="p"><td>Farmina N&amp;D Pumpkin</td><td>Puppy Medium/Maxi lamb and pumpkin</td><td>414</td><td>manufacturer</td></tr>
-  <tr data-c="25,14,2.5,8," data-src="p"><td>Gemon</td><td>Medium Adult chicken and rice</td><td>399</td><td>manufacturer</td></tr>
-  <tr data-c="21.5,14.9,1.5,4.6," data-src="c"><td>Hill's Science Plan</td><td>Adult Medium chicken</td><td>374</td><td>worked out</td></tr>
-  <tr data-c="27.4,17.9,1.7,7.7," data-src="p"><td>Hill's Science Plan</td><td>Puppy Medium chicken</td><td>385</td><td>manufacturer</td></tr>
-  <tr data-c="26,16,2.5,6.7," data-src="p"><td>Josera</td><td>Festival</td><td>382</td><td>manufacturer</td></tr>
-  <tr data-c="25,13,2.2,6.3," data-src="p"><td>Josera</td><td>JosiDog Adult Sensitive</td><td>374</td><td>manufacturer</td></tr>
-  <tr data-c="25,13,2,7.2," data-src="p"><td>Josera</td><td>YoungStar</td><td>373</td><td>manufacturer</td></tr>
-  <tr data-c="26,14,2.2,6.5," data-src="p"><td>Monge</td><td>Medium Adult chicken</td><td>400</td><td>manufacturer</td></tr>
-  <tr data-c="29,18,2,7.5," data-src="p"><td>Monge</td><td>Medium Puppy &amp; Junior chicken</td><td>420</td><td>manufacturer</td></tr>
-  <tr data-c="30,18,2,7," data-src="c"><td>Natural Trainer</td><td>Puppy &amp; Junior Medium chicken</td><td>380</td><td>worked out</td></tr>
-  <tr data-c="38,18,5,9,12" data-src="p"><td>Orijen</td><td>Original</td><td>394</td><td>manufacturer</td></tr>
-  <tr data-c="38,20,5,8,12" data-src="p"><td>Orijen</td><td>Puppy</td><td>400</td><td>manufacturer</td></tr>
-  <tr data-c="28,16,2,6.5," data-src="c"><td>Purina One</td><td>Medium/Maxi Adult chicken</td><td>365</td><td>worked out</td></tr>
-  <tr data-c="26,16,2.5,7.5," data-src="p"><td>Purina Pro Plan</td><td>Medium Adult chicken</td><td>390</td><td>manufacturer</td></tr>
-  <tr data-c="30,19,2,7.5," data-src="p"><td>Purina Pro Plan</td><td>Medium Puppy chicken</td><td>405</td><td>manufacturer</td></tr>
-  <tr data-c="25,14,1.6,6.2," data-src="p"><td>Royal Canin</td><td>Medium Adult</td><td>388</td><td>manufacturer</td></tr>
-  <tr data-c="32,20,1.7,8.2," data-src="p"><td>Royal Canin</td><td>Medium Puppy</td><td>410</td><td>manufacturer</td></tr>
-  <tr data-c="28,13,6.4,4.9," data-src="p"><td>Royal Canin</td><td>Medium Sterilised</td><td>348</td><td>manufacturer</td></tr>
-  <tr data-c="30,20,2.5,6.5,9" data-src="c"><td>Schesir</td><td>Medium Puppy chicken</td><td>387</td><td>worked out</td></tr>
-  <tr data-c="28,17,1.9,6.3," data-src="p"><td>Special Dog Excellence</td><td>Maxi Adult chicken</td><td>420</td><td>manufacturer</td></tr>
-  <tr data-c="32,18,3,9.2,10" data-src="p"><td>Taste of the Wild</td><td>High Prairie Adult</td><td>372</td><td>manufacturer</td></tr>
-  <tr data-c="27,15,5,7.3,10" data-src="p"><td>Taste of the Wild</td><td>High Prairie Puppy</td><td>366</td><td>manufacturer</td></tr>
-  <tr data-c="25.5,14,2.8,8," data-src="p"><td>Wolf of Wilderness</td><td>Adult Oak Woods wild boar</td><td>369</td><td>manufacturer</td></tr>
+  <tr data-c="29,17,5,7,12" data-src="p" data-a="ca:1.3;ph:1;va:1875;vd:250;ve:115;zn:75;cu:11" data-au="https://www.maxizoo.ie/p/acana-adult-dog-114-kg-1289565"><td>Acana</td><td>Adult Dog Recipe</td><td>351</td><td>manufacturer</td></tr>
+  <tr data-c="33,20,5,7,12" data-src="c" data-a="ca:1.5;ph:1.1;va:3750;vd:500;ve:170;zn:100" data-au="https://www.redcare-pharmacie.fr/produits-veterinaires/IT971357684/acana-puppy-recipe-alimentation-seche-pour-chiot-poulet-frais-et-merlu-cru.htm"><td>Acana</td><td>Puppy Recipe</td><td>366</td><td>worked out</td></tr>
+  <tr data-c="32,23,2,6.5," data-src="p" data-a="ca:1.3;ph:1;va:27000;vd:1200;ve:500;zn:148;cu:8.8;io:1.4;fe:86;se:0.1;mn:40" data-au="https://www.zooplus.de/shop/hunde/hundefutter_trockenfutter/affinity_advance/medium/275351"><td>Advance</td><td>Medium Puppy Protect chicken</td><td>428</td><td>manufacturer</td></tr>
+  <tr data-c="25,15,2.5,8.5,9" data-src="p" data-a="ca:1.6;ph:1.1;va:17500;vd:750;ve:300;zn:52.5;cu:4.78;io:1.07;se:0.03;mn:6.71" data-au="https://www.zooplus.co.uk/shop/dogs/dry_dog_food/almo_nature_holistic/medium/136883"><td>Almo Nature Holistic</td><td>Medium Adult chicken and rice</td><td>379</td><td>manufacturer</td></tr>
+  <tr data-c="26,16,2.5,7.2,10" data-src="p" data-a="ca:1.4;ph:1;va:20000;vd:1500;ve:500;zn:85;cu:18;io:0.8;fe:75;se:0.16;mn:40" data-au="https://www.zooplus.com/shop/dogs/dry_dog_food/brit/brit_care/1583478"><td>Brit Care</td><td>Adult Medium Breed lamb and rice</td><td>381</td><td>manufacturer</td></tr>
+  <tr data-c="32,18,1.5,7.7,10" data-src="p" data-a="ca:1.4;ph:1.1;va:23000;vd:1700;ve:550;zn:100;cu:20;io:0.9;fe:88;se:0.18;mn:45" data-au="https://www.zooplus.com/shop/dogs/dry_dog_food/brit/brit_care/1583560"><td>Brit Care</td><td>Puppy lamb and rice</td><td>400</td><td>manufacturer</td></tr>
+  <tr data-c="27,15,2.4,6.5," data-src="p" data-a="ca:1.3;ph:1.1;va:15000;vd:1500;ve:250;zn:62.5;cu:8;io:1.5;fe:50;mn:10" data-au="https://www.zooplus.com/shop/dogs/dry_dog_food/eukanuba/adult/2393421"><td>Eukanuba</td><td>Adult Medium Breed</td><td>406</td><td>manufacturer</td></tr>
+  <tr data-c="25,16,2.3,6,8" data-src="p" data-a="ca:1.1;ph:0.9;va:10850;vd:540;ve:500;zn:157;cu:16.5;io:3.4;fe:178;se:0.3;mn:37" data-au="https://www.manomano.it/p/exclusion-dog-mediterraneo-medium-adult-noble-grain-chicken-pollo-12-kg-36948290"><td>Exclusion Mediterraneo</td><td>Adult Medium chicken</td><td>357</td><td>manufacturer</td></tr>
+  <tr data-c="28,20,2.3,7,8" data-src="c" data-a="ca:1.1;ph:0.9" data-au="https://www.alve.ee/en/toode/excl-mediterraneo-puppy-chicken-medium-breed-12kg"><td>Exclusion Mediterraneo</td><td>Puppy Medium chicken</td><td>389</td><td>worked out</td></tr>
+  <tr data-c="30,18,2.9,6.8,9" data-src="p" data-a="ca:1.2;ph:0.9;va:15000;vd:1500;ve:600;zn:145.6;cu:14.08;fe:37.5;se:0.4;mn:49.4" data-au="https://ipet.ch/en/farmina-n-d-ancestral-grain-canine-adult-medium-maxi-chicken-pomegranate"><td>Farmina N&amp;D Ancestral Grain</td><td>Adult Medium/Maxi chicken and pomegranate</td><td>400</td><td>manufacturer</td></tr>
+  <tr data-c="30,20,2.5,8,9" data-src="p" data-a="ca:1.1;ph:0.91;va:16000;vd:1600;ve:600;zn:145.6;cu:14.08;fe:37.5;se:0.4;mn:49.4" data-au="https://www.farmina.com/es/eshop/alimento-para-perros/n&amp;d-ancestral-grain-canine/593-pollo-&amp;-granada-puppy-medium-&amp;-maxi.html"><td>Farmina N&amp;D Ancestral Grain</td><td>Puppy Medium/Maxi chicken and pomegranate</td><td>418</td><td>manufacturer</td></tr>
+  <tr data-c="30,20,2.5,8.1,9" data-src="p" data-a="ca:1.3;ph:0.9;va:16000;vd:1600;ve:600;zn:145.6;cu:14.08;fe:37.5;se:0.4;mn:49.4" data-au="https://ipet.ch/en/farmina-n-d-pumpkin-canine-puppy-medium-maxi-pumpkin-lamb"><td>Farmina N&amp;D Pumpkin</td><td>Puppy Medium/Maxi lamb and pumpkin</td><td>414</td><td>manufacturer</td></tr>
+  <tr data-c="25,14,2.5,8," data-src="p" data-a="ca:1.7;ph:1.2;va:24600;vd:1290;ve:58;zn:105;cu:9;io:1.2;fe:75;se:0.15;mn:22.5" data-au="https://www.monge.it/wp-content/uploads/2016/03/Gemon-medium-adult-con-pollo-e-riso-ITA.pdf"><td>Gemon</td><td>Medium Adult chicken and rice</td><td>399</td><td>manufacturer</td></tr>
+  <tr data-c="21.5,14.9,1.5,4.6," data-src="c" data-a="ca:0.7;ph:0.63;va:10591;vd:722;ve:550;zn:155;cu:8.4;io:2.4;fe:84.7;se:0.1;mn:8.8" data-au="https://pdsapetstore.org.uk/products/hills-science-plan-medium-adult-dry-dog-food-chicken"><td>Hill's Science Plan</td><td>Adult Medium chicken</td><td>374</td><td>worked out</td></tr>
+  <tr data-c="27.4,17.9,1.7,7.7," data-src="p" data-a="ca:1.4;ph:1.1;va:9920;vd:702;ve:1019;zn:141;cu:9.1;io:2.8;fe:84.8;se:0.1;mn:8.8" data-au="https://www.zooplus.co.uk/shop/dogs/dry_dog_food/hills_science_plan/puppy_junior/13153"><td>Hill's Science Plan</td><td>Puppy Medium chicken</td><td>385</td><td>manufacturer</td></tr>
+  <tr data-c="26,16,2.5,6.7," data-src="p" data-a="ca:1.4;ph:0.95;va:22600;vd:1700;ve:200;zn:120;cu:11;io:1.3;fe:100;se:0.1;mn:9" data-au="https://www.zooplus.com/shop/dogs/dry_dog_food/josera/2413788"><td>Josera</td><td>Festival</td><td>382</td><td>manufacturer</td></tr>
+  <tr data-c="25,13,2.2,6.3," data-src="p" data-a="ca:1.5;ph:1;va:17300;vd:1300;ve:150;zn:160;cu:20;io:1.9;fe:200;se:0.25;mn:16" data-au="https://www.zooplus.de/shop/hunde/hundefutter_trockenfutter/josera/josera_profiline/405335"><td>Josera</td><td>JosiDog Adult Sensitive</td><td>374</td><td>manufacturer</td></tr>
+  <tr data-c="25,13,2,7.2," data-src="p" data-a="ca:1.4;ph:0.9;va:20000;vd:1500;ve:180;zn:130;cu:13;io:1.5;fe:110;se:0.1;mn:9" data-au="https://www.shop-apotheke.com/tiergesundheit/upmW2HG7Z/josera-junior-youngstar-mit-huhn.htm"><td>Josera</td><td>YoungStar</td><td>373</td><td>manufacturer</td></tr>
+  <tr data-c="26,14,2.2,6.5," data-src="p" data-a="ca:1.2;ph:1;va:30700;vd:1610;ve:72;zn:140;cu:12;io:1.6;fe:100;se:0.2;mn:30" data-au="https://monge.it/wp-content/uploads/2016/04/Monge-Natural-Superpremium-Medium-Adult-Ricco-in-Pollo-IT.pdf"><td>Monge</td><td>Medium Adult chicken</td><td>400</td><td>manufacturer</td></tr>
+  <tr data-c="29,18,2,7.5," data-src="p" data-a="ca:1.3;ph:1;va:30700;vd:1610;ve:72;zn:150;cu:12;io:1.7;fe:107;se:0.2;mn:32" data-au="https://www.monge.it/wp-content/uploads/2023/09/Monge-Natural-Superpremium-Medium-Puppy-and-Junior-Rich-in-Chicken-EN.pdf"><td>Monge</td><td>Medium Puppy &amp; Junior chicken</td><td>420</td><td>manufacturer</td></tr>
+  <tr data-c="30,18,2,7," data-src="c" data-a="va:26000;vd:1350;ve:400;zn:156;cu:12.5;io:2.5;fe:150;se:0.2;mn:35" data-au="https://ipet.ch/en/trainer-natural-puppyandjunior-medium-chicken"><td>Natural Trainer</td><td>Puppy &amp; Junior Medium chicken</td><td>380</td><td>worked out</td></tr>
+  <tr data-c="38,18,5,9,12" data-src="p" data-a="ca:1.4;ph:1.1;va:3750;vd:500;ve:80;zn:105;cu:11" data-au="https://www.lacompagniedesanimaux.com/orijen-original-chien-adult-11-4-kg.html"><td>Orijen</td><td>Original</td><td>394</td><td>manufacturer</td></tr>
+  <tr data-c="38,20,5,8,12" data-src="p" data-a="ca:1.4;ph:1.1;va:3750;vd:500;ve:110;zn:105;cu:11" data-au="https://www.redcare-pharmacie.fr/produits-veterinaires/IT973198854/orijen-puppy-alimentation-seche-pour-chiot-toutes-races.htm"><td>Orijen</td><td>Puppy</td><td>400</td><td>manufacturer</td></tr>
+  <tr data-c="28,16,2,6.5," data-src="c" data-a="va:16400;vd:530;ve:520;zn:85;cu:9.5;io:1.4;fe:90;se:0.1;mn:34" data-au="https://www.zooplus.fr/shop/chiens/croquettes_chien/purina_one_croquettes_chien/medium_maxi/1839222"><td>Purina One</td><td>Medium/Maxi Adult chicken</td><td>365</td><td>worked out</td></tr>
+  <tr data-c="26,16,2.5,7.5," data-src="p" data-a="ca:1;va:28000;vd:910;ve:550;zn:140;cu:16;io:2.3;fe:150;se:0.16;mn:56" data-au="https://vetcenter.purina.fr/node/53741"><td>Purina Pro Plan</td><td>Medium Adult chicken</td><td>390</td><td>manufacturer</td></tr>
+  <tr data-c="30,19,2,7.5," data-src="p" data-a="va:29000;vd:940;ve:200;zn:110;cu:13;io:1.9;fe:120;se:0.13;mn:46" data-au="https://www.zooplus.com/shop/dogs/dry_dog_food/purina_pro_plan/puppy_junior/128295"><td>Purina Pro Plan</td><td>Medium Puppy chicken</td><td>405</td><td>manufacturer</td></tr>
+  <tr data-c="25,14,1.6,6.2," data-src="p" data-a="va:12500;vd:800;zn:133;cu:13;io:4.3;fe:43;se:0.11;mn:55" data-au="https://pro.royalcanin.co.uk/products/dog/medium-adult/"><td>Royal Canin</td><td>Medium Adult</td><td>388</td><td>manufacturer</td></tr>
+  <tr data-c="32,20,1.7,8.2," data-src="p" data-a="va:15500;vd:1000;zn:130;cu:12;io:3.8;fe:37;se:0.06;mn:49" data-au="https://www.petstock.co.nz/products/royal-canin-dog-medium-dry-puppy-food-variant-122725000064"><td>Royal Canin</td><td>Medium Puppy</td><td>410</td><td>manufacturer</td></tr>
+  <tr data-c="28,13,6.4,4.9," data-src="p" data-a="va:21000;vd:1000;zn:135;cu:11;io:3.7;fe:37;se:0.06;mn:48" data-au="https://www.zooplus.co.uk/shop/dogs/dry_dog_food/royal_canin_care_nutrition/sterilised/296051"><td>Royal Canin</td><td>Medium Sterilised</td><td>348</td><td>manufacturer</td></tr>
+  <tr data-c="30,20,2.5,6.5,9" data-src="c" data-a="ca:1.2;ph:1;va:22000;vd:1500;ve:500;zn:114;cu:15;io:2.2;fe:107;se:0.23;mn:39.5" data-au="https://www.schesir.com/en/products/medium-puppy-rich-in-chicken-3kg"><td>Schesir</td><td>Medium Puppy chicken</td><td>387</td><td>worked out</td></tr>
+  <tr data-c="28,17,1.9,6.3," data-src="p" data-a="ca:1.2;ph:0.8;va:21500;vd:1500;ve:180;zn:98;cu:2.5;io:0.9;fe:29;se:0.08;mn:8.5" data-au="https://www.monge.it/wp-content/uploads/2015/12/Special-Dog-Excellence-Maxi-Adult-Pollo-IT.pdf"><td>Special Dog Excellence</td><td>Maxi Adult chicken</td><td>420</td><td>manufacturer</td></tr>
+  <tr data-c="32,18,3,9.2,10" data-src="p" data-a="va:10000;vd:750;ve:150;zn:37.88;cu:2.8;io:1.485;fe:27;se:0.018;mn:14.28" data-au="https://www.zooplus.com/shop/dogs/dry_dog_food/taste_of_the_wild/231920"><td>Taste of the Wild</td><td>High Prairie Adult</td><td>372</td><td>manufacturer</td></tr>
+  <tr data-c="27,15,5,7.3,10" data-src="p" data-a="va:11500;vd:865;ve:175;zn:37.88;cu:3.2;io:1.732;fe:31.05;se:0.018;mn:14.28" data-au="https://www.zooplus.co.uk/shop/dogs/dry_dog_food/taste_of_the_wild/puppy/409316"><td>Taste of the Wild</td><td>High Prairie Puppy</td><td>366</td><td>manufacturer</td></tr>
+  <tr data-c="25.5,14,2.8,8," data-src="p" data-a="ca:1.3;ph:0.95;va:12000;vd:1500;ve:150;zn:100;cu:12.5;io:2.3;fe:200;mn:30" data-au="https://www.zooplus.com/shop/zooplus_exclusives/dog_food_treats/grain_free/wolfofwilderness/637058"><td>Wolf of Wilderness</td><td>Adult Oak Woods wild boar</td><td>369</td><td>manufacturer</td></tr>
   </tbody>
   </table>
   <p>When the energy is not printed, it can be worked out from the five analytical constituents on the bag, with the modified Atwater formula used by the European guidelines:</p>
