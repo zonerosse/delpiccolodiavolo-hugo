@@ -416,3 +416,5 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
   uguali nelle tre lingue; il catalogo del gestionale ha `a`/`au` per 334 crocchette (cercate da Claude il 23/10/2026). Per le crocchette senza
   etichetta lo script la chiede a `https://gestionale.delpiccolodiavolo.it/api/public/etichetta` (Claude cerca in internet una volta, poi vale per
   tutti; `pappaEt` nel browser). Anziano sterilizzato 1,3; nel cucciolo sterilizzato una frase spiega che conta la crescita.
+- 24/10/2026 (Paolo, anteprima-18, scelta C): la tendina «Carne muscolare» del BARF è divisa in gruppi (`<optgroup>`, mappa `CG` e testi `T.cg`
+  nello script): Carne · Cuore e ventrigli (contano come carne) · Pesce · Uova · Aggiunti da te (alimenti di «Altro…»). Nuovi alimenti di carne: metterli in `CG`.
