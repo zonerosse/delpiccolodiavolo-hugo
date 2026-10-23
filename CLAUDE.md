@@ -404,3 +404,6 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
 - Menu: voce a sé «Calcolatori» (i18n `calcolatori`, fra Blog e FAQ) con i due calcolatori; al passaggio del cursore `.dd-tip` (icona e
   due righe, i18n `calcolatoreTip`, `calcolatoreBarfTip`, `calcolatoreBarf`); sul telefono le due righe sono scritte sotto (`.dd-sub`).
   Desktop e `.mobile-menu` sono copie separate in `header.html`. Fra 768 e 1400 px lo spazio fra le voci è 1rem perché il menu stia su una riga.
+- 23/10/2026 (Paolo, anteprima-13): sotto i grammi la tabella «Nutrienti ogni 1000 kcal» (`protHtml`, testi `NT`): proteine e grassi dai
+  componenti analitici, calcio, fosforo e Ca:P solo se scritti (caselle `pp-ca`, `pp-ph` del modulo «Ho il sacco…» o foto del sacco, che ora
+  restituisce `ca`/`ph`), minimi e massimi FEDIAF per età; stato ok / al limite / manca / troppo in rosso; riga sulle vitamine («completo»).
