@@ -577,3 +577,9 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 /* Scheda blu un po' più chiara del fondo, senza contorno, bottone bianco del sito (scelta B di Paolo, 23/10/2026) */
 .notte-pagina .ng-home{background:var(--n-card,#354a63);border-radius:14px;padding:1.4rem}
 @media(max-width:720px){.notte-pagina .ng-home{grid-template-columns:minmax(0,1fr);gap:1.1rem}.notte-pagina .ng-foto{height:auto;max-height:62vh}.notte-pagina .ng-foto img{max-height:62vh}}
+/* Calcolatore, 23/10/2026: figure del cane visto dall'alto e scelta del sesso */
+.pp-nuovo{--dg:#eef1f6;--dgs:#1f2d42}
+.pp-nuovo .pp-fig{display:flex;flex-direction:column;align-items:center;text-align:center}
+.pp-nuovo .pp-dog svg{width:auto;height:110px;display:block;margin:0 auto 6px}
+.pp-nuovo .pp-fig.on{--dg:#fbeacb}
+.pp-nuovo .pp-sx{margin-top:12px}
