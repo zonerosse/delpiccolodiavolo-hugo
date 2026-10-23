@@ -666,3 +666,5 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .notte-pagina main .pp-nuovo .pp-nut th.pp-n{white-space:normal}
 .notte-pagina main .pp-nuovo .pp-st{font-size:.75rem;font-weight:700;white-space:nowrap}
 .notte-pagina main .pp-nuovo .pp-okk{color:#2e6b34!important}.notte-pagina main .pp-nuovo .pp-lim{color:#8a5a12!important}.notte-pagina main .pp-nuovo .pp-ko{color:#a3361f!important}
+.notte-pagina main .pp-nuovo .pp-lim0{color:#4a5768!important;font-weight:600}
+@media(max-width:560px){.pp-nuovo .pp-nut .pp-kg{display:none}}
