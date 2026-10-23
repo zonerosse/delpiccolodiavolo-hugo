@@ -102,3 +102,15 @@ other = "Dog food calculator"
 
 [novita]
 other = "News"
+
+[calcolatoreBarf]
+other = "BARF calculator"
+
+[calcolatoreTip]
+other = "How many grams of kibble a day by age, weight and activity. If the bag is not in the list, artificial intelligence reads it from a photo."
+
+[calcolatoreBarfTip]
+other = "How much meat, bone, offal, vegetables and fruit a day, with a check of 12 nutrients against FEDIAF values."
+
+[calcolatori]
+other = "Calculators"

@@ -117,3 +117,15 @@ other = "Futterrechner"
 
 [novita]
 other = "Neuigkeiten"
+
+[calcolatoreBarf]
+other = "BARF-Rechner"
+
+[calcolatoreTip]
+other = "Wie viel Gramm Trockenfutter pro Tag nach Alter, Gewicht und Bewegung. Fehlt die Packung in der Liste, liest künstliche Intelligenz sie vom Foto."
+
+[calcolatoreBarfTip]
+other = "Wie viel Fleisch, Knochen, Innereien, Gemüse und Obst pro Tag, mit Prüfung von 12 Nährstoffen nach FEDIAF."
+
+[calcolatori]
+other = "Rechner"

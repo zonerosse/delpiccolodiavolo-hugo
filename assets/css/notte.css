@@ -642,3 +642,14 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .notte-pagina main .bf .bf-err{color:#a3361f;font-weight:600}
 .notte-pagina main .bf .bf-altok{color:#2e6b34;font-weight:600}
 .bf .bf-row>.bf-alt{grid-column:1/-1;margin:4px 0 6px}
+/* Menu Cuccioli: anteprima dei calcolatori al passaggio del cursore (23/10/2026, Paolo) */
+.dropdown-menu .dd-tip{display:none;position:absolute;left:calc(100% + 8px);margin-top:-2.6rem;width:280px;background:#fff;border:1px solid #d6dde6;border-radius:12px;box-shadow:0 10px 30px rgba(31,58,95,.18);padding:12px;gap:12px;align-items:flex-start;pointer-events:none;z-index:5;text-align:left}
+.dropdown-menu .dd-calc:hover+.dd-tip,.dropdown-menu .dd-calc:focus-visible+.dd-tip{display:flex}
+.dropdown-menu .dd-tip img{width:64px;height:auto;border-radius:8px;flex:none}
+.dropdown-menu .dd-tip span{display:block;font-size:.8rem;line-height:1.45;color:#4a5768!important;font-weight:400;letter-spacing:0;text-transform:none}
+.dropdown-menu .dd-tip b{display:block;color:#1f2d42;font-size:.88rem;margin:0 0 3px}
+.mobile-dropdown .dd-sub{display:block;font-size:.78rem;line-height:1.4;font-weight:400;opacity:.8;margin-top:2px;text-transform:none;letter-spacing:0}
+@media(min-width:768px) and (max-width:1400px){.nav-links{gap:1rem}}
+@media(min-width:1200px){.nav-links>li>a,.nav-links .dropdown-trigger{white-space:nowrap}}
+.dropdown-menu .dd-tip img{width:88px}
+.mobile-dropdown .dd-sub{max-width:250px;margin:2px auto 0;text-align:center;font-family:system-ui,-apple-system,"Segoe UI",sans-serif}

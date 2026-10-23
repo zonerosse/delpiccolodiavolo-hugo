@@ -102,3 +102,15 @@ other = "Calcolatore crocchette"
 
 [novita]
 other = "Notizie"
+
+[calcolatoreBarf]
+other = "Calcolatore BARF"
+
+[calcolatoreTip]
+other = "Quanti grammi di crocchette al giorno per età, peso e movimento. Se il sacco non è in elenco, l'intelligenza artificiale lo legge dalla foto."
+
+[calcolatoreBarfTip]
+other = "Quanta carne, ossa, frattaglie, verdure e frutta al giorno, con il controllo di 12 nutrienti sui valori FEDIAF."
+
+[calcolatori]
+other = "Calcolatori"
