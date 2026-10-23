@@ -57,7 +57,7 @@ custom_content: |
   <article class="article-content">
 
   <div id="pappa" class="pp"><noscript>Der Rechner braucht JavaScript. Ohne lässt sich die Rechnung mit der Formel und den Tabellen unten von Hand machen.</noscript></div>
-  <script src="/js/calcolatore-crocchette.js?v=20261023-2100" defer></script>
+  <script src="/js/calcolatore-crocchette.js?v=20261023-2300" defer></script>
 
   <p>Wie viel Futter braucht ein Hund? Der Rechner oben sagt, wie viel Gramm Trockenfutter ein Hund am Tag bekommt, vom zwei Monate alten Welpen bis zum Senior. Er geht vom Ruhebedarf aus, den Tierärzte verwenden, 70 mal das Gewicht in Kilo hoch 0,75, und multipliziert ihn mit einem Faktor, der vom Alter abhängt: 3 bis zum dritten Monat, 2 mit sechs Monaten, 1,6 bis 1,8 beim Erwachsenen. Dann teilt er das Ergebnis durch die Kalorien des Futters. Für 34 in Europa verbreitete Futtersorten stehen die Kalorien schon in der Liste; für alle anderen gibt man sie selbst ein, berechnet sie aus den analytischen Bestandteilen auf der Packung oder lässt ein Foto der Packung lesen. Die Zahl, die herauskommt, ist ein Ausgangspunkt, den man alle zwei Wochen am Hund prüft. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Zucht Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
@@ -83,6 +83,7 @@ custom_content: |
   <tr><td>Erwachsen, nicht kastriert</td><td>1,8</td></tr>
   <tr><td>Erwachsen, kastriert</td><td>1,6</td></tr>
   <tr><td>Senior, ab 8 Jahren</td><td>1,4</td></tr>
+  <tr><td>Senior, kastriert</td><td>1,3</td></tr>
   </tbody>
   </table>
   <p>Die Bewegung verschiebt das Ergebnis so: ruhig × 0,85, normal × 1, sehr aktiv × 1,25, Arbeit oder Sport × 1,6. Bis zum vierten Monat zählt die Bewegung wenig, weil fast die ganze Energie ins Wachstum geht.</p>

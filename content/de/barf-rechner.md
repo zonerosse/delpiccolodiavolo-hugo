@@ -64,7 +64,7 @@ custom_content: |
   </details>
 
   <div id="barf"><noscript>Der Rechner braucht JavaScript. Ohne lässt sich die Rechnung mit den Formeln unten von Hand machen.</noscript></div>
-  <script src="/js/calcolatore-barf.js?v=20261023-2000" defer></script>
+  <script src="/js/calcolatore-barf.js?v=20261023-2300" defer></script>
 
   <div class="bf-info bf-dopo">
   <!--BLOCCO:2-->
@@ -86,7 +86,7 @@ custom_content: |
   <!--BLOCCO:3-->
   <h2>Die Formeln</h2>
   <ul>
-  <li><strong>Erwachsener</strong> = 70 × Gewicht<sup>0,75</sup> × 1,8 (unkastriert), 1,6 (kastriert) oder 1,4 (Senior) × Bewegung: 0,85 ruhig, 1 normal, 1,25 sehr aktiv, 1,6 Sport oder Arbeit</li>
+  <li><strong>Erwachsener</strong> = 70 × Gewicht<sup>0,75</sup> × 1,8 (unkastriert), 1,6 (kastriert), 1,4 (Senior) oder 1,3 (kastrierter Senior) × Bewegung: 0,85 ruhig, 1 normal, 1,25 sehr aktiv, 1,6 Sport oder Arbeit</li>
   <li><strong>Figur von oben</strong>: +10% wenn dünn, −10% bei Übergewicht</li>
   <li><strong>Welpe</strong> = 130 × Gewicht<sup>0,75</sup> × 3,2 × (e<sup>−0,87 × p</sup> − 0,1), mit p = heutiges Gewicht ÷ erwartetes Erwachsenengewicht; ohne heutiges Gewicht wird es aus dem Alter geschätzt</li>
   <li><strong>Trächtigkeit</strong>, ab der fünften Woche = 132 × Gewicht<sup>0,75</sup> + 26 × Gewicht</li>

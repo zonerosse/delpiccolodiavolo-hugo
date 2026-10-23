@@ -64,7 +64,7 @@ custom_content: |
   </details>
 
   <div id="barf"><noscript>Il calcolatore ha bisogno di JavaScript. Senza, si può fare il conto a mano con le formule qui sotto.</noscript></div>
-  <script src="/js/calcolatore-barf.js?v=20261023-2000" defer></script>
+  <script src="/js/calcolatore-barf.js?v=20261023-2300" defer></script>
 
   <div class="bf-info bf-dopo">
   <!--BLOCCO:2-->
@@ -86,7 +86,7 @@ custom_content: |
   <!--BLOCCO:3-->
   <h2>Le formule del calcolo</h2>
   <ul>
-  <li><strong>Adulto</strong> = 70 × peso<sup>0,75</sup> × 1,8 (intero), 1,6 (sterilizzato) o 1,4 (anziano) × movimento: 0,85 tranquillo, 1 normale, 1,25 molto attivo, 1,6 sport o lavoro</li>
+  <li><strong>Adulto</strong> = 70 × peso<sup>0,75</sup> × 1,8 (intero), 1,6 (sterilizzato), 1,4 (anziano) o 1,3 (anziano sterilizzato) × movimento: 0,85 tranquillo, 1 normale, 1,25 molto attivo, 1,6 sport o lavoro</li>
   <li><strong>Forma vista dall'alto</strong>: +10% se magro, −10% se in sovrappeso</li>
   <li><strong>Cucciolo</strong> = 130 × peso<sup>0,75</sup> × 3,2 × (e<sup>−0,87 × p</sup> − 0,1), con p = peso di oggi ÷ peso previsto da adulto; senza il peso di oggi, lo stima dall'età</li>
   <li><strong>Gravidanza</strong>, dalla quinta settimana = 132 × peso<sup>0,75</sup> + 26 × peso</li>
