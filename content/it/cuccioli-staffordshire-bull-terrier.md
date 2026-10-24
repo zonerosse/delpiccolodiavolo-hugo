@@ -116,6 +116,7 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">Come crescono</span>
   <h2 class="section-title">Come crescono i cuccioli nel nostro allevamento</h2>
+  <figure class="n-foto1"><img src="/images/foto/cuccioli-staffordshire-bull-terrier-cucciolata-nell-erba.webp" alt="Cucciolata di Staffordshire Bull Terrier neri nell'erba dell'allevamento Del Piccolo Diavolo" width="800" height="580" loading="lazy" decoding="async"></figure>
 
   <div class="intro-block">
   <p>I cuccioli nascono in casa, nella cassa parto, e ci restano circa un mese. &Egrave; la fase in cui la madre fa quasi tutto e il contatto con le persone conta pi&ugrave; di ogni altra cosa. Chi &egrave; venuto a vederli prima dei trenta giorni li ha visti l&igrave;. Verso il mese passano in un box con accesso all'esterno, per una ragione pratica che conosce chiunque abbia avuto una cucciolata: a quell'et&agrave; sporcano pi&ugrave; di quanto una casa abitata possa reggere. Da l&igrave; in avanti rientrano a turno, due o tre per volta e per qualche ora. Cos&igrave; ognuno vive la sua parte di casa: la famiglia, i rumori, gli altri cani, le persone che passano. Ogni cucciolata nata qui, con genitori, test, esami e foto della crescita, &egrave; raccontata nel <a href="/diario-allevamento/" title="Diario dell'allevamento">diario dell'allevamento</a>.</p>
@@ -170,6 +171,7 @@ custom_content: |
   <div class="n-passo">
   <h3>Il parto</h3>
   <div>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-appena-nato.webp" alt="Cucciolo di Staffordshire Bull Terrier appena nato nella cassa parto" width="900" height="714" loading="lazy" decoding="async"></figure>
   <p>Nello Staffordshire Bull Terrier il parto naturale &egrave; la norma: &egrave; una razza rustica, e il cesareo qui &egrave; stato un'eccezione rara. Ma quando qualcosa non va non si improvvisa: chiamo il mio veterinario di fiducia, che valuta caso per caso.</p>
 
   <p><strong>L'ossitocina si usa con molta attenzione e con parsimonia</strong>, e solo quando &egrave; il veterinario a deciderlo. Non &egrave; un acceleratore da somministrare perch&eacute; il parto va per le lunghe: se c'&egrave; un cucciolo che ostruisce, contrazioni pi&ugrave; forti sono l'ultima cosa che serve, e il rischio &egrave; la rottura dell'utero.</p>
@@ -178,6 +180,7 @@ custom_content: |
   <div class="n-passo">
   <h3>La prima settimana</h3>
   <div>
+  <figure class="n-foto1"><img src="/images/foto/cuccioli-staffordshire-bull-terrier-allattati-dalla-madre.webp" alt="Cuccioli di Staffordshire Bull Terrier di pochi giorni allattati dalla madre" width="900" height="874" loading="lazy" decoding="async"></figure>
   <p>I cuccioli nascono in casa, nella cassa parto. E per una settimana <strong>smetto di dormire nel mio letto</strong>: mi sistemo sul divano, accanto a loro.</p>
 
   <p>La prima settimana dopo il parto &egrave; la parte pi&ugrave; rischiosa di tutte. In quei giorni un cucciolo pu&ograve; finire schiacciato dalla madre che si gira, o una femmina pu&ograve; essere restia ad allattare: sono cose che si sentono prima di vederle, un mugolio diverso, un rumore che non torna. Dopo la prima settimana la situazione si alleggerisce.</p>
@@ -186,6 +189,7 @@ custom_content: |
   <div class="n-passo">
   <h3>Il giorno in cui possono partire</h3>
   <div>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-due-mesi-in-braccio.webp" alt="Cucciolo di Staffordshire Bull Terrier di due mesi tenuto in braccio" width="899" height="817" loading="lazy" decoding="async"></figure>
   <p>Vaccinazione e microchip li fa il veterinario, ed &egrave; quello che rende un cucciolo idoneo a lasciare l'allevamento. La legge italiana fissa il minimo a <strong>60 giorni</strong>; da me partono intorno ai <strong>70</strong>, perch&eacute; quella decina di giorni in pi&ugrave; serve a loro. Per l'estero i tempi si allungano ancora: ne parliamo nella <a href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Cucciolo all'estero">pagina dedicata</a>.</p>
   </div>
   </div>
@@ -212,6 +216,7 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">Carattere</span>
   <h2 class="section-title">Carattere e temperamento dello Staffordshire Bull Terrier</h2>
+  <figure class="n-foto1"><img src="/images/foto/staffordshire-bull-terrier-carattere-allegro.webp" alt="Staffordshire Bull Terrier nero allegro al guinzaglio" width="900" height="800" loading="lazy" decoding="async"></figure>
 
   <p>Il temperamento non arriva per caso: dipende dai riproduttori che si scelgono e dalle prime settimane. I nostri cuccioli crescono fra persone di et&agrave; diverse, rumori di casa e altri cani. Per questo arrivano in famiglia gi&agrave; abituati alla vita di casa.</p>
 
@@ -225,6 +230,7 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">Linee di sangue</span>
   <h2 class="section-title">Linee di sangue: Elitebull e Lackyle</h2>
+  <figure class="n-foto1"><img src="/images/foto/staffordshire-bull-terrier-adulto-in-posa.webp" alt="Staffordshire Bull Terrier adulto nero in posa" width="900" height="858" loading="lazy" decoding="async"></figure>
 
   <p>Lavoriamo su linee inglesi <strong>Elitebull</strong> e irlandesi <strong>Lackyle</strong>: le prime portano sostanza e testa, le seconde movimento e carattere. Ogni accoppiamento nasce dall'incrocio fra quello che una femmina d&agrave; e quello che le manca.</p>
 
@@ -255,6 +261,7 @@ custom_content: |
 
   <div class="content-block">
   <h3>Dopo l'affido</h3>
+  <figure class="n-foto1"><img src="/images/foto/staffordshire-bull-terrier-a-casa-con-la-famiglia.webp" alt="Staffordshire Bull Terrier nato da noi, a casa con la sua famiglia" width="675" height="900" loading="lazy" decoding="async"></figure>
   <p>Non ti lasciamo solo dopo l'affido. Ci puoi chiedere consigli su alimentazione, educazione e vita di tutti i giorni; per le dosi c'è anche il nostro <a href="/calcolatore-crocchette-cane/" title="Calcolatore delle crocchette">calcolatore delle crocchette</a>. Molte famiglie ci scrivono anche dopo anni per raccontarci come cresce il loro Staffy.</p>
   <p>Per noi &egrave; anche il modo di vedere come vengono da adulti i cani che abbiamo fatto nascere, e di capire se la selezione sta andando nella direzione giusta.</p>
   </div>
@@ -303,6 +310,7 @@ custom_content: |
   <div class="section-inner content-single">
   <span class="section-label">Affidi all'estero</span>
   <h2 class="section-title">Un cucciolo che va all'estero</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-quattro-mesi.webp" alt="Cucciolo di Staffordshire Bull Terrier di quattro mesi, età in cui può partire per l'estero" width="605" height="900" loading="lazy" decoding="async"></figure>
   <p>Un cucciolo destinato a una famiglia di un altro paese europeo parte intorno ai <strong>quattro mesi</strong>, non a due: la vaccinazione antirabbica non si pu&ograve; fare prima delle 12 settimane e ha bisogno di tempo per diventare valida. A questa si aggiungono passaporto europeo, certificato sanitario TRACES ed export pedigree ENCI.</p>
   <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Affidi all'estero</span><h3>Come funziona un affido all'estero</h3><p>Tempi, documenti ed export pedigree.</p><a class="btn" href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Come funziona un affido all'estero">Leggi la guida</a></div></div>
   </div>

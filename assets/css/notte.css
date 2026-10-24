@@ -704,3 +704,6 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .notte-pagina main .n-scheda h3{margin:0;color:#fff;font-size:1.25rem}
 .notte-pagina main .n-scheda p{margin:0}
 .n-scheda .btn{margin-top:8px;align-self:flex-start}
+/* Foto dentro le sezioni (24/10/2026, Paolo: «più foto, l'utente medio non legge»): una ogni 300 parole circa */
+figure.n-foto1{margin:0 0 18px;max-width:560px}
+figure.n-foto1 img{display:block;width:100%;height:auto;max-height:440px;object-fit:contain;border-radius:14px;background:#1f2d42}
