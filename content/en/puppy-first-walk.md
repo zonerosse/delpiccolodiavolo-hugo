@@ -67,6 +67,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>The first outing</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-alla-prima-passeggiata.webp" alt="A Staffordshire Bull Terrier puppy on one of its first outings, on the lead next to its owner" width="513" height="480" loading="lazy" decoding="async"></figure>
   <p>Pick a quiet street, a quiet time, and plan for 5 minutes, not thirty. Let the puppy set the pace, including the long minutes spent sniffing a single railing. Sniffing is not wasted time: it is how the dog collects information, and it tires a puppy more effectively than movement.</p>
   <p>Do not be surprised if the puppy sits down and refuses to move. This is extremely common and it is not stubbornness: it is a small animal overwhelmed by an unprecedented amount of information. Crouch down, wait, offer a treat, and let it start again when it is ready. Dragging a frightened puppy forward teaches it that the lead means being forced, and that lesson is expensive to undo.</p>
   <!--/BLOCCO:4-->
@@ -91,6 +92,7 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <h2>Loose lead walking from the first day</h2>
+  <figure class="n-foto1"><img src="/images/foto/staffordshire-bull-terrier-con-pettorina-di-sera.webp" alt="A young Staffordshire Bull Terrier in its harness on the evening walk" width="410" height="480" loading="lazy" decoding="async"></figure>
   <p>This breed is strong, and a puppy that learns pulling works becomes an adult that drags you down the street. The rule is simple and hard: <strong>when the lead is tight, you stop</strong>. When it slackens, you move on. Nothing else is required, and no equipment substitutes for consistency.</p>
   <p>Reward the position you want rather than correcting the one you do not. A treat delivered at your left knee, repeatedly, teaches a puppy where the good things happen far faster than any amount of pulling back.</p>
   <!--/BLOCCO:8-->

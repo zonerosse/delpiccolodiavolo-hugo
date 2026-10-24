@@ -103,6 +103,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>Exercise for adults: how much and how</h2>
+  <figure class="n-foto1"><img src="/images/blog/socializzazione-cortile-hero.webp" alt="A young Staffordshire Bull Terrier on the grass" width="478" height="760" loading="lazy" decoding="async"></figure>
   <p>An <strong>adult Staffordshire Bull Terrier</strong> (over 18 months) needs exercise every day, in at least 2 outings, but <strong>there is no ideal number of minutes for every dog</strong>: it depends on the individual, because some are more athletic and others calmer. What applies to all of them is avoiding excessive strain, above all while they are young.</p>
   <h3>Recommended activities</h3>
   <p><strong>Daily walks:</strong></p>
@@ -224,6 +225,7 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <h2>Building a balanced routine</h2>
+  <figure class="n-foto1"><img src="/images/maschio-braveheart.webp" alt="Braveheart, a Staffordshire Bull Terrier male from the Del Piccolo Diavolo kennel" width="300" height="300" loading="lazy" decoding="async"></figure>
   <p>A well-structured routine makes sure your Staffy gets the exercise it needs without risk.</p>
   <h3>An example day, adult</h3>
   <ul>

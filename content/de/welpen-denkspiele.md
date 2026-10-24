@@ -55,12 +55,14 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Beginnen Sie beim Futter</h2>
+  <figure class="n-foto1"><img src="/images/foto/muso-di-cucciolo-staffordshire-bull-terrier.webp" alt="Nahaufnahme eines Staffordshire Bull Terrier Welpen, der an einer Hand schnuppert" width="900" height="900" loading="lazy" decoding="async"></figure>
   <p>Die einfachste Umstellung kostet nichts und wirkt sofort: hören Sie auf, aus dem Napf zu füttern. Die Tagesration als Währung verwandelt jede Mahlzeit in eine Trainingseinheit und jede Fütterung in 15 Minuten Beschäftigung statt neunzig Sekunden.</p>
   <p>Verstreutes Futter im Gras oder auf einer Schnüffelmatte lässt den Welpen die Nase einsetzen, was von sich aus beruhigt. Eine in einem Gummispielzeug eingefrorene Portion beschäftigt 20 Minuten und ist unbezahlbar, wenn Sie arbeiten müssen. Trockenfutter in einem Eierkarton, den der Welpe dabei zerlegen darf, kostet nichts und stiftet echte Zufriedenheit.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
   <h2>Nasenarbeit, die wertvollste Beschäftigung</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-assonnato.webp" alt="Ein Staffordshire Bull Terrier Welpe ruht sich nach dem Spielen aus" width="674" height="622" loading="lazy" decoding="async"></figure>
   <p>Suchen beansprucht mehr Gehirn als alles andere, was ein Hund tut, und ist die wirksamste Art, diese Rasse zu ermüden. Sie braucht weder Ausrüstung noch Platz.</p>
   <p>Beginnen Sie mit einem Leckerchen unter einem von drei Bechern, sichtbar versteckt, und lassen Sie den Welpen die Lösung finden. Steigern Sie zu Verstecken im Zimmer, während der Welpe wartet, und später im Garten. Nach wenigen Wochen durchsucht der Welpe systematisch einen ganzen Raum, und eine Zwanzigminuteneinheit macht ihn wirklich zufrieden.</p>
   <p>Benennen Sie das Verhalten, sobald es verlässlich ist, mit einem einfachen "Such", und Sie haben eine Beschäftigung für das ganze Hundeleben, im Hotelzimmer, an einem Regentag oder in der Genesung.</p>

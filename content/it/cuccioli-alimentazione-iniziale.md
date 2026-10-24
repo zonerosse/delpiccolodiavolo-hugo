@@ -52,6 +52,7 @@ custom_content: |
 
   <!--BLOCCO:2-->
   <h2>La prima regola: non cambiare tutto subito</h2>
+  <figure class="n-foto1"><img src="/images/cuccioli-bilquis-nati-1.webp" alt="Cuccioli di Staffordshire Bull Terrier allattati dalla madre nei primi giorni" width="435" height="480" loading="lazy" decoding="async"></figure>
   <p>Un cucciolo che arriva in una casa nuova ha appena perso la madre, i fratelli e tutto quello che conosceva. Cambiargli anche il cibo lo stesso giorno aggiunge un disturbo digestivo alla lista, e la diarrea in un cucciolo di due mesi non è una cosa da poco.</p>
   <p>Per almeno la prima settimana si dà esattamente quello che dava l'allevatore. Se dopo si vuole cambiare, lo si fa in sette-dieci giorni: tre giorni con un quarto di cibo nuovo, tre con metà, tre con tre quarti, poi tutto nuovo. Se le feci si ammorbidiscono si torna indietro di un passo e si procede più piano.</p>
 
@@ -104,6 +105,7 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <h2>Il peso: la cosa da tenere d'occhio di più</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-quattro-mesi.webp" alt="Cucciolo di Staffordshire Bull Terrier di quattro mesi" width="605" height="900" loading="lazy" decoding="async"></figure>
   <p>Un cucciolo sovrappeso non è un cucciolo sano, e in questa razza il peso in eccesso si nasconde facilmente sotto il muscolo. Le articolazioni in crescita portano il carico per un anno, e il danno del sovrappeso durante la crescita non torna indietro: la <a href="/salute-esercizio-sicuro/" title="Esercizio sicuro">guida all'esercizio sicuro</a> spiega perché le cartilagini di accrescimento vanno rispettate fino ai dodici-diciotto mesi.</p>
   <p>Il cucciolo si pesa una volta alla settimana, sulla stessa bilancia, e il peso si scrive. L'obiettivo è una crescita regolare e moderata; una crescita rapida non è un traguardo. Nel dubbio si chiede al veterinario di valutare la condizione corporea a ogni visita per i vaccini: dieci secondi, e valgono più di qualsiasi tabella.</p>
 

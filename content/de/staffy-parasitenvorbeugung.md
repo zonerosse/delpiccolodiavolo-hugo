@@ -62,6 +62,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>Zecken</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-in-giardino.webp" alt="Ein Staffordshire Bull Terrier Welpe draußen auf einer Grasmatte" width="524" height="451" loading="lazy" decoding="async"></figure>
   <p>Zecken sind weniger wegen des Stichs bedeutsam als wegen dessen, was sie übertragen: Babesiose, Ehrlichiose, Borreliose und in Teilen Südeuropas Hepatozoonose. In Italien kann besonders die Babesiose rasch lebensbedrohlich verlaufen, weshalb wir Zeckenschutz für Hunde, die in der Nähe hohen Grases spazieren gehen, als nicht verhandelbar betrachten.</p>
   <p>Kontrollieren Sie den Hund nach jedem Gang in Gras oder Wald während der Saison, die in weiten Teilen Italiens von März bis November reicht und in milden Küstenregionen faktisch ganzjährig ist. Fahren Sie langsam mit den Händen gegen den Strich und tasten Sie nach kleinen Knoten: Ohren innen und außen, Hals, Achseln, Leisten, Zehenzwischenräume und um den After.</p>
   <p>So entfernt man eine Zecke:</p>
@@ -97,6 +98,7 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <h2>Das Jahr, Jahreszeit für Jahreszeit</h2>
+  <figure class="n-foto1"><img src="/images/blog/cucciolo-ritratto-hero.webp" alt="Porträt eines Staffordshire Bull Terrier Welpen" width="760" height="760" loading="lazy" decoding="async"></figure>
   <p>Wie sich der Parasitenschutz im Lauf des Jahres ändert, Jahreszeit für Jahreszeit:</p>
 
   <table tabindex="0">

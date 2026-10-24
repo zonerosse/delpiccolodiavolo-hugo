@@ -98,11 +98,13 @@ custom_content: |
 
   <!--BLOCCO:10-->
   <h2>Zahnwechsel, Monat für Monat</h2>
+  <figure class="n-foto1"><img src="/images/primo-piano-cucciolo.avif" alt="Nahaufnahme eines Staffordshire Bull Terrier Welpen" width="639" height="600" loading="lazy" decoding="async"></figure>
   <p>Die 28 Milchzähne brechen zwischen der dritten und sechsten Woche durch; der Wechsel zum bleibenden Gebiss beginnt mit drei bis fünf Monaten und ist mit sechs oder sieben abgeschlossen, mit 42 Zähnen. Während des Wechsels sind leicht gerötetes, geschwollenes Zahnfleisch, mehr Speichel, ein starkes Kaubedürfnis, etwas Zurückhaltung bei hartem Futter und kleine Zähne in der Wohnung normal. Zur Hilfe: gefrorenes Spielzeug, ein mit Wasser gefüllter und eingefrorener Kong, weiche Gummikauartikel statt harter, und für ein paar Tage Nassfutter, wenn der Welpe Trockenfutter verweigert; bis alle bleibenden Zähne da sind, keine Zerrspiele mit Lappen, Seilen oder Ähnlichem. Zum Tierarzt, wenn nach sieben Monaten ein Milchzahn noch neben seinem Nachfolger steht, wenn bleibende Zähne schief oder gedrängt kommen, oder bei starker Blutung, Schwellung im Gesicht oder völliger Futterverweigerung.</p>
   <!--/BLOCCO:10-->
 
   <!--BLOCCO:11-->
   <h2>Zähneputzen lernen, vom Welpenalter an</h2>
+  <figure class="n-foto1"><img src="/images/foto2.avif" alt="Ein Staffordshire Bull Terrier Welpe in der Hand, mit geschlossenem Maul" width="368" height="480" loading="lazy" decoding="async"></figure>
   <p><strong>Acht bis zwölf Wochen: Anfassen.</strong> In den ersten Tagen Fang und Lefzen beim Streicheln sanft berühren und sofort belohnen, einige Sekunden, drei- oder viermal am Tag. Dann die Oberlippe zwei bis drei Sekunden anheben und die Vorderzähne zeigen, bis zu fünf oder zehn Sekunden steigern. In der zweiten Woche die Vorderzähne mit feuchter Gaze oder einem Silikon-Fingerling sanft abreiben; in der dritten und vierten Woche bis zu den hinteren Prämolaren ausdehnen, fünfzehn bis zwanzig Sekunden je Seite.</p>
   <p><strong>Zwölf bis sechzehn Wochen: die Zahnbürste.</strong> Eine weiche Hundezahnbürste, eine enzymatische Tierzahnpasta mit Fleisch- oder Hühnergeschmack, nie eine für Menschen, und besonders gute Belohnungen.</p>
   <p><strong>Ab vier Monaten: vollständiges Putzen</strong>, drei- bis siebenmal pro Woche, insgesamt zwei bis drei Minuten. Vom Zahnfleischrand zur Spitze bürsten, die meiste Zeit auf den hinteren Prämolaren und Molaren, wo sich Zahnstein zuerst bildet; die Innenseiten sind freiwillig, wenn der Hund sie duldet. Mit einer großzügigen Belohnung abschließen; Ausspülen ist nicht nötig. Wehrt sich der Hund, aufhören und später neu versuchen; blutet das Zahnfleisch, putzen Sie zu fest.</p>

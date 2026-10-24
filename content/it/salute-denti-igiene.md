@@ -106,11 +106,13 @@ custom_content: |
 
   <!--BLOCCO:10-->
   <h2>La dentizione, mese per mese</h2>
+  <figure class="n-foto1"><img src="/images/primo-piano-cucciolo.avif" alt="Primo piano di un cucciolo di Staffordshire Bull Terrier" width="639" height="600" loading="lazy" decoding="async"></figure>
   <p>I 28 denti da latte spuntano fra le tre e le sei settimane; il cambio con i denti definitivi comincia fra i tre e i cinque mesi e finisce a sei o sette, con 42 denti. Durante il cambio è normale vedere gengive un po' rosse e gonfie, più bava, una gran voglia di masticare, qualche difficoltà con il cibo duro, e dentini trovati in giro per casa. Per aiutarlo: giochi congelati, un Kong riempito d'acqua e messo in freezer, masticativi in gomma morbida invece che duri, e cibo umido per qualche giorno se rifiuta le crocchette; fino al cambio completo dei denti, niente tira e molla con stracci, corde o simili. Dal veterinario se dopo i sette mesi un dente da latte è ancora al suo posto accanto al definitivo, se i denti definitivi crescono storti o affollati, o in caso di sanguinamento abbondante, gonfiore del muso o rifiuto completo del cibo.</p>
   <!--/BLOCCO:10-->
 
   <!--BLOCCO:11-->
   <h2>Insegnare lo spazzolino, da cucciolo</h2>
+  <figure class="n-foto1"><img src="/images/foto2.avif" alt="Cucciolo di Staffordshire Bull Terrier tenuto in mano, a bocca chiusa" width="368" height="480" loading="lazy" decoding="async"></figure>
   <p><strong>Dalle otto alle dodici settimane: abituarlo al contatto.</strong> Nei primi giorni si tocca piano il muso e le labbra mentre lo si accarezza, con un premio subito, pochi secondi tre o quattro volte al giorno. Poi si solleva il labbro superiore per due o tre secondi, mostrando i denti davanti, fino ad arrivare a cinque-dieci. Nella seconda settimana si strofinano piano i denti davanti con una garza umida o uno spazzolino da dito in silicone; fra la terza e la quarta si arriva ai premolari in fondo, quindici-venti secondi per lato.</p>
   <p><strong>Dalle dodici alle sedici settimane: lo spazzolino.</strong> Uno spazzolino per cani a setole morbide, un dentifricio enzimatico veterinario al gusto di carne o pollo, mai quello umano, e premi di alto valore.</p>
   <p><strong>Dai quattro mesi: la spazzolatura completa</strong>, da tre a sette volte alla settimana, due o tre minuti in tutto. Si spazzola dalla gengiva verso la punta, dedicando più tempo a premolari e molari in fondo, dove il tartaro si forma prima; le superfici interne sono facoltative, se il cane le tollera. Si chiude con un premio generoso; non serve sciacquare. Se il cane si agita ci si ferma e si riprova più tardi; se le gengive sanguinano, si sta spazzolando troppo forte.</p>

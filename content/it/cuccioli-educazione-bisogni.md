@@ -64,6 +64,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>Cosa fare fuori</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-fuori-dalla-porta.webp" alt="Cucciolo di Staffordshire Bull Terrier fuori dalla porta di casa, sul tappetino d'erba" width="524" height="451" loading="lazy" decoding="async"></figure>
   <p>Si sceglie un posto e si va sempre in quello. L'odore residuo stimola il comportamento, e la costanza accorcia il processo in modo considerevole.</p>
   <p>Si aspetta in silenzio, senza incoraggiare né giocare, perché un cucciolo intrattenuto si dimentica perché è uscito. Quando fa, il premio arriva subito e con entusiasmo, entro due secondi, non una volta rientrati in casa, che insegna un'associazione completamente sbagliata.</p>
   <p>Si aggiunge una parola detta a bassa voce mentre il cucciolo sta facendo, sempre la stessa. Nel giro di qualche settimana la maggior parte dei cuccioli ci risponde, ed è preziosa sotto la pioggia, prima di un viaggio in auto o in un posto sconosciuto.</p>
@@ -79,6 +80,7 @@ custom_content: |
 
   <!--BLOCCO:6-->
   <h2>Le notti</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-che-dorme.webp" alt="Cucciolo di Staffordshire Bull Terrier che dorme" width="330" height="300" loading="lazy" decoding="async"></figure>
   <p>Nelle prime settimane la cuccia o il kennel stanno dove si dorme. Un cucciolo che ti sente si tranquillizza prima, e tu lo senti quando ha bisogno di uscire. L'acqua si toglie un'ora prima di andare a letto, ma non si limita mai durante il giorno.</p>
   <p>Nelle prime settimane a casa ci si aspettano una o due uscite per notte, che di solito diventano una entro le dodici settimane e nessuna entro i quattro mesi. Le uscite notturne devono essere noiose: niente parole, niente gioco, niente luce se si riesce. Fuori, aspettare, di nuovo a letto.</p>
   <!--/BLOCCO:6-->

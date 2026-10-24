@@ -58,6 +58,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Il calendario</h2>
+  <figure class="n-foto1"><img src="/images/foto1.avif" alt="Cucciolo di Staffordshire Bull Terrier di poche settimane tenuto in mano" width="397" height="480" loading="lazy" decoding="async"></figure>
   <p>Il protocollo che seguiamo noi è questo. La prima iniezione si fa fra le sei e le otto settimane, prima che il cucciolo lasci l'allevamento, e copre cimurro, epatite e parvovirosi. La seconda si fa a tre mesi, di solito aggiungendo la leptospirosi. Poi il richiamo dopo un anno, e da lì in avanti l'intervallo dipende dal vaccino e dalla valutazione del veterinario. Il veterinario di fiducia può avere un protocollo diverso, per esempio con una dose in più verso le sedici settimane: in quel caso vale il suo parere.</p>
 
   <table tabindex="0">
@@ -96,6 +97,7 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>Dove può andare il cucciolo nel frattempo</h2>
+  <figure class="n-foto1"><img src="/images/foto/signora-con-cucciolo-staffordshire-bull-terrier.webp" alt="Signora che tiene in braccio un cucciolo di Staffordshire Bull Terrier" width="681" height="900" loading="lazy" decoding="async"></figure>
   <p>È la domanda pratica che conta di più, perché il periodo sensibile della socializzazione si chiude intorno alla dodicesima settimana, un paio di settimane prima che la protezione sia completa. Aspettare passivamente fino a quel momento costa in comportamento più di quanto risparmi in rischio di infezione. Cosa vuol dire davvero socializzare, e cosa un cucciolo può aver già incontrato in allevamento, è spiegato in <a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Cuccioli socializzati: cosa vuol dire">cuccioli socializzati: cosa vuol dire davvero</a>.</p>
   <p>Sicuro prima che il ciclo sia completo: portare il cucciolo in braccio per strada, andare a casa di amici con cani sani e vaccinati, il proprio giardino se non ci è passato nessun cane non vaccinato, i giri in auto per guardare il mondo da un finestrino.</p>
   <p>Da evitare: parchi pubblici e aree cani, marciapiedi dove urinano molti cani sconosciuti, il pavimento della sala d'attesa del veterinario, e il contatto con cani di cui non si conosce lo stato vaccinale.</p>

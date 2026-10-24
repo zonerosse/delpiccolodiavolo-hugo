@@ -53,6 +53,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Der Impfplan</h2>
+  <figure class="n-foto1"><img src="/images/foto1.avif" alt="Ein wenige Wochen alter Staffordshire Bull Terrier Welpe in der Hand" width="397" height="480" loading="lazy" decoding="async"></figure>
   <p>Dies ist das Protokoll, dem wir folgen. Die erste Injektion erfolgt mit 6 bis 8 Wochen, noch beim Züchter, und deckt Staupe, Hepatitis und Parvovirose ab. Die zweite erfolgt mit drei Monaten, meist ergänzt um Leptospirose. Dann die Auffrischung ein Jahr später; danach richtet sich der Abstand nach Impfstoff und tierärztlicher Einschätzung. Der eigene Tierarzt kann ein anderes Protokoll haben, zum Beispiel mit einer zusätzlichen Dosis um die 16. Woche: dann gilt sein Rat.</p>
 
   <table tabindex="0">
@@ -91,6 +92,7 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>Wohin der Welpe in der Zwischenzeit darf</h2>
+  <figure class="n-foto1"><img src="/images/foto/signora-con-cucciolo-staffordshire-bull-terrier.webp" alt="Eine Frau hält einen Staffordshire Bull Terrier Welpen im Arm" width="681" height="900" loading="lazy" decoding="async"></figure>
   <p>Das ist die praktisch wichtigste Frage, denn das Sozialisierungsfenster schließt sich um die zwölfte Woche, etwa zwei Wochen bevor der Schutz vollständig ist. Passiv abzuwarten kostet im Verhalten mehr, als es an Infektionsrisiko spart.</p>
   <p>Unbedenklich vor Abschluss: den Welpen auf dem Arm durch die Straße tragen, Freunde mit geimpften gesunden Hunden besuchen, der eigene Garten, sofern dort kein ungeimpfter Hund war, und Autofahrten, um die Welt vom Fenster aus zu sehen.</p>
   <p>Zu meiden: öffentliche Parks und Hundewiesen, Gehwege, auf denen viele fremde Hunde markieren, der Boden im Wartezimmer und Kontakt mit Hunden unbekannten Impfstatus.</p>

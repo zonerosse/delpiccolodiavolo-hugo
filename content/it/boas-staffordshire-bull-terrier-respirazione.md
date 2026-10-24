@@ -78,6 +78,7 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">La posizione dello Staffy</span>
   <h2 class="section-title">Lo Staffordshire Bull Terrier non è una razza brachicefala</h2>
+  <figure class="n-foto1"><img src="/images/bilquis-campionessa-hero.avif" alt="Bilquis, femmina di Staffordshire Bull Terrier con muso proporzionato e narici aperte" width="800" height="976" loading="lazy" decoding="async"></figure>
 
   <div class="zigzag">
   <div class="zigzag-item">
@@ -174,6 +175,7 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">Per chi sceglie un cucciolo</span>
   <h2 class="section-title">Come scegliere un cucciolo sano</h2>
+  <figure class="n-foto1"><img src="/images/foto4.avif" alt="Cucciolo di Staffordshire Bull Terrier sano e vivace tenuto in mano" width="415" height="480" loading="lazy" decoding="async"></figure>
 
   <div class="faq-item">
   <h3>Osserva i genitori</h3>

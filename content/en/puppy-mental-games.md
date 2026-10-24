@@ -62,12 +62,14 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Start with food</h2>
+  <figure class="n-foto1"><img src="/images/foto/muso-di-cucciolo-staffordshire-bull-terrier.webp" alt="Close-up of a Staffordshire Bull Terrier puppy sniffing a hand" width="900" height="900" loading="lazy" decoding="async"></figure>
   <p>The simplest change costs nothing and works immediately: stop feeding from a bowl. A puppy's daily ration used as currency turns every meal into a training session and every mealtime into 15 minutes of occupation instead of ninety seconds.</p>
   <p>Scatter feeding in grass or on a snuffle mat makes the puppy use its nose, which is intrinsically calming. A portion frozen into a rubber toy with a little wet food occupies a puppy for 20 minutes and is invaluable when you need to work. Kibble hidden in a cardboard egg box, which the puppy may destroy in the process, costs nothing and provides real satisfaction.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
   <h2>Nose work, the highest value activity</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-assonnato.webp" alt="A Staffordshire Bull Terrier puppy resting after play" width="674" height="622" loading="lazy" decoding="async"></figure>
   <p>Scenting engages more of a dog's brain than anything else it does, and it is the single most effective way to tire this breed. It also requires no equipment and no space.</p>
   <p>Begin with a treat under one of three plastic cups, in full view, and let the puppy work it out. Progress to hiding treats around a room while the puppy waits in another, then to hiding them in the garden. Within a few weeks most puppies will search a whole room systematically, and a twenty-minute session leaves them genuinely satisfied.</p>
   <p>Name the behaviour once it is reliable, with a simple cue like "find it", and you have an activity you can use for the rest of the dog's life, in a hotel room, on a rainy day, or when the dog is convalescing.</p>

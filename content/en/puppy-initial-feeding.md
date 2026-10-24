@@ -54,6 +54,7 @@ custom_content: |
 
   <!--BLOCCO:2-->
   <h2>The first rule: do not change anything at once</h2>
+  <figure class="n-foto1"><img src="/images/cuccioli-bilquis-nati-1.webp" alt="Staffordshire Bull Terrier puppies nursing from their mother in the first days" width="435" height="480" loading="lazy" decoding="async"></figure>
   <p>A puppy arriving in a new home has already lost its mother, its littermates and everything familiar. Changing its food on the same day adds digestive upset to that list, and diarrhoea in a two-month-old puppy is not a minor matter.</p>
   <p>Feed exactly what the breeder was feeding for at least the first week. If you want to change afterwards, do it over 7 to 10 days: 3 days at 1 quarter new food, 3 at half, 3 at 3 quarters, then complete. Any loosening of the stools means going back a step and moving more slowly.</p>
 
@@ -106,6 +107,7 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <h2>Weight: the thing to watch most closely</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-quattro-mesi.webp" alt="A four-month-old Staffordshire Bull Terrier puppy" width="605" height="900" loading="lazy" decoding="async"></figure>
   <p>An overweight puppy is not a healthy puppy, and in this breed excess weight is easy to miss under muscle. Growing joints carry the load for a year, and the damage from excess weight during growth does not reverse.</p>
   <p>Weigh the puppy weekly on the same scales and write it down. Steady, moderate growth is the goal; rapid growth is not an achievement. If in doubt, ask your veterinarian to body-condition score the puppy at each vaccination visit, which takes 10 seconds and is more useful than any chart.</p>
 

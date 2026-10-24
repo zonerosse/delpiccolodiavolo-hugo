@@ -101,6 +101,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>Bewegung für Erwachsene: wie viel und wie</h2>
+  <figure class="n-foto1"><img src="/images/blog/socializzazione-cortile-hero.webp" alt="Ein junger Staffordshire Bull Terrier auf der Wiese" width="478" height="760" loading="lazy" decoding="async"></figure>
   <p>Ein <strong>erwachsener Staffordshire Bull Terrier</strong> (über 18 Monate) braucht jeden Tag Bewegung, in mindestens 2 Ausgängen, aber <strong>es gibt keine ideale Minutenzahl für jeden Hund</strong>: sie hängt vom einzelnen Hund ab, weil manche sportlicher und andere ruhiger sind. Für alle gilt, übermäßige Belastung zu vermeiden, vor allem in jungen Jahren.</p>
   <h3>Empfohlene Aktivitäten</h3>
   <p><strong>Tägliche Spaziergänge:</strong></p>
@@ -222,6 +223,7 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <h2>Eine ausgewogene Routine aufbauen</h2>
+  <figure class="n-foto1"><img src="/images/maschio-braveheart.webp" alt="Braveheart, ein Staffordshire Bull Terrier Rüde der Zucht Del Piccolo Diavolo" width="300" height="300" loading="lazy" decoding="async"></figure>
   <p>Eine gut aufgebaute Routine sorgt dafür, dass Ihr Staffy die Bewegung bekommt, die er braucht, ohne Risiko.</p>
   <h3>Beispiel eines Tages, erwachsener Hund</h3>
   <ul>

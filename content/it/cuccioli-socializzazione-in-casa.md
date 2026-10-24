@@ -67,6 +67,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>La lista per la casa</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-sul-plaid.webp" alt="Cucciolo di Staffordshire Bull Terrier tranquillo sul plaid di casa" width="324" height="432" loading="lazy" decoding="async"></figure>
   <p>Si comincia dentro, dove si controlla tutto. Prima le superfici: piastrelle, parquet, tappeto, un sacchetto di plastica steso a terra, un cuscino instabile, erba bagnata, ghiaia. Il cucciolo sceglie da solo di camminarci sopra, e si premia la scelta invece di sollevarlo e depositarlo dall'altra parte.</p>
   <p>Poi i rumori, ed è la voce che i proprietari trascurano di più. L'aspirapolvere, la lavatrice in centrifuga, il campanello, una pentola che cade, il phon, la televisione con gli applausi. Ogni rumore si presenta a basso volume e a distanza, abbinato al cibo, e si aumenta gradualmente nell'arco di giorni.</p>
   <p>Poi le manipolazioni. Orecchie toccate e guardate dentro, zampe tenute in mano, dita separate, bocca aperta, coda tenuta per un attimo, corpo spazzolato dappertutto. Due minuti al giorno di questo rendono semplici le visite dal veterinario e il taglio delle unghie per i quattordici anni successivi, e saltarli produce un cane adulto forte che va contenuto per le cure di routine.</p>
@@ -89,6 +90,7 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>Incontrare altri cani, fatto bene</h2>
+  <figure class="n-foto1"><img src="/images/foto/cuccioli-staffordshire-bull-terrier-che-giocano-nel-prato.webp" alt="Due cuccioli di Staffordshire Bull Terrier che si conoscono nel prato" width="794" height="600" loading="lazy" decoding="async"></figure>
   <p>Qualità più che quantità, e adulti calmi più che altri cuccioli. Un cane adulto equilibrato e ben educato insegna a un cucciolo più cose sulla comunicazione fra cani in dieci minuti che un'ora di gioco caotico fra cuccioli, che spesso insegna solo la sovraeccitazione.</p>
   <p>Gli incontri restano brevi e si chiudono quando entrambi i cani sono ancora rilassati. Le aree cani a questa età si evitano del tutto: la combinazione di caratteri sconosciuti e nessuna sorveglianza è esattamente la circostanza in cui succede la brutta esperienza che segna.</p>
   <!--/BLOCCO:7-->

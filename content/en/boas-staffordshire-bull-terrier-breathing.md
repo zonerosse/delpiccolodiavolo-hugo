@@ -78,6 +78,7 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">The Staffy's position</span>
   <h2 class="section-title">The Staffordshire Bull Terrier is not a brachycephalic breed</h2>
+  <figure class="n-foto1"><img src="/images/bilquis-campionessa-hero.avif" alt="Bilquis, a Staffordshire Bull Terrier female with a balanced muzzle and open nostrils" width="800" height="976" loading="lazy" decoding="async"></figure>
 
   <div class="zigzag">
   <div class="zigzag-item">
@@ -174,6 +175,7 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">For people choosing a puppy</span>
   <h2 class="section-title">How to choose a healthy puppy</h2>
+  <figure class="n-foto1"><img src="/images/foto4.avif" alt="A healthy, lively Staffordshire Bull Terrier puppy held in a hand" width="415" height="480" loading="lazy" decoding="async"></figure>
 
   <div class="faq-item">
   <h3>Observe the parents</h3>

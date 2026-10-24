@@ -60,12 +60,14 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Si comincia dal cibo</h2>
+  <figure class="n-foto1"><img src="/images/foto/muso-di-cucciolo-staffordshire-bull-terrier.webp" alt="Muso di un cucciolo di Staffordshire Bull Terrier che annusa una mano" width="900" height="900" loading="lazy" decoding="async"></figure>
   <p>Il cambiamento più semplice non costa niente e funziona subito: si smette di dare da mangiare nella ciotola. La razione quotidiana usata come moneta trasforma ogni pasto in una sessione di addestramento e ogni ora dei pasti in quindici minuti di occupazione invece di novanta secondi. Quanto dare, e come contare i premi, è nella guida all'<a href="/cuccioli-alimentazione-iniziale/" title="Alimentazione del cucciolo">alimentazione iniziale</a>.</p>
   <p>Le crocchette sparse nell'erba o su un tappetino olfattivo obbligano il cucciolo a usare il naso, che è calmante di per sé. Una porzione congelata in un gioco di gomma con un po' di umido occupa un cucciolo per venti minuti ed è preziosa quando si deve lavorare. Le crocchette nascoste in un contenitore delle uova di cartone, che il cucciolo può anche distruggere nel frattempo, non costano niente e danno una soddisfazione vera.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
   <h2>La ricerca olfattiva, l'attività di maggior valore</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-assonnato.webp" alt="Cucciolo di Staffordshire Bull Terrier che riposa dopo il gioco" width="674" height="622" loading="lazy" decoding="async"></figure>
   <p>Fiutare impegna il cervello di un cane più di qualsiasi altra cosa che faccia, ed è il singolo modo più efficace per stancare questa razza. Non richiede attrezzatura e non richiede spazio.</p>
   <p>Si comincia con un premio sotto uno di tre bicchieri di plastica, in piena vista, e si lascia che il cucciolo ci arrivi. Si passa a nascondere i premi in una stanza mentre il cucciolo aspetta in un'altra, poi a nasconderli in giardino. Nel giro di qualche settimana la maggior parte dei cuccioli perlustra una stanza intera in modo sistematico, e una sessione di venti minuti li lascia davvero appagati.</p>
   <p>Una volta che il comportamento è affidabile gli si dà un nome, un segnale semplice come «cerca», e si ha un'attività da usare per tutta la vita del cane, in una camera d'albergo, in un giorno di pioggia o durante una convalescenza.</p>

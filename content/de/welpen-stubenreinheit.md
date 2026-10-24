@@ -66,6 +66,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>Was draußen zu tun ist</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-fuori-dalla-porta.webp" alt="Ein Staffordshire Bull Terrier Welpe vor der Haustür auf einer Grasmatte" width="524" height="451" loading="lazy" decoding="async"></figure>
   <p>Wählen Sie eine Stelle und gehen Sie immer dorthin. Der verbliebene Geruch löst das Verhalten aus, und Beständigkeit verkürzt den Prozess erheblich.</p>
   <p>Warten Sie schweigend, statt zu ermuntern oder zu spielen, denn ein unterhaltener Welpe vergisst, weshalb er draußen ist. Belohnen Sie sofort und deutlich, sobald er sich löst, innerhalb von 2 Sekunden, nicht erst drinnen, was eine völlig falsche Verknüpfung schafft.</p>
   <p>Sagen Sie währenddessen leise immer dasselbe Wort. Nach wenigen Wochen reagieren die meisten Welpen darauf, was im Regen, vor einer Autofahrt oder an fremden Orten unbezahlbar ist.</p>
@@ -81,6 +82,7 @@ custom_content: |
 
   <!--BLOCCO:6-->
   <h2>Nächte</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-che-dorme.webp" alt="Ein schlafender Staffordshire Bull Terrier Welpe" width="330" height="300" loading="lazy" decoding="async"></figure>
   <p>Stellen Sie Box oder Bett in den ersten Wochen in Ihr Schlafzimmer. Ein Welpe, der Sie hört, beruhigt sich schneller, und Sie hören, wenn er hinaus muss. Nehmen Sie das Wasser eine Stunde vor dem Schlafen weg, aber schränken Sie es tagsüber nie ein.</p>
   <p>Rechnen Sie in den ersten Wochen zu Hause mit ein bis zwei nächtlichen Gängen, meist nur noch einem mit 12 Wochen und keinem mehr mit 4 Monaten. Halten Sie diese Gänge langweilig: nicht sprechen, nicht spielen, möglichst kein Licht. Raus, warten, zurück ins Bett.</p>
   <!--/BLOCCO:6-->

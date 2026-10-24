@@ -124,6 +124,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>Esercizio per adulti: quanto e come</h2>
+  <figure class="n-foto1"><img src="/images/blog/socializzazione-cortile-hero.webp" alt="Giovane Staffordshire Bull Terrier nel prato" width="478" height="760" loading="lazy" decoding="async"></figure>
 
   <p>Uno <strong>Staffordshire Bull Terrier adulto</strong> (oltre 18 mesi) ha bisogno di movimento ogni giorno, in almeno 2 uscite, ma <strong>non esiste un minutaggio giusto per tutti</strong>: dipende dal soggetto, perché alcuni sono più atletici e altri più tranquilli. Quello che vale per tutti è evitare le sollecitazioni eccessive, soprattutto da giovani.</p>
 
@@ -270,6 +271,7 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <h2>Costruire una routine equilibrata</h2>
+  <figure class="n-foto1"><img src="/images/maschio-braveheart.webp" alt="Braveheart, maschio di Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo" width="300" height="300" loading="lazy" decoding="async"></figure>
 
   <p>Una routine ben strutturata garantisce che il tuo Staffy riceva l'esercizio necessario senza rischi.</p>
 

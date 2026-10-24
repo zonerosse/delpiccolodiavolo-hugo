@@ -62,6 +62,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>Ticks</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-in-giardino.webp" alt="A Staffordshire Bull Terrier puppy outdoors on a grass mat" width="524" height="451" loading="lazy" decoding="async"></figure>
   <p>Ticks matter less for the bite than for what they transmit: babesiosis, ehrlichiosis, borreliosis and, in parts of southern Europe, hepatozoonosis. In Italy, babesiosis in particular can be rapidly life-threatening, and it is the reason we treat tick prevention as non-negotiable for dogs that walk anywhere near long grass.</p>
   <p>Check the dog after every walk in grass or woodland during the season, which in most of Italy now runs from March to November and in mild coastal areas effectively all year. Run your hands slowly against the coat, feeling for small lumps: ears inside and out, neck, armpits, groin, between the toes and around the anus.</p>
   <p>To remove a tick:</p>
@@ -97,6 +98,7 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <h2>The year, season by season</h2>
+  <figure class="n-foto1"><img src="/images/blog/cucciolo-ritratto-hero.webp" alt="Portrait of a Staffordshire Bull Terrier puppy" width="760" height="760" loading="lazy" decoding="async"></figure>
   <p>How protection against parasites changes through the year, season by season:</p>
 
   <table tabindex="0">

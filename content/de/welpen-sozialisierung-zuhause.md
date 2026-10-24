@@ -61,6 +61,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>Die Checkliste für zu Hause</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-sul-plaid.webp" alt="Ein Staffordshire Bull Terrier Welpe entspannt auf einer Decke zu Hause" width="324" height="432" loading="lazy" decoding="async"></figure>
   <p>Beginnen Sie drinnen, wo Sie alles steuern. Zuerst Untergründe: Fliesen, Holz, Teppich, eine flach ausgelegte Plastiktüte, ein wackeliges Kissen, nasses Gras, Kies. Lassen Sie den Welpen selbst darauf treten und belohnen Sie die Entscheidung, statt ihn hinüberzuheben.</p>
   <p>Dann Geräusche, der am meisten vernachlässigte Punkt. Staubsauger, Waschmaschine im Schleudergang, Türklingel, ein fallender Topf, Föhn, ein Fernseher mit Applaus. Führen Sie jedes leise und aus Entfernung ein, gekoppelt mit Futter, und steigern Sie über Tage.</p>
   <p>Dann das Anfassen. Ohren berühren und hineinsehen, Pfoten halten, Zehen spreizen, Maul öffnen, Rute kurz halten, den ganzen Körper bürsten. 2 Minuten täglich machen Tierarztbesuche und Krallenschneiden für die nächsten 14 Jahre unproblematisch; wer es auslässt, hat später einen kräftigen erwachsenen Hund, der für Routinepflege festgehalten werden muss.</p>
@@ -83,6 +84,7 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>Begegnungen mit anderen Hunden</h2>
+  <figure class="n-foto1"><img src="/images/foto/cuccioli-staffordshire-bull-terrier-che-giocano-nel-prato.webp" alt="Zwei Staffordshire Bull Terrier Welpen lernen sich auf der Wiese kennen" width="794" height="600" loading="lazy" decoding="async"></figure>
   <p>Qualität vor Menge, und ruhige Erwachsene vor anderen Welpen. Ein souveräner, gut erzogener erwachsener Hund vermittelt in 10 Minuten mehr über Hundekommunikation als eine Stunde turbulentes Welpenspiel, das oft nur Übererregung lehrt.</p>
   <p>Halten Sie Begegnungen kurz und beenden Sie sie, solange beide Hunde entspannt sind. Meiden Sie Hundewiesen in diesem Alter vollständig: unbekannte Wesen ohne Aufsicht sind genau der Rahmen, in dem eine prägende schlechte Erfahrung entsteht.</p>
   <!--/BLOCCO:7-->

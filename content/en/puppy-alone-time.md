@@ -71,6 +71,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Starting from the first days</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-che-riposa-da-solo.webp" alt="A Staffordshire Bull Terrier puppy resting calmly on its own" width="350" height="300" loading="lazy" decoding="async"></figure>
   <p>Begin with 30 seconds. Give the puppy something genuinely good (a stuffed rubber toy, a chew), go behind a door, and come back before it has finished and before it becomes distressed. Returning before the puppy is upset is the whole method: you are teaching that you always come back, not testing how long it lasts.</p>
   <p>Extend gradually: 1 minute, 3, 10, 20, forty. If a step produces distress, you moved too fast; go back two steps and rebuild. Progress is not linear and a bad week does not undo the work.</p>
   <p>Vary your behaviour so that departure cues lose meaning. Pick up the keys and sit down. Put on your coat and make coffee. A puppy that has seen those actions a hundred times without you leaving stops reading them as warnings.</p>
@@ -84,6 +85,7 @@ custom_content: |
 
   <!--BLOCCO:5-->
   <h2>The environment</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-sulla-coperta.webp" alt="A Staffordshire Bull Terrier puppy on its blanket" width="675" height="900" loading="lazy" decoding="async"></figure>
   <p>A crate is useful if the puppy has been taught to love it, and harmful if used as containment. Feed in it, give chews in it, leave the door open, and never use it as punishment. A puppy that chooses to sleep in its crate has a den; a puppy shut in one has a cage.</p>
   <p>Alternatively, restrict the puppy to one safe room with a gate rather than the whole house. Leave a radio or television on quietly, which masks street noises that otherwise trigger barking. Provide something to chew, since chewing is genuinely calming.</p>
   <!--/BLOCCO:5-->

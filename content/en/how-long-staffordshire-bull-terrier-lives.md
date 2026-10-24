@@ -46,6 +46,7 @@ custom_content: |
   <p>The Staffordshire Bull Terrier lives on average <strong>12 to 14 years</strong>, a long life for a muscular, medium-small dog. At the <a href="/en/">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers in Ostellato (Ferrara, Italy) since 2013</a>, Nutella is 12 and has never had a health problem, two other females are 10 and 9, and Nutella's father, born to a breeder in Northern Ireland, reached 17, still able to follow his breeder on walks through the woods. After genetics, the factor that matters most is not some miracle supplement but weight: a fourteen-year study found that dogs kept lean lived almost two years longer on average. A dog that breathes well, moves, and does not get fat ages better.</p>
 
   <h2 class="section-title">A long-lived breed for its size</h2>
+  <figure class="n-foto1"><img src="/images/femmina-kennedy.webp" alt="Kennedy, a Staffordshire Bull Terrier female from the Del Piccolo Diavolo kennel" width="300" height="400" loading="lazy" decoding="async"></figure>
 
   <div class="content-block">
   <p>In dogs a general rule holds: the smaller the size, the longer the life. The Staffordshire Bull Terrier is a compact, well-built dog and sits in the good range: the <a href="https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="The Kennel Club (UK), Staffordshire Bull Terrier (opens in a new tab)">Kennel Club (UK)</a> gives the breed a life expectancy of around 12 to 14 years.</p>
@@ -115,6 +116,7 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">The senior dog</span>
   <h2 class="section-title">What changes after ten</h2>
+  <figure class="n-foto1"><img src="/images/maschio-papillon.webp" alt="Papillon, a Staffordshire Bull Terrier male from the Del Piccolo Diavolo kennel" width="300" height="375" loading="lazy" decoding="async"></figure>
 
   <div class="content-block">
   <p>Ageing well does not mean not ageing. At twelve, Nutella is a little stiff in the morning (nothing much, she loosens up after the first few steps) and she hears less: to get through to her you have to raise your voice. These are the normal signs of age, not illnesses, and with a little care they take nothing away from quality of life.</p>

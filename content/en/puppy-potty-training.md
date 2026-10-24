@@ -66,6 +66,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>What to do outside</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-fuori-dalla-porta.webp" alt="A Staffordshire Bull Terrier puppy outside the front door, on a grass mat" width="524" height="451" loading="lazy" decoding="async"></figure>
   <p>Choose one spot and always go to it. The residual scent prompts the behaviour, and consistency shortens the process considerably.</p>
   <p>Wait in silence rather than encouraging or playing, because a puppy that is entertained forgets why it came out. When it performs, reward immediately and enthusiastically, within 2 seconds, not once you are back indoors, which teaches the wrong association entirely.</p>
   <p>Add a quiet verbal cue while the puppy is in the act, always the same word. Within a few weeks most puppies will respond to it, which is invaluable in the rain, before a car journey, or in an unfamiliar place.</p>
@@ -81,6 +82,7 @@ custom_content: |
 
   <!--BLOCCO:6-->
   <h2>Nights</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-che-dorme.webp" alt="A Staffordshire Bull Terrier puppy asleep" width="330" height="300" loading="lazy" decoding="async"></figure>
   <p>Put the crate or bed where you sleep for the first weeks. A puppy that can hear you settles faster, and you hear it when it needs to go out. Remove water an hour before bed but never restrict water during the day.</p>
   <p>Expect one or two outings during the night in the first weeks at home, usually reducing to one by 12 weeks and none by 4 months. Keep night outings boring: no talking, no play, no light if you can manage it. Out, wait, back to bed.</p>
   <!--/BLOCCO:6-->

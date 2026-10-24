@@ -46,6 +46,7 @@ custom_content: |
   <p>Der Staffordshire Bull Terrier wird im Schnitt <strong>12 bis 14 Jahre</strong> alt, ein langes Leben für einen muskulösen Hund mittlerer bis kleiner Größe. In der <a href="/de/">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>, ist Nutella 12 Jahre alt und hatte nie ein Gesundheitsproblem, zwei weitere Hündinnen sind 10 und 9, und Nutellas Vater, bei einem Züchter in Nordirland geboren, wurde 17 und begleitete seinen Züchter bis zuletzt auf Spaziergängen durch den Wald. Nach der Genetik ist der wichtigste Faktor kein Wundermittel, sondern das Gewicht: eine vierzehn Jahre lange Studie zeigte, dass schlank gehaltene Hunde im Schnitt fast zwei Jahre länger leben. Ein Hund, der gut atmet, sich bewegt und nicht dick wird, altert besser.</p>
 
   <h2 class="section-title">Eine für ihre Größe langlebige Rasse</h2>
+  <figure class="n-foto1"><img src="/images/femmina-kennedy.webp" alt="Kennedy, eine Staffordshire Bull Terrier Hündin der Zucht Del Piccolo Diavolo" width="300" height="400" loading="lazy" decoding="async"></figure>
 
   <div class="content-block">
   <p>Bei Hunden gilt eine allgemeine Regel: je kleiner die Größe, desto länger das Leben. Der Staffordshire Bull Terrier ist ein kompakter, gut gebauter Hund und liegt im guten Bereich: der <a href="https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="britische Kennel Club – The Kennel Club (UK), Staffordshire Bull Terrier (öffnet in einem neuen Tab)">britische Kennel Club</a> gibt für die Rasse eine Lebenserwartung von etwa 12 bis 14 Jahren an.</p>
@@ -115,6 +116,7 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">Der alte Hund</span>
   <h2 class="section-title">Was sich nach zehn Jahren ändert</h2>
+  <figure class="n-foto1"><img src="/images/maschio-papillon.webp" alt="Papillon, ein Staffordshire Bull Terrier Rüde der Zucht Del Piccolo Diavolo" width="300" height="375" loading="lazy" decoding="async"></figure>
 
   <div class="content-block">
   <p>Gut zu altern heißt nicht, nicht zu altern. Mit zwölf ist Nutella morgens ein wenig steif (nichts Schlimmes, sie wird nach den ersten Schritten locker) und sie hört weniger: um zu ihr durchzudringen, muss man die Stimme heben. Das sind die normalen Zeichen des Alters, keine Krankheiten, und mit etwas Umsicht nehmen sie der Lebensqualität nichts.</p>

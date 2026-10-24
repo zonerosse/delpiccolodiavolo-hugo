@@ -60,6 +60,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>Der erste Gang nach draußen</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-alla-prima-passeggiata.webp" alt="Ein Staffordshire Bull Terrier Welpe bei einem der ersten Ausflüge, an der Leine neben seinem Besitzer" width="513" height="480" loading="lazy" decoding="async"></figure>
   <p>Wählen Sie eine ruhige Straße, eine ruhige Uhrzeit und planen Sie 5 Minuten, nicht dreißig. Lassen Sie den Welpen das Tempo bestimmen, einschließlich der langen Minuten an einem einzelnen Geländer. Schnüffeln ist keine verlorene Zeit: so sammelt der Hund Informationen, und es ermüdet ihn wirksamer als Bewegung.</p>
   <p>Wundern Sie sich nicht, wenn der Welpe sich hinsetzt und nicht weitergeht. Das ist sehr häufig und keine Sturheit, sondern ein kleines Tier, überwältigt von einer noch nie dagewesenen Menge an Eindrücken. Gehen Sie in die Hocke, warten Sie, bieten Sie ein Leckerchen an und lassen Sie ihn selbst wieder starten. Einen ängstlichen Welpen vorwärtszuziehen lehrt ihn, dass die Leine Zwang bedeutet, und diese Lektion ist teuer rückgängig zu machen.</p>
   <!--/BLOCCO:4-->
@@ -84,6 +85,7 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <h2>Leinenführigkeit ab dem ersten Tag</h2>
+  <figure class="n-foto1"><img src="/images/foto/staffordshire-bull-terrier-con-pettorina-di-sera.webp" alt="Ein junger Staffordshire Bull Terrier mit Brustgeschirr beim Abendspaziergang" width="410" height="480" loading="lazy" decoding="async"></figure>
   <p>Diese Rasse ist kräftig, und ein Welpe, der lernt, dass Ziehen funktioniert, wird zum erwachsenen Hund, der Sie durch die Straße schleift. Die Regel ist einfach und unbequem: <strong>ist die Leine straff, bleiben Sie stehen</strong>. Wird sie locker, gehen Sie weiter. Mehr braucht es nicht, und kein Hilfsmittel ersetzt Konsequenz.</p>
   <p>Belohnen Sie die gewünschte Position, statt die unerwünschte zu korrigieren. Ein Leckerchen, immer wieder auf Höhe Ihres linken Knies gegeben, lehrt einen Welpen schneller, wo das Gute passiert, als jedes Zurückziehen.</p>
   <!--/BLOCCO:8-->

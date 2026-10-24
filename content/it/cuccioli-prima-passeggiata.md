@@ -65,6 +65,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>La prima uscita</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-alla-prima-passeggiata.webp" alt="Cucciolo di Staffordshire Bull Terrier alle prime uscite, al guinzaglio vicino al proprietario" width="513" height="480" loading="lazy" decoding="async"></figure>
   <p>Si sceglie una via tranquilla, un orario tranquillo, e si programmano cinque minuti, non trenta. Il ritmo lo decide il cucciolo, compresi i lunghi minuti passati ad annusare una sola ringhiera. Annusare non è tempo perso: è il modo in cui il cane raccoglie informazioni, e stanca un cucciolo più del movimento.</p>
   <p>Non stupitevi se il cucciolo si siede e si rifiuta di muoversi. È comunissimo e non è testardaggine: è un animale piccolo travolto da una quantità di informazioni mai vista. Ci si abbassa, si aspetta, si offre un premio, e lo si lascia ripartire quando è pronto. Trascinare in avanti un cucciolo spaventato gli insegna che il guinzaglio significa essere forzati, e quella lezione costa cara da disfare.</p>
   <!--/BLOCCO:4-->
@@ -89,6 +90,7 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <h2>Guinzaglio morbido dal primo giorno</h2>
+  <figure class="n-foto1"><img src="/images/foto/staffordshire-bull-terrier-con-pettorina-di-sera.webp" alt="Giovane Staffordshire Bull Terrier con la pettorina, durante la passeggiata della sera" width="410" height="480" loading="lazy" decoding="async"></figure>
   <p>Questa razza è forte, e un cucciolo che impara che tirare funziona diventa un adulto che ti trascina per la strada. La regola è semplice e dura: <strong>quando il guinzaglio è teso, ci si ferma</strong>. Quando si allenta, si riparte. Non serve altro, e nessuna attrezzatura sostituisce la costanza.</p>
   <p>Si premia la posizione che si vuole invece di correggere quella che non si vuole. Un premio consegnato all'altezza del ginocchio sinistro, ripetutamente, insegna a un cucciolo dove succedono le cose buone molto più in fretta di qualsiasi strattone.</p>
   <!--/BLOCCO:8-->

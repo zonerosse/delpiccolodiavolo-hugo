@@ -54,6 +54,7 @@ custom_content: |
 
   <!--BLOCCO:2-->
   <h2>The schedule</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-di-pochi-giorni.webp" alt="A Staffordshire Bull Terrier puppy a few days old in the whelping box" width="900" height="714" loading="lazy" decoding="async"></figure>
 
   <p>The <a href="https://www.esccap.org/guidelines/gl1/" title="ESCCAP Guideline 01 — Worm Control in Dogs and Cats" target="_blank" rel="noopener" aria-label="European ESCCAP guidelines – ESCCAP guidelines on worm control in dogs and cats (opens in a new tab)">European ESCCAP guidelines</a> set out a precise scheme for puppies:</p>
 
@@ -137,6 +138,7 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>What our puppy owners receive</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-che-si-sveglia.webp" alt="A Staffordshire Bull Terrier puppy just woken up, held in a hand" width="539" height="519" loading="lazy" decoding="async"></figure>
 
   <p>None of this stays inside the kennel. <strong>As tests are carried out and treatments given, we send copies to the new owners</strong>: laboratory reports, products used, dosages and the date of every administration. Not at the end, as a single package to sign, but along the way, as things happen.</p>
 

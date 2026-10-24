@@ -46,6 +46,7 @@ custom_content: |
   <p>Lo Staffordshire Bull Terrier vive in media <strong>12-14 anni</strong>, una longevità alta per un cane di taglia media-piccola e muscoloso. All'<a href="/">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier a Ostellato (FE)</a>, Nutella ha 12 anni e non ha mai avuto un problema di salute, altre due femmine ne hanno 10 e 9, e il padre di Nutella, nato in Irlanda del Nord, è arrivato a 17 anni ancora in grado di seguire il suo allevatore nel bosco. Dopo la genetica, il fattore che incide di più non è una cura miracolosa ma il peso: uno studio durato quattordici anni ha mostrato che i cani mantenuti magri vivono in media quasi due anni in più. Un cane che respira bene, si muove e non ingrassa invecchia meglio.</p>
 
   <h2 class="section-title">Una razza longeva per la sua taglia</h2>
+  <figure class="n-foto1"><img src="/images/femmina-kennedy.webp" alt="Kennedy, femmina di Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo" width="300" height="400" loading="lazy" decoding="async"></figure>
 
   <div class="content-block">
   <p>Nei cani vale una regola generale: più la taglia è piccola, più la vita è lunga. Lo Staffordshire Bull Terrier è un cane compatto e ben costruito, e si colloca nella fascia buona: il <a href="https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/staffordshire-bull-terrier/" target="_blank" rel="noopener" aria-label="Kennel Club britannico – The Kennel Club (UK) — Staffordshire Bull Terrier (si apre in una nuova scheda)">Kennel Club britannico</a> indica per la razza un'aspettativa di vita intorno ai 12-14 anni.</p>
@@ -115,6 +116,7 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">Il cane anziano</span>
   <h2 class="section-title">Cosa cambia dopo i dieci anni</h2>
+  <figure class="n-foto1"><img src="/images/maschio-papillon.webp" alt="Papillon, maschio di Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo" width="300" height="375" loading="lazy" decoding="async"></figure>
 
   <div class="content-block">
   <p>Invecchiare bene non vuol dire non invecchiare. Nutella, a dodici anni, al mattino è un po' irrigidita (poca cosa, si scioglie dopo i primi passi) e sente meno: per farsi ascoltare bisogna alzare la voce. Sono i segni normali dell'età, non malattie, e con qualche accortezza non tolgono nulla alla qualità della vita.</p>

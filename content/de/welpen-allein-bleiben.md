@@ -71,6 +71,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Vom ersten Tag an</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-che-riposa-da-solo.webp" alt="Ein Staffordshire Bull Terrier Welpe ruht ruhig allein" width="350" height="300" loading="lazy" decoding="async"></figure>
   <p>Beginnen Sie mit 30 Sekunden. Geben Sie dem Welpen etwas wirklich Gutes (ein befülltes Gummispielzeug, einen Kauartikel), gehen Sie hinter eine Tür und kommen Sie zurück, bevor er fertig ist und bevor er unruhig wird. Zurückzukommen, ehe der Welpe sich sorgt, ist die ganze Methode: Sie lehren, dass Sie immer wiederkommen, und testen nicht, wie lange er durchhält.</p>
   <p>Steigern Sie schrittweise: eine Minute, drei, zehn, zwanzig, vierzig. Führt ein Schritt zu Unruhe, waren Sie zu schnell; gehen Sie zwei Schritte zurück. Der Fortschritt verläuft nicht geradlinig, und eine schlechte Woche macht die Arbeit nicht zunichte.</p>
   <p>Variieren Sie Ihr Verhalten, damit Aufbruchsignale ihre Bedeutung verlieren. Schlüssel nehmen und sich hinsetzen. Jacke anziehen und Kaffee kochen. Ein Welpe, der das hundertmal ohne Ihr Weggehen erlebt hat, liest es nicht mehr als Warnung.</p>
@@ -84,6 +85,7 @@ custom_content: |
 
   <!--BLOCCO:5-->
   <h2>Die Umgebung</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-sulla-coperta.webp" alt="Ein Staffordshire Bull Terrier Welpe auf seiner Decke" width="675" height="900" loading="lazy" decoding="async"></figure>
   <p>Eine Box ist nützlich, wenn der Welpe sie lieben gelernt hat, und schädlich, wenn sie als Einsperrung dient. Füttern Sie darin, geben Sie Kauartikel darin, lassen Sie die Tür offen, und nutzen Sie sie nie als Strafe. Ein Welpe, der freiwillig in seiner Box schläft, hat eine Höhle; ein eingesperrter hat einen Käfig.</p>
   <p>Alternativ beschränken Sie den Welpen mit einem Türgitter auf einen sicheren Raum statt auf das ganze Haus. Lassen Sie leise Radio oder Fernsehen laufen, was Straßengeräusche überdeckt, die sonst Bellen auslösen. Geben Sie etwas zum Kauen, denn Kauen beruhigt tatsächlich.</p>
   <!--/BLOCCO:5-->

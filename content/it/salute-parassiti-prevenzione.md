@@ -69,6 +69,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>Zecche</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-in-giardino.webp" alt="Cucciolo di Staffordshire Bull Terrier all'aperto, sul tappetino d'erba" width="524" height="451" loading="lazy" decoding="async"></figure>
   <p>Le zecche contano meno per il morso che per quello che trasmettono: babesiosi, ehrlichiosi, borreliosi e, in alcune zone del Sud Europa, epatozoonosi. In Italia la babesiosi in particolare può diventare in fretta pericolosa per la vita, ed è il motivo per cui consideriamo la prevenzione delle zecche non negoziabile per i cani che passeggiano vicino all'erba alta.</p>
   <p>Durante la stagione, che in gran parte d'Italia ormai va da marzo a novembre e nelle zone costiere miti di fatto tutto l'anno, il cane si controlla dopo ogni passeggiata nell'erba o nel bosco. Si passano le mani contropelo, lentamente, cercando piccoli noduli: orecchie, dentro e fuori, collo, ascelle, inguine, fra le dita e attorno all'ano.</p>
   <p>Per togliere una zecca:</p>
@@ -104,6 +105,7 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <h2>L'anno, stagione per stagione</h2>
+  <figure class="n-foto1"><img src="/images/blog/cucciolo-ritratto-hero.webp" alt="Ritratto di un cucciolo di Staffordshire Bull Terrier" width="760" height="760" loading="lazy" decoding="async"></figure>
   <p>Come cambia la protezione dai parassiti nel corso dell'anno, stagione per stagione:</p>
 
   <table tabindex="0">

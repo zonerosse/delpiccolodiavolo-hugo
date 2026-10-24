@@ -108,11 +108,13 @@ custom_content: |
 
   <!--BLOCCO:10-->
   <h2>Teething, month by month</h2>
+  <figure class="n-foto1"><img src="/images/primo-piano-cucciolo.avif" alt="Close-up of a Staffordshire Bull Terrier puppy" width="639" height="600" loading="lazy" decoding="async"></figure>
   <p>The 28 milk teeth erupt between three and six weeks; the change to the permanent set begins at three to five months and is complete at six or seven, with 42 teeth. During the change it is normal to see slightly red, swollen gums, more drooling, a strong urge to chew, some reluctance with hard food, and small teeth found around the house. To help, offer frozen toys, a Kong filled with water and frozen, soft rubber chews rather than hard ones, and wet food for a few days if the puppy refuses kibble; until all the adult teeth are in, no tug-of-war with rags, ropes or similar. See the vet if a milk tooth is still in place next to its permanent replacement after seven months, if permanent teeth come in crooked or crowded, or if you see heavy bleeding, facial swelling or a complete refusal to eat.</p>
   <!--/BLOCCO:10-->
 
   <!--BLOCCO:11-->
   <h2>Teaching brushing, from puppyhood</h2>
+  <figure class="n-foto1"><img src="/images/foto2.avif" alt="A Staffordshire Bull Terrier puppy held in a hand, mouth closed" width="368" height="480" loading="lazy" decoding="async"></figure>
   <p><strong>Eight to twelve weeks: handling.</strong> For the first few days, touch the muzzle and lips gently while stroking the puppy, and reward at once, a few seconds three or four times a day. Then lift the upper lip for two or three seconds to show the front teeth, building up to five or ten. In the second week, rub the front teeth gently with damp gauze or a silicone finger brush; by the third and fourth weeks, extend to the premolars at the back, fifteen to twenty seconds a side.</p>
   <p><strong>Twelve to sixteen weeks: the toothbrush.</strong> A soft-bristled dog toothbrush, an enzymatic veterinary toothpaste flavoured with meat or chicken, never a human one, and high-value rewards.</p>
   <p><strong>From four months: full brushing</strong>, three to seven times a week, two or three minutes in all. Brush from the gum line towards the tip, spending most of the time on the premolars and molars at the back, where tartar builds first; the inner surfaces are optional if the dog tolerates them. End with a generous reward; no rinsing is needed. If the dog struggles, stop and try later; if the gums bleed, you are brushing too hard.</p>

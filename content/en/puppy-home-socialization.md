@@ -69,6 +69,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>The home checklist</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-sul-plaid.webp" alt="A Staffordshire Bull Terrier puppy relaxing on a blanket at home" width="324" height="432" loading="lazy" decoding="async"></figure>
   <p>Start indoors, where you control everything. Surfaces first: tiles, wood, carpet, a plastic bag laid flat, a wobbly cushion, wet grass, gravel. Let the puppy choose to walk on each, and reward the choice rather than lifting it across.</p>
   <p>Then sounds, and this is the one owners neglect. The vacuum cleaner, the washing machine on spin, the doorbell, a dropped saucepan, the hairdryer, a television with applause. Introduce each at low volume and at a distance, paired with food, and increase gradually across days.</p>
   <p>Then handling. Ears touched and looked into, paws held, toes separated, mouth opened, tail held briefly, body brushed all over. 2 minutes a day of this makes veterinary visits and nail clipping straightforward for the next 14 years, and skipping it produces a strong adult dog that has to be restrained for routine care.</p>
@@ -91,6 +92,7 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>Meeting other dogs, done properly</h2>
+  <figure class="n-foto1"><img src="/images/foto/cuccioli-staffordshire-bull-terrier-che-giocano-nel-prato.webp" alt="Two Staffordshire Bull Terrier puppies getting to know each other on the grass" width="794" height="600" loading="lazy" decoding="async"></figure>
   <p>Quality over quantity, and calm adults over other puppies. A steady, well-mannered adult dog teaches a puppy more about canine communication in 10 minutes than an hour of chaotic puppy play, which often teaches only over-excitement.</p>
   <p>Keep encounters short and end them while both dogs are still relaxed. Avoid dog parks entirely at this age: the mixture of unknown temperaments and no supervision is exactly the circumstance in which a formative bad experience happens.</p>
   <!--/BLOCCO:7-->

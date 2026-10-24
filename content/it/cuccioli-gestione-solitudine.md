@@ -59,6 +59,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Dai primi giorni</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-che-riposa-da-solo.webp" alt="Cucciolo di Staffordshire Bull Terrier che riposa tranquillo da solo" width="350" height="300" loading="lazy" decoding="async"></figure>
   <p>Si comincia da trenta secondi. Si dà al cucciolo qualcosa di davvero buono (un gioco di gomma riempito, un masticativo), si va dietro una porta, e si torna prima che abbia finito e prima che si agiti. Tornare prima che il cucciolo sia in difficoltà è tutto il metodo: si sta insegnando che si torna sempre, non si sta misurando quanto resiste.</p>
   <p>Si allunga poco alla volta: un minuto, tre, dieci, venti, quaranta. Se un passaggio produce agitazione, si è andati troppo in fretta; si torna indietro di due passi e si ricostruisce. Il progresso non è lineare, e una settimana storta non cancella il lavoro fatto.</p>
   <p>I propri gesti vanno variati, così i segnali di partenza perdono significato. Prendere le chiavi e sedersi. Mettersi il cappotto e fare il caffè. Un cucciolo che ha visto quei gesti cento volte senza che nessuno uscisse smette di leggerli come un avviso.</p>
@@ -72,6 +73,7 @@ custom_content: |
 
   <!--BLOCCO:5-->
   <h2>L'ambiente</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-sulla-coperta.webp" alt="Cucciolo di Staffordshire Bull Terrier sulla sua coperta" width="675" height="900" loading="lazy" decoding="async"></figure>
   <p>Il kennel è utile se al cucciolo è stato insegnato ad amarlo, e dannoso se usato come contenimento. Gli si dà da mangiare dentro, gli si danno i masticativi, si lascia la porta aperta, e non lo si usa mai come punizione. Un cucciolo che sceglie di dormire nel kennel ha una tana; un cucciolo chiuso dentro ha una gabbia.</p>
   <p>In alternativa si limita il cucciolo a una stanza sicura con un cancelletto, invece di tutta la casa. Si lascia una radio o la televisione a basso volume, che copre i rumori della strada che altrimenti fanno abbaiare. Si dà qualcosa da masticare, perché la masticazione calma davvero. Un gioco olfattivo lasciato prima di uscire occupa il cucciolo nei minuti in cui l'assenza pesa di più: le idee sono nella guida ai <a href="/cuccioli-giochi-mentali/" title="Giochi mentali per cuccioli">giochi mentali</a>.</p>
   <!--/BLOCCO:5-->

@@ -54,6 +54,7 @@ custom_content: |
 
   <!--BLOCCO:2-->
   <h2>Der Zeitplan</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-di-pochi-giorni.webp" alt="Ein wenige Tage alter Staffordshire Bull Terrier Welpe in der Wurfkiste" width="900" height="714" loading="lazy" decoding="async"></figure>
 
   <p>Die <a href="https://www.esccap.org/guidelines/gl1/" title="ESCCAP Guideline 01 — Worm Control in Dogs and Cats" target="_blank" rel="noopener" aria-label="europäischen ESCCAP-Leitlinien – ESCCAP-Leitlinien zur Wurmkontrolle bei Hund und Katze (öffnet in neuem Tab)">europäischen ESCCAP-Leitlinien</a> geben für Welpen ein klares Schema vor:</p>
 
@@ -137,6 +138,7 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>Was die künftigen Besitzer erhalten</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-che-si-sveglia.webp" alt="Ein gerade aufgewachter Staffordshire Bull Terrier Welpe in der Hand" width="539" height="519" loading="lazy" decoding="async"></figure>
 
   <p>All das bleibt nicht in der Zucht. <strong>Sobald Untersuchungen durchgeführt und Behandlungen gegeben werden, senden wir den neuen Besitzern eine Kopie</strong>: Laborbefunde, verwendete Präparate, Dosierungen und das Datum jeder Gabe. Nicht am Ende als ein Paket zum Unterschreiben, sondern nach und nach, während es geschieht.</p>
 

@@ -60,6 +60,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>The schedule</h2>
+  <figure class="n-foto1"><img src="/images/foto1.avif" alt="A Staffordshire Bull Terrier puppy a few weeks old, held in a hand" width="397" height="480" loading="lazy" decoding="async"></figure>
   <p>This is the protocol we follow. The first injection is given at 6 to 8 weeks, before the puppy leaves the breeder, and covers distemper, hepatitis and parvovirus. The second is given at three months, usually adding leptospirosis. Then a booster one year later, and from there the interval depends on the vaccine and on your veterinarian's assessment. Your own vet may follow a different protocol, for example with an extra dose at around 16 weeks: in that case, the vet's advice applies.</p>
 
   <table tabindex="0">
@@ -98,6 +99,7 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>Where the puppy can and cannot go meanwhile</h2>
+  <figure class="n-foto1"><img src="/images/foto/signora-con-cucciolo-staffordshire-bull-terrier.webp" alt="A woman holding a Staffordshire Bull Terrier puppy" width="681" height="900" loading="lazy" decoding="async"></figure>
   <p>This is the practical question that matters most, because the socialisation window closes around the twelfth week, a couple of weeks before protection is complete. Waiting passively until then costs more in behaviour than it saves in infection risk.</p>
   <p>Safe before the course is complete: carrying the puppy in your arms in the street, visiting the homes of friends with vaccinated healthy dogs, your own garden if no unvaccinated dog has been there, and car journeys to see the world from a window.</p>
   <p>To avoid: public parks and dog areas, pavements where many unknown dogs urinate, the floor of the veterinary waiting room, and contact with dogs of unknown vaccination status.</p>

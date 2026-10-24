@@ -54,6 +54,7 @@ custom_content: |
 
   <!--BLOCCO:2-->
   <h2>Il calendario</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-di-pochi-giorni.webp" alt="Cucciolo di Staffordshire Bull Terrier di pochi giorni nella cassa parto" width="900" height="714" loading="lazy" decoding="async"></figure>
 
   <p>Le <a href="https://www.esccap.org/guidelines/gl1/" title="ESCCAP Guideline 01 — Worm Control in Dogs and Cats" target="_blank" rel="noopener" aria-label="linee guida europee ESCCAP – Linee guida ESCCAP sul controllo dei vermi in cani e gatti (si apre in una nuova scheda)">linee guida europee ESCCAP</a> indicano uno schema preciso per i cuccioli:</p>
 
@@ -137,6 +138,7 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>Quello che riceve la famiglia di un nostro cucciolo</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-che-si-sveglia.webp" alt="Cucciolo di Staffordshire Bull Terrier appena sveglio, tenuto in mano" width="539" height="519" loading="lazy" decoding="async"></figure>
 
   <p>Tutto questo non resta in allevamento. <strong>Man mano che gli esami vengono eseguiti e le terapie somministrate, ne inviamo copia ai nuovi proprietari</strong>: referti di laboratorio, prodotti utilizzati, dosaggi e date di ogni somministrazione. Non alla fine, in un unico pacchetto da firmare, ma strada facendo, mentre le cose accadono.</p>
 
