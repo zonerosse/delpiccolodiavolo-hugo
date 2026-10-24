@@ -2,7 +2,7 @@
 title: "Welpen: Erste Fütterung"
 date: 2025-04-15
 titleSeo: "Ernährung des Welpen in den ersten Monaten"
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -76,6 +76,7 @@ custom_content: |
   <p>Bis 6 Monate 3 Mahlzeiten täglich zu festen Zeiten. Ab 6 Monaten zwei, und 2 Mahlzeiten sollten lebenslang bleiben, statt auf eine zu reduzieren: eine einzige große Mahlzeit ist bei einer tiefbrüstigen Rasse ein Risikofaktor für die Magendrehung.</p>
   <p>Die Menge hängt vom Futter und vom Einzeltier ab; die Angabe auf der Packung ist ein Ausgangspunkt, keine Vorschrift. Für eine erste Zahl gibt es den <a href="/de/futterrechner-hund/" title="Futterrechner">Futterrechner</a>, der von Alter, Gewicht und Kalorien des Futters ausgeht. Der wirkliche Maßstab ist der Welpe selbst: die Rippen müssen mit flacher Hand leicht fühlbar sein, von oben muss eine Taille erkennbar sein. Passen Sie in Schritten von 10 Prozent an und beurteilen Sie nach einer Woche neu.</p>
   <p>Verteilen Sie die Mahlzeiten über den Tag und halten Sie die Zeiten konstant, was der Stubenreinheit ebenso hilft wie der Verdauung. Lassen Sie das Futter 15 bis 20 Minuten stehen und nehmen Sie es dann weg, statt den ganzen Tag einen vollen Napf anzubieten.</p>
+  <div class="n-schede"><div class="n-scheda"><span class="n-quando">Rechner</span><h3>Wie viel Ihr Welpe fressen sollte</h3><p>Gramm Trockenfutter am Tag nach Alter, Gewicht und Bewegung, mit den Formeln der Leitlinien.</p><a class="btn" href="/de/futterrechner-hund/" title="Wie viel Ihr Welpe fressen sollte">Rechner öffnen</a></div><div class="n-scheda"><span class="n-quando">BARF-Rechner</span><h3>Wenn der Welpe roh gefüttert wird</h3><p>Gramm Fleisch, Pansen, Innereien, Knochen, Gemüse und Obst, mit Nährstoffprüfung.</p><a class="btn" href="/de/barf-rechner/" title="Wenn der Welpe roh gefüttert wird">BARF-Rechner öffnen</a></div></div>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
