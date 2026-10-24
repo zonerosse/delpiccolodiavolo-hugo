@@ -263,7 +263,7 @@ custom_content: |
   <p>Eine Monate im Voraus geplante Verpaarung, auf L2-HGA und HC getestete Zuchttiere, ein ENCI-Stammbaum und Welpen, die im Haus aufwachsen. Schreiben Sie uns, wir erzählen Ihnen von den Hunden und den kommenden Würfen.</p>
   </div>
   <div style="text-align:center;margin-top:1.5rem">
-  <a class="btn btn-primary" href="/de/faq-staffordshire-bull-terrier/" style="min-height:44px;padding:1rem 1.8rem" title="Alle FAQ ansehen">Alle häufigen Fragen ansehen</a>
+  <a class="btn btn-primary" href="/de/faq-staffordshire-bull-terrier/" style="min-height:44px;padding:1rem 1.8rem" title="Häufige Fragen zum Staffordshire Bull Terrier">Häufige Fragen zum Staffordshire Bull Terrier</a>
   </div>
   </div>
   </section>

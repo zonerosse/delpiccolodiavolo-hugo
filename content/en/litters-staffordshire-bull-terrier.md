@@ -263,7 +263,7 @@ custom_content: |
   <p>A pairing planned months ahead, breeding dogs tested for L2-HGA and HC or clear by parentage, an ENCI pedigree and puppies raised at home. Write to us and we will tell you about the dogs and the litters to come.</p>
   </div>
   <div style="text-align:center;margin-top:1.5rem">
-  <a class="btn btn-primary" href="/en/faq-staffordshire-bull-terrier/" style="min-height:44px;padding:1rem 1.8rem" title="See all FAQ">See all frequently asked questions</a>
+  <a class="btn btn-primary" href="/en/faq-staffordshire-bull-terrier/" style="min-height:44px;padding:1rem 1.8rem" title="Staffordshire Bull Terrier FAQ">Staffordshire Bull Terrier FAQ</a>
   </div>
   </div>
   </section>
