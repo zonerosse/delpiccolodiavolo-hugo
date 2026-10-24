@@ -107,18 +107,24 @@ function make(root,O){O=O||{};
   var isM=S.mode!=="date"&&MESI.indexOf(num(S.age))>=0,isA=S.mode!=="date"&&ANNI.indexOf(num(S.age))>=0,today=new Date().toISOString().slice(0,10);
   var at=S.mode==="date"&&S.birth&&m!=null?(m<2?T.lt2:ageTxt(m)):"";
   var b1='<div class="pp-row"><label>'+T.mesi+'<select data-sel="mesi"'+(isM?' class="on"':'')+'>'+mo+'</select></label><label>'+T.anni+'<select data-sel="anni"'+(isA?' class="on"':'')+'>'+yo+'</select></label><button type="button" class="pp-c pp-old'+(old?' on':'')+'" data-x="old">'+T.old+'</button></div>'+
-   '<label class="pp-dn">'+T.dn+'<input type="date" data-in="birth"'+(S.mode==="date"&&S.birth?' class="on"':'')+' value="'+(S.mode==="date"?esc(S.birth):"")+'" max="'+today+'"></label><span class="pp-ok">'+esc(at)+'</span>'+
+   '<label class="pp-dn">'+T.dn+'<input type="date" data-in="birth"'+(S.mode==="date"&&S.birth?' class="on"':'')+' value="'+(S.mode==="date"?esc(S.birth):"")+'" max="'+today+'"></label><span class="pp-ok dc-at">'+esc(at)+'</span>'+
    '<div class="pp-ch pp-two pp-sx"><button type="button" class="pp-c'+(S.sex==="f"?'':' on')+'" data-sx="m">♂ '+T.sxM+'</button><button type="button" class="pp-c'+(S.sex==="f"?' on':'')+'" data-sx="f">♀ '+T.sxF+'</button></div>'+
    '<div class="pp-ch pp-two"><button type="button" class="pp-c'+(+S.ster?'':' on')+'" data-k="ster" data-v="0">'+(S.sex==="f"?T.noStF:T.noSt)+'</button><button type="button" class="pp-c'+(+S.ster?' on':'')+'" data-k="ster" data-v="1">'+(S.sex==="f"?T.siStF:T.siSt)+'</button></div>'+
-   (pup&&+S.ster?'<p class="pp-ok">'+T.stPup+'</p>':'')+
-   (canRep(m)?'<div class="dc-rep"><span class="pp-l">'+T.mom+'</span><div class="pp-ch dc-three">'+["no","acc","lat"].map(function(v,i){return '<button type="button" class="pp-c'+(r===v?' on':'')+'" data-rep="'+v+'">'+T.rep[i]+'</button>'}).join("")+'</div>'+
-    (r!=="no"?'<div class="dc-rd"><label>'+(r==="acc"?T.dM:T.dP)+'<input type="date" data-in="repD" value="'+esc(S.repD)+'" max="'+today+'"></label>'+(r==="lat"?'<label>'+T.np+'<select data-sel="np">'+[1,2,3,4,5,6,7,8,9,10,11,12].map(function(n){return '<option'+(n===+S.np?' selected':'')+'>'+n+'</option>'}).join("")+'</select></label>':'')+'</div>'+tl():'')+'</div>':'');
-  var b2=m==null?'<p class="pp-vuoto">'+T.first+'</p>':(pup&&r==="no")?'<div class="pp-g2"><div><span class="pp-l">'+T.wPup+'</span>'+numIn("adult",S.adult,"15")+'<div class="pp-sz">'+T.sizes.map(function(z){var w=szKg(z[0]);return '<button type="button" class="pp-c pp-s'+(num(S.adult)===w?' on':'')+'" data-sz="'+w+'">'+z[1]+'</button>'}).join("")+'</div><p class="pp-ok">'+T.wPupH+'</p></div><div><span class="pp-l">'+T.wTod+' <i>'+T.opt+'</i></span>'+numIn("kg",S.kg,ad&&m!=null?dec(+(ad*frac(eq(m,ad))).toFixed(1)):"")+'<p class="pp-ok">'+T.wTodH+'</p></div></div>':'<span class="pp-l">'+T.wAd+'</span>'+numIn("adult",S.adult,"15");
-  var b3='<div class="pp-opts">'+[-1,0,1].map(function(v,i){return '<button type="button" class="pp-o pp-fig'+(+S.bcs===v?' on':'')+'" data-k="bcs" data-v="'+v+'"><span class="pp-dog">'+DOGS[i]+'</span><b>'+T.bcs[i][0]+'</b><small>'+T.bcs[i][1]+'</small></button>'}).join("")+'</div>';
-  var b4='<div class="pp-opts">'+ACTS.map(function(a,i){return '<button type="button" class="pp-o'+(+S.act===a?' on':'')+'" data-k="act" data-v="'+a+'">'+svg(IC.act[i])+'<b>'+T.acts[i][0]+'</b><small>'+T.acts[i][1]+'</small></button>'}).join("")+'</div>'+(formRep()?'<p class="pp-ok">'+T.repNo+'</p>':'');
-  return blk(1,b1)+blk(2,b2)+blk(3,b3,T.bcsS)+blk(4,b4)}
+   '<div class="dc-stn">'+pStn()+'</div><div class="dc-repw">'+pRep()+'</div>';
+  return blk(1,b1)+blk(2,'<div class="dc-b2">'+pB2()+'</div>')+blk(3,b3(),T.bcsS)+blk(4,b4()+'<div class="dc-b4n">'+pB4n()+'</div>')}
+ function pStn(){var m=ageM();return pupOf(m,num(S.adult))&&+S.ster?'<p class="pp-ok">'+T.stPup+'</p>':''}
+ function pRep(){var m=ageM(),r=rep(m),today=new Date().toISOString().slice(0,10);return (canRep(m)?'<div class="dc-rep"><span class="pp-l">'+T.mom+'</span><div class="pp-ch dc-three">'+["no","acc","lat"].map(function(v,i){return '<button type="button" class="pp-c'+(r===v?' on':'')+'" data-rep="'+v+'">'+T.rep[i]+'</button>'}).join("")+'</div>'+
+    (r!=="no"?'<div class="dc-rd"><label>'+(r==="acc"?T.dM:T.dP)+'<input type="date" data-in="repD" value="'+esc(S.repD)+'" max="'+today+'"></label>'+(r==="lat"?'<label>'+T.np+'<select data-sel="np">'+[1,2,3,4,5,6,7,8,9,10,11,12].map(function(n){return '<option'+(n===+S.np?' selected':'')+'>'+n+'</option>'}).join("")+'</select></label>':'')+'</div><div class="dc-tlw">'+tl()+'</div>':'')+'</div>':'')}
+ function pB2(){var m=ageM(),ad=num(S.adult),pup=pupOf(m,ad),r=rep(m);return m==null?'<p class="pp-vuoto">'+T.first+'</p>':(pup&&r==="no")?'<div class="pp-g2"><div><span class="pp-l">'+T.wPup+'</span>'+numIn("adult",S.adult,"15")+'<div class="pp-sz">'+T.sizes.map(function(z){var w=szKg(z[0]);return '<button type="button" class="pp-c pp-s'+(num(S.adult)===w?' on':'')+'" data-sz="'+w+'">'+z[1]+'</button>'}).join("")+'</div><p class="pp-ok">'+T.wPupH+'</p></div><div><span class="pp-l">'+T.wTod+' <i>'+T.opt+'</i></span>'+numIn("kg",S.kg,ad&&m!=null?dec(+(ad*frac(eq(m,ad))).toFixed(1)):"")+'<p class="pp-ok">'+T.wTodH+'</p></div></div>':'<span class="pp-l">'+T.wAd+'</span>'+numIn("adult",S.adult,"15")}
+ function b3(){return '<div class="pp-opts">'+[-1,0,1].map(function(v,i){return '<button type="button" class="pp-o pp-fig'+(+S.bcs===v?' on':'')+'" data-k="bcs" data-v="'+v+'"><span class="pp-dog">'+DOGS[i]+'</span><b>'+T.bcs[i][0]+'</b><small>'+T.bcs[i][1]+'</small></button>'}).join("")+'</div>'}
+ function b4(){return '<div class="pp-opts">'+ACTS.map(function(a,i){return '<button type="button" class="pp-o'+(+S.act===a?' on':'')+'" data-k="act" data-v="'+a+'">'+svg(IC.act[i])+'<b>'+T.acts[i][0]+'</b><small>'+T.acts[i][1]+'</small></button>'}).join("")+'</div>'}
+ function pB4n(){return formRep()?'<p class="pp-ok">'+T.repNo+'</p>':''}
  function formRep(){var m=ageM(),r=rep(m),d=days(S.repD);return d!=null&&d>=0&&((r==="acc"&&d>=35&&d<=70)||(r==="lat"&&d<56))}
  function render(){root.innerHTML=html()}
+ /* aggiornamento a pezzi dopo una data: il campo della data non si ridisegna, così il calendario resta aperto (24/10/2026, Paolo: «prende la data di oggi e si chiude») */
+ function part(src){var q=function(c,h){var e=root.querySelector("."+c);if(e&&!e.contains(document.activeElement))e.innerHTML=h};var m=ageM();
+  var at=S.mode==="date"&&S.birth&&m!=null?(m<2?T.lt2:ageTxt(m)):"";q("dc-at",esc(at));q("dc-stn",pStn());q("dc-b2",pB2());q("dc-b4n",pB4n());
+  if(src==="birth")q("dc-repw",pRep());else q("dc-tlw",tl())}
  function set(k,v,re){S[k]=v;if(re)render();fire(k)}
  root.addEventListener("click",function(e){var b=e.target.closest("button");if(!b||!root.contains(b))return;
   if(b.dataset.k){var k=b.dataset.k,v=+b.dataset.v;[].forEach.call(root.querySelectorAll('[data-k="'+k+'"]'),function(y){y.classList.toggle("on",y===b)});set(k,v,k==="ster");return}
@@ -130,8 +136,9 @@ function make(root,O){O=O||{};
  root.addEventListener("change",function(e){var t=e.target;
   if(t.dataset.sel==="mesi"||t.dataset.sel==="anni"){S.mode="age";S.birth="";set("age",t.value,1);return}
   if(t.dataset.sel==="np"){set("np",+t.value,1);return}
-  if(t.dataset.in==="birth"){S.birth=t.value;S.mode=S.birth?"date":"age";if(S.birth)S.age="";set("birth",S.birth,1);return}
-  if(t.dataset.in==="repD"){set("repD",t.value,1)}});
+  if(t.dataset.in==="birth"){S.birth=t.value;S.mode=S.birth?"date":"age";if(S.birth)S.age="";t.classList.toggle("on",!!S.birth);[].forEach.call(root.querySelectorAll("[data-sel=mesi],[data-sel=anni]"),function(x){x.value="";x.classList.remove("on")});
+   var ob=root.querySelector("[data-x=old]");if(ob)ob.classList.remove("on");part("birth");fire("birth");return}
+  if(t.dataset.in==="repD"){S.repD=t.value;part("repD");fire("repD")}});
  root.addEventListener("input",function(e){var t=e.target,id=t.dataset.in;if(id!=="kg"&&id!=="adult")return;var was=pupOf(ageM(),num(S.adult));S[id]=t.value.trim();
   if(pupOf(ageM(),num(S.adult))!==was){var pos=t.selectionStart;render();var n=root.querySelector('[data-in="'+id+'"]');if(n){n.focus();try{n.setSelectionRange(pos,pos)}catch(_){}}}fire(id)});
  /* il risultato: kcal al giorno e tutto quello che serve ai calcolatori */
