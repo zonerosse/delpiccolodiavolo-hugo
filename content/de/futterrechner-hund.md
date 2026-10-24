@@ -57,7 +57,7 @@ custom_content: |
   <article class="article-content">
 
   <div id="pappa" class="pp"><noscript>Der Rechner braucht JavaScript. Ohne lässt sich die Rechnung mit der Formel und den Tabellen unten von Hand machen.</noscript></div>
-  <script src="/js/calcolatore-cane.js?v=20261024-1200" defer></script><script src="/js/calcolatore-crocchette.js?v=20261024-1200" defer></script>
+  <script src="/js/calcolatore-cane.js?v=20261024-1800" defer></script><script src="/js/calcolatore-crocchette.js?v=20261024-1800" defer></script>
 
   <p>Wie viel Futter braucht ein Hund? Der Rechner oben sagt, wie viel Gramm Trockenfutter ein Hund am Tag bekommt, vom zwei Monate alten Welpen bis zum Senior. Er geht vom Ruhebedarf aus, den Tierärzte verwenden, 70 mal das Gewicht in Kilo hoch 0,75, und multipliziert ihn mit einem Faktor für Alter, Kastration und Bewegung; für Welpen, tragende und säugende Hündinnen verwendet er die Gleichungen des National Research Council, dieselben wie die europäischen FEDIAF-Leitlinien. Dann teilt er das Ergebnis durch die Kalorien des Futters. Für 34 in Europa verbreitete Futtersorten stehen die Kalorien schon in der Liste; für alle anderen gibt man sie selbst ein, berechnet sie aus den analytischen Bestandteilen auf der Packung oder lässt ein Foto der Packung lesen. Die Zahl, die herauskommt, ist ein Ausgangspunkt, den man alle zwei Wochen am Hund prüft. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Zucht Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
