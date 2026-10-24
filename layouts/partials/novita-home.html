@@ -18,7 +18,7 @@
   {{- $data := cond (eq $lang "en") (printf "%s %s, %s" $m ($dt.Format "2") ($dt.Format "2006")) (cond (eq $lang "de") (printf "%s. %s %s" ($dt.Format "2") $m ($dt.Format "2006")) (printf "%s %s %s" ($dt.Format "2") $m ($dt.Format "2006"))) -}}
   {{- $breve := $t -}}{{- if gt (len $t) 320 }}{{ $breve = printf "%s…" (truncate 300 "" $t) }}{{ end -}}
   {{- $pag := cond (eq $lang "en") "news/" (cond (eq $lang "de") "neuigkeiten/" "notizie/") -}}
-  {{- $r = dict "eti" (cond (eq $lang "en") "Latest news" (cond (eq $lang "de") "Neueste Nachricht" "Ultima notizia")) "tit" "" "txt" $breve "url" (printf "%s#post-%s" $pag $p.id | relLangURL) "cta" (cond (eq $lang "en") "Read all the news" (cond (eq $lang "de") "Alle Neuigkeiten lesen" "Leggi tutte le notizie")) "img" ($p.img | default "") "alt" $alt "data" $data "iso" ($dt.Format "2006-01-02") -}}
+  {{- $r = dict "eti" (cond (eq $lang "en") "Latest news" (cond (eq $lang "de") "Neueste Nachricht" "Ultima notizia")) "tit" "" "txt" $breve "url" (printf "%s#post-%s" $pag $p.id | relLangURL) "cta" (cond (eq $lang "en") "All the news from the kennel" (cond (eq $lang "de") "Alle Neuigkeiten aus der Zucht" "Tutte le notizie dell'allevamento")) "img" ($p.img | default "") "alt" $alt "data" $data "iso" ($dt.Format "2006-01-02") -}}
 {{- end -}}{{- end -}}{{- end -}}
 {{- with $r -}}
 <section class="section ng-sez">

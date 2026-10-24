@@ -164,11 +164,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
 
   <p class="tags"><strong>Tag:</strong>
-  <a aria-label="viaggiare — categoria del blog" href="/blog/#famiglia" title="Articoli viaggi">viaggiare</a>
-  <a aria-label="auto — categoria del blog" href="/blog/#famiglia" title="Articoli auto">auto</a>
-  <a aria-label="treno — categoria del blog" href="/blog/#famiglia" title="Articoli treno">treno</a>
-  <a aria-label="hotel — categoria del blog" href="/blog/#famiglia" title="Articoli hotel">hotel</a>
-  <a aria-label="trasportino — categoria del blog" href="/blog/#famiglia" title="Articoli trasportino">trasportino</a>
+  <span>viaggiare</span>
+  <span>auto</span>
+  <span>treno</span>
+  <span>hotel</span>
+  <span>trasportino</span>
   </p>
   </div>
 

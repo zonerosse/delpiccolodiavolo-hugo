@@ -172,11 +172,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
 
   <p class="tags"><strong>Tag:</strong>
-  <a aria-label="anziani — categoria del blog" href="/blog/#famiglia" title="Articoli anziani">anziani</a>
-  <a aria-label="famiglia — categoria del blog" href="/blog/#famiglia" title="Articoli famiglia">famiglia</a>
-  <a aria-label="convivenza — categoria del blog" href="/blog/#famiglia" title="Articoli convivenza">convivenza</a>
-  <a aria-label="pet therapy — categoria del blog" href="/blog/#famiglia" title="Articoli pet therapy">pet therapy</a>
-  <a aria-label="routine — categoria del blog" href="/blog/#famiglia" title="Articoli routine">routine</a>
+  <span>anziani</span>
+  <span>famiglia</span>
+  <span>convivenza</span>
+  <span>pet therapy</span>
+  <span>routine</span>
   </p>
   </div>
 

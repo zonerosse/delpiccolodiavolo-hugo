@@ -204,11 +204,11 @@ custom_content: |
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
 
   <p class="tags"><strong>Tags:</strong>
-  <a aria-label="Staffordshire Bull Terrier guides" href="/en/blog/" title="Breed articles">staffordshire bull terrier</a>
-  <a href="/en/blog/" title="Temperament articles">temperament</a>
-  <a href="/en/blog/" title="Family articles">family dog</a>
-  <a href="/en/blog/" title="Children articles">children</a>
-  <a href="/en/blog/" title="Advice articles">choosing a breed</a>
+  <span>staffordshire bull terrier</span>
+  <span>temperament</span>
+  <span>family dog</span>
+  <span>children</span>
+  <span>choosing a breed</span>
   </p>
   </div>
 

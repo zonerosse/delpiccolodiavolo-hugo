@@ -166,11 +166,11 @@ custom_content: |
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
 
   <p class="tags"><strong>Tags:</strong>
-  <a href="/en/blog/" title="Colour articles">staffordshire bull terrier colours</a>
-  <a href="/en/blog/" title="Brindle articles">brindle</a>
-  <a href="/en/blog/" title="Black articles">black staffy</a>
-  <a href="/en/blog/" title="Blue articles">blue staffy</a>
-  <a href="/en/blog/" title="Standard articles">FCI standard</a>
+  <span>staffordshire bull terrier colours</span>
+  <span>brindle</span>
+  <span>black staffy</span>
+  <span>blue staffy</span>
+  <span>FCI standard</span>
   </p>
   </div>
 

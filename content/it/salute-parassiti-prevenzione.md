@@ -191,11 +191,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
 
   <p class="tags"><strong>Tag:</strong>
-  <a aria-label="parassiti — categoria del blog" href="/blog/#salute" title="Articoli parassiti">parassiti</a>
-  <a aria-label="pulci — categoria del blog" href="/blog/#salute" title="Articoli pulci">pulci</a>
-  <a aria-label="zecche — categoria del blog" href="/blog/#salute" title="Articoli zecche">zecche</a>
-  <a aria-label="prevenzione — categoria del blog" href="/blog/#salute" title="Articoli prevenzione">prevenzione</a>
-  <a aria-label="filaria — categoria del blog" href="/blog/#salute" title="Articoli filaria">filaria</a>
+  <span>parassiti</span>
+  <span>pulci</span>
+  <span>zecche</span>
+  <span>prevenzione</span>
+  <span>filaria</span>
   </p>
   </div>
 

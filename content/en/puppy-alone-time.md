@@ -122,10 +122,10 @@ custom_content: |
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
 
   <p class="tags"><strong>Tags:</strong>
-  <a aria-label="puppies — blog category" href="/en/blog/#puppies" title="Puppy articles">puppies</a>
-  <a aria-label="Staffordshire Bull Terrier guides" href="/en/blog/#puppies" title="Staffy articles">staffordshire bull terrier</a>
-  <a aria-label="separation anxiety — blog category" href="/en/blog/#puppies" title="Anxiety articles">separation anxiety</a>
-  <a aria-label="alone time management — blog category" href="/en/blog/#puppies" title="Alone time articles">alone time management</a>
+  <span>puppies</span>
+  <span>staffordshire bull terrier</span>
+  <span>separation anxiety</span>
+  <span>alone time management</span>
   </p>
   </div>
   <!--/BLOCCO:7-->

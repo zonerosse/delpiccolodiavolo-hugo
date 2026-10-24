@@ -155,11 +155,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
 
   <p class="tags"><strong>Tag:</strong>
-  <a aria-label="standard fci — categoria del blog" href="/blog/#standard" title="Articoli standard">standard fci</a>
-  <a aria-label="tipicità razza — categoria del blog" href="/blog/#standard" title="Articoli tipicità">tipicità razza</a>
-  <a aria-label="morfologia — categoria del blog" href="/blog/#standard" title="Articoli morfologia">morfologia</a>
-  <a aria-label="conformazione — categoria del blog" href="/blog/#standard" title="Articoli conformazione">conformazione</a>
-  <a aria-label="linee di sangue — categoria del blog" href="/blog/#standard" title="Articoli linee">linee di sangue</a>
+  <span>standard fci</span>
+  <span>tipicità razza</span>
+  <span>morfologia</span>
+  <span>conformazione</span>
+  <span>linee di sangue</span>
   </p>
   </div>
 

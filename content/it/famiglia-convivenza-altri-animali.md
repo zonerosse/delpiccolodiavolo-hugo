@@ -537,11 +537,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
 
   <p class="tags"><strong>Tag:</strong>
-  <a aria-label="convivenza — categoria del blog" href="/blog/#famiglia" title="Articoli convivenza">convivenza</a>
-  <a aria-label="altri animali — categoria del blog" href="/blog/#famiglia" title="Articoli altri animali">altri animali</a>
-  <a aria-label="gatti — categoria del blog" href="/blog/#famiglia" title="Articoli gatti">gatti</a>
-  <a aria-label="inserimento — categoria del blog" href="/blog/#famiglia" title="Articoli inserimento">inserimento</a>
-  <a aria-label="gestione risorse — categoria del blog" href="/blog/#famiglia" title="Articoli gestione">gestione risorse</a>
+  <span>convivenza</span>
+  <span>altri animali</span>
+  <span>gatti</span>
+  <span>inserimento</span>
+  <span>gestione risorse</span>
   </p>
   </div>
 

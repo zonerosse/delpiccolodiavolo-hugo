@@ -158,11 +158,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
 
   <p class="tags"><strong>Tag:</strong>
-  <a href="/blog/" title="Articoli colori">colori staffordshire bull terrier</a>
-  <a href="/blog/" title="Articoli tigrato">tigrato brindle</a>
-  <a href="/blog/" title="Articoli nero">staffy nero</a>
-  <a href="/blog/" title="Articoli blu">staffy blu</a>
-  <a href="/blog/" title="Articoli standard">standard FCI</a>
+  <span>colori staffordshire bull terrier</span>
+  <span>tigrato brindle</span>
+  <span>staffy nero</span>
+  <span>staffy blu</span>
+  <span>standard FCI</span>
   </p>
   </div>
 

@@ -150,10 +150,10 @@ custom_content: |
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
 
   <p class="tags"><strong>Tags:</strong>
-  <a aria-label="character — blog category" href="/en/blog/#family" title="Character articles">character</a>
-  <a aria-label="family — blog category" href="/en/blog/#family" title="Family articles">family</a>
-  <a aria-label="children — blog category" href="/en/blog/#family" title="Children articles">children</a>
-  <a aria-label="cohabitation — blog category" href="/en/blog/#family" title="Cohabitation articles">cohabitation</a>
+  <span>character</span>
+  <span>family</span>
+  <span>children</span>
+  <span>cohabitation</span>
   </p>
   </div>
   <!--/BLOCCO:9-->

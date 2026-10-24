@@ -190,11 +190,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
 
   <p class="tags"><strong>Tag:</strong>
-  <a aria-label="linee di sangue — categoria del blog" href="/blog/#standard" title="Articoli linee">linee di sangue</a>
-  <a aria-label="genealogia — categoria del blog" href="/blog/#standard" title="Articoli genealogia">genealogia</a>
-  <a aria-label="bloodline — categoria del blog" href="/blog/#standard" title="Articoli bloodline">bloodline</a>
-  <a aria-label="gentleman jim — categoria del blog" href="/blog/#standard" title="Articoli gentleman jim">gentleman jim</a>
-  <a aria-label="allevamento — categoria del blog" href="/blog/#standard" title="Articoli allevamento">allevamento</a>
+  <span>linee di sangue</span>
+  <span>genealogia</span>
+  <span>bloodline</span>
+  <span>gentleman jim</span>
+  <span>allevamento</span>
   </p>
   </div>
 

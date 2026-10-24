@@ -216,11 +216,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
 
   <p class="tags"><strong>Tag:</strong>
-  <a aria-label="Guide sullo Staffordshire Bull Terrier" href="/blog/" title="Articoli Staffy">staffordshire bull terrier</a>
-  <a href="/blog/" title="Articoli cani pericolosi">cani pericolosi</a>
-  <a href="/blog/" title="Articoli legge italiana">legge italiana</a>
-  <a href="/blog/" title="Articoli ordinanza martini">ordinanza martini</a>
-  <a href="/blog/" title="Articoli save list">save list</a>
+  <span>staffordshire bull terrier</span>
+  <span>cani pericolosi</span>
+  <span>legge italiana</span>
+  <span>ordinanza martini</span>
+  <span>save list</span>
   </p>
   </div>
 

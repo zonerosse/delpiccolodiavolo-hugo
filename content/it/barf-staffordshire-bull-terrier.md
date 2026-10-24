@@ -169,9 +169,9 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
 
   <p class="tags"><strong>Tag:</strong>
-  <a aria-label="BARF — categoria del blog" href="/blog/#salute" title="Articoli alimentazione">BARF</a>
-  <a aria-label="alimentazione — categoria del blog" href="/blog/#salute" title="Articoli alimentazione">alimentazione</a>
-  <a aria-label="staffordshire bull terrier — categoria del blog" href="/blog/#salute" title="Articoli Staffy">staffordshire bull terrier</a>
+  <span>BARF</span>
+  <span>alimentazione</span>
+  <span>staffordshire bull terrier</span>
   </p>
   </div>
 

@@ -146,11 +146,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
 
   <p class="tags"><strong>Tag:</strong>
-  <a aria-label="linee di sangue — categoria del blog" href="/blog/#standard" title="Articoli linee">linee di sangue</a>
-  <a aria-label="bloodlines — categoria del blog" href="/blog/#standard" title="Articoli bloodlines">bloodlines</a>
-  <a aria-label="pedigree — categoria del blog" href="/blog/#standard" title="Articoli pedigree">pedigree</a>
-  <a aria-label="selezione — categoria del blog" href="/blog/#standard" title="Articoli selezione">selezione</a>
-  <a aria-label="test genetici — categoria del blog" href="/blog/#standard" title="Articoli test">test genetici</a>
+  <span>linee di sangue</span>
+  <span>bloodlines</span>
+  <span>pedigree</span>
+  <span>selezione</span>
+  <span>test genetici</span>
   </p>
   </div>
 

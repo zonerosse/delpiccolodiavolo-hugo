@@ -122,10 +122,10 @@ custom_content: |
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
 
   <p class="tags"><strong>Tags:</strong>
-  <a aria-label="welpen — Blog-Kategorie" href="/de/blog/#welpen" title="Welpen-Artikel">welpen</a>
-  <a aria-label="Ratgeber zum Staffordshire Bull Terrier" href="/de/blog/#welpen" title="Staffy-Artikel">staffordshire bull terrier</a>
-  <a aria-label="trennungsangst — Blog-Kategorie" href="/de/blog/#welpen" title="Angst-Artikel">trennungsangst</a>
-  <a aria-label="allein bleiben — Blog-Kategorie" href="/de/blog/#welpen" title="Alleinsein-Artikel">allein bleiben</a>
+  <span>welpen</span>
+  <span>staffordshire bull terrier</span>
+  <span>trennungsangst</span>
+  <span>allein bleiben</span>
   </p>
   </div>
   <!--/BLOCCO:7-->

@@ -131,10 +131,10 @@ custom_content: |
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
 
   <p class="tags"><strong>Tags:</strong>
-  <a aria-label="puppies — blog category" href="/en/blog/#puppies" title="Puppy articles">puppies</a>
-  <a aria-label="Staffordshire Bull Terrier guides" href="/en/blog/#puppies" title="Staffy articles">staffordshire bull terrier</a>
-  <a aria-label="puppy feeding — blog category" href="/en/blog/#puppies" title="Feeding articles">puppy feeding</a>
-  <a aria-label="breeding — blog category" href="/en/blog/#puppies" title="Breeding articles">breeding</a>
+  <span>puppies</span>
+  <span>staffordshire bull terrier</span>
+  <span>puppy feeding</span>
+  <span>breeding</span>
   </p>
   </div>
   <!--/BLOCCO:8-->

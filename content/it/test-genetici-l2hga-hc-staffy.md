@@ -390,11 +390,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
 
   <p class="tags"><strong>Tag:</strong>
-  <a aria-label="test genetici — categoria del blog" href="/blog/#salute" title="Articoli test">test genetici</a>
-  <a aria-label="L2-HGA — categoria del blog" href="/blog/#salute" title="Articoli L2-HGA">L2-HGA</a>
-  <a aria-label="HC cataratta — categoria del blog" href="/blog/#salute" title="Articoli HC">HC cataratta</a>
-  <a aria-label="salute staffy — categoria del blog" href="/blog/#salute" title="Articoli salute">salute staffy</a>
-  <a aria-label="allevamento responsabile — categoria del blog" href="/blog/#salute" title="Articoli allevamento">allevamento responsabile</a>
+  <span>test genetici</span>
+  <span>L2-HGA</span>
+  <span>HC cataratta</span>
+  <span>salute staffy</span>
+  <span>allevamento responsabile</span>
   </p>
   </div>
 

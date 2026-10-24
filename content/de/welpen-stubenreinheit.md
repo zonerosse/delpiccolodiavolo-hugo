@@ -118,10 +118,10 @@ custom_content: |
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
 
   <p class="tags"><strong>Tags:</strong>
-  <a aria-label="welpen — Blog-Kategorie" href="/de/blog/#welpen" title="Welpen-Artikel">welpen</a>
-  <a aria-label="Ratgeber zum Staffordshire Bull Terrier" href="/de/blog/#welpen" title="Staffy-Artikel">staffordshire bull terrier</a>
-  <a aria-label="stubenreinheit — Blog-Kategorie" href="/de/blog/#welpen" title="Training-Artikel">stubenreinheit</a>
-  <a aria-label="ausgangsroutine — Blog-Kategorie" href="/de/blog/#welpen" title="Routine-Artikel">ausgangsroutine</a>
+  <span>welpen</span>
+  <span>staffordshire bull terrier</span>
+  <span>stubenreinheit</span>
+  <span>ausgangsroutine</span>
   </p>
   </div>
   <!--/BLOCCO:9-->

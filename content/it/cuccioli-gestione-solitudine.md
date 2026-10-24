@@ -103,10 +103,10 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
 
   <p class="tags"><strong>Tag:</strong>
-  <a aria-label="cuccioli — categoria del blog" href="/blog/#cuccioli" title="Articoli cuccioli">cuccioli</a>
-  <a aria-label="Guide sullo Staffordshire Bull Terrier" href="/blog/#cuccioli" title="Articoli Staffy">staffordshire bull terrier</a>
-  <a aria-label="ansia da separazione — categoria del blog" href="/blog/#cuccioli" title="Articoli ansia">ansia da separazione</a>
-  <a aria-label="gestione solitudine — categoria del blog" href="/blog/#cuccioli" title="Articoli solitudine">gestione solitudine</a>
+  <span>cuccioli</span>
+  <span>staffordshire bull terrier</span>
+  <span>ansia da separazione</span>
+  <span>gestione solitudine</span>
   </p>
   </div>
   <!--/BLOCCO:7-->

@@ -299,11 +299,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
 
   <p class="tags"><strong>Tag:</strong>
-  <a aria-label="Guide sullo Staffordshire Bull Terrier" href="/blog/#standard" title="Articoli standard">staffordshire bull terrier</a>
-  <a aria-label="pitbull — categoria del blog" href="/blog/#standard" title="Articoli pitbull">pitbull</a>
-  <a aria-label="amstaff — categoria del blog" href="/blog/#standard" title="Articoli amstaff">amstaff</a>
-  <a aria-label="differenza razze — categoria del blog" href="/blog/#standard" title="Articoli differenze">differenza razze</a>
-  <a aria-label="standard FCI — categoria del blog" href="/blog/#standard" title="Articoli FCI">standard FCI</a>
+  <span>staffordshire bull terrier</span>
+  <span>pitbull</span>
+  <span>amstaff</span>
+  <span>differenza razze</span>
+  <span>standard FCI</span>
   </p>
   </div>
 

@@ -378,11 +378,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
 
   <p class="tags"><strong>Tag:</strong>
-  <a aria-label="esercizio — categoria del blog" href="/blog/#salute" title="Articoli esercizio">esercizio</a>
-  <a aria-label="attività fisica — categoria del blog" href="/blog/#salute" title="Articoli attività fisica">attività fisica</a>
-  <a aria-label="cuccioli — categoria del blog" href="/blog/#salute" title="Articoli cuccioli">cuccioli</a>
-  <a aria-label="colpo di calore — categoria del blog" href="/blog/#salute" title="Articoli colpo di calore">colpo di calore</a>
-  <a aria-label="sport cinofili — categoria del blog" href="/blog/#salute" title="Articoli sport">sport cinofili</a>
+  <span>esercizio</span>
+  <span>attività fisica</span>
+  <span>cuccioli</span>
+  <span>colpo di calore</span>
+  <span>sport cinofili</span>
   </p>
   </div>
 

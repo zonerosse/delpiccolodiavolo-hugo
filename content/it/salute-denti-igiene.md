@@ -174,11 +174,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
 
   <p class="tags"><strong>Tag:</strong>
-  <a aria-label="igiene orale — categoria del blog" href="/blog/#salute" title="Articoli igiene">igiene orale</a>
-  <a aria-label="denti — categoria del blog" href="/blog/#salute" title="Articoli denti">denti</a>
-  <a aria-label="tartaro — categoria del blog" href="/blog/#salute" title="Articoli tartaro">tartaro</a>
-  <a aria-label="detartrasi — categoria del blog" href="/blog/#salute" title="Articoli detartrasi">detartrasi</a>
-  <a aria-label="spazzolatura — categoria del blog" href="/blog/#salute" title="Articoli spazzolatura">spazzolatura</a>
+  <span>igiene orale</span>
+  <span>denti</span>
+  <span>tartaro</span>
+  <span>detartrasi</span>
+  <span>spazzolatura</span>
   </p>
   </div>
 

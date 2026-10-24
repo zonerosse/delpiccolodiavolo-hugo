@@ -235,11 +235,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
 
   <p class="tags"><strong>Tag:</strong>
-  <a aria-label="bambini — categoria del blog" href="/blog/#famiglia" title="Articoli bambini">bambini</a>
-  <a aria-label="famiglia — categoria del blog" href="/blog/#famiglia" title="Articoli famiglia">famiglia</a>
-  <a aria-label="convivenza — categoria del blog" href="/blog/#famiglia" title="Articoli convivenza">convivenza</a>
-  <a aria-label="supervisione — categoria del blog" href="/blog/#famiglia" title="Articoli supervisione">supervisione</a>
-  <a aria-label="sicurezza — categoria del blog" href="/blog/#famiglia" title="Articoli sicurezza">sicurezza</a>
+  <span>bambini</span>
+  <span>famiglia</span>
+  <span>convivenza</span>
+  <span>supervisione</span>
+  <span>sicurezza</span>
   </p>
   </div>
 

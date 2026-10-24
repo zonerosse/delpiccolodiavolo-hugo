@@ -123,10 +123,10 @@ custom_content: |
   <a class="btn" href="/en/blog/" title="Back to Blog">&larr; Back to Blog</a>
 
   <p class="tags"><strong>Tags:</strong>
-  <a aria-label="puppies — blog category" href="/en/blog/#puppies" title="Puppy articles">puppies</a>
-  <a aria-label="Staffordshire Bull Terrier guides" href="/en/blog/#puppies" title="Staffy articles">staffordshire bull terrier</a>
-  <a aria-label="first walk — blog category" href="/en/blog/#puppies" title="Walking articles">first walk</a>
-  <a aria-label="leash training — blog category" href="/en/blog/#puppies" title="Training articles">leash training</a>
+  <span>puppies</span>
+  <span>staffordshire bull terrier</span>
+  <span>first walk</span>
+  <span>leash training</span>
   </p>
   </div>
   <!--/BLOCCO:9-->

@@ -173,10 +173,10 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
 
   <p class="tags"><strong>Tag:</strong>
-  <a aria-label="Guide sullo Staffordshire Bull Terrier" href="/blog/#cuccioli" title="Articoli Staffy">staffordshire bull terrier</a>
-  <a aria-label="cuccioli — categoria del blog" href="/blog/#cuccioli" title="Articoli cuccioli">cuccioli</a>
-  <a aria-label="sverminazione — categoria del blog" href="/blog/#cuccioli" title="Articoli sverminazione">sverminazione</a>
-  <a aria-label="salute — categoria del blog" href="/blog/#salute" title="Articoli salute">salute</a>
+  <span>staffordshire bull terrier</span>
+  <span>cuccioli</span>
+  <span>sverminazione</span>
+  <span>salute</span>
   </p>
   </div>
   <!--/BLOCCO:8-->

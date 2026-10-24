@@ -197,11 +197,11 @@ custom_content: |
   <a class="btn" href="/blog/" title="Torna al Blog">&larr; Torna al Blog</a>
 
   <p class="tags"><strong>Tag:</strong>
-  <a aria-label="Guide sullo Staffordshire Bull Terrier" href="/blog/" title="Articoli razza">staffordshire bull terrier</a>
-  <a href="/blog/" title="Articoli carattere">carattere</a>
-  <a href="/blog/" title="Articoli famiglia">cane da famiglia</a>
-  <a href="/blog/" title="Articoli bambini">bambini</a>
-  <a href="/blog/" title="Articoli consigli">scelta razza</a>
+  <span>staffordshire bull terrier</span>
+  <span>carattere</span>
+  <span>cane da famiglia</span>
+  <span>bambini</span>
+  <span>scelta razza</span>
   </p>
   </div>
 

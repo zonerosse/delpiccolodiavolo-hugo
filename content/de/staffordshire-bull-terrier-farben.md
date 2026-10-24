@@ -166,11 +166,11 @@ custom_content: |
   <a class="btn" href="/de/blog/" title="Zurück zum Blog">&larr; Zurück zum Blog</a>
 
   <p class="tags"><strong>Tags:</strong>
-  <a href="/de/blog/" title="Artikel Farben">Farben Staffordshire Bull Terrier</a>
-  <a href="/de/blog/" title="Artikel Gestromt">gestromt brindle</a>
-  <a href="/de/blog/" title="Artikel Schwarz">schwarzer Staffy</a>
-  <a href="/de/blog/" title="Artikel Blau">blauer Staffy</a>
-  <a href="/de/blog/" title="Artikel Standard">FCI-Standard</a>
+  <span>Farben Staffordshire Bull Terrier</span>
+  <span>gestromt brindle</span>
+  <span>schwarzer Staffy</span>
+  <span>blauer Staffy</span>
+  <span>FCI-Standard</span>
   </p>
   </div>
 

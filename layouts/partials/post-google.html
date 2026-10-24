@@ -21,17 +21,17 @@
   {{- $data := "" -}}
   {{- $m := index (index $mesi $lang) (sub (int ($dt.Format "1")) 1) -}}
   {{- if eq $lang "en" }}{{ $data = printf "%s %s, %s" $m ($dt.Format "2") ($dt.Format "2006") }}{{ else if eq $lang "de" }}{{ $data = printf "%s. %s %s" ($dt.Format "2") $m ($dt.Format "2006") }}{{ else }}{{ $data = printf "%s %s %s" ($dt.Format "2") $m ($dt.Format "2006") }}{{ end -}}
-  {{- $url := "" -}}
+  {{- $url := "" -}}{{- $nome := "" -}}
   {{- with .url -}}
-    {{- $path := replaceRE `^https://delpiccolodiavolo\.it` "" . -}}{{- $url = $path -}}
-    {{- range site.Sites -}}{{- range .RegularPages -}}{{- if eq .RelPermalink $path -}}{{- range .AllTranslations -}}{{- if eq .Language.Lang $lang -}}{{- $url = .RelPermalink -}}{{- end -}}{{- end -}}{{- end -}}{{- end -}}{{- end -}}
+    {{- $path := replaceRE `^https://delpiccolodiavolo\.it` "" . -}}{{- $url = $path -}}{{- $nome = "" -}}
+    {{- $netto := replaceRE `[?#].*$` "" $path -}}{{- range site.Sites -}}{{- range .Pages -}}{{- if eq .RelPermalink $netto -}}{{- range .AllTranslations -}}{{- if eq .Language.Lang $lang -}}{{- $url = .RelPermalink -}}{{- $nome = .Title -}}{{- end -}}{{- end -}}{{- end -}}{{- end -}}{{- end -}}
   {{- end -}}
   {{- if $md -}}
-    {{- $out = printf "%s\n### %s\n\n%s\n%s\n" $out $data $t (cond (ne $url "") (printf "\n[%s](%s)\n" $piu ($url | absURL)) "") -}}
+    {{- $out = printf "%s\n### %s\n\n%s\n%s\n" $out $data $t (cond (ne $url "") (printf "\n[%s](%s)\n" ($nome | default $piu) ($url | absURL)) "") -}}
   {{- else -}}
     {{- $img := "" -}}
     {{- with .img }}{{ $img = printf `<div class="pg-foto"><img src="%s" alt="%s" loading="lazy" decoding="async"></div>` . ($alt | htmlEscape) }}{{ end -}}
-    {{- $lnk := "" -}}{{- with $url }}{{ $lnk = printf `<a class="pg-piu" href="%s">%s →</a>` . $piu }}{{ end -}}
+    {{- $lnk := "" -}}{{- with $url }}{{ $lnk = printf `<a class="pg-piu" href="%s">%s →</a>` . ($nome | default $piu) }}{{ end -}}
     {{- $out = printf `%s<article class="pg-post%s" id="post-%s">%s<div class="pg-testo"><time datetime="%s">%s</time><p>%s</p>%s</div></article>` $out (cond (eq $img "") " pg-solo" "") .id $img ($dt.Format "2006-01-02") $data ((replace ($t | htmlEscape) "\n" "<br>") ) $lnk -}}
   {{- end -}}
 {{- end -}}
