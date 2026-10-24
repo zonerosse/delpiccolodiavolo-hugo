@@ -669,3 +669,20 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .notte-pagina main .pp-nuovo .pp-lim0{color:#4a5768!important;font-weight:600}
 @media(max-width:560px){.pp-nuovo .pp-nut .pp-kg{display:none}}
 .notte-pagina main .pp-nuovo .pp-nut>span.pp-etw{color:#1f4f82;font-weight:600}
+
+/* Riquadri comuni dei calcolatori (calcolatore-cane.js, 24/10/2026): momento della femmina, tappe di gravidanza e allattamento */
+.pp-nuovo .dc-rep{margin-top:14px;padding-top:12px;border-top:1px solid #e3e8ef}
+.pp-nuovo .dc-three{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.pp-nuovo .dc-rd{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(200px,100%),1fr));gap:10px;margin-top:12px}
+.pp-nuovo .dc-rd input,.pp-nuovo .dc-rd select{width:100%;margin:4px 0 0}
+.pp-nuovo .dc-tl{list-style:none;margin:14px 0 6px;padding:0 0 0 14px;border-left:2px solid #d6dde6}
+.pp-nuovo .dc-t{position:relative;margin:0 0 10px;padding-left:8px;font-size:.9rem;line-height:1.45;color:#4a5768}
+.pp-nuovo .dc-t::before{content:"";position:absolute;left:-21px;top:5px;width:12px;height:12px;border-radius:50%;background:#fff;border:2px solid #c9d2de}
+.pp-nuovo .dc-t span{display:block;font-weight:700;color:#1f2d42;font-size:.82rem}
+.pp-nuovo .dc-t.fatto{opacity:.6}.pp-nuovo .dc-t.fatto::before{background:#c9d2de}
+.pp-nuovo .dc-t.ora{color:#1f2d42}.pp-nuovo .dc-t.ora::before{background:#1f3a5f;border-color:#1f3a5f}
+.pp-nuovo .dc-t b{color:#1f4f82}
+.pp-nuovo .dc-warn{color:#a12a22!important}
+.bf .pp-nuovo.dc-cane{margin:0}
+.bf .pp-nuovo .pp-tbb{margin-top:18px}
+.notte-pagina main .pp-nuovo .dc-t{font-size:.9rem!important}.notte-pagina main .pp-nuovo .dc-t span{font-size:.8rem!important}

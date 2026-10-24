@@ -1,7 +1,7 @@
 ---
 title: "Calcolatore BARF: quanta carne cruda, ossa e frattaglie dare al cane"
 date: 2026-10-23
-lastmod: 2026-10-23
+lastmod: 2026-10-24
 titleSeo: "Calcolatore BARF: dosi giornaliere per il cane"
 translationKey: "calcolatore-barf"
 tags:
@@ -56,15 +56,15 @@ custom_content: |
   <details class="bf-info bf-prima">
   <summary>Prima di cominciare: da dove vengono i numeri</summary>
   <ul>
-  <li><strong>Calorie</strong>: fabbisogno a riposo 70 × peso<sup>0,75</sup>, moltiplicato per età, sterilizzazione e movimento (lo stesso metodo del nostro calcolatore delle crocchette). Cuccioli, gravidanza e allattamento con le equazioni del National Research Council (NRC, 2006).</li>
+  <li><strong>Calorie</strong>: fabbisogno a riposo 70 × peso<sup>0,75</sup>, moltiplicato per età, sterilizzazione e movimento (lo stesso metodo del nostro calcolatore delle crocchette). Cuccioli, gravidanza (dalla data della monta) e allattamento (dalla data del parto, settimana per settimana) con le equazioni del National Research Council (NRC, 2006). Formule e perché in fondo alla pagina.</li>
   <li><strong>Ripartizione della ciotola</strong>: lo schema BARF più usato in Europa, 80% parte animale (50% carne, 20% trippa, 15% frattaglie, 15% ossa carnose) e 20% vegetale (75% verdure, 25% frutta).</li>
   <li><strong>Valori degli alimenti</strong>: banca dati ufficiale del Dipartimento dell'agricoltura degli Stati Uniti (USDA, Standard Reference 28); iodio dalla banca dati USDA, FDA e NIH del 2020. Il calcio delle ossa carnose è una stima.</li>
-  <li><strong>Fabbisogni di riferimento</strong>: linee guida FEDIAF 2021, valori per 1000 kcal (adulto, crescita, gravidanza e allattamento).</li>
+  <li><strong>Fabbisogni di riferimento</strong>: linee guida FEDIAF, edizione di luglio 2024, valori per 1000 kcal (adulto, crescita, gravidanza e allattamento).</li>
   </ul>
   </details>
 
   <div id="barf"><noscript>Il calcolatore ha bisogno di JavaScript. Senza, si può fare il conto a mano con le formule qui sotto.</noscript></div>
-  <script src="/js/calcolatore-barf.js?v=20261024-0200" defer></script>
+  <script src="/js/calcolatore-cane.js?v=20261024-1200" defer></script><script src="/js/calcolatore-barf.js?v=20261024-1200" defer></script>
 
   <div class="bf-info bf-dopo">
   <!--BLOCCO:2-->
@@ -84,16 +84,18 @@ custom_content: |
   <p>Quanta carne cruda dare a un cane? Il calcolatore qui sopra parte dalle calorie che servono al cane e le divide fra sette alimenti: carne muscolare, trippa, fegato, altre frattaglie, ossa carnose, verdure e frutta. Le calorie dell'adulto sono 70 moltiplicato per il peso elevato a 0,75, per un fattore che dipende da età, sterilizzazione e movimento; per cuccioli, cagne gravide e in allattamento usa le equazioni del National Research Council. Poi somma i nutrienti di ogni alimento, presi dalla banca dati USDA, e li confronta con i minimi FEDIAF ogni 1000 kcal. Dove manca calcio, vitamina D od omega-3 propone un'aggiunta. Se un alimento oggi non c'è, le quote degli altri salgono. Il calcolatore è dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013: noi usiamo il BARF per pochi cani e per periodi brevi.</p>
 
   <!--BLOCCO:3-->
-  <h2>Le formule del calcolo</h2>
+  <h2>Le formule del calcolo e il perché</h2>
+  <p>Prima le calorie che servono al cane in un giorno, poi come si dividono nella ciotola. Le calorie si calcolano allo stesso modo nel nostro <a href="/calcolatore-crocchette-cane/">calcolatore delle crocchette</a>: stesso cane, stesse calorie, cambia solo cosa va nella ciotola.</p>
   <ul>
-  <li><strong>Adulto</strong> = 70 × peso<sup>0,75</sup> × 1,8 (intero), 1,6 (sterilizzato), 1,4 (anziano) o 1,3 (anziano sterilizzato) × movimento: 0,85 tranquillo, 1 normale, 1,25 molto attivo, 1,6 sport o lavoro</li>
-  <li><strong>Forma vista dall'alto</strong>: +10% se magro, −10% se in sovrappeso</li>
-  <li><strong>Cucciolo</strong> = 130 × peso<sup>0,75</sup> × 3,2 × (e<sup>−0,87 × p</sup> − 0,1), con p = peso di oggi ÷ peso previsto da adulto; senza il peso di oggi, lo stima dall'età</li>
-  <li><strong>Gravidanza</strong>, dalla quinta settimana = 132 × peso<sup>0,75</sup> + 26 × peso</li>
-  <li><strong>Allattamento</strong> = 145 × peso<sup>0,75</sup> + peso × (24 × cuccioli fino a 4 + 12 × cuccioli oltre i 4) × 0,75, 0,95, 1,1 o 1,2 dalla prima alla quarta settimana</li>
-  <li><strong>Grammi al giorno</strong> = calorie ÷ calorie medie della ciotola, cioè la somma delle kcal di ogni alimento per la sua quota</li>
+  <li><strong>Energia a riposo</strong> = 70 × peso in kg<sup>0,75</sup>. <em>Perché</em>: le calorie non crescono come il peso ma come il metabolismo, e l'esponente 0,75 ne tiene conto: un cane di 30 kg consuma meno del doppio di uno di 15. È la base delle linee guida del National Research Council (NRC) e della FEDIAF.</li>
+  <li><strong>Adulto</strong> = energia a riposo × 1,8 (intero) o 1,6 (sterilizzato); dagli 8 anni 1,4 o 1,3; poi × movimento: 0,85 tranquillo, 1 normale, 1,25 molto attivo, 1,6 lavoro o sport. <em>Perché</em>: sterilizzazione ed età abbassano il consumo, il movimento lo alza.</li>
+  <li><strong>Forma vista dall'alto</strong>: +10% se è magro, −10% se è in sovrappeso. <em>Perché</em>: per riportarlo piano al peso giusto, senza diete brusche. Dopo due settimane si ricontrolla.</li>
+  <li><strong>Cucciolo</strong> = 130 × peso<sup>0,75</sup> × 3,2 × (e<sup>−0,87 × p</sup> − 0,1), con p = peso di oggi ÷ peso previsto da adulto. È l'equazione dell'NRC (2006) che usano anche le linee guida FEDIAF, edizione di luglio 2024. <em>Perché</em>: il cucciolo spende per crescere, e più si avvicina al peso da adulto meno gli serve in più; per questo conta il rapporto fra i due pesi e non solo l'età. Il movimento non entra nel conto, perché l'equazione lo comprende già. Senza il peso di oggi il calcolatore lo stima dall'età; la crescita finisce verso i 10 mesi nelle taglie piccole, i 12 nelle medie, i 15 nelle grandi e i 20 nelle giganti. Uno studio del 2019 su cuccioli di famiglia (Klein e colleghi, Università di Monaco) ha visto che sotto i sei mesi questa equazione può dare circa il 20% in più del necessario: pesa il cucciolo ogni settimana e regola la razione.</li>
+  <li><strong>Gravidanza</strong>, dalla data della prima monta: fino al giorno 34 la razione resta quella di prima; dal giorno 35 = 132 × peso<sup>0,75</sup> + 26 × peso (NRC 2006). <em>Perché</em>: i cuccioli crescono soprattutto nelle ultime quattro settimane, e una cagna che ingrassa prima ha un parto più difficile. Le tappe che il calcolatore mostra con le date: ecografia fra il 25° e il 30° giorno, radiografia verso il 55°, cassa parto pronta fra il 56° e il 58°, parto atteso il 63° (di solito fra il 58° e il 68°).</li>
+  <li><strong>Allattamento</strong>, dalla data del parto = 145 × peso<sup>0,75</sup> + peso × (24 × n + 12 × m) × L, con n = cuccioli fino a 4 e m = cuccioli dal quinto all'ottavo; L = 0,75, 0,95, 1,1 e 1,2 nelle settimane dalla prima alla quarta (NRC 2006). Dalla quinta all'ottava settimana L = 0,9, 0,65, 0,4 e 0,2; dalla nona torna la razione da adulta. <em>Perché</em>: il latte costa molte calorie e dipende da quanti cuccioli ci sono e da quanto bevono. Il picco è fra la terza e la quarta settimana; poi i cuccioli mangiano la pappa e la madre produce meno latte. Per le settimane dopo la quarta le linee guida non danno una formula: la discesa fino allo svezzamento è una nostra stima.</li>
+  <li><strong>Grammi al giorno</strong> = calorie ÷ calorie medie della ciotola, cioè la somma delle kcal di ogni alimento per la sua quota. <em>Perché</em>: il cane mangia per coprire le calorie; per questo, togliendo un alimento povero di calorie come le verdure o la trippa, i grammi totali scendono: le calorie restano le stesse, ma la carne che prende il loro posto ne ha di più.</li>
+  <li><strong>Nutrienti</strong>: la somma di ogni alimento, ogni 1000 kcal, confrontata con i minimi e i massimi FEDIAF 2024 dell'età; in gravidanza dal giorno 35 e in allattamento si usano i valori della crescita fino a 14 settimane e della riproduzione. <em>Perché</em>: una ciotola può coprire le calorie e restare corta di calcio, iodio o vitamine.</li>
   </ul>
-  <p>Per questo, togliendo un alimento povero di calorie come le verdure o la trippa, i grammi totali scendono: le calorie restano le stesse, ma la carne che prende il loro posto ne ha di più.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
@@ -143,11 +145,12 @@ custom_content: |
 
   <h3>Fonti</h3>
   <ul>
-  <li><a href="https://europeanpetfood.org/self-regulation/nutritional-guidelines/" target="_blank" rel="noopener" aria-label="FEDIAF, linee guida nutrizionali per cani e gatti, 2021 (si apre in una nuova scheda)">FEDIAF, linee guida nutrizionali per cani e gatti, 2021</a></li>
+  <li><a href="https://europeanpetfood.org/self-regulation/nutritional-guidelines/" target="_blank" rel="noopener" aria-label="FEDIAF, linee guida nutrizionali per cani e gatti, 2024 (si apre in una nuova scheda)">FEDIAF, linee guida nutrizionali per cani e gatti, 2024</a></li>
   <li><a href="https://www.nationalacademies.org/publications/10668" target="_blank" rel="noopener" aria-label="National Research Council, Nutrient Requirements of Dogs and Cats (2006) (si apre in una nuova scheda)">National Research Council, Nutrient Requirements of Dogs and Cats (2006)</a></li>
   <li><a href="https://data.nal.usda.gov/dataset/composition-foods-raw-processed-prepared-usda-national-nutrient-database-standard-reference-release-28-0" target="_blank" rel="noopener" aria-label="USDA, National Nutrient Database for Standard Reference, Release 28 (si apre in una nuova scheda)">USDA, National Nutrient Database for Standard Reference, Release 28</a></li>
   <li><a href="https://www.ars.usda.gov/northeast-area/beltsville-md-bhnrc/beltsville-human-nutrition-research-center/methods-and-application-of-food-composition-laboratory/mafcl-site-pages/iodine/" target="_blank" rel="noopener" aria-label="USDA, FDA e ODS-NIH, Database for the Iodine Content of Common Foods (2020) (si apre in una nuova scheda)">USDA, FDA e ODS-NIH, Database for the Iodine Content of Common Foods (2020)</a></li>
   <li><a href="https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/intake-of-minerals-trace-elements-and-vitamins-in-bone-and-raw-food-rations-in-adult-dogs/7520574DA173F4DB29330A6F858DE0E0" target="_blank" rel="noopener" aria-label="Dillitzer, Becker, Kienzle, British Journal of Nutrition 2011 (si apre in una nuova scheda)">Dillitzer, Becker, Kienzle, British Journal of Nutrition 2011</a></li>
+  <li><a href="https://onlinelibrary.wiley.com/doi/10.1111/jpn.13191" target="_blank" rel="noopener" aria-label="Klein e colleghi, energia e crescita dei cuccioli di famiglia, 2019 (si apre in una nuova scheda)">Klein e colleghi, energia e crescita dei cuccioli di famiglia, 2019</a></li>
   </ul>
   <!--/BLOCCO:5-->
   </article>

@@ -1,7 +1,7 @@
 ---
 title: "Quanto deve mangiare un cane: calcolatore crocchette con intelligenza artificiale"
 date: 2026-10-18
-lastmod: 2026-10-23
+lastmod: 2026-10-24
 titleSeo: "Quanto deve mangiare un cane: calcolatore crocchette IA"
 translationKey: "calcolatore-crocchette"
 tags:
@@ -57,39 +57,26 @@ custom_content: |
   <article class="article-content">
 
   <div id="pappa" class="pp"><noscript>Il calcolatore ha bisogno di JavaScript. Senza, si può fare il conto a mano con la formula e le tabelle qui sotto.</noscript></div>
-  <script src="/js/calcolatore-crocchette.js?v=20261023-2400" defer></script>
+  <script src="/js/calcolatore-cane.js?v=20261024-1200" defer></script><script src="/js/calcolatore-crocchette.js?v=20261024-1200" defer></script>
 
-  <p>Quanto deve mangiare un cane? Il calcolatore qui sopra dice quanti grammi di crocchette dare ogni giorno a un cane, dal cucciolo di due mesi all'anziano. Parte dall'energia di base usata dai veterinari, 70 moltiplicato per il peso in chili elevato a 0,75, e la moltiplica per un fattore che dipende dall'età: 3 fino ai tre mesi, 2 a sei mesi, da 1,6 a 1,8 nell'adulto. Poi divide il risultato per le calorie delle crocchette. Per 34 crocchette diffuse in Italia le calorie sono già nell'elenco; per tutte le altre si scrivono a mano, si calcolano dai componenti analitici stampati sul sacco o si legge la foto del sacco. Il numero che esce è un punto di partenza, da controllare sul cane ogni due settimane. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
+  <p>Quanto deve mangiare un cane? Il calcolatore qui sopra dice quanti grammi di crocchette dare ogni giorno a un cane, dal cucciolo di due mesi all'anziano. Parte dall'energia di base usata dai veterinari, 70 moltiplicato per il peso in chili elevato a 0,75, e la moltiplica per un fattore che dipende da età, sterilizzazione e movimento; per cuccioli, cagne gravide e in allattamento usa le equazioni del National Research Council, le stesse delle linee guida europee FEDIAF. Poi divide il risultato per le calorie delle crocchette. Per 34 crocchette diffuse in Italia le calorie sono già nell'elenco; per tutte le altre si scrivono a mano, si calcolano dai componenti analitici stampati sul sacco o si legge la foto del sacco. Il numero che esce è un punto di partenza, da controllare sul cane ogni due settimane. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
   <!--BLOCCO:2-->
-  <h2>Le formule del calcolo</h2>
+  <h2>Le formule del calcolo e il perché</h2>
+  <p>Il conto ha due passaggi: prima le calorie che servono al cane in un giorno, poi i grammi di crocchette che le danno. Le calorie si calcolano allo stesso modo nel nostro <a href="/calcolatore-barf/">calcolatore BARF</a>: stesso cane, stesse calorie, cambia solo cosa va nella ciotola.</p>
   <ul>
-  <li><strong>Energia a riposo</strong> = 70 × peso in kg<sup>0,75</sup></li>
-  <li><strong>Energia al giorno</strong> = energia a riposo × fattore dell'età × fattore del movimento</li>
-  <li><strong>Grammi al giorno</strong> = energia al giorno ÷ (kcal per 100 g ÷ 100)</li>
-  <li><strong>Kcal dal sacco</strong>, se non sono scritte = 3,5 × proteina + 8,5 × grassi + 3,5 × carboidrati, con carboidrati = 100 − proteina − grassi − fibra − ceneri − umidità (umidità 10% se manca)</li>
-  <li><strong>Peso a ogni età</strong> = peso da adulto × quota: 25% a 2 mesi, 38% a 3, 50% a 4, 62% a 5, 72% a 6, 80% a 7, 86% a 8, 90% a 9, 93% a 10, 96% a 11, 98% a 12, per la taglia media; la crescita finisce verso i 10 mesi nelle taglie piccole, i 15 nelle grandi e i 20 nelle giganti</li>
-  <li><strong>Proteine</strong> = proteina % ÷ kcal per 100 g × 1000, in grammi ogni 1000 kcal; minimi FEDIAF: 62,5 fino a 14 settimane, 50 nella crescita, 45 nell'adulto (52,1 se sterilizzato o tranquillo)</li>
+  <li><strong>Energia a riposo</strong> = 70 × peso in kg<sup>0,75</sup>. <em>Perché</em>: le calorie non crescono come il peso ma come il metabolismo, e l'esponente 0,75 ne tiene conto: un cane di 30 kg consuma meno del doppio di uno di 15. È la base delle linee guida del National Research Council (NRC) e della FEDIAF.</li>
+  <li><strong>Adulto</strong> = energia a riposo × 1,8 (intero) o 1,6 (sterilizzato); dagli 8 anni 1,4 o 1,3; poi × movimento: 0,85 tranquillo, 1 normale, 1,25 molto attivo, 1,6 lavoro o sport. <em>Perché</em>: sterilizzazione ed età abbassano il consumo, il movimento lo alza.</li>
+  <li><strong>Forma vista dall'alto</strong>: +10% se è magro, −10% se è in sovrappeso. <em>Perché</em>: per riportarlo piano al peso giusto, senza diete brusche. Dopo due settimane si ricontrolla.</li>
+  <li><strong>Cucciolo</strong> = 130 × peso<sup>0,75</sup> × 3,2 × (e<sup>−0,87 × p</sup> − 0,1), con p = peso di oggi ÷ peso previsto da adulto. È l'equazione dell'NRC (2006) che usano anche le linee guida FEDIAF, edizione di luglio 2024. <em>Perché</em>: il cucciolo spende per crescere, e più si avvicina al peso da adulto meno gli serve in più; per questo conta il rapporto fra i due pesi e non solo l'età. Il movimento non entra nel conto, perché l'equazione lo comprende già. Senza il peso di oggi il calcolatore lo stima dall'età; la crescita finisce verso i 10 mesi nelle taglie piccole, i 12 nelle medie, i 15 nelle grandi e i 20 nelle giganti. Uno studio del 2019 su cuccioli di famiglia (Klein e colleghi, Università di Monaco) ha visto che sotto i sei mesi questa equazione può dare circa il 20% in più del necessario: pesa il cucciolo ogni settimana e regola la razione.</li>
+  <li><strong>Gravidanza</strong>, dalla data della prima monta: fino al giorno 34 la razione resta quella di prima; dal giorno 35 = 132 × peso<sup>0,75</sup> + 26 × peso (NRC 2006). <em>Perché</em>: i cuccioli crescono soprattutto nelle ultime quattro settimane, e una cagna che ingrassa prima ha un parto più difficile. Le tappe che il calcolatore mostra con le date: ecografia fra il 25° e il 30° giorno, radiografia verso il 55°, cassa parto pronta fra il 56° e il 58°, parto atteso il 63° (di solito fra il 58° e il 68°).</li>
+  <li><strong>Allattamento</strong>, dalla data del parto = 145 × peso<sup>0,75</sup> + peso × (24 × n + 12 × m) × L, con n = cuccioli fino a 4 e m = cuccioli dal quinto all'ottavo; L = 0,75, 0,95, 1,1 e 1,2 nelle settimane dalla prima alla quarta (NRC 2006). Dalla quinta all'ottava settimana L = 0,9, 0,65, 0,4 e 0,2; dalla nona torna la razione da adulta. <em>Perché</em>: il latte costa molte calorie e dipende da quanti cuccioli ci sono e da quanto bevono. Il picco è fra la terza e la quarta settimana; poi i cuccioli mangiano la pappa e la madre produce meno latte. Per le settimane dopo la quarta le linee guida non danno una formula: la discesa fino allo svezzamento è una nostra stima.</li>
+  <li><strong>Grammi al giorno</strong> = calorie ÷ (kcal per 100 g ÷ 100). <em>Perché</em>: il cane mangia per coprire le calorie, quindi crocchette più ricche si danno in quantità minore.</li>
+  <li><strong>Kcal dal sacco</strong>, se non sono scritte = 3,5 × proteina + 8,5 × grassi + 3,5 × carboidrati, con carboidrati = 100 − proteina − grassi − fibra − ceneri − umidità (umidità 10% se manca). <em>Perché</em>: sono i valori di Atwater modificati per gli alimenti degli animali, quelli indicati dall'NRC.</li>
+  <li><strong>Peso a ogni età</strong> = peso da adulto × quota: 25% a 2 mesi, 38% a 3, 50% a 4, 62% a 5, 72% a 6, 80% a 7, 86% a 8, 90% a 9, 93% a 10, 96% a 11, 98% a 12, per la taglia media. <em>Perché</em>: serve alla tabella per età e al cucciolo di cui non si conosce il peso di oggi.</li>
+  <li><strong>Proteine</strong> = proteina % ÷ kcal per 100 g × 1000, in grammi ogni 1000 kcal, confrontate con i minimi FEDIAF: 62,5 fino a 14 settimane e in gravidanza avanzata e allattamento, 50 nella crescita, 45 nell'adulto (52,1 se sterilizzato o tranquillo). <em>Perché</em>: le proteine non cambiano la quantità, ma dicono se le crocchette sono adatte. Crocchette per adulti date a un cucciolo possono coprire le calorie e lasciarlo corto di proteine: in quel caso il calcolatore lo segnala.</li>
   </ul>
-  <p>Il conto ha tre passaggi. Prima l'energia di base, cioè quello che serve al cane a riposo: 70 × peso in kg<sup>0,75</sup>. Poi la si moltiplica per il fattore dell'età e per quello del movimento. Infine si divide per le calorie delle crocchette, espresse in kcal per 100 grammi.</p>
-  <table tabindex="0">
-  <thead>
-  <tr><th>Età</th><th>Fattore</th></tr>
-  </thead>
-  <tbody>
-  <tr><td>Fino a 3 mesi</td><td>3</td></tr>
-  <tr><td>Da 3 a 6 mesi</td><td>scende da 3 a 2</td></tr>
-  <tr><td>Da 6 a 12 mesi</td><td>scende da 2 a quello dell'adulto</td></tr>
-  <tr><td>Adulto non sterilizzato</td><td>1,8</td></tr>
-  <tr><td>Adulto sterilizzato</td><td>1,6</td></tr>
-  <tr><td>Anziano, dagli 8 anni</td><td>1,4</td></tr>
-  <tr><td>Anziano sterilizzato</td><td>1,3</td></tr>
-  </tbody>
-  </table>
-  <p>Il movimento sposta il risultato così: tranquillo × 0,85, normale × 1, molto attivo × 1,25, lavoro o sport × 1,6. Fino ai quattro mesi il movimento conta poco, perché quasi tutta l'energia va nella crescita.</p>
   <p>Un esempio. Un cane adulto di 15 kg, movimento normale, non sterilizzato: 70 × 15<sup>0,75</sup> fa circa 533 kcal; per 1,8 diventano 960 kcal al giorno. Con crocchette da 390 kcal per 100 g sono circa 245 grammi al giorno.</p>
-  <p>Per la tabella delle età il calcolatore stima il peso del cucciolo come parte del peso da adulto: un quarto a due mesi, la metà a quattro, tre quarti verso i sei mesi, quasi tutto a un anno. È la crescita di un cane di taglia media. Nelle taglie piccole finisce prima, verso i dieci mesi; nelle grandi dura fino a circa quindici mesi e nelle giganti fino a venti, e il calcolatore allunga la tabella di conseguenza.</p>
-  <p>Le proteine non cambiano la quantità: la razione si calcola sull'energia, perché il cane mangia per coprire le calorie. Cambiano invece la scelta delle crocchette. Il calcolatore conta i grammi di proteine ogni 1000 kcal e li confronta con i minimi delle linee guida europee FEDIAF: un cucciolo fino a 14 settimane ne vuole almeno 62,5, poi 50 fino alla fine della crescita, un adulto 45. Crocchette per adulti date a un cucciolo possono coprire le calorie e lasciarlo corto di proteine: in quel caso il calcolatore lo segnala.</p>
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
@@ -159,7 +146,7 @@ custom_content: |
   <div class="faq-item active n-faq">
   <h3 class="faq-q">Quanto deve mangiare un cucciolo rispetto a un cane adulto?</h3>
   <div class="faq-answer">
-  <p>In proporzione al peso, molto di più. Fino ai tre mesi un cucciolo consuma circa tre volte la sua energia a riposo, contro 1,6-1,8 volte di un adulto, perché quasi tutto va nella crescita. Un cucciolo di taglia media che a due mesi e mezzo pesa 5 kg mangia infatti quanto un cane adulto di 10 kg. Da tre a sei mesi il fattore scende verso 2 e intorno all'anno arriva a quello dell'adulto; nelle taglie grandi e giganti questo passaggio dura di più, fino a quindici e venti mesi. Anche i pasti cambiano: più piccoli e più frequenti nei primi mesi.</p>
+  <p>In proporzione al peso, molto di più, perché quasi tutto va nella crescita. Un cucciolo di due mesi e mezzo che pesa 5 kg e da adulto ne peserà 16 ha bisogno di circa 920 kcal al giorno, più di un cane adulto di 10 kg (circa 710). Il calcolatore usa l'equazione del National Research Council: più il cucciolo si avvicina al peso da adulto, meno gli serve in più. Nelle taglie grandi e giganti la crescita dura di più, fino a quindici e venti mesi. Anche i pasti cambiano: più piccoli e più frequenti nei primi mesi.</p>
   </div>
   </div>
 
@@ -215,6 +202,7 @@ custom_content: |
   <li><a href="https://europeanpetfood.org/self-regulation/nutritional-guidelines/" target="_blank" rel="noopener" aria-label="FEDIAF, linee guida nutrizionali per cani e gatti (si apre in una nuova scheda)">FEDIAF, linee guida nutrizionali per cani e gatti</a></li>
   <li><a href="https://wsava.org/global-guidelines/global-nutrition-guidelines/" target="_blank" rel="noopener" aria-label="WSAVA, Global Nutrition Guidelines (si apre in una nuova scheda)">WSAVA, Global Nutrition Guidelines</a></li>
   <li><a href="https://www.nationalacademies.org/publications/10668" target="_blank" rel="noopener" aria-label="National Research Council, Nutrient Requirements of Dogs and Cats (2006) (si apre in una nuova scheda)">National Research Council, Nutrient Requirements of Dogs and Cats (2006)</a></li>
+  <li><a href="https://onlinelibrary.wiley.com/doi/10.1111/jpn.13191" target="_blank" rel="noopener" aria-label="Klein e colleghi, energia e crescita dei cuccioli di famiglia, 2019 (si apre in una nuova scheda)">Klein e colleghi, energia e crescita dei cuccioli di famiglia, 2019</a></li>
   </ul>
   <!--/BLOCCO:6-->
   </article>
