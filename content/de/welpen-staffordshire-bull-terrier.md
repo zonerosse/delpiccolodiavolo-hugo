@@ -110,6 +110,7 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">Wie sie aufwachsen</span>
   <h2 class="section-title">Unser Ansatz</h2>
+  <figure class="n-foto1"><img src="/images/foto/cuccioli-staffordshire-bull-terrier-cucciolata-nell-erba.webp" alt="Ein Wurf schwarzer Staffordshire Bull Terrier Welpen im Gras der Zucht Del Piccolo Diavolo" width="800" height="580" loading="lazy" decoding="async"></figure>
 
   <div class="zigzag">
 
@@ -146,6 +147,7 @@ custom_content: |
   <div class="section-inner content-single">
   <span class="section-label">Wesen</span>
   <h2 class="section-title">Charakter und Wesen des Staffordshire Bull Terrier</h2>
+  <figure class="n-foto1"><img src="/images/maschio-braveheart.webp" alt="Ein fröhlicher schwarzer Staffordshire Bull Terrier auf dem Rasen" width="300" height="300" loading="lazy" decoding="async"></figure>
 
   <p>Das Wesen entsteht nicht zufällig: Es hängt von den gewählten Zuchttieren und von den ersten Wochen ab. Unsere Welpen wachsen mit Menschen jeden Alters, Haushaltsgeräuschen und anderen Hunden auf. Deshalb kommen sie schon an das Leben im Haus gewöhnt in ihre Familien.</p>
 
@@ -197,6 +199,7 @@ custom_content: |
   <div class="n-passo">
   <h3>Die Geburt</h3>
   <div>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-appena-nato.webp" alt="Ein neugeborener Staffordshire Bull Terrier Welpe in der Wurfkiste" width="900" height="714" loading="lazy" decoding="async"></figure>
   <p>Beim Staffordshire Bull Terrier ist die nat&uuml;rliche Geburt die Regel: eine robuste Rasse, und der Kaiserschnitt war hier eine seltene Ausnahme. Wenn aber etwas nicht stimmt, wird nicht improvisiert: ich rufe meinen Tierarzt, der von Fall zu Fall entscheidet.</p>
 
   <p><strong>Oxytocin wird mit gro&szlig;er Vorsicht und sparsam eingesetzt</strong>, und nur wenn der Tierarzt es entscheidet. Es ist kein Beschleuniger, den man gibt, weil die Geburt lange dauert: steckt ein Welpe fest, sind st&auml;rkere Wehen das Letzte, was gebraucht wird, und das Risiko ist ein Geb&auml;rmutterriss.</p>
@@ -205,6 +208,7 @@ custom_content: |
   <div class="n-passo">
   <h3>Die erste Woche</h3>
   <div>
+  <figure class="n-foto1"><img src="/images/foto/cuccioli-staffordshire-bull-terrier-allattati-dalla-madre.webp" alt="Wenige Tage alte Staffordshire Bull Terrier Welpen, von der Mutter gesäugt" width="900" height="874" loading="lazy" decoding="async"></figure>
   <p>Die Welpen kommen im Haus zur Welt, in der Wurfkiste. Und eine Woche lang <strong>schlafe ich nicht in meinem Bett</strong>: ich lege mich aufs Sofa, neben sie.</p>
 
   <p>Die erste Woche nach der Geburt ist der riskanteste Teil &uuml;berhaupt. In diesen Tagen kann ein Welpe von der sich drehenden Mutter erdr&uuml;ckt werden, oder eine H&uuml;ndin will nicht s&auml;ugen: das h&ouml;rt man, bevor man es sieht: ein anderes Wimmern, ein Ger&auml;usch, das nicht stimmt. Nach der ersten Woche wird es leichter.</p>
@@ -213,6 +217,7 @@ custom_content: |
   <div class="n-passo">
   <h3>Der Tag, an dem sie gehen d&uuml;rfen</h3>
   <div>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-due-mesi-in-braccio.webp" alt="Ein zwei Monate alter Staffordshire Bull Terrier Welpe auf dem Arm" width="899" height="817" loading="lazy" decoding="async"></figure>
   <p>Impfung und Mikrochip macht der Tierarzt, und damit darf ein Welpe die Zucht verlassen. Das italienische Gesetz schreibt mindestens <strong>60 Tage</strong> vor; bei mir gehen sie mit rund <strong>70</strong>, weil diese zehn Tage ihnen zugutekommen. F&uuml;r das Ausland verl&auml;ngern sich die Fristen weiter: davon handelt <a href="/de/staffordshire-bull-terrier-welpe-ins-ausland/" title="Ein Welpe, der ins Ausland geht">die eigene Seite</a>.</p>
   </div>
   </div>
@@ -239,6 +244,7 @@ custom_content: |
   <div class="section-inner content-single">
   <span class="section-label">Vermittlung ins Ausland</span>
   <h2 class="section-title">Ein Welpe, der ins Ausland geht</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-quattro-mesi.webp" alt="Ein vier Monate alter Staffordshire Bull Terrier Welpe, das Alter, in dem er ins Ausland reisen kann" width="605" height="900" loading="lazy" decoding="async"></figure>
   <p>Ein Welpe f&uuml;r eine Familie in einem anderen europ&auml;ischen Land reist mit etwa <strong>vier Monaten</strong>, nicht mit zwei: die Tollwutimpfung ist erst ab 12 Wochen m&ouml;glich und braucht Zeit, um g&uuml;ltig zu werden. Hinzu kommen EU-Heimtierausweis, TRACES-Gesundheitszeugnis und ENCI-Exportstammbaum.</p>
   <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Vermittlung ins Ausland</span><h3>Wie eine Vermittlung ins Ausland abläuft</h3><p>Fristen, Papiere und Exportstammbaum.</p><a class="btn" href="/de/staffordshire-bull-terrier-welpe-ins-ausland/" title="Wie eine Vermittlung ins Ausland abläuft">Zum Ratgeber</a></div></div>
   </div>
@@ -249,8 +255,10 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">Was der Welpe mitbekommt</span>
   <h2 class="section-title">Blutlinien, Papiere und Begleitung</h2>
+  <figure class="n-foto1"><img src="/images/femmina-croi-olc.webp" alt="Lackyle Bean Croí Olc, Hündin der irischen Lackyle-Linie" width="300" height="362" loading="lazy" decoding="async"></figure>
   <p>Wir arbeiten mit der englischen Linie <strong>Elitebull</strong> und der irischen Linie <strong>Lackyle</strong>: die erste bringt Substanz und Kopf, die zweite Gangwerk und Charakter. Jede Verpaarung geht davon aus, was eine Hündin mitbringt und was ihr fehlt. Was das praktisch bedeutet und wie man eine Linie in der Ahnentafel liest, erklärt der <a href="/de/staffy-blutlinien-guide/" title="Ratgeber zu den Blutlinien">Ratgeber zu den Blutlinien</a>; welche Linie zu Ihrem Zuhause passt, ist eine andere Frage und hat einen <a href="/de/blutlinien-waehlen/" title="Blutlinien wählen">eigenen Ratgeber</a>.</p>
   <h2 class="section-title" style="margin-top:2rem">Was zur Vermittlung gehört</h2>
+  <figure class="n-foto1"><img src="/images/foto/staffordshire-bull-terrier-a-casa-con-la-famiglia.webp" alt="Ein bei uns geborener Staffordshire Bull Terrier, zu Hause bei seiner Familie" width="675" height="900" loading="lazy" decoding="async"></figure>
   <p>Jeder Welpe verlässt uns frühestens mit 60 Tagen, mit der ersten Impfung, entwurmt, gechippt und registriert, und geht nach Hause mit:</p>
   <ul>
   <li>der ENCI-Ahnentafel;</li>

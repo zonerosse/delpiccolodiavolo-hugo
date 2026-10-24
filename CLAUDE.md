@@ -435,3 +435,13 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
 - In fondo alle pagine «Le formule del calcolo e il perché» (stesso testo per le calorie nelle due pagine, IT/EN/DE), con lo studio Klein 2019
   (l'equazione NRC può dare circa il 20% in più sotto i 6 mesi) fra le fonti.
 
+
+## Più foto nelle pagine (24/10/2026, Paolo: «l'utente medio non legge», anteprima-30 approvata)
+- Regola: una foto almeno ogni 300 parole circa, una per sezione, sotto il titolo della sezione e prima del testo:
+  `<figure class="n-foto1"><img src=… alt=… width height loading="lazy" decoding="async"></figure>` (stile in `notte.css` e `main.css`:
+  intera, mai tagliata, alta al massimo 440 px, larga al massimo 560 px). Nei `.n-passo` va dentro la colonna del testo (subito dopo `<div>`).
+- Foto solo dei cani e cuccioli dell'allevamento, legate a quello che dice la sezione. Fonti: quelle già in `static/images` e quelle
+  recuperate dalla cronologia git (archivio tolto dal sito), convertite in `static/images/foto/<nome-descrittivo>.webp` (max 900 px).
+- **Mai foto di Tikus, mai foto con Cristina (ex handler)**: nel dubbio niente foto di esposizione con handler, meglio solo il cane.
+- Righe con un link da solo: niente più. Al loro posto riquadri `.n-schede` / `.n-scheda` (etichetta oro, titolo, una riga, bottone)
+  in fondo alla sezione; `.n-uno` per un riquadro solo (regole in `notte.css` e `main.css`).

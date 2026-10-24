@@ -110,6 +110,7 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">How they grow</span>
   <h2 class="section-title">Our approach</h2>
+  <figure class="n-foto1"><img src="/images/foto/cuccioli-staffordshire-bull-terrier-cucciolata-nell-erba.webp" alt="A litter of black Staffordshire Bull Terrier puppies on the grass at Del Piccolo Diavolo" width="800" height="580" loading="lazy" decoding="async"></figure>
 
   <div class="zigzag">
 
@@ -146,6 +147,7 @@ custom_content: |
   <div class="section-inner content-single">
   <span class="section-label">Temperament</span>
   <h2 class="section-title">Character and temperament of the Staffordshire Bull Terrier</h2>
+  <figure class="n-foto1"><img src="/images/maschio-braveheart.webp" alt="A happy black Staffordshire Bull Terrier on the lawn" width="300" height="300" loading="lazy" decoding="async"></figure>
 
   <p>Temperament does not happen by chance: it depends on the breeding dogs chosen and on the first weeks. Our puppies grow up around people of different ages, household noise and other dogs. That is why they arrive in their families already used to life in a home.</p>
 
@@ -197,6 +199,7 @@ custom_content: |
   <div class="n-passo">
   <h3>The whelping</h3>
   <div>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-appena-nato.webp" alt="A newborn Staffordshire Bull Terrier puppy in the whelping box" width="900" height="714" loading="lazy" decoding="async"></figure>
   <p>In the Staffordshire Bull Terrier a natural whelping is the norm: it is a hardy breed, and a caesarean here has been a rare exception. But when something goes wrong there is no improvising: I call my own vet, who judges case by case.</p>
 
   <p><strong>Oxytocin is used with great care and sparingly</strong>, and only when the vet decides so. It is not an accelerator to be given because the whelping is taking its time: if a puppy is obstructing, stronger contractions are the last thing needed, and the risk is uterine rupture.</p>
@@ -205,6 +208,7 @@ custom_content: |
   <div class="n-passo">
   <h3>The first week</h3>
   <div>
+  <figure class="n-foto1"><img src="/images/foto/cuccioli-staffordshire-bull-terrier-allattati-dalla-madre.webp" alt="Staffordshire Bull Terrier puppies a few days old, nursed by their mother" width="900" height="874" loading="lazy" decoding="async"></figure>
   <p>The puppies are born indoors, in the whelping box. And for a week <strong>I stop sleeping in my bed</strong>: I settle on the sofa, next to them.</p>
 
   <p>The first week after the whelping is the riskiest part of all. In those days a puppy can be crushed by the mother turning over, or a bitch can be reluctant to nurse: these are things you hear before you see them, a different whimper, a sound that is not right. After the first week it eases.</p>
@@ -213,6 +217,7 @@ custom_content: |
   <div class="n-passo">
   <h3>The day they can leave</h3>
   <div>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-due-mesi-in-braccio.webp" alt="A two-month-old Staffordshire Bull Terrier puppy held in arms" width="899" height="817" loading="lazy" decoding="async"></figure>
   <p>Vaccination and microchip are done by the vet, and that is what makes a puppy eligible to leave. Italian law sets the minimum at <strong>60 days</strong>; here they leave at around <strong>70</strong>, because those extra ten days are for them. For placements abroad the timing stretches further: that is covered on <a href="/en/staffordshire-bull-terrier-puppy-abroad/" title="A puppy going abroad">its own page</a>.</p>
   </div>
   </div>
@@ -239,6 +244,7 @@ custom_content: |
   <div class="section-inner content-single">
   <span class="section-label">Placements abroad</span>
   <h2 class="section-title">A puppy going abroad</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-quattro-mesi.webp" alt="A four-month-old Staffordshire Bull Terrier puppy, the age at which it can leave for abroad" width="605" height="900" loading="lazy" decoding="async"></figure>
   <p>A puppy going to a family in another European country leaves at around <strong>four months</strong>, not two: the rabies vaccination cannot be given before 12 weeks and needs time to become valid. A pet passport, a TRACES health certificate and an ENCI export pedigree are also required.</p>
   <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Placements abroad</span><h3>How a placement abroad works</h3><p>Timing, paperwork and export pedigree.</p><a class="btn" href="/en/staffordshire-bull-terrier-puppy-abroad/" title="How a placement abroad works">Read the guide</a></div></div>
   </div>
@@ -249,8 +255,10 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">What comes with the puppy</span>
   <h2 class="section-title">Bloodlines, documents and support</h2>
+  <figure class="n-foto1"><img src="/images/femmina-croi-olc.webp" alt="Lackyle Bean Croí Olc, a female of the Irish Lackyle line" width="300" height="362" loading="lazy" decoding="async"></figure>
   <p>We work with English <strong>Elitebull</strong> and Irish <strong>Lackyle</strong> lines: the first bring substance and head, the second movement and character. Every mating starts from what a female gives and what she lacks. What that means in practice, and how to read a line in a pedigree, is explained in the <a href="/en/staffy-bloodlines-guide/" title="Staffy bloodlines guide">bloodlines guide</a>; which line suits your home is a different question, with a <a href="/en/choosing-bloodlines/" title="Choosing bloodlines for a puppy">guide of its own</a>.</p>
   <h2 class="section-title" style="margin-top:2rem">What comes with a placement</h2>
+  <figure class="n-foto1"><img src="/images/foto/staffordshire-bull-terrier-a-casa-con-la-famiglia.webp" alt="A Staffordshire Bull Terrier born here, at home with its family" width="675" height="900" loading="lazy" decoding="async"></figure>
   <p>Every puppy leaves us at 60 days at the earliest, with its first vaccination, wormed, microchipped and registered, and goes home with:</p>
   <ul>
   <li>the ENCI pedigree;</li>

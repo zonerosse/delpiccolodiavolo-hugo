@@ -216,7 +216,7 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">Carattere</span>
   <h2 class="section-title">Carattere e temperamento dello Staffordshire Bull Terrier</h2>
-  <figure class="n-foto1"><img src="/images/foto/staffordshire-bull-terrier-carattere-allegro.webp" alt="Staffordshire Bull Terrier nero allegro al guinzaglio" width="900" height="800" loading="lazy" decoding="async"></figure>
+  <figure class="n-foto1"><img src="/images/maschio-braveheart.webp" alt="Staffordshire Bull Terrier nero allegro sul prato" width="300" height="300" loading="lazy" decoding="async"></figure>
 
   <p>Il temperamento non arriva per caso: dipende dai riproduttori che si scelgono e dalle prime settimane. I nostri cuccioli crescono fra persone di et&agrave; diverse, rumori di casa e altri cani. Per questo arrivano in famiglia gi&agrave; abituati alla vita di casa.</p>
 
@@ -230,7 +230,7 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">Linee di sangue</span>
   <h2 class="section-title">Linee di sangue: Elitebull e Lackyle</h2>
-  <figure class="n-foto1"><img src="/images/foto/staffordshire-bull-terrier-adulto-in-posa.webp" alt="Staffordshire Bull Terrier adulto nero in posa" width="900" height="858" loading="lazy" decoding="async"></figure>
+  <figure class="n-foto1"><img src="/images/femmina-croi-olc.webp" alt="Lackyle Bean Croí Olc, femmina di linea irlandese Lackyle" width="300" height="362" loading="lazy" decoding="async"></figure>
 
   <p>Lavoriamo su linee inglesi <strong>Elitebull</strong> e irlandesi <strong>Lackyle</strong>: le prime portano sostanza e testa, le seconde movimento e carattere. Ogni accoppiamento nasce dall'incrocio fra quello che una femmina d&agrave; e quello che le manca.</p>
 
