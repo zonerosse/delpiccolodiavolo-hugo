@@ -53,7 +53,7 @@ custom_content: |
 
   <div class="intro-block" style="margin-bottom:2rem">
   <p><strong>Quante cucciolate, e come si controlla.</strong> Le nostre femmine fanno in media <strong>due cucciolate</strong> ciascuna. Non serve crederci sulla parola: sotto ogni nome c'&egrave; il numero di microchip, e con quello il numero di cucciolate si consulta sul <a href="https://www.enci.it/libro-genealogico/libro-genealogico-on-line" target="_blank" rel="noopener" title="Libro genealogico ENCI" aria-label="Libro genealogico ENCI (si apre in una nuova scheda)">libro genealogico ENCI</a>.</p>
-  <p style="margin-bottom:0">Quando un cane vive altrove, sotto il suo nome trovi quello del proprietario. Perch&eacute; questo &egrave; il genere di cose che, per <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento che fa le cose per bene">riconoscere un allevamento serio</a>, andrebbe sempre verificato, non raccontato.</p>
+  <p style="margin-bottom:0">Quando un cane vive altrove, sotto il suo nome trovi quello del proprietario. Perch&eacute; questo &egrave; il genere di cose che, per <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento che fa le cose per bene">riconoscere un allevamento che fa le cose per bene</a>, andrebbe sempre verificato, non raccontato.</p>
   </div>
 
   <!-- BILQUIS - CAMPIONESSA ITALIANA -->
