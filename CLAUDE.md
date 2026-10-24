@@ -421,6 +421,9 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
   grammi per arrivare al minimo FEDIAF +5%, misura in cucchiai/cucchiaini, kcal; in grigio quelli che sforano un massimo (vit. A, D, calcio, fosforo,
   Ca:P) o servono oltre il 10% delle calorie. Toccato, entra nella ciotola (`S.ex`, riga «aggiunto per», «Togli») e le calorie restano quelle.
   Iodio: solo alga kelp, con i µg/g scritti dall'etichetta (Paolo: niente ostriche né pesce). Stile in fondo a `notte.css`, copiato nel gestionale.
+- 24/10/2026 (Paolo, anteprime 37-38): secondo alimento metà e metà per carne muscolare, fegato e ossa carnose (`S.ing2`, `DUE`, tasti
+  «+ Aggiungi un'altra carne muscolare / un altro fegato / altre ossa carnose», `items()` divide la quota); in «Rimedia» le proposte «½ + ½»
+  che sistemano la carenza senza sforare i massimi. Stile `.bf-s2`, `.bf-shs` in fondo a `notte.css`, copiato nel gestionale.
 - 24/10/2026 (Paolo, anteprima-18, scelta C): la tendina «Carne muscolare» del BARF è divisa in gruppi (`<optgroup>`, mappa `CG` e testi `T.cg`
   nello script): Carne · Cuore e ventrigli (contano come carne) · Pesce · Uova · Aggiunti da te (alimenti di «Altro…»). Nuovi alimenti di carne: metterli in `CG`.
 
@@ -447,6 +450,7 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
   intera, mai tagliata, alta al massimo 440 px, larga al massimo 560 px). Nei `.n-passo` va dentro la colonna del testo (subito dopo `<div>`).
 - Foto solo dei cani e cuccioli dell'allevamento, legate a quello che dice la sezione. Fonti: quelle già in `static/images` e quelle
   recuperate dalla cronologia git (archivio tolto dal sito), convertite in `static/images/foto/<nome-descrittivo>.webp` (max 900 px).
+- Foto messe il 24/10/2026 in quasi tutte le pagine (anteprime 36, 39, 40). Nell'archivio, `img-…` con il cane marrone su asfalto al sole con stivali viola è Tikus (Paolo): mai usarla.
 - **Mai foto di Tikus, mai foto con Cristina (ex handler)**: nel dubbio niente foto di esposizione con handler, meglio solo il cane.
 - Righe con un link da solo: niente più. Al loro posto riquadri `.n-schede` / `.n-scheda` (etichetta oro, titolo, una riga, bottone)
   in fondo alla sezione; `.n-uno` per un riquadro solo (regole in `notte.css` e `main.css`).
