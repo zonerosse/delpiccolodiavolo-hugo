@@ -98,12 +98,14 @@ custom_content: |
 
   <!--BLOCCO:5-->
   <h2>The English lines</h2>
+  <figure class="n-foto1"><img src="/images/femmina-derry.webp" alt="Derry, a Staffordshire Bull Terrier female from the Del Piccolo Diavolo kennel" width="314" height="300" loading="lazy" decoding="async"></figure>
   <p>The breed was made in England, and English breeding remains the reference point for type. The most influential kennels have prioritised correct proportion, a broad and well-filled head without exaggeration, sound movement and, above all, the reliable temperament written into the standard.</p>
   <p>Lines such as Elitebull have been particularly influential in continental Europe, and they are the foundation of our own programme. What we look for there is substance without coarseness: a dog that is unmistakably a Staffordshire Bull Terrier at a glance, but that can still trot for a long time and breathe normally at the end of it.</p>
   <!--/BLOCCO:5-->
 
   <!--BLOCCO:6-->
   <h2>The Irish lines</h2>
+  <figure class="n-foto1"><img src="/images/queen-of-california.webp" alt="Queen of California, a Staffordshire Bull Terrier female bred by Del Piccolo Diavolo" width="1400" height="932" loading="lazy" decoding="async"></figure>
   <p>Irish breeding has a distinct flavour and an excellent reputation. Kennels such as Lackyle are known for compact, athletic, extremely typey dogs with strong bone and a notably outgoing character. Irish lines have historically placed heavy emphasis on soundness and on producing dogs that hold their type consistently across a litter rather than producing one exceptional puppy in an ordinary litter.</p>
   <p>Combining English and Irish lines is a common and productive strategy, and it is the basis of our own selection. The two traditions complement each other: the English for balance and head quality, the Irish for compactness, bone and consistency.</p>
   <!--/BLOCCO:6-->

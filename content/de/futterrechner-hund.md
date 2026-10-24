@@ -130,6 +130,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>Wie viele Mahlzeiten am Tag</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-sul-pile.webp" alt="Ein Staffordshire Bull Terrier Welpe ruht auf einem Fleece" width="675" height="900" loading="lazy" decoding="async"></figure>
   <p>Bis sechs Monate drei Mahlzeiten am Tag, ab sechs Monaten zwei, und bei zweien bleibt es ein Leben lang. Eine einzige große Mahlzeit am Tag ist bei einem Hund mit tiefem Brustkorb nicht ratsam, weil sie das Risiko einer Magendrehung erhöht. Der Rechner schlägt die passende Zahl für das Alter vor und teilt die Ration auf die gewählten Mahlzeiten auf.</p>
   <!--/BLOCCO:4-->
 
@@ -175,6 +176,7 @@ custom_content: |
 
   <!--BLOCCO:6-->
   <h2>Die Zahl prüft man am Hund</h2>
+  <figure class="n-foto1"><img src="/images/divine-cucciola-tre-mesi.avif" alt="Divine mit drei Monaten: eine Staffordshire Bull Terrier Welpin in guter Form" width="800" height="1089" loading="lazy" decoding="async"></figure>
   <p>Keine Formel kennt den Hund, der vor Ihnen steht. Die Rippen sollen sich mit flacher Hand ohne Druck fühlen lassen, und von oben soll man eine Taille sehen. Sind die Rippen nicht mehr zu fühlen, kürzt man die Ration um 10 %; sieht man sie, erhöht man sie um 10 %. Ein Welpe wird einmal pro Woche gewogen, immer auf derselben Waage.</p>
   <p>Leckerli gehören zur Gesamtmenge: sie sollten unter 10 % der Tageskalorien bleiben, und am einfachsten nimmt man einen Teil der Ration für das Training.</p>
 

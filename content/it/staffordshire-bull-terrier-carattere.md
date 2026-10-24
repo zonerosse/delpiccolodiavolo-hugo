@@ -61,6 +61,7 @@ correlati:
 <p>Il temperamento dello Staffordshire Bull Terrier non è un caso: è il risultato di una selezione precisa e delle prime settimane di vita, con la loro <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor e stimolazione precoce">stimolazione precoce</a>. Lo standard di razza descrive un cane <strong>coraggioso, tenace e affidabile con le persone</strong>, e su quest'ultimo punto la selezione dei riproduttori pesa più di qualsiasi addestramento successivo. La componente su cui vale la pena informarsi è un'altra: essendo un terrier, può mostrare reattività verso i propri simili, soprattutto fra cani dello stesso sesso in età adulta, e la socializzazione precoce la riduce ma non la cancella. Un carattere si valuta guardando i genitori e i fratelli di cucciolata, non il singolo cucciolo a tre settimane. Guida a cura di Del Piccolo Diavolo, <a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento di Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
 <h2>Un carattere costruito, non ereditato per caso</h2>
+<figure class="n-foto1"><img src="/images/foto/due-cuccioli-staffordshire-bull-terrier-nel-prato.webp" alt="Due cuccioli di Staffordshire Bull Terrier della stessa cucciolata seduti vicini nel prato" width="900" height="680" loading="lazy" decoding="async"></figure>
 
 <p>Lo Staffordshire Bull Terrier nasce in Inghilterra nella prima metà dell'Ottocento, nelle Midlands, dall'incrocio fra i bulldog dell'epoca e i terrier locali. Il contesto in cui è stato usato non è quello che ci piace raccontare oggi, ma è quello che ha plasmato il suo carattere, e ignorarlo significa non capire la razza.</p>
 
@@ -85,6 +86,7 @@ correlati:
 <p>È una caratteristica prevedibile, non un difetto nascosto. E va detta prima di prendere il cucciolo: chi cerca un cane da portare al parco a giocare con chiunque deve saperlo in anticipo.</p>
 
 <h2>Cosa selezioniamo, in concreto</h2>
+<figure class="n-foto1"><img src="/images/femmina-croi-olc.webp" alt="Croi Olc, femmina di Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo" width="300" height="362" loading="lazy" decoding="async"></figure>
 
 <p>Nell'<a href="/">allevamento Del Piccolo Diavolo</a> il carattere non è un auspicio ma un criterio di esclusione. Un soggetto che mostra insicurezza marcata, reattività eccessiva o diffidenza verso le persone non entra nel programma di riproduzione, per quanto sia corretto nella morfologia.</p>
 

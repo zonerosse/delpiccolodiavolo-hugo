@@ -88,6 +88,7 @@ lastmod: 2026-10-24
 <p><strong>Ours.</strong> The <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a> carries the dates of the recent litters, and the earlier ones are in the <a href="/en/litters-staffordshire-bull-terrier/" title="Breeding programme">breeding programme</a>: none of them disappears. One a year, occasionally two, sometimes none at all.</p>
 
 <h2>5. The mother, in person</h2>
+<figure class="n-foto1"><img src="/images/cuccioli-bilquis-nati-1.webp" alt="The mother with her Staffordshire Bull Terrier puppies in the first days" width="435" height="480" loading="lazy" decoding="async"></figure>
 
 <p>Seeing the mother with her puppies is the hardest check to fake. It tells you how she is, what temperament she has and the environment the puppies grew up in. It is also why anyone with something to hide suggests meeting halfway.</p>
 

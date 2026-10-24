@@ -84,6 +84,7 @@ custom_content: |
 
   <!--BLOCCO:5-->
   <h2>So what do you actually look at in the dam?</h2>
+  <figure class="n-foto1"><img src="/images/foto/cuccioli-staffordshire-bull-terrier-allattati-dalla-madre.webp" alt="Staffordshire Bull Terrier puppies nursing from their mother" width="900" height="874" loading="lazy" decoding="async"></figure>
 
   <p>Here the visit matters a great deal, but not for the reasons people assume.</p>
 

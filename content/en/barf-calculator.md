@@ -69,6 +69,7 @@ custom_content: |
   <div class="bf-info bf-dopo">
   <!--BLOCCO:2-->
   <h2>After the calculation: how to read the results</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-quattro-mesi.webp" alt="A four-month-old Staffordshire Bull Terrier puppy" width="605" height="900" loading="lazy" decoding="async"></figure>
   <ul>
   <li><strong>Nutrient status</strong>: compared with the FEDIAF minimum per 1000 kcal. «Ok» = covered; «borderline» = between 90% and 100% of the minimum; «missing» = below 90%; «too much» = above the FEDIAF maximum.</li>
   <li><strong>Suggested additions</strong>: eggshell powder for calcium (about 38% calcium), cod liver oil for vitamin D, salmon oil for omega-3, in amounts worked out to reach the minimum. Iodine, zinc, copper and vitamin E should be added with a product chosen with your vet: the calculator says how much is missing.</li>
@@ -124,6 +125,7 @@ custom_content: |
 
   <!--BLOCCO:5-->
   <h2>The number is checked on the dog</h2>
+  <figure class="n-foto1"><img src="/images/femmina-divine.webp" alt="Divine, a Staffordshire Bull Terrier female from the Del Piccolo Diavolo kennel" width="272" height="400" loading="lazy" decoding="async"></figure>
   <p>As with kibble, no formula knows the dog in front of it. You should feel the ribs with a flat hand without pressing. If you can no longer feel them, cut the ration by 10%; if you can see them, raise it by 10%. Weigh a puppy every week, on the same scales.</p>
 
     <a class="rimando" href="/en/barf-raw-feeding-staffordshire-bull-terrier/">

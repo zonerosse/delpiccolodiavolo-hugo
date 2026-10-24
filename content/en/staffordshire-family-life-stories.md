@@ -55,6 +55,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Queen of California, spoilt without limits</h2>
+  <figure class="n-foto1"><img src="/images/queen-of-california.webp" alt="Queen of California, a Staffordshire Bull Terrier female bred by Del Piccolo Diavolo" width="1400" height="932" loading="lazy" decoding="async"></figure>
 
   <p><a href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" aria-label="Queen's pedigree on SBTPedigree (opens in a new tab)">Queen</a> is Italian Junior Champion 2026, and here too the title is the least interesting part. Her owners are special people, and they spoil her without limits: they take her to the swimming pool, they take her on holiday with them.</p>
 

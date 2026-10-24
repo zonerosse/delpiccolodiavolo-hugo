@@ -97,6 +97,9 @@ Nichts davon ist optional. Es ist das Minimum, das eine Zucht, die gut arbeitet,
 
 ## Was uns ein Wurf kostet, Posten für Posten {#costi-cucciolata}
 
+<figure class="n-foto1"><img src="/images/cuccioli-bilquis-nati-2.webp" alt="Neugeborene Staffordshire Bull Terrier Welpen bei ihrer Mutter" width="468" height="480" loading="lazy" decoding="async"></figure>
+
+
 Meist spricht man über den Preis des Welpen. Hier geht es um die andere Seite: **was ein Züchter ausgibt, bevor es den Welpen überhaupt gibt**. Das sind unsere echten Zahlen, die wir tatsächlich bezahlen.
 
 ### Vor der Verpaarung
@@ -204,6 +207,9 @@ Der billig gekaufte Welpe kann leicht zum Hund werden, der Tausende an Tierarztk
 <!--BLOCCO:5-->
 
 ## Der Unterschied, den man im Preis nicht sieht
+
+<figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-due-mesi-in-braccio.webp" alt="Ein zwei Monate alter Staffordshire Bull Terrier Welpe auf dem Arm" width="899" height="817" loading="lazy" decoding="async"></figure>
+
 
 Der Preis eines Welpen bezahlt nicht nur Impfungen und Ahnentafel. Er bezahlt eine völlig andere Art zu züchten.
 

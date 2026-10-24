@@ -67,6 +67,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>Le linee inglesi e irlandesi in pratica</h2>
+  <figure class="n-foto1"><img src="/images/femmina-croi-olc.webp" alt="Croi Olc, femmina di Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo" width="300" height="362" loading="lazy" decoding="async"></figure>
   <p>Le linee inglesi, fra cui Elitebull è una delle più influenti nell'Europa continentale, sono associate in genere a proporzioni equilibrate, una buona qualità della testa senza esagerazioni e un movimento sano. Le linee irlandesi come Lackyle sono note per compattezza, ossatura forte, una notevole costanza dentro la cucciolata e un carattere estroverso e solido.</p>
   <p>Non sono due mondi separati: Lackyle è arrivato prima, e i suoi cani storici si ritrovano nei pedigree di Elitebull. Il nostro programma le unisce di proposito, perché si completano invece di farsi concorrenza: l'inglese per l'equilibrio e la testa, l'irlandese per la sostanza e la costanza. Non è l'unica strategia valida, e un allevatore che lavora solo dentro una tradizione e la conosce a fondo può benissimo produrre cani migliori di uno che mescola senza un piano.</p>
   <p>La domanda da fare non è da quale paese vengono i cani. È se l'allevatore sa spiegare cosa porta ogni linea, e perché.</p>
@@ -95,6 +96,7 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <h2>Cosa guardare nei cuccioli</h2>
+  <figure class="n-foto1"><img src="/images/foto/cuccioli-staffordshire-bull-terrier-che-giocano-nel-prato.webp" alt="Due cuccioli di Staffordshire Bull Terrier della stessa cucciolata nel prato" width="794" height="600" loading="lazy" decoding="async"></figure>
   <p>A due mesi si valuta una tendenza, non un risultato. Cerca cuccioli che si riprendono in fretta da una sorpresa, che si avvicinano a un estraneo dopo un attimo di esitazione invece di ritirarsi, e che tollerano di essere tenuti a pancia in su per qualche secondo senza andare nel panico.</p>
   <p>Non scegliere il cucciolo più sfacciato della cucciolata perché viene da te per primo: è l'errore più comune. La fascia sicura di sé ma non estrema va bene per la grande maggioranza delle case, molto più dei due estremi, e un buon allevatore ti ci porterà; anzi, un buon allevatore il cucciolo lo sceglie lui per te invece di lasciartelo scegliere, e questo dovrebbe rassicurarti, non infastidirti.</p>
   <!--/BLOCCO:8-->

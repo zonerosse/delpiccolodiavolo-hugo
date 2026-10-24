@@ -61,6 +61,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Aspetto generale e proporzioni</h2>
+  <figure class="n-foto1"><img src="/images/bilquis-campionessa-hero.avif" alt="Bilquis, femmina di Staffordshire Bull Terrier: proporzioni e tipicità di razza" width="800" height="976" loading="lazy" decoding="async"></figure>
   <p>Lo Staffordshire Bull Terrier deve essere a pelo raso, ben proporzionato, di grande forza per la sua taglia, attivo e agile. L'altezza al garrese desiderata è fra 35,5 e 40,5 centimetri, legata al peso: i maschi pesano fra 12,7 e 17 chili, le femmine fra 11 e 15,4.</p>
   <p>Lo standard non dà le proporzioni in numeri, ma la proporzione che conta di più viene spesso trascurata: il cane tipico è appena più lungo che alto, raccolto, con la linea superiore orizzontale. Un cane quadrato o alto sugli arti perde la sagoma tipica della razza; un cane lungo e basso ha perso l'agilità che lo standard chiede. L'equilibrio fra sostanza e mobilità è tutto, ed è la prima cosa che un buon giudice valuta dall'altra parte del ring.</p>
   <!--/BLOCCO:3-->
@@ -87,6 +88,7 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>Il colore</h2>
+  <figure class="n-foto1"><img src="/images/cucciolo-rosso.webp" alt="Cucciolo di Staffordshire Bull Terrier di colore rosso" width="247" height="282" loading="lazy" decoding="async"></figure>
   <p>I colori ammessi sono rosso, fulvo, bianco, nero o blu, o ciascuno di questi con il bianco, e qualsiasi tonalità di tigrato, anche con il bianco. Il nero focato e il fegato sono definiti altamente indesiderabili, e nella razza non c'è posto per il merle, a volte venduto come «blue merle», che in questa razza non esiste affatto. Quali colori ammette lo standard, e quali no, è spiegato nella guida ai <a href="/colori-staffordshire-bull-terrier/" title="I colori dello Staffordshire Bull Terrier">colori dello Staffordshire Bull Terrier</a>.</p>
   <p>Il colore è l'ultima cosa che dovrebbe guidare una scelta e la prima che chiede la maggior parte delle famiglie. Un allevatore che fa il prezzo dei cuccioli in base al mantello ti sta dicendo quali sono le sue priorità.</p>
   <!--/BLOCCO:7-->

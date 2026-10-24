@@ -60,6 +60,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Was er vor der Abgabe kennengelernt haben kann</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-sul-plaid.webp" alt="Ein Staffordshire Bull Terrier Welpe entspannt auf einer Decke zu Hause" width="324" height="432" loading="lazy" decoding="async"></figure>
 
   <p>Viel weniger, als das Wort &bdquo;sozialisiert&ldquo; vermuten lässt. Und fast alles in einem kleinen Rahmen, der mit jeder Woche etwas größer wird.</p>
 
@@ -143,6 +144,7 @@ custom_content: |
 
   <!--BLOCCO:9-->
   <h2>Die ersten vier Wochen zu Hause: die entscheidenden</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-sul-divano.webp" alt="Ein Staffordshire Bull Terrier Welpe ruht auf der Brust seines Besitzers auf dem Sofa" width="675" height="900" loading="lazy" decoding="async"></figure>
 
   <p>Das ist der Teil, den der Züchter nicht in der Hand hat, und er wiegt genauso schwer wie seiner.</p>
 

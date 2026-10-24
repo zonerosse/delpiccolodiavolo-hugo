@@ -48,6 +48,7 @@ custom_content: |
   <p>We receive enquiries from outside Italy, mostly from Eastern Europe. It is possible, and we have done it before, but it works differently from a placement within Italy, and it is worth knowing that before falling for a photograph.</p>
 
     <h2>The puppy does not leave at two months</h2>
+    <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-in-braccio-al-proprietario.webp" alt="A Staffordshire Bull Terrier puppy in the arms of its new owner" width="675" height="900" loading="lazy" decoding="async"></figure>
 
     <p>In Italy a puppy cannot leave its mother before 60 days. To leave the country, however, it needs the rabies vaccination, which <strong>cannot be given before 12 weeks</strong> of age. After the first dose another three weeks must pass before it counts for travel purposes. Documents, car, train and air travel: the practical rules are in the guide to <a href="/en/staffy-travel-transport/" title="Travelling with a Staffy">travelling with a Staffy</a>.</p>
 

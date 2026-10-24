@@ -47,6 +47,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>General appearance and proportions</h2>
+  <figure class="n-foto1"><img src="/images/bilquis-campionessa-hero.avif" alt="Bilquis, a Staffordshire Bull Terrier female: proportions and breed type" width="800" height="976" loading="lazy" decoding="async"></figure>
   <p>The Staffordshire Bull Terrier should be smooth-coated, well balanced, of great strength for its size, and active and agile. The desirable height at the withers is between 35.5 and 40.5 centimetres, related to weight: dogs weigh between 12.7 and 17 kilograms, bitches between 11 and 15.4.</p>
   <p>The standard gives no proportions in figures, but the proportion that matters most is often overlooked: the typical dog is slightly longer than tall, close-coupled, with a level topline. A dog that is square or high on the leg loses the breed's characteristic outline; a dog that is long and low has lost the agility the standard asks for. The balance between substance and mobility is the whole point, and it is the first thing a good judge assesses from across the ring.</p>
   <!--/BLOCCO:3-->
@@ -73,6 +74,7 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>Colour</h2>
+  <figure class="n-foto1"><img src="/images/cucciolo-rosso.webp" alt="A red Staffordshire Bull Terrier puppy" width="247" height="282" loading="lazy" decoding="async"></figure>
   <p>Permitted colours are red, fawn, white, black or blue, or any of these with white, and any shade of brindle or brindle with white. Black-and-tan and liver are described as highly undesirable, and there is no place for merle, sometimes sold as "blue merle", which does not exist in this breed at all. Which colours the standard allows, and which it does not, is explained in the guide to <a href="/en/staffordshire-bull-terrier-colours/" title="Staffordshire Bull Terrier colours">Staffordshire Bull Terrier colours</a>.</p>
   <p>Colour is the last thing that should influence a choice and the first thing most families ask about. A breeder who prices puppies by coat colour is telling you what their priorities are.</p>
   <!--/BLOCCO:7-->

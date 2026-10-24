@@ -88,6 +88,7 @@ lastmod: 2026-10-24
 <p><strong>Il nostro.</strong> Il <a href="/diario-allevamento/" title="Diario dell'allevamento">diario dell'allevamento</a> riporta le date delle ultime cucciolate, e quelle degli anni prima stanno nel <a href="/programma-allevamento/" title="Programma di allevamento">programma di allevamento</a>: nessuna sparisce. Una l'anno, occasionalmente due, a volte nessuna.</p>
 
 <h2>5. La madre, dal vivo</h2>
+<figure class="n-foto1"><img src="/images/cuccioli-bilquis-nati-1.webp" alt="La madre con i suoi cuccioli di Staffordshire Bull Terrier nei primi giorni" width="435" height="480" loading="lazy" decoding="async"></figure>
 
 <p>Vedere la madre insieme ai cuccioli è il controllo più difficile da falsificare. Ti dice come sta, che carattere ha e in che ambiente sono cresciuti i piccoli. È anche il motivo per cui chi ha qualcosa da nascondere propone un incontro a metà strada.</p>
 

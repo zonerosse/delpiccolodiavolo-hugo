@@ -49,6 +49,7 @@ custom_content: |
   <p>Ci arrivano richieste da fuori Italia, soprattutto dai paesi dell'Est europeo. È possibile, lo abbiamo già fatto, ma funziona diversamente da un affido in Italia e conviene saperlo prima di affezionarsi a una foto.</p>
 
   <h2>Il cucciolo non parte a due mesi</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-in-braccio-al-proprietario.webp" alt="Cucciolo di Staffordshire Bull Terrier in braccio al suo nuovo proprietario" width="675" height="900" loading="lazy" decoding="async"></figure>
 
   <p>In Italia un cucciolo non può lasciare la madre prima dei 60 giorni. Per uscire dal paese, invece, gli serve la vaccinazione antirabbica, che <strong>non si può fare prima delle 12 settimane</strong> di vita. Dopo la prima somministrazione bisogna aspettarne altre tre perché diventi valida ai fini dello spostamento.</p>
 

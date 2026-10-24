@@ -68,6 +68,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Il nero</h2>
+  <figure class="n-foto1"><img src="/images/primo-piano-cucciolo.avif" alt="Cucciolo di Staffordshire Bull Terrier nero" width="639" height="600" loading="lazy" decoding="async"></figure>
   <p>Il nero è un mantello raso, lucido e uniforme, che mette in risalto la muscolatura dello Staffy. Può presentarsi in nero pieno oppure <strong>nero con bianco</strong> (pezzature sul petto, sulle dita, sul muso).</p>
   <p>È un colore conforme allo standard. I colori di ogni cucciolata dell'allevamento sono indicati nella pagina dei <a href="/cuccioli-staffordshire-bull-terrier/">cuccioli di Staffordshire Bull Terrier</a>.</p>
 
@@ -85,6 +86,7 @@ custom_content: |
 
   <!--BLOCCO:5-->
   <h2>Il fulvo e il rosso</h2>
+  <figure class="n-foto1"><img src="/images/cucciolo-rosso.webp" alt="Cucciolo di Staffordshire Bull Terrier di colore rosso" width="247" height="282" loading="lazy" decoding="async"></figure>
   <p>Il <strong>fulvo</strong> (fawn) copre le tonalità dal crema/miele al beige dorato, mentre il <strong>rosso</strong> (red) va dal ramato all'intenso mattone. Entrambi sono ammessi con o senza bianco. Spesso questi soggetti hanno la maschera facciale più scura.</p>
   <!--/BLOCCO:5-->
 

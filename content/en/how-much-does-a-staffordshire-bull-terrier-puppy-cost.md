@@ -97,6 +97,9 @@ None of this is optional. It is the minimum a breeder who does things properly h
 
 ## What a litter costs us, item by item {#costi-cucciolata}
 
+<figure class="n-foto1"><img src="/images/cuccioli-bilquis-nati-2.webp" alt="Newborn Staffordshire Bull Terrier puppies with their mother" width="468" height="480" loading="lazy" decoding="async"></figure>
+
+
 People usually talk about the price of the puppy. Here we look at the other side: **what a breeder spends before the puppy even exists**. These are our real figures, the ones we actually pay.
 
 ### Before the mating
@@ -204,6 +207,9 @@ The puppy that cost little can easily become a dog that costs thousands in veter
 <!--BLOCCO:5-->
 
 ## The difference you cannot see in the price
+
+<figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-due-mesi-in-braccio.webp" alt="A two-month-old Staffordshire Bull Terrier puppy being held" width="899" height="817" loading="lazy" decoding="async"></figure>
+
 
 The price of a puppy does not just pay for vaccinations and a pedigree. It pays for an entirely different way of breeding.
 

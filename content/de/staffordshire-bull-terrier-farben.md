@@ -69,6 +69,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Schwarz</h2>
+  <figure class="n-foto1"><img src="/images/primo-piano-cucciolo.avif" alt="Ein schwarzer Staffordshire Bull Terrier Welpe" width="639" height="600" loading="lazy" decoding="async"></figure>
   <p>Schwarz ist ein glattes, glänzendes und gleichmäßiges Fell, das die Muskulatur des Staffy hervorhebt. Es kann als volles Schwarz oder <strong>Schwarz mit Weiß</strong> auftreten (Abzeichen an Brust, Zehen, Fang).</p>
   <p>Es ist eine Farbe, die dem Standard entspricht. Die Farben jedes unserer Würfe stehen auf der Seite <a href="/de/welpen-staffordshire-bull-terrier/">Staffordshire Bull Terrier Welpen</a>.</p>
 
@@ -86,6 +87,7 @@ custom_content: |
 
   <!--BLOCCO:5-->
   <h2>Falb und Rot</h2>
+  <figure class="n-foto1"><img src="/images/cucciolo-rosso.webp" alt="Ein roter Staffordshire Bull Terrier Welpe" width="247" height="282" loading="lazy" decoding="async"></figure>
   <p><strong>Falb</strong> (fawn) umfasst die Töne von Creme/Honig bis goldenes Beige, während <strong>Rot</strong> von Kupfer bis zu einem intensiven Ziegelton reicht. Beide sind mit oder ohne Weiß erlaubt. Diese Hunde haben oft eine dunklere Gesichtsmaske.</p>
   <!--/BLOCCO:5-->
 

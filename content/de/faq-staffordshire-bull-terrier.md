@@ -37,6 +37,7 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">FAQ</span>
   <h2 class="section-title">Ihre Fragen, unsere Antworten</h2>
+  <figure class="n-foto1"><img src="/images/foto/staffordshire-bull-terrier-a-casa-con-la-famiglia.webp" alt="Ein Staffordshire Bull Terrier zu Hause bei seiner Familie" width="675" height="900" loading="lazy" decoding="async"></figure>
 
   <div class="faq-intro">
   <p>Das sind die Fragen, die uns Familien am häufigsten stellen, mit den Antworten der <strong>Zucht Del Piccolo Diavolo</strong>.</p>
@@ -117,6 +118,7 @@ custom_content: |
   <div class="faq-answer">Regelmäßige Bewegung, keine extreme. Für einen erwachsenen Hund gibt es keine feste Minutenzahl: Das hängt vom Hund ab. Er braucht jeden Tag Ausgänge, mindestens einer davon mit Schnüffeln und freier Bewegung, und ohne übermäßige Belastung, vor allem in jungen Jahren. Der Staffordshire Bull Terrier ist ein explosiver Hund, kein Ausdauerläufer: er leistet auf kurzen, intensiven Einheiten. Unterschätzt wird meist die geistige Arbeit: <strong>eine halbe Stunde Nasenarbeit ermüdet so sehr wie eine Stunde Laufen</strong>, ohne die Gelenke zu belasten. Beim Welpen gilt die Regel von fünf Minuten pro Lebensmonat je Spaziergang, weil sich die Wachstumsfugen erst zwischen dem zwölften und achtzehnten Monat schließen.</div>
   </div>
 
+  <figure class="n-foto1"><img src="/images/foto/cuccioli-staffordshire-bull-terrier-cucciolata-nell-erba.webp" alt="Ein Wurf Staffordshire Bull Terrier Welpen der Zucht Del Piccolo Diavolo auf der Wiese" width="800" height="580" loading="lazy" decoding="async"></figure>
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Ist der Staffy leicht zu erziehen?</h3>
@@ -192,6 +194,7 @@ custom_content: |
   <div class="faq-answer">Ja, aber es muss schrittweise gelernt werden, und nicht für lange Zeit. Diese Rasse hängt sehr an Menschen und verträgt das Alleinsein deshalb schlechter als viele Hunde: vier bis fünf Stunden sind für einen ausgeglichenen Erwachsenen eine vernünftige Grenze, ein Welpe schafft nicht mehr als ein paar Stunden. Die Gewohnheit wird ab dem ersten Tag mit sehr kurzen Abwesenheiten aufgebaut, die nach und nach verlängert werden, ohne Aufhebens beim Gehen und beim Zurückkommen. Das Warnsignal ist nicht Unordnung, sondern Panik: ununterbrochenes Jaulen, Speicheln, Versuche, durch die Tür zu kommen. Das ist <strong>Trennungsangst</strong>, und es lohnt sich, eine Fachperson hinzuzuziehen, statt abzuwarten, bis es vorbeigeht.
   </div>
   </div>
+    <figure class="n-foto1"><img src="/images/femmina-divine.webp" alt="Divine, eine Staffordshire Bull Terrier Hündin der Zucht Del Piccolo Diavolo" width="272" height="400" loading="lazy" decoding="async"></figure>
     <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Leidet der Staffy unter Hitze oder Kälte?</h3>

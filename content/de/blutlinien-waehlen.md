@@ -61,6 +61,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>Englische und irische Linien in der Praxis</h2>
+  <figure class="n-foto1"><img src="/images/femmina-croi-olc.webp" alt="Croi Olc, eine Staffordshire Bull Terrier Hündin der Zucht Del Piccolo Diavolo" width="300" height="362" loading="lazy" decoding="async"></figure>
   <p>Englische Linien, unter denen Elitebull auf dem europäischen Festland zu den einflussreichsten zählt, stehen allgemein für ausgewogene Proportionen, gute Kopfqualität ohne Übertreibung und korrektes Gangwerk. Irische Linien wie Lackyle sind bekannt für Kompaktheit, kräftigen Knochen, auffällige Wurfkonstanz und ein offenes, robustes Wesen.</p>
   <p>Es sind keine zwei getrennten Welten: Lackyle war zuerst da, und seine historischen Hunde finden sich in den Ahnentafeln von Elitebull. Unser eigenes Programm verbindet beide bewusst, weil sie einander ergänzen statt zu konkurrieren: das Englische für Ausgewogenheit und Kopf, das Irische für Substanz und Konstanz. Das ist nicht die einzige gültige Strategie, und ein Züchter, der ausschließlich in einer Tradition arbeitet und sie genau kennt, kann bessere Hunde bringen als einer, der ohne Plan mischt.</p>
   <p>Die Frage lautet nicht, aus welchem Land die Hunde stammen, sondern ob der Züchter erklären kann, was jede Linie beiträgt und warum.</p>
@@ -89,6 +90,7 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <h2>Worauf Sie bei den Welpen selbst achten</h2>
+  <figure class="n-foto1"><img src="/images/foto/cuccioli-staffordshire-bull-terrier-che-giocano-nel-prato.webp" alt="Zwei Staffordshire Bull Terrier Welpen aus demselben Wurf auf der Wiese" width="794" height="600" loading="lazy" decoding="async"></figure>
   <p>Mit zwei Monaten beurteilen Sie Tendenzen, keine Ergebnisse. Achten Sie auf Welpen, die sich von einer Überraschung schnell erholen, die nach kurzem Zögern auf einen Fremden zugehen statt zurückzuweichen, und die es einige Sekunden ohne Panik aushalten, auf dem Rücken gehalten zu werden.</p>
   <p>Wählen Sie nicht den forschesten Welpen, nur weil er als Erster zu Ihnen kommt: das ist der häufigste Fehler. Das selbstsichere Mittelfeld eines Wurfes passt zur überwiegenden Mehrheit der Familien weit besser als beide Extreme, und ein guter Züchter lenkt Sie dorthin. Tatsächlich wählt ein guter Züchter den Welpen für Sie aus, statt Sie wählen zu lassen, und das sollte beruhigen statt zu ärgern.</p>
   <!--/BLOCCO:8-->

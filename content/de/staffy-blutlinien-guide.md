@@ -98,12 +98,14 @@ custom_content: |
 
   <!--BLOCCO:5-->
   <h2>Die englischen Linien</h2>
+  <figure class="n-foto1"><img src="/images/femmina-derry.webp" alt="Derry, eine Staffordshire Bull Terrier Hündin der Zucht Del Piccolo Diavolo" width="314" height="300" loading="lazy" decoding="async"></figure>
   <p>Die Rasse entstand in England, und die englische Zucht bleibt der Maßstab für den Typ. Die einflussreichsten Zwinger haben korrekte Proportionen, einen breiten, gut gefüllten Kopf ohne Übertreibung, korrektes Gangwerk und vor allem das im <a href="https://www.fci.be/Nomenclature/Standards/076g03-de.pdf" target="_blank" rel="noopener" aria-label="FCI-Standard Nr. 76, PDF (wird in einem neuen Tab geöffnet)">Standard</a> verankerte zuverlässige Wesen in den Vordergrund gestellt.</p>
   <p>Linien wie Elitebull waren auf dem europäischen Festland besonders prägend und bilden die Grundlage unseres eigenen Programms. Was wir dort suchen, ist Substanz ohne Grobheit: ein Hund, der auf den ersten Blick unverkennbar ein Staffordshire Bull Terrier ist und trotzdem lange traben und danach normal atmen kann.</p>
   <!--/BLOCCO:5-->
 
   <!--BLOCCO:6-->
   <h2>Die irischen Linien</h2>
+  <figure class="n-foto1"><img src="/images/queen-of-california.webp" alt="Queen of California, eine Staffordshire Bull Terrier Hündin aus der Zucht Del Piccolo Diavolo" width="1400" height="932" loading="lazy" decoding="async"></figure>
   <p>Die irische Zucht hat eine eigene Handschrift und einen ausgezeichneten Ruf. Zwinger wie Lackyle sind bekannt für kompakte, athletische, ausgesprochen typvolle Hunde mit kräftigem Knochen und auffallend offenem Wesen. Irische Linien legten historisch großen Wert auf Gesundheit und darauf, den Typ über einen ganzen Wurf hinweg zu halten, statt einen herausragenden Welpen in einem gewöhnlichen Wurf zu erzeugen.</p>
   <p>Englische und irische Linien zu verbinden ist eine bewährte Strategie und die Basis unserer Selektion: das Englische für Ausgewogenheit und Kopfqualität, das Irische für Kompaktheit, Knochen und Konstanz.</p>
   <!--/BLOCCO:6-->

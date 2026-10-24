@@ -88,6 +88,7 @@ lastmod: 2026-10-24
 <p><strong>Unsere.</strong> Das <a href="/de/diario-allevamento/" title="Zuchttagebuch">Zuchttagebuch</a> nennt die Daten der j&uuml;ngsten W&uuml;rfe, die fr&uuml;heren stehen im <a href="/de/wuerfe-staffordshire-bull-terrier/" title="Zuchtprogramm">Zuchtprogramm</a>: keiner verschwindet. Einer im Jahr, gelegentlich zwei, manchmal auch keiner.</p>
 
 <h2>5. Die Mutter, in echt</h2>
+<figure class="n-foto1"><img src="/images/cuccioli-bilquis-nati-1.webp" alt="Die Mutter mit ihren Staffordshire Bull Terrier Welpen in den ersten Tagen" width="435" height="480" loading="lazy" decoding="async"></figure>
 
 <p>Die Mutter mit ihren Welpen zu sehen ist die Prüfung, die sich am schwersten fälschen lässt. Sie zeigt, wie es ihr geht, welches Wesen sie hat und in welcher Umgebung die Welpen aufgewachsen sind. Genau deshalb schlägt jeder, der etwas zu verbergen hat, ein Treffen auf halbem Weg vor.</p>
 

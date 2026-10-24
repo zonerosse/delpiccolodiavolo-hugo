@@ -60,6 +60,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>What it may have met before leaving</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-sul-plaid.webp" alt="A Staffordshire Bull Terrier puppy relaxing on a blanket at home" width="324" height="432" loading="lazy" decoding="async"></figure>
 
   <p>Far less than the word &ldquo;socialised&rdquo; suggests. And almost all of it inside a small perimeter, which grows a little with every extra week.</p>
 
@@ -143,6 +144,7 @@ custom_content: |
 
   <!--BLOCCO:9-->
   <h2>The first four weeks at home: the ones that decide</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-sul-divano.webp" alt="A Staffordshire Bull Terrier puppy resting on its owner's chest on the sofa" width="675" height="900" loading="lazy" decoding="async"></figure>
 
   <p>This is the part the breeder does not control, and it weighs as much as theirs.</p>
 

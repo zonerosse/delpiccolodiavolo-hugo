@@ -48,6 +48,7 @@ custom_content: |
   <p>Wir erhalten Anfragen aus dem Ausland, vor allem aus Osteuropa. Es ist möglich, und wir haben es schon getan, aber es läuft anders ab als eine Vermittlung innerhalb Italiens, und das sollte man wissen, bevor man sich in ein Foto verliebt. Papiere, Auto, Bahn und Flugzeug: die praktischen Regeln stehen im Ratgeber zum <a href="/de/staffy-reisen-transport/" title="Reisen mit dem Staffy">Reisen mit dem Staffy</a>.</p>
 
     <h2>Der Welpe reist nicht mit zwei Monaten</h2>
+    <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-in-braccio-al-proprietario.webp" alt="Ein Staffordshire Bull Terrier Welpe auf dem Arm seines neuen Besitzers" width="675" height="900" loading="lazy" decoding="async"></figure>
 
     <p>In Italien darf ein Welpe die Mutter nicht vor dem 60. Tag verlassen. Um das Land zu verlassen, braucht er jedoch die Tollwutimpfung, die <strong>nicht vor der 12. Lebenswoche</strong> verabreicht werden darf. Nach der ersten Impfung müssen weitere drei Wochen vergehen, bevor sie für die Verbringung gültig ist.</p>
 

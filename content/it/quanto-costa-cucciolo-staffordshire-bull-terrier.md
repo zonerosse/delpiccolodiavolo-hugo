@@ -97,6 +97,9 @@ Questi non sono optional. Sono il minimo che deve garantire un allevatore che fa
 
 ## Quanto costa una cucciolata a noi, voce per voce {#costi-cucciolata}
 
+<figure class="n-foto1"><img src="/images/cuccioli-bilquis-nati-2.webp" alt="Cuccioli di Staffordshire Bull Terrier appena nati con la madre" width="468" height="480" loading="lazy" decoding="async"></figure>
+
+
 Di solito si parla del prezzo del cucciolo. Qui parliamo dell'altro lato: **quanto spende un allevatore prima che il cucciolo esista**. Sono le nostre cifre reali, quelle che paghiamo davvero.
 
 ### Prima dell'accoppiamento
@@ -204,6 +207,9 @@ Il cucciolo pagato poco può facilmente diventare un cane da migliaia di euro di
 <!--BLOCCO:5-->
 
 ## La differenza che non vedi nel prezzo
+
+<figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-due-mesi-in-braccio.webp" alt="Cucciolo di Staffordshire Bull Terrier di due mesi tenuto in braccio" width="899" height="817" loading="lazy" decoding="async"></figure>
+
 
 Il prezzo di un cucciolo non paga solo vaccinazioni e pedigree. Paga un modo completamente diverso di allevare.
 

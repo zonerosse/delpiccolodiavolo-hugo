@@ -69,6 +69,7 @@ custom_content: |
   <div class="bf-info bf-dopo">
   <!--BLOCCO:2-->
   <h2>Nach der Berechnung: so lesen Sie die Ergebnisse</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-quattro-mesi.webp" alt="Ein vier Monate alter Staffordshire Bull Terrier Welpe" width="605" height="900" loading="lazy" decoding="async"></figure>
   <ul>
   <li><strong>Stand der Nährstoffe</strong>: Vergleich mit dem FEDIAF-Minimum pro 1000 kcal. «Ok» = gedeckt; «knapp» = zwischen 90% und 100% des Minimums; «fehlt» = unter 90%; «zu viel» = über dem FEDIAF-Maximum.</li>
   <li><strong>Vorgeschlagene Zugaben</strong>: Eierschalenpulver für Kalzium (etwa 38% Kalzium), Lebertran für Vitamin D, Lachsöl für Omega-3, in Mengen, die das Minimum decken. Jod, Zink, Kupfer und Vitamin E werden mit einem Präparat ergänzt, das Sie mit dem Tierarzt wählen: der Rechner sagt, wie viel fehlt.</li>
@@ -124,6 +125,7 @@ custom_content: |
 
   <!--BLOCCO:5-->
   <h2>Die Zahl prüft man am Hund</h2>
+  <figure class="n-foto1"><img src="/images/femmina-divine.webp" alt="Divine, eine Staffordshire Bull Terrier Hündin der Zucht Del Piccolo Diavolo" width="272" height="400" loading="lazy" decoding="async"></figure>
   <p>Wie beim Trockenfutter kennt keine Formel den Hund, der vor ihr steht. Die Rippen sollen sich mit flacher Hand ohne Druck fühlen lassen. Fühlt man sie nicht mehr, wird die Ration um 10% gesenkt; sieht man sie, um 10% erhöht. Den Welpen jede Woche wiegen, auf derselben Waage.</p>
 
     <a class="rimando" href="/de/barf-staffordshire-bull-terrier-rohfuetterung/">

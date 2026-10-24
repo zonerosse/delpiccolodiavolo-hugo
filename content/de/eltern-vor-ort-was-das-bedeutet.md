@@ -84,6 +84,7 @@ custom_content: |
 
   <!--BLOCCO:5-->
   <h2>Und worauf achtet man bei der Mutter wirklich?</h2>
+  <figure class="n-foto1"><img src="/images/foto/cuccioli-staffordshire-bull-terrier-allattati-dalla-madre.webp" alt="Staffordshire Bull Terrier Welpen trinken bei ihrer Mutter" width="900" height="874" loading="lazy" decoding="async"></figure>
 
   <p>Hier zählt der Besuch sehr wohl, nur nicht aus den Gründen, die man vermutet.</p>
 

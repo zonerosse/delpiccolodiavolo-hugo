@@ -61,6 +61,7 @@ correlati:
 <p>Das Wesen des Staffordshire Bull Terrier ist kein Zufall: Es ist das Ergebnis gezielter Selektion und der ersten Lebenswochen, samt <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor und Frühstimulation: was die Forschung sagt">Frühstimulation</a>. Der Rassestandard beschreibt einen <strong>mutigen, zähen und gegenüber Menschen zuverlässigen</strong> Hund, und bei diesem letzten Punkt wiegt die Auswahl der Zuchttiere mehr als jede spätere Erziehung. Nachfragen sollte man bei etwas anderem: Als Terrier kann er gegenüber Artgenossen reaktiv sein, vor allem zwischen erwachsenen Hunden gleichen Geschlechts, und <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das wirklich heißt">frühe Sozialisierung</a> verringert das, beseitigt es aber nicht. Das Wesen beurteilt man an den Eltern und Wurfgeschwistern, nicht an einem einzelnen Welpen mit drei Wochen. Ein Ratgeber von Del Piccolo Diavolo, <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Staffordshire Bull Terrier Züchter</a> in Ostellato (Ferrara, Italien) seit dem Jahr 2013.</p>
 
 <h2>Ein Wesen, das gebaut wurde, nicht zufällig entstand</h2>
+<figure class="n-foto1"><img src="/images/foto/due-cuccioli-staffordshire-bull-terrier-nel-prato.webp" alt="Zwei Staffordshire Bull Terrier Welpen aus demselben Wurf sitzen zusammen auf der Wiese" width="900" height="680" loading="lazy" decoding="async"></figure>
 
 <p>Der Staffordshire Bull Terrier entstand in der ersten Hälfte des 19. Jahrhunderts in den englischen Midlands, aus Kreuzungen zwischen den Bulldoggen jener Zeit und einheimischen Terriern. Der Zusammenhang, in dem diese Hunde eingesetzt wurden, ist nicht der Teil, den man gern erzählt, aber es ist der Teil, der ihr Wesen geformt hat, und ihn zu übergehen heißt, die Rasse nicht zu verstehen.</p>
 
@@ -85,6 +86,7 @@ correlati:
 <p>Das ist eine vorhersehbare Eigenschaft, kein verborgener Mangel. Und sie gehört gesagt, bevor der Welpe einzieht, nicht danach: wer einen Hund sucht, den er im Park mit allen frei laufen lassen kann, sollte das vorher wissen.</p>
 
 <h2>Was wir konkret selektieren</h2>
+<figure class="n-foto1"><img src="/images/femmina-croi-olc.webp" alt="Croi Olc, eine Staffordshire Bull Terrier Hündin der Zucht Del Piccolo Diavolo" width="300" height="362" loading="lazy" decoding="async"></figure>
 
 <p>In unserer <a href="/de/">Staffordshire Bull Terrier Zucht</a> ist Wesen kein Wunsch, sondern ein Ausschlusskriterium. Ein Hund mit ausgeprägter Unsicherheit, übermäßiger Reaktivität oder Misstrauen gegenüber Menschen kommt nicht ins Zuchtprogramm, wie korrekt sein Körperbau auch sein mag.</p>
 

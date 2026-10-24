@@ -37,6 +37,7 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">FAQ</span>
   <h2 class="section-title">Your questions, our answers</h2>
+  <figure class="n-foto1"><img src="/images/foto/staffordshire-bull-terrier-a-casa-con-la-famiglia.webp" alt="A Staffordshire Bull Terrier at home with its family" width="675" height="900" loading="lazy" decoding="async"></figure>
 
   <div class="faq-intro">
   <p>These are the questions families ask us most often, with the answers of the <strong>Del Piccolo Diavolo kennel</strong>.</p>
@@ -117,6 +118,7 @@ custom_content: |
   <div class="faq-answer">By what can be verified without having to trust anyone. <strong>Genetic test reports</strong> only count if they carry the dog's microchip number: without it the document cannot be linked to any particular animal. <strong>Pedigrees</strong> can be checked on SBTPedigree, the breed's international archive. The <strong>number of litters a bitch has had</strong> can be looked up in the ENCI stud book, again starting from the microchip. <strong>Show results</strong> appear in the public catalogues of the events, with the judge's name. A breeder who receives by appointment and shows you the mother and the place where the puppies grow up is another good sign, as is respecting the 60-day minimum before rehoming, which is a legal requirement in Italy.</div>
   </div>
 
+  <figure class="n-foto1"><img src="/images/foto/cuccioli-staffordshire-bull-terrier-cucciolata-nell-erba.webp" alt="A litter of Staffordshire Bull Terrier puppies from the Del Piccolo Diavolo kennel on the grass" width="800" height="580" loading="lazy" decoding="async"></figure>
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">What nutrition does the Staffy need?</h3>
@@ -189,6 +191,7 @@ custom_content: |
   <div class="faq-answer">Yes, but it has to be taught gradually and not for long stretches. This breed is very attached to people, so it tolerates solitude worse than many dogs: four or five hours is a reasonable limit for a settled adult, while a puppy will not manage more than a couple. The habit is built from the first day with very short absences, extended little by little, and with no drama either on leaving or on returning. The warning sign is not mess but panic: continuous vocalising, drooling, attempts to get through the door. That is <strong>separation anxiety</strong>, and it is worth involving a professional rather than waiting for it to pass.</div>
   </div>
 
+  <figure class="n-foto1"><img src="/images/femmina-divine.webp" alt="Divine, a Staffordshire Bull Terrier female from the Del Piccolo Diavolo kennel" width="272" height="400" loading="lazy" decoding="async"></figure>
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Does the Staffy suffer from heat or cold?</h3>

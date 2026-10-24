@@ -84,6 +84,7 @@ custom_content: |
 
   <!--BLOCCO:5-->
   <h2>E la madre allora, cosa si guarda davvero</h2>
+  <figure class="n-foto1"><img src="/images/foto/cuccioli-staffordshire-bull-terrier-allattati-dalla-madre.webp" alt="Cuccioli di Staffordshire Bull Terrier allattati dalla madre" width="900" height="874" loading="lazy" decoding="async"></figure>
 
   <p>Qui la visita conta eccome, ma non per le ragioni che si credono.</p>
 

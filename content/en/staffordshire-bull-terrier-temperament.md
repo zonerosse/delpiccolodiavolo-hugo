@@ -61,6 +61,7 @@ correlati:
 <p>The temperament of the Staffordshire Bull Terrier is no accident: it is the result of deliberate selection and of the first weeks of life, including <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor and early stimulation: what research says">early stimulation</a>. The breed standard describes a dog that is <strong>bold, tenacious and reliable with people</strong>, and on that last point the choice of breeding dogs weighs more than any later training. The trait worth asking about is a different one: as a terrier, it can be reactive towards other dogs, especially between adults of the same sex, and <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it really means">early socialisation</a> reduces this without removing it. Temperament is judged by looking at the parents and littermates, not at a single puppy at three weeks. A guide by Del Piccolo Diavolo, a <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Staffordshire Bull Terrier breeder</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
 <h2>A character that was built, not inherited by chance</h2>
+<figure class="n-foto1"><img src="/images/foto/due-cuccioli-staffordshire-bull-terrier-nel-prato.webp" alt="Two Staffordshire Bull Terrier puppies from the same litter sitting together on the grass" width="900" height="680" loading="lazy" decoding="async"></figure>
 
 <p>The Staffordshire Bull Terrier emerged in England in the first half of the nineteenth century, in the Midlands, from crosses between the bulldogs of the day and local terriers. The context in which these dogs were used is not the part we like to tell, but it is the part that shaped their character, and ignoring it means misunderstanding the breed.</p>
 
@@ -85,6 +86,7 @@ correlati:
 <p>It is a predictable trait, not a hidden defect. And it should be said before the puppy goes home, not after: anyone looking for a dog to take to the park and let loose with all comers needs to know this in advance.</p>
 
 <h2>What we select for, in practice</h2>
+<figure class="n-foto1"><img src="/images/femmina-croi-olc.webp" alt="Croi Olc, a Staffordshire Bull Terrier female from the Del Piccolo Diavolo kennel" width="300" height="362" loading="lazy" decoding="async"></figure>
 
 <p>In our <a href="/en/">Staffordshire Bull Terrier kennel</a> character is not an aspiration but a criterion for exclusion. A dog showing marked insecurity, excessive reactivity or wariness of people does not enter the breeding programme, however correct its conformation.</p>
 

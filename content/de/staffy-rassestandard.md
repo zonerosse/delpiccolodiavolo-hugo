@@ -55,6 +55,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Erscheinungsbild und Proportionen</h2>
+  <figure class="n-foto1"><img src="/images/bilquis-campionessa-hero.avif" alt="Bilquis, eine Staffordshire Bull Terrier Hündin: Proportionen und Rassetyp" width="800" height="976" loading="lazy" decoding="async"></figure>
   <p>Der Staffordshire Bull Terrier soll kurzhaarig, gut ausbalanciert, von großer Kraft für seine Größe sowie aktiv und wendig sein. Die erwünschte Widerristhöhe liegt zwischen 35,5 und 40,5 Zentimetern, im Verhältnis zum Gewicht: Rüden wiegen zwischen 12,7 und 17 Kilogramm, Hündinnen zwischen 11 und 15,4.</p>
   <p>Der Standard nennt keine Proportionen in Zahlen, doch die wichtigste Proportion wird oft übersehen: der typische Hund ist geringfügig länger als hoch, kurz gekoppelt, mit gerader oberer Linie. Ein quadratischer oder hochläufiger Hund verliert die charakteristische Silhouette; ein langer, niedriger Hund hat die geforderte Wendigkeit eingebüßt. Das Gleichgewicht zwischen Substanz und Beweglichkeit ist der eigentliche Punkt.</p>
   <!--/BLOCCO:3-->
@@ -81,6 +82,7 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>Farben</h2>
+  <figure class="n-foto1"><img src="/images/cucciolo-rosso.webp" alt="Ein roter Staffordshire Bull Terrier Welpe" width="247" height="282" loading="lazy" decoding="async"></figure>
   <p>Zugelassen sind Rot, Falb, Weiß, Schwarz oder Blau, jeweils auch mit Weiß, sowie jede Schattierung von Gestromt und Gestromt mit Weiß. Schwarz-Loh und Leberfarben gelten als höchst unerwünscht, und keinen Platz hat Merle, manchmal als „Blue Merle“ verkauft, das es in dieser Rasse überhaupt nicht gibt.</p>
   <p>Die Farbe sollte die Wahl zuletzt beeinflussen und ist die erste Frage der meisten Familien. Ein Züchter, der Welpen nach Fellfarbe bepreist, sagt Ihnen damit, wo seine Prioritäten liegen. Welche Farben der Standard zulässt und welche nicht, erklärt der Ratgeber zu den <a href="/de/staffordshire-bull-terrier-farben/" title="Farben des Staffordshire Bull Terrier">Farben des Staffordshire Bull Terrier</a>.</p>
   <!--/BLOCCO:7-->

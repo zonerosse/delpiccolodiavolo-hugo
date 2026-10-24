@@ -69,6 +69,7 @@ custom_content: |
   <div class="bf-info bf-dopo">
   <!--BLOCCO:2-->
   <h2>Dopo il calcolo: come leggere i risultati</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-quattro-mesi.webp" alt="Cucciolo di Staffordshire Bull Terrier di quattro mesi" width="605" height="900" loading="lazy" decoding="async"></figure>
   <ul>
   <li><strong>Stato dei nutrienti</strong>: confronto con il minimo FEDIAF per 1000 kcal. «Ok» = coperto; «al limite» = tra il 90% e il 100% del minimo; «manca» = sotto il 90%; «troppo» = sopra il massimo FEDIAF.</li>
   <li><strong>Integrazioni proposte</strong>: guscio d'uovo in polvere per il calcio (circa 38% di calcio), olio di fegato di merluzzo per la vitamina D, olio di salmone per gli omega-3, quantità calcolate per coprire il minimo. Iodio, zinco, rame e vitamina E vanno integrati con un prodotto scelto con il veterinario: il calcolatore dice quanto ne manca.</li>
@@ -124,6 +125,7 @@ custom_content: |
 
   <!--BLOCCO:5-->
   <h2>Il numero si controlla sul cane</h2>
+  <figure class="n-foto1"><img src="/images/femmina-divine.webp" alt="Divine, femmina di Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo" width="272" height="400" loading="lazy" decoding="async"></figure>
   <p>Come per le crocchette, nessuna formula conosce il cane che ha davanti. Le costole si devono sentire con la mano piatta senza premere. Se non si sentono più, si cala la razione del 10%; se si vedono, la si aumenta del 10%. Il cucciolo si pesa ogni settimana, sulla stessa bilancia.</p>
 
     <a class="rimando" href="/barf-staffordshire-bull-terrier/">

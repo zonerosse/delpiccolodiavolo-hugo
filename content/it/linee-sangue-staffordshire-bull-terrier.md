@@ -100,12 +100,14 @@ custom_content: |
 
   <!--BLOCCO:5-->
   <h2>Le linee inglesi</h2>
+  <figure class="n-foto1"><img src="/images/femmina-derry.webp" alt="Derry, femmina di Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo" width="314" height="300" loading="lazy" decoding="async"></figure>
   <p>La razza è nata in Inghilterra, e l'allevamento inglese resta il riferimento per il tipo. Gli allevamenti più influenti hanno dato la priorità a proporzioni corrette, una testa larga e ben piena senza esagerazioni, un movimento sano e, soprattutto, il carattere affidabile scritto nello standard.</p>
   <p>Linee come Elitebull sono state particolarmente influenti nell'Europa continentale, e sono la base del nostro programma. Quello che ci cerchiamo è sostanza senza grossolanità: un cane che a colpo d'occhio è inconfondibilmente uno Staffordshire Bull Terrier, ma che può ancora trottare a lungo e respirare normalmente alla fine.</p>
   <!--/BLOCCO:5-->
 
   <!--BLOCCO:6-->
   <h2>Le linee irlandesi</h2>
+  <figure class="n-foto1"><img src="/images/queen-of-california.webp" alt="Queen of California, femmina di Staffordshire Bull Terrier allevata da Del Piccolo Diavolo" width="1400" height="932" loading="lazy" decoding="async"></figure>
   <p>L'allevamento irlandese ha un carattere suo e un'ottima reputazione. Allevamenti come Lackyle sono noti per cani compatti, atletici, molto tipici, con un'ossatura forte e un carattere decisamente estroverso. Le linee irlandesi hanno sempre insistito molto sulla solidità e sul produrre cani che mantengono il tipo in modo costante in tutta la cucciolata, invece di un cucciolo eccezionale in mezzo a una cucciolata qualunque.</p>
   <p>Unire linee inglesi e irlandesi è una strategia comune e produttiva, ed è la base della nostra selezione. Le due tradizioni si completano: l'inglese per l'equilibrio e la qualità della testa, l'irlandese per la compattezza, l'ossatura e la costanza.</p>
   <!--/BLOCCO:6-->

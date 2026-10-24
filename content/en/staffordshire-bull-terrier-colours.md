@@ -69,6 +69,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Black</h2>
+  <figure class="n-foto1"><img src="/images/primo-piano-cucciolo.avif" alt="A black Staffordshire Bull Terrier puppy" width="639" height="600" loading="lazy" decoding="async"></figure>
   <p>Black is a smooth, glossy, even coat that highlights the Staffy's musculature. It can appear as solid black or <strong>black with white</strong> (markings on the chest, toes, muzzle).</p>
   <p>It is a colour that conforms to the standard. The colours of each of our litters are listed on the <a href="/en/puppies-staffordshire-bull-terrier/">Staffordshire Bull Terrier puppies</a> page.</p>
 
@@ -86,6 +87,7 @@ custom_content: |
 
   <!--BLOCCO:5-->
   <h2>Fawn and red</h2>
+  <figure class="n-foto1"><img src="/images/cucciolo-rosso.webp" alt="A red Staffordshire Bull Terrier puppy" width="247" height="282" loading="lazy" decoding="async"></figure>
   <p><strong>Fawn</strong> covers the shades from cream/honey to golden beige, while <strong>red</strong> ranges from copper to an intense brick tone. Both are allowed with or without white. These dogs often have a darker facial mask.</p>
   <!--/BLOCCO:5-->
 

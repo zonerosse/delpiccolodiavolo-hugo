@@ -55,6 +55,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Queen of California, coccolata a oltranza</h2>
+  <figure class="n-foto1"><img src="/images/queen-of-california.webp" alt="Queen of California, femmina di Staffordshire Bull Terrier allevata da Del Piccolo Diavolo" width="1400" height="932" loading="lazy" decoding="async"></figure>
 
   <p><a href="https://sbtpedigree.com/dog_details?dogs_id=4844766" target="_blank" rel="noopener" aria-label="Pedigree di Queen su SBTPedigree (si apre in una nuova scheda)">Queen</a> è Giovane Campionessa Italiana 2026, e anche qui il titolo è la parte meno interessante. I suoi proprietari sono persone speciali, e la coccolano a oltranza: la portano in piscina, la portano in vacanza con loro.</p>
 

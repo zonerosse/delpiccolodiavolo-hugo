@@ -60,6 +60,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Cosa pu&ograve; avere incontrato prima di partire</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-sul-plaid.webp" alt="Cucciolo di Staffordshire Bull Terrier tranquillo sul plaid di casa" width="324" height="432" loading="lazy" decoding="async"></figure>
 
   <p>Molto meno di quanto faccia pensare la parola &laquo;socializzato&raquo;. E quasi tutto dentro un perimetro piccolo, che si allarga un po' con ogni settimana in pi&ugrave;.</p>
 
@@ -143,6 +144,7 @@ custom_content: |
 
   <!--BLOCCO:9-->
   <h2>Le prime quattro settimane a casa: quelle che decidono</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-sul-divano.webp" alt="Cucciolo di Staffordshire Bull Terrier che riposa sul petto del suo proprietario, sul divano" width="675" height="900" loading="lazy" decoding="async"></figure>
 
   <p>&Egrave; la parte che l'allevatore non controlla, e pesa quanto la sua.</p>
 

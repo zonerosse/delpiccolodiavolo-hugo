@@ -130,6 +130,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>How many meals a day</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-sul-pile.webp" alt="A Staffordshire Bull Terrier puppy resting on a fleece" width="675" height="900" loading="lazy" decoding="async"></figure>
   <p>Up to six months three meals a day, from six months two, and two stay for life. A single large meal a day is not advised in a deep-chested dog, because it raises the risk of stomach dilatation and torsion. The calculator suggests the right number for the age and splits the ration over the meals you choose.</p>
   <!--/BLOCCO:4-->
 
@@ -175,6 +176,7 @@ custom_content: |
 
   <!--BLOCCO:6-->
   <h2>Check the figure on the dog</h2>
+  <figure class="n-foto1"><img src="/images/divine-cucciola-tre-mesi.avif" alt="Divine at three months: a Staffordshire Bull Terrier puppy in good condition" width="800" height="1089" loading="lazy" decoding="async"></figure>
   <p>No formula knows the dog in front of you. The ribs should be felt with a flat hand without pressing, and from above you should see a waist. If the ribs can no longer be felt, cut the ration by 10%; if they show, raise it by 10%. A puppy is weighed once a week, on the same scales.</p>
   <p>Treats are part of the total: they should stay under 10% of the day's calories, and the easiest way is to use part of the ration for training.</p>
 

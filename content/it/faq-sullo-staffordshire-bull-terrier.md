@@ -39,6 +39,7 @@ custom_content: |
   <div class="section-inner">
   <span class="section-label">FAQ</span>
   <h2 class="section-title">Le tue domande, le nostre risposte</h2>
+  <figure class="n-foto1"><img src="/images/foto/staffordshire-bull-terrier-a-casa-con-la-famiglia.webp" alt="Staffordshire Bull Terrier a casa con la sua famiglia" width="675" height="900" loading="lazy" decoding="async"></figure>
 
   <div class="faq-intro">
   <p>Queste sono le domande che ci fanno pi&ugrave; spesso le famiglie, con le risposte dell'<strong><a href="/" title="Allevamento Staffordshire Bull Terrier">allevamento Staffordshire Bull Terrier Del Piccolo Diavolo</a></strong>.</p>
@@ -119,6 +120,7 @@ custom_content: |
   <div class="faq-answer">Un allevamento che fa le cose per bene si riconosce da cosa si pu&ograve; verificare senza doversi fidare. I <strong>referti dei test genetici</strong> valgono solo se riportano il numero di microchip del cane: senza quel numero il documento non &egrave; collegabile a nessun animale. Le <strong>genealogie</strong> si controllano su SBTPedigree, l'archivio internazionale della razza. Il <strong>numero di cucciolate di una femmina</strong> si consulta sul libro genealogico ENCI, sempre partendo dal microchip: serve a capire se una fattrice viene usata con misura. I <strong>titoli in esposizione</strong> risultano dai cataloghi pubblici delle manifestazioni. Un allevamento che riceve su appuntamento e fa vedere la madre e il posto dove i cuccioli crescono &egrave; un altro buon segno, cos&igrave; come il rispetto dei 60 giorni prima dell'affido, che &egrave; un obbligo di legge.</div>
   </div>
 
+  <figure class="n-foto1"><img src="/images/foto/cuccioli-staffordshire-bull-terrier-cucciolata-nell-erba.webp" alt="Cucciolata di Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo nel prato" width="800" height="580" loading="lazy" decoding="async"></figure>
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Che alimentazione serve allo Staffy?</h3>
@@ -191,6 +193,7 @@ custom_content: |
   <div class="faq-answer">S&igrave;, ma va insegnato per gradi e non per periodi lunghi. Lo Staffordshire Bull Terrier &egrave; una razza molto legata alle persone, quindi la solitudine la sopporta peggio di altri cani: quattro o cinque ore sono un limite ragionevole per un adulto abituato, mentre un cucciolo non regge pi&ugrave; di un paio d'ore. L'abitudine si costruisce dal primo giorno con assenze brevissime, allungate un poco per volta, e senza fare scene n&eacute; quando si esce n&eacute; quando si rientra. Il segnale che qualcosa non va non &egrave; il disordine ma il panico: vocalizzi continui, salivazione, tentativi di uscire dalla porta. In quel caso si tratta di ansia da separazione e conviene farsi seguire da un professionista.</div>
   </div>
 
+  <figure class="n-foto1"><img src="/images/femmina-divine.webp" alt="Divine, femmina di Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo" width="272" height="400" loading="lazy" decoding="async"></figure>
   <div class="faq-item active">
   <div class="faq-question">
   <h3 class="faq-q" style="font-size:inherit;font-weight:inherit;margin:0;display:inline">Lo Staffy soffre il caldo o il freddo?</h3>

@@ -130,6 +130,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>Quanti pasti al giorno</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-sul-pile.webp" alt="Cucciolo di Staffordshire Bull Terrier che riposa sul pile" width="675" height="900" loading="lazy" decoding="async"></figure>
   <p>Fino ai sei mesi tre pasti al giorno, dai sei mesi due, e due restano per tutta la vita. Un solo pasto abbondante al giorno è sconsigliato in un cane dal torace profondo, perché aumenta il rischio di dilatazione e torsione dello stomaco. Il calcolatore propone il numero adatto all'età e divide la razione per i pasti scelti.</p>
   <!--/BLOCCO:4-->
 
@@ -175,6 +176,7 @@ custom_content: |
 
   <!--BLOCCO:6-->
   <h2>Il numero si controlla sul cane</h2>
+  <figure class="n-foto1"><img src="/images/divine-cucciola-tre-mesi.avif" alt="Divine a tre mesi: una cucciola di Staffordshire Bull Terrier in buona forma" width="800" height="1089" loading="lazy" decoding="async"></figure>
   <p>Nessuna formula conosce il cane che ha davanti. Le costole si devono sentire con la mano piatta senza premere, e guardando dall'alto si deve vedere la vita. Se le costole non si sentono più, si cala la razione del 10%; se si vedono, la si aumenta del 10%. Il cucciolo si pesa una volta alla settimana, sulla stessa bilancia.</p>
   <p>I premi fanno parte del totale: non dovrebbero superare il 10% delle calorie del giorno, e il modo più semplice è usare una parte della razione per l'addestramento.</p>
 

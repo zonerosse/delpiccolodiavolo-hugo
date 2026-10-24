@@ -61,6 +61,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>English and Irish lines in practice</h2>
+  <figure class="n-foto1"><img src="/images/femmina-croi-olc.webp" alt="Croi Olc, a Staffordshire Bull Terrier female from the Del Piccolo Diavolo kennel" width="300" height="362" loading="lazy" decoding="async"></figure>
   <p>English lines, of which Elitebull is among the most influential in continental Europe, are generally associated with balanced proportion, good head quality without exaggeration and sound movement. Irish lines such as Lackyle are known for compactness, strong bone, notable consistency within litters and an outgoing, robust character.</p>
   <p>They are not two separate worlds: Lackyle came first, and its historic dogs appear in Elitebull pedigrees. Our own programme combines the two deliberately, because they complement each other rather than compete: the English contribution for balance and head, the Irish for substance and consistency. This is not the only valid strategy, and a breeder who works exclusively within one tradition and knows it deeply may well produce better dogs than one who mixes without a plan.</p>
   <p>The question to ask is not which country the dogs come from. It is whether the breeder can explain what each line contributes and why.</p>
@@ -89,6 +90,7 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <h2>What to look for in the puppies themselves</h2>
+  <figure class="n-foto1"><img src="/images/foto/cuccioli-staffordshire-bull-terrier-che-giocano-nel-prato.webp" alt="Two Staffordshire Bull Terrier puppies from the same litter on the grass" width="794" height="600" loading="lazy" decoding="async"></figure>
   <p>At two months you are assessing tendency rather than outcome. Look for puppies that recover quickly from a surprise, that approach a stranger after a moment of hesitation rather than retreating, and that tolerate being held on their back for a few seconds without panic.</p>
   <p>Avoid choosing the boldest puppy in the litter because it comes to you first, which is the commonest mistake. The confident middle of a litter suits the vast majority of homes far better than either extreme, and a good breeder will steer you there; indeed, a good breeder chooses the puppy for you rather than letting you choose it, and that should be reassuring rather than annoying.</p>
   <!--/BLOCCO:8-->
