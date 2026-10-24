@@ -64,7 +64,7 @@ custom_content: |
   <p>It is one of the most family-bonded breeds. It follows you everywhere, loves physical contact, lives to be with you. If you want a "detached and independent" dog, this is not the one: the Staffy wants to <em>be part</em> of home life.</p>
 
   <h3>2. Exceptional with children</h3>
-  <p>It is no coincidence that it is nicknamed the <strong>"nanny dog"</strong>. Patient, tolerant and playful, it is traditionally considered one of the best dogs for <a href="/en/staffordshire-family-life-stories/" title="Staffordshire Bull Terriers in family life: true stories">families with children</a>. For older owners the question is a different one, covered in the guide on <a href="/en/staffy-elderly-owners/" title="Is a Staffordshire Bull Terrier right for older owners?">Staffies and older owners</a>.</p>
+  <p>It is no coincidence that it is nicknamed the <strong>"nanny dog"</strong>. Patient, tolerant and playful, it is traditionally considered one of the best dogs for families with children, as the <a href="/en/staffordshire-family-life-stories/" title="Staffordshire Bull Terriers in family life: true stories">stories of Staffies in family life</a> show. For older owners the question is a different one, covered in the guide on <a href="/en/staffy-elderly-owners/" title="Is a Staffordshire Bull Terrier right for older owners?">Staffies and older owners</a>.</p>
 
   <div style="background:#fff8e1;border-left:5px solid #f4b400;border-radius:8px;padding:1rem 1.3rem;margin:1.5rem 0">
   <p style="margin:0 0 .4rem;font-weight:700;color:#7a5c00;display:flex;align-items:center;gap:.5rem">⚠️ Always supervise</p>
@@ -79,7 +79,7 @@ custom_content: |
   <p>The smooth coat needs very little care: a brush once a week and that's it. It sheds little compared with many breeds and needs no grooming.</p>
 
   <h3>5. Robust health (if well bred)</h3>
-  <p>It is a hardy, long-lived breed (12-14 years), provided it comes from <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA and HC">breeding dogs tested</a> for the main hereditary conditions (L2-HGA and HC). Here the choice of kennel makes all the difference.</p>
+  <p>It is a hardy, long-lived breed (12-14 years), provided it comes from breeding dogs with <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA and HC">genetic tests</a> for the main hereditary conditions (L2-HGA and HC). Here the choice of kennel makes all the difference.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
@@ -102,7 +102,7 @@ custom_content: |
   <p>It is intelligent but has a mind of its own. It responds very well to <em>gentle, consistent</em> training, but harsh methods do not work and shut it down. It takes patience and consistency.</p>
 
   <h3>6. Other people's prejudice</h3>
-  <p>Because of its "bull" appearance, the Staffy is often confused with Pit Bulls or Amstaffs and suffers unfair prejudice. Be ready to explain (often) that it is a family dog. If dealing with people's stares weighs on you, bear it in mind. Read more about the <a href="/en/staffy-pitbull-amstaff-difference/" title="Staffy, Pit Bull and Amstaff: the differences">differences between Staffy, Pitbull and Amstaff</a>; if you are torn between the first two, the <a href="/en/staffy-or-amstaff-which-breed-suits-you/" title="Staffy or Amstaff: the breeder's test">breeder's test</a> asks seven questions about home, children and experience.</p>
+  <p>Because of its "bull" appearance, the Staffy is often confused with Pit Bulls or Amstaffs and suffers unfair prejudice. Be ready to explain (often) that it is a family dog. If dealing with people's stares weighs on you, bear it in mind. Read more about the <a href="/en/staffy-pitbull-amstaff-difference/" title="Staffy, Pit Bull and Amstaff: the differences">differences between Staffy, Pitbull and Amstaff</a>; if you are torn between the first two, the breeder's <a href="/en/staffy-or-amstaff-which-breed-suits-you/" title="Staffy or Amstaff: the breeder's test">"Staffy or Amstaff" test</a> asks seven questions about home, children and experience.</p>
   <!--/BLOCCO:4-->
 
   <!--BLOCCO:5-->
@@ -130,7 +130,7 @@ custom_content: |
 
   <div class="callout">
   <p class="callout-title">Our point of view</p>
-  <p>At <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">our Del Piccolo Diavolo kennel</a> the <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">puppies</a> are born and raised <strong>in the family</strong>, not in kennels: this makes an enormous difference to the balance of the adult dog. A puppy well socialised from its first days (to people, noises, other animals) becomes a calm, manageable Staffy. If you decide it is the right breed for you, the most important next step is to choose <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Choosing a breeder">a kennel that does things properly</a>: that is where the character of your future companion is built (or ruined).</p>
+  <p>At <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">our Del Piccolo Diavolo kennel</a> the <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffy puppies</a> are born and raised <strong>in the family</strong>, not in kennels: this makes an enormous difference to the balance of the adult dog. A puppy well socialised from its first days (to people, noises, other animals) becomes a calm, manageable Staffy. If you decide it is the right breed for you, the most important next step is to <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Choosing a breeder">choose a kennel that does things properly</a>: that is where the character of your future companion is built (or ruined).</p>
   </div>
   <!--/BLOCCO:6-->
 
@@ -186,7 +186,7 @@ custom_content: |
   <ul>
   <li><a href="/en/staffy-pitbull-amstaff-difference/" title="Differences">Staffy vs Pitbull vs Amstaff</a></li>
   <li><a href="/en/staffy-dangerous-breed-law/" title="Staffy and the law">Is the Staffy dangerous? What the law says</a></li>
-  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Choosing a breeder">Advice before taking on a puppy</a></li>
+  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Choosing a breeder">Recognising a good Staffy kennel</a></li>
   <li><a href="/en/staffordshire-bull-terrier-character-family-life/" title="Character and family life">Character and family life of the Staffy</a></li>
   </ul>
   </div>

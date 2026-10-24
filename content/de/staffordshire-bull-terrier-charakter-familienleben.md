@@ -128,7 +128,7 @@ custom_content: |
   <!--BLOCCO:8-->
   <h2>Charakterselektion: warum sie mehr zählt als die Rasse</h2>
 
-  <p>Zwei Staffies mit derselben Ahnentafel können verschiedene Charaktere haben: die Genetik legt die Grundlage, <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor und Frühstimulation: was die Forschung sagt">die ersten Wochen erledigen den Rest</a>, und deshalb wiegt der Züchter so viel wie die Rasse. Wie ein Wesen selektiert wird, worauf wir bei Zuchthunden achten und wie man einen Welpen beurteilt, erklärt die Seite über <a href="/de/staffordshire-bull-terrier-wesen/" title="Das Wesen des Staffy">das Wesen des Staffordshire Bull Terrier</a>.</p>
+  <p>Zwei Staffies mit derselben Ahnentafel können verschiedene Charaktere haben: die Genetik legt die Grundlage, <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor und Frühstimulation: was die Forschung sagt">die Frühstimulation der ersten Wochen</a> erledigt den Rest, und deshalb wiegt der Züchter so viel wie die Rasse. Wie ein Wesen selektiert wird, worauf wir bei Zuchthunden achten und wie man einen Welpen beurteilt, erklärt die Seite über <a href="/de/staffordshire-bull-terrier-wesen/" title="Das Wesen des Staffy">das Wesen des Staffordshire Bull Terrier</a>.</p>
   <!--/BLOCCO:8-->
 
   <!--BLOCCO:9-->

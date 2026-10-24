@@ -228,7 +228,7 @@ custom_content: |
   <div>
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem">
   <h3>ENCI Junior Italian Champion</h3>
-  <p><a href="/en/males-staffordshire-bull-terrier/" title="Our males">Lothar</a> won the Junior Italian Champion title with a series of first places in Junior Class. He then went on in Intermediate Class, in Italy and in Slovenia.</p>
+  <p><a href="/en/males-staffordshire-bull-terrier/" title="Our males">Lothar, one of our males</a>, won the Junior Italian Champion title with a series of first places in Junior Class. He then went on in Intermediate Class, in Italy and in Slovenia.</p>
   <p><strong>January 2026:</strong> Slovenian Champion. At the international shows in Vrtojba, over one weekend, three times Excellent 1st and the title completed.</p>
   </div>
   </div>
@@ -373,7 +373,7 @@ custom_content: |
   <section class="dark-section">
   <h2>Selection you can see</h2>
   <p>We don't buy dogs that already have titles: we breed them, raise them and take them into the ring. Bilquis was also the subject of an article in <a href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" target="_blank" rel="noopener" aria-label="FerraraToday article about Bilquis (opens in a new tab)">FerraraToday</a>, the Ferrara news site, on 6 January 2026.</p>
-  <a href="/en/females-staffordshire-bull-terrier/" class="btn" title="See our females">Discover our dogs</a>
+  <a href="/en/females-staffordshire-bull-terrier/" class="btn" title="Our female Staffordshire Bull Terriers">Our females</a>
   </section>
   <!--/BLOCCO:8-->
 

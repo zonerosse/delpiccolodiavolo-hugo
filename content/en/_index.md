@@ -8,7 +8,7 @@ translationKey: "home"
 description: "Ethical Staffordshire Bull Terrier breeder since 2013. ENCI pedigree, genetic test reports and breeding stock microchips published online and verifiable."
 correlati:
   - url: "/en/puppies-staffordshire-bull-terrier/"
-    titolo: "Puppies"
+    titolo: "Staffy puppies"
     testo: "ENCI pedigree and full genetic testing"
   - url: "/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/"
     titolo: "How much a puppy costs"
@@ -17,7 +17,7 @@ correlati:
     titolo: "Is it the right dog for you?"
     testo: "Strengths and drawbacks, unfiltered"
   - url: "/en/contact/"
-    titolo: "Visit the kennel"
+    titolo: "Contact and kennel visits"
     testo: "Ostellato (Ferrara), Italy, by appointment"
 slug: ""
 custom_content: |
@@ -84,8 +84,8 @@ custom_content: |
   <p>They leave with an <strong>ENCI pedigree</strong>, microchip and vaccinations.</p></figcaption></figure>
   </div>
   <div class="n-schede">
-  <div class="n-scheda"><span class="n-quando">The puppies</span><h3>Staffordshire Bull Terrier puppies</h3><p>The litters, the parents and how they grow, from birth to 60 days.</p><a class="btn" href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Go to the puppies</a></div>
-  <div class="n-scheda"><span class="n-quando">Early stimulation</span><h3>Bio Sensor: what the research actually says</h3><p>What the Bio Sensor method promises for puppies and how much the studies prove.</p><a class="btn" href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor: what the research actually says">Read about Bio Sensor</a></div>
+  <div class="n-scheda"><span class="n-quando">The puppies</span><h3>Staffordshire Bull Terrier puppies</h3><p>The litters, the parents and how they grow, from birth to 60 days.</p><a class="btn" href="/en/puppies-staffordshire-bull-terrier/" title="Our Staffy puppies">Our Staffy puppies</a></div>
+  <div class="n-scheda"><span class="n-quando">Early stimulation</span><h3>Bio Sensor: what the research actually says</h3><p>What the Bio Sensor method promises for puppies and how much the studies prove.</p><a class="btn" href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor and early stimulation">Bio Sensor and early stimulation</a></div>
   </div>
   </div>
   </section>
@@ -96,10 +96,10 @@ custom_content: |
   <span class="section-label">In plain terms</span>
   <h2 class="section-title">What we do not do</h2>
   <p>Sometimes a kennel is easier to understand from what it does not do.</p>
-  <p>The Del Piccolo Diavolo kennel is in Ostellato, in the province of Ferrara, Italy. Here <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies</a> are born only a few times, leave with the ENCI pedigree after the 60 days required by law, and are collected only from here, where you <a href="/en/parents-on-site-what-it-means/" title='"Parents on site": what it really means'>see the mother</a>. These are the four things we do not do.</p>
+  <p>The Del Piccolo Diavolo kennel is in Ostellato, in the province of Ferrara, Italy. Here <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies</a> are born only a few times, leave with the ENCI pedigree after the 60 days required by law, and are collected only from here, where you <a href="/en/parents-on-site-what-it-means/" title='"Parents on site": what it really means'>see the mother on site</a>. These are the four things we do not do.</p>
 
   <div class="n-percorso"><div class="n-passo"><h3>We do not have puppies all year round.</h3><div><p>One litter, occasionally two, sometimes none. If you write to us at a time when there are none, the answer is that there are none: we do not offer you an acquaintance's puppy and we do not rush you towards a future litter.</p></div></div><div class="n-passo"><h3>We do not ship dogs.</h3><div><p>None of our puppies travels by courier: no aircraft holds, no handovers halfway in a car park. Whoever takes a puppy comes to Ostellato. That way they see the mother, the house and the place where it grew up.</p></div></div><div class="n-passo"><h3>We do not treat the pedigree as an accessory.</h3><div><p>There is no such thing as a puppy “with” or “without”: the ENCI certificate goes with every dog and is not charged separately.</p></div></div><div class="n-passo"><h3>We do not take offence at questions about the kennel.</h3><div><p>On the contrary, they are what tell us who we are dealing with. Whoever asks about the tests, the parents, or what happens if in two years' time they can no longer keep the dog, is the person we would gladly entrust a puppy to.</p></div></div></div>
-  <div class="n-schede"><div class="n-scheda"><span class="n-quando">About us</span><h3>Who is behind all this</h3><p>And how one gets from Rottweilers to Staffies.</p><a class="btn" href="/en/about-us/" title="Who is behind all this">Read about us</a></div><div class="n-scheda"><span class="n-quando">Choosing a breeder</span><h3>How to recognise a breeder who does things properly</h3><p>Eight criteria and how to check each one, on us as much as on anyone else.</p><a class="btn" href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a breeder who does things properly">Read the eight criteria</a></div></div>
+  <div class="n-schede"><div class="n-scheda"><span class="n-quando">About us</span><h3>Who is behind all this</h3><p>And how one gets from Rottweilers to Staffies.</p><a class="btn" href="/en/about-us/" title="About us and our story">About us and our story</a></div><div class="n-scheda"><span class="n-quando">Choosing a breeder</span><h3>How to recognise a breeder who does things properly</h3><p>Eight criteria and how to check each one, on us as much as on anyone else.</p><a class="btn" href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a good breeder">How to recognise a good breeder</a></div></div>
   </div>
   </section>
   <!--/BLOCCO:4-->
@@ -111,9 +111,9 @@ custom_content: |
   <p>Del Piccolo Diavolo is a Staffordshire Bull Terrier kennel, the Staffy to its enthusiasts, in <strong>Ostellato, in the province of Ferrara, Italy</strong>, active since <strong>2013</strong>. Paolo Boldrini has followed the breed since 2005. He spent eight years studying it before breeding a litter.</p>
   <div class="n-percorso">
   <div class="n-passo"><h3>How many litters, which tests</h3><div><p>We have <strong>one litter a year, occasionally two, sometimes none</strong>, never on request. All breeding dogs are tested for <strong>L2-HGA and HC (HSF4 gene)</strong>, or clear by parentage with their parents' reports. Our dogs are also clear of <strong>degenerative myelopathy (SOD1 gene)</strong>. The reports are published on the site, with the dog's name and microchip number.</p></div></div>
-  <div class="n-passo"><h3>How we choose breeding dogs</h3><div><p>We choose breeding dogs on three criteria, in this order: <strong>a steady <a href="/en/staffordshire-bull-terrier-temperament/" title="Staffy temperament: how it was selected">temperament</a></strong>, <strong>no hereditary disease</strong> and <strong><a href="/en/staffy-breed-standard/" title="The Staffordshire Bull Terrier breed standard">fitting the standard</a></strong>. Temperament comes first because a family takes it home for twelve years. It is also the hardest thing to correct: conformation can be fixed in two or three generations, a fault of character cannot.</p></div></div>
+  <div class="n-passo"><h3>How we choose breeding dogs</h3><div><p>We choose breeding dogs on three criteria, in this order: <strong>a steady <a href="/en/staffordshire-bull-terrier-temperament/" title="Staffy temperament: how it was selected">temperament</a></strong>, <strong>no hereditary disease</strong> and <strong><a href="/en/staffy-breed-standard/" title="The Staffordshire Bull Terrier breed standard">conformation true to the breed standard</a></strong>. Temperament comes first because a family takes it home for twelve years. It is also the hardest thing to correct: conformation can be fixed in two or three generations, a fault of character cannot.</p></div></div>
   <div class="n-passo"><h3>At shows</h3><div><p>At shows, the dogs bred here have won <strong>1 Italian Champion title</strong> and <strong>3 Italian Junior Champion titles</strong>, one of them also Slovenian Champion. Then a Junior Champion and Champion of San Marino, and a <strong>4th place at the World Dog Show</strong> with Bilquis Goddess Diabhal. In May 2026 Queen of California became <strong>Italian Junior Champion</strong>. We work with English and Irish bloodlines, mainly Elitebull and Lackyle.</p></div></div>
-  <div class="n-passo"><h3>After the placement</h3><div><p>Before placing a puppy we want to know the family: a phone call, a few questions, often a visit. And the relationship does not end there. We are available for advice and news <a href="/en/staffordshire-family-life-stories/" title="Staffordshire Bull Terriers in family life: true stories">even years later</a>. And every dog born here comes back to us, if one day it could no longer stay where it is.</p></div></div>
+  <div class="n-passo"><h3>After the placement</h3><div><p>Before placing a puppy we want to know the family: a phone call, a few questions, often a visit. And the relationship does not end there. We are available for advice and news even years later, as the <a href="/en/staffordshire-family-life-stories/" title="Staffordshire Bull Terriers in family life: true stories">stories of our Staffies in family life</a> show. And every dog born here comes back to us, if one day it could no longer stay where it is.</p></div></div>
   </div>
 
   </div>
@@ -149,14 +149,14 @@ custom_content: |
   <p><strong>The pedigrees.</strong> The Del Piccolo Diavolo dogs are registered on <a aria-label="Del Piccolo Diavolo on SBTPedigree (opens in a new tab)" href="https://sbtpedigree.com/details?id=35858" rel="noopener" target="_blank" title="SBTPedigree">SBTPedigree</a>, the breed's international database, with all the dogs and the litters. From there you trace the grandparents, the great-grandparents and the littermates. You see who the dogs behind a name are, and also what is missing.</p>
   <p><strong>The pedigree certificates.</strong> Every puppy leaves with the ENCI pedigree certificate, which is checked by its studbook number.</p>
   <p><strong>The show results.</strong> The titles are not self-certified: the show catalogues are public, and the judges who assessed our dogs have a first name and a surname. They are collected in the <a href="/en/palmares/" title="Palmares">palmarès</a>.</p>
-  <p><strong>The dates.</strong> Every litter has its date of birth: the most recent in the <a href="/en/diario-allevamento/" title="Breeding diary">diary</a>, those of earlier years in the <a href="/en/litters-staffordshire-bull-terrier/" title="Breeding programme">breeding programme</a>. None disappears once the puppies are in their new homes, and that is deliberate: this way anyone can count how many litters we have in a year.</p>
+  <p><strong>The dates.</strong> Every litter has its date of birth: the most recent in the <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a>, those of earlier years in the <a href="/en/litters-staffordshire-bull-terrier/" title="Breeding programme">breeding programme</a>. None disappears once the puppies are in their new homes, and that is deliberate: this way anyone can count how many litters we have in a year.</p>
   </div>
   </div>
   <div class="n-passo">
   <h3>Two rules without exceptions</h3>
   <div>
   <p><strong>We do not mate two Staffordshire Bull Terriers because they are beautiful.</strong> Every mating comes from a reason we can explain: what we are trying to fix and what we are trying to correct. If the answer were "they are two nice dogs", there would be no programme behind it.</p>
-  <p><strong>We do not place puppies before 60 days</strong>, which is a legal requirement and not a choice of ours. For families abroad the timing is longer still, because the rabies vaccination and the <a href="/en/staffordshire-bull-terrier-puppy-abroad/" title="A puppy going abroad">official health certificate</a> are needed.</p>
+  <p><strong>We do not place puppies before 60 days</strong>, which is a legal requirement and not a choice of ours. <a href="/en/staffordshire-bull-terrier-puppy-abroad/" title="A puppy going abroad">For a puppy going abroad</a> the timing is longer still, because the rabies vaccination and the official health certificate are needed.</p>
   </div>
   </div>
   <div class="n-passo">
@@ -169,7 +169,7 @@ custom_content: |
   </div>
   </div>
   </div>
-  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">The females</span><h3>Our females, one by one</h3><p>Microchip, genetic tests and pedigree: from there you verify ancestry and litters.</p><a class="btn" href="/en/females-staffordshire-bull-terrier/" title="Our females, one by one">Go to the females</a></div></div>
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">The females</span><h3>Our females, one by one</h3><p>Microchip, genetic tests and pedigree: from there you verify ancestry and litters.</p><a class="btn" href="/en/females-staffordshire-bull-terrier/" title="Our Staffy females">Our Staffy females</a></div></div>
   </div>
   </section>
   <!--/BLOCCO:6-->
@@ -200,7 +200,7 @@ custom_content: |
   <div class="n-tot">
   <p><strong>1 Italian Champion - 3 Italian Junior Champions - 1 San Marino Champion - 4th at the World Dog Show</strong></p>
   <p>Results achieved with dogs bred and raised by us, not bought already titled.</p>
-  <a class="btn btn-primary" href="/en/palmares/" title="See all results">See all results</a>
+  <a class="btn btn-primary" href="/en/palmares/" title="The full palmarès">The full palmarès</a>
   </div>
   </div>
   </section>
@@ -244,7 +244,7 @@ custom_content: |
   <div class="faq-answer">One a year, occasionally two, and in some years none: the Del Piccolo Diavolo kennel does not breed litters to order and does not keep a bitch in continuous production. Every mating is planned months ahead, starting from the genetic tests of both parents and the theoretical inbreeding coefficient of the puppies. The pace can be checked without asking us anything: every litter stays published in the <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a> with its date of birth, and the number of litters each bitch has had can be checked in the ENCI stud book starting from her microchip.</div>
   </div>
   </div>
-  <p style="margin-top:2.4rem"><a class="n-vai" href="/en/faq-staffordshire-bull-terrier/" title="See all FAQ">See all frequently asked questions <span aria-hidden="true">→</span></a></p>
+  <p style="margin-top:2.4rem"><a class="n-vai" href="/en/faq-staffordshire-bull-terrier/" title="All frequently asked questions about Staffies">All frequently asked questions about Staffies <span aria-hidden="true">→</span></a></p>
   </div>
   </section>
   <!--/BLOCCO:10-->

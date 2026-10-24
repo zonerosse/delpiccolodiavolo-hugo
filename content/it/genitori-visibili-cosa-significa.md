@@ -49,7 +49,7 @@ custom_content: |
 
   <p>Quando si pianifica un accoppiamento non si sceglie il cane pi&ugrave; comodo: si cerca il soggetto che corregge quello che manca alla femmina. Si guardano i test genetici, il coefficiente di consanguineit&agrave; teorico della cucciolata, la compatibilit&agrave; fenotipica: struttura, testa, movimento. E i soggetti che rispondono a quei requisiti, nel panorama internazionale della razza, <strong>si contano</strong>. Sono pochi, e stanno a chilometri di distanza.</p>
 
-  <p>La verit&agrave; che nessun annuncio scrive &egrave; questa: per costruire qualcosa negli anni, il pi&ugrave; delle volte devi andare fuori. E andare fuori ha un prezzo preciso, fra diritti di monta, viaggio e albergo: lo trovi <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/#costi-cucciolata" title="Quanto costa una cucciolata, voce per voce">nei costi di una cucciolata, voce per voce</a>.</p>
+  <p>La verit&agrave; che nessun annuncio scrive &egrave; questa: per costruire qualcosa negli anni, il pi&ugrave; delle volte devi andare fuori. E andare fuori ha un prezzo preciso, fra diritti di monta, viaggio e albergo: lo trovi <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/#costi-cucciolata" title="Prezzo di un cucciolo di Staffordshire Bull Terrier, voce per voce">nel prezzo di un cucciolo di Staffordshire Bull Terrier, voce per voce</a>.</p>
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->

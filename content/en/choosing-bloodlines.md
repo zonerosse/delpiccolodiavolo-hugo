@@ -56,7 +56,7 @@ custom_content: |
   <!--BLOCCO:3-->
   <h2>What differs between lines, and what does not</h2>
   <p>All Staffordshire Bull Terriers must meet the same <a href="https://www.fci.be/Nomenclature/Standards/076g03-en.pdf" target="_blank" rel="noopener" aria-label="FCI breed standard no. 76, PDF (opens in a new tab)">standard</a>, and the differences between good lines are matters of emphasis rather than kind. What genuinely varies is bone and substance, head proportion, the level of drive and reactivity, tolerance of other dogs, and how consistently a line reproduces its own type across a whole litter.</p>
-  <p>What should not vary, in any line worth considering, is temperament towards people and the <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA and HC">health testing</a> behind the mating. A breeder who describes a line as sharp, or explains away a dog that is difficult with visitors, is describing a fault rather than a characteristic.</p>
+  <p>What should not vary, in any line worth considering, is temperament towards people and the <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA and HC">genetic and health testing</a> behind the mating. A breeder who describes a line as sharp, or explains away a dog that is difficult with visitors, is describing a fault rather than a characteristic.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
@@ -144,7 +144,7 @@ custom_content: |
   <h3>More on this topic</h3>
   <ul>
   <li><a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)">Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)</a></li>
-  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a Staffy breeder who does things properly">How to recognise a Staffy breeder who does things properly</a></li>
+  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a Staffy kennel that does things properly">How to recognise a Staffy kennel that does things properly</a></li>
   <li><a href="/en/staffy-breed-standard/" title="Staffordshire Bull Terrier breed standard explained">Staffordshire Bull Terrier breed standard explained</a></li>
   <li><a href="/en/staffy-pitbull-amstaff-difference/" title="Staffordshire Bull Terrier, Pitbull and Amstaff compared">Staffordshire Bull Terrier, Pitbull and Amstaff compared</a></li>
   </ul>

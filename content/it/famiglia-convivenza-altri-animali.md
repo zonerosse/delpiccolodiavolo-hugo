@@ -529,7 +529,7 @@ custom_content: |
   <li><a href="/staffordshire-bull-terrier-carattere-vita-famiglia/" title="Staffordshire Bull Terrier: carattere e vita in famiglia">Staffordshire Bull Terrier: carattere e vita in famiglia</a></li>
   <li><a href="/famiglia-anziani-rispetto-ritmi/" title="Staffy e anziani">Staffy e anziani</a></li>
   <li><a href="/cuccioli-socializzazione-in-casa/" title="Socializzare il cucciolo in casa: la lista per la famiglia">Socializzare il cucciolo in casa: la lista per la famiglia</a></li>
-  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Consigli prima di prendere un cucciolo">Consigli prima di prendere un cucciolo</a></li>
+  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento serio">Come riconoscere un allevamento serio</a></li>
   </ul>
   </div>
 

@@ -548,7 +548,7 @@ custom_content: |
   <li><a href="/en/staffordshire-bull-terrier-character-family-life/" title="Staffordshire Bull Terrier: character and family life">Staffordshire Bull Terrier: character and family life</a></li>
   <li><a href="/en/staffy-elderly-owners/" title="Staffies for elderly owners: respecting the rhythms">Staffies for elderly owners: respecting the rhythms</a></li>
   <li><a href="/en/puppy-home-socialization/" title="Socialising the puppy at home: the family checklist">Socialising the puppy at home: the family checklist</a></li>
-  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="Advice before taking on a puppy">Advice before taking on a puppy</a></li>
+  <li><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a good breeder">How to recognise a good breeder</a></li>
   </ul>
   </div>
 

@@ -102,9 +102,9 @@ custom_content: |
   </div>
 
   <div style="text-align:center;margin-top:1rem">
-  <a href="/recensioni/" title="Leggi tutte le recensioni" class="btn btn-ghost">Leggi tutte le <!--REC-TOTALE--> recensioni →</a>
+  <a href="/recensioni/" title="Le recensioni delle famiglie" class="btn btn-ghost">Le <!--REC-TOTALE--> recensioni delle famiglie →</a>
   &nbsp;
-  <a href="/palmares-del-piccolo-diavolo/" title="Risultati in esposizione" class="btn btn-ghost">Vedi i risultati in esposizione →</a>
+  <a href="/palmares-del-piccolo-diavolo/" title="Palmares e risultati in esposizione" class="btn btn-ghost">Palmares e risultati in esposizione →</a>
   </div>
   </div>
   </section>
@@ -123,7 +123,7 @@ custom_content: |
   <p>Questa esposizione graduale e controllata cade nel periodo in cui un cucciolo costruisce la categoria &laquo;normale&raquo;: quello che incontra adesso non dovr&agrave; elaborarlo da adulto.</p>
   <p>Vuol dire essere presi in mano tutti i giorni, sentire i rumori di casa, vedere persone di ogni et&agrave; che entrano ed escono, incontrare i cani adulti sotto controllo, stare nel cortile con erba e terra e sentire la strada che passa. Non seguiamo un protocollo: &egrave; il modo in cui vivono qui. E non basta, perch&eacute; quando un cucciolo parte met&agrave; della finestra sensibile &egrave; ancora davanti a lui, e la passer&agrave; con la sua famiglia. Cosa si pu&ograve; fare in allevamento e cosa no, lo spieghiamo nella guida su <a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Cuccioli socializzati: cosa vuol dire">cosa vuol dire &laquo;cuccioli socializzati&raquo;</a>.</p>
   <p>Altre guide pratiche su socializzazione, alimentazione e salute sono nel nostro <a href="/blog/" title="Blog Staffordshire Bull Terrier">blog sullo Staffordshire Bull Terrier</a>.</p>
-  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Stimolazione precoce</span><h3>Bio Sensor: cosa dice davvero la ricerca</h3><p>Cosa promette il metodo Bio Sensor sui cuccioli e quanto è dimostrato dagli studi.</p><a class="btn" href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor: cosa dice davvero la ricerca">Leggi sul Bio Sensor</a></div></div>
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Stimolazione precoce</span><h3>Bio Sensor: cosa dice davvero la ricerca</h3><p>Cosa promette il metodo Bio Sensor sui cuccioli e quanto è dimostrato dagli studi.</p><a class="btn" href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor e stimolazione precoce: cosa dice davvero la ricerca">Bio Sensor e stimolazione precoce</a></div></div>
   </div>
   </div>
   </section>
@@ -147,15 +147,15 @@ custom_content: |
 
   <p>In quella visita si fa il <strong>tampone vaginale con esame colturale</strong>, per escludere batteri che comprometterebbero la gravidanza, e se serve una sverminazione.</p>
 
-  <p>Individuato il calore, cominciano i <strong>dosaggi del progesterone</strong>. Il momento fertile non si indovina dal giorno del calore, e sbagliarlo di 48 ore significa non avere cuccioli. Si preleva a intervalli finch&eacute; il valore raggiunge il picco, e quello &egrave; il giorno. Ogni dosaggio costa 40 euro e ne servono almeno quattro: questa e le altre spese sono <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/#costi-cucciolata" title="Quanto costa una cucciolata, voce per voce">nei costi di una cucciolata, voce per voce</a>.</p>
+  <p>Individuato il calore, cominciano i <strong>dosaggi del progesterone</strong>. Il momento fertile non si indovina dal giorno del calore, e sbagliarlo di 48 ore significa non avere cuccioli. Si preleva a intervalli finch&eacute; il valore raggiunge il picco, e quello &egrave; il giorno. Ogni dosaggio costa 40 euro e ne servono almeno quattro: questa e le altre spese sono <a href="/quanto-costa-cucciolo-staffordshire-bull-terrier/#costi-cucciolata" title="Prezzo di un cucciolo di Staffordshire Bull Terrier: le spese di una cucciolata">nel prezzo di un cucciolo di Staffordshire Bull Terrier, voce per voce</a>.</p>
   </div>
   </div>
   <div class="n-passo">
   <h3>L'accoppiamento</h3>
   <div>
-  <p><strong>Sono sempre io che vado dal maschio</strong>, mai il contrario: il maschio resta a casa sua, si sposta la femmina.</p>
+  <p><strong>Sono sempre io che vado dal maschio</strong>, mai il contrario: il maschio resta a casa sua, si sposta la femmina. Per questo il padre spesso non è fra i <a href="/genitori-visibili-cosa-significa/" title="Genitori visibili: cosa significa">genitori visibili</a> in allevamento.</p>
 
-  <p>Quando <a href="/genitori-visibili-cosa-significa/" title="Genitori visibili: cosa significa">lo stallone scelto</a> &egrave; un maschio di livello, capita spesso che il proprietario si appoggi a un veterinario per l'<strong>inseminazione strumentale</strong>, con deposizione intracervicale. Le ragioni sono tre: evitare il rischio di malattie trasmissibili, non sottoporre il soggetto a sforzi eccessivi, e avere la certezza che l'accoppiamento avvenga. Perch&eacute; <strong>non per tutti i maschi accoppiarsi &egrave; facile</strong>, ed &egrave; una cosa che chi non alleva non immagina. Molto dipende dalla femmina: ce n'&egrave; pi&ugrave; d'una che non gliela rende semplice per niente.</p>
+  <p>Quando lo stallone scelto &egrave; un maschio di livello, capita spesso che il proprietario si appoggi a un veterinario per l'<strong>inseminazione strumentale</strong>, con deposizione intracervicale. Le ragioni sono tre: evitare il rischio di malattie trasmissibili, non sottoporre il soggetto a sforzi eccessivi, e avere la certezza che l'accoppiamento avvenga. Perch&eacute; <strong>non per tutti i maschi accoppiarsi &egrave; facile</strong>, ed &egrave; una cosa che chi non alleva non immagina. Molto dipende dalla femmina: ce n'&egrave; pi&ugrave; d'una che non gliela rende semplice per niente.</p>
   </div>
   </div>
   <div class="n-passo">
@@ -190,7 +190,7 @@ custom_content: |
   <h3>Il giorno in cui possono partire</h3>
   <div>
   <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-due-mesi-in-braccio.webp" alt="Cucciolo di Staffordshire Bull Terrier di due mesi tenuto in braccio" width="899" height="817" loading="lazy" decoding="async"></figure>
-  <p>Vaccinazione e microchip li fa il veterinario, ed &egrave; quello che rende un cucciolo idoneo a lasciare l'allevamento. La legge italiana fissa il minimo a <strong>60 giorni</strong>; da me partono intorno ai <strong>70</strong>, perch&eacute; quella decina di giorni in pi&ugrave; serve a loro. Per l'estero i tempi si allungano ancora: ne parliamo nella <a href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Cucciolo all'estero">pagina dedicata</a>.</p>
+  <p>Vaccinazione e microchip li fa il veterinario, ed &egrave; quello che rende un cucciolo idoneo a lasciare l'allevamento. La legge italiana fissa il minimo a <strong>60 giorni</strong>; da me partono intorno ai <strong>70</strong>, perch&eacute; quella decina di giorni in pi&ugrave; serve a loro. Per l'estero i tempi si allungano ancora: ne parliamo nella guida sul <a href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Cucciolo all'estero: tempi e documenti">cucciolo che va all'estero</a>.</p>
   </div>
   </div>
   <div class="n-passo">
@@ -234,7 +234,7 @@ custom_content: |
 
   <p>Lavoriamo su linee inglesi <strong>Elitebull</strong> e irlandesi <strong>Lackyle</strong>: le prime portano sostanza e testa, le seconde movimento e carattere. Ogni accoppiamento nasce dall'incrocio fra quello che una femmina d&agrave; e quello che le manca.</p>
 
-  <p>Che cosa significa in pratica, e come si legge una linea in un pedigree: nella pagina sulle <a href="/linee-sangue-staffordshire-bull-terrier/" title="Linee di sangue dello Staffordshire Bull Terrier">linee di sangue</a>; quale linea sia adatta alla propria casa &egrave; un'altra domanda, e ha una <a href="/standard-linee-di-sangue-orientarsi/" title="Come scegliere la linea di sangue di un cucciolo">guida a parte</a>.</p>
+  <p>Che cosa significa in pratica, e come si legge una linea in un pedigree: nella pagina sulle <a href="/linee-sangue-staffordshire-bull-terrier/" title="Linee di sangue dello Staffordshire Bull Terrier">linee di sangue</a>; quale linea sia adatta alla propria casa &egrave; un'altra domanda, e ha una guida a parte su <a href="/standard-linee-di-sangue-orientarsi/" title="Come scegliere la linea di sangue di un cucciolo">come scegliere la linea di sangue</a>.</p>
 
   </div>
   </section>
@@ -299,7 +299,7 @@ custom_content: |
   </div>
 
   <div style="text-align:center;margin-top:1.5rem">
-  <a href="/faq-sullo-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="Vedi tutte le FAQ">Vedi tutte le domande frequenti</a>
+  <a href="/faq-sullo-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="Domande frequenti sullo Staffordshire Bull Terrier">Tutte le domande frequenti sullo Staffy</a>
   </div>
   </div>
   </section>
@@ -312,7 +312,7 @@ custom_content: |
   <h2 class="section-title">Un cucciolo che va all'estero</h2>
   <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-quattro-mesi.webp" alt="Cucciolo di Staffordshire Bull Terrier di quattro mesi, età in cui può partire per l'estero" width="605" height="900" loading="lazy" decoding="async"></figure>
   <p>Un cucciolo destinato a una famiglia di un altro paese europeo parte intorno ai <strong>quattro mesi</strong>, non a due: la vaccinazione antirabbica non si pu&ograve; fare prima delle 12 settimane e ha bisogno di tempo per diventare valida. A questa si aggiungono passaporto europeo, certificato sanitario TRACES ed export pedigree ENCI.</p>
-  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Affidi all'estero</span><h3>Come funziona un affido all'estero</h3><p>Tempi, documenti ed export pedigree.</p><a class="btn" href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Come funziona un affido all'estero">Leggi la guida</a></div></div>
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Affidi all'estero</span><h3>Come funziona un affido all'estero</h3><p>Tempi, documenti ed export pedigree.</p><a class="btn" href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Cucciolo all'estero: tempi e documenti">Cucciolo all'estero: tempi e documenti</a></div></div>
   </div>
   </section>
   <!--/BLOCCO:10-->

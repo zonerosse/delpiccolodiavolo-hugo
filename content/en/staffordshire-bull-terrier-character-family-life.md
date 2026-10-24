@@ -128,7 +128,7 @@ custom_content: |
   <!--BLOCCO:8-->
   <h2>Character selection: why it matters more than the breed</h2>
 
-  <p>Two Staffies with the same pedigree can have different characters: genetics lays the foundation, <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor and early stimulation">the first weeks do the rest</a>, and that is why the breeder weighs as much as the breed. How a temperament is selected, what we look for in breeding dogs and how to assess a puppy is explained on the page about <a href="/en/staffordshire-bull-terrier-temperament/" title="Staffy temperament">the Staffordshire Bull Terrier temperament</a>.</p>
+  <p>Two Staffies with the same pedigree can have different characters: genetics lays the foundation, <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor and early stimulation">early stimulation in the first weeks</a> does the rest, and that is why the breeder weighs as much as the breed. How a temperament is selected, what we look for in breeding dogs and how to assess a puppy is explained on the page about <a href="/en/staffordshire-bull-terrier-temperament/" title="Staffy temperament">the Staffordshire Bull Terrier temperament</a>.</p>
   <!--/BLOCCO:8-->
 
   <!--BLOCCO:9-->

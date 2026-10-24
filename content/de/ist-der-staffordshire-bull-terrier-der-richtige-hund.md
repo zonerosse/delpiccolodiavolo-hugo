@@ -64,7 +64,7 @@ custom_content: |
   <p>Er ist vielleicht die am stärksten familiengebundene Rasse überhaupt. Er folgt Ihnen überallhin, liebt Körperkontakt, lebt dafür, bei Ihnen zu sein. Wenn Sie einen "distanzierten und unabhängigen" Hund suchen, ist er es nicht: Der Staffy will <em>Teil</em> des häuslichen Lebens sein.</p>
 
   <h3>2. Außergewöhnlich mit Kindern</h3>
-  <p>Nicht umsonst wird er <strong>"Nanny Dog"</strong> (Kindermädchen-Hund) genannt. Geduldig, tolerant und verspielt, gilt er traditionell als einer der besten Hunde für <a href="/de/staffordshire-in-der-familie-geschichten/" title="Staffordshire Bull Terrier in der Familie: wahre Geschichten">Familien mit Kindern</a>. Für ältere Halter stellt sich die Frage anders, und darum geht es im Ratgeber <a href="/de/staffy-aeltere-besitzer/" title="Staffordshire Bull Terrier für ältere Besitzer">Staffy und ältere Besitzer</a>.</p>
+  <p>Nicht umsonst wird er <strong>"Nanny Dog"</strong> (Kindermädchen-Hund) genannt. Geduldig, tolerant und verspielt, gilt er traditionell als einer der besten Hunde für Familien mit Kindern, wie die <a href="/de/staffordshire-in-der-familie-geschichten/" title="Staffordshire Bull Terrier in der Familie: wahre Geschichten">Geschichten von Staffys in der Familie</a> zeigen. Für ältere Halter stellt sich die Frage anders, und darum geht es im Ratgeber <a href="/de/staffy-aeltere-besitzer/" title="Staffordshire Bull Terrier für ältere Besitzer">Staffy und ältere Besitzer</a>.</p>
 
   <div style="background:#fff8e1;border-left:5px solid #f4b400;border-radius:8px;padding:1rem 1.3rem;margin:1.5rem 0">
   <p style="margin:0 0 .4rem;font-weight:700;color:#7a5c00;display:flex;align-items:center;gap:.5rem">⚠️ Immer beaufsichtigen</p>
@@ -79,7 +79,7 @@ custom_content: |
   <p>Das glatte Fell braucht sehr wenig Pflege: einmal pro Woche bürsten und fertig. Es haart wenig im Vergleich zu vielen Rassen und braucht kein Trimmen.</p>
 
   <h3>5. Robuste Gesundheit (bei guter Zucht)</h3>
-  <p>Es ist eine urwüchsige, langlebige Rasse (12-14 Jahre), sofern sie von <a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA und HC">getesteten Zuchthunden</a> auf die wichtigsten Erbkrankheiten (L2-HGA und HC) stammt. Hier macht die Wahl der Zucht den ganzen Unterschied.</p>
+  <p>Es ist eine urwüchsige, langlebige Rasse (12-14 Jahre), sofern sie von Zuchthunden stammt, die mit <a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA und HC">Gentests</a> auf die wichtigsten Erbkrankheiten (L2-HGA und HC) untersucht wurden. Hier macht die Wahl der Zucht den ganzen Unterschied.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
@@ -102,7 +102,7 @@ custom_content: |
   <p>Er ist intelligent, hat aber seinen eigenen Kopf. Er reagiert sehr gut auf <em>sanfte, konsequente</em> Erziehung, aber harte Methoden funktionieren nicht und verschließen ihn. Es braucht Geduld und Beständigkeit.</p>
 
   <h3>6. Das Vorurteil der anderen</h3>
-  <p>Wegen seines "Bull"-Aussehens wird der Staffy oft mit Pit Bulls oder Amstaffs verwechselt und erleidet ungerechte Vorurteile. Seien Sie bereit, (oft) zu erklären, dass er ein Familienhund ist. Wenn es Sie belastet, mit den Blicken der Leute umzugehen, behalten Sie das im Hinterkopf. Vertiefen Sie die <a href="/de/staffy-pitbull-amstaff-unterschied/" title="Staffy, Pitbull und Amstaff: die Unterschiede">Unterschiede zwischen Staffy, Pitbull und Amstaff</a>; wer zwischen den ersten beiden schwankt, bekommt im <a href="/de/staffy-oder-amstaff-welche-rasse-passt-zu-ihnen/" title="Staffy oder Amstaff: der Test des Züchters">Test des Züchters</a> sieben Fragen zu Wohnung, Kindern und Erfahrung.</p>
+  <p>Wegen seines "Bull"-Aussehens wird der Staffy oft mit Pit Bulls oder Amstaffs verwechselt und erleidet ungerechte Vorurteile. Seien Sie bereit, (oft) zu erklären, dass er ein Familienhund ist. Wenn es Sie belastet, mit den Blicken der Leute umzugehen, behalten Sie das im Hinterkopf. Vertiefen Sie die <a href="/de/staffy-pitbull-amstaff-unterschied/" title="Staffy, Pitbull und Amstaff: die Unterschiede">Unterschiede zwischen Staffy, Pitbull und Amstaff</a>; wer zwischen den ersten beiden schwankt, bekommt im <a href="/de/staffy-oder-amstaff-welche-rasse-passt-zu-ihnen/" title="Staffy oder Amstaff: der Test des Züchters">Test „Staffy oder Amstaff“</a> des Züchters sieben Fragen zu Wohnung, Kindern und Erfahrung.</p>
   <!--/BLOCCO:4-->
 
   <!--BLOCCO:5-->
@@ -130,7 +130,7 @@ custom_content: |
 
   <div class="callout">
   <p class="callout-title">Unsere Sichtweise</p>
-  <p>In <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">unserer Zucht Del Piccolo Diavolo</a> werden die <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Welpen</a> <strong>in der Familie</strong> geboren und aufgezogen, nicht im Zwinger: Das macht einen enormen Unterschied für die Ausgeglichenheit des erwachsenen Hundes. Ein Welpe, der von seinen ersten Tagen an gut sozialisiert wird (an Menschen, Geräusche, andere Tiere), wird zu einem ruhigen, gut führbaren Staffy. Wenn Sie entscheiden, dass es die richtige Rasse für Sie ist, ist der wichtigste nächste Schritt die Wahl <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Zucht wählen">einer Zucht, die gut arbeitet</a>: Dort wird der Charakter Ihres zukünftigen Begleiters aufgebaut (oder ruiniert).</p>
+  <p>In <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">unserer Zucht Del Piccolo Diavolo</a> werden die <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Staffy-Welpen</a> <strong>in der Familie</strong> geboren und aufgezogen, nicht im Zwinger: Das macht einen enormen Unterschied für die Ausgeglichenheit des erwachsenen Hundes. Ein Welpe, der von seinen ersten Tagen an gut sozialisiert wird (an Menschen, Geräusche, andere Tiere), wird zu einem ruhigen, gut führbaren Staffy. Wenn Sie entscheiden, dass es die richtige Rasse für Sie ist, ist der wichtigste nächste Schritt <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Zucht wählen">die Wahl einer Zucht, die gut arbeitet</a>: Dort wird der Charakter Ihres zukünftigen Begleiters aufgebaut (oder ruiniert).</p>
   </div>
   <!--/BLOCCO:6-->
 
@@ -186,7 +186,7 @@ custom_content: |
   <ul>
   <li><a href="/de/staffy-pitbull-amstaff-unterschied/" title="Unterschiede">Unterschied zwischen Staffy, Pitbull und Amstaff</a></li>
   <li><a href="/de/staffy-gefaehrliche-rasse-gesetz/" title="Staffy und Gesetz">Ist der Staffy gefährlich? Was das Gesetz sagt</a></li>
-  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Zucht wählen">Tipps, bevor ein Welpe einzieht</a></li>
+  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Zucht wählen">Eine gute Staffy-Zucht erkennen</a></li>
   <li><a href="/de/staffordshire-bull-terrier-charakter-familienleben/" title="Charakter und Familienleben">Charakter und Familienleben des Staffy</a></li>
   </ul>
   </div>

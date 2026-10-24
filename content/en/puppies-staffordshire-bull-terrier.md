@@ -12,7 +12,7 @@ correlati:
     titolo: "Genetic testing: L2-HGA and HC"
     testo: "Why both parents must be tested"
   - url: "/en/how-to-choose-a-staffordshire-bull-terrier-breeder/"
-    titolo: "Before you take on a puppy"
+    titolo: "How to choose a breeder"
     testo: "Documents, questions and red flags"
   - url: "/en/staffy-bloodlines-guide/"
     titolo: "Bloodlines: English and Irish"
@@ -121,7 +121,7 @@ custom_content: |
   <p>The puppies are born in the house, in the whelping box, and stay there for about a month. It is the phase in which the mother does almost everything and contact with people matters more than anything else. Anyone who came to see them before thirty days saw them there. At around a month they move to a dedicated pen with access outdoors, for a practical reason anyone who has had a litter knows: at that age they make more mess than a lived-in house can take. From then on they come back inside in turns, two or three at a time and for a few hours. That way each one gets its share of home life: the family, the noises, the other dogs, the people coming through. Every litter born here, with parents, tests, examinations and growth photos, is told in the <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a>.</p>
 
   <p>They get handled every day, hear the noises of the house, see people of all ages, meet the adult dogs under supervision and hear the road going past the courtyard. We follow no protocol: it is simply how they live here. And it is not enough, because when a puppy leaves, half of the sensitive window is still ahead of it. What a kennel can and cannot do is explained in <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it means">what &ldquo;socialised puppies&rdquo; means</a>.</p>
-  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Early stimulation</span><h3>Bio Sensor: what the research actually says</h3><p>What the Bio Sensor method promises for puppies and how much the studies prove.</p><a class="btn" href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor: what the research actually says">Read about Bio Sensor</a></div></div>
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Early stimulation</span><h3>Bio Sensor: what the research actually says</h3><p>What the Bio Sensor method promises for puppies and how much the studies prove.</p><a class="btn" href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor and early stimulation: what the research actually says">Bio Sensor and early stimulation</a></div></div>
   </div>
   <div class="zigzag-image">
   <img src="/images/foto1.avif" alt="Socialized Staffordshire Bull Terrier puppies at home" loading="lazy" decoding="async" width="400" height="484">
@@ -175,13 +175,13 @@ custom_content: |
 
   <p>At that visit we take a <strong>vaginal swab for bacterial culture</strong>, to rule out organisms that would compromise the pregnancy, and worm her if needed.</p>
 
-  <p>Then the <strong>progesterone testing</strong> begins. The fertile window cannot be guessed from the day the season started, and getting it wrong by 48 hours means no puppies. Blood is drawn at intervals until the value peaks, and that is the day. Each test costs 40 euros and at least four are needed: this and every other expense is listed <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/#costi-cucciolata" title="What a litter costs us, item by item">in what a litter costs us, item by item</a>.</p>
+  <p>Then the <strong>progesterone testing</strong> begins. The fertile window cannot be guessed from the day the season started, and getting it wrong by 48 hours means no puppies. Blood is drawn at intervals until the value peaks, and that is the day. Each test costs 40 euros and at least four are needed: this and every other expense is listed, item by item, under the <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/#costi-cucciolata" title="Price of a Staffordshire Bull Terrier puppy: what a litter costs us">price of a Staffordshire Bull Terrier puppy</a>.</p>
   </div>
   </div>
   <div class="n-passo">
   <h3>The mating</h3>
   <div>
-  <p><strong><a href="/en/parents-on-site-what-it-means/" title="&quot;Parents on site&quot;: what it really means">I always travel to the stud</a></strong>, never the other way round: the male stays at home, the bitch moves.</p>
+  <p><strong>I always travel to the stud</strong>, never the other way round: the male stays at home, the bitch moves. That is why the sire is often not among the <a href="/en/parents-on-site-what-it-means/" title="&quot;Parents on site&quot;: what it really means">parents on site</a> at the kennel.</p>
 
   <p>With a stud of real quality, the owner often uses a vet for <strong>artificial insemination</strong>, deposited intracervically. There are three reasons: avoiding the risk of transmissible disease, sparing the dog excessive effort, and being certain the mating actually happens. Because <strong>mating is not easy for every male</strong>, and that is something people outside breeding do not picture. Much depends on the bitch: more than one makes it anything but simple.</p>
   </div>
@@ -218,7 +218,7 @@ custom_content: |
   <h3>The day they can leave</h3>
   <div>
   <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-due-mesi-in-braccio.webp" alt="A two-month-old Staffordshire Bull Terrier puppy held in arms" width="899" height="817" loading="lazy" decoding="async"></figure>
-  <p>Vaccination and microchip are done by the vet, and that is what makes a puppy eligible to leave. Italian law sets the minimum at <strong>60 days</strong>; here they leave at around <strong>70</strong>, because those extra ten days are for them. For placements abroad the timing stretches further: that is covered on <a href="/en/staffordshire-bull-terrier-puppy-abroad/" title="A puppy going abroad">its own page</a>.</p>
+  <p>Vaccination and microchip are done by the vet, and that is what makes a puppy eligible to leave. Italian law sets the minimum at <strong>60 days</strong>; here they leave at around <strong>70</strong>, because those extra ten days are for them. For placements abroad the timing stretches further: that is covered in our guide to <a href="/en/staffordshire-bull-terrier-puppy-abroad/" title="A puppy going abroad: timing and paperwork">a puppy going abroad</a>.</p>
   </div>
   </div>
   <div class="n-passo">
@@ -246,7 +246,7 @@ custom_content: |
   <h2 class="section-title">A puppy going abroad</h2>
   <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-quattro-mesi.webp" alt="A four-month-old Staffordshire Bull Terrier puppy, the age at which it can leave for abroad" width="605" height="900" loading="lazy" decoding="async"></figure>
   <p>A puppy going to a family in another European country leaves at around <strong>four months</strong>, not two: the rabies vaccination cannot be given before 12 weeks and needs time to become valid. A pet passport, a TRACES health certificate and an ENCI export pedigree are also required.</p>
-  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Placements abroad</span><h3>How a placement abroad works</h3><p>Timing, paperwork and export pedigree.</p><a class="btn" href="/en/staffordshire-bull-terrier-puppy-abroad/" title="How a placement abroad works">Read the guide</a></div></div>
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Placements abroad</span><h3>How a placement abroad works</h3><p>Timing, paperwork and export pedigree.</p><a class="btn" href="/en/staffordshire-bull-terrier-puppy-abroad/" title="Puppy abroad: timing and paperwork">Puppy abroad: timing and paperwork</a></div></div>
   </div>
   </section>
   <!--/BLOCCO:10-->
@@ -256,7 +256,7 @@ custom_content: |
   <span class="section-label">What comes with the puppy</span>
   <h2 class="section-title">Bloodlines, documents and support</h2>
   <figure class="n-foto1"><img src="/images/femmina-croi-olc.webp" alt="Lackyle Bean Croí Olc, a female of the Irish Lackyle line" width="300" height="362" loading="lazy" decoding="async"></figure>
-  <p>We work with English <strong>Elitebull</strong> and Irish <strong>Lackyle</strong> lines: the first bring substance and head, the second movement and character. Every mating starts from what a female gives and what she lacks. What that means in practice, and how to read a line in a pedigree, is explained in the <a href="/en/staffy-bloodlines-guide/" title="Staffy bloodlines guide">bloodlines guide</a>; which line suits your home is a different question, with a <a href="/en/choosing-bloodlines/" title="Choosing bloodlines for a puppy">guide of its own</a>.</p>
+  <p>We work with English <strong>Elitebull</strong> and Irish <strong>Lackyle</strong> lines: the first bring substance and head, the second movement and character. Every mating starts from what a female gives and what she lacks. What that means in practice, and how to read a line in a pedigree, is explained in the <a href="/en/staffy-bloodlines-guide/" title="Staffy bloodlines guide">bloodlines guide</a>; which line suits your home is a different question, with a guide of its own on <a href="/en/choosing-bloodlines/" title="Choosing bloodlines for a puppy">choosing a bloodline</a>.</p>
   <h2 class="section-title" style="margin-top:2rem">What comes with a placement</h2>
   <figure class="n-foto1"><img src="/images/foto/staffordshire-bull-terrier-a-casa-con-la-famiglia.webp" alt="A Staffordshire Bull Terrier born here, at home with its family" width="675" height="900" loading="lazy" decoding="async"></figure>
   <p>Every puppy leaves us at 60 days at the earliest, with its first vaccination, wormed, microchipped and registered, and goes home with:</p>
@@ -299,7 +299,7 @@ custom_content: |
   </div>
 
   <div style="text-align:center;margin-top:1.5rem">
-  <a href="/en/faq-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="See all FAQ">See all frequently asked questions</a>
+  <a href="/en/faq-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="Frequently asked questions about the Staffordshire Bull Terrier">All frequently asked questions about the Staffy</a>
   </div>
   </div>
   </section>

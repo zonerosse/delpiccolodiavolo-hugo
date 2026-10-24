@@ -102,7 +102,7 @@ custom_content: |
 
   <div class="callout">
   <p class="callout-title">Come scegliamo noi</p>
-  <p>Nel <a href="/">nostro allevamento Del Piccolo Diavolo</a> la scelta dei riproduttori parte sempre dalla <strong>salute e dalla tipicità</strong>, non dalla "moda" di un colore. Selezioniamo colori conformi allo standard, con genitori <a href="/programma-allevamento/">testati per L2-HGA e HC</a>, ed evitiamo gli accoppiamenti diluiti a rischio. Un colore "raro" ottenuto a scapito della salute non vale niente.</p>
+  <p>Nel <a href="/">nostro allevamento Del Piccolo Diavolo</a> la scelta dei riproduttori parte sempre dalla <strong>salute e dalla tipicità</strong>, non dalla "moda" di un colore. Selezioniamo colori conformi allo standard, con genitori <a href="/test-genetici-l2hga-hc-staffy/">testati per L2-HGA e HC</a>, ed evitiamo gli accoppiamenti diluiti a rischio. Un colore "raro" ottenuto a scapito della salute non vale niente.</p>
   </div>
   <!--/BLOCCO:7-->
 

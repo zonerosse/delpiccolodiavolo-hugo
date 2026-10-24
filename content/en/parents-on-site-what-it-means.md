@@ -49,7 +49,7 @@ custom_content: |
 
   <p>When a mating is planned you do not choose the most convenient dog: you look for the one that corrects what the bitch lacks. You look at the genetic tests, at the theoretical inbreeding coefficient of the litter, at structural compatibility: build, head, movement. And the dogs that meet those requirements, across the breed internationally, <strong>can be counted</strong>. There are few of them, and they are far away.</p>
 
-  <p>The truth no advert prints is this: to build something over the years, more often than not you have to go outside. And going outside has a precise price, between stud fee, travel and hotel: it is set out <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/#costi-cucciolata" title="What a litter costs us, item by item">in what a litter costs us, item by item</a>.</p>
+  <p>The truth no advert prints is this: to build something over the years, more often than not you have to go outside. And going outside has a precise price, between stud fee, travel and hotel: it is set out item by item in <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/#costi-cucciolata" title="What the price of a Staffordshire Bull Terrier puppy includes">what the price of a Staffordshire Bull Terrier puppy includes</a>.</p>
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->

@@ -80,7 +80,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>What matters when choosing a food</h2>
-  <p>Whether you feed dry, wet or <a href="/en/barf-raw-feeding-staffordshire-bull-terrier/" title="BARF: when we use it and when we don't">raw</a>, the requirements for a growing Staffordshire Bull Terrier are the same. The food must be formulated for growth, not for adult maintenance. Protein and fat should come predominantly from named animal sources rather than unspecified by-products. And the calcium to phosphorus ratio matters more than most owners realise.</p>
+  <p>Whether you feed dry, wet or <a href="/en/barf-raw-feeding-staffordshire-bull-terrier/" title="BARF: when we use it and when we don't">raw (BARF)</a>, the requirements for a growing Staffordshire Bull Terrier are the same. The food must be formulated for growth, not for adult maintenance. Protein and fat should come predominantly from named animal sources rather than unspecified by-products. And the calcium to phosphorus ratio matters more than most owners realise.</p>
   <p>That last point deserves emphasis. Excess calcium during growth is harmful rather than beneficial, and it is one of the few genuine nutritional causes of skeletal problems. This is why calcium supplements should never be added to a <a href="https://europeanpetfood.org/self-regulation/nutritional-guidelines/" title="FEDIAF nutritional guidelines for complete and complementary pet food" target="_blank" rel="noopener" aria-label="complete puppy food – FEDIAF nutritional guidelines for complete and complementary pet food (opens in a new tab)">complete puppy food</a>, and why home-prepared diets for growing puppies need professional formulation rather than good intentions.</p>
   <!--/BLOCCO:4-->
 

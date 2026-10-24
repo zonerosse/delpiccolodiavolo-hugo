@@ -219,7 +219,7 @@ custom_content: |
 
   <div class="info-box">
   <p class="info-box-title">🐕 Una nota sul temperamento</p>
-  <p>Il temperamento individuale dipende molto più dalla genetica specifica (linee di sangue), dalla socializzazione e dall'educazione che dalla razza in sé. La scelta dell'<a href="/chi-siamo/">allevatore</a> e l'impegno del proprietario sono fattori determinanti.</p>
+  <p>Il temperamento individuale dipende molto più dalla genetica specifica (linee di sangue), dalla socializzazione e dall'educazione che dalla razza in sé. La scelta dell'allevatore e l'impegno del proprietario sono fattori determinanti.</p>
   </div>
   <!--/BLOCCO:5-->
 
@@ -291,7 +291,7 @@ custom_content: |
   <li><a href="/linee-sangue-staffordshire-bull-terrier/" title="Linee di sangue">Linee di sangue dello Staffordshire Bull Terrier</a></li>
   <li><a href="/standard-tipicita-morfologia/" title="Standard e tipicità">Standard FCI e tipicità morfologica</a></li>
   <li><a href="/staffy-pericoloso-legge-italia/" title="Staffy e legge">Lo Staffy è pericoloso? Cosa dice la legge italiana</a></li>
-  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento">Consigli prima di prendere un cucciolo</a></li>
+  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Prima di prendere un cucciolo: come scegliere l'allevamento">Prima di prendere un cucciolo: come scegliere l'allevamento</a></li>
   </ul>
   </div>
 

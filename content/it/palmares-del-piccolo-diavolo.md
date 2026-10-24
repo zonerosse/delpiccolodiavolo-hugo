@@ -271,7 +271,7 @@ custom_content: |
   <div>
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
   <h3>Giovane Campione Italiano ENCI + Campione Sloveno 🇸🇮</h3>
-  <p><a href="/maschi-staffordshire-bull-terrier/" title="I nostri maschi">Lothar</a> ha conquistato il titolo di Giovane Campione Italiano con una serie di primi posti in Classe Giovani. Poi ha continuato in Classe Intermedia, in Italia e in Slovenia.</p>
+  <p><a href="/maschi-staffordshire-bull-terrier/" title="I nostri maschi">Lothar, uno dei nostri maschi</a>, ha conquistato il titolo di Giovane Campione Italiano con una serie di primi posti in Classe Giovani. Poi ha continuato in Classe Intermedia, in Italia e in Slovenia.</p>
   <p><strong>Gennaio 2026:</strong> Campione Sloveno. Alle esposizioni internazionali di Vrtojba, in un fine settimana, tre volte Eccellente 1° e il titolo completato.</p>
   </div>
   </div>
@@ -373,7 +373,7 @@ custom_content: |
   <section class="dark-section">
   <h2>Selezione che si vede</h2>
   <p>Non compriamo cani gi&agrave; titolati: li facciamo nascere, li cresciamo e li portiamo in ring. Di Bilquis ha scritto anche <a href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" target="_blank" rel="noopener" aria-label="Articolo di FerraraToday su Bilquis (si apre in una nuova scheda)">FerraraToday</a>, il 6 gennaio 2026.</p>
-  <a href="/femmine-staffordshire-bull-terrier/" class="btn" title="Vedi le nostre femmine">Scopri i nostri cani</a>
+  <a href="/femmine-staffordshire-bull-terrier/" class="btn" title="Le nostre femmine di Staffordshire Bull Terrier">Le nostre femmine</a>
   </section>
   <!--/BLOCCO:8-->
 

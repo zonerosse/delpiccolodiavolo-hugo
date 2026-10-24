@@ -227,7 +227,7 @@ custom_content: |
   <div>
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem">
   <h3>ENCI Italienischer Jugendchampion</h3>
-  <p><a href="/de/rueden-staffordshire-bull-terrier/" title="Unsere Rüden">Lothar</a> hat den Titel des Italienischen Jugendchampions mit einer Serie von ersten Plätzen in der Jugendklasse gewonnen. Danach ging es in der Zwischenklasse weiter, in Italien und in Slowenien.</p>
+  <p><a href="/de/rueden-staffordshire-bull-terrier/" title="Unsere Rüden">Lothar, einer unserer Rüden</a>, hat den Titel des Italienischen Jugendchampions mit einer Serie von ersten Plätzen in der Jugendklasse gewonnen. Danach ging es in der Zwischenklasse weiter, in Italien und in Slowenien.</p>
   <p><strong>Januar 2026:</strong> Slowenischer Champion. Auf den internationalen Ausstellungen in Vrtojba, an einem Wochenende, dreimal Vorzüglich 1 und damit der Titel komplett.</p>
 
   <h3 style="margin-top:2rem;margin-bottom:1rem">Vollständige Ergebnisse</h3>
@@ -369,7 +369,7 @@ custom_content: |
   <section class="dark-section">
   <h2>Selektion, die man sieht</h2>
   <p>Wir kaufen keine Hunde, die schon Titel haben: Sie werden bei uns geboren, wachsen hier auf und wir führen sie in den Ring. Über Bilquis hat am 6. Januar 2026 auch das Ferrareser Nachrichtenportal <a href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" target="_blank" rel="noopener" aria-label="Artikel von FerraraToday über Bilquis (wird in einem neuen Tab geöffnet)">FerraraToday</a> berichtet.</p>
-  <a href="/de/huendinnen-staffordshire-bull-terrier/" class="btn" title="Unsere Hündinnen ansehen">Unsere Hunde entdecken</a>
+  <a href="/de/huendinnen-staffordshire-bull-terrier/" class="btn" title="Unsere Staffordshire Bull Terrier Hündinnen">Unsere Hündinnen</a>
   </section>
   <!--/BLOCCO:8-->
 

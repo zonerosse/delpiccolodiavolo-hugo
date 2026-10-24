@@ -166,7 +166,7 @@ custom_content: |
   <li><a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici">Test genetici L2-HGA e HC</a></li>
   <li><a href="/salute-parassiti-prevenzione/" title="Parassiti">Parassiti: prevenzione e controllo</a></li>
   <li><a href="/cuccioli-alimentazione-iniziale/" title="Alimentazione">Alimentazione iniziale del cucciolo</a></li>
-  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento">Consigli prima di prendere un cucciolo</a></li>
+  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Prima di prendere un cucciolo: come scegliere l'allevamento">Prima di prendere un cucciolo: come scegliere l'allevamento</a></li>
   </ul>
   </div>
 

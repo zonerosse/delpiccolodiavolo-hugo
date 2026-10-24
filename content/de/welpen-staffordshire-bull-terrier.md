@@ -12,7 +12,7 @@ correlati:
     titolo: "Gentests: L2-HGA und HC"
     testo: "Warum beide Elterntiere getestet sein müssen"
   - url: "/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/"
-    titolo: "Bevor ein Welpe einzieht"
+    titolo: "Eine gute Zucht erkennen"
     testo: "Unterlagen, Fragen und Warnzeichen"
   - url: "/de/staffy-blutlinien-guide/"
     titolo: "Blutlinien: England und Irland"
@@ -121,7 +121,7 @@ custom_content: |
   <p>Die Welpen kommen im Haus zur Welt, in der Wurfkiste, und bleiben dort etwa einen Monat. Es ist die Zeit, in der die Mutter fast alles macht und der Kontakt mit Menschen mehr zählt als alles andere. Wer sie vor dem dreißigsten Tag besucht hat, hat sie dort gesehen. Mit etwa einem Monat ziehen sie in einen eigenen Auslauf mit Zugang nach draußen, aus einem praktischen Grund, den jeder kennt, der einen Wurf hatte: In diesem Alter machen sie mehr Schmutz, als ein bewohntes Haus verkraftet. Von da an kommen sie abwechselnd wieder ins Haus, zu zweit oder zu dritt und für einige Stunden. So bekommt jeder seinen Teil des Familienlebens: die Familie, die Geräusche, die anderen Hunde, die Menschen, die vorbeikommen. Jeder hier geborene Wurf, mit Eltern, Tests, Untersuchungen und Fotos vom Aufwachsen, steht im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Zuchttagebuch</a>.</p>
 
   <p>Sie werden jeden Tag angefasst, hören die Geräusche des Hauses, sehen Menschen jeden Alters, treffen die erwachsenen Hunde unter Aufsicht und hören die Straße, die am Hof vorbeiführt. Wir folgen keinem Protokoll: So leben sie hier einfach. Und es reicht nicht, denn wenn ein Welpe geht, liegt die Hälfte der sensiblen Phase noch vor ihm. Was eine Zucht leisten kann und was nicht, erklären wir in <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das heißt">was &bdquo;sozialisierte Welpen&ldquo; heißt</a>.</p>
-  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Frühstimulation</span><h3>Bio Sensor: was die Forschung wirklich sagt</h3><p>Was die Bio-Sensor-Methode für Welpen verspricht und wie viel die Studien belegen.</p><a class="btn" href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor: was die Forschung wirklich sagt">Über Bio Sensor lesen</a></div></div>
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Frühstimulation</span><h3>Bio Sensor: was die Forschung wirklich sagt</h3><p>Was die Bio-Sensor-Methode für Welpen verspricht und wie viel die Studien belegen.</p><a class="btn" href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor und Frühstimulation: was die Forschung wirklich sagt">Bio Sensor und Frühstimulation</a></div></div>
   </div>
   <div class="zigzag-image">
   <img src="/images/foto1.avif" alt="Sozialisierte Staffordshire Bull Terrier Welpen zu Hause" loading="lazy" decoding="async" width="400" height="484">
@@ -175,13 +175,13 @@ custom_content: |
 
   <p>Dabei wird ein <strong>Vaginaltupfer mit bakteriologischer Kultur</strong> genommen, um Keime auszuschlie&szlig;en, die die Tr&auml;chtigkeit gef&auml;hrden w&uuml;rden, und bei Bedarf entwurmt.</p>
 
-  <p>Dann beginnen die <strong>Progesteronbestimmungen</strong>. Der fruchtbare Zeitpunkt l&auml;sst sich nicht am Tag des L&auml;ufigkeitsbeginns ablesen, und 48 Stunden daneben bedeuten keine Welpen. Es wird in Abst&auml;nden Blut genommen, bis der Wert seinen H&ouml;hepunkt erreicht, und das ist der Tag. Jede Bestimmung kostet 40 Euro, und es braucht mindestens vier: diese und alle anderen Ausgaben stehen <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/#costi-cucciolata" title="Was uns ein Wurf kostet, Posten für Posten">in den Kosten eines Wurfs, Posten für Posten</a>.</p>
+  <p>Dann beginnen die <strong>Progesteronbestimmungen</strong>. Der fruchtbare Zeitpunkt l&auml;sst sich nicht am Tag des L&auml;ufigkeitsbeginns ablesen, und 48 Stunden daneben bedeuten keine Welpen. Es wird in Abst&auml;nden Blut genommen, bis der Wert seinen H&ouml;hepunkt erreicht, und das ist der Tag. Jede Bestimmung kostet 40 Euro, und es braucht mindestens vier: diese und alle anderen Ausgaben stehen Posten für Posten beim <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/#costi-cucciolata" title="Welpenpreis beim Staffordshire Bull Terrier: was uns ein Wurf kostet">Welpenpreis eines Staffordshire Bull Terrier</a>.</p>
   </div>
   </div>
   <div class="n-passo">
   <h3>Der Deckakt</h3>
   <div>
-  <p><strong>Ich fahre immer zum R&uuml;den</strong>, nie umgekehrt: der R&uuml;de bleibt zu Hause, die H&uuml;ndin reist.</p>
+  <p><strong>Ich fahre immer zum R&uuml;den</strong>, nie umgekehrt: der R&uuml;de bleibt zu Hause, die H&uuml;ndin reist. Deshalb ist der Vater bei den <a href="/de/eltern-vor-ort-was-das-bedeutet/" title="&quot;Eltern vor Ort&quot;: was das wirklich bedeutet">Eltern vor Ort</a> oft nicht dabei.</p>
 
   <p>Bei einem R&uuml;den von Format zieht der Besitzer h&auml;ufig einen Tierarzt f&uuml;r die <strong>instrumentelle Besamung</strong> hinzu, intrazervikal. Daf&uuml;r gibt es drei Gr&uuml;nde: das Risiko &uuml;bertragbarer Krankheiten vermeiden, den R&uuml;den nicht &uuml;berm&auml;&szlig;ig belasten, und sicher sein, dass der Deckakt zustande kommt. Denn <strong>nicht jedem R&uuml;den f&auml;llt das Decken leicht</strong>, und das stellt sich niemand vor, der nicht z&uuml;chtet. Vieles h&auml;ngt von der H&uuml;ndin ab: mehr als eine macht es ihm alles andere als einfach.</p>
   </div>
@@ -218,7 +218,7 @@ custom_content: |
   <h3>Der Tag, an dem sie gehen d&uuml;rfen</h3>
   <div>
   <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-due-mesi-in-braccio.webp" alt="Ein zwei Monate alter Staffordshire Bull Terrier Welpe auf dem Arm" width="899" height="817" loading="lazy" decoding="async"></figure>
-  <p>Impfung und Mikrochip macht der Tierarzt, und damit darf ein Welpe die Zucht verlassen. Das italienische Gesetz schreibt mindestens <strong>60 Tage</strong> vor; bei mir gehen sie mit rund <strong>70</strong>, weil diese zehn Tage ihnen zugutekommen. F&uuml;r das Ausland verl&auml;ngern sich die Fristen weiter: davon handelt <a href="/de/staffordshire-bull-terrier-welpe-ins-ausland/" title="Ein Welpe, der ins Ausland geht">die eigene Seite</a>.</p>
+  <p>Impfung und Mikrochip macht der Tierarzt, und damit darf ein Welpe die Zucht verlassen. Das italienische Gesetz schreibt mindestens <strong>60 Tage</strong> vor; bei mir gehen sie mit rund <strong>70</strong>, weil diese zehn Tage ihnen zugutekommen. F&uuml;r das Ausland verl&auml;ngern sich die Fristen weiter: davon handelt unser Ratgeber <a href="/de/staffordshire-bull-terrier-welpe-ins-ausland/" title="Ein Welpe, der ins Ausland geht: Fristen und Papiere">Welpe ins Ausland</a>.</p>
   </div>
   </div>
   <div class="n-passo">
@@ -246,7 +246,7 @@ custom_content: |
   <h2 class="section-title">Ein Welpe, der ins Ausland geht</h2>
   <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-quattro-mesi.webp" alt="Ein vier Monate alter Staffordshire Bull Terrier Welpe, das Alter, in dem er ins Ausland reisen kann" width="605" height="900" loading="lazy" decoding="async"></figure>
   <p>Ein Welpe f&uuml;r eine Familie in einem anderen europ&auml;ischen Land reist mit etwa <strong>vier Monaten</strong>, nicht mit zwei: die Tollwutimpfung ist erst ab 12 Wochen m&ouml;glich und braucht Zeit, um g&uuml;ltig zu werden. Hinzu kommen EU-Heimtierausweis, TRACES-Gesundheitszeugnis und ENCI-Exportstammbaum.</p>
-  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Vermittlung ins Ausland</span><h3>Wie eine Vermittlung ins Ausland abläuft</h3><p>Fristen, Papiere und Exportstammbaum.</p><a class="btn" href="/de/staffordshire-bull-terrier-welpe-ins-ausland/" title="Wie eine Vermittlung ins Ausland abläuft">Zum Ratgeber</a></div></div>
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Vermittlung ins Ausland</span><h3>Wie eine Vermittlung ins Ausland abläuft</h3><p>Fristen, Papiere und Exportstammbaum.</p><a class="btn" href="/de/staffordshire-bull-terrier-welpe-ins-ausland/" title="Welpe ins Ausland: Fristen und Papiere">Welpe ins Ausland: Fristen und Papiere</a></div></div>
   </div>
   </section>
   <!--/BLOCCO:10-->
@@ -256,7 +256,7 @@ custom_content: |
   <span class="section-label">Was der Welpe mitbekommt</span>
   <h2 class="section-title">Blutlinien, Papiere und Begleitung</h2>
   <figure class="n-foto1"><img src="/images/femmina-croi-olc.webp" alt="Lackyle Bean Croí Olc, Hündin der irischen Lackyle-Linie" width="300" height="362" loading="lazy" decoding="async"></figure>
-  <p>Wir arbeiten mit der englischen Linie <strong>Elitebull</strong> und der irischen Linie <strong>Lackyle</strong>: die erste bringt Substanz und Kopf, die zweite Gangwerk und Charakter. Jede Verpaarung geht davon aus, was eine Hündin mitbringt und was ihr fehlt. Was das praktisch bedeutet und wie man eine Linie in der Ahnentafel liest, erklärt der <a href="/de/staffy-blutlinien-guide/" title="Ratgeber zu den Blutlinien">Ratgeber zu den Blutlinien</a>; welche Linie zu Ihrem Zuhause passt, ist eine andere Frage und hat einen <a href="/de/blutlinien-waehlen/" title="Blutlinien wählen">eigenen Ratgeber</a>.</p>
+  <p>Wir arbeiten mit der englischen Linie <strong>Elitebull</strong> und der irischen Linie <strong>Lackyle</strong>: die erste bringt Substanz und Kopf, die zweite Gangwerk und Charakter. Jede Verpaarung geht davon aus, was eine Hündin mitbringt und was ihr fehlt. Was das praktisch bedeutet und wie man eine Linie in der Ahnentafel liest, erklärt der <a href="/de/staffy-blutlinien-guide/" title="Ratgeber zu den Blutlinien">Ratgeber zu den Blutlinien</a>; welche Linie zu Ihrem Zuhause passt, ist eine andere Frage und hat einen eigenen Ratgeber: <a href="/de/blutlinien-waehlen/" title="Blutlinien wählen">Blutlinien wählen</a>.</p>
   <h2 class="section-title" style="margin-top:2rem">Was zur Vermittlung gehört</h2>
   <figure class="n-foto1"><img src="/images/foto/staffordshire-bull-terrier-a-casa-con-la-famiglia.webp" alt="Ein bei uns geborener Staffordshire Bull Terrier, zu Hause bei seiner Familie" width="675" height="900" loading="lazy" decoding="async"></figure>
   <p>Jeder Welpe verlässt uns frühestens mit 60 Tagen, mit der ersten Impfung, entwurmt, gechippt und registriert, und geht nach Hause mit:</p>
@@ -299,7 +299,7 @@ custom_content: |
   </div>
 
   <div style="text-align:center;margin-top:1.5rem">
-  <a href="/de/faq-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="Alle FAQ ansehen">Alle häufigen Fragen ansehen</a>
+  <a href="/de/faq-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="Häufige Fragen zum Staffordshire Bull Terrier">Alle häufigen Fragen zum Staffy</a>
   </div>
   </div>
   </section>

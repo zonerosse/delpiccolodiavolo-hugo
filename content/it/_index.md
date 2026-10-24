@@ -7,7 +7,7 @@ translationKey: "home"
 description: "Allevamento etico di Staffordshire Bull Terrier dal 2013. Pedigree ENCI, referti dei test genetici e microchip dei riproduttori pubblicati e verificabili."
 correlati:
   - url: "/cuccioli-staffordshire-bull-terrier/"
-    titolo: "Cuccioli disponibili"
+    titolo: "Cuccioli di Staffy"
     testo: "Pedigree ENCI e test genetici completi"
   - url: "/quanto-costa-cucciolo-staffordshire-bull-terrier/"
     titolo: "Quanto costa un cucciolo"
@@ -16,7 +16,7 @@ correlati:
     titolo: "È il cane giusto per te?"
     testo: "Pregi e difetti, senza filtri"
   - url: "/allevamento-staffordshire-bull-terrier-in-emilia-romagna/"
-    titolo: "Visita l'allevamento"
+    titolo: "Visita l'allevamento in Emilia-Romagna"
     testo: "Ostellato (FE), su appuntamento"
 slug: ""
 custom_content: |
@@ -83,8 +83,8 @@ custom_content: |
   <p>Partono con <strong>pedigree ENCI</strong>, microchip e vaccinazioni.</p></figcaption></figure>
   </div>
   <div class="n-schede">
-  <div class="n-scheda"><span class="n-quando">I cuccioli</span><h3>Cuccioli Staffordshire Bull Terrier</h3><p>Le cucciolate, i genitori e come crescono, dal parto ai 60 giorni.</p><a class="btn" href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">Vai ai cuccioli</a></div>
-  <div class="n-scheda"><span class="n-quando">Stimolazione precoce</span><h3>Bio Sensor: cosa dice davvero la ricerca</h3><p>Cosa promette il metodo Bio Sensor sui cuccioli e quanto è dimostrato dagli studi.</p><a class="btn" href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor: cosa dice davvero la ricerca">Leggi sul Bio Sensor</a></div>
+  <div class="n-scheda"><span class="n-quando">I cuccioli</span><h3>Cuccioli Staffordshire Bull Terrier</h3><p>Le cucciolate, i genitori e come crescono, dal parto ai 60 giorni.</p><a class="btn" href="/cuccioli-staffordshire-bull-terrier/" title="I nostri cuccioli Staffy">I nostri cuccioli Staffy</a></div>
+  <div class="n-scheda"><span class="n-quando">Stimolazione precoce</span><h3>Bio Sensor: cosa dice davvero la ricerca</h3><p>Cosa promette il metodo Bio Sensor sui cuccioli e quanto è dimostrato dagli studi.</p><a class="btn" href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor e stimolazione precoce">Bio Sensor e stimolazione precoce</a></div>
   </div>
   </div>
   </section>
@@ -98,7 +98,7 @@ custom_content: |
   <p>L'allevamento Del Piccolo Diavolo è a Ostellato, in provincia di Ferrara. Qui i <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli di Staffordshire Bull Terrier</a> nascono poche volte, escono con il pedigree ENCI dopo i 60 giorni di legge e partono solo da qui. Queste sono le quattro cose che non facciamo.</p>
 
   <div class="n-percorso"><div class="n-passo"><h3>Non abbiamo cuccioli tutto l'anno.</h3><div><p>Una cucciolata, occasionalmente due, a volte nessuna. Se ci scrivi in un momento in cui non ce ne sono, la risposta è che non ce ne sono: non ti proponiamo il cucciolo di un conoscente né ti mettiamo fretta su una cucciolata futura.</p></div></div><div class="n-passo"><h3>Non spediamo cani.</h3><div><p>Nessun nostro cucciolo viaggia con un corriere: niente stive, niente consegne a metà strada in un parcheggio. Chi prende un cucciolo viene a Ostellato. Così vede la madre, la casa e il posto dove è cresciuto.</p></div></div><div class="n-passo"><h3>Non trattiamo il pedigree come un accessorio.</h3><div><p>Non esiste un cucciolo «con» o «senza»: il certificato ENCI accompagna ogni cane e non si paga a parte.</p></div></div><div class="n-passo"><h3>Non ci offendiamo se fai domande sull'allevamento.</h3><div><p>Anzi, sono quelle a dirci chi abbiamo davanti. Chi chiede dei test, dei genitori, di cosa succede se fra due anni non riesce più a tenere il cane, è la persona a cui affideremmo volentieri un cucciolo.</p></div></div></div>
-  <div class="n-schede"><div class="n-scheda"><span class="n-quando">Chi siamo</span><h3>Chi c'è dietro tutto questo</h3><p>E come dai Rottweiler si arriva agli Staffy.</p><a class="btn" href="/chi-siamo/" title="Chi c'è dietro tutto questo">Leggi chi siamo</a></div><div class="n-scheda"><span class="n-quando">Scegliere un allevamento</span><h3>Come riconoscere un allevamento che fa le cose per bene</h3><p>Otto criteri e il modo di verificarli, su di noi come su chiunque altro.</p><a class="btn" href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento che fa le cose per bene">Leggi gli otto criteri</a></div></div>
+  <div class="n-schede"><div class="n-scheda"><span class="n-quando">Chi siamo</span><h3>Chi c'è dietro tutto questo</h3><p>E come dai Rottweiler si arriva agli Staffy.</p><a class="btn" href="/chi-siamo/" title="Chi siamo e la nostra storia">Chi siamo e la nostra storia</a></div><div class="n-scheda"><span class="n-quando">Scegliere un allevamento</span><h3>Come riconoscere un allevamento che fa le cose per bene</h3><p>Otto criteri e il modo di verificarli, su di noi come su chiunque altro.</p><a class="btn" href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento serio">Come riconoscere un allevamento serio</a></div></div>
   </div>
   </section>
   <!--/BLOCCO:4-->
@@ -110,9 +110,9 @@ custom_content: |
   <p>Del Piccolo Diavolo è un allevamento di Staffordshire Bull Terrier, lo Staffy per gli appassionati, a <strong>Ostellato, in provincia di Ferrara</strong>, attivo dal <strong>2013</strong>. Paolo Boldrini segue la razza dal 2005. Prima di far nascere una cucciolata ha passato otto anni a studiarla.</p>
   <div class="n-percorso">
   <div class="n-passo"><h3>Quante cucciolate, quali test</h3><div><p>Facciamo <strong>una cucciolata l'anno, occasionalmente due, a volte nessuna</strong>, mai su richiesta. Tutti i riproduttori sono testati per <strong>L2-HGA e HC (gene HSF4)</strong>, o esenti per via parentale con i referti dei genitori. I nostri cani sono esenti anche dalla <strong>mielopatia degenerativa (gene SOD1)</strong>. I referti sono pubblicati sul sito, con il nome e il microchip del cane.</p></div></div>
-  <div class="n-passo"><h3>Come scegliamo i riproduttori</h3><div><p>Scegliamo i riproduttori con tre criteri, in quest'ordine: <strong>carattere equilibrato</strong>, <strong>nessuna malattia ereditaria</strong> e <strong><a href="/standard-tipicita-morfologia/" title="Standard, tipicità e morfologia">aderenza allo standard</a></strong>. Il carattere viene prima perché una famiglia se lo porta in casa per dodici anni. Ed è anche la cosa più difficile da correggere: la morfologia si sistema in due o tre generazioni, un difetto di carattere no.</p></div></div>
+  <div class="n-passo"><h3>Come scegliamo i riproduttori</h3><div><p>Scegliamo i riproduttori con tre criteri, in quest'ordine: <strong>carattere equilibrato</strong>, <strong>nessuna malattia ereditaria</strong> e <strong><a href="/standard-tipicita-morfologia/" title="Standard, tipicità e morfologia">morfologia fedele allo standard di razza</a></strong>. Il carattere viene prima perché una famiglia se lo porta in casa per dodici anni. Ed è anche la cosa più difficile da correggere: la morfologia si sistema in due o tre generazioni, un difetto di carattere no.</p></div></div>
   <div class="n-passo"><h3>In esposizione</h3><div><p>In esposizione, i cani allevati qui hanno ottenuto <strong>1 titolo di Campione Italiano</strong> e <strong>3 di Giovane Campione Italiano</strong>, uno dei quali anche Campione Sloveno. Poi un Giovane Campione e Campione di San Marino, e un <strong>4° posto al World Dog Show</strong> con Bilquis Goddess Diabhal. A maggio 2026 Queen of California è diventata <strong>Giovane Campionessa Italiana</strong>. Lavoriamo con linee di sangue inglesi e irlandesi, soprattutto Elitebull e Lackyle.</p></div></div>
-  <div class="n-passo"><h3>Dopo l'affido</h3><div><p>Prima di affidare un cucciolo vogliamo conoscere la famiglia: una telefonata, qualche domanda, spesso una visita. E il rapporto non finisce lì. Restiamo a disposizione per consigli e notizie anche <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">a distanza di anni</a>. E ogni cane nato da noi torna qui, se un giorno non potesse più restare dov'è.</p></div></div>
+  <div class="n-passo"><h3>Dopo l'affido</h3><div><p>Prima di affidare un cucciolo vogliamo conoscere la famiglia: una telefonata, qualche domanda, spesso una visita. E il rapporto non finisce lì. Restiamo a disposizione per consigli e notizie anche a distanza di anni, come raccontano le <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">storie dei nostri Staffy in famiglia</a>. E ogni cane nato da noi torna qui, se un giorno non potesse più restare dov'è.</p></div></div>
   </div>
 
   </div>
@@ -148,14 +148,14 @@ custom_content: |
   <p><strong>Le genealogie.</strong> I cani di Del Piccolo Diavolo sono registrati su <a aria-label="Del Piccolo Diavolo su SBTPedigree (si apre in una nuova scheda)" href="https://sbtpedigree.com/details?id=35858" rel="noopener" target="_blank" title="SBTPedigree">SBTPedigree</a>, il database internazionale della razza, con tutti i soggetti e le cucciolate. Da lì si risale ai nonni, ai bisnonni e ai fratelli di cucciolata. Si vede chi sono i cani dietro un nome, e anche cosa manca.</p>
   <p><strong>I pedigree.</strong> Ogni cucciolo esce con il certificato genealogico ENCI, che si controlla con il numero di libro genealogico.</p>
   <p><strong>I risultati in esposizione.</strong> I titoli non sono autocertificati: i cataloghi delle manifestazioni sono pubblici, e i giudici che hanno valutato i nostri cani hanno un nome e un cognome. Sono raccolti nel <a href="/palmares-del-piccolo-diavolo/" title="Palmares">palmarès</a>.</p>
-  <p><strong>Le date.</strong> Ogni cucciolata ha la sua data di nascita: le più recenti nel <a href="/diario-allevamento/" title="Diario dell'allevamento">diario</a>, quelle degli anni prima nel <a href="/programma-allevamento/" title="Programma di allevamento">programma di allevamento</a>. Nessuna sparisce quando i cuccioli sono a casa loro, ed è voluto: così chiunque può contare quante cucciolate facciamo in un anno.</p>
+  <p><strong>Le date.</strong> Ogni cucciolata ha la sua data di nascita: le più recenti nel <a href="/diario-allevamento/" title="Diario dell'allevamento">diario dell'allevamento</a>, quelle degli anni prima nel <a href="/programma-allevamento/" title="Programma di allevamento">programma di allevamento</a>. Nessuna sparisce quando i cuccioli sono a casa loro, ed è voluto: così chiunque può contare quante cucciolate facciamo in un anno.</p>
   </div>
   </div>
   <div class="n-passo">
   <h3>Due regole senza eccezioni</h3>
   <div>
   <p><strong>Non accoppiamo due Staffordshire Bull Terrier perché sono belli.</strong> Ogni accoppiamento nasce da una ragione che sappiamo spiegare: cosa stiamo cercando di fissare e cosa stiamo cercando di correggere. Se la risposta fosse "sono due bei cani", non ci sarebbe un programma dietro.</p>
-  <p><strong>Non affidiamo prima dei 60 giorni</strong>, che è un obbligo di legge e non una nostra scelta. Per l'estero i tempi si allungano ancora, perché servono l'antirabbica e il <a href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Cucciolo all'estero">certificato sanitario ufficiale</a>.</p>
+  <p><strong>Non affidiamo prima dei 60 giorni</strong>, che è un obbligo di legge e non una nostra scelta. <a href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Cucciolo all'estero">Per un cucciolo che va all'estero</a> i tempi si allungano ancora, perché servono l'antirabbica e il certificato sanitario ufficiale.</p>
   </div>
   </div>
   <div class="n-passo">
@@ -168,7 +168,7 @@ custom_content: |
   </div>
   </div>
   </div>
-  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Le femmine</span><h3>Le nostre femmine, una per una</h3><p>Microchip, test genetici e pedigree: da lì verifichi genealogie e cucciolate.</p><a class="btn" href="/femmine-staffordshire-bull-terrier/" title="Le nostre femmine, una per una">Vai alle femmine</a></div></div>
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Le femmine</span><h3>Le nostre femmine, una per una</h3><p>Microchip, test genetici e pedigree: da lì verifichi genealogie e cucciolate.</p><a class="btn" href="/femmine-staffordshire-bull-terrier/" title="Le nostre femmine Staffy">Le nostre femmine Staffy</a></div></div>
   </div>
   </section>
   <!--/BLOCCO:6-->
@@ -199,7 +199,7 @@ custom_content: |
   <div class="n-tot">
   <p><strong>1 Campione Italiano - 3 Giovani Campioni Italiani - 1 Campionessa di San Marino - 4° al World Dog Show</strong></p>
   <p>Risultati ottenuti con cani allevati e cresciuti da noi, non acquistati già titolati.</p>
-  <a class="btn btn-primary" href="/palmares-del-piccolo-diavolo/" title="Vedi tutti i risultati">Vedi tutti i risultati</a>
+  <a class="btn btn-primary" href="/palmares-del-piccolo-diavolo/" title="Il palmarès completo">Il palmarès completo</a>
   </div>
   </div>
   </section>
@@ -243,7 +243,7 @@ custom_content: |
   <div class="faq-answer">Una l'anno, occasionalmente due, e in alcuni anni nessuna: l'allevamento Del Piccolo Diavolo non fa cucciolate su richiesta e non tiene una fattrice in produzione continua. Ogni accoppiamento si programma con mesi di anticipo, partendo dai test genetici dei due riproduttori e dal coefficiente di consanguineità teorico dei cuccioli. Il ritmo si può verificare senza chiedere niente a noi: ogni cucciolata resta pubblicata nel <a href="/diario-allevamento/" title="Diario dell'allevamento">diario dell'allevamento</a> con la data di nascita, e il numero di cucciolate di ogni fattrice si controlla sul libro genealogico ENCI partendo dal suo microchip.</div>
   </div>
   </div>
-  <p style="margin-top:2.4rem"><a class="n-vai" href="/faq-sullo-staffordshire-bull-terrier/" title="Vedi tutte le FAQ">Vedi tutte le domande frequenti <span aria-hidden="true">→</span></a></p>
+  <p style="margin-top:2.4rem"><a class="n-vai" href="/faq-sullo-staffordshire-bull-terrier/" title="Tutte le domande frequenti sullo Staffy">Tutte le domande frequenti sullo Staffy <span aria-hidden="true">→</span></a></p>
   </div>
   </section>
   <!--/BLOCCO:10-->

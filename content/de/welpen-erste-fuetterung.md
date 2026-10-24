@@ -80,7 +80,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>Worauf es bei der Futterwahl ankommt</h2>
-  <p>Ob trocken, nass oder <a href="/de/barf-staffordshire-bull-terrier-rohfuetterung/" title="BARF: wann wir es nutzen und wann nicht">roh</a> gefüttert wird: die Anforderungen an einen wachsenden Staffordshire Bull Terrier sind dieselben. Das Futter muss für das Wachstum formuliert sein, nicht für erwachsene Hunde. Protein und Fett sollten überwiegend aus benannten tierischen Quellen stammen. Und das Verhältnis von Kalzium zu Phosphor zählt mehr, als die meisten Halter ahnen.</p>
+  <p>Ob trocken, nass oder <a href="/de/barf-staffordshire-bull-terrier-rohfuetterung/" title="BARF: wann wir es nutzen und wann nicht">roh (BARF)</a> gefüttert wird: die Anforderungen an einen wachsenden Staffordshire Bull Terrier sind dieselben. Das Futter muss für das Wachstum formuliert sein, nicht für erwachsene Hunde. Protein und Fett sollten überwiegend aus benannten tierischen Quellen stammen. Und das Verhältnis von Kalzium zu Phosphor zählt mehr, als die meisten Halter ahnen.</p>
   <p>Dieser letzte Punkt verdient Nachdruck. Zu viel Kalzium während des Wachstums ist schädlich statt nützlich und gehört zu den wenigen echten ernährungsbedingten Ursachen von Skelettproblemen. Deshalb dürfen einem vollwertigen Welpenfutter niemals Kalziumpräparate zugefüttert werden, und deshalb brauchen selbst zubereitete Rationen für Welpen eine fachliche Berechnung statt guter Absichten.</p>
   <!--/BLOCCO:4-->
 

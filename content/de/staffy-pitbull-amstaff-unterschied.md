@@ -211,7 +211,7 @@ custom_content: |
 
   <div class="info-box">
   <p class="info-box-title">🐕 Ein Hinweis zum Wesen</p>
-  <p>Das Wesen eines einzelnen Hundes hängt weit mehr von seiner konkreten Genetik (Blutlinien), der Sozialisierung und der Erziehung ab als von der Rasse an sich. Die Wahl des <a href="/de/ueber-uns/">Züchters</a> und der Einsatz des Halters sind entscheidend.</p>
+  <p>Das Wesen eines einzelnen Hundes hängt weit mehr von seiner konkreten Genetik (Blutlinien), der Sozialisierung und der Erziehung ab als von der Rasse an sich. Die Wahl des Züchters und der Einsatz des Halters sind entscheidend.</p>
   </div>
   <!--/BLOCCO:5-->
 

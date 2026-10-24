@@ -218,7 +218,7 @@ custom_content: |
 
   <div class="info-box">
   <p class="info-box-title">🐕 A note on temperament</p>
-  <p>An individual dog's temperament depends far more on its specific genetics (bloodlines), socialisation and upbringing than on the breed itself. The choice of <a href="/en/about-us/">breeder</a> and the owner's commitment are decisive factors.</p>
+  <p>An individual dog's temperament depends far more on its specific genetics (bloodlines), socialisation and upbringing than on the breed itself. The choice of breeder and the owner's commitment are decisive factors.</p>
   </div>
   <!--/BLOCCO:5-->
 

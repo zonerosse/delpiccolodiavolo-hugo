@@ -51,7 +51,7 @@ custom_content: |
   <div class="article-container">
   <article class="article-content">
 
-  <p>Nessun cane va lasciato solo con un bambino piccolo, di nessuna razza, e lo Staffordshire Bull Terrier non fa eccezione. Il soprannome inglese «nanny dog», legato alla frase dello standard che lo descrive affettuoso specialmente con i bambini, descrive una tolleranza reale, non una capacità di sorveglianza. Detto questo, uno Staffy ben selezionato e ben socializzato ha una soglia di reazione alta a toccate maldestre e rumori forti, cerca il contatto con le persone e impara in fretta le regole di casa. Il temperamento però varia da cane a cane, e la <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor e stimolazione precoce">socializzazione nelle prime settimane</a> pesa quanto la genetica. In pratica la sicurezza dipende dagli adulti: presentazioni guidate, regole diverse per ogni età del bambino, un posto dove il cane può ritirarsi, e la capacità di leggere i suoi segnali di stress prima che diventino un ringhio. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
+  <p>Nessun cane va lasciato solo con un bambino piccolo, di nessuna razza, e lo Staffordshire Bull Terrier non fa eccezione. Il soprannome inglese «nanny dog», legato alla frase dello standard che lo descrive affettuoso specialmente con i bambini, descrive una tolleranza reale, non una capacità di sorveglianza. Detto questo, uno Staffy ben selezionato e ben socializzato ha una soglia di reazione alta a toccate maldestre e rumori forti, cerca il contatto con le persone e impara in fretta le regole di casa. Il temperamento però varia da cane a cane, e la <a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Cuccioli socializzati: cosa vuol dire">socializzazione nelle prime settimane</a> pesa quanto la genetica. In pratica la sicurezza dipende dagli adulti: presentazioni guidate, regole diverse per ogni età del bambino, un posto dove il cane può ritirarsi, e la capacità di leggere i suoi segnali di stress prima che diventino un ringhio. Guida a cura dell'<a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento Del Piccolo Diavolo, che alleva Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
   <!--BLOCCO:2-->
   <h2>Da dove nasce la reputazione</h2>
@@ -227,7 +227,7 @@ custom_content: |
   <li><a href="/famiglia-anziani-rispetto-ritmi/" title="Staffy e anziani">Staffy e anziani</a></li>
   <li><a href="/famiglia-convivenza-altri-animali/" title="Altri animali">Convivenza con altri animali</a></li>
   <li><a href="/cuccioli-socializzazione-in-casa/" title="Socializzazione">Socializzazione nei primi mesi</a></li>
-  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento">Consigli prima di prendere un cucciolo</a></li>
+  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento che fa le cose per bene">Come riconoscere un allevamento che fa le cose per bene</a></li>
   </ul>
   </div>
 

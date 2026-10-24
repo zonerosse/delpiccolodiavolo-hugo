@@ -547,7 +547,7 @@ custom_content: |
   <li><a href="/de/staffordshire-bull-terrier-charakter-familienleben/" title="Staffordshire Bull Terrier: Charakter und Familienleben">Staffordshire Bull Terrier: Charakter und Familienleben</a></li>
   <li><a href="/de/staffy-aeltere-besitzer/" title="Staffordshire Bull Terrier für ältere Besitzer">Staffordshire Bull Terrier für ältere Besitzer</a></li>
   <li><a href="/de/welpen-sozialisierung-zuhause/" title="Welpen zu Hause sozialisieren: die Liste für die Familie">Welpen zu Hause sozialisieren: die Liste für die Familie</a></li>
-  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Tipps, bevor ein Welpe einzieht">Tipps, bevor ein Welpe einzieht</a></li>
+  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Woran man eine seriöse Zucht erkennt">Woran man eine seriöse Zucht erkennt</a></li>
   </ul>
   </div>
 
