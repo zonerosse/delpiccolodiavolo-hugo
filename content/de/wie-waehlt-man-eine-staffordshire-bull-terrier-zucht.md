@@ -49,7 +49,7 @@ lastmod: 2026-10-18
 <div class="section-inner content-single">
 
 
-<p>Um eine Staffordshire Bull Terrier Zucht zu erkennen, die gut arbeitet, muss man niemandem vertrauen: man muss wissen, wo man nachsieht. Gentest-Befunde gelten nur, wenn sie die Mikrochipnummer des Hundes tragen, sonst lassen sie sich keinem Tier zuordnen. <a href="/de/wie-man-eine-ahnentafel-liest/" title="Ahnentafel lesen: was die ENCI zeigt und was nicht">Die Ahnen lassen sich auf SBTPedigree prüfen</a>, dem internationalen Archiv der Rasse. Wie viele Würfe eine Hündin hatte, steht im Zuchtbuch des ENCI, wiederum ausgehend vom Mikrochip. Ausstellungstitel stehen in öffentlichen Katalogen, mit dem Namen des Richters. Einen Welpen vor dem 60. Lebenstag von der Mutter zu trennen ist in Italien gesetzlich verboten, und ins Ausland gehen Welpen später, weil sie die Tollwutimpfung brauchen. Acht Kriterien, jedes mit dem Weg, es zu prüfen: Sie gelten für die Zucht Del Piccolo Diavolo in Ostellato (Italien) genauso wie für jede andere.</p>
+<p>Um eine Staffordshire Bull Terrier Zucht zu erkennen, die gut arbeitet, muss man niemandem vertrauen: man muss wissen, wo man nachsieht. Gentest-Befunde gelten nur, wenn sie die Mikrochipnummer des Hundes tragen, sonst lassen sie sich keinem Tier zuordnen. Die Ahnen lassen sich auf SBTPedigree prüfen, dem internationalen Archiv der Rasse (<a href="/de/wie-man-eine-ahnentafel-liest/" title="Ahnentafel lesen: was die ENCI zeigt und was nicht">eine Ahnentafel lesen</a>). Wie viele Würfe eine Hündin hatte, steht im Zuchtbuch des ENCI, wiederum ausgehend vom Mikrochip. Ausstellungstitel stehen in öffentlichen Katalogen, mit dem Namen des Richters. Einen Welpen vor dem 60. Lebenstag von der Mutter zu trennen ist in Italien gesetzlich verboten, und ins Ausland gehen Welpen später, weil sie die Tollwutimpfung brauchen. Acht Kriterien, jedes mit dem Weg, es zu prüfen: Sie gelten für die Zucht Del Piccolo Diavolo in Ostellato (Italien) genauso wie für jede andere.</p>
 
 <p>Fast jede Zucht sagt dasselbe: getestete Hunde, Welpen im Haus aufgezogen, sorgfältige Selektion. Solche Aussagen kosten nichts, solange sie niemand prüft, und wer den ersten Welpen sucht, weiß selten, wo das Prüfen anfängt.</p>
 
@@ -69,7 +69,7 @@ lastmod: 2026-10-18
 
 <p><strong>Wie man es überprüft.</strong> Legen Sie beide Befunde nebeneinander und vergleichen Sie Krankheit für Krankheit. Wo ein Elternteil fehlt, fehlt die Garantie.</p>
 
-<p><strong>Unsere.</strong> Auf der Seite des <a href="/de/diario-allevamento/wurf-bilquis-black-jack-august-2026/" title="Wurf Bilquis, August 2026">Wurfes vom August 2026</a> steht genau das: die Welpen sind über die Eltern frei von L2-HGA und erblichem Katarakt, und sie sind es nicht für Hyperurikosurie und MDR1, weil wir dafür nur den Befund des Vaters haben.</p>
+<p><strong>Unsere.</strong> Auf der Seite des <a href="/de/diario-allevamento/wurf-bilquis-black-jack-august-2026/" title="Wurf Bilquis, August 2026">Wurfes Bilquis × Black Jack (August 2026)</a> steht genau das: die Welpen sind über die Eltern frei von L2-HGA und erblichem Katarakt, und sie sind es nicht für Hyperurikosurie und MDR1, weil wir dafür nur den Befund des Vaters haben.</p>
 
 <h2>3. Die Ahnentafel und wer darin steht</h2>
 
@@ -85,7 +85,7 @@ lastmod: 2026-10-18
 
 <p><strong>Wie man es überprüft.</strong> Sehen Sie sich die Wurfgeschichte an, nicht nur den aktuellen Wurf. Sind die Daten öffentlich, können Sie selbst zählen; sind sie es nicht, fragen Sie, wie viele Würfe in den letzten drei Jahren gefallen sind und von welchen Hündinnen. Eine vage Antwort auf eine Zahlenfrage ist bereits eine Antwort.</p>
 
-<p><strong>Unsere.</strong> Das <a href="/de/diario-allevamento/" title="Zuchttagebuch">Tagebuch</a> nennt die Daten der j&uuml;ngsten W&uuml;rfe, die fr&uuml;heren stehen im <a href="/de/wuerfe-staffordshire-bull-terrier/" title="Zuchtprogramm">Zuchtprogramm</a>: keiner verschwindet. Einer im Jahr, gelegentlich zwei, manchmal auch keiner.</p>
+<p><strong>Unsere.</strong> Das <a href="/de/diario-allevamento/" title="Zuchttagebuch">Zuchttagebuch</a> nennt die Daten der j&uuml;ngsten W&uuml;rfe, die fr&uuml;heren stehen im <a href="/de/wuerfe-staffordshire-bull-terrier/" title="Zuchtprogramm">Zuchtprogramm</a>: keiner verschwindet. Einer im Jahr, gelegentlich zwei, manchmal auch keiner.</p>
 
 <h2>5. Die Mutter, in echt</h2>
 
@@ -93,7 +93,7 @@ lastmod: 2026-10-18
 
 <p><strong>Wie man es überprüft.</strong> Bitten Sie darum, sie im Haus zu sehen, nicht auf Fotos, und achten Sie darauf, wie sie auf den Züchter reagiert. Ist die Mutter "beim Tierarzt" oder "bei einer Freundin", verliert der Besuch das meiste von seinem Sinn. Lehnen Sie Übergaben an der Autobahn und den Versand ab: das sind Methoden des Handels, nicht der Zucht.</p>
 
-<p><strong>Unsere.</strong> Die Zucht Del Piccolo Diavolo empfängt nach Terminvereinbarung in Ostellato, Provinz Ferrara. Sie sehen die Mütter, die <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Welpen</a> und das Haus, in dem sie aufwachsen.</p>
+<p><strong>Unsere.</strong> Die Zucht Del Piccolo Diavolo empfängt nach Terminvereinbarung in Ostellato, Provinz Ferrara. Sie sehen die Mütter, die <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Staffy-Welpen</a> und das Haus, in dem sie aufwachsen.</p>
 
 <h2>6. Was danach mit der Mutter geschieht</h2>
 
@@ -162,7 +162,7 @@ lastmod: 2026-10-18
 
 <h2>Nehmen Sie uns als Übung</h2>
 
-<p>Fast alle Kriterien oben lassen sich bei uns in einer halben Stunde überprüfen, ohne jemanden um Erlaubnis zu fragen: die Befunde stehen <a href="/de/huendinnen-staffordshire-bull-terrier/" title="Unsere Staffordshire Bull Terrier Hündinnen">auf den Seiten der Hunde</a>, die Ahnentafeln auf SBTPedigree, die Daten im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Tagebuch</a>. Für die Mutter und für die Fragen müssen Sie nach Ostellato kommen oder uns schreiben. Finden Sie etwas, das nicht stimmt, schreiben Sie uns.</p>
+<p>Fast alle Kriterien oben lassen sich bei uns in einer halben Stunde überprüfen, ohne jemanden um Erlaubnis zu fragen: die Befunde stehen auf den Seiten unserer <a href="/de/huendinnen-staffordshire-bull-terrier/" title="Unsere Staffordshire Bull Terrier Hündinnen">Staffy-Hündinnen</a> und Rüden, die Ahnentafeln auf SBTPedigree, die Daten im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Wurftagebuch</a>. Für die Mutter und für die Fragen müssen Sie nach Ostellato kommen oder uns schreiben. Finden Sie etwas, das nicht stimmt, schreiben Sie uns.</p>
 
 <p>Nehmen Sie dann dieselbe Liste mit zu den anderen. Das ist die beste Verwendung für diese Seite.</p>
 

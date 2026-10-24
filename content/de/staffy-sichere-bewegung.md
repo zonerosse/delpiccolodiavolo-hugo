@@ -50,7 +50,7 @@ custom_content: |
   <p>Der <strong>Staffordshire Bull Terrier</strong> wurde historisch als Arbeitshund selektiert, mit kräftiger Muskulatur, Ausdauer und viel Energie. Dieses Erbe braucht ein passendes Ventil in täglicher körperlicher Aktivität.</p>
   <p>Regelmäßige, passende Bewegung bringt:</p>
   <ul>
-  <li><strong>Körperliche Gesundheit:</strong> sie hält das Gewicht, die Muskeln straff, Herz und Lunge leistungsfähig; und das richtige Gewicht ist <a href="/de/wie-alt-wird-ein-staffordshire-bull-terrier/" title="Wie alt wird ein Staffordshire Bull Terrier">der stärkste Hebel für ein längeres Leben</a></li>
+  <li><strong>Körperliche Gesundheit:</strong> sie hält das Gewicht, die Muskeln straff, Herz und Lunge leistungsfähig; und das richtige Gewicht ist der stärkste Hebel für <a href="/de/wie-alt-wird-ein-staffordshire-bull-terrier/" title="Wie alt wird ein Staffordshire Bull Terrier">eine höhere Lebenserwartung des Staffy</a></li>
   <li><strong>Seelisches Gleichgewicht:</strong> sie beugt Langeweile, Angst, Zerstörungswut und Überdrehtheit vor</li>
   <li><strong>Sozialisierung:</strong> die Ausgänge sind Gelegenheiten, Menschen und andere Hunde zu treffen</li>
   <li><strong>Die Bindung zum Halter:</strong> gemeinsame aktive Zeit stärkt die Beziehung</li>
@@ -131,7 +131,7 @@ custom_content: |
 
   <!--BLOCCO:5-->
   <h2>Vorsicht bei Hitze: Hitzschlag vorbeugen</h2>
-  <p>Der <strong>Staffordshire Bull Terrier</strong> hat einen <a href="/de/boas-staffordshire-bull-terrier-atmung/" title="BOAS und Atmung beim Staffordshire Bull Terrier">Fang, der kürzer ist als bei vielen Rassen</a> (er ist keine brachyzephale Rasse, doch in manchen Linien ist der Fang zu kurz), der ihn <strong>hitzeempfindlicher</strong> macht als Rassen mit langem Fang. Die Kühlung durch Hecheln ist weniger wirksam.</p>
+  <p>Der <strong>Staffordshire Bull Terrier</strong> hat einen Fang, der kürzer ist als bei vielen Rassen (er ist keine brachyzephale Rasse, doch in manchen Linien ist der Fang zu kurz und <a href="/de/boas-staffordshire-bull-terrier-atmung/" title="BOAS und Atmung beim Staffordshire Bull Terrier">die Atmung des Staffy</a> leidet darunter), der ihn <strong>hitzeempfindlicher</strong> macht als Rassen mit langem Fang. Die Kühlung durch Hecheln ist weniger wirksam.</p>
   <h3>Die Risiken des Hitzschlags</h3>
   <p>Der <strong>Hitzschlag</strong> (Hyperthermie) ist ein tierärztlicher Notfall, der innerhalb von Minuten tödlich sein kann. Er tritt ein, wenn die Körpertemperatur über 40-41 °C steigt und der Hund sich nicht mehr abkühlen kann.</p>
   <p><strong>Risikofaktoren beim Staffy:</strong></p>

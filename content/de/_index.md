@@ -14,7 +14,7 @@ correlati:
     titolo: "Was ein Welpe kostet"
     testo: "Was hinter einem Welpen mit Ahnentafel steckt"
   - url: "/de/ist-der-staffordshire-bull-terrier-der-richtige-hund/"
-    titolo: "Ist es der richtige Hund für Sie?"
+    titolo: "Ist der Staffy der richtige Hund für Sie?"
     testo: "Stärken und Schwächen, ohne Filter"
   - url: "/de/kontakt/"
     titolo: "Kontakt und Besuch der Zucht"

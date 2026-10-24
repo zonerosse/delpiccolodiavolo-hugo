@@ -94,7 +94,7 @@ custom_content: |
 
   <p>Die <strong>degenerative Myelopathie</strong> ist eine Erkrankung des Rückenmarks, die im höheren Alter auftritt, meist nach dem achten Lebensjahr. Sie beginnt mit einem unsicheren Gang der Hinterbeine und verschlechtert sich fortschreitend bis zur Lähmung, innerhalb von einigen Monaten bis zu etwa zwei Jahren. Eine Heilung gibt es nicht. Die wichtigste Mutation, im Exon 2 des Gens <strong>SOD1</strong>, wurde 2009 beschrieben und kommt bei vielen Rassen vor. Sie wird rezessiv vererbt: Das Risiko betrifft Hunde mit zwei Kopien, auch wenn nicht alle erkranken. Gerade weil sie so spät auftritt, kann ein Risikohund schon mehrere Würfe gehabt haben, bevor die ersten Anzeichen erscheinen: Nur der DNA-Test zeigt es rechtzeitig. Ein Ergebnis N/N, oder „Wildtyp homozygot“, bedeutet, dass der Hund die Mutation nicht trägt und sie nicht weitergeben kann.</p>
 
-  <p>Unsere Hunde sind auch frei von degenerativer Myelopathie: Der SOD1-Test ist N/N. Die Befunde mit Mikrochipnummer stehen auf der <a href="/de/huendinnen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Hündinnen">Seite der Hündinnen</a>.</p>
+  <p>Unsere Hunde sind auch frei von degenerativer Myelopathie: Der SOD1-Test ist N/N. Die Befunde mit Mikrochipnummer stehen auf der Seite unserer <a href="/de/huendinnen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Hündinnen">Staffordshire Bull Terrier Hündinnen</a>.</p>
 
   <p class="fonti">Quellen: <a href="https://www.pnas.org/doi/10.1073/pnas.0812297106" target="_blank" rel="noopener" title="Awano et al., PNAS 2009" aria-label="Awano et al., PNAS 2009 (wird in einem neuen Tab geöffnet)">Awano et al., PNAS 2009</a>; <a href="https://vgl.ucdavis.edu/test/degenerative-myelopathy" target="_blank" rel="noopener" title="UC Davis Veterinary Genetics Laboratory" aria-label="UC Davis Veterinary Genetics Laboratory (wird in einem neuen Tab geöffnet)">UC Davis Veterinary Genetics Laboratory</a>; <a href="https://omia.org/OMIA001371/9615/" target="_blank" rel="noopener" title="OMIA 001371-9615" aria-label="OMIA, L-2-HGA beim Hund (wird in einem neuen Tab geöffnet)">OMIA, L-2-HGA beim Hund</a>; <a href="https://omia.org/OMIA001758/9615/" target="_blank" rel="noopener" title="OMIA 001758-9615" aria-label="OMIA, erblicher Katarakt HSF4 (wird in einem neuen Tab geöffnet)">OMIA, erblicher Katarakt HSF4</a> (Erbgang).</p>
   <!--/BLOCCO:5-->
@@ -146,7 +146,7 @@ custom_content: |
 
   <p>Die beiden mittleren Zeilen verdienen eine Anmerkung, denn über sie wird gestritten. Technisch bringen sie keine kranken Welpen hervor, weshalb manche Züchter sie für vertretbar halten. Aber sie lassen Träger-Welpen in Umlauf, in Familien, die sie eines Tages mit einem anderen Träger verpaaren könnten: das Problem ist nicht gelöst, es wird eine Generation weitergereicht und jemand anderem überlassen. <strong>Bei Del Piccolo Diavolo wird mit Trägern nicht gezüchtet</strong>, und die einzige Verpaarung, die wir in Betracht ziehen, ist die erste Zeile der Tabelle.</p>
 
-  <p>Die letzte Zeile ist der ganze Grund, warum es die Tests gibt: zwei gesunde Hunde, miteinander verpaart, bringen einen kranken Welpen von vier hervor. Von gesunden, freien Eltern auszugehen ist auch der erste Grund, warum ein Hund <a href="/de/wie-alt-wird-ein-staffordshire-bull-terrier/" title="Wie alt wird ein Staffordshire Bull Terrier">ein langes Leben erreicht</a>.</p>
+  <p>Die letzte Zeile ist der ganze Grund, warum es die Tests gibt: zwei gesunde Hunde, miteinander verpaart, bringen einen kranken Welpen von vier hervor. Von gesunden, freien Eltern auszugehen ist auch der erste Grund, warum ein <a href="/de/wie-alt-wird-ein-staffordshire-bull-terrier/" title="Wie alt wird ein Staffordshire Bull Terrier">Staffordshire Bull Terrier ein langes Leben erreicht</a>.</p>
 
   <!--BLOCCO:8-->
   <h2>Frei durch Abstammung</h2>
@@ -180,7 +180,7 @@ custom_content: |
   <p>Manche Züchter lassen Echokardiographien machen, um angeborene Herzerkrankungen wie Aorten- oder Pulmonalstenose auszuschließen, die in der Rasse selten, aber vorhanden sind.</p>
 
   <h3>Atmung</h3>
-  <p>Zunehmend wird auch die Atemqualität beurteilt. Der Staffordshire Bull Terrier ist keine brachyzephale Rasse, doch die Tendenz zu immer kürzeren Fängen in manchen Ausstellungslinien hat Folgen: Ein Hund, der bei Wärme oder nach mäßiger Bewegung Mühe hat, hat ein Wohlergehensproblem, wie gut er im Stand auch aussieht. Mehr dazu im Ratgeber zur <a href="/de/boas-staffordshire-bull-terrier-atmung/" title="BOAS und Atmung beim Staffordshire Bull Terrier">Atmung des Staffy</a>.</p>
+  <p>Zunehmend wird auch die Atemqualität beurteilt. Der Staffordshire Bull Terrier ist keine brachyzephale Rasse, doch die Tendenz zu immer kürzeren Fängen in manchen Ausstellungslinien hat Folgen: Ein Hund, der bei Wärme oder nach mäßiger Bewegung Mühe hat, hat ein Wohlergehensproblem, wie gut er im Stand auch aussieht. Mehr dazu im Ratgeber zu <a href="/de/boas-staffordshire-bull-terrier-atmung/" title="BOAS und Atmung beim Staffordshire Bull Terrier">BOAS und Atmung beim Staffy</a>.</p>
 
   <div class="blue-box">
   <p class="blue-box-title">📋 Gesundheits-Checkliste einer Zucht, die gut arbeitet</p>

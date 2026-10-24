@@ -49,7 +49,7 @@ lastmod: 2026-10-18
 <div class="section-inner content-single">
 
 
-<p>Riconoscere un allevamento di Staffordshire Bull Terrier che fa le cose per bene non richiede di fidarsi di nessuno: richiede di sapere dove guardare. I referti dei test genetici valgono solo se riportano il numero di microchip del cane, altrimenti non sono collegabili a nessun animale. <a href="/come-si-legge-un-pedigree/" title="Come si legge un pedigree">Le genealogie si consultano su SBTPedigree</a>, l'archivio internazionale della razza. Il numero di cucciolate di una femmina si controlla sul libro genealogico ENCI, sempre partendo dal microchip. I titoli in esposizione risultano dai cataloghi pubblici, con il nome del giudice. Separare un cucciolo dalla madre prima dei 60 giorni è vietato dalla legge italiana, e per l'estero i tempi si allungano perché serve l'antirabbica. Otto criteri, e per ognuno il modo di verificarlo: valgono sull'allevamento Del Piccolo Diavolo di Ostellato (FE) come su qualunque altro.</p>
+<p>Riconoscere un allevamento di Staffordshire Bull Terrier che fa le cose per bene non richiede di fidarsi di nessuno: richiede di sapere dove guardare. I referti dei test genetici valgono solo se riportano il numero di microchip del cane, altrimenti non sono collegabili a nessun animale. Le genealogie si consultano su SBTPedigree, l'archivio internazionale della razza (<a href="/come-si-legge-un-pedigree/" title="Come si legge un pedigree">come si legge un pedigree</a>). Il numero di cucciolate di una femmina si controlla sul libro genealogico ENCI, sempre partendo dal microchip. I titoli in esposizione risultano dai cataloghi pubblici, con il nome del giudice. Separare un cucciolo dalla madre prima dei 60 giorni è vietato dalla legge italiana, e per l'estero i tempi si allungano perché serve l'antirabbica. Otto criteri, e per ognuno il modo di verificarlo: valgono sull'allevamento Del Piccolo Diavolo di Ostellato (FE) come su qualunque altro.</p>
 
 <p>Quasi tutti gli allevamenti dicono le stesse cose: cani testati, cuccioli cresciuti in casa, selezione attenta. Sono affermazioni gratuite finché nessuno le controlla, e chi cerca il primo cucciolo raramente sa da dove cominciare a controllare.</p>
 
@@ -69,7 +69,7 @@ lastmod: 2026-10-18
 
 <p><strong>Come si verifica l'esenzione per discendenza.</strong> Metti in fila i due referti e confronta patologia per patologia. Dove manca un genitore, manca la garanzia.</p>
 
-<p><strong>Il nostro.</strong> Nella pagina della <a href="/diario-allevamento/cucciolata-bilquis-agosto-2026/" title="Cucciolata Bilquis, agosto 2026">cucciolata di agosto 2026</a> scriviamo esattamente questo: i cuccioli sono esenti per discendenza da L2-HGA e cataratta ereditaria, e non lo sono per iperuricosuria e MDR1, perché di quelle due abbiamo il referto del solo padre.</p>
+<p><strong>Il nostro.</strong> Nella pagina della <a href="/diario-allevamento/cucciolata-bilquis-agosto-2026/" title="Cucciolata Bilquis, agosto 2026">cucciolata di Bilquis e Black Jack (agosto 2026)</a> scriviamo esattamente questo: i cuccioli sono esenti per discendenza da L2-HGA e cataratta ereditaria, e non lo sono per iperuricosuria e MDR1, perché di quelle due abbiamo il referto del solo padre.</p>
 
 <h2>3. Il pedigree, e chi c'è dentro</h2>
 
@@ -85,7 +85,7 @@ lastmod: 2026-10-18
 
 <p><strong>Come si verifica il numero di cucciolate.</strong> Guarda la cronologia delle cucciolate, non solo quella in corso. Se le date sono pubbliche puoi contarle da solo; se non lo sono, chiedi quante ne sono nate negli ultimi tre anni e da quali femmine. Una risposta vaga a una domanda numerica è già una risposta.</p>
 
-<p><strong>Il nostro.</strong> Il <a href="/diario-allevamento/" title="Diario dell'allevamento">diario</a> riporta le date delle ultime cucciolate, e quelle degli anni prima stanno nel <a href="/programma-allevamento/" title="Programma di allevamento">programma di allevamento</a>: nessuna sparisce. Una l'anno, occasionalmente due, a volte nessuna.</p>
+<p><strong>Il nostro.</strong> Il <a href="/diario-allevamento/" title="Diario dell'allevamento">diario dell'allevamento</a> riporta le date delle ultime cucciolate, e quelle degli anni prima stanno nel <a href="/programma-allevamento/" title="Programma di allevamento">programma di allevamento</a>: nessuna sparisce. Una l'anno, occasionalmente due, a volte nessuna.</p>
 
 <h2>5. La madre, dal vivo</h2>
 
@@ -93,7 +93,7 @@ lastmod: 2026-10-18
 
 <p><strong>Come si verifica lo stato della madre.</strong> Chiedi di vederla in casa, non in foto, e osserva come reagisce all'allevatore. Se la madre "è dal veterinario" o "è a casa di un'amica", la visita perde gran parte del suo senso. Rifiuta la consegna in autogrill e la spedizione: sono modalità da commercio, non da allevamento.</p>
 
-<p><strong>Il nostro.</strong> L'allevamento Del Piccolo Diavolo riceve su appuntamento a Ostellato, in provincia di Ferrara. Si vedono le madri, i <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli</a> e la casa in cui crescono.</p>
+<p><strong>Il nostro.</strong> L'allevamento Del Piccolo Diavolo riceve su appuntamento a Ostellato, in provincia di Ferrara. Si vedono le madri, i <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli di Staffy</a> e la casa in cui crescono.</p>
 
 <h2>6. Cosa succede alla madre, dopo</h2>
 
@@ -162,7 +162,7 @@ lastmod: 2026-10-18
 
 <h2>Usaci come esercizio</h2>
 
-<p>Quasi tutti i criteri elencati qui sopra si verificano su Del Piccolo Diavolo in mezz'ora, senza chiedere niente a nessuno: i referti stanno <a href="/femmine-staffordshire-bull-terrier/" title="Le nostre femmine Staffordshire Bull Terrier">nelle pagine dei cani</a>, le genealogie su SBTPedigree, le date nel <a href="/diario-allevamento/" title="Diario dell'allevamento">diario</a>. Per la madre e per le domande, invece, devi venire a Ostellato o scriverci. Se trovi qualcosa che non torna, dimmelo.</p>
+<p>Quasi tutti i criteri elencati qui sopra si verificano su Del Piccolo Diavolo in mezz'ora, senza chiedere niente a nessuno: i referti stanno nelle pagine delle <a href="/femmine-staffordshire-bull-terrier/" title="Le nostre femmine Staffordshire Bull Terrier">femmine Staffy</a> e dei maschi, le genealogie su SBTPedigree, le date nel <a href="/diario-allevamento/" title="Diario dell'allevamento">diario delle cucciolate</a>. Per la madre e per le domande, invece, devi venire a Ostellato o scriverci. Se trovi qualcosa che non torna, dimmelo.</p>
 
 <p>Poi prendi la stessa lista e provala con gli altri. È il modo migliore di usare questa pagina.</p>
 

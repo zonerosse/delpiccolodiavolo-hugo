@@ -143,7 +143,7 @@ custom_content: |
 
   <p>La <strong>mielopatia degenerativa</strong> è una malattia del midollo spinale che compare in età avanzata, di solito dopo gli otto anni. Comincia con un'andatura incerta delle zampe posteriori e peggiora in modo progressivo fino alla paralisi, nell'arco di mesi o di un paio d'anni. Non esiste una cura. La mutazione principale, nell'esone 2 del gene <strong>SOD1</strong>, è stata descritta nel 2009 ed è presente in molte razze. Si eredita in modo recessivo: il rischio riguarda i cani che ne portano due copie, anche se non tutti si ammalano. Proprio perché si manifesta tardi, un cane a rischio può aver già fatto diverse cucciolate prima di mostrare i primi segni: il test del DNA è l'unico modo per saperlo in tempo. Un risultato N/N, o "wild type in omozigosi", significa che il cane non porta la mutazione e non può trasmetterla.</p>
 
-  <p>Da noi i cani sono esenti anche dalla mielopatia degenerativa: il test SOD1 risulta N/N. I referti, con il numero di microchip, sono sulla <a href="/femmine-staffordshire-bull-terrier/" title="Femmine Staffordshire Bull Terrier">pagina delle femmine</a>.</p>
+  <p>Da noi i cani sono esenti anche dalla mielopatia degenerativa: il test SOD1 risulta N/N. I referti, con il numero di microchip, sono sulla pagina delle <a href="/femmine-staffordshire-bull-terrier/" title="Femmine Staffordshire Bull Terrier">nostre femmine di Staffordshire Bull Terrier</a>.</p>
 
   <p class="fonti">Fonti: <a href="https://www.pnas.org/doi/10.1073/pnas.0812297106" target="_blank" rel="noopener" title="Awano et al., PNAS 2009" aria-label="Awano et al., PNAS 2009 (si apre in una nuova scheda)">Awano et al., PNAS 2009</a>; <a href="https://vgl.ucdavis.edu/test/degenerative-myelopathy" target="_blank" rel="noopener" title="UC Davis Veterinary Genetics Laboratory" aria-label="UC Davis Veterinary Genetics Laboratory (si apre in una nuova scheda)">UC Davis Veterinary Genetics Laboratory</a>; <a href="https://omia.org/OMIA001371/9615/" target="_blank" rel="noopener" title="OMIA 001371-9615" aria-label="OMIA, L-2-HGA nel cane (si apre in una nuova scheda)">OMIA, L-2-HGA nel cane</a>; <a href="https://omia.org/OMIA001758/9615/" target="_blank" rel="noopener" title="OMIA 001758-9615" aria-label="OMIA, cataratta ereditaria HSF4 (si apre in una nuova scheda)">OMIA, cataratta ereditaria HSF4</a> (modalità di trasmissione).</p>
   <!--/BLOCCO:5-->
@@ -216,7 +216,7 @@ custom_content: |
   </tbody>
   </table>
 
-  <p>L'ultima riga è la ragione per cui i test servono: due cani sani, accoppiati fra loro, producono un cucciolo malato su quattro. Partire da genitori sani ed esenti è anche il primo motivo per cui un cane <a href="/quanto-vive-staffordshire-bull-terrier/" title="Quanto vive lo Staffordshire Bull Terrier">arriva a vivere a lungo</a>.</p>
+  <p>L'ultima riga è la ragione per cui i test servono: due cani sani, accoppiati fra loro, producono un cucciolo malato su quattro. Partire da genitori sani ed esenti è anche il primo motivo per cui uno <a href="/quanto-vive-staffordshire-bull-terrier/" title="Quanto vive lo Staffordshire Bull Terrier">Staffordshire Bull Terrier arriva a vivere a lungo</a>.</p>
 
   <p>Le due righe centrali meritano una precisazione, perché sono quelle su cui si discute. Tecnicamente non producono cuccioli malati, ed è il motivo per cui qualcuno le considera accettabili. Ma lasciano in circolazione cuccioli portatori che finiscono in famiglie, e che un domani potrebbero riprodursi con un altro portatore: il problema non viene risolto, viene spostato di una generazione e affidato a qualcun altro. <strong>Nell'allevamento Del Piccolo Diavolo i portatori non entrano in riproduzione</strong>, e l'unico accoppiamento che consideriamo è il primo della tabella.</p>
   <!--/BLOCCO:6-->
@@ -277,7 +277,7 @@ custom_content: |
 
   <h3>La respirazione</h3>
 
-  <p>Sempre più spesso si valuta anche la respirazione. Lo Staffordshire Bull Terrier non è una razza brachicefala, ma la tendenza a musi sempre più corti in alcune linee da esposizione ha conseguenze: un cane che fatica con il caldo o dopo un esercizio moderato ha un problema di benessere, per quanto stia bene da fermo. Se ne parla nella guida sulla <a href="/boas-staffordshire-bull-terrier-respirazione/" title="BOAS e respirazione nello Staffordshire Bull Terrier">respirazione dello Staffy</a>.</p>
+  <p>Sempre più spesso si valuta anche la respirazione. Lo Staffordshire Bull Terrier non è una razza brachicefala, ma la tendenza a musi sempre più corti in alcune linee da esposizione ha conseguenze: un cane che fatica con il caldo o dopo un esercizio moderato ha un problema di benessere, per quanto stia bene da fermo. Se ne parla nella guida su <a href="/boas-staffordshire-bull-terrier-respirazione/" title="BOAS e respirazione nello Staffordshire Bull Terrier">BOAS e respirazione dello Staffy</a>.</p>
 
   <div class="blue-box">
   <p class="blue-box-title">📋 I controlli sanitari, in breve</p>
@@ -380,7 +380,7 @@ custom_content: |
   <h3>Articoli correlati</h3>
   <ul>
   <li><a href="/linee-sangue-staffordshire-bull-terrier/" title="Linee di sangue">Linee di sangue: storia e genealogia</a></li>
-  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento">Consigli prima di prendere un cucciolo</a></li>
+  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento">Come riconoscere un allevamento serio</a></li>
   <li><a href="/cuccioli-prime-vaccinazioni/" title="Prime vaccinazioni">Prime vaccinazioni del cucciolo</a></li>
   <li><a href="/cuccioli-alimentazione-iniziale/" title="Alimentazione">Alimentazione iniziale del cucciolo</a></li>
   </ul>

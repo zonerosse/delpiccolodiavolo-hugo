@@ -62,7 +62,7 @@ custom_content: |
   <p>Un esercizio regolare e appropriato garantisce:</p>
 
   <ul>
-  <li><strong>Salute fisica:</strong> mantiene peso forma, muscoli tonici, cuore e polmoni efficienti; e il peso forma è <a href="/quanto-vive-staffordshire-bull-terrier/" title="Quanto vive lo Staffordshire Bull Terrier">la leva che allunga di più la vita</a></li>
+  <li><strong>Salute fisica:</strong> mantiene peso forma, muscoli tonici, cuore e polmoni efficienti; e il peso forma è la leva che allunga di più <a href="/quanto-vive-staffordshire-bull-terrier/" title="Quanto vive lo Staffordshire Bull Terrier">la vita di uno Staffy</a></li>
   <li><strong>Equilibrio mentale:</strong> previene noia, ansia, comportamenti distruttivi e iperattività</li>
   <li><strong>Socializzazione:</strong> le uscite sono occasioni per incontrare persone e altri cani</li>
   <li><strong>Legame con il proprietario:</strong> il tempo attivo insieme rafforza la relazione</li>
@@ -162,7 +162,7 @@ custom_content: |
   <!--BLOCCO:5-->
   <h2>Attenzione al caldo: prevenire il colpo di calore</h2>
 
-  <p>Lo <strong>Staffordshire Bull Terrier</strong> ha il <a href="/boas-staffordshire-bull-terrier-respirazione/" title="BOAS e respirazione nello Staffordshire Bull Terrier">muso più corto di molte razze</a> (non è una razza brachicefala, ma in alcune linee il muso è troppo corto) che lo rende <strong>più sensibile al caldo</strong> rispetto a razze dal muso lungo. La termoregolazione attraverso l'ansimazione è meno efficiente.</p>
+  <p>Lo <strong>Staffordshire Bull Terrier</strong> ha il muso più corto di molte razze (non è una razza brachicefala, ma in alcune linee il muso è troppo corto e ne risente la <a href="/boas-staffordshire-bull-terrier-respirazione/" title="BOAS e respirazione nello Staffordshire Bull Terrier">respirazione dello Staffy</a>) che lo rende <strong>più sensibile al caldo</strong> rispetto a razze dal muso lungo. La termoregolazione attraverso l'ansimazione è meno efficiente.</p>
 
   <h3>Rischi del colpo di calore</h3>
 

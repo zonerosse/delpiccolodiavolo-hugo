@@ -48,7 +48,7 @@ The short answer: **there is no price list, and that is as it should be**. What 
 
 If you come across Staffordshire Bull Terrier puppies advertised for a few hundred euros, stop and ask yourself what is missing. Almost always, what you save now you pay later, at the vet.
 
-Below you will find what that price covers, what a litter really costs us, with the real figures, why cheap puppies are a risk, and how to spot a dealer. If you are not sure where to start, read first <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to choose a Staffordshire Bull Terrier breeder">how to choose a Staffordshire Bull Terrier breeder</a>.
+Below you will find what that price covers, what a litter really costs us, with the real figures, why cheap puppies are a risk, and how to spot a dealer. If you are not sure where to start, read first <a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a good breeder">how to recognise a good breeder</a>.
 
 
 <!--BLOCCO:2-->

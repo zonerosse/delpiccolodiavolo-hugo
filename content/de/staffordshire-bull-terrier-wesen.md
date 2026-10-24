@@ -13,7 +13,7 @@ slug: "staffordshire-bull-terrier-wesen"
 date: 2026-01-18
 correlati:
   - url: "/de/staffordshire-bull-terrier-charakter-familienleben/"
-    titolo: "Das Wesen im Alltag"
+    titolo: "Charakter und Familienleben"
     testo: "Kinder, andere Tiere, Wohnung: das Leben mit einem Staffy"
   - url: "/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/"
     titolo: "Die Zucht auswählen"
@@ -58,7 +58,7 @@ correlati:
 
 <section class="section">
 <div class="section-inner content-single">
-<p>Das Wesen des Staffordshire Bull Terrier ist kein Zufall: Es ist das Ergebnis gezielter Selektion und <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor und Frühstimulation: was die Forschung sagt">der ersten Lebenswochen</a>. Der Rassestandard beschreibt einen <strong>mutigen, zähen und gegenüber Menschen zuverlässigen</strong> Hund, und bei diesem letzten Punkt wiegt die Auswahl der Zuchttiere mehr als jede spätere Erziehung. Nachfragen sollte man bei etwas anderem: Als Terrier kann er gegenüber Artgenossen reaktiv sein, vor allem zwischen erwachsenen Hunden gleichen Geschlechts, und <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das wirklich heißt">frühe Sozialisierung</a> verringert das, beseitigt es aber nicht. Das Wesen beurteilt man an den Eltern und Wurfgeschwistern, nicht an einem einzelnen Welpen mit drei Wochen. Ein Ratgeber von Del Piccolo Diavolo, <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Staffordshire Bull Terrier Züchter</a> in Ostellato (Ferrara, Italien) seit dem Jahr 2013.</p>
+<p>Das Wesen des Staffordshire Bull Terrier ist kein Zufall: Es ist das Ergebnis gezielter Selektion und der ersten Lebenswochen, samt <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor und Frühstimulation: was die Forschung sagt">Frühstimulation</a>. Der Rassestandard beschreibt einen <strong>mutigen, zähen und gegenüber Menschen zuverlässigen</strong> Hund, und bei diesem letzten Punkt wiegt die Auswahl der Zuchttiere mehr als jede spätere Erziehung. Nachfragen sollte man bei etwas anderem: Als Terrier kann er gegenüber Artgenossen reaktiv sein, vor allem zwischen erwachsenen Hunden gleichen Geschlechts, und <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das wirklich heißt">frühe Sozialisierung</a> verringert das, beseitigt es aber nicht. Das Wesen beurteilt man an den Eltern und Wurfgeschwistern, nicht an einem einzelnen Welpen mit drei Wochen. Ein Ratgeber von Del Piccolo Diavolo, <a href="/de/" title="Staffordshire Bull Terrier Züchter Del Piccolo Diavolo">Staffordshire Bull Terrier Züchter</a> in Ostellato (Ferrara, Italien) seit dem Jahr 2013.</p>
 
 <h2>Ein Wesen, das gebaut wurde, nicht zufällig entstand</h2>
 
@@ -74,7 +74,7 @@ correlati:
 
 <p>Der letzte Ausdruck verdient Aufmerksamkeit, denn er ist beinahe einzigartig. Nur wenige Rassestandards verwenden ein Wort wie "zuverlässig" für das Verhältnis zum Menschen: die meisten sprechen von Wachsamkeit, Zurückhaltung gegenüber Fremden, Schutztrieb. Hier wird Zuverlässigkeit als grundlegendes Merkmal benannt.</p>
 
-<p>Der <a href="https://www.enci.it/media/2347/076.pdf" title="FCI-Standard Nr. 76, offizielles ENCI-PDF" target="_blank" rel="noopener" aria-label="FCI-Standard Nr. 76, offizielles ENCI-PDF (wird in einem neuen Tab geöffnet)">Standard</a> ergänzt <em>highly intelligent and affectionate especially with children</em>: sehr intelligent und anhänglich, besonders gegenüber Kindern. Aus dieser Formulierung stammt der Beiname "nanny dog", ein Ausdruck, mit dem man vorsichtig umgehen sollte. Den Alltag behandeln wir ausführlich im <a href="/de/staffordshire-bull-terrier-charakter-familienleben/">Beitrag über das Familienleben</a>.</p>
+<p>Der <a href="https://www.enci.it/media/2347/076.pdf" title="FCI-Standard Nr. 76, offizielles ENCI-PDF" target="_blank" rel="noopener" aria-label="FCI-Standard Nr. 76, offizielles ENCI-PDF (wird in einem neuen Tab geöffnet)">Standard</a> ergänzt <em>highly intelligent and affectionate especially with children</em>: sehr intelligent und anhänglich, besonders gegenüber Kindern. Aus dieser Formulierung stammt der Beiname "nanny dog", ein Ausdruck, mit dem man vorsichtig umgehen sollte. Den Alltag behandeln wir ausführlich im Beitrag über <a href="/de/staffordshire-bull-terrier-charakter-familienleben/">Charakter und Familienleben des Staffy</a>.</p>
 
 <h2>Die Kehrseite: die Zähigkeit</h2>
 
@@ -86,9 +86,9 @@ correlati:
 
 <h2>Was wir konkret selektieren</h2>
 
-<p>In unserer <a href="/de/">Zucht</a> ist Wesen kein Wunsch, sondern ein Ausschlusskriterium. Ein Hund mit ausgeprägter Unsicherheit, übermäßiger Reaktivität oder Misstrauen gegenüber Menschen kommt nicht ins Zuchtprogramm, wie korrekt sein Körperbau auch sein mag.</p>
+<p>In unserer <a href="/de/">Staffordshire Bull Terrier Zucht</a> ist Wesen kein Wunsch, sondern ein Ausschlusskriterium. Ein Hund mit ausgeprägter Unsicherheit, übermäßiger Reaktivität oder Misstrauen gegenüber Menschen kommt nicht ins Zuchtprogramm, wie korrekt sein Körperbau auch sein mag.</p>
 
-<p>Der Grund ist praktisch: Anatomie lässt sich in zwei oder drei Generationen durch gute Partnerwahl korrigieren, Wesen nicht. Ein Wesensfehler vererbt sich über viele Generationen und <a href="/de/staffordshire-in-der-familie-geschichten/" title="Staffordshire Bull Terrier in der Familie: wahre Geschichten">zeigt sich in Familien</a>, nicht im Ring.</p>
+<p>Der Grund ist praktisch: Anatomie lässt sich in zwei oder drei Generationen durch gute Partnerwahl korrigieren, Wesen nicht. Ein Wesensfehler vererbt sich über viele Generationen und zeigt sich in Familien, nicht im Ring.</p>
 
 <p>Das bedeutet auch, gelegentlich auf sehr schöne Hunde zu verzichten. Das ist der Preis ehrlicher Selektion.</p>
 

@@ -13,7 +13,7 @@ slug: "staffordshire-bull-terrier-temperament"
 date: 2026-01-18
 correlati:
   - url: "/en/staffordshire-bull-terrier-character-family-life/"
-    titolo: "The character in daily life"
+    titolo: "Character and family life"
     testo: "Children, other animals, flat living: what it is like to live with a Staffy"
   - url: "/en/how-to-choose-a-staffordshire-bull-terrier-breeder/"
     titolo: "How to choose the breeder"
@@ -58,7 +58,7 @@ correlati:
 
 <section class="section">
 <div class="section-inner content-single">
-<p>The temperament of the Staffordshire Bull Terrier is no accident: it is the result of deliberate selection and of <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor and early stimulation: what research says">the first weeks of life</a>. The breed standard describes a dog that is <strong>bold, tenacious and reliable with people</strong>, and on that last point the choice of breeding dogs weighs more than any later training. The trait worth asking about is a different one: as a terrier, it can be reactive towards other dogs, especially between adults of the same sex, and <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it really means">early socialisation</a> reduces this without removing it. Temperament is judged by looking at the parents and littermates, not at a single puppy at three weeks. A guide by Del Piccolo Diavolo, a <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Staffordshire Bull Terrier breeder</a> in Ostellato (Ferrara, Italy) since 2013.</p>
+<p>The temperament of the Staffordshire Bull Terrier is no accident: it is the result of deliberate selection and of the first weeks of life, including <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor and early stimulation: what research says">early stimulation</a>. The breed standard describes a dog that is <strong>bold, tenacious and reliable with people</strong>, and on that last point the choice of breeding dogs weighs more than any later training. The trait worth asking about is a different one: as a terrier, it can be reactive towards other dogs, especially between adults of the same sex, and <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it really means">early socialisation</a> reduces this without removing it. Temperament is judged by looking at the parents and littermates, not at a single puppy at three weeks. A guide by Del Piccolo Diavolo, a <a href="/en/" title="Staffordshire Bull Terrier breeder Del Piccolo Diavolo">Staffordshire Bull Terrier breeder</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
 <h2>A character that was built, not inherited by chance</h2>
 
@@ -74,7 +74,7 @@ correlati:
 
 <p>That last phrase deserves attention, because it is almost unique. Very few breed <a href="https://www.enci.it/media/2347/076.pdf" title="FCI standard no. 76, official ENCI PDF" target="_blank" rel="noopener" aria-label="FCI standard no. 76, official ENCI PDF (opens in a new tab)">standard</a>s use a word like "reliable" about the relationship with people: most speak of alertness, reserve with strangers, guarding instinct. Here reliability is stated as a constitutive trait.</p>
 
-<p>The standard adds <em>highly intelligent and affectionate especially with children</em>. It is from this wording that the "nanny dog" nickname comes, an expression to handle with care. We deal with everyday life in the <a href="/en/staffordshire-bull-terrier-character-family-life/">guide on family living</a>, where the subject is treated at length.</p>
+<p>The standard adds <em>highly intelligent and affectionate especially with children</em>. It is from this wording that the "nanny dog" nickname comes, an expression to handle with care. We deal with everyday life in the guide on the <a href="/en/staffordshire-bull-terrier-character-family-life/">Staffy's character and family life</a>, where the subject is treated at length.</p>
 
 <h2>The other side: tenacity</h2>
 
@@ -86,7 +86,7 @@ correlati:
 
 <h2>What we select for, in practice</h2>
 
-<p>In our <a href="/en/">kennel</a> character is not an aspiration but a criterion for exclusion. A dog showing marked insecurity, excessive reactivity or wariness of people does not enter the breeding programme, however correct its conformation.</p>
+<p>In our <a href="/en/">Staffordshire Bull Terrier kennel</a> character is not an aspiration but a criterion for exclusion. A dog showing marked insecurity, excessive reactivity or wariness of people does not enter the breeding programme, however correct its conformation.</p>
 
 <p>The reason is practical: conformation can be corrected in two or three generations by choosing partners well, character cannot. A temperament fault propagates for many generations and shows itself in family homes, not in the ring.</p>
 

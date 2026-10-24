@@ -48,7 +48,7 @@ Die kurze Antwort: **es gibt keine Preisliste, und das ist auch richtig so**. Be
 
 Wenn Ihnen Staffordshire Bull Terrier Welpen für wenige hundert Euro angeboten werden, halten Sie inne und fragen Sie sich, was fehlt. Fast immer zahlen Sie das, was Sie jetzt sparen, später beim Tierarzt.
 
-Hier unten steht, was in diesem Preis enthalten ist, was uns ein Wurf mit echten Zahlen kostet, warum billige Welpen ein Risiko sind und woran man einen Vermehrer erkennt. Wenn Sie noch nicht wissen, wo Sie anfangen sollen, lesen Sie zuerst <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie wählt man eine Staffordshire Bull Terrier Zucht">wie man eine Staffordshire Bull Terrier Zucht auswählt</a>.
+Hier unten steht, was in diesem Preis enthalten ist, was uns ein Wurf mit echten Zahlen kostet, warum billige Welpen ein Risiko sind und woran man einen Vermehrer erkennt. Wenn Sie noch nicht wissen, wo Sie anfangen sollen, lesen Sie zuerst <a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie man eine gute Zucht erkennt">wie man eine gute Zucht erkennt</a>.
 
 
 <!--BLOCCO:2-->

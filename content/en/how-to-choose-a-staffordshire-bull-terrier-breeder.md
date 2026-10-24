@@ -49,7 +49,7 @@ lastmod: 2026-10-18
 <div class="section-inner content-single">
 
 
-<p>Recognising a Staffordshire Bull Terrier breeder who does things properly does not require trusting anyone: it requires knowing where to look. Genetic test certificates are only valid if they carry the dog's microchip number, otherwise they cannot be tied to any animal. <a href="/en/how-to-read-a-pedigree/" title="How to read a pedigree: what ENCI shows and what it doesn't">Genealogies can be checked on SBTPedigree</a>, the breed's international archive. The number of litters a bitch has had is checked in the ENCI stud book, again starting from the microchip. Show titles appear in public catalogues, with the judge's name. Separating a puppy from its mother before 60 days of age is prohibited by Italian law, and puppies going abroad leave later because they need a rabies vaccination. Eight criteria, each with the way to check it: they apply to the Del Piccolo Diavolo kennel in Ostellato, Italy, as much as to any other.</p>
+<p>Recognising a Staffordshire Bull Terrier breeder who does things properly does not require trusting anyone: it requires knowing where to look. Genetic test certificates are only valid if they carry the dog's microchip number, otherwise they cannot be tied to any animal. Genealogies can be checked on SBTPedigree, the breed's international archive (<a href="/en/how-to-read-a-pedigree/" title="How to read a pedigree: what ENCI shows and what it doesn't">reading a pedigree</a>). The number of litters a bitch has had is checked in the ENCI stud book, again starting from the microchip. Show titles appear in public catalogues, with the judge's name. Separating a puppy from its mother before 60 days of age is prohibited by Italian law, and puppies going abroad leave later because they need a rabies vaccination. Eight criteria, each with the way to check it: they apply to the Del Piccolo Diavolo kennel in Ostellato, Italy, as much as to any other.</p>
 
 <p>Nearly every kennel says the same things: tested dogs, puppies raised indoors, careful selection. Those claims cost nothing until somebody checks them, and a first-time owner rarely knows where to start checking.</p>
 
@@ -69,7 +69,7 @@ lastmod: 2026-10-18
 
 <p><strong>How to verify.</strong> Put the two certificates side by side and compare condition by condition. Where a parent is missing, the guarantee is missing.</p>
 
-<p><strong>Ours.</strong> On the page for the <a href="/en/diario-allevamento/bilquis-black-jack-litter-august-2026/" title="Bilquis litter, August 2026">August 2026 litter</a> we say exactly this: the puppies are clear by parentage for L2-HGA and hereditary cataract, and they are not for hyperuricosuria and MDR1, because for those two we hold the sire's certificate only.</p>
+<p><strong>Ours.</strong> On the page for the <a href="/en/diario-allevamento/bilquis-black-jack-litter-august-2026/" title="Bilquis litter, August 2026">Bilquis × Black Jack litter (August 2026)</a> we say exactly this: the puppies are clear by parentage for L2-HGA and hereditary cataract, and they are not for hyperuricosuria and MDR1, because for those two we hold the sire's certificate only.</p>
 
 <h2>3. The pedigree, and who is inside it</h2>
 
@@ -85,7 +85,7 @@ lastmod: 2026-10-18
 
 <p><strong>How to verify.</strong> Look at the history of the litters, not only the current one. If the dates are public you can count them yourself; if they are not, ask how many litters have been born in the last three years and from which females. A vague answer to a numerical question is already an answer.</p>
 
-<p><strong>Ours.</strong> The <a href="/en/diario-allevamento/" title="Breeding diary">diary</a> carries the dates of the recent litters, and the earlier ones are in the <a href="/en/litters-staffordshire-bull-terrier/" title="Breeding programme">breeding programme</a>: none of them disappears. One a year, occasionally two, sometimes none at all.</p>
+<p><strong>Ours.</strong> The <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a> carries the dates of the recent litters, and the earlier ones are in the <a href="/en/litters-staffordshire-bull-terrier/" title="Breeding programme">breeding programme</a>: none of them disappears. One a year, occasionally two, sometimes none at all.</p>
 
 <h2>5. The mother, in person</h2>
 
@@ -93,7 +93,7 @@ lastmod: 2026-10-18
 
 <p><strong>How to verify.</strong> Ask to see her in the house, not in photographs, and watch how she reacts to the breeder. If the mother "is at the vet" or "is staying with a friend", the visit loses most of its point. Refuse motorway handovers and shipping: those are the methods of trade, not of breeding.</p>
 
-<p><strong>Ours.</strong> The Del Piccolo Diavolo kennel receives visitors by appointment in Ostellato, in the province of Ferrara. You see the mothers, the <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">puppies</a> and the house they grow up in.</p>
+<p><strong>Ours.</strong> The Del Piccolo Diavolo kennel receives visitors by appointment in Ostellato, in the province of Ferrara. You see the mothers, the <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffy puppies</a> and the house they grow up in.</p>
 
 <h2>6. What happens to the mother afterwards</h2>
 
@@ -162,7 +162,7 @@ lastmod: 2026-10-18
 
 <h2>Use us as the exercise</h2>
 
-<p>Almost all the criteria above can be checked on us in half an hour, without asking anyone's permission: the certificates are <a href="/en/females-staffordshire-bull-terrier/" title="Our Staffordshire Bull Terrier females">on the pages of our dogs</a>, the genealogies on SBTPedigree, the dates in the <a href="/en/diario-allevamento/" title="Breeding diary">diary</a>. For the mother and for the questions, you need to come to Ostellato or write to us. If you find something that does not add up, tell us.</p>
+<p>Almost all the criteria above can be checked on us in half an hour, without asking anyone's permission: the certificates are on the pages of our <a href="/en/females-staffordshire-bull-terrier/" title="Our Staffordshire Bull Terrier females">female Staffies</a> and males, the genealogies on SBTPedigree, the dates in the <a href="/en/diario-allevamento/" title="Breeding diary">litter diary</a>. For the mother and for the questions, you need to come to Ostellato or write to us. If you find something that does not add up, tell us.</p>
 
 <p>Then take the same list to the others. That is the best use for this page.</p>
 

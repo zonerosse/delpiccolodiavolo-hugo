@@ -83,7 +83,7 @@ custom_content: |
 
   <p><strong>Katzen, Pferde, Hühner</strong>, wenn keine da sind. <strong>Aufzug, Leine auf der Straße, ein echter Besuch beim Tierarzt</strong>, und das ist nicht die erste Impfung in der Zucht.</p>
 
-  <p>Das gilt auch für uns, und das muss man sagen: <strong>andere Tiere gibt es hier nicht</strong>. Höchstens läuft ab und zu eine Nachbarskatze über den Hof. Ein Welpe, der von uns geht, hat nie ein Huhn oder ein Pferd gesehen. Wenn die neue Familie welche hat, <a href="/de/staffy-andere-haustiere/" title="Staffordshire Bull Terrier mit anderen Haustieren">wird diese Arbeit dort gemacht</a>.</p>
+  <p>Das gilt auch für uns, und das muss man sagen: <strong>andere Tiere gibt es hier nicht</strong>. Höchstens läuft ab und zu eine Nachbarskatze über den Hof. Ein Welpe, der von uns geht, hat nie ein Huhn oder ein Pferd gesehen. Wenn die neue Familie welche hat, wird das <a href="/de/staffy-andere-haustiere/" title="Staffordshire Bull Terrier mit anderen Haustieren">Zusammenleben mit anderen Haustieren</a> dort aufgebaut.</p>
 
   <p><strong>Alleinbleiben.</strong> In der Zucht ist ein Welpe nie allein: Da sind die Geschwister, die Mutter, die Menschen. Das Alleinsein lernt er später, im neuen Zuhause. Und es gehört zu den Dingen, die am häufigsten schiefgehen.</p>
   <!--/BLOCCO:4-->
@@ -96,7 +96,7 @@ custom_content: |
   <p>Zwei Dinge sollte man wissen. Das erste betrifft die versprochenen Vorteile: mehr Stresstoleranz, ein leistungsfähigeres Herz, mehr Widerstand gegen Krankheiten. Sie stammen aus einem Militärprogramm der Siebzigerjahre, nicht aus unabhängigen Studien, die andere Forscher geprüft haben. Das zweite: Die ersten sechzehn Tage sind <strong>nicht die sensible Phase der Sozialisierung</strong>. Die beginnt später, ab der dritten Woche.</p>
 
   <p>Das heißt nicht, dass ENS schadet. Es heißt, dass mehr verspricht, als man weiß, wer ihn als Grund für einen ausgeglichenen Welpen nennt. Wir haben darüber im Beitrag <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor: was die Forschung wirklich sagt">was die Forschung wirklich über den Bio Sensor sagt</a> geschrieben.</p>
-  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Frühstimulation</span><h3>Bio Sensor: was die Forschung wirklich sagt</h3><p>Was die Bio-Sensor-Methode für Welpen verspricht und wie viel die Studien belegen.</p><a class="btn" href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor: was die Forschung wirklich sagt">Über Bio Sensor lesen</a></div></div>
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Frühstimulation</span><h3>Bio Sensor: was die Forschung wirklich sagt</h3><p>Was die Bio-Sensor-Methode für Welpen verspricht und wie viel die Studien belegen.</p><a class="btn" href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor: was die Forschung wirklich sagt">Bio Sensor: was die Forschung sagt</a></div></div>
 
   <p>Für diesen Artikel folgt daraus etwas Praktisches. <strong>Eine Zucht, die nur von den ersten sechzehn Tagen erzählt, erzählt vom unwichtigsten Teil.</strong> Die Frage ist, was ab der dritten Woche passiert ist.</p>
   <!--/BLOCCO:5-->

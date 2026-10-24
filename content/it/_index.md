@@ -13,7 +13,7 @@ correlati:
     titolo: "Quanto costa un cucciolo"
     testo: "Cosa c'è dietro un cucciolo con pedigree"
   - url: "/staffordshire-bull-terrier-e-il-cane-giusto-per-te/"
-    titolo: "È il cane giusto per te?"
+    titolo: "Lo Staffy è il cane giusto per te?"
     testo: "Pregi e difetti, senza filtri"
   - url: "/allevamento-staffordshire-bull-terrier-in-emilia-romagna/"
     titolo: "Visita l'allevamento in Emilia-Romagna"

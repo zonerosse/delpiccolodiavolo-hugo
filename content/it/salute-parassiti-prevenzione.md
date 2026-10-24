@@ -183,7 +183,7 @@ custom_content: |
   <li><a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici">Test genetici L2-HGA e HC</a></li>
   <li><a href="/cuccioli-prime-vaccinazioni/" title="Prime vaccinazioni">Prime vaccinazioni del cucciolo</a></li>
   <li><a href="/cuccioli-alimentazione-iniziale/" title="Alimentazione">Alimentazione iniziale del cucciolo</a></li>
-  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento">Consigli prima di prendere un cucciolo</a></li>
+  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento">Come riconoscere un allevamento serio</a></li>
   </ul>
   </div>
 

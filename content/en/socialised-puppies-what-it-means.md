@@ -83,7 +83,7 @@ custom_content: |
 
   <p><strong>Cats, horses, poultry</strong>, if there are none. <strong>Lifts, the lead in the street, a real visit to the vet</strong>, which is not the first vaccination given at the kennel.</p>
 
-  <p>This applies to us too, and it is right to say so: <strong>there are no other animals here</strong>. At most a neighbour's cat crosses the courtyard now and then. A puppy leaving us has never seen a hen or a horse. If the new family has them, <a href="/en/staffy-other-pets/" title="Staffordshire Bull Terrier with other pets at home">that work is done there</a>.</p>
+  <p>This applies to us too, and it is right to say so: <strong>there are no other animals here</strong>. At most a neighbour's cat crosses the courtyard now and then. A puppy leaving us has never seen a hen or a horse. If the new family has them, <a href="/en/staffy-other-pets/" title="Staffordshire Bull Terrier with other pets at home">living with other pets</a> has to be built there.</p>
 
   <p><strong>Being left alone.</strong> At a kennel a puppy is never alone: there are its littermates, its mother, the people. Being alone is learned later, in the new home. And it is one of the things that most often goes wrong.</p>
   <!--/BLOCCO:4-->
@@ -96,7 +96,7 @@ custom_content: |
   <p>There are two things to know. The first is about the promised benefits: better stress tolerance, a more efficient heart, more resistance to disease. They come from a 1970s military programme, not from independent studies checked by other researchers. The second is that the first sixteen days <strong>are not the sensitive period for socialisation</strong>. That starts later, from the third week.</p>
 
   <p>That does not mean ENS does harm. It means that anyone presenting it as the reason their puppy will be well balanced is promising more than is known. We have written about it in our guide to <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor: what the research actually says">what the research actually says about Bio Sensor</a>.</p>
-  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Early stimulation</span><h3>Bio Sensor: what the research actually says</h3><p>What the Bio Sensor method promises for puppies and how much the studies prove.</p><a class="btn" href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor: what the research actually says">Read about Bio Sensor</a></div></div>
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Early stimulation</span><h3>Bio Sensor: what the research actually says</h3><p>What the Bio Sensor method promises for puppies and how much the studies prove.</p><a class="btn" href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor: what the research actually says">Bio Sensor: what the research says</a></div></div>
 
   <p>For this article there is a practical consequence. <strong>A kennel that only tells you about the first sixteen days is telling you the least important part.</strong> The question to ask is what happened from the third week on.</p>
   <!--/BLOCCO:5-->

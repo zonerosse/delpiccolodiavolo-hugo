@@ -13,7 +13,7 @@ slug: "staffordshire-bull-terrier-carattere"
 date: 2026-01-18
 correlati:
   - url: "/staffordshire-bull-terrier-carattere-vita-famiglia/"
-    titolo: "Il carattere nella vita quotidiana"
+    titolo: "Carattere e vita in famiglia"
     testo: "Bambini, altri animali, appartamento: come si vive con uno Staffy"
   - url: "/come-scegliere-allevamento-staffordshire-bull-terrier/"
     titolo: "Come scegliere l'allevamento"
@@ -58,7 +58,7 @@ correlati:
 
 <section class="section">
 <div class="section-inner content-single">
-<p>Il temperamento dello Staffordshire Bull Terrier non è un caso: è il risultato di una selezione precisa e delle <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor e stimolazione precoce">prime settimane di vita</a>. Lo standard di razza descrive un cane <strong>coraggioso, tenace e affidabile con le persone</strong>, e su quest'ultimo punto la selezione dei riproduttori pesa più di qualsiasi addestramento successivo. La componente su cui vale la pena informarsi è un'altra: essendo un terrier, può mostrare reattività verso i propri simili, soprattutto fra cani dello stesso sesso in età adulta, e la socializzazione precoce la riduce ma non la cancella. Un carattere si valuta guardando i genitori e i fratelli di cucciolata, non il singolo cucciolo a tre settimane. Guida a cura di Del Piccolo Diavolo, <a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento di Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
+<p>Il temperamento dello Staffordshire Bull Terrier non è un caso: è il risultato di una selezione precisa e delle prime settimane di vita, con la loro <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor e stimolazione precoce">stimolazione precoce</a>. Lo standard di razza descrive un cane <strong>coraggioso, tenace e affidabile con le persone</strong>, e su quest'ultimo punto la selezione dei riproduttori pesa più di qualsiasi addestramento successivo. La componente su cui vale la pena informarsi è un'altra: essendo un terrier, può mostrare reattività verso i propri simili, soprattutto fra cani dello stesso sesso in età adulta, e la socializzazione precoce la riduce ma non la cancella. Un carattere si valuta guardando i genitori e i fratelli di cucciolata, non il singolo cucciolo a tre settimane. Guida a cura di Del Piccolo Diavolo, <a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento di Staffordshire Bull Terrier</a> a Ostellato (FE) dal 2013.</p>
 
 <h2>Un carattere costruito, non ereditato per caso</h2>
 
@@ -74,7 +74,7 @@ correlati:
 
 <p>Quell'ultima espressione merita attenzione, perché è quasi unica. Sono pochissimi gli <a href="https://www.enci.it/media/2347/076.pdf" title="Standard FCI n. 76, PDF ufficiale ENCI" target="_blank" rel="noopener" aria-label="Standard FCI n. 76, PDF ufficiale ENCI (si apre in una nuova scheda)">standard</a> di razza che usano una parola come "affidabile" riferita al rapporto con le persone: la maggior parte parla di vigilanza, riservatezza verso gli estranei, istinto di guardia. Qui invece l'affidabilità è dichiarata come tratto costitutivo.</p>
 
-<p>Lo standard aggiunge <em>highly intelligent and affectionate especially with children</em>: molto intelligente e affettuoso, specialmente con i bambini. È da questa formulazione che nasce il soprannome di <em>nanny dog</em>, un'espressione da maneggiare con cautela: il tema della convivenza quotidiana lo trattiamo per esteso nella <a href="/staffordshire-bull-terrier-carattere-vita-famiglia/">guida sulla vita in famiglia</a>.</p>
+<p>Lo standard aggiunge <em>highly intelligent and affectionate especially with children</em>: molto intelligente e affettuoso, specialmente con i bambini. È da questa formulazione che nasce il soprannome di <em>nanny dog</em>, un'espressione da maneggiare con cautela: il tema della convivenza quotidiana lo trattiamo per esteso nella guida su <a href="/staffordshire-bull-terrier-carattere-vita-famiglia/">carattere e vita in famiglia dello Staffy</a>.</p>
 
 <h2>Il rovescio della medaglia: la tenacia</h2>
 
@@ -88,7 +88,7 @@ correlati:
 
 <p>Nell'<a href="/">allevamento Del Piccolo Diavolo</a> il carattere non è un auspicio ma un criterio di esclusione. Un soggetto che mostra insicurezza marcata, reattività eccessiva o diffidenza verso le persone non entra nel programma di riproduzione, per quanto sia corretto nella morfologia.</p>
 
-<p>La ragione è pratica: la morfologia si corregge in 2 o 3 generazioni scegliendo bene i partner, il carattere no. Un difetto caratteriale si propaga a lungo e si manifesta <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">nelle case delle famiglie</a>, non nel ring.</p>
+<p>La ragione è pratica: la morfologia si corregge in 2 o 3 generazioni scegliendo bene i partner, il carattere no. Un difetto caratteriale si propaga a lungo e si manifesta nelle case delle famiglie, non nel ring.</p>
 
 <p>Questo significa rinunciare, a volte, a soggetti bellissimi. È il costo di una selezione onesta.</p>
 

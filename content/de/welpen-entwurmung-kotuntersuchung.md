@@ -124,7 +124,7 @@ custom_content: |
   <!--BLOCCO:6-->
   <h2>Die laufende Behandlung</h2>
 
-  <p>Ein negativer Befund beendet das Programm nicht, er bestätigt es. Der Wurf schließt gerade eine Behandlung mit <strong>Fenbendazol über 6 aufeinanderfolgende Tage</strong> ab, gefolgt von einer Gabe <strong>Milbemycinoxim mit Praziquantel</strong> wenige Tage vor der ersten Impfung. Was eine solche Behandlung kostet, mit dem Apothekenbeleg, steht im Ratgeber <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/#costi-cucciolata" title="Was uns ein Wurf kostet, Posten für Posten">was uns ein Wurf kostet, Posten für Posten</a>.</p>
+  <p>Ein negativer Befund beendet das Programm nicht, er bestätigt es. Der Wurf schließt gerade eine Behandlung mit <strong>Fenbendazol über 6 aufeinanderfolgende Tage</strong> ab, gefolgt von einer Gabe <strong>Milbemycinoxim mit Praziquantel</strong> wenige Tage vor der ersten Impfung. Was eine solche Behandlung kostet, mit dem Apothekenbeleg, steht im Ratgeber zum <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/#costi-cucciolata" title="Welpenpreis beim Staffordshire Bull Terrier: was uns ein Wurf kostet">Welpenpreis beim Staffordshire Bull Terrier</a>, Posten für Posten.</p>
 
   <p>Die beiden Präparate überschneiden sich nicht, sie ergänzen sich. Fenbendazol deckt Spul-, Haken- und Peitschenwürmer ab und wirkt gegen Giardien, weshalb es über mehrere Tage und nicht als Einzeldosis gegeben wird. Das zweite bringt Praziquantel ein, das Standardmittel gegen Bandwürmer, <em>Dipylidium</em> eingeschlossen.</p>
 

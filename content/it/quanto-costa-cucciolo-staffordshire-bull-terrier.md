@@ -48,7 +48,7 @@ La risposta breve: **non esiste un listino, ed è giusto così**. Quello che puo
 
 Se trovi cuccioli di Staffordshire Bull Terrier a poche centinaia di euro, fermati e chiediti cosa manca. Quasi sempre quello che risparmi adesso lo paghi dopo, dal veterinario.
 
-Qui sotto trovi cosa include quel prezzo, quanto spendiamo noi per una cucciolata con le cifre vere, perché i cuccioli «economici» sono un rischio e come si riconosce un cagnaro. Se non sai ancora da dove iniziare, leggi prima <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento Staffordshire Bull Terrier">come scegliere un allevamento Staffordshire Bull Terrier</a>.
+Qui sotto trovi cosa include quel prezzo, quanto spendiamo noi per una cucciolata con le cifre vere, perché i cuccioli «economici» sono un rischio e come si riconosce un cagnaro. Se non sai ancora da dove iniziare, leggi prima <a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento serio">come riconoscere un allevamento serio</a>.
 
 
 <!--BLOCCO:2-->

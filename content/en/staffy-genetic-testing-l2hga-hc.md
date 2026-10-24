@@ -101,7 +101,7 @@ custom_content: |
 
   <p><strong>Degenerative myelopathy</strong> is a disease of the spinal cord that appears late in life, usually after eight years of age. It starts with an unsteady gait in the hind legs and gets progressively worse until paralysis, over a few months to a couple of years. There is no cure. The main mutation, in exon 2 of the <strong>SOD1</strong> gene, was described in 2009 and is found in many breeds. It is inherited recessively: the risk concerns dogs that carry two copies, although not all of them fall ill. Precisely because it shows so late, an at-risk dog may already have had several litters before the first signs appear: a DNA test is the only way to know in time. An N/N result, or "wild type homozygous", means the dog does not carry the mutation and cannot pass it on.</p>
 
-  <p>Our dogs are clear of degenerative myelopathy too: the SOD1 test is N/N. The reports, with the microchip number, are on the <a href="/en/females-staffordshire-bull-terrier/" title="Female Staffordshire Bull Terriers">females page</a>.</p>
+  <p>Our dogs are clear of degenerative myelopathy too: the SOD1 test is N/N. The reports, with the microchip number, are on the page of our <a href="/en/females-staffordshire-bull-terrier/" title="Female Staffordshire Bull Terriers">female Staffordshire Bull Terriers</a>.</p>
 
   <p class="fonti">Sources: <a href="https://www.pnas.org/doi/10.1073/pnas.0812297106" target="_blank" rel="noopener" title="Awano et al., PNAS 2009" aria-label="Awano et al., PNAS 2009 (opens in a new tab)">Awano et al., PNAS 2009</a>; <a href="https://vgl.ucdavis.edu/test/degenerative-myelopathy" target="_blank" rel="noopener" title="UC Davis Veterinary Genetics Laboratory" aria-label="UC Davis Veterinary Genetics Laboratory (opens in a new tab)">UC Davis Veterinary Genetics Laboratory</a>; <a href="https://omia.org/OMIA001371/9615/" target="_blank" rel="noopener" title="OMIA 001371-9615" aria-label="OMIA, L-2-HGA in the dog (opens in a new tab)">OMIA, L-2-HGA in the dog</a>; <a href="https://omia.org/OMIA001758/9615/" target="_blank" rel="noopener" title="OMIA 001758-9615" aria-label="OMIA, HSF4 hereditary cataract (opens in a new tab)">OMIA, HSF4 hereditary cataract</a> (mode of inheritance).</p>
   <!--/BLOCCO:5-->
@@ -153,7 +153,7 @@ custom_content: |
 
   <p>The two middle rows deserve a note, because they are the ones people argue about. Technically they produce no affected puppies, which is why some breeders consider them acceptable. But they leave carrier puppies in circulation, in families that may one day breed them with another carrier: the problem is not solved, it is moved one generation down and handed to someone else. <strong>At Del Piccolo Diavolo carriers are not bred</strong>, and the only mating we consider is the first row of the table.</p>
 
-  <p>The last row is the whole reason the tests exist: two healthy dogs, mated together, produce one sick puppy in four. Starting from healthy, clear parents is also the first reason a dog <a href="/en/how-long-staffordshire-bull-terrier-lives/" title="How long does a Staffordshire Bull Terrier live">goes on to live a long life</a>.</p>
+  <p>The last row is the whole reason the tests exist: two healthy dogs, mated together, produce one sick puppy in four. Starting from healthy, clear parents is also the first reason a <a href="/en/how-long-staffordshire-bull-terrier-lives/" title="How long does a Staffordshire Bull Terrier live">Staffordshire Bull Terrier goes on to live a long life</a>.</p>
 
   <!--BLOCCO:8-->
   <h2>Testing by parentage</h2>
@@ -187,7 +187,7 @@ custom_content: |
   <p>Some breeders have echocardiograms carried out to rule out congenital heart conditions such as aortic or pulmonary stenosis, rare but present in the breed.</p>
 
   <h3>Breathing</h3>
-  <p>Increasingly, breathing quality is being assessed as well. The Staffordshire Bull Terrier is not a brachycephalic breed, but the tendency towards ever shorter muzzles in some show lines has consequences, and a dog that struggles in warm weather or after moderate exercise has a welfare problem regardless of how it looks standing still. More on this in the guide to <a href="/en/boas-staffordshire-bull-terrier-breathing/" title="BOAS and breathing in the Staffordshire Bull Terrier">breathing in the Staffy</a>.</p>
+  <p>Increasingly, breathing quality is being assessed as well. The Staffordshire Bull Terrier is not a brachycephalic breed, but the tendency towards ever shorter muzzles in some show lines has consequences, and a dog that struggles in warm weather or after moderate exercise has a welfare problem regardless of how it looks standing still. More on this in the guide to <a href="/en/boas-staffordshire-bull-terrier-breathing/" title="BOAS and breathing in the Staffordshire Bull Terrier">BOAS and breathing in the Staffy</a>.</p>
 
   <div class="blue-box">
   <p class="blue-box-title">📋 Health checklist for a breeder who does things properly</p>

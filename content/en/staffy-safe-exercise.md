@@ -52,7 +52,7 @@ custom_content: |
   <p>The <strong>Staffordshire Bull Terrier</strong> was historically selected as a working dog, with powerful muscles, stamina and a great deal of energy. That genetic inheritance needs a proper outlet through daily physical activity.</p>
   <p>Regular, appropriate exercise gives:</p>
   <ul>
-  <li><strong>Physical health:</strong> it keeps the weight right, the muscles toned, the heart and lungs efficient; and the right weight is <a href="/en/how-long-staffordshire-bull-terrier-lives/" title="How long does a Staffordshire Bull Terrier live">the strongest lever for a longer life</a></li>
+  <li><strong>Physical health:</strong> it keeps the weight right, the muscles toned, the heart and lungs efficient; and the right weight is the strongest lever for <a href="/en/how-long-staffordshire-bull-terrier-lives/" title="How long does a Staffordshire Bull Terrier live">a longer Staffy lifespan</a></li>
   <li><strong>Mental balance:</strong> it prevents boredom, anxiety, destructive behaviour and hyperactivity</li>
   <li><strong>Socialisation:</strong> outings are chances to meet people and other dogs</li>
   <li><strong>The bond with the owner:</strong> active time together strengthens the relationship</li>
@@ -133,7 +133,7 @@ custom_content: |
 
   <!--BLOCCO:5-->
   <h2>Beware of heat: preventing heatstroke</h2>
-  <p>The <strong>Staffordshire Bull Terrier</strong> has a <a href="/en/boas-staffordshire-bull-terrier-breathing/" title="BOAS and breathing in the Staffordshire Bull Terrier">muzzle shorter than in many breeds</a> (it is not a brachycephalic breed, but in some lines the muzzle is too short) that makes it <strong>more sensitive to heat</strong> than long-muzzled breeds. Cooling by panting is less efficient.</p>
+  <p>The <strong>Staffordshire Bull Terrier</strong> has a muzzle shorter than in many breeds (it is not a brachycephalic breed, but in some lines the muzzle is too short and <a href="/en/boas-staffordshire-bull-terrier-breathing/" title="BOAS and breathing in the Staffordshire Bull Terrier">breathing in the Staffy</a> suffers) that makes it <strong>more sensitive to heat</strong> than long-muzzled breeds. Cooling by panting is less efficient.</p>
   <h3>The risks of heatstroke</h3>
   <p><strong>Heatstroke</strong> (hyperthermia) is a veterinary emergency that can be fatal within minutes. It happens when body temperature rises above 40-41 °C and the dog cannot cool down.</p>
   <p><strong>Risk factors in the Staffy:</strong></p>

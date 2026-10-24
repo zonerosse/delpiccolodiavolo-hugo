@@ -83,7 +83,7 @@ custom_content: |
 
   <p><strong>Gatti, cavalli, galline</strong>, se non ci sono. <strong>L'ascensore, il guinzaglio in strada, una visita vera dal veterinario</strong>, che non &egrave; la prima vaccinazione fatta in allevamento.</p>
 
-  <p>Vale anche per noi, ed &egrave; giusto dirlo: <strong>qui altri animali non ce ne sono</strong>. Al massimo passa dal cortile qualche gatto dei vicini. Un cucciolo che esce da noi non ha mai visto una gallina o un cavallo. Se la nuova famiglia ne ha, <a href="/famiglia-convivenza-altri-animali/" title="Staffy con altri animali: guida convivenza">quel lavoro va fatto l&igrave;</a>.</p>
+  <p>Vale anche per noi, ed &egrave; giusto dirlo: <strong>qui altri animali non ce ne sono</strong>. Al massimo passa dal cortile qualche gatto dei vicini. Un cucciolo che esce da noi non ha mai visto una gallina o un cavallo. Se la nuova famiglia ne ha, la <a href="/famiglia-convivenza-altri-animali/" title="Staffy con altri animali: guida convivenza">convivenza con altri animali</a> va costruita l&igrave;.</p>
 
   <p><strong>Restare da solo.</strong> In allevamento un cucciolo non &egrave; mai solo: ci sono i fratelli, la madre, le persone. Stare da solo lo impara dopo, nella casa nuova. Ed &egrave; una delle cose che pi&ugrave; spesso vanno storte.</p>
   <!--/BLOCCO:4-->
@@ -96,7 +96,7 @@ custom_content: |
   <p>Ci sono due cose da sapere. La prima riguarda i benefici promessi: pi&ugrave; tolleranza allo stress, cuore pi&ugrave; efficiente, pi&ugrave; resistenza alle malattie. Vengono da un programma militare degli anni Settanta, non da studi indipendenti controllati da altri ricercatori. La seconda &egrave; che i primi sedici giorni <strong>non sono il periodo sensibile per la socializzazione</strong>. Quello comincia dopo, dalla terza settimana.</p>
 
   <p>Non vuol dire che l'ENS faccia male. Vuol dire che chi lo presenta come il motivo per cui il suo cucciolo sar&agrave; equilibrato promette pi&ugrave; di quello che si sa. Ne abbiamo scritto nella guida su <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor: cosa dice davvero la ricerca">cosa dice davvero la ricerca sul Bio Sensor</a>.</p>
-  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Stimolazione precoce</span><h3>Bio Sensor: cosa dice davvero la ricerca</h3><p>Cosa promette il metodo Bio Sensor sui cuccioli e quanto è dimostrato dagli studi.</p><a class="btn" href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor: cosa dice davvero la ricerca">Leggi sul Bio Sensor</a></div></div>
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Stimolazione precoce</span><h3>Bio Sensor: cosa dice davvero la ricerca</h3><p>Cosa promette il metodo Bio Sensor sui cuccioli e quanto è dimostrato dagli studi.</p><a class="btn" href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor: cosa dice davvero la ricerca">Bio Sensor: cosa dice la ricerca</a></div></div>
 
   <p>Per questo articolo c'&egrave; una conseguenza pratica. <strong>Un allevamento che ti parla solo dei primi sedici giorni ti racconta la parte meno importante.</strong> La domanda da fare &egrave; cosa &egrave; successo dalla terza settimana in poi.</p>
   <!--/BLOCCO:5-->

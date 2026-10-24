@@ -14,7 +14,7 @@ correlati:
     titolo: "How much a puppy costs"
     testo: "What lies behind a puppy with a pedigree"
   - url: "/en/is-the-staffordshire-bull-terrier-right-for-you/"
-    titolo: "Is it the right dog for you?"
+    titolo: "Is the Staffy the right dog for you?"
     testo: "Strengths and drawbacks, unfiltered"
   - url: "/en/contact/"
     titolo: "Contact and kennel visits"

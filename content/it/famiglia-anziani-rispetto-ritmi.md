@@ -164,7 +164,7 @@ custom_content: |
   <li><a href="/famiglia-bambini-convivenza/" title="Bambini">Staffy e bambini: convivenza sicura</a></li>
   <li><a href="/famiglia-convivenza-altri-animali/" title="Altri animali">Convivenza con altri animali</a></li>
   <li><a href="/salute-esercizio-sicuro/" title="Esercizio">Esercizio fisico sicuro</a></li>
-  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento">Consigli prima di prendere un cucciolo</a></li>
+  <li><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come scegliere un allevamento">Come scegliere un allevamento di Staffy</a></li>
   </ul>
   </div>
 

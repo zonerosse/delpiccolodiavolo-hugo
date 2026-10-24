@@ -113,7 +113,7 @@ custom_content: |
   <li><a href="/de/welpen-sozialisierung-zuhause/" title="Welpen zu Hause sozialisieren: die Liste für die Familie">Welpen zu Hause sozialisieren: die Liste für die Familie</a></li>
   <li><a href="/de/welpen-erste-fuetterung/" title="Ernährung des Welpen in den ersten Monaten">Ernährung des Welpen in den ersten Monaten</a></li>
   <li><a href="/de/staffy-parasitenvorbeugung/" title="Parasitenvorbeugung für Staffordshire Bull Terrier">Parasitenvorbeugung für Staffordshire Bull Terrier</a></li>
-  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Zucht wählen">Staffordshire Bull Terrier Zucht erkennen, die gut arbeitet</a></li>
+  <li><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Zucht wählen">Eine Staffy-Zucht erkennen, die gut arbeitet</a></li>
   </ul>
   </div>
 
