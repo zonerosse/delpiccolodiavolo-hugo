@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier puppies"
 titleSeo: "Staffordshire Bull Terrier puppies, verifiable genetic tests"
 date: 2025-12-28
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 tipoPagina: "CollectionPage"
 notte: true
 translationKey: "cuccioli"
@@ -120,7 +120,7 @@ custom_content: |
   <p>The puppies are born in the house, in the whelping box, and stay there for about a month. It is the phase in which the mother does almost everything and contact with people matters more than anything else. Anyone who came to see them before thirty days saw them there. At around a month they move to a dedicated pen with access outdoors, for a practical reason anyone who has had a litter knows: at that age they make more mess than a lived-in house can take. From then on they come back inside in turns, two or three at a time and for a few hours. That way each one gets its share of home life: the family, the noises, the other dogs, the people coming through. Every litter born here, with parents, tests, examinations and growth photos, is told in the <a href="/en/diario-allevamento/" title="Breeding diary">breeding diary</a>.</p>
 
   <p>They get handled every day, hear the noises of the house, see people of all ages, meet the adult dogs under supervision and hear the road going past the courtyard. We follow no protocol: it is simply how they live here. And it is not enough, because when a puppy leaves, half of the sensitive window is still ahead of it. What a kennel can and cannot do is explained in <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it means">what &ldquo;socialised puppies&rdquo; means</a>.</p>
-  <p class="n-vedi"><a href="/en/bio-sensor-early-stimulation-puppies/">Bio Sensor: what the research actually says</a>. The ENS method, the evidence that is missing, and what counts in the first two months.</p>
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Early stimulation</span><h3>Bio Sensor: what the research actually says</h3><p>What the Bio Sensor method promises for puppies and how much the studies prove.</p><a class="btn" href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor: what the research actually says">Read about Bio Sensor</a></div></div>
   </div>
   <div class="zigzag-image">
   <img src="/images/foto1.avif" alt="Socialized Staffordshire Bull Terrier puppies at home" loading="lazy" decoding="async" width="400" height="484">

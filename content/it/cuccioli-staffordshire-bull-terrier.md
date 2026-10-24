@@ -2,7 +2,7 @@
 title: "Cuccioli Staffordshire Bull Terrier"
 titleSeo: "Cuccioli Staffordshire Bull Terrier con test verificabili"
 date: 2025-12-28
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 tipoPagina: "CollectionPage"
 notte: true
 translationKey: "cuccioli"
@@ -122,7 +122,7 @@ custom_content: |
   <p>Questa esposizione graduale e controllata cade nel periodo in cui un cucciolo costruisce la categoria &laquo;normale&raquo;: quello che incontra adesso non dovr&agrave; elaborarlo da adulto.</p>
   <p>Vuol dire essere presi in mano tutti i giorni, sentire i rumori di casa, vedere persone di ogni et&agrave; che entrano ed escono, incontrare i cani adulti sotto controllo, stare nel cortile con erba e terra e sentire la strada che passa. Non seguiamo un protocollo: &egrave; il modo in cui vivono qui. E non basta, perch&eacute; quando un cucciolo parte met&agrave; della finestra sensibile &egrave; ancora davanti a lui, e la passer&agrave; con la sua famiglia. Cosa si pu&ograve; fare in allevamento e cosa no, lo spieghiamo nella guida su <a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Cuccioli socializzati: cosa vuol dire">cosa vuol dire &laquo;cuccioli socializzati&raquo;</a>.</p>
   <p>Altre guide pratiche su socializzazione, alimentazione e salute sono nel nostro <a href="/blog/" title="Blog Staffordshire Bull Terrier">blog sullo Staffordshire Bull Terrier</a>.</p>
-  <p class="n-vedi"><a href="/bio-sensor-stimolazione-precoce-cuccioli/">Bio Sensor: cosa dice davvero la ricerca</a>. Il metodo ENS, le prove che mancano, e cosa conta davvero nei primi due mesi.</p>
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Stimolazione precoce</span><h3>Bio Sensor: cosa dice davvero la ricerca</h3><p>Cosa promette il metodo Bio Sensor sui cuccioli e quanto è dimostrato dagli studi.</p><a class="btn" href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor: cosa dice davvero la ricerca">Leggi sul Bio Sensor</a></div></div>
   </div>
   </div>
   </section>

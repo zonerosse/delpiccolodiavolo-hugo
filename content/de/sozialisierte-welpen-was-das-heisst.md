@@ -2,7 +2,7 @@
 title: "\"Bereits sozialisierte Welpen\": was das heißt"
 titleSeo: "Sozialisierte Welpen: was das wirklich heißt"
 date: 2026-09-26
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "socializzazione-affido"
 in_breve:
   - "„Sozialisierte Welpen“ **heißt gar nichts**, solange niemand sagt, womit."
@@ -96,6 +96,7 @@ custom_content: |
   <p>Zwei Dinge sollte man wissen. Das erste betrifft die versprochenen Vorteile: mehr Stresstoleranz, ein leistungsfähigeres Herz, mehr Widerstand gegen Krankheiten. Sie stammen aus einem Militärprogramm der Siebzigerjahre, nicht aus unabhängigen Studien, die andere Forscher geprüft haben. Das zweite: Die ersten sechzehn Tage sind <strong>nicht die sensible Phase der Sozialisierung</strong>. Die beginnt später, ab der dritten Woche.</p>
 
   <p>Das heißt nicht, dass ENS schadet. Es heißt, dass mehr verspricht, als man weiß, wer ihn als Grund für einen ausgeglichenen Welpen nennt. Wir haben darüber im Beitrag <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor: was die Forschung wirklich sagt">was die Forschung wirklich über den Bio Sensor sagt</a> geschrieben.</p>
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Frühstimulation</span><h3>Bio Sensor: was die Forschung wirklich sagt</h3><p>Was die Bio-Sensor-Methode für Welpen verspricht und wie viel die Studien belegen.</p><a class="btn" href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor: was die Forschung wirklich sagt">Über Bio Sensor lesen</a></div></div>
 
   <p>Für diesen Artikel folgt daraus etwas Praktisches. <strong>Eine Zucht, die nur von den ersten sechzehn Tagen erzählt, erzählt vom unwichtigsten Teil.</strong> Die Frage ist, was ab der dritten Woche passiert ist.</p>
   <!--/BLOCCO:5-->

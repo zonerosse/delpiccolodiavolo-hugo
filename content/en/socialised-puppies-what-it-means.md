@@ -2,7 +2,7 @@
 title: "\"Already socialised puppies\": what it really means"
 titleSeo: "Socialised puppies: what it really means"
 date: 2026-09-26
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "socializzazione-affido"
 in_breve:
   - "\"Socialised puppies\" **means nothing** until someone says with what."
@@ -96,6 +96,7 @@ custom_content: |
   <p>There are two things to know. The first is about the promised benefits: better stress tolerance, a more efficient heart, more resistance to disease. They come from a 1970s military programme, not from independent studies checked by other researchers. The second is that the first sixteen days <strong>are not the sensitive period for socialisation</strong>. That starts later, from the third week.</p>
 
   <p>That does not mean ENS does harm. It means that anyone presenting it as the reason their puppy will be well balanced is promising more than is known. We have written about it in our guide to <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor: what the research actually says">what the research actually says about Bio Sensor</a>.</p>
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Early stimulation</span><h3>Bio Sensor: what the research actually says</h3><p>What the Bio Sensor method promises for puppies and how much the studies prove.</p><a class="btn" href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor: what the research actually says">Read about Bio Sensor</a></div></div>
 
   <p>For this article there is a practical consequence. <strong>A kennel that only tells you about the first sixteen days is telling you the least important part.</strong> The question to ask is what happened from the third week on.</p>
   <!--/BLOCCO:5-->

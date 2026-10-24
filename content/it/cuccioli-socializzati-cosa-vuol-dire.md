@@ -2,7 +2,7 @@
 title: "Cuccioli già socializzati: cosa vuol dire davvero"
 titleSeo: "Cuccioli socializzati: cosa vuol dire davvero"
 date: 2026-09-26
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "socializzazione-affido"
 in_breve:
   - "«Cuccioli socializzati» **non vuol dire nulla** finché non si dice con cosa."
@@ -96,6 +96,7 @@ custom_content: |
   <p>Ci sono due cose da sapere. La prima riguarda i benefici promessi: pi&ugrave; tolleranza allo stress, cuore pi&ugrave; efficiente, pi&ugrave; resistenza alle malattie. Vengono da un programma militare degli anni Settanta, non da studi indipendenti controllati da altri ricercatori. La seconda &egrave; che i primi sedici giorni <strong>non sono il periodo sensibile per la socializzazione</strong>. Quello comincia dopo, dalla terza settimana.</p>
 
   <p>Non vuol dire che l'ENS faccia male. Vuol dire che chi lo presenta come il motivo per cui il suo cucciolo sar&agrave; equilibrato promette pi&ugrave; di quello che si sa. Ne abbiamo scritto nella guida su <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor: cosa dice davvero la ricerca">cosa dice davvero la ricerca sul Bio Sensor</a>.</p>
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Stimolazione precoce</span><h3>Bio Sensor: cosa dice davvero la ricerca</h3><p>Cosa promette il metodo Bio Sensor sui cuccioli e quanto è dimostrato dagli studi.</p><a class="btn" href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor: cosa dice davvero la ricerca">Leggi sul Bio Sensor</a></div></div>
 
   <p>Per questo articolo c'&egrave; una conseguenza pratica. <strong>Un allevamento che ti parla solo dei primi sedici giorni ti racconta la parte meno importante.</strong> La domanda da fare &egrave; cosa &egrave; successo dalla terza settimana in poi.</p>
   <!--/BLOCCO:5-->

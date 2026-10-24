@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Welpen"
 titleSeo: "Staffordshire Bull Terrier Welpen mit überprüfbaren Gentests"
 date: 2025-12-28
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 tipoPagina: "CollectionPage"
 notte: true
 translationKey: "cuccioli"
@@ -120,7 +120,7 @@ custom_content: |
   <p>Die Welpen kommen im Haus zur Welt, in der Wurfkiste, und bleiben dort etwa einen Monat. Es ist die Zeit, in der die Mutter fast alles macht und der Kontakt mit Menschen mehr zählt als alles andere. Wer sie vor dem dreißigsten Tag besucht hat, hat sie dort gesehen. Mit etwa einem Monat ziehen sie in einen eigenen Auslauf mit Zugang nach draußen, aus einem praktischen Grund, den jeder kennt, der einen Wurf hatte: In diesem Alter machen sie mehr Schmutz, als ein bewohntes Haus verkraftet. Von da an kommen sie abwechselnd wieder ins Haus, zu zweit oder zu dritt und für einige Stunden. So bekommt jeder seinen Teil des Familienlebens: die Familie, die Geräusche, die anderen Hunde, die Menschen, die vorbeikommen. Jeder hier geborene Wurf, mit Eltern, Tests, Untersuchungen und Fotos vom Aufwachsen, steht im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Zuchttagebuch</a>.</p>
 
   <p>Sie werden jeden Tag angefasst, hören die Geräusche des Hauses, sehen Menschen jeden Alters, treffen die erwachsenen Hunde unter Aufsicht und hören die Straße, die am Hof vorbeiführt. Wir folgen keinem Protokoll: So leben sie hier einfach. Und es reicht nicht, denn wenn ein Welpe geht, liegt die Hälfte der sensiblen Phase noch vor ihm. Was eine Zucht leisten kann und was nicht, erklären wir in <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das heißt">was &bdquo;sozialisierte Welpen&ldquo; heißt</a>.</p>
-  <p class="n-vedi"><a href="/de/bio-sensor-fruehstimulation-welpen/">Bio Sensor: was die Forschung wirklich sagt</a>. Die ENS-Methode, die fehlenden Belege und was in den ersten zwei Monaten zählt.</p>
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Frühstimulation</span><h3>Bio Sensor: was die Forschung wirklich sagt</h3><p>Was die Bio-Sensor-Methode für Welpen verspricht und wie viel die Studien belegen.</p><a class="btn" href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor: was die Forschung wirklich sagt">Über Bio Sensor lesen</a></div></div>
   </div>
   <div class="zigzag-image">
   <img src="/images/foto1.avif" alt="Sozialisierte Staffordshire Bull Terrier Welpen zu Hause" loading="lazy" decoding="async" width="400" height="484">
