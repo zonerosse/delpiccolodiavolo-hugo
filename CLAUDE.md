@@ -418,3 +418,20 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
   tutti; `pappaEt` nel browser). Anziano sterilizzato 1,3; nel cucciolo sterilizzato una frase spiega che conta la crescita.
 - 24/10/2026 (Paolo, anteprima-18, scelta C): la tendina «Carne muscolare» del BARF è divisa in gruppi (`<optgroup>`, mappa `CG` e testi `T.cg`
   nello script): Carne · Cuore e ventrigli (contano come carne) · Pesce · Uova · Aggiunti da te (alimenti di «Altro…»). Nuovi alimenti di carne: metterli in `CG`.
+
+## Riquadri comuni dei calcolatori: calcolatore-cane.js (24/10/2026, Paolo: anteprime 19-21 approvate, «le ultime linee guida»)
+- `static/js/calcolatore-cane.js` (`window.DPDCane.make(elemento,{lang,S,onChange})`) disegna i riquadri 1-4 (età con mezzi mesi, anni, «Anziano 8+»
+  e data di nascita; sesso, sterilizzato; peso con taglie e ±; forma vista dall'alto; movimento) ed è l'unico motore delle calorie per tutti e due i
+  calcolatori: crocchette (`calcolatore-crocchette.js`) e BARF (`calcolatore-barf.js`, che lo carica da solo se manca, es. pagina delle famiglie del
+  gestionale). Stile: classi `pp-*` dentro `.pp-nuovo` + regole `.dc-*` in fondo a `notte.css`. **Le tre pagine di ogni calcolatore caricano prima
+  `calcolatore-cane.js` e poi il proprio script, con lo stesso `?v=`: cambiarlo in tutte e sei dopo ogni modifica.**
+- Formule (FEDIAF luglio 2024 / NRC 2006): cucciolo 130 × kg^0,75 × 3,2 × (e^(−0,87 p) − 0,1), p = peso di oggi / peso da adulto, senza fattore
+  movimento; adulto 70 × kg^0,75 × 1,8/1,6 (8+ anni 1,4/1,3) × movimento; forma ±10%. Femmina intera da 12 mesi: «Momento» Nessuno / Accoppiata
+  (data della monta: fino al giorno 34 razione di prima, dal 35 132 × kg^0,75 + 26 × kg) / Allatta (data del parto e cuccioli: 145 × kg^0,75 +
+  kg × (24 n + 12 m) × L, L settimane 1-4 = 0,75/0,95/1,1/1,2 NRC, 5-8 = 0,9/0,65/0,4/0,2 stima nostra, dalla 9ª adulto). Tappe con le date in una
+  tendina chiusa (`details.dc-tld`). Tabella «Come cambia crescendo» o «Settimana per settimana» in tutti e due i calcolatori (`rows()`).
+- Le date non ridisegnano il proprio campo (aggiornamento a pezzi, `part()`): sull'iPhone il calendario restava chiuso al primo tocco.
+- Crescita oltre 15 kg da adulto: calcio minimo 2,5 g/1000 kcal (FEDIAF 2024, tabella III-3b), in tutti e due i calcolatori.
+- In fondo alle pagine «Le formule del calcolo e il perché» (stesso testo per le calorie nelle due pagine, IT/EN/DE), con lo studio Klein 2019
+  (l'equazione NRC può dare circa il 20% in più sotto i 6 mesi) fra le fonti.
+

@@ -1,7 +1,7 @@
 ---
 title: "BARF calculator: how much raw meat, bone and offal to feed a dog"
 date: 2026-10-23
-lastmod: 2026-10-23
+lastmod: 2026-10-24
 titleSeo: "BARF calculator: daily raw feeding amounts for dogs"
 translationKey: "calcolatore-barf"
 tags:
@@ -56,10 +56,10 @@ custom_content: |
   <details class="bf-info bf-prima">
   <summary>Before you start: where the numbers come from</summary>
   <ul>
-  <li><strong>Calories</strong>: resting energy 70 × weight<sup>0.75</sup>, multiplied by factors for age, neutering and activity (the same method as our kibble calculator). Puppies, pregnancy and nursing use the equations of the National Research Council (NRC, 2006).</li>
+  <li><strong>Calories</strong>: resting energy 70 × weight<sup>0.75</sup>, multiplied by factors for age, neutering and activity (the same method as our kibble calculator). Puppies, pregnancy (from the date of mating) and nursing (from the date of whelping, week by week) use the equations of the National Research Council (NRC, 2006). Formulas and reasons at the bottom of the page.</li>
   <li><strong>Split of the bowl</strong>: the most common BARF scheme in Europe, 80% animal part (50% meat, 20% tripe, 15% offal, 15% raw meaty bones) and 20% plant part (75% vegetables, 25% fruit).</li>
   <li><strong>Food values</strong>: the official database of the United States Department of Agriculture (USDA, Standard Reference 28); iodine from the 2020 USDA, FDA and NIH database. The calcium in raw meaty bones is an estimate.</li>
-  <li><strong>Reference requirements</strong>: FEDIAF 2021 guidelines, values per 1000 kcal (adult, growth, pregnancy and nursing).</li>
+  <li><strong>Reference requirements</strong>: FEDIAF guidelines, July 2024 edition, values per 1000 kcal (adult, growth, pregnancy and nursing).</li>
   </ul>
   </details>
 
@@ -84,16 +84,18 @@ custom_content: |
   <p>How much raw meat should a dog eat? The calculator above starts from the calories the dog needs and splits them across seven foods: muscle meat, tripe, liver, other offal, raw meaty bones, vegetables and fruit. An adult's calories are 70 times the weight raised to 0.75, times a factor for age, neutering and activity; for puppies and for pregnant and nursing bitches it uses the National Research Council equations. Then it adds up the nutrients of each food, taken from the USDA database, and compares them with the FEDIAF minimums per 1000 kcal. Where calcium, vitamin D or omega-3 fall short, it suggests an addition. If you don't have a food today, the shares of the others go up. The calculator comes from the <a href="/en/" title="Del Piccolo Diavolo Staffordshire Bull Terrier kennel">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013: we use BARF for a few dogs and for short periods.</p>
 
   <!--BLOCCO:3-->
-  <h2>The formulas</h2>
+  <h2>The formulas, and why</h2>
+  <p>First the calories the dog needs in a day, then how they are shared out in the bowl. The calories are worked out in the same way in our <a href="/en/dog-food-calculator/">kibble calculator</a>: same dog, same calories, only what goes in the bowl changes.</p>
   <ul>
-  <li><strong>Adult</strong> = 70 × weight<sup>0.75</sup> × 1.8 (entire), 1.6 (neutered), 1.4 (senior) or 1.3 (neutered senior) × activity: 0.85 calm, 1 normal, 1.25 very active, 1.6 sport or work</li>
-  <li><strong>Shape seen from above</strong>: +10% if thin, −10% if overweight</li>
-  <li><strong>Puppy</strong> = 130 × weight<sup>0.75</sup> × 3.2 × (e<sup>−0.87 × p</sup> − 0.1), with p = today's weight ÷ expected adult weight; without today's weight, it is estimated from the age</li>
-  <li><strong>Pregnancy</strong>, from week five = 132 × weight<sup>0.75</sup> + 26 × weight</li>
-  <li><strong>Nursing</strong> = 145 × weight<sup>0.75</sup> + weight × (24 × puppies up to 4 + 12 × puppies beyond 4) × 0.75, 0.95, 1.1 or 1.2 from the first to the fourth week</li>
-  <li><strong>Grams per day</strong> = calories ÷ average calories of the bowl, that is the sum of each food's kcal times its share</li>
+  <li><strong>Resting energy</strong> = 70 × weight in kg<sup>0.75</sup>. <em>Why</em>: calories do not grow with weight but with metabolism, and the 0.75 exponent allows for that: a 30 kg dog uses less than twice as much as a 15 kg one. It is the basis of the guidelines of the National Research Council (NRC) and of FEDIAF.</li>
+  <li><strong>Adult</strong> = resting energy × 1.8 (entire) or 1.6 (neutered); from 8 years 1.4 or 1.3; then × activity: 0.85 calm, 1 normal, 1.25 very active, 1.6 working or sport. <em>Why</em>: neutering and age lower energy use, activity raises it.</li>
+  <li><strong>Shape seen from above</strong>: +10% if the dog is thin, −10% if overweight. <em>Why</em>: to bring the dog back to the right weight slowly, without sudden diets. Check again after two weeks.</li>
+  <li><strong>Puppy</strong> = 130 × weight<sup>0.75</sup> × 3.2 × (e<sup>−0.87 × p</sup> − 0.1), with p = today's weight ÷ expected adult weight. It is the NRC (2006) equation, also used by the FEDIAF guidelines, July 2024 edition. <em>Why</em>: a puppy spends energy on growing, and the closer it gets to its adult weight the less extra it needs; that is why the ratio between the two weights counts, not only the age. Activity is not part of the sum, because the equation already includes it. Without today's weight the calculator estimates it from the age; growth ends at about 10 months in small breeds, 12 in medium, 15 in large and 20 in giant breeds. A 2019 study of family puppies (Klein and colleagues, University of Munich) found that under six months this equation can give about 20% more than needed: weigh the puppy every week and adjust the ration.</li>
+  <li><strong>Pregnancy</strong>, from the date of the first mating: up to day 34 the ration stays as before; from day 35 = 132 × weight<sup>0.75</sup> + 26 × weight (NRC 2006). <em>Why</em>: the puppies grow mostly in the last four weeks, and a bitch that puts on weight earlier has a harder whelping. The milestones the calculator shows with their dates: ultrasound between day 25 and 30, X-ray around day 55, whelping box ready between day 56 and 58, whelping expected on day 63 (usually between day 58 and 68).</li>
+  <li><strong>Nursing</strong>, from the date of whelping = 145 × weight<sup>0.75</sup> + weight × (24 × n + 12 × m) × L, with n = puppies up to 4 and m = puppies from the fifth to the eighth; L = 0.75, 0.95, 1.1 and 1.2 in weeks one to four (NRC 2006). From week five to eight L = 0.9, 0.65, 0.4 and 0.2; from week nine the adult ration returns. <em>Why</em>: milk costs a lot of calories and depends on how many puppies there are and how much they drink. The peak is between the third and the fourth week; then the puppies eat solid food and the mother makes less milk. For the weeks after the fourth the guidelines give no formula: the decrease until weaning is our own estimate.</li>
+  <li><strong>Grams a day</strong> = calories ÷ average calories of the bowl, that is the kcal of each food times its share. <em>Why</em>: a dog eats to cover its calories; so when a low-calorie food such as vegetables or tripe is left out, the total grams go down: the calories stay the same, but the meat taking its place has more of them.</li>
+  <li><strong>Nutrients</strong>: the sum of each food, per 1000 kcal, compared with the FEDIAF 2024 minimums and maximums for the age; in pregnancy from day 35 and in nursing the values for growth up to 14 weeks and reproduction are used. <em>Why</em>: a bowl can cover the calories and still be short of calcium, iodine or vitamins.</li>
   </ul>
-  <p>This is why, when you leave out a low-calorie food such as vegetables or tripe, the total grams go down: the calories stay the same, but the meat that takes their place has more of them.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
@@ -143,11 +145,12 @@ custom_content: |
 
   <h3>Sources</h3>
   <ul>
-  <li><a href="https://europeanpetfood.org/self-regulation/nutritional-guidelines/" target="_blank" rel="noopener" aria-label="FEDIAF, nutritional guidelines for cats and dogs, 2021 (opens in a new tab)">FEDIAF, nutritional guidelines for cats and dogs, 2021</a></li>
+  <li><a href="https://europeanpetfood.org/self-regulation/nutritional-guidelines/" target="_blank" rel="noopener" aria-label="FEDIAF, nutritional guidelines for cats and dogs, 2024 (opens in a new tab)">FEDIAF, nutritional guidelines for cats and dogs, 2024</a></li>
   <li><a href="https://www.nationalacademies.org/publications/10668" target="_blank" rel="noopener" aria-label="National Research Council, Nutrient Requirements of Dogs and Cats (2006) (opens in a new tab)">National Research Council, Nutrient Requirements of Dogs and Cats (2006)</a></li>
   <li><a href="https://data.nal.usda.gov/dataset/composition-foods-raw-processed-prepared-usda-national-nutrient-database-standard-reference-release-28-0" target="_blank" rel="noopener" aria-label="USDA, National Nutrient Database for Standard Reference, Release 28 (opens in a new tab)">USDA, National Nutrient Database for Standard Reference, Release 28</a></li>
   <li><a href="https://www.ars.usda.gov/northeast-area/beltsville-md-bhnrc/beltsville-human-nutrition-research-center/methods-and-application-of-food-composition-laboratory/mafcl-site-pages/iodine/" target="_blank" rel="noopener" aria-label="USDA, FDA and ODS-NIH, Database for the Iodine Content of Common Foods (2020) (opens in a new tab)">USDA, FDA and ODS-NIH, Database for the Iodine Content of Common Foods (2020)</a></li>
   <li><a href="https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/intake-of-minerals-trace-elements-and-vitamins-in-bone-and-raw-food-rations-in-adult-dogs/7520574DA173F4DB29330A6F858DE0E0" target="_blank" rel="noopener" aria-label="Dillitzer, Becker, Kienzle, British Journal of Nutrition 2011 (opens in a new tab)">Dillitzer, Becker, Kienzle, British Journal of Nutrition 2011</a></li>
+  <li><a href="https://onlinelibrary.wiley.com/doi/10.1111/jpn.13191" target="_blank" rel="noopener" aria-label="Klein and colleagues, energy and growth of family puppies, 2019 (opens in a new tab)">Klein and colleagues, energy and growth of family puppies, 2019</a></li>
   </ul>
   <!--/BLOCCO:5-->
   </article>

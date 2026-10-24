@@ -1,7 +1,7 @@
 ---
 title: "How much should a dog eat: kibble calculator with artificial intelligence"
 date: 2026-10-18
-lastmod: 2026-10-23
+lastmod: 2026-10-24
 titleSeo: "How much should I feed my dog? AI dog food calculator"
 translationKey: "calcolatore-crocchette"
 tags:
@@ -59,37 +59,24 @@ custom_content: |
   <div id="pappa" class="pp"><noscript>The calculator needs JavaScript. Without it, you can do the sums by hand with the formula and tables below.</noscript></div>
   <script src="/js/calcolatore-cane.js?v=20261024-1200" defer></script><script src="/js/calcolatore-crocchette.js?v=20261024-1200" defer></script>
 
-  <p>How much should a dog eat? The calculator above tells you how many grams of kibble to give a dog each day, from a two-month-old puppy to a senior. It starts from the resting energy vets use, 70 times the weight in kilos raised to 0.75, and multiplies it by a factor that depends on age: 3 up to three months, 2 at six months, 1.6 to 1.8 in the adult. It then divides the result by the calories of the kibble. For 34 foods sold widely in Europe the calories are already in the list; any other can be typed in, worked out from the analytical constituents printed on the bag, or read from a photo of the bag. The figure you get is a starting point, to be checked on the dog every two weeks. A guide by the <a href="/en/" title="Del Piccolo Diavolo Staffordshire Bull Terrier kennel">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
+  <p>How much should a dog eat? The calculator above tells you how many grams of kibble to give a dog each day, from a two-month-old puppy to a senior. It starts from the resting energy vets use, 70 times the weight in kilos raised to 0.75, and multiplies it by a factor for age, neutering and activity; for puppies, pregnant and nursing bitches it uses the equations of the National Research Council, the same as the European FEDIAF guidelines. It then divides the result by the calories of the kibble. For 34 foods sold widely in Europe the calories are already in the list; any other can be typed in, worked out from the analytical constituents printed on the bag, or read from a photo of the bag. The figure you get is a starting point, to be checked on the dog every two weeks. A guide by the <a href="/en/" title="Del Piccolo Diavolo Staffordshire Bull Terrier kennel">Del Piccolo Diavolo kennel, which has bred Staffordshire Bull Terriers</a> in Ostellato (Ferrara, Italy) since 2013.</p>
 
   <!--BLOCCO:2-->
-  <h2>The formulas behind the calculation</h2>
+  <h2>The formulas behind the calculation, and why</h2>
+  <p>The calculation has two steps: first the calories the dog needs in a day, then the grams of kibble that provide them. The calories are worked out in the same way in our <a href="/en/barf-calculator/">BARF calculator</a>: same dog, same calories, only what goes in the bowl changes.</p>
   <ul>
-  <li><strong>Resting energy</strong> = 70 × weight in kg<sup>0.75</sup></li>
-  <li><strong>Energy per day</strong> = resting energy × age factor × activity factor</li>
-  <li><strong>Grams per day</strong> = energy per day ÷ (kcal per 100 g ÷ 100)</li>
-  <li><strong>Kcal from the bag</strong>, when not printed = 3.5 × protein + 8.5 × fat + 3.5 × carbohydrates, where carbohydrates = 100 − protein − fat − fibre − ash − moisture (moisture 10% if missing)</li>
-  <li><strong>Weight at each age</strong> = adult weight × share: 25% at 2 months, 38% at 3, 50% at 4, 62% at 5, 72% at 6, 80% at 7, 86% at 8, 90% at 9, 93% at 10, 96% at 11, 98% at 12, for a medium-sized dog; growth ends around 10 months in small breeds, 15 in large and 20 in giant breeds</li>
-  <li><strong>Protein</strong> = protein % ÷ kcal per 100 g × 1000, in grams per 1000 kcal; FEDIAF minimums: 62.5 up to 14 weeks, 50 during growth, 45 for adults (52.1 if neutered or calm)</li>
+  <li><strong>Resting energy</strong> = 70 × weight in kg<sup>0.75</sup>. <em>Why</em>: calories do not grow with weight but with metabolism, and the 0.75 exponent allows for that: a 30 kg dog uses less than twice as much as a 15 kg one. It is the basis of the guidelines of the National Research Council (NRC) and of FEDIAF.</li>
+  <li><strong>Adult</strong> = resting energy × 1.8 (entire) or 1.6 (neutered); from 8 years 1.4 or 1.3; then × activity: 0.85 calm, 1 normal, 1.25 very active, 1.6 working or sport. <em>Why</em>: neutering and age lower energy use, activity raises it.</li>
+  <li><strong>Shape seen from above</strong>: +10% if the dog is thin, −10% if overweight. <em>Why</em>: to bring the dog back to the right weight slowly, without sudden diets. Check again after two weeks.</li>
+  <li><strong>Puppy</strong> = 130 × weight<sup>0.75</sup> × 3.2 × (e<sup>−0.87 × p</sup> − 0.1), with p = today's weight ÷ expected adult weight. It is the NRC (2006) equation, also used by the FEDIAF guidelines, July 2024 edition. <em>Why</em>: a puppy spends energy on growing, and the closer it gets to its adult weight the less extra it needs; that is why the ratio between the two weights counts, not only the age. Activity is not part of the sum, because the equation already includes it. Without today's weight the calculator estimates it from the age; growth ends at about 10 months in small breeds, 12 in medium, 15 in large and 20 in giant breeds. A 2019 study of family puppies (Klein and colleagues, University of Munich) found that under six months this equation can give about 20% more than needed: weigh the puppy every week and adjust the ration.</li>
+  <li><strong>Pregnancy</strong>, from the date of the first mating: up to day 34 the ration stays as before; from day 35 = 132 × weight<sup>0.75</sup> + 26 × weight (NRC 2006). <em>Why</em>: the puppies grow mostly in the last four weeks, and a bitch that puts on weight earlier has a harder whelping. The milestones the calculator shows with their dates: ultrasound between day 25 and 30, X-ray around day 55, whelping box ready between day 56 and 58, whelping expected on day 63 (usually between day 58 and 68).</li>
+  <li><strong>Nursing</strong>, from the date of whelping = 145 × weight<sup>0.75</sup> + weight × (24 × n + 12 × m) × L, with n = puppies up to 4 and m = puppies from the fifth to the eighth; L = 0.75, 0.95, 1.1 and 1.2 in weeks one to four (NRC 2006). From week five to eight L = 0.9, 0.65, 0.4 and 0.2; from week nine the adult ration returns. <em>Why</em>: milk costs a lot of calories and depends on how many puppies there are and how much they drink. The peak is between the third and the fourth week; then the puppies eat solid food and the mother makes less milk. For the weeks after the fourth the guidelines give no formula: the decrease until weaning is our own estimate.</li>
+  <li><strong>Grams a day</strong> = calories ÷ (kcal per 100 g ÷ 100). <em>Why</em>: a dog eats to cover its calories, so a richer kibble is given in a smaller amount.</li>
+  <li><strong>Kcal from the bag</strong>, if not stated = 3.5 × protein + 8.5 × fat + 3.5 × carbohydrates, with carbohydrates = 100 − protein − fat − fibre − ash − moisture (10% moisture if missing). <em>Why</em>: these are the Atwater values modified for pet food, the ones given by the NRC.</li>
+  <li><strong>Weight at each age</strong> = adult weight × share: 25% at 2 months, 38% at 3, 50% at 4, 62% at 5, 72% at 6, 80% at 7, 86% at 8, 90% at 9, 93% at 10, 96% at 11, 98% at 12, for a medium-sized dog. <em>Why</em>: it is needed for the table by age and for a puppy whose weight today is not known.</li>
+  <li><strong>Protein</strong> = protein % ÷ kcal per 100 g × 1000, in grams per 1000 kcal, compared with the FEDIAF minimums: 62.5 up to 14 weeks and in late pregnancy and nursing, 50 during growth, 45 in the adult (52.1 if neutered or calm). <em>Why</em>: protein does not change the amount, but it tells you whether the kibble is suitable. An adult kibble given to a puppy can cover the calories and leave it short of protein: in that case the calculator says so.</li>
   </ul>
-  <p>The sum has three steps. First the resting energy, what the dog needs at rest: 70 × weight in kg<sup>0.75</sup>. Then it is multiplied by the age factor and by the activity factor. Finally it is divided by the calories of the kibble, given in kcal per 100 grams.</p>
-  <table tabindex="0">
-  <thead>
-  <tr><th>Age</th><th>Factor</th></tr>
-  </thead>
-  <tbody>
-  <tr><td>Up to 3 months</td><td>3</td></tr>
-  <tr><td>3 to 6 months</td><td>goes down from 3 to 2</td></tr>
-  <tr><td>6 to 12 months</td><td>goes down from 2 to the adult one</td></tr>
-  <tr><td>Adult, not neutered</td><td>1.8</td></tr>
-  <tr><td>Adult, neutered</td><td>1.6</td></tr>
-  <tr><td>Senior, from 8 years</td><td>1.4</td></tr>
-  <tr><td>Senior, neutered</td><td>1.3</td></tr>
-  </tbody>
-  </table>
-  <p>Activity moves the result like this: calm × 0.85, normal × 1, very active × 1.25, working or sport × 1.6. Up to four months activity counts for little, because almost all the energy goes into growth.</p>
-  <p>An example. An adult dog of 15 kg, normal activity, not neutered: 70 × 15<sup>0.75</sup> is about 533 kcal; times 1.8 it becomes 960 kcal a day. With kibble at 390 kcal per 100 g that is about 245 grams a day.</p>
-  <p>For the table by age the calculator estimates the puppy's weight as a share of the adult weight: a quarter at two months, half at four, three quarters around six months, nearly all of it at one year. That is the growth of a medium-sized dog. Small breeds finish earlier, around ten months; large breeds grow until about fifteen months and giant breeds until twenty, and the calculator stretches the table accordingly.</p>
-  <p>Protein does not change the amount: the ration is worked out from energy, because a dog eats to cover its calories. It does change the choice of kibble. The calculator counts the grams of protein per 1000 kcal and compares them with the minimums of the European FEDIAF guidelines: a puppy up to 14 weeks needs at least 62.5, then 50 until growth ends, an adult 45. Adult kibble given to a puppy can cover the calories and still leave it short of protein: in that case the calculator says so.</p>
+  <p>An example. An adult dog of 15 kg, normal activity, not neutered: 70 × 15<sup>0.75</sup> is about 533 kcal; times 1.8 it becomes 960 kcal a day. With a kibble of 390 kcal per 100 g that is about 245 grams a day.</p>
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
@@ -159,7 +146,7 @@ custom_content: |
   <div class="faq-item active n-faq">
   <h3 class="faq-q">How much should a puppy eat compared with an adult dog?</h3>
   <div class="faq-answer">
-  <p>Far more, in proportion to its weight. Up to three months a puppy uses about three times its resting energy, against 1.6 to 1.8 times for an adult, because almost all of it goes into growth. A medium-sized puppy weighing 5 kg at two and a half months eats as much as an adult dog of 10 kg. From three to six months the factor falls towards 2 and around one year it reaches the adult one; in large and giant breeds this takes longer, up to fifteen and twenty months. Meals change too: smaller and more frequent in the first months.</p>
+  <p>Far more, in proportion to its weight, because almost everything goes into growth. A puppy of two and a half months that weighs 5 kg and will weigh 16 as an adult needs about 920 kcal a day, more than an adult dog of 10 kg (about 710). The calculator uses the equation of the National Research Council: the closer the puppy gets to its adult weight, the less extra it needs. In large and giant breeds growth lasts longer, up to fifteen and twenty months. Meals change too: smaller and more frequent in the first months.</p>
   </div>
   </div>
 
@@ -215,6 +202,7 @@ custom_content: |
   <li><a href="https://europeanpetfood.org/self-regulation/nutritional-guidelines/" target="_blank" rel="noopener" aria-label="FEDIAF, nutritional guidelines for cats and dogs (opens in a new tab)">FEDIAF, nutritional guidelines for cats and dogs</a></li>
   <li><a href="https://wsava.org/global-guidelines/global-nutrition-guidelines/" target="_blank" rel="noopener" aria-label="WSAVA, Global Nutrition Guidelines (opens in a new tab)">WSAVA, Global Nutrition Guidelines</a></li>
   <li><a href="https://www.nationalacademies.org/publications/10668" target="_blank" rel="noopener" aria-label="National Research Council, Nutrient Requirements of Dogs and Cats (2006) (opens in a new tab)">National Research Council, Nutrient Requirements of Dogs and Cats (2006)</a></li>
+  <li><a href="https://onlinelibrary.wiley.com/doi/10.1111/jpn.13191" target="_blank" rel="noopener" aria-label="Klein and colleagues, energy and growth of family puppies, 2019 (opens in a new tab)">Klein and colleagues, energy and growth of family puppies, 2019</a></li>
   </ul>
   <!--/BLOCCO:6-->
   </article>

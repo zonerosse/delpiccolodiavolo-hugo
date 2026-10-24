@@ -1,7 +1,7 @@
 ---
 title: "Wie viel Futter braucht ein Hund: Futterrechner mit künstlicher Intelligenz"
 date: 2026-10-18
-lastmod: 2026-10-23
+lastmod: 2026-10-24
 titleSeo: "Wie viel Futter braucht mein Hund? Futterrechner mit KI"
 translationKey: "calcolatore-crocchette"
 tags:
@@ -59,37 +59,24 @@ custom_content: |
   <div id="pappa" class="pp"><noscript>Der Rechner braucht JavaScript. Ohne lässt sich die Rechnung mit der Formel und den Tabellen unten von Hand machen.</noscript></div>
   <script src="/js/calcolatore-cane.js?v=20261024-1200" defer></script><script src="/js/calcolatore-crocchette.js?v=20261024-1200" defer></script>
 
-  <p>Wie viel Futter braucht ein Hund? Der Rechner oben sagt, wie viel Gramm Trockenfutter ein Hund am Tag bekommt, vom zwei Monate alten Welpen bis zum Senior. Er geht vom Ruhebedarf aus, den Tierärzte verwenden, 70 mal das Gewicht in Kilo hoch 0,75, und multipliziert ihn mit einem Faktor, der vom Alter abhängt: 3 bis zum dritten Monat, 2 mit sechs Monaten, 1,6 bis 1,8 beim Erwachsenen. Dann teilt er das Ergebnis durch die Kalorien des Futters. Für 34 in Europa verbreitete Futtersorten stehen die Kalorien schon in der Liste; für alle anderen gibt man sie selbst ein, berechnet sie aus den analytischen Bestandteilen auf der Packung oder lässt ein Foto der Packung lesen. Die Zahl, die herauskommt, ist ein Ausgangspunkt, den man alle zwei Wochen am Hund prüft. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Zucht Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
+  <p>Wie viel Futter braucht ein Hund? Der Rechner oben sagt, wie viel Gramm Trockenfutter ein Hund am Tag bekommt, vom zwei Monate alten Welpen bis zum Senior. Er geht vom Ruhebedarf aus, den Tierärzte verwenden, 70 mal das Gewicht in Kilo hoch 0,75, und multipliziert ihn mit einem Faktor für Alter, Kastration und Bewegung; für Welpen, tragende und säugende Hündinnen verwendet er die Gleichungen des National Research Council, dieselben wie die europäischen FEDIAF-Leitlinien. Dann teilt er das Ergebnis durch die Kalorien des Futters. Für 34 in Europa verbreitete Futtersorten stehen die Kalorien schon in der Liste; für alle anderen gibt man sie selbst ein, berechnet sie aus den analytischen Bestandteilen auf der Packung oder lässt ein Foto der Packung lesen. Die Zahl, die herauskommt, ist ein Ausgangspunkt, den man alle zwei Wochen am Hund prüft. Ein Ratgeber der <a href="/de/" title="Staffordshire Bull Terrier Zucht Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>.</p>
 
   <!--BLOCCO:2-->
-  <h2>Die Formeln der Berechnung</h2>
+  <h2>Die Formeln der Berechnung und warum</h2>
+  <p>Die Rechnung hat zwei Schritte: zuerst die Kalorien, die der Hund an einem Tag braucht, dann die Gramm Trockenfutter, die sie liefern. Die Kalorien werden in unserem <a href="/de/barf-rechner/">BARF-Rechner</a> genauso berechnet: derselbe Hund, dieselben Kalorien, nur der Inhalt des Napfs ändert sich.</p>
   <ul>
-  <li><strong>Ruhebedarf</strong> = 70 × Gewicht in kg<sup>0,75</sup></li>
-  <li><strong>Energie pro Tag</strong> = Ruhebedarf × Altersfaktor × Bewegungsfaktor</li>
-  <li><strong>Gramm pro Tag</strong> = Energie pro Tag ÷ (kcal pro 100 g ÷ 100)</li>
-  <li><strong>kcal aus der Packung</strong>, wenn sie fehlen = 3,5 × Protein + 8,5 × Fett + 3,5 × Kohlenhydrate, mit Kohlenhydrate = 100 − Protein − Fett − Rohfaser − Rohasche − Feuchtigkeit (Feuchtigkeit 10 %, wenn sie fehlt)</li>
-  <li><strong>Gewicht in jedem Alter</strong> = Erwachsenengewicht × Anteil: 25 % mit 2 Monaten, 38 % mit 3, 50 % mit 4, 62 % mit 5, 72 % mit 6, 80 % mit 7, 86 % mit 8, 90 % mit 9, 93 % mit 10, 96 % mit 11, 98 % mit 12, bei mittelgroßen Hunden; das Wachstum endet bei kleinen Rassen um 10 Monate, bei großen um 15 und bei Riesenrassen um 20</li>
-  <li><strong>Protein</strong> = Protein % ÷ kcal pro 100 g × 1000, in Gramm pro 1000 kcal; FEDIAF-Mindestwerte: 62,5 bis 14 Wochen, 50 im Wachstum, 45 beim Erwachsenen (52,1 bei kastrierten oder ruhigen Hunden)</li>
+  <li><strong>Ruhebedarf</strong> = 70 × Gewicht in kg<sup>0,75</sup>. <em>Warum</em>: die Kalorien wachsen nicht mit dem Gewicht, sondern mit dem Stoffwechsel, und der Exponent 0,75 berücksichtigt das: ein Hund mit 30 kg verbraucht weniger als doppelt so viel wie einer mit 15 kg. Das ist die Grundlage der Leitlinien des National Research Council (NRC) und der FEDIAF.</li>
+  <li><strong>Erwachsener Hund</strong> = Ruhebedarf × 1,8 (unkastriert) oder 1,6 (kastriert); ab 8 Jahren 1,4 oder 1,3; dann × Bewegung: 0,85 ruhig, 1 normal, 1,25 sehr aktiv, 1,6 Arbeit oder Sport. <em>Warum</em>: Kastration und Alter senken den Verbrauch, Bewegung erhöht ihn.</li>
+  <li><strong>Figur von oben</strong>: +10 %, wenn der Hund dünn ist, −10 %, wenn er übergewichtig ist. <em>Warum</em>: um ihn langsam zum richtigen Gewicht zu bringen, ohne harte Diäten. Nach zwei Wochen erneut prüfen.</li>
+  <li><strong>Welpe</strong> = 130 × Gewicht<sup>0,75</sup> × 3,2 × (e<sup>−0,87 × p</sup> − 0,1), mit p = heutiges Gewicht ÷ erwartetes Erwachsenengewicht. Das ist die Gleichung des NRC (2006), die auch die FEDIAF-Leitlinien verwenden, Ausgabe Juli 2024. <em>Warum</em>: der Welpe braucht Energie zum Wachsen, und je näher er dem Erwachsenengewicht kommt, desto weniger braucht er zusätzlich; deshalb zählt das Verhältnis der beiden Gewichte und nicht nur das Alter. Die Bewegung geht nicht in die Rechnung ein, weil die Gleichung sie schon enthält. Ohne das heutige Gewicht schätzt der Rechner es aus dem Alter; das Wachstum endet bei kleinen Rassen um 10 Monate, bei mittleren um 12, bei großen um 15 und bei Riesenrassen um 20 Monate. Eine Studie von 2019 an Welpen aus Familien (Klein und Kollegen, Universität München) hat gezeigt, dass diese Gleichung unter sechs Monaten etwa 20 % mehr als nötig ergeben kann: den Welpen jede Woche wiegen und die Ration anpassen.</li>
+  <li><strong>Trächtigkeit</strong>, ab dem Datum des ersten Deckakts: bis Tag 34 bleibt die Ration wie vorher; ab Tag 35 = 132 × Gewicht<sup>0,75</sup> + 26 × Gewicht (NRC 2006). <em>Warum</em>: die Welpen wachsen vor allem in den letzten vier Wochen, und eine Hündin, die früher zunimmt, hat eine schwerere Geburt. Die Etappen, die der Rechner mit Datum zeigt: Ultraschall zwischen Tag 25 und 30, Röntgen um Tag 55, Wurfkiste bereit zwischen Tag 56 und 58, Geburt erwartet am Tag 63 (meist zwischen Tag 58 und 68).</li>
+  <li><strong>Säugezeit</strong>, ab dem Datum der Geburt = 145 × Gewicht<sup>0,75</sup> + Gewicht × (24 × n + 12 × m) × L, mit n = Welpen bis 4 und m = Welpen vom fünften bis zum achten; L = 0,75, 0,95, 1,1 und 1,2 in der ersten bis vierten Woche (NRC 2006). Von der fünften bis zur achten Woche L = 0,9, 0,65, 0,4 und 0,2; ab der neunten Woche gilt wieder die Ration für Erwachsene. <em>Warum</em>: Milch kostet viele Kalorien und hängt davon ab, wie viele Welpen es gibt und wie viel sie trinken. Der Höhepunkt liegt zwischen der dritten und vierten Woche; danach fressen die Welpen Brei und die Mutter bildet weniger Milch. Für die Wochen nach der vierten geben die Leitlinien keine Formel: die Abnahme bis zur Entwöhnung ist unsere Schätzung.</li>
+  <li><strong>Gramm am Tag</strong> = Kalorien ÷ (kcal pro 100 g ÷ 100). <em>Warum</em>: der Hund frisst, um seine Kalorien zu decken; ein energiereicheres Futter gibt man daher in kleinerer Menge.</li>
+  <li><strong>Kcal aus der Packung</strong>, falls nicht angegeben = 3,5 × Rohprotein + 8,5 × Fett + 3,5 × Kohlenhydrate, mit Kohlenhydrate = 100 − Rohprotein − Fett − Rohfaser − Rohasche − Feuchtigkeit (10 % Feuchtigkeit, falls sie fehlt). <em>Warum</em>: das sind die für Tierfutter angepassten Atwater-Werte, die der NRC angibt.</li>
+  <li><strong>Gewicht in jedem Alter</strong> = Erwachsenengewicht × Anteil: 25 % mit 2 Monaten, 38 % mit 3, 50 % mit 4, 62 % mit 5, 72 % mit 6, 80 % mit 7, 86 % mit 8, 90 % mit 9, 93 % mit 10, 96 % mit 11, 98 % mit 12, für einen mittelgroßen Hund. <em>Warum</em>: es braucht sie für die Tabelle nach Alter und für einen Welpen, dessen heutiges Gewicht man nicht kennt.</li>
+  <li><strong>Eiweiß</strong> = Rohprotein % ÷ kcal pro 100 g × 1000, in Gramm pro 1000 kcal, verglichen mit den FEDIAF-Mindestwerten: 62,5 bis 14 Wochen sowie in der späten Trächtigkeit und Säugezeit, 50 im Wachstum, 45 beim Erwachsenen (52,1 bei kastrierten oder ruhigen Hunden). <em>Warum</em>: das Eiweiß ändert die Menge nicht, zeigt aber, ob das Futter passt. Ein Futter für Erwachsene kann bei einem Welpen die Kalorien decken und ihn trotzdem zu knapp mit Eiweiß versorgen: dann sagt es der Rechner.</li>
   </ul>
-  <p>Die Rechnung hat drei Schritte. Zuerst der Ruhebedarf, also was der Hund in Ruhe braucht: 70 × Gewicht in kg<sup>0,75</sup>. Dann wird er mit dem Faktor für das Alter und dem für die Bewegung multipliziert. Zum Schluss teilt man durch die Kalorien des Futters, angegeben in kcal pro 100 Gramm.</p>
-  <table tabindex="0">
-  <thead>
-  <tr><th>Alter</th><th>Faktor</th></tr>
-  </thead>
-  <tbody>
-  <tr><td>Bis 3 Monate</td><td>3</td></tr>
-  <tr><td>3 bis 6 Monate</td><td>sinkt von 3 auf 2</td></tr>
-  <tr><td>6 bis 12 Monate</td><td>sinkt von 2 auf den Wert des Erwachsenen</td></tr>
-  <tr><td>Erwachsen, nicht kastriert</td><td>1,8</td></tr>
-  <tr><td>Erwachsen, kastriert</td><td>1,6</td></tr>
-  <tr><td>Senior, ab 8 Jahren</td><td>1,4</td></tr>
-  <tr><td>Senior, kastriert</td><td>1,3</td></tr>
-  </tbody>
-  </table>
-  <p>Die Bewegung verschiebt das Ergebnis so: ruhig × 0,85, normal × 1, sehr aktiv × 1,25, Arbeit oder Sport × 1,6. Bis zum vierten Monat zählt die Bewegung wenig, weil fast die ganze Energie ins Wachstum geht.</p>
   <p>Ein Beispiel. Ein erwachsener Hund mit 15 kg, normale Bewegung, nicht kastriert: 70 × 15<sup>0,75</sup> ergibt etwa 533 kcal; mal 1,8 werden daraus 960 kcal am Tag. Mit einem Futter von 390 kcal pro 100 g sind das etwa 245 Gramm am Tag.</p>
-  <p>Für die Tabelle nach Alter schätzt der Rechner das Gewicht des Welpen als Anteil des Erwachsenengewichts: ein Viertel mit zwei Monaten, die Hälfte mit vier, drei Viertel um sechs Monate, fast alles mit einem Jahr. Das ist das Wachstum eines mittelgroßen Hundes. Kleine Rassen sind früher fertig, um zehn Monate; große wachsen bis etwa fünfzehn Monate und Riesenrassen bis zwanzig, und der Rechner verlängert die Tabelle entsprechend.</p>
-  <p>Protein ändert die Menge nicht: die Ration wird aus der Energie berechnet, denn ein Hund frisst, um seine Kalorien zu decken. Es ändert aber die Wahl des Futters. Der Rechner zählt die Gramm Protein pro 1000 kcal und vergleicht sie mit den Mindestwerten der europäischen FEDIAF-Leitlinien: ein Welpe bis 14 Wochen braucht mindestens 62,5, danach 50 bis zum Ende des Wachstums, ein Erwachsener 45. Erwachsenenfutter für einen Welpen kann die Kalorien decken und trotzdem zu wenig Protein liefern: dann meldet es der Rechner.</p>
   <!--/BLOCCO:2-->
 
   <!--BLOCCO:3-->
@@ -159,7 +146,7 @@ custom_content: |
   <div class="faq-item active n-faq">
   <h3 class="faq-q">Wie viel frisst ein Welpe im Vergleich zu einem erwachsenen Hund?</h3>
   <div class="faq-answer">
-  <p>Im Verhältnis zum Gewicht viel mehr. Bis zum dritten Monat verbraucht ein Welpe etwa das Dreifache seines Ruhebedarfs, ein Erwachsener dagegen das 1,6- bis 1,8-Fache, weil fast alles ins Wachstum geht. Ein mittelgroßer Welpe, der mit zweieinhalb Monaten 5 kg wiegt, frisst so viel wie ein erwachsener Hund mit 10 kg. Von drei bis sechs Monaten sinkt der Faktor gegen 2, und um das erste Jahr erreicht er den des Erwachsenen; bei großen und Riesenrassen dauert das länger, bis fünfzehn und zwanzig Monate. Auch die Mahlzeiten ändern sich: in den ersten Monaten kleiner und häufiger.</p>
+  <p>Im Verhältnis zum Gewicht viel mehr, weil fast alles ins Wachstum geht. Ein Welpe von zweieinhalb Monaten, der 5 kg wiegt und als Erwachsener 16 kg wiegen wird, braucht etwa 920 kcal am Tag, mehr als ein erwachsener Hund mit 10 kg (etwa 710). Der Rechner verwendet die Gleichung des National Research Council: je näher der Welpe dem Erwachsenengewicht kommt, desto weniger braucht er zusätzlich. Bei großen und Riesenrassen dauert das Wachstum länger, bis fünfzehn und zwanzig Monate. Auch die Mahlzeiten ändern sich: in den ersten Monaten kleiner und häufiger.</p>
   </div>
   </div>
 
@@ -215,6 +202,7 @@ custom_content: |
   <li><a href="https://europeanpetfood.org/self-regulation/nutritional-guidelines/" target="_blank" rel="noopener" aria-label="FEDIAF, Ernährungsleitlinien für Katzen und Hunde (öffnet in einem neuen Tab)">FEDIAF, Ernährungsleitlinien für Katzen und Hunde</a></li>
   <li><a href="https://wsava.org/global-guidelines/global-nutrition-guidelines/" target="_blank" rel="noopener" aria-label="WSAVA, Global Nutrition Guidelines (öffnet in einem neuen Tab)">WSAVA, Global Nutrition Guidelines</a></li>
   <li><a href="https://www.nationalacademies.org/publications/10668" target="_blank" rel="noopener" aria-label="National Research Council, Nutrient Requirements of Dogs and Cats (2006) (öffnet in einem neuen Tab)">National Research Council, Nutrient Requirements of Dogs and Cats (2006)</a></li>
+  <li><a href="https://onlinelibrary.wiley.com/doi/10.1111/jpn.13191" target="_blank" rel="noopener" aria-label="Klein und Kollegen, Energie und Wachstum von Welpen aus Familien, 2019 (öffnet in einem neuen Tab)">Klein und Kollegen, Energie und Wachstum von Welpen aus Familien, 2019</a></li>
   </ul>
   <!--/BLOCCO:6-->
   </article>

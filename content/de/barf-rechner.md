@@ -1,7 +1,7 @@
 ---
 title: "BARF-Rechner: wie viel rohes Fleisch, Knochen und Innereien für den Hund"
 date: 2026-10-23
-lastmod: 2026-10-23
+lastmod: 2026-10-24
 titleSeo: "BARF-Rechner: Tagesmengen für den Hund"
 translationKey: "calcolatore-barf"
 tags:
@@ -56,10 +56,10 @@ custom_content: |
   <details class="bf-info bf-prima">
   <summary>Bevor Sie beginnen: woher die Zahlen kommen</summary>
   <ul>
-  <li><strong>Kalorien</strong>: Ruhebedarf 70 × Gewicht<sup>0,75</sup>, multipliziert mit Faktoren für Alter, Kastration und Bewegung (dieselbe Methode wie unser Futterrechner). Welpen, Trächtigkeit und Säugezeit mit den Gleichungen des National Research Council (NRC, 2006).</li>
+  <li><strong>Kalorien</strong>: Ruhebedarf 70 × Gewicht<sup>0,75</sup>, multipliziert mit Faktoren für Alter, Kastration und Bewegung (dieselbe Methode wie unser Futterrechner). Welpen, Trächtigkeit (ab dem Datum des Deckakts) und Säugezeit (ab dem Datum der Geburt, Woche für Woche) mit den Gleichungen des National Research Council (NRC, 2006). Formeln und Gründe unten auf der Seite.</li>
   <li><strong>Aufteilung des Napfes</strong>: das in Europa verbreitetste BARF-Schema, 80% tierischer Teil (50% Fleisch, 20% Pansen, 15% Innereien, 15% fleischige Knochen) und 20% pflanzlicher Teil (75% Gemüse, 25% Obst).</li>
   <li><strong>Werte der Zutaten</strong>: offizielle Datenbank des US-Landwirtschaftsministeriums (USDA, Standard Reference 28); Jod aus der Datenbank von USDA, FDA und NIH von 2020. Das Kalzium der fleischigen Knochen ist geschätzt.</li>
-  <li><strong>Bedarfswerte</strong>: FEDIAF-Leitlinien 2021, Werte pro 1000 kcal (Erwachsene, Wachstum, Trächtigkeit und Säugezeit).</li>
+  <li><strong>Bedarfswerte</strong>: FEDIAF-Leitlinien, Ausgabe Juli 2024, Werte pro 1000 kcal (Erwachsene, Wachstum, Trächtigkeit und Säugezeit).</li>
   </ul>
   </details>
 
@@ -84,16 +84,18 @@ custom_content: |
   <p>Wie viel rohes Fleisch braucht ein Hund? Der Rechner oben geht von den Kalorien aus, die der Hund braucht, und verteilt sie auf sieben Zutaten: Muskelfleisch, Pansen, Leber, andere Innereien, fleischige Knochen, Gemüse und Obst. Die Kalorien eines Erwachsenen sind 70 mal das Gewicht hoch 0,75, mal einen Faktor für Alter, Kastration und Bewegung; für Welpen, tragende und säugende Hündinnen nutzt er die Gleichungen des National Research Council. Dann zählt er die Nährstoffe jeder Zutat aus der USDA-Datenbank zusammen und vergleicht sie mit den FEDIAF-Minima pro 1000 kcal. Wo Kalzium, Vitamin D oder Omega-3 fehlen, schlägt er eine Zugabe vor. Fehlt heute eine Zutat, steigen die Anteile der anderen. Der Rechner stammt von der <a href="/de/" title="Staffordshire Bull Terrier Zucht Del Piccolo Diavolo">Zucht Del Piccolo Diavolo, die seit 2013 in Ostellato (Ferrara, Italien) Staffordshire Bull Terrier züchtet</a>: wir barfen nur einzelne Hunde und für kurze Zeit.</p>
 
   <!--BLOCCO:3-->
-  <h2>Die Formeln</h2>
+  <h2>Die Formeln und warum</h2>
+  <p>Zuerst die Kalorien, die der Hund an einem Tag braucht, dann wie sie sich im Napf verteilen. Die Kalorien werden in unserem <a href="/de/futterrechner-hund/">Futterrechner</a> genauso berechnet: derselbe Hund, dieselben Kalorien, nur der Inhalt des Napfs ändert sich.</p>
   <ul>
-  <li><strong>Erwachsener</strong> = 70 × Gewicht<sup>0,75</sup> × 1,8 (unkastriert), 1,6 (kastriert), 1,4 (Senior) oder 1,3 (kastrierter Senior) × Bewegung: 0,85 ruhig, 1 normal, 1,25 sehr aktiv, 1,6 Sport oder Arbeit</li>
-  <li><strong>Figur von oben</strong>: +10% wenn dünn, −10% bei Übergewicht</li>
-  <li><strong>Welpe</strong> = 130 × Gewicht<sup>0,75</sup> × 3,2 × (e<sup>−0,87 × p</sup> − 0,1), mit p = heutiges Gewicht ÷ erwartetes Erwachsenengewicht; ohne heutiges Gewicht wird es aus dem Alter geschätzt</li>
-  <li><strong>Trächtigkeit</strong>, ab der fünften Woche = 132 × Gewicht<sup>0,75</sup> + 26 × Gewicht</li>
-  <li><strong>Säugezeit</strong> = 145 × Gewicht<sup>0,75</sup> + Gewicht × (24 × Welpen bis 4 + 12 × Welpen über 4) × 0,75, 0,95, 1,1 oder 1,2 von der ersten bis zur vierten Woche</li>
-  <li><strong>Gramm pro Tag</strong> = Kalorien ÷ mittlere Kalorien des Napfes, also die Summe der kcal jeder Zutat mal ihrem Anteil</li>
+  <li><strong>Ruhebedarf</strong> = 70 × Gewicht in kg<sup>0,75</sup>. <em>Warum</em>: die Kalorien wachsen nicht mit dem Gewicht, sondern mit dem Stoffwechsel, und der Exponent 0,75 berücksichtigt das: ein Hund mit 30 kg verbraucht weniger als doppelt so viel wie einer mit 15 kg. Das ist die Grundlage der Leitlinien des National Research Council (NRC) und der FEDIAF.</li>
+  <li><strong>Erwachsener Hund</strong> = Ruhebedarf × 1,8 (unkastriert) oder 1,6 (kastriert); ab 8 Jahren 1,4 oder 1,3; dann × Bewegung: 0,85 ruhig, 1 normal, 1,25 sehr aktiv, 1,6 Arbeit oder Sport. <em>Warum</em>: Kastration und Alter senken den Verbrauch, Bewegung erhöht ihn.</li>
+  <li><strong>Figur von oben</strong>: +10 %, wenn der Hund dünn ist, −10 %, wenn er übergewichtig ist. <em>Warum</em>: um ihn langsam zum richtigen Gewicht zu bringen, ohne harte Diäten. Nach zwei Wochen erneut prüfen.</li>
+  <li><strong>Welpe</strong> = 130 × Gewicht<sup>0,75</sup> × 3,2 × (e<sup>−0,87 × p</sup> − 0,1), mit p = heutiges Gewicht ÷ erwartetes Erwachsenengewicht. Das ist die Gleichung des NRC (2006), die auch die FEDIAF-Leitlinien verwenden, Ausgabe Juli 2024. <em>Warum</em>: der Welpe braucht Energie zum Wachsen, und je näher er dem Erwachsenengewicht kommt, desto weniger braucht er zusätzlich; deshalb zählt das Verhältnis der beiden Gewichte und nicht nur das Alter. Die Bewegung geht nicht in die Rechnung ein, weil die Gleichung sie schon enthält. Ohne das heutige Gewicht schätzt der Rechner es aus dem Alter; das Wachstum endet bei kleinen Rassen um 10 Monate, bei mittleren um 12, bei großen um 15 und bei Riesenrassen um 20 Monate. Eine Studie von 2019 an Welpen aus Familien (Klein und Kollegen, Universität München) hat gezeigt, dass diese Gleichung unter sechs Monaten etwa 20 % mehr als nötig ergeben kann: den Welpen jede Woche wiegen und die Ration anpassen.</li>
+  <li><strong>Trächtigkeit</strong>, ab dem Datum des ersten Deckakts: bis Tag 34 bleibt die Ration wie vorher; ab Tag 35 = 132 × Gewicht<sup>0,75</sup> + 26 × Gewicht (NRC 2006). <em>Warum</em>: die Welpen wachsen vor allem in den letzten vier Wochen, und eine Hündin, die früher zunimmt, hat eine schwerere Geburt. Die Etappen, die der Rechner mit Datum zeigt: Ultraschall zwischen Tag 25 und 30, Röntgen um Tag 55, Wurfkiste bereit zwischen Tag 56 und 58, Geburt erwartet am Tag 63 (meist zwischen Tag 58 und 68).</li>
+  <li><strong>Säugezeit</strong>, ab dem Datum der Geburt = 145 × Gewicht<sup>0,75</sup> + Gewicht × (24 × n + 12 × m) × L, mit n = Welpen bis 4 und m = Welpen vom fünften bis zum achten; L = 0,75, 0,95, 1,1 und 1,2 in der ersten bis vierten Woche (NRC 2006). Von der fünften bis zur achten Woche L = 0,9, 0,65, 0,4 und 0,2; ab der neunten Woche gilt wieder die Ration für Erwachsene. <em>Warum</em>: Milch kostet viele Kalorien und hängt davon ab, wie viele Welpen es gibt und wie viel sie trinken. Der Höhepunkt liegt zwischen der dritten und vierten Woche; danach fressen die Welpen Brei und die Mutter bildet weniger Milch. Für die Wochen nach der vierten geben die Leitlinien keine Formel: die Abnahme bis zur Entwöhnung ist unsere Schätzung.</li>
+  <li><strong>Gramm am Tag</strong> = Kalorien ÷ durchschnittliche Kalorien des Napfs, also die kcal jeder Zutat mal ihrem Anteil. <em>Warum</em>: der Hund frisst, um seine Kalorien zu decken; lässt man eine kalorienarme Zutat wie Gemüse oder Pansen weg, sinken deshalb die Gramm insgesamt: die Kalorien bleiben gleich, aber das Fleisch, das an ihre Stelle tritt, hat mehr davon.</li>
+  <li><strong>Nährstoffe</strong>: die Summe aller Zutaten, pro 1000 kcal, verglichen mit den Mindest- und Höchstwerten der FEDIAF 2024 für das Alter; in der Trächtigkeit ab Tag 35 und in der Säugezeit gelten die Werte für das Wachstum bis 14 Wochen und die Fortpflanzung. <em>Warum</em>: ein Napf kann die Kalorien decken und trotzdem zu wenig Kalzium, Jod oder Vitamine haben.</li>
   </ul>
-  <p>Deshalb sinken die Gramm insgesamt, wenn eine kalorienarme Zutat wie Gemüse oder Pansen wegfällt: die Kalorien bleiben gleich, aber das Fleisch, das ihren Platz einnimmt, hat mehr davon.</p>
   <!--/BLOCCO:3-->
 
   <!--BLOCCO:4-->
@@ -143,11 +145,12 @@ custom_content: |
 
   <h3>Quellen</h3>
   <ul>
-  <li><a href="https://europeanpetfood.org/self-regulation/nutritional-guidelines/" target="_blank" rel="noopener" aria-label="FEDIAF, Ernährungsleitlinien für Hunde und Katzen, 2021 (öffnet in einem neuen Tab)">FEDIAF, Ernährungsleitlinien für Hunde und Katzen, 2021</a></li>
+  <li><a href="https://europeanpetfood.org/self-regulation/nutritional-guidelines/" target="_blank" rel="noopener" aria-label="FEDIAF, Ernährungsleitlinien für Hunde und Katzen, 2024 (öffnet in einem neuen Tab)">FEDIAF, Ernährungsleitlinien für Hunde und Katzen, 2024</a></li>
   <li><a href="https://www.nationalacademies.org/publications/10668" target="_blank" rel="noopener" aria-label="National Research Council, Nutrient Requirements of Dogs and Cats (2006) (öffnet in einem neuen Tab)">National Research Council, Nutrient Requirements of Dogs and Cats (2006)</a></li>
   <li><a href="https://data.nal.usda.gov/dataset/composition-foods-raw-processed-prepared-usda-national-nutrient-database-standard-reference-release-28-0" target="_blank" rel="noopener" aria-label="USDA, National Nutrient Database for Standard Reference, Release 28 (öffnet in einem neuen Tab)">USDA, National Nutrient Database for Standard Reference, Release 28</a></li>
   <li><a href="https://www.ars.usda.gov/northeast-area/beltsville-md-bhnrc/beltsville-human-nutrition-research-center/methods-and-application-of-food-composition-laboratory/mafcl-site-pages/iodine/" target="_blank" rel="noopener" aria-label="USDA, FDA und ODS-NIH, Database for the Iodine Content of Common Foods (2020) (öffnet in einem neuen Tab)">USDA, FDA und ODS-NIH, Database for the Iodine Content of Common Foods (2020)</a></li>
   <li><a href="https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/intake-of-minerals-trace-elements-and-vitamins-in-bone-and-raw-food-rations-in-adult-dogs/7520574DA173F4DB29330A6F858DE0E0" target="_blank" rel="noopener" aria-label="Dillitzer, Becker, Kienzle, British Journal of Nutrition 2011 (öffnet in einem neuen Tab)">Dillitzer, Becker, Kienzle, British Journal of Nutrition 2011</a></li>
+  <li><a href="https://onlinelibrary.wiley.com/doi/10.1111/jpn.13191" target="_blank" rel="noopener" aria-label="Klein und Kollegen, Energie und Wachstum von Welpen aus Familien, 2019 (öffnet in einem neuen Tab)">Klein und Kollegen, Energie und Wachstum von Welpen aus Familien, 2019</a></li>
   </ul>
   <!--/BLOCCO:5-->
   </article>
