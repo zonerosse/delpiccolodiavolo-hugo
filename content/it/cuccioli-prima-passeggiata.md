@@ -65,7 +65,6 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>La prima uscita</h2>
-  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-alla-prima-passeggiata.webp" alt="Cucciolo di Staffordshire Bull Terrier alle prime uscite, al guinzaglio vicino al proprietario" width="513" height="480" loading="lazy" decoding="async"></figure>
   <p>Si sceglie una via tranquilla, un orario tranquillo, e si programmano cinque minuti, non trenta. Il ritmo lo decide il cucciolo, compresi i lunghi minuti passati ad annusare una sola ringhiera. Annusare non è tempo perso: è il modo in cui il cane raccoglie informazioni, e stanca un cucciolo più del movimento.</p>
   <p>Non stupitevi se il cucciolo si siede e si rifiuta di muoversi. È comunissimo e non è testardaggine: è un animale piccolo travolto da una quantità di informazioni mai vista. Ci si abbassa, si aspetta, si offre un premio, e lo si lascia ripartire quando è pronto. Trascinare in avanti un cucciolo spaventato gli insegna che il guinzaglio significa essere forzati, e quella lezione costa cara da disfare.</p>
   <!--/BLOCCO:4-->
