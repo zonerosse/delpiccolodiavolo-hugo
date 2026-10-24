@@ -29,6 +29,8 @@ MAPPE = {
     "programma": [(1, 1, 1), (2, 2, 2), (6, 8, 8)],
     "test-genetici": [(1, 1, 1), (2, 2, 2), (3, 3, 3), (4, 4, 4), (5, 5, 5), (6, 6, 6), (7, 9, 9), (8, 8, 8), (9, 10, 10),
                       (10, 11, 11), (11, 12, 12)],
+    # 24/10/2026: in DE i bottoni di Google (blocco 4) stanno prima della fascia WhatsApp, che in IT/EN non c'è
+    "recensioni": [(1, 1, 1), (2, 2, 2), (3, 3, 3), (4, 4, 4)],
     "cucciolata-bilquis-agosto-2026": [(1, 1, 1), (3, 4, 4), (4, 5, 5), (5, 6, 6), (6, 7, 7), (7, 8, 8)],
 }
 # Come si scrivono e si tolgono i numeri (esattamente al contrario, cosi' lo script si puo' rilanciare)

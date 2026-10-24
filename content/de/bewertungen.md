@@ -301,10 +301,21 @@ custom_content: |
   </section>
 
   <!--BLOCCO:4-->
+  <section class="section">
+  <div class="section-inner" style="text-align:center">
+  <span class="section-label">Haben Sie einen unserer Hunde?</span>
+  <h2 class="section-title">Teilen Sie Ihre Erfahrung</h2>
+
+  <div style="display:flex;flex-wrap:wrap;gap:1rem;justify-content:center;margin-bottom:1.5rem">
+  <a href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" class="btn btn-primary" title="Alle Bewertungen auf Google" style="min-height:44px;padding:1rem 1.8rem" aria-label="Alle Bewertungen auf Google (wird in einem neuen Tab geöffnet)">Alle Bewertungen auf Google</a>
+  <a href="https://g.page/r/CUCv-r9V4lTREAE/review" target="_blank" rel="noopener" class="btn btn-ghost" title="Eine Bewertung auf Google schreiben" style="min-height:44px;padding:1rem 1.8rem" aria-label="Eine Bewertung schreiben (wird in einem neuen Tab geöffnet)">Eine Bewertung schreiben</a>
+  </div>
+  </div>
+  </section>
+  <!--/BLOCCO:4-->
   <section class="dark-section">
   <h2>Möchten Sie uns kennenlernen?</h2>
   <p>Kontaktieren Sie uns unverbindlich für Informationen über unsere Welpen.</p>
   <a href="/wa/393924635584" class="btn btn-light" title="Auf WhatsApp schreiben">Auf WhatsApp schreiben</a>
   </section>
-  <!--/BLOCCO:4-->
 ---
