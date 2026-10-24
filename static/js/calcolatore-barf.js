@@ -22,6 +22,7 @@ it:{eta:["Cucciolo (meno di 12 mesi)","Adulto","Anziano 8+"],m:"♂ Maschio",f:"
  add:"Da aggiungere",addH:"Già conteggiate nei numeri qui sotto.",noAdd:"Nessuna aggiunta per calcio, vitamina D e omega-3.",gus:" di guscio d'uovo in polvere al giorno (calcio)",mer:" di olio di fegato di merluzzo al giorno (vitamina D)",sal:" di olio di salmone al giorno (omega-3)",
  vet:"Da concordare con il veterinario",miss:"mancano circa ",perDay:" al giorno",io:"iodio",ioH:" (di solito si usano alghe: leggi sull'etichetta i µg per grammo)",ph:"fosforo",phH:" (si può aumentare la parte di ossa carnose: chiedi al veterinario come)",zn:"zinco",cu:"rame",ve:"vitamina E",veH:" (serve di più se si aggiunge olio di pesce)",
  nut:"Nutrienti ogni 1000 kcal, con le aggiunte",inb:"nella ciotola",min:"minimo",rows:["Proteine","Grassi","Calcio","Fosforo","Calcio : fosforo","Zinco","Rame","Iodio","Vitamina A","Vitamina D","Vitamina E","Omega-3 EPA+DHA"],
+ cmpB:"Alimenti per compensare",cmpH:"Ne basta uno, da aggiungere ogni giorno. Le calorie restano quelle: gli altri alimenti scendono un po'.",addB:"Aggiungi",rmB:"Togli",exT:"aggiunto per: ",noMx:"non va: troppo ",noKc:"troppe calorie, meglio un altro",kelpL:"Scrivi i µg di iodio per grammo che leggi sull'etichetta",kelpU:"µg per grammo",vaN:"vitamina A",vdN:"vitamina D",caN:"calcio",phN:"fosforo",rN:"calcio rispetto al fosforo",
  ok:"ok",lim:"al limite",ko:"manca",hi:"troppo",av:"Stima basata su valori medi: non è una dieta prescritta. Falla controllare a un veterinario nutrizionista."},
 en:{eta:["Puppy (under 12 months)","Adult","Senior 8+"],m:"♂ Male",f:"♀ Female",noSt:"Not neutered",siSt:"Neutered",noStF:"Not spayed",siStF:"Spayed",stPup:"In a puppy growth comes first: neutering shows its effect in the adult, check again then.",mom:"Stage",rep:["None","Pregnant (from week 5)","Nursing"],np:"Puppies she is nursing",wk:"Week of nursing",wkn:["1st","2nd","3rd","4th"],
  b:["The dog","Weight","What it looks like from above","Activity","What goes in the bowl"],age:"Age",mesi:" months",ad:"Expected adult weight (kg)",pk:"Today's weight (kg, optional)",pkh:"For pedigree puppies: the parents' weight or the breed standard. If you leave today's weight empty, it is estimated from the age.",kg:"Today's weight (kg)",bcsH:"Adjusts the calories by 10%.",
@@ -33,6 +34,7 @@ en:{eta:["Puppy (under 12 months)","Adult","Senior 8+"],m:"♂ Male",f:"♀ Fema
  add:"To add",addH:"Already counted in the figures below.",noAdd:"Nothing to add for calcium, vitamin D and omega-3.",gus:" of eggshell powder a day (calcium)",mer:" of cod liver oil a day (vitamin D)",sal:" of salmon oil a day (omega-3)",
  vet:"To agree with your vet",miss:"about ",perDay:" a day missing",io:"iodine",ioH:" (seaweed is usually used: read the µg per gram on the label)",ph:"phosphorus",phH:" (the share of meaty bones can be raised: ask your vet how)",zn:"zinc",cu:"copper",ve:"vitamin E",veH:" (more is needed if fish oil is added)",
  nut:"Nutrients per 1000 kcal, with the additions",inb:"in the bowl",min:"minimum",rows:["Protein","Fat","Calcium","Phosphorus","Calcium : phosphorus","Zinc","Copper","Iodine","Vitamin A","Vitamin D","Vitamin E","Omega-3 EPA+DHA"],
+ cmpB:"Foods to make up for it",cmpH:"One is enough, added every day. Calories stay the same: the other foods go down a little.",addB:"Add",rmB:"Remove",exT:"added for: ",noMx:"not suitable: too much ",noKc:"too many calories, better another",kelpL:"Type the µg of iodine per gram shown on the label",kelpU:"µg per gram",vaN:"vitamin A",vdN:"vitamin D",caN:"calcium",phN:"phosphorus",rN:"calcium compared with phosphorus",
  ok:"ok",lim:"borderline",ko:"missing",hi:"too much",av:"An estimate based on average values: it is not a prescribed diet. Have it checked by a veterinary nutritionist."},
 de:{eta:["Welpe (unter 12 Monaten)","Erwachsen","Senior 8+"],m:"♂ Rüde",f:"♀ Hündin",noSt:"Nicht kastriert",siSt:"Kastriert",noStF:"Nicht kastriert",siStF:"Kastriert",stPup:"Beim Welpen zählt das Wachstum: die Kastration wirkt sich erst beim erwachsenen Hund aus, dann neu prüfen.",mom:"Phase",rep:["Keine","Tragend (ab der 5. Woche)","Säugend"],np:"Welpen, die sie säugt",wk:"Säugewoche",wkn:["1.","2.","3.","4."],
  b:["Der Hund","Gewicht","Wie er von oben aussieht","Bewegung","Was in den Napf kommt"],age:"Alter",mesi:" Monate",ad:"Erwartetes Erwachsenengewicht (kg)",pk:"Gewicht heute (kg, freiwillig)",pkh:"Für Rassewelpen: das Gewicht der Eltern oder des Standards. Ohne heutiges Gewicht wird es aus dem Alter geschätzt.",kg:"Gewicht heute (kg)",bcsH:"Passt die Kalorien um 10 % an.",
@@ -44,8 +46,17 @@ de:{eta:["Welpe (unter 12 Monaten)","Erwachsen","Senior 8+"],m:"♂ Rüde",f:"�
  add:"Zugeben",addH:"In den Zahlen unten schon berücksichtigt.",noAdd:"Nichts zuzugeben für Kalzium, Vitamin D und Omega-3.",gus:" Eierschalenpulver pro Tag (Kalzium)",mer:" Lebertran pro Tag (Vitamin D)",sal:" Lachsöl pro Tag (Omega-3)",
  vet:"Mit dem Tierarzt abzusprechen",miss:"es fehlen etwa ",perDay:" pro Tag",io:"Jod",ioH:" (meist mit Algen: µg pro Gramm auf dem Etikett lesen)",ph:"Phosphor",phH:" (der Anteil fleischiger Knochen lässt sich erhöhen: den Tierarzt fragen, wie)",zn:"Zink",cu:"Kupfer",ve:"Vitamin E",veH:" (mit Fischöl braucht es mehr)",
  nut:"Nährstoffe pro 1000 kcal, mit den Zugaben",inb:"im Napf",min:"Minimum",rows:["Eiweiß","Fett","Kalzium","Phosphor","Kalzium : Phosphor","Zink","Kupfer","Jod","Vitamin A","Vitamin D","Vitamin E","Omega-3 EPA+DHA"],
+ cmpB:"Lebensmittel zum Ausgleichen",cmpH:"Eines genügt, jeden Tag dazugeben. Die Kalorien bleiben gleich: die anderen Zutaten werden etwas weniger.",addB:"Hinzufügen",rmB:"Entfernen",exT:"zugegeben für: ",noMx:"nicht geeignet: zu viel ",noKc:"zu viele Kalorien, besser ein anderes",kelpL:"µg Jod pro Gramm vom Etikett eingeben",kelpU:"µg pro Gramm",vaN:"Vitamin A",vdN:"Vitamin D",caN:"Kalzium",phN:"Phosphor",rN:"Kalzium im Verhältnis zum Phosphor",
  ok:"ok",lim:"knapp",ko:"fehlt",hi:"zu viel",av:"Eine Schätzung auf Basis von Durchschnittswerten: kein verschriebener Futterplan. Von einem Ernährungstierarzt prüfen lassen."}}[L];
 var IU={it:"UI",en:"IU",de:"IE"}[L];
+/* «Alimenti per compensare» (24/10/2026, Paolo: «un piccolo calcolatore nel calcolatore»). Valori USDA SR28 per 100 g;
+   iodio del merluzzo e delle uova dal database USDA/FDA/ODS-NIH. Il kelp ha lo iodio scritto dal visitatore (µg/g dell'etichetta). */
+var XF={"12014":{kcal:559,p:30.23,f:49.05,ca:46,ph:1233,zn:7.81,cu:1.343,va:16,vd:0,ve:2.18,io:null,o3:0,n:{it:"Semi di zucca macinati",en:"Ground pumpkin seeds",de:"Gemahlene Kürbiskerne"}},
+ "12036":{kcal:584,p:20.78,f:51.46,ca:78,ph:660,zn:5,cu:1.8,va:50,vd:0,ve:35.17,io:null,o3:0,n:{it:"Semi di girasole macinati",en:"Ground sunflower seeds",de:"Gemahlene Sonnenblumenkerne"}},
+ "04038":{kcal:884,p:0,f:100,ca:0,ph:0,zn:0,cu:0,va:0,vd:0,ve:149.4,io:null,o3:0,n:{it:"Olio di germe di grano",en:"Wheat germ oil",de:"Weizenkeimöl"}},
+ "15088":{kcal:208,p:24.62,f:11.45,ca:382,ph:490,zn:1.31,cu:.186,va:108,vd:193,ve:2.04,io:null,o3:.982,n:{it:"Sardine in scatola con le lische, sgocciolate",en:"Canned sardines with bones, drained",de:"Sardinen aus der Dose mit Gräten, abgetropft"}},
+ "KELP":{kcal:0,p:0,f:0,ca:0,ph:0,zn:0,cu:0,va:0,vd:0,ve:0,io:0,o3:0,n:{it:"Alga kelp in polvere",en:"Kelp powder",de:"Kelp-Pulver"}}};
+var CMP={zn:["05025","23567","12014","17199"],cu:["13325","17199","12036","12014"],io:["15015","01123","KELP"],ph:["15088","12014","13325"],ve:["04038","12036"]};
 var SHARE={carne:.40,trippa:.16,fegato:.04,organi:.08,ossa:.12,verdure:.15,frutta:.05};
 var ACTF=[.85,1,1.25,1.6];
 var STD={a95:{p:52.1,f:13.75,ca:1.45,ph:1.16,zn:20.8,cu:2.08,io:.30,va:1754,vd:159,ve:10.4},a110:{p:45,f:13.75,ca:1.25,ph:1,zn:18,cu:1.8,io:.26,va:1515,vd:138,ve:9},
@@ -56,9 +67,10 @@ function fine(a){return a<10?10:a<25?12:a<45?15:20}function eq(m,a){return m*12/
 function $(i){return box.querySelector("#"+i)}
 function dec(x,d){var s=d==null?String(x):x.toFixed(d);return L==="en"?s:s.replace(".",",")}
 function num(v){return parseFloat(String(v).replace(",","."))||0}
-function nm(k){return D.F[k].n[L]||D.F[k].n.it}
+function FD(k){return D.F[k]||XF[k]}
+function nm(k){var f=FD(k);return f.n[L]||f.n.it}
 /* dati del cane: modulo comune calcolatore-cane.js (24/10/2026). O.S può arrivare col formato vecchio della pagina della famiglia (sx, st, eta, mesi, ad, pk, kg) */
-var S={ing:{carne:"23567",trippa:"13341",fegato:"13325",organi:"13323",ossa:"RMB_collo",verdure:"11124",frutta:"09003"},sex:"m",ster:0,mode:"age",age:"24",adult:"16",kg:"",bcs:0,act:1,rep:"no",repD:"",np:6};
+var S={ing:{carne:"23567",trippa:"13341",fegato:"13325",organi:"13323",ossa:"RMB_collo",verdure:"11124",frutta:"09003"},sex:"m",ster:0,mode:"age",age:"24",adult:"16",kg:"",bcs:0,act:1,rep:"no",repD:"",np:6,ex:{},kelp:""};var OPEN=null;
 if(O.S){var o=O.S;if(o.sx)S.sex=o.sx;if(o.st!=null)S.ster=+o.st;if(o.eta==="pup"){S.age=String(o.mesi||4);S.adult=String(o.ad||16);S.kg=o.pk===""||o.pk==null?"":String(o.pk)}else if(o.eta){S.age=o.eta==="old"?"96":"24";S.adult=String(o.kg||o.ad||16)}
  ["sex","ster","mode","age","birth","adult","kg","bcs","act","rep","repD","np"].forEach(function(k){if(o[k]!=null)S[k]=o[k]})}
 /* «Altro…»: alimento scritto dal visitatore, valori da /api/public/alimento del gestionale; restano nel suo browser */
@@ -79,9 +91,12 @@ box.innerHTML='<div class="bf-grid"><div><div class="pp-nuovo dc-cane"></div>'+
  blk(5,'<div class="bf-row">'+Object.keys(D.CAT).map(function(c){return '<label class="bf-l">'+T.cat[c]+' · '+Math.round(SHARE[c]*100)+'%<select data-c="'+c+'">'+opts(c)+'</select></label>'}).join("")+'</div><div class="bf-alt" id="bf-alt" hidden><label class="bf-l" for="bf-altn" id="bf-altl"></label><div class="bf-altr"><input class="bf-n bf-altn" id="bf-altn" maxlength="80" autocomplete="off"><button type="button" class="bf-c on" id="bf-altb">'+T.altB+'</button><button type="button" class="bf-c" id="bf-altx">'+T.altX+'</button></div><p class="bf-hint" id="bf-altm" aria-live="polite"></p></div><p class="bf-hint">'+T.ingH+'</p>')+
  '</div><aside class="bf-res" id="bf-res" aria-live="polite"></aside></div><div class="pp-nuovo"><div class="pp-blk pp-tbb" id="bf-tbw" hidden><h2 class="pp-h" id="bf-tbh"></h2><div class="pp-tb"><table tabindex="0"><thead id="bf-th"></thead><tbody id="bf-tb"></tbody></table></div></div></div>';
 var CANE=window.DPDCane.make(box.querySelector(".dc-cane"),{lang:L,S:S,onChange:function(){draw()}});CANE.render();
-box.addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;if(b.id==="bf-altx"){$("bf-alt").hidden=true;ALT_C=null;return}if(b.id==="bf-altb"){altGo();return}});
+box.addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;if(b.id==="bf-altx"){$("bf-alt").hidden=true;ALT_C=null;return}if(b.id==="bf-altb"){altGo();return}
+ if(b.dataset.cmp){OPEN=OPEN===b.dataset.cmp?null:b.dataset.cmp;draw();return}
+ if(b.dataset.add){S.ex[b.dataset.add]={g:+b.dataset.g,n:b.dataset.n};OPEN=null;draw();return}
+ if(b.dataset.rm){delete S.ex[b.dataset.rm];draw();return}});
 box.addEventListener("keydown",function(e){if(e.target.id==="bf-altn"&&e.key==="Enter"){e.preventDefault();altGo()}});
-box.addEventListener("change",function(e){var t=e.target;if(t.id==="bf-altn")return;if(t.dataset.c){if(t.value==="__alt"){ALT_C=t.dataset.c;t.value=S.ing[ALT_C]||"";var pa=$("bf-alt");t.closest("label").after(pa);pa.hidden=false;$("bf-altl").textContent=T.altL+T.cat[ALT_C]+"»";$("bf-altm").textContent="";$("bf-altn").value="";$("bf-altn").focus();return}S.ing[t.dataset.c]=t.value}draw()});
+box.addEventListener("change",function(e){var t=e.target;if(t.id==="bf-altn")return;if(t.classList.contains("bf-kelpn")){S.kelp=t.value;draw();return}if(t.dataset.c){if(t.value==="__alt"){ALT_C=t.dataset.c;t.value=S.ing[ALT_C]||"";var pa=$("bf-alt");t.closest("label").after(pa);pa.hidden=false;$("bf-altl").textContent=T.altL+T.cat[ALT_C]+"»";$("bf-altm").textContent="";$("bf-altn").value="";$("bf-altn").focus();return}S.ing[t.dataset.c]=t.value}draw()});
 function sh(){var s={},t=0;for(var c in SHARE)if(S.ing[c]){s[c]=SHARE[c];t+=SHARE[c]}for(var c2 in s)s[c2]/=t;return s}
 function need(){var N=CANE.need();return N.miss.length?N:N}
 var NK=["p","f","ca","ph","zn","cu","io","va","vd","ve","o3"];
@@ -90,24 +105,41 @@ function draw(){var r=$("bf-res"),N=need();if(N.miss.length){r.innerHTML='<p>'+T
  function tot(g0){var t={};NK.forEach(function(k){t[k]=0});for(var c in SH){var it=D.F[S.ing[c]],g=g0*SH[c];NK.forEach(function(k){var v=it[k];t[k]+=(v==null?0:v)*g/100})}return t}
  function per(t,kc){var f=1000/kc;return{p:t.p*f,f:t.f*f,ca:t.ca/1000*f,ph:t.ph/1000*f,zn:t.zn*f,cu:t.cu*f,io:t.io/1000*f,va:t.va*f,vd:t.vd*f,ve:t.ve*1.49*f,o3:t.o3*f}}
  var R=Object.assign({},STD[N.std]);if(N.std==="lg"&&N.ad>15)R.ca=2.5;/* FEDIAF 2024: crescita oltre 15 kg da adulto */
- var P=per(tot(N.kc/dens),N.kc),k=N.kc/1000,sup=[],vet=[],add={kc:0,ca:0,vd:0,va:0,o3:0};
+ function plus(a,b){NK.forEach(function(q){a[q]+=b[q]});return a}
+ function exT(o){var t={kc:0};NK.forEach(function(q){t[q]=0});for(var x in o){var f=FD(x),g=o[x].g;if(!f)continue;t.kc+=f.kcal*g/100;NK.forEach(function(q){var v=x==="KELP"&&q==="io"?num(S.kelp)*100:f[q];t[q]+=(v==null?0:v)*g/100})}return t}
+ var E=exT(S.ex),P=per(plus(tot((N.kc-E.kc)/dens),E),N.kc),k=N.kc/1000,sup=[],vet=[],add={kc:0,ca:0,vd:0,va:0,o3:0};
  var big=N.std==="a95"||N.std==="a110",rMax=big?2:N.std==="eg"?1.6:(N.ad>15?1.6:1.8),caMax=big?6.25:N.std==="eg"?4:4.5;
  var caT=Math.min(Math.max(R.ca*1.05,P.ph*1.1),P.ph*rMax*.95);if(P.ca<caT){var gCa=(caT-P.ca)*k;sup.push('<b>'+dec(Math.ceil(gCa/.38*10)/10)+' g</b>'+T.gus);add.ca=gCa}
  if(P.vd<R.vd*1.02){var iu=(R.vd*1.05-P.vd)*k,go=iu/100;sup.push('<b>'+dec(Math.ceil(go*10)/10)+' g</b>'+T.mer);add.vd=iu;add.va+=go*1000;add.o3+=go*.1787;add.kc+=go*9.02}
  if(R.o3&&P.o3+add.o3/k<R.o3*1.02){var o=R.o3*1.05*k-(P.o3*k+add.o3),gs=o/.3125;sup.push('<b>'+dec(Math.ceil(gs*10)/10)+' g</b>'+T.sal);add.o3+=o;add.kc+=gs*9.02}
- if(P.io<R.io)vet.push(T.io+': '+T.miss+'<b>'+Math.round((R.io-P.io)*k*1000)+' µg</b>'+T.perDay+T.ioH);
- if(P.ph<R.ph*.9)vet.push(T.ph+': '+T.miss+'<b>'+Math.round((R.ph-P.ph)*k*1000)+' mg</b>'+T.perDay+T.phH);
- if(P.zn<R.zn*.9)vet.push(T.zn+': '+T.miss+'<b>'+dec((R.zn-P.zn)*k,1)+' mg</b>'+T.perDay);
- if(P.cu<R.cu*.9)vet.push(T.cu+': '+T.miss+'<b>'+dec((R.cu-P.cu)*k,2)+' mg</b>'+T.perDay);
- if(P.ve<R.ve*.9)vet.push(T.ve+': '+T.miss+'<b>'+dec((R.ve-P.ve)*k,1)+' '+IU+'</b>'+T.perDay+T.veH);
- var g2=(N.kc-add.kc)/dens,T2=tot(g2);T2.ca+=add.ca*1000;T2.vd+=add.vd;T2.va+=add.va;T2.o3+=add.o3/1.49*1.49;var P2=per(T2,N.kc);P2.o3=per(tot(g2),N.kc).o3+add.o3/k;
+ /* carenze: per ognuna «Alimenti per compensare» con la dose che porta al minimo FEDIAF (+5%) */
+ var DEF={};
+ if(P.io<R.io){DEF.io=(R.io*1.05-P.io)*k*1000;vet.push(['io',T.io+': '+T.miss+'<b>'+Math.round((R.io-P.io)*k*1000)+' µg</b>'+T.perDay+T.ioH])}
+ if(P.ph<R.ph){DEF.ph=(R.ph*1.05-P.ph)*k*1000;vet.push(['ph',T.ph+': '+T.miss+'<b>'+Math.round((R.ph-P.ph)*k*1000)+' mg</b>'+T.perDay+T.phH])}
+ if(P.zn<R.zn){DEF.zn=(R.zn*1.05-P.zn)*k;vet.push(['zn',T.zn+': '+T.miss+'<b>'+dec((R.zn-P.zn)*k,1)+' mg</b>'+T.perDay])}
+ if(P.cu<R.cu){DEF.cu=(R.cu*1.05-P.cu)*k;vet.push(['cu',T.cu+': '+T.miss+'<b>'+dec((R.cu-P.cu)*k,2)+' mg</b>'+T.perDay])}
+ if(P.ve<R.ve){DEF.ve=(R.ve*1.05-P.ve)*k;vet.push(['ve',T.ve+': '+T.miss+'<b>'+dec((R.ve-P.ve)*k,1)+' '+IU+'</b>'+T.perDay+T.veH])}
+ function gfmt(g){return g<1?dec(Math.ceil(g*100)/100,2):g<10?dec(Math.ceil(g*10)/10,1):String(Math.ceil(g))}
+ function gr(g){return g<1?Math.ceil(g*100)/100:g<10?Math.ceil(g*10)/10:Math.ceil(g)}
+ function cmp(n){var d=DEF[n],out=CMP[n].filter(function(x){return!S.ex[x]}).map(function(x){var f=FD(x),c=x==="KELP"?num(S.kelp)*100:(n==="ve"?f.ve*1.49:f[n]);
+   var kin=x==="KELP"?'<label class="bf-kelp"><span>'+T.kelpL+'</span> <input class="bf-n bf-kelpn" inputmode="decimal" value="'+String(S.kelp).replace(/"/g,"")+'" aria-label="'+T.kelpL+'"> '+T.kelpU+'</label>':'';
+   if(!c)return'<li><b>'+nm(x)+'</b>'+kin+'</li>';
+   var g=gr(d/(c/100)),kc=f.kcal*g/100,o={};o[x]={g:g};for(var y in S.ex)o[y]=S.ex[y];var Eo=exT(o),Pt=per(plus(tot((N.kc-Eo.kc)/dens),Eo),N.kc),why="";
+   if(Pt.va>100000)why=T.vaN;else if(Pt.vd>800)why=T.vdN;else if(Pt.ca>caMax)why=T.caN;else if(big&&Pt.ph>4)why=T.phN;else if(Pt.ca/Pt.ph>rMax)why=T.rN;
+   var lab='<b>'+nm(x)+'</b>: ';
+   if(why)return'<li class="bf-no">'+lab+T.noMx+why+kin+'</li>';if(kc>N.kc*.1)return'<li class="bf-no">'+lab+T.noKc+kin+'</li>';
+   return'<li>'+lab+'<b>'+gfmt(g)+' g</b>'+T.perDay+(kc>=1?' (+'+Math.round(kc)+' kcal)':'')+' <button type="button" class="bf-c bf-add" data-add="'+x+'" data-g="'+g+'" data-n="'+n+'">'+T.addB+'</button>'+kin+'</li>'}).join("");
+  return'<div class="bf-cmp"><p class="bf-ps">'+T.cmpH+'</p><ul class="bf-ul">'+out+'</ul></div>'}
+ vet=vet.map(function(v){var on=OPEN===v[0];return v[1]+'<br><button type="button" class="bf-c bf-cmpb'+(on?' on':'')+'" data-cmp="'+v[0]+'" aria-expanded="'+on+'">'+T.cmpB+'</button>'+(on?cmp(v[0]):'')});
+ var g2=(N.kc-E.kc-add.kc)/dens,T2=plus(tot(g2),E);T2.ca+=add.ca*1000;T2.vd+=add.vd;T2.va+=add.va;T2.o3+=add.o3/1.49*1.49;var P2=per(T2,N.kc);P2.o3=per(plus(tot(g2),E),N.kc).o3+add.o3/k;
  function st(v,min,max){if(max!=null&&v>max)return'<span class="bf-st bf-ko">'+T.hi+'</span>';if(min==null||v>=min)return'<span class="bf-st bf-ok">'+T.ok+'</span>';if(v>=min*.9)return'<span class="bf-st bf-lim">'+T.lim+'</span>';return'<span class="bf-st bf-ko">'+T.ko+'</span>'}
  var rows=[[P2.p,"g",R.p],[P2.f,"g",R.f],[P2.ca,"g",R.ca,caMax],[P2.ph,"g",R.ph,big?4:null],[P2.ca/P2.ph,"",1,rMax],[P2.zn,"mg",R.zn],[P2.cu,"mg",R.cu],[P2.io,"mg",R.io],[P2.va,IU,R.va,100000],[P2.vd,IU,R.vd,800],[P2.ve,IU,R.ve],[P2.o3,"g",R.o3||null]];
  var tb=rows.map(function(x,i){var v=x[0],d=v>=100?Math.round(v):v>=10?dec(v,1):dec(v,2),mi=x[2]==null?"–":(x[2]>=100?Math.round(x[2]):dec(x[2]));return '<tr><td>'+T.rows[i]+'</td><td class="bf-r">'+d+' '+x[1]+'</td><td class="bf-r">'+mi+'</td><td class="bf-r">'+st(v,x[2],x[3])+'</td></tr>'}).join("");
  var ml=N.sug>=3?3:2,comp=Object.keys(SH).map(function(c){var gg=g2*SH[c];return '<tr><td>'+nm(S.ing[c])+'</td><td class="bf-r">'+Math.round(gg/5)*5+' g</td><td class="bf-r bf-k">'+Math.round(gg*D.F[S.ing[c]].kcal/100)+' kcal</td></tr>'}).join(""),
+  exr=Object.keys(S.ex).filter(function(x){return FD(x)}).map(function(x){var g=S.ex[x].g;return '<tr class="bf-exr"><td>'+nm(x)+' <small>('+T.exT+T[S.ex[x].n]+')</small> <button type="button" class="bf-c bf-rm" data-rm="'+x+'">'+T.rmB+'</button></td><td class="bf-r">'+gfmt(g)+' g</td><td class="bf-r bf-k">'+Math.round(g*FD(x).kcal/100)+' kcal</td></tr>'}).join(""),
   manca=Object.keys(SHARE).filter(function(c){return!S.ing[c]}).map(function(c){return L==='de'?T.cat[c]:T.cat[c].toLowerCase()});
  r.innerHTML='<div class="bf-big">'+Math.round(g2/10)*10+' g<small>'+T.day+'</small></div><p class="bf-ps">'+Math.round(N.kc)+' kcal · '+ml+T.meals+Math.round(g2/ml/5)*5+' g · '+T.w+dec(N.W,1)+' kg · '+N.lab+'</p><p class="bf-ps">'+N.note+'</p>'+
-  '<h3 class="bf-h3">'+T.bowl+'</h3><table class="bf-t">'+comp+'</table>'+(manca.length?'<p class="bf-ps">'+T.without+manca.join(', ')+T.withoutE+Math.round(N.kc)+T.withoutF+'</p>':'')+'<p class="bf-ps">'+T.week+'<b>'+dec(Math.round(g2*7/100)/10)+' kg</b>'+T.weekE+'</p>'+
+  '<h3 class="bf-h3">'+T.bowl+'</h3><table class="bf-t">'+comp+exr+'</table>'+(manca.length?'<p class="bf-ps">'+T.without+manca.join(', ')+T.withoutE+Math.round(N.kc)+T.withoutF+'</p>':'')+'<p class="bf-ps">'+T.week+'<b>'+dec(Math.round(g2*7/100)/10)+' kg</b>'+T.weekE+'</p>'+
   '<h3 class="bf-h3">'+T.add+'</h3>'+(sup.length?'<p class="bf-ps">'+T.addH+'</p><ul class="bf-ul"><li>'+sup.join('</li><li>')+'</li></ul>':'<p class="bf-ps">'+T.noAdd+'</p>')+
   (vet.length?'<p class="bf-ps"><b>'+T.vet+'</b>:</p><ul class="bf-ul"><li>'+vet.join('</li><li>')+'</li></ul>':'')+
   '<h3 class="bf-h3">'+T.nut+'</h3><div class="bf-tw"><table class="bf-t" tabindex="0"><thead><tr><th></th><th class="bf-r">'+T.inb+'</th><th class="bf-r">'+T.min+'</th><th class="bf-r"></th></tr></thead><tbody>'+tb+'</tbody></table></div><p class="bf-av">'+T.av+'</p>';
