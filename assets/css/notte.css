@@ -686,3 +686,15 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .bf .pp-nuovo.dc-cane{margin:0}
 .bf .pp-nuovo .pp-tbb{margin-top:18px}
 .notte-pagina main .pp-nuovo .dc-t{font-size:.9rem!important}.notte-pagina main .pp-nuovo .dc-t span{font-size:.8rem!important}
+.pp-nuovo .dc-tld{margin-top:12px;border:1px solid #c9d2de;border-radius:12px;background:#f6f8fb}
+.pp-nuovo .dc-tld summary{cursor:pointer;list-style:none;padding:10px 40px 10px 12px;position:relative;display:flex;flex-direction:column;gap:2px}
+.pp-nuovo .dc-tld summary::-webkit-details-marker{display:none}
+.pp-nuovo .dc-tld summary::after{content:"";position:absolute;right:14px;top:50%;width:8px;height:8px;border-right:2px solid #1f3a5f;border-bottom:2px solid #1f3a5f;transform:translateY(-70%) rotate(45deg);transition:transform .15s}
+.pp-nuovo .dc-tld[open] summary::after{transform:translateY(-30%) rotate(-135deg)}
+.notte-pagina main .pp-nuovo .dc-tld summary b{color:#1f2d42;font-size:.92rem}
+.notte-pagina main .pp-nuovo .dc-tld summary span{color:#4a5768;font-size:.85rem;line-height:1.35}
+.pp-nuovo .dc-tld .dc-tl{margin:4px 12px 6px 22px}
+.pp-nuovo .dc-tld>.pp-ok{padding:0 12px 10px}
+.pp-nuovo .dc-rd label,.pp-nuovo .pp-dn{min-width:0}
+.pp-nuovo input[type=date]{max-width:100%;min-width:0;box-sizing:border-box;-webkit-appearance:none;appearance:none}
+.pp-nuovo .dc-rd input[type=date]{width:100%}
