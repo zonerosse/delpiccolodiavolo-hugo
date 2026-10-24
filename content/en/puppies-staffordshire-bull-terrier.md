@@ -240,7 +240,7 @@ custom_content: |
   <span class="section-label">Placements abroad</span>
   <h2 class="section-title">A puppy going abroad</h2>
   <p>A puppy going to a family in another European country leaves at around <strong>four months</strong>, not two: the rabies vaccination cannot be given before 12 weeks and needs time to become valid. A pet passport, a TRACES health certificate and an ENCI export pedigree are also required.</p>
-  <p><a href="/en/staffordshire-bull-terrier-puppy-abroad/">How a placement abroad works: timing, paperwork and export pedigree &rarr;</a></p>
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Placements abroad</span><h3>How a placement abroad works</h3><p>Timing, paperwork and export pedigree.</p><a class="btn" href="/en/staffordshire-bull-terrier-puppy-abroad/" title="How a placement abroad works">Read the guide</a></div></div>
   </div>
   </section>
   <!--/BLOCCO:10-->

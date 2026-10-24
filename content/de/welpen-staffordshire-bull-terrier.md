@@ -240,7 +240,7 @@ custom_content: |
   <span class="section-label">Vermittlung ins Ausland</span>
   <h2 class="section-title">Ein Welpe, der ins Ausland geht</h2>
   <p>Ein Welpe f&uuml;r eine Familie in einem anderen europ&auml;ischen Land reist mit etwa <strong>vier Monaten</strong>, nicht mit zwei: die Tollwutimpfung ist erst ab 12 Wochen m&ouml;glich und braucht Zeit, um g&uuml;ltig zu werden. Hinzu kommen EU-Heimtierausweis, TRACES-Gesundheitszeugnis und ENCI-Exportstammbaum.</p>
-  <p><a href="/de/staffordshire-bull-terrier-welpe-ins-ausland/">Wie eine Vermittlung ins Ausland abl&auml;uft: Fristen, Papiere und Exportstammbaum &rarr;</a></p>
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Vermittlung ins Ausland</span><h3>Wie eine Vermittlung ins Ausland abläuft</h3><p>Fristen, Papiere und Exportstammbaum.</p><a class="btn" href="/de/staffordshire-bull-terrier-welpe-ins-ausland/" title="Wie eine Vermittlung ins Ausland abläuft">Zum Ratgeber</a></div></div>
   </div>
   </section>
   <!--/BLOCCO:10-->

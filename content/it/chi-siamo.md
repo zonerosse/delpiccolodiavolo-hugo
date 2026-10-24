@@ -2,7 +2,7 @@
 title: "Chi siamo"
 titleSeo: "Chi siamo: allevatori di Staffordshire Bull Terrier dal 2013"
 date: 2025-12-28
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 tipoPagina: "ProfilePage"
 notte: true
 translationKey: "chi-siamo"
@@ -71,7 +71,7 @@ custom_content: |
   <div class="n-passo"><h3>Prima degli Staffy</h3><div><p>Prima degli Staffordshire Bull Terrier ho allevato Rottweiler, e da quell'allevamento sono usciti un Campione Italiano e un Campione Europeo. Ho allevato canarini Gloster e li ho giudicati come giudice internazionale: valutare soggetti uno dopo l'altro, e dover spiegare perch&eacute; uno vale pi&ugrave; di un altro, &egrave; una scuola che con i cani serve pi&ugrave; di quanto sembri.</p><p>Gli otto anni prima della prima cucciolata sono serviti a studiare lo standard, a viaggiare in Inghilterra e in Irlanda e a capire con quali linee volevo lavorare.</p></div></div>
   <div class="n-passo"><h3>Perché Elitebull e Lackyle</h3><div><p>Non sono due stili contrapposti, e non è una questione di Irlanda contro Inghilterra: sono due allevamenti che hanno fatto la storia della razza, uno prima e uno dopo.</p><p>Nella storia della razza <strong>Lackyle</strong> è arrivato per primo, e i suoi soggetti storici si ritrovano oggi nei pedigree di mezza Europa. <strong>Elitebull</strong> &egrave; quello che pesa adesso, e nei suoi pedigree ci sono proprio i cani storici di Lackyle. Non due linee alternative, quindi: la seconda porta dentro la prima.</p><p>Ci lavoro perché sono linee documentate e verificabili, che producono in modo prevedibile. È quello che serve quando un accoppiamento lo pianifichi, invece di sperare.</p><p>Dietro la scelta di queste linee c'è anche un motivo che non è tecnico. In quei pedigree c'&egrave; <strong>Lackyle Diabhal &Oacute;g</strong>, in irlandese il piccolo diavolo, che per me resta uno dei migliori cani dell'epoca moderna, lui e tutto quello che ha lasciato dietro di sé. <strong>Del Piccolo Diavolo</strong> è la traduzione del suo nome: l'allevamento si chiama così per lui.</p></div></div>
   </div>
-  <p class="n-vedi"><a href="/femmine-staffordshire-bull-terrier/">Le femmine che portano quelle linee</a>. Otto schede con microchip, test genetici e pedigree: da l&igrave; risali alle genealogie e verifichi tutto.</p>
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Le femmine</span><h3>Le femmine che portano quelle linee</h3><p>Otto schede con microchip, test genetici e pedigree: da lì risali alle genealogie e verifichi tutto.</p><a class="btn" href="/femmine-staffordshire-bull-terrier/" title="Le femmine che portano quelle linee">Vai alle femmine</a></div></div>
   </div>
   </section>
   <!--/BLOCCO:3-->

@@ -304,7 +304,7 @@ custom_content: |
   <span class="section-label">Affidi all'estero</span>
   <h2 class="section-title">Un cucciolo che va all'estero</h2>
   <p>Un cucciolo destinato a una famiglia di un altro paese europeo parte intorno ai <strong>quattro mesi</strong>, non a due: la vaccinazione antirabbica non si pu&ograve; fare prima delle 12 settimane e ha bisogno di tempo per diventare valida. A questa si aggiungono passaporto europeo, certificato sanitario TRACES ed export pedigree ENCI.</p>
-  <p><a href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Cucciolo Staffordshire Bull Terrier all'estero">Come funziona un affido all'estero: tempi, documenti ed export pedigree &rarr;</a></p>
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Affidi all'estero</span><h3>Come funziona un affido all'estero</h3><p>Tempi, documenti ed export pedigree.</p><a class="btn" href="/cucciolo-staffordshire-bull-terrier-all-estero/" title="Come funziona un affido all'estero">Leggi la guida</a></div></div>
   </div>
   </section>
   <!--/BLOCCO:10-->

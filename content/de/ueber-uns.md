@@ -1,7 +1,7 @@
 ---
 title: "Über uns – der Züchter hinter Del Piccolo Diavolo"
 date: 2025-12-28
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 tipoPagina: "ProfilePage"
 notte: true
 translationKey: "chi-siamo"
@@ -91,6 +91,7 @@ custom_content: |
   <p>Er arbeitet mit den Blutlinien Elitebull (England) und Lackyle (Irland) und <a href="/de/staffy-gentests-l2hga-hc/" title="Staffy Gentests: L2-HGA, HC (HSF4) und DM (SOD1)">testet alle Zuchttiere auf L2-HGA und HC</a> oder prüft sie als frei durch Abstammung, mit den Befunden der Eltern. Unsere Hunde sind außerdem frei von DM-SOD1. Mit <strong>Bilquis Goddess Diabhal</strong> gewann er den Titel Italienische Schönheitschampionin ENCI und einen vierten Platz bei der World Dog Show in Zagreb 2024. Jeder <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Welpe</a> erhält eine ENCI-Ahnentafel und die Testzertifikate der Eltern.</p>
   <p>Die Fakten, Daten und Entscheidungen auf diesen Seiten sind seine: Sie stammen aus dem, was in der Zucht passiert. Für Fragen zu Welpen, Blutlinien oder Gentests: <a href="/de/kontakt/">schreiben Sie mir direkt</a>.</p>
 
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Die Hündinnen</span><h3>Die Hündinnen, die diese Linien tragen</h3><p>Acht Profile mit Mikrochip, Gentests und Ahnentafel: von dort aus verfolgen Sie die Abstammung und prüfen alles.</p><a class="btn" href="/de/huendinnen-staffordshire-bull-terrier/" title="Die Hündinnen, die diese Linien tragen">Zu den Hündinnen</a></div></div>
   </div>
   </section>
   <!--/BLOCCO:5-->
