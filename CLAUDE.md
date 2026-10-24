@@ -416,6 +416,11 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
   uguali nelle tre lingue; il catalogo del gestionale ha `a`/`au` per 334 crocchette (cercate da Claude il 23/10/2026). Per le crocchette senza
   etichetta lo script la chiede a `https://gestionale.delpiccolodiavolo.it/api/public/etichetta` (Claude cerca in internet una volta, poi vale per
   tutti; `pappaEt` nel browser). Anziano sterilizzato 1,3; nel cucciolo sterilizzato una frase spiega che conta la crescita.
+- 24/10/2026 (Paolo, anteprime 33-35, scelta C): «Rimedia». Nella tabella dei nutrienti, sotto «manca»/«al limite» di fosforo, zinco, rame,
+  iodio e vitamina E, il tasto «Rimedia» apre una finestra dal basso (`.bf-sh`) con gli alimenti per compensare (`CMP`, dati extra `XF`, USDA SR28):
+  grammi per arrivare al minimo FEDIAF +5%, misura in cucchiai/cucchiaini, kcal; in grigio quelli che sforano un massimo (vit. A, D, calcio, fosforo,
+  Ca:P) o servono oltre il 10% delle calorie. Toccato, entra nella ciotola (`S.ex`, riga «aggiunto per», «Togli») e le calorie restano quelle.
+  Iodio: solo alga kelp, con i µg/g scritti dall'etichetta (Paolo: niente ostriche né pesce). Stile in fondo a `notte.css`, copiato nel gestionale.
 - 24/10/2026 (Paolo, anteprima-18, scelta C): la tendina «Carne muscolare» del BARF è divisa in gruppi (`<optgroup>`, mappa `CG` e testi `T.cg`
   nello script): Carne · Cuore e ventrigli (contano come carne) · Pesce · Uova · Aggiunti da te (alimenti di «Altro…»). Nuovi alimenti di carne: metterli in `CG`.
 
