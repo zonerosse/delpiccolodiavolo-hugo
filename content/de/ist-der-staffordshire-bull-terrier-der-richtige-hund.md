@@ -59,6 +59,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Die Vorteile: warum der Staffy die Herzen erobert</h2>
+  <figure class="n-foto1"><img src="/images/blog/storie-famiglie-hero.webp" alt="Ein Paar umarmt seinen Staffordshire Bull Terrier" width="1000" height="1321" loading="lazy" decoding="async"></figure>
 
   <h3>1. Eine außergewöhnliche Zuneigung</h3>
   <p>Er ist vielleicht die am stärksten familiengebundene Rasse überhaupt. Er folgt Ihnen überallhin, liebt Körperkontakt, lebt dafür, bei Ihnen zu sein. Wenn Sie einen "distanzierten und unabhängigen" Hund suchen, ist er es nicht: Der Staffy will <em>Teil</em> des häuslichen Lebens sein.</p>
@@ -84,6 +85,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>Die Nachteile: was Ihnen niemand sagt (und wir schon)</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-che-dorme-sul-divano.webp" alt="Ein Staffordshire Bull Terrier Welpe schläft auf dem Rücken auf dem Sofa" width="506" height="900" loading="lazy" decoding="async"></figure>
   <p>Keine Rasse ist perfekt, und wer Ihnen nur Wunderbares erzählt, hilft Ihnen nicht. Hier sind die <strong>echten</strong> Schwächen des Staffy, nicht um Sie abzuschrecken, sondern damit Sie gut wählen.</p>
 
   <h3>1. Er erträgt das Alleinsein nicht</h3>
@@ -136,6 +138,7 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>Wie viel Aufwand es konkret erfordert</h2>
+  <figure class="n-foto1"><img src="/images/foto/giovane-staffordshire-bull-terrier-con-pettorina.webp" alt="Ein junger Staffordshire Bull Terrier mit Brustgeschirr, bereit für den Abendspaziergang" width="410" height="480" loading="lazy" decoding="async"></figure>
   <p>Schreiben wir auf, was es braucht, damit es keine Überraschungen gibt:</p>
   <ul>
   <li><strong>Bewegung:</strong> Spaziergänge und Spiel jeden Tag, mehr in jungen Jahren; wie viel, entscheidet der Hund</li>

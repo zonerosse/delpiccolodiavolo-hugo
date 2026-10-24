@@ -61,6 +61,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Cosa rende la razza adatta</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-sul-divano.webp" alt="Cucciolo di Staffordshire Bull Terrier che riposa sul petto del suo proprietario, sul divano" width="675" height="900" loading="lazy" decoding="async"></figure>
   <p>Prima di tutto taglia e mantello. Un cane fra gli undici e i diciassette chili si riesce a sollevare in auto, a portare in braccio sulle scale in un'emergenza e a tenere in un appartamento. Il pelo raso chiede un guanto di gomma una volta alla settimana e nient'altro: niente toelettatore, niente nodi, niente viaggi in auto per la toelettatura.</p>
   <p>Il bisogno di movimento è moderato e, cosa decisiva, flessibile. Due o tre uscite al giorno, di una durata che dipende dal cane, si adattano a una giornata costruita su una passeggiata al mattino e una al pomeriggio molto meglio di una razza che ha bisogno di correre. Nei giorni no, un po' di lavoro mentale in casa sostituisce la passeggiata senza che il cane diventi distruttivo.</p>
   <p>Poi c'è il carattere, che è il vero argomento. Questa razza si lega intensamente alle sue persone e vuole stare a contatto fisico con loro. Per chi vive da solo, un cane che ti segue da una stanza all'altra e si appoggia alla tua gamba non è un dettaglio: è il motivo stesso. La routine di dare da mangiare, uscire e prendersi cura di un animale aiuta l'umore, per dare struttura alla giornata e per i contatti con gli altri, e un cane che ti accoglie con entusiasmo due volte al giorno è un motivo per alzarsi.</p>
@@ -93,6 +94,7 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <h2>Una giornata realistica</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-in-braccio.webp" alt="Signora che tiene in braccio un cucciolo di Staffordshire Bull Terrier" width="675" height="900" loading="lazy" decoding="async"></figure>
   <p>Una giornata che funziona per molte persone anziane è fatta così: appena svegli un'uscita breve per i bisogni, la colazione, poi la passeggiata principale al mattino; riposo in casa fino a pranzo, con il cane che rosicchia un Kong ripieno mentre voi mangiate; un riposo nel pomeriggio, un'uscita breve e qualche gioco tranquillo di olfatto o di ricerca insieme; una passeggiata serale, il divano, e un'ultima uscita veloce prima di dormire. Quanto durano le passeggiate lo decidono il cane, la sua et&agrave; e il caldo, non l'orologio.</p>
   <!--/BLOCCO:8-->
 

@@ -61,6 +61,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Valutare il carattere: la compatibilità con gli altri animali</h2>
+  <figure class="n-foto1"><img src="/images/foto/cuccioli-staffordshire-bull-terrier-cucciolata-nell-erba.webp" alt="Cucciolata di Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo nel prato" width="800" height="580" loading="lazy" decoding="async"></figure>
   <p>Non tutti gli <strong>Staffordshire Bull Terrier</strong> hanno lo stesso grado di compatibilità con gli altri animali. Prima di tentare qualsiasi inserimento, una valutazione onesta del carattere del proprio cane è indispensabile, sia per la riuscita sia per la sicurezza.</p>
 
   <h3>Profilo A - compatibilità alta (Staffy ben socializzati)</h3>
@@ -157,6 +158,7 @@ custom_content: |
 
   <!--BLOCCO:5-->
   <h2>Inserire uno Staffy con un altro cane: il protocollo passo per passo</h2>
+  <figure class="n-foto1"><img src="/images/foto/due-cuccioli-staffordshire-bull-terrier-nel-prato.webp" alt="Due cuccioli di Staffordshire Bull Terrier della stessa cucciolata seduti vicini nel prato" width="900" height="680" loading="lazy" decoding="async"></figure>
 
   <p>L'inserimento fra cani chiede una progressione lenta e metodica. Avere fretta significa rischiare litigi che possono rovinare il rapporto per sempre.</p>
 
@@ -279,6 +281,7 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>La convivenza con i piccoli animali: conigli, furetti, uccelli, roditori</h2>
+  <figure class="n-foto1"><img src="/images/cucciolo-con-cavallo.avif" alt="Cucciola di Staffordshire Bull Terrier che annusa con calma un cavallo" width="491" height="600" loading="lazy" decoding="async"></figure>
 
   <p>Uno Staffy che vive con animali sotto i 5 kg è sempre una situazione ad alto rischio. L'istinto predatorio verso prede piccole e veloci è forte in molti Staffy.</p>
 
@@ -356,6 +359,7 @@ custom_content: |
 
   <!--BLOCCO:9-->
   <h2>Segnali di stress e linguaggio del corpo: cosa osservare</h2>
+  <figure class="n-foto1"><img src="/images/foto/giovane-staffordshire-bull-terrier-sul-balcone.webp" alt="Giovane Staffordshire Bull Terrier seduto sul balcone, attento a quello che succede" width="675" height="900" loading="lazy" decoding="async"></figure>
 
   <p>Riconoscere presto lo stress evita che i conflitti crescano. I cani comunicano il disagio prima di reagire con aggressività.</p>
 

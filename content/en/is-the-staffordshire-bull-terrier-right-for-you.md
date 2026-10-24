@@ -59,6 +59,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>The pros: why the Staffy wins hearts</h2>
+  <figure class="n-foto1"><img src="/images/blog/storie-famiglie-hero.webp" alt="A couple hugging their Staffordshire Bull Terrier" width="1000" height="1321" loading="lazy" decoding="async"></figure>
 
   <h3>1. Affection out of the ordinary</h3>
   <p>It is one of the most family-bonded breeds. It follows you everywhere, loves physical contact, lives to be with you. If you want a "detached and independent" dog, this is not the one: the Staffy wants to <em>be part</em> of home life.</p>
@@ -84,6 +85,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>The cons: what no one tells you (and we do)</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-che-dorme-sul-divano.webp" alt="A Staffordshire Bull Terrier puppy sleeping belly up on the sofa" width="506" height="900" loading="lazy" decoding="async"></figure>
   <p>No breed is perfect, and anyone who tells you only wonderful things is not helping you. Here are the <strong>real</strong> flaws of the Staffy, not to put you off, but to help you choose well.</p>
 
   <h3>1. It can't stand being alone</h3>
@@ -136,6 +138,7 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>How much commitment it really takes</h2>
+  <figure class="n-foto1"><img src="/images/foto/giovane-staffordshire-bull-terrier-con-pettorina.webp" alt="A young Staffordshire Bull Terrier in its harness, ready for the evening walk" width="410" height="480" loading="lazy" decoding="async"></figure>
   <p>Let's set out what it takes, so there are no surprises:</p>
   <ul>
   <li><strong>Exercise:</strong> walks and play every day, more when young; how much is up to the dog</li>

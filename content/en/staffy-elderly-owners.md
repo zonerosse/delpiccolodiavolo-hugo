@@ -56,6 +56,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>What makes the breed suitable</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-sul-divano.webp" alt="A Staffordshire Bull Terrier puppy resting on its owner's chest on the sofa" width="675" height="900" loading="lazy" decoding="async"></figure>
   <p>Size and coat first. A dog of eleven to seventeen kilograms is manageable to lift into a car, to carry up stairs in an emergency, and to accommodate in a flat. The smooth coat needs a rubber mitt once a week and nothing else: no professional grooming appointments, no mats, no trips to a groomer that require driving.</p>
   <p>Exercise requirements are moderate and, crucially, flexible. Two or three outings a day, of a length that depends on the dog, suit a routine built around a morning and an afternoon walk far better than a breed that needs to run. On a bad day, mental work at home substitutes for a walk without the dog becoming destructive.</p>
   <p>Then there is temperament, which is the real argument. This breed attaches intensely to its people and wants to be in physical contact with them. For someone living alone, a dog that follows you from room to room and settles against your leg is not a minor detail: it is the whole point. The routine of feeding, walking and caring for an animal helps mood, structure and social contact, and a dog that greets you with enthusiasm twice a day is a reason to get up.</p>
@@ -88,6 +89,7 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <h2>A realistic day</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-in-braccio.webp" alt="A woman holding a Staffordshire Bull Terrier puppy in her arms" width="675" height="900" loading="lazy" decoding="async"></figure>
   <p>A day that works for many older owners looks like this: a short toilet outing on waking, breakfast, then the main walk in the morning; rest at home until lunch, with the dog chewing a filled Kong while you eat; an afternoon rest, a short outing and some calm scent or puzzle games together; an evening walk, time on the sofa, and a last quick outing before bed. How long the walks last is decided by the dog, its age and the heat, not by the clock.</p>
   <!--/BLOCCO:8-->
 

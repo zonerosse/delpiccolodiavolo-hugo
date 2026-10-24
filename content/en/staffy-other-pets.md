@@ -56,6 +56,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Assessing temperament: compatibility with other animals</h2>
+  <figure class="n-foto1"><img src="/images/foto/cuccioli-staffordshire-bull-terrier-cucciolata-nell-erba.webp" alt="A litter of Staffordshire Bull Terrier puppies from the Del Piccolo Diavolo kennel on the grass" width="800" height="580" loading="lazy" decoding="async"></figure>
 
   <p>Not every <strong>Staffordshire Bull Terrier</strong> has the same level of compatibility with other animals. Before attempting any introduction, an honest assessment of your own dog's temperament is essential for both success and safety.</p>
 
@@ -153,6 +154,7 @@ custom_content: |
 
   <!--BLOCCO:5-->
   <h2>Introducing a Staffy to another dog: a detailed step-by-step protocol</h2>
+  <figure class="n-foto1"><img src="/images/foto/due-cuccioli-staffordshire-bull-terrier-nel-prato.webp" alt="Two Staffordshire Bull Terrier puppies from the same litter sitting together on the grass" width="900" height="680" loading="lazy" decoding="async"></figure>
 
   <p>An introduction between dogs needs a slow and methodical progression. Rushing means risking fights that can damage the relationship for good.</p>
 
@@ -275,6 +277,7 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>Living with small animals: rabbits, ferrets, birds, rodents</h2>
+  <figure class="n-foto1"><img src="/images/cucciolo-con-cavallo.avif" alt="A Staffordshire Bull Terrier puppy calmly sniffing a horse" width="491" height="600" loading="lazy" decoding="async"></figure>
 
   <p>A Staffy living with animals under 5 kg is always high-risk. The predatory instinct towards small, fast prey is strong in many Staffies.</p>
 
@@ -352,6 +355,7 @@ custom_content: |
 
   <!--BLOCCO:9-->
   <h2>Stress signals and body language: what to watch</h2>
+  <figure class="n-foto1"><img src="/images/foto/giovane-staffordshire-bull-terrier-sul-balcone.webp" alt="A young Staffordshire Bull Terrier sitting on a balcony, watching what is going on" width="675" height="900" loading="lazy" decoding="async"></figure>
 
   <p>Recognising stress early prevents conflicts from escalating. Dogs communicate discomfort before they react aggressively.</p>
 

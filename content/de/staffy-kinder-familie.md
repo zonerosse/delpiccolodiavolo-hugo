@@ -63,6 +63,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>Alter für Alter</h2>
+  <figure class="n-foto1"><img src="/images/foto/cuccioli-staffordshire-bull-terrier-in-piscina.webp" alt="Ein Junge sitzt mit Staffordshire Bull Terrier Welpen in einem Planschbecken" width="526" height="394" loading="lazy" decoding="async"></figure>
   <p>Die Regeln ändern sich mit dem Alter des Kindes, und die heikelste Phase ist nicht das Säuglingsalter:</p>
 
   <table tabindex="0">
@@ -92,6 +93,7 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>Was Familien wirklich gewinnen</h2>
+  <figure class="n-foto1"><img src="/images/foto/staffordshire-bull-terrier-a-casa-con-la-famiglia.webp" alt="Ein Staffordshire Bull Terrier zu Hause bei seiner Familie" width="675" height="900" loading="lazy" decoding="async"></figure>
   <p>Alle Vorsicht beiseite: in einer Familie fühlt sich diese Rasse sehr wohl. Die Hunde sind robust genug für einen lebhaften Haushalt, klein genug für eine Wohnung, anhänglich bis zur Komik, und sie binden sich häufig gerade an die Kinder statt an einen einzelnen Erwachsenen.</p>
   <p>Kinder, die mit einem Hund aufwachsen, lernen Verlässlichkeit, <a href="https://www.gazzettaufficiale.it/eli/id/2013/09/06/13A07313/sg" title="Italienische Verordnung vom 6. August 2013 zum Schutz der öffentlichen Sicherheit" target="_blank" rel="noopener" aria-label="Verantwort – Italienische Verordnung vom 6. August 2013 zum Schutz der öffentlichen Sicherheit (wird in einem neuen Tab geöffnet)">Verantwort</a>ung und eine Form von Einfühlung, die sich schwer anders vermitteln lässt. Nach über einem Jahrzehnt Welpenvermittlung wissen wir: die Familien, bei denen es am besten läuft, sind nicht die mit dem größten Garten, sondern die, die den Hund im Haus wollten, mitten im Geschehen, genau dort, wo diese Rasse sein will.</p>
   <!--/BLOCCO:7-->
@@ -105,6 +107,7 @@ custom_content: |
 
   <!--BLOCCO:9-->
   <h2>Die erste Begegnung zwischen Welpe und Kindern</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-due-mesi-in-braccio.webp" alt="Ein zwei Monate alter Staffordshire Bull Terrier Welpe auf dem Arm" width="899" height="817" loading="lazy" decoding="async"></figure>
   <p>Bereiten Sie alles vor, bevor der Welpe kommt: erklären Sie den Kindern die Regeln vorher, wählen Sie einen ruhigen Moment ohne Gäste und mit ausgeschaltetem Fernseher, halten Sie den Rückzugsort des Welpen und Leckerli bereit, und lassen Sie den Welpen vorher etwas Energie loswerden.</p>
   <p>Die Kinder sitzen still auf dem Boden, die Hände im Schoß. Ein Erwachsener bringt den Welpen an lockerer Leine herein und lässt ihn in seinem Tempo näherkommen. Schnüffelt er, kann ein Kind ihm die geschlossene Hand zum Beriechen hinhalten; ist der Welpe entspannt, genügt ein kurzes Streicheln an der Brust, drei Sekunden. Dann bleiben alle still, während der Welpe von selbst weggeht. Wiederholen Sie die Annäherung höchstens dreimal und beenden Sie die Einheit: insgesamt zehn bis fünfzehn Minuten beim ersten Treffen, mit einem guten Abschluss für den Welpen und Lob für die Kinder.</p>
   <!--/BLOCCO:9-->

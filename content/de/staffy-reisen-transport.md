@@ -90,11 +90,13 @@ custom_content: |
 
   <!--BLOCCO:6-->
   <h2>Bahn, Fähre und öffentlicher Verkehr</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-nello-zaino.webp" alt="Ein Staffordshire Bull Terrier Welpe im Transportrucksack, bereit für die Fahrt mit dem Roller" width="675" height="900" loading="lazy" decoding="async"></figure>
   <p>In Italien reisen mittlere und große Hunde bei Trenitalia und Italo an der Leine und mit Maulkorb während der ganzen Fahrt, mit eigener Fahrkarte; bei Italo nur in bestimmten Bereichen des Zuges, also bei der Buchung nachfragen. Fährgesellschaften handhaben es sehr unterschiedlich: manche erlauben Hunde in der Kabine, andere verweisen sie in Zwinger an Deck, was im Sommer für diese Rasse ein echtes Wohlbefindensproblem ist. Fragen Sie bei der Buchung ausdrücklich nach klimatisierten Zwingern oder tierfreundlichen Kabinen.</p>
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->
   <h2>Hotels und gut ankommen</h2>
+  <figure class="n-foto1"><img src="/images/foto/staffordshire-bull-terrier-in-gita.webp" alt="Ein fröhlicher Staffordshire Bull Terrier beim Ausflug im Wald mit seiner Besitzerin" width="640" height="480" loading="lazy" decoding="async"></figure>
   <p>Buchen Sie eine Unterkunft, die Hunde wirklich willkommen heißt, und stellen Sie zwei Fragen: ob der Hund allein im Zimmer bleiben darf und ob es beschatteten Außenbereich gibt. Ein Staffordshire Bull Terrier, der allein in einem fremden Zimmer bleibt, bellt häufig.</p>
   <p>Nehmen Sie das eigene Bett und die eigenen Näpfe mit, das gewohnte Futter und davon reichlich: ein Futterwechsel an einem fremden Ort erzeugt genau die Verdauungsprobleme, die Sie nicht brauchen. Notieren Sie vor der Abfahrt Adresse und Telefonnummer einer Tierarztpraxis am Zielort und führen Sie den Heimtierausweis bei den eigenen Papieren mit, nicht im Gepäck.</p>
   <!--/BLOCCO:7-->

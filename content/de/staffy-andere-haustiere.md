@@ -55,6 +55,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Das Wesen einschätzen: Verträglichkeit mit anderen Tieren</h2>
+  <figure class="n-foto1"><img src="/images/foto/cuccioli-staffordshire-bull-terrier-cucciolata-nell-erba.webp" alt="Ein Wurf Staffordshire Bull Terrier Welpen der Zucht Del Piccolo Diavolo auf der Wiese" width="800" height="580" loading="lazy" decoding="async"></figure>
 
   <p>Nicht jeder <strong>Staffordshire Bull Terrier</strong> ist gleich gut mit anderen Tieren verträglich. Bevor Sie eine Zusammenführung versuchen, ist eine ehrliche Einschätzung des Wesens Ihres Hundes entscheidend, für den Erfolg wie für die Sicherheit.</p>
 
@@ -152,6 +153,7 @@ custom_content: |
 
   <!--BLOCCO:5-->
   <h2>Zusammenführung Staffy und Hund: ein genaues Vorgehen Schritt für Schritt</h2>
+  <figure class="n-foto1"><img src="/images/foto/due-cuccioli-staffordshire-bull-terrier-nel-prato.webp" alt="Zwei Staffordshire Bull Terrier Welpen aus demselben Wurf sitzen zusammen auf der Wiese" width="900" height="680" loading="lazy" decoding="async"></figure>
 
   <p>Die Zusammenführung zweier Hunde braucht ein langsames und methodisches Vorgehen. Wer drängt, riskiert Auseinandersetzungen, die die Beziehung dauerhaft belasten.</p>
 
@@ -274,6 +276,7 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>Zusammenleben mit kleinen Tieren: Kaninchen, Frettchen, Vögel, Nager</h2>
+  <figure class="n-foto1"><img src="/images/cucciolo-con-cavallo.avif" alt="Eine Staffordshire Bull Terrier Welpin beschnuppert ruhig ein Pferd" width="491" height="600" loading="lazy" decoding="async"></figure>
 
   <p>Das Zusammenleben eines Staffys mit Tieren unter 5 kg ist immer hochriskant. Der Jagdtrieb gegenüber kleiner, schneller Beute ist bei vielen Staffys stark.</p>
 
@@ -351,6 +354,7 @@ custom_content: |
 
   <!--BLOCCO:9-->
   <h2>Stresssignale und Körpersprache: worauf man achten muss</h2>
+  <figure class="n-foto1"><img src="/images/foto/giovane-staffordshire-bull-terrier-sul-balcone.webp" alt="Ein junger Staffordshire Bull Terrier sitzt auf dem Balkon und beobachtet aufmerksam" width="675" height="900" loading="lazy" decoding="async"></figure>
 
   <p>Stress früh zu erkennen, verhindert, dass Konflikte eskalieren. Hunde zeigen Unbehagen, bevor sie aggressiv reagieren.</p>
 

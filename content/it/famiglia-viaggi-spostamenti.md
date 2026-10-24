@@ -96,12 +96,14 @@ custom_content: |
 
   <!--BLOCCO:6-->
   <h2>Treno, traghetto e mezzi pubblici</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-nello-zaino.webp" alt="Cucciolo di Staffordshire Bull Terrier nello zaino trasportino, pronto a partire in scooter" width="675" height="900" loading="lazy" decoding="async"></figure>
   <p>In Italia i cani di taglia media e grande viaggiano sui treni Trenitalia e Italo con guinzaglio e museruola per tutto il viaggio e con un biglietto apposito; su Italo solo in alcuni ambienti del treno, quindi conviene controllare quando si prenota. Sui traghetti le regole cambiano molto da compagnia a compagnia: alcune ammettono i cani in cabina, altre li chiudono nei canili sul ponte, che d'estate per questa razza è un vero problema di benessere. Quando si prenota conviene chiedere esplicitamente dei canili climatizzati o delle cabine per animali.</p>
   <p>Le regole dei mezzi pubblici urbani le decide ogni città e cambiano: vanno controllate con l'azienda di trasporto, non date per scontate.</p>
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->
   <h2>Hotel, vacanze e arrivo</h2>
+  <figure class="n-foto1"><img src="/images/foto/staffordshire-bull-terrier-in-gita.webp" alt="Staffordshire Bull Terrier felice in gita nel bosco con la sua proprietaria" width="640" height="480" loading="lazy" decoding="async"></figure>
   <p>Meglio una struttura davvero pensata per i cani che una che li tollera, e al momento della prenotazione conviene fare due domande: se il cane può restare da solo in camera, e se c'è uno spazio esterno all'ombra. Uno Staffordshire Bull Terrier lasciato solo in una camera che non conosce spesso abbaia, e una vacanza passata a scusarsi non è una vacanza.</p>
   <p>Si portano la sua cuccia e le sue ciotole, il suo cibo abituale, e in quantità sufficiente: cambiare alimentazione in un posto nuovo provoca proprio i disturbi digestivi che non si vogliono. Prima di partire conviene annotare indirizzo e telefono di un veterinario vicino alla destinazione, e tenere passaporto e libretto delle vaccinazioni con i propri documenti, non in valigia.</p>
   <!--/BLOCCO:7-->

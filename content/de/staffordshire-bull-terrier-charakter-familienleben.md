@@ -97,6 +97,7 @@ custom_content: |
 
   <!--BLOCCO:5-->
   <h2>Energie und Bewegung: wie viel wird wirklich gebraucht</h2>
+  <figure class="n-foto1"><img src="/images/foto/staffordshire-bull-terrier-sul-prato.webp" alt="Ein Staffordshire Bull Terrier liegt nach dem Spielen auf der Wiese" width="538" height="398" loading="lazy" decoding="async"></figure>
 
   <p>Der Staffy ist ein athletischer Hund mit beträchtlicher Energie, aber er ist kein Border Collie. Er muss nicht stundenlang laufen, um ausgeglichen zu sein. Er braucht regelmäßige körperliche Aktivität, geistige Stimulation und vor allem menschliche Interaktion.</p>
 
@@ -113,6 +114,7 @@ custom_content: |
 
   <!--BLOCCO:6-->
   <h2>In einer Wohnung: funktioniert das?</h2>
+  <figure class="n-foto1"><img src="/images/la-principessa-di-roma.avif" alt="Ein Staffordshire Bull Terrier sitzt in der Wohnung auf dem Teppich" width="456" height="600" loading="lazy" decoding="async"></figure>
 
   <p>Ja, es funktioniert, unter den richtigen Bedingungen. Der Staffy ist kein Gartenhund: Er ist ein Sofahund. Er bleibt lieber drinnen bei der Familie als draußen allein. Eine Wohnung ist perfekt geeignet, wenn der Besitzer anwesend und aktiv ist. Für einen älteren Menschen ändert sich vor allem das Alter des Hundes, den man wählt, wie der Ratgeber <a href="/de/staffy-aeltere-besitzer/" title="Staffordshire Bull Terrier für ältere Besitzer">Staffy und ältere Besitzer</a> erklärt.</p>
 

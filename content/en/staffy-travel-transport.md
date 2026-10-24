@@ -91,12 +91,14 @@ custom_content: |
 
   <!--BLOCCO:6-->
   <h2>Trains, ferries and public transport</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-nello-zaino.webp" alt="A Staffordshire Bull Terrier puppy in a carrier backpack, ready to leave on a scooter" width="675" height="900" loading="lazy" decoding="async"></figure>
   <p>In Italy, medium and large dogs travel on Trenitalia and Italo services on a lead and muzzled for the whole journey, with their own ticket; on Italo only in some parts of the train, so check when booking. Ferry operators vary widely: some allow dogs in cabins, others confine them to kennels on deck, which in summer is a genuine welfare concern for this breed. Ask specifically about air-conditioned kennels or pet-friendly cabins when booking.</p>
   <p>Urban public transport rules are set locally and change, so check the operator rather than assuming.</p>
   <!--/BLOCCO:6-->
 
   <!--BLOCCO:7-->
   <h2>Hotels, holidays and arriving well</h2>
+  <figure class="n-foto1"><img src="/images/foto/staffordshire-bull-terrier-in-gita.webp" alt="A happy Staffordshire Bull Terrier on a trip in the woods with its owner" width="640" height="480" loading="lazy" decoding="async"></figure>
   <p>Book accommodation that is genuinely dog-friendly rather than dog-tolerant, and ask two questions when booking: whether the dog can be left alone in the room, and whether there is shaded outdoor space. A Staffordshire Bull Terrier left alone in an unfamiliar hotel room often barks, and a holiday spent apologising is not a holiday.</p>
   <p>Bring the dog's own bed and bowls, its usual food, and enough of it: switching diet in an unfamiliar place produces exactly the digestive upset you do not want. Note the address and telephone number of a veterinary practice near your destination before you leave, and keep the passport and vaccination record with your own documents rather than in the luggage.</p>
   <!--/BLOCCO:7-->

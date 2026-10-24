@@ -68,6 +68,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>Regole per età del bambino</h2>
+  <figure class="n-foto1"><img src="/images/foto/cuccioli-staffordshire-bull-terrier-in-piscina.webp" alt="Ragazzo seduto in una piscinetta con i cuccioli di Staffordshire Bull Terrier" width="526" height="394" loading="lazy" decoding="async"></figure>
   <p>Le regole cambiano con l'età del bambino, e la fascia più delicata non è quella dei neonati:</p>
 
   <table tabindex="0">
@@ -97,6 +98,7 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>Cosa ci guadagna davvero la famiglia</h2>
+  <figure class="n-foto1"><img src="/images/foto/staffordshire-bull-terrier-a-casa-con-la-famiglia.webp" alt="Staffordshire Bull Terrier a casa con la sua famiglia" width="675" height="900" loading="lazy" decoding="async"></figure>
   <p>Messe da parte le cautele, in famiglia questa razza sta molto bene. Sono cani abbastanza robusti da reggere una casa movimentata, abbastanza piccoli da vivere bene in appartamento, affettuosi fino al comico, e tendono a legarsi proprio ai bambini più che a un solo adulto.</p>
   <p>I bambini che crescono con un cane imparano la routine, la responsabilità e una forma di empatia difficile da insegnare in altro modo. Nella nostra esperienza di affidi, in più di dieci anni, le famiglie che stanno meglio non sono quelle con il giardino più grande: sono quelle che volevano il cane in casa, in mezzo a tutto, che è esattamente dove questa razza vuole stare.</p>
   <!--/BLOCCO:7-->
@@ -110,6 +112,7 @@ custom_content: |
 
   <!--BLOCCO:9-->
   <h2>Il primo incontro fra cucciolo e bambini</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-due-mesi-in-braccio.webp" alt="Cucciolo di Staffordshire Bull Terrier di due mesi tenuto in braccio" width="899" height="817" loading="lazy" decoding="async"></figure>
   <p>Ci si prepara prima che arrivi il cucciolo: si spiegano le regole ai bambini in anticipo, si sceglie un momento tranquillo senza ospiti e con la televisione spenta, si tengono pronti la zona rifugio del cucciolo e i premi, e lo si lascia sfogare un po' prima.</p>
   <p>I bambini stanno seduti per terra, fermi, con le mani in grembo. Un adulto porta dentro il cucciolo con il guinzaglio lento e lo lascia avvicinare con i suoi tempi. Se annusa, un bambino può offrirgli da annusare la mano chiusa; se il cucciolo è rilassato, basta una carezza breve sul petto, tre secondi. Poi tutti restano fermi mentre il cucciolo si allontana da solo. L'avvicinamento si ripete al massimo tre volte e poi si chiude: dieci-quindici minuti in tutto per il primo incontro, finendo con qualcosa di bello per il cucciolo e un complimento per i bambini.</p>
   <!--/BLOCCO:9-->

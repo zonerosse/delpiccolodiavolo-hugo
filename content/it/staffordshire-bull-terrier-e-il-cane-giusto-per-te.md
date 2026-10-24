@@ -58,6 +58,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>I pro: perché lo Staffy conquista</h2>
+  <figure class="n-foto1"><img src="/images/blog/storie-famiglie-hero.webp" alt="Coppia che abbraccia il suo Staffordshire Bull Terrier" width="1000" height="1321" loading="lazy" decoding="async"></figure>
 
   <h3>1. Un affetto fuori dal comune</h3>
   <p>È una delle razze più legate alla famiglia. Ti segue ovunque, ama il contatto fisico, vive per stare con te. Se cerchi un cane "distaccato e indipendente", questo non è lui: lo Staffy vuole <em>far parte</em> della vita di casa.</p>
@@ -83,6 +84,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>I contro: cosa nessuno ti dice (e noi sì)</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-che-dorme-sul-divano.webp" alt="Cucciolo di Staffordshire Bull Terrier che dorme a pancia in su sul divano" width="506" height="900" loading="lazy" decoding="async"></figure>
   <p>Nessuna razza è perfetta, e chi ti racconta solo meraviglie non ti sta aiutando. Ecco i difetti <strong>reali</strong> dello Staffy, non per scoraggiarti, ma per farti scegliere bene.</p>
 
   <h3>1. Non sopporta la solitudine</h3>
@@ -134,6 +136,7 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>Quanto impegno richiede, in concreto</h2>
+  <figure class="n-foto1"><img src="/images/foto/giovane-staffordshire-bull-terrier-con-pettorina.webp" alt="Giovane Staffordshire Bull Terrier con la pettorina, pronto per la passeggiata della sera" width="410" height="480" loading="lazy" decoding="async"></figure>
   <p>Mettiamo in fila quello che serve, così non ci sono sorprese:</p>
   <ul>
   <li><strong>Movimento:</strong> passeggiate e gioco ogni giorno, di più da giovane; quanto, lo decide il cane</li>

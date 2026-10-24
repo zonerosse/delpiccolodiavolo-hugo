@@ -64,6 +64,7 @@ custom_content: |
 
   <!--BLOCCO:4-->
   <h2>Age by age</h2>
+  <figure class="n-foto1"><img src="/images/foto/cuccioli-staffordshire-bull-terrier-in-piscina.webp" alt="A boy sitting in a paddling pool with Staffordshire Bull Terrier puppies" width="526" height="394" loading="lazy" decoding="async"></figure>
   <p>The rules change with the child's age, and the most delicate stage is not infancy:</p>
 
   <table tabindex="0">
@@ -93,6 +94,7 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>What families actually gain</h2>
+  <figure class="n-foto1"><img src="/images/foto/staffordshire-bull-terrier-a-casa-con-la-famiglia.webp" alt="A Staffordshire Bull Terrier at home with its family" width="675" height="900" loading="lazy" decoding="async"></figure>
   <p>Setting the caution aside, this breed does very well in a family. The dogs are robust enough to cope with a busy household, small enough to live comfortably in a flat, affectionate to the point of comedy, and they tend to attach to the children specifically rather than to one adult.</p>
   <p>Children who grow up with a dog learn routine, responsibility and a form of empathy that is hard to teach any other way. In our experience of placing puppies for over a decade, the families who do best are not the ones with the largest gardens: they are the ones who wanted the dog in the house, in the middle of everything, which is exactly where this breed wants to be.</p>
   <!--/BLOCCO:7-->
@@ -106,6 +108,7 @@ custom_content: |
 
   <!--BLOCCO:9-->
   <h2>The first meeting between a puppy and the children</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-due-mesi-in-braccio.webp" alt="A two-month-old Staffordshire Bull Terrier puppy being held" width="899" height="817" loading="lazy" decoding="async"></figure>
   <p>Prepare before the puppy arrives: explain the rules to the children in advance, choose a calm moment with no guests and the television off, have the puppy's retreat area ready and treats at hand, and let the puppy use up some energy first.</p>
   <p>The children sit on the floor, still, hands in their laps. An adult brings the puppy in on a loose lead and lets it approach at its own pace. If it sniffs, a child can offer a closed hand to smell; if the puppy is relaxed, a short stroke on the chest, three seconds, is enough. Then everyone stays still while the puppy moves away by itself. Repeat the approach no more than three times and close the session: ten to fifteen minutes in all for the first meeting, ending with something good for the puppy and praise for the children.</p>
   <!--/BLOCCO:9-->

@@ -55,6 +55,7 @@ custom_content: |
 
   <!--BLOCCO:3-->
   <h2>Was für die Rasse spricht</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-sul-divano.webp" alt="Ein Staffordshire Bull Terrier Welpe ruht auf der Brust seines Besitzers auf dem Sofa" width="675" height="900" loading="lazy" decoding="async"></figure>
   <p>Zunächst Größe und Fell. Ein Hund von elf bis siebzehn Kilogramm lässt sich ins Auto heben, im Notfall eine Treppe hinauftragen und in einer Wohnung problemlos halten. Das kurze Fell braucht einmal wöchentlich einen Gumminoppen-Handschuh und sonst nichts: keine Termine beim Hundefriseur, keine Verfilzungen, keine Fahrten.</p>
   <p>Der Bewegungsbedarf ist mäßig und, entscheidend, flexibel. Zwei bis drei Gänge am Tag, deren Länge vom Hund abhängt, passen zu einem Tagesablauf mit Morgen- und Nachmittagsrunde weit besser als eine Rasse, die laufen muss. An einem schlechten Tag ersetzt Kopfarbeit in der Wohnung einen Spaziergang, ohne dass der Hund zerstörerisch wird.</p>
   <p>Und dann das Wesen, das eigentliche Argument. Diese Rasse bindet sich intensiv an ihre Menschen und sucht Körperkontakt. Für jemanden, der allein lebt, ist ein Hund, der von Raum zu Raum folgt und sich ans Bein legt, keine Nebensache, sondern der ganze Punkt. Die Routine aus Füttern, Gassigehen und Versorgen tut Stimmung, Struktur und sozialen Kontakten gut, und ein Hund, der einen zweimal täglich begeistert begrüßt, ist ein Grund aufzustehen.</p>
@@ -87,6 +88,7 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <h2>Ein realistischer Tag</h2>
+  <figure class="n-foto1"><img src="/images/foto/cucciolo-staffordshire-bull-terrier-in-braccio.webp" alt="Eine Frau hält einen Staffordshire Bull Terrier Welpen im Arm" width="675" height="900" loading="lazy" decoding="async"></figure>
   <p>Ein Tag, der für viele ältere Halter funktioniert, sieht so aus: nach dem Aufstehen ein kurzer Gang, Frühstück, dann der Hauptspaziergang am Vormittag; Ruhe zu Hause bis zum Mittag, während der Hund an einem gefüllten Kong kaut, solange Sie essen; eine Mittagsruhe, ein kurzer Gang und ein paar ruhige Nasen- oder Denkspiele zusammen; abends ein Spaziergang, Zeit auf dem Sofa und ein letzter kurzer Gang vor dem Schlafen. Wie lange die Spaziergänge dauern, entscheiden der Hund, sein Alter und die Hitze, nicht die Uhr.</p>
   <!--/BLOCCO:8-->
 
