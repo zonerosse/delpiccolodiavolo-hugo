@@ -56,7 +56,7 @@ var XF={"12014":{kcal:559,p:30.23,f:49.05,ca:46,ph:1233,zn:7.81,cu:1.343,va:16,v
  "04038":{kcal:884,p:0,f:100,ca:0,ph:0,zn:0,cu:0,va:0,vd:0,ve:149.4,io:null,o3:0,n:{it:"Olio di germe di grano",en:"Wheat germ oil",de:"Weizenkeimöl"}},
  "15088":{kcal:208,p:24.62,f:11.45,ca:382,ph:490,zn:1.31,cu:.186,va:108,vd:193,ve:2.04,io:null,o3:.982,n:{it:"Sardine in scatola con le lische, sgocciolate",en:"Canned sardines with bones, drained",de:"Sardinen aus der Dose mit Gräten, abgetropft"}},
  "KELP":{kcal:0,p:0,f:0,ca:0,ph:0,zn:0,cu:0,va:0,vd:0,ve:0,io:0,o3:0,n:{it:"Alga kelp in polvere",en:"Kelp powder",de:"Kelp-Pulver"}}};
-var CMP={zn:["05025","23567","12014","17199"],cu:["13325","17199","12036","12014"],io:["15015","01123","KELP"],ph:["15088","12014","13325"],ve:["04038","12036"]};
+var CMP={zn:["05025","23567","12014","17199"],cu:["13325","17199","12036","12014"],io:["KELP"],ph:["15088","12014","13325"],ve:["04038","12036"]};
 var SHARE={carne:.40,trippa:.16,fegato:.04,organi:.08,ossa:.12,verdure:.15,frutta:.05};
 var ACTF=[.85,1,1.25,1.6];
 var STD={a95:{p:52.1,f:13.75,ca:1.45,ph:1.16,zn:20.8,cu:2.08,io:.30,va:1754,vd:159,ve:10.4},a110:{p:45,f:13.75,ca:1.25,ph:1,zn:18,cu:1.8,io:.26,va:1515,vd:138,ve:9},
