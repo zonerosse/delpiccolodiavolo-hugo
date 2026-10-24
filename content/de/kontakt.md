@@ -183,7 +183,7 @@ custom_content: |
 
   <p>Ein Mietwagen ab Bologna oder Venedig ist der einfachste Weg. Wenn Sie übernachten, sagen Sie es uns vorher, und wir nennen Ihnen Agriturismi und kleine Hotels in der Nähe: Hier ist Urlaubsgegend, an guten Unterkünften fehlt es nicht.</p>
 
-  <p>Wenn Sie an einen Welpen aus dem Ausland denken, lesen Sie vor Ihrer Nachricht, <a href="/de/staffordshire-bull-terrier-welpe-ins-ausland/" title="Ein Welpe, der ins Ausland geht">wie eine Vermittlung ins Ausland abläuft</a>: Mindestalter, Papiere, Exportahnentafel und wie lange alles dauert. Das beantwortet das meiste, was man uns in der ersten Nachricht fragt.</p>
+  <p>Wenn Sie an einen Welpen aus dem Ausland denken, lesen Sie vor Ihrer Nachricht, <a href="/de/staffordshire-bull-terrier-welpe-ins-ausland/" title="Ein Welpe, der ins Ausland geht">wie die Vermittlung eines Welpen ins Ausland abläuft</a>: Mindestalter, Papiere, Exportahnentafel und wie lange alles dauert. Das beantwortet das meiste, was man uns in der ersten Nachricht fragt.</p>
   </div>
   </section>
   <!--/BLOCCO:5-->
@@ -231,17 +231,17 @@ custom_content: |
 
   <div class="faq-item">
   <h3>Was soll ich mitbringen?</h3>
-  <p>Sich selbst und Ihre Fragen. <a href="/de/eltern-vor-ort-was-das-bedeutet/" title="&quot;Eltern vor Ort&quot;: was das wirklich bedeutet">Wir zeigen Ihnen die Eltern</a>, die Welpen, falls es welche gibt, die Laborbefunde, die Ahnentafeln und die Räume, in denen die Hunde wirklich leben. Fragen Sie nach allem, was Sie sehen möchten.</p>
+  <p>Sich selbst und Ihre Fragen. <a href="/de/eltern-vor-ort-was-das-bedeutet/" title="&quot;Eltern vor Ort&quot;: was das wirklich bedeutet">Wir zeigen Ihnen die Eltern vor Ort</a>, die Welpen, falls es welche gibt, die Laborbefunde, die Ahnentafeln und die Räume, in denen die Hunde wirklich leben. Fragen Sie nach allem, was Sie sehen möchten.</p>
   </div>
 
   <div class="faq-item">
   <h3>Was kostet ein Welpe?</h3>
-  <p>Das sagen wir Ihnen direkt, nach einem ersten Gespräch. Was hinter der Zahl steht, erklärt <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Was kostet ein Staffordshire Bull Terrier Welpe">diese Seite</a>: <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="ENCI-Rasseseite" target="_blank" rel="noopener" aria-label="ENCI-Ahnentafel – ENCI-Rasseseite (wird in einem neuen Tab geöffnet)">ENCI-Ahnentafel</a>, vollständige Gentests beider Eltern, tierärztliche Betreuung und zwei Monate Aufzucht des Wurfs im Haus.</p>
+  <p>Das sagen wir Ihnen direkt, nach einem ersten Gespräch. Was hinter der Zahl steht, erklärt der Ratgeber zum <a href="/de/was-kostet-ein-staffordshire-bull-terrier-welpe/" title="Was kostet ein Staffordshire Bull Terrier Welpe">Welpenpreis beim Staffordshire Bull Terrier</a>: <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="ENCI-Rasseseite" target="_blank" rel="noopener" aria-label="ENCI-Ahnentafel – ENCI-Rasseseite (wird in einem neuen Tab geöffnet)">ENCI-Ahnentafel</a>, vollständige Gentests beider Eltern, tierärztliche Betreuung und zwei Monate Aufzucht des Wurfs im Haus.</p>
   </div>
   </div>
 
   <div style="text-align:center;margin-top:1.5rem">
-  <a href="/de/faq-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="Alle häufigen Fragen">Alle häufigen Fragen ansehen</a>
+  <a href="/de/faq-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="Häufige Fragen zum Staffordshire Bull Terrier">Häufige Fragen zum Staffordshire Bull Terrier</a>
   </div>
   </div>
   </section>

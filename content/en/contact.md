@@ -183,7 +183,7 @@ custom_content: |
 
   <p>A hire car from Bologna or Venice is the simplest way. If you are staying over, tell us in advance and we will point you to farm stays and small hotels nearby — this is holiday country, and there is no shortage of good places to sleep.</p>
 
-  <p>If you are considering a puppy from abroad, read <a href="/en/staffordshire-bull-terrier-puppy-abroad/" title="A puppy going abroad">how a placement abroad works</a> before you write: minimum age, documents, the export pedigree and how long it all takes. It answers most of what people ask us in their first message.</p>
+  <p>If you are considering a puppy from abroad, read <a href="/en/staffordshire-bull-terrier-puppy-abroad/" title="A puppy going abroad">how a puppy placement abroad works</a> before you write: minimum age, documents, the export pedigree and how long it all takes. It answers most of what people ask us in their first message.</p>
   </div>
   </section>
   <!--/BLOCCO:5-->
@@ -231,17 +231,17 @@ custom_content: |
 
   <div class="faq-item">
   <h3>What should I bring?</h3>
-  <p>Yourself and your questions. <a href="/en/parents-on-site-what-it-means/" title="&quot;Parents on site&quot;: what it really means">We will show you the parents</a>, the puppies if there are any, the laboratory certificates, the pedigrees and the rooms the dogs actually live in. Ask to see anything you like.</p>
+  <p>Yourself and your questions. <a href="/en/parents-on-site-what-it-means/" title="&quot;Parents on site&quot;: what it really means">We will show you the parents on site</a>, the puppies if there are any, the laboratory certificates, the pedigrees and the rooms the dogs actually live in. Ask to see anything you like.</p>
   </div>
 
   <div class="faq-item">
   <h3>How much does a puppy cost?</h3>
-  <p>We tell you directly, after a first conversation. What lies behind the figure is set out in <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="How much does a Staffordshire Bull Terrier puppy cost">this page</a>: <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="ENCI breed page" target="_blank" rel="noopener" aria-label="ENCI pedigree – ENCI breed page (opens in a new tab)">ENCI pedigree</a>, complete genetic testing on both parents, veterinary care and two months of raising a litter indoors.</p>
+  <p>We tell you directly, after a first conversation. What lies behind the figure is set out in the guide to the <a href="/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost/" title="How much does a Staffordshire Bull Terrier puppy cost">price of a Staffordshire Bull Terrier puppy</a>: <a href="https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier" title="ENCI breed page" target="_blank" rel="noopener" aria-label="ENCI pedigree – ENCI breed page (opens in a new tab)">ENCI pedigree</a>, complete genetic testing on both parents, veterinary care and two months of raising a litter indoors.</p>
   </div>
   </div>
 
   <div style="text-align:center;margin-top:1.5rem">
-  <a href="/en/faq-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="See all FAQ">See all frequently asked questions</a>
+  <a href="/en/faq-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="Staffordshire Bull Terrier FAQ">Staffordshire Bull Terrier FAQ</a>
   </div>
   </div>
   </section>

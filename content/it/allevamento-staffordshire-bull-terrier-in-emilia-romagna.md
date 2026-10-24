@@ -99,9 +99,9 @@ custom_content: |
   <span class="section-label">L'allevamento</span>
   <h2 class="section-title">Il nostro allevamento in Emilia-Romagna</h2>
   <div class="intro-block" style="max-width:800px;text-align:left">
-  <p>L'allevamento Del Piccolo Diavolo si trova a Ostellato, in provincia di Ferrara, in Emilia-Romagna, e riceve esclusivamente su appuntamento. La visita serve a vedere i cani adulti, <a href="/genitori-visibili-cosa-significa/" title="Genitori visibili: cosa significa">la madre della cucciolata</a> e il posto dove i cuccioli crescono, e a controllare di persona pedigree e referti dei test genetici. Ostellato &egrave; a circa un'ora da Bologna e da Ravenna, a meno di un'ora e mezza da Padova e Verona, a due ore e mezza da Milano. I cuccioli non vengono spediti con corrieri n&eacute; consegnati a met&agrave; strada: chi ne prende uno viene qui. Per chi scrive dall'estero c'&egrave; mia figlia Sara, che parla inglese, tedesco e spagnolo: <strong>+39 377 689 6955</strong>.</p>
+  <p>L'allevamento Del Piccolo Diavolo si trova a Ostellato, in provincia di Ferrara, in Emilia-Romagna, e riceve esclusivamente su appuntamento. La visita serve a vedere i cani adulti, la madre della cucciolata (uno dei <a href="/genitori-visibili-cosa-significa/" title="Genitori visibili: cosa significa">genitori visibili</a>) e il posto dove i cuccioli crescono, e a controllare di persona pedigree e referti dei test genetici. Ostellato &egrave; a circa un'ora da Bologna e da Ravenna, a meno di un'ora e mezza da Padova e Verona, a due ore e mezza da Milano. I cuccioli non vengono spediti con corrieri n&eacute; consegnati a met&agrave; strada: chi ne prende uno viene qui. Per chi scrive dall'estero c'&egrave; mia figlia Sara, che parla inglese, tedesco e spagnolo: <strong>+39 377 689 6955</strong>.</p>
 
-  <p>Del Piccolo Diavolo &egrave; un <a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento di Staffordshire Bull Terrier</a> attivo dal 2013 a Ostellato, in provincia di Ferrara. Lavoriamo con linee di sangue inglesi (Elitebull) e irlandesi (Lackyle), scelte per <a href="/standard-tipicita-morfologia/" title="Staffordshire Bull Terrier: tipicità di razza e morfologia">tipicit&agrave;</a>, salute e carattere.</p>
+  <p>Del Piccolo Diavolo &egrave; un <a href="/" title="Allevamento Staffordshire Bull Terrier Del Piccolo Diavolo">allevamento di Staffordshire Bull Terrier</a> attivo dal 2013 a Ostellato, in provincia di Ferrara. Lavoriamo con linee di sangue inglesi (Elitebull) e irlandesi (Lackyle), scelte per <a href="/standard-tipicita-morfologia/" title="Staffordshire Bull Terrier: tipicità di razza e morfologia">tipicit&agrave; di razza</a>, salute e carattere.</p>
   <p>I cani allevati qui hanno ottenuto 1 titolo di Campione Italiano, 3 di Giovane Campione Italiano e un 4&deg; posto al World Dog Show. Ogni riproduttore &egrave; testato per L2-HGA e HC, e i nostri cani sono esenti anche dalla mielopatia degenerativa (DM-SOD1): sono le tre malattie ereditarie della razza che hanno un test del DNA.</p>
   <p>Facciamo una cucciolata l'anno, occasionalmente due, a volte nessuna. Ogni cucciolo lo seguiamo dalla nascita all'affido, e anche dopo, per tutta la vita del cane.</p>
   <p>Per conoscere nel dettaglio il nostro metodo di lavoro, visita la pagina <a href="/chi-siamo/" title="Chi siamo - Allevamento Del Piccolo Diavolo">chi siamo</a>.</p>
@@ -214,7 +214,7 @@ custom_content: |
   </div>
 
   <div style="text-align:center;margin-top:1.5rem">
-  <a href="/faq-sullo-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="Vedi tutte le FAQ">Vedi tutte le domande frequenti</a>
+  <a href="/faq-sullo-staffordshire-bull-terrier/" class="btn btn-primary" style="min-height:44px;padding:1rem 1.8rem" title="Domande frequenti sullo Staffordshire Bull Terrier">Domande frequenti sullo Staffordshire Bull Terrier</a>
   </div>
   </div>
   </section>
