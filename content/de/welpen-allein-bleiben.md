@@ -106,7 +106,7 @@ custom_content: |
   <ul>
   <li><a href="/de/welpen-sozialisierung-zuhause/" title="Welpen zu Hause sozialisieren: die Liste für die Familie">Welpen zu Hause sozialisieren: die Liste für die Familie</a></li>
   <li><a href="/de/welpen-stubenreinheit/" title="Welpen stubenrein machen: Methode und Zeitrahmen">Welpen stubenrein machen: Methode und Zeitrahmen</a></li>
-  <li><a href="/de/welpen-denkspiele/" title="Denkspiele für Staffordshire Bull Terrier Welpen">Denkspiele für Staffordshire Bull Terrier Welpen</a></li>
+  <li><a href="/de/welpen-denkspiele/" title="Denkspiele für Welpen: Kopf und Selbstkontrolle">Denkspiele für Welpen: Kopf und Selbstkontrolle</a></li>
   <li><a href="/de/staffy-kinder-familie/" title="Staffordshire Bull Terrier mit Kindern und Familie">Staffordshire Bull Terrier mit Kindern und Familie</a></li>
   </ul>
   </div>

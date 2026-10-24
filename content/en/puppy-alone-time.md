@@ -106,7 +106,7 @@ custom_content: |
   <ul>
   <li><a href="/en/puppy-home-socialization/" title="Socialising the puppy at home: the family checklist">Socialising the puppy at home: the family checklist</a></li>
   <li><a href="/en/puppy-potty-training/" title="Puppy potty training: method, timing and setbacks">Puppy potty training: method, timing and setbacks</a></li>
-  <li><a href="/en/puppy-mental-games/" title="Mental games for Staffordshire Bull Terrier puppies">Mental games for Staffordshire Bull Terrier puppies</a></li>
+  <li><a href="/en/puppy-mental-games/" title="Mental games for puppies: mind and self-control">Mental games for puppies: mind and self-control</a></li>
   <li><a href="/en/staffy-children-family/" title="Staffordshire Bull Terrier with children: family life">Staffordshire Bull Terrier with children: family life</a></li>
   </ul>
   </div>
