@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Zucht"
 titleSeo: "Staffordshire Bull Terrier Züchter in Italien"
 date: 2025-12-28
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 notte: true
 translationKey: "home"
 description: "Ethischer Staffordshire Bull Terrier Züchter seit 2013. ENCI-Ahnentafel, Gentest-Befunde und Mikrochips der Zuchttiere online veröffentlicht und überprüfbar."
@@ -83,8 +83,10 @@ custom_content: |
   <span class="n-quando">Nach 60 Tagen</span>
   <p>Sie gehen mit <strong>ENCI-Ahnentafel</strong>, Mikrochip und Impfungen.</p></figcaption></figure>
   </div>
-  <p style="max-width:860px">Was sie vor der Abgabe gelernt haben können, und was nicht, erklären wir in <a href="/de/sozialisierte-welpen-was-das-heisst/" title="Sozialisierte Welpen: was das heißt">was „sozialisierte Welpen“ heißt</a>. Wunderübungen machen wir keine: Über den <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor und Frühstimulation: was die Forschung sagt">Bio Sensor</a> haben wir geschrieben, warum die Belege fehlen.</p>
-  <a class="n-vai" href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Wie sie geboren werden und aufwachsen <span aria-hidden="true">→</span></a>
+  <div class="n-schede">
+  <div class="n-scheda"><span class="n-quando">Die Welpen</span><h3>Staffordshire Bull Terrier Welpen</h3><p>Die Würfe, die Eltern und wie sie wachsen, von der Geburt bis zum 60. Tag.</p><a class="btn" href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Zu den Welpen</a></div>
+  <div class="n-scheda"><span class="n-quando">Frühstimulation</span><h3>Bio Sensor: was die Forschung wirklich sagt</h3><p>Was die Bio-Sensor-Methode für Welpen verspricht und wie viel die Studien belegen.</p><a class="btn" href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor: was die Forschung wirklich sagt">Über Bio Sensor lesen</a></div>
+  </div>
   </div>
   </section>
   <!--/BLOCCO:3-->

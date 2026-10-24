@@ -1,7 +1,7 @@
 ---
 title: "Allevamento Staffordshire Bull Terrier"
 date: 2025-12-28
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 notte: true
 translationKey: "home"
 description: "Allevamento etico di Staffordshire Bull Terrier dal 2013. Pedigree ENCI, referti dei test genetici e microchip dei riproduttori pubblicati e verificabili."
@@ -82,8 +82,10 @@ custom_content: |
   <span class="n-quando">Dopo i 60 giorni</span>
   <p>Partono con <strong>pedigree ENCI</strong>, microchip e vaccinazioni.</p></figcaption></figure>
   </div>
-  <p style="max-width:860px">Cosa possono avere imparato prima di partire, e cosa no, lo spieghiamo in <a href="/cuccioli-socializzati-cosa-vuol-dire/" title="Cuccioli socializzati: cosa vuol dire">cosa vuol dire cuccioli socializzati</a>. Esercizi miracolosi non ne facciamo: sul <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor e stimolazione precoce">Bio Sensor</a> abbiamo scritto perché le prove non ci sono.</p>
-  <a class="n-vai" href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">Come nascono e crescono <span aria-hidden="true">→</span></a>
+  <div class="n-schede">
+  <div class="n-scheda"><span class="n-quando">I cuccioli</span><h3>Cuccioli Staffordshire Bull Terrier</h3><p>Le cucciolate, i genitori e come crescono, dal parto ai 60 giorni.</p><a class="btn" href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">Vai ai cuccioli</a></div>
+  <div class="n-scheda"><span class="n-quando">Stimolazione precoce</span><h3>Bio Sensor: cosa dice davvero la ricerca</h3><p>Cosa promette il metodo Bio Sensor sui cuccioli e quanto è dimostrato dagli studi.</p><a class="btn" href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor: cosa dice davvero la ricerca">Leggi sul Bio Sensor</a></div>
+  </div>
   </div>
   </section>
   <!--/BLOCCO:3-->

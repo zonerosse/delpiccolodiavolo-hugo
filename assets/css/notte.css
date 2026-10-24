@@ -698,3 +698,9 @@ body.notte-pagina .footer>p:last-child{grid-area:copy;border-top:1px solid rgba(
 .pp-nuovo .dc-rd label,.pp-nuovo .pp-dn{min-width:0}
 .pp-nuovo input[type=date]{max-width:100%;min-width:0;box-sizing:border-box;-webkit-appearance:none;appearance:none}
 .pp-nuovo .dc-rd input[type=date]{width:100%}
+/* Home, «Nati e cresciuti»: due riquadri Cuccioli e Bio Sensor (24/10/2026, Paolo 4A) */
+.n-schede{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(300px,100%),1fr));gap:16px;margin-top:28px}
+.n-scheda{background:var(--n-card,#354a63);border-radius:16px;padding:20px 20px 22px;display:flex;flex-direction:column;gap:8px;overflow:hidden}
+.notte-pagina main .n-scheda h3{margin:0;color:#fff;font-size:1.25rem}
+.notte-pagina main .n-scheda p{margin:0}
+.n-scheda .btn{margin-top:8px;align-self:flex-start}

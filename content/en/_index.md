@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Kennel"
 titleSeo: "Staffordshire Bull Terrier Breeder in Italy"
 date: 2025-12-28
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 notte: true
 translationKey: "home"
 description: "Ethical Staffordshire Bull Terrier breeder since 2013. ENCI pedigree, genetic test reports and breeding stock microchips published online and verifiable."
@@ -83,8 +83,10 @@ custom_content: |
   <span class="n-quando">After 60 days</span>
   <p>They leave with an <strong>ENCI pedigree</strong>, microchip and vaccinations.</p></figcaption></figure>
   </div>
-  <p style="max-width:860px">What they can have learned before leaving, and what not, is explained in <a href="/en/socialised-puppies-what-it-means/" title="Socialised puppies: what it means">what “socialised puppies” means</a>. We do no miracle exercises: on <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor and early stimulation: what research says">Bio Sensor</a> we have written why the evidence is not there.</p>
-  <a class="n-vai" href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">How they are born and raised <span aria-hidden="true">→</span></a>
+  <div class="n-schede">
+  <div class="n-scheda"><span class="n-quando">The puppies</span><h3>Staffordshire Bull Terrier puppies</h3><p>The litters, the parents and how they grow, from birth to 60 days.</p><a class="btn" href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Go to the puppies</a></div>
+  <div class="n-scheda"><span class="n-quando">Early stimulation</span><h3>Bio Sensor: what the research actually says</h3><p>What the Bio Sensor method promises for puppies and how much the studies prove.</p><a class="btn" href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor: what the research actually says">Read about Bio Sensor</a></div>
+  </div>
   </div>
   </section>
   <!--/BLOCCO:3-->
